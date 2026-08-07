@@ -20,7 +20,7 @@ PART THE FIRST
 
 THE CHILDHOOD OF TRISTAN
 
-THE MORHOLT OUT OF [[Ireland|IRELAND]]
+THE MORHOLT OUT OF [[settings/ireland|IRELAND]]
 
 THE QUEST OF THE LADY WITH THE HAIR OF GOLD
 
@@ -58,11 +58,11 @@ PART THE FIRST
 
 THE CHILDHOOD OF TRISTAN
 
-MY LORDS, IF you would hear a high tale of [[Love|love]] and of death, here is that of Tristan and Queen Iseult; how to their full joy, but to their sorrow also, they loved each other, and how at last they died of that [[Love|love]] together upon one day; she by him and he by her.
+MY LORDS, IF you would hear a high tale of [[motifs/love|love]] and of death, here is that of Tristan and Queen Iseult; how to their full joy, but to their sorrow also, they loved each other, and how at last they died of that [[motifs/love|love]] together upon one day; she by him and he by her.
 
 Long ago, when Mark was King over Cornwall, Rivalen, King of Lyonesse, heard that Mark’s enemies waged war on him; so he crossed the sea to bring him aid; and so faithfully did he serve him with counsel and sword that Mark gave him his sister Blanchefleur, whom King Rivalen loved most marvellously.
 
-He wedded her in Tintagel Minster, but hardly was she wed when the news came to him that his old enemy Duke Morgan had fallen on Lyonesse and was wasting town and field. Then Rivalen manned his ships in haste, and took Blanchefleur with him to his far land; but she was with child. He landed below his [[Castle|castle]] of Kanoël and gave the Queen in ward to his Marshal Rohalt, and after that set off to wage his war.
+He wedded her in Tintagel Minster, but hardly was she wed when the news came to him that his old enemy Duke Morgan had fallen on Lyonesse and was wasting town and field. Then Rivalen manned his ships in haste, and took Blanchefleur with him to his far land; but she was with child. He landed below his [[settings/castle|castle]] of Kanoël and gave the Queen in ward to his Marshal Rohalt, and after that set off to wage his war.
 
 Blanchefleur waited for him continually, but he did not come home, till she learnt upon a day that Duke Morgan had killed him in foul ambush. She did not weep: she made no cry or lamentation, but her limbs failed her and grew weak, and her soul was filled with a strong desire to be rid of the flesh, and though Rohalt tried to soothe her she would not hear. Three days she awaited re-union with her lord, and on the fourth she brought forth a son; and taking him in her arms she said:
 
@@ -70,11 +70,11 @@ Blanchefleur waited for him continually, but he did not come home, till she lear
 
 After she had said these words she kissed him, and immediately when she had kissed him she died.
 
-Rohalt, the keeper of faith, took the child, but already Duke Morgan’s men besieged the [[Castle]] of Kanoël all round about. There is a wise saying: “Fool-hardy was never hardy,” and he was compelled to yield to Duke Morgan at his mercy: but for fear that Morgan might slay Rivalen’s heir the Marshal hid him among his own sons.
+Rohalt, the keeper of faith, took the child, but already Duke Morgan’s men besieged the [[settings/castle|Castle]] of Kanoël all round about. There is a wise saying: “Fool-hardy was never hardy,” and he was compelled to yield to Duke Morgan at his mercy: but for fear that Morgan might slay Rivalen’s heir the Marshal hid him among his own sons.
 
 When seven years were passed and the time had come to take the child from the women, Rohalt put Tristan under a good master, the Squire Gorvenal, and Gorvenal taught him in a few years the arts that go with barony. He taught him the use of lance and sword and ‘scutcheon and bow, and how to cast stone quoits and to leap wide dykes also: and he taught him to hate every lie and felony and to keep his given word; and he taught him the various kinds of song and harp-playing, and the hunter’s craft; and when the child rode among the young squires you would have said that he and his horse and his armour were all one thing. To see him so noble and so proud, broad in the shoulders, loyal, strong and right, all men glorified Rohalt in such a son. But Rohalt remembering Rivalen and Blanchefleur (of whose youth and grace all this was a resurrection) loved him indeed as a son, but in his heart revered him as his lord.
 
-Now all his joy was snatched from him on a day when certain merchants of Norway, having lured Tristan to their [[Ship|ship]], bore him off as a rich prize, though Tristan fought hard, as a young wolf struggles, caught in a gin. But it is a truth well proved, and every sailor knows it, that the sea will hardly bear a felon [[Ship|ship]], and gives no aid to rapine. The sea rose and cast a dark storm round the [[Ship|ship]] and drove it eight days and eight nights at random, till the mariners caught through the mist a coast of awful cliffs and sea-ward rocks whereon the sea would have ground their hull to pieces: then they did penance, knowing that the anger of the sea came of the lad, whom they had stolen in an evil hour, and they vowed his deliverance and got ready a boat to put him, if it might be, ashore: then the wind, and sea fell and the sky shone, and as the Norway ship grew small in the offing, a quiet tide cast Tristan and the boat upon a beach of sand.
+Now all his joy was snatched from him on a day when certain merchants of Norway, having lured Tristan to their [[motifs/ship|ship]], bore him off as a rich prize, though Tristan fought hard, as a young wolf struggles, caught in a gin. But it is a truth well proved, and every sailor knows it, that the sea will hardly bear a felon [[motifs/ship|ship]], and gives no aid to rapine. The sea rose and cast a dark storm round the [[motifs/ship|ship]] and drove it eight days and eight nights at random, till the mariners caught through the mist a coast of awful cliffs and sea-ward rocks whereon the sea would have ground their hull to pieces: then they did penance, knowing that the anger of the sea came of the lad, whom they had stolen in an evil hour, and they vowed his deliverance and got ready a boat to put him, if it might be, ashore: then the wind, and sea fell and the sky shone, and as the Norway ship grew small in the offing, a quiet tide cast Tristan and the boat upon a beach of sand.
 
 Painfully he climbed the cliff and saw, beyond, a lonely rolling heath and a forest stretching out and endless. And he wept, remembering Gorvenal, his father, and the land of Lyonesse. Then the distant cry of a hunt, with horse and hound, came suddenly and lifted his heart, and a tall stag broke cover at the forest edge. The pack and the hunt streamed after it with a tumult of cries and winding horns, but just as the hounds were racing clustered at the haunch, the quarry turned to bay at a stones throw from Tristan; a huntsman gave him the thrust, while all around the hunt had gathered and was winding the kill. But Tristan, seeing by the gesture of the huntsman that he made to cut the neck of the stag, cried out:
 
@@ -100,7 +100,7 @@ Now Tristan knew both speech and silence, and he answered:
 
 Tristan completed his task; to the dogs he gave the heart, the head, offal and ears; and he taught the hunt how the skinning and the ordering should be done. Then he thrust the pieces upon pikes and gave them to this huntsman and to that to carry, to one the snout to another the haunch to another the flank to another the chine; and he taught them how to ride by twos in rank, according to the dignity of the pieces each might bear.
 
-So they took the road and spoke together, till they came on a great [[Castle|castle]] and round it fields and orchards, and living waters and fish ponds and plough lands, and many ships were in its haven, for that castle stood above the sea. It was well fenced against all assault or engines of war, and its keep, which the giants had built long ago, was compact of great stones, like a chess board of vert and azure.
+So they took the road and spoke together, till they came on a great [[settings/castle|castle]] and round it fields and orchards, and living waters and fish ponds and plough lands, and many ships were in its haven, for that castle stood above the sea. It was well fenced against all assault or engines of war, and its keep, which the giants had built long ago, was compact of great stones, like a chess board of vert and azure.
 
 And when Tristan asked its name:
 
@@ -112,7 +112,7 @@ And Tristan cried:
 
 (Therein, my lords, therein had Rivalen taken Blanchefleur to wife, though their son knew it not.)
 
-When they came before the keep the horns brought the barons to the gates and King Mark himself. And when the Master Huntsman had told him all the story, and King Mark had marvelled at the good order of the cavalcade, and the cutting of the stag, and the high art of venery in all, yet most he wondered at the stranger boy, and still gazed at him, troubled and wondering whence came his tenderness, and his heart would answer him nothing; but, my lords, it was blood that spoke, and the [[Love|love]] he had long since borne his sister Blanchefleur.
+When they came before the keep the horns brought the barons to the gates and King Mark himself. And when the Master Huntsman had told him all the story, and King Mark had marvelled at the good order of the cavalcade, and the cutting of the stag, and the high art of venery in all, yet most he wondered at the stranger boy, and still gazed at him, troubled and wondering whence came his tenderness, and his heart would answer him nothing; but, my lords, it was blood that spoke, and the [[motifs/love|love]] he had long since borne his sister Blanchefleur.
 
 That evening, when the boards were cleared, a singer out of Wales, a master, came forward among the barons in Hall and sang a harper’s song, and as this harper touched the strings of his harp, Tristan who sat at the King’s feet, spoke thus to him:
 
@@ -146,9 +146,9 @@ Then remembering how King Mark could no longer live in joy without him, he summo
 
 But all the barons praised him, though they wept; and taking with him Gorvenal only, Tristan set sail for King Mark’s land.
 
-THE MORHOLT OUT OF [[Ireland|IRELAND]]
+THE MORHOLT OUT OF [[settings/ireland|IRELAND]]
 
-WHEN TRISTAN CAME back to that land, King Mark and all his Barony were mourning; for the King of [[Ireland]] had manned a fleet to ravage Cornwall, should King Mark refuse, as he had refused these fifteen years, to pay a tribute his fathers had paid. Now that year this King had sent to Tintagel, to carry his summons, a giant knight; the Morholt, whose sister he had wed, and whom no man had yet been able to overcome: so King Mark had summoned all the barons of his land to Council, by letters sealed.
+WHEN TRISTAN CAME back to that land, King Mark and all his Barony were mourning; for the King of [[settings/ireland|Ireland]] had manned a fleet to ravage Cornwall, should King Mark refuse, as he had refused these fifteen years, to pay a tribute his fathers had paid. Now that year this King had sent to Tintagel, to carry his summons, a giant knight; the Morholt, whose sister he had wed, and whom no man had yet been able to overcome: so King Mark had summoned all the barons of his land to Council, by letters sealed.
 
 On the day assigned, when the barons were gathered in hall, and when the King had taken his throne, the Morholt said these things:
 
@@ -188,13 +188,13 @@ In the first whiteness of the dawn they saw the boat at large: she went at rando
 
 It was that same port of Whitehaven where the Morholt lay, and their lady was Iseult the Fair.
 
-She alone, being skilled in philtres, could save Tristan, but she alone wished him dead. When Tristan knew himself again (for her art restored him) he knew himself to be in the land of peril. But he was yet strong to hold his own and found good crafty words. He told a tale of how he was a seer that had taken passage on a merchant ship and sailed to Spain to learn the art of reading all the stars, — of how pirates had boarded the ship and of how, though wounded, he had fled into that boat. He was believed, nor did any of the Morholt’s men know his face again, so hardly had the [[Poison|poison]] used it. But when, after forty days, Iseult of the Golden Hair had all but healed him, when already his limbs had recovered and the grace of youth returned, he knew that he must escape, and he fled and after many dangers he came again before Mark the King.
+She alone, being skilled in philtres, could save Tristan, but she alone wished him dead. When Tristan knew himself again (for her art restored him) he knew himself to be in the land of peril. But he was yet strong to hold his own and found good crafty words. He told a tale of how he was a seer that had taken passage on a merchant ship and sailed to Spain to learn the art of reading all the stars, — of how pirates had boarded the ship and of how, though wounded, he had fled into that boat. He was believed, nor did any of the Morholt’s men know his face again, so hardly had the [[motifs/poison|poison]] used it. But when, after forty days, Iseult of the Golden Hair had all but healed him, when already his limbs had recovered and the grace of youth returned, he knew that he must escape, and he fled and after many dangers he came again before Mark the King.
 
 THE QUEST OF THE LADY WITH THE HAIR OF GOLD
 
 MY LORDS, THERE were in the court of King Mark four barons the basest of men, who hated Tristan with a hard hate, for his greatness and for the tender love the King bore him. And well I know their names: Andret, Guenelon, Gondoïne and Denoalen. They knew that the King had intent to grow old childless and to leave his land to Tristan; and their envy swelled and by lies they angered the chief men of Cornwall against Tristan. They said:
 
-“There have been too many marvels in this man’s life. It was marvel enough that he beat the Morholt, but by what sorcery did he try the sea alone at the point of death, or which of us, my lords, could voyage without mast or sail? They say that warlocks can. It was sure a warlock feat, and that is a warlock harp of his pours [[Poison|poison]] daily into the King’s heart. See how he has bent that heart by power and chain of sorcery! He will be king yet, my lords, and you will hold your lands of a wizard.”
+“There have been too many marvels in this man’s life. It was marvel enough that he beat the Morholt, but by what sorcery did he try the sea alone at the point of death, or which of us, my lords, could voyage without mast or sail? They say that warlocks can. It was sure a warlock feat, and that is a warlock harp of his pours [[motifs/poison|poison]] daily into the King’s heart. See how he has bent that heart by power and chain of sorcery! He will be king yet, my lords, and you will hold your lands of a wizard.”
 
 They brought over the greater part of the barons and these pressed King Mark to take to wife some king’s daughter who should give him an heir, or else they threatened to return each man into his keep and wage him war. But the King turned against them and swore in his heart that so long as his dear nephew lived no king’s daughter should come to his bed. Then in his turn did Tristan (in his shame to be thought to serve for hire) threaten that if the King did not yield to his barons, he would himself go over sea serve some great king. At this, King Mark made a term with his barons and gave them forty days to hear his decision.
 
@@ -246,7 +246,7 @@ As the monster neared, he showed the head of a bear and red eyes like coals of f
 
 Tristan charged his horse at him so strongly that, though the beast’s mane stood with fright yet he drove at the dragon: his lance struck its scales and shivered. Then Tristan drew his sword and struck at the dragon’s head, but he did not so much as cut the hide. The beast felt the blow: with its claws he dragged at the shield and broke it from the arm; then, his breast unshielded, Tristan used the sword again and struck so strongly that the air rang all round about: but in vain, for he could not wound and meanwhile the dragon vomited from his nostrils two streams of loath-some flames, and Tristan’s helm blackened like a cinder and his horse stumbled and fell down and died; but Tristan standing on his feet thrust his sword right into the beast’s jaws, and split its heart in two.
 
-Then he cut out the tongue and put it into his hose, but as the [[Poison|poison]] came against his flesh the hero fainted and fell in the high grass that bordered the marsh around.
+Then he cut out the tongue and put it into his hose, but as the [[motifs/poison|poison]] came against his flesh the hero fainted and fell in the high grass that bordered the marsh around.
 
 Now the man he had stopped in flight was the Seneschal of Ireland and he desired Iseult the Fair: and though he was a coward, he had dared so far as to return with his companions secretly, and he found the dragon dead; so he cut off its head and bore it to the King, and claimed the great reward.
 
@@ -360,9 +360,9 @@ AS KING MARK came down to greet Iseult upon the shore, Tristan took her hand and
 
 And on the eighteenth day, having called his Barony together he took Iseult to wife. But on the wedding night, to save her friend, Brangien took her place in the darkness, for her remorse demanded even this from her; nor was the trick discovered.
 
-Then Iseult lived as a queen, but lived in sadness. She had King Mark’s tenderness and the barons’ [[Honour|honour]]; the people also loved her; she passed her days amid the frescoes on the walls and floors all strewn with flowers; good jewels had she and purple cloth and tapestry of Hungary and Thessaly too, and songs of harpers, and curtains upon which were worked leopards and eagles and popinjays and all the beasts of sea and field. And her love too she had, love high and splendid, for as is the custom among great lords, Tristan could ever be near her. At his leisure and his dalliance, night and day: for he slept in the King’s chamber as great lords do, among the lieges and the councillors. Yet still she feared; for though her love were secret and Tristan unsuspected (for who suspects a son?) Brangien knew. And Brangien seemed in the Queen’s mind like a witness spying; for Brangien alone knew what manner of life she led, and held her at mercy so. And the Queen thought Ah, if some day she should weary of serving as a slave the bed where once she passed for Queen … If Tristan should die from her betrayal! So fear maddened the Queen, but not in truth the fear of Brangien who was loyal; her own heart bred the fear.
+Then Iseult lived as a queen, but lived in sadness. She had King Mark’s tenderness and the barons’ [[concepts/honour|honour]]; the people also loved her; she passed her days amid the frescoes on the walls and floors all strewn with flowers; good jewels had she and purple cloth and tapestry of Hungary and Thessaly too, and songs of harpers, and curtains upon which were worked leopards and eagles and popinjays and all the beasts of sea and field. And her love too she had, love high and splendid, for as is the custom among great lords, Tristan could ever be near her. At his leisure and his dalliance, night and day: for he slept in the King’s chamber as great lords do, among the lieges and the councillors. Yet still she feared; for though her love were secret and Tristan unsuspected (for who suspects a son?) Brangien knew. And Brangien seemed in the Queen’s mind like a witness spying; for Brangien alone knew what manner of life she led, and held her at mercy so. And the Queen thought Ah, if some day she should weary of serving as a slave the bed where once she passed for Queen … If Tristan should die from her betrayal! So fear maddened the Queen, but not in truth the fear of Brangien who was loyal; her own heart bred the fear.
 
-Not Brangien who was faithful, not Brangien, but themselves had these lovers to fear, for hearts so stricken will lose their vigilance. Love pressed them hard, as thirst presses the dying stag to the stream; love dropped upon them from high heaven, as a hawk slipped after long hunger falls right upon the bird. And love will not be hidden. Brangien indeed by her prudence saved them well, nor ever were the Queen and her [[Lover|lover]] unguarded. But in every hour and place every man could see Love terrible, that rode them, and could see in these lovers their every sense overflowing like new wine working in the vat.
+Not Brangien who was faithful, not Brangien, but themselves had these lovers to fear, for hearts so stricken will lose their vigilance. Love pressed them hard, as thirst presses the dying stag to the stream; love dropped upon them from high heaven, as a hawk slipped after long hunger falls right upon the bird. And love will not be hidden. Brangien indeed by her prudence saved them well, nor ever were the Queen and her [[archetypes/lover|lover]] unguarded. But in every hour and place every man could see Love terrible, that rode them, and could see in these lovers their every sense overflowing like new wine working in the vat.
 
 The four felons at court who had hated Tristan of old for his prowess, watched the Queen; they had guessed that great love, and they burnt with envy and hatred and now a kind of evil joy. They planned to give news of their watching to the King, to see his tenderness turned to fury, Tristan thrust out or slain, and the Queen in torment; for though they feared Tristan their hatred mastered their fear; and, on a day, the four barons called King Mark to parley, and Andret said:
 
@@ -370,7 +370,7 @@ The four felons at court who had hated Tristan of old for his prowess, watched t
 
 The royal King shrank and answered:
 
-“Coward! What thought was that? Indeed I have placed my trust in Tristan. And rightly, for on the day when the Morholt offered combat to you all, you hung your heads and were dumb, and you trembled before him; but Tristan dared him for the [[Honour|honour]] of this land, and took mortal wounds. Therefore do you hate him, and therefore do I cherish him beyond thee, Andret, and beyond any other; but what then have you seen or heard or known?”
+“Coward! What thought was that? Indeed I have placed my trust in Tristan. And rightly, for on the day when the Morholt offered combat to you all, you hung your heads and were dumb, and you trembled before him; but Tristan dared him for the [[concepts/honour|honour]] of this land, and took mortal wounds. Therefore do you hate him, and therefore do I cherish him beyond thee, Andret, and beyond any other; but what then have you seen or heard or known?”
 
 “Naught, lord, save what your eyes could see or your ears hear. Look you and listen, Sire, if there is yet time.”
 
@@ -498,7 +498,7 @@ But the felons called on the King to take vengeance, saying:
 
 “Do justice, King: take vengeance.”
 
-And Tristan went on, “Have mercy, not on me — for why should I stand at dying? — Truly, but for you, I would have sold my [[Honour|honour]] high to cowards who, under your peace, have put hands on my body — but in homage to you I have yielded and you may do with me what you will. But, lord, remember the Queen!”
+And Tristan went on, “Have mercy, not on me — for why should I stand at dying? — Truly, but for you, I would have sold my [[concepts/honour|honour]] high to cowards who, under your peace, have put hands on my body — but in homage to you I have yielded and you may do with me what you will. But, lord, remember the Queen!”
 
 And as he knelt at the King’s feet he still complained:
 
@@ -968,7 +968,7 @@ Then said Tristan:
 
 “Those are strange words, for good comes to no land save by risk and daring, and not for all the gold of Milan would I renounce my desire to find him in his wood and bring him down.”
 
-Then Tristan went out to find Urgan in his lair, and they fought hard and long, till [[Courage|courage]] conquered strength, and Tristan, having cut off the giant’s hand, bore it back to the Duke.
+Then Tristan went out to find Urgan in his lair, and they fought hard and long, till [[concepts/courage|courage]] conquered strength, and Tristan, having cut off the giant’s hand, bore it back to the Duke.
 
 And “Sire,” said he, “since I may choose a reward according to your word, give me the little fairy dog. It was for that I conquered Urgan, and your promise stands.”
 
@@ -1060,7 +1060,7 @@ So he promised to enter Duke Hoël’s keep and to swear homage again, and to re
 
 Now when the victors were returned Kaherdin said to his father:
 
-“Sire, keep you Tristan. There is no better knight, and your land has need of such [[Courage|courage]].”
+“Sire, keep you Tristan. There is no better knight, and your land has need of such [[concepts/courage|courage]].”
 
 So when the Duke had taken counsel with his barons, he said to Tristan
 
@@ -1122,7 +1122,7 @@ And he went aboard, and a fair wind filled the sail, and she ran five days and n
 
 “In Tintagel too,” said the other, “and I saw them lately; the Queen sad, as she always is.”
 
-At the hearing of the name, Tristan suffered, and he thought that neither by guile nor [[Courage|courage]] could he see that friend, for Mark would kill him.
+At the hearing of the name, Tristan suffered, and he thought that neither by guile nor [[concepts/courage|courage]] could he see that friend, for Mark would kill him.
 
 And he thought, “Let him kill me and let me die for her, since every day I die. But you, Iseult, even if you knew me here, would you not drive me out?” And he thought, “I will try guile. I will seem mad, but with a madness that shall be great wisdom. And many shall think me a fool that have less wit than I.”
 
@@ -1316,7 +1316,7 @@ But behind the wall, Iseult of the White Hands heard all these things; and Trist
 
 With the first fair wind Kaherdin took the open, weighed anchor and hoisted sail, and ran with a light air and broke the seas. They bore rich merchandise with them, dyed silks of rare colours, enamel of Touraine and wines of Poitou, for by this ruse Kaherdin thought to reach Iseult. Eight days and nights they ran full sail to Cornwall.
 
-Now a woman’s wrath is a fearful thing, and all men fear it, for according to her love, so will her vengeance be; and their love and their hate come quickly, but their hate lives longer than their love; and they will make play with love, but not with hate. So Iseult of the White Hands, who had heard every word, and who had so loved Tristan, waited her vengeance upon what she loved most in the world. But she hid it all; and when the doors were open again she came to Tristan’s bed and served him with food as a [[Lover|lover]] should, and spoke him gently and kissed him on the lips, and asked him if Kaherdin would soon return with one to cure him … but all day long she thought upon her vengeance.
+Now a woman’s wrath is a fearful thing, and all men fear it, for according to her love, so will her vengeance be; and their love and their hate come quickly, but their hate lives longer than their love; and they will make play with love, but not with hate. So Iseult of the White Hands, who had heard every word, and who had so loved Tristan, waited her vengeance upon what she loved most in the world. But she hid it all; and when the doors were open again she came to Tristan’s bed and served him with food as a [[archetypes/lover|lover]] should, and spoke him gently and kissed him on the lips, and asked him if Kaherdin would soon return with one to cure him … but all day long she thought upon her vengeance.
 
 And Kaherdin sailed and sailed till he dropped anchor in the haven of Tintagel. He landed and took with him a cloth of rare dye and a cup well chiselled and worked, and made a present of them to King Mark, and courteously begged of him his peace and safeguard that he might traffick in his land; and the King gave him his peace before all the men of his palace.
 
@@ -1344,7 +1344,7 @@ Hear now a tale most sad and pitiful to all who love. Already was Iseult near; a
 
 Then Iseult cried out: “God does not will that I should live to see him, my love, once — even one time more. God wills my drowning in this sea. O, Tristan, had I spoken to you but once again, it is little I should have cared for a death come afterwards. But now, my love, I cannot come to you; for God so wills it, and that is the core of my grief.”
 
-And thus the Queen complained so long as the storm endured; but after five days it died down. Kaherdin hoisted the sail, the white sail, right up to the very masthead with great joy; the white sail, that Tristan might know its colour from afar: and already Kaherdin saw Britanny far off like a cloud. Hardly were these things seen and done when a calm came, and the sea lay even and untroubled. The sail bellied no longer, and the sailors held the ship now up, now down, the tide, beating backwards and forwards in vain. They saw the shore afar off, but the storm had carried their boat away and they could not land. On the third night Iseult dreamt this dream: that she held in her lap a boar’s head which befouled her skirts with blood; then she knew that she would never see her [[Lover|lover]] again alive.
+And thus the Queen complained so long as the storm endured; but after five days it died down. Kaherdin hoisted the sail, the white sail, right up to the very masthead with great joy; the white sail, that Tristan might know its colour from afar: and already Kaherdin saw Britanny far off like a cloud. Hardly were these things seen and done when a calm came, and the sea lay even and untroubled. The sail bellied no longer, and the sailors held the ship now up, now down, the tide, beating backwards and forwards in vain. They saw the shore afar off, but the storm had carried their boat away and they could not land. On the third night Iseult dreamt this dream: that she held in her lap a boar’s head which befouled her skirts with blood; then she knew that she would never see her [[archetypes/lover|lover]] again alive.
 
 Tristan was now too weak to keep his watch from the cliff of the Penmarks, and for many long days, within walls, far from the shore, he had mourned for Iseult because she did not come. Dolorous and alone, he mourned and sighed in restlessness: he was near death from desire.
 
@@ -1398,11 +1398,11 @@ PART THE FIRST
 
 THE CHILDHOOD OF TRISTAN
 
-MY LORDS, IF you would hear a high tale of [[Love|love]] and of death, here is that of Tristan and Queen Iseult; how to their full joy, but to their sorrow also, they loved each other, and how at last they died of that [[Love|love]] together upon one day; she by him and he by her.
+MY LORDS, IF you would hear a high tale of [[motifs/love|love]] and of death, here is that of Tristan and Queen Iseult; how to their full joy, but to their sorrow also, they loved each other, and how at last they died of that [[motifs/love|love]] together upon one day; she by him and he by her.
 
 Long ago, when Mark was King over Cornwall, Rivalen, King of Lyonesse, heard that Mark’s enemies waged war on him; so he crossed the sea to bring him aid; and so faithfully did he serve him with counsel and sword that Mark gave him his sister Blanchefleur, whom King Rivalen loved most marvellously.
 
-He wedded her in Tintagel Minster, but hardly was she wed when the news came to him that his old enemy Duke Morgan had fallen on Lyonesse and was wasting town and field. Then Rivalen manned his ships in haste, and took Blanchefleur with him to his far land; but she was with child. He landed below his [[Castle|castle]] of Kanoël and gave the Queen in ward to his Marshal Rohalt, and after that set off to wage his war.
+He wedded her in Tintagel Minster, but hardly was she wed when the news came to him that his old enemy Duke Morgan had fallen on Lyonesse and was wasting town and field. Then Rivalen manned his ships in haste, and took Blanchefleur with him to his far land; but she was with child. He landed below his [[settings/castle|castle]] of Kanoël and gave the Queen in ward to his Marshal Rohalt, and after that set off to wage his war.
 
 Blanchefleur waited for him continually, but he did not come home, till she learnt upon a day that Duke Morgan had killed him in foul ambush. She did not weep: she made no cry or lamentation, but her limbs failed her and grew weak, and her soul was filled with a strong desire to be rid of the flesh, and though Rohalt tried to soothe her she would not hear. Three days she awaited re-union with her lord, and on the fourth she brought forth a son; and taking him in her arms she said:
 
@@ -1410,11 +1410,11 @@ Blanchefleur waited for him continually, but he did not come home, till she lear
 
 After she had said these words she kissed him, and immediately when she had kissed him she died.
 
-Rohalt, the keeper of faith, took the child, but already Duke Morgan’s men besieged the [[Castle]] of Kanoël all round about. There is a wise saying: “Fool-hardy was never hardy,” and he was compelled to yield to Duke Morgan at his mercy: but for fear that Morgan might slay Rivalen’s heir the Marshal hid him among his own sons.
+Rohalt, the keeper of faith, took the child, but already Duke Morgan’s men besieged the [[settings/castle|Castle]] of Kanoël all round about. There is a wise saying: “Fool-hardy was never hardy,” and he was compelled to yield to Duke Morgan at his mercy: but for fear that Morgan might slay Rivalen’s heir the Marshal hid him among his own sons.
 
 When seven years were passed and the time had come to take the child from the women, Rohalt put Tristan under a good master, the Squire Gorvenal, and Gorvenal taught him in a few years the arts that go with barony. He taught him the use of lance and sword and ‘scutcheon and bow, and how to cast stone quoits and to leap wide dykes also: and he taught him to hate every lie and felony and to keep his given word; and he taught him the various kinds of song and harp-playing, and the hunter’s craft; and when the child rode among the young squires you would have said that he and his horse and his armour were all one thing. To see him so noble and so proud, broad in the shoulders, loyal, strong and right, all men glorified Rohalt in such a son. But Rohalt remembering Rivalen and Blanchefleur (of whose youth and grace all this was a resurrection) loved him indeed as a son, but in his heart revered him as his lord.
 
-Now all his joy was snatched from him on a day when certain merchants of Norway, having lured Tristan to their [[Ship|ship]], bore him off as a rich prize, though Tristan fought hard, as a young wolf struggles, caught in a gin. But it is a truth well proved, and every sailor knows it, that the sea will hardly bear a felon [[Ship|ship]], and gives no aid to rapine. The sea rose and cast a dark storm round the [[Ship|ship]] and drove it eight days and eight nights at random, till the mariners caught through the mist a coast of awful cliffs and sea-ward rocks whereon the sea would have ground their hull to pieces: then they did penance, knowing that the anger of the sea came of the lad, whom they had stolen in an evil hour, and they vowed his deliverance and got ready a boat to put him, if it might be, ashore: then the wind, and sea fell and the sky shone, and as the Norway ship grew small in the offing, a quiet tide cast Tristan and the boat upon a beach of sand.
+Now all his joy was snatched from him on a day when certain merchants of Norway, having lured Tristan to their [[motifs/ship|ship]], bore him off as a rich prize, though Tristan fought hard, as a young wolf struggles, caught in a gin. But it is a truth well proved, and every sailor knows it, that the sea will hardly bear a felon [[motifs/ship|ship]], and gives no aid to rapine. The sea rose and cast a dark storm round the [[motifs/ship|ship]] and drove it eight days and eight nights at random, till the mariners caught through the mist a coast of awful cliffs and sea-ward rocks whereon the sea would have ground their hull to pieces: then they did penance, knowing that the anger of the sea came of the lad, whom they had stolen in an evil hour, and they vowed his deliverance and got ready a boat to put him, if it might be, ashore: then the wind, and sea fell and the sky shone, and as the Norway ship grew small in the offing, a quiet tide cast Tristan and the boat upon a beach of sand.
 
 Painfully he climbed the cliff and saw, beyond, a lonely rolling heath and a forest stretching out and endless. And he wept, remembering Gorvenal, his father, and the land of Lyonesse. Then the distant cry of a hunt, with horse and hound, came suddenly and lifted his heart, and a tall stag broke cover at the forest edge. The pack and the hunt streamed after it with a tumult of cries and winding horns, but just as the hounds were racing clustered at the haunch, the quarry turned to bay at a stones throw from Tristan; a huntsman gave him the thrust, while all around the hunt had gathered and was winding the kill. But Tristan, seeing by the gesture of the huntsman that he made to cut the neck of the stag, cried out:
 
@@ -1435,7 +1435,7 @@ Then Tristan kneeled and skinned the stag before he cut it up, and quartered it 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Prima parte
+Prima parte
 
 La infanzia di Tristan
 
@@ -1443,7 +1443,7 @@ Signori miei, se desiderate ascoltare una storia d’amore e di morte, ecco quel
 
 Molto tempo fa, quando Mark regnava su Cornovaglia, Rivalen, re di Lyonesse, venne a sapere che i nemici di Mark lo stavano attaccando; così attraversò il mare per andargli in aiuto. Servì Mark con grande fedeltà, offrendogli consigli e combattendo al suo fianco con coraggio; per questo Mark gli diede sua sorella Blanchefleur, che re Rivalen amava profondamente.
 
-La sposò nella chiesa di Tintagel, ma appena il matrimonio fu celebrato gli arrivò la notizia che il suo vecchio nemico, il Duca Morgan, aveva invaso Lyonesse e stava devastando città e campagne. Allora Rivalen imbarcò rapidamente le sue navi e portò Blanchefleur con sé nel suo lontano regno; ma lei era incinta. Sbarcò sotto il suo [[Castle|castello]] di Kanoël e affidò la regina al suo maresciallo Rohalt, per poi partire a combattere la sua guerra.
+La sposò nella chiesa di Tintagel, ma appena il matrimonio fu celebrato gli arrivò la notizia che il suo vecchio nemico, il Duca Morgan, aveva invaso Lyonesse e stava devastando città e campagne. Allora Rivalen imbarcò rapidamente le sue navi e portò Blanchefleur con sé nel suo lontano regno; ma lei era incinta. Sbarcò sotto il suo [[settings/castle|castello]] di Kanoël e affidò la regina al suo maresciallo Rohalt, per poi partire a combattere la sua guerra.
 
 Blanchefleur lo aspettò continuamente, ma lui non tornò a casa, finché un giorno non seppe che il Duca Morgan lo aveva ucciso in un'imboscata malvagia. Non pianse: non emise alcun grido né lamento, ma le forze la abbandonarono e divenne debole; il suo spirito era pieno del desiderio di liberarsi da questa carne. Anche se Rohalt cercò di consolarla, lei non volle ascoltare. Attese per tre giorni il ritorno del suo signore, e al quarto giorno diede alla luce un figlio; prendendolo tra le braccia, disse:
 
@@ -1451,17 +1451,17 @@ Blanchefleur lo aspettò continuamente, ma lui non tornò a casa, finché un gio
 
 Dopo aver detto queste parole, lo baciò; e appena lo ebbe baciato, morì immediatamente.
 
-Rohalt, il custode della fede, prese il bambino, ma già gli uomini del Duca Morgan assediavano da tutte le parti il [[Castle|Castello]] di Kanoël. C’è un detto saggio: “Chi è troppo temerario non è mai davvero coraggioso”, e così Rohalt fu costretto a sottomettersi al Duca Morgan. Tuttavia, per paura che Morgan potesse uccidere l’erede di Rivalen, il maresciallo lo nascose tra i suoi stessi figli.
+Rohalt, il custode della fede, prese il bambino, ma già gli uomini del Duca Morgan assediavano da tutte le parti il [[settings/castle|Castello]] di Kanoël. C’è un detto saggio: “Chi è troppo temerario non è mai davvero coraggioso”, e così Rohalt fu costretto a sottomettersi al Duca Morgan. Tuttavia, per paura che Morgan potesse uccidere l’erede di Rivalen, il maresciallo lo nascose tra i suoi stessi figli.
 
 Quando trascorsero sette anni e arrivò il momento di prendere il bambino dalle donne, Rohalt affidò Tristan a un buon maestro, lo scudiero Gorvenal, che in pochi anni gli insegnò le arti necessarie per essere un barone. Gli insegnò l’uso della lancia e della spada, dello scudo e dell’arco, come lanciare pietre e come superare dighe ampie; gli insegnò ad odiare ogni menzogna e ogni crimine, a mantenere la parola data, nonché i vari tipi di canti e l’arte della musica con l’arpa, oltre alle tecniche della caccia. Quando il bambino cavalcava tra gli altri giovani scudieri, sembrava che lui, il suo cavallo e la sua armatura fossero un’unica entità. Vedendolo così nobile e orgoglioso, con spalle larghe, leale, forte e giusto, tutti lodavano Rohalt per aver avuto un figlio del genere. Ma Rohalt, ricordando Rivalen e Blanchefleur (le cui giovinezza e grazia erano state la fonte di tutto ciò), lo amava davvero come un figlio, ma nel suo cuore lo rispettava come il proprio signore.
 
-Ora tutta la sua gioia gli fu strappata via in un giorno in cui alcuni mercanti norvegesi, avendo attirato Tristan sulla loro [[Ship|nave]], se lo portarono via come un ricco prigioniero, nonostante Tristan si fosse difeso con tutte le sue forze, proprio come un giovane lupo che cerca di liberarsi da una trappola. Ma è una verità ampiamente dimostrata: ogni marinaio sa che il mare non tollera mai le navi dei criminali e non aiuta mai i rapinatori. La tempesta si scatenò intorno alla [[Ship|nave]] e la spinse a vagare per otto giorni e otto notti, fino a quando i marinai, attraverso la nebbia, scorsero una costa piena di scogli terribili; se non fosse stato così, l’imbarcazione sarebbe andata in frantumi. Allora si pentirono, rendendosi conto che la furia del mare derivava da quel ragazzo che avevano rapito in un momento malvagio, e giurarono di salvarlo. Prepararono quindi una barca per cercare di farlo sbarcare. Il vento e le onde si placarono, il cielo si schiarì, e mentre la nave norvegese si allontanava, una marea tranquilla portò Tristan e la barca su una spiaggia di sabbia.
+Ora tutta la sua gioia gli fu strappata via in un giorno in cui alcuni mercanti norvegesi, avendo attirato Tristan sulla loro [[motifs/ship|nave]], se lo portarono via come un ricco prigioniero, nonostante Tristan si fosse difeso con tutte le sue forze, proprio come un giovane lupo che cerca di liberarsi da una trappola. Ma è una verità ampiamente dimostrata: ogni marinaio sa che il mare non tollera mai le navi dei criminali e non aiuta mai i rapinatori. La tempesta si scatenò intorno alla [[motifs/ship|nave]] e la spinse a vagare per otto giorni e otto notti, fino a quando i marinai, attraverso la nebbia, scorsero una costa piena di scogli terribili; se non fosse stato così, l’imbarcazione sarebbe andata in frantumi. Allora si pentirono, rendendosi conto che la furia del mare derivava da quel ragazzo che avevano rapito in un momento malvagio, e giurarono di salvarlo. Prepararono quindi una barca per cercare di farlo sbarcare. Il vento e le onde si placarono, il cielo si schiarì, e mentre la nave norvegese si allontanava, una marea tranquilla portò Tristan e la barca su una spiaggia di sabbia.
 
 Con grande fatica scalò la scogliera e vide, al di là, una desolata brughiera ondulata e una foresta che si estendeva all’infinito. Pianse, ricordando Gorvenal, suo padre, e la terra di Lyonesse. Allora, improvvisamente, giunse il lontano richiamo della caccia, con cavalli e cani; questo suono gli rallegrò il cuore. Un alto cervo uscì dal nascondiglio ai margini della foresta. La muta e i cacciatori lo inseguirono tra grida e suoni di corni, ma proprio quando i cani stavano per raggiungerlo, la preda si fermò a pochi passi da Tristan; un cacciatore gli sferrò un colpo mortale, mentre tutti intorno si radunavano per completare l’uccisione. Ma Tristan, vedendo il gesto del cacciatore che indicava di tagliare la gola al cervo, gridò.
 
 “Mio signore, cosa fareste voi? È appropriato macellare una bestia così nobile come un maiale da fattoria? È questa la consuetudine di questo paese?”
 
-# “E il cacciatore rispose…”
+“E il cacciatore rispose…”
 
 “Caro amico, cosa ti sorprende? Prima di tutto, tolgo la testa di un cervo, poi la divido in quattro parti e le portiamo sulle nostre arcate per presentarle al re Mark, il nostro signore: è così che facciamo, e così fanno i Cornovagliesi da tempi immemorabili. Se invece conosci qualche usanza più nobile, insegnamela: prendi questo coltello e lo impareremo volentieri.”
 
@@ -1480,13 +1480,13 @@ Allora Tristan si inginocchiò e scuoiò l’animale prima di tagliarlo a pezzi,
 
 Now Tristan knew both speech and silence, and he answered:
 
-“No, lord; my father is a burgess. I left his home unbeknownst upon a [[Ship|ship]] that trafficked to a far place, for I wished to learn how men lived in foreign lands. But if you will accept me of the hunt I will follow you gladly and teach you other crafts of venery.”
+“No, lord; my father is a burgess. I left his home unbeknownst upon a [[motifs/ship|ship]] that trafficked to a far place, for I wished to learn how men lived in foreign lands. But if you will accept me of the hunt I will follow you gladly and teach you other crafts of venery.”
 
 “Fair Tristan, I marvel there should be a land where a burgess’s son can know what a knight’s son knows not elsewhere, but come with us since you will it; and welcome: we will bring you to King Mark, our lord.”
 
 Tristan completed his task; to the dogs he gave the heart, the head, offal and ears; and he taught the hunt how the skinning and the ordering should be done. Then he thrust the pieces upon pikes and gave them to this huntsman and to that to carry, to one the snout to another the haunch to another the flank to another the chine; and he taught them how to ride by twos in rank, according to the dignity of the pieces each might bear.
 
-So they took the road and spoke together, till they came on a great [[Castle|castle]] and round it fields and orchards, and living waters and fish ponds and plough lands, and many ships were in its haven, for that [[Castle|castle]] stood above the sea. It was well fenced against all assault or engines of war, and its keep, which the giants had built long ago, was compact of great stones, like a chess board of vert and azure.
+So they took the road and spoke together, till they came on a great [[settings/castle|castle]] and round it fields and orchards, and living waters and fish ponds and plough lands, and many ships were in its haven, for that [[settings/castle|castle]] stood above the sea. It was well fenced against all assault or engines of war, and its keep, which the giants had built long ago, was compact of great stones, like a chess board of vert and azure.
 
 And when Tristan asked its name:
 
@@ -1498,7 +1498,7 @@ And Tristan cried:
 
 (Therein, my lords, therein had Rivalen taken Blanchefleur to wife, though their son knew it not.)
 
-When they came before the keep the horns brought the barons to the gates and King Mark himself. And when the Master Huntsman had told him all the story, and King Mark had marvelled at the good order of the cavalcade, and the cutting of the stag, and the high art of venery in all, yet most he wondered at the stranger boy, and still gazed at him, troubled and wondering whence came his tenderness, and his heart would answer him nothing; but, my lords, it was blood that spoke, and the [[Love|love]] he had long since borne his sister Blanchefleur.
+When they came before the keep the horns brought the barons to the gates and King Mark himself. And when the Master Huntsman had told him all the story, and King Mark had marvelled at the good order of the cavalcade, and the cutting of the stag, and the high art of venery in all, yet most he wondered at the stranger boy, and still gazed at him, troubled and wondering whence came his tenderness, and his heart would answer him nothing; but, my lords, it was blood that spoke, and the [[motifs/love|love]] he had long since borne his sister Blanchefleur.
 
 That evening, when the boards were cleared, a singer out of Wales, a master, came forward among the barons in Hall and sang a harper’s song, and as this harper touched the strings of his harp, Tristan who sat at the King’s feet, spoke thus to him:
 
@@ -1518,7 +1518,7 @@ And Tristan answered:
 
 “Very willingly will I serve you, sire, as your harper, your huntsman and your liege.”
 
-So did he, and for three years a mutual [[Love|love]] grew up in their hearts. By day Tristan followed King Mark at pleas and in saddle; by night he slept in the royal room with the councillors and the peers, and if the King was sad he would harp to him to soothe his care. The barons also cherished him, and (as you shall learn) Dinas of Lidan, the seneschal, beyond all others. And more tenderly than the barons and than Dinas the King loved him. But Tristan could not forget, or Rohalt his father, or his master Gorvenal, or the land of Lyonesse.
+So did he, and for three years a mutual [[motifs/love|love]] grew up in their hearts. By day Tristan followed King Mark at pleas and in saddle; by night he slept in the royal room with the councillors and the peers, and if the King was sad he would harp to him to soothe his care. The barons also cherished him, and (as you shall learn) Dinas of Lidan, the seneschal, beyond all others. And more tenderly than the barons and than Dinas the King loved him. But Tristan could not forget, or Rohalt his father, or his master Gorvenal, or the land of Lyonesse.
 
 My lords, a teller that would please, should not stretch his tale too long, and truly this tale is so various and so high that it needs no straining. Then let me shortly tell how Rohalt himself, after long wandering by sea and land, came into Cornwall, and found Tristan, and showing the King the carbuncle that once was Blanchefleur’s, said:
 
@@ -1532,28 +1532,28 @@ Then remembering how King Mark could no longer live in joy without him, he summo
 
 But all the barons praised him, though they wept; and taking with him Gorvenal only, Tristan set sail for King Mark’s land.
 
-THE MORHOLT OUT OF [[Ireland|IRELAND]]
+THE MORHOLT OUT OF [[settings/ireland|IRELAND]]
 
-WHEN TRISTAN CAME back to that land, King Mark and all his Barony were mourning; for the King of [[Ireland]] had manned a fleet to ravage Cornwall, should King Mark refuse, as he had refused these fifteen years, to pay a tribute his fathers had paid. Now that year this King had sent to Tintagel, to carry his summons, a giant knight; the Morholt, whose sister he had wed, and whom no man had yet been able to overcome: so King Mark had summoned all the barons of his land to Council, by letters sealed.
+WHEN TRISTAN CAME back to that land, King Mark and all his Barony were mourning; for the King of [[settings/ireland|Ireland]] had manned a fleet to ravage Cornwall, should King Mark refuse, as he had refused these fifteen years, to pay a tribute his fathers had paid. Now that year this King had sent to Tintagel, to carry his summons, a giant knight; the Morholt, whose sister he had wed, and whom no man had yet been able to overcome: so King Mark had summoned all the barons of his land to Council, by letters sealed.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Ora Tristan conosceva sia il parlare che il silenzio, e rispose:
 
-“No, mio signore; mio padre è un borghese. Ho lasciato la sua casa di nascosto su una [[Ship|navica]] che viaggiava verso luoghi lontani, perché desideravo conoscere come vivono le persone in terre straniere. Ma se acconsentite ad accettarmi nella caccia, vi seguirò volentieri e vi insegnerò altre tecniche legate alla caccia.”
+“No, mio signore; mio padre è un borghese. Ho lasciato la sua casa di nascosto su una [[motifs/ship|navica]] che viaggiava verso luoghi lontani, perché desideravo conoscere come vivono le persone in terre straniere. Ma se acconsentite ad accettarmi nella caccia, vi seguirò volentieri e vi insegnerò altre tecniche legate alla caccia.”
 
 “Caro Tristan, mi meraviglio che esista una terra dove il figlio di un borghese possa imparare ciò che il figlio di un cavaliere non può apprendere altrove. Ma vieni con noi, se lo desideri; sei il benvenuto: ti porteremo dal re Mark, nostro signore.”
 
 Tristan completò il suo compito; ai cani diede il cuore, la testa, le interiora e le orecchie; insegnò loro come spellare e disporre correttamente i pezzi di carne. Poi infilzò i pezzi su lance e li diede a questo cacciatore e a quello per portarli: a uno il muso, a un altro la coscia, a un altro il fianco, a un altro la parte posteriore del corpo; inoltre insegnò loro come cavalcare in formazione di due, in base al rango e alla dignità dei pezzi che ognuno doveva portare.
 
-Così presero la strada e continuarono a parlare insieme, finché non arrivarono davanti a un grande [[Castle|castello]] circondato da campi, orti, acque correnti, stagni pieni di pesci e terreni coltivabili; nel suo porto si trovavano molte navi, poiché quel [[Castle|castello]] sorgeva sopra il mare. Era ben difeso contro qualsiasi attacco o arma da guerra, e la sua torre, costruita molto tempo prima dai giganti, era composta da enormi pietre disposte in modo simile a una scacchiera con caselle di colore blu scuro e azzurro cielo.
+Così presero la strada e continuarono a parlare insieme, finché non arrivarono davanti a un grande [[settings/castle|castello]] circondato da campi, orti, acque correnti, stagni pieni di pesci e terreni coltivabili; nel suo porto si trovavano molte navi, poiché quel [[settings/castle|castello]] sorgeva sopra il mare. Era ben difeso contro qualsiasi attacco o arma da guerra, e la sua torre, costruita molto tempo prima dai giganti, era composta da enormi pietre disposte in modo simile a una scacchiera con caselle di colore blu scuro e azzurro cielo.
 
 E quando Tristan chiese il suo nome…
 
 “Buon signore”, dissero, “noi lo chiamiamo Tintagel”.
 
-# E Tristan pianse
+E Tristan pianse
 
 “Tintagel! Benedetto tu da Dio, e benedetti coloro che vi abitano.”
 
@@ -1575,7 +1575,7 @@ Quando la canzone finì, il Re rimase in silenzio per molto tempo, ma alla fine 
 
 “Figlio mio, benedetto sia colui che ti ha insegnato, e benedetto tu davanti a Dio; perché Dio ama i buoni cantori. Le loro voci e quella dell’arpa entrano nell’anima degli uomini, risvegliano bei ricordi e li aiutano a dimenticare molte lacrime e molti peccati. È per la nostra gioia che sei venuto sotto questo tetto, per restare con noi per molto tempo, amico mio.”
 
-#E Tristan rispose:
+E Tristan rispose:
 
 Con grande piacere vi servirò, signore, come vostro arpista, vostro cacciatore e vostro fedele suddito.
 
@@ -1593,9 +1593,9 @@ Poi, ricordando che il re Mark non poteva più vivere felicemente senza di lui, 
 
 Ma tutti i baroni lo lodarono, anche se piangevano; e prendendo con sé soltanto Gorvenal, Tristan salpò verso la terra del re Mark.
 
-Il Morholt d’[[Ireland|Irlanda]]
+Il Morholt d’[[settings/ireland|Irlanda]]
 
-Quando Tristan tornò in quella terra, Re Mark e tutti i suoi nobili erano in lutto; infatti il re d’[[Ireland|Irlanda]] aveva radunato una flotta per devastare la Cornovaglia, nel caso Re Mark rifiutasse, come aveva fatto negli ultimi quindici anni, di pagare il tributo che i suoi antenati erano soliti versare. Quell’anno, il re inviò a Tintagel un cavaliere gigante per portargli la sua convocazione: si trattava del Morholt, di cui aveva sposato la sorella e che nessuno era ancora riuscito a sconfiggere. Per questo motivo Re Mark aveva convocato tutti i nobili del suo regno con lettere sigillate.
+Quando Tristan tornò in quella terra, Re Mark e tutti i suoi nobili erano in lutto; infatti il re d’[[settings/ireland|Irlanda]] aveva radunato una flotta per devastare la Cornovaglia, nel caso Re Mark rifiutasse, come aveva fatto negli ultimi quindici anni, di pagare il tributo che i suoi antenati erano soliti versare. Quell’anno, il re inviò a Tintagel un cavaliere gigante per portargli la sua convocazione: si trattava del Morholt, di cui aveva sposato la sorella e che nessuno era ancora riuscito a sconfiggere. Per questo motivo Re Mark aveva convocato tutti i nobili del suo regno con lettere sigillate.
 
 
 
@@ -1604,7 +1604,7 @@ Quando Tristan tornò in quella terra, Re Mark e tutti i suoi nobili erano in lu
 
 On the day assigned, when the barons were gathered in hall, and when the King had taken his throne, the Morholt said these things:
 
-“King Mark, hear for the last time the summons of the King of [[Ireland]], my lord. He arraigns you to pay at last that which you have owed so long, and because you have refused it too long already he bids you give over to me this day three hundred youths and three hundred maidens drawn by lot from among the Cornish folk. But if so be that any would prove by trial of combat that the King of [[Ireland]] receives this tribute without right, I will take up his wager. Which among you, my Cornish lords, will fight to redeem this land?”
+“King Mark, hear for the last time the summons of the King of [[settings/ireland|Ireland]], my lord. He arraigns you to pay at last that which you have owed so long, and because you have refused it too long already he bids you give over to me this day three hundred youths and three hundred maidens drawn by lot from among the Cornish folk. But if so be that any would prove by trial of combat that the King of [[settings/ireland|Ireland]] receives this tribute without right, I will take up his wager. Which among you, my Cornish lords, will fight to redeem this land?”
 
 The barons glanced at each other but all were silent.
 
@@ -1622,15 +1622,15 @@ And each rousing the other to the fray they passed into the isle.
 
 No man saw the sharp combat; but thrice the salt sea-breeze had wafted or seemed to waft a cry of fury to the land, when at last towards the hour of noon the purple sail showed far off; the Irish boat appeared from the island shore, and there rose a clamour of “the Morholt!” When suddenly, as the boat grew larger on the sight and topped a wave, they saw that Tristan stood on the prow holding a sword in his hand. He leapt ashore, and as the mothers kissed the steel upon his feet he cried to the Morholt’s men:
 
-“My lords of [[Ireland]], the Morholt fought well. See here, my sword is broken and a splinter of it stands fast in his head. Take you that steel, my lords; it is the tribute of Cornwall.”
+“My lords of [[settings/ireland|Ireland]], the Morholt fought well. See here, my sword is broken and a splinter of it stands fast in his head. Take you that steel, my lords; it is the tribute of Cornwall.”
 
-Then he went up to Tintagel and as he went the people he had freed waved green boughs, and rich cloths were hung at the windows. But when Tristan reached the [[Castle|castle]] with joy, songs and joy-bells sounding about him, he drooped in the arms of King Mark, for the blood ran from his wounds.
+Then he went up to Tintagel and as he went the people he had freed waved green boughs, and rich cloths were hung at the windows. But when Tristan reached the [[settings/castle|castle]] with joy, songs and joy-bells sounding about him, he drooped in the arms of King Mark, for the blood ran from his wounds.
 
 The Morholt’s men, they landed in Ireland quite cast down. For when ever he came back into Whitehaven the Morholt had been wont to take joy in the sight of his clan upon the shore, of the Queen his sister, and of his niece Iseult the Fair. Tenderly had they cherished him of old, and had he taken some wound, they healed him, for they were skilled in balms and potions. But now their magic was vain, for he lay dead and the splinter of the foreign brand yet stood in his skull till Iseult plucked it out and shut it in a chest.
 
 From that day Iseult the Fair knew and hated the name of Tristan of Lyonesse.
 
-But over in Tintagel Tristan languished, for there trickled a poisonous blood from his wound. The doctors found that the Morholt had thrust into him a poisoned barb, and as their potions and their theriac could never heal him they left him in God’s hands. So hateful a stench came from his wound that all his dearest friends fled him, all save King Mark, Gorvenal and Dinas of Lidan. They always could stay near his couch because their [[Love|love]] overcame their abhorrence. At last Tristan had himself carried into a boat apart on the shore; and lying facing the sea he awaited death, for he thought: “I must die; but it is good to see the sun and my heart is still high. I would like to try the sea that brings all chances. … I would have the sea bear me far off alone, to what land no matter, so that it heal me of my wound.”
+But over in Tintagel Tristan languished, for there trickled a poisonous blood from his wound. The doctors found that the Morholt had thrust into him a poisoned barb, and as their potions and their theriac could never heal him they left him in God’s hands. So hateful a stench came from his wound that all his dearest friends fled him, all save King Mark, Gorvenal and Dinas of Lidan. They always could stay near his couch because their [[motifs/love|love]] overcame their abhorrence. At last Tristan had himself carried into a boat apart on the shore; and lying facing the sea he awaited death, for he thought: “I must die; but it is good to see the sun and my heart is still high. I would like to try the sea that brings all chances. … I would have the sea bear me far off alone, to what land no matter, so that it heal me of my wound.”
 
 He begged so long that King Mark accepted his desire. He bore him into a boat with neither sail nor oar, and Tristan wished that his harp only should be placed beside him: for sails he could not lift, nor oar ply, nor sword wield; and as a seaman on some long voyage casts to the sea a beloved companion dead, so Gorvenal pushed out to sea that boat where his dear son lay; and the sea drew him away.
 
@@ -1640,14 +1640,14 @@ In the first whiteness of the dawn they saw the boat at large: she went at rando
 
 It was that same port of Whitehaven where the Morholt lay, and their lady was Iseult the Fair.
 
-She alone, being skilled in philtres, could save Tristan, but she alone wished him dead. When Tristan knew himself again (for her art restored him) he knew himself to be in the land of peril. But he was yet strong to hold his own and found good crafty words. He told a tale of how he was a seer that had taken passage on a merchant [[Ship|ship]] and sailed to Spain to learn the art of reading all the stars, — of how pirates had boarded the [[Ship|ship]] and of how, though wounded, he had fled into that boat. He was believed, nor did any of the Morholt’s men know his face again, so hardly had the [[Poison|poison]] used it. But when, after forty days, Iseult of the Golden Hair had all but healed him, when already his limbs had recovered and the grace of youth returned, he knew that he must escape, and he fled and after many dangers he came again before Mark the King.
+She alone, being skilled in philtres, could save Tristan, but she alone wished him dead. When Tristan knew himself again (for her art restored him) he knew himself to be in the land of peril. But he was yet strong to hold his own and found good crafty words. He told a tale of how he was a seer that had taken passage on a merchant [[motifs/ship|ship]] and sailed to Spain to learn the art of reading all the stars, — of how pirates had boarded the [[motifs/ship|ship]] and of how, though wounded, he had fled into that boat. He was believed, nor did any of the Morholt’s men know his face again, so hardly had the [[motifs/poison|poison]] used it. But when, after forty days, Iseult of the Golden Hair had all but healed him, when already his limbs had recovered and the grace of youth returned, he knew that he must escape, and he fled and after many dangers he came again before Mark the King.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Nel giorno stabilito, quando i baroni si riunirono nella sala e il Re salì al trono, Morholt disse queste cose:
 
-“Re Mark, ascoltate per l’ultima volta la richiesta del Re di [[Ireland|Irlanda]], mio signore. Vi esige che paghiate finalmente ciò che avete dovuto per tanto tempo; poiché avete rifiutato troppo a lungo, vi ordina oggi stesso di consegnarmi trecento giovani e trecento fanciulle scelti a caso tra il popolo cornovagliese. Ma se qualcuno dovesse dimostrare, attraverso un duello, che il Re di [[Ireland|Irlanda]] riceve questo tributo ingiustamente, accetterò la sua scommessa. Chi di voi, signori della Cornovaglia, sarà disposto a combattere per riscattare questa terra?”
+“Re Mark, ascoltate per l’ultima volta la richiesta del Re di [[settings/ireland|Irlanda]], mio signore. Vi esige che paghiate finalmente ciò che avete dovuto per tanto tempo; poiché avete rifiutato troppo a lungo, vi ordina oggi stesso di consegnarmi trecento giovani e trecento fanciulle scelti a caso tra il popolo cornovagliese. Ma se qualcuno dovesse dimostrare, attraverso un duello, che il Re di [[settings/ireland|Irlanda]] riceve questo tributo ingiustamente, accetterò la sua scommessa. Chi di voi, signori della Cornovaglia, sarà disposto a combattere per riscattare questa terra?”
 
 I baroni si scambiarono degli sguardi, ma rimasero tutti in silenzio.
 
@@ -1665,15 +1665,15 @@ E, incoraggiandosi a vicenda, entrarono nell’isola.
 
 Nessuno vide quel feroce combattimento; ma tre volte la brezza marina portò, o sembrò portare, verso la terra il grido di furia dei combattenti. Finalmente, verso mezzogiorno, la vela viola apparve in lontananza; la barca irlandese emerse dalla riva dell’isola e si levò un coro che gridava “Il Morholt!”. Improvvisamente, quando la barca divenne più visibile e superò un'onda, videro che Tristan stava in piedi sulla prua, con una spada in mano. Saltò a riva, e mentre le madri baciavano la lama sulle sue gambe, lui gridò ai soldati del Morholt:
 
-“Miei signori d’[[Ireland|Irlanda]], il Morholt ha combattuto bene. Guardate: la mia spada è spezzata e un frammento di essa è rimasto conficcato nella sua testa. Prendete questo pezzo di acciaio, miei signori; è il tributo del Cornovaglia.”
+“Miei signori d’[[settings/ireland|Irlanda]], il Morholt ha combattuto bene. Guardate: la mia spada è spezzata e un frammento di essa è rimasto conficcato nella sua testa. Prendete questo pezzo di acciaio, miei signori; è il tributo del Cornovaglia.”
 
-Poi si diresse verso Tintagel e lungo la strada le persone che aveva liberato gli sventolavano rami verdi; dalle finestre pendevano stoffe preziose. Ma quando Tristan arrivò al [[Castle|castello]], circondato da canti e campane di gioia, si accasciò tra le braccia del re Mark: il sangue continuava a sgorgare dalle sue ferite.
+Poi si diresse verso Tintagel e lungo la strada le persone che aveva liberato gli sventolavano rami verdi; dalle finestre pendevano stoffe preziose. Ma quando Tristan arrivò al [[settings/castle|castello]], circondato da canti e campane di gioia, si accasciò tra le braccia del re Mark: il sangue continuava a sgorgare dalle sue ferite.
 
 Gli uomini di Morholt sbarcarono in Irlanda in uno stato di profonda disperazione. Poiché ogni volta che Morholt tornava a Whitehaven, era solito gioire nel vedere il suo clan sulla riva, sua sorella la Regina e sua nipote Iseult la Bella. Un tempo lo avevano amato molto; se si feriva, lo curavano con erbe e pozioni magiche. Ma ora la loro magia era inutile: Morholt giaceva morto, e quel frammento di metallo straniero rimaneva ancora nel suo cranio, fino a quando Iseult non lo estrasse e lo mise in un baule.
 
 Da quel giorno, Iseult la Bella conobbe e odiò il nome di Tristano di Lione.
 
-Ma a Tintagel Tristan soffriva terribilmente: dalla sua ferita sgorgava un sangue velenoso. I medici scoprirono che il Morholt gli aveva conficcato una barba avvelenata, e poiché le loro pozioni non riuscivano a guarirlo, lo abbandonarono nelle mani di Dio. Dal suo ferimento emanava un odore così nauseabondo che tutti i suoi cari amici lo lasciarono, tranne Re Mark, Gorvenal e Dinas di Lidan. Essi poterono rimanere al suo fianco perché il loro [[Love|amore]] superò ogni disgusto. Alla fine Tristan fu portato su una barca, lontano dalla riva; sdraiato con il viso rivolto verso il mare, aspettava la morte, pensando: “Devo morire. Ma è bello vedere il sole; il mio cuore è ancora pieno di speranza. Vorrei che il mare mi portasse lontano, in qualche terra sconosciuta, affinché possa guarire dalla mia ferita.”
+Ma a Tintagel Tristan soffriva terribilmente: dalla sua ferita sgorgava un sangue velenoso. I medici scoprirono che il Morholt gli aveva conficcato una barba avvelenata, e poiché le loro pozioni non riuscivano a guarirlo, lo abbandonarono nelle mani di Dio. Dal suo ferimento emanava un odore così nauseabondo che tutti i suoi cari amici lo lasciarono, tranne Re Mark, Gorvenal e Dinas di Lidan. Essi poterono rimanere al suo fianco perché il loro [[motifs/love|amore]] superò ogni disgusto. Alla fine Tristan fu portato su una barca, lontano dalla riva; sdraiato con il viso rivolto verso il mare, aspettava la morte, pensando: “Devo morire. Ma è bello vedere il sole; il mio cuore è ancora pieno di speranza. Vorrei che il mare mi portasse lontano, in qualche terra sconosciuta, affinché possa guarire dalla mia ferita.”
 
 Pregò così a lungo che il Re Mark acconsentì al suo desiderio. Lo fece salire su una barca senza vela né remo, e Tristan sperava soltanto che la sua arpa venisse posta accanto a lui: non poteva infatti issare vele, remare né impugnare una spada; e come un marinaio, durante un lungo viaggio, getta in mare il proprio caro compagno morto, così Gorvenal spinse quella barca con suo figlio adorato al largo. E il mare lo portò via.
 
@@ -1692,9 +1692,9 @@ Solo lei, essendo esperta nella preparazione di filtri amorosi, poteva salvare T
 
 THE QUEST OF THE LADY WITH THE HAIR OF GOLD
 
-MY LORDS, THERE were in the court of King Mark four barons the basest of men, who hated Tristan with a hard hate, for his greatness and for the tender [[Love|love]] the King bore him. And well I know their names: Andret, Guenelon, Gondoïne and Denoalen. They knew that the King had intent to grow old childless and to leave his land to Tristan; and their envy swelled and by lies they angered the chief men of Cornwall against Tristan. They said:
+MY LORDS, THERE were in the court of King Mark four barons the basest of men, who hated Tristan with a hard hate, for his greatness and for the tender [[motifs/love|love]] the King bore him. And well I know their names: Andret, Guenelon, Gondoïne and Denoalen. They knew that the King had intent to grow old childless and to leave his land to Tristan; and their envy swelled and by lies they angered the chief men of Cornwall against Tristan. They said:
 
-“There have been too many marvels in this man’s life. It was marvel enough that he beat the Morholt, but by what sorcery did he try the sea alone at the point of death, or which of us, my lords, could voyage without mast or sail? They say that warlocks can. It was sure a warlock feat, and that is a warlock harp of his pours [[Poison|poison]] daily into the King’s heart. See how he has bent that heart by power and chain of sorcery! He will be king yet, my lords, and you will hold your lands of a wizard.”
+“There have been too many marvels in this man’s life. It was marvel enough that he beat the Morholt, but by what sorcery did he try the sea alone at the point of death, or which of us, my lords, could voyage without mast or sail? They say that warlocks can. It was sure a warlock feat, and that is a warlock harp of his pours [[motifs/poison|poison]] daily into the King’s heart. See how he has bent that heart by power and chain of sorcery! He will be king yet, my lords, and you will hold your lands of a wizard.”
 
 They brought over the greater part of the barons and these pressed King Mark to take to wife some king’s daughter who should give him an heir, or else they threatened to return each man into his keep and wage him war. But the King turned against them and swore in his heart that so long as his dear nephew lived no king’s daughter should come to his bed. Then in his turn did Tristan (in his shame to be thought to serve for hire) threaten that if the King did not yield to his barons, he would himself go over sea serve some great king. At this, King Mark made a term with his barons and gave them forty days to hear his decision.
 
@@ -1716,15 +1716,15 @@ King Mark took it, and called his barons and Tristan and said:
 
 Then the barons saw themselves mocked and cheated, and they turned with sneers to Tristan, for they thought him to have counselled the trick. But Tristan, when he had looked on the Hair of Gold, remembered Iseult the Fair and smiled and said this:
 
-“King Mark, can you not see that the doubts of these lords shame me? You have designed in vain. I will go seek the Lady with the Hair of Gold. The search is perilous: never the less, my uncle, I would once more put my body and my life into peril for you; and that your barons may know I [[Love|love]] you loyally, I take this oath, to die on the adventure or to bring back to this [[Castle|castle]] of Tintagel the Queen with that fair hair.”
+“King Mark, can you not see that the doubts of these lords shame me? You have designed in vain. I will go seek the Lady with the Hair of Gold. The search is perilous: never the less, my uncle, I would once more put my body and my life into peril for you; and that your barons may know I [[motifs/love|love]] you loyally, I take this oath, to die on the adventure or to bring back to this [[settings/castle|castle]] of Tintagel the Queen with that fair hair.”
 
-He fitted out a great [[Ship|ship]] and loaded it with corn and wine, with honey and all manner of good things; he manned it with Gorvenal and a hundred young knights of high birth, chosen among the bravest, and he clothed them in coats of home-spun and in hair cloth so that they seemed merchants only: but under the deck he hid rich cloth of gold and scarlet as for a great king’s messengers.
+He fitted out a great [[motifs/ship|ship]] and loaded it with corn and wine, with honey and all manner of good things; he manned it with Gorvenal and a hundred young knights of high birth, chosen among the bravest, and he clothed them in coats of home-spun and in hair cloth so that they seemed merchants only: but under the deck he hid rich cloth of gold and scarlet as for a great king’s messengers.
 
-When the [[Ship|ship]] had taken the sea the helmsman asked him:
+When the [[motifs/ship|ship]] had taken the sea the helmsman asked him:
 
 “Lord, to what land shall I steer?”
 
-“Sir,” said he, “steer for [[Ireland]], straight for Whitehaven harbour.”
+“Sir,” said he, “steer for [[settings/ireland|Ireland]], straight for Whitehaven harbour.”
 
 At first Tristan made believe to the men of Whitehaven that his friends were merchants of England come peacefully to barter; but as these strange merchants passed the day in the useless games of draughts and chess, and seemed to know dice better than the bargain price of corn, Tristan feared discovery and knew not how to pursue his quest.
 
@@ -1736,9 +1736,9 @@ Now it chanced once upon the break of day that he heard a cry so terrible that o
 
 “Lady,” said Tristan, “make no mock of me, but tell me straight: Can a man born of woman kill this thing?”
 
-“Fair sir, and gentle,” she said, “I cannot say; but this is sure: Twenty knights and tried have run the venture, because the King of [[Ireland]] has published it that he will give his daughter, Iseult the Fair, to whomsoever shall kill the beast; but it has devoured them all.”
+“Fair sir, and gentle,” she said, “I cannot say; but this is sure: Twenty knights and tried have run the venture, because the King of [[settings/ireland|Ireland]] has published it that he will give his daughter, Iseult the Fair, to whomsoever shall kill the beast; but it has devoured them all.”
 
-Tristan left the woman and returning to his [[Ship|ship]] armed himself in secret, and it was a fine sight to see so noble a charger and so good a knight come out from such a merchant-hull: but the haven was empty of folk, for the dawn had barely broken and none saw him as he rode to the gate. And hardly had he passed it, when he met suddenly five men at full gallop flying towards the town. Tristan seized one by his hair, as he passed, and dragged him over his mount’s crupper and held him fast:
+Tristan left the woman and returning to his [[motifs/ship|ship]] armed himself in secret, and it was a fine sight to see so noble a charger and so good a knight come out from such a merchant-hull: but the haven was empty of folk, for the dawn had barely broken and none saw him as he rode to the gate. And hardly had he passed it, when he met suddenly five men at full gallop flying towards the town. Tristan seized one by his hair, as he passed, and dragged him over his mount’s crupper and held him fast:
 
 “God save you, my lord,” said he, “and whence does the dragon come?” And when the other had shown him by what road, he let him go.
 
@@ -1753,7 +1753,7 @@ La ricerca della signora dai capelli d’oro
 
 Miei signori, nella corte del re Mark c'erano quattro baroni tra i più spregevoli d’uomo, che odiavano profondamente Tristan per la sua grandezza e per l’amore tenero che il re provava per lui. Conosco bene i loro nomi: Andret, Guenelon, Gondoïne e Denoalen. Sapevano che il re aveva intenzione di morire senza eredi e di lasciare il suo regno a Tristan; la loro invidia crebbe sempre di più, e con menzogne riuscirono ad attirare l’ostilità dei principali nobili della Cornovaglia contro di lui. Dissero.
 
-“Nella vita di quest’uomo ci sono stati troppi miracoli. È già stato un miracolo che riuscisse a sconfiggere il Morholt, ma con quale magia ha cercato di attraversare il mare da solo, sul punto di morte? E quale di noi, miei signori, potrebbe navigare senza alberi né vele? Dicono che i stregoni possano farlo. Senza dubbio è stato un atto di stregoneria. È come se suonasse una cetra magica, versando ogni giorno il suo [[Poison|veleno]] nel cuore del Re. Vedete come ha piegato quel cuore con il potere e le catene della magia. Sarà comunque re, miei signori. E voi governerete le vostre terre sotto il dominio di un mago.”
+“Nella vita di quest’uomo ci sono stati troppi miracoli. È già stato un miracolo che riuscisse a sconfiggere il Morholt, ma con quale magia ha cercato di attraversare il mare da solo, sul punto di morte? E quale di noi, miei signori, potrebbe navigare senza alberi né vele? Dicono che i stregoni possano farlo. Senza dubbio è stato un atto di stregoneria. È come se suonasse una cetra magica, versando ogni giorno il suo [[motifs/poison|veleno]] nel cuore del Re. Vedete come ha piegato quel cuore con il potere e le catene della magia. Sarà comunque re, miei signori. E voi governerete le vostre terre sotto il dominio di un mago.”
 
 Portarono con sé la maggior parte dei baroni, i quali pressarono Re Mark affinché sposasse una principessa per avere un erede; altrimenti minacciarono di far ritornare ognuno di loro nelle proprie terre e di dichiarargli guerra. Ma il re si rivoltò contro di loro e giurò nel suo cuore che, finché il suo caro nipote fosse vivo, nessuna principessa avrebbe condiviso il suo letto. Allora Tristan, per non essere considerato un mercenario, minacciò a sua volta che, se il re non cedesse ai suoi baroni, lui stesso sarebbe andato lontano, a servire qualche grande sovrano. Di fronte a questa minaccia, Re Mark stipulò un accordo con i suoi baroni, concedendo loro quaranta giorni per ascoltare la sua decisione.
 
@@ -1775,15 +1775,15 @@ Proprio in quel momento, davanti alla sua finestra che si affacciava sul mare, d
 
 Allora i baroni si resero conto di essere stati derisi e ingannati, e si rivolsero con sorrisi beffardi verso Tristan, pensando che fosse stato lui ad architettare quell’inganno. Ma Tristan, dopo aver visto quella “Capigliatura d’Oro”, ricordò di Iseult la Bella e sorrise, dicendo:
 
-“Re Mark, non vedete forse che i dubbi di questi signori mi mettono in imbarazzo? Avete pianificato invano. Andrò a cercare la Dama dai Capelli d’Oro. La ricerca è pericolosa; tuttavia, zio mio, sarei ancora disposto a rischiare la mia vita e il mio corpo per voi. E affinché i vostri baroni sappiano quanto vi amo fedelmente, giuro che morirò in questa impresa o riporterò a questo [[Castle|castello]] di Tintagel la Regina dai capelli biondi.”
+“Re Mark, non vedete forse che i dubbi di questi signori mi mettono in imbarazzo? Avete pianificato invano. Andrò a cercare la Dama dai Capelli d’Oro. La ricerca è pericolosa; tuttavia, zio mio, sarei ancora disposto a rischiare la mia vita e il mio corpo per voi. E affinché i vostri baroni sappiano quanto vi amo fedelmente, giuro che morirò in questa impresa o riporterò a questo [[settings/castle|castello]] di Tintagel la Regina dai capelli biondi.”
 
-Si preparò una grande [[Ship|nave]], caricandola di grano e vino, miele e ogni sorta di cibo prelibato; la equipaggiò con Gorvenal e cento giovani cavalieri di nobile origine, scelti tra i più coraggiosi, e li vestì con abiti fatti in tessuti casalinghi e pelli per farli sembrare semplici mercanti. Ma sotto il ponte nascose ricchi tessuti d’oro e di scarlatto, destinati ai messaggeri di un grande re.
+Si preparò una grande [[motifs/ship|nave]], caricandola di grano e vino, miele e ogni sorta di cibo prelibato; la equipaggiò con Gorvenal e cento giovani cavalieri di nobile origine, scelti tra i più coraggiosi, e li vestì con abiti fatti in tessuti casalinghi e pelli per farli sembrare semplici mercanti. Ma sotto il ponte nascose ricchi tessuti d’oro e di scarlatto, destinati ai messaggeri di un grande re.
 
-Quando la [[Ship|nave]] salpò, il timoniere gli chiese:
+Quando la [[motifs/ship|nave]] salpò, il timoniere gli chiese:
 
 “Signore, verso quale terra devo dirigersi?”
 
-“Signore,” disse lui, “dirigetevi verso l’[[Ireland|Irlanda]], direttamente verso il porto di Whitehaven.”
+“Signore,” disse lui, “dirigetevi verso l’[[settings/ireland|Irlanda]], direttamente verso il porto di Whitehaven.”
 
 All’inizio, Tristan fece credere agli uomini di Whitehaven che i suoi amici fossero mercanti inglesi venuti lì pacificamente per fare scambio; ma poiché questi strani mercanti trascorrevano le giornate giocando a dama e scacchi, e sembravano conoscere meglio i dadi che il prezzo di mercato del grano, Tristan temette di essere scoperto e non sapeva come proseguire nella sua missione.
 
@@ -1795,9 +1795,9 @@ Un giorno, all’alba, sentì un grido così terribile da poter essere scambiato
 
 “Lady,” disse Tristan, “non prendetemi in giro, ma ditemi la verità: un uomo nato da donna può uccidere questa creatura?”
 
-“Nobile signore e gentile,” disse lei, “non posso dirlo con certezza; ma una cosa è certa: venti cavalieri coraggiosi hanno tentato l’impresa, perché il Re di [[Ireland|Irlanda]] ha promesso in sposa sua figlia, Iseult la Bella, a chiunque riuscirà ad uccidere quella bestia; ma tutti sono stati divorati da essa.”
+“Nobile signore e gentile,” disse lei, “non posso dirlo con certezza; ma una cosa è certa: venti cavalieri coraggiosi hanno tentato l’impresa, perché il Re di [[settings/ireland|Irlanda]] ha promesso in sposa sua figlia, Iseult la Bella, a chiunque riuscirà ad uccidere quella bestia; ma tutti sono stati divorati da essa.”
 
-Tristan lasciò quella donna e, tornato sulla sua [[Ship|nave]], si armò in segreto. Fu davvero uno spettacolo meraviglioso vedere un cavaliere così nobile e valoroso uscire da una nave mercantile. Ma il porto era deserto: l’alba era appena sorta, e nessuno lo vide mentre si dirigeva verso la porta della città. Appena l’ebbe superata, incontrò improvvisamente cinque uomini che galoppavano verso la città a tutta velocità. Tristan afferrò uno di loro per i capelli, lo trascinò sul dorso del proprio cavallo e lo tenne saldamente fermo.
+Tristan lasciò quella donna e, tornato sulla sua [[motifs/ship|nave]], si armò in segreto. Fu davvero uno spettacolo meraviglioso vedere un cavaliere così nobile e valoroso uscire da una nave mercantile. Ma il porto era deserto: l’alba era appena sorta, e nessuno lo vide mentre si dirigeva verso la porta della città. Appena l’ebbe superata, incontrò improvvisamente cinque uomini che galoppavano verso la città a tutta velocità. Tristan afferrò uno di loro per i capelli, lo trascinò sul dorso del proprio cavallo e lo tenne saldamente fermo.
 
 “Dio vi salvi, mio signore,” disse lui, “e da dove viene questo drago?” E quando l’altro gli indicò la strada per arrivarci, lo lasciò andare.
 
@@ -1810,15 +1810,15 @@ Tristan spronò il suo cavallo con tale forza che, nonostante la criniera dell�
 <span class="atom-split" data-atom="chapter_01--part_05" data-title="The Romance of Tristan and Iseult — Part 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/poison,motif/ship,setting/ireland,setting/ship"></span>
 
 
-Then he cut out the tongue and put it into his hose, but as the [[Poison|poison]] came against his flesh the hero fainted and fell in the high grass that bordered the marsh around.
+Then he cut out the tongue and put it into his hose, but as the [[motifs/poison|poison]] came against his flesh the hero fainted and fell in the high grass that bordered the marsh around.
 
-Now the man he had stopped in flight was the Seneschal of [[Ireland]] and he desired Iseult the Fair: and though he was a coward, he had dared so far as to return with his companions secretly, and he found the dragon dead; so he cut off its head and bore it to the King, and claimed the great reward.
+Now the man he had stopped in flight was the Seneschal of [[settings/ireland|Ireland]] and he desired Iseult the Fair: and though he was a coward, he had dared so far as to return with his companions secretly, and he found the dragon dead; so he cut off its head and bore it to the King, and claimed the great reward.
 
 The King could credit his prowess but hardly, yet wished justice done and summoned his vassals to court, so that there, before the Barony assembled, the seneschal should furnish proof of his victory won.
 
-When Iseult the Fair heard that she was to be given to this coward first she laughed long, and then she wailed. But on the morrow, doubting some trick, she took with her Perinis her squire and Brangien her maid, and all three rode unbeknownst towards the dragon’s lair: and Iseult saw such a trail on the road as made her wonder — for the hoofs that made it had never been shod in her land. Then she came on the dragon, headless, and a dead horse beside him: nor was the horse harnessed in the fashion of [[Ireland]]. Some foreign man had slain the beast, but they knew not whether he still lived or no.
+When Iseult the Fair heard that she was to be given to this coward first she laughed long, and then she wailed. But on the morrow, doubting some trick, she took with her Perinis her squire and Brangien her maid, and all three rode unbeknownst towards the dragon’s lair: and Iseult saw such a trail on the road as made her wonder — for the hoofs that made it had never been shod in her land. Then she came on the dragon, headless, and a dead horse beside him: nor was the horse harnessed in the fashion of [[settings/ireland|Ireland]]. Some foreign man had slain the beast, but they knew not whether he still lived or no.
 
-They sought him long, Iseult and Perinis and Brangien together, till at last Brangien saw the helm glittering in the marshy grass: and Tristan still breathed. Perinis put him on his horse and bore him secretly to the women’s rooms. There Iseult told her mother the tale and left the hero with her, and as the Queen unharnessed him, the dragon’s tongue fell from his boot of steel. Then, the Queen of [[Ireland]] revived him by the virtue of an herb and said:
+They sought him long, Iseult and Perinis and Brangien together, till at last Brangien saw the helm glittering in the marshy grass: and Tristan still breathed. Perinis put him on his horse and bore him secretly to the women’s rooms. There Iseult told her mother the tale and left the hero with her, and as the Queen unharnessed him, the dragon’s tongue fell from his boot of steel. Then, the Queen of [[settings/ireland|Ireland]] revived him by the virtue of an herb and said:
 
 “Stranger, I know you for the true slayer of the dragon: but our seneschal, a felon, cut off its head and claims my daughter Iseult for his wage; will you be ready two days hence to give him the lie in battle?”
 
@@ -1834,7 +1834,7 @@ She ran to where Tristan lay wounded, and with the sword above him she cried:
 
 Tristan strained to ward the blow, but he was too weak; his wit, however, stood firm in spite of evil and he said:
 
-“So be it, let me die: but to save yourself long memories, listen awhile. King’s daughter, my life is not only in your power but is yours of right. My life is yours because you have twice returned it me. Once, long ago: for I was the wounded harper whom you healed of the [[Poison|poison]] of the Morholt’s shaft. Nor repent the healing: were not these wounds had in fair fight? Did I kill the Morholt by treason? Had he not defied me and was I not held to the defence of my body? And now this second time also you have saved me. It was for you I fought the beast.
+“So be it, let me die: but to save yourself long memories, listen awhile. King’s daughter, my life is not only in your power but is yours of right. My life is yours because you have twice returned it me. Once, long ago: for I was the wounded harper whom you healed of the [[motifs/poison|poison]] of the Morholt’s shaft. Nor repent the healing: were not these wounds had in fair fight? Did I kill the Morholt by treason? Had he not defied me and was I not held to the defence of my body? And now this second time also you have saved me. It was for you I fought the beast.
 
 “But let us leave these things. I would but show you how my life is your own. Then if you kill me of right for the glory of it, you may ponder for long years, praising yourself that you killed a wounded guest who had wagered his life in your gaining.”
 
@@ -1844,7 +1844,7 @@ Iseult replied: “I hear strange words. Why should he that killed the Morholt s
 
 Iseult put down the sword and taking up the Coat of Arms she saw upon it the Hair of Gold and was silent a long space, till she kissed him on the lips to prove peace, and she put rich garments over him.
 
-On the day of the barons’ assembly, Tristan sent Perinis privily to his [[Ship|ship]] to summon his companions that they should come to court adorned as befitted the envoys of a great king.
+On the day of the barons’ assembly, Tristan sent Perinis privily to his [[motifs/ship|ship]] to summon his companions that they should come to court adorned as befitted the envoys of a great king.
 
 One by one the hundred knights passed into the hall where all the barons of Ireland stood, they entered in silence and sat all in rank together: on their scarlet and purple the gems gleamed.
 
@@ -1859,15 +1859,15 @@ Then she found Tristan and led him before the Barony. And as he came the hundred
 
 <span class="qlang-split" data-lang="it"></span>
 
-Poi tagliò via la lingua e la mise nella sua canna; ma non appena il [[Poison|veleno]] entrò in contatto con la sua pelle, l’eroe svenne e cadde nell’erba alta che circondava la palude.
+Poi tagliò via la lingua e la mise nella sua canna; ma non appena il [[motifs/poison|veleno]] entrò in contatto con la sua pelle, l’eroe svenne e cadde nell’erba alta che circondava la palude.
 
-L’uomo che aveva fermato durante la fuga era il Seneschale d’[[Ireland|Irlanda]] e desiderava Iseult la Bella; e sebbene fosse un codardo, aveva osato tornare segretamente con i suoi compagni. Trovò il drago morto, così gli tagliò la testa e la portò al Re, rivendicando la grande ricompensa.
+L’uomo che aveva fermato durante la fuga era il Seneschale d’[[settings/ireland|Irlanda]] e desiderava Iseult la Bella; e sebbene fosse un codardo, aveva osato tornare segretamente con i suoi compagni. Trovò il drago morto, così gli tagliò la testa e la portò al Re, rivendicando la grande ricompensa.
 
 Il Re poteva attribuire il merito della sua vittoria a se stesso, ma non del tutto; tuttavia desiderava che venisse fatta giustizia e convocò i suoi vassalli alla corte, affinché lì, davanti all’assemblea dei nobili, il ciambellano potesse presentare le prove della sua vittoria.
 
-Quando Iseult la Bella seppe che avrebbe dovuto essere data a quel codardo, prima rise a lungo, poi pianse. Ma il giorno dopo, sospettando qualche trucco, prese con sé Perinis, il suo scudiero, e Brangien, la sua ancella; i tre partirono di nascosto verso la tana del drago. Iseult notò sul sentiero tracce che la lasciarono perplessa: le impronte dei zoccoli non sembravano appartenere a cavalli della sua terra. Poi trovò il drago decapitato, con un cavallo morto accanto a lui; inoltre, il cavallo non era legato nel modo tipico dell’[[Ireland|Irlanda]]. Qualcuno straniero aveva ucciso la bestia, ma loro non sapevano se quell’uomo fosse ancora vivo.
+Quando Iseult la Bella seppe che avrebbe dovuto essere data a quel codardo, prima rise a lungo, poi pianse. Ma il giorno dopo, sospettando qualche trucco, prese con sé Perinis, il suo scudiero, e Brangien, la sua ancella; i tre partirono di nascosto verso la tana del drago. Iseult notò sul sentiero tracce che la lasciarono perplessa: le impronte dei zoccoli non sembravano appartenere a cavalli della sua terra. Poi trovò il drago decapitato, con un cavallo morto accanto a lui; inoltre, il cavallo non era legato nel modo tipico dell’[[settings/ireland|Irlanda]]. Qualcuno straniero aveva ucciso la bestia, ma loro non sapevano se quell’uomo fosse ancora vivo.
 
-Lo cercarono a lungo, Iseult, Perinis e Brangien insieme; finché alla fine Brangien vide il elmo brillare tra l’erba paludosa. E Tristan ancora respirava. Perinis lo mise in sella al cavallo e lo portò segretamente nelle stanze delle donne. Lì Iseult raccontò tutta la storia a sua madre e lasciò l’eroe con lei; quando la regina lo smontò, la lingua del drago cadde dalla sua scarpa d’acciaio. Allora, la regina d’[[Ireland|Irlanda]] lo rianimò grazie a un erba speciale e disse.
+Lo cercarono a lungo, Iseult, Perinis e Brangien insieme; finché alla fine Brangien vide il elmo brillare tra l’erba paludosa. E Tristan ancora respirava. Perinis lo mise in sella al cavallo e lo portò segretamente nelle stanze delle donne. Lì Iseult raccontò tutta la storia a sua madre e lasciò l’eroe con lei; quando la regina lo smontò, la lingua del drago cadde dalla sua scarpa d’acciaio. Allora, la regina d’[[settings/ireland|Irlanda]] lo rianimò grazie a un erba speciale e disse.
 
 “Straniero, so che sei il vero assassino del drago. Ma il nostro siniscalco, un criminale, gli ha tagliato la testa e pretende mia figlia Iseult come ricompensa; sarai pronto tra due giorni per confutarlo in battaglia?”
 
@@ -1883,7 +1883,7 @@ Corse verso il luogo dove Tristan giaceva ferito e, tenendo la spada sopra di lu
 
 Tristan cercò disperatamente di parare quel colpo, ma era troppo debole; tuttavia, la sua intelligenza rimase ferma nonostante tutto il male che lo circondava, e disse:
 
-“Che sia così, lasciate che muoia. Ma affinché tu possa salvarti da lunghe memorie dolorose, ascolta per un momento. Figlia del re, la mia vita non è solo nelle tue mani, ma ti appartiene di diritto. La mia vita è tua perché me l’hai restituita due volte: una volta, molto tempo fa. Poiché ero quel suonatore di arpa ferito che tu hai guarito dal [[Poison|veleno]] della freccia del Morholt. Non rimpiangere quella guarigione. Se non fossero state ferite in un combattimento leale? Ho ucciso il Morholt tradendolo? Non è stato lui a sfidarmi, e non ero forse costretto a difendere la mia vita? E ora, per la seconda volta, mi hai salvato. È per te che ho combattuto contro quella bestia.”
+“Che sia così, lasciate che muoia. Ma affinché tu possa salvarti da lunghe memorie dolorose, ascolta per un momento. Figlia del re, la mia vita non è solo nelle tue mani, ma ti appartiene di diritto. La mia vita è tua perché me l’hai restituita due volte: una volta, molto tempo fa. Poiché ero quel suonatore di arpa ferito che tu hai guarito dal [[motifs/poison|veleno]] della freccia del Morholt. Non rimpiangere quella guarigione. Se non fossero state ferite in un combattimento leale? Ho ucciso il Morholt tradendolo? Non è stato lui a sfidarmi, e non ero forse costretto a difendere la mia vita? E ora, per la seconda volta, mi hai salvato. È per te che ho combattuto contro quella bestia.”
 
 “Ma lasciamo perdere queste cose. Vorrei solo mostrarvi come la mia vita sia in realtà anche la vostra. Allora, se mi ucciderete per motivi di gloria, potrete rifletterci a lungo, lodandovi per aver ucciso un ospite ferito che aveva messo in gioco la sua vita affinché voi ne tratteneste il possesso.”
 
@@ -1893,7 +1893,7 @@ Iseult rispose: “Sento parole strane. Perché colui che ha ucciso il Morholt d
 
 Iseult posò la spada e, prendendo lo stemma araldico, vi vide i Capelli d’Oro; rimase in silenzio per molto tempo, finché non lo baciò sulle labbra come segno di pace, poi gli indossò abiti lussuosi.
 
-Il giorno dell'assemblea dei baroni, Tristan inviò segretamente Perinis sulla sua [[Ship|>nave]] per chiamare i suoi compagni, affinché si recassero in corte vestiti come si addiceva agli inviati di un grande re.
+Il giorno dell'assemblea dei baroni, Tristan inviò segretamente Perinis sulla sua [[motifs/ship|>nave]] per chiamare i suoi compagni, affinché si recassero in corte vestiti come si addiceva agli inviati di un grande re.
 
 Uno dopo l’altro, i cento cavalieri entrarono nella sala dove si trovavano tutti i baroni d’Irlanda; entrarono in silenzio e si sedettero tutti in fila ordinata: sui loro abiti rossi e viola brillavano le gemme.
 
@@ -1918,21 +1918,21 @@ Then Tristan said:
 
 “My lords, you have said it, and it is truth: I killed the Morholt. But I crossed the sea to offer you a good blood-fine, to ransom that deed and get me quit of it.
 
-“I put my body in peril of death and rid you of the beast and have so conquered Iseult the Fair, and having conquered her I will bear her away on my [[Ship|ship]].
+“I put my body in peril of death and rid you of the beast and have so conquered Iseult the Fair, and having conquered her I will bear her away on my [[motifs/ship|ship]].
 
-“But that these lands of Cornwall and [[Ireland]] may know no more hatred, but [[Love|love]] only, learn that King Mark, my lord, will marry her. Here stand a hundred knights of high name, who all will swear with an oath upon the relics of the holy saints, that King Mark sends you by their embassy offer of peace and of brotherhood and goodwill; and that he would by your courtesy hold Iseult as his honoured wife, and that he would have all the men of Cornwall serve her as their Queen.”
+“But that these lands of Cornwall and [[settings/ireland|Ireland]] may know no more hatred, but [[motifs/love|love]] only, learn that King Mark, my lord, will marry her. Here stand a hundred knights of high name, who all will swear with an oath upon the relics of the holy saints, that King Mark sends you by their embassy offer of peace and of brotherhood and goodwill; and that he would by your courtesy hold Iseult as his honoured wife, and that he would have all the men of Cornwall serve her as their Queen.”
 
-When the lords of [[Ireland]] heard this they acclaimed it, and the King also was content.
+When the lords of [[settings/ireland|Ireland]] heard this they acclaimed it, and the King also was content.
 
-Then, since that treaty and alliance was to be made, the King her father took Iseult by the hand and asked of Tristan that he should take an oath; to wit that he would lead her loyally to his lord, and Tristan took that oath and swore it before the knights and the Barony of [[Ireland]] assembled. Then the King put Iseult’s right hand into Tristan’s right hand, and Tristan held it for a space in token of seizin for the King of Cornwall.
+Then, since that treaty and alliance was to be made, the King her father took Iseult by the hand and asked of Tristan that he should take an oath; to wit that he would lead her loyally to his lord, and Tristan took that oath and swore it before the knights and the Barony of [[settings/ireland|Ireland]] assembled. Then the King put Iseult’s right hand into Tristan’s right hand, and Tristan held it for a space in token of seizin for the King of Cornwall.
 
-So, for the [[Love|love]] of King Mark, did Tristan conquer the Queen of the Hair of Gold.
+So, for the [[motifs/love|love]] of King Mark, did Tristan conquer the Queen of the Hair of Gold.
 
 THE PHILTRE
 
 WHEN THE DAY of Iseult’s livery to the Lords of Cornwall drew near, her mother gathered herbs and flowers and roots and steeped them in wine, and brewed a potion of might, and having done so, said apart to Brangien:
 
-“Child, it is yours to go with Iseult to King Mark’s country, for you [[Love|love]] her with a faithful love. Take then this pitcher and remember well my words. Hide it so that no eye shall see nor no lip go near it: but when the wedding night has come and that moment in which the wedded are left alone, pour this essenced wine into a cup and offer it to King Mark and to Iseult his queen. Oh! Take all care, my child, that they alone shall taste this brew. For this is its power: they who drink of it together love each other with their every single sense and with their every thought, forever, in life and in death.”
+“Child, it is yours to go with Iseult to King Mark’s country, for you [[motifs/love|love]] her with a faithful love. Take then this pitcher and remember well my words. Hide it so that no eye shall see nor no lip go near it: but when the wedding night has come and that moment in which the wedded are left alone, pour this essenced wine into a cup and offer it to King Mark and to Iseult his queen. Oh! Take all care, my child, that they alone shall taste this brew. For this is its power: they who drink of it together love each other with their every single sense and with their every thought, forever, in life and in death.”
 
 And Brangien promised the Queen that she would do her bidding.
 
@@ -1973,13 +1973,13 @@ Allora Tristan mostrò la lingua del drago e sfidò il siniscalco a combattere, 
 
 “Miei signori, avete detto voi stesso che è la verità: ho ucciso il Morholt. Ma ho attraversato il mare per offrirvi un buon risarcimento in denaro, per espiare quel crimine e liberarmene una volta per tutte.”
 
-“Ho messo in pericolo la mia vita per liberarvi da quella bestia; ho conquistato così Isotta la Bella, e ora che l’ho ottenuta, la porterò via con la mia [[Ship|nave]].”
+“Ho messo in pericolo la mia vita per liberarvi da quella bestia; ho conquistato così Isotta la Bella, e ora che l’ho ottenuta, la porterò via con la mia [[motifs/ship|nave]].”
 
-“Ma affinché queste terre della Cornovaglia e dell’[[Ireland|Irlanda]] non conoscano più odio, ma solo [[Love|amore]], sappiate che Re Mark, mio signore, la sposerà. Qui ci sono cento cavalieri di alto rango, i quali giureranno sulle reliquie dei santi che Re Mark vi manda attraverso la loro ambasceria con offerte di pace, fraternità e buona volontà; e che, se voi acconsentite, considererà Iseult sua onorata moglie, e farà sì che tutti gli uomini della Cornovaglia la servano come loro regina.”
+“Ma affinché queste terre della Cornovaglia e dell’[[settings/ireland|Irlanda]] non conoscano più odio, ma solo [[motifs/love|amore]], sappiate che Re Mark, mio signore, la sposerà. Qui ci sono cento cavalieri di alto rango, i quali giureranno sulle reliquie dei santi che Re Mark vi manda attraverso la loro ambasceria con offerte di pace, fraternità e buona volontà; e che, se voi acconsentite, considererà Iseult sua onorata moglie, e farà sì che tutti gli uomini della Cornovaglia la servano come loro regina.”
 
-Quando i signori d’[[Ireland|Irlanda]] lo sentirono, ne furono entusiasti, e anche il Re ne fu soddisfatto.
+Quando i signori d’[[settings/ireland|Irlanda]] lo sentirono, ne furono entusiasti, e anche il Re ne fu soddisfatto.
 
-Allora, poiché quel trattato e quell'alleanza dovevano essere stipulati, il re suo padre prese Iseult per la mano e chiese a Tristan di giurare che l'avrebbe condotta fedelmente dal proprio signore. Tristan prestò quel giuramento davanti ai cavalieri e alla nobiltà di [[Ireland|Irlanda]] riuniti. Poi il re mise la mano destra di Iseult nella mano destra di Tristan, e questi la tenne per un momento come segno del possesso da parte del re di Cornovaglia.
+Allora, poiché quel trattato e quell'alleanza dovevano essere stipulati, il re suo padre prese Iseult per la mano e chiese a Tristan di giurare che l'avrebbe condotta fedelmente dal proprio signore. Tristan prestò quel giuramento davanti ai cavalieri e alla nobiltà di [[settings/ireland|Irlanda]] riuniti. Poi il re mise la mano destra di Iseult nella mano destra di Tristan, e questi la tenne per un momento come segno del possesso da parte del re di Cornovaglia.
 
 Per l’amore del re Mark, Tristan riuscì davvero a conquistare la Regina dai Capelli d’Oro.
 
@@ -1987,7 +1987,7 @@ Il filtro
 
 Quando si avvicinò il giorno in cui Iseult sarebbe stata data in sposa ai Signori del Cornovaglia, sua madre raccolse erbe, fiori e radici, le immerse nel vino e preparò una pozione potente. Dopo averlo fatto, disse a Brangien:
 
-“Figliolo, è tuo il diritto di andare con Iseult nel regno del Re Mark, poiché la [[Love|ami]] con un amore fedele. Prendi dunque questa brocca e ricorda bene le mie parole: nascondila in modo che nessuno la veda né nessuna bocca vi si avvicini. Ma quando arriverà la notte di nozze, in quel momento in cui i coniugi rimarranno soli, versa questo vino profumato in una coppa e offrilo al Re Mark e a Iseult, sua regina. Oh! Fai molta attenzione, figliolo, affinché solo loro possano assaggiarlo. Poiché questa è la sua forza: coloro che lo bevono insieme si ameranno con ogni senso e con ogni pensiero, per sempre, in vita e in morte.”
+“Figliolo, è tuo il diritto di andare con Iseult nel regno del Re Mark, poiché la [[motifs/love|ami]] con un amore fedele. Prendi dunque questa brocca e ricorda bene le mie parole: nascondila in modo che nessuno la veda né nessuna bocca vi si avvicini. Ma quando arriverà la notte di nozze, in quel momento in cui i coniugi rimarranno soli, versa questo vino profumato in una coppa e offrilo al Re Mark e a Iseult, sua regina. Oh! Fai molta attenzione, figliolo, affinché solo loro possano assaggiarlo. Poiché questa è la sua forza: coloro che lo bevono insieme si ameranno con ogni senso e con ogni pensiero, per sempre, in vita e in morte.”
 
 E Brangien promise alla Regina che avrebbe eseguito i suoi ordini.
 
@@ -2022,11 +2022,11 @@ Posò il braccio sulle spalle di Tristan; la luce nei suoi occhi si spegneva e l
 <span class="atom-split" data-atom="chapter_01--part_07" data-title="The Romance of Tristan and Iseult — Part 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/lover,motif/love,motif/poison,motif/ship,concept/honour,setting/castle,setting/ship"></span>
 
 
-“The [[Love|love]] of you,” she said. Whereat he put his lips to hers.
+“The [[motifs/love|love]] of you,” she said. Whereat he put his lips to hers.
 
 But as they thus tasted their first joy, Brangien, that watched them, stretched her arms and cried at their feet in tears:
 
-“Stay and return if still you can … But oh! that path has no returning. For already [[Love]] and his strength drag you on and now henceforth forever never shall you know joy without pain again. The wine possesses you, the draught your mother gave me, the draught the King alone should have drunk with you: but that old Enemy has tricked us, all us three; friend Tristan, Iseult my friend, for that bad ward I kept take here my body and my life, for through me and in that cup you have drunk not [[Love|love]] alone, but love and death together.”
+“Stay and return if still you can … But oh! that path has no returning. For already [[motifs/love|Love]] and his strength drag you on and now henceforth forever never shall you know joy without pain again. The wine possesses you, the draught your mother gave me, the draught the King alone should have drunk with you: but that old Enemy has tricked us, all us three; friend Tristan, Iseult my friend, for that bad ward I kept take here my body and my life, for through me and in that cup you have drunk not [[motifs/love|love]] alone, but love and death together.”
 
 The lovers held each other; life and desire trembled through their youth, and Tristan said, “Well then, come Death.”
 
@@ -2034,13 +2034,13 @@ And as evening fell, upon the bark that heeled and ran to King Mark’s land, th
 
 THE TALL PINE-TREE
 
-AS KING MARK came down to greet Iseult upon the shore, Tristan took her hand and led her to the King and the King took seizin of her, taking her hand. He led her in great pomp to his [[Castle|castle]] of Tintagel, and as she came in hall amid the vassals her beauty shone so that the walls were lit as they are lit at dawn. Then King Mark blessed those swallows which, by happy courtesy, had brought the Hair of Gold, and Tristan also he blessed, and the hundred knights who, on that adventurous bark, had gone to find him joy of heart and of eyes; yet to him also that [[Ship|ship]] was to bring sting, torment and mourning.
+AS KING MARK came down to greet Iseult upon the shore, Tristan took her hand and led her to the King and the King took seizin of her, taking her hand. He led her in great pomp to his [[settings/castle|castle]] of Tintagel, and as she came in hall amid the vassals her beauty shone so that the walls were lit as they are lit at dawn. Then King Mark blessed those swallows which, by happy courtesy, had brought the Hair of Gold, and Tristan also he blessed, and the hundred knights who, on that adventurous bark, had gone to find him joy of heart and of eyes; yet to him also that [[motifs/ship|ship]] was to bring sting, torment and mourning.
 
 And on the eighteenth day, having called his Barony together he took Iseult to wife. But on the wedding night, to save her friend, Brangien took her place in the darkness, for her remorse demanded even this from her; nor was the trick discovered.
 
-Then Iseult lived as a queen, but lived in sadness. She had King Mark’s tenderness and the barons’ [[Honour|honour]]; the people also loved her; she passed her days amid the frescoes on the walls and floors all strewn with flowers; good jewels had she and purple cloth and tapestry of Hungary and Thessaly too, and songs of harpers, and curtains upon which were worked leopards and eagles and popinjays and all the beasts of sea and field. And her love too she had, love high and splendid, for as is the custom among great lords, Tristan could ever be near her. At his leisure and his dalliance, night and day: for he slept in the King’s chamber as great lords do, among the lieges and the councillors. Yet still she feared; for though her love were secret and Tristan unsuspected (for who suspects a son?) Brangien knew. And Brangien seemed in the Queen’s mind like a witness spying; for Brangien alone knew what manner of life she led, and held her at mercy so. And the Queen thought Ah, if some day she should weary of serving as a slave the bed where once she passed for Queen … If Tristan should die from her betrayal! So fear maddened the Queen, but not in truth the fear of Brangien who was loyal; her own heart bred the fear.
+Then Iseult lived as a queen, but lived in sadness. She had King Mark’s tenderness and the barons’ [[concepts/honour|honour]]; the people also loved her; she passed her days amid the frescoes on the walls and floors all strewn with flowers; good jewels had she and purple cloth and tapestry of Hungary and Thessaly too, and songs of harpers, and curtains upon which were worked leopards and eagles and popinjays and all the beasts of sea and field. And her love too she had, love high and splendid, for as is the custom among great lords, Tristan could ever be near her. At his leisure and his dalliance, night and day: for he slept in the King’s chamber as great lords do, among the lieges and the councillors. Yet still she feared; for though her love were secret and Tristan unsuspected (for who suspects a son?) Brangien knew. And Brangien seemed in the Queen’s mind like a witness spying; for Brangien alone knew what manner of life she led, and held her at mercy so. And the Queen thought Ah, if some day she should weary of serving as a slave the bed where once she passed for Queen … If Tristan should die from her betrayal! So fear maddened the Queen, but not in truth the fear of Brangien who was loyal; her own heart bred the fear.
 
-Not Brangien who was faithful, not Brangien, but themselves had these lovers to fear, for hearts so stricken will lose their vigilance. Love pressed them hard, as thirst presses the dying stag to the stream; love dropped upon them from high heaven, as a hawk slipped after long hunger falls right upon the bird. And love will not be hidden. Brangien indeed by her prudence saved them well, nor ever were the Queen and her [[Lover|lover]] unguarded. But in every hour and place every man could see Love terrible, that rode them, and could see in these lovers their every sense overflowing like new wine working in the vat.
+Not Brangien who was faithful, not Brangien, but themselves had these lovers to fear, for hearts so stricken will lose their vigilance. Love pressed them hard, as thirst presses the dying stag to the stream; love dropped upon them from high heaven, as a hawk slipped after long hunger falls right upon the bird. And love will not be hidden. Brangien indeed by her prudence saved them well, nor ever were the Queen and her [[archetypes/lover|lover]] unguarded. But in every hour and place every man could see Love terrible, that rode them, and could see in these lovers their every sense overflowing like new wine working in the vat.
 
 The four felons at court who had hated Tristan of old for his prowess, watched the Queen; they had guessed that great love, and they burnt with envy and hatred and now a kind of evil joy. They planned to give news of their watching to the King, to see his tenderness turned to fury, Tristan thrust out or slain, and the Queen in torment; for though they feared Tristan their hatred mastered their fear; and, on a day, the four barons called King Mark to parley, and Andret said:
 
@@ -2048,15 +2048,15 @@ The four felons at court who had hated Tristan of old for his prowess, watched t
 
 The royal King shrank and answered:
 
-“Coward! What thought was that? Indeed I have placed my trust in Tristan. And rightly, for on the day when the Morholt offered combat to you all, you hung your heads and were dumb, and you trembled before him; but Tristan dared him for the [[Honour|honour]] of this land, and took mortal wounds. Therefore do you hate him, and therefore do I cherish him beyond thee, Andret, and beyond any other; but what then have you seen or heard or known?”
+“Coward! What thought was that? Indeed I have placed my trust in Tristan. And rightly, for on the day when the Morholt offered combat to you all, you hung your heads and were dumb, and you trembled before him; but Tristan dared him for the [[concepts/honour|honour]] of this land, and took mortal wounds. Therefore do you hate him, and therefore do I cherish him beyond thee, Andret, and beyond any other; but what then have you seen or heard or known?”
 
 “Naught, lord, save what your eyes could see or your ears hear. Look you and listen, Sire, if there is yet time.”
 
-And they left him to taste the [[Poison|poison]].
+And they left him to taste the [[motifs/poison|poison]].
 
 Then King Mark watched the Queen and Tristan; but Brangien noting it warned them both and the King watched in vain, so that, soon wearying of an ignoble task, but knowing (alas!) that he could not kill his uneasy thought, he sent for Tristan and said:
 
-“Tristan, leave this [[Castle|castle]]; and having left it, remain apart and do not think to return to it, and do not repass its moat or boundaries. Felons have charged you with an awful treason, but ask me nothing; I could not speak their words without shame to us both, and for your part seek you no word to appease. I have not believed them … had I done so … But their evil words have troubled all my soul and only by your absence can my disquiet be soothed. Go, doubtless I will soon recall you. Go, my son, you are still dear to me.
+“Tristan, leave this [[settings/castle|castle]]; and having left it, remain apart and do not think to return to it, and do not repass its moat or boundaries. Felons have charged you with an awful treason, but ask me nothing; I could not speak their words without shame to us both, and for your part seek you no word to appease. I have not believed them … had I done so … But their evil words have troubled all my soul and only by your absence can my disquiet be soothed. Go, doubtless I will soon recall you. Go, my son, you are still dear to me.
 
 When the felons heard the news they said among themselves, “He is gone, the wizard; he is driven out. Surely he will cross the sea on far adventures to carry his traitor service to some distant King.”
 
@@ -2067,7 +2067,7 @@ When the felons heard the news they said among themselves, “He is gone, the wi
 
 Ma mentre assaporavano per la prima volta quella gioia, Brangien, che li osservava, allargò le braccia e pianse ai loro piedi.
 
-“Rimani e torna, se ancora puoi. Ma oh! quel sentiero non conduce al ritorno. Perché già l’[[Love|Amore]] e la sua forza ti trascinano via, e da ora in poi non conoscerai mai più gioia senza dolore. Il vino ti possiede; quella bevanda che tua madre mi diede, quella bevanda che solo il Re avrebbe dovuto bere con te. Ma quel vecchio Nemico ci ha ingannati tutti e tre: amico Tristan, Iseult mia amata. Per quell’errore che ho commesso, prendo qui il mio corpo e la mia vita. Perché attraverso di me, e in quella coppa, hai bevuto non solo l’[[Love|amore]], ma amore e morte insieme.”
+“Rimani e torna, se ancora puoi. Ma oh! quel sentiero non conduce al ritorno. Perché già l’[[motifs/love|Amore]] e la sua forza ti trascinano via, e da ora in poi non conoscerai mai più gioia senza dolore. Il vino ti possiede; quella bevanda che tua madre mi diede, quella bevanda che solo il Re avrebbe dovuto bere con te. Ma quel vecchio Nemico ci ha ingannati tutti e tre: amico Tristan, Iseult mia amata. Per quell’errore che ho commesso, prendo qui il mio corpo e la mia vita. Perché attraverso di me, e in quella coppa, hai bevuto non solo l’[[motifs/love|amore]], ma amore e morte insieme.”
 
 I due innamorati si tennero stretti l’uno all’altro; la vita e il desiderio vibravano nella loro giovinezza, e Tristan disse: “Allora, venga pure la Morte.”
 
@@ -2075,13 +2075,13 @@ E quando calò la sera, sulla nave che si dirigeva verso le terre del re Mark, s
 
 Il grande pino
 
-Quando Re Mark scese sulla riva per salutare Iseult, Tristan le prese la mano e la condusse dal re, il quale la accolse tenendola per la mano. La portò con grande solennità nel suo [[Castle|castello]] di Tintagel; quando entrò nella sala, tra i suoi vassalli, la sua bellezza risplendette a tal punto che le pareti sembrarono illuminarsi all’alba. Allora Re Mark benedisse quelle rondini che, per gentile cortesia, avevano portato i Capelli d’Oro; benedì anche Tristan e i cento cavalieri che, su quella nave avventurosa, erano andati a cercarlo per donargli gioia nel cuore e negli occhi. Tuttavia, proprio quella [[Ship|nave]] gli avrebbe portato dolore, tormento e lutto.
+Quando Re Mark scese sulla riva per salutare Iseult, Tristan le prese la mano e la condusse dal re, il quale la accolse tenendola per la mano. La portò con grande solennità nel suo [[settings/castle|castello]] di Tintagel; quando entrò nella sala, tra i suoi vassalli, la sua bellezza risplendette a tal punto che le pareti sembrarono illuminarsi all’alba. Allora Re Mark benedisse quelle rondini che, per gentile cortesia, avevano portato i Capelli d’Oro; benedì anche Tristan e i cento cavalieri che, su quella nave avventurosa, erano andati a cercarlo per donargli gioia nel cuore e negli occhi. Tuttavia, proprio quella [[motifs/ship|nave]] gli avrebbe portato dolore, tormento e lutto.
 
 E all’ottavo giorno, dopo aver radunato i suoi vassalli, la prese in sposa. Ma nella notte di nozze, per salvare la sua amica, Brangien prese il suo posto nell’oscurità: il suo rimorso le imponeva questo sacrificio; e il trucco non fu scoperto.
 
-Allora Iseult visse come una regina, ma nella tristezza. Aveva la tenerezza del re Mark e l’[[Honour|onore]] dei baroni; anche il popolo la amava; trascorreva i suoi giorni tra affreschi sulle pareti e sui pavimenti, tutti adornati di fiori; possedeva bellissimi gioielli, stoffe viola, arazzi ungheresi e tessali, canzoni di arpisti, e tende ricamate con leopardi, aquile, pappagalli e tutte le bestie marine e terrestri. E aveva anche l’amore, un amore grande e splendido; poiché era consuetudine tra i grandi signori, Tristan poteva sempre stare vicino a lei. Nei suoi momenti di libertà, giorno e notte: dormiva infatti nella camera del re, come fanno i grandi signori, tra i suoi vassalli e i suoi consiglieri. Eppure aveva paura, poiché, sebbene il suo amore fosse segreto e Tristan non sospettasse nulla (chi mai sospetterebbe di un figlio?), Brangien lo sapeva. E a occhi della regina, Brangien sembrava una spia che osservava tutto; solo lei conosceva il tipo di vita che Iseult conduceva, e la teneva in suo potere. La regina pensava: “Ah, se un giorno mi stancassi di servire come schiava nel letto dove un tempo fui regina. Se Tristan morisse a causa della mia tradizione!” Così la paura impazziva nella regina, ma in realtà non era la paura di Brangien, che era leale; era il suo stesso cuore a generare quella paura.
+Allora Iseult visse come una regina, ma nella tristezza. Aveva la tenerezza del re Mark e l’[[concepts/honour|onore]] dei baroni; anche il popolo la amava; trascorreva i suoi giorni tra affreschi sulle pareti e sui pavimenti, tutti adornati di fiori; possedeva bellissimi gioielli, stoffe viola, arazzi ungheresi e tessali, canzoni di arpisti, e tende ricamate con leopardi, aquile, pappagalli e tutte le bestie marine e terrestri. E aveva anche l’amore, un amore grande e splendido; poiché era consuetudine tra i grandi signori, Tristan poteva sempre stare vicino a lei. Nei suoi momenti di libertà, giorno e notte: dormiva infatti nella camera del re, come fanno i grandi signori, tra i suoi vassalli e i suoi consiglieri. Eppure aveva paura, poiché, sebbene il suo amore fosse segreto e Tristan non sospettasse nulla (chi mai sospetterebbe di un figlio?), Brangien lo sapeva. E a occhi della regina, Brangien sembrava una spia che osservava tutto; solo lei conosceva il tipo di vita che Iseult conduceva, e la teneva in suo potere. La regina pensava: “Ah, se un giorno mi stancassi di servire come schiava nel letto dove un tempo fui regina. Se Tristan morisse a causa della mia tradizione!” Così la paura impazziva nella regina, ma in realtà non era la paura di Brangien, che era leale; era il suo stesso cuore a generare quella paura.
 
-Non era Brangien, che era fedele, non lei, ma loro stessi avevano questi amanti da temere; infatti, cuori così colpiti perdono ogni cautela. L’amore li pressava con forza, come la sete spinge il cervo morente verso il ruscello; l’amore piombava su di loro dal cielo alto, come un falco che, dopo una lunga fame, si abbatte sulla preda. E l’amore non può nascondersi. Brangien, con la sua prudenza, li aveva davvero salvati bene; né la Regina né il suo [[Lover|amante]] erano mai stati senza protezione. Ma in ogni momento e luogo, chiunque poteva vedere quell’amore terribile che li dominava, e poteva notare come i loro sensi si riempissero di passione, come vino nuovo che fermenta nella botte.
+Non era Brangien, che era fedele, non lei, ma loro stessi avevano questi amanti da temere; infatti, cuori così colpiti perdono ogni cautela. L’amore li pressava con forza, come la sete spinge il cervo morente verso il ruscello; l’amore piombava su di loro dal cielo alto, come un falco che, dopo una lunga fame, si abbatte sulla preda. E l’amore non può nascondersi. Brangien, con la sua prudenza, li aveva davvero salvati bene; né la Regina né il suo [[archetypes/lover|amante]] erano mai stati senza protezione. Ma in ogni momento e luogo, chiunque poteva vedere quell’amore terribile che li dominava, e poteva notare come i loro sensi si riempissero di passione, come vino nuovo che fermenta nella botte.
 
 I quattro criminali presenti in tribunale, che da tempo odiavano Tristan per la sua abilità, osservavano la Regina; avevano intuito l’entità del suo amore e bruciavano di invidia e odio. Ora provavano persino una sorta di malvagia gioia. Decisero di riferire al Re ciò che stavano osservando, sperando che la sua tenerezza si trasformasse in furia, che Tristan venisse cacciato o ucciso e che la Regina soffrisse terribilmente. Anche se temevano Tristan, l’odio prevalse sulla paura; un giorno, i quattro baroni chiamarono il Re Mark per parlare con lui, e Andret disse:
 
@@ -2089,15 +2089,15 @@ I quattro criminali presenti in tribunale, che da tempo odiavano Tristan per la 
 
 “Il re regale si ritirò indietro e rispose…”
 
-“Codardo! Che pensiero era quello? Infatti ho riposto la mia fiducia in Tristan. E con ragione: il giorno in cui i Morholt vi sfidarono a combattere, voi rimasteste in silenzio, tremanti davanti a loro; ma Tristan li affrontò per l’[[Honour|'onore]] di questa terra e ricevette ferite mortali. Ecco perché lo odiate. Ecco perché io lo amo più di te, Andret, e più di chiunque altro. Ma allora, cosa hai visto, sentito o saputo?”
+“Codardo! Che pensiero era quello? Infatti ho riposto la mia fiducia in Tristan. E con ragione: il giorno in cui i Morholt vi sfidarono a combattere, voi rimasteste in silenzio, tremanti davanti a loro; ma Tristan li affrontò per l’[[concepts/honour|'onore]] di questa terra e ricevette ferite mortali. Ecco perché lo odiate. Ecco perché io lo amo più di te, Andret, e più di chiunque altro. Ma allora, cosa hai visto, sentito o saputo?”
 
 “Nient'altro, mio signore, se non ciò che i vostri occhi possono vedere o le vostre orecchie possono udire. Guardate e ascoltate, Signore, se ancora c’è tempo.”
 
-E lo lasciarono assaporare il [[Poison|veleno]].
+E lo lasciarono assaporare il [[motifs/poison|veleno]].
 
 Allora Re Mark osservò la Regina e Tristan; ma Brangien, accorgendosene, avvertì entrambi. Il Re guardò invano, finché, stanco di quella compito ignobile e sapendo (ahimè!) di non poter scacciare quel pensiero inquietante, chiamò Tristan e disse:
 
-“Tristan, lascia questo [[Castle|castello]]; e una volta lontano, stai lontano da esso e non pensare mai di tornarci, né attraversare più le sue mura o i suoi confini. Dei traditori ti hanno accusato di un orribile crimine di tradimento, ma non chiedermi nulla; non potrei ripetere le loro parole senza vergogna per entrambi, e tu non cercare alcuna scusa per placarli. Non ho creduto a loro, se l’avessi fatto. Ma le loro parole malvagie hanno turbato tutta la mia anima, e solo la tua assenza può calmare il mio tormento. Vai, sicuramente presto ti chiamerò indietro. Vai, mio figlio, sei ancora molto caro per me.”
+“Tristan, lascia questo [[settings/castle|castello]]; e una volta lontano, stai lontano da esso e non pensare mai di tornarci, né attraversare più le sue mura o i suoi confini. Dei traditori ti hanno accusato di un orribile crimine di tradimento, ma non chiedermi nulla; non potrei ripetere le loro parole senza vergogna per entrambi, e tu non cercare alcuna scusa per placarli. Non ho creduto a loro, se l’avessi fatto. Ma le loro parole malvagie hanno turbato tutta la mia anima, e solo la tua assenza può calmare il mio tormento. Vai, sicuramente presto ti chiamerò indietro. Vai, mio figlio, sei ancora molto caro per me.”
 
 Quando i criminali sentirono la notizia, dissero tra loro: “È sparito, il mago; è stato cacciato via. Sicuramente attraverserà il mare per intraprendere lunghe avventure e portare i suoi servizi traditori a qualche re lontano.”
 
@@ -2106,13 +2106,13 @@ Quando i criminali sentirono la notizia, dissero tra loro: “È sparito, il mag
 <span class="atom-split" data-atom="chapter_01--part_08" data-title="The Romance of Tristan and Iseult — Part 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/love,setting/castle"></span>
 
 
-But Tristan had not strength to depart altogether; and when he had crossed the moats and boundaries of the [[Castle]] he knew he could go no further. He stayed in Tintagel town and lodged with Gorvenal in a burgess’ house, and languished oh! more wounded than when in that past day the shaft of the Morholt had tainted his body.
+But Tristan had not strength to depart altogether; and when he had crossed the moats and boundaries of the [[settings/castle|Castle]] he knew he could go no further. He stayed in Tintagel town and lodged with Gorvenal in a burgess’ house, and languished oh! more wounded than when in that past day the shaft of the Morholt had tainted his body.
 
 In the close towers Iseult the Fair drooped also, but more wretched still. For it was hers all day long to feign laughter and all night long to conquer fever and despair. And all night as she lay by King Mark’s side, fever still kept her waking, and she stared at darkness. She longed to fly to Tristan and she dreamt dreams of running to the gates and of finding there sharp scythes, traps of the felons, that cut her tender knees; and she dreamt of weakness and falling, and that her wounds had left her blood upon the ground. Now these lovers would have died, but Brangien succoured them. At peril of her life she found the house where Tristan lay. There Gorvenal opened to her very gladly, knowing what salvation she could bring.
 
-So she found Tristan, and to save the lovers she taught him a device, nor was ever known a more subtle ruse of [[Love|love]].
+So she found Tristan, and to save the lovers she taught him a device, nor was ever known a more subtle ruse of [[motifs/love|love]].
 
-Behind the [[Castle|castle]] of Tintagel was an orchard fenced around and wide and all closed in with stout and pointed stakes and numberless trees were there and fruit on them, birds and clusters of sweet grapes. And furthest from the [[Castle|castle]], by the stakes of the pallisade, was a tall pine-tree, straight and with heavy branches spreading from its trunk. At its root a living spring welled calm into a marble round, then ran between two borders winding, throughout the orchard and so, on, till it flowed at last within the castle and through the women’s rooms.
+Behind the [[settings/castle|castle]] of Tintagel was an orchard fenced around and wide and all closed in with stout and pointed stakes and numberless trees were there and fruit on them, birds and clusters of sweet grapes. And furthest from the [[settings/castle|castle]], by the stakes of the pallisade, was a tall pine-tree, straight and with heavy branches spreading from its trunk. At its root a living spring welled calm into a marble round, then ran between two borders winding, throughout the orchard and so, on, till it flowed at last within the castle and through the women’s rooms.
 
 And every evening, by Brangien’s counsel, Tristan cut him twigs and bark, leapt the sharp stakes and, having come beneath the pine, threw them into the clear spring; they floated light as foam down the stream to the women’s rooms; and Iseult watched for their coming, and on those evenings she would wander out into the orchard and find her friend. Lithe and in fear would she come, watching at every step for what might lurk in the trees observing, foes or the felons whom she knew, till she spied Tristan; and the night and the branches of the pine protected them.
 
@@ -2152,7 +2152,7 @@ She was in tears and trembling, but Tristan praised God the Lord who had shown h
 
 “Queen,” he went on, “often and in vain have I summoned you; never would you come. Take pity; the King hates me and I know not why. Perhaps you know the cause and can charm his anger. For whom can he trust if not you, chaste Queen and courteous, Iseult?”
 
-“Truly, Lord Tristan, you do not know he doubts us both. And I, to add to my shame, must acquaint you of it. Ah! but God knows if I lie, never went cut my [[Love|love]] to any man but he that first received me. And would you have me, at such a time, implore your pardon of the King? Why, did he know of my passage here to-night he would cast my ashes to the wind. My body trembles and I am afraid. I go, for I have waited too long.”
+“Truly, Lord Tristan, you do not know he doubts us both. And I, to add to my shame, must acquaint you of it. Ah! but God knows if I lie, never went cut my [[motifs/love|love]] to any man but he that first received me. And would you have me, at such a time, implore your pardon of the King? Why, did he know of my passage here to-night he would cast my ashes to the wind. My body trembles and I am afraid. I go, for I have waited too long.”
 
 In the branches the King smiled and had pity.
 
@@ -2165,13 +2165,13 @@ So she went back to the women’s rooms and told it to Brangien, who cried: “I
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ma Tristan non aveva la forza di andarsene del tutto; e quando ebbe attraversato i fossati e i confini del [[Castle|Castello]], capì che non poteva andare oltre. Rimase nella città di Tintagel e si sistemò nell’abitazione di un borghese, presso Gorvenal, ma soffriva terribilmente, più di quando, in quel lontano giorno, la freccia del Morholt aveva contaminato il suo corpo.
+Ma Tristan non aveva la forza di andarsene del tutto; e quando ebbe attraversato i fossati e i confini del [[settings/castle|Castello]], capì che non poteva andare oltre. Rimase nella città di Tintagel e si sistemò nell’abitazione di un borghese, presso Gorvenal, ma soffriva terribilmente, più di quando, in quel lontano giorno, la freccia del Morholt aveva contaminato il suo corpo.
 
 Nelle torri lontane, anche Iseult la Bella si trovava in uno stato di estrema sofferenza. Per tutto il giorno doveva fingere di ridere, mentre di notte lottava contro la febbre e la disperazione. Tutta la notte, distesa accanto al re Mark, la febbre la teneva sveglia; fissava solo l’oscurità. Desiderava ardentemente raggiungere Tristan. Sognava di correre verso le porte della fortezza e di trovarvi falci affilati e trappole preparate dai malviventi, capaci di ferire profondamente i suoi ginocchi delicati. Sognava anche di cadere a terra, priva di forze, con il sangue che sgorgava dalle sue ferite. Quei due amanti avrebbero potuto morire, se non fosse stata Brangien ad aiutarli. A rischio della propria vita, lei riuscì a trovare la casa dove giaceva Tristan. Lì, Gorvenal le aprì subito la porta, sapendo quale salvezza potesse portare.
 
-So che lei trovò Tristan, e per salvare quei due innamorati gli insegnò un trucco; non si conosceva mai prima d’allora un inganno più astuto nel campo dell’[[Love|amore]].
+So che lei trovò Tristan, e per salvare quei due innamorati gli insegnò un trucco; non si conosceva mai prima d’allora un inganno più astuto nel campo dell’[[motifs/love|amore]].
 
-Dietro il [[Castle|castello]] di Tintagel c'era un orto recintato da robuste pali appuntiti; vi crescevano innumerevoli alberi carichi di frutti, uccelli e grappoli di uva dolce. Più lontano dal [[Castle|castello]], vicino alle difese di legno, c'era un alto pino, dritto e con rami pesanti che si diramavano dal tronco. Alla sua radice sgorgava una sorgente fresca che formava un laghetto rotondo in marmo; da lì l'acqua scorreva lungo due bordi sinuosi attraverso tutto l'orto, fino a raggiungere infine il castello e passare attraverso le stanze delle donne.
+Dietro il [[settings/castle|castello]] di Tintagel c'era un orto recintato da robuste pali appuntiti; vi crescevano innumerevoli alberi carichi di frutti, uccelli e grappoli di uva dolce. Più lontano dal [[settings/castle|castello]], vicino alle difese di legno, c'era un alto pino, dritto e con rami pesanti che si diramavano dal tronco. Alla sua radice sgorgava una sorgente fresca che formava un laghetto rotondo in marmo; da lì l'acqua scorreva lungo due bordi sinuosi attraverso tutto l'orto, fino a raggiungere infine il castello e passare attraverso le stanze delle donne.
 
 E ogni sera, su consiglio di Brangien, Tristan raccoglieva rametti e corteccia, saltava oltre le punte acuminate dei pali e, una volta raggiunto il sottobosco di pini, li gettava nella sorgente limpida; questi galleggiavano leggeri come schiuma lungo il corso d’acqua fino alle stanze delle donne. Iseult attendeva con ansia il loro arrivo e in quelle serate usciva nel frutteto per incontrare il suo amico. Agile e timorosa, si avvicinava con cautela, attenta a ogni movimento tra gli alberi, temendo che vi nascondessero nemici o quegli assassini che conosceva. Fino a quando non scorgeva Tristan; la notte e i rami dei pini li proteggevano.
 
@@ -2211,7 +2211,7 @@ Era in lacrime e tremava, ma Tristan lodò Dio il Signore che aveva fatto conosc
 
 “Regina,” continuò, “spesso e invano ti ho chiamata; mai sei venuta. Abbi pietà: il Re mi odia e non so perché. Forse tu conosci la ragione e puoi placare la sua rabbia. A chi altro può affidarsi se non a te, casta Regina e gentile, Iseult?”
 
-“Davvero, Lord Tristan, non sapete che lui dubita di entrambi. E io, per aggiungere ulteriore vergogna alla mia situazione, devo informarvene. Ah! Ma Dio sa se sto mentendo. Non ho mai condiviso il mio [[Love|amore]] con nessun altro se non colui che mi accolse per la prima volta. E vorreste davvero che, in un momento del genere, vi pregassi di intercedere presso il Re? Lui, infatti, sapendo della mia visita qui stasera, avrebbe gettato le mie ceneri al vento. Il mio corpo trema. Ho paura. Me ne vado, perché ho aspettato troppo a lungo.”
+“Davvero, Lord Tristan, non sapete che lui dubita di entrambi. E io, per aggiungere ulteriore vergogna alla mia situazione, devo informarvene. Ah! Ma Dio sa se sto mentendo. Non ho mai condiviso il mio [[motifs/love|amore]] con nessun altro se non colui che mi accolse per la prima volta. E vorreste davvero che, in un momento del genere, vi pregassi di intercedere presso il Re? Lui, infatti, sapendo della mia visita qui stasera, avrebbe gettato le mie ceneri al vento. Il mio corpo trema. Ho paura. Me ne vado, perché ho aspettato troppo a lungo.”
 
 Sulle foglie, il Re sorrise e provò compassione.
 
@@ -2234,7 +2234,7 @@ But in an open glade apart, Frocin, the Dwarf, read in the clear stars that the 
 
 THE DISCOVERY
 
-KING MARK MADE peace with Tristan. Tristan returned to the [[Castle|castle]] as of old. Tristan slept in the King’s chamber with his peers. He could come or go, the King thought no more of it.
+KING MARK MADE peace with Tristan. Tristan returned to the [[settings/castle|castle]] as of old. Tristan slept in the King’s chamber with his peers. He could come or go, the King thought no more of it.
 
 Mark had pardoned the felons, and as the seneschal, Dinas of Lidan, found the dwarf wandering in a forest abandoned, he brought him home, and the King had pity and pardoned even him.
 
@@ -2252,7 +2252,7 @@ And the King sighed, looking down in silence.
 
 And he came, did that hunchback of Hell: the felons greeted him and he planned this evil.
 
-“Sire,” said he, “let your nephew ride hard to-morrow at dawn with a brief drawn up on parchment and well sealed with a seal: bid him ride to King Arthur at Carduel. Sire, he sleeps with the peers in your chamber; go you out when the first sleep falls on men, and if he [[Love|love]] Iseult so madly, why, then I swear by God and by the laws of Rome, he will try to speak with her before he rides. But if he do so unknown to you or to me, then slay me. As for the trap, let me lay it, but do you say nothing of his ride to him until the time for sleep.”
+“Sire,” said he, “let your nephew ride hard to-morrow at dawn with a brief drawn up on parchment and well sealed with a seal: bid him ride to King Arthur at Carduel. Sire, he sleeps with the peers in your chamber; go you out when the first sleep falls on men, and if he [[motifs/love|love]] Iseult so madly, why, then I swear by God and by the laws of Rome, he will try to speak with her before he rides. But if he do so unknown to you or to me, then slay me. As for the trap, let me lay it, but do you say nothing of his ride to him until the time for sleep.”
 
 And when King Mark had agreed, this dwarf did a vile thing. He bought of a baker four farthings’ worth of flour, and hid it in the turn of his coat. That night, when the King had supped and the men-at-arms lay down to sleep in hall, Tristan came to the King as custom was, and the King said:
 
@@ -2286,7 +2286,7 @@ But the felons called on the King to take vengeance, saying:
 
 “Do justice, King: take vengeance.”
 
-And Tristan went on, “Have mercy, not on me — for why should I stand at dying? — Truly, but for you, I would have sold my [[Honour|honour]] high to cowards who, under your peace, have put hands on my body — but in homage to you I have yielded and you may do with me what you will. But, lord, remember the Queen!”
+And Tristan went on, “Have mercy, not on me — for why should I stand at dying? — Truly, but for you, I would have sold my [[concepts/honour|honour]] high to cowards who, under your peace, have put hands on my body — but in homage to you I have yielded and you may do with me what you will. But, lord, remember the Queen!”
 
 And as he knelt at the King’s feet he still complained:
 
@@ -2294,7 +2294,7 @@ And as he knelt at the King’s feet he still complained:
 
 Then the barons bound him with ropes, and the Queen also. But had Tristan known that trial by combat was to be denied him, certainly he would not have suffered it.
 
-For he trusted in God and knew no man dared draw sword against him in the lists. And truly he did well to trust in God, for though the felons mocked him when he said he had loved loyally, yet I call you to witness, my lords who read this, and who know of the philtre drunk upon the high seas, and who, understand whether his [[Love|love]] were disloyalty indeed. For men see this and that outward thing, but God alone the heart, and in the heart alone is crime and the sole final judge is God. Therefore did He lay down the law that a man accused might uphold his cause by battle, and God himself fights for the innocent in such a combat.
+For he trusted in God and knew no man dared draw sword against him in the lists. And truly he did well to trust in God, for though the felons mocked him when he said he had loved loyally, yet I call you to witness, my lords who read this, and who know of the philtre drunk upon the high seas, and who, understand whether his [[motifs/love|love]] were disloyalty indeed. For men see this and that outward thing, but God alone the heart, and in the heart alone is crime and the sole final judge is God. Therefore did He lay down the law that a man accused might uphold his cause by battle, and God himself fights for the innocent in such a combat.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2307,7 +2307,7 @@ Ma in una radura appartata, Frocin, il Nano, lesse nelle stelle chiare che il Re
 
 LA SCOPERTA
 
-RE MARCO FECE pace con Tristano. Tristano tornò al [[Castle|castello]] come un tempo. Tristano dormiva nella camera del Re insieme ai suoi pari. Poteva andare e venire, e il Re non ci badava più.
+RE MARCO FECE pace con Tristano. Tristano tornò al [[settings/castle|castello]] come un tempo. Tristano dormiva nella camera del Re insieme ai suoi pari. Poteva andare e venire, e il Re non ci badava più.
 
 Marco aveva perdonato i felloni, e poiché il siniscalco, Dinas di Lidan, trovò il nano che vagava abbandonato in una foresta, lo ricondusse a casa, e il Re ne ebbe pietà e perdonò anche lui.
 
@@ -2325,7 +2325,7 @@ E il Re sospirò, guardando in basso in silenzio.
 
 Ed egli venne, quel gobbo d'inferno: i felloni lo salutarono ed egli ordì questo male.
 
-«Sire» disse «fate che vostro nipote cavalchi di gran carriera domani all'alba con un messaggio steso su pergamena e ben chiuso da un sigillo: ordinategli di cavalcare fino a Re Artù, a Carduel. Sire, egli dorme con i pari nella vostra camera; uscite voi quando il primo sonno cala sugli uomini, e se egli [[Love|ama]] Isotta così follemente, ebbene, giuro per Dio e per le leggi di Roma che tenterà di parlarle prima di partire. Ma se lo farà a vostra insaputa e alla mia, allora uccidetemi. Quanto alla trappola, lasciate che la tenda io; ma voi non ditegli nulla della sua partenza fino all'ora del sonno.»
+«Sire» disse «fate che vostro nipote cavalchi di gran carriera domani all'alba con un messaggio steso su pergamena e ben chiuso da un sigillo: ordinategli di cavalcare fino a Re Artù, a Carduel. Sire, egli dorme con i pari nella vostra camera; uscite voi quando il primo sonno cala sugli uomini, e se egli [[motifs/love|ama]] Isotta così follemente, ebbene, giuro per Dio e per le leggi di Roma che tenterà di parlarle prima di partire. Ma se lo farà a vostra insaputa e alla mia, allora uccidetemi. Quanto alla trappola, lasciate che la tenda io; ma voi non ditegli nulla della sua partenza fino all'ora del sonno.»
 
 E quando Re Marco ebbe acconsentito, quel nano fece una cosa vile. Comprò da un fornaio quattro denari di farina e la nascose nella piega della veste. Quella notte, quando il Re ebbe cenato e gli uomini d'arme si furono coricati a dormire nella sala, Tristano venne dal Re come era usanza, e il Re disse:
 
@@ -2351,7 +2351,7 @@ Allora il Re disse:
 
 «Tristano, ormai nulla più ti trattiene. Domani morirai.»
 
-#E Tristan rispose:
+E Tristano rispose:
 
 «Pietà, Signore, nel nome di Dio che patì la Croce!»
 
@@ -2359,7 +2359,7 @@ Ma i felloni chiesero al Re di prendere vendetta, dicendo:
 
 «Fate giustizia, Re: prendete vendetta.»
 
-E Tristano proseguì: «Pietà, non di me — perché dovrei arretrare davanti alla morte? — In verità, se non fosse per voi, avrei venduto caro il mio [[Honour|onore]] a questi vigliacchi che, sotto la vostra pace, hanno messo le mani sul mio corpo — ma in omaggio a voi mi sono arreso, e voi potete fare di me ciò che volete. Ma, signore, ricordatevi della Regina!»
+E Tristano proseguì: «Pietà, non di me — perché dovrei arretrare davanti alla morte? — In verità, se non fosse per voi, avrei venduto caro il mio [[concepts/honour|onore]] a questi vigliacchi che, sotto la vostra pace, hanno messo le mani sul mio corpo — ma in omaggio a voi mi sono arreso, e voi potete fare di me ciò che volete. Ma, signore, ricordatevi della Regina!»
 
 E mentre s'inginocchiava ai piedi del Re, ancora si lamentava:
 
@@ -2367,7 +2367,7 @@ E mentre s'inginocchiava ai piedi del Re, ancora si lamentava:
 
 Allora i baroni lo legarono con funi, e legarono anche la Regina. Ma se Tristano avesse saputo che gli sarebbe stato negato il giudizio per combattimento, certo non l'avrebbe sopportato.
 
-Poiché egli confidava in Dio e sapeva che nessuno avrebbe osato sguainare la spada contro di lui nel campo chiuso. E davvero fece bene a confidare in Dio, perché, sebbene i felloni lo schernissero quando disse d'aver amato lealmente, pure chiamo voi a testimoni, miei signori che leggete queste pagine, e che sapete del filtro bevuto in alto mare, e che comprendete se il suo [[Love|amore]] fosse davvero slealtà. Perché gli uomini vedono questa e quella cosa esteriore, ma Dio solo il cuore, e nel cuore soltanto è il delitto, e il solo giudice ultimo è Dio. Perciò Egli stabilì la legge che un uomo accusato potesse sostenere la sua causa in battaglia, e Dio stesso combatte per l'innocente in tale duello.
+Poiché egli confidava in Dio e sapeva che nessuno avrebbe osato sguainare la spada contro di lui nel campo chiuso. E davvero fece bene a confidare in Dio, perché, sebbene i felloni lo schernissero quando disse d'aver amato lealmente, pure chiamo voi a testimoni, miei signori che leggete queste pagine, e che sapete del filtro bevuto in alto mare, e che comprendete se il suo [[motifs/love|amore]] fosse davvero slealtà. Perché gli uomini vedono questa e quella cosa esteriore, ma Dio solo il cuore, e nel cuore soltanto è il delitto, e il solo giudice ultimo è Dio. Perciò Egli stabilì la legge che un uomo accusato potesse sostenere la sua causa in battaglia, e Dio stesso combatte per l'innocente in tale duello.
 
 
 
@@ -2382,7 +2382,7 @@ THE CHANTRY LEAP
 
 DARK WAS THE night, and the news ran that Tristan and the Queen were held and that the King would kill them; and wealthy burgess, or common man, they wept and ran to the palace.
 
-And the murmurs and the cries ran through the city, but such was the King’s anger in his [[Castle|castle]] above that not the strongest nor the proudest baron dared move him.
+And the murmurs and the cries ran through the city, but such was the King’s anger in his [[settings/castle|castle]] above that not the strongest nor the proudest baron dared move him.
 
 Night ended and the day drew near. Mark, before dawn, rode out to the place where he held pleas and judgment. He ordered a ditch to be dug in the earth and knotty vine-shoots and thorns to be laid therein.
 
@@ -2402,7 +2402,7 @@ He ordered the fire to be lit, and Tristan to be called.
 
 The flames rose, and all were silent before the flames, and the King waited.
 
-The servants ran to the room where watch was kept on the two lovers; and they dragged Tristan out by his hands though he wept for his [[Honour|honour]]; but as they dragged him off in such a shame, the Queen still called to him:
+The servants ran to the room where watch was kept on the two lovers; and they dragged Tristan out by his hands though he wept for his [[concepts/honour|honour]]; but as they dragged him off in such a shame, the Queen still called to him:
 
 “Friend, if I die that you may live, that will be great joy.”
 
@@ -2450,11 +2450,11 @@ Just then there had come up a hundred lepers of the King’s, deformed and broke
 
 And the King answered:
 
-“Yes; let her live that life, for it is better justice and more terrible. I can [[Love|love]] those that gave me such a thought.”
+“Yes; let her live that life, for it is better justice and more terrible. I can [[motifs/love|love]] those that gave me such a thought.”
 
 And the lepers answered:
 
-“Throw her among us, and make her one of us. Never shall lady have known a worse end. And look,” they said, “at our rags and our abominations. She has had pleasure in rich stuffs and furs, jewels and walls of marble, [[Honour|honour]], good wines and joy, but when she sees your lepers always, King, and only them for ever, their couches and their huts, then indeed she will know the wrong she has done, and bitterly desire even that great flame of thorns.”
+“Throw her among us, and make her one of us. Never shall lady have known a worse end. And look,” they said, “at our rags and our abominations. She has had pleasure in rich stuffs and furs, jewels and walls of marble, [[concepts/honour|honour]], good wines and joy, but when she sees your lepers always, King, and only them for ever, their couches and their huts, then indeed she will know the wrong she has done, and bitterly desire even that great flame of thorns.”
 
 And as the King heard them, he stood a long time without moving; then he ran to the Queen and seized her by the hand, and she cried:
 
@@ -2476,7 +2476,7 @@ But Ivan threw his cloak away and shouted:
 
 Then it was fine to see the lepers throwing their capes aside, and stirring their sick legs, and brandishing their crutches, some threatening: groaning all; but to strike them Tristan was too noble. There are singers who sing that Tristan killed Ivan, but it is a lie. Too much a knight was he to kill such things. Gorvenal indeed, snatching up an oak sapling, crashed it on Ivan’s head till his blood ran down to his misshapen feet. Then Tristan took the Queen.
 
-Henceforth near him she felt no further evil. He cut the cords that bound her arms so straightly, and he left the plain so that they plunged into the wood of Morois; and there in the thick wood Tristan was as sure as in a [[Castle|castle]] keep.
+Henceforth near him she felt no further evil. He cut the cords that bound her arms so straightly, and he left the plain so that they plunged into the wood of Morois; and there in the thick wood Tristan was as sure as in a [[settings/castle|castle]] keep.
 
 And as the sun fell they halted all three at the foot of a little hill: fear had wearied the Queen, and she leant her head upon his body and slept.
 
@@ -2491,11 +2491,11 @@ Pertanto, Tristan chiese giustizia e il diritto di combattere; per questo fu att
 
 Ma se avesse saputo ciò che stava per accadere, avrebbe ucciso quei criminali.
 
-#Il salto del cantore
+Il salto del cantore
 
 La notte era buia, e si diffuse la voce che Tristan e la Regina fossero stati catturati e che il Re avrebbe ucciso loro; sia i ricchi borghesi che la gente comune piangevano e correvano verso il palazzo.
 
-E i mormori e i gridi si diffusero per tutta la città, ma l’ira del Re nel suo [[Castle|castello]] era tale che nemmeno il più forte o il più orgoglioso dei baroni osava contrariarlo.
+E i mormori e i gridi si diffusero per tutta la città, ma l’ira del Re nel suo [[settings/castle|castello]] era tale che nemmeno il più forte o il più orgoglioso dei baroni osava contrariarlo.
 
 La notte finì e il giorno si avvicinò. Prima dell’alba, Mark si recò nel luogo dove soleva tenere le sue udienze e pronunciare i suoi giudizi. Fece scavare un fossato nel terreno e vi fece gettare dei rami di vite nodosi e delle spine.
 
@@ -2515,7 +2515,7 @@ Ordinò di accendere il fuoco e di chiamare Tristan.
 
 Le fiamme iniziarono a levarsi; tutti rimasero in silenzio di fronte a esse, mentre il Re attendeva.
 
-I servitori corsero nella stanza dove i due amanti erano sorvegliati; trascinarono via Tristan per le mani, nonostante lui piangesse per la propria [[Honour|onore]]; ma mentre lo portavano via in modo così umiliante, la Regina continuò a chiamarlo.
+I servitori corsero nella stanza dove i due amanti erano sorvegliati; trascinarono via Tristan per le mani, nonostante lui piangesse per la propria [[concepts/honour|onore]]; ma mentre lo portavano via in modo così umiliante, la Regina continuò a chiamarlo.
 
 “Amico mio, se io morissi affinché tu potessi vivere, ciò sarebbe una grande gioia per me.”
 
@@ -2561,9 +2561,9 @@ Proprio in quel momento arrivarono cento lebbrosi del Re, deformi e spezzati, co
 
 “O Re, vorresti bruciare questa donna in quelle fiamme, e sarebbe giustizia, ma troppo rapida: molto presto il fuoco si spegnerà, le sue ceneri saranno sparse dal vento forte e la sua agonia finirà. Gettala invece tra i lebbrosi, affinché possa trascorrere la vita chiedendo la morte.”
 
-# “E il Re rispose…”
+“E il Re rispose…”
 
-“Sì; lasciatele vivere quella vita, perché è una giustizia più profonda, e anche più terribile. Posso [[Love|amare]] coloro che mi hanno dato un pensiero del genere.”
+“Sì; lasciatele vivere quella vita, perché è una giustizia più profonda, e anche più terribile. Posso [[motifs/love|amare]] coloro che mi hanno dato un pensiero del genere.”
 
 E i lebbrosi risposero:
 
@@ -2589,7 +2589,7 @@ Ora presero quella strada dove Tristan si nascondeva, e Gorvenal gli disse:
 
 Allora fu bello vedere i lebbrosi gettare da parte i loro mantelli, muovere le loro gambe malate e brandire le loro stampelle; alcuni minacciavano, tutti gemevano. Ma colpirli sarebbe stato troppo nobile da parte di Tristan. Ci sono cantanti che dicono che Tristan abbia ucciso Ivan, ma è una menzogna. Era troppo un cavaliere per compiere simili atti. Gorvenal, invece, afferrò un giovane albero di quercia e lo usò per colpire la testa di Ivan, fino a quando il sangue non gli corse giù fino ai piedi deformi. Poi Tristan prese la Regina.
 
-Da quel momento in poi, vicino a lui non provò più alcun male. Lui tagliò i lacci che le legavano le braccia in modo così deciso, e lasciò il pianoro in modo che essi si addentrassero nella foresta di Morois; ed là, nel fitto bosco, Tristan era al sicuro come se si trovasse all’interno di un [[Castle|castello]] fortificato.
+Da quel momento in poi, vicino a lui non provò più alcun male. Lui tagliò i lacci che le legavano le braccia in modo così deciso, e lasciò il pianoro in modo che essi si addentrassero nella foresta di Morois; ed là, nel fitto bosco, Tristan era al sicuro come se si trovasse all’interno di un [[settings/castle|castello]] fortificato.
 
 E quando il sole tramontò, i tre si fermarono ai piedi di una piccola collina: la paura aveva stancato la Regina, che appoggiò la testa sul suo corpo e si addormentò.
 
@@ -2628,7 +2628,7 @@ Ogrin sat down; but at his feet Iseult, her head upon the knees of that man of G
 
 Iseult rose up; they held each other’s hands. They passed into the high grass and the underwood: the trees hid them with their branches. They disappeared beyond the leaves.
 
-The summer passed and the winter came: the two lovers lived, all hidden in the hollow of a rock, and on the frozen earth the cold crisped their couch with dead leaves. In the strength of their [[Love|love]] neither one nor the other felt these mortal things. But when the open skies had come back with the springtime, they built a hut of green branches under the great trees. Tristan had known, ever since his childhood, that art by which a man may sing the song of birds in the woods, and at his fancy, he would call as call the thrush, the blackbird and the nightingale, and all winged things; and sometimes in reply very many birds would come on to the branches of his hut and sing their song full-throated in the new light.
+The summer passed and the winter came: the two lovers lived, all hidden in the hollow of a rock, and on the frozen earth the cold crisped their couch with dead leaves. In the strength of their [[motifs/love|love]] neither one nor the other felt these mortal things. But when the open skies had come back with the springtime, they built a hut of green branches under the great trees. Tristan had known, ever since his childhood, that art by which a man may sing the song of birds in the woods, and at his fancy, he would call as call the thrush, the blackbird and the nightingale, and all winged things; and sometimes in reply very many birds would come on to the branches of his hut and sing their song full-throated in the new light.
 
 The lovers had ceased to wander through the forest, for none of the barons ran the risk of their pursuit knowing well that Tristan would have hanged them to the branches of a tree. One day, however, one of the four traitors, Guenelon, whom God blast! drawn by the heat of the hunt, dared enter the Morois. And that morning, on the forest edge in a ravine, Gorvenal, having unsaddled his horse, had let him graze on the new grass, while far off in their hut Tristan held the Queen, and they slept. Then suddenly Gorvenal heard the cry of the pack; the hounds pursued a deer, which fell into that ravine. And far on the heath the hunter showed — and Gorvenal knew him for the man whom his master hated above all. Alone, with bloody spurs, and striking his horse’s mane, he galloped on; but Gorvenal watched him from ambush: he came fast, he would return more slowly. He passed and Gorvenal leapt from his ambush and seized the rein and, suddenly, remembering all the wrong that man had done, hewed him to death and carried off his head in his hands. And when the hunters found the body, as they followed, they thought Tristan came after and they fled in fear of death, and thereafter no man hunted in that wood. And far off, in the hut upon their couch of leaves, slept Tristan and the Queen.
 
@@ -2636,7 +2636,7 @@ There came Gorvenal, noiseless, the dead man’s head in his hands that he might
 
 Then Tristan was glad, and henceforward from that day no one dared enter the wild wood, for terror guarded it and the lovers were lords of it all: and then it was that Tristan fashioned his bow “Failnaught” which struck home always, man or beast, whatever it aimed at.
 
-My lords, upon a summer day, when mowing is, a little after Whitsuntide, as the birds sang dawn Tristan left his hut and girt his sword on him, and took his bow “Failnaught” and went off to hunt in the wood; but before evening, great evil was to fall on him, for no lovers ever loved so much or paid their [[Love|love]] so dear.
+My lords, upon a summer day, when mowing is, a little after Whitsuntide, as the birds sang dawn Tristan left his hut and girt his sword on him, and took his bow “Failnaught” and went off to hunt in the wood; but before evening, great evil was to fall on him, for no lovers ever loved so much or paid their [[motifs/love|love]] so dear.
 
 When Tristan came back, broken by the heat, the Queen said
 
@@ -2649,7 +2649,7 @@ So she lay down, and he, and between them Tristan put his naked sword, and on th
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Parte seconda
+Parte seconda
 
 Il Bosco di Morois
 
@@ -2675,17 +2675,17 @@ Ogrin si sedette; ma ai suoi piedi Iseult, con la testa appoggiata sulle ginocch
 
 Iseult si alzò in piedi; si tennero per mano e si addentrarono nell’erba alta e nel sottobosco: gli alberi li nascosero con i loro rami. Scomparvero oltre le foglie.
 
-L'estate passò e arrivò l'inverno: i due amanti vissero nascosti nella cavità di una roccia, e sulla terra congelata le foglie morte ricoprivano il loro giaciglio. Grazie alla forza del loro [[Love|amore]], nessuno dei due sentiva l’effetto di queste cose terrene. Ma quando il cielo si schiarì con l’arrivo della primavera, costruirono una capanna con rami verdi sotto gli alberi grandi. Fin da bambino, Tristan conosceva quell’arte che permette a un uomo di imitare il canto degli uccelli nella foresta; a seconda del suo desiderio, riusciva a far cantare il tordo, il merlo e la rondine, insieme a tutte le altre creature alate. A volte, in risposta alle sue chiamate, molti uccelli si posavano sui rami della sua capanna e cantavano a piena voce sotto quella nuova luce primaverile.
+L'estate passò e arrivò l'inverno: i due amanti vissero nascosti nella cavità di una roccia, e sulla terra congelata le foglie morte ricoprivano il loro giaciglio. Grazie alla forza del loro [[motifs/love|amore]], nessuno dei due sentiva l’effetto di queste cose terrene. Ma quando il cielo si schiarì con l’arrivo della primavera, costruirono una capanna con rami verdi sotto gli alberi grandi. Fin da bambino, Tristan conosceva quell’arte che permette a un uomo di imitare il canto degli uccelli nella foresta; a seconda del suo desiderio, riusciva a far cantare il tordo, il merlo e la rondine, insieme a tutte le altre creature alate. A volte, in risposta alle sue chiamate, molti uccelli si posavano sui rami della sua capanna e cantavano a piena voce sotto quella nuova luce primaverile.
 
 I due amanti avevano smesso di vagare per la foresta, poiché nessuno dei baroni avrebbe corso il rischio di inseguirli, sapendo bene che Tristan li avrebbe impiccati ai rami degli alberi. Un giorno, tuttavia, uno dei quattro traditori, Guenelon, maledetto da Dio! spinto dall’entusiasmo della caccia, osò entrare nella foresta di Morois. Quella mattina, sul bordo del bosco, in una gola, Gorvenal aveva smontato il cavallo e lo aveva lasciato pascolare sull’erba fresca; lontano, nella loro capanna, Tristan teneva tra le braccia la regina e dormivano entrambi. All’improvviso, Gorvenal sentì il latrato dei cani: stavano inseguendo un cervo che era caduto nella gola. Lontano, nel campo aperto, il cacciatore apparve, e Gorvenal lo riconobbe subito: era l’uomo che il suo padrone odiava più di ogni altro. Solo, con gli speroni insanguinati e battendo la criniera del cavallo, il cacciatore si lanciò all’inseguimento; ma Gorvenal lo teneva d’occhio da un’imboscata. L’uomo avanzava velocemente, poi rallentò. Quando gli passò accanto, Gorvenal balzò fuori dall’ombra, afferrò le redini del cavallo e, ricordando tutte le ingiustizie che quell’uomo aveva commesso, lo uccise sul colpo e portò via la sua testa. Quando i cacciatori trovarono il corpo, pensarono che fosse Tristan ad averlo ucciso e fuggirono spaventati. Da allora, nessuno più andò a caccia in quella foresta. Lontano, nella capanna, sotto un letto di foglie, dormivano Tristan e la regina.
 
-Arrivò Gorvenal, silenziosamente, con la testa del morto tra le mani, per sollevare il cuore del suo padrone al suo risveglio. La appese per i capelli fuori dalla capanna, e le foglie la circondarono a guisa di ghirlanda. Tristan si svegliò e la vide,半 nascosta tra le foglie, che lo fissava mentre lui la guardava; ne ebbe paura. Ma Gorvenal disse: “Non temere, è morto. L’ho ucciso con questa spada.”
+Arrivò Gorvenal, silenziosamente, con la testa del morto tra le mani, per sollevare il cuore del suo padrone al suo risveglio. La appese per i capelli fuori dalla capanna, e le foglie la circondarono a guisa di ghirlanda. Tristan si svegliò e la vide, semi-nascosta tra le foglie, che lo fissava mentre lui la guardava; ne ebbe paura. Ma Gorvenal disse: “Non temere, è morto. L’ho ucciso con questa spada.”
 
 Allora Tristan fu felice, e da quel giorno in poi nessuno osò più entrare nella foresta selvaggia, perché il terrore la proteggeva e i due innamorati ne divennero i padroni assoluti. Fu proprio allora che Tristan costruì il suo arco “Failnaught”, che colpiva sempre nel segno, sia che si trattasse di un uomo o di una bestia, qualunque fosse l’obiettivo.
 
-Signori miei, in una giornata estiva, quando si tagliava l’erba, poco dopo la Pentecoste, mentre gli uccelli cantavano all’alba, Tristan lasciò la sua capanna, si mise la spada al fianco, prese il suo arco “Failnaught” e andò a cacciare nel bosco; ma prima di sera, grande male gli sarebbe accaduto, perché nessun altro innamorato aveva mai amato così tanto o espresso il proprio [[Love|amore]] con tanta passione.
+Signori miei, in una giornata estiva, quando si tagliava l’erba, poco dopo la Pentecoste, mentre gli uccelli cantavano all’alba, Tristan lasciò la sua capanna, si mise la spada al fianco, prese il suo arco “Failnaught” e andò a cacciare nel bosco; ma prima di sera, grande male gli sarebbe accaduto, perché nessun altro innamorato aveva mai amato così tanto o espresso il proprio [[motifs/love|amore]] con tanta passione.
 
-#Quando Tristan tornò, distrutto dal caldo… la Regina disse
+Quando Tristan tornò, distrutto dal caldo… la Regina disse
 
 “Amico, dove sei stato?”
 
@@ -2744,7 +2744,7 @@ OGRIN THE HERMIT
 
 AFTER THREE DAYS it happened that Tristan, in following a wounded deer far out into the wood, was caught by night-fall, and took to thinking thus under the dark wood alone:
 
-“It was not fear that moved the King … he had my sword and I slept … and had he wished to slay, why did he leave me his own blade? … O, my father, my father, I know you now. There was pardon in your heart, and tenderness and pity … yet how was that, for who could forgive in this matter without shame? … It was not pardon it was understanding; the faggot and the chantry leap and the leper ambush have shown him God upon our side. Also I think he remembered the boy who long ago harped at his feet, and my land of Lyonesse which I left for him; the Morholt’s spear and blood shed in his [[Honour|honour]]. He remembered how I made no avowal, but claimed a trial at arms, and the high nature of his heart has made him understand what men around him cannot; never can he know of the spell, yet he doubts and hopes and knows I have told no lie, and would have me prove my cause. O, but to win at arms by God’s aid for him, and to enter his peace and to put on mail for him again … but then he must take her back, and I must yield her … it would have been much better had he killed me in my sleep. For till now I was hunted and I could hate and forget; he had thrown Iseult to the lepers, she was no more his, but mine; and now by his compassion he has wakened my heart and regained the Queen. For Queen she was at his side, but in this wood she lives a slave, and I waste her youth; and for rooms all hung with silk she has this savage place, and a hut for her splendid walls, and I am the cause that she treads this ugly road. So now I cry to God the Lord, who is King of the world, and beg Him to give me strength to yield back Iseult to King Mark; for she is indeed his wife, wed according to the laws of Rome before all the Barony of his land.”
+“It was not fear that moved the King … he had my sword and I slept … and had he wished to slay, why did he leave me his own blade? … O, my father, my father, I know you now. There was pardon in your heart, and tenderness and pity … yet how was that, for who could forgive in this matter without shame? … It was not pardon it was understanding; the faggot and the chantry leap and the leper ambush have shown him God upon our side. Also I think he remembered the boy who long ago harped at his feet, and my land of Lyonesse which I left for him; the Morholt’s spear and blood shed in his [[concepts/honour|honour]]. He remembered how I made no avowal, but claimed a trial at arms, and the high nature of his heart has made him understand what men around him cannot; never can he know of the spell, yet he doubts and hopes and knows I have told no lie, and would have me prove my cause. O, but to win at arms by God’s aid for him, and to enter his peace and to put on mail for him again … but then he must take her back, and I must yield her … it would have been much better had he killed me in my sleep. For till now I was hunted and I could hate and forget; he had thrown Iseult to the lepers, she was no more his, but mine; and now by his compassion he has wakened my heart and regained the Queen. For Queen she was at his side, but in this wood she lives a slave, and I waste her youth; and for rooms all hung with silk she has this savage place, and a hut for her splendid walls, and I am the cause that she treads this ugly road. So now I cry to God the Lord, who is King of the world, and beg Him to give me strength to yield back Iseult to King Mark; for she is indeed his wife, wed according to the laws of Rome before all the Barony of his land.”
 
 And as he thought thus, he leant upon his bow, and all through the night considered his sorrow.
 
@@ -2756,7 +2756,7 @@ Just then she heard the feet of Tristan coming over the dead leaves and twigs. S
 
 Iseult took the sword, and kissed the hilt of gold, and Tristan saw her weeping.
 
-“Friend,” said he, “if I could make my peace with the King; if he would allow me to sustain in arms that neither by act nor word have I loved you with a wrongful [[Love|love]], any knight from the Marshes of Ely right away to Dureaume that would gainsay me, would find me armed in the ring. Then if the King would keep you and drive me out I would cross to the Lowlands or to Brittany with Gorvenal alone. But wherever I went and always, Queen, I should be yours; nor would I have spoken thus, Iseult, but for the wretchedness you bear so long for my sake in this desert land.”
+“Friend,” said he, “if I could make my peace with the King; if he would allow me to sustain in arms that neither by act nor word have I loved you with a wrongful [[motifs/love|love]], any knight from the Marshes of Ely right away to Dureaume that would gainsay me, would find me armed in the ring. Then if the King would keep you and drive me out I would cross to the Lowlands or to Brittany with Gorvenal alone. But wherever I went and always, Queen, I should be yours; nor would I have spoken thus, Iseult, but for the wretchedness you bear so long for my sake in this desert land.”
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2797,7 +2797,7 @@ Poi, nel sonno, a Iseult apparve una visione. Le sembrava di trovarsi in un gran
 
 “Oh, mio signore, il Re ci ha trovati qui!”
 
-# E Tristan disse:
+E Tristan disse:
 
 “Gli ha preso la mia spada; era solo, ma tornerà e ci brucerà davanti alla gente. Dobbiamo fuggire.”
 
@@ -2828,15 +2828,15 @@ Iseult prese la spada, baciò il fodero d'oro, e Tristan la vide piangere.
 
 “Tristan,” she said, “there is the hermit Ogrin. Let us return to him, and cry mercy to the King of Heaven.”
 
-They wakened Gorvenal; Iseult mounted the steed, and Tristan led it by the bridle, and all night long they went for the last time through the woods of their [[Love|love]], and they did not speak a word. By morning they came to the Hermitage, where Ogrin read at the threshold, and seeing them, called them tenderly:
+They wakened Gorvenal; Iseult mounted the steed, and Tristan led it by the bridle, and all night long they went for the last time through the woods of their [[motifs/love|love]], and they did not speak a word. By morning they came to the Hermitage, where Ogrin read at the threshold, and seeing them, called them tenderly:
 
-“Friends,” he cried, “see how [[Love]] drives you still to further wretchedness. Will you not do penance at last for your madness?”
+“Friends,” he cried, “see how [[motifs/love|Love]] drives you still to further wretchedness. Will you not do penance at last for your madness?”
 
 “Lord Ogrin,” said Tristan, “hear us. Help us to offer peace to the King, and I will yield him the Queen, and will myself go far away into Brittany or the Lowlands, and if some day the King suffer me, I will return and serve as I should.”
 
 And at the hermit’s feet Iseult said in her turn:
 
-“Nor will I live longer so, for though I will not say one word of penance for my [[Love|love]], which is there and remains forever, yet from now on I will be separate from him.”
+“Nor will I live longer so, for though I will not say one word of penance for my [[motifs/love|love]], which is there and remains forever, yet from now on I will be separate from him.”
 
 Then the hermit wept and praised God and cried: “High King, I praise Thy Name, for that Thou hast let me live so long as to give aid to these!”
 
@@ -2864,7 +2864,7 @@ He summoned by name the choicest of his baronage, and when they were all assembl
 
 The chaplain rose, unfolded the writ, and said, upstanding
 
-“My lords, it is Tristan that first sends love and homage to the King and all his Barony, and he adds, ‘O King, when I slew the dragon and conquered the King of [[Ireland]]’s daughter it was to me they gave her. I was to ward her at will and I yielded her to you. Yet hardly had you wed her when felons made you accept their lies, and in your anger, fair uncle, my lord, you would have had us burnt without trial. But God took compassion on us; we prayed him and he saved the Queen, as justice was: and me also — though I leapt from a high rock, I was saved by the power of God. And since then what have I done blameworthy? The Queen was thrown to the lepers; I came to her succour and bore her away. Could I have done less for a woman, who all but died innocent through me? I fled through the woods. Nor could I have come down into the vale and yielded her, for there was a ban to take us dead or alive. But now, as then, I am ready, my lord, to sustain in arms against all comers that never had the Queen for me, nor I for her a love dishonourable to you. Publish the lists, and if I cannot prove my right in arms, burn me before your men. But if I conquer and you take back Iseult, no baron of yours will serve you as will I; and if you will not have me, I will offer myself to the King of Galloway, or to him of the Lowlands, and you will hear of me never again. Take counsel, King, for if you will make no terms I will take back Iseult to [[Ireland]], and she shall be Queen in her own land.’”
+“My lords, it is Tristan that first sends love and homage to the King and all his Barony, and he adds, ‘O King, when I slew the dragon and conquered the King of [[settings/ireland|Ireland]]’s daughter it was to me they gave her. I was to ward her at will and I yielded her to you. Yet hardly had you wed her when felons made you accept their lies, and in your anger, fair uncle, my lord, you would have had us burnt without trial. But God took compassion on us; we prayed him and he saved the Queen, as justice was: and me also — though I leapt from a high rock, I was saved by the power of God. And since then what have I done blameworthy? The Queen was thrown to the lepers; I came to her succour and bore her away. Could I have done less for a woman, who all but died innocent through me? I fled through the woods. Nor could I have come down into the vale and yielded her, for there was a ban to take us dead or alive. But now, as then, I am ready, my lord, to sustain in arms against all comers that never had the Queen for me, nor I for her a love dishonourable to you. Publish the lists, and if I cannot prove my right in arms, burn me before your men. But if I conquer and you take back Iseult, no baron of yours will serve you as will I; and if you will not have me, I will offer myself to the King of Galloway, or to him of the Lowlands, and you will hear of me never again. Take counsel, King, for if you will make no terms I will take back Iseult to [[settings/ireland|Ireland]], and she shall be Queen in her own land.’”
 
 When the barons of Cornwall heard how Tristan offered battle, they said to the King:
 
@@ -2897,15 +2897,15 @@ And they kissed each other on the lips.
 
 «Tristano», disse, «ecco l'eremita Ogrin. Torniamo da lui e imploriamo pietà al Re del Cielo.»
 
-Svegliarono Gorvenal; Isotta montò sul destriero e Tristano lo condusse per la briglia, e per tutta la notte attraversarono per l'ultima volta i boschi del loro [[Love|amore]], e non dissero una parola. Al mattino giunsero all'Eremo, dove Ogrin leggeva sulla soglia e, vedendoli, li chiamò teneramente:
+Svegliarono Gorvenal; Isotta montò sul destriero e Tristano lo condusse per la briglia, e per tutta la notte attraversarono per l'ultima volta i boschi del loro [[motifs/love|amore]], e non dissero una parola. Al mattino giunsero all'Eremo, dove Ogrin leggeva sulla soglia e, vedendoli, li chiamò teneramente:
 
-«Amici», gridò, «vedete come l'[[Love|Amore]] vi spinge a sventura sempre maggiore. Non farete finalmente penitenza della vostra follia?»
+«Amici», gridò, «vedete come l'[[motifs/love|Amore]] vi spinge a sventura sempre maggiore. Non farete finalmente penitenza della vostra follia?»
 
 «Messer Ogrin», disse Tristano, «ascoltateci. Aiutateci a offrire pace al Re: io gli renderò la Regina e me ne andrò lontano, in Bretagna o nei Paesi Bassi, e se un giorno il Re me lo consentirà, tornerò e lo servirò come devo.»
 
 E ai piedi dell'eremita Isotta disse a sua volta:
 
-«Nemmeno io vivrò più a lungo così, perché, sebbene non voglia dire una sola parola di penitenza per il mio [[Love|amore]], che è là e resta per sempre, d'ora innanzi sarò separata da lui.»
+«Nemmeno io vivrò più a lungo così, perché, sebbene non voglia dire una sola parola di penitenza per il mio [[motifs/love|amore]], che è là e resta per sempre, d'ora innanzi sarò separata da lui.»
 
 Allora l'eremita pianse e lodò Dio e gridò: «Alto Re, lodo il Tuo Nome, perché mi hai concesso di vivere tanto a lungo da poter recare aiuto a costoro!»
 
@@ -2933,7 +2933,7 @@ Convocò per nome i migliori del suo baronaggio, e quando furono tutti riuniti r
 
 Il cappellano si alzò, spiegò lo scritto e disse, in piedi
 
-«Miei signori, è Tristano che per primo manda amore e omaggio al Re e a tutta la sua Baronia, e aggiunge: “O Re, quando uccisi il drago e conquistai la figlia del re d'[[Ireland|Irlanda]], fu a me che la diedero. Dovevo custodirla a mio piacimento, e io la cedetti a voi. Eppure vi eravate appena sposato con lei che dei felloni vi fecero accettare le loro menzogne, e nella vostra ira, caro zio, mio signore, ci avreste fatti bruciare senza processo. Ma Dio ebbe compassione di noi; lo pregammo ed egli salvò la Regina, come era giusto: e salvò anche me — benché io saltassi da un'alta rupe, fui salvato dalla potenza di Dio. E da allora che cosa ho fatto di biasimevole? La Regina fu gettata ai lebbrosi; io venni in suo soccorso e la portai via. Potevo fare di meno per una donna che per poco non morì innocente per causa mia? Fuggii attraverso i boschi. Né potevo scendere nella valle e restituirvela, perché vi era un bando che ci voleva morti o vivi. Ma ora, come allora, sono pronto, mio signore, a sostenere con le armi contro chiunque che mai la Regina ebbe per me, né io per lei, un amore che vi disonorasse. Fate bandire il campo, e se non saprò provare il mio diritto con le armi, bruciatemi davanti ai vostri uomini. Ma se vincerò e voi riprenderete Isotta, nessuno dei vostri baroni vi servirà come vi servirò io; e se non vorrete accogliermi, mi offrirò al re di Galloway, o a quello dei Paesi Bassi, e non sentirete mai più parlare di me. Prendete consiglio, o Re, perché se non verrete a patti io ricondurrò Isotta in [[Ireland|Irlanda]], ed ella sarà Regina nella sua terra.”»
+«Miei signori, è Tristano che per primo manda amore e omaggio al Re e a tutta la sua Baronia, e aggiunge: “O Re, quando uccisi il drago e conquistai la figlia del re d'[[settings/ireland|Irlanda]], fu a me che la diedero. Dovevo custodirla a mio piacimento, e io la cedetti a voi. Eppure vi eravate appena sposato con lei che dei felloni vi fecero accettare le loro menzogne, e nella vostra ira, caro zio, mio signore, ci avreste fatti bruciare senza processo. Ma Dio ebbe compassione di noi; lo pregammo ed egli salvò la Regina, come era giusto: e salvò anche me — benché io saltassi da un'alta rupe, fui salvato dalla potenza di Dio. E da allora che cosa ho fatto di biasimevole? La Regina fu gettata ai lebbrosi; io venni in suo soccorso e la portai via. Potevo fare di meno per una donna che per poco non morì innocente per causa mia? Fuggii attraverso i boschi. Né potevo scendere nella valle e restituirvela, perché vi era un bando che ci voleva morti o vivi. Ma ora, come allora, sono pronto, mio signore, a sostenere con le armi contro chiunque che mai la Regina ebbe per me, né io per lei, un amore che vi disonorasse. Fate bandire il campo, e se non saprò provare il mio diritto con le armi, bruciatemi davanti ai vostri uomini. Ma se vincerò e voi riprenderete Isotta, nessuno dei vostri baroni vi servirà come vi servirò io; e se non vorrete accogliermi, mi offrirò al re di Galloway, o a quello dei Paesi Bassi, e non sentirete mai più parlare di me. Prendete consiglio, o Re, perché se non verrete a patti io ricondurrò Isotta in [[settings/ireland|Irlanda]], ed ella sarà Regina nella sua terra.”»
 
 Quando i baroni di Cornovaglia udirono che Tristano offriva battaglia, dissero al Re:
 
@@ -2992,7 +2992,7 @@ Now the two troops were near and they saluted, and the King rode a bow-shot befo
 
 But no one took up Tristan’s wager, and the King, taking Iseult’s palfrey by the bridle, gave it to Dinas, and went apart to take counsel.
 
-Dinas, in his joy, gave all [[Honour|honour]] and courtesy to the Queen, but when the felons saw her so fair and honoured as of old, they were stirred and rode to the King, and said:
+Dinas, in his joy, gave all [[concepts/honour|honour]] and courtesy to the Queen, but when the felons saw her so fair and honoured as of old, they were stirred and rode to the King, and said:
 
 “King, hear our counsel. That the Queen was slandered we admit, but if she and Tristan re-enter your court together, rumour will revive again. Rather let Tristan go apart awhile. Doubtless some day you may recall him.”
 
@@ -3022,9 +3022,9 @@ DENOALEN, ANDRET, AND Gondoin held themselves safe; Tristan was far over sea, fa
 
 But Mark answered:
 
-“God strike you, my Cornish lords, how you hunt my shame! For you have I exiled my nephew, and now what would you now? Would you have me drive the Queen to [[Ireland]] too? What novel plaints have you to plead? Did not Tristan offer you battle in this matter? He offered battle to clear the Queen forever: he offered and you heard him all. Where then were your lances and your shields?”
+“God strike you, my Cornish lords, how you hunt my shame! For you have I exiled my nephew, and now what would you now? Would you have me drive the Queen to [[settings/ireland|Ireland]] too? What novel plaints have you to plead? Did not Tristan offer you battle in this matter? He offered battle to clear the Queen forever: he offered and you heard him all. Where then were your lances and your shields?”
 
-“Sire,” they said, “we have counselled you loyal counsel as lieges and to your [[Honour|honour]]; henceforward we hold our peace. Put aside your anger and give us your safe-guard.”
+“Sire,” they said, “we have counselled you loyal counsel as lieges and to your [[concepts/honour|honour]]; henceforward we hold our peace. Put aside your anger and give us your safe-guard.”
 
 But Mark stood up in the stirrup and cried:
 
@@ -3065,7 +3065,7 @@ Ora le due truppe erano vicine e si salutarono; il Re avanzò di un arco di bale
 
 Ma nessuno accettò la scommessa di Tristan; il Re, prendendo per le redini il palafreno di Iseult, lo diede a Dinas e si allontanò per consultarsi.
 
-Dinas, nella sua gioia, riservò alla Regina tutta l’[[Honour|onore]] e la cortesia dovute, ma quando i criminali la videro così bella ed onorata come un tempo, ne furono turbati e si recarono dal Re, dicendo:
+Dinas, nella sua gioia, riservò alla Regina tutta l’[[concepts/honour|onore]] e la cortesia dovute, ma quando i criminali la videro così bella ed onorata come un tempo, ne furono turbati e si recarono dal Re, dicendo:
 
 “Re, ascolta il nostro consiglio. Ammettiamo che la Regina sia stata calunniata, ma se lei e Tristan rientrassero insieme alla tua corte, le voci diffamatorie riprenderebbero a circolare. È meglio lasciare che Tristan si allontani per un po’. Senza dubbio, un giorno potresti decidere di richiamarlo.”
 
@@ -3087,7 +3087,7 @@ E quel giorno Mark liberò cento dei suoi schiavi e armò una ventina di giovani
 
 Ma quella notte Tristan si nascose con Orri, come la Regina gli aveva consigliato di fare.
 
-#La prova dell'ferro
+La prova dell'ferro
 
 Denoalen, Andret e Gondoin si tennero al sicuro; Tristan era lontano, oltre il mare, al servizio di un re distante, e quindi fuori dalla sua portata. Così, un giorno, durante una caccia, mentre il Re si allontanava da solo in una radura dove avrebbero passato i cani da caccia, loro tre lo raggiunsero e gli dissero:
 
@@ -3095,9 +3095,9 @@ Denoalen, Andret e Gondoin si tennero al sicuro; Tristan era lontano, oltre il m
 
 Ma Mark rispose:
 
-“Dio vi colpisca, miei signori del Galles del Sud. Come cercate di distruggere la mia reputazione! È per voi che ho esiliato mio nipote. E ora cosa volete ancora? Che mandi anche la Regina in [[Ireland|Irlanda]]? Quali nuove lamentele avete da presentare? Non vi ha forse offerto Tristan di combattere in questa questione? Vi ha proposto di combattere per liberare la Regina una volta per tutte. Ve lo ha proposto, e voi l’avete ascoltato. Allora dove sono finite le vostre lance e i vostri scudi?”
+“Dio vi colpisca, miei signori del Galles del Sud. Come cercate di distruggere la mia reputazione! È per voi che ho esiliato mio nipote. E ora cosa volete ancora? Che mandi anche la Regina in [[settings/ireland|Irlanda]]? Quali nuove lamentele avete da presentare? Non vi ha forse offerto Tristan di combattere in questa questione? Vi ha proposto di combattere per liberare la Regina una volta per tutte. Ve lo ha proposto, e voi l’avete ascoltato. Allora dove sono finite le vostre lance e i vostri scudi?”
 
-“Signore,” dissero, “vi abbiamo dato consigli leali in qualità di vassalli e per il vostro [[Honour|.onore]]; da ora in poi manteniamo la pace. Lasciate da parte la vostra rabbia e concedeteci la vostra protezione.”
+“Signore,” dissero, “vi abbiamo dato consigli leali in qualità di vassalli e per il vostro [[concepts/honour|.onore]]; da ora in poi manteniamo la pace. Lasciate da parte la vostra rabbia e concedeteci la vostra protezione.”
 
 “Ma Mark si alzò sulle staffe e gridò…”
 
@@ -3306,9 +3306,9 @@ Three days yet he tarried, because he could not drag himself away from that eart
 
 And he went into Wales, into the land of the great Duke Gilain, who was young, powerful, and frank in spirit, and welcomed him nobly as a God-sent guest.
 
-And he did everything to give him [[Honour|honour]] and joy; but he found that neither adventure, nor feast could soothe what Tristan suffered.
+And he did everything to give him [[concepts/honour|honour]] and joy; but he found that neither adventure, nor feast could soothe what Tristan suffered.
 
-One day, as he sat by the young Duke’s side, his spirit weighed upon him, so that not knowing it he groaned, and the Duke, to soothe him, ordered into his private room a fairy thing, which pleased his eyes when he was sad and relieved his own heart; it was a dog, and the varlets brought it in to him, and they put it upon a table there. Now this dog was a fairy dog, and came from the Duke of Avalon; for a fairy had given it him as a [[Love|love]]-gift, and no one can well describe its kind or beauty. And it bore at its neck, hung to a little chain of gold, a little bell; and that tinkled so gaily, and so clear and so soft, that as Tristan heard it, he was soothed, and his anguish melted away, and he forgot all that he had suffered for the Queen; for such was the virtue of the bell and such its property: that whosoever heard it, he lost all pain. And as Tristan stroked the little fairy thing, the dog that took away his sorrow, he saw how delicate it was and fine, and how it had soft hair like samite, and he thought how good a gift it would make for the Queen. But he dared not ask for it right out since he knew that the Duke loved this dog beyond everything in the world, and would yield it to no prayers, nor to wealth, nor to wile; so one day Tristan having made a plan in his mind said this:
+One day, as he sat by the young Duke’s side, his spirit weighed upon him, so that not knowing it he groaned, and the Duke, to soothe him, ordered into his private room a fairy thing, which pleased his eyes when he was sad and relieved his own heart; it was a dog, and the varlets brought it in to him, and they put it upon a table there. Now this dog was a fairy dog, and came from the Duke of Avalon; for a fairy had given it him as a [[motifs/love|love]]-gift, and no one can well describe its kind or beauty. And it bore at its neck, hung to a little chain of gold, a little bell; and that tinkled so gaily, and so clear and so soft, that as Tristan heard it, he was soothed, and his anguish melted away, and he forgot all that he had suffered for the Queen; for such was the virtue of the bell and such its property: that whosoever heard it, he lost all pain. And as Tristan stroked the little fairy thing, the dog that took away his sorrow, he saw how delicate it was and fine, and how it had soft hair like samite, and he thought how good a gift it would make for the Queen. But he dared not ask for it right out since he knew that the Duke loved this dog beyond everything in the world, and would yield it to no prayers, nor to wealth, nor to wile; so one day Tristan having made a plan in his mind said this:
 
 “Lord, what would you give to the man who could rid your land of the hairy giant Urgan, that levies such a toll?”
 
@@ -3318,13 +3318,13 @@ Then said Tristan:
 
 “Those are strange words, for good comes to no land save by risk and daring, and not for all the gold of Milan would I renounce my desire to find him in his wood and bring him down.”
 
-Then Tristan went out to find Urgan in his lair, and they fought hard and long, till [[Courage|courage]] conquered strength, and Tristan, having cut off the giant’s hand, bore it back to the Duke.
+Then Tristan went out to find Urgan in his lair, and they fought hard and long, till [[concepts/courage|courage]] conquered strength, and Tristan, having cut off the giant’s hand, bore it back to the Duke.
 
 And “Sire,” said he, “since I may choose a reward according to your word, give me the little fairy dog. It was for that I conquered Urgan, and your promise stands.”
 
 “Friend,” said the Duke, “take it, then, but in taking it you take away also all my joy.”
 
-Then Tristan took the little fairy dog and gave it in ward to a Welsh harper, who was cunning and who bore it to Cornwall till he came to Tintagel, and having come there put it secretly into Brangien’s hands, and the Queen was so pleased that she gave ten marks of gold to the harper, but she put it about that the Queen of [[Ireland]], her mother, had sent the beast. And she had a goldsmith work a little kennel for him, all jewelled, and incrusted with gold and enamel inlaid; and wherever she went she carried the dog with her in memory of her friend, and as she watched it sadness and anguish and regrets melted out of her heart.
+Then Tristan took the little fairy dog and gave it in ward to a Welsh harper, who was cunning and who bore it to Cornwall till he came to Tintagel, and having come there put it secretly into Brangien’s hands, and the Queen was so pleased that she gave ten marks of gold to the harper, but she put it about that the Queen of [[settings/ireland|Ireland]], her mother, had sent the beast. And she had a goldsmith work a little kennel for him, all jewelled, and incrusted with gold and enamel inlaid; and wherever she went she carried the dog with her in memory of her friend, and as she watched it sadness and anguish and regrets melted out of her heart.
 
 At first she did not guess the marvel, but thought her consolation was because the gift was Tristan’s, till one day she found that it was fairy, and that it was the little bell that charmed her soul; then she thought: “What have I to do with comfort since he is sorrowing? He could have kept it too and have forgotten his sorrow; but with high courtesy he sent it to me to give me his joy and to take up his pain again. Friend, while you suffer, so long will I suffer also.”
 
@@ -3360,7 +3360,7 @@ Trascorse ancora tre giorni prima che decidesse di partire, perché non riusciva
 
 E così si recò in Galles, nel regno del grande Duca Gilain, che era giovane, potente e di animo franco; questi lo accolse con nobiltà, come un ospite inviato dal cielo.
 
-E fece di tutto per donargli [[Honour|onore]] e gioia; ma scoprì che né le avventure né i banchetti riuscivano a lenire il dolore che Tristan provava.
+E fece di tutto per donargli [[concepts/honour|onore]] e gioia; ma scoprì che né le avventure né i banchetti riuscivano a lenire il dolore che Tristan provava.
 
 Un giorno, mentre sedeva al fianco del giovane Duca, un peso opprimeva il suo spirito; senza rendersene conto, emise un gemito. Il Duca, per consolarlo, fece portare nella sua stanza privata una creatura fatata che, quando lui era triste, gli rallegrava lo sguardo e leniva il suo dolore: si trattava di un cane. I servitori lo portarono lì e lo posero su un tavolo. Quel cane era in realtà un cane fatato, donatogli dal Duca di Avalon da una fata come regalo d’amore; nessuno avrebbe potuto descrivere con precisione la sua razza o la sua bellezza. Al collo portava una piccola campanella d’oro che suonava in modo così dolce e melodioso che, quando Tristan la sentiva, il suo dolore svaniva completamente, dimenticava tutto ciò che aveva sofferto per la Regina. Tali erano infatti i poteri di quella campanella: chiunque la ascoltasse provava immediatamente sollievo. Mentre accarezzava quella piccola creatura fatata che gli aveva portato via il dolore, Tristan notò quanto fosse delicata e bella, con un pelo morbido come il samito. Pensò che sarebbe stato un dono meraviglioso per la Regina. Ma non osò chiederla direttamente, sapendo che il Duca amava quel cane più di ogni altra cosa al mondo e non l’avrebbe ceduto né a preghiere, né a ricchezze, né a inganni. Così, un giorno, dopo aver elaborato un piano nella sua mente, Tristan disse:
 
@@ -3372,13 +3372,13 @@ Un giorno, mentre sedeva al fianco del giovane Duca, un peso opprimeva il suo sp
 
 “Sono parole strane. Il bene non arriva mai senza rischio e coraggio; per nessuna quantità d’oro di Milano rinuncerei al desiderio di trovarlo nel suo bosco e di catturarlo.”
 
-Allora Tristan uscì per cercare Urgan nel suo covo, e combatterono con grande intensità per molto tempo, fino a quando la [[Courage|coraggio]] sconfisse la forza; Tristan, dopo aver mozzato la mano del gigante, la portò indietro dal Duca.
+Allora Tristan uscì per cercare Urgan nel suo covo, e combatterono con grande intensità per molto tempo, fino a quando la [[concepts/courage|coraggio]] sconfisse la forza; Tristan, dopo aver mozzato la mano del gigante, la portò indietro dal Duca.
 
 “Ebbene, Signore,” disse lui, “poiché posso scegliere la ricompensa secondo la vostra promessa, datemi quel piccolo cane fatato. È per questo che ho conquistato Urgan, e la vostra parola vale ancora.”
 
 “Amico mio”, disse il Duca, “accetta dunque questo dono, ma accettandolo tu porti via anche tutta la mia gioia”.
 
-Allora Tristan prese il piccolo cane fatato e lo affidò a un arpista gallese, astuto di natura; quest’ultimo lo portò in Cornovaglia fino a Tintagel, dove lo consegnò segretamente a Brangien. La regina ne fu così compiaciuta che diede all’arpista dieci monete d’oro, ma fece credere che l’animale fosse stato inviato dalla regina d’[[Ireland|Irlanda]], sua madre. Fece inoltre realizzare per il cane una piccola cuccia d’oro, interamente decorata con gioielli e incrostazioni di oro ed smalto; ovunque andasse, portava con sé quel cane in memoria del suo amico, e ogni volta che lo guardava, la tristezza, l’angoscia e i rimpianti svanivano dal suo cuore.
+Allora Tristan prese il piccolo cane fatato e lo affidò a un arpista gallese, astuto di natura; quest’ultimo lo portò in Cornovaglia fino a Tintagel, dove lo consegnò segretamente a Brangien. La regina ne fu così compiaciuta che diede all’arpista dieci monete d’oro, ma fece credere che l’animale fosse stato inviato dalla regina d’[[settings/ireland|Irlanda]], sua madre. Fece inoltre realizzare per il cane una piccola cuccia d’oro, interamente decorata con gioielli e incrostazioni di oro ed smalto; ovunque andasse, portava con sé quel cane in memoria del suo amico, e ogni volta che lo guardava, la tristezza, l’angoscia e i rimpianti svanivano dal suo cuore.
 
 All’inizio non capì il motivo di quel miracolo; pensò che la ragione della sua consolazione fosse il fatto che quel dono provenisse da Tristan. Finché un giorno non scoprì che si trattava di un dono magico. Era quella piccola campanella che aveva incantato la sua anima. Allora pensò: “Cosa c’entro io con la consolazione, se lui soffre? Avrebbe potuto tenersela per sé e dimenticare il suo dolore. Ma con grande gentilezza me l’ha inviata, per condividere la sua gioia e assumersi di nuovo il suo dolore. Amico mio, finché tu soffri, anch’io soffrirò.”
 
@@ -3409,7 +3409,7 @@ And Tristan asked:
 
 And the hermit answered:
 
-“Hardly, my lord; yet his last keep of Carhaix holds out still, for the walls are strong, and strong is the heart of the Duke’s son Kaherdin, a very good knight and bold; but the enemy surrounds them on every side and starves them. Very hardly do they hold their [[Castle|castle]].”
+“Hardly, my lord; yet his last keep of Carhaix holds out still, for the walls are strong, and strong is the heart of the Duke’s son Kaherdin, a very good knight and bold; but the enemy surrounds them on every side and starves them. Very hardly do they hold their [[settings/castle|castle]].”
 
 Then Tristan asked:
 
@@ -3429,7 +3429,7 @@ But Tristan said
 
 “For two years I dwelt in a forest, eating nothing save roots and herbs; yet I found it a good life, so open you the door.”
 
-They welcomed him with [[Honour|honour]], and Kaherdin showed him the wall and the dungeon keep with all their devices, and from the battlements he showed the plain where far away gleamed the tents of Duke Riol. And when they were down in the [[Castle|castle]] again he said to Tristan:
+They welcomed him with [[concepts/honour|honour]], and Kaherdin showed him the wall and the dungeon keep with all their devices, and from the battlements he showed the plain where far away gleamed the tents of Duke Riol. And when they were down in the [[settings/castle|castle]] again he said to Tristan:
 
 “Friend, let us go to the hall where my mother and sister sit.”
 
@@ -3439,7 +3439,7 @@ So, holding each other’s hands, they came into the women’s room, where the m
 
 But Tristan, hearing her name, smiled and looked at her more gently.
 
-And on the morrow, Tristan, Kaherdin, and twelve young knights left the [[Castle|castle]] and rode to a pinewood near the enemy’s tents. And sprang from ambush and captured a waggon of Count Riol’s food; and from that day, by escapade and ruse they would carry tents and convoys and kill off men, nor ever come back without some booty; so that Tristan and Kaherdin began to be brothers in arms, and kept faith and tenderness, as history tells. And as they came back from these rides, talking chivalry together, often did Kaherdin praise to his comrade his sister, Iseult of the White Hands, for her simplicity and beauty.
+And on the morrow, Tristan, Kaherdin, and twelve young knights left the [[settings/castle|castle]] and rode to a pinewood near the enemy’s tents. And sprang from ambush and captured a waggon of Count Riol’s food; and from that day, by escapade and ruse they would carry tents and convoys and kill off men, nor ever come back without some booty; so that Tristan and Kaherdin began to be brothers in arms, and kept faith and tenderness, as history tells. And as they came back from these rides, talking chivalry together, often did Kaherdin praise to his comrade his sister, Iseult of the White Hands, for her simplicity and beauty.
 
 One day, as the dawn broke, a sentinel ran from the tower through the halls crying:
 
@@ -3469,7 +3469,7 @@ So he promised to enter Duke Hoël’s keep and to swear homage again, and to re
 
 Now when the victors were returned Kaherdin said to his father:
 
-“Sire, keep you Tristan. There is no better knight, and your land has need of such [[Courage|courage]].”
+“Sire, keep you Tristan. There is no better knight, and your land has need of such [[concepts/courage|courage]].”
 
 So when the Duke had taken counsel with his barons, he said to Tristan
 
@@ -3484,15 +3484,15 @@ So the day was fixed, and the Duke came with his friends and Tristan with his, a
 
 <span class="qlang-split" data-lang="it"></span>
 
-# E Tristan chiese:
+E Tristan chiese:
 
-#Può il Duca combattere la sua guerra?
+Può il Duca combattere la sua guerra?
 
-# “E il eremita rispose…”
+“E il eremita rispose…”
 
-“Difficilmente, mio signore; tuttavia l’ultima roccaforte di Carhaix resiste ancora, poiché le mura sono solide e il cuore di Kaherdin, figlio del Duca, è forte e coraggioso. È un ottimo cavaliere. Tuttavia, il nemico li circonda da tutte le parti e li sta facendo morire di fame. Riescono a difendere il loro [[Castle|castello]] a malapena.”
+“Difficilmente, mio signore; tuttavia l’ultima roccaforte di Carhaix resiste ancora, poiché le mura sono solide e il cuore di Kaherdin, figlio del Duca, è forte e coraggioso. È un ottimo cavaliere. Tuttavia, il nemico li circonda da tutte le parti e li sta facendo morire di fame. Riescono a difendere il loro [[settings/castle|castello]] a malapena.”
 
-# Allora Tristan chiese:
+Allora Tristan chiese:
 
 “Quanto dista questa fortezza di Carhaix?”
 
@@ -3510,7 +3510,7 @@ Ma Tristan disse
 
 “Per due anni ho vissuto in una foresta, nutrendomi soltanto di radici e erbe; tuttavia ho trovato quella vita piacevole. Quindi apri la porta per me.”
 
-Lo accolsero con [[Honour|onore]]; Kaherdin gli mostrò il muro e la prigione, insieme a tutti i loro dispositivi, e dalle merlature gli indicò la pianura dove, in lontananza, si scorgevano le tende del Duca Riol. E quando tornarono di nuovo nel [[Castle|castello]], Kaherdin disse a Tristan:
+Lo accolsero con [[concepts/honour|onore]]; Kaherdin gli mostrò il muro e la prigione, insieme a tutti i loro dispositivi, e dalle merlature gli indicò la pianura dove, in lontananza, si scorgevano le tende del Duca Riol. E quando tornarono di nuovo nel [[settings/castle|castello]], Kaherdin disse a Tristan:
 
 “Amico, andiamo nella sala dove sono sedute mia madre e mia sorella.”
 
@@ -3520,7 +3520,7 @@ Tenendosi per mano, entrarono nel bagno delle donne, dove madre e figlia sedevan
 
 Ma Tristan, sentendo il suo nome, sorrise e la guardò con maggiore tenerezza.
 
-E il giorno seguente, Tristan, Kaherdin e dodici giovani cavalieri lasciarono il [[Castle|castello]] e si diressero verso un bosco di pini vicino alle tende nemiche. Piombarono all’improvviso in un’imboscata e catturarono un carretto pieno di provviste del Conte Riol; da quel giorno, con astuzie e stratagemmi, continuarono a rubare tende, convogli e uccidere nemici, senza mai tornare indietro a mani vuote. Così Tristan e Kaherdin divennero veri fratelli d’armi, fedeli l’uno all’altro e pieni di affetto, come racconta la storia. Quando tornavano da queste incursioni, discutendo insieme di cavalierizza, Kaherdin spesso lodava la sorella del suo compagno, Iseult dalle Mani Bianche, per la sua semplicità e bellezza.
+E il giorno seguente, Tristan, Kaherdin e dodici giovani cavalieri lasciarono il [[settings/castle|castello]] e si diressero verso un bosco di pini vicino alle tende nemiche. Piombarono all’improvviso in un’imboscata e catturarono un carretto pieno di provviste del Conte Riol; da quel giorno, con astuzie e stratagemmi, continuarono a rubare tende, convogli e uccidere nemici, senza mai tornare indietro a mani vuote. Così Tristan e Kaherdin divennero veri fratelli d’armi, fedeli l’uno all’altro e pieni di affetto, come racconta la storia. Quando tornavano da queste incursioni, discutendo insieme di cavalierizza, Kaherdin spesso lodava la sorella del suo compagno, Iseult dalle Mani Bianche, per la sua semplicità e bellezza.
 
 Un giorno, all’alba, un sentinella corse dalla torre attraverso i corridoi gridando:
 
@@ -3536,7 +3536,7 @@ E mentre si avvicinava, vide il Duca Riol caricare, senza freni, contro Kaherdin
 
 “Ma Tristan, rimasto in piedi, sguainò la sua spada, la sua lucida spada, e disse…”
 
-#"Codardo! Ecco la morte pronta per chi colpisce il cavallo prima del cavaliere."
+"Codardo! Ecco la morte pronta per chi colpisce il cavallo prima del cavaliere."
 
 Ma Riol rispose:
 
@@ -3550,13 +3550,13 @@ Promise quindi di entrare nella fortezza del Duca Hoël, di giurare fedeltà nuo
 
 Ora che i vincitori erano tornati, Kaherdin disse a suo padre:
 
-“Mio signore, tenetevi Tristan. Non c’è cavaliere migliore di lui, e il vostro regno ha bisogno di un tale [[Courage|coraggio]].”
+“Mio signore, tenetevi Tristan. Non c’è cavaliere migliore di lui, e il vostro regno ha bisogno di un tale [[concepts/courage|coraggio]].”
 
 Quindi, quando il Duca ebbe consultato i suoi baroni, disse a Tristan…
 
 “Amico, ti devo la mia terra, ma potremo considerare l’affare chiuso se accetterai mia figlia, Iseult dalle Mani Bianche, che discende da re e regine, e da duchi ancora più nobili.”
 
-#E Tristan rispose:
+E Tristan rispose:
 
 “La prenderò io, Signore.”
 
@@ -3583,9 +3583,9 @@ THE MADNESS OF TRISTAN
 
 WITHIN HER ROOM at Tintagel, Iseult the Fair sighed for the sake of Tristan, and named him, her desire, of whom for two years she had had no word, whether he lived or no.
 
-Within her room at Tintagel Iseult the Fair sat singing a song she had made. She sang of Guron taken and killed for his [[Love|love]], and how by guile the Count gave Guron’s heart to her to eat, and of her woe. The Queen sang softly, catching the harp’s tone; her hands were cunning and her song good; she sang low down and softly.
+Within her room at Tintagel Iseult the Fair sat singing a song she had made. She sang of Guron taken and killed for his [[motifs/love|love]], and how by guile the Count gave Guron’s heart to her to eat, and of her woe. The Queen sang softly, catching the harp’s tone; her hands were cunning and her song good; she sang low down and softly.
 
-Then came in Kariado, a rich count from a far-off island, that had fared to Tintagel to offer the Queen his service, and had spoken of [[Love|love]] to her, though she disdained his folly. He found Iseult as she sang, and laughed to her:
+Then came in Kariado, a rich count from a far-off island, that had fared to Tintagel to offer the Queen his service, and had spoken of [[motifs/love|love]] to her, though she disdained his folly. He found Iseult as she sang, and laughed to her:
 
 “Lady, how sad a song! as sad as the Osprey’s; do they not say he sings for death? and your song means that to me; I die for you.”
 
@@ -3593,7 +3593,7 @@ And Iseult said: “So let it be and may it mean so; for never come you here but
 
 And Kariado answered:
 
-“You are angered, I know not why, but who heeds your words? Let the Osprey bode me death; here is the evil news the screech owl brings. Lady Iseult, Tristan, your friend is lost to you. He has wed in a far land. So seek you other where, for he mocks your [[Love|love]]. He has wed in great pomp Iseult of the White Hands, the King of Brittany’s daughter.’’
+“You are angered, I know not why, but who heeds your words? Let the Osprey bode me death; here is the evil news the screech owl brings. Lady Iseult, Tristan, your friend is lost to you. He has wed in a far land. So seek you other where, for he mocks your [[motifs/love|love]]. He has wed in great pomp Iseult of the White Hands, the King of Brittany’s daughter.’’
 
 And Kariado went off in anger, but Iseult bowed her head and broke into tears.
 
@@ -3601,7 +3601,7 @@ Now far from Iseult, Tristan languished, till on a day he must needs see her aga
 
 So he left Carhaix secretly, telling no man, neither his kindred nor even Kaherdin, his brother in arms. He went in rags afoot (for no one marks the beggar on the high road) till he came to the shore of the sea.
 
-He found in a haven a great [[Ship|ship]] ready, the sail was up and the anchor-chain short at the bow.
+He found in a haven a great [[motifs/ship|ship]] ready, the sail was up and the anchor-chain short at the bow.
 
 “God save you, my lords,” he said, “and send you a good journey. To what land sail you now?”
 
@@ -3611,13 +3611,13 @@ Then he cried out:
 
 “Oh, my lords! take me with you thither!”
 
-And he went aboard, and a fair wind filled the sail, and she ran five days and nights for Cornwall, till, on the sixth day, they dropped anchor in Tintagel Haven. The [[Castle|castle]] stood above, fenced all around. There was but the one armed gate, and two knights watched it night and day. So Tristan went ashore and sat upon the beach, and a man told him that Mark was there and had just held his court.
+And he went aboard, and a fair wind filled the sail, and she ran five days and nights for Cornwall, till, on the sixth day, they dropped anchor in Tintagel Haven. The [[settings/castle|castle]] stood above, fenced all around. There was but the one armed gate, and two knights watched it night and day. So Tristan went ashore and sat upon the beach, and a man told him that Mark was there and had just held his court.
 
 “But where,” said he, “is Iseult, the Queen, and her fair maid, Brangien?”
 
 “In Tintagel too,” said the other, “and I saw them lately; the Queen sad, as she always is.”
 
-At the hearing of the name, Tristan suffered, and he thought that neither by guile nor [[Courage|courage]] could he see that friend, for Mark would kill him.
+At the hearing of the name, Tristan suffered, and he thought that neither by guile nor [[concepts/courage|courage]] could he see that friend, for Mark would kill him.
 
 And he thought, “Let him kill me and let me die for her, since every day I die. But you, Iseult, even if you knew me here, would you not drive me out?” And he thought, “I will try guile. I will seem mad, but with a madness that shall be great wisdom. And many shall think me a fool that have less wit than I.”
 
@@ -3629,7 +3629,7 @@ And as the fisherman found it a very good bargain, he said in answer:
 
 “Yes, friend, gladly.”
 
-And he changed and ran off at once for fear of losing his gain. Then Tristan shaved his wonderful hair; he shaved it close to his head and left a cross all bald, and he rubbed his face with magic herbs distilled in his own country, and it changed in colour and skin so that none could know him, and he made him a club from a young tree torn from a hedge-row and hung it to his neck, and went bare-foot towards the [[Castle|castle]].
+And he changed and ran off at once for fear of losing his gain. Then Tristan shaved his wonderful hair; he shaved it close to his head and left a cross all bald, and he rubbed his face with magic herbs distilled in his own country, and it changed in colour and skin so that none could know him, and he made him a club from a young tree torn from a hedge-row and hung it to his neck, and went bare-foot towards the [[settings/castle|castle]].
 
 The porter made sure that he had to do with a fool and said:
 
@@ -3652,7 +3652,7 @@ Ma quella stessa notte, mentre i servitori di Tristan lo spogliavano, accadde ch
 
 “Ora, Iseult dalle Mani Bianche, lo udì sospirare e gli disse…”
 
-# “Mio Dio, forse ti ho fatto del male in qualche modo… Perché non mi dici nemmeno una parola?”
+“Mio Dio, forse ti ho fatto del male in qualche modo… Perché non mi dici nemmeno una parola?”
 
 Ma Tristan rispose: “Amico, non arrabbiarti con me; per la prima volta in un altro paese ho combattuto contro un terribile drago e sono quasi morto. In quel momento ho pensato alla Madre di Dio e le ho fatto voto che, se mai mi sposassi, avrei trascorso le prime notti nuziali in preghiera e in silenzio.”
 
@@ -3664,9 +3664,9 @@ La follia di Tristan
 
 Nella sua stanza a Tintagel, Iseult la Bella sospirava per Tristan e lo chiamava il suo desiderio, di lui non aveva avuto notizie da due anni, né sapeva se fosse vivo o morto.
 
-Nella sua stanza a Tintagel, Iseult la Bella sedeva e cantava una canzone che aveva composto lei stessa. Cantava di Guron, rapito e ucciso per il suo [[Love|amore]], e di come il Conte, con astuzia, le avesse dato il cuore di Guron da mangiare. E cantava della sua tristezza. La regina cantava dolcemente, seguendo il ritmo dell’arpa; le sue mani erano abili, e la sua canzone era bellissima. Cantava a bassa voce, in modo molto sommesso.
+Nella sua stanza a Tintagel, Iseult la Bella sedeva e cantava una canzone che aveva composto lei stessa. Cantava di Guron, rapito e ucciso per il suo [[motifs/love|amore]], e di come il Conte, con astuzia, le avesse dato il cuore di Guron da mangiare. E cantava della sua tristezza. La regina cantava dolcemente, seguendo il ritmo dell’arpa; le sue mani erano abili, e la sua canzone era bellissima. Cantava a bassa voce, in modo molto sommesso.
 
-Poi arrivò Kariado, un ricco conte proveniente da un’isola lontana; era giunto a Tintagel per offrire i suoi servizi alla Regina e le aveva parlato d’[[Love|amore]], anche se lei disdegnava la sua follia. Lo trovò mentre Iseult cantava e rise di lui:
+Poi arrivò Kariado, un ricco conte proveniente da un’isola lontana; era giunto a Tintagel per offrire i suoi servizi alla Regina e le aveva parlato d’[[motifs/love|amore]], anche se lei disdegnava la sua follia. Lo trovò mentre Iseult cantava e rise di lui:
 
 “Signora, che canzone triste, tanto triste quanto quella dell’Aquila pescatrice; non si dice forse che canta per la morte? E la vostra canzone, per me, significa proprio questo: io muoio per voi.”
 
@@ -3674,7 +3674,7 @@ E Isotta disse: “Che sia così, allora; poiché mai vieni qui se non per susci
 
 “E Kariado rispose…”
 
-“Sei arrabbiato, non so perché, ma chi ascolta le tue parole? Che l’aquila mi predica la morte. Ecco la cattiva notizia che porta la civetta ululante: Lady Iseult, Tristan, il tuo amico è perduto per te. Si è sposato in una terra lontana. Cerca dunque un altro compagno, perché lui deride il tuo [[Love|amore]]. Si è unito in matrimonio con grande pompa. Iseult delle Mani Bianche, la figlia del Re di Bretagna.”
+“Sei arrabbiato, non so perché, ma chi ascolta le tue parole? Che l’aquila mi predica la morte. Ecco la cattiva notizia che porta la civetta ululante: Lady Iseult, Tristan, il tuo amico è perduto per te. Si è sposato in una terra lontana. Cerca dunque un altro compagno, perché lui deride il tuo [[motifs/love|amore]]. Si è unito in matrimonio con grande pompa. Iseult delle Mani Bianche, la figlia del Re di Bretagna.”
 
 E Kariado se ne andò arrabbiata, ma Iseult abbassò la testa e scoppiò in lacrime.
 
@@ -3682,7 +3682,7 @@ Ora, lontano da Iseult, Tristan soffriva terribilmente, fino a quando un giorno 
 
 Quindi lasciò Carhaix in segreto, senza dirlo a nessuno, né ai suoi parenti né nemmeno a Kaherdin, suo compagno d’armi. Viaggiò vestito di stracci a piedi (poiché nessuno fa caso al mendicante sulla strada maestra), fino a quando non arrivò sulla riva del mare.
 
-Trovò in un rifugio una grande [[Ship|>nave]] pronta per partire: la vela era issata e la catena dell'ancora era corta vicino alla prua.
+Trovò in un rifugio una grande [[motifs/ship|>nave]] pronta per partire: la vela era issata e la catena dell'ancora era corta vicino alla prua.
 
 “Dio vi salvi, miei signori,” disse, “e vi conceda un buon viaggio. Verso quale terra state navigando ora?”
 
@@ -3692,13 +3692,13 @@ Trovò in un rifugio una grande [[Ship|>nave]] pronta per partire: la vela era i
 
 “Oh, miei signori… portatemi con voi!”
 
-E salì a bordo; una bella brezza gonfiò le vele, e la nave navigò per cinque giorni e cinque notti verso la Cornovaglia, fino a quando, il sesto giorno, gettò l’ancora nel porto di Tintagel. Il [[Castle|castello]] si ergeva sopra, delimitato da mura su tutti i lati; c’era soltanto un unico cancello protetto, e due cavalieri lo sorvegliavano giorno e notte. Così Tristan sbarcò e si sedette sulla riva; un uomo gli disse che Mark era lì e aveva appena tenuto il suo tribunale.
+E salì a bordo; una bella brezza gonfiò le vele, e la nave navigò per cinque giorni e cinque notti verso la Cornovaglia, fino a quando, il sesto giorno, gettò l’ancora nel porto di Tintagel. Il [[settings/castle|castello]] si ergeva sopra, delimitato da mura su tutti i lati; c’era soltanto un unico cancello protetto, e due cavalieri lo sorvegliavano giorno e notte. Così Tristan sbarcò e si sedette sulla riva; un uomo gli disse che Mark era lì e aveva appena tenuto il suo tribunale.
 
 “Ma dove sono”, disse lui, “Iseult, la regina, e la sua bella ancella, Brangien?”
 
 “Anche a Tintagel,” disse l’altro, “e li ho visti di recente; la Regina era triste, come al solito.”
 
-All’udire quel nome, Tristan soffrì; pensò che né con l’inganno né con il [[Courage|coraggio]] avrebbe potuto rivedere quel suo amico, perché Mark lo avrebbe ucciso.
+All’udire quel nome, Tristan soffrì; pensò che né con l’inganno né con il [[concepts/courage|coraggio]] avrebbe potuto rivedere quel suo amico, perché Mark lo avrebbe ucciso.
 
 E pensò: “Lascia che mi uccida e che muoia per lei, visto che ogni giorno comunque muoio. Ma tu, Iseult, anche se mi conoscessi qui, non mi scaccieresti?” E pensò ancora: “Proverò ad usare l’inganno. Farò finta di essere pazzo, ma una follia che in realtà sarà grande saggezza. Molti penseranno che sia uno sciocco, che abbia meno intelligenza di me.”
 
@@ -3710,7 +3710,7 @@ Proprio in quel momento un pescatore passò indossando un mantello e una coperta
 
 “Sì, amico, con piacere.”
 
-E si cambiò immediatamente, temendo di perdere ciò che aveva ottenuto. Poi Tristan si rasò i capelli; se li tagliò molto corti sulla testa, lasciando solo una parte calva a forma di croce. Si strofinò il viso con erbe magiche distillate nel suo stesso paese; il colore della sua pelle cambiò completamente, così che nessuno lo potesse riconoscere. Prese anche un rametto giovane strappato da una siepe e se lo mise al collo, poi partì a piedi nudi verso il [[Castle|castello]].
+E si cambiò immediatamente, temendo di perdere ciò che aveva ottenuto. Poi Tristan si rasò i capelli; se li tagliò molto corti sulla testa, lasciando solo una parte calva a forma di croce. Si strofinò il viso con erbe magiche distillate nel suo stesso paese; il colore della sua pelle cambiò completamente, così che nessuno lo potesse riconoscere. Prese anche un rametto giovane strappato da una siepe e se lo mise al collo, poi partì a piedi nudi verso il [[settings/castle|castello]].
 
 Il portiere si assicurò di avere a che fare con un idiota e disse:
 
@@ -3743,7 +3743,7 @@ And they brought him in, his club at his neck. And the King said:
 
 “Friend, well come; what seek you here?”
 
-“Iseult,” said he, “whom I [[Love|love]] so well; I bring my sister with me, Brunehild, the beautiful. Come, take her, you are weary of the Queen. Take you my sister and give me here Iseult, and I will hold her and serve you for her [[Love|love]].”
+“Iseult,” said he, “whom I [[motifs/love|love]] so well; I bring my sister with me, Brunehild, the beautiful. Come, take her, you are weary of the Queen. Take you my sister and give me here Iseult, and I will hold her and serve you for her [[motifs/love|love]].”
 
 The King said laughing:
 
@@ -3763,7 +3763,7 @@ But the fool as he sat at their feet gazed at Iseult most fixedly.
 
 “What is your name?” they said, and laughed.
 
-“Tristan,” said he, “that loved the Queen so well, and still till death will [[Love|love]] her.”
+“Tristan,” said he, “that loved the Queen so well, and still till death will [[motifs/love|love]] her.”
 
 But at the name the Queen angered and weakened together, and said: “Get hence for an evil fool!”
 
@@ -3811,7 +3811,7 @@ And she went to her room in thought and sat upon her bed and mourned, calling he
 
 Then Brangien said: “It may be Tristan.”
 
-But— “No,” said the Queen, “for he was the first of knights, but this fool is foul and made awry. Curse me his hour and the [[Ship|ship]] that brought him hither.”
+But— “No,” said the Queen, “for he was the first of knights, but this fool is foul and made awry. Curse me his hour and the [[motifs/ship|ship]] that brought him hither.”
 
 “My lady!” said Brangien, “soothe you. You curse over much these days. May be he comes from Tristan?”
 
@@ -3860,7 +3860,7 @@ E mentre si avvicinava alla porta con il suo bastone al collo, il Re disse:
 
 “Amico, benvenuto… Cosa cerchi qui?”
 
-“Isotta,” disse lui, “che amo così tanto; porto con me mia sorella, Brunehilde, la bella. Vieni, prendila con te, sei stanco della Regina. Prendi mia sorella e lasciami Isotta qui; io la terrò e ti servirò per il suo [[Love|amore]].”
+“Isotta,” disse lui, “che amo così tanto; porto con me mia sorella, Brunehilde, la bella. Vieni, prendila con te, sei stanco della Regina. Prendi mia sorella e lasciami Isotta qui; io la terrò e ti servirò per il suo [[motifs/love|amore]].”
 
 “Re disse ridendo…”
 
@@ -3890,7 +3890,7 @@ Ma quel sciocco, notando la sua rabbia, continuò:
 
 Ma Iseult rispose:
 
-#"Via, sciocco, via! La tua follia ha superato ogni limite!"
+"Via, sciocco, via! La tua follia ha superato ogni limite!"
 
 Ma quel folle, continuando a giocare, spingeva via i baroni, gridando:
 
@@ -3928,7 +3928,7 @@ E lei andò nella sua stanza, pensierosa; si sedette sul letto e pianse, chiaman
 
 “Allora Brangien disse: ‘Potrebbe essere Tristan.’”
 
-Ma, “No”, disse la Regina, “perché lui fu il primo tra i cavalieri, ma questo sciocco è malvagio e corrotto. Maledetta sia l’ora in cui nacque e la [[Ship|nave]] che lo portò qui”.
+Ma, “No”, disse la Regina, “perché lui fu il primo tra i cavalieri, ma questo sciocco è malvagio e corrotto. Maledetta sia l’ora in cui nacque e la [[motifs/ship|nave]] che lo portò qui”.
 
 “Mia signora!”, disse Brangien, “calmatevi. Ultimamente maledite spesso. Forse lui viene da Tristan, ”
 
@@ -3997,11 +3997,11 @@ THE DEATH OF TRISTAN
 
 WHEN HE WAS come back to Brittany, to Carhaix, it happened that Tristan, riding to the aid of Kaherdin his brother in arms, fell into ambush and was wounded by a poisoned spear; and many doctors came, but none could cure him of the ill. And Tristan weakened and paled, and his bones showed.
 
-Then he knew that his life was going, and that he must die, and he had a desire to see once more Iseult the Fair, but he could not seek her, for the sea would have killed him in his weakness, and how could Iseult come to him? And sad, and suffering the [[Poison|poison]], he awaited death.
+Then he knew that his life was going, and that he must die, and he had a desire to see once more Iseult the Fair, but he could not seek her, for the sea would have killed him in his weakness, and how could Iseult come to him? And sad, and suffering the [[motifs/poison|poison]], he awaited death.
 
-He called Kaherdin secretly to tell him his pain, for they loved each other with a loyal [[Love|love]]; and as he would have no one in the room save Kaherdin, nor even in the neighbouring rooms, Iseult of the White Hands began to wonder. She was afraid and wished to hear, and she came back and listened at the wall by Tristan’s bed; and as she listened one of her maids kept watch for her.
+He called Kaherdin secretly to tell him his pain, for they loved each other with a loyal [[motifs/love|love]]; and as he would have no one in the room save Kaherdin, nor even in the neighbouring rooms, Iseult of the White Hands began to wonder. She was afraid and wished to hear, and she came back and listened at the wall by Tristan’s bed; and as she listened one of her maids kept watch for her.
 
-Now, within, Tristan had gathered up his strength, and had half risen, leaning against the wall, and Kaherdin wept beside him. They wept their good comradeship, broken so soon, and their friendship: then Tristan told Kaherdin of his [[Love|love]] for that other Iseult, and of the sorrow of his life.
+Now, within, Tristan had gathered up his strength, and had half risen, leaning against the wall, and Kaherdin wept beside him. They wept their good comradeship, broken so soon, and their friendship: then Tristan told Kaherdin of his [[motifs/love|love]] for that other Iseult, and of the sorrow of his life.
 
 “Fair friend and gentle,” said Tristan, “I am in a foreign land where I have neither friend nor cousin, save you; and you alone in this place have given me comfort. My life is going, and I wish to see once more Iseult the Fair. Ah, did I but know of a messenger who would go to her! For now I know that she will come to me. Kaherdin, my brother in arms, I beg it of your friendship; try this thing for me, and if you carry my word, I will become your liege, and I will cherish you beyond all other men.”
 
@@ -4011,22 +4011,22 @@ And as Kaherdin saw Tristan broken down, his heart reproached him and he said:
 
 And Tristan answered:
 
-“Thank you, friend; this is my prayer: take this ring, it is a sign between her and me; and when you come to her land pass yourself at court for a merchant, and show her silk and stuffs, but make so that she sees the ring, for then she will find some ruse by which to speak to you in secret. Then tell her that my heart salutes her; tell her that she alone can bring me comfort; tell her that if she does not come I shall die. Tell her to remember our past time, and our great sorrows, and all the joy there was in our loyal and tender [[Love|love]]. And tell her to remember that draught we drank together on the high seas. For we drank our death together. Tell her to remember the oath I swore to serve a single love, for I have kept that oath.”
+“Thank you, friend; this is my prayer: take this ring, it is a sign between her and me; and when you come to her land pass yourself at court for a merchant, and show her silk and stuffs, but make so that she sees the ring, for then she will find some ruse by which to speak to you in secret. Then tell her that my heart salutes her; tell her that she alone can bring me comfort; tell her that if she does not come I shall die. Tell her to remember our past time, and our great sorrows, and all the joy there was in our loyal and tender [[motifs/love|love]]. And tell her to remember that draught we drank together on the high seas. For we drank our death together. Tell her to remember the oath I swore to serve a single love, for I have kept that oath.”
 
 But behind the wall, Iseult of the White Hands heard all these things; and Tristan continued:
 
-“Hasten, my friend, and come back quickly, or you will not see me again. Take forty days for your term, but come back with Iseult the Fair. And tell your sister nothing, or tell her that you seek some doctor. Take my fine [[Ship|ship]], and two sails with you, one white, one black. And as you return, if you bring Iseult, hoist the white sail; but if you bring her not, the black. Now I have nothing more to say, but God guide you and bring you back safe.”
+“Hasten, my friend, and come back quickly, or you will not see me again. Take forty days for your term, but come back with Iseult the Fair. And tell your sister nothing, or tell her that you seek some doctor. Take my fine [[motifs/ship|ship]], and two sails with you, one white, one black. And as you return, if you bring Iseult, hoist the white sail; but if you bring her not, the black. Now I have nothing more to say, but God guide you and bring you back safe.”
 
 With the first fair wind Kaherdin took the open, weighed anchor and hoisted sail, and ran with a light air and broke the seas. They bore rich merchandise with them, dyed silks of rare colours, enamel of Touraine and wines of Poitou, for by this ruse Kaherdin thought to reach Iseult. Eight days and nights they ran full sail to Cornwall.
 
-Now a woman’s wrath is a fearful thing, and all men fear it, for according to her love, so will her vengeance be; and their love and their hate come quickly, but their hate lives longer than their love; and they will make play with love, but not with hate. So Iseult of the White Hands, who had heard every word, and who had so loved Tristan, waited her vengeance upon what she loved most in the world. But she hid it all; and when the doors were open again she came to Tristan’s bed and served him with food as a [[Lover|lover]] should, and spoke him gently and kissed him on the lips, and asked him if Kaherdin would soon return with one to cure him … but all day long she thought upon her vengeance.
+Now a woman’s wrath is a fearful thing, and all men fear it, for according to her love, so will her vengeance be; and their love and their hate come quickly, but their hate lives longer than their love; and they will make play with love, but not with hate. So Iseult of the White Hands, who had heard every word, and who had so loved Tristan, waited her vengeance upon what she loved most in the world. But she hid it all; and when the doors were open again she came to Tristan’s bed and served him with food as a [[archetypes/lover|lover]] should, and spoke him gently and kissed him on the lips, and asked him if Kaherdin would soon return with one to cure him … but all day long she thought upon her vengeance.
 
 And Kaherdin sailed and sailed till he dropped anchor in the haven of Tintagel. He landed and took with him a cloth of rare dye and a cup well chiselled and worked, and made a present of them to King Mark, and courteously begged of him his peace and safeguard that he might traffick in his land; and the King gave him his peace before all the men of his palace.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-#"Indietro, stupido!"
+"Indietro, stupido!"
 
 Ma lui agitò il suo bastone ridendo e disse:
 
@@ -4056,11 +4056,11 @@ La morte di Tristan
 
 Quando tornò in Bretagna, a Carhaix, accadde che Tristan, mentre si recava in aiuto di Kaherdin, suo compagno d’armi, cadesse in un’imboscata e fu ferito da una lancia avvelenata; molti medici vennero, ma nessuno riuscì a curarlo. Tristan si indebolì, il suo viso impallidì e le ossa cominciarono a mostrarsi.
 
-Allora capì che la sua vita stava per finire e che doveva morire; desiderava ardentemente rivedere ancora una volta Iseult la Bella, ma non poteva cercarla: il mare lo avrebbe ucciso nella sua debolezza. E come avrebbe potuto Iseult raggiungerlo? Triste e soffrendo per l’[[Poison|veleno]] che lo consumava, attese la morte.
+Allora capì che la sua vita stava per finire e che doveva morire; desiderava ardentemente rivedere ancora una volta Iseult la Bella, ma non poteva cercarla: il mare lo avrebbe ucciso nella sua debolezza. E come avrebbe potuto Iseult raggiungerlo? Triste e soffrendo per l’[[motifs/poison|veleno]] che lo consumava, attese la morte.
 
 Chiamò segretamente Kaherdin per raccontargli il suo dolore, perché si amavano con un amore leale e sincero; e poiché nella stanza non c’era nessuno oltre a Kaherdin, né nemmeno nelle stanze vicine, Iseult delle Mani Bianche iniziò a chiedersi cosa stesse succedendo. Aveva paura e voleva sapere, quindi tornò indietro e si mise ad ascoltare dietro il muro, accanto al letto di Tristan; mentre ascoltava, una delle sue ancelle la teneva d’occhio.
 
-Ora, all’interno, Tristan aveva raccolto le sue forze e si era alzato in piedi, appoggiandosi al muro; Kaherdin piangeva accanto a lui. Piangevano per la loro bella amicizia, spezzata così presto, e per il loro legame fraterno. Poi Tristan raccontò a Kaherdin del suo [[Love|amore]] per quell’altra Iseult, e della tristezza che permeava tutta la sua vita.
+Ora, all’interno, Tristan aveva raccolto le sue forze e si era alzato in piedi, appoggiandosi al muro; Kaherdin piangeva accanto a lui. Piangevano per la loro bella amicizia, spezzata così presto, e per il loro legame fraterno. Poi Tristan raccontò a Kaherdin del suo [[motifs/love|amore]] per quell’altra Iseult, e della tristezza che permeava tutta la sua vita.
 
 “Caro amico e gentile,” disse Tristan, “mi trovo in una terra straniera dove non ho né amici né parenti, tranne te; solo tu in questo luogo mi hai dato conforto. La mia vita sta per finire, e desidero rivedere ancora una volta Iseult la Bella. Ah, se solo conoscessi un messaggero che potesse recarsi da lei! Per ora so soltanto che lei verrà da me. Kaherdin, mio caro compagno d’armi, ti prego per l’amore che ci lega: prova a fare questo per me. Se porterai il mio messaggio, diventerò tuo vassallo e ti amerò più di ogni altro uomo.”
 
@@ -4068,13 +4068,13 @@ E mentre Kaherdin vedeva Tristan in preda al dolore, il suo cuore lo rimproverò
 
 “Caro compagno, non piangere; farò ciò che desideri, anche a costo della vita lo farei per te. Nessuna sofferenza o angoscia mi impedirà di agire secondo le mie possibilità. Dammi l’ordine che vuoi inviarmi e mi preparerò immediatamente.”
 
-#E Tristan rispose:
+E Tristan rispose:
 
 “Grazie, amico; questa è la mia preghiera: prendi questo anello, è un segno tra lei e me; e quando arriverai nel suo paese, presentati alla corte fingendoti un mercante, e mostrale seta e altre merci, ma fai in modo che veda l’anello, perché allora troverà un modo per parlarti in segreto. Dille poi che il mio cuore la saluta; dille che solo lei può portarmi conforto; dille che se non verrà, morirò. Dille di ricordare i tempi passati, le nostre grandi sofferenze e tutta la gioia che abbiamo provato nel nostro amore fedele e tenero. E ricorda anche quella bevanda che abbiamo condiviso in alto mare: insieme abbiamo bevuto la nostra stessa morte. Dille di ricordare il giuramento che ho fatto di dedicarmi a un solo amore, perché l’ho mantenuto.”
 
 Ma dietro quel muro, Iseult dalle Mani Bianche sentiva tutto ciò che accadeva; e Tristan continuò:
 
-“Affrettati, mio amico, e torna presto, altrimenti non mi rivedrai più. Prenditi quaranta giorni per il tuo viaggio, ma torna con Iseult la Bella. E non dire nulla a tua sorella, o digli che stai cercando un medico. Porta con te la mia bella [[Ship|navica]] e due vele: una bianca, l’altra nera. Quando tornerai, se porterai Iseult, issa la vela bianca; se non la porterai, quella nera. Ora non ho più nulla da dire. Che Dio ti guidi e ti riporti sano e salvo.”
+“Affrettati, mio amico, e torna presto, altrimenti non mi rivedrai più. Prenditi quaranta giorni per il tuo viaggio, ma torna con Iseult la Bella. E non dire nulla a tua sorella, o digli che stai cercando un medico. Porta con te la mia bella [[motifs/ship|navica]] e due vele: una bianca, l’altra nera. Quando tornerai, se porterai Iseult, issa la vela bianca; se non la porterai, quella nera. Ora non ho più nulla da dire. Che Dio ti guidi e ti riporti sano e salvo.”
 
 Con la prima brezza favorevole, Kaherdin prese il largo, alzò l’ancora e issò le vele; con vento leggero attraversò i mari. Portavano con sé merci preziose: sete di colori rari, smalti della Touraine e vini del Poitou. Con questo stratagemma, Kaherdin sperava di raggiungere Iseult. Per otto giorni e notti navigarono a vele spiegate verso la Cornovaglia.
 
@@ -4099,19 +4099,19 @@ When Iseult saw what ring that was, her heart trembled and her colour changed, a
 
 But Iseult answered, weakening:
 
-“Friend, I will follow you; get ready your [[Ship|ship]] to-morrow at dawn.”
+“Friend, I will follow you; get ready your [[motifs/ship|ship]] to-morrow at dawn.”
 
 And on the morrow at dawn they raised anchor, stepped mast, and hoisted sail, and happily the barque left land.
 
-But at Carhaix Tristan lay and longed for Iseult’s coming. Nothing now filled him any more, and if he lived it was only as awaiting her; and day by day he sent watchers to the shore to see if some [[Ship|ship]] came, and to learn the colour of her sail. There was no other thing left in his heart.
+But at Carhaix Tristan lay and longed for Iseult’s coming. Nothing now filled him any more, and if he lived it was only as awaiting her; and day by day he sent watchers to the shore to see if some [[motifs/ship|ship]] came, and to learn the colour of her sail. There was no other thing left in his heart.
 
 He had himself carried to the cliff of the Penmarks, where it overlooks the sea, and all the daylight long he gazed far off over the water.
 
-Hear now a tale most sad and pitiful to all who [[Love|love]]. Already was Iseult near; already the cliff of the Penmarks showed far away, and the [[Ship|ship]] ran heartily, when a storm wind rose on a sudden and grew, and struck the sail, and turned the ship all round about, and the sailors bore away and sore against their will they ran before the wind. The wind raged and big seas ran, and the air grew thick with darkness, and the ocean itself turned dark, and the rain drove in gusts. The yard snapped, and the sheet; they struck their sail, and ran with wind and water. In an evil hour they had forgotten to haul their pinnace aboard; it leapt in their wake, and a great sea broke it away.
+Hear now a tale most sad and pitiful to all who [[motifs/love|love]]. Already was Iseult near; already the cliff of the Penmarks showed far away, and the [[motifs/ship|ship]] ran heartily, when a storm wind rose on a sudden and grew, and struck the sail, and turned the ship all round about, and the sailors bore away and sore against their will they ran before the wind. The wind raged and big seas ran, and the air grew thick with darkness, and the ocean itself turned dark, and the rain drove in gusts. The yard snapped, and the sheet; they struck their sail, and ran with wind and water. In an evil hour they had forgotten to haul their pinnace aboard; it leapt in their wake, and a great sea broke it away.
 
-Then Iseult cried out: “God does not will that I should live to see him, my [[Love|love]], once — even one time more. God wills my drowning in this sea. O, Tristan, had I spoken to you but once again, it is little I should have cared for a death come afterwards. But now, my [[Love|love]], I cannot come to you; for God so wills it, and that is the core of my grief.”
+Then Iseult cried out: “God does not will that I should live to see him, my [[motifs/love|love]], once — even one time more. God wills my drowning in this sea. O, Tristan, had I spoken to you but once again, it is little I should have cared for a death come afterwards. But now, my [[motifs/love|love]], I cannot come to you; for God so wills it, and that is the core of my grief.”
 
-And thus the Queen complained so long as the storm endured; but after five days it died down. Kaherdin hoisted the sail, the white sail, right up to the very masthead with great joy; the white sail, that Tristan might know its colour from afar: and already Kaherdin saw Britanny far off like a cloud. Hardly were these things seen and done when a calm came, and the sea lay even and untroubled. The sail bellied no longer, and the sailors held the ship now up, now down, the tide, beating backwards and forwards in vain. They saw the shore afar off, but the storm had carried their boat away and they could not land. On the third night Iseult dreamt this dream: that she held in her lap a boar’s head which befouled her skirts with blood; then she knew that she would never see her [[Lover|lover]] again alive.
+And thus the Queen complained so long as the storm endured; but after five days it died down. Kaherdin hoisted the sail, the white sail, right up to the very masthead with great joy; the white sail, that Tristan might know its colour from afar: and already Kaherdin saw Britanny far off like a cloud. Hardly were these things seen and done when a calm came, and the sea lay even and untroubled. The sail bellied no longer, and the sailors held the ship now up, now down, the tide, beating backwards and forwards in vain. They saw the shore afar off, but the storm had carried their boat away and they could not land. On the third night Iseult dreamt this dream: that she held in her lap a boar’s head which befouled her skirts with blood; then she knew that she would never see her [[archetypes/lover|lover]] again alive.
 
 Tristan was now too weak to keep his watch from the cliff of the Penmarks, and for many long days, within walls, far from the shore, he had mourned for Iseult because she did not come. Dolorous and alone, he mourned and sighed in restlessness: he was near death from desire.
 
@@ -4143,7 +4143,7 @@ Near Tristan, Iseult of the White Hands crouched, maddened at the evil she had d
 
 “Lady, rise and let me come by him; I have more right to mourn him than have you — believe me. I loved him more.”
 
-And when she had turned to the east and prayed God, she moved the body a little and lay down by the dead man, beside her friend. She kissed his mouth and his face, and clasped him closely; and so gave up her soul, and died beside him of grief for her [[Lover|lover]].
+And when she had turned to the east and prayed God, she moved the body a little and lay down by the dead man, beside her friend. She kissed his mouth and his face, and clasped him closely; and so gave up her soul, and died beside him of grief for her [[archetypes/lover|lover]].
 
 When King Mark heard of the death of these lovers, he crossed the sea and came into Brittany; and he had two coffins hewn, for Tristan and Iseult, one of chalcedony for Iseult, and one of beryl for Tristan. And he took their beloved bodies away with him upon his ship to Tintagel, and by a chantry to the left and right of the apse he had their tombs built round. But in one night there sprang from the tomb of Tristan a green and leafy briar, strong in its branches and in the scent of its flowers. It climbed the chantry and fell to root again by Iseult’s tomb. Thrice did the peasants cut it down, but thrice it grew again as flowered and as strong. They told the marvel to King Mark, and he forbade them to cut the briar any more.
 
@@ -4170,19 +4170,19 @@ Quando Isotta vide quale anello fosse, il cuore le tremò e mutò colore; e teme
 
 Ma Isotta rispose, cedendo:
 
-«Amico, vi seguirò; preparate la vostra [[Ship|nave]] domani all'alba.»
+«Amico, vi seguirò; preparate la vostra [[motifs/ship|nave]] domani all'alba.»
 
 E l'indomani all'alba levarono l'àncora, rizzarono l'albero e issarono la vela, e felicemente la barca lasciò la terra.
 
-Ma a Carhaix Tristano giaceva e agognava la venuta di Isotta. Nulla ormai lo colmava più, e se viveva era soltanto nell'attesa di lei; e giorno dopo giorno mandava vedette sulla riva a guardare se giungesse qualche [[Ship|nave]], e a riconoscere il colore della sua vela. Non v'era più altro nel suo cuore.
+Ma a Carhaix Tristano giaceva e agognava la venuta di Isotta. Nulla ormai lo colmava più, e se viveva era soltanto nell'attesa di lei; e giorno dopo giorno mandava vedette sulla riva a guardare se giungesse qualche [[motifs/ship|nave]], e a riconoscere il colore della sua vela. Non v'era più altro nel suo cuore.
 
 Si fece portare sulla rupe di Penmarch, là dove essa domina il mare, e per tutta la lunghezza del giorno guardava lontano sulle acque.
 
-Udite ora un racconto assai triste e pietoso per tutti coloro che [[Love|amano]]. Già Isotta era vicina; già la rupe di Penmarch appariva in lontananza, e la [[Ship|nave]] correva di buona lena, quando d'improvviso si levò un vento di tempesta e crebbe, e percosse la vela, e fece girare la nave tutt'intorno su se stessa, e i marinai poggiarono e, ben contro il loro volere, corsero davanti al vento. Il vento infuriava e grosse ondate montavano, e l'aria si fece spessa di tenebre, e l'oceano stesso si oscurò, e la pioggia cadeva a raffiche. Si spezzò il pennone, e la scotta; ammainarono la vela e corsero con il vento e con l'acqua. In malaugurata ora avevano dimenticato di tirare a bordo la scialuppa; essa balzava nella loro scia, e una grande ondata la portò via.
+Udite ora un racconto assai triste e pietoso per tutti coloro che [[motifs/love|amano]]. Già Isotta era vicina; già la rupe di Penmarch appariva in lontananza, e la [[motifs/ship|nave]] correva di buona lena, quando d'improvviso si levò un vento di tempesta e crebbe, e percosse la vela, e fece girare la nave tutt'intorno su se stessa, e i marinai poggiarono e, ben contro il loro volere, corsero davanti al vento. Il vento infuriava e grosse ondate montavano, e l'aria si fece spessa di tenebre, e l'oceano stesso si oscurò, e la pioggia cadeva a raffiche. Si spezzò il pennone, e la scotta; ammainarono la vela e corsero con il vento e con l'acqua. In malaugurata ora avevano dimenticato di tirare a bordo la scialuppa; essa balzava nella loro scia, e una grande ondata la portò via.
 
-Allora Isotta gridò: «Dio non vuole che io viva per vederlo, il mio [[Love|amore]], una volta — anche una sola volta ancora. Dio vuole che io anneghi in questo mare. Oh, Tristano, se avessi potuto parlarti anche una sola volta ancora, poco mi sarebbe importato di una morte venuta dopo. Ma ora, [[Love|amore]] mio, non posso venire a te; poiché Dio così vuole, e questo è il nocciolo del mio dolore.»
+Allora Isotta gridò: «Dio non vuole che io viva per vederlo, il mio [[motifs/love|amore]], una volta — anche una sola volta ancora. Dio vuole che io anneghi in questo mare. Oh, Tristano, se avessi potuto parlarti anche una sola volta ancora, poco mi sarebbe importato di una morte venuta dopo. Ma ora, [[motifs/love|amore]] mio, non posso venire a te; poiché Dio così vuole, e questo è il nocciolo del mio dolore.»
 
-E così si lamentò la regina per tutto il tempo che durò la tempesta; ma dopo cinque giorni essa si placò. Kaherdin issò la vela, la vela bianca, fin proprio in cima all'albero con grande gioia; la vela bianca, perché Tristano ne riconoscesse il colore da lontano: e già Kaherdin scorgeva la Bretagna lontana come una nube. Appena queste cose furono viste e fatte, sopraggiunse la bonaccia, e il mare si distese piatto e senza turbamento. La vela non si gonfiò più, e i marinai tenevano la nave ora su, ora giù per la marea, andando avanti e indietro invano. Vedevano la riva da lontano, ma la tempesta aveva portato via la loro barca e non potevano approdare. La terza notte Isotta fece questo sogno: che teneva in grembo una testa di cinghiale che le insozzava di sangue le vesti; allora seppe che non avrebbe mai più rivisto vivo il suo [[Lover|amante]].
+E così si lamentò la regina per tutto il tempo che durò la tempesta; ma dopo cinque giorni essa si placò. Kaherdin issò la vela, la vela bianca, fin proprio in cima all'albero con grande gioia; la vela bianca, perché Tristano ne riconoscesse il colore da lontano: e già Kaherdin scorgeva la Bretagna lontana come una nube. Appena queste cose furono viste e fatte, sopraggiunse la bonaccia, e il mare si distese piatto e senza turbamento. La vela non si gonfiò più, e i marinai tenevano la nave ora su, ora giù per la marea, andando avanti e indietro invano. Vedevano la riva da lontano, ma la tempesta aveva portato via la loro barca e non potevano approdare. La terza notte Isotta fece questo sogno: che teneva in grembo una testa di cinghiale che le insozzava di sangue le vesti; allora seppe che non avrebbe mai più rivisto vivo il suo [[archetypes/lover|amante]].
 
 Tristano era ormai troppo debole per fare la sua guardia dalla rupe di Penmarch, e per molti lunghi giorni, tra quattro mura, lontano dalla riva, aveva pianto Isotta perché non veniva. Dolente e solo, si lamentava e sospirava senza requie: era vicino a morire di desiderio.
 
@@ -4214,13 +4214,13 @@ Presso Tristano, Isotta dalle Bianche Mani stava rannicchiata, folle per il male
 
 «Signora, alzatevi e lasciatemi passare accanto a lui; ho più diritto di voi di piangerlo — credetemi. Io l'ho amato di più.»
 
-E quando si fu volta a oriente ed ebbe pregato Dio, mosse un poco il corpo e si distese accanto al morto, accanto al suo amico. Gli baciò la bocca e il volto, e lo strinse forte a sé; e così rese l'anima, e morì accanto a lui di dolore per il suo [[Lover|amante]].
+E quando si fu volta a oriente ed ebbe pregato Dio, mosse un poco il corpo e si distese accanto al morto, accanto al suo amico. Gli baciò la bocca e il volto, e lo strinse forte a sé; e così rese l'anima, e morì accanto a lui di dolore per il suo [[archetypes/lover|amante]].
 
 Quando re Marco udì della morte di questi amanti, attraversò il mare e venne in Bretagna; e fece scolpire due bare, per Tristano e Isotta, una di calcedonio per Isotta e una di berillo per Tristano. E portò via con sé i loro corpi diletti sulla sua nave fino a Tintagel, e presso una cappella, a destra e a sinistra dell'abside, fece erigere tutt'intorno le loro tombe. Ma in una notte spuntò dalla tomba di Tristano un rovo verde e frondoso, forte nei suoi rami e nel profumo dei suoi fiori. Salì sulla cappella e ricadde a radicarsi presso la tomba di Isotta. Per tre volte i contadini lo recisero, ma per tre volte esso ricrebbe altrettanto fiorito e altrettanto forte. Narrarono il prodigio a re Marco, ed egli proibì loro di tagliare ancora il rovo.
 
 I buoni cantori d'un tempo, Beroul e Tommaso di Built, Gilbert e Gottfried, narrarono questa storia per gli amanti e per nessun altro, e, per la mia penna, essi vi chiedono le vostre preghiere. Salutano coloro che sono abbattuti, e coloro che hanno cuore, i tormentati e coloro che sono colmi di desiderio. Possano tutti trovare qui dentro forza contro l'incostanza e il dispetto e la perdita e il dolore e ogni amarezza dell'amare.
 
-La fine
+FINE
 
 La saggistica
 

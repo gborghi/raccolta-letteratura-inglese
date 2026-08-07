@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/little-hans"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-devoted-friend-(wilde)|The Devoted Friend (Wilde)]]
+
+</div>
+
 #graph/character

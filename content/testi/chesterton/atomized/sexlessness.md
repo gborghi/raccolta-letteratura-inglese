@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="sexlessness" data-title="sexlessness" data-chapter="" data-kind="intro"></span>
 
 
-The Equality of [[sexlessness|Sexlessness]]
+The Equality of Sexlessness
 
 G. K. Chesterton
 
@@ -23,15 +23,15 @@ G. K. Chesterton
 In almost all the modern opinions of women it is curious to observe
 how many lies have to be assumed before a case can be made.
 A young lady flies from England to Australia; another wins
-an air race; a Duchess creates a [[Speed|speed]] record in reaching India;
-others win motoring trophies; and now the [[King]]'s prize for
+an air race; a Duchess creates a [[characters/speed|speed]] record in reaching India;
+others win motoring trophies; and now the [[archetypes/king|King]]'s prize for
 marksmanship has gone to a woman.  All of which is very interesting
-and possibly praiseworthy as means of spending one's leisure [[Time|time]];
+and possibly praiseworthy as means of spending one's leisure [[motifs/time|time]];
 and if it were left to that, even if no more were added than
 the perfectly plain fact that such feats could not have been achieved
 by their mothers and grandmothers, we would be content to doff
-our hats to the ladies with all courtesy and respect which [[Courage|courage]],
-[[Endurance|endurance]] and ability have always rightly demanded.
+our hats to the ladies with all courtesy and respect which [[concepts/courage|courage]],
+[[concepts/endurance|endurance]] and ability have always rightly demanded.
 
 But it is not left to that; and considerably more is added.
 It is suggested, for example, that the tasks were beyond the mothers
@@ -53,30 +53,30 @@ And two heads are better than one."  And the dreadful proof of the modern
 collapse of all that was meant by man and wife and the family council,
 is that this sort of imbecility can be taken seriously.
 
-The [[London]] Times, in a studied leading article, points out
+The [[settings/london|London]] Times, in a studied leading article, points out
 that the first emancipators of women (whoever they were)
 had no idea what lay in store for future generations.
 "Could they have foreseen it they might have disarmed much
-opposition by pointing to the possibilities, not only of [[Freedom|freedom]],
+opposition by pointing to the possibilities, not only of [[concepts/freedom|freedom]],
 but of equality and fraternity also."
 
 And we ask, what does it all mean?  What in the name of all
 that is graceful and dignified does fraternity with women mean?
-What nonsense, or worse, is indicated by the [[Freedom|freedom]] and equality
+What nonsense, or worse, is indicated by the [[concepts/freedom|freedom]] and equality
 of the sexes?
 
 We mean something quite definite when we speak of a man being a little
-free with the ladies.  What definite [[Freedom|freedom]] is meant when the [[Freedom|freedom]]
+free with the ladies.  What definite [[concepts/freedom|freedom]] is meant when the [[concepts/freedom|freedom]]
 of women is proposed?  If it merely means the right to free opinions,
 the right to vote independently of fathers and husbands, what possible
-connection does it have with the [[Freedom|freedom]] to fly to Australia or score
-bulls-eyes at Bisley?  If it means, as we [[Fear|fear]] it does, [[Freedom|freedom]] from
-responsibility of managing a [[Home|home]] and a family, an equal right with men
-in business and social careers, at the expense of [[Home|home]] and family,
+connection does it have with the [[concepts/freedom|freedom]] to fly to Australia or score
+bulls-eyes at Bisley?  If it means, as we [[concepts/fear|fear]] it does, [[concepts/freedom|freedom]] from
+responsibility of managing a [[motifs/home|home]] and a family, an equal right with men
+in business and social careers, at the expense of [[motifs/home|home]] and family,
 then such progress we can only call progressive deterioration.
 
 And for men too, there is, according to a famous authoress,
-a [[Hope|hope]] of [[Freedom|freedom]].  Men are beginning to revolt, we are told,
+a [[concepts/hope|hope]] of [[concepts/freedom|freedom]].  Men are beginning to revolt, we are told,
 against the old tribal custom of desiring fatherhood.
 The male is casting off the shackles of being a creator and a man.
 When all are sexless there will be equality.  There will be no women
@@ -93,7 +93,7 @@ for one generation.
 <span class="atom-split" data-atom="part--part_01" data-title="sexlessness (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/home,motif/time,concept/courage,concept/endurance,concept/fear,concept/freedom,concept/hope,setting/london,character/speed"></span>
 
 
-The Equality of [[sexlessness|Sexlessness]]
+The Equality of Sexlessness
 
 G. K. Chesterton
 
@@ -102,15 +102,15 @@ G. K. Chesterton
 In almost all the modern opinions of women it is curious to observe
 how many lies have to be assumed before a case can be made.
 A young lady flies from England to Australia; another wins
-an air race; a Duchess creates a [[Speed|speed]] record in reaching India;
-others win motoring trophies; and now the [[King]]'s prize for
+an air race; a Duchess creates a [[characters/speed|speed]] record in reaching India;
+others win motoring trophies; and now the [[archetypes/king|King]]'s prize for
 marksmanship has gone to a woman.  All of which is very interesting
-and possibly praiseworthy as means of spending one's leisure [[Time|time]];
+and possibly praiseworthy as means of spending one's leisure [[motifs/time|time]];
 and if it were left to that, even if no more were added than
 the perfectly plain fact that such feats could not have been achieved
 by their mothers and grandmothers, we would be content to doff
-our hats to the ladies with all courtesy and respect which [[Courage|courage]],
-[[Endurance|endurance]] and ability have always rightly demanded.
+our hats to the ladies with all courtesy and respect which [[concepts/courage|courage]],
+[[concepts/endurance|endurance]] and ability have always rightly demanded.
 
 But it is not left to that; and considerably more is added.
 It is suggested, for example, that the tasks were beyond the mothers
@@ -132,30 +132,30 @@ And two heads are better than one."  And the dreadful proof of the modern
 collapse of all that was meant by man and wife and the family council,
 is that this sort of imbecility can be taken seriously.
 
-The [[London]] Times, in a studied leading article, points out
+The [[settings/london|London]] Times, in a studied leading article, points out
 that the first emancipators of women (whoever they were)
 had no idea what lay in store for future generations.
 "Could they have foreseen it they might have disarmed much
-opposition by pointing to the possibilities, not only of [[Freedom|freedom]],
+opposition by pointing to the possibilities, not only of [[concepts/freedom|freedom]],
 but of equality and fraternity also."
 
 And we ask, what does it all mean?  What in the name of all
 that is graceful and dignified does fraternity with women mean?
-What nonsense, or worse, is indicated by the [[Freedom|freedom]] and equality
+What nonsense, or worse, is indicated by the [[concepts/freedom|freedom]] and equality
 of the sexes?
 
 We mean something quite definite when we speak of a man being a little
-free with the ladies.  What definite [[Freedom|freedom]] is meant when the [[Freedom|freedom]]
+free with the ladies.  What definite [[concepts/freedom|freedom]] is meant when the [[concepts/freedom|freedom]]
 of women is proposed?  If it merely means the right to free opinions,
 the right to vote independently of fathers and husbands, what possible
-connection does it have with the [[Freedom|freedom]] to fly to Australia or score
-bulls-eyes at Bisley?  If it means, as we [[Fear|fear]] it does, [[Freedom|freedom]] from
-responsibility of managing a [[Home|home]] and a family, an equal right with men
-in business and social careers, at the expense of [[Home|home]] and family,
+connection does it have with the [[concepts/freedom|freedom]] to fly to Australia or score
+bulls-eyes at Bisley?  If it means, as we [[concepts/fear|fear]] it does, [[concepts/freedom|freedom]] from
+responsibility of managing a [[motifs/home|home]] and a family, an equal right with men
+in business and social careers, at the expense of [[motifs/home|home]] and family,
 then such progress we can only call progressive deterioration.
 
 And for men too, there is, according to a famous authoress,
-a [[Hope|hope]] of [[Freedom|freedom]].  Men are beginning to revolt, we are told,
+a [[concepts/hope|hope]] of [[concepts/freedom|freedom]].  Men are beginning to revolt, we are told,
 against the old tribal custom of desiring fatherhood.
 The male is casting off the shackles of being a creator and a man.
 When all are sexless there will be equality.  There will be no women
@@ -169,7 +169,7 @@ for one generation.
 
 <span class="qlang-split" data-lang="it"></span>
 
-L'uguaglianza dell'[[sexlessness|assenza di sesso]]
+L'uguaglianza dell'assenza di sesso
 
 G. K. Chesterton
 
@@ -179,15 +179,15 @@ In quasi tutte le opinioni moderne sulle donne è curioso osservare
 quante menzogne occorra dare per scontate prima che si possa
 costruire una tesi. Una giovane signora vola dall'Inghilterra
 all'Australia; un'altra vince una gara aerea; una duchessa stabilisce
-un primato di [[Speed|velocità]] nel raggiungere l'India; altre conquistano
-trofei automobilistici; e ora il premio del [[King|Re]] per il tiro
+un primato di [[characters/speed|velocità]] nel raggiungere l'India; altre conquistano
+trofei automobilistici; e ora il premio del [[archetypes/king|Re]] per il tiro
 di precisione è andato a una donna. Tutto ciò è assai interessante
-e forse degno di lode come modo di impiegare il proprio [[Time|tempo]] libero;
+e forse degno di lode come modo di impiegare il proprio [[motifs/time|tempo]] libero;
 e se ci si fermasse a questo, anche senza aggiungere altro se non
 il fatto perfettamente evidente che simili imprese non avrebbero potuto
 essere compiute dalle loro madri e dalle loro nonne, saremmo lieti
 di levarci il cappello davanti a queste signore con tutta la cortesia
-e il rispetto che il [[Courage|coraggio]], la [[Endurance|resistenza]] e l'abilità
+e il rispetto che il [[concepts/courage|coraggio]], la [[concepts/endurance|resistenza]] e l'abilità
 hanno sempre giustamente preteso.
 
 Ma non ci si ferma a questo; e si aggiunge parecchio di più.
@@ -210,30 +210,30 @@ risolvere i problemi del passato. E due teste valgono più di una." E la prova
 spaventosa del moderno crollo di tutto ciò che si intendeva per marito e moglie
 e consiglio di famiglia è che simile imbecillità possa essere presa sul serio.
 
-Il Times di [[London|Londra]], in un meditato articolo di fondo, osserva
+Il Times di [[settings/london|Londra]], in un meditato articolo di fondo, osserva
 che i primi emancipatori delle donne (chiunque essi fossero)
 non avevano idea di ciò che riserbava il futuro alle generazioni venture.
 "Se avessero potuto prevederlo, avrebbero forse disarmato molta
-opposizione additando le possibilità, non solo di [[Freedom|libertà]],
+opposizione additando le possibilità, non solo di [[concepts/freedom|libertà]],
 ma anche di uguaglianza e fraternità."
 
 E noi chiediamo: che cosa significa tutto questo? Che cosa, in nome di tutto
 ciò che è aggraziato e dignitoso, significa fraternità con le donne?
-Quale insensatezza, o peggio, si allude con la [[Freedom|libertà]] e l'uguaglianza
+Quale insensatezza, o peggio, si allude con la [[concepts/freedom|libertà]] e l'uguaglianza
 dei sessi?
 
 Intendiamo qualcosa di ben preciso quando diciamo che un uomo si prende
-qualche [[Freedom|libertà]] con le signore. Quale precisa [[Freedom|libertà]] si intende quando
-si propone la [[Freedom|libertà]] delle donne? Se significa soltanto il diritto a libere
+qualche [[concepts/freedom|libertà]] con le signore. Quale precisa [[concepts/freedom|libertà]] si intende quando
+si propone la [[concepts/freedom|libertà]] delle donne? Se significa soltanto il diritto a libere
 opinioni, il diritto di votare indipendentemente da padri e mariti, quale possibile
-rapporto ha ciò con la [[Freedom|libertà]] di volare in Australia o di centrare
-il bersaglio a Bisley? Se significa, come [[Fear|temiamo]] che significhi, [[Freedom|libertà]] dalla
-responsabilità di governare una [[Home|casa]] e una famiglia, un pari diritto con gli uomini
-nelle carriere professionali e sociali, a spese della [[Home|casa]] e della famiglia,
+rapporto ha ciò con la [[concepts/freedom|libertà]] di volare in Australia o di centrare
+il bersaglio a Bisley? Se significa, come [[concepts/fear|temiamo]] che significhi, [[concepts/freedom|libertà]] dalla
+responsabilità di governare una [[motifs/home|casa]] e una famiglia, un pari diritto con gli uomini
+nelle carriere professionali e sociali, a spese della [[motifs/home|casa]] e della famiglia,
 allora un simile progresso non possiamo che chiamarlo progressivo degrado.
 
 E anche per gli uomini vi è, secondo una celebre scrittrice,
-una [[Hope|speranza]] di [[Freedom|libertà]]. Gli uomini cominciano a ribellarsi, ci si dice,
+una [[concepts/hope|speranza]] di [[concepts/freedom|libertà]]. Gli uomini cominciano a ribellarsi, ci si dice,
 contro l'antico costume tribale del desiderio di paternità.
 Il maschio si scrolla di dosso le catene dell'essere un creatore e un uomo.
 Quando tutti saranno privi di sesso vi sarà l'uguaglianza. Non vi saranno donne

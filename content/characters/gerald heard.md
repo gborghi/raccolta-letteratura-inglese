@@ -14,4 +14,10 @@ Real popular-science writer mocked for his sentimental scenario of arboreal apes
 
 <div class="concept-works" data-slug="characters/gerald-heard"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/christmas-games-(chesterton)|christmas-games (Chesterton)]]
+
+</div>
+
 #graph/character

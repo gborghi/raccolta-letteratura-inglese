@@ -34,7 +34,7 @@ tags:
   - character/doctor_caius
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[World Upside Down · Comedy]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/world-upside-down-·-comedy|World Upside Down · Comedy]]
 
 > [!abstract] 
 > A middle-class citizen comedy set in Windsor in which Falstaff's attempts to seduce two married women are turned against him by the wives' ingenious tricks; a farce of disguise, jealousy, and bourgeois domestic life.
@@ -67,14 +67,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Archetypes:** [[Fool]], [[Trickster]]
-**Motifs:** [[Concealment Hidden Identity]], [[Letters and Writing]], [[Money and Gold]]
-**Themes & Concepts:** [[Jealousy]], [[Marriage and Fidelity]], [[Deception]], [[Satire of Society]], [[Lust Sexual Desire]], [[Common Man]]
-**Forms & Genres:** [[Comedy]], [[Verse Drama]]
-**Historical References:** [[Elizabethan England]]
-**Settings:** [[Rural England]]
-**Characters:** [[Falstaff]], [[Mistress Ford]], [[Mistress Page]], [[Master Ford]], [[Master Page]], [[Mistress Quickly]], [[Anne Page]], [[Fenton]], [[Doctor Caius]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/trickster|Trickster]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/money-and-gold|Money and Gold]]
+**Themes & Concepts:** [[concepts/jealousy|Jealousy]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/deception|Deception]], [[concepts/satire-of-society|Satire of Society]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/common-man|Common Man]]
+**Forms & Genres:** [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]]
+**Historical References:** [[historical-references/elizabethan-england|Elizabethan England]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Characters:** [[characters/falstaff|Falstaff]], [[characters/mistress-ford|Mistress Ford]], [[characters/mistress-page|Mistress Page]], [[characters/master-ford|Master Ford]], [[characters/master-page|Master Page]], [[characters/mistress-quickly|Mistress Quickly]], [[characters/anne-page|Anne Page]], [[characters/fenton|Fenton]], [[characters/doctor-caius|Doctor Caius]]
 
 ## Testo integrale / Full text
 

@@ -22,16 +22,16 @@ tags:
   - archetype/detective
   - archetype/villain
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Detective Fiction · Ratiocination Detection · Crime and Punishment]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/detective-fiction-·-ratiocination-detection-·-crime-and-punishment|Detective Fiction · Ratiocination Detection · Crime and Punishment]]
 
 > [!abstract] 
 > A one-act Sherlock Holmes play in which Holmes lures the ruthless Colonel Sebastian Moran and his accomplice into his Baker Street rooms using a wax dummy decoy, forcing a confession over the theft of the great yellow Crown Diamond.
 
 ## Connections
 
-**Forms & Genres:** [[Detective Fiction]], [[Melodrama]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Crime and Punishment]], [[Deception]], [[Justice Right and Wrong]]
-**Motifs:** [[Concealment Hidden Identity]], [[Clothing and Costume]], [[Money and Gold]]
-**Settings:** [[London]]
-**Characters:** [[Sherlock Holmes]], [[Doctor Watson]]
-**Archetypes:** [[Detective]], [[Villain]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/melodrama|Melodrama]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/deception|Deception]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/money-and-gold|Money and Gold]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]

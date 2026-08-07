@@ -24,8 +24,8 @@ G.K.C.
 There are two recognised ways of arguing with a Communist; and they
 are both wrong.  There is also a third way which is right but which is
 not recognised.  Now I have a notion that, for one reason or another,
-a considerable part of our [[Time|time]] will be taken up soon by arguing
-with Communists.  And I should like to [[Sketch|sketch]] very roughly this notion
+a considerable part of our [[motifs/time|time]] will be taken up soon by arguing
+with Communists.  And I should like to [[forms/sketch|sketch]] very roughly this notion
 of mine about the right way to do it.  Curiously enough, the two
 commonest ways of contradicting Communism also contradict each other.
 The first consists of convicting the Bolshevist of all vices.  The second,
@@ -34,9 +34,9 @@ It actually consists of pitting all our vices against his virtues;
 or his supposed virtues.
 
 This is very much the more dangerous and even suicidal trick
-of the two; but its [[Nature|nature]] needs a little explanation.
+of the two; but its [[concepts/nature|nature]] needs a little explanation.
 The first common or conventional method is at least simple enough.
-The Capitalist says to the Communist, "You shall not enter my [[house]],
+The Capitalist says to the Communist, "You shall not enter my house,
 for I know you would burt it down; you shall not speak to my family,
 for I know you would blow them up; you are a common thief and
 murderer and I am a highly respectable and moral person; and not as
@@ -47,7 +47,7 @@ of the Christian than the Marxian.
 
 But I rather prefer it to the other method, which I find
 extremely common, among those who profess to defend property
-or [[Individualism|individualism]] against the Marxian heresy.  It really consists
+or [[concepts/individualism|individualism]] against the Marxian heresy.  It really consists
 of telling the Communist that he is an idealist, or, in other words,
 that he must be wrong because he has ideals.  In this second case,
 the Capitalist says to the Communist, "You believe in a lot
@@ -80,11 +80,11 @@ a conventional respectability; on the contrary, it is only the man
 with some property and privacy who can live his own life freely.
 On the other hand, it is not a mere licence to trade, still less
 a mere licence to cheat; on the contrary, the whole point
-of property is that in that [[Alone|alone]] can be naturally nourished
-the sentiment of [[Honour|honour]].  It would need some space to expound it
-here and might take some [[Time|time]] to expound it to the Communist.
+of property is that in that alone can be naturally nourished
+the sentiment of [[concepts/honour|honour]].  It would need some space to expound it
+here and might take some [[motifs/time|time]] to expound it to the Communist.
 But the Communist would listen at least longer than he would
-to a man merely boasting of [[Self|self]]-righteousness or a man merely
+to a man merely boasting of [[concepts/self|self]]-righteousness or a man merely
 boasting of avarice.
 
 
@@ -103,8 +103,8 @@ G.K.C.
 There are two recognised ways of arguing with a Communist; and they
 are both wrong.  There is also a third way which is right but which is
 not recognised.  Now I have a notion that, for one reason or another,
-a considerable part of our [[Time|time]] will be taken up soon by arguing
-with Communists.  And I should like to [[Sketch|sketch]] very roughly this notion
+a considerable part of our [[motifs/time|time]] will be taken up soon by arguing
+with Communists.  And I should like to [[forms/sketch|sketch]] very roughly this notion
 of mine about the right way to do it.  Curiously enough, the two
 commonest ways of contradicting Communism also contradict each other.
 The first consists of convicting the Bolshevist of all vices.  The second,
@@ -113,9 +113,9 @@ It actually consists of pitting all our vices against his virtues;
 or his supposed virtues.
 
 This is very much the more dangerous and even suicidal trick
-of the two; but its [[Nature|nature]] needs a little explanation.
+of the two; but its [[concepts/nature|nature]] needs a little explanation.
 The first common or conventional method is at least simple enough.
-The Capitalist says to the Communist, "You shall not enter my [[house]],
+The Capitalist says to the Communist, "You shall not enter my house,
 for I know you would burt it down; you shall not speak to my family,
 for I know you would blow them up; you are a common thief and
 murderer and I am a highly respectable and moral person; and not as
@@ -126,7 +126,7 @@ of the Christian than the Marxian.
 
 But I rather prefer it to the other method, which I find
 extremely common, among those who profess to defend property
-or [[Individualism|individualism]] against the Marxian heresy.  It really consists
+or [[concepts/individualism|individualism]] against the Marxian heresy.  It really consists
 of telling the Communist that he is an idealist, or, in other words,
 that he must be wrong because he has ideals.  In this second case,
 the Capitalist says to the Communist, "You believe in a lot
@@ -159,17 +159,17 @@ a conventional respectability; on the contrary, it is only the man
 with some property and privacy who can live his own life freely.
 On the other hand, it is not a mere licence to trade, still less
 a mere licence to cheat; on the contrary, the whole point
-of property is that in that [[Alone|alone]] can be naturally nourished
-the sentiment of [[Honour|honour]].  It would need some space to expound it
-here and might take some [[Time|time]] to expound it to the Communist.
+of property is that in that alone can be naturally nourished
+the sentiment of [[concepts/honour|honour]].  It would need some space to expound it
+here and might take some [[motifs/time|time]] to expound it to the Communist.
 But the Communist would listen at least longer than he would
-to a man merely boasting of [[Self|self]]-righteousness or a man merely
+to a man merely boasting of [[concepts/self|self]]-righteousness or a man merely
 boasting of avarice.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Come non farlo
+Come Non Farlo
 
 G.K.'s Weekly
 16 maggio 1935
@@ -179,8 +179,8 @@ G.K.C.
 Ci sono due modi riconosciuti di discutere con un comunista; ed
 entrambi sono sbagliati.  Ce n'è anche un terzo, che è giusto ma che
 non è riconosciuto.  Ora, ho la sensazione che, per una ragione o per l'altra,
-buona parte del nostro [[Time|tempo]] sarà presto occupata a discutere
-con i comunisti.  E vorrei [[Sketch|abbozzare]] molto sommariamente questa mia idea
+buona parte del nostro [[motifs/time|tempo]] sarà presto occupata a discutere
+con i comunisti.  E vorrei [[forms/sketch|abbozzare]] molto sommariamente questa mia idea
 sul modo giusto di farlo.  Curiosamente, i due
 modi più comuni di contraddire il comunismo si contraddicono anche a vicenda.
 Il primo consiste nel convincere il bolscevico di tutti i vizi.  Il secondo,
@@ -189,9 +189,9 @@ Consiste in realtà nell'opporre tutti i nostri vizi alle sue virtù;
 o alle sue presunte virtù.
 
 Questo è di gran lunga il più pericoloso e perfino suicida trucco
-dei due; ma la sua [[Nature|natura]] richiede qualche spiegazione.
+dei due; ma la sua [[concepts/nature|natura]] richiede qualche spiegazione.
 Il primo metodo, comune o convenzionale, è almeno abbastanza semplice.
-Il capitalista dice al comunista: "Non entrerai nella mia [[house|casa]],
+Il capitalista dice al comunista: "Non entrerai nella mia casa,
 perché so che la daresti alle fiamme; non parlerai alla mia famiglia,
 perché so che la faresti saltare in aria; sei un volgare ladro e
 assassino, e io sono una persona altamente rispettabile e morale; e non come
@@ -202,7 +202,7 @@ del cristiano di quanto lo sia il marxista.
 
 Ma lo preferisco piuttosto all'altro metodo, che trovo
 estremamente comune tra coloro che pretendono di difendere la proprietà
-o l'[[Individualism|individualismo]] contro l'eresia marxista.  Consiste in realtà
+o l'[[concepts/individualism|individualismo]] contro l'eresia marxista.  Consiste in realtà
 nel dire al comunista che è un idealista, ovvero, in altre parole,
 che deve avere torto perché ha degli ideali.  In questo secondo caso,
 il capitalista dice al comunista: "Tu credi a un mucchio
@@ -235,9 +235,9 @@ rispettabilità convenzionale; al contrario, è solo l'uomo
 che possiede un po' di proprietà e di riservatezza che può vivere liberamente la propria vita.
 Dall'altro, non è una mera licenza di commerciare, e ancor meno
 una mera licenza di truffare; al contrario, tutto il senso
-della proprietà è che in essa [[Alone|soltanto]] può nutrirsi naturalmente
-il sentimento dell'[[Honour|onore]].  Servirebbe un certo spazio per esporlo
-qui, e potrebbe volerci un po' di [[Time|tempo]] per esporlo al comunista.
+della proprietà è che in essa soltanto può nutrirsi naturalmente
+il sentimento dell'[[concepts/honour|onore]].  Servirebbe un certo spazio per esporlo
+qui, e potrebbe volerci un po' di [[motifs/time|tempo]] per esporlo al comunista.
 Ma il comunista ascolterebbe almeno più a lungo di quanto ascolterebbe
-un uomo che si limiti a vantare la propria [[Self|superiorità morale]] o un uomo che si limiti a
+un uomo che si limiti a vantare la propria [[concepts/self|superiorità morale]] o un uomo che si limiti a
 vantare la propria avarizia.

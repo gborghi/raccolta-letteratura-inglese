@@ -24,7 +24,7 @@ tags:
   - archetype/hero
   - archetype/trickster
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Adventure Fiction · Empire and Imperialism · Peril and Survival]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/adventure-fiction-·-empire-and-imperialism-·-peril-and-survival|Adventure Fiction · Empire and Imperialism · Peril and Survival]]
 
 > [!abstract] 
 > Doyle's early colonial adventure tales, led by the title story in which vigilante troopers and miners hunt down murderous bushrangers on the Australian goldfields, alongside stories of a reforming Bible-quoting camp preacher, a murderer's confession, and other frontier and mystery pieces.
@@ -44,8 +44,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Short Story]], [[Adventure Fiction]]
-**Themes & Concepts:** [[Justice Right and Wrong]], [[Crime and Punishment]], [[Greed and Money]], [[Revenge]], [[Courage]], [[Economics]]
-**Motifs:** [[Journey]], [[Money and Gold]], [[Blood]]
-**Settings:** [[American Frontier]], [[Mountains]]
-**Archetypes:** [[Villain]], [[Hero]], [[Trickster]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/adventure-fiction|Adventure Fiction]]
+**Themes & Concepts:** [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/greed-and-money|Greed and Money]], [[concepts/revenge|Revenge]], [[concepts/courage|Courage]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/money-and-gold|Money and Gold]], [[motifs/blood|Blood]]
+**Settings:** [[settings/american-frontier|American Frontier]], [[settings/mountains|Mountains]]
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/hero|Hero]], [[archetypes/trickster|Trickster]]

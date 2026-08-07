@@ -14,4 +14,10 @@ The recurring miracle of Christ's birth as annual renewal of hope, treated acros
 
 <div class="concept-works" data-slug="concepts/christmas-and-the-nativity"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/poems-(chesterton)|Poems (Chesterton)]]
+
+</div>
+
 #graph/concept

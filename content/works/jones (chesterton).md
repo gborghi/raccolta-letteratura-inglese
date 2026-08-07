@@ -25,7 +25,7 @@ tags:
   - histref/tennyson
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Chesterton*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A satiric comic poem in couplets parodying the relentless overreach of bureaucratic legislation, which dismembers a citizen by acronymic committees in the name of progress and freedom.
@@ -36,17 +36,17 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Tennyson]]
+**Historical References:** [[historical-references/tennyson|Tennyson]]
 
-**Motifs:** [[Chains]]
+**Motifs:** [[motifs/chains|Chains]]
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[Jones]]
+**Characters:** [[characters/jones|Jones]]
 
-**Archetypes:** [[Corrupt Official]], [[Common Man (2)]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Power and Corruption]], [[Body]], [[Grotesque]], [[Freedom and Liberty]]
-**Forms & Genres:** [[Satire]], [[Narrative Poem]], [[Parody]], [[Comic Verse Song]]
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/common-man-(2)|Common Man (2)]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/body|Body]], [[concepts/grotesque|Grotesque]], [[concepts/freedom-and-liberty|Freedom and Liberty]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/narrative-poem|Narrative Poem]], [[forms/parody|Parody]], [[forms/comic-verse-song|Comic Verse Song]]
 
 ## Testo integrale / Full text
 

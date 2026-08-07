@@ -14,4 +14,10 @@ The virgin martyr and patron saint of artillery whose legend of the three window
 
 <div class="concept-works" data-slug="characters/barbara"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/balladstbarbara-(chesterton)|BalladStBarbara (Chesterton)]]
+
+</div>
+
 #graph/character

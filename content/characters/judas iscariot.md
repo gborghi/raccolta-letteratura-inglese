@@ -14,4 +14,11 @@ The betrayer of Christ, whose infamous name Chesterton contrasts with the heroic
 
 <div class="concept-works" data-slug="characters/judas-iscariot"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/new-jerusalem-(chesterton)|New Jerusalem (Chesterton)]]
+- [[works/the-speaker-(chesterton)|The Speaker (Chesterton)]]
+
+</div>
+
 #graph/character

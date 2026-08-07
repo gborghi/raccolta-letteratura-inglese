@@ -14,4 +14,10 @@ Scott's outlaw hero, whose plain, humorous confrontation with Bailie Nicol Jarvi
 
 <div class="concept-works" data-slug="characters/rob-roy"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+
+</div>
+
 #graph/character

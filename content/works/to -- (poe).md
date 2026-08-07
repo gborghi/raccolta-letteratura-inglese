@@ -14,16 +14,16 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Poe*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A brief love lyric in which the speaker, indifferent to his own desolate lot, is moved that the beloved should sorrow for a mere passer-by. Themes of love, melancholy and transience.
 
 ## Connections
 
-**Motifs:** [[Love]]
-**Themes & Concepts:** [[Romantic Love]], [[Melancholy]], [[Transience]]
-**Forms & Genres:** [[Lyric]]
+**Motifs:** [[motifs/love|Love]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/melancholy|Melancholy]], [[concepts/transience|Transience]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

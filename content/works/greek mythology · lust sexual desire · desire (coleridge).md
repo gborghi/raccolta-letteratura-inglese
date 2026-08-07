@@ -37,17 +37,17 @@ tags:
 
 Raccolta tematica di 11 componimenti di Samuel Taylor Coleridge.
 
-- [[ALLA SUA AMICA (Coleridge)|ALLA SUA AMICA]]
-- [[AN ODE IN THE MANNER OF ANACREON (Coleridge)|AN ODE IN THE MANNER OF ANACREON]]
-- [[CATULLIAN HENDECASYLLABLES (Coleridge)|CATULLIAN HENDECASYLLABLES]]
-- [[IMITATED FROM THE WELSH (Coleridge)|IMITATED FROM THE WELSH]]
-- [[JEUX D’ESPRIT MY GODMOTHER’S BEARD (Coleridge)|JEUX D’ESPRIT: MY GODMOTHER’S BEARD]]
-- [[KISSES (Coleridge)|KISSES]]
-- [[MILESISCHES MÄHRCHEN (Coleridge)|MILESISCHES MÄHRCHEN]]
-- [[THE KISS (Coleridge)|THE KISS]]
-- [[THE SILVER THIMBLE (Coleridge)|THE SILVER THIMBLE]]
-- [[THE WILLS OF THE WISP (Coleridge)|THE WILLS OF THE WISP]]
-- [[TO MISS BRUNTON (Coleridge)|TO MISS BRUNTON]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#446_alla_sua_amica|ALLA SUA AMICA]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#034_an_ode_in_the_manner_of_anacreon|AN ODE IN THE MANNER OF ANACREON]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#163_catullian_hendecasyllables|CATULLIAN HENDECASYLLABLES]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#054_imitated_from_the_welsh|IMITATED FROM THE WELSH]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#361_jeux_desprit_my_godmothers_beard|JEUX D’ESPRIT: MY GODMOTHER’S BEARD]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#044_kisses|KISSES]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#433_milesisches_mährchen|MILESISCHES MÄHRCHEN]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#063_the_kiss|THE KISS]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#106_the_silver_thimble|THE SILVER THIMBLE]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#367_the_wills_of_the_wisp|THE WILLS OF THE WISP]]
+- [[testi/coleridge/atomized/greek-mythology-lust-sexual-desire-desire#066_to_miss_brunton|TO MISS BRUNTON]]
 
 ## Testo / Text
 

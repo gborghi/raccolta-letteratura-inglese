@@ -31,20 +31,20 @@ tags:
   - character/collatine
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Honour · Ancient Rome]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/honour-·-ancient-rome|Honour · Ancient Rome]]
 
 > [!abstract] 
 > Tragic narrative poem in rhyme royal: Tarquin's rape of the chaste Roman matron Lucrece, her grief and suicide, and the political revolution it triggers. Central themes: lust, honour and chastity, guilt, justice and the fall of tyranny.
 
 ## Connections
 
-**Archetypes:** [[Villain]], [[Martyr Saint]], [[Innocent]]
-**Motifs:** [[Blood]], [[Desire]], [[Night]], [[Light and Dark]]
-**Themes & Concepts:** [[Lust Sexual Desire]], [[Honour]], [[Guilt]], [[Justice Right and Wrong]], [[Revenge]], [[Grief and Loss]], [[Power and Corruption]], [[Marriage and Fidelity]]
-**Forms & Genres:** [[Narrative Poem]], [[Rhyme Royal]]
-**Historical References:** [[Roman History]]
-**Settings:** [[Ancient Rome]]
-**Characters:** [[Lucrece]], [[Tarquin]], [[Collatine]]
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/innocent|Innocent]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/desire|Desire]], [[motifs/night|Night]], [[motifs/light-and-dark|Light and Dark]]
+**Themes & Concepts:** [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/honour|Honour]], [[concepts/guilt|Guilt]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/revenge|Revenge]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]]
+**Forms & Genres:** [[forms/narrative-poem|Narrative Poem]], [[forms/rhyme-royal|Rhyme Royal]]
+**Historical References:** [[historical-references/roman-history|Roman History]]
+**Settings:** [[settings/ancient-rome|Ancient Rome]]
+**Characters:** [[characters/lucrece|Lucrece]], [[characters/tarquin|Tarquin]], [[characters/collatine|Collatine]]
 
 ## Testo integrale / Full text
 

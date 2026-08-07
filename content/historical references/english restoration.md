@@ -14,4 +14,10 @@ The 1660 return of Charles II that forms the story's historical backdrop, its fa
 
 <div class="concept-works" data-slug="historical-references/english-restoration"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/sword-(chesterton)|Sword (Chesterton)]]
+
+</div>
+
 #graph/histref

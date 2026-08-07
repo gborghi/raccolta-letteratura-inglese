@@ -32,7 +32,7 @@ tags:
 
 # american-morals
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > Essay attacking the confused American 'standard of right and wrong' (the prohibitionist horror of tobacco) as the decay of Puritanism into formless fanaticism. Themes: justice/morality, satire of society, critique of Puritanism.
@@ -42,17 +42,17 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Scapegoat]]
+**Archetypes:** [[archetypes/scapegoat|Scapegoat]]
 
-**Settings:** [[America]], [[New England America]]
+**Settings:** [[settings/america|America]], [[settings/new-england-america|New England America]]
 
-**Motifs:** [[Wine and Drink]], [[Tobacco and Cigars]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/tobacco-and-cigars|Tobacco and Cigars]]
 
-**Characters:** [[Avis D. Carlson]]
+**Characters:** [[characters/avis-d.-carlson|Avis D. Carlson]]
 
-**Themes & Concepts:** [[Satire of Society]], [[Justice Right and Wrong]], [[Critique of Progress]], [[Truth]], [[Fanaticism]], [[Conformity vs Individualism]], [[Reform]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
-**Historical References:** [[Puritanism]], [[Ku Klux Klan]], [[Scopes Trial]], [[Prohibition Era]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/truth|Truth]], [[concepts/fanaticism|Fanaticism]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/reform|Reform]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/puritanism|Puritanism]], [[historical-references/ku-klux-klan|Ku Klux Klan]], [[historical-references/scopes-trial|Scopes Trial]], [[historical-references/prohibition-era|Prohibition Era]]
 
 ## Testo integrale / Full text
 

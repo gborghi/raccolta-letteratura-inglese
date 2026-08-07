@@ -14,4 +14,10 @@ One of the asylum's two chief physicians and lieutenants of the Master, cold and
 
 <div class="concept-works" data-slug="characters/doctor-hutton"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ball-and-cross-(chesterton)|ball and cross (Chesterton)]]
+
+</div>
+
 #graph/character

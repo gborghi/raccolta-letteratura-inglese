@@ -14,4 +14,14 @@ The Victorian novelist Chesterton defends against a hostile fictionalized biogra
 
 <div class="concept-works" data-slug="characters/charles-dickens"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/gkc-come-to-think-(chesterton)|GKC Come to Think (Chesterton)]]
+- [[works/tremendous-trifles-(chesterton)|Tremendous Trifles (Chesterton)]]
+- [[works/whatisawinamerica-(chesterton)|WhatISawInAmerica (Chesterton)]]
+- [[works/shop-of-ghosts-(chesterton)|shop-of-ghosts (Chesterton)]]
+- [[works/a-shy-bird-(chesterton)|A Shy Bird (Chesterton)]]
+
+</div>
+
 #graph/character

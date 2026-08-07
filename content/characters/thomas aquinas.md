@@ -14,4 +14,13 @@ The book's subject, the huge, silent Dominican friar whose stubborn vow to be a 
 
 <div class="concept-works" data-slug="characters/thomas-aquinas"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/aquinas-(chesterton)|aquinas (Chesterton)]]
+- [[works/runabbot-(chesterton)|runabbot (Chesterton)]]
+- [[works/gkc-all-is-grist-(chesterton)|GKC All is Grist (Chesterton)]]
+- [[works/what-is-right-with-the-world-(chesterton)|What is Right With the World (Chesterton)]]
+
+</div>
+
 #graph/character

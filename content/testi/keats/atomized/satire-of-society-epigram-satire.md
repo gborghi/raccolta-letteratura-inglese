@@ -14,11 +14,11 @@ tags:
 <span class="atom-split" data-atom="024_addressed_to_haydon" data-title="ADDRESSED TO HAYDON" data-chapter="" data-kind="intro" data-tags="motif/money_gold,concept/the_artist_and_society,concept/friendship,concept/heroism,form/sonnet,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
 
 
-Highmindedness, a [[Jealousy|jealousy]] for good,  
+Highmindedness, a [[concepts/jealousy|jealousy]] for good,  
   A loving-kindness for the great man’s fame,  
   Dwells here and there with people of no name,  
 In noisome alley, and in pathless wood:  
-And where we think the [[Truth|truth]] least understood,  
+And where we think the [[concepts/truth|truth]] least understood,  
   Oft may be found a “singleness of aim,”  
   That ought to frighten into hooded shame  
 A money mong’ring, pitiable brood.  
@@ -32,11 +32,11 @@ Unnumber’d souls breathe out a still applause,
 
 <span class="qlang-split" data-lang="it"></span>
 
-Altezza d’animo, una [[Jealousy|gelosia]] del bene,  
+Altezza d’animo, una [[concepts/jealousy|gelosia]] del bene,  
   un amore benigno per la fama del grande,  
   dimora qua e là fra gente senza nome,  
 in vicoli fetidi e in boschi senza sentiero:  
-e dove crediamo la [[Truth|verità]] meno intesa,  
+e dove crediamo la [[concepts/truth|verità]] meno intesa,  
   spesso si trova una “unicità di scopo”  
   che dovrebbe atterrire, in vergogna incappucciata,  
 una razza pietosa, mercantessa di denaro.  
@@ -56,11 +56,11 @@ Before he went to feed with owls and bats
 Nebuchadnezzar had an ugly dream,  
 Worse than an hus’if s when she thinks her cream  
 Made a naumachia for mice and rats.  
-So scared, he sent for that ‘Good [[King]] of Cats’  
+So scared, he sent for that ‘Good [[archetypes/king|King]] of Cats’  
 Young Daniel, who soon did pluck away the beam  
 From out his eye, and said he did not deem  
 The sceptre worth a straw - his cushions old door-mats.  
-A horrid [[nightmare]] similar somewhat  
+A horrid nightmare similar somewhat  
 Of late has haunted a most motley crew,  
 10  
 Most loggerheads and chapmen - we are told  
@@ -75,11 +75,11 @@ Prima di andare a pascere con gufi e pipistrelli
 Nabucodonosor fece un brutto sogno,  
 peggiore di quello d’una massaia quando crede la sua panna  
 diventata una naumachia per topi e ratti.  
-Atterrito, mandò a chiamare quel ‘buon [[King|Re]] dei Gatti’  
+Atterrito, mandò a chiamare quel ‘buon [[archetypes/king|Re]] dei Gatti’  
 il giovane Daniele, che presto gli cavò la trave  
 dall’occhio, e disse che non stimava  
 lo scettro più d’una paglia - i suoi cuscini, vecchi zerbini.  
-Un orrido [[nightmare|incubo]] press’a poco simile  
+Un orrido incubo press’a poco simile  
 ha infestato di recente una brigata assai variopinta,  
 10  
 per lo più zucconi e merciai - ci si dice  
@@ -148,44 +148,44 @@ poi ognuno azzanna una coscia o un cosciotto.
 <span class="atom-split" data-atom="069_modern_love" data-title="Modern Love" data-chapter="" data-kind="intro" data-tags="archetype/femme_fatale,motif/money_gold,concept/satire_of_society,concept/love_romantic,concept/appearance_vs_reality,form/satire,histref/ancient_rome,cluster/satire_of_society,cluster/epigram,cluster/satire"></span>
 
 
-And what is [[Love|love]]? It is a doll dress’d up  
-For idleness to cosset, [[Nurse|nurse]], and dandle;  
+And what is [[motifs/love|love]]? It is a doll dress’d up  
+For idleness to cosset, [[characters/nurse|nurse]], and dandle;  
 A thing of soft misnomers, so divine  
 That silly youth doth think to make itself  
 Divine by loving, and so goes on  
-Yawning and doting a whole [[Summer|summer]] long,  
+Yawning and doting a whole [[motifs/summer|summer]] long,  
 Till Miss’s comb is made a pearl tiara,  
-And common Wellingtons turn [[Romeo]] boots;  
-Then [[Cleopatra]] lives at number seven,  
+And common Wellingtons turn [[characters/romeo|Romeo]] boots;  
+Then [[characters/cleopatra|Cleopatra]] lives at number seven,  
 And Antony resides in Brunswick Square.  
 Fools! if some passions high have warm’d the world,  
 If Queens and Soldiers have play’d deep for hearts,  
 It is no reason why such agonies  
 Should be more common than the growth of weeds.  
 Fools! make me whole again that weighty pearl  
-The [[Queen]] of [[Egypt]] melted, and I’ll say  
-That ye may [[Love|love]] in spite of beaver hats.  
+The [[characters/queen|Queen]] of [[settings/egypt|Egypt]] melted, and I’ll say  
+That ye may [[motifs/love|love]] in spite of beaver hats.  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-E che cos’è l’[[Love|amore]]? È una bambola agghindata  
-perché l’ozio la vezzeggi, la [[Nurse|nutra]] e la culli;  
+E che cos’è l’[[motifs/love|amore]]? È una bambola agghindata  
+perché l’ozio la vezzeggi, la [[characters/nurse|nutra]] e la culli;  
 una cosa di molli nomi impropri, tanto divina  
 che la sciocca gioventù crede di farsi  
 divina amando, e séguita così  
-a sbadigliare e a spasimare per un’intera [[Summer|estate]],  
+a sbadigliare e a spasimare per un’intera [[motifs/summer|estate]],  
 finché il pettine della Signorina diventa un diadema di perle  
-e i comuni stivaletti Wellington si fanno stivali di [[Romeo]];  
-allora [[Cleopatra]] abita al numero sette,  
+e i comuni stivaletti Wellington si fanno stivali di [[characters/romeo|Romeo]];  
+allora [[characters/cleopatra|Cleopatra]] abita al numero sette,  
 e Antonio risiede in Brunswick Square.  
 Sciocchi! se alte passioni hanno scaldato il mondo,  
 se Regine e Soldati hanno giocato forte per dei cuori,  
 non è ragione perché simili agonie  
 siano più comuni del crescere delle erbacce.  
 Sciocchi! rifatemi intera quella perla pesante  
-che la [[Queen|Regina]] d’[[Egypt|Egitto]] sciolse, e dirò  
-che potete [[Love|amare]] a dispetto dei cappelli di castoro.
+che la [[characters/queen|Regina]] d’[[settings/egypt|Egitto]] sciolse, e dirò  
+che potete [[motifs/love|amare]] a dispetto dei cappelli di castoro.
 
 
 
@@ -207,7 +207,7 @@ When Kate Eyebrow keeps a coach,
 Huzza for folly O!  
 When the pig is over-roasted,  
 Huzza for folly O!  
-And the [[cheese]] is over-toasted,  
+And the cheese is over-toasted,  
 Huzza for folly O!  
 When Sir Snap is with his lawyer,  
 Huzza for folly O!  
@@ -233,7 +233,7 @@ Quando Kate Eyebrow tiene carrozza,
 urrà per la follia, oh!  
 Quando il porco è troppo arrostito,  
 urrà per la follia, oh!  
-e il [[cheese|formaggio]] troppo abbrustolito,  
+e il formaggio troppo abbrustolito,  
 urrà per la follia, oh!  
 Quando Sir Snap è dal suo avvocato,  
 urrà per la follia, oh!  
@@ -287,7 +287,7 @@ And hadst no more to say
 VII  
 If lucky Gadfly had but ta’en  
 His seat....  
-And put thee to a little [[Pain|pain]]  
+And put thee to a little [[motifs/pain|pain]]  
 To save thee from a worse.  
 
 VIII  
@@ -305,7 +305,7 @@ And now I on will go.
 X  
 Has any here a daughter fair  
 Too fond of reading novels,  
-Too apt to fall in [[Love|love]] with care  
+Too apt to fall in [[motifs/love|love]] with care  
 And charming Mister Lovels,  
 
 XI  
@@ -317,7 +317,7 @@ And it will breed a wort.
 XII  
 Has any here a pious spouse  
 Who seven times a day  
-Scolds as [[King]] David pray’d, to chouse  
+Scolds as [[archetypes/king|King]] David pray’d, to chouse  
 And have her holy way -  
 
 XIII  
@@ -376,7 +376,7 @@ e non avevi altro da dire
 VII  
 se un Tafano fortunato avesse preso  
 il suo posto....  
-e t’avesse dato un po’ di [[Pain|pena]]  
+e t’avesse dato un po’ di [[motifs/pain|pena]]  
 per salvarti da una peggiore.  
 
 VIII  
@@ -394,7 +394,7 @@ e ora tiro avanti.
 X  
 C’è qui qualcuno con una bella figliola  
 troppo ghiotta di romanzi,  
-troppo pronta a [[Love|innamorarsi]] degli affanni  
+troppo pronta a [[motifs/love|innamorarsi]] degli affanni  
 e degli affascinanti signor Lovel,  
 
 XI  
@@ -406,7 +406,7 @@ e le farà venire una verruca.
 XII  
 C’è qui qualcuno con una pia consorte  
 che sette volte al giorno  
-sgrida come il [[King|Re]] Davide pregava, per gabbare  
+sgrida come il [[archetypes/king|Re]] Davide pregava, per gabbare  
 e averla vinta a modo suo, santamente -  
 
 XIII  
@@ -428,7 +428,7 @@ la piccola puntura del Tafano.
 
 Seeing ‘The Stranger’ Played at Inverary  
 Of late two dainties were before me plac’d  
-Sweet, holy, pure, sacred and [[Innocent|innocent]],  
+Sweet, holy, pure, sacred and [[archetypes/innocent|innocent]],  
 From the ninth sphere to me benignly sent  
 That Gods might know my own particular taste:  
 First the soft Bagpipe moum’d with zealous haste,  
@@ -447,7 +447,7 @@ Mum chance art thou with both oblig’d to part.
 
 vedendo rappresentato ‘Lo Straniero’ a Inverary  
 Di recente due leccornie mi furono poste dinanzi  
-dolci, sante, pure, sacre e [[Innocent|innocenti]],  
+dolci, sante, pure, sacre e [[archetypes/innocent|innocenti]],  
 dalla nona sfera benignamente mandate  
 perché gli Dèi conoscessero il mio gusto particolare:  
 prima la molle Cornamusa si dolse con zelante fretta,  
@@ -471,7 +471,7 @@ Muto e sbigottito, da entrambi ti tocca separarti.
 MRS CAMERON  
 Upon my life Sir Nevis I am pique’d  
 That I have so far panted tugg’d and reek’d  
-To do an [[Honour|honour]] to your old bald pate  
+To do an [[concepts/honour|honour]] to your old bald pate  
 And now am sitting on you just to bate,  
 Without your paying me one compliment.  
 Alas ’tis so with all, when our intent  
@@ -499,18 +499,18 @@ grumble - which continued for a few minutes before he thus began,
 BEN NEVIS  
 What whining bit of tongue and mouth thus dares  
 Disturb my slumber of a thousand years?  
-Even so long my [[Sleep|sleep]] has been secure -  
+Even so long my [[motifs/sleep|sleep]] has been secure -  
 And to be so awaked I’ll not endure.  
-Oh [[Pain|pain]] - for since the eagle’s earliest scream  
+Oh [[motifs/pain|pain]] - for since the eagle’s earliest scream  
 I’ve had a damn’d confounded ugly dream,  
-A [[nightmare]] sure. What, Madam, was it you?  
+A nightmare sure. What, Madam, was it you?  
 It cannot be! My old eyes are not true!  
 Red-Crag, my spectacles! Now let me see!  
 Good Heavens, Lady, how the gemini  
 30  
 Did you get here? O I shall split my sides!  
 I shall earthquake —  
-Sweet Nevis, do not quake, for though I [[Love|love]]  
+Sweet Nevis, do not quake, for though I [[motifs/love|love]]  
 You[r] honest countenance all things above,  
 Truly I should not like to be convey’d  
 So far into your bosom-gentle maid  
@@ -520,7 +520,7 @@ No not a stone, or I shall go in fits -
 I must - I shall - I meet not such titbits -  
 40  
 I meet not such sweet creatures every day -  
-By my old nightcap, nightcap [[Night|night]] and day,  
+By my old nightcap, nightcap [[motifs/night|night]] and day,  
 I must have one sweet buss - I must and shall!  
 Red-Crag! - What, Madam, can you then repent  
 Of all the toil and vigour you have spent  
@@ -530,15 +530,15 @@ Red-Crag, there lies beneath my farthest toe
 A vein of sulphur - go dear Red-Crag, go -  
 And rub your flinty back against it - budge!  
 50  
-Dear Madam, I must kiss you, [[Faith|faith]] I must!  
+Dear Madam, I must kiss you, [[concepts/faith|faith]] I must!  
 I must embrace you with my dearest gust!  
 Block-head, d’ye hear - Block-head,” I’ll make her feel -  
 There lies beneath my east leg’s northern heel  
-A [[Cave|cave]] of young earth dragons - [[Well|well]], my boy,  
+A [[motifs/cave|cave]] of young earth dragons - [[motifs/well|well]], my boy,  
 Go thither quick and so complete my joy;  
 Take you a bundle of the largest pines  
 And when the sun on fiercest phosphor shines  
-[[Fire]] them and ram them in the dragon’s nest,  
+[[motifs/fire|Fire]] them and ram them in the dragon’s nest,  
 Then will the dragons fry and fizz their best  
 60  
 Until ten thousand now no bigger than  
@@ -554,7 +554,7 @@ The lady fainted and he thought her dead
 So pulled the clouds again about his head  
 70  
 
-And went to [[Sleep|sleep]] again - soon she was rous’d  
+And went to [[motifs/sleep|sleep]] again - soon she was rous’d  
 By her affrighted servants - next day hous’d  
 Safe on the lowly ground she bless’d her fate  
 That fainting fit was not delayed too late.  
@@ -567,7 +567,7 @@ That fainting fit was not delayed too late.
 MRS CAMERON  
 Sulla mia vita, Sir Nevis, sono piccata  
 d’aver tanto ansimato, arrancato e sudato  
-per fare [[Honour|onore]] alla vostra vecchia zucca pelata,  
+per fare [[concepts/honour|onore]] alla vostra vecchia zucca pelata,  
 e ora di starvi seduta sopra solo per prender fiato,  
 senza che mi paghiate un solo complimento.  
 Ahimè, è così con tutti: quando il nostro intento  
@@ -595,18 +595,18 @@ brontolare - e continuò per qualche minuto, prima che così cominciasse,
 BEN NEVIS  
 Quale piagnucoloso pezzo di lingua e di bocca osa così  
 turbare il mio sopore di mille anni?  
-Da altrettanto tempo il mio [[Sleep|sonno]] è stato sicuro -  
+Da altrettanto tempo il mio [[motifs/sleep|sonno]] è stato sicuro -  
 e non sopporterò d’essere svegliato a questo modo.  
-Oh [[Pain|pena]] - ché dal primo strido dell’aquila  
+Oh [[motifs/pain|pena]] - ché dal primo strido dell’aquila  
 ho fatto un dannato, maledetto brutto sogno,  
-un [[nightmare|incubo]] di sicuro. Come, Madama, eravate voi?  
+un incubo di sicuro. Come, Madama, eravate voi?  
 Non può essere! I miei vecchi occhi non dicono il vero!  
 Red-Crag, i miei occhiali! Ora lasciate che veda!  
 Santi Numi, Signora, come diamine  
 30  
 siete arrivata quassù? Oh, mi si spaccano i fianchi!  
 Farò un terremoto —  
-Dolce Nevis, non tremare, ché per quanto io [[Love|ami]]  
+Dolce Nevis, non tremare, ché per quanto io [[motifs/love|ami]]  
 il vostro onesto volto sopra ogni cosa,  
 in verità non vorrei essere trasportata  
 così addentro nel vostro seno - una fanciulla gentile  
@@ -616,7 +616,7 @@ nemmeno una pietra, o mi verranno le convulsioni -
 Devo - voglio - non m’imbatto in simili bocconcini -  
 40  
 non incontro creature così dolci ogni giorno -  
-per la mia vecchia berretta da [[Night|notte]], berretta notte e dì,  
+per la mia vecchia berretta da [[motifs/night|notte]], berretta notte e dì,  
 devo avere un bacio dolce - devo e voglio!  
 Red-Crag! - Come, Madama, potete dunque pentirvi  
 di tutta la fatica e del vigore che avete speso  
@@ -626,15 +626,15 @@ Red-Crag, sotto il mio alluce più lontano giace
 una vena di zolfo - va’, caro Red-Crag, va’ -  
 e sfregaci contro il tuo dorso di selce - muoviti!  
 50  
-Cara Madama, devo baciarvi, in [[Faith|fede]] mia, devo!  
+Cara Madama, devo baciarvi, in [[concepts/faith|fede]] mia, devo!  
 Devo abbracciarvi col mio più caro gusto!  
 Testa di legno, mi senti - Testa di legno,” glielo farò sentire -  
 sotto il tallone settentrionale della mia gamba orientale giace  
-una [[Cave|caverna]] di giovani draghi di terra - [[Well|bene]], ragazzo mio,  
+una [[motifs/cave|caverna]] di giovani draghi di terra - [[motifs/well|bene]], ragazzo mio,  
 vacci svelto e completa così la mia gioia;  
 prendi un fascio dei pini più grandi  
 e quando il sole splende del fosforo più feroce  
-[[Fire|incendiali]] e ficcali nel nido dei draghi,  
+[[motifs/fire|incendiali]] e ficcali nel nido dei draghi,  
 allora i draghi friggeranno e sfrigoleranno al meglio  
 60  
 finché diecimila, ora non più grossi  
@@ -650,7 +650,7 @@ la signora svenne ed egli la credette morta,
 così si tirò di nuovo le nuvole intorno al capo  
 70  
 
-e tornò a [[Sleep|dormire]] - presto lei fu destata  
+e tornò a [[motifs/sleep|dormire]] - presto lei fu destata  
 dai suoi servi atterriti - il giorno dopo, alloggiata  
 al sicuro sulla terra bassa, benedisse la sua sorte  
 che quello svenimento non fosse tardato troppo.
@@ -679,56 +679,56 @@ How came ye muffled in so hush a mask?
 Was it a silent deep-disguised plot  
 To steal away, and leave without a task  
 My idle days? Ripe was the drowsy hour;  
-The blissful cloud of [[Summer|summer]]-[[Indolence|indolence]]  
+The blissful cloud of [[motifs/summer|summer]]-[[concepts/indolence|indolence]]  
 Benumb’d my eyes; my pulse grew less and less;  
-[[Pain]] had no sting, and pleasure’s wreath no flower:  
+[[motifs/pain|Pain]] had no sting, and pleasure’s wreath no flower:  
 O, why did ye not melt, and leave my sense  
 Unhaunted quite of all but - nothingness?  
 
 III  
-A third [[Time|time]] pass’d they by, and, passing, tum’d  
+A third [[motifs/time|time]] pass’d they by, and, passing, tum’d  
 Each one the face a moment whiles to me;  
 Then faded, and to follow them I burn’d  
 And ach’d for wings because I knew the three;  
-The first was a fair Maid, and [[Love]] her name;  
-The second was [[Ambition]], pale of cheek,  
+The first was a fair Maid, and [[motifs/love|Love]] her name;  
+The second was [[concepts/ambition|Ambition]], pale of cheek,  
 And ever watchful with fatigued eye;  
-The last, whom I [[Love|love]] more, the more of blame  
+The last, whom I [[motifs/love|love]] more, the more of blame  
 Is heap’d upon her, maiden most unmeek, -  
 I knew to be my demon’ Poesy.  
 
 IV  
 They faded, and, forsooth! I wanted wings:  
-O folly! What is [[Love|love]]! and where is it?  
-And for that poor [[Ambition]]! it springs  
+O folly! What is [[motifs/love|love]]! and where is it?  
+And for that poor [[concepts/ambition|Ambition]]! it springs  
 From a man’s little heart’s short fever-fit;  
 For Poesy! - no, - she has not a joy, -  
 At least for me, - so sweet as drowsy noons,  
-And evenings steep’d in honied [[Indolence|indolence]];  
+And evenings steep’d in honied [[concepts/indolence|indolence]];  
 O, for an age so shelter’d from annoy,  
 That I may never know how change the moons,  
 Or hear the voice of busy commonsense!  
 
 V  
 And once more came they by; - alas! wherefore?  
-My [[Sleep|sleep]] had been embroider’d with dim [[Dreams|dreams]];  
-My [[Soul|soul]] had been a lawn besprinkled o’er  
-With [[Flowers|flowers]], and stirring shades, and baffled beams:  
+My [[motifs/sleep|sleep]] had been embroider’d with dim [[motifs/dreams|dreams]];  
+My [[motifs/soul|soul]] had been a lawn besprinkled o’er  
+With [[motifs/flowers|flowers]], and stirring shades, and baffled beams:  
 The morn was clouded, but no shower fell,  
-Tho’ in her lids hung the sweet [[Tears|tears]] of May;  
+Tho’ in her lids hung the sweet [[motifs/tears|tears]] of May;  
 The open casement press’d a new-leav’d vine,  
 Let in the budding warmth and throstle’s lay;  
-O Shadows! ’twas a [[Time|time]] to bid farewell!  
-Upon your skirts had fallen no [[Tears|tears]] of mine.  
+O Shadows! ’twas a [[motifs/time|time]] to bid farewell!  
+Upon your skirts had fallen no [[motifs/tears|tears]] of mine.  
 
 VI  
-So, ye three [[Ghosts]], adieu! Ye cannot raise  
+So, ye three [[motifs/ghosts|Ghosts]], adieu! Ye cannot raise  
 My head cool-bedded in the flowery grass;  
 For I would not be dieted with praise,  
-A pet-[[Lamb|lamb]] in a sentimental farce!  
+A pet-[[motifs/lamb|lamb]] in a sentimental farce!  
 Fade softly from my eyes, and be once more  
-In [[Masque|masque]]-like figures on the dreamy urn;  
-Farewell! I yet have visions for the [[Night|night]],  
+In [[forms/masque|masque]]-like figures on the dreamy urn;  
+Farewell! I yet have visions for the [[motifs/night|night]],  
 And for the day faint visions there is store;  
 Vanish, ye Phantoms! from my idle spright,  
 Into the clouds, and never more return!  
@@ -755,56 +755,56 @@ Come giungeste velate in maschera così silenziosa?
 Era un tacito complotto ben travestito  
 per involarvi e lasciare senza un compito  
 i miei giorni oziosi? Matura era l’ora sonnolenta;  
-la beata nube d’[[Summer|estiva]] [[Indolence|indolenza]]  
+la beata nube d’[[motifs/summer|estiva]] [[concepts/indolence|indolenza]]  
 intorpidiva i miei occhi; il polso si faceva sempre più fioco;  
-il [[Pain|Dolore]] non aveva pungiglione, né fiore la ghirlanda del piacere:  
+il [[motifs/pain|Dolore]] non aveva pungiglione, né fiore la ghirlanda del piacere:  
 oh, perché non vi dissolveste, lasciando il mio senso  
 libero d’ogni assillo tranne - il nulla?  
 
 III  
-Una terza [[Time|volta]] passarono, e passando volsero  
+Una terza [[motifs/time|volta]] passarono, e passando volsero  
 ciascuna il viso un momento verso di me;  
 poi svanirono, e ardevo di seguirle  
 e spasimavo per delle ali, perché le conoscevo tutte e tre;  
-la prima era una bella Fanciulla, e [[Love|Amore]] il suo nome;  
-la seconda era l’[[Ambition|Ambizione]], pallida di guancia,  
+la prima era una bella Fanciulla, e [[motifs/love|Amore]] il suo nome;  
+la seconda era l’[[concepts/ambition|Ambizione]], pallida di guancia,  
 e sempre vigile con l’occhio affaticato;  
-l’ultima, che [[Love|amo]] tanto più quanto più biasimo  
+l’ultima, che [[motifs/love|amo]] tanto più quanto più biasimo  
 le si ammucchia addosso, vergine indocilissima, -  
 la riconobbi: era la mia demone, Poesia.  
 
 IV  
 Svanirono, e, in verità, volevo delle ali:  
-oh follia! Che cos’è l’[[Love|amore]]! e dov’è?  
-E quanto a quella povera [[Ambition|Ambizione]]! scaturisce  
+oh follia! Che cos’è l’[[motifs/love|amore]]! e dov’è?  
+E quanto a quella povera [[concepts/ambition|Ambizione]]! scaturisce  
 dal breve accesso di febbre d’un piccolo cuore d’uomo;  
 quanto a Poesia! - no, - non ha una gioia, -  
 almeno per me, - dolce quanto i sonnolenti meriggi  
-e le sere intrise di [[Indolence|indolenza]] mielata;  
+e le sere intrise di [[concepts/indolence|indolenza]] mielata;  
 oh, avere un’età così riparata dal fastidio  
 da non sapere mai come mutino le lune,  
 né udire la voce dell’indaffarato buonsenso!  
 
 V  
 E ancora una volta passarono; - ahimè! perché?  
-Il mio [[Sleep|sonno]] era stato ricamato di [[Dreams|sogni]] fiochi;  
-la mia [[Soul|anima]] era stata un prato cosparso  
-di [[Flowers|fiori]], d’ombre inquiete e di raggi confusi:  
+Il mio [[motifs/sleep|sonno]] era stato ricamato di [[motifs/dreams|sogni]] fiochi;  
+la mia [[motifs/soul|anima]] era stata un prato cosparso  
+di [[motifs/flowers|fiori]], d’ombre inquiete e di raggi confusi:  
 il mattino era nuvoloso, ma non cadde pioggia,  
-benché alle sue palpebre pendessero le dolci [[Tears|lacrime]] di maggio;  
+benché alle sue palpebre pendessero le dolci [[motifs/tears|lacrime]] di maggio;  
 la finestra aperta premeva contro una vite dalle foglie nuove,  
 lasciava entrare il tepore in boccio e il canto del tordo;  
-o Ombre! era il [[Time|momento]] di dire addio!  
-Sulle vostre vesti non era caduta una sola [[Tears|lacrima]] mia.  
+o Ombre! era il [[motifs/time|momento]] di dire addio!  
+Sulle vostre vesti non era caduta una sola [[motifs/tears|lacrima]] mia.  
 
 VI  
-E dunque, o tre [[Ghosts|Fantasmi]], addio! Non potete sollevare  
+E dunque, o tre [[motifs/ghosts|Fantasmi]], addio! Non potete sollevare  
 il mio capo adagiato al fresco nell’erba fiorita;  
 ché non vorrei essere nutrito di lodi,  
-un [[Lamb|agnellino]] domestico in una farsa sentimentale!  
+un [[motifs/lamb|agnellino]] domestico in una farsa sentimentale!  
 Svanite dolcemente dai miei occhi, e siate ancora  
-figure da [[Masque|mascherata]] sull’urna sognante;  
-addio! Ho ancora visioni per la [[Night|notte]],  
+figure da [[forms/masque|mascherata]] sull’urna sognante;  
+addio! Ho ancora visioni per la [[motifs/night|notte]],  
 e per il giorno c’è scorta di visioni tenui;  
 svanite, o Fantasmi, dal mio spirito ozioso,  
 nelle nuvole, e non tornate mai più!
@@ -818,10 +818,10 @@ nelle nuvole, e non tornate mai più!
 
 Pensive they sit, and roll their languid eyes,  
 Nibble their toast and cool their tea with sighs ;  
-Or else forget the purpose of the [[Night|night]],  
+Or else forget the purpose of the [[motifs/night|night]],  
 Forget their tea, forget their appetite.  
-See, with [[Cross|cross]]’d arms they sit - Ah! happy crew,  
-The [[Fire|fire]] is going out and no one rings  
+See, with [[motifs/cross|cross]]’d arms they sit - Ah! happy crew,  
+The [[motifs/fire|fire]] is going out and no one rings  
 For coals, and therefore no coals Betty brings.  
 A fly is in the milk-pot. Must he die  
 Circled by a humane society?  
@@ -831,11 +831,11 @@ Inserts it, dips the handle, and lo! soon
 The little straggler, sav’d from perils dark,  
 Across the teaboard draws a long wet mark.  
 
-[[Romeo]]! Arise, take snuffers by the handle,  
+[[characters/romeo|Romeo]]! Arise, take snuffers by the handle,  
 There is a large cauliflower in each candle.  
 A winding sheet - ah, me! I must away  
 To No. 7, just beyond the circus gay.’  
-Alas, my friend, your coat sits very [[Well|well]] ;  
+Alas, my friend, your coat sits very [[motifs/well|well]] ;  
 Where may your tailor live? I may not tell.  
 O O pardon me. I’m absent now and then.  
 20  
@@ -850,10 +850,10 @@ He lives in Wapping, might live where he pleased.
 
 Pensosi siedono, e volgono gli occhi languidi,  
 sbocconcellano il pane tostato e raffreddano il tè coi sospiri ;  
-oppure dimenticano lo scopo della [[Night|serata]],  
+oppure dimenticano lo scopo della [[motifs/night|serata]],  
 dimenticano il tè, dimenticano l’appetito.  
-Guarda, siedono a braccia [[Cross|incrociate]] - ah! brigata felice,  
-il [[Fire|fuoco]] si sta spegnendo e nessuno suona  
+Guarda, siedono a braccia [[motifs/cross|incrociate]] - ah! brigata felice,  
+il [[motifs/fire|fuoco]] si sta spegnendo e nessuno suona  
 per il carbone, e perciò Betty non porta carbone.  
 C’è una mosca nel bricco del latte. Deve morire  
 circondata da una società umanitaria?  
@@ -863,11 +863,11 @@ lo immerge, tuffa il manico, ed ecco! presto
 la piccola randagia, salvata da oscuri pericoli,  
 traccia sul vassoio del tè una lunga scia bagnata.  
 
-[[Romeo]]! Àlzati, prendi lo smoccolatoio per il manico,  
+[[characters/romeo|Romeo]]! Àlzati, prendi lo smoccolatoio per il manico,  
 c’è un grosso cavolfiore in ogni candela.  
 Un sudario - ahimè! devo andarmene  
 al n. 7, appena oltre l’allegra rotonda.’  
-Ahimè, amico mio, la vostra giacca cade molto [[Well|bene]] ;  
+Ahimè, amico mio, la vostra giacca cade molto [[motifs/well|bene]] ;  
 dove abiterà il vostro sarto? Non posso dirlo.  
 Oh, perdonatemi. Ogni tanto sono distratto.  
 20  

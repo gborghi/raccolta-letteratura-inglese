@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/duke-of-exeter"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/henry-v-(shakespeare)|HENRY V (Shakespeare)]]
+
+</div>
+
 #graph/character

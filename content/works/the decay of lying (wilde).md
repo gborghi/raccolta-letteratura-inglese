@@ -33,7 +33,7 @@ tags:
   - character/hamlet
 ---
 
-*by Wilde*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Wilde*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > Aesthetic critical dialogue arguing art over nature, lying as art, and that life imitates art; a manifesto of art for art's sake rich in paradox and epigram.
@@ -44,13 +44,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Book of Nature]], [[World Upside Down]]
-**Archetypes:** [[Trickster]]
-**Motifs:** [[Nature]], [[Mirror]], [[Book Reading]], [[Fog and Smoke]]
-**Themes & Concepts:** [[Beauty]], [[Imagination]], [[Paradox]], [[Truth]], [[Deception]], [[Artist and Society]], [[Nature vs Civilization]], [[Beauty and Truth]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Epigram]], [[Aphorism]], [[Nonfiction]]
-**Historical References:** [[Ancient Greece]], [[Renaissance]]
-**Characters:** [[Odysseus Ulysses]], [[Hamlet]]
+**Topoi:** [[topoi/book-of-nature|Book of Nature]], [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/trickster|Trickster]]
+**Motifs:** [[concepts/nature|Nature]], [[motifs/mirror|Mirror]], [[motifs/book-reading|Book Reading]], [[motifs/fog-and-smoke|Fog and Smoke]]
+**Themes & Concepts:** [[concepts/beauty|Beauty]], [[concepts/imagination|Imagination]], [[concepts/paradox|Paradox]], [[concepts/truth|Truth]], [[concepts/deception|Deception]], [[concepts/artist-and-society|Artist and Society]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/beauty-and-truth|Beauty and Truth]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/epigram|Epigram]], [[forms/aphorism|Aphorism]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/ancient-greece|Ancient Greece]], [[historical-references/renaissance|Renaissance]]
+**Characters:** [[characters/odysseus-ulysses|Odysseus Ulysses]], [[characters/hamlet|Hamlet]]
 
 ## Testo integrale / Full text
 

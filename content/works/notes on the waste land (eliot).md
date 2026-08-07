@@ -17,7 +17,7 @@ tags:
   - concept/the_waste_land
 ---
 
-*by Eliot*  ·  **Cluster:** [[Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
+*by Eliot*  ·  **Cluster:** [[clusters/spiritual-emptiness-·-waste-land-(sterility)-·-greek-tragedy|Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
 
 > [!abstract] 
 > Eliot's authorial notes citing Jessie Weston's Grail study, Frazer's Golden Bough, Dante, the Buddha's Fire Sermon and Upanishads; a critical apparatus of intertextual and mythic sources for the poem.
@@ -27,10 +27,10 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Waste Land (Sterility)]], [[History]]
-**Forms & Genres:** [[Literary Criticism]], [[Nonfiction]]
-**Historical References:** [[Grail Legend]], [[Dante]], [[Eastern Religion Comparative Religion]]
-**Characters:** [[Tiresias]]
+**Themes & Concepts:** [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/grail-legend|Grail Legend]], [[historical-references/dante|Dante]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]]
+**Characters:** [[characters/tiresias|Tiresias]]
 
 ## Testo integrale / Full text
 

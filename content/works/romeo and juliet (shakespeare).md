@@ -37,7 +37,7 @@ tags:
   - character/prince_escalus
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Verona]]
+*by Shakespeare*  ·  **Cluster:** [[settings/verona|Verona]]
 
 > [!abstract] 
 > Lyric tragedy of the star-crossed young lovers of feuding Verona houses, ending in their double suicide and the families' reconciliation. Central themes: romantic love, fate, the feud, the conflict of love and death, youth.
@@ -70,13 +70,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Love as Religion]], [[Dawn Alba]]
-**Archetypes:** [[Lover]], [[Mentor]]
-**Motifs:** [[Light and Dark]], [[Death]], [[Stars]], [[Night]], [[Poison]]
-**Themes & Concepts:** [[Romantic Love]], [[Fate and Free Will]], [[Mortality]], [[Grief and Loss]], [[Unrequited Frustrated Love]]
-**Forms & Genres:** [[Tragedy]], [[Blank Verse]], [[Lyric]]
-**Settings:** [[Verona]]
-**Characters:** [[Romeo]], [[Juliet]], [[Mercutio]], [[Tybalt]], [[Friar Laurence]], [[Nurse]], [[Capulet]], [[Benvolio]], [[Paris (2)]], [[Prince Escalus]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/dawn-alba|Dawn Alba]]
+**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/mentor|Mentor]]
+**Motifs:** [[motifs/light-and-dark|Light and Dark]], [[motifs/death|Death]], [[motifs/stars|Stars]], [[motifs/night|Night]], [[motifs/poison|Poison]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/mortality|Mortality]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]]
+**Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/blank-verse|Blank Verse]], [[forms/lyric|Lyric]]
+**Settings:** [[settings/verona|Verona]]
+**Characters:** [[characters/romeo|Romeo]], [[characters/juliet|Juliet]], [[characters/mercutio|Mercutio]], [[characters/tybalt|Tybalt]], [[characters/friar-laurence|Friar Laurence]], [[characters/nurse|Nurse]], [[characters/capulet|Capulet]], [[characters/benvolio|Benvolio]], [[characters/paris-(2)|Paris (2)]], [[characters/prince-escalus|Prince Escalus]]
 
 ## Testo integrale / Full text
 

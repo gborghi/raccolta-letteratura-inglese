@@ -20,17 +20,17 @@ tags:
   - concept/kingship_and_legitimacy
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
+*by Coleridge*  ·  **Cluster:** [[clusters/blood-·-verse-drama-·-revenge|Blood · Verse Drama · Revenge]]
 
 > [!abstract] 
 > Act I of an unfinished historic verse-drama set in Navarre: a returning general, court intrigue, a poisoned conspirator's family, love and revenge, an attempted assassination thwarted by providence.
 
 ## Connections
 
-**Archetypes:** [[Avenger]], [[Lover]]
-**Themes & Concepts:** [[Revenge]], [[Romantic Love]], [[Power and Corruption]], [[Providence]], [[Guilt]], [[Kingship and Legitimacy]]
-**Forms & Genres:** [[Verse Drama]], [[Tragedy]]
-**Settings:** [[Court]]
+**Archetypes:** [[archetypes/avenger|Avenger]], [[archetypes/lover|Lover]]
+**Themes & Concepts:** [[concepts/revenge|Revenge]], [[concepts/romantic-love|Romantic Love]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/providence|Providence]], [[concepts/guilt|Guilt]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]]
+**Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/tragedy|Tragedy]]
+**Settings:** [[settings/court|Court]]
 
 ## Testo integrale / Full text
 

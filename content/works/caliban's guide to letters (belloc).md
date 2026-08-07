@@ -31,7 +31,7 @@ tags:
   - archetype/corrupt_official
   - topos/world_upside_down
 ---
-*by Belloc*  ·  **Cluster:** [[Familiar Essay · Paradox · The Common Man]]
+*by Belloc*  ·  **Cluster:** [[clusters/familiar-essay-·-paradox-·-the-common-man|Familiar Essay · Paradox · The Common Man]]
 
 > [!abstract] 
 > A sustained comic satire (1903) framed as a mock instruction manual for the modern hack, teaching the aspiring journalist how to review, interview, write political appeals and pad out prose for pay. Belloc lampoons Edwardian journalism, the cult of the 'Anglo-Saxon' Empire, and the pompous Nonconformist worthy Dr. Thomas Caliban through deadpan mock-biography.
@@ -54,12 +54,12 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Satire]], [[Parody]], [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Satire of Society]], [[Vulgarity]], [[Hypocrisy]], [[Fame and Publicity]], [[Vanity]], [[Money and Avarice]], [[Economics]], [[History]]
-**Motifs:** [[Book Reading]], [[Letters and Writing]], [[Money and Gold]]
-**Historical References:** [[Victorian England]], [[Boer War]], [[British Empire]]
-**Settings:** [[Rural England]], [[London]]
-**Archetypes:** [[Corrupt Official]]
-**Topoi:** [[World Upside Down]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/parody|Parody]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/vulgarity|Vulgarity]], [[concepts/hypocrisy|Hypocrisy]], [[concepts/fame-and-publicity|Fame and Publicity]], [[concepts/vanity|Vanity]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Motifs:** [[motifs/book-reading|Book Reading]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/money-and-gold|Money and Gold]]
+**Historical References:** [[historical-references/victorian-england|Victorian England]], [[historical-references/boer-war|Boer War]], [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/london|London]]
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Also relevant to:** [[Self-Knowledge · Immortality · Self-Reliance]]
+**Also relevant to:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]

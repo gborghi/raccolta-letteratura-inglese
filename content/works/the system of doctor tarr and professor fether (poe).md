@@ -17,7 +17,7 @@ tags:
   - form/satire
 ---
 
-*by Poe*  ·  **Cluster:** [[World Upside Down · Comedy]]
+*by Poe*  ·  **Cluster:** [[clusters/world-upside-down-·-comedy|World Upside Down · Comedy]]
 
 > [!abstract] 
 > A satirical horror-comedy: a visitor to a French madhouse discovers the lunatics have overthrown their keepers and taken over the asylum. Themes of madness, the world upside down, and appearance vs reality.
@@ -41,11 +41,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Archetypes:** [[Trickster]]
-**Motifs:** [[Madness (2)]]
-**Themes & Concepts:** [[Madness]], [[Appearance vs Reality]], [[Satire of Society]]
-**Forms & Genres:** [[Short Story]], [[Satire]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/trickster|Trickster]]
+**Motifs:** [[motifs/madness-(2)|Madness (2)]]
+**Themes & Concepts:** [[concepts/madness|Madness]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/satire-of-society|Satire of Society]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/satire|Satire]]
 
 ## Testo integrale / Full text
 

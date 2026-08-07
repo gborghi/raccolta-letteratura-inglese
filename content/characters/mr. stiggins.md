@@ -14,4 +14,10 @@ Hypocritical red-nosed Puritan 'shepherd' from Pickwick Papers, cited by Chester
 
 <div class="concept-works" data-slug="characters/mr.-stiggins"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/pickwick-(chesterton)|Pickwick (Chesterton)]]
+
+</div>
+
 #graph/character

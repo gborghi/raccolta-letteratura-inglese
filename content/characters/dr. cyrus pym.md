@@ -14,4 +14,10 @@ An American alienist who leads the pseudo-scientific prosecution of Smith as a d
 
 <div class="concept-works" data-slug="characters/dr.-cyrus-pym"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/manalive-(chesterton)|manalive (Chesterton)]]
+
+</div>
+
 #graph/character

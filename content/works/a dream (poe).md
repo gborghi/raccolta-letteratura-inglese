@@ -19,16 +19,16 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Memory and Time · Memory · Nostalgia]]
+*by Poe*  ·  **Cluster:** [[clusters/memory-and-time-·-memory-·-nostalgia|Memory and Time · Memory · Nostalgia]]
 
 > [!abstract] 
 > A short early lyric contrasting a cherished 'holy dream' of vanished joy with waking grief; meditates on memory, melancholy, and the light of Truth amid darkness.
 
 ## Connections
 
-**Motifs:** [[Dreams]], [[Light and Dark]], [[Memory]], [[Night]]
-**Themes & Concepts:** [[Melancholy]], [[Memory and Time]], [[Grief and Loss]], [[Truth]], [[Nostalgia]]
-**Forms & Genres:** [[Lyric]]
+**Motifs:** [[motifs/dreams|Dreams]], [[motifs/light-and-dark|Light and Dark]], [[motifs/memory|Memory]], [[motifs/night|Night]]
+**Themes & Concepts:** [[concepts/melancholy|Melancholy]], [[concepts/memory-and-time|Memory and Time]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/truth|Truth]], [[concepts/nostalgia|Nostalgia]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

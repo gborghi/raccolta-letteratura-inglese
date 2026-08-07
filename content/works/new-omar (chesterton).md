@@ -28,7 +28,7 @@ tags:
 
 # new-omar
 
-*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Chesterton*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A short parody of FitzGerald's Rubaiyat of Omar Khayyam, mocking the modern teetotal, unfermented-wine puritan whose 'Paradise' is a wilderness; a satirical epigram against prohibition and joyless reform.
@@ -39,17 +39,17 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Prophet]]
+**Archetypes:** [[archetypes/prophet|Prophet]]
 
-**Settings:** [[Desert]]
+**Settings:** [[motifs/desert|Desert]]
 
-**Characters:** [[Omar Khayyam]]
+**Characters:** [[characters/omar-khayyam|Omar Khayyam]]
 
-**Topoi:** [[Carpe Diem]], [[World Upside Down]]
-**Motifs:** [[Wine and Drink]], [[Bread and Wine Eucharist]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Joy]], [[Reform]], [[Paradox]]
-**Forms & Genres:** [[Parody]], [[Epigram]], [[Satire]]
-**Historical References:** [[Eastern Religion Comparative Religion]], [[Puritanism]]
+**Topoi:** [[topoi/carpe-diem|Carpe Diem]], [[topoi/world-upside-down|World Upside Down]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/bread-and-wine-eucharist|Bread and Wine Eucharist]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/joy|Joy]], [[concepts/reform|Reform]], [[concepts/paradox|Paradox]]
+**Forms & Genres:** [[forms/parody|Parody]], [[forms/epigram|Epigram]], [[forms/satire|Satire]]
+**Historical References:** [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]], [[historical-references/puritanism|Puritanism]]
 
 ## Testo integrale / Full text
 

@@ -76,7 +76,7 @@ In those ten years many things had happened besides the improvement in his healt
 
 For one thing he had married.
 
-He had married a woman thirty years younger than himself, a woman whose foreign extraction (she was a De Villon) was no reproach to him, and who had for years lived in the same set as himself; the confidant of his own confidant, Mary Smith; almost the adopted daughter of the Duke of Battersea; the bosom friend of Victoria Mosel, and a hostess to half [[London]], It had proved a happy marriage.
+He had married a woman thirty years younger than himself, a woman whose foreign extraction (she was a De Villon) was no reproach to him, and who had for years lived in the same set as himself; the confidant of his own confidant, Mary Smith; almost the adopted daughter of the Duke of Battersea; the bosom friend of Victoria Mosel, and a hostess to half [[settings/london|London]], It had proved a happy marriage.
 
 It was now over eighteen months since the last general election had given him and the National party a normal majority of over 80. The Parliament had got into its stride; the first of his great measures — the nationalisation of the South-Eastern and Chatham and Dover Railways — the first of the great economic experiments — had not only triumphantly passed into law, but was working with complete success.
 
@@ -84,7 +84,7 @@ In this masterpiece of reform he had received the support of the new and small, 
 
 The new Socialist party gave itself no name; it had come to be called, in popular phraseology, “the Straights” — a name drawn from a famous phrase in a speech of their founder and leader, delivered five years before when they were a group of no more than fifteen in the House of Commons. The Duke of Battersea, whose wide range of sympathy and action extended to the political world, was keenly interested in them; and it was a pretty touch in the hurly-burly of party politics to note the continued aid and support which the Prime Minister’s own wife afforded them in their social work.
 
-It was due to their support that Dolly had overcome the arbitrary and factious opposition of such moss-grown and doctrinaire Radicals as objected to the voting of perpetual annual payments to the old shareholders in the railways, and the naming of his first cousin, his nephew, and his private secretary as directors for life at £5000 a year. The Straights, I should add, had been equally loyal and sane in voting solidly the annual supplementary sums which were necessary to produce a profit. The steady fall of the National securities (which is, after all, but an inevitable phenomenon of our time) had a little hampered the finance of the great measure; but the nationalisation of this first railway was not a work which any statesman now wished to see undone, and the best proof of its complete success was the anxiety of the [[London]], Brighton, and South Coast, the Great Eastern, the Metropolitan, the Cambrian Railways, the Thames Steamboats, and the Isle of Wight companies to be included in the scheme.
+It was due to their support that Dolly had overcome the arbitrary and factious opposition of such moss-grown and doctrinaire Radicals as objected to the voting of perpetual annual payments to the old shareholders in the railways, and the naming of his first cousin, his nephew, and his private secretary as directors for life at £5000 a year. The Straights, I should add, had been equally loyal and sane in voting solidly the annual supplementary sums which were necessary to produce a profit. The steady fall of the National securities (which is, after all, but an inevitable phenomenon of our time) had a little hampered the finance of the great measure; but the nationalisation of this first railway was not a work which any statesman now wished to see undone, and the best proof of its complete success was the anxiety of the [[settings/london|London]], Brighton, and South Coast, the Great Eastern, the Metropolitan, the Cambrian Railways, the Thames Steamboats, and the Isle of Wight companies to be included in the scheme.
 
 The Prime Minister’s mind was at rest save for the grave and terrible Indian business, the full weight of which the nation had not yet felt but which he knew too well.
 
@@ -128,7 +128,7 @@ Close as must be the association of men of the first rank in political life, Pon
 
 It was increasingly clear as the Prime Minister continued his confidences, or rather his search for support and advice, that there had been a very bad hitch indeed. There had been a singular slackness of competition in securing the Indian Loan when it was first hinted at. Then, when things got more definite, there had arisen a very singular crop of proposals, limitations, and conditions; the negotiations had now dragged so long that the ordinary methods were exhausted and it looked as though they would have to seek the loan as a favour.
 
-It was not from lack of foresight that such a deadlock had come: Dolly and Dolly’s advisers had seen what was coming since September, when Gordon’s secretary was killed. It was not from public panic; nothing was allowed to get into the papers, and news that was common property in Paris was still rigorously shut down in [[London]]. Even in Dublin those who wished no good to this country knew more about the affairs of India than did the ordinary citizen of the capital, for since the settlement of the Irish business the Press in Dublin was free.
+It was not from lack of foresight that such a deadlock had come: Dolly and Dolly’s advisers had seen what was coming since September, when Gordon’s secretary was killed. It was not from public panic; nothing was allowed to get into the papers, and news that was common property in Paris was still rigorously shut down in [[settings/london|London]]. Even in Dublin those who wished no good to this country knew more about the affairs of India than did the ordinary citizen of the capital, for since the settlement of the Irish business the Press in Dublin was free.
 
 Dolly repeated it and repeated it (for Pennybunt questioned him closely); the hitch was not due to any kind of public panic; but every one of the great houses had asked privately for conditions which he could not give. He would not ear-mark any source of revenue. He would not secure the loan upon anything less worthy of his office than the word of the nation. Above all he would have no guaranteeing of it upon reproductive relief works. It would be a detestable precedent. It would be a permanent humiliation and weakness to British Government. When Dolly feared at last that he would fail at home, he had sent Benson to Paris, and if any one could have done it Benson was the man. Benson had failed in Paris as well. There was nothing for it but to make some sort of personal appeal. Both men were thinking of the same name, but Pennybunt suggested it first after a few seconds of silence: it was the Duke of Battersea’s.
 
@@ -1886,7 +1886,7 @@ THE figure which entered Pongo’s place of confinement in company with the poli
 
 “Certainly!” said the little doctor nervously, “certainly! By all means!” He turned and spoke a few words in excellent French to the policeman, who only shook his head and said that he had no orders. “My dear sir,” said the little doctor again, “it is no doubt all a misunderstanding. But calm yourself. These paroxysms” — for at this point the Iberian blood in Pennybunt was again rising—” these paroxysms only excite further suspicion. I have no doubt we shall be able to explain all — explain all,” he nodded genially. “The place is strange to you, and you have perhaps taken something which has disturbed you. Come, come!”
 
-“Will you or will you not,” shouted Pongo, “tell him to take these damned things off my hands?” Then suddenly losing all the [[Hypocrisy|hypocrisy]] and reserve which is so necessary a part of his trade, he looked the little doctor full in the eye and said in a lower and concentrated tone: “Do you know who I am?”
+“Will you or will you not,” shouted Pongo, “tell him to take these damned things off my hands?” Then suddenly losing all the [[concepts/hypocrisy|hypocrisy]] and reserve which is so necessary a part of his trade, he looked the little doctor full in the eye and said in a lower and concentrated tone: “Do you know who I am?”
 
 “Certainly,” said the little doctor, quite at random, and with a terrified look. “Certainly. Calm yourself, my dear sir, calm yourself.” He fully expected his enraged fellow-countryman to announce that he was the Emperor of China or the creator of the universe. He had experience in such cases... sometimes they were only temporary... the hot sun of the south, and the rough wine and so forth.
 
@@ -1902,7 +1902,7 @@ THE figure which entered Pongo’s place of confinement in company with the poli
 
 “By all means,” said the old doctor again.
 
-“What on earth has ‘by all means’ to do with it?” snapped Pongo angrily. “I am Mr. Pennybunt, the Member of Parliament,” he added, for the [[Hypocrisy|hypocrisy]] of a lifetime was still too strong upon him to permit him to tell the whole truth at once, and to say that he was that Pennybunt who had been Home Secretary for so many years, and before that at the India Office, that he was the Leader of the Official Opposition, that it was the intention of the Party Game to make him Prime Minister in about three years, and that in general if he was badly treated he could make it hot for people.
+“What on earth has ‘by all means’ to do with it?” snapped Pongo angrily. “I am Mr. Pennybunt, the Member of Parliament,” he added, for the [[concepts/hypocrisy|hypocrisy]] of a lifetime was still too strong upon him to permit him to tell the whole truth at once, and to say that he was that Pennybunt who had been Home Secretary for so many years, and before that at the India Office, that he was the Leader of the Official Opposition, that it was the intention of the Party Game to make him Prime Minister in about three years, and that in general if he was badly treated he could make it hot for people.
 
 “The Member of Parliament!” said the little doctor, opening his eyes. “Not a relative of the Mr. Pennybunt, the leader of my party?”
 
@@ -1996,7 +1996,7 @@ To say that Bertot was annoyed when he heard this deposition would be most faint
 
 All of which outburst did but the more convince the Juge d’Instruction that he had in Smith a genuine article.
 
-It did not take long to confirm that conviction. A perfect hail of telegrams began to fall upon Tarascon, its Sub-Prefect, its Chief of Police, its station-master, its hotel-keepers, and the Juge d’Instruction himself. One cannot arrest millionaires with impunity. In well-governed countries they are never arrested at all, and even in a wild [[Democracy|democracy]] to arrest them is Mug’s game.
+It did not take long to confirm that conviction. A perfect hail of telegrams began to fall upon Tarascon, its Sub-Prefect, its Chief of Police, its station-master, its hotel-keepers, and the Juge d’Instruction himself. One cannot arrest millionaires with impunity. In well-governed countries they are never arrested at all, and even in a wild [[concepts/democracy|democracy]] to arrest them is Mug’s game.
 
 Within a few hours the Prefect himself had come at post-haste in a gorgeous motor and was rating all his underlings like a parcel of schoolboys.
 
@@ -2670,7 +2670,7 @@ In those ten years many things had happened besides the improvement in his healt
 
 For one thing he had married.
 
-He had married a woman thirty years younger than himself, a woman whose foreign extraction (she was a De Villon) was no reproach to him, and who had for years lived in the same set as himself; the confidant of his own confidant, Mary Smith; almost the adopted daughter of the Duke of Battersea; the bosom friend of Victoria Mosel, and a hostess to half [[London]], It had proved a happy marriage.
+He had married a woman thirty years younger than himself, a woman whose foreign extraction (she was a De Villon) was no reproach to him, and who had for years lived in the same set as himself; the confidant of his own confidant, Mary Smith; almost the adopted daughter of the Duke of Battersea; the bosom friend of Victoria Mosel, and a hostess to half [[settings/london|London]], It had proved a happy marriage.
 
 It was now over eighteen months since the last general election had given him and the National party a normal majority of over 80. The Parliament had got into its stride; the first of his great measures — the nationalisation of the South-Eastern and Chatham and Dover Railways — the first of the great economic experiments — had not only triumphantly passed into law, but was working with complete success.
 
@@ -2678,7 +2678,7 @@ In this masterpiece of reform he had received the support of the new and small, 
 
 The new Socialist party gave itself no name; it had come to be called, in popular phraseology, “the Straights” — a name drawn from a famous phrase in a speech of their founder and leader, delivered five years before when they were a group of no more than fifteen in the House of Commons. The Duke of Battersea, whose wide range of sympathy and action extended to the political world, was keenly interested in them; and it was a pretty touch in the hurly-burly of party politics to note the continued aid and support which the Prime Minister’s own wife afforded them in their social work.
 
-It was due to their support that Dolly had overcome the arbitrary and factious opposition of such moss-grown and doctrinaire Radicals as objected to the voting of perpetual annual payments to the old shareholders in the railways, and the naming of his first cousin, his nephew, and his private secretary as directors for life at £5000 a year. The Straights, I should add, had been equally loyal and sane in voting solidly the annual supplementary sums which were necessary to produce a profit. The steady fall of the National securities (which is, after all, but an inevitable phenomenon of our time) had a little hampered the finance of the great measure; but the nationalisation of this first railway was not a work which any statesman now wished to see undone, and the best proof of its complete success was the anxiety of the [[London]], Brighton, and South Coast, the Great Eastern, the Metropolitan, the Cambrian Railways, the Thames Steamboats, and the Isle of Wight companies to be included in the scheme.
+It was due to their support that Dolly had overcome the arbitrary and factious opposition of such moss-grown and doctrinaire Radicals as objected to the voting of perpetual annual payments to the old shareholders in the railways, and the naming of his first cousin, his nephew, and his private secretary as directors for life at £5000 a year. The Straights, I should add, had been equally loyal and sane in voting solidly the annual supplementary sums which were necessary to produce a profit. The steady fall of the National securities (which is, after all, but an inevitable phenomenon of our time) had a little hampered the finance of the great measure; but the nationalisation of this first railway was not a work which any statesman now wished to see undone, and the best proof of its complete success was the anxiety of the [[settings/london|London]], Brighton, and South Coast, the Great Eastern, the Metropolitan, the Cambrian Railways, the Thames Steamboats, and the Isle of Wight companies to be included in the scheme.
 
 The Prime Minister’s mind was at rest save for the grave and terrible Indian business, the full weight of which the nation had not yet felt but which he knew too well.
 
@@ -2689,7 +2689,7 @@ There were not a dozen of them staying in the house, and of that dozen only four
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO I
+CAPITOLO I
 
 “Il grande vantaggio pratico del sistema bipartitico inglese è che fornisce un governo alternativo pronto a sostituire, senza frizioni o disturbi, un’amministrazione che possa aver perso la fiducia del paese.” — GUIZOT.
 
@@ -2707,7 +2707,7 @@ In quei dieci anni erano accadute molte cose, oltre al miglioramento della sua s
 
 Per prima cosa, si era sposato.
 
-Aveva sposato una donna trent’anni più giovane di lui; una donna il cui originale estrazione straniera (era una De Villon) non rappresentava alcun difetto per lui, e che da anni viveva nella stessa cerchia sociale della sua famiglia. Era la confidente della sua stessa confidente, Mary Smith; quasi come una figlia adottiva del Duca di Battersea; l’amica intima di Victoria Mosel. E inoltre ospitava metà di [[London|Londra]]. Si era rivelato un matrimonio felice.
+Aveva sposato una donna trent’anni più giovane di lui; una donna il cui originale estrazione straniera (era una De Villon) non rappresentava alcun difetto per lui, e che da anni viveva nella stessa cerchia sociale della sua famiglia. Era la confidente della sua stessa confidente, Mary Smith; quasi come una figlia adottiva del Duca di Battersea; l’amica intima di Victoria Mosel. E inoltre ospitava metà di [[settings/london|Londra]]. Si era rivelato un matrimonio felice.
 
 Erano ormai trascorsi più di diciotto mesi da quando le ultime elezioni generali gli avevano permesso, insieme al Partito Nazionale, di ottenere una maggioranza normale superiore all’80%. Il Parlamento aveva iniziato a funzionare efficacemente; la prima delle sue grandi misure – la nazionalizzazione delle ferrovie del Sud-Est e di Chatham and Dover – non solo era stata approvata con successo, ma stava anche producendo risultati molto positivi.
 
@@ -2798,7 +2798,7 @@ Close as must be the association of men of the first rank in political life, Pon
 
 It was increasingly clear as the Prime Minister continued his confidences, or rather his search for support and advice, that there had been a very bad hitch indeed. There had been a singular slackness of competition in securing the Indian Loan when it was first hinted at. Then, when things got more definite, there had arisen a very singular crop of proposals, limitations, and conditions; the negotiations had now dragged so long that the ordinary methods were exhausted and it looked as though they would have to seek the loan as a favour.
 
-It was not from lack of foresight that such a deadlock had come: Dolly and Dolly’s advisers had seen what was coming since September, when Gordon’s secretary was killed. It was not from public panic; nothing was allowed to get into the papers, and news that was common property in Paris was still rigorously shut down in [[London]]. Even in Dublin those who wished no good to this country knew more about the affairs of India than did the ordinary citizen of the capital, for since the settlement of the Irish business the Press in Dublin was free.
+It was not from lack of foresight that such a deadlock had come: Dolly and Dolly’s advisers had seen what was coming since September, when Gordon’s secretary was killed. It was not from public panic; nothing was allowed to get into the papers, and news that was common property in Paris was still rigorously shut down in [[settings/london|London]]. Even in Dublin those who wished no good to this country knew more about the affairs of India than did the ordinary citizen of the capital, for since the settlement of the Irish business the Press in Dublin was free.
 
 Dolly repeated it and repeated it (for Pennybunt questioned him closely); the hitch was not due to any kind of public panic; but every one of the great houses had asked privately for conditions which he could not give. He would not ear-mark any source of revenue. He would not secure the loan upon anything less worthy of his office than the word of the nation. Above all he would have no guaranteeing of it upon reproductive relief works. It would be a detestable precedent. It would be a permanent humiliation and weakness to British Government. When Dolly feared at last that he would fail at home, he had sent Benson to Paris, and if any one could have done it Benson was the man. Benson had failed in Paris as well. There was nothing for it but to make some sort of personal appeal. Both men were thinking of the same name, but Pennybunt suggested it first after a few seconds of silence: it was the Duke of Battersea’s.
 
@@ -2831,7 +2831,7 @@ Per quanto stretta debba essere l'alleanza tra le persone di primo rango nella v
 
 Diventava sempre più evidente, man mano che il Primo Ministro continuava a condividere le sue considerazioni, o meglio, la sua ricerca di sostegno e consigli, che si era verificato un grave intoppo. All’inizio, quando fu solo accennato all’ipotesi di ottenere il prestito indiano, c’era stata una notevole mancanza di concorrenza tra le parti interessate. In seguito, quando le cose divennero più concrete, emersero un gran numero di proposte, limitazioni e condizioni; le negoziazioni si erano prolungate così a lungo che i metodi tradizionali erano ormai esauriti, e sembrava che fosse necessario chiedere il prestito come un favore.
 
-Non è stata una mancanza di previdenza a causare tale impasse: Dolly e i suoi consiglieri avevano previsto ciò che sarebbe accaduto fin da settembre, quando il segretario di Gordon fu ucciso. Non si trattava nemmeno di panico pubblico; nulla veniva permesso di apparire sui giornali, e notizie che a Parigi erano ormai di dominio pubblico venivano ancora rigorosamente censurate a [[London|Londra]]. Anche a Dublino, coloro che non desideravano il bene di questo paese sapevano più delle questioni indiane del comune cittadino della capitale, poiché da quando la situazione irlandese era stata risolta, la stampa a Dublino era libera di esprimersi.
+Non è stata una mancanza di previdenza a causare tale impasse: Dolly e i suoi consiglieri avevano previsto ciò che sarebbe accaduto fin da settembre, quando il segretario di Gordon fu ucciso. Non si trattava nemmeno di panico pubblico; nulla veniva permesso di apparire sui giornali, e notizie che a Parigi erano ormai di dominio pubblico venivano ancora rigorosamente censurate a [[settings/london|Londra]]. Anche a Dublino, coloro che non desideravano il bene di questo paese sapevano più delle questioni indiane del comune cittadino della capitale, poiché da quando la situazione irlandese era stata risolta, la stampa a Dublino era libera di esprimersi.
 
 Dolly lo ripeté più volte (poiché Pennybunt gli faceva domande molto dettagliate); il problema non derivava da alcuna forma di panico pubblico, ma tutte le grandi famiglie avevano chiesto in privato condizioni che lui non poteva soddisfare. Non era disposto a designare nessuna fonte specifica di entrate; non avrebbe ottenuto il prestito basandosi su nulla di meno degno della sua posizione che la fiducia del popolo intero. Soprattutto, non avrebbe accettato alcuna garanzia legata a progetti di assistenza sociale. Sarebbe stato un precedente odioso; una umiliazione e una debolezza permanenti per il governo britannico. Quando finalmente Dolly temette che lui potesse fallire in patria, inviò Benson a Parigi. E se qualcuno poteva riuscirci, quello era proprio Benson. Anche lui aveva fallito a Parigi. Non restava altro che fare un appello personale. Entrambi pensavano allo stesso nome. Ma fu Pennybunt ad suggerirlo dopo alcuni secondi di silenzio: si trattava del Duca di Battersea.
 
@@ -2979,7 +2979,7 @@ Quella era la domanda fondamentale di tutto; la più difficile da rispondere per
 
 “Peggy potrebbe volerli,” disse lentamente. Pennybunt girò lentamente il suo grande viso piatto, con quella cornice di capelli neri attorno al collo robusto, per guardare dritto il Primo Ministro mentre camminavano. Ma il Primo Ministro, con le mani in tasca e continuando a camminare a grandi passi, fissava ancora il terreno.
 
-# Perché mai tua moglie dovrebbe...
+Perché mai tua moglie dovrebbe...
 
 “Beh, sì che lo fa!” esclamò Dolly.
 
@@ -3023,7 +3023,7 @@ Pennybunt guardò l'orologio. Da mezz’ora ormai non provava più quella sensaz
 
 Mentre si avvicinavano, Pennybunt pronunciò alcune parole che tutti i membri del gruppo avevano ripetuto centinaia di volte negli ultimi mesi:
 
-# Grazie a Dio siamo finalmente liberati dagli irlandesi!
+Grazie a Dio siamo finalmente liberati dagli irlandesi!
 
 “Sì, grazie a Dio per questo!” disse Dolly con fervore. Ma lui conosceva sua moglie meglio di quanto Pennybunt la conoscesse, e avrebbe dato molto per sapere esattamente dove si trovasse Peggy in quel domenico prima di Whitsun. Si sentiva a disagio.
 
@@ -3109,7 +3109,7 @@ There was a silence until Victoria Mosel, having thoroughly finished her plate o
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO II
+CAPITOLO II
 
 “Esiste soltanto un segno che distingue la gente nobile: non è l’abitudine alla ricchezza, né il tempo libero, e tanto meno alcuna qualità morale come la carità o il coraggio. È una tranquillità di modi indelebile.” — JEANNETTE C. GRISELL (“George Pounder”) in “New England Pearls”.
 
@@ -3175,7 +3175,7 @@ Altri due membri del gruppo entrarono lentamente; erano due fratelli più giovan
 
 Regnò il silenzio fino a quando Victoria Mosel, dopo aver finito completamente il suo piatto di carne e deciso di non mangiare più nulla, tirò fuori una sigaretta e, mentre la accendeva, mormorò:
 
-#"La schiena di Peggy!"
+"La schiena di Peggy!"
 
 “Che cosa!” gridò il leader dell’opposizione, dimenticandosi completamente delle buone maniere.
 
@@ -3400,7 +3400,7 @@ Young.
 
 MARGARET DE VILLON was the daughter of a nobleman, French by extraction and distinguished in various ways.
 
-The Baron de Villon, as he courageously chose to call himself, had naturalised forty years ago when his daughter was but a baby. He had lived in [[London]] ever since, and the great firm, the English branch of which he directed, regarded him in all their international transactions as an Englishman. As an Englishman he was also accepted by [[London]] in general and by politicians in particular, though he still preserved traces of his native accent, especially in the pronunciation of the letter s. He was not one of those men who attach themselves profoundly to any particular country, either in their habits or in their affections. He had travelled too much and he had seen too much of men to have preserved any such melodramatic enthusiasms, but he had far too much selfrespect to deny his native country or to pose as anything other than what he was by origin; the memories of his youth, however, and the rising value of the site, induced him to cling to the old Castle of Villon on the Charente, one of the noblest monuments of the French Renaissance; a possession of which any man might well be proud.
+The Baron de Villon, as he courageously chose to call himself, had naturalised forty years ago when his daughter was but a baby. He had lived in [[settings/london|London]] ever since, and the great firm, the English branch of which he directed, regarded him in all their international transactions as an Englishman. As an Englishman he was also accepted by [[settings/london|London]] in general and by politicians in particular, though he still preserved traces of his native accent, especially in the pronunciation of the letter s. He was not one of those men who attach themselves profoundly to any particular country, either in their habits or in their affections. He had travelled too much and he had seen too much of men to have preserved any such melodramatic enthusiasms, but he had far too much selfrespect to deny his native country or to pose as anything other than what he was by origin; the memories of his youth, however, and the rising value of the site, induced him to cling to the old Castle of Villon on the Charente, one of the noblest monuments of the French Renaissance; a possession of which any man might well be proud.
 
 He visited it but rarely. With a generosity which is common to men of his position, he had thrown it open to the public, and the small fee that was charged to visitors went principally to the upkeep of the fabric. He had himself been born there, and when the day came for him to part with it to a wealthy Brazilian the wrench was severe.
 
@@ -3414,7 +3414,7 @@ There was thirty years between them, and a difference — a superficial differen
 
 He was what my readers know him to be: a tall, almost an emaciated, man of sixty-six, careful of his habits, somewhat stooping in gait, short-sighted, with scanty hair now white, and with that curious mobility of the lips even in silence which betrayed a nature sensitive to the point of nervousness.
 
-She was a strong, upstanding woman, with the large nose and lips, coal-black hair and long brilliant eyes of the Franco-Dutch type; features which, as they grew pronounced after her thirtieth year, added to the impression of power which she gave. Her ability to wear without ostentation great masses of jewellery, and the comparative loudness of her voice, were attributed by her friends to her French origin; it was perhaps her Dutch which accounted for the rapid decision of her gestures and her full comprehension of that very large circle of friends which she dominated in the society of [[London]].
+She was a strong, upstanding woman, with the large nose and lips, coal-black hair and long brilliant eyes of the Franco-Dutch type; features which, as they grew pronounced after her thirtieth year, added to the impression of power which she gave. Her ability to wear without ostentation great masses of jewellery, and the comparative loudness of her voice, were attributed by her friends to her French origin; it was perhaps her Dutch which accounted for the rapid decision of her gestures and her full comprehension of that very large circle of friends which she dominated in the society of [[settings/london|London]].
 
 The dainty foreign name of Marguerite which she had acquired in early childhood suited her as ill as the English endearment “Peggy,” which had replaced it while she was still a girl. But Peggy she was and remained, and those who desired to boast an acquaintance which they were very far from enjoying, increased the fashion by always alluding to her under that name. It crept even into those journals which affect familiarity with the Great. In political conversation it was universal.
 
@@ -3425,7 +3425,7 @@ It was, as Dolly himself must have felt, an experiment, but it had thoroughly su
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO III
+CAPITOLO III
 
 “. E pregò affinché finalmente il suo piede lasciasse la propria impronta sull’erba silenziosa, con piena soddisfazione.”
 
@@ -3433,7 +3433,7 @@ Giovane.
 
 Margaret de Villon era la figlia di un nobile; di origine francese, si distingueva in vari modi.
 
-Il Barone de Villon, così come si autodefiniva coraggiosamente, si era naturalizzato quarant’anni prima, quando sua figlia era ancora una bambina. Da allora viveva a [[London|Londra]], e la grande azienda, della cui filiale inglese egli dirigeva le operazioni, lo considerava un inglese in tutte le sue transazioni internazionali. Come inglese, era anche accettato dalla comunità di [[London|Londra]] nel suo complesso, e soprattutto dai politici; tuttavia conservava ancora tracce del proprio accento nativo, specialmente nella pronuncia della lettera “s”. Non apparteneva a quegli uomini che si legano profondamente a un determinato paese, né nei loro costumi né nei loro sentimenti: aveva viaggiato troppo e visto troppe cose per conservare simili entusiasmi melodrammatici; ma aveva troppo rispetto per se stesso per negare la propria nazionalità o fingere di essere qualcun altro diverso da ciò che era per origine. Tuttavia, i ricordi della sua giovinezza e il crescente valore del sito in cui si trovava lo spingevano a rimanere attaccato al vecchio Castello de Villon sulla Charente, uno dei più nobili monumenti del Rinascimento francese; una proprietà di cui qualsiasi uomo avrebbe potuto andare fiero.
+Il Barone de Villon, così come si autodefiniva coraggiosamente, si era naturalizzato quarant’anni prima, quando sua figlia era ancora una bambina. Da allora viveva a [[settings/london|Londra]], e la grande azienda, della cui filiale inglese egli dirigeva le operazioni, lo considerava un inglese in tutte le sue transazioni internazionali. Come inglese, era anche accettato dalla comunità di [[settings/london|Londra]] nel suo complesso, e soprattutto dai politici; tuttavia conservava ancora tracce del proprio accento nativo, specialmente nella pronuncia della lettera “s”. Non apparteneva a quegli uomini che si legano profondamente a un determinato paese, né nei loro costumi né nei loro sentimenti: aveva viaggiato troppo e visto troppe cose per conservare simili entusiasmi melodrammatici; ma aveva troppo rispetto per se stesso per negare la propria nazionalità o fingere di essere qualcun altro diverso da ciò che era per origine. Tuttavia, i ricordi della sua giovinezza e il crescente valore del sito in cui si trovava lo spingevano a rimanere attaccato al vecchio Castello de Villon sulla Charente, uno dei più nobili monumenti del Rinascimento francese; una proprietà di cui qualsiasi uomo avrebbe potuto andare fiero.
 
 Lo visitava di rado. Con la generosità tipica delle persone della sua posizione, l'aveva aperto al pubblico; la piccola tariffa richiesta ai visitatori veniva utilizzata principalmente per le spese di manutenzione dell'edificio. Lui stesso era nato lì, e quando arrivò il momento di doverlo cedere a un ricco brasiliano, il dolore fu profondo.
 
@@ -3447,7 +3447,7 @@ C'erano trent'anni di differenza tra loro, e una diversità – almeno superfici
 
 Era proprio come i miei lettori lo conoscono: un uomo alto, quasi emaciato, di sessantasei anni, attento alle proprie abitudini, con un passo leggermente curvo, miopico, con pochi capelli ormai bianchi, e con quella strana mobilità delle labbra anche quando taceva, segno di una natura estremamente sensibile, quasi fino al punto della nevrosi.
 
-Era una donna forte e integra, con il naso e le labbra grandi, i capelli neri come il carbone e gli occhi lunghi e brillanti tipici della razza franco-olandese; tratti che, diventando ancora più evidenti dopo i trent’anni, contribuivano all’impressione di forza che lei trasmetteva. La sua capacità di indossare grandi quantità di gioielli senza eccesso, nonché il tono relativamente alto della sua voce, venivano attribuiti dai suoi amici alla sua origine francese; forse era invece la sua parte olandese a spiegare la rapidità dei suoi gesti e la sua profonda comprensione di quel vasto cerchio di amici che dominava nella società di [[London|Londra]].
+Era una donna forte e integra, con il naso e le labbra grandi, i capelli neri come il carbone e gli occhi lunghi e brillanti tipici della razza franco-olandese; tratti che, diventando ancora più evidenti dopo i trent’anni, contribuivano all’impressione di forza che lei trasmetteva. La sua capacità di indossare grandi quantità di gioielli senza eccesso, nonché il tono relativamente alto della sua voce, venivano attribuiti dai suoi amici alla sua origine francese; forse era invece la sua parte olandese a spiegare la rapidità dei suoi gesti e la sua profonda comprensione di quel vasto cerchio di amici che dominava nella società di [[settings/london|Londra]].
 
 Il delicato nome straniero “Marguerite”, che aveva assunto fin da piccola, le si addiceva tanto quanto il nomignolo inglese “Peggy”, che ne aveva preso il posto quando era ancora una ragazza. Ma lei rimase sempre “Peggy”, e coloro che desideravano vantare un'amicizia di cui in realtà non godevano affatto, contribuirono ad alimentare questa abitudine, riferendosi sempre a lei con quel nome. Questa pratica si diffuse persino nei giornali che cercavano di creare un senso di intimità con le grandi personalità. Nei dibattiti politici, era ormai onnipresente.
 
@@ -3516,7 +3516,7 @@ The Premier (for Dolly was Premier now by their support) was, on his side, not o
 
 One of the Straights, a Doctor Lambton, a curious, lean, fiery-eyed man of fifty with a straggling beard and a pushed-in face, was put at the head of the new Research Department, at £1200 a year — and nobody could have been fitter. The by-election was not even contested. In the penumbra of the Straights, among the men who voted with them but did not obey the party Whips, (Mr. Moss and Professor Cheasly.) Peggy chose two for Under-Secretaries. When the Straights hesitated at accepting a Fellow of Trinity on account of the difficulty of his attendance, she worked Trinity, and his tutorship was continued without the burden and distraction of pupils. In every way she made the Straights the instrument they had become of her husband’s continued success; and her husband, for all his doubts of her political wisdom, could never forget this capital point in her favour.
 
-She had put Stoup in the Cabinet, and Stoup was never sober; it was a scandal. She had tried to get a foreign Ambassador recalled whose presence in [[London]] was personally and vitally necessary to Dolly’s policy; and she had given Constantinople to a fool in spite of the persistent and even angry pressure of old Battersea who had almost quarrelled with her upon the appointment. She had done a hundred silly and impetuous things — but she had discovered the Straights; and a more supple, elastic, and serviceable auxiliary no Prime Minister ever yet found below the gangway.
+She had put Stoup in the Cabinet, and Stoup was never sober; it was a scandal. She had tried to get a foreign Ambassador recalled whose presence in [[settings/london|London]] was personally and vitally necessary to Dolly’s policy; and she had given Constantinople to a fool in spite of the persistent and even angry pressure of old Battersea who had almost quarrelled with her upon the appointment. She had done a hundred silly and impetuous things — but she had discovered the Straights; and a more supple, elastic, and serviceable auxiliary no Prime Minister ever yet found below the gangway.
 
 Now, after four years of unbroken success, four years during which the moral much more than the numerical power of her husband’s government had impressed the country, there was a moment’s trouble. It had come, of course, like all the pestilent little troubles of the last few years, from India.
 
@@ -3524,9 +3524,9 @@ It had begun with a famine, one of those normally recurrent Indian famines which
 
 Everything that could be done was done. When the House had risen and when the interference of busybodies was no longer possible, the Secretary of State for India had accepted an embassy and had been replaced by a man whose close connection with the opium trade, and a very large fortune gathered in other forms of Eastern commerce, entitled him to confidence and respect. In the district actually affected the population was easily governed and of course unarmed. Less than a dozen isolated assassinations, and perhaps fifty attempts, most of these against middle-class officials, were not sufficient to cause any anxiety at home. But with the meeting of the House it was certain that a violent criticism would begin: the Opposition papers had already raised the humanitarian whine: and right on the top of all the other troubles came the beginnings of that business upon the North-West frontier: for that a loan was imperatively necessary.
 
-Such was the political situation at the opening of that week before Whitsun, 1925, when Dolly had returned to [[London]] to approach the Duke of Battersea upon the flotation.
+Such was the political situation at the opening of that week before Whitsun, 1925, when Dolly had returned to [[settings/london|London]] to approach the Duke of Battersea upon the flotation.
 
-The moment Dolly reached his room in [[London]] on the Monday afternoon he took up the telephone and asked Eddie, his secretary, to ring up the clerk downstairs and to call Battersea House.
+The moment Dolly reached his room in [[settings/london|London]] on the Monday afternoon he took up the telephone and asked Eddie, his secretary, to ring up the clerk downstairs and to call Battersea House.
 
 What great events from little causes spring! Hardly had Dolly put the receiver on its rest again when he heard in the passage a familiar contralto voice, rich but not subdued, and he had occasion to change his mind. He picked up the telephone quickly, begged Eddie to ring up the clerk and tell him he didn’t want Battersea House; but, alas, the clerk had already got that mansion, and in its hall a superb man of vast size and leisurely movement, dressed like a prince in a fairy-tale, had sauntered to the great keyboard and had languidly answered the call. When he heard the voice of the telephone man at the Prime Minister’s telling him he was not wanted after all, he said in a gentlemanly manner: “Damn!” put his instrument down and sauntered as leisurely back again to his chair.
 
@@ -3547,7 +3547,7 @@ Il Primo Ministro (poiché con il loro sostegno Dolly era ormai considerata la v
 
 Uno dei membri del gruppo “The Straights”, un certo Dottor Lambton – un uomo curioso, magro, dagli occhi scintillanti, di cinquant’anni, con una barba disordinata e il viso schiacciato in avanti – fu nominato a capo del nuovo Dipartimento di Ricerca, con uno stipendio annuo di 1200 sterline. E nessuno avrebbe potuto essere più adatto per quel ruolo. L’elezione suppletiva non venne nemmeno contesa. Nell’ombra del gruppo “The Straights”, tra coloro che votavano con loro ma non obbedivano agli ordini dei leader del partito (il signor Moss e il professor Cheasly), Peggy scelse due persone per ricoprire le cariche di vicedirettori. Quando i membri di “The Straights” esitarono ad assumere un docente della Trinity University a causa delle difficoltà legate alla sua presenza, fu lei stessa a intervenire in suo favore; così la sua attività didattica poté proseguire senza gli ostacoli derivanti dall’assistenza agli studenti. In ogni modo, lei fece sì che “The Straights” diventassero lo strumento attraverso il quale il successo di suo marito continuasse; e lui, nonostante i suoi dubbi sulla sua saggezza politica, non poté mai dimenticare questo punto decisivo a suo favore.
 
-Aveva messo Stoup nel Gabinetto, ma Stoup non era mai sobrio. Era uno scandalo. Aveva cercato di far richiamare un ambasciatore straniero la cui presenza a [[London|Londra]] era indispensabile per la politica di Dolly; inoltre aveva concesso Costantinopoli a un idiota, nonostante le continue e persino furiose pressioni dell’anziano Battersea, che quasi aveva litigato con lei a causa di quella nomina. Aveva fatto centinaia di cose stupide e impulsive. Ma aveva scoperto i Dardanelli; e nessun Primo Ministro aveva mai avuto un collaboratore più flessibile, elastico e utile al proprio fianco.
+Aveva messo Stoup nel Gabinetto, ma Stoup non era mai sobrio. Era uno scandalo. Aveva cercato di far richiamare un ambasciatore straniero la cui presenza a [[settings/london|Londra]] era indispensabile per la politica di Dolly; inoltre aveva concesso Costantinopoli a un idiota, nonostante le continue e persino furiose pressioni dell’anziano Battersea, che quasi aveva litigato con lei a causa di quella nomina. Aveva fatto centinaia di cose stupide e impulsive. Ma aveva scoperto i Dardanelli; e nessun Primo Ministro aveva mai avuto un collaboratore più flessibile, elastico e utile al proprio fianco.
 
 Ora, dopo quattro anni di successo ininterrotto – quattro anni durante i quali la forza morale, molto più che quella numerica del governo di suo marito, aveva impressionato il paese – si verificò un momento di difficoltà. Questa difficoltà, naturalmente, come tutte le altre piccole problematiche insidiose degli ultimi anni, proveniva dall’India.
 
@@ -3555,9 +3555,9 @@ Tutto era iniziato con una carestia, una di quelle carestie indiane che si ripet
 
 Tutto ciò che poteva essere fatto era stato fatto. Quando la Camera si era riunita e quando l’interferenza dei curiosi non era più possibile, il Segretario di Stato per l’India aveva accettato l’incarico di ambasciatore ed era stato sostituito da un uomo il cui stretto legame con il commercio dell’oppio, nonché una fortuna considerevole accumulata attraverso altre forme di commercio orientale, gli garantivano fiducia e rispetto. Nella zona effettivamente interessata dalla situazione, la popolazione era facilmente controllabile e, naturalmente, disarmata. Meno di una dozzina di assassinii isolati, e forse cinquanta tentativi, la maggior parte dei quali rivolti contro funzionari di classe media, non erano sufficienti a causare alcuna preoccupazione nel paese. Tuttavia, con l’inizio delle riunioni della Camera, era certo che sarebbero iniziate critiche violente: i giornali dell’Opposizione avevano già sollevato argomentazioni umanitarie; e su tutti questi problemi si aggiungevano anche le difficoltà legate alla situazione al confine nord-occidentale: per risolverle, era assolutamente necessario ottenere un prestito.
 
-Era questa la situazione politica all’inizio di quella settimana, prima di Pasqua del 1925, quando Dolly era tornata a [[London|Londra]] per parlare con il Duca di Battersea riguardo alla quotazione in borsa.
+Era questa la situazione politica all’inizio di quella settimana, prima di Pasqua del 1925, quando Dolly era tornata a [[settings/london|Londra]] per parlare con il Duca di Battersea riguardo alla quotazione in borsa.
 
-Non appena Dolly arrivò nella sua stanza a [[London|Londra]] lunedì pomeriggio, prese il telefono e chiese a Eddie, la sua segretaria, di contattare l’impiegato al piano di sotto e di chiamare Battersea House.
+Non appena Dolly arrivò nella sua stanza a [[settings/london|Londra]] lunedì pomeriggio, prese il telefono e chiese a Eddie, la sua segretaria, di contattare l’impiegato al piano di sotto e di chiamare Battersea House.
 
 Che grandi eventi possono nascere da piccole cause! Appena Dolly ebbe rimesso il ricevitore al suo posto, sentì nel corridoio una voce di contralto familiare, ricca ma non sommessa. E dovette cambiare idea. Prese rapidamente il telefono e pregò Eddie di chiamare il commesso per dirgli che non voleva più la casa di Battersea House; ma purtroppo il commesso aveva già assegnato quella proprietà a qualcun altro. Nella hall, un uomo imponente, dall’andatura lenta e solenne, vestito come un principe in una favola, si era avvicinato al grande pianoforte e aveva risposto con indifferenza alla chiamata. Quando sentì che non lo volevano più, disse con gentilezza: “Maledizione!”, posò lo strumento e tornò tranquillamente alla sua sedia.
 
@@ -3797,7 +3797,7 @@ As usual! — Pickles hadn’t come up to time!... Peggy cursed them gently and 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO IV
+CAPITOLO IV
 
 “Anche se non dobbiamo tributare alle reliquie un rispetto eccessivo o esagerato, esse ci ricordano comunque le virtù e la bontà del defunto: la sua umiltà, il suo disprezzo per le ricchezze, i suoi pensieri rivolti esclusivamente a Dio e il suo disprezzo per questo mondo; inoltre, esse possiedono anche un valore pratico.” — Commento alla “Teologia” di Suarez, viii. § 17 (Duncan’s Tr.).
 
@@ -3935,7 +3935,7 @@ All that was ancient history, but the Duke saw fit to bring it in. Then he spoke
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO V
+CAPITOLO V
 
 “Gli chiesi una volta di darmi un po’ di denaro, per uno scopo benefico; ma lui pose così tante condizioni e restrizioni che decisi di lasciar perdere quell’uomo.” — “Ricordi del Duca di Wellington”, VOL. LIL, p. 168.
 
@@ -4145,7 +4145,7 @@ Mary Smith rifletté. “Sarà sgradevole per loro,” disse, “se riesco a sis
 
 L’istinto di Dolly per la negoziazione si attivò immediatamente. Dopotutto, aveva trascorso quarant’anni immersa nelle intrighi.
 
-# Dimmi quando sarai...
+Dimmi quando sarai...
 
 “Lo farò domani, Dolly,” disse lei. “Ci saranno molte persone qui domani, e se vieni ti dirò tutto. Andrà tutto bene.”
 
@@ -4213,7 +4213,7 @@ Then, when the servant had shut the door behind him, and when she heard the oute
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VI
+CAPITOLO VI
 
 “Ma poiché il mio orecchio esterno, sensibile al suono, è ormai privo di funzione, impedendomi di comunicare e di partecipare al naturale scambio verbale tra gli esseri umani, tu, Creatore di entrambi gli orecchi, abbi la bontà di accordare il mio orecchio interno a nuove possibilità! Affinché possa svolgere il proprio ruolo nel corso delle cose; e affinché quel primo orecchio, quello fisico, non rimanga del tutto inutilizzato, mentre il secondo, quello spirituale, sia in grado di percepire suoni celesti e godere di vere armonie musicali.”
 
@@ -4261,7 +4261,7 @@ Mary Smith annuì dolcemente con le labbra chiuse, il che le salvò la laringe.
 
 “Non può essere fatto in questo modo, Mary,” continuò lui con la stessa velocità di prima – “non è nel nostro stile di fare affari, eh?” Ridacchiò, come per sottolineare che si trattava proprio del suo modo di condurre gli affari. Apparteneva troppo a un mondo più vecchio; al mondo cortese degli anni ’60 negli Stati Uniti del Nord. Ma tutto il suo atteggiamento era sufficiente per far capire ciò che voleva dire: un battito di ciglia, o una leggera spinta sulle costole. E Mary Smith ne fu molto compiaciuta. Sfruttò senza alcuna vergogna la sua buona disposizione d’animo, la sua età avanzata, e il fatto che i suoi occhi erano fissi sul fuoco. Cercò goffamente sul tavolo accanto a sé, e un po’ dietro di sé, per suonare il campanello; quando il servitore bussò, fingette di essere turbata, ma riuscì comunque a dire al servitore, con un tono che l’uomo anziano non poteva certo non notare.
 
-#"Dica al Primo Ministro che voglio vederlo prima che se ne vada."
+"Dica al Primo Ministro che voglio vederlo prima che se ne vada."
 
 Poi, quando il servitore ebbe chiuso la porta dietro di lui e anche lei sentì chiudersi la porta esterna, gridò di nuovo verso suo zio:
 
@@ -4401,7 +4401,7 @@ When the aged Duke of Battersea heard by a telegram the next day of what had hap
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VII
+CAPITOLO VII
 
 “Chi pecca una volta, pecca più facilmente la seconda volta.”
 
@@ -4501,7 +4501,7 @@ By this time there were tears in her eyes: it was a damned shame of Mary to have
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VIII
+CAPITOLO VIII
 
 Q. Pensi che il francese sia essenziale?
 
@@ -4535,7 +4535,7 @@ Alcuni dicono che una concatenazione precisa di eventi costituisca una prova del
 
 Proprio durante il pranzo, mentre lui ribolliva di rabbia dentro di sé, a tavola, seduta proprio accanto a lui, la Provvidenza aveva già messo in atto i suoi piani. Quell’“strumento” dei suoi progetti era una signora alla moda, di nome Courier: dall’aspetto poco attraente e dai tratti non particolarmente belli. Lei ignorava l’infermità del milionario, ma era certamente molto interessata al suo enorme patrimonio. Praticamente non appena lui si fu seduto, lei disse, con quel tono confidenziale che utilizzava da almeno il primo Giubileo.
 
-#"Non sai che posto meraviglioso da cui vengo appena!"
+"Non sai che posto meraviglioso da cui vengo appena!"
 
 Il signor Smith la guardò e sorrise dolcemente, proprio come si farebbe di fronte a qualsiasi altra stupidaggine del genere.
 
@@ -4584,7 +4584,7 @@ The lady shook her head. “Not that one,” she said, and whether he heard her 
 
 It was exactly twenty minutes past one, but the only person who knew the time or cared about it was G. Quinlan Smith. His little brown beads of eyes had noted the clock exactly; he would not give himself away by looking at his watch. And note you, when G. Quinlan was stopping with his niece all the clocks marked the same time and that time was the right time. He saw to that. He paid a man to come in every morning from Dent’s, and it was his delight to control the results; for method is the hinge of business.
 
-The organising mind is distinguished for its grasp of detail, and G. Quinlan Smith could not only have told you, in spite of his age, the hour of the three main expresses to Chicago from the east, and that of the two best trains for Washington from the Jersey side: he could also tell you how to connect with the Sud Express, the Orient Express, and the Cote d’Azur from [[London]]. Very firmly fixed among the many hundred figures of such things which lay beautifully pigeon-holed in one of the corners of his brain, was the hour 2.20, which is the train for any true gentleman who wants to reach the Riviera before the service to the Riviera stops running.
+The organising mind is distinguished for its grasp of detail, and G. Quinlan Smith could not only have told you, in spite of his age, the hour of the three main expresses to Chicago from the east, and that of the two best trains for Washington from the Jersey side: he could also tell you how to connect with the Sud Express, the Orient Express, and the Cote d’Azur from [[settings/london|London]]. Very firmly fixed among the many hundred figures of such things which lay beautifully pigeon-holed in one of the corners of his brain, was the hour 2.20, which is the train for any true gentleman who wants to reach the Riviera before the service to the Riviera stops running.
 
 G. Quinlan Smith took no further part in the conversation save to make himself as polite as possible to the lady upon his right, to save her the trouble of shouting by volunteering his own remarks on all manner of things, and throughout that little by-play he showed a careful indifference to Villefranche.
 
@@ -4655,7 +4655,7 @@ La signora scosse la testa. “Non quella,” disse, e che lui l’avesse sentit
 
 Erano esattamente venti minuti dopo l’una, ma l’unica persona che conosceva l’ora o se ne curava era G. Quinlan Smith. I suoi piccoli occhi marroni avevano notato esattamente l’orario; non avrebbe mai rivelato l’ora guardando l’orologio. E notate bene: quando G. Quinlan si fermava da sua nipote, tutti gli orologi indicavano lo stesso tempo, e quel tempo era il tempo giusto. Si assicurava sempre che fosse così. Pagava una persona affinché ogni mattina venisse da Dent’s, e gli piaceva molto controllare personalmente i risultati; perché la meticolosità è la chiave del successo negli affari.
 
-La mente organizzatrice si distingue per la sua capacità di cogliere i dettagli; G. Quinlan Smith, nonostante la sua età, non solo poteva dirvi l’orario dei tre principali treni espresso per Chicago in partenza dall’est, e quello dei due migliori treni per Washington provenienti dal New Jersey, ma sapeva anche come collegarsi con il Sud Express, l’Orient Express e il Côte d’Azur da [[London|Londra]]. Tra le centinaia di informazioni ben ordinate in un angolo del suo cervello, c’era fissata con precisione l’orario delle 2:20: quello del treno perfetto per ogni vero gentiluomo che desideri raggiungere la Riviera prima che i servizi ferroviari verso quella destinazione vengano sospesi.
+La mente organizzatrice si distingue per la sua capacità di cogliere i dettagli; G. Quinlan Smith, nonostante la sua età, non solo poteva dirvi l’orario dei tre principali treni espresso per Chicago in partenza dall’est, e quello dei due migliori treni per Washington provenienti dal New Jersey, ma sapeva anche come collegarsi con il Sud Express, l’Orient Express e il Côte d’Azur da [[settings/london|Londra]]. Tra le centinaia di informazioni ben ordinate in un angolo del suo cervello, c’era fissata con precisione l’orario delle 2:20: quello del treno perfetto per ogni vero gentiluomo che desideri raggiungere la Riviera prima che i servizi ferroviari verso quella destinazione vengano sospesi.
 
 G. Quinlan Smith non prese più parte alla conversazione, se non per essere il più cortese possibile con la signora seduta al suo fianco, per risparmiarle la fatica di dover gridare e offrendosi volontario per esprimere i propri commenti su ogni argomento. Durante tutto quel breve scambio, mostrò una curiosa indifferenza verso Villefranche.
 
@@ -4730,7 +4730,7 @@ He got nervous about the date for the meeting of Parliament after the Whitsuntid
 
 Pongo was a simple man; he had been born in those laborious middle classes whose wrath he still inwardly feared, and many of whose customs he still retained. But he was so far acclimatised to the Upper Air that he did not read leaders in newspapers.
 
-When, therefore, Pongo’s eye fell idly upon the leading article in the Chief Opposition Organ, his Organ, his dear supporter and shield-bearer in the Bloody Fray, it was falling idly upon an expression of opinion which all his principal supporters in [[London]] had absorbed that morning, and which thousands upon thousands of his rank-and-file had taken for gospel. He followed the first sentences of it mechanically, his mind really occupied upon what he should put down next upon his sheet of notes — when, to his horror, he saw that the second paragraph was taking a line of its own about the Indian Loan! He forgot his notes, he almost forgot his own name, as he read that paragraph with gradually bristling hair.
+When, therefore, Pongo’s eye fell idly upon the leading article in the Chief Opposition Organ, his Organ, his dear supporter and shield-bearer in the Bloody Fray, it was falling idly upon an expression of opinion which all his principal supporters in [[settings/london|London]] had absorbed that morning, and which thousands upon thousands of his rank-and-file had taken for gospel. He followed the first sentences of it mechanically, his mind really occupied upon what he should put down next upon his sheet of notes — when, to his horror, he saw that the second paragraph was taking a line of its own about the Indian Loan! He forgot his notes, he almost forgot his own name, as he read that paragraph with gradually bristling hair.
 
 “Whether a definite sum shall be ear-marked for the relief of those who have suffered from this appalling Indian blunder on the part of the Government, it will be for the House of Commons to decide. The fair fame of England is at stake, and we have no doubt that in a question like this which is surely above party, even the present Government will remember that we shall be judged not only in India but in Europe by our success in grappling with the famine and by the promptitude and vigour with which the relief works are undertaken.
 
@@ -4743,7 +4743,7 @@ He read the paragraphs again, and was a little relieved at the second reading. A
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO IX
+CAPITOLO IX
 
 “Lettore, lettore!”
 
@@ -4769,7 +4769,7 @@ Incominciò a preoccuparsi per la data della riunione del Parlamento dopo la pau
 
 Pongo era un uomo semplice; era nato nelle quelle classi medie lavoratrici le cui ire temeva ancora nel profondo del cuore, e molte delle loro abitudini le manteneva ancora. Tuttavia, si era talmente adattato alla “Alta Società” che non leggeva i leader politici sui giornali.
 
-Quando, quindi, lo sguardo di Pongo cadde casualmente sul titolo principale dell’organo di stampa principale dell’opposizione, il suo stesso organo di diffusione, il suo caro sostenitore e difensore in quella battaglia cruenta, si trovò davanti a un’opinione che tutti i suoi principali sostenitori a [[London|Londra]] avevano assorbito quella mattina stessa, e che migliaia e migliaia dei suoi seguaci consideravano verità assoluta. Lesse meccanicamente le prime frasi di quel testo, mentre la sua mente era davvero concentrata su ciò che avrebbe dovuto scrivere successivamente sul suo taccuino. Quando, con orrore, si rese conto che il secondo paragrafo prendeva una direzione completamente diversa riguardo al prestito indiano! Dimenticò i suoi appunti, quasi dimenticò anche il proprio nome, mentre leggeva quel paragrafo, con i capelli che gli si rizzavano gradualmente in testa per la rabbia.
+Quando, quindi, lo sguardo di Pongo cadde casualmente sul titolo principale dell’organo di stampa principale dell’opposizione, il suo stesso organo di diffusione, il suo caro sostenitore e difensore in quella battaglia cruenta, si trovò davanti a un’opinione che tutti i suoi principali sostenitori a [[settings/london|Londra]] avevano assorbito quella mattina stessa, e che migliaia e migliaia dei suoi seguaci consideravano verità assoluta. Lesse meccanicamente le prime frasi di quel testo, mentre la sua mente era davvero concentrata su ciò che avrebbe dovuto scrivere successivamente sul suo taccuino. Quando, con orrore, si rese conto che il secondo paragrafo prendeva una direzione completamente diversa riguardo al prestito indiano! Dimenticò i suoi appunti, quasi dimenticò anche il proprio nome, mentre leggeva quel paragrafo, con i capelli che gli si rizzavano gradualmente in testa per la rabbia.
 
 “Se sia previsto un importo specifico per alleviare le sofferenze di coloro che hanno subito a causa di questo terribile errore commesso dal governo indiano, spetterà alla Camera dei Comuni decidere. È in gioco la buona reputazione dell’Inghilterra, e non abbiamo dubbi che, in una questione come questa che certamente trascende i partiti politici, anche l’attuale governo ricorderà che verremo giudicati non solo in India ma anche in Europa in base al nostro successo nel contrastare la carestia e alla tempestività e all’efficacia con cui verranno avviate le operazioni di aiuto.”
 
@@ -5050,7 +5050,7 @@ Mr. Moss took a chair and put his hands upon his knees; he was full of assurance
 
 “The debate of Foreign Affairs isn’t coming on just yet,” said Dolly, in the tone of a man who is keeping his end up, and with a savage note in his voice. I don’t suppose you’ve come to see me about bull-fighting?”
 
-“Oh no,” said Mr. Moss, still smiling. “It’s not coming on yet... but some of ’em seem pretty sick... however, I haven’t come about that... as you say!” He was looking out of the window over the brilliantly lit streets of the [[London]] night, but his eyes were not fixed upon the traffic, the lights, or the blurred darkness of the houses; they were fixed upon an empty piece of sky; neither they nor his thick smiling lips moved.
+“Oh no,” said Mr. Moss, still smiling. “It’s not coming on yet... but some of ’em seem pretty sick... however, I haven’t come about that... as you say!” He was looking out of the window over the brilliantly lit streets of the [[settings/london|London]] night, but his eyes were not fixed upon the traffic, the lights, or the blurred darkness of the houses; they were fixed upon an empty piece of sky; neither they nor his thick smiling lips moved.
 
 “Well, Mr. Moss?” said Pennybunt.
 
@@ -5089,7 +5089,7 @@ Scoprì che quel statista aveva ormai preso una decisione, più o meno definitiv
 
 “Oh, certo,” disse Pongo umilmente.
 
-#Il consiglio si riunisce mercoledì e il prestito è la prima questione all’ordine del giorno, sicuramente.
+Il consiglio si riunisce mercoledì e il prestito è la prima questione all’ordine del giorno, sicuramente.
 
 “Esattamente,” disse Pongo. “Quando chiudi?”
 
@@ -5329,7 +5329,7 @@ The hot southern sun, though the afternoon was well worn, was beating strongly u
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO X
+CAPITOLO X
 
 “La donna che guida gli eventi… Che dire di questo?”
 
@@ -5477,7 +5477,7 @@ George Quinlan Smith, stupid after such a night, watched unintelligently though 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XI
+CAPITOLO XI
 
 “MA Nessun oggetto, per quanto bello o raro, ci sarà di alcuna utilità nella sua ricerca, a meno che non ci conduca infine alla Lode e alla Gioia.” – RUSKIN.
 
@@ -5640,7 +5640,7 @@ MILTON.
 
 ON the morning after Mr. Moss had riveted Dolly’s attention by the really ridge-like creases of his trousers, on the morning to which George Quinlan Smith had awakened in the thieves’ den of Provence broken with fatigue, to see the sunlight begin its streak through the skylight upon the farther wall: in the later hours, while G. Quinlan was being rolled, despairing, along the coast to Tarascon — on that morning and in those later hours Dolly awoke. The first thing he did when he got down was to ask Eddie to put him on to Mary Smith’s house; but she could tell him nothing. Her uncle had not returned.
 
-The second thing Dolly did was to ask Eddie to put him on to Pongo’s house, and by the best of good luck he found that Pongo had not yet left [[London]], and would very obediently come as he was bid, or, better still, meet Dolly when and where he chose.
+The second thing Dolly did was to ask Eddie to put him on to Pongo’s house, and by the best of good luck he found that Pongo had not yet left [[settings/london|London]], and would very obediently come as he was bid, or, better still, meet Dolly when and where he chose.
 
 They met at the Blue Posts to lunch together.
 
@@ -5650,9 +5650,9 @@ Pongo had heard nothing more than Dolly had told him, and it was possible that w
 
 Dolly agreed that it was. Before the cheese was on the table he had already pursued five avenues by way of messages on the telephone, by way of the club servants and by way of still more stupid messengers in taxis; every single one of the scents failed. Mr. Smith had not come to the office; Mr. Smith’s man had no idea where Mr. Smith was; Mr. Smith had booked no carriage through his usual agency in any train; and so forth. Dolly and Pongo lingered on at the Blue Posts till four; the last of the messengers had returned as blank as the first.
 
-Dolly pondered. Old Smith had gone out; he had gone without any particular preparation; he had gone in a taxi; he had gone with a little bag; he had gone perhaps to make a purchase, or to pay a visit close to [[London]] — probably intending to be back that night — and something had kept him.... But if something had kept him he would have communicated with his niece.... He was an old man, and he had fallen upon some sort of accident. It must be possible enough to find out, and the best way of all was for Dolly to go himself at once to the City office, and tell them that all the means he had at his disposal would be at their service; for Smith, Fischer and Co must be growing as anxious as Dolly himself, though, doubtless, for a different reason.
+Dolly pondered. Old Smith had gone out; he had gone without any particular preparation; he had gone in a taxi; he had gone with a little bag; he had gone perhaps to make a purchase, or to pay a visit close to [[settings/london|London]] — probably intending to be back that night — and something had kept him.... But if something had kept him he would have communicated with his niece.... He was an old man, and he had fallen upon some sort of accident. It must be possible enough to find out, and the best way of all was for Dolly to go himself at once to the City office, and tell them that all the means he had at his disposal would be at their service; for Smith, Fischer and Co must be growing as anxious as Dolly himself, though, doubtless, for a different reason.
 
-He begged Pongo before he left the Blue Posts not to leave [[London]] that day, and the faithful Pongo promised he would not.
+He begged Pongo before he left the Blue Posts not to leave [[settings/london|London]] that day, and the faithful Pongo promised he would not.
 
 “You see,” he said, “it may be necessary, it just may be necessary to extend the recess.”
 
@@ -5699,15 +5699,15 @@ Then did the Prime Minister of England go upstairs with his charming and elderly
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XII
+CAPITOLO XII
 
-# Evviva! L’amore coniugato!
+Evviva! L’amore coniugato!
 
 MILTON.
 
 La mattina dopo che il signor Moss aveva attirato l’attenzione di Dolly con le pieghe davvero simili a creste presenti sui suoi pantaloni, la mattina in cui George Quinlan Smith si svegliò nella tana dei ladri in Provenza, stanco morto, e vide i raggi del sole iniziare ad illuminare il muro più lontano attraverso la finestra sul soffitto; nelle ore successive, mentre G. Quinlan veniva trascinato disperatamente lungo la costa verso Tarascon. In quella mattina e in quelle ore successive, Dolly si svegliò. La prima cosa che fece non appena si alzò fu chiedere a Eddie di portarla a casa di Mary Smith; ma lei non poté dirle nulla: suo zio non era ancora tornato.
 
-La seconda cosa che fece Dolly fu chiedere a Eddie di portarla a casa di Pongo; per grande fortuna scoprì che Pongo non aveva ancora lasciato [[London|Londra]] e sarebbe venuto subito, come gli era stato chiesto, o, meglio ancora, avrebbe incontrato Dolly quando e dove lei avesse deciso.
+La seconda cosa che fece Dolly fu chiedere a Eddie di portarla a casa di Pongo; per grande fortuna scoprì che Pongo non aveva ancora lasciato [[settings/london|Londra]] e sarebbe venuto subito, come gli era stato chiesto, o, meglio ancora, avrebbe incontrato Dolly quando e dove lei avesse deciso.
 
 Si incontrarono alle Blue Posts per pranzare insieme.
 
@@ -5717,9 +5717,9 @@ Pongo non aveva saputo nulla di più di quanto gli avesse raccontato Dolly, e fo
 
 Dolly concordò che fosse così. Prima ancora che il formaggio venisse messo sul tavolo, lui aveva già provato cinque diversi metodi: messaggi telefonici, i servitori del club e altri messaggeri ancora più inutili. Nessuno di questi tentativi aveva avuto successo. Il signor Smith non era arrivato in ufficio; il suo assistente non sapeva dove si trovasse; il signor Smith non aveva prenotato alcun treno tramite la sua agenzia abituale. E così via. Dolly e Pongo rimasero al Blue Posts fino alle quattro del pomeriggio; l’ultimo dei messaggeri tornò indietro con lo stesso risultato negativo del primo.
 
-Dolly rifletté. Il vecchio Smith era uscito; se n’era andato senza alcuna preparazione particolare, in taxi, con una piccola borsa; probabilmente era andato a fare qualche acquisto o a rendere visita in zona [[London|Londra]]. Probabilmente intendeva tornare quella stessa notte. Ma qualcosa doveva averlo trattenuto. Se così fosse stato, avrebbe sicuramente contattato sua nipote. Era un uomo anziano; forse era accadutogli qualche incidente. Doveva esserci modo di scoprirlo. E il modo migliore era che Dolly andasse subito all’ufficio della compagnia, dicendo loro che avrebbe messo a disposizione tutte le risorse a sua disposizione. Perché Smith, Fischer e Co dovevano essere altrettanto ansiosi quanto lei stessa, anche se, probabilmente, per motivi diversi.
+Dolly rifletté. Il vecchio Smith era uscito; se n’era andato senza alcuna preparazione particolare, in taxi, con una piccola borsa; probabilmente era andato a fare qualche acquisto o a rendere visita in zona [[settings/london|Londra]]. Probabilmente intendeva tornare quella stessa notte. Ma qualcosa doveva averlo trattenuto. Se così fosse stato, avrebbe sicuramente contattato sua nipote. Era un uomo anziano; forse era accadutogli qualche incidente. Doveva esserci modo di scoprirlo. E il modo migliore era che Dolly andasse subito all’ufficio della compagnia, dicendo loro che avrebbe messo a disposizione tutte le risorse a sua disposizione. Perché Smith, Fischer e Co dovevano essere altrettanto ansiosi quanto lei stessa, anche se, probabilmente, per motivi diversi.
 
-Prima di lasciare i Blue Posts, pregò Pongo di non lasciare [[London|Londra]] quel giorno, e il fedele Pongo promise che non lo avrebbe fatto.
+Prima di lasciare i Blue Posts, pregò Pongo di non lasciare [[settings/london|Londra]] quel giorno, e il fedele Pongo promise che non lo avrebbe fatto.
 
 “Vedi,” disse, “potrebbe essere necessario… proprio necessario, estendere quel periodo di tempo.”
 
@@ -5755,7 +5755,7 @@ Ma Dolly era troppo turbata per prestare attenzione ai suoi problemi domestici.
 
 “Sì, certo, potete vederlo,” rispose Mary.
 
-#"Non vuoi chiamarlo?"
+"Non vuoi chiamarlo?"
 
 “Chiamalo!” disse Mary. “È lo stesso che chiamare il Re della Gomma! Devi avvicinarti a lui, Dolly, devi chiedergli un incontro. Vai su e bussa alla porta; fai finta che sia la biblioteca.”
 
@@ -5812,7 +5812,7 @@ The Man of Confidence was shown out with all that charming courtesy which is the
 
 Dolly did not like to appear too anxious, but when the time had come for his rendezvous with Pongo, since nothing had come out with regard to the runaway, and since Pongo also in his own innocent manner had drawn blank, he began to be seriously alarmed. He did not care to disturb his wife so early in the day; it was more usual for him to ring her up just before she went to dress for dinner, and it was as yet but half-past six o’clock. Peggy had never had any use for fal-lals; an hour was good enough for her to dress in. She wouldn’t be in yet; but his anxiety would not let him bide. He rang up Battersea House; by good luck she was in already! He told her that Mary Smith didn’t happen to know whether her uncle was coming in to dinner or not. Could Peggy tell him?
 
-No, Peggy didn’t know. But she’d ask old Battersea. She came back to the telephone in a moment. Old Battersea didn’t know; she rang off, and the husband and wife had no further reason to communicate until the following day. But the following day of course she would hear from him, for they never allowed twenty-four hours to pass if they were both in [[London]] without speaking to each other over the wire. They were not really happy for very long out of each other’s society, in spite of what the gossips said, and wherever Dolly might be dining, supping or lunching, it was quite even chances that Peggy would be seen there too.
+No, Peggy didn’t know. But she’d ask old Battersea. She came back to the telephone in a moment. Old Battersea didn’t know; she rang off, and the husband and wife had no further reason to communicate until the following day. But the following day of course she would hear from him, for they never allowed twenty-four hours to pass if they were both in [[settings/london|London]] without speaking to each other over the wire. They were not really happy for very long out of each other’s society, in spite of what the gossips said, and wherever Dolly might be dining, supping or lunching, it was quite even chances that Peggy would be seen there too.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5861,7 +5861,7 @@ L’Uomo di Confidenza fu congedato con tutta quella cortesia affascinante tipic
 
 A Dolly non piaceva sembrare troppo ansiosa, ma quando arrivò l’ora dell’appuntamento con Pongo, poiché nulla era stato scoperto riguardo alla fuga di quella ragazza e anche Pongo, a modo suo innocente, non aveva ottenuto alcuna informazione, iniziò ad allarmarsi seriamente. Non voleva disturbare sua moglie così presto nel corso della giornata; di solito la chiamava poco prima che andasse a vestirsi per la cena, e erano appena passate le sei e mezza. Peggy non aveva mai avuto bisogno di molto tempo per vestirsi; un’ora le era più che sufficiente. Probabilmente non sarebbe ancora arrivata. Ma l’ansia lo costringeva ad aspettare. Chiamò Battersea House; per fortuna lei era già lì! Le chiese se Mary Smith sapesse se suo zio sarebbe venuto a cena o meno. Poteva dirglielo?
 
-No, Peggy non lo sapeva. Ma avrebbe chiesto informazioni all’anziana Battersea. Tornò subito al telefono: l’anziana Battersea non ne sapeva nulla; lei riattaccò, e il marito e la moglie non ebbero più motivo di comunicare fino al giorno seguente. Ma naturalmente, il giorno dopo avrebbe ricevuto notizie da lui, perché mai permettevano che trascorressero ventiquattro ore senza parlarsi, se entrambi si trovavano a [[London|Londra]]? Non erano davvero felici quando non erano insieme, nonostante quello che dicevano i pettegoli. E ovunque Dolly andasse a pranzo o a cena, c’erano molte probabilità che anche Peggy si trovasse lì.
+No, Peggy non lo sapeva. Ma avrebbe chiesto informazioni all’anziana Battersea. Tornò subito al telefono: l’anziana Battersea non ne sapeva nulla; lei riattaccò, e il marito e la moglie non ebbero più motivo di comunicare fino al giorno seguente. Ma naturalmente, il giorno dopo avrebbe ricevuto notizie da lui, perché mai permettevano che trascorressero ventiquattro ore senza parlarsi, se entrambi si trovavano a [[settings/london|Londra]]? Non erano davvero felici quando non erano insieme, nonostante quello che dicevano i pettegoli. E ovunque Dolly andasse a pranzo o a cena, c’erano molte probabilità che anche Peggy si trovasse lì.
 
 
 
@@ -5878,7 +5878,7 @@ Dolly felt it that evening. It was not yet dark but the big old eighteenth-centu
 
 In Battersea House there happened to be quite a big dinner that night, and though Peggy had dined with her dear old friends twice in the last fortnight, they begged her as a favour to give them that evening, and she had consented. She did not forget her husband’s query. She asked the Duke in the middle of the plovers’ eggs whether he had heard anything of old Mr. Smith.
 
-The Duke, with his mouth full of three of those dainties, despatched the greater part of that food down his gullet in spite of his advanced years, choked a moment as the result, said something in German to a servant behind him, and when he had recovered his breath told her that the old Yankee had left [[London]]. The Duke detested Yankees; they had not the English way of doing business; there was something too smart about them altogether.
+The Duke, with his mouth full of three of those dainties, despatched the greater part of that food down his gullet in spite of his advanced years, choked a moment as the result, said something in German to a servant behind him, and when he had recovered his breath told her that the old Yankee had left [[settings/london|London]]. The Duke detested Yankees; they had not the English way of doing business; there was something too smart about them altogether.
 
 “Your husband he thinks that, eh Peggy?” Peggy got annoyed. He proceeded to expound his theories on the superiority of English business men to the Yankees.
 
@@ -5923,7 +5923,7 @@ Quella sera Dolly se ne rese conto. Non era ancora buio, ma quella grande stanza
 
 Quella sera, a Battersea House, si teneva un grande banchetto. Anche se Peggy aveva già pranzato due volte con i suoi cari vecchi amici nelle ultime due settimane, questi le avevano chiesto per favore di partecipare anche quella sera e lei aveva accettato. Non dimenticò però la domanda del marito: durante il pasto, mentre mangiavano uova di piviere, gli chiese se avesse sentito qualcosa riguardo al vecchio signor Smith.
 
-Il Duca, con la bocca piena di quelle delizie, ingoiò gran parte del cibo nonostante la sua età avanzata; per un momento soffocò, disse qualcosa in tedesco a una serva dietro di lui e, ripresosi, le comunicò che quel vecchio yankee aveva lasciato [[London|Londra]]. Il Duca odiava i yankees: non seguivano il modo inglese di fare affari; c’era qualcosa di troppo astuto in loro.
+Il Duca, con la bocca piena di quelle delizie, ingoiò gran parte del cibo nonostante la sua età avanzata; per un momento soffocò, disse qualcosa in tedesco a una serva dietro di lui e, ripresosi, le comunicò che quel vecchio yankee aveva lasciato [[settings/london|Londra]]. Il Duca odiava i yankees: non seguivano il modo inglese di fare affari; c’era qualcosa di troppo astuto in loro.
 
 “Tuo marito pensa davvero così, eh, Peggy?” Peggy si infastidì. Lui continuò a esporre le sue teorie sulla superiorità degli uomini d’affari inglesi rispetto ai yankees.
 
@@ -5982,7 +5982,7 @@ There are some departments of human life in which politicians are practised, and
 
 He was at the telephone again in no time,... Oh, the weary business! But (curious coincidence!) Battersea House was first engaged, then it would not reply, then he was given a wrong number. He binged up there at top speed in a taxi — it was quicker than telephoning. Peggy was not there; she had gone out. And the Duke? The Duke was in the City. And the Duchess? Nobody could tell him.
 
-The evening papers were out. The tapes in the Club were all agog, all that is great in [[London]], all that drinks, gambles and intrigues, was thoroughly awake. And it all shouted of the Indian Loan. Dolly felt in the great square hall of his Club one pair of eyes after another seeking him as he glanced at the telegrams. He went out and walked eastward, but even as he bought a paper the man asked him to make it tuppence; thereby proving the American adage that publicity is the thorn in the roseleaf bed of greatness. He could not even get across Trafalgar Square without two policemen making way for him; and he thought most miserably as he went, that all his splendour was tied upon a string. He popped on to a bus that was going towards the City and was at last at ease. In Fleet Street no one would know him, and he could continue on foot. He opened the paper at random — the habit was growing upon him — he recognised in the yellow colour the organ of the Straights, cultivated, international and insipid. The leading article praised him. It said that for once Dolly “had acted without ambiguity, and as the country demanded that her leader, by whatever accident he might have obtained his position, should act. We had duties to India as great as our rights.... Dusky fellow-subjects... conscience of Europe.... The determination to ear-mark half the new loan for relief works” — and the rest of it!— “No mere pauperisation, but useful labour and honest, reproductive experiment...!”
+The evening papers were out. The tapes in the Club were all agog, all that is great in [[settings/london|London]], all that drinks, gambles and intrigues, was thoroughly awake. And it all shouted of the Indian Loan. Dolly felt in the great square hall of his Club one pair of eyes after another seeking him as he glanced at the telegrams. He went out and walked eastward, but even as he bought a paper the man asked him to make it tuppence; thereby proving the American adage that publicity is the thorn in the roseleaf bed of greatness. He could not even get across Trafalgar Square without two policemen making way for him; and he thought most miserably as he went, that all his splendour was tied upon a string. He popped on to a bus that was going towards the City and was at last at ease. In Fleet Street no one would know him, and he could continue on foot. He opened the paper at random — the habit was growing upon him — he recognised in the yellow colour the organ of the Straights, cultivated, international and insipid. The leading article praised him. It said that for once Dolly “had acted without ambiguity, and as the country demanded that her leader, by whatever accident he might have obtained his position, should act. We had duties to India as great as our rights.... Dusky fellow-subjects... conscience of Europe.... The determination to ear-mark half the new loan for relief works” — and the rest of it!— “No mere pauperisation, but useful labour and honest, reproductive experiment...!”
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6009,7 +6009,7 @@ Esistono alcune aree della vita umana in cui i politici svolgono un ruolo attivo
 
 In un attimo era di nuovo al telefono. Oh, che noia! Ma (strana coincidenza!) prima la casa di Battersea House fu occupata, poi non rispose più, infine gli diedero un numero sbagliato. Corse lì in taxi a tutta velocità: era più veloce che telefonare. Peggy non c’era; era uscita. E il Duca? Il Duca era in città. E la Duchessa? Nessuno riusciva a dirglielo.
 
-I giornali serali erano già usciti. Nel Club, tutti erano in fermento: tutto ciò che era importante a [[London|Londra]], tutte le notizie riguardanti bevande, gioco d’azzardo e intrighi, veniva ampiamente discusso. E tutti parlavano dell’Ipotheca Indiana. Dolly, nella grande sala del Club, sentiva gli sguardi di molte persone fissarsi su di lui mentre leggeva i telegrammi. Uscì e si diresse verso est; anche quando comprò un giornale, il venditore gli chiese di pagarlo due penny, dimostrando così l’adagio americano secondo cui la pubblicità è proprio “la spina nel letto di rose” della grandezza. Non riuscì nemmeno a attraversare Trafalgar Square senza che due poliziotti gli facessero strada; mentre camminava, pensò con amarezza che tutto il suo splendore fosse legato a condizioni difficili da superare. Salì su un autobus diretto verso la City e finalmente si rilassò: in Fleet Street nessuno lo avrebbe riconosciuto, e poteva proseguire a piedi. Aprì un giornale a caso, quella abitudine stava prendendo piede in lui. Riconobbe subito il colore giallo tipico di quel quotidiano, organo ufficiale delle autorità britanniche, insipido e poco interessante dal punto di vista editoriale. L’articolo di prima pagina lo elogiava: diceva che, per una volta, Dolly “aveva agito senza ambiguità, proprio come il paese richiedeva che facesse il suo leader, indipendentemente da come avesse ottenuto quella posizione. Avevamo doveri verso l’India altrettanto importanti dei nostri diritti. Popoli sottoposti a condizioni difficili. La coscienza dell’Europa. La determinazione di destinare metà del nuovo prestito a opere di aiuto, ” E così via, “Nessuna semplice impoverizione, ma lavoro utile e progetti seri volti al miglioramento delle condizioni delle persone, ”
+I giornali serali erano già usciti. Nel Club, tutti erano in fermento: tutto ciò che era importante a [[settings/london|Londra]], tutte le notizie riguardanti bevande, gioco d’azzardo e intrighi, veniva ampiamente discusso. E tutti parlavano dell’Ipotheca Indiana. Dolly, nella grande sala del Club, sentiva gli sguardi di molte persone fissarsi su di lui mentre leggeva i telegrammi. Uscì e si diresse verso est; anche quando comprò un giornale, il venditore gli chiese di pagarlo due penny, dimostrando così l’adagio americano secondo cui la pubblicità è proprio “la spina nel letto di rose” della grandezza. Non riuscì nemmeno a attraversare Trafalgar Square senza che due poliziotti gli facessero strada; mentre camminava, pensò con amarezza che tutto il suo splendore fosse legato a condizioni difficili da superare. Salì su un autobus diretto verso la City e finalmente si rilassò: in Fleet Street nessuno lo avrebbe riconosciuto, e poteva proseguire a piedi. Aprì un giornale a caso, quella abitudine stava prendendo piede in lui. Riconobbe subito il colore giallo tipico di quel quotidiano, organo ufficiale delle autorità britanniche, insipido e poco interessante dal punto di vista editoriale. L’articolo di prima pagina lo elogiava: diceva che, per una volta, Dolly “aveva agito senza ambiguità, proprio come il paese richiedeva che facesse il suo leader, indipendentemente da come avesse ottenuto quella posizione. Avevamo doveri verso l’India altrettanto importanti dei nostri diritti. Popoli sottoposti a condizioni difficili. La coscienza dell’Europa. La determinazione di destinare metà del nuovo prestito a opere di aiuto, ” E così via, “Nessuna semplice impoverizione, ma lavoro utile e progetti seri volti al miglioramento delle condizioni delle persone, ”
 
 
 
@@ -6036,7 +6036,7 @@ Peggy, simply remarking “I’ve won, dear,” swept upstairs, and Dolly, who h
 
 As the result of that little interview both husband and wife were somewhat wealthier when they left the office. There had not passed one of those painful discussions of which the end must be loss to one party and an advantage to the other. They had agreed together upon a step which would raise the value of at least one investment and probably of two. Now when people find themselves a little wealthier they also find themselves commonly (for the moment) a little better tempered and more at ease with their kind.
 
-Dolly and Peggy walked back together down to the Embankment, leaving the office through a sort of hedge of obsequious dependents. Any one seeing them side by side would have taken them for brother and sister, save indeed that the difference in race was very apparent in their faces. If not for brother and sister, the casual observer would at least have taken them for two very close, long acquainted and very intimate friends, and he would not have been far wrong. For there was a sympathy between Dolly and his wife which is but too rarely found in the married lives of the wealthier classes to-day. And whenever Peggy was in [[London]] it made a difference to Dolly if he could not see her once or twice in the week. It was a consolation and a pleasure to him when in her busy life she could arrange to go to the same house-party with him from a Saturday to a Monday.
+Dolly and Peggy walked back together down to the Embankment, leaving the office through a sort of hedge of obsequious dependents. Any one seeing them side by side would have taken them for brother and sister, save indeed that the difference in race was very apparent in their faces. If not for brother and sister, the casual observer would at least have taken them for two very close, long acquainted and very intimate friends, and he would not have been far wrong. For there was a sympathy between Dolly and his wife which is but too rarely found in the married lives of the wealthier classes to-day. And whenever Peggy was in [[settings/london|London]] it made a difference to Dolly if he could not see her once or twice in the week. It was a consolation and a pleasure to him when in her busy life she could arrange to go to the same house-party with him from a Saturday to a Monday.
 
 People knew this, and sometimes asked them together. Their affection was common talk.
 
@@ -6073,7 +6073,7 @@ Peggy, semplicemente dicendo “Ho vinto, caro”, salì al piano di sopra; Doll
 
 Come risultato di quel breve colloquio, sia il marito che la moglie uscirono dall’ufficio in condizioni finanziarie leggermente migliori. Non era stata necessaria nessuna di quelle dolorose discussioni le cui conseguenze inevitabilmente comportavano perdite per una parte e vantaggi per l’altra. Avevano concordato insieme su un piano che avrebbe aumentato il valore di almeno un investimento, e probabilmente anche di due. Ora, quando le persone si trovano in condizioni finanziarie migliori, spesso (per il momento) diventano anche più tolleranti e più a loro agio con gli altri.
 
-Dolly e Peggy tornarono insieme verso l’Embankment, lasciando l’ufficio attraverso un gruppo di dipendenti ossequiosi. Chiunque le avesse viste una accanto all’altra le avrebbe scambiate per fratello e sorella, se non fosse stato per la evidente differenza razziale nei loro volti. Anche se non fossero stati fratello e sorella, un osservatore casuale le avrebbe sicuramente considerate due amiche molto intime e legate da una profonda affinità. E non si sarebbe sbagliato di molto. Infatti, tra Dolly e sua moglie esisteva un legame sincero e profondo, qualcosa che oggi è davvero raro nelle vite coniugali delle classi più agiate. Ogni volta che Peggy era a [[London|Londra]], per Dolly era importante poterla vedere almeno una o due volte alla settimana; per lui rappresentava un vero conforto e una grande gioia quando, nonostante la sua impegnata agenda, lei riusciva ad organizzare di partecipare alle stesse feste con lui, da sabato a lunedì.
+Dolly e Peggy tornarono insieme verso l’Embankment, lasciando l’ufficio attraverso un gruppo di dipendenti ossequiosi. Chiunque le avesse viste una accanto all’altra le avrebbe scambiate per fratello e sorella, se non fosse stato per la evidente differenza razziale nei loro volti. Anche se non fossero stati fratello e sorella, un osservatore casuale le avrebbe sicuramente considerate due amiche molto intime e legate da una profonda affinità. E non si sarebbe sbagliato di molto. Infatti, tra Dolly e sua moglie esisteva un legame sincero e profondo, qualcosa che oggi è davvero raro nelle vite coniugali delle classi più agiate. Ogni volta che Peggy era a [[settings/london|Londra]], per Dolly era importante poterla vedere almeno una o due volte alla settimana; per lui rappresentava un vero conforto e una grande gioia quando, nonostante la sua impegnata agenda, lei riusciva ad organizzare di partecipare alle stesse feste con lui, da sabato a lunedì.
 
 La gente lo sapeva, e a volte li chiedevano insieme. Il loro affetto era un argomento di conversazione comune.
 
@@ -6235,7 +6235,7 @@ Old G. Quinlan Smith so far forgot himself as to say “Rats!” The interpreter
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XIII
+CAPITOLO XIII
 
 “La differenza tra la procedura giudiziaria inglese e quella del Continente è che in Inghilterra un uomo è presunto innocente finché non viene dichiarato colpevole, mentre sul Continente è presunto colpevole finché non viene provata la sua innocenza.” — ADOLF BECK.
 
@@ -6288,7 +6288,7 @@ Il vecchio G. Quinlan Smith, in quel momento, dimenticò completamente se stesso
 <span class="atom-split" data-atom="chapter_13--part_02" data-title="Pongo and the Bull — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="setting/london"></span>
 
 
-“When you were restored to society,” continued the imperturbable magistrate in his grave monotone, “having purged your pain, your first act was to murder, under the most brutal circumstances, an aged woman in Nogent-le-Rotrou, where again her SILVER formed part of your booty. With this you escaped. You appear to have been in hiding under a false name in the British Colonies, in the United States of America, and in [[London]] for many years, and when the period of criminal limitation was past you returned to France in the year 1921. Translate,” he added, turning to the interpreter.
+“When you were restored to society,” continued the imperturbable magistrate in his grave monotone, “having purged your pain, your first act was to murder, under the most brutal circumstances, an aged woman in Nogent-le-Rotrou, where again her SILVER formed part of your booty. With this you escaped. You appear to have been in hiding under a false name in the British Colonies, in the United States of America, and in [[settings/london|London]] for many years, and when the period of criminal limitation was past you returned to France in the year 1921. Translate,” he added, turning to the interpreter.
 
 The interpreter went through his halting performance again, there was the same shouting, the same writing down, and the same vigorous denial from G. Quinlan, which now took the form of suggesting that his tormentors would have been better employed in rounding up larrikins and speakeasies than monkeying with his particular buzz-saw.
 
@@ -6332,7 +6332,7 @@ The translation of this was first spoken and then, as he remained stolid, shoute
 
 “Write it upon this and I will see that it is sent,” said the impassable magistrate, handing him a sheet of stamped paper.
 
-G. Quinlan wrote: “Mary Smith, 207 Charles Street, Mayfair, [[London]]. Send legal aid at once. Dangerous misunderstanding. Poste Restante, Tarascon. Uncle.”
+G. Quinlan wrote: “Mary Smith, 207 Charles Street, Mayfair, [[settings/london|London]]. Send legal aid at once. Dangerous misunderstanding. Poste Restante, Tarascon. Uncle.”
 
 The interpreter interpreted. The Juge destruction shook his head. “You will be good enough to date it, sir, from the prison,” he said. “I will not transmit the signature, ‘Uncle’; it is perhaps a code word. I must, if you please, have your signature: — all the names please, or it will not be legal.”
 
@@ -6349,13 +6349,13 @@ In the early afternoon, at about three o’clock, he was summoned once again to 
 
 <span class="qlang-split" data-lang="it"></span>
 
-“Quando fosti riammesso nella società,” continuò il magistrato imperturbabile con la sua voce monotona e grave, “dopo aver superato il dolore che provavi, il tuo primo atto fu uccidere, in circostanze estremamente brutali, una donna anziana a Nogent-le-Rotrou; anche in questo caso, l’argento di quella donna fece parte del tuo bottino. Con quel denaro riuscisti a fuggire. Sembra che tu sia rimasto nascosto con un nome falso nelle colonie britanniche, negli Stati Uniti d’America e a [[London|Londra]] per molti anni; quando scadde il termine di prescrizione, tornasti in Francia nel 1921.” Si rivolse all’interprete e aggiunse: “Traduci.”
+“Quando fosti riammesso nella società,” continuò il magistrato imperturbabile con la sua voce monotona e grave, “dopo aver superato il dolore che provavi, il tuo primo atto fu uccidere, in circostanze estremamente brutali, una donna anziana a Nogent-le-Rotrou; anche in questo caso, l’argento di quella donna fece parte del tuo bottino. Con quel denaro riuscisti a fuggire. Sembra che tu sia rimasto nascosto con un nome falso nelle colonie britanniche, negli Stati Uniti d’America e a [[settings/london|Londra]] per molti anni; quando scadde il termine di prescrizione, tornasti in Francia nel 1921.” Si rivolse all’interprete e aggiunse: “Traduci.”
 
 L'interprete ripeté ancora una volta la sua esibizione incerta: gli stessi urli, le stesse annotazioni e lo stesso deciso diniego da parte di G. Quinlan, che ora assumeva la forma di un suggerimento secondo cui i suoi tormentatori avrebbero potuto impiegare meglio il loro tempo a catturare teppisti e a controllare i locali notturni, piuttosto che occuparsi della sua particolare “fresa”.
 
 Quando l’interprete si disperò di poter tradurre quel testo, il Giudice Istruttore decise di rimproverarlo leggermente; quest’ultimo, però, ribatté sostenendo che quell’uomo anziano stesse semplicemente blaterando senza senso, e che non stesse nemmeno utilizzando lo slang dei ladri in uso all’epoca. Si prese persino la briga di consultare un dizionario tascabile, ma nonostante cercasse le parole “round”.
 
-#"Parla."
+"Parla."
 
 “Facile.”
 
@@ -6393,7 +6393,7 @@ La traduzione fu pronunciata per prima volta; poi, poiché l’interessato riman
 
 “Scrivilo qui e mi assicurerò che venga inviato,” disse il magistrato impenetrabile, porgendogli un foglio di carta timbrata.
 
-G. Quinlan scrisse: “Mary Smith, 207 Charles Street, Mayfair, [[London|Londra]]. Inviate immediatamente assistenza legale. Si tratta di un grave malinteso. Destinazione sconosciuta, Tarascon. Zio.”
+G. Quinlan scrisse: “Mary Smith, 207 Charles Street, Mayfair, [[settings/london|Londra]]. Inviate immediatamente assistenza legale. Si tratta di un grave malinteso. Destinazione sconosciuta, Tarascon. Zio.”
 
 L'interprete fece la traduzione. Il giudice scosse la testa. “Sarà sufficiente che lei firmi da dentro il carcere, signore”, disse. “Non trasmetterò la firma ‘Zio’; potrebbe trattarsi di una parola in codice. Devo però avere la sua firma, tutti i nomi, per favore, altrimenti non sarà legale.”
 
@@ -6449,13 +6449,13 @@ He had come at the right moment, at least as far as the spectacle was concerned.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XIV
+CAPITOLO XIV
 
-#Sua Signoria: “Era un toro irlandese?”
+Sua Signoria: “Era un toro irlandese?”
 
 TESTIMONE: “No, mio signore, era un toro normale, cioè, in realtà non era affatto un toro. Era un vitello.”
 
-#Il suo signorilità: “Stai attento, testimone… Stai molto attento!”
+Il suo signorilità: “Stai attento, testimone… Stai molto attento!”
 
 Corte dei Reati Capitali Riservati, III. J. II. 327 (1892).
 
@@ -6492,7 +6492,7 @@ At the moment when he took his place the bull, or, to speak more accurately, the
 
 Four gentlemen in faded and parti-coloured velvet designed after the fashions of the fifteenth century and by no means sufficient for the glaring southern daylight, appeared at the great gates at one end of the arena and blew faint and discordant notes upon four long trumpets, one of which had been badly battered during the transit of the company from Arles. At this sound, which, though not prolonged, was offensive, the bullock turned its head and bellowed in protest. Its little horns were capped with large erections of cork, on each of which fluttered a knot of gay ribbons. Having uttered this protest the animal relapsed into its former moody silence.
 
-When all these things were accomplished, the cavalcade entered the arena. It was numerous, poverty-stricken, and many members of it a little ill-tempered. Pongo, to whom the amusements of our continental friends and rivals were unfamiliar, was astonished to note that the ladies, dressed in various ancient fashions which recalled, though faintly, the frescoes of the Houses of Parliament, had, though it was broad daylight, covered their faces with white paint exactly as did ladies in [[London]] for dinner; while the gentlemen were not only insipid in their horsemanship, but many of them indifferent to the condition of their beards: all save one! He was a magnificent creature in tights and little velvet drawers, with a square, curly head and challenging crescented moustachios; he caused his horse to waltz in a surprising fashion, rode gaily with loud shouts round and round the bullock, galloped through the open doors and disappeared, never to return.
+When all these things were accomplished, the cavalcade entered the arena. It was numerous, poverty-stricken, and many members of it a little ill-tempered. Pongo, to whom the amusements of our continental friends and rivals were unfamiliar, was astonished to note that the ladies, dressed in various ancient fashions which recalled, though faintly, the frescoes of the Houses of Parliament, had, though it was broad daylight, covered their faces with white paint exactly as did ladies in [[settings/london|London]] for dinner; while the gentlemen were not only insipid in their horsemanship, but many of them indifferent to the condition of their beards: all save one! He was a magnificent creature in tights and little velvet drawers, with a square, curly head and challenging crescented moustachios; he caused his horse to waltz in a surprising fashion, rode gaily with loud shouts round and round the bullock, galloped through the open doors and disappeared, never to return.
 
 The cavalcade passed drearily round the oval, bowing and smiling in a perfunctory manner to the stolid matrons of Tarascon, not one of whom replied by eyelid or lip; they disappeared in turn through the open doors, which clanged upon them; the men with trumpets wheezed out another flourish; two hobbledehoys in the audience full of beans shouted “Assez! Assez!” and were promptly reprimanded by their mammas. Four gallant footmen were left to challenge the Monster from the ground, while two horsemen armed with considerable and over-heavy lances sat as a sort of half-backs behind the firingline; — and the dreadful game began!
 
@@ -6515,7 +6515,7 @@ Nel momento in cui prese il suo posto, il toro, o per essere più precisi, il bu
 
 Quattro gentiluomini, vestiti di velluto logoro e dai colori sgargianti, ispirati alle mode del XV secolo, apparvero ai grandi cancelli all’estremità dell’arena e suonarono note deboli e dissonanti su quattro lunghe trombe; una di queste era stata gravemente danneggiata durante il viaggio da Arles. A questo suono, che, sebbene breve, risultava fastidioso, il bue girò la testa e muggì in segno di protesta. I suoi piccoli corni erano adornati con grandi tappi di sughero, su ciascuno dei quali sventolava un nodo di nastri colorati. Dopo aver espresso questa protesta, l’animale tornò al suo solito silenzio malinconico.
 
-Quando tutte queste cose furono compiute, la cavalcata entrò nell’arena. Era numerosa, composta da persone povere e molte delle quali avevano un carattere piuttosto irascibile. Pongo, che non conosceva le abitudini di divertimento dei nostri amici e rivali continentali, rimase sorpreso nel notare che le signore, vestite in vari stili antichi che ricordavano, sebbene vagamente, i affreschi del Parlamento, avevano coperto il viso con la vernice bianca proprio come facevano le signore di [[London|Londra]] a cena; mentre i gentiluomini non solo erano scarsi nell’arte equestre, ma molti di loro ignoravano anche lo stato delle proprie barbe, tranne uno! Era un individuo davvero straordinario: indossava calzamaglie aderenti e piccoli pantaloni di velluto, aveva la testa quadrata e riccia e baffi a mezzaluna molto attraenti; faceva danzare il suo cavallo in modo sorprendente, cavalcava allegramente intorno all’altare sacrificale gridando ad alta voce, poi galoppava attraverso le porte aperte, per poi scomparire senza mai tornare.
+Quando tutte queste cose furono compiute, la cavalcata entrò nell’arena. Era numerosa, composta da persone povere e molte delle quali avevano un carattere piuttosto irascibile. Pongo, che non conosceva le abitudini di divertimento dei nostri amici e rivali continentali, rimase sorpreso nel notare che le signore, vestite in vari stili antichi che ricordavano, sebbene vagamente, i affreschi del Parlamento, avevano coperto il viso con la vernice bianca proprio come facevano le signore di [[settings/london|Londra]] a cena; mentre i gentiluomini non solo erano scarsi nell’arte equestre, ma molti di loro ignoravano anche lo stato delle proprie barbe, tranne uno! Era un individuo davvero straordinario: indossava calzamaglie aderenti e piccoli pantaloni di velluto, aveva la testa quadrata e riccia e baffi a mezzaluna molto attraenti; faceva danzare il suo cavallo in modo sorprendente, cavalcava allegramente intorno all’altare sacrificale gridando ad alta voce, poi galoppava attraverso le porte aperte, per poi scomparire senza mai tornare.
 
 La cavalcata percorse noiosamente l’ovale, inchinandosi e sorridendo in modo superficiale alle rigide matrone di Tarascon; nessuna di loro rispose nemmeno con un battito di ciglia o una parola. Poi scomparvero una dopo l’altra attraverso le porte aperte, che si richiusero con un tonfo. Gli uomini muniti di trombe suonarono un altro squillo; due ragazzi presenti tra il pubblico gridarono “Basta! Basta!”, ma furono immediatamente rimproverati dalle loro madri. Quattro valenti servitori rimasero a sfidare il Mostro da terra, mentre due cavalieri armati di lance pesanti e ingombranti si posizionarono alle spalle della linea di attacco. E così iniziò quel terribile gioco!
 
@@ -6620,7 +6620,7 @@ THE figure which entered Pongo’s place of confinement in company with the poli
 
 “Certainly!” said the little doctor nervously, “certainly! By all means!” He turned and spoke a few words in excellent French to the policeman, who only shook his head and said that he had no orders. “My dear sir,” said the little doctor again, “it is no doubt all a misunderstanding. But calm yourself. These paroxysms” — for at this point the Iberian blood in Pennybunt was again rising—” these paroxysms only excite further suspicion. I have no doubt we shall be able to explain all — explain all,” he nodded genially. “The place is strange to you, and you have perhaps taken something which has disturbed you. Come, come!”
 
-“Will you or will you not,” shouted Pongo, “tell him to take these damned things off my hands?” Then suddenly losing all the [[Hypocrisy|hypocrisy]] and reserve which is so necessary a part of his trade, he looked the little doctor full in the eye and said in a lower and concentrated tone: “Do you know who I am?”
+“Will you or will you not,” shouted Pongo, “tell him to take these damned things off my hands?” Then suddenly losing all the [[concepts/hypocrisy|hypocrisy]] and reserve which is so necessary a part of his trade, he looked the little doctor full in the eye and said in a lower and concentrated tone: “Do you know who I am?”
 
 “Certainly,” said the little doctor, quite at random, and with a terrified look. “Certainly. Calm yourself, my dear sir, calm yourself.” He fully expected his enraged fellow-countryman to announce that he was the Emperor of China or the creator of the universe. He had experience in such cases... sometimes they were only temporary... the hot sun of the south, and the rough wine and so forth.
 
@@ -6636,7 +6636,7 @@ THE figure which entered Pongo’s place of confinement in company with the poli
 
 “By all means,” said the old doctor again.
 
-“What on earth has ‘by all means’ to do with it?” snapped Pongo angrily. “I am Mr. Pennybunt, the Member of Parliament,” he added, for the [[Hypocrisy|hypocrisy]] of a lifetime was still too strong upon him to permit him to tell the whole truth at once, and to say that he was that Pennybunt who had been Home Secretary for so many years, and before that at the India Office, that he was the Leader of the Official Opposition, that it was the intention of the Party Game to make him Prime Minister in about three years, and that in general if he was badly treated he could make it hot for people.
+“What on earth has ‘by all means’ to do with it?” snapped Pongo angrily. “I am Mr. Pennybunt, the Member of Parliament,” he added, for the [[concepts/hypocrisy|hypocrisy]] of a lifetime was still too strong upon him to permit him to tell the whole truth at once, and to say that he was that Pennybunt who had been Home Secretary for so many years, and before that at the India Office, that he was the Leader of the Official Opposition, that it was the intention of the Party Game to make him Prime Minister in about three years, and that in general if he was badly treated he could make it hot for people.
 
 “The Member of Parliament!” said the little doctor, opening his eyes. “Not a relative of the Mr. Pennybunt, the leader of my party?”
 
@@ -6663,7 +6663,7 @@ And while Pennybunt fumed, he wrote upon a scrap of paper, the policeman shouted
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XV
+CAPITOLO XV
 
 “È crudele tenere qualsiasi animale in cattività.” — La Duchessa di Batterssea, durante il Congresso delle Donne a Bradford, nel luglio 1907.
 
@@ -6679,7 +6679,7 @@ La figura che entrò nella prigione di Pongo insieme al poliziotto era quella di
 
 “Certamente!” disse il piccolo dottore nervosamente, “certamente! Senza alcun problema!” Si girò e parlò qualche parola in ottimo francese con l’agente di polizia, che però scosse solo la testa, dicendo di non avere ricevuto alcun ordine. “Mio caro signore,” riprese il piccolo dottore, “senza dubbio si tratta solo di un malinteso. Ma calmiarsi. Questi attacchi” – perché in quel momento il sangue iberico presente in Pennybunt stava nuovamente facendosi sentire – “questi attacchi non fanno altro che suscitare ulteriori sospetti. Sono sicuro che riusciremo a spiegare tutto. Spiegarlo completamente,” aggiunse, annuendo cordialmente. “Questo posto è nuovo per lei; forse ha preso qualcosa che l’ha turbata. Venga, venga!”
 
-“Lo farai o non lo farai,” gridò Pongo, “di fargli togliere queste maledette cose dalle mie mani?” Poi, all'improvviso, perdendo tutta la [[Hypocrisy|ipocrisia]] e la riservatezza che sono parte essenziale del suo mestiere, guardò il piccolo dottore negli occhi e disse con voce più bassa e concentrata: “Sai chi sono?”
+“Lo farai o non lo farai,” gridò Pongo, “di fargli togliere queste maledette cose dalle mie mani?” Poi, all'improvviso, perdendo tutta la [[concepts/hypocrisy|ipocrisia]] e la riservatezza che sono parte essenziale del suo mestiere, guardò il piccolo dottore negli occhi e disse con voce più bassa e concentrata: “Sai chi sono?”
 
 “Certamente,” disse il piccolo dottore, del tutto casualmente e con un'espressione terrorizzata. “Certamente. Si calmi, caro signore, si calmi.” Si aspettava davvero che il suo compatriota infuriato annunciasse di essere l’Imperatore della Cina o il creatore dell’universo. Aveva esperienza in casi del genere, a volte quelle reazioni erano solo temporanee, forse a causa del caldo sole del sud, del vino forte, o di altre ragioni simili.
 
@@ -6695,7 +6695,7 @@ La figura che entrò nella prigione di Pongo insieme al poliziotto era quella di
 
 “Certamente,” disse di nuovo il vecchio dottore.
 
-“Ma che cosa c’entra esattamente ‘a tutti i costi’ con questa faccenda?” sbottò Pongo arrabbiato. “Io sono il signor Pennybunt, membro del Parlamento,” aggiunse, perché l’[[Hypocrisy|ipocrisia]] di una vita intera era ancora troppo forte in lui per permettergli di dire subito tutta la verità: che lui era proprio quel Pennybunt che aveva ricoperto il ruolo di Segretario di Stato per molti anni, e prima ancora presso l’Ufficio dell’India; che era il leader dell’Opposizione ufficiale; che l’intento del Partito era quello di farlo diventare Primo Ministro entro circa tre anni; e che, in generale, se veniva trattato male, avrebbe potuto causare molti problemi alle persone coinvolte.
+“Ma che cosa c’entra esattamente ‘a tutti i costi’ con questa faccenda?” sbottò Pongo arrabbiato. “Io sono il signor Pennybunt, membro del Parlamento,” aggiunse, perché l’[[concepts/hypocrisy|ipocrisia]] di una vita intera era ancora troppo forte in lui per permettergli di dire subito tutta la verità: che lui era proprio quel Pennybunt che aveva ricoperto il ruolo di Segretario di Stato per molti anni, e prima ancora presso l’Ufficio dell’India; che era il leader dell’Opposizione ufficiale; che l’intento del Partito era quello di farlo diventare Primo Ministro entro circa tre anni; e che, in generale, se veniva trattato male, avrebbe potuto causare molti problemi alle persone coinvolte.
 
 “Il membro del Parlamento!”, disse il piccolo dottore aprendo gli occhi. “Non è forse un parente di quel signor Pennybunt, il leader del mio partito?”
 
@@ -6794,7 +6794,7 @@ To say that Bertot was annoyed when he heard this deposition would be most faint
 
 All of which outburst did but the more convince the Juge d’Instruction that he had in Smith a genuine article.
 
-It did not take long to confirm that conviction. A perfect hail of telegrams began to fall upon Tarascon, its Sub-Prefect, its Chief of Police, its station-master, its hotel-keepers, and the Juge d’Instruction himself. One cannot arrest millionaires with impunity. In well-governed countries they are never arrested at all, and even in a wild [[Democracy|democracy]] to arrest them is Mug’s game.
+It did not take long to confirm that conviction. A perfect hail of telegrams began to fall upon Tarascon, its Sub-Prefect, its Chief of Police, its station-master, its hotel-keepers, and the Juge d’Instruction himself. One cannot arrest millionaires with impunity. In well-governed countries they are never arrested at all, and even in a wild [[concepts/democracy|democracy]] to arrest them is Mug’s game.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6843,7 +6843,7 @@ Il piccolo dottore andò a chiedere permesso, lo ottenne, prese Pennybunt con s�
 
 “Signor Smith,” gridò Pongo con rispetto nell’orecchio dell’uomo anziano, “accetterà di seguire il mio consiglio? Spero davvero che lo faccia. La situazione è molto difficile.”
 
-# "Che cos’è?" disse il signor Smith
+"Che cos’è?" disse il signor Smith
 
 “Prima di tutto, avete delle prove d’identità?”
 
@@ -6920,7 +6920,7 @@ There was the inscription, and apparently an influence still remained strong upo
 
 The financier winked, and as he winked he poked his bony finger into Pongo’s side. He wrapped his treasure up again most carefully, slipped it into an inner pocket which buttoned with two buttons, and which no doubt he would like to have padlocked as well. He heaved a senile sigh of complete contentment.
 
-Pennybunt’s moment had come. He did it cleverly and carefully, talking as though after all it was an important subject and might as well be mentioned now that they had leisure in the train, for when they got to [[London]] each of them would be very fully occupied.
+Pennybunt’s moment had come. He did it cleverly and carefully, talking as though after all it was an important subject and might as well be mentioned now that they had leisure in the train, for when they got to [[settings/london|London]] each of them would be very fully occupied.
 
 The old man nodded gently, suggesting a change of detail here and there; the one was free to bellow in the privacy of the suite, the other therefore could hear — and before they had reached Lyons the loan was safe.
 
@@ -6973,7 +6973,7 @@ C'era quell'iscrizione, e apparentemente un'influenza ancora forte esercitava su
 
 Il finanziere fece l’occhiolino e, mentre lo faceva, infilò il dito ossuto nel fianco di Pongo. Avvolse di nuovo con cura il proprio “tesoro”, lo mise in una tasca interna chiusa da due bottoni, e senza dubbio avrebbe voluto anche chiuderla a chiave. Emise poi un sospiro di totale soddisfazione, tipico di una persona anziana.
 
-Il momento di Pennybunt era arrivato. Lo fece in modo intelligente e attento, parlando come se si trattasse davvero di un argomento importante che valeva la pena affrontare ora che avevano del tempo libero sul treno, perché una volta arrivati a [[London|Londra]] ognuno di loro sarebbe stato molto impegnato.
+Il momento di Pennybunt era arrivato. Lo fece in modo intelligente e attento, parlando come se si trattasse davvero di un argomento importante che valeva la pena affrontare ora che avevano del tempo libero sul treno, perché una volta arrivati a [[settings/london|Londra]] ognuno di loro sarebbe stato molto impegnato.
 
 L’uomo anziano annuì dolcemente, suggerendo qualche modifica qua e là nei dettagli; uno poteva urlare liberamente nella privacy della sua suite, l’altro quindi poteva sentire. E prima ancora di arrivare a Lyons, il prestito era al sicuro.
 
@@ -7014,7 +7014,7 @@ All that sort of thing was the fringe and the frills. Pongo turned with much mor
 
 It was clear that the loan was to be taken for granted by the Humane Public as ear-marked for the relief works and that the Peabody Yid was at it. There was no room for delay; Pongo roust get home at once!
 
-He tore the aged Smith from the delights of that foreign capital, and on the Friday morning of Whitsun week, after a night journey to which no one should have subjected the shrivelled millionaire on the top of so many other ordeals, the Leader of the Opposition and the American financier reached [[London]] as men reach harbour out of heavy storms at sea.
+He tore the aged Smith from the delights of that foreign capital, and on the Friday morning of Whitsun week, after a night journey to which no one should have subjected the shrivelled millionaire on the top of so many other ordeals, the Leader of the Opposition and the American financier reached [[settings/london|London]] as men reach harbour out of heavy storms at sea.
 
 Old Mr. Smith went to Mary’s house to sleep out the morning. Pongo went to his club and found there just such letters as he had expected. Parliament was to meet upon the Monday, and Dolly particularly insisted upon this: that Pongo should come down to Habberton at once. Mary Smith was going to insist on her uncle; there would be the usual party. Dolly himself would be there, and on the Sunday all the last things could be arranged.
 
@@ -7047,7 +7047,7 @@ They were in the billiard-room, Pongo was walking round the table, and Victoria 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XVI
+CAPITOLO XVI
 
 NEL TRENTE: Hai il tuo biglietto? [Avay voo voter beeyay.]
 
@@ -7077,7 +7077,7 @@ Tutto quel genere di cose rappresentava soltanto elementi secondari e superflui.
 
 Era chiaro che il prestito veniva considerato qualcosa di scontato dalla comunità umana, essendo destinato esclusivamente ai lavori di assistenza, e che Peabody Yid era coinvolto in questa operazione. Non c’era tempo da perdere; Pongo doveva tornare a casa immediatamente!
 
-Strappò il vecchio Smith dalle delizie di quella capitale straniera; e nella mattina di venerdì della settimana di Pentecoste, dopo un viaggio notturno che nessuno avrebbe dovuto far subire a quel milionario invecchiato, tra tante altre prove difficili, il leader dell’Opposizione e il finanziere americano arrivarono a [[London|Londra]], proprio come le navi raggiungono il porto dopo tempeste marine violente.
+Strappò il vecchio Smith dalle delizie di quella capitale straniera; e nella mattina di venerdì della settimana di Pentecoste, dopo un viaggio notturno che nessuno avrebbe dovuto far subire a quel milionario invecchiato, tra tante altre prove difficili, il leader dell’Opposizione e il finanziere americano arrivarono a [[settings/london|Londra]], proprio come le navi raggiungono il porto dopo tempeste marine violente.
 
 Il vecchio signor Smith andò a casa di Mary per trascorrere la mattina lì. Pongo andò al suo club e trovò proprio le lettere che si aspettava. Il Parlamento avrebbe riunito lunedì, e Dolly insistette particolarmente affinché Pongo andasse subito a Habberton. Mary Smith avrebbe insistito con suo zio; ci sarebbe stata la solita compagnia. Anche Dolly stesso sarebbe stato lì, e domenica si potevano sistemare tutte le ultime cose necessarie.
 
@@ -7136,7 +7136,7 @@ Dolly was occupied with other things. He answered with indifference, “Oh yes!�
 
 “No, I don’t,” said Mary stolidly.
 
-“Well, I mean,” said Dolly fidgeting, “here I am, and you haven’t even got a telephone in the beastly place! How am I to know what Peggy and that old swine in [[London]] are arranging with the Straights for to-morrow?”
+“Well, I mean,” said Dolly fidgeting, “here I am, and you haven’t even got a telephone in the beastly place! How am I to know what Peggy and that old swine in [[settings/london|London]] are arranging with the Straights for to-morrow?”
 
 “Really, I can’t tell,” answered Mary with dignity. “You ought to know your wife better than I do. What d’you mean?”
 
@@ -7233,7 +7233,7 @@ Dolly era impegnata in altre cose. Rispose con indifferenza: “Oh sì!” Era n
 
 “No, non lo faccio,” disse Mary in modo testardo.
 
-“Beh, voglio dire, ”, disse Dolly, agitandosi, “eccomi qui, e voi non avete nemmeno un telefono in questo posto orribile! Come faccio a sapere cosa Peggy e quel vecchio maiale di [[London|Londra]] stiano combinando con i ‘Straight’ per domani?”
+“Beh, voglio dire, ”, disse Dolly, agitandosi, “eccomi qui, e voi non avete nemmeno un telefono in questo posto orribile! Come faccio a sapere cosa Peggy e quel vecchio maiale di [[settings/london|Londra]] stiano combinando con i ‘Straight’ per domani?”
 
 “Davvero, non riesco a capire,” rispose Mary con dignità. “Dovresti conoscere tua moglie meglio di me. Cosa intendi dire?”
 
@@ -7361,9 +7361,9 @@ Between them the two men arranged their programme very clearly; Pongo took it to
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XVII
+CAPITOLO XVII
 
-#"Non solo non dobbiamo temere per l’Unità, ma dovremmo essere felici di vedere tante diverse componenti all’interno della Chiesa."
+"Non solo non dobbiamo temere per l’Unità, ma dovremmo essere felici di vedere tante diverse componenti all’interno della Chiesa."
 
 Il vescovo di Shoreham.
 
@@ -7466,7 +7466,7 @@ The only good afternoon train of that Sunday bore the Prime Minister up to town.
 
 As he finished the letter he said to himself (and he was almost tempted to write it down in his note); “Thank God we’ve got rid of the Irish!”
 
-So passed that Sunday night. By noon of the next day Dolly was preparing, up in his room in [[London]], for the critical moment. He rarely wrote a speech, but that speech he had written, and he was working it out with Eddie, carefully and conscientiously; and he was seeing (in the intervals of his work) that the Press was properly worked for the results of its delivery. There is always a little leakage in such things; certain securities drooped in sympathy with Hindoos in the City during those hours.
+So passed that Sunday night. By noon of the next day Dolly was preparing, up in his room in [[settings/london|London]], for the critical moment. He rarely wrote a speech, but that speech he had written, and he was working it out with Eddie, carefully and conscientiously; and he was seeing (in the intervals of his work) that the Press was properly worked for the results of its delivery. There is always a little leakage in such things; certain securities drooped in sympathy with Hindoos in the City during those hours.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7521,7 +7521,7 @@ L’unico treno pomeridiano disponibile in quella domenica portò il Primo Minis
 
 Quando finì di scrivere la lettera, si disse (e quasi ebbe l’impulso di scriverlo anche sul suo taccuino): “Grazie a Dio che ci siamo liberati degli irlandesi!”
 
-Quella domenica sera passò così. A mezzogiorno del giorno seguente, Dolly si stava preparando, nella sua stanza a [[London|Londra]], per quel momento cruciale. Raramente scriveva discorsi, ma quello lo aveva scritto e lo stava ripassando con Eddie, con cura e attenzione; inoltre, osservava (tra un lavoro e l’altro) che i media stavano lavorando correttamente per promuovere i risultati del suo discorso. In queste situazioni, però, c’è sempre qualche “perdita”: in quegli ore, alcune azioni finanziarie persero valore a causa delle reazioni negative dei mercanti londinesi.
+Quella domenica sera passò così. A mezzogiorno del giorno seguente, Dolly si stava preparando, nella sua stanza a [[settings/london|Londra]], per quel momento cruciale. Raramente scriveva discorsi, ma quello lo aveva scritto e lo stava ripassando con Eddie, con cura e attenzione; inoltre, osservava (tra un lavoro e l’altro) che i media stavano lavorando correttamente per promuovere i risultati del suo discorso. In queste situazioni, però, c’è sempre qualche “perdita”: in quegli ore, alcune azioni finanziarie persero valore a causa delle reazioni negative dei mercanti londinesi.
 
 
 
@@ -7534,7 +7534,7 @@ Peggy, alarmed at the gloom of the household, and told a little nervously by the
 
 When there is a doubt with regard to the issue of a great Parliamentary day, the best thing an editor can do is to consult the Whips; and since every journal must depend more or less upon one source of information, it is a great saving when all the newspapers go to one source of information.
 
-The agency by which the [[London]] papers were supplied their political news in 1925 was a most beautiful example of efficient and economic administration. Its capital was not large, but its methods were too perfect to admit of competition. The Duke of Battersea, himself perhaps the best organiser of the age, had laid down its general lines; and through his influence (he was not a Director) the correspondents of this admirable office could obtain with ease and celerity whatever it was thought proper for the public to know.
+The agency by which the [[settings/london|London]] papers were supplied their political news in 1925 was a most beautiful example of efficient and economic administration. Its capital was not large, but its methods were too perfect to admit of competition. The Duke of Battersea, himself perhaps the best organiser of the age, had laid down its general lines; and through his influence (he was not a Director) the correspondents of this admirable office could obtain with ease and celerity whatever it was thought proper for the public to know.
 
 Now upon that Monday, the Monday week of Whitsun, 1925, there were things which should have been known by, but were mysteriously hidden from, not only the vulgar but the great.
 
@@ -7603,7 +7603,7 @@ Peggy, allarmata dal cupo atmosfera che regnava in casa e informata con un po’
 
 Quando sorge un dubbio riguardo alla questione di una importante giornata parlamentare, la cosa migliore che un editore possa fare è consultare i responsabili delle comunicazioni del partito; e poiché ogni giornale deve in qualche misura affidarsi a una sola fonte di informazioni, è molto utile quando tutti i giornali si rivolgono alla stessa fonte.
 
-L’agenzia attraverso la quale i giornali di [[London|Londra]] ricevevano le loro notizie politiche nel 1925 rappresentava un esempio straordinario di amministrazione efficiente ed economica. Il suo capitale non era elevato, ma i suoi metodi erano così perfetti da rendere impossibile la concorrenza. Il Duca di Battersea, forse il miglior organizzatore del suo tempo, ne aveva stabilito le linee generali; e grazie alla sua influenza (non essendo uno dei direttori dell’agenzia), i corrispondenti di questo eccellente ente riuscivano facilmente e rapidamente ad ottenere qualsiasi informazione si ritenesse opportuno che il pubblico conoscesse.
+L’agenzia attraverso la quale i giornali di [[settings/london|Londra]] ricevevano le loro notizie politiche nel 1925 rappresentava un esempio straordinario di amministrazione efficiente ed economica. Il suo capitale non era elevato, ma i suoi metodi erano così perfetti da rendere impossibile la concorrenza. Il Duca di Battersea, forse il miglior organizzatore del suo tempo, ne aveva stabilito le linee generali; e grazie alla sua influenza (non essendo uno dei direttori dell’agenzia), i corrispondenti di questo eccellente ente riuscivano facilmente e rapidamente ad ottenere qualsiasi informazione si ritenesse opportuno che il pubblico conoscesse.
 
 Quel lunedì, il lunedì della settimana di Pentecoste del 1925, ci furono cose che avrebbero dovuto essere conosciute, ma che misteriosamente vennero nascoste non solo al popolo comune, ma anche alle persone importanti.
 
@@ -7703,7 +7703,7 @@ Between him and the wood was a double line of wire, such a thing as one can bend
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XVIII
+CAPITOLO XVIII
 
 “Accadde all’improvviso – era un normale tiro di Bolt del Bull!” Estratto dalla corrispondenza di Lady Bramber.
 
@@ -8021,7 +8021,7 @@ The House was very crowded. Every one was waiting for the announcement of the po
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO DICIANNOVE
+CAPITOLO DICIANNOVE
 
 “A volte, gli animali vengono colpiti da un improvviso attacco senza alcuna ragione apparente, e l’intero branco scappa in preda al panico, correndo follemente attraverso le pampas.” — “Natural History of South America” di Gibson, vol. ii, p. 164.
 
@@ -8094,7 +8094,7 @@ He dared not interweave it with the slanging of Pongo. A breath, a hint, that Po
 
 He dared not say that Pongo would back him up. There are crudities and cynicisms which even the party system does not permit — which its own sense of self-preservation does not permit.
 
-He sweated haltingly through the first dozen sentences and then began what was in effect a totally new speech. And heavens, how it failed! One speech tacked on to the end of another is never a very pretty thing to hear. But that day of all days! The Diplomatic Gallery looked over curiously, and the Argentine Minister, who stood for such important interests and was now the most popular foreigner in [[London]], remarked to a noble German that Dolly was getting ready to retire. The Duke of Battersea dominated the scene with his unmoved, heavy, and largely developed face. He was waiting for the declaration — and the declaration came.
+He sweated haltingly through the first dozen sentences and then began what was in effect a totally new speech. And heavens, how it failed! One speech tacked on to the end of another is never a very pretty thing to hear. But that day of all days! The Diplomatic Gallery looked over curiously, and the Argentine Minister, who stood for such important interests and was now the most popular foreigner in [[settings/london|London]], remarked to a noble German that Dolly was getting ready to retire. The Duke of Battersea dominated the scene with his unmoved, heavy, and largely developed face. He was waiting for the declaration — and the declaration came.
 
 Dolly meant it to be virile and short. But it wasn’t. It was no more virile and short than he was. It was what he was, old, thin, jaded and jointed to excess. He smiled unwittingly and apologised (in tone at least) throughout, and once or twice he was snappish against an imaginary enemy. He excused his own independence before he asserted it; he looked round twice uncertainly to his following, and he lost his place more than once when he heard the Opposition, or rather the wilder members of it, interrupt with a cackle. But one way or another he got it out at last—” The Government was determined that the money received and voted in this manner should be free for use in any contingency whatsoever that might arise.”
 
@@ -8131,7 +8131,7 @@ Non osava mescolare quelle accuse con le offese rivolte a Pongo. Un semplice res
 
 Non osava dire che Pongo lo avrebbe sostenuto. Ci sono brutalità e cinismi che nemmeno il sistema partitico permette, che il proprio senso di autoconservazione non tollera.
 
-Sudava nervosamente durante le prime dozzine di frasi, poi iniziò a pronunciare, di fatto, un discorso completamente nuovo. E, per tutti i cieli, quanto fallì! Un discorso aggiunto alla fine di un altro non è mai qualcosa di piacevole da ascoltare. Ma proprio quel giorno, tra tutti i giorni possibili! La Galleria Diplomatica osservava con curiosità; il Ministro argentino, che rappresentava interessi così importanti e che ormai era il straniero più popolare di [[London|Londra]], commentò con un nobile tedesco che Dolly stava per andare in pensione. Il Duca di Battersea dominava la scena con il suo volto impassibile, grave e ben definito. Aspettava quella dichiarazione. E la dichiarazione arrivò.
+Sudava nervosamente durante le prime dozzine di frasi, poi iniziò a pronunciare, di fatto, un discorso completamente nuovo. E, per tutti i cieli, quanto fallì! Un discorso aggiunto alla fine di un altro non è mai qualcosa di piacevole da ascoltare. Ma proprio quel giorno, tra tutti i giorni possibili! La Galleria Diplomatica osservava con curiosità; il Ministro argentino, che rappresentava interessi così importanti e che ormai era il straniero più popolare di [[settings/london|Londra]], commentò con un nobile tedesco che Dolly stava per andare in pensione. Il Duca di Battersea dominava la scena con il suo volto impassibile, grave e ben definito. Aspettava quella dichiarazione. E la dichiarazione arrivò.
 
 Dolly aveva intenzione che fosse qualcosa di virile e breve. Ma non lo era affatto. Non era né più virile né più breve di lui. Era semplicemente ciò che era: vecchio, magro, stanco del mondo e con le articolazioni rigide. Sorrideva senza rendersene conto e, per tutto il tempo, si scusava (almeno nel tono delle sue parole); una o due volte anche reagì in modo brusco verso un “nemico” immaginario. Si giustificava della propria indipendenza prima ancora di affermarla apertamente; guardava intorno più volte, incerto riguardo ai suoi seguaci, e più di una volta perdeva il filo del discorso quando i membri più radicali dell’Opposizione lo interrompevano con risate. Ma, in un modo o nell’altro, riuscì finalmente a esprimersi: “Il governo era deciso che i fondi ricevuti e votati in questo modo potessero essere utilizzati liberamente in qualsiasi situazione imprevista potesse verificarsi.”
 

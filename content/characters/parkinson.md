@@ -14,4 +14,10 @@ Chesterton's placid, skilful croquet-playing companion in 'The Perfect Game,' th
 
 <div class="concept-works" data-slug="characters/parkinson"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/tremendous-trifles-(chesterton)|Tremendous Trifles (Chesterton)]]
+
+</div>
+
 #graph/character

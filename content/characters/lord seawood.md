@@ -14,4 +14,10 @@ The absent-minded, heraldry-obsessed aristocratic owner of Seawood Abbey, whose 
 
 <div class="concept-works" data-slug="characters/lord-seawood"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/don-quixote-(chesterton)|Don Quixote (Chesterton)]]
+
+</div>
+
 #graph/character

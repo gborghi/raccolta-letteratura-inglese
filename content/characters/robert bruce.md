@@ -14,4 +14,10 @@ Robert the Bruce is examined as the semi-legendary Scottish hero-king whose figh
 
 <div class="concept-works" data-slug="characters/robert-bruce"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-glass-walking-stick-(chesterton)|The Glass Walking Stick (Chesterton)]]
+
+</div>
+
 #graph/character

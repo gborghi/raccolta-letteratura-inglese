@@ -26,7 +26,7 @@ tags:
   - setting/battlefield
 ---
 
-*by Chesterton*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
+*by Chesterton*  ·  **Cluster:** [[clusters/war-and-its-cost-·-american-civil-war-·-battlefield|War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 
 > A short, martial lyric on the city, parliament and the call 'Who goes home?', turning a civic cry into a meditation on blood, liberty, victory and the soul's homecoming after death.
@@ -37,11 +37,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[War as Glory]]
-**Motifs:** [[Blood]], [[City]], [[Grave]], [[Journey]], [[Drums and Bugles]], [[Home]]
-**Themes & Concepts:** [[Mortality]], [[Nationalism and Patriotism]], [[War and its Cost]], [[Heroism]], [[Freedom and Liberty]], [[Providence]]
-**Forms & Genres:** [[Lyric]], [[Comic Verse Song]]
-**Settings:** [[London]], [[Battlefield]]
+**Topoi:** [[topoi/war-as-glory|War as Glory]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/city|City]], [[motifs/grave|Grave]], [[motifs/journey|Journey]], [[motifs/drums-and-bugles|Drums and Bugles]], [[motifs/home|Home]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/heroism|Heroism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/providence|Providence]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/comic-verse-song|Comic Verse Song]]
+**Settings:** [[settings/london|London]], [[settings/battlefield|Battlefield]]
 
 ## Testo integrale / Full text
 

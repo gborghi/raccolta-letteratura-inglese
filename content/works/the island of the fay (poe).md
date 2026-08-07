@@ -28,7 +28,7 @@ tags:
   - form/essay
 ---
 
-*by Poe*  ·  **Cluster:** [[Ode · Nature vs Civilization · Pastoral Retreat]]
+*by Poe*  ·  **Cluster:** [[clusters/ode-·-nature-vs-civilization-·-pastoral-retreat|Ode · Nature vs Civilization · Pastoral Retreat]]
 
 > [!abstract] 
 > Meditative prose-poem on solitude and natural scenery in which a solitary dreamer watches a fairy circle an island, her vanishing shadow allegorizing the cycle of life and death.
@@ -38,11 +38,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Book of Nature]], [[Locus Amoenus]], [[Memento Mori]]
-**Motifs:** [[Nature]], [[River]], [[Water]], [[Light and Dark]], [[Death]], [[Supernatural]], [[Seasons]]
-**Themes & Concepts:** [[Mortality]], [[Transience]], [[Sublime]], [[Wonder and Gratitude]], [[Natural Order]], [[Imagination]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Settings:** [[Enchanted Wood (2)]]
+**Topoi:** [[topoi/book-of-nature|Book of Nature]], [[topoi/locus-amoenus|Locus Amoenus]], [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[concepts/nature|Nature]], [[motifs/river|River]], [[motifs/water|Water]], [[motifs/light-and-dark|Light and Dark]], [[motifs/death|Death]], [[motifs/supernatural|Supernatural]], [[motifs/seasons|Seasons]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/transience|Transience]], [[concepts/sublime|Sublime]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/natural-order|Natural Order]], [[concepts/imagination|Imagination]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Settings:** [[settings/enchanted-wood-(2)|Enchanted Wood (2)]]
 
 ## Testo integrale / Full text
 

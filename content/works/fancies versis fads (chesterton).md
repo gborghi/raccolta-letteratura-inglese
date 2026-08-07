@@ -77,7 +77,7 @@ tags:
 
 # Fancies Versis Fads
 
-*by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
+*by Chesterton*  ·  **Cluster:** [[clusters/paradox-·-food-and-feasting-·-aphorism|Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 
 > A 1923 collection of Chesterton essays defending traditional common sense and wonder against modern fads (psycho-analysis, free verse, prohibition, divorce, evolutionary theory); literary criticism and social satire built on paradox.
@@ -91,20 +91,20 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Puritanism]], [[New England]], [[Arthurian Legend]], [[Milton]], [[Jonathan Swift]]
+**Historical References:** [[historical-references/puritanism|Puritanism]], [[historical-references/new-england|New England]], [[historical-references/arthurian-legend|Arthurian Legend]], [[historical-references/milton|Milton]], [[historical-references/jonathan-swift|Jonathan Swift]]
 
-**Archetypes:** [[Rebel]], [[Tyrant]], [[Martyr Saint]]
+**Archetypes:** [[archetypes/rebel|Rebel]], [[archetypes/tyrant|Tyrant]], [[archetypes/martyr-saint|Martyr Saint]]
 
-**Settings:** [[London]], [[Medieval England (2)]], [[America]], [[New England America]], [[Venice]], [[Denmark]], [[Ancient Rome]], [[Europe]]
+**Settings:** [[settings/london|London]], [[settings/medieval-england-(2)|Medieval England (2)]], [[settings/america|America]], [[settings/new-england-america|New England America]], [[settings/venice|Venice]], [[settings/denmark|Denmark]], [[settings/ancient-rome|Ancient Rome]], [[settings/europe|Europe]]
 
-**Motifs:** [[Food and Feasting]], [[Clothing and Costume]], [[Swords and Weapons]], [[Imprisonment (2)]], [[Ghosts]], [[Wheel]]
+**Motifs:** [[motifs/food-and-feasting|Food and Feasting]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/imprisonment-(2)|Imprisonment (2)]], [[motifs/ghosts|Ghosts]], [[motifs/wheel|Wheel]]
 
-**Topoi:** [[World Upside Down]], [[Poet as Prophet]], [[Theatrum Mundi]], [[Golden Age]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/poet-as-prophet|Poet as Prophet]], [[topoi/theatrum-mundi|Theatrum Mundi]], [[topoi/golden-age|Golden Age]]
 
-**Characters:** [[Hamlet]], [[Portia]], [[Shylock]], [[Macbeth]], [[Lady Macbeth]], [[Banquo]], [[Claudius]], [[Falstaff]], [[Sam Weller]], [[Tony Weller]], [[Samuel Pickwick]], [[Artful Dodger]], [[Dorian Gray]], [[Rosalind]], [[Viola]], [[King Arthur]], [[Gulliver]], [[Joan of Arc]]
+**Characters:** [[characters/hamlet|Hamlet]], [[characters/portia|Portia]], [[characters/shylock|Shylock]], [[characters/macbeth|Macbeth]], [[characters/lady-macbeth|Lady Macbeth]], [[characters/banquo|Banquo]], [[characters/claudius|Claudius]], [[characters/falstaff|Falstaff]], [[characters/sam-weller|Sam Weller]], [[characters/tony-weller|Tony Weller]], [[characters/samuel-pickwick|Samuel Pickwick]], [[characters/artful-dodger|Artful Dodger]], [[characters/dorian-gray|Dorian Gray]], [[characters/rosalind|Rosalind]], [[characters/viola|Viola]], [[characters/king-arthur|King Arthur]], [[characters/gulliver|Gulliver]], [[characters/joan-of-arc|Joan of Arc]]
 
-**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Artist and Society]], [[Wonder and Gratitude]], [[Anti-Industrialism]], [[Equality in Death]], [[Democracy]], [[Freedom and Liberty]], [[Crime and Punishment]], [[Slavery]], [[Distributism]], [[Marriage and Fidelity]], [[Education]], [[Class Conflict]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Aphorism]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/artist-and-society|Artist and Society]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/equality-in-death|Equality in Death]], [[concepts/democracy|Democracy]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/slavery|Slavery]], [[concepts/distributism|Distributism]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/education|Education]], [[concepts/class-conflict|Class Conflict]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/literary-criticism|Literary Criticism]], [[forms/aphorism|Aphorism]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

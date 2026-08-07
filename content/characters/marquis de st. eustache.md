@@ -14,4 +14,10 @@ The suave, sinister anarchist called Wednesday, fought in a duel by Syme, who te
 
 <div class="concept-works" data-slug="characters/marquis-de-st.-eustache"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thursday-(chesterton)|thursday (Chesterton)]]
+
+</div>
+
 #graph/character

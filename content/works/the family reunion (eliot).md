@@ -30,21 +30,21 @@ tags:
   - character/agatha
 ---
 
-*by Eliot*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
+*by Eliot*  ·  **Cluster:** [[clusters/blood-·-verse-drama-·-revenge|Blood · Verse Drama · Revenge]]
 
 > [!abstract] 
 > Eliot's verse drama transposing the Oresteia onto an English country house: Harry, Lord Monchensey, haunted by the Eumenides and by guilt over his wife's death, seeks expiation and spiritual deliverance while his family clings to surfaces.
 
 ## Connections
 
-**Topoi:** [[Katabasis Descent]]
-**Archetypes:** [[Avenger]], [[Outsider]], [[Ghost]]
-**Motifs:** [[Ghosts]], [[Supernatural]], [[Seasons]]
-**Themes & Concepts:** [[Guilt]], [[Sin and the Fall]], [[Grace and Redemption]], [[Conscience]], [[Alienation]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Verse Drama]], [[Tragedy]]
-**Historical References:** [[Greek Tragedy]], [[Greek Mythology]]
-**Settings:** [[Rural England]]
-**Characters:** [[Harry, Lord Monchensey]], [[Amy, Lady Monchensey]], [[Agatha]]
+**Topoi:** [[topoi/katabasis-descent|Katabasis Descent]]
+**Archetypes:** [[archetypes/avenger|Avenger]], [[archetypes/outsider|Outsider]], [[archetypes/ghost|Ghost]]
+**Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[motifs/seasons|Seasons]]
+**Themes & Concepts:** [[concepts/guilt|Guilt]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/conscience|Conscience]], [[concepts/alienation|Alienation]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
+**Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/tragedy|Tragedy]]
+**Historical References:** [[historical-references/greek-tragedy|Greek Tragedy]], [[historical-references/greek-mythology|Greek Mythology]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Characters:** [[characters/harry,-lord-monchensey|Harry, Lord Monchensey]], [[characters/amy,-lady-monchensey|Amy, Lady Monchensey]], [[characters/agatha|Agatha]]
 
 ## Testo integrale / Full text
 

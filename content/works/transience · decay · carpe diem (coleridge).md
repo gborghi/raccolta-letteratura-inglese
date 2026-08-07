@@ -37,20 +37,20 @@ tags:
 
 Raccolta tematica di 14 componimenti di Samuel Taylor Coleridge.
 
-- [[AD LYRAM. (Coleridge)|AD LYRAM.]]
-- [[FROM ZAPOLYA (Coleridge)|FROM ZAPOLYA]]
-- [[IMITATIONS AD LYRAM (Coleridge)|IMITATIONS: AD LYRAM]]
-- [[INSCRIPTION FOR A TIME-PIECE (Coleridge)|INSCRIPTION FOR A TIME-PIECE]]
-- [[LETTER TO SIR HENRY GOODYERE (Coleridge)|LETTER TO SIR HENRY GOODYERE]]
-- [[LIMBO (Coleridge)|LIMBO]]
-- [[ON BALA HILL (Coleridge)|ON BALA HILL]]
-- [[ON OBSERVING A BLOSSOM ON THE FIRST OF FEBRUARY 1796 (Coleridge)|ON OBSERVING A BLOSSOM ON THE FIRST OF FEBRUARY 1796]]
-- [[QUAE NOCENT DOCENT (Coleridge)|QUAE NOCENT DOCENT]]
-- [[THE FADED FLOWER (Coleridge)|THE FADED FLOWER]]
-- [[THE KNIGHT’S TOMB (Coleridge)|THE KNIGHT’S TOMB]]
-- [[TO A PRIMROSE (Coleridge)|TO A PRIMROSE]]
-- [[TO LESBIA (Coleridge)|TO LESBIA]]
-- [[VER PERPETUUM (Coleridge)|VER PERPETUUM]]
+- [[testi/coleridge/atomized/transience-decay-carpe-diem#057_ad_lyram|AD LYRAM.]]
+- [[testi/coleridge/atomized/transience-decay-carpe-diem#254_from_zapolya|FROM ZAPOLYA]]
+- [[testi/coleridge/atomized/transience-decay-carpe-diem#056_imitations_ad_lyram|IMITATIONS: AD LYRAM]]
+- [[testi/coleridge/atomized/transience-decay-carpe-diem#359_inscription_for_a_time-piece|INSCRIPTION FOR A TIME-PIECE]]
+- [[testi/coleridge/atomized/transience-decay-carpe-diem#422_letter_to_sir_henry_goodyere|LETTER TO SIR HENRY GOODYERE]]
+- [[testi/coleridge/atomized/transience-decay-carpe-diem#258_limbo|LIMBO]]
+- [[testi/coleridge/atomized/transience-decay-carpe-diem#052_on_bala_hill|ON BALA HILL]]
+- [[testi/coleridge/atomized/transience-decay-carpe-diem#114_on_observing_a_blossom_on_the_first_of_february_1796|ON OBSERVING A BLOSSOM ON THE FIRST OF FEBRUARY 1796]]
+- [[testi/coleridge/atomized/transience-decay-carpe-diem#006_quae_nocent_docent|QUAE NOCENT DOCENT]]
+- [[testi/coleridge/atomized/transience-decay-carpe-diem#071_the_faded_flower|THE FADED FLOWER]]
+- [[testi/coleridge/atomized/transience-decay-carpe-diem#259_the_knights_tomb|THE KNIGHT’S TOMB]]
+- [[testi/coleridge/atomized/transience-decay-carpe-diem#115_to_a_primrose|TO A PRIMROSE]]
+- [[testi/coleridge/atomized/transience-decay-carpe-diem#058_to_lesbia|TO LESBIA]]
+- [[testi/coleridge/atomized/transience-decay-carpe-diem#113_ver_perpetuum|VER PERPETUUM]]
 
 ## Testo / Text
 

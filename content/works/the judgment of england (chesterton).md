@@ -26,7 +26,7 @@ tags:
   - histref/oliver_goldsmith
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A short epigrammatic poem reversing Goldsmith's line on wealth and decaying men, indicting industrial commerce: now 'Men accumulate and Wealth decay'. Themes of social injustice, the decay of the common man, and a prophetic note of judgment.
@@ -37,14 +37,14 @@ tags:
 
 ## Connections
 
-**Settings:** [[Industrial City]]
+**Settings:** [[settings/industrial-city|Industrial City]]
 
-**Topoi:** [[World Upside Down]], [[Poet as Prophet]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/poet-as-prophet|Poet as Prophet]]
 
-**Motifs:** [[Money and Gold]], [[Decay]]
-**Themes & Concepts:** [[Social Injustice]], [[Anti-Industrialism]], [[Common Man]], [[Critique of Progress]], [[Apocalypse]], [[Greed and Money]], [[Economics]]
-**Forms & Genres:** [[Epigram]], [[Lyric]], [[Satire]]
-**Historical References:** [[Industrial Revolution]], [[Oliver Goldsmith]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/decay|Decay]]
+**Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/common-man|Common Man]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/apocalypse|Apocalypse]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/epigram|Epigram]], [[forms/lyric|Lyric]], [[forms/satire|Satire]]
+**Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/oliver-goldsmith|Oliver Goldsmith]]
 
 ## Testo integrale / Full text
 

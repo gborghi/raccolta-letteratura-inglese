@@ -14,4 +14,10 @@ Gale's inseparable, hopelessly mad friend, to whom Gale is bound for life by an 
 
 <div class="concept-works" data-slug="characters/hurrel"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lovers-(chesterton)|lovers (Chesterton)]]
+
+</div>
+
 #graph/character

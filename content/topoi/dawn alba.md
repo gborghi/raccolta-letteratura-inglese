@@ -12,4 +12,13 @@ tags:
 
 <div class="concept-works" data-slug="topoi/dawn-alba"></div>
 
+<div class="concept-works-fallback">
+
+- [[testi/coleridge/atomized/wonder-and-gratitude-sublime-storm#085_la_fayette|LA FAYETTE (Coleridge)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1000_the_fingers_of_the_light|1000. The Fingers of the Light (Dickinson)]]
+- [[testi/dickinson/atomized/sun-light-and-dark-fire#1739_some_say_goodnight_at_night|1739. Some say goodnight — at night — (Dickinson)]]
+- [[works/romeo-and-juliet-(shakespeare)|ROMEO AND JULIET (Shakespeare)]]
+
+</div>
+
 #graph/topos

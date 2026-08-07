@@ -37,19 +37,19 @@ tags:
 
 Raccolta tematica di 13 componimenti di John Keats.
 
-- [[A Prophecy to George Keats in America (Keats)|A Prophecy: to George Keats in America]]
-- [[Bright star! would I were steadfast as thou art (Keats)|Bright star! would I were steadfast as thou art]]
-- [[Faery Songs (Keats)|Faery Songs]]
-- [[Lines Supposed to Have Been Addressed to Fanny Brawne (Keats)|Lines Supposed to Have Been Addressed to Fanny Brawne]]
-- [[Lines to Fanny (Keats)|Lines to Fanny]]
-- [[Meg Merrilies (Keats)|Meg Merrilies]]
-- [[On Death (Keats)|On Death]]
-- [[Song I had a dove and the sweet dove died (Keats)|Song: I had a dove and the sweet dove died]]
-- [[Sonnet Why did I laugh tonight No voice will tell (Keats)|Sonnet: Why did I laugh tonight? No voice will tell]]
-- [[Sonnet to Chatterton (Keats)|Sonnet to Chatterton]]
-- [[Staffa (Keats)|Staffa]]
-- [[THE EVE OF ST. AGNES (Keats)|THE EVE OF ST. AGNES]]
-- [[TO HOPE (Keats)|TO HOPE]]
+- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#111_a_prophecy_to_george_keats_in_america|A Prophecy: to George Keats in America]]
+- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#139_bright_star_would_i_were_steadfast_as_thou_art|Bright star! would I were steadfast as thou art]]
+- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#089_faery_songs|Faery Songs]]
+- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#138_lines_supposed_to_have_been_addressed_to_fanny_brawne|Lines Supposed to Have Been Addressed to Fanny Brawne]]
+- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#134_lines_to_fanny|Lines to Fanny]]
+- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#099_meg_merrilies|Meg Merrilies]]
+- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#041_on_death|On Death]]
+- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#118_song_i_had_a_dove_and_the_sweet_dove_died|Song: I had a dove and the sweet dove died]]
+- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#120_sonnet_why_did_i_laugh_tonight_no_voice_will_tell|Sonnet: Why did I laugh tonight? No voice will tell]]
+- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#046_sonnet_to_chatterton|Sonnet to Chatterton]]
+- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#107_staffa|Staffa]]
+- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#031_the_eve_of_st_agnes|THE EVE OF ST. AGNES]]
+- [[testi/keats/atomized/melancholy-suffering-pain-and-suffering#006_to_hope|TO HOPE]]
 
 ## Testo / Text
 

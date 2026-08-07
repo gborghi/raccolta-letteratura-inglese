@@ -14,4 +14,10 @@ A friend from Chesterton's J.D.C. brotherhood who first takes him to meet the Bl
 
 <div class="concept-works" data-slug="characters/lucian-oldershaw"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/to-frances-(chesterton)|to-frances (Chesterton)]]
+
+</div>
+
 #graph/character

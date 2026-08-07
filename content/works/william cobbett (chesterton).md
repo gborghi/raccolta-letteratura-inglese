@@ -63,7 +63,7 @@ tags:
   - histref/regency_georgian_england
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > Chesterton's critical biography of the radical pamphleteer and rural reformer William Cobbett, championing him as a self-made patriot and prophet of the common Englishman against industrialism, and a forerunner of distributist ideals.
@@ -77,15 +77,15 @@ tags:
 
 ## Connections
 
-**Characters:** [[William Cobbett]], [[Thomas Paine]], [[William Pitt]], [[Robert Peel]], [[Daniel O'Connell]]
+**Characters:** [[characters/william-cobbett|William Cobbett]], [[characters/thomas-paine|Thomas Paine]], [[characters/william-pitt|William Pitt]], [[characters/robert-peel|Robert Peel]], [[characters/daniel-o'connell|Daniel O'Connell]]
 
-**Topoi:** [[World Upside Down]], [[Golden Age]]
-**Archetypes:** [[Self-Made Man]], [[Prophet]], [[Rebel]], [[Martyr Saint]], [[Tragic Hero]], [[Outsider]]
-**Motifs:** [[Journey]], [[Storm]], [[Fog and Smoke]], [[Bees]], [[Road]], [[Horse]], [[Cross]], [[Great House]]
-**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Critique of Progress]], [[Common Man]], [[Reform]], [[Social Injustice]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Poverty]], [[Honour]], [[Truth]], [[Paradox]], [[Martyrdom]], [[Education]], [[Loneliness]], [[Greatness]], [[Democracy]], [[Money and Avarice]], [[Economics]], [[History]]
-**Forms & Genres:** [[Biography]], [[Essay]], [[Apologetics]], [[Literary Criticism]], [[Nonfiction]]
-**Historical References:** [[Industrial Revolution]], [[French Revolution]], [[Reformation]], [[Napoleonic Wars the Navy]], [[Regency Georgian England]]
-**Settings:** [[Rural England]], [[America]], [[London]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/golden-age|Golden Age]]
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]], [[archetypes/prophet|Prophet]], [[archetypes/rebel|Rebel]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/storm|Storm]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/bees|Bees]], [[motifs/road|Road]], [[motifs/horse|Horse]], [[motifs/cross|Cross]], [[motifs/great-house|Great House]]
+**Themes & Concepts:** [[concepts/distributism|Distributism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/common-man|Common Man]], [[concepts/reform|Reform]], [[concepts/social-injustice|Social Injustice]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/class-conflict|Class Conflict]], [[concepts/poverty|Poverty]], [[concepts/honour|Honour]], [[concepts/truth|Truth]], [[concepts/paradox|Paradox]], [[concepts/martyrdom|Martyrdom]], [[concepts/education|Education]], [[concepts/loneliness|Loneliness]], [[concepts/greatness|Greatness]], [[concepts/democracy|Democracy]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/biography|Biography]], [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/french-revolution|French Revolution]], [[historical-references/reformation|Reformation]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/america|America]], [[settings/london|London]]
 
 ## Testo integrale / Full text
 
@@ -4479,4 +4479,4 @@ And in that stillness I have sometimes fancied I heard,
 tiny and infinitely far away, something like a faint voice
 hallooing and the sound of horse-hoofs that return.
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

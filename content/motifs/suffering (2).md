@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="motifs/suffering-(2)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/de-profundis-(wilde)|De Profundis (Wilde)]]
+
+</div>
+
 #graph/motif

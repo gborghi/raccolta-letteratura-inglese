@@ -40,7 +40,7 @@ tags:
   - histref/first_world_war
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
+*by Chesterton*  ·  **Cluster:** [[clusters/short-story-·-concealment-hidden-identity-·-justice-right-and-wrong|Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 
 > A cycle of detective stories whose disillusioned sleuth Horne Fisher 'knows too much' about the corruption of the governing class to expose the crimes he solves. Themes: political corruption, the cost of knowledge, justice frustrated, and patriotic self-sacrifice.
@@ -54,19 +54,19 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Irish Question]], [[First World War]]
+**Historical References:** [[historical-references/irish-question|Irish Question]], [[historical-references/first-world-war|First World War]]
 
-**Settings:** [[Rural England]], [[Castle]], [[Battlefield]], [[Sea (2)]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/castle|Castle]], [[settings/battlefield|Battlefield]], [[settings/sea-(2)|Sea (2)]]
 
-**Motifs:** [[Concealment Hidden Identity]], [[Secrets]], [[Silence]], [[Well]], [[Stone and Marble]], [[Swords and Weapons]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/secrets|Secrets]], [[motifs/silence|Silence]], [[motifs/well|Well]], [[motifs/stone-and-marble|Stone and Marble]], [[motifs/swords-and-weapons|Swords and Weapons]]
 
-**Topoi:** [[Last Stand]]
+**Topoi:** [[topoi/last-stand|Last Stand]]
 
-**Characters:** [[Horne Fisher]], [[Harold March]]
+**Characters:** [[characters/horne-fisher|Horne Fisher]], [[characters/harold-march|Harold March]]
 
-**Archetypes:** [[Detective]], [[Corrupt Official]], [[Martyr Saint]]
-**Themes & Concepts:** [[Power and Corruption]], [[Justice Right and Wrong]], [[Appearance vs Reality]], [[Disillusionment]], [[Ratiocination Detection]], [[Satire of Society]], [[Nationalism and Patriotism]], [[Self-Sacrifice]], [[Secrecy and Concealment]], [[Conscience]], [[War and its Cost]]
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/martyr-saint|Martyr Saint]]
+**Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/disillusionment|Disillusionment]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/satire-of-society|Satire of Society]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/self-sacrifice|Self-Sacrifice]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/conscience|Conscience]], [[concepts/war-and-its-cost|War and its Cost]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
 
 ## Testo integrale / Full text
 

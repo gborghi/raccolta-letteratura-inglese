@@ -14,4 +14,10 @@ The Southern fanatic who assassinated Lincoln, an act Chesterton says began the 
 
 <div class="concept-works" data-slug="characters/john-wilkes-booth"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/on-america-(chesterton)|On America (Chesterton)]]
+
+</div>
+
 #graph/character

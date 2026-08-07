@@ -29,7 +29,7 @@ tags:
   - archetype/detective
   - archetype/villain
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Detective Fiction · Ratiocination Detection · Crime and Punishment]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/detective-fiction-·-ratiocination-detection-·-crime-and-punishment|Detective Fiction · Ratiocination Detection · Crime and Punishment]]
 
 > [!abstract] 
 > The final Sherlock Holmes novel: a coded warning from Moriarty's informant Porlock leads Holmes and Watson to the murder of John Douglas at Birlstone House. A flashback second part reveals Douglas's past among the Scowrers, a murderous secret society in the Vermissa Valley coalfields of Pennsylvania.
@@ -56,11 +56,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Detective Fiction]], [[Novel]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Secrecy and Concealment]], [[Deception]], [[Greed and Money]], [[Economics]]
-**Motifs:** [[Letters and Writing]], [[City]], [[Concealment Hidden Identity]], [[Money and Gold]]
-**Settings:** [[London]], [[Industrial City]]
-**Characters:** [[Sherlock Holmes]], [[Doctor Watson]], [[Professor Moriarty]]
-**Archetypes:** [[Detective]], [[Villain]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/novel|Novel]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/deception|Deception]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/city|City]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/money-and-gold|Money and Gold]]
+**Settings:** [[settings/london|London]], [[settings/industrial-city|Industrial City]]
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]], [[characters/professor-moriarty|Professor Moriarty]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]
 
-**Also relevant to:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
+**Also relevant to:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]

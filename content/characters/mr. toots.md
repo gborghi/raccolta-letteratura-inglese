@@ -14,4 +14,10 @@ The good-hearted, dim-witted young man from Dombey and Son whom Chesterton makes
 
 <div class="concept-works" data-slug="characters/mr.-toots"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/charlesdickens-(chesterton)|CharlesDickens (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -18,16 +18,16 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Stars · Night · Military Camp]]
+*by Poe*  ·  **Cluster:** [[clusters/stars-·-night-·-military-camp|Stars · Night · Military Camp]]
 
 > [!abstract] 
 > Short lyric preferring the proud distant Evening Star to the cold moon, contrasting celestial lights with the speaker's heart.
 
 ## Connections
 
-**Motifs:** [[Stars]], [[Moon]], [[Night]], [[Light and Dark]]
-**Themes & Concepts:** [[Melancholy]], [[Beauty]], [[Joy]], [[Alienation]]
-**Forms & Genres:** [[Lyric]]
+**Motifs:** [[motifs/stars|Stars]], [[motifs/moon|Moon]], [[motifs/night|Night]], [[motifs/light-and-dark|Light and Dark]]
+**Themes & Concepts:** [[concepts/melancholy|Melancholy]], [[concepts/beauty|Beauty]], [[concepts/joy|Joy]], [[concepts/alienation|Alienation]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

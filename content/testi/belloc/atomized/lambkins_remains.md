@@ -110,7 +110,7 @@ He notes the clear October sky,
 
 He sniffs a vigorous western breeze.
 
-“Can this be [[Oxford]]? This the place”
+“Can this be [[settings/oxford|Oxford]]? This the place”
 
 (He cries), “of which my father said
 
@@ -152,7 +152,7 @@ That I might read them and revere.
 
 “Who wrought and handed down for me
 
-This [[Oxford]] of the larger air,
+This [[settings/oxford|Oxford]] of the larger air,
 
 Laughing, and full of faith, and free,
 
@@ -392,7 +392,7 @@ The Chaplaincy,
 
 Burford College,
 
-[[Oxford]].
+[[settings/oxford|Oxford]].
 
 P.S. — I have consulted, in the course of this work, Liddell and Scott’s Larger Greek Lexicon, Smith’s Dictionary of Antiquities, Skeats’ Etymological Dictionary, Le Dictionnaire Franco-Anglais, et Anglo-Français, of Boileau, Curtis’ English Synonyms, Buffle on Punctuation, and many other authorities which will be acknowledged in the text.
 
@@ -400,7 +400,7 @@ I. INTRODUCTORY
 
 IT IS WITHOUT a trace of compunction or regret that I prepare to edit the few unpublished essays, sermons and speeches of my late dear friend, Mr. Lambkin. On the contrary, I am filled with a sense that my labour is one to which the clearest interests of the whole English people call me, and I have found myself, as the work grew under my hands, fulfilling, if I may say so with due modesty, a high and noble duty. I remember Lambkin himself, in one of the last conversations I had with him, saying with the acuteness that characterised him, “The world knows nothing of its greatest men.” This pregnant commentary upon human affairs was, I admit, produced by an accident in the Oxford Herald which concerned myself. In a description of a Public Function my name had been mis-spelt, and though I was deeply wounded and offended, I was careful (from a feeling which I hope is common to all of us) to make no more than the slightest reference to this insult.
 
-The acute eye of friendship and sympathy, coupled with the instincts of a scholar and a gentleman, perceived my irritation, and in the evening Lambkin uttered the memorable words that I have quoted. I thanked him warmly, but, if long acquaintance had taught him my character, so had it taught me his. I knew the reticence and modesty of my colleague, the almost morbid fear that [[Vanity|vanity]] (a vice which he detested) might be imputed to him on account of the exceptional gifts which he could not entirely ignore or hide; and I was certain that the phrase which he constructed to heal my wound was not without some reference to his own unmerited obscurity.
+The acute eye of friendship and sympathy, coupled with the instincts of a scholar and a gentleman, perceived my irritation, and in the evening Lambkin uttered the memorable words that I have quoted. I thanked him warmly, but, if long acquaintance had taught him my character, so had it taught me his. I knew the reticence and modesty of my colleague, the almost morbid fear that [[concepts/vanity|vanity]] (a vice which he detested) might be imputed to him on account of the exceptional gifts which he could not entirely ignore or hide; and I was certain that the phrase which he constructed to heal my wound was not without some reference to his own unmerited obscurity.
 
 The world knows nothing of its greatest men! Josiah Lambkin! from whatever Cypress groves of the underworld which environs us when on dark winter evenings in the silence of our own souls which nothing can dissolve though all attunes to that which nature herself perpetually calls us, always, if we choose but to remember, your name shall be known wherever the English language and its various dialects are spoken. The great All-mother has made me the humble instrument, and I shall perform my task as you would have desired it in a style which loses half its evil by losing all its rhetoric; I shall pursue my way and turn neither to the right nor to the left, but go straight on in the fearless old English fashion till it is completed.
 
@@ -1200,7 +1200,7 @@ LAMBKIN’S CONCERN FOR the Continent was deep and lasting. He knew the Western 
 
 It may seem strange that under such circumstances our unhappy neighbours across the Channel should so especially have taken up his public action. He was no deep student of the French tongue, and he had but a trifling acquaintance with the habits of the common people of that country; but he has said himself with great fervour, in his “Thoughts on Political Obligations,” that no man could be a good citizen of England who did not understand her international position. “What” (he would frequently exclaim) “what can they know of England, who only England know?”78 He did not pretend to a familiarity with the minute details of foreign policy, nor was he such a pedant as to be offended at the good-humoured chaff directed against his accent in the pronunciation of foreign names. Nevertheless he thought it — and rightly thought it — part of his duty to bring into any discussion of the affairs of the Republic those chance phrases which lend colour and body to a conversation. He found this duty as it lay in his path and accomplished it, without bombast, but with full determination, and with a vast firmness of purpose. Thus he would often let drop such expressions as “état majeur,” “la cléricalisme c’est l’ennemi,” “l’état c’est moi,”79 and such was his painful and exact research that he first in the University arrived at the meaning of the word “bordereau,” which, until his discovery, all had imagined to be a secret material of peculiar complexity.
 
-Mr. Lambkin had but one close friend in France, a man who had from cosmopolitan experience acquired a breadth and humour which the Frenchman so conspicuously lacks; he united, therefore, the charm of the French character to that general experience which Lambkin invariably demanded of his friends, and the fact that he belonged to a small political minority and had so long associated with foreigners had winnowed from that fine soul the grossness and one-sidedness, the mingled [[Vanity|vanity]] and ferocity, which seems so fatal a part of the Gallic temper. In some ways this friend reminded one of the great Huguenots whom France to her eternal loss banished by the revocation of the Edict of Nantes, and of whom a bare twenty thousand are now to be found in the town of Nîmes. In other ways this gifted mind recalled — and this would be in his moments of just indignation — the manner and appearance of a Major Prophet.
+Mr. Lambkin had but one close friend in France, a man who had from cosmopolitan experience acquired a breadth and humour which the Frenchman so conspicuously lacks; he united, therefore, the charm of the French character to that general experience which Lambkin invariably demanded of his friends, and the fact that he belonged to a small political minority and had so long associated with foreigners had winnowed from that fine soul the grossness and one-sidedness, the mingled [[concepts/vanity|vanity]] and ferocity, which seems so fatal a part of the Gallic temper. In some ways this friend reminded one of the great Huguenots whom France to her eternal loss banished by the revocation of the Edict of Nantes, and of whom a bare twenty thousand are now to be found in the town of Nîmes. In other ways this gifted mind recalled — and this would be in his moments of just indignation — the manner and appearance of a Major Prophet.
 
 Jules de la Vaguère dè Bissac was the first of his family to bear that ancient name, but not the least worthy. Born on a Transatlantic in the port of Hamburg, his first experience of life had been given him in the busy competition of New York. It was there that he acquired the rapid glance, the grasp, the hard business head which carried him from Buenos Ayres to Amsterdam, and finally to a fortune. His wealth he spent in the entertainment of his numerous friends, in the furtherance of just aims in politics (to which alas! the rich in France do not subscribe as they should), to the publication of sound views in the press, and occasionally (for old habit is second nature80), in the promotion of some industrial concern destined to benefit his country and the world.81 With transactions, however sound and honest, that savoured of mere speculation De Bissac would have nothing to do, and when his uncle and brother fled the country in 1887, he helped, indeed, with his purse but he was never heard to excuse or even to mention the poor, fallen men.
 
@@ -1552,7 +1552,7 @@ He notes the clear October sky,
 
 He sniffs a vigorous western breeze.
 
-“Can this be [[Oxford]]? This the place”
+“Can this be [[settings/oxford|Oxford]]? This the place”
 
 (He cries), “of which my father said
 
@@ -1594,7 +1594,7 @@ That I might read them and revere.
 
 “Who wrought and handed down for me
 
-This [[Oxford]] of the larger air,
+This [[settings/oxford|Oxford]] of the larger air,
 
 Laughing, and full of faith, and free,
 
@@ -1815,7 +1815,7 @@ To break the worst of fortune’s rub?
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Indice
+Indice
 
 Dedica
 
@@ -1823,15 +1823,15 @@ ODE DEDICATA.
 
 Prefazione
 
-# I. Introducitive
+I. Introducitive
 
-# II. Lambkin’s Newdigate
+II. Lambkin’s Newdigate
 
-# III. Alcune osservazioni sullo stile prosastico di Lambkin
+III. Alcune osservazioni sullo stile prosastico di Lambkin
 
 IV. Saggio di Lambkin sul “successo”
 
-# V. Lambkin sul sonno
+V. Lambkin sul sonno
 
 VI. I consigli di Lambkin ai nuovi studenti
 
@@ -1839,9 +1839,9 @@ VII. La lezione di Lambkin sul “diritto”
 
 VIII. La corrispondenza speciale di Lambkin
 
-# IX. L’allocuzione di Lambkin alla Lega del Progresso
+IX. L’allocuzione di Lambkin alla Lega del Progresso
 
-# Il leader di Lambkin
+Il leader di Lambkin
 
 XI. I commenti di Lambkin sulla fine del semestre
 
@@ -1849,9 +1849,9 @@ XII. L’articolo di Lambkin sul angolo nord-occidentale della pavimentazione in
 
 XIII. Il sermone di Lambkin.
 
-# XIV. La lettera aperta di Lambkin ai chierici
+XIV. La lettera aperta di Lambkin ai chierici
 
-# XV. La lettera di Lambkin a un amico francese
+XV. La lettera di Lambkin a un amico francese
 
 XVI. Intervista con il signor Lambkin.
 
@@ -1872,29 +1872,29 @@ to
 
 Dedicato
 
-#Questo libro
+Questo libro
 
-#E nulla mi fermerà
+E nulla mi fermerà
 
 Il mio scopo.
 
 ODE DEDICATA.
 
-#Scrivere con tutta la mia forza
+Scrivere con tutta la mia forza
 
-#In declino da tempo…
+In declino da tempo…
 
 Una ballata di enorme lunghezza…
 
 Alcune parti di cui sarà necessario fornire spiegazioni.1
 
-#Perché (a differenza della maggior parte degli uomini)
+Perché (a differenza della maggior parte degli uomini)
 
 Chi scrive per la fama e per gli scopi pubblici…
 
-# Una penna sciolta e fluida
+Una penna sciolta e fluida
 
-# Di miei amici intimi
+Di miei amici intimi
 
 Per nessuno, nel nostro lungo declino…
 
@@ -1904,15 +1904,15 @@ Avevo amici così piacevoli come i miei…
 
 O li amava almeno la metà di quanto li amassi io.
 
-# Il matricolato si avvia lentamente lungo il viale principale
+Il matricolato si avvia lentamente lungo il viale principale
 
-# Folle d’amore per tutto ciò che vede
+Folle d’amore per tutto ciò che vede
 
 Nota il cielo sereno di ottobre…
 
 Assapora con piacere la fresca brezza occidentale.
 
-“Può essere davvero [[Oxford|Oxford]]? Questo è il posto, ”
+“Può essere davvero [[settings/oxford|Oxford]]? Questo è il posto, ”
 
 “Di cui mio padre disse…”
 
@@ -1920,7 +1920,7 @@ L’insegnamento privato era una vera e propria vergogna.
 
 Un credo che non è altro che una mascherata, pieno di vuote parole e privo di vita reale?
 
-#Può essere proprio qui che zio Paul…
+Può essere proprio qui che zio Paul…
 
 Guidato da un eccessivo cupore…
 
@@ -1940,21 +1940,21 @@ Che curioso! Che grande sorpresa.
 
 Più di quelli di loro… intendo, più di quelli dello zio Paul.
 
-#Ha risvegliato il sonno della loro decadenza
+Ha risvegliato il sonno della loro decadenza
 
 E i loro antichi muri furono adornati di luce.
 
 “O, cari e intrepidi ragazzi di un tempo…”
 
-# Che i vostri nomi fossero incisi qui…
+Che i vostri nomi fossero incisi qui…
 
 Per tutto il mondo, in francobolli d’oro…
 
 Per poterli leggere e rispettarli.
 
-# Chi lo creò e me lo tramandò
+Chi lo creò e me lo tramandò
 
-Questo [[Oxford]] dell’ampio mondo.
+Questo [[settings/oxford|Oxford]] dell’ampio mondo.
 
 Ridendo, pieni di fede e liberi.
 
@@ -1968,11 +1968,11 @@ I loro nomi privati erano… 3
 
 Il loro club si chiamava “Republican”.
 
-# Dove giacciono sulle loro rive di luce
+Dove giacciono sulle loro rive di luce
 
-# Le felici colline del Cielo tra loro
+Le felici colline del Cielo tra loro
 
-#Gli dèi che dominano il cielo del mattino
+Gli dèi che dominano il cielo del mattino
 
 Non sono più giovani, né più sereni
 
@@ -1984,9 +1984,9 @@ E in questa terra sgradevole…
 
 Per fondare l’Abbazia di Telemo.
 
-# Abbiamo mantenuto il piano rabelaesco:4
+Abbiamo mantenuto il piano rabelaesco:4
 
-#I delicati chiostri ricevettero la nostra dignità
+I delicati chiostri ricevettero la nostra dignità
 
 Con la legge naturale e i diritti dell’uomo
 
@@ -2000,9 +2000,9 @@ Titolo: Erano principalmente scritti privati nostri.
 
 Abbiamo mantenuto una scuola e ci siamo insegnati da soli.
 
-#Insegnammo l’arte di scrivere
+Insegnammo l’arte di scrivere
 
-# Uomini che ancora vorremmo soffocare…
+Uomini che ancora vorremmo soffocare…
 
 E dove trovare il sangue dei re
 
@@ -2010,7 +2010,7 @@ Solo mezzo scellino a bottiglia.
 
 Eheu, fugaci, postumi!
 
-#Un vecchio detto ormai obsoleto
+Un vecchio detto ormai obsoleto
 
 Il mio mantello di sogni è stato rubato.
 
@@ -2020,7 +2020,7 @@ La ricchezza della giovinezza… l’abbiamo spesa bene.
 
 E in modo dignitoso, come pochi riescono a fare.
 
-#È andato perduto? Non lo so…
+È andato perduto? Non lo so…
 
 E inoltre, dubito che tu sia in grado di farlo.
 
@@ -2045,7 +2045,7 @@ Dicono… e sono felice che lo dicano.
 
 È così; e potrebbe anche essere così.
 
-# Potrebbe essere proprio il contrario
+Potrebbe essere proprio il contrario
 
 Non posso dirlo con certezza… Ma una cosa so:
 
@@ -2059,7 +2059,7 @@ Ma c'è la risata e l'amore degli amici.
 
 Ma qualcosa si assottiglia… oh, miei compagni!
 
-# Qualcosa inganna il cuore e poi passa…
+Qualcosa inganna il cuore e poi passa…
 
 E Tom… che voleva scuotere via gli anni.
 
@@ -2067,7 +2067,7 @@ E Tom… che voleva scuotere via gli anni.
 
 E Lui, il Pastore del Gregge
 
-#"Tenere i birmanesi sotto controllo"...
+"Tenere i birmanesi sotto controllo"...
 
 Un esiliato su una roccia desolata
 
@@ -2083,17 +2083,17 @@ Ma non è riuscito a realizzarlo.
 
 Non nemmeno questa strana città
 
-# Ha mai reso un’amicizia più solida?
+Ha mai reso un’amicizia più solida?
 
 Ma… uno è sposato, un altro se n’è andato…
 
 Uno è un Don, e l’altro si trova in Birmania.
 
-# E oh… quei giorni, quei giorni…
+E oh… quei giorni, quei giorni…
 
-# Quando tutti e quattro se ne andarono insieme:
+Quando tutti e quattro se ne andarono insieme:
 
-# L’infinita profondità della nebbia estiva
+L’infinita profondità della nebbia estiva
 
 Il fragoroso orgoglio del clima autunnale!
 
@@ -2107,7 +2107,7 @@ Nei piccoli moli di pietra di Yarnton.
 
 Ma mi siederò accanto al fuoco.
 
-# E mi porto la mano davanti agli occhi
+E mi porto la mano davanti agli occhi
 
 E seguire, per soddisfare il desiderio del mio cuore…
 
@@ -2126,21 +2126,21 @@ La tenera Evenlode che…
 
 Le sue praterie tacciono per ascoltare quel suono
 
-# Delle acque che si mescolano nelle frenate
+Delle acque che si mescolano nelle frenate
 
 E lega il mio cuore alla terra inglese.
 
 Un bel fiume, tutto solo…
 
-#Rimane tra le colline… e tiene stretto qualcosa
+Rimane tra le colline… e tiene stretto qualcosa
 
 Cento piccole città di pietra
 
 Dimenticato nelle lande occidentali.
 
-# Osso di dubio (sebbene ci siano forze più malvagie)
+Osso di dubio (sebbene ci siano forze più malvagie)
 
-#"Dominate i nostri troni… e anche le menti più semplici."
+"Dominate i nostri troni… e anche le menti più semplici."
 
 Bevono vini peggiori dei nostri.
 
@@ -2154,23 +2154,23 @@ Ancora canta per un brindisi immortale.
 
 Le avventure disastrose del mugnaio.
 
-#I vasti mari sono appena separati…
+I vasti mari sono appena separati…
 
 Per coloro che sono così presi da tale convinzione…
 
-#Eravamo? Allora, per Dio, siamo ancora…
+Eravamo? Allora, per Dio, siamo ancora…
 
 Ordine! Chiamo il club alla riunione!
 
-# Tu conservi ancora quella canzone che abbiamo scelto insieme
+Tu conservi ancora quella canzone che abbiamo scelto insieme
 
 E come si alza, inciampa e osserva intorno?
 
-# Conservi ancora quel ricordo sacro
+Conservi ancora quel ricordo sacro
 
 Repubblicani? Repubblicani?
 
-# Come venivano scagliate quelle parole…
+Come venivano scagliate quelle parole…
 
 Per sfuggire al peggio della sfortuna?
 
@@ -2201,24 +2201,24 @@ The Chaplaincy,
 
 Burford College,
 
-[[Oxford]].
+[[settings/oxford|Oxford]].
 
 P.S. — I have consulted, in the course of this work, Liddell and Scott’s Larger Greek Lexicon, Smith’s Dictionary of Antiquities, Skeats’ Etymological Dictionary, Le Dictionnaire Franco-Anglais, et Anglo-Français, of Boileau, Curtis’ English Synonyms, Buffle on Punctuation, and many other authorities which will be acknowledged in the text.
 
 I. INTRODUCTORY
 
-IT IS WITHOUT a trace of compunction or regret that I prepare to edit the few unpublished essays, sermons and speeches of my late dear friend, Mr. Lambkin. On the contrary, I am filled with a sense that my labour is one to which the clearest interests of the whole English people call me, and I have found myself, as the work grew under my hands, fulfilling, if I may say so with due modesty, a high and noble duty. I remember Lambkin himself, in one of the last conversations I had with him, saying with the acuteness that characterised him, “The world knows nothing of its greatest men.” This pregnant commentary upon human affairs was, I admit, produced by an accident in the [[Oxford]] Herald which concerned myself. In a description of a Public Function my name had been mis-spelt, and though I was deeply wounded and offended, I was careful (from a feeling which I hope is common to all of us) to make no more than the slightest reference to this insult.
+IT IS WITHOUT a trace of compunction or regret that I prepare to edit the few unpublished essays, sermons and speeches of my late dear friend, Mr. Lambkin. On the contrary, I am filled with a sense that my labour is one to which the clearest interests of the whole English people call me, and I have found myself, as the work grew under my hands, fulfilling, if I may say so with due modesty, a high and noble duty. I remember Lambkin himself, in one of the last conversations I had with him, saying with the acuteness that characterised him, “The world knows nothing of its greatest men.” This pregnant commentary upon human affairs was, I admit, produced by an accident in the [[settings/oxford|Oxford]] Herald which concerned myself. In a description of a Public Function my name had been mis-spelt, and though I was deeply wounded and offended, I was careful (from a feeling which I hope is common to all of us) to make no more than the slightest reference to this insult.
 
-The acute eye of friendship and sympathy, coupled with the instincts of a scholar and a gentleman, perceived my irritation, and in the evening Lambkin uttered the memorable words that I have quoted. I thanked him warmly, but, if long acquaintance had taught him my character, so had it taught me his. I knew the reticence and modesty of my colleague, the almost morbid fear that [[Vanity|vanity]] (a vice which he detested) might be imputed to him on account of the exceptional gifts which he could not entirely ignore or hide; and I was certain that the phrase which he constructed to heal my wound was not without some reference to his own unmerited obscurity.
+The acute eye of friendship and sympathy, coupled with the instincts of a scholar and a gentleman, perceived my irritation, and in the evening Lambkin uttered the memorable words that I have quoted. I thanked him warmly, but, if long acquaintance had taught him my character, so had it taught me his. I knew the reticence and modesty of my colleague, the almost morbid fear that [[concepts/vanity|vanity]] (a vice which he detested) might be imputed to him on account of the exceptional gifts which he could not entirely ignore or hide; and I was certain that the phrase which he constructed to heal my wound was not without some reference to his own unmerited obscurity.
 
 The world knows nothing of its greatest men! Josiah Lambkin! from whatever Cypress groves of the underworld which environs us when on dark winter evenings in the silence of our own souls which nothing can dissolve though all attunes to that which nature herself perpetually calls us, always, if we choose but to remember, your name shall be known wherever the English language and its various dialects are spoken. The great All-mother has made me the humble instrument, and I shall perform my task as you would have desired it in a style which loses half its evil by losing all its rhetoric; I shall pursue my way and turn neither to the right nor to the left, but go straight on in the fearless old English fashion till it is completed.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Un brindisi per il mondo intero
+Un brindisi per il mondo intero
 
-# Bevilo, signori: il Club.
+Bevilo, signori: il Club.
 
 Prefazione
 
@@ -2238,15 +2238,15 @@ Il Capellano
 
 Burford College
 
-[[Oxford]].
+[[settings/oxford|Oxford]].
 
 P.S. — Nel corso di questo lavoro ho consultato il “Liddell and Scott’s Larger Greek Lexicon”, il “Smith’s Dictionary of Antiquities”, il “Skeats’ Etymological Dictionary”, il “Le Dictionnaire Franco-Anglais, et Anglo-Français” di Boileau, i “Curtis’ English Synonyms”, il “Buffle on Punctuation” e molte altre fonti, le quali verranno menzionate nel testo.
 
-# I. Introducitive
+I. Introducitive
 
-Senza il minimo rimorso o pentimento, mi appresto a curare gli scarsi saggi, sermoni e discorsi inediti del mio caro amico scomparso, il signor Lambkin. Al contrario, provo la sensazione che il mio compito sia quello che risponde agli interessi più fondamentali di tutto il popolo inglese; man mano che il lavoro prendeva forma sotto le mie mani, ho avuto l’impressione di adempiere, con la dovuta umiltà, a un dovere nobile e importante. Ricordo che Lambkin stesso, in una delle ultime conversazioni che abbiamo avuto, disse con quella schiettezza che lo caratterizzava: “Il mondo non conosce i suoi più grandi uomini”. Questo commento profondo sugli affari umani fu, devo ammetterlo, scaturito da un errore presente sul [[Oxford|Oxford Herald]] riguardante me: il mio nome era stato scritto male in una descrizione di un evento pubblico. Anche se ne fui profondamente offeso, ho preferito, per un sentimento che spero sia comune a tutti noi, non fare alcuna menzione a quell’insulto.
+Senza il minimo rimorso o pentimento, mi appresto a curare gli scarsi saggi, sermoni e discorsi inediti del mio caro amico scomparso, il signor Lambkin. Al contrario, provo la sensazione che il mio compito sia quello che risponde agli interessi più fondamentali di tutto il popolo inglese; man mano che il lavoro prendeva forma sotto le mie mani, ho avuto l’impressione di adempiere, con la dovuta umiltà, a un dovere nobile e importante. Ricordo che Lambkin stesso, in una delle ultime conversazioni che abbiamo avuto, disse con quella schiettezza che lo caratterizzava: “Il mondo non conosce i suoi più grandi uomini”. Questo commento profondo sugli affari umani fu, devo ammetterlo, scaturito da un errore presente sul [[settings/oxford|Oxford Herald]] riguardante me: il mio nome era stato scritto male in una descrizione di un evento pubblico. Anche se ne fui profondamente offeso, ho preferito, per un sentimento che spero sia comune a tutti noi, non fare alcuna menzione a quell’insulto.
 
-L'acuto occhio dell'amicizia e della simpatia, unito agli istinti di uno studioso e di un gentiluomo, percepì la mia irritazione; quella sera Lambkin pronunciò quelle parole memorabili che ho citato. Gli ringraziai calorosamente, ma se una lunga conoscenza gli aveva insegnato il mio carattere, allo stesso modo mi aveva fatto conoscere anche il suo. Conoscevo la reticenza e la modestia del mio collega, quella paura quasi morbosa che la [[Vanity|vanità]] (un vizio che detestava) potesse essere attribuita a lui a causa dei doni eccezionali che non poteva ignorare o nascondere del tutto; e ero certo che le parole che aveva scelto per lenire il mio dolore riflettevano anche la sua stessa oscurità ingiustificata.
+L'acuto occhio dell'amicizia e della simpatia, unito agli istinti di uno studioso e di un gentiluomo, percepì la mia irritazione; quella sera Lambkin pronunciò quelle parole memorabili che ho citato. Gli ringraziai calorosamente, ma se una lunga conoscenza gli aveva insegnato il mio carattere, allo stesso modo mi aveva fatto conoscere anche il suo. Conoscevo la reticenza e la modestia del mio collega, quella paura quasi morbosa che la [[concepts/vanity|vanità]] (un vizio che detestava) potesse essere attribuita a lui a causa dei doni eccezionali che non poteva ignorare o nascondere del tutto; e ero certo che le parole che aveva scelto per lenire il mio dolore riflettevano anche la sua stessa oscurità ingiustificata.
 
 Il mondo non sa nulla dei suoi più grandi uomini! Josiah Lambkin. Da quei cipresseti dell’aldilà che ci circondano nelle silenziose serate invernali, quando nemmeno il silenzio stesso può dissolvere i nostri pensieri. Ma tutto si allinea a ciò che la natura stessa ci invita costantemente a ricordare. Il tuo nome sarà conosciuto ovunque si parli l’inglese e i suoi vari dialetti. La grande Madre Onnipotente mi ha reso lo strumento umile per compiere questa missione; eseguirò il mio dovere nel modo che tu stesso avresti desiderato. In uno stile che, perdendo tutta la retorica superflua, elimina anche metà del male. Continuerò dritto per la mia strada, senza deviare né a destra né a sinistra, seguendo soltanto il vecchio e coraggioso modo inglese. Fino a quando non avrò completato il mio compito.
 
@@ -2259,7 +2259,7 @@ Josiah Abraham Lambkin was born of well-to-do and gentlemanly parents in Bayswat
 
 Of his school-days he always spoke with some bitterness. He appears to have suffered considerably from bullying, and the Headmaster, though a humane, was a blunt man, little fitted to comprehend the delicate nature with which he had to deal. On one occasion the nervous susceptible lad found it necessary to lay before him a description of the treatment to which he had been subjected by a younger and smaller, but much stronger boy; the pedagogue’s only reply was to flog Lambkin heartily with a light cane, “inflicting,” as he himself once told me, “such exquisite agony as would ever linger in his memory.” Doubtless this teacher of the old school thought he was (to use a phrase then common) “making a man of him,” but the object was not easily to be attained by brutal means. Let us be thankful that these punishments have nearly disappeared from our modern seminaries.
 
-When Josiah was fifteen years of age, his father, having prospered in business, removed to Eaton Square and bought an estate in Surrey. The merchant’s mind, which, though rough, was strong and acute, had meanwhile passed through a considerable change in the matter of religion; and as the result of long but silent self-examination he became the ardent supporter of a system which he had formerly abhorred. It was therefore determined to send the lad to one of the two great Universities, and though Mrs. Lambkin’s second cousins, the Crumptons, had all been to Cambridge, [[Oxford]] was finally decided upon as presenting the greater social opportunities at the time.8
+When Josiah was fifteen years of age, his father, having prospered in business, removed to Eaton Square and bought an estate in Surrey. The merchant’s mind, which, though rough, was strong and acute, had meanwhile passed through a considerable change in the matter of religion; and as the result of long but silent self-examination he became the ardent supporter of a system which he had formerly abhorred. It was therefore determined to send the lad to one of the two great Universities, and though Mrs. Lambkin’s second cousins, the Crumptons, had all been to Cambridge, [[settings/oxford|Oxford]] was finally decided upon as presenting the greater social opportunities at the time.8
 
 Here, then, is young Lambkin, in his nineteenth year, richly but soberly dressed, and eager for the new life that opens before him. He was entered at Burford College on October the 15th, 1861; a date which is, by a curious coincidence, exactly thirty-six years, four months, and two days from the time in which I pen these lines.
 
@@ -2290,7 +2290,7 @@ Josiah Abraham Lambkin nacque il 19 gennaio 1843 a Bayswater da genitori benesta
 
 Dei suoi giorni di scuola parlava sempre con una certa amarezza. Sembra che abbia sofferto molto a causa dei bullismo; il preside, sebbene umano, era un uomo diretto e poco adatto a comprendere la natura delicata della situazione con cui doveva confrontarsi. Una volta, quel ragazzo nervoso e sensibile ritenne necessario descrivere al preside il trattamento subito da parte di un altro ragazzo più giovane, più piccolo, ma molto più forte; l’unica risposta del pedagogo fu frustare Lambkin con un leggero bastone, “infliggendogli”, come mi disse una volta, “un dolore così intenso che avrebbe rimasto per sempre nella sua memoria”. Senza dubbio, questo insegnante riteneva di stargli “formando il carattere”, ma tale obiettivo non si poteva raggiungere con metodi brutali. Siamo fortunati che queste punizioni siano ormai quasi scomparse dai nostri seminari moderni.
 
-Quando Josiah aveva quindici anni, suo padre, essendo diventato molto ricco nel commercio, si trasferì a Eaton Square e acquistò una tenuta nel Surrey. La mente di quel mercante, sebbene rozza, era forte e acuta; inoltre, dopo lunghe e silenziose riflessioni su questioni religiose, egli divenne un fervente sostenitore di un sistema che in precedenza aveva disprezzato. Per questo motivo decise di mandare il ragazzo in una delle due grandi università; sebbene i cugini di secondo grado della signora Lambkin, i Crumpton, fossero tutti andati a Cambridge, alla fine fu scelta [[Oxford]], poiché offriva maggiori opportunità sociali in quel periodo.
+Quando Josiah aveva quindici anni, suo padre, essendo diventato molto ricco nel commercio, si trasferì a Eaton Square e acquistò una tenuta nel Surrey. La mente di quel mercante, sebbene rozza, era forte e acuta; inoltre, dopo lunghe e silenziose riflessioni su questioni religiose, egli divenne un fervente sostenitore di un sistema che in precedenza aveva disprezzato. Per questo motivo decise di mandare il ragazzo in una delle due grandi università; sebbene i cugini di secondo grado della signora Lambkin, i Crumpton, fossero tutti andati a Cambridge, alla fine fu scelta [[settings/oxford|Oxford]], poiché offriva maggiori opportunità sociali in quel periodo.
 
 Ecco dunque il giovane Lambkin, all’età di diciannove anni, vestito con eleganza ma sobriamente, e pieno di entusiasmo per la nuova vita che lo aspetta. È entrato al Burford College il 15 ottobre 1861; una data che, per una curiosa coincidenza, corrisponde esattamente a trentasei anni, quattro mesi e due giorni dal momento in cui sto scrivendo queste righe.
 
@@ -2448,11 +2448,11 @@ Era ignorante di italiano, ma assai versato nei classici francesi, che leggeva a
 
 Ecco l’uomo, ecco il gentiluomo: il vero “Hglaford”, il moderno “Godgebidden Eorldemanthingancanning”; i suoi pensieri più intimi verranno rivelati nelle pagine che seguono.
 
-# II. Lambkin’s Newdigate
+II. Lambkin’s Newdigate
 
 Poema scritto per il “Newdigate Prize” in versi inglesi
 
-# Il signor J. A. Lambkin del Burford College
+Il signor J. A. Lambkin del Burford College
 
 Nota: — I concorrenti sono tenuti a utilizzare esclusivamente i pentametri giambici eroici in rima, ma è consentita l’aggiunta di testi lirici.
 
@@ -2468,9 +2468,9 @@ I benefici conferiti dalla Scienza, li esalto.
 
 Il suo tema: la luce elettrica e i suoi benefici
 
-# Sotto la gentile guida degli esaminatori
+Sotto la gentile guida degli esaminatori
 
-#Solo ne scrivo quando sono collegati a qualcos’altro
+Solo ne scrivo quando sono collegati a qualcos’altro
 
 Titolo:  
 Con i vantaggi offerti dalla luce elettrica…
@@ -2479,26 +2479,26 @@ Ci dona qualcosa; soprattutto di notte.
 
 Questi sono i miei temi; su di essi sorgerà la mia canzone.
 
-# La mia testa orgogliosa toccherà il cielo
+La mia testa orgogliosa toccherà il cielo
 
 E lacrime d’amore disperato bagnano gli occhi della fanciulla.
 
-# Seconda Invocazione alla Musa
+Seconda Invocazione alla Musa
 
 Scendi, o Musa, dalla tua divina dimora.
 
-# Osney
+Osney
 
 A Osney, sulla strada delle Sette Ponti;
 
-#Sotto l’ombra solitaria di Osney
+Sotto l’ombra solitaria di Osney
 
 La maggior parte della lampada elettrica è già stata prodotta.
 
 Titolo:  
 Ecco le opere; da qui inizia il corso attuale degli eventi.
 
-# Quale… (così recita il prospetto aziendale)
+Quale… (così recita il prospetto aziendale)
 
 Titolo:  
 Il potere delle opere lì
@@ -2507,15 +2507,15 @@ Titolo: Fornisce agli iscritti informazioni orarie per orario
 
 Non meno di sedicimila candele di potenza,13
 
-# Tutti a mille volt… (È essenziale)
+Tutti a mille volt… (È essenziale)
 
-# Mantenere il livello attuale a questo alto potenziale
+Mantenere il livello attuale a questo alto potenziale
 
 Nonostante le notevoli spese.
 
 Statistiche su di loro
 
-# L’energia sviluppata rappresenta…
+L’energia sviluppata rappresenta…
 
 In termini di piedotoni, le forze unite…
 
@@ -2527,18 +2527,18 @@ Tagliare via le adorabili ali del leggero Pegaso?
 
 Domande poetiche o retoriche
 
-# Statistiche puramente statistiche… possono forse risultare sgradevoli all’orecchio?
+Statistiche puramente statistiche… possono forse risultare sgradevoli all’orecchio?
 
 Quelle pantaloni accentuano chiaramente il tono melodioso di Lyric, vero?
 
-# Devo descrivere il complesso Dynamo?
+Devo descrivere il complesso Dynamo?
 
 O scrivere qualcosa sul suo commutatore? No!
 
 Titolo:  
 Il tema cambia
 
-# Verso campi più felici conduco la mia penna libera e spensierata
+Verso campi più felici conduco la mia penna libera e spensierata
 
 Lo studio approfondito dell’umanità riguarda gli esseri umani stessi.
 
@@ -2740,11 +2740,11 @@ The nervous strain of so much anxiety about his literary work wearied both mind 
 
 Terza Invocazione alla Musa
 
-# Risvegliati, mia Musa! Raffigura questa piacevole scena
+Risvegliati, mia Musa! Raffigura questa piacevole scena
 
 Questo ci porta nel luogo in cui producono la luce elettrica.
 
-# Una fotografia dell’elettricista
+Una fotografia dell’elettricista
 
 Ecco il elettricista dove si trova…
 
@@ -2772,21 +2772,21 @@ Un contatto casuale… un movimento imprudente di una mano…
 
 I Terminali – un lampo – un suono simile a “Zip!”
 
-# Un odore di combustione riempie l’aria sorpresa…
+Un odore di combustione riempie l’aria sorpresa…
 
 L’elettricista non c’è più!
 
-# Cambia argomento
+Cambia argomento
 
 Ma torniamo, con un vero disprezzo artistico…
 
 Da fatti funebri e da visioni desolate
 
-# Nato da Erebo e dalla notte più oscura.14
+Nato da Erebo e dalla notte più oscura.14
 
 Quarta Invocazione alla Musa
 
-# Risvegliati, Musa! e canta con accenti ricchi e vibranti
+Risvegliati, Musa! e canta con accenti ricchi e vibranti
 
 Titolo:  
 I processi interessanti attraverso i quali…
@@ -2797,7 +2797,7 @@ Questi sono i miei temi; su di essi modulo la mia canzone.
 
 Descrizione del metodo mediante il quale viene utilizzato il Corrente
 
-# Incapsulato nel legno o nella malta porosa
+Incapsulato nel legno o nella malta porosa
 
 Attraverso fili di rame spessi due millimetri
 
@@ -2810,7 +2810,7 @@ Qui si può operare con grande abilità critica
 
 La seguente domanda: “Che cos’è l’elettricità?”
 
-# Difficoltà nel determinare la natura dell’elettricità
+Difficoltà nel determinare la natura dell’elettricità
 
 “Attività molecolare”, dicono alcuni.
 
@@ -2826,7 +2826,7 @@ Si trasforma in calore e luce attraverso la sua forza latente:
 
 Conservazione dell’energia. Dimostrazioni di ciò: non sono necessari esperimenti
 
-# Non c’è bisogno di un pedante sul podio dell’oratore
+Non c’è bisogno di un pedante sul podio dell’oratore
 
 Per dimostrare che lì sono presenti luce e calore.
 
@@ -2834,21 +2834,21 @@ Il globo di vetro a forma di pera… capisco.
 
 Fa troppo caldo per poter toccare qualcosa con le mani.
 
-# Mentre, come è evidente anche al più semplice osservatore…
+Mentre, come è evidente anche al più semplice osservatore…
 
 Il filamento di carbonio è molto luminoso.
 
-# Dubbi sul sistema municipale, ma…
+Dubbi sul sistema municipale, ma…
 
 Per quanto riguarda le luci che pendono per la città…
 
 Alcuni li lodano molto, altri li criticano aspramente.
 
-#Questo sistema (chiamato tecnicamente “arco”)
+Questo sistema (chiamato tecnicamente “arco”)
 
 Rende alcuni passaggi troppo leggeri, altri troppo cupi.
 
-# Nessuno in casa
+Nessuno in casa
 
 Ma nella casa, i raggi dolci e costanti…
 
@@ -2864,9 +2864,9 @@ Lontano da qualche angolo remoto della stanza
 
 La lampada ad incandescenza scaccia l’oscurità.
 
-# Vantaggi della stampa in grandi dimensioni
+Vantaggi della stampa in grandi dimensioni
 
-#E con la maggiore richiesta di stampa, non c’è nemmeno bisogno di provare
+E con la maggiore richiesta di stampa, non c’è nemmeno bisogno di provare
 
 Le capacità visive di qualsiasi giovane occhio pieno di vigore.
 
@@ -2882,21 +2882,21 @@ La vita è una valle: i suoi sentieri sono oscuri e accidentati.
 
 Solo perché non sappiamo abbastanza.
 
-# Quando la scienza ha scoperto qualcosa di ancora più grande
+Quando la scienza ha scoperto qualcosa di ancora più grande
 
 Saremo più felici di quanto fossimo prima.
 
-# Perorazione nello spirito del resto della poesia
+Perorazione nello spirito del resto della poesia
 
-# Evviva, Britannia, padrona dei mari azzurri!
+Evviva, Britannia, padrona dei mari azzurri!
 
 Diecimila flotte ti assalgono invano!
 
-# Salve! Potente madre dei coraggiosi e liberi.
+Salve! Potente madre dei coraggiosi e liberi.
 
 Quel ritmo sconfisse Napoleone, e mi diede alla luce!
 
-#Colui che può avvolgersi nel suo manto decorato di simboli
+Colui che può avvolgersi nel suo manto decorato di simboli
 
 Un quarto del globo abitabile.
 
@@ -2906,15 +2906,15 @@ Come imponenti colline resistono ai mari tempestosi.
 
 Avvertimento per la Gran Bretagna
 
-# Tu sei una comunità cristiana… Eppure
+Tu sei una comunità cristiana… Eppure
 
-# Non essere del tutto ingrato… né dimenticare
+Non essere del tutto ingrato… né dimenticare
 
 Come esulti nella potenza imperiale…
 
 I benefici della luce elettrica.
 
-# III. Alcune osservazioni sullo stile prosastico di Lambkin
+III. Alcune osservazioni sullo stile prosastico di Lambkin
 
 Nessun altro risultato ottenuto dal mio caro amico ha avuto un effetto maggiore dell’articolo in inglese che presentò all’esame. Il fatto che un giovane così giovane, e cresciuto in un ambiente del genere, fosse riuscito a scrivere un simile articolo era già sufficientemente notevole; ma il fatto che il suo lavoro dimostrasse una tale padronanza nella struttura, un equilibrio così delicato tra le idee e una conoscenza così vasta (nel vero senso della parola), unita a una comprensione sorprendente del carattere umano e della psicologia contemporanea, era davvero motivo di ammirazione. Fu proprio per questo che il allora direttore di Burford commentò: “Se queste cose” (disse l’anziano ma eminente religioso), “se queste cose vengono realizzate in un ambiente ancora poco maturo, cosa si potrà mai realizzare in futuro?”
 
@@ -2996,7 +2996,7 @@ Ma devo concludere, altrimenti rischierei di essere accusato di cadere in una re
 
 IV. Saggio di Lambkin sul “successo”
 
-# Sul “successo”: le sue cause e i suoi risultati
+Sul “successo”: le sue cause e i suoi risultati
 
 Difficoltà dell’argomento
 
@@ -3074,7 +3074,7 @@ Seconda difficoltà ancora maggiore
 
 Ma se il problema è complesso a causa della grande varietà dei diversi tipi di Successo, cosa dovremmo dire allora del disturbo introdotto da un nuovo aspetto della questione, al quale stiamo per fare riferimento? Ahimè. Un aspetto così diffuso nelle sue conseguenze, così importante e così pieno di minacce per tutta la filosofia, così carico di presagi e così pericoloso per l’umanità stessa, che esitiamo persino a menzionarlo! Il Successo non è sempre davvero Successo: il Fallimento è anch’esso un aspetto del Successo, e viceversa. Questo apparente paradosso si rivelerà vero se lo consideriamo attentamente. Infatti, in ogni caso, il “Successo” implica necessariamente il “Fallimento” o la “Non-riuscita” di ciò che gli è opposto o correlato. Quindi, se scommettiamo dieci sterline con un nostro amico, il nostro “Successo” diventa il suo “Fallimento”, e viceversa. Inoltre, se desideriamo fallire in qualcosa (ad esempio, chiunque vorrebbe evitare di essere impiccato, ), allora riuscire significa fallire, e fallire significa riuscire. Il nostro “successo” fallimentare diventerebbe un vero fallimento se si verificasse un risultato disastroso! E notate che lo stesso atto, non questo o quell’altro, ma ESATTAMENTE LO STESSO, può essere considerato un atto “di successo” o “di fallimento”, a seconda del modo in cui lo osserviamo. Quindi il Successo non solo può essere Fallimento, ma DEVE esserlo. E le due categorie su cui avevamo costruito tante speranze sono ormai scomparse per sempre!
 
-# Considerazioni solenni derivanti da ciò
+Considerazioni solenni derivanti da ciò
 
 Che pensiero terribile! Una cosa può essere allo stesso tempo sé stessa e non sé stessa, anzi, il proprio opposto! La mente vacilla; la debole vista umana, che si affaccia sul vasto abisso dell’infinito metafisico, si perde in un grido di pietà e trema ai confini dell’invisibile. Quante visioni di orrore e follia potrebbero attendere l’anima troppo audace che osa bussare alle Porte del Silenzio. Impariamo dall’Incomprensibile quanto sia piccolo e debole l’uomo!
 
@@ -3082,7 +3082,7 @@ Un punto di vista più ottimista
 
 Ma sarebbe indegno di un filosofo abbandonare i propri sforzi a causa di qualche ostacolo iniziale. La grande mano del Tempo ci incita sempre ad “andare avanti”; e anche se non riusciamo a scoprire l’Assoluto entro i limiti di questo saggio, possiamo risorgere dalle ceneri delle nostre lacrime per raggiungere cose migliori e più felici.
 
-# Il principio di una soluzione
+Il principio di una soluzione
 
 Sembra che ci stia illuminando una luce. Non arriveremo alla piena comprensione della realtà, ma vedremo “in modo vago e indiretto” ciò che, alla fine del nostro percorso di evoluzione, potrebbe forse essere rivelato più chiaramente a noi. È evidente che abbiamo sempre trattato di concetti relativi. Non possiamo comprendere come cose apparentemente assolute, come il fallimento o la vittoria, possano in realtà avere un carattere relativo; non riusciamo infatti a immaginare l’intero quadro nel quale Successo e Fallimento, positività e negatività, sì e no, verità e menzogne sono soltanto le lucide facce di un diamante indossato dal dito di qualcuno importante e ricco.
 
@@ -3092,7 +3092,7 @@ In quel momento suonò la campanella e i documenti dovevano essere consegnati im
 
 “Nessun tempo a disposizione. Avevo intenzione di fornire esempi: successo, ambito accademico, acrobazie, agricoltura, aristocrazia, bacilli, anche esempi legati alle culture yaroslavi, zenobidi, ecc. Ho esaminato casi storici, la visione di Biggar, l’unità, la coscienza universale, Amphodunissa, 22 settembre.”
 
-# V. Lambkin sul sonno
+V. Lambkin sul sonno
 
 [Questo piccolo capolavoro fu scritto per la grande monografia sull’“Essere”, che Lambkin non ebbe mai il tempo di completare. Tuttavia, fu incluso nel suo piccolo volume di saggi intitolato “Rictus Almae Matris”. Le attente note a piè di pagina, l’ampia quantità di informazioni e l’accuratezza accademica dell’intero lavoro rappresentano un esempio – ahimè, l’unico – di ciò che la sua opera completa avrebbe potuto essere se fosse stata portata a termine. È senz’altro un esempio ammirevole del suo stile negli anni più maturi.]
 
@@ -3125,11 +3125,11 @@ Lambkin was so justly touched by the incident as to purchase the volume, asking 
 
 “My Dear Thomas,
 
-“Here you are at last in [[Oxford]], and at Burford, ‘a Burford Man.’ How proud your mother must be and even your father, whom I well remember saying that ‘if he were not an accountant, he would rather be a Fellow of Burford than anything else on earth.’ But it was not to be.
+“Here you are at last in [[settings/oxford|Oxford]], and at Burford, ‘a Burford Man.’ How proud your mother must be and even your father, whom I well remember saying that ‘if he were not an accountant, he would rather be a Fellow of Burford than anything else on earth.’ But it was not to be.
 
 “The life you are entering is very different from that which you have left behind. When you were at school you were under a strict discipline, you were compelled to study the classics and to play at various games. Cleanliness and truthfulness were enforced by punishment, while the most instinctive habits of decency and good manners could only be acquired at the expense of continual application. In a word, ‘you were a child and thought as a child.’
 
-“Now all that is changed, you are free (within limits) to follow your own devices, to make or mar yourself. But if you use [[Oxford]] aright she will make you as she has made so many of your kind — a perfect gentleman.
+“Now all that is changed, you are free (within limits) to follow your own devices, to make or mar yourself. But if you use [[settings/oxford|Oxford]] aright she will make you as she has made so many of your kind — a perfect gentleman.
 
 “But enough of these generalities. It is time to turn to one or two definite bits of advice which I hope you will receive in the right spirit. My dear boy, I want you to lay your hand in mine while I speak to you, not as an uncle, but rather as an elder brother. Promise me three things. First never to gamble in any form; secondly, never to drink a single glass of wine after dinner; thirdly, never to purchase anything without paying for it in cash. If you will make such strict rules for yourself and keep them religiously you will find after years of constant effort a certain result developing (as it were), you will discover with delight that your character is formed; that you have neither won nor lost money at hazards, that you have never got drunk of an evening, and that you have no debts. Of the first two I can only say that they are questions of morality on which we all may, and all do, differ. But the third is of a vital and practical importance. Occasional drunkenness is a matter for private judgment, its rightness or wrongness depends upon our ethical system; but debt is fatal to any hope of public success.
 
@@ -3174,11 +3174,11 @@ Lambkin fu così profondamente commosso da quell’episodio che decise di acquis
 
 "My Dear Thomas,"
 
-“Eccoti finalmente a [[Oxford]], e a Burford, un vero ‘uomo di Burford’. Quanto tua madre debba essere orgogliosa, e anche tuo padre. Ricordo bene che diceva: ‘Se non fosse un contabile, preferirebbe essere un membro del club di Burford piuttosto che qualsiasi altra cosa al mondo.’ Ma non è andata così.”
+“Eccoti finalmente a [[settings/oxford|Oxford]], e a Burford, un vero ‘uomo di Burford’. Quanto tua madre debba essere orgogliosa, e anche tuo padre. Ricordo bene che diceva: ‘Se non fosse un contabile, preferirebbe essere un membro del club di Burford piuttosto che qualsiasi altra cosa al mondo.’ Ma non è andata così.”
 
 “La vita nella quale state entrando è molto diversa da quella che avete lasciato alle vostre spalle. Quando eravate a scuola, eravate sottoposti a una disciplina rigorosa: vi veniva imposto di studiare i classici e di giocare a vari giochi. La pulizia e l’onestà venivano promosse attraverso punizioni, mentre le abitudini più istintive di decenza e buone maniere potevano essere acquisite solo attraverso uno sforzo costante. In altre parole, ‘eravate bambini e pensavate da bambini’.”
 
-Ora che tutto è cambiato, sei libero (entro certi limiti) di seguire i tuoi desideri, di renderti migliore o peggiore. Ma se utilizzi correttamente l’educazione offerta da [[Oxford]], essa ti trasformerà, come ha già fatto con molti della tua stessa razza, in un vero gentiluomo.
+Ora che tutto è cambiato, sei libero (entro certi limiti) di seguire i tuoi desideri, di renderti migliore o peggiore. Ma se utilizzi correttamente l’educazione offerta da [[settings/oxford|Oxford]], essa ti trasformerà, come ha già fatto con molti della tua stessa razza, in un vero gentiluomo.
 
 “Ma basta con queste generalità. È ora di passare a uno o due consigli concreti che spero riceverete con il giusto atteggiamento. Mio caro ragazzo, voglio che mettiate la vostra mano nella mia mentre vi parlo, non come zio, ma piuttosto come fratello maggiore. Promettetemi tre cose: primo, mai giocare d’azzardo in alcuna forma; secondo, mai bere nemmeno un bicchiere di vino dopo cena; terzo, mai acquistare nulla senza pagarlo in contanti. Se seguirete queste regole rigorose e le rispetterete fedelmente, dopo anni di impegno costante noterete sicuramente dei cambiamenti positivi nel vostro carattere: scoprirete con gioia di non aver perso né guadagnato denaro giocando d’azzardo, di non esservi mai ubriacati e di non avere debiti. Per quanto riguarda i primi due punti, posso solo dire che si tratta di questioni morali su cui tutti possiamo, e spesso facciamo, differire. Ma il terzo è di importanza vitale e pratica: l’ubriachezza occasionale dipende dalla valutazione personale; la sua giustezza o ingiustizia dipende dal nostro sistema etico. Tuttavia, i debiti sono fatali per qualsiasi speranza di successo nella vita pubblica.”
 
@@ -3280,7 +3280,7 @@ Dei risultati derivanti dalle lezioni del signor Lambkin, i più significativi e
 
 Un'idea più o meno simile mi fu espressa anche dal Vescovo di Humbury: circa un anno fa, si avvicinò a me nel salone con uno sguardo particolare negli occhi e, quando menzionai il nome di Lambkin, disse improvvisamente, come se lottasse con un'emozione: “Lambkin, non teneva lezioni nel vostro salone sull’Etica?” “Alcune sì,” risposi, “alcune nel salone stesso, altre nella Aula di Lezioni n. 2.” Il Vescovo non disse nulla, ma nei suoi occhi si leggevano molti pensieri e ricordi. Non possiamo forse – conoscendo le difficoltà del Vescovo in materia di fede e la sua vittoria finale – attribuire una parte di questa influenza progressiva e benefica al mio caro amico?
 
-# Sul “diritto”
+Sul “diritto”
 
 [Lezione V di un corso composto da otto lezioni, tenuta nel semestre autunnale del 1878.]
 
@@ -3311,7 +3311,7 @@ Next Thursday I shall deal with morality in international relations.
 
 VIII. Lambkin’s Special Correspondence
 
-LAMBKIN WAS ALMOST the first of that great band of [[Oxford]] Fellows who go as special correspondents for Newspapers to places of difficulty and even of danger. On the advantages of this system he would often dilate, and he was glad to see, as he grew to be an older, a wealthier, and a wiser man, that others were treading in his footsteps. “The younger men,” he would say, “have noticed what perhaps I was the first to see, that the Press is a Power, and that men who are paid to educate should not be ashamed to be paid for any form of education.” He was, however, astonished to see how rapidly the letters of a correspondent could now be issued as a book, and on finding that such publications were arranged for separately with the publishers, and were not the property of the Newspapers, he expressed himself with a just warmth in condemnation of such a trick.
+LAMBKIN WAS ALMOST the first of that great band of [[settings/oxford|Oxford]] Fellows who go as special correspondents for Newspapers to places of difficulty and even of danger. On the advantages of this system he would often dilate, and he was glad to see, as he grew to be an older, a wealthier, and a wiser man, that others were treading in his footsteps. “The younger men,” he would say, “have noticed what perhaps I was the first to see, that the Press is a Power, and that men who are paid to educate should not be ashamed to be paid for any form of education.” He was, however, astonished to see how rapidly the letters of a correspondent could now be issued as a book, and on finding that such publications were arranged for separately with the publishers, and were not the property of the Newspapers, he expressed himself with a just warmth in condemnation of such a trick.
 
 “Sir” (said he to the Chaplain), “in my young days we should have scorned to have faked up work, well done for a particular object, in a new suit for the sake of wealth”; and I owe it to Lambkin’s memory to say that he did not make a penny by his “Diary on the Deep,”46 in which he collected towards the end of his life his various letters written to the Newspapers, and mostly composed at sea.
 
@@ -3367,7 +3367,7 @@ Quando Lambkin salpò, la Flotta Britannica aveva già occupato un porto profond
 
 He therefore found upon landing at Leghorn47 a telegram from the newspaper, saying that his services were not required, but that the monetary engagements entered into by the proprietors would be strictly adhered to.
 
-Partly pleased, partly disappointed, Lambkin returned to [[Oxford]], taking sketches on the way from various artists whom he found willing to sell their productions. These he later hung round his room, not on nails (which as he very properly said, defaced the wall), but from a rail; — their colours are bright and pleasing. He also brought me the photographs I asked him for, and they now hang in my bedroom.
+Partly pleased, partly disappointed, Lambkin returned to [[settings/oxford|Oxford]], taking sketches on the way from various artists whom he found willing to sell their productions. These he later hung round his room, not on nails (which as he very properly said, defaced the wall), but from a rail; — their colours are bright and pleasing. He also brought me the photographs I asked him for, and they now hang in my bedroom.
 
 This summary must account for the paucity of the notes that follow, and the fact that they were never published.
 
@@ -3412,7 +3412,7 @@ The white curling tips (white horses) come at one if one looks to windward, or i
 
 Quindi, al suo arrivo a Livorno47, trovò un telegramma del giornale che gli comunicava che i suoi servizi non erano più necessari, ma che gli impegni finanziari presi dai proprietari sarebbero stati rigorosamente rispettati.
 
-In parte soddisfatto, in parte deluso, Lambkin tornò a [[Oxford]], portando con sé alcuni schizzi ottenuti lungo la strada da diversi artisti disposti a vendergli le loro opere. In seguito li appese nella sua stanza, non usando chiodi (che, come disse lui stesso, rovinavano il muro), ma un corrimano; i colori di quelle opere sono vivaci e piacevoli da vedere. Mi portò anche le fotografie che gli avevo chiesto, e ora sono appese nella mia camera da letto.
+In parte soddisfatto, in parte deluso, Lambkin tornò a [[settings/oxford|Oxford]], portando con sé alcuni schizzi ottenuti lungo la strada da diversi artisti disposti a vendergli le loro opere. In seguito li appese nella sua stanza, non usando chiodi (che, come disse lui stesso, rovinavano il muro), ma un corrimano; i colori di quelle opere sono vivaci e piacevoli da vedere. Mi portò anche le fotografie che gli avevo chiesto, e ora sono appese nella mia camera da letto.
 
 Questo riassunto deve tenere conto della scarsità delle note che seguono, nonché del fatto che queste non siano mai state pubblicate.
 
@@ -3422,7 +3422,7 @@ Sono felice di poter dire che la questione è stata risolta in modo soddisfacent
 
 Le Lettere
 
-# S.S. Borgia, Gravesend
+S.S. Borgia, Gravesend
 
 Domenica 27 settembre 1873
 
@@ -3510,7 +3510,7 @@ Leghorn, 5 ottobre 1873.
 
 Ecco la fine di tutto. Non ho più nulla da dire. Ritengo che il pubblico non abbia bisogno dei miei servizi, e che l’Inghilterra abbia subito una sconfitta disastrosa. La flotta si è ritirata dall’Apulia. L’Inghilterra – che la posterità lo ricordi – non possiede nemmeno un pollice di terra in tutta la penisola italiana. Beh, siamo stati sconfitti e dobbiamo aspettare il momento giusto; ma voglio dire una cosa: se quel giovane arrogante, il Primo Ufficiale, pensa che la sua famiglia possa proteggerlo, si sbaglia. La stampa è un potere enorme, e mai così grande come quando (come in Inghilterra) professori universitari o le classi superiori scrivono per i giornali, e quando il segreto delle loro identità permette a talento e posizione di esercitare tutto il loro peso.
 
-# IX. L’allocuzione di Lambkin alla Lega del Progresso
+IX. L’allocuzione di Lambkin alla Lega del Progresso
 
 TUTTI RAMINERANNO quell’importante incontro delle “Higher Spinsters” del 1868: un gruppo fino ad allora interamente volontario nella sua organizzazione, che si era impegnato a portare nelle case dei poveri e degli sfortunati ciò che caratterizza i quartieri residenziali delle nostre grandi città. Se oggi Whitechapel è più degradata di quanto non lo fosse trent’anni fa, non dobbiamo trascurare del tutto gli sforzi compiuti in passato dalle “Higher Spinsters”. Ognuna di loro ha lavorato con impegno nel proprio ambito, e anche dopo la morte non vi furono divisioni tra di loro.
 
@@ -3555,7 +3555,7 @@ The Needy! The Poor! Terrible words! It has been truly said that we have them al
 
 There are many ways in which this good work is proceeding. Life is a gem of many facets. Some of my friends take refuge in Prayer, others have joined the Charity Organisation Society, others again have laboured in a less brilliant but fully as useful a fashion by writing books upon social statistics which command an enormous circulation. You have turned to education, and you have done well. Show me a miner or a stevedore who attends his lectures upon Rossetti, and I will show you a man. Show me his wife or daughter at a cookery school or engaged in fretwork, and I will shew you a woman. A man and a woman — solemn thought!
 
-A noble subject indeed and one to occupy the whole life of a man! This “Education,” this “Leading-out-of,” is the matter of all our lives here in [[Oxford]] except in the vacation.58 And what an effect it has! Let me prove it in a short example.
+A noble subject indeed and one to occupy the whole life of a man! This “Education,” this “Leading-out-of,” is the matter of all our lives here in [[settings/oxford|Oxford]] except in the vacation.58 And what an effect it has! Let me prove it in a short example.
 
 At a poor lodging-house in Lafayette, Pa., U.S.A., three well-educated men from New England who had fallen upon evil times were seated at a table surrounded by a couple of ignorant and superstitious Irishmen; these poor untaught creatures, presuming upon their numbers, did not hesitate to call the silent and gentlemanly unfortunates “Dommed High-faluthing Fules”; but mark the sequel. A fire broke out in the night. The house was full of these Irishmen and of yet more repulsive Italians. Some were consumed by the devouring element, others perished in the flames, others again saved their lives by a cowardly flight.59 But what of those three from Massachusetts whom better principles had guided in youth and with whom philosophy had replaced the bitter craft of the Priest? They were found — my dear friends — they were found still seated calmly at the table; they had not moved; no passion had blinded them, no panic disturbed: in their charred and blackened features no trace of terror was apparent. Such is the effect, such the glory of what my late master and guide, the Professor of Tautology, used to call the “Principle of the Survival of the Fittest.”
 
@@ -3572,7 +3572,7 @@ Dopo la loro partenza, il signor Large entrò nella stanza di Lambkin con una bu
 
 In realtà non era affatto così. Quando Lambkin aprì la scatola (dopo aver aspettato con grande cortesia che il suo visitatore lasciasse la stanza), vi trovò soltanto cinque sterline. Ma notate ciò che segue: Lambkin non ne parlò mai con nessuno, né criticò in alcun modo le future azioni di Large, tranne nei casi in cui riteneva che il suo collega fosse davvero colpevole. Nel corso degli anni in cui continuarono a incontrarsi, la moderazione e il rispetto di sé di Lambkin lo evitarono dall’usare armi ignobili, sia quelle della parola che quelle della penna. Fu una lezione di ironia da gentiluomo vedere mio amico assumere un posto superiore a quello di Large alla tavola durante quei giorni difficili che seguirono.
 
-# L’indirizzo
+L’indirizzo
 
 Carissimi amici,
 
@@ -3588,7 +3588,7 @@ I Poveri! I Bisognosi! Terribili parole. È davvero vero che li abbiamo sempre c
 
 Esistono molti modi in cui questo nobile lavoro può essere portato avanti. La vita è una gemma dalle molteplici facce: alcuni dei miei amici trovano rifugio nella preghiera, altri hanno aderito alle organizzazioni di carità, mentre altri ancora hanno contribuito in modo meno appariscente ma altrettanto efficace scrivendo libri sulla statistica sociale che godono di una vasta diffusione. Tu hai scelto la strada dell’educazione, e l’hai fatto bene. Mostratemi un minatore o un portuale che partecipi alle lezioni su Rossetti, e vi mostrerò un uomo. Mostratemi sua moglie o sua figlia in una scuola di cucina o impegnate nella lavorazione a maglia, e vi mostrerò una donna. Un uomo e una donna, pensiero solenne!
 
-Un vero e proprio scopo nobile, uno che può occupare l’intera vita di un uomo! Questa “istruzione”, questo processo di “guida e formazione”, rappresenta l’essenza della nostra esistenza qui a [[Oxford]], tranne durante le vacanze. E quale effetto ha davvero! Lasciate che ve lo dimostri con un breve esempio.
+Un vero e proprio scopo nobile, uno che può occupare l’intera vita di un uomo! Questa “istruzione”, questo processo di “guida e formazione”, rappresenta l’essenza della nostra esistenza qui a [[settings/oxford|Oxford]], tranne durante le vacanze. E quale effetto ha davvero! Lasciate che ve lo dimostri con un breve esempio.
 
 In una misera locanda a Lafayette, nel Pennsylvania, Stati Uniti d’America, tre uomini ben istruiti del New England, caduti in tempi difficili, erano seduti attorno a un tavolo insieme a due irlandesi ignoranti e superstiziosi. Questi ultimi, approfittando del loro numero, non esitarono a chiamare quegli sfortunati silenziosi e gentiluomini “miserabili idioti”; ma ascoltate il seguito. Durante la notte scoppiò un incendio. La casa era piena di irlandesi e, ancora di più, di italiani repellenti. Alcuni furono consumati dalle fiamme, altri morirono nell’incendio, altri ancora salvarono la vita fuggendo in modo codardo. Ma che ne fu di quei tre del Massachusetts, guidati da principi migliori fin da giovani e per i quali la filosofia aveva sostituito l’astuzia meschina dei preti? Furono trovati, seduti tranquillamente attorno al tavolo; non si erano mossi; nessuna passione li aveva accecati, nessun panico li aveva turbati: sui loro volti carbonizzati non c’era traccia di terrore. Ecco l’effetto, ecco la gloria di ciò che il mio defunto maestro e guida, il Professore di Tautologia, chiamava “il Principio della Sopravvivenza del Più Adatto”.
 
@@ -3605,13 +3605,13 @@ X. Lambkin’s Leader
 
 MR. SOLOMON WAS ever determined to keep the Sunday Englishman at a high level. “We owe it” (he would say) “first to the public who are thereby sacrificed — I mean satisfied — and to ourselves, who secure thereby a large and increasing circulation.” [“Ourselves” alluded to the shareholders, for the Sunday Englishman was a limited Company, in which the shares (of which Mr. Solomon held the greater number) were distributed in the family; the tiniest toddler of two years old was remembered, and had been presented with a share by his laughing and generous parent.]
 
-In this laudable effort to keep “abreast of the times” (as he phrased it), the Editor and part Proprietor determined to have leaders written by University men, who from their position of vantage enjoy a unique experience in practical matters. He had formed a very high opinion of Lambkin’s journalistic capacity from his unpublished letters as a special correspondent. Indeed, he was often heard to say that “a man like him was lost at [[Oxford]], and was born for Fleet Street.” He wrote, therefore, to Mr. Lambkin and gave him “Carte Blanche,” as one French scholar to another, sending him only the general directions that his leader must be “smart, up-to-date, and with plenty of push,” it was to be “neither too long nor too short,” and while it should be written in an easy familiar tone, there should be little or no seriously offensive matter included.
+In this laudable effort to keep “abreast of the times” (as he phrased it), the Editor and part Proprietor determined to have leaders written by University men, who from their position of vantage enjoy a unique experience in practical matters. He had formed a very high opinion of Lambkin’s journalistic capacity from his unpublished letters as a special correspondent. Indeed, he was often heard to say that “a man like him was lost at [[settings/oxford|Oxford]], and was born for Fleet Street.” He wrote, therefore, to Mr. Lambkin and gave him “Carte Blanche,” as one French scholar to another, sending him only the general directions that his leader must be “smart, up-to-date, and with plenty of push,” it was to be “neither too long nor too short,” and while it should be written in an easy familiar tone, there should be little or no seriously offensive matter included.
 
 Mr. Lambkin was delighted, and when at his request the article had been paid for, he sent in the following:
 
 The Leader.
 
-“The English-Speaking Race has — if we except the Dutch, Negro, and Irish elements — a marvellous talent for self-government. From the earliest origins of our Anglo-Saxon forefathers to the latest Parish Council, guided but not controlled by the modern ‘Mass Thegen’ or local ‘Gesithcund man,’ this talent, or rather genius, is apparent. We cannot tell why, in the inscrutable designs of Providence, our chosen race should have been so specially gifted, but certain it is that wherever plain ordinary men such as I who write this and you who read it,60 may be planted, there they cause the desert to blossom, and the waters to gush from the living rock. Who has not known, whether among his personal acquaintance or from having read of him in books, the type of man who forms the strength of this mighty national organism? And who has not felt that he is himself something of that kidney? We stand aghast at our own extraordinary power, and it has been finely said that Nelson was greater than he knew. From one end of the earth to the other the British language is spoken and understood. The very words that I am writing will be read to-morrow in London, the day after in [[Oxford]] — and from this it is but a step to the uttermost parts of the earth.
+“The English-Speaking Race has — if we except the Dutch, Negro, and Irish elements — a marvellous talent for self-government. From the earliest origins of our Anglo-Saxon forefathers to the latest Parish Council, guided but not controlled by the modern ‘Mass Thegen’ or local ‘Gesithcund man,’ this talent, or rather genius, is apparent. We cannot tell why, in the inscrutable designs of Providence, our chosen race should have been so specially gifted, but certain it is that wherever plain ordinary men such as I who write this and you who read it,60 may be planted, there they cause the desert to blossom, and the waters to gush from the living rock. Who has not known, whether among his personal acquaintance or from having read of him in books, the type of man who forms the strength of this mighty national organism? And who has not felt that he is himself something of that kidney? We stand aghast at our own extraordinary power, and it has been finely said that Nelson was greater than he knew. From one end of the earth to the other the British language is spoken and understood. The very words that I am writing will be read to-morrow in London, the day after in [[settings/oxford|Oxford]] — and from this it is but a step to the uttermost parts of the earth.
 
 “Under these conditions of power, splendour, and domination it is intolerable that the vast metropolis of this gigantic empire should be pestered with crawling cabs. There are indeed many things which in the Divine plan have it in their nature to crawl. We of all the races of men are the readiest to admit the reign of universal law. Meaner races know not the law, but we are the children of the law, and where crawling is part of the Cosmos we submit and quit ourselves like men, being armed with the armour of righteousness. Thus no Englishman (whatever foreigners may feel) is offended at a crawling insect or worm. A wounded hare will crawl, and we Read that ‘the serpent was cursed and crawled upon his belly’; again, Aristotle in his Ethics talks of those whose nature (φύσις) it is ‘ἕρπειν,’ which is usually translated ‘to crawl,’ and Kipling speaks of fifes ‘crawling.’ With all this we have no quarrel, but the crawling cab is a shocking and abominable thing; and if the titled owners of hansoms do not heed the warning in time they will find that the spirit of Cromwell is not yet dead, and mayhap the quiet determined people of this realm will rise and sweep them and their gaudy gew-gaws and their finnicky high-stepping horses, and their perched-up minions, from the fair face of England.”
 
@@ -3625,7 +3625,7 @@ The end of Term is approaching — nay, is here. A little more, and we shall mee
 
 This is not a time of exaltation, so should it not be a time for too absolute a mourning. This is not the end of the Easter Term, nor of the Summer Term. It is the end of Michaelmas Term. That is the fact, and facts must be looked in the face. What are we to do with the approaching vacation? What have we done with the past term?
 
-In the past term (I think I can answer for some of you) a much deeper meaning has entered into your lives. Especially you, the young freshmen (happily I have had the control of many, the teaching of some), I know that life has become fuller for you. That half-hour a week to which you pay so little heed will mean much in later years. You have come to me in batches for half-an-hour a week, and each of you has thus enjoyed collectively the beginning of that private control and moulding of the character which is the object of all our efforts here in [[Oxford]]. And can you not, as you look back, see what a great change has passed over you in the short few months? I do not mean the corporeal change involved by our climate or our prandial habits; neither do I allude to the change in your dress and outward appearance. I refer to the mental transformation.
+In the past term (I think I can answer for some of you) a much deeper meaning has entered into your lives. Especially you, the young freshmen (happily I have had the control of many, the teaching of some), I know that life has become fuller for you. That half-hour a week to which you pay so little heed will mean much in later years. You have come to me in batches for half-an-hour a week, and each of you has thus enjoyed collectively the beginning of that private control and moulding of the character which is the object of all our efforts here in [[settings/oxford|Oxford]]. And can you not, as you look back, see what a great change has passed over you in the short few months? I do not mean the corporeal change involved by our climate or our prandial habits; neither do I allude to the change in your dress and outward appearance. I refer to the mental transformation.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3634,11 +3634,11 @@ In the past term (I think I can answer for some of you) a much deeper meaning ha
 
 Allora andate avanti! Ancora una volta vi dico: andate avanti! Il momento è vicino in cui l’Inghilterra comprenderà che le vostre richieste di rispetto, riconoscimento e remunerazione sono uguali alle nostre. Lo ripeto: andate avanti, e quando riuscirete a far cambiare opinione alla maggior parte delle famiglie, allora davvero trasformerete il mondo! Perché senza la mente, l’intelligenza umana non è nulla.
 
-# Il leader di Lambkin
+Il leader di Lambkin
 
 Il signor Solomon era sempre determinato a mantenere il livello di qualità del “Sunday Englishman”. “Lo dobbiamo” – diceva – “prima di tutto al pubblico che ne trae beneficio, e poi a noi stessi, poiché questo ci garantisce una circolazione sempre maggiore”. Con “noi stessi” si riferiva agli azionisti, poiché il “Sunday Englishman” era una società a responsabilità limitata le cui azioni (di cui il signor Solomon possedeva la maggioranza) venivano distribuite all’interno della famiglia; persino il più piccolo bambino di due anni riceveva una quota dalle sue genitori, che lo trattavano con affetto e generosità.
 
-In questo lodevole sforzo di “tenersi al passo con i tempi” (come egli stesso lo esprimeva), l’Editore e co-proprietario decise di far scrivere gli articoli da persone universitarie, che, grazie alla loro posizione privilegiata, possedevano un’esperienza unica in materia pratica. Aveva una grande stima delle capacità giornalistiche di Lambkin, basandosi sulle sue lettere inedite come corrispondente speciale. Infatti, si diceva spesso che “un uomo del genere era sprecato a [[Oxford]]; era nato per Fleet Street”. Pertanto scrisse a Lambkin dando a lui “carta bianca”, indicandogli soltanto le linee generali: l’articolo doveva essere “intelligente, aggiornato e pieno di energia”; non troppo lungo né troppo breve; scritto in un tono semplice e familiare, ma senza contenuti seriamente offensivi.
+In questo lodevole sforzo di “tenersi al passo con i tempi” (come egli stesso lo esprimeva), l’Editore e co-proprietario decise di far scrivere gli articoli da persone universitarie, che, grazie alla loro posizione privilegiata, possedevano un’esperienza unica in materia pratica. Aveva una grande stima delle capacità giornalistiche di Lambkin, basandosi sulle sue lettere inedite come corrispondente speciale. Infatti, si diceva spesso che “un uomo del genere era sprecato a [[settings/oxford|Oxford]]; era nato per Fleet Street”. Pertanto scrisse a Lambkin dando a lui “carta bianca”, indicandogli soltanto le linee generali: l’articolo doveva essere “intelligente, aggiornato e pieno di energia”; non troppo lungo né troppo breve; scritto in un tono semplice e familiare, ma senza contenuti seriamente offensivi.
 
 Il signor Lambkin fu molto felice; e quando, su sua richiesta, l’articolo fu pagato, inviò quanto segue:
 
@@ -3658,7 +3658,7 @@ La fine del semestre si avvicina, anzi, è già arrivata. Tra poco non ci vedrem
 
 Questo non è un momento di esultanza, quindi non dovrebbe nemmeno essere un momento di lutto troppo assoluto. Non si tratta della fine del semestre di Pasqua, né di quello estivo. Si tratta della fine del semestre di San Michele. Questa è la realtà, e i fatti devono essere affrontati con onestà. Cosa dobbiamo fare riguardo alle vacanze imminenti? E cosa abbiamo fatto durante il semestre appena trascorso?
 
-Nel semestre scorso (credo di poter rispondere per alcuni di voi), un significato molto più profondo è entrato nelle vostre vite. Soprattutto voi, giovani matricole. Fortunatamente ho avuto l’opportunità di guidare molti di voi, di insegnare ad altri. So che la vostra vita è diventata più ricca di significati. Quell’ora e mezza alla settimana, a cui prestavate così poca attenzione, avrà un grande valore negli anni futuri. Siete venuti da me in gruppi, per quell’ora e mezza ogni settimana. E ognuno di voi ha potuto, collettivamente, iniziare quel processo di formazione personale e di sviluppo del carattere che rappresenta l’obiettivo principale di tutti i nostri sforzi qui a [[Oxford]]. Non riuscite forse, guardando indietro, a vedere quanto grande sia stato il cambiamento che avete vissuto in questi pochi mesi? Non intendo parlare dei cambiamenti fisici causati dal clima o dalle nostre abitudini alimentari. Né alludo ai cambiamenti nel vostro abbigliamento o nell’aspetto esteriore. Mi riferisco alla trasformazione mentale che avete subito.
+Nel semestre scorso (credo di poter rispondere per alcuni di voi), un significato molto più profondo è entrato nelle vostre vite. Soprattutto voi, giovani matricole. Fortunatamente ho avuto l’opportunità di guidare molti di voi, di insegnare ad altri. So che la vostra vita è diventata più ricca di significati. Quell’ora e mezza alla settimana, a cui prestavate così poca attenzione, avrà un grande valore negli anni futuri. Siete venuti da me in gruppi, per quell’ora e mezza ogni settimana. E ognuno di voi ha potuto, collettivamente, iniziare quel processo di formazione personale e di sviluppo del carattere che rappresenta l’obiettivo principale di tutti i nostri sforzi qui a [[settings/oxford|Oxford]]. Non riuscite forse, guardando indietro, a vedere quanto grande sia stato il cambiamento che avete vissuto in questi pochi mesi? Non intendo parlare dei cambiamenti fisici causati dal clima o dalle nostre abitudini alimentari. Né alludo ai cambiamenti nel vostro abbigliamento o nell’aspetto esteriore. Mi riferisco alla trasformazione mentale che avete subito.
 
 
 
@@ -3679,7 +3679,7 @@ As to the religious state of the college it is, as you all know, excellent — I
 
 We have had no deaths to deplore during this term, and in my opinion the attack of mumps that affected the college during November can hardly be called an epidemic. The drains will be thoroughly overhauled during the vacation, and the expense of this, spread as it will be among all undergraduate members whether in residence or not, will form a very trifling addition to Battells. I doubt if its effect will be felt.
 
-There is one last thing that I shall touch upon. We have been constantly annoyed by the way in which undergraduates tread down the lawn. The [[Oxford]] turf is one of the best signs of our antiquity as a university. There is no turf like it in the world. The habit of continually walking upon it is fatal to its appearance. Such an action would certainly never be permitted in a gentleman’s seat, and there is some talk of building a wall round the quadrangle to prevent the practice in question. I need hardly tell you what a disfigurement such a step would involve, but if there is one thing in the management of the college that I am more determined upon than another it is that no one be he scholar or be he commoner shall walk upon the grass!
+There is one last thing that I shall touch upon. We have been constantly annoyed by the way in which undergraduates tread down the lawn. The [[settings/oxford|Oxford]] turf is one of the best signs of our antiquity as a university. There is no turf like it in the world. The habit of continually walking upon it is fatal to its appearance. Such an action would certainly never be permitted in a gentleman’s seat, and there is some talk of building a wall round the quadrangle to prevent the practice in question. I need hardly tell you what a disfigurement such a step would involve, but if there is one thing in the management of the college that I am more determined upon than another it is that no one be he scholar or be he commoner shall walk upon the grass!
 
 I wish you a very Merry Christmas at the various country houses you may be visiting, and hope and pray that you may find united there all the members of your own family.
 
@@ -3687,7 +3687,7 @@ Mr. Gurge will remain behind and speak to me for a few moments.
 
 XII. Lambkin’s Article on the North-west Corner of the Mosaic Pavement of the Roman Villa at Bignor
 
-OF MR. LAMBKIN’S historical research little mention has been made, because this was but the recreation of a mind whose serious work was much more justly calculated to impress posterity. It is none the less true that he had in the inner coterie of Antiquarians, a very pronounced reputation, and that on more than one occasion his discoveries had led to animated dispute and even to friction. He is referred to as “Herr Professor Lambkin” in Winsk’s “Roman Sandals,”61 and Mr. Bigchurch in the Preface of his exhaustive work on “The Drainage of the Grecian Sea Port” (which includes much information on the Ionian colonies and Magna Graecia) acknowledges Mr. Lambkin’s “valuable sympathy and continuous friendly aid which have helped him through many a dark hour.” Lambkin was also frequently sent books on Greek and Roman Antiquities to review; and it must be presumed that the editor of Culture,62 who was himself an [[Oxford]] man and had taken a House degree in 1862, would hardly have had such work done by an ignorant man.
+OF MR. LAMBKIN’S historical research little mention has been made, because this was but the recreation of a mind whose serious work was much more justly calculated to impress posterity. It is none the less true that he had in the inner coterie of Antiquarians, a very pronounced reputation, and that on more than one occasion his discoveries had led to animated dispute and even to friction. He is referred to as “Herr Professor Lambkin” in Winsk’s “Roman Sandals,”61 and Mr. Bigchurch in the Preface of his exhaustive work on “The Drainage of the Grecian Sea Port” (which includes much information on the Ionian colonies and Magna Graecia) acknowledges Mr. Lambkin’s “valuable sympathy and continuous friendly aid which have helped him through many a dark hour.” Lambkin was also frequently sent books on Greek and Roman Antiquities to review; and it must be presumed that the editor of Culture,62 who was himself an [[settings/oxford|Oxford]] man and had taken a House degree in 1862, would hardly have had such work done by an ignorant man.
 
 If further proof were needed of Mr. Lambkin’s deep and minute scholarship in this matter it would be discovered in the many reproductions of antiquities which used to hang round his room in college. They were photographs of a reddish-brown colour and represented many objects dear to the Scholar, such as the Parthenon, the Temples of Paestum, the Apollo Belvedere, and the Bronze head at the Vatican; called in its original dedication an Ariadne, but more properly described by M. Crémieux-Nathanson, in the light of modern research, as a Silenus.
 
@@ -3708,7 +3708,7 @@ Per quanto riguarda lo stato religioso di questo college, è, come tutti sapete,
 
 Durante questo semestre non abbiamo avuto decessi da lamentare, e a mio parere l’epidemia di orecchiette che ha colpito il college a novembre difficilmente può essere definita tale. Durante le vacanze i sistemi fognari saranno completamente riparati, e le spese sostenute, distribuite tra tutti gli studenti universitari, residenti o meno, rappresenteranno un contributo molto modesto alle risorse di Battells. Dubito che questo intervento abbia effetti significativi.
 
-C’è ancora una cosa su cui vorrei soffermarmi. Siamo costantemente infastiditi dal modo in cui gli studenti universitari calpestano il prato. L’erba di [[Oxford]] rappresenta uno dei simboli più evidenti della nostra antichità come università; non esiste al mondo un’erba simile. Il fatto che venga continuamente calpestata danneggia gravemente il suo aspetto. Un comportamento del genere non verrebbe mai tollerato in un ambiente rispettabile, e si parla addirittura di costruire un muro attorno al cortile per impedire questa pratica. Non c’è bisogno che vi spieghi quanto sia dannoso un simile intervento. Ma se c’è una cosa su cui sono particolarmente deciso nella gestione del college, è che nessuno, né studente né comune, possa calpestare l’erba!
+C’è ancora una cosa su cui vorrei soffermarmi. Siamo costantemente infastiditi dal modo in cui gli studenti universitari calpestano il prato. L’erba di [[settings/oxford|Oxford]] rappresenta uno dei simboli più evidenti della nostra antichità come università; non esiste al mondo un’erba simile. Il fatto che venga continuamente calpestata danneggia gravemente il suo aspetto. Un comportamento del genere non verrebbe mai tollerato in un ambiente rispettabile, e si parla addirittura di costruire un muro attorno al cortile per impedire questa pratica. Non c’è bisogno che vi spieghi quanto sia dannoso un simile intervento. Ma se c’è una cosa su cui sono particolarmente deciso nella gestione del college, è che nessuno, né studente né comune, possa calpestare l’erba!
 
 Vi auguro un Felice Natale in tutte le residenze di campagna che probabilmente state visitando, e spero e prego che lì possiate ritrovare tutti i membri della vostra famiglia riuniti.
 
@@ -3905,7 +3905,7 @@ Ma ho detto abbastanza. Devo concludere. L’amore per la fama, che è stato bel
 
 (A questo punto, il signor Lambkin lasciò improvvisamente il pulpito.)
 
-# XIV. La lettera aperta di Lambkin ai chierici
+XIV. La lettera aperta di Lambkin ai chierici
 
 Il clamore suscitato dal famoso consiglio del signor Lambkin all’arcidiacono Burfle sarà ricordato da tutti i miei lettori. Tuttavia, egli non pubblicò quella lettera (come erroneamente si ritiene in “Great Dead Men of the Period”),72 senza averla prima attentamente discussa e riflettuta. Personalmente non lo esortai a renderla pubblica: ritenevo che fosse imprudente farlo. Ma si potrebbe quasi dire che il signor Large abbia insistito su questo punto durante la lunga conversazione che ebbe con Josiah sull’argomento. Dopo che Lambkin se ne fu andato, ebbi l’ardire di andare a trovarlo di nuovo, ma quella lettera fatale era già stata inviata e il giorno seguente apparve su “The Times”, “The Echo” e altri giornali, per non menzionare “The Englishman’s Anchor”. Non intendo accusare il signor Large di alcuna intenzione maliziosa o di voler ingannare deliberatamente qualcuno, ma temo che (essendo una persona non impulsiva) il suo consiglio derivasse da una grave e calcolata mancanza di giudizio.
 
@@ -3923,7 +3923,7 @@ Lettera aperta
 
 Burford. Vigilia di San Giovanni, 1876.
 
-# Mio caro Burfle,
+Mio caro Burfle,
 
 
 
@@ -3975,11 +3975,11 @@ Non esiste alcun modo per evitare una tale catastrofe?
 
 Certamente sì. Esiste una strada su cui entrambi possono viaggiare, un luogo dove tutti possono incontrarsi. Intendo dire le scarpe da ginnastica (preferibilmente quelle in tessuto con i lacci elastici). Molti dei nostri chierici le indossano già. Non offendono nessuna delle due parti, soddisfano, o dovrebbero soddisfare, entrambe; e per quanto mi riguarda, vi vedo uno di quei compromessi su cui si fonda la nostra grandezza. Diamo quindi il via a non essere né pecore né capre in questa questione. È molto meglio, davvero molto meglio, ammettere un po’ di “timidezza” nella nostra “capricciosità”, o (se i nostri estremisti lo vogliono così) un po’ di “capricciosità” nella nostra “timidezza”: è meglio, dico io, unirsi sotto lo stesso stendardo e vivere in pace, piuttosto che mettere a rischio i nostri principi più cari e amati per una semplice disputa su questioni secondarie. Perché, dopotutto, cosa è essenziale per noi? Non le scarpe, penso, ma la rettitudine. La rettitudine può manifestarsi attraverso le scarpe; è giusto e buono che sia così. Ma vedere la rettitudine nelle scarpe stesse significa cadere nel grossolano materialismo del Medioevo, dimenticando il nostro diritto innato e i valori fondamentali della nostra fede.
 
-# Tuo (caro Burfle), con tutto il mio affetto
+Tuo (caro Burfle), con tutto il mio affetto
 
 Josiah Lambkin.
 
-# XV. La lettera di Lambkin a un amico francese
+XV. La lettera di Lambkin a un amico francese
 
 L’interesse di Lambkin per il Continente era profondo e duraturo. Conosceva bene la parte occidentale di questa parte del globo grazie a un costante viaggiare che lo portava attraverso la rotta Calais-Basilea, passando di notte per il San Gottardo, fino alle storiche pianure dell’Italia. Fu a Milano che scrisse la sua “Grammatica anglo-sassone ridotta”, e ad Assisi corresse le bozze del suo articolo sul valore degli avena come alimento umano. Tutti ricorderanno l’abominevole atto di violenza avvenuto a Napoli, dove fu pugnalato da un cocchiere in segno di vendetta per la sua nobile e disinteressata protezione di un povero cavallo da calesa; insomma, l’Italia è piena dei suoi ricordi legati ai viaggi, e nessun nome è più noto ai membri del Club della Villa Marinoni.
 
@@ -3990,15 +3990,15 @@ Potrebbe sembrare strano che, in tali circostanze, i nostri sfortunati vicini al
 <span class="atom-split" data-atom="part--part_20" data-title="Lambkin’s Remains (part 20)" data-chapter="part 20" data-kind="excerpt" data-tags="concept/vanity,setting/oxford"></span>
 
 
-Mr. Lambkin had but one close friend in France, a man who had from cosmopolitan experience acquired a breadth and humour which the Frenchman so conspicuously lacks; he united, therefore, the charm of the French character to that general experience which Lambkin invariably demanded of his friends, and the fact that he belonged to a small political minority and had so long associated with foreigners had winnowed from that fine soul the grossness and one-sidedness, the mingled [[Vanity|vanity]] and ferocity, which seems so fatal a part of the Gallic temper. In some ways this friend reminded one of the great Huguenots whom France to her eternal loss banished by the revocation of the Edict of Nantes, and of whom a bare twenty thousand are now to be found in the town of Nîmes. In other ways this gifted mind recalled — and this would be in his moments of just indignation — the manner and appearance of a Major Prophet.
+Mr. Lambkin had but one close friend in France, a man who had from cosmopolitan experience acquired a breadth and humour which the Frenchman so conspicuously lacks; he united, therefore, the charm of the French character to that general experience which Lambkin invariably demanded of his friends, and the fact that he belonged to a small political minority and had so long associated with foreigners had winnowed from that fine soul the grossness and one-sidedness, the mingled [[concepts/vanity|vanity]] and ferocity, which seems so fatal a part of the Gallic temper. In some ways this friend reminded one of the great Huguenots whom France to her eternal loss banished by the revocation of the Edict of Nantes, and of whom a bare twenty thousand are now to be found in the town of Nîmes. In other ways this gifted mind recalled — and this would be in his moments of just indignation — the manner and appearance of a Major Prophet.
 
 Jules de la Vaguère dè Bissac was the first of his family to bear that ancient name, but not the least worthy. Born on a Transatlantic in the port of Hamburg, his first experience of life had been given him in the busy competition of New York. It was there that he acquired the rapid glance, the grasp, the hard business head which carried him from Buenos Ayres to Amsterdam, and finally to a fortune. His wealth he spent in the entertainment of his numerous friends, in the furtherance of just aims in politics (to which alas! the rich in France do not subscribe as they should), to the publication of sound views in the press, and occasionally (for old habit is second nature80), in the promotion of some industrial concern destined to benefit his country and the world.81 With transactions, however sound and honest, that savoured of mere speculation De Bissac would have nothing to do, and when his uncle and brother fled the country in 1887, he helped, indeed, with his purse but he was never heard to excuse or even to mention the poor, fallen men.
 
-His hotel in the Rue des Fortifications (a modest but coquettish little gem, whose doors were bronze copies of the famous gates of the Baptistery at Florence), had often received Mr. Lambkin and a happy circle of friends. Judge then of the horror and indignation with which [[Oxford]] heard that two of its beautiful windows had been intentionally broken on the night of June 15th, 1896. The famous figure of “Mercy,” taken from the stained glass at Rheims, was destroyed and one of the stones had fallen on the floor within an inch of a priceless Sèvres vase that had once belonged to Law and had been bought from M. Panama. It was on the occasion of this abominable outrage that Mr. Lambkin sent the following letter, which, as it was published in the Horreur, I make no scruple of reprinting. But, for the sake of the historical interest it possesses, I give it in its original form: —
+His hotel in the Rue des Fortifications (a modest but coquettish little gem, whose doors were bronze copies of the famous gates of the Baptistery at Florence), had often received Mr. Lambkin and a happy circle of friends. Judge then of the horror and indignation with which [[settings/oxford|Oxford]] heard that two of its beautiful windows had been intentionally broken on the night of June 15th, 1896. The famous figure of “Mercy,” taken from the stained glass at Rheims, was destroyed and one of the stones had fallen on the floor within an inch of a priceless Sèvres vase that had once belonged to Law and had been bought from M. Panama. It was on the occasion of this abominable outrage that Mr. Lambkin sent the following letter, which, as it was published in the Horreur, I make no scruple of reprinting. But, for the sake of the historical interest it possesses, I give it in its original form: —
 
 “Cher Ami et Monsieur,
 
-Je n’ai pas de doute que vous aurez souvenu votre visite à [[Oxford]], car je suis bien sur que je souviens ma visite à Paris, quand je fus recu avec tant de bienveillance par vous et votre aimable famille.
+Je n’ai pas de doute que vous aurez souvenu votre visite à [[settings/oxford|Oxford]], car je suis bien sur que je souviens ma visite à Paris, quand je fus recu avec tant de bienveillance par vous et votre aimable famille.
 
 Vous aurez donc immediatement après l’accident pensé à nous car vous aurez su que nous étions, moi et Bilkin, vos amis sincerès surtout dans la politique. Nous avons expecté quelque chose pareille et nous comprenons bien pourquoi c’est le mauvais Durand qui a jété les pierres. Vous avez été trop bon pour cet homme là. Souvenez-vous en future que c’est exactement ceux à qui nous pretons de l’argent et devraient être dévoués à nous, qui deviennent des ennemis. Voilà ce qui empêche si souvent de faire du bien excepté à ceux qui nous seront fideles et doux.
 
@@ -4023,15 +4023,15 @@ A REPRESENTATIVE OF The J. C. R. had, but a short while before his death, the pr
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il signor Lambkin aveva in Francia un solo amico intimo: un uomo che, grazie alle sue esperienze cosmopolite, possedeva una visione ampia del mondo e un senso dell’umorismo che i francesi di solito mancano; per questo motivo, quel suo amico univa il fascino tipico del carattere francese con quella saggezza universale che Lambkin richiedeva sempre ai suoi amici. Inoltre, poiché apparteneva a una piccola minoranza politica e aveva trascorso molto tempo in compagnia di stranieri, queste esperienze gli avevano permesso di eliminare da quella nobile anima quelle caratteristiche volgari e unilaterali, quella mescolanza di [[Vanity|vanità]] e ferocia che sembrano essere parte intrinseca del temperamento francese. In alcuni aspetti, questo amico ricordava quei grandi ugonotti che la Francia, a suo eterno danno, espulse con l’annullamento dell’Editto di Nantes; oggi, solo ventimila di loro sopravvivono nella città di Nîmes. In altri momenti, quando provava giusta indignazione, il suo modo di pensare e il suo aspetto ricordavano quelli di un “Profeeta Maggiore”.
+Il signor Lambkin aveva in Francia un solo amico intimo: un uomo che, grazie alle sue esperienze cosmopolite, possedeva una visione ampia del mondo e un senso dell’umorismo che i francesi di solito mancano; per questo motivo, quel suo amico univa il fascino tipico del carattere francese con quella saggezza universale che Lambkin richiedeva sempre ai suoi amici. Inoltre, poiché apparteneva a una piccola minoranza politica e aveva trascorso molto tempo in compagnia di stranieri, queste esperienze gli avevano permesso di eliminare da quella nobile anima quelle caratteristiche volgari e unilaterali, quella mescolanza di [[concepts/vanity|vanità]] e ferocia che sembrano essere parte intrinseca del temperamento francese. In alcuni aspetti, questo amico ricordava quei grandi ugonotti che la Francia, a suo eterno danno, espulse con l’annullamento dell’Editto di Nantes; oggi, solo ventimila di loro sopravvivono nella città di Nîmes. In altri momenti, quando provava giusta indignazione, il suo modo di pensare e il suo aspetto ricordavano quelli di un “Profeeta Maggiore”.
 
 Jules de la Vaguère dè Bissac fu il primo della sua famiglia a portare quel nome antico, ma non certo il meno degno di esso. Nato su una nave transatlantica nel porto di Amburgo, le sue prime esperienze di vita ebbero luogo nella frenetica atmosfera di New York. Fu lì che sviluppò quell’acume visivo, quella capacità decisionale e quel senso degli affari che lo portarono da Buenos Aires ad Amsterdam, fino a raggiungere la ricchezza. Impiegò il proprio patrimonio nel divertire i numerosi amici, nel promuovere cause giuste in politica (cosa che purtroppo i ricchi in Francia non fanno quanto dovrebbero), nella pubblicazione di opinioni valide sulla stampa, e occasionalmente – per vecchia abitudine – nel sostegno di imprese industriali destinate a beneficiare il proprio paese e il mondo. Tuttavia, evitava qualsiasi operazione commerciale che avesse anche solo l’aspetto della semplice speculazione; quando suo zio e suo fratello fuggirono dal paese nel 1887, li aiutò con i suoi soldi, ma non si sentì mai in dovere di giustificare o menzionare quelle persone cadute in disgrazia.
 
-Il suo hotel situato in Rue des Fortifications – un piccolo gioiello modesto ma grazioso, le cui porte erano copie in bronzo delle famose porte del Battistero di Firenze – aveva spesso ospitato il signor Lambkin e un gruppo felice di amici. Immaginate quindi l’orrore e la indignazione con cui [[Oxford]] apprese che due delle sue bellissime finestre erano state intenzionalmente rotte nella notte del 15 giugno 1896. La famosa statua di “Misericordia”, tratta dai vetri colorati di Reims, fu distrutta e uno dei pezzi di vetro cadde a pochi centimetri da un inestimabile vaso di Sèvres che un tempo apparteneva a Law ed era stato acquistato dal signor Panama. Fu proprio in occasione di questo abominevole atto di vandalismo che il signor Lambkin inviò la seguente lettera, che, essendo stata pubblicata su “Horreur”, non esito a riprodurla qui. Tuttavia, per il valore storico che possiede, la presento nella sua forma originale: —
+Il suo hotel situato in Rue des Fortifications – un piccolo gioiello modesto ma grazioso, le cui porte erano copie in bronzo delle famose porte del Battistero di Firenze – aveva spesso ospitato il signor Lambkin e un gruppo felice di amici. Immaginate quindi l’orrore e la indignazione con cui [[settings/oxford|Oxford]] apprese che due delle sue bellissime finestre erano state intenzionalmente rotte nella notte del 15 giugno 1896. La famosa statua di “Misericordia”, tratta dai vetri colorati di Reims, fu distrutta e uno dei pezzi di vetro cadde a pochi centimetri da un inestimabile vaso di Sèvres che un tempo apparteneva a Law ed era stato acquistato dal signor Panama. Fu proprio in occasione di questo abominevole atto di vandalismo che il signor Lambkin inviò la seguente lettera, che, essendo stata pubblicata su “Horreur”, non esito a riprodurla qui. Tuttavia, per il valore storico che possiede, la presento nella sua forma originale: —
 
 “Cari amici e signori,”
 
-Non ho dubbi che ricorderete la vostra visita a [[Oxford]], perché sono certo di ricordare anch'io la mia visita a Parigi, quando fui accolto con tanta gentilezza da voi e dalla vostra adorabile famiglia.
+Non ho dubbi che ricorderete la vostra visita a [[settings/oxford|Oxford]], perché sono certo di ricordare anch'io la mia visita a Parigi, quando fui accolto con tanta gentilezza da voi e dalla vostra adorabile famiglia.
 
 Quindi, immediatamente dopo l’incidente, avete pensato a noi perché sapevate che io e Bilkin eravamo i vostri veri amici, soprattutto in ambito politico. Ci aspettavamo qualcosa del genere e capiamo benissimo perché è stato quel cattivo Durand ad lanciare le pietre. Siete stati troppo buoni con quell’uomo. Ricordatevi in futuro che sono proprio coloro a cui prestiamo denaro e che dovrebbero essere fedeli a noi a diventare nostri nemici. Ecco il motivo per cui spesso non si riesce a fare del bene, tranne che verso coloro che ci saranno sempre fedeli e gentili.
 
@@ -4068,7 +4068,7 @@ Un rappresentante della J. C. R., poco prima della sua morte, ebbe l’onore di 
 
 “A profound silence followed. ‘However,’ continued he with quiet emphasis, ‘Home Rule is dead, and there is no immediate danger of any tampering with the judicial system of Great Britain after the fashion that obtains in France.’
 
-“‘Yes,’ he continued, with the smile that makes him so familiar, ‘these are my books: trifles, — but my own. Here’ (taking down a volume), ’is What would Cromwell have done? — a proposal for reforming [[Oxford]]. Then here, in a binding with purple flowers, is my Time and Purpose, — a devotional book which has sold largely. The rest of the shelf is what I call my ‘casual’ work. It was mainly done for that great modern publisher, — Matthew Straight, who knows so well how to combine the old Spirit with Modern exigencies. You know his beautiful sign of the Boiling Pot in Plummer’s Court? It was painted for him by one of his young artists. You have doubtless seen his name in the lists of guests at country houses; I often meet him when I go to visit my friends, and we plan a book together.
+“‘Yes,’ he continued, with the smile that makes him so familiar, ‘these are my books: trifles, — but my own. Here’ (taking down a volume), ’is What would Cromwell have done? — a proposal for reforming [[settings/oxford|Oxford]]. Then here, in a binding with purple flowers, is my Time and Purpose, — a devotional book which has sold largely. The rest of the shelf is what I call my ‘casual’ work. It was mainly done for that great modern publisher, — Matthew Straight, who knows so well how to combine the old Spirit with Modern exigencies. You know his beautiful sign of the Boiling Pot in Plummer’s Court? It was painted for him by one of his young artists. You have doubtless seen his name in the lists of guests at country houses; I often meet him when I go to visit my friends, and we plan a book together.
 
 “‘Thus my Boys of Great Britain — an historical work, was conceived over the excellent port of Baron Gusmann at Westburton Abbey. Then there is the expansion of this book, English Boyhood, in three volumes, of which only two have appeared — Anglo-Saxon Boyhood and Mediæval Boyhood in England. It is very laborious.
 
@@ -4155,7 +4155,7 @@ Ma non pensate che io intenda spiegarlo.
 
 In larga misura… Credetemi.
 
-# Farvi soffrire un po’…
+Farvi soffrire un po’…
 
 E se non mi piaci, lasciami andare.
 
@@ -4165,7 +4165,7 @@ E soprattutto non potete lamentarvi…
 
 Recensori, il cui mestiere è…
 
-#Sforzarsi con tutte le proprie forze
+Sforzarsi con tutte le proprie forze
 
 Biografie di signore single.
 
@@ -4177,7 +4177,7 @@ Il piano ha dimenticato… (Non so come.)
 
 “Forse era il refettorio a riempirlo…”
 
-#Inserire una cappella… e ora?
+Inserire una cappella… e ora?
 
 Stiamo ipotecando il resto per costruirlo.
 
@@ -4319,11 +4319,11 @@ Il signor Lambkin mi ha assicurato che il suo signore aveva mantenuto queste rel
 
 11 Il signor Punt, il signor Howl e il signor Grewcock, – ahimè, ora tutti defunti.
 
-# 12: Una raffinata interpretazione di “Sublimi feriam sidera vertice”.
+12: Una raffinata interpretazione di “Sublimi feriam sidera vertice”.
 
 13 Ai Giudici Esaminatori. Questi fatti (della cui accuratezza garantisco) mi sono stati forniti da un Direttore.
 
-# 14 Un ricordo di Milton: “È necessario imparare anche dall’avversario”.
+14 Un ricordo di Milton: “È necessario imparare anche dall’avversario”.
 
 15. Lambkin mi disse di pentirsi di questa riga, che era stata scritta per motivi legati alla rima. Avrebbe volentieri sostituita quella riga, ma fino all’ultimo giorno della sua vita non riuscì a trovarne nessuna alternativa.
 
@@ -4331,7 +4331,7 @@ Questa aneddota si trova nel mio libro “Cinquanta anni di conoscenze casuali�
 
 Nel giugno del 1881, quando un suo allievo gli chiese decisamente di definire la Felicità, Lambkin rifiutò categoricamente: anzi, il suo odio per le definizioni era così noto che tra i giovani studiosi più irrequieti gli venne affibbiato con bonarietà il soprannome di “il Lento”.
 
-# 18 il centro
+18 il centro
 
 Questo fu il primo esempio storico della conoscenza di Lamkin dell’ebraico: una competenza che in seguito utilizzò in modo estensivo nella sua critica al falso Giovanni.
 
@@ -4339,9 +4339,9 @@ Questo fu il primo esempio storico della conoscenza di Lamkin dell’ebraico: un
 
 21.umoristico.
 
-# 22 Il manoscritto è quasi indecifrabile
+22 Il manoscritto è quasi indecifrabile
 
-# 23 La parola stessa “dormante” deriva dal latino, che significa “addormentato”.
+23 La parola stessa “dormante” deriva dal latino, che significa “addormentato”.
 
 Conoscevo il Professore M’O negli anni Sessanta. Era un scozzese affascinante e colto, con una perfetta padronanza della lingua inglese.
 

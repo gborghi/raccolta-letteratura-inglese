@@ -20,16 +20,16 @@ THE NEW FICTION
 
 by G.K.Chesterton  
 
-("Leave them [[Alone|alone]]", we seem to hear Mr. Galsworthy say of his Young People.  
+("Leave them alone", we seem to hear Mr. Galsworthy say of his Young People.  
 ---From a Review by Mr. Bettany)  
 
 Little Blue-Fits has lost his wits,  
 And doesn't know where to find them;  
-Leave them [[Alone|alone]] and they'll come [[Home|home]],  
+Leave them alone and they'll come [[motifs/home|home]],  
 And leave their tales behind them.  
 
 The remarkable tales, with remarkable sales,  
-And Bonnets and [[Bees]] in disorder;  
+And Bonnets and [[motifs/bees|Bees]] in disorder;  
 For the Bonnets we view are exceedingly Blue,  
 And decidedly over the Border.
 
@@ -42,16 +42,16 @@ LA NUOVA NARRATIVA
 
 di G.K. Chesterton
 
-("Lasciateli [[Alone|in pace]]", par di sentir dire al signor Galsworthy dei suoi Giovani.  
+("Lasciateli in pace", par di sentir dire al signor Galsworthy dei suoi Giovani.  
 ---Da una recensione del signor Bettany)  
 
 Il piccolo Blu-Sbandato ha perso il senno,  
 e non sa dove ritrovarlo;  
-lasciateli [[Alone|in pace]] e torneranno a [[Home|casa]],  
+lasciateli in pace e torneranno a [[motifs/home|casa]],  
 lasciandosi dietro le loro storie.  
 
 Le storie notevoli, dalle notevoli vendite,  
-e Cuffie e [[Bees|Api]] in scompiglio;  
+e Cuffie e [[motifs/bees|Api]] in scompiglio;  
 ché le Cuffie che vediamo sono oltremodo Blu,  
 e decisamente oltre il Confine.
 
@@ -66,16 +66,16 @@ THE NEW FICTION
 
 by G.K.Chesterton  
 
-("Leave them [[Alone|alone]]", we seem to hear Mr. Galsworthy say of his Young People.  
+("Leave them alone", we seem to hear Mr. Galsworthy say of his Young People.  
 ---From a Review by Mr. Bettany)  
 
 Little Blue-Fits has lost his wits,  
 And doesn't know where to find them;  
-Leave them [[Alone|alone]] and they'll come [[Home|home]],  
+Leave them alone and they'll come [[motifs/home|home]],  
 And leave their tales behind them.  
 
 The remarkable tales, with remarkable sales,  
-And Bonnets and [[Bees]] in disorder;  
+And Bonnets and [[motifs/bees|Bees]] in disorder;  
 For the Bonnets we view are exceedingly Blue,  
 And decidedly over the Border.
 
@@ -86,17 +86,17 @@ And decidedly over the Border.
 
 LA NUOVA NARRATIVA  
 
-di G.K. Chesterton
+di G.K.Chesterton  
 
-("Lasciateli [[Alone|in pace]]", par di sentir dire al signor Galsworthy dei suoi Giovani.  
+("Lasciateli in pace", par di sentir dire al signor Galsworthy dei suoi Giovani.  
 ---Da una recensione del signor Bettany)  
 
 Il piccolo Blu-Sbandato ha perso il senno,  
 e non sa dove ritrovarlo;  
-lasciateli [[Alone|in pace]] e torneranno a [[Home|casa]],  
+lasciateli in pace e torneranno a [[motifs/home|casa]],  
 lasciandosi dietro le loro storie.  
 
 Le storie notevoli, dalle notevoli vendite,  
-e Cuffie e [[Bees|Api]] in scompiglio;  
+e Cuffie e [[motifs/bees|Api]] in scompiglio;  
 ché le Cuffie che vediamo sono oltremodo Blu,  
 e decisamente oltre il Confine.

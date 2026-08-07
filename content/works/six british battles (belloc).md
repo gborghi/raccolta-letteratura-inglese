@@ -35,7 +35,7 @@ tags:
   - topos/last_stand
   - topos/war_as_glory
 ---
-*by Belloc*  ·  **Cluster:** [[History · Catholicism · Europe]]
+*by Belloc*  ·  **Cluster:** [[clusters/history-·-catholicism-·-europe|History · Catholicism · Europe]]
 
 > [!abstract] 
 > A study of six battles in which British arms took part — Blenheim, Crecy, Tourcoing, Waterloo, Malplaquet and Poitiers — each analysed as an incident within its campaign and its governing political object. Belloc insists that military success can be measured only in terms of civil policy, and reconstructs the terrain, manoeuvre and action of each engagement. A work of narrative military history stretching from the Hundred Years' War to Napoleon.
@@ -58,11 +58,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[History]], [[Nonfiction]]
-**Themes & Concepts:** [[War and its Cost]], [[Heroism]], [[Nationalism and Patriotism]], [[Power and Corruption]], [[Courage]]
-**Motifs:** [[Battlefield (2)]], [[Swords and Weapons]], [[Flags and Banners]]
-**Historical References:** [[Hundred Years' War]], [[Napoleonic Wars the Navy]], [[French Revolution]], [[British Empire]]
-**Settings:** [[Battlefield]], [[France]], [[Military Camp]], [[Europe]]
-**Characters:** [[Napoleon]], [[Duke of Wellington]], [[Edward the Black Prince]], [[Louis XIV]]
-**Archetypes:** [[Hero]], [[Tragic Hero]]
-**Topoi:** [[Last Stand]], [[War as Glory]]
+**Forms & Genres:** [[concepts/history|History]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/heroism|Heroism]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/courage|Courage]]
+**Motifs:** [[motifs/battlefield-(2)|Battlefield (2)]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/flags-and-banners|Flags and Banners]]
+**Historical References:** [[historical-references/hundred-years'-war|Hundred Years' War]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/french-revolution|French Revolution]], [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/battlefield|Battlefield]], [[settings/france|France]], [[settings/military-camp|Military Camp]], [[settings/europe|Europe]]
+**Characters:** [[historical-references/napoleon|Napoleon]], [[characters/duke-of-wellington|Duke of Wellington]], [[characters/edward-the-black-prince|Edward the Black Prince]], [[characters/louis-xiv|Louis XIV]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/tragic-hero|Tragic Hero]]
+**Topoi:** [[topoi/last-stand|Last Stand]], [[topoi/war-as-glory|War as Glory]]

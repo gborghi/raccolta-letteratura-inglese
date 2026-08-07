@@ -14,4 +14,11 @@ Fielding's hero, discussed at length in the essay "Tom Jones and Morality" as pr
 
 <div class="concept-works" data-slug="characters/tom-jones"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/allthingsconsidered-8-(chesterton)|AllThingsConsidered-8 (Chesterton)]]
+- [[works/the-glass-walking-stick-(chesterton)|The Glass Walking Stick (Chesterton)]]
+
+</div>
+
 #graph/character

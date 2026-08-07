@@ -14,4 +14,10 @@ Chesterton's oldest school friend from St Paul's, inventor of the clerihew, and 
 
 <div class="concept-works" data-slug="characters/e.-c.-bentley"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/gkc-autobiography-(chesterton)|GKC-Autobiography (Chesterton)]]
+
+</div>
+
 #graph/character

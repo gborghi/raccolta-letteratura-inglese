@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/duke-simone-gesso"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-duchess-of-padua-(wilde)|The Duchess of Padua (Wilde)]]
+
+</div>
+
 #graph/character

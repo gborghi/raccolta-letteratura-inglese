@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="concepts/apocalypse-and-millennium"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/christian-religion-(coleridge)|CHRISTIAN RELIGION (Coleridge)]]
+- [[works/religious-musings-(coleridge)|RELIGIOUS MUSINGS (Coleridge)]]
+
+</div>
+
 #graph/concept

@@ -34,7 +34,7 @@ tags:
 
 # rolling
 
-*by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
+*by Chesterton*  ·  **Cluster:** [[clusters/wine-and-drink-·-ballad-ballade-·-road|Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 
 > A comic-elegiac ballad celebrating the crooked English road made by a drunkard, set against Roman straightness; ends contemplating 'the decent inn of death' and Paradise. Themes of Englishness, the open road, mortality and merry resignation.
@@ -45,15 +45,15 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Ancient Rome]], [[Napoleonic Wars the Navy]], [[Battle of Bannockburn]]
+**Historical References:** [[settings/ancient-rome|Ancient Rome]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/battle-of-bannockburn|Battle of Bannockburn]]
 
-**Archetypes:** [[Common Man (2)]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Topoi:** [[Open Road Homecoming]], [[Memento Mori]]
-**Motifs:** [[Road]], [[Wine and Drink]], [[Inn Tavern]], [[Flowers]], [[Rose]], [[Grave]]
-**Themes & Concepts:** [[Mortality]], [[Nationalism and Patriotism]], [[Joy]], [[Resignation]], [[Forgiveness]], [[Heaven and the Afterlife]], [[Nostalgia]], [[Order vs Chaos]], [[History]]
-**Forms & Genres:** [[Ballad Ballade]]
-**Settings:** [[Rural England]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/road|Road]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/flowers|Flowers]], [[motifs/rose|Rose]], [[motifs/grave|Grave]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/joy|Joy]], [[concepts/resignation|Resignation]], [[concepts/forgiveness|Forgiveness]], [[concepts/heaven-and-the-afterlife|Heaven and the Afterlife]], [[concepts/nostalgia|Nostalgia]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]
+**Settings:** [[settings/rural-england|Rural England]]
 
 ## Testo integrale / Full text
 

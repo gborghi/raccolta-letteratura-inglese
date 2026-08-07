@@ -28,7 +28,7 @@ tags:
 
 # kingcole
 
-*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Chesterton*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A virtuoso parody-sequence rewriting the Old King Cole nursery rhyme in the styles of Tennyson, Yeats, and Whitman; literary pastiche on mirth, wine and song.
@@ -39,15 +39,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[King]]
+**Archetypes:** [[archetypes/king|King]]
 
-**Topoi:** [[Golden Age]], [[Immortality Through Verse]]
+**Topoi:** [[topoi/golden-age|Golden Age]], [[topoi/immortality-through-verse|Immortality Through Verse]]
 
-**Characters:** [[Old King Cole]]
+**Characters:** [[characters/old-king-cole|Old King Cole]]
 
-**Motifs:** [[Wine and Drink]], [[Music and Song]], [[Crown]], [[Sea]], [[Sea and Voyage]]
-**Themes & Concepts:** [[Joy]], [[Imagination]], [[Mortality]], [[Literary Criticism (2)]]
-**Forms & Genres:** [[Parody]], [[Comic Verse Song]], [[Lyric]], [[Poem Sequence]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/music-and-song|Music and Song]], [[motifs/crown|Crown]], [[motifs/sea|Sea]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Themes & Concepts:** [[concepts/joy|Joy]], [[concepts/imagination|Imagination]], [[concepts/mortality|Mortality]], [[concepts/literary-criticism-(2)|Literary Criticism (2)]]
+**Forms & Genres:** [[forms/parody|Parody]], [[forms/comic-verse-song|Comic Verse Song]], [[forms/lyric|Lyric]], [[forms/poem-sequence|Poem Sequence]]
 
 ## Testo integrale / Full text
 

@@ -37,16 +37,16 @@ tags:
 
 Raccolta tematica di 10 componimenti di John Keats.
 
-- [[A Party of Lovers (Keats)|A Party of Lovers]]
-- [[ADDRESSED TO HAYDON (Keats)|ADDRESSED TO HAYDON]]
-- [[Ben Nevis - a Dialogue (Keats)|Ben Nevis - a Dialogue]]
-- [[Folly’s Song (Keats)|Folly’s Song]]
-- [[Modern Love (Keats)|Modern Love]]
-- [[Ode on Indolence (Keats)|Ode on Indolence]]
-- [[On Oxford A Parody (Keats)|On Oxford A Parody]]
-- [[Sonnet Before he went to feed with owls and bats (Keats)|Sonnet: Before he went to feed with owls and bats]]
-- [[Sonnet on Hearing the Bagpipe and (Keats)|Sonnet on Hearing the Bagpipe and]]
-- [[The Gadfly (Keats)|The Gadfly]]
+- [[testi/keats/atomized/satire-of-society-epigram-satire#132_a_party_of_lovers|A Party of Lovers]]
+- [[testi/keats/atomized/satire-of-society-epigram-satire#024_addressed_to_haydon|ADDRESSED TO HAYDON]]
+- [[testi/keats/atomized/satire-of-society-epigram-satire#109_ben_nevis_-_a_dialogue|Ben Nevis - a Dialogue]]
+- [[testi/keats/atomized/satire-of-society-epigram-satire#086_follys_song|Folly’s Song]]
+- [[testi/keats/atomized/satire-of-society-epigram-satire#069_modern_love|Modern Love]]
+- [[testi/keats/atomized/satire-of-society-epigram-satire#119_ode_on_indolence|Ode on Indolence]]
+- [[testi/keats/atomized/satire-of-society-epigram-satire#067_on_oxford_a_parody|On Oxford A Parody]]
+- [[testi/keats/atomized/satire-of-society-epigram-satire#056_sonnet_before_he_went_to_feed_with_owls_and_bats|Sonnet: Before he went to feed with owls and bats]]
+- [[testi/keats/atomized/satire-of-society-epigram-satire#106_sonnet_on_hearing_the_bagpipe_and|Sonnet on Hearing the Bagpipe and]]
+- [[testi/keats/atomized/satire-of-society-epigram-satire#105_the_gadfly|The Gadfly]]
 
 ## Testo / Text
 

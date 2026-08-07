@@ -14,4 +14,10 @@ William Pitt, cited in a comic anecdote jumping a turnpike-gate drunk with Dunda
 
 <div class="concept-works" data-slug="characters/pitt"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/turnpikes-(chesterton)|turnpikes (Chesterton)]]
+
+</div>
+
 #graph/character

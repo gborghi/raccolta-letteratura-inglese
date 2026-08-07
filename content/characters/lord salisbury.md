@@ -14,4 +14,10 @@ The former Prime Minister whose ceding of Heligoland and remarks on Ireland are 
 
 <div class="concept-works" data-slug="characters/lord-salisbury"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thecrimesofengland-(chesterton)|TheCrimesOfEngland (Chesterton)]]
+
+</div>
+
 #graph/character

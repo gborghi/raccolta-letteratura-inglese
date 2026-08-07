@@ -23,7 +23,7 @@ tags:
   - histref/prohibition_us
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
+*by Chesterton*  ·  **Cluster:** [[clusters/wine-and-drink-·-ballad-ballade-·-road|Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 
 > A comic satirical ballad mocking the American cult of speed, hustle and verbal shortcuts as a symbol of misguided modern 'Progress'.
@@ -34,15 +34,15 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Theodore Dreiser]], [[Prohibition (US)]]
+**Historical References:** [[historical-references/theodore-dreiser|Theodore Dreiser]], [[historical-references/prohibition-(us)|Prohibition (US)]]
 
-**Archetypes:** [[Self-Made Man]]
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]
 
-**Settings:** [[America]], [[Modern Metropolis]]
+**Settings:** [[settings/america|America]], [[settings/modern-metropolis|Modern Metropolis]]
 
-**Motifs:** [[Clock]], [[Wine and Drink]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Appearance vs Reality]], [[Power of Language]], [[Nationalism and Patriotism]]
-**Forms & Genres:** [[Ballad Ballade]], [[Satire]]
+**Motifs:** [[motifs/clock|Clock]], [[motifs/wine-and-drink|Wine and Drink]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/power-of-language|Power of Language]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/satire|Satire]]
 
 ## Testo integrale / Full text
 

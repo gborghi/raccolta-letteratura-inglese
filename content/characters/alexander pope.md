@@ -14,4 +14,11 @@ Augustan poet defended as a great, disciplined satirist whose antithetical coupl
 
 <div class="concept-works" data-slug="characters/alexander-pope"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+
+</div>
+
 #graph/character

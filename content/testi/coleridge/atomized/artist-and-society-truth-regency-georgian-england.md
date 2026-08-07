@@ -15,11 +15,11 @@ tags:
 
 
 Tho’ no bold flights to thee belong;  
-And tho’ thy lays with conscious [[Fear|fear]],  
+And tho’ thy lays with conscious [[concepts/fear|fear]],  
 Shrink from Judgement’s eye severe,  
-Yet much I thank thee, Spirit of my [[Song|song]]!  
+Yet much I thank thee, Spirit of my song!  
 For, lovely Muse! thy sweet employ   5  
-Exalts my [[Soul|soul]], refines my breast,  
+Exalts my [[motifs/soul|soul]], refines my breast,  
 Gives each pure pleasure keener zest,  
 And softens sorrow into pensive Joy.  
 From thee I learn’d the wish to bless,  
@@ -34,11 +34,11 @@ Whose hues gay-varying wanton in the sun.
 <span class="qlang-split" data-lang="it"></span>
 
 Benché a te non appartengano voli arditi;  
-e benché i tuoi canti, con [[Fear|timore]] consapevole,  
+e benché i tuoi canti, con [[concepts/fear|timore]] consapevole,  
 si ritraggano dall'occhio severo del Giudizio,  
-pure molto ti ringrazio, Spirito del mio [[Song|canto]]!  
+pure molto ti ringrazio, Spirito del mio canto!  
 Ché, amabile Musa, il tuo dolce ufficio   5  
-esalta la mia [[Soul|anima]], affina il mio petto,  
+esalta la mia [[motifs/soul|anima]], affina il mio petto,  
 dà a ogni puro piacere gusto più acuto,  
 e addolcisce il dolore in Gioia pensosa.  
 Da te appresi il desiderio di benedire,  
@@ -62,47 +62,47 @@ inscribed “To Matilda Betham, from a Stranger”; and dated “Keswick,
 Sept. 9, 1802, S. T. C.” I should have guessed whence they came, but  
 dared not flatter myself so highly as satisfactorily to believe it,  
 before I obtained the avowal of the lady who had transmitted them.  
-Excerpt from ‘Autobiographical [[Sketch]]’.]  
+Excerpt from ‘Autobiographical [[forms/sketch|Sketch]]’.]  
 Matilda! I have heard a sweet tune played  
 On a sweet instrument — thy Poesie —  
-Sent to my [[Soul|soul]] by Boughton’s pleading voice,  
-Where [[Friendship|friendship]]’s zealous wish inspirited,  
+Sent to my [[motifs/soul|soul]] by Boughton’s pleading voice,  
+Where [[concepts/friendship|friendship]]’s zealous wish inspirited,  
 Deepened and filled the subtle tones of taste:   5  
-(So have I heard a [[Nightingale]]’s fine notes  
+(So have I heard a [[motifs/nightingale|Nightingale]]’s fine notes  
 Blend with the murmur of a hidden stream!)  
 And now the fair, wild offspring of thy genius,  
 Those wanderers whom thy fancy had sent forth  
 To seek their fortune in this motley world,   10  
-Have found a little [[Home|home]] within my heart,  
+Have found a little [[motifs/home|home]] within my heart,  
 And brought me, as the quit-rent of their lodging,  
-[[Rose]]-buds, and fruit-blossoms, and pretty weeds,  
+[[motifs/rose|Rose]]-buds, and fruit-blossoms, and pretty weeds,  
 And timorous laurel leaflets half-disclosed,  
 Engarlanded with gadding woodbine tendrils!   15  
 A coronal, which, with undoubting hand,  
-I twine around the brows of patriot [[Hope|HOPE]]!  
+I twine around the brows of patriot [[concepts/hope|HOPE]]!  
 The Almighty, having first composed a Man,  
 Set him to music, framing Woman for him,  
 And fitted each to each, and made them one!   20  
-And ‘tis my [[Faith|faith]], that there’s a natural bond  
+And ‘tis my [[concepts/faith|faith]], that there’s a natural bond  
 Between the female mind and measured sounds,  
-Nor do I know a sweeter [[Hope]] than this,  
-That this sweet [[Hope]], by judgment unreproved,  
+Nor do I know a sweeter [[concepts/hope|Hope]] than this,  
+That this sweet [[concepts/hope|Hope]], by judgment unreproved,  
 That our own Britain, our dear mother Isle,   25  
 May boast one Maid, a poetess indeed,  
-Great as th’ impassioned Lesbian, in sweet [[Song|song]],  
+Great as th’ impassioned Lesbian, in sweet song,  
 And O! of holier mind, and happier fate.  
 Matilda! I dare twine thy vernal wreath  
-Around the brows of patriot [[Hope]]! But thou   30  
+Around the brows of patriot [[concepts/hope|Hope]]! But thou   30  
 Be wise! be bold! fulfil my auspices!  
 Tho’ sweet thy measures, stern must be thy thought,  
 Patient thy study, watchful thy mild eye!  
 Poetic feelings, like the stretching boughs  
 Of mighty oaks, pay homage to the gales,   35  
 Toss in the strong winds, drive before the gust,  
-Themselves one giddy [[Storm|storm]] of fluttering [[Leaves|leaves]];  
-Yet, all the while [[Self|self]]-limited, remain  
+Themselves one giddy [[motifs/storm|storm]] of fluttering [[motifs/leaves|leaves]];  
+Yet, all the while [[concepts/self|self]]-limited, remain  
 Equally near the fixed and solid trunk  
-Of [[Truth]] and [[Nature]] in the howling [[Storm|storm]],   40  
+Of [[concepts/truth|Truth]] and [[concepts/nature|Nature]] in the howling [[motifs/storm|storm]],   40  
 As in the calm that stills the aspen grove.  
 Be bold, meek Woman! but be wisely bold!  
 Fly, ostrich-like, firm land beneath thy feet,  
@@ -110,7 +110,7 @@ Yet hurried onward by thy wings of fancy
 Swift as the whirlwind, singing in their quills.   45  
 Look round thee! look within thee! think and feel!  
 What nobler meed, Matilda! canst thou win,  
-Than [[Tears|tears]] of gladness in a BOUGHTON’S eyes,  
+Than [[motifs/tears|tears]] of gladness in a BOUGHTON’S eyes,  
 And exultation even in strangers’ hearts?  
 1802.  
 
@@ -125,47 +125,47 @@ intitolati “To Matilda Betham, from a Stranger”; e datati “Keswick,
 9 sett. 1802, S. T. C.” Avrei dovuto indovinare donde venissero, ma  
 non osai lusingarmi tanto da crederlo con soddisfazione,  
 prima d'ottenere la confessione della signora che li aveva trasmessi.  
-Estratto da ‘Autobiographical [[Sketch]]’.]  
+Estratto da ‘Autobiographical [[forms/sketch|Sketch]]’.]  
 Matilda! Ho udito suonare una dolce melodia  
 su un dolce strumento — la tua Poesia —  
-inviata alla mia [[Soul|anima]] dalla voce supplice di Boughton,  
-dove il fervido desiderio dell'[[Friendship|amicizia]] animò,  
+inviata alla mia [[motifs/soul|anima]] dalla voce supplice di Boughton,  
+dove il fervido desiderio dell'[[concepts/friendship|amicizia]] animò,  
 approfondì e colmò i sottili toni del gusto:   5  
-(così ho udito le note fini d'un [[Nightingale|Usignolo]]  
+(così ho udito le note fini d'un [[motifs/nightingale|Usignolo]]  
 fondersi col mormorio d'un ruscello nascosto!)  
 E ora la bella, selvaggia prole del tuo genio,  
 quei vagabondi che la tua fantasia aveva mandato  
 a cercar fortuna in questo mondo variopinto,   10  
-hanno trovato una piccola [[Home|casa]] dentro il mio cuore,  
+hanno trovato una piccola [[motifs/home|casa]] dentro il mio cuore,  
 e mi hanno recato, come canone del loro alloggio,  
-boccioli di [[Rose|rosa]], e fiori da frutto, e graziose erbe selvatiche,  
+boccioli di [[motifs/rose|rosa]], e fiori da frutto, e graziose erbe selvatiche,  
 e timide foglioline d'alloro semiaperte,  
 inghirlandate di viticci vaganti di caprifoglio!   15  
 Una corona che, con mano sicura,  
-intreccio intorno alla fronte della patriottica [[Hope|SPERANZA]]!  
+intreccio intorno alla fronte della patriottica [[concepts/hope|SPERANZA]]!  
 L'Onnipotente, avendo prima composto un Uomo,  
 lo pose in musica, foggiando per lui la Donna,  
 e li adattò l'uno all'altra, e li fece uno!   20  
-Ed è mia [[Faith|fede]] che vi sia un legame naturale  
+Ed è mia [[concepts/faith|fede]] che vi sia un legame naturale  
 tra la mente femminile e i suoni misurati,  
-né conosco [[Hope|Speranza]] più dolce di questa,  
-che questa dolce [[Hope|Speranza]], non rimproverata dal giudizio,  
+né conosco [[concepts/hope|Speranza]] più dolce di questa,  
+che questa dolce [[concepts/hope|Speranza]], non rimproverata dal giudizio,  
 che la nostra Britannia, la nostra cara Isola madre,   25  
 possa vantare una Fanciulla, poetessa davvero,  
-grande come l'appassionata Lesbia, nel dolce [[Song|canto]],  
+grande come l'appassionata Lesbia, nel dolce canto,  
 e oh! di mente più santa, e di sorte più felice.  
 Matilda! Oso intrecciare la tua ghirlanda primaverile  
-intorno alla fronte della patriottica [[Hope|Speranza]]! Ma tu   30  
+intorno alla fronte della patriottica [[concepts/hope|Speranza]]! Ma tu   30  
 sii saggia! sii ardita! compi i miei auspici!  
 Benché dolci i tuoi metri, severo dev'essere il tuo pensiero,  
 paziente il tuo studio, vigile il tuo occhio mite!  
 I sentimenti poetici, come i rami distesi  
 di querce possenti, rendono omaggio alle bufere,   35  
 s'agitano nei venti forti, corrono innanzi alla raffica,  
-essi stessi una vertiginosa [[Storm|tempesta]] di [[Leaves|foglie]] svolazzanti;  
-pure, per tutto il tempo limitati da [[Self|sé]], restano  
+essi stessi una vertiginosa [[motifs/storm|tempesta]] di [[motifs/leaves|foglie]] svolazzanti;  
+pure, per tutto il tempo limitati da [[concepts/self|sé]], restano  
 egualmente vicini al tronco fisso e solido  
-della [[Truth|Verità]] e della [[Nature|Natura]] nella [[Storm|tempesta]] ululante,   40  
+della [[concepts/truth|Verità]] e della [[concepts/nature|Natura]] nella [[motifs/storm|tempesta]] ululante,   40  
 come nella calma che acquieta il boschetto di pioppi.  
 Sii ardita, mite Donna! ma sii saggiamente ardita!  
 Vola, come lo struzzo, con terra ferma sotto i piedi,  
@@ -173,7 +173,7 @@ pure sospinta innanzi dalle tue ali di fantasia
 rapide come il turbine, cantando nelle loro penne.   45  
 Guarda intorno a te! guarda dentro di te! pensa e senti!  
 Quale più nobile premio, Matilda, puoi conquistare  
-delle [[Tears|lacrime]] di letizia negli occhi d'una BOUGHTON,  
+delle [[motifs/tears|lacrime]] di letizia negli occhi d'una BOUGHTON,  
 e dell'esultanza persino in cuori stranieri?  
 1802.
 
@@ -188,12 +188,12 @@ And smiles with anxious looks, his earliest friends,
 Masking his birth-name, wont to character  
 His wild-wood fancy and impetuous zeal,)   5  
 ‘Tis true that, passionate for ancient truths,  
-And honouring with religious [[Love|love]] the Great  
+And honouring with religious [[motifs/love|love]] the Great  
 Of elder times, he hated to excess,  
 With an unquiet and intolerant scorn,  
 The hollow Puppets of a hollow Age,    10  
 Ever idolatrous, and changing ever  
-Its worthless Idols! Learning, Power, and [[Time]],  
+Its worthless Idols! Learning, Power, and [[motifs/time|Time]],  
 (Too much of all) thus wasting in vain war  
 Of fervid colloquy. Sickness, ‘tis true,  
 Whole years of weary days, besieged him close,   15  
@@ -208,20 +208,20 @@ Lurked undiscovered by him; not a rill
 There issues from the fount of Hippocrene,  
 But he had traced it upward to its source,   25  
 Through open glade, dark glen, and secret dell,  
-Knew the gay wild [[Flowers|flowers]] on its banks, and culled  
-Its med’cinable herbs. Yea, oft [[Alone|alone]],  
-Piercing the long-neglected holy [[Cave|cave]],  
-The haunt obscure of old [[philosophy|Philosophy]],   30  
+Knew the gay wild [[motifs/flowers|flowers]] on its banks, and culled  
+Its med’cinable herbs. Yea, oft alone,  
+Piercing the long-neglected holy [[motifs/cave|cave]],  
+The haunt obscure of old Philosophy,   30  
 He bade with lifted torch its starry walls  
 Sparkle, as erst they sparkled to the flame  
 Of odorous lamps tended by Saint and Sage.  
 O framed for calmer times and nobler hearts!  
-O studious Poet, eloquent for [[Truth|truth]]!   35  
-Philosopher! contemning wealth and [[Death|death]],  
-Yet docile, childlike, full of Life and [[Love]]!  
+O studious Poet, eloquent for [[concepts/truth|truth]]!   35  
+Philosopher! contemning wealth and [[motifs/death|death]],  
+Yet docile, childlike, full of Life and [[motifs/love|Love]]!  
 Here, rather than on monumental stone,  
 This record of thy worth thy Friend inscribes,  
-Thoughtful, with quiet [[Tears|tears]] upon his cheek.   40  
+Thoughtful, with quiet [[motifs/tears|tears]] upon his cheek.   40  
 ? 1809.  
 
 
@@ -233,12 +233,12 @@ e sorrisi a sguardi ansiosi, i suoi primi amici,
 mascherando il suo nome di nascita, solevano designare  
 la sua fantasia di selva e il suo zelo impetuoso,)   5  
 è vero che, appassionato di verità antiche,  
-e onorando con religioso [[Love|amore]] i Grandi  
+e onorando con religioso [[motifs/love|amore]] i Grandi  
 dei tempi passati, odiò fino all'eccesso,  
 con inquieto e intollerante disprezzo,  
 i vuoti Burattini d'una vuota Età,    10  
 sempre idolatra, e sempre mutevole  
-nei suoi Idoli senza valore! Sapere, Potere e [[Time|Tempo]],  
+nei suoi Idoli senza valore! Sapere, Potere e [[motifs/time|Tempo]],  
 (troppo di tutti) così sprecando in vana guerra  
 di fervido colloquio. La malattia, è vero,  
 per anni interi di giorni stanchi lo assediò da presso,   15  
@@ -253,20 +253,20 @@ gli restò celato; non un rivo
 sgorga là dalla fonte d'Ippocrene  
 ch'egli non ne avesse risalito la sorgente,   25  
 per radura aperta, valle oscura e valletta segreta,  
-conobbe i gai [[Flowers|fiori]] selvatici sulle sue rive, e colse  
-le sue erbe medicinali. Sì, spesso [[Alone|solo]],  
-penetrando la sacra [[Cave|caverna]] a lungo negletta,  
-oscuro ritiro dell'antica [[philosophy|Filosofia]],   30  
+conobbe i gai [[motifs/flowers|fiori]] selvatici sulle sue rive, e colse  
+le sue erbe medicinali. Sì, spesso solo,  
+penetrando la sacra [[motifs/cave|caverna]] a lungo negletta,  
+oscuro ritiro dell'antica Filosofia,   30  
 egli fece, con torcia levata, che le sue pareti stellate  
 scintillassero come un tempo scintillarono alla fiamma  
 di lampade odorose curate da Santo e da Saggio.  
 O tu foggiato per tempi più calmi e cuori più nobili!  
-O Poeta studioso, eloquente per la [[Truth|verità]]!   35  
-Filosofo! sprezzante della ricchezza e della [[Death|morte]],  
-pure docile, fanciullesco, colmo di Vita e d'[[Love|Amore]]!  
+O Poeta studioso, eloquente per la [[concepts/truth|verità]]!   35  
+Filosofo! sprezzante della ricchezza e della [[motifs/death|morte]],  
+pure docile, fanciullesco, colmo di Vita e d'[[motifs/love|Amore]]!  
 Qui, piuttosto che su pietra monumentale,  
 questo ricordo del tuo valore il tuo Amico incide,  
-pensoso, con quiete [[Tears|lacrime]] sulla guancia.   40  
+pensoso, con quiete [[motifs/tears|lacrime]] sulla guancia.   40  
 ? 1809.
 
 
@@ -274,7 +274,7 @@ pensoso, con quiete [[Tears|lacrime]] sulla guancia.   40
 <span class="atom-split" data-atom="283_lines_to_a_comic_author_on_an_abusive_review" data-title="LINES TO A COMIC AUTHOR, ON AN ABUSIVE REVIEW" data-chapter="" data-kind="intro" data-tags="archetype/fool,concept/the_artist_and_society,concept/satire_of_society,form/satire,histref/classical_antiquity,histref/greek_mythology,cluster/artist_and_society,cluster/truth,cluster/regency_georgian_england"></span>
 
 
-What though the chilly wide-mouth’d quacking [[Chorus|chorus]]  
+What though the chilly wide-mouth’d quacking [[characters/chorus|chorus]]  
 From the rank swamps of murk Review-land croak:  
 So was it, neighbour, in the times before us,  
 When Momus, throwing on his Attic cloak,  
@@ -288,7 +288,7 @@ Swore they mistook him for their own good man.
 This Momus — Aristophanes on earth  
 Men call’d him — maugre all his wit and worth,  
 Was croak’d and gabbled at. How, then, should you,  
-Or I, friend, [[Hope|hope]] to ‘scape the skulking crew?   15  
+Or I, friend, [[concepts/hope|hope]] to ‘scape the skulking crew?   15  
 No! laugh, and say aloud, in tones of glee,  
 ‘I hate the quacking tribe, and they hate me!’  
 ? 1825.  
@@ -296,7 +296,7 @@ No! laugh, and say aloud, in tones of glee,
 
 <span class="qlang-split" data-lang="it"></span>
 
-Che importa se il gelido [[Chorus|coro]] gracchiante e spalancato  
+Che importa se il gelido [[characters/chorus|coro]] gracchiante e spalancato  
 dai fetidi acquitrini della fosca Terra-delle-Recensioni gracida:  
 così fu, vicino, nei tempi prima di noi,  
 quando Momo, gettandosi addosso il mantello attico,  
@@ -310,7 +310,7 @@ giurarono d'averlo scambiato per il loro bravo uomo.
 Questo Momo — Aristofane in terra  
 lo chiamavano gli uomini — malgrado tutto il suo spirito e valore,  
 fu gracchiato e schiamazzato. Come, dunque, potresti tu,  
-o io, amico, [[Hope|sperare]] di scampare alla ciurma acquattata?   15  
+o io, amico, [[concepts/hope|sperare]] di scampare alla ciurma acquattata?   15  
 No! ridi, e di' ad alta voce, in tono giulivo:  
 ‘Io odio la tribù dei ciarlatani, ed essi odiano me!’  
 ? 1825.
@@ -326,7 +326,7 @@ You who have eyes to detect, and Gall to Chastise the imperfect,
 Have you the heart, too, that loves, — feels and rewards the
 Compleat?
 1805. Now first published from an MS.
-A sumptuous and magnificent [[Revenge]].
+A sumptuous and magnificent [[concepts/revenge|Revenge]].
 March 1806. First published from an MS. in 1893.
 
 
@@ -338,7 +338,7 @@ Tu che hai occhi per scoprire, e Fiele per Castigare l'imperfetto,
 hai anche il cuore che ama, — che sente e premia il
 Compiuto?
 1805. Ora pubblicato per la prima volta da un ms.
-Una sontuosa e magnifica [[Revenge|Vendetta]].
+Una sontuosa e magnifica [[concepts/revenge|Vendetta]].
 Marzo 1806. Pubblicato per la prima volta da un ms. nel 1893.
 
 
@@ -347,7 +347,7 @@ Marzo 1806. Pubblicato per la prima volta da un ms. nel 1893.
 
 
 1. I think most ears would take these as anapaestic throughout. But the
-introduction of [[Milton]]’s
+introduction of [[historical-references/milton|Milton]]’s
 Drunk with Idolatry, drunk with wine
 as a leit-motiv is of the first interest.
 Description of it, l. 4, very curious. I should have thought no one
@@ -367,10 +367,10 @@ cadence of seventeenth century born — the things that Shelley to some
 extent, Beddoes and Darley more, and Tennyson and Browning most were to
 master. I subscribe (most humbly) to his suggestions, especially his
 second.
-7. Very like some late seventeenth-century (Dryden [[Time|time]]) motives and a
+7. Very like some late seventeenth-century (Dryden [[motifs/time|time]]) motives and a
 leetle ‘Moorish’.
 8. Like 6, and charming.
-9. A sort of recurrence to Pindaric — again pioneer, as the [[Soul|soul]] of S.
+9. A sort of recurrence to Pindaric — again pioneer, as the [[motifs/soul|soul]] of S.
 T. C. had to be always.
 10 and 11. Ditto.
 13. Again, I should say, anapaestic — but this anapaest and amphibrach
@@ -380,7 +380,7 @@ quarrel is ÃÀ¿½´¿Â.
 <span class="qlang-split" data-lang="it"></span>
 
 1. Penso che la maggior parte degli orecchi li prenderebbe per anapestici da capo a fondo. Ma
-l'introduzione del verso di [[Milton]]
+l'introduzione del verso di [[historical-references/milton|Milton]]
 Drunk with Idolatry, drunk with wine
 come leit-motiv è del massimo interesse.
 La sua descrizione, v. 4, molto curiosa. Avrei pensato che nessuno
@@ -400,10 +400,10 @@ cadenza del Seicento — le cose che Shelley in qualche
 misura, Beddoes e Darley di più, e Tennyson e Browning al massimo avrebbero
 padroneggiato. Sottoscrivo (assai umilmente) i suoi suggerimenti, specie il
 secondo.
-7. Molto simile a certi motivi del tardo Seicento (al [[Time|tempo]] di Dryden) e un
+7. Molto simile a certi motivi del tardo Seicento (al [[motifs/time|tempo]] di Dryden) e un
 tantinello ‘Moresco’.
 8. Come il 6, e incantevole.
-9. Una specie di ritorno al pindarico — di nuovo pioniere, come l'[[Soul|anima]] di S.
+9. Una specie di ritorno al pindarico — di nuovo pioniere, come l'[[motifs/soul|anima]] di S.
 T. C. doveva sempre essere.
 10 e 11. Idem.
 13. Di nuovo, direi, anapestico — ma questa contesa tra anapesto e anfibraco
@@ -423,13 +423,13 @@ published in the Athenæum, August 20, 1892, and ‘Adaptations’, P.
 W., 1893, pp. 471-4. Most of these textual alterations or garblings
 were noted by H. N. Coleridge in an edition of The Friend published in
 1837; Mr. Campbell was the first to collect and include the mottoes and
-quotations in a sub-section of Coleridge’s Poetical Works. Three [[Poems|poems]],
-(1) ‘An [[Elegy]] Imitated from Akenside’, (2) ‘Farewell to [[Love]] ‘, (3)
+quotations in a sub-section of Coleridge’s Poetical Works. Three poems,
+(1) ‘An [[forms/elegy|Elegy]] Imitated from Akenside’, (2) ‘Farewell to [[motifs/love|Love]] ‘, (3)
 ‘Mutual Passion altered and modernized from an Old Poet’, may be
 reckoned as ‘Adaptations’. The first and third of these composite
 productions lay no claim to originality, whilst the second, ‘Farewell to
-[[Love]]’, which he published anonymously in The Courier, September 27,
-1806, was not included by Coleridge in Sibylline [[Leaves]], or in 1828,
+[[motifs/love|Love]]’, which he published anonymously in The Courier, September 27,
+1806, was not included by Coleridge in Sibylline [[motifs/leaves|Leaves]], or in 1828,
 1829, 1834. For (1) vide ante, p. 69, and post, Read: — p. 1123;
 for (2) ante, p. 402; and for (3) vide post, p. 1118.
 
@@ -445,12 +445,12 @@ pubblicato nell'Athenæum, 20 agosto 1892, e ‘Adaptations’, P.
 W., 1893, pp. 471-4. La maggior parte di queste alterazioni o storpiature testuali
 fu segnalata da H. N. Coleridge in un'edizione di The Friend pubblicata nel
 1837; il sig. Campbell fu il primo a raccogliere e includere i motti e le
-citazioni in una sottosezione delle Poetical Works di Coleridge. Tre [[Poems|poesie]],
-(1) ‘An [[Elegy]] Imitated from Akenside’, (2) ‘Farewell to [[Love]] ‘, (3)
+citazioni in una sottosezione delle Poetical Works di Coleridge. Tre poesie,
+(1) ‘An [[forms/elegy|Elegy]] Imitated from Akenside’, (2) ‘Farewell to [[motifs/love|Love]] ‘, (3)
 ‘Mutual Passion altered and modernized from an Old Poet’, possono
 considerarsi ‘Adattamenti’. Il primo e il terzo di questi componimenti
 compositi non pretendono originalità, mentre il secondo, ‘Farewell to
-[[Love]]’, che egli pubblicò anonimo in The Courier, 27 settembre
-1806, non fu incluso da Coleridge in Sibylline [[Leaves]], né nel 1828,
+[[motifs/love|Love]]’, che egli pubblicò anonimo in The Courier, 27 settembre
+1806, non fu incluso da Coleridge in Sibylline [[motifs/leaves|Leaves]], né nel 1828,
 1829, 1834. Per (1) vide ante, p. 69, e post, Read: — p. 1123;
 per (2) ante, p. 402; e per (3) vide post, p. 1118.

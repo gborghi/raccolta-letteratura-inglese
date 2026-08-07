@@ -21,17 +21,17 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Dreams · Moon]]
+*by Poe*  ·  **Cluster:** [[clusters/dreams-·-moon|Dreams · Moon]]
 
 > [!abstract] 
 > Youthful lyric exalting dream-life over waking reality, mingling melancholy, imagination, and a longing for an eternal visionary state.
 
 ## Connections
 
-**Topoi:** [[Fall from Innocence]]
-**Motifs:** [[Dreams]], [[Sleep]], [[Moon]], [[Stars]], [[Light and Dark]]
-**Themes & Concepts:** [[Imagination]], [[Melancholy]], [[Appearance vs Reality]], [[Transience]], [[Maturation and Growth]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/fall-from-innocence|Fall from Innocence]]
+**Motifs:** [[motifs/dreams|Dreams]], [[motifs/sleep|Sleep]], [[motifs/moon|Moon]], [[motifs/stars|Stars]], [[motifs/light-and-dark|Light and Dark]]
+**Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/melancholy|Melancholy]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/transience|Transience]], [[concepts/maturation-and-growth|Maturation and Growth]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

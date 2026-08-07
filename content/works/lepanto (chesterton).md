@@ -44,7 +44,7 @@ tags:
   - histref/catholic_church
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
+*by Chesterton*  ·  **Cluster:** [[clusters/heroism-·-hero-·-last-stand|Heroism · Hero · Last Stand]]
 
 > [!abstract] 
 > A surging narrative ballad of the 1571 sea-battle of Lepanto, casting Don John of Austria as the last crusading knight of Christendom who frees Christian galley-slaves from the Turk.
@@ -55,14 +55,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Last Stand]], [[War as Glory]], [[Quest]]
-**Archetypes:** [[Hero]], [[Tyrant]]
-**Motifs:** [[Cross]], [[Sea]], [[Swords and Weapons]], [[Drums and Bugles]], [[Blood]], [[Prison]], [[Flags and Banners]]
-**Themes & Concepts:** [[Heroism]], [[War and its Cost]], [[Slavery]], [[Freedom and Liberty]], [[History]]
-**Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]]
-**Historical References:** [[Battle of Lepanto]], [[Crusades]], [[Christianity]], [[Islam]], [[Catholic Church]]
-**Settings:** [[Sea (2)]], [[Orient]]
-**Characters:** [[Don John of Austria]], [[Don Quixote]], [[Ariel]], [[Michael]], [[Cervantes]], [[Mahound]], [[The Pope]], [[King Philip]], [[Soldan of Byzantium]]
+**Topoi:** [[topoi/last-stand|Last Stand]], [[topoi/war-as-glory|War as Glory]], [[topoi/quest|Quest]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/tyrant|Tyrant]]
+**Motifs:** [[motifs/cross|Cross]], [[motifs/sea|Sea]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/drums-and-bugles|Drums and Bugles]], [[motifs/blood|Blood]], [[motifs/prison|Prison]], [[motifs/flags-and-banners|Flags and Banners]]
+**Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/slavery|Slavery]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/narrative-poem|Narrative Poem]]
+**Historical References:** [[historical-references/battle-of-lepanto|Battle of Lepanto]], [[historical-references/crusades|Crusades]], [[historical-references/christianity|Christianity]], [[historical-references/islam|Islam]], [[historical-references/catholic-church|Catholic Church]]
+**Settings:** [[settings/sea-(2)|Sea (2)]], [[settings/orient|Orient]]
+**Characters:** [[characters/don-john-of-austria|Don John of Austria]], [[characters/don-quixote|Don Quixote]], [[characters/ariel|Ariel]], [[characters/michael|Michael]], [[historical-references/cervantes|Cervantes]], [[characters/mahound|Mahound]], [[characters/the-pope|The Pope]], [[characters/king-philip|King Philip]], [[characters/soldan-of-byzantium|Soldan of Byzantium]]
 
 ## Testo integrale / Full text
 

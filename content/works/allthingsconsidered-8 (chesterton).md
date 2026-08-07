@@ -50,7 +50,7 @@ tags:
 
 # AllThingsConsidered-8
 
-*by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
+*by Chesterton*  ·  **Cluster:** [[clusters/paradox-·-food-and-feasting-·-aphorism|Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 
 > Chesterton's 1908 collection of journalistic familiar essays (the ephemeral, the fallacy of success, patriotism and sport, two cities, Oxford). Central matter: defence of common sense and morality against modern fashions, satire of journalism and society, paradox.
@@ -93,16 +93,16 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Martyr Saint]], [[Tyrant]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/tyrant|Tyrant]]
 
-**Motifs:** [[Food and Feasting]], [[Wine and Drink]], [[Money and Gold]]
+**Motifs:** [[motifs/food-and-feasting|Food and Feasting]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/money-and-gold|Money and Gold]]
 
-**Characters:** [[Joan la Pucelle]], [[Tom Jones]]
+**Characters:** [[characters/joan-la-pucelle|Joan la Pucelle]], [[characters/tom-jones|Tom Jones]]
 
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Paradox]], [[Common Man]], [[Truth]], [[Justice Right and Wrong]], [[Artist and Society]], [[Nationalism and Patriotism]], [[Democracy]], [[Money and Avarice]], [[Secrecy and Concealment]], [[Martyrdom]], [[Vanity]], [[Education]], [[Class Conflict]], [[Deception]], [[Grotesque]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Literary Criticism]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[French Revolution]], [[Puritanism]], [[Catholic Church]]
-**Settings:** [[London]], [[Paris]], [[Oxford]], [[Europe]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/paradox|Paradox]], [[concepts/common-man|Common Man]], [[concepts/truth|Truth]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/artist-and-society|Artist and Society]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/democracy|Democracy]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/martyrdom|Martyrdom]], [[concepts/vanity|Vanity]], [[concepts/education|Education]], [[concepts/class-conflict|Class Conflict]], [[concepts/deception|Deception]], [[concepts/grotesque|Grotesque]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/aphorism|Aphorism]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/french-revolution|French Revolution]], [[historical-references/puritanism|Puritanism]], [[historical-references/catholic-church|Catholic Church]]
+**Settings:** [[settings/london|London]], [[settings/paris|Paris]], [[settings/oxford|Oxford]], [[settings/europe|Europe]]
 
 ## Testo integrale / Full text
 

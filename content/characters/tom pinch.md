@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/tom-pinch"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/martin-chuzzlewit-(dickens)|Martin Chuzzlewit (Dickens)]]
+
+</div>
+
 #graph/character

@@ -37,15 +37,15 @@ tags:
 
 Raccolta tematica di 9 componimenti di John Keats.
 
-- [[Acrostic (Keats)|Acrostic]]
-- [[IMITATION OF SPENSER (Keats)|IMITATION OF SPENSER]]
-- [[KEEN, FITFUL GUSTS ARE WHISP’RING HERE AND THERE (Keats)|KEEN, FITFUL GUSTS ARE WHISP’RING HERE AND THERE]]
-- [[Spenserian Stanza (Keats)|Spenserian Stanza]]
-- [[Spenserian Stanzas on Charles Armitage Brown (Keats)|Spenserian Stanzas on Charles Armitage Brown]]
-- [[TO CHARLES COWDEN CLARKE (Keats)|TO CHARLES COWDEN CLARKE]]
-- [[TO GEORGE FELTON MATHEW (Keats)|TO GEORGE FELTON MATHEW]]
-- [[TO MY BROTHERS (Keats)|TO MY BROTHERS]]
-- [[TO SOME LADIES (Keats)|TO SOME LADIES]]
+- [[testi/keats/atomized/friendship-tears#097_acrostic|Acrostic]]
+- [[testi/keats/atomized/friendship-tears#007_imitation_of_spenser|IMITATION OF SPENSER]]
+- [[testi/keats/atomized/friendship-tears#020_keen_fitful_gusts_are_whispring_here_and_there|KEEN, FITFUL GUSTS ARE WHISP’RING HERE AND THERE]]
+- [[testi/keats/atomized/friendship-tears#113_spenserian_stanza|Spenserian Stanza]]
+- [[testi/keats/atomized/friendship-tears#123_spenserian_stanzas_on_charles_armitage_brown|Spenserian Stanzas on Charles Armitage Brown]]
+- [[testi/keats/atomized/friendship-tears#011_to_charles_cowden_clarke|TO CHARLES COWDEN CLARKE]]
+- [[testi/keats/atomized/friendship-tears#009_to_george_felton_mathew|TO GEORGE FELTON MATHEW]]
+- [[testi/keats/atomized/friendship-tears#019_to_my_brothers|TO MY BROTHERS]]
+- [[testi/keats/atomized/friendship-tears#003_to_some_ladies|TO SOME LADIES]]
 
 ## Testo / Text
 

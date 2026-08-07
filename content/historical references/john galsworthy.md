@@ -14,4 +14,10 @@ English novelist and playwright directly named as the target of this parody's mo
 
 <div class="concept-works" data-slug="historical-references/john-galsworthy"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/new-fiction-(chesterton)|New Fiction (Chesterton)]]
+
+</div>
+
 #graph/histref

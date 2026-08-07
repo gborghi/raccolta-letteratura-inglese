@@ -24,18 +24,18 @@ tags:
   - character/the_virgin_mary
 ---
 
-*by Eliot*  ·  **Cluster:** [[Fog and Smoke]]
+*by Eliot*  ·  **Cluster:** [[motifs/fog-and-smoke|Fog and Smoke]]
 
 > [!abstract] 
 > Third Quartet: the river as brown god and the sea of many voices, time and the Annunciation, prayer to the Virgin; the sea, water, time, faith, conversion.
 
 ## Connections
 
-**Motifs:** [[Sea]], [[River]], [[Water]], [[Time]], [[Bells]], [[Fog and Smoke]], [[Autumn]]
-**Themes & Concepts:** [[Memory and Time]], [[Faith]], [[Grace and Redemption]], [[Providence]]
-**Forms & Genres:** [[Free Verse]]
-**Settings:** [[Sea (2)]], [[New England America]]
-**Characters:** [[Virgin Mary]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/river|River]], [[motifs/water|Water]], [[motifs/time|Time]], [[motifs/bells|Bells]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/autumn|Autumn]]
+**Themes & Concepts:** [[concepts/memory-and-time|Memory and Time]], [[concepts/faith|Faith]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/providence|Providence]]
+**Forms & Genres:** [[forms/free-verse|Free Verse]]
+**Settings:** [[settings/sea-(2)|Sea (2)]], [[settings/new-england-america|New England America]]
+**Characters:** [[characters/virgin-mary|Virgin Mary]]
 
 ## Testo integrale / Full text
 

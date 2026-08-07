@@ -14,4 +14,10 @@ The Franciscan theologian and close friend of Aquinas, compared to him as David 
 
 <div class="concept-works" data-slug="characters/st.-bonaventure"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/aquinas-(chesterton)|aquinas (Chesterton)]]
+
+</div>
+
 #graph/character

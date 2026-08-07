@@ -35,7 +35,7 @@ tags:
   - character/christ
 ---
 
-*by Wilde*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Wilde*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > Critical dialogue arguing that criticism is itself a creative art; a sustained aesthetic meditation on beauty, imagination, contemplation and the artist and society.
@@ -46,13 +46,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Immortality Through Verse]], [[Book of Nature]]
-**Archetypes:** [[Self-Made Man]]
-**Motifs:** [[Music and Song]], [[Mirror]], [[Book Reading]], [[Flowers]], [[Silence]]
-**Themes & Concepts:** [[Artist and Society]], [[Beauty]], [[Imagination]], [[Paradox]], [[Beauty and Truth]], [[Immortality of Art Fame]], [[Truth]], [[Self-Knowledge]], [[History]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Aphorism]], [[Epigram]], [[Nonfiction]]
-**Historical References:** [[Ancient Greece]], [[Classical Antiquity]], [[Renaissance]]
-**Characters:** [[Christ]]
+**Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]], [[topoi/book-of-nature|Book of Nature]]
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]
+**Motifs:** [[motifs/music-and-song|Music and Song]], [[motifs/mirror|Mirror]], [[motifs/book-reading|Book Reading]], [[motifs/flowers|Flowers]], [[motifs/silence|Silence]]
+**Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/beauty|Beauty]], [[concepts/imagination|Imagination]], [[concepts/paradox|Paradox]], [[concepts/beauty-and-truth|Beauty and Truth]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]], [[concepts/truth|Truth]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/aphorism|Aphorism]], [[forms/epigram|Epigram]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/ancient-greece|Ancient Greece]], [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/renaissance|Renaissance]]
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

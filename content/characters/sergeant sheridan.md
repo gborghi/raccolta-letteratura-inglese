@@ -14,4 +14,10 @@ The corrupt British official whose real-life frame-up of innocent Irish peasants
 
 <div class="concept-works" data-slug="characters/sergeant-sheridan"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/irish-impressions-(chesterton)|Irish Impressions (Chesterton)]]
+
+</div>
+
 #graph/character

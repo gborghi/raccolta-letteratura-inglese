@@ -60,7 +60,7 @@ tags:
   - character/lady_macduff
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Guilt · Conscience · Fate and Free Will]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/guilt-·-conscience-·-fate-and-free-will|Guilt · Conscience · Fate and Free Will]]
 
 > [!abstract] 
 > Shakespeare's tragedy of overreaching ambition: spurred by witches' prophecy and his wife, Macbeth murders the king to seize the crown and is consumed by guilt, tyranny and bloodshed; themes of ambition, fate, conscience and the supernatural.
@@ -101,13 +101,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Fortune's Wheel]], [[World Upside Down]], [[Great Chain of Being]], [[Sleeper Awakes]]
-**Archetypes:** [[Tyrant]], [[Usurper]], [[Tragic Hero]], [[Witch Enchantress]], [[Prophet]], [[Ghost]], [[Femme Fatale]]
-**Motifs:** [[Blood]], [[Death]], [[Supernatural]], [[Ghosts]], [[Sleep]], [[Night]], [[Light and Dark]], [[Madness (2)]], [[Crown]], [[Swords and Weapons]], [[Clothing and Costume]], [[Animals]]
-**Themes & Concepts:** [[Ambition]], [[Power and Corruption]], [[Kingship and Legitimacy]], [[Guilt]], [[Conscience]], [[Fate and Free Will]], [[Appearance vs Reality]], [[Deception]], [[Order vs Chaos]], [[Natural Order]], [[Madness]], [[Mortality]], [[Good vs Evil]], [[Temptation]]
-**Forms & Genres:** [[Tragedy]], [[Verse Drama]], [[Blank Verse]]
-**Settings:** [[Scotland the Highlands]], [[Castle]], [[Court]]
-**Characters:** [[Macbeth]], [[Lady Macbeth]], [[Banquo]], [[Macduff]], [[Duncan]], [[Malcolm]], [[Three Witches]], [[Lady Macduff]]
+**Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/world-upside-down|World Upside Down]], [[topoi/great-chain-of-being|Great Chain of Being]], [[topoi/sleeper-awakes|Sleeper Awakes]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/usurper|Usurper]], [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/witch-enchantress|Witch Enchantress]], [[archetypes/prophet|Prophet]], [[archetypes/ghost|Ghost]], [[archetypes/femme-fatale|Femme Fatale]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/death|Death]], [[motifs/supernatural|Supernatural]], [[motifs/ghosts|Ghosts]], [[motifs/sleep|Sleep]], [[motifs/night|Night]], [[motifs/light-and-dark|Light and Dark]], [[motifs/madness-(2)|Madness (2)]], [[motifs/crown|Crown]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/animals|Animals]]
+**Themes & Concepts:** [[concepts/ambition|Ambition]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/natural-order|Natural Order]], [[concepts/madness|Madness]], [[concepts/mortality|Mortality]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/temptation|Temptation]]
+**Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
+**Settings:** [[settings/scotland-the-highlands|Scotland the Highlands]], [[settings/castle|Castle]], [[settings/court|Court]]
+**Characters:** [[characters/macbeth|Macbeth]], [[characters/lady-macbeth|Lady Macbeth]], [[characters/banquo|Banquo]], [[characters/macduff|Macduff]], [[characters/duncan|Duncan]], [[characters/malcolm|Malcolm]], [[characters/three-witches|Three Witches]], [[characters/lady-macduff|Lady Macduff]]
 
 ## Testo integrale / Full text
 

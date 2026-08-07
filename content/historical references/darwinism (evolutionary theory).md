@@ -14,4 +14,14 @@ Late-19th/early-20th-century evolutionary science, invoked throughout the essay 
 
 <div class="concept-works" data-slug="historical-references/darwinism-(evolutionary-theory)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/return-of-the-angels-(chesterton)|Return of the Angels (Chesterton)]]
+- [[works/doubts-about-darwinism-(chesterton)|Doubts About Darwinism (Chesterton)]]
+- [[works/round-the-red-lamp-(conan-doyle)|Round the Red Lamp (Conan Doyle)]]
+- [[works/the-lost-world-(conan-doyle)|The Lost World (Conan Doyle)]]
+- [[works/the-new-revelation-(conan-doyle)|The New Revelation (Conan Doyle)]]
+
+</div>
+
 #graph/histref

@@ -14,4 +14,10 @@ A wealthy citizen and Francis's first companion, who sells all he owns and remai
 
 <div class="concept-works" data-slug="characters/bernard-of-quintaville"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/st-francis-(chesterton)|St Francis (Chesterton)]]
+
+</div>
+
 #graph/character

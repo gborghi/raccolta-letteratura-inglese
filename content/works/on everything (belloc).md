@@ -25,7 +25,7 @@ tags:
   - topos/beatus_ille_happy_the_man_rural_retreat
   - topos/open_road_homecoming
 ---
-*by Belloc*  ·  **Cluster:** [[Familiar Essay · Paradox · The Common Man]]
+*by Belloc*  ·  **Cluster:** [[clusters/familiar-essay-·-paradox-·-the-common-man|Familiar Essay · Paradox · The Common Man]]
 
 > [!abstract] 
 > A gathering of Belloc's familiar essays, most first printed in the Morning Post, ranging over song, travel through western England, rivers, old towns, rest and death. The reflective, digressive voice celebrates ordinary rooted life, the common man and the English countryside against the encroachments of a hurried modern age.
@@ -73,8 +73,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Common Man]], [[Nostalgia]], [[Tradition]], [[Critique of Progress]], [[Transience]], [[Faith]]
-**Motifs:** [[Road]], [[River]], [[Music and Song]], [[Home]], [[Hill]]
-**Settings:** [[Rural England]], [[London]]
-**Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]], [[Open Road Homecoming]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/common-man|Common Man]], [[concepts/nostalgia|Nostalgia]], [[concepts/tradition|Tradition]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/transience|Transience]], [[concepts/faith|Faith]]
+**Motifs:** [[motifs/road|Road]], [[motifs/river|River]], [[motifs/music-and-song|Music and Song]], [[motifs/home|Home]], [[motifs/hill|Hill]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/london|London]]
+**Topoi:** [[topoi/beatus-ille-(happy-the-man-rural-retreat)|Beatus Ille (Happy the Man Rural Retreat)]], [[topoi/open-road-homecoming|Open Road Homecoming]]

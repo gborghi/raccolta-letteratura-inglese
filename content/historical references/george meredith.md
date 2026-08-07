@@ -14,4 +14,12 @@ The once-idolized Victorian novelist and champion of feminism whose puzzling and
 
 <div class="concept-works" data-slug="historical-references/george-meredith"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/as-i-was-saying-(chesterton)|As I Was Saying (Chesterton)]]
+- [[works/the-uses-of-diversity-(chesterton)|The Uses of Diversity (Chesterton)]]
+- [[works/the-future-of-canadian-literature-(conan-doyle)|The Future of Canadian Literature (Conan Doyle)]]
+
+</div>
+
 #graph/histref

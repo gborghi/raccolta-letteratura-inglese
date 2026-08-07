@@ -22,17 +22,17 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Memory and Time · Memory · Nostalgia]]
+*by Poe*  ·  **Cluster:** [[clusters/memory-and-time-·-memory-·-nostalgia|Memory and Time · Memory · Nostalgia]]
 
 > [!abstract] 
 > A short lyric contrasting the gentle paroquet 'Romance' of childhood with the tumultuous 'Condor years' of adulthood, lamenting lost leisure for poetry; on memory, time and the poet's vocation.
 
 ## Connections
 
-**Topoi:** [[Immortality Through Verse]], [[Fall from Innocence]]
-**Motifs:** [[Childhood]], [[Memory]], [[Birds]], [[Time]], [[Music and Song]]
-**Themes & Concepts:** [[Memory and Time]], [[Nostalgia]], [[Innocence and Experience]], [[Artist and Society]], [[Imagination]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]], [[topoi/fall-from-innocence|Fall from Innocence]]
+**Motifs:** [[motifs/childhood|Childhood]], [[motifs/memory|Memory]], [[motifs/birds|Birds]], [[motifs/time|Time]], [[motifs/music-and-song|Music and Song]]
+**Themes & Concepts:** [[concepts/memory-and-time|Memory and Time]], [[concepts/nostalgia|Nostalgia]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/artist-and-society|Artist and Society]], [[concepts/imagination|Imagination]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

@@ -38,15 +38,15 @@ tags:
 
 Raccolta tematica di 9 componimenti di Samuel Taylor Coleridge.
 
-- [[A CHILD’S EVENING PRAYER (Coleridge)|A CHILD’S EVENING PRAYER]]
-- [[FROST AT MIDNIGHT (Coleridge)|FROST AT MIDNIGHT]]
-- [[METRICAL FEET (Coleridge)|METRICAL FEET]]
-- [[ON THE CHRISTENING OF A FRIEND’S CHILD (Coleridge)|ON THE CHRISTENING OF A FRIEND’S CHILD]]
-- [[SONNET ON QUITTING SCHOOL FOR COLLEGE (Coleridge)|SONNET: ON QUITTING SCHOOL FOR COLLEGE]]
-- [[SONNET TO A FRIEND WHO ASKED, HOW I FELT WHEN THE NURSE FIRST PRESENTED MY INFANT TO ME (Coleridge)|SONNET: TO A FRIEND WHO ASKED, HOW I FELT WHEN THE NURSE FIRST PRESENTED MY INFANT TO ME]]
-- [[TO A CHILD (Coleridge)|TO A CHILD]]
-- [[TO AN INFANT (Coleridge)|TO AN INFANT]]
-- [[TO BABY BATES (Coleridge)|TO BABY BATES]]
+- [[testi/coleridge/atomized/maturation-and-growth-childhood-innocence-and-experience#229_a_childs_evening_prayer|A CHILD’S EVENING PRAYER]]
+- [[testi/coleridge/atomized/maturation-and-growth-childhood-innocence-and-experience#146_frost_at_midnight|FROST AT MIDNIGHT]]
+- [[testi/coleridge/atomized/maturation-and-growth-childhood-innocence-and-experience#230_metrical_feet|METRICAL FEET]]
+- [[testi/coleridge/atomized/maturation-and-growth-childhood-innocence-and-experience#132_on_the_christening_of_a_friends_child|ON THE CHRISTENING OF A FRIEND’S CHILD]]
+- [[testi/coleridge/atomized/maturation-and-growth-childhood-innocence-and-experience#030_sonnet_on_quitting_school_for_college|SONNET: ON QUITTING SCHOOL FOR COLLEGE]]
+- [[testi/coleridge/atomized/maturation-and-growth-childhood-innocence-and-experience#120_sonnet_to_a_friend_who_asked_how_i_felt_when_the_nurse_first_presented_my_infant|SONNET: TO A FRIEND WHO ASKED, HOW I FELT WHEN THE NURSE FIRST PRESENTED MY INFANT TO ME]]
+- [[testi/coleridge/atomized/maturation-and-growth-childhood-innocence-and-experience#377_to_a_child|TO A CHILD]]
+- [[testi/coleridge/atomized/maturation-and-growth-childhood-innocence-and-experience#096_to_an_infant|TO AN INFANT]]
+- [[testi/coleridge/atomized/maturation-and-growth-childhood-innocence-and-experience#376_to_baby_bates|TO BABY BATES]]
 
 ## Testo / Text
 

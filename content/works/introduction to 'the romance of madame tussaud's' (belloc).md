@@ -34,7 +34,7 @@ tags:
   - topos/sic_transit_gloria_mundi
   - topos/fortunes_wheel
 ---
-*by Belloc*  ·  **Cluster:** [[History · Catholicism · Europe]]
+*by Belloc*  ·  **Cluster:** [[clusters/history-·-catholicism-·-europe|History · Catholicism · Europe]]
 
 > [!abstract] 
 > Belloc's 1920 introductory essay to John Theodore Tussaud's book, arguing that the waxwork collection is a uniquely valuable piece of contemporary historical evidence rooted in the French Revolution. He meditates on the wax medium and reality versus illusion, revises the popular 'orthodox' myth of the Terror (Carnot not Robespierre), and dwells on the ironic tragedy of Marie Antoinette and the Bourbons destroyed by publicity.
@@ -57,11 +57,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[History]], [[Nonfiction]]
-**Themes & Concepts:** [[Appearance vs Reality]], [[Fame and Publicity]], [[Memory and Time]], [[Mortality]], [[Popular Revolution]], [[Transience]]
-**Motifs:** [[Death]], [[Mirror]], [[Time]]
-**Historical References:** [[French Revolution]], [[Napoleonic Wars the Navy]], [[Napoleon]]
-**Settings:** [[Paris]], [[France]], [[Europe]]
-**Characters:** [[Robespierre]], [[Napoleon]], [[Voltaire]], [[Duke of Wellington]]
-**Archetypes:** [[Tragic Hero]]
-**Topoi:** [[Sic Transit Gloria Mundi]], [[Fortune's Wheel]]
+**Forms & Genres:** [[forms/essay|Essay]], [[concepts/history|History]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/fame-and-publicity|Fame and Publicity]], [[concepts/memory-and-time|Memory and Time]], [[concepts/mortality|Mortality]], [[concepts/popular-revolution|Popular Revolution]], [[concepts/transience|Transience]]
+**Motifs:** [[motifs/death|Death]], [[motifs/mirror|Mirror]], [[motifs/time|Time]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/napoleon|Napoleon]]
+**Settings:** [[settings/paris|Paris]], [[settings/france|France]], [[settings/europe|Europe]]
+**Characters:** [[characters/robespierre|Robespierre]], [[historical-references/napoleon|Napoleon]], [[historical-references/voltaire|Voltaire]], [[characters/duke-of-wellington|Duke of Wellington]]
+**Archetypes:** [[archetypes/tragic-hero|Tragic Hero]]
+**Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/fortune's-wheel|Fortune's Wheel]]

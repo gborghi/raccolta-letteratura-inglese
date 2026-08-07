@@ -14,4 +14,10 @@ Hardy's tragic heroine of Tess of the D'Urbervilles, invoked by Chesterton as an
 
 <div class="concept-works" data-slug="characters/tess"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/victorian-age-(chesterton)|Victorian Age (Chesterton)]]
+
+</div>
+
 #graph/character

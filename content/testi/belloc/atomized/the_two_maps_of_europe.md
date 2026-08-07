@@ -44,7 +44,7 @@ THE SIX CHAPTERS of this little book discuss and explain six separate and most i
 
 THE TWO MAPS OF EUROPE
 
-WHEREIN THE MAP of Europe, as it will be if [[Germany]] wins, is clearly defined and compared with the map of Europe re-arranged in accordance with the ideals of the Allies.
+WHEREIN THE MAP of Europe, as it will be if [[settings/germany|Germany]] wins, is clearly defined and compared with the map of Europe re-arranged in accordance with the ideals of the Allies.
 
 THE TWO MAPS OF EUROPE
 
@@ -54,7 +54,7 @@ By this it is not meant that either ideal will be completely reached, but that i
 
 Now, before attempting to determine in a graphic fashion what those two ideals are — before, that is, trying to draw two maps which shall represent respectively the German goal and the goal of the Allies, we must lay down certain postulates which are not always recognized but which are certainly true.
 
-Unless we recognize their truth we shall come to accept wild statements, and to be frightened of those ridiculous prophecies which propose the extermination of [[Germany]] on the one hand, or the rule of the German government over England or France on the other.
+Unless we recognize their truth we shall come to accept wild statements, and to be frightened of those ridiculous prophecies which propose the extermination of [[settings/germany|Germany]] on the one hand, or the rule of the German government over England or France on the other.
 
 I. The first of these postulates is that a modern European nation no longer desires to annex white men in Europe, and the territory they inhabit.
 
@@ -126,7 +126,7 @@ Within that curiously twisted line nearly all speech and all feeling is German. 
 
 Are there anomalies to be discovered with regard to this curiously shaped body? There are; but they are of less importance than is often imagined. Thus there are beyond Eastern Prussia and within the Russian boundary the so-called “German” Baltic provinces of Russia. But the term is a misnomer. The leaders of industry are largely German, most of the towns, and the greater landed aristocracy for the most part. But the mass of the population is not German-speaking, and even of the German-speaking minority only a minority again are in any sympathy with the united German feeling to the west.
 
-There are colonies of German speech far eastward of Vienna under the political dominion of Hungary; a particularly large one being discoverable right up in the south-eastern Carpathians next to the Roumanian border. But these colonies could never be included in any united [[Germany]]. Nor could the considerable number of similar isolated colonies of Germans in southern and western Russia. Finally, you have on the extreme west the little province of Luxembourg, which is German-speaking, which has its railways and most of its industries controlled by Germans, but which would in any perfectly free system certainly refuse incorporation with any new German unity, for it has an historic tradition of independence which has proved very valuable to it, and may be compared with that of the Swiss German-speaking cantons.
+There are colonies of German speech far eastward of Vienna under the political dominion of Hungary; a particularly large one being discoverable right up in the south-eastern Carpathians next to the Roumanian border. But these colonies could never be included in any united [[settings/germany|Germany]]. Nor could the considerable number of similar isolated colonies of Germans in southern and western Russia. Finally, you have on the extreme west the little province of Luxembourg, which is German-speaking, which has its railways and most of its industries controlled by Germans, but which would in any perfectly free system certainly refuse incorporation with any new German unity, for it has an historic tradition of independence which has proved very valuable to it, and may be compared with that of the Swiss German-speaking cantons.
 
 (6) We next have to consider the Slavs, and these fall into two groups, northern and southern, which two groups are thus separated by the great Mongolian invasion of Eastern Europe in the Dark Ages. There is further among the Slavs a cross-section of great importance, that of religion. It separates the Slavs not into northern and southern, but, roughly, into eastern or Greek church, and western or Catholic. With the northern Slavs we count the Bohemians or Czechs, the Poles, and the Russians — using the latter term, of course, for many distinct but connected groups, for it is certain that Russia proper must remain a unity.
 
@@ -240,7 +240,7 @@ This easy and, as it were, mutually arranged compromise with Holland, coupled wi
 
 The Scandinavian countries they would regard as naturally German in feeling, and as falling in a vague and general way into their orbit. Possessing the Kiel Canal, they would not strictly need the Sound. But they would so dominate Denmark that they could make what commercial or military terms they chose with regard to the passages of the Baltic; and you would have German firms, German methods, and to some extent the German language holding “civil garrisons” throughout the useful part of Sweden and Norway.
 
-On the East some have imagined they would erect as against Russia a mutilated and dependent Polish State. It is more probable that they would confine themselves to procuring some [[Liberty|liberty]] for Russian Poland, and obtaining some convention as to fortification and commerce. Russia will always be formidable, and to maintain the mutual bond of a subject Poland between Russia and herself would serve in the future, as it has served in the past, the ends of Prussia. It is essential to Prussia that no really independent Poland should re-arise, even mutilated. It is even essential that there should be no one area that the Poles could regard as the nucleus of a really free Polish State.
+On the East some have imagined they would erect as against Russia a mutilated and dependent Polish State. It is more probable that they would confine themselves to procuring some [[concepts/liberty|liberty]] for Russian Poland, and obtaining some convention as to fortification and commerce. Russia will always be formidable, and to maintain the mutual bond of a subject Poland between Russia and herself would serve in the future, as it has served in the past, the ends of Prussia. It is essential to Prussia that no really independent Poland should re-arise, even mutilated. It is even essential that there should be no one area that the Poles could regard as the nucleus of a really free Polish State.
 
 In the Balkans the Germanic Powers would certainly demand the control over what is now Serbia, and, at the risk of further war, the outlet at Salonika. The remnant of the Turkish Empire in Europe they already regard as being under their protectorate.
 
@@ -950,7 +950,7 @@ I SEI CAPITOLI di questo piccolo libro discutono e spiegano sei fasi distinte e 
 
 THE TWO MAPS OF EUROPE
 
-WHEREIN THE MAP of Europe, as it will be if [[Germany]] wins, is clearly defined and compared with the map of Europe re-arranged in accordance with the ideals of the Allies.
+WHEREIN THE MAP of Europe, as it will be if [[settings/germany|Germany]] wins, is clearly defined and compared with the map of Europe re-arranged in accordance with the ideals of the Allies.
 
 THE TWO MAPS OF EUROPE
 
@@ -960,7 +960,7 @@ By this it is not meant that either ideal will be completely reached, but that i
 
 Now, before attempting to determine in a graphic fashion what those two ideals are — before, that is, trying to draw two maps which shall represent respectively the German goal and the goal of the Allies, we must lay down certain postulates which are not always recognized but which are certainly true.
 
-Unless we recognize their truth we shall come to accept wild statements, and to be frightened of those ridiculous prophecies which propose the extermination of [[Germany]] on the one hand, or the rule of the German government over England or France on the other.
+Unless we recognize their truth we shall come to accept wild statements, and to be frightened of those ridiculous prophecies which propose the extermination of [[settings/germany|Germany]] on the one hand, or the rule of the German government over England or France on the other.
 
 I. The first of these postulates is that a modern European nation no longer desires to annex white men in Europe, and the territory they inhabit.
 
@@ -1007,7 +1007,7 @@ National groupings have discovered their power and have already begun to appear 
 
 I due mappe d’Europa
 
-In cui la mappa d’Europa, nel caso in cui la [[Germany|Germania]] vinca, è chiaramente definita e confrontata con la mappa d’Europa riorganizzata secondo gli ideali degli Alleati.
+In cui la mappa d’Europa, nel caso in cui la [[settings/germany|Germania]] vinca, è chiaramente definita e confrontata con la mappa d’Europa riorganizzata secondo gli ideali degli Alleati.
 
 I due mappe d’Europa
 
@@ -1017,7 +1017,7 @@ Con ciò non si intende che nessuno dei due ideali possa essere completamente re
 
 Ora, prima di tentare di determinare in modo grafico quali siano quei due ideali – prima cioè di provare a tracciare due mappe che rappresentino rispettivamente l’obiettivo tedesco e quello degli Alleati – dobbiamo enunciare alcuni postulati che non sempre vengono riconosciuti, ma che certamente sono veri.
 
-A meno che non riconosciamo la loro veridicità, finiremo per accettare affermazioni assurde e temere quelle profezie ridicole che prevedono, da un lato, l’estinzione della [[Germany|Germania]], dall’altro, il dominio del governo tedesco su Inghilterra o Francia.
+A meno che non riconosciamo la loro veridicità, finiremo per accettare affermazioni assurde e temere quelle profezie ridicole che prevedono, da un lato, l’estinzione della [[settings/germany|Germania]], dall’altro, il dominio del governo tedesco su Inghilterra o Francia.
 
 I. Il primo di questi postulati è che una nazione europea moderna non desideri più annettersi gli uomini bianchi presenti in Europa e i territori che abitano.
 
@@ -1047,9 +1047,9 @@ Questa duplice concezione viene giustamente definita dagli Alleati come la conse
 
 Ora, prima di poter comprendere cosa stiano cercando di ottenere i tedeschi o gli Alleati, dobbiamo stilare un elenco di quei gruppi nazionali che costituiscono la base di tutta questa situazione. Nel fare questo elenco, dobbiamo ricordare ciò che realmente crea un gruppo nazionale.
 
-# MAP I: Le principali frontiere nazionali autentiche dell’Europa continentale
+MAP I: Le principali frontiere nazionali autentiche dell’Europa continentale
 
-# Escluso il Sud, che rimane al di fuori di questa guerra
+Escluso il Sud, che rimane al di fuori di questa guerra
 
 I Slavi e il ruolo di Roma nella religione.
 
@@ -1111,9 +1111,9 @@ Un altro fattore è la religione, e si tratta di un elemento estremamente potent
 
 (5) Il quinto grande gruppo è quello tedesco; in questo caso esiste una tale complessità che ciò che dobbiamo dire deve essere considerato solo in termini molto generali e approssimativi. Ma, in modo approssimativo e generale, il gruppo tedesco è così descritto:
 
-# Tutti gli uomini e le donne di lingua tedesca, ad eccezione di:
+Tutti gli uomini e le donne di lingua tedesca, ad eccezione di:
 
-# La maggior parte delle province annesse dell’Alsazia-Lorena (una questione di sentimento)
+La maggior parte delle province annesse dell’Alsazia-Lorena (una questione di sentimento)
 
 b) I cantoni svizzeri di lingua tedesca (una questione di confini politici).
 
@@ -1128,7 +1128,7 @@ Within that curiously twisted line nearly all speech and all feeling is German. 
 
 Are there anomalies to be discovered with regard to this curiously shaped body? There are; but they are of less importance than is often imagined. Thus there are beyond Eastern Prussia and within the Russian boundary the so-called “German” Baltic provinces of Russia. But the term is a misnomer. The leaders of industry are largely German, most of the towns, and the greater landed aristocracy for the most part. But the mass of the population is not German-speaking, and even of the German-speaking minority only a minority again are in any sympathy with the united German feeling to the west.
 
-There are colonies of German speech far eastward of Vienna under the political dominion of Hungary; a particularly large one being discoverable right up in the south-eastern Carpathians next to the Roumanian border. But these colonies could never be included in any united [[Germany]]. Nor could the considerable number of similar isolated colonies of Germans in southern and western Russia. Finally, you have on the extreme west the little province of Luxembourg, which is German-speaking, which has its railways and most of its industries controlled by Germans, but which would in any perfectly free system certainly refuse incorporation with any new German unity, for it has an historic tradition of independence which has proved very valuable to it, and may be compared with that of the Swiss German-speaking cantons.
+There are colonies of German speech far eastward of Vienna under the political dominion of Hungary; a particularly large one being discoverable right up in the south-eastern Carpathians next to the Roumanian border. But these colonies could never be included in any united [[settings/germany|Germany]]. Nor could the considerable number of similar isolated colonies of Germans in southern and western Russia. Finally, you have on the extreme west the little province of Luxembourg, which is German-speaking, which has its railways and most of its industries controlled by Germans, but which would in any perfectly free system certainly refuse incorporation with any new German unity, for it has an historic tradition of independence which has proved very valuable to it, and may be compared with that of the Swiss German-speaking cantons.
 
 (6) We next have to consider the Slavs, and these fall into two groups, northern and southern, which two groups are thus separated by the great Mongolian invasion of Eastern Europe in the Dark Ages. There is further among the Slavs a cross-section of great importance, that of religion. It separates the Slavs not into northern and southern, but, roughly, into eastern or Greek church, and western or Catholic. With the northern Slavs we count the Bohemians or Czechs, the Poles, and the Russians — using the latter term, of course, for many distinct but connected groups, for it is certain that Russia proper must remain a unity.
 
@@ -1144,7 +1144,7 @@ Racially, the Roumanians are probably Slavs for the most part, but their tongue 
 
 With this summary, which has been expressed in Map I, you have a fair, though of course rough, division of Europe into its real national components.
 
-Now let us ask what [[Germany]] and Austria would propose, in case of their victory, to make out of such materials.
+Now let us ask what [[settings/germany|Germany]] and Austria would propose, in case of their victory, to make out of such materials.
 
 MAP II. THE GERMANIC GROUP IN EUROPE
 
@@ -1184,7 +1184,7 @@ Montenegro
 
 3.
 
-[[Germany]]
+[[settings/germany|Germany]]
 
 8.
 
@@ -1241,7 +1241,7 @@ All’interno di quella linea stranamente contorta, quasi tutto il linguaggio e 
 
 Esistono anomalie da scoprire riguardo a questa forma corporea così particolare? Sì; ma sono di minore importanza di quanto si possa spesso pensare. Ad esempio, al di là della Prussia Orientale e entro i confini russi si trovano le cosiddette province baltiche “tedesche” della Russia. Tuttavia questo termine è improprio: i leader dell’industria sono per lo più tedeschi, così come la maggior parte delle città e l’aristocrazia terriera. Ma la massa della popolazione non parla tedesco; e anche tra la minoranza di persone che parlano tedesco, solo una piccola parte condivide il sentimento nazionalista tedesco diffuso a ovest.
 
-Ci sono colonie di persone di lingua tedesca molto a est di Vienna, sotto il dominio politico dell’Ungheria; una di queste è particolarmente grande e si trova proprio nei Carpazi sud-orientali, vicino al confine con la Romania. Tuttavia, queste colonie non potrebbero mai essere incluse in un’unica [[Germany|Germania]] unita. Lo stesso vale per il numero considerevole di altre colonie isolate di tedeschi presenti nel sud e nell’ovest della Russia. Infine, a estremo ovest si trova la piccola provincia del Lussemburgo: essa è di lingua tedesca, le sue ferrovie e la maggior parte delle sue industrie sono controllate dai tedeschi; tuttavia, in un sistema perfettamente libero, il Lussemburgo rifiuterebbe sicuramente di essere incorporato in qualsiasi nuova entità tedesca, poiché possiede una tradizione storica di indipendenza che si è rivelata estremamente preziosa per il suo sviluppo, e tale tradizione può essere paragonata a quella dei cantoni svizzeri di lingua tedesca.
+Ci sono colonie di persone di lingua tedesca molto a est di Vienna, sotto il dominio politico dell’Ungheria; una di queste è particolarmente grande e si trova proprio nei Carpazi sud-orientali, vicino al confine con la Romania. Tuttavia, queste colonie non potrebbero mai essere incluse in un’unica [[settings/germany|Germania]] unita. Lo stesso vale per il numero considerevole di altre colonie isolate di tedeschi presenti nel sud e nell’ovest della Russia. Infine, a estremo ovest si trova la piccola provincia del Lussemburgo: essa è di lingua tedesca, le sue ferrovie e la maggior parte delle sue industrie sono controllate dai tedeschi; tuttavia, in un sistema perfettamente libero, il Lussemburgo rifiuterebbe sicuramente di essere incorporato in qualsiasi nuova entità tedesca, poiché possiede una tradizione storica di indipendenza che si è rivelata estremamente preziosa per il suo sviluppo, e tale tradizione può essere paragonata a quella dei cantoni svizzeri di lingua tedesca.
 
 (6) Dobbiamo ora considerare i Slavi, i quali si dividono in due gruppi: nordici e meridionali; questi due gruppi furono separati dall’immensa invasione mongola dell’Europa orientale durante il Medioevo. Tra i Slavi esiste inoltre un aspetto di grande importanza, ovvero quello religioso. Questo aspetto non li divide in nordici e meridionali, ma, in linea di massima, in gruppi legati alla Chiesa greca orientale o alla Chiesa cattolica occidentale. Tra i Slavi settentrionali annoveriamo i Boemi o Cecchi, i Polacchi e i Russi; naturalmente, con il termine “Russi” ci riferiamo a molti gruppi distinti ma collegati tra loro, poiché è certo che la Russia propriamente detta debba rimanere un’unica entità.
 
@@ -1257,9 +1257,9 @@ Razzialmente, i rumeni sono per lo più slavi, ma la loro lingua è di origine l
 
 Con questo riassunto, espresso nella Mappa I, si ottiene una divisione abbastanza accurata, sebbene ovviamente approssimativa, dell’Europa nei suoi veri componenti nazionali.
 
-Ora chiediamoci cosa proporrebbero [[Germany|Germania]] e Austria, in caso di vittoria, per utilizzare tali materiali.
+Ora chiediamoci cosa proporrebbero [[settings/germany|Germania]] e Austria, in caso di vittoria, per utilizzare tali materiali.
 
-# MAP II: Il gruppo germanico in Europa
+MAP II: Il gruppo germanico in Europa
 
 1.
 
@@ -1269,7 +1269,7 @@ Lussemburgo
 
 Italiano misto
 
-# E il tedesco
+E il tedesco
 
 11.
 
@@ -1285,7 +1285,7 @@ Belgio
 
 7.
 
-#Russia
+Russia
 
 12.
 
@@ -1297,7 +1297,7 @@ Montenegro
 
 3.
 
-[[Germany|Germania]]
+[[settings/germany|Germania]]
 
 8.
 
@@ -1313,7 +1313,7 @@ Albania
 
 4.
 
-# Svizzera
+Svizzera
 
 9.
 
@@ -1329,7 +1329,7 @@ Grecia
 
 5.
 
-#Italia
+Italia
 
 10.
 
@@ -1337,11 +1337,11 @@ Austriaco
 
 15.
 
-# Romania
+Romania
 
 20.
 
-#Turchia
+Turchia
 
 I confini del gruppo del “sentimento tedesco” in Europa sono indicati approssimativamente da quella linea nera spessa. All’interno di quella linea, stranamente contorta, quasi tutto il discorso e tutti i sentimenti sono considerati “tedeschi”.
 
@@ -1352,7 +1352,7 @@ In primo luogo, la Germania avrebbe mantenuto tutto ciò che possedeva, indipend
 <span class="atom-split" data-atom="story_02_the_two_maps_of_europe--part_04" data-title="The Two Maps of Europe — THE TWO MAPS OF EUROPE (part 4)" data-chapter="THE TWO MAPS OF EUROPE" data-kind="excerpt" data-tags="concept/liberty,setting/germany"></span>
 
 
-The German constitutional system is of its nature federal. There is room in it for many kinds of states, each possessed of a very great measure of independence, and if the inclusion within one commercial system and one military system also, however loose that inclusion, be called annexation, then we may say that [[Germany]] would annex in some degree. She would wish to control directly the Mouth of the Scheldt and probably the Teutonic-speaking part of Belgium, that is, the north of that country. She would certainly desire to administrate the Ardennes, which would be her frontier against France, and she would quite certainly take over Luxembourg.
+The German constitutional system is of its nature federal. There is room in it for many kinds of states, each possessed of a very great measure of independence, and if the inclusion within one commercial system and one military system also, however loose that inclusion, be called annexation, then we may say that [[settings/germany|Germany]] would annex in some degree. She would wish to control directly the Mouth of the Scheldt and probably the Teutonic-speaking part of Belgium, that is, the north of that country. She would certainly desire to administrate the Ardennes, which would be her frontier against France, and she would quite certainly take over Luxembourg.
 
 As to Holland, her plan would probably be different there from that pursued in any other case. She would leave it as independent in its own eyes as it was before; she might insist upon an alliance with the Dutch army, she would certainly insist upon commercial terms, and probably rights of using certain ports in certain cases for war. But nothing but inexcusable folly would tempt her to go further. The position of Holland after a German settlement might not uncertainly be compared to the position of Hamburg in the old days, on a larger scale, a free State just as Hamburg was a free city.
 
@@ -1360,11 +1360,11 @@ This easy and, as it were, mutually arranged compromise with Holland, coupled wi
 
 The Scandinavian countries they would regard as naturally German in feeling, and as falling in a vague and general way into their orbit. Possessing the Kiel Canal, they would not strictly need the Sound. But they would so dominate Denmark that they could make what commercial or military terms they chose with regard to the passages of the Baltic; and you would have German firms, German methods, and to some extent the German language holding “civil garrisons” throughout the useful part of Sweden and Norway.
 
-On the East some have imagined they would erect as against Russia a mutilated and dependent Polish State. It is more probable that they would confine themselves to procuring some [[Liberty|liberty]] for Russian Poland, and obtaining some convention as to fortification and commerce. Russia will always be formidable, and to maintain the mutual bond of a subject Poland between Russia and herself would serve in the future, as it has served in the past, the ends of Prussia. It is essential to Prussia that no really independent Poland should re-arise, even mutilated. It is even essential that there should be no one area that the Poles could regard as the nucleus of a really free Polish State.
+On the East some have imagined they would erect as against Russia a mutilated and dependent Polish State. It is more probable that they would confine themselves to procuring some [[concepts/liberty|liberty]] for Russian Poland, and obtaining some convention as to fortification and commerce. Russia will always be formidable, and to maintain the mutual bond of a subject Poland between Russia and herself would serve in the future, as it has served in the past, the ends of Prussia. It is essential to Prussia that no really independent Poland should re-arise, even mutilated. It is even essential that there should be no one area that the Poles could regard as the nucleus of a really free Polish State.
 
 In the Balkans the Germanic Powers would certainly demand the control over what is now Serbia, and, at the risk of further war, the outlet at Salonika. The remnant of the Turkish Empire in Europe they already regard as being under their protectorate.
 
-As to the West, they would, rightly, treat it merely as a defeated foe. France (they would say) might continue to decline — for the Germans, getting things out of Berlin, always talk of “the decay of the Latin peoples” — her decline accelerated by stringent commercial treaties and a heavy indemnity; England would be envisaged in the same terms. [[Germany]] would demand from England certain coaling stations; she would impose on England also certain commercial conditions. But there would be no need to restrict the building of a Fleet, for there a victorious [[Germany]] would feel easily able to look after herself.
+As to the West, they would, rightly, treat it merely as a defeated foe. France (they would say) might continue to decline — for the Germans, getting things out of Berlin, always talk of “the decay of the Latin peoples” — her decline accelerated by stringent commercial treaties and a heavy indemnity; England would be envisaged in the same terms. [[settings/germany|Germany]] would demand from England certain coaling stations; she would impose on England also certain commercial conditions. But there would be no need to restrict the building of a Fleet, for there a victorious [[settings/germany|Germany]] would feel easily able to look after herself.
 
 MAP III. EUROPE REMODELLED BY GERMANY AND AUSTRIA
 
@@ -1405,7 +1405,7 @@ MAP IV. EUROPE REMODELLED BY THE ALLIES
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il sistema costituzionale tedesco è per sua natura federale. Vi è spazio all’interno di esso per molti tipi di stati, ciascuno dei quali possiede un grado molto elevato di indipendenza; e se l’inclusione in un unico sistema commerciale e militare, anche se tale inclusione fosse solo formale, dovesse essere definita annessione, allora si potrebbe dire che la [[Germany|Germania]] agirebbe in tal senso. Vorrebbe controllare direttamente l’imbocco del fiume Schelda e probabilmente anche la parte del Belgio di lingua tedesca, cioè il nord di quel paese. Sicuramente desidererebbe amministrare le Ardenne, che costituirebbero il suo confine con la Francia, e senza dubbio prenderebbe sotto il proprio controllo il Lussemburgo.
+Il sistema costituzionale tedesco è per sua natura federale. Vi è spazio all’interno di esso per molti tipi di stati, ciascuno dei quali possiede un grado molto elevato di indipendenza; e se l’inclusione in un unico sistema commerciale e militare, anche se tale inclusione fosse solo formale, dovesse essere definita annessione, allora si potrebbe dire che la [[settings/germany|Germania]] agirebbe in tal senso. Vorrebbe controllare direttamente l’imbocco del fiume Schelda e probabilmente anche la parte del Belgio di lingua tedesca, cioè il nord di quel paese. Sicuramente desidererebbe amministrare le Ardenne, che costituirebbero il suo confine con la Francia, e senza dubbio prenderebbe sotto il proprio controllo il Lussemburgo.
 
 Per quanto riguarda l'Olanda, il suo piano probabilmente sarebbe diverso da quello adottato in qualsiasi altro caso. Lascerebbe l’Olanda indipendente ai suoi occhi, proprio come prima; potrebbe insistere sull’alleanza con l’esercito olandese, sicuramente si impegnerà per ottenere condizioni commerciali favorevoli, e probabilmente anche il diritto di utilizzare determinati porti in circostanze belliche. Ma solo una follia inescusabile potrebbe spingerla ad andare oltre. La posizione dell’Olanda dopo un accordo con la Germania potrebbe essere paragonata, su larga scala, a quella di Amburgo in passato: uno Stato libero, proprio come Amburgo era una città libera.
 
@@ -1413,13 +1413,13 @@ Questo compromesso facile e, per così dire, reciprocamente concordato con l'Ola
 
 I paesi scandinavi sarebbero stati considerati, per natura, culturalmente tedeschi e quindi rientranti in una sorta di sfera d’influenza tedesca. Possedendo il Canale di Kiel, non avrebbero avuto bisogno necessariamente dello Stretto di Danimarca. Tuttavia, avrebbero dominato la Danimarca a tal punto da poter decidere, in termini commerciali o militari, l’uso dei passaggi del Mar Baltico; in questo modo, aziende tedesche, metodi tedeschi e, in certa misura, anche la lingua tedesca avrebbero avuto una forte influenza nella parte più importante della Svezia e della Norvegia.
 
-Nel Oriente, alcuni hanno immaginato di poter creare uno Stato polacco mutilato e dipendente per contrastare la Russia. È più probabile che si limiteranno ad ottenere alcune [[Liberty|libertà]] per la Polonia russa, nonché accordi riguardanti le fortificazioni e il commercio. La Russia rimarrà sempre una potenza temibile; pertanto, mantenere una Polonia sottomessa tra la Russia e sé stessa servirà, in futuro come in passato, agli interessi della Prussia. È essenziale per la Prussia che non si ripristini mai una Polonia veramente indipendente, nemmeno se mutilata; è altrettanto importante che non esista alcuna area che i polacchi possano considerare il nucleo di uno Stato polacco davvero libero.
+Nel Oriente, alcuni hanno immaginato di poter creare uno Stato polacco mutilato e dipendente per contrastare la Russia. È più probabile che si limiteranno ad ottenere alcune [[concepts/liberty|libertà]] per la Polonia russa, nonché accordi riguardanti le fortificazioni e il commercio. La Russia rimarrà sempre una potenza temibile; pertanto, mantenere una Polonia sottomessa tra la Russia e sé stessa servirà, in futuro come in passato, agli interessi della Prussia. È essenziale per la Prussia che non si ripristini mai una Polonia veramente indipendente, nemmeno se mutilata; è altrettanto importante che non esista alcuna area che i polacchi possano considerare il nucleo di uno Stato polacco davvero libero.
 
 Nei Balcani, le potenze germaniche chiederebbero sicuramente il controllo di quella che oggi è la Serbia, e, a rischio di ulteriori guerre, anche l’accesso al Mar Egeo attraverso Salonicco. I resti dell’Impero Ottomano in Europa sono già considerati da loro sotto la loro protezione.
 
-Per quanto riguarda l’Occidente, lo si sarebbe trattato, giustamente, semplicemente come un nemico sconfitto. La Francia, si sarebbe detto, avrebbe potuto continuare a declinare – i tedeschi, infatti, quando vogliono ottenere qualcosa da Berlino, parlano sempre di “il declino dei popoli latini” – e questo declino sarebbe stato accelerato da rigidi trattati commerciali e pesanti indennità; anche l’Inghilterra sarebbe stata vista nello stesso modo. [[Germany|Germania]] avrebbe chiesto all’Inghilterra di cedere alcune stazioni carbonifere e le avrebbe imposto determinate condizioni commerciali. Tuttavia, non ci sarebbe stato bisogno di limitare la costruzione della propria flotta, poiché una [[Germany|Germania]] vittoriosa si sarebbe sentita in grado di badare a se stessa facilmente.
+Per quanto riguarda l’Occidente, lo si sarebbe trattato, giustamente, semplicemente come un nemico sconfitto. La Francia, si sarebbe detto, avrebbe potuto continuare a declinare – i tedeschi, infatti, quando vogliono ottenere qualcosa da Berlino, parlano sempre di “il declino dei popoli latini” – e questo declino sarebbe stato accelerato da rigidi trattati commerciali e pesanti indennità; anche l’Inghilterra sarebbe stata vista nello stesso modo. [[settings/germany|Germania]] avrebbe chiesto all’Inghilterra di cedere alcune stazioni carbonifere e le avrebbe imposto determinate condizioni commerciali. Tuttavia, non ci sarebbe stato bisogno di limitare la costruzione della propria flotta, poiché una [[settings/germany|Germania]] vittoriosa si sarebbe sentita in grado di badare a se stessa facilmente.
 
-# MAP III. L’Europa ristrutturata da Germania e Austria
+MAP III. L’Europa ristrutturata da Germania e Austria
 
 I confini degli Alleati germanici oggi, insieme ai loro Stati dipendenti.
 
@@ -1481,11 +1481,11 @@ But over and beyond this there is the problem of reconstruction, and here you ha
 
 To some extent these two policies agree, but not entirely. To erect a larger Serbia, to free the Croats and the Slovenes, or perhaps to take from their territory the ports necessary to Serbia on the Adriatic, giving Serbia also the territory of Bosnia and Herzegovina; meanwhile, to let Bulgaria occupy the purely Bulgarian districts which Serbia now has, to re-erect a united Poland, to give Roumania her nationals beyond the Carpathians at the expense of Hungary; to make Hungary as far as possible independent of Vienna in administration, and in particular in military affairs — all that is part of universal policy which everyone expects.
 
-But what of [[Germany]] from within?
+But what of [[settings/germany|Germany]] from within?
 
-It is evident that the control of the Baltic, which the Kiel Canal involves, means that the Kiel Canal should be neutralized. It is equally evident that, while the Bohemians may not be wholly separated from the Germanic body which nearly encloses them, the largest measure of autonomy for these isolated Slavs fits the case of the Allies. But as for the policy to be pursued for [[Germany]] herself in case of a victory on the part of the Allies, that is a much more complex matter.
+It is evident that the control of the Baltic, which the Kiel Canal involves, means that the Kiel Canal should be neutralized. It is equally evident that, while the Bohemians may not be wholly separated from the Germanic body which nearly encloses them, the largest measure of autonomy for these isolated Slavs fits the case of the Allies. But as for the policy to be pursued for [[settings/germany|Germany]] herself in case of a victory on the part of the Allies, that is a much more complex matter.
 
-Roughly, it would seem to depend upon two main principles: First, that the more ancient and the more civilized pole of [[Germany]], the southern pole which is at Vienna, should be in every way favoured at the expense of the northern pole, Berlin, to which we have owed this catastrophe. Secondly, that an economic policy should be imposed which shall leave industrial Germany free to produce and yet compelled to pay.
+Roughly, it would seem to depend upon two main principles: First, that the more ancient and the more civilized pole of [[settings/germany|Germany]], the southern pole which is at Vienna, should be in every way favoured at the expense of the northern pole, Berlin, to which we have owed this catastrophe. Secondly, that an economic policy should be imposed which shall leave industrial Germany free to produce and yet compelled to pay.
 
 A policy of that kind means, of course, a carefully framed tariff, so designed that the tribute necessary to paying the cost of this great adventure shall fall upon its authors.
 
@@ -1514,11 +1514,11 @@ Per gli Alleati è una questione di vita o di morte impedire il ripristino del p
 
 In qualche misura queste due politiche coincidono, ma non del tutto. Costruire una Serbia più grande, liberare i Croati e gli Sloveni, o forse prendere dai loro territori i porti necessari alla Serbia sull’Adriatico, concedendo inoltre alla Serbia il territorio della Bosnia ed Erzegovina; allo stesso tempo, permettere alla Bulgaria di occupare le zone puramente bulgare che attualmente appartengono alla Serbia, ricostruire una Polonia unita, dare alla Romania i suoi territori al di là dei Carpazi a scapito dell’Ungheria; rendere l’Ungheria il più possibile indipendente da Vienna in termini amministrativi, e soprattutto in materia militare. Tutto ciò fa parte di una politica universale che tutti si aspettano.
 
-Ma che dire della [[Germany|Germania]] dal suo interno?
+Ma che dire della [[settings/germany|Germania]] dal suo interno?
 
-È evidente che il controllo dei mari Baltici, di cui fa parte il Canale di Kiel, implica la necessità di neutralizzarlo. È altrettanto chiaro che, sebbene i Boemi possano non essere completamente separati dal gruppo germanico che li circonda quasi interamente, concedere loro il massimo grado di autonomia è ciò che meglio si addice alle esigenze degli Alleati. Tuttavia, quanto alla politica da seguire da parte della [[Germany|Germania]] stessa in caso di vittoria degli Alleati, questa rappresenta una questione molto più complessa.
+È evidente che il controllo dei mari Baltici, di cui fa parte il Canale di Kiel, implica la necessità di neutralizzarlo. È altrettanto chiaro che, sebbene i Boemi possano non essere completamente separati dal gruppo germanico che li circonda quasi interamente, concedere loro il massimo grado di autonomia è ciò che meglio si addice alle esigenze degli Alleati. Tuttavia, quanto alla politica da seguire da parte della [[settings/germany|Germania]] stessa in caso di vittoria degli Alleati, questa rappresenta una questione molto più complessa.
 
-In linea di massima, sembrerebbe che tutto dipenda da due principi fondamentali: primo, che il polo più antico e più civile della [[Germany|Germania]], ovvero quello meridionale rappresentato da Vienna, debba essere favorito in ogni modo a scapito del polo settentrionale, Berlino, responsabile di questa catastrofe. Secondo, che debba essere adottata una politica economica che permetta alla Germania industriale di produrre liberamente, ma la costringa comunque a pagare le conseguenze delle sue attività.
+In linea di massima, sembrerebbe che tutto dipenda da due principi fondamentali: primo, che il polo più antico e più civile della [[settings/germany|Germania]], ovvero quello meridionale rappresentato da Vienna, debba essere favorito in ogni modo a scapito del polo settentrionale, Berlino, responsabile di questa catastrofe. Secondo, che debba essere adottata una politica economica che permetta alla Germania industriale di produrre liberamente, ma la costringa comunque a pagare le conseguenze delle sue attività.
 
 Una politica del genere significa, naturalmente, l’adozione di tariffe attentamente calcolate, in modo che il tributo necessario per coprire i costi di questa grande impresa ricada sui suoi autori.
 
@@ -1600,7 +1600,7 @@ Ecco quindi ciò che si intende per la necessità di utilizzare numeri assoluti 
 
 Ecco esattamente ciò che accade nel caso di una lunga linea di trincee: le forze difensive non diventano sempre più deboli man mano che il loro numero diminuisce fino a zero; sono in grado di mantenere una certa lunghezza di trincee con un numero minimo di uomini, ma se questo numero scende al di sotto del limite necessario, non riescono più a difendere la linea e devono ritirarsi su una posizione più breve. Supponiamo, ad esempio, che, nelle condizioni descritte nel Diagramma I, una linea di trincee A-B tenga il fronte tra due ostacoli X e Y contro un nemico che attacca dalla direzione E. Il numero di uomini incaricati della difesa di queste trincee è di nove unità: questo numero è esattamente sufficiente, e solo sufficiente, per impedire al nemico che attacca da E di sfondare. Nove unità bastano appunto a garantire che nessuna parte della linea di trincee A-B rimanga indifesa.
 
-# Quanto basta per impedire che un nemico riesca a passare?
+Quanto basta per impedire che un nemico riesca a passare?
 
 Diagramma I. Supponiamo di avere una linea di trincee A-B che blocca l’accesso tra due ostacoli X e Y, contro un nemico che attacca dalla direzione E. Il numero di uomini che presidiano queste trincee è di nove unità, e questa cifra è appena sufficiente per impedire all’esercito nemico di avanzare.
 
@@ -1689,9 +1689,9 @@ So much for an illustration of what is meant by absolute numbers and of their im
 
 (2) Now what of Proportionate numbers? That is a point upon which even closer attention must be fixed, because upon it will depend the issue of the campaign.
 
-The first thing we have to see clearly is that Austria and [[Germany]] began the war with a very great preponderance in numbers of trained and equipped men ready to take the field within the first six weeks. They had here a great advantage over Russia and France combined, and to see what that advantage was look at Diagram IX.
+The first thing we have to see clearly is that Austria and [[settings/germany|Germany]] began the war with a very great preponderance in numbers of trained and equipped men ready to take the field within the first six weeks. They had here a great advantage over Russia and France combined, and to see what that advantage was look at Diagram IX.
 
-Diagram IX. A represents the total number of men [[Germany]] and Austria together could put into the field by about the middle of September. B represents the French and the first British contingent; C what the Russians could do. This shows that [[Germany]] and Austria began the war with a great advantage over Russia, France and Britain combined, in their numbers of trained and equipped men ready to take the field within the first six weeks.
+Diagram IX. A represents the total number of men [[settings/germany|Germany]] and Austria together could put into the field by about the middle of September. B represents the French and the first British contingent; C what the Russians could do. This shows that [[settings/germany|Germany]] and Austria began the war with a great advantage over Russia, France and Britain combined, in their numbers of trained and equipped men ready to take the field within the first six weeks.
 
 Figure A represents the total number of men Germany and Austria together could put into the field by about the middle of September. B represents the French and the first British contingent in the West; C what the Russians could do in the East.
 
@@ -1730,9 +1730,9 @@ Ecco un esempio concreto di ciò che si intende per numeri assoluti e dell’imp
 
 (2) E ora, che dire dei numeri proporzionali? È un aspetto su cui è necessario concentrarsi ancora di più, perché da esso dipenderà l’esito della campagna.
 
-La prima cosa che dobbiamo capire chiaramente è che Austria e [[Germany|Germania]] iniziarono la guerra con una netta superiorità numerica: avevano a disposizione un gran numero di uomini addestrati ed equipaggiati pronti a entrare in battaglia entro le prime sei settimane. In questo senso, avevano un grande vantaggio rispetto alla Russia e alla Francia messe insieme; per comprendere meglio quale fosse questo vantaggio, basta guardare il Diagramma IX.
+La prima cosa che dobbiamo capire chiaramente è che Austria e [[settings/germany|Germania]] iniziarono la guerra con una netta superiorità numerica: avevano a disposizione un gran numero di uomini addestrati ed equipaggiati pronti a entrare in battaglia entro le prime sei settimane. In questo senso, avevano un grande vantaggio rispetto alla Russia e alla Francia messe insieme; per comprendere meglio quale fosse questo vantaggio, basta guardare il Diagramma IX.
 
-Diagramma IX. A rappresenta il numero totale di uomini che la [[Germany|Germania]] e l’Austria potevano schierare sul campo entro la metà di settembre. B indica le forze francesi e il primo contingente britannico; C mostra ciò che i russi erano in grado di fare. Questo dimostra che la [[Germany|Germania]] e l’Austria iniziarono la guerra con un grande vantaggio rispetto alla Russia, alla Francia e al Regno Unito messi insieme, in termini di numero di uomini addestrati ed equipaggiati pronti a combattere entro le prime sei settimane.
+Diagramma IX. A rappresenta il numero totale di uomini che la [[settings/germany|Germania]] e l’Austria potevano schierare sul campo entro la metà di settembre. B indica le forze francesi e il primo contingente britannico; C mostra ciò che i russi erano in grado di fare. Questo dimostra che la [[settings/germany|Germania]] e l’Austria iniziarono la guerra con un grande vantaggio rispetto alla Russia, alla Francia e al Regno Unito messi insieme, in termini di numero di uomini addestrati ed equipaggiati pronti a combattere entro le prime sei settimane.
 
 La Figura A rappresenta il numero totale di uomini che Germania e Austria avrebbero potuto schierare sul campo entro la metà di settembre. La Figura B indica le forze francesi e il primo contingente britannico sul fronte occidentale; la Figura C mostra ciò che i russi avrebbero potuto fare sul fronte orientale.
 
@@ -1775,7 +1775,7 @@ Then putting all these figures together and considering for the moment no wastag
 
 Diagram X. How will time modify the grave disproportion indicated in Diagram IX? Taking, roughly, the first few months of the war, apart from wastage, our enemies remain month after month far superior to either half of the Allies they are fighting — the French and English in the West, the Russians in the East.
 
-Observe in this diagram and retain it for purposes of judgment throughout the war — it is far the most important truth to retain — that, apart from wastage, our enemies remained throughout the winter far superior to either half of the Allies they are fighting. Remember that we did not put as against Austro-[[Germany]] in the West more than 6 to 9 for a long time, nor Russia in the East certainly more than 5 to 9.
+Observe in this diagram and retain it for purposes of judgment throughout the war — it is far the most important truth to retain — that, apart from wastage, our enemies remained throughout the winter far superior to either half of the Allies they are fighting. Remember that we did not put as against Austro-[[settings/germany|Germany]] in the West more than 6 to 9 for a long time, nor Russia in the East certainly more than 5 to 9.
 
 The Allies combined will at last be superior to their enemy numerically, but only superior in a proportion of 11 to 9 (exclusive of wastage), and that maximum will not be reached till summer.
 
@@ -1783,13 +1783,13 @@ I have italicized that paragraph because the misapprehension of so simple a trut
 
 It was a knowledge of this truth which made the German Government feel secure of success when it forced on the war at its chosen day and hour (remember with what curious superstition the Germans passed the frontier on the same day and at the same hour as in 1870), and an ignorance of it alone can account for the follies one still hears.
 
-Even as I write I rise from reading the account of a sermon by some clergyman, an Englishman — but not in England, I am glad to say — who talked of [[Germany]], with her back to the wall, fighting the world, and expressing his admiration thereat. He had evidently never considered the element of numbers.
+Even as I write I rise from reading the account of a sermon by some clergyman, an Englishman — but not in England, I am glad to say — who talked of [[settings/germany|Germany]], with her back to the wall, fighting the world, and expressing his admiration thereat. He had evidently never considered the element of numbers.
 
 Now what about the wastage?
 
 Luckily for us, German necessities, as well as German doctrine, have involved very heavy wastage. And, luckily for us, that wastage has been particularly heavy in the matter of officers.
 
-A discussion on numbers does not allow one to stray into the equally important moral factors of the war, but the fact may be just alluded to that the whole general military organism of [[Germany]] depends more than that of any other nation upon the gulf between the officer and those next in command. Not only can you make a French non-commissioned officer into an officer without fear of losing an atom of the moral strength of the French military organism, but the thing is done continually during peace and during war on a large scale. In Germany you can do nothing of the kind.
+A discussion on numbers does not allow one to stray into the equally important moral factors of the war, but the fact may be just alluded to that the whole general military organism of [[settings/germany|Germany]] depends more than that of any other nation upon the gulf between the officer and those next in command. Not only can you make a French non-commissioned officer into an officer without fear of losing an atom of the moral strength of the French military organism, but the thing is done continually during peace and during war on a large scale. In Germany you can do nothing of the kind.
 
 The attack in close formation, with all its obvious advantages of speed and with all the very fine tradition of discipline which makes it possible, is another element of expense, but most expensive of all is the determination to win at once.
 
@@ -1822,7 +1822,7 @@ Quindi, mettendo insieme tutte queste cifre e considerando, per il momento, l’
 
 Diagramma X: In che modo il tempo modificherà la grave disparità evidenziata nel Diagramma IX? Prendendo, in modo approssimativo, i primi mesi della guerra, a parte le perdite subite, i nostri nemici rimangono, mese dopo mese, di gran lunga superiori a entrambe le metà degli Alleati contro cui combattono: i francesi e gli inglesi in Occidente, i russi in Oriente.
 
-Osservate questo diagramma e tenetelo a mente per giudicare correttamente durante tutto il corso della guerra: è senz’altro la verità più importante da ricordare. A parte le perdite inevitabili, i nostri nemici rimasero, per tutta l’inverno, di gran lunga superiori a entrambe le metà degli Alleati contro cui combattevano. Ricordate che, in Occidente, non abbiamo mai schierato più di 6 contro 9 soldati contro l’Austria-[[Germany|Germania]], e in Oriente certamente non più di 5 contro 9 contro la Russia.
+Osservate questo diagramma e tenetelo a mente per giudicare correttamente durante tutto il corso della guerra: è senz’altro la verità più importante da ricordare. A parte le perdite inevitabili, i nostri nemici rimasero, per tutta l’inverno, di gran lunga superiori a entrambe le metà degli Alleati contro cui combattevano. Ricordate che, in Occidente, non abbiamo mai schierato più di 6 contro 9 soldati contro l’Austria-[[settings/germany|Germania]], e in Oriente certamente non più di 5 contro 9 contro la Russia.
 
 Le forze alleate, unite, saranno finalmente numericamente superiori al loro nemico, ma solo con un rapporto di 11 a 9 (escludendo le perdite), e tale massimo non sarà raggiunto prima dell'estate.
 
@@ -1830,13 +1830,13 @@ Ho messo in grassetto quel paragrafo perché la malcomprensione di una verità c
 
 Fu proprio la conoscenza di questa verità a far sentire il governo tedesco sicuro del successo quando decise di dichiarare guerra nel giorno e nell’ora scelti (ricordiamo con quale curiosa superstizione i tedeschi attraversarono il confine nello stesso giorno e alla stessa ora di quell’anno 1870); soltanto l’ignoranza di questa verità può spiegare le follie che si sentono ancora oggi.
 
-Mentre scrivo, sto ancora riflettendo sul resoconto di un sermone tenuto da un certo clérigo, un inglese, ma non in Inghilterra, per fortuna. Nel suo discorso parlava della [[Germany|Germania]], descritta come un paese che, con le spalle al muro, combatte contro il mondo intero, e esprimeva la sua ammirazione per questo comportamento. Ovviamente non aveva mai preso in considerazione l’aspetto numerico delle cose.
+Mentre scrivo, sto ancora riflettendo sul resoconto di un sermone tenuto da un certo clérigo, un inglese, ma non in Inghilterra, per fortuna. Nel suo discorso parlava della [[settings/germany|Germania]], descritta come un paese che, con le spalle al muro, combatte contro il mondo intero, e esprimeva la sua ammirazione per questo comportamento. Ovviamente non aveva mai preso in considerazione l’aspetto numerico delle cose.
 
 E ora, che ne dici dello spreco?
 
 Per nostra fortuna, le necessità militari tedesche, così come la loro dottrina strategica, hanno comportato un’elevatissima quantità di sprechi. E, ancora per nostro vantaggio, questi sprechi sono stati particolarmente evidenti nel caso degli ufficiali.
 
-Una discussione sui numeri non permette di affrontare gli altrettanto importanti aspetti morali della guerra; tuttavia si può almeno accennare al fatto che l’intero organismo militare generale della [[Germany|Germania]] dipenda, più di qualsiasi altro paese, dal divario esistente tra gli ufficiali e coloro che sono immediatamente sotto di loro. In Francia è possibile trasformare un sottufficiale in ufficiale senza rischiare di indebolire minimamente la forza morale dell’intero organismo militare; questa pratica avviene costantemente, sia in tempo di pace che in tempo di guerra su larga scala. In Germania, invece, nulla del genere è possibile.
+Una discussione sui numeri non permette di affrontare gli altrettanto importanti aspetti morali della guerra; tuttavia si può almeno accennare al fatto che l’intero organismo militare generale della [[settings/germany|Germania]] dipenda, più di qualsiasi altro paese, dal divario esistente tra gli ufficiali e coloro che sono immediatamente sotto di loro. In Francia è possibile trasformare un sottufficiale in ufficiale senza rischiare di indebolire minimamente la forza morale dell’intero organismo militare; questa pratica avviene costantemente, sia in tempo di pace che in tempo di guerra su larga scala. In Germania, invece, nulla del genere è possibile.
 
 L’attacco eseguito in formazione ravvicinata, con tutti i vantaggi evidenti che offre in termini di velocità e grazie alla solida tradizione disciplinare che lo rende possibile, rappresenta un altro fattore di costo. Ma il più costoso di tutti è sicuramente la determinazione a vincere immediatamente.
 
@@ -1865,7 +1865,7 @@ In un caso specifico e fino a una data determinata, possiamo arrivare con relati
 <span class="atom-split" data-atom="story_03_numbers_in_war--part_05" data-title="The Two Maps of Europe — NUMBERS IN WAR (part 5)" data-chapter="NUMBERS IN WAR" data-kind="excerpt" data-tags="setting/germany"></span>
 
 
-I know that that figure 40 per cent. looks absurdly exaggerated when it is put thus without support, but it is a perfectly sound conclusion. If you take the lists published by Prussia, note the dates to which they refer, the proportion of killed to the admitted wounded, and add the proportion for Bavaria, Wurtemburg, and Saxony, you find that at this date in the late autumn two millions were affected, and [[Germany]] had not armed more than five millions at the most at that time.
+I know that that figure 40 per cent. looks absurdly exaggerated when it is put thus without support, but it is a perfectly sound conclusion. If you take the lists published by Prussia, note the dates to which they refer, the proportion of killed to the admitted wounded, and add the proportion for Bavaria, Wurtemburg, and Saxony, you find that at this date in the late autumn two millions were affected, and [[settings/germany|Germany]] had not armed more than five millions at the most at that time.
 
 Now, as in our own case, the proportion of officers hit, wounded, and caught was large compared to that of men; but what is more important, perhaps, the proportion of officers killed or badly wounded was very much larger in proportion to the slightly wounded than was the case with the men; it is fairly certain that one-half of the trained professional officers of the German service were permanently out of action by the end of the year.
 
@@ -1882,7 +1882,7 @@ We must add, therefore, in that proportion to all our figures, and the result wi
 
 <span class="qlang-split" data-lang="it"></span>
 
-So che quella percentuale del 40% sembra assurdamente esagerata se presentata senza alcun supporto, ma si tratta comunque di una conclusione del tutto fondata. Se si prendono in considerazione le liste pubblicate dalla Prussia, si notano le date a cui fanno riferimento, la proporzione tra i morti e i feriti registrati ufficialmente, e si aggiunge anche la percentuale relativa a Baviera, Württemberg e Sassonia, si scopre che a quella data, verso la fine dell’autunno, due milioni di persone erano state colpite; inoltre, all’epoca l’[[Germany|Germania]] non aveva armato più di cinque milioni di persone al massimo.
+So che quella percentuale del 40% sembra assurdamente esagerata se presentata senza alcun supporto, ma si tratta comunque di una conclusione del tutto fondata. Se si prendono in considerazione le liste pubblicate dalla Prussia, si notano le date a cui fanno riferimento, la proporzione tra i morti e i feriti registrati ufficialmente, e si aggiunge anche la percentuale relativa a Baviera, Württemberg e Sassonia, si scopre che a quella data, verso la fine dell’autunno, due milioni di persone erano state colpite; inoltre, all’epoca l’[[settings/germany|Germania]] non aveva armato più di cinque milioni di persone al massimo.
 
 Ora, proprio come nel nostro caso, la proporzione di ufficiali colpiti, feriti o catturati era molto più alta rispetto a quella dei soldati semplici; ma ciò che è forse ancora più importante è il fatto che la percentuale di ufficiali uccisi o gravemente feriti era decisamente superiore rispetto ai soldati leggermente feriti. È abbastanza certo che, entro la fine dell’anno, metà degli ufficiali professionisti formati del servizio militare tedesco fossero permanentemente inabile a prestare servizio.
 
@@ -2464,11 +2464,11 @@ All this action of the Censor is as wise as it is necessary, but in the face of 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# In cosa credere nelle notizie di guerra
+In cosa credere nelle notizie di guerra
 
 Mostrare come selezionare e confrontare i resoconti della stampa, al fine di giungere a una valutazione accurata della vera situazione delle cose.
 
-# In cosa credere nelle notizie di guerra
+In cosa credere nelle notizie di guerra
 
 Qualche giorno fa è arrivato a Londra un messaggio dall’Italia, redatto con inchiostro da stampa e ripreso quasi in tutti i giornali: la città di Cracovia era stata assediata, l’bombardamento era iniziato e una parte della città era avvolta dalle fiamme.
 
@@ -2634,11 +2634,11 @@ WHAT THE WAR HAS TAUGHT US
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Ciò che la guerra ci ha insegnato
+Ciò che la guerra ci ha insegnato
 
 Molte teorie formulate in tempi di pace sono crollate di fronte alle recenti realtà. Qui vengono esposte le principali lezioni da trarre dalla guerra attuale.
 
-# Ciò che la guerra ci ha insegnato
+Ciò che la guerra ci ha insegnato
 
 
 
@@ -2698,7 +2698,7 @@ In the second set, the political questions, the most important were:
 
 <span class="qlang-split" data-lang="it"></span>
 
-# I punti in discussione
+I punti in discussione
 
 Lungi periodi di pace, che intercorrono tra cicli di guerra, sono necessariamente periodi durante i quali si sviluppa una grande quantità di teorie riguardanti il modo in cui la guerra influenzerà gli esseri umani quando scoprirà. Sono anche periodi in cui vengono perfezionati armamenti, il cui effetto reale sull’animo umano non è ancora stato testato. Infine, sono periodi in cui vengono sviluppati metodi di difesa, l’efficacia dei quali contro gli armamenti offensivi corrispondenti rimane comunque dubbia.
 
@@ -2769,7 +2769,7 @@ It is true that the Germans have a larger howitzer than the French and the Engli
 
 It is probable that the system of large, permanent enclosed works will give way to a system of narrow, prepared, parallel trenches connected by covered ways, which, by offering too small a target for accurate fire from a distance, and by being doubled and redoubled one behind the other, will be able to hold out far longer than the larger works which bore the brunt of the present war. But that the defensive will devise some means of meeting the new and unexpected powers of the offensive we may be certain, upon the analogy of all past warfare.
 
-(2) In the matter of formation the surprise of the war has undoubtedly been the success of another German theory, to wit, the possibility of leading modern short-trained troops, against enormous losses, in close formation. Everywhere outside [[Germany]] that was doubted, and the Germans have proved that their initial contention was right, at least in their own case. But there is another aspect of this question which has as yet by no means been proved one way or the other, and that is, whether the very heavy losses this use of close formation entails are worth while in a campaign not immediately successful at the outset. We are not yet able to say how far troops once submitted to such violence can be brought to suffer it again — or how long after — nor are we able to say what effect this lavish expenditure of men has towards the end of a campaign if its primary object, immediate initial success, fails.
+(2) In the matter of formation the surprise of the war has undoubtedly been the success of another German theory, to wit, the possibility of leading modern short-trained troops, against enormous losses, in close formation. Everywhere outside [[settings/germany|Germany]] that was doubted, and the Germans have proved that their initial contention was right, at least in their own case. But there is another aspect of this question which has as yet by no means been proved one way or the other, and that is, whether the very heavy losses this use of close formation entails are worth while in a campaign not immediately successful at the outset. We are not yet able to say how far troops once submitted to such violence can be brought to suffer it again — or how long after — nor are we able to say what effect this lavish expenditure of men has towards the end of a campaign if its primary object, immediate initial success, fails.
 
 (3) In the matter of aircraft, four things have come out already.
 
@@ -2797,7 +2797,7 @@ Neither are we established upon the question of weight. General Langlois’ theo
 
 Of the many things a modern army requires which are to be found only in a few special places, and those, most of them, out of Europe, the most important of all is petrol. It is obviously of capital importance for air work, and where you have a number of good roads, as in the Western field of operations, it is almost as important for transport work.
 
-Now it so happens that petrol is not found in Western Europe at all. The European supply as a whole is limited, and is in the main confined to Galicia, Roumania, and Russia. The Asiatic and American supply is only available to Austria-Hungary and [[Germany]] by way of the ocean, and the ocean is closed to them. Russian supply, of course, they cannot obtain. Galician supply swings back and forth now in the possession of the Austrian and now in that of the Russian Army.
+Now it so happens that petrol is not found in Western Europe at all. The European supply as a whole is limited, and is in the main confined to Galicia, Roumania, and Russia. The Asiatic and American supply is only available to Austria-Hungary and [[settings/germany|Germany]] by way of the ocean, and the ocean is closed to them. Russian supply, of course, they cannot obtain. Galician supply swings back and forth now in the possession of the Austrian and now in that of the Russian Army.
 
 There remains only Roumania, and though Roumania is neutral it is doubtful or rather nearly certain that no sufficient supplies are coming into the Germanic Powers from that source. This is up to the moment of writing the chief effect of the British naval superiority, to which I will next turn.
 
@@ -2826,7 +2826,7 @@ Non si tratta di tenacia o coraggio: la massima tenacia e il massimo coraggio no
 
 È probabile che il sistema di grandi opere difensive permanenti e chiuse lasci il posto a un sistema di trincee strette, preparate in anticipo e parallele, collegate da passaggi coperti. Questo nuovo sistema, offrendo un bersaglio troppo piccolo per permettere un tiro preciso da lontano, e essendo disposto in modo che una trincea si sovrapponga all’altra, sarà in grado di resistere molto più a lungo rispetto alle opere più grandi che hanno subito il peso principale degli attacchi in questa guerra. Tuttavia, possiamo essere certi che le forze difensive troveranno modi per contrastare queste nuove e inaspettate capacità offensive, sulla base dell’analogia con tutte le guerre del passato.
 
-(2) Per quanto riguarda la tattica di formazione, lo sviluppo inaspettato delle operazioni militari è senza dubbio dovuto al successo di un’altra teoria tedesca: quella che prevede l’utilizzo di truppe moderne, addestrate in breve tempo, per combattere in formazione stretta, anche a fronte di pesanti perdite. Ovunque all’esterno della [[Germany|Germania]] questa tattica fosse messa in dubbio, i tedeschi hanno dimostrato che la loro ipotesi iniziale era corretta, almeno nel loro caso. Tuttavia, c’è un altro aspetto di questa questione che non è ancora stato affatto chiarito: si tratta di capire se le pesanti perdite causate dall’utilizzo della formazione stretta siano realmente giustificate in una campagna militare che non ottiene subito successo all’inizio. Non possiamo ancora stabilire fino a che punto le truppe, una volta sottoposte a tale tipo di aggressività, siano disposte a sopportarla nuovamente, né dopo quanto tempo; inoltre, non sappiamo quale effetto abbia questo enorme spreco di vite umane sul risultato finale di una campagna militare, nel caso in cui l’obiettivo principale – il successo immediato all’inizio delle operazioni – venga mancato.
+(2) Per quanto riguarda la tattica di formazione, lo sviluppo inaspettato delle operazioni militari è senza dubbio dovuto al successo di un’altra teoria tedesca: quella che prevede l’utilizzo di truppe moderne, addestrate in breve tempo, per combattere in formazione stretta, anche a fronte di pesanti perdite. Ovunque all’esterno della [[settings/germany|Germania]] questa tattica fosse messa in dubbio, i tedeschi hanno dimostrato che la loro ipotesi iniziale era corretta, almeno nel loro caso. Tuttavia, c’è un altro aspetto di questa questione che non è ancora stato affatto chiarito: si tratta di capire se le pesanti perdite causate dall’utilizzo della formazione stretta siano realmente giustificate in una campagna militare che non ottiene subito successo all’inizio. Non possiamo ancora stabilire fino a che punto le truppe, una volta sottoposte a tale tipo di aggressività, siano disposte a sopportarla nuovamente, né dopo quanto tempo; inoltre, non sappiamo quale effetto abbia questo enorme spreco di vite umane sul risultato finale di una campagna militare, nel caso in cui l’obiettivo principale – il successo immediato all’inizio delle operazioni – venga mancato.
 
 (3) Per quanto riguarda gli aerei, sono già emerse quattro informazioni.
 
@@ -2854,7 +2854,7 @@ Nemmeno noi abbiamo una posizione definitiva su questa questione del peso. La te
 
 Tra le molte cose di cui ha bisogno un esercito moderno e che si trovano soltanto in pochi luoghi specifici – e la maggior parte di questi fuori dall’Europa – quella più importante è senza dubbio il petrolio. È ovviamente di fondamentale importanza per le operazioni aeree, e dove esistono buone strade, come nel teatro operativo occidentale, è quasi altrettanto essenziale per i trasporti.
 
-È proprio il caso che in Europa occidentale il petrolio non si trovi affatto. L’approvvigionamento europeo nel suo complesso è limitato e si concentra principalmente in Galizia, Romania e Russia. Gli approvvigionamenti asiatici e americani sono disponibili soltanto per Austria-Ungheria e [[Germany|Germania]] attraverso il mare, ma il mare è loro chiuso. Naturalmente, non possono ottenere alcun rifornimento dalla Russia. L’approvvigionamento proveniente da Galizia passa continuamente di mano tra l’esercito austriaco e quello russo.
+È proprio il caso che in Europa occidentale il petrolio non si trovi affatto. L’approvvigionamento europeo nel suo complesso è limitato e si concentra principalmente in Galizia, Romania e Russia. Gli approvvigionamenti asiatici e americani sono disponibili soltanto per Austria-Ungheria e [[settings/germany|Germania]] attraverso il mare, ma il mare è loro chiuso. Naturalmente, non possono ottenere alcun rifornimento dalla Russia. L’approvvigionamento proveniente da Galizia passa continuamente di mano tra l’esercito austriaco e quello russo.
 
 Resta solo la Romania, e sebbene sia neutrale, è improbabile, o meglio dire quasi certo, che da quella fonte arrivino rifornimenti sufficienti alle Potenze germaniche. A questo punto, la superiorità navale britannica rappresenta l’effetto principale di tale situazione, su cui passerò ora a parlare.
 
@@ -2875,7 +2875,7 @@ WHEN WE TURN to the political questions which the war has solved we have obtaine
 
 In the first place, we have found that while the conscript system of war worked and mobilized with astonishing success, our own much more doubtful dependence upon a voluntary system for prolonged warfare has not betrayed this country. Everyone is agreed that the response to the call for volunteers, upon which there was at first great and legitimate anxiety, has been quite out of proportion to our expectations, and particularly to those of our enemies.
 
-I think it true to say that there is nothing in which the German estimate of British psychology has been more hopelessly at sea than in this; and that the effects of this exceedingly rapid and large voluntary enlistment, principally drawn from the best material in the country, is the chief uncalculated factor in the scheme of what [[Germany]] expected to face. It is a factor that matures more slowly than many of the others, more slowly, perhaps, even than the effect of the blockade (which is also due to British effort), but it will mature with sufficient rapidity to affect all the later, and what may easily be the decisive, phases of the great war.
+I think it true to say that there is nothing in which the German estimate of British psychology has been more hopelessly at sea than in this; and that the effects of this exceedingly rapid and large voluntary enlistment, principally drawn from the best material in the country, is the chief uncalculated factor in the scheme of what [[settings/germany|Germany]] expected to face. It is a factor that matures more slowly than many of the others, more slowly, perhaps, even than the effect of the blockade (which is also due to British effort), but it will mature with sufficient rapidity to affect all the later, and what may easily be the decisive, phases of the great war.
 
 We have an equally direct answer to that hitherto quite uncertain question, whether in a modern state the secrecy which is essential to the success of a military plan could be maintained or no. Here again there has been a complete surprise. No one could have suggested six months ago that so news-tight a system could possibly have been worked with populations living in the modern great towns. And here it must be admitted that our opponents have done even better than ourselves. There is almost a comic element in the complete security with which the German and Austrian Governments can give those whom they govern exactly what news they choose and forbid the least scrap correcting or amplifying these meagre official statements, to pass the frontiers.
 
@@ -2885,7 +2885,7 @@ Perhaps the most important point of all among the political questions which the 
 
 In plain fact, the idea that class feeling would anywhere in Europe be stronger than national feeling has proved utterly wanting.
 
-In the industrial parts of [[Germany]] where the distinction of capitalist and proletariat was so clearly marked, that distinction had no effect whatsoever, not only upon mobilization, but upon the spirit of the troops; a fortiori it had none in that French society which is leavened by its peasantry, or in Russia which is almost wholly a peasant state.
+In the industrial parts of [[settings/germany|Germany]] where the distinction of capitalist and proletariat was so clearly marked, that distinction had no effect whatsoever, not only upon mobilization, but upon the spirit of the troops; a fortiori it had none in that French society which is leavened by its peasantry, or in Russia which is almost wholly a peasant state.
 
 There is nothing on which the judgment of an educated man would have proved more at sea had it been taken before the war broke out, and nothing in which the war has more poignantly revealed the ancient foundations upon which Europe reposes.
 
@@ -2898,7 +2898,7 @@ Quando ci rivolgiamo alle questioni politiche che la guerra ha risolto, otteniam
 
 In primo luogo, abbiamo scoperto che sebbene il sistema di arruolamento obbligatorio in tempo di guerra abbia funzionato e si sia mobilitato con straordinario successo, la nostra dipendenza da un sistema volontario per guerre prolungate, molto più discutibile, non ha tradito questo paese. Tutti concordano sul fatto che la risposta all’appello per i volontari, su cui inizialmente esisteva grande e legittima preoccupazione, sia stata del tutto sproporzionata alle nostre aspettative, e soprattutto a quelle dei nostri nemici.
 
-Penso sia vero affermare che in nessun ambito la valutazione tedesca della psicologia britannica si è rivelata più completamente errata di quanto non sia avvenuto in questo caso; e che gli effetti di questa rapida e massiccia arruolamento volontario, che ha coinvolto principalmente le migliori risorse del paese, rappresentino il principale fattore imprevisto nell’ambito delle aspettative della [[Germany|Germania]]. Questo fattore si manifesta con maggiore lentezza rispetto ad altri, forse persino più lentamente dell’effetto del blocco navale (che anch’esso è dovuto agli sforzi britannici), ma maturerà abbastanza rapidamente da influenzare tutte le fasi successive, e probabilmente anche quelle decisive, di questa grande guerra.
+Penso sia vero affermare che in nessun ambito la valutazione tedesca della psicologia britannica si è rivelata più completamente errata di quanto non sia avvenuto in questo caso; e che gli effetti di questa rapida e massiccia arruolamento volontario, che ha coinvolto principalmente le migliori risorse del paese, rappresentino il principale fattore imprevisto nell’ambito delle aspettative della [[settings/germany|Germania]]. Questo fattore si manifesta con maggiore lentezza rispetto ad altri, forse persino più lentamente dell’effetto del blocco navale (che anch’esso è dovuto agli sforzi britannici), ma maturerà abbastanza rapidamente da influenzare tutte le fasi successive, e probabilmente anche quelle decisive, di questa grande guerra.
 
 Abbiamo una risposta altrettanto diretta a quella domanda finora piuttosto incerta: se in uno stato moderno sia possibile mantenere il segreto necessario al successo di un piano militare. Anche in questo caso si è verificata una completa sorpresa. Nessuno avrebbe potuto immaginare, sei mesi fa, che un sistema così rigido nel controllo delle informazioni potesse funzionare efficacemente nelle grandi città moderne. E bisogna ammettere che i nostri avversari hanno fatto addirittura meglio di noi: i governi tedesco e austriaco riescono con una sicurezza quasi comica a fornire alle persone che governano esattamente le informazioni che desiderano, impedendo qualsiasi correzione o ampliamento di queste scarse dichiarazioni ufficiali prima che vengano diffuse al di fuori dei loro confini.
 
@@ -2908,6 +2908,6 @@ Forse il punto più importante tra tutte le questioni politiche sollevate dalla 
 
 In realtà, l’idea che il senso di classe possa essere, in qualsiasi parte d’Europa, più forte del senso nazionale si è rivelata completamente infondata.
 
-Nelle zone industriali di [[Germany|Germania]], dove la distinzione tra capitalisti e proletariati era così netta, tale distinzione non aveva alcun effetto né sulla mobilitazione delle truppe né sul loro spirito; tanto meno in quella società francese influenzata dalla sua classe contadina, o in Russia, che è quasi interamente uno stato contadino.
+Nelle zone industriali di [[settings/germany|Germania]], dove la distinzione tra capitalisti e proletariati era così netta, tale distinzione non aveva alcun effetto né sulla mobilitazione delle truppe né sul loro spirito; tanto meno in quella società francese influenzata dalla sua classe contadina, o in Russia, che è quasi interamente uno stato contadino.
 
 Non esiste nulla su cui il giudizio di un uomo istruito sarebbe risultato più incerto se fosse stato espresso prima dello scoppio della guerra; e non c’è nulla che la guerra abbia rivelato in modo più drammatico le antiche fondamenta su cui si regge l’Europa.

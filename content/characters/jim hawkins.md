@@ -14,4 +14,10 @@ The boy narrator-hero of Treasure Island, held up by Chesterton as the embodimen
 
 <div class="concept-works" data-slug="characters/jim-hawkins"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/robert-louis-stevenson-(chesterton)|Robert Louis Stevenson (Chesterton)]]
+
+</div>
+
 #graph/character

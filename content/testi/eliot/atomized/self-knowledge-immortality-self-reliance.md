@@ -15,7 +15,7 @@ tags:
 
 
 Animula  
-    ‘Issues from the hand of God, the simple [[Soul|soul]]’  
+    ‘Issues from the hand of God, the simple [[motifs/soul|soul]]’  
 To a flat world of changing lights and noise,  
 To light, dark, dry or damp, chilly or warm;  
 Moving between the legs of tables and of chairs,  
@@ -24,59 +24,59 @@ Advancing boldly, sudden to take alarm,
 Retreating to the corner of arm and knee,  
 Eager to be reassured, taking pleasure  
 In the fragrant brilliance of the Christmas tree,  
-Pleasure in the [[Wind|wind]], the sunlight and the sea;  
+Pleasure in the [[motifs/wind|wind]], the sunlight and the sea;  
 Studies the sunlit pattern on the floor  
 And running stags around a silver tray;  
 Confounds the actual and the fanciful,  
 Content with playing-cards and kings and queens,  
 What the fairies do and what the servants say.  
-The heavy burden of the growing [[Soul|soul]]  
+The heavy burden of the growing [[motifs/soul|soul]]  
 Perplexes and offends more, day by day;  
 Week by week, offends and perplexes more  
 With the imperatives of ‘is and seems’  
-And may and may not, [[Desire|desire]] and control.  
-The [[Pain|pain]] of living and the drug of [[Dreams|dreams]]  
-Curl up the small [[Soul|soul]] in the [[Window|window]] seat  
+And may and may not, [[motifs/desire|desire]] and control.  
+The [[motifs/pain|pain]] of living and the drug of [[motifs/dreams|dreams]]  
+Curl up the small [[motifs/soul|soul]] in the [[motifs/window|window]] seat  
 Behind the Encyclopaedia Britannica.  
-Issues from the hand of [[Time|time]] the simple [[Soul|soul]]  
+Issues from the hand of [[motifs/time|time]] the simple [[motifs/soul|soul]]  
 Irresolute and selfish, misshapen, lame,  
 Unable to fare forward or retreat,  
 Fearing the warm reality, the offered good,  
-Denying the importunity of the [[Blood|blood]],  
-[[Shadow]] of its own shadows, spectre in its own gloom,  
+Denying the importunity of the [[motifs/blood|blood]],  
+[[archetypes/shadow|Shadow]] of its own shadows, spectre in its own gloom,  
 Leaving disordered papers in a dusty room;  
-Living first in the [[Silence|silence]] after the viaticum.  
-    Pray for Guiterriez, avid of [[Speed|speed]] and power,  
+Living first in the [[motifs/silence|silence]] after the viaticum.  
+    Pray for Guiterriez, avid of [[characters/speed|speed]] and power,  
 For Boudin, blown to pieces,  
 For this one who made a great fortune,  
 And that one who went his own way.  
 Pray for Floret, by the boarhound slain between the yew trees,  
 Pray for us now and at the hour of our birth.  
 
-[[Marina]]  
+[[characters/marina|Marina]]  
 Quis hic locus, quae  
 regio, quae mundi plaga?  
     What seas what shores what grey rocks and what islands  
-What [[Water|water]] lapping the bow  
+What [[motifs/water|water]] lapping the bow  
 And scent of pine and the woodthrush singing through the fog  
 What images return  
 O my daughter.  
     Those who sharpen the tooth of the dog, meaning  
-[[Death]]  
+[[motifs/death|Death]]  
 Those who glitter with the glory of the hummingbird, meaning  
-[[Death]]  
+[[motifs/death|Death]]  
 Those who sit in the sty of contentment, meaning  
-[[Death]]  
-Those who suffer the ecstasy of the [[Animals|animals]], meaning  
-[[Death]]  
-    Are become unsubstantial, reduced by a [[Wind|wind]],  
+[[motifs/death|Death]]  
+Those who suffer the ecstasy of the [[motifs/animals|animals]], meaning  
+[[motifs/death|Death]]  
+    Are become unsubstantial, reduced by a [[motifs/wind|wind]],  
 A breath of pine, and the woodsong fog  
 By this grace dissolved in place  
     What is this face, less clear and clearer  
 The pulse in the arm, less strong and stronger —  
-Given or lent? more distant than [[Stars|stars]] and nearer than the eye  
-    Whispers and small laughter between [[Leaves|leaves]] and hurrying feet  
-Under [[Sleep|sleep]], where all the waters meet.  
+Given or lent? more distant than [[motifs/stars|stars]] and nearer than the eye  
+    Whispers and small laughter between [[motifs/leaves|leaves]] and hurrying feet  
+Under [[motifs/sleep|sleep]], where all the waters meet.  
     Bowsprit cracked with ice and paint cracked with heat.  
 I made this, I have forgotten  
 And remember.  
@@ -85,9 +85,9 @@ Between one June and another September.
 Made this unknowing, half conscious, unknown, my own.  
 The garboard strake leaks, the seams need caulking.  
 This form, this face, this life  
-Living to live in a world of [[Time|time]] beyond me; let me  
+Living to live in a world of [[motifs/time|time]] beyond me; let me  
 Resign my life for this life, my speech for that unspoken,  
-The awakened, lips parted, the [[Hope|hope]], the new ships.  
+The awakened, lips parted, the [[concepts/hope|hope]], the new ships.  
     What seas what shores what granite islands towards my timbers  
 And woodthrush calling through the fog  
 My daughter.  
@@ -96,7 +96,7 @@ My daughter.
 <span class="qlang-split" data-lang="it"></span>
 
 Animula  
-    ‘Esce dalla mano di Dio, l’[[Soul|anima]] semplice’  
+    ‘Esce dalla mano di Dio, l’[[motifs/soul|anima]] semplice’  
 in un mondo piatto di luci mutevoli e di rumore,  
 alla luce, al buio, al secco o all’umido, al freddo o al caldo;  
 che si muove fra le gambe dei tavoli e delle sedie,  
@@ -105,59 +105,59 @@ che avanza ardita, pronta ad allarmarsi,
 che si ritira nell’angolo del braccio e del ginocchio,  
 avida d’esser rassicurata, che prende piacere  
 nel fragrante splendore dell’albero di Natale,  
-piacere nel [[Wind|vento]], nella luce del sole e nel mare;  
+piacere nel [[motifs/wind|vento]], nella luce del sole e nel mare;  
 studia sul pavimento il disegno assolato  
 e i cervi che corrono intorno a un vassoio d’argento;  
 confonde il reale e l’immaginario,  
 contenta di carte da gioco e di re e regine,  
 di ciò che fanno le fate e di ciò che dicono i servitori.  
-Il pesante fardello dell’[[Soul|anima]] che cresce  
+Il pesante fardello dell’[[motifs/soul|anima]] che cresce  
 sconcerta e offende di più, giorno per giorno;  
 settimana per settimana, offende e sconcerta di più  
 con gli imperativi dell’‘è e sembra’  
-e del si può e non si può, [[Desire|desiderio]] e controllo.  
-Il [[Pain|dolore]] del vivere e la droga dei [[Dreams|sogni]]  
-rannicchiano la piccola [[Soul|anima]] sul sedile della [[Window|finestra]]  
+e del si può e non si può, [[motifs/desire|desiderio]] e controllo.  
+Il [[motifs/pain|dolore]] del vivere e la droga dei [[motifs/dreams|sogni]]  
+rannicchiano la piccola [[motifs/soul|anima]] sul sedile della [[motifs/window|finestra]]  
 dietro l’Encyclopaedia Britannica.  
-Esce dalla mano del [[Time|tempo]] l’[[Soul|anima]] semplice  
+Esce dalla mano del [[motifs/time|tempo]] l’[[motifs/soul|anima]] semplice  
 irresoluta ed egoista, malformata, zoppa,  
 incapace d’andare avanti o di ritirarsi,  
 che teme la calda realtà, il bene offerto,  
-che nega l’importunità del [[Blood|sangue]],  
-[[Shadow|ombra]] delle proprie ombre, spettro nella propria tenebra,  
+che nega l’importunità del [[motifs/blood|sangue]],  
+[[archetypes/shadow|ombra]] delle proprie ombre, spettro nella propria tenebra,  
 che lascia carte in disordine in una stanza polverosa;  
-che vive dapprima nel [[Silence|silenzio]] dopo il viatico.  
-    Pregate per Guiterriez, avido di [[Speed|velocità]] e di potere,  
+che vive dapprima nel [[motifs/silence|silenzio]] dopo il viatico.  
+    Pregate per Guiterriez, avido di [[characters/speed|velocità]] e di potere,  
 per Boudin, fatto a pezzi,  
 per questo che fece una grande fortuna,  
 e per quello che andò per la sua strada.  
 Pregate per Floret, ucciso dal cane da caccia fra i tassi,  
 pregate per noi ora e nell’ora della nostra nascita.  
 
-[[Marina]]  
+[[characters/marina|Marina]]  
 Quis hic locus, quae  
 regio, quae mundi plaga?  
     Quali mari quali rive quali rocce grigie e quali isole  
-quale [[Water|acqua]] che lambisce la prua  
+quale [[motifs/water|acqua]] che lambisce la prua  
 e odore di pino e il tordo dei boschi che canta attraverso la nebbia  
 quali immagini ritornano  
 o figlia mia.  
     Quelli che affilano il dente del cane, cioè  
-[[Death|Morte]]  
+[[motifs/death|Morte]]  
 quelli che sfolgorano della gloria del colibrì, cioè  
-[[Death|Morte]]  
+[[motifs/death|Morte]]  
 quelli che siedono nel porcile dell’appagamento, cioè  
-[[Death|Morte]]  
-quelli che patiscono l’estasi degli [[Animals|animali]], cioè  
-[[Death|Morte]]  
-    sono divenuti inconsistenti, ridotti da un [[Wind|vento]],  
+[[motifs/death|Morte]]  
+quelli che patiscono l’estasi degli [[motifs/animals|animali]], cioè  
+[[motifs/death|Morte]]  
+    sono divenuti inconsistenti, ridotti da un [[motifs/wind|vento]],  
 un respiro di pino, e la nebbia del canto dei boschi  
 per questa grazia disciolti nel luogo  
     Che cos’è questo volto, meno chiaro e più chiaro  
 il polso nel braccio, meno forte e più forte —  
-dato o prestato? più lontano delle [[Stars|stelle]] e più vicino dell’occhio  
-    Sussurri e piccole risa fra le [[Leaves|foglie]] e piedi frettolosi  
-sotto il [[Sleep|sonno]], dove tutte le acque s’incontrano.  
+dato o prestato? più lontano delle [[motifs/stars|stelle]] e più vicino dell’occhio  
+    Sussurri e piccole risa fra le [[motifs/leaves|foglie]] e piedi frettolosi  
+sotto il [[motifs/sleep|sonno]], dove tutte le acque s’incontrano.  
     Bompresso incrinato dal ghiaccio e vernice screpolata dal calore.  
 Io feci questo, ho dimenticato  
 e ricordo.  
@@ -166,9 +166,9 @@ fra un giugno e un altro settembre.
 Feci questo inconsapevole, semicosciente, ignoto, mio.  
 Il torello fa acqua, i comenti vanno calafatati.  
 Questa forma, questo volto, questa vita  
-che vive per vivere in un mondo di [[Time|tempo]] oltre me; lascia ch’io  
+che vive per vivere in un mondo di [[motifs/time|tempo]] oltre me; lascia ch’io  
 rinunci alla mia vita per questa vita, alla mia parola per quella non detta,  
-il risvegliato, le labbra dischiuse, la [[Hope|speranza]], le navi nuove.  
+il risvegliato, le labbra dischiuse, la [[concepts/hope|speranza]], le navi nuove.  
     Quali mari quali rive quali isole di granito verso le mie travature  
 e il tordo dei boschi che chiama attraverso la nebbia  
 figlia mia.
@@ -183,12 +183,12 @@ There are several attitudes towards Christmas,
 Some of which we may disregard:  
 The social, the torpid, the patently commercial,  
 The rowdy (the pubs being open till midnight),  
-And the childish — which is not that of the [[Child|child]]  
+And the childish — which is not that of the [[archetypes/child|child]]  
 For whom the candle is a star, and the gilded angel  
 Spreading its wings at the summit of the tree  
 Is not only a decoration, but an angel.  
-The [[Child|child]] wonders at the Christmas Tree:  
-Let him continue in the spirit of [[Wonder|wonder]]  
+The [[archetypes/child|child]] wonders at the Christmas Tree:  
+Let him continue in the spirit of [[concepts/wonder|wonder]]  
 At the Feast as an event not accepted as a pretext;  
 So that the glittering rapture, the amazement  
 Of the first-remembered Christmas Tree,  
@@ -199,22 +199,22 @@ And the expected awe on its appearance,
 So that the reverence and the gaiety  
 May not be forgotten in later experience,  
 In the bored habituation, the fatigue, the tedium,  
-The awareness of [[Death|death]], the consciousness of failure,  
-Or in the piety of the [[convert]]  
-Which may be tainted with a [[Self|self]]-conceit  
+The awareness of [[motifs/death|death]], the consciousness of failure,  
+Or in the piety of the convert  
+Which may be tainted with a [[concepts/self|self]]-conceit  
 Displeasing to God and disrespectful to the children  
 (And here I remember also with gratitude  
-St. Lucy, her [[carol]], and her [[Crown|crown]] of [[Fire|fire]]):  
+St. Lucy, her carol, and her [[motifs/crown|crown]] of [[motifs/fire|fire]]):  
 So that before the end, the eightieth Christmas  
 (By ‘eightieth’ meaning whichever is the last)  
 The accumulated memories of annual emotion  
 May be concentrated into a great joy  
-Which shall be also a great [[Fear|fear]], as on the occasion  
-When [[Fear|fear]] came upon every [[Soul|soul]]:  
+Which shall be also a great [[concepts/fear|fear]], as on the occasion  
+When [[concepts/fear|fear]] came upon every [[motifs/soul|soul]]:  
 Because the beginning shall remind us of the end  
 And the first coming of the second coming.  
 
-UNFINISHED [[Poems|POEMS]]  
+UNFINISHED POEMS  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -224,12 +224,12 @@ Vi sono parecchi atteggiamenti verso il Natale,
 alcuni dei quali possiamo trascurare:  
 il mondano, il torpido, il palesemente commerciale,  
 il chiassoso (restando i pub aperti fino a mezzanotte),  
-e il puerile — che non è quello del [[Child|bambino]]  
+e il puerile — che non è quello del [[archetypes/child|bambino]]  
 per il quale la candela è una stella, e l’angelo dorato  
 che spiega le ali in cima all’albero  
 non è soltanto un ornamento, ma un angelo.  
-Il [[Child|bambino]] si meraviglia davanti all’Albero di Natale:  
-lasciate che perseveri nello spirito della [[Wonder|meraviglia]]  
+Il [[archetypes/child|bambino]] si meraviglia davanti all’Albero di Natale:  
+lasciate che perseveri nello spirito della [[concepts/wonder|meraviglia]]  
 davanti alla Festa come evento non accettato a pretesto;  
 sì che il rapimento scintillante, lo stupore  
 del primo Albero di Natale ricordato,  
@@ -240,22 +240,22 @@ e il timore atteso alla sua comparsa,
 sì che la reverenza e l’allegria  
 non siano dimenticate nell’esperienza successiva,  
 nell’abitudine annoiata, nella stanchezza, nel tedio,  
-nella coscienza della [[Death|morte]], nella consapevolezza del fallimento,  
-o nella pietà del [[convert|convertito]]  
-che può esser guasta da una presunzione di [[Self|sé]]  
+nella coscienza della [[motifs/death|morte]], nella consapevolezza del fallimento,  
+o nella pietà del convertito  
+che può esser guasta da una presunzione di [[concepts/self|sé]]  
 sgradita a Dio e irrispettosa verso i bambini  
 (e qui ricordo anche con gratitudine  
-santa Lucia, il suo [[carol|canto]], e la sua [[Crown|corona]] di [[Fire|fuoco]]):  
+santa Lucia, il suo canto, e la sua [[motifs/crown|corona]] di [[motifs/fire|fuoco]]):  
 sì che prima della fine, l’ottantesimo Natale  
 (intendendo per ‘ottantesimo’ quale che sia l’ultimo)  
 le memorie accumulate dell’emozione annuale  
 possano concentrarsi in una grande gioia  
-che sarà anche un grande [[Fear|timore]], come nell’occasione  
-in cui il [[Fear|timore]] scese su ogni [[Soul|anima]]:  
+che sarà anche un grande [[concepts/fear|timore]], come nell’occasione  
+in cui il [[concepts/fear|timore]] scese su ogni [[motifs/soul|anima]]:  
 perché il principio ci ricorderà la fine  
 e la prima venuta la seconda venuta.  
 
-[[Poems|POESIE]] INCOMPIUTE
+POESIE INCOMPIUTE
 
 
 
@@ -264,39 +264,39 @@ e la prima venuta la seconda venuta.
 
 I The Eagle soars in the summit of Heaven  
 The Eagle soars in the summit of Heaven,  
-The Hunter with his [[dogs]] pursues his circuit.  
-O perpetual revolution of configured [[Stars|stars]],  
-O perpetual recurrence of determined [[Seasons|seasons]],  
-O world of [[Spring|spring]] and [[Autumn|autumn]], birth and dying!  
+The Hunter with his dogs pursues his circuit.  
+O perpetual revolution of configured [[motifs/stars|stars]],  
+O perpetual recurrence of determined [[motifs/seasons|seasons]],  
+O world of [[motifs/spring|spring]] and [[motifs/autumn|autumn]], birth and dying!  
 The endless cycle of idea and action,  
 Endless invention, endless experiment,  
 Brings knowledge of motion, but not of stillness;  
-Knowledge of speech, but not of [[Silence|silence]];  
+Knowledge of speech, but not of [[motifs/silence|silence]];  
 Knowledge of words, and ignorance of the Word.  
 All our knowledge brings us nearer to our ignorance,  
-All our ignorance brings us nearer to [[Death|death]],  
-But nearness to [[Death|death]] no nearer to GOD.  
+All our ignorance brings us nearer to [[motifs/death|death]],  
+But nearness to [[motifs/death|death]] no nearer to GOD.  
 
 
 Where is the Life we have lost in living?  
 Where is the wisdom we have lost in knowledge?  
 Where is the knowledge we have lost in information?  
 The cycles of Heaven in twenty centuries  
-Bring us farther from GOD and nearer to the [[Dust]].  
+Bring us farther from GOD and nearer to the [[motifs/dust|Dust]].  
 
 
-I journeyed to [[London]], to the timekept [[City]],  
-Where the [[River]] flows, with foreign flotations.  
+I journeyed to [[settings/london|London]], to the timekept [[motifs/city|City]],  
+Where the [[motifs/river|River]] flows, with foreign flotations.  
 There I was told: we have too many churches,  
 And too few chop-houses. There I was told:  
 Let the vicars retire. Men do not need the Church  
 In the place where they work, but where they spend their Sundays.  
-In the [[City]], we need no [[Bells|bells]]:  
+In the [[motifs/city|City]], we need no [[motifs/bells|bells]]:  
 Let them waken the suburbs.  
 I journeyed to the suburbs, and there I was told:  
 We toil for six days, on the seventh we must motor  
 To Hindhead, or Maidenhead.  
-If the weather is foul we stay at [[Home|home]] and read the papers.  
+If the weather is foul we stay at [[motifs/home|home]] and read the papers.  
 In industrial districts, there I was told  
 Of economic laws.  
 In the pleasant countryside, there it seemed  
@@ -304,26 +304,26 @@ That the country now is only fit for picnics.
 And the Church does not seem to be wanted  
 In country or in suburb; and in the town  
 Only for important weddings.  
-[[Chorus|CHORUS]] LEADER:  
-   [[Silence]]! and preserve respectful distance.  
+[[characters/chorus|CHORUS]] LEADER:  
+   [[motifs/silence|Silence]]! and preserve respectful distance.  
    For I perceive approaching  
    The Rock. Who will perhaps answer our doubtings.  
    The Rock. The Watcher. The Stranger.  
    He who has seen what has happened  
    And who sees what is to happen.  
    The Witness. The Critic. The Stranger.  
-   The God-shaken, in whom is the [[Truth|truth]] inborn.  
+   The God-shaken, in whom is the [[concepts/truth|truth]] inborn.  
 Enter the ROCK, led by a BOY:  
 THE ROCK:  
    The lot of man is ceaseless labour,  
    Or ceaseless idleness, which is still harder,  
    Or irregular labour, which is not pleasant.  
-   I have trodden the winepress [[Alone|alone]], and I know  
+   I have trodden the winepress alone, and I know  
    That it is hard to be really useful, resigning  
    The things that men count for happiness, seeking  
    The good deeds that lead to obscurity, accepting  
    With equal face those that bring ignominy,  
-   The applause of all or the [[Love|love]] of none.  
+   The applause of all or the [[motifs/love|love]] of none.  
    All men are ready to invest their money  
    But most expect dividends.  
    I say to you: Make perfect your will.  
@@ -338,11 +338,11 @@ THE ROCK:
    The men you are in these times deride  
    What has been done of good, you find explanations  
    To satisfy the rational and enlightened mind.  
-   Second, you neglect and belittle the [[Desert|desert]].  
-   The [[Desert|desert]] is not remote in southern tropics,  
-   The [[Desert|desert]] is not only around the corner,  
-   The [[Desert|desert]] is squeezed in the tube-train next to you,  
-   The [[Desert|desert]] is in the heart of your brother.  
+   Second, you neglect and belittle the [[motifs/desert|desert]].  
+   The [[motifs/desert|desert]] is not remote in southern tropics,  
+   The [[motifs/desert|desert]] is not only around the corner,  
+   The [[motifs/desert|desert]] is squeezed in the tube-train next to you,  
+   The [[motifs/desert|desert]] is in the heart of your brother.  
    The good man is the builder, if he build what is good.  
    I will show you the things that are now being done,  
    And some of the things that were long ago done,  
@@ -372,7 +372,7 @@ With pocketed hands
 And lowered faces  
 We stand about in open places  
 And shiver in unlit rooms.  
-Only the [[Wind|wind]] moves  
+Only the [[motifs/wind|wind]] moves  
 Over empty fields, untilled  
 Where the plough rests, at an angle  
 To the furrow. In this land  
@@ -380,11 +380,11 @@ There shall be one cigarette to two men,
 To two women one half pint of bitter  
 Ale. In this land  
 No man has hired us.  
-Our life is unwelcome, our [[Death|death]]  
+Our life is unwelcome, our [[motifs/death|death]]  
 Unmentioned in ‘The Times’.  
 Chant of WORKMEN again.  
-The [[River|river]] flows, the [[Seasons|seasons]] turn  
-The sparrow and starling have no [[Time|time]] to waste.  
+The [[motifs/river|river]] flows, the [[motifs/seasons|seasons]] turn  
+The sparrow and starling have no [[motifs/time|time]] to waste.  
 If men do not build  
 How shall they live?  
 When the field is tilled  
@@ -405,8 +405,8 @@ Thus your fathers were made
 Fellow citizens of the saints, of the household of GOD, being built upon the foundation  
 
 
-Of apostles and prophets, [[Christ]] Jesus Himself the chief cornerstone.  
-But you, have you built [[Well|well]], that you now sit helpless in a ruined [[house]]?  
+Of apostles and prophets, [[characters/christ|Christ]] Jesus Himself the chief cornerstone.  
+But you, have you built [[motifs/well|well]], that you now sit helpless in a ruined house?  
 
 
 Where many are born to idleness, to frittered lives and squalid deaths, embittered scorn in honeyless hives,  
@@ -415,17 +415,17 @@ Where many are born to idleness, to frittered lives and squalid deaths, embitter
 And those who would build and restore turn out the palms of their hands, or look in vain towards foreign lands for alms to be more or the urn to be filled.  
 
 
-Your building not fitly framed together, you sit ashamed and [[Wonder|wonder]] whether and how you may be builded together for a habitation of GOD in the Spirit, the Spirit which moved on the face of the waters like a lantern set on the back of a tortoise.  
+Your building not fitly framed together, you sit ashamed and [[concepts/wonder|wonder]] whether and how you may be builded together for a habitation of GOD in the Spirit, the Spirit which moved on the face of the waters like a lantern set on the back of a tortoise.  
 
 
-And some say: ‘How can we [[Love|love]] our neighbour? For [[Love|love]] must be made real in act, as [[Desire|desire]] unites with desired; we have only our labour to give and our labour is not required.  
+And some say: ‘How can we [[motifs/love|love]] our neighbour? For [[motifs/love|love]] must be made real in act, as [[motifs/desire|desire]] unites with desired; we have only our labour to give and our labour is not required.  
 
 
-We wait on corners, with nothing to bring but the [[songs]] we can sing which nobody wants to hear sung;  
+We wait on corners, with nothing to bring but the songs we can sing which nobody wants to hear sung;  
 
 
 Waiting to be flung in the end, on a heap less useful than dung’.  
-You, have you built [[Well|well]], have you forgotten the cornerstone?  
+You, have you built [[motifs/well|well]], have you forgotten the cornerstone?  
 Talking of right relations of men, but not of relations of men to GOD.  
 
 
@@ -446,7 +446,7 @@ And several versions of the Word of GOD:
 
 
 The British race assured of a mission  
-Performed it, but left much at [[Home|home]] unsure.  
+Performed it, but left much at [[motifs/home|home]] unsure.  
 Of all that was done in the past, you eat the fruit, either rotten or ripe.  
 
 
@@ -457,9 +457,9 @@ For every ill deed in the past we suffer the consequence:
 For sloth, for avarice, gluttony, neglect of the Word of GOD,  
 
 
-For [[Pride|pride]], for lechery, treachery, for every act of sin.  
+For [[concepts/pride|pride]], for lechery, treachery, for every act of sin.  
 And of all that was done that was good, you have the inheritance.  
-For good and ill deeds belong to a man [[Alone|alone]], when he stands [[Alone|alone]] on the other side of [[Death|death]],  
+For good and ill deeds belong to a man alone, when he stands alone on the other side of [[motifs/death|death]],  
 
 
 But here upon earth you have the reward of the good and ill that was done by those who have gone before you.  
@@ -474,10 +474,10 @@ And all that was good you must fight to keep with hearts as devoted as those of 
 The Church must be forever building, for it is forever decaying within and attacked from without;  
 
 
-For this is the law of life; and you must remember that while there is [[Time|time]] of prosperity  
+For this is the law of life; and you must remember that while there is [[motifs/time|time]] of prosperity  
 
 
-The people will neglect the Temple, and in [[Time|time]] of adversity they will decry it.  
+The people will neglect the Temple, and in [[motifs/time|time]] of adversity they will decry it.  
 
 
 What life have you if you have not life together?  
@@ -485,11 +485,11 @@ There is no life that is not in community,
 And no community not lived in praise of GOD.  
 
 
-Even the anchorite who meditates [[Alone|alone]],  
+Even the anchorite who meditates alone,  
 For whom the days and nights repeat the praise of GOD,  
 
 
-Prays for the Church, the [[Body]] of [[Christ]] incarnate.  
+Prays for the Church, the [[concepts/body|Body]] of [[characters/christ|Christ]] incarnate.  
 And now you live dispersed on ribbon roads,  
 And no man knows or cares who is his neighbour  
 Unless his neighbour makes too much disturbance,  
@@ -499,48 +499,48 @@ Nor does the family even move about together,
 But every son would have his motor cycle,  
 And daughters ride away on casual pillions.  
 Much to cast down, much to build, much to restore;  
-Let the work not delay, [[Time|time]] and the arm not waste;  
+Let the work not delay, [[motifs/time|time]] and the arm not waste;  
 Let the clay be dug from the pit, let the saw cut the stone,  
-Let the [[Fire|fire]] not be quenched in the forge.  
+Let the [[motifs/fire|fire]] not be quenched in the forge.  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 I L’Aquila si libra al sommo del Cielo  
 L’Aquila si libra al sommo del Cielo,  
-il Cacciatore coi suoi [[dogs|cani]] compie il suo giro.  
-O perpetua rivoluzione di [[Stars|stelle]] configurate,  
-o perpetuo ritorno di [[Seasons|stagioni]] determinate,  
-o mondo di [[Spring|primavera]] e d’[[Autumn|autunno]], di nascita e di morte!  
+il Cacciatore coi suoi cani compie il suo giro.  
+O perpetua rivoluzione di [[motifs/stars|stelle]] configurate,  
+o perpetuo ritorno di [[motifs/seasons|stagioni]] determinate,  
+o mondo di [[motifs/spring|primavera]] e d’[[motifs/autumn|autunno]], di nascita e di morte!  
 Il ciclo senza fine dell’idea e dell’azione,  
 invenzione senza fine, esperimento senza fine,  
 reca conoscenza del moto, ma non della quiete;  
-conoscenza della parola, ma non del [[Silence|silenzio]];  
+conoscenza della parola, ma non del [[motifs/silence|silenzio]];  
 conoscenza delle parole, e ignoranza del Verbo.  
 Tutta la nostra conoscenza ci avvicina alla nostra ignoranza,  
-tutta la nostra ignoranza ci avvicina alla [[Death|morte]],  
-ma la vicinanza alla [[Death|morte]] non ci avvicina a DIO.  
+tutta la nostra ignoranza ci avvicina alla [[motifs/death|morte]],  
+ma la vicinanza alla [[motifs/death|morte]] non ci avvicina a DIO.  
 
 
 Dov’è la Vita che abbiamo perduto vivendo?  
 Dov’è la saggezza che abbiamo perduto nel sapere?  
 Dov’è il sapere che abbiamo perduto nell’informazione?  
 I cicli del Cielo in venti secoli  
-ci portano più lontano da DIO e più vicino alla [[Dust|Polvere]].  
+ci portano più lontano da DIO e più vicino alla [[motifs/dust|Polvere]].  
 
 
-Viaggiai a [[London|Londra]], alla [[City|Città]] scandita dall’orologio,  
-dove scorre il [[River|Fiume]], con flottazioni straniere.  
+Viaggiai a [[settings/london|Londra]], alla [[motifs/city|Città]] scandita dall’orologio,  
+dove scorre il [[motifs/river|Fiume]], con flottazioni straniere.  
 Là mi fu detto: abbiamo troppe chiese,  
 e troppe poche trattorie. Là mi fu detto:  
 che i vicari si ritirino. Gli uomini non hanno bisogno della Chiesa  
 nel luogo dove lavorano, ma dove passano le domeniche.  
-Nella [[City|Città]], non ci occorrono [[Bells|campane]]:  
+Nella [[motifs/city|Città]], non ci occorrono [[motifs/bells|campane]]:  
 che sveglino i sobborghi.  
 Viaggiai ai sobborghi, e là mi fu detto:  
 fatichiamo sei giorni, il settimo dobbiamo andare in automobile  
 a Hindhead, o a Maidenhead.  
-Se il tempo è brutto restiamo a [[Home|casa]] e leggiamo i giornali.  
+Se il tempo è brutto restiamo a [[motifs/home|casa]] e leggiamo i giornali.  
 Nei distretti industriali, là mi fu parlato  
 di leggi economiche.  
 Nella piacevole campagna, là parve  
@@ -548,26 +548,26 @@ che la campagna ormai vada bene solo per i picnic.
 E la Chiesa non pare che sia desiderata  
 in campagna o nel sobborgo; e in città  
 solo per i matrimoni importanti.  
-CAPO del [[Chorus|CORO]]:  
-   [[Silence|Silenzio]]! e serbate rispettosa distanza.  
+CAPO del [[characters/chorus|CORO]]:  
+   [[motifs/silence|Silenzio]]! e serbate rispettosa distanza.  
    Ché io scorgo avvicinarsi  
    la Roccia. Che forse risponderà ai nostri dubbi.  
    La Roccia. Il Vigilante. Lo Straniero.  
    Colui che ha veduto ciò che è accaduto  
    e che vede ciò che deve accadere.  
    Il Testimone. Il Critico. Lo Straniero.  
-   Lo scosso-da-Dio, in cui la [[Truth|verità]] è innata.  
+   Lo scosso-da-Dio, in cui la [[concepts/truth|verità]] è innata.  
 Entra la ROCCIA, guidata da un FANCIULLO:  
 LA ROCCIA:  
    La sorte dell’uomo è fatica incessante,  
    o incessante ozio, che è ancora più duro,  
    o fatica irregolare, che non è piacevole.  
-   Ho pigiato l’uva [[Alone|solo]], e so  
+   Ho pigiato l’uva solo, e so  
    che è arduo essere davvero utili, rinunciando  
    alle cose che gli uomini contano per felicità, cercando  
    le opere buone che conducono all’oscurità, accettando  
    con volto uguale quelle che recano ignominia,  
-   l’applauso di tutti o l’[[Love|amore]] di nessuno.  
+   l’applauso di tutti o l’[[motifs/love|amore]] di nessuno.  
    Tutti gli uomini son pronti a investire il loro denaro  
    ma i più si aspettano dividendi.  
    Io vi dico: rendete perfetta la vostra volontà.  
@@ -582,11 +582,11 @@ LA ROCCIA:
    gli uomini che siete in questi tempi deridono  
    ciò che di buono fu fatto, trovate spiegazioni  
    per soddisfare la mente razionale e illuminata.  
-   In secondo luogo, trascurate e sminuite il [[Desert|deserto]].  
-   Il [[Desert|deserto]] non è remoto nei tropici del sud,  
-   il [[Desert|deserto]] non è soltanto dietro l’angolo,  
-   il [[Desert|deserto]] è stipato nella metropolitana accanto a voi,  
-   il [[Desert|deserto]] è nel cuore di vostro fratello.  
+   In secondo luogo, trascurate e sminuite il [[motifs/desert|deserto]].  
+   Il [[motifs/desert|deserto]] non è remoto nei tropici del sud,  
+   il [[motifs/desert|deserto]] non è soltanto dietro l’angolo,  
+   il [[motifs/desert|deserto]] è stipato nella metropolitana accanto a voi,  
+   il [[motifs/desert|deserto]] è nel cuore di vostro fratello.  
    L’uomo buono è il costruttore, se costruisce ciò che è buono.  
    Vi mostrerò le cose che ora si stanno facendo,  
    e alcune delle cose che furono fatte molto tempo fa,  
@@ -616,7 +616,7 @@ con le mani in tasca
 e i volti chinati  
 stiamo in giro nei luoghi aperti  
 e tremiamo in stanze non illuminate.  
-Solo il [[Wind|vento]] si muove  
+Solo il [[motifs/wind|vento]] si muove  
 sui campi vuoti, non arati  
 dove l’aratro riposa, obliquo  
 rispetto al solco. In questa terra  
@@ -624,11 +624,11 @@ ci sarà una sigaretta per due uomini,
 per due donne mezza pinta di birra  
 amara. In questa terra  
 nessuno ci ha assunti.  
-La nostra vita non è gradita, la nostra [[Death|morte]]  
+La nostra vita non è gradita, la nostra [[motifs/death|morte]]  
 non è menzionata sul ‘Times’.  
 Di nuovo il canto degli OPERAI.  
-Il [[River|fiume]] scorre, le [[Seasons|stagioni]] volgono  
-il passero e lo storno non hanno [[Time|tempo]] da perdere.  
+Il [[motifs/river|fiume]] scorre, le [[motifs/seasons|stagioni]] volgono  
+il passero e lo storno non hanno [[motifs/time|tempo]] da perdere.  
 Se gli uomini non costruiscono  
 come vivranno?  
 Quando il campo è arato  
@@ -649,8 +649,8 @@ Così i vostri padri furono fatti
 concittadini dei santi, familiari di DIO, edificati sopra il fondamento  
 
 
-degli apostoli e dei profeti, essendo [[Christ|Cristo]] Gesù stesso la pietra angolare.  
-Ma voi, avete costruito [[Well|bene]], se ora sedete inermi in una [[house|casa]] in rovina?  
+degli apostoli e dei profeti, essendo [[characters/christ|Cristo]] Gesù stesso la pietra angolare.  
+Ma voi, avete costruito [[motifs/well|bene]], se ora sedete inermi in una casa in rovina?  
 
 
 Dove molti nascono all’ozio, a vite sperperate e a morti squallide, a scherno inasprito in alveari senza miele,  
@@ -659,17 +659,17 @@ Dove molti nascono all’ozio, a vite sperperate e a morti squallide, a scherno 
 E quelli che vorrebbero costruire e restaurare tendono le palme delle mani, o guardano invano verso terre straniere perché l’elemosina sia maggiore o l’urna sia riempita.  
 
 
-Il vostro edificio non ben connesso insieme, sedete vergognosi e vi [[Wonder|chiedete]] se e come possiate essere edificati insieme per un’abitazione di DIO nello Spirito, lo Spirito che si moveva sulla faccia delle acque come una lanterna posata sul dorso d’una tartaruga.  
+Il vostro edificio non ben connesso insieme, sedete vergognosi e vi [[concepts/wonder|chiedete]] se e come possiate essere edificati insieme per un’abitazione di DIO nello Spirito, lo Spirito che si moveva sulla faccia delle acque come una lanterna posata sul dorso d’una tartaruga.  
 
 
-E alcuni dicono: ‘Come possiamo [[Love|amare]] il nostro prossimo? Ché l’[[Love|amore]] dev’essere reso reale nell’atto, come il [[Desire|desiderio]] s’unisce al desiderato; non abbiamo che il nostro lavoro da dare e il nostro lavoro non è richiesto.  
+E alcuni dicono: ‘Come possiamo [[motifs/love|amare]] il nostro prossimo? Ché l’[[motifs/love|amore]] dev’essere reso reale nell’atto, come il [[motifs/desire|desiderio]] s’unisce al desiderato; non abbiamo che il nostro lavoro da dare e il nostro lavoro non è richiesto.  
 
 
-Aspettiamo agli angoli, senza nulla da portare se non i [[songs|canti]] che sappiamo cantare e che nessuno vuole sentir cantare;  
+Aspettiamo agli angoli, senza nulla da portare se non i canti che sappiamo cantare e che nessuno vuole sentir cantare;  
 
 
 aspettando d’essere gettati alla fine su un mucchio meno utile del letame’.  
-Voi, avete costruito [[Well|bene]], avete dimenticato la pietra angolare?  
+Voi, avete costruito [[motifs/well|bene]], avete dimenticato la pietra angolare?  
 Parlate di giuste relazioni fra gli uomini, ma non delle relazioni degli uomini con DIO.  
 
 
@@ -690,7 +690,7 @@ e parecchie versioni della Parola di DIO:
 
 
 La razza britannica, certa d’una missione,  
-la compì, ma lasciò molto di incerto in [[Home|patria]].  
+la compì, ma lasciò molto di incerto in [[motifs/home|patria]].  
 Di tutto ciò che fu fatto nel passato, voi mangiate il frutto, marcio o maturo che sia.  
 
 
@@ -701,9 +701,9 @@ Per ogni azione malvagia del passato noi ne patiamo la conseguenza:
 per l’accidia, per l’avarizia, la gola, l’oblio della Parola di DIO,  
 
 
-per la [[Pride|superbia]], per la lussuria, il tradimento, per ogni atto di peccato.  
+per la [[concepts/pride|superbia]], per la lussuria, il tradimento, per ogni atto di peccato.  
 E di tutto ciò che fu fatto di buono, voi avete l’eredità.  
-Ché le azioni buone e le malvagie appartengono all’uomo [[Alone|solo]], quando egli sta [[Alone|solo]] dall’altra parte della [[Death|morte]],  
+Ché le azioni buone e le malvagie appartengono all’uomo solo, quando egli sta solo dall’altra parte della [[motifs/death|morte]],  
 
 
 ma qui sulla terra voi avete la ricompensa del bene e del male che fu fatto da coloro che vi hanno preceduto.  
@@ -718,10 +718,10 @@ e tutto ciò che fu buono dovete lottare per conservarlo con cuori devoti quanto
 La Chiesa dev’essere in eterno in costruzione, ché in eterno si sfascia dall’interno ed è attaccata dall’esterno;  
 
 
-ché questa è la legge della vita; e dovete ricordare che mentre c’è [[Time|tempo]] di prosperità  
+ché questa è la legge della vita; e dovete ricordare che mentre c’è [[motifs/time|tempo]] di prosperità  
 
 
-il popolo trascurerà il Tempio, e nel [[Time|tempo]] dell’avversità lo denigrerà.  
+il popolo trascurerà il Tempio, e nel [[motifs/time|tempo]] dell’avversità lo denigrerà.  
 
 
 Quale vita avete se non avete vita insieme?  
@@ -729,11 +729,11 @@ Non c’è vita che non sia in comunità,
 e nessuna comunità che non sia vissuta in lode di DIO.  
 
 
-Perfino l’anacoreta che medita [[Alone|solo]],  
+Perfino l’anacoreta che medita solo,  
 per il quale i giorni e le notti ripetono la lode di DIO,  
 
 
-prega per la Chiesa, il [[Body|Corpo]] di [[Christ|Cristo]] incarnato.  
+prega per la Chiesa, il [[concepts/body|Corpo]] di [[characters/christ|Cristo]] incarnato.  
 E ora vivete dispersi lungo strade a nastro,  
 e nessuno sa né si cura di chi sia il suo vicino  
 se non quando il vicino fa troppo chiasso,  
@@ -743,9 +743,9 @@ Né la famiglia si muove nemmeno insieme,
 ma ogni figlio vuole la sua motocicletta,  
 e le figlie se ne vanno su selle occasionali.  
 Molto da abbattere, molto da costruire, molto da restaurare;  
-che l’opera non tardi, il [[Time|tempo]] e il braccio non si sprechino;  
+che l’opera non tardi, il [[motifs/time|tempo]] e il braccio non si sprechino;  
 che l’argilla sia cavata dalla fossa, che la sega tagli la pietra,  
-che il [[Fire|fuoco]] non si spenga nella forgia.
+che il [[motifs/fire|fuoco]] non si spenga nella forgia.
 
 
 
@@ -753,7 +753,7 @@ che il [[Fire|fuoco]] non si spenga nella forgia.
 
 
 A Note on War Poetry  
-A Note on War Poetry was written at the request of Miss [[Storm]] Jameson‚ to be included in a book entitled [[London]] Calling (Harper Brothers, [[New York]], 1942).  
+A Note on War Poetry was written at the request of Miss [[motifs/storm|Storm]] Jameson‚ to be included in a book entitled [[settings/london|London]] Calling (Harper Brothers, [[settings/new-york|New York]], 1942).  
 
 
 Not the expression of collective emotion  
@@ -765,10 +765,10 @@ To create the universal, originate a symbol
 Out of the impact? This is a meeting  
 On which we attend  
 Of forces beyond control by experiment —  
-Of [[Nature]] and the Spirit. Mostly the individual  
+Of [[concepts/nature|Nature]] and the Spirit. Mostly the individual  
 Experience is too large, or too small. Our emotions  
 Are only ‘incidents’  
-In the effort to keep day and [[Night|night]] together.  
+In the effort to keep day and [[motifs/night|night]] together.  
 It seems just possible that a poem might happen  
 To a very young man: but a poem is not poetry —  
 That is a life.  
@@ -783,37 +783,37 @@ Becoming universal, which we call ‘poetry’,
 May be affirmed in verse.  
 
 To the Indians who Died in Africa  
-To the Indians who Died in Africa was written at the request of Miss Cornelia Sorabji for [[Queen]] Mary’s Book for India (Harrap & Co. Ltd., 1943). I dedicate it now to Bonamy Dobree, because he liked it and urged me to preserve it.  
+To the Indians who Died in Africa was written at the request of Miss Cornelia Sorabji for [[characters/queen|Queen]] Mary’s Book for India (Harrap & Co. Ltd., 1943). I dedicate it now to Bonamy Dobree, because he liked it and urged me to preserve it.  
 
 
 A man’s destination is his own village,  
-His own [[Fire|fire]], and his wife’s cooking;  
+His own [[motifs/fire|fire]], and his wife’s cooking;  
 To sit in front of his own door at sunset  
 And see his grandson, and his neighbour’s grandson  
-      Playing in the [[Dust|dust]] together.  
+      Playing in the [[motifs/dust|dust]] together.  
 Scarred but secure, he has many memories  
 Which return at the hour of conversation,  
 (The warm or the cool hour, according to the climate)  
 Of foreign men, who fought in foreign places,  
       Foreign to each other.  
 A man’s destination is not his destiny  
-Every country is [[Home|home]] to one man  
-And [[Exile|exile]] to another. Where a man dies bravely  
+Every country is [[motifs/home|home]] to one man  
+And [[concepts/exile|exile]] to another. Where a man dies bravely  
 At one with his destiny, that soil is his.  
       Let his village remember.  
 This was not your land, or ours: but a village in the Midlands,  
 And one in the Five Rivers, may have the same graveyard.  
-Let those who go [[Home|home]] tell the same story of you:  
+Let those who go [[motifs/home|home]] tell the same story of you:  
 Of action with a common purpose, action  
 None the less fruitful if neither you nor we  
-Know, until the judgment after [[Death|death]],  
+Know, until the judgment after [[motifs/death|death]],  
       What is the fruit of action.  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Una nota sulla poesia di guerra  
-Una nota sulla poesia di guerra fu scritta su richiesta di Miss [[Storm]] Jameson, per essere inclusa in un libro intitolato [[London]] Calling (Harper Brothers, [[New York]], 1942).  
+Una nota sulla poesia di guerra fu scritta su richiesta di Miss [[motifs/storm|Storm]] Jameson, per essere inclusa in un libro intitolato [[settings/london|London]] Calling (Harper Brothers, [[settings/new-york|New York]], 1942).  
 
 
 Non l’espressione d’un’emozione collettiva  
@@ -825,10 +825,10 @@ a creare l’universale, a originare un simbolo
 dall’urto? Questo è un incontro  
 cui assistiamo  
 di forze che l’esperimento non controlla —  
-della [[Nature|Natura]] e dello Spirito. Per lo più l’individuale  
+della [[concepts/nature|Natura]] e dello Spirito. Per lo più l’individuale  
 esperienza è troppo grande, o troppo piccola. Le nostre emozioni  
 sono soltanto ‘incidenti’  
-nello sforzo di tenere insieme il giorno e la [[Night|notte]].  
+nello sforzo di tenere insieme il giorno e la [[motifs/night|notte]].  
 Sembra appena possibile che una poesia accada  
 a un uomo molto giovane: ma una poesia non è poesia —  
 quella è una vita.  
@@ -843,30 +843,30 @@ che si fa universale, e che chiamiamo ‘poesia’,
 può essere affermata in versi.  
 
 Agli indiani che morirono in Africa  
-Agli indiani che morirono in Africa fu scritta su richiesta di Miss Cornelia Sorabji per il [[Queen]] Mary’s Book for India (Harrap & Co. Ltd., 1943). Ora la dedico a Bonamy Dobrée, perché gli piacque e mi esortò a conservarla.  
+Agli indiani che morirono in Africa fu scritta su richiesta di Miss Cornelia Sorabji per il [[characters/queen|Queen]] Mary’s Book for India (Harrap & Co. Ltd., 1943). Ora la dedico a Bonamy Dobrée, perché gli piacque e mi esortò a conservarla.  
 
 
 La destinazione d’un uomo è il suo villaggio,  
-il suo [[Fire|focolare]], e la cucina di sua moglie;  
+il suo [[motifs/fire|focolare]], e la cucina di sua moglie;  
 sedere davanti alla propria porta al tramonto  
 e vedere suo nipote, e il nipote del vicino  
-      giocare insieme nella [[Dust|polvere]].  
+      giocare insieme nella [[motifs/dust|polvere]].  
 Sfregiato ma sicuro, ha molti ricordi  
 che tornano nell’ora della conversazione,  
 (l’ora calda o l’ora fresca, secondo il clima)  
 d’uomini stranieri, che combatterono in luoghi stranieri,  
       stranieri l’uno all’altro.  
 La destinazione d’un uomo non è il suo destino  
-ogni paese è [[Home|patria]] per un uomo  
-ed [[Exile|esilio]] per un altro. Dove un uomo muore con coraggio  
+ogni paese è [[motifs/home|patria]] per un uomo  
+ed [[concepts/exile|esilio]] per un altro. Dove un uomo muore con coraggio  
 in armonia col suo destino, quella terra è sua.  
       Che il suo villaggio lo ricordi.  
 Questa non era la vostra terra, né la nostra: ma un villaggio delle Midlands,  
 e uno nella terra dei Cinque Fiumi, possono avere lo stesso cimitero.  
-Che quelli che tornano a [[Home|casa]] raccontino di voi la stessa storia:  
+Che quelli che tornano a [[motifs/home|casa]] raccontino di voi la stessa storia:  
 d’un’azione con uno scopo comune, un’azione  
 non meno fruttuosa se né voi né noi  
-sappiamo, fino al giudizio dopo la [[Death|morte]],  
+sappiamo, fino al giudizio dopo la [[motifs/death|morte]],  
       qual è il frutto dell’azione.
 
 
@@ -878,21 +878,21 @@ sappiamo, fino al giudizio dopo la [[Death|morte]],
 I  
 Standing upon the shore of all we know  
 We linger for a moment doubtfully,  
-Then with a [[Song|song]] upon our lips, sail we  
+Then with a song upon our lips, sail we  
 Across the harbor bar — no chart to show  
 No light to warn of rocks which lie below,  
 But let us yet put forth courageously.  
 II  
 As colonists embarking from the strand  
 To seek their fortunes on some foreign shore  
-[[Well]] know they lose what [[Time|time]] shall not restore,  
+[[motifs/well|Well]] know they lose what [[motifs/time|time]] shall not restore,  
 And when they leave they fully understand  
 That though again they see their fatherland  
 They there shall be as citizens no more.  
 III  
-We go; as [[Lightning|lightning]]-winged clouds that fly  
-After a [[Summer|summer]] tempest, when some haste  
-North, South, and Eastward o’er the [[Water|water]]’s waste‚  
+We go; as [[motifs/lightning|lightning]]-winged clouds that fly  
+After a [[motifs/summer|summer]] tempest, when some haste  
+North, South, and Eastward o’er the [[motifs/water|water]]’s waste‚  
 Some to the western limits of the sky  
 Which the sun stains with many a splendid dye,  
 Until their passing may no more be traced.  
@@ -900,21 +900,21 @@ IV
 Although the path be tortuous and slow,  
 Although it bristle with a thousand fears,  
 To hopeful eye of youth it still appears  
-A lane by which the [[Rose|rose]] and hawthorn grow.  
-We [[Hope|hope]] it may be; would that we might know!  
+A lane by which the [[motifs/rose|rose]] and hawthorn grow.  
+We [[concepts/hope|hope]] it may be; would that we might know!  
 Would we might look into the future years.  
 V  
 Great duties call — the twentieth century  
 More grandly dowered than those which came before,  
-Summons — who knows what [[Time|time]] may hold in store‚  
+Summons — who knows what [[motifs/time|time]] may hold in store‚  
 Or what great deeds the distant years may see,  
-What conquest over [[Pain|pain]] and misery‚  
+What conquest over [[motifs/pain|pain]] and misery‚  
 What heroes greater than were e’er of yore!  
 VI  
 But if this century is to be more great  
 Than those before, her sons must make her so,  
 And we are of her sons, and we must go  
-With eager hearts to help mold [[Well|well]] her fate,  
+With eager hearts to help mold [[motifs/well|well]] her fate,  
 And see that she shall gain such proud estate  
 As shall on future centuries bestow  
 VII  
@@ -923,21 +923,21 @@ In future years be found with those who try
 To labor for the good until they die,  
 And ask no other guerdon than to know  
 That they have helpt the cause to victory,  
-That with their aid the [[Flag|flag]] is raised on high.  
+That with their aid the [[motifs/flag|flag]] is raised on high.  
 VIII  
 Sometime in distant years when we are grown  
 Gray-haired and old, whatever be our lot‚  
-We shall [[Desire|desire]] to see again the spot  
+We shall [[motifs/desire|desire]] to see again the spot  
 Which, whatsoever we have been or done  
 Or to what distant lands we may have gone,  
 Through all the years will ne’er have been forgot.  
 IX  
-For in the sanctuaries of the [[Soul|soul]]  
+For in the sanctuaries of the [[motifs/soul|soul]]  
 Incense of altar-smoke shall rise to thee  
 From spotless fanes of lucid purity,  
 O school of ours! The passing years that roll  
 Between, as we press onward to the goal,  
-Shall not have power to quench the [[Memory|memory]].  
+Shall not have power to quench the [[motifs/memory|memory]].  
 X  
 We shall return; and it will be to find  
 A different school from that which now we know;  
@@ -946,10 +946,10 @@ That which has made it great, not left behind,
 The same school in the future shall we find  
 As this from which as pupils now we go.  
 XI  
-We go; like flitting faces in [[A Dream|a dream]];  
+We go; like flitting faces in a dream;  
 Out of thy care and tutelage we pass  
 Into the unknown world — class after class,  
-O [[Queen|queen]] of schools — a momentary gleam,  
+O [[characters/queen|queen]] of schools — a momentary gleam,  
 A bubble on the surface of the stream,  
 A drop of dew upon the morning grass;  
 XII  
@@ -974,15 +974,15 @@ And one that we are ever loth to say.
 But ’tis a call we cannot disobey,  
 Exeunt omnes‚ with a last ‘farewell’.  
 
-[[Song]]: ‘When we came [[Home|home]] across the [[Hill|hill]]’  
-When we came [[Home|home]] across the [[Hill|hill]]  
-   No [[Leaves|leaves]] were fallen from the trees;  
+[[works/song-(poe)|Song]]: ‘When we came [[motifs/home|home]] across the [[motifs/hill|hill]]’  
+When we came [[motifs/home|home]] across the [[motifs/hill|hill]]  
+   No [[motifs/leaves|leaves]] were fallen from the trees;  
    The gentle fingers of the breeze  
 Had torn no quivering cobweb down.  
-The hedgerow bloomed with [[Flowers|flowers]] still,  
+The hedgerow bloomed with [[motifs/flowers|flowers]] still,  
    No withered petals lay beneath;  
    But the wild roses in your wreath  
-Were faded, and the [[Leaves|leaves]] were brown.  
+Were faded, and the [[motifs/leaves|leaves]] were brown.  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -991,21 +991,21 @@ Were faded, and the [[Leaves|leaves]] were brown.
 I  
 Ritti sulla riva di tutto ciò che sappiamo  
 indugiamo un istante dubitosi,  
-poi con un [[Song|canto]] sulle labbra salpiamo  
+poi con un canto sulle labbra salpiamo  
 oltre la barra del porto — nessuna carta a mostrare  
 nessun faro ad avvertire degli scogli che stanno sotto,  
 ma pure mettiamoci in mare coraggiosamente.  
 II  
 Come coloni che s’imbarcano dal lido  
 per cercar fortuna su qualche riva straniera  
-[[Well|bene]] sanno di perdere ciò che il [[Time|tempo]] non renderà,  
+[[motifs/well|bene]] sanno di perdere ciò che il [[motifs/time|tempo]] non renderà,  
 e quando partono comprendono appieno  
 che, pur rivedendo la loro terra natale,  
 là non saranno più cittadini.  
 III  
-Andiamo; come nuvole dall’ala di [[Lightning|lampo]] che volano  
-dopo una tempesta d’[[Summer|estate]], quando alcune s’affrettano  
-a nord, a sud, a oriente sopra la distesa dell’[[Water|acqua]],  
+Andiamo; come nuvole dall’ala di [[motifs/lightning|lampo]] che volano  
+dopo una tempesta d’[[motifs/summer|estate]], quando alcune s’affrettano  
+a nord, a sud, a oriente sopra la distesa dell’[[motifs/water|acqua]],  
 altre ai confini occidentali del cielo  
 che il sole tinge di molti splendidi colori,  
 finché il loro passaggio più non si possa seguire.  
@@ -1013,21 +1013,21 @@ IV
 Benché il cammino sia tortuoso e lento,  
 benché irto di mille paure,  
 all’occhio speranzoso della giovinezza appare ancora  
-un viale lungo il quale crescono la [[Rose|rosa]] e il biancospino.  
-Noi [[Hope|speriamo]] che sia così; potessimo saperlo!  
+un viale lungo il quale crescono la [[motifs/rose|rosa]] e il biancospino.  
+Noi [[concepts/hope|speriamo]] che sia così; potessimo saperlo!  
 Potessimo guardare negli anni futuri.  
 V  
 Grandi doveri chiamano — il ventesimo secolo,  
 più magnificamente dotato di quelli che vennero prima,  
-convoca — chi sa che cosa il [[Time|tempo]] serbi in riserva,  
+convoca — chi sa che cosa il [[motifs/time|tempo]] serbi in riserva,  
 o quali grandi imprese vedranno gli anni lontani,  
-quale conquista sul [[Pain|dolore]] e sulla miseria,  
+quale conquista sul [[motifs/pain|dolore]] e sulla miseria,  
 quali eroi più grandi di quanti mai ve ne furono un tempo!  
 VI  
 Ma se questo secolo dev’essere più grande  
 di quelli che furono, i suoi figli lo devono fare tale,  
 e noi siamo suoi figli, e dobbiamo andare  
-con cuori ardenti ad aiutare a plasmare [[Well|bene]] il suo destino,  
+con cuori ardenti ad aiutare a plasmare [[motifs/well|bene]] il suo destino,  
 e a vedere ch’esso guadagni un così fiero stato  
 da lasciare ai secoli futuri  
 VII  
@@ -1036,21 +1036,21 @@ negli anni a venire trovarci fra coloro che tentano
 di lavorare per il bene fino alla morte,  
 e non chiedono altro guiderdone che sapere  
 d’aver aiutato la causa alla vittoria,  
-che col loro soccorso la [[Flag|bandiera]] è issata in alto.  
+che col loro soccorso la [[motifs/flag|bandiera]] è issata in alto.  
 VIII  
 Un giorno, in anni lontani, quando saremo  
 canuti e vecchi, qualunque sia la nostra sorte,  
-[[Desire|desidereremo]] rivedere il luogo  
+[[motifs/desire|desidereremo]] rivedere il luogo  
 che, qualunque cosa siamo stati o abbiamo fatto  
 o verso qualunque terra lontana ce ne siamo andati,  
 per tutti gli anni non sarà mai stato dimenticato.  
 IX  
-Ché nei santuari dell’[[Soul|anima]]  
+Ché nei santuari dell’[[motifs/soul|anima]]  
 l’incenso del fumo dell’altare salirà a te  
 da immacolati templi di lucida purezza,  
 o scuola nostra! Gli anni che passano e rotolano  
 frammezzo, mentre noi premiamo verso la meta,  
-non avranno potere di spegnere il [[Memory|ricordo]].  
+non avranno potere di spegnere il [[motifs/memory|ricordo]].  
 X  
 Torneremo; e sarà per trovare  
 una scuola diversa da quella che ora conosciamo;  
@@ -1059,10 +1059,10 @@ Ciò che l’ha fatta grande, non lasciato indietro,
 la stessa scuola nel futuro troveremo  
 che è questa da cui ora, scolari, partiamo.  
 XI  
-Andiamo; come volti fuggevoli in [[A Dream|un sogno]];  
+Andiamo; come volti fuggevoli in un sogno;  
 dalla tua cura e tutela passiamo  
 nel mondo ignoto — classe dopo classe,  
-o [[Queen|regina]] delle scuole — un lampo momentaneo,  
+o [[characters/queen|regina]] delle scuole — un lampo momentaneo,  
 una bolla sulla superficie del ruscello,  
 una goccia di rugiada sull’erba del mattino;  
 XII  
@@ -1087,61 +1087,61 @@ e che siamo sempre restii a dire.
 Ma è un richiamo cui non possiamo disobbedire,  
 Exeunt omnes, con un ultimo ‘addio’.  
 
-[[Song|Canto]]: ‘Quando tornammo a [[Home|casa]] per la [[Hill|collina]]’  
-Quando tornammo a [[Home|casa]] per la [[Hill|collina]]  
-   nessuna [[Leaves|foglia]] era caduta dagli alberi;  
+Canto: ‘Quando tornammo a [[motifs/home|casa]] per la [[motifs/hill|collina]]’  
+Quando tornammo a [[motifs/home|casa]] per la [[motifs/hill|collina]]  
+   nessuna [[motifs/leaves|foglia]] era caduta dagli alberi;  
    le dita gentili della brezza  
 non avevano strappato nessuna tela di ragno tremante.  
-La siepe fioriva ancora di [[Flowers|fiori]],  
+La siepe fioriva ancora di [[motifs/flowers|fiori]],  
    nessun petalo appassito giaceva sotto;  
    ma le rose selvatiche nella tua ghirlanda  
-erano sfiorite, e le [[Leaves|foglie]] erano brune.
+erano sfiorite, e le [[motifs/leaves|foglie]] erano brune.
 
 
 
 <span class="atom-split" data-atom="116_a_b_c" data-title="A, B, C" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/fog_and_smoke,concept/memory_and_time,concept/spiritual_emptiness,form/lyric,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
-INDEX OF FIRST LINES OF [[Poems|POEMS]]  
+INDEX OF FIRST LINES OF POEMS  
 ‘A cold coming we had of it  1  
 A man’s destination is his own village 1  
-Among a crowd of tenuous [[Dreams|dreams]], unknown 1  
+Among a crowd of tenuous [[motifs/dreams|dreams]], unknown 1  
 Among the smoke and fog of a December afternoon 1  
-Apeneck [[Sweeney]] spreads his knees 1  
+Apeneck [[characters/sweeney|Sweeney]] spreads his knees 1  
 April is the cruellest month, breeding 1  
 Around her fountain which flows 1  
 
-Because I do not [[Hope|hope]] to turn again 1  
+Because I do not [[concepts/hope|hope]] to turn again 1  
 Burbank crossed a little bridge 1  
-Bustopher [[Jones]] is not skin and bones 1  
+Bustopher [[characters/jones|Jones]] is not skin and bones 1  
 
 Children’s voices in the orchard 1  
-Come under the [[Shadow|shadow]] of this gray rock 1  
+Come under the [[archetypes/shadow|shadow]] of this gray rock 1  
 
 En Amérique, professeur 1  
-Eyes that last I saw in [[Tears|tears]] 1  
+Eyes that last I saw in [[motifs/tears|tears]] 1  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-INDICE DEI PRIMI VERSI DELLE [[Poems|POESIE]]  
+INDICE DEI PRIMI VERSI DELLE POESIE  
 ‘Una fredda venuta fu la nostra  1  
 La destinazione d’un uomo è il suo villaggio 1  
-Fra una folla di tenui [[Dreams|sogni]], sconosciuta 1  
+Fra una folla di tenui [[motifs/dreams|sogni]], sconosciuta 1  
 Fra il fumo e la nebbia d’un pomeriggio di dicembre 1  
-[[Sweeney]] collo-di-scimmia allarga le ginocchia 1  
+[[characters/sweeney|Sweeney]] collo-di-scimmia allarga le ginocchia 1  
 Aprile è il più crudele dei mesi, genera 1  
 Intorno alla sua fontana che scorre 1  
 
-Poiché non [[Hope|spero]] di tornare ancora 1  
+Poiché non [[concepts/hope|spero]] di tornare ancora 1  
 Burbank attraversò un piccolo ponte 1  
-Bustopher [[Jones]] non è pelle e ossa 1  
+Bustopher [[characters/jones|Jones]] non è pelle e ossa 1  
 
 Voci di bambini nel frutteto 1  
-Vieni sotto l’[[Shadow|ombra]] di questa roccia grigia 1  
+Vieni sotto l’[[archetypes/shadow|ombra]] di questa roccia grigia 1  
 
 In America, professore 1  
-Occhi che vidi per l’ultima volta in [[Tears|lacrime]] 1
+Occhi che vidi per l’ultima volta in [[motifs/tears|lacrime]] 1
 
 
 
@@ -1153,15 +1153,15 @@ Gus is the Cat at the Theatre Door 1
 
 Here I am, an old man in a dry month 1  
 
-I do not know much about gods; but I think that the [[River|river]] 1  
+I do not know much about gods; but I think that the [[motifs/river|river]] 1  
 I have a Gumbie Cat in mind, her name is Jennyanydots 1  
 I once was a Pirate what sailed the ’igh seas 1  
-If space and [[Time|time]], as sages say 1  
-If [[Time]] and Space, as Sages say 1  
+If space and [[motifs/time|time]], as sages say 1  
+If [[motifs/time|Time]] and Space, as Sages say 1  
 Ils ont vu les Pays-Bas, ils rentrent à Terre Haute 1  
 In England, long before that royal Mormon 1  
 In my beginning is my end. In succession 1  
-‘Issues from the hand of God, the simple [[Soul|soul]]’ 1  
+‘Issues from the hand of God, the simple [[motifs/soul|soul]]’ 1  
 
 Jellicle Cats are black and white 1  
 
@@ -1173,15 +1173,15 @@ Gus è il Gatto alla Porta del Teatro 1
 
 Eccomi, un vecchio in un mese arido 1  
 
-Non so molto di dèi; ma penso che il [[River|fiume]] 1  
+Non so molto di dèi; ma penso che il [[motifs/river|fiume]] 1  
 Ho in mente una Gatta Gumbie, il suo nome è Jennyanydots 1  
 Ero un tempo un Pirata che navigava gli alti mari 1  
-Se lo spazio e il [[Time|tempo]], come dicono i saggi 1  
-Se il [[Time|Tempo]] e lo Spazio, come dicono i Saggi 1  
+Se lo spazio e il [[motifs/time|tempo]], come dicono i saggi 1  
+Se il [[motifs/time|Tempo]] e lo Spazio, come dicono i Saggi 1  
 Hanno visto i Paesi Bassi, tornano a Terre Haute 1  
 In Inghilterra, molto prima di quel regale Mormone 1  
 Nel mio principio è la mia fine. In successione 1  
-‘Esce dalla mano di Dio, la semplice [[Soul|anima]]’ 1  
+‘Esce dalla mano di Dio, la semplice [[motifs/soul|anima]]’ 1  
 
 I Gatti Jellicle sono bianchi e neri 1
 
@@ -1197,11 +1197,11 @@ Let these memorials of built stone — music’s 1
 Let us go then, you and I 1  
 Lord, the Roman hyacinths are blooming in bowls and 1  
 
-[[Macavity]]’s a Mystery Cat: he’s called the Hidden Paw 1  
+[[characters/macavity|Macavity]]’s a Mystery Cat: he’s called the Hidden Paw 1  
 Malheur à la malheureuse Tamise  1  
-Midwinter [[Spring|spring]] is its own season 1  
-Miss [[Helen]] Slingsby was my maiden aunt 1  
-Miss [[Nancy]] Ellicott 1  
+Midwinter [[motifs/spring|spring]] is its own season 1  
+Miss [[characters/helen|Helen]] Slingsby was my maiden aunt 1  
+Miss [[characters/nancy|Nancy]] Ellicott 1  
 Mungojerrie and Rumpelteazer were a very notorious couple of cats 1  
 
 
@@ -1214,11 +1214,11 @@ Siano questi memoriali di pietra costruita — strumento 1
 Andiamo dunque, tu ed io 1  
 Signore, i giacinti romani fioriscono nelle ciotole e 1  
 
-[[Macavity]] è un Gatto Mistero: lo chiamano la Zampa Nascosta 1  
+[[characters/macavity|Macavity]] è un Gatto Mistero: lo chiamano la Zampa Nascosta 1  
 Sventura allo sventurato Tamigi  1  
-La [[Spring|primavera]] di mezzo inverno è la sua propria stagione 1  
-La signorina [[Helen]] Slingsby era la mia zia zitella 1  
-La signorina [[Nancy]] Ellicott 1  
+La [[motifs/spring|primavera]] di mezzo inverno è la sua propria stagione 1  
+La signorina [[characters/helen|Helen]] Slingsby era la mia zia zitella 1  
+La signorina [[characters/nancy|Nancy]] Ellicott 1  
 Mungojerrie e Rumpelteazer erano una coppia di gatti assai famigerata 1
 
 
@@ -1226,16 +1226,16 @@ Mungojerrie e Rumpelteazer erano una coppia di gatti assai famigerata 1
 <span class="atom-split" data-atom="120_m_n_o" data-title="M, N, O" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/animals,motif/the_sea,concept/memory_and_time,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
-[[Macavity]]’s a Mystery Cat: he’s called the Hidden Paw 1  
+[[characters/macavity|Macavity]]’s a Mystery Cat: he’s called the Hidden Paw 1  
 Malheur à la malheureuse Tamise  1  
-Midwinter [[Spring|spring]] is its own season 1  
-Miss [[Helen]] Slingsby was my maiden aunt 1  
-Miss [[Nancy]] Ellicott 1  
+Midwinter [[motifs/spring|spring]] is its own season 1  
+Miss [[characters/helen|Helen]] Slingsby was my maiden aunt 1  
+Miss [[characters/nancy|Nancy]] Ellicott 1  
 Mungojerrie and Rumpelteazer were a very notorious couple of cats 1  
 
 Not the expression of collective emotion 1  
 
-Old Deuteronomy’s lived a long [[Time|time]] 1  
+Old Deuteronomy’s lived a long [[motifs/time|time]] 1  
 One of my marionettes is dead 1  
 
 Paint me a cavernous waste shore 1  
@@ -1245,16 +1245,16 @@ Polyphiloprogenitive 1
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Macavity]] è un Gatto Mistero: lo chiamano la Zampa Nascosta 1  
+[[characters/macavity|Macavity]] è un Gatto Mistero: lo chiamano la Zampa Nascosta 1  
 Sventura allo sventurato Tamigi  1  
-La [[Spring|primavera]] di mezzo inverno è la sua propria stagione 1  
-La signorina [[Helen]] Slingsby era la mia zia zitella 1  
-La signorina [[Nancy]] Ellicott 1  
+La [[motifs/spring|primavera]] di mezzo inverno è la sua propria stagione 1  
+La signorina [[characters/helen|Helen]] Slingsby era la mia zia zitella 1  
+La signorina [[characters/nancy|Nancy]] Ellicott 1  
 Mungojerrie e Rumpelteazer erano una coppia di gatti assai famigerata 1  
 
 Non l’espressione d’un’emozione collettiva 1  
 
-Il Vecchio Deuteronomio è vissuto per molto [[Time|tempo]] 1  
+Il Vecchio Deuteronomio è vissuto per molto [[motifs/time|tempo]] 1  
 Una delle mie marionette è morta 1  
 
 Dipingimi una riva deserta e cavernosa 1  
@@ -1270,11 +1270,11 @@ Paint me a cavernous waste shore 1
 Pipit sate upright in her chair 1  
 Polyphiloprogenitive 1  
 
-[[Romeo]], grand sérieux, to importune 1  
+[[characters/romeo|Romeo]], grand sérieux, to importune 1  
 
 Standing upon the shore of all we know 1  
 Stone, bronze, stone, steel, stone, oakleaves, horses’ heels 1  
-[[Sunday]]: this satisfied procession 1  
+[[characters/sunday|Sunday]]: this satisfied procession 1  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1283,11 +1283,11 @@ Dipingimi una riva deserta e cavernosa 1
 Pipit sedeva eretta sulla sua sedia 1  
 Polifiloprogenitivo 1  
 
-[[Romeo]], grand sérieux, a importunare 1  
+[[characters/romeo|Romeo]], grand sérieux, a importunare 1  
 
 Ritti sulla riva di tutto ciò che sappiamo 1  
 Pietra, bronzo, pietra, acciaio, pietra, foglie di quercia, zoccoli di cavalli 1  
-[[Sunday|Domenica]]: questa processione soddisfatta 1
+[[characters/sunday|Domenica]]: questa processione soddisfatta 1
 
 
 
@@ -1296,7 +1296,7 @@ Pietra, bronzo, pietra, acciaio, pietra, foglie di quercia, zoccoli di cavalli 1
 
 Standing upon the shore of all we know 1  
 Stone, bronze, stone, steel, stone, oakleaves, horses’ heels 1  
-[[Sunday]]: this satisfied procession 1  
+[[characters/sunday|Sunday]]: this satisfied procession 1  
 
 The broad-backed hippopotamus 1  
 The children who explored the brook and found 1  
@@ -1308,20 +1308,20 @@ The readers of the Boston Evening Transcript 1
 The Rum Turn Tugger is a Curious Cat 1  
 The songsters of the air repair 1  
 The tiger in the tiger-pit 1  
-The [[Wind|wind]] sprang up at four o’[[Clock|clock]] 1  
-The [[Winter|winter]] evening settles down 1  
+The [[motifs/wind|wind]] sprang up at four o’[[motifs/clock|clock]] 1  
+The [[motifs/winter|winter]] evening settles down 1  
 There are several attitudes towards Christmas 1  
 There’s a whisper down the line at 1.2 3  
 They are rattling breakfast plates in basement kitchens 1  
-[[Time]] present and [[Time|time]] past 1  
+[[motifs/time|Time]] present and [[motifs/time|time]] past 1  
 To whom I owe the leaping delight 1  
-Twelve o’[[Clock|clock]] 1  
+Twelve o’[[motifs/clock|clock]] 1  
 
 We are the hollow men 1  
-Webster was much possessed by [[Death|death]] 1  
+Webster was much possessed by [[motifs/death|death]] 1  
 What seas what shores what grey rocks and what islands 1  
 When Mr. Apollinax visited the United States 1  
-When we came [[Home|home]] across the [[Hill|hill]] 1  
+When we came [[motifs/home|home]] across the [[motifs/hill|hill]] 1  
 While all the East was weaving red with gray 1  
 
 
@@ -1329,7 +1329,7 @@ While all the East was weaving red with gray 1
 
 Ritti sulla riva di tutto ciò che sappiamo 1  
 Pietra, bronzo, pietra, acciaio, pietra, foglie di quercia, zoccoli di cavalli 1  
-[[Sunday|Domenica]]: questa processione soddisfatta 1  
+[[characters/sunday|Domenica]]: questa processione soddisfatta 1  
 
 L’ippopotamo dal dorso ampio 1  
 I bambini che esplorarono il ruscello e trovarono 1  
@@ -1341,18 +1341,18 @@ I lettori del Boston Evening Transcript 1
 Il Rum Tum Tugger è un Gatto Curioso 1  
 I cantori dell’aria si raccolgono 1  
 La tigre nella fossa della tigre 1  
-Il [[Wind|vento]] si levò alle quattro in [[Clock|punto]] 1  
-La sera d’[[Winter|inverno]] cala 1  
+Il [[motifs/wind|vento]] si levò alle quattro in [[motifs/clock|punto]] 1  
+La sera d’[[motifs/winter|inverno]] cala 1  
 Vi sono parecchi atteggiamenti verso il Natale 1  
 C’è un sussurro lungo la linea all’1.2 3  
 Stanno sbattendo i piatti della colazione nelle cucine dei seminterrati 1  
-[[Time|Tempo]] presente e [[Time|tempo]] passato 1  
+[[motifs/time|Tempo]] presente e [[motifs/time|tempo]] passato 1  
 A cui devo la gioia balzante 1  
-Le dodici in [[Clock|punto]] 1  
+Le dodici in [[motifs/clock|punto]] 1  
 
 Noi siamo gli uomini vuoti 1  
-Webster era molto posseduto dalla [[Death|morte]] 1  
+Webster era molto posseduto dalla [[motifs/death|morte]] 1  
 Quali mari quali rive quali rocce grigie e quali isole 1  
 Quando Mr. Apollinax visitò gli Stati Uniti 1  
-Quando tornammo a [[Home|casa]] per la [[Hill|collina]] 1  
+Quando tornammo a [[motifs/home|casa]] per la [[motifs/hill|collina]] 1  
 Mentre tutto l’Oriente tesseva rosso con grigio 1

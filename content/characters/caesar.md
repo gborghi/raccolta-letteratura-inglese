@@ -14,4 +14,10 @@ The poem's speaking tyrant-figure, a Roman/imperial stand-in for worldly and mil
 
 <div class="concept-works" data-slug="characters/caesar"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ballad-of-st-barbara-(chesterton)|Ballad of St Barbara (Chesterton)]]
+
+</div>
+
 #graph/character

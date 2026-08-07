@@ -28,7 +28,7 @@ tags:
 
 # suprise
 
-*by Chesterton*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
+*by Chesterton*  ·  **Cluster:** [[clusters/swords-and-weapons-·-power-and-corruption-·-tyrant|Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 
 > A devotional lyric praying to be sundered from body, blood and soul so as to marvel at oneself as a stranger; wonder, self-and-soul, grace.
@@ -39,11 +39,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Double]]
+**Topoi:** [[topoi/double|Double]]
 
-**Motifs:** [[Swords and Weapons]], [[Blood]], [[Eyes and Sight]], [[Mirror]], [[Soul]], [[Prayer]], [[River]]
-**Themes & Concepts:** [[Self-Knowledge]], [[Wonder and Gratitude]], [[Grace and Redemption]], [[Body]], [[Sin and the Fall]], [[Uncanny]], [[Perception and Consciousness]]
-**Forms & Genres:** [[Lyric]], [[Hymn]]
+**Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/blood|Blood]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/mirror|Mirror]], [[motifs/soul|Soul]], [[motifs/prayer|Prayer]], [[motifs/river|River]]
+**Themes & Concepts:** [[concepts/self-knowledge|Self-Knowledge]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/body|Body]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/uncanny|Uncanny]], [[concepts/perception-and-consciousness|Perception and Consciousness]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/hymn|Hymn]]
 
 ## Testo integrale / Full text
 

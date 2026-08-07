@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/othello"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/othello-(shakespeare)|OTHELLO (Shakespeare)]]
+
+</div>
+
 #graph/character

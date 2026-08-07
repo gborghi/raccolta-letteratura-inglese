@@ -14,4 +14,11 @@ America's 'national poet,' repeatedly invoked as the imaginative voice that trie
 
 <div class="concept-works" data-slug="characters/walt-whitman"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/whatisawinamerica-(chesterton)|WhatISawInAmerica (Chesterton)]]
+- [[works/man-orthodox-(chesterton)|Man Orthodox (Chesterton)]]
+
+</div>
+
 #graph/character

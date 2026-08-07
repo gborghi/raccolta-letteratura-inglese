@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/lord-illingworth"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/a-woman-of-no-importance-(wilde)|A Woman of No Importance (Wilde)]]
+
+</div>
+
 #graph/character

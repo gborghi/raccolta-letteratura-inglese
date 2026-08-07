@@ -14,4 +14,10 @@ General Wolfe, who reputedly recited Gray's Elegy before the assault on Quebec, 
 
 <div class="concept-works" data-slug="characters/general-wolfe"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-glass-walking-stick-(chesterton)|The Glass Walking Stick (Chesterton)]]
+
+</div>
+
 #graph/character

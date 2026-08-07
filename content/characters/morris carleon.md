@@ -14,4 +14,10 @@ Patricia's brash, rationalist American brother whose skeptical insistence on exp
 
 <div class="concept-works" data-slug="characters/morris-carleon"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/magic-(chesterton)|Magic (Chesterton)]]
+
+</div>
+
 #graph/character

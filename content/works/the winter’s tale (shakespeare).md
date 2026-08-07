@@ -39,7 +39,7 @@ tags:
   - character/autolycus
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Blank Verse · Tragicomedy · Romance Play]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/blank-verse-·-tragicomedy-·-romance-play|Blank Verse · Tragicomedy · Romance Play]]
 
 > [!abstract] 
 > A late dramatic romance in which Leontes' irrational jealousy destroys his family, followed across sixteen years by pastoral renewal and the wondrous restoration of the lost daughter Perdita and the statue-like Hermione; its themes are jealousy, repentance, time, and redemptive grace.
@@ -64,13 +64,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Pastoral Retreat]], [[Sleeper Awakes]], [[Fortune's Wheel]]
-**Archetypes:** [[King]], [[Tyrant]], [[Innocent]]
-**Motifs:** [[Seasons]], [[Winter]], [[Flowers]], [[Time]], [[Mirror]]
-**Themes & Concepts:** [[Jealousy]], [[Marriage and Fidelity]], [[Grace and Redemption]], [[Conversion]], [[Grief and Loss]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Romance Play]], [[Tragicomedy]], [[Blank Verse]]
-**Settings:** [[Pastoral Countryside]], [[Court]]
-**Characters:** [[Leontes]], [[Hermione]], [[Perdita]], [[Polixenes]], [[Paulina]], [[Florizel]], [[Camillo]], [[Autolycus]]
+**Topoi:** [[topoi/pastoral-retreat|Pastoral Retreat]], [[topoi/sleeper-awakes|Sleeper Awakes]], [[topoi/fortune's-wheel|Fortune's Wheel]]
+**Archetypes:** [[archetypes/king|King]], [[archetypes/tyrant|Tyrant]], [[archetypes/innocent|Innocent]]
+**Motifs:** [[motifs/seasons|Seasons]], [[motifs/winter|Winter]], [[motifs/flowers|Flowers]], [[motifs/time|Time]], [[motifs/mirror|Mirror]]
+**Themes & Concepts:** [[concepts/jealousy|Jealousy]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/conversion|Conversion]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
+**Forms & Genres:** [[forms/romance-play|Romance Play]], [[forms/tragicomedy|Tragicomedy]], [[forms/blank-verse|Blank Verse]]
+**Settings:** [[settings/pastoral-countryside|Pastoral Countryside]], [[settings/court|Court]]
+**Characters:** [[characters/leontes|Leontes]], [[characters/hermione|Hermione]], [[characters/perdita|Perdita]], [[characters/polixenes|Polixenes]], [[characters/paulina|Paulina]], [[characters/florizel|Florizel]], [[characters/camillo|Camillo]], [[characters/autolycus|Autolycus]]
 
 ## Testo integrale / Full text
 

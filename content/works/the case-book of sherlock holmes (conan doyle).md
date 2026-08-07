@@ -26,7 +26,7 @@ tags:
   - archetype/detective
   - archetype/villain
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Detective Fiction · Ratiocination Detection · Crime and Punishment]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/detective-fiction-·-ratiocination-detection-·-crime-and-punishment|Detective Fiction · Ratiocination Detection · Crime and Punishment]]
 
 > [!abstract] 
 > The final Holmes collection (1927), gathering twelve later stories including 'The Mazarin Stone,' 'The Problem of Thor Bridge,' 'The Creeping Man,' and 'The Sussex Vampire.' Holmes, older but undiminished, unmasks jewel thieves, blackmailers, and seemingly supernatural crimes through rational detection.
@@ -50,12 +50,12 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Deception]], [[Greed and Money]], [[Economics]]
-**Motifs:** [[Concealment Hidden Identity]], [[Letters and Writing]], [[Money and Gold]]
-**Historical References:** [[Victorian England]]
-**Settings:** [[London]]
-**Characters:** [[Sherlock Holmes]], [[Doctor Watson]]
-**Archetypes:** [[Detective]], [[Villain]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/deception|Deception]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/money-and-gold|Money and Gold]]
+**Historical References:** [[historical-references/victorian-england|Victorian England]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]
 
-**Also relevant to:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
+**Also relevant to:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]

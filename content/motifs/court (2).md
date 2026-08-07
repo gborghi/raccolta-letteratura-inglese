@@ -12,4 +12,12 @@ tags:
 
 <div class="concept-works" data-slug="motifs/court-(2)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+- [[works/twelve-men-(chesterton)|twelve-men (Chesterton)]]
+- [[works/the-duchess-of-padua-(wilde)|The Duchess of Padua (Wilde)]]
+
+</div>
+
 #graph/motif

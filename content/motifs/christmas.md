@@ -14,4 +14,10 @@ The festive, grotesque, and charitable English winter feast that Chesterton trea
 
 <div class="concept-works" data-slug="motifs/christmas"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+
+</div>
+
 #graph/motif

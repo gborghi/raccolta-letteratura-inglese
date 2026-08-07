@@ -37,17 +37,17 @@ tags:
 
 Raccolta tematica di 11 componimenti di T. S. Eliot.
 
-- [[A Cooking Egg (Eliot)|A Cooking Egg]]
-- [[Coriolan (Eliot)|Coriolan]]
-- [[Cousin Nancy (Eliot)|Cousin Nancy]]
-- [[Defence of the Islands (Eliot)|Defence of the Islands]]
-- [[Landscapes (Eliot)|Landscapes]]
-- [[Le Directeur (Eliot)|Le Directeur]]
-- [[Mélange Adultère de Tout (Eliot)|Mélange Adultère de Tout]]
-- [[Mr. Apollinax (Eliot)|Mr. Apollinax]]
-- [[The Boston Evening Transcript (Eliot)|The Boston Evening Transcript]]
-- [[The Hippopotamus (Eliot)|The Hippopotamus]]
-- [[Y, Z (Eliot)|Y, Z]]
+- [[testi/eliot/atomized/satire-of-society-epigram-satire#018_a_cooking_egg|A Cooking Egg]]
+- [[testi/eliot/atomized/satire-of-society-epigram-satire#050_coriolan|Coriolan]]
+- [[testi/eliot/atomized/satire-of-society-epigram-satire#009_cousin_nancy|Cousin Nancy]]
+- [[testi/eliot/atomized/satire-of-society-epigram-satire#074_defence_of_the_islands|Defence of the Islands]]
+- [[testi/eliot/atomized/satire-of-society-epigram-satire#055_landscapes|Landscapes]]
+- [[testi/eliot/atomized/satire-of-society-epigram-satire#019_le_directeur|Le Directeur]]
+- [[testi/eliot/atomized/satire-of-society-epigram-satire#020_mélange_adultère_de_tout|Mélange Adultère de Tout]]
+- [[testi/eliot/atomized/satire-of-society-epigram-satire#010_mr_apollinax|Mr. Apollinax]]
+- [[testi/eliot/atomized/satire-of-society-epigram-satire#007_the_boston_evening_transcript|The Boston Evening Transcript]]
+- [[testi/eliot/atomized/satire-of-society-epigram-satire#022_the_hippopotamus|The Hippopotamus]]
+- [[testi/eliot/atomized/satire-of-society-epigram-satire#124_y_z|Y, Z]]
 
 ## Testo / Text
 

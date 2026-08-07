@@ -14,4 +14,10 @@ Dickens's spendthrift, debt-ridden father, whose imprisonment in the Marshalsea 
 
 <div class="concept-works" data-slug="characters/john-dickens"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/dickens-britannica-(chesterton)|dickens Britannica (Chesterton)]]
+
+</div>
+
 #graph/character

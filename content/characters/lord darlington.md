@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/lord-darlington"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lady-windermere's-fan-(wilde)|Lady Windermere's Fan (Wilde)]]
+
+</div>
+
 #graph/character

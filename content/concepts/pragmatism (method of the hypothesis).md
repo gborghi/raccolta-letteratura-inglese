@@ -14,4 +14,10 @@ The essay's central method — provisionally assuming a theory true and judging 
 
 <div class="concept-works" data-slug="concepts/pragmatism-(method-of-the-hypothesis)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/return-of-the-angels-(chesterton)|Return of the Angels (Chesterton)]]
+
+</div>
+
 #graph/concept

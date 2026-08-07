@@ -23,7 +23,7 @@ tags:
   - setting/london
   - archetype/scapegoat
 ---
-*by Conan Doyle*  ·  **Cluster:** [[War and Empire · History · Nationalism and Patriotism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/war-and-empire-·-history-·-nationalism-and-patriotism|War and Empire · History · Nationalism and Patriotism]]
 
 > [!abstract] 
 > An essay reexamining the 1860 unsolved murder of the reclusive London landlady Mary Emsley, weighing the circumstantial evidence that hanged plasterer George Mullins and questioning whether justice was truly served.
@@ -39,9 +39,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Crime and Punishment]], [[Justice Right and Wrong]], [[Ratiocination Detection]], [[Deception]], [[Greed and Money]], [[Economics]], [[History]]
-**Motifs:** [[Letters and Writing]], [[Money and Gold]], [[Blood]]
-**Historical References:** [[Victorian England]]
-**Settings:** [[London]]
-**Archetypes:** [[Scapegoat]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/deception|Deception]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/money-and-gold|Money and Gold]], [[motifs/blood|Blood]]
+**Historical References:** [[historical-references/victorian-england|Victorian England]]
+**Settings:** [[settings/london|London]]
+**Archetypes:** [[archetypes/scapegoat|Scapegoat]]

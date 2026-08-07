@@ -14,4 +14,10 @@ A traditional Catholic prayer of repeated Marian titles (gate of heaven, house o
 
 <div class="concept-works" data-slug="historical-references/litany-of-loreto"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/litany-(chesterton)|litany (Chesterton)]]
+
+</div>
+
 #graph/histref

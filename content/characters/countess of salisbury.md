@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/countess-of-salisbury"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/edward-iii-(shakespeare)|EDWARD III (Shakespeare)]]
+
+</div>
+
 #graph/character

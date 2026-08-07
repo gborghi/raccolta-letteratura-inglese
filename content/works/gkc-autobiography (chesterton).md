@@ -44,7 +44,7 @@ tags:
 
 # GKC-Autobiography
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > Chesterton's 1936 autobiography recounting his Kensington childhood, Fleet Street journalism, friendships and intellectual conversion to orthodoxy and the Catholic faith; built on memory, wonder, paradox and the defence of tradition.
@@ -58,15 +58,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Pilgrim]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
 
-**Characters:** [[Hilaire Belloc]], [[Cecil Chesterton]], [[H. G. Wells]], [[George Bernard Shaw]], [[E. C. Bentley]]
+**Characters:** [[characters/hilaire-belloc|Hilaire Belloc]], [[characters/cecil-chesterton|Cecil Chesterton]], [[characters/h.-g.-wells|H. G. Wells]], [[historical-references/george-bernard-shaw|George Bernard Shaw]], [[characters/e.-c.-bentley|E. C. Bentley]]
 
-**Motifs:** [[Childhood]], [[Memory]], [[Journey]], [[The Golden Key]]
-**Themes & Concepts:** [[Conversion]], [[Faith]], [[Memory and Time]], [[Maturation and Growth]], [[Friendship]], [[Paradox]], [[Wonder and Gratitude]], [[Doubt]], [[Imagination]], [[Power and Corruption]], [[Nationalism and Patriotism]], [[War and its Cost]], [[History]]
-**Forms & Genres:** [[Fictional Autobiography]], [[Apologetics]], [[Nonfiction]]
-**Historical References:** [[Catholic Church]], [[First World War]], [[Marconi Scandal]]
-**Settings:** [[London]], [[America]], [[Oxford]], [[Jerusalem]]
+**Motifs:** [[motifs/childhood|Childhood]], [[motifs/memory|Memory]], [[motifs/journey|Journey]], [[motifs/the-golden-key|The Golden Key]]
+**Themes & Concepts:** [[concepts/conversion|Conversion]], [[concepts/faith|Faith]], [[concepts/memory-and-time|Memory and Time]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/friendship|Friendship]], [[concepts/paradox|Paradox]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/doubt|Doubt]], [[concepts/imagination|Imagination]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/fictional-autobiography|Fictional Autobiography]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/first-world-war|First World War]], [[historical-references/marconi-scandal|Marconi Scandal]]
+**Settings:** [[settings/london|London]], [[settings/america|America]], [[settings/oxford|Oxford]], [[settings/jerusalem|Jerusalem]]
 
 ## Testo integrale / Full text
 

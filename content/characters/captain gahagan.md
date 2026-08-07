@@ -14,4 +14,10 @@ Peter Patrick Gahagan, Pond's swaggering, tale-telling Irish cavalry-officer fri
 
 <div class="concept-works" data-slug="characters/captain-gahagan"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/mrpond-(chesterton)|MrPond (Chesterton)]]
+
+</div>
+
 #graph/character

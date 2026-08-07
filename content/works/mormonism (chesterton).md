@@ -30,7 +30,7 @@ tags:
   - histref/william_rufus
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > An essay using the Mormon scare over polygamy to argue that creeds drive a people's customs, that history is unintelligible if theology is left out, and that the Mormons reproduced an Old-Testament materialist conception of God.
@@ -49,15 +49,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Pilgrim]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
 
-**Settings:** [[Desert]], [[American West]]
+**Settings:** [[motifs/desert|Desert]], [[settings/american-west|American West]]
 
-**Motifs:** [[Journey]]
+**Motifs:** [[motifs/journey|Journey]]
 
-**Themes & Concepts:** [[Faith and Doubt]], [[Marriage and Fidelity]], [[Critique of Progress]], [[Fanaticism]], [[History]]
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
-**Historical References:** [[Puritanism]], [[Bible]], [[Catholic Church]], [[Crusades]], [[Medieval England]], [[William the Conqueror]], [[Oliver Cromwell]], [[John Bunyan]], [[William Rufus]]
+**Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/fanaticism|Fanaticism]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/puritanism|Puritanism]], [[historical-references/bible|Bible]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/crusades|Crusades]], [[historical-references/medieval-england|Medieval England]], [[historical-references/william-the-conqueror|William the Conqueror]], [[historical-references/oliver-cromwell|Oliver Cromwell]], [[historical-references/john-bunyan|John Bunyan]], [[historical-references/william-rufus|William Rufus]]
 
 ## Testo integrale / Full text
 

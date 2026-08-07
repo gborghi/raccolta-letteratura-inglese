@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="historical-references/inquisition"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/aquinas-(chesterton)|aquinas (Chesterton)]]
+- [[works/remorse-(coleridge)|REMORSE (Coleridge)]]
+
+</div>
+
 #graph/histref

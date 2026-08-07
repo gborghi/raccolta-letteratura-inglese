@@ -45,7 +45,7 @@ tags:
 
 # tolstoy
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > A critical essay (with Perris and Garnett) on Tolstoy: his cult of simplification, his realism about war, and Chesterton's argument that logic without mysticism breeds fanaticism and madness.
@@ -67,20 +67,20 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Islam]], [[Napoleonic Wars the Navy]], [[Christianity]], [[Bible]], [[Crimean War]]
+**Historical References:** [[historical-references/islam|Islam]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/crimean-war|Crimean War]]
 
-**Archetypes:** [[Rebel]], [[Prophet]]
+**Archetypes:** [[archetypes/rebel|Rebel]], [[archetypes/prophet|Prophet]]
 
-**Settings:** [[Russia]], [[Battlefield]], [[Caucasus]], [[Europe]]
+**Settings:** [[settings/russia|Russia]], [[settings/battlefield|Battlefield]], [[settings/caucasus|Caucasus]], [[settings/europe|Europe]]
 
-**Motifs:** [[Animals]], [[Death]], [[Nature]]
+**Motifs:** [[motifs/animals|Animals]], [[motifs/death|Death]], [[concepts/nature|Nature]]
 
-**Topoi:** [[War as Glory]]
+**Topoi:** [[topoi/war-as-glory|War as Glory]]
 
-**Characters:** [[Leo Tolstoy]], [[Ivan Turgenev]], [[Anna Karenina]]
+**Characters:** [[characters/leo-tolstoy|Leo Tolstoy]], [[characters/ivan-turgenev|Ivan Turgenev]], [[characters/anna-karenina|Anna Karenina]]
 
-**Themes & Concepts:** [[Faith]], [[Madness]], [[War and its Cost]], [[Artist and Society]], [[Truth]], [[Fanaticism]], [[Conversion]], [[Critique of Progress]], [[Nationalism and Patriotism]], [[Simplification of Life]], [[Realism]], [[History]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Biography]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/madness|Madness]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/artist-and-society|Artist and Society]], [[concepts/truth|Truth]], [[concepts/fanaticism|Fanaticism]], [[concepts/conversion|Conversion]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/simplification-of-life|Simplification of Life]], [[concepts/realism|Realism]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/biography|Biography]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

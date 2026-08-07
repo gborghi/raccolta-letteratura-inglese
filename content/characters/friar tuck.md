@@ -14,4 +14,10 @@ Jovial friar of the Robin Hood ballads, invoked by Chesterton alongside Falstaff
 
 <div class="concept-works" data-slug="characters/friar-tuck"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/pickwick-(chesterton)|Pickwick (Chesterton)]]
+
+</div>
+
 #graph/character

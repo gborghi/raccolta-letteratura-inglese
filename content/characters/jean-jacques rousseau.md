@@ -14,4 +14,11 @@ Named alongside Jefferson as one of the great idealists whose democratic ideal m
 
 <div class="concept-works" data-slug="characters/jean-jacques-rousseau"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/democracy-(chesterton)|democracy (Chesterton)]]
+- [[works/the-french-revolution-(belloc)|The French Revolution (Belloc)]]
+
+</div>
+
 #graph/character

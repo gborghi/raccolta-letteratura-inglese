@@ -52,7 +52,7 @@ tags:
 
 # Poet and Lunatics
 
-*by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
+*by Chesterton*  ·  **Cluster:** [[clusters/short-story-·-concealment-hidden-identity-·-justice-right-and-wrong|Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 
 > A linked cycle of detective/mystery stories featuring the poet Gabriel Gale, who solves crimes through imaginative sympathy; explores sanity, madness, the supernatural and good vs evil.
@@ -66,18 +66,18 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]], [[Christianity]], [[Catholic Church]], [[French Revolution]], [[Medieval England]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/french-revolution|French Revolution]], [[historical-references/medieval-england|Medieval England]]
 
-**Settings:** [[Rural England]], [[Cathedral]], [[Garden (2)]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/cathedral|Cathedral]], [[settings/garden-(2)|Garden (2)]]
 
-**Topoi:** [[World Upside Down]], [[Double]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/double|Double]]
 
-**Characters:** [[Gabriel Gale]], [[Dr. Garth]], [[James Hurrel]], [[Lady Diana Westermaine]]
+**Characters:** [[characters/gabriel-gale|Gabriel Gale]], [[characters/dr.-garth|Dr. Garth]], [[characters/james-hurrel|James Hurrel]], [[characters/lady-diana-westermaine|Lady Diana Westermaine]]
 
-**Archetypes:** [[Detective]], [[Fool]], [[Artist]], [[Double Doppelganger]]
-**Motifs:** [[Supernatural]], [[Inn Tavern]], [[Birds]], [[Feigned Madness]], [[Concealment Hidden Identity]], [[Prison]], [[Stone and Marble]], [[Storm]]
-**Themes & Concepts:** [[Madness]], [[Ratiocination Detection]], [[Imagination]], [[Good vs Evil]], [[Appearance vs Reality]], [[Paradox]], [[Freedom and Liberty]], [[Identity]], [[Self and Cosmos]], [[Faith and Doubt]], [[Crime and Punishment]], [[History]]
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]], [[Parable]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/fool|Fool]], [[archetypes/artist|Artist]], [[archetypes/double-doppelganger|Double Doppelganger]]
+**Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/birds|Birds]], [[motifs/feigned-madness|Feigned Madness]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/prison|Prison]], [[motifs/stone-and-marble|Stone and Marble]], [[motifs/storm|Storm]]
+**Themes & Concepts:** [[concepts/madness|Madness]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/imagination|Imagination]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/paradox|Paradox]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/identity|Identity]], [[concepts/self-and-cosmos|Self and Cosmos]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]], [[forms/parable|Parable]]
 
 ## Testo integrale / Full text
 

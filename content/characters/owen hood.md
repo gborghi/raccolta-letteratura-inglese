@@ -14,4 +14,10 @@ Dreamy, bookish lawyer nicknamed 'Robin Hood' who sets the Thames on fire in an 
 
 <div class="concept-works" data-slug="characters/owen-hood"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/longbow2-(chesterton)|longbow2 (Chesterton)]]
+
+</div>
+
 #graph/character

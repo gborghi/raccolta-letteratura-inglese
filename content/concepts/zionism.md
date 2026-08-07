@@ -14,4 +14,11 @@ The book's culminating political and religious question, weighing whether a Jewi
 
 <div class="concept-works" data-slug="concepts/zionism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/new-jerusalem-(chesterton)|New Jerusalem (Chesterton)]]
+- [[works/the-jews-(belloc)|The Jews (Belloc)]]
+
+</div>
+
 #graph/concept

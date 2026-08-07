@@ -25,7 +25,7 @@ tags:
   - archetype/corrupt_official
   - topos/world_upside_down
 ---
-*by Belloc*  ·  **Cluster:** [[Satirical Novel · Politics and Finance · Edwardian England]]
+*by Belloc*  ·  **Cluster:** [[clusters/satirical-novel-·-politics-and-finance-·-edwardian-england|Satirical Novel · Politics and Finance · Edwardian England]]
 
 > [!abstract] 
 > A political satire (reported 'by H. B.' and illustrated 'by G. K. C.') burlesquing Joseph Chamberlain's 1903 Tariff Reform commission as a mock official inquiry. A parade of self-interested manufacturers, farmers and ministers give absurd evidence, exposing protectionism and imperial preference as a racket dressed in patriotic language.
@@ -49,11 +49,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Satire]], [[Parody]]
-**Themes & Concepts:** [[Satire of Society]], [[Empire and Imperialism]], [[Capitalism]], [[Money and Avarice]], [[Class Conflict]], [[Democracy]], [[Hypocrisy]], [[Economics]]
-**Motifs:** [[Money and Gold]], [[Wine and Drink]]
-**Historical References:** [[British Empire]]
-**Settings:** [[Rural England]]
-**Characters:** [[G. K. Chesterton]]
-**Archetypes:** [[Corrupt Official]]
-**Topoi:** [[World Upside Down]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/parody|Parody]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/capitalism|Capitalism]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/class-conflict|Class Conflict]], [[concepts/democracy|Democracy]], [[concepts/hypocrisy|Hypocrisy]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/wine-and-drink|Wine and Drink]]
+**Historical References:** [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Characters:** [[characters/g.-k.-chesterton|G. K. Chesterton]]
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]

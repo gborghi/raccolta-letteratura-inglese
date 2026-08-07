@@ -14,4 +14,10 @@ The village doctor, revealed as the mastermind who staged the Squire's murder to
 
 <div class="concept-works" data-slug="characters/dr.-burton-brown"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/trees-of-pride-(chesterton)|trees of pride (Chesterton)]]
+
+</div>
+
 #graph/character

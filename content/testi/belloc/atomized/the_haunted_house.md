@@ -374,7 +374,7 @@ And next morning young John Maple, waking late, alarmed that his father had not 
 
 The English friends in the place told the lonely boy what he should do, but he was already almost competent to act. Cut off though he had been from the life of his kind, he had a singularly mature power of decision, and it was nerved now by a strange, tenacious feeling in which, as in a composite picture, were inextricably entwined the beloved memory of the face which he would never see again for ever (every detail of the funeral remained vivid all his life) — a profound sense of wrong done him, and a vague, quite formless, but astonishingly strong intention of action — what action he knew not, nor how it should be performed, nor where. Even in one so young, sudden and overwhelming grief adds to the vividness of life intolerably. By so much as he dwelt — more than in real experience itself — upon his father’s voice, gesture, everything — by so much was he acutely, violently sensitive to harsh alien things.
 
-His aunt had not come out for the funeral. She seemed to show an intolerable indifference. Bad as the immediate post-war conditions were, it was inexcusable. The letter he had received from her struck him like ice; though that woman had never written unkindly in her life, yet also she had never written kindly. The journey home in those strange, interrupted days of the spring of ‘19, with the delays and the broken glass in the carriages and the sleepless nights, felt like an approach to some doom. What would it be like? What would Rackham be like? What would it have become? He had a fairly clear memory of the place, though he had not seen it since he was a child — for five-and-a-half years. His father had told him very vaguely and in a few sentences that it “looked twice what it had been”; but he evidently did not like to dwell on any description. He had pictured to himself one or two consolations — meeting again with Corton, the old butler, and the rest of them — he supposed they were all still there — the familiar odd disjointed front of the house, half brick, half timber; the rank grass, the neglected field beyond the rusty iron palings, the ill-kept lawn which were for him not [[Decay|decay]], but Home.
+His aunt had not come out for the funeral. She seemed to show an intolerable indifference. Bad as the immediate post-war conditions were, it was inexcusable. The letter he had received from her struck him like ice; though that woman had never written unkindly in her life, yet also she had never written kindly. The journey home in those strange, interrupted days of the spring of ‘19, with the delays and the broken glass in the carriages and the sleepless nights, felt like an approach to some doom. What would it be like? What would Rackham be like? What would it have become? He had a fairly clear memory of the place, though he had not seen it since he was a child — for five-and-a-half years. His father had told him very vaguely and in a few sentences that it “looked twice what it had been”; but he evidently did not like to dwell on any description. He had pictured to himself one or two consolations — meeting again with Corton, the old butler, and the rest of them — he supposed they were all still there — the familiar odd disjointed front of the house, half brick, half timber; the rank grass, the neglected field beyond the rusty iron palings, the ill-kept lawn which were for him not [[motifs/decay|decay]], but Home.
 
 His first shock was at the station.
 
@@ -474,7 +474,7 @@ Lady Pattle liked pretty well everything, but if she liked one thing more than a
 
 Now God in His providence had at this very moment provided for Lady Pattle, and for England, precisely what was most needed in this line.
 
-Hamilcar Hellup had not begun life upon a few copper coins, still less had he walked as a barefoot child into New York, because he could not afford to ride. He had been born of a very good family — that is to say, of a family that had plenty of lineage (ten generations of it since the first settlers); moderate in fortune; once Puritan, now atheist, in religion. He had been brought up with the other lads of the village under that fine [[Tradition|tradition]] of social equality which for so long was, and still is, in unspoiled places, the [[Tradition|tradition]] of the United States. He had made a large fortune without selling any material objects that anyone had ever seen, dealing shrewdly in paper. He had never cheated anyone, to his knowledge. What is far more remarkable, very few people had cheated him; or, at any rate, very few with impunity.
+Hamilcar Hellup had not begun life upon a few copper coins, still less had he walked as a barefoot child into New York, because he could not afford to ride. He had been born of a very good family — that is to say, of a family that had plenty of lineage (ten generations of it since the first settlers); moderate in fortune; once Puritan, now atheist, in religion. He had been brought up with the other lads of the village under that fine [[concepts/tradition|tradition]] of social equality which for so long was, and still is, in unspoiled places, the [[concepts/tradition|tradition]] of the United States. He had made a large fortune without selling any material objects that anyone had ever seen, dealing shrewdly in paper. He had never cheated anyone, to his knowledge. What is far more remarkable, very few people had cheated him; or, at any rate, very few with impunity.
 
 His delight was to escape from New York and return at too brief intervals to the place of his birth: and there his confidant was a play-mate who had remained poor and cunning on the soil, one Hiram Jake. Hiram Jake remained in Hamilcar Hellup’s vision the symbol of his own people, and years later, when he stole back home on brief escapes from England, to talk of Mayfair to Hiram Jake over the broken fence of that citizen’s lot was cold water in the desert to the millionaire.
 
@@ -956,11 +956,11 @@ But it is time that I dissipated in my reader’s mind John’s misapprehension 
 
 CHAPTER VI
 
-GEORGE ADOLPHUS HUGGINS was born in a small street off the Old Kent-Road early in the 60’s of the last century. His first introduction to commercial life was made at the age of twelve as assistant to his father Jack, or, as one [[Tradition|tradition]] has it, Jim Huggins, who sold fruit and vegetables from a barrow in that neighbourhood.
+GEORGE ADOLPHUS HUGGINS was born in a small street off the Old Kent-Road early in the 60’s of the last century. His first introduction to commercial life was made at the age of twelve as assistant to his father Jack, or, as one [[concepts/tradition|tradition]] has it, Jim Huggins, who sold fruit and vegetables from a barrow in that neighbourhood.
 
 Upon the early demise of both his parents young Mr. Huggins took over the business, which remained undeveloped to close upon his fortieth year. Long before that he had married Matilda, or, as she was later called, Amathea, the daughter of another gentleman and lady in the same branch of commerce: a strong, full-bodied, upstanding young woman of whom he was very proud, and whose advice in all matters not connected with barter and exchange he was ready to follow. They were contented enough with their lot, suffered no more than the average number of conflicts with their neighbours, and but rarely allowed these to develop into physical violence.
 
-So late, therefore, as the beginning of King Edward’s reign there was nothing to distinguish the genius of George Adolphus Huggins. He seemed to be but one costermonger among so many in the great business life of London. But shortly after the end of the [[Boer War]] and King Edward’s Coronation appeared those manifestations of the exceptional power which is latent in every great man, and is bound to express itself at last, however tardily.
+So late, therefore, as the beginning of King Edward’s reign there was nothing to distinguish the genius of George Adolphus Huggins. He seemed to be but one costermonger among so many in the great business life of London. But shortly after the end of the [[historical-references/boer-war|Boer War]] and King Edward’s Coronation appeared those manifestations of the exceptional power which is latent in every great man, and is bound to express itself at last, however tardily.
 
 Mr. Huggins, having been chosen for unpaid secretary of a Goose Club which enjoyed a large membership, found himself in the decline of the year 1902 possessed of a very considerable capital in trust. Indeed, it was far more than all his own stock-in-trade was worth, and it is a great tribute to his sterling qualities that he should have been entrusted thus by his neighbours with so responsible a task.
 
@@ -1228,7 +1228,7 @@ When the question of choosing his title arose, a local gentleman of antiquity an
 
 From that day to this, for four whole generations, the title has never failed. The family fortune was dissipated by the second Lord Hambourne (of the fifth creation) partly in entertaining the Regent, partly by losing money at cards to the Regent’s more intelligent friends. The title passed, just before the accession of Queen Victoria, to a cousin, possessed of an annuity of some £800 a year and a pleasant house with an orchard in Kent.
 
-His eldest son, after a life of honest toil in the Civil Service, died childless — and of course impecunious. The title passed, just before the [[Boer War]], to a then young man his nephew, who had just been elected to a classical Fellowship at Burford College. The lad was not without initiative; straitened circumstances had perhaps sharpened his wits; but anyhow, while he was making it his business to talk psychology, to buy books on psychology, to speak in debates on psychology, and even to attend the foreign congresses on psychology, certain of his friends were persuading The Turtle Eaters Company that Oxford was perishing for the lack of a Chair in Psychology; so when that Chair must be filled, what claim more obvious than Lord Hambourne’s? The envious who pointed out how little he knew even of a subject on which there is so little to be known were silenced by the very true retort that the other candidates knew nothing.
+His eldest son, after a life of honest toil in the Civil Service, died childless — and of course impecunious. The title passed, just before the [[historical-references/boer-war|Boer War]], to a then young man his nephew, who had just been elected to a classical Fellowship at Burford College. The lad was not without initiative; straitened circumstances had perhaps sharpened his wits; but anyhow, while he was making it his business to talk psychology, to buy books on psychology, to speak in debates on psychology, and even to attend the foreign congresses on psychology, certain of his friends were persuading The Turtle Eaters Company that Oxford was perishing for the lack of a Chair in Psychology; so when that Chair must be filled, what claim more obvious than Lord Hambourne’s? The envious who pointed out how little he knew even of a subject on which there is so little to be known were silenced by the very true retort that the other candidates knew nothing.
 
 With the Great War came his opportunity. It was admitted on all sides that he had procured for his country the great advantage of the only telepathic system among the Allies which could compare with the splendid organisation of the Germans. And while Ragensdorp in Leipsig was reading, with the success that has rendered him famous, the deep strategic thoughts of one British Minister after another during those four and a half years, Lord Hambourne with far greater success was reading the strategic thoughts of Hindenburg, Ludendorf and Falkenhayn and communicating them daily to the Cabinet. On the Continent his powers were less appreciated, and it is to be feared that the prolongation of the struggle was largely due to the failure of the Italians and French to do credit to a science with which they were as yet unfamiliar.
 
@@ -1370,7 +1370,7 @@ He nodded.
 
 “More than they want,” he said, “much more than they can bear, Bo.”
 
-“’Tisn’t ‘they,’” said Bo, “it’s him. The aged Bruvvish. Pop wouldn’t stand for it. He’s unknown to fear, is my Lord Hellup. He’s as brave as the lion-tamer’s wife. There are few [[Ghosts|ghosts]] on Manhattan Island, Jacko. It’s the other one you’re for, and that’ll spoil Aunt Hilda’s market. Badly. D’ye get me? I’ll fix Pop. He shan’t bid. He shall chorus the apparition.”
+“’Tisn’t ‘they,’” said Bo, “it’s him. The aged Bruvvish. Pop wouldn’t stand for it. He’s unknown to fear, is my Lord Hellup. He’s as brave as the lion-tamer’s wife. There are few [[motifs/ghosts|ghosts]] on Manhattan Island, Jacko. It’s the other one you’re for, and that’ll spoil Aunt Hilda’s market. Badly. D’ye get me? I’ll fix Pop. He shan’t bid. He shall chorus the apparition.”
 
 “You’re not going to tell him our plan?” said John in alarm.
 
@@ -2298,7 +2298,7 @@ The bridge party looked round: that excellent wife broke off in the middle of a 
 
 “‘Ow was ’e took?” said the worthy woman to John Maple.
 
-“It’s nothing. I’m sure it’s nothing, Lady Mere,” said John, on his feet. “It was something … The night … and this talk of [[Ghosts|ghosts]] has made him nervous.”
+“It’s nothing. I’m sure it’s nothing, Lady Mere,” said John, on his feet. “It was something … The night … and this talk of [[motifs/ghosts|ghosts]] has made him nervous.”
 
 “Mattie,” said the poor man in a low voice, “Mattie, I must go to bed. You’ll excuse me, ma’am,” he added, turning to his hostess, “but I’m that tired. I’m not as young as I was.”
 
@@ -2877,7 +2877,7 @@ There was Rackham; and (one would have said) the benediction of God upon it. I k
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO I
+CAPITOLO I
 
 Nella contea inglese del Sussex, su quel terreno argilloso e su una piccola elevazione di quel stesso terreno, sorgeva – e sorge ancora oggi – una casa di un gentiluomo di nome Rackham.
 
@@ -3287,7 +3287,7 @@ The shock fell on a man much nearer death than either he or his child had imagin
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO II
+CAPITOLO II
 
 Era all’inizio di giugno del 1914. Henry Maple si trovava in Svizzera, non nella Svizzera turistica che odiava, ma sulle piacevoli pendici meridionali dei Giura, con vista sulla pianura e le grandi montagne a sud.
 
@@ -3560,7 +3560,7 @@ E la mattina seguente, il giovane John Maple, svegliatosi tardi, si allarmò nel
 
 The English friends in the place told the lonely boy what he should do, but he was already almost competent to act. Cut off though he had been from the life of his kind, he had a singularly mature power of decision, and it was nerved now by a strange, tenacious feeling in which, as in a composite picture, were inextricably entwined the beloved memory of the face which he would never see again for ever (every detail of the funeral remained vivid all his life) — a profound sense of wrong done him, and a vague, quite formless, but astonishingly strong intention of action — what action he knew not, nor how it should be performed, nor where. Even in one so young, sudden and overwhelming grief adds to the vividness of life intolerably. By so much as he dwelt — more than in real experience itself — upon his father’s voice, gesture, everything — by so much was he acutely, violently sensitive to harsh alien things.
 
-His aunt had not come out for the funeral. She seemed to show an intolerable indifference. Bad as the immediate post-war conditions were, it was inexcusable. The letter he had received from her struck him like ice; though that woman had never written unkindly in her life, yet also she had never written kindly. The journey home in those strange, interrupted days of the spring of ‘19, with the delays and the broken glass in the carriages and the sleepless nights, felt like an approach to some doom. What would it be like? What would Rackham be like? What would it have become? He had a fairly clear memory of the place, though he had not seen it since he was a child — for five-and-a-half years. His father had told him very vaguely and in a few sentences that it “looked twice what it had been”; but he evidently did not like to dwell on any description. He had pictured to himself one or two consolations — meeting again with Corton, the old butler, and the rest of them — he supposed they were all still there — the familiar odd disjointed front of the house, half brick, half timber; the rank grass, the neglected field beyond the rusty iron palings, the ill-kept lawn which were for him not [[Decay|decay]], but Home.
+His aunt had not come out for the funeral. She seemed to show an intolerable indifference. Bad as the immediate post-war conditions were, it was inexcusable. The letter he had received from her struck him like ice; though that woman had never written unkindly in her life, yet also she had never written kindly. The journey home in those strange, interrupted days of the spring of ‘19, with the delays and the broken glass in the carriages and the sleepless nights, felt like an approach to some doom. What would it be like? What would Rackham be like? What would it have become? He had a fairly clear memory of the place, though he had not seen it since he was a child — for five-and-a-half years. His father had told him very vaguely and in a few sentences that it “looked twice what it had been”; but he evidently did not like to dwell on any description. He had pictured to himself one or two consolations — meeting again with Corton, the old butler, and the rest of them — he supposed they were all still there — the familiar odd disjointed front of the house, half brick, half timber; the rank grass, the neglected field beyond the rusty iron palings, the ill-kept lawn which were for him not [[motifs/decay|decay]], but Home.
 
 His first shock was at the station.
 
@@ -3768,7 +3768,7 @@ Lady Pattle liked pretty well everything, but if she liked one thing more than a
 
 Now God in His providence had at this very moment provided for Lady Pattle, and for England, precisely what was most needed in this line.
 
-Hamilcar Hellup had not begun life upon a few copper coins, still less had he walked as a barefoot child into New York, because he could not afford to ride. He had been born of a very good family — that is to say, of a family that had plenty of lineage (ten generations of it since the first settlers); moderate in fortune; once Puritan, now atheist, in religion. He had been brought up with the other lads of the village under that fine [[Tradition|tradition]] of social equality which for so long was, and still is, in unspoiled places, the [[Tradition|tradition]] of the United States. He had made a large fortune without selling any material objects that anyone had ever seen, dealing shrewdly in paper. He had never cheated anyone, to his knowledge. What is far more remarkable, very few people had cheated him; or, at any rate, very few with impunity.
+Hamilcar Hellup had not begun life upon a few copper coins, still less had he walked as a barefoot child into New York, because he could not afford to ride. He had been born of a very good family — that is to say, of a family that had plenty of lineage (ten generations of it since the first settlers); moderate in fortune; once Puritan, now atheist, in religion. He had been brought up with the other lads of the village under that fine [[concepts/tradition|tradition]] of social equality which for so long was, and still is, in unspoiled places, the [[concepts/tradition|tradition]] of the United States. He had made a large fortune without selling any material objects that anyone had ever seen, dealing shrewdly in paper. He had never cheated anyone, to his knowledge. What is far more remarkable, very few people had cheated him; or, at any rate, very few with impunity.
 
 His delight was to escape from New York and return at too brief intervals to the place of his birth: and there his confidant was a play-mate who had remained poor and cunning on the soil, one Hiram Jake. Hiram Jake remained in Hamilcar Hellup’s vision the symbol of his own people, and years later, when he stole back home on brief escapes from England, to talk of Mayfair to Hiram Jake over the broken fence of that citizen’s lot was cold water in the desert to the millionaire.
 
@@ -3783,7 +3783,7 @@ Now Hamilcar, being an American, knew all about such things. The Press of his na
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO III
+CAPITOLO III
 
 Nessuno sa come le giovani persone finiscano per cadere, né loro stesse, tanto meno di quanto lo sappiano i gatti gettati da un tetto. Coloro che sono usciti nel mondo da soli prima dei vent’anni sanno che succede, ma non possono dire altro.
 
@@ -3795,7 +3795,7 @@ A Lady Pattle piaceva praticamente tutto, ma se c'era qualcosa che le piaceva pi
 
 Ora, nella Sua provvidenza, Dio aveva appunto fornito a Lady Pattle, e all’Inghilterra, esattamente ciò di cui c’era più bisogno in quella situazione.
 
-Hamilcar Hellup non aveva iniziato la sua vita con poche monete di rame, e tanto meno era arrivato a New York da bambino a piedi, perché non poteva permettersi il viaggio in carrozza. Era nato in una famiglia molto rispettabile: cioè, in una famiglia con un’antica discendenza (dieci generazioni dai primi coloni); moderatamente benestante; un tempo puritano, ora ateo per quanto riguarda la religione. Era stato cresciuto insieme agli altri ragazzi del villaggio, seguendo quella nobile [[Tradition|tradizione]] di uguaglianza sociale che, in luoghi ancora incontaminati, è da sempre stata – e continua a essere – la vera tradizione degli Stati Uniti. Aveva accumulato una grande fortuna senza mai vendere oggetti materiali che qualcuno avesse mai visto prima, ma operando con astuzia nel campo dei titoli finanziari. Non aveva mai truffato nessuno, per quanto ne sapesse lui. E cosa ancora più notevole: pochissime persone lo avevano mai ingannato; o, almeno, pochissime erano riuscite a farlo senza essere scoperte.
+Hamilcar Hellup non aveva iniziato la sua vita con poche monete di rame, e tanto meno era arrivato a New York da bambino a piedi, perché non poteva permettersi il viaggio in carrozza. Era nato in una famiglia molto rispettabile: cioè, in una famiglia con un’antica discendenza (dieci generazioni dai primi coloni); moderatamente benestante; un tempo puritano, ora ateo per quanto riguarda la religione. Era stato cresciuto insieme agli altri ragazzi del villaggio, seguendo quella nobile [[concepts/tradition|tradizione]] di uguaglianza sociale che, in luoghi ancora incontaminati, è da sempre stata – e continua a essere – la vera tradizione degli Stati Uniti. Aveva accumulato una grande fortuna senza mai vendere oggetti materiali che qualcuno avesse mai visto prima, ma operando con astuzia nel campo dei titoli finanziari. Non aveva mai truffato nessuno, per quanto ne sapesse lui. E cosa ancora più notevole: pochissime persone lo avevano mai ingannato; o, almeno, pochissime erano riuscite a farlo senza essere scoperte.
 
 La sua gioia consisteva nel fuggire da New York e tornare, a intervalli troppo brevi, nel luogo della sua nascita: lì il suo confidente era un compagno di giochi che era rimasto povero ma astuto, un certo Hiram Jake. Per Hamilcar Hellup, Hiram Jake rappresentava il simbolo del proprio popolo; anni dopo, quando il milionario tornava brevemente in Inghilterra per poi rifugiarsi nuovamente a casa sua, parlare di Mayfair con Hiram Jake, oltre la recinzione rotta di quella umile dimora, era come gettare acqua fredda nel deserto.
 
@@ -4043,7 +4043,7 @@ The Old Man heard very clearly a voice from his own bunk. He was on the other si
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO IV
+CAPITOLO IV
 
 JOHN aveva iniziato con i suoi modesti risparmi di 352 sterline, ma quei soldi non avrebbero durato per sempre. Aveva avuto la saggezza di mettersi subito a lavorare: inizialmente accettò lavori occasionali come scrittore, guadagnando quasi nulla; poi aiutò un amico a correggere bozze; successivamente catalogò libri in una biblioteca (sebbene in modo piuttosto approssimativo), ma grazie alla sua buona conoscenza del francese e del tedesco riuscì comunque a guadagnare circa 30 sterline a settimana. In seguito, grazie alla gentilezza di un amico di suo padre, ottenne il lavoro di assistente dell’agente immobiliare di una proprietà; tuttavia non ricevette alcun stipendio, poiché si riteneva che quell’esperienza fosse già una ricompensa sufficiente. Quel lavoro non durò a lungo. Infine trascorse un periodo piuttosto lungo, usando un nome falso, in un progetto commerciale insieme a un conoscente teatrale che possedeva pochi risparmi; quel progetto fallì immediatamente. Fu un errore, ma sarebbe fallito comunque anche se fosse stato più ben pianificato.
 
@@ -4395,7 +4395,7 @@ A cataract of consequences was pouring before John Maple’s mind. Aunt Hilda as
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO V
+CAPITOLO V
 
 In questa fase ancora incompleta delle vicende di John Maple, con nessuna delle listelle ancora assemblate e senza alcuna possibilità evidente di far quadrare tutto, ma con grandi prospettive nell’unica cosa che conta per un ragazzo della sua età – ovvero il suo doppio talento e la possibilità di utilizzarlo – arrivò ancora un invito da parte di zia Hilda. Negli ultimi mesi era stato lì abbastanza spesso nei fine settimana, e era impossibile nasconderle che si guadagnava da vivere in qualche modo poco chiaro, sul piccolo palcoscenico. Anche se nessun altro nel suo mondo lo sapeva. Lei aveva rabbrividito e rifiutato di ascoltare qualsiasi dettaglio. Lui avrebbe superato questa ossessione per l’indipendenza. In ogni caso, era suo nipote: conosceva tutti e sapeva comportarsi in modo appropriato.
 
@@ -4451,7 +4451,7 @@ Bo annuì.
 
 “Stanno cacciando,” disse lei.
 
-# Chi sta cacciando?
+Chi sta cacciando?
 
 “Madre Bruvvish e Papà sono entrambi a caccia.”
 
@@ -4830,11 +4830,11 @@ Ma è giunto il momento di dissipare nell’immaginazione del mio lettore la mal
 
 CHAPTER VI
 
-GEORGE ADOLPHUS HUGGINS was born in a small street off the Old Kent-Road early in the 60’s of the last century. His first introduction to commercial life was made at the age of twelve as assistant to his father Jack, or, as one [[Tradition|tradition]] has it, Jim Huggins, who sold fruit and vegetables from a barrow in that neighbourhood.
+GEORGE ADOLPHUS HUGGINS was born in a small street off the Old Kent-Road early in the 60’s of the last century. His first introduction to commercial life was made at the age of twelve as assistant to his father Jack, or, as one [[concepts/tradition|tradition]] has it, Jim Huggins, who sold fruit and vegetables from a barrow in that neighbourhood.
 
 Upon the early demise of both his parents young Mr. Huggins took over the business, which remained undeveloped to close upon his fortieth year. Long before that he had married Matilda, or, as she was later called, Amathea, the daughter of another gentleman and lady in the same branch of commerce: a strong, full-bodied, upstanding young woman of whom he was very proud, and whose advice in all matters not connected with barter and exchange he was ready to follow. They were contented enough with their lot, suffered no more than the average number of conflicts with their neighbours, and but rarely allowed these to develop into physical violence.
 
-So late, therefore, as the beginning of King Edward’s reign there was nothing to distinguish the genius of George Adolphus Huggins. He seemed to be but one costermonger among so many in the great business life of London. But shortly after the end of the [[Boer War]] and King Edward’s Coronation appeared those manifestations of the exceptional power which is latent in every great man, and is bound to express itself at last, however tardily.
+So late, therefore, as the beginning of King Edward’s reign there was nothing to distinguish the genius of George Adolphus Huggins. He seemed to be but one costermonger among so many in the great business life of London. But shortly after the end of the [[historical-references/boer-war|Boer War]] and King Edward’s Coronation appeared those manifestations of the exceptional power which is latent in every great man, and is bound to express itself at last, however tardily.
 
 Mr. Huggins, having been chosen for unpaid secretary of a Goose Club which enjoyed a large membership, found himself in the decline of the year 1902 possessed of a very considerable capital in trust. Indeed, it was far more than all his own stock-in-trade was worth, and it is a great tribute to his sterling qualities that he should have been entrusted thus by his neighbours with so responsible a task.
 
@@ -4859,13 +4859,13 @@ It was impossible that some rumour of his good fortune should not have spread. H
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VI
+CAPITOLO VI
 
-George Adolphus Hugins nacque in una piccola strada vicino alla Old Kent-Road all’inizio degli anni ’60 del secolo scorso. La sua prima esperienza nel mondo commerciale avvenne all’età di dodici anni, quando lavorò come assistente di suo padre Jack – o, secondo una certa [[Tradition|tradizione]], Jim Hugins – che vendeva frutta e verdura da un carretto in quel quartiere.
+George Adolphus Hugins nacque in una piccola strada vicino alla Old Kent-Road all’inizio degli anni ’60 del secolo scorso. La sua prima esperienza nel mondo commerciale avvenne all’età di dodici anni, quando lavorò come assistente di suo padre Jack – o, secondo una certa [[concepts/tradition|tradizione]], Jim Hugins – che vendeva frutta e verdura da un carretto in quel quartiere.
 
 Alla precoce morte di entrambi i genitori, il giovane signor Huggins assunse la guida dell’attività commerciale, che rimase stagnante fino al compimento dei suoi quarant’anni. Molto prima di allora aveva sposato Matilda, o come fu poi chiamata Amathea, figlia di un altro gentiluomo e di una signora appartenenti allo stesso settore commerciale: una giovane donna robusta, piena di vita e onesta, di cui era molto orgoglioso, e le cui opinioni in tutte le questioni non legate al commercio accettava sempre volentieri. Erano abbastanza soddisfatti della loro sorte, non subivano più conflitti con i vicini del solito, e raramente questi si trasformavano in violenza fisica.
 
-Pertanto, così tardi nel corso del regno di Re Edoardo, non c’era nulla che potesse distinguere il genio di George Adolphus Huggins. Sembrava soltanto uno dei tanti commercianti di Londra, immerso nella frenetica vita economica della città. Ma poco dopo la fine della [[Boer War|Guerra Boer]] e la incoronazione di Re Edoardo, iniziarono ad emergere quelle manifestazioni di un potenziale eccezionale che è latente in ogni grande uomo e che, prima o poi, deve necessariamente manifestarsi, anche se con ritardo.
+Pertanto, così tardi nel corso del regno di Re Edoardo, non c’era nulla che potesse distinguere il genio di George Adolphus Huggins. Sembrava soltanto uno dei tanti commercianti di Londra, immerso nella frenetica vita economica della città. Ma poco dopo la fine della [[historical-references/boer-war|Guerra Boer]] e la incoronazione di Re Edoardo, iniziarono ad emergere quelle manifestazioni di un potenziale eccezionale che è latente in ogni grande uomo e che, prima o poi, deve necessariamente manifestarsi, anche se con ritardo.
 
 Il signor Huggins, essendo stato scelto come segretario non retribuito di un club che contava numerosi membri, si trovò, verso la fine del 1902, in possesso di un capitale considerevole affidatogli in custodia. In effetti, tale somma superava di gran lunga il valore di tutto il suo patrimonio personale; è davvero un grande riconoscimento delle sue qualità che i suoi vicini gli abbiano affidato una responsabilità così importante.
 
@@ -4966,7 +4966,7 @@ George, First Baron Mere de Beaurivage, therefore became the style and title of 
 
 It was remarked that his simplicity remained conspicuous in spite of his elevation. Thus he insisted on the plain pronunciation Mere de Bruvvish — or even Bruvvish alone — attaching to his new title, as it had to the village where he retired for the week-ends; and it was with difficulty that he could be persuaded to sign his name with a little “d” for the “de,” or to separate that particle from the main term of Beaurivage. He made no efforts to speak an English other than that to which he had been trained in childhood, and no one acquainted with the pride of our gentry will doubt me when I say that it was ready to receive him in his plain and rugged honesty as it would have been had he spoken in the most exquisite accents of the stage.
 
-In the now wide circle of their society the Mere de Beaurivages had been glad to discover a really intimate friend in Hilda Maple. There was a warm and affectionate sincerity in her relation towards Lady Mere de Beaurivage which Matilda — Amathea as she now was — sometimes missed in her grander acquaintances. She felt the atmosphere of Rackham Catchings to be homely. She admired the close admixture of every modern comfort with every ancient [[Tradition|tradition]] in these honourable walls — the Ancestor had got there a little before her — and she often said to herself and to her husband that when they should build themselves a proper place they would keep that model in mind.
+In the now wide circle of their society the Mere de Beaurivages had been glad to discover a really intimate friend in Hilda Maple. There was a warm and affectionate sincerity in her relation towards Lady Mere de Beaurivage which Matilda — Amathea as she now was — sometimes missed in her grander acquaintances. She felt the atmosphere of Rackham Catchings to be homely. She admired the close admixture of every modern comfort with every ancient [[concepts/tradition|tradition]] in these honourable walls — the Ancestor had got there a little before her — and she often said to herself and to her husband that when they should build themselves a proper place they would keep that model in mind.
 
 Moreover, she had an odd attachment to Sussex; perhaps because she had once been taken to the Downs behind Brighton for a Board School treat in her early youth, perhaps because an uncle of hers had been ostler in the then large stables of the Monarch at Byfield.
 
@@ -4989,7 +4989,7 @@ George, Primo Barone Mere de Beaurivage, divenne quindi lo stile e il titolo di 
 
 Si notò che la sua semplicità rimaneva evidente nonostante il suo rango elevato. Così, insisteva nel pronunciare il proprio nuovo titolo in modo semplice: “Mere de Bruvvish” – o addirittura soltanto “Bruvvish” – proprio come faceva per indicare il villaggio dove trascorreva i fine settimana. Fu solo con difficoltà che si poté convincerlo a scrivere il proprio nome con una piccola “d” per indicare la prefissa “de”, o a separare questa parte dal termine principale “Beaurivage”. Non fece alcuno sforzo per parlare un inglese diverso da quello che aveva imparato da bambino; e chi conoscesse l’orgoglio della nostra nobiltà non mi metterebbe in dubbio se affermassi che questa stessa nobiltà lo avrebbe accolto con la stessa apertura e sincerità, anche se avesse parlato con gli accenti più raffinati del teatro.
 
-Nel vasto cerchio sociale in cui ora si trovavano, i Mere de Beaurivages erano felici di aver scoperto un’amica davvero intima in Hilda Maple. Nel suo rapporto con Lady Mere de Beaurivage c’era una sincerità calda e affettuosa che Matilda – ormai chiamata Amathea – a volte le mancava tra i suoi conoscenti più importanti. Le sembrava che l’ambiente di Rackham Catchings fosse accogliente e familiare. Ammirava l’armoniosa fusione di ogni comodità moderna con le antiche [[Tradition|tradizioni]] in quelle onorevoli mura; il suo antenato vi era arrivato poco prima di lei. E spesso si diceva, sia a se stessa che a suo marito, che quando avrebbero costruito la loro casa definitiva, avrebbero tenuto presente quel modello.
+Nel vasto cerchio sociale in cui ora si trovavano, i Mere de Beaurivages erano felici di aver scoperto un’amica davvero intima in Hilda Maple. Nel suo rapporto con Lady Mere de Beaurivage c’era una sincerità calda e affettuosa che Matilda – ormai chiamata Amathea – a volte le mancava tra i suoi conoscenti più importanti. Le sembrava che l’ambiente di Rackham Catchings fosse accogliente e familiare. Ammirava l’armoniosa fusione di ogni comodità moderna con le antiche [[concepts/tradition|tradizioni]] in quelle onorevoli mura; il suo antenato vi era arrivato poco prima di lei. E spesso si diceva, sia a se stessa che a suo marito, che quando avrebbero costruito la loro casa definitiva, avrebbero tenuto presente quel modello.
 
 Inoltre, lei provava un legame strano per il Sussex; forse perché da giovane era stata portata nelle colline dietro Brighton come regalo da una scuola privata, o forse perché uno zio suo aveva lavorato come stalliere negli enormi stalle del Monarca a Byfield.
 
@@ -5037,7 +5037,7 @@ She had not answered the letter. She had temporised. And that made her mood more
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VII
+CAPITOLO VII
 
 Quell’fine settimana, SO JOHN MAPLE andò da zia Hilda. Ancora una volta si rifiutò categoricamente di cambiare idea riguardo a Spegel, decidendo di non tornare indietro dopo giovedì sera; in compenso, promise che martedì sarebbe andato nelle Province.
 
@@ -5197,7 +5197,7 @@ John disse che, per il suo bene, avrebbe fatto qualsiasi cosa.
 
 John la guardò con aria innocente.
 
-#Perché no? Chi sono loro?
+Perché no? Chi sono loro?
 
 “Lo sai benissimo, John,” disse lei. “Quell’uomo che era Sir George Huggins, che ha compiuto tante imprese meravigliose durante la guerra.”
 
@@ -5398,7 +5398,7 @@ The title of Hambourne is an ancient one. The first Lord Hambourne, son of a ric
 
 The title was revived by Henry VIII. towards the end of his reign, for the ennobling of John Heysham, who had carried out a great part of the confiscations in the north, and kept a sufficient proportion for himself. He had no heir, but his only daughter married a younger son of the Parkers of Luttbury, for whom the title was revived by Elizabeth. He was a great deal at the Court attracting the attention of the Queen, after the early death of his wife — some say by poison, others by disease. He died at the early age of forty-three. He left no heir.
 
-The title was revived by Charles II. as a reward for the loyalty of Sir William Malling, a Rutlandshire squire, who had devoted his fortune to Charles I.’s cause. His son, the second Lord Hambourne of the third creation, was true to the family [[Tradition|tradition]] and accompanied James II. into exile. After years of struggling with poverty in the Rue de Fouare, in Paris, he died, it is to be feared of malnutrition, leaving no heir.
+The title was revived by Charles II. as a reward for the loyalty of Sir William Malling, a Rutlandshire squire, who had devoted his fortune to Charles I.’s cause. His son, the second Lord Hambourne of the third creation, was true to the family [[concepts/tradition|tradition]] and accompanied James II. into exile. After years of struggling with poverty in the Rue de Fouare, in Paris, he died, it is to be feared of malnutrition, leaving no heir.
 
 The title was revived in the early days of George III. by the managers for that monarch, who, having a pressing need for support in the House of Commons, thought it only their duty to close the long and honourable career of Henry Porter, a large shipmaster turned squire, five times member for King’s Lynn — of whose burgesses he could always purchase a considerable majority. He had doggedly voted in the Court interest until he was thus raised to the peerage.
 
@@ -5406,7 +5406,7 @@ When the question of choosing his title arose, a local gentleman of antiquity an
 
 From that day to this, for four whole generations, the title has never failed. The family fortune was dissipated by the second Lord Hambourne (of the fifth creation) partly in entertaining the Regent, partly by losing money at cards to the Regent’s more intelligent friends. The title passed, just before the accession of Queen Victoria, to a cousin, possessed of an annuity of some £800 a year and a pleasant house with an orchard in Kent.
 
-His eldest son, after a life of honest toil in the Civil Service, died childless — and of course impecunious. The title passed, just before the [[Boer War]], to a then young man his nephew, who had just been elected to a classical Fellowship at Burford College. The lad was not without initiative; straitened circumstances had perhaps sharpened his wits; but anyhow, while he was making it his business to talk psychology, to buy books on psychology, to speak in debates on psychology, and even to attend the foreign congresses on psychology, certain of his friends were persuading The Turtle Eaters Company that Oxford was perishing for the lack of a Chair in Psychology; so when that Chair must be filled, what claim more obvious than Lord Hambourne’s? The envious who pointed out how little he knew even of a subject on which there is so little to be known were silenced by the very true retort that the other candidates knew nothing.
+His eldest son, after a life of honest toil in the Civil Service, died childless — and of course impecunious. The title passed, just before the [[historical-references/boer-war|Boer War]], to a then young man his nephew, who had just been elected to a classical Fellowship at Burford College. The lad was not without initiative; straitened circumstances had perhaps sharpened his wits; but anyhow, while he was making it his business to talk psychology, to buy books on psychology, to speak in debates on psychology, and even to attend the foreign congresses on psychology, certain of his friends were persuading The Turtle Eaters Company that Oxford was perishing for the lack of a Chair in Psychology; so when that Chair must be filled, what claim more obvious than Lord Hambourne’s? The envious who pointed out how little he knew even of a subject on which there is so little to be known were silenced by the very true retort that the other candidates knew nothing.
 
 With the Great War came his opportunity. It was admitted on all sides that he had procured for his country the great advantage of the only telepathic system among the Allies which could compare with the splendid organisation of the Germans. And while Ragensdorp in Leipsig was reading, with the success that has rendered him famous, the deep strategic thoughts of one British Minister after another during those four and a half years, Lord Hambourne with far greater success was reading the strategic thoughts of Hindenburg, Ludendorf and Falkenhayn and communicating them daily to the Cabinet. On the Continent his powers were less appreciated, and it is to be feared that the prolongation of the struggle was largely due to the failure of the Italians and French to do credit to a science with which they were as yet unfamiliar.
 
@@ -5425,7 +5425,7 @@ He was a very sensible man. He kept very careful accounts. He calculated that th
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VIII
+CAPITOLO VIII
 
 I TRE PEZZI della sua festa del fine settimana dovevano essere consegnati separatamente alla signora Maple in tre lotti. Lei era comunque molto soddisfatta: in questo modo le risultava più facile mescolarli tutti insieme.
 
@@ -5443,7 +5443,7 @@ Quando si pose la questione di scegliere il suo titolo, un gentiluomo locale, no
 
 Da quel giorno fino ad oggi, per ben quattro generazioni consecutive, il titolo non è mai venuto meno. La fortuna familiare fu dissipata dal secondo Lord Hambourne (della quinta generazione): in parte a causa delle spese sostenute per intrattenere il Reggente, in parte a causa delle perdite al gioco d’azzardo contro gli amici più intelligenti del Reggente stesso. Il titolo passò, poco prima dell’ascesa al trono della Regina Vittoria, a un cugino che disponeva di un reddito annuo di circa 800 sterline e di una graziosa casa con un orto nel Kent.
 
-Il suo figlio maggiore, dopo una vita di onesto lavoro nel Servizio Civile, morì senza eredi – e naturalmente senza un soldo. Il titolo passò, poco prima della [[Boer War|Guerra Boera]], a un giovane nipote che aveva appena ottenuto una borsa di studio presso il Burford College. Il ragazzo non mancava di iniziativa; le difficoltà economiche forse avevano affilato la sua intelligenza; comunque, mentre si dedicava con assiduità allo studio della psicologia, acquistando libri sull’argomento, partecipando a dibattiti e persino frequentando congressi internazionali in materia, alcuni dei suoi amici persuadevano la “The Turtle Eaters Company” che Oxford stesse per morire a causa della mancanza di una cattedra di psicologia; quindi, quando sarebbe arrivato il momento di occuparla, quale candidato più ovvio di Lord Hambourne? Coloro che osservavano quanto poco sapesse su un argomento su cui in realtà non c’è molto da sapere furono zittiti dalla risposta semplice e vera: anche gli altri candidati non sapevano nulla.
+Il suo figlio maggiore, dopo una vita di onesto lavoro nel Servizio Civile, morì senza eredi – e naturalmente senza un soldo. Il titolo passò, poco prima della [[historical-references/boer-war|Guerra Boera]], a un giovane nipote che aveva appena ottenuto una borsa di studio presso il Burford College. Il ragazzo non mancava di iniziativa; le difficoltà economiche forse avevano affilato la sua intelligenza; comunque, mentre si dedicava con assiduità allo studio della psicologia, acquistando libri sull’argomento, partecipando a dibattiti e persino frequentando congressi internazionali in materia, alcuni dei suoi amici persuadevano la “The Turtle Eaters Company” che Oxford stesse per morire a causa della mancanza di una cattedra di psicologia; quindi, quando sarebbe arrivato il momento di occuparla, quale candidato più ovvio di Lord Hambourne? Coloro che osservavano quanto poco sapesse su un argomento su cui in realtà non c’è molto da sapere furono zittiti dalla risposta semplice e vera: anche gli altri candidati non sapevano nulla.
 
 Con la Grande Guerra arrivò la sua opportunità. Tutti riconobbero che aveva fornito al proprio paese un grande vantaggio: l’unico sistema telepatico tra gli Alleati in grado di competere con l’eccellente organizzazione dei tedeschi. Mentre Ragensdorp a Lipsia leggeva, con successo tale da renderlo famoso, i profondi pensieri strategici di uno dopo l’altro ministro britannico durante quei quattro anni e mezzo, Lord Hambourne riusciva ancora più efficacemente a decifrare le intenzioni strategiche di Hindenburg, Ludendorf e Falkenhayn, comunicandole quotidianamente al Gabinetto. Nel Continente, invece, i suoi poteri furono meno apprezzati; si teme che la prolungazione della guerra sia stata in gran parte dovuta al fallimento degli italiani e dei francesi nel sfruttare a pieno una scienza di cui ancora non conoscevano appieno le possibilità.
 
@@ -5690,12 +5690,12 @@ He nodded.
 
 “More than they want,” he said, “much more than they can bear, Bo.”
 
-“’Tisn’t ‘they,’” said Bo, “it’s him. The aged Bruvvish. Pop wouldn’t stand for it. He’s unknown to fear, is my Lord Hellup. He’s as brave as the lion-tamer’s wife. There are few [[Ghosts|ghosts]] on Manhattan Island, Jacko. It’s the other one you’re for, and that’ll spoil Aunt Hilda’s market. Badly. D’ye get me? I’ll fix Pop. He shan’t bid. He shall chorus the apparition.”
+“’Tisn’t ‘they,’” said Bo, “it’s him. The aged Bruvvish. Pop wouldn’t stand for it. He’s unknown to fear, is my Lord Hellup. He’s as brave as the lion-tamer’s wife. There are few [[motifs/ghosts|ghosts]] on Manhattan Island, Jacko. It’s the other one you’re for, and that’ll spoil Aunt Hilda’s market. Badly. D’ye get me? I’ll fix Pop. He shan’t bid. He shall chorus the apparition.”
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO IX
+CAPITOLO IX
 
 Nei domenici mattini, Lord e Lady Mere de Beaurivage andavano in chiesa. Partecipavano alla Messa. In città questo avveniva spesso nel pomeriggio (non appartenevano infatti a quella generazione che praticava la comunione durante il digiuno), ma in campagna (e le persone di tale alto rango trascorrevano la maggior parte dei domenici in campagna) ricevevano i conforti della religione dalle undici fino quasi all’ora di pranzo. Provavano ancora una certa novità riguardo alla Chiesa d’Inghilterra, perché ciò che iniziamo dopo i quarant’anni conserva sempre un certo fascino per il resto della nostra vita.
 
@@ -5709,7 +5709,7 @@ Mentre tornavano a Rackham Catchings da Rackham Church (percorrendo un lungo gir
 
 “È un uomo meraviglioso, Amathea,” sospirò Hilda con aria sognante. “Avrebbe potuto avere una carriera molto importante se si fosse fermato a Londra, ” (Beh, lettore, di cosa vi lamentate? Ealing fa parte di Londra, no?) “Ma ha detto di aver avuto un qualche presentimento che lo spingesse ad venire qui. E quando l’ho saputo,” aggiunse semplicemente, “naturalmente ho pensato fosse mio dovere assicurargli le condizioni necessarie per vivere.” (Oh, donna malvagia. Lui era già stato messo in quella situazione molto prima che lei avesse qualcosa a che fare con tutto ciò!)
 
-# A chi appartiene Amathea
+A chi appartiene Amathea
 
 “Carissima Hilda! Tu sei sempre stata così devota verso la chiesa. Hai ragione! Non ho spesso ascoltato prediche migliori di queste. Erano sincere, venivano dal cuore, per così dire, ”
 
@@ -5745,7 +5745,7 @@ Annuì.
 
 “Più di quanto desiderino”, disse, “molto più di quanto possano sopportare, Bo.”
 
-“Non sono ‘loro’,” disse Bo, “è lui, quel vecchio Bruvvish. Papà non lo avrebbe mai permesso. Non conosce la paura, mio signore Hellup. È coraggioso quanto la moglie del domatore di leoni. Ci sono pochi [[Ghosts|fantasmi]] sull’Isola di Manhattan, Jacko. Quello che stai cercando è l’altro. E quello rovinerà completamente il mercato di zia Hilda. Capisci? Io sistemerò papà. Non farà alcuna offerta. Sarà lui stesso ad affrontare quell’apparizione, ”
+“Non sono ‘loro’,” disse Bo, “è lui, quel vecchio Bruvvish. Papà non lo avrebbe mai permesso. Non conosce la paura, mio signore Hellup. È coraggioso quanto la moglie del domatore di leoni. Ci sono pochi [[motifs/ghosts|fantasmi]] sull’Isola di Manhattan, Jacko. Quello che stai cercando è l’altro. E quello rovinerà completamente il mercato di zia Hilda. Capisci? Io sistemerò papà. Non farà alcuna offerta. Sarà lui stesso ad affrontare quell’apparizione, ”
 
 
 
@@ -6205,7 +6205,7 @@ There was a pause upon the gravel, and the two ladies made their majestic progre
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO X
+CAPITOLO X
 
 Amathea, prima baronessa de Beaurivage, stava in estasi sul prato, tenendo saldamente il braccio della sua adorata Hilda nel gomito del proprio — due bracci forti e intrecciati. Nonostante la grossezza e la cortezza del suo collo, teneva leggermente la testa da un lato, in parte a causa dell’intensità delle sue emozioni, ma soprattutto perché era convinta che tale posizione fosse appropriata all’occasione.
 
@@ -6483,7 +6483,7 @@ The bell rang twice.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XI
+CAPITOLO XI
 
 John Maple cercò Corton. Lo trovò in quella stanza privata, accanto al camino, intento a leggere “The Spectator” con tranquillità e distacco. Era l’ora in cui i maggiordomi si rilassano. Quella figura dignitosa si alzò con grande cortesia non appena il giovane bussò e entrò.
 
@@ -7187,7 +7187,7 @@ But George Huggins, first Baron de Beaurivage was in a hurry.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XII
+CAPITOLO XII
 
 La sera era ormai molto avanzata. Era da tempo che le signore avrebbero dovuto andare a vestirsi, soprattutto in una casa come quella di Hilda Maple, dove tutto veniva organizzato con cura, rapidamente e puntualmente. Ma oggi era un giorno eccezionale.
 
@@ -7469,7 +7469,7 @@ Bo kindly determined to bear him company in his loneliness.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XIII
+CAPITOLO XIII
 
 Mentre si vestiva nella sua camera da letto, povero Lord Mere de Beaurivage non era affatto soddisfatto.
 
@@ -7633,7 +7633,7 @@ Isabeau arrossì improvvisamente, con un'espressione sorpresa.
 
 Passò accanto a John, mormorandogli: “Fatto!” Poi, ad alta voce e in modo piuttosto audace, disse davanti a tutti:
 
-#Un presentimento… Sta per succedere qualcosa!
+Un presentimento… Sta per succedere qualcosa!
 
 John Maple lasciò i giocatori di bridge, che solo per un momento alzarono lo sguardo dal loro gioco, e si sedette nel posto lasciato libero da Bo, accanto al suo ospite.
 
@@ -7659,7 +7659,7 @@ L’inevitabile Hambourne intervenne proprio nel momento in cui era meno desider
 
 “Davvero, Lord Hambourne,” disse la sua ospite, un po’ troppo bruscamente. “Non posso suonare se continuate a parlare in questo modo. Non riesco a fare due cose contemporaneamente.”
 
-# Lady de Beaurivage era una marionetta… Sentì suo marito sussurrarle: “Mattie!”
+Lady de Beaurivage era una marionetta… Sentì suo marito sussurrarle: “Mattie!”
 
 “Che c’è,” disse lei avvicinandosi a lui.
 
@@ -7718,7 +7718,7 @@ Il gruppo riunito sul ponte si guardò intorno: quella meravigliosa moglie inter
 
 “‘Ow was ’e took?” said the worthy woman to John Maple.
 
-“It’s nothing. I’m sure it’s nothing, Lady Mere,” said John, on his feet. “It was something … The night … and this talk of [[Ghosts|ghosts]] has made him nervous.”
+“It’s nothing. I’m sure it’s nothing, Lady Mere,” said John, on his feet. “It was something … The night … and this talk of [[motifs/ghosts|ghosts]] has made him nervous.”
 
 “Mattie,” said the poor man in a low voice, “Mattie, I must go to bed. You’ll excuse me, ma’am,” he added, turning to his hostess, “but I’m that tired. I’m not as young as I was.”
 
@@ -7815,7 +7815,7 @@ This was too much for Lady de Beaurivage.
 
 “‘Che dolore, come se gli fosse stato tolto qualcosa?’ disse la gentile donna a John Maple.”
 
-“Non è nulla. Sono sicuro che non sia nulla, Lady Mere,” disse John alzandosi in piedi. “È stato qualcosa. Quella notte. E tutte queste storie di [[Ghosts|fantasmi]] lo hanno reso nervoso.”
+“Non è nulla. Sono sicuro che non sia nulla, Lady Mere,” disse John alzandosi in piedi. “È stato qualcosa. Quella notte. E tutte queste storie di [[motifs/ghosts|fantasmi]] lo hanno reso nervoso.”
 
 “Mattie,” disse l’uomo povero a bassa voce, “Mattie, devo andare a letto. Le chiedo scusa, signora,” aggiunse rivolgendosi alla sua ospite, “ma sono davvero troppo stanco. Non sono più giovane come una volta.”
 
@@ -8089,7 +8089,7 @@ Three of the menservants hoisted the motionless form and got it on to the bed. H
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XIV
+CAPITOLO XIV
 
 Al piano di sopra, nella sua camera da letto, quel povero vecchio solitario – solitario, tranne che per sua moglie (e quanto fosse grato per il modo in cui lo aveva trattato, e per quello sguardo che gli aveva rivolto mentre lui saliva faticosamente le scale) – sedeva ad aspettare di riprendersi dopo quella salita. Le scale rappresentavano ora un grande problema per lui, la sua salute stava peggiorando, pensò. Forse era proprio questo il motivo delle sensazioni che provava, di ciò che credeva di aver sentito; e si strinse nelle spalle. Non si sarebbe spogliato subito, avrebbe riposato un po’, solo per riprendersi un attimo, poi si sarebbe rivestito. Allora si sarebbe sentito più in forza.
 
@@ -8187,7 +8187,7 @@ In the grey light of morning Lord Hambourne had taken up the telephone again. He
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XV
+CAPITOLO XV
 
 Quella notte, il mondo di Rackham cambiò completamente: messaggeri che andavano avanti e indietro; il telefono che non smetteva di suonare; un'infermiera dell’Ospedale Cottage; un'altra infermiera chiamata d’urgenza da Lewes; il medico locale, che si era alzato in fretta dopo una notte insonne e che, appena sentito il nome del suo paziente, fu travolto dalla gioia. Lanterne che andavano avanti e indietro nella notte primaverile, mentre persone venivano inviate a svolgere compiti diversi; motori che ronzavano, vibravano, emettevano suoni stridenti. Tutti gli esseri umani erano svegliati in modo innaturale.
 
@@ -8575,7 +8575,7 @@ Bringing up the rear from the head of the stairs and commanding all things, his 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XVI
+CAPITOLO XVI
 
 BO, rientrando in casa, incontrò Betsy Broom. Betsy non si era ancora ripresa dallo shock (ricordiamo che era ancora molto presto la mattina); aveva appena lasciato la presenza del Professor. Emise un altro piccolo strillo e stava per ripetere uno dei suoi trucchi con la scopa e il secchio, quando Bo la fermò.
 
@@ -8799,7 +8799,7 @@ A Hilda non era nemmeno dato il tempo di riprendere fiato che, a sua volta, appa
 
 “Suppongo che mi farà bene,” rispose con una voce ancora debole. “Mi sento più morta che viva.”
 
-#Respirava affannosamente… Poi disse:
+Respirava affannosamente… Poi disse:
 
 “Beh, John…”
 

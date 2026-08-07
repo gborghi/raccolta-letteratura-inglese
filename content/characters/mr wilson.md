@@ -14,4 +14,10 @@ Provost of Bayswater and toy/umbrella merchant who becomes an allied Provost-gen
 
 <div class="concept-works" data-slug="characters/mr-wilson"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/napoleon-of-notting-hill-(chesterton)|Napoleon of Notting Hill (Chesterton)]]
+
+</div>
+
 #graph/character

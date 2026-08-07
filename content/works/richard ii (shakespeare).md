@@ -36,7 +36,7 @@ tags:
   - character/mowbray
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Crown · Pride · Fortune's Wheel]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/crown-·-pride-·-fortune's-wheel|Crown · Pride · Fortune's Wheel]]
 
 > [!abstract] 
 > Lyrical history play, entirely in verse, on the deposition and murder of the introverted King Richard II by Bolingbroke. Central themes: kingship and legitimacy, the divine right and fall of a king, identity, time, and the deposition's political resonance.
@@ -65,14 +65,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Fortune's Wheel]], [[Great Chain of Being]]
-**Archetypes:** [[King]], [[Usurper]]
-**Motifs:** [[Crown]], [[Mirror]], [[Garden]]
-**Themes & Concepts:** [[Kingship and Legitimacy]], [[Power and Corruption]], [[Identity]], [[Guilt]], [[Providence]], [[Order vs Chaos]], [[Grief and Loss]]
-**Forms & Genres:** [[History Play]], [[Tragedy]], [[Blank Verse]], [[Lyric]]
-**Historical References:** [[Medieval England]]
-**Settings:** [[Court]]
-**Characters:** [[Richard II]], [[Henry Bolingbroke]], [[John of Gaunt]], [[Duke of York]], [[Queen Isabel]], [[Duke of Aumerle]], [[Mowbray]]
+**Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/great-chain-of-being|Great Chain of Being]]
+**Archetypes:** [[archetypes/king|King]], [[archetypes/usurper|Usurper]]
+**Motifs:** [[motifs/crown|Crown]], [[motifs/mirror|Mirror]], [[motifs/garden|Garden]]
+**Themes & Concepts:** [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/identity|Identity]], [[concepts/guilt|Guilt]], [[concepts/providence|Providence]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/grief-and-loss|Grief and Loss]]
+**Forms & Genres:** [[forms/history-play|History Play]], [[forms/tragedy|Tragedy]], [[forms/blank-verse|Blank Verse]], [[forms/lyric|Lyric]]
+**Historical References:** [[historical-references/medieval-england|Medieval England]]
+**Settings:** [[settings/court|Court]]
+**Characters:** [[characters/richard-ii|Richard II]], [[characters/henry-bolingbroke|Henry Bolingbroke]], [[characters/john-of-gaunt|John of Gaunt]], [[characters/duke-of-york|Duke of York]], [[characters/queen-isabel|Queen Isabel]], [[characters/duke-of-aumerle|Duke of Aumerle]], [[characters/mowbray|Mowbray]]
 
 ## Testo integrale / Full text
 

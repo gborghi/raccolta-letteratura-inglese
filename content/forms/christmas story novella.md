@@ -12,4 +12,12 @@ tags:
 
 <div class="concept-works" data-slug="forms/christmas-story-novella"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/charlesdickens-(chesterton)|CharlesDickens (Chesterton)]]
+- [[works/dickens-britannica-(chesterton)|dickens Britannica (Chesterton)]]
+- [[works/a-christmas-carol-(dickens)|A Christmas Carol (Dickens)]]
+
+</div>
+
 #graph/form

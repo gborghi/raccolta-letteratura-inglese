@@ -14,4 +14,10 @@ Ahmed, the fanatical prophet-founder of the Mahdist theocracy at Omdurman whose 
 
 <div class="concept-works" data-slug="characters/the-mahdi"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lordkitchener-(chesterton)|LordKitchener (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/charles-darnay"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/a-tale-of-two-cities-(dickens)|A Tale of Two Cities (Dickens)]]
+
+</div>
+
 #graph/character

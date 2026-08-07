@@ -26,32 +26,32 @@ An abridged version of a chapter in Chesterton's book The Defendant.
 
 If a prosperous modern man, with a high hat and a frock-coat,
 were to solemnly pledge himself before all his clerks and friends
-to count the [[Leaves|leaves]] on every third tree in Holland Walk, to hop
-up to the [[City]] on one leg every [[thursday|Thursday]], to repeat the whole
+to count the [[motifs/leaves|leaves]] on every third tree in Holland Walk, to hop
+up to the [[motifs/city|City]] on one leg every Thursday, to repeat the whole
 of Mill's ‘Liberty' seventy-six times, to collect 300 dandelions
 in fields belonging to anyone of the name of Brown, to remain
 for thirty-one hours holding his left ear in his right hand, to sing
 the names of all his aunts in order of age on the top of an omnibus,
 or make any such unusual undertaking, we should immediately conclude
 that the man was mad, or, as it is sometimes expressed, was ‘an
-[[artist]] in life.'  Yet these vows are not more extraordinary than
+[[archetypes/artist|artist]] in life.'  Yet these vows are not more extraordinary than
 the vows which in the Middle Ages and in similar periods were made,
 not by fanatics merely, but by the greatest figures in civic
 and national civilization--by kings, judges, poets, and priests.
-One man swore to chain two [[Mountains|mountains]] together, and the great
+One man swore to chain two [[settings/mountains|mountains]] together, and the great
 chain hung there, it was said, for ages as a monument of that
 mystical folly.  Another swore that he would find his way to
 Jerusalem with a patch over his eyes, and died looking for it.
 It is not easy to see that these two exploits, judged from a strictly
 rational standpoint, are any saner than the acts above suggested.
 A mountain is commonly a stationary and reliable object which it
-is not necessary to chain up at [[Night|night]] like a dog.  And it is not
+is not necessary to chain up at [[motifs/night|night]] like a dog.  And it is not
 easy at first sight to see that a man pays a very high compliment
-to the Holy [[City]] by setting out for it under conditions which render
+to the Holy [[motifs/city|City]] by setting out for it under conditions which render
 it to the last degree improbable that he will ever get there.
 
 But about this there is one striking thing to be noticed.
-If men behaved in that way in our [[Time|time]], we should, as we have said,
+If men behaved in that way in our [[motifs/time|time]], we should, as we have said,
 regard them as symbols of the ‘decadence.' But the men who did
 these things were not decadent; they belonged generally to the most
 robust classes of what is generally regarded as a robust age.
@@ -97,37 +97,37 @@ More deaths than one must die.'
 
 And the end of all this is that maddening horror of unreality
 which descends upon the decadents, and compared with which physical
-[[Pain|pain]] itself would have the freshness of a youthful thing.
-The one hell which [[Imagination|imagination]] must conceive as most hellish is to be
+[[motifs/pain|pain]] itself would have the freshness of a youthful thing.
+The one hell which [[concepts/imagination|imagination]] must conceive as most hellish is to be
 eternally acting a play without even the narrowest and dirtiest greenroom
 in which to be human.  And this is the condition of the decadent,
-of the aesthete, of the free-[[Lover|lover]]. To be everlastingly passing through
+of the aesthete, of the free-[[archetypes/lover|lover]]. To be everlastingly passing through
 dangers which we know cannot scare us, to be taking oaths which we
 know cannot bind us, to defying enemies who we know cannot conquer us--
-this is the grinning tyranny of decadence which is called [[Freedom|freedom]].
+this is the grinning tyranny of decadence which is called [[concepts/freedom|freedom]].
 
 Let us turn, on the other hand, to the maker of vows.
 The man who made a vow, however wild, gave a healthy and natural
-expression to the [[Greatness|greatness]] of a great moment.  He vowed, for example,
-to chain two [[Mountains|mountains]] together, perhaps a symbol of some great
-relief of [[Love|love]], or [[Aspiration|aspiration]].  Short as the moment of his resolve
-might be, it was, like all great moments, a moment of [[Immortality|immortality]],
-and the [[Desire|desire]] to say of it exegi monumentum aere perennius
+expression to the [[concepts/greatness|greatness]] of a great moment.  He vowed, for example,
+to chain two [[settings/mountains|mountains]] together, perhaps a symbol of some great
+relief of [[motifs/love|love]], or [[concepts/aspiration|aspiration]].  Short as the moment of his resolve
+might be, it was, like all great moments, a moment of [[concepts/immortality|immortality]],
+and the [[motifs/desire|desire]] to say of it exegi monumentum aere perennius
 was the only sentiment that would satisfy his mind.  The modern
 aesthetic man would, of course, easily see the emotional opportunity;
-he would vow to chain two [[Mountains|mountains]] together.  But, then, he would
-quite as cheerfully vow to chain the earth to the [[Moon|moon]].
+he would vow to chain two [[settings/mountains|mountains]] together.  But, then, he would
+quite as cheerfully vow to chain the earth to the [[motifs/moon|moon]].
 And the withering consciousness that he did not mean what he said,
-that he was, in [[Truth|truth]], saying nothing of any great import,
+that he was, in [[concepts/truth|truth]], saying nothing of any great import,
 would take from him exactly that sense of daring actuality which is
 the excitement of a vow.
 
 The revolt against vows has been carried in our day even to
-the extent of a revolt against the typical vow of [[Marriage|marriage]].
-It is most amusing to listen to the opponents of [[Marriage|marriage]] on this subject.
+the extent of a revolt against the typical vow of [[motifs/marriage|marriage]].
+It is most amusing to listen to the opponents of [[motifs/marriage|marriage]] on this subject.
 They appear to imagine that the ideal of constancy was a yoke
 mysteriously imposed on mankind by the devil, instead of being,
-as it is, a yoke consistently imposed by all [[lovers]] on themselves.
+as it is, a yoke consistently imposed by all lovers on themselves.
 They have invented a phrase, a phrase that is a black and white
 contradiction in two words--‘free-love'--as if a lover ever
 had been, or ever could be, free.  It is the nature of love
@@ -151,19 +151,19 @@ the fragrance of sacred purity without the sorrows of self-restraint;
 let us sing hymns alternately to the Virgin and Priapus.'  Thus in
 love the free-lovers say:  ‘Let us have the splendour of offering
 ourselves without the peril of committing ourselves; let us see
-whether one cannot commit [[suicide]] an unlimited number of times.'
+whether one cannot commit [[concepts/suicide|suicide]] an unlimited number of times.'
 
 Emphatically it will not work.  There are thrilling moments,
 doubtless, for the spectator, the amateur, and the aesthete;
 but there is one thrill that is known only to the soldier who fights
-for his own [[Flag|flag]], to the aesthetic who starves himself for his
-own illumination, to the [[Lover|lover]] who makes finally his own choice.
-And it is this transfiguring [[Self|self]]-discipline that makes the vow
+for his own [[motifs/flag|flag]], to the aesthetic who starves himself for his
+own illumination, to the [[archetypes/lover|lover]] who makes finally his own choice.
+And it is this transfiguring [[concepts/self|self]]-discipline that makes the vow
 a truly sane thing.  It must have satisfied even the giant hunger
-of the [[Soul|soul]] of a [[Lover|lover]] or a poet to know that in consequence
+of the [[motifs/soul|soul]] of a [[archetypes/lover|lover]] or a poet to know that in consequence
 of some one instant of decision that strange chain would hang
-for centuries in the Alps among the silences of [[Stars|stars]] and snows.
-All around us is the [[City|city]] of small sins, abounding in backways
+for centuries in the Alps among the silences of [[motifs/stars|stars]] and snows.
+All around us is the [[motifs/city|city]] of small sins, abounding in backways
 and retreats, but surely, sooner or later, the towering flame
 will rise from the harbour announcing that the reign of the cowards
 is over and a man is burning his ships.
@@ -188,32 +188,32 @@ An abridged version of a chapter in Chesterton's book The Defendant.
 
 If a prosperous modern man, with a high hat and a frock-coat,
 were to solemnly pledge himself before all his clerks and friends
-to count the [[Leaves|leaves]] on every third tree in Holland Walk, to hop
-up to the [[City]] on one leg every [[thursday|Thursday]], to repeat the whole
+to count the [[motifs/leaves|leaves]] on every third tree in Holland Walk, to hop
+up to the [[motifs/city|City]] on one leg every Thursday, to repeat the whole
 of Mill's ‘Liberty' seventy-six times, to collect 300 dandelions
 in fields belonging to anyone of the name of Brown, to remain
 for thirty-one hours holding his left ear in his right hand, to sing
 the names of all his aunts in order of age on the top of an omnibus,
 or make any such unusual undertaking, we should immediately conclude
 that the man was mad, or, as it is sometimes expressed, was ‘an
-[[artist]] in life.'  Yet these vows are not more extraordinary than
+[[archetypes/artist|artist]] in life.'  Yet these vows are not more extraordinary than
 the vows which in the Middle Ages and in similar periods were made,
 not by fanatics merely, but by the greatest figures in civic
 and national civilization--by kings, judges, poets, and priests.
-One man swore to chain two [[Mountains|mountains]] together, and the great
+One man swore to chain two [[settings/mountains|mountains]] together, and the great
 chain hung there, it was said, for ages as a monument of that
 mystical folly.  Another swore that he would find his way to
 Jerusalem with a patch over his eyes, and died looking for it.
 It is not easy to see that these two exploits, judged from a strictly
 rational standpoint, are any saner than the acts above suggested.
 A mountain is commonly a stationary and reliable object which it
-is not necessary to chain up at [[Night|night]] like a dog.  And it is not
+is not necessary to chain up at [[motifs/night|night]] like a dog.  And it is not
 easy at first sight to see that a man pays a very high compliment
-to the Holy [[City]] by setting out for it under conditions which render
+to the Holy [[motifs/city|City]] by setting out for it under conditions which render
 it to the last degree improbable that he will ever get there.
 
 But about this there is one striking thing to be noticed.
-If men behaved in that way in our [[Time|time]], we should, as we have said,
+If men behaved in that way in our [[motifs/time|time]], we should, as we have said,
 regard them as symbols of the ‘decadence.' But the men who did
 these things were not decadent; they belonged generally to the most
 robust classes of what is generally regarded as a robust age.
@@ -259,14 +259,14 @@ More deaths than one must die.'
 
 And the end of all this is that maddening horror of unreality
 which descends upon the decadents, and compared with which physical
-[[Pain|pain]] itself would have the freshness of a youthful thing.
-The one hell which [[Imagination|imagination]] must conceive as most hellish is to be
+[[motifs/pain|pain]] itself would have the freshness of a youthful thing.
+The one hell which [[concepts/imagination|imagination]] must conceive as most hellish is to be
 eternally acting a play without even the narrowest and dirtiest greenroom
 in which to be human.  And this is the condition of the decadent,
-of the aesthete, of the free-[[Lover|lover]]. To be everlastingly passing through
+of the aesthete, of the free-[[archetypes/lover|lover]]. To be everlastingly passing through
 dangers which we know cannot scare us, to be taking oaths which we
 know cannot bind us, to defying enemies who we know cannot conquer us--
-this is the grinning tyranny of decadence which is called [[Freedom|freedom]].
+this is the grinning tyranny of decadence which is called [[concepts/freedom|freedom]].
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -283,32 +283,32 @@ Versione abbreviata di un capitolo del libro di Chesterton The Defendant.
 
 Se un prospero uomo moderno, con cilindro e finanziera,
 si impegnasse solennemente dinanzi a tutti i suoi impiegati e amici
-a contare le [[Leaves|foglie]] di ogni terzo albero di Holland Walk, a saltellare
-fino alla [[City]] su una gamba sola ogni [[thursday|giovedì]], a ripetere l'intera
+a contare le [[motifs/leaves|foglie]] di ogni terzo albero di Holland Walk, a saltellare
+fino alla [[motifs/city|City]] su una gamba sola ogni giovedì, a ripetere l'intera
 ‘Libertà' di Mill settantasei volte, a raccogliere 300 denti di leone
 in campi appartenenti a chiunque porti il nome di Brown, a rimanere
 per trentun ore tenendo l'orecchio sinistro nella mano destra, a cantare
 i nomi di tutte le sue zie in ordine d'età in cima a un omnibus,
 o a intraprendere una qualsiasi impresa altrettanto inconsueta, concluderemmo immediatamente
 che l'uomo era pazzo, o, come talvolta si dice, era un
-‘[[artist|artista]] della vita.'  Eppure questi voti non sono più straordinari
+‘[[archetypes/artist|artista]] della vita.'  Eppure questi voti non sono più straordinari
 dei voti che nel Medioevo e in epoche simili venivano fatti,
 non da meri fanatici, ma dalle più grandi figure della civiltà
 civica e nazionale—da re, giudici, poeti e sacerdoti.
-Un uomo giurò di incatenare due [[Mountains|montagne]] insieme, e la grande
+Un uomo giurò di incatenare due [[settings/mountains|montagne]] insieme, e la grande
 catena rimase là appesa, si disse, per secoli come monumento di quella
 mistica follia.  Un altro giurò che avrebbe trovato la via per
 Gerusalemme con una benda sugli occhi, e morì cercandola.
 Non è facile vedere come queste due imprese, giudicate da un rigoroso
 punto di vista razionale, siano più assennate degli atti sopra suggeriti.
 Una montagna è comunemente un oggetto stazionario e affidabile che non
-è necessario incatenare la [[Night|notte]] come un cane.  E non è
+è necessario incatenare la [[motifs/night|notte]] come un cane.  E non è
 facile vedere a prima vista come un uomo renda un altissimo omaggio
-alla Santa [[City|Città]] mettendosi in cammino verso di essa in condizioni che rendono
+alla Santa [[motifs/city|Città]] mettendosi in cammino verso di essa in condizioni che rendono
 all'ultimo grado improbabile che egli mai vi giunga.
 
 Ma su questo c'è una cosa notevole da osservare.
-Se gli uomini si comportassero in tal modo nel nostro [[Time|tempo]], noi, come abbiamo detto,
+Se gli uomini si comportassero in tal modo nel nostro [[motifs/time|tempo]], noi, come abbiamo detto,
 li considereremmo simboli della ‘decadenza.' Ma gli uomini che fecero
 queste cose non erano decadenti; appartenevano in genere alle classi più
 robuste di quella che è generalmente ritenuta un'epoca robusta.
@@ -353,15 +353,15 @@ i sentimenti di un uomo in procinto di essere impiccato.
 più d'una morte deve morire.'
 
 E la fine di tutto questo è quell'esasperante orrore d'irrealtà
-che discende sui decadenti, e a paragone del quale il [[Pain|dolore]]
+che discende sui decadenti, e a paragone del quale il [[motifs/pain|dolore]]
 fisico stesso avrebbe la freschezza di una cosa giovanile.
-L'unico inferno che l'[[Imagination|immaginazione]] possa concepire come il più infernale è recitare
+L'unico inferno che l'[[concepts/imagination|immaginazione]] possa concepire come il più infernale è recitare
 eternamente un dramma senza neppure il più angusto e sudicio camerino
 in cui essere umani.  E questa è la condizione del decadente,
-dell'esteta, del libero [[Lover|amante]]. Passare in eterno attraverso
+dell'esteta, del libero [[archetypes/lover|amante]]. Passare in eterno attraverso
 pericoli che sappiamo non poterci spaventare, prestare giuramenti che
 sappiamo non poterci vincolare, sfidare nemici che sappiamo non poterci vincere—
-questa è la ghignante tirannia della decadenza che si chiama [[Freedom|Libertà]].
+questa è la ghignante tirannia della decadenza che si chiama [[concepts/freedom|Libertà]].
 
 
 
@@ -370,26 +370,26 @@ questa è la ghignante tirannia della decadenza che si chiama [[Freedom|Libertà
 
 Let us turn, on the other hand, to the maker of vows.
 The man who made a vow, however wild, gave a healthy and natural
-expression to the [[Greatness|greatness]] of a great moment.  He vowed, for example,
-to chain two [[Mountains|mountains]] together, perhaps a symbol of some great
-relief of [[Love|love]], or [[Aspiration|aspiration]].  Short as the moment of his resolve
-might be, it was, like all great moments, a moment of [[Immortality|immortality]],
-and the [[Desire|desire]] to say of it exegi monumentum aere perennius
+expression to the [[concepts/greatness|greatness]] of a great moment.  He vowed, for example,
+to chain two [[settings/mountains|mountains]] together, perhaps a symbol of some great
+relief of [[motifs/love|love]], or [[concepts/aspiration|aspiration]].  Short as the moment of his resolve
+might be, it was, like all great moments, a moment of [[concepts/immortality|immortality]],
+and the [[motifs/desire|desire]] to say of it exegi monumentum aere perennius
 was the only sentiment that would satisfy his mind.  The modern
 aesthetic man would, of course, easily see the emotional opportunity;
-he would vow to chain two [[Mountains|mountains]] together.  But, then, he would
-quite as cheerfully vow to chain the earth to the [[Moon|moon]].
+he would vow to chain two [[settings/mountains|mountains]] together.  But, then, he would
+quite as cheerfully vow to chain the earth to the [[motifs/moon|moon]].
 And the withering consciousness that he did not mean what he said,
-that he was, in [[Truth|truth]], saying nothing of any great import,
+that he was, in [[concepts/truth|truth]], saying nothing of any great import,
 would take from him exactly that sense of daring actuality which is
 the excitement of a vow.
 
 The revolt against vows has been carried in our day even to
-the extent of a revolt against the typical vow of [[Marriage|marriage]].
-It is most amusing to listen to the opponents of [[Marriage|marriage]] on this subject.
+the extent of a revolt against the typical vow of [[motifs/marriage|marriage]].
+It is most amusing to listen to the opponents of [[motifs/marriage|marriage]] on this subject.
 They appear to imagine that the ideal of constancy was a yoke
 mysteriously imposed on mankind by the devil, instead of being,
-as it is, a yoke consistently imposed by all [[lovers]] on themselves.
+as it is, a yoke consistently imposed by all lovers on themselves.
 They have invented a phrase, a phrase that is a black and white
 contradiction in two words--‘free-love'--as if a lover ever
 had been, or ever could be, free.  It is the nature of love
@@ -413,19 +413,19 @@ the fragrance of sacred purity without the sorrows of self-restraint;
 let us sing hymns alternately to the Virgin and Priapus.'  Thus in
 love the free-lovers say:  ‘Let us have the splendour of offering
 ourselves without the peril of committing ourselves; let us see
-whether one cannot commit [[suicide]] an unlimited number of times.'
+whether one cannot commit [[concepts/suicide|suicide]] an unlimited number of times.'
 
 Emphatically it will not work.  There are thrilling moments,
 doubtless, for the spectator, the amateur, and the aesthete;
 but there is one thrill that is known only to the soldier who fights
-for his own [[Flag|flag]], to the aesthetic who starves himself for his
-own illumination, to the [[Lover|lover]] who makes finally his own choice.
-And it is this transfiguring [[Self|self]]-discipline that makes the vow
+for his own [[motifs/flag|flag]], to the aesthetic who starves himself for his
+own illumination, to the [[archetypes/lover|lover]] who makes finally his own choice.
+And it is this transfiguring [[concepts/self|self]]-discipline that makes the vow
 a truly sane thing.  It must have satisfied even the giant hunger
-of the [[Soul|soul]] of a [[Lover|lover]] or a poet to know that in consequence
+of the [[motifs/soul|soul]] of a [[archetypes/lover|lover]] or a poet to know that in consequence
 of some one instant of decision that strange chain would hang
-for centuries in the Alps among the silences of [[Stars|stars]] and snows.
-All around us is the [[City|city]] of small sins, abounding in backways
+for centuries in the Alps among the silences of [[motifs/stars|stars]] and snows.
+All around us is the [[motifs/city|city]] of small sins, abounding in backways
 and retreats, but surely, sooner or later, the towering flame
 will rise from the harbour announcing that the reign of the cowards
 is over and a man is burning his ships.
@@ -437,26 +437,26 @@ is over and a man is burning his ships.
 
 Volgiamoci, d'altro canto, a colui che fa voti.
 L'uomo che fece un voto, per quanto folle, diede espressione sana e naturale
-alla [[Greatness|grandezza]] di un grande momento.  Fece voto, per esempio,
-di incatenare l'una all'altra due [[Mountains|montagne]], forse simbolo di qualche grande
-sollievo d'[[Love|amore]], o d'[[Aspiration|aspirazione]].  Per quanto breve potesse essere l'attimo della sua risoluzione,
-esso era, come tutti i grandi momenti, un attimo d'[[Immortality|immortalità]],
-e il [[Desire|desiderio]] di dire di esso exegi monumentum aere perennius
+alla [[concepts/greatness|grandezza]] di un grande momento.  Fece voto, per esempio,
+di incatenare l'una all'altra due [[settings/mountains|montagne]], forse simbolo di qualche grande
+sollievo d'[[motifs/love|amore]], o d'[[concepts/aspiration|aspirazione]].  Per quanto breve potesse essere l'attimo della sua risoluzione,
+esso era, come tutti i grandi momenti, un attimo d'[[concepts/immortality|immortalità]],
+e il [[motifs/desire|desiderio]] di dire di esso exegi monumentum aere perennius
 era l'unico sentimento che potesse appagare la sua mente.  L'uomo estetico
 moderno, naturalmente, coglierebbe con facilità l'occasione emotiva;
-farebbe voto di incatenare l'una all'altra due [[Mountains|montagne]].  Ma, allora, con
-altrettanta allegria farebbe voto di incatenare la terra alla [[Moon|luna]].
+farebbe voto di incatenare l'una all'altra due [[settings/mountains|montagne]].  Ma, allora, con
+altrettanta allegria farebbe voto di incatenare la terra alla [[motifs/moon|luna]].
 E la mortificante consapevolezza di non intendere ciò che diceva,
-di non dire, in [[Truth|verità]], nulla di grande momento,
+di non dire, in [[concepts/truth|verità]], nulla di grande momento,
 gli toglierebbe proprio quel senso di audace concretezza che è
 l'emozione di un voto.
 
 La rivolta contro i voti è stata spinta, ai nostri giorni, perfino
-fino a una rivolta contro il voto tipico, quello del [[Marriage|matrimonio]].
-È quanto mai divertente ascoltare gli avversari del [[Marriage|matrimonio]] su questo tema.
+fino a una rivolta contro il voto tipico, quello del [[motifs/marriage|matrimonio]].
+È quanto mai divertente ascoltare gli avversari del [[motifs/marriage|matrimonio]] su questo tema.
 Sembrano immaginare che l'ideale della costanza sia un giogo
 misteriosamente imposto all'umanità dal diavolo, invece di essere,
-com'è, un giogo che tutti gli [[lovers|amanti]] impongono coerentemente a se stessi.
+com'è, un giogo che tutti gli amanti impongono coerentemente a se stessi.
 Hanno inventato una frase, una frase che è una netta
 contraddizione in due parole — 'libero amore' — come se un amante
 fosse mai stato, o potesse mai essere, libero.  È nella natura dell'amore
@@ -480,19 +480,19 @@ la fragranza della sacra purezza senza i dolori dell'autocontrollo;
 cantiamo inni alternativamente alla Vergine e a Priapo.'  Così, in
 amore, i liberi amatori dicono: 'Godiamoci lo splendore di offrire
 noi stessi senza il pericolo di impegnarci; vediamo
-se non si possa commettere [[suicide|suicidio]] un numero illimitato di volte.'
+se non si possa commettere [[concepts/suicide|suicidio]] un numero illimitato di volte.'
 
 Con ogni evidenza, non funzionerà.  Vi sono momenti emozionanti,
 senza dubbio, per lo spettatore, il dilettante, l'esteta;
 ma c'è un brivido noto soltanto al soldato che combatte
-per la propria [[Flag|bandiera]], all'esteta che si affama per la propria
-illuminazione, all'[[Lover|amante]] che compie finalmente la propria scelta.
-Ed è questa trasfigurante [[Self|auto]]disciplina che rende il voto
+per la propria [[motifs/flag|bandiera]], all'esteta che si affama per la propria
+illuminazione, all'[[archetypes/lover|amante]] che compie finalmente la propria scelta.
+Ed è questa trasfigurante [[concepts/self|auto]]disciplina che rende il voto
 una cosa davvero assennata.  Deve aver appagato perfino la gigantesca fame
-dell'[[Soul|anima]] di un [[Lover|amante]] o di un poeta il sapere che, in conseguenza
+dell'[[motifs/soul|anima]] di un [[archetypes/lover|amante]] o di un poeta il sapere che, in conseguenza
 di un solo istante di decisione, quella strana catena sarebbe pesa
-per secoli sulle Alpi tra i silenzi delle [[Stars|stelle]] e delle nevi.
-Tutt'attorno a noi c'è la [[City|città]] dei piccoli peccati, ricca di vicoli
+per secoli sulle Alpi tra i silenzi delle [[motifs/stars|stelle]] e delle nevi.
+Tutt'attorno a noi c'è la [[motifs/city|città]] dei piccoli peccati, ricca di vicoli
 e di ritirate, ma di certo, presto o tardi, la fiamma altissima
 si leverà dal porto ad annunciare che il regno dei codardi
 è finito e che un uomo sta bruciando le proprie navi.

@@ -41,7 +41,7 @@ tags:
   - character/rose_maylie
 ---
 
-*by Dickens*  ·  **Cluster:** [[Money and Gold · Poverty · Imprisonment]]
+*by Dickens*  ·  **Cluster:** [[clusters/money-and-gold-·-poverty-·-imprisonment|Money and Gold · Poverty · Imprisonment]]
 
 > [!abstract] 
 > Dickens's 'Parish Boy's Progress' tracing an orphan from the workhouse into Fagin's London criminal underworld; central themes are poverty, the cruelty of the Poor Law, the corruption of innocence by a criminal world, and the survival of inborn goodness.
@@ -62,13 +62,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Orphan]], [[Innocent]], [[Villain]], [[(Reputed) Fallen Woman]]
-**Motifs:** [[City]], [[Money and Gold]], [[Blood]], [[Light and Dark]]
-**Themes & Concepts:** [[Poverty]], [[Social Injustice]], [[Innocence and Experience]], [[Good vs Evil]], [[Maturation and Growth]], [[Crime and Punishment]], [[Temptation]], [[Satire of Society]], [[Reform]], [[Identity]]
-**Forms & Genres:** [[Novel]], [[Social Novel (Novel of Manners)]], [[Bildungsroman]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]]
-**Characters:** [[Oliver Twist]], [[Fagin]], [[Bill Sikes]], [[Nancy]], [[Artful Dodger]], [[Mr Bumble]], [[Mr Brownlow]], [[Monks]], [[Rose Maylie]]
+**Archetypes:** [[archetypes/orphan|Orphan]], [[archetypes/innocent|Innocent]], [[archetypes/villain|Villain]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]]
+**Motifs:** [[motifs/city|City]], [[motifs/money-and-gold|Money and Gold]], [[motifs/blood|Blood]], [[motifs/light-and-dark|Light and Dark]]
+**Themes & Concepts:** [[concepts/poverty|Poverty]], [[concepts/social-injustice|Social Injustice]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/temptation|Temptation]], [[concepts/satire-of-society|Satire of Society]], [[concepts/reform|Reform]], [[concepts/identity|Identity]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/bildungsroman|Bildungsroman]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/oliver-twist|Oliver Twist]], [[characters/fagin|Fagin]], [[characters/bill-sikes|Bill Sikes]], [[characters/nancy|Nancy]], [[characters/artful-dodger|Artful Dodger]], [[characters/mr-bumble|Mr Bumble]], [[characters/mr-brownlow|Mr Brownlow]], [[characters/monks|Monks]], [[characters/rose-maylie|Rose Maylie]]
 
 ## Testo integrale / Full text
 
@@ -18879,4 +18879,4 @@ those whom they knew in life, I believe that the shade of Agnes
 sometimes hovers round that solemn nook. I believe it none the less
 because that nook is in a Church, and she was weak and erring.
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

@@ -14,4 +14,10 @@ A burly Jacobean ghost who testifies that the same good old customs were already
 
 <div class="concept-works" data-slug="characters/ben-jonson"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/shop-of-ghosts-(chesterton)|shop-of-ghosts (Chesterton)]]
+
+</div>
+
 #graph/character

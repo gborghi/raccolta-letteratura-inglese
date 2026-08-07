@@ -14,4 +14,14 @@ The garden gallows and noose the speaker matter-of-factly prepares to use, the p
 
 <div class="concept-works" data-slug="motifs/gallows"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/suicide-(chesterton)|suicide (Chesterton)]]
+- [[works/the-holocaust-of-manor-place-(conan-doyle)|The Holocaust of Manor Place (Conan Doyle)]]
+- [[works/cautionary-tales-for-children-(belloc)|Cautionary Tales for Children (Belloc)]]
+- [[works/marie-antoinette-(belloc)|Marie Antoinette (Belloc)]]
+- [[works/the-french-revolution-(belloc)|The French Revolution (Belloc)]]
+
+</div>
+
 #graph/motif

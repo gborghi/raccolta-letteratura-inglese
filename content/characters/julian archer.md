@@ -14,4 +14,10 @@ A vain, socially omnipresent amateur actor who plays Blondel and later King Rich
 
 <div class="concept-works" data-slug="characters/julian-archer"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/don-quixote-(chesterton)|Don Quixote (Chesterton)]]
+
+</div>
+
 #graph/character

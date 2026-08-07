@@ -28,7 +28,7 @@ tags:
 
 # unborn
 
-*by Chesterton*  ·  **Cluster:** [[Maturation and Growth · Childhood · Innocence and Experience]]
+*by Chesterton*  ·  **Cluster:** [[clusters/maturation-and-growth-·-childhood-·-innocence-and-experience|Maturation and Growth · Childhood · Innocence and Experience]]
 
 > [!abstract] 
 > A lyric poem spoken by an unborn child longing to enter the world; its central themes are wonder and gratitude for existence, innocence before experience, and the magic of ordinary life seen as fairyland.
@@ -39,13 +39,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Child]]
+**Archetypes:** [[archetypes/child|Child]]
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Motifs:** [[Dreams]], [[Night]], [[Light and Dark]], [[Storm]], [[Fire]], [[Eyes and Sight]], [[Door]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Innocence and Experience]], [[Maturation and Growth]], [[Desire and Longing]], [[Imagination]], [[Imprisonment]]
-**Forms & Genres:** [[Lyric]], [[Dramatic Monologue]]
+**Motifs:** [[motifs/dreams|Dreams]], [[motifs/night|Night]], [[motifs/light-and-dark|Light and Dark]], [[motifs/storm|Storm]], [[motifs/fire|Fire]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/door|Door]]
+**Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/desire-and-longing|Desire and Longing]], [[concepts/imagination|Imagination]], [[concepts/imprisonment|Imprisonment]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/dramatic-monologue|Dramatic Monologue]]
 
 ## Testo integrale / Full text
 

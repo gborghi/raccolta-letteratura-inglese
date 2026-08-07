@@ -14,4 +14,12 @@ Chesterton's Newman-esque claim that Church dogma unfolds and elaborates truths 
 
 <div class="concept-works" data-slug="concepts/development-of-doctrine"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/upon-this-rock-(chesterton)|upon-this-rock (Chesterton)]]
+- [[works/europe-and-the-faith-(belloc)|Europe and the Faith (Belloc)]]
+- [[works/introduction-to-'essays-in-literature-and-history'-(belloc)|Introduction to 'Essays in Literature and History' (Belloc)]]
+
+</div>
+
 #graph/concept

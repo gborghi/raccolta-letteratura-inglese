@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/duke-of-aumerle"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/richard-ii-(shakespeare)|RICHARD II (Shakespeare)]]
+
+</div>
+
 #graph/character

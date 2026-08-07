@@ -14,22 +14,22 @@ tags:
 <span class="atom-split" data-atom="006_quae_nocent_docent" data-title="QUAE NOCENT DOCENT" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/time,concept/education,concept/nostalgia,concept/conscience,form/ode,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
 
 
-IN [[Christ|CHRIST]]’S HOSPITAL BOOK  
+IN [[characters/christ|CHRIST]]’S HOSPITAL BOOK  
 O! mihi praeteritos referat si Jupiter annos!  
 Oh! might my ill-past hours return again!  
 No more, as then, should Sloth around me throw  
-Her [[Soul|soul]]-enslaving, leaden chain!  
-No more the precious [[Time|time]] would I employ  
+Her [[motifs/soul|soul]]-enslaving, leaden chain!  
+No more the precious [[motifs/time|time]] would I employ  
 In giddy revels, or in thoughtless joy,   5  
 A present joy producing future woe.  
-But o’er the midnight Lamp I’d [[Love|love]] to pore,  
+But o’er the midnight Lamp I’d [[motifs/love|love]] to pore,  
 I’d seek with care fair Learning’s depths to sound,  
 And gather scientific Lore:  
 Or to mature the embryo thoughts inclin’d,   10  
 That half-conceiv’d lay struggling in my mind,  
 The cloisters’ solitary gloom I’d round.  
-‘Tis vain to wish, for [[Time]] has ta’en his flight —  
-For follies past be ceas’d the fruitless [[Tears|tears]]:  
+‘Tis vain to wish, for [[motifs/time|Time]] has ta’en his flight —  
+For follies past be ceas’d the fruitless [[motifs/tears|tears]]:  
 Let follies past to future care incite.   15  
 Averse maturer judgements to obey  
 Youth owns, with pleasure owns, the Passions’ sway,  
@@ -39,22 +39,22 @@ But sage Experience only comes with years.
 
 <span class="qlang-split" data-lang="it"></span>
 
-NEL LIBRO DEL [[Christ|CHRIST]]’S HOSPITAL  
+NEL LIBRO DEL [[characters/christ|CHRIST]]’S HOSPITAL  
 O! mihi praeteritos referat si Jupiter annos!  
 Oh, potessero tornare le mie ore mal spese!  
 Mai più, come allora, l’Accidia mi getterebbe intorno  
-la sua catena plumbea che schiavizza l’[[Soul|anima]]!  
-Mai più impiegherei il prezioso [[Time|tempo]]  
+la sua catena plumbea che schiavizza l’[[motifs/soul|anima]]!  
+Mai più impiegherei il prezioso [[motifs/time|tempo]]  
 in gozzoviglie vertiginose, o in gioia sconsiderata,   5  
 gioia presente che produce sventura futura.  
-Ma sulla Lampada di mezzanotte [[Love|amerei]] chinarmi,  
+Ma sulla Lampada di mezzanotte [[motifs/love|amerei]] chinarmi,  
 cercherei con cura di scandagliare le profondità del bel Sapere,  
 e raccogliere Dottrina scientifica:  
 o, inclinato a maturare i pensieri embrionali   10  
 che, mezzo concepiti, si dibattevano nella mia mente,  
 percorrerei il buio solitario dei chiostri.  
-È vano desiderare, ché il [[Time|Tempo]] ha preso il volo —  
-per le follie passate cessino le [[Tears|lacrime]] infruttuose:  
+È vano desiderare, ché il [[motifs/time|Tempo]] ha preso il volo —  
+per le follie passate cessino le [[motifs/tears|lacrime]] infruttuose:  
 le follie passate incitino a futura cura.   15  
 Restia a obbedire a giudizi più maturi,  
 la Giovinezza riconosce, con piacere riconosce, il dominio delle Passioni,  
@@ -69,16 +69,16 @@ ma la saggia Esperienza viene solo con gli anni.
 With many a weary step at length I gain  
 Thy summit, Bala! and the cool breeze plays  
 Cheerily round my brow — as hence the gaze  
-Returns to dwell upon the [[Journey|journey]]’d plain.  
+Returns to dwell upon the [[motifs/journey|journey]]’d plain.  
 ‘Twas a long way and tedious! — to the eye   5  
 Tho’ fair th’ extended Vale, and fair to view  
-The falling [[Leaves|leaves]] of many a faded hue  
+The falling [[motifs/leaves|leaves]] of many a faded hue  
 That eddy in the wild gust moaning by!  
 Ev’n so it far’d with Life! in discontent  
 Restless thro’ Fortune’s mingled scenes I went,   10  
 Yet wept to think they would return no more!  
 O cease fond heart! in such sad thoughts to roam,  
-For surely thou ere long shalt reach thy [[Home|home]],  
+For surely thou ere long shalt reach thy [[motifs/home|home]],  
 And pleasant is the way that lies before.  
 1794.  
 
@@ -88,16 +88,16 @@ And pleasant is the way that lies before.
 Con molti passi stanchi alfine guadagno  
 la tua vetta, Bala! e la fresca brezza gioca  
 allegra intorno alla mia fronte — mentre di qui lo sguardo  
-torna a posarsi sulla pianura [[Journey|percorsa]].  
+torna a posarsi sulla pianura [[motifs/journey|percorsa]].  
 Fu un cammino lungo e tedioso! — all’occhio   5  
 per quanto bella la Valle distesa, e bello a vedersi  
-il cadere delle [[Leaves|foglie]] di tante tinte sbiadite  
+il cadere delle [[motifs/leaves|foglie]] di tante tinte sbiadite  
 che turbinano nella folata selvaggia che geme passando!  
 Così andò anche con la Vita! scontento  
 inquieto andai per le scene mescolate della Fortuna,   10  
 eppure piansi al pensiero che non sarebbero tornate mai più!  
 Oh, cessa, cuore illuso, d’errare in pensieri sì tristi,  
-ché certo fra non molto raggiungerai la tua [[Home|casa]],  
+ché certo fra non molto raggiungerai la tua [[motifs/home|casa]],  
 e piacevole è la via che sta dinanzi.  
 1794.
 
@@ -112,7 +112,7 @@ Cease, O Lyre! thy kindred lay!
 From the poplar-branch suspended  
 Glitter to the eye of Day!  
 On thy wires hov’ring, dying,   5  
-Softly sighs the [[Summer|summer]] [[Wind|wind]]:  
+Softly sighs the [[motifs/summer|summer]] [[motifs/wind|wind]]:  
 I will slumber, careless lying,  
 By yon waterfall reclin’d.  
 In the forest hollow-roaring  
@@ -134,7 +134,7 @@ cessa, o Lira, il tuo canto affine!
 Sospesa al ramo del pioppo  
 scintilla all’occhio del Giorno!  
 Sulle tue corde, aleggiando, morendo,   5  
-dolcemente sospira il [[Wind|vento]] d’[[Summer|estate]]:  
+dolcemente sospira il [[motifs/wind|vento]] d’[[motifs/summer|estate]]:  
 io sonnecchierò, giacendo spensierato,  
 reclinato presso quella cascata.  
 Nella foresta che rugge cava  
@@ -166,7 +166,7 @@ Surgamus — heu semper fugaci
 Gaudia praeteritura passu!  
 ‘Advertisement’ to Ad Lyram,  
 in Watchman, II, March 9, 1796.  
-Title] [[Song]]. [Note. Imitated from Casimir.] MS. E.  
+Title] [[works/song-(poe)|Song]]. [Note. Imitated from Casimir.] MS. E.  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -185,7 +185,7 @@ Surgamus — heu semper fugaci
 Gaudia praeteritura passu!  
 ‘Avvertenza’ ad Ad Lyram,  
 nel Watchman, II, 9 marzo 1796.  
-Titolo] [[Song]]. [Nota. Imitata da Casimiro.] MS. E.
+Titolo] [[works/song-(poe)|Song]]. [Nota. Imitata da Casimiro.] MS. E.
 
 
 
@@ -194,15 +194,15 @@ Titolo] [[Song]]. [Nota. Imitata da Casimiro.] MS. E.
 
 Vivamus, mea Lesbia, atque amemus.  
 CATULLUS.  
-My Lesbia, let us [[Love|love]] and live,  
+My Lesbia, let us [[motifs/love|love]] and live,  
 And to the winds, my Lesbia, give  
-Each cold restraint, each boding [[Fear|fear]]  
+Each cold restraint, each boding [[concepts/fear|fear]]  
 Of age and all her saws severe.  
 Yon sun now posting to the main   5  
 Will set, — but ‘tis to rise again; —  
 But we, when once our mortal light  
-Is set, must [[Sleep|sleep]] in endless [[Night|night]].  
-Then come, with whom [[Alone|alone]] I’ll live,  
+Is set, must [[motifs/sleep|sleep]] in endless [[motifs/night|night]].  
+Then come, with whom alone I’ll live,  
 A thousand kisses take and give!   10  
 Another thousand! — to the store  
 Add hundreds — then a thousand more!  
@@ -219,15 +219,15 @@ Which never can again be mine!
 
 Vivamus, mea Lesbia, atque amemus.  
 CATULLO.  
-Mia Lesbia, [[Love|amiamo]] e viviamo,  
+Mia Lesbia, [[motifs/love|amiamo]] e viviamo,  
 e ai venti, mia Lesbia, dona  
-ogni freddo ritegno, ogni [[Fear|paura]] presaga  
+ogni freddo ritegno, ogni [[concepts/fear|paura]] presaga  
 della vecchiaia e di tutte le sue sentenze severe.  
 Quel sole che ora corre verso il mare   5  
 tramonterà, — ma per risorgere; —  
 ma noi, una volta che la nostra luce mortale  
-è tramontata, dobbiamo [[Sleep|dormire]] in [[Night|notte]] senza fine.  
-Vieni dunque, tu con cui [[Alone|sola]] vivrò,  
+è tramontata, dobbiamo [[motifs/sleep|dormire]] in [[motifs/night|notte]] senza fine.  
+Vieni dunque, tu con cui sola vivrò,  
 mille baci prendi e dammi!   10  
 Altri mille! — al deposito  
 aggiungi centinaia — poi altri mille!  
@@ -247,16 +247,16 @@ che non potranno mai più essere mie!
 Ungrateful he, who pluck’d thee from thy stalk,  
 Poor faded flow’ret! on his careless way;  
 Inhal’d awhile thy odours on his walk,  
-Then onward pass’d and left thee to [[Decay|decay]].  
-Ah! [[Melancholy|melancholy]] emblem! had I seen   5  
+Then onward pass’d and left thee to [[motifs/decay|decay]].  
+Ah! [[concepts/melancholy|melancholy]] emblem! had I seen   5  
 Thy modest beauties dew’d with Evening’s gem,  
 I had not rudely cropp’d thy parent stem,  
 But left thee, blushing, ‘mid the enliven’d green  
 And now I bend me o’er thy wither’d bloom,  
 And drop the tear — as Fancy, at my side,   10  
 Deep-sighing, points the fair frail Abra’s tomb —  
-‘Like thine, sad Flower, was that poor wanderer’s [[Pride|pride]]!  
-Oh! lost to [[Love]] and [[Truth]], whose selfish joy  
+‘Like thine, sad Flower, was that poor wanderer’s [[concepts/pride|pride]]!  
+Oh! lost to [[motifs/love|Love]] and [[concepts/truth|Truth]], whose selfish joy  
 Tasted her vernal sweets, but tasted to destroy!’  
 1794.  
 
@@ -266,16 +266,16 @@ Tasted her vernal sweets, but tasted to destroy!’
 Ingrato colui che ti colse dal tuo stelo,  
 povero fiorellino appassito, sul suo cammino distratto;  
 aspirò un poco i tuoi odori passeggiando,  
-poi tirò oltre e ti lasciò a [[Decay|marcire]].  
-Ah, [[Melancholy|malinconico]] emblema! avessi io visto   5  
+poi tirò oltre e ti lasciò a [[motifs/decay|marcire]].  
+Ah, [[concepts/melancholy|malinconico]] emblema! avessi io visto   5  
 le tue modeste bellezze irrorate dalla gemma della Sera,  
 non avrei rudemente reciso il tuo stelo materno,  
 ma t’avrei lasciato, arrossente, fra il verde ravvivato.  
 E ora mi chino sul tuo fiore avvizzito,  
 e lascio cadere la lacrima — mentre la Fantasia, al mio fianco,   10  
 sospirando profondo, addita la tomba della bella e fragile Abra —  
-‘Come il tuo, triste Fiore, era l’[[Pride|orgoglio]] di quella povera errante!  
-Oh, perduto per l’[[Love|Amore]] e la [[Truth|Verità]], colui la cui gioia egoista  
+‘Come il tuo, triste Fiore, era l’[[concepts/pride|orgoglio]] di quella povera errante!  
+Oh, perduto per l’[[motifs/love|Amore]] e la [[concepts/truth|Verità]], colui la cui gioia egoista  
 gustò le sue dolcezze primaverili, ma gustò per distruggere!’  
 1794.
 
@@ -284,32 +284,32 @@ gustò le sue dolcezze primaverili, ma gustò per distruggere!’
 <span class="atom-split" data-atom="113_ver_perpetuum" data-title="VER PERPETUUM" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/spring,motif/flowers,concept/transience,concept/immortality,form/fragment,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
 
 
-[[Fragment|FRAGMENT]] FROM AN UNPUBLISHED POEM.  
+[[forms/fragment|FRAGMENT]] FROM AN UNPUBLISHED POEM.  
 The early Year’s fast-flying vapours stray  
 In shadowing trains across the orb of day:  
-And we, poor [[Insects]] of a few short hours,  
+And we, poor [[motifs/insects|Insects]] of a few short hours,  
 Deem it a world of Gloom.  
-Were it not better [[Hope|hope]] a nobler doom,   5  
+Were it not better [[concepts/hope|hope]] a nobler doom,   5  
 Proud to believe that with more active powers  
 On rapid many-coloured wing  
-We thro’ one bright perpetual [[Spring]]  
-Shall hover round the fruits and [[Flowers|flowers]],  
+We thro’ one bright perpetual [[motifs/spring|Spring]]  
+Shall hover round the fruits and [[motifs/flowers|flowers]],  
 Screen’d by those clouds and cherish’d by those showers!   10  
 1796.  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Fragment|FRAMMENTO]] DA UNA POESIA INEDITA.  
+[[forms/fragment|FRAMMENTO]] DA UNA POESIA INEDITA.  
 I vapori in rapida fuga del primo Anno vagano  
 in strascichi d’ombra attraverso l’orbe del giorno:  
-e noi, poveri [[Insects|Insetti]] di poche brevi ore,  
+e noi, poveri [[motifs/insects|Insetti]] di poche brevi ore,  
 lo giudichiamo un mondo di Tenebra.  
-Non sarebbe meglio [[Hope|sperare]] una sorte più nobile,   5  
+Non sarebbe meglio [[concepts/hope|sperare]] una sorte più nobile,   5  
 fieri di credere che con poteri più attivi,  
 su rapida ala multicolore,  
-noi per un’unica lucente [[Spring|Primavera]] perpetua  
-aleggeremo intorno ai frutti e ai [[Flowers|fiori]],  
+noi per un’unica lucente [[motifs/spring|Primavera]] perpetua  
+aleggeremo intorno ai frutti e ai [[motifs/flowers|fiori]],  
 riparati da quelle nubi e nutriti da quegli acquazzoni!   10  
 1796.
 
@@ -324,7 +324,7 @@ This dark, frieze-coated, hoarse, teeth-chattering month
 Hath borrow’d Zephyr’s voice, and gazed upon thee  
 With blue voluptuous eye) alas, poor Flower!   5  
 These are but flatteries of the faithless year.  
-Perchance, escaped its unknown polar [[Cave|cave]],  
+Perchance, escaped its unknown polar [[motifs/cave|cave]],  
 Even now the keen North-East is on its way.  
 Flower that must perish! shall I liken thee  
 To some sweet girl of too too rapid growth   10  
@@ -333,12 +333,12 @@ Or to Bristowa’s bard, the wondrous boy!
 An amaranth, which earth scarce seem’d to own,  
 Till disappointment came, and pelting wrong  
 Beat it to earth? or with indignant grief   15  
-Shall I compare thee to poor Poland’s [[Hope|hope]],  
-Bright flower of [[Hope|hope]] killed in the opening bud?  
+Shall I compare thee to poor Poland’s [[concepts/hope|hope]],  
+Bright flower of [[concepts/hope|hope]] killed in the opening bud?  
 Farewell, sweet blossom! better fate be thine  
 And mock my boding! Dim similitudes  
 Weaving in moral strains, I’ve stolen one hour   20  
-From anxious [[Self]], Life’s cruel taskmaster!  
+From anxious [[concepts/self|Self]], Life’s cruel taskmaster!  
 And the warm wooings of this sunny day  
 Tremble along my frame and harmonize  
 The attempered organ, that even saddest thoughts  
@@ -355,7 +355,7 @@ questo mese scuro, vestito di frisa, rauco, che batte i denti,
 ha preso a prestito la voce di Zefiro, e t’ha guardato  
 con occhio azzurro e voluttuoso) ahimè, povero Fiore!   5  
 Queste non sono che lusinghe dell’anno infido.  
-Forse, sfuggito alla sua ignota [[Cave|caverna]] polare,  
+Forse, sfuggito alla sua ignota [[motifs/cave|caverna]] polare,  
 proprio ora il pungente Nord-Est è in cammino.  
 Fiore che devi perire! ti paragonerò  
 a qualche dolce fanciulla di crescita troppo, troppo rapida   10  
@@ -364,12 +364,12 @@ O al bardo di Bristowa, il fanciullo prodigioso!
 un amaranto, che la terra pareva a stento possedere,  
 finché venne la delusione, e il torto martellante  
 lo batté al suolo? o con dolore indignato   15  
-ti paragonerò alla [[Hope|speranza]] della povera Polonia,  
-lucente fiore di [[Hope|speranza]] ucciso nel bocciolo che s’apriva?  
+ti paragonerò alla [[concepts/hope|speranza]] della povera Polonia,  
+lucente fiore di [[concepts/hope|speranza]] ucciso nel bocciolo che s’apriva?  
 Addio, dolce fiore! ti tocchi sorte migliore  
 e beffi il mio presagio! Tessendo fosche similitudini  
 in accenti morali, ho rubato un’ora   20  
-all’ansioso [[Self|Io]], crudele aguzzino della Vita!  
+all’ansioso [[concepts/self|Io]], crudele aguzzino della Vita!  
 E i caldi corteggiamenti di questa giornata di sole  
 tremano lungo le mie membra e armonizzano  
 l’organo temperato, sì che anche i pensieri più tristi  
@@ -389,17 +389,17 @@ OVID, Metam. [xv. 203].
 Thy smiles I note, sweet early Flower,  
 That peeping from thy rustic bower  
 The festive news to earth dost bring,  
-A fragrant messenger of [[Spring]].  
+A fragrant messenger of [[motifs/spring|Spring]].  
 But, tender blossom, why so pale?   5  
-Dost hear stern [[Winter]] in the gale?  
+Dost hear stern [[motifs/winter|Winter]] in the gale?  
 And didst thou tempt the ungentle sky  
 To catch one vernal glance and die?  
 Such the wan lustre Sickness wears  
 When Health’s first feeble beam appears;   10  
 So languid are the smiles that seek  
 To settle on the care-worn cheek,  
-When timorous [[Hope]] the head uprears,  
-Still drooping and still moist with [[Tears|tears]],  
+When timorous [[concepts/hope|Hope]] the head uprears,  
+Still drooping and still moist with [[motifs/tears|tears]],  
 If, through dispersing grief, be seen   15  
 Of Bliss the heavenly spark serene.  
 And sweeter far the early blow,  
@@ -418,17 +418,17 @@ OVIDIO, Metam. [xv. 203].
 Noto i tuoi sorrisi, dolce Fiore precoce,  
 che spuntando dal tuo rustico ricetto  
 rechi alla terra la lieta novella,  
-fragrante messaggero della [[Spring|Primavera]].  
+fragrante messaggero della [[motifs/spring|Primavera]].  
 Ma, tenero fiore, perché così pallido?   5  
-Odi il severo [[Winter|Inverno]] nella raffica?  
+Odi il severo [[motifs/winter|Inverno]] nella raffica?  
 E hai sfidato il cielo scortese  
 per cogliere un solo sguardo primaverile e morire?  
 Tale il lustro smorto che porta la Malattia  
 quando appare il primo debole raggio della Salute;   10  
 così languidi sono i sorrisi che cercano  
 di posarsi sulla guancia consunta dagli affanni,  
-quando la timorosa [[Hope|Speranza]] leva il capo,  
-ancora chino e ancora umido di [[Tears|lacrime]],  
+quando la timorosa [[concepts/hope|Speranza]] leva il capo,  
+ancora chino e ancora umido di [[motifs/tears|lacrime]],  
 se, attraverso il dolore che si dirada, si scorge   15  
 della Beatitudine la scintilla celeste e serena.  
 E assai più dolce è la fioritura precoce,  
@@ -446,12 +446,12 @@ A Sunny shaft did I behold,
 From sky to earth it slanted:  
 And poised therein a bird so bold —  
 Sweet bird, thou wert enchanted!  
-He sank, he [[Rose|rose]], he twinkled, he trolled   5  
+He sank, he [[motifs/rose|rose]], he twinkled, he trolled   5  
 Within that shaft of sunny mist;  
-His eyes of [[Fire|fire]], his beak of gold,  
+His eyes of [[motifs/fire|fire]], his beak of gold,  
 All else of amethyst!  
 And thus he sang: ‘Adieu! adieu!  
-[[Love]]’s [[Dreams|dreams]] prove seldom true.   10  
+[[motifs/love|Love]]’s [[motifs/dreams|dreams]] prove seldom true.   10  
 The blossoms they make no delay:  
 The sparkling dew-drops will not stay.  
 Sweet month of May,  
@@ -467,12 +467,12 @@ Un raggio di sole io vidi,
 dal cielo alla terra obliquava:  
 e librato in esso un uccello sì ardito —  
 dolce uccello, tu eri incantato!  
-Scendeva, [[Rose|saliva]], guizzava, trillava   5  
+Scendeva, [[motifs/rose|saliva]], guizzava, trillava   5  
 dentro quel raggio di nebbia solare;  
-gli occhi di [[Fire|fuoco]], il becco d’oro,  
+gli occhi di [[motifs/fire|fuoco]], il becco d’oro,  
 tutto il resto d’ametista!  
 E così cantava: ‘Addio! addio!  
-i [[Dreams|sogni]] d’[[Love|Amore]] di rado si avverano.   10  
+i [[motifs/dreams|sogni]] d’[[motifs/love|Amore]] di rado si avverano.   10  
 I fiori non fanno indugio:  
 le gocce di rugiada scintillanti non resteranno.  
 Dolce mese di maggio,  
@@ -487,29 +487,29 @@ Oggi! oggi!’
 
 
 The sole true Something — This! In Limbo’s Den  
-It frightens [[Ghosts]], as here [[Ghosts]] frighten men.  
-Thence [[Cross|cross]]’d unseiz’d — and shall some fated hour  
+It frightens [[motifs/ghosts|Ghosts]], as here [[motifs/ghosts|Ghosts]] frighten men.  
+Thence [[motifs/cross|cross]]’d unseiz’d — and shall some fated hour  
 Be pulveris’d by Demogorgon’s power,  
-And given as [[Poison|poison]] to annihilate souls — 5  
+And given as [[motifs/poison|poison]] to annihilate souls — 5  
 Even now it shrinks them — they shrink in as Moles  
-([[Nature]]’s mute [[Monks|monks]], live mandrakes of the ground)  
+([[concepts/nature|Nature]]’s mute [[characters/monks|monks]], live mandrakes of the ground)  
 Creep back from Light — then listen for its sound; —  
 See but to dread, and dread they know not why —  
 The natural alien of their negative eye.   10  
 ‘Tis a strange place, this Limbo! — not a Place,  
-Yet name it so; — where [[Time]] and weary Space  
-Fettered from flight, with [[Night|night]]-mare sense of fleeing,  
+Yet name it so; — where [[motifs/time|Time]] and weary Space  
+Fettered from flight, with [[motifs/night|night]]-mare sense of fleeing,  
 Strive for their last crepuscular half-being; —  
-Lank Space, and scytheless [[Time]] with branny hands   15  
+Lank Space, and scytheless [[motifs/time|Time]] with branny hands   15  
 Barren and soundless as the measuring sands,  
 Not mark’d by flit of Shades, — unmeaning they  
 As moonlight on the dial of the day!  
-But that is lovely — looks like Human [[Time]], —  
-An Old Man with a steady look [[Sublime|sublime]],   20  
+But that is lovely — looks like Human [[motifs/time|Time]], —  
+An Old Man with a steady look [[concepts/sublime|sublime]],   20  
 That stops his earthly task to watch the skies;  
 But he is blind — a Statue hath such eyes; —  
 Yet having moonward turn’d his face by chance,  
-Gazes the orb with [[Moon|moon]]-like countenance,  
+Gazes the orb with [[motifs/moon|moon]]-like countenance,  
 With scant white hairs, with foretop bald and high,   25  
 He gazes still, — his eyeless face all eye; —  
 As ‘twere an organ full of silent sight,  
@@ -519,40 +519,40 @@ He seems to gaze at that which seems to gaze on him!   30
 No such sweet sights doth Limbo den immure,  
 Wall’d round, and made a spirit-jail secure,  
 By the mere horror of blank Naught-at-all,  
-Whose circumambience doth these [[Ghosts|ghosts]] enthral.  
+Whose circumambience doth these [[motifs/ghosts|ghosts]] enthral.  
 A lurid thought is growthless, dull Privation,   35  
 Yet that is but a Purgatory curse;  
-Hell knows a [[Fear|fear]] far worse,  
-A [[Fear|fear]] — a future state;—’tis positive Negation!  
+Hell knows a [[concepts/fear|fear]] far worse,  
+A [[concepts/fear|fear]] — a future state;—’tis positive Negation!  
 1817.  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 L’unico vero Qualcosa — Questo! Nella Tana del Limbo  
-spaventa i [[Ghosts|Fantasmi]], come qui i [[Ghosts|Fantasmi]] spaventano gli uomini.  
-Di là [[Cross|attraversato]] senza esser preso — e in qualche ora fatale  
+spaventa i [[motifs/ghosts|Fantasmi]], come qui i [[motifs/ghosts|Fantasmi]] spaventano gli uomini.  
+Di là [[motifs/cross|attraversato]] senza esser preso — e in qualche ora fatale  
 sarà polverizzato dal potere di Demogorgone,  
-e dato come [[Poison|veleno]] ad annientare le anime — 5  
+e dato come [[motifs/poison|veleno]] ad annientare le anime — 5  
 già ora le contrae — esse si ritraggono come le Talpe  
-([[Monks|monaci]] muti della [[Nature|Natura]], mandragole vive del suolo)  
+([[characters/monks|monaci]] muti della [[concepts/nature|Natura]], mandragole vive del suolo)  
 strisciano indietro dalla Luce — poi ne stanno in ascolto; —  
 vedono solo per temere, e temono non sanno perché —  
 l’estraneo naturale del loro occhio negativo.   10  
 È uno strano luogo, questo Limbo! — non un Luogo,  
-eppure chiamalo così; — dove il [[Time|Tempo]] e lo Spazio stanco,  
-incatenati dal volo, con senso da incubo [[Night|notturno]] di fuga,  
+eppure chiamalo così; — dove il [[motifs/time|Tempo]] e lo Spazio stanco,  
+incatenati dal volo, con senso da incubo [[motifs/night|notturno]] di fuga,  
 lottano per il loro ultimo mezzo-essere crepuscolare; —  
-Spazio allampanato, e [[Time|Tempo]] senza falce dalle mani di crusca,   15  
+Spazio allampanato, e [[motifs/time|Tempo]] senza falce dalle mani di crusca,   15  
 sterili e senza suono come le sabbie che misurano,  
 non segnati da guizzo d’Ombre, — insensati loro  
 come chiaro di luna sul quadrante del giorno!  
-Ma quello è amabile — sembra [[Time|Tempo]] Umano, —  
-un Vecchio con uno sguardo fermo e [[Sublime|sublime]],   20  
+Ma quello è amabile — sembra [[motifs/time|Tempo]] Umano, —  
+un Vecchio con uno sguardo fermo e [[concepts/sublime|sublime]],   20  
 che interrompe il compito terreno per contemplare i cieli;  
 ma è cieco — una Statua ha occhi così; —  
 pure, avendo per caso volto il viso verso la luna,  
-fissa l’orbe con volto simile alla [[Moon|luna]],  
+fissa l’orbe con volto simile alla [[motifs/moon|luna]],  
 con scarsi capelli bianchi, con la fronte calva e alta,   25  
 fissa ancora, — il suo viso senz’occhi tutto occhio; —  
 come fosse un organo pieno di vista silenziosa,  
@@ -562,11 +562,11 @@ par fissare ciò che par fissare lui!   30
 Nessuna dolce vista simile rinchiude la tana del Limbo,  
 murata all’intorno, e fatta sicura prigione di spiriti,  
 dal puro orrore del vuoto Nulla-affatto,  
-il cui avvolgere circostante avvince questi [[Ghosts|fantasmi]].  
+il cui avvolgere circostante avvince questi [[motifs/ghosts|fantasmi]].  
 Un pensiero livido è la Privazione ottusa, senza crescita,   35  
 eppure quella è solo una maledizione da Purgatorio;  
-l’Inferno conosce una [[Fear|paura]] assai peggiore,  
-una [[Fear|paura]] — uno stato futuro; — è Negazione positiva!  
+l’Inferno conosce una [[concepts/fear|paura]] assai peggiore,  
+una [[concepts/fear|paura]] — uno stato futuro; — è Negazione positiva!  
 1817.
 
 
@@ -574,33 +574,33 @@ una [[Fear|paura]] — uno stato futuro; — è Negazione positiva!
 <span class="atom-split" data-atom="259_the_knights_tomb" data-title="THE KNIGHT’S TOMB" data-chapter="" data-kind="intro" data-tags="topos/ubi_sunt,topos/tempus_fugit,motif/the_grave,motif/dust,motif/swords_weapons,concept/mortality,concept/transience,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
 
 
-Where is the [[Grave|grave]] of Sir [[Arthur]] O’Kellyn?  
-Where may the [[Grave|grave]] of that good man be? —  
-By the side of a [[spring]], on the breast of Helvellyn,  
+Where is the [[motifs/grave|grave]] of Sir [[characters/arthur|Arthur]] O’Kellyn?  
+Where may the [[motifs/grave|grave]] of that good man be? —  
+By the side of a [[motifs/spring|spring]], on the breast of Helvellyn,  
 Under the twigs of a young birch tree!  
-The oak that in [[Summer|summer]] was sweet to hear,   5  
-And rustled its [[Leaves|leaves]] in the fall of the year,  
-And whistled and roared in the [[Winter|winter]] [[Alone|alone]],  
+The oak that in [[motifs/summer|summer]] was sweet to hear,   5  
+And rustled its [[motifs/leaves|leaves]] in the fall of the year,  
+And whistled and roared in the [[motifs/winter|winter]] alone,  
 Is gone, — and the birch in its stead is grown. —  
-The Knight’s bones are [[Dust|dust]],  
-And his good [[Sword|sword]] rust; —  10  
-His [[Soul|soul]] is with the saints, I trust.  
+The Knight’s bones are [[motifs/dust|dust]],  
+And his good sword rust; —  10  
+His [[motifs/soul|soul]] is with the saints, I trust.  
 ? 1817.  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Dov’è la [[Grave|tomba]] di Sir [[Arthur]] O’Kellyn?  
-Dove sarà la [[Grave|tomba]] di quel buon uomo? —  
-Al fianco d’una [[spring|sorgente]], sul petto dell’Helvellyn,  
+Dov’è la [[motifs/grave|tomba]] di Sir [[characters/arthur|Arthur]] O’Kellyn?  
+Dove sarà la [[motifs/grave|tomba]] di quel buon uomo? —  
+Al fianco d’una [[motifs/spring|sorgente]], sul petto dell’Helvellyn,  
 sotto i ramoscelli d’una giovane betulla!  
-La quercia che d’[[Summer|estate]] era dolce a udirsi,   5  
-e frusciava le sue [[Leaves|foglie]] al calare dell’anno,  
-e fischiava e ruggiva d’[[Winter|inverno]], [[Alone|sola]],  
+La quercia che d’[[motifs/summer|estate]] era dolce a udirsi,   5  
+e frusciava le sue [[motifs/leaves|foglie]] al calare dell’anno,  
+e fischiava e ruggiva d’[[motifs/winter|inverno]], sola,  
 non c’è più, — e in sua vece è cresciuta la betulla. —  
-Le ossa del Cavaliere sono [[Dust|polvere]],  
-e la sua buona [[Sword|spada]] ruggine; —  10  
-la sua [[Soul|anima]] è coi santi, confido.  
+Le ossa del Cavaliere sono [[motifs/dust|polvere]],  
+e la sua buona spada ruggine; —  10  
+la sua [[motifs/soul|anima]] è coi santi, confido.  
 ? 1817.
 
 
@@ -610,25 +610,25 @@ la sua [[Soul|anima]] è coi santi, confido.
 
 Now! It is gone — Our brief hours travel post,  
 Each with its thought or deed, its Why or How: —  
-But know, each parting hour gives up a [[Ghost|ghost]]  
+But know, each parting hour gives up a [[archetypes/ghost|ghost]]  
 To dwell within thee — an eternal Now!  
 First published in Lit. Rem., i. 60. First collected in 1844.  
 ON THE MOST VERACIOUS ANECDOTIST  
 AND  
-SMALL-TALK MAN, THOMAS [[Hill|HILL]], ESQ  
-Tom [[Hill]], who laughs at Cares and Woes,  
+SMALL-TALK MAN, THOMAS [[motifs/hill|HILL]], ESQ  
+Tom [[motifs/hill|Hill]], who laughs at Cares and Woes,  
 As nauci — nili — pili —  
 What is he like, as I suppose?  
-Why, to be sure, a [[Rose]] — a [[Rose]].  
-At least, no [[Soul|soul]] that Tom [[Hill]] knows  
+Why, to be sure, a [[motifs/rose|Rose]] — a [[motifs/rose|Rose]].  
+At least, no [[motifs/soul|soul]] that Tom [[motifs/hill|Hill]] knows  
 Could e’er recall a Li-ly.  
 Now first published from an MS.  
-Nothing speaks our mind so [[Well|well]]  
+Nothing speaks our mind so [[motifs/well|well]]  
 As to speak Nothing. Come then, tell  
-Thy Mind in [[Tears]], whoe’er thou be  
+Thy Mind in [[motifs/tears|Tears]], whoe’er thou be  
 That ow’st a name to Misery:  
 None can fluency deny  
-To [[Tears]], the Language of the Eye.  
+To [[motifs/tears|Tears]], the Language of the Eye.  
 Now first published from an MS. in the British Museum.  
 
 
@@ -636,25 +636,25 @@ Now first published from an MS. in the British Museum.
 
 Ora! È andato — Le nostre brevi ore viaggiano in posta,  
 ciascuna col suo pensiero o atto, col suo Perché o Come: —  
-ma sappi: ogni ora che si accomiata rende un [[Ghost|fantasma]]  
+ma sappi: ogni ora che si accomiata rende un [[archetypes/ghost|fantasma]]  
 che dimori dentro di te — un eterno Ora!  
 Pubblicata per la prima volta in Lit. Rem., i. 60. Prima raccolta nel 1844.  
 SUL PIÙ VERIDICO ANEDDOTISTA  
 E  
-UOMO DA CHIACCHIERE, THOMAS [[Hill|HILL]], ESQ  
-Tom [[Hill]], che ride di Affanni e Sventure,  
+UOMO DA CHIACCHIERE, THOMAS [[motifs/hill|HILL]], ESQ  
+Tom [[motifs/hill|Hill]], che ride di Affanni e Sventure,  
 come nauci — nili — pili —  
 a che somiglia, secondo me?  
-Ma, di certo, a una [[Rose|Rosa]] — una [[Rose|Rosa]].  
-Almeno, nessun’[[Soul|anima]] che Tom [[Hill]] conosca  
+Ma, di certo, a una [[motifs/rose|Rosa]] — una [[motifs/rose|Rosa]].  
+Almeno, nessun’[[motifs/soul|anima]] che Tom [[motifs/hill|Hill]] conosca  
 potrebbe mai ricordare un Gi-glio.  
 Ora pubblicata per la prima volta da un MS.  
-Nulla dice la nostra mente così [[Well|bene]]  
+Nulla dice la nostra mente così [[motifs/well|bene]]  
 come il dire Nulla. Vieni dunque, di’  
-la tua Mente in [[Tears|Lacrime]], chiunque tu sia  
+la tua Mente in [[motifs/tears|Lacrime]], chiunque tu sia  
 che devi un nome alla Miseria:  
 nessuno può negar fluenza  
-alle [[Tears|Lacrime]], Linguaggio dell’Occhio.  
+alle [[motifs/tears|Lacrime]], Linguaggio dell’Occhio.  
 Ora pubblicata per la prima volta da un MS. del British Museum.
 
 
@@ -663,19 +663,19 @@ Ora pubblicata per la prima volta da un MS. del British Museum.
 
 
 Stanzas II, III, IV, and a few words from Stanza V, are prefixed as the  
-motto to [[Essay]] XV of The Friend, 1818, i. 179; 1850, i. 136.  
+motto to [[forms/essay|Essay]] XV of The Friend, 1818, i. 179; 1850, i. 136.  
 For Stanza II, line 3 —  
 But he which dwells there is not so; for he  
 With him who dwells there ‘tis not so; for he  
 For Stanza III —  
-So had your [[Body|body]] her morning, hath her [[Noon|noon]],  
-And shall not better, her next change is [[Night|night]]:  
-But her fair larger guest, t’whom sun and [[Moon|moon]]  
+So had your [[concepts/body|body]] her morning, hath her [[motifs/noon|noon]],  
+And shall not better, her next change is [[motifs/night|night]]:  
+But her fair larger guest, t’whom sun and [[motifs/moon|moon]]  
 Are sparks, and short liv’d, claims another right. —  
 The motto reads:  
-Our bodies had their morning, have their [[Noon|noon]],  
-And shall not better — the next change is [[Night|night]],  
-But their fair larger guest, t’whom sun and [[Moon|moon]]  
+Our bodies had their morning, have their [[motifs/noon|noon]],  
+And shall not better — the next change is [[motifs/night|night]],  
+But their fair larger guest, t’whom sun and [[motifs/moon|moon]]  
 Are sparks and short liv’d, claims another right.  
 The alteration was first noted in 1837. In 1850 line 3 of Stanza III  
 ‘fair’ is misprinted ‘far’.  
@@ -684,19 +684,19 @@ The alteration was first noted in 1837. In 1850 line 3 of Stanza III
 <span class="qlang-split" data-lang="it"></span>
 
 Le stanze II, III, IV, e poche parole dalla Stanza V, sono premesse come  
-motto al [[Essay|Saggio]] XV di The Friend, 1818, i. 179; 1850, i. 136.  
+motto al [[forms/essay|Saggio]] XV di The Friend, 1818, i. 179; 1850, i. 136.  
 Per la Stanza II, verso 3 —  
 Ma colui che vi dimora non è così; ché egli  
 Con colui che vi dimora non è così; ché egli  
 Per la Stanza III —  
-Così il vostro [[Body|corpo]] ebbe il suo mattino, ha il suo [[Noon|mezzogiorno]],  
-e non migliorerà: il suo prossimo mutamento è [[Night|notte]]:  
-ma il suo bell’ospite più grande, cui sole e [[Moon|luna]]  
+Così il vostro [[concepts/body|corpo]] ebbe il suo mattino, ha il suo [[motifs/noon|mezzogiorno]],  
+e non migliorerà: il suo prossimo mutamento è [[motifs/night|notte]]:  
+ma il suo bell’ospite più grande, cui sole e [[motifs/moon|luna]]  
 sono scintille, e di breve vita, reclama altro diritto. —  
 Il motto recita:  
-I nostri corpi ebbero il loro mattino, hanno il loro [[Noon|mezzogiorno]],  
-e non miglioreranno — il prossimo mutamento è [[Night|notte]],  
-ma il loro bell’ospite più grande, cui sole e [[Moon|luna]]  
+I nostri corpi ebbero il loro mattino, hanno il loro [[motifs/noon|mezzogiorno]],  
+e non miglioreranno — il prossimo mutamento è [[motifs/night|notte]],  
+ma il loro bell’ospite più grande, cui sole e [[motifs/moon|luna]]  
 sono scintille e di breve vita, reclama altro diritto.  
 L’alterazione fu notata per la prima volta nel 1837. Nel 1850, al verso 3 della Stanza III,  
 ‘fair’ è stampato per errore ‘far’.

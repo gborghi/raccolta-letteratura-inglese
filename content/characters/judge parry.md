@@ -14,4 +14,10 @@ A real-life English judge and author whom Chesterton profiles at length in 'The 
 
 <div class="concept-works" data-slug="characters/judge-parry"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-uses-of-diversity-(chesterton)|The Uses of Diversity (Chesterton)]]
+
+</div>
+
 #graph/character

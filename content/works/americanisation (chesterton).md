@@ -26,20 +26,20 @@ tags:
   - histref/samuel_johnson
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Chesterton*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > Satirical patriotic poem resisting the Americanisation of British life ('Britannia needs no Boulevards'), invoking the Dance of Death and a declaration of independence. Themes: nationalism, satire of society, critique of progress.
 
 ## Connections
 
-**Historical References:** [[Dostoevsky]], [[Samuel Johnson]]
+**Historical References:** [[historical-references/dostoevsky|Dostoevsky]], [[historical-references/samuel-johnson|Samuel Johnson]]
 
-**Settings:** [[America]], [[New York]], [[Russia]], [[Europe]]
+**Settings:** [[settings/america|America]], [[settings/new-york|New York]], [[settings/russia|Russia]], [[settings/europe|Europe]]
 
-**Topoi:** [[Dance of Death]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Critique of Progress]], [[Nostalgia]], [[Anti-Industrialism]], [[Freedom and Liberty]], [[Economics]]
-**Forms & Genres:** [[Comic Verse Song]], [[Satire]], [[Epigram]]
+**Topoi:** [[topoi/dance-of-death|Dance of Death]]
+**Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/nostalgia|Nostalgia]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/satire|Satire]], [[forms/epigram|Epigram]]
 
 ## Testo integrale / Full text
 

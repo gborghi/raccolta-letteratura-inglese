@@ -14,4 +14,10 @@ Defoe's castaway, used at length by Chesterton as the symbol of possessing few t
 
 <div class="concept-works" data-slug="characters/robinson-crusoe"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/man-orthodox-(chesterton)|Man Orthodox (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ Angevin king whose quarrel with Thomas Becket over Church versus State justice d
 
 <div class="concept-works" data-slug="characters/henry-ii"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/history-(chesterton)|history (Chesterton)]]
+
+</div>
+
 #graph/character

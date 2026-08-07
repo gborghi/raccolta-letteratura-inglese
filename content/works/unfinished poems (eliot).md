@@ -17,17 +17,17 @@ tags:
   - histref/greek_tragedy
 ---
 
-*by Eliot*  ·  **Cluster:** [[Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
+*by Eliot*  ·  **Cluster:** [[clusters/spiritual-emptiness-·-waste-land-(sterility)-·-greek-tragedy|Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
 
 > [!abstract] 
 > Section file containing Sweeney Agonistes: jazz-rhythm verse drama of birth/copulation/death, murder, dread; spiritual emptiness of the modern waste land.
 
 ## Connections
 
-**Motifs:** [[Death]]
-**Themes & Concepts:** [[Spiritual Emptiness]], [[Waste Land (Sterility)]], [[Guilt]], [[Terror and Horror]]
-**Forms & Genres:** [[Verse Drama]], [[Fragment]]
-**Historical References:** [[Greek Tragedy]]
+**Motifs:** [[motifs/death|Death]]
+**Themes & Concepts:** [[concepts/spiritual-emptiness|Spiritual Emptiness]], [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/guilt|Guilt]], [[concepts/terror-and-horror|Terror and Horror]]
+**Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/fragment|Fragment]]
+**Historical References:** [[historical-references/greek-tragedy|Greek Tragedy]]
 
 ## Testo integrale / Full text
 

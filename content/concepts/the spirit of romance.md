@@ -14,4 +14,11 @@ Chesterton's argument in the Scott essay that romance is not a plot device but a
 
 <div class="concept-works" data-slug="concepts/the-spirit-of-romance"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+
+</div>
+
 #graph/concept

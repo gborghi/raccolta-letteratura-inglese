@@ -14,4 +14,11 @@ The essay's central setting: Chesterton's first-hand account of arriving among P
 
 <div class="concept-works" data-slug="settings/poland"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-polish-ideal-(chesterton)|The Polish Ideal (Chesterton)]]
+- [[works/the-exploits-of-brigadier-gerard-(conan-doyle)|The Exploits of Brigadier Gerard (Conan Doyle)]]
+
+</div>
+
 #graph/setting

@@ -19,19 +19,19 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt]]
+*by Poe*  ·  **Cluster:** [[clusters/ruins-the-abbey-·-sic-transit-gloria-mundi-·-ubi-sunt|Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt]]
 
 > [!abstract] 
 > A meditative blank-verse poem on the ruins of the Roman Coliseum that turns the fallen monument into a lesson on the passing of glory and the enduring power of memory; an ubi sunt / sic transit reflection.
 
 ## Connections
 
-**Topoi:** [[Sic Transit Gloria Mundi]], [[Ubi Sunt]]
-**Motifs:** [[Ruins the Abbey]], [[Memory]], [[Time]]
-**Themes & Concepts:** [[Transience]], [[Immortality of Art Fame]]
-**Forms & Genres:** [[Lyric]]
-**Historical References:** [[Ancient Rome]]
-**Settings:** [[Ancient Rome]]
+**Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/ubi-sunt|Ubi Sunt]]
+**Motifs:** [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/memory|Memory]], [[motifs/time|Time]]
+**Themes & Concepts:** [[concepts/transience|Transience]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
+**Historical References:** [[settings/ancient-rome|Ancient Rome]]
+**Settings:** [[settings/ancient-rome|Ancient Rome]]
 
 ## Testo integrale / Full text
 

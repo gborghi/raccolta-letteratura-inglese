@@ -14,4 +14,10 @@ Deliberate self-killing, here the poem's ironic subject, courted in each stanza 
 
 <div class="concept-works" data-slug="concepts/suicide"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/suicide-(chesterton)|suicide (Chesterton)]]
+
+</div>
+
 #graph/concept

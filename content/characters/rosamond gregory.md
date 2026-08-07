@@ -14,4 +14,10 @@ Gregory's red-haired sister who talks with Syme in the opening garden scene and 
 
 <div class="concept-works" data-slug="characters/rosamond-gregory"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thursday-(chesterton)|thursday (Chesterton)]]
+
+</div>
+
 #graph/character

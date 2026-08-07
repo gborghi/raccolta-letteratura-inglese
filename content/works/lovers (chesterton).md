@@ -27,7 +27,7 @@ tags:
 
 # lovers
 
-*by Chesterton*  ·  **Cluster:** [[Terror and Horror · Madness]]
+*by Chesterton*  ·  **Cluster:** [[clusters/terror-and-horror-·-madness|Terror and Horror · Madness]]
 
 > [!abstract] 
 > A short prose episode from The Poet and the Lunatics: the painter Gabriel Gale, who sees the world upside down to see it truly, woos Diana by asking her to make a rash vow; whimsy, love and madness.
@@ -41,15 +41,15 @@ tags:
 
 ## Connections
 
-**Settings:** [[Inn]]
+**Settings:** [[settings/inn|Inn]]
 
-**Characters:** [[Gabriel Gale]], [[Diana Westermaine]], [[Hurrel]]
+**Characters:** [[characters/gabriel-gale|Gabriel Gale]], [[characters/diana-westermaine|Diana Westermaine]], [[characters/hurrel|Hurrel]]
 
-**Topoi:** [[World Upside Down]]
-**Archetypes:** [[Lover]], [[Fool]]
-**Motifs:** [[Madness (2)]], [[Rash Vow]]
-**Themes & Concepts:** [[Romantic Love]], [[Madness]], [[Appearance vs Reality]], [[Wonder and Gratitude]], [[Paradox]], [[Friendship]]
-**Forms & Genres:** [[Short Story]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/fool|Fool]]
+**Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/rash-vow|Rash Vow]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/madness|Madness]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/paradox|Paradox]], [[concepts/friendship|Friendship]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
 
 ## Testo integrale / Full text
 

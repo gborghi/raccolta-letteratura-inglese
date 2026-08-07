@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/adonis"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/venus-and-adonis-(shakespeare)|VENUS AND ADONIS (Shakespeare)]]
+
+</div>
+
 #graph/character

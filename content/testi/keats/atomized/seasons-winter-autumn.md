@@ -15,7 +15,7 @@ tags:
 
 
 Ever let the Fancy roam,  
-Pleasure never is at [[Home|home]]:  
+Pleasure never is at [[motifs/home|home]]:  
 At a touch sweet Pleasure melteth,  
 Like to bubbles when rain pelteth;  
 Then let winged Fancy wander  
@@ -23,39 +23,39 @@ Through the thought still spread beyond her:
 Open wide the mind’s cage-door,  
 She’ll dart forth, and cloudward soar.  
 O sweet Fancy! let her loose;  
-[[Summer]]’s joys are spoilt by use,  10  
-And the enjoying of the [[spring|Spring]]  
+[[motifs/summer|Summer]]’s joys are spoilt by use,  10  
+And the enjoying of the [[motifs/spring|Spring]]  
 Fades as does its blossoming;  
-[[Autumn]]’s red-lipp’d fruitage too,  
+[[motifs/autumn|Autumn]]’s red-lipp’d fruitage too,  
 Blushing through the mist and dew,  
 Cloys with tasting: What do then?  
 Sit thee by the ingle, when  
 The sear faggot blazes bright,  
-Spirit of a [[Winter|winter]]’s [[Night|night]];  
+Spirit of a [[motifs/winter|winter]]’s [[motifs/night|night]];  
 When the soundless earth is muffled,  
-And the caked [[Snow|snow]] is shuffled  20  
+And the caked [[motifs/snow|snow]] is shuffled  20  
 From the ploughboy’s heavy shoon;  
-When the [[Night]] doth meet the [[Noon]]  
+When the [[motifs/night|Night]] doth meet the [[motifs/noon|Noon]]  
 In a dark conspiracy  
 To banish Even from her sky.  
 Sit thee there, and send abroad,  
-With a mind [[Self|self]]-overaw’d,  
+With a mind [[concepts/self|self]]-overaw’d,  
 Fancy, high-commission’d:--send her!  
 She has vassals to attend her:  
-She will bring, in spite of [[Frost|frost]],  
+She will bring, in spite of [[motifs/frost|frost]],  
 Beauties that the earth hath lost;  30  
 She will bring thee, all together,  
-All delights of [[Summer|summer]] weather;  
-All the buds and [[Bells|bells]] of May,  
+All delights of [[motifs/summer|summer]] weather;  
+All the buds and [[motifs/bells|bells]] of May,  
 From dewy sward or thorny spray  
-All the heaped [[Autumn]]’s wealth,  
+All the heaped [[motifs/autumn|Autumn]]’s wealth,  
 With a still, mysterious stealth:  
 She will mix these pleasures up  
 Like three fit wines in a cup,  
 And thou shalt quaff it:--thou shalt hear  
 Distant harvest-carols clear;  40  
 Rustle of the reaped corn;  
-Sweet [[Birds|birds]] antheming the morn:  
+Sweet [[motifs/birds|birds]] antheming the morn:  
 And, in the same moment--hark!  
 ’Tis the early April lark,  
 Or the rooks, with busy caw,  
@@ -65,12 +65,12 @@ The daisy and the marigold;
 White-plum’d lilies, and the first  
 Hedge-grown primrose that hath burst;  50  
 Shaded hyacinth, alway  
-Sapphire [[Queen|queen]] of the mid-May;  
+Sapphire [[characters/queen|queen]] of the mid-May;  
 And every leaf, and every flower  
-Pearled with the [[Self|self]]-same shower.  
+Pearled with the [[concepts/self|self]]-same shower.  
 Thou shalt see the field-mouse peep  
-Meagre from its celled [[Sleep|sleep]];  
-And the snake all [[Winter|winter]]-thin  
+Meagre from its celled [[motifs/sleep|sleep]];  
+And the snake all [[motifs/winter|winter]]-thin  
 Cast on sunny bank its skin;  
 Freckled nest-eggs thou shalt see  
 Hatching in the hawthorn-tree,  60  
@@ -79,7 +79,7 @@ Quiet on her mossy nest;
 Then the hurry and alarm  
 When the bee-hive casts its swarm;  
 Acorns ripe down-pattering,  
-While the [[Autumn|autumn]] breezes sing.  
+While the [[motifs/autumn|autumn]] breezes sing.  
 
 Oh, sweet Fancy! let her loose;  
 Every thing is spoilt by use:  
@@ -105,16 +105,16 @@ Fell her kirtle to her feet,
 While she held the goblet sweet,  
 And Jove grew languid.--Break the mesh  
 Of the Fancy’s silken leash;  90  
-Quickly break her [[Prison|prison]]-string  
+Quickly break her [[motifs/prison|prison]]-string  
 And such joys as these she’ll bring.--  
 Let the winged Fancy roam  
-Pleasure never is at [[Home|home]].  
+Pleasure never is at [[motifs/home|home]].  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Lascia sempre vagare la Fantasia,  
-il Piacere non è mai a [[Home|casa]]:  
+il Piacere non è mai a [[motifs/home|casa]]:  
 a un tocco il dolce Piacere si dissolve,  
 come bolle quando la pioggia batte;  
 lascia dunque errare la Fantasia alata  
@@ -122,39 +122,39 @@ per il pensiero che ancora si stende oltre lei:
 spalanca la porta della gabbia della mente,  
 ne guizzerà fuori, e s’innalzerà verso le nubi.  
 Oh dolce Fantasia! liberala;  
-le gioie dell’[[Summer|Estate]] si guastano con l’uso,  10  
-e il godimento della [[spring|Primavera]]  
+le gioie dell’[[motifs/summer|Estate]] si guastano con l’uso,  10  
+e il godimento della [[motifs/spring|Primavera]]  
 sfiorisce come il suo fiorire;  
-anche la frutta dalle labbra rosse dell’[[Autumn|Autunno]],  
+anche la frutta dalle labbra rosse dell’[[motifs/autumn|Autunno]],  
 che arrossisce fra la nebbia e la rugiada,  
 nausea a gustarla: che fare, dunque?  
 Siedi presso il focolare, quando  
 la fascina secca arde luminosa,  
-spirito d’una [[Night|notte]] d’[[Winter|inverno]];  
+spirito d’una [[motifs/night|notte]] d’[[motifs/winter|inverno]];  
 quando la terra senza suono è ovattata,  
-e la [[Snow|neve]] incrostata è scrollata  20  
+e la [[motifs/snow|neve]] incrostata è scrollata  20  
 dagli scarponi pesanti del garzone d’aratro;  
-quando la [[Night|Notte]] incontra il [[Noon|Meriggio]]  
+quando la [[motifs/night|Notte]] incontra il [[motifs/noon|Meriggio]]  
 in un’oscura congiura  
 per bandire la Sera dal suo cielo.  
 Siedi là, e manda fuori,  
-con una mente da [[Self|sé]] soggiogata,  
+con una mente da [[concepts/self|sé]] soggiogata,  
 la Fantasia, con alto mandato:--mandala!  
 Ha vassalli che la servono:  
-porterà, a dispetto del [[Frost|gelo]],  
+porterà, a dispetto del [[motifs/frost|gelo]],  
 bellezze che la terra ha perduto;  30  
 ti porterà, tutte insieme,  
-tutte le delizie del tempo d’[[Summer|estate]];  
-tutte le gemme e le [[Bells|campanule]] di maggio,  
+tutte le delizie del tempo d’[[motifs/summer|estate]];  
+tutte le gemme e le [[motifs/bells|campanule]] di maggio,  
 dal prato rugiadoso o dal ramo spinoso,  
-tutta l’ammassata ricchezza dell’[[Autumn|Autunno]],  
+tutta l’ammassata ricchezza dell’[[motifs/autumn|Autunno]],  
 con una quieta, misteriosa furtività:  
 mescolerà questi piaceri  
 come tre vini ben scelti in una coppa,  
 e tu la berrai d’un fiato:--udrai  
 chiari, lontani canti di mietitura;  40  
 il fruscio del grano mietuto;  
-dolci [[Birds|uccelli]] che inneggiano al mattino:  
+dolci [[motifs/birds|uccelli]] che inneggiano al mattino:  
 e, nel medesimo istante--ascolta!  
 è l’allodola precoce d’aprile,  
 o le cornacchie, dal gracchiare indaffarato,  
@@ -164,12 +164,12 @@ la margherita e la calendula;
 gigli dal candido pennacchio, e la prima  
 primula di siepe che sia sbocciata;  50  
 il giacinto ombroso, sempre  
-[[Queen|regina]] di zaffiro di metà maggio;  
+[[characters/queen|regina]] di zaffiro di metà maggio;  
 e ogni foglia, e ogni fiore  
-imperlati dal medesimo [[Self|stesso]] acquazzone.  
+imperlati dal medesimo [[concepts/self|stesso]] acquazzone.  
 Vedrai il topo campagnolo far capolino  
-magro dal suo [[Sleep|sonno]] rintanato;  
-e il serpente, tutto assottigliato dall’[[Winter|inverno]],  
+magro dal suo [[motifs/sleep|sonno]] rintanato;  
+e il serpente, tutto assottigliato dall’[[motifs/winter|inverno]],  
 gettare su una riva assolata la sua pelle;  
 vedrai uova screziate nel nido  
 schiudersi nel biancospino,  60  
@@ -178,7 +178,7 @@ quieta sul nido muscoso;
 poi la fretta e l’allarme  
 quando l’alveare getta il suo sciame;  
 ghiande mature che picchiettano cadendo,  
-mentre le brezze d’[[Autumn|autunno]] cantano.  
+mentre le brezze d’[[motifs/autumn|autunno]] cantano.  
 
 Oh, dolce Fantasia! liberala;  
 ogni cosa si guasta con l’uso:  
@@ -204,10 +204,10 @@ le cadde la veste fino ai piedi,
 mentre reggeva la dolce coppa,  
 e Giove si fece languido.--Spezza la maglia  
 del serico guinzaglio della Fantasia;  90  
-spezza presto il suo laccio di [[Prison|prigione]]  
+spezza presto il suo laccio di [[motifs/prison|prigione]]  
 e gioie come queste ella porterà.--  
 Lascia vagare la Fantasia alata,  
-il Piacere non è mai a [[Home|casa]].
+il Piacere non è mai a [[motifs/home|casa]].
 
 
 
@@ -222,32 +222,32 @@ To bend with apples the moss’d cottage-trees,
 And fill all fruit with ripeness to the core;  
 To swell the gourd, and plump the hazel shells  
 With a sweet kernel; to set budding more,  
-And still more, later [[Flowers|flowers]] for the [[Bees|bees]],  
+And still more, later [[motifs/flowers|flowers]] for the [[motifs/bees|bees]],  
 Until they think warm days will never cease,  10  
-For [[Summer]] has o’er-brimm’d their clammy cells.  
+For [[motifs/summer|Summer]] has o’er-brimm’d their clammy cells.  
 
 Who hath not seen thee oft amid thy store?  
 Sometimes whoever seeks abroad may find  
 Thee sitting careless on a granary floor,  
-Thy hair soft-lifted by the winnowing [[Wind|wind]];  
+Thy hair soft-lifted by the winnowing [[motifs/wind|wind]];  
 Or on a half-reap’d furrow sound asleep,  
 Drows’d with the fume of poppies, while thy hook  
-Spares the next swath and all its twined [[Flowers|flowers]]:  
+Spares the next swath and all its twined [[motifs/flowers|flowers]]:  
 And sometimes like a gleaner thou dost keep  
 Steady thy laden head across a brook;  20  
 Or by a cyder-press, with patient look,  
 Thou watchest the last oozings hours by hours.  
 
-Where are the [[songs]] of [[spring|Spring]]? Ay, where are they?  
+Where are the songs of [[motifs/spring|Spring]]? Ay, where are they?  
 Think not of them, thou hast thy music too,--  
 While barred clouds bloom the soft-dying day,  
 And touch the stubble-plains with rosy hue;  
 Then in a wailful choir the small gnats mourn  
-Among the [[River|river]] sallows, borne aloft  
-Or sinking as the light [[Wind|wind]] lives or dies;  
+Among the [[motifs/river|river]] sallows, borne aloft  
+Or sinking as the light [[motifs/wind|wind]] lives or dies;  
 And full-grown lambs loud bleat from hilly bourn;  30  
 Hedge-crickets sing; and now with treble soft  
-The red-breast whistles from a [[Garden|garden]]-croft;  
+The red-breast whistles from a [[motifs/garden|garden]]-croft;  
 And gathering swallows twitter in the skies.  
 
 
@@ -261,32 +261,32 @@ come piegare di mele gli alberi muschiosi del casolare,
 e riempire ogni frutto di maturità fino al cuore;  
 gonfiare la zucca, e far polposi i gusci del nocciòlo  
 d’un dolce seme; far germogliare ancora,  
-e ancora, tardivi [[Flowers|fiori]] per le [[Bees|api]],  
+e ancora, tardivi [[motifs/flowers|fiori]] per le [[motifs/bees|api]],  
 finché credano che i giorni caldi non cesseranno mai,  10  
-ché l’[[Summer|Estate]] ha ricolmato le loro celle vischiose.  
+ché l’[[motifs/summer|Estate]] ha ricolmato le loro celle vischiose.  
 
 Chi non ti ha veduta spesso fra le tue provviste?  
 Talvolta chi va cercando all’aperto può trovarti  
 seduta noncurante sul suolo d’un granaio,  
-i capelli mollemente sollevati dal [[Wind|vento]] che vaglia;  
+i capelli mollemente sollevati dal [[motifs/wind|vento]] che vaglia;  
 o su un solco mietuto a metà profondamente addormentata,  
 intorpidita dal fumo dei papaveri, mentre la tua falce  
-risparmia la prossima andana e tutti i suoi [[Flowers|fiori]] intrecciati:  
+risparmia la prossima andana e tutti i suoi [[motifs/flowers|fiori]] intrecciati:  
 e talvolta, come una spigolatrice, tieni  
 ferma la testa carica attraversando un ruscello;  20  
 o presso un torchio da sidro, con sguardo paziente,  
 osservi lo stillare ultimo, ora dopo ora.  
 
-Dove sono i [[songs|canti]] della [[spring|Primavera]]? Sì, dove sono?  
+Dove sono i canti della [[motifs/spring|Primavera]]? Sì, dove sono?  
 Non pensarli: anche tu hai la tua musica,--  
 mentre nubi striate fanno fiorire il giorno che dolce muore,  
 e toccano di rosea tinta le pianure di stoppie;  
 allora in un coro lamentoso i piccoli moscerini piangono  
-fra i salici del [[River|fiume]], sollevati in alto  
-o calanti secondo che il lieve [[Wind|vento]] viva o muoia;  
+fra i salici del [[motifs/river|fiume]], sollevati in alto  
+o calanti secondo che il lieve [[motifs/wind|vento]] viva o muoia;  
 e gli agnelli ormai cresciuti belano forte dal confine dei colli;  30  
 cantano i grilli di siepe; e ora con un tenue acuto  
-il pettirosso fischia da un chiuso di [[Garden|giardino]];  
+il pettirosso fischia da un chiuso di [[motifs/garden|giardino]];  
 e le rondini che si radunano stridono nei cieli.
 
 
@@ -301,13 +301,13 @@ From the sick heavens all unseemly stains.
 The anxious month, relieved of its pains,  
 Takes as a long-lost right the feel of May;  
 The eyelids with the passing coolness play  
-Like [[Rose|rose]] [[Leaves|leaves]] with the drip of [[Summer|summer]] rains.  
-The calmest thoughts come round us; as of [[Leaves|leaves]]  
-Budding - fruit ripening in stillness - [[Autumn|autumn]] suns 10  
+Like [[motifs/rose|rose]] [[motifs/leaves|leaves]] with the drip of [[motifs/summer|summer]] rains.  
+The calmest thoughts come round us; as of [[motifs/leaves|leaves]]  
+Budding - fruit ripening in stillness - [[motifs/autumn|autumn]] suns 10  
 Smiling at eve upon the quiet sheaves -  
 Sweet Sappho’s cheek - a smiling infant’s breath -  
 The gradual sand that through an hourglass runs -  
-A woodland rivulet - a Poet’s [[Death|death]].  
+A woodland rivulet - a Poet’s [[motifs/death|death]].  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -319,21 +319,21 @@ dai cieli malati ogni macchia sconveniente.
 Il mese ansioso, sollevato dalle sue pene,  
 riprende come diritto perduto il sapore di maggio;  
 le palpebre giocano col fresco che trascorre  
-come [[Leaves|foglie]] di [[Rose|rosa]] col gocciolare delle piogge d’[[Summer|estate]].  
-I pensieri più calmi ci circondano; come di [[Leaves|foglie]]  
-che germogliano - di frutti che maturano nella quiete - di soli d’[[Autumn|autunno]] 10  
+come [[motifs/leaves|foglie]] di [[motifs/rose|rosa]] col gocciolare delle piogge d’[[motifs/summer|estate]].  
+I pensieri più calmi ci circondano; come di [[motifs/leaves|foglie]]  
+che germogliano - di frutti che maturano nella quiete - di soli d’[[motifs/autumn|autunno]] 10  
 che sorridono a sera sui covoni quieti -  
 la guancia della dolce Saffo - il respiro d’un bimbo che sorride -  
 la sabbia graduale che scorre in una clessidra -  
-un ruscello di bosco - la [[Death|morte]] d’un Poeta.
+un ruscello di bosco - la [[motifs/death|morte]] d’un Poeta.
 
 
 
 <span class="atom-split" data-atom="061_on_seeing_the_elgin_marbles" data-title="On Seeing the Elgin Marbles" data-chapter="" data-kind="intro" data-tags="topos/sic_transit_gloria_mundi,motif/ruins,motif/time,motif/birds,concept/mortality,concept/the_sublime,concept/transience,form/sonnet,histref/ancient_greece,cluster/seasons,cluster/winter,cluster/autumn"></span>
 
 
-My spirit is too weak - [[Mortality|mortality]]  
-Weighs heavily on me like unwilling [[Sleep|sleep]].  
+My spirit is too weak - [[concepts/mortality|mortality]]  
+Weighs heavily on me like unwilling [[motifs/sleep|sleep]].  
 And each imagin’d pinnacle and steep  
 Of godlike hardship, tells me I must die  
 Like a sick Eagle looking at the sky.  
@@ -343,16 +343,16 @@ Fresh for the opening of the morning’s eye.
 Such dim-conceived glories of the brain  
 Bring round the heart an undescribable feud:  
 10  
-So do these wonders a most dizzy [[Pain|pain]],  
+So do these wonders a most dizzy [[motifs/pain|pain]],  
 That mingles Grecian grandeur with the rude  
-Wasting of old [[Time]] - with a billowy main -  
-A sun - a [[Shadow|shadow]] of a magnitude.  
+Wasting of old [[motifs/time|Time]] - with a billowy main -  
+A sun - a [[archetypes/shadow|shadow]] of a magnitude.  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il mio spirito è troppo debole - la [[Mortality|mortalità]]  
-pesa grave su di me come un [[Sleep|sonno]] non voluto.  
+Il mio spirito è troppo debole - la [[concepts/mortality|mortalità]]  
+pesa grave su di me come un [[motifs/sleep|sonno]] non voluto.  
 E ogni pinnacolo e ogni erta immaginati  
 di divina fatica mi dicono che devo morire  
 come un’Aquila malata che guarda il cielo.  
@@ -362,10 +362,10 @@ freschi per l’aprirsi dell’occhio del mattino.
 Tali glorie oscuramente concepite dalla mente  
 portano intorno al cuore un’indicibile contesa:  
 10  
-così queste meraviglie: un [[Pain|dolore]] vertiginoso  
+così queste meraviglie: un [[motifs/pain|dolore]] vertiginoso  
 che mescola la grandezza greca col rozzo  
-consumarsi del vecchio [[Time|Tempo]] - con un mare ondoso -  
-un sole - un’[[Shadow|ombra]] di grandezza.
+consumarsi del vecchio [[motifs/time|Tempo]] - con un mare ondoso -  
+un sole - un’[[archetypes/shadow|ombra]] di grandezza.
 
 
 
@@ -383,7 +383,7 @@ Shed one drop, then it is gone,
 O ’twas born to die.  
 
 Still so pale? then dearest weep;  
-Weep, I’ll count the [[Tears|tears]],  
+Weep, I’ll count the [[motifs/tears|tears]],  
 And each one shall be a bliss  
 For thee in after years.  
 
@@ -394,8 +394,8 @@ Are tenderer still.
 
 Yet - as all things mourn awhile  
 At fleeting blisses,  
-Let us too! but be our [[Dirge|dirge]]  
-A [[Dirge|dirge]] of kisses.  
+Let us too! but be our [[forms/dirge|dirge]]  
+A [[forms/dirge|dirge]] of kisses.  
 20  
 
 
@@ -412,7 +412,7 @@ versa una goccia, e poi è passata,
 oh, era nata per morire.  
 
 Ancora così pallida? allora piangi, carissima;  
-piangi, io conterò le [[Tears|lacrime]],  
+piangi, io conterò le [[motifs/tears|lacrime]],  
 e ognuna sarà una beatitudine  
 per te negli anni a venire.  
 
@@ -423,8 +423,8 @@ sono ancora più tenere.
 
 Pure - poiché tutte le cose piangono un poco  
 le gioie fuggevoli,  
-piangiamo anche noi! ma sia il nostro [[Dirge|lamento]]  
-un [[Dirge|lamento]] di baci.  
+piangiamo anche noi! ma sia il nostro [[forms/dirge|lamento]]  
+un [[forms/dirge|lamento]] di baci.  
 20
 
 
@@ -432,17 +432,17 @@ un [[Dirge|lamento]] di baci.
 <span class="atom-split" data-atom="079_sonnet_to_a_lady_seen_for_a_few_moments_at_vauxhall" data-title="Sonnet to a Lady Seen for a Few Moments at Vauxhall" data-chapter="" data-kind="intro" data-tags="motif/time,motif/memory,motif/rose,motif/the_sea,concept/unrequited_love,concept/nostalgia,concept/memory_and_time,form/sonnet,cluster/seasons,cluster/winter,cluster/autumn"></span>
 
 
-[[Time]]’s sea hath been five years at its slow ebb,  
+[[motifs/time|Time]]’s sea hath been five years at its slow ebb,  
 Long hours have to and fro let creep the sand,  
-Since I was tangled in thy [[Beauty|beauty]]’s web,  
+Since I was tangled in thy [[concepts/beauty|beauty]]’s web,  
 And snared by the ungloving of thine hand.  
 And yet I never look on midnight sky,  
-But I behold thine eyes’ [[Well|well]] [[Memory|memory]]’d light;  
-I cannot look upon the [[Rose|rose]]’s dye,  
-But to thy cheek my [[Soul|soul]] doth take its flight.  
+But I behold thine eyes’ [[motifs/well|well]] [[motifs/memory|memory]]’d light;  
+I cannot look upon the [[motifs/rose|rose]]’s dye,  
+But to thy cheek my [[motifs/soul|soul]] doth take its flight.  
 I cannot look on any building flower,  
 But my fond ear, in fancy at thy lips  
-And hearkening for a [[Love|love]]-sound, doth devour  
+And hearkening for a [[motifs/love|love]]-sound, doth devour  
 Its sweets in the wrong sense: - Thou dost eclipse  
 Every delight with sweet remembering,  
 And grief unto my darling joys dost bring.  
@@ -450,17 +450,17 @@ And grief unto my darling joys dost bring.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il mare del [[Time|Tempo]] è da cinque anni al suo lento riflusso,  
+Il mare del [[motifs/time|Tempo]] è da cinque anni al suo lento riflusso,  
 lunghe ore hanno lasciato scorrere la sabbia avanti e indietro,  
-da quando fui preso nella rete della tua [[Beauty|bellezza]],  
+da quando fui preso nella rete della tua [[concepts/beauty|bellezza]],  
 e irretito dallo sguantarsi della tua mano.  
 Eppure mai guardo il cielo di mezzanotte  
-senza scorgere la luce dei tuoi occhi [[Well|bene]] serbata in [[Memory|memoria]];  
-non posso guardare la tinta della [[Rose|rosa]]  
-senza che alla tua guancia la mia [[Soul|anima]] prenda il volo.  
+senza scorgere la luce dei tuoi occhi [[motifs/well|bene]] serbata in [[motifs/memory|memoria]];  
+non posso guardare la tinta della [[motifs/rose|rosa]]  
+senza che alla tua guancia la mia [[motifs/soul|anima]] prenda il volo.  
 Non posso guardare alcun fiore che si formi  
 senza che il mio orecchio amoroso, in fantasia sulle tue labbra  
-e in ascolto d’un suono d’[[Love|amore]], ne divori  
+e in ascolto d’un suono d’[[motifs/love|amore]], ne divori  
 le dolcezze col senso sbagliato: - Tu eclissi  
 ogni delizia con un dolce ricordare,  
 e porti dolore alle mie gioie più care.
@@ -475,13 +475,13 @@ Felt parting and warm meeting every week,
 Then one poor year a thousand years would be,  
 The flush of welcome ever on the cheek:  
 So could we live long life in little space,  
-So [[Time|time]] itself would be annihilate,  
-So a day’s [[Journey|journey]] in oblivious haze  
+So [[motifs/time|time]] itself would be annihilate,  
+So a day’s [[motifs/journey|journey]] in oblivious haze  
 To serve our joys would lengthen and dilate.  
 O to arrive each Monday morn from Ind!  
 To land each Tuesday from the rich Levant!  
 10  
-In little [[Time|time]] a host of joys to bind,  
+In little [[motifs/time|time]] a host of joys to bind,  
 And keep our souls in one eternal pant!  
 This morn, my friend, and yester-evening taught  
 Me how to harbour such a happy thought.  
@@ -494,13 +494,13 @@ provassimo ogni settimana il distacco e il caldo incontro,
 allora un solo povero anno sarebbe mille anni,  
 il rossore del benvenuto sempre sulla guancia:  
 così vivremmo lunga vita in piccolo spazio,  
-così il [[Time|tempo]] stesso sarebbe annientato,  
-così il [[Journey|viaggio]] d’un giorno, in una foschia d’oblio,  
+così il [[motifs/time|tempo]] stesso sarebbe annientato,  
+così il [[motifs/journey|viaggio]] d’un giorno, in una foschia d’oblio,  
 per servire le nostre gioie s’allungherebbe e dilaterebbe.  
 Oh, approdare ogni lunedì mattina dalle Indie!  
 sbarcare ogni martedì dal ricco Levante!  
 10  
-In poco [[Time|tempo]] stringere insieme una schiera di gioie,  
+In poco [[motifs/time|tempo]] stringere insieme una schiera di gioie,  
 e tenere le nostre anime in un solo eterno anelito!  
 Questa mattina, amico mio, e la sera d’ieri m’hanno insegnato  
 come dar ricetto a un pensiero così felice.
@@ -511,16 +511,16 @@ come dar ricetto a un pensiero così felice.
 
 
 Lines From a Letter to John Hamilton Reynolds  
-O Thou whose face hath felt the [[Winter]]’s [[Wind|wind]].  
-Whose eye has seen the [[Snow|snow]]-clouds hung in mist,  
-And the black elm tops ‘mong the freezing [[Stars|stars]],  
-To thee the [[spring]] will be a harvest-[[Time|time]].  
+O Thou whose face hath felt the [[motifs/winter|Winter]]’s [[motifs/wind|wind]].  
+Whose eye has seen the [[motifs/snow|snow]]-clouds hung in mist,  
+And the black elm tops ‘mong the freezing [[motifs/stars|stars]],  
+To thee the [[motifs/spring|spring]] will be a harvest-[[motifs/time|time]].  
 O thou, whose only book has been the light  
 Of supreme darkness which thou feddest on  
-[[Night]] after [[Night|night]] when Phoebus was away.  
-To thee the [[spring|Spring]] shall be a triple morn.  
+[[motifs/night|Night]] after [[motifs/night|night]] when Phoebus was away.  
+To thee the [[motifs/spring|Spring]] shall be a triple morn.  
 O fret not after knowledge - I have none,  
-And yet my [[Song|song]] comes native with the warmth.  
+And yet my song comes native with the warmth.  
 10  
 O fret not after knowledge - I have none,  
 And yet the Evening listens. He who saddens  
@@ -531,16 +531,16 @@ And he’s awake who thinks himself asleep.
 <span class="qlang-split" data-lang="it"></span>
 
 Versi da una lettera a John Hamilton Reynolds  
-O Tu il cui volto ha sentito il [[Wind|vento]] dell’[[Winter|Inverno]].  
-il cui occhio ha visto le nubi di [[Snow|neve]] sospese nella foschia,  
-e le nere cime degli olmi fra le [[Stars|stelle]] gelate,  
-per te la [[spring|primavera]] sarà un [[Time|tempo]] di messe.  
+O Tu il cui volto ha sentito il [[motifs/wind|vento]] dell’[[motifs/winter|Inverno]].  
+il cui occhio ha visto le nubi di [[motifs/snow|neve]] sospese nella foschia,  
+e le nere cime degli olmi fra le [[motifs/stars|stelle]] gelate,  
+per te la [[motifs/spring|primavera]] sarà un [[motifs/time|tempo]] di messe.  
 O tu, il cui solo libro è stata la luce  
 d’una tenebra suprema di cui ti nutrivi  
-[[Night|notte]] dopo [[Night|notte]] quando Febo era lontano.  
-Per te la [[spring|Primavera]] sarà un triplice mattino.  
+[[motifs/night|notte]] dopo [[motifs/night|notte]] quando Febo era lontano.  
+Per te la [[motifs/spring|Primavera]] sarà un triplice mattino.  
 Oh, non angustiarti in cerca di sapere - io non ne ho,  
-eppure il mio [[Song|canto]] nasce spontaneo con il tepore.  
+eppure il mio canto nasce spontaneo con il tepore.  
 10  
 Oh, non angustiarti in cerca di sapere - io non ne ho,  
 eppure la Sera ascolta. Chi si rattrista  
@@ -552,38 +552,38 @@ ed è desto chi si crede addormentato.
 <span class="atom-split" data-atom="083_sonnet_-_the_human_seasons" data-title="Sonnet - The Human Seasons" data-chapter="" data-kind="intro" data-tags="topos/seven_ages_of_man,motif/seasons,motif/mutability,motif/winter,concept/transience,concept/mortality,concept/self_and_soul,form/sonnet,cluster/seasons,cluster/winter,cluster/autumn"></span>
 
 
-Four [[Seasons|seasons]] fill the measure of the year;  
-There are four [[Seasons|seasons]] in the mind of man:  
-He has his lusty [[spring|Spring]], when fancy clear  
-Takes in all [[Beauty|beauty]] with an easy span:  
-He has his [[Summer]], when luxuriously  
-[[spring|Spring]]’s honied cud of youthful thought he loves  
+Four [[motifs/seasons|seasons]] fill the measure of the year;  
+There are four [[motifs/seasons|seasons]] in the mind of man:  
+He has his lusty [[motifs/spring|Spring]], when fancy clear  
+Takes in all [[concepts/beauty|beauty]] with an easy span:  
+He has his [[motifs/summer|Summer]], when luxuriously  
+[[motifs/spring|Spring]]’s honied cud of youthful thought he loves  
 To ruminate, and by such dreaming nigh  
 His nearest unto heaven: quiet coves  
-His [[Soul|soul]] has in its [[Autumn]], when his wings  
+His [[motifs/soul|soul]] has in its [[motifs/autumn|Autumn]], when his wings  
 He furleth close; contented so to look  10  
 On mists in idleness - to let fair things  
 Pass by unheeded as a threshold brook.  
-He has his [[Winter]] too of pale misfeature,  
-Or else he would forego his mortal [[Nature|nature]].  
+He has his [[motifs/winter|Winter]] too of pale misfeature,  
+Or else he would forego his mortal [[concepts/nature|nature]].  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Quattro [[Seasons|stagioni]] colmano la misura dell’anno;  
-quattro [[Seasons|stagioni]] sono nella mente dell’uomo:  
-egli ha la sua rigogliosa [[spring|Primavera]], quando la fantasia limpida  
-abbraccia ogni [[Beauty|bellezza]] con facile respiro:  
-ha la sua [[Summer|Estate]], quando voluttuosamente  
-il melato boccone del pensiero giovanile della [[spring|Primavera]] ama  
+Quattro [[motifs/seasons|stagioni]] colmano la misura dell’anno;  
+quattro [[motifs/seasons|stagioni]] sono nella mente dell’uomo:  
+egli ha la sua rigogliosa [[motifs/spring|Primavera]], quando la fantasia limpida  
+abbraccia ogni [[concepts/beauty|bellezza]] con facile respiro:  
+ha la sua [[motifs/summer|Estate]], quando voluttuosamente  
+il melato boccone del pensiero giovanile della [[motifs/spring|Primavera]] ama  
 ruminare, e con tale sognare tocca quasi  
 il suo più prossimo cielo: quiete insenature  
-ha la sua [[Soul|anima]] nel suo [[Autumn|Autunno]], quando le ali  
+ha la sua [[motifs/soul|anima]] nel suo [[motifs/autumn|Autunno]], quando le ali  
 ripiega strette; contento così di guardare  10  
 le nebbie nell’ozio - di lasciar passare le cose belle  
 inosservate come un ruscello sulla soglia.  
-Ha anche il suo [[Winter|Inverno]] di pallido sfiguramento,  
-o altrimenti rinuncerebbe alla sua [[Nature|natura]] mortale.
+Ha anche il suo [[motifs/winter|Inverno]] di pallido sfiguramento,  
+o altrimenti rinuncerebbe alla sua [[concepts/nature|natura]] mortale.
 
 
 
@@ -599,23 +599,23 @@ New to the feet, although each tale a hundred times be told;
 There is a deeper joy than all, more solemn in the heart,
 More parching to the tongue than all, of more divine a smart,
 When weary steps forget themselves upon a pleasant turf,
-Upon hot sand, or flinty [[Road|road]], or seashore iron scurf,  10
-Toward the [[Castle|castle]] or the cot, where long ago was born
+Upon hot sand, or flinty [[motifs/road|road]], or seashore iron scurf,  10
+Toward the [[settings/castle|castle]] or the cot, where long ago was born
 One who was great through mortal days, and died of fame unshorn,
-Light heather-[[Bells|bells]] may tremble then, but they are far away;
+Light heather-[[motifs/bells|bells]] may tremble then, but they are far away;
 Wood-lark may sing from sandy fern, - the sun may hear his lay;
 Runnels may kiss the grass on shelves and shallows clear,
 But their low voices are not heard, though come on travels drear;
-[[Blood]]-red the sun may set behind black mountain peaks;
-Blue tides may sluice and drench their [[Time|time]] in caves and weedy creeks;
-Eagles may seem to [[Sleep|sleep]] wing-wide upon the air;
+[[motifs/blood|Blood]]-red the sun may set behind black mountain peaks;
+Blue tides may sluice and drench their [[motifs/time|time]] in caves and weedy creeks;
+Eagles may seem to [[motifs/sleep|sleep]] wing-wide upon the air;
 Ring-doves may fly convuls’d across to some high-cedar’d lair; 20
 But the forgotten eye is still fast lidded to the ground,
-As Palmer’s, that with weariness, mid-[[Desert|desert]] shrine hath found.
-At such a [[Time|time]] the [[Soul|soul]]’s a [[Child|child]], in [[Childhood|childhood]] is the brain;
-Forgotten is the worldly heart - [[Alone|alone]], it beats in vain. -
+As Palmer’s, that with weariness, mid-[[motifs/desert|desert]] shrine hath found.
+At such a [[motifs/time|time]] the [[motifs/soul|soul]]’s a [[archetypes/child|child]], in [[motifs/childhood|childhood]] is the brain;
+Forgotten is the worldly heart - alone, it beats in vain. -
 Aye, if a madman could have leave to pass a healthful day
-To tell his forehead’s swoon and faint when first began [[Decay|decay]],
+To tell his forehead’s swoon and faint when first began [[motifs/decay|decay]],
 He might make tremble many a one whose spirit had gone forth
 To find a Bard’s low cradle-place about the silent North!
 Scanty the hour and few the steps beyond the bourn of care,
@@ -623,25 +623,79 @@ Beyond the sweet and bitter world, - beyond it unaware!
 30
 Scanty the hour and few the steps, because a longer stay
 Would bar return, and make a man forget his mortal way:
-O horrible! to lose the sight of [[Well|well]] remember’d face,
+O horrible! to lose the sight of [[motifs/well|well]] remember’d face,
 Of Brother’s eyes, of Sister’s brow - constant to every place;
 Filling the air, as on we move, with portraiture intense;
-More warm than those heroic tints that [[Pain|pain]] a painter’s sense,
+More warm than those heroic tints that [[motifs/pain|pain]] a painter’s sense,
 When shapes of old come striding by, and visages of old,
 Locks shining black, hair scanty grey, and passions manifold.
 No, no, that horror cannot be, for at the cable’s length
 Man feels the gentle anchor pull and gladdens in its strength:  40
 One hour, half-idiot, he stands by mossy waterfall.
-But in the very next he reads his [[Soul|soul]]’s memorial: -
+But in the very next he reads his [[motifs/soul|soul]]’s memorial: -
 He reads it on the mountain’s height, where chance he
 may sit down
 
-Upon rough marble diadem - that [[Hill|hill]]’s eternal [[Crown|crown]].
-Yet be his anchor e’er so fast, room is there for a [[prayer]]
-That man may never lose his mind on [[Mountains|mountains]] black and bare;
+Upon rough marble diadem - that [[motifs/hill|hill]]’s eternal [[motifs/crown|crown]].
+Yet be his anchor e’er so fast, room is there for a [[motifs/prayer|prayer]]
+That man may never lose his mind on [[settings/mountains|mountains]] black and bare;
 That he may stray league after league some great birth place to find
 And keep his vision clear from speck, his inward sight unblind.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+C’è un incanto nel camminare lenti attraverso una pianura silenziosa,
+dove si combatté una battaglia di patrioti, dove la gloria ebbe il guadagno;
+c’è un piacere nella brughiera dove furono gli antichi druidi,
+dove mantelli grigi frusciarono passando e spazzarono le verdi ortiche;
+c’è una gioia in ogni luogo reso noto dai tempi antichi,
+nuovo ai piedi, benché ogni racconto sia stato narrato cento volte;
+c’è una gioia più profonda di tutte, più solenne nel cuore,
+più riarsa alla lingua di tutte, d’una fitta più divina,
+quando i passi stanchi si dimenticano di sé su un’erba gradevole,
+su sabbia rovente, o [[motifs/road|strada]] di selce, o crosta ferrigna di litorale,  10
+verso il [[settings/castle|castello]] o la capanna, dove tanto tempo fa nacque
+uno che fu grande nei giorni mortali, e morì con la fama intatta.
+Lievi [[motifs/bells|campanule]] d’erica possono tremare allora, ma sono lontane;
+l’allodola dei boschi può cantare dalla felce sabbiosa, - il sole può udire il suo canto;
+i rigagnoli possono baciare l’erba su ripiani e chiare secche,
+ma le loro voci basse non si odono, benché vengano da tetri viaggi;
+rosso [[motifs/blood|sangue]] può tramontare il sole dietro nere vette di monti;
+azzurre maree possono fluire e annegare il loro [[motifs/time|tempo]] in grotte e cale d’alghe;
+le aquile possono sembrare [[motifs/sleep|dormire]] ad ali spiegate sull’aria;
+i colombacci possono volare convulsi verso qualche tana d’alti cedri; 20
+ma l’occhio dimenticato resta ancora serrato a terra,
+come quello del Palmiere che, sfinito, ha trovato in mezzo al [[motifs/desert|deserto]] un santuario.
+In un [[motifs/time|tempo]] così l’[[motifs/soul|anima]] è un [[archetypes/child|bambino]], la mente è nell’[[motifs/childhood|infanzia]];
+dimenticato è il cuore mondano - solo, batte invano. -
+Sì, se a un folle fosse concesso di trascorrere un giorno sano
+per dire lo svenire e il mancare della sua fronte quando cominciò il [[motifs/decay|disfacimento]],
+egli farebbe tremare più d’uno il cui spirito si fosse mosso
+a cercare l’umile culla d’un Bardo per il Nord silenzioso!
+Scarsa l’ora e pochi i passi oltre il confine dell’affanno,
+oltre il mondo dolce e amaro, - oltre di esso, inconsapevoli!
+30
+Scarsa l’ora e pochi i passi, perché una sosta più lunga
+sbarrerebbe il ritorno, e farebbe scordare a un uomo la sua via mortale:
+oh orribile! perdere la vista d’un volto [[motifs/well|bene]] ricordato,
+degli occhi d’un Fratello, della fronte d’una Sorella - fedeli a ogni luogo;
+che riempiono l’aria, mentre andiamo, d’un ritratto intenso;
+più caldo di quelle tinte eroiche che fanno [[motifs/pain|male]] al senso d’un pittore,
+quando forme antiche passano a gran passi, e antichi volti,
+chiome d’un nero lucente, capelli radi e grigi, e passioni molteplici.
+No, no, quell’orrore non può essere, ché alla lunghezza della gomena
+l’uomo sente la dolce ancora tendere e si rallegra della sua forza:  40
+per un’ora, mezzo ebete, sta presso una cascata muscosa.
+Ma nell’ora seguente legge il memoriale della sua [[motifs/soul|anima]]: -
+lo legge sull’altezza del monte, dove per caso
+può sedersi
+
+su un rude diadema di marmo - l’eterna [[motifs/crown|corona]] di quel [[motifs/hill|colle]].
+Pure, per quanto salda sia la sua ancora, c’è spazio per una [[motifs/prayer|preghiera]]:
+che l’uomo non perda mai la ragione su [[settings/mountains|montagne]] nere e spoglie;
+che possa errare lega dopo lega per trovare qualche grande luogo natale
+e serbare la sua vista senza macchia, il suo sguardo interiore non cieco.
 
 
 
@@ -662,11 +716,11 @@ II
 In a drear-nighted December,  
 Too happy, happy brook,  
 Thy bubblings ne’er remember  
-[[Apollo]]’s [[Summer|summer]] look;  
+[[characters/apollo|Apollo]]’s [[motifs/summer|summer]] look;  
 But with a sweet forgetting,  
 They stay their crystal fretting,  
 Never, never petting  
-About the frozen [[Time|time]].  
+About the frozen [[motifs/time|time]].  
 
 III  
 Ah! would ‘twere so with many  
@@ -695,11 +749,11 @@ II
 In un dicembre dalle notti tetre,  
 troppo felice, felice ruscello,  
 il tuo gorgogliare non ricorda mai  
-lo sguardo d’[[Summer|estate]] di [[Apollo]];  
+lo sguardo d’[[motifs/summer|estate]] di [[characters/apollo|Apollo]];  
 ma con un dolce oblio  
 fermano il loro cristallino fremere,  
 mai, mai crucciandosi  
-del [[Time|tempo]] gelato.  
+del [[motifs/time|tempo]] gelato.  
 
 III  
 Ah! fosse così per tanti  
@@ -721,16 +775,16 @@ Sweet voice, sweet lips, soft hand, and softer breast,
 Warm breath, light whisper, tender semi-tone,  
 Bright eyes, accomplish’d shape, and lang’rous waist!  
 Faded the flower and all its budded charms,  
-Faded the sight of [[Beauty|beauty]] from my eyes,  
-Faded the shape of [[Beauty|beauty]] from my arms,  
+Faded the sight of [[concepts/beauty|beauty]] from my eyes,  
+Faded the shape of [[concepts/beauty|beauty]] from my arms,  
 Faded the voice, warmth, whiteness, paradise -  
 Vanish’d unseasonably at shut of eve,  
 When the dusk holiday - or holinight  
 10  
-Of fragrant-curtain’d [[Love|love]] begins to weave  
+Of fragrant-curtain’d [[motifs/love|love]] begins to weave  
 The woof of darkness thick, for hid delight ;  
-But, as I’ve read [[Love|love]]’s missal through today,  
-He’ll let me [[Sleep|sleep]], seeing I fast and pray.  
+But, as I’ve read [[motifs/love|love]]’s missal through today,  
+He’ll let me [[motifs/sleep|sleep]], seeing I fast and pray.  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -740,13 +794,13 @@ Dolce voce, dolci labbra, mano morbida e più morbido seno,
 caldo respiro, lieve sussurro, tenero semitono,  
 occhi lucenti, forma compiuta, e languida vita!  
 Appassito il fiore e tutte le sue grazie in boccio,  
-svanita la vista della [[Beauty|bellezza]] dai miei occhi,  
-svanita la forma della [[Beauty|bellezza]] dalle mie braccia,  
+svanita la vista della [[concepts/beauty|bellezza]] dai miei occhi,  
+svanita la forma della [[concepts/beauty|bellezza]] dalle mie braccia,  
 svaniti la voce, il calore, il candore, il paradiso -  
 dileguati fuori stagione al chiudersi della sera,  
 quando la festa del crepuscolo - o festa notturna  
 10  
-dell’[[Love|amore]] dalle cortine odorose comincia a tessere  
+dell’[[motifs/love|amore]] dalle cortine odorose comincia a tessere  
 la fitta trama del buio, per il piacere nascosto ;  
-ma, poiché oggi ho letto per intero il messale dell’[[Love|amore]],  
-egli mi lascerà [[Sleep|dormire]], vedendo che digiuno e prego.
+ma, poiché oggi ho letto per intero il messale dell’[[motifs/love|amore]],  
+egli mi lascerà [[motifs/sleep|dormire]], vedendo che digiuno e prego.

@@ -25,7 +25,7 @@ tags:
 
 # alliterativism
 
-*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Chesterton*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A 1914 comic light-verse squib mocking, through relentless alliteration, the wartime newspaper rhetoric about 'violating Belgian neutrality'. A satirical patriotic parody touching on the First World War.
@@ -36,13 +36,13 @@ tags:
 
 ## Connections
 
-**Settings:** [[Germany]], [[Continental Europe (Brussels)]], [[Europe]]
+**Settings:** [[settings/germany|Germany]], [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]], [[settings/europe|Europe]]
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Themes & Concepts:** [[Satire of Society]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Power of Language]], [[Deception]]
-**Forms & Genres:** [[Satire]], [[Parody]], [[Comic Verse Song]], [[Epigram]]
-**Historical References:** [[First World War]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/power-of-language|Power of Language]], [[concepts/deception|Deception]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/parody|Parody]], [[forms/comic-verse-song|Comic Verse Song]], [[forms/epigram|Epigram]]
+**Historical References:** [[historical-references/first-world-war|First World War]]
 
 ## Testo integrale / Full text
 

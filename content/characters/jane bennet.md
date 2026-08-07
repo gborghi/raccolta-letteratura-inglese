@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/jane-bennet"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/jane-austen-ge-(chesterton)|Jane Austen GE (Chesterton)]]
+- [[works/pride-and-prejudice-(austen)|Pride and Prejudice (Austen)]]
+
+</div>
+
 #graph/character

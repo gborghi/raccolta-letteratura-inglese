@@ -23,7 +23,7 @@ tags:
 
 # methuselahite
 
-*by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
+*by Chesterton*  ·  **Cluster:** [[clusters/paradox-·-food-and-feasting-·-aphorism|Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 
 > A satirical essay coining 'Methuselahite' for the modern worship of mere long life; argues the paradox of courage means one must be careless of life to keep it, mocking modern pseudo-religions of self-preservation.
@@ -37,8 +37,8 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Paradox]], [[Courage]], [[Mortality]], [[Critique of Progress]], [[Survival]], [[War and its Cost]], [[Satire of Society]], [[Power of Language]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/courage|Courage]], [[concepts/mortality|Mortality]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/survival|Survival]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/satire-of-society|Satire of Society]], [[concepts/power-of-language|Power of Language]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/aphorism|Aphorism]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

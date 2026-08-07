@@ -25,18 +25,18 @@ tags:
   - histref/the_romantic_movement
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
+*by Coleridge*  ·  **Cluster:** [[clusters/poet-as-prophet-·-prophet-·-romantic-movement-(sensibility)|Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
 
 > [!abstract] 
 > Major blank-verse tribute to Wordsworth's recitation of The Prelude, on the growth of mind, hope born of the French Revolution, and the poet's own grief and reawakening. Themes of imagination, memory, the poet as prophet and dejection turning to prayer.
 
 ## Connections
 
-**Topoi:** [[Poet as Prophet]]
-**Motifs:** [[Stars]], [[Sea]], [[Prayer]]
-**Themes & Concepts:** [[Imagination]], [[Memory and Time]], [[Artist and Society]], [[Friendship]], [[Maturation and Growth]], [[Melancholy]]
-**Forms & Genres:** [[Blank Verse]]
-**Historical References:** [[French Revolution]], [[Romantic Movement (Sensibility)]]
+**Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
+**Motifs:** [[motifs/stars|Stars]], [[motifs/sea|Sea]], [[motifs/prayer|Prayer]]
+**Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/memory-and-time|Memory and Time]], [[concepts/artist-and-society|Artist and Society]], [[concepts/friendship|Friendship]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/melancholy|Melancholy]]
+**Forms & Genres:** [[forms/blank-verse|Blank Verse]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/romantic-movement-(sensibility)|Romantic Movement (Sensibility)]]
 
 ## Testo integrale / Full text
 

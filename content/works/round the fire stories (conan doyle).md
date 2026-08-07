@@ -24,7 +24,7 @@ tags:
   - archetype/villain
   - archetype/detective
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Gothic and Supernatural · Terror and Horror · The Unseen]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/gothic-and-supernatural-·-terror-and-horror-·-the-unseen|Gothic and Supernatural · Terror and Horror · The Unseen]]
 
 > [!abstract] 
 > A collection of macabre and mysterious short stories designed for fireside reading, ranging across tales of terror, crime, the uncanny, and unexplained horror, in the vein of Doyle's non-Holmes mystery writing.
@@ -41,8 +41,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Short Story]], [[Gothic Novel]]
-**Themes & Concepts:** [[Terror and Horror]], [[Uncanny]], [[Crime and Punishment]], [[Fear]], [[Mesmerism]]
-**Motifs:** [[Ghosts]], [[Supernatural]], [[Night]], [[Secrets]]
-**Settings:** [[London]], [[Rural England]]
-**Archetypes:** [[Ghost]], [[Villain]], [[Detective]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/gothic-novel|Gothic Novel]]
+**Themes & Concepts:** [[concepts/terror-and-horror|Terror and Horror]], [[concepts/uncanny|Uncanny]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/fear|Fear]], [[concepts/mesmerism|Mesmerism]]
+**Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[motifs/night|Night]], [[motifs/secrets|Secrets]]
+**Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
+**Archetypes:** [[archetypes/ghost|Ghost]], [[archetypes/villain|Villain]], [[archetypes/detective|Detective]]

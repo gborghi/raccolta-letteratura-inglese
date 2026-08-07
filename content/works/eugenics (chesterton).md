@@ -35,7 +35,7 @@ tags:
 
 # Eugenics
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > Book-length polemic against the pseudo-science of eugenics as a tyranny of the rich over the poor, defending liberty, the family, and the common man against scientific despotism.
@@ -49,14 +49,14 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Puritanism]]
+**Historical References:** [[historical-references/puritanism|Puritanism]]
 
-**Archetypes:** [[Tyrant]], [[Corrupt Official]], [[Common Man (2)]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Motifs:** [[Home]], [[Prison]]
+**Motifs:** [[motifs/home|Home]], [[motifs/prison|Prison]]
 
-**Themes & Concepts:** [[Social Injustice]], [[Power and Corruption]], [[Critique of Progress]], [[Common Man]], [[Poverty]], [[Class Conflict]], [[Distributism]], [[Doubt]], [[Freedom and Liberty]], [[Slavery]], [[Democracy]], [[Reform]], [[Natural Order]], [[Capitalism]], [[Economics]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/common-man|Common Man]], [[concepts/poverty|Poverty]], [[concepts/class-conflict|Class Conflict]], [[concepts/distributism|Distributism]], [[concepts/doubt|Doubt]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/slavery|Slavery]], [[concepts/democracy|Democracy]], [[concepts/reform|Reform]], [[concepts/natural-order|Natural Order]], [[concepts/capitalism|Capitalism]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ Named as the figure marking the rationalist movement's tinge into Romanticism, p
 
 <div class="concept-works" data-slug="characters/rousseau"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/anti-religious-thought-(chesterton)|anti religious thought (Chesterton)]]
+
+</div>
+
 #graph/character

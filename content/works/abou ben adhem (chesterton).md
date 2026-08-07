@@ -31,7 +31,7 @@ tags:
   - histref/islam_and_the_east
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Chesterton*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A satirical parody of Leigh Hunt's 'Abou Ben Adhem', in heroic couplets, in which the secular philanthropist who loves his fellow-men but not God reveals himself as a tyrannical social engineer; central themes are satire of society, secular humanism vs faith, and the loss of wonder.
@@ -42,15 +42,15 @@ tags:
 
 ## Connections
 
-**Characters:** [[Abou Ben Adhem]]
+**Characters:** [[characters/abou-ben-adhem|Abou Ben Adhem]]
 
-**Topoi:** [[World Upside Down]]
-**Archetypes:** [[Corrupt Official]], [[Tyrant]]
-**Motifs:** [[Wine and Drink]]
-**Themes & Concepts:** [[Satire of Society]], [[Faith and Doubt]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Pride]], [[Power and Corruption]], [[Fear]], [[Order vs Chaos]], [[Reform]]
-**Forms & Genres:** [[Parody]], [[Satire]], [[Heroic Couplet]], [[Epigram]]
-**Historical References:** [[Orient Arabia]], [[Islam and the East]]
-**Settings:** [[Orient]], [[Desert]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/tyrant|Tyrant]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/pride|Pride]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/fear|Fear]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/reform|Reform]]
+**Forms & Genres:** [[forms/parody|Parody]], [[forms/satire|Satire]], [[forms/heroic-couplet|Heroic Couplet]], [[forms/epigram|Epigram]]
+**Historical References:** [[historical-references/orient-arabia|Orient Arabia]], [[historical-references/islam-and-the-east|Islam and the East]]
+**Settings:** [[settings/orient|Orient]], [[motifs/desert|Desert]]
 
 ## Testo integrale / Full text
 

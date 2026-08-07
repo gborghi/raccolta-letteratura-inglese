@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/antipholus-of-syracuse"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-comedy-of-errors-(shakespeare)|THE COMEDY OF ERRORS (Shakespeare)]]
+
+</div>
+
 #graph/character

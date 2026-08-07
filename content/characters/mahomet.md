@@ -14,4 +14,10 @@ Treated as founder of a law-giving prophetic religion, repeatedly grouped with a
 
 <div class="concept-works" data-slug="characters/mahomet"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/everlasting-man-(chesterton)|everlasting man (Chesterton)]]
+
+</div>
+
 #graph/character

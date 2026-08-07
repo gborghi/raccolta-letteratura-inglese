@@ -14,4 +14,10 @@ The humble street lamp-post recurs as the sanctified emblem of local patriotism,
 
 <div class="concept-works" data-slug="motifs/lamp-post"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/napoleon-of-notting-hill-(chesterton)|Napoleon of Notting Hill (Chesterton)]]
+
+</div>
+
 #graph/motif

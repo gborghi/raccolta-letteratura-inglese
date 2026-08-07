@@ -29,17 +29,17 @@ tags:
   - topos/war_as_glory
   - topos/last_stand
 ---
-*by Conan Doyle*  ·  **Cluster:** [[War and Empire · History · Nationalism and Patriotism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/war-and-empire-·-history-·-nationalism-and-patriotism|War and Empire · History · Nationalism and Patriotism]]
 
 > [!abstract] 
 > Doyle's six-volume contemporary history of the British Army on the Western Front, from Mons and the Marne in 1914 through the Somme, Third Ypres, Cambrai, and the victorious advance of 1918, compiled from letters, diaries, and firsthand interviews with soldiers and officers.
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Empire and Imperialism]], [[Courage]], [[Endurance]], [[History]]
-**Motifs:** [[Blood]], [[Flags and Banners]]
-**Historical References:** [[First World War]], [[British Empire]], [[Kaiser Wilhelm II]]
-**Settings:** [[Continental Europe (Brussels)]], [[Battlefield]], [[France]], [[Europe]]
-**Archetypes:** [[Hero]]
-**Topoi:** [[War as Glory]], [[Last Stand]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/courage|Courage]], [[concepts/endurance|Endurance]], [[concepts/history|History]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/flags-and-banners|Flags and Banners]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/british-empire|British Empire]], [[historical-references/kaiser-wilhelm-ii|Kaiser Wilhelm II]]
+**Settings:** [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]], [[settings/battlefield|Battlefield]], [[settings/france|France]], [[settings/europe|Europe]]
+**Archetypes:** [[archetypes/hero|Hero]]
+**Topoi:** [[topoi/war-as-glory|War as Glory]], [[topoi/last-stand|Last Stand]]

@@ -27,7 +27,7 @@ tags:
   - archetype/detective
   - archetype/villain
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Detective Fiction · Ratiocination Detection · Crime and Punishment]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/detective-fiction-·-ratiocination-detection-·-crime-and-punishment|Detective Fiction · Ratiocination Detection · Crime and Punishment]]
 
 > [!abstract] 
 > Thirteen stories reviving Holmes after his apparent death, opening with 'The Empty House,' in which he reveals to a stunned Watson that he survived Reichenbach and unmasks Moriarty's remaining lieutenant, Colonel Sebastian Moran. The volume restores the detective to London practice through a fresh run of burglaries, blackmail, and murder.
@@ -53,11 +53,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Deception]], [[Secrecy and Concealment]]
-**Motifs:** [[City]], [[Fog and Smoke]], [[Concealment Hidden Identity]], [[Letters and Writing]]
-**Settings:** [[London]]
-**Characters:** [[Sherlock Holmes]], [[Doctor Watson]], [[Professor Moriarty]], [[Colonel Sebastian Moran]]
-**Archetypes:** [[Detective]], [[Villain]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/deception|Deception]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]]
+**Motifs:** [[motifs/city|City]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/letters-and-writing|Letters and Writing]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]], [[characters/professor-moriarty|Professor Moriarty]], [[characters/colonel-sebastian-moran|Colonel Sebastian Moran]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]
 
-**Also relevant to:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
+**Also relevant to:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]

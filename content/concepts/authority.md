@@ -14,4 +14,13 @@ The book's recurring case that religious and rational authority were erected spe
 
 <div class="concept-works" data-slug="concepts/authority"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ortho14-(chesterton)|ortho14 (Chesterton)]]
+- [[works/europe-and-the-faith-(belloc)|Europe and the Faith (Belloc)]]
+- [[works/the-french-revolution-(belloc)|The French Revolution (Belloc)]]
+- [[works/the-servile-state-(belloc)|The Servile State (Belloc)]]
+
+</div>
+
 #graph/concept

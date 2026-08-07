@@ -29,7 +29,7 @@ tags:
 
 # ascetic
 
-*by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
+*by Chesterton*  ·  **Cluster:** [[clusters/wine-and-drink-·-ballad-ballade-·-road|Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 
 > A satirical ballad contrasting a full-blooded pagan's joy in wine, love and war with the joyless, life-denying modern 'Heathen' Higgins; defends faith-grounded delight against a sterile secular asceticism.
@@ -40,14 +40,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[War as Glory]]
+**Topoi:** [[topoi/war-as-glory|War as Glory]]
 
-**Characters:** [[Higgins]]
+**Characters:** [[characters/higgins|Higgins]]
 
-**Motifs:** [[Wine and Drink]], [[Fire]], [[Death]], [[Money and Gold]]
-**Themes & Concepts:** [[Joy]], [[Faith]], [[Spiritual Emptiness]], [[Critique of Progress]], [[Satire of Society]], [[Self-Denial and Renunciation]], [[Money and Avarice]], [[Poverty]], [[Economics]]
-**Forms & Genres:** [[Ballad Ballade]], [[Satire]]
-**Historical References:** [[Classical Antiquity]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/fire|Fire]], [[motifs/death|Death]], [[motifs/money-and-gold|Money and Gold]]
+**Themes & Concepts:** [[concepts/joy|Joy]], [[concepts/faith|Faith]], [[concepts/spiritual-emptiness|Spiritual Emptiness]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/satire-of-society|Satire of Society]], [[concepts/self-denial-and-renunciation|Self-Denial and Renunciation]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/poverty|Poverty]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/satire|Satire]]
+**Historical References:** [[historical-references/classical-antiquity|Classical Antiquity]]
 
 ## Testo integrale / Full text
 

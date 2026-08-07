@@ -14,4 +14,10 @@ A young Englishwoman torn between fascination with Lord Ivywood's idealism and h
 
 <div class="concept-works" data-slug="characters/lady-joan-brett"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-flying-inn-(chesterton)|The Flying Inn (Chesterton)]]
+
+</div>
+
 #graph/character

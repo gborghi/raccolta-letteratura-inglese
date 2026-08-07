@@ -14,4 +14,11 @@ Founder of the Dominican order, repeatedly contrasted with Francis and said to h
 
 <div class="concept-works" data-slug="characters/st.-dominic"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/st-francis-(chesterton)|St Francis (Chesterton)]]
+- [[works/aquinas-(chesterton)|aquinas (Chesterton)]]
+
+</div>
+
 #graph/character

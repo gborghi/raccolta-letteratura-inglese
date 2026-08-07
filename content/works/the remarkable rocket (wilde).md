@@ -31,7 +31,7 @@ tags:
   - character/the_remarkable_rocket
 ---
 
-*by Wilde*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Wilde*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A satirical fairy tale skewering vanity and self-importance: a pompous rocket convinced of his own greatness fizzles unseen in a ditch, a comedy of pride and self-delusion.
@@ -45,13 +45,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Vanitas]], [[World Upside Down]]
-**Archetypes:** [[Fool]], [[Antihero]]
-**Motifs:** [[Fire]], [[Animals]], [[Marriage]], [[White and Red]], [[Water]], [[Moon]]
-**Themes & Concepts:** [[Pride]], [[Satire of Society]], [[Appearance vs Reality]], [[Alienation]], [[Deception]], [[Class Conflict]], [[Economics]]
-**Forms & Genres:** [[Fairy Tale Fantasy]], [[Satire]], [[Fable]]
-**Settings:** [[Court]]
-**Characters:** [[Remarkable Rocket]]
+**Topoi:** [[topoi/vanitas|Vanitas]], [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/antihero|Antihero]]
+**Motifs:** [[motifs/fire|Fire]], [[motifs/animals|Animals]], [[motifs/marriage|Marriage]], [[motifs/white-and-red|White and Red]], [[motifs/water|Water]], [[motifs/moon|Moon]]
+**Themes & Concepts:** [[concepts/pride|Pride]], [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/alienation|Alienation]], [[concepts/deception|Deception]], [[concepts/class-conflict|Class Conflict]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/satire|Satire]], [[forms/fable|Fable]]
+**Settings:** [[settings/court|Court]]
+**Characters:** [[characters/remarkable-rocket|Remarkable Rocket]]
 
 ## Testo integrale / Full text
 

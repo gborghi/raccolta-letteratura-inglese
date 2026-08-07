@@ -14,4 +14,10 @@ The zealous prosecuting barrister in 'The Mirror of the Magistrate' who is revea
 
 <div class="concept-works" data-slug="characters/sir-arthur-travers"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/secret-fr-brown-(chesterton)|secret Fr Brown (Chesterton)]]
+
+</div>
+
 #graph/character

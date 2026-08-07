@@ -20,7 +20,7 @@ tags:
   - form/detective_fiction
 ---
 
-*by Poe*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
+*by Poe*  ·  **Cluster:** [[clusters/short-story-·-concealment-hidden-identity-·-justice-right-and-wrong|Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 
 > Analytical essay using step-by-step ratiocination to prove Maelzel's chess automaton is operated by a concealed human, not pure machine.
@@ -47,10 +47,10 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Detective]]
-**Motifs:** [[Concealment Hidden Identity]], [[Mirror]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Truth]], [[Critique of Progress]]
-**Forms & Genres:** [[Essay]], [[Detective Fiction]], [[Nonfiction]]
+**Archetypes:** [[archetypes/detective|Detective]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/mirror|Mirror]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/truth|Truth]], [[concepts/critique-of-progress|Critique of Progress]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/detective-fiction|Detective Fiction]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -15,17 +15,17 @@ tags:
   - form/lyric
 ---
 
-*by Eliot*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
+*by Eliot*  ·  **Cluster:** [[clusters/mortality-·-grave-·-memento-mori|Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > Section header containing Eyes that last I saw in tears: death's dream kingdom, lost vision, eyes/tears; grief and the afterlife.
 
 ## Connections
 
-**Topoi:** [[Memento Mori]]
-**Motifs:** [[Death]], [[Eyes and Sight]], [[Dreams]]
-**Themes & Concepts:** [[Grief and Loss]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/death|Death]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/dreams|Dreams]]
+**Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

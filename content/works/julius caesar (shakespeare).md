@@ -41,7 +41,7 @@ tags:
   - character/calpurnia
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Honour · Ancient Rome]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/honour-·-ancient-rome|Honour · Ancient Rome]]
 
 > [!abstract] 
 > A Roman tragedy on the conspiracy and assassination of Caesar and its bloody aftermath, centred on Brutus's divided conscience; it dramatizes political idealism, rhetoric, fate and omens, and the cost of civil war.
@@ -68,14 +68,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Theatrum Mundi]], [[Fortune's Wheel]]
-**Archetypes:** [[Tragic Hero]], [[Tyrant]], [[Avenger]], [[Ghost]]
-**Motifs:** [[Blood]], [[Swords and Weapons]], [[Ghosts]], [[Storm]], [[Supernatural]]
-**Themes & Concepts:** [[Revenge]], [[Ambition]], [[Power and Corruption]], [[Fate and Free Will]], [[Conscience]], [[Honour]], [[Justice Right and Wrong]]
-**Forms & Genres:** [[Tragedy]], [[Verse Drama]], [[Blank Verse]]
-**Historical References:** [[Ancient Rome]], [[Roman History]]
-**Settings:** [[Ancient Rome]]
-**Characters:** [[Julius Caesar]], [[Brutus]], [[Cassius]], [[Mark Antony]], [[Octavius Caesar]], [[Casca]], [[Portia]], [[Calpurnia]]
+**Topoi:** [[topoi/theatrum-mundi|Theatrum Mundi]], [[topoi/fortune's-wheel|Fortune's Wheel]]
+**Archetypes:** [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/tyrant|Tyrant]], [[archetypes/avenger|Avenger]], [[archetypes/ghost|Ghost]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/ghosts|Ghosts]], [[motifs/storm|Storm]], [[motifs/supernatural|Supernatural]]
+**Themes & Concepts:** [[concepts/revenge|Revenge]], [[concepts/ambition|Ambition]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/conscience|Conscience]], [[concepts/honour|Honour]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]]
+**Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
+**Historical References:** [[settings/ancient-rome|Ancient Rome]], [[historical-references/roman-history|Roman History]]
+**Settings:** [[settings/ancient-rome|Ancient Rome]]
+**Characters:** [[characters/julius-caesar|Julius Caesar]], [[characters/brutus|Brutus]], [[characters/cassius|Cassius]], [[characters/mark-antony|Mark Antony]], [[characters/octavius-caesar|Octavius Caesar]], [[characters/casca|Casca]], [[characters/portia|Portia]], [[characters/calpurnia|Calpurnia]]
 
 ## Testo integrale / Full text
 

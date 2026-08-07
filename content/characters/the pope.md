@@ -14,4 +14,11 @@ The pontiff who calls the kings of Christendom to arms and later watches the bat
 
 <div class="concept-works" data-slug="characters/the-pope"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lepanto-(chesterton)|lepanto (Chesterton)]]
+- [[works/europe-and-the-faith-(belloc)|Europe and the Faith (Belloc)]]
+
+</div>
+
 #graph/character

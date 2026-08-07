@@ -29,7 +29,7 @@ tags:
   - histref/puritanism
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
+*by Chesterton*  ·  **Cluster:** [[clusters/paradox-·-food-and-feasting-·-aphorism|Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 
 > A paradox-driven essay celebrating Lincoln as a 'failure who happened to succeed', a thinker and near-martyr at odds with his success-worshipping admirers.
@@ -49,15 +49,15 @@ tags:
 
 ## Connections
 
-**Settings:** [[America]]
+**Settings:** [[settings/america|America]]
 
-**Motifs:** [[Wine and Drink]], [[Marriage]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/marriage|Marriage]]
 
-**Archetypes:** [[Martyr Saint]], [[Self-Made Man]]
-**Themes & Concepts:** [[Paradox]], [[Heroism]], [[Truth]], [[Martyrdom]], [[Critique of Progress]], [[Vanity of Worldly Things]], [[Conformity vs Individualism]], [[Self-Reliance and Earned Success]]
-**Forms & Genres:** [[Essay]], [[Aphorism]], [[Nonfiction]]
-**Historical References:** [[American Civil War]], [[Puritanism]]
-**Characters:** [[Abraham Lincoln]], [[Ulysses S. Grant]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/self-made-man|Self-Made Man]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/heroism|Heroism]], [[concepts/truth|Truth]], [[concepts/martyrdom|Martyrdom]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/vanity-of-worldly-things|Vanity of Worldly Things]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/self-reliance-and-earned-success|Self-Reliance and Earned Success]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/aphorism|Aphorism]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/american-civil-war|American Civil War]], [[historical-references/puritanism|Puritanism]]
+**Characters:** [[characters/abraham-lincoln|Abraham Lincoln]], [[characters/ulysses-s.-grant|Ulysses S. Grant]]
 
 ## Testo integrale / Full text
 

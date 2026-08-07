@@ -52,7 +52,7 @@ tags:
   - histref/french_revolution
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A 1933 collection of Chesterton's familiar essays ranging over childhood, literary criticism (Swift, Gray, Scott, Chaucer), industrialism, education, war memorials and modern paganism. Central matter: defence of common sense and tradition, satire of fashionable progress, and the critique of industrial society.
@@ -107,16 +107,16 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Common Man (2)]], [[Rebel]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/rebel|Rebel]]
 
-**Settings:** [[Ancient Rome]], [[Rural England]]
+**Settings:** [[settings/ancient-rome|Ancient Rome]], [[settings/rural-england|Rural England]]
 
-**Characters:** [[Jonathan Swift]], [[Thomas Gray]], [[Geoffrey Chaucer]], [[Sir Walter Scott]], [[Vachel Lindsay]], [[Charles II]], [[Robert Louis Stevenson]], [[Lord Byron]]
+**Characters:** [[historical-references/jonathan-swift|Jonathan Swift]], [[characters/thomas-gray|Thomas Gray]], [[characters/geoffrey-chaucer|Geoffrey Chaucer]], [[characters/sir-walter-scott|Sir Walter Scott]], [[characters/vachel-lindsay|Vachel Lindsay]], [[characters/charles-ii|Charles II]], [[historical-references/robert-louis-stevenson|Robert Louis Stevenson]], [[characters/lord-byron|Lord Byron]]
 
-**Topoi:** [[World Upside Down]], [[Ubi Sunt]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Anti-Industrialism]], [[Common Man]], [[Maturation and Growth]], [[Education]], [[Paradox]], [[Artist and Society]], [[War and its Cost]], [[Nostalgia]], [[Distributism]], [[Democracy]], [[Fate and Free Will]], [[Paganism and Classical Revival]], [[Freedom and Liberty]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Aphorism]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Medieval England]], [[Industrial Revolution]], [[Puritanism]], [[Romantic Movement (Sensibility)]], [[Ancient Rome]], [[French Revolution]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/ubi-sunt|Ubi Sunt]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/common-man|Common Man]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/education|Education]], [[concepts/paradox|Paradox]], [[concepts/artist-and-society|Artist and Society]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nostalgia|Nostalgia]], [[concepts/distributism|Distributism]], [[concepts/democracy|Democracy]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/literary-criticism|Literary Criticism]], [[forms/aphorism|Aphorism]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/medieval-england|Medieval England]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/puritanism|Puritanism]], [[historical-references/romantic-movement-(sensibility)|Romantic Movement (Sensibility)]], [[settings/ancient-rome|Ancient Rome]], [[historical-references/french-revolution|French Revolution]]
 
 ## Testo integrale / Full text
 

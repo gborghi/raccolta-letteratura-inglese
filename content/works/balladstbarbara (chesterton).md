@@ -67,7 +67,7 @@ tags:
   - histref/british_empire
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > Chesterton's 1922 verse collection containing the title ballad and other poems on the Great War, the Crusades (Horns of Hattin), distributist social critique, nostalgia and the lost faith of the modern world.
@@ -86,17 +86,17 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Martyr Saint]], [[Tyrant]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/tyrant|Tyrant]]
 
-**Settings:** [[London]], [[Paris]], [[Desert]], [[Medieval England (2)]], [[Europe]]
+**Settings:** [[settings/london|London]], [[settings/paris|Paris]], [[motifs/desert|Desert]], [[settings/medieval-england-(2)|Medieval England (2)]], [[settings/europe|Europe]]
 
-**Characters:** [[Christ]], [[Herod Antipas]], [[Lazarus the Risen Man]], [[King Arthur]], [[Barbara]]
+**Characters:** [[characters/christ|Christ]], [[characters/herod-antipas|Herod Antipas]], [[characters/lazarus-the-risen-man|Lazarus the Risen Man]], [[characters/king-arthur|King Arthur]], [[characters/barbara|Barbara]]
 
-**Topoi:** [[Ubi Sunt]], [[Sic Transit Gloria Mundi]], [[Last Stand]], [[Memento Mori]], [[World Upside Down]], [[Quest]]
-**Motifs:** [[Ruins the Abbey]], [[Grave]], [[Swords and Weapons]], [[Window]], [[Bells]], [[Stone and Marble]], [[Money and Gold]], [[Horse]], [[Eyes and Sight]], [[Fire]], [[Dragon]]
-**Themes & Concepts:** [[War and its Cost]], [[Martyrdom]], [[Faith]], [[Nostalgia]], [[Distributism]], [[Social Injustice]], [[Nationalism and Patriotism]], [[Conversion]], [[Satire of Society]], [[Critique of Progress]], [[Freedom and Liberty]], [[Marriage and Fidelity]], [[Self-Sacrifice]], [[Grief and Loss]], [[Greed and Money]], [[Economics]], [[History]]
-**Forms & Genres:** [[Ballad Ballade]], [[Lyric]], [[Sonnet]], [[Elegy]], [[Satire]]
-**Historical References:** [[First World War]], [[Crusades]], [[Christianity]], [[Arthurian Legend]], [[French Revolution]], [[Industrial Revolution]], [[British Empire]]
+**Topoi:** [[topoi/ubi-sunt|Ubi Sunt]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/last-stand|Last Stand]], [[topoi/memento-mori|Memento Mori]], [[topoi/world-upside-down|World Upside Down]], [[topoi/quest|Quest]]
+**Motifs:** [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/grave|Grave]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/window|Window]], [[motifs/bells|Bells]], [[motifs/stone-and-marble|Stone and Marble]], [[motifs/money-and-gold|Money and Gold]], [[motifs/horse|Horse]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/fire|Fire]], [[motifs/dragon|Dragon]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/martyrdom|Martyrdom]], [[concepts/faith|Faith]], [[concepts/nostalgia|Nostalgia]], [[concepts/distributism|Distributism]], [[concepts/social-injustice|Social Injustice]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/conversion|Conversion]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/self-sacrifice|Self-Sacrifice]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/lyric|Lyric]], [[forms/sonnet|Sonnet]], [[forms/elegy|Elegy]], [[forms/satire|Satire]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/crusades|Crusades]], [[historical-references/christianity|Christianity]], [[historical-references/arthurian-legend|Arthurian Legend]], [[historical-references/french-revolution|French Revolution]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/british-empire|British Empire]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ Aquinas's teacher at Cologne and Paris, the 'father of modern science' who first
 
 <div class="concept-works" data-slug="characters/albertus-magnus"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/aquinas-(chesterton)|aquinas (Chesterton)]]
+
+</div>
+
 #graph/character

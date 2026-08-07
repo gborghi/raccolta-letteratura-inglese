@@ -14,4 +14,10 @@ The decrepit-seeming anarchist philosopher called Friday, actually the actor Wil
 
 <div class="concept-works" data-slug="characters/professor-de-worms"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thursday-(chesterton)|thursday (Chesterton)]]
+
+</div>
+
 #graph/character

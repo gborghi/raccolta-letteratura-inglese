@@ -14,4 +14,11 @@ The essay's recurring structural argument that Catholic orthodoxy is defined and
 
 <div class="concept-works" data-slug="concepts/heresy-and-schism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/upon-this-rock-(chesterton)|upon-this-rock (Chesterton)]]
+- [[works/europe-and-the-faith-(belloc)|Europe and the Faith (Belloc)]]
+
+</div>
+
 #graph/concept

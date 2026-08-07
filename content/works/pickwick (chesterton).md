@@ -34,7 +34,7 @@ tags:
   - histref/regency_georgian_england
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > A critical essay on Dickens's Pickwick as the truest expression of the festive, tolerant 'Merry England' character, against the Puritan caricature of the English.
@@ -54,11 +54,11 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Puritanism]], [[Medieval England]], [[Regency Georgian England]]
+**Historical References:** [[historical-references/puritanism|Puritanism]], [[historical-references/medieval-england|Medieval England]], [[historical-references/regency-georgian-england|Regency Georgian England]]
 
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Friendship]], [[Joy]], [[Common Man]], [[Charity]], [[Comradeship]], [[Freedom and Liberty]], [[Nostalgia]], [[Tolerance]], [[History]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Nonfiction]]
-**Characters:** [[Falstaff]], [[Samuel Pickwick]], [[Nathaniel Winkle]], [[Tony Weller]], [[Robin Hood]], [[Fagin]], [[Mr. Stiggins]], [[Friar Tuck]], [[Wife of Bath]]
+**Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/friendship|Friendship]], [[concepts/joy|Joy]], [[concepts/common-man|Common Man]], [[concepts/charity|Charity]], [[concepts/comradeship|Comradeship]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/nostalgia|Nostalgia]], [[concepts/tolerance|Tolerance]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Characters:** [[characters/falstaff|Falstaff]], [[characters/samuel-pickwick|Samuel Pickwick]], [[characters/nathaniel-winkle|Nathaniel Winkle]], [[characters/tony-weller|Tony Weller]], [[characters/robin-hood|Robin Hood]], [[characters/fagin|Fagin]], [[characters/mr.-stiggins|Mr. Stiggins]], [[characters/friar-tuck|Friar Tuck]], [[characters/wife-of-bath|Wife of Bath]]
 
 ## Testo integrale / Full text
 

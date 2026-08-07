@@ -14,4 +14,10 @@ Ex-Flying Corps aviator and inveterate prankster who smuggles pigs by air, rescu
 
 <div class="concept-works" data-slug="characters/hilary-pierce"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/longbow2-(chesterton)|longbow2 (Chesterton)]]
+
+</div>
+
 #graph/character

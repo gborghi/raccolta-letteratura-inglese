@@ -32,7 +32,7 @@ tags:
   - histref/ancient_rome
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > A satiric ballad-song mocking a Spiritualist paper's claim that the Catholic Church envies it; the Church personified on her Seven Hills, with mock-heroic religious and historical allusions.
@@ -43,19 +43,19 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Great Mother]]
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 
-**Settings:** [[Ancient Rome]]
+**Settings:** [[settings/ancient-rome|Ancient Rome]]
 
-**Motifs:** [[Drums and Bugles]], [[Flags and Banners]]
+**Motifs:** [[motifs/drums-and-bugles|Drums and Bugles]], [[motifs/flags-and-banners|Flags and Banners]]
 
-**Topoi:** [[War as Glory]]
+**Topoi:** [[topoi/war-as-glory|War as Glory]]
 
-**Characters:** [[Joan la Pucelle]], [[Sir Arthur Conan Doyle]], [[Dennis Bradley]]
+**Characters:** [[characters/joan-la-pucelle|Joan la Pucelle]], [[characters/sir-arthur-conan-doyle|Sir Arthur Conan Doyle]], [[characters/dennis-bradley|Dennis Bradley]]
 
-**Themes & Concepts:** [[Faith]], [[Satire of Society]], [[Jealousy]], [[Doubt]], [[Conversion]], [[History]]
-**Forms & Genres:** [[Satire]], [[Ballad Ballade]], [[Comic Verse Song]], [[Mock Epic]]
-**Historical References:** [[Catholic Church]], [[Christianity]], [[Islam]], [[Dante]], [[Ancient Rome]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/satire-of-society|Satire of Society]], [[concepts/jealousy|Jealousy]], [[concepts/doubt|Doubt]], [[concepts/conversion|Conversion]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/ballad-ballade|Ballad Ballade]], [[forms/comic-verse-song|Comic Verse Song]], [[forms/mock-epic|Mock Epic]]
+**Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/christianity|Christianity]], [[historical-references/islam|Islam]], [[historical-references/dante|Dante]], [[settings/ancient-rome|Ancient Rome]]
 
 ## Testo integrale / Full text
 

@@ -29,7 +29,7 @@ tags:
   - histref/robert_blatchford
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
+*by Chesterton*  ·  **Cluster:** [[clusters/temptation-·-good-vs-evil-·-serpent-snake|Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 
 > A parable in which a boy tries to uproot an indestructible plant (religion/Christianity), wrecking the whole world but never the plant. An allegory defending faith against secularist and evolutionist attack.
@@ -48,15 +48,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Child]]
+**Archetypes:** [[archetypes/child|Child]]
 
-**Topoi:** [[Fall from Innocence]], [[Paradise Lost]]
+**Topoi:** [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/paradise-lost|Paradise Lost]]
 
-**Motifs:** [[Garden]], [[Flowers]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Critique of Progress]], [[Doubt]], [[Truth]], [[Conscience]], [[Sin and the Fall]], [[History]]
-**Forms & Genres:** [[Allegory]], [[Fable]], [[Parable]]
-**Historical References:** [[Christianity]], [[Bible]], [[Robert Blatchford]]
-**Settings:** [[Garden (2)]]
+**Motifs:** [[motifs/garden|Garden]], [[motifs/flowers|Flowers]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/doubt|Doubt]], [[concepts/truth|Truth]], [[concepts/conscience|Conscience]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/allegory|Allegory]], [[forms/fable|Fable]], [[forms/parable|Parable]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/robert-blatchford|Robert Blatchford]]
+**Settings:** [[settings/garden-(2)|Garden (2)]]
 
 ## Testo integrale / Full text
 

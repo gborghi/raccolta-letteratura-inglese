@@ -12,4 +12,13 @@ tags:
 
 <div class="concept-works" data-slug="characters/ralph-nickleby"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/spice-of-life-(chesterton)|Spice Of Life (Chesterton)]]
+- [[works/dickens-britannica-(chesterton)|dickens Britannica (Chesterton)]]
+- [[works/nicholas-nickleby-(dickens)|Nicholas Nickleby (Dickens)]]
+
+</div>
+
 #graph/character

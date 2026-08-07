@@ -32,7 +32,7 @@ Such as Plato, Admetus, Electra, Demeter —
 But I tell you, a cat needs a name that’s particular,  
    A name that’s peculiar, and more dignified,  
 Else how can he keep up his tail perpendicular,  
-   Or spread out his whiskers, or cherish his [[Pride|pride]]?  
+   Or spread out his whiskers, or cherish his [[concepts/pride|pride]]?  
 Of names of this kind, I can give you a quorum,  
    Such as Munkustrap, Quaxo, or Coricopat,  
 Such as Bombalurina, or else Jellylorum —  
@@ -77,12 +77,12 @@ She sits and sits and sits and sits — and that’s what makes a Gumbie
            And believing that nothing is done without trying,  
            She sets to work with her baking and frying.  
            She makes them a mouse-cake of bread and dried peas,  
-           And a beautiful fry of lean bacon and [[cheese]].  
+           And a beautiful fry of lean bacon and cheese.  
 
 
 I have a Gumbie Cat in mind, her name is Jennyanydots;  
-The curtain-cord she likes to [[Wind|wind]], and tie it into sailor-knots.  
-She sits upon the [[Window|window]]-sill, or anything that’s smooth and flat:  
+The curtain-cord she likes to [[motifs/wind|wind]], and tie it into sailor-knots.  
+She sits upon the [[motifs/window|window]]-sill, or anything that’s smooth and flat:  
 She sits and sits and sits and sits — and that’s what makes a Gumbie  
        Cat!  
            But when the day’s hustle and bustle is done,  
@@ -90,11 +90,11 @@ She sits and sits and sits and sits — and that’s what makes a Gumbie
            She thinks that the cockroaches just need employment  
            To prevent them from idle and wanton destroyment.  
            So she’s formed, from that lot of disorderly louts,  
-           A troop of [[Well|well]]-disciplined helpful boy-scouts,  
+           A troop of [[motifs/well|well]]-disciplined helpful boy-scouts,  
            With a purpose in life and a good deed to do —  
            And she’s even created a Beetles’ Tattoo.  
 So for Old Gumbie Cats let us now give three cheers —  
-On whom [[Well|well]]-ordered households depend, it appears.  
+On whom [[motifs/well|well]]-ordered households depend, it appears.  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -117,7 +117,7 @@ come Platone, Admeto, Elettra, Demetra —
 Ma io vi dico, un gatto ha bisogno d’un nome particolare,  
    d’un nome tutto suo, e più dignitoso,  
 altrimenti come può tenere la coda perpendicolare,  
-   o spiegare i baffi, o coltivare il suo [[Pride|orgoglio]]?  
+   o spiegare i baffi, o coltivare il suo [[concepts/pride|orgoglio]]?  
 Di nomi di questa specie ve ne posso dare un quorum,  
    come Munkustrap, Quaxo, o Coricopat,  
 come Bombalurina, oppure Jellylorum —  
@@ -162,12 +162,12 @@ siede e siede e siede e siede — ed è questo che fa un Gatto
            e credendo che nulla si faccia senza provare,  
            si mette all’opera a cuocere e a friggere.  
            Fa loro una torta-di-topi di pane e piselli secchi,  
-           e una bella frittura di pancetta magra e [[cheese|formaggio]].  
+           e una bella frittura di pancetta magra e formaggio.  
 
 
 Ho in mente un Gatto Gumbie, il suo nome è Jennyanydots;  
-il cordone della tenda le piace [[Wind|avvolgere]], e annodarlo a nodi da marinaio.  
-Siede sul davanzale della [[Window|finestra]], o su qualunque cosa sia liscia e piatta:  
+il cordone della tenda le piace [[motifs/wind|avvolgere]], e annodarlo a nodi da marinaio.  
+Siede sul davanzale della [[motifs/window|finestra]], o su qualunque cosa sia liscia e piatta:  
 siede e siede e siede e siede — ed è questo che fa un Gatto  
        Gumbie!  
            Ma quando il trambusto e l’andirivieni del giorno son finiti,  
@@ -175,11 +175,11 @@ siede e siede e siede e siede — ed è questo che fa un Gatto
            Pensa che gli scarafaggi abbiano solo bisogno d’un impiego  
            che impedisca loro l’oziosa e sfrenata distruzione.  
            Così ha formato, da quella masnada di zotici disordinati,  
-           una truppa di [[Well|ben]] disciplinati e utili boy-scout,  
+           una truppa di [[motifs/well|ben]] disciplinati e utili boy-scout,  
            con uno scopo nella vita e una buona azione da compiere —  
            e ha perfino creato una Ritirata degli Scarabei.  
 Dunque per i Vecchi Gatti Gumbie facciamo ora tre urrà —  
-da cui dipendono, a quanto pare, le case [[Well|ben]] ordinate.
+da cui dipendono, a quanto pare, le case [[motifs/well|ben]] ordinate.
 
 
 
@@ -212,12 +212,12 @@ She sits and sits and sits and sits — and that’s what makes a Gumbie
            And believing that nothing is done without trying,  
            She sets to work with her baking and frying.  
            She makes them a mouse-cake of bread and dried peas,  
-           And a beautiful fry of lean bacon and [[cheese]].  
+           And a beautiful fry of lean bacon and cheese.  
 
 
 I have a Gumbie Cat in mind, her name is Jennyanydots;  
-The curtain-cord she likes to [[Wind|wind]], and tie it into sailor-knots.  
-She sits upon the [[Window|window]]-sill, or anything that’s smooth and flat:  
+The curtain-cord she likes to [[motifs/wind|wind]], and tie it into sailor-knots.  
+She sits upon the [[motifs/window|window]]-sill, or anything that’s smooth and flat:  
 She sits and sits and sits and sits — and that’s what makes a Gumbie  
        Cat!  
            But when the day’s hustle and bustle is done,  
@@ -225,18 +225,18 @@ She sits and sits and sits and sits — and that’s what makes a Gumbie
            She thinks that the cockroaches just need employment  
            To prevent them from idle and wanton destroyment.  
            So she’s formed, from that lot of disorderly louts,  
-           A troop of [[Well|well]]-disciplined helpful boy-scouts,  
+           A troop of [[motifs/well|well]]-disciplined helpful boy-scouts,  
            With a purpose in life and a good deed to do —  
            And she’s even created a Beetles’ Tattoo.  
 So for Old Gumbie Cats let us now give three cheers —  
-On whom [[Well|well]]-ordered households depend, it appears.  
+On whom [[motifs/well|well]]-ordered households depend, it appears.  
 
-Growltiger’s [[Last Stand]]  
+Growltiger’s [[topoi/last-stand|Last Stand]]  
 GROWLTIGER was a Bravo Cat, who travelled on a barge:  
 
 
 In fact he was the roughest cat that ever roamed at large.  
-From Gravesend up to [[Oxford]] he pursued his evil aims,  
+From Gravesend up to [[settings/oxford|Oxford]] he pursued his evil aims,  
 Rejoicing in his title of ‘The Terror of the Thames’.  
 His manners and appearance did not calculate to please;  
 His coat was torn and seedy, he was baggy at the knees;  
@@ -244,7 +244,7 @@ One ear was somewhat missing, no need to tell you why,
 And he scowled upon a hostile world from one forbidding eye.  
 The cottagers of Rotherhithe knew something of his fame;  
 At Hammersmith and Putney people shuddered at his name.  
-They would fortify the hen-[[house]], lock up the silly goose,  
+They would fortify the hen-house, lock up the silly goose,  
 When the rumour ran along the shore: GROWLTIGER’S ON THE LOOSE!  
 
 
@@ -254,10 +254,10 @@ Woe to the bristly Bandicoot, that lurks on foreign ships,
 And woe to any Cat with whom Growltiger came to grips!  
 But most to Cats of foreign race his hatred had been vowed;  
 To Cats of foreign name and race no quarter was allowed.  
-The Persian and the Siamese regarded him with [[Fear|fear]] —  
+The Persian and the Siamese regarded him with [[concepts/fear|fear]] —  
 Because it was a Siamese had mauled his missing ear.  
-Now on a peaceful [[Summer|summer]] [[Night|night]], all [[Nature|nature]] seemed at play,  
-The tender [[Moon|moon]] was shining bright, the barge at Molesey lay.  
+Now on a peaceful [[motifs/summer|summer]] [[motifs/night|night]], all [[concepts/nature|nature]] seemed at play,  
+The tender [[motifs/moon|moon]] was shining bright, the barge at Molesey lay.  
 All in the balmy moonlight it lay rocking on the tide —  
 And Growltiger was disposed to show his sentimental side.  
 His bucko mate, GRUMBUSKIN, long since had disappeared,  
@@ -267,8 +267,8 @@ For to the Bell at Hampton he had gone to wet his beard;
 And his bosun, TUMBLEBRUTUS, he too had stol’n away —  
 
 
-In the yard behind the [[Lion]] he was prowling for his prey.  
-In the forepeak of the vessel Growltiger sate [[Alone|alone]],  
+In the yard behind the [[motifs/lion|Lion]] he was prowling for his prey.  
+In the forepeak of the vessel Growltiger sate alone,  
 Concentrating his attention on the Lady GRIDDLEBONE.  
 
 
@@ -280,7 +280,7 @@ Disposed to relaxation, and awaiting no surprise —
 But the moonlight shone reflected from a hundred bright blue eyes.  
 And closer still and closer the sampans circled round,  
 And yet from all the enemy there was not heard a sound.  
-The [[lovers]] sang their last duet‚ in danger of their lives —  
+The lovers sang their last duet‚ in danger of their lives —  
 For the foe was armed with toasting forks and cruel carving knives.  
 Then GILBERT gave the signal to his fierce Mongolian horde;  
 
@@ -330,12 +330,12 @@ siede e siede e siede e siede — ed è questo che fa un Gatto
            e credendo che nulla si faccia senza provare,  
            si mette all’opera a cuocere e a friggere.  
            Fa loro una torta-di-topi di pane e piselli secchi,  
-           e una bella frittura di pancetta magra e [[cheese|formaggio]].  
+           e una bella frittura di pancetta magra e formaggio.  
 
 
 Ho in mente un Gatto Gumbie, il suo nome è Jennyanydots;  
-il cordone della tenda le piace [[Wind|avvolgere]], e annodarlo a nodi da marinaio.  
-Siede sul davanzale della [[Window|finestra]], o su qualunque cosa sia liscia e piatta:  
+il cordone della tenda le piace [[motifs/wind|avvolgere]], e annodarlo a nodi da marinaio.  
+Siede sul davanzale della [[motifs/window|finestra]], o su qualunque cosa sia liscia e piatta:  
 siede e siede e siede e siede — ed è questo che fa un Gatto  
        Gumbie!  
            Ma quando il trambusto e l’andirivieni del giorno son finiti,  
@@ -343,18 +343,18 @@ siede e siede e siede e siede — ed è questo che fa un Gatto
            Pensa che gli scarafaggi abbiano solo bisogno d’un impiego  
            che impedisca loro l’oziosa e sfrenata distruzione.  
            Così ha formato, da quella masnada di zotici disordinati,  
-           una truppa di [[Well|ben]] disciplinati e utili boy-scout,  
+           una truppa di [[motifs/well|ben]] disciplinati e utili boy-scout,  
            con uno scopo nella vita e una buona azione da compiere —  
            e ha perfino creato una Ritirata degli Scarabei.  
 Dunque per i Vecchi Gatti Gumbie facciamo ora tre urrà —  
-da cui dipendono, a quanto pare, le case [[Well|ben]] ordinate.  
+da cui dipendono, a quanto pare, le case [[motifs/well|ben]] ordinate.  
 
-L’[[Last Stand|Ultima Resistenza]] di Growltiger  
+L’[[topoi/last-stand|Ultima Resistenza]] di Growltiger  
 GROWLTIGER era un Gatto Bravo, che viaggiava su una chiatta:  
 
 
 Anzi era il gatto più rissoso che mai vagasse in libertà.  
-Da Gravesend fino a [[Oxford]] perseguiva i suoi fini malvagi,  
+Da Gravesend fino a [[settings/oxford|Oxford]] perseguiva i suoi fini malvagi,  
 compiacendosi del suo titolo di ‘Terrore del Tamigi’.  
 Le sue maniere e il suo aspetto non erano calcolati per piacere;  
 il manto lacero e squallido, e i ginocchi sformati;  
@@ -362,7 +362,7 @@ un orecchio gli mancava un poco, inutile dirvi perché,
 e guardava torvo un mondo ostile con un occhio solo e minaccioso.  
 I casigliani di Rotherhithe sapevano qualcosa della sua fama;  
 a Hammersmith e a Putney la gente rabbrividiva al suo nome.  
-Fortificavano la [[house|casa]] delle galline, chiudevano a chiave l’oca sciocca,  
+Fortificavano la casa delle galline, chiudevano a chiave l’oca sciocca,  
 quando la voce correva lungo la riva: GROWLTIGER È A PIEDE LIBERO!  
 
 
@@ -372,10 +372,10 @@ guai al Bandicoot irsuto, che si nasconde sulle navi straniere,
 e guai a ogni Gatto con cui Growltiger venisse alle prese!  
 Ma soprattutto ai Gatti di razza straniera aveva votato il suo odio;  
 ai Gatti di nome e razza straniera non era concesso quartiere.  
-Il Persiano e il Siamese lo guardavano con [[Fear|paura]] —  
+Il Persiano e il Siamese lo guardavano con [[concepts/fear|paura]] —  
 perché era stato un Siamese a sbranargli l’orecchio mancante.  
-Ora in una pacifica [[Night|notte]] d’[[Summer|estate]], tutta la [[Nature|natura]] pareva in festa,  
-la tenera [[Moon|luna]] splendeva chiara, la chiatta giaceva a Molesey.  
+Ora in una pacifica [[motifs/night|notte]] d’[[motifs/summer|estate]], tutta la [[concepts/nature|natura]] pareva in festa,  
+la tenera [[motifs/moon|luna]] splendeva chiara, la chiatta giaceva a Molesey.  
 Tutta nel mite chiaro di luna giaceva dondolando sulla marea —  
 e Growltiger era disposto a mostrare il suo lato sentimentale.  
 Il suo secondo spavaldo, GRUMBUSKIN, da tempo era sparito,  
@@ -385,8 +385,8 @@ ché alla Campana di Hampton era andato a bagnarsi la barba;
 e il suo nostromo, TUMBLEBRUTUS, anche lui se n’era svignato —  
 
 
-nel cortile dietro il [[Lion|Leone]] andava aggirandosi in cerca di preda.  
-Nel gavone di prua del vascello Growltiger sedeva [[Alone|solo]],  
+nel cortile dietro il [[motifs/lion|Leone]] andava aggirandosi in cerca di preda.  
+Nel gavone di prua del vascello Growltiger sedeva solo,  
 concentrando la sua attenzione sulla Lady GRIDDLEBONE.  
 
 
@@ -398,7 +398,7 @@ disposta al riposo, e senza aspettarsi sorprese —
 ma il chiaro di luna splendeva riflesso da cento occhi azzurri e lucenti.  
 E sempre più vicini e più vicini i sampan giravano intorno,  
 eppure da tutto il nemico non s’udiva un suono.  
-Gli [[lovers|amanti]] cantavano il loro ultimo duetto, in pericolo di vita —  
+Gli amanti cantavano il loro ultimo duetto, in pericolo di vita —  
 ché il nemico era armato di forchettoni da tostare e di crudeli trincianti.  
 Poi GILBERT diede il segnale alla sua feroce orda mongola;  
 
@@ -424,12 +424,12 @@ e un giorno di festa fu ordinato a Bangkok.
 <span class="atom-split" data-atom="082_growltigers_last_stand" data-title="Growltiger’s Last Stand" data-chapter="" data-kind="intro" data-tags="topos/the_last_stand,archetype/villain,motif/animals,motif/the_sea,motif/swords_weapons,form/mock_epic,form/narrative_poem,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
 
 
-Growltiger’s [[Last Stand]]  
+Growltiger’s [[topoi/last-stand|Last Stand]]  
 GROWLTIGER was a Bravo Cat, who travelled on a barge:  
 
 
 In fact he was the roughest cat that ever roamed at large.  
-From Gravesend up to [[Oxford]] he pursued his evil aims,  
+From Gravesend up to [[settings/oxford|Oxford]] he pursued his evil aims,  
 Rejoicing in his title of ‘The Terror of the Thames’.  
 His manners and appearance did not calculate to please;  
 His coat was torn and seedy, he was baggy at the knees;  
@@ -437,7 +437,7 @@ One ear was somewhat missing, no need to tell you why,
 And he scowled upon a hostile world from one forbidding eye.  
 The cottagers of Rotherhithe knew something of his fame;  
 At Hammersmith and Putney people shuddered at his name.  
-They would fortify the hen-[[house]], lock up the silly goose,  
+They would fortify the hen-house, lock up the silly goose,  
 When the rumour ran along the shore: GROWLTIGER’S ON THE LOOSE!  
 
 
@@ -447,10 +447,10 @@ Woe to the bristly Bandicoot, that lurks on foreign ships,
 And woe to any Cat with whom Growltiger came to grips!  
 But most to Cats of foreign race his hatred had been vowed;  
 To Cats of foreign name and race no quarter was allowed.  
-The Persian and the Siamese regarded him with [[Fear|fear]] —  
+The Persian and the Siamese regarded him with [[concepts/fear|fear]] —  
 Because it was a Siamese had mauled his missing ear.  
-Now on a peaceful [[Summer|summer]] [[Night|night]], all [[Nature|nature]] seemed at play,  
-The tender [[Moon|moon]] was shining bright, the barge at Molesey lay.  
+Now on a peaceful [[motifs/summer|summer]] [[motifs/night|night]], all [[concepts/nature|nature]] seemed at play,  
+The tender [[motifs/moon|moon]] was shining bright, the barge at Molesey lay.  
 All in the balmy moonlight it lay rocking on the tide —  
 And Growltiger was disposed to show his sentimental side.  
 His bucko mate, GRUMBUSKIN, long since had disappeared,  
@@ -460,8 +460,8 @@ For to the Bell at Hampton he had gone to wet his beard;
 And his bosun, TUMBLEBRUTUS, he too had stol’n away —  
 
 
-In the yard behind the [[Lion]] he was prowling for his prey.  
-In the forepeak of the vessel Growltiger sate [[Alone|alone]],  
+In the yard behind the [[motifs/lion|Lion]] he was prowling for his prey.  
+In the forepeak of the vessel Growltiger sate alone,  
 Concentrating his attention on the Lady GRIDDLEBONE.  
 
 
@@ -473,7 +473,7 @@ Disposed to relaxation, and awaiting no surprise —
 But the moonlight shone reflected from a hundred bright blue eyes.  
 And closer still and closer the sampans circled round,  
 And yet from all the enemy there was not heard a sound.  
-The [[lovers]] sang their last duet‚ in danger of their lives —  
+The lovers sang their last duet‚ in danger of their lives —  
 For the foe was armed with toasting forks and cruel carving knives.  
 Then GILBERT gave the signal to his fierce Mongolian horde;  
 
@@ -497,8 +497,8 @@ And a day of celebration was commanded in Bangkok.
 The Rum Turn Tugger  
 The Rum Tum Tugger is a Curious Cat:  
 If you offer him pheasant he would rather have grouse.  
-If you put him in a [[house]] he would much prefer a flat,  
-If you put him in a flat then he’d rather have a [[house]].  
+If you put him in a house he would much prefer a flat,  
+If you put him in a flat then he’d rather have a house.  
 If you set him on a mouse then he only wants a rat,  
 If you set him on a rat then he’d rather chase a mouse.  
 Yes the Rum Tum Tugger is a Curious Cat —  
@@ -509,11 +509,11 @@ Yes the Rum Tum Tugger is a Curious Cat —
 The Rum Tum Tugger is a terrible bore:  
 When you let him in, then he wants to be out;  
 He’s always on the wrong side of every door,  
-And as soon as he’s at [[Home|home]], then he’d like to get about.  
+And as soon as he’s at [[motifs/home|home]], then he’d like to get about.  
 He likes to lie in the bureau drawer,  
 But he makes such a fuss if he can’t get out.  
 Yes the Rum Tum Tugger is a Curious Cat —  
-    And it isn’t any use for you to [[Doubt|doubt]] it:  
+    And it isn’t any use for you to [[concepts/doubt|doubt]] it:  
        For he will do  
        As he do do  
            And there’s no doing anything about it!  
@@ -538,12 +538,12 @@ Yes the Rum Tum Tugger is a Curious Cat —
 
 <span class="qlang-split" data-lang="it"></span>
 
-L’[[Last Stand|Ultima Resistenza]] di Growltiger  
+L’[[topoi/last-stand|Ultima Resistenza]] di Growltiger  
 GROWLTIGER era un Gatto Bravo, che viaggiava su una chiatta:  
 
 
 Anzi era il gatto più rissoso che mai vagasse in libertà.  
-Da Gravesend fino a [[Oxford]] perseguiva i suoi fini malvagi,  
+Da Gravesend fino a [[settings/oxford|Oxford]] perseguiva i suoi fini malvagi,  
 compiacendosi del suo titolo di ‘Terrore del Tamigi’.  
 Le sue maniere e il suo aspetto non erano calcolati per piacere;  
 il manto lacero e squallido, e i ginocchi sformati;  
@@ -551,7 +551,7 @@ un orecchio gli mancava un poco, inutile dirvi perché,
 e guardava torvo un mondo ostile con un occhio solo e minaccioso.  
 I casigliani di Rotherhithe sapevano qualcosa della sua fama;  
 a Hammersmith e a Putney la gente rabbrividiva al suo nome.  
-Fortificavano la [[house|casa]] delle galline, chiudevano a chiave l’oca sciocca,  
+Fortificavano la casa delle galline, chiudevano a chiave l’oca sciocca,  
 quando la voce correva lungo la riva: GROWLTIGER È A PIEDE LIBERO!  
 
 
@@ -561,10 +561,10 @@ guai al Bandicoot irsuto, che si nasconde sulle navi straniere,
 e guai a ogni Gatto con cui Growltiger venisse alle prese!  
 Ma soprattutto ai Gatti di razza straniera aveva votato il suo odio;  
 ai Gatti di nome e razza straniera non era concesso quartiere.  
-Il Persiano e il Siamese lo guardavano con [[Fear|paura]] —  
+Il Persiano e il Siamese lo guardavano con [[concepts/fear|paura]] —  
 perché era stato un Siamese a sbranargli l’orecchio mancante.  
-Ora in una pacifica [[Night|notte]] d’[[Summer|estate]], tutta la [[Nature|natura]] pareva in festa,  
-la tenera [[Moon|luna]] splendeva chiara, la chiatta giaceva a Molesey.  
+Ora in una pacifica [[motifs/night|notte]] d’[[motifs/summer|estate]], tutta la [[concepts/nature|natura]] pareva in festa,  
+la tenera [[motifs/moon|luna]] splendeva chiara, la chiatta giaceva a Molesey.  
 Tutta nel mite chiaro di luna giaceva dondolando sulla marea —  
 e Growltiger era disposto a mostrare il suo lato sentimentale.  
 Il suo secondo spavaldo, GRUMBUSKIN, da tempo era sparito,  
@@ -574,8 +574,8 @@ ché alla Campana di Hampton era andato a bagnarsi la barba;
 e il suo nostromo, TUMBLEBRUTUS, anche lui se n’era svignato —  
 
 
-nel cortile dietro il [[Lion|Leone]] andava aggirandosi in cerca di preda.  
-Nel gavone di prua del vascello Growltiger sedeva [[Alone|solo]],  
+nel cortile dietro il [[motifs/lion|Leone]] andava aggirandosi in cerca di preda.  
+Nel gavone di prua del vascello Growltiger sedeva solo,  
 concentrando la sua attenzione sulla Lady GRIDDLEBONE.  
 
 
@@ -587,7 +587,7 @@ disposta al riposo, e senza aspettarsi sorprese —
 ma il chiaro di luna splendeva riflesso da cento occhi azzurri e lucenti.  
 E sempre più vicini e più vicini i sampan giravano intorno,  
 eppure da tutto il nemico non s’udiva un suono.  
-Gli [[lovers|amanti]] cantavano il loro ultimo duetto, in pericolo di vita —  
+Gli amanti cantavano il loro ultimo duetto, in pericolo di vita —  
 ché il nemico era armato di forchettoni da tostare e di crudeli trincianti.  
 Poi GILBERT diede il segnale alla sua feroce orda mongola;  
 
@@ -611,8 +611,8 @@ e un giorno di festa fu ordinato a Bangkok.
 Il Rum Tum Tugger  
 Il Rum Tum Tugger è un Gatto Curioso:  
 se gli offrite fagiano preferirebbe il gallo cedrone.  
-Se lo mettete in una [[house|casa]] preferirebbe di gran lunga un appartamento,  
-se lo mettete in un appartamento allora preferirebbe una [[house|casa]].  
+Se lo mettete in una casa preferirebbe di gran lunga un appartamento,  
+se lo mettete in un appartamento allora preferirebbe una casa.  
 Se lo aizzate contro un topo allora vuole soltanto un ratto,  
 se lo aizzate contro un ratto allora preferirebbe inseguire un topo.  
 Sì, il Rum Tum Tugger è un Gatto Curioso —  
@@ -623,11 +623,11 @@ Sì, il Rum Tum Tugger è un Gatto Curioso —
 Il Rum Tum Tugger è una noia terribile:  
 quando lo fate entrare, allora vuole uscire;  
 sta sempre dalla parte sbagliata d’ogni porta,  
-e appena è a [[Home|casa]], allora vorrebbe andarsene in giro.  
+e appena è a [[motifs/home|casa]], allora vorrebbe andarsene in giro.  
 Gli piace stare nel cassetto della scrivania,  
 ma fa un tale baccano se non riesce a uscirne.  
 Sì, il Rum Tum Tugger è un Gatto Curioso —  
-    e non serve a nulla che ne [[Doubt|dubitiate]]:  
+    e non serve a nulla che ne [[concepts/doubt|dubitiate]]:  
        perché lui farà  
        come lui fa fa  
            e non c’è nulla da fare al riguardo!  
@@ -657,8 +657,8 @@ Sì, il Rum Tum Tugger è un Gatto Curioso —
 The Rum Turn Tugger  
 The Rum Tum Tugger is a Curious Cat:  
 If you offer him pheasant he would rather have grouse.  
-If you put him in a [[house]] he would much prefer a flat,  
-If you put him in a flat then he’d rather have a [[house]].  
+If you put him in a house he would much prefer a flat,  
+If you put him in a flat then he’d rather have a house.  
 If you set him on a mouse then he only wants a rat,  
 If you set him on a rat then he’d rather chase a mouse.  
 Yes the Rum Tum Tugger is a Curious Cat —  
@@ -669,11 +669,11 @@ Yes the Rum Tum Tugger is a Curious Cat —
 The Rum Tum Tugger is a terrible bore:  
 When you let him in, then he wants to be out;  
 He’s always on the wrong side of every door,  
-And as soon as he’s at [[Home|home]], then he’d like to get about.  
+And as soon as he’s at [[motifs/home|home]], then he’d like to get about.  
 He likes to lie in the bureau drawer,  
 But he makes such a fuss if he can’t get out.  
 Yes the Rum Tum Tugger is a Curious Cat —  
-    And it isn’t any use for you to [[Doubt|doubt]] it:  
+    And it isn’t any use for you to [[concepts/doubt|doubt]] it:  
        For he will do  
        As he do do  
            And there’s no doing anything about it!  
@@ -695,12 +695,12 @@ Yes the Rum Tum Tugger is a Curious Cat —
        As he do do  
           And there’s no doing anything about it!  
 
-The [[Song]] of the Jellicles  
-Jellicle Cats come out to-[[Night|night]],  
+The [[works/song-(poe)|Song]] of the Jellicles  
+Jellicle Cats come out to-[[motifs/night|night]],  
 
 
 Jellicle Cats come one come all:  
-The Jellicle [[Moon]] is shining bright —  
+The Jellicle [[motifs/moon|Moon]] is shining bright —  
 
 
 Jellicles come to the Jellicle Ball.  
@@ -713,12 +713,12 @@ And pleasant to hear when they caterwaul.
 Jellicle Cats have cheerful faces,  
 Jellicle Cats have bright black eyes;  
 They like to practise their airs and graces  
-And wait for the Jellicle [[Moon]] to rise.  
+And wait for the Jellicle [[motifs/moon|Moon]] to rise.  
 Jellicle Cats develop slowly,  
 Jellicle Cats are not too big;  
 Jellicle Cats are roly-poly,  
-They know how to [[Dance|dance]] a gavotte and a jig.  
-Until the Jellicle [[Moon]] appears  
+They know how to [[motifs/dance|dance]] a gavotte and a jig.  
+Until the Jellicle [[motifs/moon|Moon]] appears  
 They make their toilette and take their repose:  
 Jellicles wash behind their ears,  
 Jellicles dry between their toes.  
@@ -729,15 +729,15 @@ Jellicle Cats have moonlit eyes.
 They’re quiet enough in the morning hours,  
 They’re quiet enough in the afternoon‚  
 Reserving their terpsichorean powers  
-To [[Dance|dance]] by the light of the Jellicle [[Moon]].  
+To [[motifs/dance|dance]] by the light of the Jellicle [[motifs/moon|Moon]].  
 Jellicle Cats are black and white,  
 Jellicle Cats (as I said) are small;  
-If it happens to be a stormy [[Night|night]]  
+If it happens to be a stormy [[motifs/night|night]]  
 They will practise a caper or two in the hall.  
 If it happens the sun is shining bright  
 You would say they had nothing to do at all:  
 They are resting and saving themselves to be right  
-For the Jellicle [[Moon]] and the Jellicle Ball.  
+For the Jellicle [[motifs/moon|Moon]] and the Jellicle Ball.  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -745,8 +745,8 @@ For the Jellicle [[Moon]] and the Jellicle Ball.
 Il Rum Tum Tugger  
 Il Rum Tum Tugger è un Gatto Curioso:  
 se gli offrite fagiano preferirebbe il gallo cedrone.  
-Se lo mettete in una [[house|casa]] preferirebbe di gran lunga un appartamento,  
-se lo mettete in un appartamento allora preferirebbe una [[house|casa]].  
+Se lo mettete in una casa preferirebbe di gran lunga un appartamento,  
+se lo mettete in un appartamento allora preferirebbe una casa.  
 Se lo aizzate contro un topo allora vuole soltanto un ratto,  
 se lo aizzate contro un ratto allora preferirebbe inseguire un topo.  
 Sì, il Rum Tum Tugger è un Gatto Curioso —  
@@ -757,11 +757,11 @@ Sì, il Rum Tum Tugger è un Gatto Curioso —
 Il Rum Tum Tugger è una noia terribile:  
 quando lo fate entrare, allora vuole uscire;  
 sta sempre dalla parte sbagliata d’ogni porta,  
-e appena è a [[Home|casa]], allora vorrebbe andarsene in giro.  
+e appena è a [[motifs/home|casa]], allora vorrebbe andarsene in giro.  
 Gli piace stare nel cassetto della scrivania,  
 ma fa un tale baccano se non riesce a uscirne.  
 Sì, il Rum Tum Tugger è un Gatto Curioso —  
-    e non serve a nulla che ne [[Doubt|dubitiate]]:  
+    e non serve a nulla che ne [[concepts/doubt|dubitiate]]:  
        perché lui farà  
        come lui fa fa  
            e non c’è nulla da fare al riguardo!  
@@ -783,12 +783,12 @@ Sì, il Rum Tum Tugger è un Gatto Curioso —
        come lui fa fa  
           e non c’è nulla da fare al riguardo!  
 
-Il [[Song|Canto]] dei Jellicle  
-I Gatti Jellicle escono questa [[Night|notte]],  
+Il Canto dei Jellicle  
+I Gatti Jellicle escono questa [[motifs/night|notte]],  
 
 
 Gatti Jellicle venite tutti quanti:  
-la [[Moon|Luna]] Jellicle splende chiara —  
+la [[motifs/moon|Luna]] Jellicle splende chiara —  
 
 
 i Jellicle vengono al Ballo Jellicle.  
@@ -801,12 +801,12 @@ e piacevoli da udire quando fanno la serenata.
 I Gatti Jellicle hanno facce gioiose,  
 i Gatti Jellicle hanno occhi neri e lucenti;  
 amano esercitare le loro arie e le loro grazie  
-e aspettare che la [[Moon|Luna]] Jellicle si levi.  
+e aspettare che la [[motifs/moon|Luna]] Jellicle si levi.  
 I Gatti Jellicle crescono lentamente,  
 i Gatti Jellicle non sono troppo grandi;  
 i Gatti Jellicle sono paffuti e tondi,  
-sanno [[Dance|danzare]] una gavotta e una giga.  
-Finché la [[Moon|Luna]] Jellicle non appare  
+sanno [[motifs/dance|danzare]] una gavotta e una giga.  
+Finché la [[motifs/moon|Luna]] Jellicle non appare  
 fanno toeletta e prendono riposo:  
 i Jellicle si lavano dietro le orecchie,  
 i Jellicle s’asciugano fra le dita dei piedi.  
@@ -817,27 +817,27 @@ i Gatti Jellicle hanno occhi di luna.
 Sono abbastanza quieti nelle ore del mattino,  
 sono abbastanza quieti nel pomeriggio,  
 serbando i loro poteri tersicorei  
-per [[Dance|danzare]] alla luce della [[Moon|Luna]] Jellicle.  
+per [[motifs/dance|danzare]] alla luce della [[motifs/moon|Luna]] Jellicle.  
 I Gatti Jellicle sono bianchi e neri,  
 i Gatti Jellicle (come ho detto) sono piccoli;  
-se càpita che sia una [[Night|notte]] di tempesta  
+se càpita che sia una [[motifs/night|notte]] di tempesta  
 faranno una capriola o due nell’ingresso.  
 Se càpita che il sole splenda chiaro  
 direste che non hanno proprio nulla da fare:  
 riposano e si risparmiano per essere in forma  
-per la [[Moon|Luna]] Jellicle e il Ballo Jellicle.
+per la [[motifs/moon|Luna]] Jellicle e il Ballo Jellicle.
 
 
 
 <span class="atom-split" data-atom="084_the_song_of_the_jellicles" data-title="The Song of the Jellicles" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/moon,motif/night,motif/dance_of_death,concept/joy,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
 
 
-The [[Song]] of the Jellicles  
-Jellicle Cats come out to-[[Night|night]],  
+The [[works/song-(poe)|Song]] of the Jellicles  
+Jellicle Cats come out to-[[motifs/night|night]],  
 
 
 Jellicle Cats come one come all:  
-The Jellicle [[Moon]] is shining bright —  
+The Jellicle [[motifs/moon|Moon]] is shining bright —  
 
 
 Jellicles come to the Jellicle Ball.  
@@ -850,12 +850,12 @@ And pleasant to hear when they caterwaul.
 Jellicle Cats have cheerful faces,  
 Jellicle Cats have bright black eyes;  
 They like to practise their airs and graces  
-And wait for the Jellicle [[Moon]] to rise.  
+And wait for the Jellicle [[motifs/moon|Moon]] to rise.  
 Jellicle Cats develop slowly,  
 Jellicle Cats are not too big;  
 Jellicle Cats are roly-poly,  
-They know how to [[Dance|dance]] a gavotte and a jig.  
-Until the Jellicle [[Moon]] appears  
+They know how to [[motifs/dance|dance]] a gavotte and a jig.  
+Until the Jellicle [[motifs/moon|Moon]] appears  
 They make their toilette and take their repose:  
 Jellicles wash behind their ears,  
 Jellicles dry between their toes.  
@@ -866,47 +866,47 @@ Jellicle Cats have moonlit eyes.
 They’re quiet enough in the morning hours,  
 They’re quiet enough in the afternoon‚  
 Reserving their terpsichorean powers  
-To [[Dance|dance]] by the light of the Jellicle [[Moon]].  
+To [[motifs/dance|dance]] by the light of the Jellicle [[motifs/moon|Moon]].  
 Jellicle Cats are black and white,  
 Jellicle Cats (as I said) are small;  
-If it happens to be a stormy [[Night|night]]  
+If it happens to be a stormy [[motifs/night|night]]  
 They will practise a caper or two in the hall.  
 If it happens the sun is shining bright  
 You would say they had nothing to do at all:  
 They are resting and saving themselves to be right  
-For the Jellicle [[Moon]] and the Jellicle Ball.  
+For the Jellicle [[motifs/moon|Moon]] and the Jellicle Ball.  
 
 Mungojerrie and Rumpelteazer  
 Mungojerrie and Rumpelteazer were a very notorious couple of cats.  
 As knockabout clowns, quick-change comedians, tight-rope walkers and  
         acrobats  
-They had an extensive reputation. They made their [[Home|home]] in Victoria  
+They had an extensive reputation. They made their [[motifs/home|home]] in Victoria  
         Grove —  
 That was merely their centre of operation, for they were incurably given  
         to rove.  
-They were very [[Well|well]] known in Cornwall Gardens, in Launceston Place  
+They were very [[motifs/well|well]] known in Cornwall Gardens, in Launceston Place  
         and in Kensington Square —  
 They had really a little more reputation than a couple of cats can very  
-        [[Well|well]] bear.  
-            If the area [[Window|window]] was found ajar  
+        [[motifs/well|well]] bear.  
+            If the area [[motifs/window|window]] was found ajar  
             And the basement looked like a field of war,  
             If a tile or two came loose on the roof,  
             Which presently ceased to be waterproof,  
             If the drawers were pulled out from the bedroom chests,  
-            And you couldn’t find one of your [[Winter|winter]] vests,  
+            And you couldn’t find one of your [[motifs/winter|winter]] vests,  
             Or after supper one of the girls  
             Suddenly missed her Woolworth pearls:  
 Then the family would say: ‘It’s that horrible cat!  
-It was Mungojerrie — or Rumpelteazer!’ — And most of the [[Time|time]] they  
+It was Mungojerrie — or Rumpelteazer!’ — And most of the [[motifs/time|time]] they  
         left it at that.  
 Mungojerrie and Rumpelteazer had a very unusual gift of the gab.  
-They were highly efficient cat-burglars as [[Well|well]], and remarkably smart  
+They were highly efficient cat-burglars as [[motifs/well|well]], and remarkably smart  
         at a smash-and-grab.  
-They made their [[Home|home]] in Victoria Grove. They had no regular  
+They made their [[motifs/home|home]] in Victoria Grove. They had no regular  
         occupation.  
 They were plausible fellows, and liked to engage a friendly policeman  
         in conversation.  
-            When the family assembled for [[Sunday]] dinner,  
+            When the family assembled for [[characters/sunday|Sunday]] dinner,  
             With their minds made up that they wouldn’t get thinner  
             On Argentine joint, potatoes and greens,  
             And the cook would appear from behind the scenes  
@@ -916,13 +916,13 @@ They were plausible fellows, and liked to engage a friendly policeman
 
             For the joint has gone from the oven — like that!’  
 Then the family would say: ‘It’s that horrible cat!  
-It was Mungojerrie — or Rumpelteazer!’ — And most of the [[Time|time]] they  
+It was Mungojerrie — or Rumpelteazer!’ — And most of the [[motifs/time|time]] they  
         left it at that.  
 Mungojerrie and Rumpelteazer had a wonderful way of working  
         together.  
-And some of the [[Time|time]] you would say it was luck, and some of the [[Time|time]]  
+And some of the [[motifs/time|time]] you would say it was luck, and some of the [[motifs/time|time]]  
         you would say it was weather.  
-They would go through the [[house]] like a hurricane, and no sober person  
+They would go through the house like a hurricane, and no sober person  
         could take his oath  
 Was it Mungojerrie — or Rumpelteazer? or could you have sworn that  
         it mightn’t be both?  
@@ -939,12 +939,12 @@ It was Mungojerrie! AND Rumpelteazer!’ — And there’s nothing at all
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il [[Song|Canto]] dei Jellicle  
-I Gatti Jellicle escono questa [[Night|notte]],  
+Il Canto dei Jellicle  
+I Gatti Jellicle escono questa [[motifs/night|notte]],  
 
 
 Gatti Jellicle venite tutti quanti:  
-la [[Moon|Luna]] Jellicle splende chiara —  
+la [[motifs/moon|Luna]] Jellicle splende chiara —  
 
 
 i Jellicle vengono al Ballo Jellicle.  
@@ -957,12 +957,12 @@ e piacevoli da udire quando fanno la serenata.
 I Gatti Jellicle hanno facce gioiose,  
 i Gatti Jellicle hanno occhi neri e lucenti;  
 amano esercitare le loro arie e le loro grazie  
-e aspettare che la [[Moon|Luna]] Jellicle si levi.  
+e aspettare che la [[motifs/moon|Luna]] Jellicle si levi.  
 I Gatti Jellicle crescono lentamente,  
 i Gatti Jellicle non sono troppo grandi;  
 i Gatti Jellicle sono paffuti e tondi,  
-sanno [[Dance|danzare]] una gavotta e una giga.  
-Finché la [[Moon|Luna]] Jellicle non appare  
+sanno [[motifs/dance|danzare]] una gavotta e una giga.  
+Finché la [[motifs/moon|Luna]] Jellicle non appare  
 fanno toeletta e prendono riposo:  
 i Jellicle si lavano dietro le orecchie,  
 i Jellicle s’asciugano fra le dita dei piedi.  
@@ -973,47 +973,47 @@ i Gatti Jellicle hanno occhi di luna.
 Sono abbastanza quieti nelle ore del mattino,  
 sono abbastanza quieti nel pomeriggio,  
 serbando i loro poteri tersicorei  
-per [[Dance|danzare]] alla luce della [[Moon|Luna]] Jellicle.  
+per [[motifs/dance|danzare]] alla luce della [[motifs/moon|Luna]] Jellicle.  
 I Gatti Jellicle sono bianchi e neri,  
 i Gatti Jellicle (come ho detto) sono piccoli;  
-se càpita che sia una [[Night|notte]] di tempesta  
+se càpita che sia una [[motifs/night|notte]] di tempesta  
 faranno una capriola o due nell’ingresso.  
 Se càpita che il sole splenda chiaro  
 direste che non hanno proprio nulla da fare:  
 riposano e si risparmiano per essere in forma  
-per la [[Moon|Luna]] Jellicle e il Ballo Jellicle.  
+per la [[motifs/moon|Luna]] Jellicle e il Ballo Jellicle.  
 
 Mungojerrie e Rumpelteazer  
 Mungojerrie e Rumpelteazer erano una coppia di gatti molto famigerata.  
 Come pagliacci da scaramuccia, comici da trasformismo, funamboli e  
         acrobati  
-avevano una vasta reputazione. Avevano la loro [[Home|casa]] in Victoria  
+avevano una vasta reputazione. Avevano la loro [[motifs/home|casa]] in Victoria  
         Grove —  
 ma quello era soltanto il loro centro d’operazioni, perché erano inguaribilmente dati  
         al vagabondaggio.  
-Erano molto [[Well|ben]] noti in Cornwall Gardens, in Launceston Place  
+Erano molto [[motifs/well|ben]] noti in Cornwall Gardens, in Launceston Place  
         e in Kensington Square —  
 avevano davvero un po’ più di reputazione di quanta una coppia di gatti possa  
-        [[Well|ben]] portare.  
-            Se la [[Window|finestra]] del cortiletto si trovava socchiusa  
+        [[motifs/well|ben]] portare.  
+            Se la [[motifs/window|finestra]] del cortiletto si trovava socchiusa  
             e la cantina pareva un campo di battaglia,  
             se una tegola o due si staccavano dal tetto,  
             che di lì a poco cessava d’essere impermeabile,  
             se i cassetti erano tirati fuori dai comò della camera,  
-            e non riuscivate a trovare una delle vostre maglie d’[[Winter|inverno]],  
+            e non riuscivate a trovare una delle vostre maglie d’[[motifs/winter|inverno]],  
             oppure dopo cena una delle ragazze  
             di colpo non trovava più le sue perle da quattro soldi:  
 allora la famiglia diceva: ‘È quell’orribile gatto!  
-Era Mungojerrie — o Rumpelteazer!’ — E il più delle [[Time|volte]] la  
+Era Mungojerrie — o Rumpelteazer!’ — E il più delle [[motifs/time|volte]] la  
         lasciavano lì.  
 Mungojerrie e Rumpelteazer avevano una parlantina fuori del comune.  
-Erano [[Well|anche]] efficientissimi topi d’appartamento, e straordinariamente svelti  
+Erano [[motifs/well|anche]] efficientissimi topi d’appartamento, e straordinariamente svelti  
         nello scippo e fuga.  
-Avevano la loro [[Home|casa]] in Victoria Grove. Non avevano occupazione  
+Avevano la loro [[motifs/home|casa]] in Victoria Grove. Non avevano occupazione  
         regolare.  
 Erano tipi credibili, e amavano attaccare discorso con un poliziotto  
         cordiale.  
-            Quando la famiglia si riuniva per il pranzo della [[Sunday|Domenica]],  
+            Quando la famiglia si riuniva per il pranzo della [[characters/sunday|Domenica]],  
             ben decisa a non dimagrire  
             con l’arrosto argentino, le patate e la verdura,  
             ed ecco apparire la cuoca da dietro le quinte  
@@ -1023,13 +1023,13 @@ Erano tipi credibili, e amavano attaccare discorso con un poliziotto
 
             Perché l’arrosto è sparito dal forno — così!’  
 Allora la famiglia diceva: ‘È quell’orribile gatto!  
-Era Mungojerrie — o Rumpelteazer!’ — E il più delle [[Time|volte]] la  
+Era Mungojerrie — o Rumpelteazer!’ — E il più delle [[motifs/time|volte]] la  
         lasciavano lì.  
 Mungojerrie e Rumpelteazer avevano un modo meraviglioso di lavorare  
         insieme.  
-E qualche [[Time|volta]] avreste detto che era fortuna, e qualche [[Time|volta]]  
+E qualche [[motifs/time|volta]] avreste detto che era fortuna, e qualche [[motifs/time|volta]]  
         avreste detto che era il tempo.  
-Attraversavano la [[house|casa]] come un uragano, e nessuna persona sobria  
+Attraversavano la casa come un uragano, e nessuna persona sobria  
         avrebbe potuto giurare  
 se fosse Mungojerrie — o Rumpelteazer? o avreste potuto giurare che  
         non fossero tutti e due?  
@@ -1052,33 +1052,33 @@ Mungojerrie and Rumpelteazer
 Mungojerrie and Rumpelteazer were a very notorious couple of cats.  
 As knockabout clowns, quick-change comedians, tight-rope walkers and  
         acrobats  
-They had an extensive reputation. They made their [[Home|home]] in Victoria  
+They had an extensive reputation. They made their [[motifs/home|home]] in Victoria  
         Grove —  
 That was merely their centre of operation, for they were incurably given  
         to rove.  
-They were very [[Well|well]] known in Cornwall Gardens, in Launceston Place  
+They were very [[motifs/well|well]] known in Cornwall Gardens, in Launceston Place  
         and in Kensington Square —  
 They had really a little more reputation than a couple of cats can very  
-        [[Well|well]] bear.  
-            If the area [[Window|window]] was found ajar  
+        [[motifs/well|well]] bear.  
+            If the area [[motifs/window|window]] was found ajar  
             And the basement looked like a field of war,  
             If a tile or two came loose on the roof,  
             Which presently ceased to be waterproof,  
             If the drawers were pulled out from the bedroom chests,  
-            And you couldn’t find one of your [[Winter|winter]] vests,  
+            And you couldn’t find one of your [[motifs/winter|winter]] vests,  
             Or after supper one of the girls  
             Suddenly missed her Woolworth pearls:  
 Then the family would say: ‘It’s that horrible cat!  
-It was Mungojerrie — or Rumpelteazer!’ — And most of the [[Time|time]] they  
+It was Mungojerrie — or Rumpelteazer!’ — And most of the [[motifs/time|time]] they  
         left it at that.  
 Mungojerrie and Rumpelteazer had a very unusual gift of the gab.  
-They were highly efficient cat-burglars as [[Well|well]], and remarkably smart  
+They were highly efficient cat-burglars as [[motifs/well|well]], and remarkably smart  
         at a smash-and-grab.  
-They made their [[Home|home]] in Victoria Grove. They had no regular  
+They made their [[motifs/home|home]] in Victoria Grove. They had no regular  
         occupation.  
 They were plausible fellows, and liked to engage a friendly policeman  
         in conversation.  
-            When the family assembled for [[Sunday]] dinner,  
+            When the family assembled for [[characters/sunday|Sunday]] dinner,  
             With their minds made up that they wouldn’t get thinner  
             On Argentine joint, potatoes and greens,  
             And the cook would appear from behind the scenes  
@@ -1088,13 +1088,13 @@ They were plausible fellows, and liked to engage a friendly policeman
 
             For the joint has gone from the oven — like that!’  
 Then the family would say: ‘It’s that horrible cat!  
-It was Mungojerrie — or Rumpelteazer!’ — And most of the [[Time|time]] they  
+It was Mungojerrie — or Rumpelteazer!’ — And most of the [[motifs/time|time]] they  
         left it at that.  
 Mungojerrie and Rumpelteazer had a wonderful way of working  
         together.  
-And some of the [[Time|time]] you would say it was luck, and some of the [[Time|time]]  
+And some of the [[motifs/time|time]] you would say it was luck, and some of the [[motifs/time|time]]  
         you would say it was weather.  
-They would go through the [[house]] like a hurricane, and no sober person  
+They would go through the house like a hurricane, and no sober person  
         could take his oath  
 Was it Mungojerrie — or Rumpelteazer? or could you have sworn that  
         it mightn’t be both?  
@@ -1109,17 +1109,17 @@ It was Mungojerrie! AND Rumpelteazer!’ — And there’s nothing at all
         to be done about that!  
 
 Old Deuteronomy  
-Old Deuteronomy’s lived a long [[Time|time]];  
+Old Deuteronomy’s lived a long [[motifs/time|time]];  
     He’s a Cat who has lived many lives in succession.  
 He was famous in proverb and famous in rhyme  
-    A long while before [[Queen]] Victoria’s accession.  
+    A long while before [[characters/queen|Queen]] Victoria’s accession.  
 Old Deuteronomy’s buried nine wives  
     And more — I am tempted to say, ninety-nine;  
 And his numerous progeny prospers and thrives  
     And the village is proud of him in his decline.  
 At the sight of that placid and bland physiognomy,  
     When he sits in the sun on the vicarage wall,  
-The Oldest Inhabitant croaks: ‘[[Well]], of all …  
+The Oldest Inhabitant croaks: ‘[[motifs/well|Well]], of all …  
     Things … Can it be … really! … No! … Yes! …  
         Ho! hi!  
         Oh, my eye!  
@@ -1130,23 +1130,23 @@ I believe it is Old Deuteronomy!’
 Old Deuteronomy sits in the street,  
     He sits in the High Street on market day;  
 The bullocks may bellow, the sheep they may bleat,  
-    But the [[dogs]] and the herdsmen will turn them away.  
+    But the dogs and the herdsmen will turn them away.  
 The cars and the lorries run over the kerb,  
-    And the villagers put up a notice: [[Road|ROAD]] CLOSED —  
+    And the villagers put up a notice: [[motifs/road|ROAD]] CLOSED —  
 
 
 So that nothing untoward may chance to disturb  
     Deuteronomy’s rest when he feels so disposed  
 Or when he’s engaged in domestic economy:  
-    And the Oldest Inhabitant croaks: ‘[[Well]], of all …  
+    And the Oldest Inhabitant croaks: ‘[[motifs/well|Well]], of all …  
     Things … Can it be … really! … No! … Yes! …  
        Ho! hi!  
        Oh, my eye!  
 My sight’s unreliable, but I can guess  
 That the cause of the trouble is Old Deuteronomy!’  
 Old Deuteronomy lies on the floor  
-    Of the Fox and French Horn for his afternoon [[Sleep|sleep]];  
-And when the men say: ‘There’s just [[Time|time]] for one more‚’  
+    Of the Fox and French Horn for his afternoon [[motifs/sleep|sleep]];  
+And when the men say: ‘There’s just [[motifs/time|time]] for one more‚’  
     Then the landlady from her back parlour will peep  
 And say: ‘Now then, out you go, by the back door,  
     For Old Deuteronomy musn’t be woken —  
@@ -1154,7 +1154,7 @@ I’ll have the police if there’s any uproar’ —
     And out they all shuffle, without a word spoken.  
 The digestive repose of that feline’s gastronomy  
     Must never be broken, whatever befall:  
-And the Oldest Inhabitant croaks: ‘[[Well]], of all …  
+And the Oldest Inhabitant croaks: ‘[[motifs/well|Well]], of all …  
     Things … Can it be … really! … Yes! … No! …  
        Ho! hi!  
        Oh, my eye!  
@@ -1168,33 +1168,33 @@ Mungojerrie e Rumpelteazer
 Mungojerrie e Rumpelteazer erano una coppia di gatti molto famigerata.  
 Come pagliacci da scaramuccia, comici da trasformismo, funamboli e  
         acrobati  
-avevano una vasta reputazione. Avevano la loro [[Home|casa]] in Victoria  
+avevano una vasta reputazione. Avevano la loro [[motifs/home|casa]] in Victoria  
         Grove —  
 ma quello era soltanto il loro centro d’operazioni, perché erano inguaribilmente dati  
         al vagabondaggio.  
-Erano molto [[Well|ben]] noti in Cornwall Gardens, in Launceston Place  
+Erano molto [[motifs/well|ben]] noti in Cornwall Gardens, in Launceston Place  
         e in Kensington Square —  
 avevano davvero un po’ più di reputazione di quanta una coppia di gatti possa  
-        [[Well|ben]] portare.  
-            Se la [[Window|finestra]] del cortiletto si trovava socchiusa  
+        [[motifs/well|ben]] portare.  
+            Se la [[motifs/window|finestra]] del cortiletto si trovava socchiusa  
             e la cantina pareva un campo di battaglia,  
             se una tegola o due si staccavano dal tetto,  
             che di lì a poco cessava d’essere impermeabile,  
             se i cassetti erano tirati fuori dai comò della camera,  
-            e non riuscivate a trovare una delle vostre maglie d’[[Winter|inverno]],  
+            e non riuscivate a trovare una delle vostre maglie d’[[motifs/winter|inverno]],  
             oppure dopo cena una delle ragazze  
             di colpo non trovava più le sue perle da quattro soldi:  
 allora la famiglia diceva: ‘È quell’orribile gatto!  
-Era Mungojerrie — o Rumpelteazer!’ — E il più delle [[Time|volte]] la  
+Era Mungojerrie — o Rumpelteazer!’ — E il più delle [[motifs/time|volte]] la  
         lasciavano lì.  
 Mungojerrie e Rumpelteazer avevano una parlantina fuori del comune.  
-Erano [[Well|anche]] efficientissimi topi d’appartamento, e straordinariamente svelti  
+Erano [[motifs/well|anche]] efficientissimi topi d’appartamento, e straordinariamente svelti  
         nello scippo e fuga.  
-Avevano la loro [[Home|casa]] in Victoria Grove. Non avevano occupazione  
+Avevano la loro [[motifs/home|casa]] in Victoria Grove. Non avevano occupazione  
         regolare.  
 Erano tipi credibili, e amavano attaccare discorso con un poliziotto  
         cordiale.  
-            Quando la famiglia si riuniva per il pranzo della [[Sunday|Domenica]],  
+            Quando la famiglia si riuniva per il pranzo della [[characters/sunday|Domenica]],  
             ben decisa a non dimagrire  
             con l’arrosto argentino, le patate e la verdura,  
             ed ecco apparire la cuoca da dietro le quinte  
@@ -1204,13 +1204,13 @@ Erano tipi credibili, e amavano attaccare discorso con un poliziotto
 
             Perché l’arrosto è sparito dal forno — così!’  
 Allora la famiglia diceva: ‘È quell’orribile gatto!  
-Era Mungojerrie — o Rumpelteazer!’ — E il più delle [[Time|volte]] la  
+Era Mungojerrie — o Rumpelteazer!’ — E il più delle [[motifs/time|volte]] la  
         lasciavano lì.  
 Mungojerrie e Rumpelteazer avevano un modo meraviglioso di lavorare  
         insieme.  
-E qualche [[Time|volta]] avreste detto che era fortuna, e qualche [[Time|volta]]  
+E qualche [[motifs/time|volta]] avreste detto che era fortuna, e qualche [[motifs/time|volta]]  
         avreste detto che era il tempo.  
-Attraversavano la [[house|casa]] come un uragano, e nessuna persona sobria  
+Attraversavano la casa come un uragano, e nessuna persona sobria  
         avrebbe potuto giurare  
 se fosse Mungojerrie — o Rumpelteazer? o avreste potuto giurare che  
         non fossero tutti e due?  
@@ -1225,17 +1225,17 @@ Era Mungojerrie! E Rumpelteazer!’ — E non c’è proprio nulla
         da fare al riguardo!  
 
 Vecchio Deuteronomio  
-Il Vecchio Deuteronomio è vissuto a lungo nel [[Time|tempo]];  
+Il Vecchio Deuteronomio è vissuto a lungo nel [[motifs/time|tempo]];  
     è un Gatto che ha vissuto molte vite in successione.  
 Era famoso nei proverbi e famoso nelle rime  
-    molto prima dell’ascesa della [[Queen|Regina]] Vittoria.  
+    molto prima dell’ascesa della [[characters/queen|Regina]] Vittoria.  
 Il Vecchio Deuteronomio ha sepolto nove mogli  
     e più — sono tentato di dire, novantanove;  
 e la sua numerosa progenie prospera e fiorisce  
     e il villaggio va fiero di lui nel suo declino.  
 Alla vista di quella placida e mite fisionomia,  
     quando siede al sole sul muro della canonica,  
-il Più Vecchio Abitante gracchia: ‘[[Well|Beh]], di tutte …  
+il Più Vecchio Abitante gracchia: ‘[[motifs/well|Beh]], di tutte …  
     le cose … Può essere … davvero! … No! … Sì! …  
         Oh! ehi!  
         Oh, poffarbacco!  
@@ -1246,23 +1246,23 @@ che credo sia il Vecchio Deuteronomio!’
 Il Vecchio Deuteronomio siede in mezzo alla strada,  
     siede nella Via Maestra il giorno di mercato;  
 i giovenchi possono muggire, le pecore possono belare,  
-    ma i [[dogs|cani]] e i mandriani li faranno girare al largo.  
+    ma i cani e i mandriani li faranno girare al largo.  
 Le auto e i camion salgono sul marciapiede,  
-    e i paesani mettono un cartello: [[Road|STRADA]] CHIUSA —  
+    e i paesani mettono un cartello: [[motifs/road|STRADA]] CHIUSA —  
 
 
 perché nulla di molesto possa per caso turbare  
     il riposo di Deuteronomio quando ne ha voglia  
 o quando è occupato in economia domestica:  
-    e il Più Vecchio Abitante gracchia: ‘[[Well|Beh]], di tutte …  
+    e il Più Vecchio Abitante gracchia: ‘[[motifs/well|Beh]], di tutte …  
     le cose … Può essere … davvero! … No! … Sì! …  
        Oh! ehi!  
        Oh, poffarbacco!  
 La mia vista è malfida, ma posso indovinare  
 che la causa del disturbo è il Vecchio Deuteronomio!’  
 Il Vecchio Deuteronomio giace sul pavimento  
-    della Volpe e Corno Francese per il suo [[Sleep|sonno]] pomeridiano;  
-e quando gli uomini dicono: ‘C’è giusto il [[Time|tempo]] per un altro giro’,  
+    della Volpe e Corno Francese per il suo [[motifs/sleep|sonno]] pomeridiano;  
+e quando gli uomini dicono: ‘C’è giusto il [[motifs/time|tempo]] per un altro giro’,  
     allora la padrona fa capolino dal suo salottino di dietro  
 e dice: ‘Su, fuori di qui, dalla porta sul retro,  
     ché il Vecchio Deuteronomio non dev’essere svegliato —  
@@ -1270,7 +1270,7 @@ chiamo la polizia se si fa baccano’ —
     e tutti se ne escono strascicando, senza una parola.  
 Il riposo digestivo della gastronomia di quel felino  
     non dev’essere mai interrotto, qualunque cosa accada:  
-e il Più Vecchio Abitante gracchia: ‘[[Well|Beh]], di tutte …  
+e il Più Vecchio Abitante gracchia: ‘[[motifs/well|Beh]], di tutte …  
     le cose … Può essere … davvero! … Sì! … No! …  
        Oh! ehi!  
        Oh, poffarbacco!  
@@ -1283,17 +1283,17 @@ e stare attento al Vecchio Deuteronomio!’
 
 
 Old Deuteronomy  
-Old Deuteronomy’s lived a long [[Time|time]];  
+Old Deuteronomy’s lived a long [[motifs/time|time]];  
     He’s a Cat who has lived many lives in succession.  
 He was famous in proverb and famous in rhyme  
-    A long while before [[Queen]] Victoria’s accession.  
+    A long while before [[characters/queen|Queen]] Victoria’s accession.  
 Old Deuteronomy’s buried nine wives  
     And more — I am tempted to say, ninety-nine;  
 And his numerous progeny prospers and thrives  
     And the village is proud of him in his decline.  
 At the sight of that placid and bland physiognomy,  
     When he sits in the sun on the vicarage wall,  
-The Oldest Inhabitant croaks: ‘[[Well]], of all …  
+The Oldest Inhabitant croaks: ‘[[motifs/well|Well]], of all …  
     Things … Can it be … really! … No! … Yes! …  
         Ho! hi!  
         Oh, my eye!  
@@ -1304,23 +1304,23 @@ I believe it is Old Deuteronomy!’
 Old Deuteronomy sits in the street,  
     He sits in the High Street on market day;  
 The bullocks may bellow, the sheep they may bleat,  
-    But the [[dogs]] and the herdsmen will turn them away.  
+    But the dogs and the herdsmen will turn them away.  
 The cars and the lorries run over the kerb,  
-    And the villagers put up a notice: [[Road|ROAD]] CLOSED —  
+    And the villagers put up a notice: [[motifs/road|ROAD]] CLOSED —  
 
 
 So that nothing untoward may chance to disturb  
     Deuteronomy’s rest when he feels so disposed  
 Or when he’s engaged in domestic economy:  
-    And the Oldest Inhabitant croaks: ‘[[Well]], of all …  
+    And the Oldest Inhabitant croaks: ‘[[motifs/well|Well]], of all …  
     Things … Can it be … really! … No! … Yes! …  
        Ho! hi!  
        Oh, my eye!  
 My sight’s unreliable, but I can guess  
 That the cause of the trouble is Old Deuteronomy!’  
 Old Deuteronomy lies on the floor  
-    Of the Fox and French Horn for his afternoon [[Sleep|sleep]];  
-And when the men say: ‘There’s just [[Time|time]] for one more‚’  
+    Of the Fox and French Horn for his afternoon [[motifs/sleep|sleep]];  
+And when the men say: ‘There’s just [[motifs/time|time]] for one more‚’  
     Then the landlady from her back parlour will peep  
 And say: ‘Now then, out you go, by the back door,  
     For Old Deuteronomy musn’t be woken —  
@@ -1328,7 +1328,7 @@ I’ll have the police if there’s any uproar’ —
     And out they all shuffle, without a word spoken.  
 The digestive repose of that feline’s gastronomy  
     Must never be broken, whatever befall:  
-And the Oldest Inhabitant croaks: ‘[[Well]], of all …  
+And the Oldest Inhabitant croaks: ‘[[motifs/well|Well]], of all …  
     Things … Can it be … really! … Yes! … No! …  
        Ho! hi!  
        Oh, my eye!  
@@ -1353,7 +1353,7 @@ And they
              Until you can hear them all over the Park.  
 Now on the occasion of which I shall speak  
 Almost nothing had happened for nearly a week  
-(And that’s a long [[Time|time]] for a Pol or a Peke).  
+(And that’s a long [[motifs/time|time]] for a Pol or a Peke).  
 The big Police Dog was away from his beat —  
 I don’t know the reason, but most people think  
 He’d slipped into the Wellington Arms for a drink —  
@@ -1368,7 +1368,7 @@ And started to
 Now the Peke, although people may say what they please,  
 Is no British Dog, but a Heathen Chinese.  
 And so all the Pekes, when they heard the uproar,  
-Some came to the [[Window|window]], some came to the door;  
+Some came to the [[motifs/window|window]], some came to the door;  
 There were surely a dozen, more likely a score.  
 And together they started to grumble and wheeze  
 In their huffery-snuffery Heathen Chinese.  
@@ -1389,7 +1389,7 @@ With a
 Now when these bold heroes together assembled,  
 The traffic all stopped, and the Underground trembled,  
 And some of the neighbours were so much afraid  
-That they started to ring up the [[Fire]] Brigade.  
+That they started to ring up the [[motifs/fire|Fire]] Brigade.  
 When suddenly, up from a small basement flat,  
 Why who should stalk out but the GREAT RUMPUSCAT.  
 
@@ -1409,17 +1409,17 @@ There wasn’t a single one left in the street.
 <span class="qlang-split" data-lang="it"></span>
 
 Vecchio Deuteronomio  
-Il Vecchio Deuteronomio è vissuto a lungo nel [[Time|tempo]];  
+Il Vecchio Deuteronomio è vissuto a lungo nel [[motifs/time|tempo]];  
     è un Gatto che ha vissuto molte vite in successione.  
 Era famoso nei proverbi e famoso nelle rime  
-    molto prima dell’ascesa della [[Queen|Regina]] Vittoria.  
+    molto prima dell’ascesa della [[characters/queen|Regina]] Vittoria.  
 Il Vecchio Deuteronomio ha sepolto nove mogli  
     e più — sono tentato di dire, novantanove;  
 e la sua numerosa progenie prospera e fiorisce  
     e il villaggio va fiero di lui nel suo declino.  
 Alla vista di quella placida e mite fisionomia,  
     quando siede al sole sul muro della canonica,  
-il Più Vecchio Abitante gracchia: ‘[[Well|Beh]], di tutte …  
+il Più Vecchio Abitante gracchia: ‘[[motifs/well|Beh]], di tutte …  
     le cose … Può essere … davvero! … No! … Sì! …  
         Oh! ehi!  
         Oh, poffarbacco!  
@@ -1430,23 +1430,23 @@ che credo sia il Vecchio Deuteronomio!’
 Il Vecchio Deuteronomio siede in mezzo alla strada,  
     siede nella Via Maestra il giorno di mercato;  
 i giovenchi possono muggire, le pecore possono belare,  
-    ma i [[dogs|cani]] e i mandriani li faranno girare al largo.  
+    ma i cani e i mandriani li faranno girare al largo.  
 Le auto e i camion salgono sul marciapiede,  
-    e i paesani mettono un cartello: [[Road|STRADA]] CHIUSA —  
+    e i paesani mettono un cartello: [[motifs/road|STRADA]] CHIUSA —  
 
 
 perché nulla di molesto possa per caso turbare  
     il riposo di Deuteronomio quando ne ha voglia  
 o quando è occupato in economia domestica:  
-    e il Più Vecchio Abitante gracchia: ‘[[Well|Beh]], di tutte …  
+    e il Più Vecchio Abitante gracchia: ‘[[motifs/well|Beh]], di tutte …  
     le cose … Può essere … davvero! … No! … Sì! …  
        Oh! ehi!  
        Oh, poffarbacco!  
 La mia vista è malfida, ma posso indovinare  
 che la causa del disturbo è il Vecchio Deuteronomio!’  
 Il Vecchio Deuteronomio giace sul pavimento  
-    della Volpe e Corno Francese per il suo [[Sleep|sonno]] pomeridiano;  
-e quando gli uomini dicono: ‘C’è giusto il [[Time|tempo]] per un altro giro’,  
+    della Volpe e Corno Francese per il suo [[motifs/sleep|sonno]] pomeridiano;  
+e quando gli uomini dicono: ‘C’è giusto il [[motifs/time|tempo]] per un altro giro’,  
     allora la padrona fa capolino dal suo salottino di dietro  
 e dice: ‘Su, fuori di qui, dalla porta sul retro,  
     ché il Vecchio Deuteronomio non dev’essere svegliato —  
@@ -1454,7 +1454,7 @@ chiamo la polizia se si fa baccano’ —
     e tutti se ne escono strascicando, senza una parola.  
 Il riposo digestivo della gastronomia di quel felino  
     non dev’essere mai interrotto, qualunque cosa accada:  
-e il Più Vecchio Abitante gracchia: ‘[[Well|Beh]], di tutte …  
+e il Più Vecchio Abitante gracchia: ‘[[motifs/well|Beh]], di tutte …  
     le cose … Può essere … davvero! … Sì! … No! …  
        Oh! ehi!  
        Oh, poffarbacco!  
@@ -1479,7 +1479,7 @@ e loro
              finché li si sente per tutto il Parco.  
 Ora nell’occasione di cui devo parlare  
 non era accaduto quasi nulla per quasi una settimana  
-(e questo è un lungo [[Time|tempo]] per un Poll o per un Pech).  
+(e questo è un lungo [[motifs/time|tempo]] per un Poll o per un Pech).  
 Il grosso Cane Poliziotto era via dalla sua ronda —  
 non ne conosco la ragione, ma i più pensano  
 che fosse sgusciato al Wellington Arms per un bicchiere —  
@@ -1494,7 +1494,7 @@ e cominciarono a
 Ora il Pech, benché la gente possa dire ciò che le pare,  
 non è un Cane Britannico, ma un Cinese Pagano.  
 E così tutti i Pechi, quando udirono il baccano,  
-chi venne alla [[Window|finestra]], chi venne alla porta;  
+chi venne alla [[motifs/window|finestra]], chi venne alla porta;  
 erano di certo una dozzina, più probabilmente una ventina.  
 E insieme cominciarono a brontolare e ad ansimare  
 nel loro sbuffante-annusante Cinese Pagano.  
@@ -1515,7 +1515,7 @@ con un
 Ora quando questi arditi eroi si furono radunati insieme,  
 il traffico si fermò tutto, e la Metropolitana tremò,  
 e alcuni dei vicini ebbero tanta paura  
-che si misero a telefonare ai Vigili del [[Fire|Fuoco]].  
+che si misero a telefonare ai Vigili del [[motifs/fire|Fuoco]].  
 Quando all’improvviso, su da un piccolo seminterrato,  
 chi mai sbucò fuori se non il GRANDE RUMPUSCAT.  
 
@@ -1554,7 +1554,7 @@ And they
              Until you can hear them all over the Park.  
 Now on the occasion of which I shall speak  
 Almost nothing had happened for nearly a week  
-(And that’s a long [[Time|time]] for a Pol or a Peke).  
+(And that’s a long [[motifs/time|time]] for a Pol or a Peke).  
 The big Police Dog was away from his beat —  
 I don’t know the reason, but most people think  
 He’d slipped into the Wellington Arms for a drink —  
@@ -1569,7 +1569,7 @@ And started to
 Now the Peke, although people may say what they please,  
 Is no British Dog, but a Heathen Chinese.  
 And so all the Pekes, when they heard the uproar,  
-Some came to the [[Window|window]], some came to the door;  
+Some came to the [[motifs/window|window]], some came to the door;  
 There were surely a dozen, more likely a score.  
 And together they started to grumble and wheeze  
 In their huffery-snuffery Heathen Chinese.  
@@ -1590,7 +1590,7 @@ With a
 Now when these bold heroes together assembled,  
 The traffic all stopped, and the Underground trembled,  
 And some of the neighbours were so much afraid  
-That they started to ring up the [[Fire]] Brigade.  
+That they started to ring up the [[motifs/fire|Fire]] Brigade.  
 When suddenly, up from a small basement flat,  
 Why who should stalk out but the GREAT RUMPUSCAT.  
 
@@ -1609,7 +1609,7 @@ There wasn’t a single one left in the street.
 Mr. Mistoffelees  
 You ought to know Mr. Mistoffelees!  
 The Original Conjuring Cat —  
-(There can be no [[Doubt|doubt]] about that).  
+(There can be no [[concepts/doubt|doubt]] about that).  
 Please listen to me and don’t scoff. All his  
 Inventions are off his own bat.  
 There’s no such Cat in the metropolis;  
@@ -1627,7 +1627,7 @@ Presto!
       And we all say: OH!  
 
 
-         [[Well]] I never!  
+         [[motifs/well|Well]] I never!  
          Was there ever  
          A Cat so clever  
              As Magical Mr. Mistoffelees!  
@@ -1650,15 +1650,15 @@ But you’ll find it next week lying out on the lawn.
    And we all say: OH!  
 
 
-      [[Well]] I never!  
+      [[motifs/well|Well]] I never!  
       Was there ever  
       A Cat so clever  
           As Magical Mr. Mistoffelees!  
 His manner is vague and aloof,  
 You would think there was nobody shyer —  
 But his voice has been heard on the roof  
-When he was curled up by the [[Fire|fire]].  
-And he’s sometimes been heard by the [[Fire|fire]]  
+When he was curled up by the [[motifs/fire|fire]].  
+And he’s sometimes been heard by the [[motifs/fire|fire]]  
 When he was about on the roof —  
 (At least we all heard that somebody purred)  
 
@@ -1666,7 +1666,7 @@ When he was about on the roof —
 Which is incontestable proof  
    Of his singular magical powers:  
       And I have known the family to call  
-   Him in from the [[Garden|garden]] for hours,  
+   Him in from the [[motifs/garden|garden]] for hours,  
       While he was asleep in the hall.  
 And not long ago this phenomenal Cat  
 Produced seven kittens right out of a hat!  
@@ -1675,7 +1675,7 @@ Produced seven kittens right out of a hat!
    And we all said: OH!  
 
 
-      [[Well]] I never!  
+      [[motifs/well|Well]] I never!  
       Did you ever  
       Know a Cat so clever  
          As Magical Mr. Mistoffelees!  
@@ -1701,7 +1701,7 @@ e loro
              finché li si sente per tutto il Parco.  
 Ora nell’occasione di cui devo parlare  
 non era accaduto quasi nulla per quasi una settimana  
-(e questo è un lungo [[Time|tempo]] per un Poll o per un Pech).  
+(e questo è un lungo [[motifs/time|tempo]] per un Poll o per un Pech).  
 Il grosso Cane Poliziotto era via dalla sua ronda —  
 non ne conosco la ragione, ma i più pensano  
 che fosse sgusciato al Wellington Arms per un bicchiere —  
@@ -1716,7 +1716,7 @@ e cominciarono a
 Ora il Pech, benché la gente possa dire ciò che le pare,  
 non è un Cane Britannico, ma un Cinese Pagano.  
 E così tutti i Pechi, quando udirono il baccano,  
-chi venne alla [[Window|finestra]], chi venne alla porta;  
+chi venne alla [[motifs/window|finestra]], chi venne alla porta;  
 erano di certo una dozzina, più probabilmente una ventina.  
 E insieme cominciarono a brontolare e ad ansimare  
 nel loro sbuffante-annusante Cinese Pagano.  
@@ -1737,7 +1737,7 @@ con un
 Ora quando questi arditi eroi si furono radunati insieme,  
 il traffico si fermò tutto, e la Metropolitana tremò,  
 e alcuni dei vicini ebbero tanta paura  
-che si misero a telefonare ai Vigili del [[Fire|Fuoco]].  
+che si misero a telefonare ai Vigili del [[motifs/fire|Fuoco]].  
 Quando all’improvviso, su da un piccolo seminterrato,  
 chi mai sbucò fuori se non il GRANDE RUMPUSCAT.  
 
@@ -1756,7 +1756,7 @@ non ne era rimasto uno solo per la strada.
 Mr. Mistoffelees  
 Dovreste conoscere Mr. Mistoffelees!  
 Il Gatto Prestigiatore Originale —  
-(non ci può essere alcun [[Doubt|dubbio]] su questo).  
+(non ci può essere alcun [[concepts/doubt|dubbio]] su questo).  
 Vi prego, ascoltatemi e non fate gli scettici. Tutte le sue  
 invenzioni sono farina del suo sacco.  
 Non c’è Gatto simile nella metropoli;  
@@ -1774,7 +1774,7 @@ Presto!
       E tutti diciamo: OH!  
 
 
-         [[Well|Beh]], mai vista una cosa simile!  
+         [[motifs/well|Beh]], mai vista una cosa simile!  
          C’è mai stato  
          un Gatto così bravo  
              come il Magico Mr. Mistoffelees!  
@@ -1797,15 +1797,15 @@ Ma lo ritroverete la settimana prossima steso sul prato.
    E tutti diciamo: OH!  
 
 
-      [[Well|Beh]], mai vista una cosa simile!  
+      [[motifs/well|Beh]], mai vista una cosa simile!  
       C’è mai stato  
       un Gatto così bravo  
           come il Magico Mr. Mistoffelees!  
 I suoi modi sono vaghi e distanti,  
 si penserebbe che non ci sia nessuno più timido —  
 ma la sua voce è stata udita sul tetto  
-mentre lui era acciambellato accanto al [[Fire|fuoco]].  
-E qualche volta è stato udito accanto al [[Fire|fuoco]]  
+mentre lui era acciambellato accanto al [[motifs/fire|fuoco]].  
+E qualche volta è stato udito accanto al [[motifs/fire|fuoco]]  
 mentre se ne andava in giro sul tetto —  
 (almeno abbiamo tutti sentito che qualcuno faceva le fusa)  
 
@@ -1813,7 +1813,7 @@ mentre se ne andava in giro sul tetto —
 il che è prova incontestabile  
    dei suoi singolari poteri magici:  
       e ho saputo di famiglie che l’hanno chiamato  
-   dal [[Garden|giardino]] per ore e ore,  
+   dal [[motifs/garden|giardino]] per ore e ore,  
       mentre lui dormiva nell’ingresso.  
 E non molto tempo fa questo Gatto fenomenale  
 tirò fuori sette gattini proprio da un cappello!  
@@ -1822,7 +1822,7 @@ tirò fuori sette gattini proprio da un cappello!
    E tutti dicemmo: OH!  
 
 
-      [[Well|Beh]], mai vista una cosa simile!  
+      [[motifs/well|Beh]], mai vista una cosa simile!  
       Avete mai  
       conosciuto un Gatto così bravo  
          come il Magico Mr. Mistoffelees!
@@ -1835,7 +1835,7 @@ tirò fuori sette gattini proprio da un cappello!
 Mr. Mistoffelees  
 You ought to know Mr. Mistoffelees!  
 The Original Conjuring Cat —  
-(There can be no [[Doubt|doubt]] about that).  
+(There can be no [[concepts/doubt|doubt]] about that).  
 Please listen to me and don’t scoff. All his  
 Inventions are off his own bat.  
 There’s no such Cat in the metropolis;  
@@ -1853,7 +1853,7 @@ Presto!
       And we all say: OH!  
 
 
-         [[Well]] I never!  
+         [[motifs/well|Well]] I never!  
          Was there ever  
          A Cat so clever  
              As Magical Mr. Mistoffelees!  
@@ -1876,15 +1876,15 @@ But you’ll find it next week lying out on the lawn.
    And we all say: OH!  
 
 
-      [[Well]] I never!  
+      [[motifs/well|Well]] I never!  
       Was there ever  
       A Cat so clever  
           As Magical Mr. Mistoffelees!  
 His manner is vague and aloof,  
 You would think there was nobody shyer —  
 But his voice has been heard on the roof  
-When he was curled up by the [[Fire|fire]].  
-And he’s sometimes been heard by the [[Fire|fire]]  
+When he was curled up by the [[motifs/fire|fire]].  
+And he’s sometimes been heard by the [[motifs/fire|fire]]  
 When he was about on the roof —  
 (At least we all heard that somebody purred)  
 
@@ -1892,7 +1892,7 @@ When he was about on the roof —
 Which is incontestable proof  
    Of his singular magical powers:  
       And I have known the family to call  
-   Him in from the [[Garden|garden]] for hours,  
+   Him in from the [[motifs/garden|garden]] for hours,  
       While he was asleep in the hall.  
 And not long ago this phenomenal Cat  
 Produced seven kittens right out of a hat!  
@@ -1901,69 +1901,69 @@ Produced seven kittens right out of a hat!
    And we all said: OH!  
 
 
-      [[Well]] I never!  
+      [[motifs/well|Well]] I never!  
       Did you ever  
       Know a Cat so clever  
          As Magical Mr. Mistoffelees!  
 
-[[Macavity]]: the Mystery Cat  
-[[Macavity]]’s a Mystery Cat: he’s called the Hidden Paw —  
+[[characters/macavity|Macavity]]: the Mystery Cat  
+[[characters/macavity|Macavity]]’s a Mystery Cat: he’s called the Hidden Paw —  
 For he’s the master criminal who can defy the Law.  
-He’s the bafflement of Scotland Yard, the Flying Squad’s [[Despair|despair]]:  
-For when they reach the scene of crime — [[Macavity]]’s not there!  
+He’s the bafflement of Scotland Yard, the Flying Squad’s [[concepts/despair|despair]]:  
+For when they reach the scene of crime — [[characters/macavity|Macavity]]’s not there!  
 
 
-[[Macavity]], [[Macavity]], there’s no one like [[Macavity]],  
+[[characters/macavity|Macavity]], [[characters/macavity|Macavity]], there’s no one like [[characters/macavity|Macavity]],  
 He’s broken every human law, he breaks the law of gravity.  
 His powers of levitation would make a fakir stare,  
-And when you reach the scene of crime — [[Macavity]]’s not there!  
+And when you reach the scene of crime — [[characters/macavity|Macavity]]’s not there!  
 
 
 You may seek him in the basement, you may look up in the air —  
-But I tell you once and once again, [[Macavity]]’s not there!  
+But I tell you once and once again, [[characters/macavity|Macavity]]’s not there!  
 
 
-[[Macavity]]’s a ginger cat, he’s very tall and thin;  
+[[characters/macavity|Macavity]]’s a ginger cat, he’s very tall and thin;  
 You would know him if you saw him, for his eyes are sunken in.  
 His brow is deeply lined with thought, his head is highly domed;  
 His coat is dusty from neglect, his whiskers are uncombed.  
 He sways his head from side to side, with movements like a snake;  
 And when you think he’s half asleep, he’s always wide awake.  
-[[Macavity]], [[Macavity]], there’s no one like [[Macavity]],  
-For he’s a fiend in feline shape, a [[Monster|monster]] of depravity.  
+[[characters/macavity|Macavity]], [[characters/macavity|Macavity]], there’s no one like [[characters/macavity|Macavity]],  
+For he’s a fiend in feline shape, a [[archetypes/monster|monster]] of depravity.  
 You may meet him in a by-street, you may see him in the square —  
-But when a crime’s discovered, then [[Macavity]]’s not there!  
+But when a crime’s discovered, then [[characters/macavity|Macavity]]’s not there!  
 
 
 He’s outwardly respectable. (They say he cheats at cards.)  
 And his footprints are not found in any file of Scotland Yard’s.  
-And when the larder’s looted, or the [[Jewel|jewel]]-case is rifled.  
+And when the larder’s looted, or the [[motifs/jewel|jewel]]-case is rifled.  
 Or when the milk is missing, or another Peke’s been stifled,  
 Or the greenhouse glass is broken, and the trellis past repair —  
-Ay, there’s the [[Wonder|wonder]] of the thing! [[Macavity]]’s not there!  
+Ay, there’s the [[concepts/wonder|wonder]] of the thing! [[characters/macavity|Macavity]]’s not there!  
 
 
 And when the Foreign Office find a Treaty’s gone astray,  
 Or the Admiralty lose some plans and drawings by the way,  
 There may be a scrap of paper in the hall or on the stair —  
-But it’s useless to investigate — [[Macavity]]’s not there!  
+But it’s useless to investigate — [[characters/macavity|Macavity]]’s not there!  
 
 
 And when the loss has been disclosed, the Secret Service say:  
-‘It must have been [[Macavity]]!’ — but he’s a mile away.  
+‘It must have been [[characters/macavity|Macavity]]!’ — but he’s a mile away.  
 
 
 You’ll be sure to find him resting, or a-licking of his thumbs,  
 Or engaged in doing complicated long division sums.  
-[[Macavity]], [[Macavity]], there’s no one like [[Macavity]],  
+[[characters/macavity|Macavity]], [[characters/macavity|Macavity]], there’s no one like [[characters/macavity|Macavity]],  
 There never was a Cat of such deceitfulness and suavity.  
 He always has an alibi, and one or two to spare:  
-At whatever [[Time|time]] the deed took place — [[Macavity|MACAVITY]] WASN’T THERE!  
+At whatever [[motifs/time|time]] the deed took place — [[characters/macavity|MACAVITY]] WASN’T THERE!  
 
 
 And they say that all the Cats whose wicked deeds are widely known  
 (I might mention Mungojerrie, I might mention Griddlebone)  
-Are nothing more than agents for the Cat who all the [[Time|time]]  
+Are nothing more than agents for the Cat who all the [[motifs/time|time]]  
 Just controls their operations: the Napoleon of Crime!  
 
 
@@ -1972,7 +1972,7 @@ Just controls their operations: the Napoleon of Crime!
 Mr. Mistoffelees  
 Dovreste conoscere Mr. Mistoffelees!  
 Il Gatto Prestigiatore Originale —  
-(non ci può essere alcun [[Doubt|dubbio]] su questo).  
+(non ci può essere alcun [[concepts/doubt|dubbio]] su questo).  
 Vi prego, ascoltatemi e non fate gli scettici. Tutte le sue  
 invenzioni sono farina del suo sacco.  
 Non c’è Gatto simile nella metropoli;  
@@ -1990,7 +1990,7 @@ Presto!
       E tutti diciamo: OH!  
 
 
-         [[Well|Beh]], mai vista una cosa simile!  
+         [[motifs/well|Beh]], mai vista una cosa simile!  
          C’è mai stato  
          un Gatto così bravo  
              come il Magico Mr. Mistoffelees!  
@@ -2013,15 +2013,15 @@ Ma lo ritroverete la settimana prossima steso sul prato.
    E tutti diciamo: OH!  
 
 
-      [[Well|Beh]], mai vista una cosa simile!  
+      [[motifs/well|Beh]], mai vista una cosa simile!  
       C’è mai stato  
       un Gatto così bravo  
           come il Magico Mr. Mistoffelees!  
 I suoi modi sono vaghi e distanti,  
 si penserebbe che non ci sia nessuno più timido —  
 ma la sua voce è stata udita sul tetto  
-mentre lui era acciambellato accanto al [[Fire|fuoco]].  
-E qualche volta è stato udito accanto al [[Fire|fuoco]]  
+mentre lui era acciambellato accanto al [[motifs/fire|fuoco]].  
+E qualche volta è stato udito accanto al [[motifs/fire|fuoco]]  
 mentre se ne andava in giro sul tetto —  
 (almeno abbiamo tutti sentito che qualcuno faceva le fusa)  
 
@@ -2029,7 +2029,7 @@ mentre se ne andava in giro sul tetto —
 il che è prova incontestabile  
    dei suoi singolari poteri magici:  
       e ho saputo di famiglie che l’hanno chiamato  
-   dal [[Garden|giardino]] per ore e ore,  
+   dal [[motifs/garden|giardino]] per ore e ore,  
       mentre lui dormiva nell’ingresso.  
 E non molto tempo fa questo Gatto fenomenale  
 tirò fuori sette gattini proprio da un cappello!  
@@ -2038,69 +2038,69 @@ tirò fuori sette gattini proprio da un cappello!
    E tutti dicemmo: OH!  
 
 
-      [[Well|Beh]], mai vista una cosa simile!  
+      [[motifs/well|Beh]], mai vista una cosa simile!  
       Avete mai  
       conosciuto un Gatto così bravo  
          come il Magico Mr. Mistoffelees!  
 
-[[Macavity]]: il Gatto del Mistero  
-[[Macavity]] è un Gatto del Mistero: lo chiamano la Zampa Nascosta —  
+[[characters/macavity|Macavity]]: il Gatto del Mistero  
+[[characters/macavity|Macavity]] è un Gatto del Mistero: lo chiamano la Zampa Nascosta —  
 perché è il criminale supremo che sa sfidare la Legge.  
-È lo scorno di Scotland Yard, la [[Despair|disperazione]] della Squadra Volante:  
-ché quando arrivano sul luogo del delitto — [[Macavity]] non c’è!  
+È lo scorno di Scotland Yard, la [[concepts/despair|disperazione]] della Squadra Volante:  
+ché quando arrivano sul luogo del delitto — [[characters/macavity|Macavity]] non c’è!  
 
 
-[[Macavity]], [[Macavity]], non c’è nessuno come [[Macavity]],  
+[[characters/macavity|Macavity]], [[characters/macavity|Macavity]], non c’è nessuno come [[characters/macavity|Macavity]],  
 ha infranto ogni legge umana, infrange la legge di gravità.  
 I suoi poteri di levitazione farebbero strabuzzare un fachiro,  
-e quando arrivate sul luogo del delitto — [[Macavity]] non c’è!  
+e quando arrivate sul luogo del delitto — [[characters/macavity|Macavity]] non c’è!  
 
 
 Potete cercarlo in cantina, potete guardare in aria —  
-ma ve lo dico una volta e un’altra ancora, [[Macavity]] non c’è!  
+ma ve lo dico una volta e un’altra ancora, [[characters/macavity|Macavity]] non c’è!  
 
 
-[[Macavity]] è un gatto rossiccio, è altissimo e magro;  
+[[characters/macavity|Macavity]] è un gatto rossiccio, è altissimo e magro;  
 lo riconoscereste se lo vedeste, perché ha gli occhi infossati.  
 La fronte è solcata di pensiero, il capo altamente a cupola;  
 il manto è polveroso per incuria, i baffi spettinati.  
 Dondola il capo da una parte all’altra, con movenze di serpente;  
 e quando lo credete mezzo addormentato, è sempre ben desto.  
-[[Macavity]], [[Macavity]], non c’è nessuno come [[Macavity]],  
-perché è un demonio in forma felina, un [[Monster|mostro]] di depravazione.  
+[[characters/macavity|Macavity]], [[characters/macavity|Macavity]], non c’è nessuno come [[characters/macavity|Macavity]],  
+perché è un demonio in forma felina, un [[archetypes/monster|mostro]] di depravazione.  
 Potete incontrarlo in un vicolo, potete vederlo in piazza —  
-ma quando si scopre un delitto, allora [[Macavity]] non c’è!  
+ma quando si scopre un delitto, allora [[characters/macavity|Macavity]] non c’è!  
 
 
 All’apparenza è rispettabile. (Dicono che bari a carte.)  
 E le sue impronte non si trovano in nessun archivio di Scotland Yard.  
-E quando la dispensa è saccheggiata, o il [[Jewel|portagioie]] è svaligiato,  
+E quando la dispensa è saccheggiata, o il [[motifs/jewel|portagioie]] è svaligiato,  
 o quando manca il latte, o un altro Pechinese è stato strozzato,  
 o i vetri della serra sono rotti, e il graticcio è irreparabile —  
-ah, ecco la [[Wonder|meraviglia]] della cosa! [[Macavity]] non c’è!  
+ah, ecco la [[concepts/wonder|meraviglia]] della cosa! [[characters/macavity|Macavity]] non c’è!  
 
 
 E quando il Ministero degli Esteri scopre che un Trattato si è smarrito,  
 o l’Ammiragliato perde per via certi piani e disegni,  
 può esserci un pezzetto di carta nell’ingresso o sulle scale —  
-ma è inutile indagare — [[Macavity]] non c’è!  
+ma è inutile indagare — [[characters/macavity|Macavity]] non c’è!  
 
 
 E quando la perdita è stata resa nota, i Servizi Segreti dicono:  
-‘Dev’essere stato [[Macavity]]!’ — ma lui è a un miglio di distanza.  
+‘Dev’essere stato [[characters/macavity|Macavity]]!’ — ma lui è a un miglio di distanza.  
 
 
 Lo troverete di certo che riposa, o che si lecca i pollici,  
 o intento a fare complicate divisioni a più cifre.  
-[[Macavity]], [[Macavity]], non c’è nessuno come [[Macavity]],  
+[[characters/macavity|Macavity]], [[characters/macavity|Macavity]], non c’è nessuno come [[characters/macavity|Macavity]],  
 non ci fu mai un Gatto di tanta doppiezza e soavità.  
 Ha sempre un alibi, e uno o due di scorta:  
-a qualunque [[Time|ora]] il fatto sia avvenuto — [[Macavity|MACAVITY]] NON C’ERA!  
+a qualunque [[motifs/time|ora]] il fatto sia avvenuto — [[characters/macavity|MACAVITY]] NON C’ERA!  
 
 
 E dicono che tutti i Gatti le cui malefatte sono largamente note  
 (potrei citare Mungojerrie, potrei citare Griddlebone)  
-non sono altro che agenti del Gatto che per tutto il [[Time|tempo]]  
+non sono altro che agenti del Gatto che per tutto il [[motifs/time|tempo]]  
 si limita a dirigere le loro operazioni: il Napoleone del Delitto!
 
 
@@ -2108,84 +2108,84 @@ si limita a dirigere le loro operazioni: il Napoleone del Delitto!
 <span class="atom-split" data-atom="089_macavity_the_mystery_cat" data-title="Macavity: the Mystery Cat" data-chapter="" data-kind="intro" data-tags="archetype/villain,archetype/detective,motif/animals,concept/rationcination_detection,concept/satire_of_society,form/narrative_poem,character/macavity,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
 
 
-[[Macavity]]: the Mystery Cat  
-[[Macavity]]’s a Mystery Cat: he’s called the Hidden Paw —  
+[[characters/macavity|Macavity]]: the Mystery Cat  
+[[characters/macavity|Macavity]]’s a Mystery Cat: he’s called the Hidden Paw —  
 For he’s the master criminal who can defy the Law.  
-He’s the bafflement of Scotland Yard, the Flying Squad’s [[Despair|despair]]:  
-For when they reach the scene of crime — [[Macavity]]’s not there!  
+He’s the bafflement of Scotland Yard, the Flying Squad’s [[concepts/despair|despair]]:  
+For when they reach the scene of crime — [[characters/macavity|Macavity]]’s not there!  
 
 
-[[Macavity]], [[Macavity]], there’s no one like [[Macavity]],  
+[[characters/macavity|Macavity]], [[characters/macavity|Macavity]], there’s no one like [[characters/macavity|Macavity]],  
 He’s broken every human law, he breaks the law of gravity.  
 His powers of levitation would make a fakir stare,  
-And when you reach the scene of crime — [[Macavity]]’s not there!  
+And when you reach the scene of crime — [[characters/macavity|Macavity]]’s not there!  
 
 
 You may seek him in the basement, you may look up in the air —  
-But I tell you once and once again, [[Macavity]]’s not there!  
+But I tell you once and once again, [[characters/macavity|Macavity]]’s not there!  
 
 
-[[Macavity]]’s a ginger cat, he’s very tall and thin;  
+[[characters/macavity|Macavity]]’s a ginger cat, he’s very tall and thin;  
 You would know him if you saw him, for his eyes are sunken in.  
 His brow is deeply lined with thought, his head is highly domed;  
 His coat is dusty from neglect, his whiskers are uncombed.  
 He sways his head from side to side, with movements like a snake;  
 And when you think he’s half asleep, he’s always wide awake.  
-[[Macavity]], [[Macavity]], there’s no one like [[Macavity]],  
-For he’s a fiend in feline shape, a [[Monster|monster]] of depravity.  
+[[characters/macavity|Macavity]], [[characters/macavity|Macavity]], there’s no one like [[characters/macavity|Macavity]],  
+For he’s a fiend in feline shape, a [[archetypes/monster|monster]] of depravity.  
 You may meet him in a by-street, you may see him in the square —  
-But when a crime’s discovered, then [[Macavity]]’s not there!  
+But when a crime’s discovered, then [[characters/macavity|Macavity]]’s not there!  
 
 
 He’s outwardly respectable. (They say he cheats at cards.)  
 And his footprints are not found in any file of Scotland Yard’s.  
-And when the larder’s looted, or the [[Jewel|jewel]]-case is rifled.  
+And when the larder’s looted, or the [[motifs/jewel|jewel]]-case is rifled.  
 Or when the milk is missing, or another Peke’s been stifled,  
 Or the greenhouse glass is broken, and the trellis past repair —  
-Ay, there’s the [[Wonder|wonder]] of the thing! [[Macavity]]’s not there!  
+Ay, there’s the [[concepts/wonder|wonder]] of the thing! [[characters/macavity|Macavity]]’s not there!  
 
 
 And when the Foreign Office find a Treaty’s gone astray,  
 Or the Admiralty lose some plans and drawings by the way,  
 There may be a scrap of paper in the hall or on the stair —  
-But it’s useless to investigate — [[Macavity]]’s not there!  
+But it’s useless to investigate — [[characters/macavity|Macavity]]’s not there!  
 
 
 And when the loss has been disclosed, the Secret Service say:  
-‘It must have been [[Macavity]]!’ — but he’s a mile away.  
+‘It must have been [[characters/macavity|Macavity]]!’ — but he’s a mile away.  
 
 
 You’ll be sure to find him resting, or a-licking of his thumbs,  
 Or engaged in doing complicated long division sums.  
-[[Macavity]], [[Macavity]], there’s no one like [[Macavity]],  
+[[characters/macavity|Macavity]], [[characters/macavity|Macavity]], there’s no one like [[characters/macavity|Macavity]],  
 There never was a Cat of such deceitfulness and suavity.  
 He always has an alibi, and one or two to spare:  
-At whatever [[Time|time]] the deed took place — [[Macavity|MACAVITY]] WASN’T THERE!  
+At whatever [[motifs/time|time]] the deed took place — [[characters/macavity|MACAVITY]] WASN’T THERE!  
 
 
 And they say that all the Cats whose wicked deeds are widely known  
 (I might mention Mungojerrie, I might mention Griddlebone)  
-Are nothing more than agents for the Cat who all the [[Time|time]]  
+Are nothing more than agents for the Cat who all the [[motifs/time|time]]  
 Just controls their operations: the Napoleon of Crime!  
 
 Gus: the Theatre Cat  
 Gus is the Cat at the Theatre Door.  
 His name, as I ought to have told you before,  
-Is really [[asparagus|Asparagus]]. That’s such a fuss  
+Is really Asparagus. That’s such a fuss  
 To pronounce, that we usually call him just Gus.  
 His coat’s very shabby, he’s thin as a rake,  
 And he suffers from palsy that makes his paw shake.  
 Yet he was, in his youth, quite the smartest of Cats —  
 But no longer a terror to mice and to rats.  
 For he isn’t the Cat that he was in his prime;  
-Though his name was quite famous, he says, in its [[Time|time]].  
+Though his name was quite famous, he says, in its [[motifs/time|time]].  
 And whenever he joins his friends at their club  
 (Which takes place at the back of the neighbouring pub)  
 He loves to regale them, if someone else pays,  
 With anecdotes drawn from his palmiest days.  
 For he once was a Star of the highest degree —  
 He has acted with Irving, he’s acted with Tree.  
-And he likes to relate his [[success]] on the Halls,  
+And he likes to relate his success on the Halls,  
 Where the Gallery once gave him seven cat-calls.  
 But his grandest creation, as he loves to tell,  
 Was Firefrorefiddle, the Fiend of the Fell.  
@@ -2197,11 +2197,11 @@ I knew how to act with my back and my tail;
 With an hour of rehearsal, I never could fail.  
 I’d a voice that would soften the hardest of hearts,  
 Whether I took the lead, or in character parts.  
-I have sat by the bedside of poor [[Little Nell]];  
+I have sat by the bedside of poor [[characters/little-nell|Little Nell]];  
 When the Curfew was rung, then I swung on the bell.  
 In the Pantomime season I never fell flat,  
 And I once understudied Dick Whittington’s Cat.  
-But my grandest creation, as [[history]] will tell,  
+But my grandest creation, as [[concepts/history|history]] will tell,  
 Was Firefrorefiddle, the Fiend of the Fell.’  
 Then, if someone will give him a toothful of gin,  
 He will tell how he once played a part in East Lynne.  
@@ -2210,102 +2210,102 @@ When some actor suggested the need for a cat.
 He once played a Tiger — could do it again —  
 Which an Indian Colonel pursued down a drain.  
 And he thinks that he still can, much better than most,  
-Produce [[Blood|blood]]-curdling noises to bring on the [[Ghost]].  
+Produce [[motifs/blood|blood]]-curdling noises to bring on the [[archetypes/ghost|Ghost]].  
 And he once crossed the stage on a telegraph wire,  
-To rescue a [[Child|child]] when a [[house]] was on [[Fire|fire]].  
+To rescue a [[archetypes/child|child]] when a house was on [[motifs/fire|fire]].  
 And he says: ‘Now, these kittens, they do not get trained  
 As we did in the days when Victoria reigned.  
 They never get drilled in a regular troupe,  
 And they think they are smart, just to jump through a hoop.’  
 And he’ll say, as he scratches himself with his claws,  
-‘[[Well]], the Theatre’s certainly not what it was.  
-These modern productions are all very [[Well|well]],  
+‘[[motifs/well|Well]], the Theatre’s certainly not what it was.  
+These modern productions are all very [[motifs/well|well]],  
 But there’s nothing to equal, from what I hear tell,  
        That moment of mystery  
-       When I made [[history]]  
+       When I made [[concepts/history|history]]  
 As Firefrorefiddle, the Fiend of the Fell.’  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Macavity]]: il Gatto del Mistero  
-[[Macavity]] è un Gatto del Mistero: lo chiamano la Zampa Nascosta —  
+[[characters/macavity|Macavity]]: il Gatto del Mistero  
+[[characters/macavity|Macavity]] è un Gatto del Mistero: lo chiamano la Zampa Nascosta —  
 perché è il criminale supremo che sa sfidare la Legge.  
-È lo scorno di Scotland Yard, la [[Despair|disperazione]] della Squadra Volante:  
-ché quando arrivano sul luogo del delitto — [[Macavity]] non c’è!  
+È lo scorno di Scotland Yard, la [[concepts/despair|disperazione]] della Squadra Volante:  
+ché quando arrivano sul luogo del delitto — [[characters/macavity|Macavity]] non c’è!  
 
 
-[[Macavity]], [[Macavity]], non c’è nessuno come [[Macavity]],  
+[[characters/macavity|Macavity]], [[characters/macavity|Macavity]], non c’è nessuno come [[characters/macavity|Macavity]],  
 ha infranto ogni legge umana, infrange la legge di gravità.  
 I suoi poteri di levitazione farebbero strabuzzare un fachiro,  
-e quando arrivate sul luogo del delitto — [[Macavity]] non c’è!  
+e quando arrivate sul luogo del delitto — [[characters/macavity|Macavity]] non c’è!  
 
 
 Potete cercarlo in cantina, potete guardare in aria —  
-ma ve lo dico una volta e un’altra ancora, [[Macavity]] non c’è!  
+ma ve lo dico una volta e un’altra ancora, [[characters/macavity|Macavity]] non c’è!  
 
 
-[[Macavity]] è un gatto rossiccio, è altissimo e magro;  
+[[characters/macavity|Macavity]] è un gatto rossiccio, è altissimo e magro;  
 lo riconoscereste se lo vedeste, perché ha gli occhi infossati.  
 La fronte è solcata di pensiero, il capo altamente a cupola;  
 il manto è polveroso per incuria, i baffi spettinati.  
 Dondola il capo da una parte all’altra, con movenze di serpente;  
 e quando lo credete mezzo addormentato, è sempre ben desto.  
-[[Macavity]], [[Macavity]], non c’è nessuno come [[Macavity]],  
-perché è un demonio in forma felina, un [[Monster|mostro]] di depravazione.  
+[[characters/macavity|Macavity]], [[characters/macavity|Macavity]], non c’è nessuno come [[characters/macavity|Macavity]],  
+perché è un demonio in forma felina, un [[archetypes/monster|mostro]] di depravazione.  
 Potete incontrarlo in un vicolo, potete vederlo in piazza —  
-ma quando si scopre un delitto, allora [[Macavity]] non c’è!  
+ma quando si scopre un delitto, allora [[characters/macavity|Macavity]] non c’è!  
 
 
 All’apparenza è rispettabile. (Dicono che bari a carte.)  
 E le sue impronte non si trovano in nessun archivio di Scotland Yard.  
-E quando la dispensa è saccheggiata, o il [[Jewel|portagioie]] è svaligiato,  
+E quando la dispensa è saccheggiata, o il [[motifs/jewel|portagioie]] è svaligiato,  
 o quando manca il latte, o un altro Pechinese è stato strozzato,  
 o i vetri della serra sono rotti, e il graticcio è irreparabile —  
-ah, ecco la [[Wonder|meraviglia]] della cosa! [[Macavity]] non c’è!  
+ah, ecco la [[concepts/wonder|meraviglia]] della cosa! [[characters/macavity|Macavity]] non c’è!  
 
 
 E quando il Ministero degli Esteri scopre che un Trattato si è smarrito,  
 o l’Ammiragliato perde per via certi piani e disegni,  
 può esserci un pezzetto di carta nell’ingresso o sulle scale —  
-ma è inutile indagare — [[Macavity]] non c’è!  
+ma è inutile indagare — [[characters/macavity|Macavity]] non c’è!  
 
 
 E quando la perdita è stata resa nota, i Servizi Segreti dicono:  
-‘Dev’essere stato [[Macavity]]!’ — ma lui è a un miglio di distanza.  
+‘Dev’essere stato [[characters/macavity|Macavity]]!’ — ma lui è a un miglio di distanza.  
 
 
 Lo troverete di certo che riposa, o che si lecca i pollici,  
 o intento a fare complicate divisioni a più cifre.  
-[[Macavity]], [[Macavity]], non c’è nessuno come [[Macavity]],  
+[[characters/macavity|Macavity]], [[characters/macavity|Macavity]], non c’è nessuno come [[characters/macavity|Macavity]],  
 non ci fu mai un Gatto di tanta doppiezza e soavità.  
 Ha sempre un alibi, e uno o due di scorta:  
-a qualunque [[Time|ora]] il fatto sia avvenuto — [[Macavity|MACAVITY]] NON C’ERA!  
+a qualunque [[motifs/time|ora]] il fatto sia avvenuto — [[characters/macavity|MACAVITY]] NON C’ERA!  
 
 
 E dicono che tutti i Gatti le cui malefatte sono largamente note  
 (potrei citare Mungojerrie, potrei citare Griddlebone)  
-non sono altro che agenti del Gatto che per tutto il [[Time|tempo]]  
+non sono altro che agenti del Gatto che per tutto il [[motifs/time|tempo]]  
 si limita a dirigere le loro operazioni: il Napoleone del Delitto!  
 
 Gus: il Gatto del Teatro  
 Gus è il Gatto alla Porta del Teatro.  
 Il suo nome, come avrei dovuto dirvi prima,  
-è veramente [[asparagus|Asparagus]]. Che è un tale impiccio  
+è veramente Asparagus. Che è un tale impiccio  
 da pronunciare, che di solito lo chiamiamo Gus soltanto.  
 Il suo manto è assai malandato, è magro come un chiodo,  
 e soffre di tremito che gli fa tremare la zampa.  
 Eppure era, in gioventù, proprio il più elegante dei Gatti —  
 ma non più il terrore dei topi e dei ratti.  
 Perché non è il Gatto che era nel suo fiore;  
-benché il suo nome fosse assai famoso, dice, ai suoi [[Time|tempi]].  
+benché il suo nome fosse assai famoso, dice, ai suoi [[motifs/time|tempi]].  
 E ogni volta che raggiunge gli amici al loro circolo  
 (che si tiene sul retro dell’osteria vicina)  
 ama intrattenerli, se qualcun altro paga,  
 con aneddoti tratti dai suoi giorni più fulgidi.  
 Perché una volta fu una Stella di grado altissimo —  
 ha recitato con Irving, ha recitato con Tree.  
-E gli piace raccontare il suo [[success|successo]] nei Music-Hall,  
+E gli piace raccontare il suo successo nei Music-Hall,  
 dove il Loggione una volta gli diede sette miagolii.  
 Ma la sua creazione più grandiosa, come ama raccontare,  
 fu Firefrorefiddle, il Demonio della Brughiera.  
@@ -2317,11 +2317,11 @@ Sapevo recitare con la schiena e con la coda;
 con un’ora di prove, non potevo mai fallire.  
 Avevo una voce che ammolliva i cuori più duri,  
 sia che facessi il protagonista, sia nelle parti di carattere.  
-Sono stato al capezzale della povera [[Little Nell|Piccola Nell]];  
+Sono stato al capezzale della povera [[characters/little-nell|Piccola Nell]];  
 quando suonava il Coprifuoco, allora mi dondolavo sulla campana.  
 Nella stagione della Pantomima non feci mai fiasco,  
 e una volta feci da sostituto al Gatto di Dick Whittington.  
-Ma la mia creazione più grandiosa, come dirà la [[history|storia]],  
+Ma la mia creazione più grandiosa, come dirà la [[concepts/history|storia]],  
 fu Firefrorefiddle, il Demonio della Brughiera.’  
 Poi, se qualcuno gli dà un goccetto di gin,  
 racconterà come una volta ebbe una parte in East Lynne.  
@@ -2330,19 +2330,19 @@ quando un attore accennò al bisogno d’un gatto.
 Una volta fece la Tigre — potrebbe rifarlo —  
 che un Colonnello indiano inseguì giù per una fogna.  
 E pensa di poter ancora, molto meglio dei più,  
-produrre rumori da agghiacciare il [[Blood|sangue]] per far entrare lo [[Ghost|Spettro]].  
+produrre rumori da agghiacciare il [[motifs/blood|sangue]] per far entrare lo [[archetypes/ghost|Spettro]].  
 E una volta attraversò il palco su un filo del telegrafo,  
-per salvare un [[Child|bambino]] mentre una [[house|casa]] andava a [[Fire|fuoco]].  
+per salvare un [[archetypes/child|bambino]] mentre una casa andava a [[motifs/fire|fuoco]].  
 E dice: ‘Ora, questi gattini, non vengono addestrati  
 come lo eravamo noi ai giorni in cui regnava Vittoria.  
 Non fanno mai esercizio in una compagnia regolare,  
 e credono d’essere bravi, solo a saltare in un cerchio.’  
 E dirà, mentre si gratta con gli artigli,  
-‘[[Well|Beh]], il Teatro non è certo più quello di prima.  
-Queste produzioni moderne vanno tutte molto [[Well|bene]],  
+‘[[motifs/well|Beh]], il Teatro non è certo più quello di prima.  
+Queste produzioni moderne vanno tutte molto [[motifs/well|bene]],  
 ma non c’è nulla che eguagli, da quel che sento dire,  
        quel momento di mistero  
-       in cui feci [[history|storia]]  
+       in cui feci [[concepts/history|storia]]  
 come Firefrorefiddle, il Demonio della Brughiera.’
 
 
@@ -2353,21 +2353,21 @@ come Firefrorefiddle, il Demonio della Brughiera.’
 Gus: the Theatre Cat  
 Gus is the Cat at the Theatre Door.  
 His name, as I ought to have told you before,  
-Is really [[asparagus|Asparagus]]. That’s such a fuss  
+Is really Asparagus. That’s such a fuss  
 To pronounce, that we usually call him just Gus.  
 His coat’s very shabby, he’s thin as a rake,  
 And he suffers from palsy that makes his paw shake.  
 Yet he was, in his youth, quite the smartest of Cats —  
 But no longer a terror to mice and to rats.  
 For he isn’t the Cat that he was in his prime;  
-Though his name was quite famous, he says, in its [[Time|time]].  
+Though his name was quite famous, he says, in its [[motifs/time|time]].  
 And whenever he joins his friends at their club  
 (Which takes place at the back of the neighbouring pub)  
 He loves to regale them, if someone else pays,  
 With anecdotes drawn from his palmiest days.  
 For he once was a Star of the highest degree —  
 He has acted with Irving, he’s acted with Tree.  
-And he likes to relate his [[success]] on the Halls,  
+And he likes to relate his success on the Halls,  
 Where the Gallery once gave him seven cat-calls.  
 But his grandest creation, as he loves to tell,  
 Was Firefrorefiddle, the Fiend of the Fell.  
@@ -2379,11 +2379,11 @@ I knew how to act with my back and my tail;
 With an hour of rehearsal, I never could fail.  
 I’d a voice that would soften the hardest of hearts,  
 Whether I took the lead, or in character parts.  
-I have sat by the bedside of poor [[Little Nell]];  
+I have sat by the bedside of poor [[characters/little-nell|Little Nell]];  
 When the Curfew was rung, then I swung on the bell.  
 In the Pantomime season I never fell flat,  
 And I once understudied Dick Whittington’s Cat.  
-But my grandest creation, as [[history]] will tell,  
+But my grandest creation, as [[concepts/history|history]] will tell,  
 Was Firefrorefiddle, the Fiend of the Fell.’  
 Then, if someone will give him a toothful of gin,  
 He will tell how he once played a part in East Lynne.  
@@ -2392,25 +2392,25 @@ When some actor suggested the need for a cat.
 He once played a Tiger — could do it again —  
 Which an Indian Colonel pursued down a drain.  
 And he thinks that he still can, much better than most,  
-Produce [[Blood|blood]]-curdling noises to bring on the [[Ghost]].  
+Produce [[motifs/blood|blood]]-curdling noises to bring on the [[archetypes/ghost|Ghost]].  
 And he once crossed the stage on a telegraph wire,  
-To rescue a [[Child|child]] when a [[house]] was on [[Fire|fire]].  
+To rescue a [[archetypes/child|child]] when a house was on [[motifs/fire|fire]].  
 And he says: ‘Now, these kittens, they do not get trained  
 As we did in the days when Victoria reigned.  
 They never get drilled in a regular troupe,  
 And they think they are smart, just to jump through a hoop.’  
 And he’ll say, as he scratches himself with his claws,  
-‘[[Well]], the Theatre’s certainly not what it was.  
-These modern productions are all very [[Well|well]],  
+‘[[motifs/well|Well]], the Theatre’s certainly not what it was.  
+These modern productions are all very [[motifs/well|well]],  
 But there’s nothing to equal, from what I hear tell,  
        That moment of mystery  
-       When I made [[history]]  
+       When I made [[concepts/history|history]]  
 As Firefrorefiddle, the Fiend of the Fell.’  
 
-Bustopher [[Jones]]: the Cat About Town  
+Bustopher [[characters/jones|Jones]]: the Cat About Town  
 
 
-Bustopher [[Jones]] is not skin and bones —  
+Bustopher [[characters/jones|Jones]] is not skin and bones —  
 
 
 In fact, he’s remarkably fat.  
@@ -2418,12 +2418,12 @@ He doesn’t haunt pubs — he has eight or nine clubs,
 For he’s the St. James’s Street Cat!  
 He’s the Cat we all greet as he walks down the street  
 In his coat of fastidious black:  
-No commonplace mousers have such [[Well|well]]-cut trousers  
+No commonplace mousers have such [[motifs/well|well]]-cut trousers  
 Or such an impeccable back.  
 In the whole of St. James’s the smartest of names is  
 The name of this Brummell of Cats;  
 And we’re all of us proud to be nodded or bowed to  
-By Bustopher [[Jones]] in white spats!  
+By Bustopher [[characters/jones|Jones]] in white spats!  
 His visits are occasional to the Senior Educational  
 And it is against the rules  
 For any one Cat to belong both to that  
@@ -2438,7 +2438,7 @@ In the season of venison he gives his ben’son
 To the Pothunter’s succulent bones;  
 
 
-And just before [[Noon|noon]]’s not a moment too soon  
+And just before [[motifs/noon|noon]]’s not a moment too soon  
 To drop in for a drink at the Drones.  
 When he’s seen in a hurry there’s probably curry  
 At the Siamese — or at the Glutton;  
@@ -2452,12 +2452,12 @@ It can be no surprise that under our eyes
 He has grown unmistakably round.  
 He’s a twenty-five pounder, or I am a bounder,  
 And he’s putting on weight every day:  
-But he’s so [[Well|well]] preserved because he’s observed  
+But he’s so [[motifs/well|well]] preserved because he’s observed  
 All his life a routine, so he’d say.  
-Or, to put it in rhyme: ‘I shall last out my [[Time|time]]’  
+Or, to put it in rhyme: ‘I shall last out my [[motifs/time|time]]’  
 Is the word for this stoutest of Cats.  
-It must and it shall be [[Spring]] in Pall Mall  
-While Bustopher [[Jones]] wears white spats!  
+It must and it shall be [[motifs/spring|Spring]] in Pall Mall  
+While Bustopher [[characters/jones|Jones]] wears white spats!  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2465,21 +2465,21 @@ While Bustopher [[Jones]] wears white spats!
 Gus: il Gatto del Teatro  
 Gus è il Gatto alla Porta del Teatro.  
 Il suo nome, come avrei dovuto dirvi prima,  
-è veramente [[asparagus|Asparagus]]. Che è un tale impiccio  
+è veramente Asparagus. Che è un tale impiccio  
 da pronunciare, che di solito lo chiamiamo Gus soltanto.  
 Il suo manto è assai malandato, è magro come un chiodo,  
 e soffre di tremito che gli fa tremare la zampa.  
 Eppure era, in gioventù, proprio il più elegante dei Gatti —  
 ma non più il terrore dei topi e dei ratti.  
 Perché non è il Gatto che era nel suo fiore;  
-benché il suo nome fosse assai famoso, dice, ai suoi [[Time|tempi]].  
+benché il suo nome fosse assai famoso, dice, ai suoi [[motifs/time|tempi]].  
 E ogni volta che raggiunge gli amici al loro circolo  
 (che si tiene sul retro dell’osteria vicina)  
 ama intrattenerli, se qualcun altro paga,  
 con aneddoti tratti dai suoi giorni più fulgidi.  
 Perché una volta fu una Stella di grado altissimo —  
 ha recitato con Irving, ha recitato con Tree.  
-E gli piace raccontare il suo [[success|successo]] nei Music-Hall,  
+E gli piace raccontare il suo successo nei Music-Hall,  
 dove il Loggione una volta gli diede sette miagolii.  
 Ma la sua creazione più grandiosa, come ama raccontare,  
 fu Firefrorefiddle, il Demonio della Brughiera.  
@@ -2491,11 +2491,11 @@ Sapevo recitare con la schiena e con la coda;
 con un’ora di prove, non potevo mai fallire.  
 Avevo una voce che ammolliva i cuori più duri,  
 sia che facessi il protagonista, sia nelle parti di carattere.  
-Sono stato al capezzale della povera [[Little Nell|Piccola Nell]];  
+Sono stato al capezzale della povera [[characters/little-nell|Piccola Nell]];  
 quando suonava il Coprifuoco, allora mi dondolavo sulla campana.  
 Nella stagione della Pantomima non feci mai fiasco,  
 e una volta feci da sostituto al Gatto di Dick Whittington.  
-Ma la mia creazione più grandiosa, come dirà la [[history|storia]],  
+Ma la mia creazione più grandiosa, come dirà la [[concepts/history|storia]],  
 fu Firefrorefiddle, il Demonio della Brughiera.’  
 Poi, se qualcuno gli dà un goccetto di gin,  
 racconterà come una volta ebbe una parte in East Lynne.  
@@ -2504,25 +2504,25 @@ quando un attore accennò al bisogno d’un gatto.
 Una volta fece la Tigre — potrebbe rifarlo —  
 che un Colonnello indiano inseguì giù per una fogna.  
 E pensa di poter ancora, molto meglio dei più,  
-produrre rumori da agghiacciare il [[Blood|sangue]] per far entrare lo [[Ghost|Spettro]].  
+produrre rumori da agghiacciare il [[motifs/blood|sangue]] per far entrare lo [[archetypes/ghost|Spettro]].  
 E una volta attraversò il palco su un filo del telegrafo,  
-per salvare un [[Child|bambino]] mentre una [[house|casa]] andava a [[Fire|fuoco]].  
+per salvare un [[archetypes/child|bambino]] mentre una casa andava a [[motifs/fire|fuoco]].  
 E dice: ‘Ora, questi gattini, non vengono addestrati  
 come lo eravamo noi ai giorni in cui regnava Vittoria.  
 Non fanno mai esercizio in una compagnia regolare,  
 e credono d’essere bravi, solo a saltare in un cerchio.’  
 E dirà, mentre si gratta con gli artigli,  
-‘[[Well|Beh]], il Teatro non è certo più quello di prima.  
-Queste produzioni moderne vanno tutte molto [[Well|bene]],  
+‘[[motifs/well|Beh]], il Teatro non è certo più quello di prima.  
+Queste produzioni moderne vanno tutte molto [[motifs/well|bene]],  
 ma non c’è nulla che eguagli, da quel che sento dire,  
        quel momento di mistero  
-       in cui feci [[history|storia]]  
+       in cui feci [[concepts/history|storia]]  
 come Firefrorefiddle, il Demonio della Brughiera.’  
 
-Bustopher [[Jones]]: il Gatto di Mondo  
+Bustopher [[characters/jones|Jones]]: il Gatto di Mondo  
 
 
-Bustopher [[Jones]] non è pelle e ossa —  
+Bustopher [[characters/jones|Jones]] non è pelle e ossa —  
 
 
 Anzi, è notevolmente grasso.  
@@ -2530,12 +2530,12 @@ Non frequenta le osterie — ha otto o nove circoli,
 perché è il Gatto di St. James’s Street!  
 È il Gatto che tutti salutiamo mentre scende per la via  
 nel suo abito d’un nero fastidioso:  
-nessun acchiappatopi qualunque ha calzoni così [[Well|ben]] tagliati  
+nessun acchiappatopi qualunque ha calzoni così [[motifs/well|ben]] tagliati  
 o una schiena così impeccabile.  
 In tutta St. James’s il più elegante dei nomi  
 è il nome di questo Brummell dei Gatti;  
 e siamo tutti orgogliosi d’avere un cenno o un inchino  
-da Bustopher [[Jones]] in ghette bianche!  
+da Bustopher [[characters/jones|Jones]] in ghette bianche!  
 Le sue visite sono occasionali al Senior Educational  
 ed è contro il regolamento  
 che un Gatto solo appartenga tanto a quello  
@@ -2550,7 +2550,7 @@ Nella stagione del capriolo dà la sua benedizione
 alle succulente ossa del Pothunter;  
 
 
-e appena prima di [[Noon|mezzogiorno]] non è un momento troppo presto  
+e appena prima di [[motifs/noon|mezzogiorno]] non è un momento troppo presto  
 per fare un salto a bere al Drones.  
 Quando lo si vede di fretta c’è probabilmente il curry  
 al Siamese — o al Glutton;  
@@ -2564,22 +2564,22 @@ Non può sorprendere che sotto i nostri occhi
 sia diventato inconfondibilmente tondo.  
 È un venticinque libbre, o io sono un mascalzone,  
 e mette su peso ogni giorno:  
-ma si conserva così [[Well|bene]] perché ha osservato  
+ma si conserva così [[motifs/well|bene]] perché ha osservato  
 tutta la vita una routine, direbbe lui.  
-O, per dirla in rima: ‘Durerò quanto il mio [[Time|tempo]]’  
+O, per dirla in rima: ‘Durerò quanto il mio [[motifs/time|tempo]]’  
 è la parola d’ordine di questo più corpulento dei Gatti.  
-Deve essere e sarà [[Spring|Primavera]] a Pall Mall  
-finché Bustopher [[Jones]] porta le ghette bianche!
+Deve essere e sarà [[motifs/spring|Primavera]] a Pall Mall  
+finché Bustopher [[characters/jones|Jones]] porta le ghette bianche!
 
 
 
 <span class="atom-split" data-atom="091_bustopher_jones_the_cat_about_town" data-title="Bustopher Jones: the Cat About Town" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/food_feasting,motif/the_inn_tavern,concept/satire_of_society,concept/joy,form/song,setting/london,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
 
 
-Bustopher [[Jones]]: the Cat About Town  
+Bustopher [[characters/jones|Jones]]: the Cat About Town  
 
 
-Bustopher [[Jones]] is not skin and bones —  
+Bustopher [[characters/jones|Jones]] is not skin and bones —  
 
 
 In fact, he’s remarkably fat.  
@@ -2587,12 +2587,12 @@ He doesn’t haunt pubs — he has eight or nine clubs,
 For he’s the St. James’s Street Cat!  
 He’s the Cat we all greet as he walks down the street  
 In his coat of fastidious black:  
-No commonplace mousers have such [[Well|well]]-cut trousers  
+No commonplace mousers have such [[motifs/well|well]]-cut trousers  
 Or such an impeccable back.  
 In the whole of St. James’s the smartest of names is  
 The name of this Brummell of Cats;  
 And we’re all of us proud to be nodded or bowed to  
-By Bustopher [[Jones]] in white spats!  
+By Bustopher [[characters/jones|Jones]] in white spats!  
 His visits are occasional to the Senior Educational  
 And it is against the rules  
 For any one Cat to belong both to that  
@@ -2607,7 +2607,7 @@ In the season of venison he gives his ben’son
 To the Pothunter’s succulent bones;  
 
 
-And just before [[Noon|noon]]’s not a moment too soon  
+And just before [[motifs/noon|noon]]’s not a moment too soon  
 To drop in for a drink at the Drones.  
 When he’s seen in a hurry there’s probably curry  
 At the Siamese — or at the Glutton;  
@@ -2621,22 +2621,22 @@ It can be no surprise that under our eyes
 He has grown unmistakably round.  
 He’s a twenty-five pounder, or I am a bounder,  
 And he’s putting on weight every day:  
-But he’s so [[Well|well]] preserved because he’s observed  
+But he’s so [[motifs/well|well]] preserved because he’s observed  
 All his life a routine, so he’d say.  
-Or, to put it in rhyme: ‘I shall last out my [[Time|time]]’  
+Or, to put it in rhyme: ‘I shall last out my [[motifs/time|time]]’  
 Is the word for this stoutest of Cats.  
-It must and it shall be [[Spring]] in Pall Mall  
-While Bustopher [[Jones]] wears white spats!  
+It must and it shall be [[motifs/spring|Spring]] in Pall Mall  
+While Bustopher [[characters/jones|Jones]] wears white spats!  
 
 Skimbleshanks: the Railway Cat  
 There’s a whisper down the line at 11.39  
-When the [[Night]] Mail’s ready to depart,  
+When the [[motifs/night|Night]] Mail’s ready to depart,  
 Saying ‘Skimble where is Skimble has he gone to hunt the thimble?  
 We must find him or the train can’t start.’  
 All the guards and all the porters and the stationmaster’s daughters  
 They are searching high and low,  
 Saying ‘Skimble where is Skimble for unless he’s very nimble  
-Then the [[Night]] Mail just can’t go.’  
+Then the [[motifs/night|Night]] Mail just can’t go.’  
 At 11.42 then the signal’s overdue  
 And the passengers are frantic to a man —  
 Then Skimble will appear and he’ll saunter to the rear:  
@@ -2664,11 +2664,11 @@ When Skimble is about and on the move.
 Oh it’s very pleasant when you have found your little den  
 With your name written up on the door.  
 And the berth is very neat with a newly folded sheet  
-And there’s not a speck of [[Dust|dust]] on the floor.  
+And there’s not a speck of [[motifs/dust|dust]] on the floor.  
 There is every sort of light — you can make it dark or bright;  
 There’s a button that you turn to make a breeze.  
 There’s a funny little basin you’re supposed to wash your face in  
-And a crank to shut the [[Window|window]] if you sneeze.  
+And a crank to shut the [[motifs/window|window]] if you sneeze.  
 Then the guard looks in politely and will ask you very brightly  
 ‘Do you like your morning tea weak or strong?’  
 But Skimble’s just behind him and was ready to remind him.  
@@ -2679,7 +2679,7 @@ For Skimble won’t let anything go wrong.
      To know that you won’t be bothered by mice —  
      You can leave all that to the Railway Cat,  
        The Cat of the Railway Train!  
-In the watches of the [[Night|night]] he is always fresh and bright;  
+In the watches of the [[motifs/night|night]] he is always fresh and bright;  
 Every now and then he has a cup of tea  
 With perhaps a drop of Scotch while he’s keeping on the watch,  
 Only stopping here and there to catch a flea.  
@@ -2699,10 +2699,10 @@ For Skimbleshanks will help you to get out!
 
 <span class="qlang-split" data-lang="it"></span>
 
-Bustopher [[Jones]]: il Gatto di Mondo  
+Bustopher [[characters/jones|Jones]]: il Gatto di Mondo  
 
 
-Bustopher [[Jones]] non è pelle e ossa —  
+Bustopher [[characters/jones|Jones]] non è pelle e ossa —  
 
 
 Anzi, è notevolmente grasso.  
@@ -2710,12 +2710,12 @@ Non frequenta le osterie — ha otto o nove circoli,
 perché è il Gatto di St. James’s Street!  
 È il Gatto che tutti salutiamo mentre scende per la via  
 nel suo abito d’un nero fastidioso:  
-nessun acchiappatopi qualunque ha calzoni così [[Well|ben]] tagliati  
+nessun acchiappatopi qualunque ha calzoni così [[motifs/well|ben]] tagliati  
 o una schiena così impeccabile.  
 In tutta St. James’s il più elegante dei nomi  
 è il nome di questo Brummell dei Gatti;  
 e siamo tutti orgogliosi d’avere un cenno o un inchino  
-da Bustopher [[Jones]] in ghette bianche!  
+da Bustopher [[characters/jones|Jones]] in ghette bianche!  
 Le sue visite sono occasionali al Senior Educational  
 ed è contro il regolamento  
 che un Gatto solo appartenga tanto a quello  
@@ -2730,7 +2730,7 @@ Nella stagione del capriolo dà la sua benedizione
 alle succulente ossa del Pothunter;  
 
 
-e appena prima di [[Noon|mezzogiorno]] non è un momento troppo presto  
+e appena prima di [[motifs/noon|mezzogiorno]] non è un momento troppo presto  
 per fare un salto a bere al Drones.  
 Quando lo si vede di fretta c’è probabilmente il curry  
 al Siamese — o al Glutton;  
@@ -2744,22 +2744,22 @@ Non può sorprendere che sotto i nostri occhi
 sia diventato inconfondibilmente tondo.  
 È un venticinque libbre, o io sono un mascalzone,  
 e mette su peso ogni giorno:  
-ma si conserva così [[Well|bene]] perché ha osservato  
+ma si conserva così [[motifs/well|bene]] perché ha osservato  
 tutta la vita una routine, direbbe lui.  
-O, per dirla in rima: ‘Durerò quanto il mio [[Time|tempo]]’  
+O, per dirla in rima: ‘Durerò quanto il mio [[motifs/time|tempo]]’  
 è la parola d’ordine di questo più corpulento dei Gatti.  
-Deve essere e sarà [[Spring|Primavera]] a Pall Mall  
-finché Bustopher [[Jones]] porta le ghette bianche!  
+Deve essere e sarà [[motifs/spring|Primavera]] a Pall Mall  
+finché Bustopher [[characters/jones|Jones]] porta le ghette bianche!  
 
 Skimbleshanks: il Gatto della Ferrovia  
 C’è un bisbiglio lungo il binario alle 11.39  
-quando il Postale della [[Night|Notte]] è pronto a partire,  
+quando il Postale della [[motifs/night|Notte]] è pronto a partire,  
 che dice ‘Skimble dov’è Skimble è andato a caccia del ditale?  
 Dobbiamo trovarlo o il treno non può partire.’  
 Tutti i capitreno e tutti i facchini e le figlie del capostazione  
 cercano in alto e in basso,  
 dicendo ‘Skimble dov’è Skimble ché se non è molto svelto  
-allora il Postale della [[Night|Notte]] proprio non può andare.’  
+allora il Postale della [[motifs/night|Notte]] proprio non può andare.’  
 Alle 11.42 il segnale è in ritardo  
 e i passeggeri sono frenetici fino all’ultimo —  
 poi Skimble comparirà e verrà a passo lento verso la coda:  
@@ -2787,11 +2787,11 @@ quando Skimble è in giro e in movimento.
 Oh è molto piacevole quando avete trovato la vostra tanina  
 col vostro nome scritto sulla porta.  
 E la cuccetta è tutta in ordine con un lenzuolo appena piegato  
-e non c’è un granello di [[Dust|polvere]] sul pavimento.  
+e non c’è un granello di [[motifs/dust|polvere]] sul pavimento.  
 C’è ogni sorta di luce — potete farla scura o chiara;  
 c’è un bottone che girate per fare un venticello.  
 C’è un buffo piccolo catino in cui dovreste lavarvi la faccia  
-e una manovella per chiudere la [[Window|finestra]] se starnutite.  
+e una manovella per chiudere la [[motifs/window|finestra]] se starnutite.  
 Poi il capotreno affaccia il capo cortesemente e vi chiederà tutto vispo  
 ‘Lo volete debole o forte il tè del mattino?’  
 Ma Skimble gli è proprio dietro ed era pronto a ricordarglielo.  
@@ -2802,7 +2802,7 @@ Perché Skimble non lascia andar storto nulla.
      sapere che non sarete disturbati dai topi —  
      potete lasciar tutto questo al Gatto della Ferrovia,  
        il Gatto del Treno Ferroviario!  
-Nelle veglie della [[Night|notte]] è sempre fresco e vispo;  
+Nelle veglie della [[motifs/night|notte]] è sempre fresco e vispo;  
 di tanto in tanto si prende una tazza di tè  
 con forse una goccia di whisky mentre sta di guardia,  
 fermandosi solo qua e là ad acchiappare una pulce.  
@@ -2826,13 +2826,13 @@ ché Skimbleshanks vi aiuterà a scendere!
 
 Skimbleshanks: the Railway Cat  
 There’s a whisper down the line at 11.39  
-When the [[Night]] Mail’s ready to depart,  
+When the [[motifs/night|Night]] Mail’s ready to depart,  
 Saying ‘Skimble where is Skimble has he gone to hunt the thimble?  
 We must find him or the train can’t start.’  
 All the guards and all the porters and the stationmaster’s daughters  
 They are searching high and low,  
 Saying ‘Skimble where is Skimble for unless he’s very nimble  
-Then the [[Night]] Mail just can’t go.’  
+Then the [[motifs/night|Night]] Mail just can’t go.’  
 At 11.42 then the signal’s overdue  
 And the passengers are frantic to a man —  
 Then Skimble will appear and he’ll saunter to the rear:  
@@ -2860,11 +2860,11 @@ When Skimble is about and on the move.
 Oh it’s very pleasant when you have found your little den  
 With your name written up on the door.  
 And the berth is very neat with a newly folded sheet  
-And there’s not a speck of [[Dust|dust]] on the floor.  
+And there’s not a speck of [[motifs/dust|dust]] on the floor.  
 There is every sort of light — you can make it dark or bright;  
 There’s a button that you turn to make a breeze.  
 There’s a funny little basin you’re supposed to wash your face in  
-And a crank to shut the [[Window|window]] if you sneeze.  
+And a crank to shut the [[motifs/window|window]] if you sneeze.  
 Then the guard looks in politely and will ask you very brightly  
 ‘Do you like your morning tea weak or strong?’  
 But Skimble’s just behind him and was ready to remind him.  
@@ -2875,7 +2875,7 @@ For Skimble won’t let anything go wrong.
      To know that you won’t be bothered by mice —  
      You can leave all that to the Railway Cat,  
        The Cat of the Railway Train!  
-In the watches of the [[Night|night]] he is always fresh and bright;  
+In the watches of the [[motifs/night|night]] he is always fresh and bright;  
 Every now and then he has a cup of tea  
 With perhaps a drop of Scotch while he’s keeping on the watch,  
 Only stopping here and there to catch a flea.  
@@ -2910,19 +2910,19 @@ And learnt about their proper names,
 Their habits and their habitat:  
 But  
 How would you ad-dress a Cat?  
-So first, your [[Memory|memory]] I’ll jog,  
+So first, your [[motifs/memory|memory]] I’ll jog,  
 And say: A CAT IS NOT A DOG.  
 
 
-Now [[dogs|Dogs]] pretend they like to fight;  
+Now Dogs pretend they like to fight;  
 They often bark, more seldom bite;  
 But yet a Dog is, on the whole,  
-What you would call a simple [[Soul|soul]].  
+What you would call a simple [[motifs/soul|soul]].  
 Of course I’m not including Pekes,  
 And such fantastic canine freaks.  
 The usual Dog about the Town  
 Is much inclined to play the clown,  
-And far from showing too much [[Pride|pride]]  
+And far from showing too much [[concepts/pride|pride]]  
 Is frequently undignified.  
 He’s very easily taken in —  
 Just chuck him underneath the chin  
@@ -2966,7 +2966,7 @@ And when he’s finished, licks his paws
 So’s not to waste the onion sauce.)  
 A Cat’s entitled to expect  
 These evidences of respect.  
-And so in [[Time|time]] you reach your aim,  
+And so in [[motifs/time|time]] you reach your aim,  
 And finally call him by his NAME.  
 
 
@@ -2978,13 +2978,13 @@ And there’s how you AD-DRESS A CAT.
 
 Skimbleshanks: il Gatto della Ferrovia  
 C’è un bisbiglio lungo il binario alle 11.39  
-quando il Postale della [[Night|Notte]] è pronto a partire,  
+quando il Postale della [[motifs/night|Notte]] è pronto a partire,  
 che dice ‘Skimble dov’è Skimble è andato a caccia del ditale?  
 Dobbiamo trovarlo o il treno non può partire.’  
 Tutti i capitreno e tutti i facchini e le figlie del capostazione  
 cercano in alto e in basso,  
 dicendo ‘Skimble dov’è Skimble ché se non è molto svelto  
-allora il Postale della [[Night|Notte]] proprio non può andare.’  
+allora il Postale della [[motifs/night|Notte]] proprio non può andare.’  
 Alle 11.42 il segnale è in ritardo  
 e i passeggeri sono frenetici fino all’ultimo —  
 poi Skimble comparirà e verrà a passo lento verso la coda:  
@@ -3012,11 +3012,11 @@ quando Skimble è in giro e in movimento.
 Oh è molto piacevole quando avete trovato la vostra tanina  
 col vostro nome scritto sulla porta.  
 E la cuccetta è tutta in ordine con un lenzuolo appena piegato  
-e non c’è un granello di [[Dust|polvere]] sul pavimento.  
+e non c’è un granello di [[motifs/dust|polvere]] sul pavimento.  
 C’è ogni sorta di luce — potete farla scura o chiara;  
 c’è un bottone che girate per fare un venticello.  
 C’è un buffo piccolo catino in cui dovreste lavarvi la faccia  
-e una manovella per chiudere la [[Window|finestra]] se starnutite.  
+e una manovella per chiudere la [[motifs/window|finestra]] se starnutite.  
 Poi il capotreno affaccia il capo cortesemente e vi chiederà tutto vispo  
 ‘Lo volete debole o forte il tè del mattino?’  
 Ma Skimble gli è proprio dietro ed era pronto a ricordarglielo.  
@@ -3027,7 +3027,7 @@ Perché Skimble non lascia andar storto nulla.
      sapere che non sarete disturbati dai topi —  
      potete lasciar tutto questo al Gatto della Ferrovia,  
        il Gatto del Treno Ferroviario!  
-Nelle veglie della [[Night|notte]] è sempre fresco e vispo;  
+Nelle veglie della [[motifs/night|notte]] è sempre fresco e vispo;  
 di tanto in tanto si prende una tazza di tè  
 con forse una goccia di whisky mentre sta di guardia,  
 fermandosi solo qua e là ad acchiappare una pulce.  
@@ -3062,19 +3062,19 @@ e avete appreso i loro nomi propri,
 le loro abitudini e il loro habitat:  
 ma  
 come vi Ri-volgereste a un Gatto?  
-Dunque prima vi rinfrescherò la [[Memory|memoria]],  
+Dunque prima vi rinfrescherò la [[motifs/memory|memoria]],  
 e dirò: UN GATTO NON È UN CANE.  
 
 
-Ora i [[dogs|Cani]] fingono che gli piaccia azzuffarsi;  
+Ora i Cani fingono che gli piaccia azzuffarsi;  
 spesso abbaiano, più di rado mordono;  
 ma pure un Cane è, tutto sommato,  
-quel che chiamereste un’[[Soul|anima]] semplice.  
+quel che chiamereste un’[[motifs/soul|anima]] semplice.  
 Naturalmente non includo i Pechi,  
 e simili fantastici mostri canini.  
 Il solito Cane di Città  
 è molto incline a fare il buffone,  
-e lungi dal mostrare troppo [[Pride|orgoglio]]  
+e lungi dal mostrare troppo [[concepts/pride|orgoglio]]  
 è spesso privo di dignità.  
 È facilissimo da abbindolare —  
 basta grattargli sotto il mento  
@@ -3118,7 +3118,7 @@ e quando ha finito si lecca le zampe
 per non sprecare la salsa di cipolle.)  
 Un Gatto ha diritto d’aspettarsi  
 queste prove di rispetto.  
-E così col [[Time|tempo]] raggiungete il vostro scopo,  
+E così col [[motifs/time|tempo]] raggiungete il vostro scopo,  
 e finalmente lo chiamate per NOME.  
 
 
@@ -3148,19 +3148,19 @@ And learnt about their proper names,
 Their habits and their habitat:  
 But  
 How would you ad-dress a Cat?  
-So first, your [[Memory|memory]] I’ll jog,  
+So first, your [[motifs/memory|memory]] I’ll jog,  
 And say: A CAT IS NOT A DOG.  
 
 
-Now [[dogs|Dogs]] pretend they like to fight;  
+Now Dogs pretend they like to fight;  
 They often bark, more seldom bite;  
 But yet a Dog is, on the whole,  
-What you would call a simple [[Soul|soul]].  
+What you would call a simple [[motifs/soul|soul]].  
 Of course I’m not including Pekes,  
 And such fantastic canine freaks.  
 The usual Dog about the Town  
 Is much inclined to play the clown,  
-And far from showing too much [[Pride|pride]]  
+And far from showing too much [[concepts/pride|pride]]  
 Is frequently undignified.  
 He’s very easily taken in —  
 Just chuck him underneath the chin  
@@ -3204,7 +3204,7 @@ And when he’s finished, licks his paws
 So’s not to waste the onion sauce.)  
 A Cat’s entitled to expect  
 These evidences of respect.  
-And so in [[Time|time]] you reach your aim,  
+And so in [[motifs/time|time]] you reach your aim,  
 And finally call him by his NAME.  
 
 
@@ -3230,7 +3230,7 @@ But yet I can state, and I’m not one to boast,
    That some of the gals is dead keen on old Morgan.  
 So if you ’ave business with Faber — or Faber —  
    I’ll give you this tip, and it’s worth a lot more:  
-You’ll save yourself [[Time|time]], and you’ll spare yourself labour  
+You’ll save yourself [[motifs/time|time]], and you’ll spare yourself labour  
    If jist you make friends with the Cat at the door.  
                                                                         MORGAN.  
 
@@ -3255,19 +3255,19 @@ e avete appreso i loro nomi propri,
 le loro abitudini e il loro habitat:  
 ma  
 come vi Ri-volgereste a un Gatto?  
-Dunque prima vi rinfrescherò la [[Memory|memoria]],  
+Dunque prima vi rinfrescherò la [[motifs/memory|memoria]],  
 e dirò: UN GATTO NON È UN CANE.  
 
 
-Ora i [[dogs|Cani]] fingono che gli piaccia azzuffarsi;  
+Ora i Cani fingono che gli piaccia azzuffarsi;  
 spesso abbaiano, più di rado mordono;  
 ma pure un Cane è, tutto sommato,  
-quel che chiamereste un’[[Soul|anima]] semplice.  
+quel che chiamereste un’[[motifs/soul|anima]] semplice.  
 Naturalmente non includo i Pechi,  
 e simili fantastici mostri canini.  
 Il solito Cane di Città  
 è molto incline a fare il buffone,  
-e lungi dal mostrare troppo [[Pride|orgoglio]]  
+e lungi dal mostrare troppo [[concepts/pride|orgoglio]]  
 è spesso privo di dignità.  
 È facilissimo da abbindolare —  
 basta grattargli sotto il mento  
@@ -3311,7 +3311,7 @@ e quando ha finito si lecca le zampe
 per non sprecare la salsa di cipolle.)  
 Un Gatto ha diritto d’aspettarsi  
 queste prove di rispetto.  
-E così col [[Time|tempo]] raggiungete il vostro scopo,  
+E così col [[motifs/time|tempo]] raggiungete il vostro scopo,  
 e finalmente lo chiamate per NOME.  
 
 
@@ -3337,7 +3337,7 @@ Eppure lo posso di’, e non so’ tipo da vantarmi,
    Che certe ragazze so’ cotte marce del vecchio Morgan.  
 Sicché se ci avete affari con Faber — o con Faber —  
    Ve do questa dritta, e vale ben di più:  
-Ve risparmiate [[Time|tempo]], e ve risparmiate fatica  
+Ve risparmiate [[motifs/time|tempo]], e ve risparmiate fatica  
    Se solo ve fate amico il Gatto che sta alla porta.  
                                                                         MORGAN.
 
@@ -3365,7 +3365,7 @@ But yet I can state, and I’m not one to boast,
    That some of the gals is dead keen on old Morgan.  
 So if you ’ave business with Faber — or Faber —  
    I’ll give you this tip, and it’s worth a lot more:  
-You’ll save yourself [[Time|time]], and you’ll spare yourself labour  
+You’ll save yourself [[motifs/time|time]], and you’ll spare yourself labour  
    If jist you make friends with the Cat at the door.  
                                                                         MORGAN.  
 
@@ -3393,7 +3393,7 @@ Eppure lo posso di’, e non so’ tipo da vantarmi,
    Che certe ragazze so’ cotte marce del vecchio Morgan.  
 Sicché se ci avete affari con Faber — o con Faber —  
    Ve do questa dritta, e vale ben di più:  
-Ve risparmiate [[Time|tempo]], e ve risparmiate fatica  
+Ve risparmiate [[motifs/time|tempo]], e ve risparmiate fatica  
    Se solo ve fate amico il Gatto che sta alla porta.  
                                                                         MORGAN.  
 
@@ -3404,14 +3404,14 @@ TEATRO
 <span class="atom-split" data-atom="102_a_fable_for_feasters" data-title="A Fable for Feasters" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,motif/wine_and_drink,motif/ghosts,motif/the_supernatural,motif/ruins,concept/satire_of_society,form/mock_epic,form/ottava_rima,form/narrative_poem,form/satire,histref/medieval_england,histref/christianity,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
 
 
-A [[Fable]] for Feasters  
+A [[forms/fable|Fable]] for Feasters  
 In England, long before that royal Mormon  
-   [[King]] [[Henry VIII]] found out that [[Monks|monks]] were quacks,  
+   [[archetypes/king|King]] [[characters/henry-viii|Henry VIII]] found out that [[characters/monks|monks]] were quacks,  
 And took their lands and money from the poor men,  
    And brought their abbeys tumbling at their backs,  
 There was a village founded by some Norman  
    Who levied on all travelers his tax;  
-       Nearby this [[Hamlet|hamlet]] was a monastery  
+       Nearby this [[characters/hamlet|hamlet]] was a monastery  
        Inhabited by a band of friars merry.  
 They were possessors of rich lands and wide,  
    An orchard, and a vineyard, and a dairy;  
@@ -3420,24 +3420,24 @@ Whenever some old villainous baron died,
 Had done before — their fortune multiplied,  
    As if they had been kept by a kind fairy.  
        Alas! no fairy visited their host,  
-       Oh, no; much worse than that, they had a [[Ghost|ghost]].  
+       Oh, no; much worse than that, they had a [[archetypes/ghost|ghost]].  
 Some wicked and heretical old sinner  
    Perhaps, who had been walled up for his crimes;  
 At any rate, he sometimes came to dinner,  
-   Whene’er the [[Monks|monks]] were having merry times.  
+   Whene’er the [[characters/monks|monks]] were having merry times.  
 He stole the fatter cows and left the thinner  
    To furnish all the milk — upset the chimes,  
        And once he sat the prior on the steeple,  
        To the astonishment of all the people.  
-When Christmas [[Time|time]] was near the Abbot vowed  
-   They’d eat their meal from [[Ghosts|ghosts]] and phantoms free,  
-The fiend must stay at [[Home|home]] — no [[Ghosts|ghosts]] allowed  
+When Christmas [[motifs/time|time]] was near the Abbot vowed  
+   They’d eat their meal from [[motifs/ghosts|ghosts]] and phantoms free,  
+The fiend must stay at [[motifs/home|home]] — no [[motifs/ghosts|ghosts]] allowed  
    At this exclusive feast. From over sea  
 He purchased at his own expense a crowd  
    Of relics from a Spanish saint — said he:  
-       ‘If [[Ghosts|ghosts]] come uninvited, then, of course,  
+       ‘If [[motifs/ghosts|ghosts]] come uninvited, then, of course,  
        I’ll be compelled to keep them off by force.’  
-He drencht the gown he wore with holy [[Water|water]],  
+He drencht the gown he wore with holy [[motifs/water|water]],  
    The turkeys, capons, boars, they were to eat,  
 He even soakt the uncomplaining porter  
    Who stood outside the door from head to feet.  
@@ -3447,10 +3447,10 @@ To make a rather lengthy story shorter,
        And watered everything except the wine.  
 So when all preparations had been made,  
    The jovial epicures sat down to table.  
-The menus of that [[Time|time]] I am afraid  
-   I don’t know much about — as [[Well|well]]’s I’m able  
+The menus of that [[motifs/time|time]] I am afraid  
+   I don’t know much about — as [[motifs/well|well]]’s I’m able  
 I’ll go through the account: They made a raid  
-   On every bird and beast in Æsop’s [[Fable|fable]]  
+   On every bird and beast in Æsop’s [[forms/fable|fable]]  
        To fill out their repast, and pies and puddings,  
        And jellies, pasties, cakes among the good things.  
 A mighty peacock standing on both legs  
@@ -3458,30 +3458,30 @@ A mighty peacock standing on both legs
 Next came a viand made of turtle eggs,  
    And after that a great pie made of plover,  
 And flagons which perhaps held several kegs  
-   Of ale, and [[cheese]] which they kept under cover.  
+   Of ale, and cheese which they kept under cover.  
        Last, a boar’s head, which to bring in took four pages,  
        His mouth an apple held, his skull held sausages.  
-Over their Christmas wassail the [[Monks|monks]] dozed,  
+Over their Christmas wassail the [[characters/monks|monks]] dozed,  
    A fine old drink, though now gone out of use —  
 His feet upon the table superposed  
    Each wisht he had not eaten so much goose.  
 The Abbot with proposing every toast  
    Had drank more than he ought t’ have of grape juice.  
        The lights began to burn distinctly blue,  
-       As in [[Ghost|ghost]] stories lights most always do.  
+       As in [[archetypes/ghost|ghost]] stories lights most always do.  
 The doors, though barred and bolted most securely,  
-   Gave way — my statement nobody can [[Doubt|doubt]],  
-Who knows the [[Well|well]] known fact, as you do surely —  
-   That [[Ghosts|ghosts]] are fellows whom you can’t keep out;  
+   Gave way — my statement nobody can [[concepts/doubt|doubt]],  
+Who knows the [[motifs/well|well]] known fact, as you do surely —  
+   That [[motifs/ghosts|ghosts]] are fellows whom you can’t keep out;  
 
 
 It is a thing to be lamented sorely  
    Such slippery folk should be allowed about.  
        For often they drop in at awkward moments,  
-       As everybody’ll know who reads this [[Romance|romance]].  
+       As everybody’ll know who reads this romance.  
 The Abbot sat as pasted to his chair,  
    His eye became the size of any dollar,  
-The [[Ghost|ghost]] then took him roughly by the hair  
+The [[archetypes/ghost|ghost]] then took him roughly by the hair  
    And bade him come with him, in accents hollow.  
 The friars could do nought but gape and stare,  
    The spirit pulled him rudely by the collar,  
@@ -3489,50 +3489,50 @@ The friars could do nought but gape and stare,
        The pair had vanisht swiftly up the chimney.  
 Naturally every one searcht everywhere,  
    But not a shred of Bishop could be found,  
-The [[Monks|monks]], when anyone questioned, would declare  
+The [[characters/monks|monks]], when anyone questioned, would declare  
    St. Peter’d snatcht to heaven their lord renowned,  
 Though the wicked said (such rascals are not rare)  
    That the Abbot’s course lay nearer underground;  
        But the church straightway put to his name the handle  
        Of Saint, thereby rebuking all such scandal.  
-But after this the [[Monks|monks]] grew most devout,  
+But after this the [[characters/monks|monks]] grew most devout,  
    And lived on milk and breakfast food entirely;  
 Each morn from four to five one took a knout  
    And flogged his mates ’till they grew good and friarly.  
-Spirits from that [[Time|time]] forth they did without,  
+Spirits from that [[motifs/time|time]] forth they did without,  
    And lived the admiration of the shire. We  
        Got the veracious record of these doings  
        From an old manuscript found in the ruins.  
 
-[A [[Lyric]]]: ‘If [[Time]] and Space, as Sages say’  
-If [[Time]] and Space, as Sages say‚  
+[A [[forms/lyric|Lyric]]]: ‘If [[motifs/time|Time]] and Space, as Sages say’  
+If [[motifs/time|Time]] and Space, as Sages say‚  
    Are things which cannot be,  
-The sun which does not feel [[Decay|decay]]  
+The sun which does not feel [[motifs/decay|decay]]  
    No greater is than we.  
-So why, [[Love]], should we ever pray  
+So why, [[motifs/love|Love]], should we ever pray  
    To live a century?  
 The butterfly that lives a day  
-   Has lived [[Eternity|eternity]].  
-The [[Flowers|flowers]] I gave thee when the dew  
+   Has lived [[concepts/eternity|eternity]].  
+The [[motifs/flowers|flowers]] I gave thee when the dew  
    Was trembling on the vine,  
 Were withered ere the wild bee flew  
    To suck the eglantine.  
 So let us haste to pluck anew  
    Nor mourn to see them pine,  
-And though our days of [[Love|love]] be few  
+And though our days of [[motifs/love|love]] be few  
    Yet let them be divine.  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Una [[Fable|Favola]] per Banchettanti  
+Una [[forms/fable|Favola]] per Banchettanti  
 In Inghilterra, assai prima che quel regale Mormone  
-   [[King|Re]] [[Henry VIII|Enrico VIII]] scoprisse che i [[Monks|monaci]] erano ciarlatani,  
+   [[archetypes/king|Re]] [[characters/henry-viii|Enrico VIII]] scoprisse che i [[characters/monks|monaci]] erano ciarlatani,  
 E togliesse terre e denaro a quei poveretti,  
    E facesse crollare le abbazie alle loro spalle,  
 C’era un villaggio fondato da un qualche Normanno  
    Che imponeva a tutti i viandanti il suo balzello;  
-       Vicino a questo [[Hamlet|borgo]] stava un monastero  
+       Vicino a questo [[characters/hamlet|borgo]] stava un monastero  
        Abitato da una brigata di frati allegri.  
 Possedevano terre ricche e vaste,  
    Un frutteto, e una vigna, e un caseificio;  
@@ -3541,24 +3541,24 @@ Ogni volta che moriva qualche vecchio barone scellerato,
 Aveva fatto prima — la loro fortuna si moltiplicava,  
    Come se li mantenesse una fata benigna.  
        Ahimè! nessuna fata visitava la loro schiera,  
-       Oh, no; assai peggio di così, avevano un [[Ghost|fantasma]].  
+       Oh, no; assai peggio di così, avevano un [[archetypes/ghost|fantasma]].  
 Un vecchio peccatore malvagio ed eretico  
    Forse, che era stato murato vivo per i suoi delitti;  
 A ogni modo, talvolta veniva a cena,  
-   Ogni volta che i [[Monks|monaci]] se la spassavano.  
+   Ogni volta che i [[characters/monks|monaci]] se la spassavano.  
 Rubava le vacche più grasse e lasciava le più magre  
    A fornire tutto il latte — scombinava le campane,  
        E una volta piazzò il priore in cima al campanile,  
        Con stupore di tutta la gente.  
-Quando il [[Time|tempo]] di Natale s’avvicinò, l’Abate giurò  
-   Che avrebbero mangiato liberi da [[Ghosts|fantasmi]] e da spettri,  
-Il demonio doveva restarsene a [[Home|casa]] — niente [[Ghosts|fantasmi]] ammessi  
+Quando il [[motifs/time|tempo]] di Natale s’avvicinò, l’Abate giurò  
+   Che avrebbero mangiato liberi da [[motifs/ghosts|fantasmi]] e da spettri,  
+Il demonio doveva restarsene a [[motifs/home|casa]] — niente [[motifs/ghosts|fantasmi]] ammessi  
    A questo banchetto esclusivo. Da oltremare  
 Acquistò a proprie spese una quantità  
    Di reliquie d’un santo spagnolo — disse lui:  
-       ‘Se i [[Ghosts|fantasmi]] vengono senza invito, allora, si capisce,  
+       ‘Se i [[motifs/ghosts|fantasmi]] vengono senza invito, allora, si capisce,  
        Sarò costretto a tenerli lontani con la forza.’  
-Inzuppò d’[[Water|acqua]] santa la tonaca che portava,  
+Inzuppò d’[[motifs/water|acqua]] santa la tonaca che portava,  
    I tacchini, i capponi, i cinghiali che dovevano mangiare,  
 Bagnò perfino il portinaio che non si lamentava  
    E stava fuori della porta, dalla testa ai piedi.  
@@ -3568,10 +3568,10 @@ Per farla più breve, che la storia è lunghetta,
        E annacquò ogni cosa tranne il vino.  
 Così quando tutti i preparativi furono compiuti,  
    I gioviali epicurei sedettero a tavola.  
-I menù di quel [[Time|tempo]], temo,  
-   Non li conosco granché — [[Well|meglio]] che posso  
+I menù di quel [[motifs/time|tempo]], temo,  
+   Non li conosco granché — [[motifs/well|meglio]] che posso  
 Scorrerò il resoconto: fecero razzia  
-   D’ogni uccello e d’ogni bestia della [[Fable|favola]] d’Esopo  
+   D’ogni uccello e d’ogni bestia della [[forms/fable|favola]] d’Esopo  
        Per riempire il pasto, e pasticci e budini,  
        E gelatine, torte salate, dolci fra le cose buone.  
 Un possente pavone ritto sulle due zampe  
@@ -3579,30 +3579,30 @@ Un possente pavone ritto sulle due zampe
 Poi venne una pietanza d’uova di tartaruga,  
    E dopo quella un gran pasticcio di pivieri,  
 E boccali che forse contenevano parecchi barili  
-   Di birra, e [[cheese|formaggio]] che tenevano al coperto.  
+   Di birra, e formaggio che tenevano al coperto.  
        Infine una testa di cinghiale, che a portarla dentro ci vollero quattro paggi,  
        La bocca teneva una mela, il cranio teneva salsicce.  
-Sul loro brindisi di Natale i [[Monks|monaci]] sonnecchiavano,  
+Sul loro brindisi di Natale i [[characters/monks|monaci]] sonnecchiavano,  
    Una bella bevanda antica, benché ora caduta in disuso —  
 Coi piedi sovrapposti sopra la tavola  
    Ciascuno avrebbe voluto non aver mangiato tanta oca.  
 L’Abate, a forza di proporre ogni brindisi,  
    Aveva bevuto più succo d’uva di quanto dovesse.  
        Le luci cominciarono a bruciare distintamente azzurre,  
-       Come nelle storie di [[Ghost|fantasmi]] fanno quasi sempre le luci.  
+       Come nelle storie di [[archetypes/ghost|fantasmi]] fanno quasi sempre le luci.  
 Le porte, benché sbarrate e chiavistellate con ogni sicurezza,  
-   Cedettero — nessuno può mettere in [[Doubt|dubbio]] quel che dico,  
-Chi conosce il fatto [[Well|ben]] noto, come certo lo conoscete voi —  
-   Che i [[Ghosts|fantasmi]] sono tipi che non si possono tener fuori;  
+   Cedettero — nessuno può mettere in [[concepts/doubt|dubbio]] quel che dico,  
+Chi conosce il fatto [[motifs/well|ben]] noto, come certo lo conoscete voi —  
+   Che i [[motifs/ghosts|fantasmi]] sono tipi che non si possono tener fuori;  
 
 
 È cosa da deplorare amaramente  
    Che a gente così sfuggente sia permesso andare in giro.  
        Ché spesso capitano nei momenti più scomodi,  
-       Come saprà chiunque legga questo [[Romance|romanzo]].  
+       Come saprà chiunque legga questo romanzo.  
 L’Abate se ne stava come incollato alla sedia,  
    L’occhio gli si fece grande come un tallero,  
-Il [[Ghost|fantasma]] allora lo prese rudemente per i capelli  
+Il [[archetypes/ghost|fantasma]] allora lo prese rudemente per i capelli  
    E gli ordinò di seguirlo, con voce cavernosa.  
 I frati non poterono che restare a bocca aperta,  
    Lo spirito lo tirò sgarbatamente per il collare,  
@@ -3610,37 +3610,37 @@ I frati non poterono che restare a bocca aperta,
        I due erano spariti veloci su per il camino.  
 Naturalmente tutti cercarono dappertutto,  
    Ma non si trovò un brandello di Vescovo,  
-I [[Monks|monaci]], se qualcuno domandava, dichiaravano  
+I [[characters/monks|monaci]], se qualcuno domandava, dichiaravano  
    Che San Pietro aveva rapito in cielo il loro rinomato signore,  
 Benché i malevoli dicessero (e simili furfanti non sono rari)  
    Che la rotta dell’Abate correva piuttosto sottoterra;  
        Ma la chiesa appose subito al suo nome il titolo  
        Di Santo, rintuzzando così ogni scandalo simile.  
-Ma dopo questo i [[Monks|monaci]] divennero devotissimi,  
+Ma dopo questo i [[characters/monks|monaci]] divennero devotissimi,  
    E vissero interamente di latte e cibi da colazione;  
 Ogni mattina dalle quattro alle cinque uno prendeva uno scudiscio  
    E flagellava i compagni finché non diventavano buoni e fratteschi.  
-Di spiriti da quel [[Time|tempo]] in poi fecero a meno,  
+Di spiriti da quel [[motifs/time|tempo]] in poi fecero a meno,  
    E vissero l’ammirazione della contea. Noi  
        Abbiamo tratto il veridico resoconto di questi fatti  
        Da un vecchio manoscritto trovato fra le rovine.  
 
-[Una [[Lyric|Lirica]]]: ‘Se il [[Time|Tempo]] e lo Spazio, come dicono i Savi’  
-Se il [[Time|Tempo]] e lo Spazio, come dicono i Savi,  
+[Una [[forms/lyric|Lirica]]]: ‘Se il [[motifs/time|Tempo]] e lo Spazio, come dicono i Savi’  
+Se il [[motifs/time|Tempo]] e lo Spazio, come dicono i Savi,  
    Sono cose che non possono essere,  
-Il sole che non sente il [[Decay|disfacimento]]  
+Il sole che non sente il [[motifs/decay|disfacimento]]  
    Non è più grande di noi.  
-Perché dunque, [[Love|Amore]], dovremmo mai pregare  
+Perché dunque, [[motifs/love|Amore]], dovremmo mai pregare  
    Di vivere un secolo?  
 La farfalla che vive un giorno  
-   Ha vissuto l’[[Eternity|eternità]].  
-I [[Flowers|fiori]] che ti diedi quando la rugiada  
+   Ha vissuto l’[[concepts/eternity|eternità]].  
+I [[motifs/flowers|fiori]] che ti diedi quando la rugiada  
    Tremava sulla vite,  
 Erano appassiti prima che l’ape selvatica volasse  
    A succhiare l’eglantina.  
 Affrettiamoci dunque a coglierne di nuovi  
    Né piangiamo di vederli languire,  
-E benché i nostri giorni d’[[Love|amore]] siano pochi  
+E benché i nostri giorni d’[[motifs/love|amore]] siano pochi  
    Che siano almeno divini.
 
 
@@ -3648,61 +3648,61 @@ E benché i nostri giorni d’[[Love|amore]] siano pochi
 <span class="atom-split" data-atom="110_song_the_moonflower_opens_to_the_moth" data-title="Song: ‘The moonflower opens to the moth’" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/white_and_red,motif/the_sea,motif/night,concept/love_romantic,concept/lust,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
 
 
-[[Song]]: ‘The moonflower opens to the moth’  
+[[works/song-(poe)|Song]]: ‘The moonflower opens to the moth’  
 The moonflower opens to the moth,  
    The mist crawls in from sea;  
 A great white bird, a snowy owl,  
    Slips from the alder tree.  
-Whiter the [[Flowers|flowers]], [[Love]], you hold,  
+Whiter the [[motifs/flowers|flowers]], [[motifs/love|Love]], you hold,  
    Than the white mist on the sea;  
-Have you no brighter tropic [[Flowers|flowers]]  
+Have you no brighter tropic [[motifs/flowers|flowers]]  
    With scarlet life, for me?  
 
 Nocturne  
-[[Romeo]], grand sérieux, to importune  
+[[characters/romeo|Romeo]], grand sérieux, to importune  
 
 
 Guitar and hat in hand, beside the gate  
-With [[Juliet]], in the usual [[debate]]  
-Of [[Love|love]], beneath a bored but courteous [[Moon|moon]];  
+With [[characters/juliet|Juliet]], in the usual debate  
+Of [[motifs/love|love]], beneath a bored but courteous [[motifs/moon|moon]];  
 The conversation failing, strikes some tune  
 Banal, and out of pity for their fate  
 Behind the wall I have some servant wait,  
 Stab, and the lady sinks into a swoon.  
-[[Blood]] looks effective on the moonlit ground —  
-The [[Hero|hero]] smiles; in my best mode oblique  
-Rolls toward the [[Moon|moon]] a frenzied eye profound,  
-(No need of ‘[[Love]] forever?’ — ‘[[Love]] next week?’)  
-While female readers all in [[Tears|tears]] are drowned: —  
-‘The perfect climax all true [[lovers]] seek!’  
+[[motifs/blood|Blood]] looks effective on the moonlit ground —  
+The [[archetypes/hero|hero]] smiles; in my best mode oblique  
+Rolls toward the [[motifs/moon|moon]] a frenzied eye profound,  
+(No need of ‘[[motifs/love|Love]] forever?’ — ‘[[motifs/love|Love]] next week?’)  
+While female readers all in [[motifs/tears|tears]] are drowned: —  
+‘The perfect climax all true lovers seek!’  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Song|Canto]]: ‘Il fiore di luna s’apre alla falena’  
+Canto: ‘Il fiore di luna s’apre alla falena’  
 Il fiore di luna s’apre alla falena,  
    La nebbia striscia dentro dal mare;  
 Un grande uccello bianco, una civetta delle nevi,  
    Scivola giù dall’ontano.  
-Più bianchi i [[Flowers|fiori]], [[Love|Amore]], che tu tieni,  
+Più bianchi i [[motifs/flowers|fiori]], [[motifs/love|Amore]], che tu tieni,  
    Della bianca nebbia sul mare;  
-Non hai [[Flowers|fiori]] tropicali più lucenti,  
+Non hai [[motifs/flowers|fiori]] tropicali più lucenti,  
    Di scarlatta vita, per me?  
 
 Notturno  
-[[Romeo]], grand sérieux, a importunare  
+[[characters/romeo|Romeo]], grand sérieux, a importunare  
 
 
 Chitarra e cappello in mano, accanto al cancello  
-Con [[Juliet|Giulietta]], nel solito [[debate|dibattito]]  
-D’[[Love|amore]], sotto una [[Moon|luna]] annoiata ma cortese;  
+Con [[characters/juliet|Giulietta]], nel solito dibattito  
+D’[[motifs/love|amore]], sotto una [[motifs/moon|luna]] annoiata ma cortese;  
 Venendo meno la conversazione, attacca qualche aria  
 Banale, e per pietà del loro fato  
 Dietro il muro faccio attendere un servo,  
 Pugnala, e la dama s’abbandona in un deliquio.  
-Il [[Blood|sangue]] fa effetto sul suolo illuminato dalla luna —  
-L’[[Hero|eroe]] sorride; nel mio miglior modo obliquo  
-Volge verso la [[Moon|luna]] un occhio frenetico e profondo,  
-(Nessun bisogno di ‘[[Love|Amore]] per sempre?’ — ‘[[Love|Amore]] la prossima settimana?’)  
-Mentre tutte le lettrici sono annegate in [[Tears|lacrime]]: —  
-‘Il climax perfetto che ogni vero [[lovers|innamorato]] cerca!’
+Il [[motifs/blood|sangue]] fa effetto sul suolo illuminato dalla luna —  
+L’[[archetypes/hero|eroe]] sorride; nel mio miglior modo obliquo  
+Volge verso la [[motifs/moon|luna]] un occhio frenetico e profondo,  
+(Nessun bisogno di ‘[[motifs/love|Amore]] per sempre?’ — ‘[[motifs/love|Amore]] la prossima settimana?’)  
+Mentre tutte le lettrici sono annegate in [[motifs/tears|lacrime]]: —  
+‘Il climax perfetto che ogni vero innamorato cerca!’

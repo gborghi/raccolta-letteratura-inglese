@@ -23,7 +23,7 @@ tags:
   - archetype/corrupt_official
   - topos/world_upside_down
 ---
-*by Belloc*  ·  **Cluster:** [[Comic Verse · Childhood · Satire]]
+*by Belloc*  ·  **Cluster:** [[clusters/comic-verse-·-childhood-·-satire|Comic Verse · Childhood · Satire]]
 
 > [!abstract] 
 > A book of comic 'cautionary' verses (illustrated by B.T.B.) each skewering a fictitious member of the House of Lords, from Lord Roehampton and Lord Calvin to Lord Lucky and Lord Hippo. Behind the nonsense rhymes lies Belloc's Edwardian satire on the vanity, greed and political privilege of the aristocracy.
@@ -45,9 +45,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Comic Verse Song]], [[Satire]], [[Poem]]
-**Themes & Concepts:** [[Satire of Society]], [[Class Conflict]], [[Vanity]], [[Money and Avarice]], [[Nonsense]], [[Economics]]
-**Motifs:** [[Money and Gold]], [[Flag]], [[Wine and Drink]]
-**Settings:** [[London]]
-**Archetypes:** [[Corrupt Official]]
-**Topoi:** [[World Upside Down]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/satire|Satire]], [[forms/poem|Poem]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/class-conflict|Class Conflict]], [[concepts/vanity|Vanity]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/nonsense|Nonsense]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/flag|Flag]], [[motifs/wine-and-drink|Wine and Drink]]
+**Settings:** [[settings/london|London]]
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]

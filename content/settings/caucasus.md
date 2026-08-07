@@ -14,4 +14,10 @@ The mountain region where Tolstoy served as an artillery officer, an experience 
 
 <div class="concept-works" data-slug="settings/caucasus"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/tolstoy-(chesterton)|tolstoy (Chesterton)]]
+
+</div>
+
 #graph/setting

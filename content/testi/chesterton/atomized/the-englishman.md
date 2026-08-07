@@ -37,7 +37,7 @@ You mustn't give him beans.
 St George he is for England,  
 And shall wear the shield he wore  
 When we go out in armour  
-With battle-[[Cross|cross]] before.  
+With battle-[[motifs/cross|cross]] before.  
 But though he is jolly company  
 And very pleased to dine,  
 It isn't safe to give him nuts  
@@ -71,7 +71,7 @@ non devi dargli i fagioli.
 San Giorgio è per l'Inghilterra,  
 e porterà lo scudo che portava  
 quando usciremo in armatura  
-con la [[Cross|croce]] di battaglia davanti.  
+con la [[motifs/cross|croce]] di battaglia davanti.  
 Ma per quanto sia lieta compagnia  
 e ben contento di cenare,  
 non è prudente dargli le noci  
@@ -107,7 +107,7 @@ You mustn't give him beans.
 St George he is for England,  
 And shall wear the shield he wore  
 When we go out in armour  
-With battle-[[Cross|cross]] before.  
+With battle-[[motifs/cross|cross]] before.  
 But though he is jolly company  
 And very pleased to dine,  
 It isn't safe to give him nuts  
@@ -118,7 +118,7 @@ Unless you give him wine.
 
 <span class="qlang-split" data-lang="it"></span>
 
-L'inglese
+L'Inglese  
 
 San Giorgio era per l'Inghilterra,  
 e prima di uccidere il drago  
@@ -141,7 +141,7 @@ non devi dargli i fagioli.
 San Giorgio è per l'Inghilterra,  
 e porterà lo scudo che portava  
 quando usciremo in armatura  
-con la [[Cross|croce]] di battaglia davanti.  
+con la [[motifs/cross|croce]] di battaglia davanti.  
 Ma per quanto sia lieta compagnia  
 e ben contento di cenare,  
 non è prudente dargli le noci  

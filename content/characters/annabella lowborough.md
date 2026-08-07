@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/annabella-lowborough"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-tenant-of-wildfell-hall-(bronte)|The Tenant of Wildfell Hall (Bronte)]]
+
+</div>
+
 #graph/character

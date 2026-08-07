@@ -14,4 +14,10 @@ The cowardly, socially flashy usurer of Our Mutual Friend cited by Chesterton as
 
 <div class="concept-works" data-slug="characters/mr.-fledgeby"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+
+</div>
+
 #graph/character

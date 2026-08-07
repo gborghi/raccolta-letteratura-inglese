@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/cleopatra"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/shaw-(chesterton)|Shaw (Chesterton)]]
+- [[works/antony-and-cleopatra-(shakespeare)|ANTONY AND CLEOPATRA (Shakespeare)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ Philip II of Spain, builder of the Escorial, is portrayed as the harsh, ardent f
 
 <div class="concept-works" data-slug="characters/philip-the-second"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-glass-walking-stick-(chesterton)|The Glass Walking Stick (Chesterton)]]
+
+</div>
+
 #graph/character

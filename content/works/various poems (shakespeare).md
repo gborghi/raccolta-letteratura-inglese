@@ -31,18 +31,18 @@ tags:
   - histref/greek_mythology
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/transience-·-decay-·-carpe-diem|Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
 > A miscellany of short poems attributed to Shakespeare (songs, Passionate Pilgrim pieces, the metaphysical elegy 'The Phoenix and Turtle', and epitaphs) ranging over love, beauty's transience, constancy and mortality.
 
 ## Connections
 
-**Topoi:** [[Carpe Diem]], [[Tempus Fugit]], [[Vanitas]], [[Immortality Through Verse]]
-**Motifs:** [[Birds]], [[Rose]], [[Flowers]], [[Seasons]], [[Grave]], [[Desire]]
-**Themes & Concepts:** [[Romantic Love]], [[Beauty]], [[Transience]], [[Mortality]], [[Beauty and Truth]], [[Marriage and Fidelity]], [[Immortality of Art Fame]]
-**Forms & Genres:** [[Comic Verse Song]], [[Lyric]], [[Elegy]], [[Epigram]]
-**Historical References:** [[Greek Mythology]]
+**Topoi:** [[topoi/carpe-diem|Carpe Diem]], [[topoi/tempus-fugit|Tempus Fugit]], [[topoi/vanitas|Vanitas]], [[topoi/immortality-through-verse|Immortality Through Verse]]
+**Motifs:** [[motifs/birds|Birds]], [[motifs/rose|Rose]], [[motifs/flowers|Flowers]], [[motifs/seasons|Seasons]], [[motifs/grave|Grave]], [[motifs/desire|Desire]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/beauty|Beauty]], [[concepts/transience|Transience]], [[concepts/mortality|Mortality]], [[concepts/beauty-and-truth|Beauty and Truth]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/lyric|Lyric]], [[forms/elegy|Elegy]], [[forms/epigram|Epigram]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
 
 ## Testo integrale / Full text
 

@@ -53,7 +53,7 @@ tags:
 
 # MrPond
 
-*by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
+*by Chesterton*  ·  **Cluster:** [[clusters/short-story-·-concealment-hidden-identity-·-justice-right-and-wrong|Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 
 > A 1937 collection of detective short stories in which the mild civil servant Mr Pond utters seemingly self-contradictory remarks that prove literally true, each unfolding into a mystery of crime, espionage and logical paradox.
@@ -64,18 +64,18 @@ tags:
 
 ## Connections
 
-**Historical References:** [[First World War]], [[Irish Question]], [[Puritanism]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/irish-question|Irish Question]], [[historical-references/puritanism|Puritanism]]
 
-**Settings:** [[London]], [[Scotland the Highlands]], [[Germany]], [[Rural England]], [[Europe]]
+**Settings:** [[settings/london|London]], [[settings/scotland-the-highlands|Scotland the Highlands]], [[settings/germany|Germany]], [[settings/rural-england|Rural England]], [[settings/europe|Europe]]
 
-**Topoi:** [[All the World's a Stage]], [[Double]]
+**Topoi:** [[topoi/all-the-world's-a-stage|All the World's a Stage]], [[topoi/double|Double]]
 
-**Characters:** [[Mr Pond]], [[Captain Gahagan]], [[Sir Hubert Wotton]], [[Joan Varney]], [[Marshal Von Grock]]
+**Characters:** [[characters/mr-pond|Mr Pond]], [[characters/captain-gahagan|Captain Gahagan]], [[characters/sir-hubert-wotton|Sir Hubert Wotton]], [[characters/joan-varney|Joan Varney]], [[characters/marshal-von-grock|Marshal Von Grock]]
 
-**Archetypes:** [[Detective]], [[Fool]], [[Villain]], [[Corrupt Official]]
-**Motifs:** [[Death]], [[Blood]], [[Concealment Hidden Identity]], [[Swords and Weapons]], [[Garden]], [[Moon]]
-**Themes & Concepts:** [[Paradox]], [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Revenge]], [[Guilt]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Kingship and Legitimacy]], [[Self-Deception]], [[Fanaticism]], [[Power and Corruption]], [[History]]
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]], [[Fairy Tale Fantasy]], [[Melodrama]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/fool|Fool]], [[archetypes/villain|Villain]], [[archetypes/corrupt-official|Corrupt Official]]
+**Motifs:** [[motifs/death|Death]], [[motifs/blood|Blood]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/garden|Garden]], [[motifs/moon|Moon]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/revenge|Revenge]], [[concepts/guilt|Guilt]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/self-deception|Self-Deception]], [[concepts/fanaticism|Fanaticism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]], [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/melodrama|Melodrama]]
 
 ## Testo integrale / Full text
 

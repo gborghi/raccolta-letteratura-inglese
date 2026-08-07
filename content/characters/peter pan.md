@@ -14,4 +14,10 @@ Barrie's boy who refuses to grow up, criticized by Chesterton as a coward for fe
 
 <div class="concept-works" data-slug="characters/peter-pan"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-uses-of-diversity-(chesterton)|The Uses of Diversity (Chesterton)]]
+
+</div>
+
 #graph/character

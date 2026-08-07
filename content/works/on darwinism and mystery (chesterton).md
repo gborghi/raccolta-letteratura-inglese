@@ -28,7 +28,7 @@ tags:
   - histref/darwinism
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > An essay arguing that science is now doubting itself, that Darwinism is logically inconsistent, and that what remains is an unfathomable mystery he believes divine; faith, doubt, and the limits of reason.
@@ -47,13 +47,13 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Light and Dark]], [[Eyes and Sight]]
+**Motifs:** [[motifs/light-and-dark|Light and Dark]], [[motifs/eyes-and-sight|Eyes and Sight]]
 
-**Characters:** [[Charles Darwin]], [[Thomas Henry Huxley]], [[Edward Clodd]]
+**Characters:** [[characters/charles-darwin|Charles Darwin]], [[characters/thomas-henry-huxley|Thomas Henry Huxley]], [[characters/edward-clodd|Edward Clodd]]
 
-**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]], [[Sublime]], [[Providence]], [[Unseen The Hidden]], [[Agnosticism]], [[History]]
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Bible]], [[Darwinism]]
+**Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/doubt|Doubt]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/sublime|Sublime]], [[concepts/providence|Providence]], [[concepts/unseen-the-hidden|Unseen The Hidden]], [[concepts/agnosticism|Agnosticism]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/darwinism|Darwinism]]
 
 ## Testo integrale / Full text
 

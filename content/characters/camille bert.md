@@ -14,4 +14,10 @@ The devout commercial traveller and rival suitor to Madeleine whose duel with Co
 
 <div class="concept-works" data-slug="characters/camille-bert"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ball-and-cross-(chesterton)|ball and cross (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -41,7 +41,7 @@ tags:
   - character/the_young_king
 ---
 
-*by Wilde*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
+*by Wilde*  ·  **Cluster:** [[clusters/allegory-·-quest-·-pilgrim|Allegory · Quest · Pilgrim]]
 
 > [!abstract] 
 > A fairy-tale allegory in which a beauty-loving young king, taught by three dreams of the suffering behind his coronation finery, renounces luxury and is crowned by divine light as a Christ-like figure.
@@ -55,14 +55,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Sleeper Awakes]], [[Dance of Death]], [[World Upside Down]]
-**Archetypes:** [[King]], [[Christ Figure]], [[Orphan]], [[Prophet]]
-**Motifs:** [[Dreams]], [[Crown]], [[Clothing and Costume]], [[Money and Gold]], [[Blood]], [[Sea]], [[White and Red]], [[Death]], [[Cross]]
-**Themes & Concepts:** [[Social Injustice]], [[Poverty]], [[Class Conflict]], [[Beauty]], [[Conversion]], [[Grace and Redemption]], [[Kingship and Legitimacy]], [[Humility]], [[Economics]]
-**Forms & Genres:** [[Fairy Tale Fantasy]], [[Allegory]]
-**Historical References:** [[Christianity]], [[Bible]]
-**Settings:** [[Castle]]
-**Characters:** [[Christ]], [[Young King]]
+**Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]], [[topoi/dance-of-death|Dance of Death]], [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/king|King]], [[archetypes/christ-figure|Christ Figure]], [[archetypes/orphan|Orphan]], [[archetypes/prophet|Prophet]]
+**Motifs:** [[motifs/dreams|Dreams]], [[motifs/crown|Crown]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/money-and-gold|Money and Gold]], [[motifs/blood|Blood]], [[motifs/sea|Sea]], [[motifs/white-and-red|White and Red]], [[motifs/death|Death]], [[motifs/cross|Cross]]
+**Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/poverty|Poverty]], [[concepts/class-conflict|Class Conflict]], [[concepts/beauty|Beauty]], [[concepts/conversion|Conversion]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/humility|Humility]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/allegory|Allegory]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
+**Settings:** [[settings/castle|Castle]]
+**Characters:** [[characters/christ|Christ]], [[characters/young-king|Young King]]
 
 ## Testo integrale / Full text
 
@@ -164,4 +164,4 @@ He stood there in the raiment of a king, and the gates of the jewelled shrine fl
 And the people fell upon their knees in awe, and the nobles sheathed their swords and did homage, and the Bishop’s face grew pale, and his hands trembled.  ‘A greater than I hath crowned thee,’ he cried, and he knelt before him.
 And the young King came down from the high altar, and passed home through the midst of the people.  But no man dared look upon his face, for it was like the face of an angel.
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

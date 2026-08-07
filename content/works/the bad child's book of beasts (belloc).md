@@ -18,7 +18,7 @@ tags:
   - archetype/child
   - topos/world_upside_down
 ---
-*by Belloc*  ·  **Cluster:** [[Comic Verse · Childhood · Satire]]
+*by Belloc*  ·  **Cluster:** [[clusters/comic-verse-·-childhood-·-satire|Comic Verse · Childhood · Satire]]
 
 > [!abstract] 
 > Belloc's celebrated 1896 book of cautionary comic verse for children, presenting a bestiary of animals (Yak, Lion, Tiger, Whale, Elephant and more) in short mock-moral rhymes. The tone is nonsensical and gently subversive, parodying the improving children's book while delighting in absurdity.
@@ -45,9 +45,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Comic Verse Song]], [[Poem]]
-**Themes & Concepts:** [[Nonsense]], [[Childhood And Growth]], [[Wit]]
-**Motifs:** [[Animals]], [[Lion]]
-**Settings:** [[Oxford]]
-**Archetypes:** [[Child]]
-**Topoi:** [[World Upside Down]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/poem|Poem]]
+**Themes & Concepts:** [[concepts/nonsense|Nonsense]], [[concepts/childhood-and-growth|Childhood And Growth]], [[concepts/wit|Wit]]
+**Motifs:** [[motifs/animals|Animals]], [[motifs/lion|Lion]]
+**Settings:** [[settings/oxford|Oxford]]
+**Archetypes:** [[archetypes/child|Child]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]

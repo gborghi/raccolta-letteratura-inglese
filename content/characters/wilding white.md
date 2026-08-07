@@ -14,4 +14,10 @@ Eccentric, excitable country parson ('Parson White') whose cryptic letters about
 
 <div class="concept-works" data-slug="characters/wilding-white"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/longbow2-(chesterton)|longbow2 (Chesterton)]]
+
+</div>
+
 #graph/character

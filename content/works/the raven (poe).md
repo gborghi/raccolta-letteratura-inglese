@@ -21,18 +21,18 @@ tags:
   - character/lenore
 ---
 
-*by Poe*  ·  **Cluster:** [[Melancholy · Suffering · Pain and Suffering]]
+*by Poe*  ·  **Cluster:** [[clusters/melancholy-·-suffering-·-pain-and-suffering|Melancholy · Suffering · Pain and Suffering]]
 
 > [!abstract] 
 > Poe's signature narrative poem: a bereaved lover, mourning the lost Lenore at midnight, is visited by a talking raven whose 'Nevermore' deepens his grief into despair. Themes of mortality, grief, memory and irrational dread.
 
 ## Connections
 
-**Topoi:** [[Unattainable Beloved]], [[Memento Mori]]
-**Motifs:** [[Death]], [[Birds]], [[Night]], [[Memory]]
-**Themes & Concepts:** [[Grief and Loss]], [[Mortality]], [[Melancholy]], [[Unrequited Frustrated Love]]
-**Forms & Genres:** [[Narrative Poem]]
-**Characters:** [[Lenore]]
+**Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/death|Death]], [[motifs/birds|Birds]], [[motifs/night|Night]], [[motifs/memory|Memory]]
+**Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/mortality|Mortality]], [[concepts/melancholy|Melancholy]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]]
+**Forms & Genres:** [[forms/narrative-poem|Narrative Poem]]
+**Characters:** [[characters/lenore|Lenore]]
 
 ## Testo integrale / Full text
 

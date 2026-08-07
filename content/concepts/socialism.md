@@ -14,4 +14,12 @@ The collectivist reform movement (embodied in Hudge) that the book repeatedly cr
 
 <div class="concept-works" data-slug="concepts/socialism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/whats-wrong-(chesterton)|whats wrong (Chesterton)]]
+- [[works/economics-for-helen-(belloc)|Economics for Helen (Belloc)]]
+- [[works/the-servile-state-(belloc)|The Servile State (Belloc)]]
+
+</div>
+
 #graph/concept

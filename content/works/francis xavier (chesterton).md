@@ -32,7 +32,7 @@ tags:
   - form/elegy
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
+*by Chesterton*  ·  **Cluster:** [[clusters/martyrdom-·-martyr-saint-·-cross|Martyrdom · Martyr Saint · Cross]]
 
 > [!abstract] 
 > A Spenserian-stanza meditation on the missionary St Francis Xavier, whose apparent failure in the East is judged a hidden success by God; themes of martyrdom, faith and doubt, providence, and apparent failure redeemed.
@@ -43,16 +43,16 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Sic Transit Gloria Mundi]]
+**Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
 
-**Characters:** [[Francis Xavier]]
+**Characters:** [[characters/francis-xavier|Francis Xavier]]
 
-**Archetypes:** [[Martyr Saint]], [[Pilgrim]]
-**Motifs:** [[Stars]], [[Dust]], [[Cross]], [[Light and Dark]], [[Time]]
-**Themes & Concepts:** [[Martyrdom]], [[Faith and Doubt]], [[Providence]], [[Divine Love]], [[Heroism]], [[Vanity of Worldly Things]], [[Unseen The Hidden]], [[Self-Sacrifice]]
-**Forms & Genres:** [[Spenserian Stanza]], [[Lyric]], [[Elegy]]
-**Historical References:** [[Catholic Church]], [[Eastern Religion Comparative Religion]]
-**Settings:** [[Orient]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/pilgrim|Pilgrim]]
+**Motifs:** [[motifs/stars|Stars]], [[motifs/dust|Dust]], [[motifs/cross|Cross]], [[motifs/light-and-dark|Light and Dark]], [[motifs/time|Time]]
+**Themes & Concepts:** [[concepts/martyrdom|Martyrdom]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/providence|Providence]], [[concepts/divine-love|Divine Love]], [[concepts/heroism|Heroism]], [[concepts/vanity-of-worldly-things|Vanity of Worldly Things]], [[concepts/unseen-the-hidden|Unseen The Hidden]], [[concepts/self-sacrifice|Self-Sacrifice]]
+**Forms & Genres:** [[forms/spenserian-stanza|Spenserian Stanza]], [[forms/lyric|Lyric]], [[forms/elegy|Elegy]]
+**Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]]
+**Settings:** [[settings/orient|Orient]]
 
 ## Testo integrale / Full text
 

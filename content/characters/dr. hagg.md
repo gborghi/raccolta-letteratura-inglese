@@ -14,4 +14,10 @@ Pseudo-scientific eugenicist father who speaks of his dying son's inhuman traits
 
 <div class="concept-works" data-slug="characters/dr.-hagg"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/hifts-(chesterton)|HIFTS (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/guido-ferranti"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-duchess-of-padua-(wilde)|The Duchess of Padua (Wilde)]]
+
+</div>
+
 #graph/character

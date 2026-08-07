@@ -29,7 +29,7 @@ tags:
   - archetype/self_made_man
   - topos/world_upside_down
 ---
-*by Belloc*  ·  **Cluster:** [[Satirical Novel · Politics and Finance · Edwardian England]]
+*by Belloc*  ·  **Cluster:** [[clusters/satirical-novel-·-politics-and-finance-·-edwardian-england|Satirical Novel · Politics and Finance · Edwardian England]]
 
 > [!abstract] 
 > A satirical frame-narrative in the manner of the Arabian Nights, in which the immensely rich merchant Mahmoud recounts to his nephews the swindles, thefts and lucky frauds by which he rose from a kicked-out boy to a 'Captain of Industry.' Each tale ironically credits his crimes to the Mercy of God. Belloc uses the Oriental disguise to lampoon modern capitalist acquisition and the sanctification of greed.
@@ -40,10 +40,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]], [[Satire]]
-**Themes & Concepts:** [[Money and Avarice]], [[Satire of Society]], [[Capitalism]], [[Greed]], [[Deception]], [[Providence]], [[Hypocrisy]], [[Economics]]
-**Motifs:** [[Money and Gold]], [[Ship]], [[Journey]], [[Wine and Drink]], [[Sea and Voyage]]
-**Historical References:** [[Islam and the East]]
-**Settings:** [[Orient]], [[Desert]]
-**Archetypes:** [[Trickster]], [[Self-Made Man]]
-**Topoi:** [[World Upside Down]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]]
+**Themes & Concepts:** [[concepts/money-and-avarice|Money and Avarice]], [[concepts/satire-of-society|Satire of Society]], [[concepts/capitalism|Capitalism]], [[concepts/greed|Greed]], [[concepts/deception|Deception]], [[concepts/providence|Providence]], [[concepts/hypocrisy|Hypocrisy]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/ship|Ship]], [[motifs/journey|Journey]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/islam-and-the-east|Islam and the East]]
+**Settings:** [[settings/orient|Orient]], [[motifs/desert|Desert]]
+**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/self-made-man|Self-Made Man]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]

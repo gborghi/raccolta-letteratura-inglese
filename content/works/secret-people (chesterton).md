@@ -45,7 +45,7 @@ tags:
 
 # secret-people
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A historical ballad voicing the silent, dispossessed common people of England across centuries of Norman conquest, Reformation plunder, Trafalgar and modern plutocracy, warning 'we have not spoken yet'. Themes of social injustice, patriotism and the common man.
@@ -56,15 +56,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Common Man (2)]], [[Corrupt Official]], [[King]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/king|King]]
 
-**Topoi:** [[Fortune's Wheel]], [[War as Glory]]
+**Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/war-as-glory|War as Glory]]
 
-**Motifs:** [[Silence]], [[Chains]], [[Crown]], [[Blood]], [[Ruins the Abbey]], [[Money and Gold]]
-**Themes & Concepts:** [[Common Man]], [[Social Injustice]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Power and Corruption]], [[Poverty]], [[War and its Cost]], [[Kingship and Legitimacy]], [[Freedom and Liberty]], [[Secrecy and Concealment]], [[Economics]], [[History]]
-**Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]]
-**Historical References:** [[Reformation]], [[Napoleonic Wars the Navy]], [[Wars of the Roses]], [[French Revolution]], [[Puritanism]], [[English Civil War]]
-**Settings:** [[Rural England]], [[Battlefield]], [[Sea (2)]]
+**Motifs:** [[motifs/silence|Silence]], [[motifs/chains|Chains]], [[motifs/crown|Crown]], [[motifs/blood|Blood]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/money-and-gold|Money and Gold]]
+**Themes & Concepts:** [[concepts/common-man|Common Man]], [[concepts/social-injustice|Social Injustice]], [[concepts/class-conflict|Class Conflict]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/poverty|Poverty]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/narrative-poem|Narrative Poem]]
+**Historical References:** [[historical-references/reformation|Reformation]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/wars-of-the-roses|Wars of the Roses]], [[historical-references/french-revolution|French Revolution]], [[historical-references/puritanism|Puritanism]], [[historical-references/english-civil-war|English Civil War]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/battlefield|Battlefield]], [[settings/sea-(2)|Sea (2)]]
 
 ## Testo integrale / Full text
 

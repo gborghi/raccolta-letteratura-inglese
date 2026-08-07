@@ -52,7 +52,7 @@ tags:
 
 # TheAppOfTyranny
 
-*by Chesterton*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
+*by Chesterton*  ·  **Cluster:** [[clusters/swords-and-weapons-·-power-and-corruption-·-tyrant|Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 
 > A 1915 polemical war essay arguing that Prussian militarism is a deliberate barbarism at war with civilisation; defends the Allied cause against tyranny in WWI.
@@ -66,16 +66,16 @@ tags:
 
 ## Connections
 
-**Settings:** [[Germany]], [[Russia]], [[Italy]], [[Continental Europe (Brussels)]], [[Europe]]
+**Settings:** [[settings/germany|Germany]], [[settings/russia|Russia]], [[settings/italy|Italy]], [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]], [[settings/europe|Europe]]
 
-**Motifs:** [[Swords and Weapons]], [[Flags and Banners]]
+**Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/flags-and-banners|Flags and Banners]]
 
-**Topoi:** [[War as Glory]]
+**Topoi:** [[topoi/war-as-glory|War as Glory]]
 
-**Archetypes:** [[Tyrant]], [[Villain]], [[Fool]]
-**Themes & Concepts:** [[War and its Cost]], [[Power and Corruption]], [[Order vs Chaos]], [[Nationalism and Patriotism]], [[Honour]], [[Liberty Political Freedom]], [[Democracy]], [[Deception]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Racial Supremacy and Pseudo-Science]], [[History]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Historical References:** [[First World War]], [[King Alfred]], [[Danish Invasions]], [[French Revolution]], [[Napoleonic Wars the Navy]], [[Islam and the East]], [[Roman History]], [[Renaissance]], [[Christianity]], [[Ancient Greece]], [[Bible]], [[Kaiser Wilhelm II]], [[Frederick the Great]], [[Friedrich Nietzsche]], [[Houston Stewart Chamberlain]], [[Michelangelo]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/villain|Villain]], [[archetypes/fool|Fool]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/honour|Honour]], [[concepts/liberty-political-freedom|Liberty Political Freedom]], [[concepts/democracy|Democracy]], [[concepts/deception|Deception]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/racial-supremacy-and-pseudo-science|Racial Supremacy and Pseudo-Science]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/king-alfred|King Alfred]], [[historical-references/danish-invasions|Danish Invasions]], [[historical-references/french-revolution|French Revolution]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/islam-and-the-east|Islam and the East]], [[historical-references/roman-history|Roman History]], [[historical-references/renaissance|Renaissance]], [[historical-references/christianity|Christianity]], [[historical-references/ancient-greece|Ancient Greece]], [[historical-references/bible|Bible]], [[historical-references/kaiser-wilhelm-ii|Kaiser Wilhelm II]], [[historical-references/frederick-the-great|Frederick the Great]], [[historical-references/friedrich-nietzsche|Friedrich Nietzsche]], [[historical-references/houston-stewart-chamberlain|Houston Stewart Chamberlain]], [[historical-references/michelangelo|Michelangelo]]
 
 ## Testo integrale / Full text
 

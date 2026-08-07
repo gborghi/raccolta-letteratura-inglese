@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/bertha-mason"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/jane-eyre-(bronte)|Jane Eyre (Bronte)]]
+
+</div>
+
 #graph/character

@@ -20,18 +20,18 @@ tags:
   - histref/catholic_church
 ---
 
-*by Poe*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
+*by Poe*  ·  **Cluster:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > Devotional hymn to the Virgin Mary, invoking her grace through joy and the storms of fate at morn, noon, and twilight.
 
 ## Connections
 
-**Topoi:** [[Love as Religion]]
-**Motifs:** [[Storm]], [[Light and Dark]]
-**Themes & Concepts:** [[Faith]], [[Divine Love]], [[Grace and Redemption]], [[Providence]], [[Fate and Free Will]]
-**Forms & Genres:** [[Hymn]]
-**Historical References:** [[Christianity]], [[Catholic Church]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]]
+**Motifs:** [[motifs/storm|Storm]], [[motifs/light-and-dark|Light and Dark]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/divine-love|Divine Love]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/providence|Providence]], [[concepts/fate-and-free-will|Fate and Free Will]]
+**Forms & Genres:** [[forms/hymn|Hymn]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]]
 
 ## Testo integrale / Full text
 

@@ -1,6 +1,6 @@
 import test from "node:test"
 import assert from "node:assert/strict"
-import { buildShards, contentFor, chunkBySize } from "./build-search-shards.mjs"
+import { buildShards, contentFor, chunkBySize, isHiddenSlug } from "./build-search-shards.mjs"
 
 const master = {
   "works/w1": {
@@ -26,6 +26,30 @@ const master = {
     links: [],
     snippet: "excerpt table chrome",
     terms: [["excerpts", 1]],
+  },
+  "tags/amore": {
+    title: "Tag: amore",
+    slug: "tags/amore",
+    tags: [],
+    links: [],
+    snippet: "",
+    terms: [],
+  },
+  "tags/index": {
+    title: "Tag Index",
+    slug: "tags/index",
+    tags: [],
+    links: [],
+    snippet: "",
+    terms: [],
+  },
+  404: {
+    title: "404 — Not Found",
+    slug: "404",
+    tags: [],
+    links: [],
+    snippet: "not found chrome",
+    terms: [["found", 1]],
   },
   "testi/w1#a2": {
     title: "A2 — W1",
@@ -80,13 +104,37 @@ test("t3 delta = WORKS ONLY, {s,c}, top500/700 (atoms not re-shipped)", () => {
   assert.ok(!t3.entries.some((e) => e.s.includes("#"))) // atoms excluded
 })
 
-test("navigation shells (index, brani) are in no tier", () => {
+test("navigation shells (index, brani, 404, per-tag pages) are in no tier", () => {
   const shards = buildShards(master)
   for (const t of ["t0", "t1", "t2", "t3"]) {
     const slugs = shards[t].entries.map((e) => e.s)
     assert.ok(!slugs.includes("index"), `${t} still ships the homepage`)
     assert.ok(!slugs.includes("brani"), `${t} still ships the excerpt index`)
+    assert.ok(!slugs.includes("404"), `${t} still ships the 404 page`)
+    assert.ok(!slugs.includes("tags/amore"), `${t} still ships a per-tag shell`)
   }
+})
+
+test("the browsable tag index survives the per-tag cull", () => {
+  const { t0, t1, t3 } = buildShards(master)
+  for (const [name, shard] of [
+    ["t0", t0],
+    ["t1", t1],
+    ["t3", t3],
+  ]) {
+    assert.ok(
+      shard.entries.some((e) => e.s === "tags/index"),
+      `${name} dropped the tag index page`,
+    )
+  }
+})
+
+test("isHiddenSlug hides per-tag pages but not the tag index or real pages", () => {
+  assert.ok(isHiddenSlug("tags/amore"))
+  assert.ok(isHiddenSlug("404"))
+  assert.ok(!isHiddenSlug("tags/index"))
+  assert.ok(!isHiddenSlug("tags")) // the listing's own bare slug, if ever emitted
+  assert.ok(!isHiddenSlug("works/w1"))
 })
 
 test("chunkBySize splits into size-bounded contiguous buckets covering all entries", () => {

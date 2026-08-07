@@ -14,4 +14,10 @@ English novelist whose Jane Eyre and Wuthering Heights Chesterton reads as truth
 
 <div class="concept-works" data-slug="characters/charlotte-bronte"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+
+</div>
+
 #graph/character

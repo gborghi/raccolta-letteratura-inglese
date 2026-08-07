@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/launce"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-two-gentlemen-of-verona-(shakespeare)|THE TWO GENTLEMEN OF VERONA (Shakespeare)]]
+
+</div>
+
 #graph/character

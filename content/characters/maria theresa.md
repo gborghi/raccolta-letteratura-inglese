@@ -14,4 +14,11 @@ The Austrian empress presented as the one genuine, faith-driven resister of Fred
 
 <div class="concept-works" data-slug="characters/maria-theresa"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thecrimesofengland-(chesterton)|TheCrimesOfEngland (Chesterton)]]
+- [[works/marie-antoinette-(belloc)|Marie Antoinette (Belloc)]]
+
+</div>
+
 #graph/character

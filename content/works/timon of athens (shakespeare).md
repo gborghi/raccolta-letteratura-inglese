@@ -41,7 +41,7 @@ tags:
   - character/sempronius
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Misanthropy]]
+*by Shakespeare*  ·  **Cluster:** [[concepts/misanthropy|Misanthropy]]
 
 > [!abstract] 
 > A bitter, schematic tragedy/satire in which the lavishly generous Timon, abandoned by flattering friends once his wealth fails, turns misanthrope and curses humanity from the wilderness; themes of money, false friendship, ingratitude and misanthropy.
@@ -70,14 +70,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Fortune's Wheel]], [[Contemptus Mundi]], [[World Upside Down]]
-**Archetypes:** [[Outsider]], [[Tragic Hero]]
-**Motifs:** [[Money and Gold]], [[Food and Feasting]], [[Grave]], [[Animals]]
-**Themes & Concepts:** [[Misanthropy]], [[Friendship]], [[Satire of Society]], [[Social Injustice]], [[Alienation]], [[Deception]], [[Appearance vs Reality]], [[Mortality]], [[Pride]]
-**Forms & Genres:** [[Tragedy]], [[Satire]], [[Verse Drama]], [[Blank Verse]]
-**Historical References:** [[Classical Antiquity]], [[Ancient Greece]]
-**Settings:** [[Ancient Greece (2)]]
-**Characters:** [[Timon]], [[Apemantus]], [[Alcibiades]], [[Flavius]], [[Lucullus]], [[Lucius]], [[Sempronius]]
+**Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/contemptus-mundi|Contemptus Mundi]], [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/tragic-hero|Tragic Hero]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/grave|Grave]], [[motifs/animals|Animals]]
+**Themes & Concepts:** [[concepts/misanthropy|Misanthropy]], [[concepts/friendship|Friendship]], [[concepts/satire-of-society|Satire of Society]], [[concepts/social-injustice|Social Injustice]], [[concepts/alienation|Alienation]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/mortality|Mortality]], [[concepts/pride|Pride]]
+**Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/satire|Satire]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
+**Historical References:** [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/ancient-greece|Ancient Greece]]
+**Settings:** [[settings/ancient-greece-(2)|Ancient Greece (2)]]
+**Characters:** [[characters/timon|Timon]], [[characters/apemantus|Apemantus]], [[characters/alcibiades|Alcibiades]], [[characters/flavius|Flavius]], [[characters/lucullus|Lucullus]], [[characters/lucius|Lucius]], [[characters/sempronius|Sempronius]]
 
 ## Testo integrale / Full text
 

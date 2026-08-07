@@ -17,18 +17,18 @@ tags:
   - histref/eastern_religion
 ---
 
-*by Eliot*  ·  **Cluster:** [[Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
+*by Eliot*  ·  **Cluster:** [[clusters/spiritual-emptiness-·-waste-land-(sterility)-·-greek-tragedy|Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
 
 > [!abstract] 
 > Third section: the polluted Thames, Tiresias witnessing the typist's loveless seduction, the Thames-daughters and Augustine/Buddha's 'burning'; lust, sterility, the river and ascetic fire.
 
 ## Connections
 
-**Motifs:** [[River]], [[Fire]]
-**Themes & Concepts:** [[Waste Land (Sterility)]], [[Lust Sexual Desire]], [[Eastern Religion and Asceticism]]
-**Historical References:** [[Eastern Religion Comparative Religion]]
-**Settings:** [[London]]
-**Characters:** [[Tiresias]]
+**Motifs:** [[motifs/river|River]], [[motifs/fire|Fire]]
+**Themes & Concepts:** [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/eastern-religion-and-asceticism|Eastern Religion and Asceticism]]
+**Historical References:** [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/tiresias|Tiresias]]
 
 ## Testo integrale / Full text
 

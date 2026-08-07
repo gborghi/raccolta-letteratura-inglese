@@ -26,7 +26,7 @@ tags:
 
 # titanicGKC
 
-*by Chesterton*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
+*by Chesterton*  ·  **Cluster:** [[clusters/mortality-·-grave-·-memento-mori|Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > A ballade written for a 1912 Titanic benefit, insisting that beneath theatrical illusion 'there are real things' — death, courage and human reality break through the unreal.
@@ -37,13 +37,13 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Titanic Disaster (1912)]]
+**Historical References:** [[historical-references/titanic-disaster-(1912)|Titanic Disaster (1912)]]
 
-**Topoi:** [[Memento Mori]], [[Theatrum Mundi]], [[All the World's a Stage]], [[Sic Transit Gloria Mundi]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]], [[topoi/theatrum-mundi|Theatrum Mundi]], [[topoi/all-the-world's-a-stage|All the World's a Stage]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
 
-**Motifs:** [[Death]], [[Concealment Hidden Identity]], [[Drums and Bugles]], [[Clothing and Costume]]
-**Themes & Concepts:** [[Appearance vs Reality]], [[Mortality]], [[Heroism]], [[Truth]], [[Vanity of Worldly Things]]
-**Forms & Genres:** [[Ballad Ballade]]
+**Motifs:** [[motifs/death|Death]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/drums-and-bugles|Drums and Bugles]], [[motifs/clothing-and-costume|Clothing and Costume]]
+**Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/mortality|Mortality]], [[concepts/heroism|Heroism]], [[concepts/truth|Truth]], [[concepts/vanity-of-worldly-things|Vanity of Worldly Things]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]
 
 ## Testo integrale / Full text
 

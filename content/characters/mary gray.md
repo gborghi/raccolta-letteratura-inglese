@@ -14,4 +14,10 @@ Innocent Smith's true and only wife, repeatedly courted, abducted, and remarried
 
 <div class="concept-works" data-slug="characters/mary-gray"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/manalive-(chesterton)|manalive (Chesterton)]]
+
+</div>
+
 #graph/character

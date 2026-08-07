@@ -14,4 +14,11 @@ Divine self-disclosure to particular people in particular places, which Chestert
 
 <div class="concept-works" data-slug="concepts/revelation"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/christianity-and-rationalism-(chesterton)|Christianity and Rationalism (Chesterton)]]
+- [[works/the-new-revelation-(conan-doyle)|The New Revelation (Conan Doyle)]]
+
+</div>
+
 #graph/concept

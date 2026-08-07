@@ -14,4 +14,10 @@ A showy, grasping fortune-hunter in Our Mutual Friend whom Chesterton reads as a
 
 <div class="concept-works" data-slug="characters/mr.-lammle"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+
+</div>
+
 #graph/character

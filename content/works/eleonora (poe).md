@@ -29,7 +29,7 @@ tags:
   - setting/a_garden
 ---
 
-*by Poe*  ·  **Cluster:** [[Flowers · Spring · Garden]]
+*by Poe*  ·  **Cluster:** [[clusters/flowers-·-spring-·-garden|Flowers · Spring · Garden]]
 
 > [!abstract] 
 > Prose tale of innocent love in a paradisal valley, a dying beloved's vow, and a haunted narrator absolved for a second love.
@@ -39,12 +39,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Locus Amoenus]], [[Paradise Lost]], [[Fall from Innocence]]
-**Archetypes:** [[Lover]], [[Innocent]], [[Ghost]]
-**Motifs:** [[Garden]], [[Flowers]], [[River]], [[Death]], [[Serpent Snake]], [[Supernatural]]
-**Themes & Concepts:** [[Romantic Love]], [[Grief and Loss]], [[Marriage and Fidelity]], [[Madness]], [[Innocence and Experience]], [[Grace and Redemption]]
-**Forms & Genres:** [[Short Story]]
-**Settings:** [[Garden (2)]]
+**Topoi:** [[topoi/locus-amoenus|Locus Amoenus]], [[topoi/paradise-lost|Paradise Lost]], [[topoi/fall-from-innocence|Fall from Innocence]]
+**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/innocent|Innocent]], [[archetypes/ghost|Ghost]]
+**Motifs:** [[motifs/garden|Garden]], [[motifs/flowers|Flowers]], [[motifs/river|River]], [[motifs/death|Death]], [[motifs/serpent-snake|Serpent Snake]], [[motifs/supernatural|Supernatural]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/madness|Madness]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/grace-and-redemption|Grace and Redemption]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
+**Settings:** [[settings/garden-(2)|Garden (2)]]
 
 ## Testo integrale / Full text
 

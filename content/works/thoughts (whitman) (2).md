@@ -14,15 +14,15 @@ tags:
   - setting/america
 ---
 
-*by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
+*by Whitman*  ·  **Cluster:** [[clusters/nationalism-and-patriotism-·-democracy-·-liberty-political-freedom|Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
 > A free-verse catalogue on public opinion, the fall of corrupt officials and the rise of the democratic New World; themes of democracy and the common man.
 
 ## Connections
 
-**Themes & Concepts:** [[Democracy]], [[Power and Corruption]], [[Common Man]], [[Reform]]
-**Settings:** [[America]]
+**Themes & Concepts:** [[concepts/democracy|Democracy]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/common-man|Common Man]], [[concepts/reform|Reform]]
+**Settings:** [[settings/america|America]]
 
 ## Testo integrale / Full text
 

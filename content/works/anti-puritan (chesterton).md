@@ -24,7 +24,7 @@ tags:
 
 # anti-puritan
 
-*by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
+*by Chesterton*  ·  **Cluster:** [[clusters/wine-and-drink-·-ballad-ballade-·-road|Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 
 > A ballade with refrain ('Will someone take me to a pub?') mocking earnest Progressive reformers and celebrating fellowship, beer and the common man. Themes: satire of society, the common man, anti-puritanism, fellowship.
@@ -35,14 +35,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Ubi Sunt]]
+**Topoi:** [[topoi/ubi-sunt|Ubi Sunt]]
 
-**Characters:** [[Mrs Humphrey Ward]], [[Bayard]]
+**Characters:** [[characters/mrs-humphrey-ward|Mrs Humphrey Ward]], [[characters/bayard|Bayard]]
 
-**Motifs:** [[Wine and Drink]], [[Inn Tavern]], [[Food and Feasting]]
-**Themes & Concepts:** [[Satire of Society]], [[Common Man]], [[Critique of Progress]], [[Comradeship]]
-**Forms & Genres:** [[Ballad Ballade]], [[Satire]]
-**Historical References:** [[Puritanism]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/food-and-feasting|Food and Feasting]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/common-man|Common Man]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/comradeship|Comradeship]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/satire|Satire]]
+**Historical References:** [[historical-references/puritanism|Puritanism]]
 
 ## Testo integrale / Full text
 

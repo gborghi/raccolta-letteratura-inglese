@@ -115,9 +115,9 @@ So Mr. Pomeroy eventually went out into the night, thinking that after all youth
 THE END
 
 THE CABMAN’S STORY
-The Mysteries of a [[London]] “Growler”
+The Mysteries of a [[settings/london|London]] “Growler”
 We had to take a “growler,” for the day looked rather threatening and we agreed that it would be a very bad way of beginning our holiday by getting wet, especially when Fanny was only just coming round from the whooping cough. Holidays were rather scarce with us, and when we took one we generally arranged some little treat, and went in for enjoying ourselves. On this occasion we were starting off from Hammersmith to the Alexandra Palace in all the dignity of a four-wheeler. What with the wife and her sister, and Tommy and Fanny and Jack, the inside was pretty well filled up, so I had to look out for myself. I didn’t adopt the plan of John Gilpin under similar circumstances, but I took my waterproof and climbed up beside the driver.
-This driver was a knowing-looking old veteran, with a weather-beaten face and white side whiskers. It has always seemed to me that a [[London]] cabman is about the shrewdest of the human race, but this specimen struck me as looking like the shrewdest of the cabmen. I tried to draw him out a bit as we jogged along, for I am always fond of a chat; but he was a bit rusty until I oiled his tongue with glass of gin when we got as far as the “Green Anchor.” Then he rattled away quickly enough, and some of what he said is worth trying to put down in black and white.
+This driver was a knowing-looking old veteran, with a weather-beaten face and white side whiskers. It has always seemed to me that a [[settings/london|London]] cabman is about the shrewdest of the human race, but this specimen struck me as looking like the shrewdest of the cabmen. I tried to draw him out a bit as we jogged along, for I am always fond of a chat; but he was a bit rusty until I oiled his tongue with glass of gin when we got as far as the “Green Anchor.” Then he rattled away quickly enough, and some of what he said is worth trying to put down in black and white.
 “Wouldn’t a hansom pay me better?” he said, in answer to a question of mine. “Why, of course it would. But look at the position! A four-wheeler’s a respectable conveyance, and the driver of it’s a respectable man, but you can’t say that of a rattling, splashing ‘ansom. Any boy would do for that job. Now, to my mind money hain’t to be compared to position, whatever a man’s trade may be.”
 “Certainly not!” I answered.
 “Besides, I’ve saved my little penny, and I’m got too old to change my ways. I’ve begun on a growler, and I’ll end on one. If you’ll believe me, sir, I’ve been on the streets for seven-and-forty year.”
@@ -126,7 +126,7 @@ This driver was a knowing-looking old veteran, with a weather-beaten face and wh
 “You must have seen a deal of the world during that time,” I remarked. “There are few men who can have greater opportunities of seeing life.”
 “The world!” he grunted, flicking up the horse with his whip. “I’ve seen enough of it to be well-nigh sick of it. As to life, if you’d said death, you’d ha’ been nearer the mark.”
 “Death!” I ejaculated.
-“Yes, death,” he said. “Why, bless your soul, sir, if I was to write down all I’ve seen since I’ve been in the trade, there’s not a man in [[London]] would believe me, unless maybe some o’ the other cabbies. I tell ye I took a dead man for a fare once, and drove about with him nigh half the night. Oh, you needn’t look shocked, sir, for this wasn’t the cab — no, nor the last one I had neither.”
+“Yes, death,” he said. “Why, bless your soul, sir, if I was to write down all I’ve seen since I’ve been in the trade, there’s not a man in [[settings/london|London]] would believe me, unless maybe some o’ the other cabbies. I tell ye I took a dead man for a fare once, and drove about with him nigh half the night. Oh, you needn’t look shocked, sir, for this wasn’t the cab — no, nor the last one I had neither.”
 “How did it happen?” I asked, feeling glad, in spite of his assurance, that Matilda had not heard of the episode.
 “Well, it’s an old story now,” said the driver, putting a small piece of very black tobacco into the corner of his mouth. “I daresay it’s twenty odd years since it happened, but it’s not the kind o’ thing as slips out of a man’s memory. It was very late one night, and I was working my hardest to pick up something good, for I’d made a poor day’s work of it. The theatres had all come out, and though I kept up and down the Strand till nigh one o’clock, I got nothing but one eighteenpenny job. I was thinking of giving it up and going home, when it struck me that I might as well make a bit of a circuit, and see if I couldn’t drop across something. Pretty soon I gave a gentleman a lift as far as the Oxford Road, and then I drove through St. John’s Wood on my way home. By that time it would be about half-past one, and the streets were quite quiet and deserted, for the night was cloudy and it was beginning to rain. I was putting on the pace as well as my tired beast would go, for we both wanted to get back to our suppers, when I heard a woman’s voice hail me out of a side street. I turned back, and there in about the darkest part of the road was standing two ladies — real ladies, mind you, for it would take a deal of darkness before I would mistake one for the other. One was elderly and stoutish; the other was young, and had a veil over her face. Between them there was a man in evening dress, whom they were supporting on each side, while his back was propped up against a lamp-post. He seemed beyond taking care of himself altogether, for his head was sunk down on his chest, and he’d have fallen if they hadn’t held him.
 “‘Cabman,’ said the stout lady, with a very shaky voice, ‘I wish you would help us in this painful business.’ Those were her very hidentical words.
@@ -207,7 +207,7 @@ MY FRIEND THE MURDERER
 THE MAN FROM ARCHANGEL
 THAT LITTLE SQUARE BOX.
 THE AMERICAN’S TALE
-BONES. THE APRIL [[Fool|FOOL]] OF HARVEY’S SLUICE
+BONES. THE APRIL [[archetypes/fool|FOOL]] OF HARVEY’S SLUICE
 THE MYSTERY OF SASASSA VALLEY
 OUR DERBY SWEEPSTAKES
 SELECTING A GHOST. THE GHOSTS OF GORESTHORPE GRANGE
@@ -379,7 +379,7 @@ AN ICONOCLAST.
 B. 24
 BEHIND THE TIMES
 BEHIND THE TIMES.
-BONES. THE APRIL [[Fool|FOOL]] OF HARVEY’S SLUICE
+BONES. THE APRIL [[archetypes/fool|FOOL]] OF HARVEY’S SLUICE
 BORROWED SCENES
 CAPTAIN SHARKEY.
 CAPTAIN SHARKEY: HOW THE GOVERNOR OF SAINT KITT’S CAME HOME
@@ -654,7 +654,7 @@ THE END
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Racconti brevi inediti
+Racconti brevi inediti
 
 **La Rivista Parrocchiale**  
 Erano le sei di una sera d’inverno. Il signor Pomeroy, l’impresore, stava per lasciare il suo ufficio – che si trovava nella stanza sul retro della casa – per tornare a casa, situata nella parte anteriore dell’edificio, quando entrò il giovane Murphy. Murphy era un ragazzo tranquillo, con un viso paffuto e occhi sonnolenti; aveva la rara qualità di obbedire senza mai fare domande a chi gli dava ordini. Di solito questa è una grande virtù, ma ci sono delle eccezioni.  
@@ -754,9 +754,9 @@ Fine.
 
 
 THE CABMAN’S STORY
-The Mysteries of a [[London]] “Growler”
+The Mysteries of a [[settings/london|London]] “Growler”
 We had to take a “growler,” for the day looked rather threatening and we agreed that it would be a very bad way of beginning our holiday by getting wet, especially when Fanny was only just coming round from the whooping cough. Holidays were rather scarce with us, and when we took one we generally arranged some little treat, and went in for enjoying ourselves. On this occasion we were starting off from Hammersmith to the Alexandra Palace in all the dignity of a four-wheeler. What with the wife and her sister, and Tommy and Fanny and Jack, the inside was pretty well filled up, so I had to look out for myself. I didn’t adopt the plan of John Gilpin under similar circumstances, but I took my waterproof and climbed up beside the driver.
-This driver was a knowing-looking old veteran, with a weather-beaten face and white side whiskers. It has always seemed to me that a [[London]] cabman is about the shrewdest of the human race, but this specimen struck me as looking like the shrewdest of the cabmen. I tried to draw him out a bit as we jogged along, for I am always fond of a chat; but he was a bit rusty until I oiled his tongue with glass of gin when we got as far as the “Green Anchor.” Then he rattled away quickly enough, and some of what he said is worth trying to put down in black and white.
+This driver was a knowing-looking old veteran, with a weather-beaten face and white side whiskers. It has always seemed to me that a [[settings/london|London]] cabman is about the shrewdest of the human race, but this specimen struck me as looking like the shrewdest of the cabmen. I tried to draw him out a bit as we jogged along, for I am always fond of a chat; but he was a bit rusty until I oiled his tongue with glass of gin when we got as far as the “Green Anchor.” Then he rattled away quickly enough, and some of what he said is worth trying to put down in black and white.
 “Wouldn’t a hansom pay me better?” he said, in answer to a question of mine. “Why, of course it would. But look at the position! A four-wheeler’s a respectable conveyance, and the driver of it’s a respectable man, but you can’t say that of a rattling, splashing ‘ansom. Any boy would do for that job. Now, to my mind money hain’t to be compared to position, whatever a man’s trade may be.”
 “Certainly not!” I answered.
 “Besides, I’ve saved my little penny, and I’m got too old to change my ways. I’ve begun on a growler, and I’ll end on one. If you’ll believe me, sir, I’ve been on the streets for seven-and-forty year.”
@@ -765,7 +765,7 @@ This driver was a knowing-looking old veteran, with a weather-beaten face and wh
 “You must have seen a deal of the world during that time,” I remarked. “There are few men who can have greater opportunities of seeing life.”
 “The world!” he grunted, flicking up the horse with his whip. “I’ve seen enough of it to be well-nigh sick of it. As to life, if you’d said death, you’d ha’ been nearer the mark.”
 “Death!” I ejaculated.
-“Yes, death,” he said. “Why, bless your soul, sir, if I was to write down all I’ve seen since I’ve been in the trade, there’s not a man in [[London]] would believe me, unless maybe some o’ the other cabbies. I tell ye I took a dead man for a fare once, and drove about with him nigh half the night. Oh, you needn’t look shocked, sir, for this wasn’t the cab — no, nor the last one I had neither.”
+“Yes, death,” he said. “Why, bless your soul, sir, if I was to write down all I’ve seen since I’ve been in the trade, there’s not a man in [[settings/london|London]] would believe me, unless maybe some o’ the other cabbies. I tell ye I took a dead man for a fare once, and drove about with him nigh half the night. Oh, you needn’t look shocked, sir, for this wasn’t the cab — no, nor the last one I had neither.”
 “How did it happen?” I asked, feeling glad, in spite of his assurance, that Matilda had not heard of the episode.
 “Well, it’s an old story now,” said the driver, putting a small piece of very black tobacco into the corner of his mouth. “I daresay it’s twenty odd years since it happened, but it’s not the kind o’ thing as slips out of a man’s memory. It was very late one night, and I was working my hardest to pick up something good, for I’d made a poor day’s work of it. The theatres had all come out, and though I kept up and down the Strand till nigh one o’clock, I got nothing but one eighteenpenny job. I was thinking of giving it up and going home, when it struck me that I might as well make a bit of a circuit, and see if I couldn’t drop across something. Pretty soon I gave a gentleman a lift as far as the Oxford Road, and then I drove through St. John’s Wood on my way home. By that time it would be about half-past one, and the streets were quite quiet and deserted, for the night was cloudy and it was beginning to rain. I was putting on the pace as well as my tired beast would go, for we both wanted to get back to our suppers, when I heard a woman’s voice hail me out of a side street. I turned back, and there in about the darkest part of the road was standing two ladies — real ladies, mind you, for it would take a deal of darkness before I would mistake one for the other. One was elderly and stoutish; the other was young, and had a veil over her face. Between them there was a man in evening dress, whom they were supporting on each side, while his back was propped up against a lamp-post. He seemed beyond taking care of himself altogether, for his head was sunk down on his chest, and he’d have fallen if they hadn’t held him.
 “‘Cabman,’ said the stout lady, with a very shaky voice, ‘I wish you would help us in this painful business.’ Those were her very hidentical words.
@@ -825,7 +825,7 @@ I misteri di un “cocchiere londinese” Dovevamo prendere una vettura a quattr
 “Devete aver visto molto del mondo in questi anni, ” dissi. “Pochi hanno avuto tante opportunità di osservare la vita umana, ”  
 “Il mondo,?” grugnì, battendo il frustino sul cavallo. “Ne ho visto abbastanza da esserne quasi nauseato. Per quanto riguarda la vita, se aveste detto ‘morte’, sareste stato più vicino alla verità.”  
 “Morte, ” esclamai.
-“Sì, la morte,” disse. “Perché, per l’amor del cielo, signore, se dovessi scrivere tutto quello che ho visto da quando faccio questo lavoro, nessuno a [[London|Londra]] mi crederebbe, tranne forse alcuni altri tassisti. Vi dico che una volta ho portato con me un morto come passeggero e l’ho accompagnato per quasi metà della notte. Oh, non occorre che vi sorprendiate, signore, perché non si trattava di quella cabina, né dell’ultima che avevo.”  
+“Sì, la morte,” disse. “Perché, per l’amor del cielo, signore, se dovessi scrivere tutto quello che ho visto da quando faccio questo lavoro, nessuno a [[settings/london|Londra]] mi crederebbe, tranne forse alcuni altri tassisti. Vi dico che una volta ho portato con me un morto come passeggero e l’ho accompagnato per quasi metà della notte. Oh, non occorre che vi sorprendiate, signore, perché non si trattava di quella cabina, né dell’ultima che avevo.”  
 “Come è successo?” chiesi, sentendomi sollevato, nonostante le sue parole, dal fatto che Matilda non avesse saputo nulla di quell’episodio.  
 “Beh, ormai è una vecchia storia,” disse il tassista, mettendosi in bocca un pezzetto di tabacco molto nero. “Devono essere passati vent’anni. Ma non sono cose che si dimenticano facilmente. Era molto tardi quella notte; stavo cercando disperatamente di fare qualche lavoro redditizio, visto che quel giorno non avevo guadagnato quasi nulla. Tutti i teatri avevano già chiuso. Ho girato su e giù per lo Strand fino a quasi l’una di notte, ma ho ottenuto solo un lavoro da diciotto penny. Stavo pensando di arrendermi e tornare a casa quando mi è venuta in mente l’idea di provare ancora una volta. Presto dopo, ho accompagnato un signore fino all’Oxford Road, poi sono passato per St. John’s Wood tornando a casa. Erano già le undici e mezza; le strade erano deserte e buie. Poi ho sentito la voce di una donna che mi chiamava da una strada laterale. Mi sono girato. Lì, nella parte più oscura della strada, c’erano due signore, vere signore, ve lo assicuro. Una era anziana e robusta; l’altra giovane, con un velo sul viso. Tra loro c’era un uomo in abito da sera; entrambe le donne lo sostenevano ai lati, mentre lui si appoggiava a un lampione. Sembrava completamente incapace di muoversi da solo. La testa gli pendeva sul petto. Se non fossero state lì ad aiutarlo, sarebbe caduto.”  
 “‘Tassista,’ disse la signora robusta, con una voce molto tremante, ‘le chiediamo di aiutarci in questa situazione dolorosa.’ Queste furono esattamente le sue parole, ”
@@ -906,7 +906,7 @@ MY FRIEND THE MURDERER
 THE MAN FROM ARCHANGEL
 THAT LITTLE SQUARE BOX.
 THE AMERICAN’S TALE
-BONES. THE APRIL [[Fool|FOOL]] OF HARVEY’S SLUICE
+BONES. THE APRIL [[archetypes/fool|FOOL]] OF HARVEY’S SLUICE
 THE MYSTERY OF SASASSA VALLEY
 OUR DERBY SWEEPSTAKES
 SELECTING A GHOST. THE GHOSTS OF GORESTHORPE GRANGE
@@ -1078,7 +1078,7 @@ AN ICONOCLAST.
 B. 24
 BEHIND THE TIMES
 BEHIND THE TIMES.
-BONES. THE APRIL [[Fool|FOOL]] OF HARVEY’S SLUICE
+BONES. THE APRIL [[archetypes/fool|FOOL]] OF HARVEY’S SLUICE
 BORROWED SCENES
 CAPTAIN SHARKEY.
 CAPTAIN SHARKEY: HOW THE GOVERNOR OF SAINT KITT’S CAME HOME
@@ -1242,12 +1242,12 @@ The Opera
 J.M Barrie, Conan Doyle’s friend and collaborator
 
 JANE ANNIE, OR THE GOOD CONDUCT PRIZE
-This comic opera was written in 1893 by Barrie and Arthur Conan Doyle (of Sherlock Holmes fame), with music by Ernest Ford, a conductor and occasional composer.  When the Gilbert and Sullivan partnership disbanded after the production of The Gondoliers in 1889, impresario Richard D’Oyly Carte was forced to find new works to present at the Savoy Theatre. Barrie was then a journalist and a novelist with a few popular books to his credit. He had not yet created his classic Peter Pan, and his only stage productions included a biography that closed after one night, a parody of new-to-[[London]] Henrik Ibsen, and in 1892 his first real success, Walker, [[London]] for Toole’s Theatre.  Barrie brought his idea for Jane Annie to D’Oyly Carte, who suggested that Arthur Sullivan collaborate with him, but Sullivan suggested his former pupil Ford, instead. Ford had composed several operettas, including the one-act Mr. Jericho (premiered at the Savoy in 1893). Barrie did not finish the libretto, suffering a nervous breakdown. His friend Conan Doyle was already popular for his Sherlock Holmes mysteries and so he took on the job of finishing the opera.
+This comic opera was written in 1893 by Barrie and Arthur Conan Doyle (of Sherlock Holmes fame), with music by Ernest Ford, a conductor and occasional composer.  When the Gilbert and Sullivan partnership disbanded after the production of The Gondoliers in 1889, impresario Richard D’Oyly Carte was forced to find new works to present at the Savoy Theatre. Barrie was then a journalist and a novelist with a few popular books to his credit. He had not yet created his classic Peter Pan, and his only stage productions included a biography that closed after one night, a parody of new-to-[[settings/london|London]] Henrik Ibsen, and in 1892 his first real success, Walker, [[settings/london|London]] for Toole’s Theatre.  Barrie brought his idea for Jane Annie to D’Oyly Carte, who suggested that Arthur Sullivan collaborate with him, but Sullivan suggested his former pupil Ford, instead. Ford had composed several operettas, including the one-act Mr. Jericho (premiered at the Savoy in 1893). Barrie did not finish the libretto, suffering a nervous breakdown. His friend Conan Doyle was already popular for his Sherlock Holmes mysteries and so he took on the job of finishing the opera.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Racconti brevi  
+Racconti brevi  
 Windlesham Manor, Crowborough: la dimora di Conan Doyle negli ultimi anni della sua vita
 
 Elenco di racconti in ordine cronologico  
@@ -1571,4 +1571,4 @@ L’Opera
 J.M. Barrie, amico e collaboratore di Conan Doyle
 
 **JANE ANNIE, O IL PREMIO PER LA BUONA CONDotta**  
-Questa operetta fu scritta nel 1893 da Barrie e Arthur Conan Doyle (noto per Sherlock Holmes), con musiche di Ernest Ford, direttore d’orchestra e compositore occasionale. Quando la collaborazione tra Gilbert e Sullivan terminò dopo la rappresentazione di *I gondolieri* nel 1889, l’impresario Richard D’Oyly Carte dovette trovare nuove opere da presentare al Savoy Theatre. A quel tempo Barrie era un giornalista e romanziere con alcuni libri di successo alle spalle; non aveva ancora creato il suo classico *Peter Pan*, e le sue uniche produzioni teatrali includevano una biografia che andò in scena per una sola sera, una parodia di Henrik Ibsen appena arrivato a [[London|Londra]] e, nel 1892, il suo primo vero successo: *Walker, Londra* per il Toole’s Theatre. Barrie presentò l’idea di *Jane Annie* a D’Oyly Carte, che suggerì ad Arthur Sullivan di collaborare con lui; tuttavia Sullivan propose invece il proprio ex allievo Ernest Ford. Ford aveva già composto diverse operette, tra cui la monodramma *Mr. Jericho* (prima rappresentata al Savoy nel 1893). Barrie non riuscì a completare il libretto a causa di un crollo nervoso; suo amico Conan Doyle, già famoso per le sue storie di Sherlock Holmes, si occupò quindi della conclusione dell’opera.
+Questa operetta fu scritta nel 1893 da Barrie e Arthur Conan Doyle (noto per Sherlock Holmes), con musiche di Ernest Ford, direttore d’orchestra e compositore occasionale. Quando la collaborazione tra Gilbert e Sullivan terminò dopo la rappresentazione di *I gondolieri* nel 1889, l’impresario Richard D’Oyly Carte dovette trovare nuove opere da presentare al Savoy Theatre. A quel tempo Barrie era un giornalista e romanziere con alcuni libri di successo alle spalle; non aveva ancora creato il suo classico *Peter Pan*, e le sue uniche produzioni teatrali includevano una biografia che andò in scena per una sola sera, una parodia di Henrik Ibsen appena arrivato a [[settings/london|Londra]] e, nel 1892, il suo primo vero successo: *Walker, Londra* per il Toole’s Theatre. Barrie presentò l’idea di *Jane Annie* a D’Oyly Carte, che suggerì ad Arthur Sullivan di collaborare con lui; tuttavia Sullivan propose invece il proprio ex allievo Ernest Ford. Ford aveva già composto diverse operette, tra cui la monodramma *Mr. Jericho* (prima rappresentata al Savoy nel 1893). Barrie non riuscì a completare il libretto a causa di un crollo nervoso; suo amico Conan Doyle, già famoso per le sue storie di Sherlock Holmes, si occupò quindi della conclusione dell’opera.

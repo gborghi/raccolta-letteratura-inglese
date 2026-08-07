@@ -27,7 +27,7 @@ tags:
   - setting/the_castle
 ---
 
-*by Poe*  ·  **Cluster:** [[Terror and Horror · Madness]]
+*by Poe*  ·  **Cluster:** [[clusters/terror-and-horror-·-madness|Terror and Horror · Madness]]
 
 > [!abstract] 
 > A gothic horror tale in which the monomaniac Egaeus, obsessed with his dying cousin Berenice's teeth, violates her premature grave to extract them; explores madness, obsession, decay, and the horror of the body.
@@ -47,12 +47,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Memento Mori]]
-**Archetypes:** [[Outsider]]
-**Motifs:** [[Madness (2)]], [[Grave]], [[Decay]], [[Death]], [[Memory]], [[Book Reading]], [[Eyes and Sight]]
-**Themes & Concepts:** [[Madness]], [[Terror and Horror]], [[Grief and Loss]], [[Identity]], [[Uncanny]], [[Mortality]]
-**Forms & Genres:** [[Short Story]], [[Gothic Novel]]
-**Settings:** [[Castle]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]
+**Archetypes:** [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/grave|Grave]], [[motifs/decay|Decay]], [[motifs/death|Death]], [[motifs/memory|Memory]], [[motifs/book-reading|Book Reading]], [[motifs/eyes-and-sight|Eyes and Sight]]
+**Themes & Concepts:** [[concepts/madness|Madness]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/identity|Identity]], [[concepts/uncanny|Uncanny]], [[concepts/mortality|Mortality]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/gothic-novel|Gothic Novel]]
+**Settings:** [[settings/castle|Castle]]
 
 ## Testo integrale / Full text
 

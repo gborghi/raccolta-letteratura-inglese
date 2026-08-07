@@ -14,4 +14,10 @@ The old-fashioned family physician and confirmed agnostic who tends the Carleon 
 
 <div class="concept-works" data-slug="characters/doctor-grimthorpe"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/magic-(chesterton)|Magic (Chesterton)]]
+
+</div>
+
 #graph/character

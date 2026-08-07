@@ -14,4 +14,10 @@ A tall, dark newcomer to the inn who is won over by Gale's paradoxical vision an
 
 <div class="concept-works" data-slug="characters/diana-westermaine"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lovers-(chesterton)|lovers (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -37,19 +37,19 @@ tags:
 
 Raccolta tematica di 13 componimenti di Walt Whitman.
 
-- [[From Paumanok Starting I Fly Like a Bird (Whitman)|From Paumanok Starting I Fly Like a Bird]]
-- [[Italian Music in Dakota (Whitman)|Italian Music in Dakota]]
-- [[My Canary Bird (Whitman)|My Canary Bird]]
-- [[Of That Blithe Throat of Thine (Whitman)|Of That Blithe Throat of Thine]]
-- [[One Hour to Madness and Joy (Whitman)|One Hour to Madness and Joy]]
-- [[Proud Music of the Storm (Whitman)|Proud Music of the Storm]]
-- [[Reversals (Whitman)|Reversals]]
-- [[That Music Always Round Me (Whitman)|That Music Always Round Me]]
-- [[The Dalliance of the Eagles (Whitman)|The Dalliance of the Eagles]]
-- [[The Ox-Tamer (Whitman)|The Ox-Tamer]]
-- [[To the Man-of-War-Bird (Whitman)|To the Man-of-War-Bird]]
-- [[Vocalism (Whitman)|Vocalism]]
-- [[Wandering at Morn (Whitman)|Wandering at Morn]]
+- [[testi/whitman/atomized/birds-music-and-song-nightingale#145_from_paumanok_starting_i_fly_like_a_bird|From Paumanok Starting I Fly Like a Bird]]
+- [[testi/whitman/atomized/birds-music-and-song-nightingale#225_italian_music_in_dakota|Italian Music in Dakota]]
+- [[testi/whitman/atomized/birds-music-and-song-nightingale#302_my_canary_bird|My Canary Bird]]
+- [[testi/whitman/atomized/birds-music-and-song-nightingale#319_of_that_blithe_throat_of_thine|Of That Blithe Throat of Thine]]
+- [[testi/whitman/atomized/birds-music-and-song-nightingale#032_one_hour_to_madness_and_joy|One Hour to Madness and Joy]]
+- [[testi/whitman/atomized/birds-music-and-song-nightingale#229_proud_music_of_the_storm|Proud Music of the Storm]]
+- [[testi/whitman/atomized/birds-music-and-song-nightingale#190_reversals|Reversals]]
+- [[testi/whitman/atomized/birds-music-and-song-nightingale#243_that_music_always_round_me|That Music Always Round Me]]
+- [[testi/whitman/atomized/birds-music-and-song-nightingale#125_the_dalliance_of_the_eagles|The Dalliance of the Eagles]]
+- [[testi/whitman/atomized/birds-music-and-song-nightingale#222_the_ox_tamer|The Ox-Tamer]]
+- [[testi/whitman/atomized/birds-music-and-song-nightingale#105_to_the_man_of_war_bird|To the Man-of-War-Bird]]
+- [[testi/whitman/atomized/birds-music-and-song-nightingale#204_vocalism|Vocalism]]
+- [[testi/whitman/atomized/birds-music-and-song-nightingale#224_wandering_at_morn|Wandering at Morn]]
 
 ## Testo / Text
 

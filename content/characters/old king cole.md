@@ -14,4 +14,10 @@ The legendary merry monarch of the nursery rhyme, recast as the central figure a
 
 <div class="concept-works" data-slug="characters/old-king-cole"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/kingcole-(chesterton)|kingcole (Chesterton)]]
+
+</div>
+
 #graph/character

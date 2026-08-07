@@ -17,16 +17,16 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
+*by Poe*  ·  **Cluster:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > A short love lyric making the clear river an emblem of the beloved's beauty and unhidden heart, her image deep in the speaker's trembling heart. Themes of love, beauty, water and reflection.
 
 ## Connections
 
-**Motifs:** [[River]], [[Water]], [[Mirror]], [[Eyes and Sight]], [[Love]]
-**Themes & Concepts:** [[Romantic Love]], [[Beauty]]
-**Forms & Genres:** [[Lyric]]
+**Motifs:** [[motifs/river|River]], [[motifs/water|Water]], [[motifs/mirror|Mirror]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/love|Love]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/beauty|Beauty]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

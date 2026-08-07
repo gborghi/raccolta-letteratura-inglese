@@ -18,21 +18,21 @@ The Dry Salvages 1941
 
 
 I  
-    I do not know much about gods; but I think that the [[River|river]]  
+    I do not know much about gods; but I think that the [[motifs/river|river]]  
 Is a strong brown god — sullen, untamed and intractable,  
 Patient to some degree, at first recognised as a frontier;  
 Useful, untrustworthy, as a conveyor of commerce;  
 Then only a problem confronting the builder of bridges.  
 The problem once solved, the brown god is almost forgotten  
 By the dwellers in cities — ever, however, implacable,  
-Keeping his [[Seasons|seasons]] and rages, destroyer, reminder  
+Keeping his [[motifs/seasons|seasons]] and rages, destroyer, reminder  
 Of what men choose to forget. Unhonoured, unpropitiated  
-By worshippers of the [[Machine|machine]], but waiting, watching and waiting.  
+By worshippers of the [[motifs/machine|machine]], but waiting, watching and waiting.  
 His rhythm was present in the nursery bedroom,  
 In the rank ailanthus of the April dooryard,  
-In the smell of grapes on the [[Autumn|autumn]] table,  
-And the evening circle in the [[Winter|winter]] gaslight.  
-    The [[River|river]] is within us, the sea is all about us;  
+In the smell of grapes on the [[motifs/autumn|autumn]] table,  
+And the evening circle in the [[motifs/winter|winter]] gaslight.  
+    The [[motifs/river|river]] is within us, the sea is all about us;  
 The sea is the land’s edge also, the granite  
 Into which it reaches, the beaches where it tosses  
 Its hints of earlier and other creation:  
@@ -43,53 +43,53 @@ It tosses up our losses, the torn seine,
 The shattered lobsterpot, the broken oar  
 And the gear of foreign dead men. The sea has many voices,  
 Many gods and many voices.  
-                                               The salt is on the briar [[Rose|rose]],  
+                                               The salt is on the briar [[motifs/rose|rose]],  
 The fog is in the fir trees.  
                                             The sea howl  
 And the sea yelp, are different voices  
 Often together heard: the whine in the rigging,  
-The menace and caress of wave that breaks on [[Water|water]],  
+The menace and caress of wave that breaks on [[motifs/water|water]],  
 The distant rote in the granite teeth,  
 And the wailing warning from the approaching headland  
-Are all [[Sea Voices|sea voices]], and the heaving groaner  
+Are all sea voices, and the heaving groaner  
 Rounded homewards, and the seagull:  
 And under the oppression of the silent fog  
 The tolling bell  
-Measures [[Time|time]] not our [[Time|time]], rung by the unhurried  
-Ground swell, a [[Time|time]]  
-Older than the [[Time|time]] of chronometers, older  
-Than [[Time|time]] counted by anxious worried women  
+Measures [[motifs/time|time]] not our [[motifs/time|time]], rung by the unhurried  
+Ground swell, a [[motifs/time|time]]  
+Older than the [[motifs/time|time]] of chronometers, older  
+Than [[motifs/time|time]] counted by anxious worried women  
 Lying awake, calculating the future,  
 Trying to unweave, unwind, unravel  
 And piece together the past and the future,  
-Between midnight and [[Dawn|dawn]], when the past is all [[Deception|deception]],  
+Between midnight and [[motifs/dawn|dawn]], when the past is all [[concepts/deception|deception]],  
 The future futureless, before the morning watch  
-When [[Time|time]] stops and [[Time|time]] is never ending;  
+When [[motifs/time|time]] stops and [[motifs/time|time]] is never ending;  
 And the ground swell, that is and was from the beginning,  
 Clangs  
 The bell.  
 II  
     Where is there an end of it, the soundless wailing,  
-The silent withering of [[Autumn|autumn]] [[Flowers|flowers]]  
+The silent withering of [[motifs/autumn|autumn]] [[motifs/flowers|flowers]]  
 Dropping their petals and remaining motionless;  
 Where is there an end to the drifting wreckage,  
-The [[prayer]] of the bone on the beach, the unprayable  
-[[prayer|Prayer]] at the calamitous annunciation?  
+The [[motifs/prayer|prayer]] of the bone on the beach, the unprayable  
+[[motifs/prayer|Prayer]] at the calamitous annunciation?  
     There is no end, but addition: the trailing  
 Consequence of further days and hours,  
 While emotion takes to itself the emotionless  
 Years of living among the breakage  
 Of what was believed in as the most reliable —  
-And therefore the fittest for [[Renunciation|renunciation]].  
+And therefore the fittest for [[concepts/renunciation|renunciation]].  
     There is the final addition, the failing  
-[[Pride]] or resentment at failing powers,  
+[[concepts/pride|Pride]] or resentment at failing powers,  
 The unattached devotion which might pass for devotionless,  
 In a drifting boat with a slow leakage,  
 The silent listening to the undeniable  
 Clamour of the bell of the last annunciation.  
     Where is the end of them, the fishermen sailing  
-Into the [[Wind|wind]]’s tail, where the fog cowers?  
-We cannot think of a [[Time|time]] that is oceanless  
+Into the [[motifs/wind|wind]]’s tail, where the fog cowers?  
+We cannot think of a [[motifs/time|time]] that is oceanless  
 Or of an ocean not littered with wastage  
 Or of a future that is not liable  
 Like the past, to have no destination.  
@@ -100,17 +100,17 @@ Or drawing their money, drying sails at dockage;
 Not as making a trip that will be unpayable  
 For a haul that will not bear examination.  
     There is no end of it, the voiceless wailing,  
-No end to the withering of withered [[Flowers|flowers]],  
-To the movement of [[Pain|pain]] that is painless and motionless,  
+No end to the withering of withered [[motifs/flowers|flowers]],  
+To the movement of [[motifs/pain|pain]] that is painless and motionless,  
 To the drift of the sea and the drifting wreckage,  
-The bone’s [[prayer]] to [[Death]] its God. Only the hardly, barely prayable  
-[[prayer|Prayer]] of the one Annunciation.  
+The bone’s [[motifs/prayer|prayer]] to [[motifs/death|Death]] its God. Only the hardly, barely prayable  
+[[motifs/prayer|Prayer]] of the one Annunciation.  
     It seems, as one becomes older,  
 That the past has another pattern, and ceases to be a mere sequence —  
 Or even development: the latter a partial fallacy  
 Encouraged by superficial notions of evolution‚  
 Which becomes, in the popular mind, a means of disowning the past.  
-The moments of happiness — not the sense of [[Well|well]]-being,  
+The moments of happiness — not the sense of [[motifs/well|well]]-being,  
 Fruition, fulfilment, security or affection,  
 Or even a very good dinner, but the sudden illumination —  
 We had the experience but missed the meaning,  
@@ -122,21 +122,21 @@ Is not the experience of one life only
 But of many generations — not forgetting  
 Something that is probably quite ineffable:  
 The backward look behind the assurance  
-Of recorded [[history]], the backward half-look  
+Of recorded [[concepts/history|history]], the backward half-look  
 Over the shoulder, towards the primitive terror.  
 Now, we come to discover that the moments of agony  
 (Whether, or not, due to misunderstanding,  
 Having hoped for the wrong things or dreaded the wrong things,  
 Is not the question) are likewise permanent  
-With such permanence as [[Time|time]] has. We appreciate this better  
+With such permanence as [[motifs/time|time]] has. We appreciate this better  
 In the agony of others, nearly experienced,  
 Involving ourselves, than in our own.  
 For our own past is covered by the currents of action,  
 But the torment of others remains an experience  
 Unqualified, unworn by subsequent attrition.  
 People change, and smile: but the agony abides.  
-[[Time]] the destroyer is [[Time|time]] the preserver,  
-Like the [[River|river]] with its cargo of dead negroes, cows and chicken coops,  
+[[motifs/time|Time]] the destroyer is [[motifs/time|time]] the preserver,  
+Like the [[motifs/river|river]] with its cargo of dead negroes, cows and chicken coops,  
 The bitter apple and the bite in the apple.  
 And the ragged rock in the restless waters,  
 Waves wash over it, fogs conceal it;  
@@ -145,14 +145,14 @@ In navigable weather it is always a seamark
 To lay a course by: but in the sombre season  
 Or the sudden fury, is what it always was.  
 III  
-I sometimes [[Wonder|wonder]] if that is what Krishna meant —  
+I sometimes [[concepts/wonder|wonder]] if that is what Krishna meant —  
 Among other things — or one way of putting the same thing:  
-That the future is a faded [[Song|song]], a Royal [[Rose]] or a lavender spray  
+That the future is a faded song, a Royal [[motifs/rose|Rose]] or a lavender spray  
 Of wistful regret for those who are not yet here to regret,  
-Pressed between yellow [[Leaves|leaves]] of a book that has never been opened.  
+Pressed between yellow [[motifs/leaves|leaves]] of a book that has never been opened.  
 And the way up is the way down, the way forward is the way back.  
 You cannot face it steadily, but this thing is sure,  
-That [[Time|time]] is no healer: the patient is no longer here.  
+That [[motifs/time|time]] is no healer: the patient is no longer here.  
 When the train starts, and the passengers are settled  
 To fruit, periodicals and business letters  
 (And those who saw them off have left the platform)  
@@ -169,18 +169,18 @@ You shall not think ‘the past is finished’
 Or ‘the future is before us’.  
 At nightfall, in the rigging and the aerial,  
 Is a voice descanting (though not to the ear,  
-The murmuring shell of [[Time|time]], and not in any language)  
+The murmuring shell of [[motifs/time|time]], and not in any language)  
 ‘Fare forward, you who think that you are voyaging;  
 You are not those who saw the harbour  
 Receding, or those who will disembark.  
 Here between the hither and the farther shore  
-While [[Time|time]] is withdrawn, consider the future  
+While [[motifs/time|time]] is withdrawn, consider the future  
 And the past with an equal mind.  
 At the moment which is not of action or inaction  
 You can receive this: “on whatever sphere of being  
 The mind of a man may be intent  
-At the [[Time|time]] of [[Death|death]]” — that is the one action  
-(And the [[Time|time]] of [[Death|death]] is every moment)  
+At the [[motifs/time|time]] of [[motifs/death|death]]” — that is the one action  
+(And the [[motifs/time|time]] of [[motifs/death|death]] is every moment)  
 Which shall fructify in the lives of others:  
 And do not think of the fruit of action.  
 Fare forward.  
@@ -190,7 +190,7 @@ Will suffer the trial and judgement of the sea,
 Or whatever event, this is your real destination.’  
 So Krishna, as when he admonished Arjuna  
 On the field of battle.  
-                                    Not fare [[Well|well]],  
+                                    Not fare [[motifs/well|well]],  
 But fare forward, voyagers.  
 IV  
     Lady, whose shrine stands on the promontory,  
@@ -198,11 +198,11 @@ Pray for all those who are in ships, those
 Whose business has to do with fish, and  
 Those concerned with every lawful traffic  
 And those who conduct them.  
-    Repeat a [[prayer]] also on behalf of  
+    Repeat a [[motifs/prayer|prayer]] also on behalf of  
 Women who have seen their sons or husbands  
 Setting forth, and not returning:  
 Figlia del tuo figlio,  
-[[Queen]] of Heaven.  
+[[characters/queen|Queen]] of Heaven.  
     Also pray for those who were in ships, and  
 Ended their voyage on the sand, in the sea’s lips  
 Or in the dark throat which will not reject them  
@@ -210,38 +210,38 @@ Or wherever cannot reach them the sound of the sea bell’s
 Perpetual angelus.  
 V  
 To communicate with Mars, converse with spirits,  
-To report the behaviour of the sea [[Monster|monster]],  
+To report the behaviour of the sea [[archetypes/monster|monster]],  
 Describe the horoscope, haruspicate or scry,  
 Observe disease in signatures, evoke  
-[[Biography]] from the wrinkles of the palm  
-And [[Tragedy|tragedy]] from fingers; release omens  
-By sortilege, or tea [[Leaves|leaves]], [[Riddle|riddle]] the inevitable  
+[[forms/biography|Biography]] from the wrinkles of the palm  
+And [[forms/tragedy|tragedy]] from fingers; release omens  
+By sortilege, or tea [[motifs/leaves|leaves]], [[forms/riddle|riddle]] the inevitable  
 With playing cards, fiddle with pentagrams  
 Or barbituric acids, or dissect  
 The recurrent image into pre-conscious terrors —  
-To explore the womb, or tomb, or [[Dreams|dreams]]; all these are usual  
+To explore the womb, or tomb, or [[motifs/dreams|dreams]]; all these are usual  
 Pastimes and drugs, and features of the press:  
 And always will be, some of them especially  
 When there is distress of nations and perplexity  
-Whether on the shores of Asia, or in the Edgware [[Road]].  
+Whether on the shores of Asia, or in the Edgware [[motifs/road|Road]].  
 Men’s curiosity searches past and future  
 And clings to that dimension. But to apprehend  
 The point of intersection of the timeless  
-With [[Time|time]], is an occupation for the saint —  
+With [[motifs/time|time]], is an occupation for the saint —  
 No occupation either, but something given  
-And taken, in a lifetime’s [[Death|death]] in [[Love|love]],  
-Ardour and selflessness and [[Self|self]]-surrender.  
+And taken, in a lifetime’s [[motifs/death|death]] in [[motifs/love|love]],  
+Ardour and selflessness and [[concepts/self|self]]-surrender.  
 For most of us, there is only the unattended  
-Moment, the moment in and out of [[Time|time]],  
+Moment, the moment in and out of [[motifs/time|time]],  
 The distraction fit, lost in a shaft of sunlight,  
-The wild thyme unseen, or the [[Winter|winter]] [[Lightning|lightning]]  
+The wild thyme unseen, or the [[motifs/winter|winter]] [[motifs/lightning|lightning]]  
 Or the waterfall, or music heard so deeply  
 That it is not heard at all, but you are the music  
 While the music lasts. These are only hints and guesses,  
 Hints followed by guesses; and the rest  
-Is [[prayer]], observance, discipline, thought and action.  
+Is [[motifs/prayer|prayer]], observance, discipline, thought and action.  
 The hint half guessed, the gift half understood, is Incarnation.  
-Here the impossible [[Union|union]]  
+Here the impossible [[concepts/union|union]]  
 Of spheres of existence is actual,  
 Here the past and future  
 Are conquered, and reconciled,  
@@ -249,7 +249,7 @@ Where action were otherwise movement
 Of that which is only moved  
 And has in it no source of movement —  
 Driven by dæmonic, chthonic  
-Powers. And right action is [[Freedom|freedom]]  
+Powers. And right action is [[concepts/freedom|freedom]]  
 From past and future also.  
 For most of us, this is the aim  
 Never here to be realised;  
@@ -267,21 +267,21 @@ The life of significant soil.
 
 
 I  
-    I do not know much about gods; but I think that the [[River|river]]  
+    I do not know much about gods; but I think that the [[motifs/river|river]]  
 Is a strong brown god — sullen, untamed and intractable,  
 Patient to some degree, at first recognised as a frontier;  
 Useful, untrustworthy, as a conveyor of commerce;  
 Then only a problem confronting the builder of bridges.  
 The problem once solved, the brown god is almost forgotten  
 By the dwellers in cities — ever, however, implacable,  
-Keeping his [[Seasons|seasons]] and rages, destroyer, reminder  
+Keeping his [[motifs/seasons|seasons]] and rages, destroyer, reminder  
 Of what men choose to forget. Unhonoured, unpropitiated  
-By worshippers of the [[Machine|machine]], but waiting, watching and waiting.  
+By worshippers of the [[motifs/machine|machine]], but waiting, watching and waiting.  
 His rhythm was present in the nursery bedroom,  
 In the rank ailanthus of the April dooryard,  
-In the smell of grapes on the [[Autumn|autumn]] table,  
-And the evening circle in the [[Winter|winter]] gaslight.  
-    The [[River|river]] is within us, the sea is all about us;  
+In the smell of grapes on the [[motifs/autumn|autumn]] table,  
+And the evening circle in the [[motifs/winter|winter]] gaslight.  
+    The [[motifs/river|river]] is within us, the sea is all about us;  
 The sea is the land’s edge also, the granite  
 Into which it reaches, the beaches where it tosses  
 Its hints of earlier and other creation:  
@@ -292,28 +292,28 @@ It tosses up our losses, the torn seine,
 The shattered lobsterpot, the broken oar  
 And the gear of foreign dead men. The sea has many voices,  
 Many gods and many voices.  
-                                               The salt is on the briar [[Rose|rose]],  
+                                               The salt is on the briar [[motifs/rose|rose]],  
 The fog is in the fir trees.  
                                             The sea howl  
 And the sea yelp, are different voices  
 Often together heard: the whine in the rigging,  
-The menace and caress of wave that breaks on [[Water|water]],  
+The menace and caress of wave that breaks on [[motifs/water|water]],  
 The distant rote in the granite teeth,  
 And the wailing warning from the approaching headland  
-Are all [[Sea Voices|sea voices]], and the heaving groaner  
+Are all sea voices, and the heaving groaner  
 Rounded homewards, and the seagull:  
 And under the oppression of the silent fog  
 The tolling bell  
-Measures [[Time|time]] not our [[Time|time]], rung by the unhurried  
-Ground swell, a [[Time|time]]  
-Older than the [[Time|time]] of chronometers, older  
-Than [[Time|time]] counted by anxious worried women  
+Measures [[motifs/time|time]] not our [[motifs/time|time]], rung by the unhurried  
+Ground swell, a [[motifs/time|time]]  
+Older than the [[motifs/time|time]] of chronometers, older  
+Than [[motifs/time|time]] counted by anxious worried women  
 Lying awake, calculating the future,  
 Trying to unweave, unwind, unravel  
 And piece together the past and the future,  
-Between midnight and [[Dawn|dawn]], when the past is all [[Deception|deception]],  
+Between midnight and [[motifs/dawn|dawn]], when the past is all [[concepts/deception|deception]],  
 The future futureless, before the morning watch  
-When [[Time|time]] stops and [[Time|time]] is never ending;  
+When [[motifs/time|time]] stops and [[motifs/time|time]] is never ending;  
 And the ground swell, that is and was from the beginning,  
 Clangs  
 The bell.  
@@ -326,26 +326,26 @@ The bell.
 
 II  
     Where is there an end of it, the soundless wailing,  
-The silent withering of [[Autumn|autumn]] [[Flowers|flowers]]  
+The silent withering of [[motifs/autumn|autumn]] [[motifs/flowers|flowers]]  
 Dropping their petals and remaining motionless;  
 Where is there an end to the drifting wreckage,  
-The [[prayer]] of the bone on the beach, the unprayable  
-[[prayer|Prayer]] at the calamitous annunciation?  
+The [[motifs/prayer|prayer]] of the bone on the beach, the unprayable  
+[[motifs/prayer|Prayer]] at the calamitous annunciation?  
     There is no end, but addition: the trailing  
 Consequence of further days and hours,  
 While emotion takes to itself the emotionless  
 Years of living among the breakage  
 Of what was believed in as the most reliable —  
-And therefore the fittest for [[Renunciation|renunciation]].  
+And therefore the fittest for [[concepts/renunciation|renunciation]].  
     There is the final addition, the failing  
-[[Pride]] or resentment at failing powers,  
+[[concepts/pride|Pride]] or resentment at failing powers,  
 The unattached devotion which might pass for devotionless,  
 In a drifting boat with a slow leakage,  
 The silent listening to the undeniable  
 Clamour of the bell of the last annunciation.  
     Where is the end of them, the fishermen sailing  
-Into the [[Wind|wind]]’s tail, where the fog cowers?  
-We cannot think of a [[Time|time]] that is oceanless  
+Into the [[motifs/wind|wind]]’s tail, where the fog cowers?  
+We cannot think of a [[motifs/time|time]] that is oceanless  
 Or of an ocean not littered with wastage  
 Or of a future that is not liable  
 Like the past, to have no destination.  
@@ -356,17 +356,17 @@ Or drawing their money, drying sails at dockage;
 Not as making a trip that will be unpayable  
 For a haul that will not bear examination.  
     There is no end of it, the voiceless wailing,  
-No end to the withering of withered [[Flowers|flowers]],  
-To the movement of [[Pain|pain]] that is painless and motionless,  
+No end to the withering of withered [[motifs/flowers|flowers]],  
+To the movement of [[motifs/pain|pain]] that is painless and motionless,  
 To the drift of the sea and the drifting wreckage,  
-The bone’s [[prayer]] to [[Death]] its God. Only the hardly, barely prayable  
-[[prayer|Prayer]] of the one Annunciation.  
+The bone’s [[motifs/prayer|prayer]] to [[motifs/death|Death]] its God. Only the hardly, barely prayable  
+[[motifs/prayer|Prayer]] of the one Annunciation.  
     It seems, as one becomes older,  
 That the past has another pattern, and ceases to be a mere sequence —  
 Or even development: the latter a partial fallacy  
 Encouraged by superficial notions of evolution‚  
 Which becomes, in the popular mind, a means of disowning the past.  
-The moments of happiness — not the sense of [[Well|well]]-being,  
+The moments of happiness — not the sense of [[motifs/well|well]]-being,  
 Fruition, fulfilment, security or affection,  
 Or even a very good dinner, but the sudden illumination —  
 We had the experience but missed the meaning,  
@@ -378,21 +378,21 @@ Is not the experience of one life only
 But of many generations — not forgetting  
 Something that is probably quite ineffable:  
 The backward look behind the assurance  
-Of recorded [[history]], the backward half-look  
+Of recorded [[concepts/history|history]], the backward half-look  
 Over the shoulder, towards the primitive terror.  
 Now, we come to discover that the moments of agony  
 (Whether, or not, due to misunderstanding,  
 Having hoped for the wrong things or dreaded the wrong things,  
 Is not the question) are likewise permanent  
-With such permanence as [[Time|time]] has. We appreciate this better  
+With such permanence as [[motifs/time|time]] has. We appreciate this better  
 In the agony of others, nearly experienced,  
 Involving ourselves, than in our own.  
 For our own past is covered by the currents of action,  
 But the torment of others remains an experience  
 Unqualified, unworn by subsequent attrition.  
 People change, and smile: but the agony abides.  
-[[Time]] the destroyer is [[Time|time]] the preserver,  
-Like the [[River|river]] with its cargo of dead negroes, cows and chicken coops,  
+[[motifs/time|Time]] the destroyer is [[motifs/time|time]] the preserver,  
+Like the [[motifs/river|river]] with its cargo of dead negroes, cows and chicken coops,  
 The bitter apple and the bite in the apple.  
 And the ragged rock in the restless waters,  
 Waves wash over it, fogs conceal it;  
@@ -408,14 +408,14 @@ Or the sudden fury, is what it always was.
 
 
 III  
-I sometimes [[Wonder|wonder]] if that is what Krishna meant —  
+I sometimes [[concepts/wonder|wonder]] if that is what Krishna meant —  
 Among other things — or one way of putting the same thing:  
-That the future is a faded [[Song|song]], a Royal [[Rose]] or a lavender spray  
+That the future is a faded song, a Royal [[motifs/rose|Rose]] or a lavender spray  
 Of wistful regret for those who are not yet here to regret,  
-Pressed between yellow [[Leaves|leaves]] of a book that has never been opened.  
+Pressed between yellow [[motifs/leaves|leaves]] of a book that has never been opened.  
 And the way up is the way down, the way forward is the way back.  
 You cannot face it steadily, but this thing is sure,  
-That [[Time|time]] is no healer: the patient is no longer here.  
+That [[motifs/time|time]] is no healer: the patient is no longer here.  
 When the train starts, and the passengers are settled  
 To fruit, periodicals and business letters  
 (And those who saw them off have left the platform)  
@@ -432,18 +432,18 @@ You shall not think ‘the past is finished’
 Or ‘the future is before us’.  
 At nightfall, in the rigging and the aerial,  
 Is a voice descanting (though not to the ear,  
-The murmuring shell of [[Time|time]], and not in any language)  
+The murmuring shell of [[motifs/time|time]], and not in any language)  
 ‘Fare forward, you who think that you are voyaging;  
 You are not those who saw the harbour  
 Receding, or those who will disembark.  
 Here between the hither and the farther shore  
-While [[Time|time]] is withdrawn, consider the future  
+While [[motifs/time|time]] is withdrawn, consider the future  
 And the past with an equal mind.  
 At the moment which is not of action or inaction  
 You can receive this: “on whatever sphere of being  
 The mind of a man may be intent  
-At the [[Time|time]] of [[Death|death]]” — that is the one action  
-(And the [[Time|time]] of [[Death|death]] is every moment)  
+At the [[motifs/time|time]] of [[motifs/death|death]]” — that is the one action  
+(And the [[motifs/time|time]] of [[motifs/death|death]] is every moment)  
 Which shall fructify in the lives of others:  
 And do not think of the fruit of action.  
 Fare forward.  
@@ -453,7 +453,7 @@ Will suffer the trial and judgement of the sea,
 Or whatever event, this is your real destination.’  
 So Krishna, as when he admonished Arjuna  
 On the field of battle.  
-                                    Not fare [[Well|well]],  
+                                    Not fare [[motifs/well|well]],  
 But fare forward, voyagers.  
 
 
@@ -468,11 +468,11 @@ Pray for all those who are in ships, those
 Whose business has to do with fish, and  
 Those concerned with every lawful traffic  
 And those who conduct them.  
-    Repeat a [[prayer]] also on behalf of  
+    Repeat a [[motifs/prayer|prayer]] also on behalf of  
 Women who have seen their sons or husbands  
 Setting forth, and not returning:  
 Figlia del tuo figlio,  
-[[Queen]] of Heaven.  
+[[characters/queen|Queen]] of Heaven.  
     Also pray for those who were in ships, and  
 Ended their voyage on the sand, in the sea’s lips  
 Or in the dark throat which will not reject them  
@@ -487,38 +487,38 @@ Perpetual angelus.
 
 V  
 To communicate with Mars, converse with spirits,  
-To report the behaviour of the sea [[Monster|monster]],  
+To report the behaviour of the sea [[archetypes/monster|monster]],  
 Describe the horoscope, haruspicate or scry,  
 Observe disease in signatures, evoke  
-[[Biography]] from the wrinkles of the palm  
-And [[Tragedy|tragedy]] from fingers; release omens  
-By sortilege, or tea [[Leaves|leaves]], [[Riddle|riddle]] the inevitable  
+[[forms/biography|Biography]] from the wrinkles of the palm  
+And [[forms/tragedy|tragedy]] from fingers; release omens  
+By sortilege, or tea [[motifs/leaves|leaves]], [[forms/riddle|riddle]] the inevitable  
 With playing cards, fiddle with pentagrams  
 Or barbituric acids, or dissect  
 The recurrent image into pre-conscious terrors —  
-To explore the womb, or tomb, or [[Dreams|dreams]]; all these are usual  
+To explore the womb, or tomb, or [[motifs/dreams|dreams]]; all these are usual  
 Pastimes and drugs, and features of the press:  
 And always will be, some of them especially  
 When there is distress of nations and perplexity  
-Whether on the shores of Asia, or in the Edgware [[Road]].  
+Whether on the shores of Asia, or in the Edgware [[motifs/road|Road]].  
 Men’s curiosity searches past and future  
 And clings to that dimension. But to apprehend  
 The point of intersection of the timeless  
-With [[Time|time]], is an occupation for the saint —  
+With [[motifs/time|time]], is an occupation for the saint —  
 No occupation either, but something given  
-And taken, in a lifetime’s [[Death|death]] in [[Love|love]],  
-Ardour and selflessness and [[Self|self]]-surrender.  
+And taken, in a lifetime’s [[motifs/death|death]] in [[motifs/love|love]],  
+Ardour and selflessness and [[concepts/self|self]]-surrender.  
 For most of us, there is only the unattended  
-Moment, the moment in and out of [[Time|time]],  
+Moment, the moment in and out of [[motifs/time|time]],  
 The distraction fit, lost in a shaft of sunlight,  
-The wild thyme unseen, or the [[Winter|winter]] [[Lightning|lightning]]  
+The wild thyme unseen, or the [[motifs/winter|winter]] [[motifs/lightning|lightning]]  
 Or the waterfall, or music heard so deeply  
 That it is not heard at all, but you are the music  
 While the music lasts. These are only hints and guesses,  
 Hints followed by guesses; and the rest  
-Is [[prayer]], observance, discipline, thought and action.  
+Is [[motifs/prayer|prayer]], observance, discipline, thought and action.  
 The hint half guessed, the gift half understood, is Incarnation.  
-Here the impossible [[Union|union]]  
+Here the impossible [[concepts/union|union]]  
 Of spheres of existence is actual,  
 Here the past and future  
 Are conquered, and reconciled,  
@@ -526,7 +526,7 @@ Where action were otherwise movement
 Of that which is only moved  
 And has in it no source of movement —  
 Driven by dæmonic, chthonic  
-Powers. And right action is [[Freedom|freedom]]  
+Powers. And right action is [[concepts/freedom|freedom]]  
 From past and future also.  
 For most of us, this is the aim  
 Never here to be realised;  

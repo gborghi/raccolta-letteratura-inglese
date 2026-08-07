@@ -24,7 +24,7 @@ tags:
   - histref/scopes_trial
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > 1925 essay on the Scopes 'Monkey Trial' defending tradition and Fundamentalism's instinct against fashionable Darwinism, built around the meaning of paradox. Themes: faith and doubt, critique of progress, tradition, satire.
@@ -34,9 +34,9 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Paradox]], [[Critique of Progress]], [[Faith and Doubt]], [[Satire of Society]], [[Nostalgia]], [[Democracy]], [[Common Man]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Bible]], [[Scopes Trial]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/satire-of-society|Satire of Society]], [[concepts/nostalgia|Nostalgia]], [[concepts/democracy|Democracy]], [[concepts/common-man|Common Man]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/aphorism|Aphorism]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/scopes-trial|Scopes Trial]]
 
 ## Testo integrale / Full text
 

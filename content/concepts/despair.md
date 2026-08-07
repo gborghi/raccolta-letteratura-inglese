@@ -12,4 +12,23 @@ tags:
 
 <div class="concept-works" data-slug="concepts/despair"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/suicide-(chesterton)|suicide (Chesterton)]]
+- [[works/diabolist-(chesterton)|diabolist (Chesterton)]]
+- [[works/intro-pilgrims-progress-(chesterton)|intro-pilgrims-progress (Chesterton)]]
+- [[works/manalive-(chesterton)|manalive (Chesterton)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#1123_a_great_hope_fell|1123. A great Hope fell (Dickinson)]]
+- [[testi/dickinson/atomized/christianity-faith-and-doubt-doubt#0376_of_course_i_prayed|376. Of Course — I prayed — (Dickinson)]]
+- [[testi/dickinson/atomized/joy-animals-comic-verse-song#0393_did_our_best_moment_last|393. Did Our Best Moment last — (Dickinson)]]
+- [[testi/dickinson/atomized/war-and-its-cost-american-civil-war-battlefield#0759_he_fought_like_those_whove_nought_to_lose|759. He fought like those Who've nought to lose — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0761_from_blank_to_blank|761. From Blank to Blank — (Dickinson)]]
+- [[testi/dickinson/atomized/seasons-winter-autumn#0768_when_i_hoped_i_recollect|768. When I hoped, I recollect (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0770_i_lived_on_dread|770. I lived on Dread — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0786_severer_service_of_myself|786. Severer Service of myself (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0799_despairs_advantage_is_achieved|799. Despair's advantage is achieved (Dickinson)]]
+- [[testi/dickinson/atomized/mortality-grave-memento-mori#0858_this_chasm_sweet_upon_my_life|858. This Chasm, Sweet, upon my life (Dickinson)]]
+
+</div>
+
 #graph/concept

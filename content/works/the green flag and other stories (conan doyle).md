@@ -31,7 +31,7 @@ tags:
   - archetype/rebel
   - topos/combat_strife
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Adventure Fiction · Empire and Imperialism · Peril and Survival]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/adventure-fiction-·-empire-and-imperialism-·-peril-and-survival|Adventure Fiction · Empire and Imperialism · Peril and Survival]]
 
 > [!abstract] 
 > A collection opening with the title story of a disaffected Irish regiment redeemed by loyalty to its own green flag during a desert battle against dervishes, followed by pirate tales of the sadistic Captain Sharkey, a boxing story ('The Croxley Master'), and other adventure and romance pieces ranging from the Napoleonic era to colonial Africa.
@@ -56,11 +56,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Short Story]], [[Adventure Fiction]]
-**Themes & Concepts:** [[Empire and Imperialism]], [[Nationalism and Patriotism]], [[Honour]], [[Courage]], [[Greed and Money]], [[Economics]]
-**Motifs:** [[Flag]], [[Flags and Banners]], [[Sea]], [[Blood]], [[Ship]], [[Sea and Voyage]]
-**Historical References:** [[British Empire]]
-**Settings:** [[Africa]], [[Ship]], [[Ireland]]
-**Characters:** [[Captain Sharkey]]
-**Archetypes:** [[Hero]], [[Villain]], [[Rebel]]
-**Topoi:** [[Combat Strife]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/adventure-fiction|Adventure Fiction]]
+**Themes & Concepts:** [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/honour|Honour]], [[concepts/courage|Courage]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/flag|Flag]], [[motifs/flags-and-banners|Flags and Banners]], [[motifs/sea|Sea]], [[motifs/blood|Blood]], [[motifs/ship|Ship]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/africa|Africa]], [[motifs/ship|Ship]], [[settings/ireland|Ireland]]
+**Characters:** [[characters/captain-sharkey|Captain Sharkey]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/villain|Villain]], [[archetypes/rebel|Rebel]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]]

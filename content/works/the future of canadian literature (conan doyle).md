@@ -28,20 +28,20 @@ tags:
   - archetype/the_writer
   - topos/poet_as_prophet
 ---
-*by Conan Doyle*  ·  **Cluster:** [[War and Empire · History · Nationalism and Patriotism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/war-and-empire-·-history-·-nationalism-and-patriotism|War and Empire · History · Nationalism and Patriotism]]
 
 > [!abstract] 
 > A 1914 lecture delivered to the Canadian Club in Montreal, in which Doyle reflects on the historical rhythms of literary flowering, arguing that great literature only follows a long 'seed-time' of national struggle and practical achievement. He offers advice on style, vocabulary, patience with criticism, and predicts that Canada's coming literary greatness will follow, not precede, its material and nation-building labors.
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Nonfiction]]
-**Themes & Concepts:** [[Artist and Society]], [[Creativity and Artistic Labor]], [[Nationalism and Patriotism]], [[Tradition]], [[History]]
-**Motifs:** [[Book Reading]]
-**Historical References:** [[George Bernard Shaw]], [[George Meredith]], [[Robert Louis Stevenson]]
-**Settings:** [[Canada]]
-**Characters:** [[George Bernard Shaw]], [[George Meredith]], [[Robert Louis Stevenson]], [[H.G. Wells]]
-**Archetypes:** [[The Writer]]
-**Topoi:** [[Poet as Prophet]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/creativity-and-artistic-labor|Creativity and Artistic Labor]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/tradition|Tradition]], [[concepts/history|History]]
+**Motifs:** [[motifs/book-reading|Book Reading]]
+**Historical References:** [[historical-references/george-bernard-shaw|George Bernard Shaw]], [[historical-references/george-meredith|George Meredith]], [[historical-references/robert-louis-stevenson|Robert Louis Stevenson]]
+**Settings:** [[settings/canada|Canada]]
+**Characters:** [[historical-references/george-bernard-shaw|George Bernard Shaw]], [[historical-references/george-meredith|George Meredith]], [[historical-references/robert-louis-stevenson|Robert Louis Stevenson]], [[historical-references/h.g.-wells|H.G. Wells]]
+**Archetypes:** [[archetypes/the-writer|The Writer]]
+**Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
 
-**Also relevant to:** [[Self-Knowledge · Immortality · Self-Reliance]]
+**Also relevant to:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]

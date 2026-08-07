@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/miss-havisham"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/charlesdickens-(chesterton)|CharlesDickens (Chesterton)]]
+- [[works/great-expectations-(dickens)|Great Expectations (Dickens)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,11 @@ Chesterton's recurring critical category distinguishing Dickens's sincere pathos
 
 <div class="concept-works" data-slug="concepts/sentimentality"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/belinda-(belloc)|Belinda (Belloc)]]
+
+</div>
+
 #graph/concept

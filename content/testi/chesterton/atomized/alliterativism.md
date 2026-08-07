@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="alliterativism" data-title="alliterativism" data-chapter="" data-kind="intro"></span>
 
 
-[[alliterativism|ALLITERATIVISM]] (1914)  
+ALLITERATIVISM (1914)  
 
 (THE LATEST SCHOOL)  
 
@@ -23,7 +23,7 @@ BAVARIA, VIOLATING BELGIAN NEUTRALITY
 --Stated on German authority in the "Westminster Gazette")  
 
 SEE the flying French depart  
-Like the [[Bees|bees]] of Bonaparte,  
+Like the [[motifs/bees|bees]] of Bonaparte,  
 Swarming up with a most venomous vitality.  
 Over Baden and Bavaria,  
 And Brighton and Bulgaria,  
@@ -40,13 +40,13 @@ By pure Alliteration
 You may trace this curious nation,  
 And respect this somewhat scattered Principality;  
 When you see a B in Both  
-You may take your [[Bible]] oath  
+You may take your [[historical-references/bible|Bible]] oath  
 You are violating Belgian neutrality.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[alliterativism|ALLITTERATIVISMO]] (1914)  
+ALLITTERATIVISMO (1914)  
 
 (L'ULTIMA SCUOLA)  
 
@@ -55,7 +55,7 @@ BAVIERA, VIOLANDO LA NEUTRALITÀ BELGA
 --Secondo fonte tedesca, sulla "Westminster Gazette")  
 
 GUARDA i francesi in volo partire  
-come le [[Bees|api]] di Bonaparte,  
+come le [[motifs/bees|api]] di Bonaparte,  
 sciamando in alto con velenosissima vitalità.  
 Su Baden e Baviera,  
 e Brighton e Bulgaria,  
@@ -72,7 +72,7 @@ Per pura Allitterazione
 puoi rintracciare questa curiosa nazione,  
 e rispettare questo alquanto sparso Principato;  
 quando vedi una B in Both  
-puoi giurare sulla [[Bible|Bibbia]]  
+puoi giurare sulla [[historical-references/bible|Bibbia]]  
 che stai violando la neutralità belga.
 
 
@@ -80,7 +80,7 @@ che stai violando la neutralità belga.
 <span class="atom-split" data-atom="part--part_01" data-title="alliterativism (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/bees,histref/bible"></span>
 
 
-[[alliterativism|ALLITERATIVISM]] (1914)  
+ALLITERATIVISM (1914)  
 
 (THE LATEST SCHOOL)  
 
@@ -89,7 +89,7 @@ BAVARIA, VIOLATING BELGIAN NEUTRALITY
 --Stated on German authority in the "Westminster Gazette")  
 
 SEE the flying French depart  
-Like the [[Bees|bees]] of Bonaparte,  
+Like the [[motifs/bees|bees]] of Bonaparte,  
 Swarming up with a most venomous vitality.  
 Over Baden and Bavaria,  
 And Brighton and Bulgaria,  
@@ -106,13 +106,13 @@ By pure Alliteration
 You may trace this curious nation,  
 And respect this somewhat scattered Principality;  
 When you see a B in Both  
-You may take your [[Bible]] oath  
+You may take your [[historical-references/bible|Bible]] oath  
 You are violating Belgian neutrality.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[alliterativism|ALLITTERATIVISMO]] (1914)  
+ALLITTERATIVISMO (1914)  
 
 (L'ULTIMA SCUOLA)  
 
@@ -121,7 +121,7 @@ BAVIERA, VIOLANDO LA NEUTRALITÀ BELGA
 --Secondo fonte tedesca, sulla "Westminster Gazette")  
 
 GUARDA i francesi in volo partire  
-come le [[Bees|api]] di Bonaparte,  
+come le [[motifs/bees|api]] di Bonaparte,  
 sciamando in alto con velenosissima vitalità.  
 Su Baden e Baviera,  
 e Brighton e Bulgaria,  
@@ -138,5 +138,5 @@ Per pura Allitterazione
 puoi rintracciare questa curiosa nazione,  
 e rispettare questo alquanto sparso Principato;  
 quando vedi una B in Both  
-puoi giurare sulla [[Bible|Bibbia]]  
+puoi giurare sulla [[historical-references/bible|Bibbia]]  
 che stai violando la neutralità belga.

@@ -14,4 +14,10 @@ The cautious young hero of Kidnapped and Catriona, whose Whiggish sympathies Che
 
 <div class="concept-works" data-slug="characters/david-balfour"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/robert-louis-stevenson-(chesterton)|Robert Louis Stevenson (Chesterton)]]
+
+</div>
+
 #graph/character

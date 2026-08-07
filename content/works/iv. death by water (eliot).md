@@ -15,16 +15,16 @@ tags:
   - topos/memento_mori
 ---
 
-*by Eliot*  ·  **Cluster:** [[Sea · Water]]
+*by Eliot*  ·  **Cluster:** [[clusters/sea-·-water|Sea · Water]]
 
 > [!abstract] 
 > Short fourth section: Phlebas the Phoenician drowned, his bones picked by a current under sea; mortality, the sea, vanitas and the indifference of death to profit and loss.
 
 ## Connections
 
-**Topoi:** [[Vanitas]], [[Memento Mori]]
-**Motifs:** [[Sea]], [[Water]], [[Wheel]]
-**Themes & Concepts:** [[Mortality]]
+**Topoi:** [[topoi/vanitas|Vanitas]], [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/water|Water]], [[motifs/wheel|Wheel]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]]
 
 ## Testo integrale / Full text
 

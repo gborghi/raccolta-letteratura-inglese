@@ -14,4 +14,11 @@ The Surrey pamphleteer and radical-Tory hero of Chapter V who denounced German m
 
 <div class="concept-works" data-slug="characters/william-cobbett"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thecrimesofengland-(chesterton)|TheCrimesOfEngland (Chesterton)]]
+- [[works/william-cobbett-(chesterton)|William Cobbett (Chesterton)]]
+
+</div>
+
 #graph/character

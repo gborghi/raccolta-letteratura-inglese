@@ -48,7 +48,7 @@ tags:
   - histref/eastern_religion_comparative_religion
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > An apologetic essay (from The Everlasting Man) on the Nativity in the cave, contrasting Christianity with pagan myth and philosophy, dwelling on shepherds, Magi, and the paradox of God born homeless.
@@ -67,15 +67,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Tyrant]], [[Wise Old Man Sage]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
 
-**Topoi:** [[World Upside Down]], [[Quest]], [[Golden Age]]
-**Motifs:** [[Grave]], [[Stars]], [[Ghosts]], [[Supernatural]], [[Light and Dark]]
-**Themes & Concepts:** [[Paradox]], [[Divine Love]], [[Humility]], [[Faith and Doubt]], [[Wonder and Gratitude]], [[Common Man]], [[Slavery]], [[Individualism]], [[Paganism and Classical Revival]], [[Good vs Evil]], [[Truth]], [[History]]
-**Forms & Genres:** [[Apologetics]], [[Essay]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Greek Mythology]], [[Bible]], [[Ancient Greece]], [[Ancient Rome]], [[Eastern Religion Comparative Religion]]
-**Settings:** [[Underworld Cave]], [[Orient]], [[Ancient Rome]], [[Ancient Greece (2)]]
-**Characters:** [[Christ]], [[Herod]], [[Magi]], [[Shepherds]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/quest|Quest]], [[topoi/golden-age|Golden Age]]
+**Motifs:** [[motifs/grave|Grave]], [[motifs/stars|Stars]], [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[motifs/light-and-dark|Light and Dark]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/divine-love|Divine Love]], [[concepts/humility|Humility]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/common-man|Common Man]], [[concepts/slavery|Slavery]], [[concepts/individualism|Individualism]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/truth|Truth]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/apologetics|Apologetics]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/bible|Bible]], [[historical-references/ancient-greece|Ancient Greece]], [[settings/ancient-rome|Ancient Rome]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]]
+**Settings:** [[settings/underworld-cave|Underworld Cave]], [[settings/orient|Orient]], [[settings/ancient-rome|Ancient Rome]], [[settings/ancient-greece-(2)|Ancient Greece (2)]]
+**Characters:** [[characters/christ|Christ]], [[characters/herod|Herod]], [[characters/magi|Magi]], [[characters/shepherds|Shepherds]]
 
 ## Testo integrale / Full text
 

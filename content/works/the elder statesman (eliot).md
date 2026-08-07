@@ -23,18 +23,18 @@ tags:
   - character/federico_gomez
 ---
 
-*by Eliot*  ·  **Cluster:** [[Guilt · Conscience · Fate and Free Will]]
+*by Eliot*  ·  **Cluster:** [[clusters/guilt-·-conscience-·-fate-and-free-will|Guilt · Conscience · Fate and Free Will]]
 
 > [!abstract] 
 > Eliot's last verse drama: the retired public man Lord Claverton is confronted at a rest-home by ghosts of his guilty past (Gomez, Mrs. Carghill) and, through confession and his daughter's love, finds contrition, self-knowledge and peace before death.
 
 ## Connections
 
-**Archetypes:** [[Ghost]]
-**Motifs:** [[Ghosts]], [[Memory]]
-**Themes & Concepts:** [[Guilt]], [[Conscience]], [[Grace and Redemption]], [[Self-Knowledge]], [[Appearance vs Reality]], [[Mortality]], [[Romantic Love]]
-**Forms & Genres:** [[Verse Drama]]
-**Characters:** [[Lord Claverton]], [[Monica Claverton-Ferry]], [[Federico Gomez]]
+**Archetypes:** [[archetypes/ghost|Ghost]]
+**Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/memory|Memory]]
+**Themes & Concepts:** [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/mortality|Mortality]], [[concepts/romantic-love|Romantic Love]]
+**Forms & Genres:** [[forms/verse-drama|Verse Drama]]
+**Characters:** [[characters/lord-claverton|Lord Claverton]], [[characters/monica-claverton-ferry|Monica Claverton-Ferry]], [[characters/federico-gomez|Federico Gomez]]
 
 ## Testo integrale / Full text
 

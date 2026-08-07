@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/nelly-dean"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/wuthering-heights-(bronte)|Wuthering Heights (Bronte)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ The white chalk of the Sussex downs is the essay's titular and central symbol, s
 
 <div class="concept-works" data-slug="motifs/chalk"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/chalk-(chesterton)|chalk (Chesterton)]]
+
+</div>
+
 #graph/motif

@@ -25,21 +25,21 @@ tags:
   - character/cynthia
 ---
 
-*by Keats*  ·  **Cluster:** [[Dreams · Moon]]
+*by Keats*  ·  **Cluster:** [[clusters/dreams-·-moon|Dreams · Moon]]
 
 > [!abstract] 
 > A long mythological romance in heroic couplets following the shepherd-prince Endymion's quest for the moon-goddess Cynthia/Phoebe through earth, sea and underworld; beauty as eternal joy, visionary love and the spiritualization of the mortal lover.
 
 ## Connections
 
-**Topoi:** [[Quest]], [[Unattainable Beloved]], [[Katabasis Descent]]
-**Archetypes:** [[Quest Hero]]
-**Motifs:** [[Dreams]], [[Moon]], [[Nature]]
-**Themes & Concepts:** [[Beauty]], [[Immortality of Art Fame]], [[Romantic Love]]
-**Forms & Genres:** [[Narrative Poem]], [[Heroic Couplet]]
-**Historical References:** [[Greek Mythology]]
-**Settings:** [[Ancient Greece (2)]]
-**Characters:** [[Endymion]], [[Cynthia]]
+**Topoi:** [[topoi/quest|Quest]], [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/katabasis-descent|Katabasis Descent]]
+**Archetypes:** [[archetypes/quest-hero|Quest Hero]]
+**Motifs:** [[motifs/dreams|Dreams]], [[motifs/moon|Moon]], [[concepts/nature|Nature]]
+**Themes & Concepts:** [[concepts/beauty|Beauty]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]], [[concepts/romantic-love|Romantic Love]]
+**Forms & Genres:** [[forms/narrative-poem|Narrative Poem]], [[forms/heroic-couplet|Heroic Couplet]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
+**Settings:** [[settings/ancient-greece-(2)|Ancient Greece (2)]]
+**Characters:** [[characters/endymion|Endymion]], [[characters/cynthia|Cynthia]]
 
 ## Testo integrale / Full text
 

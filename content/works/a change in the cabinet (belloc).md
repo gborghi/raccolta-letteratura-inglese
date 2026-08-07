@@ -25,7 +25,7 @@ tags:
   - setting/england
   - archetype/corrupt_official
 ---
-*by Belloc*  ·  **Cluster:** [[Satirical Novel · Politics and Finance · Edwardian England]]
+*by Belloc*  ·  **Cluster:** [[clusters/satirical-novel-·-politics-and-finance-·-edwardian-england|Satirical Novel · Politics and Finance · Edwardian England]]
 
 > [!abstract] 
 > A satirical novel of Edwardian politics and high finance, part of Belloc's Burden sequence. A Cabinet minister's fortunes and those of the hapless, well-connected George Mulross Demaine are jolted when a speculative imperial company (the Van Diemens) and a distant American mining scandal collide with the closed world of governing families. Belloc mocks parliamentary careerism, financial jobbery, and the incestuous kinship of the ruling class.
@@ -36,9 +36,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]], [[Satire]]
-**Themes & Concepts:** [[Satire of Society]], [[Money and Avarice]], [[Empire and Imperialism]], [[Power and Corruption]], [[Capitalism]], [[Class Conflict]], [[Antisemitism]], [[Economics]]
-**Motifs:** [[Money and Gold]], [[City]], [[Letters and Writing]]
-**Historical References:** [[British Empire]]
-**Settings:** [[London]], [[England]]
-**Archetypes:** [[Corrupt Official]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/capitalism|Capitalism]], [[concepts/class-conflict|Class Conflict]], [[concepts/antisemitism|Antisemitism]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/city|City]], [[motifs/letters-and-writing|Letters and Writing]]
+**Historical References:** [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/london|London]], [[settings/england|England]]
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]]

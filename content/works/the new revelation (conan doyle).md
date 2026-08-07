@@ -27,7 +27,7 @@ tags:
   - histref/catholic_church
   - archetype/prophet
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Spiritualism · Faith and Doubt · The Afterlife]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/spiritualism-·-faith-and-doubt-·-the-afterlife|Spiritualism · Faith and Doubt · The Afterlife]]
 
 > [!abstract] 
 > Doyle's 1918 apologetic account of his conversion from medical materialism to conviction in Spiritualism, tracing decades of table-sittings, mediumship, and psychical research literature. He argues that verified communications with the dead confirm survival of the soul and call for a reformed, evidence-based Christianity.
@@ -42,10 +42,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Apologetics]], [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Spiritualism]], [[Faith and Doubt]], [[Immortality of the Soul]], [[Rationalism]], [[Revelation]], [[Providence]], [[History]]
-**Motifs:** [[Soul]], [[Ghosts]], [[Death]]
-**Historical References:** [[Christianity]], [[Darwinism (Evolutionary Theory)]], [[First World War]], [[Catholic Church]]
-**Archetypes:** [[Prophet]]
+**Forms & Genres:** [[forms/apologetics|Apologetics]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/spiritualism|Spiritualism]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/immortality-of-the-soul|Immortality of the Soul]], [[concepts/rationalism|Rationalism]], [[concepts/revelation|Revelation]], [[concepts/providence|Providence]], [[concepts/history|History]]
+**Motifs:** [[motifs/soul|Soul]], [[motifs/ghosts|Ghosts]], [[motifs/death|Death]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[concepts/darwinism-(evolutionary-theory)|Darwinism (Evolutionary Theory)]], [[historical-references/first-world-war|First World War]], [[historical-references/catholic-church|Catholic Church]]
+**Archetypes:** [[archetypes/prophet|Prophet]]
 
-**Also relevant to:** [[Faith · Providence · Divine Love]]
+**Also relevant to:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

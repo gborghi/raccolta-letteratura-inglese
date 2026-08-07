@@ -27,7 +27,7 @@ tags:
   - histref/victorian_england
 ---
 
-*by Wilde*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
+*by Wilde*  ·  **Cluster:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > Short story of an enigmatic woman whose 'mystery' proves empty; a Sphinx without a secret, exploring appearance versus reality, secrecy and unrequited love.
@@ -41,13 +41,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Unattainable Beloved]]
-**Archetypes:** [[Femme Fatale]], [[Lover]]
-**Motifs:** [[Concealment Hidden Identity]], [[Eyes and Sight]], [[Letters and Writing]], [[Silence]], [[Death]]
-**Themes & Concepts:** [[Appearance vs Reality]], [[Deception]], [[Unrequited Frustrated Love]], [[Identity]], [[Romantic Love]]
-**Forms & Genres:** [[Short Story]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]], [[Paris]], [[Europe]]
+**Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]]
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/silence|Silence]], [[motifs/death|Death]]
+**Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/identity|Identity]], [[concepts/romantic-love|Romantic Love]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/london|London]], [[settings/paris|Paris]], [[settings/europe|Europe]]
 
 ## Testo integrale / Full text
 

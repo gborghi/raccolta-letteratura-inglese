@@ -21,7 +21,7 @@ tags:
   - form/literary_criticism
 ---
 
-*by Poe*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Poe*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > Literary satire in which Signora Psyche Zenobia receives absurd instructions for manufacturing a sensational magazine 'intensity' article.
@@ -42,9 +42,9 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Letters and Writing]], [[Book Reading]], [[Clothing and Costume]]
-**Themes & Concepts:** [[Satire of Society]], [[Artist and Society]], [[Deception]], [[Pride]], [[Terror and Horror]]
-**Forms & Genres:** [[Satire]], [[Parody]], [[Literary Criticism]], [[Nonfiction]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/book-reading|Book Reading]], [[motifs/clothing-and-costume|Clothing and Costume]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/artist-and-society|Artist and Society]], [[concepts/deception|Deception]], [[concepts/pride|Pride]], [[concepts/terror-and-horror|Terror and Horror]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/parody|Parody]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

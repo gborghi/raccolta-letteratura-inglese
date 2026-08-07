@@ -33,7 +33,7 @@ tags:
 
 # queertrades
 
-*by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
+*by Chesterton*  ·  **Cluster:** [[clusters/short-story-·-concealment-hidden-identity-·-justice-right-and-wrong|Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 
 > A cycle of fantastic detective stories about a club whose members must invent their own trade; mysteries solved by the eccentric ex-judge Basil Grant. Themes: ratiocination, the grotesque, wonder in the everyday.
@@ -47,13 +47,13 @@ tags:
 
 ## Connections
 
-**Characters:** [[Basil Grant]], [[Rupert Grant]], [[Mr Swinburne]], [[Major Brown]], [[P. G. Northover]]
+**Characters:** [[characters/basil-grant|Basil Grant]], [[characters/rupert-grant|Rupert Grant]], [[characters/mr-swinburne|Mr Swinburne]], [[characters/major-brown|Major Brown]], [[characters/p.-g.-northover|P. G. Northover]]
 
-**Archetypes:** [[Detective]], [[Trickster]], [[Wise Old Man Sage]]
-**Motifs:** [[City]], [[Concealment Hidden Identity]], [[Clothing and Costume]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Grotesque]], [[Appearance vs Reality]], [[Wonder and Gratitude]], [[Imagination]], [[Justice Right and Wrong]], [[Deception]], [[Secrecy and Concealment]]
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Settings:** [[London]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/trickster|Trickster]], [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
+**Motifs:** [[motifs/city|City]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/clothing-and-costume|Clothing and Costume]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/grotesque|Grotesque]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/imagination|Imagination]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/deception|Deception]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
+**Settings:** [[settings/london|London]]
 
 ## Testo integrale / Full text
 

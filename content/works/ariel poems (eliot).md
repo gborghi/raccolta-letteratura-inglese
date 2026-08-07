@@ -17,19 +17,19 @@ tags:
   - form/dramatic_monologue
 ---
 
-*by Eliot*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
+*by Eliot*  ·  **Cluster:** [[clusters/allegory-·-quest-·-pilgrim|Allegory · Quest · Pilgrim]]
 
 > [!abstract] 
 > Section header that contains Journey of the Magi: a Christian quest/pilgrimage poem on the Nativity, winter journey, birth and death.
 
 ## Connections
 
-**Topoi:** [[Quest]]
-**Motifs:** [[Journey]], [[Winter]]
-**Themes & Concepts:** [[Faith]], [[Paradox]]
-**Forms & Genres:** [[Dramatic Monologue]]
-**Historical References:** [[Bible]]
-**Characters:** [[Christ]]
+**Topoi:** [[topoi/quest|Quest]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/winter|Winter]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/paradox|Paradox]]
+**Forms & Genres:** [[forms/dramatic-monologue|Dramatic Monologue]]
+**Historical References:** [[historical-references/bible|Bible]]
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

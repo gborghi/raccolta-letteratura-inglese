@@ -29,7 +29,7 @@ tags:
   - archetype/trickster
   - archetype/detective
 ---
-*by Belloc*  ·  **Cluster:** [[Satirical Novel · Politics and Finance · Edwardian England]]
+*by Belloc*  ·  **Cluster:** [[clusters/satirical-novel-·-politics-and-finance-·-edwardian-england|Satirical Novel · Politics and Finance · Edwardian England]]
 
 > [!abstract] 
 > A comic satirical novel tracking a hunted, many-named financier fleeing New York for Europe, shadowed by private detective agencies serving 'Mighty Governments and still more mighty Banks.' Belloc lampoons Edwardian high finance, the private-enquiry racket, sensational journalism, and the anonymous international money power behind respectable politics.
@@ -40,10 +40,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]], [[Satire]]
-**Themes & Concepts:** [[Satire of Society]], [[Money and Avarice]], [[Capitalism]], [[Deception]], [[Power and Corruption]], [[Secrecy and Concealment]], [[Economics]]
-**Motifs:** [[Journey]], [[Ship]], [[Money and Gold]], [[Concealment Hidden Identity]], [[Letters and Writing]], [[Sea and Voyage]]
-**Settings:** [[New York]], [[America]], [[Ship]]
-**Archetypes:** [[Trickster]], [[Detective]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/capitalism|Capitalism]], [[concepts/deception|Deception]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/ship|Ship]], [[motifs/money-and-gold|Money and Gold]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Settings:** [[settings/new-york|New York]], [[settings/america|America]], [[motifs/ship|Ship]]
+**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/detective|Detective]]
 
-**Also relevant to:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
+**Also relevant to:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]

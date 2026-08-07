@@ -23,7 +23,7 @@ tags:
   - motif/prayer
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
+*by Chesterton*  ·  **Cluster:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Sonnet on the finitude of mortal knowledge against divine infinity: the poet longs for an immortal soul that might finally count the leaves and thank God for all the grass.
@@ -34,11 +34,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Memento Mori]], [[Book of Nature]]
-**Motifs:** [[Nature]], [[Grass Leaves of Grass]], [[Prayer]]
-**Themes & Concepts:** [[Mortality]], [[Immortality]], [[Wonder and Gratitude]], [[Self-Knowledge]], [[Faith]], [[Humility]], [[Heaven and the Afterlife]]
-**Forms & Genres:** [[Sonnet]]
-**Historical References:** [[Bible]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]], [[topoi/book-of-nature|Book of Nature]]
+**Motifs:** [[concepts/nature|Nature]], [[motifs/grass-leaves-of-grass|Grass Leaves of Grass]], [[motifs/prayer|Prayer]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/immortality|Immortality]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/faith|Faith]], [[concepts/humility|Humility]], [[concepts/heaven-and-the-afterlife|Heaven and the Afterlife]]
+**Forms & Genres:** [[forms/sonnet|Sonnet]]
+**Historical References:** [[historical-references/bible|Bible]]
 
 ## Testo integrale / Full text
 

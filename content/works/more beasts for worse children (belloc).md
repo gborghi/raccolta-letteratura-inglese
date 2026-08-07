@@ -17,7 +17,7 @@ tags:
   - archetype/child
   - topos/world_upside_down
 ---
-*by Belloc*  ·  **Cluster:** [[Comic Verse · Childhood · Satire]]
+*by Belloc*  ·  **Cluster:** [[clusters/comic-verse-·-childhood-·-satire|Comic Verse · Childhood · Satire]]
 
 > [!abstract] 
 > A sequel volume of Belloc's comic cautionary verse for children (illustrated by B.T.B.), presenting absurd rhymed lessons about exotic and improbable animals — the Python, the Scorpion, the Microbe, the Frozen Mammoth and others. The mock-didactic tone parodies earnest natural-history primers for the young.
@@ -41,8 +41,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Comic Verse Song]], [[Parody]]
-**Themes & Concepts:** [[Nonsense]], [[Childhood And Growth]], [[Satire of Society]]
-**Motifs:** [[Animals]], [[Insects]]
-**Archetypes:** [[Child]]
-**Topoi:** [[World Upside Down]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/parody|Parody]]
+**Themes & Concepts:** [[concepts/nonsense|Nonsense]], [[concepts/childhood-and-growth|Childhood And Growth]], [[concepts/satire-of-society|Satire of Society]]
+**Motifs:** [[motifs/animals|Animals]], [[motifs/insects|Insects]]
+**Archetypes:** [[archetypes/child|Child]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]

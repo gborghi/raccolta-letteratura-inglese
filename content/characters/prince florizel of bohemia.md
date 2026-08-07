@@ -14,4 +14,11 @@ The urbane, mock-royal hero of The New Arabian Nights, whom Chesterton praises a
 
 <div class="concept-works" data-slug="characters/prince-florizel-of-bohemia"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/robert-louis-stevenson-(chesterton)|Robert Louis Stevenson (Chesterton)]]
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+
+</div>
+
 #graph/character

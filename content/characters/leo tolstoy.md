@@ -14,4 +14,12 @@ Russian novelist-moralist whose art Chesterton calls genuinely simple and moral 
 
 <div class="concept-works" data-slug="characters/leo-tolstoy"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+- [[works/tolstoy-(chesterton)|tolstoy (Chesterton)]]
+
+</div>
+
 #graph/character

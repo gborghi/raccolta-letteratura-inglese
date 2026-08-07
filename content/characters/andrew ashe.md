@@ -14,4 +14,10 @@ The local solicitor whose confident criminological deductions repeatedly point t
 
 <div class="concept-works" data-slug="characters/andrew-ashe"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/trees-of-pride-(chesterton)|trees of pride (Chesterton)]]
+
+</div>
+
 #graph/character

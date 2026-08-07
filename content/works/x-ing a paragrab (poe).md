@@ -15,7 +15,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Poe*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A comic literary squib: a feud between rival newspaper editors over the letter 'o' ends with a typesetter X-ing out a vowel-laden paragraph into nonsense. Themes of satire of letters, language and folly.
@@ -25,10 +25,10 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Fool]]
-**Motifs:** [[Letters and Writing]]
-**Themes & Concepts:** [[Satire of Society]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Satire]], [[Short Story]]
+**Archetypes:** [[archetypes/fool|Fool]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]
 
 ## Testo integrale / Full text
 

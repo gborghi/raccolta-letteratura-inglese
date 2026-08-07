@@ -14,4 +14,10 @@ American-born painter and wit, subject of 'On the Wit of Whistler,' used as an e
 
 <div class="concept-works" data-slug="characters/whistler"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/heret12-(chesterton)|heret12 (Chesterton)]]
+
+</div>
+
 #graph/character

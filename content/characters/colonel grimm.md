@@ -14,4 +14,10 @@ The impassive, formidable Chief of Police of Pavonia, entangled in the conspirac
 
 <div class="concept-works" data-slug="characters/colonel-grimm"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/fourfaultlessfelons-(chesterton)|FourFaultlessFelons (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ Chesterton's recurring illustrative everyman, an imagined murder victim whose re
 
 <div class="concept-works" data-slug="characters/mr.-robinson"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/morality-(chesterton)|morality (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ Robert Louis Stevenson, whose 'A Child's Garden of Verses' Chesterton quotes and
 
 <div class="concept-works" data-slug="characters/stevenson"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/child-psychology-(chesterton)|child psychology (Chesterton)]]
+
+</div>
+
 #graph/character

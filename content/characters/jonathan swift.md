@@ -14,4 +14,12 @@ Anglo-Irish satirist to whom a full chapter ("On Jonathan Swift") is devoted, pr
 
 <div class="concept-works" data-slug="characters/jonathan-swift"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/all-i-survey-(chesterton)|All I Survey (Chesterton)]]
+- [[works/shaw-(chesterton)|Shaw (Chesterton)]]
+- [[works/fancies-versis-fads-(chesterton)|Fancies Versis Fads (Chesterton)]]
+
+</div>
+
 #graph/character

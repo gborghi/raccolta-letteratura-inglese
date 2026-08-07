@@ -34,7 +34,7 @@ tags:
 
 # improbable story
 
-*by Chesterton*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
+*by Chesterton*  ·  **Cluster:** [[clusters/city-·-london-·-theatrum-mundi|City · London · Theatrum Mundi]]
 
 > [!abstract] 
 > A fantastical short story in which an overworked, neglected London street rears up to heaven 'for justice'; a parable of the soul of inanimate things, modern bondage to the clock, and wonder.
@@ -53,15 +53,15 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]]
+**Historical References:** [[historical-references/bible|Bible]]
 
-**Archetypes:** [[Prophet]]
+**Archetypes:** [[archetypes/prophet|Prophet]]
 
-**Topoi:** [[World Upside Down]]
-**Motifs:** [[Clock]], [[Road]], [[City]], [[Supernatural]], [[Stars]], [[Chains]], [[Horse]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Alienation]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Uncanny]], [[Labor and Work]], [[Slavery]], [[Social Injustice]]
-**Forms & Genres:** [[Short Story]], [[Allegory]], [[Parable]]
-**Settings:** [[London]], [[Modern Metropolis]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Motifs:** [[motifs/clock|Clock]], [[motifs/road|Road]], [[motifs/city|City]], [[motifs/supernatural|Supernatural]], [[motifs/stars|Stars]], [[motifs/chains|Chains]], [[motifs/horse|Horse]]
+**Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/alienation|Alienation]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/uncanny|Uncanny]], [[concepts/labor-and-work|Labor and Work]], [[concepts/slavery|Slavery]], [[concepts/social-injustice|Social Injustice]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/allegory|Allegory]], [[forms/parable|Parable]]
+**Settings:** [[settings/london|London]], [[settings/modern-metropolis|Modern Metropolis]]
 
 ## Testo integrale / Full text
 

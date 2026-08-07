@@ -14,4 +14,10 @@ The melancholy amateur detective and titular 'man who knew too much,' whose inti
 
 <div class="concept-works" data-slug="characters/horne-fisher"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-man-who-knew-too-much-(chesterton)|The Man Who Knew Too Much (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ Ambitious, snobbish doctor-turned-politician (later Sir/Lord) who embodies fashi
 
 <div class="concept-works" data-slug="characters/sir-horace-hunter"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/longbow2-(chesterton)|longbow2 (Chesterton)]]
+
+</div>
+
 #graph/character

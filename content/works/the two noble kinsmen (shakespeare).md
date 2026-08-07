@@ -34,7 +34,7 @@ tags:
   - character/the_jailers_daughter
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Blank Verse · Tragicomedy · Romance Play]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/blank-verse-·-tragicomedy-·-romance-play|Blank Verse · Tragicomedy · Romance Play]]
 
 > [!abstract] 
 > A late tragicomic romance (with Fletcher) from Chaucer's Knight's Tale, in which kinsmen Palamon and Arcite, sworn friends, fall in love with Emilia and fight to the death for her; themes are the conflict of love and friendship, fortune's paradoxes, and chivalric ritual.
@@ -70,14 +70,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Fortune's Wheel]], [[Combat Strife]]
-**Archetypes:** [[Lover]], [[Innocent]]
-**Motifs:** [[Madness (2)]], [[Swords and Weapons]], [[Horse]], [[Flowers]]
-**Themes & Concepts:** [[Friendship]], [[Romantic Love]], [[Honour]], [[Fate and Free Will]], [[Paradox]]
-**Forms & Genres:** [[Tragicomedy]], [[Romance Play]], [[Blank Verse]]
-**Historical References:** [[Greek Mythology]], [[Ancient Greece]]
-**Settings:** [[Ancient Greece (2)]]
-**Characters:** [[Palamon]], [[Arcite]], [[Emilia]], [[Theseus]], [[Hippolyta]], [[Jailers Daughter]]
+**Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/combat-strife|Combat Strife]]
+**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/innocent|Innocent]]
+**Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/horse|Horse]], [[motifs/flowers|Flowers]]
+**Themes & Concepts:** [[concepts/friendship|Friendship]], [[concepts/romantic-love|Romantic Love]], [[concepts/honour|Honour]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/paradox|Paradox]]
+**Forms & Genres:** [[forms/tragicomedy|Tragicomedy]], [[forms/romance-play|Romance Play]], [[forms/blank-verse|Blank Verse]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/ancient-greece|Ancient Greece]]
+**Settings:** [[settings/ancient-greece-(2)|Ancient Greece (2)]]
+**Characters:** [[characters/palamon|Palamon]], [[characters/arcite|Arcite]], [[characters/emilia|Emilia]], [[characters/theseus|Theseus]], [[characters/hippolyta|Hippolyta]], [[characters/jailers-daughter|Jailers Daughter]]
 
 ## Testo integrale / Full text
 

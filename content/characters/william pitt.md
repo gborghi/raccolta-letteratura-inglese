@@ -14,4 +14,11 @@ The English statesman (elder and younger) blamed for entangling England in Pruss
 
 <div class="concept-works" data-slug="characters/william-pitt"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thecrimesofengland-(chesterton)|TheCrimesOfEngland (Chesterton)]]
+- [[works/william-cobbett-(chesterton)|William Cobbett (Chesterton)]]
+
+</div>
+
 #graph/character

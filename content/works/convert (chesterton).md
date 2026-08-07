@@ -25,7 +25,7 @@ tags:
 
 # convert
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > Sonnet on the poet's conversion: the world turns over, the sages' maps become 'less than dust' because 'my name is Lazarus and I live' — faith as resurrection and rebirth.
@@ -36,15 +36,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Pilgrim]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
 
-**Topoi:** [[World Upside Down]], [[Sleeper Awakes]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/sleeper-awakes|Sleeper Awakes]]
 
-**Motifs:** [[Road]], [[Dust]]
-**Themes & Concepts:** [[Conversion]], [[Faith]], [[Grace and Redemption]], [[Wonder and Gratitude]], [[Resurrection]], [[Paradox]]
-**Forms & Genres:** [[Sonnet]]
-**Historical References:** [[Bible]]
-**Characters:** [[Lazarus the Risen Man]]
+**Motifs:** [[motifs/road|Road]], [[motifs/dust|Dust]]
+**Themes & Concepts:** [[concepts/conversion|Conversion]], [[concepts/faith|Faith]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/resurrection|Resurrection]], [[concepts/paradox|Paradox]]
+**Forms & Genres:** [[forms/sonnet|Sonnet]]
+**Historical References:** [[historical-references/bible|Bible]]
+**Characters:** [[characters/lazarus-the-risen-man|Lazarus the Risen Man]]
 
 ## Testo integrale / Full text
 

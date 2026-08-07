@@ -20,7 +20,7 @@ tags:
   - histref/catholic_church
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Chesterton*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A four-line satirical epigram mocking modern 'broad-minded' sensibility at the expense of St Francis's holy charity.
@@ -31,13 +31,13 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Insects]]
+**Motifs:** [[motifs/insects|Insects]]
 
-**Characters:** [[St. Francis]]
+**Characters:** [[characters/st.-francis|St. Francis]]
 
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Humility]], [[Charity]], [[Hypocrisy]]
-**Forms & Genres:** [[Epigram]], [[Satire]]
-**Historical References:** [[Christianity]], [[Catholic Church]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/humility|Humility]], [[concepts/charity|Charity]], [[concepts/hypocrisy|Hypocrisy]]
+**Forms & Genres:** [[forms/epigram|Epigram]], [[forms/satire|Satire]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]]
 
 ## Testo integrale / Full text
 

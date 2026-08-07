@@ -38,7 +38,7 @@ tags:
   - character/general_tilney
 ---
 
-*by Austen*  ·  **Cluster:** [[Social Novel (Novel of Manners)]]
+*by Austen*  ·  **Cluster:** [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]]
 
 > [!abstract] 
 > A coming-of-age novel and burlesque of Gothic fiction in which naive Catherine Morland confuses romance with reality at Bath and Northanger Abbey; themes of imagination versus reality, reading, social satire, and maturation.
@@ -63,13 +63,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Innocent]], [[Lover]]
-**Motifs:** [[Book Reading]], [[Ruins the Abbey]], [[Marriage]]
-**Themes & Concepts:** [[Imagination]], [[Appearance vs Reality]], [[Innocence and Experience]], [[Maturation and Growth]], [[Satire of Society]], [[Marriage and Fidelity]], [[Romantic Love]], [[Deception]], [[Class Conflict]], [[Economics]]
-**Forms & Genres:** [[Novel]], [[Parody]], [[Social Novel (Novel of Manners)]], [[Satire]], [[Bildungsroman]], [[Gothic Novel]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[Rural England]]
-**Characters:** [[Catherine Morland]], [[Henry Tilney]], [[Isabella Thorpe]], [[John Thorpe]], [[Eleanor Tilney]], [[General Tilney]]
+**Archetypes:** [[archetypes/innocent|Innocent]], [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/book-reading|Book Reading]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/marriage|Marriage]]
+**Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/satire-of-society|Satire of Society]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/romantic-love|Romantic Love]], [[concepts/deception|Deception]], [[concepts/class-conflict|Class Conflict]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/parody|Parody]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/satire|Satire]], [[forms/bildungsroman|Bildungsroman]], [[forms/gothic-novel|Gothic Novel]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Characters:** [[characters/catherine-morland|Catherine Morland]], [[characters/henry-tilney|Henry Tilney]], [[characters/isabella-thorpe|Isabella Thorpe]], [[characters/john-thorpe|John Thorpe]], [[characters/eleanor-tilney|Eleanor Tilney]], [[characters/general-tilney|General Tilney]]
 
 ## Testo integrale / Full text
 

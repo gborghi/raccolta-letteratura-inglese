@@ -14,4 +14,12 @@ Romantic poet-revolutionary discussed across several chapters (vs. Burke, vs. mo
 
 <div class="concept-works" data-slug="characters/lord-byron"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/all-i-survey-(chesterton)|All I Survey (Chesterton)]]
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+
+</div>
+
 #graph/character

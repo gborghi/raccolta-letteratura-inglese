@@ -28,7 +28,7 @@ tags:
   - archetype/prophet
   - archetype/prophetess_seer
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Spiritualism · Faith and Doubt · The Afterlife]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/spiritualism-·-faith-and-doubt-·-the-afterlife|Spiritualism · Faith and Doubt · The Afterlife]]
 
 > [!abstract] 
 > Doyle's history of the Spiritualist movement from its precursors, beginning with the visionary scientist-mystic Swedenborg and the Hydesville rappings of the Fox sisters, through early American and English mediumship, D. D. Home, and the scientific investigations of Sir William Crookes, arguing for the movement's genuineness as a new revelation.
@@ -64,12 +64,12 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Biography]], [[Nonfiction]]
-**Themes & Concepts:** [[Spiritualism]], [[Immortality of the Soul]], [[Faith and Doubt]], [[Argument from Authority]], [[Rationalism]]
-**Motifs:** [[Ghosts]], [[Supernatural]], [[Uncanny]], [[Soul]]
-**Historical References:** [[Christianity]], [[Bible]]
-**Settings:** [[London]], [[America]]
-**Characters:** [[Emanuel Swedenborg]]
-**Archetypes:** [[Prophet]], [[Prophetess Seer]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/biography|Biography]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/spiritualism|Spiritualism]], [[concepts/immortality-of-the-soul|Immortality of the Soul]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/argument-from-authority|Argument from Authority]], [[concepts/rationalism|Rationalism]]
+**Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[concepts/uncanny|Uncanny]], [[motifs/soul|Soul]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
+**Settings:** [[settings/london|London]], [[settings/america|America]]
+**Characters:** [[characters/emanuel-swedenborg|Emanuel Swedenborg]]
+**Archetypes:** [[archetypes/prophet|Prophet]], [[archetypes/prophetess-seer|Prophetess Seer]]
 
-**Also relevant to:** [[Faith · Providence · Divine Love]]
+**Also relevant to:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

@@ -14,4 +14,10 @@ The legendary reformed burglar whose penitent sanctity and posthumous humiliatio
 
 <div class="concept-works" data-slug="characters/michael-moonshine"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/secret-fr-brown-(chesterton)|secret Fr Brown (Chesterton)]]
+
+</div>
+
 #graph/character

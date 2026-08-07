@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/monks"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/oliver-twist-(dickens)|Oliver Twist (Dickens)]]
+
+</div>
+
 #graph/character

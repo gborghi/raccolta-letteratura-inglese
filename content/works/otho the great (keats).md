@@ -32,19 +32,19 @@ tags:
   - setting/the_castle
 ---
 
-*by Keats*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
+*by Keats*  ·  **Cluster:** [[clusters/blood-·-verse-drama-·-revenge|Blood · Verse Drama · Revenge]]
 
 > [!abstract] 
 > A five-act verse tragedy set in the court of Otho I, driven by Conrad's and the femme fatale Auranthe's intrigue, deception, and ambition, ending in betrayal, the prince Ludolph's madness, and death.
 
 ## Connections
 
-**Topoi:** [[Combat Strife]]
-**Archetypes:** [[Femme Fatale]], [[Villain]], [[King]], [[Tragic Hero]]
-**Motifs:** [[Concealment Hidden Identity]], [[Madness (2)]], [[Swords and Weapons]], [[Food and Feasting]], [[Crown]]
-**Themes & Concepts:** [[Ambition]], [[Deception]], [[Appearance vs Reality]], [[Power and Corruption]], [[Madness]], [[Revenge]], [[Lust Sexual Desire]], [[Kingship and Legitimacy]]
-**Forms & Genres:** [[Verse Drama]], [[Tragedy]], [[Blank Verse]]
-**Settings:** [[Court]], [[Castle]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]]
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/villain|Villain]], [[archetypes/king|King]], [[archetypes/tragic-hero|Tragic Hero]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/madness-(2)|Madness (2)]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/crown|Crown]]
+**Themes & Concepts:** [[concepts/ambition|Ambition]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/madness|Madness]], [[concepts/revenge|Revenge]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]]
+**Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/tragedy|Tragedy]], [[forms/blank-verse|Blank Verse]]
+**Settings:** [[settings/court|Court]], [[settings/castle|Castle]]
 
 ## Testo integrale / Full text
 

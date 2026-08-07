@@ -14,12 +14,12 @@ tags:
 <span class="atom-split" data-atom="jones" data-title="Jones" data-chapter="" data-kind="intro"></span>
 
 
-The Horrible [[history|History]] of [[Jones]]  
+The Horrible [[concepts/history|History]] of [[characters/jones|Jones]]  
 
 by G.K.Chesterton  
 
-[[Jones]] had a dog; it had a chain;  
-Not often worn, not causing [[Pain|pain]];  
+[[characters/jones|Jones]] had a dog; it had a chain;  
+Not often worn, not causing [[motifs/pain|pain]];  
 But, as the I.K.L. had passed  
 Their 'Unleashed Cousins Act' at last,  
 Inspectors took the chain away;  
@@ -29,16 +29,16 @@ At which, of course, the S.P.U.
 Were forced to give the dog in charge  
 For being Audibly at Large.  
 None, you will say, were now annoyed,  
-Save, haply, [[Jones]] - the yard was void.  
+Save, haply, [[characters/jones|Jones]] - the yard was void.  
 But something being in the lease  
 About 'alarms to aid the police,'  
 The U.S.U. annexed the yard  
 For having no sufficient guard.  
 Now if there's one condition  
 The C.C.P. are strong upon  
-It is that every [[house]] one buys  
+It is that every house one buys  
 Must have a yard for exercise;  
-So [[Jones]], as tenant, was unfit,  
+So [[characters/jones|Jones]], as tenant, was unfit,  
 His state of health was proof of it.  
 Two doctors of the T.T.U.'s  
 Told him his legs, from long disuse,  
@@ -52,25 +52,25 @@ And soon (as one may say) took wing
 The Arms, though not the Man, I sing.  
 To see him sitting limbless there  
 Was more than the K.K. could bear.  
-'In [[Mercy|mercy]] [[Silence|silence]] with all [[Speed|speed]]  
+'In [[concepts/mercy|mercy]] [[motifs/silence|silence]] with all [[characters/speed|speed]]  
 That mouth there are no hands to feed;  
 What cruel sentimentalist,  
-O [[Jones]], would doom thee to exist -  
+O [[characters/jones|Jones]], would doom thee to exist -  
 Clinging to selfish Selfhood yet?  
 Weak one! Such reasoning might upset  
 The Pump Act, and the accumulation  
 Of all constructive legislation;  
 Let us construct you up a bit ­­- '  
 The head fell off when it was hit:  
-Then words did rise and honest [[Doubt|doubt]],  
+Then words did rise and honest [[concepts/doubt|doubt]],  
 And four Commissioners sat about  
 Whether the slash that left him dead  
-Cut off his [[Body|body]] or his head.  
+Cut off his [[concepts/body|body]] or his head.  
 
 An author in the Isle of Wight  
 Observed with unconcealed delight  
 A land of just and old renown  
-Where [[Freedom]] slowly broadened down  
+Where [[concepts/freedom|Freedom]] slowly broadened down  
 From Precedent to Precedent.  
 And this, I think, was what he meant.  
 
@@ -82,12 +82,12 @@ Tennyson's "You Ask Me, Why, Tho' Ill at Ease"
 
 <span class="qlang-split" data-lang="it"></span>
 
-La Terribile [[history|Storia]] di [[Jones]]  
+La Terribile [[concepts/history|Storia]] di [[characters/jones|Jones]]  
 
 di G.K. Chesterton
 
-[[Jones]] aveva un cane; questi una catena,  
-di rado indossata, non causa di [[Pain|pena]];  
+[[characters/jones|Jones]] aveva un cane; questi una catena,  
+di rado indossata, non causa di [[motifs/pain|pena]];  
 ma, poiché l'I.K.L. aveva infine varato  
 la sua «Legge sui Cugini Sguinzagliati»,  
 gli ispettori portarono via la catena;  
@@ -97,16 +97,16 @@ Per cui, s'intende, la S.P.U.
 fu costretta a denunciare il cane  
 per essere Udibilmente a Piede Libero.  
 Nessuno, direte, ne era ormai seccato,  
-salvo, forse, [[Jones]] — il cortile era vuoto.  
+salvo, forse, [[characters/jones|Jones]] — il cortile era vuoto.  
 Ma poiché nel contratto d'affitto v'era  
 qualcosa sugli «allarmi in aiuto alla polizia»,  
 la U.S.U. annesse il cortile  
 per non avere sorveglianza sufficiente.  
 Ora, se c'è una condizione  
 su cui il C.C.P. non transige  
-è che ogni [[house|casa]] che si compra  
+è che ogni casa che si compra  
 debba avere un cortile per l'esercizio;  
-sicché [[Jones]], come inquilino, era inidoneo,  
+sicché [[characters/jones|Jones]], come inquilino, era inidoneo,  
 e il suo stato di salute ne era la prova.  
 Due medici della T.T.U.  
 gli dissero che le gambe, per lungo disuso,  
@@ -120,25 +120,25 @@ e presto (per così dire) presero il volo
 le Braccia, seppur non l'Uomo, che io canto.  
 Vederlo là seduto privo di membra  
 era più di quanto la K.K. potesse sopportare.  
-«Per [[Mercy|Pietà]], si faccia [[Silence|tacere]] con ogni [[Speed|prontezza]]  
+«Per [[concepts/mercy|Pietà]], si faccia [[motifs/silence|tacere]] con ogni [[characters/speed|prontezza]]  
 quella bocca che non ha mani da nutrirla;  
 quale crudele sentimentalista,  
-o [[Jones]], ti condannerebbe a esistere —  
+o [[characters/jones|Jones]], ti condannerebbe a esistere —  
 ancora aggrappato a un egoistico Sé?  
 Debole! Un tal ragionamento potrebbe sconvolgere  
 la Legge sulle Pompe, e l'accumulo  
 di tutta la legislazione costruttiva;  
 lascia che ti costruiamo su un poco —»  
 La testa cadde quando fu colpita:  
-allora sorsero parole e onesto [[Doubt|dubbio]],  
+allora sorsero parole e onesto [[concepts/doubt|dubbio]],  
 e quattro Commissari si riunirono  
 per stabilire se il fendente che lo lasciò morto  
-gli avesse reciso il [[Body|corpo]] o la testa.  
+gli avesse reciso il [[concepts/body|corpo]] o la testa.  
 
 Un autore nell'Isola di Wight  
 osservò con non celato diletto  
 una terra di giusta e antica rinomanza  
-dove la [[Freedom|Libertà]] lentamente si allargava  
+dove la [[concepts/freedom|Libertà]] lentamente si allargava  
 di Precedente in Precedente.  
 E questo, credo, era ciò che intendeva.  
 
@@ -152,12 +152,12 @@ da «You Ask Me, Why, Tho' Ill at Ease» di Tennyson
 <span class="atom-split" data-atom="part--part_01" data-title="Jones (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/pain,motif/silence,concept/body,concept/doubt,concept/freedom,concept/history,concept/mercy,form/history,character/jones,character/speed"></span>
 
 
-The Horrible [[history|History]] of [[Jones]]  
+The Horrible [[concepts/history|History]] of [[characters/jones|Jones]]  
 
 by G.K.Chesterton  
 
-[[Jones]] had a dog; it had a chain;  
-Not often worn, not causing [[Pain|pain]];  
+[[characters/jones|Jones]] had a dog; it had a chain;  
+Not often worn, not causing [[motifs/pain|pain]];  
 But, as the I.K.L. had passed  
 Their 'Unleashed Cousins Act' at last,  
 Inspectors took the chain away;  
@@ -167,16 +167,16 @@ At which, of course, the S.P.U.
 Were forced to give the dog in charge  
 For being Audibly at Large.  
 None, you will say, were now annoyed,  
-Save, haply, [[Jones]] - the yard was void.  
+Save, haply, [[characters/jones|Jones]] - the yard was void.  
 But something being in the lease  
 About 'alarms to aid the police,'  
 The U.S.U. annexed the yard  
 For having no sufficient guard.  
 Now if there's one condition  
 The C.C.P. are strong upon  
-It is that every [[house]] one buys  
+It is that every house one buys  
 Must have a yard for exercise;  
-So [[Jones]], as tenant, was unfit,  
+So [[characters/jones|Jones]], as tenant, was unfit,  
 His state of health was proof of it.  
 Two doctors of the T.T.U.'s  
 Told him his legs, from long disuse,  
@@ -190,25 +190,25 @@ And soon (as one may say) took wing
 The Arms, though not the Man, I sing.  
 To see him sitting limbless there  
 Was more than the K.K. could bear.  
-'In [[Mercy|mercy]] [[Silence|silence]] with all [[Speed|speed]]  
+'In [[concepts/mercy|mercy]] [[motifs/silence|silence]] with all [[characters/speed|speed]]  
 That mouth there are no hands to feed;  
 What cruel sentimentalist,  
-O [[Jones]], would doom thee to exist -  
+O [[characters/jones|Jones]], would doom thee to exist -  
 Clinging to selfish Selfhood yet?  
 Weak one! Such reasoning might upset  
 The Pump Act, and the accumulation  
 Of all constructive legislation;  
 Let us construct you up a bit ­­- '  
 The head fell off when it was hit:  
-Then words did rise and honest [[Doubt|doubt]],  
+Then words did rise and honest [[concepts/doubt|doubt]],  
 And four Commissioners sat about  
 Whether the slash that left him dead  
-Cut off his [[Body|body]] or his head.  
+Cut off his [[concepts/body|body]] or his head.  
 
 An author in the Isle of Wight  
 Observed with unconcealed delight  
 A land of just and old renown  
-Where [[Freedom]] slowly broadened down  
+Where [[concepts/freedom|Freedom]] slowly broadened down  
 From Precedent to Precedent.  
 And this, I think, was what he meant.  
 
@@ -220,12 +220,12 @@ Tennyson's "You Ask Me, Why, Tho' Ill at Ease"
 
 <span class="qlang-split" data-lang="it"></span>
 
-La Terribile [[history|Storia]] di [[Jones]]  
+La Terribile [[concepts/history|Storia]] di [[characters/jones|Jones]]  
 
-di G.K. Chesterton
+di G.K. Chesterton  
 
-[[Jones]] aveva un cane; questi una catena,  
-di rado indossata, non causa di [[Pain|pena]];  
+[[characters/jones|Jones]] aveva un cane; questi una catena,  
+di rado indossata, non causa di [[motifs/pain|pena]];  
 ma, poiché l'I.K.L. aveva infine varato  
 la sua «Legge sui Cugini Sguinzagliati»,  
 gli ispettori portarono via la catena;  
@@ -235,16 +235,16 @@ Per cui, s'intende, la S.P.U.
 fu costretta a denunciare il cane  
 per essere Udibilmente a Piede Libero.  
 Nessuno, direte, ne era ormai seccato,  
-salvo, forse, [[Jones]] — il cortile era vuoto.  
+salvo, forse, [[characters/jones|Jones]] — il cortile era vuoto.  
 Ma poiché nel contratto d'affitto v'era  
 qualcosa sugli «allarmi in aiuto alla polizia»,  
 la U.S.U. annesse il cortile  
 per non avere sorveglianza sufficiente.  
 Ora, se c'è una condizione  
 su cui il C.C.P. non transige  
-è che ogni [[house|casa]] che si compra  
+è che ogni casa che si compra  
 debba avere un cortile per l'esercizio;  
-sicché [[Jones]], come inquilino, era inidoneo,  
+sicché [[characters/jones|Jones]], come inquilino, era inidoneo,  
 e il suo stato di salute ne era la prova.  
 Due medici della T.T.U.  
 gli dissero che le gambe, per lungo disuso,  
@@ -258,25 +258,25 @@ e presto (per così dire) presero il volo
 le Braccia, seppur non l'Uomo, che io canto.  
 Vederlo là seduto privo di membra  
 era più di quanto la K.K. potesse sopportare.  
-«Per [[Mercy|Pietà]], si faccia [[Silence|tacere]] con ogni [[Speed|prontezza]]  
+«Per [[concepts/mercy|Pietà]], si faccia [[motifs/silence|tacere]] con ogni [[characters/speed|prontezza]]  
 quella bocca che non ha mani da nutrirla;  
 quale crudele sentimentalista,  
-o [[Jones]], ti condannerebbe a esistere —  
+o [[characters/jones|Jones]], ti condannerebbe a esistere —  
 ancora aggrappato a un egoistico Sé?  
 Debole! Un tal ragionamento potrebbe sconvolgere  
 la Legge sulle Pompe, e l'accumulo  
 di tutta la legislazione costruttiva;  
 lascia che ti costruiamo su un poco —»  
 La testa cadde quando fu colpita:  
-allora sorsero parole e onesto [[Doubt|dubbio]],  
+allora sorsero parole e onesto [[concepts/doubt|dubbio]],  
 e quattro Commissari si riunirono  
 per stabilire se il fendente che lo lasciò morto  
-gli avesse reciso il [[Body|corpo]] o la testa.  
+gli avesse reciso il [[concepts/body|corpo]] o la testa.  
 
 Un autore nell'Isola di Wight  
 osservò con non celato diletto  
 una terra di giusta e antica rinomanza  
-dove la [[Freedom|Libertà]] lentamente si allargava  
+dove la [[concepts/freedom|Libertà]] lentamente si allargava  
 di Precedente in Precedente.  
 E questo, credo, era ciò che intendeva.  
 

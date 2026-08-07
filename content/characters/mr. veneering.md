@@ -14,4 +14,10 @@ The socially climbing 'Man from Nowhere' whose dinner party opens Our Mutual Fri
 
 <div class="concept-works" data-slug="characters/mr.-veneering"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+
+</div>
+
 #graph/character

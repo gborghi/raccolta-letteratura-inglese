@@ -33,7 +33,7 @@ tags:
   - archetype/ghost
   - topos/journey_of_life
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Historical Novel · War and its Cost · Honour and Chivalry]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/historical-novel-·-war-and-its-cost-·-honour-and-chivalry|Historical Novel · War and its Cost · Honour and Chivalry]]
 
 > [!abstract] 
 > A coming-of-age novel narrated by Rodney Stone, a Sussex boy taken to Regency London by his fashionable uncle Sir Charles Tregellis. Interweaving Rodney's own maturation with the boxing career of his friend Boy Jim, the novel recreates the world of bare-knuckle prize-fighting and Regency society, alongside a Gothic mystery involving a vanished lord and a haunted house.
@@ -69,11 +69,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Historical Novel]], [[Bildungsroman]], [[Fictional Autobiography]]
-**Themes & Concepts:** [[Masculinity and the Male Code]], [[Honour]], [[Family and Lineage]], [[Courage]], [[Crime and Punishment]], [[Class Conflict]], [[Economics]], [[History]]
-**Motifs:** [[Ghosts]], [[House Mansion]], [[Journey]], [[Money and Gold]]
-**Historical References:** [[Regency Georgian England]], [[Napoleonic Wars the Navy]], [[Nelson]]
-**Settings:** [[London]], [[Rural England]]
-**Characters:** [[Nelson]]
-**Archetypes:** [[Hero]], [[Mentor]], [[Ghost]]
-**Topoi:** [[Journey of Life]]
+**Forms & Genres:** [[forms/historical-novel|Historical Novel]], [[forms/bildungsroman|Bildungsroman]], [[forms/fictional-autobiography|Fictional Autobiography]]
+**Themes & Concepts:** [[concepts/masculinity-and-the-male-code|Masculinity and the Male Code]], [[concepts/honour|Honour]], [[concepts/family-and-lineage|Family and Lineage]], [[concepts/courage|Courage]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/class-conflict|Class Conflict]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/house-mansion|House Mansion]], [[motifs/journey|Journey]], [[motifs/money-and-gold|Money and Gold]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/nelson|Nelson]]
+**Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
+**Characters:** [[historical-references/nelson|Nelson]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/mentor|Mentor]], [[archetypes/ghost|Ghost]]
+**Topoi:** [[topoi/journey-of-life|Journey of Life]]

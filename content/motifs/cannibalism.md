@@ -14,4 +14,10 @@ The literal devouring of the missionary by his converts is the poem's grotesque 
 
 <div class="concept-works" data-slug="motifs/cannibalism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/unity-(chesterton)|unity (Chesterton)]]
+
+</div>
+
 #graph/motif

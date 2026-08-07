@@ -14,4 +14,10 @@ Level-headed innkeeper's daughter at the Blue Boar who is courted by Hilary Pier
 
 <div class="concept-works" data-slug="characters/joan-hardy"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/longbow2-(chesterton)|longbow2 (Chesterton)]]
+
+</div>
+
 #graph/character

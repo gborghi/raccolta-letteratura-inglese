@@ -20,7 +20,7 @@ Veiling the purple, and the plumes —
 Veiling the ermine so.  
 
 Smiling, as they request an alms —  
-At some imposing [[Door|door]]!  
+At some imposing [[motifs/door|door]]!  
 Smiling when we walk barefoot  
 Upon their golden floor!
 
@@ -33,7 +33,7 @@ Velando la porpora, e le piume —
 Velando così l'ermellino.  
 
 Sorridendo, mentre chiedono un'elemosina —  
-A qualche imponente [[Door|porta]]!  
+A qualche imponente [[motifs/door|porta]]!  
 Sorridendo quando camminiamo scalzi  
 Sul loro pavimento d'oro!
 
@@ -77,8 +77,8 @@ That "enter in — thereat" —
 
 'Tis Costly — So are purples!  
 'Tis just the price of Breath —  
-With but the "Discount" of the [[Grave]] —  
-Termed by the Brokers — "[[Death]]"!  
+With but the "Discount" of the [[motifs/grave|Grave]] —  
+Termed by the Brokers — "[[motifs/death|Death]]"!  
 
 And after that — there's Heaven —  
 The Good Man's — "Dividend" —  
@@ -95,8 +95,8 @@ Quelli che "vi entrano — per essa" —
 
 È Costoso — Così le porpore!  
 È solo il prezzo del Respiro —  
-Con il solo "Sconto" della [[Grave|Tomba]] —  
-Detta dai Sensali — "[[Death|Morte]]"!  
+Con il solo "Sconto" della [[motifs/grave|Tomba]] —  
+Detta dai Sensali — "[[motifs/death|Morte]]"!  
 
 E dopo — c'è il Cielo —  
 Il "Dividendo" — dell'Uomo Buono —  
@@ -136,28 +136,28 @@ Che possa guastarlo — se lo trovasse —
 <span class="atom-split" data-atom="0543_i_fear_a_man_of_frugal_speech" data-title="543. I fear a Man of frugal Speech —" data-chapter="" data-kind="intro" data-tags="motif/silence,motif/money_gold,concept/power_and_corruption,concept/appearance_vs_reality,concept/identity,form/epigram,cluster/money_and_gold,cluster/poverty,cluster/imprisonment"></span>
 
 
-I [[Fear|fear]] a Man of frugal Speech —  
-I [[Fear|fear]] a Silent Man —  
+I [[concepts/fear|fear]] a Man of frugal Speech —  
+I [[concepts/fear|fear]] a Silent Man —  
 Haranguer — I can overtake —  
 Or Babbler — entertain —  
 
 But He who weigheth — While the Rest —  
 Expend their furthest pound —  
 Of this Man — I am wary —  
-I [[Fear|fear]] that He is Grand —
+I [[concepts/fear|fear]] that He is Grand —
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Io [[Fear|temo]] un Uomo di frugale Parola —  
-Io [[Fear|temo]] un Uomo Silenzioso —  
+Io [[concepts/fear|temo]] un Uomo di frugale Parola —  
+Io [[concepts/fear|temo]] un Uomo Silenzioso —  
 L'Arringatore — posso raggiungerlo —  
 O il Ciarliero — intrattenerlo —  
 
 Ma Colui che pesa — Mentre gli Altri —  
 Spendono la loro estrema libbra —  
 Di quest'Uomo — io diffido —  
-Io [[Fear|temo]] che Egli sia Grande —
+Io [[concepts/fear|temo]] che Egli sia Grande —
 
 
 
@@ -166,13 +166,13 @@ Io [[Fear|temo]] che Egli sia Grande —
 
 Publication — is the Auction  
 Of the Mind of Man —  
-[[Poverty]] — be justifying  
+[[concepts/poverty|Poverty]] — be justifying  
 For so foul a thing  
 
 Possibly — but We — would rather  
 From Our Garret go  
 White — Unto the White Creator —  
-Than invest — Our [[Snow]] —  
+Than invest — Our [[motifs/snow|Snow]] —  
 
 Thought belong to Him who gave it —  
 Then — to Him Who bear  
@@ -189,13 +189,13 @@ To Disgrace of Price —
 
 La Pubblicazione — è l'Asta  
 Della Mente dell'Uomo —  
-La [[Poverty|Povertà]] — sia giustificante  
+La [[concepts/poverty|Povertà]] — sia giustificante  
 Per cosa tanto turpe  
 
 Forse — ma Noi — preferiremmo  
 Dalla Nostra Soffitta andare  
 Bianchi — al Bianco Creatore —  
-Che investire — la Nostra [[Snow|Neve]] —  
+Che investire — la Nostra [[motifs/snow|Neve]] —  
 
 Il Pensiero appartenga a Chi lo diede —  
 Poi — a Chi ne porta  
@@ -225,9 +225,9 @@ An independent Man —
 But often as my lot displays  
 Too hungry to be borne  
 I deem Myself what I would be —  
-And [[Novel|novel]] Comforting  
+And [[forms/novel|novel]] Comforting  
 
-My [[Poverty]] and I derive —  
+My [[concepts/poverty|Poverty]] and I derive —  
 We question if the Man —  
 Who own — Esteem the Opulence —  
 As We — Who never Can —  
@@ -238,8 +238,8 @@ Or in the long — uneven term
 To win, become their turn —  
 
 How fitter they will be — for Want —  
-Enlightening so [[Well|well]] —  
-I know not which, [[Desire]], or Grant —  
+Enlightening so [[motifs/well|well]] —  
+I know not which, [[motifs/desire|Desire]], or Grant —  
 Be wholly beautiful —
 
 
@@ -258,9 +258,9 @@ Un Uomo indipendente —
 Ma spesso quando la mia sorte si mostra  
 Troppo affamata da sopportare  
 Mi reputo ciò che vorrei essere —  
-E un [[Novel|nuovo]] Conforto  
+E un [[forms/novel|nuovo]] Conforto  
 
-La mia [[Poverty|Povertà]] ed Io ne traiamo —  
+La mia [[concepts/poverty|Povertà]] ed Io ne traiamo —  
 Ci chiediamo se l'Uomo —  
 Che possiede — Stimi l'Opulenza —  
 Come Noi — Che mai Possiamo —  
@@ -271,8 +271,8 @@ O nel lungo — ineguale termine
 Vincere, divenisse il loro turno —  
 
 Quanto più adatte saranno — per il Bisogno —  
-Che illumina così [[Well|bene]] —  
-Non so quale, [[Desire|Desiderio]], o Dono —  
+Che illumina così [[motifs/well|bene]] —  
+Non so quale, [[motifs/desire|Desiderio]], o Dono —  
 Sia interamente bello —
 
 
@@ -283,7 +283,7 @@ Sia interamente bello —
 Because 'twas Riches I could own,  
 Myself had earned it — Me,  
 I knew the Dollars by their names —  
-It feels like [[Poverty]]  
+It feels like [[concepts/poverty|Poverty]]  
 
 An Earldom out of sight to hold,  
 An Income in the Air,  
@@ -296,7 +296,7 @@ Unto a Miser's Ear —
 Poiché era Ricchezza che potevo possedere,  
 Io stessa l'avevo guadagnata — Io,  
 Conoscevo i Dollari per nome —  
-Sembra [[Poverty|Povertà]]  
+Sembra [[concepts/poverty|Povertà]]  
 
 Tenere una Contea fuori di vista,  
 Una Rendita nell'Aria,  
@@ -309,7 +309,7 @@ All'Orecchio d'un Avaro —
 
 
 His Mind like Fabrics of the East  
-Displayed to the [[Despair|despair]]  
+Displayed to the [[concepts/despair|despair]]  
 Of everyone but here and there  
 An humble Purchaser —  
 For though his price was not of Gold —  
@@ -321,7 +321,7 @@ Was all the price there was —
 <span class="qlang-split" data-lang="it"></span>
 
 La sua Mente come Stoffe d'Oriente  
-Esposta alla [[Despair|disperazione]]  
+Esposta alla [[concepts/despair|disperazione]]  
 Di ognuno tranne qua e là  
 Un umile Compratore —  
 Ché il suo prezzo non era d'Oro —  
@@ -339,8 +339,8 @@ ECSTASY,
 Take all away from me, but leave me Ecstasy,  
 And I am richer then than all my Fellow Men —  
 Ill it becometh me to dwell so wealthily  
-When at my very [[Door]] are those possessing more,  
-In abject [[Poverty|poverty]] —
+When at my very [[motifs/door|Door]] are those possessing more,  
+In abject [[concepts/poverty|poverty]] —
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -350,5 +350,5 @@ ESTASI,
 Toglimi tutto, ma lasciami l'Estasi,  
 E sono allora più ricca di tutti i miei Simili —  
 Mal si addice a me dimorare così riccamente  
-Quando alla mia stessa [[Door|Porta]] stanno quelli che posseggono di più,  
-In abietta [[Poverty|povertà]] —
+Quando alla mia stessa [[motifs/door|Porta]] stanno quelli che posseggono di più,  
+In abietta [[concepts/poverty|povertà]] —

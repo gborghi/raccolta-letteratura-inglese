@@ -14,4 +14,10 @@ Discussed as the organiser-sage of ancestor-worship and social order, set agains
 
 <div class="concept-works" data-slug="characters/confucius"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/everlasting-man-(chesterton)|everlasting man (Chesterton)]]
+
+</div>
+
 #graph/character

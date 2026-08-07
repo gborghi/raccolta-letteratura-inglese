@@ -61,7 +61,7 @@ tags:
   - histref/french_revolution
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
+*by Chesterton*  ·  **Cluster:** [[clusters/paradox-·-food-and-feasting-·-aphorism|Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 
 > A collection of paradoxical 'defence' essays (penny dreadfuls, detective stories, skeletons, baby-worship, patriotism) defending despised or common things; wonder, paradox, social satire.
@@ -91,17 +91,17 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]], [[Christianity]], [[Ancient Greece]], [[Medieval England]], [[Renaissance]], [[French Revolution]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]], [[historical-references/ancient-greece|Ancient Greece]], [[historical-references/medieval-england|Medieval England]], [[historical-references/renaissance|Renaissance]], [[historical-references/french-revolution|French Revolution]]
 
-**Settings:** [[London]], [[Pastoral Countryside]]
+**Settings:** [[settings/london|London]], [[settings/pastoral-countryside|Pastoral Countryside]]
 
-**Characters:** [[Edward Lear]], [[Lewis Carroll]], [[Friedrich Nietzsche]], [[Sherlock Holmes]]
+**Characters:** [[historical-references/edward-lear|Edward Lear]], [[historical-references/lewis-carroll|Lewis Carroll]], [[historical-references/friedrich-nietzsche|Friedrich Nietzsche]], [[characters/sherlock-holmes|Sherlock Holmes]]
 
-**Topoi:** [[Book of Nature]], [[World Upside Down]], [[Memento Mori]], [[Pastoral Retreat]], [[Golden Age]], [[Sublime in Nature]]
-**Archetypes:** [[Detective]], [[Child]], [[Prophet]]
-**Motifs:** [[Childhood]], [[Book Reading]], [[Death]], [[Stars]], [[City]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Paradox]], [[Satire of Society]], [[Common Man]], [[Imagination]], [[Nationalism and Patriotism]], [[Innocence and Experience]], [[Ratiocination Detection]], [[Good vs Evil]], [[Humility]], [[Democracy]], [[Beauty]], [[Grotesque]], [[Joy]], [[Marriage and Fidelity]], [[Critique of Progress]], [[Self and Cosmos]], [[Class Conflict]], [[Faith]], [[Value and Scarcity]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Nonfiction]]
+**Topoi:** [[topoi/book-of-nature|Book of Nature]], [[topoi/world-upside-down|World Upside Down]], [[topoi/memento-mori|Memento Mori]], [[topoi/pastoral-retreat|Pastoral Retreat]], [[topoi/golden-age|Golden Age]], [[topoi/sublime-in-nature|Sublime in Nature]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/child|Child]], [[archetypes/prophet|Prophet]]
+**Motifs:** [[motifs/childhood|Childhood]], [[motifs/book-reading|Book Reading]], [[motifs/death|Death]], [[motifs/stars|Stars]], [[motifs/city|City]]
+**Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/common-man|Common Man]], [[concepts/imagination|Imagination]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/humility|Humility]], [[concepts/democracy|Democracy]], [[concepts/beauty|Beauty]], [[concepts/grotesque|Grotesque]], [[concepts/joy|Joy]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/self-and-cosmos|Self and Cosmos]], [[concepts/class-conflict|Class Conflict]], [[concepts/faith|Faith]], [[concepts/value-and-scarcity|Value and Scarcity]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/aphorism|Aphorism]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/frances-henri"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-professor-(bronte)|The Professor (Bronte)]]
+
+</div>
+
 #graph/character

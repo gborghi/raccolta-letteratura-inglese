@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/ferdinand-king-of-navarre"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/love’s-labour’s-lost-(shakespeare)|LOVE’S LABOUR’S LOST (Shakespeare)]]
+
+</div>
+
 #graph/character

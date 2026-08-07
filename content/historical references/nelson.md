@@ -11,4 +11,10 @@ tags:
 
 <div class="concept-works" data-slug="historical-references/nelson"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/rodney-stone-(conan-doyle)|Rodney Stone (Conan Doyle)]]
+
+</div>
+
 #graph/histref

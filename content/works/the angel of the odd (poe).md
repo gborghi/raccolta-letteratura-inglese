@@ -22,7 +22,7 @@ tags:
   - form/satire
 ---
 
-*by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Poe*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A drunken skeptic is plagued by a grotesque liquor-cask spirit who orchestrates a cascade of absurd accidents to punish his disbelief in the improbable; a comic extravaganza on chance and the grotesque.
@@ -43,10 +43,10 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Trickster]], [[Fool]]
-**Motifs:** [[Wine and Drink]], [[Supernatural]], [[Fire]], [[Dreams]], [[Clock]]
-**Themes & Concepts:** [[Grotesque]], [[Fate and Free Will]], [[Satire of Society]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Short Story]], [[Satire]]
+**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/fool|Fool]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/supernatural|Supernatural]], [[motifs/fire|Fire]], [[motifs/dreams|Dreams]], [[motifs/clock|Clock]]
+**Themes & Concepts:** [[concepts/grotesque|Grotesque]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/satire|Satire]]
 
 ## Testo integrale / Full text
 

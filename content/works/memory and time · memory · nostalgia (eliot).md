@@ -37,18 +37,18 @@ tags:
 
 Raccolta tematica di 12 componimenti di T. S. Eliot.
 
-- [[A Lyric ‘If Time and Space, as Sages say’ (Eliot)|(A Lyric): ‘If Time and Space, as Sages say’]]
-- [[Aunt Helen (Eliot)|Aunt Helen]]
-- [[Before Morning (Eliot)|Before Morning]]
-- [[Burbank with a Baedeker Bleistein with a Cigar (Eliot)|Burbank with a Baedeker: Bleistein with a Cigar]]
-- [[Dans le Restaurant (Eliot)|Dans le Restaurant]]
-- [[Five-Finger Exercises (Eliot)|Five-Finger Exercises]]
-- [[Lune de Miel (Eliot)|Lune de Miel]]
-- [[Ode (Eliot)|Ode]]
-- [[Rhapsody on a Windy Night (Eliot)|Rhapsody on a Windy Night]]
-- [[Song ‘If space and time, as sages say’ (Eliot)|Song: ‘If space and time, as sages say’]]
-- [[Song ‘When we came home across the hill’ (Eliot)|Song: ‘When we came home across the hill’]]
-- [[Whispers of Immortality (Eliot)|Whispers of Immortality]]
+- (A Lyric): ‘If Time and Space, as Sages say’
+- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#008_aunt_helen|Aunt Helen]]
+- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#107_before_morning|Before Morning]]
+- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#016_burbank_with_a_baedeker_bleistein_with_a_cigar|Burbank with a Baedeker: Bleistein with a Cigar]]
+- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#023_dans_le_restaurant|Dans le Restaurant]]
+- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#054_five-finger_exercises|Five-Finger Exercises]]
+- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#021_lune_de_miel|Lune de Miel]]
+- Ode
+- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#005_rhapsody_on_a_windy_night|Rhapsody on a Windy Night]]
+- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#104_song_if_space_and_time_as_sages_say|Song: ‘If space and time, as sages say’]]
+- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#106_song_when_we_came_home_across_the_hill|Song: ‘When we came home across the hill’]]
+- [[testi/eliot/atomized/memory-and-time-memory-nostalgia#024_whispers_of_immortality|Whispers of Immortality]]
 
 ## Testo / Text
 

@@ -8,8 +8,15 @@ tags:
 *Cluster* — **2 works**.
 
 ## Defining concepts
-[[Faith]] (2), [[Dante]] (2), [[Truth]] (1), [[Light and Dark]] (1), [[Fragment]] (1), [[Memory and Time]] (1), [[Grace and Redemption]] (1), [[Quest]] (1), [[Eternal Return]] (1), [[Time]] (1), [[Fire]] (1), [[Rose]] (1), [[Garden]] (1), [[Memory]] (1), [[Free Verse]] (1)
+[[concepts/faith|Faith]] (2), [[historical-references/dante|Dante]] (2), [[concepts/truth|Truth]] (1), [[motifs/light-and-dark|Light and Dark]] (1), [[forms/fragment|Fragment]] (1), [[concepts/memory-and-time|Memory and Time]] (1), [[concepts/grace-and-redemption|Grace and Redemption]] (1), [[topoi/quest|Quest]] (1), [[topoi/eternal-return|Eternal Return]] (1), [[motifs/time|Time]] (1), [[motifs/fire|Fire]] (1), [[motifs/rose|Rose]] (1), [[motifs/garden|Garden]] (1), [[motifs/memory|Memory]] (1), [[forms/free-verse|Free Verse]] (1)
 
 ## Works
 
 <div class="concept-works" data-slug="clusters/dante"></div>
+
+<div class="concept-works-fallback">
+
+- [[works/four-quartets-(eliot)|FOUR QUARTETS (Eliot)]]
+- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#297_reason|REASON (Coleridge)]]
+
+</div>

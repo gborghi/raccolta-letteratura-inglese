@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/captain-cuttle"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/dombey-and-son-(dickens)|Dombey and Son (Dickens)]]
+
+</div>
+
 #graph/character

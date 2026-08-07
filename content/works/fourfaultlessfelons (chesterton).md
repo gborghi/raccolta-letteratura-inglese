@@ -55,7 +55,7 @@ tags:
 
 # FourFaultlessFelons
 
-*by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
+*by Chesterton*  ·  **Cluster:** [[clusters/short-story-·-concealment-hidden-identity-·-justice-right-and-wrong|Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 
 > A 1930 cycle of four detective stories in which men accused of crimes (a fraud, a murder, a theft, a betrayal) are revealed through inverted detection to have acted virtuously; built on paradox, appearance versus reality, and the innocence behind apparent guilt.
@@ -72,19 +72,19 @@ tags:
 
 ## Connections
 
-**Historical References:** [[King Alfred]], [[Dante]], [[Bible]]
+**Historical References:** [[historical-references/king-alfred|King Alfred]], [[historical-references/dante|Dante]], [[historical-references/bible|Bible]]
 
-**Settings:** [[Egypt]], [[London]], [[Desert]]
+**Settings:** [[settings/egypt|Egypt]], [[settings/london|London]], [[motifs/desert|Desert]]
 
-**Motifs:** [[Concealment Hidden Identity]], [[Secrets]], [[Garden]], [[Imprisonment (2)]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/secrets|Secrets]], [[motifs/garden|Garden]], [[motifs/imprisonment-(2)|Imprisonment (2)]]
 
-**Topoi:** [[Double]]
+**Topoi:** [[topoi/double|Double]]
 
-**Characters:** [[Count Raoul de Marillac]], [[John Hume]], [[Barbara Traill]], [[Walter Windrush]], [[Jacob Nadoway]], [[Alan Nadoway]], [[Colonel Grimm]], [[Isidor Simon]]
+**Characters:** [[characters/count-raoul-de-marillac|Count Raoul de Marillac]], [[characters/john-hume|John Hume]], [[characters/barbara-traill|Barbara Traill]], [[characters/walter-windrush|Walter Windrush]], [[characters/jacob-nadoway|Jacob Nadoway]], [[characters/alan-nadoway|Alan Nadoway]], [[characters/colonel-grimm|Colonel Grimm]], [[characters/isidor-simon|Isidor Simon]]
 
-**Archetypes:** [[Detective]], [[Scapegoat]], [[Trickster]], [[Antihero]]
-**Themes & Concepts:** [[Paradox]], [[Appearance vs Reality]], [[Ratiocination Detection]], [[Innocence and Experience]], [[Guilt]], [[Justice Right and Wrong]], [[Deception]], [[Self-Sacrifice]], [[Distributism]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Kingship and Legitimacy]], [[Power and Corruption]], [[Eastern Religion and Asceticism]], [[Self-Denial and Renunciation]], [[Money and Avarice]], [[Economics]], [[History]]
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]], [[Satire]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/scapegoat|Scapegoat]], [[archetypes/trickster|Trickster]], [[archetypes/antihero|Antihero]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/guilt|Guilt]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/deception|Deception]], [[concepts/self-sacrifice|Self-Sacrifice]], [[concepts/distributism|Distributism]], [[concepts/class-conflict|Class Conflict]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/eastern-religion-and-asceticism|Eastern Religion and Asceticism]], [[concepts/self-denial-and-renunciation|Self-Denial and Renunciation]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]], [[forms/satire|Satire]]
 
 ## Testo integrale / Full text
 

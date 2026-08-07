@@ -14,4 +14,10 @@ The Latin Averroist whose 'double truth' theory provokes Aquinas's one moment of
 
 <div class="concept-works" data-slug="characters/siger-of-brabant"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/aquinas-(chesterton)|aquinas (Chesterton)]]
+
+</div>
+
 #graph/character

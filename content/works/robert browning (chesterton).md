@@ -54,7 +54,7 @@ tags:
   - histref/puritanism
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > Chesterton's critical biography of Browning, celebrating the poet's optimism, vitality, marriage and the grotesque density of his art; a study of imagination and the artist.
@@ -65,18 +65,18 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Tyrant]], [[Lover]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/lover|Lover]]
 
-**Motifs:** [[Imprisonment (2)]], [[Letters and Writing]], [[Journey]], [[Marriage]]
+**Motifs:** [[motifs/imprisonment-(2)|Imprisonment (2)]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/journey|Journey]], [[motifs/marriage|Marriage]]
 
-**Topoi:** [[Carpe Diem]], [[Poet as Prophet]]
+**Topoi:** [[topoi/carpe-diem|Carpe Diem]], [[topoi/poet-as-prophet|Poet as Prophet]]
 
-**Characters:** [[Caliban]], [[Elizabeth Barrett Browning]], [[Edward Moulton Barrett]], [[Pompilia]], [[Giuseppe Caponsacchi]], [[Guido Franceschini]]
+**Characters:** [[characters/caliban|Caliban]], [[characters/elizabeth-barrett-browning|Elizabeth Barrett Browning]], [[characters/edward-moulton-barrett|Edward Moulton Barrett]], [[characters/pompilia|Pompilia]], [[characters/giuseppe-caponsacchi|Giuseppe Caponsacchi]], [[characters/guido-franceschini|Guido Franceschini]]
 
-**Themes & Concepts:** [[Artist and Society]], [[Imagination]], [[Joy]], [[Romantic Love]], [[Marriage and Fidelity]], [[Grotesque]], [[Wonder and Gratitude]], [[Paradox]], [[Truth]], [[Justice Right and Wrong]], [[Immortality of the Soul]], [[Grief and Loss]], [[Faith and Doubt]], [[Self-Sacrifice]], [[Optimism]], [[History]]
-**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Dramatic Monologue]], [[Epic]], [[History Play]], [[Sonnet]], [[Nonfiction]]
-**Historical References:** [[Regency Georgian England]], [[French Revolution]], [[Romantic Movement (Sensibility)]], [[Puritanism]]
-**Settings:** [[Italy]], [[Venice]], [[London]], [[Europe]]
+**Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/imagination|Imagination]], [[concepts/joy|Joy]], [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/grotesque|Grotesque]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/paradox|Paradox]], [[concepts/truth|Truth]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/immortality-of-the-soul|Immortality of the Soul]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/self-sacrifice|Self-Sacrifice]], [[concepts/optimism|Optimism]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/biography|Biography]], [[forms/literary-criticism|Literary Criticism]], [[forms/dramatic-monologue|Dramatic Monologue]], [[forms/epic|Epic]], [[forms/history-play|History Play]], [[forms/sonnet|Sonnet]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/french-revolution|French Revolution]], [[historical-references/romantic-movement-(sensibility)|Romantic Movement (Sensibility)]], [[historical-references/puritanism|Puritanism]]
+**Settings:** [[settings/italy|Italy]], [[settings/venice|Venice]], [[settings/london|London]], [[settings/europe|Europe]]
 
 ## Testo integrale / Full text
 

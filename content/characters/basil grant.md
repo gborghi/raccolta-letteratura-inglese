@@ -14,4 +14,10 @@ The eccentric ex-judge and mystic who solves each queer-trade mystery by trustin
 
 <div class="concept-works" data-slug="characters/basil-grant"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/queertrades-(chesterton)|queertrades (Chesterton)]]
+
+</div>
+
 #graph/character

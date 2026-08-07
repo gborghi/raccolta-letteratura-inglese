@@ -14,4 +14,10 @@ William Ewart Gladstone, the recently deceased Victorian statesman eulogized her
 
 <div class="concept-works" data-slug="characters/gladstone"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/tribute-to-gladstone-(chesterton)|Tribute To Gladstone (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/rosalind"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/fancies-versis-fads-(chesterton)|Fancies Versis Fads (Chesterton)]]
+- [[works/as-you-like-it-(shakespeare)|AS YOU LIKE IT (Shakespeare)]]
+
+</div>
+
 #graph/character

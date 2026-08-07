@@ -28,7 +28,7 @@ tags:
 
 # arthur
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > A sonnet mocking the over-skeptical scholar who would explain away King Arthur; it defends legend and the imaginative truth of the Arthurian tradition against reductive rationalism.
@@ -39,16 +39,16 @@ tags:
 
 ## Connections
 
-**Settings:** [[Medieval England (2)]]
+**Settings:** [[settings/medieval-england-(2)|Medieval England (2)]]
 
-**Topoi:** [[Ubi Sunt]], [[Immortality Through Verse]]
+**Topoi:** [[topoi/ubi-sunt|Ubi Sunt]], [[topoi/immortality-through-verse|Immortality Through Verse]]
 
-**Archetypes:** [[King]]
-**Motifs:** [[Swords and Weapons]], [[Crown]], [[Flags and Banners]]
-**Themes & Concepts:** [[Truth]], [[Imagination]], [[Critique of Progress]], [[Nostalgia]], [[Faith and Doubt]], [[Kingship and Legitimacy]], [[Ratiocination Detection]]
-**Forms & Genres:** [[Sonnet]]
-**Historical References:** [[Arthurian Legend]]
-**Characters:** [[King Arthur]]
+**Archetypes:** [[archetypes/king|King]]
+**Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/crown|Crown]], [[motifs/flags-and-banners|Flags and Banners]]
+**Themes & Concepts:** [[concepts/truth|Truth]], [[concepts/imagination|Imagination]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/nostalgia|Nostalgia]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/ratiocination-detection|Ratiocination Detection]]
+**Forms & Genres:** [[forms/sonnet|Sonnet]]
+**Historical References:** [[historical-references/arthurian-legend|Arthurian Legend]]
+**Characters:** [[characters/king-arthur|King Arthur]]
 
 ## Testo integrale / Full text
 

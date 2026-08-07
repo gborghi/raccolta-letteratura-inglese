@@ -28,7 +28,7 @@ tags:
 
 # shop-of-ghosts
 
-*by Chesterton*  ·  **Cluster:** [[Ghosts · Ghost · Death and Love]]
+*by Chesterton*  ·  **Cluster:** [[clusters/ghosts-·-ghost-·-death-and-love|Ghosts · Ghost · Death and Love]]
 
 > [!abstract] 
 > A fantastical essay in which the narrator meets a dying Father Christmas in a toyshop, visited by the ghosts of Dickens, Steele and Ben Jonson, who declare the spirit of Christmas has always been dying yet never dies. Wonder, tradition and immortality.
@@ -47,15 +47,15 @@ tags:
 
 ## Connections
 
-**Settings:** [[London]]
+**Settings:** [[settings/london|London]]
 
-**Topoi:** [[Ubi Sunt]]
+**Topoi:** [[topoi/ubi-sunt|Ubi Sunt]]
 
-**Archetypes:** [[Ghost]]
-**Motifs:** [[Ghosts]], [[Light and Dark]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Immortality]], [[Nostalgia]], [[Immortality of Art Fame]]
-**Forms & Genres:** [[Essay]], [[Fairy Tale Fantasy]], [[Nonfiction]]
-**Characters:** [[Death Personified]], [[Robin Hood]], [[Charles Dickens]], [[Sir Richard Steele]], [[Ben Jonson]]
+**Archetypes:** [[archetypes/ghost|Ghost]]
+**Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/light-and-dark|Light and Dark]]
+**Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/immortality|Immortality]], [[concepts/nostalgia|Nostalgia]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/nonfiction|Nonfiction]]
+**Characters:** [[characters/death-personified|Death Personified]], [[characters/robin-hood|Robin Hood]], [[historical-references/charles-dickens|Charles Dickens]], [[characters/sir-richard-steele|Sir Richard Steele]], [[characters/ben-jonson|Ben Jonson]]
 
 ## Testo integrale / Full text
 

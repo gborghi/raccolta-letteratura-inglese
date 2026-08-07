@@ -14,4 +14,12 @@ Chesterton's central argument that philanthropic reformers (teetotalers, vegetar
 
 <div class="concept-works" data-slug="concepts/religious-persecution"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ephemeral-(chesterton)|ephemeral (Chesterton)]]
+- [[works/the-refugees-(conan-doyle)|The Refugees (Conan Doyle)]]
+- [[works/the-french-revolution-(belloc)|The French Revolution (Belloc)]]
+
+</div>
+
 #graph/concept

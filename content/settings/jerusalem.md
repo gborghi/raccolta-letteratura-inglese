@@ -14,4 +14,11 @@ Chesterton's 1919 pilgrimage to Jerusalem and the Holy Land, his first long jour
 
 <div class="concept-works" data-slug="settings/jerusalem"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/gkc-autobiography-(chesterton)|GKC-Autobiography (Chesterton)]]
+- [[works/meaning-of-the-crusade-(chesterton)|meaning of the crusade (Chesterton)]]
+
+</div>
+
 #graph/setting

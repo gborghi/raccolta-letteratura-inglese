@@ -14,4 +14,11 @@ The first Crusader ruler of Jerusalem, held up by Chesterton as the ideal of med
 
 <div class="concept-works" data-slug="characters/godfrey-de-bouillon"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/new-jerusalem-(chesterton)|New Jerusalem (Chesterton)]]
+- [[works/meaning-of-the-crusade-(chesterton)|meaning of the crusade (Chesterton)]]
+
+</div>
+
 #graph/character

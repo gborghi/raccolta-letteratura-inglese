@@ -14,4 +14,10 @@ The fin-de-siècle sensibility of grey, world-weary artistic melancholy that the
 
 <div class="concept-works" data-slug="concepts/decadence-and-aestheticism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/tribute-to-gladstone-(chesterton)|Tribute To Gladstone (Chesterton)]]
+
+</div>
+
 #graph/concept

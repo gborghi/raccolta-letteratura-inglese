@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/agnes-grey"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/agnes-grey-(bronte)|Agnes Grey (Bronte)]]
+
+</div>
+
 #graph/character

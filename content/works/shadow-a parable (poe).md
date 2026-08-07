@@ -25,7 +25,7 @@ tags:
   - setting/egypt
 ---
 
-*by Poe*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
+*by Poe*  ·  **Cluster:** [[clusters/mortality-·-grave-·-memento-mori|Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > A plague-haunted company in ancient Ptolemais confronts a shadow speaking with the voices of the dead; a meditation on death, pestilence and the inescapable presence of the departed.
@@ -35,13 +35,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Memento Mori]], [[Dance of Death]]
-**Archetypes:** [[Ghost]]
-**Motifs:** [[Death]], [[Supernatural]], [[Ghosts]], [[Wine and Drink]], [[Mirror]], [[Stars]]
-**Themes & Concepts:** [[Mortality]], [[Terror and Horror]], [[Grief and Loss]]
-**Forms & Genres:** [[Parable]], [[Allegory]]
-**Historical References:** [[Classical Antiquity]]
-**Settings:** [[Egypt]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]], [[topoi/dance-of-death|Dance of Death]]
+**Archetypes:** [[archetypes/ghost|Ghost]]
+**Motifs:** [[motifs/death|Death]], [[motifs/supernatural|Supernatural]], [[motifs/ghosts|Ghosts]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/mirror|Mirror]], [[motifs/stars|Stars]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/grief-and-loss|Grief and Loss]]
+**Forms & Genres:** [[forms/parable|Parable]], [[forms/allegory|Allegory]]
+**Historical References:** [[historical-references/classical-antiquity|Classical Antiquity]]
+**Settings:** [[settings/egypt|Egypt]]
 
 ## Testo integrale / Full text
 

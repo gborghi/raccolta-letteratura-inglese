@@ -26,7 +26,7 @@ tags:
   - histref/darwinism
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A 1929 essay attacking materialists and Darwinians for smuggling a personified 'Nature' into their arguments, and the modern habit of using dead metaphor as a substitute for reason; a satirical defence of clear thought over mythology.
@@ -45,11 +45,11 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]], [[Darwinism]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/darwinism|Darwinism]]
 
-**Motifs:** [[Dawn]], [[Nature]], [[Clock]], [[Time]]
-**Themes & Concepts:** [[Critique of Progress]], [[Truth]], [[Imagination]], [[Paradox]], [[Faith]], [[Power of Language]], [[Deception]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
+**Motifs:** [[motifs/dawn|Dawn]], [[concepts/nature|Nature]], [[motifs/clock|Clock]], [[motifs/time|Time]]
+**Themes & Concepts:** [[concepts/critique-of-progress|Critique of Progress]], [[concepts/truth|Truth]], [[concepts/imagination|Imagination]], [[concepts/paradox|Paradox]], [[concepts/faith|Faith]], [[concepts/power-of-language|Power of Language]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -19,18 +19,18 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
+*by Poe*  ·  **Cluster:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > An acrostic love poem concealing a lady's name in its lines; a playful puzzle-poem on love, riddle, and the link between names, truth, and poetry.
 
 ## Connections
 
-**Topoi:** [[Immortality Through Verse]], [[Love as Religion]]
-**Archetypes:** [[Lover]]
-**Motifs:** [[Letters and Writing]], [[Eyes and Sight]]
-**Themes & Concepts:** [[Romantic Love]], [[Truth]], [[Beauty]], [[Imagination]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]], [[topoi/love-as-religion|Love as Religion]]
+**Archetypes:** [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/eyes-and-sight|Eyes and Sight]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/truth|Truth]], [[concepts/beauty|Beauty]], [[concepts/imagination|Imagination]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

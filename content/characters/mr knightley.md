@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/mr-knightley"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/emma-(austen)|Emma (Austen)]]
+
+</div>
+
 #graph/character

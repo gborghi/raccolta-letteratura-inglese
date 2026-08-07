@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/guiderius"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/cymbeline-(shakespeare)|CYMBELINE (Shakespeare)]]
+
+</div>
+
 #graph/character

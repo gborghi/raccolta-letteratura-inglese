@@ -25,7 +25,7 @@ tags:
 
 # skeleton
 
-*by Chesterton*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
+*by Chesterton*  ·  **Cluster:** [[clusters/mortality-·-grave-·-memento-mori|Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > A short lyric in which Death laughs among the flowers, revealing death as 'the good King's jest' hidden carefully by God. A joyful, paradoxical meditation on mortality.
@@ -36,15 +36,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[King]]
+**Archetypes:** [[archetypes/king|King]]
 
-**Settings:** [[Grave (2)]]
+**Settings:** [[settings/grave-(2)|Grave (2)]]
 
-**Topoi:** [[Memento Mori]]
-**Motifs:** [[Flowers]], [[Birds]], [[Insects]]
-**Themes & Concepts:** [[Mortality]], [[Joy]], [[Paradox]], [[Secrecy and Concealment]], [[Providence]]
-**Forms & Genres:** [[Lyric]], [[Epigram]]
-**Characters:** [[Death Personified]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/flowers|Flowers]], [[motifs/birds|Birds]], [[motifs/insects|Insects]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/joy|Joy]], [[concepts/paradox|Paradox]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/providence|Providence]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/epigram|Epigram]]
+**Characters:** [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

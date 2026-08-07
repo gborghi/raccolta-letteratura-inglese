@@ -25,19 +25,19 @@ tags:
   - setting/the_underworld
 ---
 
-*by Poe*  ·  **Cluster:** [[Night Journey Vision · Katabasis Descent · Quest Hero]]
+*by Poe*  ·  **Cluster:** [[clusters/night-journey-vision-·-katabasis-descent-·-quest-hero|Night Journey Vision · Katabasis Descent · Quest Hero]]
 
 > [!abstract] 
 > Ballad of a knight's lifelong quest for a golden land he never finds, ending with a pilgrim's counsel to ride down the Valley of the Shadow.
 
 ## Connections
 
-**Topoi:** [[Quest]], [[Night Journey Vision]], [[Katabasis Descent]]
-**Archetypes:** [[Quest Hero]], [[Pilgrim]]
-**Motifs:** [[Journey]], [[Money and Gold]], [[Moon]], [[Death]]
-**Themes & Concepts:** [[Quest (2)]], [[Disillusionment]], [[Mortality]], [[Ambition]]
-**Forms & Genres:** [[Ballad Ballade]], [[Allegory]]
-**Settings:** [[Underworld Cave]]
+**Topoi:** [[topoi/quest|Quest]], [[topoi/night-journey-vision|Night Journey Vision]], [[topoi/katabasis-descent|Katabasis Descent]]
+**Archetypes:** [[archetypes/quest-hero|Quest Hero]], [[archetypes/pilgrim|Pilgrim]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/money-and-gold|Money and Gold]], [[motifs/moon|Moon]], [[motifs/death|Death]]
+**Themes & Concepts:** [[concepts/quest-(2)|Quest (2)]], [[concepts/disillusionment|Disillusionment]], [[concepts/mortality|Mortality]], [[concepts/ambition|Ambition]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/allegory|Allegory]]
+**Settings:** [[settings/underworld-cave|Underworld Cave]]
 
 ## Testo integrale / Full text
 

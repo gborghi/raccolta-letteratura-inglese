@@ -14,4 +14,10 @@ Russian novelist named directly ('Great Dostoievsky's dance') as the source of t
 
 <div class="concept-works" data-slug="historical-references/dostoevsky"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/americanisation-(chesterton)|americanisation (Chesterton)]]
+
+</div>
+
 #graph/histref

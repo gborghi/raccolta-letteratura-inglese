@@ -46,7 +46,7 @@ tags:
   - character/duchess_of_berwick
 ---
 
-*by Wilde*  ·  **Cluster:** [[World Upside Down · Comedy]]
+*by Wilde*  ·  **Cluster:** [[clusters/world-upside-down-·-comedy|World Upside Down · Comedy]]
 
 > [!abstract] 
 > Wilde's 1892 society comedy in four acts satirising Victorian morality through the rigid 'good woman' Lady Windermere and the worldly Mrs. Erlynne (her secret mother), built on the fan, the dropped reputation, and an epigrammatic dialogue that dissolves the line between good and bad women.
@@ -115,14 +115,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Fall from Innocence]], [[World Upside Down]], [[Double]]
-**Archetypes:** [[(Reputed) Fallen Woman]], [[Innocent]], [[Great Mother]], [[Trickster]]
-**Motifs:** [[Marriage]], [[Concealment Hidden Identity]], [[Money and Gold]], [[Flowers]], [[Rose]], [[White and Red]], [[Clothing and Costume]], [[City]], [[Fog and Smoke]]
-**Themes & Concepts:** [[Satire of Society]], [[Appearance vs Reality]], [[Deception]], [[Marriage and Fidelity]], [[Innocence and Experience]], [[Grace and Redemption]], [[Sin and the Fall]], [[Temptation]], [[Identity]], [[Grief and Loss]]
-**Forms & Genres:** [[Comedy]], [[Satire]], [[Epigram]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]], [[Court]]
-**Characters:** [[Lady Windermere]], [[Lord Windermere]], [[Lord Darlington]], [[Mrs Erlynne]], [[Duchess of Berwick]]
+**Topoi:** [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/world-upside-down|World Upside Down]], [[topoi/double|Double]]
+**Archetypes:** [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/innocent|Innocent]], [[archetypes/great-mother|Great Mother]], [[archetypes/trickster|Trickster]]
+**Motifs:** [[motifs/marriage|Marriage]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/money-and-gold|Money and Gold]], [[motifs/flowers|Flowers]], [[motifs/rose|Rose]], [[motifs/white-and-red|White and Red]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/city|City]], [[motifs/fog-and-smoke|Fog and Smoke]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/temptation|Temptation]], [[concepts/identity|Identity]], [[concepts/grief-and-loss|Grief and Loss]]
+**Forms & Genres:** [[forms/comedy|Comedy]], [[forms/satire|Satire]], [[forms/epigram|Epigram]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/london|London]], [[settings/court|Court]]
+**Characters:** [[characters/lady-windermere|Lady Windermere]], [[characters/lord-windermere|Lord Windermere]], [[characters/lord-darlington|Lord Darlington]], [[characters/mrs-erlynne|Mrs Erlynne]], [[characters/duchess-of-berwick|Duchess of Berwick]]
 
 ## Testo integrale / Full text
 

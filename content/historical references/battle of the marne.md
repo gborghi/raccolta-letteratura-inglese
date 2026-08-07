@@ -14,4 +14,10 @@ The 1914 WWI battle (St Gond, Mondemont, Morin marsh) that frames the poem's pre
 
 <div class="concept-works" data-slug="historical-references/battle-of-the-marne"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ballad-of-st-barbara-(chesterton)|Ballad of St Barbara (Chesterton)]]
+
+</div>
+
 #graph/histref

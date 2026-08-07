@@ -14,4 +14,10 @@ Swift's shipwrecked narrator whose Yahoo-disgust and its cure Chesterton reads a
 
 <div class="concept-works" data-slug="characters/gulliver"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/fancies-versis-fads-(chesterton)|Fancies Versis Fads (Chesterton)]]
+
+</div>
+
 #graph/character

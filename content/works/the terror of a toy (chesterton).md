@@ -30,7 +30,7 @@ tags:
   - histref/christianity
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A satirical essay mocking the fad of banning toy bows and cannons, arguing that danger lies in the child not the implement and that the toy sword is 'the soul of the sword that will never be stained with blood'. Themes: satire of progressive faddism, common sense, and the poetry of arms and heroism.
@@ -49,15 +49,15 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Spanish Inquisition]], [[Bible]], [[Christianity]]
+**Historical References:** [[historical-references/spanish-inquisition|Spanish Inquisition]], [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]]
 
-**Archetypes:** [[Child]]
+**Archetypes:** [[archetypes/child|Child]]
 
-**Topoi:** [[War as Glory]]
+**Topoi:** [[topoi/war-as-glory|War as Glory]]
 
-**Motifs:** [[Swords and Weapons]], [[Childhood]], [[Blood]], [[Machine]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Maturation and Growth]], [[Heroism]], [[Paradox]], [[Innocence and Experience]], [[Common Man]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Nonfiction]]
+**Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/childhood|Childhood]], [[motifs/blood|Blood]], [[motifs/machine|Machine]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/heroism|Heroism]], [[concepts/paradox|Paradox]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/common-man|Common Man]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/aphorism|Aphorism]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

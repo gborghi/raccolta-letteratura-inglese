@@ -14,4 +14,10 @@ The rambling, kindly aristocrat of Dombey and Son whom Chesterton praises as Dic
 
 <div class="concept-works" data-slug="characters/cousin-feenix"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+
+</div>
+
 #graph/character

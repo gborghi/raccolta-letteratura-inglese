@@ -17,7 +17,7 @@ tags:
   - histref/first_world_war
   - histref/napoleonic_wars_the_navy
 ---
-*by Conan Doyle*  ·  **Cluster:** [[War and Empire · History · Nationalism and Patriotism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/war-and-empire-·-history-·-nationalism-and-patriotism|War and Empire · History · Nationalism and Patriotism]]
 
 > [!abstract] 
 > A 1913 polemical essay in which Conan Doyle analyzes General von Bernhardi's Germany and the Next War, rebutting German grievances against Britain point by point while warning that an attack is likely and urging construction of a Channel Tunnel for strategic security.
@@ -33,6 +33,6 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Empire and Imperialism]], [[History]]
-**Historical References:** [[Kaiser Wilhelm II]], [[First World War]], [[Napoleonic Wars the Navy]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/history|History]]
+**Historical References:** [[historical-references/kaiser-wilhelm-ii|Kaiser Wilhelm II]], [[historical-references/first-world-war|First World War]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]]

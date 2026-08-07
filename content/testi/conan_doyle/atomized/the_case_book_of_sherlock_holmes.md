@@ -7029,7 +7029,7 @@ In ordine di pubblicazione: **UN SCANDALO IN BOEMIA**
 **AVVENTURA XI. L’avventura dello inquilino velato**  
 **AVVENTURA XII. L’avventura di Shoscombe Old Place**
 
-#I lavori di Challenger  
+I lavori di Challenger  
 Conan Doyle nei panni del personaggio del Professor Challenger
 
 IL MONDO PERDUTO  

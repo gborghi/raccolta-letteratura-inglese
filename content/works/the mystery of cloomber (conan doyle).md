@@ -31,7 +31,7 @@ tags:
   - archetype/outsider
   - archetype/prophet
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Gothic and Supernatural · Terror and Horror · The Unseen]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/gothic-and-supernatural-·-terror-and-horror-·-the-unseen|Gothic and Supernatural · Terror and Horror · The Unseen]]
 
 > [!abstract] 
 > John Fothergill West's family settles near a Wigtownshire manor let to General Heatherstone, an Anglo-Indian officer barricaded in dread of a supernatural vengeance stemming from a Buddhist mystic's curse laid on him during the Afghan campaigns decades earlier. The mystery builds toward the arrival of three Eastern avengers who claim the debt owed for a long-ago betrayal.
@@ -58,11 +58,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Gothic Novel]], [[Novel]]
-**Themes & Concepts:** [[Fear]], [[Guilt]], [[Secrecy and Concealment]], [[Revenge]], [[Mesmerism]], [[Empire and Imperialism]], [[Fate and Free Will]]
-**Motifs:** [[Ghosts]], [[Uncanny]], [[House Mansion]], [[Secrets]], [[Journey]]
-**Settings:** [[Scotland the Highlands]]
-**Characters:** [[General Heatherstone]], [[John Fothergill West]], [[Gabriel Heatherstone]], [[Mordaunt Heatherstone]]
-**Archetypes:** [[Avenger]], [[Outsider]], [[Prophet]]
+**Forms & Genres:** [[forms/gothic-novel|Gothic Novel]], [[forms/novel|Novel]]
+**Themes & Concepts:** [[concepts/fear|Fear]], [[concepts/guilt|Guilt]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/revenge|Revenge]], [[concepts/mesmerism|Mesmerism]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/fate-and-free-will|Fate and Free Will]]
+**Motifs:** [[motifs/ghosts|Ghosts]], [[concepts/uncanny|Uncanny]], [[motifs/house-mansion|House Mansion]], [[motifs/secrets|Secrets]], [[motifs/journey|Journey]]
+**Settings:** [[settings/scotland-the-highlands|Scotland the Highlands]]
+**Characters:** [[characters/general-heatherstone|General Heatherstone]], [[characters/john-fothergill-west|John Fothergill West]], [[characters/gabriel-heatherstone|Gabriel Heatherstone]], [[characters/mordaunt-heatherstone|Mordaunt Heatherstone]]
+**Archetypes:** [[archetypes/avenger|Avenger]], [[archetypes/outsider|Outsider]], [[archetypes/prophet|Prophet]]
 
-**Also relevant to:** [[Alienation · Outsider · Exile]]
+**Also relevant to:** [[clusters/alienation-·-outsider-·-exile|Alienation · Outsider · Exile]]

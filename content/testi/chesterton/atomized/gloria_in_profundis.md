@@ -21,17 +21,17 @@ GLORIA IN PROFUNDIS
 There has fallen on earth for a token  
 A god too great for the sky.  
 He has burst out of all things and broken  
-The bounds of [[Eternity|eternity]]:  
-Into [[Time|time]] and the terminal land  
-He has strayed like a thief or a [[Lover|lover]],  
+The bounds of [[concepts/eternity|eternity]]:  
+Into [[motifs/time|time]] and the terminal land  
+He has strayed like a thief or a [[archetypes/lover|lover]],  
 For the wine of the world brims over,  
 Its splendour is spilt on the sand.  
 
 Who is proud when the heavens are humble,  
-Who mounts if the [[Mountains|mountains]] fall,  
-If the fixed [[Stars|stars]] topple and tumble  
-And a [[deluge]] of [[Love|love]] drowns all-  
-Who rears up his head for a [[Crown|crown]],  
+Who mounts if the [[settings/mountains|mountains]] fall,  
+If the fixed [[motifs/stars|stars]] topple and tumble  
+And a deluge of [[motifs/love|love]] drowns all-  
+Who rears up his head for a [[motifs/crown|crown]],  
 Who holds up his will for a warrant,  
 Who strives with the starry torrent,  
 When all that is good goes down?  
@@ -46,9 +46,9 @@ Outrushing the fall of man
 Is the height of the fall of God.  
 
 Glory to God in the Lowest  
-The spout of the [[Stars|stars]] in spate-  
+The spout of the [[motifs/stars|stars]] in spate-  
 Where thunderbolt thinks to be slowest  
-And the [[Lightning|lightning]] fears to be late:  
+And the [[motifs/lightning|lightning]] fears to be late:  
 As men dive for sunken gem  
 Pursuing, we hunt and hound it,  
 The fallen star has found it  
@@ -66,17 +66,17 @@ GLORIA IN PROFUNDIS
 È caduto sulla terra come segno  
 Un dio troppo grande per il cielo.  
 È prorotto fuori da tutte le cose e ha infranto  
-I confini dell'[[Eternity|eternità]]:  
-Nel [[Time|tempo]] e nella terra ultima  
-S'è smarrito come un ladro o un [[Lover|amante]],  
+I confini dell'[[concepts/eternity|eternità]]:  
+Nel [[motifs/time|tempo]] e nella terra ultima  
+S'è smarrito come un ladro o un [[archetypes/lover|amante]],  
 Ché il vino del mondo trabocca,  
 Il suo splendore è versato sulla sabbia.  
 
 Chi è superbo quando i cieli s'umiliano,  
-Chi s'innalza se le [[Mountains|montagne]] cadono,  
-Se le fisse [[Stars|stelle]] vacillano e rovinano  
-E un [[deluge|diluvio]] d'[[Love|amore]] tutto sommerge—  
-Chi leva alto il capo per una [[Crown|corona]],  
+Chi s'innalza se le [[settings/mountains|montagne]] cadono,  
+Se le fisse [[motifs/stars|stelle]] vacillano e rovinano  
+E un diluvio d'[[motifs/love|amore]] tutto sommerge—  
+Chi leva alto il capo per una [[motifs/crown|corona]],  
 Chi leva alta la volontà per un mandato,  
 Chi lotta col torrente stellato,  
 Quando tutto ciò che è buono va giù?  
@@ -91,9 +91,9 @@ Trascorrendo oltre la caduta dell'uomo
 È l'altezza della caduta di Dio.  
 
 Gloria a Dio nell'Infimo  
-Lo zampillo delle [[Stars|stelle]] in piena—  
+Lo zampillo delle [[motifs/stars|stelle]] in piena—  
 Là dove il fulmine crede d'esser più tardo  
-E il [[Lightning|lampo]] teme d'essere in ritardo:  
+E il [[motifs/lightning|lampo]] teme d'essere in ritardo:  
 Come gli uomini si tuffano per la gemma sommersa  
 Inseguendola, la cacciamo e le diamo la caccia,  
 La stella caduta l'ha trovata  
@@ -113,17 +113,17 @@ GLORIA IN PROFUNDIS
 There has fallen on earth for a token  
 A god too great for the sky.  
 He has burst out of all things and broken  
-The bounds of [[Eternity|eternity]]:  
-Into [[Time|time]] and the terminal land  
-He has strayed like a thief or a [[Lover|lover]],  
+The bounds of [[concepts/eternity|eternity]]:  
+Into [[motifs/time|time]] and the terminal land  
+He has strayed like a thief or a [[archetypes/lover|lover]],  
 For the wine of the world brims over,  
 Its splendour is spilt on the sand.  
 
 Who is proud when the heavens are humble,  
-Who mounts if the [[Mountains|mountains]] fall,  
-If the fixed [[Stars|stars]] topple and tumble  
-And a [[deluge]] of [[Love|love]] drowns all-  
-Who rears up his head for a [[Crown|crown]],  
+Who mounts if the [[settings/mountains|mountains]] fall,  
+If the fixed [[motifs/stars|stars]] topple and tumble  
+And a deluge of [[motifs/love|love]] drowns all-  
+Who rears up his head for a [[motifs/crown|crown]],  
 Who holds up his will for a warrant,  
 Who strives with the starry torrent,  
 When all that is good goes down?  
@@ -138,9 +138,9 @@ Outrushing the fall of man
 Is the height of the fall of God.  
 
 Glory to God in the Lowest  
-The spout of the [[Stars|stars]] in spate-  
+The spout of the [[motifs/stars|stars]] in spate-  
 Where thunderbolt thinks to be slowest  
-And the [[Lightning|lightning]] fears to be late:  
+And the [[motifs/lightning|lightning]] fears to be late:  
 As men dive for sunken gem  
 Pursuing, we hunt and hound it,  
 The fallen star has found it  
@@ -158,17 +158,17 @@ GLORIA IN PROFUNDIS
 È caduto sulla terra come segno  
 Un dio troppo grande per il cielo.  
 È prorotto fuori da tutte le cose e ha infranto  
-I confini dell'[[Eternity|eternità]]:  
-Nel [[Time|tempo]] e nella terra ultima  
-S'è smarrito come un ladro o un [[Lover|amante]],  
+I confini dell'[[concepts/eternity|eternità]]:  
+Nel [[motifs/time|tempo]] e nella terra ultima  
+S'è smarrito come un ladro o un [[archetypes/lover|amante]],  
 Ché il vino del mondo trabocca,  
 Il suo splendore è versato sulla sabbia.  
 
 Chi è superbo quando i cieli s'umiliano,  
-Chi s'innalza se le [[Mountains|montagne]] cadono,  
-Se le fisse [[Stars|stelle]] vacillano e rovinano  
-E un [[deluge|diluvio]] d'[[Love|amore]] tutto sommerge—  
-Chi leva alto il capo per una [[Crown|corona]],  
+Chi s'innalza se le [[settings/mountains|montagne]] cadono,  
+Se le fisse [[motifs/stars|stelle]] vacillano e rovinano  
+E un diluvio d'[[motifs/love|amore]] tutto sommerge—  
+Chi leva alto il capo per una [[motifs/crown|corona]],  
 Chi leva alta la volontà per un mandato,  
 Chi lotta col torrente stellato,  
 Quando tutto ciò che è buono va giù?  
@@ -183,9 +183,9 @@ Trascorrendo oltre la caduta dell'uomo
 È l'altezza della caduta di Dio.  
 
 Gloria a Dio nell'Infimo  
-Lo zampillo delle [[Stars|stelle]] in piena—  
+Lo zampillo delle [[motifs/stars|stelle]] in piena—  
 Là dove il fulmine crede d'esser più tardo  
-E il [[Lightning|lampo]] teme d'essere in ritardo:  
+E il [[motifs/lightning|lampo]] teme d'essere in ritardo:  
 Come gli uomini si tuffano per la gemma sommersa  
 Inseguendola, la cacciamo e le diamo la caccia,  
 La stella caduta l'ha trovata  

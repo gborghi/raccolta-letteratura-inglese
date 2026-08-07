@@ -14,4 +14,10 @@ The harsh hanging judge of Stevenson's unfinished last novel, in whom Chesterton
 
 <div class="concept-works" data-slug="characters/weir-of-hermiston"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/robert-louis-stevenson-(chesterton)|Robert Louis Stevenson (Chesterton)]]
+
+</div>
+
 #graph/character

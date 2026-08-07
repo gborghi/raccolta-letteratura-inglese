@@ -14,4 +14,10 @@ His social encyclical on Labour (Rerum Novarum) is quoted at length as proof tha
 
 <div class="concept-works" data-slug="historical-references/pope-leo-xiii"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/conversion-(chesterton)|conversion (Chesterton)]]
+
+</div>
+
 #graph/histref

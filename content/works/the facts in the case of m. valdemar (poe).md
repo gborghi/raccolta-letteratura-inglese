@@ -17,7 +17,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Terror and Horror · Madness]]
+*by Poe*  ·  **Cluster:** [[clusters/terror-and-horror-·-madness|Terror and Horror · Madness]]
 
 > [!abstract] 
 > A pseudo-scientific horror tale in which a dying man is mesmerized at the point of death and held suspended for months until his sudden, grotesque dissolution; themes of death, the uncanny, and bodily decay.
@@ -38,9 +38,9 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Death]], [[Decay]], [[Sleeper Awakes (2)]]
-**Themes & Concepts:** [[Terror and Horror]], [[Grotesque]], [[Uncanny]], [[Mesmerism]]
-**Forms & Genres:** [[Short Story]]
+**Motifs:** [[motifs/death|Death]], [[motifs/decay|Decay]], [[motifs/sleeper-awakes-(2)|Sleeper Awakes (2)]]
+**Themes & Concepts:** [[concepts/terror-and-horror|Terror and Horror]], [[concepts/grotesque|Grotesque]], [[concepts/uncanny|Uncanny]], [[concepts/mesmerism|Mesmerism]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
 
 ## Testo integrale / Full text
 

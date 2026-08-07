@@ -33,7 +33,7 @@ tags:
 
 # Divorce Democracy
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > Pamphlet arguing that extending divorce is the rich man's weapon against the poor family, defending marriage as a democratic vow of 'for better, for worse'.
@@ -53,13 +53,13 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Ancient Rome]], [[Medieval England]], [[First World War]]
+**Historical References:** [[settings/ancient-rome|Ancient Rome]], [[historical-references/medieval-england|Medieval England]], [[historical-references/first-world-war|First World War]]
 
-**Archetypes:** [[Common Man (2)]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Motifs:** [[Marriage]], [[Home]]
-**Themes & Concepts:** [[Marriage and Fidelity]], [[Class Conflict]], [[Social Injustice]], [[Poverty]], [[Power and Corruption]], [[Distributism]], [[Democracy]], [[Critique of Progress]], [[Common Man]], [[Nationalism and Patriotism]], [[Freedom]], [[Satire of Society]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Motifs:** [[motifs/marriage|Marriage]], [[motifs/home|Home]]
+**Themes & Concepts:** [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/class-conflict|Class Conflict]], [[concepts/social-injustice|Social Injustice]], [[concepts/poverty|Poverty]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/distributism|Distributism]], [[concepts/democracy|Democracy]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/common-man|Common Man]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/freedom|Freedom]], [[concepts/satire-of-society|Satire of Society]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

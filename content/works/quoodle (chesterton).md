@@ -26,7 +26,7 @@ tags:
 
 # quoodle
 
-*by Chesterton*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
+*by Chesterton*  ·  **Cluster:** [[clusters/joy-·-animals-·-comic-verse-song|Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 
 > A comic song sung by a dog, mocking the 'noselessness of Man' and celebrating the rich animal world of smells closed to human minds; on nature, wonder and the limits of human perception.
@@ -37,14 +37,14 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]]
+**Historical References:** [[historical-references/bible|Bible]]
 
-**Characters:** [[Quoodle]]
+**Characters:** [[characters/quoodle|Quoodle]]
 
-**Topoi:** [[Book of Nature]], [[Fall from Innocence]]
-**Motifs:** [[Animals]], [[Nature]], [[Flowers]], [[Smell and Scent]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Joy]], [[Nature vs Civilization]], [[Perception and Consciousness]], [[Sin and the Fall]]
-**Forms & Genres:** [[Comic Verse Song]], [[Lyric]]
+**Topoi:** [[topoi/book-of-nature|Book of Nature]], [[topoi/fall-from-innocence|Fall from Innocence]]
+**Motifs:** [[motifs/animals|Animals]], [[concepts/nature|Nature]], [[motifs/flowers|Flowers]], [[motifs/smell-and-scent|Smell and Scent]]
+**Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/joy|Joy]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/perception-and-consciousness|Perception and Consciousness]], [[concepts/sin-and-the-fall|Sin and the Fall]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

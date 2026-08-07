@@ -30,7 +30,7 @@ tags:
 
 # a-hymn
 
-*by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
+*by Chesterton*  ·  **Cluster:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > A national hymn and prayer (three stanzas, hymn-meter) begging God to take away the people's pride and to deliver a corrupt, gold-walled nation from lies, profit and damnation; central themes are faith, national renewal, humility, and the corruption of power.
@@ -41,12 +41,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Great Chain of Being]]
+**Topoi:** [[topoi/great-chain-of-being|Great Chain of Being]]
 
-**Motifs:** [[Money and Gold]], [[Swords and Weapons]], [[Prayer]], [[Sleep]]
-**Themes & Concepts:** [[Faith]], [[Humility]], [[Pride]], [[Power and Corruption]], [[Nationalism and Patriotism]], [[Reform]], [[Grace and Redemption]], [[Providence]], [[Deception]], [[Honour]], [[Union]]
-**Forms & Genres:** [[Hymn]]
-**Historical References:** [[Christianity]], [[Bible]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/prayer|Prayer]], [[motifs/sleep|Sleep]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/humility|Humility]], [[concepts/pride|Pride]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/reform|Reform]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/providence|Providence]], [[concepts/deception|Deception]], [[concepts/honour|Honour]], [[concepts/union|Union]]
+**Forms & Genres:** [[forms/hymn|Hymn]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
 
 ## Testo integrale / Full text
 

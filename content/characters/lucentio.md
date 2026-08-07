@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/lucentio"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-taming-of-the-shrew-(shakespeare)|THE TAMING OF THE SHREW (Shakespeare)]]
+
+</div>
+
 #graph/character

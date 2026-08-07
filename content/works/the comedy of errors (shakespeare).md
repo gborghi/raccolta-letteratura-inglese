@@ -32,7 +32,7 @@ tags:
   - character/emilia
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Supernatural · Uncanny · Double]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/supernatural-·-uncanny-·-double|Supernatural · Uncanny · Double]]
 
 > [!abstract] 
 > Farcical Plautine comedy of two sets of identical twins separated at sea, producing a cascade of mistaken identity in Ephesus before family reunion. Central themes: identity, appearance vs reality, marriage, the comic recovery of lost kin.
@@ -53,12 +53,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Double]]
-**Archetypes:** [[Double Doppelganger]], [[Fool]]
-**Motifs:** [[Concealment Hidden Identity]], [[Mirror]], [[Sea]], [[Money and Gold]]
-**Themes & Concepts:** [[Identity]], [[Appearance vs Reality]], [[Deception]], [[Marriage and Fidelity]], [[Madness]], [[Grief and Loss]]
-**Forms & Genres:** [[Comedy]], [[Blank Verse]]
-**Characters:** [[Antipholus of Syracuse]], [[Antipholus of Ephesus]], [[Dromio of Syracuse]], [[Dromio of Ephesus]], [[Adriana]], [[Luciana]], [[Egeon]], [[Emilia]]
+**Topoi:** [[topoi/double|Double]]
+**Archetypes:** [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/fool|Fool]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/mirror|Mirror]], [[motifs/sea|Sea]], [[motifs/money-and-gold|Money and Gold]]
+**Themes & Concepts:** [[concepts/identity|Identity]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/madness|Madness]], [[concepts/grief-and-loss|Grief and Loss]]
+**Forms & Genres:** [[forms/comedy|Comedy]], [[forms/blank-verse|Blank Verse]]
+**Characters:** [[characters/antipholus-of-syracuse|Antipholus of Syracuse]], [[characters/antipholus-of-ephesus|Antipholus of Ephesus]], [[characters/dromio-of-syracuse|Dromio of Syracuse]], [[characters/dromio-of-ephesus|Dromio of Ephesus]], [[characters/adriana|Adriana]], [[characters/luciana|Luciana]], [[characters/egeon|Egeon]], [[characters/emilia|Emilia]]
 
 ## Testo integrale / Full text
 

@@ -31,7 +31,7 @@ tags:
   - character/william_the_conqueror
   - character/harold
 ---
-*by Belloc*  ·  **Cluster:** [[History · Catholicism · Europe]]
+*by Belloc*  ·  **Cluster:** [[clusters/history-·-catholicism-·-europe|History · Catholicism · Europe]]
 
 > [!abstract] 
 > A historical study of the Bayeux Tapestry read as the one surviving pictorial record of the Norman Conquest and the making of medieval Christendom. Belloc argues from costume, heraldry and Wace's Roman de Rou for a twelfth-century date, then narrates the embroidery panel by panel as a symbolic chronicle of Harold, Edward and William.
@@ -42,9 +42,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[History]], [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Tradition]], [[Nationalism and Patriotism]], [[Faith]], [[Memory and Time]]
-**Motifs:** [[Battlefield (2)]], [[Ship]], [[Swords and Weapons]], [[Crown]], [[Flag]], [[Sea and Voyage]]
-**Historical References:** [[Medieval England]], [[Crusades]], [[William the Conqueror]], [[Catholic Church]]
-**Settings:** [[Medieval England (2)]], [[France]], [[Europe]]
-**Characters:** [[William the Conqueror]], [[Harold]]
+**Forms & Genres:** [[concepts/history|History]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/tradition|Tradition]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/faith|Faith]], [[concepts/memory-and-time|Memory and Time]]
+**Motifs:** [[motifs/battlefield-(2)|Battlefield (2)]], [[motifs/ship|Ship]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/crown|Crown]], [[motifs/flag|Flag]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/crusades|Crusades]], [[historical-references/william-the-conqueror|William the Conqueror]], [[historical-references/catholic-church|Catholic Church]]
+**Settings:** [[settings/medieval-england-(2)|Medieval England (2)]], [[settings/france|France]], [[settings/europe|Europe]]
+**Characters:** [[historical-references/william-the-conqueror|William the Conqueror]], [[characters/harold|Harold]]

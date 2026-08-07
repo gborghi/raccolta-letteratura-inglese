@@ -65,7 +65,7 @@ tags:
   - histref/jane_austen
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
+*by Chesterton*  ·  **Cluster:** [[clusters/paradox-·-food-and-feasting-·-aphorism|Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 
 > A posthumous collection of Chesterton's journalistic essays on manners, culture, civilization, travel and everyday wonders; paradoxical, satirical prose celebrating the common life and gratitude while criticizing modern society and progress.
@@ -114,16 +114,16 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Tyrant]], [[Rebel]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/rebel|Rebel]]
 
-**Characters:** [[Robin Hood]], [[Richard III]], [[Julius Caesar]], [[Elizabeth Bennet]], [[Fanny Price]], [[Queen Elizabeth]]
+**Characters:** [[characters/robin-hood|Robin Hood]], [[characters/richard-iii|Richard III]], [[characters/julius-caesar|Julius Caesar]], [[characters/elizabeth-bennet|Elizabeth Bennet]], [[characters/fanny-price|Fanny Price]], [[characters/queen-elizabeth|Queen Elizabeth]]
 
-**Topoi:** [[Vanitas]], [[Beatus Ille (Happy the Man Rural Retreat)]], [[Sic Transit Gloria Mundi]]
-**Motifs:** [[Food and Feasting]], [[Journey]], [[Birds]], [[Window]], [[Stone and Marble]], [[Road]]
-**Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Satire of Society]], [[Common Man]], [[Critique of Progress]], [[Nature vs Civilization]], [[Artist and Society]], [[Literary Criticism (2)]], [[Nationalism and Patriotism]], [[War and its Cost]], [[Power and Corruption]], [[Democracy]], [[Freedom]], [[Anti-Industrialism]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Travel Writing]], [[Literary Criticism]], [[Biography]], [[Nonfiction]]
-**Historical References:** [[Regency Georgian England]], [[First World War]], [[French Revolution]], [[Puritanism]], [[Medieval England]], [[Napoleonic Wars the Navy]], [[Napoleon]], [[William Penn]], [[Ruskin]], [[Shelley]], [[Jane Austen]]
-**Settings:** [[London]], [[New York]], [[Paris]], [[Rural England]], [[Europe]]
+**Topoi:** [[topoi/vanitas|Vanitas]], [[topoi/beatus-ille-(happy-the-man-rural-retreat)|Beatus Ille (Happy the Man Rural Retreat)]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
+**Motifs:** [[motifs/food-and-feasting|Food and Feasting]], [[motifs/journey|Journey]], [[motifs/birds|Birds]], [[motifs/window|Window]], [[motifs/stone-and-marble|Stone and Marble]], [[motifs/road|Road]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/satire-of-society|Satire of Society]], [[concepts/common-man|Common Man]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/artist-and-society|Artist and Society]], [[concepts/literary-criticism-(2)|Literary Criticism (2)]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/democracy|Democracy]], [[concepts/freedom|Freedom]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/aphorism|Aphorism]], [[forms/travel-writing|Travel Writing]], [[forms/literary-criticism|Literary Criticism]], [[forms/biography|Biography]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/first-world-war|First World War]], [[historical-references/french-revolution|French Revolution]], [[historical-references/puritanism|Puritanism]], [[historical-references/medieval-england|Medieval England]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/napoleon|Napoleon]], [[historical-references/william-penn|William Penn]], [[historical-references/ruskin|Ruskin]], [[historical-references/shelley|Shelley]], [[historical-references/jane-austen|Jane Austen]]
+**Settings:** [[settings/london|London]], [[settings/new-york|New York]], [[settings/paris|Paris]], [[settings/rural-england|Rural England]], [[settings/europe|Europe]]
 
 ## Testo integrale / Full text
 

@@ -45,7 +45,7 @@ tags:
   - character/helen_burns
 ---
 
-*by Bronte*  ·  **Cluster:** [[Madwoman · Great House]]
+*by Bronte*  ·  **Cluster:** [[clusters/madwoman-·-great-house|Madwoman · Great House]]
 
 > [!abstract] 
 > Charlotte Bronte's 1847 first-person Gothic Bildungsroman tracing an orphaned, plain governess from abuse at Gateshead and Lowood to passionate love for the Byronic Rochester, the secret madwoman Bertha, flight, and a marriage of moral and spiritual equality; themes of conscience, faith, independence and self-respect.
@@ -60,13 +60,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Orphan]], [[Outsider]], [[Lover]], [[Madwoman]]
-**Motifs:** [[Fire]], [[Madness (2)]], [[Supernatural]], [[Eyes and Sight]], [[Great House]]
-**Themes & Concepts:** [[Romantic Love]], [[Marriage and Fidelity]], [[Conscience]], [[Faith]], [[Identity]], [[Alienation]], [[Class Conflict]], [[Grace and Redemption]], [[Maturation and Growth]], [[Madness]], [[Temptation]], [[Economics]]
-**Forms & Genres:** [[Novel]], [[Bildungsroman]], [[Gothic Novel]], [[Fictional Autobiography]], [[Nonfiction]]
-**Historical References:** [[Christianity]]
-**Settings:** [[Rural England]]
-**Characters:** [[Jane Eyre]], [[Mr Rochester]], [[Bertha Mason]], [[St John Rivers]], [[Mrs Reed]], [[Mrs Fairfax]], [[Adele Varens]], [[Helen Burns]]
+**Archetypes:** [[archetypes/orphan|Orphan]], [[archetypes/outsider|Outsider]], [[archetypes/lover|Lover]], [[archetypes/madwoman|Madwoman]]
+**Motifs:** [[motifs/fire|Fire]], [[motifs/madness-(2)|Madness (2)]], [[motifs/supernatural|Supernatural]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/great-house|Great House]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/conscience|Conscience]], [[concepts/faith|Faith]], [[concepts/identity|Identity]], [[concepts/alienation|Alienation]], [[concepts/class-conflict|Class Conflict]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/madness|Madness]], [[concepts/temptation|Temptation]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/bildungsroman|Bildungsroman]], [[forms/gothic-novel|Gothic Novel]], [[forms/fictional-autobiography|Fictional Autobiography]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Characters:** [[characters/jane-eyre|Jane Eyre]], [[characters/mr-rochester|Mr Rochester]], [[characters/bertha-mason|Bertha Mason]], [[characters/st-john-rivers|St John Rivers]], [[characters/mrs-reed|Mrs Reed]], [[characters/mrs-fairfax|Mrs Fairfax]], [[characters/adele-varens|Adele Varens]], [[characters/helen-burns|Helen Burns]]
 
 ## Testo integrale / Full text
 

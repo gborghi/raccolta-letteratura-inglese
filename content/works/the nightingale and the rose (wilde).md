@@ -31,7 +31,7 @@ tags:
   - setting/a_garden
 ---
 
-*by Wilde*  ·  **Cluster:** [[Rose · Desire · Value and Scarcity]]
+*by Wilde*  ·  **Cluster:** [[clusters/rose-·-desire-·-value-and-scarcity|Rose · Desire · Value and Scarcity]]
 
 > [!abstract] 
 > A nightingale gives her heart's blood to make a red rose for love, only for the gift to be scorned; a fairy tale on self-sacrifice, the worth of love versus utility, and white turning to red.
@@ -45,12 +45,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Love as Religion]], [[Unattainable Beloved]]
-**Archetypes:** [[Martyr Saint]], [[Lover]]
-**Motifs:** [[Nightingale]], [[Rose]], [[White and Red]], [[Blood]], [[Music and Song]], [[Love]], [[Death]], [[Moon]], [[Garden]]
-**Themes & Concepts:** [[Unrequited Frustrated Love]], [[Romantic Love]], [[Martyrdom]], [[Artist and Society]], [[Beauty and Truth]], [[Satire of Society]]
-**Forms & Genres:** [[Fairy Tale Fantasy]], [[Allegory]]
-**Settings:** [[Garden (2)]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/unattainable-beloved|Unattainable Beloved]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/nightingale|Nightingale]], [[motifs/rose|Rose]], [[motifs/white-and-red|White and Red]], [[motifs/blood|Blood]], [[motifs/music-and-song|Music and Song]], [[motifs/love|Love]], [[motifs/death|Death]], [[motifs/moon|Moon]], [[motifs/garden|Garden]]
+**Themes & Concepts:** [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/romantic-love|Romantic Love]], [[concepts/martyrdom|Martyrdom]], [[concepts/artist-and-society|Artist and Society]], [[concepts/beauty-and-truth|Beauty and Truth]], [[concepts/satire-of-society|Satire of Society]]
+**Forms & Genres:** [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/allegory|Allegory]]
+**Settings:** [[settings/garden-(2)|Garden (2)]]
 
 ## Testo integrale / Full text
 

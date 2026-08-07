@@ -31,7 +31,7 @@ tags:
 
 # elegy
 
-*by Chesterton*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
+*by Chesterton*  ·  **Cluster:** [[clusters/grief-and-loss-·-elegy-·-clothing-and-costume|Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
 > Short ironic elegy: those who worked for England have home graves, those who fought lie afar, but those who rule 'have no graves as yet' — patriotic satire on the ruling class.
@@ -42,12 +42,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Common Man (2)]], [[Corrupt Official]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/corrupt-official|Corrupt Official]]
 
-**Motifs:** [[Grave]], [[Birds]], [[Bees]], [[Cross]], [[Stars]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[War and its Cost]], [[Satire of Society]], [[Mortality]], [[Class Conflict]], [[Power and Corruption]], [[Social Injustice]], [[Economics]]
-**Forms & Genres:** [[Elegy]], [[Satire]]
-**Settings:** [[Rural England]], [[Battlefield]], [[Court]]
+**Motifs:** [[motifs/grave|Grave]], [[motifs/birds|Birds]], [[motifs/bees|Bees]], [[motifs/cross|Cross]], [[motifs/stars|Stars]]
+**Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/satire-of-society|Satire of Society]], [[concepts/mortality|Mortality]], [[concepts/class-conflict|Class Conflict]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/social-injustice|Social Injustice]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/elegy|Elegy]], [[forms/satire|Satire]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/battlefield|Battlefield]], [[settings/court|Court]]
 
 ## Testo integrale / Full text
 

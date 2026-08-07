@@ -14,4 +14,10 @@ The Squire's daughter, secretly married to the poet Treherne, who awakens to fai
 
 <div class="concept-works" data-slug="characters/barbara-vane"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/trees-of-pride-(chesterton)|trees of pride (Chesterton)]]
+
+</div>
+
 #graph/character

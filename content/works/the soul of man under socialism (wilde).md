@@ -34,7 +34,7 @@ tags:
   - setting/industrial_city
 ---
 
-*by Wilde*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Wilde*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > Political-aesthetic essay arguing that abolishing private property frees a true Individualism, attacking poverty, charity, authority and public opinion, and championing the artist's autonomy from society.
@@ -48,14 +48,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Golden Age]], [[World Upside Down]]
-**Archetypes:** [[Rebel]], [[Christ Figure]]
-**Motifs:** [[Money and Gold]], [[Rose]], [[Childhood]], [[City]]
-**Themes & Concepts:** [[Individualism]], [[Artist and Society]], [[Poverty]], [[Social Injustice]], [[Reform]], [[Satire of Society]], [[Self-Knowledge]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Nonfiction]]
-**Historical References:** [[Regency Georgian England]], [[French Revolution]], [[Christianity]]
-**Settings:** [[Industrial City]]
-**Characters:** [[Christ]]
+**Topoi:** [[topoi/golden-age|Golden Age]], [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/rebel|Rebel]], [[archetypes/christ-figure|Christ Figure]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/rose|Rose]], [[motifs/childhood|Childhood]], [[motifs/city|City]]
+**Themes & Concepts:** [[concepts/individualism|Individualism]], [[concepts/artist-and-society|Artist and Society]], [[concepts/poverty|Poverty]], [[concepts/social-injustice|Social Injustice]], [[concepts/reform|Reform]], [[concepts/satire-of-society|Satire of Society]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/aphorism|Aphorism]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/french-revolution|French Revolution]], [[historical-references/christianity|Christianity]]
+**Settings:** [[settings/industrial-city|Industrial City]]
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 
@@ -116,4 +116,4 @@ The evolution of man is slow. The injustice of men is great. It was necessary th
 And yet, Christ did not revolt against authority. He accepted the imperial authority of the Roman Empire and paid tribute. He endured the ecclesiastical authority of the Jewish Church, and would not repel its violence by any violence of His own. He had, as I said before, no scheme for the reconstruction of society. But the modern world has schemes. It proposes to do away with poverty and the suffering that it entails. It desires to get rid of pain, and the suffering that pain entails. It trusts to Socialism and to Science as its methods. What it aims at is an Individualism expressing itself through joy. This Individualism will be larger, fuller, lovelier than any Individualism has ever been. Pain is not the ultimate mode of perfection. It is merely provisional and a protest. It has reference to wrong, unhealthy, unjust surroundings. When the wrong, and the disease, and the injustice are removed, it will have no further place. It will have done its work. It was a great work, but it is almost over. Its sphere lessens every day.
 Nor will man miss it. For what man has sought for is, indeed, neither pain nor pleasure, but simply Life. Man has sought to live intensely, fully, perfectly. When he can do so without exercising restraint on others, or suffering it ever, and his activities are all pleasurable to him, he will be saner, healthier, more civilised, more himself. Pleasure is Nature’s test, her sign of approval. When man is happy, he is in harmony with himself and his environment. The new Individualism, for whose service Socialism, whether it wills it or not, is working, will be perfect harmony. It will be what the Greeks sought for, but could not, except in Thought, realise completely, because they had slaves, and fed them; it will be what the Renaissance sought for, but could not realise completely except in Art, because it had slaves, and starved them. It will be complete, and through it each man will attain to his perfection. The new Individualism is the new Hellenism.
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

@@ -32,7 +32,7 @@ tags:
   - topos/katabasis_descent
   - topos/golden_age
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Science Fiction · Discovery · Reason vs the Supernatural]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/science-fiction-·-discovery-·-reason-vs-the-supernatural|Science Fiction · Discovery · Reason vs the Supernatural]]
 
 > [!abstract] 
 > Professor Maracot, assistant Cyrus Headley, and mechanic Bill Scanlan descend in a steel diving-chamber to the bottom of the Atlantic to survey an oceanic trench. Their hawser is severed by a monstrous crustacean and they sink to the sea floor, where they discover the still-inhabited ruins of Atlantis and are rescued by its people, who possess strange sciences and face a resurgent evil sorcerer.
@@ -52,10 +52,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Science Fiction]], [[Adventure Fiction]], [[Novel]]
-**Themes & Concepts:** [[Wonder]], [[Reason and Rationalism]], [[Fate and Free Will]], [[Courage]], [[Terror and Horror]], [[Nature vs Civilization]]
-**Motifs:** [[Sea]], [[Water]], [[Light and Dark]], [[Journey]], [[Ruins the Abbey]], [[Sea and Voyage]]
-**Settings:** [[Ship]]
-**Characters:** [[Professor Maracot]], [[Cyrus Headley]], [[Bill Scanlan]]
-**Archetypes:** [[Quest Hero]], [[Mentor]], [[Hero]]
-**Topoi:** [[Katabasis Descent]], [[Golden Age]]
+**Forms & Genres:** [[forms/science-fiction|Science Fiction]], [[forms/adventure-fiction|Adventure Fiction]], [[forms/novel|Novel]]
+**Themes & Concepts:** [[concepts/wonder|Wonder]], [[concepts/reason-and-rationalism|Reason and Rationalism]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/courage|Courage]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/nature-vs-civilization|Nature vs Civilization]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/water|Water]], [[motifs/light-and-dark|Light and Dark]], [[motifs/journey|Journey]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Settings:** [[motifs/ship|Ship]]
+**Characters:** [[characters/professor-maracot|Professor Maracot]], [[characters/cyrus-headley|Cyrus Headley]], [[characters/bill-scanlan|Bill Scanlan]]
+**Archetypes:** [[archetypes/quest-hero|Quest Hero]], [[archetypes/mentor|Mentor]], [[archetypes/hero|Hero]]
+**Topoi:** [[topoi/katabasis-descent|Katabasis Descent]], [[topoi/golden-age|Golden Age]]

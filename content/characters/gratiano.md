@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/gratiano"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-merchant-of-venice-(shakespeare)|THE MERCHANT OF VENICE (Shakespeare)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ The Victorian writer whose shift from admiring the French Revolution to glorifyi
 
 <div class="concept-works" data-slug="characters/carlyle"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thecrimesofengland-(chesterton)|TheCrimesOfEngland (Chesterton)]]
+
+</div>
+
 #graph/character

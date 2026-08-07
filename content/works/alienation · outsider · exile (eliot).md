@@ -37,19 +37,19 @@ tags:
 
 Raccolta tematica di 13 componimenti di T. S. Eliot.
 
-- [[Eyes that last I saw in tears (Eliot)|Eyes that last I saw in tears]]
-- [[Gerontion (Eliot)|Gerontion]]
-- [[Hysteria (Eliot)|Hysteria]]
-- [[Lines for an Old Man (Eliot)|Lines for an Old Man]]
-- [[Marina (Eliot)|Marina]]
-- [[Morning at the Window (Eliot)|Morning at the Window]]
-- [[Portrait of a Lady (Eliot)|Portrait of a Lady]]
-- [[Preludes (Eliot)|Preludes]]
-- [[Spleen (Eliot)|Spleen]]
-- [[Sweeney Among the Nightingales (Eliot)|Sweeney Among the Nightingales]]
-- [[The Love Song of J. Alfred Prufrock (Eliot)|The Love Song of J. Alfred Prufrock]]
-- [[To the Indians who Died in Africa (Eliot)|To the Indians who Died in Africa]]
-- [[V, W, X (Eliot)|V, W, X]]
+- [[testi/eliot/atomized/alienation-outsider-exile#052_eyes_that_last_i_saw_in_tears|Eyes that last I saw in tears]]
+- [[testi/eliot/atomized/alienation-outsider-exile#015_gerontion|Gerontion]]
+- [[testi/eliot/atomized/alienation-outsider-exile#011_hysteria|Hysteria]]
+- [[testi/eliot/atomized/alienation-outsider-exile#056_lines_for_an_old_man|Lines for an Old Man]]
+- [[testi/eliot/atomized/alienation-outsider-exile#046_marina|Marina]]
+- [[testi/eliot/atomized/alienation-outsider-exile#006_morning_at_the_window|Morning at the Window]]
+- [[testi/eliot/atomized/alienation-outsider-exile#003_portrait_of_a_lady|Portrait of a Lady]]
+- [[testi/eliot/atomized/alienation-outsider-exile#004_preludes|Preludes]]
+- [[testi/eliot/atomized/alienation-outsider-exile#113_spleen|Spleen]]
+- [[testi/eliot/atomized/alienation-outsider-exile#026_sweeney_among_the_nightingales|Sweeney Among the Nightingales]]
+- [[testi/eliot/atomized/alienation-outsider-exile#002_the_love_song_of_j_alfred_prufrock|The Love Song of J. Alfred Prufrock]]
+- [[testi/eliot/atomized/alienation-outsider-exile#076_to_the_indians_who_died_in_africa|To the Indians who Died in Africa]]
+- [[testi/eliot/atomized/alienation-outsider-exile#123_v_w_x|V, W, X]]
 
 ## Testo / Text
 

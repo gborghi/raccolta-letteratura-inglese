@@ -28,35 +28,35 @@ Headpiece filled with straw. Alas!
 Our dried voices, when  
 We whisper together  
 Are quiet and meaningless  
-As [[Wind|wind]] in dry grass  
+As [[motifs/wind|wind]] in dry grass  
 Or rats’ feet over broken glass  
 In our dry cellar  
 Shape without form, shade without colour,  
 Paralysed force, gesture without motion;  
 Those who have crossed  
-With direct eyes, to [[Death|death]]’s other Kingdom  
+With direct eyes, to [[motifs/death|death]]’s other Kingdom  
 Remember us — if at all — not as lost  
 Violent souls, but only  
 As the hollow men  
 The stuffed men.  
 II  
-Eyes I dare not meet in [[Dreams|dreams]]  
-In [[Death|death]]’s dream kingdom  
+Eyes I dare not meet in [[motifs/dreams|dreams]]  
+In [[motifs/death|death]]’s dream kingdom  
 These do not appear:  
 There, the eyes are  
 Sunlight on a broken column  
 There, is a tree swinging  
 And voices are  
-In the [[Wind|wind]]’s singing  
+In the [[motifs/wind|wind]]’s singing  
 More distant and more solemn  
 Than a fading star.  
 Let me be no nearer  
-In [[Death|death]]’s dream kingdom  
+In [[motifs/death|death]]’s dream kingdom  
 Let me also wear  
 Such deliberate disguises  
 Rat’s coat, crowskin, crossed staves  
 In a field  
-Behaving as the [[Wind|wind]] behaves  
+Behaving as the [[motifs/wind|wind]] behaves  
 No nearer —  
 Not that final meeting  
 In the twilight kingdom  
@@ -68,8 +68,8 @@ Are raised, here they receive
 The supplication of a dead man’s hand  
 Under the twinkle of a fading star.  
 Is it like this  
-In [[Death|death]]’s other kingdom  
-Waking [[Alone|alone]]  
+In [[motifs/death|death]]’s other kingdom  
+Waking alone  
 At the hour when we are  
 Trembling with tenderness  
 Lips that would kiss  
@@ -77,44 +77,44 @@ Form prayers to broken stone.
 IV  
 The eyes are not here  
 There are no eyes here  
-In this valley of dying [[Stars|stars]]  
+In this valley of dying [[motifs/stars|stars]]  
 In this hollow valley  
 This broken jaw of our lost kingdoms  
 In this last of meeting places  
 We grope together  
 And avoid speech  
-Gathered on this beach of the tumid [[River|river]]  
+Gathered on this beach of the tumid [[motifs/river|river]]  
 Sightless, unless  
 The eyes reappear  
 As the perpetual star  
-Multifoliate [[Rose|rose]]  
-Of [[Death|death]]’s twilight kingdom  
-The [[Hope|hope]] only  
+Multifoliate [[motifs/rose|rose]]  
+Of [[motifs/death|death]]’s twilight kingdom  
+The [[concepts/hope|hope]] only  
 Of empty men.  
 V  
 Here we go round the prickly pear  
 Prickly pear prickly pear  
 Here we go round the prickly pear  
-At five o’[[Clock|clock]] in the morning.  
+At five o’[[motifs/clock|clock]] in the morning.  
 Between the idea  
 And the reality  
 Between the motion  
 And the act  
-Falls the [[Shadow]]  
+Falls the [[archetypes/shadow|Shadow]]  
 For Thine is the Kingdom  
 Between the conception  
 And the creation  
 Between the emotion  
 And the response  
-Falls the [[Shadow]]  
+Falls the [[archetypes/shadow|Shadow]]  
 Life is very long  
-Between the [[Desire|desire]]  
+Between the [[motifs/desire|desire]]  
 And the spasm  
 Between the potency  
 And the existence  
 Between the essence  
 And the descent  
-Falls the [[Shadow]]  
+Falls the [[archetypes/shadow|Shadow]]  
 For Thine is the Kingdom  
 For Thine is  
 Life is  
@@ -141,13 +141,13 @@ Headpiece filled with straw. Alas!
 Our dried voices, when  
 We whisper together  
 Are quiet and meaningless  
-As [[Wind|wind]] in dry grass  
+As [[motifs/wind|wind]] in dry grass  
 Or rats’ feet over broken glass  
 In our dry cellar  
 Shape without form, shade without colour,  
 Paralysed force, gesture without motion;  
 Those who have crossed  
-With direct eyes, to [[Death|death]]’s other Kingdom  
+With direct eyes, to [[motifs/death|death]]’s other Kingdom  
 Remember us — if at all — not as lost  
 Violent souls, but only  
 As the hollow men  
@@ -160,23 +160,23 @@ The stuffed men.
 
 
 II  
-Eyes I dare not meet in [[Dreams|dreams]]  
-In [[Death|death]]’s dream kingdom  
+Eyes I dare not meet in [[motifs/dreams|dreams]]  
+In [[motifs/death|death]]’s dream kingdom  
 These do not appear:  
 There, the eyes are  
 Sunlight on a broken column  
 There, is a tree swinging  
 And voices are  
-In the [[Wind|wind]]’s singing  
+In the [[motifs/wind|wind]]’s singing  
 More distant and more solemn  
 Than a fading star.  
 Let me be no nearer  
-In [[Death|death]]’s dream kingdom  
+In [[motifs/death|death]]’s dream kingdom  
 Let me also wear  
 Such deliberate disguises  
 Rat’s coat, crowskin, crossed staves  
 In a field  
-Behaving as the [[Wind|wind]] behaves  
+Behaving as the [[motifs/wind|wind]] behaves  
 No nearer —  
 Not that final meeting  
 In the twilight kingdom  
@@ -195,8 +195,8 @@ Are raised, here they receive
 The supplication of a dead man’s hand  
 Under the twinkle of a fading star.  
 Is it like this  
-In [[Death|death]]’s other kingdom  
-Waking [[Alone|alone]]  
+In [[motifs/death|death]]’s other kingdom  
+Waking alone  
 At the hour when we are  
 Trembling with tenderness  
 Lips that would kiss  
@@ -211,19 +211,19 @@ Form prayers to broken stone.
 IV  
 The eyes are not here  
 There are no eyes here  
-In this valley of dying [[Stars|stars]]  
+In this valley of dying [[motifs/stars|stars]]  
 In this hollow valley  
 This broken jaw of our lost kingdoms  
 In this last of meeting places  
 We grope together  
 And avoid speech  
-Gathered on this beach of the tumid [[River|river]]  
+Gathered on this beach of the tumid [[motifs/river|river]]  
 Sightless, unless  
 The eyes reappear  
 As the perpetual star  
-Multifoliate [[Rose|rose]]  
-Of [[Death|death]]’s twilight kingdom  
-The [[Hope|hope]] only  
+Multifoliate [[motifs/rose|rose]]  
+Of [[motifs/death|death]]’s twilight kingdom  
+The [[concepts/hope|hope]] only  
 Of empty men.  
 
 
@@ -236,26 +236,26 @@ V
 Here we go round the prickly pear  
 Prickly pear prickly pear  
 Here we go round the prickly pear  
-At five o’[[Clock|clock]] in the morning.  
+At five o’[[motifs/clock|clock]] in the morning.  
 Between the idea  
 And the reality  
 Between the motion  
 And the act  
-Falls the [[Shadow]]  
+Falls the [[archetypes/shadow|Shadow]]  
 For Thine is the Kingdom  
 Between the conception  
 And the creation  
 Between the emotion  
 And the response  
-Falls the [[Shadow]]  
+Falls the [[archetypes/shadow|Shadow]]  
 Life is very long  
-Between the [[Desire|desire]]  
+Between the [[motifs/desire|desire]]  
 And the spasm  
 Between the potency  
 And the existence  
 Between the essence  
 And the descent  
-Falls the [[Shadow]]  
+Falls the [[archetypes/shadow|Shadow]]  
 For Thine is the Kingdom  
 For Thine is  
 Life is  

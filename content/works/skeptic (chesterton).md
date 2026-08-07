@@ -27,7 +27,7 @@ tags:
 
 # skeptic
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > An essay on the logic of belief, arguing that exposed fraudulent mediums do not disprove the supernatural and distinguishing religious passion from scientific investigation. Faith, doubt and the supernatural.
@@ -46,11 +46,11 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Greek Mythology]], [[Greek Tragedy]], [[Christianity]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/greek-tragedy|Greek Tragedy]], [[historical-references/christianity|Christianity]]
 
-**Motifs:** [[Supernatural]], [[Ghosts]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]], [[Paradox]], [[Deception]], [[Fanaticism]], [[History]]
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
+**Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/ghosts|Ghosts]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/doubt|Doubt]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/paradox|Paradox]], [[concepts/deception|Deception]], [[concepts/fanaticism|Fanaticism]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

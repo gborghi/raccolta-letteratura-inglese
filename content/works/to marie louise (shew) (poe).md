@@ -16,18 +16,18 @@ tags:
   - form/blank_verse
 ---
 
-*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Poe*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A grateful blank-verse tribute to Marie Louise Shew, whose presence restores the despairing speaker's faith in Truth, Virtue and Humanity, her words echoing the divine 'Let there be light'. Themes of love, gratitude, faith and the angelic beloved.
 
 ## Connections
 
-**Topoi:** [[Love as Religion]]
-**Motifs:** [[Eyes and Sight]]
-**Themes & Concepts:** [[Romantic Love]], [[Faith]], [[Wonder and Gratitude]]
-**Forms & Genres:** [[Blank Verse]]
-**Historical References:** [[Bible]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]]
+**Motifs:** [[motifs/eyes-and-sight|Eyes and Sight]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/faith|Faith]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]]
+**Forms & Genres:** [[forms/blank-verse|Blank Verse]]
+**Historical References:** [[historical-references/bible|Bible]]
 
 ## Testo integrale / Full text
 

@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/touchstone"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/as-you-like-it-(shakespeare)|AS YOU LIKE IT (Shakespeare)]]
+
+</div>
+
 #graph/character

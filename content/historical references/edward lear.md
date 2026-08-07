@@ -14,4 +14,11 @@ Nonsense poet of "The Dong with the Luminous Nose," whom Chesterton judges an ev
 
 <div class="concept-works" data-slug="historical-references/edward-lear"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/two-kinds-of-paradox-(chesterton)|Two Kinds of Paradox (Chesterton)]]
+- [[works/the-defendant-(chesterton)|The Defendant (Chesterton)]]
+
+</div>
+
 #graph/histref

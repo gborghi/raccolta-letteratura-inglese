@@ -14,4 +14,10 @@ The immortal penny-dreadful hero repeatedly invoked by Chesterton as the emblema
 
 <div class="concept-works" data-slug="characters/dick-deadshot"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/penny-dreadfuls-(chesterton)|penny-dreadfuls (Chesterton)]]
+
+</div>
+
 #graph/character

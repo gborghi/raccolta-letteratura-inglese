@@ -14,4 +14,10 @@ The Danish king and war-leader; the poem's antagonist, whose baptism at the clos
 
 <div class="concept-works" data-slug="characters/guthrum"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-ballad-of-the-white-horse-(chesterton)|The Ballad of the White Horse (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ The Italian avant-garde movement founded by F.T. Marinetti, whose 1909 Declarati
 
 <div class="concept-works" data-slug="historical-references/futurism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/alarms-and-discursions-(chesterton)|alarms and discursions (Chesterton)]]
+
+</div>
+
 #graph/histref

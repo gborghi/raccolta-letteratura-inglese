@@ -14,4 +14,11 @@ The unnamed divine judge whose calm voice cuts through the thunder to commend th
 
 <div class="concept-works" data-slug="characters/god"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/femina-(chesterton)|femina (Chesterton)]]
+- [[works/prayer-(chesterton)|prayer (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -16,7 +16,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Money and Gold · Poverty · Imprisonment]]
+*by Poe*  ·  **Cluster:** [[clusters/money-and-gold-·-poverty-·-imprisonment|Money and Gold · Poverty · Imprisonment]]
 
 > [!abstract] 
 > A pseudo-scientific hoax-tale presenting Von Kempelen's alchemical discovery of turning lead into gold and its economic consequences. Themes of gold, science, satire and appearance vs reality.
@@ -26,10 +26,10 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Trickster]]
-**Motifs:** [[Money and Gold]]
-**Themes & Concepts:** [[Appearance vs Reality]], [[Deception]], [[Satire of Society]]
-**Forms & Genres:** [[Satire]], [[Short Story]]
+**Archetypes:** [[archetypes/trickster|Trickster]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]]
+**Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/satire-of-society|Satire of Society]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]
 
 ## Testo integrale / Full text
 

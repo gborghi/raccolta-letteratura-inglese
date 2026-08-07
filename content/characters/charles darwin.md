@@ -14,4 +14,13 @@ Repeatedly invoked by name as the disputed authority whose theory of Natural Sel
 
 <div class="concept-works" data-slug="characters/charles-darwin"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/compulsory-education-(chesterton)|Compulsory Education (Chesterton)]]
+- [[works/doubts-about-darwinism-(chesterton)|Doubts About Darwinism (Chesterton)]]
+- [[works/on-darwinism-and-mystery-(chesterton)|On Darwinism and Mystery (Chesterton)]]
+- [[works/well-and-shallows-(chesterton)|Well And Shallows (Chesterton)]]
+
+</div>
+
 #graph/character

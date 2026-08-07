@@ -28,7 +28,7 @@ tags:
 
 # gold-leaves
 
-*by Chesterton*  ·  **Cluster:** [[Seasons · Winter · Autumn]]
+*by Chesterton*  ·  **Cluster:** [[clusters/seasons-·-winter-·-autumn|Seasons · Winter · Autumn]]
 
 > [!abstract] 
 > An autumnal lyric on growing old: golden leaves and grey hairs mark the speaker's passage from youthful heroic ambition to humble wonder at ordinary humanity, 'the million masks of God.'
@@ -39,14 +39,14 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Greek Mythology]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
 
-**Archetypes:** [[Hero]]
+**Archetypes:** [[archetypes/hero|Hero]]
 
-**Topoi:** [[Ubi Sunt]]
-**Motifs:** [[Autumn]], [[Seasons]], [[Gold and Grey]], [[Flowers]], [[Concealment Hidden Identity]], [[Stars]]
-**Themes & Concepts:** [[Mortality]], [[Transience]], [[Common Man]], [[Humility]], [[Wonder]], [[Democracy]], [[Ambition]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/ubi-sunt|Ubi Sunt]]
+**Motifs:** [[motifs/autumn|Autumn]], [[motifs/seasons|Seasons]], [[motifs/gold-and-grey|Gold and Grey]], [[motifs/flowers|Flowers]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/stars|Stars]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/transience|Transience]], [[concepts/common-man|Common Man]], [[concepts/humility|Humility]], [[concepts/wonder|Wonder]], [[concepts/democracy|Democracy]], [[concepts/ambition|Ambition]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

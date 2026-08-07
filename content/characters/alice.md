@@ -14,4 +14,10 @@ The literal-minded child heroine of Lewis Carroll's Alice books, set by Chestert
 
 <div class="concept-works" data-slug="characters/alice"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/spice-of-life-(chesterton)|Spice Of Life (Chesterton)]]
+
+</div>
+
 #graph/character

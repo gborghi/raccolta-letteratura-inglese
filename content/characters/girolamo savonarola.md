@@ -14,4 +14,11 @@ Florentine friar-reformer who preached against Renaissance luxury and complacenc
 
 <div class="concept-works" data-slug="characters/girolamo-savonarola"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+
+</div>
+
 #graph/character

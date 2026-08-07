@@ -14,4 +14,10 @@ Chesterton's mythologized Muhammad-deity, a giant enthroned above the evening st
 
 <div class="concept-works" data-slug="characters/mahound"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lepanto-(chesterton)|lepanto (Chesterton)]]
+
+</div>
+
 #graph/character

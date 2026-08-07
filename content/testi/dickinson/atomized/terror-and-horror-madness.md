@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="0298_alone_i_cannot_be" data-title="298. Alone, I cannot be —" data-chapter="" data-kind="intro" data-tags="motif/the_supernatural,motif/ghosts,concept/imagination,concept/self_and_soul,concept/alienation,form/lyric,cluster/terror_and_horror,cluster/madness"></span>
 
 
-[[Alone]], I cannot be —  
+[[works/alone-(poe)|Alone]], I cannot be —  
 For Hosts — do visit me —  
 Recordless Company —  
 Who baffle Key —  
@@ -32,7 +32,7 @@ For they've never gone —
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Alone|Sola]], io non posso essere —  
+Sola, io non posso essere —  
 Ché Schiere — mi visitano —  
 Compagnia senza Registro —  
 Che elude ogni Chiave —  
@@ -52,13 +52,13 @@ Perché non se ne sono mai andati —
 <span class="atom-split" data-atom="0399_a_house_upon_the_height" data-title="399. A House upon the Height —" data-chapter="" data-kind="intro" data-tags="motif/the_supernatural,motif/death,motif/the_window,concept/the_uncanny,concept/terror_and_horror,cluster/terror_and_horror,cluster/madness"></span>
 
 
-A [[house|House]] upon the Height —  
+A House upon the Height —  
 That Wagon never reached —  
 No Dead, were ever carried down —  
 No Peddler's Cart — approached —  
 
 Whose Chimney never smoked —  
-Whose Windows — [[Night]] and Morn —  
+Whose Windows — [[motifs/night|Night]] and Morn —  
 Caught Sunrise first — and Sunset — last —  
 Then — held an Empty Pane —  
 
@@ -70,13 +70,13 @@ Because He — never told —
 
 <span class="qlang-split" data-lang="it"></span>
 
-Una [[house|Casa]] sull'Altura —  
+Una Casa sull'Altura —  
 Che Carro mai raggiunse —  
 Nessun Morto, mai fu portato giù —  
 Nessun Carretto di Merciaio — s'accostò —  
 
 Il cui Camino mai fumò —  
-Le cui Finestre — [[Night|Notte]] e Mattino —  
+Le cui Finestre — [[motifs/night|Notte]] e Mattino —  
 Colsero l'Alba per prime — e il Tramonto — per ultimo —  
 Poi — tennero un Vetro Vuoto —  
 
@@ -90,10 +90,10 @@ Perché Lui — mai lo disse —
 <span class="atom-split" data-atom="0410_the_first_days_night_had_come" data-title="410. The first Day's Night had come —" data-chapter="" data-kind="intro" data-tags="topos/night_journey,motif/madness,motif/night,motif/music_and_song,concept/madness,concept/identity,concept/self_and_soul,concept/terror_and_horror,form/lyric,cluster/terror_and_horror,cluster/madness"></span>
 
 
-The first Day's [[Night]] had come —  
+The first Day's [[motifs/night|Night]] had come —  
 And grateful that a thing  
 So terrible — had been endured —  
-I told my [[Soul]] to sing —  
+I told my [[motifs/soul|Soul]] to sing —  
 
 She said her Strings were snapt —  
 Her Bow — to Atoms blown —  
@@ -106,22 +106,22 @@ Unrolled its horror in my face —
 Until it blocked my eyes —  
 
 My Brain — begun to laugh —  
-I mumbled — like a [[Fool|fool]] —  
+I mumbled — like a [[archetypes/fool|fool]] —  
 And tho' 'tis Years ago — that Day —  
 My Brain keeps giggling — still.  
 
 And Something's odd — within —  
 That person that I was —  
 And this One — do not feel the same —  
-Could it be [[Madness]] — this?
+Could it be [[concepts/madness|Madness]] — this?
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-La [[Night|Notte]] del primo Giorno era giunta —  
+La [[motifs/night|Notte]] del primo Giorno era giunta —  
 E grata che una cosa  
 Così terribile — fosse stata patita —  
-Dissi alla mia [[Soul|Anima]] di cantare —  
+Dissi alla mia [[motifs/soul|Anima]] di cantare —  
 
 Lei disse che le sue Corde erano spezzate —  
 L'Archetto — in Atomi esploso —  
@@ -134,23 +134,23 @@ Srotolò il suo orrore sul mio volto —
 Finché mi ostruì gli occhi —  
 
 Il mio Cervello — prese a ridere —  
-Biascicavo — come un [[Fool|folle]] —  
+Biascicavo — come un [[archetypes/fool|folle]] —  
 E benché siano Anni fa — quel Giorno —  
 Il mio Cervello ridacchia — ancora.  
 
 E Qualcosa è strano — dentro —  
 Quella persona che ero —  
 E questa — non si sentono uguali —  
-Potrebbe essere [[Madness|Follia]] — questa?
+Potrebbe essere [[concepts/madness|Follia]] — questa?
 
 
 
 <span class="atom-split" data-atom="0435_much_madness_is_divinest_sense" data-title="435. Much Madness is divinest Sense —" data-chapter="" data-kind="intro" data-tags="archetype/rebel,motif/madness,concept/madness,concept/conformity_vs_individualism,concept/paradox,concept/satire_of_society,form/epigram,cluster/terror_and_horror,cluster/madness"></span>
 
 
-Much [[Madness|madness]] is divinest sense  
+Much [[concepts/madness|madness]] is divinest sense  
 To a discerning eye ;  
-Much sense the starkest [[Madness|madness]].  
+Much sense the starkest [[concepts/madness|madness]].  
 'T is the majority  
 In this, as all, prevails.  
 Assent, and you are sane ;  
@@ -160,9 +160,9 @@ And handled with a chain.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Molta [[Madness|follia]] è divinissimo senno  
+Molta [[concepts/madness|follia]] è divinissimo senno  
 Per un occhio che discerne ;  
-Molto senno la più assoluta [[Madness|follia]].  
+Molto senno la più assoluta [[concepts/madness|follia]].  
 È la maggioranza  
 Che in questo, come in tutto, prevale.  
 Assenti, e sei savio ;  
@@ -174,7 +174,7 @@ E trattato con una catena.
 <span class="atom-split" data-atom="0512_the_soul_has_bandaged_moments" data-title="512. The Soul has Bandaged moments —" data-chapter="" data-kind="intro" data-tags="motif/the_supernatural,motif/desire,concept/terror_and_horror,concept/self_and_soul,concept/madness,concept/the_uncanny,cluster/terror_and_horror,cluster/madness"></span>
 
 
-The [[Soul]] has Bandaged moments —  
+The [[motifs/soul|Soul]] has Bandaged moments —  
 When too appalled to stir —  
 She feels some ghastly Fright come up  
 And stop to look at her —  
@@ -182,24 +182,24 @@ And stop to look at her —
 Salute her — with long fingers —  
 Caress her freezing hair —  
 Sip, Goblin, from the very lips  
-The [[Lover]] — hovered — o'er —  
+The [[archetypes/lover|Lover]] — hovered — o'er —  
 Unworthy, that a thought so mean  
 Accost a Theme — so — fair —  
 
-The [[Soul|soul]] has moments of Escape —  
+The [[motifs/soul|soul]] has moments of Escape —  
 When bursting all the doors —  
 She dances like a Bomb, abroad,  
 And swings upon the Hours,  
 
 As do the Bee — delirious borne —  
-Long Dungeoned from his [[Rose]] —  
-Touch [[Liberty]] — then know no more,  
-But [[Noon]], and Paradise —  
+Long Dungeoned from his [[motifs/rose|Rose]] —  
+Touch [[concepts/liberty|Liberty]] — then know no more,  
+But [[motifs/noon|Noon]], and Paradise —  
 
-The [[Soul]]'s retaken moments —  
+The [[motifs/soul|Soul]]'s retaken moments —  
 When, Felon led along,  
 With shackles on the plumed feet,  
-And staples, in the [[Song]],  
+And staples, in the [[works/song-(poe)|Song]],  
 
 The Horror welcomes her, again,  
 These, are not brayed of Tongue —
@@ -207,7 +207,7 @@ These, are not brayed of Tongue —
 
 <span class="qlang-split" data-lang="it"></span>
 
-L'[[Soul|Anima]] ha momenti Bendati —  
+L'[[motifs/soul|Anima]] ha momenti Bendati —  
 Quando troppo atterrita per muoversi —  
 Sente un orrido Spavento levarsi  
 E fermarsi a guardarla —  
@@ -215,24 +215,24 @@ E fermarsi a guardarla —
 Salutarla — con lunghe dita —  
 Carezzarle i capelli gelati —  
 Sorseggiare, Folletto, dalle labbra stesse  
-Su cui l'[[Lover|Amante]] — aleggiò — sospeso —  
+Su cui l'[[archetypes/lover|Amante]] — aleggiò — sospeso —  
 Indegno, che un pensiero sì vile  
 Accosti un Tema — così — bello —  
 
-L'[[Soul|anima]] ha momenti di Fuga —  
+L'[[motifs/soul|anima]] ha momenti di Fuga —  
 Quando spalancando tutte le porte —  
 Danza come una Bomba, all'aperto,  
 E oscilla sulle Ore,  
 
 Come fa l'Ape — portata in delirio —  
-A lungo Incarcerata lontano dalla sua [[Rose|Rosa]] —  
-Tocca la [[Liberty|Libertà]] — poi non sa più nulla,  
-Se non [[Noon|Mezzogiorno]], e Paradiso —  
+A lungo Incarcerata lontano dalla sua [[motifs/rose|Rosa]] —  
+Tocca la [[concepts/liberty|Libertà]] — poi non sa più nulla,  
+Se non [[motifs/noon|Mezzogiorno]], e Paradiso —  
 
-I momenti ripresi dell'[[Soul|Anima]] —  
+I momenti ripresi dell'[[motifs/soul|Anima]] —  
 Quando, Rea condotta via,  
 Con ceppi sui piedi piumati,  
-E graffe, nel [[Song|Canto]],  
+E graffe, nel Canto,  
 
 L'Orrore la riaccoglie, ancora,  
 Queste, non son cose sbraitate da Lingua —
@@ -245,7 +245,7 @@ Queste, non son cose sbraitate da Lingua —
 I tried to think a lonelier Thing  
 Than any I had seen —  
 Some Polar Expiation — An Omen in the Bone  
-Of [[Death]]'s tremendous nearness —  
+Of [[motifs/death|Death]]'s tremendous nearness —  
 
 I probed Retrieveless things  
 My Duplicate — to borrow —  
@@ -254,7 +254,7 @@ A Haggard Comfort springs
 From the belief that Somewhere —  
 Within the Clutch of Thought —  
 There dwells one other Creature  
-Of Heavenly [[Love]] — forgot —  
+Of Heavenly [[motifs/love|Love]] — forgot —  
 
 I plucked at our Partition  
 As One should pry the Walls —  
@@ -272,7 +272,7 @@ Perhaps he — pitied me —
 Provai a pensare una Cosa più sola  
 Di quante ne avessi mai viste —  
 Qualche Espiazione Polare — Un Presagio nell'Osso  
-Della tremenda vicinanza della [[Death|Morte]] —  
+Della tremenda vicinanza della [[motifs/death|Morte]] —  
 
 Sondai cose Irrecuperabili  
 Il mio Duplicato — per averlo in prestito —  
@@ -281,7 +281,7 @@ Un Conforto Smunto sgorga
 Dalla credenza che in Qualche luogo —  
 Dentro la Morsa del Pensiero —  
 Dimori un'altra Creatura  
-Di Celeste [[Love|Amore]] — dimenticata —  
+Di Celeste [[motifs/love|Amore]] — dimenticata —  
 
 Grattai alla nostra Parete  
 Come Uno forzerebbe i Muri —  
@@ -375,14 +375,14 @@ Una volta che è cominciato —
 
 
 Did you ever stand in a Cavern's Mouth —  
-Widths out of the [[Sun]] —  
+Widths out of the [[motifs/sun|Sun]] —  
 And look — and shudder, and block your breath —  
-And deem to be [[Alone|alone]]  
+And deem to be alone  
 
 In such a place, what horror,  
 How Goblin it would be —  
 And fly, as 'twere pursuing you?  
-Then [[Loneliness]] — looks so —  
+Then [[concepts/loneliness|Loneliness]] — looks so —  
 
 Did you ever look in a Cannon's face —  
 Between whose Yellow eye —  
@@ -398,14 +398,14 @@ It's liker so — it seems —
 <span class="qlang-split" data-lang="it"></span>
 
 Sei mai stato sulla Bocca d'una Caverna —  
-Ampiezze lontano dal [[Sun|Sole]] —  
+Ampiezze lontano dal [[motifs/sun|Sole]] —  
 A guardare — e rabbrividire, e mozzarti il respiro —  
-E crederti [[Alone|solo]]  
+E crederti solo  
 
 In un luogo simile, che orrore,  
 Che cosa da Folletti sarebbe —  
 E fuggire, come t'inseguisse?  
-Ecco, la [[Loneliness|Solitudine]] — ha quell'aspetto —  
+Ecco, la [[concepts/loneliness|Solitudine]] — ha quell'aspetto —  
 
 Hai mai guardato in faccia un Cannone —  
 Fra il cui occhio Giallo —  
@@ -422,8 +422,8 @@ Se ricordi, e fosti salvato —
 <span class="atom-split" data-atom="0609_i_years_had_been_from_home" data-title="609. I Years had been from Home" data-chapter="" data-kind="intro" data-tags="concept/terror_and_horror,concept/alienation,concept/nostalgia,concept/memory_and_time,concept/exile,cluster/terror_and_horror,cluster/madness"></span>
 
 
-I Years had been from [[Home]]  
-And now before the [[Door]]  
+I Years had been from [[motifs/home|Home]]  
+And now before the [[motifs/door|Door]]  
 I dared not enter, lest a Face  
 I never saw before  
 
@@ -438,25 +438,25 @@ The Second like an Ocean rolled
 And broke against my ear —  
 
 I laughed a crumbling Laugh  
-That I could [[Fear|fear]] a [[Door]]  
+That I could [[concepts/fear|fear]] a [[motifs/door|Door]]  
 Who Consternation compassed  
 And never winced before.  
 
 I fitted to the Latch  
 My Hand, with trembling care  
-Lest back the awful [[Door]] should [[spring]]  
+Lest back the awful [[motifs/door|Door]] should [[motifs/spring|spring]]  
 And leave me in the Floor —  
 
 Then moved my Fingers off  
 As cautiously as Glass  
 And held my ears, and like a Thief  
-Fled gasping from the [[house|House]] —
+Fled gasping from the House —
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Da Anni io ero via da [[Home|Casa]]  
-e ora davanti alla [[Door|Porta]]  
+Da Anni io ero via da [[motifs/home|Casa]]  
+e ora davanti alla [[motifs/door|Porta]]  
 non osavo entrare, che un Volto  
 mai visto prima  
 
@@ -471,19 +471,19 @@ il Secondo come un Oceano rotolò
 e s'infranse contro il mio orecchio —  
 
 Risi una Risata friabile  
-ch'io potessi [[Fear|temere]] una [[Door|Porta]]  
+ch'io potessi [[concepts/fear|temere]] una [[motifs/door|Porta]]  
 io che la Costernazione avevo cinto  
 e mai avevo tremato prima.  
 
 Adattai al Chiavistello  
 la mia Mano, con tremante cura  
-che la [[Door|Porta]] tremenda non dovesse [[spring|scattare]] indietro  
+che la [[motifs/door|Porta]] tremenda non dovesse [[motifs/spring|scattare]] indietro  
 e lasciarmi sul Pavimento —  
 
 Poi ritrassi le Dita  
 cauta come Vetro  
 e mi tappai le orecchie, e come un Ladro  
-fuggii ansante dalla [[house|Casa]] —
+fuggii ansante dalla Casa —
 
 
 
@@ -493,18 +493,18 @@ fuggii ansante dalla [[house|Casa]] —
 —  
 
 One need not be a Chamber — to be Haunted —  
-One need not be a [[house|House]] —  
+One need not be a House —  
 The Brain has Corridors — surpassing  
 Material Place —  
 
 Far safer, of a Midnight Meeting  
-External [[Ghost]]  
+External [[archetypes/ghost|Ghost]]  
 Than its interior Confronting —  
 That Cooler Host.  
 
 Far safer, through an Abbey gallop,  
 The Stones a'chase —  
-Than Unarmed, one's a'[[Self|self]] encounter —  
+Than Unarmed, one's a'[[concepts/self|self]] encounter —  
 In lonesome Place —  
 
 Ourself behind ourself, concealed —  
@@ -512,8 +512,8 @@ Should startle most —
 Assassin hid in our Apartment  
 Be Horror's least.  
 
-The [[Body]] — borrows a Revolver —  
-He bolts the [[Door]] —  
+The [[concepts/body|Body]] — borrows a Revolver —  
+He bolts the [[motifs/door|Door]] —  
 O'erlooking a superior spectre —  
 Or More —
 
@@ -523,18 +523,18 @@ Or More —
 —  
 
 Non serve essere una Camera — per essere Infestati —  
-Non serve essere una [[house|Casa]] —  
+Non serve essere una Casa —  
 Il Cervello ha Corridoi — che superano  
 Il Luogo Materiale —  
 
 Assai più sicuro, in un Incontro a Mezzanotte,  
-un [[Ghost|Fantasma]] Esterno  
+un [[archetypes/ghost|Fantasma]] Esterno  
 Che il suo Confronto interiore —  
 Quell'Ospite più Freddo.  
 
 Assai più sicuro, galoppare per un'Abbazia,  
 Le Pietre all'inseguimento —  
-Che Disarmati, incontrare il proprio [[Self|sé]] —  
+Che Disarmati, incontrare il proprio [[concepts/self|sé]] —  
 In un Luogo solitario —  
 
 Noi stessi dietro noi stessi, celati —  
@@ -542,8 +542,8 @@ Dovrebbe atterrire di più —
 L'Assassino nascosto nel nostro Appartamento  
 Sia dell'Orrore il minimo.  
 
-Il [[Body|Corpo]] — prende in prestito un Revolver —  
-Egli sbarra la [[Door|Porta]] —  
+Il [[concepts/body|Corpo]] — prende in prestito un Revolver —  
+Egli sbarra la [[motifs/door|Porta]] —  
 Trascurando uno spettro superiore —  
 O Più —
 
@@ -575,7 +575,7 @@ Vast Society
 Neither if He visit Other —  
 Do He dwell — or Nay — know I —  
 But Instinct esteem Him  
-[[Immortality]] —
+[[concepts/immortality|Immortality]] —
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -603,35 +603,35 @@ Società dello Spazio
 Né se Egli visiti Altri —  
 O dimori — o No — io so —  
 Ma l'Istinto Lo stima  
-[[Immortality|Immortalità]] —
+[[concepts/immortality|Immortalità]] —
 
 
 
 <span class="atom-split" data-atom="0683_the_soul_unto_itself" data-title="683. The Soul unto itself" data-chapter="" data-kind="intro" data-tags="topos/the_double,archetype/double_doppelganger,motif/crown,concept/self_and_soul,concept/identity,concept/conscience,concept/alienation,form/lyric,form/epigram,cluster/terror_and_horror,cluster/madness"></span>
 
 
-The [[Soul]] unto itself  
+The [[motifs/soul|Soul]] unto itself  
 Is an imperial friend —  
 Or the most agonizing Spy —  
 An Enemy — could send —  
 
 Secure against its own —  
-No treason it can [[Fear|fear]] —  
+No treason it can [[concepts/fear|fear]] —  
 Itself — its Sovereign — of itself  
-The [[Soul]] should stand in Awe —
+The [[motifs/soul|Soul]] should stand in Awe —
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-L'[[Soul|Anima]] a se stessa  
+L'[[motifs/soul|Anima]] a se stessa  
 È un'amica imperiale —  
 O la più straziante Spia —  
 Che un Nemico — possa inviare —  
 
 Sicura contro i suoi —  
-Nessun tradimento può [[Fear|temere]] —  
+Nessun tradimento può [[concepts/fear|temere]] —  
 Se stessa — suo Sovrano — di se stessa  
-L'[[Soul|Anima]] dovrebbe stare in Soggezione —
+L'[[motifs/soul|Anima]] dovrebbe stare in Soggezione —
 
 
 
@@ -644,7 +644,7 @@ To Past or Period —
 Caught helpless at a sense as if  
 His Mind were going blind —  
 
-Groped up, to see if [[God]] was there —  
+Groped up, to see if [[characters/god|God]] was there —  
 Groped backward at Himself  
 Caressed a Trigger absently  
 And wandered out of Life.
@@ -658,7 +658,7 @@ Al Passato o al Periodo —
 Colto inerme da un senso come se  
 La sua Mente stesse accecandosi —  
 
-Brancolò in alto, per vedere se [[God|Dio]] era là —  
+Brancolò in alto, per vedere se [[characters/god|Dio]] era là —  
 Brancolò all'indietro verso Se stesso  
 Carezzò un Grilletto distrattamente  
 E vagò fuori dalla Vita.
@@ -674,8 +674,8 @@ What Terror would enthrall the Street
 Could Countenance disclose  
 
 The Subterranean Freight  
-The Cellars of the [[Soul]] —  
-Thank [[God]] the loudest Place he made  
+The Cellars of the [[motifs/soul|Soul]] —  
+Thank [[characters/god|God]] the loudest Place he made  
 Is licensed to be still.
 
 
@@ -687,8 +687,8 @@ Che Terrore incanterebbe la Strada
 Potesse il Volto svelare  
 
 Il Carico Sotterraneo  
-Le Cantine dell'[[Soul|Anima]] —  
-Grazie a [[God|Dio]] il Luogo più fragoroso che fece  
+Le Cantine dell'[[motifs/soul|Anima]] —  
+Grazie a [[characters/god|Dio]] il Luogo più fragoroso che fece  
 Ha licenza di tacere.
 
 
@@ -697,12 +697,12 @@ Ha licenza di tacere.
 
 
 Had we our senses  
-But perhaps 'tis [[Well|well]] they're not at [[Home]]  
-So intimate with [[Madness]]  
+But perhaps 'tis [[motifs/well|well]] they're not at [[motifs/home|Home]]  
+So intimate with [[concepts/madness|Madness]]  
 He's liable with them  
 
 Had we the eyes without our Head —  
-How [[Well|well]] that we are Blind —  
+How [[motifs/well|well]] that we are Blind —  
 We could not look upon the Earth —  
 So utterly unmoved —
 
@@ -710,12 +710,12 @@ So utterly unmoved —
 <span class="qlang-split" data-lang="it"></span>
 
 Avessimo i nostri sensi  
-Ma forse è [[Well|bene]] che non siano a [[Home|Casa]]  
-Così intimi con la [[Madness|Follia]]  
+Ma forse è [[motifs/well|bene]] che non siano a [[motifs/home|Casa]]  
+Così intimi con la [[concepts/madness|Follia]]  
 Egli con essi vi è esposto  
 
 Avessimo gli occhi senza la Testa —  
-Che [[Well|bene]] che siamo Ciechi —  
+Che [[motifs/well|bene]] che siamo Ciechi —  
 Non potremmo guardare la Terra —  
 Così del tutto impassibili —
 
@@ -724,30 +724,30 @@ Così del tutto impassibili —
 <span class="atom-split" data-atom="1400_what_mystery_pervades_a_well" data-title="1400. What mystery pervades a well!" data-chapter="" data-kind="intro" data-tags="motif/water,motif/nature,motif/the_supernatural,motif/ghosts,concept/wonder_and_gratitude,concept/the_uncanny,concept/the_natural_order,form/lyric,cluster/terror_and_horror,cluster/madness"></span>
 
 
-What mystery pervades a [[Well|well]]!  
-That [[Water|water]] lives so far —  
+What mystery pervades a [[motifs/well|well]]!  
+That [[motifs/water|water]] lives so far —  
 A neighbor from another world  
 Residing in a jar  
 
 Whose limit none have ever seen,  
 But just his lid of glass —  
-Like looking every [[Time|time]] you please  
+Like looking every [[motifs/time|time]] you please  
 In an abyss's face!  
 
 The grass does not appear afraid,  
-I often [[Wonder|wonder]] he  
+I often [[concepts/wonder|wonder]] he  
 Can stand so close and look so bold  
 At what is awe to me.  
 
 Related somehow they may be,  
-The sedge stands next the [[Sea|sea]] —  
+The sedge stands next the [[motifs/sea|sea]] —  
 Where he is floorless  
 And does no timidity betray  
 
-But [[Nature|nature]] is a stranger yet;  
+But [[concepts/nature|nature]] is a stranger yet;  
 The ones that cite her most  
-Have never passed her haunted [[house]],  
-Nor simplified her [[Ghost|ghost]].  
+Have never passed her haunted house,  
+Nor simplified her [[archetypes/ghost|ghost]].  
 
 To pity those that know her not  
 Is helped by the regret  
@@ -757,30 +757,30 @@ The nearer her they get.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Quale mistero pervade un [[Well|pozzo]]!  
-Che l'[[Water|acqua]] viva così lontano —  
+Quale mistero pervade un [[motifs/well|pozzo]]!  
+Che l'[[motifs/water|acqua]] viva così lontano —  
 Un vicino di un altro mondo  
 Che risiede in una giara  
 
 Il cui limite nessuno ha mai visto,  
 Se non il suo coperchio di vetro —  
-Come guardare ogni [[Time|volta]] che vuoi  
+Come guardare ogni [[motifs/time|volta]] che vuoi  
 In faccia a un abisso!  
 
 L'erba non sembra impaurita,  
-Spesso mi [[Wonder|domando]] come lui  
+Spesso mi [[concepts/wonder|domando]] come lui  
 Possa starle così accanto e guardare così ardito  
 Ciò che per me è sgomento.  
 
 Imparentati in qualche modo forse sono,  
-Il giunco sta accanto al [[Sea|mare]] —  
+Il giunco sta accanto al [[motifs/sea|mare]] —  
 Dove lui è senza fondo  
 E non tradisce alcuna timidezza  
 
-Ma la [[Nature|natura]] è un'estranea ancora;  
+Ma la [[concepts/nature|natura]] è un'estranea ancora;  
 Quelli che più la citano  
-Non hanno mai varcato la sua [[house|casa]] stregata,  
-Né semplificato il suo [[Ghost|spettro]].  
+Non hanno mai varcato la sua casa stregata,  
+Né semplificato il suo [[archetypes/ghost|spettro]].  
 
 Compatire quelli che non la conoscono  
 È soccorso dal rimpianto  
@@ -833,7 +833,7 @@ Quanto te o me —
 
 
 Mine Enemy is growing old —  
-I have at last [[Revenge]] —  
+I have at last [[concepts/revenge|Revenge]] —  
 The Palate of the Hate departs —  
 If any would avenge  
 
@@ -846,7 +846,7 @@ Anger as soon as fed is dead —
 <span class="qlang-split" data-lang="it"></span>
 
 Il Nemico Mio invecchia —  
-Ho infine la [[Revenge|Vendetta]] —  
+Ho infine la [[concepts/revenge|Vendetta]] —  
 Il Palato dell'Odio si dilegua —  
 Se alcuno vuol vendicarsi  
 
@@ -866,9 +866,9 @@ The fellow will go where he belonged —
 Without a hint from me,  
 
 And the world — if the world be looking on —  
-Will see how far from [[Home|home]]  
+Will see how far from [[motifs/home|home]]  
 It is possible for sense to live  
-The [[Soul|soul]] there — all the [[Time|time]].
+The [[motifs/soul|soul]] there — all the [[motifs/time|time]].
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -879,6 +879,6 @@ quel tale andrebbe dove apparteneva —
 senza un cenno da parte mia,  
 
 E il mondo — se il mondo sta a guardare —  
-vedrà quanto lontano da [[Home|casa]]  
+vedrà quanto lontano da [[motifs/home|casa]]  
 è possibile per il senno vivere  
-l'[[Soul|anima]] là — per tutto il [[Time|tempo]].
+l'[[motifs/soul|anima]] là — per tutto il [[motifs/time|tempo]].

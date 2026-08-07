@@ -26,7 +26,7 @@ tags:
   - archetype/the_writer
   - topos/memento_mori
 ---
-*by Belloc*  ·  **Cluster:** [[Familiar Essay · Paradox · The Common Man]]
+*by Belloc*  ·  **Cluster:** [[clusters/familiar-essay-·-paradox-·-the-common-man|Familiar Essay · Paradox · The Common Man]]
 
 > [!abstract] 
 > A collection of Belloc's familiar essays, opening with a mock-metaphysical dedication praising Nothing as the stuff the world was made of. The pieces range over inns, railways, tea, lost manuscripts, death and the pleasure of taking up one's pen, blending whimsy, paradox and reflection.
@@ -70,9 +70,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Sketch]], [[Nonfiction]]
-**Themes & Concepts:** [[Paradox]], [[Wit]], [[Nonsense]], [[Mortality]], [[Nostalgia]], [[Solitude]]
-**Motifs:** [[Inn Tavern]], [[Road]], [[Letters and Writing]], [[Wine and Drink]]
-**Settings:** [[England]], [[Inn]], [[Oxford]]
-**Archetypes:** [[The Writer]]
-**Topoi:** [[Memento Mori]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/sketch|Sketch]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/wit|Wit]], [[concepts/nonsense|Nonsense]], [[concepts/mortality|Mortality]], [[concepts/nostalgia|Nostalgia]], [[concepts/solitude|Solitude]]
+**Motifs:** [[motifs/inn-tavern|Inn Tavern]], [[motifs/road|Road]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/wine-and-drink|Wine and Drink]]
+**Settings:** [[settings/england|England]], [[settings/inn|Inn]], [[settings/oxford|Oxford]]
+**Archetypes:** [[archetypes/the-writer|The Writer]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]

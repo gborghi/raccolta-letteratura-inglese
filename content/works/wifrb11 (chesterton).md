@@ -48,7 +48,7 @@ tags:
 
 # wifrb11
 
-*by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
+*by Chesterton*  ·  **Cluster:** [[clusters/short-story-·-concealment-hidden-identity-·-justice-right-and-wrong|Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 
 > A collection of detective short stories in which the unassuming priest Father Brown solves crimes through moral and psychological insight rather than science, exploring appearance versus reality, sin, and the human heart.
@@ -62,15 +62,15 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Double]]
+**Topoi:** [[topoi/double|Double]]
 
-**Archetypes:** [[Detective]], [[Christ Figure]], [[Double Doppelganger]], [[Trickster]]
-**Motifs:** [[Concealment Hidden Identity]], [[Light and Dark]], [[Blood]], [[Mirror]], [[Fire]], [[Secrets]]
-**Themes & Concepts:** [[Appearance vs Reality]], [[Guilt]], [[Ratiocination Detection]], [[Sin and the Fall]], [[Deception]], [[Conscience]], [[Grace and Redemption]], [[Good vs Evil]], [[Justice Right and Wrong]], [[Identity]], [[Greed and Money]], [[Economics]], [[History]]
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Historical References:** [[Christianity]], [[Elizabethan England]], [[Ancient Rome]]
-**Settings:** [[London]], [[Italy]], [[Paris]], [[Germany]], [[America]], [[Europe]]
-**Characters:** [[Father Brown]], [[Flambeau]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/christ-figure|Christ Figure]], [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/trickster|Trickster]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/light-and-dark|Light and Dark]], [[motifs/blood|Blood]], [[motifs/mirror|Mirror]], [[motifs/fire|Fire]], [[motifs/secrets|Secrets]]
+**Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/guilt|Guilt]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/deception|Deception]], [[concepts/conscience|Conscience]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/identity|Identity]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/elizabethan-england|Elizabethan England]], [[settings/ancient-rome|Ancient Rome]]
+**Settings:** [[settings/london|London]], [[settings/italy|Italy]], [[settings/paris|Paris]], [[settings/germany|Germany]], [[settings/america|America]], [[settings/europe|Europe]]
+**Characters:** [[characters/father-brown|Father Brown]], [[characters/flambeau|Flambeau]]
 
 ## Testo integrale / Full text
 

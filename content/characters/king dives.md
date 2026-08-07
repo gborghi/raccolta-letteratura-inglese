@@ -14,4 +14,11 @@ Chesterton's personification of Dives, the rich man of the biblical parable, who
 
 <div class="concept-works" data-slug="characters/king-dives"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-song-of-the-wheels-(chesterton)|The Song of the Wheels (Chesterton)]]
+- [[works/verses-(belloc)|Verses (Belloc)]]
+
+</div>
+
 #graph/character

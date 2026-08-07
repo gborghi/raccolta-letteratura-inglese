@@ -23,7 +23,7 @@ tags:
 
 # right-and-wrong
 
-*by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
+*by Chesterton*  ·  **Cluster:** [[clusters/wine-and-drink-·-ballad-ballade-·-road|Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 
 > A comic drinking-song contrasting honest wine with cowardly cocoa and teetotal 'windy waters'; a satirical celebration of conviviality and the moral seriousness of drink.
@@ -34,13 +34,13 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Puritanism]]
+**Historical References:** [[historical-references/puritanism|Puritanism]]
 
-**Settings:** [[Orient]]
+**Settings:** [[settings/orient|Orient]]
 
-**Motifs:** [[Wine and Drink]], [[Poison]]
-**Themes & Concepts:** [[Joy]], [[Satire of Society]], [[Honour]], [[Critique of Progress]], [[Nationalism and Patriotism]], [[Temperance and Teetotalism]]
-**Forms & Genres:** [[Comic Verse Song]], [[Satire]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/poison|Poison]]
+**Themes & Concepts:** [[concepts/joy|Joy]], [[concepts/satire-of-society|Satire of Society]], [[concepts/honour|Honour]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/temperance-and-teetotalism|Temperance and Teetotalism]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/satire|Satire]]
 
 ## Testo integrale / Full text
 

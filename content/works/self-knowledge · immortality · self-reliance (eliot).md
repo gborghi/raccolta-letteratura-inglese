@@ -37,17 +37,17 @@ tags:
 
 Raccolta tematica di 11 componimenti di T. S. Eliot.
 
-- [[A Note on War Poetry (Eliot)|A Note on War Poetry]]
-- [[A, B, C (Eliot)|A, B, C]]
-- [[Animula (Eliot)|Animula]]
-- [[At Graduation 1905 (Eliot)|(At Graduation 1905)]]
-- [[G, H, I (Eliot)|G, H, I]]
-- [[I The Eagle soars in the summit of Heaven (Eliot)|I The Eagle soars in the summit of Heaven]]
-- [[J, K, L (Eliot)|J, K, L]]
-- [[M, N, O (Eliot)|M, N, O]]
-- [[P, Q, R (Eliot)|P, Q, R]]
-- [[S, T, U (Eliot)|S, T, U]]
-- [[The Cultivation of Christmas Trees (Eliot)|The Cultivation of Christmas Trees]]
+- [[testi/eliot/atomized/self-knowledge-immortality-self-reliance#075_a_note_on_war_poetry|A Note on War Poetry]]
+- [[testi/eliot/atomized/self-knowledge-immortality-self-reliance#116_a_b_c|A, B, C]]
+- [[testi/eliot/atomized/self-knowledge-immortality-self-reliance#045_animula|Animula]]
+- (At Graduation 1905)
+- [[testi/eliot/atomized/self-knowledge-immortality-self-reliance#118_g_h_i|G, H, I]]
+- [[testi/eliot/atomized/self-knowledge-immortality-self-reliance#058_i_the_eagle_soars_in_the_summit_of_heaven|I The Eagle soars in the summit of Heaven]]
+- [[testi/eliot/atomized/self-knowledge-immortality-self-reliance#119_j_k_l|J, K, L]]
+- [[testi/eliot/atomized/self-knowledge-immortality-self-reliance#120_m_n_o|M, N, O]]
+- [[testi/eliot/atomized/self-knowledge-immortality-self-reliance#121_p_q_r|P, Q, R]]
+- [[testi/eliot/atomized/self-knowledge-immortality-self-reliance#122_s_t_u|S, T, U]]
+- [[testi/eliot/atomized/self-knowledge-immortality-self-reliance#047_the_cultivation_of_christmas_trees|The Cultivation of Christmas Trees]]
 
 ## Testo / Text
 

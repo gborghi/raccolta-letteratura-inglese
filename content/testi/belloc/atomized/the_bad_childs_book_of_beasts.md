@@ -24,7 +24,7 @@ The Yak
 
 The Polar Bear
 
-The [[Lion]]
+The [[motifs/lion|Lion]]
 
 The Tiger
 
@@ -52,7 +52,7 @@ The Frog
 
 Dedication to Evelyn Bell
 
-Introductory poem urging the [[Child|child]] reader to treat the book with respect
+Introductory poem urging the [[archetypes/child|child]] reader to treat the book with respect
 
 VERSES BY
 
@@ -62,7 +62,7 @@ PICTURES BY
 
 B. T. B.
 
-[[Child]]! do not throw this book about;
+[[archetypes/child|Child]]! do not throw this book about;
 
 Refrain from the unholy pleasure
 
@@ -70,7 +70,7 @@ Of cutting all the pictures out!
 
 Preserve it as your chiefest treasure.
 
-[[Child]], have you never heard it said
+[[archetypes/child|Child]], have you never heard it said
 
 That you are heir to all the ages?
 
@@ -100,7 +100,7 @@ TO
 
 MASTER EVELYN BELL
 
-OF [[Oxford|OXFORD]]
+OF [[settings/oxford|OXFORD]]
 
 Evelyn Bell,
 
@@ -212,9 +212,9 @@ I wish I had one too!
 
 * * *
 
-The [[Lion]]
+The [[motifs/lion|Lion]]
 
-The [[Lion]], the Lion, he dwells in the waste,
+The [[motifs/lion|Lion]], the Lion, he dwells in the waste,
 
 He has a big head and a very small waist;
 
@@ -272,7 +272,7 @@ These facts should all be noted down
 
 And ruminated on,
 
-By every boy in [[Oxford]] town
+By every boy in [[settings/oxford|Oxford]] town
 
 Who wants to be a Don.
 
@@ -484,7 +484,7 @@ TO
 
 MASTER EVELYN BELL
 
-OF [[Oxford|OXFORD]]
+OF [[settings/oxford|OXFORD]]
 
 Evelyn Bell,
 
@@ -501,7 +501,7 @@ TO
 
 Maestro Evelyn Bell
 
-Dell’[[Oxford]]
+Dell’[[settings/oxford|Oxford]]
 
 Evelyn Bell
 
@@ -516,7 +516,7 @@ Ti amo molto.
 
 INTRODUCTION
 
-I call you bad, my little [[Child|child]],
+I call you bad, my little [[archetypes/child|child]],
 
 Upon the title page,
 
@@ -562,7 +562,7 @@ But so control your actions that
 
 Your friends may all repeat.
 
-‘This [[Child|child]] is dainty as the Cat,
+‘This [[archetypes/child|child]] is dainty as the Cat,
 
 And as the Owl discreet.’
 
@@ -573,17 +573,17 @@ And as the Owl discreet.’
 
 Introduzione
 
-Ti chiamo cattivo, mio piccolo [[Child|bambino]],
+Ti chiamo cattivo, mio piccolo [[archetypes/child|bambino]],
 
-# In prima pagina
+In prima pagina
 
-#Perché un comportamento scortese e selvaggio
+Perché un comportamento scortese e selvaggio
 
 È normale alla tua età.
 
-# Il messaggio morale di quest’opera inestimabile
+Il messaggio morale di quest’opera inestimabile
 
-# (Se compreso correttamente)
+(Se compreso correttamente)
 
 Ti trasformerà in… un piccolo turco.
 
@@ -591,7 +591,7 @@ Incredibilmente buono.
 
 Non comportatevi come i bambini cattivi.
 
-# Chi, anche solo per un motivo insignificante…
+Chi, anche solo per un motivo insignificante…
 
 Titolo:  
 Imiterà
@@ -610,9 +610,9 @@ Piangerà come cuccioli…
 
 Chi imita i modi di comportamento delle scimmie
 
-# Le loro abitudini del Grifone
+Le loro abitudini del Grifone
 
-# Goditi quelle risate rumorose e inappropriatamente schiette…
+Goditi quelle risate rumorose e inappropriatamente schiette…
 
 E mai pettinarsi i capelli.
 
@@ -620,9 +620,9 @@ Ma controlla bene le tue azioni, così…
 
 Tutti i tuoi amici possono ripetere.
 
-“Questo [[Child|>bambino]] è delicato come il Gatto, ”
+“Questo [[archetypes/child|>bambino]] è delicato come il Gatto, ”
 
-#E come la civetta, discreta…
+E come la civetta, discreta…
 
 * * *
 
@@ -684,7 +684,7 @@ Porterà e riporterà.
 
 Puoi cavalcarlo sul dorso.
 
-# Guidalo attraverso…
+Guidalo attraverso…
 
 Con una corda.
 
@@ -701,7 +701,7 @@ Allora digli a tuo papà dove si può trovare quel “Yak”.
 
 E se fosse terribilmente ricco…
 
-#Ti comprerà quella creatura…
+Ti comprerà quella creatura…
 
 Altrimenti…
 
@@ -731,11 +731,11 @@ I wish I had one too!
 
 <span class="qlang-split" data-lang="it"></span>
 
-#La tigre polare
+La tigre polare
 
 Il Grizzly polare non se ne rende conto
 
-# Di un freddo che mi penetra fino al cuore…
+Di un freddo che mi penetra fino al cuore…
 
 Perché? Ha un ciuffo di capelli.
 
@@ -748,30 +748,30 @@ Vorrei averne uno anch’io!
 <span class="atom-split" data-atom="story_05_the_lion" data-title="The Bad Child’s Book of Beasts — The Lion" data-chapter="The Lion" data-kind="story" data-tags="archetype/child,motif/lion"></span>
 
 
-The [[Lion]]
+The [[motifs/lion|Lion]]
 
-The [[Lion]], the [[Lion]], he dwells in the waste,
+The [[motifs/lion|Lion]], the [[motifs/lion|Lion]], he dwells in the waste,
 
 He has a big head and a very small waist;
 
 But his shoulders are stark, and his jaws they are grim,
 
-And a good little [[Child|child]] will not play with him.
+And a good little [[archetypes/child|child]] will not play with him.
 
 * * *
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il [[Lion|Leone]]
+Il [[motifs/lion|Leone]]
 
-Il [[Lion|Leone]], il [[Lion|Leone]], abita nelle lande desolate.
+Il [[motifs/lion|Leone]], il [[motifs/lion|Leone]], abita nelle lande desolate.
 
 Ha una testa grande e una vita molto stretta.
 
 Ma le sue spalle sono rigide, e la sua mascella è cupa…
 
-E un bravo piccolo [[Child|bambino]] non giocherà con lui.
+E un bravo piccolo [[archetypes/child|bambino]] non giocherà con lui.
 
 * * *
 
@@ -786,7 +786,7 @@ THE TIGER ON the other hand,
 
 is kittenish and mild,
 
-He makes a pretty playfellow for any little [[Child|child]];
+He makes a pretty playfellow for any little [[archetypes/child|child]];
 
 And mothers of large families (who claim to common sense)
 
@@ -801,9 +801,9 @@ Il Tigre
 
 Il tigre, d’altra parte…
 
-# Dolce e gentile come un gattino
+Dolce e gentile come un gattino
 
-Sarebbe un ottimo compagno di giochi per qualsiasi piccolo [[Child|>bambino]];
+Sarebbe un ottimo compagno di giochi per qualsiasi piccolo [[archetypes/child|>bambino]];
 
 Madri di famiglie numerose (che si dichiarano dotate di buon senso)
 
@@ -866,7 +866,7 @@ These facts should all be noted down
 
 And ruminated on,
 
-By every boy in [[Oxford]] town
+By every boy in [[settings/oxford|Oxford]] town
 
 Who wants to be a Don.
 
@@ -877,9 +877,9 @@ Who wants to be a Don.
 
 La Balena
 
-#La balena che vaga intorno al Polo
+La balena che vaga intorno al Polo
 
-# Non è
+Non è
 
 Un pesce da tavola.
 
@@ -893,15 +893,15 @@ E fonderlo per ottenere olio.
 
 E così sostituire
 
-# Il fagiolo di colza
+Il fagiolo di colza
 
 (Un prodotto del suolo).
 
-# Da annotare tutti questi fatti
+Da annotare tutti questi fatti
 
 E ci rifletté a lungo.
 
-Da ogni ragazzo della città di [[Oxford]].
+Da ogni ragazzo della città di [[settings/oxford|Oxford]].
 
 Chi vuole diventare un “Don”?
 
@@ -971,21 +971,21 @@ All in the Mu-se-um.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Ilippopotamo
+Ilippopotamo
 
-# Sparo all’ippopotamo
+Sparo all’ippopotamo
 
 Con proiettili fatti di platino
 
-#Perché se uso quelle pesanti…
+Perché se uso quelle pesanti…
 
 La sua pelle è sicuramente in grado di schiacciarli tutti.
 
 * * *
 
-#Il, davvero
+Il, davvero
 
-# Dodo
+Dodo
 
 Titolo:  
 Il dodo utilizzato
@@ -1002,7 +1002,7 @@ La voce che un tempo strillava e piagnucolava
 
 Ora è per sempre muto…
 
-# Ancora potrete vedere le sue ossa e il suo becco
+Ancora potrete vedere le sue ossa e il suo becco
 
 Tutto nel mu-se-o.
 
@@ -1098,7 +1098,7 @@ With comfort from a parachute.)
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Il Camelopard
+Il Camelopard
 
 Il Camelopard, si dice…
 
@@ -1112,7 +1112,7 @@ Le nuvole circondano la sua testa maestosa.
 
 I suoi piccoli corni toccano il cielo.
 
-#Come farà
+Come farà
 
 Caccio
 
@@ -1124,23 +1124,23 @@ Non riesco a capirlo!
 
 No, io no, davvero!
 
-# Un ritratto di come le persone provino
+Un ritratto di come le persone provino
 
 E non riuscire a colpire quella testa così in alto.
 
 Comprerò un piccolo paracadute
 
-# Un paracadute comune con ali
+Un paracadute comune con ali
 
-# Riempirò tutto con l’arrowroot
+Riempirò tutto con l’arrowroot
 
 E altre cose necessarie…
 
-# E ucciderò questa terribile bestia
+E ucciderò questa terribile bestia
 
 Con pietre, bastoni, armi e fionde.
 
-# Una immagine di
+Una immagine di
 
 Come le persone sparano
 
@@ -1166,7 +1166,7 @@ To go into the water when it rains.
 
 Il pesce erudito
 
-# Questo “pescio” erudito non possiede abbastanza cervello
+Questo “pescio” erudito non possiede abbastanza cervello
 
 Entrare in acqua quando piove.
 
@@ -1196,13 +1196,13 @@ So LARGE a trunk before.
 
 L'Elefante
 
-# Quando le persone pensano a questa bestia…
+Quando le persone pensano a questa bestia…
 
-# Si meravigliano sempre di più
+Si meravigliano sempre di più
 
-# In una situazione del genere…
+In una situazione del genere…
 
-# Piccola coda dietro
+Piccola coda dietro
 
 Avevo un tronco molto grande prima.
 
@@ -1240,13 +1240,13 @@ To Mister So-and-so!
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Il grande babuino
+Il grande babuino
 
-#Il grande babuino viene trovato…
+Il grande babuino viene trovato…
 
 Le pianure di Cariboo:
 
-# Si muove per la città
+Si muove per la città
 
 Senza nulla addosso
 
@@ -1287,11 +1287,11 @@ Rhinoceros, you are an ugly beast.
 
 Il rinoceronte
 
-#Rhinoceros, la tua pelle sembra completamente lacerata…
+Rhinoceros, la tua pelle sembra completamente lacerata…
 
 Non mi piaci affatto.
 
-# Hai un corno dove altre bestie non ne hanno alcuno
+Hai un corno dove altre bestie non ne hanno alcuno
 
 Rinoceronte, sei una bestia brutta.
 
@@ -1339,7 +1339,7 @@ Oh! My!
 
 La Rana
 
-# Sii gentile e premuroso con la rana
+Sii gentile e premuroso con la rana
 
 E non chiamatelo con nomi offensivi.
 
@@ -1350,7 +1350,7 @@ Titolo:
 
 “O ‘Gap-a-grin’, o ‘Toad-gone-wrong’”
 
-# “O Bill Bandy-knees”:
+“O Bill Bandy-knees”:
 
 Il rospo ha tutte le ragioni di essere sensibile
 
@@ -1362,9 +1362,9 @@ Un trattamento gentile e equo;
 
 Almeno
 
-# Persone così solitarie dicono
+Persone così solitarie dicono
 
-# Chi tiene una rana…
+Chi tiene una rana…
 
 Sono estremamente rari.
 

@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/trotty-veck"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/the-chimes-(dickens)|The Chimes (Dickens)]]
+
+</div>
+
 #graph/character

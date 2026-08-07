@@ -14,4 +14,10 @@ Populist President praised at length as a 'democratic despot' who warred on the 
 
 <div class="concept-works" data-slug="characters/andrew-jackson"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/whatisawinamerica-(chesterton)|WhatISawInAmerica (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -39,7 +39,7 @@ tags:
   - histref/romantic_movement_sensibility
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A polemical essay tracing Birth Control to Malthus's reactionary answer to Godwin, arguing it is a capitalist device to lower wages and oppress the poor, opposed to genuine social reform and the family wage.
@@ -59,17 +59,17 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Industrial Revolution]], [[Romantic Movement (Sensibility)]]
+**Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/romantic-movement-(sensibility)|Romantic Movement (Sensibility)]]
 
-**Archetypes:** [[Common Man (2)]], [[Corrupt Official]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/corrupt-official|Corrupt Official]]
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[Malthus]], [[Godwin]], [[Dean of St. Paul's]]
+**Characters:** [[characters/malthus|Malthus]], [[characters/godwin|Godwin]], [[characters/dean-of-st.-paul's|Dean of St. Paul's]]
 
-**Motifs:** [[Marriage]], [[Home]]
-**Themes & Concepts:** [[Social Injustice]], [[Class Conflict]], [[Poverty]], [[Reform]], [[Power and Corruption]], [[Distributism]], [[Common Man]], [[Critique of Progress]], [[Money and Avarice]], [[Slavery]], [[Labor and Work]], [[Freedom]], [[Procreation]], [[Paradox]], [[Democracy]], [[Charity]], [[Economics]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
+**Motifs:** [[motifs/marriage|Marriage]], [[motifs/home|Home]]
+**Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/class-conflict|Class Conflict]], [[concepts/poverty|Poverty]], [[concepts/reform|Reform]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/distributism|Distributism]], [[concepts/common-man|Common Man]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/slavery|Slavery]], [[concepts/labor-and-work|Labor and Work]], [[concepts/freedom|Freedom]], [[concepts/procreation|Procreation]], [[concepts/paradox|Paradox]], [[concepts/democracy|Democracy]], [[concepts/charity|Charity]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 
@@ -363,4 +363,4 @@ an abyss between natural and unnatural arrangements which would
 have to be bridged before we approached what is supposed to be
 the subject of discussion.
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

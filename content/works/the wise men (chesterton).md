@@ -35,7 +35,7 @@ tags:
   - histref/greek_mythology
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Grace and Redemption · Humility · Bread and Wine Eucharist]]
+*by Chesterton*  ·  **Cluster:** [[clusters/grace-and-redemption-·-humility-·-bread-and-wine-eucharist|Grace and Redemption · Humility · Bread and Wine Eucharist]]
 
 > [!abstract] 
 > A Nativity lyric in which the three wise men, masters of all learning but truth, are humbled before the Christ-child; celebrates wonder, humility and the Incarnation over arid intellectualism.
@@ -46,15 +46,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Wise Old Man Sage]], [[Child]]
+**Archetypes:** [[archetypes/wise-old-man-sage|Wise Old Man Sage]], [[archetypes/child|Child]]
 
-**Topoi:** [[Quest]]
+**Topoi:** [[topoi/quest|Quest]]
 
-**Motifs:** [[Light and Dark]], [[Stars]], [[Snow]], [[Serpent Snake]], [[Lion]], [[Prayer]], [[Bread and Wine Eucharist]], [[Home]]
-**Themes & Concepts:** [[Humility]], [[Wonder and Gratitude]], [[Faith]], [[Truth]], [[Grace and Redemption]], [[Pride]], [[Paradox]], [[History]]
-**Forms & Genres:** [[Lyric]], [[Hymn]]
-**Historical References:** [[Bible]], [[Christianity]], [[Greek Mythology]]
-**Characters:** [[Christ]], [[Magi]]
+**Motifs:** [[motifs/light-and-dark|Light and Dark]], [[motifs/stars|Stars]], [[motifs/snow|Snow]], [[motifs/serpent-snake|Serpent Snake]], [[motifs/lion|Lion]], [[motifs/prayer|Prayer]], [[motifs/bread-and-wine-eucharist|Bread and Wine Eucharist]], [[motifs/home|Home]]
+**Themes & Concepts:** [[concepts/humility|Humility]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/faith|Faith]], [[concepts/truth|Truth]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/pride|Pride]], [[concepts/paradox|Paradox]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/hymn|Hymn]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]], [[historical-references/greek-mythology|Greek Mythology]]
+**Characters:** [[characters/christ|Christ]], [[characters/magi|Magi]]
 
 ## Testo integrale / Full text
 

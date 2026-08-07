@@ -14,4 +14,11 @@ The tinker-preacher and central subject of the essay, whose imprisonment and bio
 
 <div class="concept-works" data-slug="characters/john-bunyan"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/intro-pilgrims-progress-(chesterton)|intro-pilgrims-progress (Chesterton)]]
+- [[works/mormonism-(chesterton)|Mormonism (Chesterton)]]
+
+</div>
+
 #graph/character

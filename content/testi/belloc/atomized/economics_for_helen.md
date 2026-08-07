@@ -40,7 +40,7 @@ THE CAPITALIST STATE
 
 THE DISTRIBUTIVE STATE
 
-[[Socialism|SOCIALISM]]
+[[concepts/socialism|SOCIALISM]]
 
 INTERNATIONAL EXCHANGE
 
@@ -63,45 +63,45 @@ The Economic definition of Wealth is subtle and difficult to
 appreciate, but it is absolutely essential to our study to get it clear
 at the outset and keep it firmly in mind. It is through some muddlement
 in this original definition of wealth that nearly all mistakes in
-[[Economics]] are made.
+[[concepts/economics|Economics]] are made.
 
 First, we must be clear as to what Wealth is not.
 
 Wealth is never properly defined, for the purposes of economic study,
 by any one of the answers a person would naturally give off-hand. For
 instance, most people would say that a man’s wealth was the money he
-was worth. But that, of course, is [[Nonsense|nonsense]]; for even if there were no
-money used his possessions would still be there, and if he had a [[house]]
+was worth. But that, of course, is [[concepts/nonsense|nonsense]]; for even if there were no
+money used his possessions would still be there, and if he had a house
 and cattle and horses the mere fact that money was not being used where
 he lived would not make him any worse off.
 
 Another and better, but still a wrong, answer is: “Wealth is what a man
 possesses.”
 
-For instance, in the case of this farmer, his [[house]] and his stock and
+For instance, in the case of this farmer, his house and his stock and
 his furniture and implements are what we call his “wealth.” In ordinary
-talk that answer will do [[Well|well]] enough. But it will not do for the
-strict science of [[Economics]], for it is not accurate.
+talk that answer will do [[motifs/well|well]] enough. But it will not do for the
+strict science of [[concepts/economics|Economics]], for it is not accurate.
 
 For consider a particular case. Part of this man’s wealth is, you
-say, a certain grey [[Horse|horse]]. But if you look closely at your definition
-and make it rigidly accurate, you will find that _it is not the [[Horse|horse]]
+say, a certain grey [[motifs/horse|horse]]. But if you look closely at your definition
+and make it rigidly accurate, you will find that _it is not the [[motifs/horse|horse]]
 itself which constitutes his wealth, but something attaching to the
-horse_, some quality or circumstance which affects the [[Horse|horse]] and gives
-the [[Horse|horse]] what is called its value. It is this Value which is
-wealth, not the [[Horse|horse]]. To see how true this is consider how the value
-changes while the [[Horse|horse]] remains the same.
+horse_, some quality or circumstance which affects the [[motifs/horse|horse]] and gives
+the [[motifs/horse|horse]] what is called its value. It is this Value which is
+wealth, not the [[motifs/horse|horse]]. To see how true this is consider how the value
+changes while the [[motifs/horse|horse]] remains the same.
 
 On such and such a date any neighbour would have given the owner of
-the [[Horse|horse]] from 20 to 25 sacks of wheat for it, or, say, 10 sheep, or
-50 loads of cut wood. But suppose there comes a great [[Mortality|mortality]] among
-horses, so that very few are left. There is an eager [[Desire|desire]] to get hold
+the [[motifs/horse|horse]] from 20 to 25 sacks of wheat for it, or, say, 10 sheep, or
+50 loads of cut wood. But suppose there comes a great [[concepts/mortality|mortality]] among
+horses, so that very few are left. There is an eager [[motifs/desire|desire]] to get hold
 of those that survive in order that the work may be done on the farms.
-Then the neighbours will be willing to give the owner of the [[Horse|horse]] much
+Then the neighbours will be willing to give the owner of the [[motifs/horse|horse]] much
 more than 20 or 25 sacks of wheat for it. They may offer as much as
-50 sacks, or 20 sheep, or 100 loads of wood. Yet the [[Horse|horse]] is exactly
-the same [[Horse|horse]] it was before. The wealth of the master has increased.
-His [[Horse|horse]], as we say, is “worth more.” It is this WORTH, _that is,
+50 sacks, or 20 sheep, or 100 loads of wood. Yet the [[motifs/horse|horse]] is exactly
+the same [[motifs/horse|horse]] it was before. The wealth of the master has increased.
+His [[motifs/horse|horse]], as we say, is “worth more.” It is this WORTH, _that is,
 this ability to get other wealth in exchange, which constitutes true
 Economic Wealth_.
 
@@ -128,38 +128,38 @@ action of man, which values can be exchanged for other values_.
 I will explain what that sentence means.
 
 Here is a mountain country where there are few people and plenty
-of [[Water|water]] everywhere. That [[Water|water]] does not form part of the Economic
+of [[motifs/water|water]] everywhere. That [[motifs/water|water]] does not form part of the Economic
 wealth of anyone living there. Everyone is the better off for the
-[[Water|water]], but no one has wealth in it. The [[Water|water]] they have is absolutely
+[[motifs/water|water]], but no one has wealth in it. The [[motifs/water|water]] they have is absolutely
 necessary to life, but no man will give anything for it because any man
 can get it for himself. It has no value in exchange. But in a town to
-which [[Water|water]] has to be brought at great expense of effort, and where
+which [[motifs/water|water]] has to be brought at great expense of effort, and where
 the amount is limited, it acquires a value in exchange, that is, people
 cannot get it without offering something for it. That is why we say
-that in a modern town [[Water|water]] forms part of Economic Wealth, while in
+that in a modern town [[motifs/water|water]] forms part of Economic Wealth, while in
 the country it usually does not.
 
 We must carefully note that wealth thus defined is NOT the same thing
-as [[Well|well]]-being. The mixing up of these two separate things--[[Well|well]]-being
+as [[motifs/well|well]]-being. The mixing up of these two separate things--[[motifs/well|well]]-being
 and economic wealth--has given rise to half the errors in economic
-science. People confuse the word “wealth” with the idea of [[Well|well]]-being.
-They say: “Surely a man is better off with plenty of [[Water|water]] than with
-little, and therefore conditions under which he can get plenty of [[Water|water]]
+science. People confuse the word “wealth” with the idea of [[motifs/well|well]]-being.
+They say: “Surely a man is better off with plenty of [[motifs/water|water]] than with
+little, and therefore conditions under which he can get plenty of [[motifs/water|water]]
 for nothing are conditions under which he has more wealth than when
-he has to pay for it. He has more wealth when he gets the [[Water|water]] free
+he has to pay for it. He has more wealth when he gets the [[motifs/water|water]] free
 than he has when he has to pay for it.”
 
-It is not so. Economic wealth is a separate thing from [[Well|well]]-being.
-Economic wealth may [[Well|well]] be increasing though the general [[Well|well]]-being of
-the people is going down. It may increase though the general [[Well|well]]-being
+It is not so. Economic wealth is a separate thing from [[motifs/well|well]]-being.
+Economic wealth may [[motifs/well|well]] be increasing though the general [[motifs/well|well]]-being of
+the people is going down. It may increase though the general [[motifs/well|well]]-being
 of the people around it is stationary.
 
-The Science of [[Economics]] does not deal with true happiness nor even
-with [[Well|well]]-being in material things. It deals with a strictly limited
+The Science of [[concepts/economics|Economics]] does not deal with true happiness nor even
+with [[motifs/well|well]]-being in material things. It deals with a strictly limited
 field of what is called “Economic Wealth,” and if it goes outside its
 own boundaries it goes wrong. Making people as happy as possible is
-much more than [[Economics]] can pretend to. [[Economics]] cannot even tell
-you how to make people [[Well|well]]-to-do in material things. But it can tell
+much more than [[concepts/economics|Economics]] can pretend to. [[concepts/economics|Economics]] cannot even tell
+you how to make people [[motifs/well|well]]-to-do in material things. But it can tell
 you how exchangeable Wealth is produced and what happens to it; and as
 it can tell you this, it is a useful servant.
 
@@ -167,7 +167,7 @@ That is the second difficult point at the very beginning of our study.
 Economic Wealth consists in EXCHANGEABLE values, and nothing else.
 
 We must be as clear on this second point as we have made ourselves upon
-the first, or we shall not make any progress in [[Economics]]. They are
+the first, or we shall not make any progress in [[concepts/economics|Economics]]. They are
 both of them unfamiliar ideas, and one has to go over them many times
 before one really grasps them. But they are absolutely essential to
 this science.
@@ -192,7 +192,7 @@ You will notice that all about you living beings are occupied in
 changing the things around them from a condition where they are less
 to a condition where they are more useful to themselves.
 
-Man is a living being, and he is doing this kind of thing all the [[Time|time]].
+Man is a living being, and he is doing this kind of thing all the [[motifs/time|time]].
 If he were not he could not live.
 
 He draws air into his lungs, taking it from a condition where it does
@@ -209,12 +209,12 @@ more useful to him.
 
 _Whenever a man does that he is said to be creating, and adding to,
 Human Wealth_: part of which is Economic Wealth, that is Wealth
-suitable for study under the science of [[Economics]].
+suitable for study under the science of [[concepts/economics|Economics]].
 
-Wealth, therefore, that thing the [[Nature|nature]] and growth of which we are
+Wealth, therefore, that thing the [[concepts/nature|nature]] and growth of which we are
 about to study, is, so far as man is concerned, the result of this
 process of changing things to man’s use, and it is through looking
-closely at the [[Nature|nature]] of this process that we get to understand what
+closely at the [[concepts/nature|nature]] of this process that we get to understand what
 is necessary to it, and what impedes it, and how its results are
 distributed among mankind.
 
@@ -254,9 +254,9 @@ foundation of the whole affair.
 
 For the sake of shortness we call all this bundle of natural forces
 (which are the very first essential to the making of wealth) “LAND.”
-This word “Land” is only a conventional term in [[Economics]], meant to
+This word “Land” is only a conventional term in [[concepts/economics|Economics]], meant to
 include a vast number of things beside the soil: things which are not
-Land at all; for instance, [[Water|water]] power and [[Wind|wind]] power, the fertility
+Land at all; for instance, [[motifs/water|water]] power and [[motifs/wind|wind]] power, the fertility
 of seed, the force of electricity, and thousands of other natural
 energies. But we must have some short convenient term for this set of
 things, and the term “Land” having become the conventional term in
@@ -298,7 +298,7 @@ caused in the world by people jumping to this conclusion without
 further examination.
 
 But if we look closely into the matter we shall see that Land and
-Labour [[Alone|alone]] are not sufficient to the production of wealth in any
+Labour alone are not sufficient to the production of wealth in any
 appreciable amount. The moment man begins to produce wealth in any
 special fashion and to any appreciable extent, a third element comes
 in which is as rigorously necessary as the two others; and that third
@@ -321,7 +321,7 @@ the production of the harvest unless there were this third thing, a
 stock of wheat both for sowing and for eating.
 
 But that is not all. He must be sheltered from the weather; he must be
-clothed and he must have a [[house]], otherwise he would die before the
+clothed and he must have a house, otherwise he would die before the
 harvest was gathered. Again, though he might grow a very little wheat
 by putting in what seed he could with his hands into a few suitable
 places in the soil, he could not get anything like the harvest he was
@@ -390,9 +390,9 @@ instance, if you were to put the engine into a museum, or to keep a
 hammer in remembrance of someone and not use it, then it would not be
 capital.
 
-And this [[Truth|truth]] works the other way about. At first sight you would say,
+And this [[concepts/truth|truth]] works the other way about. At first sight you would say,
 for instance, that a diamond ring could not be capital: it is only a
-luxurious ornament. But if you use it to cut glass for [[mending]] a [[Window|window]]
+luxurious ornament. But if you use it to cut glass for mending a [[motifs/window|window]]
 it is capital for that purpose.
 
 2. The second important thing to remember about Capital is that, being
@@ -407,7 +407,7 @@ but if he is going on producing wheat year after year he must replace
 the wastage in his capital year after year. His stock of wheat for food
 and for seed will have disappeared in the year; so will his stock of
 hay and oats for keeping his horses. His plough will be somewhat worn
-and will need [[mending]]; and his horses, after a certain [[Time|time]], will grow
+and will need mending; and his horses, after a certain [[motifs/time|time]], will grow
 old and will have to be replaced. Therefore, if production is to be
 continuous, that is, if there are to be harvests year after year, each
 harvest must be at least enough to replace all the wastage of capital
@@ -417,12 +417,12 @@ which goes on during the process of production.
 always the result of saving: That is, the only way in which people
 can get Capital is by doing without some immediate enjoyment of
 goods, and putting them by to use them up in creating wealth for the
-future. This ought to be [[Self|self]]-evident; but people often forget it,
+future. This ought to be [[concepts/self|self]]-evident; but people often forget it,
 because the person who controls the capital is very often quite a
 different person from the person who really accumulated it. The owner
 of the capital is very often a person who never thinks of saving.
 Nevertheless, the saving has been done by someone in the past, and
-saving must go on the whole [[Time|time]], for if it did not the Capital could
+saving must go on the whole [[motifs/time|time]], for if it did not the Capital could
 not come into existence, and could not be maintained once it was in
 existence.
 
@@ -437,14 +437,14 @@ so doing.
 All this capital has been saved by someone. Not by the man himself; he
 has merely inherited the wealth--but by someone.
 
-Someone at some [[Time|time]], his father or whoever first got the capital
+Someone at some [[motifs/time|time]], his father or whoever first got the capital
 together, must have forgone immediate enjoyment and put by wealth for
 future production, or the capital could not have come into existence.
 Thus, if the first accumulator of the capital had used his wealth for
 the purchase of a yacht in which to travel for his amusement, the
 labour and natural forces used in the production of that yacht would
 have made wealth consumed in immediate enjoyment, and it would not have
-been used for future production as is a cargo [[Ship|ship]].
+been used for future production as is a cargo [[motifs/ship|ship]].
 
 In the same way this capital, once it has come into existence in the
 shape of cargo ships and stocks of coal and the rest, would soon
@@ -505,19 +505,19 @@ first economic value begins to attach to it. Next, further labour,
 capital and natural forces are applied to the task of hewing the coal
 out and raising it to the surface. This means that yet more economic
 values are attached to the ton of coal. These we express by saying that
-the ton of coal at the [[Bottom|bottom]] of the mine, just hewed out, is worth so
+the ton of coal at the [[characters/bottom|bottom]] of the mine, just hewed out, is worth so
 much--say 15/-; and later at the pit head is worth so much more--say
 £1. But the process of production of wealth is not yet completed. The
-coal is needed to warm you in your [[house]], and your [[house]] is a long way
-from the pit head. It must be taken from the pit head to your [[house]],
+coal is needed to warm you in your house, and your house is a long way
+from the pit head. It must be taken from the pit head to your house,
 and for this transport further labour, natural forces and capital must
 be used, and these add yet another economic value to the coal.
 
 We express this by saying that the ton of coal delivered (that is, at
-your [[house]]) is worth not £1, which it was at the pit head, but £1 10s.;
+your house) is worth not £1, which it was at the pit head, but £1 10s.;
 and in this example we see that transport is as much a part of the
 production of wealth as other work. We also see a further example of
-the [[Truth|truth]] originally stated that wealth does not consist in the object
+the [[concepts/truth|truth]] originally stated that wealth does not consist in the object
 itself but in the values attached to it. The ton of coal is there in
 your cellar exactly the same (except that it is broken up) as it was
 when it lay a thousand feet under the earth with no way of getting
@@ -531,22 +531,22 @@ process of production until the process of consumption begins.
 Here is another case which shows how the process of production will add
 values to a thing without necessarily changing the thing itself.
 
-Suppose an [[Island|island]] where there is a lot of salt in mines near the
+Suppose an [[settings/island|island]] where there is a lot of salt in mines near the
 surface, but with very poor pasture and very little of it; most of the
-soil barren and the climate bad. On the main-land, a day’s [[Journey|journey]] from
-the [[Island|island]], there is good soil and pasture and a good climate, but
+soil barren and the climate bad. On the main-land, a day’s [[motifs/journey|journey]] from
+the [[settings/island|island]], there is good soil and pasture and a good climate, but
 there is no salt. Salt is a prime necessity of life, and it comes into
 a lot of things besides necessaries. To the people of the main land,
 therefore, salt, which they lack, is of high value. To the people of
-the [[Island|island]] it is of low value, for they can get as much of it as they
+the [[settings/island|island]] it is of low value, for they can get as much of it as they
 want, with very little trouble. Meanwhile, meat is of very high value
-to the people of the [[Island|island]], who can grow little of it on their own
+to the people of the [[settings/island|island]], who can grow little of it on their own
 soil, while it is of much less value to the people of the main-land,
 who have plenty of it through their good pastures and climate. Here we
-have, let us say, 100 tons of salt in the [[Island|island]] and 100 tons of meat
-on the main-land. A boat takes the 100 tons of salt from the [[Island|island]]
+have, let us say, 100 tons of salt in the [[settings/island|island]] and 100 tons of meat
+on the main-land. A boat takes the 100 tons of salt from the [[settings/island|island]]
 to the main-land and brings back the meat from the main-land to the
-[[Island|island]]. Here wealth has been created on both sides, although no change
+[[settings/island|island]]. Here wealth has been created on both sides, although no change
 has taken place in the articles themselves except a change in position.
 Both parties, the islanders and the main-land people, are wealthier
 through the transaction, and this is a case where exchange is a
@@ -565,7 +565,7 @@ of the wheat and its culture and its harvesting and grinding, and the
 working of the flour into dough, and the baking, and created by every
 piece of transport in the process, the carting of the sheaf into the
 rick, the carting thrashed wheat to the mill, the taking of the flour
-to the baker, the taking of the baked loaf to your [[house]], and even the
+to the baker, the taking of the baked loaf to your house, and even the
 bringing of the loaf from the larder to your table. Every one of these
 actions is part of the production of wealth.
 
@@ -579,9 +579,9 @@ All wealth is consumed.
 This is universally true of all wealth whatsoever, though the rate of
 consumption is very different in different cases.
 
-The purpose of [[Nature|nature]] is not the purpose of man. Man only creates
-wealth by a perpetual effort against the purpose of [[Nature|nature]], and the
-moment his effort ceases [[Nature|nature]] tends to drag back man’s creation from
+The purpose of [[concepts/nature|nature]] is not the purpose of man. Man only creates
+wealth by a perpetual effort against the purpose of [[concepts/nature|nature]], and the
+moment his effort ceases [[concepts/nature|nature]] tends to drag back man’s creation from
 a condition where it is more to a condition where it is less useful to
 himself.
 
@@ -589,21 +589,21 @@ For some sorts of wealth the process is very rapid, as, for instance,
 in the consumption of fuel, or in the wasting of ice on a hot day.
 Man with an expenditure of his energy and brains applied to natural
 forces, and by the use of capital, has caused ice to be present under
-conditions where [[Nature|nature]] meant there to be no ice--a hot [[Summer|summer]]’s day.
+conditions where [[concepts/nature|nature]] meant there to be no ice--a hot [[motifs/summer|summer]]’s day.
 
 He has brought it from a high, cold place far away; or he has kept it
-from the [[Winter|winter]] onwards stored in an ice [[house]] which he had to make and
+from the [[motifs/winter|winter]] onwards stored in an ice house which he had to make and
 to which he had to transport it; or he has made it with engine power.
-But the force of [[Nature|nature]] is always ready to melt the ice when man’s
+But the force of [[concepts/nature|nature]] is always ready to melt the ice when man’s
 effort ceases.
 
 The moment man’s effort ceases, deterioration, that is, _the
-consumption of the wealth present_, at once begins. And this [[Truth|truth]]
+consumption of the wealth present_, at once begins. And this [[concepts/truth|truth]]
 applies at the other end of the scale. You may make a building of
 granite, but it will not last for ever. The consumption is exceedingly
 slow, but it is there all the same. And whether the consumption takes
 place in the service of man (as when fuel is burnt on a hearth) or
-by neglect (as when a derelict [[house]] decays) it is always _economic
+by neglect (as when a derelict house decays) it is always _economic
 consumption_.
 
 We may sum up in the following Formulæ:--
@@ -618,7 +618,7 @@ where it is more to a condition where it is less useful to himself.=
 
 THE THREE PARTS OF PRODUCED WEALTH
 
-We now come to that part of [[Economics]] which has most effect upon
+We now come to that part of [[concepts/economics|Economics]] which has most effect upon
 human society, and the understanding of which is most essential to
 sound politics. It is not a difficult point to understand. The only
 difficulty is to keep in our minds a clear distinction between what
@@ -628,17 +628,17 @@ distribution and use of wealth.
 
 Some people are so shocked by the fact that economic law is different
 from moral law that they try to deny economic law. Others are so
-annoyed by this lack of [[logic]] that they fall into the other error of
+annoyed by this lack of logic that they fall into the other error of
 thinking that economic law can override moral law.
 
 You have to be warned against both these errors before you begin to
 approach the subject of Rent, Profit and Subsistence. Only when we
 have worked out the principles of these three things can we come back
 again to the apparent clash between economic law and moral law, the
-understanding of which is so very important in [[England]] to-day.
+understanding of which is so very important in [[settings/england|England]] to-day.
 
 The motive of production is to satisfy human needs, and the simplest
-case of production is that of a man working for himself and his [[Family|family]]
+case of production is that of a man working for himself and his [[concepts/family|family]]
 as a settler in a new country. He cuts down wood and brings it where
 it is wanted; he builds a hut and a bridge with it; he stacks it ready
 to burn for fuel. The wealth he thus produces by his labour goes to
@@ -646,7 +646,7 @@ him and his, and because the labour he has to expend is what impresses
 him most about the process, he calls the wealth produced at the end of
 it: “Wealth produced by his labour.” He thinks of his labour as the
 one agent of the whole affair, and so it is the one immediate human
-agent; but, as we have seen, there are two other agents as [[Well|well]]. His
+agent; but, as we have seen, there are two other agents as [[motifs/well|well]]. His
 mere labour (that is, the use of his brain and his muscles) would not
 have produced a pennyworth of wealth, but for two other agents: Natural
 Forces (or Land) and Capital. And we shall find when we look into it
@@ -661,7 +661,7 @@ in all wealth produced anywhere, =and these three divisions do not
 correspond to the moral claim man has to the result of his labour=.
 They are divisions produced by the working of economic law, which is as
 blind and indifferent to right and wrong as are the ordinary forces of
-[[Nature|nature]] about us.
+[[concepts/nature|nature]] about us.
 
 These three divisions are called RENT, INTEREST (or Profit) and
 SUBSISTENCE. In order to see how these three divisions come about we
@@ -710,7 +710,7 @@ weather in the way of houses, which must be up to a certain standard.
 We do not tolerate their living in holes in the ground or mud huts.
 
 One way and another we have set up a certain standard of subsistence
-even for the poorest; _and every community in [[history]] has, at all
+even for the poorest; _and every community in [[concepts/history|history]] has, at all
 times, lived under this idea of a_ MINIMUM STANDARD OF SUBSISTENCE.
 This is so true that people will suffer great inconvenience, even
 to famine, as I have said, rather than give up the standard of
@@ -718,11 +718,11 @@ subsistence. When people are too poor to afford this least amount of
 what we think necessaries effort is made to supply them by doles or a
 poor rate, or something of that kind; but the standard is not abandoned.
 
-[[Well]], this Minimum Standard of Subsistence is the first division
+[[motifs/well|Well]], this Minimum Standard of Subsistence is the first division
 in the Wealth produced. The prosperous man, tilling his own land and
 possessed of his own capital, consumes, of course, much more than the
 bare standard of subsistence would allow. He eats more food and better
-food, and has more and better clothes and [[house]] room and fuel and the
+food, and has more and better clothes and house room and fuel and the
 rest than the mere standard of subsistence of his civilisation demands.
 Nevertheless, even in his case the standard of subsistence is there. It
 is a minimum below which, if things went wrong, he would not fall. Ask
@@ -734,15 +734,15 @@ This “Standard of Subsistence,” which is to be found in its various
 shapes in every civilisation, may be called “_The Worth While of
 Labour_.” Human energy would not be forthcoming, the work would not
 get done, unless at the very least the person doing the work got this
-Standard of Subsistence. In [[England]] to-day it is set for a man and
-his [[Family|family]] at something like 35s. to 40s. a week. One way and another,
+Standard of Subsistence. In [[settings/england|England]] to-day it is set for a man and
+his [[concepts/family|family]] at something like 35s. to 40s. a week. One way and another,
 counting for allowance in rent and overtime and so on, even the poorest
 labourer gets that, and if he did not get it labour would stop. Our
 civilisation would run to famine and plague rather than go below this
 minimum.
 
 Another way of putting it is this: Under the standard of subsistence
-in our civilisation in [[England]] a man must, on the average, produce
+in our civilisation in [[settings/england|England]] a man must, on the average, produce
 something like £2 worth of economic values a week, otherwise it is not
 worth while living, not worth while going on.
 
@@ -753,7 +753,7 @@ brains. As a fact, of course, the average production is much higher.
 But it could not fall to less than this without the production of
 wealth gradually coming to an end.
 
-It is very important to recognise this principle in [[Economics]], for it
+It is very important to recognise this principle in [[concepts/economics|Economics]], for it
 is nearly always misunderstood, and it makes a great difference in our
 judgment of social problems. You often hear people speaking as though
 the subsistence of their fellows might fall to any level so long as
@@ -782,13 +782,13 @@ in Economic Science as Interest on Money.
 
 We have seen that Capital cannot come into existence unless somebody
 saves. We have also seen that since it is always being consumed and
-must be replaced, the saving has got to go on all the [[Time|time]], if the
+must be replaced, the saving has got to go on all the [[motifs/time|time]], if the
 production of wealth (to which capital is necessary) is to continue.
 
 Now, as you will see in a minute, capital cannot be accumulated without
 some motive. You only accumulate capital by doing without a pleasure
 which you might have at a certain moment, and putting it off to a
-future [[Time|time]]. You go without the immediate enjoyment of your wealth in
+future [[motifs/time|time]]. You go without the immediate enjoyment of your wealth in
 order to use it for producing further wealth. That means restraint and
 sacrifice.
 
@@ -800,24 +800,24 @@ What happens is this: A man says: “On my present capital I can produce
 so much wealth. If I accumulate more capital I shall, in the long run,
 have a larger income. I will therefore forgo my present pleasure. I
 will add to my capital and have more income in the future through my
-present [[Self|self]]-restraint.” Or again: “If I don’t keep up my capital
+present [[concepts/self|self]]-restraint.” Or again: “If I don’t keep up my capital
 by continual saving to replace what is consumed in production I shall
 gradually get less income.”
 
-But here comes in a very important law of [[Economics]] called “_The
+But here comes in a very important law of [[concepts/economics|Economics]] called “_The
 Law of Diminishing Returns_.” After a certain point, capital as it
 accumulates, does not produce a corresponding amount of extra wealth.
 It produces some more, but not as much in proportion. For instance,
 if you till a field thoroughly with the use of so many ploughs and
 horses and so on, you will get such and such a return. If you add a
 great deal more capital in the shape of food for more labourers and
-more tillage till you treat the land as a sort of [[Garden|garden]], you produce
+more tillage till you treat the land as a sort of [[motifs/garden|garden]], you produce
 more wealth from that field; but though you may have doubled your
 capital you will not have doubled your income. You will only have added
-to it, say, half as much again. If you were to [[Double|double]] your capital
+to it, say, half as much again. If you were to [[topoi/double|double]] your capital
 again, making four times your original amount, using a lot more food
 for labourers and a lot more implements, you would again have a larger
-produce, probably, but perhaps only [[Double|double]] your original amount: Four
+produce, probably, but perhaps only [[topoi/double|double]] your original amount: Four
 times the original amount of capital, and only twice, say, the old
 income.
 
@@ -831,7 +831,7 @@ a small capital, perhaps 5 per cent. on a larger one; on a still larger
 one only 2½ per cent., and so on, if they apply that capital to the
 same section of natural forces and in the same manner.
 
-[[Well]], this advantage which a man gets by adding to his capital at the
+[[motifs/well|Well]], this advantage which a man gets by adding to his capital at the
 expense of present enjoyment can be measured.
 
 For instance, a man owning a farm and tilling it himself gets a
@@ -866,7 +866,7 @@ to the capital invested.
 Now, although the 2,000 of capital invested is thus bringing him in
 a smaller proportion of income than the old 1,000 did, he thinks
 it worth while: because he is at any rate getting more income; 150
-sacks instead of only 100. But there must come a [[Time|time]] when he will no
+sacks instead of only 100. But there must come a [[motifs/time|time]] when he will no
 longer think it worth while to go on saving. Supposing he finds, for
 instance, that after taking all the trouble to accumulate and apply to
 his land capital to the value of 10,000 sacks of wheat, he gets only
@@ -879,7 +879,7 @@ will not take less. Rather than make less than a certain proportion
 of income to his capital he will stop saving, and spend all he has in
 immediate enjoyment.
 
-It is this obvious [[Truth|truth]] which makes the second great division in the
+It is this obvious [[concepts/truth|truth]] which makes the second great division in the
 produce of wealth. You must, as we have seen, produce enough to keep
 labour going. That is, you must produce enough to satisfy the standard
 of subsistence in your society; _but you must also produce enough
@@ -907,7 +907,7 @@ accumulate capital at a heavy sacrifice to himself and his subjects,
 unless it produced a future reward.
 
 If the Despot said, “This year you must do without half your usual
-amount of leisure and without half your usual amounts, pay [[Double|double]]
+amount of leisure and without half your usual amounts, pay [[topoi/double|double]]
 for your cinemas and for your beer, and all that in order to earn one
 hundredth more leisure and amusements next year,” it would be found
 intolerable.
@@ -923,7 +923,7 @@ down.
 (Of course, we must be careful to distinguish between the case of
 a private man increasing his investments and the general increase
 of capital as applied to an unchanging area of natural forces. John
-[[smith|Smith]] having £1,000 invested at 5 per cent. can save another £1,000
+Smith having £1,000 invested at 5 per cent. can save another £1,000
 and another and many more, and still get 5 per cent. But that is
 because he is saving and makes up for others wasting, or because
 his saving is so small a proportion of the total Capital of Society
@@ -965,14 +965,14 @@ division in Wealth, which is called RENT.
 _Rent is the surplus over and above the minimum required by labour and
 capital out of the total produce._ (We must be careful, as we saw in
 the case of “Interest” not to confuse true economic Rent with “Rent”
-in the conversational sense. Thus what is called “the rent” of a [[house]]
+in the conversational sense. Thus what is called “the rent” of a house
 is part of it true economic rent, but part of it interest on the
 accumulated or saved wealth, the Capital of its bricks and mortar and
 building.)
 
 Take the case of a seam of coal, which at one end of its run crops
-out on the surface, a couple of [[Miles|miles]] on is only 1,000 feet below the
-surface, but dips down gradually until, within twenty [[Miles|miles]], it is
+out on the surface, a couple of [[characters/miles|miles]] on is only 1,000 feet below the
+surface, but dips down gradually until, within twenty [[characters/miles|miles]], it is
 10,000 feet below the surface.
 
 Under the conditions of the society in which the coal is being mined,
@@ -1063,7 +1063,7 @@ from which there is no getting away.
 
 Always remember that these economic laws are in no way binding in a
 social sense. They are not laws like moral laws, which men are bound
-to obey. They are certain mathematical consequences of the very [[Nature|nature]]
+to obey. They are certain mathematical consequences of the very [[concepts/nature|nature]]
 of wealth and its production, which men must take into account when
 they make their social arrangements. It does not follow because Rent or
 Interest are present that such and such rich men, or the State, or the
@@ -1072,18 +1072,18 @@ and men can in such matters make what arrangements they will. All
 economic science can tell us is how to distinguish between the three
 divisions, and to remember that they are inevitable and necessary.
 But we must wait until a little later on to discuss social rights and
-wrongs under Applied [[Economics]] and continue here for the present to
-confine ourselves to the Elements of economic law [[Alone|alone]].
+wrongs under Applied [[concepts/economics|Economics]] and continue here for the present to
+confine ourselves to the Elements of economic law alone.
 
 EXCHANGE
 
 EXCHANGE is really only a form of production, as we saw in the
-illustration of the [[Island|island]] with salt and the main-land with meat. When
+illustration of the [[settings/island|island]] with salt and the main-land with meat. When
 the exchange of the things is of advantage to both parties it creates
 wealth for both, and profitable exchange is, therefore, when it takes
 place, only the last step in a general chain of production.
 
-But Exchange is so separate an action that students of [[Economics]] have
+But Exchange is so separate an action that students of [[concepts/economics|Economics]] have
 agreed to treat it as a sort of chapter by itself, and we will do so
 here.
 
@@ -1097,7 +1097,7 @@ wealth. We saw how this was in the case of the salt and the meat, and
 so it is with thousands upon thousands of exchanges going on all over
 the world.
 
-For instance, we in [[England]] have grown fond of drinking tea in the last
+For instance, we in [[settings/england|England]] have grown fond of drinking tea in the last
 200 years. But our climate will not allow us to grow tea. Tea can only
 grow in a very hot country.
 
@@ -1107,7 +1107,7 @@ are fit for it, and also men here have through long practice become
 very skilful at working metal: smelting iron, for instance, and making
 it up into machines.
 
-Therefore, there is a [[Double|double]] advantage to us and to the people who live
+Therefore, there is a [[topoi/double|double]] advantage to us and to the people who live
 in the hot countries where tea is grown if we exchange. We send them
 metal things that we have made and which are useful to them, and which
 they could hardly make themselves, or only with very great difficulty
@@ -1123,12 +1123,12 @@ the amount of mutual advantage derived.
 
 This word “potential” you will not find yet in many books, but it is
 coming in, for it is a very useful word. It is taken by way of metaphor
-from Physical Science. When there is a head of [[Water|water]] over a dam, or a
+from Physical Science. When there is a head of [[motifs/water|water]] over a dam, or a
 current of electricity of such and such an intensity, we talk of the
 “potential” and measure it. For instance, we say this electrical
-current is [[Double|double]] the potential of that, or the head of [[Water|water]] working
-such and such turbines is at [[Double|double]] the potential of another head of
-[[Water|water]] in the neighbourhood. In the same way we talk of a “potential” of
+current is [[topoi/double|double]] the potential of that, or the head of [[motifs/water|water]] working
+such and such turbines is at [[topoi/double|double]] the potential of another head of
+[[motifs/water|water]] in the neighbourhood. In the same way we talk of a “potential” of
 exchange, meaning a tendency for exchange to arise between two places
 or people because it is of mutual benefit to both.
 
@@ -1140,13 +1140,13 @@ Labour.
 Thus two countries may be both equally able to produce, say, metal work
 and silk fabrics, and yet if one of them concentrates on getting better
 and better at metal work and the other on getting better and better
-at silk fabrics, it may [[Well|well]] be that both will benefit by separating
+at silk fabrics, it may [[motifs/well|well]] be that both will benefit by separating
 their jobs and exchanging the results. And this is true not only of two
 countries, but of individuals and groups.
 
 The cobbler does not make his own clothes. He makes boots, and by
 learning his trade and getting used to it makes them much better and in
-a much shorter [[Time|time]] than other men could, and therefore makes a pair
+a much shorter [[motifs/time|time]] than other men could, and therefore makes a pair
 of boots with less expense of energy, that is, cheaper, than another
 man would. The tailor can say the same thing about making clothes.
 So it is to the advantage of the cobbler to exchange his extra boots
@@ -1183,32 +1183,32 @@ place, when of two objects the proportionate values are different in
 two different communities.=
 
 It is not very easy to understand the meaning of this until one is
-given an example. Supposing a ton of coal from [[England]] to be worth £2
-by the [[Time|time]] it is delivered in Cadiz, and supposing that making a dozen
-bottles of wine in [[England]], with all the apparatus of hot-[[house]] grapes
+given an example. Supposing a ton of coal from [[settings/england|England]] to be worth £2
+by the [[motifs/time|time]] it is delivered in Cadiz, and supposing that making a dozen
+bottles of wine in [[settings/england|England]], with all the apparatus of hot-house grapes
 and the rest of it, came to £5 of expense. Supposing that in Cadiz,
 from the small coal mines near by, they can produce coal at only £1 a
 ton, but on account of their climate they can produce a dozen of wine
 for a shilling. Then you get this curious situation:
 
-It pays the exporting country, [[England]], to sell coal in Cadiz _at less
+It pays the exporting country, [[settings/england|England]], to sell coal in Cadiz _at less
 than its English economic value_, and to import the wine from Cadiz.
 It pays your English owner of coal, although the values attaching to
-it by the [[Time|time]] it has got to Cadiz are £2 a ton, to sell a ton of coal
+it by the [[motifs/time|time]] it has got to Cadiz are £2 a ton, to sell a ton of coal
 there for only £1, and to exchange that against the wine of Cadiz, and
-bring that back to [[England]]. At first sight it sounds absurd to say that
+bring that back to [[settings/england|England]]. At first sight it sounds absurd to say that
 selling thus at a lower value than the cost of production and transport
 can possibly be profitable. But if you will look at it closely you
 will see that it is so.
 
-If the Englishman had tried to make his wine at [[Home|home]] it would have cost
+If the Englishman had tried to make his wine at [[motifs/home|home]] it would have cost
 him £100 to make twenty dozen bottles, but when he has sold his coal
 at Cadiz for £1 he can with that £1 buy twenty dozen of wine and bring
-it back to [[England]]. He is much the wealthier by the transaction, and
+it back to [[settings/england|England]]. He is much the wealthier by the transaction, and
 so is the man at Cadiz. The Cadiz man could have spent his energies in
 digging out a ton of coal near Cadiz instead of importing it, but the
 same energies used in making wine produce enough wine to get him rather
-more coal from [[England]].
+more coal from [[settings/england|England]].
 
 2. The second Formula to remember about Exchange is this: =Goods do not
 directly exchange always one against the other, but usually in a much
@@ -1222,27 +1222,27 @@ of two things but a much longer and complicated process.
 For instance, a group of people called a Railway Company in the
 Argentine want a locomotive. A locomotive can be produced cheaper and
 better, that is, with less expenditure of energy for the result, in
-[[England]] than in the Argentine. But on the other hand, [[England]] wants
+[[settings/england|England]] than in the Argentine. But on the other hand, [[settings/england|England]] wants
 to import tea. Now the Argentine grows no tea. What happens? How does
-[[England]] get the tea? That locomotive goes out to the Argentine. An
+[[settings/england|England]] get the tea? That locomotive goes out to the Argentine. An
 amount of wheat sufficient to exchange against the locomotive goes
-against it, not to [[England]], but to Holland, a country which, like us,
+against it, not to [[settings/england|England]], but to Holland, a country which, like us,
 has to import a lot of wheat. As against the wheat sent to Holland,
-the people in Holland send, say, the cheeses which they make so [[Well|well]],
+the people in Holland send, say, the cheeses which they make so [[motifs/well|well]],
 on account of their special conditions, and the consignment goes to
-[[Germany]]. The Germans send out a number of rails equivalent to the
+[[settings/germany|Germany]]. The Germans send out a number of rails equivalent to the
 number of cheeses and of the wheat and of the locomotive, as they are
 very good at making rails, and have specialised on it. But they do not
 send the rails to Holland. They send them to some Railway Company which
-has asked for them in [[Egypt]]. The Egyptian people send out an equivalent
+has asked for them in [[settings/egypt|Egypt]]. The Egyptian people send out an equivalent
 amount of cotton, which they can grow easily in their climate, and this
 cotton goes to mills in India, and against it there comes an equivalent
-amount of tea, but the tea does not go back to [[Egypt]]. It goes to
-[[England]].
+amount of tea, but the tea does not go back to [[settings/egypt|Egypt]]. It goes to
+[[settings/england|England]].
 
 There you have a circle of Multiple Exchange in which everybody profits
 by the exchange going on, although it is indirect. In the same way,
-of course, it is true that all of our domestic exchanges at [[Home|home]] are
+of course, it is true that all of our domestic exchanges at [[motifs/home|home]] are
 multiple. If I write a book which people want to read, whereas I want
 not books but several other things, boots and fuel and furniture, I
 do not take my books round to the man who provides boots and to the
@@ -1259,24 +1259,24 @@ boots with the cobbler.
 importance, because it has given rise to one of the biggest discussions
 of our English politics. The Formula runs thus:--
 
-=Other things being equal, the greatest [[Freedom|freedom]] of exchange in any
+=Other things being equal, the greatest [[concepts/freedom|freedom]] of exchange in any
 given area makes for the greatest amount of wealth in that area.=
 
-It ought to be [[Self|self]] evident, but it is astonishing how muddled people
+It ought to be [[concepts/self|self]] evident, but it is astonishing how muddled people
 get about it, when they become confused over details and cannot see
-the wood for the trees. It ought, I say, to be [[Self|self]]-evident that if
-you leave Exchange quite free, anybody being at [[Liberty|liberty]] to produce
+the wood for the trees. It ought, I say, to be [[concepts/self|self]]-evident that if
+you leave Exchange quite free, anybody being at [[concepts/liberty|liberty]] to produce
 what he can produce best, and exchange it for things which other men
 can produce better than he, both parties will tend to be the richer by
-such [[Freedom|freedom]] and the wealth of the whole country will be greatest when
+such [[concepts/freedom|freedom]] and the wealth of the whole country will be greatest when
 all exchanges in it are thus left free to be worked by the sense of
 advantage.
 
 If there were a law, for instance, preventing me from buying etchings,
-or preventing [[Jones]], the etcher, from buying books, [[Jones]] would have to
+or preventing [[characters/jones|Jones]], the etcher, from buying books, [[characters/jones|Jones]] would have to
 write his own books (or do without them, which is what he would do),
 and I should have to etch my own etchings, which would be exceedingly
-poor compared with the wonderful etchings of [[Jones]]. We are obviously
+poor compared with the wonderful etchings of [[characters/jones|Jones]]. We are obviously
 both of us better off if we are left free to exchange what we can each
 make best. And so it is with all the countless things made in a State.
 
@@ -1286,8 +1286,8 @@ would be the richer for it. And any interference with exchange between
 one nation and another lessens the total possible amount of wealth
 there might be in the world.
 
-So far so good; and, as I have said, such a [[Truth|truth]] ought to be
-[[Self|self]]-evident. But here there comes in a misunderstanding of its
+So far so good; and, as I have said, such a [[concepts/truth|truth]] ought to be
+[[concepts/self|self]]-evident. But here there comes in a misunderstanding of its
 application, and that misunderstanding has made any amount of trouble.
 It is so important that I must give it a separate division to itself.
 
@@ -1295,16 +1295,16 @@ FREE TRADE AND PROTECTION
 
 Nations, as we know, put up tariffs against goods which come from
 abroad: That is, their Governments tax imports of certain goods and
-thereby interfere with the [[Freedom|freedom]] of exchange. For instance, the
-French have a tax of this kind upon wheat. Wheat grown in [[France]] will
-cost, let us say, £1 a sack, but the Argentine can send wheat to [[France]]
+thereby interfere with the [[concepts/freedom|freedom]] of exchange. For instance, the
+French have a tax of this kind upon wheat. Wheat grown in [[settings/france|France]] will
+cost, let us say, £1 a sack, but the Argentine can send wheat to [[settings/france|France]]
 at an expense of only 10s. a sack, because the land there is new, and
 for various other causes. If the wheat from the Argentine were allowed
 to come in freely, and the French to export against it things which
 they can make more easily than wheat they would have more wheat at a
 less total expense; but they prefer to put a tax of ten shillings upon
 every sack, that is, to put up a barrier against the import of wheat
-from abroad, and so keep up the price artificially at [[Home|home]].
+from abroad, and so keep up the price artificially at [[motifs/home|home]].
 
 When a nation does this with regard to any object that may be imported,
 if the object can also be produced within the nation (which it nearly
@@ -1315,7 +1315,7 @@ whether it was for the good of the whole nation or not. It obviously
 would be a very nice thing for people who breed sheep, for instance, in
 this country, if all mutton coming from the Colonies were taxed at the
 Ports, while the mutton grown inside the country were not taxed; for in
-this way the value of the mutton would rise in [[England]], and the rise
+this way the value of the mutton would rise in [[settings/england|England]], and the rise
 would benefit the sheep owners. But it would be at the expense of all
 the other people who did not grow sheep, and who would have to pay more
 for their mutton.
@@ -1324,8 +1324,8 @@ As opposed to this system of Protection, and interfering with
 international exchange by a tariff, intelligent people a long lifetime
 ago began to agitate for what they called “FREE TRADE,” that is the
 putting of no tariff on to an import, or at least no tariff high enough
-to give an artificial price to the producer of the same thing at [[Home|home]].
-Thus, when [[England]] was completely Free Trading (which it was until the
+to give an artificial price to the producer of the same thing at [[motifs/home|home]].
+Thus, when [[settings/england|England]] was completely Free Trading (which it was until the
 war) there was a tariff on tea; but that was not Protection, for those
 who would try to grow tea here would have to grow it in hot houses and
 at an enormous expense, and the tax on tea, though heavy, did not make
@@ -1334,20 +1334,20 @@ it anything like so dear as to make it worth while to produce tea here.
 Another principle of Free Trade was that if it was thought advisable
 to put a tariff on to anything coming into the country which could be
 produced in the country, then you would have to put what was called
-“an equivalent excise” on the thing produced at [[Home|home]]. For instance,
+“an equivalent excise” on the thing produced at [[motifs/home|home]]. For instance,
 in order to get revenue, one might put a tax of a 1d. on the pound
-on sugar coming from [[Germany]], but, according to the doctrine of Free
-Trade, you must put a similar excise (that is, a [[Home|home]] tax of 1d. on the
-pound) upon any sugar produced in [[England]]. If you did not do that you
-would be benefiting the sugar manufacturer in [[England]] at the expense
-of all other Englishmen, which would be unjust and also make [[England]]
+on sugar coming from [[settings/germany|Germany]], but, according to the doctrine of Free
+Trade, you must put a similar excise (that is, a [[motifs/home|home]] tax of 1d. on the
+pound) upon any sugar produced in [[settings/england|England]]. If you did not do that you
+would be benefiting the sugar manufacturer in [[settings/england|England]] at the expense
+of all other Englishmen, which would be unjust and also make [[settings/england|England]]
 less wealthy because it would be inducing Englishmen to make sugar by
 offering them a reward and so take them away from some production for
 which they were better fitted.
 
 This idea, that Free Trade must necessarily be of advantage to
 everybody, and that it was only stupidity or private avarice which
-supported Protection, was very strong in [[England]], and, in the form you
+supported Protection, was very strong in [[settings/england|England]], and, in the form you
 have just read, it seems beyond contradiction.
 
 But if you will look closely at Formula No. 3 written in the last
@@ -1363,11 +1363,11 @@ is itself enriched_. That is the important point which the Free Trade
 people missed, and it is this which supports, in some cases, the
 argument for Protection.
 
-If we allow free exchange everywhere throughout [[England]], [[England]] as a
+If we allow free exchange everywhere throughout [[settings/england|England]], [[settings/england|England]] as a
 whole will, of course, be the richer for it; but it is quite possible
 that Essex will be the poorer. If we allow Free Trade throughout all
-[[Europe]], [[Europe]] will be the richer for it; but it is quite possible that
-some particular part of [[Europe]], [[Italy]] or [[Spain]], may be made poorer by
+[[settings/europe|Europe]], [[settings/europe|Europe]] will be the richer for it; but it is quite possible that
+some particular part of [[settings/europe|Europe]], [[settings/italy|Italy]] or [[settings/spain|Spain]], may be made poorer by
 the general process, and as they don’t want to be poorer they will
 by Protection and tariffs cut themselves off from the area of free
 exchange.
@@ -1389,7 +1389,7 @@ by Free Trade and will be benefited by artificially fostering internal
 exchanges.
 
 In the second part of this book I will go into this again, and show
-how the discussion arose in [[England]] and what the arguments are for and
+how the discussion arose in [[settings/england|England]] and what the arguments are for and
 against Universal Free Trade, and how true it is that a sound economic
 argument for Protection exists.
 
@@ -1430,7 +1430,7 @@ things which are being exchanged is easier to carry than the rest, and
 perhaps lasts longer and also can be easily used in small or large
 amounts. For instance, in the case of our three producers, John,
 William and Robert, wheat might easily appear in this character.
-People always want wheat sooner or later. It keeps [[Well|well]]. It is not very
+People always want wheat sooner or later. It keeps [[motifs/well|well]]. It is not very
 difficult to transport, and you can divide it into quite small amounts,
 or lump it up in large amounts.
 
@@ -1441,7 +1441,7 @@ moment. For he would say to himself: “I can always keep it by me and
 then exchange it against somebody else’s produce when that somebody
 else happens to want wheat”. Soon you would find each one of the three
 would be keeping a little wheat by him for the purpose of saving
-tiresome journeys to effect complicated [[Double|double]] exchanges, and the wheat
+tiresome journeys to effect complicated [[topoi/double|double]] exchanges, and the wheat
 so used by all three of them would be in effect MONEY. It would be
 used as a common medium of exchange to facilitate the disposal of goods
 one against the other, without the elaborate business of making special
@@ -1474,10 +1474,10 @@ all sorts of amounts, very little and very large.
 have very little use as Money.
 
 4. It must be of an even quality, so that, wherever you come across it,
-you may count on its being pretty [[Well|well]] always the same, and therefore
+you may count on its being pretty [[motifs/well|well]] always the same, and therefore
 weight for weight of the same value.
 
-5. It must be more or less [[Stable|stable]] in value. It would be difficult to
+5. It must be more or less [[settings/stable|stable]] in value. It would be difficult to
 use as money some object which was very plentiful at one moment and
 suddenly scarce at another; very cheap this year, and very dear next
 year--such as are, for instance, agricultural products depending upon
@@ -1486,13 +1486,13 @@ the season.
 Now of all objects Gold and Silver best fulfil all these requirements.
 Precious stones are more portable, value for value. A £1,000 worth of
 diamonds takes up less space and is less heavy than a £1,000 worth of
-gold. And precious stones are fairly [[Stable|stable]] in value and also keep
-very [[Well|well]]; but they are not easily divisible. Again, they are not of
+gold. And precious stones are fairly [[settings/stable|stable]] in value and also keep
+very [[motifs/well|well]]; but they are not easily divisible. Again, they are not of
 the same standard value in all cases. They vary in purity. But gold
 and silver have all the qualities required. Gold hardly decays at all
-through the passage of [[Time|time]], and silver very little; and each, but
+through the passage of [[motifs/time|time]], and silver very little; and each, but
 especially gold, is valuable for its bulk, and its value is fairly
-[[Stable|stable]], and each is easily divisible and can therefore be presented in
+[[settings/stable|stable]], and each is easily divisible and can therefore be presented in
 any amount, from a tenth of an ounce to a hundred pounds weight.
 
 So, by the mere force of things, Gold and Silver became the Money
@@ -1515,7 +1515,7 @@ When gold and silver become the money of mankind it is important to
 be able to tell at once the exact amounts you are dealing with. This,
 under simple conditions, is done by weighing; but it is more convenient
 to stamp on separate bits of metal what weight there is in each, and
-that is called “coining the metal.” All that a [[government|Government]] does when it
+that is called “coining the metal.” All that a Government does when it
 makes a sovereign is to guarantee that there is so much weight of gold
 in the round disc of metal which it stamps.
 
@@ -1525,12 +1525,12 @@ possible, it also has great social value as a measurer or standard,
 and soon after money comes into use men begin to think of the economic
 values of things in terms of money: that is, in what we call “Prices.”
 
-All things which men produce are fluctuating the whole [[Time|time]] in value.
+All things which men produce are fluctuating the whole [[motifs/time|time]] in value.
 There is now rather more of one article, and now rather less. A sack
 of barley at one moment will exchange exactly against a sack of wheat,
 and then in a few weeks against rather less than a sack of wheat.
-Meanwhile, where it used to fetch a [[Lamb|lamb]] in exchange it may, in a
-few months, need two sacks for a [[Lamb|lamb]]; and so with all the hundreds
+Meanwhile, where it used to fetch a [[motifs/lamb|lamb]] in exchange it may, in a
+few months, need two sacks for a [[motifs/lamb|lamb]]; and so with all the hundreds
 and thousands of other objects. When we have money the whole mass of
 transactions is referred to the current medium, and that is of immense
 social value. For no one could keep in his head all the changing
@@ -1539,20 +1539,20 @@ but it is easy to remember the exchange values against one standard
 commodity, such as gold. And whatever the exchange value is in gold we
 call the price of the article.
 
-For instance, when you say that a [[house]] is worth £500, that that is the
-“price” of the [[house]], you mean that the amount of gold you would
+For instance, when you say that a house is worth £500, that that is the
+“price” of the house, you mean that the amount of gold you would
 have to exchange to get it is about Ten Pounds weight of the metal.
-And when you say that the price of a ticket to [[Edinburgh]] is £4, you
-mean that the service of taking you to [[Edinburgh]] in the train will be
+And when you say that the price of a ticket to [[settings/edinburgh|Edinburgh]] is £4, you
+mean that the service of taking you to [[settings/edinburgh|Edinburgh]] in the train will be
 exchanged against about an ounce of the metal gold.
 
 *       *       *       *       *
 
 I now come to a most difficult point about money and prices which is
-rather beyond the elements of [[Economics]], but which it is important to
+rather beyond the elements of [[concepts/economics|Economics]], but which it is important to
 have some idea of, though it is very difficult.
 
-There is a very interesting study in [[Economics]] called “_The Theory
+There is a very interesting study in [[concepts/economics|Economics]] called “_The Theory
 of Prices,” showing why all prices on the average_ (what is called
 “General Prices,” that is the value of all goods in general as
 measured against gold) sometimes begin to go up and at other times
@@ -1572,7 +1572,7 @@ If, for any reason, the total amount of gold becomes suddenly smaller
 or suddenly larger, or if the pace at which it is used changes very
 quickly, then prices fluctuate violently.
 
-Supposing you could, in a [[Night|night]], take away half the gold in
+Supposing you could, in a [[motifs/night|night]], take away half the gold in
 circulation. Then, of course, the remaining gold would become much more
 valuable. In other words, prices would fall. For if an ounce of gold is
 rarer and more difficult to get than it was, it will exchange against,
@@ -1589,7 +1589,7 @@ The same thing would happen if you did not lessen the amount of gold in
 circulation but made the circulation much more sluggish. The amount of
 gold in circulation would be the same, but as it went its rounds more
 slowly it would be more difficult to get a certain amount of gold in
-any one place at any one [[Time|time]].
+any one place at any one [[motifs/time|time]].
 
 Prices, then, depend upon the actual amount of money that is present to
 do the work, and the pace at which it is made to go the rounds: or
@@ -1597,7 +1597,7 @@ do the work, and the pace at which it is made to go the rounds: or
 “efficiency in circulation.”
 
 Now, there is in the human mind a very strong tendency to keep prices
-[[Stable|stable]]. We think of them by a sort of natural illusion as though they
+[[settings/stable|stable]]. We think of them by a sort of natural illusion as though they
 were absolute fixed things. We think of a pound, and a shilling, and
 five pounds as real, permanent, unchanging values. If we find that
 quite suddenly five pounds will buy a great deal more than it used
@@ -1623,14 +1623,14 @@ lack of gold; and under the effect of this prices will gradually rise
 again. In the same way, if the mass of current medium by some accident
 becomes suddenly increased that should lead to an equally sudden rise
 in prices; but the unconscious tendency of the human mind to keep
-prices [[Stable|stable]] sets to work at once. Efficiency in Circulation slows
+prices [[settings/stable|stable]] sets to work at once. Efficiency in Circulation slows
 down, the new large amount of currency works more sluggishly, and,
 though prices rise, they do not rise nearly as much as the influx of
 money might warrant.
 
 We see, therefore, that the factor in the making of prices called
 “Efficiency in Circulation” works like a sort of automatic governor,
-tending to keep prices fairly [[Stable|stable]]; but of course it cannot prevent
+tending to keep prices fairly [[settings/stable|stable]]; but of course it cannot prevent
 the gradual changes, and sometimes it cannot prevent quite sharp
 changes, as we shall see a little later on. For the moment, the
 interesting thing to note about Efficiency in Circulation is that we
@@ -1639,7 +1639,7 @@ owe to this factor in prices the creation of paper money.
 If, with only a certain stock of gold to work on, business rapidly and
 largely increases, if a great many more things are made and exchanged,
 then, as the gold will have a lot more work to do--and so become more
-difficult to obtain in any one [[Time|time]] or place--that should have the
+difficult to obtain in any one [[motifs/time|time]] or place--that should have the
 effect, of course, of making it more valuable, that is, of lowering
 prices.
 
@@ -1647,61 +1647,61 @@ Now with the beginnings of modern industry, about a hundred and fifty
 years ago, a vastly greater number of things began to be made than had
 ever been made before, and the number of exchanges effected multiplied
 ten, twenty and a hundredfold. The stock of gold, though it was
-increased in the nineteenth century by discoveries in [[Australia]] and
-California, and later in [[South Africa]], would have been quite unable to
+increased in the nineteenth century by discoveries in [[settings/australia|Australia]] and
+California, and later in [[settings/south-africa|South Africa]], would have been quite unable to
 cope with this flood of new work, and prices would have fallen very
 much indeed, had it not been for the creation of Paper Money. Paper
 money was a method of immensely increasing Efficiency in Circulation.
 
 This is how it worked.
 
-A Bank or a [[government|Government]] (but especially the Bank of [[England]], with the
-guarantee of the [[government|Government]]) would print pieces of paper with the
+A Bank or a Government (but especially the Bank of [[settings/england|England]], with the
+guarantee of the Government) would print pieces of paper with the
 words: “I promise to pay to the bearer of this Five Pounds.” Anyone
-who took one of these pieces of paper to the Bank of [[England]] could get
+who took one of these pieces of paper to the Bank of [[settings/england|England]] could get
 Five Golden Sovereigns. But since this was publicly known, people were
 willing to take the piece of paper instead of the five sovereigns.
 
-If you sold a man a [[Horse|horse]] for fifty pounds, you were just as willing to
+If you sold a man a [[motifs/horse|horse]] for fifty pounds, you were just as willing to
 take ten five pound notes for him as fifty sovereigns. They were more
 convenient to carry, and you knew that whenever you wanted the actual
 gold you had only to go to the bank and get it.
 
 Because people were thus willing to be paid in paper instead of in
 the actual gold, a large number of notes could be kept in circulation
-at any one [[Time|time]], and only a small amount of gold had to be kept in
+at any one [[motifs/time|time]], and only a small amount of gold had to be kept in
 readiness at the Bank to redeem them. In practice it was found that
 very much less gold than the notes stood for was quite enough to meet
 the notes as they were brought in for payment. Much the most of the
 note circulation went on going the rounds, and in normal times it took
-a long [[Time|time]] for a note on the average to be brought back to the Bank.
+a long [[motifs/time|time]] for a note on the average to be brought back to the Bank.
 
 You can see that this dodge of paper money had the effect of increasing
 the total amount of the current medium in practice, and of greatly
 increasing its Efficiency in Circulation. Moreover, it made the
 Efficiency in Circulation very elastic, because in times of quiet
 business, more notes would go out of circulation and be paid into
-the bank, while in [[Time|time]] of active business more notes would go on
+the bank, while in [[motifs/time|time]] of active business more notes would go on
 circulating.
 
-_So long as every note was redeemed in gold every [[Time|time]] it was brought
+_So long as every note was redeemed in gold every [[motifs/time|time]] it was brought
 to the bank, so long as the promise to pay was promptly kept, the money
 still remained good; the paper currency did not interfere with the
 reality of the gold values, there was no upsetting of prices, and all
-went [[Well|well]]._
+went [[motifs/well|well]]._
 
-Unfortunately, Governments are under a great [[Temptation|temptation]], when they
+Unfortunately, Governments are under a great [[concepts/temptation|temptation]], when they
 have exceptionally heavy expenses, to falsify the Currency. People get
-so much in the habit of trusting the [[government|Government]] stamp on paper or metal
-that they take it as part of [[Nature|nature]]. What the [[government|Government]] is really
+so much in the habit of trusting the Government stamp on paper or metal
+that they take it as part of [[concepts/nature|nature]]. What the Government is really
 doing when it coins a sovereign is giving a guarantee that this little
 disc of yellow metal contains 123 grains of gold with a certain known
-(and small) amount of alloy to make the gold hard. When the [[government|Government]]
+(and small) amount of alloy to make the gold hard. When the Government
 has to pay a large amount in wages, or for its Army and Navy, or what
 not, it is tempted to put in less gold and more alloy and keep the old
 stamp unchanged, and that is called “Debasing the Currency.”
 
-For instance, the [[government|Government]] wants a hundred tons of wheat to feed
+For instance, the Government wants a hundred tons of wheat to feed
 soldiers with, and the price of wheat in gold at that moment is Ten
 Sovereigns a ton. It says to a merchant, “If you will give me a
 hundred tons of wheat, I will give you a thousand sovereigns.” But
@@ -1714,16 +1714,16 @@ Only when these bad sovereigns get into circulation they naturally
 find their level in gold; for people begin to test them, and find
 that they have not got as much gold in them as they pretend to have.
 Then, of course, prices as measured in this new base coin rise. If the
-[[government|Government]] wants to buy another hundred tons of wheat it must offer
+Government wants to buy another hundred tons of wheat it must offer
 more than a thousand of the base coins; it must offer, say, thirteen
 hundred of them. But again it is tempted to put even less gold into
 the coins with which it pays for the second lot of wheat, and so the
 coin gets baser and baser, until at last, perhaps, a sovereign will not
 really be worth half what it pretends to be. Governments in the past
-have done this over and over again, but it was not until our [[Time|time]] that
+have done this over and over again, but it was not until our [[motifs/time|time]] that
 the worst form of debasing the coinage came in.
 
-It came in as a result of the Great War, and we are all [[Suffering|suffering]] from
+It came in as a result of the Great War, and we are all [[concepts/suffering|suffering]] from
 it to-day. This last and worst form of debasing coinage worked, not
 through cheating about the metal, but through a trick played with paper
 money.
@@ -1731,21 +1731,21 @@ money.
 Before the war, if you got a Five Pound note saying “I promise to pay
 Five Pounds” the promise was kept and the five golden sovereigns were
 there for you whenever you went with your note to the bank and asked
-for them; but when the [[government|Government]] had these very heavy expenses to
+for them; but when the Government had these very heavy expenses to
 meet on account of the war, they first began making difficulties about
 paying when people brought their paper to the bank, and at last stopped
-paying altogether. At the same [[Time|time]], they did everything they could to
+paying altogether. At the same [[motifs/time|time]], they did everything they could to
 get the gold out of private people’s hands and to make them use paper
 money instead. The consequence was that, people being so accustomed
-to think of a paper guarantee of the [[government|Government]] exactly as though it
+to think of a paper guarantee of the Government exactly as though it
 were real money, readily took to the new notes and used them as money,
 thinking of these wretched bits of paper exactly as though they were
-so many golden sovereigns. The [[government|Government]] could go on printing as many
+so many golden sovereigns. The Government could go on printing as many
 bits of paper as it liked, and they would still be used as though they
 were real money. So long as the amount of paper printed was not more
 than would have been printed when the notes were redeemable, and when
 the currency was on a true “Gold Basis,” no harm was done; but of
-course it paid the [[government|Government]] to go on printing a great many more notes
+course it paid the Government to go on printing a great many more notes
 than that, because, when it could make money thus cheaply, it could pay
 for anything, however great the expense; but at the cost, of course, of
 debasing the currency more and more.
@@ -1762,38 +1762,38 @@ of it than we ought to have. But the French have more in proportion, so
 that prices measured in their money are now (1923) more than three
 times what they would be in gold. The Italians are worse off still.
 With them it is four times. With the Germans it is millions of times,
-and their currency has quite gone to pieces; a paper coin in [[Germany]]
-is worth (at the [[Time|time]] I write, October, 1923) ten million times less
+and their currency has quite gone to pieces; a paper coin in [[settings/germany|Germany]]
+is worth (at the [[motifs/time|time]] I write, October, 1923) ten million times less
 than the real metal coin which it is supposed to represent.
 
 This is one of the very worst things that has happened on account of
-the war, for as the money now being used all over [[Europe]] is not real
+the war, for as the money now being used all over [[settings/europe|Europe]] is not real
 money, no one feels certain whether he can get his debts really paid,
 or whether his savings are safe, or whether a contract made for a
 certain payment a few months hence will be really fulfilled or not. A
 man may lend a thousand francs or marks or pounds for a year, and then
 at the end of the year, when he is to be paid back, he may be paid in
 coin which has got so much worse that he is really receiving only half
-or a tenth or a thousandth of the real value he lent. A man in [[Germany]]
+or a tenth or a thousandth of the real value he lent. A man in [[settings/germany|Germany]]
 sells a hundred sheep for so many marks, to be paid for in a month; and
 at the end of the month the marks will only buy ten sheep!
 
 This piece of swindling, which has been the note of the last five
 years, is the first point we have touched on so far where a problem in
-[[Economics]] and the study of economic law brings one up against questions
+[[concepts/economics|Economics]] and the study of economic law brings one up against questions
 of right and wrong.
 
-It is morally wrong for the [[government|Government]] to swindle people out of their
+It is morally wrong for the Government to swindle people out of their
 property by making false money. What is the way out, allowing for
 Economic Law? It is morally wrong that some men should starve while
 other men have too much: allowing for Economic Law, what is the way out
 of such evils?
 
-As you go on in the study of [[Economics]] you find quantities of questions
+As you go on in the study of [[concepts/economics|Economics]] you find quantities of questions
 where you have to decide whether economic laws render possible
 political actions which you would very much like to undertake, and
 which seem right and just. Many such actions, though one would like to
-undertake them, cannot be undertaken because our study of [[Economics]]
+undertake them, cannot be undertaken because our study of [[concepts/economics|Economics]]
 has shown us that the consequences will be very different from what we
 hoped.
 
@@ -1803,22 +1803,22 @@ their duty to do politically by pleading that Economic Law prevents it.
 Before ending these notes, then, we must go into the main questions
 of this kind, and see what there is to be said, in the light of
 economic knowledge, for our present system of society, which is called
-[[Capitalism]]; for other systems in the past such as [[Slavery]]; for
-Private Property; for the various theories of [[Socialism]]; for and
+[[concepts/capitalism|Capitalism]]; for other systems in the past such as [[concepts/slavery|Slavery]]; for
+Private Property; for the various theories of [[concepts/socialism|Socialism]]; for and
 against Usury, and so on.
 
 It is necessary to go into these points even in the most elementary
-book on [[Economics]], because the moment one begins the practical
+book on [[concepts/economics|Economics]], because the moment one begins the practical
 application of one’s economic science these questions at once arise; to
 answer them rightly is the most important use we can make of economic
 knowledge.
 
 INTRODUCTION
 
-So far I have been putting down the elements of [[Economics]] just as one
-might put down the elements of Arithmetic. But [[Economics]] have, just
+So far I have been putting down the elements of [[concepts/economics|Economics]] just as one
+might put down the elements of Arithmetic. But [[concepts/economics|Economics]] have, just
 like Arithmetic, a practical application: if it were not for this,
-there would be no real use in studying [[Economics]] at all.
+there would be no real use in studying [[concepts/economics|Economics]] at all.
 
 For instance: we find out, when we do the elements of Arithmetic, that
 solid bodies vary with the cube of their linear measurements. That is
@@ -1829,41 +1829,41 @@ another will be eight times as big; it is also by using the elements of
 Arithmetic that we can keep household accounts and do all the rest of
 our work.
 
-It is precisely the same with [[Economics]]. We are perpetually coming upon
-political problems which [[Economics]] illustrate and to which economic
+It is precisely the same with [[concepts/economics|Economics]]. We are perpetually coming upon
+political problems which [[concepts/economics|Economics]] illustrate and to which economic
 science furnishes the answer--or part of the answer--and that is where
-the theoretical elements of [[Economics]] have practical importance.
+the theoretical elements of [[concepts/economics|Economics]] have practical importance.
 
 For instance: once we know the elementary economic principle that
 rent is a surplus, we appreciate that it does not enter into cost
 of production. We do not try to make things cheaper by compulsorily
-lowering rent. Or, again, when we have learned the [[Nature|nature]] of money we
+lowering rent. Or, again, when we have learned the [[concepts/nature|nature]] of money we
 can appreciate the dangers that come from using false money.
 
-In these political applications of [[Economics]] we also come upon what
+In these political applications of [[concepts/economics|Economics]] we also come upon what
 is much more important than mere politics, and that is the question
 of right and wrong. We see that such and such a thing ought to be so
 as a matter of justice; but we may blunder, as many great reformers
 have blundered, in trying to do the right thing and failing to do it,
 because we have not made a proper application of our economic science.
-And the opposite is also true: that is, a knowledge of [[Economics]]
-prevents their being wrongly applied by those who [[Desire|desire]] evil. Many
+And the opposite is also true: that is, a knowledge of [[concepts/economics|Economics]]
+prevents their being wrongly applied by those who [[motifs/desire|desire]] evil. Many
 men take refuge in the excuse that, with the best will in the world,
-they cannot work such and such a social [[Reform|reform]] because economic science
+they cannot work such and such a social [[concepts/reform|reform]] because economic science
 prevents their doing what they know to be right. If we know our
-[[Economics]] properly we can refute these false arguments, to the great
+[[concepts/economics|Economics]] properly we can refute these false arguments, to the great
 advantage of our own souls and of our fellow-men.
 
 For instance: it is clearly our duty to-day to alleviate the fearful
-[[Poverty|poverty]] in which most Englishmen live. A great many people who ought to
+[[concepts/poverty|poverty]] in which most Englishmen live. A great many people who ought to
 know better say, or pretend, that economic laws prevent our doing this
 act of justice. Economic laws have no such effect; and an understanding
-of [[Economics]] clears us in this matter, as we shall see later on.
+of [[concepts/economics|Economics]] clears us in this matter, as we shall see later on.
 
 We have hitherto been following the statement and examination of
 economic laws: that is, the theoretical part of our study and its
 necessary foundation. Now we go on to the practical part, or “Applied
-[[Economics]],” which is the effect of those laws on the lives of men.
+[[concepts/economics|Economics]],” which is the effect of those laws on the lives of men.
 
 Before leaving this Introduction I think it is important to get quite
 clear the difference between what is called “theoretical” study
@@ -1874,17 +1874,17 @@ better.
 A theoretical statement is a statement following necessarily and
 logically from some one or more known first principles. Thus, we know
 that two sides of a triangle are longer than the third, so we say it
-follows theoretically that a straight [[Road|road]] from [[London]] to Brighton
+follows theoretically that a straight [[motifs/road|road]] from [[settings/london|London]] to Brighton
 is quicker motoring than going round by Lewes. But the number of first
 principles at work in the actual world is indefinitely large. Therefore
 one must test any one theoretical conclusion by practice: by seeing how
 it works. Because, side by side with the one or two first principles
 upon which our theory is built, there are an indefinitely large number
 of other first principles which come into play in the real world.
-Thus there is, in motoring, the principle that [[Speed|speed]] varies with [[Road|road]]
+Thus there is, in motoring, the principle that [[characters/speed|speed]] varies with [[motifs/road|road]]
 surface. So the way round by Lewes may be quicker than the straight
-[[Road|road]] if it has a better surface. There is yet another principle that
-[[Speed|speed]] is checked by turnings in the [[Road|road]], and it may prove that on
+[[motifs/road|road]] if it has a better surface. There is yet another principle that
+[[characters/speed|speed]] is checked by turnings in the [[motifs/road|road]], and it may prove that on
 trial the two ways are about equal.
 
 Or again: we know that the tidal wave is raised on either side of the
@@ -1895,14 +1895,14 @@ because the earth takes twenty-four hours to go round.
 But if you were to act upon that first principle only in any one
 part of the world, and to say without testing the thing in practice,
 “I can calculate the tide theoretically,” you would very often wreck
-your [[Ship|ship]]. For many other principles come into play in the matter of
+your [[motifs/ship|ship]]. For many other principles come into play in the matter of
 the tide besides this twelve-hour period. In one case the tide will be
-delayed by shoals or by the current of a [[River|river]]. In another there may be
+delayed by shoals or by the current of a [[motifs/river|river]]. In another there may be
 two or three tides meeting. In a third the sea will be so locked that
 there will be hardly any tide for many hours, and then a rush at the
 end--and so on.
 
-Now it is just the same with [[Economics]]. Your economic first principle
+Now it is just the same with [[concepts/economics|Economics]]. Your economic first principle
 makes you come to such and such a theoretical conclusion. But there
 are a lot of other first principles at work, and they may modify the
 effect in practice to any extent. When people object to “theoretical
@@ -1929,7 +1929,7 @@ But it does not follow that the owner of the land, for instance,
 will get the full economic rent of the land. There may be customs in
 society, or laws, by which he is compelled to share with the tenant.
 The theoretical economic rent is there all right, but one cannot deduce
-from this [[Truth|truth]] that the landlord will necessarily and always get the
+from this [[concepts/truth|truth]] that the landlord will necessarily and always get the
 whole of it. And so it is with every other political application.
 
 *       *       *       *       *
@@ -1946,12 +1946,12 @@ distribute or withhold) the means of production, the stores of food
 and clothing, and houses and machinery? On the answer to that question
 depends the economic structure of a society. This control is called
 Property, and as the first thing we have to study in practical
-[[Economics]] is the character of Property, we will make that the first
+[[concepts/economics|Economics]] is the character of Property, we will make that the first
 division of our political applications.
 
 PROPERTY: THE CONTROL OF WEALTH
 
-All the political application of [[Economics]]--that is, all the
+All the political application of [[concepts/economics|Economics]]--that is, all the
 application of Economic Science to the conduct of families in the
 State--turns on The Control of Wealth, and of the things necessary to
 make wealth.
@@ -1966,12 +1966,12 @@ equivalent, in currency measure, to say £16. If no one has the right
 to decide upon its preservation and use, when and how it is to be kept
 dry and free from vermin, when and how it is to be ground and the flour
 made into bread, then it will rot or be eaten by rats, and in a short
-[[Time|time]] its economic values will have disappeared. It will be worthless.
+[[motifs/time|time]] its economic values will have disappeared. It will be worthless.
 The £16 worth of wealth will have been “consumed without use”; in plain
 language, wasted. But if wealth were all wasted humanity would die
 out. So men must, of necessity, arrange for a control of all wealth,
 and this they do by laws which fix the control of one parcel of wealth
-by one [[Authority|authority]], of another by another; men make laws allowing such
+by one [[concepts/authority|authority]], of another by another; men make laws allowing such
 control by some people and preventing attempted control by other people
 not authorised. This lawful control over a piece of wealth we call
 Property in it.
@@ -2015,7 +2015,7 @@ be consumed in enjoyment but also in Capital. Someone, then, must own
 Capital.
 
 But here comes in a very important addition. The fertility of land,
-space upon which to build, mines of metal, [[Water|water]] power, natural
+space upon which to build, mines of metal, [[motifs/water|water]] power, natural
 opportunities of any kind and natural forces, _though they are not
 wealth_, are the necessary conditions for producing wealth. Someone,
 therefore, must control these also: someone must have the power of
@@ -2033,7 +2033,7 @@ is so used, is called Capital), and also B.2 wealth which is going to
 be consumed without the attempt to produce anything else: consumed,
 as the phrase goes, “in enjoyment.” Natural forces may be grouped,
 as we have grouped them in the first part of this book, under the
-conventional term “Land.” So Property covers Land and Capital, as [[Well|well]]
+conventional term “Land.” So Property covers Land and Capital, as [[motifs/well|well]]
 as Wealth to be consumed without the attempt to produce other wealth.
 You may put the whole thing in a diagram thus:--
 
@@ -2050,7 +2050,7 @@ that is his property, and though we call it wealth in ordinary
 conversation it is not real wealth at all. It is only the opportunity
 for producing wealth. If no one worked on that land, if no one even
 worked so little as to take the trouble of picking fruit off the trees
-or cutting the grass or looking after [[Animals|animals]] on it, it would be worth
+or cutting the grass or looking after [[motifs/animals|animals]] on it, it would be worth
 nothing. Supposing another man to own the stores of food and the houses
 and the clothing necessary for the livelihood of the labourers on the
 land, and also the horses and the ploughs and the stores of seeds
@@ -2087,14 +2087,14 @@ means of Production are owned by the free human agents of Production.
 There is also a fourth imaginary kind of state which has never come
 into being, called the Socialist or Communist State. We will examine
 this in its right place, but the only three actual states of which we
-know anything in [[history]] and can deal with as real human experiences,
+know anything in [[concepts/history|history]] and can deal with as real human experiences,
 are these three just described: the Servile State, the Capitalist
 State, and the Distributive State.
 
 But, before going farther, we must get hold of a very important
 principle, which is this:--
 
-=The [[Nature|nature]] of an economic society is not determined by its
+=The [[concepts/nature|nature]] of an economic society is not determined by its
 arrangements being universal, that is, applying without exception to
 all the families of the State, but only by their applying to what is
 called The Determining Number of the families of the State: that
@@ -2120,10 +2120,10 @@ true to say that the society in which we live speaks English.
 Now it is exactly the same with the economic conditions of society. You
 may have a society in which there is a certain number of slaves, and
 yet it is not a slave-owning society, because the number of free men
-is so great as to give a general tone of [[Freedom|freedom]]. Or you have, as we
-have in [[England]], a great deal of property owned by the State--barracks
+is so great as to give a general tone of [[concepts/freedom|freedom]]. Or you have, as we
+have in [[settings/england|England]], a great deal of property owned by the State--barracks
 and battleships and arsenals, some of the forests, and so on--but we do
-not say that [[England]] is economically a State-owned society, because the
+not say that [[settings/england|England]] is economically a State-owned society, because the
 determining proportion of property is not owned by the State but by
 private people. The general effect produced is one of private ownership
 and not of State ownership.
@@ -2133,7 +2133,7 @@ that almost any society is mixed. A society of which the determining
 proportion is slave-owning will yet certainly have a proportion of free
 men; for if it did not there would be no one to own the slaves. In the
 same way what is called a Capitalist Society, which I will describe in
-a moment (and which is the society in which we now live in [[England]]) has
+a moment (and which is the society in which we now live in [[settings/england|England]]) has
 a great number of people not living under purely capitalist conditions.
 It is mixed.
 
@@ -2157,7 +2157,7 @@ they do not work for the owners.
 
 2. In the CAPITALIST STATE a determining number of the families or
 individuals are free; that is, they cannot be compelled by positive law
-to work for anybody. They are at [[Liberty|liberty]] to make a contract. Each can
+to work for anybody. They are at [[concepts/liberty|liberty]] to make a contract. Each can
 say to an owner of land or capital: “I will work for you for so much
 reward, such and such a proportion of the wealth I produce. If you will
 not give me that I will not work at all,” and no one can punish him for
@@ -2176,20 +2176,20 @@ by a very hard condition, for if they push their refusal to the limit
 and continue not to work they will starve, and they will not be able
 to get housing against the weather or clothes to wear.
 
-We are living to-day, in [[England]] especially, in such a Capitalist
+We are living to-day, in [[settings/england|England]] especially, in such a Capitalist
 State. In such a state the free men who contract to sell their labour
 often have a certain very small proportion of things on which they can
-live for a short [[Time|time]]. They have a suit of clothes and perhaps a little
+live for a short [[motifs/time|time]]. They have a suit of clothes and perhaps a little
 money with which they can purchase a few days’ livelihood--some of them
 more, some of them less. But the tone or colour of the society is given
 by the fact that _the great majority, though free, are dispossessed of
 the means of production, and therefore of livelihood, and that a small
 minority controls these things_.
 
-The word “[[Capitalism]]” does not mean that there exists capital in such
+The word “[[concepts/capitalism|Capitalism]]” does not mean that there exists capital in such
 a society. Capital exists in all societies. It is a necessary part of
 human society and of the production of wealth, without which no society
-can live at all. The word “[[Capitalism]]” is only “shorthand” for the
+can live at all. The word “[[concepts/capitalism|Capitalism]]” is only “shorthand” for the
 condition we have just described: a condition where capital and land
 are in few hands though all men are free.
 
@@ -2199,15 +2199,15 @@ and conditions of the whole society, is possessed of the means of
 production, as private property, divided among the various families.
 The word “distributive” is an ugly, long word, only used for want of a
 better; but the reason that we have to use such a tiresome word is an
-odd and paradoxical reason [[Well|well]] worth grasping. The Distributive State
+odd and paradoxical reason [[motifs/well|well]] worth grasping. The Distributive State
 is the natural state of mankind. Men are happiest in such conditions;
 they can fulfil their being best and are most perfectly themselves
 when they are owners and free. Now whenever you have natural and good
-conditions, not only in [[Economics]] but in any other aspect of life, it
+conditions, not only in [[concepts/economics|Economics]] but in any other aspect of life, it
 is very difficult to find a word for it. There is always a word ready
 for odd, unnatural conditions: but it is often difficult to find a word
-for conditions normal to our human [[Nature|nature]]. For instance: we have the
-words “[[Dwarf|dwarf]]” and “giant,” but we have no similar common, short word
+for conditions normal to our human [[concepts/nature|nature]]. For instance: we have the
+words “[[characters/dwarf|dwarf]]” and “giant,” but we have no similar common, short word
 to describe people of ordinary stature. So it is with the Distributive
 State. We have to use an ugly new word, because men more or less take
 for granted this state of affairs in their minds, and have never
@@ -2232,10 +2232,10 @@ the houses, and the horses and ploughs and everything, and these men
 you would see working would be compelled to work for their master, and
 he would have the right by law to punish them if they did not.
 
-If you were in a Capitalist State (as we are in [[England]]) the men you
+If you were in a Capitalist State (as we are in [[settings/england|England]]) the men you
 would see working would, as a rule, be earning what are called “wages,”
 that is, an allowance (actually of money but immediately translated
-into food and clothes and [[house]]-room and the rest), which allowance
+into food and clothes and house-room and the rest), which allowance
 would be paid to them at fairly short intervals, and without which
 they could not live. The ploughs and horses with which they would be
 working, the seed they would be sowing, the houses they lived in would
@@ -2250,15 +2250,15 @@ contract of this sort in order to live at all. He is not compelled
 by law to work for another, but he is compelled by the necessity of
 living to work for another.
 
-Lastly, if you were travelling through a Distributive State ([[Denmark]]
-is the best example of such a state in modern [[Europe]]) you would find
+Lastly, if you were travelling through a Distributive State ([[settings/denmark|Denmark]]
+is the best example of such a state in modern [[settings/europe|Europe]]) you would find
 that the man working on the land was himself the owner of the land, and
 also of the seed and of the horses and the houses, and all the rest of
 it. He would be a free man working for his own advantage and for nobody
 else’s. He would also have a share in the factories of the country
 and be a part owner in the local dairies, sharing the profit of those
 dairies where the milk of many farms is gathered together, turned into
-butter and [[cheese]], and sold.
+butter and cheese, and sold.
 
 This is what we mean by the three types of State. In each you would
 find many exceptions, but each has its determining number--of slaves
@@ -2275,8 +2275,8 @@ THE SERVILE STATE
 The Servile State is that which was found among our forefathers
 everywhere. It is the Servile State in which we Europeans all lived
 when we were pagan two thousand years ago. For instance: In old pagan
-[[Italy]] before it became Christian, or in old pagan Greece--both of them
-the best countries in the world of their [[Time|time]] and both of them, as you
+[[settings/italy|Italy]] before it became Christian, or in old pagan Greece--both of them
+the best countries in the world of their [[motifs/time|time]] and both of them, as you
 know, the origins of our own civilisation--most of the people you would
 have seen working at anything were slaves, and above the slaves were
 the owners: the free men.
@@ -2290,30 +2290,30 @@ human happiness.
 The great disadvantage of the slave-owning state is clearly apparent:
 in it the mass of men are degraded: they are not citizens: they cannot
 exercise their own wills. This is so evident and great an evil that it
-must be set against all the advantages we are about to notice. [[Slavery]]
-is a most unhappy condition in so far as it wounds human [[Honour|honour]] and
+must be set against all the advantages we are about to notice. [[concepts/slavery|Slavery]]
+is a most unhappy condition in so far as it wounds human [[concepts/honour|honour]] and
 offends human dignity; and that is why the Christian religion gradually
-dissolved [[Slavery|slavery]] in the process of many centuries: [[Slavery|slavery]] is not
+dissolved [[concepts/slavery|slavery]] in the process of many centuries: [[concepts/slavery|slavery]] is not
 sufficiently consistent with the idea of man’s being made in the image
-of God. [[Slavery]] can also be materially unhappy, if the masters are
+of God. [[concepts/slavery|Slavery]] can also be materially unhappy, if the masters are
 cruel or negligent. The great mass of slaves in such a society might
 be, at the caprice of their masters, very unhappy; and under bad phases
 of those societies they were very unhappy.
 
 But we must not be misled by the ideas that have grown up around the
-word “slave” in the modern mind. Because we have no one in [[England]]
+word “slave” in the modern mind. Because we have no one in [[settings/england|England]]
 to-day who is called a slave and bought or sold as a slave, and no
 one is yet compelled by law to work for another man, therefore we
-regard [[Slavery|slavery]] as something odd and alien; and because it is natural
+regard [[concepts/slavery|slavery]] as something odd and alien; and because it is natural
 to dislike things which are odd and alien, unaccustomed, we think of
-[[Slavery|slavery]] as something simply bad.
+[[concepts/slavery|slavery]] as something simply bad.
 
 That is a great mistake. The Servile State had--and, if it comes back,
 will have again--two great advantages: which were personal security
 and general stability.
 
 Personal security means a condition in which everybody, master and
-man, is free from [[Grave|grave]] anxiety upon the future: can expect regular
+man, is free from [[motifs/grave|grave]] anxiety upon the future: can expect regular
 food and lodging and a continuance of his regular way of life.
 
 General stability means the continuance of all society in one
@@ -2324,12 +2324,12 @@ and lock-outs.
 In the Servile State work always got done and was done regularly. The
 owners knew “where they were.” With so much land and so many slaves
 they were sure of a certain average annual produce. On the whole it was
-to the advantage of a man to keep his slaves alive and fairly [[Well|well]] fed
+to the advantage of a man to keep his slaves alive and fairly [[motifs/well|well]] fed
 and housed. Also, the human relation came in, and a man and his slave,
 in the better and simpler forms of the Servile State, would often be
 friends and were usually in the same relation as people are to-day with
-their dependents. For instance: in [[Well|well]]-to-do houses of the Servile
-State we know from [[history]] that certain slaves were often the tutors of
+their dependents. For instance: in [[motifs/well|well]]-to-do houses of the Servile
+State we know from [[concepts/history|history]] that certain slaves were often the tutors of
 the children, and thus had a very important and respectable position,
 and there were other slaves who acted as good musicians and architects
 and artists. There was always the feeling of a fixed social difference
@@ -2342,8 +2342,8 @@ a very valuable effect, which is, the presence of leisure. Because
 revenue was fairly certain, because this kind of arrangement prevented
 violent fluctuation of fortune, competition in excess, and the rest
 of it, therefore was there a considerable proportion of people at any
-[[Time|time]] who had ample opportunity for study, for cultivating good tastes,
-for writing and building [[Well|well]], and judging [[Well|well]], and--what is very
+[[motifs/time|time]] who had ample opportunity for study, for cultivating good tastes,
+for writing and building [[motifs/well|well]], and judging [[motifs/well|well]], and--what is very
 important--for conducting the affairs of the State without haste or the
 panic and folly of haste.
 
@@ -2351,14 +2351,14 @@ One alleged economic disadvantage of slave-owning must be looked at
 narrowly before we leave this description of the Servile State.
 
 One often hears it said that slave labour is less productive than
-free labour, that is, labour working at a wage under [[Capitalism]].
+free labour, that is, labour working at a wage under [[concepts/capitalism|Capitalism]].
 People sometimes point to modern examples of this contrast, saying
-that places like the Southern States of [[America]], where slave labour
+that places like the Southern States of [[settings/america|America]], where slave labour
 was used a lifetime ago, were less productive than the Northern
 States, where labour was free. But though this is true of particular
-moments in [[history]], it is not generally true. Free labour working at
-a wage under the first institution of [[Capitalism|capitalism]]--when, for instance,
-a [[Body|body]] of capitalists are beginning to develop a new country with
+moments in [[concepts/history|history]], it is not generally true. Free labour working at
+a wage under the first institution of [[concepts/capitalism|capitalism]]--when, for instance,
+a [[concepts/body|body]] of capitalists are beginning to develop a new country with
 hired free men to work for them--will be full of energy and highly
 productive. But when what is called “free labour”--that is, men
 without property working by contract for a wage--gets into routine
@@ -2374,7 +2374,7 @@ compelled to work hard.
 But whether slave labour be more or less productive is not so important
 as the two points mentioned above, of advantage and disadvantage. The
 disadvantages, as we have seen, are (1) that it offends our human
-[[Love|love]] of [[Honour|honour]] and independence, degrading the mass of men, and (2)
+[[motifs/love|love]] of [[concepts/honour|honour]] and independence, degrading the mass of men, and (2)
 that it is so terribly liable to abuse in the hands of cruel or stupid
 owners, or in conditions where great gangs of slaves grow up under
 one owner who can know nothing about them personally and is therefore
@@ -2382,9 +2382,9 @@ indifferent to their fate. The advantages are security and stability,
 running as a note throughout society and showing themselves especially
 in the leisure of the owning classes, with all the good fruits of
 leisure in taste, literary and artistic. It was a society based on
-[[Slavery|slavery]] which produced what is perhaps the best fruit of leisure, and
+[[concepts/slavery|slavery]] which produced what is perhaps the best fruit of leisure, and
 that is the profound and fruitful thinking out of the great human
-problems. All the great [[philosophy]] and art of the ancients was worked
+problems. All the great philosophy and art of the ancients was worked
 out by the free owners in the slave-owning states, and so was the best
 literature ever made.
 
@@ -2399,17 +2399,17 @@ of the wealth they produce, the rest going as rent and profit to the
 owners.
 
 The Capitalist State is a recent phenomenon compared with the great
-length of known recorded [[history]]. It is a modern phenomenon produced by
-our white race [[Alone|alone]], by no means covering the whole of that race, nor
-the most of it, but of great interest to us in [[England]] because we [[Alone|alone]]
+length of known recorded [[concepts/history|history]]. It is a modern phenomenon produced by
+our white race alone, by no means covering the whole of that race, nor
+the most of it, but of great interest to us in [[settings/england|England]] because we alone
 are, of all nations, an almost purely capitalist society.
 
 Here again we can tabulate the advantages and disadvantages.
 
-The chief moral advantage of [[Capitalism]] as compared with the
+The chief moral advantage of [[concepts/capitalism|Capitalism]] as compared with the
 Slave-owning State is that _every man, however poor, feels himself to
 be free and to that extent saves his honour_. He may be compelled by
-[[Poverty|poverty]] to suffer a very hard bargain; he may see himself producing
+[[concepts/poverty|poverty]] to suffer a very hard bargain; he may see himself producing
 wealth for other men, of which wealth he is only allowed to keep a
 portion for himself. To that extent he is “exploited,” as the phrase
 goes. He feels himself the victim of a certain injustice. He remains
@@ -2420,40 +2420,40 @@ nothing, in a capitalist state (this great majority is technically
 called in economic language “the proletariat”) organise, they can
 bargain, as our great Trade Unions do, with the few owners of their
 means of livelihood and of production, and be fairly certain, for some
-little [[Time|time]] ahead, of a reasonable livelihood.
+little [[motifs/time|time]] ahead, of a reasonable livelihood.
 
-Another advantage of [[Capitalism]], purely economic, is the _effectiveness
+Another advantage of [[concepts/capitalism|Capitalism]], purely economic, is the _effectiveness
 of human energy under this system, at least, in the first part of its
 development_. We spoke of this in the last section.
 
-But the disadvantages are very [[Grave|grave]] indeed.
+But the disadvantages are very [[motifs/grave|grave]] indeed.
 
-Under [[Capitalism]] the capitalist himself acts competitively and for a
+Under [[concepts/capitalism|Capitalism]] the capitalist himself acts competitively and for a
 profit. He does not, like the slave-owner, direct a regular, simple
-[[Machine|machine]] which works evenly year in and year out. He is perpetually
-struggling to rise; or [[Suffering|suffering]], through the rise of others, a fall
+[[motifs/machine|machine]] which works evenly year in and year out. He is perpetually
+struggling to rise; or [[concepts/suffering|suffering]], through the rise of others, a fall
 of fortune. He is always on the look-out to buy labour as cheaply as
 he can and then to sell the product as dearly as he can. There is thus
 a perpetual gamble going on, the owners of Capital rapidly growing
 rich and poor by turns and a general insecurity gradually poisoning
 all the owning part of society. A far worse insecurity affects the
 propertyless majority. The Proletariat--that is, the mass of the
-State--lives perpetually under the [[Fear|fear]] of falling into unemployment
+State--lives perpetually under the [[concepts/fear|fear]] of falling into unemployment
 and starvation. The lash urging the workman to his fullest effort is
 this dread of misery. At first that lash urges men to intense effort,
-but later it destroys their energy. [[Capitalism]] was marked by nothing
+but later it destroys their energy. [[concepts/capitalism|Capitalism]] was marked by nothing
 more striking when it first arose than by the immense expansion of
 wealth and population which followed it. In every district which fell
 under the capitalist system this expansion of total wealth and of total
-population could be observed; and [[England]], which has become completely
-capitalist, had in the hey-day of its [[Capitalism]]--up to the present
+population could be observed; and [[settings/england|England]], which has become completely
+capitalist, had in the hey-day of its [[concepts/capitalism|Capitalism]]--up to the present
 generation--a more rapid rate of expansion in wealth and population
 than any other ancient people. But already the tide has turned, and the
 inhumanity of such a life is beginning to breed everywhere an ill-ease
 and revolt which threaten our civilisation.
 
-The disadvantages of [[Capitalism]] are, in the long run, so great that
-now, after not more than a lifetime of complete [[Capitalism]], and that
+The disadvantages of [[concepts/capitalism|Capitalism]] are, in the long run, so great that
+now, after not more than a lifetime of complete [[concepts/capitalism|Capitalism]], and that
 in only one State--the English State--nearly everybody is profoundly
 discontented with it and many people are in violent rebellion against
 it. This grinding and increasing insecurity which attaches to the
@@ -2471,14 +2471,14 @@ suddenly coming into great wealth from below and then dropping out
 again; the whole State suffers from an increasing absence of leisure
 and an increasing turmoil.
 
-There is, then, this very [[Grave|grave]] disadvantage of insecurity everywhere,
+There is, then, this very [[motifs/grave|grave]] disadvantage of insecurity everywhere,
 and particularly for the mass of the people, who live under permanent
 conditions of insecurity; nearly all the wage-earners have had
-experience at some [[Time|time]], longer or shorter, of insufficiency through
-unemployment. [[Capitalism]] [[Leaves|leaves]] free men under a sense of acute
+experience at some [[motifs/time|time]], longer or shorter, of insufficiency through
+unemployment. [[concepts/capitalism|Capitalism]] [[motifs/leaves|leaves]] free men under a sense of acute
 grievance (which they would not feel if they were slaves, accustomed
 to a regular and fixed status in society), and, what is worse,
-[[Capitalism]] in its later stages need not provide for the livelihood of
+[[concepts/capitalism|Capitalism]] in its later stages need not provide for the livelihood of
 the mass of citizens, and, in effect, does not so provide.
 
 The magnitude of these evils is obvious. A man who is a free man, a
@@ -2488,7 +2488,7 @@ precarious amount of necessaries of life doled out as wages week
 after week; he sees his labour exploited by others and suffers from a
 sense of injustice and oppression. The wealth of the small, owning,
 class does not seem a natural adjunct to its social position, as it
-does in the slave-owning state; for there is no [[Tradition|tradition]] behind that
+does in the slave-owning state; for there is no [[concepts/tradition|tradition]] behind that
 class; it has no “status,” that is, no general respect paid to it as
 something naturally--or, at any rate, traditionally--superior to the
 rest of men. Many a modern millionaire capitalist, exploiting the
@@ -2500,44 +2500,44 @@ position of chance advantage?
 
 It is inevitable that a moral evil of this sort should make the whole
 State unstable. You cannot make of great differences in wealth between
-citizens a [[Stable|stable]] state of affairs, save by breeding respect for
-the owners of great wealth. But the more the turmoil of [[Capitalism]]
+citizens a [[settings/stable|stable]] state of affairs, save by breeding respect for
+the owners of great wealth. But the more the turmoil of [[concepts/capitalism|Capitalism]]
 increases the less respect these owners of great wealth either deserve
 or obtain: the less do they form a class, and the less do they preserve
 traditions of any kind. And yet it is under these very conditions of
-[[Capitalism]] that there is a greater disparity of wealth than ever the
+[[concepts/capitalism|Capitalism]] that there is a greater disparity of wealth than ever the
 world knew before! It is clear that society in such a condition must be
 as unstable as an explosive.
 
-So much for the first great disadvantage of [[Capitalism]], chaos. But
-the second main disadvantage--the fact that [[Capitalism]] in its later
+So much for the first great disadvantage of [[concepts/capitalism|Capitalism]], chaos. But
+the second main disadvantage--the fact that [[concepts/capitalism|Capitalism]] in its later
 stages ceases to guarantee the livelihood of the people--is a little
-less easy to understand. Indeed, most people who discuss [[Capitalism]],
+less easy to understand. Indeed, most people who discuss [[concepts/capitalism|Capitalism]],
 even when they strongly oppose it, seem unable to grasp this second
 disadvantage--so let us examine it closely.
 
-I have said that [[Capitalism]], in its later stages, _does not provide for
+I have said that [[concepts/capitalism|Capitalism]], in its later stages, _does not provide for
 the maintenance of the mass of the people_.
 
 To see how true this is, consider an extreme case.
 
 Supposing one man were to own all the means of production, and
-supposing he were to have in his possession one [[Machine|machine]] which could
+supposing he were to have in his possession one [[motifs/machine|machine]] which could
 produce in an indefinite amount all that human beings need in order to
 live. Then there would be no economic reason why this one man should
-provide wealth for anyone except himself and his [[Family|family]]. He might turn
+provide wealth for anyone except himself and his [[concepts/family|family]]. He might turn
 out enough things to support a few others whom he wanted for private
 servants or to amuse him, but there would be no reason why he should
 support the masses around him.
 
-Now it is true that we have not yet come, under [[Capitalism]], to so
-extreme a case. But the moral applies, though modified, to [[Capitalism]]
+Now it is true that we have not yet come, under [[concepts/capitalism|Capitalism]], to so
+extreme a case. But the moral applies, though modified, to [[concepts/capitalism|Capitalism]]
 in its last stages, when very few men control the means of production,
 when machinery has become very efficient, and when the great mass
 of people are dependent upon employment by the capitalist for their
 existence.
 
-Consider that it is of the essence of [[Capitalism]] to keep wages down,
+Consider that it is of the essence of [[concepts/capitalism|Capitalism]] to keep wages down,
 that is, to buy labour cheap. Therefore, the labourer who actually
 produces, say, boots cannot afford to buy a sufficient amount of
 the boots which he himself has made. The capitalist controlling the
@@ -2545,7 +2545,7 @@ boot-making machinery, when he has provided himself with a dozen pair
 of boots, and the working classes of the community with such boots as
 their wages permit them to buy, must either try to sell the extra boots
 abroad (and that outlet can’t last long) or stop making them. He has
-restricted the [[Home|home]] market by the necessity of cheap labour, and you
+restricted the [[motifs/home|home]] market by the necessity of cheap labour, and you
 have the absurd position of men making more goods than they need, and
 yet having less of those goods available for themselves than they need:
 the labourer producing, or able to produce, every year enough clothing
@@ -2553,17 +2553,17 @@ for ten years, and yet not being able to afford sufficient for one: the
 labourer producing or able to produce ten good overcoats, yet not able
 to buy one.
 
-So under [[Capitalism]] in its last stages you have the abnormal position
+So under [[concepts/capitalism|Capitalism]] in its last stages you have the abnormal position
 of millions of men ready to make the necessaries of life, of machinery
 ready to produce those necessaries, of raw material standing ready to
 be worked up by the machinery if only labourers could be put on, and
 yet all the machinery standing idle, the wealth not being produced,
 and the mass who could produce it going hungry and ill-shod and badly
-clothed. And the more [[Capitalism]] develops the more that state of things
+clothed. And the more [[concepts/capitalism|Capitalism]] develops the more that state of things
 will develop with it.
 
 Now this gradual lessening of purchasing power on the part of the
-working masses under [[Capitalism]] is _the destruction of the [[Home|home]]
+working masses under [[concepts/capitalism|Capitalism]] is _the destruction of the [[motifs/home|home]]
 market_. Low wages make great masses of English bootmakers unable
 to buy all the boots they would. Therefore the capitalist who owns
 the boot-making machinery must try to sell his surplus abroad. But
@@ -2572,26 +2572,26 @@ trouble: property being badly distributed and the wage-earners kept
 as low as possible, their power to buy foreign goods also diminishes.
 Thus you have gradual destruction of the foreign market. You get in
 the long run the full working of what we will call the “_Capitalist
-Paradox_,” which is that [[Capitalism]] is a way of producing wealth which,
+Paradox_,” which is that [[concepts/capitalism|Capitalism]] is a way of producing wealth which,
 in the long run, prevents people from obtaining the wealth produced and
 prevents the owner of the wealth from finding a market.
 
-There is no [[Doubt|doubt]] that, on the balance, the disadvantages of [[Capitalism]]
+There is no [[concepts/doubt|doubt]] that, on the balance, the disadvantages of [[concepts/capitalism|Capitalism]]
 have proved, even after its short trial, overwhelmingly greater than
 the advantages.
 
-[[Capitalism]] arose in small beginnings rather more than 250 years ago. It
-grew strong and covered the greater part of the community (in [[England]],
+[[concepts/capitalism|Capitalism]] arose in small beginnings rather more than 250 years ago. It
+grew strong and covered the greater part of the community (in [[settings/england|England]],
 at least) about 100 years ago. It came to its highest development in
-our own [[Time|time]]; and it is already doomed. People cannot bear it any
-longer. Future historians looking back upon our [[Time|time]] will be astonished
-at the immense productivity of [[Capitalism]], the enormous addition to
+our own [[motifs/time|time]]; and it is already doomed. People cannot bear it any
+longer. Future historians looking back upon our [[motifs/time|time]] will be astonished
+at the immense productivity of [[concepts/capitalism|Capitalism]], the enormous addition to
 wealth which it made, and to population, in its early phases; but
 perhaps they will be still more astonished at the pace at which it
-ran down at its end. Urged by the extreme human [[Suffering|suffering]], moral and
-material, which [[Capitalism|capitalism]] now produces, remedies have been proposed,
-the chief of which is generally called [[Socialism]], or, in its fully
-developed form, [[Communism]].
+ran down at its end. Urged by the extreme human [[concepts/suffering|suffering]], moral and
+material, which [[concepts/capitalism|capitalism]] now produces, remedies have been proposed,
+the chief of which is generally called [[concepts/socialism|Socialism]], or, in its fully
+developed form, [[concepts/communism|Communism]].
 
 But before we talk of this supposed remedy, which has never been put
 into practice (it is an imaginary state of things) we must describe the
@@ -2601,7 +2601,7 @@ THE DISTRIBUTIVE STATE
 
 A state of society in which the families composing it are, in a
 determining number, owners of the land and the means of production
-as [[Well|well]] as themselves the human agents of production (that is, the
+as [[motifs/well|well]] as themselves the human agents of production (that is, the
 people who by their human energy produce wealth with those means of
 production), is probably the oldest, and certainly the most commonly
 found of all states of society. It is a state of society which you
@@ -2609,7 +2609,7 @@ get all through the East, all through Asia, and in all the primitive
 states we know. It is the state to which men try to return, as a rule,
 after they have blundered into any other, though the first state we
 described--the Servile State--runs it very close as a thing suitable
-to human [[Nature|nature]]; for we know that the Servile State did also last for
+to human [[concepts/nature|nature]]; for we know that the Servile State did also last for
 centuries quite normally and stably in the Pagan past.
 
 The reason men commonly adopt the Distributive form of society, and
@@ -2618,7 +2618,7 @@ seem greater in most men’s eyes than its disadvantages.
 
 The advantages are these:--
 
-It gives [[Freedom|freedom]]: that is, the exercise of one’s will. A [[Family|family]]
+It gives [[concepts/freedom|freedom]]: that is, the exercise of one’s will. A [[concepts/family|family]]
 possessed of the means of production--the simplest form of which is
 the possession of land and of the implements and capital for working
 the land--cannot be controlled by others. Of course, various producers
@@ -2629,8 +2629,8 @@ another. He can say: “If you will not take my surplus as against your
 surplus I shall be the poorer; but at least I can live.”
 
 Societies of this kind are not only free, but also, what goes with
-[[Freedom|freedom]], elastic--that is, they mould themselves easily to changed
-conditions. The individual, or the [[Family|family]], controlling his or its own
+[[concepts/freedom|freedom]], elastic--that is, they mould themselves easily to changed
+conditions. The individual, or the [[concepts/family|family]], controlling his or its own
 means of production, can choose what he will do best, and can exercise
 his faculties, if he has sufficient knowledge, to the best advantage.
 
@@ -2642,36 +2642,36 @@ of difficulty. For instance, they will probably have each a reserve
 of food to carry them over a bad harvest or some natural disaster.
 Further, it is found in practice that societies of this kind continue
 for centuries without much change. They go on for generations with a
-property [[Well|well]] divided among them and everybody free, so far as economic
+property [[motifs/well|well]] divided among them and everybody free, so far as economic
 situation is concerned. No such society has ever been destroyed except
 by some great shock; and so long as every shock can be warded off,
 this system of having the land and the means of production controlled
 by the mass of the citizens as private owners is enduring. There are
-districts of [[Europe]] to-day where the system has continued from beyond
-the [[Memory|memory]] of man. Such a little state as Andorra is an example,
+districts of [[settings/europe|Europe]] to-day where the system has continued from beyond
+the [[motifs/memory|memory]] of man. Such a little state as Andorra is an example,
 and many of the Swiss valleys. Further, when the system has been
 laboriously reconstructed, when the mass of families who used to be
 dispossessed have been again put into possession of land and the means
-of production, we find that the state arrived at is [[Stable|stable]].
+of production, we find that the state arrived at is [[settings/stable|stable]].
 
 The best example of that sort of reconstruction to-day is to be found
-in [[Denmark]], but you have it also in a less marked fashion in most
-parts of [[France]] and in most of the Valley of the Rhine, in Belgium and
+in [[settings/denmark|Denmark]], but you have it also in a less marked fashion in most
+parts of [[settings/france|France]] and in most of the Valley of the Rhine, in Belgium and
 Holland, in Norway, and in many other places. Wherever it has been
 settled it has taken root firmly.
 
 The disadvantages of such a system are, first, that though in practice
-it is found usually [[Stable|stable]], yet in theory it is not necessarily [[Stable|stable]],
+it is found usually [[settings/stable|stable]], yet in theory it is not necessarily [[settings/stable|stable]],
 and in practice also there are some communities the social character of
 which is such that the system cannot be established permanently.
 
-It is obvious that, with land and the means of production [[Well|well]]
+It is obvious that, with land and the means of production [[motifs/well|well]]
 distributed among the various families, a few may by luck or special
 perseverance and cunning, tend to buy up the land and implements of
 their less fortunate neighbours, and nothing will prevent this but a
 set of laws backed up by strong public opinion. In other words, people
-must [[Desire|desire]] this state of society, and [[Desire|desire]] it strongly in order to
-maintain it; and if the [[Desire|desire]] for ownership and [[Freedom|freedom]] is weak this
+must [[motifs/desire|desire]] this state of society, and [[motifs/desire|desire]] it strongly in order to
+maintain it; and if the [[motifs/desire|desire]] for ownership and [[concepts/freedom|freedom]] is weak this
 distributive arrangement will not last.
 
 In the absence of special laws, and a public opinion to back them,
@@ -2680,7 +2680,7 @@ gradually lose their ownership to the more industrious or the more
 cunning or more fortunate.
 
 Another disadvantage which has often been pointed out is that a state
-of society of this sort, though usually [[Stable|stable]] and enduring, falls
+of society of this sort, though usually [[settings/stable|stable]] and enduring, falls
 into a routine (that is, into a traditional way of doing things),
 which it is very difficult to change. The small owner will not have
 the same opportunities for travel and for wide experience as the rich
@@ -2691,12 +2691,12 @@ from predatory neighbours and goes under in war. For a society of this
 kind is unfitted to the discovery of new things. Contented men feel no
 special spur to discover or to act on such discovery. That is why we
 find societies in which land and all the other means of production are
-[[Well|well]] distributed among the greater part of the families of the State
+[[motifs/well|well]] distributed among the greater part of the families of the State
 becoming too conservative--that is, unwilling to change even for their
 own advantage.
 
 This, of course, is not universally true. For instance: no society in
-[[Europe]] has made more progress in agriculture than the Danish society
+[[settings/europe|Europe]] has made more progress in agriculture than the Danish society
 of small owners. But, take the world all over, this kind of state is
 usually backward, that is, slow to take up improvements in production
 and to avail itself of new discoveries in physical science.
@@ -2707,11 +2707,11 @@ State, and that is _the difficulty of getting a very large number of
 small owners to put their money together for any great purpose_. The
 small owner will probably have less opportunities for instruction and
 judgment than the few directing rich men of a Capitalist or Servile
-State, and even if he is, on the average, as [[Well|well]] educated as these
+State, and even if he is, on the average, as [[motifs/well|well]] educated as these
 rich men in neighbouring states, it will be more difficult to get a
 great number of small owners to act together than to persuade a few
 large owners to act together. Therefore highly Capitalist States, such
-as [[England]], will be found more enterprising than less Capitalist States
+as [[settings/england|England]], will be found more enterprising than less Capitalist States
 in their investments and commerce. They will open up new countries
 more rapidly, and will get possession of the best markets.
 
@@ -2719,7 +2719,7 @@ Lastly, this disadvantage attaches to the Distributive State--that it
 is not so easy in it to collect great funds for war or for national
 defence, or for any other purpose, as it is in a Capitalist or Servile
 State. You cannot tax a Distributive State as highly as you can tax a
-Capitalist State. The reason is obvious enough. A [[Family|family]] with, say,
+Capitalist State. The reason is obvious enough. A [[concepts/family|family]] with, say,
 £400 a year finds it terribly difficult--almost impossible--to pay out
 £100 a year in taxation. They live on a certain modest scale to which
 all their lives are fitted, and which does not leave very much margin
@@ -2738,7 +2738,7 @@ them have £300,000,000 a year, can easily be taxed a quarter of their
 whole wealth; for a rich man always has a much larger margin, the loss
 of which he does not really feel.
 
-By a very curious [[Paradox|paradox]], which it would take much too long to go
+By a very curious [[concepts/paradox|paradox]], which it would take much too long to go
 into in detail, but which it is amusing to notice, this power of
 taxing a very highly capitalist community is one of the things which
 is beginning to handicap our Capitalist societies to-day against the
@@ -2754,54 +2754,54 @@ the State weakens it.
 The money raised by taxation is spent on State servants--many of them
 inefficient and idle.
 
-Since it is so easy to raise large sums, there is a [[Temptation|temptation]] to
+Since it is so easy to raise large sums, there is a [[concepts/temptation|temptation]] to
 indulge in all sorts of expensive State schemes, many of which come to
 nothing. And this power of easy taxation, which was a strength, becomes
 a weakness.
 
-No one suspected this until taxation [[Rose|rose]] to its present height, but
-now it is clearly apparent; and we in [[England]] might perhaps be in
+No one suspected this until taxation [[motifs/rose|rose]] to its present height, but
+now it is clearly apparent; and we in [[settings/england|England]] might perhaps be in
 a better way later on if there had been as much resistance to high
 taxation here as there has been in countries where property is better
 distributed.
 
-[[Socialism|SOCIALISM]]
+[[concepts/socialism|SOCIALISM]]
 
 It remains to deal with a certain remedy which some people have
-imagined would get rid of all the disadvantages of [[Capitalism]] once and
-for all. This remedy is called [[Socialism]], and [[Socialism]], as we shall
-see in a moment, must mean ultimately [[Communism]].
+imagined would get rid of all the disadvantages of [[concepts/capitalism|Capitalism]] once and
+for all. This remedy is called [[concepts/socialism|Socialism]], and [[concepts/socialism|Socialism]], as we shall
+see in a moment, must mean ultimately [[concepts/communism|Communism]].
 
 No one has ever succeeded in putting this remedy for the evils of
-[[Capitalism]] into practice, and (though the matter is still very much
+[[concepts/capitalism|Capitalism]] into practice, and (though the matter is still very much
 disputed) it looks more and more as though no one would ever be able to
 put it into practice.
 
-We have seen what the evils of [[Capitalism]] were and how they have
+We have seen what the evils of [[concepts/capitalism|Capitalism]] were and how they have
 exasperated nearly everyone who has become subject to a capitalist
 state of society. There is the increasing insecurity which everybody
-feels--all the Proletariat and many of the Capitalists as [[Well|well]]--whilst
-there is the necessary tendency of [[Capitalism]] to leave a larger and
+feels--all the Proletariat and many of the Capitalists as [[motifs/well|well]]--whilst
+there is the necessary tendency of [[concepts/capitalism|Capitalism]] to leave a larger and
 larger proportion of people unproductive, not making the wealth which
 is necessary for their support, and therefore either kept in idleness
 by Doles out of the wealth which is still produced (a process which
-cannot go on for ever) or starving. Pretty [[Well|well]] everyone wants to get
+cannot go on for ever) or starving. Pretty [[motifs/well|well]] everyone wants to get
 rid of these evils and to get out of the Capitalist system, and this
-idea of [[Socialism]] which we are going to examine seemed, when it was
+idea of [[concepts/socialism|Socialism]] which we are going to examine seemed, when it was
 first put forward, an easy and obvious shortcut out of the Capitalist
-muddle. When we have looked into it, we shall see how and why [[Socialism]]
+muddle. When we have looked into it, we shall see how and why [[concepts/socialism|Socialism]]
 does not, in practice, turn out to be a shortcut at all, but a blind
 alley.
 
 *       *       *       *       *
 
 Ever since men began to live in societies and to leave records, you
-will find the poorer people, when their [[Poverty|poverty]] became intolerable,
+will find the poorer people, when their [[concepts/poverty|poverty]] became intolerable,
 clamouring for a division of the wealth which the more fortunate enjoy.
 
 That is the main, obvious remedy to inequality of wealth; to divide it
-up again. But such a scheme has nothing to do with [[Socialism]], and must
-not be mistaken for [[Socialism]].
+up again. But such a scheme has nothing to do with [[concepts/socialism|Socialism]], and must
+not be mistaken for [[concepts/socialism|Socialism]].
 
 The Socialist theory was invented, or at any rate was first put
 clearly, by a man of genius, Louis Blanc, who was Scotch on his
@@ -2810,31 +2810,31 @@ hundred years ago and the scheme which he and those around him started
 was this:--
 
 The Officers of the State were to own all the Means of
-Production--machinery and land and stores of food, etc.--and they [[Alone|alone]]
+Production--machinery and land and stores of food, etc.--and they alone
 should be allowed to own it. Individuals and families and corporations
 might consume that portion of produced wealth allotted them by the
 State after it had been produced, _but they might not use it for making
 future wealth_. ANY WEALTH USED FOR THE MAKING OF FUTURE WEALTH, THAT
 IS, CAPITAL IN ANY FORM, WAS TO BE HANDED OVER TO THE OFFICERS OF THE
 STATE; AND ALL LAND AND NATURAL FORCES WERE TO BE OWNED FOR EVER BY THE
-STATE. That scheme is [[Socialism]], and from that principle all Socialist
+STATE. That scheme is [[concepts/socialism|Socialism]], and from that principle all Socialist
 ideas flow.
 
 In this way, it was claimed, there would be no division of society
 into Capitalists and Proletarians, no chaos of competition with its
 alternating riches and ruin; insecurity would be done away with, and
-insufficiency as [[Well|well]]. Everyone in the country would be a worker, the
+insufficiency as [[motifs/well|well]]. Everyone in the country would be a worker, the
 State itself would be the Universal Capitalist. So there would be no
 struggle of capitalists going up and down one against the other, and no
 unemployment or lack of necessaries for anyone.
 
-Among the energetic and keen set of men who surrounded Blanc in [[Paris]]
+Among the energetic and keen set of men who surrounded Blanc in [[settings/paris|Paris]]
 was a certain Mordecai, who wrote under the name his father had
 assumed, that of “Marx.” He wrote (in German) a very long and detailed
-book describing the whole scheme, as [[Well|well]] as describing the evils of
-[[Capitalism]], and showing how this scheme would remedy those evils. His
+book describing the whole scheme, as [[motifs/well|well]] as describing the evils of
+[[concepts/capitalism|Capitalism]], and showing how this scheme would remedy those evils. His
 book was pushed forward by the people who were converted to the idea,
-and that is why the theory of [[Socialism]] is now often called “Marxism.”
+and that is why the theory of [[concepts/socialism|Socialism]] is now often called “Marxism.”
 
 For instance: the coal-mines and all the machinery of the coal-mines
 and the houses in which the miners live and the stores of food and
@@ -2854,29 +2854,29 @@ officers of the State would share out the wealth produced, so that it
 would be consumed by all the citizens, and there would be an end to the
 exploitation of one man by another and to the uncertainty of living.
 
-[[Communism]] is simply that form of [[Socialism]] in which all that is thus
+[[concepts/communism|Communism]] is simply that form of [[concepts/socialism|Socialism]] in which all that is thus
 shared out by the State would be shared equally, the State giving every
-[[Family|family]] an equal share in proportion to the numbers of people which had
-to be supported in the [[Family|family]], from one upwards.
+[[concepts/family|family]] an equal share in proportion to the numbers of people which had
+to be supported in the [[concepts/family|family]], from one upwards.
 
-The reason I have called [[Communism]] the logical and only possible
-ultimate form of [[Socialism]] is that there could be under [[Socialism]] no
+The reason I have called [[concepts/communism|Communism]] the logical and only possible
+ultimate form of [[concepts/socialism|Socialism]] is that there could be under [[concepts/socialism|Socialism]] no
 reason for any other form of distribution.
 
-Some [[Time|time]] ago certain Socialists used to try to get out of this
-necessity for [[Communism]], so as not to frighten rich people with their
-proposals for [[Reform|reform]]. They would say to a man who was making, say,
+Some [[motifs/time|time]] ago certain Socialists used to try to get out of this
+necessity for [[concepts/communism|Communism]], so as not to frighten rich people with their
+proposals for [[concepts/reform|reform]]. They would say to a man who was making, say,
 £5,000 a year because he owned a lot of capital and land and had rents
 and profits coming to him from the work of his labourers: “You will
-have just as much under [[Socialism]], for we recognise what a superior
+have just as much under [[concepts/socialism|Socialism]], for we recognise what a superior
 kind of person you are, and when the State shares out its wealth among
 its citizens it will give you as much as you have now, leaving the
 same difference between rich and poor, only seeing to it that the poor
 always at least have enough to live on. Where we give one ticket to the
 labourer to claim out of the common stores what he wants for a week we
 will give you fifty tickets, so that you will get fifty times as much
-if you like.” But of course this was [[Nonsense|nonsense]], and was soon discovered
-to be [[Nonsense|nonsense]]. With everybody working for the State under orders all
+if you like.” But of course this was [[concepts/nonsense|nonsense]], and was soon discovered
+to be [[concepts/nonsense|nonsense]]. With everybody working for the State under orders all
 would naturally claim equality, and there would be no way of preventing
 their getting an equal share except force. In justice, supposing a
 Socialist state to arise, there could be only the Communist form of it.
@@ -2894,7 +2894,7 @@ in the interest of all, next of distributing the resultant wealth
 equally to all.
 
 Now there are two qualities in man which make action of this sort
-break down. The first is that men [[Love|love]] independence--they like to feel
+break down. The first is that men [[motifs/love|love]] independence--they like to feel
 themselves their own masters. They like therefore to own, so that
 they may do what they like with material things. The next is that men
 like to get as much as possible of good things. Both these feelings
@@ -2909,7 +2909,7 @@ order to devote themselves to religion or to some form of study and
 contemplation, will give up all property and have the material side of
 their lives administered for them. But men and women in general will
 both want to get all they can of good things with the least possible
-exertion in the getting of them, and they will also [[Desire|desire]] [[Freedom|freedom]] to
+exertion in the getting of them, and they will also [[motifs/desire|desire]] [[concepts/freedom|freedom]] to
 exercise their own wills and deal with material objects as they choose.
 
 Now the Socialist scheme requires both these very strong emotions,
@@ -2924,16 +2924,16 @@ living the life of intrigue necessary to get it) would suddenly turn
 into unselfish and devoted beings of this ideal kind. You cannot give
 this enormous power to men without their abusing it.
 
-The second force making against the establishment of [[Socialism]] is still
+The second force making against the establishment of [[concepts/socialism|Socialism]] is still
 stronger. You will never get the run of men and women contented to
 live their whole lives entirely under orders. In exceptional moments a
-large part of individual [[Freedom|freedom]] will be given up to the necessity of
+large part of individual [[concepts/freedom|freedom]] will be given up to the necessity of
 the State--as during the Great War; for if the State did not survive
 the individual’s life and that of his children would not be worth
 living. The individual in abnormal crises goes through a great deal
-of [[Suffering|suffering]] for a moment in order that he and his should have less
-[[Pain|pain]] in the long run. But even in such crises a large part of [[Liberty|liberty]]
-remains to him. Under [[Socialism]] he would have none. He would have
+of [[concepts/suffering|suffering]] for a moment in order that he and his should have less
+[[motifs/pain|pain]] in the long run. But even in such crises a large part of [[concepts/liberty|liberty]]
+remains to him. Under [[concepts/socialism|Socialism]] he would have none. He would have
 to do what he was told by his task-masters, much more than even the
 poorest labourers now have to do what they are told by task-masters.
 And there would also be this difference: that everyone would be in
@@ -2941,10 +2941,10 @@ that situation and there would be no way out. Not a part of life, nor
 so many hours a day, but the whole of life, would be subject to orders
 given by others. This, humanity would certainly find intolerable.
 
-That is why, I think, [[Socialism]] has never been put into practice
+That is why, I think, [[concepts/socialism|Socialism]] has never been put into practice
 and never can be put into practice. There have been attempts at it,
 but even when they are sincere and not the mere product of alien
-despotism they break down. As in [[Russia]] to-day, where, whether the Jew
+despotism they break down. As in [[settings/russia|Russia]] to-day, where, whether the Jew
 adventurers who seized power were sincere or mere tyrants, they have,
 in spite of their attempt at seizing all the soil and keeping the
 peasants dependent on them, been compelled at last to let nearly all
@@ -2952,9 +2952,9 @@ the nation live as owners tilling their own land.
 
 It is no reply to this to say that the State always has owned, and
 actually can and does own, some part of the means of Production (such
-as the Post Office and certain forests and lands here in [[England]], and,
+as the Post Office and certain forests and lands here in [[settings/england|England]], and,
 abroad, most mountain land, all mines and much else) and direct them
-with [[success]]. The point of [[Socialism]]--the one condition necessary
+with success. The point of [[concepts/socialism|Socialism]]--the one condition necessary
 to its existence--is that the State should own all the means of
 Production that really count. Between the normal exercise of a partial
 function and the abnormal exercise of a universal function is all
@@ -2962,11 +2962,11 @@ the difference between plus and minus. A partial State ownership
 working in a society the determining character of which is private
 ownership is an utterly different thing, even an opposite thing
 to general State ownership determining the character of Society and
-allowing only exceptional private ownership. [[Socialism]] can only be
-(a) good (b) possible when men [[Desire|desire]], and are at ease in, the
-latter kind of state; that is, [[Desire|desire]] and are at ease in complete
-forgetfulness of [[Self|self]] coupled with justice as men ruling, and complete
-surrender of personal [[Honour|honour]] and [[Freedom|freedom]] and appetite as men ruled.
+allowing only exceptional private ownership. [[concepts/socialism|Socialism]] can only be
+(a) good (b) possible when men [[motifs/desire|desire]], and are at ease in, the
+latter kind of state; that is, [[motifs/desire|desire]] and are at ease in complete
+forgetfulness of [[concepts/self|self]] coupled with justice as men ruling, and complete
+surrender of personal [[concepts/honour|honour]] and [[concepts/freedom|freedom]] and appetite as men ruled.
 
 INTERNATIONAL EXCHANGE
 
@@ -2975,14 +2975,14 @@ exchanges which go on within a nation. The foreigner who has some
 product of his own to exchange against a product of ours deals as
 a private man with other private men, and if you could see all the
 exchanges of the world going on you would not distinguish between the
-character of an exchange, say, between Devonshire and [[London]] and one
-between [[London]] and the Argentine. The Devonshire man grows wheat, which
-he sells perhaps in a [[London]] market, and buys manufactured products
-which a merchant in [[London]] provides. The farmer in the Argentine
+character of an exchange, say, between Devonshire and [[settings/london|London]] and one
+between [[settings/london|London]] and the Argentine. The Devonshire man grows wheat, which
+he sells perhaps in a [[settings/london|London]] market, and buys manufactured products
+which a merchant in [[settings/london|London]] provides. The farmer in the Argentine
 does much the same thing, sells wheat and receives in exchange what
 manufactures he needs, precisely as though he were living in Devonshire
-instead of abroad. He does not trade with “[[England]],” but with a
-particular merchant or company in [[England]].
+instead of abroad. He does not trade with “[[settings/england|England]],” but with a
+particular merchant or company in [[settings/england|England]].
 
 But there are certain points about international trade which one must
 get clear unless one is to make mistakes in the political problems
@@ -2991,14 +2991,14 @@ arising out of it.
 In the first place, international trade is always subject to a certain
 interference which domestic trade does not suffer. All countries have
 a tariff, that is a set of taxes upon a great number of the articles
-coming in from abroad. Even those countries which, as [[England]] did until
+coming in from abroad. Even those countries which, as [[settings/england|England]] did until
 quite lately, believe in leaving their citizens on equal terms with
 foreign competitors and have gone in for complete free trade, examine
 all goods at the port of entry or at special points on the frontier,
 both in order to raise revenue and to keep out undesirable goods, such
 as certain drugs; nor does any country allow all things to come in
 unexamined, lest forbidden things should come in unobserved. Moreover,
-it is important to measure the [[Nature|nature]] and volume of a nation’s foreign
+it is important to measure the [[concepts/nature|nature]] and volume of a nation’s foreign
 trade, and this cannot be done without stopping things at the ports or
 frontiers and examining them.
 
@@ -3058,14 +3058,14 @@ are called “visible” imports and exports. Many of them may be, and
 some always are, “invisible.” The most obvious example of these are
 “freights,” that is, sums paid for the carriage of goods between one
 country and another. Thus, in the old days before the war you would
-find [[England]] importing more than she exported, and one of the principal
+find [[settings/england|England]] importing more than she exported, and one of the principal
 reasons for the difference was that the imports were mostly brought
 in English ships. Thus if a man in the Argentine were sending 50 tons
-of wheat to [[England]] worth £500, [[England]], after a long chain of trade
+of wheat to [[settings/england|England]] worth £500, [[settings/england|England]], after a long chain of trade
 with many countries, including the Argentine, would be exporting
 values against this £500 worth of wheat, which would be worth, say,
 not £500, but only £450. The difference of £50 was made up by the cost
-of bringing the wheat from the Argentine to [[England]] _in an English
+of bringing the wheat from the Argentine to [[settings/england|England]] _in an English
 ship_. In other words, £50 worth of the total £500 worth of wheat stood
 for the sum which the man in the Argentine had to pay to the English
 sailors to bring his wheat over the sea.
@@ -3073,24 +3073,24 @@ sailors to bring his wheat over the sea.
 Further, a wealthy or strong country very often levied tribute upon a
 poorer or weaker one, and this tribute might take several forms. There
 was the tribute of interest upon loans. If English bankers had lent
-to people in [[Egypt]] a million pounds with interest at forty thousand
-pounds a year Egyptian production would have to export to [[England]],
+to people in [[settings/egypt|Egypt]] a million pounds with interest at forty thousand
+pounds a year Egyptian production would have to export to [[settings/england|England]],
 either directly or roundabout through the chain of trade, forty
-thousand pounds’ worth of goods, against which [[England]] had not to send
+thousand pounds’ worth of goods, against which [[settings/england|England]] had not to send
 out anything.
 
 Another form of tribute--though a small one--is that paid in pensions.
 A man having worked all his life in the Civil Service in India (for
 instance) would retire upon a yearly pension of a thousand pounds a
 year; but this pension was levied upon the taxpayers of India, and if
-the man came to live in [[England]] and spent his pension there--as nearly
+the man came to live in [[settings/england|England]] and spent his pension there--as nearly
 all of them did--it meant that India had to export a thousand pounds’
-worth of goods every year to [[England]], against which [[England]] sent
+worth of goods every year to [[settings/england|England]], against which [[settings/england|England]] sent
 nothing back.
 
 In the same way the shareholder in some works or firms situated in a
-foreign country would, if he lived in [[England]], cause an import to come
-in equivalent to his dividends or profits, and against that [[England]]
+foreign country would, if he lived in [[settings/england|England]], cause an import to come
+in equivalent to his dividends or profits, and against that [[settings/england|England]]
 would send out nothing.
 
 But the point to remember is, that the mere volume of trade (that
@@ -3105,15 +3105,15 @@ or all, its needs. Again, of international trade (and it is exceedingly
 important to remember this, because most people go wrong on it)
 nothing increases the wealth of a country except the imports.
 
-It ought to be quite clear, especially in the case of an [[Island|island]] like
+It ought to be quite clear, especially in the case of an [[settings/island|island]] like
 Great Britain, that it loses what it sends out and gains what
 it brings in. Yet people get muddled about even this very simple
 proposition, because the individual trader thinks of his transactions
-as an individual sale. He does not consider the [[Nature|nature]] of trade as a
+as an individual sale. He does not consider the [[concepts/nature|nature]] of trade as a
 whole. The individual trader, for instance, who makes locomotives and
 exports them, gets paid, let us say, £10,000 for each locomotive. In
 point of fact this means that in the long run he or someone else in
-[[England]] will exercise £10,000 worth of demand for foreign goods. But
+[[settings/england|England]] will exercise £10,000 worth of demand for foreign goods. But
 the individual trader does not usually think of that; he thinks only of
 his own transactions, and he would be very much surprised if he were
 told that his sending the locomotive abroad was, _regarded in itself,
@@ -3129,14 +3129,14 @@ more than it imports is paying tribute to foreigners abroad, while
 every country which regularly imports more than it exports is receiving
 tribute.
 
-Of course, if you consider only a short period of [[Time|time]], the falling off
+Of course, if you consider only a short period of [[motifs/time|time]], the falling off
 of exports may be a bad sign; for it may mean that the corresponding
 imports will not be gathered. If in this country we saw our exports
 regularly falling year by year we should be right to take alarm, for
 this would almost certainly mean that a corresponding falling off in
 imports would sooner or later take place also, and that therefore our
 total wealth would be diminished. But considered over a sufficient
-space of [[Time|time]], it is obvious that the excess of imports over exports
+space of [[motifs/time|time]], it is obvious that the excess of imports over exports
 is a gain and that the excess of exports over imports is a loss.
 
 One last thing to remember about international trade is that the very
@@ -3144,11 +3144,11 @@ different importance of foreign trade to different countries makes the
 foreign politics of nations differ equally. A country which can supply
 itself with all it needs is free to risk its foreign trade for some
 other issue. A country importing its necessities cannot risk the loss
-of such trade, for it is a matter of life and [[Death|death]]. The United States
+of such trade, for it is a matter of life and [[motifs/death|death]]. The United States
 is in the first position. It has within its own boundaries not only all
 the minerals it needs, but also all the petrol and all the raw material
 for making cloth, and all the leather for boots, and all the rest
-of it. But a country like [[England]] is in quite a different position.
+of it. But a country like [[settings/england|England]] is in quite a different position.
 We only grow half the meat we need and about one-fifth of the corn.
 Therefore it is absolutely necessary for us to have a foreign trade.
 If all the foreign trade of the United States were to be destroyed
@@ -3162,23 +3162,23 @@ Britain is that which is most vitally interested in maintaining a great
 foreign trade, and next after Great Britain Belgium is similarly
 interested, for Belgium also needs to import four-fifths of its
 bread-stuffs. Almost every country except the United States must have
-some foreign trade if it is to live normally. For instance: [[France]],
-though largely a [[Self|self]]-sufficing country, has no petrol. It has to buy
+some foreign trade if it is to live normally. For instance: [[settings/france|France]],
+though largely a [[concepts/self|self]]-sufficing country, has no petrol. It has to buy
 its petrol abroad and must export goods to pay for that import. Nor has
 it quite enough coal for its needs, and, before the war, it had not
-nearly enough iron. [[Italy]] has no coal, no petrol and no iron to speak
-of--not nearly enough for its needs. And so it is with pretty [[Well|well]]
-every nation in [[Europe]]. But of all nations our own and Belgium--our own
+nearly enough iron. [[settings/italy|Italy]] has no coal, no petrol and no iron to speak
+of--not nearly enough for its needs. And so it is with pretty [[motifs/well|well]]
+every nation in [[settings/europe|Europe]]. But of all nations our own and Belgium--our own
 particularly--are in the most need of maintaining a large foreign trade.
 
-This affects all our policy, it is the root of both the [[Greatness|greatness]] and
-peril of [[England]]. It also tends to make English people judge the wealth
+This affects all our policy, it is the root of both the [[concepts/greatness|greatness]] and
+peril of [[settings/england|England]]. It also tends to make English people judge the wealth
 of foreigners by the volume of their trade, and that is a great error.
 
 FREE TRADE AND PROTECTION AS POLITICAL ISSUES
 
-In this matter of international trade there [[Rose|rose]] up, about a hundred
-years ago, a great political discussion in [[England]] between what was
+In this matter of international trade there [[motifs/rose|rose]] up, about a hundred
+years ago, a great political discussion in [[settings/england|England]] between what was
 called Free Trade and what was called Protection.
 
 This discussion is still going on and affecting the life of the
@@ -3189,9 +3189,9 @@ Economy to actual conditions.
 I dealt with this subject briefly in the first part of this book under
 “Elementary Principles,” but I return to it here in more detail because
 it has given rise, in political application, to the most important
-economic discussion in modern [[England]].
+economic discussion in modern [[settings/england|England]].
 
-The Free Traders were those who said that [[England]] would be wealthier,
+The Free Traders were those who said that [[settings/england|England]] would be wealthier,
 as a whole, if there were no restriction upon exchange at all, whether
 internal or external. A man having something to exchange with his
 English neighbour was, of course, free to exchange it without any
@@ -3207,7 +3207,7 @@ nor restricted by special import duties at the ports.
 wealth for the whole country.”
 
 The Protectionists, on the other hand, said: “Here are a lot of people
-engaged on a particular form of production in [[England]]. Those who have
+engaged on a particular form of production in [[settings/england|England]]. Those who have
 their capital in it are making profits, those who own the land on which
 the capital is invested are getting rents, and the working people are
 getting wages. The foreigner, having special advantages for this kind
@@ -3220,25 +3220,25 @@ in producing this particular thing--that is, who have got implements
 together and buildings, and the rest, suitable for producing this
 thing--will be ruined. It will not be worth their while to go on, for
 no one will buy their goods. Their profits will be extinguished, and
-their capital will [[Decay|decay]] to nothing. The rents on the land they occupy
+their capital will [[motifs/decay|decay]] to nothing. The rents on the land they occupy
 will also disappear, and, what is worst of all, the large population
 which live on wages produced by this kind of work will starve or have
 to be supported, idle, by other people. Their power of producing wealth
-will be lost to [[England]]. Therefore, let us tax this cheap foreign
-import so that our production at [[Home|home]] shall be protected. Let us
+will be lost to [[settings/england|England]]. Therefore, let us tax this cheap foreign
+import so that our production at [[motifs/home|home]] shall be protected. Let us
 tax the foreign goods as they come in, so that the cost of producing
 abroad, with this tax added, comes to at least as much as the cost of
-producing the same stuff at [[Home|home]]. In this way it will still be worth
-while for our people at [[Home|home]] to go on producing this kind of thing. The
-Englishman at [[Home|home]] will be just as ready to buy his fellow-citizen’s
+producing the same stuff at [[motifs/home|home]]. In this way it will still be worth
+while for our people at [[motifs/home|home]] to go on producing this kind of thing. The
+Englishman at [[motifs/home|home]] will be just as ready to buy his fellow-citizen’s
 produce as the foreigner’s, for the price of each will be the same.”
 
 The Protectionist even said: “Let us make this tariff so high that the
 foreign goods are sold at a disadvantage--that is, let the tax on the
 foreign goods be such that, added to the cost of production abroad,
-they cannot be sold in [[England]] save at a higher price than the
+they cannot be sold in [[settings/england|England]] save at a higher price than the
 English goods. In this way only the English goods will be bought here
-and the [[Home|home]] industry will flourish as it did before.”
+and the [[motifs/home|home]] industry will flourish as it did before.”
 
 Such were the two political theories, standing one against the other.
 
@@ -3251,13 +3251,13 @@ of production.
 
 And we have also had fixed the principle that _freedom of exchange
 tends to produce a maximum of wealth within the area to which it
-applies_, and that interference with [[Freedom|freedom]] of exchange tends to
+applies_, and that interference with [[concepts/freedom|freedom]] of exchange tends to
 reduce the total possible wealth of that area. This is so obvious that
 all the great modern nations are careful to let exchange be as free as
 possible within their own boundaries.
 
 Goods can be freely exchanged without interference all over the United
-States and all over Great Britain and all over [[France]], etc., because if
+States and all over Great Britain and all over [[settings/france|France]], etc., because if
 you were to set up tolls and interferences with exchange within the
 country the total wealth of the country would necessarily be diminished.
 
@@ -3269,7 +3269,7 @@ we are benefiting the existing trade which is threatened by foreign
 competition. For it means that we are producing something with
 difficulty which we could get with much less work if we turned our
 attention to things which we can produce with ease. Or, again, it means
-that with the same amount of work devoted to things we make [[Well|well]] and
+that with the same amount of work devoted to things we make [[motifs/well|well]] and
 exchange against the foreigner’s goods we shall get much more of the
 things which the foreigner can make more easily than we can.”
 
@@ -3286,7 +3286,7 @@ who need much less labour and capital to ripen them than we do in
 our artificial way in hot-houses, and who can therefore send us wine
 at 10s. a gallon. Then we can get for each £1 worth of labour and
 capital twice as much wine as we got before. Instead of wasting our
-[[Time|time]] artificially growing grapes in hot-houses to make our wine, let
+[[motifs/time|time]] artificially growing grapes in hot-houses to make our wine, let
 the people who used to work in the hot-houses become coal-miners,
 so that more coal may be produced and this extra coal exchanged for
 foreign wine. A pound’s worth of labour and capital in coal will get
@@ -3301,17 +3301,17 @@ In the particular case of the English dispute about Free Trade and
 Protection not wine but a much more important thing was concerned,
 namely food; and that was what gave the political discussion its
 practical value and made it so violent. It is also because food was in
-question that the Free Traders won, and that [[England]] was, for a whole
+question that the Free Traders won, and that [[settings/england|England]] was, for a whole
 lifetime, up to the Great War, a Free Trade country--that is, a country
 allowing all foreign produce to come in and compete on equal terms with
-[[Home|home]] produce.
+[[motifs/home|home]] produce.
 
 This country, at the beginning of the discussion a hundred years ago,
 was already producing great quantities of manufactured goods: cloth
 and machinery, ships and so on. It also produced on its fields the
 wheat and meat and dairy produce with which it fed itself. But as the
 population increased the amount of food being produced on the soil of
-[[England]], though getting larger in the total, got smaller in proportion
+[[settings/england|England]], though getting larger in the total, got smaller in proportion
 to the rapidly increasing population. Therefore there was a danger of
 its getting dearer. The Free Traders said: “Let foreign food come in
 free. If it is produced in climates where for the same amount of labour
@@ -3327,8 +3327,8 @@ in free.”
 
 These Free Trade arguments look, when they are first studied, not
 only simple and clear, but unanswerable, and indeed most educated
-men--nearly all educated men--in [[Queen Victoria]]’s reign, thought they
-were unanswerable, and that Protectionists here at [[Home|home]] (who were
+men--nearly all educated men--in [[characters/queen-victoria|Queen Victoria]]’s reign, thought they
+were unanswerable, and that Protectionists here at [[motifs/home|home]] (who were
 no longer allowed to put their theories into laws) and Protectionists
 abroad who had kept up tariffs against foreign trade, were simply
 ignorant and foolish men who did not properly understand the elements
@@ -3340,7 +3340,7 @@ us next turn to the arguments with which the Protectionists met them.
 These arguments were of two kinds:--
 
 (a) There were Protectionists who said: “We cannot follow all these
-elaborate abstract discussions about a science called [[Economics]]; we are
+elaborate abstract discussions about a science called [[concepts/economics|Economics]]; we are
 practical men with plenty of common sense and experience, and all we
 know is that if the foreigner comes in free we shall be ruined. He can
 sell his wheat at such a price that our farmers will lose on it. Our
@@ -3368,9 +3368,9 @@ These two kinds of arguments on the Protectionist side are still to be
 heard everywhere to-day.
 
 It ought to be perfectly clear to anyone who thinks about the matter
-at all that argument (a) was [[Nonsense|nonsense]], for people and capital driven
+at all that argument (a) was [[concepts/nonsense|nonsense]], for people and capital driven
 out of an industry ill suited to our present conditions are not
-thereby destroyed. They may very [[Well|well]] find employment producing more
+thereby destroyed. They may very [[motifs/well|well]] find employment producing more
 total wealth in another. But argument (b) was a good argument _if the
 statement about the impossibility of changing from one trade to another
 were in practice true_. The whole discussion really turned upon the
@@ -3384,33 +3384,33 @@ this disadvantage--that they were arguing with regard to a possible or
 probable future with no past experience to guide them, and that many
 years must pass before it could be discovered whether, in practice,
 what they said was true or false; whether in practice the ruin of
-English agriculture would diminish the [[Well|well]]-being of [[England]] as a whole
+English agriculture would diminish the [[motifs/well|well]]-being of [[settings/england|England]] as a whole
 or not.
 
 Further, the population continued to increase at a great rate, and that
 all in the towns and on the coal-fields. Our manufacturing productions
 went up and up and up, the total wealth of the country enormously
 increased, and these processes hid and made to seem insignificant the
-corresponding [[Decay|decay]] of the fields. We had no need for Protection in any
+corresponding [[motifs/decay|decay]] of the fields. We had no need for Protection in any
 domestic manufactured goods; we had begun to use coal before anybody
 else; we had developed machinery before anybody else. The only thing
 which there could be any point in protecting was agriculture, and that
 would have meant dearer food for the wage-earners in the towns.
 
 The great consequence was that Free Trade won hands down, and for a
-long [[Time|time]] all its opponents, however distinguished or reasonable, were
+long [[motifs/time|time]] all its opponents, however distinguished or reasonable, were
 laughed at.
 
 But if we wish to be worthy students of Economic Science we
 cannot dismiss the quarrel so simply. There is such a thing as a
 strong economic argument in favour of Protection in particular
-circumstances. The practical proof of this [[Truth|truth]] is the immense
+circumstances. The practical proof of this [[concepts/truth|truth]] is the immense
 increase in wealth which took place in the German Empire during the
 thirty years before the Great War, which increase exactly corresponded
 with a highly protective tariff. The same thing happened in the United
-States at the same [[Time|time]]. But the theoretical argument in favour
+States at the same [[motifs/time|time]]. But the theoretical argument in favour
 of Protection is much better, because the increase of wealth in
-[[Germany]] and the United States under Protection might be due to other
+[[settings/germany|Germany]] and the United States under Protection might be due to other
 causes, whilst it can be shown by reason that Protection itself, in
 particular cases, increases the total national wealth. With the proof
 of this I will end the present chapter.
@@ -3420,12 +3420,12 @@ tends to increase the total amount of wealth of all that area which it
 covers._
 
 But what gives the argument for Protection, in special cases, its value
-is, as we saw on page 64, a second Formula equally true. Though [[Freedom|freedom]]
+is, as we saw on page 64, a second Formula equally true. Though [[concepts/freedom|freedom]]
 of exchange tends to increase the total wealth of an area over which
 it extends, _yet it does not tend to increase the wealth of every part
-of that area_. Therefore, if a part of the area over which [[Freedom|freedom]] of
+of that area_. Therefore, if a part of the area over which [[concepts/freedom|freedom]] of
 exchange extends finds itself impoverished by the process, it may be
-enriched by interfering with [[Freedom|freedom]] of exchange over the boundaries of
+enriched by interfering with [[concepts/freedom|freedom]] of exchange over the boundaries of
 its own special part.
 
 Therein lies the whole argument for Protection in particular cases.
@@ -3433,16 +3433,16 @@ Therein lies the whole argument for Protection in particular cases.
 Let us take for example three islands, two close together and one far
 away and prove the case by figures.
 
-We will number them A, B, C. [[Island]] A is full of iron ore. [[Island]] B is
-full of coal. [[Island]] C is also full of iron ore, like No. A, but it is
+We will number them A, B, C. [[settings/island|Island]] A is full of iron ore. [[settings/island|Island]] B is
+full of coal. [[settings/island|Island]] C is also full of iron ore, like No. A, but it is
 a long way off.
 
 Iron ore naturally comes to the coal area to be smelted, because, being
 heavier, it can be carried in smaller bulk. It is cheaper to bring iron
 ore to coal than coal to iron ore. If all three islands belong to the
-same realm what will happen is quite clear. [[Island]] B will import iron
-ore from [[Island]] A and will smelt it and turn it into pig-iron and steel
-and iron manufactures of all kinds, while [[Island]] C, a long way off,
+same realm what will happen is quite clear. [[settings/island|Island]] B will import iron
+ore from [[settings/island|Island]] A and will smelt it and turn it into pig-iron and steel
+and iron manufactures of all kinds, while [[settings/island|Island]] C, a long way off,
 will remain unused. We will suppose the climate of No. C to be bleak,
 the soil bad, and the people there, since they cannot sell their iron
 ore on account of the distance at which they stand, make a very poor
@@ -3450,41 +3450,41 @@ livelihood out of grazing a few cattle.
 
 Let us suppose that the amount of iron ore imported every year by No. B
 from No. A is worth £10 million. This of course has to be paid for. In
-other words, [[Island]] No. B has got to export manufactured goods in iron
-and steel back to [[Island]] No. A as payment for the iron ore which No. B
+other words, [[settings/island|Island]] No. B has got to export manufactured goods in iron
+and steel back to [[settings/island|Island]] No. A as payment for the iron ore which No. B
 imports for smelting. It also has to pay for the freight on the iron
 ore from No. A, that is, for the cost of bringing it over the sea to
 No. B. Let us suppose this cost to be one million. The total value of
 the iron goods produced on No. B, after being smelted with the coal of
 No. B, is, let us say, £30 million. Of this, £11 million goes back for
-the cost of carrying the ore from [[Island]] No. A and for its purchase.
-Meanwhile we may neglect economic values of [[Island]] No. C, because the
+the cost of carrying the ore from [[settings/island|Island]] No. A and for its purchase.
+Meanwhile we may neglect economic values of [[settings/island|Island]] No. C, because the
 few wretched inhabitants and their handful of cattle hardly count.
 
 Here, then, we have a wealth of £30,000,000 in manufactured iron goods,
-of which £10,000,000 goes to [[Island]] No. A and £19,000,000 to [[Island]]
+of which £10,000,000 goes to [[settings/island|Island]] No. A and £19,000,000 to [[settings/island|Island]]
 No. B, and £1 million to whoever carries the ore in ships. If you were
 estimating the wealth of the whole realm made up of the three islands,
 A, B and C, you would say: “The wealth of these people consists in
 manufactured iron and steel goods. It is equivalent to £30,000,000 a
-year, of which some £10,000,000 is revenue to [[Island]] A and £19,000,000
-is revenue to [[Island]] B and £1 million earned in freights. The wealth of
-[[Island]] C is negligible.” [[Well]] and good.
+year, of which some £10,000,000 is revenue to [[settings/island|Island]] A and £19,000,000
+is revenue to [[settings/island|Island]] B and £1 million earned in freights. The wealth of
+[[settings/island|Island]] C is negligible.” [[motifs/well|Well]] and good.
 
 Now supposing the political conditions to change. Islands B and C
-belong to one realm in future but [[Island]] A has become a foreigner. The
+belong to one realm in future but [[settings/island|Island]] A has become a foreigner. The
 realm to which Islands B and C belong turns Protectionist and sets up a
 barrier in the shape of a tariff against iron ore coming from abroad.
 We have seen that the cost of carrying iron ore from No. A to No. B
 was £1,000,000. No. C being much farther away from No. B, let us say
 that the cost of carrying is £5,000,000, but it is carried by subjects
-of the realm. The tariff put up by the realm to which [[Island]] B and C
+of the realm. The tariff put up by the realm to which [[settings/island|Island]] B and C
 belong is what is called “prohibitive”--that is, it is so high that it
-keeps the iron ore of No. A out altogether, and the smelters on [[Island]]
-No. B are bound to get their iron ore from that distant [[Island]] C. Let
+keeps the iron ore of No. A out altogether, and the smelters on [[settings/island|Island]]
+No. B are bound to get their iron ore from that distant [[settings/island|Island]] C. Let
 us see what happens.
 
-[[Island]] No. B has now got to pay a freight, that is, cost of bringing
+[[settings/island|Island]] No. B has now got to pay a freight, that is, cost of bringing
 the iron ore, five times as much as it used to be. Instead of paying
 £11,000,000 for its ore (£10,000,000 at the mine and £1,000,000 for
 carriage) it is now paying £15,000,000 (£10,000,000 at the mine and
@@ -3492,8 +3492,8 @@ carriage) it is now paying £15,000,000 (£10,000,000 at the mine and
 year, but it only has £15,000,000 left over for its own income, instead
 of the £19,000,000 which it used to have. It is thus impoverished.
 
-But [[Island]] C, from having hardly any income at all, has now an income
-of £10,000,000 a year. [[Island]] A is ruined. Protection has put the
+But [[settings/island|Island]] C, from having hardly any income at all, has now an income
+of £10,000,000 a year. [[settings/island|Island]] A is ruined. Protection has put the
 getting of the ore under unnatural conditions. It has compelled the
 coal-owners to go much farther off for their ore than they need
 have done under Free Trade. The total wealth of all three islands
@@ -3503,25 +3503,25 @@ the total combined wealth of B and C, even if they pay foreign ships
 to bring the ore, is now greater than it used to be under the old
 Free Trade._ No. B has £15,000,000; No. C has £10,000,000--the total
 is £25,000,000. If they pay their own sailors to bring the ore it is
-£30,000,000. Under the old conditions the total of B and C [[Alone|alone]] was
-only £19,000,000. [[Island]] A is ruined and the total wealth of the whole
+£30,000,000. Under the old conditions the total of B and C alone was
+only £19,000,000. [[settings/island|Island]] A is ruined and the total wealth of the whole
 system is less, but the Protectionists of the realm, which now only
 includes B and C, are quite indifferent to that. They are thinking of
 the wealth of their common country, and are indifferent to the ruin of
 others, and their policy is increasing the wealth of their common
 country at the expense of foreigners.
 
-In that example lies the argument for Protection. _If [[Island]] C could
+In that example lies the argument for Protection. _If [[settings/island|Island]] C could
 do something other than mine ore, if it had other forms of wealth,
 or by ingenuity or luck could discover some new fields in which its
 activities might develop, then the argument for Protection in this case
-would break down._ [[Island]] B would say: “Let me get my iron ore cheap
-from the foreigner in [[Island]] A, and do you, on [[Island]] C, develop (let
+would break down._ [[settings/island|Island]] B would say: “Let me get my iron ore cheap
+from the foreigner in [[settings/island|Island]] A, and do you, on [[settings/island|Island]] C, develop (let
 us say) dairy farming, or something else which I cannot do and which
-[[Island]] B cannot do. In that way we shall all three benefit, and the
-common realm, consisting of [[Island]] B and [[Island]] C, will be richer than
-ever. [[Island]] B will have all its old profit of £19,000,000 (instead of
-being reduced to £15,000,000), and [[Island]] C can [[Well|well]] develop a dairy
+[[settings/island|Island]] B cannot do. In that way we shall all three benefit, and the
+common realm, consisting of [[settings/island|Island]] B and [[settings/island|Island]] C, will be richer than
+ever. [[settings/island|Island]] B will have all its old profit of £19,000,000 (instead of
+being reduced to £15,000,000), and [[settings/island|Island]] C can [[motifs/well|well]] develop a dairy
 produce of more than £7,000,000.”
 
 One ought to be able to see quite clearly from an example like this
@@ -3530,9 +3530,9 @@ particular cases only, and turns entirely upon whether an undeveloped
 part of the energies of the community can be turned into new channels
 or not_.
 
-We have an excellent, though small, example to hand in [[England]] to-day.
+We have an excellent, though small, example to hand in [[settings/england|England]] to-day.
 The English people have to send abroad about £4 worth of goods every
-year per [[Family|family]] for pig-meat, that is, bacon and hams and the rest.
+year per [[concepts/family|family]] for pig-meat, that is, bacon and hams and the rest.
 There is no reason why they should do this. They could produce the
 pigs on their own farms without drawing a single person from the
 factories and keep this mass of manufactured goods for their own use.
@@ -3546,17 +3546,17 @@ Protection ought to take the form of saying:--
 
 “Any pig-meat from abroad must pay such and such a sum per pound at
 the ports as it enters.” This would raise the price of pig-meat in
-[[England]] somewhat. If it raised the price to such an amount that the
-English people as a whole had to pay £2 more a [[Family|family]], _and if at that
+[[settings/england|England]] somewhat. If it raised the price to such an amount that the
+English people as a whole had to pay £2 more a [[concepts/family|family]], _and if at that
 increased rate of price agricultural people could be stimulated into
 feeding the right amount of pigs and taking the necessary trouble to
 keep the supply going_, then the total wealth of the community would
-be increased £2 per [[Family|family]]. Even if the price had to increase till
-each [[Family|family]] on the average paid £3 more, or £3 10s. 0d. more, it would
+be increased £2 per [[concepts/family|family]]. Even if the price had to increase till
+each [[concepts/family|family]] on the average paid £3 more, or £3 10s. 0d. more, it would
 still be of advantage to the nation _on condition that the higher price
 really did make the farmers breed enough pigs, without lessening their
 production of other things_. But if, when the charge on the community
-had risen to £4 per [[Family|family]], it did not stimulate the production of pigs
+had risen to £4 per [[concepts/family|family]], it did not stimulate the production of pigs
 in this country sufficiently to supply the market, then your Protection
 of Pigs would be run at a loss.
 
@@ -3567,8 +3567,8 @@ other modern economic institutions, the institution of Banking.
 
 It has origins much older; indeed, people did something of the kind
 at all times, but Banking as a fully developed institution grew up
-in this comparatively short [[Time|time]]: since the middle of the seventeenth
-century. It began in Holland and [[England]] and spread to other countries.
+in this comparatively short [[motifs/time|time]]: since the middle of the seventeenth
+century. It began in Holland and [[settings/england|England]] and spread to other countries.
 
 Like other modern institutions, it only became really important in
 the latter half of this period, that is, during the last hundred
@@ -3594,7 +3594,7 @@ moral basis upon which banking reposes.
 
 A man has £1,000 in gold. He has to travel or to go abroad on a war,
 or is not certain of the safety of so large a sum if it is kept in his
-[[house]]. He therefore gives it into the custody of a man whom he can
+house. He therefore gives it into the custody of a man whom he can
 trust, and who, on account of special circumstances, can keep it more
 securely than he himself can. What the owner of the £1,000 wants in
 the transaction is to be certain of getting a part or the whole of his
@@ -3623,12 +3623,12 @@ the trouble of looking after it, and I can call on a part of it or all
 of it whenever I like. If there were only myself leaving it thus with
 one friend, and it was a particular transaction between us two, that
 friend would be acting wrongly if he were to take my £1,000 and buy a
-[[Ship|ship]] with it, say, and do trade. No [[Doubt|doubt]] he would earn a profit, and
+[[motifs/ship|ship]] with it, say, and do trade. No [[concepts/doubt|doubt]] he would earn a profit, and
 could say to me when I came back for £100 of it: “I am sorry that I
 cannot give you your £100, but I have used the money, without telling
-you, to buy a [[Ship|ship]]. The [[Ship|ship]] will earn a profit of £200 at the end of
+you, to buy a [[motifs/ship|ship]]. The [[motifs/ship|ship]] will earn a profit of £200 at the end of
 the year, and then you can have back your £100 if you like, and if you
-press me, I will even sell the [[Ship|ship]] and you shall have back the whole
+press me, I will even sell the [[motifs/ship|ship]] and you shall have back the whole
 of your £1,000.”
 
 In that case I should naturally answer: “No one gave you leave to use
@@ -3663,11 +3663,11 @@ discovers that he must have about 100 times £100, that is £10,000, in
 free cash to meet the demands upon him, and that he gets rather more
 put into his custody in the same period of a month, year in and year
 out. It follows that he always has about £90,000 in gold doing nothing
-the whole [[Time|time]]. He says to himself: “Why should I not use this money
+the whole [[motifs/time|time]]. He says to himself: “Why should I not use this money
 to buy instruments of production--ships or ploughs, or machinery or
 what not--and produce more wealth? It will not hurt those who have
 deposited it with me, for I have found that, on the average, they
-never want more than a tenth of their money out at the same [[Time|time]] (and
+never want more than a tenth of their money out at the same [[motifs/time|time]] (and
 they are also perpetually paying in more money to me--so that they and
 I are quite safe), and if I make a good profit by the use of the things
 I shall have bought with this £90,000 I can offer them part of the
@@ -3682,31 +3682,31 @@ enough to see that their money had been put to some use and that they
 had become richer by its use; while if they had kept it to themselves
 in scattered small amounts it would not have made them any richer.
 
-In [[England]] we can trace the origins of a great many banks, and of the
+In [[settings/england|England]] we can trace the origins of a great many banks, and of the
 fortunes of their owners, proceeding along these lines. For instance:
-there was a [[Family|family]] of silversmiths rather more than two hundred years
+there was a [[concepts/family|family]] of silversmiths rather more than two hundred years
 ago. They had a shop in which silver objects were bought and sold, and
 they also had gold plate to buy and sell. They had strong-boxes in
 which these things were kept, and they paid money to men who guarded
 these strong-boxes. It was a natural thing for people to go to this
 shop and say: “I have here a thousand pounds in gold which is not very
-safe at [[Home|home]]. Will you look after it for me, on condition of course
+safe at [[motifs/home|home]]. Will you look after it for me, on condition of course
 that I may call for any amount of it when I want it and what will you
 charge for your trouble?” The silversmiths said: “Yes, we will do this,
 we will charge nothing,” and in that way they got hold of very large
 sums which people left with them. They found, as we have just seen,
 that in practice, year after year, only a certain amount of the sums
-were required of them at any one [[Time|time]], and rather than leave the big
+were required of them at any one [[motifs/time|time]], and rather than leave the big
 balance lying idle they used it for buying useful things which would
 produce more wealth. They lent the money sometimes to the State for its
-purposes, that is, to the [[King]] of the [[Time|time]]. Sometimes they employed it
+purposes, that is, to the [[archetypes/king|King]] of the [[motifs/time|time]]. Sometimes they employed it
 in other ways which earned a profit. The people who left the money
 with them always found that they could get back whatever they wanted
 when they asked for it, and they were content. That is how banking
 arose.
 
-Another example of which I know the [[history]] and which is very
-interesting is that of a squire in the West of [[England]] who lived rather
+Another example of which I know the [[concepts/history|history]] and which is very
+interesting is that of a squire in the West of [[settings/england|England]] who lived rather
 less than two hundred years ago and has given his name to one of our
 great banks still existing to-day. This squire was a rich man who
 had many friends coming to his table. He had the reputation of good
@@ -3717,25 +3717,25 @@ neighbours, he came to look after the money of a great many people whom
 his neighbours recommended, and at last had hundreds of “clients,” as
 the phrase went--that is, of people who would leave their money with
 him, knowing that he would earn a profit both for himself and for them;
-at the same [[Time|time]] the money would be safely kept, and they might call
+at the same [[motifs/time|time]] the money would be safely kept, and they might call
 for a portion of it whenever they wanted it.
 
 From such origins the banking system gradually extended until, about a
-hundred years ago, or rather more, every rich [[Family|family]] in this country
+hundred years ago, or rather more, every rich [[concepts/family|family]] in this country
 had a considerable sum of money left at a bank, and paid into the
 banker’s coffers further sums of money which they received. Each had a
 book of accounts with the bank showing exactly how much had been put
 in and therefore how much they could “draw” upon. At first the clients,
 or depositors, would “draw” some portion of their money which they
 might immediately need by way of a letter. Thus, if their banker’s name
-was Mr. [[smith|Smith]], they would write this note: “To Mr. [[smith|Smith]]. Please pay my
+was Mr. Smith, they would write this note: “To Mr. Smith. Please pay my
 servant who brings this letter £20 out of the £1,000 which I left with
 you the other day.” They would sign this letter and send the servant
 with it; the banker would give the £20 to the servant and the servant
 would give a receipt against it.
 
 That was the origin of what are nowadays called “cheques.” The letter
-giving [[Authority|authority]] for the messenger to draw the money grew more and
+giving [[concepts/authority|authority]] for the messenger to draw the money grew more and
 more formal and was drawn up more and more in the same terms to save
 trouble. Then the bankers would have the forms printed, so that the
 client who wanted to draw would have the least possible trouble. If
@@ -3752,35 +3752,35 @@ But to prevent people using these pieces of paper to get money without
 having the right to it the word “order” was more often substituted for
 the word “bearer”; and this word “order” means that the owner, who
 is drawing his money out, says: “Do not pay it to me; pay it to this
-other person whom I [[Desire|desire]] to receive the money and whose name I have
+other person whom I [[motifs/desire|desire]] to receive the money and whose name I have
 mentioned above, who will sign to show that his order for payment has
 been met.”
 
-For instance: I have £1,000 deposited with my banker, Mr. [[smith|Smith]]. I
-write a letter: “Pay £20 to John [[Jones]] or order.” This means: “Do
-not, dear Mr. [[smith|Smith]], send the money back to me, but give it to Mr.
-[[Jones]] who will bring this letter with him, or, if he cannot come
+For instance: I have £1,000 deposited with my banker, Mr. Smith. I
+write a letter: “Pay £20 to John [[characters/jones|Jones]] or order.” This means: “Do
+not, dear Mr. Smith, send the money back to me, but give it to Mr.
+[[characters/jones|Jones]] who will bring this letter with him, or, if he cannot come
 himself, will send a signed letter order that it should be paid
-to him.” At the beginning of the system, Mr. [[Jones]], to whom I gave
-the cheque, would write a little letter saying: “Dear Mr. [[smith|Smith]], Mr.
+to him.” At the beginning of the system, Mr. [[characters/jones|Jones]], to whom I gave
+the cheque, would write a little letter saying: “Dear Mr. Smith, Mr.
 So-and-So, who banks with you, has given me the accompanying letter by
 which I can get £20 of his by my order. I therefore send you this
 letter to tell you that whoever brings this cheque bears my order to
-give the money to him.” He signs the letter “John [[Jones]]” and the banker
+give the money to him.” He signs the letter “John [[characters/jones|Jones]]” and the banker
 hands over the money to whomever it may be that brings the letter for
-John [[Jones]].
+John [[characters/jones|Jones]].
 
-In process of [[Time|time]] the thing was simplified. In place of the letter
+In process of [[motifs/time|time]] the thing was simplified. In place of the letter
 came the shortened form, the cheque, and you wrote: “Pay £20 to John
-[[Jones]] or order,” and John [[Jones]], instead of sending a letter signed
+[[characters/jones|Jones]] or order,” and John [[characters/jones|Jones]], instead of sending a letter signed
 by himself, merely put his signature at the back of the cheque. This
 was called “endorsement,” which is a Latin form of the English meaning
 “putting one’s name on the back of anything.” A cheque “endorsed” with
-the name “John [[Jones]],” that is, with John [[Jones]]’s name signed on the
-back of it, was paid by the bank to whomever John [[Jones]] might send to
-receive the payment. My cheque asking for £20 to be paid to John [[Jones]]
+the name “John [[characters/jones|Jones]],” that is, with John [[characters/jones|Jones]]’s name signed on the
+back of it, was paid by the bank to whomever John [[characters/jones|Jones]] might send to
+receive the payment. My cheque asking for £20 to be paid to John [[characters/jones|Jones]]
 having fulfilled its object, and the £20 being paid to whomever John
-[[Jones]] had sent after he had “endorsed” that cheque, the cheque was said
+[[characters/jones|Jones]] had sent after he had “endorsed” that cheque, the cheque was said
 to have been “honoured” by the bank. The word “honoured” meant that the
 bank had admitted that I had the money banked with them, and that they
 were bound to hand it over on seeing my signature asking that it should
@@ -3793,17 +3793,17 @@ to do was to write out a cheque to the order of this man, who would
 endorse it and get the money.
 
 Now as banking grew and came to deal with more and more people, it was
-probable that this man, [[Jones]], would have a banking account too with
-somebody. If Mr. [[smith|Smith]] was not his banker, then Mr. Brown would be.
+probable that this man, [[characters/jones|Jones]], would have a banking account too with
+somebody. If Mr. Smith was not his banker, then Mr. Brown would be.
 As we have seen, people not only drew out money from the original sum
 they had deposited at the bank, they also paid in money as they got
 it, on account of the convenience of having it looked after safely. So
-when John [[Jones]] got my cheque for £20, he often did not get the actual
-cash from my banker, Mr. [[smith|Smith]], but simply gave in the cheque, endorsed
-by him, to Mr. Brown, his banker, and said: “Get this from Mr. [[smith|Smith]],
+when John [[characters/jones|Jones]] got my cheque for £20, he often did not get the actual
+cash from my banker, Mr. Smith, but simply gave in the cheque, endorsed
+by him, to Mr. Brown, his banker, and said: “Get this from Mr. Smith,
 the other banker, and add it to the sum which I have banked with you,
 Mr. Brown.” The banker Brown did this, and the cheque which I had
-originally signed in favour of John [[Jones]], having gone the rounds, was
+originally signed in favour of John [[characters/jones|Jones]], having gone the rounds, was
 sent back to me to prove that the transaction was complete.
 
 As banking continued to grow this system took on a vast extension.
@@ -3815,29 +3815,29 @@ the bankers among themselves.
 After many years of this system it became apparent that the enormous
 transactions, thousands of cheques all crossing each other daily in
 hundreds of ways, could be simplified by the establishment of what came
-to be called the “Clearing [[house|House]].”
+to be called the “Clearing House.”
 
-Thus, suppose three bankers--Mr. [[smith|Smith]], Mr. Brown and [[Mr. Robinson]].
-I bank with Mr. [[smith|Smith]], and sign a cheque in favour of Mr. [[Jones]] who
-banks with Mr. Brown, because I owe [[Jones]] a bill which I can thus pay.
+Thus, suppose three bankers--Mr. Smith, Mr. Brown and [[characters/mr.-robinson|Mr. Robinson]].
+I bank with Mr. Smith, and sign a cheque in favour of Mr. [[characters/jones|Jones]] who
+banks with Mr. Brown, because I owe [[characters/jones|Jones]] a bill which I can thus pay.
 I also sign a cheque in favour of Mr. Harding (that is, to the order
-of Mr. Harding), to whom I also owe money. He banks with [[Mr. Robinson]].
-Meanwhile Harding perhaps owes money to [[Jones]] and pays him a cheque
-ordering [[Mr. Robinson]] (Harding’s banker) to pay [[Jones]] a sum of money.
-[[Jones]] hands this over to his banker, Mr. Brown. At the end of a certain
-[[Time|time]]--say, a month--the three bankers, [[smith|Smith]], Brown and Robinson, get
+of Mr. Harding), to whom I also owe money. He banks with [[characters/mr.-robinson|Mr. Robinson]].
+Meanwhile Harding perhaps owes money to [[characters/jones|Jones]] and pays him a cheque
+ordering [[characters/mr.-robinson|Mr. Robinson]] (Harding’s banker) to pay [[characters/jones|Jones]] a sum of money.
+[[characters/jones|Jones]] hands this over to his banker, Mr. Brown. At the end of a certain
+[[motifs/time|time]]--say, a month--the three bankers, Smith, Brown and Robinson, get
 together and compare the various cheques they have received. It is
 obvious that a great many will cancel out.
 
-For instance: I have given [[Jones]] a cheque for £20 which Mr. [[smith|Smith]], my
-banker, has to pay to Mr. Brown, [[Jones]]’s banker. But Mr. Brown has a
-cheque of Mr. Harding’s asking [[Mr. Robinson]] to pay £20 to [[Jones]], and
-[[Jones]] has given that to Brown too. Meanwhile [[Jones]] has given me a
+For instance: I have given [[characters/jones|Jones]] a cheque for £20 which Mr. Smith, my
+banker, has to pay to Mr. Brown, [[characters/jones|Jones]]’s banker. But Mr. Brown has a
+cheque of Mr. Harding’s asking [[characters/mr.-robinson|Mr. Robinson]] to pay £20 to [[characters/jones|Jones]], and
+[[characters/jones|Jones]] has given that to Brown too. Meanwhile [[characters/jones|Jones]] has given me a
 cheque later on, for something which he owed me, of £10. The bankers
-compare notes and see that [[smith|Smith]] need not pay £20 to Brown, and then
-ask Brown for £10. It is simpler to pay the difference only. Mr. [[smith|Smith]]
+compare notes and see that Smith need not pay £20 to Brown, and then
+ask Brown for £10. It is simpler to pay the difference only. Mr. Smith
 hands to Mr. Brown what is called the “balance.” The difference between
-£10 and £20 is £10, and Brown hands over £10 to [[smith|Smith]]. At the end of
+£10 and £20 is £10, and Brown hands over £10 to Smith. At the end of
 another month perhaps it is Robinson, Harding’s banker, who finds that
 on comparing notes he has a balance against him of £10 to Brown: and so
 on.
@@ -3846,11 +3846,11 @@ When dozens of bankers came to be established with thousands of
 clients, or “depositors,” the convenience of this system was
 overwhelming. There would perhaps be in a week as many as 10,000
 cheques out, and instead of having to make 10,000 separate transactions
-of paying from Brown to [[smith|Smith]], [[smith|Smith]] to Robinson, Robinson back to
+of paying from Brown to Smith, Smith to Robinson, Robinson back to
 Brown, and so on, through dozens of bankers, the cheques were compared
 and only the balances were paid over--or, as the phrase goes, “cleared.”
 
-The Clearing [[house|House]] was the place where all the cheques of different
+The Clearing House was the place where all the cheques of different
 banks were put in at regular intervals and compared one with another,
 so as to see what balances remained over, owing by particular bankers
 to others.
@@ -3862,7 +3862,7 @@ among the bankers as a community a very large sum of money lying
 untouched, a sort of reservoir. It was nearly always very much
 more than two-thirds of the whole amount which the banks could be
 called on to pay. That is, the depositors never wanted a third of
-their deposits out at any one [[Time|time]]. The art of a banker, therefore,
+their deposits out at any one [[motifs/time|time]]. The art of a banker, therefore,
 consisted in knowing how to purchase with this idle money left in their
 hands fruitful objects for producing future wealth, in other words,
 “investing” it in “capital enterprises,” but always prudently keeping
@@ -3871,12 +3871,12 @@ suddenly make upon them.
 
 So far so good. The banking system up to this point in its development
 was an advantage to the community and to individuals. It enabled a
-large number of small sums which could not be used very [[Well|well]] separately
+large number of small sums which could not be used very [[motifs/well|well]] separately
 to be collected together for big enterprises.
 
 A thousand people, depositing a thousand pounds each, left a million
 pounds in the hands of the bankers, of which much more than half a
-million could be used at any [[Time|time]] for “development,” that is, for
+million could be used at any [[motifs/time|time]] for “development,” that is, for
 buying instruments with which to develop natural resources. The nation
 would be richer if a deep shaft were sunk and coal were got out of the
 earth, but it would cost half a million to make that mine. No one of
@@ -3892,23 +3892,23 @@ and carrying about large sums in metal--the whole passing through the
 bank and helping to keep this reservoir of wealth perpetually filled
 and available for use in investment.
 
-That state of affairs lasted to within the [[Memory|memory]] of men now living,
-and, as I have said, the banking system during that [[Time|time]] was an
+That state of affairs lasted to within the [[motifs/memory|memory]] of men now living,
+and, as I have said, the banking system during that [[motifs/time|time]] was an
 advantage to everybody. There was nothing to be said against it.
 
 But then came (as there comes upon every human institution after a
-certain [[Time|time]]) a further phase of development, in which the institution
+certain [[motifs/time|time]]) a further phase of development, in which the institution
 of banking produced certain perils and evils. Those perils and evils
 are increasing, and are producing the antagonism to the banks and to
 their power which everybody is beginning to express to-day, all over
-[[Europe]] and [[America]], and which we must understand if we are to follow
+[[settings/europe|Europe]] and [[settings/america|America]], and which we must understand if we are to follow
 modern political economy. I will show you how these evils in the
 Banking system arose.
 
 A man having £1,000 in the bank could draw upon it up to the total
 amount. He could sign a cheque for £100 and then for £500 (making £600)
 and then for another £400. Supposing he put nothing in during that
-[[Time|time]], he would have exhausted the whole of what he had in his bank; he
+[[motifs/time|time]], he would have exhausted the whole of what he had in his bank; he
 would have come to an end of what is called, in the terms of banking,
 his “balance.” There, you might think, was an end of his power to draw
 cheques. He had got back all his money, so the bank and he had nothing
@@ -3922,14 +3922,14 @@ in capital enterprises, such as mining, or what not. They would say
 to the man who had once put £1,000 into their hands and who had now
 drawn it all out: “You still want to carry on your business; but you
 have exhausted all the money you had with us. You will probably want
-to borrow some money to tide you over until the [[Time|time]] when further sums
+to borrow some money to tide you over until the [[motifs/time|time]] when further sums
 begin to come in to you through what you sell in your business. We
 are prepared to lend you money out of what we have to use from other
 people’s deposits. You will pay a certain ‘interest’ upon it (that
 is, so much a year on each hundred pounds we lend you--say £5 a year
 for every £100), and you shall pay us back when you can.” The bank
 accompanied this offer with the right to draw further cheques to, say,
-another thousand pounds, which the bank would “[[Honour|honour]]”--that is, for
+another thousand pounds, which the bank would “[[concepts/honour|honour]]”--that is, for
 which the bank would pay out money which did not really belong to their
 client but was lent to him by the bank out of other people’s balances.
 And this extra amount, which the bank thus allowed their client over
@@ -3942,13 +3942,13 @@ that if, in the long run, he found himself unable to pay back, the
 banker, could sell the security and recoup himself.
 
 But it was obviously convenient and useful when a client was in a
-big way of business to grant him an “over-draft” from [[Time|time]] to [[Time|time]]
+big way of business to grant him an “over-draft” from [[motifs/time|time]] to [[motifs/time|time]]
 although he had no security to offer. The bank said to itself: “Here is
-a merchant making very large profits every year. It takes him some [[Time|time]]
+a merchant making very large profits every year. It takes him some [[motifs/time|time]]
 to get his money in from the foreigners to whom he sells goods oversea,
 but he is bound to get it sooner or later. So, without asking him for
 any security (for perhaps he has no plate or title deeds or what not to
-give), it is still [[Well|well]] worth our while to let him have an over-draft
+give), it is still [[motifs/well|well]] worth our while to let him have an over-draft
 (that is, a loan) out of the other people’s money. He will pay us
 interest upon it, we shall make a profit, and when the foreigners pay
 him he will be able to pay us back.”
@@ -3974,21 +3974,21 @@ whether with or without security, or even when they gave a loan to a
 man who had no capital at all, and “backed” him in his enterprise which
 they thought likely to prove successful, they had used the money which
 other clients had left with them. But it occurred to the banks after a
-certain [[Time|time]] that there was no need to use anybody else’s money at all.
-_They could themselves offer to [[Honour|honour]] the cheques of the man to whom
+certain [[motifs/time|time]] that there was no need to use anybody else’s money at all.
+_They could themselves offer to [[concepts/honour|honour]] the cheques of the man to whom
 they lent the money, without having any real money with which to pay
 those cheques._
 
 Why was this? It was because, with the growth of the banking system,
-hardly any of the payments were, by this [[Time|time]], actually made in
+hardly any of the payments were, by this [[motifs/time|time]], actually made in
 gold. Real money only passed in a very small degree. Of the myriad
 transactions all but a tiny proportion were “instruments of credit.”
-Just as a bank-note issued by the Bank of [[England]] is a promise to pay
+Just as a bank-note issued by the Bank of [[settings/england|England]] is a promise to pay
 in gold, and yet a promise to pay a million pounds in bank-notes could
 always be made with much less than a million real pounds to redeem
 the notes so _the banks could create paper money, or its equivalent,
 in the form of over-drafts. If they said to a man who had no_ money
-deposited with them: “We will [[Honour|honour]] your cheques up to £1,000” _what
+deposited with them: “We will [[concepts/honour|honour]] your cheques up to £1,000” _what
 they were really doing was increasing the paper currency to the extent
 of £1,000_. They were issuing promises to pay, exactly like bank-notes,
 knowing that of the total amount out only a small proportion at any
@@ -3996,12 +3996,12 @@ moment would be required in real money.
 
 There was a check on this system of creating new artificial paper money
 by the banks (for this is what it came to), and the check consisted in
-the control of the [[government|Government]] over the National Bank--in [[England]] the
-Bank of [[England]]. There was a law preventing the Bank of [[England]] from
+the control of the Government over the National Bank--in [[settings/england|England]] the
+Bank of [[settings/england|England]]. There was a law preventing the Bank of [[settings/england|England]] from
 issuing more than a certain number of notes in proportion to the gold
 lying behind them, and the private banks could not issue over-drafts,
 or loans, indefinitely, because they could not get more than a certain
-amount of paper money from the Bank of [[England]] to meet the payments
+amount of paper money from the Bank of [[settings/england|England]] to meet the payments
 they had to make, and the Bank, in its turn, could not issue more than
 a certain proportion of paper money against its gold.
 
@@ -4035,12 +4035,12 @@ power, if they like, to act from caprice, and whenever you give a few
 human beings great power of this sort over millions of others it tends
 to be abused.
 
-2. The banks, especially in [[England]], are all in one combination and
+2. The banks, especially in [[settings/england|England]], are all in one combination and
 keep detailed information upon all of us. Not only have they control
 over industry through their power to make or withhold the money which
-they [[Alone|alone]] can now create and hand out to those they favour, but they
+they alone can now create and hand out to those they favour, but they
 also keep indexes of detailed information as thorough and widespread
-as those of any [[government|Government]] office. They have a secret service more
+as those of any Government office. They have a secret service more
 widespread and powerful than that of the State, and this hidden power
 of theirs, though private and concealed knowledge, irritates plain men
 more and more. People feel that they are not free, and that the banking
@@ -4050,18 +4050,18 @@ master.
 Therefore all over the world to-day people are saying: “The banking
 system, and the few men who direct it, are altogether too powerful.
 They control our lives. They are beginning to control the public policy
-of the State, especially in [[England]], and there ought to be a national
-[[Authority|authority]] superior to them and keeping them in order.”
+of the State, especially in [[settings/england|England]], and there ought to be a national
+[[concepts/authority|authority]] superior to them and keeping them in order.”
 
 A great many schemes have lately been on all sides proposed to
-establish such a superior [[Authority|authority]]. Thus, we have in [[England]] a very
+establish such a superior [[concepts/authority|authority]]. Thus, we have in [[settings/england|England]] a very
 powerful movement in favour of what is called the “Douglas Scheme
 of Credit,” and of course the Socialists, with their ideas of State
 control of everything, would also put an end to the private power of
-the banking system. Then there are those who want to have a strong [[King]]
+the banking system. Then there are those who want to have a strong [[archetypes/king|King]]
 who would be able to override any lesser power in the State, including
 the bankers. But the points to seize in understanding the political
-economy of our [[Time|time]] are those I have just been describing to you: what
+economy of our [[motifs/time|time]] are those I have just been describing to you: what
 the banking system is, how it arose, how unnaturally powerful it has
 become, and why a universal revolt is arising against it.
 
@@ -4096,9 +4096,9 @@ unproductive purpose of waging a war. It has to get a lot of metal for
 its munitions and guns, and quantities of food to feed the soldiers,
 and coal to transport them. Now there are two ways in which a state
 gets these. The first is to get the whole amount, as it is needed,
-directly from the people, by a very heavy tax levied at the [[Time|time]]. That
+directly from the people, by a very heavy tax levied at the [[motifs/time|time]]. That
 was what was done for hundreds of years before the second method was
-attempted. The [[King|king]] of a country, wishing to wage war, would ask his
+attempted. The [[archetypes/king|king]] of a country, wishing to wage war, would ask his
 subjects for contributions, and he could not wage war upon a scale more
 than these contributions would meet.
 
@@ -4111,20 +4111,20 @@ about one-tenth of their produce. Suddenly it finds itself involved in
 a much higher expenditure, amounting to, say, half the produce of the
 country. If it asked for half the produce right away as a tax people
 might refuse to pay it, or it might make the policy of the State--the
-war, for instance, which the [[government|Government]] wanted to wage--so unpopular
+war, for instance, which the Government wanted to wage--so unpopular
 that the State could not pursue that policy or wage that war. So the
-[[government|Government]] had recourse to borrowing from the citizens, promising to
+Government had recourse to borrowing from the citizens, promising to
 pay, to those who lent, interest in proportion to what they borrowed,
-as [[Well|well]] as the capital itself. Thus they would take in taxation for
+as [[motifs/well|well]] as the capital itself. Thus they would take in taxation for
 a war money from a farmer equivalent to ten loads of wheat; but they
 would also borrow from him one hundred loads of wheat, promising to
 give him as interest five loads of wheat every year for any number of
 years until they should ultimately pay back the whole hundred loads as
-[[Well|well]].
+[[motifs/well|well]].
 
 When these national loans began the Governments honestly intended
 to pay back what they borrowed. But the method was so fatally easy
-that, as [[Time|time]] went on, the debt piled up and up until there could be
+that, as [[motifs/time|time]] went on, the debt piled up and up until there could be
 no question of repaying it: all the State could do was to pay the
 interest out of taxation. It remained indebted to private rich men for
 the principal, that is, the whole original sum, and meanwhile, through
@@ -4137,14 +4137,14 @@ in order to provide interest for the rich lenders. Latterly these
 burdens of national debt have become overwhelming, and at the present
 moment about a twelfth of everything that English people produce is
 taken from them and handed over as interest to the comparatively few
-wealthy residents in [[England]] and abroad who lent great sums to the
-[[government|Government]] during the war.
+wealthy residents in [[settings/england|England]] and abroad who lent great sums to the
+Government during the war.
 
-It is true that whenever a loan is raised the [[government|Government]] provides not
+It is true that whenever a loan is raised the Government provides not
 only interest but what is called a “sinking fund”--that is, an extra
 amount of taxation every year which is dedicated to paying back the
 whole of the loan slowly. But long before a loan is paid off some new
-occasion arises compelling the [[government|Government]] to borrow again on a large
+occasion arises compelling the Government to borrow again on a large
 scale, and the total debt perpetually increases.
 
 The result is that all the great modern European nations are now
@@ -4156,16 +4156,16 @@ a very different value. They have borrowed for a war, say, £1,000,
 representing 100 tons of wheat. Then they debase the currency, so that
 a sum still called £1,000 will only buy 20 tons of wheat, and in this
 way they can pretend to pay the lender back, although they are really
-cheating him of four-fifths of what he lent. Two countries, [[Germany]]
-and [[Russia]], have pushed this so far that the lenders are now not
-really paid anything at all. A man who lent the German [[government|Government]], for
+cheating him of four-fifths of what he lent. Two countries, [[settings/germany|Germany]]
+and [[settings/russia|Russia]], have pushed this so far that the lenders are now not
+really paid anything at all. A man who lent the German Government, for
 carrying on the war, money which during the war would have bought a
 million tons of wheat, is now (October, 1923) paid back in money called
 by the same name but able only to purchase a tenth of a ton--which is
 the same as saying that he is not paid back at all.
 
 Of all European countries that fought in the war our own has been the
-most honest in this matter, but even in [[England]] a man who lent the
+most honest in this matter, but even in [[settings/england|England]] a man who lent the
 equivalent of 1,000 sheep, say, and who was promised interest at the
 rate of 50 sheep a year, is only getting 25 sheep a year on account of
 the change in the value of money.
@@ -4176,10 +4176,10 @@ people. It involves taxing and impoverishing one set of citizens in
 order to pay interest to and enrich another set. But the country as a
 whole is no poorer. An external loan is borrowed from foreigners, and
 the interest on it is dead loss to the country. Also, it cannot be paid
-in debased currency. A [[government]] can cheat its own nationals by paying
+in debased currency. A government can cheat its own nationals by paying
 them in false money. But it has to pay foreign lenders in real money. A
-foreign loan is real. It must be (as a rule) paid in gold. [[England]] thus
-pays millions a year to [[America]].
+foreign loan is real. It must be (as a rule) paid in gold. [[settings/england|England]] thus
+pays millions a year to [[settings/america|America]].
 
 Now from State loans let us turn to State taxation, which has
 to-day for its most permanent object the payment of interest on
@@ -4202,14 +4202,14 @@ on to the person who consumes it, by an addition to the price of the
 article. Thus, when you buy a pound of tea or a bottle of wine you are
 paying indirect taxation. The price which you paid for the tea is so
 much for the real value of the tea and so much more (though you do not
-feel or know it at the [[Time|time]]) which has been paid on the tea as it came
-into [[England]] at the ports. The brewers who make beer have got to pay
-the [[government|Government]] so much for every gallon they make, and this is passed
+feel or know it at the [[motifs/time|time]]) which has been paid on the tea as it came
+into [[settings/england|England]] at the ports. The brewers who make beer have got to pay
+the Government so much for every gallon they make, and this is passed
 on to the people who buy the beer by an extra amount put on to the
 price.
 
 The wisest men who have discussed how taxes should be levied laid
-down four rules which, unfortunately, no [[government|Government]] has kept to as it
+down four rules which, unfortunately, no Government has kept to as it
 should. It is worth while knowing those rules, because they are a guide
 to what good taxation should be.
 
@@ -4231,11 +4231,11 @@ see that these bridgemen do their duty and do not cheat. If I tried to
 levy a tax of this kind on a great many bridges that are not much used
 the cost of collecting would be very high compared with the revenue
 produced. But if I put a tax on every cheque issued by a bank, that
-tax is collected with hardly any expense. All the [[government|Government]] has to do
+tax is collected with hardly any expense. All the Government has to do
 is to say that no cheque will be valid unless it carries a stamp. The
 banks stamp all their cheques with this stamp, and when they sell a
 cheque book to a customer they take the value of the stamps from him.
-All the [[government|Government]] has to do is to find out the number of cheque books
+All the Government has to do is to find out the number of cheque books
 issued, and ask for the money from the banks.
 
 3. Taxes are better in proportion as they fall on unnecessary things
@@ -4255,7 +4255,7 @@ country, because the amount of taxes required is so large that unless
 one taxes the necessities one will not get enough money for the
 requirements of the State: thus tea and sugar, beer and tobacco, all
 of them necessities of the poorest people, are enormously taxed. Our
-poor people in [[England]] are much more heavily taxed than any people in
+poor people in [[settings/england|England]] are much more heavily taxed than any people in
 the world.
 
 4. Taxes should fall proportionately to the wealth of the taxed, that
@@ -4274,21 +4274,21 @@ heavy taxation has destroyed so many States.
 5. The last rule about taxation is that it should be certain; and
 this means that the State should be certain of getting what it ought to
 get, and that the people who pay should know what they have to pay and
-not be left in [[Doubt|doubt]] and anxiety.
+not be left in [[concepts/doubt|doubt]] and anxiety.
 
 For instance: the tax on tobacco in this country is a certain tax. It
 is levied on a comparatively small number of ships’ cargoes which enter
-the country with tobacco, because we do not grow tobacco in [[England]],
+the country with tobacco, because we do not grow tobacco in [[settings/england|England]],
 and the sum which the importers pay is automatically passed on to the
 purchasers. The State knows by experience how much tobacco the people
 will buy in the country in the year, and the people who buy tobacco
 know what they mean to spend, and can, if they choose, ascertain how
-much of this goes in taxation. But the same tax on tobacco in [[France]]
+much of this goes in taxation. But the same tax on tobacco in [[settings/france|France]]
 is not a certain tax, because the French grow a lot of their own
 tobacco--in fact, most of it. The people who grow tobacco naturally try
-to hide the total amount of their crop from the [[government|Government]] inspectors,
+to hide the total amount of their crop from the Government inspectors,
 and a great number of these inspectors have to be going about the whole
-[[Time|time]] actually counting each leaf on each plant and rummaging in the
+[[motifs/time|time]] actually counting each leaf on each plant and rummaging in the
 bins to see that none is gone.
 
 An example of a most uncertain and unjust tax for the taxpayer in our
@@ -4297,7 +4297,7 @@ unfixed people from hiding their profits or from concealing from the
 tax collectors amounts which they have earned. Also the honest citizen
 with an established and known position can be bled to the full, while
 the rogue and adventurer, the speculator and dealer escapes. But it
-is a certain tax from the point of view of the [[government|Government]], because
+is a certain tax from the point of view of the Government, because
 they know on the average what a penny on the Income Tax will produce
 one year with another, and are not concerned with justice but with a
 calculable revenue.
@@ -4306,7 +4306,7 @@ Before we leave this discussion it is worth while mentioning an odd
 idea which a few very earnest and active people have got hold of,
 called the “Single Tax.”
 
-It is really much more a part of the theory of [[Socialism]] than a system
+It is really much more a part of the theory of [[concepts/socialism|Socialism]] than a system
 of taxation. Still, as it has come to be called the “Single Tax” we
 will treat it under that head.
 
@@ -4355,13 +4355,13 @@ old country it is quite out of the question.
 
 THE SOCIAL (OR HISTORICAL) VALUE OF MONEY
 
-There is a special point in [[Economics]] which has been very little dealt
+There is a special point in [[concepts/economics|Economics]] which has been very little dealt
 with, or rather not properly dealt with at all, and which you will
 find interesting as a new piece of study, because it will help you to
-understand [[history]] as nothing else will: and that point is the _Social
+understand [[concepts/history|history]] as nothing else will: and that point is the _Social
 (or Historical) Value of Money_.
 
-You read how, in the past, the [[King]] of [[England]], wishing to wage a
+You read how, in the past, the [[archetypes/king|King]] of [[settings/england|England]], wishing to wage a
 great war, managed to raise, say, a hundred thousand pounds; and how
 that was thought a most enormous sum: whereas to-day, for the same
 sized army, we should need thirty times as much. You read how Henry
@@ -4376,7 +4376,7 @@ Yet here we are to-day, raising hundreds of millions yearly in
 taxation, spending thousands of millions in our wars.
 
 What is the explanation of this apparently totally different meaning of
-money in different times? It puzzles nearly everybody who reads [[history]]
+money in different times? It puzzles nearly everybody who reads [[concepts/history|history]]
 intelligently, and it wants explanation. Most attempts to explain it
 have failed, or have been very insufficient; some of them quite vague,
 as: “The value of money was very different in those days from what it
@@ -4393,35 +4393,35 @@ the problem--or have abandoned it--is that they only consider the first
 of the three. These three things are as follows:--
 
 1. The actual purchasing power of whatever is used as currency--in
-our case, for nearly the whole of European [[history]], gold: the amount
+our case, for nearly the whole of European [[concepts/history|history]], gold: the amount
 of wheat and leather and building materials and all the rest of it,
-which so much weight of gold (say an ounce) will purchase at any [[Time|time]].
+which so much weight of gold (say an ounce) will purchase at any [[motifs/time|time]].
 This varies in different periods according to the amount of gold
 present in circulation, and its efficiency in circulation. We saw how
 these were the factors of price, that is, of the purchasing power of
-money, when we spoke of money earlier in [[The Book|the book]].
+money, when we spoke of money earlier in [[motifs/the-book|the book]].
 
 2. The number of kinds of things which money can be used to buy in
 any society--or, to put it in learned words, “the number of categories
 of purchasable economic values.”
 
 3. The economic scale of the community, that is, the number of its
-citizens and the amount of its total wealth at a given [[Time|time]].
+citizens and the amount of its total wealth at a given [[motifs/time|time]].
 
 When we go into the full meaning of all these three things we shall
 see how, in combination, they make up the social value of money at any
-[[Time|time]], and why that value differs so very much between one historical
+[[motifs/time|time]], and why that value differs so very much between one historical
 period and another.
 
 1. The actual purchasing power of the currency.
 
-Given the same currency (and in Western [[Europe]] it has, for all
+Given the same currency (and in Western [[settings/europe|Europe]] it has, for all
 practical purposes, been gold for the last two thousand years), we can
 measure the purchasing value of such and such a weight of gold in any
 period by what is known as the Index Number of that period.
 
 The Index Number is a thing important to understand, because it
-comes into a great deal of modern discussion as [[Well|well]] as historical
+comes into a great deal of modern discussion as [[motifs/well|well]] as historical
 discussion; for instance: wages are nowadays largely based upon an
 Index Number.
 
@@ -4440,7 +4440,7 @@ bought--such as bread--must count more in estimating the purchasing
 power of money than a commodity of which very much less is used--such
 as tin.
 
-According to the value of each commodity used in any one period of [[Time|time]]
+According to the value of each commodity used in any one period of [[motifs/time|time]]
 (say a year) the various commodities are “weighted.” Thus you count
 bread (let us say) as twelve times more important than lead, because
 the value of the bread used in the community for one year is twelve
@@ -4499,7 +4499,7 @@ spent on bacon and twenty times the amount spent on iron.
 You add up the twenty tons of wheat, the half ton of iron and the half
 ton of bacon--half a ton of the latter because twice as much is spent
 on it as is spent on iron, and therefore though it is half the price of
-iron you must [[Double|double]] the amount, because twice as much is bought.
+iron you must [[topoi/double|double]] the amount, because twice as much is bought.
 
 You get 21 tons. To buy this 21 tons of stuff 3 ounces of gold were
 needed. You divide the 21 tons by 3, and you get 7 tons of material on
@@ -4532,29 +4532,29 @@ will not find it difficult to understand.
 
 The first thing, then, in finding out the social value of money at any
 historical period is to find out the purchasing value of a given weight
-of gold--say, one ounce. Supposing we are comparing the [[Time|time]] when Henry
+of gold--say, one ounce. Supposing we are comparing the [[motifs/time|time]] when Henry
 VIII. dissolved the monasteries and took their wealth (1536–9) with our
-own [[Time|time]], before the War, when our currency was still normal and in
+own [[motifs/time|time]], before the War, when our currency was still normal and in
 gold, you will find that with 100 as your base for prices in 1536–9 the
 Index Number of 1913 is, according to different calculations, somewhere
 between 2,000 and 2,400. I have gone into it myself very carefully,
-and I make it out to be at least 2,400 (though historians some [[Time|time]]
+and I make it out to be at least 2,400 (though historians some [[motifs/time|time]]
 ago, who had not gone into it very fully, used to make it lower); that
 is, where one ounce of gold would purchase the things which Englishmen
 regarded as their staple commodities in 1536, 24 ounces of gold would
 be necessary to-day.
 
 That is the first thing you have to consider when you are comparing the
-social value of money at that [[Time|time]] with the social value of money in
-our own [[Time|time]]. You multiply right away by 24. You hear, for instance,
-that a man had £100 a year paid him by the [[King]] for looking after the
+social value of money at that [[motifs/time|time]] with the social value of money in
+our own [[motifs/time|time]]. You multiply right away by 24. You hear, for instance,
+that a man had £100 a year paid him by the [[archetypes/king|King]] for looking after the
 garrison at Dover. You translate it into modern money, and say that he
 had £2,400 a year paid him in our money.
 
 Most people stop there, and that is why they get their answer to the
 problem all wrong. In reality the social value of money then was
 very much more than 24 times what it is now, and £100 a year under
-[[Henry VIII]]. meant a great deal more than what £2,400 means now.
+[[characters/henry-viii|Henry VIII]]. meant a great deal more than what £2,400 means now.
 
 In order to see how true this is we have to consider the next two
 points which I mentioned.
@@ -4564,7 +4564,7 @@ points which I mentioned.
 Suppose you put a man into a little primitive place like Andorra (which
 is a tiny independent state shut off from the world in a valley of the
 Pyrenees), and he is paid there £1,000 a year. He cannot live in a
-[[house]] with more than a small rental, because there are no big houses
+house with more than a small rental, because there are no big houses
 to be had. Everybody lives in simple, little houses. He cannot spend
 his money on many things. There are no roads, no use for a motor car;
 no railways, so he cannot spend money on railway fares; no theatres
@@ -4573,44 +4573,44 @@ every side. He can buy bread and meat, and wine and clothing, and very
 little else--for there is nothing else to be bought. In other words,
 the number of sets of things (that is what the word “categories”
 means--“sets of things”) on which he can spend money is a great deal
-less than what it would be in [[London]]. A man with £1,000 a year in
-[[London]] and a [[Family|family]] to keep is, of course, very much better off than a
+less than what it would be in [[settings/london|London]]. A man with £1,000 a year in
+[[settings/london|London]] and a [[concepts/family|family]] to keep is, of course, very much better off than a
 labouring man, but still he is not rich, as rich people use the term.
-He will live in a [[house]] for which he must pay perhaps £200 a year,
+He will live in a house for which he must pay perhaps £200 a year,
 counting rent and taxes. Then he will--he usually must--travel, and
 that will cost him perhaps £50 a year. Then his friends will expect
-to meet him and he must have them at his [[house]], and he will have to
+to meet him and he must have them at his house, and he will have to
 spend a good deal in postage and telegraphing--and so on. The man in
 Andorra with £1,000 a year simply would not know what to do with it. He
-would be so “[[Well|well]] off” that he would have a very large surplus--more
+would be so “[[motifs/well|well]] off” that he would have a very large surplus--more
 than half--to give away, or to help other people with, or to save and
 invest. But exactly the same sort of man, with the same ideas and
-bringing-up and necessities, put down in [[London]] would certainly not be
+bringing-up and necessities, put down in [[settings/london|London]] would certainly not be
 able to save a penny of his £1,000 a year.
 
 So we see that the social value of £1,000 a year in Andorra is very
-different from the social value of the same sum in [[London]]. Some people
+different from the social value of the same sum in [[settings/london|London]]. Some people
 might be inclined to laugh at this difference, and to say: “Oh,
-yes! but the man in [[London]] could, if he liked, save, simply by not
+yes! but the man in [[settings/london|London]] could, if he liked, save, simply by not
 spending on those various categories, as you call them.” Yes; he as an
 individual might choose to live an odd life of his own and not do what
 other people do. But Society as a whole--that is, all the community
-round him--in [[London]] is, as a fact, spending upon those various, very
+round him--in [[settings/london|London]] is, as a fact, spending upon those various, very
 numerous, categories, while in Andorra he does not, for he cannot,
 spend upon them; they are not there to be purchased. Therefore it is
 true that the social value of the same sum, with the same index
-number, is on the average very much higher in Andorra than in [[London]].
+number, is on the average very much higher in Andorra than in [[settings/london|London]].
 
 You cannot give this difference precisely in figures as you can an
 index number, because nobody can precisely calculate the number of
 categories nor the respective importance of each, but the least
-knowledge of [[history]] shows you that in [[Henry VIII]].’s [[Time|time]], in 1536, the
+knowledge of [[concepts/history|history]] shows you that in [[characters/henry-viii|Henry VIII]].’s [[motifs/time|time]], in 1536, the
 number of categories was very much smaller than it is to-day. So the
-man to whom [[Henry VIII]]. paid £100 a year as salary for looking after
+man to whom [[characters/henry-viii|Henry VIII]]. paid £100 a year as salary for looking after
 one of his castles, though the purchasing value of his income--the
 amount of rye or pork or what not that he could buy with it--was
 what we should call to-day £2,400 a year, had a much higher income
-relatively to the people of the [[Time|time]] than has a man with £2,400 a
+relatively to the people of the [[motifs/time|time]] than has a man with £2,400 a
 year to-day. He counted much more than a man to-day counts who has five
 thousand a year.
 
@@ -4621,32 +4621,32 @@ have seen, and we must next turn to that.
 
 The third factor in the making up of the social value of money is the
 relation of any sum to the total wealth of the whole community. That of
-course depends upon two things: the average of wealth of each [[Family|family]] in
+course depends upon two things: the average of wealth of each [[concepts/family|family]] in
 the community, and the number of those families.
 
 Supposing, for instance, with things at their present prices, you
 consider two communities: (1) the people of Iceland, (2) the people of
-[[Australia]]. In both countries you can get pretty much the same amount
+[[settings/australia|Australia]]. In both countries you can get pretty much the same amount
 of stuff for an ounce of gold, and though there are less categories
-of purchasable things in Iceland than in [[Australia]], yet most of the
+of purchasable things in Iceland than in [[settings/australia|Australia]], yet most of the
 things a civilised man requires can be got in Iceland--at least in the
 capital, or can be imported there by the inhabitants if they need them
 or can afford to pay for them. Both communities are of our own race
 and of much the same standard of culture and the same idea of how one
 should live. But Iceland has only four thousand families, and these
-families are poor for the most part. [[Australia]] has a million families,
+families are poor for the most part. [[settings/australia|Australia]] has a million families,
 that is, 250 times as many, and they are much richer than the families
 in Iceland on the average. There are much worse differences of rich
-and poor in [[Australia]] than there are in Iceland. There are far more
-miserable and starving people in [[Australia]] than there are in Iceland;
-but the average wealth of a [[Family|family]] in [[Australia]] is much higher than
+and poor in [[settings/australia|Australia]] than there are in Iceland. There are far more
+miserable and starving people in [[settings/australia|Australia]] than there are in Iceland;
+but the average wealth of a [[concepts/family|family]] in [[settings/australia|Australia]] is much higher than
 that in Iceland.
 
-Now suppose that the [[government|Government]] of Iceland were to want to build a
+Now suppose that the Government of Iceland were to want to build a
 new harbour for the capital, which is on the sea, and in order to get
 the money were either to confiscate the wealth of certain rich people
 or to tax all the people--supposing it wanted, for instance, £400,000
-in order to complete the work. And supposing the people of [[Australia]]
+in order to complete the work. And supposing the people of [[settings/australia|Australia]]
 similarly wanted to build a harbour and also wanted £400,000 to be
 got in the same way. The index number is the same in both places. An
 ounce of gold will roughly purchase the same amount of things in both
@@ -4654,23 +4654,23 @@ places, for the index number at any moment is much the same all over
 the white world, measured in gold, and we may imagine the categories of
 purchasable things to be much the same in both places. Yet the social
 value of the £400,000 is quite different in Iceland from what it is in
-[[Australia]]. In Iceland it means taking an average of £100 from each of
+[[settings/australia|Australia]]. In Iceland it means taking an average of £100 from each of
 the poor families--if you get it by taxation--or the confiscation of
-all the wealth of the very few rich men there may be. But in [[Australia]]
-it means no more than the taking of about 8s. from each [[Family|family]], and
-that from an average [[Family|family]] income much higher than the average [[Family|family]]
+all the wealth of the very few rich men there may be. But in [[settings/australia|Australia]]
+it means no more than the taking of about 8s. from each [[concepts/family|family]], and
+that from an average [[concepts/family|family]] income much higher than the average [[concepts/family|family]]
 income in Iceland. Under this heading the social value of £400,000
-in Iceland is enormous and in [[Australia]] is small. If Iceland tried
+in Iceland is enormous and in [[settings/australia|Australia]] is small. If Iceland tried
 to build such a harbour it could hardly do so. The economic effort
 would be very great, and if it succeeded it would fill a big place in
-the [[history]] of the [[Island|island]]. In Australian [[history]] it would pass almost
+the [[concepts/history|history]] of the [[settings/island|island]]. In Australian [[concepts/history|history]] it would pass almost
 unnoticed.
 
 Now let us add the influence of all these three points together, and we
 shall see that there is a vast difference between the social value of
-money in the [[Time|time]] of [[Henry VIII]]., when the monasteries were dissolved,
+money in the [[motifs/time|time]] of [[characters/henry-viii|Henry VIII]]., when the monasteries were dissolved,
 and the social value of the same amount of money to-day. We shall see,
-for instance, why the [[King]], taking away the annual revenues of the
+for instance, why the [[archetypes/king|King]], taking away the annual revenues of the
 Monastery of Westminster and keeping them for himself, made such a
 prodigious splash, although the actual amount in pounds, or weight of
 gold, in which the income of Westminster Abbey could then be measured
@@ -4682,47 +4682,47 @@ there was a very much smaller number of purchasable categories; that
 is, where people had a very much small number of “sets of things” upon
 which to spend money.
 
-And, lastly, you must remember that it took place in an [[England]] the
+And, lastly, you must remember that it took place in an [[settings/england|England]] the
 population of which was hardly more than a sixth--some people would
 say it was hardly more than a tenth--of to-day’s, and that population
 actually a great deal poorer on the average than the present population
-of [[England]]. It is true that there was not then the great herd of
-starving or half-starving people which we have to-day in [[England]], and
+of [[settings/england|England]]. It is true that there was not then the great herd of
+starving or half-starving people which we have to-day in [[settings/england|England]], and
 that labouring people were then much better off than they are now;
 but, on the other hand, there was nothing like the same number of
-very rich people, and therefore the average [[Family|family]] income was much
+very rich people, and therefore the average [[concepts/family|family]] income was much
 smaller. Put all that together, and it is clear what a tremendous
 business the confiscation of this one Abbey meant. It was somewhat as
-though the [[government|Government]] to-day were to confiscate one of the smaller
+though the Government to-day were to confiscate one of the smaller
 railway companies, or to take away the rentals now paid by a northern
 manufacturing town to the great landlords owning the soil, and put the
 money into its own pocket.
 
 From this example of the confiscation of the Abbey of Westminster you
-can argue to all the other expenditure of the [[Time|time]]--expenditure on
+can argue to all the other expenditure of the [[motifs/time|time]]--expenditure on
 armies and navies, and so on--and in this way you can see _how, why and
 in what degree the social value of money differs between one period and
 another_.
 
-It is most important to get this point in [[Economics]] clear in your mind
-if you are reading [[history]], because it helps to explain all manner of
+It is most important to get this point in [[concepts/economics|Economics]] clear in your mind
+if you are reading [[concepts/history|history]], because it helps to explain all manner of
 things which otherwise puzzle one in the past.
 
 USURY
 
 Usury, the last subject but one on which I am going to touch in this
 book, is one which modern people have almost entirely forgotten, and
-which you will not find mentioned in any book on [[Economics]] that I know.
-Yet its vital importance was recognised throughout all [[history]] until
+which you will not find mentioned in any book on [[concepts/economics|Economics]] that I know.
+Yet its vital importance was recognised throughout all [[concepts/history|history]] until
 quite lately, and it is already forcing itself upon modern people’s
-notice whether they like it or no. So it is as [[Well|well]] to understand it
+notice whether they like it or no. So it is as [[motifs/well|well]] to understand it
 betimes, for it is going to be discussed very widely in the near future.
 
 All codes of law and all writers on morals from the beginning of
 anything we know about human society have denounced as wrong the
 practice of Usury.
 
-They have recognised that this practice does [[Grave|grave]] harm to the State
+They have recognised that this practice does [[motifs/grave|grave]] harm to the State
 and to society as a whole, and must, therefore, as far as possible, be
 forbidden.
 
@@ -4739,25 +4739,25 @@ Usury is the taking of any interest whatever upon an UNPRODUCTIVE
 loan.
 
 A man comes to you and says: “Lend me this piece of capital which
-you possess” (for instance, a [[Ship|ship]], and stores of food with which to
-feed the sailors during the voyage of the [[Ship|ship]]). “Using this piece
+you possess” (for instance, a [[motifs/ship|ship]], and stores of food with which to
+feed the sailors during the voyage of the [[motifs/ship|ship]]). “Using this piece
 of capital to transport the surplus goods from this country over the
 sea and to bring back foreign goods which we need here I shall make a
 profit so large that I can exchange it for at least one hundred tons of
 wheat. The voyage there and back will take a year.”
 
-You naturally answer: “It is all very [[Well|well]] for you to make a profit of
-one hundred tons of wheat in one year by the use of my [[Ship|ship]] and of
-my stores of food for sailors who work the [[Ship|ship]], but what about me?
+You naturally answer: “It is all very [[motifs/well|well]] for you to make a profit of
+one hundred tons of wheat in one year by the use of my [[motifs/ship|ship]] and of
+my stores of food for sailors who work the [[motifs/ship|ship]], but what about me?
 I grant you ought to have part of this profit for yourself, as you are
-taking all the trouble. But I ought to have some, because the [[Ship|ship]]
+taking all the trouble. But I ought to have some, because the [[motifs/ship|ship]]
 and stores of food are mine; and unless I lent them to you (since you
 have none of your own) you would not be able to make that profit by
 trading of which you speak. Let us go half shares. You shall have fifty
 tons of wheat and I will take fifty, out of the total profit of one
 hundred tons.”
 
-The man who proposed to borrow your [[Ship|ship]] agrees. The bargain is
+The man who proposed to borrow your [[motifs/ship|ship]] agrees. The bargain is
 struck, and when the year is over you make a fifty tons profit of wheat
 on your capital.
 
@@ -4768,7 +4768,7 @@ no one any harm. It does not weaken the State or society, or even hurt
 any individual. There is a sheer gain due to wise exchange (which is
 equivalent to production); everybody is benefited--you that own the
 capital, the man who uses it, and all society, which benefits by the
-foreign exchange. Supposing your [[Ship|ship]] and stores of food were worth
+foreign exchange. Supposing your [[motifs/ship|ship]] and stores of food were worth
 a hundred tons of wheat, then your profit of fifty tons of wheat is
 a profit of fifty per cent., which is very high indeed. But you have
 a perfect right to it: your capital has produced a real increase of
@@ -4778,9 +4778,9 @@ right to the fifty per cent. is just as great as your moral right to
 the five per cent. No one can blame you, and you are doing no harm.
 
 Now supposing that, instead of coming to ask you for the loan of your
-[[Ship|ship]], the man came and asked you for the loan of a sum of money which
+[[motifs/ship|ship]], the man came and asked you for the loan of a sum of money which
 you happened to have by you and which would be sufficient to buy and
-stock the [[Ship|ship]]. It is clear that the transaction remains exactly the
+stock the [[motifs/ship|ship]]. It is clear that the transaction remains exactly the
 same. The loan is productive. He makes a true profit, that is, there
 is a real increase of wealth for the community, and you and he have
 a right to take your shares out of it--you because you are the owner
@@ -4790,7 +4790,7 @@ overlooking the expedition.
 These are examples of profit on a productive loan.
 
 Now suppose a man to come to you if you were a baker and say: “Lend me
-half a dozen loaves. My [[Family|family]] have no bread and I cannot see my way to
+half a dozen loaves. My [[concepts/family|family]] have no bread and I cannot see my way to
 earning anything for a day or two. But when I begin to earn I will get
 another half dozen loaves and see that you are not out of pocket.” Then
 if you were to reply: “I will not let you have half a dozen loaves on
@@ -4814,10 +4814,10 @@ be consumed unproductively, and yet were to demand interest on the
 unproductive transaction, then the wealth that was lent would soon eat
 up all the other wealth in the community until you came to a situation
 in which there was no more to take. Everyone would be ruined except
-those who lent; then these, having no more [[Blood|blood]] to suck, would die
+those who lent; then these, having no more [[motifs/blood|blood]] to suck, would die
 themselves, and society would end.
 
-As in the case of the [[Ship|ship]], it matters not in the least whether the
+As in the case of the [[motifs/ship|ship]], it matters not in the least whether the
 actual thing, the loaves of bread, are lent, or money is lent with
 which to buy them. The test is whether the loan is productive or not.
 The intention of Usury is present _when the money is lent at interest
@@ -4841,7 +4841,7 @@ community. It only represented what I got out of somebody else on a
 bargain.”
 
 In this margin of uncertainty we have only common sense to guide us,
-as in every other similar case. We know pretty [[Well|well]] in each particular
+as in every other similar case. We know pretty [[motifs/well|well]] in each particular
 example we come across whether a loan is productive of not; whether we
 are borrowing or lending for a productive purpose, or for a charitable
 or luxurious one, or for one in every way unproductive.
@@ -4862,7 +4862,7 @@ the capital wealth of the needy and eats it up to the profit of the
 lender; so that, if usury go unchecked, it must end in the absorption
 of all private property into the hands of a few money brokers.
 
-Now, these things being so, the [[Nature|nature]] of usury being pretty clear,
+Now, these things being so, the [[concepts/nature|nature]] of usury being pretty clear,
 and both the moral wrong of it and the injury it does to society being
 equally clear, how is it that the modern world for so long forgot all
 about it, and how is it that it is forcing itself upon the attention of
@@ -4870,9 +4870,9 @@ the modern world again in spite of that forgetfulness?
 
 I will answer both of those questions.
 
-The wrong and the very [[Nature|nature]] of usury came to be forgotten with the
+The wrong and the very [[concepts/nature|nature]] of usury came to be forgotten with the
 great expansion of financial dealings which arose in the middle and end
-of the seventeenth century--that is, about 250 years ago--in [[Europe]].
+of the seventeenth century--that is, about 250 years ago--in [[settings/europe|Europe]].
 In the simpler times, when commercial transactions were open and upon
 a comparatively small scale, and done between men who knew each other,
 you could pretty usually tell, as you can in private life, whether a
@@ -4893,7 +4893,7 @@ that wrong under the pretence that it was not your business to inquire.”
 
 The attitude of the law on money-lending in the old days was very much
 what it is to-day with regard to certain poisonous chemicals which may
-be used [[Well|well]] or ill. The seller of those chemicals has to ask what they
+be used [[motifs/well|well]] or ill. The seller of those chemicals has to ask what they
 are going to be used for, and is responsible if he fails to inquire.
 In the same way the old Christian law said a lender was bound to find
 out if his loan were intended for production or not. If the law had not
@@ -4954,10 +4954,10 @@ there is no increase out of which that wealth can come, the process
 must, sooner or later, come to an end. It is as though you were to
 claim a hundred bushels of apples every year from an orchard after the
 orchard had ceased to bear, or as though you were to claim a daily
-supply of [[Water|water]] from a [[spring]] which had dried up. The man who would
+supply of [[motifs/water|water]] from a [[motifs/spring|spring]] which had dried up. The man who would
 have to pay the apples would have to get them as best he could, but by
-the [[Time|time]] the claim was being made on all the orchards of the world,
-by the [[Time|time]] that usury was asking a million bushels of apples a year,
+the [[motifs/time|time]] the claim was being made on all the orchards of the world,
+by the [[motifs/time|time]] that usury was asking a million bushels of apples a year,
 though only half a million were being produced, there would be a jam.
 The interest would not be forthcoming, and the machinery for collecting
 it would stop working. Long before it actually stopped, of course,
@@ -4974,8 +4974,8 @@ of the money is changed, so that a man who has been set down to pay,
 say, a hundred sheep a year, is really only paying 50 or 30 sheep
 a year. A more drastic method is the method of “writing off” loans
 altogether--simply saying: “I simply cannot get my interest, and so I
-must stop asking for it.” That is what happens when a [[government|Government]] goes
-bankrupt, as the [[government|Government]] of [[Germany]] has done.
+must stop asking for it.” That is what happens when a Government goes
+bankrupt, as the Government of [[settings/germany|Germany]] has done.
 
 If you look at the Usury created by the Great War, you will see this
 kind of thing going on on all sides. The Governments that were fighting
@@ -4985,18 +4985,18 @@ and metal, and machinery and the rest, but the wheat was not used
 to feed workmen who were producing more wealth. It was used to feed
 soldiers who were producing no wealth, and so were the ships and the
 metal and the machinery, etc. Therefore when the individuals who had
-lent the money began collecting from the [[government|Government]] interest upon what
+lent the money began collecting from the Government interest upon what
 they had lent they were asking every year for wealth which simply was
 not there, and the Governments have got out of their promise to pay a
 usurious interest in all sorts of ways--some by repudiating, that is
 saying that they would not pay (the Russians have done that), others
-by debasing currency in various degrees. The English [[government|Government]] has cut
+by debasing currency in various degrees. The English Government has cut
 down what it promised to pay to about half, and by taxing this it has
-further reduced it to rather less than a third. The French [[government|Government]],
+further reduced it to rather less than a third. The French Government,
 by inflation and by taxation, have reduced it much more--to less than a
 fourth, or perhaps more like a sixth or an eighth.
 
-The Germans have reduced it by inflation to pretty [[Well|well]] nothing, which
+The Germans have reduced it by inflation to pretty [[motifs/well|well]] nothing, which
 is the same really as repudiating the debt altogether.
 
 So what we see in a general survey is this:--
@@ -5017,7 +5017,7 @@ by borrowing money _and promising interest upon it although the money
 was not producing any further wealth_.
 
 4. The modern world has therefore reached a limit in this process and
-the future of usurious investment is in [[Doubt|doubt]].
+the future of usurious investment is in [[concepts/doubt|doubt]].
 
 Though these conclusions are perfectly clear, it is unfortunately not
 possible to say that this or that is a way out of our difficulties;
@@ -5027,7 +5027,7 @@ It is still impersonal and money continues to be lent out at interest
 unproductively, with the recurring necessity of repaying the debt and
 failing to keep up payments which have been promised. Things will not
 get right again in this respect until society becomes as simple as it
-used to be, and we shall have to go through a pretty bad [[Time|time]] before we
+used to be, and we shall have to go through a pretty bad [[motifs/time|time]] before we
 get back to that.
 
 ECONOMIC IMAGINARIES
@@ -5044,33 +5044,33 @@ call “Economic Imaginaries.”
 An imaginary is a term taken from mathematics, and means a value which
 appears on paper but has no real existence. It would be too long and
 much too puzzling to explain what imaginaries in mathematics are, but I
-can give you a very simple example of what they are in [[Economics]]. They
+can give you a very simple example of what they are in [[concepts/economics|Economics]]. They
 mean economic values or lumps of wealth which appear on paper when you
 are making calculations, so that one would think the wealth was really
-there, but which when you go closely into their [[Nature|nature]] you find do not
+there, but which when you go closely into their [[concepts/nature|nature]] you find do not
 really exist.
 
 The first example I will give you is that of a man who, having a
 large income, gives an allowance to his son living somewhere abroad.
-Supposing a man in [[England]] has £10,000 a year, and he has put his son
-into business in [[Paris]], but because the young man has not yet learned
-his business, and is still being helped from [[Home|home]], he allows that son
+Supposing a man in [[settings/england|England]] has £10,000 a year, and he has put his son
+into business in [[settings/paris|Paris]], but because the young man has not yet learned
+his business, and is still being helped from [[motifs/home|home]], he allows that son
 £1,000 a year to spend.
 
 When the Income Tax people go round finding out what everybody has they
-put down the rich man in [[England]], quite rightly, as having £10,000
-a year, and when the value of all incomes in [[England]] is assessed,
+put down the rich man in [[settings/england|England]], quite rightly, as having £10,000
+a year, and when the value of all incomes in [[settings/england|England]] is assessed,
 i.e., when a table is drawn up showing what the total income of all
 Englishmen is, this man appears, quite properly, as having £10,000
-a year. But when the people in [[France]] make a similar assessment,
-to find out what the incomes are of all the people living in [[France]],
-the rich man’s son in [[Paris]] appears as having £1,000 a year. So when
-the assessments of [[England]] and [[France]] are added together and some
-[[government|Government]] economist is calculating what the total income of the
+a year. But when the people in [[settings/france|France]] make a similar assessment,
+to find out what the incomes are of all the people living in [[settings/france|France]],
+the rich man’s son in [[settings/paris|Paris]] appears as having £1,000 a year. So when
+the assessments of [[settings/england|England]] and [[settings/france|France]] are added together and some
+Government economist is calculating what the total income of the
 citizens of both countries may be, that £1,000 a year appears twice.
 One of these appearances is an economic imaginary. In other words, by
 the method of calculation used, £1,000 every year appears on the total
-assessment of [[England]] and also of [[France]], making £2,000 of £1,000. The
+assessment of [[settings/england|England]] and also of [[settings/france|France]], making £2,000 of £1,000. The
 extra £1,000, though appearing on paper, does not really exist at all:
 it is an “Economic Imaginary.”
 
@@ -5079,7 +5079,7 @@ overlap, or counting of the same money twice, and we may put down this
 case in general terms by saying: “Every unchecked overlap creates an
 economic imaginary to the extent of that unchecked overlap.”
 
-It looks so simple that one might say, “[[Well]], surely everybody would
+It looks so simple that one might say, “[[motifs/well|Well]], surely everybody would
 notice that!” But it is very much the other way--even in this simple
 case. The more complicated society becomes, the more payments there are
 back and forth, allowances and pensions and all sorts of arrangements
@@ -5095,21 +5095,21 @@ more the total “assessment” of the community is exaggerated.
 
 I will give you one instance, to prove this, which is very striking and
 which happened in my own experience. A man I knew gave in his income
-tax returns a few years ago. He had a secretary at [[Home|home]] to whom he paid
+tax returns a few years ago. He had a secretary at [[motifs/home|home]] to whom he paid
 a fairly large salary, and he also used a secretary in town. Their
 salaries came out of money which he had earned in business but appeared
 in his taxable general income, for he was not allowed to take it off
-as an expense. Meanwhile, both [[The Secretary|the secretary]] in the country and the
+as an expense. Meanwhile, both [[characters/the-secretary|the secretary]] in the country and the
 secretary in town were paying tax on their salaries, though they came
 out of a total income which had already paid taxes, and anyone making
-an assessment of the total income of [[England]] would certainly have
+an assessment of the total income of [[settings/england|England]] would certainly have
 written down from the official books: “Mr. Blank, so much a year; his
 secretary A--, so much a year; his secretary B--, so much a year,” and
 added up the total. Yet it is clear that the money put down to A and B
 was imaginary.
 
 I cannot tell you the thousands of ways in which this simple case of
-overlapping goes on in modern [[England]], for it would be too long to
+overlapping goes on in modern [[settings/england|England]], for it would be too long to
 explain, and I have only given you very simple instances, but you may
 be certain that the economic imaginaries of this kind form at least a
 quarter of the supposed income of the country.
@@ -5126,7 +5126,7 @@ expenditure_.
 All over the world where you have rich people spending money foolishly
 they are asked, for things that they buy, prices altogether out of
 keeping with the real value of the things. If you go into one of the
-big hotels in [[London]] or [[Paris]] and have a dinner the economic values
+big hotels in [[settings/london|London]] or [[settings/paris|Paris]] and have a dinner the economic values
 you consume are anything from a quarter to a tenth of the sum you are
 asked to pay. Thus people who buy a bottle of champagne in this sort
 of place pay from a pound to thirty shillings. The economic values
@@ -5137,11 +5137,11 @@ pay from a pound to thirty shillings for a bottle of champagne they
 are paying from eight to twelve times the real economic values which
 are destroyed in consumption. There is an extra margin of anything
 from seventeen shillings and sixpence to twenty-seven shillings and
-sixpence, which is an economic imaginary in that one case [[Alone|alone]].
+sixpence, which is an economic imaginary in that one case alone.
 And remember that this economic imaginary goes the rounds. It appears
 in the profits of the hotel-keeper, which are assessed in the total
 national income for taxation. It appears in the rent for his hotel,
-since a man will pay much more rent for a [[house]] in which he can get
+since a man will pay much more rent for a house in which he can get
 people to pay these sums than for a humbler hotel of the same size and
 of the same true economic value in bricks and mortar. It appears in the
 rates which the hotel pays to the local authorities, and which in their
@@ -5177,7 +5177,7 @@ have an enormous margin of wealth with which to do what they like, and
 the Van Dyck between them may be rushed up to £50,000.
 
 There is not a penny more of real wealth in the community than there
-was before. Yet your [[government|Government]] assessor would come down and assess the
+was before. Yet your Government assessor would come down and assess the
 community in a very different fashion from the way in which he would
 have assessed the first community. He will put down the total income at
 £1,000,000, and the houses, furniture, etc., at so much, and he will
@@ -5211,44 +5211,44 @@ to find what (in their judgment) the total yearly income of a nation
 is, they count not only the economic values attached to things consumed
 by the nation, but also services.
 
-For instance: if [[Jones]] is a good card player, the rich man [[smith|Smith]] may
-pay him £500 a year to live in his [[house]] and amuse his [[Loneliness|loneliness]] by
+For instance: if [[characters/jones|Jones]] is a good card player, the rich man Smith may
+pay him £500 a year to live in his house and amuse his [[concepts/loneliness|loneliness]] by
 perpetually playing cards with him. I knew a case of a man in South
 Wales who did exactly that. It is an extreme case, but we all of us,
 all day long, are paying money for services which do not add economic
 values to things at all, and which yet must appear in assessment.
 
 All the money I earn by writing is of this kind. Now assessment of
-these services creates an enormous [[Body|body]] of economic imaginaries, and to
+these services creates an enormous [[concepts/body|body]] of economic imaginaries, and to
 show you how they may do so I will give you an extreme and ludicrous
 case.
 
-Supposing two men, one of whom, [[smith|Smith]], has a loaf of bread, and the
-other of whom, Brown, has nothing. [[smith|Smith]] says to Brown: “If you will
-sing me a [[Song|song]] I will give you my loaf of bread.” Brown sings his [[Song|song]]
-and [[smith|Smith]] hands over the bread. A little later Brown wants to hear
-[[smith|Smith]] sing and he says to him: “If you will sing me a [[Song|song]] I will give
-you this loaf of bread.” A little later [[smith|Smith]] again wants to have a
-[[Song|song]] from Brown. Brown sings his [[Song|song]] (let us [[Hope|hope]] a new one!) and the
+Supposing two men, one of whom, Smith, has a loaf of bread, and the
+other of whom, Brown, has nothing. Smith says to Brown: “If you will
+sing me a song I will give you my loaf of bread.” Brown sings his song
+and Smith hands over the bread. A little later Brown wants to hear
+Smith sing and he says to him: “If you will sing me a song I will give
+you this loaf of bread.” A little later Smith again wants to have a
+song from Brown. Brown sings his song (let us [[concepts/hope|hope]] a new one!) and the
 loaf of bread again changes hands and so on all day.
 
 Supposing each of these transactions to be recorded in a book of
-accounts. There will appear in [[smith|Smith]]’s book: “Paid to Brown for singing
-[[songs]] two hundred loaves of bread,” and in Brown’s book: “Paid to [[smith|Smith]]
-for singing [[songs]] two hundred loaves of bread.” The official who has to
+accounts. There will appear in Smith’s book: “Paid to Brown for singing
+songs two hundred loaves of bread,” and in Brown’s book: “Paid to Smith
+for singing songs two hundred loaves of bread.” The official who has to
 assess the national income will laboriously copy these figures into his
-book and will put down: “Daily income of [[smith|Smith]], 200 loaves of bread.
+book and will put down: “Daily income of Smith, 200 loaves of bread.
 Daily income of Brown, 200 loaves of bread. Total 400 loaves of bread.”
-Yet there is only one real loaf of bread there all the [[Time|time]]! The
+Yet there is only one real loaf of bread there all the [[motifs/time|time]]! The
 other 399 are imaginary.
 
 Now with a ludicrous and extreme example of this sort you may say:
-“That is all very [[Well|well]] as a joke, but it has no bearing on real life.”
+“That is all very [[motifs/well|well]] as a joke, but it has no bearing on real life.”
 It has. That is exactly the sort of thing which is going on the whole
-[[Time|time]] in a highly-developed economic society. I go to a matinee and
+[[motifs/time|time]] in a highly-developed economic society. I go to a matinee and
 pay 10s. for a man to amuse me. He goes off himself in the evening
 and pays 10s. to hear a man sing at a concert. Next morning that man
-(I sincerely [[Hope|hope]]) buys one of my books, and a big part of the price
+(I sincerely [[concepts/hope|hope]]) buys one of my books, and a big part of the price
 is not paid for the economic values attaching to the material of it,
 but for the services of writing it, which is not a creation of wealth
 at all. The publisher pays me my royalty, and I spend part of it in
@@ -5283,8 +5283,8 @@ be kept separate from the examination of another, and when you put down
 the money spent on these things as though it represented real economic
 values you are making a false calculation.
 
-[[Well]], this is only a hint of quite a new subject in [[Economics]], which
-I have put in at the end in the [[Hope|hope]] that it may be of some value
+[[motifs/well|Well]], this is only a hint of quite a new subject in [[concepts/economics|Economics]], which
+I have put in at the end in the [[concepts/hope|hope]] that it may be of some value
 to you. Meditate upon it. As societies get more and more luxurious,
 more and more complicated, more and more “civilised” (as we call
 it), so do these economic imaginaries grow out of all proportion to
@@ -5310,45 +5310,45 @@ The Economic definition of Wealth is subtle and difficult to
 appreciate, but it is absolutely essential to our study to get it clear
 at the outset and keep it firmly in mind. It is through some muddlement
 in this original definition of wealth that nearly all mistakes in
-[[Economics]] are made.
+[[concepts/economics|Economics]] are made.
 
 First, we must be clear as to what Wealth is not.
 
 Wealth is never properly defined, for the purposes of economic study,
 by any one of the answers a person would naturally give off-hand. For
 instance, most people would say that a man’s wealth was the money he
-was worth. But that, of course, is [[Nonsense|nonsense]]; for even if there were no
-money used his possessions would still be there, and if he had a [[house]]
+was worth. But that, of course, is [[concepts/nonsense|nonsense]]; for even if there were no
+money used his possessions would still be there, and if he had a house
 and cattle and horses the mere fact that money was not being used where
 he lived would not make him any worse off.
 
 Another and better, but still a wrong, answer is: “Wealth is what a man
 possesses.”
 
-For instance, in the case of this farmer, his [[house]] and his stock and
+For instance, in the case of this farmer, his house and his stock and
 his furniture and implements are what we call his “wealth.” In ordinary
-talk that answer will do [[Well|well]] enough. But it will not do for the
-strict science of [[Economics]], for it is not accurate.
+talk that answer will do [[motifs/well|well]] enough. But it will not do for the
+strict science of [[concepts/economics|Economics]], for it is not accurate.
 
 For consider a particular case. Part of this man’s wealth is, you
-say, a certain grey [[Horse|horse]]. But if you look closely at your definition
-and make it rigidly accurate, you will find that _it is not the [[Horse|horse]]
+say, a certain grey [[motifs/horse|horse]]. But if you look closely at your definition
+and make it rigidly accurate, you will find that _it is not the [[motifs/horse|horse]]
 itself which constitutes his wealth, but something attaching to the
-horse_, some quality or circumstance which affects the [[Horse|horse]] and gives
-the [[Horse|horse]] what is called its value. It is this Value which is
-wealth, not the [[Horse|horse]]. To see how true this is consider how the value
-changes while the [[Horse|horse]] remains the same.
+horse_, some quality or circumstance which affects the [[motifs/horse|horse]] and gives
+the [[motifs/horse|horse]] what is called its value. It is this Value which is
+wealth, not the [[motifs/horse|horse]]. To see how true this is consider how the value
+changes while the [[motifs/horse|horse]] remains the same.
 
 On such and such a date any neighbour would have given the owner of
-the [[Horse|horse]] from 20 to 25 sacks of wheat for it, or, say, 10 sheep, or
-50 loads of cut wood. But suppose there comes a great [[Mortality|mortality]] among
-horses, so that very few are left. There is an eager [[Desire|desire]] to get hold
+the [[motifs/horse|horse]] from 20 to 25 sacks of wheat for it, or, say, 10 sheep, or
+50 loads of cut wood. But suppose there comes a great [[concepts/mortality|mortality]] among
+horses, so that very few are left. There is an eager [[motifs/desire|desire]] to get hold
 of those that survive in order that the work may be done on the farms.
-Then the neighbours will be willing to give the owner of the [[Horse|horse]] much
+Then the neighbours will be willing to give the owner of the [[motifs/horse|horse]] much
 more than 20 or 25 sacks of wheat for it. They may offer as much as
-50 sacks, or 20 sheep, or 100 loads of wood. Yet the [[Horse|horse]] is exactly
-the same [[Horse|horse]] it was before. The wealth of the master has increased.
-His [[Horse|horse]], as we say, is “worth more.” It is this WORTH, _that is,
+50 sacks, or 20 sheep, or 100 loads of wood. Yet the [[motifs/horse|horse]] is exactly
+the same [[motifs/horse|horse]] it was before. The wealth of the master has increased.
+His [[motifs/horse|horse]], as we say, is “worth more.” It is this WORTH, _that is,
 this ability to get other wealth in exchange, which constitutes true
 Economic Wealth_.
 
@@ -5375,38 +5375,38 @@ action of man, which values can be exchanged for other values_.
 I will explain what that sentence means.
 
 Here is a mountain country where there are few people and plenty
-of [[Water|water]] everywhere. That [[Water|water]] does not form part of the Economic
+of [[motifs/water|water]] everywhere. That [[motifs/water|water]] does not form part of the Economic
 wealth of anyone living there. Everyone is the better off for the
-[[Water|water]], but no one has wealth in it. The [[Water|water]] they have is absolutely
+[[motifs/water|water]], but no one has wealth in it. The [[motifs/water|water]] they have is absolutely
 necessary to life, but no man will give anything for it because any man
 can get it for himself. It has no value in exchange. But in a town to
-which [[Water|water]] has to be brought at great expense of effort, and where
+which [[motifs/water|water]] has to be brought at great expense of effort, and where
 the amount is limited, it acquires a value in exchange, that is, people
 cannot get it without offering something for it. That is why we say
-that in a modern town [[Water|water]] forms part of Economic Wealth, while in
+that in a modern town [[motifs/water|water]] forms part of Economic Wealth, while in
 the country it usually does not.
 
 We must carefully note that wealth thus defined is NOT the same thing
-as [[Well|well]]-being. The mixing up of these two separate things--[[Well|well]]-being
+as [[motifs/well|well]]-being. The mixing up of these two separate things--[[motifs/well|well]]-being
 and economic wealth--has given rise to half the errors in economic
-science. People confuse the word “wealth” with the idea of [[Well|well]]-being.
-They say: “Surely a man is better off with plenty of [[Water|water]] than with
-little, and therefore conditions under which he can get plenty of [[Water|water]]
+science. People confuse the word “wealth” with the idea of [[motifs/well|well]]-being.
+They say: “Surely a man is better off with plenty of [[motifs/water|water]] than with
+little, and therefore conditions under which he can get plenty of [[motifs/water|water]]
 for nothing are conditions under which he has more wealth than when
-he has to pay for it. He has more wealth when he gets the [[Water|water]] free
+he has to pay for it. He has more wealth when he gets the [[motifs/water|water]] free
 than he has when he has to pay for it.”
 
-It is not so. Economic wealth is a separate thing from [[Well|well]]-being.
-Economic wealth may [[Well|well]] be increasing though the general [[Well|well]]-being of
-the people is going down. It may increase though the general [[Well|well]]-being
+It is not so. Economic wealth is a separate thing from [[motifs/well|well]]-being.
+Economic wealth may [[motifs/well|well]] be increasing though the general [[motifs/well|well]]-being of
+the people is going down. It may increase though the general [[motifs/well|well]]-being
 of the people around it is stationary.
 
-The Science of [[Economics]] does not deal with true happiness nor even
-with [[Well|well]]-being in material things. It deals with a strictly limited
+The Science of [[concepts/economics|Economics]] does not deal with true happiness nor even
+with [[motifs/well|well]]-being in material things. It deals with a strictly limited
 field of what is called “Economic Wealth,” and if it goes outside its
 own boundaries it goes wrong. Making people as happy as possible is
-much more than [[Economics]] can pretend to. [[Economics]] cannot even tell
-you how to make people [[Well|well]]-to-do in material things. But it can tell
+much more than [[concepts/economics|Economics]] can pretend to. [[concepts/economics|Economics]] cannot even tell
+you how to make people [[motifs/well|well]]-to-do in material things. But it can tell
 you how exchangeable Wealth is produced and what happens to it; and as
 it can tell you this, it is a useful servant.
 
@@ -5414,7 +5414,7 @@ That is the second difficult point at the very beginning of our study.
 Economic Wealth consists in EXCHANGEABLE values, and nothing else.
 
 We must be as clear on this second point as we have made ourselves upon
-the first, or we shall not make any progress in [[Economics]]. They are
+the first, or we shall not make any progress in [[concepts/economics|Economics]]. They are
 both of them unfamiliar ideas, and one has to go over them many times
 before one really grasps them. But they are absolutely essential to
 this science.
@@ -5438,19 +5438,19 @@ exchange.=
 
 Che cos'è la ricchezza?
 
-La definizione economica della ricchezza è sottile e difficile da comprendere appieno, ma è assolutamente essenziale per il nostro studio che la si chiarisca fin dall’inizio e che venga tenuta sempre a mente. È proprio a causa di qualche confusione riguardo a questa definizione originale della ricchezza che avvengono quasi tutti gli errori in [[Economics|economia]].
+La definizione economica della ricchezza è sottile e difficile da comprendere appieno, ma è assolutamente essenziale per il nostro studio che la si chiarisca fin dall’inizio e che venga tenuta sempre a mente. È proprio a causa di qualche confusione riguardo a questa definizione originale della ricchezza che avvengono quasi tutti gli errori in [[concepts/economics|economia]].
 
 Prima di tutto, dobbiamo essere chiari su ciò che la ricchezza NON è.
 
-La ricchezza non viene mai definita in modo corretto, ai fini dello studio economico, da nessuna delle risposte che una persona darebbe spontaneamente. Ad esempio, la maggior parte delle persone direbbe che la ricchezza di un uomo sia l’importo di denaro che rappresenta. Ma questo, ovviamente, è [[Nonsense|assurdità]]; perché anche senza l’uso del denaro, le sue proprietà esisterebbero comunque; e se possedesse una casa, bestiame e cavalli, il semplice fatto che non si utilizzasse denaro nella sua vita quotidiana non lo renderebbe certo in condizioni peggiori.
+La ricchezza non viene mai definita in modo corretto, ai fini dello studio economico, da nessuna delle risposte che una persona darebbe spontaneamente. Ad esempio, la maggior parte delle persone direbbe che la ricchezza di un uomo sia l’importo di denaro che rappresenta. Ma questo, ovviamente, è [[concepts/nonsense|assurdità]]; perché anche senza l’uso del denaro, le sue proprietà esisterebbero comunque; e se possedesse una casa, bestiame e cavalli, il semplice fatto che non si utilizzasse denaro nella sua vita quotidiana non lo renderebbe certo in condizioni peggiori.
 
 Un’altra risposta, migliore ma comunque sbagliata, è: “La ricchezza è ciò che un uomo possiede”.
 
-Ad esempio, nel caso di questo agricoltore, la sua [[house|casa]], il suo bestiame, i suoi mobili e gli attrezzi sono ciò che chiamiamo il suo “benessere”. Nel linguaggio comune, questa definizione è più che sufficiente. Tuttavia, non basta per la rigorosa scienza dell’[[Economics|Economia]], perché non è accurata.
+Ad esempio, nel caso di questo agricoltore, la sua casa, il suo bestiame, i suoi mobili e gli attrezzi sono ciò che chiamiamo il suo “benessere”. Nel linguaggio comune, questa definizione è più che sufficiente. Tuttavia, non basta per la rigorosa scienza dell’[[concepts/economics|Economia]], perché non è accurata.
 
 Per prendere in considerazione un caso particolare: una parte della ricchezza di quest’uomo è, diciamo, un certo cavallo grigio. Ma se si esamina attentamente la propria definizione e la si rende rigorosamente precisa, si scopre che non è il cavallo stesso a costituire la sua ricchezza, ma qualcosa che è legato al cavallo: una qualche qualità o circostanza che influisce sul cavallo e gli conferisce ciò che viene chiamato valore. È questo valore, infatti, che rappresenta la ricchezza, non il cavallo stesso. Per capire quanto sia vero ciò, basta considerare come il valore cambi mentre il cavallo rimane invariato.
 
-In una data del genere, qualsiasi vicino avrebbe dato al proprietario di quel [[Horse|cavallo]] tra i 20 e i 25 sacchi di grano in cambio, oppure, per esempio, 10 pecore o 50 carichi di legna tagliata. Ma supponiamo che si verifichi una grande [[Mortality|mortalità]] tra i cavalli, così che ne rimangano pochissimi. Allora sorge un forte desiderio di procurarsi quelli sopravvissuti affinché possa continuare il lavoro nelle fattorie. In quel caso, i vicini sarebbero disposti a offrire al proprietario del [[Horse|cavallo]] molto di più: fino a 50 sacchi di grano, 20 pecore o 100 carichi di legna. Eppure il cavallo è esattamente lo stesso di prima. La ricchezza del suo proprietario, invece, è aumentata; il suo [[Horse|cavallo]], per così dire, “vale di più”. È proprio questo VALORE – cioè questa capacità di ottenere altra ricchezza in cambio – a costituire la vera e propria Ricchezza Economica.
+In una data del genere, qualsiasi vicino avrebbe dato al proprietario di quel [[motifs/horse|cavallo]] tra i 20 e i 25 sacchi di grano in cambio, oppure, per esempio, 10 pecore o 50 carichi di legna tagliata. Ma supponiamo che si verifichi una grande [[concepts/mortality|mortalità]] tra i cavalli, così che ne rimangano pochissimi. Allora sorge un forte desiderio di procurarsi quelli sopravvissuti affinché possa continuare il lavoro nelle fattorie. In quel caso, i vicini sarebbero disposti a offrire al proprietario del [[motifs/horse|cavallo]] molto di più: fino a 50 sacchi di grano, 20 pecore o 100 carichi di legna. Eppure il cavallo è esattamente lo stesso di prima. La ricchezza del suo proprietario, invece, è aumentata; il suo [[motifs/horse|cavallo]], per così dire, “vale di più”. È proprio questo VALORE – cioè questa capacità di ottenere altra ricchezza in cambio – a costituire la vera e propria Ricchezza Economica.
 
 Vi ho detto che questa idea è molto difficile da comprendere, e che troverete la parte più ardua dello studio proprio all’inizio. Non c’è modo di renderla più semplice: non ci resta che padroneggiarla completamente e familiarizzarcisi, per quanto possa essere difficile. _La ricchezza non risiede negli oggetti che possediamo, ma nei valori economici che questi oggetti hanno._
 
@@ -5462,23 +5462,23 @@ Ecco il secondo punto: Il denaro, ai fini dello studio economico, è limitato a 
 
 Spiegherò cosa significa quella frase.
 
-Ecco una regione montuosa dove ci sono poche persone e molta [[Water|acqua]] ovunque. Quell’[[Water|acqua]] non fa parte della ricchezza economica di nessuno che vi vive; tutti ne traggono beneficio, ma nessuno ne possiede realmente la proprietà. L’[[Water|acqua]] che hanno è assolutamente necessaria per la vita, ma nessuno è disposto a darne qualcosa in cambio, perché ognuno può procurarsela da solo. Non ha alcun valore nel commercio. Tuttavia, in una città dove l’[[Water|acqua]] deve essere trasportata con grandi sforzi e dove la sua quantità è limitata, acquisisce un valore di scambio: le persone non possono ottenerla senza offrire qualcosa in cambio. Ecco perché si dice che, in una città moderna, l’[[Water|acqua]] faccia parte della ricchezza economica, mentre nelle zone rurali di solito no.
+Ecco una regione montuosa dove ci sono poche persone e molta [[motifs/water|acqua]] ovunque. Quell’[[motifs/water|acqua]] non fa parte della ricchezza economica di nessuno che vi vive; tutti ne traggono beneficio, ma nessuno ne possiede realmente la proprietà. L’[[motifs/water|acqua]] che hanno è assolutamente necessaria per la vita, ma nessuno è disposto a darne qualcosa in cambio, perché ognuno può procurarsela da solo. Non ha alcun valore nel commercio. Tuttavia, in una città dove l’[[motifs/water|acqua]] deve essere trasportata con grandi sforzi e dove la sua quantità è limitata, acquisisce un valore di scambio: le persone non possono ottenerla senza offrire qualcosa in cambio. Ecco perché si dice che, in una città moderna, l’[[motifs/water|acqua]] faccia parte della ricchezza economica, mentre nelle zone rurali di solito no.
 
-Dobbiamo notare con attenzione che la ricchezza, così definita, NON è la stessa cosa del [[Well|benessere]]. La confusione tra queste due entità distinte – il benessere e la ricchezza economica – ha causato metà degli errori nella scienza economica. Le persone confondono il termine “ricchezza” con l’idea di [[Well|benessere]]. Dicono: “Certamente, una persona sta meglio quando dispone di abbondanti quantità di [[Water|acqua]] piuttosto che di poche; quindi, le condizioni in cui può ottenere acqua gratuitamente rappresentano situazioni in cui possiede più ricchezza rispetto a quando deve pagarla. Ha più ricchezza quando l’[[Water|acqua]] gli viene fornita gratuitamente, piuttosto che quando deve comprarla.”
+Dobbiamo notare con attenzione che la ricchezza, così definita, NON è la stessa cosa del [[motifs/well|benessere]]. La confusione tra queste due entità distinte – il benessere e la ricchezza economica – ha causato metà degli errori nella scienza economica. Le persone confondono il termine “ricchezza” con l’idea di [[motifs/well|benessere]]. Dicono: “Certamente, una persona sta meglio quando dispone di abbondanti quantità di [[motifs/water|acqua]] piuttosto che di poche; quindi, le condizioni in cui può ottenere acqua gratuitamente rappresentano situazioni in cui possiede più ricchezza rispetto a quando deve pagarla. Ha più ricchezza quando l’[[motifs/water|acqua]] gli viene fornita gratuitamente, piuttosto che quando deve comprarla.”
 
-Non è così. La ricchezza economica è una cosa separata dal [[Well|benessere]] delle persone. È possibile che la ricchezza economica aumenti, anche se il benessere generale della popolazione diminuisce; è anche possibile che aumenti purtroppo senza che il benessere generale delle persone circostanti subisca cambiamenti.
+Non è così. La ricchezza economica è una cosa separata dal [[motifs/well|benessere]] delle persone. È possibile che la ricchezza economica aumenti, anche se il benessere generale della popolazione diminuisce; è anche possibile che aumenti purtroppo senza che il benessere generale delle persone circostanti subisca cambiamenti.
 
-La Scienza dell’[[Economics|Economia]] non si occupa della vera felicità né tantomeno del [[Well|benessere]] materiale. Si concentra esclusivamente su un ambito strettamente limitato, quello che viene definito “Ricchezza Economica”; se si spinge al di fuori dei suoi confini, commette errori. Rendere le persone il più felici possibile è molto di più di ciò che l’[[Economics|Economia]] può realmente offrire. L’[[Economics|Economia]] non è nemmeno in grado di indicare come rendere le persone più agiate materialmente; tuttavia, può spiegare come venga prodotta la ricchezza scambievole e cosa ne accade. Proprio per questo motivo, rappresenta uno strumento utile.
+La Scienza dell’[[concepts/economics|Economia]] non si occupa della vera felicità né tantomeno del [[motifs/well|benessere]] materiale. Si concentra esclusivamente su un ambito strettamente limitato, quello che viene definito “Ricchezza Economica”; se si spinge al di fuori dei suoi confini, commette errori. Rendere le persone il più felici possibile è molto di più di ciò che l’[[concepts/economics|Economia]] può realmente offrire. L’[[concepts/economics|Economia]] non è nemmeno in grado di indicare come rendere le persone più agiate materialmente; tuttavia, può spiegare come venga prodotta la ricchezza scambievole e cosa ne accade. Proprio per questo motivo, rappresenta uno strumento utile.
 
 Questo è il secondo punto difficile all’inizio stesso del nostro studio. La ricchezza economica consiste esclusivamente in valori scambiabili, e nient’altro.
 
-Dobbiamo essere altrettanto chiari su questo secondo punto quanto lo siamo stati sul primo, altrimenti non faremo alcun progresso in [[Economics|Economia]]. Entrambi questi concetti sono nuovi e bisogna ripassarli molte volte per comprenderli veramente. Ma sono assolutamente essenziali per questa scienza.
+Dobbiamo essere altrettanto chiari su questo secondo punto quanto lo siamo stati sul primo, altrimenti non faremo alcun progresso in [[concepts/economics|Economia]]. Entrambi questi concetti sono nuovi e bisogna ripassarli molte volte per comprenderli veramente. Ma sono assolutamente essenziali per questa scienza.
 
 Riassumiamo dunque questa prima e fondamentale parte del nostro argomento, esprimendola nei termini più brevi possibili: quelle che vengono chiamate “Formule”, cioè definizioni concise ed esatte, capaci di essere imparate a memoria e ricordate per sempre.
 
 Quindi scriviamo due formule:
 
-# La ricchezza non è fatta di cose, ma dei valori economici che ad esse sono attribuiti.
+La ricchezza non è fatta di cose, ma dei valori economici che ad esse sono attribuiti.
 
 2. =Per gli scopi dello studio economico, la ricchezza significa ESCLUSIVAMENTE valori di scambio: cioè valori con i quali altri valori verranno scambiati.=
 
@@ -5493,7 +5493,7 @@ You will notice that all about you living beings are occupied in
 changing the things around them from a condition where they are less
 to a condition where they are more useful to themselves.
 
-Man is a living being, and he is doing this kind of thing all the [[Time|time]].
+Man is a living being, and he is doing this kind of thing all the [[motifs/time|time]].
 If he were not he could not live.
 
 He draws air into his lungs, taking it from a condition where it does
@@ -5510,12 +5510,12 @@ more useful to him.
 
 _Whenever a man does that he is said to be creating, and adding to,
 Human Wealth_: part of which is Economic Wealth, that is Wealth
-suitable for study under the science of [[Economics]].
+suitable for study under the science of [[concepts/economics|Economics]].
 
-Wealth, therefore, that thing the [[Nature|nature]] and growth of which we are
+Wealth, therefore, that thing the [[concepts/nature|nature]] and growth of which we are
 about to study, is, so far as man is concerned, the result of this
 process of changing things to man’s use, and it is through looking
-closely at the [[Nature|nature]] of this process that we get to understand what
+closely at the [[concepts/nature|nature]] of this process that we get to understand what
 is necessary to it, and what impedes it, and how its results are
 distributed among mankind.
 
@@ -5555,9 +5555,9 @@ foundation of the whole affair.
 
 For the sake of shortness we call all this bundle of natural forces
 (which are the very first essential to the making of wealth) “LAND.”
-This word “Land” is only a conventional term in [[Economics]], meant to
+This word “Land” is only a conventional term in [[concepts/economics|Economics]], meant to
 include a vast number of things beside the soil: things which are not
-Land at all; for instance, [[Water|water]] power and [[Wind|wind]] power, the fertility
+Land at all; for instance, [[motifs/water|water]] power and [[motifs/wind|wind]] power, the fertility
 of seed, the force of electricity, and thousands of other natural
 energies. But we must have some short convenient term for this set of
 things, and the term “Land” having become the conventional term in
@@ -5599,7 +5599,7 @@ caused in the world by people jumping to this conclusion without
 further examination.
 
 But if we look closely into the matter we shall see that Land and
-Labour [[Alone|alone]] are not sufficient to the production of wealth in any
+Labour alone are not sufficient to the production of wealth in any
 appreciable amount. The moment man begins to produce wealth in any
 special fashion and to any appreciable extent, a third element comes
 in which is as rigorously necessary as the two others; and that third
@@ -5624,7 +5624,7 @@ stock of wheat both for sowing and for eating.
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Le tre cose necessarie alla produzione della ricchezza
+Le tre cose necessarie alla produzione della ricchezza
 
 Noterete che tutti gli esseri viventi intorno a voi sono impegnati nel cambiare le cose che li circondano, passandole da uno stato in cui sono meno utili a uno stato in cui lo sono di più per loro stessi.
 
@@ -5634,7 +5634,7 @@ Inala aria nei suoi polmoni: da uno stato in cui essa non gli è di alcun aiuto,
 
 L’uomo sta costantemente modificando le cose che lo circondano, passandole da uno stato in cui sono meno utili per lui a uno stato in cui lo sono di più.
 
-_Ogni volta che un uomo fa ciò, si dice che stia creando e aggiungendo al [[Economics|Ricchezza]] umana: di cui una parte è la >Ricchezza economica, cioè quella che può essere studiata all’interno della scienza dell’[[Economics|>Economia]]._
+_Ogni volta che un uomo fa ciò, si dice che stia creando e aggiungendo al [[concepts/economics|Ricchezza]] umana: di cui una parte è la >Ricchezza economica, cioè quella che può essere studiata all’interno della scienza dell’[[concepts/economics|>Economia]]._
 
 La ricchezza, quindi, quell’entità la cui origine e sviluppo stiamo per studiare, è, per quanto riguarda l’uomo, il risultato di questo processo di trasformazione delle cose al servizio dell’uomo. È osservando attentamente la natura di questo processo che possiamo comprendere ciò che ne è necessario, ciò che lo ostacola e come i suoi risultati vengono distribuiti tra gli esseri umani.
 
@@ -5652,7 +5652,7 @@ Esistono forze naturali di cui egli approfitta e senza le quali non potrebbe col
 
 Tutte queste forze naturali sono ovviamente necessarie per lui. Anche se parliamo di come l’uomo “crei” ricchezza, in realtà non crea nulla: ciò che fa è semplicemente utilizzare e combinare determinate forze naturali di cui è a conoscenza. Ha scoperto, ad esempio, che il grano germoglierà se piantato in un certo periodo dell’anno, e che otterrà i migliori risultati preparando il terreno in un modo specifico, ecc. Queste forze naturali costituiscono la base di tutto ciò.
 
-Per ragioni di brevità, chiamiamo tutto questo insieme di forze naturali – che sono le prime e essenziali per la creazione della ricchezza – “TERRA”. La parola “Terra” è soltanto un termine convenzionale in [[Economics|Economia]], inteso a includere un numero enorme di elementi, oltre al suolo stesso: cose che in realtà non rientrano nella definizione di Terra; ad esempio, l’energia idroelettrica e quella eolica, la fertilità del terreno, la forza dell’elettricità e migliaia di altre energie naturali. Ma dobbiamo pur avere un termine breve e pratico per indicare tutto ciò; poiché “Terra” è diventato il termine convenzionale in Economia per tutte queste forze naturali, ora viene utilizzato comunemente per riferirsi a loro nel loro insieme. Il motivo, credo, sia che la terra, o il suolo, rappresenta il primo elemento naturale necessario per l’alimentazione – l’esigenza più importante dell’uomo – e il luogo da cui si attingono tutte le altre risorse naturali.
+Per ragioni di brevità, chiamiamo tutto questo insieme di forze naturali – che sono le prime e essenziali per la creazione della ricchezza – “TERRA”. La parola “Terra” è soltanto un termine convenzionale in [[concepts/economics|Economia]], inteso a includere un numero enorme di elementi, oltre al suolo stesso: cose che in realtà non rientrano nella definizione di Terra; ad esempio, l’energia idroelettrica e quella eolica, la fertilità del terreno, la forza dell’elettricità e migliaia di altre energie naturali. Ma dobbiamo pur avere un termine breve e pratico per indicare tutto ciò; poiché “Terra” è diventato il termine convenzionale in Economia per tutte queste forze naturali, ora viene utilizzato comunemente per riferirsi a loro nel loro insieme. Il motivo, credo, sia che la terra, o il suolo, rappresenta il primo elemento naturale necessario per l’alimentazione – l’esigenza più importante dell’uomo – e il luogo da cui si attingono tutte le altre risorse naturali.
 
 Diciamo quindi che, per la produzione di ricchezza, la prima cosa di cui si ha bisogno sono le forze naturali del mondo, ovvero la “Terra”.
 
@@ -5666,7 +5666,7 @@ Se l’agricoltore rimanesse fermo, soddisfatto delle sue conoscenze sulla ferti
 
 A prima vista sembrerebbe che questi due elementi, la Terra e il Lavoro, fossero tutto ciò di cui si aveva bisogno; e molte difficoltà sono sorte nel mondo a causa delle persone che hanno tratto questa conclusione senza ulteriori indagini.
 
-Ma se esaminiamo la questione più da vicino, vedremo che la terra e il lavoro, [[Alone|solo]] loro, non sono sufficienti per produrre ricchezza in quantità apprezzabili. Non appena l’uomo inizia a produrre ricchezza in un modo particolare e su una scala significativa, entra in gioco un terzo elemento, altrettanto necessario degli altri due; e questo terzo elemento si chiama CAPITALE.
+Ma se esaminiamo la questione più da vicino, vedremo che la terra e il lavoro, solo loro, non sono sufficienti per produrre ricchezza in quantità apprezzabili. Non appena l’uomo inizia a produrre ricchezza in un modo particolare e su una scala significativa, entra in gioco un terzo elemento, altrettanto necessario degli altri due; e questo terzo elemento si chiama CAPITALE.
 
 Vediamo cosa significa questa parola “CAPITALE”.
 
@@ -5678,7 +5678,7 @@ Ecco il vostro contadino, dotato di tutte le conoscenze necessarie e delle forze
 
 
 But that is not all. He must be sheltered from the weather; he must be
-clothed and he must have a [[house]], otherwise he would die before the
+clothed and he must have a house, otherwise he would die before the
 harvest was gathered. Again, though he might grow a very little wheat
 by putting in what seed he could with his hands into a few suitable
 places in the soil, he could not get anything like the harvest he was
@@ -5747,9 +5747,9 @@ instance, if you were to put the engine into a museum, or to keep a
 hammer in remembrance of someone and not use it, then it would not be
 capital.
 
-And this [[Truth|truth]] works the other way about. At first sight you would say,
+And this [[concepts/truth|truth]] works the other way about. At first sight you would say,
 for instance, that a diamond ring could not be capital: it is only a
-luxurious ornament. But if you use it to cut glass for [[mending]] a [[Window|window]]
+luxurious ornament. But if you use it to cut glass for mending a [[motifs/window|window]]
 it is capital for that purpose.
 
 2. The second important thing to remember about Capital is that, being
@@ -5764,7 +5764,7 @@ but if he is going on producing wheat year after year he must replace
 the wastage in his capital year after year. His stock of wheat for food
 and for seed will have disappeared in the year; so will his stock of
 hay and oats for keeping his horses. His plough will be somewhat worn
-and will need [[mending]]; and his horses, after a certain [[Time|time]], will grow
+and will need mending; and his horses, after a certain [[motifs/time|time]], will grow
 old and will have to be replaced. Therefore, if production is to be
 continuous, that is, if there are to be harvests year after year, each
 harvest must be at least enough to replace all the wastage of capital
@@ -5774,12 +5774,12 @@ which goes on during the process of production.
 always the result of saving: That is, the only way in which people
 can get Capital is by doing without some immediate enjoyment of
 goods, and putting them by to use them up in creating wealth for the
-future. This ought to be [[Self|self]]-evident; but people often forget it,
+future. This ought to be [[concepts/self|self]]-evident; but people often forget it,
 because the person who controls the capital is very often quite a
 different person from the person who really accumulated it. The owner
 of the capital is very often a person who never thinks of saving.
 Nevertheless, the saving has been done by someone in the past, and
-saving must go on the whole [[Time|time]], for if it did not the Capital could
+saving must go on the whole [[motifs/time|time]], for if it did not the Capital could
 not come into existence, and could not be maintained once it was in
 existence.
 
@@ -5789,7 +5789,7 @@ in a Steamship Company.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ma non è tutto. Deve essere protetto dal maltempo; deve essere vestito e deve disporre di una [[house|casa]], altrimenti morirebbe prima che possa raccogliere il raccolto. Inoltre, anche se potesse coltivare un po’ di grano mettendo dentro quante sementi riesce a raccogliere con le mani in alcuni posti adatti del terreno, non riuscirebbe comunque a ottenere un raccolto paragonabile a quello per cui lavora, se non disponesse di attrezzi speciali. Deve preparare il terreno con un aratro; quindi deve avere un aratro, e deve anche avere cavalli per tirarlo; inoltre, quei cavalli devono essere mantenuti in vita mentre lavorano, fino al prossimo raccolto; quindi deve disporre di una scorta di avena per nutrirli.
+Ma non è tutto. Deve essere protetto dal maltempo; deve essere vestito e deve disporre di una casa, altrimenti morirebbe prima che possa raccogliere il raccolto. Inoltre, anche se potesse coltivare un po’ di grano mettendo dentro quante sementi riesce a raccogliere con le mani in alcuni posti adatti del terreno, non riuscirebbe comunque a ottenere un raccolto paragonabile a quello per cui lavora, se non disponesse di attrezzi speciali. Deve preparare il terreno con un aratro; quindi deve avere un aratro, e deve anche avere cavalli per tirarlo; inoltre, quei cavalli devono essere mantenuti in vita mentre lavorano, fino al prossimo raccolto; quindi deve disporre di una scorta di avena per nutrirli.
 
 Tutto ciò significa un'accumulazione di ricchezza piuttosto considerevole prima che si possa aspettarsi un buon raccolto: la ricchezza legata a vestiti, case, cibo, aratri, cavalli, per un intero anno.
 
@@ -5807,7 +5807,7 @@ Ci sono tre cose importanti da ricordare riguardo a “Capital”.
 
 Ma queste cose di per sé non sono capitale; infatti, se non le utilizziamo per la produzione di ricchezza futura, cessano di essere considerate capitale. Ad esempio, se mettessimo un motore in un museo, o tenessimo un martello come ricordo di qualcuno senza usarlo, allora non sarebbero più considerati elementi di capitale.
 
-E questa [[Truth|verità]] funziona anche al contrario. A prima vista si potrebbe pensare, ad esempio, che un anello di diamanti non possa essere considerato “essenziale”: è soltanto un ornamento lussuoso. Ma se lo si utilizza per tagliare il vetro al fine di [[mending|riparare]] una [[Window|finestra]], allora diventa essenziale per quel scopo.
+E questa [[concepts/truth|verità]] funziona anche al contrario. A prima vista si potrebbe pensare, ad esempio, che un anello di diamanti non possa essere considerato “essenziale”: è soltanto un ornamento lussuoso. Ma se lo si utilizza per tagliare il vetro al fine di riparare una [[motifs/window|finestra]], allora diventa essenziale per quel scopo.
 
 2. La seconda cosa importante da ricordare riguardo al Capitale è che, essendo una forma di Ricchezza, anch’esso viene infine consumato, proprio come tutte le altre forme di Ricchezza. Il Capitale viene consumato nel processo stesso di utilizzo per produrre ulteriore Ricchezza; e poiché viene consumato, deve essere rimpiazzato, altrimenti il processo di produzione si interromperebbe. Prendiamo ad esempio l’agricoltore di cui abbiamo parlato poco fa: doveva iniziare con un certo quantitativo di Capitale – cavalli, aratro, riserve di grano e avena, ecc. – e solo utilizzando questo Capitale poteva raccogliere 100 sacchi di grano alla fine dell’anno; ma se continua a produrre grano anno dopo anno, deve rimpiazzare annualmente quella parte di Capitale che viene consumata nel processo stesso di produzione. Le sue riserve di cibo e semi scompariranno nel corso dell’anno, così come le riserve di fieno e avena necessarie per mantenere i cavalli. Il suo aratro si consumerà gradualmente e avrà bisogno di riparazioni; i suoi cavalli, dopo un certo periodo, invecchieranno e dovranno essere sostituiti. Pertanto, affinché la produzione possa proseguire senza interruzioni, cioè affinché ci siano raccolti anno dopo anno, ogni raccolto deve essere sufficiente a rimpiazzare almeno tutta quella parte di Capitale che viene consumata durante il processo produttivo.
 
@@ -5828,14 +5828,14 @@ so doing.
 All this capital has been saved by someone. Not by the man himself; he
 has merely inherited the wealth--but by someone.
 
-Someone at some [[Time|time]], his father or whoever first got the capital
+Someone at some [[motifs/time|time]], his father or whoever first got the capital
 together, must have forgone immediate enjoyment and put by wealth for
 future production, or the capital could not have come into existence.
 Thus, if the first accumulator of the capital had used his wealth for
 the purchase of a yacht in which to travel for his amusement, the
 labour and natural forces used in the production of that yacht would
 have made wealth consumed in immediate enjoyment, and it would not have
-been used for future production as is a cargo [[Ship|ship]].
+been used for future production as is a cargo [[motifs/ship|ship]].
 
 In the same way this capital, once it has come into existence in the
 shape of cargo ships and stocks of coal and the rest, would soon
@@ -5887,7 +5887,7 @@ Ora riassumiamo, con alcune formule, ciò che abbiamo imparato finora.
 
 1. =Per la produzione di ricchezza sono necessarie tre cose: (a) le forze naturali, (b) l’energia umana e (c) un accumulo di ricchezze prodotto in passato e utilizzato nella produzione futura.=
 
-# 2. Per brevità, questi tre vengono chiamati: (a) Terra, (b) Lavoro, (c) Capitale.
+2. Per brevità, questi tre vengono chiamati: (a) Terra, (b) Lavoro, (c) Capitale.
 
 3. L’ultimo elemento, quello maiuscolo, (a) dipende dallo scopo intenzionale dell’utente nel suo utilizzo, (b) viene consumato durante il processo di produzione e (c) rappresenta sempre il risultato di un’operazione di salvataggio.
 
@@ -5922,19 +5922,19 @@ first economic value begins to attach to it. Next, further labour,
 capital and natural forces are applied to the task of hewing the coal
 out and raising it to the surface. This means that yet more economic
 values are attached to the ton of coal. These we express by saying that
-the ton of coal at the [[Bottom|bottom]] of the mine, just hewed out, is worth so
+the ton of coal at the [[characters/bottom|bottom]] of the mine, just hewed out, is worth so
 much--say 15/-; and later at the pit head is worth so much more--say
 £1. But the process of production of wealth is not yet completed. The
-coal is needed to warm you in your [[house]], and your [[house]] is a long way
-from the pit head. It must be taken from the pit head to your [[house]],
+coal is needed to warm you in your house, and your house is a long way
+from the pit head. It must be taken from the pit head to your house,
 and for this transport further labour, natural forces and capital must
 be used, and these add yet another economic value to the coal.
 
 We express this by saying that the ton of coal delivered (that is, at
-your [[house]]) is worth not £1, which it was at the pit head, but £1 10s.;
+your house) is worth not £1, which it was at the pit head, but £1 10s.;
 and in this example we see that transport is as much a part of the
 production of wealth as other work. We also see a further example of
-the [[Truth|truth]] originally stated that wealth does not consist in the object
+the [[concepts/truth|truth]] originally stated that wealth does not consist in the object
 itself but in the values attached to it. The ton of coal is there in
 your cellar exactly the same (except that it is broken up) as it was
 when it lay a thousand feet under the earth with no way of getting
@@ -5948,22 +5948,22 @@ process of production until the process of consumption begins.
 Here is another case which shows how the process of production will add
 values to a thing without necessarily changing the thing itself.
 
-Suppose an [[Island|island]] where there is a lot of salt in mines near the
+Suppose an [[settings/island|island]] where there is a lot of salt in mines near the
 surface, but with very poor pasture and very little of it; most of the
-soil barren and the climate bad. On the main-land, a day’s [[Journey|journey]] from
-the [[Island|island]], there is good soil and pasture and a good climate, but
+soil barren and the climate bad. On the main-land, a day’s [[motifs/journey|journey]] from
+the [[settings/island|island]], there is good soil and pasture and a good climate, but
 there is no salt. Salt is a prime necessity of life, and it comes into
 a lot of things besides necessaries. To the people of the main land,
 therefore, salt, which they lack, is of high value. To the people of
-the [[Island|island]] it is of low value, for they can get as much of it as they
+the [[settings/island|island]] it is of low value, for they can get as much of it as they
 want, with very little trouble. Meanwhile, meat is of very high value
-to the people of the [[Island|island]], who can grow little of it on their own
+to the people of the [[settings/island|island]], who can grow little of it on their own
 soil, while it is of much less value to the people of the main-land,
 who have plenty of it through their good pastures and climate. Here we
-have, let us say, 100 tons of salt in the [[Island|island]] and 100 tons of meat
-on the main-land. A boat takes the 100 tons of salt from the [[Island|island]]
+have, let us say, 100 tons of salt in the [[settings/island|island]] and 100 tons of meat
+on the main-land. A boat takes the 100 tons of salt from the [[settings/island|island]]
 to the main-land and brings back the meat from the main-land to the
-[[Island|island]]. Here wealth has been created on both sides, although no change
+[[settings/island|island]]. Here wealth has been created on both sides, although no change
 has taken place in the articles themselves except a change in position.
 Both parties, the islanders and the main-land people, are wealthier
 through the transaction, and this is a case where exchange is a
@@ -5982,7 +5982,7 @@ of the wheat and its culture and its harvesting and grinding, and the
 working of the flour into dough, and the baking, and created by every
 piece of transport in the process, the carting of the sheaf into the
 rick, the carting thrashed wheat to the mill, the taking of the flour
-to the baker, the taking of the baked loaf to your [[house]], and even the
+to the baker, the taking of the baked loaf to your house, and even the
 bringing of the loaf from the larder to your table. Every one of these
 actions is part of the production of wealth.
 
@@ -5996,9 +5996,9 @@ All wealth is consumed.
 This is universally true of all wealth whatsoever, though the rate of
 consumption is very different in different cases.
 
-The purpose of [[Nature|nature]] is not the purpose of man. Man only creates
-wealth by a perpetual effort against the purpose of [[Nature|nature]], and the
-moment his effort ceases [[Nature|nature]] tends to drag back man’s creation from
+The purpose of [[concepts/nature|nature]] is not the purpose of man. Man only creates
+wealth by a perpetual effort against the purpose of [[concepts/nature|nature]], and the
+moment his effort ceases [[concepts/nature|nature]] tends to drag back man’s creation from
 a condition where it is more to a condition where it is less useful to
 himself.
 
@@ -6006,21 +6006,21 @@ For some sorts of wealth the process is very rapid, as, for instance,
 in the consumption of fuel, or in the wasting of ice on a hot day.
 Man with an expenditure of his energy and brains applied to natural
 forces, and by the use of capital, has caused ice to be present under
-conditions where [[Nature|nature]] meant there to be no ice--a hot [[Summer|summer]]’s day.
+conditions where [[concepts/nature|nature]] meant there to be no ice--a hot [[motifs/summer|summer]]’s day.
 
 He has brought it from a high, cold place far away; or he has kept it
-from the [[Winter|winter]] onwards stored in an ice [[house]] which he had to make and
+from the [[motifs/winter|winter]] onwards stored in an ice house which he had to make and
 to which he had to transport it; or he has made it with engine power.
-But the force of [[Nature|nature]] is always ready to melt the ice when man’s
+But the force of [[concepts/nature|nature]] is always ready to melt the ice when man’s
 effort ceases.
 
 The moment man’s effort ceases, deterioration, that is, _the
-consumption of the wealth present_, at once begins. And this [[Truth|truth]]
+consumption of the wealth present_, at once begins. And this [[concepts/truth|truth]]
 applies at the other end of the scale. You may make a building of
 granite, but it will not last for ever. The consumption is exceedingly
 slow, but it is there all the same. And whether the consumption takes
 place in the service of man (as when fuel is burnt on a hearth) or
-by neglect (as when a derelict [[house]] decays) it is always _economic
+by neglect (as when a derelict house decays) it is always _economic
 consumption_.
 
 We may sum up in the following Formulæ:--
@@ -6048,11 +6048,11 @@ Prendiamo, ad esempio, una tonnellata di carbone sepolta a mille piedi sotto ter
 
 Per estrarre quel carbone viene scavato un pozzo; una volta raggiunto il carbone, inizia ad attribuirsi a esso un primo valore economico. Successivamente, vengono impiegati ulteriori lavoratori, capitale e forze naturali per estrarre il carbone e portarlo in superficie. Ciò significa che al tonno di carbone vengono aggiunti altri valori economici. Per esempio, il tonno di carbone presente nella parte più profonda della miniera, appena estratto, vale tanto – diciamo 15 penny – mentre in superficie ne vale molto di più, magari 1 sterlina. Tuttavia, il processo di produzione della ricchezza non è ancora completo: il carbone serve per riscaldarsi nella propria casa, ma questa si trova lontano dalla miniera. È necessario trasportarlo fino a casa, e per questo vengono utilizzati ulteriori lavoratori, forze naturali e capitale; tutto ciò aggiunge ancora altri valori economici al carbone stesso.
 
-Lo esprimiamo dicendo che la tonnellata di carbone consegnata (cioè nella vostra [[house|>casa]]) ha un valore non di 1 sterlina, come avveniva alla miniera, ma di 1 sterlina e 10 scellini; in questo esempio vediamo che il trasporto rappresenta, quanto e altro lavoro, una parte fondamentale della produzione di ricchezza. Vediamo anche un ulteriore esempio della [[Truth|.verità]] enunciata inizialmente: la ricchezza non consiste nell’oggetto stesso, ma nei valori che ad esso sono attribuiti. La tonnellata di carbone nella vostra cantina è esattamente la stessa (tranne che ora è stata spezzettata) di quando si trovava a mille piedi sotto terra, senza alcun modo per essere recuperata. Nella vostra cantina rappresenta ricchezza; possederla significa disporre di un valore equivalente a 30 scellini, che potreste scambiare con altre cose, come il grano. Ma la ricchezza che in questo modo possedete non è il carbone stesso, bensì i valori associati ad esso. Questi valori economici vengono accumulati fin dall’inizio del processo di produzione, fino al momento in cui ha inizio il processo di consumo.
+Lo esprimiamo dicendo che la tonnellata di carbone consegnata (cioè nella vostra >casa) ha un valore non di 1 sterlina, come avveniva alla miniera, ma di 1 sterlina e 10 scellini; in questo esempio vediamo che il trasporto rappresenta, quanto e altro lavoro, una parte fondamentale della produzione di ricchezza. Vediamo anche un ulteriore esempio della [[concepts/truth|.verità]] enunciata inizialmente: la ricchezza non consiste nell’oggetto stesso, ma nei valori che ad esso sono attribuiti. La tonnellata di carbone nella vostra cantina è esattamente la stessa (tranne che ora è stata spezzettata) di quando si trovava a mille piedi sotto terra, senza alcun modo per essere recuperata. Nella vostra cantina rappresenta ricchezza; possederla significa disporre di un valore equivalente a 30 scellini, che potreste scambiare con altre cose, come il grano. Ma la ricchezza che in questo modo possedete non è il carbone stesso, bensì i valori associati ad esso. Questi valori economici vengono accumulati fin dall’inizio del processo di produzione, fino al momento in cui ha inizio il processo di consumo.
 
 Ecco un altro esempio che mostra come il processo di produzione possa aggiungere valore a qualcosa senza necessariamente modificare quella cosa stessa.
 
-Supponiamo un’[[Island|"isola]] dove nelle miniere vicino alla superficie c’è molta salgemma, ma le praterie sono molto scarse e di scarsa qualità; la maggior parte del terreno è sterile e il clima è ostile. Sulla terraferma, a una giornata di [[Journey|viaggio]] dall’[[Island|"isola]], il terreno è fertile, le praterie sono rigogliose e il clima è favorevole, ma non c’è salgemma. La salgemma è una necessità fondamentale per la vita e viene utilizzata in molti prodotti, oltre che per le esigenze essenziali. Pertanto, per la gente della terraferma, la salgemma, di cui manca, ha un grande valore; per gli abitanti dell’[[Island|"isola]], invece, ha poco valore, poiché possono ottenerla in abbondanza con poca fatica. D’altra parte, la carne ha un grande valore per gli abitanti dell’[[Island|"isola]], che riescono a produrna solo in piccole quantità sul loro terreno sterile; per la gente della terraferma, invece, la carne ha meno valore, poiché ne hanno in abbondanza grazie alle buone praterie e al clima favorevole. Supponiamo che sull’[[Island|"isola]] ci siano 100 tonnellate di salgemma e sulla terraferma 100 tonnellate di carne. Una barca trasporta le 100 tonnellate di salgemma dall’[[Island|"isola]] alla terraferma e riporta indietro la carne dalla terraferma all’[[Island|"isola]]. In questo modo, si crea ricchezza su entrambi i lati, anche se gli oggetti stessi non subiscono alcun cambiamento, se non quello della loro posizione. Entrambe le parti, gli abitanti dell’isola e quelli della terraferma, diventano più ricchi a seguito di questo scambio; in questo caso, lo scambio rappresenta effettivamente una fonte diretta di ricchezza, e anche il processo di trasporto che ne è alla base contribuisce alla creazione di ricchezza.
+Supponiamo un’[[settings/island|"isola]] dove nelle miniere vicino alla superficie c’è molta salgemma, ma le praterie sono molto scarse e di scarsa qualità; la maggior parte del terreno è sterile e il clima è ostile. Sulla terraferma, a una giornata di [[motifs/journey|viaggio]] dall’[[settings/island|"isola]], il terreno è fertile, le praterie sono rigogliose e il clima è favorevole, ma non c’è salgemma. La salgemma è una necessità fondamentale per la vita e viene utilizzata in molti prodotti, oltre che per le esigenze essenziali. Pertanto, per la gente della terraferma, la salgemma, di cui manca, ha un grande valore; per gli abitanti dell’[[settings/island|"isola]], invece, ha poco valore, poiché possono ottenerla in abbondanza con poca fatica. D’altra parte, la carne ha un grande valore per gli abitanti dell’[[settings/island|"isola]], che riescono a produrna solo in piccole quantità sul loro terreno sterile; per la gente della terraferma, invece, la carne ha meno valore, poiché ne hanno in abbondanza grazie alle buone praterie e al clima favorevole. Supponiamo che sull’[[settings/island|"isola]] ci siano 100 tonnellate di salgemma e sulla terraferma 100 tonnellate di carne. Una barca trasporta le 100 tonnellate di salgemma dall’[[settings/island|"isola]] alla terraferma e riporta indietro la carne dalla terraferma all’[[settings/island|"isola]]. In questo modo, si crea ricchezza su entrambi i lati, anche se gli oggetti stessi non subiscono alcun cambiamento, se non quello della loro posizione. Entrambe le parti, gli abitanti dell’isola e quelli della terraferma, diventano più ricchi a seguito di questo scambio; in questo caso, lo scambio rappresenta effettivamente una fonte diretta di ricchezza, e anche il processo di trasporto che ne è alla base contribuisce alla creazione di ricchezza.
 
 In senso stretto, tutto ciò che viene fatto per aumentare la utilità di un oggetto, fino al momento stesso in cui ne ha inizio il consumo, fa parte della produzione di ricchezza. Ad esempio, la ricchezza viene prodotta dal momento in cui il grano viene seminato nel terreno fino a quando il pane cotto non è pronto per essere mangiato; i valori associati a quel pane derivano da tutti i processi che hanno contribuito ad aggiungere valore al grano, a partire dal momento del suo semina. Quando si consuma un pane che costa sei penny, si stanno assumendo valori creati attraverso le fasi di semina, coltivazione, raccolta e macinazione del grano; inoltre, questi valori includono anche tutti i costi legati ai trasporti necessari per portare il pane dalla panetteria fino alla propria casa. Ogni singola fase di questo processo fa parte della produzione di ricchezza.
 
@@ -6062,13 +6062,13 @@ Tutta la ricchezza viene consumata.
 
 Questo è vero in modo universale per qualsiasi tipo di ricchezza, anche se il tasso di consumo varia molto a seconda delle circostanze.
 
-Lo scopo della [[Nature|>natura]] non è lo stesso dello scopo dell’uomo. L’uomo crea ricchezza solo attraverso uno sforzo costante e contrario allo scopo della [[Nature|natura]]; nel momento in cui tale sforzo cessa, la [[Nature|)natura]] tende a riportare le creazioni umane da uno stato in cui sono più utili per l’uomo a uno stato in cui lo sono meno.
+Lo scopo della [[concepts/nature|>natura]] non è lo stesso dello scopo dell’uomo. L’uomo crea ricchezza solo attraverso uno sforzo costante e contrario allo scopo della [[concepts/nature|natura]]; nel momento in cui tale sforzo cessa, la [[concepts/nature|)natura]] tende a riportare le creazioni umane da uno stato in cui sono più utili per l’uomo a uno stato in cui lo sono meno.
 
-Per alcuni tipi di ricchezza il processo è molto rapido; ad esempio, nel consumo di combustibili o nella dissipazione del ghiaccio in una giornata calda. L’uomo, spendendo energia e ingegno per sfruttare le forze naturali e utilizzando il capitale, è riuscito a far sì che il ghiaccio si presentasse in condizioni in cui la [[Nature|>natura]] non ne avrebbe previsto l’esistenza: in una calda giornata estiva.
+Per alcuni tipi di ricchezza il processo è molto rapido; ad esempio, nel consumo di combustibili o nella dissipazione del ghiaccio in una giornata calda. L’uomo, spendendo energia e ingegno per sfruttare le forze naturali e utilizzando il capitale, è riuscito a far sì che il ghiaccio si presentasse in condizioni in cui la [[concepts/nature|>natura]] non ne avrebbe previsto l’esistenza: in una calda giornata estiva.
 
-L’ha portato da un luogo alto e freddo, lontano da qui; oppure l’ha conservato, a partire dall’inverno, in una sorta di “casa di ghiaccio” che ha dovuto costruire e trasportare fino lì; o ancora l’ha creato utilizzando la forza dei motori. Ma la potenza della [[Nature|natura]] è sempre pronta a sciogliere il ghiaccio non appena lo sforzo umano cessa.
+L’ha portato da un luogo alto e freddo, lontano da qui; oppure l’ha conservato, a partire dall’inverno, in una sorta di “casa di ghiaccio” che ha dovuto costruire e trasportare fino lì; o ancora l’ha creato utilizzando la forza dei motori. Ma la potenza della [[concepts/nature|natura]] è sempre pronta a sciogliere il ghiaccio non appena lo sforzo umano cessa.
 
-Non appena lo sforzo umano cessa, inizia immediatamente il processo di deterioramento, ovvero la _consumazione delle risorse presenti_. E questa [[Truth|_verità]] vale anche nell’altro senso: si può costruire un edificio in granito, ma esso non durerà per sempre. La consumazione avviene lentamente, ma è comunque inevitabile. Che tale consumo avvenga al servizio dell’uomo (come quando il combustibile viene bruciato in un focolare) o a causa della negligenza (come quando una casa abbandonata si deteriora), si tratta sempre di una _consumazione economica_.
+Non appena lo sforzo umano cessa, inizia immediatamente il processo di deterioramento, ovvero la _consumazione delle risorse presenti_. E questa [[concepts/truth|_verità]] vale anche nell’altro senso: si può costruire un edificio in granito, ma esso non durerà per sempre. La consumazione avviene lentamente, ma è comunque inevitabile. Che tale consumo avvenga al servizio dell’uomo (come quando il combustibile viene bruciato in un focolare) o a causa della negligenza (come quando una casa abbandonata si deteriora), si tratta sempre di una _consumazione economica_.
 
 Possiamo riassumerlo nelle seguenti formule:–
 
@@ -6083,7 +6083,7 @@ Possiamo riassumerlo nelle seguenti formule:–
 
 THE THREE PARTS OF PRODUCED WEALTH
 
-We now come to that part of [[Economics]] which has most effect upon
+We now come to that part of [[concepts/economics|Economics]] which has most effect upon
 human society, and the understanding of which is most essential to
 sound politics. It is not a difficult point to understand. The only
 difficulty is to keep in our minds a clear distinction between what
@@ -6093,17 +6093,17 @@ distribution and use of wealth.
 
 Some people are so shocked by the fact that economic law is different
 from moral law that they try to deny economic law. Others are so
-annoyed by this lack of [[logic]] that they fall into the other error of
+annoyed by this lack of logic that they fall into the other error of
 thinking that economic law can override moral law.
 
 You have to be warned against both these errors before you begin to
 approach the subject of Rent, Profit and Subsistence. Only when we
 have worked out the principles of these three things can we come back
 again to the apparent clash between economic law and moral law, the
-understanding of which is so very important in [[England]] to-day.
+understanding of which is so very important in [[settings/england|England]] to-day.
 
 The motive of production is to satisfy human needs, and the simplest
-case of production is that of a man working for himself and his [[Family|family]]
+case of production is that of a man working for himself and his [[concepts/family|family]]
 as a settler in a new country. He cuts down wood and brings it where
 it is wanted; he builds a hut and a bridge with it; he stacks it ready
 to burn for fuel. The wealth he thus produces by his labour goes to
@@ -6111,7 +6111,7 @@ him and his, and because the labour he has to expend is what impresses
 him most about the process, he calls the wealth produced at the end of
 it: “Wealth produced by his labour.” He thinks of his labour as the
 one agent of the whole affair, and so it is the one immediate human
-agent; but, as we have seen, there are two other agents as [[Well|well]]. His
+agent; but, as we have seen, there are two other agents as [[motifs/well|well]]. His
 mere labour (that is, the use of his brain and his muscles) would not
 have produced a pennyworth of wealth, but for two other agents: Natural
 Forces (or Land) and Capital. And we shall find when we look into it
@@ -6126,7 +6126,7 @@ in all wealth produced anywhere, =and these three divisions do not
 correspond to the moral claim man has to the result of his labour=.
 They are divisions produced by the working of economic law, which is as
 blind and indifferent to right and wrong as are the ordinary forces of
-[[Nature|nature]] about us.
+[[concepts/nature|nature]] about us.
 
 These three divisions are called RENT, INTEREST (or Profit) and
 SUBSISTENCE. In order to see how these three divisions come about we
@@ -6175,7 +6175,7 @@ weather in the way of houses, which must be up to a certain standard.
 We do not tolerate their living in holes in the ground or mud huts.
 
 One way and another we have set up a certain standard of subsistence
-even for the poorest; _and every community in [[history]] has, at all
+even for the poorest; _and every community in [[concepts/history|history]] has, at all
 times, lived under this idea of a_ MINIMUM STANDARD OF SUBSISTENCE.
 This is so true that people will suffer great inconvenience, even
 to famine, as I have said, rather than give up the standard of
@@ -6183,11 +6183,11 @@ subsistence. When people are too poor to afford this least amount of
 what we think necessaries effort is made to supply them by doles or a
 poor rate, or something of that kind; but the standard is not abandoned.
 
-[[Well]], this Minimum Standard of Subsistence is the first division
+[[motifs/well|Well]], this Minimum Standard of Subsistence is the first division
 in the Wealth produced. The prosperous man, tilling his own land and
 possessed of his own capital, consumes, of course, much more than the
 bare standard of subsistence would allow. He eats more food and better
-food, and has more and better clothes and [[house]] room and fuel and the
+food, and has more and better clothes and house room and fuel and the
 rest than the mere standard of subsistence of his civilisation demands.
 Nevertheless, even in his case the standard of subsistence is there. It
 is a minimum below which, if things went wrong, he would not fall. Ask
@@ -6198,17 +6198,17 @@ not do that he would die.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Le tre parti della ricchezza prodotta
+Le tre parti della ricchezza prodotta
 
-Ora passiamo a quella parte dell’[[Economics|Economia]] che ha l’effetto più significativo sulla società umana, e la cui comprensione è essenziale per una politica saggia. Non si tratta di un concetto difficile da comprendere; l’unica difficoltà consiste nel mantenere chiara nella propria mente la distinzione tra ciò che viene definito “legge economica”, ovvero i risultati inevitabili della produzione di ricchezza, e la “legge morale”, cioè le questioni legate al giusto e allo sbagliato nella distribuzione e nell’uso della ricchezza.
+Ora passiamo a quella parte dell’[[concepts/economics|Economia]] che ha l’effetto più significativo sulla società umana, e la cui comprensione è essenziale per una politica saggia. Non si tratta di un concetto difficile da comprendere; l’unica difficoltà consiste nel mantenere chiara nella propria mente la distinzione tra ciò che viene definito “legge economica”, ovvero i risultati inevitabili della produzione di ricchezza, e la “legge morale”, cioè le questioni legate al giusto e allo sbagliato nella distribuzione e nell’uso della ricchezza.
 
-Alcune persone sono così scioccate dal fatto che il diritto economico sia diverso dal diritto morale che cercano di negare l’esistenza del diritto economico stesso. Altre, invece, sono così infastidite da questa mancanza di [[logic|logica]] che commettono l’errore opposto, ritenendo che il diritto economico possa sovrascrivere il diritto morale.
+Alcune persone sono così scioccate dal fatto che il diritto economico sia diverso dal diritto morale che cercano di negare l’esistenza del diritto economico stesso. Altre, invece, sono così infastidite da questa mancanza di logica che commettono l’errore opposto, ritenendo che il diritto economico possa sovrascrivere il diritto morale.
 
-È necessario essere avvertiti riguardo a entrambi questi errori prima di iniziare ad affrontare il tema del reddito, del profitto e della sussistenza. Solo quando avremo chiarito i principi fondamentali di queste tre cose potremo tornare a discutere del presunto conflitto tra legge economica e legge morale, la comprensione dei quali è estremamente importante oggi in [[England|Inghilterra]].
+È necessario essere avvertiti riguardo a entrambi questi errori prima di iniziare ad affrontare il tema del reddito, del profitto e della sussistenza. Solo quando avremo chiarito i principi fondamentali di queste tre cose potremo tornare a discutere del presunto conflitto tra legge economica e legge morale, la comprensione dei quali è estremamente importante oggi in [[settings/england|Inghilterra]].
 
-Il motivo della produzione è soddisfare i bisogni umani, e il caso più semplice di produzione è quello di un uomo che lavora per sé stesso e la sua [[Family|famiglia]] come colono in una nuova terra. Lui taglia la legna e la porta dove è necessaria; con essa costruisce una capanna e un ponte; la accumula anche per usarla come combustibile. La ricchezza che così produce attraverso il proprio lavoro va a lui e alla sua famiglia, e poiché è il lavoro stesso che gli sembra essere l’elemento più importante di questo processo, chiama questa ricchezza “ricchezza prodotta dal suo lavoro”. Ritiene che il proprio lavoro sia l’unico fattore coinvolto in tutto ciò; effettivamente, esso rappresenta l’unico elemento umano diretto in questo processo. Tuttavia, come abbiamo visto, esistono altri due fattori fondamentali: le Forze Naturali (o la Terra) e il Capitale. E scopriremo, analizzando più a fondo la questione, che la ricchezza prodotta da quest’uomo e considerata un’unica entità è in realtà suddivisa in tre parti, corrispondenti ciascuna ai tre fattori che contribuiscono alla sua creazione.
+Il motivo della produzione è soddisfare i bisogni umani, e il caso più semplice di produzione è quello di un uomo che lavora per sé stesso e la sua [[concepts/family|famiglia]] come colono in una nuova terra. Lui taglia la legna e la porta dove è necessaria; con essa costruisce una capanna e un ponte; la accumula anche per usarla come combustibile. La ricchezza che così produce attraverso il proprio lavoro va a lui e alla sua famiglia, e poiché è il lavoro stesso che gli sembra essere l’elemento più importante di questo processo, chiama questa ricchezza “ricchezza prodotta dal suo lavoro”. Ritiene che il proprio lavoro sia l’unico fattore coinvolto in tutto ciò; effettivamente, esso rappresenta l’unico elemento umano diretto in questo processo. Tuttavia, come abbiamo visto, esistono altri due fattori fondamentali: le Forze Naturali (o la Terra) e il Capitale. E scopriremo, analizzando più a fondo la questione, che la ricchezza prodotta da quest’uomo e considerata un’unica entità è in realtà suddivisa in tre parti, corrispondenti ciascuna ai tre fattori che contribuiscono alla sua creazione.
 
-Essendo un colono che vive da solo e possiede la propria terra e i propri strumenti, controlla tutto ciò che produce e non si rende conto delle tre divisioni presenti in ogni forma di ricchezza prodotta. Tuttavia, queste tre divisioni esistono comunque in ogni caso; inoltre, esse non corrispondono ai diritti morali che l’uomo ha sul risultato del proprio lavoro. Sono semplicemente divisioni derivanti dall’azione delle leggi economiche, le quali sono altrettanto cieche e indifferenti al bene e al male quanto le normali forze della [[Nature|>natura]] che ci circondano.
+Essendo un colono che vive da solo e possiede la propria terra e i propri strumenti, controlla tutto ciò che produce e non si rende conto delle tre divisioni presenti in ogni forma di ricchezza prodotta. Tuttavia, queste tre divisioni esistono comunque in ogni caso; inoltre, esse non corrispondono ai diritti morali che l’uomo ha sul risultato del proprio lavoro. Sono semplicemente divisioni derivanti dall’azione delle leggi economiche, le quali sono altrettanto cieche e indifferenti al bene e al male quanto le normali forze della [[concepts/nature|>natura]] che ci circondano.
 
 Queste tre divisioni sono chiamate affitto, L02 interesse (o profitto) e L03 sussistenza. Per capire come si formano queste tre divisioni, dobbiamo considerarle nell’ordine seguente: prima la sussistenza, poi l’interesse, infine l’affitto.
 
@@ -6222,9 +6222,9 @@ Ad esempio, nel nostro paese, come requisito fondamentale del nostro standard di
 
 Ancora una volta, non viviamo di cose casuali, ma di carne cotta e di un certo tipo di grano chiamato frumento. Esistono altri cereali molto più economici del frumento; tuttavia, le nostre usanze richiedono che anche i più poveri consumino frumento. Se non ce n’è abbastanza, si verifica la carestia, e la società preferisce la carestia al fatto di rinunciare a questo standard alimentare. Insistiamo inoltre affinché anche i più poveri dispongano di un certo livello di protezione dal maltempo, attraverso abitazioni che rispettino determinati standard. Non tolleriamo che vivano in buche nel terreno o in capanne di fango.
 
-In un modo o nell’altro, abbiamo stabilito uno specifico standard di sussistenza anche per i più poveri; e ogni comunità nella [[history|storia]] ha sempre vissuto secondo questa idea di un MINIMO STANDARD DI SUSTENTAZIONE. È così vero che le persone sopporteranno grandi disagi, persino la fame, piuttosto che rinunciare a questo standard di vita. Quando le persone sono troppo povere per permettersi anche solo questa minima quantità di ciò che riteniamo necessario, si fanno sforzi per fornirle aiuti economici o sussidi del genere; ma lo standard di sussistenza non viene mai abbandonato.
+In un modo o nell’altro, abbiamo stabilito uno specifico standard di sussistenza anche per i più poveri; e ogni comunità nella [[concepts/history|storia]] ha sempre vissuto secondo questa idea di un MINIMO STANDARD DI SUSTENTAZIONE. È così vero che le persone sopporteranno grandi disagi, persino la fame, piuttosto che rinunciare a questo standard di vita. Quando le persone sono troppo povere per permettersi anche solo questa minima quantità di ciò che riteniamo necessario, si fanno sforzi per fornirle aiuti economici o sussidi del genere; ma lo standard di sussistenza non viene mai abbandonato.
 
-[[Well|Beh]], questo Minimo Standard di Sussistenza rappresenta la prima fase nella produzione di ricchezza. L’uomo prospero, che coltiva la propria terra e possiede il proprio capitale, consuma naturalmente molto di più di quanto permetta semplicemente lo standard di sussistenza minimo. Mangia più cibo e di migliore qualità, possiede abiti, spazio abitativo, combustibile e tutto il resto in quantità maggiori e di qualità superiore rispetto a quanto richiesto dallo standard di sussistenza della sua civiltà. Tuttavia, anche nel suo caso esiste comunque uno standard di sussistenza: si tratta di un minimo al di sotto del quale, in caso di difficoltà, non cadrebbe mai. Chiedetegli di scendere al di sotto di quel livello e vi risponderà semplicemente che non potrebbe farlo. Cercherebbe comunque di produrre quella quantità minima di ricchezza in qualche altro modo; se ci riuscisse, bene, altrimenti morirebbe.
+[[motifs/well|Beh]], questo Minimo Standard di Sussistenza rappresenta la prima fase nella produzione di ricchezza. L’uomo prospero, che coltiva la propria terra e possiede il proprio capitale, consuma naturalmente molto di più di quanto permetta semplicemente lo standard di sussistenza minimo. Mangia più cibo e di migliore qualità, possiede abiti, spazio abitativo, combustibile e tutto il resto in quantità maggiori e di qualità superiore rispetto a quanto richiesto dallo standard di sussistenza della sua civiltà. Tuttavia, anche nel suo caso esiste comunque uno standard di sussistenza: si tratta di un minimo al di sotto del quale, in caso di difficoltà, non cadrebbe mai. Chiedetegli di scendere al di sotto di quel livello e vi risponderà semplicemente che non potrebbe farlo. Cercherebbe comunque di produrre quella quantità minima di ricchezza in qualche altro modo; se ci riuscisse, bene, altrimenti morirebbe.
 
 
 
@@ -6235,15 +6235,15 @@ This “Standard of Subsistence,” which is to be found in its various
 shapes in every civilisation, may be called “_The Worth While of
 Labour_.” Human energy would not be forthcoming, the work would not
 get done, unless at the very least the person doing the work got this
-Standard of Subsistence. In [[England]] to-day it is set for a man and
-his [[Family|family]] at something like 35s. to 40s. a week. One way and another,
+Standard of Subsistence. In [[settings/england|England]] to-day it is set for a man and
+his [[concepts/family|family]] at something like 35s. to 40s. a week. One way and another,
 counting for allowance in rent and overtime and so on, even the poorest
 labourer gets that, and if he did not get it labour would stop. Our
 civilisation would run to famine and plague rather than go below this
 minimum.
 
 Another way of putting it is this: Under the standard of subsistence
-in our civilisation in [[England]] a man must, on the average, produce
+in our civilisation in [[settings/england|England]] a man must, on the average, produce
 something like £2 worth of economic values a week, otherwise it is not
 worth while living, not worth while going on.
 
@@ -6254,7 +6254,7 @@ brains. As a fact, of course, the average production is much higher.
 But it could not fall to less than this without the production of
 wealth gradually coming to an end.
 
-It is very important to recognise this principle in [[Economics]], for it
+It is very important to recognise this principle in [[concepts/economics|Economics]], for it
 is nearly always misunderstood, and it makes a great difference in our
 judgment of social problems. You often hear people speaking as though
 the subsistence of their fellows might fall to any level so long as
@@ -6283,13 +6283,13 @@ in Economic Science as Interest on Money.
 
 We have seen that Capital cannot come into existence unless somebody
 saves. We have also seen that since it is always being consumed and
-must be replaced, the saving has got to go on all the [[Time|time]], if the
+must be replaced, the saving has got to go on all the [[motifs/time|time]], if the
 production of wealth (to which capital is necessary) is to continue.
 
 Now, as you will see in a minute, capital cannot be accumulated without
 some motive. You only accumulate capital by doing without a pleasure
 which you might have at a certain moment, and putting it off to a
-future [[Time|time]]. You go without the immediate enjoyment of your wealth in
+future [[motifs/time|time]]. You go without the immediate enjoyment of your wealth in
 order to use it for producing further wealth. That means restraint and
 sacrifice.
 
@@ -6301,24 +6301,24 @@ What happens is this: A man says: “On my present capital I can produce
 so much wealth. If I accumulate more capital I shall, in the long run,
 have a larger income. I will therefore forgo my present pleasure. I
 will add to my capital and have more income in the future through my
-present [[Self|self]]-restraint.” Or again: “If I don’t keep up my capital
+present [[concepts/self|self]]-restraint.” Or again: “If I don’t keep up my capital
 by continual saving to replace what is consumed in production I shall
 gradually get less income.”
 
-But here comes in a very important law of [[Economics]] called “_The
+But here comes in a very important law of [[concepts/economics|Economics]] called “_The
 Law of Diminishing Returns_.” After a certain point, capital as it
 accumulates, does not produce a corresponding amount of extra wealth.
 It produces some more, but not as much in proportion. For instance,
 if you till a field thoroughly with the use of so many ploughs and
 horses and so on, you will get such and such a return. If you add a
 great deal more capital in the shape of food for more labourers and
-more tillage till you treat the land as a sort of [[Garden|garden]], you produce
+more tillage till you treat the land as a sort of [[motifs/garden|garden]], you produce
 more wealth from that field; but though you may have doubled your
 capital you will not have doubled your income. You will only have added
-to it, say, half as much again. If you were to [[Double|double]] your capital
+to it, say, half as much again. If you were to [[topoi/double|double]] your capital
 again, making four times your original amount, using a lot more food
 for labourers and a lot more implements, you would again have a larger
-produce, probably, but perhaps only [[Double|double]] your original amount: Four
+produce, probably, but perhaps only [[topoi/double|double]] your original amount: Four
 times the original amount of capital, and only twice, say, the old
 income.
 
@@ -6332,7 +6332,7 @@ a small capital, perhaps 5 per cent. on a larger one; on a still larger
 one only 2½ per cent., and so on, if they apply that capital to the
 same section of natural forces and in the same manner.
 
-[[Well]], this advantage which a man gets by adding to his capital at the
+[[motifs/well|Well]], this advantage which a man gets by adding to his capital at the
 expense of present enjoyment can be measured.
 
 For instance, a man owning a farm and tilling it himself gets a
@@ -6349,13 +6349,13 @@ be saved.”
 
 <span class="qlang-split" data-lang="it"></span>
 
-Questo “Standard di Sussistenza”, che si trova sotto varie forme in ogni civiltà, può essere definito “_Il Valore del Lavoro_”. L’energia umana non verrebbe messa a disposizione e il lavoro non verrebbe svolto, se almeno la persona che lo esegue non ricevesse questo Standard di Sussistenza. Oggi in [[England|Inghilterra]], tale standard è fissato intorno ai 35–40 scellini a settimana per un uomo e la sua [[Family|>famiglia]]. In un modo o nell’altro, includendo gli sussidi per l’affitto, gli straordinari e simili, anche il lavoratore più povero riesce ad ottenere questo standard; altrimenti, il lavoro cesserebbe del tutto. La nostra civiltà preferirebbe affrontare carestie e pestilenze piuttosto che scendere al di sotto di questo minimo indispensabile.
+Questo “Standard di Sussistenza”, che si trova sotto varie forme in ogni civiltà, può essere definito “_Il Valore del Lavoro_”. L’energia umana non verrebbe messa a disposizione e il lavoro non verrebbe svolto, se almeno la persona che lo esegue non ricevesse questo Standard di Sussistenza. Oggi in [[settings/england|Inghilterra]], tale standard è fissato intorno ai 35–40 scellini a settimana per un uomo e la sua [[concepts/family|>famiglia]]. In un modo o nell’altro, includendo gli sussidi per l’affitto, gli straordinari e simili, anche il lavoratore più povero riesce ad ottenere questo standard; altrimenti, il lavoro cesserebbe del tutto. La nostra civiltà preferirebbe affrontare carestie e pestilenze piuttosto che scendere al di sotto di questo minimo indispensabile.
 
-Un altro modo per dirlo è questo: Secondo gli standard di sussistenza della nostra civiltà in [[England|Inghilterra]], un uomo deve, in media, produrre qualcosa del valore di 2 sterline in termini di valori economici a settimana; altrimenti non ha senso vivere, non ha senso continuare a esistere.
+Un altro modo per dirlo è questo: Secondo gli standard di sussistenza della nostra civiltà in [[settings/england|Inghilterra]], un uomo deve, in media, produrre qualcosa del valore di 2 sterline in termini di valori economici a settimana; altrimenti non ha senso vivere, non ha senso continuare a esistere.
 
 Dico “in media”. Molte persone, ovviamente, non producono nulla. Ma deve esserci una produzione media di quella quantità affinché la società possa funzionare, almeno in termini di lavoro, cioè di energia umana e intelligenza. In realtà, però, la produzione media è molto più alta. Ma non potrebbe scendere al di sotto di questo livello senza che la produzione di ricchezze cessasse gradualmente.
 
-È molto importante riconoscere questo principio in [[Economics|Economia]], poiché viene quasi sempre frainteso e ha un’enorme influenza sul nostro modo di giudicare i problemi sociali. Spesso si sente la gente parlare come se la sopravvivenza dei propri simili potesse scendere a qualsiasi livello, purché avessero abbastanza cibo e calore per restare in vita. Ma non è così: ogni società ha il proprio standard, e preferirebbe che le persone emigrassero o morissero piuttosto che scendere al di sotto di esso; e quel standard rappresenta la base di tutta la produzione. _Deve essere soddisfatto, altrimenti la produzione cessa._
+È molto importante riconoscere questo principio in [[concepts/economics|Economia]], poiché viene quasi sempre frainteso e ha un’enorme influenza sul nostro modo di giudicare i problemi sociali. Spesso si sente la gente parlare come se la sopravvivenza dei propri simili potesse scendere a qualsiasi livello, purché avessero abbastanza cibo e calore per restare in vita. Ma non è così: ogni società ha il proprio standard, e preferirebbe che le persone emigrassero o morissero piuttosto che scendere al di sotto di esso; e quel standard rappresenta la base di tutta la produzione. _Deve essere soddisfatto, altrimenti la produzione cessa._
 
 2. INTERESSE.
 
@@ -6365,13 +6365,13 @@ Dobbiamo fare attenzione a non confondere “interesse sul denaro”, cioè il t
 
 Abbiamo visto che il Capitale non può esistere se nessuno non risparmia. Abbiamo anche visto che, poiché viene continuamente consumato e deve essere rimpiazzato, il risparmio deve proseguire ininterrottamente, se si vuole che la produzione di ricchezza (per la quale il Capitale è necessario) continui.
 
-Ora, come vedrete tra un momento, il capitale non può essere accumulato senza alcun motivo specifico. Si accumula soltanto rinunciando a un piacere che si potrebbe provare in un determinato momento e rimandandolo a un futuro [[Time|tempo]]. Si rinuncia al godimento immediato della propria ricchezza al fine di utilizzarla per produrre ulteriore ricchezza. Ciò significa moderazione e sacrificio.
+Ora, come vedrete tra un momento, il capitale non può essere accumulato senza alcun motivo specifico. Si accumula soltanto rinunciando a un piacere che si potrebbe provare in un determinato momento e rimandandolo a un futuro [[motifs/time|tempo]]. Si rinuncia al godimento immediato della propria ricchezza al fine di utilizzarla per produrre ulteriore ricchezza. Ciò significa moderazione e sacrificio.
 
 Ma la moderazione e il sacrificio richiedono sempre un motivo. Perché un uomo, o una società, dovrebbe rinunciare a un piacere immediato se quel sacrificio non porta a benefici futuri?
 
-Ecco cosa succede: un uomo dice: “Con il capitale che ho attualmente a disposizione posso produrre tanto ricchezza. Se accumulo più capitale, a lungo andare avrò un reddito maggiore. Pertanto rinuncierò ai piaceri presenti e aumenterò il mio capitale, per ottenere in futuro un reddito più alto attraverso la mia attuale [[Self|astinenza]].” Oppure: “Se non continuo ad accumulare capitale risparmiando costantemente per sostituire ciò che viene consumato nella produzione, gradualmente avrò un reddito inferiore.”
+Ecco cosa succede: un uomo dice: “Con il capitale che ho attualmente a disposizione posso produrre tanto ricchezza. Se accumulo più capitale, a lungo andare avrò un reddito maggiore. Pertanto rinuncierò ai piaceri presenti e aumenterò il mio capitale, per ottenere in futuro un reddito più alto attraverso la mia attuale [[concepts/self|astinenza]].” Oppure: “Se non continuo ad accumulare capitale risparmiando costantemente per sostituire ciò che viene consumato nella produzione, gradualmente avrò un reddito inferiore.”
 
-Ma qui entra in gioco una legge molto importante dell’[[Economics|>Economia]], chiamata “_Legge dei Rendimenti Decrescenti_”. Dopo un certo punto, il capitale, man mano che si accumula, non produce più un aumento corrispondente della ricchezza. Produce di più, ma non in proporzione. Ad esempio, se coltivi un campo utilizzando molti aratri e cavalli, otterrai un certo rendimento. Se aggiungi ancora molto capitale, sotto forma di cibo per più lavoratori e attrezzature agricole, producirai ancora di più; ma anche se il tuo capitale è raddoppiato, il tuo reddito probabilmente non lo sarà: aumenterà soltanto della metà. Se raddoppiassi nuovamente il tuo capitale, arrivando a quattro volte l’importo iniziale, utilizzando ancora più risorse, otterresti sicuramente un rendimento maggiore, ma forse solo il doppio del reddito originale: quattro volte il capitale iniziale, e soltanto il doppio del reddito precedente.
+Ma qui entra in gioco una legge molto importante dell’[[concepts/economics|>Economia]], chiamata “_Legge dei Rendimenti Decrescenti_”. Dopo un certo punto, il capitale, man mano che si accumula, non produce più un aumento corrispondente della ricchezza. Produce di più, ma non in proporzione. Ad esempio, se coltivi un campo utilizzando molti aratri e cavalli, otterrai un certo rendimento. Se aggiungi ancora molto capitale, sotto forma di cibo per più lavoratori e attrezzature agricole, producirai ancora di più; ma anche se il tuo capitale è raddoppiato, il tuo reddito probabilmente non lo sarà: aumenterà soltanto della metà. Se raddoppiassi nuovamente il tuo capitale, arrivando a quattro volte l’importo iniziale, utilizzando ancora più risorse, otterresti sicuramente un rendimento maggiore, ma forse solo il doppio del reddito originale: quattro volte il capitale iniziale, e soltanto il doppio del reddito precedente.
 
 Quindi il processo continua; e in tutte le forme di produzione di ricchezza questa formula si applica ed è vera: “I rendimenti del capitale in aumento, purché non venga cambiato il metodo di produzione, aumentano in quantità, ma diminuiscono in proporzione rispetto al totale di capitale impiegato.”
 
@@ -6407,7 +6407,7 @@ to the capital invested.
 Now, although the 2,000 of capital invested is thus bringing him in
 a smaller proportion of income than the old 1,000 did, he thinks
 it worth while: because he is at any rate getting more income; 150
-sacks instead of only 100. But there must come a [[Time|time]] when he will no
+sacks instead of only 100. But there must come a [[motifs/time|time]] when he will no
 longer think it worth while to go on saving. Supposing he finds, for
 instance, that after taking all the trouble to accumulate and apply to
 his land capital to the value of 10,000 sacks of wheat, he gets only
@@ -6420,7 +6420,7 @@ will not take less. Rather than make less than a certain proportion
 of income to his capital he will stop saving, and spend all he has in
 immediate enjoyment.
 
-It is this obvious [[Truth|truth]] which makes the second great division in the
+It is this obvious [[concepts/truth|truth]] which makes the second great division in the
 produce of wealth. You must, as we have seen, produce enough to keep
 labour going. That is, you must produce enough to satisfy the standard
 of subsistence in your society; _but you must also produce enough
@@ -6448,7 +6448,7 @@ accumulate capital at a heavy sacrifice to himself and his subjects,
 unless it produced a future reward.
 
 If the Despot said, “This year you must do without half your usual
-amount of leisure and without half your usual amounts, pay [[Double|double]]
+amount of leisure and without half your usual amounts, pay [[topoi/double|double]]
 for your cinemas and for your beer, and all that in order to earn one
 hundredth more leisure and amusements next year,” it would be found
 intolerable.
@@ -6464,7 +6464,7 @@ down.
 (Of course, we must be careful to distinguish between the case of
 a private man increasing his investments and the general increase
 of capital as applied to an unchanging area of natural forces. John
-[[smith|Smith]] having £1,000 invested at 5 per cent. can save another £1,000
+Smith having £1,000 invested at 5 per cent. can save another £1,000
 and another and many more, and still get 5 per cent. But that is
 because he is saving and makes up for others wasting, or because
 his saving is so small a proportion of the total Capital of Society
@@ -6502,17 +6502,17 @@ Invece di valere soltanto mille sacchi, il suo capitale ora vale duemila sacchi,
 
 Ora, anche se i 2.000 di capitale investiti gli generano una percentuale di reddito inferiore rispetto ai vecchi 1.000, lui ritiene che valga la pena: perché comunque ottiene un reddito maggiore, cioè 150 sacchi invece di soltanto 100. Ma arriverà sicuramente un momento in cui non penserà più che sia vantaggioso continuare a risparmiare. Supponiamo, ad esempio, che dopo aver dedicato tanto impegno nell’accumulare capitale da investire nella sua terra – per un valore di 10.000 sacchi di grano – ottenga soltanto 200 sacchi, il che corrisponde a un rendimento annuo del 2%. In quel caso non lo riterrà sufficiente e smetterà di risparmiare. Il punto in cui smette, cioè il livello di rendimento al di sotto del quale non ritiene valga la pena continuare a risparmiare, rappresenta appunto i minimi profitti che il capitale può generare. Naturalmente, un uomo sarà felice se riesce ad ottenere un profitto maggiore; ma non accetterà mai un rendimento inferiore a questo livello. Preferirà spendere tutto ciò che possiede per goderselo immediatamente, piuttosto che risparmiare e ottenere un reddito inferiore alla percentuale prevista.
 
-È proprio questa evidente [[Truth|_verità]] che determina la seconda grande divisione nel processo di produzione della ricchezza. Come abbiamo visto, è necessario produrre abbastanza da mantenere in funzione il lavoro; in altre parole, bisogna produrre quanto basta per soddisfare gli standard di sussistenza della propria società; _ma è anche necessario produrre di più, abbastanza da permettere l’accumulo di capitale_. Bisogna produrre, oltre a ciò che è sufficiente per il sostentamento delle persone, esattamente quella quantità di profitti che, in una determinata società, consentirà l’accumulo di capitale (oggi, nella nostra società, tale percentuale è circa il 5%).
+È proprio questa evidente [[concepts/truth|_verità]] che determina la seconda grande divisione nel processo di produzione della ricchezza. Come abbiamo visto, è necessario produrre abbastanza da mantenere in funzione il lavoro; in altre parole, bisogna produrre quanto basta per soddisfare gli standard di sussistenza della propria società; _ma è anche necessario produrre di più, abbastanza da permettere l’accumulo di capitale_. Bisogna produrre, oltre a ciò che è sufficiente per il sostentamento delle persone, esattamente quella quantità di profitti che, in una determinata società, consentirà l’accumulo di capitale (oggi, nella nostra società, tale percentuale è circa il 5%).
 
 È molto importante osservare che questa seconda forma di distribuzione, il Profitto o l’Interesse, deve sempre essere presente, indipendentemente dal modo in cui il capitale viene posseduto e controllato, e indipendentemente da chi ne ricava i benefici.
 
 Alcuni hanno pensato che, se si togliesse il capitale ai ricchi che attualmente ne possiedono la maggior parte e lo si desse ai politici affinché lo gestissero per tutti, questa divisione del profitto scomparirebbe. Ma non è così. Le persone incaricate di gestire il capitale a beneficio di tutti dovrebbero spiegare agli elettori che non possono consumare tutta la ricchezza prodotta a loro piacimento: una certa quantità deve essere riservata, e le persone acconsentiranno a tale riserva solo a condizione di ricevere un vantaggio futuro come ricompensa per il sacrificio immediato che comporta. Anche se al vertice dello Stato ci fosse un despota che non si curasse affatto delle opinioni del popolo, questa divisione del profitto esisterebbe comunque; infatti, accumulare capitale a scapito proprio di sé e dei propri sudditi sarebbe pura perdita, a meno che tale accumulo non portasse a un beneficio futuro.
 
-Se il Despota dicesse: “Quest’anno dovete rinunciare a metà del vostro solito tempo libero e a metà delle quantità abituali di cose che acquistate; in cambio, dovrete pagare il [[Double|>doppio]] per i cinema e la birra, tutto questo solo per potervi godere un centesimo in più di tempo libero e divertimenti l’anno prossimo”, ciò verrebbe considerato intollerabile.
+Se il Despota dicesse: “Quest’anno dovete rinunciare a metà del vostro solito tempo libero e a metà delle quantità abituali di cose che acquistate; in cambio, dovrete pagare il [[topoi/double|>doppio]] per i cinema e la birra, tutto questo solo per potervi godere un centesimo in più di tempo libero e divertimenti l’anno prossimo”, ciò verrebbe considerato intollerabile.
 
 Quindi, in sostanza: nel processo di produzione sono sempre presenti due agenti, il Capitale e il Lavoro, e ciascuno di questi deve, in un modo o nell’altro, avere il proprio “valore intrinseco”; altrimenti il processo non potrà proseguire. È necessario garantire sia il “valore intrinseco” del Lavoro che quello del Capitale. Se ciò non avviene, il lavoro cesserà e il capitale smetterà di accumularsi, con la conseguente interruzione dell’intero processo produttivo.
 
-(Certamente, dobbiamo fare attenzione a distinguere il caso di un privato che aumenta i propri investimenti da quello di un aumento generale del capitale applicato a un ambito naturale invariabile. Se John [[smith|Smith]] possiede 1.000 sterline investite con un tasso dello 5%, può risparmiare altre 1.000 sterline, e ancora di più, senza che questo influisca significativamente sul rendimento. Questo perché i suoi risparmi compensano le spese altrui, o perché la sua quota di capitale totale della società è così piccola da non avere effetti rilevanti. Tuttavia, se il capitale totale della società dovesse aumentare in questo modo, alla fine entrerebbe in gioco la legge dei rendimenti decrescenti.)
+(Certamente, dobbiamo fare attenzione a distinguere il caso di un privato che aumenta i propri investimenti da quello di un aumento generale del capitale applicato a un ambito naturale invariabile. Se John Smith possiede 1.000 sterline investite con un tasso dello 5%, può risparmiare altre 1.000 sterline, e ancora di più, senza che questo influisca significativamente sul rendimento. Questo perché i suoi risparmi compensano le spese altrui, o perché la sua quota di capitale totale della società è così piccola da non avere effetti rilevanti. Tuttavia, se il capitale totale della società dovesse aumentare in questo modo, alla fine entrerebbe in gioco la legge dei rendimenti decrescenti.)
 
 3. Affitto.
 
@@ -6540,14 +6540,14 @@ division in Wealth, which is called RENT.
 _Rent is the surplus over and above the minimum required by labour and
 capital out of the total produce._ (We must be careful, as we saw in
 the case of “Interest” not to confuse true economic Rent with “Rent”
-in the conversational sense. Thus what is called “the rent” of a [[house]]
+in the conversational sense. Thus what is called “the rent” of a house
 is part of it true economic rent, but part of it interest on the
 accumulated or saved wealth, the Capital of its bricks and mortar and
 building.)
 
 Take the case of a seam of coal, which at one end of its run crops
-out on the surface, a couple of [[Miles|miles]] on is only 1,000 feet below the
-surface, but dips down gradually until, within twenty [[Miles|miles]], it is
+out on the surface, a couple of [[characters/miles|miles]] on is only 1,000 feet below the
+surface, but dips down gradually until, within twenty [[characters/miles|miles]], it is
 10,000 feet below the surface.
 
 Under the conditions of the society in which the coal is being mined,
@@ -6638,7 +6638,7 @@ from which there is no getting away.
 
 Always remember that these economic laws are in no way binding in a
 social sense. They are not laws like moral laws, which men are bound
-to obey. They are certain mathematical consequences of the very [[Nature|nature]]
+to obey. They are certain mathematical consequences of the very [[concepts/nature|nature]]
 of wealth and its production, which men must take into account when
 they make their social arrangements. It does not follow because Rent or
 Interest are present that such and such rich men, or the State, or the
@@ -6647,8 +6647,8 @@ and men can in such matters make what arrangements they will. All
 economic science can tell us is how to distinguish between the three
 divisions, and to remember that they are inevitable and necessary.
 But we must wait until a little later on to discuss social rights and
-wrongs under Applied [[Economics]] and continue here for the present to
-confine ourselves to the Elements of economic law [[Alone|alone]].
+wrongs under Applied [[concepts/economics|Economics]] and continue here for the present to
+confine ourselves to the Elements of economic law alone.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6657,9 +6657,9 @@ Quando le condizioni sono tali che il capitale e il lavoro impiegati in esse ott
 
 Ora, l’esistenza di questo “Margine di Produzione” determina la terza divisione della ricchezza, che viene chiamata “Affitto”.
 
-_L’affitto rappresenta il surplus che si ottiene al di sopra del minimo necessario per il lavoro e il capitale, rispetto alla produzione totale._ (Dobbiamo fare attenzione, come abbiamo visto nel caso dell’“interesse”, a non confondere l’affitto economico vero e proprio con il significato colloquiale di “affitto”. Quindi ciò che viene chiamato “l’affitto” di una [[house|casa]] è in parte un affitto economico vero, ma in parte anche un interesse sul patrimonio accumulato o risparmiato, cioè sul capitale costituito dai mattoni, dal cemento e dall’edificio stesso.)
+_L’affitto rappresenta il surplus che si ottiene al di sopra del minimo necessario per il lavoro e il capitale, rispetto alla produzione totale._ (Dobbiamo fare attenzione, come abbiamo visto nel caso dell’“interesse”, a non confondere l’affitto economico vero e proprio con il significato colloquiale di “affitto”. Quindi ciò che viene chiamato “l’affitto” di una casa è in parte un affitto economico vero, ma in parte anche un interesse sul patrimonio accumulato o risparmiato, cioè sul capitale costituito dai mattoni, dal cemento e dall’edificio stesso.)
 
-Prendiamo il caso di una vena di carbone: all’estremità della sua estensione emerge in superficie; dopo alcune [[Miles|miglia]] si trova soltanto a 1.000 piedi sotto la superficie, ma poi scende gradualmente fino a raggiungere, entro venti [[Miles|miglia]], una profondità di 10.000 piedi.
+Prendiamo il caso di una vena di carbone: all’estremità della sua estensione emerge in superficie; dopo alcune [[characters/miles|miglia]] si trova soltanto a 1.000 piedi sotto la superficie, ma poi scende gradualmente fino a raggiungere, entro venti [[characters/miles|miglia]], una profondità di 10.000 piedi.
 
 Nelle condizioni della società in cui il carbone viene estratto, e allo stato di sviluppo raggiunto dalla scienza mineraria, si è constatato che, a una profondità di 5.000 piedi, questa vena di carbone è effettivamente interessante da estrarre: cioè il capitale necessario per scavare le gallerie, far salire e scendere i minatori dal loro lavoro, portare in superficie il carbone e garantire il sostentamento dei minatori durante l’attività lavorativa è appena sufficiente a ottenere un profitto tale da rendere l’estrazione economicamente vantaggiosa.
 
@@ -6693,12 +6693,12 @@ Ricordate sempre che queste leggi economiche non hanno alcun valore vincolante i
 EXCHANGE
 
 EXCHANGE is really only a form of production, as we saw in the
-illustration of the [[Island|island]] with salt and the main-land with meat. When
+illustration of the [[settings/island|island]] with salt and the main-land with meat. When
 the exchange of the things is of advantage to both parties it creates
 wealth for both, and profitable exchange is, therefore, when it takes
 place, only the last step in a general chain of production.
 
-But Exchange is so separate an action that students of [[Economics]] have
+But Exchange is so separate an action that students of [[concepts/economics|Economics]] have
 agreed to treat it as a sort of chapter by itself, and we will do so
 here.
 
@@ -6712,7 +6712,7 @@ wealth. We saw how this was in the case of the salt and the meat, and
 so it is with thousands upon thousands of exchanges going on all over
 the world.
 
-For instance, we in [[England]] have grown fond of drinking tea in the last
+For instance, we in [[settings/england|England]] have grown fond of drinking tea in the last
 200 years. But our climate will not allow us to grow tea. Tea can only
 grow in a very hot country.
 
@@ -6722,7 +6722,7 @@ are fit for it, and also men here have through long practice become
 very skilful at working metal: smelting iron, for instance, and making
 it up into machines.
 
-Therefore, there is a [[Double|double]] advantage to us and to the people who live
+Therefore, there is a [[topoi/double|double]] advantage to us and to the people who live
 in the hot countries where tea is grown if we exchange. We send them
 metal things that we have made and which are useful to them, and which
 they could hardly make themselves, or only with very great difficulty
@@ -6738,12 +6738,12 @@ the amount of mutual advantage derived.
 
 This word “potential” you will not find yet in many books, but it is
 coming in, for it is a very useful word. It is taken by way of metaphor
-from Physical Science. When there is a head of [[Water|water]] over a dam, or a
+from Physical Science. When there is a head of [[motifs/water|water]] over a dam, or a
 current of electricity of such and such an intensity, we talk of the
 “potential” and measure it. For instance, we say this electrical
-current is [[Double|double]] the potential of that, or the head of [[Water|water]] working
-such and such turbines is at [[Double|double]] the potential of another head of
-[[Water|water]] in the neighbourhood. In the same way we talk of a “potential” of
+current is [[topoi/double|double]] the potential of that, or the head of [[motifs/water|water]] working
+such and such turbines is at [[topoi/double|double]] the potential of another head of
+[[motifs/water|water]] in the neighbourhood. In the same way we talk of a “potential” of
 exchange, meaning a tendency for exchange to arise between two places
 or people because it is of mutual benefit to both.
 
@@ -6755,13 +6755,13 @@ Labour.
 Thus two countries may be both equally able to produce, say, metal work
 and silk fabrics, and yet if one of them concentrates on getting better
 and better at metal work and the other on getting better and better
-at silk fabrics, it may [[Well|well]] be that both will benefit by separating
+at silk fabrics, it may [[motifs/well|well]] be that both will benefit by separating
 their jobs and exchanging the results. And this is true not only of two
 countries, but of individuals and groups.
 
 The cobbler does not make his own clothes. He makes boots, and by
 learning his trade and getting used to it makes them much better and in
-a much shorter [[Time|time]] than other men could, and therefore makes a pair
+a much shorter [[motifs/time|time]] than other men could, and therefore makes a pair
 of boots with less expense of energy, that is, cheaper, than another
 man would. The tailor can say the same thing about making clothes.
 So it is to the advantage of the cobbler to exchange his extra boots
@@ -6798,32 +6798,32 @@ place, when of two objects the proportionate values are different in
 two different communities.=
 
 It is not very easy to understand the meaning of this until one is
-given an example. Supposing a ton of coal from [[England]] to be worth £2
-by the [[Time|time]] it is delivered in Cadiz, and supposing that making a dozen
-bottles of wine in [[England]], with all the apparatus of hot-[[house]] grapes
+given an example. Supposing a ton of coal from [[settings/england|England]] to be worth £2
+by the [[motifs/time|time]] it is delivered in Cadiz, and supposing that making a dozen
+bottles of wine in [[settings/england|England]], with all the apparatus of hot-house grapes
 and the rest of it, came to £5 of expense. Supposing that in Cadiz,
 from the small coal mines near by, they can produce coal at only £1 a
 ton, but on account of their climate they can produce a dozen of wine
 for a shilling. Then you get this curious situation:
 
-It pays the exporting country, [[England]], to sell coal in Cadiz _at less
+It pays the exporting country, [[settings/england|England]], to sell coal in Cadiz _at less
 than its English economic value_, and to import the wine from Cadiz.
 It pays your English owner of coal, although the values attaching to
-it by the [[Time|time]] it has got to Cadiz are £2 a ton, to sell a ton of coal
+it by the [[motifs/time|time]] it has got to Cadiz are £2 a ton, to sell a ton of coal
 there for only £1, and to exchange that against the wine of Cadiz, and
-bring that back to [[England]]. At first sight it sounds absurd to say that
+bring that back to [[settings/england|England]]. At first sight it sounds absurd to say that
 selling thus at a lower value than the cost of production and transport
 can possibly be profitable. But if you will look at it closely you
 will see that it is so.
 
-If the Englishman had tried to make his wine at [[Home|home]] it would have cost
+If the Englishman had tried to make his wine at [[motifs/home|home]] it would have cost
 him £100 to make twenty dozen bottles, but when he has sold his coal
 at Cadiz for £1 he can with that £1 buy twenty dozen of wine and bring
-it back to [[England]]. He is much the wealthier by the transaction, and
+it back to [[settings/england|England]]. He is much the wealthier by the transaction, and
 so is the man at Cadiz. The Cadiz man could have spent his energies in
 digging out a ton of coal near Cadiz instead of importing it, but the
 same energies used in making wine produce enough wine to get him rather
-more coal from [[England]].
+more coal from [[settings/england|England]].
 
 2. The second Formula to remember about Exchange is this: =Goods do not
 directly exchange always one against the other, but usually in a much
@@ -6837,27 +6837,27 @@ of two things but a much longer and complicated process.
 For instance, a group of people called a Railway Company in the
 Argentine want a locomotive. A locomotive can be produced cheaper and
 better, that is, with less expenditure of energy for the result, in
-[[England]] than in the Argentine. But on the other hand, [[England]] wants
+[[settings/england|England]] than in the Argentine. But on the other hand, [[settings/england|England]] wants
 to import tea. Now the Argentine grows no tea. What happens? How does
-[[England]] get the tea? That locomotive goes out to the Argentine. An
+[[settings/england|England]] get the tea? That locomotive goes out to the Argentine. An
 amount of wheat sufficient to exchange against the locomotive goes
-against it, not to [[England]], but to Holland, a country which, like us,
+against it, not to [[settings/england|England]], but to Holland, a country which, like us,
 has to import a lot of wheat. As against the wheat sent to Holland,
-the people in Holland send, say, the cheeses which they make so [[Well|well]],
+the people in Holland send, say, the cheeses which they make so [[motifs/well|well]],
 on account of their special conditions, and the consignment goes to
-[[Germany]]. The Germans send out a number of rails equivalent to the
+[[settings/germany|Germany]]. The Germans send out a number of rails equivalent to the
 number of cheeses and of the wheat and of the locomotive, as they are
 very good at making rails, and have specialised on it. But they do not
 send the rails to Holland. They send them to some Railway Company which
-has asked for them in [[Egypt]]. The Egyptian people send out an equivalent
+has asked for them in [[settings/egypt|Egypt]]. The Egyptian people send out an equivalent
 amount of cotton, which they can grow easily in their climate, and this
 cotton goes to mills in India, and against it there comes an equivalent
-amount of tea, but the tea does not go back to [[Egypt]]. It goes to
-[[England]].
+amount of tea, but the tea does not go back to [[settings/egypt|Egypt]]. It goes to
+[[settings/england|England]].
 
 There you have a circle of Multiple Exchange in which everybody profits
 by the exchange going on, although it is indirect. In the same way,
-of course, it is true that all of our domestic exchanges at [[Home|home]] are
+of course, it is true that all of our domestic exchanges at [[motifs/home|home]] are
 multiple. If I write a book which people want to read, whereas I want
 not books but several other things, boots and fuel and furniture, I
 do not take my books round to the man who provides boots and to the
@@ -6874,24 +6874,24 @@ boots with the cobbler.
 importance, because it has given rise to one of the biggest discussions
 of our English politics. The Formula runs thus:--
 
-=Other things being equal, the greatest [[Freedom|freedom]] of exchange in any
+=Other things being equal, the greatest [[concepts/freedom|freedom]] of exchange in any
 given area makes for the greatest amount of wealth in that area.=
 
-It ought to be [[Self|self]] evident, but it is astonishing how muddled people
+It ought to be [[concepts/self|self]] evident, but it is astonishing how muddled people
 get about it, when they become confused over details and cannot see
-the wood for the trees. It ought, I say, to be [[Self|self]]-evident that if
-you leave Exchange quite free, anybody being at [[Liberty|liberty]] to produce
+the wood for the trees. It ought, I say, to be [[concepts/self|self]]-evident that if
+you leave Exchange quite free, anybody being at [[concepts/liberty|liberty]] to produce
 what he can produce best, and exchange it for things which other men
 can produce better than he, both parties will tend to be the richer by
-such [[Freedom|freedom]] and the wealth of the whole country will be greatest when
+such [[concepts/freedom|freedom]] and the wealth of the whole country will be greatest when
 all exchanges in it are thus left free to be worked by the sense of
 advantage.
 
 If there were a law, for instance, preventing me from buying etchings,
-or preventing [[Jones]], the etcher, from buying books, [[Jones]] would have to
+or preventing [[characters/jones|Jones]], the etcher, from buying books, [[characters/jones|Jones]] would have to
 write his own books (or do without them, which is what he would do),
 and I should have to etch my own etchings, which would be exceedingly
-poor compared with the wonderful etchings of [[Jones]]. We are obviously
+poor compared with the wonderful etchings of [[characters/jones|Jones]]. We are obviously
 both of us better off if we are left free to exchange what we can each
 make best. And so it is with all the countless things made in a State.
 
@@ -6901,8 +6901,8 @@ would be the richer for it. And any interference with exchange between
 one nation and another lessens the total possible amount of wealth
 there might be in the world.
 
-So far so good; and, as I have said, such a [[Truth|truth]] ought to be
-[[Self|self]]-evident. But here there comes in a misunderstanding of its
+So far so good; and, as I have said, such a [[concepts/truth|truth]] ought to be
+[[concepts/self|self]]-evident. But here there comes in a misunderstanding of its
 application, and that misunderstanding has made any amount of trouble.
 It is so important that I must give it a separate division to itself.
 
@@ -6911,13 +6911,13 @@ It is so important that I must give it a separate division to itself.
 
 Scambio
 
-Lo scambio non è altro che una forma di produzione, come abbiamo visto nell’esempio dell’[[Island|isola]] con il sale e della terraferma con la carne. Quando lo scambio delle merci è vantaggioso per entrambe le parti, genera ricchezza per entrambi; quindi, uno scambio proficuo rappresenta soltanto l’ultimo passo di una catena generale di produzione.
+Lo scambio non è altro che una forma di produzione, come abbiamo visto nell’esempio dell’[[settings/island|isola]] con il sale e della terraferma con la carne. Quando lo scambio delle merci è vantaggioso per entrambe le parti, genera ricchezza per entrambi; quindi, uno scambio proficuo rappresenta soltanto l’ultimo passo di una catena generale di produzione.
 
-Ma il concetto di “scambio” è talmente distinto da altri aspetti dell’economia che gli studenti di [[Economics|>Economia]] hanno deciso di trattarlo come un argomento a sé stante; faremo lo stesso anche qui.
+Ma il concetto di “scambio” è talmente distinto da altri aspetti dell’economia che gli studenti di [[concepts/economics|>Economia]] hanno deciso di trattarlo come un argomento a sé stante; faremo lo stesso anche qui.
 
 La caratteristica dello scambio è che si prende una cosa da un luogo dove ha meno valore e la si porta in un luogo dove ha più valore, aggiungendo così un valore economico alla cosa trasferita e creando così ricchezza. Nella stessa transazione, si riceve in cambio qualcos’altro che, nel proprio luogo, ha più valore di quanto ne avesse nel luogo da cui è stato preso; anche questo aggiunge un valore economico e quindi contribuisce alla creazione di ricchezza. Abbiamo visto come ciò avvenisse nel caso del sale e della carne, ed è lo stesso per migliaia e migliaia di scambi che avvengono in tutto il mondo.
 
-Ad esempio, noi in [[England|Inghilterra]] ci siamo abituati a bere tè negli ultimi 200 anni. Ma il nostro clima non ci permette di coltivare il tè: questo pianta solo in paesi molto caldi.
+Ad esempio, noi in [[settings/england|Inghilterra]] ci siamo abituati a bere tè negli ultimi 200 anni. Ma il nostro clima non ci permette di coltivare il tè: questo pianta solo in paesi molto caldi.
 
 Ora, nei paesi molto caldi, non si può certo aspettarsi un lavoro pesante sul metallo; gli uomini non sono adatti a farlo. Ma in questo clima fresco, gli uomini lo sono, e inoltre, grazie a una lunga pratica, qui le persone sono diventate molto abili nel lavorare il metallo: per esempio, nell’affinare il ferro e trasformarlo in macchine.
 
@@ -6943,17 +6943,17 @@ Esistono alcune formule elementari riguardanti lo scambio che è importante rico
 
 Esiste un potenziale di scambio: lo scambio tende infatti ad avvenire quando i valori proporzionali di due oggetti sono diversi in due comunità diverse.
 
-Non è molto facile comprendere il significato di questo concetto fino a quando non si viene dati un esempio concreto. Supponiamo che una tonnellata di carbone proveniente dall’[[England|Inghilterra]] abbia un valore di 2 sterline al momento della sua consegna a Cadice, e supponiamo anche che la produzione di dodici bottiglie di vino in [[England|Inghilterra]], con tutto l’equipaggiamento necessario per la lavorazione delle uve e per il processo di vinificazione, comporti spese pari a 5 sterline. Se invece, a Cadice, nelle piccole miniere di carbone vicine si potesse produrre carbone al prezzo di soltanto 1 sterlina alla tonnellata, ma grazie al clima locale si potessero produrre dodici bottiglie di vino per soltanto 1 scellino ciascuna, allora si verificherebbe questa strana situazione.
+Non è molto facile comprendere il significato di questo concetto fino a quando non si viene dati un esempio concreto. Supponiamo che una tonnellata di carbone proveniente dall’[[settings/england|Inghilterra]] abbia un valore di 2 sterline al momento della sua consegna a Cadice, e supponiamo anche che la produzione di dodici bottiglie di vino in [[settings/england|Inghilterra]], con tutto l’equipaggiamento necessario per la lavorazione delle uve e per il processo di vinificazione, comporti spese pari a 5 sterline. Se invece, a Cadice, nelle piccole miniere di carbone vicine si potesse produrre carbone al prezzo di soltanto 1 sterlina alla tonnellata, ma grazie al clima locale si potessero produrre dodici bottiglie di vino per soltanto 1 scellino ciascuna, allora si verificherebbe questa strana situazione.
 
-È vantaggioso per il paese esportatore, l’[[England|Inghilterra]], vendere il carbone a Cadice _a un prezzo inferiore al suo valore economico in Inghilterra_ e importare il vino da Cadice. È vantaggioso anche per il proprietario inglese del carbone: sebbene il valore del carbone al momento dell’arrivo a Cadize sia di 2 sterline alla tonnellata, egli può vendere la stessa quantità a soli 1 sterlina e scambiarla con il vino di Cadice per poi riportarlo in [[England|Inghilterra]]. A prima vista sembra assurdo pensare che una vendita a un prezzo inferiore al costo di produzione e trasporto possa risultare redditizia. Ma se ci si pensa attentamente, si scopre che è proprio così.
+È vantaggioso per il paese esportatore, l’[[settings/england|Inghilterra]], vendere il carbone a Cadice _a un prezzo inferiore al suo valore economico in Inghilterra_ e importare il vino da Cadice. È vantaggioso anche per il proprietario inglese del carbone: sebbene il valore del carbone al momento dell’arrivo a Cadize sia di 2 sterline alla tonnellata, egli può vendere la stessa quantità a soli 1 sterlina e scambiarla con il vino di Cadice per poi riportarlo in [[settings/england|Inghilterra]]. A prima vista sembra assurdo pensare che una vendita a un prezzo inferiore al costo di produzione e trasporto possa risultare redditizia. Ma se ci si pensa attentamente, si scopre che è proprio così.
 
-Se quell’inglese avesse cercato di produrre il vino a casa sua, gli sarebbero costati 100 sterline per realizzare venti dozzine di bottiglie; invece, vendendo il carbone a Cadice per 1 sterlina, può utilizzare quei soldi per comprare venti dozzine di vino e portarlo in [[England|Inghilterra]]. Con questa transazione diventa molto più ricco, così come l’uomo di Cadiz. Quest’ultimo avrebbe potuto impiegare le sue energie per estrarre una tonnellata di carbone vicino a Cadice invece di importarlo; tuttavia, lo stesso impegno utilizzato nella produzione del vino gli permetterebbe di ottenere abbastanza vino da potersi comprare ancora più carbone dall’[[England|Inghilterra]].
+Se quell’inglese avesse cercato di produrre il vino a casa sua, gli sarebbero costati 100 sterline per realizzare venti dozzine di bottiglie; invece, vendendo il carbone a Cadice per 1 sterlina, può utilizzare quei soldi per comprare venti dozzine di vino e portarlo in [[settings/england|Inghilterra]]. Con questa transazione diventa molto più ricco, così come l’uomo di Cadiz. Quest’ultimo avrebbe potuto impiegare le sue energie per estrarre una tonnellata di carbone vicino a Cadice invece di importarlo; tuttavia, lo stesso impegno utilizzato nella produzione del vino gli permetterebbe di ottenere abbastanza vino da potersi comprare ancora più carbone dall’[[settings/england|Inghilterra]].
 
 2. La seconda regola da ricordare riguardo agli scambi è questa: i beni non vengono sempre scambiati direttamente l’uno contro l’altro, ma di solito in modo molto più complesso, attraverso ciò che si può definire uno “scambio multiplo”.
 
 Ovviamente, il mezzo attraverso cui ciò avviene è una valuta, o denaro, di cui spiegherò i dettagli tra un attimo; ma l’aspetto importante da comprendere è che lo scambio ha luogo davvero anche quando non si verifica uno scambio diretto tra due beni, bensì un processo molto più lungo e complesso.
 
-Ad esempio, un gruppo di persone chiamato “Compagnia Ferroviaria” in Argentina desidera acquistare una locomotiva. In [[England|Inghilterra]] è possibile produrre locomotive a costi più bassi e con maggiore efficienza, cioè con un minor dispendio energetico per ottenere lo stesso risultato rispetto all’Argentina. Tuttavia, dall’altra parte, l’[[England|Inghilterra]] desidera importare tè; l’Argentina, invece, non ne produce. Allora cosa succede? Come fa l’[[England|Inghilterra]] ad ottenere il tè? La locomotiva viene inviata in Argentina, e una quantità di grano sufficiente a scambiarla viene spedita non in Inghilterra, ma nei Paesi Bassi, che, come noi, devono importare molto grano. In cambio del grano inviato ai Paesi Bassi, quest’ultimi inviano formaggi, prodotti con grande abilità grazie alle loro condizioni climatiche particolari; questi formaggi vengono poi spediti in [[Germany|Germania]]. I tedeschi, essendo molto abili nella produzione di rotaie, ne inviano un numero equivalente al valore dei formaggi, del grano e della locomotiva ricevuti. Tuttavia, non li inviano ai Paesi Bassi, ma a una compagnia ferroviaria che ne ha fatto richiesta in [[Egypt|Egitto]]. Gli egiziani, a loro volta, inviano una quantità equivalente di cotone, che possono coltivare facilmente nel loro clima; questo cotone viene poi trasportato in India, dove in cambio viene ricevuto tè. Ma il tè non torna in [[Egypt|Egitto]], bensì in [[England|Inghilterra]].
+Ad esempio, un gruppo di persone chiamato “Compagnia Ferroviaria” in Argentina desidera acquistare una locomotiva. In [[settings/england|Inghilterra]] è possibile produrre locomotive a costi più bassi e con maggiore efficienza, cioè con un minor dispendio energetico per ottenere lo stesso risultato rispetto all’Argentina. Tuttavia, dall’altra parte, l’[[settings/england|Inghilterra]] desidera importare tè; l’Argentina, invece, non ne produce. Allora cosa succede? Come fa l’[[settings/england|Inghilterra]] ad ottenere il tè? La locomotiva viene inviata in Argentina, e una quantità di grano sufficiente a scambiarla viene spedita non in Inghilterra, ma nei Paesi Bassi, che, come noi, devono importare molto grano. In cambio del grano inviato ai Paesi Bassi, quest’ultimi inviano formaggi, prodotti con grande abilità grazie alle loro condizioni climatiche particolari; questi formaggi vengono poi spediti in [[settings/germany|Germania]]. I tedeschi, essendo molto abili nella produzione di rotaie, ne inviano un numero equivalente al valore dei formaggi, del grano e della locomotiva ricevuti. Tuttavia, non li inviano ai Paesi Bassi, ma a una compagnia ferroviaria che ne ha fatto richiesta in [[settings/egypt|Egitto]]. Gli egiziani, a loro volta, inviano una quantità equivalente di cotone, che possono coltivare facilmente nel loro clima; questo cotone viene poi trasportato in India, dove in cambio viene ricevuto tè. Ma il tè non torna in [[settings/egypt|Egitto]], bensì in [[settings/england|Inghilterra]].
 
 Ecco dunque un circolo di scambio multiplo in cui tutti traggono profitto dall’intero processo, anche se in modo indiretto. Allo stesso modo, ovviamente, tutti i nostri scambi domestici sono anch’essi di natura multipla. Se scrivo un libro che le persone vogliono leggere, mentre io non desidero libri, ma invece stivali, carburante e mobili, non vado direttamente dal venditore di stivali, da quello di carburante o da quello di mobili. Seguo invece il processo di vendita del mio libro a un editore, e attraverso uno strumento che lui mi fornisce – chiamato assegno (ne parlerò quando tratteremo l’argomento del denaro) – posso ottenere stivali, carburante e mobili per il valore dei miei libri, che l’editore venderà. Eppure, anche quando lo scambio è così indiretto e multiplo, in realtà avviene esattamente come se io andassi personalmente a barattare un libro con uno stivale dal calzolaio.
 
@@ -6963,11 +6963,11 @@ A parità di altre condizioni, la massima libertà di scambio in un determinato 
 
 Dovrebbe essere ovvio per chiunque, ma è sorprendente quanto le persone si confondano su questo argomento, quando si perdono nei dettagli e non riescono a vedere il quadro generale. Dovrebbe essere evidente che, se si lascia il mercato completamente libero, permettendo a chiunque di produrre ciò che sa fare meglio e di scambiarlo con beni che altri possono produrre in modo più efficace, entrambe le parti ne trarranno beneficio, e la ricchezza dell’intero paese aumenterà quando tutti gli scambi avvengano liberamente, guidati dal senso del vantaggio.
 
-Se esistesse una legge, ad esempio, che mi impedisse di comprare incisioni, o che impedisse a [[Jones]], l’incisore, di comprare libri, [[Jones]] dovrebbe scrivere i suoi libri da solo (o fare a meno di loro, il che comunque farebbe), e io dovrei realizzare le mie incisioni da solo, il che sarebbe estremamente scadente rispetto alle meravigliose opere di [[Jones]]. Ovviamente, entrambi ne trarremmo maggior beneficio se fossimo liberi di scambiare ciò che ognuno di noi è in grado di produrre al meglio. Ed è lo stesso per tutte le innumerevoli cose prodotte in una società.
+Se esistesse una legge, ad esempio, che mi impedisse di comprare incisioni, o che impedisse a [[characters/jones|Jones]], l’incisore, di comprare libri, [[characters/jones|Jones]] dovrebbe scrivere i suoi libri da solo (o fare a meno di loro, il che comunque farebbe), e io dovrei realizzare le mie incisioni da solo, il che sarebbe estremamente scadente rispetto alle meravigliose opere di [[characters/jones|Jones]]. Ovviamente, entrambi ne trarremmo maggior beneficio se fossimo liberi di scambiare ciò che ognuno di noi è in grado di produrre al meglio. Ed è lo stesso per tutte le innumerevoli cose prodotte in una società.
 
 Questo principio si applica non solo a una nazione specifica, ma all’intero mondo. Se lasciassimo che tutto il mondo possa scambiare liberamente, l’intero mondo ne trarrebbe beneficio. Qualsiasi interferenza negli scambi tra una nazione e un’altra riduce la quantità totale di ricchezza che potrebbe esistere nel mondo.
 
-Finora tutto va bene; e, come ho detto, una tale [[Truth|verità]] dovrebbe essere di per sé evidente. Ma qui sorge un malinteso riguardo alla sua applicazione, e proprio questo malinteso ha causato molti problemi. È così importante che devo dedicargli una sezione a parte.
+Finora tutto va bene; e, come ho detto, una tale [[concepts/truth|verità]] dovrebbe essere di per sé evidente. Ma qui sorge un malinteso riguardo alla sua applicazione, e proprio questo malinteso ha causato molti problemi. È così importante che devo dedicargli una sezione a parte.
 
 
 
@@ -6978,16 +6978,16 @@ FREE TRADE AND PROTECTION
 
 Nations, as we know, put up tariffs against goods which come from
 abroad: That is, their Governments tax imports of certain goods and
-thereby interfere with the [[Freedom|freedom]] of exchange. For instance, the
-French have a tax of this kind upon wheat. Wheat grown in [[France]] will
-cost, let us say, £1 a sack, but the Argentine can send wheat to [[France]]
+thereby interfere with the [[concepts/freedom|freedom]] of exchange. For instance, the
+French have a tax of this kind upon wheat. Wheat grown in [[settings/france|France]] will
+cost, let us say, £1 a sack, but the Argentine can send wheat to [[settings/france|France]]
 at an expense of only 10s. a sack, because the land there is new, and
 for various other causes. If the wheat from the Argentine were allowed
 to come in freely, and the French to export against it things which
 they can make more easily than wheat they would have more wheat at a
 less total expense; but they prefer to put a tax of ten shillings upon
 every sack, that is, to put up a barrier against the import of wheat
-from abroad, and so keep up the price artificially at [[Home|home]].
+from abroad, and so keep up the price artificially at [[motifs/home|home]].
 
 When a nation does this with regard to any object that may be imported,
 if the object can also be produced within the nation (which it nearly
@@ -6998,7 +6998,7 @@ whether it was for the good of the whole nation or not. It obviously
 would be a very nice thing for people who breed sheep, for instance, in
 this country, if all mutton coming from the Colonies were taxed at the
 Ports, while the mutton grown inside the country were not taxed; for in
-this way the value of the mutton would rise in [[England]], and the rise
+this way the value of the mutton would rise in [[settings/england|England]], and the rise
 would benefit the sheep owners. But it would be at the expense of all
 the other people who did not grow sheep, and who would have to pay more
 for their mutton.
@@ -7007,8 +7007,8 @@ As opposed to this system of Protection, and interfering with
 international exchange by a tariff, intelligent people a long lifetime
 ago began to agitate for what they called “FREE TRADE,” that is the
 putting of no tariff on to an import, or at least no tariff high enough
-to give an artificial price to the producer of the same thing at [[Home|home]].
-Thus, when [[England]] was completely Free Trading (which it was until the
+to give an artificial price to the producer of the same thing at [[motifs/home|home]].
+Thus, when [[settings/england|England]] was completely Free Trading (which it was until the
 war) there was a tariff on tea; but that was not Protection, for those
 who would try to grow tea here would have to grow it in hot houses and
 at an enormous expense, and the tax on tea, though heavy, did not make
@@ -7017,20 +7017,20 @@ it anything like so dear as to make it worth while to produce tea here.
 Another principle of Free Trade was that if it was thought advisable
 to put a tariff on to anything coming into the country which could be
 produced in the country, then you would have to put what was called
-“an equivalent excise” on the thing produced at [[Home|home]]. For instance,
+“an equivalent excise” on the thing produced at [[motifs/home|home]]. For instance,
 in order to get revenue, one might put a tax of a 1d. on the pound
-on sugar coming from [[Germany]], but, according to the doctrine of Free
-Trade, you must put a similar excise (that is, a [[Home|home]] tax of 1d. on the
-pound) upon any sugar produced in [[England]]. If you did not do that you
-would be benefiting the sugar manufacturer in [[England]] at the expense
-of all other Englishmen, which would be unjust and also make [[England]]
+on sugar coming from [[settings/germany|Germany]], but, according to the doctrine of Free
+Trade, you must put a similar excise (that is, a [[motifs/home|home]] tax of 1d. on the
+pound) upon any sugar produced in [[settings/england|England]]. If you did not do that you
+would be benefiting the sugar manufacturer in [[settings/england|England]] at the expense
+of all other Englishmen, which would be unjust and also make [[settings/england|England]]
 less wealthy because it would be inducing Englishmen to make sugar by
 offering them a reward and so take them away from some production for
 which they were better fitted.
 
 This idea, that Free Trade must necessarily be of advantage to
 everybody, and that it was only stupidity or private avarice which
-supported Protection, was very strong in [[England]], and, in the form you
+supported Protection, was very strong in [[settings/england|England]], and, in the form you
 have just read, it seems beyond contradiction.
 
 But if you will look closely at Formula No. 3 written in the last
@@ -7046,11 +7046,11 @@ is itself enriched_. That is the important point which the Free Trade
 people missed, and it is this which supports, in some cases, the
 argument for Protection.
 
-If we allow free exchange everywhere throughout [[England]], [[England]] as a
+If we allow free exchange everywhere throughout [[settings/england|England]], [[settings/england|England]] as a
 whole will, of course, be the richer for it; but it is quite possible
 that Essex will be the poorer. If we allow Free Trade throughout all
-[[Europe]], [[Europe]] will be the richer for it; but it is quite possible that
-some particular part of [[Europe]], [[Italy]] or [[Spain]], may be made poorer by
+[[settings/europe|Europe]], [[settings/europe|Europe]] will be the richer for it; but it is quite possible that
+some particular part of [[settings/europe|Europe]], [[settings/italy|Italy]] or [[settings/spain|Spain]], may be made poorer by
 the general process, and as they don’t want to be poorer they will
 by Protection and tariffs cut themselves off from the area of free
 exchange.
@@ -7072,7 +7072,7 @@ by Free Trade and will be benefited by artificially fostering internal
 exchanges.
 
 In the second part of this book I will go into this again, and show
-how the discussion arose in [[England]] and what the arguments are for and
+how the discussion arose in [[settings/england|England]] and what the arguments are for and
 against Universal Free Trade, and how true it is that a sound economic
 argument for Protection exists.
 
@@ -7081,27 +7081,27 @@ argument for Protection exists.
 
 Libero scambio e protezione
 
-Le nazioni, come sappiamo, impongono dazi su i beni provenienti dall’estero: in altre parole, i loro governi tassano le importazioni di determinati prodotti, interferendo così con la [[Freedom|libertà]] degli scambi. Ad esempio, i francesi applicano questo tipo di tassa sul grano. Il grano coltivato in [[France|Francia]] costa, diciamo, 1 sterlina al sacco, ma l’Argentina può inviarlo in [[France|Francia]] a un costo di soli 10 penny al sacco, poiché le terre laggiù sono nuove e per varie altre ragioni. Se al grano argentino fosse permesso entrare liberamente in Francia, e i francesi potessero esportare prodotti che possono produrre più facilmente rispetto al grano, avrebbero più grano a un costo complessivo inferiore; tuttavia preferiscono imporre una tassa di dieci penny su ogni sacco, cioè creare un ostacolo all’importazione di grano dall’estero, mantenendo così artificialmente alti i prezzi nel loro paese.
+Le nazioni, come sappiamo, impongono dazi su i beni provenienti dall’estero: in altre parole, i loro governi tassano le importazioni di determinati prodotti, interferendo così con la [[concepts/freedom|libertà]] degli scambi. Ad esempio, i francesi applicano questo tipo di tassa sul grano. Il grano coltivato in [[settings/france|Francia]] costa, diciamo, 1 sterlina al sacco, ma l’Argentina può inviarlo in [[settings/france|Francia]] a un costo di soli 10 penny al sacco, poiché le terre laggiù sono nuove e per varie altre ragioni. Se al grano argentino fosse permesso entrare liberamente in Francia, e i francesi potessero esportare prodotti che possono produrre più facilmente rispetto al grano, avrebbero più grano a un costo complessivo inferiore; tuttavia preferiscono imporre una tassa di dieci penny su ogni sacco, cioè creare un ostacolo all’importazione di grano dall’estero, mantenendo così artificialmente alti i prezzi nel loro paese.
 
-Quando una nazione agisce in questo modo riguardo a qualsiasi oggetto possa essere importato, e se tale oggetto può essere prodotto anche all’interno della nazione (il che avviene quasi sempre), si dice che quella nazione lo stia “proteggendo”; il sistema adottato per farlo viene chiamato “protezione”. Il termine stesso deriva dalle richieste di alcune categorie commerciali di essere “protette” dai loro governi, senza considerare se tale protezione fosse vantaggiosa per l’intera nazione o meno. È evidente che, ad esempio, per le persone che allevano pecore in questo paese, sarebbe molto vantaggioso se tutta la carne di pecora proveniente dalle colonie venisse tassata alle porte di ingresso, mentre quella prodotta nel territorio nazionale non fosse soggetta a tasse; in questo modo il prezzo della carne di pecora aumenterebbe in [[England|Inghilterra]], e tale aumento avrebbe benefici per i proprietari delle pecore. Tuttavia, ciò avverrebbe a scapito di tutte le altre persone che non allevano pecore, le quali sarebbero costrette a pagare di più per l’acquisto della carne di pecora.
+Quando una nazione agisce in questo modo riguardo a qualsiasi oggetto possa essere importato, e se tale oggetto può essere prodotto anche all’interno della nazione (il che avviene quasi sempre), si dice che quella nazione lo stia “proteggendo”; il sistema adottato per farlo viene chiamato “protezione”. Il termine stesso deriva dalle richieste di alcune categorie commerciali di essere “protette” dai loro governi, senza considerare se tale protezione fosse vantaggiosa per l’intera nazione o meno. È evidente che, ad esempio, per le persone che allevano pecore in questo paese, sarebbe molto vantaggioso se tutta la carne di pecora proveniente dalle colonie venisse tassata alle porte di ingresso, mentre quella prodotta nel territorio nazionale non fosse soggetta a tasse; in questo modo il prezzo della carne di pecora aumenterebbe in [[settings/england|Inghilterra]], e tale aumento avrebbe benefici per i proprietari delle pecore. Tuttavia, ciò avverrebbe a scapito di tutte le altre persone che non allevano pecore, le quali sarebbero costrette a pagare di più per l’acquisto della carne di pecora.
 
-A differenza di questo sistema di protezione e di interferenze con gli scambi internazionali attraverso le tariffe, persone intelligenti già da molto tempo fa iniziarono a promuovere ciò che chiamavano “libero scambio”, ovvero l’eliminazione delle tariffe sugli importi, o almeno l’adozione di tariffe così basse da non influenzare artificialmente il prezzo di produzione dello stesso bene nel paese d’origine. Pertanto, quando [[England|Inghilterra]] praticava interamente il libero scambio (cosa che avvenne fino alla guerra), esisteva ancora una tassa sul tè; ma questa non rappresentava certo un sistema di protezione, poiché coloro che avessero cercato di coltivare il tè in Inghilterra avrebbero dovuto farlo in serra e a costi enormi. La tassa sul tè, sebbene elevata, non rendeva comunque il prezzo del prodotto così alto da rendere vantaggiosa la sua produzione nel paese stesso.
+A differenza di questo sistema di protezione e di interferenze con gli scambi internazionali attraverso le tariffe, persone intelligenti già da molto tempo fa iniziarono a promuovere ciò che chiamavano “libero scambio”, ovvero l’eliminazione delle tariffe sugli importi, o almeno l’adozione di tariffe così basse da non influenzare artificialmente il prezzo di produzione dello stesso bene nel paese d’origine. Pertanto, quando [[settings/england|Inghilterra]] praticava interamente il libero scambio (cosa che avvenne fino alla guerra), esisteva ancora una tassa sul tè; ma questa non rappresentava certo un sistema di protezione, poiché coloro che avessero cercato di coltivare il tè in Inghilterra avrebbero dovuto farlo in serra e a costi enormi. La tassa sul tè, sebbene elevata, non rendeva comunque il prezzo del prodotto così alto da rendere vantaggiosa la sua produzione nel paese stesso.
 
-Un altro principio del Libero Scambio era che, se si riteneva opportuno imporre dazi su qualsiasi prodotto importato che potesse essere prodotto nel paese stesso, allora bisognava applicare un “imposta equivalente” anche al prodotto prodotto nel proprio territorio. Ad esempio, per ottenere entrate fiscali, si poteva imporre una tassa di 1 penny a libbra sullo zucchero proveniente dalla [[Germany|Germania]], ma secondo la dottrina del Libero Scambio era necessario applicare un’imposta analoga anche allo zucchero prodotto in [[England|Inghilterra]]. Se ciò non venisse fatto, si avrebbe il vantaggio per i produttori di zucchero in [[England|Inghilterra]] a scapito di tutti gli altri inglesi, il che sarebbe stato ingiusto e avrebbe ridotto la ricchezza della stessa [[England|Inghilterra]], poiché avrebbe incoraggiato i cittadini inglesi a dedicarsi alla produzione dello zucchero, offrendo loro un vantaggio economico e allontanandoli da altre attività produttive per le quali erano più adatti.
+Un altro principio del Libero Scambio era che, se si riteneva opportuno imporre dazi su qualsiasi prodotto importato che potesse essere prodotto nel paese stesso, allora bisognava applicare un “imposta equivalente” anche al prodotto prodotto nel proprio territorio. Ad esempio, per ottenere entrate fiscali, si poteva imporre una tassa di 1 penny a libbra sullo zucchero proveniente dalla [[settings/germany|Germania]], ma secondo la dottrina del Libero Scambio era necessario applicare un’imposta analoga anche allo zucchero prodotto in [[settings/england|Inghilterra]]. Se ciò non venisse fatto, si avrebbe il vantaggio per i produttori di zucchero in [[settings/england|Inghilterra]] a scapito di tutti gli altri inglesi, il che sarebbe stato ingiusto e avrebbe ridotto la ricchezza della stessa [[settings/england|Inghilterra]], poiché avrebbe incoraggiato i cittadini inglesi a dedicarsi alla produzione dello zucchero, offrendo loro un vantaggio economico e allontanandoli da altre attività produttive per le quali erano più adatti.
 
-Questa idea, secondo cui il libero scambio debba necessariamente essere vantaggioso per tutti, e che solo stupidità o avidità privata possano giustificare l’adozione delle politiche protezioniste, era molto diffusa in [[England|Inghilterra]], e nella forma in cui l’avete appena letta sembra del tutto irrefutabile.
+Questa idea, secondo cui il libero scambio debba necessariamente essere vantaggioso per tutti, e che solo stupidità o avidità privata possano giustificare l’adozione delle politiche protezioniste, era molto diffusa in [[settings/england|Inghilterra]], e nella forma in cui l’avete appena letta sembra del tutto irrefutabile.
 
 Ma se osservate attentamente la Formula n. 3 scritta nell’ultima riga della sezione 59, noterete che in questa teoria universale del libero scambio è nascosta un’errore logica. È certamente vero che lo scambio libero in qualsiasi ambito tende ad aumentare la ricchezza di tutta quella regione; e se tale ambito include l’intero mondo, allora uno scambio libero su scala globale, cioè il libero scambio completo, renderebbe il mondo intero più ricco.
 
 Ma ciò non significa che OGNI PARTE di quell’area resa più ricca diventi a sua volta più ricca. Questo è il punto importante che i sostenitori del libero scambio hanno trascurato, ed è proprio questo aspetto che, in alcuni casi, sostiene l’argomentazione a favore delle misure protezionistiche.
 
-Se permettiamo lo scambio libero in tutto il [[England|>Inghilterra]], l’intero [[England|>Inghilterra]] ne trarrà sicuramente beneficio; ma è molto probabile che l’Essex ne risulti danneggiato. Se permettiamo il libero scambio in tutta la [[Europe|>Europa]], l’intera [[Europe|>Europa]] ne trarrà beneficio; ma è molto probabile che alcune regioni specifiche dell’[[Europe|>Europa]], come l’[[Italy|'Italia]] o l’[[Spain|.Spagna]], ne risentano negativamente. E poiché non vogliono diventare più povere, useranno misure protezionistiche e dazi per isolarsi dall’ambito dello scambio libero.
+Se permettiamo lo scambio libero in tutto il [[settings/england|>Inghilterra]], l’intero [[settings/england|>Inghilterra]] ne trarrà sicuramente beneficio; ma è molto probabile che l’Essex ne risulti danneggiato. Se permettiamo il libero scambio in tutta la [[settings/europe|>Europa]], l’intera [[settings/europe|>Europa]] ne trarrà beneficio; ma è molto probabile che alcune regioni specifiche dell’[[settings/europe|>Europa]], come l’[[settings/italy|'Italia]] o l’[[settings/spain|.Spagna]], ne risentano negativamente. E poiché non vogliono diventare più povere, useranno misure protezionistiche e dazi per isolarsi dall’ambito dello scambio libero.
 
 Esistono condizioni in cui un’intervenzione sul libero scambio al di fuori dei confini di una determinata area può rendere tale area più ricca; quando tali condizioni sono presenti, si parla di “ragioni economiche a favore della protezione”.
 
 Possiamo quindi concludere che la teoria secondo cui il libero scambio universale sia vantaggioso per l’intero mondo è assolutamente vera. Se consideriamo soltanto l’insieme del pianeta, senza curarci di ciò che accade in alcune aree specifiche, allora il favore verso il libero scambio è indiscutibile. Tuttavia, se ci preoccupa il danno che potrebbe derivare a determinate regioni, come la nostra stessa nazione, più di quanto ci interessi il danno arrecato all’intero mondo, allora dovremmo valutare le nostre condizioni particolari e verificare se il nostro paese possa rientrare tra quelle aree che subiranno una riduzione della propria ricchezza a causa del libero scambio, oppure se invece possa trarne beneficio promuovendo artificialmente gli scambi interni.
 
-Nella seconda parte di questo libro approfondirò nuovamente l’argomento, mostrando come questa discussione sia nata in [[England|Inghilterra]], quali siano i pro e i contro del libero scambio universale, e quanto sia vero che esistano valide ragioni economiche a favore della protezione commerciale.
+Nella seconda parte di questo libro approfondirò nuovamente l’argomento, mostrando come questa discussione sia nata in [[settings/england|Inghilterra]], quali siano i pro e i contro del libero scambio universale, e quanto sia vero che esistano valide ragioni economiche a favore della protezione commerciale.
 
 
 
@@ -7145,7 +7145,7 @@ things which are being exchanged is easier to carry than the rest, and
 perhaps lasts longer and also can be easily used in small or large
 amounts. For instance, in the case of our three producers, John,
 William and Robert, wheat might easily appear in this character.
-People always want wheat sooner or later. It keeps [[Well|well]]. It is not very
+People always want wheat sooner or later. It keeps [[motifs/well|well]]. It is not very
 difficult to transport, and you can divide it into quite small amounts,
 or lump it up in large amounts.
 
@@ -7156,7 +7156,7 @@ moment. For he would say to himself: “I can always keep it by me and
 then exchange it against somebody else’s produce when that somebody
 else happens to want wheat”. Soon you would find each one of the three
 would be keeping a little wheat by him for the purpose of saving
-tiresome journeys to effect complicated [[Double|double]] exchanges, and the wheat
+tiresome journeys to effect complicated [[topoi/double|double]] exchanges, and the wheat
 so used by all three of them would be in effect MONEY. It would be
 used as a common medium of exchange to facilitate the disposal of goods
 one against the other, without the elaborate business of making special
@@ -7189,10 +7189,10 @@ all sorts of amounts, very little and very large.
 have very little use as Money.
 
 4. It must be of an even quality, so that, wherever you come across it,
-you may count on its being pretty [[Well|well]] always the same, and therefore
+you may count on its being pretty [[motifs/well|well]] always the same, and therefore
 weight for weight of the same value.
 
-5. It must be more or less [[Stable|stable]] in value. It would be difficult to
+5. It must be more or less [[settings/stable|stable]] in value. It would be difficult to
 use as money some object which was very plentiful at one moment and
 suddenly scarce at another; very cheap this year, and very dear next
 year--such as are, for instance, agricultural products depending upon
@@ -7201,13 +7201,13 @@ the season.
 Now of all objects Gold and Silver best fulfil all these requirements.
 Precious stones are more portable, value for value. A £1,000 worth of
 diamonds takes up less space and is less heavy than a £1,000 worth of
-gold. And precious stones are fairly [[Stable|stable]] in value and also keep
-very [[Well|well]]; but they are not easily divisible. Again, they are not of
+gold. And precious stones are fairly [[settings/stable|stable]] in value and also keep
+very [[motifs/well|well]]; but they are not easily divisible. Again, they are not of
 the same standard value in all cases. They vary in purity. But gold
 and silver have all the qualities required. Gold hardly decays at all
-through the passage of [[Time|time]], and silver very little; and each, but
+through the passage of [[motifs/time|time]], and silver very little; and each, but
 especially gold, is valuable for its bulk, and its value is fairly
-[[Stable|stable]], and each is easily divisible and can therefore be presented in
+[[settings/stable|stable]], and each is easily divisible and can therefore be presented in
 any amount, from a tenth of an ounce to a hundred pounds weight.
 
 So, by the mere force of things, Gold and Silver became the Money
@@ -7229,7 +7229,7 @@ name: “That which is current” from the Latin for “running.” That which
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Denaro
+Denaro
 
 Quando le persone iniziano a scambiare beni uno contro l’altro tramite baratto, subito si rendono conto che esiste un ostacolo significativo in questo tipo di commercio; almeno, lo scoprono non appena il numero delle parti coinvolte supera le due. L’ostacolo consiste nel fatto che la persona con cui stanno negoziando potrebbe non desiderare proprio l’oggetto che hanno da offrire in quel momento, ma qualcos’altro che invece possiede una terza parte assente dalla transazione.
 
@@ -7255,11 +7255,11 @@ Deve essere portatile, cioè che un peso considerevole occupi poco spazio, in mo
 
 3. Deve rimanere intatto. Cioè, non deve deteriorarsi rapidamente, altrimenti avrebbe molto poco valore come denaro.
 
-4. Deve essere di qualità uniforme, in modo che, ovunque lo si incontri, si possa essere certi che sia sempre piuttosto [[Well|buono]], e quindi che abbia lo stesso valore per unità di peso.
+4. Deve essere di qualità uniforme, in modo che, ovunque lo si incontri, si possa essere certi che sia sempre piuttosto [[motifs/well|buono]], e quindi che abbia lo stesso valore per unità di peso.
 
-5. Deve essere più o meno [[Stable|stabile]] di valore. Sarebbe difficile utilizzare come denaro un oggetto che in un momento è molto abbondante e improvvisamente diventa scarso; che quest’anno è molto economico e l’anno successivo molto costoso, come ad esempio i prodotti agricoli che dipendono dalla stagione.
+5. Deve essere più o meno [[settings/stable|stabile]] di valore. Sarebbe difficile utilizzare come denaro un oggetto che in un momento è molto abbondante e improvvisamente diventa scarso; che quest’anno è molto economico e l’anno successivo molto costoso, come ad esempio i prodotti agricoli che dipendono dalla stagione.
 
-Di tutti gli oggetti, l’oro e l’argento soddisfano al meglio tutti questi requisiti. Le pietre preziose sono più pratiche da trasportare, in termini di rapporto tra valore e peso: mille sterline di diamanti occupano meno spazio e pesano meno rispetto a mille sterline d’oro. Inoltre, il valore delle pietre preziose è abbastanza [[Stable|stabile]] e si conserva bene nel tempo; tuttavia non sono facilmente divisibili, e il loro valore standard varia in base alla purezza. L’oro e l’argento, invece, possiedono tutte queste qualità: l’oro si degrada molto poco con il passare del [[Time|tempo]], e lo stesso vale per l’argento; entrambi hanno un valore abbastanza [[Stable|stabile]] anche in grandi quantità, sono facilmente divisibili e possono quindi essere offerti in qualsiasi importo, da un decimo di oncia fino a cento libbre.
+Di tutti gli oggetti, l’oro e l’argento soddisfano al meglio tutti questi requisiti. Le pietre preziose sono più pratiche da trasportare, in termini di rapporto tra valore e peso: mille sterline di diamanti occupano meno spazio e pesano meno rispetto a mille sterline d’oro. Inoltre, il valore delle pietre preziose è abbastanza [[settings/stable|stabile]] e si conserva bene nel tempo; tuttavia non sono facilmente divisibili, e il loro valore standard varia in base alla purezza. L’oro e l’argento, invece, possiedono tutte queste qualità: l’oro si degrada molto poco con il passare del [[motifs/time|tempo]], e lo stesso vale per l’argento; entrambi hanno un valore abbastanza [[settings/stable|stabile]] anche in grandi quantità, sono facilmente divisibili e possono quindi essere offerti in qualsiasi importo, da un decimo di oncia fino a cento libbre.
 
 Quindi, semplicemente per effetto delle circostanze, l’oro e l’argento divennero la moneta dell’umanità. Le persone tenevano oro e argento con sé al fine di effettuare gli scambi; molto presto, un produttore non si considerava più impegnato in uno scambio vero e proprio (nel senso di scambiare beni contro altri beni), ma vedeva la cosa come una compravendita: cioè come lo scambio del proprio prodotto non contro altro prodotto, ma contro oro e argento, al fine di poter in seguito scambiarli per altre cose di cui aveva bisogno.
 
@@ -7274,7 +7274,7 @@ When gold and silver become the money of mankind it is important to
 be able to tell at once the exact amounts you are dealing with. This,
 under simple conditions, is done by weighing; but it is more convenient
 to stamp on separate bits of metal what weight there is in each, and
-that is called “coining the metal.” All that a [[government|Government]] does when it
+that is called “coining the metal.” All that a Government does when it
 makes a sovereign is to guarantee that there is so much weight of gold
 in the round disc of metal which it stamps.
 
@@ -7284,12 +7284,12 @@ possible, it also has great social value as a measurer or standard,
 and soon after money comes into use men begin to think of the economic
 values of things in terms of money: that is, in what we call “Prices.”
 
-All things which men produce are fluctuating the whole [[Time|time]] in value.
+All things which men produce are fluctuating the whole [[motifs/time|time]] in value.
 There is now rather more of one article, and now rather less. A sack
 of barley at one moment will exchange exactly against a sack of wheat,
 and then in a few weeks against rather less than a sack of wheat.
-Meanwhile, where it used to fetch a [[Lamb|lamb]] in exchange it may, in a
-few months, need two sacks for a [[Lamb|lamb]]; and so with all the hundreds
+Meanwhile, where it used to fetch a [[motifs/lamb|lamb]] in exchange it may, in a
+few months, need two sacks for a [[motifs/lamb|lamb]]; and so with all the hundreds
 and thousands of other objects. When we have money the whole mass of
 transactions is referred to the current medium, and that is of immense
 social value. For no one could keep in his head all the changing
@@ -7298,20 +7298,20 @@ but it is easy to remember the exchange values against one standard
 commodity, such as gold. And whatever the exchange value is in gold we
 call the price of the article.
 
-For instance, when you say that a [[house]] is worth £500, that that is the
-“price” of the [[house]], you mean that the amount of gold you would
+For instance, when you say that a house is worth £500, that that is the
+“price” of the house, you mean that the amount of gold you would
 have to exchange to get it is about Ten Pounds weight of the metal.
-And when you say that the price of a ticket to [[Edinburgh]] is £4, you
-mean that the service of taking you to [[Edinburgh]] in the train will be
+And when you say that the price of a ticket to [[settings/edinburgh|Edinburgh]] is £4, you
+mean that the service of taking you to [[settings/edinburgh|Edinburgh]] in the train will be
 exchanged against about an ounce of the metal gold.
 
 *       *       *       *       *
 
 I now come to a most difficult point about money and prices which is
-rather beyond the elements of [[Economics]], but which it is important to
+rather beyond the elements of [[concepts/economics|Economics]], but which it is important to
 have some idea of, though it is very difficult.
 
-There is a very interesting study in [[Economics]] called “_The Theory
+There is a very interesting study in [[concepts/economics|Economics]] called “_The Theory
 of Prices,” showing why all prices on the average_ (what is called
 “General Prices,” that is the value of all goods in general as
 measured against gold) sometimes begin to go up and at other times
@@ -7331,7 +7331,7 @@ If, for any reason, the total amount of gold becomes suddenly smaller
 or suddenly larger, or if the pace at which it is used changes very
 quickly, then prices fluctuate violently.
 
-Supposing you could, in a [[Night|night]], take away half the gold in
+Supposing you could, in a [[motifs/night|night]], take away half the gold in
 circulation. Then, of course, the remaining gold would become much more
 valuable. In other words, prices would fall. For if an ounce of gold is
 rarer and more difficult to get than it was, it will exchange against,
@@ -7348,7 +7348,7 @@ The same thing would happen if you did not lessen the amount of gold in
 circulation but made the circulation much more sluggish. The amount of
 gold in circulation would be the same, but as it went its rounds more
 slowly it would be more difficult to get a certain amount of gold in
-any one place at any one [[Time|time]].
+any one place at any one [[motifs/time|time]].
 
 Prices, then, depend upon the actual amount of money that is present to
 do the work, and the pace at which it is made to go the rounds: or
@@ -7356,7 +7356,7 @@ do the work, and the pace at which it is made to go the rounds: or
 “efficiency in circulation.”
 
 Now, there is in the human mind a very strong tendency to keep prices
-[[Stable|stable]]. We think of them by a sort of natural illusion as though they
+[[settings/stable|stable]]. We think of them by a sort of natural illusion as though they
 were absolute fixed things. We think of a pound, and a shilling, and
 five pounds as real, permanent, unchanging values. If we find that
 quite suddenly five pounds will buy a great deal more than it used
@@ -7382,7 +7382,7 @@ lack of gold; and under the effect of this prices will gradually rise
 again. In the same way, if the mass of current medium by some accident
 becomes suddenly increased that should lead to an equally sudden rise
 in prices; but the unconscious tendency of the human mind to keep
-prices [[Stable|stable]] sets to work at once. Efficiency in Circulation slows
+prices [[settings/stable|stable]] sets to work at once. Efficiency in Circulation slows
 down, the new large amount of currency works more sluggishly, and,
 though prices rise, they do not rise nearly as much as the influx of
 money might warrant.
@@ -7390,29 +7390,29 @@ money might warrant.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Quando l’oro e l’argento diventano la moneta dell’umanità, è importante essere in grado di determinare immediatamente le quantità esatte con cui si sta operando. In condizioni semplici, ciò avviene pesando; tuttavia è più pratico incidere sulla superficie dei singoli pezzi di metallo il loro peso esatto, e questo processo viene definito “coniazione del metallo”. Quello che un [[government|Governo]] fa quando emette una moneta sovrana è semplicemente garantire che nel disco di metallo stampato vi sia esattamente quella quantità d’oro.
+Quando l’oro e l’argento diventano la moneta dell’umanità, è importante essere in grado di determinare immediatamente le quantità esatte con cui si sta operando. In condizioni semplici, ciò avviene pesando; tuttavia è più pratico incidere sulla superficie dei singoli pezzi di metallo il loro peso esatto, e questo processo viene definito “coniazione del metallo”. Quello che un Governo fa quando emette una moneta sovrana è semplicemente garantire che nel disco di metallo stampato vi sia esattamente quella quantità d’oro.
 
 Il denaro non svolge soltanto questa funzione principale di mezzo di scambio, ovvero quella di rendere possibili un gran numero di transazioni complesse; possiede anche un grande valore sociale in quanto unità di misura o standard. Appena il denaro viene introdotto nell’uso quotidiano, le persone iniziano a considerare i valori economici delle cose in termini di denaro: in altre parole, attraverso ciò che chiamiamo “prezzi”.
 
 Tutte le cose che gli uomini producono presentano continui fluttuamenti di valore nel corso del tempo: a volte c’è un’eccedenza di un certo prodotto, altre volte una sua carenza. In un determinato momento, un sacco di orzo può essere scambiato esattamente con un sacco di grano; poche settimane dopo, però, lo stesso sacco di orzo potrebbe valere meno di un sacco di grano. Allo stesso modo, ciò che in passato poteva essere scambiato con un agnello, alcuni mesi dopo potrebbe richiedere addirittura due sacchi di orzo. Lo stesso vale per centinaia e migliaia di altri oggetti. Quando disponiamo di denaro, l’intera complessità delle transazioni viene regolata da questo mezzo di scambio attuale, il quale possiede un enorme valore sociale: nessuno potrebbe ricordare tutti i continui cambiamenti nei valori di scambio tra i vari prodotti, ma è molto più facile memorizzare tali valori in relazione a una merce di riferimento, come l’oro. Il valore di scambio espresso in oro viene definito il prezzo del prodotto stesso.
 
-Ad esempio, quando dici che una [[house|>casa]] vale 500 sterline, intendi che quella è la “prezzo” di quella casa; cioè che l’importo in oro necessario per acquistarla equivale a circa dieci libbre di questo metallo. E quando dici che il prezzo del biglietto per [[Edinburgh|Edimburgo]] è di 4 sterline, intendi che il servizio offerto dal treno per portarti a [[Edinburgh|Edimburgo]] può essere considerato equivalente a circa un’oncia d’oro.
+Ad esempio, quando dici che una >casa vale 500 sterline, intendi che quella è la “prezzo” di quella casa; cioè che l’importo in oro necessario per acquistarla equivale a circa dieci libbre di questo metallo. E quando dici che il prezzo del biglietto per [[settings/edinburgh|Edimburgo]] è di 4 sterline, intendi che il servizio offerto dal treno per portarti a [[settings/edinburgh|Edimburgo]] può essere considerato equivalente a circa un’oncia d’oro.
 
 *       *       *       *       *
 
-Ora arrivo a un punto molto difficile riguardo al denaro e ai prezzi: si tratta di argomenti che vanno ben oltre gli elementi fondamentali dell’[[Economics|Economia]], ma è comunque importante avere una certa idea, anche se è molto difficile.
+Ora arrivo a un punto molto difficile riguardo al denaro e ai prezzi: si tratta di argomenti che vanno ben oltre gli elementi fondamentali dell’[[concepts/economics|Economia]], ma è comunque importante avere una certa idea, anche se è molto difficile.
 
-Esiste uno studio molto interessante in [[Economics|Economia]] intitolato “_La Teoria dei Prezzi_”, che spiega perché, in media, tutti i prezzi (quelli che vengono definiti “Prezzi Generali”, ovvero il valore di tutti i beni nel loro complesso misurato rispetto all’oro) a volte iniziano ad aumentare e altre volte a diminuire: perché, nel complesso, i beni diventano sempre più costosi in termini di moneta d’oro, o viceversa. Si tratta di uno studio complesso su cui le opinioni sono divise, ma le regole generali sembrano essere queste: il valore di scambio delle cose rispetto all’oro, ovvero il valore dell’oro rispetto ai beni con cui viene scambiato (cioè i prezzi), è determinato da due fattori: innanzitutto, la quantità d’oro disponibile per effettuare gli scambi; in secondo luogo, la quantità di lavoro che si può far svolgere dall’oro stesso attraverso tali scambi, ovvero il ritmo con cui l’oro può circolare nell’economia. È evidente che un pezzo d’oro che passa rapidamente da una mano all’altra svolgerà lo stesso lavoro nell’aiutare gli scambi rispetto a dieci pezzi d’oro che si muovono dieci volte più lentamente.
+Esiste uno studio molto interessante in [[concepts/economics|Economia]] intitolato “_La Teoria dei Prezzi_”, che spiega perché, in media, tutti i prezzi (quelli che vengono definiti “Prezzi Generali”, ovvero il valore di tutti i beni nel loro complesso misurato rispetto all’oro) a volte iniziano ad aumentare e altre volte a diminuire: perché, nel complesso, i beni diventano sempre più costosi in termini di moneta d’oro, o viceversa. Si tratta di uno studio complesso su cui le opinioni sono divise, ma le regole generali sembrano essere queste: il valore di scambio delle cose rispetto all’oro, ovvero il valore dell’oro rispetto ai beni con cui viene scambiato (cioè i prezzi), è determinato da due fattori: innanzitutto, la quantità d’oro disponibile per effettuare gli scambi; in secondo luogo, la quantità di lavoro che si può far svolgere dall’oro stesso attraverso tali scambi, ovvero il ritmo con cui l’oro può circolare nell’economia. È evidente che un pezzo d’oro che passa rapidamente da una mano all’altra svolgerà lo stesso lavoro nell’aiutare gli scambi rispetto a dieci pezzi d’oro che si muovono dieci volte più lentamente.
 
 Se, per qualche motivo, la quantità totale d’oro diventa improvvisamente minore o maggiore, oppure se il ritmo con cui viene utilizzato cambia molto rapidamente, allora i prezzi subiscono fluttuazioni violente.
 
 Supponendo di poter, di notte, eliminare metà dell’oro in circolazione. Allora, naturalmente, l’oro rimanente diventerebbe molto più prezioso. In altre parole, i prezzi scenderebbero. Infatti, se un’oncia d’oro diventa più rara e più difficile da ottenere, potrà essere scambiata, cioè “comprata”, per una quantità maggiore rispetto a prima; questo significa che “il prezzo delle cose è diminuito”. Prima, ad esempio, un quarto di grano valeva un’oncia d’oro; ma se improvvisamente l’oro diventasse molto più raro e prezioso, forse un’oncia d’oro potrebbe comprare non solo un quarto di grano, ma addirittura due quarti. Prima il prezzo di un quarto di grano era un’oncia d’oro; ora è soltanto mezza oncia d’oro. Il grano, quindi, è diventato più economico rispetto all’oro, e i “prezzi”, cioè i valori misurati in oro o in denaro, sono scesi.
 
-Lo stesso accadrebbe anche se non si riducesse la quantità d'oro in circolazione, ma si rendesse tale circolazione molto più lenta. La quantità totale d'oro in circolazione rimarrebbe la stessa, ma poiché il suo movimento sarebbe più lento, diventerebbe più difficile ottenere una determinata quantità d'oro in un luogo specifico e in un dato [[Time|momento]].
+Lo stesso accadrebbe anche se non si riducesse la quantità d'oro in circolazione, ma si rendesse tale circolazione molto più lenta. La quantità totale d'oro in circolazione rimarrebbe la stessa, ma poiché il suo movimento sarebbe più lento, diventerebbe più difficile ottenere una determinata quantità d'oro in un luogo specifico e in un dato [[motifs/time|momento]].
 
 Quindi, i prezzi dipendono dalla quantità effettiva di denaro disponibile per eseguire il lavoro, nonché dal ritmo con cui tale denaro circola: o, per usare termini tecnici, dalla quantità di moneta e dalla sua “efficienza nella circolazione”.
 
-Ora, nella mente umana esiste una forte tendenza a mantenere i prezzi [[Stable|stabili]]. Per un certo tipo di illusione naturale, li consideriamo come valori assolutamente fissi e immutabili. Pensiamo a una sterlina, a uno scellino o a cinque sterline come a concetti reali, permanenti e invariabili. Se scopriamo che, all’improvviso, cinque sterline permettono di acquistare molto di più rispetto al passato, oppure molto di meno, se ci troviamo di fronte a fluttuazioni improvvisse e violente dei prezzi, la nostra mente tende, in modo inconscio, a riportarli il più possibile alla situazione precedente; vi mostrerò come questa tendenza funzioni nella pratica.
+Ora, nella mente umana esiste una forte tendenza a mantenere i prezzi [[settings/stable|stabili]]. Per un certo tipo di illusione naturale, li consideriamo come valori assolutamente fissi e immutabili. Pensiamo a una sterlina, a uno scellino o a cinque sterline come a concetti reali, permanenti e invariabili. Se scopriamo che, all’improvviso, cinque sterline permettono di acquistare molto di più rispetto al passato, oppure molto di meno, se ci troviamo di fronte a fluttuazioni improvvisse e violente dei prezzi, la nostra mente tende, in modo inconscio, a riportarli il più possibile alla situazione precedente; vi mostrerò come questa tendenza funzioni nella pratica.
 
 Supponiamo che, per qualche motivo, una grande quantità d’oro scompaia. Le persone notano improvvisamente che i prezzi stanno scendendo molto rapidamente: un uomo che guadagna 1.000 sterline all’anno potrebbe ora comprare il doppio di cose rispetto a prima. D’altra parte, una persona che ha qualcosa da vendere riuscirà ad ottenere soltanto la metà di quanto guadagnava in precedenza. L’oro, infatti, è diventato più raro e quindi più prezioso rispetto ad altre merci.
 
@@ -7425,7 +7425,7 @@ Qual è il risultato? _Il risultato è un aumento molto rapido del ritmo con cui
 
 We see, therefore, that the factor in the making of prices called
 “Efficiency in Circulation” works like a sort of automatic governor,
-tending to keep prices fairly [[Stable|stable]]; but of course it cannot prevent
+tending to keep prices fairly [[settings/stable|stable]]; but of course it cannot prevent
 the gradual changes, and sometimes it cannot prevent quite sharp
 changes, as we shall see a little later on. For the moment, the
 interesting thing to note about Efficiency in Circulation is that we
@@ -7434,7 +7434,7 @@ owe to this factor in prices the creation of paper money.
 If, with only a certain stock of gold to work on, business rapidly and
 largely increases, if a great many more things are made and exchanged,
 then, as the gold will have a lot more work to do--and so become more
-difficult to obtain in any one [[Time|time]] or place--that should have the
+difficult to obtain in any one [[motifs/time|time]] or place--that should have the
 effect, of course, of making it more valuable, that is, of lowering
 prices.
 
@@ -7442,61 +7442,61 @@ Now with the beginnings of modern industry, about a hundred and fifty
 years ago, a vastly greater number of things began to be made than had
 ever been made before, and the number of exchanges effected multiplied
 ten, twenty and a hundredfold. The stock of gold, though it was
-increased in the nineteenth century by discoveries in [[Australia]] and
-California, and later in [[South Africa]], would have been quite unable to
+increased in the nineteenth century by discoveries in [[settings/australia|Australia]] and
+California, and later in [[settings/south-africa|South Africa]], would have been quite unable to
 cope with this flood of new work, and prices would have fallen very
 much indeed, had it not been for the creation of Paper Money. Paper
 money was a method of immensely increasing Efficiency in Circulation.
 
 This is how it worked.
 
-A Bank or a [[government|Government]] (but especially the Bank of [[England]], with the
-guarantee of the [[government|Government]]) would print pieces of paper with the
+A Bank or a Government (but especially the Bank of [[settings/england|England]], with the
+guarantee of the Government) would print pieces of paper with the
 words: “I promise to pay to the bearer of this Five Pounds.” Anyone
-who took one of these pieces of paper to the Bank of [[England]] could get
+who took one of these pieces of paper to the Bank of [[settings/england|England]] could get
 Five Golden Sovereigns. But since this was publicly known, people were
 willing to take the piece of paper instead of the five sovereigns.
 
-If you sold a man a [[Horse|horse]] for fifty pounds, you were just as willing to
+If you sold a man a [[motifs/horse|horse]] for fifty pounds, you were just as willing to
 take ten five pound notes for him as fifty sovereigns. They were more
 convenient to carry, and you knew that whenever you wanted the actual
 gold you had only to go to the bank and get it.
 
 Because people were thus willing to be paid in paper instead of in
 the actual gold, a large number of notes could be kept in circulation
-at any one [[Time|time]], and only a small amount of gold had to be kept in
+at any one [[motifs/time|time]], and only a small amount of gold had to be kept in
 readiness at the Bank to redeem them. In practice it was found that
 very much less gold than the notes stood for was quite enough to meet
 the notes as they were brought in for payment. Much the most of the
 note circulation went on going the rounds, and in normal times it took
-a long [[Time|time]] for a note on the average to be brought back to the Bank.
+a long [[motifs/time|time]] for a note on the average to be brought back to the Bank.
 
 You can see that this dodge of paper money had the effect of increasing
 the total amount of the current medium in practice, and of greatly
 increasing its Efficiency in Circulation. Moreover, it made the
 Efficiency in Circulation very elastic, because in times of quiet
 business, more notes would go out of circulation and be paid into
-the bank, while in [[Time|time]] of active business more notes would go on
+the bank, while in [[motifs/time|time]] of active business more notes would go on
 circulating.
 
-_So long as every note was redeemed in gold every [[Time|time]] it was brought
+_So long as every note was redeemed in gold every [[motifs/time|time]] it was brought
 to the bank, so long as the promise to pay was promptly kept, the money
 still remained good; the paper currency did not interfere with the
 reality of the gold values, there was no upsetting of prices, and all
-went [[Well|well]]._
+went [[motifs/well|well]]._
 
-Unfortunately, Governments are under a great [[Temptation|temptation]], when they
+Unfortunately, Governments are under a great [[concepts/temptation|temptation]], when they
 have exceptionally heavy expenses, to falsify the Currency. People get
-so much in the habit of trusting the [[government|Government]] stamp on paper or metal
-that they take it as part of [[Nature|nature]]. What the [[government|Government]] is really
+so much in the habit of trusting the Government stamp on paper or metal
+that they take it as part of [[concepts/nature|nature]]. What the Government is really
 doing when it coins a sovereign is giving a guarantee that this little
 disc of yellow metal contains 123 grains of gold with a certain known
-(and small) amount of alloy to make the gold hard. When the [[government|Government]]
+(and small) amount of alloy to make the gold hard. When the Government
 has to pay a large amount in wages, or for its Army and Navy, or what
 not, it is tempted to put in less gold and more alloy and keep the old
 stamp unchanged, and that is called “Debasing the Currency.”
 
-For instance, the [[government|Government]] wants a hundred tons of wheat to feed
+For instance, the Government wants a hundred tons of wheat to feed
 soldiers with, and the price of wheat in gold at that moment is Ten
 Sovereigns a ton. It says to a merchant, “If you will give me a
 hundred tons of wheat, I will give you a thousand sovereigns.” But
@@ -7509,16 +7509,16 @@ Only when these bad sovereigns get into circulation they naturally
 find their level in gold; for people begin to test them, and find
 that they have not got as much gold in them as they pretend to have.
 Then, of course, prices as measured in this new base coin rise. If the
-[[government|Government]] wants to buy another hundred tons of wheat it must offer
+Government wants to buy another hundred tons of wheat it must offer
 more than a thousand of the base coins; it must offer, say, thirteen
 hundred of them. But again it is tempted to put even less gold into
 the coins with which it pays for the second lot of wheat, and so the
 coin gets baser and baser, until at last, perhaps, a sovereign will not
 really be worth half what it pretends to be. Governments in the past
-have done this over and over again, but it was not until our [[Time|time]] that
+have done this over and over again, but it was not until our [[motifs/time|time]] that
 the worst form of debasing the coinage came in.
 
-It came in as a result of the Great War, and we are all [[Suffering|suffering]] from
+It came in as a result of the Great War, and we are all [[concepts/suffering|suffering]] from
 it to-day. This last and worst form of debasing coinage worked, not
 through cheating about the metal, but through a trick played with paper
 money.
@@ -7526,21 +7526,21 @@ money.
 Before the war, if you got a Five Pound note saying “I promise to pay
 Five Pounds” the promise was kept and the five golden sovereigns were
 there for you whenever you went with your note to the bank and asked
-for them; but when the [[government|Government]] had these very heavy expenses to
+for them; but when the Government had these very heavy expenses to
 meet on account of the war, they first began making difficulties about
 paying when people brought their paper to the bank, and at last stopped
-paying altogether. At the same [[Time|time]], they did everything they could to
+paying altogether. At the same [[motifs/time|time]], they did everything they could to
 get the gold out of private people’s hands and to make them use paper
 money instead. The consequence was that, people being so accustomed
-to think of a paper guarantee of the [[government|Government]] exactly as though it
+to think of a paper guarantee of the Government exactly as though it
 were real money, readily took to the new notes and used them as money,
 thinking of these wretched bits of paper exactly as though they were
-so many golden sovereigns. The [[government|Government]] could go on printing as many
+so many golden sovereigns. The Government could go on printing as many
 bits of paper as it liked, and they would still be used as though they
 were real money. So long as the amount of paper printed was not more
 than would have been printed when the notes were redeemable, and when
 the currency was on a true “Gold Basis,” no harm was done; but of
-course it paid the [[government|Government]] to go on printing a great many more notes
+course it paid the Government to go on printing a great many more notes
 than that, because, when it could make money thus cheaply, it could pay
 for anything, however great the expense; but at the cost, of course, of
 debasing the currency more and more.
@@ -7548,31 +7548,31 @@ debasing the currency more and more.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Quindi, vediamo che il fattore che influisce sulla formazione dei prezzi, chiamato “Efficienza nella Circolazione”, funziona come una sorta di regolatore automatico, tendendo a mantenere i prezzi abbastanza [[Stable|stabili]]; ma ovviamente non può impedire i cambiamenti graduali, e a volte nemmeno quelli piuttosto bruschi, come vedremo più avanti. Per il momento, l’aspetto interessante da notare riguardo all’“Efficienza nella Circolazione” è che dobbiamo proprio a questo fattore la creazione della carta moneta.
+Quindi, vediamo che il fattore che influisce sulla formazione dei prezzi, chiamato “Efficienza nella Circolazione”, funziona come una sorta di regolatore automatico, tendendo a mantenere i prezzi abbastanza [[settings/stable|stabili]]; ma ovviamente non può impedire i cambiamenti graduali, e a volte nemmeno quelli piuttosto bruschi, come vedremo più avanti. Per il momento, l’aspetto interessante da notare riguardo all’“Efficienza nella Circolazione” è che dobbiamo proprio a questo fattore la creazione della carta moneta.
 
 Se, disponendo di una determinata quantità d’oro, l’attività economica aumenta rapidamente e su larga scala, se vengono prodotte e scambiate molte più cose, allora, poiché l’oro dovrà svolgere un compito molto più impegnativo – e quindi diventerà più difficile da ottenere in un determinato momento o luogo – ciò avrà naturalmente come conseguenza di renderlo più prezioso, cioè di far diminuire i suoi prezzi.
 
-Ora, con l'inizio dell'industria moderna, circa centocinquanta anni fa, un numero di oggetti molto più grande di quanto mai fosse stato prodotto prima iniziò ad essere creato, e il numero degli scambi effettuati aumentò dieci, venti e cento volte. Le riserve d'oro, sebbene fossero aumentate nel XIX secolo grazie alle scoperte in [[Australia]] e California, e in seguito in [[South Africa|Sudafrica]], non sarebbero state affatto in grado di far fronte a questa enorme produzione; i prezzi sarebbero sicuramente calati molto, se non fosse stato per l'invenzione della carta moneta. La carta moneta rappresentò quindi un metodo efficace per aumentare enormemente l'efficienza dei processi di circolazione economica.
+Ora, con l'inizio dell'industria moderna, circa centocinquanta anni fa, un numero di oggetti molto più grande di quanto mai fosse stato prodotto prima iniziò ad essere creato, e il numero degli scambi effettuati aumentò dieci, venti e cento volte. Le riserve d'oro, sebbene fossero aumentate nel XIX secolo grazie alle scoperte in [[settings/australia|Australia]] e California, e in seguito in [[settings/south-africa|Sudafrica]], non sarebbero state affatto in grado di far fronte a questa enorme produzione; i prezzi sarebbero sicuramente calati molto, se non fosse stato per l'invenzione della carta moneta. La carta moneta rappresentò quindi un metodo efficace per aumentare enormemente l'efficienza dei processi di circolazione economica.
 
 Ecco come funzionava.
 
-Una banca o un [[government|Governo]] (ma soprattutto la Banca di [[England|Inghilterra]], con la garanzia del [[government|Governo]]) stampava fogli di carta su cui era scritto: “Prometto di pagare a chiunque presenti questo biglietto da cinque sterline”. Chiunque portasse uno di questi biglietti alla Banca di [[England|Inghilterra]] poteva ottenere cinque sovrani d’oro. Ma poiché questa informazione era di dominio pubblico, le persone preferivano tenersi i biglietti piuttosto che i sovrani in oro.
+Una banca o un Governo (ma soprattutto la Banca di [[settings/england|Inghilterra]], con la garanzia del Governo) stampava fogli di carta su cui era scritto: “Prometto di pagare a chiunque presenti questo biglietto da cinque sterline”. Chiunque portasse uno di questi biglietti alla Banca di [[settings/england|Inghilterra]] poteva ottenere cinque sovrani d’oro. Ma poiché questa informazione era di dominio pubblico, le persone preferivano tenersi i biglietti piuttosto che i sovrani in oro.
 
-Se vendevi a qualcuno un [[Horse|cavallo]] per cinquanta sterline, eri altrettanto disposto ad accettare dieci banconote da cinque sterline al posto di cinquanta sovrani. Queste ultime erano più pratiche da portare con sé, e sapevi che, se mai avessi voluto il oro effettivo, avresti potuto semplicemente andare in banca a ritirarlo.
+Se vendevi a qualcuno un [[motifs/horse|cavallo]] per cinquanta sterline, eri altrettanto disposto ad accettare dieci banconote da cinque sterline al posto di cinquanta sovrani. Queste ultime erano più pratiche da portare con sé, e sapevi che, se mai avessi voluto il oro effettivo, avresti potuto semplicemente andare in banca a ritirarlo.
 
-Poiché le persone erano disposte ad accettare pagamenti in carta anziché in oro effettivo, un gran numero di banconote poteva circolare contemporaneamente, e era necessario tenere in riserva solo una piccola quantità d’oro presso la Banca per poterle rimborsare. In pratica si è scoperto che bastava molto meno oro di quanto rappresentato dalle banconote per far fronte alle richieste di rimborso. La maggior parte delle banconote circolanti continuava semplicemente a passare di mano in mano, e in tempi normali occorreva un lungo [[Time|tempo]] affinché una banconota venisse restituita alla Banca.
+Poiché le persone erano disposte ad accettare pagamenti in carta anziché in oro effettivo, un gran numero di banconote poteva circolare contemporaneamente, e era necessario tenere in riserva solo una piccola quantità d’oro presso la Banca per poterle rimborsare. In pratica si è scoperto che bastava molto meno oro di quanto rappresentato dalle banconote per far fronte alle richieste di rimborso. La maggior parte delle banconote circolanti continuava semplicemente a passare di mano in mano, e in tempi normali occorreva un lungo [[motifs/time|tempo]] affinché una banconota venisse restituita alla Banca.
 
 Si può notare che questo sistema di evasione riguardo alla circolazione della carta moneta ebbe l’effetto di aumentare, nella pratica, la quantità totale di questa valuta in circolazione e di migliorarne notevolmente l’efficienza. Inoltre, rendeva tale efficienza molto flessibile: nei periodi di scarsa attività economica, un maggior numero di banconote veniva ritirate dalla circolazione e depositato in banca, mentre nei momenti di maggiore attività commerciale più banconote rimanevano in circolazione.
 
-Finché ogni nota veniva riscossa in oro ogni volta che veniva portata in banca, finché la promessa di pagamento veniva rispettata tempestivamente, il denaro rimaneva valido; la moneta cartacea non interferiva con la realtà dei valori dell’oro, i prezzi non subivano variazioni e tutto andava [[Well|bene]].
+Finché ogni nota veniva riscossa in oro ogni volta che veniva portata in banca, finché la promessa di pagamento veniva rispettata tempestivamente, il denaro rimaneva valido; la moneta cartacea non interferiva con la realtà dei valori dell’oro, i prezzi non subivano variazioni e tutto andava [[motifs/well|bene]].
 
-Purtroppo, i governi sono esposti a una grande [[Temptation|tentazione]] quando hanno spese eccezionalmente elevate: falsificare la moneta. Le persone ormai si sono abituate a fidarsi della marca del governo su carta o metallo, al punto di considerarla parte della [[Nature|>natura]] stessa delle cose. Quando un governo conia una moneta, in realtà sta dando garanzie sul fatto che quel piccolo disco di metallo giallo contenga 123 grani d’oro, oltre a una quantità determinata (e ridotta) di leghe metalliche per rendere l’oro più resistente. Tuttavia, quando un governo deve pagare somme ingenti in salari, per il proprio esercito o la propria marina, ecc., è tentato di utilizzare meno oro e più leghe, mantenendo intatta la vecchia marca della moneta; questo fenomeno viene definito “svalutazione della valuta”.
+Purtroppo, i governi sono esposti a una grande [[concepts/temptation|tentazione]] quando hanno spese eccezionalmente elevate: falsificare la moneta. Le persone ormai si sono abituate a fidarsi della marca del governo su carta o metallo, al punto di considerarla parte della [[concepts/nature|>natura]] stessa delle cose. Quando un governo conia una moneta, in realtà sta dando garanzie sul fatto che quel piccolo disco di metallo giallo contenga 123 grani d’oro, oltre a una quantità determinata (e ridotta) di leghe metalliche per rendere l’oro più resistente. Tuttavia, quando un governo deve pagare somme ingenti in salari, per il proprio esercito o la propria marina, ecc., è tentato di utilizzare meno oro e più leghe, mantenendo intatta la vecchia marca della moneta; questo fenomeno viene definito “svalutazione della valuta”.
 
-Ad esempio, il [[government|Governo]] desidera acquistare cento tonnellate di grano per nutrire i soldati; al momento, il prezzo del grano in termini d’oro è di Dieci Sovrani a tonnellata. Il Governo dice quindi a un mercante: “Se mi fornisci cento tonnellate di grano, ti darò mille Sovrani”. Tuttavia, quando arriva il momento di pagare, invece di utilizzare monete da mille Sovrani ciascuna contenenti 123 grani d’oro, si utilizzano monete di qualità inferiore, contenenti soltanto cento o meno grani d’oro ciascuna. Si tratta di una forma semplice e sempre efficace di truffa: il mercante infatti pensa che le monete siano autentiche. Solo quando queste monete di scarsa qualità entrano in circolazione, la loro reale valore in oro viene rivelato; le persone iniziano a verificarle e scoprono che non contengono quanto oro dichiarato. Di conseguenza, i prezzi, calcolati in base a queste nuove monete, aumentano. Se il [[government|Governo]] desidera acquistare altre cento tonnellate di grano, deve offrire più di mille di queste monete di scarsa qualità; forse addirittura tredicimila. Ma di nuovo viene tentato di inserire ancora meno oro nelle monete utilizzate per il pagamento, rendendole sempre di peggiore qualità. Fino a quando, alla fine, una moneta da un Sovrano potrebbe non valere nemmeno la metà di quanto pretende di valere. I governi del passato hanno ripetuto questo comportamento più e più volte; ma è stato soltanto nel nostro [[Time|tempo]] che si è verificata la forma più grave di svalutazione della moneta.
+Ad esempio, il Governo desidera acquistare cento tonnellate di grano per nutrire i soldati; al momento, il prezzo del grano in termini d’oro è di Dieci Sovrani a tonnellata. Il Governo dice quindi a un mercante: “Se mi fornisci cento tonnellate di grano, ti darò mille Sovrani”. Tuttavia, quando arriva il momento di pagare, invece di utilizzare monete da mille Sovrani ciascuna contenenti 123 grani d’oro, si utilizzano monete di qualità inferiore, contenenti soltanto cento o meno grani d’oro ciascuna. Si tratta di una forma semplice e sempre efficace di truffa: il mercante infatti pensa che le monete siano autentiche. Solo quando queste monete di scarsa qualità entrano in circolazione, la loro reale valore in oro viene rivelato; le persone iniziano a verificarle e scoprono che non contengono quanto oro dichiarato. Di conseguenza, i prezzi, calcolati in base a queste nuove monete, aumentano. Se il Governo desidera acquistare altre cento tonnellate di grano, deve offrire più di mille di queste monete di scarsa qualità; forse addirittura tredicimila. Ma di nuovo viene tentato di inserire ancora meno oro nelle monete utilizzate per il pagamento, rendendole sempre di peggiore qualità. Fino a quando, alla fine, una moneta da un Sovrano potrebbe non valere nemmeno la metà di quanto pretende di valere. I governi del passato hanno ripetuto questo comportamento più e più volte; ma è stato soltanto nel nostro [[motifs/time|tempo]] che si è verificata la forma più grave di svalutazione della moneta.
 
-Nacque come conseguenza della Grande Guerra, e oggi tutti ne stiamo [[Suffering|soffrendo]]. Questa ultima e peggiore forma di svalutazione delle monete funzionava non attraverso truffe legate al metallo, ma attraverso un inganno che riguardava il denaro cartaceo.
+Nacque come conseguenza della Grande Guerra, e oggi tutti ne stiamo [[concepts/suffering|soffrendo]]. Questa ultima e peggiore forma di svalutazione delle monete funzionava non attraverso truffe legate al metallo, ma attraverso un inganno che riguardava il denaro cartaceo.
 
-Prima della guerra, se si aveva una banconota da cinque sterline su cui era scritto “Prometto di pagare cinque sterline”, quella promessa veniva mantenuta e le cinque monete d’oro erano effettivamente disponibili ogni volta che si presentava in banca con la banconota per richiederle; ma quando il [[government|Governo]] dovette affrontare spese enormi a causa della guerra, iniziò prima ad creare difficoltà nel pagamento e, alla fine, smise del tutto di rimborsare. Nello stesso tempo, fece di tutto per sottrarre l’oro dalle mani dei privati e convincerli ad utilizzare invece denaro cartaceo. Di conseguenza, poiché le persone erano abituate a considerare la garanzia scritta sulle banconote del [[government|Governo]] come se fosse effettivamente denaro reale, accettarono facilmente le nuove banconote e le usarono come moneta normale, pensando che quei miseri pezzi di carta avessero lo stesso valore delle monete d’oro. Il [[government|Governo]] poteva quindi stampare quante banconote voleva, e queste venivano comunque accettate come se fossero denaro reale. Finché la quantità di carta stampata non superava quella che sarebbe stata necessaria se le banconote fossero state rimborsabili e finché la valuta si basava su un vero “sistema aureo”, non ci furono danni; ma ovviamente, per il [[government|Governo]] era vantaggioso stampare molte più banconote del necessario, perché in questo modo poteva spendere qualsiasi somma senza problemi, a scapito, naturalmente, della degradazione continua della valuta.
+Prima della guerra, se si aveva una banconota da cinque sterline su cui era scritto “Prometto di pagare cinque sterline”, quella promessa veniva mantenuta e le cinque monete d’oro erano effettivamente disponibili ogni volta che si presentava in banca con la banconota per richiederle; ma quando il Governo dovette affrontare spese enormi a causa della guerra, iniziò prima ad creare difficoltà nel pagamento e, alla fine, smise del tutto di rimborsare. Nello stesso tempo, fece di tutto per sottrarre l’oro dalle mani dei privati e convincerli ad utilizzare invece denaro cartaceo. Di conseguenza, poiché le persone erano abituate a considerare la garanzia scritta sulle banconote del Governo come se fosse effettivamente denaro reale, accettarono facilmente le nuove banconote e le usarono come moneta normale, pensando che quei miseri pezzi di carta avessero lo stesso valore delle monete d’oro. Il Governo poteva quindi stampare quante banconote voleva, e queste venivano comunque accettate come se fossero denaro reale. Finché la quantità di carta stampata non superava quella che sarebbe stata necessaria se le banconote fossero state rimborsabili e finché la valuta si basava su un vero “sistema aureo”, non ci furono danni; ma ovviamente, per il Governo era vantaggioso stampare molte più banconote del necessario, perché in questo modo poteva spendere qualsiasi somma senza problemi, a scapito, naturalmente, della degradazione continua della valuta.
 
 
 
@@ -7591,38 +7591,38 @@ of it than we ought to have. But the French have more in proportion, so
 that prices measured in their money are now (1923) more than three
 times what they would be in gold. The Italians are worse off still.
 With them it is four times. With the Germans it is millions of times,
-and their currency has quite gone to pieces; a paper coin in [[Germany]]
-is worth (at the [[Time|time]] I write, October, 1923) ten million times less
+and their currency has quite gone to pieces; a paper coin in [[settings/germany|Germany]]
+is worth (at the [[motifs/time|time]] I write, October, 1923) ten million times less
 than the real metal coin which it is supposed to represent.
 
 This is one of the very worst things that has happened on account of
-the war, for as the money now being used all over [[Europe]] is not real
+the war, for as the money now being used all over [[settings/europe|Europe]] is not real
 money, no one feels certain whether he can get his debts really paid,
 or whether his savings are safe, or whether a contract made for a
 certain payment a few months hence will be really fulfilled or not. A
 man may lend a thousand francs or marks or pounds for a year, and then
 at the end of the year, when he is to be paid back, he may be paid in
 coin which has got so much worse that he is really receiving only half
-or a tenth or a thousandth of the real value he lent. A man in [[Germany]]
+or a tenth or a thousandth of the real value he lent. A man in [[settings/germany|Germany]]
 sells a hundred sheep for so many marks, to be paid for in a month; and
 at the end of the month the marks will only buy ten sheep!
 
 This piece of swindling, which has been the note of the last five
 years, is the first point we have touched on so far where a problem in
-[[Economics]] and the study of economic law brings one up against questions
+[[concepts/economics|Economics]] and the study of economic law brings one up against questions
 of right and wrong.
 
-It is morally wrong for the [[government|Government]] to swindle people out of their
+It is morally wrong for the Government to swindle people out of their
 property by making false money. What is the way out, allowing for
 Economic Law? It is morally wrong that some men should starve while
 other men have too much: allowing for Economic Law, what is the way out
 of such evils?
 
-As you go on in the study of [[Economics]] you find quantities of questions
+As you go on in the study of [[concepts/economics|Economics]] you find quantities of questions
 where you have to decide whether economic laws render possible
 political actions which you would very much like to undertake, and
 which seem right and just. Many such actions, though one would like to
-undertake them, cannot be undertaken because our study of [[Economics]]
+undertake them, cannot be undertaken because our study of [[concepts/economics|Economics]]
 has shown us that the consequences will be very different from what we
 hoped.
 
@@ -7632,12 +7632,12 @@ their duty to do politically by pleading that Economic Law prevents it.
 Before ending these notes, then, we must go into the main questions
 of this kind, and see what there is to be said, in the light of
 economic knowledge, for our present system of society, which is called
-[[Capitalism]]; for other systems in the past such as [[Slavery]]; for
-Private Property; for the various theories of [[Socialism]]; for and
+[[concepts/capitalism|Capitalism]]; for other systems in the past such as [[concepts/slavery|Slavery]]; for
+Private Property; for the various theories of [[concepts/socialism|Socialism]]; for and
 against Usury, and so on.
 
 It is necessary to go into these points even in the most elementary
-book on [[Economics]], because the moment one begins the practical
+book on [[concepts/economics|Economics]], because the moment one begins the practical
 application of one’s economic science these questions at once arise; to
 answer them rightly is the most important use we can make of economic
 knowledge.
@@ -7647,21 +7647,21 @@ knowledge.
 
 Questo tipo di denaro, imposto alle persone sotto il pretesto di essere uguale al denaro reale ma in realtà privo di un fondamento aureo, viene chiamato denaro “fiat”. È proprio questo tipo di denaro che utilizza oggi l’intero mondo, ad eccezione dei paesi che non parteciparono alla Grande Guerra e degli Stati Uniti, che non hanno mai abbandonato il loro fondamento aureo.
 
-Tra i diversi paesi europei impegnati nella lotta economica, tuttavia, il nostro ha ottenuto i migliori risultati in questa materia. Noi continuiamo ancora a utilizzare denaro emesso dalla Fiat, e ne abbiamo molto più di quanto dovremmo avere. Ma i francesi ne possiedono una quantità proporzionalmente maggiore; quindi, i prezzi misurati in loro moneta sono oggi (nel 1923) più di tre volte superiori a quelli che sarebbero se calcolati in oro. Gli italiani sono ancora in condizioni peggiori: per loro il rapporto è di quattro volte. I tedeschi, invece, si trovano in una situazione disastrosa: la loro moneta è completamente distrutta; una banconota in [[Germany|Germania]] vale (al momento in cui scrivo, ottobre 1923) dieci milioni di volte meno della moneta metallica reale che dovrebbe rappresentare.
+Tra i diversi paesi europei impegnati nella lotta economica, tuttavia, il nostro ha ottenuto i migliori risultati in questa materia. Noi continuiamo ancora a utilizzare denaro emesso dalla Fiat, e ne abbiamo molto più di quanto dovremmo avere. Ma i francesi ne possiedono una quantità proporzionalmente maggiore; quindi, i prezzi misurati in loro moneta sono oggi (nel 1923) più di tre volte superiori a quelli che sarebbero se calcolati in oro. Gli italiani sono ancora in condizioni peggiori: per loro il rapporto è di quattro volte. I tedeschi, invece, si trovano in una situazione disastrosa: la loro moneta è completamente distrutta; una banconota in [[settings/germany|Germania]] vale (al momento in cui scrivo, ottobre 1923) dieci milioni di volte meno della moneta metallica reale che dovrebbe rappresentare.
 
-Questo è uno dei peggiori effetti derivanti dalla guerra: poiché i soldi attualmente in circolazione in tutta [[Europe|Europa]] non sono denaro reale, nessuno può essere certo che i propri debiti verranno effettivamente saldati, che i propri risparmi siano al sicuro, o che un contratto stipulato per un pagamento futuro venga davvero onorato. Un uomo può prestare mille franchi, marchi o sterline per un anno, ma alla scadenza dell’impegno potrebbe ricevere in cambio moneta il cui valore è notevolmente diminuito, ricevendo quindi soltanto la metà, un decimo o addirittura un millesimo del valore reale della somma prestata. In [[Germany|Germania]], ad esempio, qualcuno può vendere cento pecore per una certa quantità di marchi, con il pagamento previsto per un mese; ma alla fine di quel mese quei marchi potrebbero valere soltanto dieci pecore.
+Questo è uno dei peggiori effetti derivanti dalla guerra: poiché i soldi attualmente in circolazione in tutta [[settings/europe|Europa]] non sono denaro reale, nessuno può essere certo che i propri debiti verranno effettivamente saldati, che i propri risparmi siano al sicuro, o che un contratto stipulato per un pagamento futuro venga davvero onorato. Un uomo può prestare mille franchi, marchi o sterline per un anno, ma alla scadenza dell’impegno potrebbe ricevere in cambio moneta il cui valore è notevolmente diminuito, ricevendo quindi soltanto la metà, un decimo o addirittura un millesimo del valore reale della somma prestata. In [[settings/germany|Germania]], ad esempio, qualcuno può vendere cento pecore per una certa quantità di marchi, con il pagamento previsto per un mese; ma alla fine di quel mese quei marchi potrebbero valere soltanto dieci pecore.
 
-Questo tipo di truffe, che è stato caratteristico degli ultimi cinque anni, rappresenta il primo aspetto su cui abbiamo discusso finora: in questo caso, un problema legato all’[[Economics|Economia]] e allo studio del diritto economico porta inevitabilmente a riflettere su questioni di giusto e sbagliato.
+Questo tipo di truffe, che è stato caratteristico degli ultimi cinque anni, rappresenta il primo aspetto su cui abbiamo discusso finora: in questo caso, un problema legato all’[[concepts/economics|Economia]] e allo studio del diritto economico porta inevitabilmente a riflettere su questioni di giusto e sbagliato.
 
-È moralmente sbagliato che il [[government|Governo]] inganni le persone privandole delle loro proprietà attraverso la creazione di denaro falso. Qual è la soluzione, anche tenendo conto del Diritto Economico? È moralmente sbagliato che alcune persone muoiano di fame mentre altre ne hanno in eccesso: considerando il Diritto Economico, qual è il modo per eliminare tali ingiustizie?
+È moralmente sbagliato che il Governo inganni le persone privandole delle loro proprietà attraverso la creazione di denaro falso. Qual è la soluzione, anche tenendo conto del Diritto Economico? È moralmente sbagliato che alcune persone muoiano di fame mentre altre ne hanno in eccesso: considerando il Diritto Economico, qual è il modo per eliminare tali ingiustizie?
 
-Man mano che si approfondisce lo studio dell’[[Economics|Economia]], ci si imbatte in molte situazioni in cui bisogna decidere se le leggi economiche rendano possibili azioni politiche che si desidererebbe molto intraprendere e che sembrano giuste e appropriate. Tuttavia, molte di queste azioni non possono essere realizzate, perché lo studio dell’[[Economics|Economia]] ci ha mostrato che le conseguenze sarebbero molto diverse da quelle che speravamo.
+Man mano che si approfondisce lo studio dell’[[concepts/economics|Economia]], ci si imbatte in molte situazioni in cui bisogna decidere se le leggi economiche rendano possibili azioni politiche che si desidererebbe molto intraprendere e che sembrano giuste e appropriate. Tuttavia, molte di queste azioni non possono essere realizzate, perché lo studio dell’[[concepts/economics|Economia]] ci ha mostrato che le conseguenze sarebbero molto diverse da quelle che speravamo.
 
 D'altra parte, molte persone cercano di eludere ciò che è loro dovere politico sostenendo che il Diritto Economico lo vieta.
 
-Prima di concludere queste note, dobbiamo affrontare le principali questioni di questo genere e vedere cosa si possa dire, alla luce delle conoscenze economiche, riguardo al nostro attuale sistema sociale, chiamato [[Capitalism|Capitalismo]]; riguardo ad altri sistemi del passato come la [[Slavery|Schiavitù]]; riguardo alla Proprietà Privata; riguardo alle varie teorie del [[Socialism|Socialismo]]; e così via, sia a favore che contro l’Usura.
+Prima di concludere queste note, dobbiamo affrontare le principali questioni di questo genere e vedere cosa si possa dire, alla luce delle conoscenze economiche, riguardo al nostro attuale sistema sociale, chiamato [[concepts/capitalism|Capitalismo]]; riguardo ad altri sistemi del passato come la [[concepts/slavery|Schiavitù]]; riguardo alla Proprietà Privata; riguardo alle varie teorie del [[concepts/socialism|Socialismo]]; e così via, sia a favore che contro l’Usura.
 
-È necessario affrontare questi argomenti anche nei libri più elementari di [[Economics|Economia]], perché non appena si inizia ad applicare concretamente le conoscenze economiche, queste domande sorgono immediatamente; rispondervi correttamente rappresenta l’utilizzo più importante che possiamo fare delle conoscenze economiche.
+È necessario affrontare questi argomenti anche nei libri più elementari di [[concepts/economics|Economia]], perché non appena si inizia ad applicare concretamente le conoscenze economiche, queste domande sorgono immediatamente; rispondervi correttamente rappresenta l’utilizzo più importante che possiamo fare delle conoscenze economiche.
 
 
 
@@ -7670,10 +7670,10 @@ Prima di concludere queste note, dobbiamo affrontare le principali questioni di 
 
 INTRODUCTION
 
-So far I have been putting down the elements of [[Economics]] just as one
-might put down the elements of Arithmetic. But [[Economics]] have, just
+So far I have been putting down the elements of [[concepts/economics|Economics]] just as one
+might put down the elements of Arithmetic. But [[concepts/economics|Economics]] have, just
 like Arithmetic, a practical application: if it were not for this,
-there would be no real use in studying [[Economics]] at all.
+there would be no real use in studying [[concepts/economics|Economics]] at all.
 
 For instance: we find out, when we do the elements of Arithmetic, that
 solid bodies vary with the cube of their linear measurements. That is
@@ -7684,41 +7684,41 @@ another will be eight times as big; it is also by using the elements of
 Arithmetic that we can keep household accounts and do all the rest of
 our work.
 
-It is precisely the same with [[Economics]]. We are perpetually coming upon
-political problems which [[Economics]] illustrate and to which economic
+It is precisely the same with [[concepts/economics|Economics]]. We are perpetually coming upon
+political problems which [[concepts/economics|Economics]] illustrate and to which economic
 science furnishes the answer--or part of the answer--and that is where
-the theoretical elements of [[Economics]] have practical importance.
+the theoretical elements of [[concepts/economics|Economics]] have practical importance.
 
 For instance: once we know the elementary economic principle that
 rent is a surplus, we appreciate that it does not enter into cost
 of production. We do not try to make things cheaper by compulsorily
-lowering rent. Or, again, when we have learned the [[Nature|nature]] of money we
+lowering rent. Or, again, when we have learned the [[concepts/nature|nature]] of money we
 can appreciate the dangers that come from using false money.
 
-In these political applications of [[Economics]] we also come upon what
+In these political applications of [[concepts/economics|Economics]] we also come upon what
 is much more important than mere politics, and that is the question
 of right and wrong. We see that such and such a thing ought to be so
 as a matter of justice; but we may blunder, as many great reformers
 have blundered, in trying to do the right thing and failing to do it,
 because we have not made a proper application of our economic science.
-And the opposite is also true: that is, a knowledge of [[Economics]]
-prevents their being wrongly applied by those who [[Desire|desire]] evil. Many
+And the opposite is also true: that is, a knowledge of [[concepts/economics|Economics]]
+prevents their being wrongly applied by those who [[motifs/desire|desire]] evil. Many
 men take refuge in the excuse that, with the best will in the world,
-they cannot work such and such a social [[Reform|reform]] because economic science
+they cannot work such and such a social [[concepts/reform|reform]] because economic science
 prevents their doing what they know to be right. If we know our
-[[Economics]] properly we can refute these false arguments, to the great
+[[concepts/economics|Economics]] properly we can refute these false arguments, to the great
 advantage of our own souls and of our fellow-men.
 
 For instance: it is clearly our duty to-day to alleviate the fearful
-[[Poverty|poverty]] in which most Englishmen live. A great many people who ought to
+[[concepts/poverty|poverty]] in which most Englishmen live. A great many people who ought to
 know better say, or pretend, that economic laws prevent our doing this
 act of justice. Economic laws have no such effect; and an understanding
-of [[Economics]] clears us in this matter, as we shall see later on.
+of [[concepts/economics|Economics]] clears us in this matter, as we shall see later on.
 
 We have hitherto been following the statement and examination of
 economic laws: that is, the theoretical part of our study and its
 necessary foundation. Now we go on to the practical part, or “Applied
-[[Economics]],” which is the effect of those laws on the lives of men.
+[[concepts/economics|Economics]],” which is the effect of those laws on the lives of men.
 
 Before leaving this Introduction I think it is important to get quite
 clear the difference between what is called “theoretical” study
@@ -7729,17 +7729,17 @@ better.
 A theoretical statement is a statement following necessarily and
 logically from some one or more known first principles. Thus, we know
 that two sides of a triangle are longer than the third, so we say it
-follows theoretically that a straight [[Road|road]] from [[London]] to Brighton
+follows theoretically that a straight [[motifs/road|road]] from [[settings/london|London]] to Brighton
 is quicker motoring than going round by Lewes. But the number of first
 principles at work in the actual world is indefinitely large. Therefore
 one must test any one theoretical conclusion by practice: by seeing how
 it works. Because, side by side with the one or two first principles
 upon which our theory is built, there are an indefinitely large number
 of other first principles which come into play in the real world.
-Thus there is, in motoring, the principle that [[Speed|speed]] varies with [[Road|road]]
+Thus there is, in motoring, the principle that [[characters/speed|speed]] varies with [[motifs/road|road]]
 surface. So the way round by Lewes may be quicker than the straight
-[[Road|road]] if it has a better surface. There is yet another principle that
-[[Speed|speed]] is checked by turnings in the [[Road|road]], and it may prove that on
+[[motifs/road|road]] if it has a better surface. There is yet another principle that
+[[characters/speed|speed]] is checked by turnings in the [[motifs/road|road]], and it may prove that on
 trial the two ways are about equal.
 
 Or again: we know that the tidal wave is raised on either side of the
@@ -7750,14 +7750,14 @@ because the earth takes twenty-four hours to go round.
 But if you were to act upon that first principle only in any one
 part of the world, and to say without testing the thing in practice,
 “I can calculate the tide theoretically,” you would very often wreck
-your [[Ship|ship]]. For many other principles come into play in the matter of
+your [[motifs/ship|ship]]. For many other principles come into play in the matter of
 the tide besides this twelve-hour period. In one case the tide will be
-delayed by shoals or by the current of a [[River|river]]. In another there may be
+delayed by shoals or by the current of a [[motifs/river|river]]. In another there may be
 two or three tides meeting. In a third the sea will be so locked that
 there will be hardly any tide for many hours, and then a rush at the
 end--and so on.
 
-Now it is just the same with [[Economics]]. Your economic first principle
+Now it is just the same with [[concepts/economics|Economics]]. Your economic first principle
 makes you come to such and such a theoretical conclusion. But there
 are a lot of other first principles at work, and they may modify the
 effect in practice to any extent. When people object to “theoretical
@@ -7784,7 +7784,7 @@ But it does not follow that the owner of the land, for instance,
 will get the full economic rent of the land. There may be customs in
 society, or laws, by which he is compelled to share with the tenant.
 The theoretical economic rent is there all right, but one cannot deduce
-from this [[Truth|truth]] that the landlord will necessarily and always get the
+from this [[concepts/truth|truth]] that the landlord will necessarily and always get the
 whole of it. And so it is with every other political application.
 
 *       *       *       *       *
@@ -7801,7 +7801,7 @@ distribute or withhold) the means of production, the stores of food
 and clothing, and houses and machinery? On the answer to that question
 depends the economic structure of a society. This control is called
 Property, and as the first thing we have to study in practical
-[[Economics]] is the character of Property, we will make that the first
+[[concepts/economics|Economics]] is the character of Property, we will make that the first
 division of our political applications.
 
 
@@ -7809,29 +7809,29 @@ division of our political applications.
 
 Introduzione
 
-Finora ho descritto gli elementi dell’[[Economics|Economia]] esattamente come si potrebbero descrivere gli elementi dell’Aritmetica. Ma l’[[Economics|Economia]], proprio come l’Aritmetica, ha una applicazione pratica: senza di essa, lo studio dell’[[Economics|Economia]] non avrebbe alcun vero significato.
+Finora ho descritto gli elementi dell’[[concepts/economics|Economia]] esattamente come si potrebbero descrivere gli elementi dell’Aritmetica. Ma l’[[concepts/economics|Economia]], proprio come l’Aritmetica, ha una applicazione pratica: senza di essa, lo studio dell’[[concepts/economics|Economia]] non avrebbe alcun vero significato.
 
 Ad esempio: quando studiamo gli elementi dell’Aritmetica, scopriamo che i corpi solidi variano in base al cubo delle loro dimensioni lineari. Questo è il principio generale e astratto; ma la sua applicazione nella vita reale avviene quando, ad esempio, dobbiamo misurare le barche. Dagli studi di Aritmetica sappiamo che, per barche di forma simile, una barca il doppio più lunga dell’altra sarà otto volte più grande; è anche utilizzando gli elementi dell’Aritmetica che possiamo tenere i conti domestici e svolgere tutte le altre nostre attività quotidiane.
 
-È esattamente lo stesso anche con l’[[Economics|Economia]]. Continuamente ci imbattiamo in problemi politici che l’[[Economics|Economia]] illustra e ai quali la scienza economica fornisce una risposta – o almeno parte della risposta – ed è proprio in questo contesto che gli elementi teorici dell’[[Economics|Economia]] assumono un’importanza pratica.
+È esattamente lo stesso anche con l’[[concepts/economics|Economia]]. Continuamente ci imbattiamo in problemi politici che l’[[concepts/economics|Economia]] illustra e ai quali la scienza economica fornisce una risposta – o almeno parte della risposta – ed è proprio in questo contesto che gli elementi teorici dell’[[concepts/economics|Economia]] assumono un’importanza pratica.
 
-Ad esempio: una volta conosciuto il principio economico fondamentale secondo cui l’affitto rappresenta un eccesso di ricchezza, ci rendiamo conto che esso non fa parte dei costi di produzione. Non cerchiamo quindi di rendere le cose più economiche riducendo l’affitto in modo coercitivo. Oppure, ancora una volta, quando abbiamo compreso la [[Nature|>natura]] del denaro, possiamo riconoscere i pericoli derivanti dall’utilizzo di moneta falsa.
+Ad esempio: una volta conosciuto il principio economico fondamentale secondo cui l’affitto rappresenta un eccesso di ricchezza, ci rendiamo conto che esso non fa parte dei costi di produzione. Non cerchiamo quindi di rendere le cose più economiche riducendo l’affitto in modo coercitivo. Oppure, ancora una volta, quando abbiamo compreso la [[concepts/nature|>natura]] del denaro, possiamo riconoscere i pericoli derivanti dall’utilizzo di moneta falsa.
 
-In queste applicazioni politiche dell’[[Economics|>Economia]], ci imbattiamo anche in qualcosa che è molto più importante della semplice politica: si tratta della questione del giusto e dello sbagliato. Riconosciamo che certe cose dovrebbero essere fatte in modo corretto, per motivi di giustizia; tuttavia possiamo commettere errori, come hanno fatto molti grandi riformatori, nel tentativo di agire secondo il giusto, senza riuscirci, perché non abbiamo applicato correttamente le nostre conoscenze economiche. E l’opposto è altrettanto vero: una conoscenza adeguata dell’[[Economics|>Economia]] impedisce che venga utilizzata in modo errato da coloro che desiderano il male. Molti persone si rifugiano nell’excusa secondo cui, per quanto vogliano bene, non possono attuare determinate riforme sociali perché la scienza economica glielo impedisce; ma se conosciamo davvero l’economia, possiamo confutare queste argomentazioni errate, con grande beneficio sia per noi stessi che per i nostri simili.
+In queste applicazioni politiche dell’[[concepts/economics|>Economia]], ci imbattiamo anche in qualcosa che è molto più importante della semplice politica: si tratta della questione del giusto e dello sbagliato. Riconosciamo che certe cose dovrebbero essere fatte in modo corretto, per motivi di giustizia; tuttavia possiamo commettere errori, come hanno fatto molti grandi riformatori, nel tentativo di agire secondo il giusto, senza riuscirci, perché non abbiamo applicato correttamente le nostre conoscenze economiche. E l’opposto è altrettanto vero: una conoscenza adeguata dell’[[concepts/economics|>Economia]] impedisce che venga utilizzata in modo errato da coloro che desiderano il male. Molti persone si rifugiano nell’excusa secondo cui, per quanto vogliano bene, non possono attuare determinate riforme sociali perché la scienza economica glielo impedisce; ma se conosciamo davvero l’economia, possiamo confutare queste argomentazioni errate, con grande beneficio sia per noi stessi che per i nostri simili.
 
-Ad esempio: è chiaramente nostro dovere oggi alleviare la terribile [[Poverty|povertà]] nella quale vivono la maggior parte degli inglesi. Molte persone che dovrebbero saperlo meglio affermano, o fingono di affermare, che le leggi economiche ci impediscano di compiere questo atto di giustizia. Le leggi economiche non hanno tale effetto; e una comprensione adeguata delle [[Economics|Economie]] ci chiarisce questa questione, come vedremo in seguito.
+Ad esempio: è chiaramente nostro dovere oggi alleviare la terribile [[concepts/poverty|povertà]] nella quale vivono la maggior parte degli inglesi. Molte persone che dovrebbero saperlo meglio affermano, o fingono di affermare, che le leggi economiche ci impediscano di compiere questo atto di giustizia. Le leggi economiche non hanno tale effetto; e una comprensione adeguata delle [[concepts/economics|Economie]] ci chiarisce questa questione, come vedremo in seguito.
 
 Finora abbiamo seguito l’analisi e lo studio delle leggi economiche: in altre parole, la parte teorica dei nostri studi e la loro base necessaria. Ora passiamo alla parte pratica, ovvero all’“Economia Applicata”, che rappresenta l’effetto di queste leggi sulla vita delle persone.
 
 Prima di concludere questa Introduzione, ritengo sia importante chiarire appieno la differenza tra ciò che viene definito studio “teorico” e l’applicazione pratica di tale studio. Le persone spesso confondono questi concetti, e più chiaramente ne riflettiamo, meglio sarà.
 
-Un’affermazione teorica è un’affermazione che deriva necessariamente e logicamente da uno o più principi primi noti. Pertanto, sappiamo che i due lati di un triangolo sono più lunghi del terzo; quindi possiamo affermare che, in linea teorica, una strada dritta da [[London|Londra]] a Brighton rappresenterebbe un percorso più veloce rispetto a quello che passa per Lewes. Tuttavia, nel mondo reale esiste un numero infinito di principi primi in gioco; pertanto è necessario verificare ogni conclusione teorica attraverso la pratica, osservando come funziona concretamente. Accanto ai uno o due principi primi su cui si basa una teoria, infatti, nel mondo reale ne esistono moltissimi altri che influenzano il comportamento delle cose. Ad esempio, nel campo dell’automobilistica, esiste il principio secondo cui la [[Speed|velocità]] varia in base alla superficie della [[Road|strada]]; quindi il percorso che passa per Lewes potrebbe rivelarsi più veloce se la strada ha una superficie migliore. Esistono inoltre altri fattori che influenzano la velocità, come le curve presenti sulla strada; in alcuni casi, i due percorsi potrebbero risultare equivalenti.
+Un’affermazione teorica è un’affermazione che deriva necessariamente e logicamente da uno o più principi primi noti. Pertanto, sappiamo che i due lati di un triangolo sono più lunghi del terzo; quindi possiamo affermare che, in linea teorica, una strada dritta da [[settings/london|Londra]] a Brighton rappresenterebbe un percorso più veloce rispetto a quello che passa per Lewes. Tuttavia, nel mondo reale esiste un numero infinito di principi primi in gioco; pertanto è necessario verificare ogni conclusione teorica attraverso la pratica, osservando come funziona concretamente. Accanto ai uno o due principi primi su cui si basa una teoria, infatti, nel mondo reale ne esistono moltissimi altri che influenzano il comportamento delle cose. Ad esempio, nel campo dell’automobilistica, esiste il principio secondo cui la [[characters/speed|velocità]] varia in base alla superficie della [[motifs/road|strada]]; quindi il percorso che passa per Lewes potrebbe rivelarsi più veloce se la strada ha una superficie migliore. Esistono inoltre altri fattori che influenzano la velocità, come le curve presenti sulla strada; in alcuni casi, i due percorsi potrebbero risultare equivalenti.
 
 O ancora: sappiamo che l’onda di marea si alza su entrambi i lati della Terra, e quindi ci sono circa dodici ore di flusso e riflusso equilibrati, sei ore ciascuno in media, considerando il mondo nel suo insieme; perché la Terra impiega ventiquattro ore per compiere un giro completo.
 
-Ma se applicaste quel primo principio soltanto in una parte qualsiasi del mondo, e diceste senza verificarlo nella pratica: “Posso calcolare la marea teoricamente”, molto spesso distruggereste la vostra [[Ship|nave]]. Perché nella questione delle maree entrano in gioco molti altri fattori, oltre a questo periodo di dodici ore. In alcuni casi la marea può essere ritardata da banchi sabbiosi o dal corso di un [[River|>fiume]]; in altri possono verificarsi due o tre maree contemporanee; in altri ancora il mare può risultare completamente bloccato, con quasi nessuna marea per molte ore, per poi subire improvvisamente un forte aumento. E così via.
+Ma se applicaste quel primo principio soltanto in una parte qualsiasi del mondo, e diceste senza verificarlo nella pratica: “Posso calcolare la marea teoricamente”, molto spesso distruggereste la vostra [[motifs/ship|nave]]. Perché nella questione delle maree entrano in gioco molti altri fattori, oltre a questo periodo di dodici ore. In alcuni casi la marea può essere ritardata da banchi sabbiosi o dal corso di un [[motifs/river|>fiume]]; in altri possono verificarsi due o tre maree contemporanee; in altri ancora il mare può risultare completamente bloccato, con quasi nessuna marea per molte ore, per poi subire improvvisamente un forte aumento. E così via.
 
-Ora è esattamente lo stesso anche con l’[[Economics|Economia]]. Il tuo primo principio economico ti porta a determinate conclusioni teoriche. Ma ci sono molti altri principi fondamentali che entrano in gioco, e questi possono modificare notevolmente gli effetti nella pratica. Quando le persone si oppongono a quello che chiamano “sogni teorici”, intendono quel cattivo vizio di pensare che una singola conclusione derivante da un insieme specifico di principi fondamentali sia sufficiente e applicabile in qualsiasi situazione. In realtà non è mai così. Bisogna sempre osservare la situazione nella pratica e vedere quali altre forze intervengono.
+Ora è esattamente lo stesso anche con l’[[concepts/economics|Economia]]. Il tuo primo principio economico ti porta a determinate conclusioni teoriche. Ma ci sono molti altri principi fondamentali che entrano in gioco, e questi possono modificare notevolmente gli effetti nella pratica. Quando le persone si oppongono a quello che chiamano “sogni teorici”, intendono quel cattivo vizio di pensare che una singola conclusione derivante da un insieme specifico di principi fondamentali sia sufficiente e applicabile in qualsiasi situazione. In realtà non è mai così. Bisogna sempre osservare la situazione nella pratica e vedere quali altre forze intervengono.
 
 Nelle applicazioni politiche della scienza economica dobbiamo affrontare l’effetto che la società umana ha sul diritto economico. Ad esempio: il diritto economico ci insegna che, data una certa qualità della vita del lavoro – il suo “valore” – e un certo profitto minimo senza il quale il capitale non si accumulerà – il “valore” del capitale – esiste, come abbiamo visto, un limite inferiore alla produzione; una serie di condizioni al di sotto delle quali la produzione non avverrà. La terra che è al di sotto di un certo livello di fertilità non verrà coltivata; una vena mineraria che presenta un rendimento inferiore a un certo standard non verrà sfruttata in determinate condizioni sociali. Tuttavia, in tutte quelle circostanze in cui la produzione offre vantaggi maggiori rispetto a questo limite inferiore, si genera un valore aggiunto chiamato “rendita”. Questo è un principio del diritto economico e vale sempre.
 
@@ -7850,7 +7850,7 @@ La prima condizione fondamentale per la produzione e la distribuzione economica 
 
 PROPERTY: THE CONTROL OF WEALTH
 
-All the political application of [[Economics]]--that is, all the
+All the political application of [[concepts/economics|Economics]]--that is, all the
 application of Economic Science to the conduct of families in the
 State--turns on The Control of Wealth, and of the things necessary to
 make wealth.
@@ -7865,12 +7865,12 @@ equivalent, in currency measure, to say £16. If no one has the right
 to decide upon its preservation and use, when and how it is to be kept
 dry and free from vermin, when and how it is to be ground and the flour
 made into bread, then it will rot or be eaten by rats, and in a short
-[[Time|time]] its economic values will have disappeared. It will be worthless.
+[[motifs/time|time]] its economic values will have disappeared. It will be worthless.
 The £16 worth of wealth will have been “consumed without use”; in plain
 language, wasted. But if wealth were all wasted humanity would die
 out. So men must, of necessity, arrange for a control of all wealth,
 and this they do by laws which fix the control of one parcel of wealth
-by one [[Authority|authority]], of another by another; men make laws allowing such
+by one [[concepts/authority|authority]], of another by another; men make laws allowing such
 control by some people and preventing attempted control by other people
 not authorised. This lawful control over a piece of wealth we call
 Property in it.
@@ -7914,7 +7914,7 @@ be consumed in enjoyment but also in Capital. Someone, then, must own
 Capital.
 
 But here comes in a very important addition. The fertility of land,
-space upon which to build, mines of metal, [[Water|water]] power, natural
+space upon which to build, mines of metal, [[motifs/water|water]] power, natural
 opportunities of any kind and natural forces, _though they are not
 wealth_, are the necessary conditions for producing wealth. Someone,
 therefore, must control these also: someone must have the power of
@@ -7932,7 +7932,7 @@ is so used, is called Capital), and also B.2 wealth which is going to
 be consumed without the attempt to produce anything else: consumed,
 as the phrase goes, “in enjoyment.” Natural forces may be grouped,
 as we have grouped them in the first part of this book, under the
-conventional term “Land.” So Property covers Land and Capital, as [[Well|well]]
+conventional term “Land.” So Property covers Land and Capital, as [[motifs/well|well]]
 as Wealth to be consumed without the attempt to produce other wealth.
 You may put the whole thing in a diagram thus:--
 
@@ -7949,7 +7949,7 @@ that is his property, and though we call it wealth in ordinary
 conversation it is not real wealth at all. It is only the opportunity
 for producing wealth. If no one worked on that land, if no one even
 worked so little as to take the trouble of picking fruit off the trees
-or cutting the grass or looking after [[Animals|animals]] on it, it would be worth
+or cutting the grass or looking after [[motifs/animals|animals]] on it, it would be worth
 nothing. Supposing another man to own the stores of food and the houses
 and the clothing necessary for the livelihood of the labourers on the
 land, and also the horses and the ploughs and the stores of seeds
@@ -7966,7 +7966,7 @@ the fact that they do not own the “Means of Production.”
 Titolo:  
 Proprietà: il controllo della ricchezza
 
-Tutta l’applicazione politica dell’[[Economics|Economia]], cioè l’utilizzo della Scienza Economica nella gestione delle famiglie all’interno dello Stato, ruota attorno al controllo della ricchezza e delle risorse necessarie per generarla.
+Tutta l’applicazione politica dell’[[concepts/economics|Economia]], cioè l’utilizzo della Scienza Economica nella gestione delle famiglie all’interno dello Stato, ruota attorno al controllo della ricchezza e delle risorse necessarie per generarla.
 
 La prima cosa da comprendere è che, affinché il denaro possa essere utilizzato a qualche scopo, deve necessariamente essere controllato da qualcuno. Ogni unità di valore economico all’interno di una comunità deve essere sotto il controllo di un’autorità umana; altrimenti tali risorse vengono sprecate, cioè consumate senza portare alcun beneficio all’umanità. Ad esempio, una tonnellata di grano battuto rappresenta un certo valore economico: in termini monetari, equivale a circa 16 sterline. Se nessuno ha il diritto di decidere come conservarlo e utilizzarlo – quando e come mantenerlo asciutto e libero da parassiti, quando e come macinarlo per ottenere la farina e poi trasformarla in pane – allora quel grano andrà a male o verrà mangiato dai topi, e in breve tempo il suo valore economico scomparirà del tutto. In altre parole, diventerà inutile. Le 16 sterline di valore economico saranno “consumate senza alcun beneficio”, ovvero sprecate. Ma se tutte le risorse economiche venissero sprecate, l’umanità scomparirebbe. Pertanto, gli esseri umani devono necessariamente organizzare un sistema di controllo su tutte le ricchezze; ciò avviene attraverso leggi che stabiliscono chi ha il diritto di gestirle. Gli uomini emanano leggi che permettono a determinate autorità di controllare alcune risorse e ne vietano l’uso da parte di altre persone non autorizzate. Questo controllo legale su una certa ricchezza viene definito “proprietà”.
 
@@ -7986,7 +7986,7 @@ La proprietà, pertanto, si estende su due ambiti: uno di questi è a sua volta 
 
 Nello studiare gli effetti sociali della proprietà, è conveniente raggruppare insieme la terra e quella parte della ricchezza che viene utilizzata per ulteriora produzione, chiamata capitale, e definire entrambi “mezzi di produzione”. Infatti, in molti problemi sociali, l’aspetto importante non è chi possiede separatamente il capitale o la terra, ma chi possiede l’insieme di questi elementi che costituiscono i “mezzi di produzione”, senza i quali nessuna produzione può avvenire.
 
-Ad esempio: Supponiamo che un uomo possieda cento acri di terra fertile; quella è la sua proprietà, ma anche se in conversazioni ordinarie la chiamiamo ricchezza, in realtà non si tratta affatto di vera ricchezza. Si tratta soltanto dell’opportunità di produrre ricchezza. Se nessuno lavorasse su quella terra, se nessuno si prendesse nemmeno la briga di raccogliere i frutti dagli alberi, tagliare l’erba o prendersi cura degli [[Animals|animali]] che vi vivono, quella terra non avrebbe alcun valore. Supponiamo invece che un altro uomo possieda le scorte di cibo, le case e i vestiti necessari per il sostentamento dei lavoratori, oltre ai cavalli, ai aratri e alle sementi indispensabili per l’agricoltura: in questo caso quell’uomo possiede soltanto il “Capitale”. Ma per i lavoratori ciò che conta davvero è che qualcun altro possieda i “Mezzi di Produzione”, senza i quali non potrebbero vivere. Siano uno o molti a controllare o possedere tali mezzi, la loro condizione rimane sostanzialmente la stessa: non possiedono i “Mezzi di Produzione”.
+Ad esempio: Supponiamo che un uomo possieda cento acri di terra fertile; quella è la sua proprietà, ma anche se in conversazioni ordinarie la chiamiamo ricchezza, in realtà non si tratta affatto di vera ricchezza. Si tratta soltanto dell’opportunità di produrre ricchezza. Se nessuno lavorasse su quella terra, se nessuno si prendesse nemmeno la briga di raccogliere i frutti dagli alberi, tagliare l’erba o prendersi cura degli [[motifs/animals|animali]] che vi vivono, quella terra non avrebbe alcun valore. Supponiamo invece che un altro uomo possieda le scorte di cibo, le case e i vestiti necessari per il sostentamento dei lavoratori, oltre ai cavalli, ai aratri e alle sementi indispensabili per l’agricoltura: in questo caso quell’uomo possiede soltanto il “Capitale”. Ma per i lavoratori ciò che conta davvero è che qualcun altro possieda i “Mezzi di Produzione”, senza i quali non potrebbero vivere. Siano uno o molti a controllare o possedere tali mezzi, la loro condizione rimane sostanzialmente la stessa: non possiedono i “Mezzi di Produzione”.
 
 
 
@@ -8019,14 +8019,14 @@ means of Production are owned by the free human agents of Production.
 There is also a fourth imaginary kind of state which has never come
 into being, called the Socialist or Communist State. We will examine
 this in its right place, but the only three actual states of which we
-know anything in [[history]] and can deal with as real human experiences,
+know anything in [[concepts/history|history]] and can deal with as real human experiences,
 are these three just described: the Servile State, the Capitalist
 State, and the Distributive State.
 
 But, before going farther, we must get hold of a very important
 principle, which is this:--
 
-=The [[Nature|nature]] of an economic society is not determined by its
+=The [[concepts/nature|nature]] of an economic society is not determined by its
 arrangements being universal, that is, applying without exception to
 all the families of the State, but only by their applying to what is
 called The Determining Number of the families of the State: that
@@ -8052,10 +8052,10 @@ true to say that the society in which we live speaks English.
 Now it is exactly the same with the economic conditions of society. You
 may have a society in which there is a certain number of slaves, and
 yet it is not a slave-owning society, because the number of free men
-is so great as to give a general tone of [[Freedom|freedom]]. Or you have, as we
-have in [[England]], a great deal of property owned by the State--barracks
+is so great as to give a general tone of [[concepts/freedom|freedom]]. Or you have, as we
+have in [[settings/england|England]], a great deal of property owned by the State--barracks
 and battleships and arsenals, some of the forests, and so on--but we do
-not say that [[England]] is economically a State-owned society, because the
+not say that [[settings/england|England]] is economically a State-owned society, because the
 determining proportion of property is not owned by the State but by
 private people. The general effect produced is one of private ownership
 and not of State ownership.
@@ -8065,7 +8065,7 @@ that almost any society is mixed. A society of which the determining
 proportion is slave-owning will yet certainly have a proportion of free
 men; for if it did not there would be no one to own the slaves. In the
 same way what is called a Capitalist Society, which I will describe in
-a moment (and which is the society in which we now live in [[England]]) has
+a moment (and which is the society in which we now live in [[settings/england|England]]) has
 a great number of people not living under purely capitalist conditions.
 It is mixed.
 
@@ -8089,7 +8089,7 @@ they do not work for the owners.
 
 2. In the CAPITALIST STATE a determining number of the families or
 individuals are free; that is, they cannot be compelled by positive law
-to work for anybody. They are at [[Liberty|liberty]] to make a contract. Each can
+to work for anybody. They are at [[concepts/liberty|liberty]] to make a contract. Each can
 say to an owner of land or capital: “I will work for you for so much
 reward, such and such a proportion of the wealth I produce. If you will
 not give me that I will not work at all,” and no one can punish him for
@@ -8121,17 +8121,17 @@ Lo Stato Servile: cioè lo stato in cui i mezzi materiali di produzione sono di 
 
 3. Lo Stato Distributivo: cioè lo stato in cui i mezzi materiali di produzione sono di proprietà degli agenti umani liberi che partecipano alla produzione.
 
-Esiste anche una quarta sorta di stato immaginario che non è mai esistita realmente, chiamata lo Stato Socialista o Comunista. Ne parleremo nel suo contesto appropriato, ma le sole tre forme di stato reali di cui conosciamo qualcosa nella [[history|storia]] e con cui possiamo confrontarci come esperienze umane concrete sono proprio queste tre: lo Stato Servile, lo Stato Capitalista e lo Stato Distributivo.
+Esiste anche una quarta sorta di stato immaginario che non è mai esistita realmente, chiamata lo Stato Socialista o Comunista. Ne parleremo nel suo contesto appropriato, ma le sole tre forme di stato reali di cui conosciamo qualcosa nella [[concepts/history|storia]] e con cui possiamo confrontarci come esperienze umane concrete sono proprio queste tre: lo Stato Servile, lo Stato Capitalista e lo Stato Distributivo.
 
 Ma, prima di andare oltre, dobbiamo comprendere un principio molto importante, e cioè questo:–
 
-La [[Nature|>natura]] di una società economica non è determinata dal fatto che le sue strutture siano universali, cioè applicabili senza eccezione a tutte le famiglie dello Stato, ma soltanto dal fatto che tali strutture si applichino in misura tale da influenzare e dare forma all’intera società.
+La [[concepts/nature|>natura]] di una società economica non è determinata dal fatto che le sue strutture siano universali, cioè applicabili senza eccezione a tutte le famiglie dello Stato, ma soltanto dal fatto che tali strutture si applichino in misura tale da influenzare e dare forma all’intera società.
 
 Nessuno può definire con precisione l’entità di questo “numero determinante”, ma tutti noi sappiamo, nella pratica, cosa significhi. Ad esempio: si dice che gli inglesi siano una razza alta, con un’altezza compresa tra i 5½ e i 6 piedi. Ma ciò non significa necessariamente che la maggior parte delle persone abbia un’altezza superiore ai 5½ piedi. Bisogna ovviamente escludere i bambini, e inoltre esistono molte persone molto basse e alcune molto alte. Ciò che si intende è che l’impressione generale che si ha quando si interagisce con gli inglesi – le dimensioni delle porte, degli strumenti utilizzati dagli uomini, i vestiti prodotti, ecc. – deriva dall’esperienza comune di trovarsi di fronte a una razza con un’altezza media approssimativamente di 5½ a 6 piedi. Oppure si può dire che la maggior parte delle persone della nostra società parli inglese. Ma ciò non significa che tutti parlino inglese: alcuni sono muti; altri parlano gallese o gaelico; molti hanno un accento così marcato che a chi ha un altro accento risulta difficile comprenderli. Tuttavia, è vero dire che la società in cui viviamo utilizza l’inglese come lingua comune.
 
-Ora è esattamente lo stesso anche per le condizioni economiche della società. È possibile avere una società in cui esiste un certo numero di “schiavi”, eppure non si tratta di una società schiavista, perché il numero di uomini liberi è così elevato da conferire alla società un carattere generale di [[Freedom|libertà]]. Oppure si può avere, come nel caso dell’[[England|Inghilterra]], una grande quantità di proprietà di proprietà dello Stato – caserme, navi da guerra, arsenali, alcune foreste, e così via – ma non si può dire che l’[[England|Inghilterra]] sia economicamente una società di proprietà statale, perché la proporzione determinante delle risorse economiche non appartiene allo Stato, ma a privati. L’effetto complessivo prodotto è quindi quello della proprietà privata, e non della proprietà statale.
+Ora è esattamente lo stesso anche per le condizioni economiche della società. È possibile avere una società in cui esiste un certo numero di “schiavi”, eppure non si tratta di una società schiavista, perché il numero di uomini liberi è così elevato da conferire alla società un carattere generale di [[concepts/freedom|libertà]]. Oppure si può avere, come nel caso dell’[[settings/england|Inghilterra]], una grande quantità di proprietà di proprietà dello Stato – caserme, navi da guerra, arsenali, alcune foreste, e così via – ma non si può dire che l’[[settings/england|Inghilterra]] sia economicamente una società di proprietà statale, perché la proporzione determinante delle risorse economiche non appartiene allo Stato, ma a privati. L’effetto complessivo prodotto è quindi quello della proprietà privata, e non della proprietà statale.
 
-Prima di andare oltre, è necessario stabilire un altro principio: quasi tutte le società sono miste. Una società nella quale la maggioranza delle persone possiede schiavi avrà comunque una certa percentuale di uomini liberi; altrimenti non ci sarebbe nessuno che possedesse gli schiavi. Allo stesso modo, quella che viene chiamata Società Capitalista – di cui parlerò tra un momento (e che è proprio la società in cui viviamo attualmente in [[England|Inghilterra]]) – presenta una grande quantità di persone che non vivono in condizioni puramente capitaliste; anch’essa è mista.
+Prima di andare oltre, è necessario stabilire un altro principio: quasi tutte le società sono miste. Una società nella quale la maggioranza delle persone possiede schiavi avrà comunque una certa percentuale di uomini liberi; altrimenti non ci sarebbe nessuno che possedesse gli schiavi. Allo stesso modo, quella che viene chiamata Società Capitalista – di cui parlerò tra un momento (e che è proprio la società in cui viviamo attualmente in [[settings/england|Inghilterra]]) – presenta una grande quantità di persone che non vivono in condizioni puramente capitaliste; anch’essa è mista.
 
 Ma sebbene sia necessario soltanto un numero determinato di elementi per caratterizzare una società specifica, e sebbene ogni società presenti in sé elementi misti, rimane vero che tutte le società che conosciamo, nel passato o nel presente, rientrano in uno di questi tre gruppi: il Servile (cioè quello che possiede schiavi), il Capitalista e il Distributivo.
 
@@ -8139,7 +8139,7 @@ La definizione di questi tre sistemi è la seguente:–
 
 Nella società schiavista, o Stato servile, una determinata minoranza possiede una quota significativa della ricchezza e anche della terra, cioè i mezzi di produzione (terra e capitale) nonché la ricchezza disponibile per il consumo personale. Il resto della comunità è costretto dalla legge a fornire il proprio lavoro a vantaggio di questi pochi proprietari; e questo resto della comunità, secondo la definizione economica, è (indipendentemente dal nome che si dà) schiavo: in altre parole, può essere costretto a lavorare per i proprietari e può essere punito dalla legge se non lo fa.
 
-2. Nello STATO CAPITALISTICO un numero determinato di famiglie o individui è libero; cioè, non possono essere costretti dalla legge positiva a lavorare per chicchessia. Hanno la [[Liberty|libertà]] di stipulare contratti. Ognuno può dire a un proprietario di terreni o di capitale: “Lavorerò per te in cambio di una determinata retribuzione, di una certa percentuale della ricchezza che produrrò. Se non me la darai, allora non lavorerò affatto”, e nessuno può punirlo per tale rifiuto.
+2. Nello STATO CAPITALISTICO un numero determinato di famiglie o individui è libero; cioè, non possono essere costretti dalla legge positiva a lavorare per chicchessia. Hanno la [[concepts/liberty|libertà]] di stipulare contratti. Ognuno può dire a un proprietario di terreni o di capitale: “Lavorerò per te in cambio di una determinata retribuzione, di una certa percentuale della ricchezza che produrrò. Se non me la darai, allora non lavorerò affatto”, e nessuno può punirlo per tale rifiuto.
 
 Ma il segno distintivo dello Stato Capitalista è che una quantità determinante di terra e capitale appartiene a un piccolo numero di persone, mentre la restante parte della popolazione – la stragrande maggioranza – pur essendo libera, non può ottenere cibo, alloggio o vestiti se non nel caso in cui i proprietari di questi beni (cioè dei mezzi di produzione) decidano di darli. In uno stato sociale del genere, le persone che non possiedono nulla, o quasi nulla, sono libere di stipulare un contratto e dire: “Lavorerò nella tua fattoria” se mi darai metà o tre quarti del raccolto; altrimenti, non lavorerò per te. Tuttavia, questo contratto è vincolato da una condizione molto rigida: se rifiutano di lavorare fino all’estremo, moriranno di fame e non saranno in grado di procurarsi un alloggio protetto dal freddo o vestiti da indossare.
 
@@ -8148,20 +8148,20 @@ Ma il segno distintivo dello Stato Capitalista è che una quantità determinante
 <span class="atom-split" data-atom="story_09_property_the_control_of_wealth--part_03" data-title="Economics for Helen — PROPERTY: THE CONTROL OF WEALTH (part 3)" data-chapter="PROPERTY THE CONTROL OF WEALTH" data-kind="excerpt" data-tags="motif/nature,motif/time,motif/well,concept/capitalism,concept/economics,concept/nature,setting/denmark,setting/england,setting/europe,character/dwarf"></span>
 
 
-We are living to-day, in [[England]] especially, in such a Capitalist
+We are living to-day, in [[settings/england|England]] especially, in such a Capitalist
 State. In such a state the free men who contract to sell their labour
 often have a certain very small proportion of things on which they can
-live for a short [[Time|time]]. They have a suit of clothes and perhaps a little
+live for a short [[motifs/time|time]]. They have a suit of clothes and perhaps a little
 money with which they can purchase a few days’ livelihood--some of them
 more, some of them less. But the tone or colour of the society is given
 by the fact that _the great majority, though free, are dispossessed of
 the means of production, and therefore of livelihood, and that a small
 minority controls these things_.
 
-The word “[[Capitalism]]” does not mean that there exists capital in such
+The word “[[concepts/capitalism|Capitalism]]” does not mean that there exists capital in such
 a society. Capital exists in all societies. It is a necessary part of
 human society and of the production of wealth, without which no society
-can live at all. The word “[[Capitalism]]” is only “shorthand” for the
+can live at all. The word “[[concepts/capitalism|Capitalism]]” is only “shorthand” for the
 condition we have just described: a condition where capital and land
 are in few hands though all men are free.
 
@@ -8171,15 +8171,15 @@ and conditions of the whole society, is possessed of the means of
 production, as private property, divided among the various families.
 The word “distributive” is an ugly, long word, only used for want of a
 better; but the reason that we have to use such a tiresome word is an
-odd and paradoxical reason [[Well|well]] worth grasping. The Distributive State
+odd and paradoxical reason [[motifs/well|well]] worth grasping. The Distributive State
 is the natural state of mankind. Men are happiest in such conditions;
 they can fulfil their being best and are most perfectly themselves
 when they are owners and free. Now whenever you have natural and good
-conditions, not only in [[Economics]] but in any other aspect of life, it
+conditions, not only in [[concepts/economics|Economics]] but in any other aspect of life, it
 is very difficult to find a word for it. There is always a word ready
 for odd, unnatural conditions: but it is often difficult to find a word
-for conditions normal to our human [[Nature|nature]]. For instance: we have the
-words “[[Dwarf|dwarf]]” and “giant,” but we have no similar common, short word
+for conditions normal to our human [[concepts/nature|nature]]. For instance: we have the
+words “[[characters/dwarf|dwarf]]” and “giant,” but we have no similar common, short word
 to describe people of ordinary stature. So it is with the Distributive
 State. We have to use an ugly new word, because men more or less take
 for granted this state of affairs in their minds, and have never
@@ -8204,10 +8204,10 @@ the houses, and the horses and ploughs and everything, and these men
 you would see working would be compelled to work for their master, and
 he would have the right by law to punish them if they did not.
 
-If you were in a Capitalist State (as we are in [[England]]) the men you
+If you were in a Capitalist State (as we are in [[settings/england|England]]) the men you
 would see working would, as a rule, be earning what are called “wages,”
 that is, an allowance (actually of money but immediately translated
-into food and clothes and [[house]]-room and the rest), which allowance
+into food and clothes and house-room and the rest), which allowance
 would be paid to them at fairly short intervals, and without which
 they could not live. The ploughs and horses with which they would be
 working, the seed they would be sowing, the houses they lived in would
@@ -8222,15 +8222,15 @@ contract of this sort in order to live at all. He is not compelled
 by law to work for another, but he is compelled by the necessity of
 living to work for another.
 
-Lastly, if you were travelling through a Distributive State ([[Denmark]]
-is the best example of such a state in modern [[Europe]]) you would find
+Lastly, if you were travelling through a Distributive State ([[settings/denmark|Denmark]]
+is the best example of such a state in modern [[settings/europe|Europe]]) you would find
 that the man working on the land was himself the owner of the land, and
 also of the seed and of the horses and the houses, and all the rest of
 it. He would be a free man working for his own advantage and for nobody
 else’s. He would also have a share in the factories of the country
 and be a part owner in the local dairies, sharing the profit of those
 dairies where the milk of many farms is gathered together, turned into
-butter and [[cheese]], and sold.
+butter and cheese, and sold.
 
 This is what we mean by the three types of State. In each you would
 find many exceptions, but each has its determining number--of slaves
@@ -8245,9 +8245,9 @@ the good and evil of them and what the consequences of them are.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Noi viviamo oggi, soprattutto in [[England|Inghilterra]], in uno Stato capitalista. In uno stato del genere, gli uomini liberi che decidono di vendere la propria forza lavoro spesso dispongono soltanto di una quantità molto limitata di risorse con cui possono provvedersi per un breve periodo di tempo: hanno un abito e forse un po’ di denaro con cui acquistare il cibo necessario per qualche giorno, alcuni di loro ne hanno di più, altri meno. Tuttavia, l’essenza stessa di questa società deriva dal fatto che _la grande maggioranza, pur essendo libera, è priva dei mezzi di produzione e quindi anche dei mezzi per vivere, mentre una piccola minoranza ne detiene il controllo_.
+Noi viviamo oggi, soprattutto in [[settings/england|Inghilterra]], in uno Stato capitalista. In uno stato del genere, gli uomini liberi che decidono di vendere la propria forza lavoro spesso dispongono soltanto di una quantità molto limitata di risorse con cui possono provvedersi per un breve periodo di tempo: hanno un abito e forse un po’ di denaro con cui acquistare il cibo necessario per qualche giorno, alcuni di loro ne hanno di più, altri meno. Tuttavia, l’essenza stessa di questa società deriva dal fatto che _la grande maggioranza, pur essendo libera, è priva dei mezzi di produzione e quindi anche dei mezzi per vivere, mentre una piccola minoranza ne detiene il controllo_.
 
-La parola “[[Capitalism|Capitalismo]]” non significa che in una società del genere esista capitale; il capitale, infatti, esiste in tutte le società. È una componente essenziale della società umana e della produzione di ricchezza, senza la quale nessuna società potrebbe funzionare. La parola “[[Capitalism|Capitalismo]]” rappresenta semplicemente in modo abbreviato la condizione che abbiamo appena descritto: una situazione in cui capitale e terra sono concentrati nelle mani di pochi, mentre tutti gli uomini sono liberi.
+La parola “[[concepts/capitalism|Capitalismo]]” non significa che in una società del genere esista capitale; il capitale, infatti, esiste in tutte le società. È una componente essenziale della società umana e della produzione di ricchezza, senza la quale nessuna società potrebbe funzionare. La parola “[[concepts/capitalism|Capitalismo]]” rappresenta semplicemente in modo abbreviato la condizione che abbiamo appena descritto: una situazione in cui capitale e terra sono concentrati nelle mani di pochi, mentre tutti gli uomini sono liberi.
 
 Lo Stato Distributivo è uno stato in cui un numero sufficiente di cittadini – un numero tale da influenzare le abitudini, le leggi e le condizioni dell’intera società – possiede i mezzi di produzione, sotto forma di proprietà privata, distribuiti tra le varie famiglie. La parola “distributivo” è lunga e poco elegante, utilizzata soltanto per mancanza di un termine più appropriato; tuttavia il motivo per cui dobbiamo ricorrere a una parola così scomoda da usare è davvero strano e paradossale, e merita senz’altro di essere compreso. Lo Stato Distributivo rappresenta lo stato naturale dell’umanità: gli uomini sono più felici in tali condizioni; possono realizzare appieno il proprio potenziale ed essere se stessi nel modo più perfetto quando sono proprietari e liberi. Ora, ogni volta che si trovano condizioni naturali e positive – non solo nell’ambito dell’economia, ma in qualsiasi altro aspetto della vita – è molto difficile trovare una parola adatta per descriverle. Esistono sempre termini pronti per indicare situazioni strane o innaturali; invece, spesso risulta difficile trovare un termine appropriato per descrivere condizioni normali e legate alla nostra natura umana. Ad esempio, abbiamo le parole “nano” e “gigante”, ma non disponiamo di un termine simile per indicare le persone di statura media. Lo stesso vale per lo Stato Distributivo: dobbiamo utilizzare una parola nuova e poco elegante, perché gli uomini, più o meno inconsciamente, considerano questa condizione come qualcosa di scontato e non hanno mai pensato a un termine specifico per descriverla.
 
@@ -8259,7 +8259,7 @@ Per far sì che questi tre stati sociali risultino chiaramente evidenti nella no
 
 Nello Stato Servile, viaggiando per il paese, si vedevano solitamente uomini che lavoravano nei campi e che erano schiavi di un padrone. Quel padrone possedeva la terra, i semi, il cibo, le case, i cavalli, gli aratri e tutto ciò di cui avevano bisogno; questi uomini erano costretti a lavorare per lui, e il padrone aveva il diritto, secondo la legge, di punirli se non lo facevano.
 
-Se ti trovassi in uno Stato Capitalista (come lo siamo noi in [[England|Inghilterra]]), gli uomini che vedresti lavorare guadagnerebbero, di regola, ciò che viene chiamato “salario”, ovvero un compenso in denaro che viene immediatamente convertito in cibo, vestiti, alloggio e altro ancora. Questo compenso viene loro pagato a intervalli abbastanza brevi, e senza di esso non potrebbero sopravvivere. I aratri e i cavalli con cui lavorano, i semi che seminano, le case in cui vivono appartengono a un altro uomo che possiede questo capitale; per questo motivo viene chiamato “capitalista”. Se chiedessi a uno di questi uomini se sia costretto a lavorare per legge, ti risponderebbe indignatamente di no. Infatti è un uomo libero: il suo salario gli viene pagato in base a un contratto; ha detto: “Lavorerò per te per questa somma”, e nessuno potrebbe costringerlo a lavorare se non lo desidera. Ma in questo stato sociale, un uomo senza capitale deve necessariamente stipulare un simile contratto per poter sopravvivere. Non è costretto dalla legge a lavorare per qualcun altro, ma è costretto dalle esigenze della vita stessa a farlo.
+Se ti trovassi in uno Stato Capitalista (come lo siamo noi in [[settings/england|Inghilterra]]), gli uomini che vedresti lavorare guadagnerebbero, di regola, ciò che viene chiamato “salario”, ovvero un compenso in denaro che viene immediatamente convertito in cibo, vestiti, alloggio e altro ancora. Questo compenso viene loro pagato a intervalli abbastanza brevi, e senza di esso non potrebbero sopravvivere. I aratri e i cavalli con cui lavorano, i semi che seminano, le case in cui vivono appartengono a un altro uomo che possiede questo capitale; per questo motivo viene chiamato “capitalista”. Se chiedessi a uno di questi uomini se sia costretto a lavorare per legge, ti risponderebbe indignatamente di no. Infatti è un uomo libero: il suo salario gli viene pagato in base a un contratto; ha detto: “Lavorerò per te per questa somma”, e nessuno potrebbe costringerlo a lavorare se non lo desidera. Ma in questo stato sociale, un uomo senza capitale deve necessariamente stipulare un simile contratto per poter sopravvivere. Non è costretto dalla legge a lavorare per qualcun altro, ma è costretto dalle esigenze della vita stessa a farlo.
 
 Infine, se viaggiaste attraverso uno Stato Distributivo (la Danimarca è l’esempio migliore di tale tipo di stato nell’Europa moderna), scoprireste che l’uomo che lavora la terra ne è anche il proprietario: possiede sia i semi che i cavalli, le case e tutto il resto. È un uomo libero che lavora a proprio vantaggio, e non per quello di altri. Avrebbe inoltre una parte delle fabbriche del paese e sarebbe co-proprietario delle aziende lattiero-casearie locali, partecipando ai profitti derivanti da prodotti come il burro e il formaggio, realizzati utilizzando il latte proveniente da molteplici fattorie.
 
@@ -8279,8 +8279,8 @@ THE SERVILE STATE
 The Servile State is that which was found among our forefathers
 everywhere. It is the Servile State in which we Europeans all lived
 when we were pagan two thousand years ago. For instance: In old pagan
-[[Italy]] before it became Christian, or in old pagan Greece--both of them
-the best countries in the world of their [[Time|time]] and both of them, as you
+[[settings/italy|Italy]] before it became Christian, or in old pagan Greece--both of them
+the best countries in the world of their [[motifs/time|time]] and both of them, as you
 know, the origins of our own civilisation--most of the people you would
 have seen working at anything were slaves, and above the slaves were
 the owners: the free men.
@@ -8294,30 +8294,30 @@ human happiness.
 The great disadvantage of the slave-owning state is clearly apparent:
 in it the mass of men are degraded: they are not citizens: they cannot
 exercise their own wills. This is so evident and great an evil that it
-must be set against all the advantages we are about to notice. [[Slavery]]
-is a most unhappy condition in so far as it wounds human [[Honour|honour]] and
+must be set against all the advantages we are about to notice. [[concepts/slavery|Slavery]]
+is a most unhappy condition in so far as it wounds human [[concepts/honour|honour]] and
 offends human dignity; and that is why the Christian religion gradually
-dissolved [[Slavery|slavery]] in the process of many centuries: [[Slavery|slavery]] is not
+dissolved [[concepts/slavery|slavery]] in the process of many centuries: [[concepts/slavery|slavery]] is not
 sufficiently consistent with the idea of man’s being made in the image
-of God. [[Slavery]] can also be materially unhappy, if the masters are
+of God. [[concepts/slavery|Slavery]] can also be materially unhappy, if the masters are
 cruel or negligent. The great mass of slaves in such a society might
 be, at the caprice of their masters, very unhappy; and under bad phases
 of those societies they were very unhappy.
 
 But we must not be misled by the ideas that have grown up around the
-word “slave” in the modern mind. Because we have no one in [[England]]
+word “slave” in the modern mind. Because we have no one in [[settings/england|England]]
 to-day who is called a slave and bought or sold as a slave, and no
 one is yet compelled by law to work for another man, therefore we
-regard [[Slavery|slavery]] as something odd and alien; and because it is natural
+regard [[concepts/slavery|slavery]] as something odd and alien; and because it is natural
 to dislike things which are odd and alien, unaccustomed, we think of
-[[Slavery|slavery]] as something simply bad.
+[[concepts/slavery|slavery]] as something simply bad.
 
 That is a great mistake. The Servile State had--and, if it comes back,
 will have again--two great advantages: which were personal security
 and general stability.
 
 Personal security means a condition in which everybody, master and
-man, is free from [[Grave|grave]] anxiety upon the future: can expect regular
+man, is free from [[motifs/grave|grave]] anxiety upon the future: can expect regular
 food and lodging and a continuance of his regular way of life.
 
 General stability means the continuance of all society in one
@@ -8328,12 +8328,12 @@ and lock-outs.
 In the Servile State work always got done and was done regularly. The
 owners knew “where they were.” With so much land and so many slaves
 they were sure of a certain average annual produce. On the whole it was
-to the advantage of a man to keep his slaves alive and fairly [[Well|well]] fed
+to the advantage of a man to keep his slaves alive and fairly [[motifs/well|well]] fed
 and housed. Also, the human relation came in, and a man and his slave,
 in the better and simpler forms of the Servile State, would often be
 friends and were usually in the same relation as people are to-day with
-their dependents. For instance: in [[Well|well]]-to-do houses of the Servile
-State we know from [[history]] that certain slaves were often the tutors of
+their dependents. For instance: in [[motifs/well|well]]-to-do houses of the Servile
+State we know from [[concepts/history|history]] that certain slaves were often the tutors of
 the children, and thus had a very important and respectable position,
 and there were other slaves who acted as good musicians and architects
 and artists. There was always the feeling of a fixed social difference
@@ -8346,8 +8346,8 @@ a very valuable effect, which is, the presence of leisure. Because
 revenue was fairly certain, because this kind of arrangement prevented
 violent fluctuation of fortune, competition in excess, and the rest
 of it, therefore was there a considerable proportion of people at any
-[[Time|time]] who had ample opportunity for study, for cultivating good tastes,
-for writing and building [[Well|well]], and judging [[Well|well]], and--what is very
+[[motifs/time|time]] who had ample opportunity for study, for cultivating good tastes,
+for writing and building [[motifs/well|well]], and judging [[motifs/well|well]], and--what is very
 important--for conducting the affairs of the State without haste or the
 panic and folly of haste.
 
@@ -8355,14 +8355,14 @@ One alleged economic disadvantage of slave-owning must be looked at
 narrowly before we leave this description of the Servile State.
 
 One often hears it said that slave labour is less productive than
-free labour, that is, labour working at a wage under [[Capitalism]].
+free labour, that is, labour working at a wage under [[concepts/capitalism|Capitalism]].
 People sometimes point to modern examples of this contrast, saying
-that places like the Southern States of [[America]], where slave labour
+that places like the Southern States of [[settings/america|America]], where slave labour
 was used a lifetime ago, were less productive than the Northern
 States, where labour was free. But though this is true of particular
-moments in [[history]], it is not generally true. Free labour working at
-a wage under the first institution of [[Capitalism|capitalism]]--when, for instance,
-a [[Body|body]] of capitalists are beginning to develop a new country with
+moments in [[concepts/history|history]], it is not generally true. Free labour working at
+a wage under the first institution of [[concepts/capitalism|capitalism]]--when, for instance,
+a [[concepts/body|body]] of capitalists are beginning to develop a new country with
 hired free men to work for them--will be full of energy and highly
 productive. But when what is called “free labour”--that is, men
 without property working by contract for a wage--gets into routine
@@ -8378,7 +8378,7 @@ compelled to work hard.
 But whether slave labour be more or less productive is not so important
 as the two points mentioned above, of advantage and disadvantage. The
 disadvantages, as we have seen, are (1) that it offends our human
-[[Love|love]] of [[Honour|honour]] and independence, degrading the mass of men, and (2)
+[[motifs/love|love]] of [[concepts/honour|honour]] and independence, degrading the mass of men, and (2)
 that it is so terribly liable to abuse in the hands of cruel or stupid
 owners, or in conditions where great gangs of slaves grow up under
 one owner who can know nothing about them personally and is therefore
@@ -8386,24 +8386,24 @@ indifferent to their fate. The advantages are security and stability,
 running as a note throughout society and showing themselves especially
 in the leisure of the owning classes, with all the good fruits of
 leisure in taste, literary and artistic. It was a society based on
-[[Slavery|slavery]] which produced what is perhaps the best fruit of leisure, and
+[[concepts/slavery|slavery]] which produced what is perhaps the best fruit of leisure, and
 that is the profound and fruitful thinking out of the great human
-problems. All the great [[philosophy]] and art of the ancients was worked
+problems. All the great philosophy and art of the ancients was worked
 out by the free owners in the slave-owning states, and so was the best
 literature ever made.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Lo Stato Servile
+Lo Stato Servile
 
 Lo Stato Servile è quello che si trovava ovunque tra i nostri antenati; è lo Stato Servile in cui tutti noi europei vivevamo quando eravamo pagani, due migliaia di anni fa. Ad esempio: nell’antica Italia pagana prima che diventasse cristiana, o nell’antica Grecia pagana – entrambe le migliori nazioni del loro tempo e, come sapete, le origini della nostra stessa civiltà – la maggior parte delle persone che si vedevano lavorare erano schiavi, e al di sopra degli schiavi c’erano i proprietari: gli uomini liberi.
 
 Poiché stiamo parlando delle applicazioni politiche dell’economia politica, dobbiamo prendere in considerazione la felicità umana, che è l’obiettivo di ogni forma di vita umana; e quando parliamo di “vantaggio” o “svantaggio” in uno stato economico particolare, intendiamo il loro effetto maggiore o minore sulla felicità umana.
 
-Il grande svantaggio dello stato schiavista è chiaramente evidente: in esso la massa delle persone viene degradata; non sono considerate cittadini e non possono esercitare la propria volontà. Questo è un male così evidente e grave che deve essere messo a confronto con tutti i vantaggi di cui parleremo in seguito. La [[Slavery|schiavitù]] rappresenta una condizione estremamente infelice, poiché offende l’[[Honour|'onore]] umano e viola la dignità della persona; ed è proprio per questo che la religione cristiana, nel corso di molti secoli, ha gradualmente abolito la [[Slavery|schiavitù]]: essa non è infatti in linea con l’idea che l’uomo sia stato creato “a immagine di Dio”. Inoltre, la [[Slavery|schiavitù]] può essere anche materialmente insopportabile, soprattutto se i padroni sono crudeli o negligenti; la grande maggioranza degli schiavi, in tali società, potrebbe vivere in condizioni di estrema infelicità, a seconda dei capricci dei loro padroni. E durante le fasi più negative di queste società, la vita degli schiavi era davvero molto difficile.
+Il grande svantaggio dello stato schiavista è chiaramente evidente: in esso la massa delle persone viene degradata; non sono considerate cittadini e non possono esercitare la propria volontà. Questo è un male così evidente e grave che deve essere messo a confronto con tutti i vantaggi di cui parleremo in seguito. La [[concepts/slavery|schiavitù]] rappresenta una condizione estremamente infelice, poiché offende l’[[concepts/honour|'onore]] umano e viola la dignità della persona; ed è proprio per questo che la religione cristiana, nel corso di molti secoli, ha gradualmente abolito la [[concepts/slavery|schiavitù]]: essa non è infatti in linea con l’idea che l’uomo sia stato creato “a immagine di Dio”. Inoltre, la [[concepts/slavery|schiavitù]] può essere anche materialmente insopportabile, soprattutto se i padroni sono crudeli o negligenti; la grande maggioranza degli schiavi, in tali società, potrebbe vivere in condizioni di estrema infelicità, a seconda dei capricci dei loro padroni. E durante le fasi più negative di queste società, la vita degli schiavi era davvero molto difficile.
 
-Ma non dobbiamo lasciarci ingannare dalle idee che si sono formate attorno alla parola “schiavo” nella mentalità moderna. Poiché oggi in [[England|Inghilterra]] nessuno viene chiamato schiavo né comprato/venduto come tale, e nessuno è costretto dalla legge a lavorare per un altro uomo, consideriamo la [[Slavery|)schiavitù]] qualcosa di strano e alieno; e poiché è naturale disprezzare ciò che è strano e alieno, ci sembra semplicemente qualcosa di male.
+Ma non dobbiamo lasciarci ingannare dalle idee che si sono formate attorno alla parola “schiavo” nella mentalità moderna. Poiché oggi in [[settings/england|Inghilterra]] nessuno viene chiamato schiavo né comprato/venduto come tale, e nessuno è costretto dalla legge a lavorare per un altro uomo, consideriamo la [[concepts/slavery|)schiavitù]] qualcosa di strano e alieno; e poiché è naturale disprezzare ciò che è strano e alieno, ci sembra semplicemente qualcosa di male.
 
 È un grande errore. Lo Stato Servile aveva – e, se dovesse tornare, avrà di nuovo – due grandi vantaggi: la sicurezza personale e la stabilità generale.
 
@@ -8417,7 +8417,7 @@ Questa stabilità e sicurezza che la proprietà su schiavi garantiva a tutta la 
 
 Un presunto svantaggio economico legato alla proprietà di schiavi deve essere esaminato attentamente prima di concludere questa descrizione dello Stato Servile.
 
-Si sente spesso dire che il lavoro schiavistico sia meno produttivo del lavoro libero, cioè di quello svolto in cambio di uno stipendio all’interno del [[Capitalism|capitalismo]]. A volte le persone fanno riferimento ad esempi moderni di questo contrasto, sostenendo che luoghi come gli Stati del Sud dell’[[America]], dove un tempo veniva utilizzato il lavoro schiavistico, fossero meno produttivi degli Stati del Nord, dove il lavoro era libero. Tuttavia, sebbene ciò possa essere vero in determinati momenti della [[history|storia]], in generale non è così. Il lavoro libero svolto in cambio di uno stipendio all’interno delle prime strutture del [[Capitalism|capitalismo]] – ad esempio, quando un gruppo di capitalisti inizia a sviluppare una nuova colonia utilizzando uomini liberi assunti per lavorare per loro – è spesso pieno di energia e estremamente produttivo. Ma quando ciò che viene definito “lavoro libero” – cioè il lavoro di persone senza proprietà svolto in base a contratti e in cambio di uno stipendio – diventa una routine, diventa difficile affermare che sia più efficace del lavoro schiavistico. Questo tipo di lavoro è accompagnato da molta ostilità: ci sono continui scioperi e lock-out, e il processo produttivo non può essere guidato con la stessa precisione e efficienza dalla piccola classe privilegiata come avviene nel caso del lavoro schiavistico. _Non c’è alcun motivo per cui un uomo libero che lavora a beneficio di altri debba dare il meglio di sé._ Al contrario, ha tutti i motivi per cercare di lavorare il meno possibile, mentre uno schiavo può essere costretto a lavorare sodo.
+Si sente spesso dire che il lavoro schiavistico sia meno produttivo del lavoro libero, cioè di quello svolto in cambio di uno stipendio all’interno del [[concepts/capitalism|capitalismo]]. A volte le persone fanno riferimento ad esempi moderni di questo contrasto, sostenendo che luoghi come gli Stati del Sud dell’[[settings/america|America]], dove un tempo veniva utilizzato il lavoro schiavistico, fossero meno produttivi degli Stati del Nord, dove il lavoro era libero. Tuttavia, sebbene ciò possa essere vero in determinati momenti della [[concepts/history|storia]], in generale non è così. Il lavoro libero svolto in cambio di uno stipendio all’interno delle prime strutture del [[concepts/capitalism|capitalismo]] – ad esempio, quando un gruppo di capitalisti inizia a sviluppare una nuova colonia utilizzando uomini liberi assunti per lavorare per loro – è spesso pieno di energia e estremamente produttivo. Ma quando ciò che viene definito “lavoro libero” – cioè il lavoro di persone senza proprietà svolto in base a contratti e in cambio di uno stipendio – diventa una routine, diventa difficile affermare che sia più efficace del lavoro schiavistico. Questo tipo di lavoro è accompagnato da molta ostilità: ci sono continui scioperi e lock-out, e il processo produttivo non può essere guidato con la stessa precisione e efficienza dalla piccola classe privilegiata come avviene nel caso del lavoro schiavistico. _Non c’è alcun motivo per cui un uomo libero che lavora a beneficio di altri debba dare il meglio di sé._ Al contrario, ha tutti i motivi per cercare di lavorare il meno possibile, mentre uno schiavo può essere costretto a lavorare sodo.
 
 Ma il fatto che il lavoro schiavistico sia più o meno produttivo non è così importante quanto i due aspetti menzionati sopra: i vantaggi e gli svantaggi. Gli svantaggi, come abbiamo visto, sono: (1) che offende il nostro amore umano per l’onore e l’indipendenza, degradando le masse degli uomini; (2) che è estremamente soggetto a abusi nelle mani di proprietari crudeli o stupidi, o in condizioni in cui grandi gruppi di schiavi vengono gestiti da un proprietario che non li conosce personalmente e quindi è indifferente al loro destino. I vantaggi sono la sicurezza e la stabilità; questi aspetti caratterizzano tutta la società, soprattutto le classi possidenti, che godono dei benefici derivanti dal tempo libero, come il gusto raffinato, l’attività letteraria e artistica. Fu proprio una società basata sulla schiavitù a produrre forse il frutto più prezioso del tempo libero: il pensiero profondo e produttivo sui grandi problemi umani. Tutta la grande filosofia e l’arte degli antichi furono create da proprietari liberi negli stati schiavisti, così come la migliore letteratura mai scritta.
 
@@ -8437,17 +8437,17 @@ of the wealth they produce, the rest going as rent and profit to the
 owners.
 
 The Capitalist State is a recent phenomenon compared with the great
-length of known recorded [[history]]. It is a modern phenomenon produced by
-our white race [[Alone|alone]], by no means covering the whole of that race, nor
-the most of it, but of great interest to us in [[England]] because we [[Alone|alone]]
+length of known recorded [[concepts/history|history]]. It is a modern phenomenon produced by
+our white race alone, by no means covering the whole of that race, nor
+the most of it, but of great interest to us in [[settings/england|England]] because we alone
 are, of all nations, an almost purely capitalist society.
 
 Here again we can tabulate the advantages and disadvantages.
 
-The chief moral advantage of [[Capitalism]] as compared with the
+The chief moral advantage of [[concepts/capitalism|Capitalism]] as compared with the
 Slave-owning State is that _every man, however poor, feels himself to
 be free and to that extent saves his honour_. He may be compelled by
-[[Poverty|poverty]] to suffer a very hard bargain; he may see himself producing
+[[concepts/poverty|poverty]] to suffer a very hard bargain; he may see himself producing
 wealth for other men, of which wealth he is only allowed to keep a
 portion for himself. To that extent he is “exploited,” as the phrase
 goes. He feels himself the victim of a certain injustice. He remains
@@ -8458,40 +8458,40 @@ nothing, in a capitalist state (this great majority is technically
 called in economic language “the proletariat”) organise, they can
 bargain, as our great Trade Unions do, with the few owners of their
 means of livelihood and of production, and be fairly certain, for some
-little [[Time|time]] ahead, of a reasonable livelihood.
+little [[motifs/time|time]] ahead, of a reasonable livelihood.
 
-Another advantage of [[Capitalism]], purely economic, is the _effectiveness
+Another advantage of [[concepts/capitalism|Capitalism]], purely economic, is the _effectiveness
 of human energy under this system, at least, in the first part of its
 development_. We spoke of this in the last section.
 
-But the disadvantages are very [[Grave|grave]] indeed.
+But the disadvantages are very [[motifs/grave|grave]] indeed.
 
-Under [[Capitalism]] the capitalist himself acts competitively and for a
+Under [[concepts/capitalism|Capitalism]] the capitalist himself acts competitively and for a
 profit. He does not, like the slave-owner, direct a regular, simple
-[[Machine|machine]] which works evenly year in and year out. He is perpetually
-struggling to rise; or [[Suffering|suffering]], through the rise of others, a fall
+[[motifs/machine|machine]] which works evenly year in and year out. He is perpetually
+struggling to rise; or [[concepts/suffering|suffering]], through the rise of others, a fall
 of fortune. He is always on the look-out to buy labour as cheaply as
 he can and then to sell the product as dearly as he can. There is thus
 a perpetual gamble going on, the owners of Capital rapidly growing
 rich and poor by turns and a general insecurity gradually poisoning
 all the owning part of society. A far worse insecurity affects the
 propertyless majority. The Proletariat--that is, the mass of the
-State--lives perpetually under the [[Fear|fear]] of falling into unemployment
+State--lives perpetually under the [[concepts/fear|fear]] of falling into unemployment
 and starvation. The lash urging the workman to his fullest effort is
 this dread of misery. At first that lash urges men to intense effort,
-but later it destroys their energy. [[Capitalism]] was marked by nothing
+but later it destroys their energy. [[concepts/capitalism|Capitalism]] was marked by nothing
 more striking when it first arose than by the immense expansion of
 wealth and population which followed it. In every district which fell
 under the capitalist system this expansion of total wealth and of total
-population could be observed; and [[England]], which has become completely
-capitalist, had in the hey-day of its [[Capitalism]]--up to the present
+population could be observed; and [[settings/england|England]], which has become completely
+capitalist, had in the hey-day of its [[concepts/capitalism|Capitalism]]--up to the present
 generation--a more rapid rate of expansion in wealth and population
 than any other ancient people. But already the tide has turned, and the
 inhumanity of such a life is beginning to breed everywhere an ill-ease
 and revolt which threaten our civilisation.
 
-The disadvantages of [[Capitalism]] are, in the long run, so great that
-now, after not more than a lifetime of complete [[Capitalism]], and that
+The disadvantages of [[concepts/capitalism|Capitalism]] are, in the long run, so great that
+now, after not more than a lifetime of complete [[concepts/capitalism|Capitalism]], and that
 in only one State--the English State--nearly everybody is profoundly
 discontented with it and many people are in violent rebellion against
 it. This grinding and increasing insecurity which attaches to the
@@ -8509,14 +8509,14 @@ suddenly coming into great wealth from below and then dropping out
 again; the whole State suffers from an increasing absence of leisure
 and an increasing turmoil.
 
-There is, then, this very [[Grave|grave]] disadvantage of insecurity everywhere,
+There is, then, this very [[motifs/grave|grave]] disadvantage of insecurity everywhere,
 and particularly for the mass of the people, who live under permanent
 conditions of insecurity; nearly all the wage-earners have had
-experience at some [[Time|time]], longer or shorter, of insufficiency through
-unemployment. [[Capitalism]] [[Leaves|leaves]] free men under a sense of acute
+experience at some [[motifs/time|time]], longer or shorter, of insufficiency through
+unemployment. [[concepts/capitalism|Capitalism]] [[motifs/leaves|leaves]] free men under a sense of acute
 grievance (which they would not feel if they were slaves, accustomed
 to a regular and fixed status in society), and, what is worse,
-[[Capitalism]] in its later stages need not provide for the livelihood of
+[[concepts/capitalism|Capitalism]] in its later stages need not provide for the livelihood of
 the mass of citizens, and, in effect, does not so provide.
 
 The magnitude of these evils is obvious. A man who is a free man, a
@@ -8526,7 +8526,7 @@ precarious amount of necessaries of life doled out as wages week
 after week; he sees his labour exploited by others and suffers from a
 sense of injustice and oppression. The wealth of the small, owning,
 class does not seem a natural adjunct to its social position, as it
-does in the slave-owning state; for there is no [[Tradition|tradition]] behind that
+does in the slave-owning state; for there is no [[concepts/tradition|tradition]] behind that
 class; it has no “status,” that is, no general respect paid to it as
 something naturally--or, at any rate, traditionally--superior to the
 rest of men. Many a modern millionaire capitalist, exploiting the
@@ -8539,27 +8539,27 @@ position of chance advantage?
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Lo Stato Capitalista
+Lo Stato Capitalista
 
 Lo Stato Capitalista è quello in cui, sebbene tutti gli uomini siano liberi (cioè nessuno è costretto dalla legge a lavorare per altri, né a sostentare altri), pochi proprietari di terra e capitale fanno lavorare per sé la grande maggioranza delle persone che possiedono poco o nulla e ricevono uno stipendio soltanto per sopravvivere: in altre parole, solo una parte della ricchezza prodotta viene loro attribuita; il resto va come affitto e profitto ai proprietari.
 
-Lo Stato Capitalista è un fenomeno recente rispetto alla lunga durata della storia conosciuta. È un fenomeno moderno prodotto esclusivamente dalla nostra razza bianca; tuttavia non riguarda l’intera o nemmeno la maggior parte di essa. Per noi, in [[England|Inghilterra]], ha grande importanza perché noi soli, tra tutte le nazioni, siamo una società quasi interamente capitalista.
+Lo Stato Capitalista è un fenomeno recente rispetto alla lunga durata della storia conosciuta. È un fenomeno moderno prodotto esclusivamente dalla nostra razza bianca; tuttavia non riguarda l’intera o nemmeno la maggior parte di essa. Per noi, in [[settings/england|Inghilterra]], ha grande importanza perché noi soli, tra tutte le nazioni, siamo una società quasi interamente capitalista.
 
 Ancora una volta possiamo elencare i vantaggi e gli svantaggi in forma tabulata.
 
-Il principale vantaggio morale del [[Capitalism|capitalismo]], rispetto allo Stato schiavista, è che _ogni uomo, per povero che sia, si sente libero e, in questa misura, mantiene la propria dignità_. Può essere costretto dalla [[Poverty|povertà]] ad accettare condizioni molto svantaggiose; può vedere se stesso produrre ricchezza per altri, di cui gli viene permesso di tenere soltanto una parte per sé. In questa misura, viene “sfruttato”, come si suol dire. Si sente vittima di un certo ingiustizia: rimane povero nonostante tutto il proprio lavoro, mentre l’uomo per cui lavora diventa ricco. Ma, dopotutto, si tratta di un contratto che il lavoratore libero ha stipulato, e lo ha fatto in qualità di cittadino. Se coloro che non possiedono nulla, o quasi nulla, nello Stato capitalista (questa grande maggioranza viene tecnicamente definita, nel linguaggio economico, “il proletariato”) si organizzano, possono negoziare, come fanno i nostri grandi sindacati, con i pochi proprietari dei mezzi di sussistenza e di produzione, e avere la certezza, per un certo periodo di tempo, di disporre di un reddito sufficiente.
+Il principale vantaggio morale del [[concepts/capitalism|capitalismo]], rispetto allo Stato schiavista, è che _ogni uomo, per povero che sia, si sente libero e, in questa misura, mantiene la propria dignità_. Può essere costretto dalla [[concepts/poverty|povertà]] ad accettare condizioni molto svantaggiose; può vedere se stesso produrre ricchezza per altri, di cui gli viene permesso di tenere soltanto una parte per sé. In questa misura, viene “sfruttato”, come si suol dire. Si sente vittima di un certo ingiustizia: rimane povero nonostante tutto il proprio lavoro, mentre l’uomo per cui lavora diventa ricco. Ma, dopotutto, si tratta di un contratto che il lavoratore libero ha stipulato, e lo ha fatto in qualità di cittadino. Se coloro che non possiedono nulla, o quasi nulla, nello Stato capitalista (questa grande maggioranza viene tecnicamente definita, nel linguaggio economico, “il proletariato”) si organizzano, possono negoziare, come fanno i nostri grandi sindacati, con i pochi proprietari dei mezzi di sussistenza e di produzione, e avere la certezza, per un certo periodo di tempo, di disporre di un reddito sufficiente.
 
-Un altro vantaggio del [[Capitalism|capitalismo]], puramente economico, è l’_efficacia_ dell’energia umana sotto questo sistema, almeno nella prima fase dello sviluppo stesso. Ne abbiamo parlato nella sezione precedente.
+Un altro vantaggio del [[concepts/capitalism|capitalismo]], puramente economico, è l’_efficacia_ dell’energia umana sotto questo sistema, almeno nella prima fase dello sviluppo stesso. Ne abbiamo parlato nella sezione precedente.
 
-Ma gli svantaggi sono davvero molto [[Grave|gravi]].
+Ma gli svantaggi sono davvero molto [[motifs/grave|gravi]].
 
-Sotto il [[Capitalism|capitalismo]], lo stesso capitalista agisce in modo competitivo e al fine di ottenere profitti. A differenza del proprietario di schiavi, non dirige una macchina regolare e semplice che funzioni in modo costante, anno dopo anno. È costantemente impegnato a cercare di arricchirsi, oppure, con l’ascesa degli altri, subisce un calo delle proprie condizioni economiche. È sempre alla ricerca di modi per acquistare la forza lavoro al prezzo più basso possibile e poi vendere i prodotti al prezzo più alto possibile. Esiste quindi una sorta di gioco d’azzardo continuo: i proprietari del capitale diventano rapidamente ricchi o poveri a seconda delle circostanze, e un senso generale di insicurezza inizia a minare tutta la parte possidente della società. Una situazione ancora peggiore riguarda la maggioranza dei senza proprietà: il proletariato, cioè la massa della popolazione, vive costantemente nel timore di rimanere disoccupato e morire di fame. È proprio questa paura della miseria a spingere i lavoratori ad impegnarsi al massimo delle loro forze; tuttavia, in seguito, tale pressione finisce per distruggere la loro energia. Quando il [[Capitalism|capitalismo]] è nato, ciò che lo caratterizzava di più era l’enorme espansione della ricchezza e della popolazione che ne derivava. In ogni regione sottoposta a questo sistema si osservava questa crescita; l’[[England|Inghilterra]], ormai completamente capitalista, ha conosciuto, nel periodo di massimo sviluppo del suo [[Capitalism|capitalismo]] – fino alla generazione attuale – un tasso di espansione della ricchezza e della popolazione più rapido rispetto a qualsiasi altra antica civiltà. Ma ormai la situazione è cambiata: l’inhumanità di questo sistema sta iniziando a generare ovunque insoddisfazione e ribellione, minacciando la nostra civiltà stessa.
+Sotto il [[concepts/capitalism|capitalismo]], lo stesso capitalista agisce in modo competitivo e al fine di ottenere profitti. A differenza del proprietario di schiavi, non dirige una macchina regolare e semplice che funzioni in modo costante, anno dopo anno. È costantemente impegnato a cercare di arricchirsi, oppure, con l’ascesa degli altri, subisce un calo delle proprie condizioni economiche. È sempre alla ricerca di modi per acquistare la forza lavoro al prezzo più basso possibile e poi vendere i prodotti al prezzo più alto possibile. Esiste quindi una sorta di gioco d’azzardo continuo: i proprietari del capitale diventano rapidamente ricchi o poveri a seconda delle circostanze, e un senso generale di insicurezza inizia a minare tutta la parte possidente della società. Una situazione ancora peggiore riguarda la maggioranza dei senza proprietà: il proletariato, cioè la massa della popolazione, vive costantemente nel timore di rimanere disoccupato e morire di fame. È proprio questa paura della miseria a spingere i lavoratori ad impegnarsi al massimo delle loro forze; tuttavia, in seguito, tale pressione finisce per distruggere la loro energia. Quando il [[concepts/capitalism|capitalismo]] è nato, ciò che lo caratterizzava di più era l’enorme espansione della ricchezza e della popolazione che ne derivava. In ogni regione sottoposta a questo sistema si osservava questa crescita; l’[[settings/england|Inghilterra]], ormai completamente capitalista, ha conosciuto, nel periodo di massimo sviluppo del suo [[concepts/capitalism|capitalismo]] – fino alla generazione attuale – un tasso di espansione della ricchezza e della popolazione più rapido rispetto a qualsiasi altra antica civiltà. Ma ormai la situazione è cambiata: l’inhumanità di questo sistema sta iniziando a generare ovunque insoddisfazione e ribellione, minacciando la nostra civiltà stessa.
 
-Gli svantaggi del [[Capitalism|capitalismo]] sono, a lungo termine, così grandi che oggi, dopo appena una vita trascorsa in un contesto di totale [[Capitalism|capitalismo]], e soltanto in uno Stato – lo Stato inglese – quasi tutti ne sono profondamente insoddisfatti e molte persone si ribellano violentemente contro di esso. Questa insicurezza crescente, intrinseca al sistema capitalista, sta distruggendolo: nessuno è al sicuro per il domani. La competizione perpetua, che aumenta con ogni incremento dell’energia umana, ha portato a un caos nella società come non se n’era mai visto prima. La maggioranza delle persone, non essendo schiave, non può essere certa di poter sopravvivere; vivono in uno stato di costante ansia riguardo al proprio lavoro. Anche tra i proprietari esiste la stessa ansia, ma sotto forma diversa: la competizione tra loro diventa sempre più feroce. Il numero dei proprietari diminuisce, e persino i più ricchi sono oggi più insicuri di quanto lo fossero i moderatamente ricchi di una generazione fa. L’intera società è come un pentolone in ebollizione: individui improvvisamente raggiungono grande ricchezza per poi perderla nuovamente; l’intero Stato soffre di una crescente mancanza di tempo libero e di sempre maggiore instabilità.
+Gli svantaggi del [[concepts/capitalism|capitalismo]] sono, a lungo termine, così grandi che oggi, dopo appena una vita trascorsa in un contesto di totale [[concepts/capitalism|capitalismo]], e soltanto in uno Stato – lo Stato inglese – quasi tutti ne sono profondamente insoddisfatti e molte persone si ribellano violentemente contro di esso. Questa insicurezza crescente, intrinseca al sistema capitalista, sta distruggendolo: nessuno è al sicuro per il domani. La competizione perpetua, che aumenta con ogni incremento dell’energia umana, ha portato a un caos nella società come non se n’era mai visto prima. La maggioranza delle persone, non essendo schiave, non può essere certa di poter sopravvivere; vivono in uno stato di costante ansia riguardo al proprio lavoro. Anche tra i proprietari esiste la stessa ansia, ma sotto forma diversa: la competizione tra loro diventa sempre più feroce. Il numero dei proprietari diminuisce, e persino i più ricchi sono oggi più insicuri di quanto lo fossero i moderatamente ricchi di una generazione fa. L’intera società è come un pentolone in ebollizione: individui improvvisamente raggiungono grande ricchezza per poi perderla nuovamente; l’intero Stato soffre di una crescente mancanza di tempo libero e di sempre maggiore instabilità.
 
-Esiste quindi questo grave svantaggio legato all’insicurezza che pervade ovunque, soprattutto per la maggior parte delle persone che vivono in condizioni permanenti di incertezza; quasi tutti i lavoratori hanno avuto, a un certo punto, esperienze di povertà a causa della disoccupazione. Il [[Capitalism|capitalismo]] lascia gli esseri umani liberi ma in uno stato di profonda insoddisfazione (che non proverebbero se fossero schiavi, abituati a uno status sociale stabile e regolare), e cosa ancora peggiore: nel suo stadio avanzato, il [[Capitalism|capitalismo]] non è nemmeno obbligato a garantire i mezzi di sussistenza della maggior parte dei cittadini, e di fatto non lo fa.
+Esiste quindi questo grave svantaggio legato all’insicurezza che pervade ovunque, soprattutto per la maggior parte delle persone che vivono in condizioni permanenti di incertezza; quasi tutti i lavoratori hanno avuto, a un certo punto, esperienze di povertà a causa della disoccupazione. Il [[concepts/capitalism|capitalismo]] lascia gli esseri umani liberi ma in uno stato di profonda insoddisfazione (che non proverebbero se fossero schiavi, abituati a uno status sociale stabile e regolare), e cosa ancora peggiore: nel suo stadio avanzato, il [[concepts/capitalism|capitalismo]] non è nemmeno obbligato a garantire i mezzi di sussistenza della maggior parte dei cittadini, e di fatto non lo fa.
 
-L’entità di questi mali è evidente. Un uomo che è libero, un cittadino, teoricamente in grado di partecipare alla vita dello Stato, uguale davanti alla legge al più ricco, si ritrova però a vivere con una quantità precaria di beni essenziali distribuiti settimana dopo settimana come salari; vede il proprio lavoro sfruttato dagli altri e soffre per un senso di ingiustizia e oppressione. La ricchezza della piccola classe proprietaria non sembra essere un complemento naturale alla sua posizione sociale, come avviene nello Stato schiavista; infatti, dietro quella classe non esiste alcuna [[Tradition|tradizione]]; essa non possiede “status”, cioè nessun rispetto generale che le venga riconosciuto come qualcosa di naturalmente – o comunque tradizionalmente – superiore agli altri uomini. Molti milionari capitalisti moderni, che sfruttano il lavoro di migliaia di persone, hanno una cultura inferiore a quella della maggior parte dei loro lavoratori; inoltre, è possibile che entro pochi anni perdano completamente la propria posizione economica e vengano sostituiti da qualcuno ancora più meschino di loro. Come possono le masse provare rispetto per un uomo del genere, in una situazione così basata su vantaggi casuali?
+L’entità di questi mali è evidente. Un uomo che è libero, un cittadino, teoricamente in grado di partecipare alla vita dello Stato, uguale davanti alla legge al più ricco, si ritrova però a vivere con una quantità precaria di beni essenziali distribuiti settimana dopo settimana come salari; vede il proprio lavoro sfruttato dagli altri e soffre per un senso di ingiustizia e oppressione. La ricchezza della piccola classe proprietaria non sembra essere un complemento naturale alla sua posizione sociale, come avviene nello Stato schiavista; infatti, dietro quella classe non esiste alcuna [[concepts/tradition|tradizione]]; essa non possiede “status”, cioè nessun rispetto generale che le venga riconosciuto come qualcosa di naturalmente – o comunque tradizionalmente – superiore agli altri uomini. Molti milionari capitalisti moderni, che sfruttano il lavoro di migliaia di persone, hanno una cultura inferiore a quella della maggior parte dei loro lavoratori; inoltre, è possibile che entro pochi anni perdano completamente la propria posizione economica e vengano sostituiti da qualcuno ancora più meschino di loro. Come possono le masse provare rispetto per un uomo del genere, in una situazione così basata su vantaggi casuali?
 
 
 
@@ -8568,44 +8568,44 @@ L’entità di questi mali è evidente. Un uomo che è libero, un cittadino, teo
 
 It is inevitable that a moral evil of this sort should make the whole
 State unstable. You cannot make of great differences in wealth between
-citizens a [[Stable|stable]] state of affairs, save by breeding respect for
-the owners of great wealth. But the more the turmoil of [[Capitalism]]
+citizens a [[settings/stable|stable]] state of affairs, save by breeding respect for
+the owners of great wealth. But the more the turmoil of [[concepts/capitalism|Capitalism]]
 increases the less respect these owners of great wealth either deserve
 or obtain: the less do they form a class, and the less do they preserve
 traditions of any kind. And yet it is under these very conditions of
-[[Capitalism]] that there is a greater disparity of wealth than ever the
+[[concepts/capitalism|Capitalism]] that there is a greater disparity of wealth than ever the
 world knew before! It is clear that society in such a condition must be
 as unstable as an explosive.
 
-So much for the first great disadvantage of [[Capitalism]], chaos. But
-the second main disadvantage--the fact that [[Capitalism]] in its later
+So much for the first great disadvantage of [[concepts/capitalism|Capitalism]], chaos. But
+the second main disadvantage--the fact that [[concepts/capitalism|Capitalism]] in its later
 stages ceases to guarantee the livelihood of the people--is a little
-less easy to understand. Indeed, most people who discuss [[Capitalism]],
+less easy to understand. Indeed, most people who discuss [[concepts/capitalism|Capitalism]],
 even when they strongly oppose it, seem unable to grasp this second
 disadvantage--so let us examine it closely.
 
-I have said that [[Capitalism]], in its later stages, _does not provide for
+I have said that [[concepts/capitalism|Capitalism]], in its later stages, _does not provide for
 the maintenance of the mass of the people_.
 
 To see how true this is, consider an extreme case.
 
 Supposing one man were to own all the means of production, and
-supposing he were to have in his possession one [[Machine|machine]] which could
+supposing he were to have in his possession one [[motifs/machine|machine]] which could
 produce in an indefinite amount all that human beings need in order to
 live. Then there would be no economic reason why this one man should
-provide wealth for anyone except himself and his [[Family|family]]. He might turn
+provide wealth for anyone except himself and his [[concepts/family|family]]. He might turn
 out enough things to support a few others whom he wanted for private
 servants or to amuse him, but there would be no reason why he should
 support the masses around him.
 
-Now it is true that we have not yet come, under [[Capitalism]], to so
-extreme a case. But the moral applies, though modified, to [[Capitalism]]
+Now it is true that we have not yet come, under [[concepts/capitalism|Capitalism]], to so
+extreme a case. But the moral applies, though modified, to [[concepts/capitalism|Capitalism]]
 in its last stages, when very few men control the means of production,
 when machinery has become very efficient, and when the great mass
 of people are dependent upon employment by the capitalist for their
 existence.
 
-Consider that it is of the essence of [[Capitalism]] to keep wages down,
+Consider that it is of the essence of [[concepts/capitalism|Capitalism]] to keep wages down,
 that is, to buy labour cheap. Therefore, the labourer who actually
 produces, say, boots cannot afford to buy a sufficient amount of
 the boots which he himself has made. The capitalist controlling the
@@ -8613,7 +8613,7 @@ boot-making machinery, when he has provided himself with a dozen pair
 of boots, and the working classes of the community with such boots as
 their wages permit them to buy, must either try to sell the extra boots
 abroad (and that outlet can’t last long) or stop making them. He has
-restricted the [[Home|home]] market by the necessity of cheap labour, and you
+restricted the [[motifs/home|home]] market by the necessity of cheap labour, and you
 have the absurd position of men making more goods than they need, and
 yet having less of those goods available for themselves than they need:
 the labourer producing, or able to produce, every year enough clothing
@@ -8621,17 +8621,17 @@ for ten years, and yet not being able to afford sufficient for one: the
 labourer producing or able to produce ten good overcoats, yet not able
 to buy one.
 
-So under [[Capitalism]] in its last stages you have the abnormal position
+So under [[concepts/capitalism|Capitalism]] in its last stages you have the abnormal position
 of millions of men ready to make the necessaries of life, of machinery
 ready to produce those necessaries, of raw material standing ready to
 be worked up by the machinery if only labourers could be put on, and
 yet all the machinery standing idle, the wealth not being produced,
 and the mass who could produce it going hungry and ill-shod and badly
-clothed. And the more [[Capitalism]] develops the more that state of things
+clothed. And the more [[concepts/capitalism|Capitalism]] develops the more that state of things
 will develop with it.
 
 Now this gradual lessening of purchasing power on the part of the
-working masses under [[Capitalism]] is _the destruction of the [[Home|home]]
+working masses under [[concepts/capitalism|Capitalism]] is _the destruction of the [[motifs/home|home]]
 market_. Low wages make great masses of English bootmakers unable
 to buy all the boots they would. Therefore the capitalist who owns
 the boot-making machinery must try to sell his surplus abroad. But
@@ -8640,26 +8640,26 @@ trouble: property being badly distributed and the wage-earners kept
 as low as possible, their power to buy foreign goods also diminishes.
 Thus you have gradual destruction of the foreign market. You get in
 the long run the full working of what we will call the “_Capitalist
-Paradox_,” which is that [[Capitalism]] is a way of producing wealth which,
+Paradox_,” which is that [[concepts/capitalism|Capitalism]] is a way of producing wealth which,
 in the long run, prevents people from obtaining the wealth produced and
 prevents the owner of the wealth from finding a market.
 
-There is no [[Doubt|doubt]] that, on the balance, the disadvantages of [[Capitalism]]
+There is no [[concepts/doubt|doubt]] that, on the balance, the disadvantages of [[concepts/capitalism|Capitalism]]
 have proved, even after its short trial, overwhelmingly greater than
 the advantages.
 
-[[Capitalism]] arose in small beginnings rather more than 250 years ago. It
-grew strong and covered the greater part of the community (in [[England]],
+[[concepts/capitalism|Capitalism]] arose in small beginnings rather more than 250 years ago. It
+grew strong and covered the greater part of the community (in [[settings/england|England]],
 at least) about 100 years ago. It came to its highest development in
-our own [[Time|time]]; and it is already doomed. People cannot bear it any
-longer. Future historians looking back upon our [[Time|time]] will be astonished
-at the immense productivity of [[Capitalism]], the enormous addition to
+our own [[motifs/time|time]]; and it is already doomed. People cannot bear it any
+longer. Future historians looking back upon our [[motifs/time|time]] will be astonished
+at the immense productivity of [[concepts/capitalism|Capitalism]], the enormous addition to
 wealth which it made, and to population, in its early phases; but
 perhaps they will be still more astonished at the pace at which it
-ran down at its end. Urged by the extreme human [[Suffering|suffering]], moral and
-material, which [[Capitalism|capitalism]] now produces, remedies have been proposed,
-the chief of which is generally called [[Socialism]], or, in its fully
-developed form, [[Communism]].
+ran down at its end. Urged by the extreme human [[concepts/suffering|suffering]], moral and
+material, which [[concepts/capitalism|capitalism]] now produces, remedies have been proposed,
+the chief of which is generally called [[concepts/socialism|Socialism]], or, in its fully
+developed form, [[concepts/communism|Communism]].
 
 But before we talk of this supposed remedy, which has never been put
 into practice (it is an imaginary state of things) we must describe the
@@ -8668,27 +8668,27 @@ third form of state--the Distributive State.
 
 <span class="qlang-split" data-lang="it"></span>
 
-È inevitabile che un male morale di questo genere renda l’intero Stato instabile. Non si possono creare condizioni sociali [[Stable|stabili]] quando esistono grandi differenze di ricchezza tra i cittadini, a meno di coltivare rispetto per coloro che possiedono enormi patrimoni. Tuttavia, quanto più aumenta il caos del [[Capitalism|capitalismo]], tanto meno tale rispetto questi individui meritano o ottengono: in tal modo, non costituiscono davvero una vera classe sociale e non preservano alcuna tradizione. Eppure è proprio in queste condizioni del [[Capitalism|capitalismo]] che si registra una disparità di ricchezza mai vista prima nel mondo! È evidente che una società in tali circostanze debba essere altrettanto instabile quanto un esplosivo.
+È inevitabile che un male morale di questo genere renda l’intero Stato instabile. Non si possono creare condizioni sociali [[settings/stable|stabili]] quando esistono grandi differenze di ricchezza tra i cittadini, a meno di coltivare rispetto per coloro che possiedono enormi patrimoni. Tuttavia, quanto più aumenta il caos del [[concepts/capitalism|capitalismo]], tanto meno tale rispetto questi individui meritano o ottengono: in tal modo, non costituiscono davvero una vera classe sociale e non preservano alcuna tradizione. Eppure è proprio in queste condizioni del [[concepts/capitalism|capitalismo]] che si registra una disparità di ricchezza mai vista prima nel mondo! È evidente che una società in tali circostanze debba essere altrettanto instabile quanto un esplosivo.
 
-Ecco quindi il primo grande svantaggio del [[Capitalism|Capitalismo]]: il caos. Ma il secondo principale svantaggio – il fatto che il [[Capitalism|Capitalismo]], nelle sue fasi successive, smetta di garantire i mezzi di sussistenza delle persone – è un po’ meno facile da comprendere. Infatti, la maggior parte delle persone che discutono del [[Capitalism|Capitalismo]], anche quando lo oppongono fermamente, sembra incapace di cogliere questo secondo svantaggio; quindi esaminiamolo più attentamente.
+Ecco quindi il primo grande svantaggio del [[concepts/capitalism|Capitalismo]]: il caos. Ma il secondo principale svantaggio – il fatto che il [[concepts/capitalism|Capitalismo]], nelle sue fasi successive, smetta di garantire i mezzi di sussistenza delle persone – è un po’ meno facile da comprendere. Infatti, la maggior parte delle persone che discutono del [[concepts/capitalism|Capitalismo]], anche quando lo oppongono fermamente, sembra incapace di cogliere questo secondo svantaggio; quindi esaminiamolo più attentamente.
 
-Ho detto che il [[Capitalism|capitalismo]], nelle sue fasi avanzate, _non garantisce il sostentamento della massa del popolo_.
+Ho detto che il [[concepts/capitalism|capitalismo]], nelle sue fasi avanzate, _non garantisce il sostentamento della massa del popolo_.
 
 Per capire quanto sia vero questo, consideriamo un caso estremo.
 
-Supponendo che un uomo possedesse tutti i mezzi di produzione, e che avesse a disposizione una [[Machine|macchina]] in grado di produrre, in quantità illimitata, tutto ciò di cui gli esseri umani hanno bisogno per vivere, allora non esisterebbe alcuna ragione economica perché quest’uomo dovesse fornire ricchezza a qualcuno altro se non a sé stesso e alla sua [[Family|>famiglia]]. Potrebbe produrre abbastanza da mantenere alcune altre persone che desidera avere come servitori personali o per il proprio divertimento, ma non ci sarebbe motivo per cui dovesse sostenere le masse che lo circondano.
+Supponendo che un uomo possedesse tutti i mezzi di produzione, e che avesse a disposizione una [[motifs/machine|macchina]] in grado di produrre, in quantità illimitata, tutto ciò di cui gli esseri umani hanno bisogno per vivere, allora non esisterebbe alcuna ragione economica perché quest’uomo dovesse fornire ricchezza a qualcuno altro se non a sé stesso e alla sua [[concepts/family|>famiglia]]. Potrebbe produrre abbastanza da mantenere alcune altre persone che desidera avere come servitori personali o per il proprio divertimento, ma non ci sarebbe motivo per cui dovesse sostenere le masse che lo circondano.
 
-È vero che sotto il [[Capitalism|capitalismo]] non siamo ancora arrivati a un caso così estremo. Tuttavia, questa morale, sebbene modificata, si applica anche al [[Capitalism|capitalismo]] nelle sue fasi finali: quando pochissime persone controllano i mezzi di produzione, quando le macchine sono diventate estremamente efficienti e quando la grande maggioranza delle persone dipende dall’impiego offerto dai capitalisti per sopravvivere.
+È vero che sotto il [[concepts/capitalism|capitalismo]] non siamo ancora arrivati a un caso così estremo. Tuttavia, questa morale, sebbene modificata, si applica anche al [[concepts/capitalism|capitalismo]] nelle sue fasi finali: quando pochissime persone controllano i mezzi di produzione, quando le macchine sono diventate estremamente efficienti e quando la grande maggioranza delle persone dipende dall’impiego offerto dai capitalisti per sopravvivere.
 
-Si consideri che sia essenziale per il [[Capitalism|capitalismo]] mantenere bassi i salari, cioè acquistare la forza lavoro a basso costo. Pertanto, il lavoratore che effettivamente produce, ad esempio, stivali, non può permettersi di comprare una quantità sufficiente degli stivali che stesso ha realizzato. Il capitalista che controlla le macchine per la produzione di stivali, dopo essersi fornito di una dozzina di paia di stivali e aver fornito alla classe lavoratrice della comunità quelli che i loro salari permettono loro di acquistare, deve o cercare di vendere gli stivali in eccesso all’estero (e questa possibilità non durerà a lungo) oppure smettere di produrli. Ha limitato il mercato interno a causa della necessità di una forza lavoro a basso costo, e così si arriva a una situazione assurda: le persone producono più beni di quelli di cui hanno bisogno, ma allo stesso tempo ne hanno meno disponibili per sé rispetto alle loro esigenze: il lavoratore che produce, o è in grado di produrre, abbastanza vestiti per dieci anni, non riesce comunque a permettersene quanti ne bastino per uno; il lavoratore che produce, o è in grado di produrre, dieci ottimi cappotti, non riesce comunque a comprarne nemmeno uno.
+Si consideri che sia essenziale per il [[concepts/capitalism|capitalismo]] mantenere bassi i salari, cioè acquistare la forza lavoro a basso costo. Pertanto, il lavoratore che effettivamente produce, ad esempio, stivali, non può permettersi di comprare una quantità sufficiente degli stivali che stesso ha realizzato. Il capitalista che controlla le macchine per la produzione di stivali, dopo essersi fornito di una dozzina di paia di stivali e aver fornito alla classe lavoratrice della comunità quelli che i loro salari permettono loro di acquistare, deve o cercare di vendere gli stivali in eccesso all’estero (e questa possibilità non durerà a lungo) oppure smettere di produrli. Ha limitato il mercato interno a causa della necessità di una forza lavoro a basso costo, e così si arriva a una situazione assurda: le persone producono più beni di quelli di cui hanno bisogno, ma allo stesso tempo ne hanno meno disponibili per sé rispetto alle loro esigenze: il lavoratore che produce, o è in grado di produrre, abbastanza vestiti per dieci anni, non riesce comunque a permettersene quanti ne bastino per uno; il lavoratore che produce, o è in grado di produrre, dieci ottimi cappotti, non riesce comunque a comprarne nemmeno uno.
 
-So che sotto il [[Capitalism|capitalismo]] nelle sue fasi finali si verifica una situazione anomala: milioni di uomini sono pronti a produrre i beni necessari alla vita, le macchine sono pronte a realizzare tale produzione, le materie prime sono disponibili per essere lavorate dalle macchine, se solo ci fossero operai disposti a farlo. Eppure tutte le macchine rimangono inutilizzate, la ricchezza non viene prodotta, e le masse che potrebbero crearla muoiono di fame, indossano abiti logori e sono mal vestite. E più il [[Capitalism|capitalismo]] si sviluppa, più questa situazione peggiora.
+So che sotto il [[concepts/capitalism|capitalismo]] nelle sue fasi finali si verifica una situazione anomala: milioni di uomini sono pronti a produrre i beni necessari alla vita, le macchine sono pronte a realizzare tale produzione, le materie prime sono disponibili per essere lavorate dalle macchine, se solo ci fossero operai disposti a farlo. Eppure tutte le macchine rimangono inutilizzate, la ricchezza non viene prodotta, e le masse che potrebbero crearla muoiono di fame, indossano abiti logori e sono mal vestite. E più il [[concepts/capitalism|capitalismo]] si sviluppa, più questa situazione peggiora.
 
-Ora, questa graduale diminuzione del potere d’acquisto da parte delle masse lavoratrici sotto il [[Capitalism|capitalismo]] rappresenta _la distruzione del mercato interno_. I salari bassi impediscono a grandi masse di calzolai inglesi di acquistare tutti i calzini che desidererebbero. Pertanto, il capitalista che possiede le macchine per la produzione di calzature deve cercare di vendere il proprio surplus all’estero. Ma anche i paesi stranieri, man mano che diventano capitalisti, affrontano lo stesso problema: la distribuzione disomogenea della proprietà e il mantenimento dei salari al livello più basso possibile riducono anch’essi la loro capacità di acquistare beni stranieri. Di conseguenza, si verifica una graduale distruzione del mercato estero. A lungo andare, ciò porta all’effetto completo di quello che possiamo definire il “**paradosso capitalista**: il [[Capitalism|capitalismo]] è infatti un sistema di produzione della ricchezza che, nel lungo periodo, impedisce alle persone di ottenere la ricchezza prodotta e impedisce al proprietario di quella ricchezza di trovare un mercato per venderla.
+Ora, questa graduale diminuzione del potere d’acquisto da parte delle masse lavoratrici sotto il [[concepts/capitalism|capitalismo]] rappresenta _la distruzione del mercato interno_. I salari bassi impediscono a grandi masse di calzolai inglesi di acquistare tutti i calzini che desidererebbero. Pertanto, il capitalista che possiede le macchine per la produzione di calzature deve cercare di vendere il proprio surplus all’estero. Ma anche i paesi stranieri, man mano che diventano capitalisti, affrontano lo stesso problema: la distribuzione disomogenea della proprietà e il mantenimento dei salari al livello più basso possibile riducono anch’essi la loro capacità di acquistare beni stranieri. Di conseguenza, si verifica una graduale distruzione del mercato estero. A lungo andare, ciò porta all’effetto completo di quello che possiamo definire il “**paradosso capitalista**: il [[concepts/capitalism|capitalismo]] è infatti un sistema di produzione della ricchezza che, nel lungo periodo, impedisce alle persone di ottenere la ricchezza prodotta e impedisce al proprietario di quella ricchezza di trovare un mercato per venderla.
 
-Non c’è alcun [[Doubt|>dubbio]] che, nel complesso, gli svantaggi del [[Capitalism|Capitalismo]] si siano rivelati, anche dopo un breve periodo di prova, decisamente maggiori dei vantaggi.
+Non c’è alcun [[concepts/doubt|>dubbio]] che, nel complesso, gli svantaggi del [[concepts/capitalism|Capitalismo]] si siano rivelati, anche dopo un breve periodo di prova, decisamente maggiori dei vantaggi.
 
-Il [[Capitalism|capitalismo]] nacque da piccole iniziative più di 250 anni fa. Crescese fino a dominare gran parte della società (almeno nell’[[England|Inghilterra]]) circa 100 anni fa, raggiungendo il suo apice nel nostro tempo; oggi, però, è ormai condannato. Le persone non possono sopportarlo ulteriormente. I futuri storici, guardando indietro al nostro tempo, saranno sorpresi dall’enorme produttività del [[Capitalism|capitalismo]], dal notevole aumento della ricchezza e della popolazione che ha determinato nelle sue fasi iniziali; forse saranno ancora più stupiti dal ritmo con cui è declinato alla fine. Spinto dagli estremi sofferimenti umani, sia morali che materiali, che il [[Capitalism|capitalismo]] oggi provoca, sono stati proposti diversi rimedi; il principale di questi viene generalmente chiamato [[Socialism|socialismo]], o, nella sua forma pienamente sviluppata, [[Communism|comunismo]].
+Il [[concepts/capitalism|capitalismo]] nacque da piccole iniziative più di 250 anni fa. Crescese fino a dominare gran parte della società (almeno nell’[[settings/england|Inghilterra]]) circa 100 anni fa, raggiungendo il suo apice nel nostro tempo; oggi, però, è ormai condannato. Le persone non possono sopportarlo ulteriormente. I futuri storici, guardando indietro al nostro tempo, saranno sorpresi dall’enorme produttività del [[concepts/capitalism|capitalismo]], dal notevole aumento della ricchezza e della popolazione che ha determinato nelle sue fasi iniziali; forse saranno ancora più stupiti dal ritmo con cui è declinato alla fine. Spinto dagli estremi sofferimenti umani, sia morali che materiali, che il [[concepts/capitalism|capitalismo]] oggi provoca, sono stati proposti diversi rimedi; il principale di questi viene generalmente chiamato [[concepts/socialism|socialismo]], o, nella sua forma pienamente sviluppata, [[concepts/communism|comunismo]].
 
 Ma prima di parlare di questo presunto rimedio, che mai è stato messo in pratica (si tratta di uno stato immaginario delle cose), dobbiamo descrivere la terza forma di governo: lo Stato Distributivo.
 
@@ -8701,7 +8701,7 @@ THE DISTRIBUTIVE STATE
 
 A state of society in which the families composing it are, in a
 determining number, owners of the land and the means of production
-as [[Well|well]] as themselves the human agents of production (that is, the
+as [[motifs/well|well]] as themselves the human agents of production (that is, the
 people who by their human energy produce wealth with those means of
 production), is probably the oldest, and certainly the most commonly
 found of all states of society. It is a state of society which you
@@ -8709,7 +8709,7 @@ get all through the East, all through Asia, and in all the primitive
 states we know. It is the state to which men try to return, as a rule,
 after they have blundered into any other, though the first state we
 described--the Servile State--runs it very close as a thing suitable
-to human [[Nature|nature]]; for we know that the Servile State did also last for
+to human [[concepts/nature|nature]]; for we know that the Servile State did also last for
 centuries quite normally and stably in the Pagan past.
 
 The reason men commonly adopt the Distributive form of society, and
@@ -8718,7 +8718,7 @@ seem greater in most men’s eyes than its disadvantages.
 
 The advantages are these:--
 
-It gives [[Freedom|freedom]]: that is, the exercise of one’s will. A [[Family|family]]
+It gives [[concepts/freedom|freedom]]: that is, the exercise of one’s will. A [[concepts/family|family]]
 possessed of the means of production--the simplest form of which is
 the possession of land and of the implements and capital for working
 the land--cannot be controlled by others. Of course, various producers
@@ -8729,8 +8729,8 @@ another. He can say: “If you will not take my surplus as against your
 surplus I shall be the poorer; but at least I can live.”
 
 Societies of this kind are not only free, but also, what goes with
-[[Freedom|freedom]], elastic--that is, they mould themselves easily to changed
-conditions. The individual, or the [[Family|family]], controlling his or its own
+[[concepts/freedom|freedom]], elastic--that is, they mould themselves easily to changed
+conditions. The individual, or the [[concepts/family|family]], controlling his or its own
 means of production, can choose what he will do best, and can exercise
 his faculties, if he has sufficient knowledge, to the best advantage.
 
@@ -8742,36 +8742,36 @@ of difficulty. For instance, they will probably have each a reserve
 of food to carry them over a bad harvest or some natural disaster.
 Further, it is found in practice that societies of this kind continue
 for centuries without much change. They go on for generations with a
-property [[Well|well]] divided among them and everybody free, so far as economic
+property [[motifs/well|well]] divided among them and everybody free, so far as economic
 situation is concerned. No such society has ever been destroyed except
 by some great shock; and so long as every shock can be warded off,
 this system of having the land and the means of production controlled
 by the mass of the citizens as private owners is enduring. There are
-districts of [[Europe]] to-day where the system has continued from beyond
-the [[Memory|memory]] of man. Such a little state as Andorra is an example,
+districts of [[settings/europe|Europe]] to-day where the system has continued from beyond
+the [[motifs/memory|memory]] of man. Such a little state as Andorra is an example,
 and many of the Swiss valleys. Further, when the system has been
 laboriously reconstructed, when the mass of families who used to be
 dispossessed have been again put into possession of land and the means
-of production, we find that the state arrived at is [[Stable|stable]].
+of production, we find that the state arrived at is [[settings/stable|stable]].
 
 The best example of that sort of reconstruction to-day is to be found
-in [[Denmark]], but you have it also in a less marked fashion in most
-parts of [[France]] and in most of the Valley of the Rhine, in Belgium and
+in [[settings/denmark|Denmark]], but you have it also in a less marked fashion in most
+parts of [[settings/france|France]] and in most of the Valley of the Rhine, in Belgium and
 Holland, in Norway, and in many other places. Wherever it has been
 settled it has taken root firmly.
 
 The disadvantages of such a system are, first, that though in practice
-it is found usually [[Stable|stable]], yet in theory it is not necessarily [[Stable|stable]],
+it is found usually [[settings/stable|stable]], yet in theory it is not necessarily [[settings/stable|stable]],
 and in practice also there are some communities the social character of
 which is such that the system cannot be established permanently.
 
-It is obvious that, with land and the means of production [[Well|well]]
+It is obvious that, with land and the means of production [[motifs/well|well]]
 distributed among the various families, a few may by luck or special
 perseverance and cunning, tend to buy up the land and implements of
 their less fortunate neighbours, and nothing will prevent this but a
 set of laws backed up by strong public opinion. In other words, people
-must [[Desire|desire]] this state of society, and [[Desire|desire]] it strongly in order to
-maintain it; and if the [[Desire|desire]] for ownership and [[Freedom|freedom]] is weak this
+must [[motifs/desire|desire]] this state of society, and [[motifs/desire|desire]] it strongly in order to
+maintain it; and if the [[motifs/desire|desire]] for ownership and [[concepts/freedom|freedom]] is weak this
 distributive arrangement will not last.
 
 In the absence of special laws, and a public opinion to back them,
@@ -8780,7 +8780,7 @@ gradually lose their ownership to the more industrious or the more
 cunning or more fortunate.
 
 Another disadvantage which has often been pointed out is that a state
-of society of this sort, though usually [[Stable|stable]] and enduring, falls
+of society of this sort, though usually [[settings/stable|stable]] and enduring, falls
 into a routine (that is, into a traditional way of doing things),
 which it is very difficult to change. The small owner will not have
 the same opportunities for travel and for wide experience as the rich
@@ -8791,12 +8791,12 @@ from predatory neighbours and goes under in war. For a society of this
 kind is unfitted to the discovery of new things. Contented men feel no
 special spur to discover or to act on such discovery. That is why we
 find societies in which land and all the other means of production are
-[[Well|well]] distributed among the greater part of the families of the State
+[[motifs/well|well]] distributed among the greater part of the families of the State
 becoming too conservative--that is, unwilling to change even for their
 own advantage.
 
 This, of course, is not universally true. For instance: no society in
-[[Europe]] has made more progress in agriculture than the Danish society
+[[settings/europe|Europe]] has made more progress in agriculture than the Danish society
 of small owners. But, take the world all over, this kind of state is
 usually backward, that is, slow to take up improvements in production
 and to avail itself of new discoveries in physical science.
@@ -8807,11 +8807,11 @@ State, and that is _the difficulty of getting a very large number of
 small owners to put their money together for any great purpose_. The
 small owner will probably have less opportunities for instruction and
 judgment than the few directing rich men of a Capitalist or Servile
-State, and even if he is, on the average, as [[Well|well]] educated as these
+State, and even if he is, on the average, as [[motifs/well|well]] educated as these
 rich men in neighbouring states, it will be more difficult to get a
 great number of small owners to act together than to persuade a few
 large owners to act together. Therefore highly Capitalist States, such
-as [[England]], will be found more enterprising than less Capitalist States
+as [[settings/england|England]], will be found more enterprising than less Capitalist States
 in their investments and commerce. They will open up new countries
 more rapidly, and will get possession of the best markets.
 
@@ -8819,7 +8819,7 @@ Lastly, this disadvantage attaches to the Distributive State--that it
 is not so easy in it to collect great funds for war or for national
 defence, or for any other purpose, as it is in a Capitalist or Servile
 State. You cannot tax a Distributive State as highly as you can tax a
-Capitalist State. The reason is obvious enough. A [[Family|family]] with, say,
+Capitalist State. The reason is obvious enough. A [[concepts/family|family]] with, say,
 £400 a year finds it terribly difficult--almost impossible--to pay out
 £100 a year in taxation. They live on a certain modest scale to which
 all their lives are fitted, and which does not leave very much margin
@@ -8838,7 +8838,7 @@ them have £300,000,000 a year, can easily be taxed a quarter of their
 whole wealth; for a rich man always has a much larger margin, the loss
 of which he does not really feel.
 
-By a very curious [[Paradox|paradox]], which it would take much too long to go
+By a very curious [[concepts/paradox|paradox]], which it would take much too long to go
 into in detail, but which it is amusing to notice, this power of
 taxing a very highly capitalist community is one of the things which
 is beginning to handicap our Capitalist societies to-day against the
@@ -8854,13 +8854,13 @@ the State weakens it.
 The money raised by taxation is spent on State servants--many of them
 inefficient and idle.
 
-Since it is so easy to raise large sums, there is a [[Temptation|temptation]] to
+Since it is so easy to raise large sums, there is a [[concepts/temptation|temptation]] to
 indulge in all sorts of expensive State schemes, many of which come to
 nothing. And this power of easy taxation, which was a strength, becomes
 a weakness.
 
-No one suspected this until taxation [[Rose|rose]] to its present height, but
-now it is clearly apparent; and we in [[England]] might perhaps be in
+No one suspected this until taxation [[motifs/rose|rose]] to its present height, but
+now it is clearly apparent; and we in [[settings/england|England]] might perhaps be in
 a better way later on if there had been as much resistance to high
 taxation here as there has been in countries where property is better
 distributed.
@@ -8868,88 +8868,88 @@ distributed.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Lo Stato Distributivo
+Lo Stato Distributivo
 
 Uno stato sociale in cui le famiglie che lo compongono sono, in un numero determinato, proprietarie della terra e dei mezzi di produzione, così come gli stessi individui sono i soggetti umani che utilizzano tali mezzi per produrre ricchezza, è probabilmente lo stato sociale più antico e certamente il più diffuso tra tutti. Si tratta di uno stato che si trova in tutto l’Oriente, in tutta l’Asia e in tutti gli stati primitivi conosciuti. È lo stato verso cui le persone tendono a tornare, di solito, dopo essere finite in altri tipi di società; anche lo stato schiavistico, che abbiamo descritto in precedenza, è molto vicino a questo ideale, in quanto adatta alla natura umana. Infatti sappiamo che lo stato schiavistico è esistito per secoli, in modo normale e stabile, nel passato pagano.
 
 Il motivo per cui gli uomini adottano comunemente questa forma di società distributiva e tendono a tornarvi se possibile è che, agli occhi della maggior parte di loro, i vantaggi che essa offre sembrano essere superiori ai suoi svantaggi.
 
-# Questi sono i vantaggi:
+Questi sono i vantaggi:
 
-Dona [[Freedom|libertà]], cioè la possibilità di esprimere liberamente la propria volontà. Una [[Family|>famiglia]] che possiede i mezzi di produzione – la cui forma più semplice è la proprietà della terra, degli strumenti e del capitale necessari per lavorarla – non può essere controllata da altri. Certo, i diversi produttori si specializzano e, attraverso lo scambio, diventano più o meno interdipendenti l’uno dall’altro; tuttavia, ciascuno di loro può comunque vivere “per conto proprio”: in caso necessario, può resistere alle pressioni esercitate da altri. Può dire: “Se non accettate il mio surplus al posto del vostro, sarò più povero; ma almeno potrò sopravvivere”.
+Dona [[concepts/freedom|libertà]], cioè la possibilità di esprimere liberamente la propria volontà. Una [[concepts/family|>famiglia]] che possiede i mezzi di produzione – la cui forma più semplice è la proprietà della terra, degli strumenti e del capitale necessari per lavorarla – non può essere controllata da altri. Certo, i diversi produttori si specializzano e, attraverso lo scambio, diventano più o meno interdipendenti l’uno dall’altro; tuttavia, ciascuno di loro può comunque vivere “per conto proprio”: in caso necessario, può resistere alle pressioni esercitate da altri. Può dire: “Se non accettate il mio surplus al posto del vostro, sarò più povero; ma almeno potrò sopravvivere”.
 
-Le società di questo tipo non sono solo libere, ma anche, come è naturale per la [[Freedom|libertà]], flessibili: cioè si adattano facilmente ai cambiamenti delle condizioni circostanti. L’individuo, o la [[Family|>famiglia]] che controlla i propri mezzi di produzione, può scegliere ciò che fa meglio e può utilizzare le proprie capacità, se ne dispone di conoscenze adeguate, al massimo del loro potenziale.
+Le società di questo tipo non sono solo libere, ma anche, come è naturale per la [[concepts/freedom|libertà]], flessibili: cioè si adattano facilmente ai cambiamenti delle condizioni circostanti. L’individuo, o la [[concepts/family|>famiglia]] che controlla i propri mezzi di produzione, può scegliere ciò che fa meglio e può utilizzare le proprie capacità, se ne dispone di conoscenze adeguate, al massimo del loro potenziale.
 
-Questo sistema garantisce anche sicurezza, sebbene non nel medesimo grado dello Stato Servile. Le persone che si trovano in questa posizione di proprietà non temono il futuro immediato; possono continuare a vivere normalmente e, se lo desiderano, possono accumulare risorse per superare momenti difficili. Ad esempio, probabilmente ognuno di loro possiede scorte di cibo sufficienti per affrontare una cattiva raccolta o un disastro naturale. In pratica, si è constatato che società di questo tipo continuano a esistere per secoli senza subire grandi cambiamenti; sopravvivono per generazioni con la proprietà ben distribuita tra i cittadini e tutti liberi, dal punto di vista economico. Nessuna tale società è mai stata distrutta se non a causa di eventi catastrofici; e finché tali eventi possono essere evitati, questo sistema in cui la terra e i mezzi di produzione sono controllati dalla massa dei cittadini come proprietari privati rimarrà duraturo. Oggi esistono ancora zone dell’[[Europe|Europa]] dove questo sistema continua a funzionare da tempi così remoti da essere ormai al di là della memoria umana; un esempio è il piccolo Stato di Andorra, così come molte valli svizzere. Inoltre, quando questo sistema viene ripristinato con cura e le famiglie che in passato erano state private delle loro risorse riescono nuovamente a possedere la terra e i mezzi di produzione, si scopre che lo Stato risultante è davvero [[Stable|stabile]].
+Questo sistema garantisce anche sicurezza, sebbene non nel medesimo grado dello Stato Servile. Le persone che si trovano in questa posizione di proprietà non temono il futuro immediato; possono continuare a vivere normalmente e, se lo desiderano, possono accumulare risorse per superare momenti difficili. Ad esempio, probabilmente ognuno di loro possiede scorte di cibo sufficienti per affrontare una cattiva raccolta o un disastro naturale. In pratica, si è constatato che società di questo tipo continuano a esistere per secoli senza subire grandi cambiamenti; sopravvivono per generazioni con la proprietà ben distribuita tra i cittadini e tutti liberi, dal punto di vista economico. Nessuna tale società è mai stata distrutta se non a causa di eventi catastrofici; e finché tali eventi possono essere evitati, questo sistema in cui la terra e i mezzi di produzione sono controllati dalla massa dei cittadini come proprietari privati rimarrà duraturo. Oggi esistono ancora zone dell’[[settings/europe|Europa]] dove questo sistema continua a funzionare da tempi così remoti da essere ormai al di là della memoria umana; un esempio è il piccolo Stato di Andorra, così come molte valli svizzere. Inoltre, quando questo sistema viene ripristinato con cura e le famiglie che in passato erano state private delle loro risorse riescono nuovamente a possedere la terra e i mezzi di produzione, si scopre che lo Stato risultante è davvero [[settings/stable|stabile]].
 
-Il miglior esempio di quel tipo di ricostruzione al giorno d'oggi si trova in [[Denmark|>Danimarca]], ma esiste anche, in forma meno evidente, nella maggior parte delle regioni della [[France|Francia]] e nella maggior parte della Valle del Reno, in Belgio e Olanda, in Norvegia e in molti altri luoghi. Ovunque sia stata adottata, si è radicata saldamente.
+Il miglior esempio di quel tipo di ricostruzione al giorno d'oggi si trova in [[settings/denmark|>Danimarca]], ma esiste anche, in forma meno evidente, nella maggior parte delle regioni della [[settings/france|Francia]] e nella maggior parte della Valle del Reno, in Belgio e Olanda, in Norvegia e in molti altri luoghi. Ovunque sia stata adottata, si è radicata saldamente.
 
-Gli svantaggi di un tale sistema sono, innanzitutto, che sebbene nella pratica sia solitamente [[Stable|stabile]], in teoria non lo è necessariamente; inoltre, nella pratica esistono anche alcune comunità la cui natura sociale rende impossibile l’instaurazione permanente di tale sistema.
+Gli svantaggi di un tale sistema sono, innanzitutto, che sebbene nella pratica sia solitamente [[settings/stable|stabile]], in teoria non lo è necessariamente; inoltre, nella pratica esistono anche alcune comunità la cui natura sociale rende impossibile l’instaurazione permanente di tale sistema.
 
 È ovvio che, se la terra e i mezzi di produzione fossero ben distribuiti tra le varie famiglie, alcune persone, grazie alla fortuna o a una particolare perseveranza e astuzia, potrebbero cercare di acquistare la terra e gli strumenti dei loro vicini meno fortunati. Nulla potrebbe impedirlo, se non un insieme di leggi sostenute da una forte opinione pubblica. In altre parole, le persone devono desiderare ardentemente questo stato sociale per mantenerlo; e se il desiderio di possedere la proprietà e di godere della libertà è debole, questa distribuzione equa non durerà a lungo.
 
 In assenza di leggi speciali e di un'opinione pubblica che le sostenga, il pigro o il proprietario meno competente o meno fortunato perderà gradualmente la propria proprietà a favore di chi è più laborioso, più astuto o più fortunato.
 
-Un altro svantaggio spesso sottolineato è che uno stato sociale di questo tipo, sebbene solitamente [[Stable|stabile]] e duraturo, finisce per cadere in una routine, cioè in un modo tradizionale di fare le cose, il quale è molto difficile da cambiare. Il piccolo proprietario terriero non avrà le stesse opportunità di viaggio e di acquisire esperienze varie rispetto all’uomo ricco; tenderà quindi a seguire le orme dei suoi antenati, e per questo sarà lento ad adottare nuove invenzioni che emergono al di fuori della sua società. In questo modo, tale società diventa meno capace di difendersi dai vicini predatori e finisce per soccombere in guerra. Uno stato sociale del genere, infatti, non è adatto alla scoperta di nuove cose: le persone soddisfatte non provano alcun stimolo particolare a scoprire o ad agire sulla base di tali scoperte. Ecco perché vediamo che società in cui la terra e tutti gli altri mezzi di produzione sono ben distribuiti tra la maggior parte delle famiglie dello stato tendono a diventare troppo conservatrici, cioè riluttanti a cambiare anche a proprio vantaggio.
+Un altro svantaggio spesso sottolineato è che uno stato sociale di questo tipo, sebbene solitamente [[settings/stable|stabile]] e duraturo, finisce per cadere in una routine, cioè in un modo tradizionale di fare le cose, il quale è molto difficile da cambiare. Il piccolo proprietario terriero non avrà le stesse opportunità di viaggio e di acquisire esperienze varie rispetto all’uomo ricco; tenderà quindi a seguire le orme dei suoi antenati, e per questo sarà lento ad adottare nuove invenzioni che emergono al di fuori della sua società. In questo modo, tale società diventa meno capace di difendersi dai vicini predatori e finisce per soccombere in guerra. Uno stato sociale del genere, infatti, non è adatto alla scoperta di nuove cose: le persone soddisfatte non provano alcun stimolo particolare a scoprire o ad agire sulla base di tali scoperte. Ecco perché vediamo che società in cui la terra e tutti gli altri mezzi di produzione sono ben distribuiti tra la maggior parte delle famiglie dello stato tendono a diventare troppo conservatrici, cioè riluttanti a cambiare anche a proprio vantaggio.
 
-Certo, questo non è vero in tutti i casi. Ad esempio: nessuna società nell’[[Europe|Europa]] ha fatto maggiori progressi nell’agricoltura rispetto alla società danese di piccoli proprietari terrieri. Ma, considerando il mondo nel suo complesso, questo tipo di società è solitamente arretrata, cioè lenta ad adottare miglioramenti nella produzione e a sfruttare nuove scoperte nelle scienze fisiche.
+Certo, questo non è vero in tutti i casi. Ad esempio: nessuna società nell’[[settings/europe|Europa]] ha fatto maggiori progressi nell’agricoltura rispetto alla società danese di piccoli proprietari terrieri. Ma, considerando il mondo nel suo complesso, questo tipo di società è solitamente arretrata, cioè lenta ad adottare miglioramenti nella produzione e a sfruttare nuove scoperte nelle scienze fisiche.
 
-Esiste anche un altro svantaggio che lo Stato Distributivista presenta quando compete con uno Stato Capitalista, o persino con uno Stato Servile: si tratta della difficoltà di far sì che un gran numero di piccoli proprietari metta insieme i propri fondi per realizzare scopi importanti. Il piccolo proprietario probabilmente avrà meno opportunità di ricevere istruzione e di formarsi una giusta opinione rispetto ai pochi ricchi che gestiscono gli affari in uno Stato Capitalista o Servile; e anche se, in media, sia altrettanto ben istruito di questi ricchi degli stati vicini, sarà comunque più difficile far agire insieme un gran numero di piccoli proprietari rispetto a convincere pochi grandi proprietari ad agire congiuntamente. Pertanto, gli Stati fortemente Capitalisti, come l’[[England|Inghilterra]], si dimostreranno più intraprendenti degli Stati meno Capitalisti nel loro investimento e nel commercio: apriranno nuovi mercati più rapidamente e si assicureranno i migliori posti di mercato.
+Esiste anche un altro svantaggio che lo Stato Distributivista presenta quando compete con uno Stato Capitalista, o persino con uno Stato Servile: si tratta della difficoltà di far sì che un gran numero di piccoli proprietari metta insieme i propri fondi per realizzare scopi importanti. Il piccolo proprietario probabilmente avrà meno opportunità di ricevere istruzione e di formarsi una giusta opinione rispetto ai pochi ricchi che gestiscono gli affari in uno Stato Capitalista o Servile; e anche se, in media, sia altrettanto ben istruito di questi ricchi degli stati vicini, sarà comunque più difficile far agire insieme un gran numero di piccoli proprietari rispetto a convincere pochi grandi proprietari ad agire congiuntamente. Pertanto, gli Stati fortemente Capitalisti, come l’[[settings/england|Inghilterra]], si dimostreranno più intraprendenti degli Stati meno Capitalisti nel loro investimento e nel commercio: apriranno nuovi mercati più rapidamente e si assicureranno i migliori posti di mercato.
 
-Infine, questo svantaggio riguarda lo Stato Distributivo: non è così facile, in esso, raccogliere ingenti somme di denaro per la guerra, la difesa nazionale o qualsiasi altro scopo, come avviene nello Stato Capitalista o Servile. Non si può tassare uno Stato Distributivo con lo stesso grado di intensità di uno Stato Capitalista. Il motivo è abbastanza ovvio: una [[Family|>famiglia]] che guadagna, per esempio, 400 sterline all’anno trova estremamente difficile – quasi impossibile – pagare 100 sterline di tasse ogni anno. Vive in condizioni modeste, adatte alle sue possibilità economiche, e non le rimane molto spazio per versare tasse. Se si considerano un milione di famiglie del genere, con un reddito complessivo di 400 milioni di sterline, si potrebbero raccogliere da loro, diciamo, un decimo della loro ricchezza in un anno: 40 milioni di sterline; tuttavia, sarebbe molto difficile raccogliere addirittura un quarto di quella somma: 100 milioni di sterline.
+Infine, questo svantaggio riguarda lo Stato Distributivo: non è così facile, in esso, raccogliere ingenti somme di denaro per la guerra, la difesa nazionale o qualsiasi altro scopo, come avviene nello Stato Capitalista o Servile. Non si può tassare uno Stato Distributivo con lo stesso grado di intensità di uno Stato Capitalista. Il motivo è abbastanza ovvio: una [[concepts/family|>famiglia]] che guadagna, per esempio, 400 sterline all’anno trova estremamente difficile – quasi impossibile – pagare 100 sterline di tasse ogni anno. Vive in condizioni modeste, adatte alle sue possibilità economiche, e non le rimane molto spazio per versare tasse. Se si considerano un milione di famiglie del genere, con un reddito complessivo di 400 milioni di sterline, si potrebbero raccogliere da loro, diciamo, un decimo della loro ricchezza in un anno: 40 milioni di sterline; tuttavia, sarebbe molto difficile raccogliere addirittura un quarto di quella somma: 100 milioni di sterline.
 
 Ma un'altra società con esattamente la stessa quantità di ricchezza totale, 400 milioni di sterline all’anno, divisa soltanto tra persone molto ricche e persone molto povere – una società in cui ci siano, per esempio, 1.000 famiglie molto ricche con 300.000 sterline all’anno ciascuna, e un milione di famiglie con meno di 100 sterline all’anno ciascuna – si troverebbe in una situazione completamente diversa. Non sarebbe affatto necessario tassare quelle un milione di persone che guadagnano soltanto 100 sterline all’anno, mentre le persone ricche, che insieme possiedono 300.000.000 sterline all’anno, potrebbero facilmente essere tassate al quarto del loro patrimonio totale; infatti, un uomo ricco dispone sempre di un margine molto più ampio, e la perdita di una parte così piccola della sua ricchezza non lo influenzerebbe davvero.
 
-Per un curioso [[Paradox|paradosso]], di cui sarebbe necessario parlare molto più a lungo per entrare nei dettagli, ma che è interessante notare, questa capacità di tassare una società estremamente capitalista rappresenta uno dei fattori che oggi stanno iniziando a svantaggiare le nostre società capitaliste rispetto alle società distributive. In passato era esattamente il contrario: sembrava del tutto logico che i paesi in cui fosse possibile raccogliere ingenti somme di denaro per scopi statali, sia bellici che pacifici, avessero la meglio rispetto ai paesi in cui ciò non fosse possibile. Tuttavia, negli ultimi anni si è dimostrato che permettere a una società composta da pochi ricchi e molti poveri di essere tassata così pesantemente può produrre risultati del tutto inaspettati. Gli uomini molto ricchi pagano le tasse senza problemi; ma la sottrazione di risorse dal patrimonio dello Stato lo indebolisce.
+Per un curioso [[concepts/paradox|paradosso]], di cui sarebbe necessario parlare molto più a lungo per entrare nei dettagli, ma che è interessante notare, questa capacità di tassare una società estremamente capitalista rappresenta uno dei fattori che oggi stanno iniziando a svantaggiare le nostre società capitaliste rispetto alle società distributive. In passato era esattamente il contrario: sembrava del tutto logico che i paesi in cui fosse possibile raccogliere ingenti somme di denaro per scopi statali, sia bellici che pacifici, avessero la meglio rispetto ai paesi in cui ciò non fosse possibile. Tuttavia, negli ultimi anni si è dimostrato che permettere a una società composta da pochi ricchi e molti poveri di essere tassata così pesantemente può produrre risultati del tutto inaspettati. Gli uomini molto ricchi pagano le tasse senza problemi; ma la sottrazione di risorse dal patrimonio dello Stato lo indebolisce.
 
 I soldi raccolti attraverso le tasse vengono spesi per i funzionari dello Stato; molti di loro sono ineficienti e oziosi.
 
-Poiché è così facile raccogliere grandi somme di denaro, sorge la [[Temptation|tentazione]] di intraprendere ogni sorta di progetti statali costosi, molti dei quali finiscono per non portare a nulla. E questa capacità di tassare facilmente, che in origine rappresentava un vantaggio, diventa invece uno svantaggio.
+Poiché è così facile raccogliere grandi somme di denaro, sorge la [[concepts/temptation|tentazione]] di intraprendere ogni sorta di progetti statali costosi, molti dei quali finiscono per non portare a nulla. E questa capacità di tassare facilmente, che in origine rappresentava un vantaggio, diventa invece uno svantaggio.
 
-Nessuno se n'era accorto fino a quando l'imposta non è aumentata al livello attuale, ma ora è evidente; e forse in [[England|Inghilterra]] le cose andrebbero meglio in futuro se qui ci fosse stata la stessa resistenza alle alte tasse che in quei paesi dove la proprietà è più equamente distribuita.
+Nessuno se n'era accorto fino a quando l'imposta non è aumentata al livello attuale, ma ora è evidente; e forse in [[settings/england|Inghilterra]] le cose andrebbero meglio in futuro se qui ci fosse stata la stessa resistenza alle alte tasse che in quei paesi dove la proprietà è più equamente distribuita.
 
 
 
 <span class="atom-split" data-atom="story_13_socialism" data-title="Economics for Helen — SOCIALISM" data-chapter="SOCIALISM" data-kind="story" data-tags="motif/desire,motif/love,motif/pain,motif/time,motif/well,concept/capitalism,concept/communism,concept/family,concept/freedom,concept/honour,concept/liberty,concept/nonsense,concept/poverty,concept/reform,concept/self,concept/socialism,concept/suffering,histref/communism,setting/england,setting/paris,setting/russia"></span>
 
 
-[[Socialism|SOCIALISM]]
+[[concepts/socialism|SOCIALISM]]
 
 It remains to deal with a certain remedy which some people have
-imagined would get rid of all the disadvantages of [[Capitalism]] once and
-for all. This remedy is called [[Socialism]], and [[Socialism]], as we shall
-see in a moment, must mean ultimately [[Communism]].
+imagined would get rid of all the disadvantages of [[concepts/capitalism|Capitalism]] once and
+for all. This remedy is called [[concepts/socialism|Socialism]], and [[concepts/socialism|Socialism]], as we shall
+see in a moment, must mean ultimately [[concepts/communism|Communism]].
 
 No one has ever succeeded in putting this remedy for the evils of
-[[Capitalism]] into practice, and (though the matter is still very much
+[[concepts/capitalism|Capitalism]] into practice, and (though the matter is still very much
 disputed) it looks more and more as though no one would ever be able to
 put it into practice.
 
-We have seen what the evils of [[Capitalism]] were and how they have
+We have seen what the evils of [[concepts/capitalism|Capitalism]] were and how they have
 exasperated nearly everyone who has become subject to a capitalist
 state of society. There is the increasing insecurity which everybody
-feels--all the Proletariat and many of the Capitalists as [[Well|well]]--whilst
-there is the necessary tendency of [[Capitalism]] to leave a larger and
+feels--all the Proletariat and many of the Capitalists as [[motifs/well|well]]--whilst
+there is the necessary tendency of [[concepts/capitalism|Capitalism]] to leave a larger and
 larger proportion of people unproductive, not making the wealth which
 is necessary for their support, and therefore either kept in idleness
 by Doles out of the wealth which is still produced (a process which
-cannot go on for ever) or starving. Pretty [[Well|well]] everyone wants to get
+cannot go on for ever) or starving. Pretty [[motifs/well|well]] everyone wants to get
 rid of these evils and to get out of the Capitalist system, and this
-idea of [[Socialism]] which we are going to examine seemed, when it was
+idea of [[concepts/socialism|Socialism]] which we are going to examine seemed, when it was
 first put forward, an easy and obvious shortcut out of the Capitalist
-muddle. When we have looked into it, we shall see how and why [[Socialism]]
+muddle. When we have looked into it, we shall see how and why [[concepts/socialism|Socialism]]
 does not, in practice, turn out to be a shortcut at all, but a blind
 alley.
 
 *       *       *       *       *
 
 Ever since men began to live in societies and to leave records, you
-will find the poorer people, when their [[Poverty|poverty]] became intolerable,
+will find the poorer people, when their [[concepts/poverty|poverty]] became intolerable,
 clamouring for a division of the wealth which the more fortunate enjoy.
 
 That is the main, obvious remedy to inequality of wealth; to divide it
-up again. But such a scheme has nothing to do with [[Socialism]], and must
-not be mistaken for [[Socialism]].
+up again. But such a scheme has nothing to do with [[concepts/socialism|Socialism]], and must
+not be mistaken for [[concepts/socialism|Socialism]].
 
 The Socialist theory was invented, or at any rate was first put
 clearly, by a man of genius, Louis Blanc, who was Scotch on his
@@ -8958,31 +8958,31 @@ hundred years ago and the scheme which he and those around him started
 was this:--
 
 The Officers of the State were to own all the Means of
-Production--machinery and land and stores of food, etc.--and they [[Alone|alone]]
+Production--machinery and land and stores of food, etc.--and they alone
 should be allowed to own it. Individuals and families and corporations
 might consume that portion of produced wealth allotted them by the
 State after it had been produced, _but they might not use it for making
 future wealth_. ANY WEALTH USED FOR THE MAKING OF FUTURE WEALTH, THAT
 IS, CAPITAL IN ANY FORM, WAS TO BE HANDED OVER TO THE OFFICERS OF THE
 STATE; AND ALL LAND AND NATURAL FORCES WERE TO BE OWNED FOR EVER BY THE
-STATE. That scheme is [[Socialism]], and from that principle all Socialist
+STATE. That scheme is [[concepts/socialism|Socialism]], and from that principle all Socialist
 ideas flow.
 
 In this way, it was claimed, there would be no division of society
 into Capitalists and Proletarians, no chaos of competition with its
 alternating riches and ruin; insecurity would be done away with, and
-insufficiency as [[Well|well]]. Everyone in the country would be a worker, the
+insufficiency as [[motifs/well|well]]. Everyone in the country would be a worker, the
 State itself would be the Universal Capitalist. So there would be no
 struggle of capitalists going up and down one against the other, and no
 unemployment or lack of necessaries for anyone.
 
-Among the energetic and keen set of men who surrounded Blanc in [[Paris]]
+Among the energetic and keen set of men who surrounded Blanc in [[settings/paris|Paris]]
 was a certain Mordecai, who wrote under the name his father had
 assumed, that of “Marx.” He wrote (in German) a very long and detailed
-book describing the whole scheme, as [[Well|well]] as describing the evils of
-[[Capitalism]], and showing how this scheme would remedy those evils. His
+book describing the whole scheme, as [[motifs/well|well]] as describing the evils of
+[[concepts/capitalism|Capitalism]], and showing how this scheme would remedy those evils. His
 book was pushed forward by the people who were converted to the idea,
-and that is why the theory of [[Socialism]] is now often called “Marxism.”
+and that is why the theory of [[concepts/socialism|Socialism]] is now often called “Marxism.”
 
 For instance: the coal-mines and all the machinery of the coal-mines
 and the houses in which the miners live and the stores of food and
@@ -9002,29 +9002,29 @@ officers of the State would share out the wealth produced, so that it
 would be consumed by all the citizens, and there would be an end to the
 exploitation of one man by another and to the uncertainty of living.
 
-[[Communism]] is simply that form of [[Socialism]] in which all that is thus
+[[concepts/communism|Communism]] is simply that form of [[concepts/socialism|Socialism]] in which all that is thus
 shared out by the State would be shared equally, the State giving every
-[[Family|family]] an equal share in proportion to the numbers of people which had
-to be supported in the [[Family|family]], from one upwards.
+[[concepts/family|family]] an equal share in proportion to the numbers of people which had
+to be supported in the [[concepts/family|family]], from one upwards.
 
-The reason I have called [[Communism]] the logical and only possible
-ultimate form of [[Socialism]] is that there could be under [[Socialism]] no
+The reason I have called [[concepts/communism|Communism]] the logical and only possible
+ultimate form of [[concepts/socialism|Socialism]] is that there could be under [[concepts/socialism|Socialism]] no
 reason for any other form of distribution.
 
-Some [[Time|time]] ago certain Socialists used to try to get out of this
-necessity for [[Communism]], so as not to frighten rich people with their
-proposals for [[Reform|reform]]. They would say to a man who was making, say,
+Some [[motifs/time|time]] ago certain Socialists used to try to get out of this
+necessity for [[concepts/communism|Communism]], so as not to frighten rich people with their
+proposals for [[concepts/reform|reform]]. They would say to a man who was making, say,
 £5,000 a year because he owned a lot of capital and land and had rents
 and profits coming to him from the work of his labourers: “You will
-have just as much under [[Socialism]], for we recognise what a superior
+have just as much under [[concepts/socialism|Socialism]], for we recognise what a superior
 kind of person you are, and when the State shares out its wealth among
 its citizens it will give you as much as you have now, leaving the
 same difference between rich and poor, only seeing to it that the poor
 always at least have enough to live on. Where we give one ticket to the
 labourer to claim out of the common stores what he wants for a week we
 will give you fifty tickets, so that you will get fifty times as much
-if you like.” But of course this was [[Nonsense|nonsense]], and was soon discovered
-to be [[Nonsense|nonsense]]. With everybody working for the State under orders all
+if you like.” But of course this was [[concepts/nonsense|nonsense]], and was soon discovered
+to be [[concepts/nonsense|nonsense]]. With everybody working for the State under orders all
 would naturally claim equality, and there would be no way of preventing
 their getting an equal share except force. In justice, supposing a
 Socialist state to arise, there could be only the Communist form of it.
@@ -9042,7 +9042,7 @@ in the interest of all, next of distributing the resultant wealth
 equally to all.
 
 Now there are two qualities in man which make action of this sort
-break down. The first is that men [[Love|love]] independence--they like to feel
+break down. The first is that men [[motifs/love|love]] independence--they like to feel
 themselves their own masters. They like therefore to own, so that
 they may do what they like with material things. The next is that men
 like to get as much as possible of good things. Both these feelings
@@ -9057,7 +9057,7 @@ order to devote themselves to religion or to some form of study and
 contemplation, will give up all property and have the material side of
 their lives administered for them. But men and women in general will
 both want to get all they can of good things with the least possible
-exertion in the getting of them, and they will also [[Desire|desire]] [[Freedom|freedom]] to
+exertion in the getting of them, and they will also [[motifs/desire|desire]] [[concepts/freedom|freedom]] to
 exercise their own wills and deal with material objects as they choose.
 
 Now the Socialist scheme requires both these very strong emotions,
@@ -9072,16 +9072,16 @@ living the life of intrigue necessary to get it) would suddenly turn
 into unselfish and devoted beings of this ideal kind. You cannot give
 this enormous power to men without their abusing it.
 
-The second force making against the establishment of [[Socialism]] is still
+The second force making against the establishment of [[concepts/socialism|Socialism]] is still
 stronger. You will never get the run of men and women contented to
 live their whole lives entirely under orders. In exceptional moments a
-large part of individual [[Freedom|freedom]] will be given up to the necessity of
+large part of individual [[concepts/freedom|freedom]] will be given up to the necessity of
 the State--as during the Great War; for if the State did not survive
 the individual’s life and that of his children would not be worth
 living. The individual in abnormal crises goes through a great deal
-of [[Suffering|suffering]] for a moment in order that he and his should have less
-[[Pain|pain]] in the long run. But even in such crises a large part of [[Liberty|liberty]]
-remains to him. Under [[Socialism]] he would have none. He would have
+of [[concepts/suffering|suffering]] for a moment in order that he and his should have less
+[[motifs/pain|pain]] in the long run. But even in such crises a large part of [[concepts/liberty|liberty]]
+remains to him. Under [[concepts/socialism|Socialism]] he would have none. He would have
 to do what he was told by his task-masters, much more than even the
 poorest labourers now have to do what they are told by task-masters.
 And there would also be this difference: that everyone would be in
@@ -9089,10 +9089,10 @@ that situation and there would be no way out. Not a part of life, nor
 so many hours a day, but the whole of life, would be subject to orders
 given by others. This, humanity would certainly find intolerable.
 
-That is why, I think, [[Socialism]] has never been put into practice
+That is why, I think, [[concepts/socialism|Socialism]] has never been put into practice
 and never can be put into practice. There have been attempts at it,
 but even when they are sincere and not the mere product of alien
-despotism they break down. As in [[Russia]] to-day, where, whether the Jew
+despotism they break down. As in [[settings/russia|Russia]] to-day, where, whether the Jew
 adventurers who seized power were sincere or mere tyrants, they have,
 in spite of their attempt at seizing all the soil and keeping the
 peasants dependent on them, been compelled at last to let nearly all
@@ -9100,9 +9100,9 @@ the nation live as owners tilling their own land.
 
 It is no reply to this to say that the State always has owned, and
 actually can and does own, some part of the means of Production (such
-as the Post Office and certain forests and lands here in [[England]], and,
+as the Post Office and certain forests and lands here in [[settings/england|England]], and,
 abroad, most mountain land, all mines and much else) and direct them
-with [[success]]. The point of [[Socialism]]--the one condition necessary
+with success. The point of [[concepts/socialism|Socialism]]--the one condition necessary
 to its existence--is that the State should own all the means of
 Production that really count. Between the normal exercise of a partial
 function and the abnormal exercise of a universal function is all
@@ -9110,44 +9110,44 @@ the difference between plus and minus. A partial State ownership
 working in a society the determining character of which is private
 ownership is an utterly different thing, even an opposite thing
 to general State ownership determining the character of Society and
-allowing only exceptional private ownership. [[Socialism]] can only be
-(a) good (b) possible when men [[Desire|desire]], and are at ease in, the
-latter kind of state; that is, [[Desire|desire]] and are at ease in complete
-forgetfulness of [[Self|self]] coupled with justice as men ruling, and complete
-surrender of personal [[Honour|honour]] and [[Freedom|freedom]] and appetite as men ruled.
+allowing only exceptional private ownership. [[concepts/socialism|Socialism]] can only be
+(a) good (b) possible when men [[motifs/desire|desire]], and are at ease in, the
+latter kind of state; that is, [[motifs/desire|desire]] and are at ease in complete
+forgetfulness of [[concepts/self|self]] coupled with justice as men ruling, and complete
+surrender of personal [[concepts/honour|honour]] and [[concepts/freedom|freedom]] and appetite as men ruled.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Socialism|Socialismo]]
+[[concepts/socialism|Socialismo]]
 
-Resta da considerare un certo rimedio che alcune persone hanno immaginato possa eliminare una volta per tutte tutti gli svantaggi del [[Capitalism|capitalismo]]. Questo rimedio si chiama [[Socialism|socialismo]], e il [[Socialism|socialismo]], come vedremo tra poco, deve significare in definitiva il [[Communism|comunismo]].
+Resta da considerare un certo rimedio che alcune persone hanno immaginato possa eliminare una volta per tutte tutti gli svantaggi del [[concepts/capitalism|capitalismo]]. Questo rimedio si chiama [[concepts/socialism|socialismo]], e il [[concepts/socialism|socialismo]], come vedremo tra poco, deve significare in definitiva il [[concepts/communism|comunismo]].
 
-Nessuno è mai riuscito a mettere in pratica questo rimedio ai mali del [[Capitalism|capitalismo]], e (sebbene la questione sia ancora molto dibattuta) sembra sempre più probabile che nessuno ci riuscirà mai.
+Nessuno è mai riuscito a mettere in pratica questo rimedio ai mali del [[concepts/capitalism|capitalismo]], e (sebbene la questione sia ancora molto dibattuta) sembra sempre più probabile che nessuno ci riuscirà mai.
 
-Abbiamo visto quali siano i mali del [[Capitalism|capitalismo]] e come essi abbiano esasperato quasi tutti coloro che sono soggetti a uno stato sociale capitalista. C’è l’aumento della precarietà che tutti percepiscono – tutto il proletariato e molti capitalisti compresi – mentre il [[Capitalism|capitalismo]] ha la tendenza naturale a lasciare una percentuale sempre più grande di persone improduttive, che non contribuiscono alla produzione della ricchezza necessaria al proprio sostentamento. Di conseguenza, queste persone vengono mantenute nella disoccupazione attraverso sussidi finanziari tratti dalla ricchezza ancora prodotta (un processo che non può continuare all’infinito) o muoiono di fame. Quasi tutti desiderano liberarsi di questi mali e uscire dal sistema capitalista; l’idea del [[Socialism|socialismo]], che ora esamineremo, sembrava, quando fu proposta per la prima volta, un percorso semplice ed evidente per uscire dalla confusione del capitalismo. Tuttavia, analizzandola più a fondo, scopriremo come e perché il [[Socialism|socialismo]] in pratica non sia affatto una soluzione, ma piuttosto un vicolo cieco.
+Abbiamo visto quali siano i mali del [[concepts/capitalism|capitalismo]] e come essi abbiano esasperato quasi tutti coloro che sono soggetti a uno stato sociale capitalista. C’è l’aumento della precarietà che tutti percepiscono – tutto il proletariato e molti capitalisti compresi – mentre il [[concepts/capitalism|capitalismo]] ha la tendenza naturale a lasciare una percentuale sempre più grande di persone improduttive, che non contribuiscono alla produzione della ricchezza necessaria al proprio sostentamento. Di conseguenza, queste persone vengono mantenute nella disoccupazione attraverso sussidi finanziari tratti dalla ricchezza ancora prodotta (un processo che non può continuare all’infinito) o muoiono di fame. Quasi tutti desiderano liberarsi di questi mali e uscire dal sistema capitalista; l’idea del [[concepts/socialism|socialismo]], che ora esamineremo, sembrava, quando fu proposta per la prima volta, un percorso semplice ed evidente per uscire dalla confusione del capitalismo. Tuttavia, analizzandola più a fondo, scopriremo come e perché il [[concepts/socialism|socialismo]] in pratica non sia affatto una soluzione, ma piuttosto un vicolo cieco.
 
 *       *       *       *       *
 
-Fin da quando gli uomini hanno iniziato a vivere in società e a lasciare documenti, si può notare che le persone più povere, quando la loro [[Poverty|povertà]] diventa insopportabile, chiedono una distribuzione delle ricchezze di cui godono coloro che sono più fortunati.
+Fin da quando gli uomini hanno iniziato a vivere in società e a lasciare documenti, si può notare che le persone più povere, quando la loro [[concepts/poverty|povertà]] diventa insopportabile, chiedono una distribuzione delle ricchezze di cui godono coloro che sono più fortunati.
 
-Quello è il rimedio principale e ovvio contro le disuguaglianze di ricchezza: distribuirla nuovamente equamente. Tuttavia, un simile piano non ha nulla a che fare con il [[Socialism|socialismo]] e non deve essere confuso con esso.
+Quello è il rimedio principale e ovvio contro le disuguaglianze di ricchezza: distribuirla nuovamente equamente. Tuttavia, un simile piano non ha nulla a che fare con il [[concepts/socialism|socialismo]] e non deve essere confuso con esso.
 
 La teoria socialista fu inventata, o comunque esposta per la prima volta in modo chiaro, da un uomo di genio: Louis Blanc, che era scozzese per parte di padre e francese per parte di madre. Visse meno di cento anni fa, e il progetto che lui e coloro che lo circondavano avviarono fu questo:–
 
-Gli ufficiali di Stato dovevano possedere tutti i mezzi di produzione – macchinari, terreni, scorte alimentari, ecc. – e soltanto a loro era permesso averne la proprietà. Individui, famiglie e imprese potevano consumare quella parte della ricchezza prodotta che lo Stato assegnava loro dopo la sua produzione, _ma non erano autorizzati ad utilizzarla per creare ulteriore ricchezza_. Qualsiasi ricchezza impiegata per generare nuova ricchezza, cioè capitale in qualsiasi forma, doveva essere consegnata agli ufficiali di Stato; inoltre, tutti i terreni e le risorse naturali dovevano appartenere permanentemente allo Stato. Questo sistema è il [[Socialism|socialismo]], e da questo principio derivano tutte le idee socialiste.
+Gli ufficiali di Stato dovevano possedere tutti i mezzi di produzione – macchinari, terreni, scorte alimentari, ecc. – e soltanto a loro era permesso averne la proprietà. Individui, famiglie e imprese potevano consumare quella parte della ricchezza prodotta che lo Stato assegnava loro dopo la sua produzione, _ma non erano autorizzati ad utilizzarla per creare ulteriore ricchezza_. Qualsiasi ricchezza impiegata per generare nuova ricchezza, cioè capitale in qualsiasi forma, doveva essere consegnata agli ufficiali di Stato; inoltre, tutti i terreni e le risorse naturali dovevano appartenere permanentemente allo Stato. Questo sistema è il [[concepts/socialism|socialismo]], e da questo principio derivano tutte le idee socialiste.
 
 In questo modo, si sosteneva che non ci sarebbe stata alcuna divisione della società in capitalisti e proletari, nessun caos derivante dalla concorrenza con i suoi alterni periodi di ricchezza e rovina; l’insicurezza sarebbe scomparsa, così come la povertà. Tutti nel paese sarebbero stati lavoratori, e lo Stato stesso avrebbe funto da “Capitale Universale”. Così non ci sarebbero state lotte tra i capitalisti per il potere, né disoccupazione o mancanza di beni di prima necessità per nessuno.
 
-Tra il gruppo di uomini energici e entusiasti che circondavano Blanc a [[Paris|Parigi]], c'era un certo Mordecai, che scriveva usando il nome assunto da suo padre: “Marx”. Scrisse (in tedesco) un libro molto lungo e dettagliato in cui descriveva l’intero piano, nonché i mali del [[Capitalism|capitalismo]], e spiegava come tale piano potesse rimediare a tali mali. Il suo libro fu promosso da coloro che si convertirono a queste idee; è per questo che la teoria del [[Socialism|socialismo]] viene oggi spesso chiamata “marxismo”.
+Tra il gruppo di uomini energici e entusiasti che circondavano Blanc a [[settings/paris|Parigi]], c'era un certo Mordecai, che scriveva usando il nome assunto da suo padre: “Marx”. Scrisse (in tedesco) un libro molto lungo e dettagliato in cui descriveva l’intero piano, nonché i mali del [[concepts/capitalism|capitalismo]], e spiegava come tale piano potesse rimediare a tali mali. Il suo libro fu promosso da coloro che si convertirono a queste idee; è per questo che la teoria del [[concepts/socialism|socialismo]] viene oggi spesso chiamata “marxismo”.
 
 Ad esempio: le miniere di carbone e tutta l’attrezzatura utilizzata nelle miniere, le case in cui vivono i minatori, le scorte di cibo, i vestiti, ecc., che permettono ai minatori di sopravvivere durante la fase di estrazione del carbone, ovvero nel corso del processo produttivo. Tutto ciò, che attualmente appartiene ai capitalisti che traggono profitto dal lavoro dei minatori, apparterrebbe allo Stato, il quale distribuirebbe il carbone prodotto a tutti coloro che ne hanno bisogno. Lo stesso vale per tutte le fattorie, gli attrezzi agricoli, il bestiame, i vestiti, le case necessarie ai lavoratori durante il processo produttivo. Lo stesso si applicherebbe anche a tutte le attività legate alla estrazione di pietre e al taglio della legna, nonché alle attività di falegnameria e produzione di mattoni necessarie per costruire le case richieste dai produttori durante il processo lavorativo. Inoltre, lo stesso vale per tutto ciò che è necessario alla produzione di tessuti per i vestiti. Insomma, lo Stato distribuirebbe tutta la ricchezza prodotta in modo che venisse consumata da tutti i cittadini, ponendo fine sfruttamento di un uomo da parte di un altro e alle incertezze della vita quotidiana.
 
-Il [[Communism|Comunismo]] è semplicemente quella forma di [[Socialism|Socialismo]] in cui tutto ciò che lo Stato distribuisce viene condiviso equamente; lo Stato fornisce a ogni [[Family|>famiglia]] una quota uguale, proporzionata al numero di persone da sostenere all’interno della famiglia.
+Il [[concepts/communism|Comunismo]] è semplicemente quella forma di [[concepts/socialism|Socialismo]] in cui tutto ciò che lo Stato distribuisce viene condiviso equamente; lo Stato fornisce a ogni [[concepts/family|>famiglia]] una quota uguale, proporzionata al numero di persone da sostenere all’interno della famiglia.
 
-Il motivo per cui ho definito il [[Communism|Comunismo]] la forma logica e l’unica possibile forma finale del [[Socialism|Socialismo]] è che, all’interno del [[Socialism|Socialismo]], non esisterebbe alcuna ragione per adottare altre forme di distribuzione.
+Il motivo per cui ho definito il [[concepts/communism|Comunismo]] la forma logica e l’unica possibile forma finale del [[concepts/socialism|Socialismo]] è che, all’interno del [[concepts/socialism|Socialismo]], non esisterebbe alcuna ragione per adottare altre forme di distribuzione.
 
-Alcuni tempi fa, alcuni socialisti cercavano di eludere questa necessità del [[Communism|comunismo]], per non spaventare le persone ricche con le loro proposte di [[Reform|riforma]]. Dicevano ad un uomo che guadagnava, diciamo, 5.000 sterline all’anno perché possedeva molto capitale e terreni, e riceveva affitti e profitti dal lavoro dei suoi lavoratori: “Con il [[Socialism|socialismo]] avrai esattamente lo stesso, perché riconosciamo che sei una persona di qualità superiore; quando lo Stato distribuirà la sua ricchezza tra i cittadini, ti darà quanto hai ora, mantenendo la stessa differenza tra ricchi e poveri, ma assicurandoci che i poveri abbiano sempre almeno abbastanza per vivere. Ora diamo al lavoratore un solo biglietto per prendere dal magazzino comune ciò di cui ha bisogno per una settimana; noi te ne daremo cinquanta, così potrai ottenere cinquanta volte di più, se lo desideri.” Ma ovviamente si trattava di [[Nonsense|sciocchezze]], e presto si scoprì che erano davvero tali. Se tutti lavorassero per lo Stato su ordine suo, naturalmente chiederebbero l’uguaglianza; non ci sarebbe modo di impedire loro di ricevere una parte uguale, se non con la forza. In linea di principio, se dovesse nascere uno stato socialista, potrebbe esistere soltanto nella forma comunista.
+Alcuni tempi fa, alcuni socialisti cercavano di eludere questa necessità del [[concepts/communism|comunismo]], per non spaventare le persone ricche con le loro proposte di [[concepts/reform|riforma]]. Dicevano ad un uomo che guadagnava, diciamo, 5.000 sterline all’anno perché possedeva molto capitale e terreni, e riceveva affitti e profitti dal lavoro dei suoi lavoratori: “Con il [[concepts/socialism|socialismo]] avrai esattamente lo stesso, perché riconosciamo che sei una persona di qualità superiore; quando lo Stato distribuirà la sua ricchezza tra i cittadini, ti darà quanto hai ora, mantenendo la stessa differenza tra ricchi e poveri, ma assicurandoci che i poveri abbiano sempre almeno abbastanza per vivere. Ora diamo al lavoratore un solo biglietto per prendere dal magazzino comune ciò di cui ha bisogno per una settimana; noi te ne daremo cinquanta, così potrai ottenere cinquanta volte di più, se lo desideri.” Ma ovviamente si trattava di [[concepts/nonsense|sciocchezze]], e presto si scoprì che erano davvero tali. Se tutti lavorassero per lo Stato su ordine suo, naturalmente chiederebbero l’uguaglianza; non ci sarebbe modo di impedire loro di ricevere una parte uguale, se non con la forza. In linea di principio, se dovesse nascere uno stato socialista, potrebbe esistere soltanto nella forma comunista.
 
 Questo piano non è mai stato messo in atto, e se lo esaminiamo attentamente, credo che scopriremo il motivo per cui non verrà mai realizzato.
 
@@ -9157,11 +9157,11 @@ Esistono due qualità nell’uomo che rendono questo tipo di azione impossibile 
 
 Ora, il programma socialista richiede che queste emozioni molto forti, comuni a tutta l’umanità, vengano sopresse. Le persone che governano lo Stato – cioè i politici – devono essere assolutamente giuste (sebbene nessuno li costringa ad esserlo), devono dimenticare ogni desiderio personale e pensare soltanto al bene di coloro i cui sforzi dirigono e tra i quali distribuiscono la ricchezza prodotta. Sappiamo per esperienza che i politici non sono angeli di questo tipo. È assurdo immaginare che uomini desiderosi di incarichi pubblici (e che conducono la vita piena di intrighi necessaria per ottenerli) possano improvvisamente trasformarsi in esseri altruisti e devoti di questo genere ideale. Non si può dare un potere così enorme alle persone senza che lo abusino.
 
-La seconda forza che si oppone all’instaurazione del [[Socialism|Socialismo]] è ancora molto più potente. Non sarà mai possibile controllare uomini e donne che sono soddisfatti di vivere interamente sotto ordini altrui. In momenti eccezionali, una grande parte della libertà individuale dovrà essere sacrificata per le esigenze dello Stato – come durante la Grande Guerra; infatti, se lo Stato non sopravvivesse, la vita dell’individuo e di suoi figli non avrebbe alcun senso. Nelle crisi anomale, l’individuo subisce grandi sofferenze in un momento particolare, ma allo scopo di ridurre il dolore a lungo termine per sé stesso e per i propri cari. Tuttavia, anche in tali situazioni, una grande parte della libertà gli rimane. Sotto il [[Socialism|Socialismo]], invece, non ne avrebbe affatto: dovrebbe fare esattamente ciò che gli vengono ordinati dai suoi “capi”, molto di più di quanto debbano fare oggi i lavoratori più poveri. Inoltre, ci sarebbe un’altra differenza fondamentale: tutti si troverebbero in questa condizione senza alcuna possibilità di uscita. Non solo una parte della vita, né poche ore al giorno, ma l’intera esistenza sarebbe sottoposta agli ordini altrui. L’umanità considererebbe certamente questo scenario intollerabile.
+La seconda forza che si oppone all’instaurazione del [[concepts/socialism|Socialismo]] è ancora molto più potente. Non sarà mai possibile controllare uomini e donne che sono soddisfatti di vivere interamente sotto ordini altrui. In momenti eccezionali, una grande parte della libertà individuale dovrà essere sacrificata per le esigenze dello Stato – come durante la Grande Guerra; infatti, se lo Stato non sopravvivesse, la vita dell’individuo e di suoi figli non avrebbe alcun senso. Nelle crisi anomale, l’individuo subisce grandi sofferenze in un momento particolare, ma allo scopo di ridurre il dolore a lungo termine per sé stesso e per i propri cari. Tuttavia, anche in tali situazioni, una grande parte della libertà gli rimane. Sotto il [[concepts/socialism|Socialismo]], invece, non ne avrebbe affatto: dovrebbe fare esattamente ciò che gli vengono ordinati dai suoi “capi”, molto di più di quanto debbano fare oggi i lavoratori più poveri. Inoltre, ci sarebbe un’altra differenza fondamentale: tutti si troverebbero in questa condizione senza alcuna possibilità di uscita. Non solo una parte della vita, né poche ore al giorno, ma l’intera esistenza sarebbe sottoposta agli ordini altrui. L’umanità considererebbe certamente questo scenario intollerabile.
 
-Ecco perché, penso, il [[Socialism|socialismo]] non è mai stato messo in pratica e non potrà mai esserlo. Ci sono stati tentativi in questo senso, ma anche quando questi erano sinceri e non semplicemente il prodotto di un dispotismo estraneo, fallivano comunque. Come oggi in [[Russia]], dove, che gli avventurieri ebrei che presero il potere fossero sinceri o semplici tiranni, sono stati costretti, nonostante i loro tentativi di impossessarsi di tutta la terra e mantenere i contadini in condizioni di dipendenza da loro, a permettere alla quasi totalità della popolazione di vivere come proprietari che coltivano la propria terra.
+Ecco perché, penso, il [[concepts/socialism|socialismo]] non è mai stato messo in pratica e non potrà mai esserlo. Ci sono stati tentativi in questo senso, ma anche quando questi erano sinceri e non semplicemente il prodotto di un dispotismo estraneo, fallivano comunque. Come oggi in [[settings/russia|Russia]], dove, che gli avventurieri ebrei che presero il potere fossero sinceri o semplici tiranni, sono stati costretti, nonostante i loro tentativi di impossessarsi di tutta la terra e mantenere i contadini in condizioni di dipendenza da loro, a permettere alla quasi totalità della popolazione di vivere come proprietari che coltivano la propria terra.
 
-Non è una risposta adeguata affermare che lo Stato abbia sempre posseduto, e in effetti possa e possiede, una parte dei mezzi di produzione (come la Posta, alcune foreste e terreni in [[England|Inghilterra]], e all’estero la maggior parte delle terre montane, tutte le miniere e molto altro ancora), e che li gestisca con [[success|successo]]. Il punto fondamentale del [[Socialism|Socialismo]] – l’unica condizione necessaria alla sua esistenza – è che lo Stato debba possedere tutti i mezzi di produzione che hanno davvero rilevanza. La differenza tra un’esercitazione normale di una funzione parziale e un’esercitazione anomala di una funzione universale è proprio quella tra “plus” e “minus”. Una forma di proprietà statale parziale, in una società la cui caratteristica principale sia la proprietà privata, rappresenta qualcosa di completamente diverso, persino l’opposto di una proprietà statale generale che determini il carattere della società e permetta soltanto una proprietà privata eccezionale. Il [[Socialism|Socialismo]] può essere soltanto (a) positivo e (b) realizzabile quando gli uomini desiderano vivere in questo secondo tipo di società, e vi si sentono a loro agio; cioè quando desiderano e si sentono a loro agio nell’oblio totale di sé stessi, unito alla giustizia come principio guida nella gestione della società, e nel completo abbandono dell’onore personale, della libertà individuale e dei propri desideri egoistici.
+Non è una risposta adeguata affermare che lo Stato abbia sempre posseduto, e in effetti possa e possiede, una parte dei mezzi di produzione (come la Posta, alcune foreste e terreni in [[settings/england|Inghilterra]], e all’estero la maggior parte delle terre montane, tutte le miniere e molto altro ancora), e che li gestisca con successo. Il punto fondamentale del [[concepts/socialism|Socialismo]] – l’unica condizione necessaria alla sua esistenza – è che lo Stato debba possedere tutti i mezzi di produzione che hanno davvero rilevanza. La differenza tra un’esercitazione normale di una funzione parziale e un’esercitazione anomala di una funzione universale è proprio quella tra “plus” e “minus”. Una forma di proprietà statale parziale, in una società la cui caratteristica principale sia la proprietà privata, rappresenta qualcosa di completamente diverso, persino l’opposto di una proprietà statale generale che determini il carattere della società e permetta soltanto una proprietà privata eccezionale. Il [[concepts/socialism|Socialismo]] può essere soltanto (a) positivo e (b) realizzabile quando gli uomini desiderano vivere in questo secondo tipo di società, e vi si sentono a loro agio; cioè quando desiderano e si sentono a loro agio nell’oblio totale di sé stessi, unito alla giustizia come principio guida nella gestione della società, e nel completo abbandono dell’onore personale, della libertà individuale e dei propri desideri egoistici.
 
 
 
@@ -9175,14 +9175,14 @@ exchanges which go on within a nation. The foreigner who has some
 product of his own to exchange against a product of ours deals as
 a private man with other private men, and if you could see all the
 exchanges of the world going on you would not distinguish between the
-character of an exchange, say, between Devonshire and [[London]] and one
-between [[London]] and the Argentine. The Devonshire man grows wheat, which
-he sells perhaps in a [[London]] market, and buys manufactured products
-which a merchant in [[London]] provides. The farmer in the Argentine
+character of an exchange, say, between Devonshire and [[settings/london|London]] and one
+between [[settings/london|London]] and the Argentine. The Devonshire man grows wheat, which
+he sells perhaps in a [[settings/london|London]] market, and buys manufactured products
+which a merchant in [[settings/london|London]] provides. The farmer in the Argentine
 does much the same thing, sells wheat and receives in exchange what
 manufactures he needs, precisely as though he were living in Devonshire
-instead of abroad. He does not trade with “[[England]],” but with a
-particular merchant or company in [[England]].
+instead of abroad. He does not trade with “[[settings/england|England]],” but with a
+particular merchant or company in [[settings/england|England]].
 
 But there are certain points about international trade which one must
 get clear unless one is to make mistakes in the political problems
@@ -9191,14 +9191,14 @@ arising out of it.
 In the first place, international trade is always subject to a certain
 interference which domestic trade does not suffer. All countries have
 a tariff, that is a set of taxes upon a great number of the articles
-coming in from abroad. Even those countries which, as [[England]] did until
+coming in from abroad. Even those countries which, as [[settings/england|England]] did until
 quite lately, believe in leaving their citizens on equal terms with
 foreign competitors and have gone in for complete free trade, examine
 all goods at the port of entry or at special points on the frontier,
 both in order to raise revenue and to keep out undesirable goods, such
 as certain drugs; nor does any country allow all things to come in
 unexamined, lest forbidden things should come in unobserved. Moreover,
-it is important to measure the [[Nature|nature]] and volume of a nation’s foreign
+it is important to measure the [[concepts/nature|nature]] and volume of a nation’s foreign
 trade, and this cannot be done without stopping things at the ports or
 frontiers and examining them.
 
@@ -9258,14 +9258,14 @@ are called “visible” imports and exports. Many of them may be, and
 some always are, “invisible.” The most obvious example of these are
 “freights,” that is, sums paid for the carriage of goods between one
 country and another. Thus, in the old days before the war you would
-find [[England]] importing more than she exported, and one of the principal
+find [[settings/england|England]] importing more than she exported, and one of the principal
 reasons for the difference was that the imports were mostly brought
 in English ships. Thus if a man in the Argentine were sending 50 tons
-of wheat to [[England]] worth £500, [[England]], after a long chain of trade
+of wheat to [[settings/england|England]] worth £500, [[settings/england|England]], after a long chain of trade
 with many countries, including the Argentine, would be exporting
 values against this £500 worth of wheat, which would be worth, say,
 not £500, but only £450. The difference of £50 was made up by the cost
-of bringing the wheat from the Argentine to [[England]] _in an English
+of bringing the wheat from the Argentine to [[settings/england|England]] _in an English
 ship_. In other words, £50 worth of the total £500 worth of wheat stood
 for the sum which the man in the Argentine had to pay to the English
 sailors to bring his wheat over the sea.
@@ -9273,10 +9273,10 @@ sailors to bring his wheat over the sea.
 Further, a wealthy or strong country very often levied tribute upon a
 poorer or weaker one, and this tribute might take several forms. There
 was the tribute of interest upon loans. If English bankers had lent
-to people in [[Egypt]] a million pounds with interest at forty thousand
-pounds a year Egyptian production would have to export to [[England]],
+to people in [[settings/egypt|Egypt]] a million pounds with interest at forty thousand
+pounds a year Egyptian production would have to export to [[settings/england|England]],
 either directly or roundabout through the chain of trade, forty
-thousand pounds’ worth of goods, against which [[England]] had not to send
+thousand pounds’ worth of goods, against which [[settings/england|England]] had not to send
 out anything.
 
 
@@ -9284,11 +9284,11 @@ out anything.
 
 Scambio Internazionale
 
-Lo scambio internazionale non è davvero diverso dagli scambi domestici che avvengono all’interno di un paese. Lo straniero che possiede un prodotto da scambiare con uno dei nostri agisce come un privato con altri privati; se si osservassero tutti gli scambi che avvengono nel mondo, non si riuscirebbe a distinguere alcuna differenza tra lo scambio, ad esempio, tra Devonshire e [[London|Londra]], e quello tra [[London|Londra]] e l’Argentina. L’uomo di Devonshire coltiva il grano, che forse vende in un mercato di [[London|Londra]], e acquista prodotti manifatturati forniti da commercianti di quella città. Anche l’agricoltore argentino fa più o meno la stessa cosa: vende il suo grano e riceve in cambio i prodotti che gli servono, proprio come se vivesse in Devonshire invece che all’estero. Non scambia con “[[England|Inghilterra]]”, ma con un determinato commerciante o azienda situata in [[England|Inghilterra]].
+Lo scambio internazionale non è davvero diverso dagli scambi domestici che avvengono all’interno di un paese. Lo straniero che possiede un prodotto da scambiare con uno dei nostri agisce come un privato con altri privati; se si osservassero tutti gli scambi che avvengono nel mondo, non si riuscirebbe a distinguere alcuna differenza tra lo scambio, ad esempio, tra Devonshire e [[settings/london|Londra]], e quello tra [[settings/london|Londra]] e l’Argentina. L’uomo di Devonshire coltiva il grano, che forse vende in un mercato di [[settings/london|Londra]], e acquista prodotti manifatturati forniti da commercianti di quella città. Anche l’agricoltore argentino fa più o meno la stessa cosa: vende il suo grano e riceve in cambio i prodotti che gli servono, proprio come se vivesse in Devonshire invece che all’estero. Non scambia con “[[settings/england|Inghilterra]]”, ma con un determinato commerciante o azienda situata in [[settings/england|Inghilterra]].
 
 Ma ci sono alcuni aspetti del commercio internazionale che è necessario comprendere chiaramente, se si vuole evitare di commettere errori nei problemi politici che ne derivano.
 
-In primo luogo, il commercio internazionale è sempre soggetto a determinate interferenze che il commercio nazionale non subisce. Tutti i paesi applicano dazi, cioè una serie di tasse su un gran numero di articoli provenienti dall’estero. Anche quei paesi che, come l’[[England|Inghilterra]] fino a tempi recenti, ritenevano opportuno garantire ai propri cittadini condizioni paritarie rispetto ai concorrenti stranieri e adottavano un libero scambio totale, esaminano tutti i beni all’atto dell’ingresso nel paese o in punti specifici lungo il confine, sia al fine di raccogliere entrate fiscali che per impedire l’ingresso di prodotti indesiderati, come certe sostanze stupefacenti. Inoltre, è fondamentale misurare la natura e l’entità del commercio estero di un paese, e ciò non può essere fatto senza controllare i beni ai porti o ai confini.
+In primo luogo, il commercio internazionale è sempre soggetto a determinate interferenze che il commercio nazionale non subisce. Tutti i paesi applicano dazi, cioè una serie di tasse su un gran numero di articoli provenienti dall’estero. Anche quei paesi che, come l’[[settings/england|Inghilterra]] fino a tempi recenti, ritenevano opportuno garantire ai propri cittadini condizioni paritarie rispetto ai concorrenti stranieri e adottavano un libero scambio totale, esaminano tutti i beni all’atto dell’ingresso nel paese o in punti specifici lungo il confine, sia al fine di raccogliere entrate fiscali che per impedire l’ingresso di prodotti indesiderati, come certe sostanze stupefacenti. Inoltre, è fondamentale misurare la natura e l’entità del commercio estero di un paese, e ciò non può essere fatto senza controllare i beni ai porti o ai confini.
 
 In generale, il commercio internazionale si differenzia dal commercio nazionale soprattutto in questo: deve sempre essere sottoposto a controlli alle frontiere attraverso cui avviene. Si distingue anche perché richiede l’uso di una valuta diversa da quella nazionale. Anche quando tutti i paesi utilizzano la stessa valuta, come l’oro, esistono comunque piccole fluttuazioni nei tassi di cambio tra le diverse monete. Ad esempio, prima della guerra una sterlina inglese valeva circa 25¼ franchi francesi in oro, ma questa “parità” difficilmente era sempre esatta: il franco poteva fluttuare leggermente rispetto alla sterlina, di qualche centesimo in più o in meno. Nei paesi i cui valuti non erano stabili, le fluttuazioni erano ancora più intense; e naturalmente, da quando la guerra ha fatto sì che molti paesi abbandonassero l’uso dell’oro per adottare valute cartacee artificiali, il valore delle monete è diventato estremamente instabile. In un solo anno si potevano ottenere soltanto 50 franchi in cambio di una sterlina inglese, per poi riceverne fino a 80 poco dopo.
 
@@ -9304,9 +9304,9 @@ Lo stesso vale per gli scambi internazionali; come abbiamo visto nella parte pre
 
 Il numero totale di unità coinvolte in questa catena internazionale può essere quanto si desidera; possono esserci dieci, cinquanta o cento anelli prima che essa sia completata. Tuttavia, il principio universale stabilisce che importazioni ed esportazioni siano solitamente in equilibrio: ciò che si importa dall’estero deve essere pagato, in linea di massima, attraverso l’esportazione di un valore equivalente prodotto all’interno del proprio paese. Esistono tuttavia alcune eccezioni a questa regola, che a volte vengono dimenticate.
 
-In primo luogo, non è necessario che tutte le importazioni ed esportazioni siano quelle che vengono definite “visibili”. Molte di esse possono essere, e alcune lo sono sempre, “invisibili”. L’esempio più evidente in questo senso sono i “trasporti”, ovvero le somme pagate per il trasporto di merci da un paese all’altro. Negli anni precedenti alla guerra, si poteva osservare che l’[[England|Inghilterra]] importava più di quanto esportasse; una delle principali ragioni di questa differenza era che le importazioni avvenivano principalmente su navi inglesise. Pertanto, se un uomo in Argentina inviava 50 tonnellate di grano in [[England|Inghilterra]] per un valore di 500 sterline, l’[[England|Inghilterra]], dopo una lunga catena di scambi con molti paesi, compresa l’Argentina, avrebbe esportato merci del valore di circa 450 sterline. La differenza di 50 sterline era dovuta ai costi sostenuti per trasportare il grano dall’Argentina in [[England|Inghilterra]] su nave inglese. In altre parole, le 50 sterline rappresentavano la somma che l’uomo argentino doveva pagare agli equipaggi inglesi per far trasportare il suo grano attraverso il mare.
+In primo luogo, non è necessario che tutte le importazioni ed esportazioni siano quelle che vengono definite “visibili”. Molte di esse possono essere, e alcune lo sono sempre, “invisibili”. L’esempio più evidente in questo senso sono i “trasporti”, ovvero le somme pagate per il trasporto di merci da un paese all’altro. Negli anni precedenti alla guerra, si poteva osservare che l’[[settings/england|Inghilterra]] importava più di quanto esportasse; una delle principali ragioni di questa differenza era che le importazioni avvenivano principalmente su navi inglesise. Pertanto, se un uomo in Argentina inviava 50 tonnellate di grano in [[settings/england|Inghilterra]] per un valore di 500 sterline, l’[[settings/england|Inghilterra]], dopo una lunga catena di scambi con molti paesi, compresa l’Argentina, avrebbe esportato merci del valore di circa 450 sterline. La differenza di 50 sterline era dovuta ai costi sostenuti per trasportare il grano dall’Argentina in [[settings/england|Inghilterra]] su nave inglese. In altre parole, le 50 sterline rappresentavano la somma che l’uomo argentino doveva pagare agli equipaggi inglesi per far trasportare il suo grano attraverso il mare.
 
-Inoltre, un paese ricco o potente spesso imponeva tributi a uno più povero o debole, e questi tributi potevano assumere diverse forme. C'era ad esempio il tributo sotto forma di interessi sui prestiti. Se i banchieri inglesi avessero prestato un milione di sterline alle persone in [[Egypt|>Egitto]] con un interesse del quarantamila sterline all’anno, l’Egitto avrebbe dovuto esportare verso [[England|>Inghilterra]] merci del valore di quarantamila sterline, sia direttamente che indirettamente attraverso la catena commerciale; in cambio, l’[[England|>Inghilterra]] non avrebbe dovuto inviare nulla.
+Inoltre, un paese ricco o potente spesso imponeva tributi a uno più povero o debole, e questi tributi potevano assumere diverse forme. C'era ad esempio il tributo sotto forma di interessi sui prestiti. Se i banchieri inglesi avessero prestato un milione di sterline alle persone in [[settings/egypt|>Egitto]] con un interesse del quarantamila sterline all’anno, l’Egitto avrebbe dovuto esportare verso [[settings/england|>Inghilterra]] merci del valore di quarantamila sterline, sia direttamente che indirettamente attraverso la catena commerciale; in cambio, l’[[settings/england|>Inghilterra]] non avrebbe dovuto inviare nulla.
 
 
 
@@ -9317,14 +9317,14 @@ Another form of tribute--though a small one--is that paid in pensions.
 A man having worked all his life in the Civil Service in India (for
 instance) would retire upon a yearly pension of a thousand pounds a
 year; but this pension was levied upon the taxpayers of India, and if
-the man came to live in [[England]] and spent his pension there--as nearly
+the man came to live in [[settings/england|England]] and spent his pension there--as nearly
 all of them did--it meant that India had to export a thousand pounds’
-worth of goods every year to [[England]], against which [[England]] sent
+worth of goods every year to [[settings/england|England]], against which [[settings/england|England]] sent
 nothing back.
 
 In the same way the shareholder in some works or firms situated in a
-foreign country would, if he lived in [[England]], cause an import to come
-in equivalent to his dividends or profits, and against that [[England]]
+foreign country would, if he lived in [[settings/england|England]], cause an import to come
+in equivalent to his dividends or profits, and against that [[settings/england|England]]
 would send out nothing.
 
 But the point to remember is, that the mere volume of trade (that
@@ -9339,15 +9339,15 @@ or all, its needs. Again, of international trade (and it is exceedingly
 important to remember this, because most people go wrong on it)
 nothing increases the wealth of a country except the imports.
 
-It ought to be quite clear, especially in the case of an [[Island|island]] like
+It ought to be quite clear, especially in the case of an [[settings/island|island]] like
 Great Britain, that it loses what it sends out and gains what
 it brings in. Yet people get muddled about even this very simple
 proposition, because the individual trader thinks of his transactions
-as an individual sale. He does not consider the [[Nature|nature]] of trade as a
+as an individual sale. He does not consider the [[concepts/nature|nature]] of trade as a
 whole. The individual trader, for instance, who makes locomotives and
 exports them, gets paid, let us say, £10,000 for each locomotive. In
 point of fact this means that in the long run he or someone else in
-[[England]] will exercise £10,000 worth of demand for foreign goods. But
+[[settings/england|England]] will exercise £10,000 worth of demand for foreign goods. But
 the individual trader does not usually think of that; he thinks only of
 his own transactions, and he would be very much surprised if he were
 told that his sending the locomotive abroad was, _regarded in itself,
@@ -9363,14 +9363,14 @@ more than it imports is paying tribute to foreigners abroad, while
 every country which regularly imports more than it exports is receiving
 tribute.
 
-Of course, if you consider only a short period of [[Time|time]], the falling off
+Of course, if you consider only a short period of [[motifs/time|time]], the falling off
 of exports may be a bad sign; for it may mean that the corresponding
 imports will not be gathered. If in this country we saw our exports
 regularly falling year by year we should be right to take alarm, for
 this would almost certainly mean that a corresponding falling off in
 imports would sooner or later take place also, and that therefore our
 total wealth would be diminished. But considered over a sufficient
-space of [[Time|time]], it is obvious that the excess of imports over exports
+space of [[motifs/time|time]], it is obvious that the excess of imports over exports
 is a gain and that the excess of exports over imports is a loss.
 
 One last thing to remember about international trade is that the very
@@ -9378,11 +9378,11 @@ different importance of foreign trade to different countries makes the
 foreign politics of nations differ equally. A country which can supply
 itself with all it needs is free to risk its foreign trade for some
 other issue. A country importing its necessities cannot risk the loss
-of such trade, for it is a matter of life and [[Death|death]]. The United States
+of such trade, for it is a matter of life and [[motifs/death|death]]. The United States
 is in the first position. It has within its own boundaries not only all
 the minerals it needs, but also all the petrol and all the raw material
 for making cloth, and all the leather for boots, and all the rest
-of it. But a country like [[England]] is in quite a different position.
+of it. But a country like [[settings/england|England]] is in quite a different position.
 We only grow half the meat we need and about one-fifth of the corn.
 Therefore it is absolutely necessary for us to have a foreign trade.
 If all the foreign trade of the United States were to be destroyed
@@ -9396,41 +9396,41 @@ Britain is that which is most vitally interested in maintaining a great
 foreign trade, and next after Great Britain Belgium is similarly
 interested, for Belgium also needs to import four-fifths of its
 bread-stuffs. Almost every country except the United States must have
-some foreign trade if it is to live normally. For instance: [[France]],
-though largely a [[Self|self]]-sufficing country, has no petrol. It has to buy
+some foreign trade if it is to live normally. For instance: [[settings/france|France]],
+though largely a [[concepts/self|self]]-sufficing country, has no petrol. It has to buy
 its petrol abroad and must export goods to pay for that import. Nor has
 it quite enough coal for its needs, and, before the war, it had not
-nearly enough iron. [[Italy]] has no coal, no petrol and no iron to speak
-of--not nearly enough for its needs. And so it is with pretty [[Well|well]]
-every nation in [[Europe]]. But of all nations our own and Belgium--our own
+nearly enough iron. [[settings/italy|Italy]] has no coal, no petrol and no iron to speak
+of--not nearly enough for its needs. And so it is with pretty [[motifs/well|well]]
+every nation in [[settings/europe|Europe]]. But of all nations our own and Belgium--our own
 particularly--are in the most need of maintaining a large foreign trade.
 
-This affects all our policy, it is the root of both the [[Greatness|greatness]] and
-peril of [[England]]. It also tends to make English people judge the wealth
+This affects all our policy, it is the root of both the [[concepts/greatness|greatness]] and
+peril of [[settings/england|England]]. It also tends to make English people judge the wealth
 of foreigners by the volume of their trade, and that is a great error.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Un'altra forma di tributo – sebbene minore – è quella rappresentata dalle pensioni. Un uomo che abbia lavorato tutta la vita nel servizio civile in India, ad esempio, andrà in pensione con un reddito annuo di mille sterline; tuttavia questa pensione viene finanziata dai contribuenti indiani. Se quest’uomo si trasferisce in [[England|Inghilterra]] e spende lì la sua pensione – come fanno quasi tutti – significa che l’India deve esportare ogni anno merci del valore di mille sterline verso l’[[England|Inghilterra]], senza ricevere nulla in cambio.
+Un'altra forma di tributo – sebbene minore – è quella rappresentata dalle pensioni. Un uomo che abbia lavorato tutta la vita nel servizio civile in India, ad esempio, andrà in pensione con un reddito annuo di mille sterline; tuttavia questa pensione viene finanziata dai contribuenti indiani. Se quest’uomo si trasferisce in [[settings/england|Inghilterra]] e spende lì la sua pensione – come fanno quasi tutti – significa che l’India deve esportare ogni anno merci del valore di mille sterline verso l’[[settings/england|Inghilterra]], senza ricevere nulla in cambio.
 
-Nello stesso modo in cui un azionista, possedendo opere o imprese situate all’estero, se vivesse in [[England|Inghilterra]], causerebbe l’importazione di somme equivalenti ai suoi dividendi o profitti, senza che [[England|Inghilterra]] dovesse effettuare alcuna esportazione in cambio.
+Nello stesso modo in cui un azionista, possedendo opere o imprese situate all’estero, se vivesse in [[settings/england|Inghilterra]], causerebbe l’importazione di somme equivalenti ai suoi dividendi o profitti, senza che [[settings/england|Inghilterra]] dovesse effettuare alcuna esportazione in cambio.
 
 Ma ciò che bisogna ricordare è che il semplice volume delle transazioni commerciali (cioè la somma di tutte le merci importate e esportate) _non costituisce alcun indicatore della ricchezza o del benessere del paese che le effettua_.
 
 Un paese può essere molto ricco anche se non svolge quasi alcuna attività di commercio internazionale, perché è in grado di produrre all’interno dei propri confini una quantità di ricchezza sufficiente a soddisfare quasi tutte, o addirittura tutte, le sue esigenze. Riguardo al commercio internazionale (è estremamente importante ricordarlo, poiché molte persone commettono errori in questo ambito), nulla aumenta realmente la ricchezza di un paese se non le importazioni.
 
-Dovrebbe essere abbastanza chiaro, soprattutto nel caso di un’[[Island|isola]] come la Gran Bretagna, che essa perde ciò che invia e guadagna ciò che riceve. Eppure le persone si confondono anche riguardo a questa proposizione così semplice: l’individuo che effettua transazioni commerciali considera ciascuna di esse come una singola vendita, senza considerare la [[Nature|>natura]] del commercio nel suo insieme. Ad esempio, un commerciante che produce locomotive e le esporta riceve, diciamo, 10.000 sterline per ogni locomotiva venduta. In realtà ciò significa che, a lungo andare, lui o qualcun altro in [[England|>Inghilterra]] genererà una domanda di beni stranieri del valore di 10.000 sterline. Ma il commerciante individuale di solito non pensa in questo modo; considera solo le proprie transazioni e rimarrebbe molto sorpreso se gli si dicesse che l’esportazione delle locomotive, in sé stessa e indipendentemente dalle importazioni che ne derivano, rappresenta una perdita per il paese di 10.000 sterline di ricchezza.
+Dovrebbe essere abbastanza chiaro, soprattutto nel caso di un’[[settings/island|isola]] come la Gran Bretagna, che essa perde ciò che invia e guadagna ciò che riceve. Eppure le persone si confondono anche riguardo a questa proposizione così semplice: l’individuo che effettua transazioni commerciali considera ciascuna di esse come una singola vendita, senza considerare la [[concepts/nature|>natura]] del commercio nel suo insieme. Ad esempio, un commerciante che produce locomotive e le esporta riceve, diciamo, 10.000 sterline per ogni locomotiva venduta. In realtà ciò significa che, a lungo andare, lui o qualcun altro in [[settings/england|>Inghilterra]] genererà una domanda di beni stranieri del valore di 10.000 sterline. Ma il commerciante individuale di solito non pensa in questo modo; considera solo le proprie transazioni e rimarrebbe molto sorpreso se gli si dicesse che l’esportazione delle locomotive, in sé stessa e indipendentemente dalle importazioni che ne derivano, rappresenta una perdita per il paese di 10.000 sterline di ricchezza.
 
 Si sente spesso, nei dibattiti politici, le persone parlare come se la diminuzione delle esportazioni di un paese fosse una cosa negativa, così come l’aumento delle importazioni. A lungo andare, non può essere così. L’eccesso di importazioni rispetto alle esportazioni rappresenta, nel complesso, il profitto nazionale derivante dalle transazioni estere; quindi, ogni paese che esporta regolarmente più di quanto importi sta, in realtà, pagando un “tributo” ai paesi stranieri, mentre ogni paese che importa regolarmente più di quanto esporti riceve, invece, quel “tributo”.
 
-Certo, se si considera soltanto un breve periodo di [[Time|tempo]], il calo delle esportazioni potrebbe essere un cattivo segno; infatti, ciò potrebbe significare che le relative importazioni non aumenteranno di conseguenza. Se in questo paese osservassimo un calo regolare delle nostre esportazioni anno dopo anno, dovremmo allarmarci, poiché ciò significherebbe quasi certamente che anche le importazioni diminuirebbero prima o poi, e quindi il nostro patrimonio totale ne risentirebbe negativamente. Tuttavia, se si considera un lasso di tempo sufficientemente lungo, è evidente che un eccesso di importazioni rispetto alle esportazioni rappresenti un vantaggio, mentre un eccesso di esportazioni rispetto alle importazioni costituisca una perdita.
+Certo, se si considera soltanto un breve periodo di [[motifs/time|tempo]], il calo delle esportazioni potrebbe essere un cattivo segno; infatti, ciò potrebbe significare che le relative importazioni non aumenteranno di conseguenza. Se in questo paese osservassimo un calo regolare delle nostre esportazioni anno dopo anno, dovremmo allarmarci, poiché ciò significherebbe quasi certamente che anche le importazioni diminuirebbero prima o poi, e quindi il nostro patrimonio totale ne risentirebbe negativamente. Tuttavia, se si considera un lasso di tempo sufficientemente lungo, è evidente che un eccesso di importazioni rispetto alle esportazioni rappresenti un vantaggio, mentre un eccesso di esportazioni rispetto alle importazioni costituisca una perdita.
 
-Un’ultima cosa da ricordare riguardo al commercio internazionale è che l’importanza del commercio estero, molto diversa da paese a paese, fa sì che anche la politica estera delle nazioni sia diversa. Un paese che può provvedersi di tutto ciò di cui ha bisogno può permettersi di rischiare il proprio commercio estero per questioni diverse; un paese che deve importare i propri beni essenziali, invece, non può permettersi di perdere tale commercio, poiché si tratta di una questione di vita o di morte. Gli Stati Uniti si trovano in una posizione privilegiata: entro i loro confini hanno non solo tutti i minerali di cui hanno bisogno, ma anche tutto il petrolio e tutte le materie prime necessarie per produrre tessuti, cuoio per scarpe e molto altro ancora. Un paese come l’[[England|Inghilterra]], invece, si trova in una situazione completamente diversa: produciamo solo la metà della carne di cui abbiamo bisogno e circa un quinto del mais. Pertanto, per noi è assolutamente necessario avere un commercio estero. Se tutto il commercio estero degli Stati Uniti venisse distrutto domani, gli Stati Uniti, anche se diventassero un po’ più poveri, rimarrebbero comunque molto ricchi e in grado di sopravvivere senza l’aiuto di nessuno. Ma se il nostro commercio estero venisse distrutto, ci sarebbe una terribile carestia e la maggior parte di noi morirebbe.
+Un’ultima cosa da ricordare riguardo al commercio internazionale è che l’importanza del commercio estero, molto diversa da paese a paese, fa sì che anche la politica estera delle nazioni sia diversa. Un paese che può provvedersi di tutto ciò di cui ha bisogno può permettersi di rischiare il proprio commercio estero per questioni diverse; un paese che deve importare i propri beni essenziali, invece, non può permettersi di perdere tale commercio, poiché si tratta di una questione di vita o di morte. Gli Stati Uniti si trovano in una posizione privilegiata: entro i loro confini hanno non solo tutti i minerali di cui hanno bisogno, ma anche tutto il petrolio e tutte le materie prime necessarie per produrre tessuti, cuoio per scarpe e molto altro ancora. Un paese come l’[[settings/england|Inghilterra]], invece, si trova in una situazione completamente diversa: produciamo solo la metà della carne di cui abbiamo bisogno e circa un quinto del mais. Pertanto, per noi è assolutamente necessario avere un commercio estero. Se tutto il commercio estero degli Stati Uniti venisse distrutto domani, gli Stati Uniti, anche se diventassero un po’ più poveri, rimarrebbero comunque molto ricchi e in grado di sopravvivere senza l’aiuto di nessuno. Ma se il nostro commercio estero venisse distrutto, ci sarebbe una terribile carestia e la maggior parte di noi morirebbe.
 
 Le nazioni differiscono molto in questo senso, ma tra tutte le nazioni la Gran Bretagna è quella che ha un interesse vitale nel mantenere un intenso commercio estero; subito dopo la Gran Bretagna, il Belgio condivide lo stesso interesse, poiché anche il Belgio deve importare quattro quinti dei suoi alimenti. Quasi ogni paese, tranne gli Stati Uniti, ha bisogno di un certo grado di commercio estero per poter vivere normalmente. Ad esempio: la Francia, sebbene sia in gran parte autosufficiente, non possiede petrolio; deve quindi acquistarlo all’estero e deve esportare merci per pagare tale importazione. Nemmeno il Belgio dispone di quantità sufficienti di carbone per le proprie esigenze; prima della guerra, inoltre, non aveva nemmeno abbastanza ferro. L’Italia, invece, non possiede quasi alcun carbone, petrolio o ferro – ne ha ben poco rispetto alle sue necessità. E lo stesso vale per quasi tutte le nazioni d’Europa. Ma tra tutte le nazioni, la nostra e il Belgio sono quelle che hanno maggiormente bisogno di mantenere un intenso commercio estero.
 
-Questo aspetto influisce su tutta la nostra politica; rappresenta sia la radice della [[Greatness|magnanimità]] che del pericolo che minaccia l’[[England|>Inghilterra]]. Inoltre, spinge i britannici a giudicare la ricchezza degli stranieri in base all’entità del loro commercio, il che rappresenta un grave errore.
+Questo aspetto influisce su tutta la nostra politica; rappresenta sia la radice della [[concepts/greatness|magnanimità]] che del pericolo che minaccia l’[[settings/england|>Inghilterra]]. Inoltre, spinge i britannici a giudicare la ricchezza degli stranieri in base all’entità del loro commercio, il che rappresenta un grave errore.
 
 
 
@@ -9439,8 +9439,8 @@ Questo aspetto influisce su tutta la nostra politica; rappresenta sia la radice 
 
 FREE TRADE AND PROTECTION AS POLITICAL ISSUES
 
-In this matter of international trade there [[Rose|rose]] up, about a hundred
-years ago, a great political discussion in [[England]] between what was
+In this matter of international trade there [[motifs/rose|rose]] up, about a hundred
+years ago, a great political discussion in [[settings/england|England]] between what was
 called Free Trade and what was called Protection.
 
 This discussion is still going on and affecting the life of the
@@ -9451,9 +9451,9 @@ Economy to actual conditions.
 I dealt with this subject briefly in the first part of this book under
 “Elementary Principles,” but I return to it here in more detail because
 it has given rise, in political application, to the most important
-economic discussion in modern [[England]].
+economic discussion in modern [[settings/england|England]].
 
-The Free Traders were those who said that [[England]] would be wealthier,
+The Free Traders were those who said that [[settings/england|England]] would be wealthier,
 as a whole, if there were no restriction upon exchange at all, whether
 internal or external. A man having something to exchange with his
 English neighbour was, of course, free to exchange it without any
@@ -9469,7 +9469,7 @@ nor restricted by special import duties at the ports.
 wealth for the whole country.”
 
 The Protectionists, on the other hand, said: “Here are a lot of people
-engaged on a particular form of production in [[England]]. Those who have
+engaged on a particular form of production in [[settings/england|England]]. Those who have
 their capital in it are making profits, those who own the land on which
 the capital is invested are getting rents, and the working people are
 getting wages. The foreigner, having special advantages for this kind
@@ -9482,25 +9482,25 @@ in producing this particular thing--that is, who have got implements
 together and buildings, and the rest, suitable for producing this
 thing--will be ruined. It will not be worth their while to go on, for
 no one will buy their goods. Their profits will be extinguished, and
-their capital will [[Decay|decay]] to nothing. The rents on the land they occupy
+their capital will [[motifs/decay|decay]] to nothing. The rents on the land they occupy
 will also disappear, and, what is worst of all, the large population
 which live on wages produced by this kind of work will starve or have
 to be supported, idle, by other people. Their power of producing wealth
-will be lost to [[England]]. Therefore, let us tax this cheap foreign
-import so that our production at [[Home|home]] shall be protected. Let us
+will be lost to [[settings/england|England]]. Therefore, let us tax this cheap foreign
+import so that our production at [[motifs/home|home]] shall be protected. Let us
 tax the foreign goods as they come in, so that the cost of producing
 abroad, with this tax added, comes to at least as much as the cost of
-producing the same stuff at [[Home|home]]. In this way it will still be worth
-while for our people at [[Home|home]] to go on producing this kind of thing. The
-Englishman at [[Home|home]] will be just as ready to buy his fellow-citizen’s
+producing the same stuff at [[motifs/home|home]]. In this way it will still be worth
+while for our people at [[motifs/home|home]] to go on producing this kind of thing. The
+Englishman at [[motifs/home|home]] will be just as ready to buy his fellow-citizen’s
 produce as the foreigner’s, for the price of each will be the same.”
 
 The Protectionist even said: “Let us make this tariff so high that the
 foreign goods are sold at a disadvantage--that is, let the tax on the
 foreign goods be such that, added to the cost of production abroad,
-they cannot be sold in [[England]] save at a higher price than the
+they cannot be sold in [[settings/england|England]] save at a higher price than the
 English goods. In this way only the English goods will be bought here
-and the [[Home|home]] industry will flourish as it did before.”
+and the [[motifs/home|home]] industry will flourish as it did before.”
 
 Such were the two political theories, standing one against the other.
 
@@ -9513,13 +9513,13 @@ of production.
 
 And we have also had fixed the principle that _freedom of exchange
 tends to produce a maximum of wealth within the area to which it
-applies_, and that interference with [[Freedom|freedom]] of exchange tends to
+applies_, and that interference with [[concepts/freedom|freedom]] of exchange tends to
 reduce the total possible wealth of that area. This is so obvious that
 all the great modern nations are careful to let exchange be as free as
 possible within their own boundaries.
 
 Goods can be freely exchanged without interference all over the United
-States and all over Great Britain and all over [[France]], etc., because if
+States and all over Great Britain and all over [[settings/france|France]], etc., because if
 you were to set up tolls and interferences with exchange within the
 country the total wealth of the country would necessarily be diminished.
 
@@ -9531,7 +9531,7 @@ we are benefiting the existing trade which is threatened by foreign
 competition. For it means that we are producing something with
 difficulty which we could get with much less work if we turned our
 attention to things which we can produce with ease. Or, again, it means
-that with the same amount of work devoted to things we make [[Well|well]] and
+that with the same amount of work devoted to things we make [[motifs/well|well]] and
 exchange against the foreigner’s goods we shall get much more of the
 things which the foreigner can make more easily than we can.”
 
@@ -9548,7 +9548,7 @@ who need much less labour and capital to ripen them than we do in
 our artificial way in hot-houses, and who can therefore send us wine
 at 10s. a gallon. Then we can get for each £1 worth of labour and
 capital twice as much wine as we got before. Instead of wasting our
-[[Time|time]] artificially growing grapes in hot-houses to make our wine, let
+[[motifs/time|time]] artificially growing grapes in hot-houses to make our wine, let
 the people who used to work in the hot-houses become coal-miners,
 so that more coal may be produced and this extra coal exchanged for
 foreign wine. A pound’s worth of labour and capital in coal will get
@@ -9564,19 +9564,19 @@ be increased.
 
 Libero scambio e protezione come questioni politiche
 
-In questa questione del commercio internazionale, circa cento anni fa, in [[England|Inghilterra]] scaturì un'importante discussione politica tra le posizioni definite “Libero Scambio” e quelle definite “Protezionismo”.
+In questa questione del commercio internazionale, circa cento anni fa, in [[settings/england|Inghilterra]] scaturì un'importante discussione politica tra le posizioni definite “Libero Scambio” e quelle definite “Protezionismo”.
 
 Questa discussione continua ancora e influisce sulla vita del paese; è quindi importante comprendere i suoi principi, poiché qui abbiamo una delle principali applicazioni dell’economia politica teorica alle condizioni pratiche.
 
-Ho trattato brevemente questo argomento nella prima parte di questo libro, nell’ambito dei “Principi Fondamentali”, ma torno ad esso qui in modo più dettagliato perché, nelle sue applicazioni politiche, ha dato origine alla discussione economica più importante nel moderno [[England|Inghilterra]].
+Ho trattato brevemente questo argomento nella prima parte di questo libro, nell’ambito dei “Principi Fondamentali”, ma torno ad esso qui in modo più dettagliato perché, nelle sue applicazioni politiche, ha dato origine alla discussione economica più importante nel moderno [[settings/england|Inghilterra]].
 
-I “Liberi Mercanti” erano coloro che sostenevano che [[England|Inghilterra]] sarebbe diventata più ricca, nel suo complesso, se non ci fossero state alcune restrizioni sul commercio, né interne né esterne. Un uomo che avesse qualcosa da scambiare con il proprio vicino inglese poteva naturalmente farlo senza alcuna interferenza; ma i Liberi Mercanti sostenevano in particolare che anche un uomo che volesse scambiare qualcosa con un acquirente straniero dovesse poterlo fare liberamente, senza che le tasse d’esportazione ostacolassero la transazione. Allo stesso modo, affermavano che lo straniero dovesse poter inviare qui qualsiasi merce volesse scambiare con le nostre, senza essere ostacolato da leggi né da tasse d’importazione particolari nei porti.
+I “Liberi Mercanti” erano coloro che sostenevano che [[settings/england|Inghilterra]] sarebbe diventata più ricca, nel suo complesso, se non ci fossero state alcune restrizioni sul commercio, né interne né esterne. Un uomo che avesse qualcosa da scambiare con il proprio vicino inglese poteva naturalmente farlo senza alcuna interferenza; ma i Liberi Mercanti sostenevano in particolare che anche un uomo che volesse scambiare qualcosa con un acquirente straniero dovesse poterlo fare liberamente, senza che le tasse d’esportazione ostacolassero la transazione. Allo stesso modo, affermavano che lo straniero dovesse poter inviare qui qualsiasi merce volesse scambiare con le nostre, senza essere ostacolato da leggi né da tasse d’importazione particolari nei porti.
 
 “In questo modo,” dissero i Mercanti Liberi, “otterremo il massimo della ricchezza per tutto il paese.”
 
-D'altra parte, i protezionisti affermavano: “In [[England|Inghilterra]] ci sono molte persone impegnate in un determinato tipo di produzione. Coloro che hanno investito il proprio capitale in questo settore ottengono profitti; coloro che possiedono la terra su cui tale capitale è stato investito ricevono affitti, mentre i lavoratori percepiscono salari. Il forestiero, avendo vantaggi particolari in questo tipo di produzione – che gli permettono di produrre quel bene più a buon mercato di noi – importa tali prodotti e li vende agli inglesi. Le persone a cui questi prodotti vengono offerti li acquisteranno sicuramente, poiché sono più economici. Di conseguenza, gli inglesi che hanno investito il proprio capitale nella produzione di quel bene – cioè coloro che possiedono attrezzature, edifici e tutto ciò che è necessario per produrlo – verranno rovinati: non avrà più senso continuare a produrre, poiché nessuno comprerà i loro beni. I loro profitti scompariranno e il loro capitale andrà completamente distrutto. Anche gli affitti derivanti dalle terre che possiedono scompariranno; inoltre, la grande popolazione che vive dei salari guadagnati con questo tipo di lavoro morirà di fame o dovrà essere sostenuta da altri. La loro capacità di produrre ricchezza passerà a [[England|Inghilterra]]. Pertanto, dovremmo tassare queste importazioni straniere a buon mercato, in modo da proteggere la nostra produzione nazionale. Dovremmo imporre tasse sui beni stranieri non appena arrivano nel nostro paese, in modo che il costo della loro produzione all’estero, sommato a queste tasse, sia almeno pari al costo della produzione dello stesso bene nel nostro paese. In questo modo, sarà ancora vantaggioso per i nostri cittadini continuare a produrre tale bene. Gli inglesi, a casa loro, saranno altrettanto disposti ad acquistare i prodotti dei propri connazionali quanto quelli dei forestieri, poiché il prezzo di entrambi sarà lo stesso.”
+D'altra parte, i protezionisti affermavano: “In [[settings/england|Inghilterra]] ci sono molte persone impegnate in un determinato tipo di produzione. Coloro che hanno investito il proprio capitale in questo settore ottengono profitti; coloro che possiedono la terra su cui tale capitale è stato investito ricevono affitti, mentre i lavoratori percepiscono salari. Il forestiero, avendo vantaggi particolari in questo tipo di produzione – che gli permettono di produrre quel bene più a buon mercato di noi – importa tali prodotti e li vende agli inglesi. Le persone a cui questi prodotti vengono offerti li acquisteranno sicuramente, poiché sono più economici. Di conseguenza, gli inglesi che hanno investito il proprio capitale nella produzione di quel bene – cioè coloro che possiedono attrezzature, edifici e tutto ciò che è necessario per produrlo – verranno rovinati: non avrà più senso continuare a produrre, poiché nessuno comprerà i loro beni. I loro profitti scompariranno e il loro capitale andrà completamente distrutto. Anche gli affitti derivanti dalle terre che possiedono scompariranno; inoltre, la grande popolazione che vive dei salari guadagnati con questo tipo di lavoro morirà di fame o dovrà essere sostenuta da altri. La loro capacità di produrre ricchezza passerà a [[settings/england|Inghilterra]]. Pertanto, dovremmo tassare queste importazioni straniere a buon mercato, in modo da proteggere la nostra produzione nazionale. Dovremmo imporre tasse sui beni stranieri non appena arrivano nel nostro paese, in modo che il costo della loro produzione all’estero, sommato a queste tasse, sia almeno pari al costo della produzione dello stesso bene nel nostro paese. In questo modo, sarà ancora vantaggioso per i nostri cittadini continuare a produrre tale bene. Gli inglesi, a casa loro, saranno altrettanto disposti ad acquistare i prodotti dei propri connazionali quanto quelli dei forestieri, poiché il prezzo di entrambi sarà lo stesso.”
 
-Il protezionista disse persino: “Facciamo sì che questa tariffa sia così alta da rendere i beni stranieri svantaggiati nel mercato; in altre parole, applichiamo tasse ai beni stranieri tale che, sommate al loro costo di produzione all’estero, non possano essere venduti in [[England|Inghilterra]] a un prezzo inferiore a quello dei beni inglesi. Solo in questo modo i beni inglesi verranno acquistati qui e l’industria [[Home|nazionale]] prospererà come avveniva prima.”
+Il protezionista disse persino: “Facciamo sì che questa tariffa sia così alta da rendere i beni stranieri svantaggiati nel mercato; in altre parole, applichiamo tasse ai beni stranieri tale che, sommate al loro costo di produzione all’estero, non possano essere venduti in [[settings/england|Inghilterra]] a un prezzo inferiore a quello dei beni inglesi. Solo in questo modo i beni inglesi verranno acquistati qui e l’industria [[motifs/home|nazionale]] prospererà come avveniva prima.”
 
 Ecco dunque le due teorie politiche, opposte l’una all’altra.
 
@@ -9586,7 +9586,7 @@ Abbiamo già visto, nella prima parte di questo libro, il principio economico fo
 
 E abbiamo anche stabilito il principio secondo cui la _libertà di scambio tende a generare il massimo della ricchezza nell’area su cui si applica_, e che qualsiasi interferenza con questa libertà di scambio tende a ridurre la ricchezza totale possibile di tale area. Questo è così ovvio che tutte le grandi nazioni moderne fanno attenzione a mantenere la libera circolazione degli scambi entro i loro confini.
 
-I beni possono essere scambiati liberamente, senza interferenze, in tutto gli Stati Uniti, in tutta la Gran Bretagna e in tutta la [[France|Francia]], ecc. Perché se si stabilissero dazi e ostacoli agli scambi all’interno di un paese, la ricchezza totale di quel paese ne risentirebbe inevitabilmente.
+I beni possono essere scambiati liberamente, senza interferenze, in tutto gli Stati Uniti, in tutta la Gran Bretagna e in tutta la [[settings/france|Francia]], ecc. Perché se si stabilissero dazi e ostacoli agli scambi all’interno di un paese, la ricchezza totale di quel paese ne risentirebbe inevitabilmente.
 
 Ora i Mercanti Liberi estesero questo principio al commercio estero. Dissero: “Se lo straniero viene da noi con qualcosa che può venderci a un prezzo più basso di quello che potremmo produrre noi stessi, ciò rappresenta un vantaggio per noi. Sarebbe miope interferire in questo processo pensando di proteggere il commercio esistente, minacciato dalla concorrenza straniera. In realtà, significa che stiamo producendo qualcosa con difficoltà, quando potremmo ottenerlo con molto meno sforzo se ci concentrassimo su prodotti che possiamo produrre facilmente. Oppure, in altre parole, significa che, dedicando lo stesso impegno a prodotti che realizziamo bene e scambiamo con i beni dello straniero, otterremmo molto di più di ciò che lo straniero può produrre con maggiore facilità rispetto a noi.”
 
@@ -9603,17 +9603,17 @@ In the particular case of the English dispute about Free Trade and
 Protection not wine but a much more important thing was concerned,
 namely food; and that was what gave the political discussion its
 practical value and made it so violent. It is also because food was in
-question that the Free Traders won, and that [[England]] was, for a whole
+question that the Free Traders won, and that [[settings/england|England]] was, for a whole
 lifetime, up to the Great War, a Free Trade country--that is, a country
 allowing all foreign produce to come in and compete on equal terms with
-[[Home|home]] produce.
+[[motifs/home|home]] produce.
 
 This country, at the beginning of the discussion a hundred years ago,
 was already producing great quantities of manufactured goods: cloth
 and machinery, ships and so on. It also produced on its fields the
 wheat and meat and dairy produce with which it fed itself. But as the
 population increased the amount of food being produced on the soil of
-[[England]], though getting larger in the total, got smaller in proportion
+[[settings/england|England]], though getting larger in the total, got smaller in proportion
 to the rapidly increasing population. Therefore there was a danger of
 its getting dearer. The Free Traders said: “Let foreign food come in
 free. If it is produced in climates where for the same amount of labour
@@ -9629,8 +9629,8 @@ in free.”
 
 These Free Trade arguments look, when they are first studied, not
 only simple and clear, but unanswerable, and indeed most educated
-men--nearly all educated men--in [[Queen Victoria]]’s reign, thought they
-were unanswerable, and that Protectionists here at [[Home|home]] (who were
+men--nearly all educated men--in [[characters/queen-victoria|Queen Victoria]]’s reign, thought they
+were unanswerable, and that Protectionists here at [[motifs/home|home]] (who were
 no longer allowed to put their theories into laws) and Protectionists
 abroad who had kept up tariffs against foreign trade, were simply
 ignorant and foolish men who did not properly understand the elements
@@ -9642,7 +9642,7 @@ us next turn to the arguments with which the Protectionists met them.
 These arguments were of two kinds:--
 
 (a) There were Protectionists who said: “We cannot follow all these
-elaborate abstract discussions about a science called [[Economics]]; we are
+elaborate abstract discussions about a science called [[concepts/economics|Economics]]; we are
 practical men with plenty of common sense and experience, and all we
 know is that if the foreigner comes in free we shall be ruined. He can
 sell his wheat at such a price that our farmers will lose on it. Our
@@ -9670,9 +9670,9 @@ These two kinds of arguments on the Protectionist side are still to be
 heard everywhere to-day.
 
 It ought to be perfectly clear to anyone who thinks about the matter
-at all that argument (a) was [[Nonsense|nonsense]], for people and capital driven
+at all that argument (a) was [[concepts/nonsense|nonsense]], for people and capital driven
 out of an industry ill suited to our present conditions are not
-thereby destroyed. They may very [[Well|well]] find employment producing more
+thereby destroyed. They may very [[motifs/well|well]] find employment producing more
 total wealth in another. But argument (b) was a good argument _if the
 statement about the impossibility of changing from one trade to another
 were in practice true_. The whole discussion really turned upon the
@@ -9686,33 +9686,33 @@ this disadvantage--that they were arguing with regard to a possible or
 probable future with no past experience to guide them, and that many
 years must pass before it could be discovered whether, in practice,
 what they said was true or false; whether in practice the ruin of
-English agriculture would diminish the [[Well|well]]-being of [[England]] as a whole
+English agriculture would diminish the [[motifs/well|well]]-being of [[settings/england|England]] as a whole
 or not.
 
 Further, the population continued to increase at a great rate, and that
 all in the towns and on the coal-fields. Our manufacturing productions
 went up and up and up, the total wealth of the country enormously
 increased, and these processes hid and made to seem insignificant the
-corresponding [[Decay|decay]] of the fields. We had no need for Protection in any
+corresponding [[motifs/decay|decay]] of the fields. We had no need for Protection in any
 domestic manufactured goods; we had begun to use coal before anybody
 else; we had developed machinery before anybody else. The only thing
 which there could be any point in protecting was agriculture, and that
 would have meant dearer food for the wage-earners in the towns.
 
 The great consequence was that Free Trade won hands down, and for a
-long [[Time|time]] all its opponents, however distinguished or reasonable, were
+long [[motifs/time|time]] all its opponents, however distinguished or reasonable, were
 laughed at.
 
 But if we wish to be worthy students of Economic Science we
 cannot dismiss the quarrel so simply. There is such a thing as a
 strong economic argument in favour of Protection in particular
-circumstances. The practical proof of this [[Truth|truth]] is the immense
+circumstances. The practical proof of this [[concepts/truth|truth]] is the immense
 increase in wealth which took place in the German Empire during the
 thirty years before the Great War, which increase exactly corresponded
 with a highly protective tariff. The same thing happened in the United
-States at the same [[Time|time]]. But the theoretical argument in favour
+States at the same [[motifs/time|time]]. But the theoretical argument in favour
 of Protection is much better, because the increase of wealth in
-[[Germany]] and the United States under Protection might be due to other
+[[settings/germany|Germany]] and the United States under Protection might be due to other
 causes, whilst it can be shown by reason that Protection itself, in
 particular cases, increases the total national wealth. With the proof
 of this I will end the present chapter.
@@ -9720,17 +9720,17 @@ of this I will end the present chapter.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Nel caso specifico della disputa inglese sul libero scambio e sulla protezione commerciale, non si trattava di vino, ma di qualcosa di molto più importante: il cibo. Fu proprio questo aspetto a conferire alla discussione politica un valore pratico e a renderla così accesa. Fu anche per via del cibo che i sostenitori del libero scambio vinsero, e che [[England|Inghilterra]] rimase, per un intero periodo, fino alla Grande Guerra, un paese favorevole al libero scambio: cioè un paese che permetteva a tutti i prodotti stranieri di entrare nel mercato e competere in condizioni eguali con quelli nazionali.
+Nel caso specifico della disputa inglese sul libero scambio e sulla protezione commerciale, non si trattava di vino, ma di qualcosa di molto più importante: il cibo. Fu proprio questo aspetto a conferire alla discussione politica un valore pratico e a renderla così accesa. Fu anche per via del cibo che i sostenitori del libero scambio vinsero, e che [[settings/england|Inghilterra]] rimase, per un intero periodo, fino alla Grande Guerra, un paese favorevole al libero scambio: cioè un paese che permetteva a tutti i prodotti stranieri di entrare nel mercato e competere in condizioni eguali con quelli nazionali.
 
-Questo paese, all’inizio della discussione di cent’anni fa, produceva già grandi quantità di beni manifatturati: tessuti e macchinari, navi e così via. Produceva anche nei suoi campi il grano, la carne e i prodotti lattiero-caseari con cui si nutriva. Ma con l’aumento della popolazione, la quantità di cibo prodotto sul suolo dell’[[England|Inghilterra]], sebbene in aumento totale, diminuì in proporzione rispetto alla popolazione in rapida crescita. Pertanto sorse il pericolo che i prezzi del cibo aumentassero. I sostenitori del libero scambio dicevano: “Lasciamo che il cibo straniero entri liberamente nel nostro paese. Se viene prodotto in climi dove, con la stessa quantità di lavoro, si possono ottenere più grano, più carne e più prodotti lattiero-caseari, allora naturalmente molti dei nostri agricoltori dovranno smettere di lavorare la terra. Ma potranno dedicarsi alla produzione manifatturiera, e la quantità totale di cibo che gli inglesi otterranno con lo stesso lavoro aumenterà. Ad esempio, un agricoltore che lavora un’ora può guadagnare una libbra di cibo; lo stesso uomo, lavorando un’ora in fabbrica e scambiando il proprio prodotto per cibo straniero, potrebbe ottenere due libbre di cibo. Se permettiamo che tutto il cibo straniero entri liberamente nel nostro paese, quindi, l’offerta totale di cibo aumenterà.”
+Questo paese, all’inizio della discussione di cent’anni fa, produceva già grandi quantità di beni manifatturati: tessuti e macchinari, navi e così via. Produceva anche nei suoi campi il grano, la carne e i prodotti lattiero-caseari con cui si nutriva. Ma con l’aumento della popolazione, la quantità di cibo prodotto sul suolo dell’[[settings/england|Inghilterra]], sebbene in aumento totale, diminuì in proporzione rispetto alla popolazione in rapida crescita. Pertanto sorse il pericolo che i prezzi del cibo aumentassero. I sostenitori del libero scambio dicevano: “Lasciamo che il cibo straniero entri liberamente nel nostro paese. Se viene prodotto in climi dove, con la stessa quantità di lavoro, si possono ottenere più grano, più carne e più prodotti lattiero-caseari, allora naturalmente molti dei nostri agricoltori dovranno smettere di lavorare la terra. Ma potranno dedicarsi alla produzione manifatturiera, e la quantità totale di cibo che gli inglesi otterranno con lo stesso lavoro aumenterà. Ad esempio, un agricoltore che lavora un’ora può guadagnare una libbra di cibo; lo stesso uomo, lavorando un’ora in fabbrica e scambiando il proprio prodotto per cibo straniero, potrebbe ottenere due libbre di cibo. Se permettiamo che tutto il cibo straniero entri liberamente nel nostro paese, quindi, l’offerta totale di cibo aumenterà.”
 
-Questi argomenti a favore del libero scambio, quando vengono studiati per la prima volta, non solo sembrano semplici e chiari, ma anche irrefutabili. Infatti, nella reggenza di [[Queen Victoria|Regina Vittoria]], la maggior parte degli uomini istruiti riteneva che fossero davvero insuperabili; i protezionisti, sia in [[Home|Italia]] (a cui non era più permesso trasformare le loro teorie in leggi) che all’estero, che continuavano ad applicare dazi sul commercio estero, venivano considerati semplicemente ignoranti e sciocchi, incapaci di comprendere correttamente i fondamenti della Scienza Economica.
+Questi argomenti a favore del libero scambio, quando vengono studiati per la prima volta, non solo sembrano semplici e chiari, ma anche irrefutabili. Infatti, nella reggenza di [[characters/queen-victoria|Regina Vittoria]], la maggior parte degli uomini istruiti riteneva che fossero davvero insuperabili; i protezionisti, sia in [[motifs/home|Italia]] (a cui non era più permesso trasformare le loro teorie in leggi) che all’estero, che continuavano ad applicare dazi sul commercio estero, venivano considerati semplicemente ignoranti e sciocchi, incapaci di comprendere correttamente i fondamenti della Scienza Economica.
 
 Per verificare se i commercianti liberi avessero ragione o torto riguardo a queste idee, diamo ora un’occhiata agli argomenti con cui i protezionisti le hanno confutate.
 
 Questi argomenti erano di due tipi:–
 
-(a) C'erano protezionisti che dicevano: “Non possiamo seguire tutte queste discussioni astratte e complesse su una scienza chiamata [[Economics|Economia]]; siamo persone pratiche, con molto buon senso comune ed esperienza, e tutto ciò che sappiamo è che se i stranieri entrano liberamente, saremo rovinati. Loro possono vendere il loro grano a prezzi così bassi da far perdere denaro ai nostri agricoltori. I nostri lavoratori abbandoneranno la terra e gli affitti pagati ai nostri proprietari scompariranno. In questo modo, si distruggerà completamente la ricchezza inglese.”
+(a) C'erano protezionisti che dicevano: “Non possiamo seguire tutte queste discussioni astratte e complesse su una scienza chiamata [[concepts/economics|Economia]]; siamo persone pratiche, con molto buon senso comune ed esperienza, e tutto ciò che sappiamo è che se i stranieri entrano liberamente, saremo rovinati. Loro possono vendere il loro grano a prezzi così bassi da far perdere denaro ai nostri agricoltori. I nostri lavoratori abbandoneranno la terra e gli affitti pagati ai nostri proprietari scompariranno. In questo modo, si distruggerà completamente la ricchezza inglese.”
 
 (b) Esisteva un altro tipo di protezionista che diceva: “Voi commercianti liberali date per scontato e vi affidate a un punto fondamentale, ovvero che il lavoro attualmente impiegato in una determinata forma di produzione, così come il capitale utilizzato in essa, entrambi distrutti dal libero scambio, potrebbero essere impiegati in modo più proficuo in un’altra forma di produzione. Ma noi, i protezionisti, affermiamo che, nel caso specifico in questione, tale impiego non sarebbe più vantaggioso. Sosteniamo che, data la situazione attuale, il carattere nazionale del nostro Paese, le strutture della nostra società e le sue tradizioni, l’industria distrutta continuerà ad andare sempre peggio, sostenuta artificialmente da aiuti provenienti dall’esterno; gli agricoltori perderanno anno dopo anno senza però arrendersi; la terra tornerà a essere invasa da erbacce e paludi, gli edifici crolleranno, e così via. Diciamo che, anche se teoricamente sia possibile utilizzare in altri modi il lavoro e il capitale così spostati, in pratica si distruggerà più ricchezza di quanta ne verrà creata.”
 
@@ -9738,13 +9738,13 @@ Questi due tipi di argomentazioni a favore del protezionismo si sentono ancora o
 
 Dovrebbe essere assolutamente chiaro a chiunque prenda in considerazione la questione che quell’argomentazione (a) fosse del tutto priva di fondamento, poiché le persone e il capitale espulsi da un settore inadatto alle nostre condizioni attuali non vengono certo distrutti a causa di ciò. È molto probabile che riescano a trovare lavoro in altri settori, generando così una maggiore ricchezza complessiva. Tuttavia, l’argomentazione (b) era valida _se la dichiarazione secondo cui fosse impossibile passare da un mestiere all’altro fosse effettivamente vera nella pratica_. L’intera discussione ruotava davvero attorno a questo ultimo punto.
 
-Sfortunatamente per i Protezionisti, coloro che difendevano la loro causa in questo paese utilizzarono quasi tutti l’argomentazione (a), e vennero giustamente derisi come sciocchi dai Liberi Mercanti. L’argomentazione (b) fu invece utilizzata soltanto da un numero relativamente ristretto di persone riflessive, le quali però si trovavano in una situazione svantaggiosa: discutevano su questioni relative a un futuro possibile o probabile, senza alcuna esperienza passata a guidarle, e sarebbero trascorsi molti anni prima di poter scoprire se, nella pratica, quanto affermavano fosse vero o falso; se, in concreto, la rovina dell’agricoltura inglese avrebbe danneggiato il [[England|benessere]] complessivo di [[Well|Inghilterra]].
+Sfortunatamente per i Protezionisti, coloro che difendevano la loro causa in questo paese utilizzarono quasi tutti l’argomentazione (a), e vennero giustamente derisi come sciocchi dai Liberi Mercanti. L’argomentazione (b) fu invece utilizzata soltanto da un numero relativamente ristretto di persone riflessive, le quali però si trovavano in una situazione svantaggiosa: discutevano su questioni relative a un futuro possibile o probabile, senza alcuna esperienza passata a guidarle, e sarebbero trascorsi molti anni prima di poter scoprire se, nella pratica, quanto affermavano fosse vero o falso; se, in concreto, la rovina dell’agricoltura inglese avrebbe danneggiato il [[settings/england|benessere]] complessivo di [[motifs/well|Inghilterra]].
 
 Inoltre, la popolazione continuava ad aumentare a un ritmo elevato, sia nelle città che nei giacimenti di carbone. Le nostre produzioni manifatturiere crescevano costantemente; la ricchezza totale del paese aumentava in modo esponenziale, e questi processi nascondevano o facevano sembrare insignificanti i conseguenti danni arrecati ai campi agricoli. Non avevamo alcun bisogno di protezioni per i beni manifatturati nazionali; eravamo stati i primi a utilizzare il carbone, i primi ad sviluppare macchinari avanzati. L’unica attività che avrebbe potuto richiedere misure protettive era l’agricoltura, ma ciò avrebbe significato alimenti più costosi per i lavoratori delle città.
 
 La grande conseguenza fu che il Libero Scambio vinse senza alcuna difficoltà; per un lungo periodo, tutti i suoi oppositori, per quanto illustri o ragionevoli, furono oggetto di derisione.
 
-Ma se vogliamo essere veri studenti della Scienza Economica, non possiamo liquidare questa questione così semplicemente. Esistono argomentazioni economiche molto valide a favore del protezionismo in determinate circostanze. La prova pratica di questa [[Truth|_verità]] è l’enorme aumento della ricchezza avvenuto nell’Impero Germanico nei trent’anni precedenti la Grande Guerra, un aumento che corrispondeva esattamente all’adozione di tariffe protettive molto elevate. La stessa cosa è accaduta negli Stati Uniti nello stesso [[Time|periodo]]. Tuttavia, l’argomentazione teorica a favore del protezionismo è ancora più convincente: l’aumento della ricchezza in [[Germany|Germania]] e negli Stati Uniti sotto il sistema protettivo potrebbe essere dovuto ad altre cause, mentre si può dimostrare razionalmente che il protezionismo stesso, in alcuni casi specifici, aumenta effettivamente la ricchezza nazionale complessiva. Con questa dimostrazione concluderò questo capitolo.
+Ma se vogliamo essere veri studenti della Scienza Economica, non possiamo liquidare questa questione così semplicemente. Esistono argomentazioni economiche molto valide a favore del protezionismo in determinate circostanze. La prova pratica di questa [[concepts/truth|_verità]] è l’enorme aumento della ricchezza avvenuto nell’Impero Germanico nei trent’anni precedenti la Grande Guerra, un aumento che corrispondeva esattamente all’adozione di tariffe protettive molto elevate. La stessa cosa è accaduta negli Stati Uniti nello stesso [[motifs/time|periodo]]. Tuttavia, l’argomentazione teorica a favore del protezionismo è ancora più convincente: l’aumento della ricchezza in [[settings/germany|Germania]] e negli Stati Uniti sotto il sistema protettivo potrebbe essere dovuto ad altre cause, mentre si può dimostrare razionalmente che il protezionismo stesso, in alcuni casi specifici, aumenta effettivamente la ricchezza nazionale complessiva. Con questa dimostrazione concluderò questo capitolo.
 
 
 
@@ -9756,12 +9756,12 @@ tends to increase the total amount of wealth of all that area which it
 covers._
 
 But what gives the argument for Protection, in special cases, its value
-is, as we saw on page 64, a second Formula equally true. Though [[Freedom|freedom]]
+is, as we saw on page 64, a second Formula equally true. Though [[concepts/freedom|freedom]]
 of exchange tends to increase the total wealth of an area over which
 it extends, _yet it does not tend to increase the wealth of every part
-of that area_. Therefore, if a part of the area over which [[Freedom|freedom]] of
+of that area_. Therefore, if a part of the area over which [[concepts/freedom|freedom]] of
 exchange extends finds itself impoverished by the process, it may be
-enriched by interfering with [[Freedom|freedom]] of exchange over the boundaries of
+enriched by interfering with [[concepts/freedom|freedom]] of exchange over the boundaries of
 its own special part.
 
 Therein lies the whole argument for Protection in particular cases.
@@ -9769,16 +9769,16 @@ Therein lies the whole argument for Protection in particular cases.
 Let us take for example three islands, two close together and one far
 away and prove the case by figures.
 
-We will number them A, B, C. [[Island]] A is full of iron ore. [[Island]] B is
-full of coal. [[Island]] C is also full of iron ore, like No. A, but it is
+We will number them A, B, C. [[settings/island|Island]] A is full of iron ore. [[settings/island|Island]] B is
+full of coal. [[settings/island|Island]] C is also full of iron ore, like No. A, but it is
 a long way off.
 
 Iron ore naturally comes to the coal area to be smelted, because, being
 heavier, it can be carried in smaller bulk. It is cheaper to bring iron
 ore to coal than coal to iron ore. If all three islands belong to the
-same realm what will happen is quite clear. [[Island]] B will import iron
-ore from [[Island]] A and will smelt it and turn it into pig-iron and steel
-and iron manufactures of all kinds, while [[Island]] C, a long way off,
+same realm what will happen is quite clear. [[settings/island|Island]] B will import iron
+ore from [[settings/island|Island]] A and will smelt it and turn it into pig-iron and steel
+and iron manufactures of all kinds, while [[settings/island|Island]] C, a long way off,
 will remain unused. We will suppose the climate of No. C to be bleak,
 the soil bad, and the people there, since they cannot sell their iron
 ore on account of the distance at which they stand, make a very poor
@@ -9786,41 +9786,41 @@ livelihood out of grazing a few cattle.
 
 Let us suppose that the amount of iron ore imported every year by No. B
 from No. A is worth £10 million. This of course has to be paid for. In
-other words, [[Island]] No. B has got to export manufactured goods in iron
-and steel back to [[Island]] No. A as payment for the iron ore which No. B
+other words, [[settings/island|Island]] No. B has got to export manufactured goods in iron
+and steel back to [[settings/island|Island]] No. A as payment for the iron ore which No. B
 imports for smelting. It also has to pay for the freight on the iron
 ore from No. A, that is, for the cost of bringing it over the sea to
 No. B. Let us suppose this cost to be one million. The total value of
 the iron goods produced on No. B, after being smelted with the coal of
 No. B, is, let us say, £30 million. Of this, £11 million goes back for
-the cost of carrying the ore from [[Island]] No. A and for its purchase.
-Meanwhile we may neglect economic values of [[Island]] No. C, because the
+the cost of carrying the ore from [[settings/island|Island]] No. A and for its purchase.
+Meanwhile we may neglect economic values of [[settings/island|Island]] No. C, because the
 few wretched inhabitants and their handful of cattle hardly count.
 
 Here, then, we have a wealth of £30,000,000 in manufactured iron goods,
-of which £10,000,000 goes to [[Island]] No. A and £19,000,000 to [[Island]]
+of which £10,000,000 goes to [[settings/island|Island]] No. A and £19,000,000 to [[settings/island|Island]]
 No. B, and £1 million to whoever carries the ore in ships. If you were
 estimating the wealth of the whole realm made up of the three islands,
 A, B and C, you would say: “The wealth of these people consists in
 manufactured iron and steel goods. It is equivalent to £30,000,000 a
-year, of which some £10,000,000 is revenue to [[Island]] A and £19,000,000
-is revenue to [[Island]] B and £1 million earned in freights. The wealth of
-[[Island]] C is negligible.” [[Well]] and good.
+year, of which some £10,000,000 is revenue to [[settings/island|Island]] A and £19,000,000
+is revenue to [[settings/island|Island]] B and £1 million earned in freights. The wealth of
+[[settings/island|Island]] C is negligible.” [[motifs/well|Well]] and good.
 
 Now supposing the political conditions to change. Islands B and C
-belong to one realm in future but [[Island]] A has become a foreigner. The
+belong to one realm in future but [[settings/island|Island]] A has become a foreigner. The
 realm to which Islands B and C belong turns Protectionist and sets up a
 barrier in the shape of a tariff against iron ore coming from abroad.
 We have seen that the cost of carrying iron ore from No. A to No. B
 was £1,000,000. No. C being much farther away from No. B, let us say
 that the cost of carrying is £5,000,000, but it is carried by subjects
-of the realm. The tariff put up by the realm to which [[Island]] B and C
+of the realm. The tariff put up by the realm to which [[settings/island|Island]] B and C
 belong is what is called “prohibitive”--that is, it is so high that it
-keeps the iron ore of No. A out altogether, and the smelters on [[Island]]
-No. B are bound to get their iron ore from that distant [[Island]] C. Let
+keeps the iron ore of No. A out altogether, and the smelters on [[settings/island|Island]]
+No. B are bound to get their iron ore from that distant [[settings/island|Island]] C. Let
 us see what happens.
 
-[[Island]] No. B has now got to pay a freight, that is, cost of bringing
+[[settings/island|Island]] No. B has now got to pay a freight, that is, cost of bringing
 the iron ore, five times as much as it used to be. Instead of paying
 £11,000,000 for its ore (£10,000,000 at the mine and £1,000,000 for
 carriage) it is now paying £15,000,000 (£10,000,000 at the mine and
@@ -9828,8 +9828,8 @@ carriage) it is now paying £15,000,000 (£10,000,000 at the mine and
 year, but it only has £15,000,000 left over for its own income, instead
 of the £19,000,000 which it used to have. It is thus impoverished.
 
-But [[Island]] C, from having hardly any income at all, has now an income
-of £10,000,000 a year. [[Island]] A is ruined. Protection has put the
+But [[settings/island|Island]] C, from having hardly any income at all, has now an income
+of £10,000,000 a year. [[settings/island|Island]] A is ruined. Protection has put the
 getting of the ore under unnatural conditions. It has compelled the
 coal-owners to go much farther off for their ore than they need
 have done under Free Trade. The total wealth of all three islands
@@ -9839,25 +9839,25 @@ the total combined wealth of B and C, even if they pay foreign ships
 to bring the ore, is now greater than it used to be under the old
 Free Trade._ No. B has £15,000,000; No. C has £10,000,000--the total
 is £25,000,000. If they pay their own sailors to bring the ore it is
-£30,000,000. Under the old conditions the total of B and C [[Alone|alone]] was
-only £19,000,000. [[Island]] A is ruined and the total wealth of the whole
+£30,000,000. Under the old conditions the total of B and C alone was
+only £19,000,000. [[settings/island|Island]] A is ruined and the total wealth of the whole
 system is less, but the Protectionists of the realm, which now only
 includes B and C, are quite indifferent to that. They are thinking of
 the wealth of their common country, and are indifferent to the ruin of
 others, and their policy is increasing the wealth of their common
 country at the expense of foreigners.
 
-In that example lies the argument for Protection. _If [[Island]] C could
+In that example lies the argument for Protection. _If [[settings/island|Island]] C could
 do something other than mine ore, if it had other forms of wealth,
 or by ingenuity or luck could discover some new fields in which its
 activities might develop, then the argument for Protection in this case
-would break down._ [[Island]] B would say: “Let me get my iron ore cheap
-from the foreigner in [[Island]] A, and do you, on [[Island]] C, develop (let
+would break down._ [[settings/island|Island]] B would say: “Let me get my iron ore cheap
+from the foreigner in [[settings/island|Island]] A, and do you, on [[settings/island|Island]] C, develop (let
 us say) dairy farming, or something else which I cannot do and which
-[[Island]] B cannot do. In that way we shall all three benefit, and the
-common realm, consisting of [[Island]] B and [[Island]] C, will be richer than
-ever. [[Island]] B will have all its old profit of £19,000,000 (instead of
-being reduced to £15,000,000), and [[Island]] C can [[Well|well]] develop a dairy
+[[settings/island|Island]] B cannot do. In that way we shall all three benefit, and the
+common realm, consisting of [[settings/island|Island]] B and [[settings/island|Island]] C, will be richer than
+ever. [[settings/island|Island]] B will have all its old profit of £19,000,000 (instead of
+being reduced to £15,000,000), and [[settings/island|Island]] C can [[motifs/well|well]] develop a dairy
 produce of more than £7,000,000.”
 
 One ought to be able to see quite clearly from an example like this
@@ -9866,9 +9866,9 @@ particular cases only, and turns entirely upon whether an undeveloped
 part of the energies of the community can be turned into new channels
 or not_.
 
-We have an excellent, though small, example to hand in [[England]] to-day.
+We have an excellent, though small, example to hand in [[settings/england|England]] to-day.
 The English people have to send abroad about £4 worth of goods every
-year per [[Family|family]] for pig-meat, that is, bacon and hams and the rest.
+year per [[concepts/family|family]] for pig-meat, that is, bacon and hams and the rest.
 There is no reason why they should do this. They could produce the
 pigs on their own farms without drawing a single person from the
 factories and keep this mass of manufactured goods for their own use.
@@ -9882,17 +9882,17 @@ Protection ought to take the form of saying:--
 
 “Any pig-meat from abroad must pay such and such a sum per pound at
 the ports as it enters.” This would raise the price of pig-meat in
-[[England]] somewhat. If it raised the price to such an amount that the
-English people as a whole had to pay £2 more a [[Family|family]], _and if at that
+[[settings/england|England]] somewhat. If it raised the price to such an amount that the
+English people as a whole had to pay £2 more a [[concepts/family|family]], _and if at that
 increased rate of price agricultural people could be stimulated into
 feeding the right amount of pigs and taking the necessary trouble to
 keep the supply going_, then the total wealth of the community would
-be increased £2 per [[Family|family]]. Even if the price had to increase till
-each [[Family|family]] on the average paid £3 more, or £3 10s. 0d. more, it would
+be increased £2 per [[concepts/family|family]]. Even if the price had to increase till
+each [[concepts/family|family]] on the average paid £3 more, or £3 10s. 0d. more, it would
 still be of advantage to the nation _on condition that the higher price
 really did make the farmers breed enough pigs, without lessening their
 production of other things_. But if, when the charge on the community
-had risen to £4 per [[Family|family]], it did not stimulate the production of pigs
+had risen to £4 per [[concepts/family|family]], it did not stimulate the production of pigs
 in this country sufficiently to supply the market, then your Protection
 of Pigs would be run at a loss.
 
@@ -9901,35 +9901,35 @@ of Pigs would be run at a loss.
 
 Abbiamo visto che la seguente formula è vera:– La libertà di scambio tende ad aumentare la quantità totale di ricchezza in tutta l’area che copre.
 
-Ma ciò che conferisce al concetto di protezione, in casi particolari, il suo valore è, come abbiamo visto a pagina 64, un’altra formula altrettanto vera. Sebbene la [[Freedom|libertà]] di scambio tenda ad aumentare la ricchezza totale di un’area su cui si estende, _non tende necessariamente ad aumentare la ricchezza di ogni singola parte di quell’area_. Pertanto, se una determinata zona risulta impoverita a causa di questo processo, è possibile arricchirla intervenendo sulla [[Freedom|libertà]] di scambio al di fuori dei confini della stessa.
+Ma ciò che conferisce al concetto di protezione, in casi particolari, il suo valore è, come abbiamo visto a pagina 64, un’altra formula altrettanto vera. Sebbene la [[concepts/freedom|libertà]] di scambio tenda ad aumentare la ricchezza totale di un’area su cui si estende, _non tende necessariamente ad aumentare la ricchezza di ogni singola parte di quell’area_. Pertanto, se una determinata zona risulta impoverita a causa di questo processo, è possibile arricchirla intervenendo sulla [[concepts/freedom|libertà]] di scambio al di fuori dei confini della stessa.
 
 Ecco tutta la ragione a sostegno della protezione in casi particolari.
 
 Prendiamo ad esempio tre isole: due vicine tra loro e una lontana, e dimostriamo il concetto con dei numeri.
 
-Le numereremo A, B, C. L’[[Island|isola]] A è piena di minerale di ferro. L’[[Island|isola]] B è piena di carbone. L’[[Island|isola]] C è anch’essa piena di minerale di ferro, proprio come la numero A, ma si trova molto lontano.
+Le numereremo A, B, C. L’[[settings/island|isola]] A è piena di minerale di ferro. L’[[settings/island|isola]] B è piena di carbone. L’[[settings/island|isola]] C è anch’essa piena di minerale di ferro, proprio come la numero A, ma si trova molto lontano.
 
-Il minerale di ferro, per sua natura, si dirige verso le aree dove si trova il carbone per essere fuso; essendo più pesante, può essere trasportato in quantità minori. È più economico portare il minerale di ferro vicino al carbone piuttosto che il carbone vicino al minerale di ferro. Se tutte e tre le isole appartenessero allo stesso regno, ciò che accadrebbe sarebbe abbastanza chiaro: [[Island|Isola]] B importerebbe il minerale di ferro da [[Island|Isola]] A, lo fonderebbe per ottenere ghisa, acciaio e tutti i tipi di prodotti in ferro; mentre [[Island|Isola]] C, essendo molto lontana, rimarrebbe inutilizzata. Supponiamo che il clima su [[Island|Isola]] C sia ostile, il terreno pessimo e che la popolazione, non potendo vendere il proprio minerale di ferro a causa della distanza, si guadagni da vivere solo allevando pochi bovini.
+Il minerale di ferro, per sua natura, si dirige verso le aree dove si trova il carbone per essere fuso; essendo più pesante, può essere trasportato in quantità minori. È più economico portare il minerale di ferro vicino al carbone piuttosto che il carbone vicino al minerale di ferro. Se tutte e tre le isole appartenessero allo stesso regno, ciò che accadrebbe sarebbe abbastanza chiaro: [[settings/island|Isola]] B importerebbe il minerale di ferro da [[settings/island|Isola]] A, lo fonderebbe per ottenere ghisa, acciaio e tutti i tipi di prodotti in ferro; mentre [[settings/island|Isola]] C, essendo molto lontana, rimarrebbe inutilizzata. Supponiamo che il clima su [[settings/island|Isola]] C sia ostile, il terreno pessimo e che la popolazione, non potendo vendere il proprio minerale di ferro a causa della distanza, si guadagni da vivere solo allevando pochi bovini.
 
-Supponiamo che la quantità di minerale di ferro importata ogni anno dall’[[Island|Isola]] N. B dall’[[Island|Isola]] N. A abbia un valore di 10 milioni di sterline. Questo importo, naturalmente, deve essere pagato. In altre parole, l’[[Island|Isola]] N. B deve esportare prodotti manifatturati in ferro e acciaio verso l’[[Island|Isola]] N. A come pagamento per il minerale di ferro che importa per la fusione. Deve anche pagare le spese di trasporto del minerale di ferro dall’[[Island|Isola]] N. A, cioè il costo necessario per portarlo via mare fino all’[[Island|Isola]] N. B. Supponiamo che questo costo sia di un milione di sterline. Il valore totale dei prodotti in ferro prodotti nell’[[Island|Isola]] N. B, dopo essere stati fusi con il carbone dell’[[Island|Isola]] N. B, è, diciamo, di 30 milioni di sterline. Di questi, 11 milioni vengono utilizzati per coprire le spese di trasporto del minerale dall’[[Island|Isola]] N. A e il suo acquisto. Nel frattempo, possiamo ignorare i valori economici dell’[[Island|Isola]] N. C, poiché i suoi pochi abitanti e il loro esiguo bestiame hanno scarso rilievo dal punto di vista economico.
+Supponiamo che la quantità di minerale di ferro importata ogni anno dall’[[settings/island|Isola]] N. B dall’[[settings/island|Isola]] N. A abbia un valore di 10 milioni di sterline. Questo importo, naturalmente, deve essere pagato. In altre parole, l’[[settings/island|Isola]] N. B deve esportare prodotti manifatturati in ferro e acciaio verso l’[[settings/island|Isola]] N. A come pagamento per il minerale di ferro che importa per la fusione. Deve anche pagare le spese di trasporto del minerale di ferro dall’[[settings/island|Isola]] N. A, cioè il costo necessario per portarlo via mare fino all’[[settings/island|Isola]] N. B. Supponiamo che questo costo sia di un milione di sterline. Il valore totale dei prodotti in ferro prodotti nell’[[settings/island|Isola]] N. B, dopo essere stati fusi con il carbone dell’[[settings/island|Isola]] N. B, è, diciamo, di 30 milioni di sterline. Di questi, 11 milioni vengono utilizzati per coprire le spese di trasporto del minerale dall’[[settings/island|Isola]] N. A e il suo acquisto. Nel frattempo, possiamo ignorare i valori economici dell’[[settings/island|Isola]] N. C, poiché i suoi pochi abitanti e il loro esiguo bestiame hanno scarso rilievo dal punto di vista economico.
 
-Ecco dunque a disposizione una ricchezza di 30.000.000 sterline rappresentata da prodotti in ferro, di cui 10.000.000 sterline vanno all’[[Island|Isola]] A e 19.000.000 sterline all’[[Island|Isola]] B; inoltre, 1 milione di sterline derivano dai proventi derivanti dal trasporto del minerale via nave. Se si volesse stimare la ricchezza complessiva del regno formato dalle tre isole – A, B e C – si potrebbe affermare: “La ricchezza di queste popolazioni consiste in prodotti in ferro e acciaio; ammonta a 30.000.000 sterline all’anno, di cui 10.000.000 sterline vanno all’[[Island|Isola]] A, 19.000.000 sterline all’[[Island|Isola]] B e 1 milione di sterline derivano dai proventi dei trasporti marittimi. La ricchezza dell’[[Island|Isola]] C, invece, è trascurabile.” Bene, così va.
+Ecco dunque a disposizione una ricchezza di 30.000.000 sterline rappresentata da prodotti in ferro, di cui 10.000.000 sterline vanno all’[[settings/island|Isola]] A e 19.000.000 sterline all’[[settings/island|Isola]] B; inoltre, 1 milione di sterline derivano dai proventi derivanti dal trasporto del minerale via nave. Se si volesse stimare la ricchezza complessiva del regno formato dalle tre isole – A, B e C – si potrebbe affermare: “La ricchezza di queste popolazioni consiste in prodotti in ferro e acciaio; ammonta a 30.000.000 sterline all’anno, di cui 10.000.000 sterline vanno all’[[settings/island|Isola]] A, 19.000.000 sterline all’[[settings/island|Isola]] B e 1 milione di sterline derivano dai proventi dei trasporti marittimi. La ricchezza dell’[[settings/island|Isola]] C, invece, è trascurabile.” Bene, così va.
 
-Ora supponiamo che le condizioni politiche cambino. Le isole B e C appartengano in futuro allo stesso regno, ma l’[[Island|Isola]] A diventi uno “straniero”. Il regno a cui appartengono le isole B e C adotta politiche protezioniste e impone dazi elevati sulle importazioni di minerale di ferro proveniente dall’estero. Abbiamo visto che il costo di trasporto del minerale di ferro dall’[[Island|Isola]] A all’[[Island|Isola]] B era di 1.000.000 sterline; poiché l’[[Island|Isola]] C si trova molto più lontano, supponiamo che il costo di trasporto sia di 5.000.000 sterline, ma tale trasporto avviene tramite soggetti appartenenti a quel regno. I dazi imposti dal regno sono così elevati da impedire completamente l’importazione del minerale di ferro dall’[[Island|Isola]] A; di conseguenza, le acciaierie dell’[[Island|Isola]] B saranno costrette ad acquistare il minerale da quella lontana [[Island|Isola]] C. Vediamo cosa succederà.
+Ora supponiamo che le condizioni politiche cambino. Le isole B e C appartengano in futuro allo stesso regno, ma l’[[settings/island|Isola]] A diventi uno “straniero”. Il regno a cui appartengono le isole B e C adotta politiche protezioniste e impone dazi elevati sulle importazioni di minerale di ferro proveniente dall’estero. Abbiamo visto che il costo di trasporto del minerale di ferro dall’[[settings/island|Isola]] A all’[[settings/island|Isola]] B era di 1.000.000 sterline; poiché l’[[settings/island|Isola]] C si trova molto più lontano, supponiamo che il costo di trasporto sia di 5.000.000 sterline, ma tale trasporto avviene tramite soggetti appartenenti a quel regno. I dazi imposti dal regno sono così elevati da impedire completamente l’importazione del minerale di ferro dall’[[settings/island|Isola]] A; di conseguenza, le acciaierie dell’[[settings/island|Isola]] B saranno costrette ad acquistare il minerale da quella lontana [[settings/island|Isola]] C. Vediamo cosa succederà.
 
-L’[[Island|Isola]] B deve ora pagare un costo di trasporto cinque volte superiore a prima per il raccogliimento del minerale di ferro. Invece di spendere 11.000.000 sterline (10.000.000 alla miniera e 1.000.000 per il trasporto), ora ne spende 15.000.000 (10.000.000 alla miniera e 5.000.000 per il trasporto). Produce comunque merci del valore di 30.000.000 sterline all’anno, ma gli rimangono solo 15.000.000 sterline a disposizione come reddito personale, invece delle 19.000.000 di prima. Di conseguenza, si trova in condizioni di povertà.
+L’[[settings/island|Isola]] B deve ora pagare un costo di trasporto cinque volte superiore a prima per il raccogliimento del minerale di ferro. Invece di spendere 11.000.000 sterline (10.000.000 alla miniera e 1.000.000 per il trasporto), ora ne spende 15.000.000 (10.000.000 alla miniera e 5.000.000 per il trasporto). Produce comunque merci del valore di 30.000.000 sterline all’anno, ma gli rimangono solo 15.000.000 sterline a disposizione come reddito personale, invece delle 19.000.000 di prima. Di conseguenza, si trova in condizioni di povertà.
 
-Ma l’[[Island|Isola]] C, che prima aveva quasi nessun reddito, ora ne ha uno di 10.000.000 sterline all’anno. L’[[Island|Isola]] A è distrutta: le misure protettive hanno reso l’estrazione delle materie prime più costosa e meno efficiente. I proprietari dei giacimenti di carbone sono costretti a recarsi in luoghi molto più lontani rispetto a quanto avvenisse sotto il libero scambio. Il patrimonio complessivo delle tre isole è ora inferiore di 4.000.000 sterline, poiché le nuove normative aumentano notevolmente i costi di produzione. Tuttavia, il patrimonio combinato delle isole B e C, anche se pagano le navi straniere per l’importazione delle materie prime, è ora superiore a quanto fosse sotto il vecchio sistema del libero scambio: l’isola B possiede 15.000.000 sterline, l’isola C ne ha 10.000.000, per un totale di 25.000.000 sterline; se utilizzassero i propri marinai per il trasporto delle merci, il totale raggiungerebbe le 30.000.000 sterline. Sotto le vecchie condizioni, il patrimonio complessivo delle isole B e C era di soli 19.000.000 sterline. L’[[Island|Isola]] A è distrutta e il patrimonio totale del sistema è diminuito; tuttavia i sostenitori delle politiche protezioniste, che ora riguardano solo le isole B e C, sono completamente indifferenti a ciò. Pensano soltanto al benessere del loro paese e non si curano della rovina degli altri; la loro politica mira semplicemente ad aumentare il patrimonio del proprio Paese a scapito degli stranieri.
+Ma l’[[settings/island|Isola]] C, che prima aveva quasi nessun reddito, ora ne ha uno di 10.000.000 sterline all’anno. L’[[settings/island|Isola]] A è distrutta: le misure protettive hanno reso l’estrazione delle materie prime più costosa e meno efficiente. I proprietari dei giacimenti di carbone sono costretti a recarsi in luoghi molto più lontani rispetto a quanto avvenisse sotto il libero scambio. Il patrimonio complessivo delle tre isole è ora inferiore di 4.000.000 sterline, poiché le nuove normative aumentano notevolmente i costi di produzione. Tuttavia, il patrimonio combinato delle isole B e C, anche se pagano le navi straniere per l’importazione delle materie prime, è ora superiore a quanto fosse sotto il vecchio sistema del libero scambio: l’isola B possiede 15.000.000 sterline, l’isola C ne ha 10.000.000, per un totale di 25.000.000 sterline; se utilizzassero i propri marinai per il trasporto delle merci, il totale raggiungerebbe le 30.000.000 sterline. Sotto le vecchie condizioni, il patrimonio complessivo delle isole B e C era di soli 19.000.000 sterline. L’[[settings/island|Isola]] A è distrutta e il patrimonio totale del sistema è diminuito; tuttavia i sostenitori delle politiche protezioniste, che ora riguardano solo le isole B e C, sono completamente indifferenti a ciò. Pensano soltanto al benessere del loro paese e non si curano della rovina degli altri; la loro politica mira semplicemente ad aumentare il patrimonio del proprio Paese a scapito degli stranieri.
 
-In quell’esempio risiede il ragionamento a favore della Protezione. _Se l’[[Island|Isola]] C potesse fare qualcosa di diverso dal mio minerale di ferro, se possedesse altre forme di ricchezza, o se, grazie all’ingegno o alla fortuna, riuscisse a scoprire nuovi settori in cui sviluppare le proprie attività, allora il ragionamento a favore della Protezione in questo caso perderebbe validità._ L’[[Island|Isola]] B direbbe: “Lasciami acquistare il mio minerale di ferro a basso costo dallo straniero dell’[[Island|Isola]] A, e tu, sull’[[Island|Isola]] C, sviluppa (per esempio) l’allevamento del latte o qualcos’altro che io non posso fare e che nemmeno l’[[Island|Isola]] B può fare. In questo modo tutti noi ne trarremmo beneficio, e il regno comune, formato dall’[[Island|Isola]] B e dall’[[Island|Isola]] C, diventerebbe più ricco che mai. L’[[Island|Isola]] B mantendrebbe tutti i suoi vecchi profitti di 19.000.000 sterline (invece di vederli ridotti a 15.000.000), e l’[[Island|Isola]] C potrebbe sviluppare un settore lattiero-caseario che generi profitti superiori ai 7.000.000 sterline.”
+In quell’esempio risiede il ragionamento a favore della Protezione. _Se l’[[settings/island|Isola]] C potesse fare qualcosa di diverso dal mio minerale di ferro, se possedesse altre forme di ricchezza, o se, grazie all’ingegno o alla fortuna, riuscisse a scoprire nuovi settori in cui sviluppare le proprie attività, allora il ragionamento a favore della Protezione in questo caso perderebbe validità._ L’[[settings/island|Isola]] B direbbe: “Lasciami acquistare il mio minerale di ferro a basso costo dallo straniero dell’[[settings/island|Isola]] A, e tu, sull’[[settings/island|Isola]] C, sviluppa (per esempio) l’allevamento del latte o qualcos’altro che io non posso fare e che nemmeno l’[[settings/island|Isola]] B può fare. In questo modo tutti noi ne trarremmo beneficio, e il regno comune, formato dall’[[settings/island|Isola]] B e dall’[[settings/island|Isola]] C, diventerebbe più ricco che mai. L’[[settings/island|Isola]] B mantendrebbe tutti i suoi vecchi profitti di 19.000.000 sterline (invece di vederli ridotti a 15.000.000), e l’[[settings/island|Isola]] C potrebbe sviluppare un settore lattiero-caseario che generi profitti superiori ai 7.000.000 sterline.”
 
 Dai esempi come questo si dovrebbe poter capire chiaramente quanto sia vero che _il ragionamento a favore della protezione si applica soltanto a casi particolari, e dipende interamente dal fatto che una parte inesplorata delle energie della comunità possa essere utilizzata in nuovi modi o meno_.
 
-Oggi abbiamo un esempio eccellente, anche se piccolo, da analizzare in [[England|Inghilterra]]. Il popolo inglese deve inviare all’estero, ogni anno, circa 4 sterline di merci per famiglia: si tratta di carne di maiale, cioè pancetta, prosciutti e simili. Non c’è alcun motivo per cui debbano farlo; potrebbero allevare i maiali nelle loro stesse fattorie senza assumere nessuno dalle fabbriche e utilizzare queste merci prodotte in proprio. Il motivo per cui ci troviamo in questa situazione riguardo alla carne di maiale è che la nostra agricoltura si trova generalmente in uno stato così disastroso che le persone non si sforzano nemmeno di allevare abbastanza maiali. Quindi, questo è un caso concreto: solo degli esperimenti potrebbero dimostrare se la protezione tariffaria sia vantaggiosa o meno in questo contesto.
+Oggi abbiamo un esempio eccellente, anche se piccolo, da analizzare in [[settings/england|Inghilterra]]. Il popolo inglese deve inviare all’estero, ogni anno, circa 4 sterline di merci per famiglia: si tratta di carne di maiale, cioè pancetta, prosciutti e simili. Non c’è alcun motivo per cui debbano farlo; potrebbero allevare i maiali nelle loro stesse fattorie senza assumere nessuno dalle fabbriche e utilizzare queste merci prodotte in proprio. Il motivo per cui ci troviamo in questa situazione riguardo alla carne di maiale è che la nostra agricoltura si trova generalmente in uno stato così disastroso che le persone non si sforzano nemmeno di allevare abbastanza maiali. Quindi, questo è un caso concreto: solo degli esperimenti potrebbero dimostrare se la protezione tariffaria sia vantaggiosa o meno in questo contesto.
 
-# Protezione dovrebbe manifestarsi nel dire:--
+Protezione dovrebbe manifestarsi nel dire:--
 
-“Qualsiasi carne di maiale proveniente dall’estero deve pagare una determinata somma a libbra nei porti al momento dell’ingresso.” Ciò aumenterebbe leggermente il prezzo della carne di maiale in [[England|Inghilterra]]. Se tale aumento fosse tale da far sì che ogni famiglia inglese dovesse spendere in media 2 sterline in più, e se, allo stesso tempo, questo aumento dei prezzi stimolasse gli agricoltori a allevare un numero sufficiente di maiali e ad impegnarsi adeguatamente per mantenere una produzione stabile, allora il patrimonio complessivo della comunità aumenterebbe di 2 sterline per famiglia. Anche se il prezzo dovesse salire fino a raggiungere le 3 sterline e 10 scellini a famiglia in media, ciò sarebbe comunque vantaggioso per la nazione, _a condizione che tale aumento dei prezzi stimolasse effettivamente gli agricoltori ad allevare un numero sufficiente di maiali, senza ridurre la produzione di altri prodotti_. Tuttavia, se, nonostante l’aumento delle tasse a carico della comunità, la produzione di maiali nel paese non fosse sufficiente a soddisfare la domanda del mercato, allora la politica di protezione dell’allevamento dei maiali risulterebbe perdente.
+“Qualsiasi carne di maiale proveniente dall’estero deve pagare una determinata somma a libbra nei porti al momento dell’ingresso.” Ciò aumenterebbe leggermente il prezzo della carne di maiale in [[settings/england|Inghilterra]]. Se tale aumento fosse tale da far sì che ogni famiglia inglese dovesse spendere in media 2 sterline in più, e se, allo stesso tempo, questo aumento dei prezzi stimolasse gli agricoltori a allevare un numero sufficiente di maiali e ad impegnarsi adeguatamente per mantenere una produzione stabile, allora il patrimonio complessivo della comunità aumenterebbe di 2 sterline per famiglia. Anche se il prezzo dovesse salire fino a raggiungere le 3 sterline e 10 scellini a famiglia in media, ciò sarebbe comunque vantaggioso per la nazione, _a condizione che tale aumento dei prezzi stimolasse effettivamente gli agricoltori ad allevare un numero sufficiente di maiali, senza ridurre la produzione di altri prodotti_. Tuttavia, se, nonostante l’aumento delle tasse a carico della comunità, la produzione di maiali nel paese non fosse sufficiente a soddisfare la domanda del mercato, allora la politica di protezione dell’allevamento dei maiali risulterebbe perdente.
 
 
 
@@ -9943,8 +9943,8 @@ other modern economic institutions, the institution of Banking.
 
 It has origins much older; indeed, people did something of the kind
 at all times, but Banking as a fully developed institution grew up
-in this comparatively short [[Time|time]]: since the middle of the seventeenth
-century. It began in Holland and [[England]] and spread to other countries.
+in this comparatively short [[motifs/time|time]]: since the middle of the seventeenth
+century. It began in Holland and [[settings/england|England]] and spread to other countries.
 
 Like other modern institutions, it only became really important in
 the latter half of this period, that is, during the last hundred
@@ -9970,7 +9970,7 @@ moral basis upon which banking reposes.
 
 A man has £1,000 in gold. He has to travel or to go abroad on a war,
 or is not certain of the safety of so large a sum if it is kept in his
-[[house]]. He therefore gives it into the custody of a man whom he can
+house. He therefore gives it into the custody of a man whom he can
 trust, and who, on account of special circumstances, can keep it more
 securely than he himself can. What the owner of the £1,000 wants in
 the transaction is to be certain of getting a part or the whole of his
@@ -9999,12 +9999,12 @@ the trouble of looking after it, and I can call on a part of it or all
 of it whenever I like. If there were only myself leaving it thus with
 one friend, and it was a particular transaction between us two, that
 friend would be acting wrongly if he were to take my £1,000 and buy a
-[[Ship|ship]] with it, say, and do trade. No [[Doubt|doubt]] he would earn a profit, and
+[[motifs/ship|ship]] with it, say, and do trade. No [[concepts/doubt|doubt]] he would earn a profit, and
 could say to me when I came back for £100 of it: “I am sorry that I
 cannot give you your £100, but I have used the money, without telling
-you, to buy a [[Ship|ship]]. The [[Ship|ship]] will earn a profit of £200 at the end of
+you, to buy a [[motifs/ship|ship]]. The [[motifs/ship|ship]] will earn a profit of £200 at the end of
 the year, and then you can have back your £100 if you like, and if you
-press me, I will even sell the [[Ship|ship]] and you shall have back the whole
+press me, I will even sell the [[motifs/ship|ship]] and you shall have back the whole
 of your £1,000.”
 
 In that case I should naturally answer: “No one gave you leave to use
@@ -10039,11 +10039,11 @@ discovers that he must have about 100 times £100, that is £10,000, in
 free cash to meet the demands upon him, and that he gets rather more
 put into his custody in the same period of a month, year in and year
 out. It follows that he always has about £90,000 in gold doing nothing
-the whole [[Time|time]]. He says to himself: “Why should I not use this money
+the whole [[motifs/time|time]]. He says to himself: “Why should I not use this money
 to buy instruments of production--ships or ploughs, or machinery or
 what not--and produce more wealth? It will not hurt those who have
 deposited it with me, for I have found that, on the average, they
-never want more than a tenth of their money out at the same [[Time|time]] (and
+never want more than a tenth of their money out at the same [[motifs/time|time]] (and
 they are also perpetually paying in more money to me--so that they and
 I are quite safe), and if I make a good profit by the use of the things
 I shall have bought with this £90,000 I can offer them part of the
@@ -10056,7 +10056,7 @@ Banche
 
 Negli ultimi duecentocinquanta anni è emersa, tra le altre istituzioni economiche moderne, l’istituzione della banca.
 
-Le sue origini risalgono a tempi molto più antichi; infatti, le persone facevano cose del genere in ogni epoca, ma la Banca, come istituzione pienamente sviluppata, è nata in questo lasso di tempo relativamente breve: a partire dalla metà del XVII secolo. Ha avuto origine nei Paesi Bassi e in [[England|Inghilterra]] per poi diffondersi in altri paesi.
+Le sue origini risalgono a tempi molto più antichi; infatti, le persone facevano cose del genere in ogni epoca, ma la Banca, come istituzione pienamente sviluppata, è nata in questo lasso di tempo relativamente breve: a partire dalla metà del XVII secolo. Ha avuto origine nei Paesi Bassi e in [[settings/england|Inghilterra]] per poi diffondersi in altri paesi.
 
 Come altre istituzioni moderne, ha assunto un'importanza reale solo nella seconda metà di questo periodo, cioè negli ultimi cento anni circa; piuttosto di recente – negli ultimi cinquanta anni – è diventata di una tale importanza grazie al controllo che esercita su tutto il Commonwealth, che tutti dovrebbero cercare di comprenderne la natura. Oggi il potere delle banche influisce nella vita di ognuno di noi e condiziona in modo significativo le relazioni tra diverse nazioni. Infatti, è diventato così potente negli ultimi tempi che uno degli aspetti principali da tenere d’occhio in politica è l’ostilità che il suo potere ha suscitato e il modo in cui tale potere viene attaccato.
 
@@ -10064,7 +10064,7 @@ L’essenza della banca risiede in queste due idee combinate: (1) che una person
 
 La combinazione di queste due idee – che naturalmente sorgono nella mente di tutti – costituisce l’origine di tutta la attività bancaria, nonché la base morale su cui essa si fonda.
 
-Un uomo possiede 1.000 sterline in oro. Deve viaggiare o recarsi all’estero per motivi legati a una guerra, oppure non è certo della sicurezza di una somma così ingente se la lasciasse nella sua [[house|>casa]]. Pertanto, la affida a una persona di cui si fida, e che, a causa di circostanze particolari, sia in grado di custodirla in modo più sicuro di quanto possa farlo lui stesso. Quello che desidera il proprietario delle 1.000 sterline è essere certo di poter recuperare una parte o l’intera somma ogni volta che ne abbia bisogno; non gli interessano le singole monete. Finché può ottenere il valore della somma, o di una sua parte, in qualsiasi momento dalla persona a cui ha affidato i suoi soldi, è soddisfatto.
+Un uomo possiede 1.000 sterline in oro. Deve viaggiare o recarsi all’estero per motivi legati a una guerra, oppure non è certo della sicurezza di una somma così ingente se la lasciasse nella sua >casa. Pertanto, la affida a una persona di cui si fida, e che, a causa di circostanze particolari, sia in grado di custodirla in modo più sicuro di quanto possa farlo lui stesso. Quello che desidera il proprietario delle 1.000 sterline è essere certo di poter recuperare una parte o l’intera somma ogni volta che ne abbia bisogno; non gli interessano le singole monete. Finché può ottenere il valore della somma, o di una sua parte, in qualsiasi momento dalla persona a cui ha affidato i suoi soldi, è soddisfatto.
 
 Molte altre persone provano la stessa necessità. L’uomo che dispone di opportunità particolari per gestire tutti quei soldi li raccoglie insieme e li tiene al sicuro nella sua cassaforte. Coloro che agiscono in questo modo si arrabbierebbero molto se scoprissero che i loro soldi sono andati persi, o che, quando cercano di ritirare 20 o 100 sterline dai mille che hanno depositato – necessarie per un certo scopo immediato – la persona a cui hanno affidato il denaro non sia in grado di fornirgli quella somma. Tuttavia, finché il depositante si rende conto che, nella pratica, può sempre ritirare l’intero importo o parte di esso su richiesta, è soddisfatto, e non si infastidirà certo se scopre che la persona a cui ha affidato i soldi li ha utilizzati nel frattempo.
 
@@ -10090,31 +10090,31 @@ enough to see that their money had been put to some use and that they
 had become richer by its use; while if they had kept it to themselves
 in scattered small amounts it would not have made them any richer.
 
-In [[England]] we can trace the origins of a great many banks, and of the
+In [[settings/england|England]] we can trace the origins of a great many banks, and of the
 fortunes of their owners, proceeding along these lines. For instance:
-there was a [[Family|family]] of silversmiths rather more than two hundred years
+there was a [[concepts/family|family]] of silversmiths rather more than two hundred years
 ago. They had a shop in which silver objects were bought and sold, and
 they also had gold plate to buy and sell. They had strong-boxes in
 which these things were kept, and they paid money to men who guarded
 these strong-boxes. It was a natural thing for people to go to this
 shop and say: “I have here a thousand pounds in gold which is not very
-safe at [[Home|home]]. Will you look after it for me, on condition of course
+safe at [[motifs/home|home]]. Will you look after it for me, on condition of course
 that I may call for any amount of it when I want it and what will you
 charge for your trouble?” The silversmiths said: “Yes, we will do this,
 we will charge nothing,” and in that way they got hold of very large
 sums which people left with them. They found, as we have just seen,
 that in practice, year after year, only a certain amount of the sums
-were required of them at any one [[Time|time]], and rather than leave the big
+were required of them at any one [[motifs/time|time]], and rather than leave the big
 balance lying idle they used it for buying useful things which would
 produce more wealth. They lent the money sometimes to the State for its
-purposes, that is, to the [[King]] of the [[Time|time]]. Sometimes they employed it
+purposes, that is, to the [[archetypes/king|King]] of the [[motifs/time|time]]. Sometimes they employed it
 in other ways which earned a profit. The people who left the money
 with them always found that they could get back whatever they wanted
 when they asked for it, and they were content. That is how banking
 arose.
 
-Another example of which I know the [[history]] and which is very
-interesting is that of a squire in the West of [[England]] who lived rather
+Another example of which I know the [[concepts/history|history]] and which is very
+interesting is that of a squire in the West of [[settings/england|England]] who lived rather
 less than two hundred years ago and has given his name to one of our
 great banks still existing to-day. This squire was a rich man who
 had many friends coming to his table. He had the reputation of good
@@ -10125,25 +10125,25 @@ neighbours, he came to look after the money of a great many people whom
 his neighbours recommended, and at last had hundreds of “clients,” as
 the phrase went--that is, of people who would leave their money with
 him, knowing that he would earn a profit both for himself and for them;
-at the same [[Time|time]] the money would be safely kept, and they might call
+at the same [[motifs/time|time]] the money would be safely kept, and they might call
 for a portion of it whenever they wanted it.
 
 From such origins the banking system gradually extended until, about a
-hundred years ago, or rather more, every rich [[Family|family]] in this country
+hundred years ago, or rather more, every rich [[concepts/family|family]] in this country
 had a considerable sum of money left at a bank, and paid into the
 banker’s coffers further sums of money which they received. Each had a
 book of accounts with the bank showing exactly how much had been put
 in and therefore how much they could “draw” upon. At first the clients,
 or depositors, would “draw” some portion of their money which they
 might immediately need by way of a letter. Thus, if their banker’s name
-was Mr. [[smith|Smith]], they would write this note: “To Mr. [[smith|Smith]]. Please pay my
+was Mr. Smith, they would write this note: “To Mr. Smith. Please pay my
 servant who brings this letter £20 out of the £1,000 which I left with
 you the other day.” They would sign this letter and send the servant
 with it; the banker would give the £20 to the servant and the servant
 would give a receipt against it.
 
 That was the origin of what are nowadays called “cheques.” The letter
-giving [[Authority|authority]] for the messenger to draw the money grew more and
+giving [[concepts/authority|authority]] for the messenger to draw the money grew more and
 more formal and was drawn up more and more in the same terms to save
 trouble. Then the bankers would have the forms printed, so that the
 client who wanted to draw would have the least possible trouble. If
@@ -10160,35 +10160,35 @@ But to prevent people using these pieces of paper to get money without
 having the right to it the word “order” was more often substituted for
 the word “bearer”; and this word “order” means that the owner, who
 is drawing his money out, says: “Do not pay it to me; pay it to this
-other person whom I [[Desire|desire]] to receive the money and whose name I have
+other person whom I [[motifs/desire|desire]] to receive the money and whose name I have
 mentioned above, who will sign to show that his order for payment has
 been met.”
 
-For instance: I have £1,000 deposited with my banker, Mr. [[smith|Smith]]. I
-write a letter: “Pay £20 to John [[Jones]] or order.” This means: “Do
-not, dear Mr. [[smith|Smith]], send the money back to me, but give it to Mr.
-[[Jones]] who will bring this letter with him, or, if he cannot come
+For instance: I have £1,000 deposited with my banker, Mr. Smith. I
+write a letter: “Pay £20 to John [[characters/jones|Jones]] or order.” This means: “Do
+not, dear Mr. Smith, send the money back to me, but give it to Mr.
+[[characters/jones|Jones]] who will bring this letter with him, or, if he cannot come
 himself, will send a signed letter order that it should be paid
-to him.” At the beginning of the system, Mr. [[Jones]], to whom I gave
-the cheque, would write a little letter saying: “Dear Mr. [[smith|Smith]], Mr.
+to him.” At the beginning of the system, Mr. [[characters/jones|Jones]], to whom I gave
+the cheque, would write a little letter saying: “Dear Mr. Smith, Mr.
 So-and-So, who banks with you, has given me the accompanying letter by
 which I can get £20 of his by my order. I therefore send you this
 letter to tell you that whoever brings this cheque bears my order to
-give the money to him.” He signs the letter “John [[Jones]]” and the banker
+give the money to him.” He signs the letter “John [[characters/jones|Jones]]” and the banker
 hands over the money to whomever it may be that brings the letter for
-John [[Jones]].
+John [[characters/jones|Jones]].
 
-In process of [[Time|time]] the thing was simplified. In place of the letter
+In process of [[motifs/time|time]] the thing was simplified. In place of the letter
 came the shortened form, the cheque, and you wrote: “Pay £20 to John
-[[Jones]] or order,” and John [[Jones]], instead of sending a letter signed
+[[characters/jones|Jones]] or order,” and John [[characters/jones|Jones]], instead of sending a letter signed
 by himself, merely put his signature at the back of the cheque. This
 was called “endorsement,” which is a Latin form of the English meaning
 “putting one’s name on the back of anything.” A cheque “endorsed” with
-the name “John [[Jones]],” that is, with John [[Jones]]’s name signed on the
-back of it, was paid by the bank to whomever John [[Jones]] might send to
-receive the payment. My cheque asking for £20 to be paid to John [[Jones]]
+the name “John [[characters/jones|Jones]],” that is, with John [[characters/jones|Jones]]’s name signed on the
+back of it, was paid by the bank to whomever John [[characters/jones|Jones]] might send to
+receive the payment. My cheque asking for £20 to be paid to John [[characters/jones|Jones]]
 having fulfilled its object, and the £20 being paid to whomever John
-[[Jones]] had sent after he had “endorsed” that cheque, the cheque was said
+[[characters/jones|Jones]] had sent after he had “endorsed” that cheque, the cheque was said
 to have been “honoured” by the bank. The word “honoured” meant that the
 bank had admitted that I had the money banked with them, and that they
 were bound to hand it over on seeing my signature asking that it should
@@ -10199,17 +10199,17 @@ be handed over.
 
 Ecco ciò che fece il banchiere fin dalle origini di questa istituzione bancaria. Era un po’ strano. Non era del tutto ovvio. Ma la maggior parte dei depositanti sapeva cosa stava succedendo e, comunque, non protestò mai. E se, grazie ai loro soldi messi insieme, veniva realizzato un profitto, e loro ne ricevevano una parte, erano più che felici di vedere che i loro soldi venivano utilizzati a qualche scopo e che, grazie a ciò, diventavano più ricchi; mentre se li avessero tenuti per sé, in piccole somme sparse, non sarebbero mai diventati più ricchi.
 
-In [[England|Inghilterra]] possiamo rintracciare le origini di molte banche, nonché delle fortune dei loro proprietari, seguendo questi percorsi. Ad esempio: c’era una [[Family|>famiglia]] di argentieri più di duecento anni fa. Avevano un negozio in cui si compravano e vendevano oggetti d’argento, oltre a piatti d’oro. Possedevano cassaforti in cui conservavano queste merci e pagavano delle persone incaricate di sorvegliarli. Era del tutto naturale che le persone andassero in quel negozio e dicessero: “Ho mille sterline d’oro qui con me, ma non è molto sicuro tenerle a [[Home|>casa]]. Potreste custodirle per me, a condizione che io possa ritirare qualsiasi somma quando ne abbia bisogno e che mi venga addebitato solo il disturbo?” Gli argentieri rispondevano: “Sì, lo faremo senza chiedere alcun compenso”, e in questo modo ottennero somme molto ingenti che le persone lasciavano loro in custodia. Scoprirono, come abbiamo appena visto, che di fatto, anno dopo anno, veniva richiesta loro solo una determinata parte di quelle somme in un dato momento; invece di lasciare il resto inutilizzato, lo utilizzavano per acquistare beni utili che generassero ulteriore ricchezza. A volte prestavano i soldi allo Stato, cioè al [[King|-Re]] dell’epoca; altre volte li investivano in altri modi che comportavano profitti. Le persone che affidavano loro i propri soldi si assicuravano sempre di poterli riottenere quando ne avevano bisogno, e quindi erano soddisfatte. Ed è così che nacque la banca.
+In [[settings/england|Inghilterra]] possiamo rintracciare le origini di molte banche, nonché delle fortune dei loro proprietari, seguendo questi percorsi. Ad esempio: c’era una [[concepts/family|>famiglia]] di argentieri più di duecento anni fa. Avevano un negozio in cui si compravano e vendevano oggetti d’argento, oltre a piatti d’oro. Possedevano cassaforti in cui conservavano queste merci e pagavano delle persone incaricate di sorvegliarli. Era del tutto naturale che le persone andassero in quel negozio e dicessero: “Ho mille sterline d’oro qui con me, ma non è molto sicuro tenerle a [[motifs/home|>casa]]. Potreste custodirle per me, a condizione che io possa ritirare qualsiasi somma quando ne abbia bisogno e che mi venga addebitato solo il disturbo?” Gli argentieri rispondevano: “Sì, lo faremo senza chiedere alcun compenso”, e in questo modo ottennero somme molto ingenti che le persone lasciavano loro in custodia. Scoprirono, come abbiamo appena visto, che di fatto, anno dopo anno, veniva richiesta loro solo una determinata parte di quelle somme in un dato momento; invece di lasciare il resto inutilizzato, lo utilizzavano per acquistare beni utili che generassero ulteriore ricchezza. A volte prestavano i soldi allo Stato, cioè al [[archetypes/king|-Re]] dell’epoca; altre volte li investivano in altri modi che comportavano profitti. Le persone che affidavano loro i propri soldi si assicuravano sempre di poterli riottenere quando ne avevano bisogno, e quindi erano soddisfatte. Ed è così che nacque la banca.
 
-Un altro esempio di cui conosco la [[history|storia]] e che è molto interessante riguarda un gentiluomo dell’Ovest dell’[[England|>Inghilterra]] che visse meno di duecento anni fa e il cui nome è ancora oggi associato a una delle nostre grandi banche esistenti. Questo gentiluomo era un uomo ricco, che aveva molti amici che venivano a mangiare da lui. Era conosciuto per la sua buona capacità di giudizio e i suoi amici gli dicevano: “Lascio questa somma di denaro sotto la tua custodia”, perché sapevano che sarebbe stato in grado di utilizzarla al meglio e di restituir loro una parte dei profitti. Così, prendendosi cura del denaro dei propri vicini, finì per gestire il denaro di molte altre persone raccomandate dai suoi vicini stessi; alla fine ebbe centinaia di “clienti”, ovvero persone che gli affidavano i loro soldi, convinte che avrebbe ottenuto profitti sia per sé che per loro; inoltre, il denaro veniva custodito in modo sicuro e le persone potevano richiederne una parte ogni volta che ne avevano bisogno.
+Un altro esempio di cui conosco la [[concepts/history|storia]] e che è molto interessante riguarda un gentiluomo dell’Ovest dell’[[settings/england|>Inghilterra]] che visse meno di duecento anni fa e il cui nome è ancora oggi associato a una delle nostre grandi banche esistenti. Questo gentiluomo era un uomo ricco, che aveva molti amici che venivano a mangiare da lui. Era conosciuto per la sua buona capacità di giudizio e i suoi amici gli dicevano: “Lascio questa somma di denaro sotto la tua custodia”, perché sapevano che sarebbe stato in grado di utilizzarla al meglio e di restituir loro una parte dei profitti. Così, prendendosi cura del denaro dei propri vicini, finì per gestire il denaro di molte altre persone raccomandate dai suoi vicini stessi; alla fine ebbe centinaia di “clienti”, ovvero persone che gli affidavano i loro soldi, convinte che avrebbe ottenuto profitti sia per sé che per loro; inoltre, il denaro veniva custodito in modo sicuro e le persone potevano richiederne una parte ogni volta che ne avevano bisogno.
 
-Dai suoi primi origini, il sistema bancario si è gradualmente diffuso fino a quando, circa cento anni fa – o forse anche di più – ogni famiglia ricca di questo paese aveva un notevole importo di denaro depositato in banca; inoltre, versavano ulteriori somme nelle casse dei banchieri grazie ai guadagni ottenuti. Ogni cliente possedeva un libretto conto presso la banca, che indicava con precisione quanto denaro fosse stato depositato e quindi quanto potesse essere ritirato. All’inizio, i clienti inviavano una lettera al proprio banchiere per richiedere di prelevare una determinata somma di denaro che potessero aver bisogno immediatamente. Ad esempio, se il loro banchiere si chiamava il signor [[smith|Smith]], scrivevano questa lettera: “Al signor [[smith|Smith]]. Per favore, paghi al mio servitore che porta questa lettera 20 sterline delle 1.000 che ho depositato presso di voi l’altro giorno.” Firmavano la lettera e la inviavano al banchiere; quest’ultimo consegnava le 20 sterline al servitore, il quale emetteva una ricevuta a titolo di conferma.
+Dai suoi primi origini, il sistema bancario si è gradualmente diffuso fino a quando, circa cento anni fa – o forse anche di più – ogni famiglia ricca di questo paese aveva un notevole importo di denaro depositato in banca; inoltre, versavano ulteriori somme nelle casse dei banchieri grazie ai guadagni ottenuti. Ogni cliente possedeva un libretto conto presso la banca, che indicava con precisione quanto denaro fosse stato depositato e quindi quanto potesse essere ritirato. All’inizio, i clienti inviavano una lettera al proprio banchiere per richiedere di prelevare una determinata somma di denaro che potessero aver bisogno immediatamente. Ad esempio, se il loro banchiere si chiamava il signor Smith, scrivevano questa lettera: “Al signor Smith. Per favore, paghi al mio servitore che porta questa lettera 20 sterline delle 1.000 che ho depositato presso di voi l’altro giorno.” Firmavano la lettera e la inviavano al banchiere; quest’ultimo consegnava le 20 sterline al servitore, il quale emetteva una ricevuta a titolo di conferma.
 
 Quella fu l’origine di ciò che oggi viene chiamato “assegno”. La lettera che conferiva all’inviato l’autorità di ritirare il denaro divenne sempre più formale e veniva redatta sempre con gli stessi termini, al fine di evitare complicazioni. In seguito, i banchieri fecero stampare questi moduli, in modo che il cliente che volesse effettuare un prelievo incontrasse il minor numero possibile di difficoltà. Se osservate un assegno oggi, noterete che non è altro che quella vecchia lettera redatta nei termini più semplici possibili. In alto sull’assegno figura il nome della banca; poi c’è la dicitura “Pagare”, e dopo di questa il cliente indica l’importo da ritirare e firma per dimostrare che è effettivamente lui a essere titolare del denaro e a richiederlo. A volte, dopo la dicitura “Pagare” viene stampata anche la frase “o a portatore”, in modo che chiunque presenti l’assegno possa ritirare il denaro per conto del cliente.
 
 Ma per impedire alle persone di utilizzare questi fogli di carta per ottenere denaro senza averne il diritto, la parola “ordine” veniva spesso sostituita con la parola “portatore”; e questa parola “ordine” significa che il proprietario, che sta ritirando i suoi soldi, dice: “Non pagateli a me; pagateli a quest’altra persona che desidero ricevere i soldi e il cui nome ho menzionato sopra, la quale firmerà per dimostrare che il suo ordine di pagamento è stato eseguito.”
 
-Ad esempio: Ho depositato 1.000 sterline presso il mio banchiere, il signor [[smith|Smith]]. Scrivo una lettera che dice: “Pagate 20 sterline a John [[Jones]] o inviate un ordine di pagamento.” Ciò significa: “Caro signor [[smith|Smith]], non rimandatemi i soldi, ma consegnateli al signor [[Jones]], che porterà con sé questa lettera; oppure, se lui stesso non può venire, invierà un ordine firmato affinché il denaro venga pagato a suo nome.” All’inizio di questo sistema, il signor [[Jones]], a cui ho consegnato il assegno, avrebbe scritto una breve lettera che diceva: “Caro signor [[smith|Smith]], il signor Tale, che ha un conto presso di voi, mi ha fornito questa lettera con la quale posso ritirare 20 sterline a suo nome. Pertanto vi invio questa lettera per informarvi che chiunque presenti questo assegno porterà con sé il mio ordine di pagamento.” Firmava poi la lettera come “John [[Jones]]” e il banchiere consegnava i soldi a chiunque presentasse tale lettera per conto di John [[Jones]].
+Ad esempio: Ho depositato 1.000 sterline presso il mio banchiere, il signor Smith. Scrivo una lettera che dice: “Pagate 20 sterline a John [[characters/jones|Jones]] o inviate un ordine di pagamento.” Ciò significa: “Caro signor Smith, non rimandatemi i soldi, ma consegnateli al signor [[characters/jones|Jones]], che porterà con sé questa lettera; oppure, se lui stesso non può venire, invierà un ordine firmato affinché il denaro venga pagato a suo nome.” All’inizio di questo sistema, il signor [[characters/jones|Jones]], a cui ho consegnato il assegno, avrebbe scritto una breve lettera che diceva: “Caro signor Smith, il signor Tale, che ha un conto presso di voi, mi ha fornito questa lettera con la quale posso ritirare 20 sterline a suo nome. Pertanto vi invio questa lettera per informarvi che chiunque presenti questo assegno porterà con sé il mio ordine di pagamento.” Firmava poi la lettera come “John [[characters/jones|Jones]]” e il banchiere consegnava i soldi a chiunque presentasse tale lettera per conto di John [[characters/jones|Jones]].
 
 Nel corso del tempo, la procedura si è semplificata: al posto della lettera è stata utilizzata la forma abbreviata, il assegno; si scriveva semplicemente: “Pagare 20 sterline a John Jones o ordinare”. John Jones, invece di inviare una lettera firmata da lui stesso, si limitava ad apporre la sua firma sul retro dell’assegno. Questo atto veniva chiamato “endosso”, termine derivante dal latino e che in inglese significa “apporre il proprio nome sul retro di qualcosa”. Un assegno “endorso” con il nome di John Jones veniva pagato dalla banca a chiunque John Jones avesse indicato per ricevere il pagamento. Il mio assegno, che richiedeva il pagamento di 20 sterline a John Jones, una volta che aveva adempiuto al suo scopo – cioè dopo che le 20 sterline erano state pagate a chiunque John Jones avesse designato – veniva considerato “onorato” dalla banca. Il termine “onorato” indicava che la banca riconosceva che io avevo effettivamente depositato quel denaro presso di loro e che era obbligata a consegnarlo non appena vedeva la mia firma che ne richiedeva il pagamento.
 
@@ -10225,17 +10225,17 @@ to do was to write out a cheque to the order of this man, who would
 endorse it and get the money.
 
 Now as banking grew and came to deal with more and more people, it was
-probable that this man, [[Jones]], would have a banking account too with
-somebody. If Mr. [[smith|Smith]] was not his banker, then Mr. Brown would be.
+probable that this man, [[characters/jones|Jones]], would have a banking account too with
+somebody. If Mr. Smith was not his banker, then Mr. Brown would be.
 As we have seen, people not only drew out money from the original sum
 they had deposited at the bank, they also paid in money as they got
 it, on account of the convenience of having it looked after safely. So
-when John [[Jones]] got my cheque for £20, he often did not get the actual
-cash from my banker, Mr. [[smith|Smith]], but simply gave in the cheque, endorsed
-by him, to Mr. Brown, his banker, and said: “Get this from Mr. [[smith|Smith]],
+when John [[characters/jones|Jones]] got my cheque for £20, he often did not get the actual
+cash from my banker, Mr. Smith, but simply gave in the cheque, endorsed
+by him, to Mr. Brown, his banker, and said: “Get this from Mr. Smith,
 the other banker, and add it to the sum which I have banked with you,
 Mr. Brown.” The banker Brown did this, and the cheque which I had
-originally signed in favour of John [[Jones]], having gone the rounds, was
+originally signed in favour of John [[characters/jones|Jones]], having gone the rounds, was
 sent back to me to prove that the transaction was complete.
 
 As banking continued to grow this system took on a vast extension.
@@ -10247,29 +10247,29 @@ the bankers among themselves.
 After many years of this system it became apparent that the enormous
 transactions, thousands of cheques all crossing each other daily in
 hundreds of ways, could be simplified by the establishment of what came
-to be called the “Clearing [[house|House]].”
+to be called the “Clearing House.”
 
-Thus, suppose three bankers--Mr. [[smith|Smith]], Mr. Brown and [[Mr. Robinson]].
-I bank with Mr. [[smith|Smith]], and sign a cheque in favour of Mr. [[Jones]] who
-banks with Mr. Brown, because I owe [[Jones]] a bill which I can thus pay.
+Thus, suppose three bankers--Mr. Smith, Mr. Brown and [[characters/mr.-robinson|Mr. Robinson]].
+I bank with Mr. Smith, and sign a cheque in favour of Mr. [[characters/jones|Jones]] who
+banks with Mr. Brown, because I owe [[characters/jones|Jones]] a bill which I can thus pay.
 I also sign a cheque in favour of Mr. Harding (that is, to the order
-of Mr. Harding), to whom I also owe money. He banks with [[Mr. Robinson]].
-Meanwhile Harding perhaps owes money to [[Jones]] and pays him a cheque
-ordering [[Mr. Robinson]] (Harding’s banker) to pay [[Jones]] a sum of money.
-[[Jones]] hands this over to his banker, Mr. Brown. At the end of a certain
-[[Time|time]]--say, a month--the three bankers, [[smith|Smith]], Brown and Robinson, get
+of Mr. Harding), to whom I also owe money. He banks with [[characters/mr.-robinson|Mr. Robinson]].
+Meanwhile Harding perhaps owes money to [[characters/jones|Jones]] and pays him a cheque
+ordering [[characters/mr.-robinson|Mr. Robinson]] (Harding’s banker) to pay [[characters/jones|Jones]] a sum of money.
+[[characters/jones|Jones]] hands this over to his banker, Mr. Brown. At the end of a certain
+[[motifs/time|time]]--say, a month--the three bankers, Smith, Brown and Robinson, get
 together and compare the various cheques they have received. It is
 obvious that a great many will cancel out.
 
-For instance: I have given [[Jones]] a cheque for £20 which Mr. [[smith|Smith]], my
-banker, has to pay to Mr. Brown, [[Jones]]’s banker. But Mr. Brown has a
-cheque of Mr. Harding’s asking [[Mr. Robinson]] to pay £20 to [[Jones]], and
-[[Jones]] has given that to Brown too. Meanwhile [[Jones]] has given me a
+For instance: I have given [[characters/jones|Jones]] a cheque for £20 which Mr. Smith, my
+banker, has to pay to Mr. Brown, [[characters/jones|Jones]]’s banker. But Mr. Brown has a
+cheque of Mr. Harding’s asking [[characters/mr.-robinson|Mr. Robinson]] to pay £20 to [[characters/jones|Jones]], and
+[[characters/jones|Jones]] has given that to Brown too. Meanwhile [[characters/jones|Jones]] has given me a
 cheque later on, for something which he owed me, of £10. The bankers
-compare notes and see that [[smith|Smith]] need not pay £20 to Brown, and then
-ask Brown for £10. It is simpler to pay the difference only. Mr. [[smith|Smith]]
+compare notes and see that Smith need not pay £20 to Brown, and then
+ask Brown for £10. It is simpler to pay the difference only. Mr. Smith
 hands to Mr. Brown what is called the “balance.” The difference between
-£10 and £20 is £10, and Brown hands over £10 to [[smith|Smith]]. At the end of
+£10 and £20 is £10, and Brown hands over £10 to Smith. At the end of
 another month perhaps it is Robinson, Harding’s banker, who finds that
 on comparing notes he has a balance against him of £10 to Brown: and so
 on.
@@ -10278,11 +10278,11 @@ When dozens of bankers came to be established with thousands of
 clients, or “depositors,” the convenience of this system was
 overwhelming. There would perhaps be in a week as many as 10,000
 cheques out, and instead of having to make 10,000 separate transactions
-of paying from Brown to [[smith|Smith]], [[smith|Smith]] to Robinson, Robinson back to
+of paying from Brown to Smith, Smith to Robinson, Robinson back to
 Brown, and so on, through dozens of bankers, the cheques were compared
 and only the balances were paid over--or, as the phrase goes, “cleared.”
 
-The Clearing [[house|House]] was the place where all the cheques of different
+The Clearing House was the place where all the cheques of different
 banks were put in at regular intervals and compared one with another,
 so as to see what balances remained over, owing by particular bankers
 to others.
@@ -10294,7 +10294,7 @@ among the bankers as a community a very large sum of money lying
 untouched, a sort of reservoir. It was nearly always very much
 more than two-thirds of the whole amount which the banks could be
 called on to pay. That is, the depositors never wanted a third of
-their deposits out at any one [[Time|time]]. The art of a banker, therefore,
+their deposits out at any one [[motifs/time|time]]. The art of a banker, therefore,
 consisted in knowing how to purchase with this idle money left in their
 hands fruitful objects for producing future wealth, in other words,
 “investing” it in “capital enterprises,” but always prudently keeping
@@ -10303,12 +10303,12 @@ suddenly make upon them.
 
 So far so good. The banking system up to this point in its development
 was an advantage to the community and to individuals. It enabled a
-large number of small sums which could not be used very [[Well|well]] separately
+large number of small sums which could not be used very [[motifs/well|well]] separately
 to be collected together for big enterprises.
 
 A thousand people, depositing a thousand pounds each, left a million
 pounds in the hands of the bankers, of which much more than half a
-million could be used at any [[Time|time]] for “development,” that is, for
+million could be used at any [[motifs/time|time]] for “development,” that is, for
 buying instruments with which to develop natural resources. The nation
 would be richer if a deep shaft were sunk and coal were got out of the
 earth, but it would cost half a million to make that mine. No one of
@@ -10329,17 +10329,17 @@ and available for use in investment.
 
 La comodità degli assegni utilizzati in questo modo per gli affari era evidente. Se dovevo 20 sterline a qualcuno e avevo 1.000 sterline sul mio conto bancario, invece di dover ritirare personalmente venti sovrani e portarglieli, bastava semplicemente compilare un assegno a nome di quella persona, che lo avrebbe accettato e incassato il denaro.
 
-Man mano che il settore bancario si sviluppava e iniziava a servire un numero sempre maggiore di persone, era probabile che anche quest’uomo, [[Jones]], avesse un conto bancario presso qualcuno. Se il signor [[smith|Smith]] non era il suo banchiere, allora lo sarebbe stato il signor Brown. Come abbiamo visto, le persone non solo ritiravano denaro dal importo iniziale depositato in banca, ma vi versavano anche altro denaro man mano che lo guadagnavano, grazie alla comodità di avere i propri fondi custoditi in modo sicuro. Quindi, quando John [[Jones]] riceveva il mio assegno da 20 sterline, spesso non ritirava il denaro contante dal mio banchiere, il signor [[smith|Smith]], ma semplicemente consegnava l’assegno, già endossato da lui, al signor Brown, il suo banchiere, dicendo: “Prendi questo dal signor [[smith|Smith]], l’altro banchiere, e aggiungilo all’importo che ho depositato presso di te, signor Brown”. Il banchiere Brown eseguiva questa richiesta, e l’assegno che avevo originariamente firmato a favore di John [[Jones]], dopo essere passato per varie mani, veniva restituito a me per dimostrare che la transazione era stata completata.
+Man mano che il settore bancario si sviluppava e iniziava a servire un numero sempre maggiore di persone, era probabile che anche quest’uomo, [[characters/jones|Jones]], avesse un conto bancario presso qualcuno. Se il signor Smith non era il suo banchiere, allora lo sarebbe stato il signor Brown. Come abbiamo visto, le persone non solo ritiravano denaro dal importo iniziale depositato in banca, ma vi versavano anche altro denaro man mano che lo guadagnavano, grazie alla comodità di avere i propri fondi custoditi in modo sicuro. Quindi, quando John [[characters/jones|Jones]] riceveva il mio assegno da 20 sterline, spesso non ritirava il denaro contante dal mio banchiere, il signor Smith, ma semplicemente consegnava l’assegno, già endossato da lui, al signor Brown, il suo banchiere, dicendo: “Prendi questo dal signor Smith, l’altro banchiere, e aggiungilo all’importo che ho depositato presso di te, signor Brown”. Il banchiere Brown eseguiva questa richiesta, e l’assegno che avevo originariamente firmato a favore di John [[characters/jones|Jones]], dopo essere passato per varie mani, veniva restituito a me per dimostrare che la transazione era stata completata.
 
 Man mano che il settore bancario continuava a crescere, questo sistema si estendeva sempre di più. Migliaia e migliaia di persone pagavano e ricevevano denaro tramite assegni; solo una piccola parte di questi veniva convertita in contanti, mentre la maggior parte veniva depositata negli uffici bancari per essere poi regolata tra i banchieri stessi.
 
 Dopo molti anni di utilizzo di questo sistema, divenne evidente che le enormi quantità di transazioni, migliaia di assegni che ogni giorno si incrociavano in centinaia di modi diversi, potevano essere semplificate attraverso l’istituzione di ciò che venne poi chiamato “Casa di Clearing”.
 
-Supponiamo quindi tre banchieri: il signor [[smith|Smith]], il signor Brown e il signor [[Mr. Robinson|Robinson]]. Io faccio affari con il signor [[smith|Smith]] e emetto un assegno a favore del signor [[Jones]], che a sua volta fa affari con il signor Brown; in questo modo posso saldare il debito che ho con il signor [[Jones]]. Emetto anche un altro assegno a favore del signor Harding, poiché gli devo dei soldi anch’io; lui fa affari con il signor [[Mr. Robinson|Robinson]]. Forse, nel frattempo, il signor Harding deve dei soldi al signor [[Jones]] e gli paga con un assegno che ordina al signor [[Mr. Robinson|Robinson]] (il banchiere di Harding) di versare quella somma al signor [[Jones]]. Il signor [[Jones]] consegna poi questo assegno al suo banchiere, il signor Brown. Dopo un certo periodo di tempo – diciamo un mese – i tre banchieri, il signor [[smith|Smith]], il signor Brown e il signor Robinson, si riuniscono per confrontare tutti gli assegni che hanno ricevuto; è evidente che molti di essi si annulleranno a vicenda.
+Supponiamo quindi tre banchieri: il signor Smith, il signor Brown e il signor [[characters/mr.-robinson|Robinson]]. Io faccio affari con il signor Smith e emetto un assegno a favore del signor [[characters/jones|Jones]], che a sua volta fa affari con il signor Brown; in questo modo posso saldare il debito che ho con il signor [[characters/jones|Jones]]. Emetto anche un altro assegno a favore del signor Harding, poiché gli devo dei soldi anch’io; lui fa affari con il signor [[characters/mr.-robinson|Robinson]]. Forse, nel frattempo, il signor Harding deve dei soldi al signor [[characters/jones|Jones]] e gli paga con un assegno che ordina al signor [[characters/mr.-robinson|Robinson]] (il banchiere di Harding) di versare quella somma al signor [[characters/jones|Jones]]. Il signor [[characters/jones|Jones]] consegna poi questo assegno al suo banchiere, il signor Brown. Dopo un certo periodo di tempo – diciamo un mese – i tre banchieri, il signor Smith, il signor Brown e il signor Robinson, si riuniscono per confrontare tutti gli assegni che hanno ricevuto; è evidente che molti di essi si annulleranno a vicenda.
 
-Ad esempio: Ho dato a [[Jones]] un assegno da 20 sterline che il signor [[smith|Smith]], il mio banchiere, deve pagare al signor Brown, il banchiere di [[Jones]]. Ma il signor Brown possiede un assegno del signor Harding che chiede a [[Mr. Robinson]] di pagare 20 sterline a [[Jones]], e anche [[Jones]] ha dato quell’assegno a Brown. Nel frattempo, [[Jones]] mi ha dato un assegno per 10 sterline, relativo a una somma che mi doveva. I banchieri confrontano le informazioni e si rendono conto che il signor [[smith|Smith]] non deve pagare 20 sterline a Brown; quindi chiedono a Brown di restituire le 10 sterline in eccesso. È più semplice pagare soltanto la differenza. Il signor [[smith|Smith]] consegna a Brown quella che viene definita la “differenza”. La differenza tra 20 e 10 sterline è infatti di 10 sterline, quindi Brown restituisce 10 sterline a [[smith|Smith]]. Forse, dopo un altro mese, sarà il banchiere di Harding, Robinson, ad accorgersi che ha una differenza negativa di 10 sterline nei confronti di Brown. E così via.
+Ad esempio: Ho dato a [[characters/jones|Jones]] un assegno da 20 sterline che il signor Smith, il mio banchiere, deve pagare al signor Brown, il banchiere di [[characters/jones|Jones]]. Ma il signor Brown possiede un assegno del signor Harding che chiede a [[characters/mr.-robinson|Mr. Robinson]] di pagare 20 sterline a [[characters/jones|Jones]], e anche [[characters/jones|Jones]] ha dato quell’assegno a Brown. Nel frattempo, [[characters/jones|Jones]] mi ha dato un assegno per 10 sterline, relativo a una somma che mi doveva. I banchieri confrontano le informazioni e si rendono conto che il signor Smith non deve pagare 20 sterline a Brown; quindi chiedono a Brown di restituire le 10 sterline in eccesso. È più semplice pagare soltanto la differenza. Il signor Smith consegna a Brown quella che viene definita la “differenza”. La differenza tra 20 e 10 sterline è infatti di 10 sterline, quindi Brown restituisce 10 sterline a Smith. Forse, dopo un altro mese, sarà il banchiere di Harding, Robinson, ad accorgersi che ha una differenza negativa di 10 sterline nei confronti di Brown. E così via.
 
-Quando decine di banchieri iniziarono a gestire migliaia di clienti, o “depositori”, la comodità di questo sistema risultò davvero straordinaria. Forse entro una settimana venivano emessi fino a 10.000 assegni; invece di effettuare 10.000 transazioni separate, pagando da Brown a [[smith|Smith]], da [[smith|Smith]] a Robinson, e così via, attraverso decine di banchieri, gli assegni venivano semplicemente confrontati e soltanto i saldi venivano effettivamente pagati. In altre parole, il sistema permetteva di “regolare” rapidamente tutte le transazioni.
+Quando decine di banchieri iniziarono a gestire migliaia di clienti, o “depositori”, la comodità di questo sistema risultò davvero straordinaria. Forse entro una settimana venivano emessi fino a 10.000 assegni; invece di effettuare 10.000 transazioni separate, pagando da Brown a Smith, da Smith a Robinson, e così via, attraverso decine di banchieri, gli assegni venivano semplicemente confrontati e soltanto i saldi venivano effettivamente pagati. In altre parole, il sistema permetteva di “regolare” rapidamente tutte le transazioni.
 
 La “Clearing House” era il luogo dove, a intervalli regolari, venivano depositati tutti i assegni provenienti da diverse banche e confrontati tra loro, al fine di verificare quali saldi rimanessero in attivo o in debito tra i diversi istituti bancari.
 
@@ -10356,23 +10356,23 @@ Il sistema bancario aumentò così rapidamente la ricchezza del paese, e questo 
 <span class="atom-split" data-atom="story_16_banking--part_04" data-title="Economics for Helen — BANKING (part 4)" data-chapter="BANKING" data-kind="excerpt" data-tags="motif/memory,motif/time,motif/well,concept/honour,histref/america,setting/america,setting/england,setting/europe"></span>
 
 
-That state of affairs lasted to within the [[Memory|memory]] of men now living,
-and, as I have said, the banking system during that [[Time|time]] was an
+That state of affairs lasted to within the [[motifs/memory|memory]] of men now living,
+and, as I have said, the banking system during that [[motifs/time|time]] was an
 advantage to everybody. There was nothing to be said against it.
 
 But then came (as there comes upon every human institution after a
-certain [[Time|time]]) a further phase of development, in which the institution
+certain [[motifs/time|time]]) a further phase of development, in which the institution
 of banking produced certain perils and evils. Those perils and evils
 are increasing, and are producing the antagonism to the banks and to
 their power which everybody is beginning to express to-day, all over
-[[Europe]] and [[America]], and which we must understand if we are to follow
+[[settings/europe|Europe]] and [[settings/america|America]], and which we must understand if we are to follow
 modern political economy. I will show you how these evils in the
 Banking system arose.
 
 A man having £1,000 in the bank could draw upon it up to the total
 amount. He could sign a cheque for £100 and then for £500 (making £600)
 and then for another £400. Supposing he put nothing in during that
-[[Time|time]], he would have exhausted the whole of what he had in his bank; he
+[[motifs/time|time]], he would have exhausted the whole of what he had in his bank; he
 would have come to an end of what is called, in the terms of banking,
 his “balance.” There, you might think, was an end of his power to draw
 cheques. He had got back all his money, so the bank and he had nothing
@@ -10386,14 +10386,14 @@ in capital enterprises, such as mining, or what not. They would say
 to the man who had once put £1,000 into their hands and who had now
 drawn it all out: “You still want to carry on your business; but you
 have exhausted all the money you had with us. You will probably want
-to borrow some money to tide you over until the [[Time|time]] when further sums
+to borrow some money to tide you over until the [[motifs/time|time]] when further sums
 begin to come in to you through what you sell in your business. We
 are prepared to lend you money out of what we have to use from other
 people’s deposits. You will pay a certain ‘interest’ upon it (that
 is, so much a year on each hundred pounds we lend you--say £5 a year
 for every £100), and you shall pay us back when you can.” The bank
 accompanied this offer with the right to draw further cheques to, say,
-another thousand pounds, which the bank would “[[Honour|honour]]”--that is, for
+another thousand pounds, which the bank would “[[concepts/honour|honour]]”--that is, for
 which the bank would pay out money which did not really belong to their
 client but was lent to him by the bank out of other people’s balances.
 And this extra amount, which the bank thus allowed their client over
@@ -10406,13 +10406,13 @@ that if, in the long run, he found himself unable to pay back, the
 banker, could sell the security and recoup himself.
 
 But it was obviously convenient and useful when a client was in a
-big way of business to grant him an “over-draft” from [[Time|time]] to [[Time|time]]
+big way of business to grant him an “over-draft” from [[motifs/time|time]] to [[motifs/time|time]]
 although he had no security to offer. The bank said to itself: “Here is
-a merchant making very large profits every year. It takes him some [[Time|time]]
+a merchant making very large profits every year. It takes him some [[motifs/time|time]]
 to get his money in from the foreigners to whom he sells goods oversea,
 but he is bound to get it sooner or later. So, without asking him for
 any security (for perhaps he has no plate or title deeds or what not to
-give), it is still [[Well|well]] worth our while to let him have an over-draft
+give), it is still [[motifs/well|well]] worth our while to let him have an over-draft
 (that is, a loan) out of the other people’s money. He will pay us
 interest upon it, we shall make a profit, and when the foreigners pay
 him he will be able to pay us back.”
@@ -10438,21 +10438,21 @@ whether with or without security, or even when they gave a loan to a
 man who had no capital at all, and “backed” him in his enterprise which
 they thought likely to prove successful, they had used the money which
 other clients had left with them. But it occurred to the banks after a
-certain [[Time|time]] that there was no need to use anybody else’s money at all.
-_They could themselves offer to [[Honour|honour]] the cheques of the man to whom
+certain [[motifs/time|time]] that there was no need to use anybody else’s money at all.
+_They could themselves offer to [[concepts/honour|honour]] the cheques of the man to whom
 they lent the money, without having any real money with which to pay
 those cheques._
 
 Why was this? It was because, with the growth of the banking system,
-hardly any of the payments were, by this [[Time|time]], actually made in
+hardly any of the payments were, by this [[motifs/time|time]], actually made in
 gold. Real money only passed in a very small degree. Of the myriad
 transactions all but a tiny proportion were “instruments of credit.”
-Just as a bank-note issued by the Bank of [[England]] is a promise to pay
+Just as a bank-note issued by the Bank of [[settings/england|England]] is a promise to pay
 in gold, and yet a promise to pay a million pounds in bank-notes could
 always be made with much less than a million real pounds to redeem
 the notes so _the banks could create paper money, or its equivalent,
 in the form of over-drafts. If they said to a man who had no_ money
-deposited with them: “We will [[Honour|honour]] your cheques up to £1,000” _what
+deposited with them: “We will [[concepts/honour|honour]] your cheques up to £1,000” _what
 they were really doing was increasing the paper currency to the extent
 of £1,000_. They were issuing promises to pay, exactly like bank-notes,
 knowing that of the total amount out only a small proportion at any
@@ -10463,7 +10463,7 @@ moment would be required in real money.
 
 Quella situazione è durata fino a quando ne abbiamo memoria coloro che vivono oggi; e, come ho detto, il sistema bancario in quel periodo rappresentava un vantaggio per tutti. Non c’era nulla di negativo da dire al riguardo.
 
-Ma poi arrivò (come accade a ogni istituzione umana dopo un certo [[Time|tempo]]) una fase ulteriore di sviluppo, nella quale l’istituto bancario generò alcuni pericoli e mali. Quei pericoli e mali stanno aumentando e stanno provocando l’antagonismo verso le banche e il loro potere, che tutti iniziano a manifestare oggi, in tutta [[Europe|Europa]] e [[America]]. Dobbiamo comprenderli se vogliamo seguire i principi dell’economia politica moderna. Vi mostrerò come questi mali nel sistema bancario siano sorti.
+Ma poi arrivò (come accade a ogni istituzione umana dopo un certo [[motifs/time|tempo]]) una fase ulteriore di sviluppo, nella quale l’istituto bancario generò alcuni pericoli e mali. Quei pericoli e mali stanno aumentando e stanno provocando l’antagonismo verso le banche e il loro potere, che tutti iniziano a manifestare oggi, in tutta [[settings/europe|Europa]] e [[settings/america|America]]. Dobbiamo comprenderli se vogliamo seguire i principi dell’economia politica moderna. Vi mostrerò come questi mali nel sistema bancario siano sorti.
 
 Un uomo che avesse 1.000 sterline in banca potrebbe prelevarne l’intera somma. Potrebbe firmare un assegno da 100 sterline, poi uno da 500 sterline (per un totale di 600 sterline), e infine un altro da 400 sterline. Supponendo che non depositi più nulla in quel periodo, esaurirebbe completamente il denaro presente in banca; in altre parole, raggiungerebbe ciò che, nel gergo bancario, si definisce il “saldo” del suo conto. A questo punto, si potrebbe pensare che la sua capacità di effettuare prelievi con gli assegni terminasse: avendo ritirato tutto il proprio denaro, né lui né la banca avrebbero più nulla da fare l’uno con l’altro. Inizialmente, ovviamente, questa era davvero la regola generale. Un uomo poteva prelevare tutta la somma disponibile in banca, ma non di più. Sembra una logica del tutto ovvia.
 
@@ -10471,7 +10471,7 @@ Ma le banche disponevano di molto denaro altrui che non era stato ritirato e gra
 
 All’inizio, prima che le banche concedessero a qualcuno un “sovraddebito” (cioè un prestito), richiedevano che il debitore fornisse una garanzia. Questi doveva lasciare presso di loro argento o oro, oppure ipotecare la propria terra; in questo modo, se nel corso del tempo si rendesse impossibile per lui ripagare il debito, la banca avrebbe potuto vendere la garanzia per recuperare le somme perdute.
 
-Ma era ovviamente conveniente e utile, quando un cliente si trovava in una situazione commerciale molto favorevole, concedergli un “sovraddebito” da [[Time|un certo periodo]] a [[Time|/un altro periodo]], anche se non offriva alcuna garanzia. La banca pensava: “Ecco un mercante che ogni anno realizza profitti molto elevati. Gli ci vuole del tempo per ricevere i soldi dai clienti stranieri a cui vende merci all’estero, ma prima o poi li otterrà sicuramente. Quindi, senza chiedergli alcuna garanzia (forse non possiede nemmeno titoli di proprietà o altro da fornire), è comunque molto vantaggioso per noi concedergli un sovraddebito. Lui ci pagherà gli interessi, noi otterremo un profitto, e quando i clienti stranieri gli pagheranno, lui potrà rimborsarci.”
+Ma era ovviamente conveniente e utile, quando un cliente si trovava in una situazione commerciale molto favorevole, concedergli un “sovraddebito” da [[motifs/time|un certo periodo]] a [[motifs/time|/un altro periodo]], anche se non offriva alcuna garanzia. La banca pensava: “Ecco un mercante che ogni anno realizza profitti molto elevati. Gli ci vuole del tempo per ricevere i soldi dai clienti stranieri a cui vende merci all’estero, ma prima o poi li otterrà sicuramente. Quindi, senza chiedergli alcuna garanzia (forse non possiede nemmeno titoli di proprietà o altro da fornire), è comunque molto vantaggioso per noi concedergli un sovraddebito. Lui ci pagherà gli interessi, noi otterremo un profitto, e quando i clienti stranieri gli pagheranno, lui potrà rimborsarci.”
 
 In questo modo, le banche divennero, da tutte le parti, prestatrici di denaro a persone prive di garanzie, e diventò estremamente importante per qualsiasi commerciante poter ottenere o meno il sostegno delle banche in questo senso.
 
@@ -10488,12 +10488,12 @@ Perché accadeva questo? Perché, con lo sviluppo del sistema bancario, ormai qu
 
 There was a check on this system of creating new artificial paper money
 by the banks (for this is what it came to), and the check consisted in
-the control of the [[government|Government]] over the National Bank--in [[England]] the
-Bank of [[England]]. There was a law preventing the Bank of [[England]] from
+the control of the Government over the National Bank--in [[settings/england|England]] the
+Bank of [[settings/england|England]]. There was a law preventing the Bank of [[settings/england|England]] from
 issuing more than a certain number of notes in proportion to the gold
 lying behind them, and the private banks could not issue over-drafts,
 or loans, indefinitely, because they could not get more than a certain
-amount of paper money from the Bank of [[England]] to meet the payments
+amount of paper money from the Bank of [[settings/england|England]] to meet the payments
 they had to make, and the Bank, in its turn, could not issue more than
 a certain proportion of paper money against its gold.
 
@@ -10527,12 +10527,12 @@ power, if they like, to act from caprice, and whenever you give a few
 human beings great power of this sort over millions of others it tends
 to be abused.
 
-2. The banks, especially in [[England]], are all in one combination and
+2. The banks, especially in [[settings/england|England]], are all in one combination and
 keep detailed information upon all of us. Not only have they control
 over industry through their power to make or withhold the money which
-they [[Alone|alone]] can now create and hand out to those they favour, but they
+they alone can now create and hand out to those they favour, but they
 also keep indexes of detailed information as thorough and widespread
-as those of any [[government|Government]] office. They have a secret service more
+as those of any Government office. They have a secret service more
 widespread and powerful than that of the State, and this hidden power
 of theirs, though private and concealed knowledge, irritates plain men
 more and more. People feel that they are not free, and that the banking
@@ -10542,18 +10542,18 @@ master.
 Therefore all over the world to-day people are saying: “The banking
 system, and the few men who direct it, are altogether too powerful.
 They control our lives. They are beginning to control the public policy
-of the State, especially in [[England]], and there ought to be a national
-[[Authority|authority]] superior to them and keeping them in order.”
+of the State, especially in [[settings/england|England]], and there ought to be a national
+[[concepts/authority|authority]] superior to them and keeping them in order.”
 
 A great many schemes have lately been on all sides proposed to
-establish such a superior [[Authority|authority]]. Thus, we have in [[England]] a very
+establish such a superior [[concepts/authority|authority]]. Thus, we have in [[settings/england|England]] a very
 powerful movement in favour of what is called the “Douglas Scheme
 of Credit,” and of course the Socialists, with their ideas of State
 control of everything, would also put an end to the private power of
-the banking system. Then there are those who want to have a strong [[King]]
+the banking system. Then there are those who want to have a strong [[archetypes/king|King]]
 who would be able to override any lesser power in the State, including
 the bankers. But the points to seize in understanding the political
-economy of our [[Time|time]] are those I have just been describing to you: what
+economy of our [[motifs/time|time]] are those I have just been describing to you: what
 the banking system is, how it arose, how unnaturally powerful it has
 become, and why a universal revolt is arising against it.
 
@@ -10565,7 +10565,7 @@ the banks, or financiers. In peasant countries against them.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Esisteva un controllo su questo sistema di creazione di nuova carta moneta artificiale da parte delle banche (poiché è a questo che era ridotto), e tale controllo consisteva nel fatto che il [[government|Governo]] esercitasse la propria influenza sulla Banca Nazionale – in [[England|Inghilterra]] si trattava della Banca d’[[England|Inghilterra]]. Esisteva infatti una legge che impediva alla Banca d’[[England|Inghilterra]] di emettere più di un certo numero di banconote, in proporzione all’oro su cui queste erano garantite; inoltre, le banche private non potevano concedere prestiti o sovratasseggi senza limiti, poiché non erano in grado di ottenere dalla Banca d’[[England|Inghilterra]] una quantità maggiore di carta moneta per coprire i pagamenti che dovevano effettuare. La stessa Banca, a sua volta, non poteva emettere più di una certa percentuale di carta moneta rispetto alle riserve d’oro di cui disponeva.
+Esisteva un controllo su questo sistema di creazione di nuova carta moneta artificiale da parte delle banche (poiché è a questo che era ridotto), e tale controllo consisteva nel fatto che il Governo esercitasse la propria influenza sulla Banca Nazionale – in [[settings/england|Inghilterra]] si trattava della Banca d’[[settings/england|Inghilterra]]. Esisteva infatti una legge che impediva alla Banca d’[[settings/england|Inghilterra]] di emettere più di un certo numero di banconote, in proporzione all’oro su cui queste erano garantite; inoltre, le banche private non potevano concedere prestiti o sovratasseggi senza limiti, poiché non erano in grado di ottenere dalla Banca d’[[settings/england|Inghilterra]] una quantità maggiore di carta moneta per coprire i pagamenti che dovevano effettuare. La stessa Banca, a sua volta, non poteva emettere più di una certa percentuale di carta moneta rispetto alle riserve d’oro di cui disponeva.
 
 In definitiva, la quantità di denaro reale, cioè l’oro, nelle mani delle banche, sia nazionali che private, fungeva da freno a questa creazione di denaro falso da parte delle stesse banche. Ma quando i pagamenti in oro cessarono con la Grande Guerra, quel freno venne meno; e anche se i pagamenti in oro non fossero mai cessati, il potere delle banche di “creare” denaro, per così dire – in altre parole, il loro potere di decidere se accettare o meno i assegni di un’impresa qualsiasi, se permetterle di proseguire le sue attività o no – avrebbe conferito loro un potere immenso e in continuo aumento sulla società.
 
@@ -10575,11 +10575,11 @@ Esistono due forme principali contro cui gli uomini si ribellano.
 
 I banchieri possono decidere, tra due concorrenti, quale debba sopravvivere. Poiché la stragrande maggioranza delle imprese è indebitata con i banchieri – cioè opera grazie a prestiti concessi da istituti che utilizzano denaro prodotto dagli stessi banchieri – qualsiasi settore concorrente può essere distrutto semplicemente dicendo: “Non vi presterò più questi soldi. Ne chiederò il rimborso immediato. Ma non eserciterò lo stesso pressione su quello che compete con voi”. Questo potere rende i banchieri padroni della maggior parte dell’industria moderna. Si sostiene che i banchieri non agiscano per capriccio, e che naturalmente sosterrebbero soltanto imprese solide e distruggerebbero quelle indebolite. In generale, questo è vero. Tuttavia, coloro che ne hanno il controllo dispongono comunque del potere di agire a piacimento; e quando poche persone ottengono un tale potere su milioni di altre, esso tende inevitabilmente ad essere abusato.
 
-2. Le banche, soprattutto in [[England|Inghilterra]], sono tutte collegate tra loro e conservano informazioni dettagliate su di noi tutti. Non solo controllano l’industria grazie al potere di creare o ritirare il denaro – che ora possono produrre e distribuire esclusivamente a coloro che preferiscono – ma possiedono anche archivi di dati estremamente completi e diffusi, paragonabili a quelli di qualsiasi ufficio governativo. Dispongono inoltre di un servizio segreto più esteso e potente di quello dello Stato stesso; questo potere nascosto, sebbene privato e occulto, irrita sempre di più le persone comuni. Le persone sentono di non essere libere, e che il sistema bancario, essendo di natura internazionale, rappresenti in realtà un padrone universale e invisibile.
+2. Le banche, soprattutto in [[settings/england|Inghilterra]], sono tutte collegate tra loro e conservano informazioni dettagliate su di noi tutti. Non solo controllano l’industria grazie al potere di creare o ritirare il denaro – che ora possono produrre e distribuire esclusivamente a coloro che preferiscono – ma possiedono anche archivi di dati estremamente completi e diffusi, paragonabili a quelli di qualsiasi ufficio governativo. Dispongono inoltre di un servizio segreto più esteso e potente di quello dello Stato stesso; questo potere nascosto, sebbene privato e occulto, irrita sempre di più le persone comuni. Le persone sentono di non essere libere, e che il sistema bancario, essendo di natura internazionale, rappresenti in realtà un padrone universale e invisibile.
 
-Pertanto, oggi in tutto il mondo la gente dice: “Il sistema bancario, e i pochi uomini che lo gestiscono, sono decisamente troppo potenti. Controllano le nostre vite; stanno iniziando anche a influenzare la politica pubblica degli Stati, soprattutto in [[England|Inghilterra]]. Dovrebbe esistere un’autorità nazionale superiore a loro che li tenga sotto controllo.”
+Pertanto, oggi in tutto il mondo la gente dice: “Il sistema bancario, e i pochi uomini che lo gestiscono, sono decisamente troppo potenti. Controllano le nostre vite; stanno iniziando anche a influenzare la politica pubblica degli Stati, soprattutto in [[settings/england|Inghilterra]]. Dovrebbe esistere un’autorità nazionale superiore a loro che li tenga sotto controllo.”
 
-Di recente sono stati proposti da tutte le parti molti progetti per stabilire un tale potere supremo. In [[England|Inghilterra]], ad esempio, c’è un movimento molto forte a favore di quella che viene chiamata “la Proposta di Crediti Douglas”; naturalmente, i socialisti, con le loro idee di controllo statale su tutto, vorrebbero anche porre fine al potere privato del sistema bancario. Ci sono poi coloro che desiderano un [[King|Re]] forte, in grado di sovrastare qualsiasi altro potere nello Stato, compresi i banchieri. Ma i punti fondamentali da comprendere per analizzare l’economia politica del nostro [[Time|tempo]] sono proprio quelli che vi ho appena descritto: cosa sia il sistema bancario, come sia sorto, quanto diventato straordinariamente potente e perché stia emergendo un’insurrezione generale contro di esso.
+Di recente sono stati proposti da tutte le parti molti progetti per stabilire un tale potere supremo. In [[settings/england|Inghilterra]], ad esempio, c’è un movimento molto forte a favore di quella che viene chiamata “la Proposta di Crediti Douglas”; naturalmente, i socialisti, con le loro idee di controllo statale su tutto, vorrebbero anche porre fine al potere privato del sistema bancario. Ci sono poi coloro che desiderano un [[archetypes/king|Re]] forte, in grado di sovrastare qualsiasi altro potere nello Stato, compresi i banchieri. Ma i punti fondamentali da comprendere per analizzare l’economia politica del nostro [[motifs/time|tempo]] sono proprio quelli che vi ho appena descritto: cosa sia il sistema bancario, come sia sorto, quanto diventato straordinariamente potente e perché stia emergendo un’insurrezione generale contro di esso.
 
 Inevitabilmente ci sarà uno scontro tra gli interessi bancari o finanziari e il popolo di tutti i paesi civili; ma nessuno può prevedere chi vincerà. Nei paesi industriali le probabilità sono a favore delle banche o dei finanzieri; nei paesi agricoli, invece, sono contro di loro.
 
@@ -10614,9 +10614,9 @@ unproductive purpose of waging a war. It has to get a lot of metal for
 its munitions and guns, and quantities of food to feed the soldiers,
 and coal to transport them. Now there are two ways in which a state
 gets these. The first is to get the whole amount, as it is needed,
-directly from the people, by a very heavy tax levied at the [[Time|time]]. That
+directly from the people, by a very heavy tax levied at the [[motifs/time|time]]. That
 was what was done for hundreds of years before the second method was
-attempted. The [[King|king]] of a country, wishing to wage war, would ask his
+attempted. The [[archetypes/king|king]] of a country, wishing to wage war, would ask his
 subjects for contributions, and he could not wage war upon a scale more
 than these contributions would meet.
 
@@ -10629,20 +10629,20 @@ about one-tenth of their produce. Suddenly it finds itself involved in
 a much higher expenditure, amounting to, say, half the produce of the
 country. If it asked for half the produce right away as a tax people
 might refuse to pay it, or it might make the policy of the State--the
-war, for instance, which the [[government|Government]] wanted to wage--so unpopular
+war, for instance, which the Government wanted to wage--so unpopular
 that the State could not pursue that policy or wage that war. So the
-[[government|Government]] had recourse to borrowing from the citizens, promising to
+Government had recourse to borrowing from the citizens, promising to
 pay, to those who lent, interest in proportion to what they borrowed,
-as [[Well|well]] as the capital itself. Thus they would take in taxation for
+as [[motifs/well|well]] as the capital itself. Thus they would take in taxation for
 a war money from a farmer equivalent to ten loads of wheat; but they
 would also borrow from him one hundred loads of wheat, promising to
 give him as interest five loads of wheat every year for any number of
 years until they should ultimately pay back the whole hundred loads as
-[[Well|well]].
+[[motifs/well|well]].
 
 When these national loans began the Governments honestly intended
 to pay back what they borrowed. But the method was so fatally easy
-that, as [[Time|time]] went on, the debt piled up and up until there could be
+that, as [[motifs/time|time]] went on, the debt piled up and up until there could be
 no question of repaying it: all the State could do was to pay the
 interest out of taxation. It remained indebted to private rich men for
 the principal, that is, the whole original sum, and meanwhile, through
@@ -10655,14 +10655,14 @@ in order to provide interest for the rich lenders. Latterly these
 burdens of national debt have become overwhelming, and at the present
 moment about a twelfth of everything that English people produce is
 taken from them and handed over as interest to the comparatively few
-wealthy residents in [[England]] and abroad who lent great sums to the
-[[government|Government]] during the war.
+wealthy residents in [[settings/england|England]] and abroad who lent great sums to the
+Government during the war.
 
-It is true that whenever a loan is raised the [[government|Government]] provides not
+It is true that whenever a loan is raised the Government provides not
 only interest but what is called a “sinking fund”--that is, an extra
 amount of taxation every year which is dedicated to paying back the
 whole of the loan slowly. But long before a loan is paid off some new
-occasion arises compelling the [[government|Government]] to borrow again on a large
+occasion arises compelling the Government to borrow again on a large
 scale, and the total debt perpetually increases.
 
 The result is that all the great modern European nations are now
@@ -10674,16 +10674,16 @@ a very different value. They have borrowed for a war, say, £1,000,
 representing 100 tons of wheat. Then they debase the currency, so that
 a sum still called £1,000 will only buy 20 tons of wheat, and in this
 way they can pretend to pay the lender back, although they are really
-cheating him of four-fifths of what he lent. Two countries, [[Germany]]
-and [[Russia]], have pushed this so far that the lenders are now not
-really paid anything at all. A man who lent the German [[government|Government]], for
+cheating him of four-fifths of what he lent. Two countries, [[settings/germany|Germany]]
+and [[settings/russia|Russia]], have pushed this so far that the lenders are now not
+really paid anything at all. A man who lent the German Government, for
 carrying on the war, money which during the war would have bought a
 million tons of wheat, is now (October, 1923) paid back in money called
 by the same name but able only to purchase a tenth of a ton--which is
 the same as saying that he is not paid back at all.
 
 Of all European countries that fought in the war our own has been the
-most honest in this matter, but even in [[England]] a man who lent the
+most honest in this matter, but even in [[settings/england|England]] a man who lent the
 equivalent of 1,000 sheep, say, and who was promised interest at the
 rate of 50 sheep a year, is only getting 25 sheep a year on account of
 the change in the value of money.
@@ -10694,15 +10694,15 @@ people. It involves taxing and impoverishing one set of citizens in
 order to pay interest to and enrich another set. But the country as a
 whole is no poorer. An external loan is borrowed from foreigners, and
 the interest on it is dead loss to the country. Also, it cannot be paid
-in debased currency. A [[government]] can cheat its own nationals by paying
+in debased currency. A government can cheat its own nationals by paying
 them in false money. But it has to pay foreign lenders in real money. A
-foreign loan is real. It must be (as a rule) paid in gold. [[England]] thus
-pays millions a year to [[America]].
+foreign loan is real. It must be (as a rule) paid in gold. [[settings/england|England]] thus
+pays millions a year to [[settings/america|America]].
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Prestiti nazionali e tassazione
+Prestiti nazionali e tassazione
 
 Ogni paese, per poter svolgere le proprie funzioni pubbliche, deve riscuotere tasse dai propri cittadini; queste tasse, sebbene esigite in denaro, si traducono naturalmente in beni, ovvero in valori economici legati a oggetti materiali.
 
@@ -10710,23 +10710,23 @@ Si dice che lo Stato “raccoglia”, per esempio, cento milioni di sterline in 
 
 Ma nel mondo moderno, negli ultimi duecento anni circa, quasi tutti gli stati hanno dovuto aumentare le tasse per poter pagare gli interessi sui prestiti statali.
 
-Un prestito dello Stato, o debito pubblico, sorge in questo modo. Lo Stato ha bisogno di una grande quantità di beni per uno scopo specifico – solitamente uno scopo molto improduttivo come quello di intraprendere una guerra. Deve procurarsi grandi quantità di metallo per le munizioni e le armi, cibo in abbondanza per nutrire i soldati, nonché carbone per trasportarli. Esistono due modi in cui uno Stato può ottenere queste risorse. Il primo consiste nel ricevere l’intera somma necessaria direttamente dal popolo, attraverso un’imposta molto elevata e riscossa in un determinato momento. È stato questo il metodo utilizzato per centinaia di anni, prima che venisse tentato il secondo approccio. Il [[King|re]] di un paese, desideroso di intraprendere una guerra, chiedeva ai suoi sudditi di contribuire finanziariamente; tuttavia, non avrebbe potuto condurre la guerra su una scala più ampia di quella consentita dai contributi ricevuti.
+Un prestito dello Stato, o debito pubblico, sorge in questo modo. Lo Stato ha bisogno di una grande quantità di beni per uno scopo specifico – solitamente uno scopo molto improduttivo come quello di intraprendere una guerra. Deve procurarsi grandi quantità di metallo per le munizioni e le armi, cibo in abbondanza per nutrire i soldati, nonché carbone per trasportarli. Esistono due modi in cui uno Stato può ottenere queste risorse. Il primo consiste nel ricevere l’intera somma necessaria direttamente dal popolo, attraverso un’imposta molto elevata e riscossa in un determinato momento. È stato questo il metodo utilizzato per centinaia di anni, prima che venisse tentato il secondo approccio. Il [[archetypes/king|re]] di un paese, desideroso di intraprendere una guerra, chiedeva ai suoi sudditi di contribuire finanziariamente; tuttavia, non avrebbe potuto condurre la guerra su una scala più ampia di quella consentita dai contributi ricevuti.
 
 Ma circa duecento anni fa iniziò (e da allora è aumentata notevolmente) la seconda metodologia, ovvero quella dei _prestiti nazionali_.
 
-Lo Stato, per esempio, raccoglie dalle sue cittadine un’imposta ordinaria che corrisponde a circa un decimo della loro produzione. Improvvisamente si trova ad avere spese molto più elevate, pari, diciamo, alla metà della produzione totale del paese. Se chiedesse subito quella metà come imposta, la gente potrebbe rifiutarsi di pagarla; inoltre, tale politica fiscale potrebbe rendere così impopolare l’azione dello Stato – ad esempio, la guerra che il [[government|Governo]] desidera intraprendere – da impedire allo Stato stesso di perseguirla. Pertanto, il [[government|Governo]] ricorre al prestito dai cittadini, promettendo a coloro che prestano un interesse proporzionale alla somma presa in prestito, oltre al capitale stesso. In questo modo, lo Stato raccoglie fondi per finanziare una guerra da un contadino equivalenti a dieci carichi di grano; ma allo stesso tempo gli presta cento carichi di grano, promettendo di restituirgli ogni anno cinque carichi di grano come interesse, per qualsiasi numero di anni, fino al completo rimborso dei cento carichi presi in prestito.
+Lo Stato, per esempio, raccoglie dalle sue cittadine un’imposta ordinaria che corrisponde a circa un decimo della loro produzione. Improvvisamente si trova ad avere spese molto più elevate, pari, diciamo, alla metà della produzione totale del paese. Se chiedesse subito quella metà come imposta, la gente potrebbe rifiutarsi di pagarla; inoltre, tale politica fiscale potrebbe rendere così impopolare l’azione dello Stato – ad esempio, la guerra che il Governo desidera intraprendere – da impedire allo Stato stesso di perseguirla. Pertanto, il Governo ricorre al prestito dai cittadini, promettendo a coloro che prestano un interesse proporzionale alla somma presa in prestito, oltre al capitale stesso. In questo modo, lo Stato raccoglie fondi per finanziare una guerra da un contadino equivalenti a dieci carichi di grano; ma allo stesso tempo gli presta cento carichi di grano, promettendo di restituirgli ogni anno cinque carichi di grano come interesse, per qualsiasi numero di anni, fino al completo rimborso dei cento carichi presi in prestito.
 
-Quando questi prestiti statali iniziarono, i governi avevano sinceramente l’intenzione di ripagare ciò che avevano preso in prestito. Ma il metodo utilizzato era così estremamente semplice da far sì che, con il passare del [[Time|tempo]], il debito continuasse ad accumularsi fino a quando non divenne più possibile ripagarlo: tutto ciò che lo Stato poteva fare era pagare gli interessi attraverso le tasse. Rimaneva quindi indebitato nei confronti dei ricchi privati per l’importo principale, cioè la somma iniziale presa in prestito; nel frattempo, a causa di ulteriori guerre, il controllo esercitato dai ricchi su tutta la comunità continuava ad aumentare.
+Quando questi prestiti statali iniziarono, i governi avevano sinceramente l’intenzione di ripagare ciò che avevano preso in prestito. Ma il metodo utilizzato era così estremamente semplice da far sì che, con il passare del [[motifs/time|tempo]], il debito continuasse ad accumularsi fino a quando non divenne più possibile ripagarlo: tutto ciò che lo Stato poteva fare era pagare gli interessi attraverso le tasse. Rimaneva quindi indebitato nei confronti dei ricchi privati per l’importo principale, cioè la somma iniziale presa in prestito; nel frattempo, a causa di ulteriori guerre, il controllo esercitato dai ricchi su tutta la comunità continuava ad aumentare.
 
-Il “Debito Pubblico” – così come venne chiamato in seguito – rimase un’istituzione permanente; a causa sua tutti i cittadini dovevano essere tassati al fine di pagare gli interessi ai ricchi prestatori. In tempi successivi, questi oneri derivanti dal debito pubblico sono diventati insopportabili: attualmente circa un dodicesimo di tutto ciò che la gente inglese produce viene sottratto loro e consegnato come interesse a quei pochi residenti ricchi, in [[England|Inghilterra]] e all’estero, che avevano prestato ingenti somme al [[government|Governo]] durante la guerra.
+Il “Debito Pubblico” – così come venne chiamato in seguito – rimase un’istituzione permanente; a causa sua tutti i cittadini dovevano essere tassati al fine di pagare gli interessi ai ricchi prestatori. In tempi successivi, questi oneri derivanti dal debito pubblico sono diventati insopportabili: attualmente circa un dodicesimo di tutto ciò che la gente inglese produce viene sottratto loro e consegnato come interesse a quei pochi residenti ricchi, in [[settings/england|Inghilterra]] e all’estero, che avevano prestato ingenti somme al Governo durante la guerra.
 
-È vero che ogni volta che viene contratto un prestito, il [[government|Governo]] fornisce non solo gli interessi, ma anche ciò che viene chiamato “fondo di ammortamento”: cioè un importo aggiuntivo di tasse versato ogni anno e destinato al pagamento graduale dell’intero debito. Tuttavia, molto prima che il prestito venga ripagato, sorge qualche nuova necessità che costringe il [[government|Governo]] a contrarre nuovi prestiti su larga scala, e così il debito totale continua ad aumentare costantemente.
+È vero che ogni volta che viene contratto un prestito, il Governo fornisce non solo gli interessi, ma anche ciò che viene chiamato “fondo di ammortamento”: cioè un importo aggiuntivo di tasse versato ogni anno e destinato al pagamento graduale dell’intero debito. Tuttavia, molto prima che il prestito venga ripagato, sorge qualche nuova necessità che costringe il Governo a contrarre nuovi prestiti su larga scala, e così il debito totale continua ad aumentare costantemente.
 
-Il risultato è che tutte le grandi nazioni europee moderne sono ora sommerse da un debito davvero troppo elevato per poterlo sostenere, e per questo hanno adottato vari metodi poco trasparenti al fine di alleggerire quel fardello. Alcune di esse ripagano con denaro che apparentemente è lo stesso di quello preso in prestito, ma che in realtà ha un valore molto diverso. Ad esempio, possono prendere in prestito 1.000 sterline, equivalenti a 100 tonnellate di grano, per finanziare una guerra; successivamente degradano la valuta, in modo che quella stessa somma possa acquistare soltanto 20 tonnellate di grano. In questo modo possono fingere di aver ripagato il prestatore, quando in realtà gli stanno sottraendo quattro quinti del denaro prestato. Due paesi, la [[Germany|Germania]] e la [[Russia]], hanno portato questa pratica fino al punto che i prestatori, di fatto, non ricevono nulla in cambio dei loro investimenti. Un uomo che ha prestato denaro al governo tedesco per finanziare la guerra – denaro che durante il conflitto avrebbe potuto acquistare un milione di tonnellate di grano – viene ora ripagato con moneta che porta lo stesso nome, ma che in realtà permette di comprare soltanto un decimo di quella quantità. Il che equivale a dire che non viene affatto ripagato.
+Il risultato è che tutte le grandi nazioni europee moderne sono ora sommerse da un debito davvero troppo elevato per poterlo sostenere, e per questo hanno adottato vari metodi poco trasparenti al fine di alleggerire quel fardello. Alcune di esse ripagano con denaro che apparentemente è lo stesso di quello preso in prestito, ma che in realtà ha un valore molto diverso. Ad esempio, possono prendere in prestito 1.000 sterline, equivalenti a 100 tonnellate di grano, per finanziare una guerra; successivamente degradano la valuta, in modo che quella stessa somma possa acquistare soltanto 20 tonnellate di grano. In questo modo possono fingere di aver ripagato il prestatore, quando in realtà gli stanno sottraendo quattro quinti del denaro prestato. Due paesi, la [[settings/germany|Germania]] e la [[settings/russia|Russia]], hanno portato questa pratica fino al punto che i prestatori, di fatto, non ricevono nulla in cambio dei loro investimenti. Un uomo che ha prestato denaro al governo tedesco per finanziare la guerra – denaro che durante il conflitto avrebbe potuto acquistare un milione di tonnellate di grano – viene ora ripagato con moneta che porta lo stesso nome, ma che in realtà permette di comprare soltanto un decimo di quella quantità. Il che equivale a dire che non viene affatto ripagato.
 
-Di tutti i paesi europei che hanno combattuto in quella guerra, il nostro è stato senz'altro il più onesto in questa questione; tuttavia, anche in [[England|Inghilterra]], un uomo che abbia prestato, per esempio, l'equivalente di 1.000 pecore e a cui sia stata promessa un interesse del 50% all'anno riceve in realtà solo 25 pecore all'anno a causa dell'inflazione.
+Di tutti i paesi europei che hanno combattuto in quella guerra, il nostro è stato senz'altro il più onesto in questa questione; tuttavia, anche in [[settings/england|Inghilterra]], un uomo che abbia prestato, per esempio, l'equivalente di 1.000 pecore e a cui sia stata promessa un interesse del 50% all'anno riceve in realtà solo 25 pecore all'anno a causa dell'inflazione.
 
-In questa questione dei prestiti dobbiamo fare distinzione tra prestiti interni e prestiti esterni. Un prestito interno viene contratto con i propri cittadini; comporta quindi la tassazione e l’indebolimento di un gruppo di persone al fine di pagare gli interessi e arricchire un altro gruppo. Tuttavia, il paese nel suo complesso non diventa più povero a causa di questo. Un prestito esterno, invece, viene contratto con stranieri; gli interessi ad esso relativi rappresentano una perdita netta per il paese stesso. Inoltre, non può essere pagato in valuta deprezzata. Un [[government|governo]] può ingannare i propri cittadini pagandoli con denaro falso, ma deve comunque pagare i creditori stranieri con denaro reale. Un prestito esterno è quindi qualcosa di concreto e tangibile; di solito deve essere pagato in oro. [[England|Inghilterra]], ad esempio, paga ogni anno milioni a [[America]] per i prestiti contratti.
+In questa questione dei prestiti dobbiamo fare distinzione tra prestiti interni e prestiti esterni. Un prestito interno viene contratto con i propri cittadini; comporta quindi la tassazione e l’indebolimento di un gruppo di persone al fine di pagare gli interessi e arricchire un altro gruppo. Tuttavia, il paese nel suo complesso non diventa più povero a causa di questo. Un prestito esterno, invece, viene contratto con stranieri; gli interessi ad esso relativi rappresentano una perdita netta per il paese stesso. Inoltre, non può essere pagato in valuta deprezzata. Un governo può ingannare i propri cittadini pagandoli con denaro falso, ma deve comunque pagare i creditori stranieri con denaro reale. Un prestito esterno è quindi qualcosa di concreto e tangibile; di solito deve essere pagato in oro. [[settings/england|Inghilterra]], ad esempio, paga ogni anno milioni a [[settings/america|America]] per i prestiti contratti.
 
 
 
@@ -10754,14 +10754,14 @@ on to the person who consumes it, by an addition to the price of the
 article. Thus, when you buy a pound of tea or a bottle of wine you are
 paying indirect taxation. The price which you paid for the tea is so
 much for the real value of the tea and so much more (though you do not
-feel or know it at the [[Time|time]]) which has been paid on the tea as it came
-into [[England]] at the ports. The brewers who make beer have got to pay
-the [[government|Government]] so much for every gallon they make, and this is passed
+feel or know it at the [[motifs/time|time]]) which has been paid on the tea as it came
+into [[settings/england|England]] at the ports. The brewers who make beer have got to pay
+the Government so much for every gallon they make, and this is passed
 on to the people who buy the beer by an extra amount put on to the
 price.
 
 The wisest men who have discussed how taxes should be levied laid
-down four rules which, unfortunately, no [[government|Government]] has kept to as it
+down four rules which, unfortunately, no Government has kept to as it
 should. It is worth while knowing those rules, because they are a guide
 to what good taxation should be.
 
@@ -10783,11 +10783,11 @@ see that these bridgemen do their duty and do not cheat. If I tried to
 levy a tax of this kind on a great many bridges that are not much used
 the cost of collecting would be very high compared with the revenue
 produced. But if I put a tax on every cheque issued by a bank, that
-tax is collected with hardly any expense. All the [[government|Government]] has to do
+tax is collected with hardly any expense. All the Government has to do
 is to say that no cheque will be valid unless it carries a stamp. The
 banks stamp all their cheques with this stamp, and when they sell a
 cheque book to a customer they take the value of the stamps from him.
-All the [[government|Government]] has to do is to find out the number of cheque books
+All the Government has to do is to find out the number of cheque books
 issued, and ask for the money from the banks.
 
 3. Taxes are better in proportion as they fall on unnecessary things
@@ -10807,7 +10807,7 @@ country, because the amount of taxes required is so large that unless
 one taxes the necessities one will not get enough money for the
 requirements of the State: thus tea and sugar, beer and tobacco, all
 of them necessities of the poorest people, are enormously taxed. Our
-poor people in [[England]] are much more heavily taxed than any people in
+poor people in [[settings/england|England]] are much more heavily taxed than any people in
 the world.
 
 4. Taxes should fall proportionately to the wealth of the taxed, that
@@ -10826,21 +10826,21 @@ heavy taxation has destroyed so many States.
 5. The last rule about taxation is that it should be certain; and
 this means that the State should be certain of getting what it ought to
 get, and that the people who pay should know what they have to pay and
-not be left in [[Doubt|doubt]] and anxiety.
+not be left in [[concepts/doubt|doubt]] and anxiety.
 
 For instance: the tax on tobacco in this country is a certain tax. It
 is levied on a comparatively small number of ships’ cargoes which enter
-the country with tobacco, because we do not grow tobacco in [[England]],
+the country with tobacco, because we do not grow tobacco in [[settings/england|England]],
 and the sum which the importers pay is automatically passed on to the
 purchasers. The State knows by experience how much tobacco the people
 will buy in the country in the year, and the people who buy tobacco
 know what they mean to spend, and can, if they choose, ascertain how
-much of this goes in taxation. But the same tax on tobacco in [[France]]
+much of this goes in taxation. But the same tax on tobacco in [[settings/france|France]]
 is not a certain tax, because the French grow a lot of their own
 tobacco--in fact, most of it. The people who grow tobacco naturally try
-to hide the total amount of their crop from the [[government|Government]] inspectors,
+to hide the total amount of their crop from the Government inspectors,
 and a great number of these inspectors have to be going about the whole
-[[Time|time]] actually counting each leaf on each plant and rummaging in the
+[[motifs/time|time]] actually counting each leaf on each plant and rummaging in the
 bins to see that none is gone.
 
 An example of a most uncertain and unjust tax for the taxpayer in our
@@ -10849,7 +10849,7 @@ unfixed people from hiding their profits or from concealing from the
 tax collectors amounts which they have earned. Also the honest citizen
 with an established and known position can be bled to the full, while
 the rogue and adventurer, the speculator and dealer escapes. But it
-is a certain tax from the point of view of the [[government|Government]], because
+is a certain tax from the point of view of the Government, because
 they know on the average what a penny on the Income Tax will produce
 one year with another, and are not concerned with justice but with a
 calculable revenue.
@@ -10869,9 +10869,9 @@ Ad esempio: se guadagni 1.000 sterline all’anno e lo Stato ti obbliga a dichia
 
 L'imposta indiretta si manifesta sotto forma di tasse riscosse sul produttore di un articolo o sull'importatore dello stesso; queste tasse vengono poi trasferite a chi lo consuma, attraverso l'aumento del suo prezzo. Quindi, quando acquisti una libbra di tè o una bottiglia di vino, stai pagando un'imposta indiretta. Il prezzo che hai pagato per il tè corrisponde in parte al suo valore reale e in parte ad altre somme (che tu però non percepisci né conosci al momento dell’acquisto) che sono state versate quando il tè è arrivato in Inghilterra attraverso i porti. Anche i produttori di birra devono pagare una certa somma al governo per ogni gallone di birra prodotta; questa tassa viene poi riflessa nel prezzo finale della birra, che aumenta di conseguenza.
 
-Gli uomini più saggi che hanno discusso su come dovrebbero essere riscossi i tributi hanno stabilito quattro regole che, purtroppo, nessun [[government|governo]] ha rispettato come avrebbe dovuto. Vale la pena conoscerle, perché costituiscono una guida per capire quale dovrebbe essere l’efficacia di un sistema fiscale equo e funzionale.
+Gli uomini più saggi che hanno discusso su come dovrebbero essere riscossi i tributi hanno stabilito quattro regole che, purtroppo, nessun governo ha rispettato come avrebbe dovuto. Vale la pena conoscerle, perché costituiscono una guida per capire quale dovrebbe essere l’efficacia di un sistema fiscale equo e funzionale.
 
-# Queste sono le regole:--
+Queste sono le regole:--
 
 1. Una tassa dovrebbe essere calcolata in modo che possa essere pagata il più facilmente possibile.
 
@@ -10879,21 +10879,21 @@ Ad esempio: è molto più facile pagare 100 sterline all’anno in piccole somme
 
 2. L’imposta dovrebbe essere calcolata in modo che i costi necessari per riscuoterla siano il più bassi possibile.
 
-Ad esempio: se imponessi una tassa su tutte le persone che attraversano un determinato ponte, dovrei assumere e pagare qualcuno per riscuotere la tassa sul ponte stesso, e probabilmente dovrei anche pagare ispettori per controllare che questi incaricati svolgano il loro compito senza truffare. Se provassi ad applicare una tassa del genere su molti ponti poco utilizzati, i costi di riscossione sarebbero molto elevati rispetto al reddito generato. Ma se imponessi una tassa su ogni assegno emesso da una banca, tale tassa verrebbe riscossa con quasi nessun costo. Tutto ciò che il [[government|Governo]] deve fare è stabilire che nessun assegno sia valido se non presenta un timbro; le banche appongono questo timbro su tutti gli assegni, e quando vendono un libretto degli assegni a un cliente, addebitano il valore dei timbri. Il [[government|Governo]] deve semplicemente verificare il numero di libretti degli assegni emessi e richiedere i fondi alle banche.
+Ad esempio: se imponessi una tassa su tutte le persone che attraversano un determinato ponte, dovrei assumere e pagare qualcuno per riscuotere la tassa sul ponte stesso, e probabilmente dovrei anche pagare ispettori per controllare che questi incaricati svolgano il loro compito senza truffare. Se provassi ad applicare una tassa del genere su molti ponti poco utilizzati, i costi di riscossione sarebbero molto elevati rispetto al reddito generato. Ma se imponessi una tassa su ogni assegno emesso da una banca, tale tassa verrebbe riscossa con quasi nessun costo. Tutto ciò che il Governo deve fare è stabilire che nessun assegno sia valido se non presenta un timbro; le banche appongono questo timbro su tutti gli assegni, e quando vendono un libretto degli assegni a un cliente, addebitano il valore dei timbri. Il Governo deve semplicemente verificare il numero di libretti degli assegni emessi e richiedere i fondi alle banche.
 
 3. Le tasse sono più equilibrate quando riguardano cose non necessarie, piuttosto che cose essenziali.
 
 È ovviamente molto meglio far pagare le persone per i loro lussi piuttosto che per le loro necessità. È oppressivo farle pagare per le necessità, che anche i più poveri devono avere; è invece più giusto e decisamente migliore farle pagare per cose di cui non hanno bisogno. Così, quando la tassa fu introdotta per la prima volta sul tè, si trattava di una tassa sui lussi, poiché all’epoca solo le persone ricche bevevano tè. Ma oggi, quando anche i più poveri devono berlo, è ingiusto imporre su di esso una tassa, poiché rappresenta una necessità fondamentale.
 
-Purtroppo, è molto difficile rispettare questa regola in qualsiasi paese moderno, poiché l’entità delle tasse richieste è così elevata che, a meno di tassare le necessità quotidiane della gente, non si riuscirà ad ottenere abbastanza denaro per soddisfare le esigenze dello Stato. Così, il tè e lo zucchero, la birra e il tabacco – tutte cose essenziali per le persone più povere – sono soggetti a tasse estremamente elevate. I nostri poveri in [[England|Inghilterra]] sono tassati molto più gravemente di qualsiasi altro popolo al mondo.
+Purtroppo, è molto difficile rispettare questa regola in qualsiasi paese moderno, poiché l’entità delle tasse richieste è così elevata che, a meno di tassare le necessità quotidiane della gente, non si riuscirà ad ottenere abbastanza denaro per soddisfare le esigenze dello Stato. Così, il tè e lo zucchero, la birra e il tabacco – tutte cose essenziali per le persone più povere – sono soggetti a tasse estremamente elevate. I nostri poveri in [[settings/england|Inghilterra]] sono tassati molto più gravemente di qualsiasi altro popolo al mondo.
 
 4. Le tasse dovrebbero aumentare in proporzione alla ricchezza di chi le paga, cioè il sacrificio dovrebbe essere equamente distribuito tra tutti. Questo principio è abbastanza facile da rispettare quando le tasse sono basse. Una tassa molto lieve sui poveri – che costituiscono la stragrande maggioranza della popolazione – è sufficiente a generare il reddito necessario, mentre una tassa eccessivamente elevata sui ricchi rappresenta soltanto un ulteriore onere. Tuttavia, quando le tasse devono essere alte per soddisfare le esigenze dello Stato – ad esempio, se rappresentano più di un ventesimo del reddito dei poveri – allora questo principio diventa difficile da rispettare. In tal caso, o si ottiene un reddito insufficiente se si risparmiano i poveri, oppure è necessario imporre loro tasse così elevate che nessun aumento delle tasse sui ricchi potrebbe compensarle. Quando le tasse sono troppo pesanti, si finisce per distruggere sia i ricchi che i poveri. Ed è proprio per questo che un’imposta eccessivamente onerosa ha causato il crollo di molti Stati.
 
-5. L’ultima regola riguardante l’imposta è che essa debba essere certa; ciò significa che lo Stato deve poter essere sicuro di ricevere ciò che gli spetta, e che le persone che pagano devono sapere esattamente quanto devono pagare, senza rimanere nel [[Doubt|>dubbio]] o nell’ansia.
+5. L’ultima regola riguardante l’imposta è che essa debba essere certa; ciò significa che lo Stato deve poter essere sicuro di ricevere ciò che gli spetta, e che le persone che pagano devono sapere esattamente quanto devono pagare, senza rimanere nel [[concepts/doubt|>dubbio]] o nell’ansia.
 
-Ad esempio: l’imposta sul tabacco in questo paese è una tassa fissa. Viene applicata su un numero relativamente ridotto di carichi di navi che entrano nel paese con tabacco, perché in [[England|Inghilterra]] non coltiviamo tabacco; l’importo pagato dagli importatori viene automaticamente trasferito ai compratori. Lo Stato, grazie all’esperienza, sa quanti chili di tabacco la gente acquisterà nel corso dell’anno, e le persone che comprano tabacco sanno esattamente quanto spenderanno e, se lo desiderano, possono verificare quale parte di questa spesa va a finire nelle tasse. Ma la stessa imposta sul tabacco in [[France|Francia]] non è una tassa fissa, perché i francesi coltivano da soli gran parte del loro tabacco; di conseguenza, coloro che lo producono cercano naturalmente di nascondere la quantità totale della loro raccolta agli ispettori governativi, e molti di questi ispettori devono passare tutto il tempo a contare ogni singola foglia su ogni pianta e a verificare che nessuna parte venga sottratta.
+Ad esempio: l’imposta sul tabacco in questo paese è una tassa fissa. Viene applicata su un numero relativamente ridotto di carichi di navi che entrano nel paese con tabacco, perché in [[settings/england|Inghilterra]] non coltiviamo tabacco; l’importo pagato dagli importatori viene automaticamente trasferito ai compratori. Lo Stato, grazie all’esperienza, sa quanti chili di tabacco la gente acquisterà nel corso dell’anno, e le persone che comprano tabacco sanno esattamente quanto spenderanno e, se lo desiderano, possono verificare quale parte di questa spesa va a finire nelle tasse. Ma la stessa imposta sul tabacco in [[settings/france|Francia]] non è una tassa fissa, perché i francesi coltivano da soli gran parte del loro tabacco; di conseguenza, coloro che lo producono cercano naturalmente di nascondere la quantità totale della loro raccolta agli ispettori governativi, e molti di questi ispettori devono passare tutto il tempo a contare ogni singola foglia su ogni pianta e a verificare che nessuna parte venga sottratta.
 
-Un esempio di tassa estremamente incerta e ingiusta per il contribuente nel nostro paese è l’Imposta sul reddito, poiché è difficile impedire alle persone senza fissa dimora di nascondere i propri profitti o di eludere le autorità fiscali con gli importi guadagnati. Inoltre, anche un cittadino onesto e con una posizione sociale stabile può essere sfruttato al massimo, mentre individui disonesti, speculatori e truffatori riescono a sfuggire alle responsabilità fiscali. Tuttavia, dal punto di vista del [[government|Governo]], si tratta comunque di una tassa “sicura”, poiché esso sa con precisione quale sarà il reddito che l’Imposta sul reddito genererà in un determinato anno, e non si preoccupa della giustizia, ma soltanto di ottenere entrate calcolabili.
+Un esempio di tassa estremamente incerta e ingiusta per il contribuente nel nostro paese è l’Imposta sul reddito, poiché è difficile impedire alle persone senza fissa dimora di nascondere i propri profitti o di eludere le autorità fiscali con gli importi guadagnati. Inoltre, anche un cittadino onesto e con una posizione sociale stabile può essere sfruttato al massimo, mentre individui disonesti, speculatori e truffatori riescono a sfuggire alle responsabilità fiscali. Tuttavia, dal punto di vista del Governo, si tratta comunque di una tassa “sicura”, poiché esso sa con precisione quale sarà il reddito che l’Imposta sul reddito genererà in un determinato anno, e non si preoccupa della giustizia, ma soltanto di ottenere entrate calcolabili.
 
 
 
@@ -10904,7 +10904,7 @@ Before we leave this discussion it is worth while mentioning an odd
 idea which a few very earnest and active people have got hold of,
 called the “Single Tax.”
 
-It is really much more a part of the theory of [[Socialism]] than a system
+It is really much more a part of the theory of [[concepts/socialism|Socialism]] than a system
 of taxation. Still, as it has come to be called the “Single Tax” we
 will treat it under that head.
 
@@ -10956,7 +10956,7 @@ old country it is quite out of the question.
 
 Prima di concludere questa discussione, vale la pena menzionare un'idea strana che alcuni persone molto serie e attive hanno iniziato a promuovere, chiamata “Tassa Unica”.
 
-Si tratta in realtà di un elemento fondamentale della teoria del [[Socialism|socialismo]], piuttosto che di un sistema fiscale. Tuttavia, poiché viene comunemente definito “imposta unica”, lo tratteremo sotto questa categoria.
+Si tratta in realtà di un elemento fondamentale della teoria del [[concepts/socialism|socialismo]], piuttosto che di un sistema fiscale. Tuttavia, poiché viene comunemente definito “imposta unica”, lo tratteremo sotto questa categoria.
 
 L’idea dell’imposta unica è la seguente: il canone di affitto, ovvero il valore aggiunto di un terreno – sia che derivi dalla maggiore fertilità dei campi agricoli che dall’elevata comodità dei terreni urbani – non rappresenta, secondo i sostenitori dell’imposta unica, il prodotto del proprietario di quel terreno.
 
@@ -10975,13 +10975,13 @@ Queste persone non sono mai riuscite ad applicare la loro teoria, e il motivo è
 
 THE SOCIAL (OR HISTORICAL) VALUE OF MONEY
 
-There is a special point in [[Economics]] which has been very little dealt
+There is a special point in [[concepts/economics|Economics]] which has been very little dealt
 with, or rather not properly dealt with at all, and which you will
 find interesting as a new piece of study, because it will help you to
-understand [[history]] as nothing else will: and that point is the _Social
+understand [[concepts/history|history]] as nothing else will: and that point is the _Social
 (or Historical) Value of Money_.
 
-You read how, in the past, the [[King]] of [[England]], wishing to wage a
+You read how, in the past, the [[archetypes/king|King]] of [[settings/england|England]], wishing to wage a
 great war, managed to raise, say, a hundred thousand pounds; and how
 that was thought a most enormous sum: whereas to-day, for the same
 sized army, we should need thirty times as much. You read how Henry
@@ -10996,7 +10996,7 @@ Yet here we are to-day, raising hundreds of millions yearly in
 taxation, spending thousands of millions in our wars.
 
 What is the explanation of this apparently totally different meaning of
-money in different times? It puzzles nearly everybody who reads [[history]]
+money in different times? It puzzles nearly everybody who reads [[concepts/history|history]]
 intelligently, and it wants explanation. Most attempts to explain it
 have failed, or have been very insufficient; some of them quite vague,
 as: “The value of money was very different in those days from what it
@@ -11013,35 +11013,35 @@ the problem--or have abandoned it--is that they only consider the first
 of the three. These three things are as follows:--
 
 1. The actual purchasing power of whatever is used as currency--in
-our case, for nearly the whole of European [[history]], gold: the amount
+our case, for nearly the whole of European [[concepts/history|history]], gold: the amount
 of wheat and leather and building materials and all the rest of it,
-which so much weight of gold (say an ounce) will purchase at any [[Time|time]].
+which so much weight of gold (say an ounce) will purchase at any [[motifs/time|time]].
 This varies in different periods according to the amount of gold
 present in circulation, and its efficiency in circulation. We saw how
 these were the factors of price, that is, of the purchasing power of
-money, when we spoke of money earlier in [[The Book|the book]].
+money, when we spoke of money earlier in [[motifs/the-book|the book]].
 
 2. The number of kinds of things which money can be used to buy in
 any society--or, to put it in learned words, “the number of categories
 of purchasable economic values.”
 
 3. The economic scale of the community, that is, the number of its
-citizens and the amount of its total wealth at a given [[Time|time]].
+citizens and the amount of its total wealth at a given [[motifs/time|time]].
 
 When we go into the full meaning of all these three things we shall
 see how, in combination, they make up the social value of money at any
-[[Time|time]], and why that value differs so very much between one historical
+[[motifs/time|time]], and why that value differs so very much between one historical
 period and another.
 
 1. The actual purchasing power of the currency.
 
-Given the same currency (and in Western [[Europe]] it has, for all
+Given the same currency (and in Western [[settings/europe|Europe]] it has, for all
 practical purposes, been gold for the last two thousand years), we can
 measure the purchasing value of such and such a weight of gold in any
 period by what is known as the Index Number of that period.
 
 The Index Number is a thing important to understand, because it
-comes into a great deal of modern discussion as [[Well|well]] as historical
+comes into a great deal of modern discussion as [[motifs/well|well]] as historical
 discussion; for instance: wages are nowadays largely based upon an
 Index Number.
 
@@ -11060,7 +11060,7 @@ bought--such as bread--must count more in estimating the purchasing
 power of money than a commodity of which very much less is used--such
 as tin.
 
-According to the value of each commodity used in any one period of [[Time|time]]
+According to the value of each commodity used in any one period of [[motifs/time|time]]
 (say a year) the various commodities are “weighted.” Thus you count
 bread (let us say) as twelve times more important than lead, because
 the value of the bread used in the community for one year is twelve
@@ -11098,33 +11098,33 @@ a base, the Index Number for 1920 is 200.”
 
 Il valore sociale (o storico) del denaro
 
-Nell’[[Economics|>Economia]] esiste un aspetto particolare che è stato molto poco trattato, o meglio, affatto non trattato a dovere; troverete interessante studiarlo, perché vi aiuterà a comprendere la [[history|storia]] in modo diverso da qualsiasi altro approccio: e questo aspetto è il _valore sociale (o storico) del denaro_.
+Nell’[[concepts/economics|>Economia]] esiste un aspetto particolare che è stato molto poco trattato, o meglio, affatto non trattato a dovere; troverete interessante studiarlo, perché vi aiuterà a comprendere la [[concepts/history|storia]] in modo diverso da qualsiasi altro approccio: e questo aspetto è il _valore sociale (o storico) del denaro_.
 
-Avete letto come, in passato, il [[King|Re]] d’[[England|Inghilterra]], desideroso di intraprendere una grande guerra, riuscisse a raccogliere, diciamo, centomila sterline; e come tale somma fosse considerata davvero enorme. Oggi, invece, per formare un esercito delle stesse dimensioni, ne sarebbero necessarie trenta volte di più. Avete letto anche come Enrico VIII sopprimesse il Monastero di Westminster, il cui reddito annuo ammontava a quattromila sterline; e come tale somma fosse allora considerata davvero considerevole – tanto quanto oggi consideriamo considerevole un reddito annuo di mezzo milione di sterline o più, tipico di una grande compagnia navale. Avete letto inoltre come il Debito Pubblico arrivasse in seguito a un milione di sterline, e come la gente temesse che lo Stato non fosse in grado di sopportare tale onere.
+Avete letto come, in passato, il [[archetypes/king|Re]] d’[[settings/england|Inghilterra]], desideroso di intraprendere una grande guerra, riuscisse a raccogliere, diciamo, centomila sterline; e come tale somma fosse considerata davvero enorme. Oggi, invece, per formare un esercito delle stesse dimensioni, ne sarebbero necessarie trenta volte di più. Avete letto anche come Enrico VIII sopprimesse il Monastero di Westminster, il cui reddito annuo ammontava a quattromila sterline; e come tale somma fosse allora considerata davvero considerevole – tanto quanto oggi consideriamo considerevole un reddito annuo di mezzo milione di sterline o più, tipico di una grande compagnia navale. Avete letto inoltre come il Debito Pubblico arrivasse in seguito a un milione di sterline, e come la gente temesse che lo Stato non fosse in grado di sopportare tale onere.
 
 Eppure oggi ci troviamo qui, a raccogliere centinaia di milioni di dollari all’anno attraverso le tasse, e a spendere miliardi di dollari nelle nostre guerre.
 
-Qual è la spiegazione di questo significato apparentemente completamente diverso del denaro nei vari periodi storici? Questo problema lascia perplesso quasi chiunque legga la [[history|storia]] in modo attento, e richiede una spiegazione chiara. La maggior parte dei tentativi di chiarirlo è fallita o è risultata assolutamente insufficiente; alcuni di questi tentativi sono addirittura molto vaghi, come: “Il valore del denaro in quei tempi era molto diverso da quello attuale”. O: “Allora il denaro aveva almeno dieci volte più valore di oggi” (mentre dalle cronache risulta chiaramente che ne aveva un valore molto maggiore!). Frasi del genere lasciano il lettore nella stessa ignoranza di prima. Abbiamo bisogno di una spiegazione più precisa, e credo che sia possibile fornirla.
+Qual è la spiegazione di questo significato apparentemente completamente diverso del denaro nei vari periodi storici? Questo problema lascia perplesso quasi chiunque legga la [[concepts/history|storia]] in modo attento, e richiede una spiegazione chiara. La maggior parte dei tentativi di chiarirlo è fallita o è risultata assolutamente insufficiente; alcuni di questi tentativi sono addirittura molto vaghi, come: “Il valore del denaro in quei tempi era molto diverso da quello attuale”. O: “Allora il denaro aveva almeno dieci volte più valore di oggi” (mentre dalle cronache risulta chiaramente che ne aveva un valore molto maggiore!). Frasi del genere lasciano il lettore nella stessa ignoranza di prima. Abbiamo bisogno di una spiegazione più precisa, e credo che sia possibile fornirla.
 
 Ci sono tre fattori che, insieme, determinano il valore sociale del denaro in qualsiasi periodo; se non li prendiamo tutti in considerazione, commetteremo errori. Il motivo per cui la maggior parte delle persone ha sbagliato nel tentativo di risolvere questo problema – o lo ha semplicemente abbandonato – è che considera soltanto il primo di questi tre fattori. Questi tre elementi sono i seguenti:
 
-1. Il reale potere d’acquisto di ciò che viene utilizzato come moneta – nel nostro caso, per quasi tutta la [[history|storia]] europea, l’oro: la quantità di grano, pelle, materiali da costruzione e tutto il resto che una certa quantità d’oro (ad esempio un’oncia) può acquistare in qualsiasi momento. Questo valore varia nei diversi periodi a seconda della quantità di oro in circolazione e della sua efficienza nel sistema monetario. Abbiamo visto come questi siano i fattori che influenzano il prezzo, cioè il potere d’acquisto del denaro, quando ne abbiamo parlato in precedenza in [[The Book|questo libro]].
+1. Il reale potere d’acquisto di ciò che viene utilizzato come moneta – nel nostro caso, per quasi tutta la [[concepts/history|storia]] europea, l’oro: la quantità di grano, pelle, materiali da costruzione e tutto il resto che una certa quantità d’oro (ad esempio un’oncia) può acquistare in qualsiasi momento. Questo valore varia nei diversi periodi a seconda della quantità di oro in circolazione e della sua efficienza nel sistema monetario. Abbiamo visto come questi siano i fattori che influenzano il prezzo, cioè il potere d’acquisto del denaro, quando ne abbiamo parlato in precedenza in [[motifs/the-book|questo libro]].
 
 2. Il numero di tipi di cose che il denaro può essere utilizzato per comprare in qualsiasi società – o, per usare termini tecnici, “il numero di categorie di valori economici acquistabili”.
 
-3. L’entità economica della comunità, ovvero il numero dei suoi cittadini e l’ammontare del suo patrimonio totale in un dato [[Time|momento]].
+3. L’entità economica della comunità, ovvero il numero dei suoi cittadini e l’ammontare del suo patrimonio totale in un dato [[motifs/time|momento]].
 
-Quando analizziamo appieno il significato di queste tre componenti, vedremo come, nel loro insieme, esse determinino il valore sociale del denaro in qualsiasi [[Time|momento]], e perché tale valore possa variare notevolmente da un periodo storico all’altro.
+Quando analizziamo appieno il significato di queste tre componenti, vedremo come, nel loro insieme, esse determinino il valore sociale del denaro in qualsiasi [[motifs/time|momento]], e perché tale valore possa variare notevolmente da un periodo storico all’altro.
 
 1. Il reale potere d’acquisto della valuta.
 
-Data la stessa valuta (e nell’[[Europe|Europa]] occidentale, per tutti gli effetti pratici, è sempre stata l’oro negli ultimi duemila anni), possiamo misurare il valore d’acquisto di una determinata quantità d’oro in qualsiasi periodo utilizzando ciò che viene chiamato “Indice dei prezzi” di quel periodo.
+Data la stessa valuta (e nell’[[settings/europe|Europa]] occidentale, per tutti gli effetti pratici, è sempre stata l’oro negli ultimi duemila anni), possiamo misurare il valore d’acquisto di una determinata quantità d’oro in qualsiasi periodo utilizzando ciò che viene chiamato “Indice dei prezzi” di quel periodo.
 
 Il numero di indice è qualcosa di molto importante da comprendere, perché viene spesso menzionato nelle moderne discussioni, così come in quelle storiche; ad esempio, al giorno d’oggi i salari sono in gran parte determinati dal numero di indice.
 
 Si prende un anno specifico, ad esempio il 1900, e si esaminano i registri che indicano a quanto valevano diverse merci in oro sul mercato in quell’anno. Si scopre così che, in quel periodo, un’oncia d’oro permetteva di acquistare, per esempio, quattrocento libbre di grano, 600 libbre di orzo, 80 libbre di pancetta, 80 galloni di birra, un quarto di tonnellata di ghisa, e così via. Si redige quindi un elenco di tutte le principali merci utilizzate nella comunità. Supponiamo che vengano prese 100 di queste merci; tra esse, costituiscono sicuramente la maggior parte – diciamo sette ottavi – del valore complessivo consumato nella comunità. Il passo successivo consiste nel “valutare” ciascuna merce, poiché è evidente che una merce acquistata in grandi quantità – come il pane – debba essere considerata più importante nell’ambito della valutazione del potere d’acquisto del denaro rispetto a una merce utilizzata molto meno frequentemente – come la latta.
 
-In base al valore di ciascun bene utilizzato in un determinato periodo di [[Time|tempo]] (ad esempio, un anno), i vari beni vengono “ponderati”. Quindi si considera che il pane sia dodici volte più importante del piombo, poiché il valore del pane consumato nella comunità in un anno è dodici volte superiore al valore del piombo utilizzato nello stesso periodo. Supponiamo ora che il valore della pelle utilizziata sia tre volte quello del piombo, e quello del ferro cinque volte, ecc. Si assegnano quindi a ciascun bene questi valori “ponderanti”.
+In base al valore di ciascun bene utilizzato in un determinato periodo di [[motifs/time|tempo]] (ad esempio, un anno), i vari beni vengono “ponderati”. Quindi si considera che il pane sia dodici volte più importante del piombo, poiché il valore del pane consumato nella comunità in un anno è dodici volte superiore al valore del piombo utilizzato nello stesso periodo. Supponiamo ora che il valore della pelle utilizziata sia tre volte quello del piombo, e quello del ferro cinque volte, ecc. Si assegnano quindi a ciascun bene questi valori “ponderanti”.
 
 Successivamente si scopre quante di queste merci si possano acquistare con un’oncia d’oro in quell’anno specifico. Ad esempio, si scopre che un’oncia d’oro permette di acquistare un quarto di tonnellata di piombo, 400 libbre di pane, e così via; tuttavia, è necessario moltiplicare tale quantità per il peso specifico dell’oro utilizzato in ciascun prodotto. Ad esempio: si considera che l’oro impiegato nell’acquisto del pane abbia un valore dodici volte superiore a quello utilizzato nell’acquisto del piombo.
 
@@ -11163,7 +11163,7 @@ spent on bacon and twenty times the amount spent on iron.
 You add up the twenty tons of wheat, the half ton of iron and the half
 ton of bacon--half a ton of the latter because twice as much is spent
 on it as is spent on iron, and therefore though it is half the price of
-iron you must [[Double|double]] the amount, because twice as much is bought.
+iron you must [[topoi/double|double]] the amount, because twice as much is bought.
 
 You get 21 tons. To buy this 21 tons of stuff 3 ounces of gold were
 needed. You divide the 21 tons by 3, and you get 7 tons of material on
@@ -11196,29 +11196,29 @@ will not find it difficult to understand.
 
 The first thing, then, in finding out the social value of money at any
 historical period is to find out the purchasing value of a given weight
-of gold--say, one ounce. Supposing we are comparing the [[Time|time]] when Henry
+of gold--say, one ounce. Supposing we are comparing the [[motifs/time|time]] when Henry
 VIII. dissolved the monasteries and took their wealth (1536–9) with our
-own [[Time|time]], before the War, when our currency was still normal and in
+own [[motifs/time|time]], before the War, when our currency was still normal and in
 gold, you will find that with 100 as your base for prices in 1536–9 the
 Index Number of 1913 is, according to different calculations, somewhere
 between 2,000 and 2,400. I have gone into it myself very carefully,
-and I make it out to be at least 2,400 (though historians some [[Time|time]]
+and I make it out to be at least 2,400 (though historians some [[motifs/time|time]]
 ago, who had not gone into it very fully, used to make it lower); that
 is, where one ounce of gold would purchase the things which Englishmen
 regarded as their staple commodities in 1536, 24 ounces of gold would
 be necessary to-day.
 
 That is the first thing you have to consider when you are comparing the
-social value of money at that [[Time|time]] with the social value of money in
-our own [[Time|time]]. You multiply right away by 24. You hear, for instance,
-that a man had £100 a year paid him by the [[King]] for looking after the
+social value of money at that [[motifs/time|time]] with the social value of money in
+our own [[motifs/time|time]]. You multiply right away by 24. You hear, for instance,
+that a man had £100 a year paid him by the [[archetypes/king|King]] for looking after the
 garrison at Dover. You translate it into modern money, and say that he
 had £2,400 a year paid him in our money.
 
 Most people stop there, and that is why they get their answer to the
 problem all wrong. In reality the social value of money then was
 very much more than 24 times what it is now, and £100 a year under
-[[Henry VIII]]. meant a great deal more than what £2,400 means now.
+[[characters/henry-viii|Henry VIII]]. meant a great deal more than what £2,400 means now.
 
 In order to see how true this is we have to consider the next two
 points which I mentioned.
@@ -11228,7 +11228,7 @@ points which I mentioned.
 Suppose you put a man into a little primitive place like Andorra (which
 is a tiny independent state shut off from the world in a valley of the
 Pyrenees), and he is paid there £1,000 a year. He cannot live in a
-[[house]] with more than a small rental, because there are no big houses
+house with more than a small rental, because there are no big houses
 to be had. Everybody lives in simple, little houses. He cannot spend
 his money on many things. There are no roads, no use for a motor car;
 no railways, so he cannot spend money on railway fares; no theatres
@@ -11237,19 +11237,19 @@ every side. He can buy bread and meat, and wine and clothing, and very
 little else--for there is nothing else to be bought. In other words,
 the number of sets of things (that is what the word “categories”
 means--“sets of things”) on which he can spend money is a great deal
-less than what it would be in [[London]]. A man with £1,000 a year in
-[[London]] and a [[Family|family]] to keep is, of course, very much better off than a
+less than what it would be in [[settings/london|London]]. A man with £1,000 a year in
+[[settings/london|London]] and a [[concepts/family|family]] to keep is, of course, very much better off than a
 labouring man, but still he is not rich, as rich people use the term.
-He will live in a [[house]] for which he must pay perhaps £200 a year,
+He will live in a house for which he must pay perhaps £200 a year,
 counting rent and taxes. Then he will--he usually must--travel, and
 that will cost him perhaps £50 a year. Then his friends will expect
-to meet him and he must have them at his [[house]], and he will have to
+to meet him and he must have them at his house, and he will have to
 spend a good deal in postage and telegraphing--and so on. The man in
 Andorra with £1,000 a year simply would not know what to do with it. He
-would be so “[[Well|well]] off” that he would have a very large surplus--more
+would be so “[[motifs/well|well]] off” that he would have a very large surplus--more
 than half--to give away, or to help other people with, or to save and
 invest. But exactly the same sort of man, with the same ideas and
-bringing-up and necessities, put down in [[London]] would certainly not be
+bringing-up and necessities, put down in [[settings/london|London]] would certainly not be
 able to save a penny of his £1,000 a year.
 
 
@@ -11261,7 +11261,7 @@ Questi numeri di indice, calcolati per ogni anno utilizzando un determinato anno
 
 Per rendere il processo più chiaro, prenderemo un esempio semplice e immagineremo una comunità in cui i cittadini acquistassero su larga scala soltanto tre tipi di prodotti: grano, bacon e ferro. Prendiamo come anno di riferimento, per esempio, l’anno 1880, e scopriamo che un’oncia d’oro avrebbe permesso di acquistare una tonnellata di grano, mezza tonnellata di ferro e un quarto di tonnellata di bacon. Tuttavia, la somma spesa per il grano era dieci volte superiore a quella spesa per il bacon e venti volte superiore a quella spesa per il ferro.
 
-Si sommano le venti tonnellate di grano, mezza tonnellata di ferro e mezza tonnellata di pancetta: mezza tonnellata di quest'ultima perché ne viene spesa il doppio rispetto al ferro; quindi, anche se costa la metà del ferro, è necessario [[Double|raddoppiare]] la quantità acquistata, poiché ne viene comprato il doppio.
+Si sommano le venti tonnellate di grano, mezza tonnellata di ferro e mezza tonnellata di pancetta: mezza tonnellata di quest'ultima perché ne viene spesa il doppio rispetto al ferro; quindi, anche se costa la metà del ferro, è necessario [[topoi/double|raddoppiare]] la quantità acquistata, poiché ne viene comprato il doppio.
 
 Si ottengono 21 tonnellate. Per acquistare queste 21 tonnellate di materiale, erano necessarie 3 once d’oro. Dividendo le 21 tonnellate per 3, si ottengono in media 7 tonnellate di materiale.
 
@@ -11275,9 +11275,9 @@ In realtà, il calcolo di un Numero Indice comporta molti più aspetti complicat
 
 Quindi, la prima cosa da fare per comprendere il valore sociale del denaro in qualsiasi periodo storico è determinare il valore d’acquisto di una data quantità d’oro – diciamo, un’oncia. Supponiamo di confrontare l’epoca in cui Enrico VIII sciolse i monasteri e se ne appropriò dei beni (1536–96) con la nostra epoca attuale, prima della guerra, quando la nostra valuta era ancora basata sull’oro. Si scopre che, utilizzando 100 come unità di riferimento per i prezzi nel 1536–96, il numero indicatore del 1913 varia, a seconda dei calcoli, tra 2.000 e 2.400. Ho analizzato personalmente la questione con molta attenzione e sono giunto alla conclusione che sia almeno pari a 2.400; tuttavia, alcuni storici di un tempo, che non avevano approfondito l’argomento, stimavano questo valore più basso. In altre parole: ciò che un’oncia d’oro permetteva di acquistare nel 1536, come beni di prima necessità per gli inglesi, oggi richiederebbe 24 once d’oro.
 
-Questo è il primo aspetto da considerare quando si confronta il valore sociale del denaro in quel [[Time|periodo]] con il suo valore sociale nel nostro [[Time|tempo]] attuale. Bisogna moltiplicare immediatamente tale importo per 24. Ad esempio, si legge che un uomo riceveva 100 sterline all’anno dal [[King|Re]] per il compito di sorvegliare la guarnigione di Dover; traducendo questo importo in valuta moderna, si ottiene che equivalgesse a 2.400 sterline all’anno nel nostro sistema monetario attuale.
+Questo è il primo aspetto da considerare quando si confronta il valore sociale del denaro in quel [[motifs/time|periodo]] con il suo valore sociale nel nostro [[motifs/time|tempo]] attuale. Bisogna moltiplicare immediatamente tale importo per 24. Ad esempio, si legge che un uomo riceveva 100 sterline all’anno dal [[archetypes/king|Re]] per il compito di sorvegliare la guarnigione di Dover; traducendo questo importo in valuta moderna, si ottiene che equivalgesse a 2.400 sterline all’anno nel nostro sistema monetario attuale.
 
-La maggior parte delle persone si ferma lì, ed è proprio per questo che sbaglia completamente nella risoluzione del problema. In realtà, il valore sociale del denaro all’epoca era molto superiore a 24 volte quello attuale; quindi, 100 sterline all’anno sotto [[Henry VIII|Enrico VIII]] significavano molto di più di quanto significhino oggi 2.400 sterline.
+La maggior parte delle persone si ferma lì, ed è proprio per questo che sbaglia completamente nella risoluzione del problema. In realtà, il valore sociale del denaro all’epoca era molto superiore a 24 volte quello attuale; quindi, 100 sterline all’anno sotto [[characters/henry-viii|Enrico VIII]] significavano molto di più di quanto significhino oggi 2.400 sterline.
 
 Per verificare quanto sia vero questo, dobbiamo prendere in considerazione i prossimi due punti che ho menzionato.
 
@@ -11291,28 +11291,28 @@ Supponiamo di mettere un uomo in un luogo primitivo come Andorra, uno stato indi
 
 
 So we see that the social value of £1,000 a year in Andorra is very
-different from the social value of the same sum in [[London]]. Some people
+different from the social value of the same sum in [[settings/london|London]]. Some people
 might be inclined to laugh at this difference, and to say: “Oh,
-yes! but the man in [[London]] could, if he liked, save, simply by not
+yes! but the man in [[settings/london|London]] could, if he liked, save, simply by not
 spending on those various categories, as you call them.” Yes; he as an
 individual might choose to live an odd life of his own and not do what
 other people do. But Society as a whole--that is, all the community
-round him--in [[London]] is, as a fact, spending upon those various, very
+round him--in [[settings/london|London]] is, as a fact, spending upon those various, very
 numerous, categories, while in Andorra he does not, for he cannot,
 spend upon them; they are not there to be purchased. Therefore it is
 true that the social value of the same sum, with the same index
-number, is on the average very much higher in Andorra than in [[London]].
+number, is on the average very much higher in Andorra than in [[settings/london|London]].
 
 You cannot give this difference precisely in figures as you can an
 index number, because nobody can precisely calculate the number of
 categories nor the respective importance of each, but the least
-knowledge of [[history]] shows you that in [[Henry VIII]].’s [[Time|time]], in 1536, the
+knowledge of [[concepts/history|history]] shows you that in [[characters/henry-viii|Henry VIII]].’s [[motifs/time|time]], in 1536, the
 number of categories was very much smaller than it is to-day. So the
-man to whom [[Henry VIII]]. paid £100 a year as salary for looking after
+man to whom [[characters/henry-viii|Henry VIII]]. paid £100 a year as salary for looking after
 one of his castles, though the purchasing value of his income--the
 amount of rye or pork or what not that he could buy with it--was
 what we should call to-day £2,400 a year, had a much higher income
-relatively to the people of the [[Time|time]] than has a man with £2,400 a
+relatively to the people of the [[motifs/time|time]] than has a man with £2,400 a
 year to-day. He counted much more than a man to-day counts who has five
 thousand a year.
 
@@ -11323,32 +11323,32 @@ have seen, and we must next turn to that.
 
 The third factor in the making up of the social value of money is the
 relation of any sum to the total wealth of the whole community. That of
-course depends upon two things: the average of wealth of each [[Family|family]] in
+course depends upon two things: the average of wealth of each [[concepts/family|family]] in
 the community, and the number of those families.
 
 Supposing, for instance, with things at their present prices, you
 consider two communities: (1) the people of Iceland, (2) the people of
-[[Australia]]. In both countries you can get pretty much the same amount
+[[settings/australia|Australia]]. In both countries you can get pretty much the same amount
 of stuff for an ounce of gold, and though there are less categories
-of purchasable things in Iceland than in [[Australia]], yet most of the
+of purchasable things in Iceland than in [[settings/australia|Australia]], yet most of the
 things a civilised man requires can be got in Iceland--at least in the
 capital, or can be imported there by the inhabitants if they need them
 or can afford to pay for them. Both communities are of our own race
 and of much the same standard of culture and the same idea of how one
 should live. But Iceland has only four thousand families, and these
-families are poor for the most part. [[Australia]] has a million families,
+families are poor for the most part. [[settings/australia|Australia]] has a million families,
 that is, 250 times as many, and they are much richer than the families
 in Iceland on the average. There are much worse differences of rich
-and poor in [[Australia]] than there are in Iceland. There are far more
-miserable and starving people in [[Australia]] than there are in Iceland;
-but the average wealth of a [[Family|family]] in [[Australia]] is much higher than
+and poor in [[settings/australia|Australia]] than there are in Iceland. There are far more
+miserable and starving people in [[settings/australia|Australia]] than there are in Iceland;
+but the average wealth of a [[concepts/family|family]] in [[settings/australia|Australia]] is much higher than
 that in Iceland.
 
-Now suppose that the [[government|Government]] of Iceland were to want to build a
+Now suppose that the Government of Iceland were to want to build a
 new harbour for the capital, which is on the sea, and in order to get
 the money were either to confiscate the wealth of certain rich people
 or to tax all the people--supposing it wanted, for instance, £400,000
-in order to complete the work. And supposing the people of [[Australia]]
+in order to complete the work. And supposing the people of [[settings/australia|Australia]]
 similarly wanted to build a harbour and also wanted £400,000 to be
 got in the same way. The index number is the same in both places. An
 ounce of gold will roughly purchase the same amount of things in both
@@ -11356,23 +11356,23 @@ places, for the index number at any moment is much the same all over
 the white world, measured in gold, and we may imagine the categories of
 purchasable things to be much the same in both places. Yet the social
 value of the £400,000 is quite different in Iceland from what it is in
-[[Australia]]. In Iceland it means taking an average of £100 from each of
+[[settings/australia|Australia]]. In Iceland it means taking an average of £100 from each of
 the poor families--if you get it by taxation--or the confiscation of
-all the wealth of the very few rich men there may be. But in [[Australia]]
-it means no more than the taking of about 8s. from each [[Family|family]], and
-that from an average [[Family|family]] income much higher than the average [[Family|family]]
+all the wealth of the very few rich men there may be. But in [[settings/australia|Australia]]
+it means no more than the taking of about 8s. from each [[concepts/family|family]], and
+that from an average [[concepts/family|family]] income much higher than the average [[concepts/family|family]]
 income in Iceland. Under this heading the social value of £400,000
-in Iceland is enormous and in [[Australia]] is small. If Iceland tried
+in Iceland is enormous and in [[settings/australia|Australia]] is small. If Iceland tried
 to build such a harbour it could hardly do so. The economic effort
 would be very great, and if it succeeded it would fill a big place in
-the [[history]] of the [[Island|island]]. In Australian [[history]] it would pass almost
+the [[concepts/history|history]] of the [[settings/island|island]]. In Australian [[concepts/history|history]] it would pass almost
 unnoticed.
 
 Now let us add the influence of all these three points together, and we
 shall see that there is a vast difference between the social value of
-money in the [[Time|time]] of [[Henry VIII]]., when the monasteries were dissolved,
+money in the [[motifs/time|time]] of [[characters/henry-viii|Henry VIII]]., when the monasteries were dissolved,
 and the social value of the same amount of money to-day. We shall see,
-for instance, why the [[King]], taking away the annual revenues of the
+for instance, why the [[archetypes/king|King]], taking away the annual revenues of the
 Monastery of Westminster and keeping them for himself, made such a
 prodigious splash, although the actual amount in pounds, or weight of
 gold, in which the income of Westminster Abbey could then be measured
@@ -11384,56 +11384,56 @@ there was a very much smaller number of purchasable categories; that
 is, where people had a very much small number of “sets of things” upon
 which to spend money.
 
-And, lastly, you must remember that it took place in an [[England]] the
+And, lastly, you must remember that it took place in an [[settings/england|England]] the
 population of which was hardly more than a sixth--some people would
 say it was hardly more than a tenth--of to-day’s, and that population
 actually a great deal poorer on the average than the present population
-of [[England]]. It is true that there was not then the great herd of
-starving or half-starving people which we have to-day in [[England]], and
+of [[settings/england|England]]. It is true that there was not then the great herd of
+starving or half-starving people which we have to-day in [[settings/england|England]], and
 that labouring people were then much better off than they are now;
 but, on the other hand, there was nothing like the same number of
-very rich people, and therefore the average [[Family|family]] income was much
+very rich people, and therefore the average [[concepts/family|family]] income was much
 smaller. Put all that together, and it is clear what a tremendous
 business the confiscation of this one Abbey meant. It was somewhat as
-though the [[government|Government]] to-day were to confiscate one of the smaller
+though the Government to-day were to confiscate one of the smaller
 railway companies, or to take away the rentals now paid by a northern
 manufacturing town to the great landlords owning the soil, and put the
 money into its own pocket.
 
 From this example of the confiscation of the Abbey of Westminster you
-can argue to all the other expenditure of the [[Time|time]]--expenditure on
+can argue to all the other expenditure of the [[motifs/time|time]]--expenditure on
 armies and navies, and so on--and in this way you can see _how, why and
 in what degree the social value of money differs between one period and
 another_.
 
-It is most important to get this point in [[Economics]] clear in your mind
-if you are reading [[history]], because it helps to explain all manner of
+It is most important to get this point in [[concepts/economics|Economics]] clear in your mind
+if you are reading [[concepts/history|history]], because it helps to explain all manner of
 things which otherwise puzzle one in the past.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Quindi vediamo che il valore sociale di 1.000 sterline all’anno ad Andorra è molto diverso dal valore sociale della stessa somma a [[London|Londra]]. Alcuni potrebbero ridere di questa differenza e dire: “Oh, sì! Ma la persona a [[London|Londra]] potrebbe, se volesse, risparmiare semplicemente evitando di spendere in quelle varie categorie che avete menzionato.” Sì; un individuo potrebbe scegliere di vivere in modo particolare e non fare ciò che fanno gli altri. Ma la Società nel suo complesso – cioè tutta la comunità che lo circonda – a [[London|Londra]] effettivamente spende in quelle numerose categorie, mentre ad Andorra non può farlo, perché tali cose semplicemente non esistono per essere acquistate. Pertanto è vero che il valore sociale della stessa somma, con lo stesso indice di valutazione, è in media molto più alto ad Andorra che a [[London|Londra]].
+Quindi vediamo che il valore sociale di 1.000 sterline all’anno ad Andorra è molto diverso dal valore sociale della stessa somma a [[settings/london|Londra]]. Alcuni potrebbero ridere di questa differenza e dire: “Oh, sì! Ma la persona a [[settings/london|Londra]] potrebbe, se volesse, risparmiare semplicemente evitando di spendere in quelle varie categorie che avete menzionato.” Sì; un individuo potrebbe scegliere di vivere in modo particolare e non fare ciò che fanno gli altri. Ma la Società nel suo complesso – cioè tutta la comunità che lo circonda – a [[settings/london|Londra]] effettivamente spende in quelle numerose categorie, mentre ad Andorra non può farlo, perché tali cose semplicemente non esistono per essere acquistate. Pertanto è vero che il valore sociale della stessa somma, con lo stesso indice di valutazione, è in media molto più alto ad Andorra che a [[settings/london|Londra]].
 
-Non si può esprimere con precisione questa differenza in termini numerici, al contrario di quanto avviene per un indice; infatti nessuno è in grado di calcolare con esattezza il numero delle categorie né l’importanza relativa di ciascuna. Tuttavia, anche una semplice conoscenza della [[history|storia]] ci mostra che, durante il regno di [[Henry VIII|Enrico VIII]], nel 1536, il numero di categorie era molto più ridotto rispetto ad oggi. Quindi, l’uomo a cui [[Henry VIII|Enrico VIII]] pagava 100 sterline all’anno per la cura di uno dei suoi castelli – sebbene il valore reale di tale reddito, in termini di quantità di orzo, maiale o altro che si poteva acquistare con esso, fosse equivalente a circa 2.400 sterline odierni – aveva un reddito relativamente molto più alto rispetto alle persone dell’epoca, rispetto a quanto ne abbia oggi una persona che guadagna 2.400 sterline all’anno. Per lui, quel reddito significava molto di più di quanto significhi oggi per qualcuno che ne guadagna cinquemila.
+Non si può esprimere con precisione questa differenza in termini numerici, al contrario di quanto avviene per un indice; infatti nessuno è in grado di calcolare con esattezza il numero delle categorie né l’importanza relativa di ciascuna. Tuttavia, anche una semplice conoscenza della [[concepts/history|storia]] ci mostra che, durante il regno di [[characters/henry-viii|Enrico VIII]], nel 1536, il numero di categorie era molto più ridotto rispetto ad oggi. Quindi, l’uomo a cui [[characters/henry-viii|Enrico VIII]] pagava 100 sterline all’anno per la cura di uno dei suoi castelli – sebbene il valore reale di tale reddito, in termini di quantità di orzo, maiale o altro che si poteva acquistare con esso, fosse equivalente a circa 2.400 sterline odierni – aveva un reddito relativamente molto più alto rispetto alle persone dell’epoca, rispetto a quanto ne abbia oggi una persona che guadagna 2.400 sterline all’anno. Per lui, quel reddito significava molto di più di quanto significhi oggi per qualcuno che ne guadagna cinquemila.
 
 Ma questo secondo punto non è tutto. Come abbiamo visto, c’è anche un terzo punto, e dobbiamo ora passare ad analizzarlo.
 
 3. Il valore d’acquisto dell’intera comunità.
 
-Il terzo fattore che contribuisce alla formazione del valore sociale del denaro è il rapporto tra qualsiasi somma di denaro e la ricchezza totale dell’intera comunità. Questo rapporto dipende naturalmente da due elementi: la media della ricchezza di ciascuna [[Family|>famiglia]] all’interno della comunità, e il numero di queste famiglie.
+Il terzo fattore che contribuisce alla formazione del valore sociale del denaro è il rapporto tra qualsiasi somma di denaro e la ricchezza totale dell’intera comunità. Questo rapporto dipende naturalmente da due elementi: la media della ricchezza di ciascuna [[concepts/family|>famiglia]] all’interno della comunità, e il numero di queste famiglie.
 
-Supponiamo, ad esempio, che, alle attuali tariffe di mercato, si considerino due comunità: (1) la popolazione dell’Islanda e (2) la popolazione dell’[[Australia]]. In entrambi i paesi è possibile ottenere più o meno lo stesso quantitativo di beni in cambio di un’oncia d’oro; sebbene in Islanda ci siano meno categorie di prodotti disponibili rispetto all’[[Australia]], la maggior parte delle cose di cui ha bisogno una persona civile può essere reperita in Islanda – almeno nella capitale, oppure può essere importata dagli abitanti se ne hanno bisogno o se possono permettersela. Entrambe le comunità appartengono alla nostra stessa razza, presentano un livello culturale simile e condividono la stessa concezione di come si dovrebbe vivere. Tuttavia, in Islanda ci sono soltanto quattro migliaia di famiglie, e la maggior parte di queste è povera; in [[Australia]], invece, ci sono un milione di famiglie, cioè 250 volte di più, e in media queste famiglie sono molto più ricche di quelle islandesi. In [[Australia]] esistono differenze ben maggiori tra ricchi e poveri rispetto all’Islanda; ci sono molte più persone che vivono nella miseria o che muoiono di fame in [[Australia]] rispetto all’Islanda, ma il patrimonio medio di una famiglia in [[Family|Australia]] è decisamente superiore a quello islandese.
+Supponiamo, ad esempio, che, alle attuali tariffe di mercato, si considerino due comunità: (1) la popolazione dell’Islanda e (2) la popolazione dell’[[settings/australia|Australia]]. In entrambi i paesi è possibile ottenere più o meno lo stesso quantitativo di beni in cambio di un’oncia d’oro; sebbene in Islanda ci siano meno categorie di prodotti disponibili rispetto all’[[settings/australia|Australia]], la maggior parte delle cose di cui ha bisogno una persona civile può essere reperita in Islanda – almeno nella capitale, oppure può essere importata dagli abitanti se ne hanno bisogno o se possono permettersela. Entrambe le comunità appartengono alla nostra stessa razza, presentano un livello culturale simile e condividono la stessa concezione di come si dovrebbe vivere. Tuttavia, in Islanda ci sono soltanto quattro migliaia di famiglie, e la maggior parte di queste è povera; in [[settings/australia|Australia]], invece, ci sono un milione di famiglie, cioè 250 volte di più, e in media queste famiglie sono molto più ricche di quelle islandesi. In [[settings/australia|Australia]] esistono differenze ben maggiori tra ricchi e poveri rispetto all’Islanda; ci sono molte più persone che vivono nella miseria o che muoiono di fame in [[settings/australia|Australia]] rispetto all’Islanda, ma il patrimonio medio di una famiglia in [[concepts/family|Australia]] è decisamente superiore a quello islandese.
 
-Ora supponiamo che il [[government|Governo]] dell’Islanda voglia costruire un nuovo porto per la capitale, che si trova sul mare, e che, per reperire i fondi necessari, debba confiscare le ricchezze di alcuni individui benestanti o imporre tasse a tutta la popolazione. Supponiamo, ad esempio, che servano 400.000 sterline per completare i lavori. E supponiamo che anche il popolo dell’[[Australia]] voglia costruire un porto e che necessiti anch’esso di 400.000 sterline, reperite nello stesso modo. Il numero indicatore è lo stesso in entrambi i casi: un’oncia d’oro acquista più o meno la stessa quantità di beni in entrambe le regioni, poiché il numero indicatore è sostanzialmente uguale in tutto il “mondo bianco”, misurato in termini di oro; inoltre, possiamo presumere che le categorie di beni acquistabili siano simili nelle due zone. Tuttavia, il valore sociale di quelle 400.000 sterline è molto diverso in Islanda rispetto all’Australia: in Islanda significherebbe confiscare in media 100 sterline a ciascuna delle famiglie povere, oppure tutte le ricchezze dei pochi individui benestanti del paese; in Australia, invece, significherebbe soltanto riscuotere circa 8 penny da ciascuna famiglia, e questo da un reddito medio molto più alto rispetto a quello delle famiglie islandesi. Pertanto, il valore sociale di quelle 400.000 sterline è enorme in Islanda e molto inferiore in Australia. Se l’Islanda tentasse di realizzare tale progetto, probabilmente non riuscirebbe; lo sforzo economico richiesto sarebbe enorme, e nel caso di successo, tale impresa occuperebbe un posto importante nella [[history|storia]] dell’isola. Nella storia australiana, invece, passerebbe quasi inosservata.
+Ora supponiamo che il Governo dell’Islanda voglia costruire un nuovo porto per la capitale, che si trova sul mare, e che, per reperire i fondi necessari, debba confiscare le ricchezze di alcuni individui benestanti o imporre tasse a tutta la popolazione. Supponiamo, ad esempio, che servano 400.000 sterline per completare i lavori. E supponiamo che anche il popolo dell’[[settings/australia|Australia]] voglia costruire un porto e che necessiti anch’esso di 400.000 sterline, reperite nello stesso modo. Il numero indicatore è lo stesso in entrambi i casi: un’oncia d’oro acquista più o meno la stessa quantità di beni in entrambe le regioni, poiché il numero indicatore è sostanzialmente uguale in tutto il “mondo bianco”, misurato in termini di oro; inoltre, possiamo presumere che le categorie di beni acquistabili siano simili nelle due zone. Tuttavia, il valore sociale di quelle 400.000 sterline è molto diverso in Islanda rispetto all’Australia: in Islanda significherebbe confiscare in media 100 sterline a ciascuna delle famiglie povere, oppure tutte le ricchezze dei pochi individui benestanti del paese; in Australia, invece, significherebbe soltanto riscuotere circa 8 penny da ciascuna famiglia, e questo da un reddito medio molto più alto rispetto a quello delle famiglie islandesi. Pertanto, il valore sociale di quelle 400.000 sterline è enorme in Islanda e molto inferiore in Australia. Se l’Islanda tentasse di realizzare tale progetto, probabilmente non riuscirebbe; lo sforzo economico richiesto sarebbe enorme, e nel caso di successo, tale impresa occuperebbe un posto importante nella [[concepts/history|storia]] dell’isola. Nella storia australiana, invece, passerebbe quasi inosservata.
 
-Ora aggiungiamo insieme l’influenza di tutti e questi tre fattori, e vedremo che esiste una vasta differenza nel valore sociale del denaro all’epoca di [[Henry VIII|Enrico VIII]], quando i monasteri furono dissolti, rispetto al valore sociale della stessa somma di denaro oggi. Vedremo, ad esempio, perché il [[King|-Re]] che si appropriò dei redditi annuali del Monastero di Westminster e li tenne per sé suscitò un tale scalpore, sebbene l’importo effettivo in sterline, o in peso d’oro, con cui allora si poteva misurare il reddito dell’Abbazia di Westminster fosse soltanto di 4.000 sterline all’anno. In primo luogo, bisogna moltiplicare questa cifra per 24, in modo da calcolare il valore reale, ovvero il potere d’acquisto annuo in grano, manzo, orzo, maiale, birra, che venne confiscato; tale valore ammontava quasi a 100.000 sterline nel nostro sistema monetario attuale. Inoltre, bisogna ricordare che tutto ciò avvenne in una società in cui esisteva un numero molto più ridotto di beni acquistabili; in altre parole, le persone disponevano di un numero molto limitato di “categorie di prodotti” su cui spendere i propri soldi.
+Ora aggiungiamo insieme l’influenza di tutti e questi tre fattori, e vedremo che esiste una vasta differenza nel valore sociale del denaro all’epoca di [[characters/henry-viii|Enrico VIII]], quando i monasteri furono dissolti, rispetto al valore sociale della stessa somma di denaro oggi. Vedremo, ad esempio, perché il [[archetypes/king|-Re]] che si appropriò dei redditi annuali del Monastero di Westminster e li tenne per sé suscitò un tale scalpore, sebbene l’importo effettivo in sterline, o in peso d’oro, con cui allora si poteva misurare il reddito dell’Abbazia di Westminster fosse soltanto di 4.000 sterline all’anno. In primo luogo, bisogna moltiplicare questa cifra per 24, in modo da calcolare il valore reale, ovvero il potere d’acquisto annuo in grano, manzo, orzo, maiale, birra, che venne confiscato; tale valore ammontava quasi a 100.000 sterline nel nostro sistema monetario attuale. Inoltre, bisogna ricordare che tutto ciò avvenne in una società in cui esisteva un numero molto più ridotto di beni acquistabili; in altre parole, le persone disponevano di un numero molto limitato di “categorie di prodotti” su cui spendere i propri soldi.
 
-E, infine, bisogna ricordare che tutto ciò avvenne in un’[[England|Inghilterra]] la cui popolazione era appena un sesto – alcuni direbbero addirittura un decimo – di quella odierna, e che tale popolazione, in media, era molto più povera rispetto a quella attuale. È vero che all’epoca non esisteva quella vasta moltitudine di persone affamate o semiaffamate che abbiamo oggi in [[England|Inghilterra]], e che i lavoratori vivevano in condizioni molto migliori rispetto ad ora; ma, d’altra parte, non esistevano nemmeno un numero paragonabile di persone estremamente ricche, quindi il reddito medio delle famiglie era molto più basso. Tenendo tutto ciò presente, diventa evidente quanto fosse enorme l’importanza della confisca di quell’abbazia: era quasi come se oggi il [[government|Governo]] confiscasse una delle piccole compagnie ferroviarie, o togliesse ai grandi proprietari terrieri i canoni che attualmente pagano le città industriali del nord, mettendo quei soldi nelle proprie tasche.
+E, infine, bisogna ricordare che tutto ciò avvenne in un’[[settings/england|Inghilterra]] la cui popolazione era appena un sesto – alcuni direbbero addirittura un decimo – di quella odierna, e che tale popolazione, in media, era molto più povera rispetto a quella attuale. È vero che all’epoca non esisteva quella vasta moltitudine di persone affamate o semiaffamate che abbiamo oggi in [[settings/england|Inghilterra]], e che i lavoratori vivevano in condizioni molto migliori rispetto ad ora; ma, d’altra parte, non esistevano nemmeno un numero paragonabile di persone estremamente ricche, quindi il reddito medio delle famiglie era molto più basso. Tenendo tutto ciò presente, diventa evidente quanto fosse enorme l’importanza della confisca di quell’abbazia: era quasi come se oggi il Governo confiscasse una delle piccole compagnie ferroviarie, o togliesse ai grandi proprietari terrieri i canoni che attualmente pagano le città industriali del nord, mettendo quei soldi nelle proprie tasche.
 
-Da questo esempio della confisca dell’Abbazia di Westminster si può dedurre, riguardo a tutte le altre spese del [[Time|tempo]] – spese per eserciti e flotte, e così via – come, perché e in quale misura il valore sociale del denaro cambi da un periodo all’altro.
+Da questo esempio della confisca dell’Abbazia di Westminster si può dedurre, riguardo a tutte le altre spese del [[motifs/time|tempo]] – spese per eserciti e flotte, e così via – come, perché e in quale misura il valore sociale del denaro cambi da un periodo all’altro.
 
-È estremamente importante comprendere bene questo concetto di [[Economics|>Economia]] se si studia la [[history|storia]], poiché aiuta a spiegare molte cose che altrimenti rimarrebbero inspiegabili nel passato.
+È estremamente importante comprendere bene questo concetto di [[concepts/economics|>Economia]] se si studia la [[concepts/history|storia]], poiché aiuta a spiegare molte cose che altrimenti rimarrebbero inspiegabili nel passato.
 
 
 
@@ -11444,17 +11444,17 @@ USURY
 
 Usury, the last subject but one on which I am going to touch in this
 book, is one which modern people have almost entirely forgotten, and
-which you will not find mentioned in any book on [[Economics]] that I know.
-Yet its vital importance was recognised throughout all [[history]] until
+which you will not find mentioned in any book on [[concepts/economics|Economics]] that I know.
+Yet its vital importance was recognised throughout all [[concepts/history|history]] until
 quite lately, and it is already forcing itself upon modern people’s
-notice whether they like it or no. So it is as [[Well|well]] to understand it
+notice whether they like it or no. So it is as [[motifs/well|well]] to understand it
 betimes, for it is going to be discussed very widely in the near future.
 
 All codes of law and all writers on morals from the beginning of
 anything we know about human society have denounced as wrong the
 practice of Usury.
 
-They have recognised that this practice does [[Grave|grave]] harm to the State
+They have recognised that this practice does [[motifs/grave|grave]] harm to the State
 and to society as a whole, and must, therefore, as far as possible, be
 forbidden.
 
@@ -11471,25 +11471,25 @@ Usury is the taking of any interest whatever upon an UNPRODUCTIVE
 loan.
 
 A man comes to you and says: “Lend me this piece of capital which
-you possess” (for instance, a [[Ship|ship]], and stores of food with which to
-feed the sailors during the voyage of the [[Ship|ship]]). “Using this piece
+you possess” (for instance, a [[motifs/ship|ship]], and stores of food with which to
+feed the sailors during the voyage of the [[motifs/ship|ship]]). “Using this piece
 of capital to transport the surplus goods from this country over the
 sea and to bring back foreign goods which we need here I shall make a
 profit so large that I can exchange it for at least one hundred tons of
 wheat. The voyage there and back will take a year.”
 
-You naturally answer: “It is all very [[Well|well]] for you to make a profit of
-one hundred tons of wheat in one year by the use of my [[Ship|ship]] and of
-my stores of food for sailors who work the [[Ship|ship]], but what about me?
+You naturally answer: “It is all very [[motifs/well|well]] for you to make a profit of
+one hundred tons of wheat in one year by the use of my [[motifs/ship|ship]] and of
+my stores of food for sailors who work the [[motifs/ship|ship]], but what about me?
 I grant you ought to have part of this profit for yourself, as you are
-taking all the trouble. But I ought to have some, because the [[Ship|ship]]
+taking all the trouble. But I ought to have some, because the [[motifs/ship|ship]]
 and stores of food are mine; and unless I lent them to you (since you
 have none of your own) you would not be able to make that profit by
 trading of which you speak. Let us go half shares. You shall have fifty
 tons of wheat and I will take fifty, out of the total profit of one
 hundred tons.”
 
-The man who proposed to borrow your [[Ship|ship]] agrees. The bargain is
+The man who proposed to borrow your [[motifs/ship|ship]] agrees. The bargain is
 struck, and when the year is over you make a fifty tons profit of wheat
 on your capital.
 
@@ -11500,7 +11500,7 @@ no one any harm. It does not weaken the State or society, or even hurt
 any individual. There is a sheer gain due to wise exchange (which is
 equivalent to production); everybody is benefited--you that own the
 capital, the man who uses it, and all society, which benefits by the
-foreign exchange. Supposing your [[Ship|ship]] and stores of food were worth
+foreign exchange. Supposing your [[motifs/ship|ship]] and stores of food were worth
 a hundred tons of wheat, then your profit of fifty tons of wheat is
 a profit of fifty per cent., which is very high indeed. But you have
 a perfect right to it: your capital has produced a real increase of
@@ -11510,9 +11510,9 @@ right to the fifty per cent. is just as great as your moral right to
 the five per cent. No one can blame you, and you are doing no harm.
 
 Now supposing that, instead of coming to ask you for the loan of your
-[[Ship|ship]], the man came and asked you for the loan of a sum of money which
+[[motifs/ship|ship]], the man came and asked you for the loan of a sum of money which
 you happened to have by you and which would be sufficient to buy and
-stock the [[Ship|ship]]. It is clear that the transaction remains exactly the
+stock the [[motifs/ship|ship]]. It is clear that the transaction remains exactly the
 same. The loan is productive. He makes a true profit, that is, there
 is a real increase of wealth for the community, and you and he have
 a right to take your shares out of it--you because you are the owner
@@ -11522,7 +11522,7 @@ overlooking the expedition.
 These are examples of profit on a productive loan.
 
 Now suppose a man to come to you if you were a baker and say: “Lend me
-half a dozen loaves. My [[Family|family]] have no bread and I cannot see my way to
+half a dozen loaves. My [[concepts/family|family]] have no bread and I cannot see my way to
 earning anything for a day or two. But when I begin to earn I will get
 another half dozen loaves and see that you are not out of pocket.” Then
 if you were to reply: “I will not let you have half a dozen loaves on
@@ -11546,10 +11546,10 @@ be consumed unproductively, and yet were to demand interest on the
 unproductive transaction, then the wealth that was lent would soon eat
 up all the other wealth in the community until you came to a situation
 in which there was no more to take. Everyone would be ruined except
-those who lent; then these, having no more [[Blood|blood]] to suck, would die
+those who lent; then these, having no more [[motifs/blood|blood]] to suck, would die
 themselves, and society would end.
 
-As in the case of the [[Ship|ship]], it matters not in the least whether the
+As in the case of the [[motifs/ship|ship]], it matters not in the least whether the
 actual thing, the loaves of bread, are lent, or money is lent with
 which to buy them. The test is whether the loan is productive or not.
 The intention of Usury is present _when the money is lent at interest
@@ -11562,11 +11562,11 @@ been used unproductively, interest is none the less demanded_.
 
 Usura
 
-L’usura, l’ultimo argomento di cui parlerò in questo libro, è qualcosa che le persone moderne hanno quasi completamente dimenticato; non troverete alcuna menzione ad essa in nessun libro di [[Economics|Economia]] che conosca. Eppure la sua importanza vitale è stata riconosciuta per tutta la [[history|storia]], fino a tempi piuttosto recenti, e ora sta costringendo le persone moderne ad accorgersene, che lo vogliano o no. È quindi molto opportuno comprenderla in tempo, poiché ne parlerà ampiamente nel prossimo futuro.
+L’usura, l’ultimo argomento di cui parlerò in questo libro, è qualcosa che le persone moderne hanno quasi completamente dimenticato; non troverete alcuna menzione ad essa in nessun libro di [[concepts/economics|Economia]] che conosca. Eppure la sua importanza vitale è stata riconosciuta per tutta la [[concepts/history|storia]], fino a tempi piuttosto recenti, e ora sta costringendo le persone moderne ad accorgersene, che lo vogliano o no. È quindi molto opportuno comprenderla in tempo, poiché ne parlerà ampiamente nel prossimo futuro.
 
 Tutti i codici di legge e tutti gli autori che si sono occupati di morale, fin dai primi tempi in cui abbiamo conoscenze sulla società umana, hanno denunciato come sbagliata la pratica dell’usura.
 
-Hanno riconosciuto che questa pratica arreca un danno [[Grave|gravissimo]] allo Stato e alla società nel suo complesso, e pertanto deve essere vietata, nella misura del possibile.
+Hanno riconosciuto che questa pratica arreca un danno [[motifs/grave|gravissimo]] allo Stato e alla società nel suo complesso, e pertanto deve essere vietata, nella misura del possibile.
 
 Allora, cos'è l'usura e perché causa tanto danno?
 
@@ -11574,27 +11574,27 @@ Le persone moderne hanno finora dimenticato questa questione estremamente import
 
 L’usura consiste nel richiedere qualsiasi tipo di interesse su un prestito che non genera alcun reddito.
 
-Un uomo ti si avvicina e dice: “Prestami questo capitale che possiedi” (ad esempio, una [[Ship|nave]] e scorte di cibo per nutrire l’equipaggio durante il viaggio). “Utilizzando questo capitale per trasportare i prodotti in eccesso da questo paese oltre mare e per riportare indietro merci straniere di cui abbiamo bisogno qui, otterrò un profitto così elevato da poterlo scambiare almeno con cento tonnellate di grano. Il viaggio andata e ritorno durerà un anno.”
+Un uomo ti si avvicina e dice: “Prestami questo capitale che possiedi” (ad esempio, una [[motifs/ship|nave]] e scorte di cibo per nutrire l’equipaggio durante il viaggio). “Utilizzando questo capitale per trasportare i prodotti in eccesso da questo paese oltre mare e per riportare indietro merci straniere di cui abbiamo bisogno qui, otterrò un profitto così elevato da poterlo scambiare almeno con cento tonnellate di grano. Il viaggio andata e ritorno durerà un anno.”
 
-Naturalmente rispondi: “È del tutto giusto che tu possa trarre profitto da cento tonnellate di grano in un anno utilizzando la mia [[Ship|nave]] e le mie scorte di cibo per i marinai che lavorano su di essa, ma cosa succede a me? Ammetto che tu debba ricevere una parte di questo profitto, visto che sei tu ad affrontare tutti gli sforzi. Ma anch’io dovrei riceverne una parte, perché la [[Ship|nave]] e le scorte di cibo appartengono a me; e se non te le avessi prestate (poiché tu non ne possiedi alcuna), non saresti stato in grado di ottenere quel profitto. Diamo quindi metà a testa: tu avrai cinquanta tonnellate di grano e io ne prenderò altre cinquanta, sul totale di cento tonnellate.”
+Naturalmente rispondi: “È del tutto giusto che tu possa trarre profitto da cento tonnellate di grano in un anno utilizzando la mia [[motifs/ship|nave]] e le mie scorte di cibo per i marinai che lavorano su di essa, ma cosa succede a me? Ammetto che tu debba ricevere una parte di questo profitto, visto che sei tu ad affrontare tutti gli sforzi. Ma anch’io dovrei riceverne una parte, perché la [[motifs/ship|nave]] e le scorte di cibo appartengono a me; e se non te le avessi prestate (poiché tu non ne possiedi alcuna), non saresti stato in grado di ottenere quel profitto. Diamo quindi metà a testa: tu avrai cinquanta tonnellate di grano e io ne prenderò altre cinquanta, sul totale di cento tonnellate.”
 
-L’uomo che ha proposto di prendere in prestito la tua [[Ship|nave]] è d’accordo. L’accordo è stato raggiunto: alla fine dell’anno otterrai un profitto di cinquanta tonnellate di grano sul tuo capitale investito.
+L’uomo che ha proposto di prendere in prestito la tua [[motifs/ship|nave]] è d’accordo. L’accordo è stato raggiunto: alla fine dell’anno otterrai un profitto di cinquanta tonnellate di grano sul tuo capitale investito.
 
 Si tratta del guadagno derivante dagli interessi su un prestito produttivo.
 
-Non c’è assolutamente nulla di sbagliato, dal punto di vista morale, in quell’operazione. Non danneggia nessuno, non indebolisce lo Stato o la società, né causa alcun male a individui specifici. Si tratta semplicemente di un guadagno derivante da uno scambio vantaggioso (equivalente alla produzione); tutti ne traggono beneficio: tu che possiedi il capitale, l’uomo che lo utilizza e tutta la società, che avrà vantaggi grazie al cambio estero. Supponiamo che la tua [[Ship|nave]] e le tue scorte di cibo valgano cento tonnellate di grano: il tuo profitto di cinquanta tonnellate rappresenta quindi un guadagno del cinquanta per cento, il quale è davvero elevato. Ma hai tutto il diritto di ottenerlo: il tuo capitale ha effettivamente generato un aumento concreto della ricchezza. Se il tuo capitale avesse un valore dieci volte maggiore, il tuo profitto sarebbe del cinque per cento soltanto, invece che del cinquanta. Tuttavia, il tuo diritto morale a quel cinquanta per cento è esattamente lo stesso di quello al cinque per cento. Nessuno può biasimarti, e non stai causando alcun danno.
+Non c’è assolutamente nulla di sbagliato, dal punto di vista morale, in quell’operazione. Non danneggia nessuno, non indebolisce lo Stato o la società, né causa alcun male a individui specifici. Si tratta semplicemente di un guadagno derivante da uno scambio vantaggioso (equivalente alla produzione); tutti ne traggono beneficio: tu che possiedi il capitale, l’uomo che lo utilizza e tutta la società, che avrà vantaggi grazie al cambio estero. Supponiamo che la tua [[motifs/ship|nave]] e le tue scorte di cibo valgano cento tonnellate di grano: il tuo profitto di cinquanta tonnellate rappresenta quindi un guadagno del cinquanta per cento, il quale è davvero elevato. Ma hai tutto il diritto di ottenerlo: il tuo capitale ha effettivamente generato un aumento concreto della ricchezza. Se il tuo capitale avesse un valore dieci volte maggiore, il tuo profitto sarebbe del cinque per cento soltanto, invece che del cinquanta. Tuttavia, il tuo diritto morale a quel cinquanta per cento è esattamente lo stesso di quello al cinque per cento. Nessuno può biasimarti, e non stai causando alcun danno.
 
-Ora, supponiamo che, invece di venire a chiedervi in prestito la vostra [[Ship|>nave]], quell’uomo sia venuto a chiedervi in prestito una somma di denaro che per caso avevate con voi e che fosse sufficiente per acquistare e attrezzare la [[Ship|>nave]]. È evidente che l’operazione rimane esattamente la stessa. Il prestito è produttivo: quell’uomo realizza un vero profitto, il che significa che c’è un reale aumento della ricchezza per la comunità, e sia voi che lui avete diritto di ricevere la vostra parte di questo profitto: voi perché siete i proprietari del capitale, e lui perché si è preso la briga di organizzare e supervisionare l’intera operazione.
+Ora, supponiamo che, invece di venire a chiedervi in prestito la vostra [[motifs/ship|>nave]], quell’uomo sia venuto a chiedervi in prestito una somma di denaro che per caso avevate con voi e che fosse sufficiente per acquistare e attrezzare la [[motifs/ship|>nave]]. È evidente che l’operazione rimane esattamente la stessa. Il prestito è produttivo: quell’uomo realizza un vero profitto, il che significa che c’è un reale aumento della ricchezza per la comunità, e sia voi che lui avete diritto di ricevere la vostra parte di questo profitto: voi perché siete i proprietari del capitale, e lui perché si è preso la briga di organizzare e supervisionare l’intera operazione.
 
 Questi sono esempi di profitti derivanti da prestiti produttivi.
 
-Ora, supponiamo che un uomo venga da te se fossi un panettiere e dica: “Prestami mezza dozzina di pani. La mia [[Family|>famiglia]] non ha pane e non riesco a guadagnare nulla per uno o due giorni. Ma non appena inizierò a guadagnare, ti restituirò un’altra mezza dozzina di pani, così non perderai nulla.” Se tu rispondessi: “Non ti darò mezza dozzina di pani a queste condizioni. Posso lasciarti debito per un mese, se vuoi, ma alla fine del mese devi restituirmi sette pani”: questo sarebbe usura.
+Ora, supponiamo che un uomo venga da te se fossi un panettiere e dica: “Prestami mezza dozzina di pani. La mia [[concepts/family|>famiglia]] non ha pane e non riesco a guadagnare nulla per uno o due giorni. Ma non appena inizierò a guadagnare, ti restituirò un’altra mezza dozzina di pani, così non perderai nulla.” Se tu rispondessi: “Non ti darò mezza dozzina di pani a queste condizioni. Posso lasciarti debito per un mese, se vuoi, ma alla fine del mese devi restituirmi sette pani”: questo sarebbe usura.
 
 L’uomo non utilizza il prestito in modo produttivo; consuma immediatamente i pani presi in prestito. Con tale atto non viene creata alcuna nuova ricchezza. Il mondo non diventa più ricco, né tu, né la società nel suo complesso. Non appare affatto alcuna nuova ricchezza a seguito di questa transazione. Pertanto, quel pano in più che pretendi esiste semplicemente “dal nulla”; deve provenire dalla ricchezza della comunità – in questo caso, dalla ricchezza dell’uomo che ha preso in prestito i pani – e non da un aumento o da una nuova fonte di ricchezza. Ecco perché l’usura viene definita “usura”: significa letteralmente “erosione graduale”, “dilapidazione progressiva”.
 
 È evidente che se tutto il mondo praticasse l’usura soltanto, se la ricchezza venisse mai prestata esclusivamente per essere consumata in modo improduttivo e non mai per essere utilizzata in modo produttivo, e se si richiedesse comunque un interesse su tali transazioni improduttive, allora la ricchezza prestata finirebbe presto per assorbire tutta l’altra ricchezza esistente nella società, fino a raggiungere una situazione in cui non ci sarebbe più nulla da prendere. Tutti verrebbero rovinati, tranne coloro che prestano; questi, non avendo più nulla da “suggerire” (in termini di ricchezza), morirebbero a loro volta e la società cesserebbe di esistere.
 
-Come nel caso della [[Ship|nave]], non ha alcuna importanza che l’oggetto effettivo, cioè i pani, venga prestato, o che venga prestato denaro per acquistarli. L’unica cosa che conta è se il prestito sia produttivo o meno. L’intenzione di praticare l’usura è presente _quando il denaro viene prestato a interesse su qualcosa di cui il prestatore SA che non avrà un’utilità produttiva_, e la pratica effettiva dell’usura si verifica _quando, pur essendo il prestito stato utilizzato in modo improduttivo, comunque si richiede l’interesse_.
+Come nel caso della [[motifs/ship|nave]], non ha alcuna importanza che l’oggetto effettivo, cioè i pani, venga prestato, o che venga prestato denaro per acquistarli. L’unica cosa che conta è se il prestito sia produttivo o meno. L’intenzione di praticare l’usura è presente _quando il denaro viene prestato a interesse su qualcosa di cui il prestatore SA che non avrà un’utilità produttiva_, e la pratica effettiva dell’usura si verifica _quando, pur essendo il prestito stato utilizzato in modo improduttivo, comunque si richiede l’interesse_.
 
 
 
@@ -11617,7 +11617,7 @@ community. It only represented what I got out of somebody else on a
 bargain.”
 
 In this margin of uncertainty we have only common sense to guide us,
-as in every other similar case. We know pretty [[Well|well]] in each particular
+as in every other similar case. We know pretty [[motifs/well|well]] in each particular
 example we come across whether a loan is productive of not; whether we
 are borrowing or lending for a productive purpose, or for a charitable
 or luxurious one, or for one in every way unproductive.
@@ -11638,7 +11638,7 @@ the capital wealth of the needy and eats it up to the profit of the
 lender; so that, if usury go unchecked, it must end in the absorption
 of all private property into the hands of a few money brokers.
 
-Now, these things being so, the [[Nature|nature]] of usury being pretty clear,
+Now, these things being so, the [[concepts/nature|nature]] of usury being pretty clear,
 and both the moral wrong of it and the injury it does to society being
 equally clear, how is it that the modern world for so long forgot all
 about it, and how is it that it is forcing itself upon the attention of
@@ -11646,9 +11646,9 @@ the modern world again in spite of that forgetfulness?
 
 I will answer both of those questions.
 
-The wrong and the very [[Nature|nature]] of usury came to be forgotten with the
+The wrong and the very [[concepts/nature|nature]] of usury came to be forgotten with the
 great expansion of financial dealings which arose in the middle and end
-of the seventeenth century--that is, about 250 years ago--in [[Europe]].
+of the seventeenth century--that is, about 250 years ago--in [[settings/europe|Europe]].
 In the simpler times, when commercial transactions were open and upon
 a comparatively small scale, and done between men who knew each other,
 you could pretty usually tell, as you can in private life, whether a
@@ -11669,7 +11669,7 @@ that wrong under the pretence that it was not your business to inquire.”
 
 The attitude of the law on money-lending in the old days was very much
 what it is to-day with regard to certain poisonous chemicals which may
-be used [[Well|well]] or ill. The seller of those chemicals has to ask what they
+be used [[motifs/well|well]] or ill. The seller of those chemicals has to ask what they
 are going to be used for, and is responsible if he fails to inquire.
 In the same way the old Christian law said a lender was bound to find
 out if his loan were intended for production or not. If the law had not
@@ -11726,7 +11726,7 @@ Ora che queste cose sono così chiare, e poiché la natura dell’usura è del t
 
 Risponderò a entrambe quelle domande.
 
-L’errore e la stessa natura dell’usura furono dimenticati con la grande espansione delle transazioni finanziarie che ebbe luogo a metà e alla fine del XVII secolo, cioè circa 250 anni fa, in [[Europe|Europa]]. Nei tempi più semplici, quando le transazioni commerciali avvenivano su scala relativamente ridotta e tra persone che si conoscevano bene, era abbastanza facile capire, proprio come nella vita privata, se un prestito fosse necessario per uno scopo produttivo o meno. Onere della prova ricadeva sul prestatore: non era una scusa valida dire, nel concedere denaro a qualcuno, “Non sapevo a cosa avrebbe utilizzato i soldi, quindi gli ho chiesto il 10% di interesse, pensando che probabilmente li avrebbe impiegati in modo produttivo”. I tribunali non avrebbero accettato una tale giustificazione, e avevano perfettamente ragione. Perché, nelle semplici condizioni di un tempo, il giudice avrebbe risposto: “Era compito tuo informartene. Una persona non chiede in prestito denaro se non si trova in difficoltà personali o non ha un progetto produttivo per cui desidera utilizzarlo. Se pensavi che si trattasse di uno scopo produttivo, sicuramente gli avresti fatto domande al riguardo, per poter condividere i profitti. Il fatto che tu non ti sia preso la briga di verificare se fosse davvero così dimostra che sei indifferente all’ingiustizia dell’usura e disposto a commetterla, sotto il pretesto che non spettasse a te informartene”.
+L’errore e la stessa natura dell’usura furono dimenticati con la grande espansione delle transazioni finanziarie che ebbe luogo a metà e alla fine del XVII secolo, cioè circa 250 anni fa, in [[settings/europe|Europa]]. Nei tempi più semplici, quando le transazioni commerciali avvenivano su scala relativamente ridotta e tra persone che si conoscevano bene, era abbastanza facile capire, proprio come nella vita privata, se un prestito fosse necessario per uno scopo produttivo o meno. Onere della prova ricadeva sul prestatore: non era una scusa valida dire, nel concedere denaro a qualcuno, “Non sapevo a cosa avrebbe utilizzato i soldi, quindi gli ho chiesto il 10% di interesse, pensando che probabilmente li avrebbe impiegati in modo produttivo”. I tribunali non avrebbero accettato una tale giustificazione, e avevano perfettamente ragione. Perché, nelle semplici condizioni di un tempo, il giudice avrebbe risposto: “Era compito tuo informartene. Una persona non chiede in prestito denaro se non si trova in difficoltà personali o non ha un progetto produttivo per cui desidera utilizzarlo. Se pensavi che si trattasse di uno scopo produttivo, sicuramente gli avresti fatto domande al riguardo, per poter condividere i profitti. Il fatto che tu non ti sia preso la briga di verificare se fosse davvero così dimostra che sei indifferente all’ingiustizia dell’usura e disposto a commetterla, sotto il pretesto che non spettasse a te informartene”.
 
 L’atteggiamento della legge nei confronti dei prestiti in passato era molto simile a quello attuale riguardo ad alcune sostanze chimiche pericolose che possono essere utilizzate sia a fin di bene che a fin di male. Il venditore di tali sostanze doveva chiedere a chi le acquistava a quale scopo e ne era responsabile se non lo faceva. Allo stesso modo, l’antico diritto cristiano stabiliva che il prestatore dovesse verificare se il prestito fosse destinato ad attività produttive o meno. Se la legge non avesse imposto questo requisito, l’usura sarebbe diventata universale e avrebbe distrutto lo Stato a vantaggio di pochi individui che prestavano i propri soldi: proprio come accade oggi.
 
@@ -11762,10 +11762,10 @@ there is no increase out of which that wealth can come, the process
 must, sooner or later, come to an end. It is as though you were to
 claim a hundred bushels of apples every year from an orchard after the
 orchard had ceased to bear, or as though you were to claim a daily
-supply of [[Water|water]] from a [[spring]] which had dried up. The man who would
+supply of [[motifs/water|water]] from a [[motifs/spring|spring]] which had dried up. The man who would
 have to pay the apples would have to get them as best he could, but by
-the [[Time|time]] the claim was being made on all the orchards of the world,
-by the [[Time|time]] that usury was asking a million bushels of apples a year,
+the [[motifs/time|time]] the claim was being made on all the orchards of the world,
+by the [[motifs/time|time]] that usury was asking a million bushels of apples a year,
 though only half a million were being produced, there would be a jam.
 The interest would not be forthcoming, and the machinery for collecting
 it would stop working. Long before it actually stopped, of course,
@@ -11782,8 +11782,8 @@ of the money is changed, so that a man who has been set down to pay,
 say, a hundred sheep a year, is really only paying 50 or 30 sheep
 a year. A more drastic method is the method of “writing off” loans
 altogether--simply saying: “I simply cannot get my interest, and so I
-must stop asking for it.” That is what happens when a [[government|Government]] goes
-bankrupt, as the [[government|Government]] of [[Germany]] has done.
+must stop asking for it.” That is what happens when a Government goes
+bankrupt, as the Government of [[settings/germany|Germany]] has done.
 
 If you look at the Usury created by the Great War, you will see this
 kind of thing going on on all sides. The Governments that were fighting
@@ -11793,18 +11793,18 @@ and metal, and machinery and the rest, but the wheat was not used
 to feed workmen who were producing more wealth. It was used to feed
 soldiers who were producing no wealth, and so were the ships and the
 metal and the machinery, etc. Therefore when the individuals who had
-lent the money began collecting from the [[government|Government]] interest upon what
+lent the money began collecting from the Government interest upon what
 they had lent they were asking every year for wealth which simply was
 not there, and the Governments have got out of their promise to pay a
 usurious interest in all sorts of ways--some by repudiating, that is
 saying that they would not pay (the Russians have done that), others
-by debasing currency in various degrees. The English [[government|Government]] has cut
+by debasing currency in various degrees. The English Government has cut
 down what it promised to pay to about half, and by taxing this it has
-further reduced it to rather less than a third. The French [[government|Government]],
+further reduced it to rather less than a third. The French Government,
 by inflation and by taxation, have reduced it much more--to less than a
 fourth, or perhaps more like a sixth or an eighth.
 
-The Germans have reduced it by inflation to pretty [[Well|well]] nothing, which
+The Germans have reduced it by inflation to pretty [[motifs/well|well]] nothing, which
 is the same really as repudiating the debt altogether.
 
 So what we see in a general survey is this:--
@@ -11825,7 +11825,7 @@ by borrowing money _and promising interest upon it although the money
 was not producing any further wealth_.
 
 4. The modern world has therefore reached a limit in this process and
-the future of usurious investment is in [[Doubt|doubt]].
+the future of usurious investment is in [[concepts/doubt|doubt]].
 
 Though these conclusions are perfectly clear, it is unfortunately not
 possible to say that this or that is a way out of our difficulties;
@@ -11835,7 +11835,7 @@ It is still impersonal and money continues to be lent out at interest
 unproductively, with the recurring necessity of repaying the debt and
 failing to keep up payments which have been promised. Things will not
 get right again in this respect until society becomes as simple as it
-used to be, and we shall have to go through a pretty bad [[Time|time]] before we
+used to be, and we shall have to go through a pretty bad [[motifs/time|time]] before we
 get back to that.
 
 
@@ -11849,13 +11849,13 @@ La grande quantità di pagamenti usurari che avvengono attualmente, a causa del 
 
 Se continui ad accumulare ricchezza come se provenisse da un aumento reale, quando invece non esiste alcun aumento da cui essa possa derivare, questo processo prima o poi dovrà terminare. È come se pretendessi cento bushel di mele ogni anno da un orto che ormai non produce più nulla, o come se chiedessi quotidianamente acqua da una sorgente prosciugata. La persona che dovrebbe pagare per quelle mele dovrà procurarsele nel modo migliore possibile; ma quando questa richiesta si estenderà a tutti gli orti del mondo, quando l’usura inizierà a chiedere un milione di bushel di mele all’anno, mentre ne vengono prodotte soltanto mezzo milione, si verificherà un caos. Gli interessi non verranno più pagati e il sistema per raccoglierli smetterà di funzionare. Molto prima che ciò accada davvero, le persone inizieranno ad avere sempre maggiori difficoltà nel ricevere gli interessi dovuti, e tutto il mondo commerciale ne subirà le conseguenze negative.
 
-Ecco esattamente ciò che sta iniziando ad accadere oggi, dopo circa due secoli di usura e un secolo di usura senza limiti. Finora siamo riusciti a far fronte a questa situazione con ogni sorta di soluzioni provvisorie. Coloro che hanno preso in prestito denaro e hanno promesso di pagare, ad esempio, il 5%, vengono poi autorizzati a cambiare le condizioni del pagamento e a versare soltanto il 2½%. Oppure, attraverso il processo di svalutazione della moneta, descritto in precedenza in questo libro, il valore del denaro viene modificato, in modo che una persona che doveva pagare, ad esempio, cento pecore all’anno, in realtà ne paga soltanto 50 o 30. Un metodo ancora più drastico consiste nel “ cancellare” completamente i prestiti: si dice semplicemente: “Non riesco proprio a riscuotere gli interessi, quindi devo smettere di chiederli”. Ed è esattamente ciò che accade quando un [[government|Governo]] fallisce, come è successo al [[government|Governo]] della [[Germany|Germania]].
+Ecco esattamente ciò che sta iniziando ad accadere oggi, dopo circa due secoli di usura e un secolo di usura senza limiti. Finora siamo riusciti a far fronte a questa situazione con ogni sorta di soluzioni provvisorie. Coloro che hanno preso in prestito denaro e hanno promesso di pagare, ad esempio, il 5%, vengono poi autorizzati a cambiare le condizioni del pagamento e a versare soltanto il 2½%. Oppure, attraverso il processo di svalutazione della moneta, descritto in precedenza in questo libro, il valore del denaro viene modificato, in modo che una persona che doveva pagare, ad esempio, cento pecore all’anno, in realtà ne paga soltanto 50 o 30. Un metodo ancora più drastico consiste nel “ cancellare” completamente i prestiti: si dice semplicemente: “Non riesco proprio a riscuotere gli interessi, quindi devo smettere di chiederli”. Ed è esattamente ciò che accade quando un Governo fallisce, come è successo al Governo della [[settings/germany|Germania]].
 
 Se si osserva l’usura generata dalla Grande Guerra, si nota che questo tipo di fenomeno si verificava su tutti i fronti. I governi che combattevano prendevano in prestito denaro da privati e promettevano interessi su di esso. La maggior parte di quel denaro non veniva utilizzata in modo produttivo: veniva impiegato per acquistare grano, metalli, macchinari e altro ancora, ma il grano non veniva usato per nutrire i lavoratori che producevano ricchezza; veniva invece utilizzato per mantenere i soldati, i quali non generavano alcun valore. Allo stesso modo, navi, metalli e macchinari venivano impiegati allo stesso scopo. Pertanto, quando coloro che avevano prestato il denaro iniziarono a chiedere agli stati interessi su quanto avevano prestato, ogni anno richiedevano una ricchezza che semplicemente non esisteva. Gli stati, per evitare di mantenere tali promesse, adottarono vari metodi: alcuni rifiutarono semplicemente di pagare (come fecero i russi), altri deprezarono la valuta. Il governo inglese ridusse drasticamente l’importo degli interessi che aveva promesso di pagare, portandolo a circa la metà; inoltre, imponendo ulteriori tasse, lo ridusse ancora di più, a meno di un terzo. Il governo francese, attraverso inflazione e tassazioni, lo ridusse ancora di più: a meno di un quarto, o forse addirittura a meno di un sesto o un ottavo.
 
 I tedeschi l’hanno ridotto, a causa dell’inflazione, praticamente a nulla; il che, in realtà, equivale a rinnegare completamente quel debito.
 
-# Quello che osserviamo in una panoramica generale è questo:--
+Quello che osserviamo in una panoramica generale è questo:--
 
 L'usura è sbagliata sia dal punto di vista morale che per la società, _perché rappresenta la richiesta di un aumento della ricchezza che in realtà non esiste affatto_. È come cercare di ottenere qualcosa da ciò che non contiene nulla che possa essere utilizzato per pagarlo.
 
@@ -11886,33 +11886,33 @@ call “Economic Imaginaries.”
 An imaginary is a term taken from mathematics, and means a value which
 appears on paper but has no real existence. It would be too long and
 much too puzzling to explain what imaginaries in mathematics are, but I
-can give you a very simple example of what they are in [[Economics]]. They
+can give you a very simple example of what they are in [[concepts/economics|Economics]]. They
 mean economic values or lumps of wealth which appear on paper when you
 are making calculations, so that one would think the wealth was really
-there, but which when you go closely into their [[Nature|nature]] you find do not
+there, but which when you go closely into their [[concepts/nature|nature]] you find do not
 really exist.
 
 The first example I will give you is that of a man who, having a
 large income, gives an allowance to his son living somewhere abroad.
-Supposing a man in [[England]] has £10,000 a year, and he has put his son
-into business in [[Paris]], but because the young man has not yet learned
-his business, and is still being helped from [[Home|home]], he allows that son
+Supposing a man in [[settings/england|England]] has £10,000 a year, and he has put his son
+into business in [[settings/paris|Paris]], but because the young man has not yet learned
+his business, and is still being helped from [[motifs/home|home]], he allows that son
 £1,000 a year to spend.
 
 When the Income Tax people go round finding out what everybody has they
-put down the rich man in [[England]], quite rightly, as having £10,000
-a year, and when the value of all incomes in [[England]] is assessed,
+put down the rich man in [[settings/england|England]], quite rightly, as having £10,000
+a year, and when the value of all incomes in [[settings/england|England]] is assessed,
 i.e., when a table is drawn up showing what the total income of all
 Englishmen is, this man appears, quite properly, as having £10,000
-a year. But when the people in [[France]] make a similar assessment,
-to find out what the incomes are of all the people living in [[France]],
-the rich man’s son in [[Paris]] appears as having £1,000 a year. So when
-the assessments of [[England]] and [[France]] are added together and some
-[[government|Government]] economist is calculating what the total income of the
+a year. But when the people in [[settings/france|France]] make a similar assessment,
+to find out what the incomes are of all the people living in [[settings/france|France]],
+the rich man’s son in [[settings/paris|Paris]] appears as having £1,000 a year. So when
+the assessments of [[settings/england|England]] and [[settings/france|France]] are added together and some
+Government economist is calculating what the total income of the
 citizens of both countries may be, that £1,000 a year appears twice.
 One of these appearances is an economic imaginary. In other words, by
 the method of calculation used, £1,000 every year appears on the total
-assessment of [[England]] and also of [[France]], making £2,000 of £1,000. The
+assessment of [[settings/england|England]] and also of [[settings/france|France]], making £2,000 of £1,000. The
 extra £1,000, though appearing on paper, does not really exist at all:
 it is an “Economic Imaginary.”
 
@@ -11921,7 +11921,7 @@ overlap, or counting of the same money twice, and we may put down this
 case in general terms by saying: “Every unchecked overlap creates an
 economic imaginary to the extent of that unchecked overlap.”
 
-It looks so simple that one might say, “[[Well]], surely everybody would
+It looks so simple that one might say, “[[motifs/well|Well]], surely everybody would
 notice that!” But it is very much the other way--even in this simple
 case. The more complicated society becomes, the more payments there are
 back and forth, allowances and pensions and all sorts of arrangements
@@ -11937,21 +11937,21 @@ more the total “assessment” of the community is exaggerated.
 
 I will give you one instance, to prove this, which is very striking and
 which happened in my own experience. A man I knew gave in his income
-tax returns a few years ago. He had a secretary at [[Home|home]] to whom he paid
+tax returns a few years ago. He had a secretary at [[motifs/home|home]] to whom he paid
 a fairly large salary, and he also used a secretary in town. Their
 salaries came out of money which he had earned in business but appeared
 in his taxable general income, for he was not allowed to take it off
-as an expense. Meanwhile, both [[The Secretary|the secretary]] in the country and the
+as an expense. Meanwhile, both [[characters/the-secretary|the secretary]] in the country and the
 secretary in town were paying tax on their salaries, though they came
 out of a total income which had already paid taxes, and anyone making
-an assessment of the total income of [[England]] would certainly have
+an assessment of the total income of [[settings/england|England]] would certainly have
 written down from the official books: “Mr. Blank, so much a year; his
 secretary A--, so much a year; his secretary B--, so much a year,” and
 added up the total. Yet it is clear that the money put down to A and B
 was imaginary.
 
 I cannot tell you the thousands of ways in which this simple case of
-overlapping goes on in modern [[England]], for it would be too long to
+overlapping goes on in modern [[settings/england|England]], for it would be too long to
 explain, and I have only given you very simple instances, but you may
 be certain that the economic imaginaries of this kind form at least a
 quarter of the supposed income of the country.
@@ -11968,7 +11968,7 @@ expenditure_.
 All over the world where you have rich people spending money foolishly
 they are asked, for things that they buy, prices altogether out of
 keeping with the real value of the things. If you go into one of the
-big hotels in [[London]] or [[Paris]] and have a dinner the economic values
+big hotels in [[settings/london|London]] or [[settings/paris|Paris]] and have a dinner the economic values
 you consume are anything from a quarter to a tenth of the sum you are
 asked to pay. Thus people who buy a bottle of champagne in this sort
 of place pay from a pound to thirty shillings. The economic values
@@ -11979,11 +11979,11 @@ pay from a pound to thirty shillings for a bottle of champagne they
 are paying from eight to twelve times the real economic values which
 are destroyed in consumption. There is an extra margin of anything
 from seventeen shillings and sixpence to twenty-seven shillings and
-sixpence, which is an economic imaginary in that one case [[Alone|alone]].
+sixpence, which is an economic imaginary in that one case alone.
 And remember that this economic imaginary goes the rounds. It appears
 in the profits of the hotel-keeper, which are assessed in the total
 national income for taxation. It appears in the rent for his hotel,
-since a man will pay much more rent for a [[house]] in which he can get
+since a man will pay much more rent for a house in which he can get
 people to pay these sums than for a humbler hotel of the same size and
 of the same true economic value in bricks and mortar. It appears in the
 rates which the hotel pays to the local authorities, and which in their
@@ -11996,29 +11996,29 @@ the country.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Immaginari economici
+Immaginari economici
 
 Concluderò con un argomento piuttosto difficile su cui ho esitato a decidere se includerlo o meno in questo libro. Se vi sembra troppo complicato, potete tranquillamente ometterlo; ma se, mentre lo leggete, riuscite a comprenderlo, vale la pena approfondirlo, perché è davvero innovativo (non lo troverete in nessun altro libro) e molto utile per comprendere certi problemi difficili che sono sorti nella nostra società moderna e che oggi rappresentano un vero pericolo. Questo argomento è ciò che io chiamo “Immaginari Economici”.
 
-Un “immaginario” è un termine tratto dalla matematica e indica un valore che appare sui documenti scritti ma che non ha alcuna esistenza reale. Spiegare cosa siano gli immaginari in matematica richiederebbe troppo tempo e sarebbe molto complicato, ma posso darvi un esempio molto semplice di ciò che rappresentano nell’[[Economics|Economia]]. Si tratta di valori economici o unità di ricchezza che appaiono nei calcoli, facendo credere che tali ricchezze esistano realmente; tuttavia, se si analizza più da vicino la loro [[Nature|>natura]], si scopre che in realtà non esistono.
+Un “immaginario” è un termine tratto dalla matematica e indica un valore che appare sui documenti scritti ma che non ha alcuna esistenza reale. Spiegare cosa siano gli immaginari in matematica richiederebbe troppo tempo e sarebbe molto complicato, ma posso darvi un esempio molto semplice di ciò che rappresentano nell’[[concepts/economics|Economia]]. Si tratta di valori economici o unità di ricchezza che appaiono nei calcoli, facendo credere che tali ricchezze esistano realmente; tuttavia, se si analizza più da vicino la loro [[concepts/nature|>natura]], si scopre che in realtà non esistono.
 
-Il primo esempio che vi darò riguarda un uomo che, avendo un reddito elevato, fornisce un sostegno finanziario a suo figlio che vive all’estero. Supponiamo che un uomo in [[England|Inghilterra]] guadagni 10.000 sterline all’anno e abbia mandato suo figlio a fare affari a [[Paris|Parigi]]; tuttavia, poiché il giovane non ha ancora imparato bene il mestiere e continua ad essere aiutato dalla famiglia, il padre gli concede 1.000 sterline all’anno da spendere.
+Il primo esempio che vi darò riguarda un uomo che, avendo un reddito elevato, fornisce un sostegno finanziario a suo figlio che vive all’estero. Supponiamo che un uomo in [[settings/england|Inghilterra]] guadagni 10.000 sterline all’anno e abbia mandato suo figlio a fare affari a [[settings/paris|Parigi]]; tuttavia, poiché il giovane non ha ancora imparato bene il mestiere e continua ad essere aiutato dalla famiglia, il padre gli concede 1.000 sterline all’anno da spendere.
 
-Quando le autorità fiscali vanno in giro per verificare quali siano i redditi di tutti, nell’[[England|Inghilterra]] indicano correttamente che quel ricco guadagna 10.000 sterline all’anno; quando viene effettuata una valutazione complessiva dei redditi in tutto l’[[England|Inghilterra]], cioè quando si redige un elenco che mostra il reddito totale di tutti gli inglesi, quel ricco appare ancora una volta con lo stesso importo. Ma quando nel [[France|Francia]] si effettua una valutazione simile per conoscere i redditi di tutte le persone che vivono in quel paese, il figlio di quel ricco a [[Paris|Parigi]] viene indicato come uno che guadagna soltanto 1.000 sterline all’anno. Quindi, quando si sommano le valutazioni dell’[[England|Inghilterra]] e dell’[[France|Francia]] e qualche economista del [[government|Governo]] calcola il reddito totale dei cittadini di entrambi i paesi, quelle 1.000 sterline compaiono due volte. Uno di questi risultati è puramente “immaginario” dal punto di vista economico: con il metodo di calcolo utilizzato, quelle 1.000 sterline vengono conteggiate sia nell’elenco totale dell’[[England|Inghilterra]] che in quello dell’[[France|Francia]], facendo sì che la somma totale raggiunga le 2.000 sterline. Le ulteriori 1.000 sterline, pur essendo indicate nei documenti ufficiali, in realtà non esistono affatto: sono semplicemente un “immaginario economico”.
+Quando le autorità fiscali vanno in giro per verificare quali siano i redditi di tutti, nell’[[settings/england|Inghilterra]] indicano correttamente che quel ricco guadagna 10.000 sterline all’anno; quando viene effettuata una valutazione complessiva dei redditi in tutto l’[[settings/england|Inghilterra]], cioè quando si redige un elenco che mostra il reddito totale di tutti gli inglesi, quel ricco appare ancora una volta con lo stesso importo. Ma quando nel [[settings/france|Francia]] si effettua una valutazione simile per conoscere i redditi di tutte le persone che vivono in quel paese, il figlio di quel ricco a [[settings/paris|Parigi]] viene indicato come uno che guadagna soltanto 1.000 sterline all’anno. Quindi, quando si sommano le valutazioni dell’[[settings/england|Inghilterra]] e dell’[[settings/france|Francia]] e qualche economista del Governo calcola il reddito totale dei cittadini di entrambi i paesi, quelle 1.000 sterline compaiono due volte. Uno di questi risultati è puramente “immaginario” dal punto di vista economico: con il metodo di calcolo utilizzato, quelle 1.000 sterline vengono conteggiate sia nell’elenco totale dell’[[settings/england|Inghilterra]] che in quello dell’[[settings/france|Francia]], facendo sì che la somma totale raggiunga le 2.000 sterline. Le ulteriori 1.000 sterline, pur essendo indicate nei documenti ufficiali, in realtà non esistono affatto: sono semplicemente un “immaginario economico”.
 
 Questo è il caso più semplice di “immaginario economico”. Si tratta del fenomeno dell’sovrapposizione, ovvero del conteggio dello stesso denaro due volte. Possiamo descrivere questo caso in termini generali dicendo: “Ogni sovrapposizione non verificata genera un ‘immaginario economico’, nella misura stessa di tale sovrapposizione non controllata.”
 
 Sembra così semplice che si potrebbe dire: “Beh, sicuramente tutti se ne accorgerebbero!”, ma in realtà è esattamente il contrario – anche in questo caso semplice. Più la società diventa complessa, più ci sono scambi finanziari, sussidi, pensioni e ogni sorta di accordi che emergono con l’aumento dei viaggi e dei mezzi di comunicazione, nonché con lo sviluppo della società stessa. Tuttavia, più questi aspetti si sovrappongono tra loro e rimangono inosservati o non vengono corretti, maggior è il numero di casi in cui le persone non si rendono conto che esiste un sovrapposizione, oppure, anche se se ne accorgono, non ricordano di menzionarla, o comunque nessuno le crede. In generale, più la società diventa complessa, più questo tipo di aspetti economici “immaginari”, dovuti semplicemente ai sovrapposizioni tra vari elementi, aumentano in proporzione rispetto al patrimonio reale totale della comunità, e più l’intera valutazione economica della società diventa esagerata.
 
-Vi darò un esempio, molto evidente e basato sulla mia esperienza personale, per dimostrare questo punto. Un uomo che conoscevo ha presentato le sue dichiarazioni fiscali alcuni anni fa. Aveva una segretaria a casa sua, alla quale pagava uno stipendio piuttosto alto, e utilizzava anche una segretaria in città. Gli stipendi di entrambe venivano detratti dai profitti derivanti dalle sue attività commerciali, ma apparivano comunque nel suo reddito imponibile, poiché non gli era consentito considerarli come spese deducibili. Nel frattempo, sia la segretaria in campagna che quella in città pagavano tasse sugli stipendi ricevuti, anche se questi provenivano da un reddito complessivo già soggetto a tassazione. Chiunque esaminasse il reddito totale dell’[[England|Inghilterra]] avrebbe sicuramente registrato nei documenti ufficiali: “Il signor Blank, tale importo all’anno; la sua segretaria A--, tale importo all’anno; la sua segretaria B--, tale importo all’anno”, e avrebbe sommato i totali. Eppure è evidente che i soldi indicati per le due segretarie erano in realtà immaginari.
+Vi darò un esempio, molto evidente e basato sulla mia esperienza personale, per dimostrare questo punto. Un uomo che conoscevo ha presentato le sue dichiarazioni fiscali alcuni anni fa. Aveva una segretaria a casa sua, alla quale pagava uno stipendio piuttosto alto, e utilizzava anche una segretaria in città. Gli stipendi di entrambe venivano detratti dai profitti derivanti dalle sue attività commerciali, ma apparivano comunque nel suo reddito imponibile, poiché non gli era consentito considerarli come spese deducibili. Nel frattempo, sia la segretaria in campagna che quella in città pagavano tasse sugli stipendi ricevuti, anche se questi provenivano da un reddito complessivo già soggetto a tassazione. Chiunque esaminasse il reddito totale dell’[[settings/england|Inghilterra]] avrebbe sicuramente registrato nei documenti ufficiali: “Il signor Blank, tale importo all’anno; la sua segretaria A--, tale importo all’anno; la sua segretaria B--, tale importo all’anno”, e avrebbe sommato i totali. Eppure è evidente che i soldi indicati per le due segretarie erano in realtà immaginari.
 
-Non posso raccontarvi le migliaia di modi in cui questo semplice fenomeno di sovrapposizione si verifica nella moderna [[England|Inghilterra]], perché sarebbe troppo lungo spiegarlo, e vi ho fornito soltanto esempi molto semplici. Tuttavia potete essere certi che questi tipi di immaginari economici rappresentino almeno un quarto del cosiddetto reddito nazionale.
+Non posso raccontarvi le migliaia di modi in cui questo semplice fenomeno di sovrapposizione si verifica nella moderna [[settings/england|Inghilterra]], perché sarebbe troppo lungo spiegarlo, e vi ho fornito soltanto esempi molto semplici. Tuttavia potete essere certi che questi tipi di immaginari economici rappresentino almeno un quarto del cosiddetto reddito nazionale.
 
 Se non esistessero altre forme di “immaginari” oltre a queste, sarebbe molto semplice comprenderle e forse anche utilizzarle per stimare la ricchezza totale. Purtroppo, esistono molte altre forme diverse, molto più difficili da comprendere e che, in una società sempre più complessa e dinamica, continuano ad apparire ovunque come funghi.
 
 Ad esempio: si ha un’immaginario economico legato alle _spese lussuose_.
 
-In tutto il mondo, dove ci sono persone ricche che spendono denaro in modo sciocco, per gli oggetti che acquistano vengono chiesti prezzi completamente sproporzionati al loro reale valore. Se si entra in uno dei grandi hotel di [[London|Londra]] o [[Paris|Parigi]] e si consuma una cena, il valore economico effettivamente generato è soltanto tra un quarto e un decimo della somma che si deve pagare. Quindi, le persone che comprano una bottiglia di champagne in questi luoghi pagano tra una sterlina e trenta scellini; mentre il valore reale contenuto in quella bottiglia – ovvero il risultato del lavoro di molte persone impiegate nella sua produzione – ammonta a circa due scellini e sei pence. Quindi, quando si pagano prezzi così elevati per un prodotto di scarso valore, si sta spendendo tra otto e dodici volte il suo reale costo. Ci è inoltre un margine aggiuntivo, che va da diciassette scellini e sei pence a ventisette scellini e sei pence: questo rappresenta un valore economico “immaginario”, creato soltanto dal comportamento di queste persone. E ricordate: questo valore immaginario circola continuamente nell’economia. Appare nei profitti degli hotel, che vengono calcolati nel reddito nazionale per scopi fiscali; appare anche nell’affitto degli stessi hotel, poiché le persone sono disposte a pagare molto di più per strutture in cui gli ospiti sono costretti a spendere somme elevate; appare inoltre nelle tasse che gli hotel devono pagare alle autorità locali, e queste tasse finiscono poi nel reddito di funzionari meno abbienti che vivono nei dintorni. Questo “valore immaginario”, creato da comportamenti irrazionali, si ripete continuamente in tutte le analisi economiche del paese.
+In tutto il mondo, dove ci sono persone ricche che spendono denaro in modo sciocco, per gli oggetti che acquistano vengono chiesti prezzi completamente sproporzionati al loro reale valore. Se si entra in uno dei grandi hotel di [[settings/london|Londra]] o [[settings/paris|Parigi]] e si consuma una cena, il valore economico effettivamente generato è soltanto tra un quarto e un decimo della somma che si deve pagare. Quindi, le persone che comprano una bottiglia di champagne in questi luoghi pagano tra una sterlina e trenta scellini; mentre il valore reale contenuto in quella bottiglia – ovvero il risultato del lavoro di molte persone impiegate nella sua produzione – ammonta a circa due scellini e sei pence. Quindi, quando si pagano prezzi così elevati per un prodotto di scarso valore, si sta spendendo tra otto e dodici volte il suo reale costo. Ci è inoltre un margine aggiuntivo, che va da diciassette scellini e sei pence a ventisette scellini e sei pence: questo rappresenta un valore economico “immaginario”, creato soltanto dal comportamento di queste persone. E ricordate: questo valore immaginario circola continuamente nell’economia. Appare nei profitti degli hotel, che vengono calcolati nel reddito nazionale per scopi fiscali; appare anche nell’affitto degli stessi hotel, poiché le persone sono disposte a pagare molto di più per strutture in cui gli ospiti sono costretti a spendere somme elevate; appare inoltre nelle tasse che gli hotel devono pagare alle autorità locali, e queste tasse finiscono poi nel reddito di funzionari meno abbienti che vivono nei dintorni. Questo “valore immaginario”, creato da comportamenti irrazionali, si ripete continuamente in tutte le analisi economiche del paese.
 
 
 
@@ -12051,7 +12051,7 @@ have an enormous margin of wealth with which to do what they like, and
 the Van Dyck between them may be rushed up to £50,000.
 
 There is not a penny more of real wealth in the community than there
-was before. Yet your [[government|Government]] assessor would come down and assess the
+was before. Yet your Government assessor would come down and assess the
 community in a very different fashion from the way in which he would
 have assessed the first community. He will put down the total income at
 £1,000,000, and the houses, furniture, etc., at so much, and he will
@@ -12085,44 +12085,44 @@ to find what (in their judgment) the total yearly income of a nation
 is, they count not only the economic values attached to things consumed
 by the nation, but also services.
 
-For instance: if [[Jones]] is a good card player, the rich man [[smith|Smith]] may
-pay him £500 a year to live in his [[house]] and amuse his [[Loneliness|loneliness]] by
+For instance: if [[characters/jones|Jones]] is a good card player, the rich man Smith may
+pay him £500 a year to live in his house and amuse his [[concepts/loneliness|loneliness]] by
 perpetually playing cards with him. I knew a case of a man in South
 Wales who did exactly that. It is an extreme case, but we all of us,
 all day long, are paying money for services which do not add economic
 values to things at all, and which yet must appear in assessment.
 
 All the money I earn by writing is of this kind. Now assessment of
-these services creates an enormous [[Body|body]] of economic imaginaries, and to
+these services creates an enormous [[concepts/body|body]] of economic imaginaries, and to
 show you how they may do so I will give you an extreme and ludicrous
 case.
 
-Supposing two men, one of whom, [[smith|Smith]], has a loaf of bread, and the
-other of whom, Brown, has nothing. [[smith|Smith]] says to Brown: “If you will
-sing me a [[Song|song]] I will give you my loaf of bread.” Brown sings his [[Song|song]]
-and [[smith|Smith]] hands over the bread. A little later Brown wants to hear
-[[smith|Smith]] sing and he says to him: “If you will sing me a [[Song|song]] I will give
-you this loaf of bread.” A little later [[smith|Smith]] again wants to have a
-[[Song|song]] from Brown. Brown sings his [[Song|song]] (let us [[Hope|hope]] a new one!) and the
+Supposing two men, one of whom, Smith, has a loaf of bread, and the
+other of whom, Brown, has nothing. Smith says to Brown: “If you will
+sing me a song I will give you my loaf of bread.” Brown sings his song
+and Smith hands over the bread. A little later Brown wants to hear
+Smith sing and he says to him: “If you will sing me a song I will give
+you this loaf of bread.” A little later Smith again wants to have a
+song from Brown. Brown sings his song (let us [[concepts/hope|hope]] a new one!) and the
 loaf of bread again changes hands and so on all day.
 
 Supposing each of these transactions to be recorded in a book of
-accounts. There will appear in [[smith|Smith]]’s book: “Paid to Brown for singing
-[[songs]] two hundred loaves of bread,” and in Brown’s book: “Paid to [[smith|Smith]]
-for singing [[songs]] two hundred loaves of bread.” The official who has to
+accounts. There will appear in Smith’s book: “Paid to Brown for singing
+songs two hundred loaves of bread,” and in Brown’s book: “Paid to Smith
+for singing songs two hundred loaves of bread.” The official who has to
 assess the national income will laboriously copy these figures into his
-book and will put down: “Daily income of [[smith|Smith]], 200 loaves of bread.
+book and will put down: “Daily income of Smith, 200 loaves of bread.
 Daily income of Brown, 200 loaves of bread. Total 400 loaves of bread.”
-Yet there is only one real loaf of bread there all the [[Time|time]]! The
+Yet there is only one real loaf of bread there all the [[motifs/time|time]]! The
 other 399 are imaginary.
 
 Now with a ludicrous and extreme example of this sort you may say:
-“That is all very [[Well|well]] as a joke, but it has no bearing on real life.”
+“That is all very [[motifs/well|well]] as a joke, but it has no bearing on real life.”
 It has. That is exactly the sort of thing which is going on the whole
-[[Time|time]] in a highly-developed economic society. I go to a matinee and
+[[motifs/time|time]] in a highly-developed economic society. I go to a matinee and
 pay 10s. for a man to amuse me. He goes off himself in the evening
 and pays 10s. to hear a man sing at a concert. Next morning that man
-(I sincerely [[Hope|hope]]) buys one of my books, and a big part of the price
+(I sincerely [[concepts/hope|hope]]) buys one of my books, and a big part of the price
 is not paid for the economic values attaching to the material of it,
 but for the services of writing it, which is not a creation of wealth
 at all. The publisher pays me my royalty, and I spend part of it in
@@ -12157,8 +12157,8 @@ be kept separate from the examination of another, and when you put down
 the money spent on these things as though it represented real economic
 values you are making a false calculation.
 
-[[Well]], this is only a hint of quite a new subject in [[Economics]], which
-I have put in at the end in the [[Hope|hope]] that it may be of some value
+[[motifs/well|Well]], this is only a hint of quite a new subject in [[concepts/economics|Economics]], which
+I have put in at the end in the [[concepts/hope|hope]] that it may be of some value
 to you. Meditate upon it. As societies get more and more luxurious,
 more and more complicated, more and more “civilised” (as we call
 it), so do these economic imaginaries grow out of all proportion to
@@ -12181,7 +12181,7 @@ Supponiamo di avere mille famiglie, ognuna con 1.000 sterline all’anno; in tot
 
 Ora, supponiamo che tutte queste mille famiglie, tranne due, diventino povere a causa dei pagamenti di affitto e interessi a questi due uomini. Supponiamo che il loro reddito annuo scenda a poco meno di 500 sterline, mentre le restanti 500.000 sterline vengano pagate a quei due individui. In questo caso, ciascuno di loro avrebbe un reddito annuo di 250.000 sterline. Il dipinto di Van Dyck viene messo all’asta in questa comunità. Le famiglie povere, ovviamente, non hanno alcuna possibilità di partecipare all’asta: nessuno di loro può permettersi di spendere più di 50 sterline, per quanto desideri quel dipinto. Ma quei due uomini ricchi possono competere tra loro senza alcun rispetto. Hanno un enorme patrimonio a disposizione e il prezzo del dipinto potrebbe arrivare fino a 50.000 sterline.
 
-Non c’è nemmeno un penny di ricchezza reale in più nella comunità rispetto a prima. Eppure il vostro assessore del [[government|Governo]] verrà a valutare la comunità in modo molto diverso rispetto a come avrebbe fatto con la prima comunità. Stimerà il reddito totale in 1.000.000 sterline, le case, i mobili, ecc., in una certa somma, e aggiungerà: “Inoltre, un dipinto di Van Dyck valutato 50.000 sterline.” Ovviamente, nella vita reale, dove esistono grandi differenze di reddito, questo tipo di valutazioni viene moltiplicato per migliaia. È un altro esempio di come, man mano che le comunità diventano più complesse in una civiltà avanzata, emergano concetti economici immaginari.
+Non c’è nemmeno un penny di ricchezza reale in più nella comunità rispetto a prima. Eppure il vostro assessore del Governo verrà a valutare la comunità in modo molto diverso rispetto a come avrebbe fatto con la prima comunità. Stimerà il reddito totale in 1.000.000 sterline, le case, i mobili, ecc., in una certa somma, e aggiungerà: “Inoltre, un dipinto di Van Dyck valutato 50.000 sterline.” Ovviamente, nella vita reale, dove esistono grandi differenze di reddito, questo tipo di valutazioni viene moltiplicato per migliaia. È un altro esempio di come, man mano che le comunità diventano più complesse in una civiltà avanzata, emergano concetti economici immaginari.
 
 Introduco questo argomento soltanto come un semplice supplemento a questo piccolo libro; non ne fornirò troppi esempi, anche se si potrebbero continuare ad addurnerne all’infinito.
 
@@ -12191,13 +12191,13 @@ All’inizio di questo libro abbiamo visto che la ricchezza non consiste in cose
 
 Ma quando le persone valutano la ricchezza allo scopo di determinare l'imposta, e per capire quale sia, secondo loro, il reddito annuo totale di un paese, non contano soltanto i valori economici legati alle cose consumate da quel paese, ma anche i servizi.
 
-Ad esempio: se [[Jones]] è un bravo giocatore di carte, il ricco [[smith|Smith]] potrebbe pagargli 500 sterline all’anno affinché viva nella sua [[house|casa]] e gli tenga compagnia giocando a carte. Conoscevo un caso in Galles del Sud in cui una persona faceva esattamente questo. È un caso estremo, ma tutti noi, ogni giorno, paghiamo denaro per servizi che non aggiungono alcun valore economico alle cose, eppure devono comunque essere considerati nel calcolo dei costi.
+Ad esempio: se [[characters/jones|Jones]] è un bravo giocatore di carte, il ricco Smith potrebbe pagargli 500 sterline all’anno affinché viva nella sua casa e gli tenga compagnia giocando a carte. Conoscevo un caso in Galles del Sud in cui una persona faceva esattamente questo. È un caso estremo, ma tutti noi, ogni giorno, paghiamo denaro per servizi che non aggiungono alcun valore economico alle cose, eppure devono comunque essere considerati nel calcolo dei costi.
 
 Tutto il denaro che guadagno scrivendo appartiene a questo tipo. Ora, la valutazione di questi servizi genera un’enorme quantità di immaginari economici; per mostrarvi come possano funzionare, vi racconterò un caso estremo e assurdo.
 
-Supponiamo ci siano due uomini: uno, chiamato [[smith|Smith]], possiede un pane, mentre l’altro, chiamato Brown, non possiede nulla. [[smith|Smith]] dice a Brown: “Se mi canti una canzone, ti darò il mio pane.” Brown canta la sua canzone e [[smith|Smith]] gli consegna il pane. Poco dopo, Brown vuole che [[smith|Smith]] canti anche lui e gli dice: “Se mi canti un’altra canzone, ti darò di nuovo questo pane.” Ancora più tardi, [[smith|Smith]] chiede a Brown di cantare ancora. Brown canta la sua canzone, (speriamo sia una nuova!) e il pane passa di mano di nuovo, e così via per tutto il giorno.
+Supponiamo ci siano due uomini: uno, chiamato Smith, possiede un pane, mentre l’altro, chiamato Brown, non possiede nulla. Smith dice a Brown: “Se mi canti una canzone, ti darò il mio pane.” Brown canta la sua canzone e Smith gli consegna il pane. Poco dopo, Brown vuole che Smith canti anche lui e gli dice: “Se mi canti un’altra canzone, ti darò di nuovo questo pane.” Ancora più tardi, Smith chiede a Brown di cantare ancora. Brown canta la sua canzone, (speriamo sia una nuova!) e il pane passa di mano di nuovo, e così via per tutto il giorno.
 
-Supponendo che ciascuna di queste transazioni venga registrata in un libro contabile, nel libro di [[smith|Smith]] apparirà la seguente annotazione: “Pagato a Brown per aver cantato [[songs|>canti]], duecento pani”; mentre nel libro di Brown sarà scritto: “Pagato a [[smith|Smith]] per aver cantato [[songs|>canti]], duecento pani”. L’ufficiale incaricato di calcolare il reddito nazionale dovrà trascrivere con cura queste informazioni nel proprio libro, annotando: “Reddito giornaliero di [[smith|Smith]], 200 pani; reddito giornaliero di Brown, 200 pani; totale 400 pani”. Eppure, in realtà, esiste soltanto un pane reale; gli altri 399 sono puramente immaginari.
+Supponendo che ciascuna di queste transazioni venga registrata in un libro contabile, nel libro di Smith apparirà la seguente annotazione: “Pagato a Brown per aver cantato >canti, duecento pani”; mentre nel libro di Brown sarà scritto: “Pagato a Smith per aver cantato >canti, duecento pani”. L’ufficiale incaricato di calcolare il reddito nazionale dovrà trascrivere con cura queste informazioni nel proprio libro, annotando: “Reddito giornaliero di Smith, 200 pani; reddito giornaliero di Brown, 200 pani; totale 400 pani”. Eppure, in realtà, esiste soltanto un pane reale; gli altri 399 sono puramente immaginari.
 
 Ora, con un esempio assurdo ed estremo di questo tipo, si potrebbe dire: “Tutto ciò è molto divertente come scherzo, ma non ha alcuna rilevanza nella vita reale.” Invece ne ha molta. È proprio questo che accade costantemente in una società economica altamente sviluppata. Vado a un spettacolo pomeridiano e pago pochi soldi perché qualcuno mi diverta; la sera stesso vado a un concerto e pago altri pochi soldi per ascoltare qualcuno cantare. Il giorno dopo, quell’uomo (spero sinceramente che sia così) compra uno dei miei libri, e una grande parte del prezzo non viene pagata per i valori economici legati al materiale con cui è scritto il libro, ma per il lavoro di scrivere stesso, che in realtà non rappresenta affatto una creazione di ricchezza. L’editore mi paga le royalties, e io ne spendo una parte per assistere a uno spettacolo di acrobati in un teatro; gli acrobati pagano pochi soldi per mantenere la loro attività; e il pastore della chiesa, in un momento di entusiasmo, paga una quota di pochi soldi a un partito politico.
 
@@ -12209,4 +12209,4 @@ Dobbiamo certamente distinguere tra due cose che molti economisti più anziani h
 
 Ciò che si intende è che l’esame di un qualsiasi insieme di cose deve essere considerato separatamente dall’esame di un altro; inoltre, quando si calcola il denaro speso per queste cose come se rappresentasse veri valori economici, si commette un errore nel calcolo.
 
-Beh, questo è soltanto un accenno a un argomento completamente nuovo in [[Economics|Economia]], che ho inserito alla fine nella speranza che possa esservi di qualche utilità. Rifletteteci bene: man mano che le società diventano sempre più lussuose, complesse e “civilizzate” (come le chiamiamo noi), anche queste concezioni economiche crescono in modo sproporzionato rispetto alla vera ricchezza della società stessa. Se, su questa crescita, si impongono improvvisamente tasse elevate, basate su valutazioni errate, si potrebbe pensare di prendere soltanto un quinto, un terzo o un quarto della vera ricchezza annua della comunità; in realtà, però, si potrebbe prendere addirittura la metà o più. Ed è probabilmente proprio questo il motivo principale per cui molte società altamente sviluppate hanno finito per crollare verso la fine del loro periodo di splendore, a causa delle richieste dei funzionari fiscali che basavano le loro tasse su valutazioni completamente fuorvianti, generate da un insieme di concezioni economiche irrealistiche.
+Beh, questo è soltanto un accenno a un argomento completamente nuovo in [[concepts/economics|Economia]], che ho inserito alla fine nella speranza che possa esservi di qualche utilità. Rifletteteci bene: man mano che le società diventano sempre più lussuose, complesse e “civilizzate” (come le chiamiamo noi), anche queste concezioni economiche crescono in modo sproporzionato rispetto alla vera ricchezza della società stessa. Se, su questa crescita, si impongono improvvisamente tasse elevate, basate su valutazioni errate, si potrebbe pensare di prendere soltanto un quinto, un terzo o un quarto della vera ricchezza annua della comunità; in realtà, però, si potrebbe prendere addirittura la metà o più. Ed è probabilmente proprio questo il motivo principale per cui molte società altamente sviluppate hanno finito per crollare verso la fine del loro periodo di splendore, a causa delle richieste dei funzionari fiscali che basavano le loro tasse su valutazioni completamente fuorvianti, generate da un insieme di concezioni economiche irrealistiche.

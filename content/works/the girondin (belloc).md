@@ -25,7 +25,7 @@ tags:
   - archetype/rebel
   - topos/combat_strife
 ---
-*by Belloc*  ·  **Cluster:** [[Satirical Novel · Politics and Finance · Edwardian England]]
+*by Belloc*  ·  **Cluster:** [[clusters/satirical-novel-·-politics-and-finance-·-edwardian-england|Satirical Novel · Politics and Finance · Edwardian England]]
 
 > [!abstract] 
 > A historical novel opening in Bordeaux in August 1792, following young Georges Boutroux, nephew of a prosperous wine merchant, as private family quarrels give way to the tumult of the Revolution. Belloc sets an ironic, well-bred domestic comedy against the gathering violence of the Republic.
@@ -39,10 +39,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Historical Novel]], [[Novel]]
-**Themes & Concepts:** [[Popular Revolution]], [[Freedom and Liberty]], [[Class Conflict]], [[War and its Cost]], [[Fanaticism]], [[Economics]]
-**Motifs:** [[Wine and Drink]], [[River]], [[Swords and Weapons]]
-**Historical References:** [[French Revolution]]
-**Settings:** [[France]], [[Paris]], [[Europe]]
-**Archetypes:** [[Rebel]]
-**Topoi:** [[Combat Strife]]
+**Forms & Genres:** [[forms/historical-novel|Historical Novel]], [[forms/novel|Novel]]
+**Themes & Concepts:** [[concepts/popular-revolution|Popular Revolution]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/class-conflict|Class Conflict]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/fanaticism|Fanaticism]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/river|River]], [[motifs/swords-and-weapons|Swords and Weapons]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]]
+**Settings:** [[settings/france|France]], [[settings/paris|Paris]], [[settings/europe|Europe]]
+**Archetypes:** [[archetypes/rebel|Rebel]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]]

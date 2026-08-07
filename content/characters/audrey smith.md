@@ -14,4 +14,10 @@ Outspoken young art student who admires Colonel Crane's cabbage-hat rebellion ag
 
 <div class="concept-works" data-slug="characters/audrey-smith"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/longbow2-(chesterton)|longbow2 (Chesterton)]]
+
+</div>
+
 #graph/character

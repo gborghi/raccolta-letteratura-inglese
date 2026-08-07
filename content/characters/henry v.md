@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/henry-v"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/history-(chesterton)|history (Chesterton)]]
+- [[works/henry-v-(shakespeare)|HENRY V (Shakespeare)]]
+
+</div>
+
 #graph/character

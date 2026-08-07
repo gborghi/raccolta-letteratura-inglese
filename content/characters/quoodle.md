@@ -14,4 +14,11 @@ The dog narrator of the poem, who sings mockingly of humans' inferior sense of s
 
 <div class="concept-works" data-slug="characters/quoodle"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/quoodle-(chesterton)|quoodle (Chesterton)]]
+- [[works/the-flying-inn-(chesterton)|The Flying Inn (Chesterton)]]
+
+</div>
+
 #graph/character

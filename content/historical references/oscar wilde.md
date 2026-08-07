@@ -14,4 +14,11 @@ Cited alongside Shaw by Chesterton as a purveyor of the 'nonsensical borderland 
 
 <div class="concept-works" data-slug="historical-references/oscar-wilde"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/two-kinds-of-paradox-(chesterton)|Two Kinds of Paradox (Chesterton)]]
+- [[works/shaw-(chesterton)|Shaw (Chesterton)]]
+
+</div>
+
 #graph/histref

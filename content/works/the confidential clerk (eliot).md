@@ -26,21 +26,21 @@ tags:
   - character/sir_claude_mulhammer
 ---
 
-*by Eliot*  ·  **Cluster:** [[Child · Orphan]]
+*by Eliot*  ·  **Cluster:** [[clusters/child-·-orphan|Child · Orphan]]
 
 > [!abstract] 
 > Eliot's drawing-room comedy after Euripides' Ion, turning on mistaken parentage and disputed identity: Sir Claude, Lady Elizabeth and the clerk Colby discover who is whose lost child, while Colby seeks a true vocation over an inherited one.
 
 ## Connections
 
-**Topoi:** [[Sleeper Awakes]]
-**Archetypes:** [[Orphan]], [[Child]]
-**Motifs:** [[Garden]]
-**Themes & Concepts:** [[Identity]], [[Appearance vs Reality]], [[Self-Knowledge]], [[Artist and Society]], [[Deception]], [[Faith]], [[Grace and Redemption]]
-**Forms & Genres:** [[Verse Drama]], [[Comedy]]
-**Historical References:** [[Greek Tragedy]]
-**Settings:** [[London]]
-**Characters:** [[Colby Simpkins]], [[Sir Claude Mulhammer]]
+**Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]]
+**Archetypes:** [[archetypes/orphan|Orphan]], [[archetypes/child|Child]]
+**Motifs:** [[motifs/garden|Garden]]
+**Themes & Concepts:** [[concepts/identity|Identity]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/artist-and-society|Artist and Society]], [[concepts/deception|Deception]], [[concepts/faith|Faith]], [[concepts/grace-and-redemption|Grace and Redemption]]
+**Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/comedy|Comedy]]
+**Historical References:** [[historical-references/greek-tragedy|Greek Tragedy]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/colby-simpkins|Colby Simpkins]], [[characters/sir-claude-mulhammer|Sir Claude Mulhammer]]
 
 ## Testo integrale / Full text
 

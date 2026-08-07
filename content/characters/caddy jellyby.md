@@ -14,4 +14,10 @@ Mrs Jellyby's neglected daughter in Bleak House, praised by Chesterton as the mo
 
 <div class="concept-works" data-slug="characters/caddy-jellyby"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+
+</div>
+
 #graph/character

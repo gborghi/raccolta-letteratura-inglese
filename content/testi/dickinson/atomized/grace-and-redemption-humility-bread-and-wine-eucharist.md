@@ -14,16 +14,16 @@ tags:
 <span class="atom-split" data-atom="0063_if_pain_for_peace_prepares" data-title="63. If pain for peace prepares" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/sun,concept/grace_and_redemption,concept/faith,form/lyric,cluster/grace_and_redemption,cluster/humility,cluster/bread_and_wine_eucharist"></span>
 
 
-If [[Pain|pain]] for peace prepares  
+If [[motifs/pain|pain]] for peace prepares  
 Lo, what "Augustan" years  
 Our feet await!  
 
-If springs from [[Winter|winter]] rise,  
+If springs from [[motifs/winter|winter]] rise,  
 Can the Anemones  
 Be reckoned up?  
 
-If [[Night|night]] stands fast — then [[Noon|noon]]  
-To gird us for the [[Sun|sun]],  
+If [[motifs/night|night]] stands fast — then [[motifs/noon|noon]]  
+To gird us for the [[motifs/sun|sun]],  
 What gaze!  
 
 When from a thousand skies  
@@ -33,16 +33,16 @@ Noons blaze!
 
 <span class="qlang-split" data-lang="it"></span>
 
-Se il [[Pain|dolore]] alla pace prepara  
+Se il [[motifs/pain|dolore]] alla pace prepara  
 Ecco, quali anni "Augustei"  
 Attendono i nostri piedi!  
 
-Se primavere dall'[[Winter|inverno]] sorgono,  
+Se primavere dall'[[motifs/winter|inverno]] sorgono,  
 Possono gli Anemoni  
 Essere contati?  
 
-Se la [[Night|notte]] tien fermo — poi il [[Noon|mezzogiorno]]  
-A cingerci per il [[Sun|sole]],  
+Se la [[motifs/night|notte]] tien fermo — poi il [[motifs/noon|mezzogiorno]]  
+A cingerci per il [[motifs/sun|sole]],  
 Che sguardo!  
 
 Quando da mille cieli  
@@ -58,7 +58,7 @@ I BRING an unaccustomed wine
 To lips long parching, next to mine,  
 And summon them to drink.  
 
-Crackling with fever, they [[Essay|essay]];  
+Crackling with fever, they [[forms/essay|essay]];  
 I turn my brimming eyes away,  
 And come next hour to look.  
 
@@ -67,7 +67,7 @@ The lips I would have cooled, alas!
 Are so superfluous cold,  
 
 I would as soon attempt to warm  
-The bosoms where the [[Frost|frost]] has lain  
+The bosoms where the [[motifs/frost|frost]] has lain  
 Ages beneath the mould.  
 
 Some other thirsty there may be  
@@ -75,7 +75,7 @@ To whom this would have pointed me
 Had it remained to speak.  
 And so I always bear the cup  
 If, haply, mine may be the drop  
-Some [[Pilgrim|pilgrim]] thirst to slake,—  
+Some [[archetypes/pilgrim|pilgrim]] thirst to slake,—  
 
 If, haply, any say to me,  
 "Unto the little, unto me,"  
@@ -88,7 +88,7 @@ PORTO un vino inconsueto
 A labbra a lungo riarse, accanto alle mie,  
 E le invito a bere.  
 
-Crepitanti di febbre, esse [[Essay|tentano]];  
+Crepitanti di febbre, esse [[forms/essay|tentano]];  
 Distolgo i miei occhi colmi,  
 E torno l'ora dopo a guardare.  
 
@@ -97,7 +97,7 @@ Le labbra che avrei voluto rinfrescare, ahimè!
 Sono così superfluamente fredde,  
 
 Che tanto varrebbe tentare di scaldare  
-I petti dove il [[Frost|gelo]] è giaciuto  
+I petti dove il [[motifs/frost|gelo]] è giaciuto  
 Ere sotto la zolla.  
 
 Qualche altro assetato può esservi  
@@ -105,7 +105,7 @@ A cui questo mi avrebbe indirizzata
 Fosse rimasto a parlare.  
 E così porto sempre la coppa  
 Se, per ventura, mia sia la goccia  
-Che la sete di qualche [[Pilgrim|pellegrino]] plachi,—  
+Che la sete di qualche [[archetypes/pilgrim|pellegrino]] plachi,—  
 
 Se, per ventura, qualcuno mi dica,  
 "Ai piccoli, a me,"  
@@ -116,7 +116,7 @@ Quando infine mi desterò.
 <span class="atom-split" data-atom="0139_soul_wilt_thou_toss_again" data-title="139. Soul, Wilt thou toss again?" data-chapter="" data-kind="intro" data-tags="concept/self_and_soul,concept/fate_and_free_will,concept/grace_and_redemption,concept/good_vs_evil,form/lyric,histref/christianity,character/satan,cluster/grace_and_redemption,cluster/humility,cluster/bread_and_wine_eucharist"></span>
 
 
-[[Soul]], Wilt thou toss again?  
+[[motifs/soul|Soul]], Wilt thou toss again?  
 By just such a hazard  
 Hundreds have lost indeed —  
 But tens have won an all —  
@@ -124,12 +124,12 @@ But tens have won an all —
 Angel's breathless ballot  
 Lingers to record thee —  
 Imps in eager Caucus  
-Raffle for my [[Soul]]!
+Raffle for my [[motifs/soul|Soul]]!
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Soul|Anima]], vuoi tu lanciare ancora?  
+[[motifs/soul|Anima]], vuoi tu lanciare ancora?  
 Per un azzardo appunto tale  
 Centinaia hanno perso invero —  
 Ma decine hanno vinto un tutto —  
@@ -137,7 +137,7 @@ Ma decine hanno vinto un tutto —
 Il voto senza fiato dell'Angelo  
 Indugia a registrarti —  
 Diavoletti in ansioso Conclave  
-Tirano a sorte la mia [[Soul|Anima]]!
+Tirano a sorte la mia [[motifs/soul|Anima]]!
 
 
 
@@ -146,10 +146,10 @@ Tirano a sorte la mia [[Soul|Anima]]!
 
 A little bread — a crust — a crumb —  
 A little trust — a demijohn —  
-Can keep the [[Soul|soul]] alive —  
+Can keep the [[motifs/soul|soul]] alive —  
 Not portly, mind! but breathing — warm —  
-Conscious — as old [[Napoleon]],  
-The [[Night|night]] before the [[Crown]]!  
+Conscious — as old [[historical-references/napoleon|Napoleon]],  
+The [[motifs/night|night]] before the [[motifs/crown|Crown]]!  
 
 A modest lot — A fame petite —  
 A brief Campaign of sting and sweet  
@@ -163,10 +163,10 @@ Must seek the neighboring life!
 
 Un po' di pane — una crosta — una briciola —  
 Un po' di fiducia — una damigiana —  
-Possono tenere in vita l'[[Soul|anima]] —  
+Possono tenere in vita l'[[motifs/soul|anima]] —  
 Non pingue, badate! ma respirante — calda —  
-Cosciente — come il vecchio [[Napoleon|Napoleone]],  
-La [[Night|notte]] prima della [[Crown|Corona]]!  
+Cosciente — come il vecchio [[historical-references/napoleon|Napoleone]],  
+La [[motifs/night|notte]] prima della [[motifs/crown|Corona]]!  
 
 Un lotto modesto — Una fama minuta —  
 Una breve Campagna di puntura e dolcezza  
@@ -192,7 +192,7 @@ Who'll apologize for me?
 
 Dear, Old fashioned, little flower!  
 Eden is old fashioned, too!  
-[[Birds]] are antiquated fellows!  
+[[motifs/birds|Birds]] are antiquated fellows!  
 Heaven does not change her blue.  
 Nor will I, the little Heart's Ease —  
 Ever be induced to do!
@@ -212,7 +212,7 @@ Chi si scuserà per me?
 
 Caro, Antiquato, piccolo fiore!  
 Anche l'Eden è antiquato!  
-Gli [[Birds|Uccelli]] sono tipi d'altri tempi!  
+Gli [[motifs/birds|Uccelli]] sono tipi d'altri tempi!  
 Il Cielo non muta il suo azzurro.  
 Né io, la piccola Viola del Pensiero —  
 Mi lascerò mai indurre a farlo!
@@ -223,16 +223,16 @@ Mi lascerò mai indurre a farlo!
 
 
 For this — accepted Breath —  
-Through it — compete with [[Death]] —  
-The fellow cannot touch this [[Crown]] —  
+Through it — compete with [[motifs/death|Death]] —  
+The fellow cannot touch this [[motifs/crown|Crown]] —  
 By it — my title take —  
 Ah, what a royal sake  
 To my necessity — stooped down!  
 
 No Wilderness — can be  
 Where this attendeth me —  
-No [[Desert]] [[Noon]] —  
-No [[Fear|fear]] of [[Frost|frost]] to come  
+No [[motifs/desert|Desert]] [[motifs/noon|Noon]] —  
+No [[concepts/fear|fear]] of [[motifs/frost|frost]] to come  
 Haunt the perennial bloom —  
 But Certain June!  
 
@@ -240,22 +240,22 @@ Get Gabriel — to tell — the royal syllable —
 Get Saints — with new — unsteady tongue —  
 To say what trance below  
 Most like their glory show —  
-Fittest the [[Crown]]!
+Fittest the [[motifs/crown|Crown]]!
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Per questo — Respiro accettato —  
-Attraverso esso — competere con la [[Death|Morte]] —  
-Colui non può toccare questa [[Crown|Corona]] —  
+Attraverso esso — competere con la [[motifs/death|Morte]] —  
+Colui non può toccare questa [[motifs/crown|Corona]] —  
 Per essa — prendo il mio titolo —  
 Ah, quale regale causa  
 Alla mia necessità — si chinò!  
 
 Nessuna Landa — può esistere  
 Dove questo mi accompagna —  
-Nessun [[Desert|Deserto]] a [[Noon|Mezzogiorno]] —  
-Nessuna [[Fear|paura]] del [[Frost|gelo]] a venire  
+Nessun [[motifs/desert|Deserto]] a [[motifs/noon|Mezzogiorno]] —  
+Nessuna [[concepts/fear|paura]] del [[motifs/frost|gelo]] a venire  
 Turba la fioritura perenne —  
 Ma Giugno Certo!  
 
@@ -263,21 +263,21 @@ Che Gabriele — dica — la regale sillaba —
 Che i Santi — con nuova — malferma lingua —  
 Dicano quale estasi quaggiù  
 Somigli di più alla loro gloria —  
-La più degna della [[Crown|Corona]]!
+La più degna della [[motifs/crown|Corona]]!
 
 
 
 <span class="atom-split" data-atom="0235_the_court_is_far_away" data-title="235. The Court is far away —" data-chapter="" data-kind="intro" data-tags="archetype/king,motif/crown,concept/faith,concept/humility,concept/grace_and_redemption,form/lyric,histref/christianity,cluster/grace_and_redemption,cluster/humility,cluster/bread_and_wine_eucharist"></span>
 
 
-The [[Court]] is far away —  
+The [[settings/court|Court]] is far away —  
 No Umpire — have I —  
 My Sovereign is offended —  
 To gain his grace — I'd die!  
 
 I'll seek his royal feet —  
-I'll say — Remember — [[King]] —  
-Thou shalt — thyself — one day — a [[Child]] —  
+I'll say — Remember — [[archetypes/king|King]] —  
+Thou shalt — thyself — one day — a [[archetypes/child|Child]] —  
 Implore a larger — thing —  
 
 That Empire — is of Czars —  
@@ -288,14 +288,14 @@ To intercede — for Thee —
 
 <span class="qlang-split" data-lang="it"></span>
 
-La [[Court|Corte]] è lontana —  
+La [[settings/court|Corte]] è lontana —  
 Nessun Arbitro — ho io —  
 Il mio Sovrano è offeso —  
 Per avere la sua grazia — morirei!  
 
 Cercherò i suoi piedi regali —  
-Dirò — Ricorda — [[King|Re]] —  
-Tu stesso — dovrai — un giorno — [[Child|Bimbo]] —  
+Dirò — Ricorda — [[archetypes/king|Re]] —  
+Tu stesso — dovrai — un giorno — [[archetypes/child|Bimbo]] —  
 Implorare una più grande — cosa —  
 
 Quell'Impero — è degli Zar —  
@@ -314,7 +314,7 @@ Till Hair — and Eyes — and timid Head —
 Are out of sight — in Heaven —  
 
 I think just how my lips will weigh —  
-With shapeless — quivering — [[prayer]] —  
+With shapeless — quivering — [[motifs/prayer|prayer]] —  
 That you — so late — "Consider" me —  
 The "Sparrow" of your Care —  
 
@@ -337,7 +337,7 @@ Finché Capelli — e Occhi — e timido Capo —
 Non siano fuori vista — in Cielo —  
 
 Penso proprio a come peseranno le mie labbra —  
-Di informe — tremante — [[prayer|preghiera]] —  
+Di informe — tremante — [[motifs/prayer|preghiera]] —  
 Perché tu — così tardi — mi "Consideri" —  
 Il "Passero" della tua Cura —  
 
@@ -367,7 +367,7 @@ With "Me, Miss, Me" —
 I'll unroll Thee —  
 Dominions dowerless — beside this Grace —  
 Election — Vote —  
-The Ballots of [[Eternity]], will show just that.
+The Ballots of [[concepts/eternity|Eternity]], will show just that.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -383,7 +383,7 @@ Con "Me, Signorina, Me" —
 Io srotolerò Te —  
 Domini senza dote — accanto a questa Grazia —  
 Elezione — Voto —  
-Le Schede dell'[[Eternity|Eternità]], mostreranno proprio questo.
+Le Schede dell'[[concepts/eternity|Eternità]], mostreranno proprio questo.
 
 
 
@@ -493,14 +493,14 @@ What right have I — to be a Bride —
 So late a Dowerless Girl —  
 Nowhere to hide my dazzled Face —  
 No one to teach me that new Grace —  
-Nor introduce — my [[Soul]] —  
+Nor introduce — my [[motifs/soul|Soul]] —  
 
 Me to adorn — How — tell —  
 Trinket — to make Me beautiful —  
 Fabrics of Cashmere —  
 Never a Gown of Dun — more —  
 Raiment instead — of Pompadour —  
-For Me — My [[Soul|soul]] — to wear —  
+For Me — My [[motifs/soul|soul]] — to wear —  
 
 Fingers — to frame my Round Hair  
 Oval — as Feudal Ladies wore —  
@@ -512,10 +512,10 @@ Then, for Character —
 Fashion My Spirit quaint — white —  
 Quick — like a Liquor —  
 Gay — like Light —  
-Bring Me my best [[Pride]] —  
+Bring Me my best [[concepts/pride|Pride]] —  
 No more ashamed —  
 No more to hide —  
-Meek — let it be — too proud — for [[Pride]] —  
+Meek — let it be — too proud — for [[concepts/pride|Pride]] —  
 Baptized — this Day — a Bride —
 
 
@@ -526,14 +526,14 @@ Che diritto ho io — d'essere Sposa —
 Fino a ieri Fanciulla senza Dote —  
 Nessun luogo per celare il mio Viso abbagliato —  
 Nessuno a insegnarmi quella nuova Grazia —  
-Né a presentare — la mia [[Soul|Anima]] —  
+Né a presentare — la mia [[motifs/soul|Anima]] —  
 
 Me — da adornare — Come — dire —  
 Un Monile — a farmi bella —  
 Stoffe di Cachemire —  
 Mai più una Veste di Bigio — ormai —  
 Vesti invece — di Pompadour —  
-Per Me — la mia [[Soul|anima]] — da indossare —  
+Per Me — la mia [[motifs/soul|anima]] — da indossare —  
 
 Dita — a incorniciare i miei Capelli Tondi  
 In Ovale — come portavano le Dame Feudali —  
@@ -545,10 +545,10 @@ Poi, quanto al Carattere —
 Foggiate il mio Spirito arcaico — bianco —  
 Vivo — come un Liquore —  
 Gaio — come Luce —  
-Portatemi il mio miglior [[Pride|Orgoglio]] —  
+Portatemi il mio miglior [[concepts/pride|Orgoglio]] —  
 Non più vergognosa —  
 Non più nascondermi —  
-Mite — che sia — troppo fiero — per l'[[Pride|Orgoglio]] —  
+Mite — che sia — troppo fiero — per l'[[concepts/pride|Orgoglio]] —  
 Battezzata — in questo Giorno — Sposa —
 
 
@@ -556,18 +556,18 @@ Battezzata — in questo Giorno — Sposa —
 <span class="atom-split" data-atom="0513_like_flowers_that_heard_the_news_of_dews" data-title="513. Like Flowers, that heard the news of Dews," data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/nature,concept/wonder_and_gratitude,concept/grace_and_redemption,concept/humility,concept/providence,cluster/grace_and_redemption,cluster/humility,cluster/bread_and_wine_eucharist"></span>
 
 
-Like [[Flowers]], that heard the news of Dews,  
+Like [[motifs/flowers|Flowers]], that heard the news of Dews,  
 But never deemed the dripping prize  
 Awaited their — low Brows —  
-Or [[Bees]] — that thought the [[Summer]]'s name  
+Or [[motifs/bees|Bees]] — that thought the [[motifs/summer|Summer]]'s name  
 Some rumor of Delirium,  
-No [[Summer]] — could — for Them —  
+No [[motifs/summer|Summer]] — could — for Them —  
 
 Or Arctic Creatures, dimly stirred —  
 By Tropic Hint — some Travelled Bird  
 Imported to the Wood —  
 
-Or [[Wind]]'s bright signal to the Ear —  
+Or [[motifs/wind|Wind]]'s bright signal to the Ear —  
 Making that homely, and severe,  
 Contented, known, before —  
 
@@ -578,18 +578,18 @@ A too presumptuous Psalm —
 
 <span class="qlang-split" data-lang="it"></span>
 
-Come [[Flowers|Fiori]], che udirono la novella delle Rugiade,  
+Come [[motifs/flowers|Fiori]], che udirono la novella delle Rugiade,  
 Ma mai stimarono che il premio stillante  
 Attendesse le loro — basse Fronti —  
-O [[Bees|Api]] — che credettero il nome dell'[[Summer|Estate]]  
+O [[motifs/bees|Api]] — che credettero il nome dell'[[motifs/summer|Estate]]  
 Qualche voce di Delirio,  
-Nessuna [[Summer|Estate]] — poteva — per Loro —  
+Nessuna [[motifs/summer|Estate]] — poteva — per Loro —  
 
 O Creature Artiche, vagamente scosse —  
 Da un Cenno Tropicale — qualche Uccello Viaggiatore  
 Importato nel Bosco —  
 
-O il segnale lucente del [[Wind|Vento]] all'Orecchio —  
+O il segnale lucente del [[motifs/wind|Vento]] all'Orecchio —  
 Che rende quel che è umile, e severo,  
 Contento, noto, di prima —  
 
@@ -604,11 +604,11 @@ Un Salmo troppo presuntuoso —
 
 Mine — by the Right of the White Election!  
 Mine — by the Royal Seal!  
-Mine — by the Sign in the Scarlet [[Prison|prison]] —  
+Mine — by the Sign in the Scarlet [[motifs/prison|prison]] —  
 Bars — cannot conceal!  
 
 Mine — here — in Vision — and in Veto!  
-Mine — by the [[Grave]]'s Repeal —  
+Mine — by the [[motifs/grave|Grave]]'s Repeal —  
 Tilted — Confirmed —  
 Delirious Charter!  
 Mine — long as Ages steal!
@@ -618,11 +618,11 @@ Mine — long as Ages steal!
 
 Mio — per Diritto della Bianca Elezione!  
 Mio — per il Regale Sigillo!  
-Mio — per il Segno nella Scarlatta [[Prison|prigione]] —  
+Mio — per il Segno nella Scarlatta [[motifs/prison|prigione]] —  
 Sbarre — non possono celare!  
 
 Mio — qui — in Visione — e in Veto!  
-Mio — per la Revoca della [[Grave|Tomba]] —  
+Mio — per la Revoca della [[motifs/grave|Tomba]] —  
 Inclinata — Confermata —  
 Delirante Carta!  
 Mio — finché i Secoli rubano!
@@ -632,8 +632,8 @@ Mio — finché i Secoli rubano!
 <span class="atom-split" data-atom="0751_my_worthiness_is_all_my_doubt" data-title="751. My Worthiness is all my Doubt —" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/bread_and_wine_eucharist,concept/faith_and_doubt,concept/doubt,concept/humility,concept/love_divine,concept/self_and_soul,form/lyric,form/hymn,histref/christianity,cluster/grace_and_redemption,cluster/humility,cluster/bread_and_wine_eucharist"></span>
 
 
-My Worthiness is all my [[Doubt]] —  
-His Merit — all my [[Fear|fear]] —  
+My Worthiness is all my [[concepts/doubt|Doubt]] —  
+His Merit — all my [[concepts/fear|fear]] —  
 Contrasting which, my quality  
 Do lowlier — appear —  
 
@@ -649,14 +649,14 @@ Itself can rest upon —
 
 So I — the undivine abode  
 Of His Elect Content —  
-Conform my [[Soul]] — as 'twere a Church,  
+Conform my [[motifs/soul|Soul]] — as 'twere a Church,  
 Unto Her Sacrament —
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-La mia Dignità è tutto il mio [[Doubt|Dubbio]] —  
-Il Suo Merito — tutta la mia [[Fear|paura]] —  
+La mia Dignità è tutto il mio [[concepts/doubt|Dubbio]] —  
+Il Suo Merito — tutta la mia [[concepts/fear|paura]] —  
 Al cui confronto, la mia qualità  
 Più umile — appare —  
 
@@ -672,7 +672,7 @@ Se stessa può posare —
 
 Così Io — la dimora non divina  
 Del Suo Eletto Compiacimento —  
-Conformo la mia [[Soul|Anima]] — quasi fosse una Chiesa,  
+Conformo la mia [[motifs/soul|Anima]] — quasi fosse una Chiesa,  
 Al Sacramento di Lei —
 
 
@@ -683,7 +683,7 @@ Al Sacramento di Lei —
 Most she touched me by her muteness —  
 Most she won me by the way  
 She presented her small figure —  
-Plea itself — for [[Charity]] —  
+Plea itself — for [[concepts/charity|Charity]] —  
 
 Were a Crumb my whole possession —  
 Were there famine in the land —  
@@ -711,7 +711,7 @@ Making Gratitude
 Più mi toccò col suo mutismo —  
 Più mi conquistò col modo  
 In cui presentò la sua piccola figura —  
-Supplica essa stessa — di [[Charity|Carità]] —  
+Supplica essa stessa — di [[concepts/charity|Carità]] —  
 
 Fosse una Briciola tutto il mio avere —  
 Fosse carestia nel paese —  
@@ -739,7 +739,7 @@ Rendeva Gratitudine
 
 
 To offer brave assistance  
-To Lives that stand [[Alone|alone]] —  
+To Lives that stand alone —  
 When One has failed to stop them —  
 Is Human — but Divine  
 
@@ -752,7 +752,7 @@ No other — stopped to earn —
 <span class="qlang-split" data-lang="it"></span>
 
 Offrire coraggioso soccorso  
-A Vite che stanno [[Alone|sole]] —  
+A Vite che stanno sole —  
 Quando Uno ha mancato di fermarle —  
 È Umano — ma Divino  
 
@@ -766,26 +766,26 @@ Nessun altro — si fermò a guadagnare —
 <span class="atom-split" data-atom="0772_the_hallowing_of_pain" data-title="772. The hallowing of Pain" data-chapter="" data-kind="intro" data-tags="topos/the_quest,concept/suffering,concept/the_sublime,concept/grace_and_redemption,concept/faith,form/lyric,cluster/grace_and_redemption,cluster/humility,cluster/bread_and_wine_eucharist"></span>
 
 
-The hallowing of [[Pain]]  
+The hallowing of [[motifs/pain|Pain]]  
 Like hallowing of Heaven,  
 Obtains at a corporeal cost —  
 The Summit is not given  
 
 To Him who strives severe  
-At middle of the [[Hill]] —  
+At middle of the [[motifs/hill|Hill]] —  
 But He who has achieved the Top —  
 All — is the price of All —
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il santificarsi del [[Pain|Dolore]]  
+Il santificarsi del [[motifs/pain|Dolore]]  
 Come il santificarsi del Cielo,  
 Si ottiene a un costo corporeo —  
 La Vetta non è data  
 
 A Chi si sforza duramente  
-A metà della [[Hill|Collina]] —  
+A metà della [[motifs/hill|Collina]] —  
 Ma a Chi ha raggiunto la Cima —  
 Tutto — è il prezzo di Tutto —
 
@@ -796,12 +796,12 @@ Tutto — è il prezzo di Tutto —
 
 Perhaps you think me stooping  
 I'm not ashamed of that  
-[[Christ]] — stooped until He touched the [[Grave]] —  
+[[characters/christ|Christ]] — stooped until He touched the [[motifs/grave|Grave]] —  
 Do those at Sacrament  
 
 Commemorative Dishonor  
-Or [[Love|love]] annealed of [[Love|love]]  
-Until it bend as low as [[Death]]  
+Or [[motifs/love|love]] annealed of [[motifs/love|love]]  
+Until it bend as low as [[motifs/death|Death]]  
 Redignified, above?
 
 
@@ -809,12 +809,12 @@ Redignified, above?
 
 Forse mi credete china  
 Non me ne vergogno  
-[[Christ|Cristo]] — si chinò fino a toccare la [[Grave|Tomba]] —  
+[[characters/christ|Cristo]] — si chinò fino a toccare la [[motifs/grave|Tomba]] —  
 Compiono quelli al Sacramento  
 
 Disonore Commemorativo  
-O [[Love|amore]] temprato d'[[Love|amore]]  
-Finché si pieghi basso quanto la [[Death|Morte]]  
+O [[motifs/love|amore]] temprato d'[[motifs/love|amore]]  
+Finché si pieghi basso quanto la [[motifs/death|Morte]]  
 Ridignificato, al di sopra?
 
 
@@ -822,7 +822,7 @@ Ridignificato, al di sopra?
 <span class="atom-split" data-atom="0885_our_little_kinsmen_after_rain" data-title="885. Our little Kinsmen — after Rain" data-chapter="" data-kind="intro" data-tags="topos/great_chain_of_being,motif/animals,motif/birds,concept/humility,concept/providence,form/lyric,cluster/grace_and_redemption,cluster/humility,cluster/bread_and_wine_eucharist"></span>
 
 
-Our little Kinsmen — after [[Rain]]  
+Our little Kinsmen — after [[motifs/rain|Rain]]  
 In plenty may be seen,  
 A Pink and Pulpy multitude  
 The tepid Ground upon.  
@@ -832,7 +832,7 @@ Until a little Bird
 As to a Hospitality  
 Advanced and breakfasted.  
 
-As I of He, so [[God]] of Me  
+As I of He, so [[characters/god|God]] of Me  
 I pondered, may have judged,  
 And left the little Angle Worm  
 With Modesties enlarged.
@@ -840,7 +840,7 @@ With Modesties enlarged.
 
 <span class="qlang-split" data-lang="it"></span>
 
-I nostri piccoli Congiunti — dopo la [[Rain|Pioggia]]  
+I nostri piccoli Congiunti — dopo la [[motifs/rain|Pioggia]]  
 In abbondanza si possono vedere,  
 Una moltitudine Rosea e Polposa  
 Sul tiepido Suolo.  
@@ -850,7 +850,7 @@ Finché un piccolo Uccello
 Come a un'Ospitalità  
 Si fece avanti e fece colazione.  
 
-Come Io di Lui, così [[God|Dio]] di Me  
+Come Io di Lui, così [[characters/god|Dio]] di Me  
 Ponderavo, può aver giudicato,  
 E lasciai il piccolo Lombrico  
 Con Modestie accresciute.
@@ -866,13 +866,13 @@ My Guest "Today in Paradise"
 I give thee guaranty.  
 
 That Courtesy will fair remain  
-When the Delight is [[Dust]]  
+When the Delight is [[motifs/dust|Dust]]  
 With which we cite this mightiest case  
 Of compensated Trust.  
 
-Of all we are allowed to [[Hope|hope]]  
+Of all we are allowed to [[concepts/hope|hope]]  
 But Affidavit stands  
-That this was due where most we [[Fear|fear]]  
+That this was due where most we [[concepts/fear|fear]]  
 Be unexpected Friends.
 
 
@@ -884,13 +884,13 @@ Mio Ospite "Oggi in Paradiso"
 Io ti do garanzia.  
 
 Che la Cortesia rimarrà intatta  
-Quando la Delizia sarà [[Dust|Polvere]]  
+Quando la Delizia sarà [[motifs/dust|Polvere]]  
 Con cui citiamo questo supremo caso  
 Di Fiducia ricompensata.  
 
-Di tutto ciò che ci è dato [[Hope|sperare]]  
+Di tutto ciò che ci è dato [[concepts/hope|sperare]]  
 Solo l'Affidavit sta  
-Che ciò era dovuto dove più [[Fear|temiamo]]  
+Che ciò era dovuto dove più [[concepts/fear|temiamo]]  
 Siano inattesi Amici.
 
 
@@ -898,11 +898,11 @@ Siano inattesi Amici.
 <span class="atom-split" data-atom="1491_the_road_to_paradise_is_plain" data-title="1491. The Road to Paradise is plain," data-chapter="" data-kind="intro" data-tags="motif/the_road,concept/grace_and_redemption,concept/humility,concept/faith,cluster/grace_and_redemption,cluster/humility,cluster/bread_and_wine_eucharist"></span>
 
 
-The [[Road]] to Paradise is plain,  
+The [[motifs/road|Road]] to Paradise is plain,  
 And holds scarce one.  
 Not that it is not firm  
 But we presume  
-A Dimpled [[Road]]  
+A Dimpled [[motifs/road|Road]]  
 Is more preferred.  
 The Belles of Paradise are few —  
 Not me — nor you —  
@@ -912,11 +912,11 @@ Mines have no Wings.
 
 <span class="qlang-split" data-lang="it"></span>
 
-La [[Road|Strada]] per il Paradiso è piana,  
+La [[motifs/road|Strada]] per il Paradiso è piana,  
 E ne regge appena uno.  
 Non che non sia salda  
 Ma noi presumiamo  
-Che una [[Road|Strada]] a Fossette  
+Che una [[motifs/road|Strada]] a Fossette  
 Sia più gradita.  
 Le Belle del Paradiso son poche —  
 Non io — non tu —  
@@ -929,13 +929,13 @@ Le Mine non hanno Ali.
 
 
 How happy is the little Stone  
-That rambles in the [[Road]] [[Alone|alone]],  
+That rambles in the [[motifs/road|Road]] alone,  
 And doesn't care about Careers  
 And Exigencies never fears —  
 Whose Coat of elemental Brown  
 A passing Universe put on,  
-And independent as the [[Sun]]  
-Associates or glows [[Alone|alone]],  
+And independent as the [[motifs/sun|Sun]]  
+Associates or glows alone,  
 Fulfilling absolute Decree  
 In casual simplicity —
 
@@ -943,13 +943,13 @@ In casual simplicity —
 <span class="qlang-split" data-lang="it"></span>
 
 Com'è felice la piccola Pietra  
-Che vaga per la [[Road|Strada]] [[Alone|sola]],  
+Che vaga per la [[motifs/road|Strada]] sola,  
 E non si cura di Carriere  
 E mai teme le Esigenze —  
 La cui Veste di Bruno elementare  
 Un Universo di passaggio indossò,  
-E indipendente come il [[Sun|Sole]]  
-Si accompagna o brilla [[Alone|sola]],  
+E indipendente come il [[motifs/sun|Sole]]  
+Si accompagna o brilla sola,  
 Compiendo Decreto assoluto  
 In casuale semplicità —
 
@@ -958,11 +958,11 @@ In casuale semplicità —
 <span class="atom-split" data-atom="1586_to_her_derided_home" data-title="1586. To her derided Home" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/flowers,motif/summer,motif/nature,concept/grace_and_redemption,concept/humility,concept/faith,histref/the_bible,character/christ,cluster/grace_and_redemption,cluster/humility,cluster/bread_and_wine_eucharist"></span>
 
 
-To her derided [[Home]]  
-A Weed of [[Summer]] came —  
+To her derided [[motifs/home|Home]]  
+A Weed of [[motifs/summer|Summer]] came —  
 She did not know her station low  
 Nor Ignominy's Name —  
-Bestowed a [[Summer|summer]] long  
+Bestowed a [[motifs/summer|summer]] long  
 Upon a frameless flower —  
 Then swept as lightly from disdain  
 As Lady from her Bower —  
@@ -975,11 +975,11 @@ That wafts the Seraphim —
 
 <span class="qlang-split" data-lang="it"></span>
 
-Alla sua derisa [[Home|Casa]]  
-Venne un'Erba d'[[Summer|Estate]] —  
+Alla sua derisa [[motifs/home|Casa]]  
+Venne un'Erba d'[[motifs/summer|Estate]] —  
 Non conosceva il suo rango umile  
 Né il Nome dell'Ignominia —  
-Donò un'[[Summer|estate]] intera  
+Donò un'[[motifs/summer|estate]] intera  
 A un fiore senza forma —  
 Poi via dal disdegno scivolò lieve  
 Come Dama dal suo Verziere —  
@@ -1038,12 +1038,20 @@ Questa amata Filologia.
 <span class="atom-split" data-atom="l0159_mr_samuel_bowlers_and_mrs_bowles" data-title="To Mr. Samuel Bowlers and Mrs. Bowles" data-chapter="" data-kind="intro" data-tags="archetype/christ_figure,motif/the_grave,motif/bees,motif/bread_and_wine_eucharist,motif/death,concept/love_divine,concept/humility,concept/self_sacrifice,concept/grace_and_redemption,form/lyric,form/letter,histref/christianity,character/christ,cluster/grace_and_redemption,cluster/humility,cluster/bread_and_wine_eucharist"></span>
 
 
-Perhaps you think me stooping! I'm not ashamed of that! [[Christ]] stooped until he touched the [[Grave|grave]]! Do those at sacrament Commemorate dishonor— Or [[Love|love]], annealed of [[Love|love]], Until it bend as low as [[Death|death]] Re-royalized above?
+Perhaps you think me stooping! I'm not ashamed of that! [[characters/christ|Christ]] stooped until he touched the [[motifs/grave|grave]]! Do those at sacrament Commemorate dishonor— Or [[motifs/love|love]], annealed of [[motifs/love|love]], Until it bend as low as [[motifs/death|death]] Re-royalized above?
 
 The juggler's hat her country is, The mountain gorse the bee's.
 
 I stole them from a bee, Because—thee! Sweet plea— He pardoned me!
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Forse pensate che io stia umiliandomi. Non ne ho vergogna! [[characters/christ|Cristo]] si è inchinato fino a toccare la [[motifs/grave|tomba]]. Ma coloro che partecipano ai sacramenti commemorano l’umiliazione, o forse l’[[motifs/love|amore]], temprato dall’amore stesso, fino a piegarsi così in basso da superare persino la [[motifs/death|morte]], e rialzarsi al di sopra di essa?
+
+Il cappello del giocoliere è il suo paese; la ginestra di montagna è per l’ape.
+
+Le ho rubate a una ape. Perché. Oh, dolce supplica. Lui mi ha perdonato!
 
 
 
@@ -1053,15 +1061,25 @@ I stole them from a bee, Because—thee! Sweet plea— He pardoned me!
 Of your exquisite act there can be no acknowledgment but the ignominy that grace gives.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Del vostro squisito gesto non può esserci alcuna riconoscenza se non l’umiliazione che la grazia stessa comporta.
+
 
 
 <span class="atom-split" data-atom="l0251_the_misses_spring_1881" data-title="To the Misses, Spring, 1881" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,motif/garden,motif/spring,motif/storm,motif/sun,motif/moon,motif/seed_and_germination,concept/faith,concept/joy,concept/wonder,concept/friendship,form/letter,histref/the_bible,setting/a_garden,character/gabriel,cluster/grace_and_redemption,cluster/humility,cluster/bread_and_wine_eucharist"></span>
 
 
-The divine deposit came safely in the little bank. We have heard of the “deeds of the spirit,” but are his acts gamboge and pink? A morning call from Gabriel is always a surprise. Were we more fresh from Eden we were expecting him—but Genesis is a “far [[Journey|journey]].” Thank you for the loveliness.
+The divine deposit came safely in the little bank. We have heard of the “deeds of the spirit,” but are his acts gamboge and pink? A morning call from Gabriel is always a surprise. Were we more fresh from Eden we were expecting him—but Genesis is a “far [[motifs/journey|journey]].” Thank you for the loveliness.
 
-We have had two hurricanes within as many hours, one of which came near enough to untie my apron—but this moment the [[Sun|sun]] shines, Maggie's hens are warbling, and a man of anonymous wits is making a [[Garden|garden]] in the lane to set out slips of bluebird. The [[Moon|moon]] grows from the seed. . . . Vinnie's pusssy slept in grass Wednesday—a Sicilian symptom—the sails are set for [[Summer|summer]], East India wharf. Sage and saucy ones talk of an equinoctial, and are trying the chimneys, but I am “short of hearing,” as the deaf say. Blessed are they that play, for theirs is the kingdom of heaven. [[Love]] like a [[Rose|rose]] from each one, and Maggie's a Burgundy one she ardently asks.
+We have had two hurricanes within as many hours, one of which came near enough to untie my apron—but this moment the [[motifs/sun|sun]] shines, Maggie's hens are warbling, and a man of anonymous wits is making a [[motifs/garden|garden]] in the lane to set out slips of bluebird. The [[motifs/moon|moon]] grows from the seed. . . . Vinnie's pusssy slept in grass Wednesday—a Sicilian symptom—the sails are set for [[motifs/summer|summer]], East India wharf. Sage and saucy ones talk of an equinoctial, and are trying the chimneys, but I am “short of hearing,” as the deaf say. Blessed are they that play, for theirs is the kingdom of heaven. [[motifs/love|Love]] like a [[motifs/rose|rose]] from each one, and Maggie's a Burgundy one she ardently asks.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il divino dono arrivò sano e salvo in quella piccola banca. Abbiamo sentito parlare delle “azioni dello spirito”, ma sono davvero i suoi atti di quel colore vivace? Una telefonata mattutina da parte di Gabriele è sempre una sorpresa. Se fossimo ancora più freschi dell’Eden, forse lo aspetteremmo. Ma il Genesi rappresenta un “lungo [[motifs/journey|viaggio]]”. Grazie per questa bellezza.
+
+Abbiamo avuto due uragani in poche ore; uno di essi è arrivato così vicino da rischiare di strapparmi il grembiule. Ma in questo momento il [[motifs/sun|sole]] splende, le galline di Maggie cantano, e un uomo dallo spirito arguto sta creando un [[motifs/garden|giardino]] nel vialetto, per piantare dei bulbi di bluastro. La [[motifs/moon|luna]] nasce da questo seme. Mercoledì, Vinnie ha dormito sull’erba: è un sintomo tipico dei siciliani. Le vele sono pronte per l’[[motifs/summer|estate]], verso il porto delle Indie Orientali. Quelli spiritosi parlano di equinozzi e provano a costruire nuove ciminiere. Ma io “non sento bene”, come dicono i sordi. Beati coloro che giocano, perché a loro appartiene il regno dei cieli. L’[[motifs/love|amore]], come una [[motifs/rose|rosa]], sboccia in ognuno di noi. E Maggie, beh, lei è proprio una rosa del Borgogna, che desidera ardentemente.
 
 
 
@@ -1070,4 +1088,11 @@ We have had two hurricanes within as many hours, one of which came near enough t
 
 The “pebble” was that worderful stanza,
 
-How happy is the little stone That rambles in the [[Road|road]] alone, And doesn't care about careers, And exigencies never fears; Whose coat of elemental brown A passing universe put on; And independent as the [[Sun|sun]], Associates, or glows alone, Fulfilling absolute decree In casual simplicity.
+How happy is the little stone That rambles in the [[motifs/road|road]] alone, And doesn't care about careers, And exigencies never fears; Whose coat of elemental brown A passing universe put on; And independent as the [[motifs/sun|sun]], Associates, or glows alone, Fulfilling absolute decree In casual simplicity.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il “ciottolo” era quella meravigliosa strofa.
+
+Quanto è felice quella piccola pietra che vaga da sola sulla [[motifs/road|strada]], senza curarsi di carriere né di difficoltà; il cui manto marrone naturale le è stato dato dall’universo stesso; indipendente come il [[motifs/sun|sole]], può stare in compagnia o brillare da sola, adempiendo a un destino assoluto nella sua semplicità casuale.

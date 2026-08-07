@@ -14,4 +14,11 @@ The Tractarian revival within the Church of England (Newman, Pusey) that Chester
 
 <div class="concept-works" data-slug="historical-references/oxford-movement"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/victorian-age-(chesterton)|Victorian Age (Chesterton)]]
+- [[works/introduction-to-'essays-in-literature-and-history'-(belloc)|Introduction to 'Essays in Literature and History' (Belloc)]]
+
+</div>
+
 #graph/histref

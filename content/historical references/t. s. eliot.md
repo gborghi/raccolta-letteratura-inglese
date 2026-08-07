@@ -14,4 +14,10 @@ Eliot's study of Dante and Beatrice, and his later Royalist and Anglo-Catholic t
 
 <div class="concept-works" data-slug="historical-references/t.-s.-eliot"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/gkc-all-is-grist-(chesterton)|GKC All is Grist (Chesterton)]]
+
+</div>
+
 #graph/histref

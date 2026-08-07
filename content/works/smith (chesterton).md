@@ -27,7 +27,7 @@ tags:
 
 # smith
 
-*by Chesterton*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
+*by Chesterton*  ·  **Cluster:** [[clusters/martyrdom-·-martyr-saint-·-cross|Martyrdom · Martyr Saint · Cross]]
 
 > [!abstract] 
 > A satirical ode mocking F. E. Smith's claim that Welsh Disestablishment shocked Christendom, contrasting his parochial politics with the real suffering of Christians abroad. Satire, faith and politics.
@@ -38,16 +38,16 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Martyr Saint]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
 
-**Settings:** [[Russia]], [[Mountains]], [[Europe]]
+**Settings:** [[settings/russia|Russia]], [[settings/mountains|Mountains]], [[settings/europe|Europe]]
 
-**Characters:** [[F. E. Smith]]
+**Characters:** [[characters/f.-e.-smith|F. E. Smith]]
 
-**Motifs:** [[Cross]], [[Flags and Banners]]
-**Themes & Concepts:** [[Satire of Society]], [[Martyrdom]], [[Nationalism and Patriotism]], [[History]]
-**Forms & Genres:** [[Ode]], [[Satire]]
-**Historical References:** [[Christianity]], [[Islam]], [[Welsh Disestablishment]]
+**Motifs:** [[motifs/cross|Cross]], [[motifs/flags-and-banners|Flags and Banners]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/martyrdom|Martyrdom]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/ode|Ode]], [[forms/satire|Satire]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/islam|Islam]], [[historical-references/welsh-disestablishment|Welsh Disestablishment]]
 
 ## Testo integrale / Full text
 

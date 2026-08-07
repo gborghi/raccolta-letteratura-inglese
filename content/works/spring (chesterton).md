@@ -31,7 +31,7 @@ tags:
 
 # spring
 
-*by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
+*by Chesterton*  ·  **Cluster:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > A Christmas lyric on the Nativity, where the homeless Christ in the stable makes all men at home; themes of exile, wonder, faith and the longing for a true home.
@@ -42,15 +42,15 @@ tags:
 
 ## Connections
 
-**Settings:** [[Inn]]
+**Settings:** [[settings/inn|Inn]]
 
-**Topoi:** [[Paradise Lost]], [[Open Road Homecoming]]
-**Archetypes:** [[Christ Figure]]
-**Motifs:** [[Stars]], [[Inn Tavern]], [[Home]]
-**Themes & Concepts:** [[Faith]], [[Wonder and Gratitude]], [[Exile]], [[Divine Love]], [[Paradox]], [[Providence]], [[Incarnation]]
-**Forms & Genres:** [[Hymn]], [[Lyric]]
-**Historical References:** [[Christianity]], [[Bible]]
-**Characters:** [[Christ]], [[Virgin Mary]]
+**Topoi:** [[topoi/paradise-lost|Paradise Lost]], [[topoi/open-road-homecoming|Open Road Homecoming]]
+**Archetypes:** [[archetypes/christ-figure|Christ Figure]]
+**Motifs:** [[motifs/stars|Stars]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/home|Home]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/exile|Exile]], [[concepts/divine-love|Divine Love]], [[concepts/paradox|Paradox]], [[concepts/providence|Providence]], [[concepts/incarnation|Incarnation]]
+**Forms & Genres:** [[forms/hymn|Hymn]], [[forms/lyric|Lyric]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
+**Characters:** [[characters/christ|Christ]], [[characters/virgin-mary|Virgin Mary]]
 
 ## Testo integrale / Full text
 

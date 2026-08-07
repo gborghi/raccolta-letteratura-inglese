@@ -34,7 +34,7 @@ tags:
   - character/lucy_steele
 ---
 
-*by Austen*  ·  **Cluster:** [[Social Novel (Novel of Manners)]]
+*by Austen*  ·  **Cluster:** [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]]
 
 > [!abstract] 
 > Austen's 1811 social novel of the Dashwood sisters Elinor and Marianne, contrasting reasoned restraint with romantic feeling through courtship, betrayal and marriage; a satire of manners, money and propriety in genteel English society.
@@ -67,13 +67,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Lover]]
-**Motifs:** [[Marriage]], [[Money and Gold]], [[Letters and Writing]]
-**Themes & Concepts:** [[Appearance vs Reality]], [[Romantic Love]], [[Marriage and Fidelity]], [[Unrequited Frustrated Love]], [[Satire of Society]], [[Deception]], [[Class Conflict]], [[Grief and Loss]], [[Self-Knowledge]], [[Economics]]
-**Forms & Genres:** [[Novel]], [[Social Novel (Novel of Manners)]], [[Satire]]
-**Historical References:** [[Romantic Movement (Sensibility)]]
-**Settings:** [[Rural England]]
-**Characters:** [[Elinor Dashwood]], [[Marianne Dashwood]], [[Edward Ferrars]], [[John Willoughby]], [[Colonel Brandon]], [[Lucy Steele]]
+**Archetypes:** [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/marriage|Marriage]], [[motifs/money-and-gold|Money and Gold]], [[motifs/letters-and-writing|Letters and Writing]]
+**Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/satire-of-society|Satire of Society]], [[concepts/deception|Deception]], [[concepts/class-conflict|Class Conflict]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/satire|Satire]]
+**Historical References:** [[historical-references/romantic-movement-(sensibility)|Romantic Movement (Sensibility)]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Characters:** [[characters/elinor-dashwood|Elinor Dashwood]], [[characters/marianne-dashwood|Marianne Dashwood]], [[characters/edward-ferrars|Edward Ferrars]], [[characters/john-willoughby|John Willoughby]], [[characters/colonel-brandon|Colonel Brandon]], [[characters/lucy-steele|Lucy Steele]]
 
 ## Testo integrale / Full text
 

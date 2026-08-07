@@ -79,7 +79,7 @@ tags:
   - histref/aestheticism_and_the_decadent_movement
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Maturation and Growth · Childhood · Innocence and Experience]]
+*by Chesterton*  ·  **Cluster:** [[clusters/maturation-and-growth-·-childhood-·-innocence-and-experience|Maturation and Growth · Childhood · Innocence and Experience]]
 
 > [!abstract] 
 > Chesterton's critical biography of Stevenson, defending him against detractors and reading his romance and gesture-style as an unconscious Christian witness to innocence, the Fall and joy against modern realism.
@@ -93,15 +93,15 @@ tags:
 
 ## Connections
 
-**Characters:** [[Long John Silver]], [[Jim Hawkins]], [[Alan Breck Stewart]], [[David Balfour]], [[Jekyll and Hyde]], [[James Durie (Master of Ballantrae)]], [[Henry Durie]], [[Ephraim Mackellar]], [[Weir of Hermiston]], [[Attwater]], [[Huish]], [[Loudon Dodd]], [[Prince Florizel of Bohemia]], [[Skelt]]
+**Characters:** [[characters/long-john-silver|Long John Silver]], [[characters/jim-hawkins|Jim Hawkins]], [[characters/alan-breck-stewart|Alan Breck Stewart]], [[characters/david-balfour|David Balfour]], [[characters/jekyll-and-hyde|Jekyll and Hyde]], [[characters/james-durie-(master-of-ballantrae)|James Durie (Master of Ballantrae)]], [[characters/henry-durie|Henry Durie]], [[characters/ephraim-mackellar|Ephraim Mackellar]], [[characters/weir-of-hermiston|Weir of Hermiston]], [[characters/attwater|Attwater]], [[characters/huish|Huish]], [[characters/loudon-dodd|Loudon Dodd]], [[characters/prince-florizel-of-bohemia|Prince Florizel of Bohemia]], [[characters/skelt|Skelt]]
 
-**Topoi:** [[Fall from Innocence]], [[Double]], [[Quest]], [[Golden Age]], [[Open Road Homecoming]]
-**Archetypes:** [[Double Doppelganger]], [[Child]], [[Shadow]], [[Artist]], [[Quest Hero]]
-**Motifs:** [[Childhood]], [[Nightingale]], [[Journey]], [[Light and Dark]], [[Swords and Weapons]], [[Disease and Contagion]], [[Toy Theatre]]
-**Themes & Concepts:** [[Artist and Society]], [[Innocence and Experience]], [[Maturation and Growth]], [[Joy]], [[Imagination]], [[Sin and the Fall]], [[Faith]], [[Critique of Progress]], [[Heroism]], [[Good vs Evil]], [[Disillusionment]], [[Courage]], [[Conscience]], [[Creativity and Artistic Labor]], [[Fate and Free Will]], [[Nostalgia]], [[Vanity]], [[Paganism and Classical Revival]], [[Mortality]], [[Identity]], [[Optimism and Pessimism]], [[History]]
-**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Essay]], [[Gothic Novel]], [[Historical Novel]], [[Detective Fiction]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Puritanism]], [[Aestheticism and the Decadent Movement]]
-**Settings:** [[Scotland the Highlands]], [[Paris]], [[America]], [[London]], [[Edinburgh]], [[South Seas - Pacific Islands]], [[Europe]]
+**Topoi:** [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/double|Double]], [[topoi/quest|Quest]], [[topoi/golden-age|Golden Age]], [[topoi/open-road-homecoming|Open Road Homecoming]]
+**Archetypes:** [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/child|Child]], [[archetypes/shadow|Shadow]], [[archetypes/artist|Artist]], [[archetypes/quest-hero|Quest Hero]]
+**Motifs:** [[motifs/childhood|Childhood]], [[motifs/nightingale|Nightingale]], [[motifs/journey|Journey]], [[motifs/light-and-dark|Light and Dark]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/disease-and-contagion|Disease and Contagion]], [[motifs/toy-theatre|Toy Theatre]]
+**Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/joy|Joy]], [[concepts/imagination|Imagination]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/faith|Faith]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/heroism|Heroism]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/disillusionment|Disillusionment]], [[concepts/courage|Courage]], [[concepts/conscience|Conscience]], [[concepts/creativity-and-artistic-labor|Creativity and Artistic Labor]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/nostalgia|Nostalgia]], [[concepts/vanity|Vanity]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/mortality|Mortality]], [[concepts/identity|Identity]], [[concepts/optimism-and-pessimism|Optimism and Pessimism]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/biography|Biography]], [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/gothic-novel|Gothic Novel]], [[forms/historical-novel|Historical Novel]], [[forms/detective-fiction|Detective Fiction]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/puritanism|Puritanism]], [[historical-references/aestheticism-and-the-decadent-movement|Aestheticism and the Decadent Movement]]
+**Settings:** [[settings/scotland-the-highlands|Scotland the Highlands]], [[settings/paris|Paris]], [[settings/america|America]], [[settings/london|London]], [[settings/edinburgh|Edinburgh]], [[settings/south-seas---pacific-islands|South Seas - Pacific Islands]], [[settings/europe|Europe]]
 
 ## Testo integrale / Full text
 

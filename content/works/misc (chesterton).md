@@ -60,7 +60,7 @@ tags:
 
 # misc
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A 1912 collection of satirical character-sketch essays (the Suffragist, the Mad Official, the Free Man, the Mediaeval Villain, etc.) anatomizing social and political types in Edwardian England with Chesterton's distributist, anti-progressive eye.
@@ -111,19 +111,19 @@ tags:
 
 ## Connections
 
-**Historical References:** [[French Revolution]], [[Medieval England]], [[Bible]], [[Industrial Revolution]], [[Islam]], [[Greek Mythology]], [[Christianity]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/medieval-england|Medieval England]], [[historical-references/bible|Bible]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/islam|Islam]], [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/christianity|Christianity]]
 
-**Settings:** [[Medieval England (2)]], [[Rural England]], [[Scotland the Highlands]], [[Industrial City]], [[London]], [[Ancient Rome]]
+**Settings:** [[settings/medieval-england-(2)|Medieval England (2)]], [[settings/rural-england|Rural England]], [[settings/scotland-the-highlands|Scotland the Highlands]], [[settings/industrial-city|Industrial City]], [[settings/london|London]], [[settings/ancient-rome|Ancient Rome]]
 
-**Motifs:** [[Fire]], [[Money and Gold]], [[Wind]], [[Garden]], [[Animals]], [[Water]]
+**Motifs:** [[motifs/fire|Fire]], [[motifs/money-and-gold|Money and Gold]], [[motifs/wind|Wind]], [[motifs/garden|Garden]], [[motifs/animals|Animals]], [[motifs/water|Water]]
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[King John]]
+**Characters:** [[characters/king-john|King John]]
 
-**Archetypes:** [[Corrupt Official]], [[Tyrant]], [[Villain]], [[Self-Made Man]], [[Fool]], [[Detective]]
-**Themes & Concepts:** [[Satire of Society]], [[Common Man]], [[Critique of Progress]], [[Paradox]], [[Distributism]], [[Freedom and Liberty]], [[Democracy]], [[Class Conflict]], [[Money and Avarice]], [[Power and Corruption]], [[Fate and Free Will]], [[Kingship and Legitimacy]], [[Nature vs Civilization]], [[Nationalism and Patriotism]], [[Eastern Religion and Asceticism]], [[Crime and Punishment]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Sketch]], [[Nonfiction]]
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/tyrant|Tyrant]], [[archetypes/villain|Villain]], [[archetypes/self-made-man|Self-Made Man]], [[archetypes/fool|Fool]], [[archetypes/detective|Detective]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/common-man|Common Man]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/paradox|Paradox]], [[concepts/distributism|Distributism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/democracy|Democracy]], [[concepts/class-conflict|Class Conflict]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/eastern-religion-and-asceticism|Eastern Religion and Asceticism]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/sketch|Sketch]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

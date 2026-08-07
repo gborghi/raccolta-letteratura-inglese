@@ -22,18 +22,18 @@ tags:
   - form/song
 ---
 
-*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Poe*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A lyric addressed to a bride on her wedding day, whose blush kindles a fiercer flame of unrequited love and jealous loss in the speaker.
 
 ## Connections
 
-**Topoi:** [[Unattainable Beloved]]
-**Archetypes:** [[Lover]]
-**Motifs:** [[Marriage]], [[Love]], [[Fire]], [[Eyes and Sight]], [[White and Red]]
-**Themes & Concepts:** [[Unrequited Frustrated Love]], [[Jealousy]], [[Romantic Love]], [[Grief and Loss]]
-**Forms & Genres:** [[Lyric]], [[Comic Verse Song]]
+**Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]]
+**Archetypes:** [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/marriage|Marriage]], [[motifs/love|Love]], [[motifs/fire|Fire]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/white-and-red|White and Red]]
+**Themes & Concepts:** [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/jealousy|Jealousy]], [[concepts/romantic-love|Romantic Love]], [[concepts/grief-and-loss|Grief and Loss]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/comic-verse-song|Comic Verse Song]]
 
 ## Testo integrale / Full text
 

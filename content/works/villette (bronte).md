@@ -40,7 +40,7 @@ tags:
   - character/mrs_bretton
 ---
 
-*by Bronte*  ·  **Cluster:** [[Alienation · Outsider · Exile]]
+*by Bronte*  ·  **Cluster:** [[clusters/alienation-·-outsider-·-exile|Alienation · Outsider · Exile]]
 
 > [!abstract] 
 > Charlotte Bronte's first-person psychological bildungsroman: the isolated Lucy Snowe teaches at Mme Beck's school in the foreign city of Villette, enduring repression, surveillance, unrequited love and the spectral nun. Central themes are loneliness, self-suppression, Protestant/Catholic conflict and the ambiguous, storm-shadowed close.
@@ -57,13 +57,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Outsider]], [[Ghost]]
-**Motifs:** [[Ghosts]], [[Storm]], [[Sea]], [[Letters and Writing]], [[Concealment Hidden Identity]], [[Madness (2)]], [[Supernatural]]
-**Themes & Concepts:** [[Alienation]], [[Unrequited Frustrated Love]], [[Melancholy]], [[Identity]], [[Faith and Doubt]], [[Grief and Loss]], [[Self-Knowledge]], [[Uncanny]], [[Romantic Love]], [[Exile]]
-**Forms & Genres:** [[Novel]], [[Bildungsroman]], [[Gothic Novel]]
-**Historical References:** [[Catholic Church]]
-**Settings:** [[Industrial City]]
-**Characters:** [[Lucy Snowe]], [[Paul Emanuel]], [[Graham Bretton]], [[Madame Beck]], [[Ginevra Fanshawe]], [[Polly Home]], [[Mrs Bretton]]
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/ghost|Ghost]]
+**Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/storm|Storm]], [[motifs/sea|Sea]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/madness-(2)|Madness (2)]], [[motifs/supernatural|Supernatural]]
+**Themes & Concepts:** [[concepts/alienation|Alienation]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/melancholy|Melancholy]], [[concepts/identity|Identity]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/uncanny|Uncanny]], [[concepts/romantic-love|Romantic Love]], [[concepts/exile|Exile]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/bildungsroman|Bildungsroman]], [[forms/gothic-novel|Gothic Novel]]
+**Historical References:** [[historical-references/catholic-church|Catholic Church]]
+**Settings:** [[settings/industrial-city|Industrial City]]
+**Characters:** [[characters/lucy-snowe|Lucy Snowe]], [[characters/paul-emanuel|Paul Emanuel]], [[characters/graham-bretton|Graham Bretton]], [[characters/madame-beck|Madame Beck]], [[characters/ginevra-fanshawe|Ginevra Fanshawe]], [[characters/polly-home|Polly Home]], [[characters/mrs-bretton|Mrs Bretton]]
 
 ## Testo integrale / Full text
 

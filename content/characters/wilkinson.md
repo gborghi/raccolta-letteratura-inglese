@@ -14,4 +14,10 @@ The genial, drunken yachtsman whose vessel and stores maroon MacIan and Turnbull
 
 <div class="concept-works" data-slug="characters/wilkinson"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ball-and-cross-(chesterton)|ball and cross (Chesterton)]]
+
+</div>
+
 #graph/character

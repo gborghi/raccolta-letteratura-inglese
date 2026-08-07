@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/susan-nipper"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/charlesdickens-(chesterton)|CharlesDickens (Chesterton)]]
+- [[works/dombey-and-son-(dickens)|Dombey and Son (Dickens)]]
+
+</div>
+
 #graph/character

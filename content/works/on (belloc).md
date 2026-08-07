@@ -28,7 +28,7 @@ tags:
   - setting/continental_europe_brussels
   - setting/sea_2
 ---
-*by Belloc*  ·  **Cluster:** [[Familiar Essay · Paradox · The Common Man]]
+*by Belloc*  ·  **Cluster:** [[clusters/familiar-essay-·-paradox-·-the-common-man|Familiar Essay · Paradox · The Common Man]]
 
 > [!abstract] 
 > A collection of Belloc's familiar 'On ...' essays ranging over travel, letters, controversy, climate and the modern world, mixing whimsy with satire. Pieces such as 'On an Educational Reform' propose teaching Fraud as the master subject of modern commercial success, skewering the money-getting ethos of the age.
@@ -43,8 +43,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Money and Avarice]], [[Deception]], [[Wit]], [[Longing]], [[Economics]]
-**Motifs:** [[Road]], [[Sea]], [[Book Reading]], [[Wine and Drink]], [[Sea and Voyage]]
-**Historical References:** [[Virgil]]
-**Settings:** [[Paris]], [[Continental Europe (Brussels)]], [[Sea (2)]], [[Europe]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/deception|Deception]], [[concepts/wit|Wit]], [[concepts/longing|Longing]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/road|Road]], [[motifs/sea|Sea]], [[motifs/book-reading|Book Reading]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/virgil|Virgil]]
+**Settings:** [[settings/paris|Paris]], [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]], [[settings/sea-(2)|Sea (2)]], [[settings/europe|Europe]]

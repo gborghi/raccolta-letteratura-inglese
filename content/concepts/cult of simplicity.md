@@ -14,4 +14,10 @@ The Tolstoy essay's target concept: the modern drive to strip life to elemental 
 
 <div class="concept-works" data-slug="concepts/cult-of-simplicity"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+
+</div>
+
 #graph/concept

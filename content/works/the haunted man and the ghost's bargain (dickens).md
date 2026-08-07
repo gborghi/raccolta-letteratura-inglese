@@ -43,7 +43,7 @@ tags:
   - character/the_phantom
 ---
 
-*by Dickens*  ·  **Cluster:** [[Supernatural · Uncanny · Double]]
+*by Dickens*  ·  **Cluster:** [[clusters/supernatural-·-uncanny-·-double|Supernatural · Uncanny · Double]]
 
 > [!abstract] 
 > Dickens's last Christmas Book (1848), a supernatural moral allegory in which the chemist Redlaw accepts a phantom double's bargain to forget all sorrow, wrong and trouble, only to spread coldness and lose his humanity until love and memory restore him; themes of memory, grief, redemption and the prayer 'Lord keep my Memory green.'
@@ -57,14 +57,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Double]], [[Fall from Innocence]], [[Sleeper Awakes]]
-**Archetypes:** [[Ghost]], [[Double Doppelganger]], [[Great Mother]], [[Child]]
-**Motifs:** [[Memory]], [[Ghosts]], [[Winter]], [[Fire]], [[Light and Dark]], [[Childhood]], [[Fog and Smoke]], [[City]]
-**Themes & Concepts:** [[Memory and Time]], [[Grief and Loss]], [[Grace and Redemption]], [[Temptation]], [[Conscience]], [[Supernatural (2)]], [[Uncanny]], [[Poverty]]
-**Forms & Genres:** [[Allegory]], [[Short Story]]
-**Historical References:** [[Christianity]], [[Regency Georgian England]]
-**Settings:** [[London]]
-**Characters:** [[Mr Redlaw]], [[Milly Swidger]], [[William Swidger]], [[Philip Swidger]], [[Tetterbys]], [[Phantom]]
+**Topoi:** [[topoi/double|Double]], [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/sleeper-awakes|Sleeper Awakes]]
+**Archetypes:** [[archetypes/ghost|Ghost]], [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/great-mother|Great Mother]], [[archetypes/child|Child]]
+**Motifs:** [[motifs/memory|Memory]], [[motifs/ghosts|Ghosts]], [[motifs/winter|Winter]], [[motifs/fire|Fire]], [[motifs/light-and-dark|Light and Dark]], [[motifs/childhood|Childhood]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/city|City]]
+**Themes & Concepts:** [[concepts/memory-and-time|Memory and Time]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/temptation|Temptation]], [[concepts/conscience|Conscience]], [[concepts/supernatural-(2)|Supernatural (2)]], [[concepts/uncanny|Uncanny]], [[concepts/poverty|Poverty]]
+**Forms & Genres:** [[forms/allegory|Allegory]], [[forms/short-story|Short Story]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/mr-redlaw|Mr Redlaw]], [[characters/milly-swidger|Milly Swidger]], [[characters/william-swidger|William Swidger]], [[characters/philip-swidger|Philip Swidger]], [[characters/tetterbys|Tetterbys]], [[characters/phantom|Phantom]]
 
 ## Testo integrale / Full text
 

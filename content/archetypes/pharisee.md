@@ -14,4 +14,11 @@ The self-righteous hypocrite whose moral posturing Chesterton names as the wrong
 
 <div class="concept-works" data-slug="archetypes/pharisee"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/how-not-to-do-it-(chesterton)|how-not-to-do-it (Chesterton)]]
+- [[works/lambkin's-remains-(belloc)|Lambkin's Remains (Belloc)]]
+
+</div>
+
 #graph/archetype

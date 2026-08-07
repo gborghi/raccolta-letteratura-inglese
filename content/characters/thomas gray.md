@@ -14,4 +14,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/thomas-gray"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/all-i-survey-(chesterton)|All I Survey (Chesterton)]]
+
+</div>
+
 #graph/character

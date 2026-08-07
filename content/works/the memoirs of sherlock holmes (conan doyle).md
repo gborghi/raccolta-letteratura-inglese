@@ -27,7 +27,7 @@ tags:
   - archetype/detective
   - archetype/villain
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Detective Fiction · Ratiocination Detection · Crime and Punishment]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/detective-fiction-·-ratiocination-detection-·-crime-and-punishment|Detective Fiction · Ratiocination Detection · Crime and Punishment]]
 
 > [!abstract] 
 > Eleven Sherlock Holmes stories from 1893-94, including the vanishing racehorse of 'Silver Blaze' and, in 'The Final Problem,' Holmes's fatal confrontation with his arch-enemy Professor Moriarty at the Reichenbach Falls. The collection was intended by Doyle to end the Holmes series permanently.
@@ -50,11 +50,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Friendship]], [[Deception]]
-**Motifs:** [[City]], [[Fog and Smoke]], [[Letters and Writing]], [[Journey]]
-**Settings:** [[London]], [[Rural England]]
-**Characters:** [[Sherlock Holmes]], [[Doctor Watson]], [[Professor Moriarty]]
-**Archetypes:** [[Detective]], [[Villain]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/friendship|Friendship]], [[concepts/deception|Deception]]
+**Motifs:** [[motifs/city|City]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/journey|Journey]]
+**Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]], [[characters/professor-moriarty|Professor Moriarty]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]
 
-**Also relevant to:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
+**Also relevant to:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]

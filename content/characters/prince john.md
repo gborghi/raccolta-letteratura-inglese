@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/prince-john"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/2-henry-iv-(shakespeare)|2 HENRY IV (Shakespeare)]]
+
+</div>
+
 #graph/character

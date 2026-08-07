@@ -14,4 +14,10 @@ The dispossessed English innkeeper whose sign and cheese Dalroy carries, embodyi
 
 <div class="concept-works" data-slug="characters/humphrey-pump"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-flying-inn-(chesterton)|The Flying Inn (Chesterton)]]
+
+</div>
+
 #graph/character

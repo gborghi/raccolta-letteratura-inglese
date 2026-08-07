@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/lazarus-the-risen-man"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/convert-(chesterton)|convert (Chesterton)]]
+- [[works/balladstbarbara-(chesterton)|BalladStBarbara (Chesterton)]]
+
+</div>
+
 #graph/character

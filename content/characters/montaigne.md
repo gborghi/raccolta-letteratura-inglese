@@ -14,4 +14,10 @@ Called 'the father of the modern world', the relativist whose sceptical doubt wo
 
 <div class="concept-works" data-slug="characters/montaigne"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/anti-religious-thought-(chesterton)|anti religious thought (Chesterton)]]
+
+</div>
+
 #graph/character

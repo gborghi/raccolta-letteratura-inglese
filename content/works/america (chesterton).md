@@ -29,7 +29,7 @@ tags:
   - histref/declaration_of_independence
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > Essay from What I Saw in America (1922) arguing that America is the only nation founded on a creed (the Declaration of Independence). Themes: nationhood, travel and the foreigner, the contrast of English character with American dogma, satire of officialism.
@@ -49,15 +49,15 @@ tags:
 
 ## Connections
 
-**Settings:** [[America]]
+**Settings:** [[settings/america|America]]
 
-**Motifs:** [[Journey]]
+**Motifs:** [[motifs/journey|Journey]]
 
-**Characters:** [[Thomas Jefferson]]
+**Characters:** [[characters/thomas-jefferson|Thomas Jefferson]]
 
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Faith and Doubt]], [[Truth]], [[Democracy]], [[Conformity vs Individualism]], [[Freedom and Liberty]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Travel Writing]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Catholic Church]], [[Spanish Inquisition]], [[Islam and the East]], [[Declaration of Independence]]
+**Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/satire-of-society|Satire of Society]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/truth|Truth]], [[concepts/democracy|Democracy]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/travel-writing|Travel Writing]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/spanish-inquisition|Spanish Inquisition]], [[historical-references/islam-and-the-east|Islam and the East]], [[historical-references/declaration-of-independence|Declaration of Independence]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ American novelist named directly in the poem as an example of the sprawling, fas
 
 <div class="concept-works" data-slug="historical-references/theodore-dreiser"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ballad-of-abbreviations-(chesterton)|Ballad Of Abbreviations (Chesterton)]]
+
+</div>
+
 #graph/histref

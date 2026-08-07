@@ -32,7 +32,7 @@ tags:
   - topos/love_death_liebestod
   - topos/unattainable_beloved
 ---
-*by Belloc*  ·  **Cluster:** [[Medieval Romance · Chivalric Love · Translation]]
+*by Belloc*  ·  **Cluster:** [[clusters/medieval-romance-·-chivalric-love-·-translation|Medieval Romance · Chivalric Love · Translation]]
 
 > [!abstract] 
 > Belloc's English translation of Joseph Bedier's reconstruction of the medieval Tristan legend: the orphaned Tristan wins Iseult of the Golden Hair for his uncle King Mark, but the two drink a fatal love-philtre and are bound in an adulterous, doomed passion. The tale runs through flight to the forest, ordeal, exile, and their death together for love.
@@ -43,12 +43,12 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Translation]], [[Medieval Romance]]
-**Themes & Concepts:** [[Romantic Love]], [[Death and Love]], [[Fate and Free Will]], [[Marriage and Fidelity]], [[Honour]], [[Courage]]
-**Motifs:** [[Sea]], [[Ship]], [[Love]], [[Poison]], [[Swords and Weapons]], [[Enchanted Wood]], [[Sea and Voyage]]
-**Historical References:** [[Arthurian Legend]]
-**Settings:** [[Ireland]], [[Sea (2)]], [[Castle]]
-**Archetypes:** [[Lover]], [[Tragic Hero]]
-**Topoi:** [[Love-Death (Liebestod)]], [[Unattainable Beloved]]
+**Forms & Genres:** [[forms/translation|Translation]], [[forms/medieval-romance|Medieval Romance]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/death-and-love|Death and Love]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/honour|Honour]], [[concepts/courage|Courage]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/ship|Ship]], [[motifs/love|Love]], [[motifs/poison|Poison]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/enchanted-wood|Enchanted Wood]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/arthurian-legend|Arthurian Legend]]
+**Settings:** [[settings/ireland|Ireland]], [[settings/sea-(2)|Sea (2)]], [[settings/castle|Castle]]
+**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/tragic-hero|Tragic Hero]]
+**Topoi:** [[topoi/love-death-(liebestod)|Love-Death (Liebestod)]], [[topoi/unattainable-beloved|Unattainable Beloved]]
 
-**Also relevant to:** [[Greek Mythology · Lust Sexual Desire · Desire]]
+**Also relevant to:** [[clusters/greek-mythology-·-lust-sexual-desire-·-desire|Greek Mythology · Lust Sexual Desire · Desire]]

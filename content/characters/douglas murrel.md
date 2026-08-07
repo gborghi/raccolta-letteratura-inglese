@@ -14,4 +14,10 @@ An idle, dryly witty aristocrat nicknamed Monkey who instigates the plot's mock-
 
 <div class="concept-works" data-slug="characters/douglas-murrel"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/don-quixote-(chesterton)|Don Quixote (Chesterton)]]
+
+</div>
+
 #graph/character

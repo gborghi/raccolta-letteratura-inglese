@@ -14,4 +14,11 @@ A dreamlike, non-existent island setting (Nevercometrue) where an unlived altern
 
 <div class="concept-works" data-slug="settings/island"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/nevercometrue-(chesterton)|Nevercometrue (Chesterton)]]
+- [[works/the-dealings-of-captain-sharkey-and-other-tales-of-pirates-(conan-doyle)|The Dealings of Captain Sharkey and Other Tales of Pirates (Conan Doyle)]]
+
+</div>
+
 #graph/setting

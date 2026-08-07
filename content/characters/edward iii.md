@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/edward-iii"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/history-(chesterton)|history (Chesterton)]]
+- [[works/edward-iii-(shakespeare)|EDWARD III (Shakespeare)]]
+
+</div>
+
 #graph/character

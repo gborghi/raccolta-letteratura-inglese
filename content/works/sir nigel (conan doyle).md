@@ -31,7 +31,7 @@ tags:
   - topos/quest
   - topos/journey_of_life
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Historical Novel · War and its Cost · Honour and Chivalry]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/historical-novel-·-war-and-its-cost-·-honour-and-chivalry|Historical Novel · War and its Cost · Honour and Chivalry]]
 
 > [!abstract] 
 > A prequel to The White Company, set at the start of the Hundred Years' War. Young Squire Nigel Loring, of an impoverished but noble Surrey family feuding with Waverley Abbey, breaks a fierce warhorse, wins his knightly spurs, and sets out to seek chivalric adventure and honor in the service of King Edward III.
@@ -72,10 +72,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Historical Novel]], [[Medieval Romance]]
-**Themes & Concepts:** [[Honour]], [[Family and Lineage]], [[Class Conflict]], [[Fate and Free Will]], [[Power and Corruption]], [[Economics]], [[History]]
-**Motifs:** [[Horse]], [[Journey]], [[Great House]], [[Swords and Weapons]]
-**Historical References:** [[Medieval England]], [[Hundred Years' War]], [[Catholic Church]]
-**Settings:** [[Rural England]], [[Continental Europe (Brussels)]]
-**Archetypes:** [[Quest Hero]], [[Hero]], [[Mentor]]
-**Topoi:** [[Quest]], [[Journey of Life]]
+**Forms & Genres:** [[forms/historical-novel|Historical Novel]], [[forms/medieval-romance|Medieval Romance]]
+**Themes & Concepts:** [[concepts/honour|Honour]], [[concepts/family-and-lineage|Family and Lineage]], [[concepts/class-conflict|Class Conflict]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Motifs:** [[motifs/horse|Horse]], [[motifs/journey|Journey]], [[motifs/great-house|Great House]], [[motifs/swords-and-weapons|Swords and Weapons]]
+**Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/hundred-years'-war|Hundred Years' War]], [[historical-references/catholic-church|Catholic Church]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]]
+**Archetypes:** [[archetypes/quest-hero|Quest Hero]], [[archetypes/hero|Hero]], [[archetypes/mentor|Mentor]]
+**Topoi:** [[topoi/quest|Quest]], [[topoi/journey-of-life|Journey of Life]]

@@ -27,20 +27,20 @@ The dug-out where the limelight never comes,
 Nor the big drum of Barnum's show can shatter  
 That vibrant stillness after all the drums.  
 
-Though the [[Time|time]] comes when every Yankee circus  
+Though the [[motifs/time|time]] comes when every Yankee circus  
 Can use our soldiers for its sandwich-men,  
 When those that pay the piper call the tune,  
-You will not [[Dance|dance]]. You will not move again.  
+You will not [[motifs/dance|dance]]. You will not move again.  
 
 You will not march for Fatty Arbuckle,  
 Though he have yet a favourable press,  
 Tender as San Francisco to St. Francis  
 Or all the angels of Los Angeles.  
 
-They shall not [[Storm|storm]] the last unfallen fortress,  
-The lonely [[Castle|castle]] where uncowed and free,  
+They shall not [[motifs/storm|storm]] the last unfallen fortress,  
+The lonely [[settings/castle|castle]] where uncowed and free,  
 Dwells the unknown and undefeated warrior  
-That did [[Alone|alone]] defeat Publicity.
+That did alone defeat Publicity.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -58,20 +58,20 @@ il rifugio dove le luci della ribalta non giungono mai,
 né il gran tamburo dello spettacolo di Barnum può infrangere  
 quella vibrante quiete dopo tutti i tamburi.  
 
-Anche se viene il [[Time|tempo]] in cui ogni circo yankee  
+Anche se viene il [[motifs/time|tempo]] in cui ogni circo yankee  
 può usare i nostri soldati come uomini-sandwich,  
 quando chi paga il pifferaio comanda la musica,  
-tu non [[Dance|danzerai]]. Non ti muoverai più.  
+tu non [[motifs/dance|danzerai]]. Non ti muoverai più.  
 
 Non marcerai per Fatty Arbuckle,  
 per quanto egli goda ancora di buona stampa,  
 tenera come San Francisco verso San Francesco  
 o come tutti gli angeli di Los Angeles.  
 
-Non prenderanno d'[[Storm|assalto]] l'ultima fortezza non caduta,  
-il solitario [[Castle|castello]] dove, indomito e libero,  
+Non prenderanno d'[[motifs/storm|assalto]] l'ultima fortezza non caduta,  
+il solitario [[settings/castle|castello]] dove, indomito e libero,  
 dimora il guerriero ignoto e mai sconfitto  
-che [[Alone|da solo]] sconfisse la Pubblicità.
+che da solo sconfisse la Pubblicità.
 
 
 
@@ -91,20 +91,20 @@ The dug-out where the limelight never comes,
 Nor the big drum of Barnum's show can shatter  
 That vibrant stillness after all the drums.  
 
-Though the [[Time|time]] comes when every Yankee circus  
+Though the [[motifs/time|time]] comes when every Yankee circus  
 Can use our soldiers for its sandwich-men,  
 When those that pay the piper call the tune,  
-You will not [[Dance|dance]]. You will not move again.  
+You will not [[motifs/dance|dance]]. You will not move again.  
 
 You will not march for Fatty Arbuckle,  
 Though he have yet a favourable press,  
 Tender as San Francisco to St. Francis  
 Or all the angels of Los Angeles.  
 
-They shall not [[Storm|storm]] the last unfallen fortress,  
-The lonely [[Castle|castle]] where uncowed and free,  
+They shall not [[motifs/storm|storm]] the last unfallen fortress,  
+The lonely [[settings/castle|castle]] where uncowed and free,  
 Dwells the unknown and undefeated warrior  
-That did [[Alone|alone]] defeat Publicity.
+That did alone defeat Publicity.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -122,17 +122,17 @@ il rifugio dove le luci della ribalta non giungono mai,
 né il gran tamburo dello spettacolo di Barnum può infrangere  
 quella vibrante quiete dopo tutti i tamburi.  
 
-Anche se viene il [[Time|tempo]] in cui ogni circo yankee  
+Anche se viene il [[motifs/time|tempo]] in cui ogni circo yankee  
 può usare i nostri soldati come uomini-sandwich,  
 quando chi paga il pifferaio comanda la musica,  
-tu non [[Dance|danzerai]]. Non ti muoverai più.  
+tu non [[motifs/dance|danzerai]]. Non ti muoverai più.  
 
 Non marcerai per Fatty Arbuckle,  
 per quanto egli goda ancora di buona stampa,  
 tenera come San Francisco verso San Francesco  
 o come tutti gli angeli di Los Angeles.  
 
-Non prenderanno d'[[Storm|assalto]] l'ultima fortezza non caduta,  
-il solitario [[Castle|castello]] dove, indomito e libero,  
+Non prenderanno d'[[motifs/storm|assalto]] l'ultima fortezza non caduta,  
+il solitario [[settings/castle|castello]] dove, indomito e libero,  
 dimora il guerriero ignoto e mai sconfitto  
-che [[Alone|da solo]] sconfisse la Pubblicità.
+che da solo sconfisse la Pubblicità.

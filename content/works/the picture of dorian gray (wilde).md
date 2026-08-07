@@ -49,7 +49,7 @@ tags:
   - character/james_vane
 ---
 
-*by Wilde*  ·  **Cluster:** [[Supernatural · Uncanny · Double]]
+*by Wilde*  ·  **Cluster:** [[clusters/supernatural-·-uncanny-·-double|Supernatural · Uncanny · Double]]
 
 > [!abstract] 
 > Gothic novel of aestheticism in which a Faustian wish keeps Dorian beautiful while a hidden portrait bears the corruption of his soul, exploring beauty, sin, the double, and conscience.
@@ -80,14 +80,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Double]], [[Fall from Innocence]], [[Carpe Diem]], [[Vanitas]], [[Paradise Lost]]
-**Archetypes:** [[Double Doppelganger]], [[Shadow]], [[Satanic Figure]], [[Innocent]]
-**Motifs:** [[Mirror]], [[Supernatural]], [[Book Reading]], [[Blood]], [[Decay]], [[Time]], [[Flowers]], [[City]]
-**Themes & Concepts:** [[Self-Knowledge]], [[Beauty]], [[Power and Corruption]], [[Conscience]], [[Guilt]], [[Sin and the Fall]], [[Temptation]], [[Innocence and Experience]], [[Artist and Society]], [[Good vs Evil]], [[Transience]]
-**Forms & Genres:** [[Gothic Novel]], [[Novel]], [[Epigram]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]], [[Garden (2)]]
-**Characters:** [[Faust]], [[Dorian Gray]], [[Lord Henry Wotton]], [[Basil Hallward]], [[Sibyl Vane]], [[James Vane]]
+**Topoi:** [[topoi/double|Double]], [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/carpe-diem|Carpe Diem]], [[topoi/vanitas|Vanitas]], [[topoi/paradise-lost|Paradise Lost]]
+**Archetypes:** [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/shadow|Shadow]], [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/innocent|Innocent]]
+**Motifs:** [[motifs/mirror|Mirror]], [[motifs/supernatural|Supernatural]], [[motifs/book-reading|Book Reading]], [[motifs/blood|Blood]], [[motifs/decay|Decay]], [[motifs/time|Time]], [[motifs/flowers|Flowers]], [[motifs/city|City]]
+**Themes & Concepts:** [[concepts/self-knowledge|Self-Knowledge]], [[concepts/beauty|Beauty]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/conscience|Conscience]], [[concepts/guilt|Guilt]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/temptation|Temptation]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/artist-and-society|Artist and Society]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/transience|Transience]]
+**Forms & Genres:** [[forms/gothic-novel|Gothic Novel]], [[forms/novel|Novel]], [[forms/epigram|Epigram]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/london|London]], [[settings/garden-(2)|Garden (2)]]
+**Characters:** [[characters/faust|Faust]], [[characters/dorian-gray|Dorian Gray]], [[characters/lord-henry-wotton|Lord Henry Wotton]], [[characters/basil-hallward|Basil Hallward]], [[characters/sibyl-vane|Sibyl Vane]], [[characters/james-vane|James Vane]]
 
 ## Testo integrale / Full text
 

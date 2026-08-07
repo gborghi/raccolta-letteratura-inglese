@@ -32,7 +32,7 @@ tags:
   - histref/victorian_england
 ---
 
-*by Dickens*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
+*by Dickens*  ·  **Cluster:** [[clusters/city-·-london-·-theatrum-mundi|City · London · Theatrum Mundi]]
 
 > [!abstract] 
 > Dickens's early collection of sketches and tales of London everyday life and people; its centre is the comic, satirical and sympathetic observation of the city, its streets, characters, and social types.
@@ -74,12 +74,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Self-Made Man]], [[Fool]]
-**Motifs:** [[City]], [[Road]], [[Money and Gold]], [[Clothing and Costume]], [[Inn Tavern]]
-**Themes & Concepts:** [[Satire of Society]], [[Common Man]], [[Poverty]], [[Social Injustice]], [[Class Conflict]], [[Artist and Society]], [[Appearance vs Reality]], [[Nature vs Civilization]], [[Economics]]
-**Forms & Genres:** [[Short Story]], [[Essay]], [[Satire]], [[Sketch]], [[Nonfiction]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]]
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]], [[archetypes/fool|Fool]]
+**Motifs:** [[motifs/city|City]], [[motifs/road|Road]], [[motifs/money-and-gold|Money and Gold]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/inn-tavern|Inn Tavern]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/common-man|Common Man]], [[concepts/poverty|Poverty]], [[concepts/social-injustice|Social Injustice]], [[concepts/class-conflict|Class Conflict]], [[concepts/artist-and-society|Artist and Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/sketch|Sketch]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/london|London]]
 
 ## Testo integrale / Full text
 
@@ -26836,4 +26836,4 @@ respited during his Majesty’s pleasure.
 
 [429] [In its original form.]
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

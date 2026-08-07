@@ -18,18 +18,18 @@ tags:
   - setting/the_court
 ---
 
-*by Keats*  ·  **Cluster:** [[Education · Self-Made Man · Wheel]]
+*by Keats*  ·  **Cluster:** [[clusters/education-·-self-made-man-·-wheel|Education · Self-Made Man · Wheel]]
 
 > [!abstract] 
 > An unfinished comic-satiric faery tale in Spenserian stanzas about Emperor Elfinan's enforced fairy marriage and love of mortal women; mock-epic court satire set in an enchanted Eastern fairyland.
 
 ## Connections
 
-**Archetypes:** [[Fool]]
-**Motifs:** [[Supernatural]]
-**Themes & Concepts:** [[Satire of Society]], [[Marriage and Fidelity]]
-**Forms & Genres:** [[Spenserian Stanza]], [[Mock Epic]], [[Satire]]
-**Settings:** [[Orient]], [[Court]]
+**Archetypes:** [[archetypes/fool|Fool]]
+**Motifs:** [[motifs/supernatural|Supernatural]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]]
+**Forms & Genres:** [[forms/spenserian-stanza|Spenserian Stanza]], [[forms/mock-epic|Mock Epic]], [[forms/satire|Satire]]
+**Settings:** [[settings/orient|Orient]], [[settings/court|Court]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ The 'Gloomy Dean' (W. R. Inge), cited as the archetypal Birth-Controller who tar
 
 <div class="concept-works" data-slug="characters/dean-of-st.-paul's"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/social-reform-b.c-(chesterton)|Social Reform B.C (Chesterton)]]
+
+</div>
+
 #graph/character

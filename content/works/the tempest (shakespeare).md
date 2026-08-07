@@ -49,7 +49,7 @@ tags:
   - character/trinculo
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Blank Verse · Tragicomedy · Romance Play]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/blank-verse-·-tragicomedy-·-romance-play|Blank Verse · Tragicomedy · Romance Play]]
 
 > [!abstract] 
 > Shakespeare's late romance on the magician Prospero, exiled duke who raises a storm to bring his usurpers to his island, tests the lovers Ferdinand and Miranda, and finally forgives; central are magic and the supernatural, usurpation, forgiveness, nature versus civilization, and art.
@@ -68,13 +68,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Paradise Lost]], [[Theatrum Mundi]]
-**Archetypes:** [[Wise Old Man Sage]], [[Monster]], [[Usurper]], [[Lover]], [[Innocent]]
-**Motifs:** [[Supernatural]], [[Storm]], [[Sea]], [[Music and Song]], [[Dreams]], [[Sleep]], [[Book Reading]]
-**Themes & Concepts:** [[Mercy]], [[Power and Corruption]], [[Kingship and Legitimacy]], [[Revenge]], [[Romantic Love]], [[Nature vs Civilization]], [[Imagination]], [[Exile]], [[Transience]], [[Grace and Redemption]]
-**Forms & Genres:** [[Romance Play]], [[Tragicomedy]], [[Masque]], [[Blank Verse]]
-**Settings:** [[Enchanted Wood (2)]], [[Sea (2)]]
-**Characters:** [[Prince Prospero]], [[Miranda]], [[Ariel]], [[Caliban]], [[Ferdinand]], [[Antonio]], [[Alonso]], [[Gonzalo]], [[Stephano]], [[Trinculo]]
+**Topoi:** [[topoi/paradise-lost|Paradise Lost]], [[topoi/theatrum-mundi|Theatrum Mundi]]
+**Archetypes:** [[archetypes/wise-old-man-sage|Wise Old Man Sage]], [[archetypes/monster|Monster]], [[archetypes/usurper|Usurper]], [[archetypes/lover|Lover]], [[archetypes/innocent|Innocent]]
+**Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/storm|Storm]], [[motifs/sea|Sea]], [[motifs/music-and-song|Music and Song]], [[motifs/dreams|Dreams]], [[motifs/sleep|Sleep]], [[motifs/book-reading|Book Reading]]
+**Themes & Concepts:** [[concepts/mercy|Mercy]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/revenge|Revenge]], [[concepts/romantic-love|Romantic Love]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/imagination|Imagination]], [[concepts/exile|Exile]], [[concepts/transience|Transience]], [[concepts/grace-and-redemption|Grace and Redemption]]
+**Forms & Genres:** [[forms/romance-play|Romance Play]], [[forms/tragicomedy|Tragicomedy]], [[forms/masque|Masque]], [[forms/blank-verse|Blank Verse]]
+**Settings:** [[settings/enchanted-wood-(2)|Enchanted Wood (2)]], [[settings/sea-(2)|Sea (2)]]
+**Characters:** [[characters/prince-prospero|Prince Prospero]], [[characters/miranda|Miranda]], [[characters/ariel|Ariel]], [[characters/caliban|Caliban]], [[characters/ferdinand|Ferdinand]], [[characters/antonio|Antonio]], [[characters/alonso|Alonso]], [[characters/gonzalo|Gonzalo]], [[characters/stephano|Stephano]], [[characters/trinculo|Trinculo]]
 
 ## Testo integrale / Full text
 

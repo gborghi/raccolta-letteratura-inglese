@@ -12,4 +12,15 @@ tags:
 
 <div class="concept-works" data-slug="concepts/greatness"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lordkitchener-(chesterton)|LordKitchener (Chesterton)]]
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+- [[works/william-cobbett-(chesterton)|William Cobbett (Chesterton)]]
+- [[works/intro-love-and-freindship-(chesterton)|intro-love-and-freindship (Chesterton)]]
+- [[works/midsummer-nights-dream-(chesterton)|midsummer nights dream (Chesterton)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0796_who_giants_know_with_lesser_men|796. Who Giants know, with lesser Men (Dickinson)]]
+
+</div>
+
 #graph/concept

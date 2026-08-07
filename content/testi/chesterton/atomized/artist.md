@@ -27,7 +27,7 @@ I had done lying on the lawn
 Three minutes after one.  
 
 For me, as Mr. Wordsworth says,  
-The duties shine like [[Stars|stars]];  
+The duties shine like [[motifs/stars|stars]];  
 I formed my uncle's character,  
 Decreasing his cigars.  
 
@@ -38,7 +38,7 @@ On scraps of blotting paper.
 
 Then on-to play one-fingered tunes  
 Upon my aunt's piano.  
-In short, I have a headlong [[Soul|soul]],  
+In short, I have a headlong [[motifs/soul|soul]],  
 I much resemble Hanno.  
 
 (Forgive the entrance of the not  
@@ -66,12 +66,12 @@ Declined to open shops-
 And Cooks recorded frames of mind  
 In sad and subtle chops.  
 
-The [[Stars|stars]] were weary of routine:  
+The [[motifs/stars|stars]] were weary of routine:  
 The trees in the plantation  
 Were growing every fruit at once,  
 In search of sensation.  
 
-The [[Moon|moon]] went for a moonlight stroll,  
+The [[motifs/moon|moon]] went for a moonlight stroll,  
 And tried to be a bard,  
 And gazed enraptured at itself:  
 I left it trying hard.  
@@ -108,7 +108,7 @@ Stupidity of things.
 
 Envoi  
 
-Clear was the [[Night|night]]:  the [[Moon|moon]] was young  
+Clear was the [[motifs/night|night]]:  the [[motifs/moon|moon]] was young  
 The larkspurs in the plots  
 Mingled their orange with the gold  
 Of the forget-me-nots.  
@@ -118,9 +118,9 @@ So darkly fell the gloom.
 You scarce had guessed yon crimson streaks  
 Were buttercups in bloom.  
 
-But one thing moved:  a little [[Child|child]]  
+But one thing moved:  a little [[archetypes/child|child]]  
 Crashed through the flower and fern:  
-And all my [[Soul|soul]] [[Rose|rose]] up to greet  
+And all my [[motifs/soul|soul]] [[motifs/rose|rose]] up to greet  
 The sage of whom I learn.  
 
 I looked into his awful eyes:  
@@ -135,7 +135,7 @@ In modern minds is bred.
 
 "I feel the will to roam, to learn  
 By test, experience, nous,  
-That [[Fire|fire]] is hot and ocean deep,  
+That [[motifs/fire|fire]] is hot and ocean deep,  
 And wolves carnivorous.  
 
 "My brain demands complexity,"  
@@ -145,10 +145,10 @@ I looked at him, and only said,
 
 A tear rolled down his pinafore,  
 "Yet from my life must pass  
-The simple [[Love|love]] of sun and [[Moon|moon]],  
+The simple [[motifs/love|love]] of sun and [[motifs/moon|moon]],  
 The old games in the grass;  
 
-"Now that my back is to my [[Home|home]]  
+"Now that my back is to my [[motifs/home|home]]  
 Could these again be found?"  
 I looked on him and only said,  
 "Go on.  The world is round."
@@ -169,7 +169,7 @@ Avevo finito di giacere sul prato
 Tre minuti dopo l'una.  
 
 Per me, come dice il signor Wordsworth,  
-I doveri splendono come [[Stars|stelle]];  
+I doveri splendono come [[motifs/stars|stelle]];  
 Formai il carattere di mio zio,  
 Diminuendo i suoi sigari.  
 
@@ -180,7 +180,7 @@ Su ritagli di carta assorbente.
 
 Poi avanti—a suonare arie con un solo dito  
 Sul pianoforte di mia zia.  
-In breve, ho un'[[Soul|anima]] impetuosa,  
+In breve, ho un'[[motifs/soul|anima]] impetuosa,  
 Assomiglio molto ad Annone.  
 
 (Perdonate l'ingresso del non  
@@ -208,12 +208,12 @@ Rifiutarono d'aprire bottega—
 E i Cuochi registravano stati d'animo  
 In tristi e sottili braciole.  
 
-Le [[Stars|stelle]] eran stanche della routine:  
+Le [[motifs/stars|stelle]] eran stanche della routine:  
 Gli alberi nella piantagione  
 Facevan crescere ogni frutto in una volta,  
 In cerca di sensazione.  
 
-La [[Moon|luna]] andò a passeggio al chiaro di luna,  
+La [[motifs/moon|luna]] andò a passeggio al chiaro di luna,  
 E tentò d'esser bardo,  
 E si contemplò rapita in sé stessa:  
 La lasciai che si sforzava assai.  
@@ -250,7 +250,7 @@ Stupidità delle cose.
 
 Envoi  
 
-Chiara era la [[Night|notte]]:  la [[Moon|luna]] era giovane  
+Chiara era la [[motifs/night|notte]]:  la [[motifs/moon|luna]] era giovane  
 Le speronelle nelle aiuole  
 Mescolavano il loro arancio con l'oro  
 Dei nontiscordardimé.  
@@ -260,9 +260,9 @@ Così cupa scendeva la tenebra.
 A stento avresti indovinato che quelle strisce cremisi  
 Erano ranuncoli in fiore.  
 
-Ma una cosa si mosse:  un piccolo [[Child|fanciullo]]  
+Ma una cosa si mosse:  un piccolo [[archetypes/child|fanciullo]]  
 Irruppe tra il fiore e la felce:  
-E tutta la mia [[Soul|anima]] si [[Rose|levò]] a salutare  
+E tutta la mia [[motifs/soul|anima]] si [[motifs/rose|levò]] a salutare  
 Il saggio da cui apprendo.  
 
 Guardai nei suoi occhi tremendi:  
@@ -277,7 +277,7 @@ si genera nelle menti moderne.
 
 "Sento la voglia di vagare, d'apprendere  
 per prova, esperienza, senno,  
-Che il [[Fire|fuoco]] è caldo e l'oceano profondo,  
+Che il [[motifs/fire|fuoco]] è caldo e l'oceano profondo,  
 E i lupi carnivori.  
 
 "Il mio cervello esige complessità,"  
@@ -287,10 +287,10 @@ Lo guardai, e dissi soltanto,
 
 Una lacrima gli rotolò sul grembiulino,  
 "Eppure dalla mia vita deve svanire  
-Il semplice [[Love|amore]] del sole e della [[Moon|luna]],  
+Il semplice [[motifs/love|amore]] del sole e della [[motifs/moon|luna]],  
 Gli antichi giochi nell'erba;  
 
-"Ora che volgo le spalle alla mia [[Home|casa]]  
+"Ora che volgo le spalle alla mia [[motifs/home|casa]]  
 potrei ritrovarli ancora?"  
 Lo guardai e dissi soltanto,  
 "Prosegui.  Il mondo è rotondo."
@@ -313,7 +313,7 @@ I had done lying on the lawn
 Three minutes after one.  
 
 For me, as Mr. Wordsworth says,  
-The duties shine like [[Stars|stars]];  
+The duties shine like [[motifs/stars|stars]];  
 I formed my uncle's character,  
 Decreasing his cigars.  
 
@@ -324,7 +324,7 @@ On scraps of blotting paper.
 
 Then on-to play one-fingered tunes  
 Upon my aunt's piano.  
-In short, I have a headlong [[Soul|soul]],  
+In short, I have a headlong [[motifs/soul|soul]],  
 I much resemble Hanno.  
 
 (Forgive the entrance of the not  
@@ -352,12 +352,12 @@ Declined to open shops-
 And Cooks recorded frames of mind  
 In sad and subtle chops.  
 
-The [[Stars|stars]] were weary of routine:  
+The [[motifs/stars|stars]] were weary of routine:  
 The trees in the plantation  
 Were growing every fruit at once,  
 In search of sensation.  
 
-The [[Moon|moon]] went for a moonlight stroll,  
+The [[motifs/moon|moon]] went for a moonlight stroll,  
 And tried to be a bard,  
 And gazed enraptured at itself:  
 I left it trying hard.  
@@ -394,7 +394,7 @@ Stupidity of things.
 
 Envoi  
 
-Clear was the [[Night|night]]:  the [[Moon|moon]] was young  
+Clear was the [[motifs/night|night]]:  the [[motifs/moon|moon]] was young  
 The larkspurs in the plots  
 Mingled their orange with the gold  
 Of the forget-me-nots.  
@@ -404,9 +404,9 @@ So darkly fell the gloom.
 You scarce had guessed yon crimson streaks  
 Were buttercups in bloom.  
 
-But one thing moved:  a little [[Child|child]]  
+But one thing moved:  a little [[archetypes/child|child]]  
 Crashed through the flower and fern:  
-And all my [[Soul|soul]] [[Rose|rose]] up to greet  
+And all my [[motifs/soul|soul]] [[motifs/rose|rose]] up to greet  
 The sage of whom I learn.  
 
 I looked into his awful eyes:  
@@ -421,7 +421,7 @@ In modern minds is bred.
 
 "I feel the will to roam, to learn  
 By test, experience, nous,  
-That [[Fire|fire]] is hot and ocean deep,  
+That [[motifs/fire|fire]] is hot and ocean deep,  
 And wolves carnivorous.  
 
 "My brain demands complexity,"  
@@ -431,10 +431,10 @@ I looked at him, and only said,
 
 A tear rolled down his pinafore,  
 "Yet from my life must pass  
-The simple [[Love|love]] of sun and [[Moon|moon]],  
+The simple [[motifs/love|love]] of sun and [[motifs/moon|moon]],  
 The old games in the grass;  
 
-"Now that my back is to my [[Home|home]]  
+"Now that my back is to my [[motifs/home|home]]  
 Could these again be found?"  
 I looked on him and only said,  
 "Go on.  The world is round."
@@ -455,7 +455,7 @@ Avevo finito di giacere sul prato
 Tre minuti dopo l'una.  
 
 Per me, come dice il signor Wordsworth,  
-I doveri splendono come [[Stars|stelle]];  
+I doveri splendono come [[motifs/stars|stelle]];  
 Formai il carattere di mio zio,  
 Diminuendo i suoi sigari.  
 
@@ -466,7 +466,7 @@ Su ritagli di carta assorbente.
 
 Poi avanti—a suonare arie con un solo dito  
 Sul pianoforte di mia zia.  
-In breve, ho un'[[Soul|anima]] impetuosa,  
+In breve, ho un'[[motifs/soul|anima]] impetuosa,  
 Assomiglio molto ad Annone.  
 
 (Perdonate l'ingresso del non  
@@ -494,12 +494,12 @@ Rifiutarono d'aprire bottega—
 E i Cuochi registravano stati d'animo  
 In tristi e sottili braciole.  
 
-Le [[Stars|stelle]] eran stanche della routine:  
+Le [[motifs/stars|stelle]] eran stanche della routine:  
 Gli alberi nella piantagione  
 Facevan crescere ogni frutto in una volta,  
 In cerca di sensazione.  
 
-La [[Moon|luna]] andò a passeggio al chiaro di luna,  
+La [[motifs/moon|luna]] andò a passeggio al chiaro di luna,  
 E tentò d'esser bardo,  
 E si contemplò rapita in sé stessa:  
 La lasciai che si sforzava assai.  
@@ -536,7 +536,7 @@ Stupidità delle cose.
 
 Envoi  
 
-Chiara era la [[Night|notte]]:  la [[Moon|luna]] era giovane  
+Chiara era la [[motifs/night|notte]]:  la [[motifs/moon|luna]] era giovane  
 Le speronelle nelle aiuole  
 Mescolavano il loro arancio con l'oro  
 Dei nontiscordardimé.  
@@ -546,9 +546,9 @@ Così cupa scendeva la tenebra.
 A stento avresti indovinato che quelle strisce cremisi  
 Erano ranuncoli in fiore.  
 
-Ma una cosa si mosse:  un piccolo [[Child|fanciullo]]  
+Ma una cosa si mosse:  un piccolo [[archetypes/child|fanciullo]]  
 Irruppe tra il fiore e la felce:  
-E tutta la mia [[Soul|anima]] si [[Rose|levò]] a salutare  
+E tutta la mia [[motifs/soul|anima]] si [[motifs/rose|levò]] a salutare  
 Il saggio da cui apprendo.  
 
 Guardai nei suoi occhi tremendi:  
@@ -563,7 +563,7 @@ si genera nelle menti moderne.
 
 "Sento la voglia di vagare, d'apprendere  
 per prova, esperienza, senno,  
-Che il [[Fire|fuoco]] è caldo e l'oceano profondo,  
+Che il [[motifs/fire|fuoco]] è caldo e l'oceano profondo,  
 E i lupi carnivori.  
 
 "Il mio cervello esige complessità,"  
@@ -573,10 +573,10 @@ Lo guardai, e dissi soltanto,
 
 Una lacrima gli rotolò sul grembiulino,  
 "Eppure dalla mia vita deve svanire  
-Il semplice [[Love|amore]] del sole e della [[Moon|luna]],  
+Il semplice [[motifs/love|amore]] del sole e della [[motifs/moon|luna]],  
 Gli antichi giochi nell'erba;  
 
-"Ora che volgo le spalle alla mia [[Home|casa]]  
+"Ora che volgo le spalle alla mia [[motifs/home|casa]]  
 potrei ritrovarli ancora?"  
 Lo guardai e dissi soltanto,  
 "Prosegui.  Il mondo è rotondo."

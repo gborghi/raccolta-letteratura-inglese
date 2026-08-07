@@ -16,7 +16,7 @@ tags:
 
 # The Polish Ideal
 
-The Illustrated [[London]] News, July 2, 1927.
+The Illustrated [[settings/london|London]] News, July 2, 1927.
 
 "The Polish Ideal"
 
@@ -51,7 +51,7 @@ and heartily agreed with it.  But I know there are some people
 who would not understand it even enough to disagree with it.
 I know that some people would furiously refuse even to see
 the joke of it.  There is something in that particular sort
-of [[Romance|romance]], or (if you will) in that particular sort of swagger,
+of romance, or (if you will) in that particular sort of swagger,
 which moves them quite genuinely to a violent irritation.
 It is an irritation common among rationalists, among the drier sort
 of dons, and among the duller sort of public servants.
@@ -61,7 +61,7 @@ if their swagger had consisted of silently pushing people off
 the kerbstone, if their ceremony had consisted not in making good
 speeches but in standing in a row quite speechless, if their faces
 had been like painted wood and their heads and bodies puffed
-up with nothing but an east [[Wind|wind]] of [[Pride|pride]], they would not have
+up with nothing but an east [[motifs/wind|wind]] of [[concepts/pride|pride]], they would not have
 irritated this sort of critic in this sort of way.  They would have
 soothed him, with a vague sense that this is what soldiers must be.
 I do not say he would approve of everything they did, but he would accept
@@ -70,34 +70,34 @@ as it does to me, who belong to the other half of mankind.
 But what does anger him, what does seem to him absurd,
 is the idea of a soldier civilized; the man who is no more ashamed
 of the military art than of any other art, but who is interested
-in other arts--and interested in them all like an [[artist]].
+in other arts--and interested in them all like an [[archetypes/artist|artist]].
 That the man in uniform should make a speech, and, worst of all,
-a good speech, seems comic--like a policeman composing a [[Sonnet|sonnet]].
-That he should connect a [[Horse|horse]]-soldier with a poet appears meaningless,
+a good speech, seems comic--like a policeman composing a [[forms/sonnet|sonnet]].
+That he should connect a [[motifs/horse|horse]]-soldier with a poet appears meaningless,
 like connecting a butcher with a Buddhist monk.  In one historic word,
 these people hate and have always hated the Cavalier.
-They hate the Cavalier especially when he writes Cavalier [[songs]].
+They hate the Cavalier especially when he writes Cavalier songs.
 They hate the knight when he is also a troubadour.  They can understand
-Ironsides[1] solemnly killing people in the [[Fear|fear]] of the Lord,
+Ironsides[1] solemnly killing people in the [[concepts/fear|fear]] of the Lord,
 as they can understand Prussian soldiers solemnly killing people
-in the [[Fear|fear]] of the War-Lord. But they cannot tolerate the combination
+in the [[concepts/fear|fear]] of the War-Lord. But they cannot tolerate the combination
 of wit and culture and courtesy with this business of killing.
 It seems especially preposterous when the Cavalier adds to all his other
 dazzling inconsistencies by being quite as religious as the Ironside.
 The last touch is put to their angry bewilderment when the man
-who has talked gaily as if nobody mattered except lancers and [[Lyric|lyric]]
+who has talked gaily as if nobody mattered except lancers and [[forms/lyric|lyric]]
 poets says, with the same simplicity and gaiety, "the only friend
 of our country is God."
 
 These critics commonly say that they are irritated with this
 romantic type because it always fails; so they are naturally
 even more irritated when it very frequently succeeds.
-People who are ready to shed [[Tears|tears]] of sympathy when the windmills
-overthrow [[Don Quixote]] are very angry indeed when [[Don Quixote]] really
+People who are ready to shed [[motifs/tears|tears]] of sympathy when the windmills
+overthrow [[characters/don-quixote|Don Quixote]] are very angry indeed when [[characters/don-quixote|Don Quixote]] really
 overthrows the windmills.  People who are prepared to give a vain
-blessing to a forlorn [[Hope|hope]] are not unnaturally annoyed to find that
-the forlorn [[Hope|hope]] is comparatively hopeful and not entirely forlorn.
-Even the most genial of these realists, Mr. Bernard [[Shaw]],
+blessing to a forlorn [[concepts/hope|hope]] are not unnaturally annoyed to find that
+the forlorn [[concepts/hope|hope]] is comparatively hopeful and not entirely forlorn.
+Even the most genial of these realists, Mr. Bernard [[works/shaw-(chesterton)|Shaw]],
 would be a little vexed if he had to reverse the whole moral
 of "Arms and the Man" and admit that the Arms counted for a little
 less and the Man for a little more.  He would be slightly put out,
@@ -110,40 +110,40 @@ Mr. Broadbent[2] went bankrupt in his Other Island.
 When the Poles defeated the Bolshevists in the field of battle,
 it was precisely that.  It was the old chivalric tradition defeating
 everything that is modern, everything that is necessitarian,
-everything that is mechanical in method and materialistic in [[philosophy]].
+everything that is mechanical in method and materialistic in philosophy.
 It was the Marxian notion that everything is inevitable defeated
 by the Christian notion that nothing is inevitable--no, not even
 what has already happened.  Mr. Belloc has put the Polish ideal
 into lines dedicated to a great Polish shrine--
 
-[[Hope]] of the Half-Defeated; [[house]] of gold;
-Shrine of the [[Sword|sword]] and tower of ivory.[3]
+[[concepts/hope|Hope]] of the Half-Defeated; house of gold;
+Shrine of the sword and tower of ivory.[3]
 
 Before I leave these Polish cavaliers I may remark that I had
 another chance of seeing them at the jumping competitions in the
 Concours Hippique, and I will only mention one incident and leave it,
-for it is something of a [[Parable|parable]].  The course consisted of the usual
-high obstacle, but there was one which was apparently of a [[Novel|novel]]
+for it is something of a [[forms/parable|parable]].  The course consisted of the usual
+high obstacle, but there was one which was apparently of a [[forms/novel|novel]]
 pattern and practically insuperable.  Anyhow, one after another in
 that long procession of admirable riders, French, Polish, and Italian,
 failed at this final test till failure came to be treated as a matter
 of course; even experts on such occasions differ about the degrees
-of merits and misfortunes, and I am not an expert at a [[Horse|horse]] show.
+of merits and misfortunes, and I am not an expert at a [[motifs/horse|horse]] show.
 One of the Lancers playfully asked me if I was going to compete.
 I made the obvious answer that, mounted on my favorite elephant,
 I would undertake to step over many of the fences, though certainly
-no the last fence of all, which I [[Doubt|doubt]] if a giraffe could bestride.
+no the last fence of all, which I [[concepts/doubt|doubt]] if a giraffe could bestride.
 But the general feeling seemed to be that I should be more useful
 as an obstacle than a surmounter of obstacles, and that, if I lay
 down on the course, it might be even worse than the worst obstacle.
 
 There was some amusement and some pity for one young Pole--who was,
 I believe, a novice or relatively untried person--whose mount in some
-fashion stumble so that the rider was shot over the [[Horse|horse]]'s head.
-At least, I thought he was shot over the [[Horse|horse]]'s head,
+fashion stumble so that the rider was shot over the [[motifs/horse|horse]]'s head.
+At least, I thought he was shot over the [[motifs/horse|horse]]'s head,
 and then discovered, amid some amazing and jerky gyrations,
-that he was what can only be called clinging to the [[Horse|horse]]'s ears.
-While the [[Horse|horse]] danced about the course in a dégagé[4] manner,
+that he was what can only be called clinging to the [[motifs/horse|horse]]'s ears.
+While the [[motifs/horse|horse]] danced about the course in a dégagé[4] manner,
 the rider seemed to crawl down his neck in some incredible way and
 rolled back into the saddle.  He found one stirrup and tired in vain
 to find the other.  Then he gave it up--the stirrup, not the race.
@@ -154,12 +154,12 @@ and, first of all that company, went over it like a bird.
 And someone said at my elbow with a sharp exclamation,
 in English:  "That's just like the Poles!"
 
-[[Hope]] of the Half-Defeated; [[house]] of gold...
+[[concepts/hope|Hope]] of the Half-Defeated; house of gold...
 
 1.  Ironsides were the Puritan soldiers who fought under Cromwell
 in the English Civil Wars.
 
-2.  Tom Broadbent is a character in George Bernard [[Shaw]]'s play
+2.  Tom Broadbent is a character in George Bernard [[works/shaw-(chesterton)|Shaw]]'s play
 John Bull's Other Island (1904).
 
 3.  See Belloc's "Ballade to Our Lady of Czestochowa".
@@ -174,7 +174,7 @@ John Bull's Other Island (1904).
 
 # The Polish Ideal
 
-The Illustrated [[London]] News, July 2, 1927.
+The Illustrated [[settings/london|London]] News, July 2, 1927.
 
 "The Polish Ideal"
 
@@ -209,7 +209,7 @@ and heartily agreed with it.  But I know there are some people
 who would not understand it even enough to disagree with it.
 I know that some people would furiously refuse even to see
 the joke of it.  There is something in that particular sort
-of [[Romance|romance]], or (if you will) in that particular sort of swagger,
+of romance, or (if you will) in that particular sort of swagger,
 which moves them quite genuinely to a violent irritation.
 It is an irritation common among rationalists, among the drier sort
 of dons, and among the duller sort of public servants.
@@ -219,7 +219,7 @@ if their swagger had consisted of silently pushing people off
 the kerbstone, if their ceremony had consisted not in making good
 speeches but in standing in a row quite speechless, if their faces
 had been like painted wood and their heads and bodies puffed
-up with nothing but an east [[Wind|wind]] of [[Pride|pride]], they would not have
+up with nothing but an east [[motifs/wind|wind]] of [[concepts/pride|pride]], they would not have
 irritated this sort of critic in this sort of way.  They would have
 soothed him, with a vague sense that this is what soldiers must be.
 I do not say he would approve of everything they did, but he would accept
@@ -228,34 +228,34 @@ as it does to me, who belong to the other half of mankind.
 But what does anger him, what does seem to him absurd,
 is the idea of a soldier civilized; the man who is no more ashamed
 of the military art than of any other art, but who is interested
-in other arts--and interested in them all like an [[artist]].
+in other arts--and interested in them all like an [[archetypes/artist|artist]].
 That the man in uniform should make a speech, and, worst of all,
-a good speech, seems comic--like a policeman composing a [[Sonnet|sonnet]].
-That he should connect a [[Horse|horse]]-soldier with a poet appears meaningless,
+a good speech, seems comic--like a policeman composing a [[forms/sonnet|sonnet]].
+That he should connect a [[motifs/horse|horse]]-soldier with a poet appears meaningless,
 like connecting a butcher with a Buddhist monk.  In one historic word,
 these people hate and have always hated the Cavalier.
-They hate the Cavalier especially when he writes Cavalier [[songs]].
+They hate the Cavalier especially when he writes Cavalier songs.
 They hate the knight when he is also a troubadour.  They can understand
-Ironsides[1] solemnly killing people in the [[Fear|fear]] of the Lord,
+Ironsides[1] solemnly killing people in the [[concepts/fear|fear]] of the Lord,
 as they can understand Prussian soldiers solemnly killing people
-in the [[Fear|fear]] of the War-Lord. But they cannot tolerate the combination
+in the [[concepts/fear|fear]] of the War-Lord. But they cannot tolerate the combination
 of wit and culture and courtesy with this business of killing.
 It seems especially preposterous when the Cavalier adds to all his other
 dazzling inconsistencies by being quite as religious as the Ironside.
 The last touch is put to their angry bewilderment when the man
-who has talked gaily as if nobody mattered except lancers and [[Lyric|lyric]]
+who has talked gaily as if nobody mattered except lancers and [[forms/lyric|lyric]]
 poets says, with the same simplicity and gaiety, "the only friend
 of our country is God."
 
 These critics commonly say that they are irritated with this
 romantic type because it always fails; so they are naturally
 even more irritated when it very frequently succeeds.
-People who are ready to shed [[Tears|tears]] of sympathy when the windmills
-overthrow [[Don Quixote]] are very angry indeed when [[Don Quixote]] really
+People who are ready to shed [[motifs/tears|tears]] of sympathy when the windmills
+overthrow [[characters/don-quixote|Don Quixote]] are very angry indeed when [[characters/don-quixote|Don Quixote]] really
 overthrows the windmills.  People who are prepared to give a vain
-blessing to a forlorn [[Hope|hope]] are not unnaturally annoyed to find that
-the forlorn [[Hope|hope]] is comparatively hopeful and not entirely forlorn.
-Even the most genial of these realists, Mr. Bernard [[Shaw]],
+blessing to a forlorn [[concepts/hope|hope]] are not unnaturally annoyed to find that
+the forlorn [[concepts/hope|hope]] is comparatively hopeful and not entirely forlorn.
+Even the most genial of these realists, Mr. Bernard [[works/shaw-(chesterton)|Shaw]],
 would be a little vexed if he had to reverse the whole moral
 of "Arms and the Man" and admit that the Arms counted for a little
 less and the Man for a little more.  He would be slightly put out,
@@ -270,17 +270,17 @@ Mr. Broadbent[2] went bankrupt in his Other Island.
 
 # L'Ideale Polacco
 
-The Illustrated [[London]] News, 2 luglio 1927.
+The Illustrated [[settings/london|London]] News, 2 luglio 1927.
 
 "L'Ideale Polacco"
 
 Vi sono certe cose a questo mondo che sono a un tempo intensamente amate e intensamente odiate. Sono per natura cose di forte carattere, o molto buone o molto cattive. In genere danno un gran daffare a tutti, e una sorta particolare di daffare a coloro che tentano di distruggerle. Ma danno più daffare di ogni altra cosa a coloro che tentano di ignorarle. Alcuni le odiano in modo così folle da negarne la stessa esistenza; ma il vuoto prodotto da quella negazione continua a esasperare coloro che l'hanno fatto, finché non sono come uomini soffocati da un vuoto pneumatico. Dichiarano che essa dev'essere senza nome, e poi non cessano mai di maledirne il nome. Questo caso curioso è forse illustrato al meglio con un esempio. Un esempio è l'Irlanda. Un altro esempio è la Polonia.
 
-Entro dieci minuti dallo scendere dal treno sul territorio polacco avevo udito due frasi... frasi che colpirono la nota precisa che così ispira una metà del mondo e infuria l'altra metà. Fummo ricevuti da una sorta di scorta di cavalleria polacca, e uno degli ufficiali tenne un discorso in francese... un discorso assai bello in un francese assai buono. Nel corso di esso usò la prima di queste due espressioni tipiche: "Non dirò il principale amico della Polonia. Dio è il principale amico della Polonia." E in seguito disse, in un momento più giocoso e conversevole: "In fondo, non ci sono che due mestieri per un uomo: il poeta e il soldato di cavalleria." Lo disse con umorismo, e con la delicata implicazione: "Voi siete un poeta e io sono un soldato di cavalleria. E dunque, eccoci qui!" Io dissi che, tenuto conto della difficoltà per chiunque di avere qualcosa da mangiare se ciò fosse letteralmente vero, accettavo interamente il sentimento, e vi concordavo di tutto cuore. Ma so che vi sono alcune persone che non lo comprenderebbero nemmeno abbastanza da dissentirne. So che alcune persone si rifiuterebbero furiosamente persino di coglierne lo scherzo. C'è qualcosa in quel particolare genere di [[Romance|romanticismo]], o (se volete) in quel particolare genere di spavalderia, che le muove del tutto sinceramente a una violenta irritazione. È un'irritazione comune tra i razionalisti, tra la specie più arida dei professori e tra la specie più ottusa dei pubblici funzionari.
+Entro dieci minuti dallo scendere dal treno sul territorio polacco avevo udito due frasi... frasi che colpirono la nota precisa che così ispira una metà del mondo e infuria l'altra metà. Fummo ricevuti da una sorta di scorta di cavalleria polacca, e uno degli ufficiali tenne un discorso in francese... un discorso assai bello in un francese assai buono. Nel corso di esso usò la prima di queste due espressioni tipiche: "Non dirò il principale amico della Polonia. Dio è il principale amico della Polonia." E in seguito disse, in un momento più giocoso e conversevole: "In fondo, non ci sono che due mestieri per un uomo: il poeta e il soldato di cavalleria." Lo disse con umorismo, e con la delicata implicazione: "Voi siete un poeta e io sono un soldato di cavalleria. E dunque, eccoci qui!" Io dissi che, tenuto conto della difficoltà per chiunque di avere qualcosa da mangiare se ciò fosse letteralmente vero, accettavo interamente il sentimento, e vi concordavo di tutto cuore. Ma so che vi sono alcune persone che non lo comprenderebbero nemmeno abbastanza da dissentirne. So che alcune persone si rifiuterebbero furiosamente persino di coglierne lo scherzo. C'è qualcosa in quel particolare genere di romanticismo, o (se volete) in quel particolare genere di spavalderia, che le muove del tutto sinceramente a una violenta irritazione. È un'irritazione comune tra i razionalisti, tra la specie più arida dei professori e tra la specie più ottusa dei pubblici funzionari.
 
-Ora, se tutti quegli ufficiali polacchi fossero stati ufficiali prussiani, se la loro spavalderia fosse consistita nello spingere silenziosamente la gente giù dal marciapiede, se il loro cerimoniale fosse consistito non nel fare buoni discorsi ma nello stare in fila del tutto muti, se i loro volti fossero stati come legno dipinto e le loro teste e i loro corpi gonfiati di null'altro che un [[Wind|vento]] d'oriente d'[[Pride|orgoglio]], non avrebbero irritato questo genere di critico in questo modo. Lo avrebbero rasserenato, con la vaga sensazione che questo è ciò che i soldati devono essere. Non dico che approverebbe tutto ciò che facevano, ma accetterebbe ciò che erano. Non lo adirerebbe né gli parrebbe assurdo, come pare a me, che appartengo all'altra metà del genere umano. Ma ciò che lo adira, ciò che gli pare assurdo, è l'idea di un soldato civilizzato; l'uomo che non si vergogna dell'arte militare più di quanto si vergogni di qualunque altra arte, ma che si interessa di altre arti... e si interessa di tutte come un [[artist|artista]]. Che l'uomo in uniforme faccia un discorso, e, peggio di tutto, un buon discorso, pare comico... come un poliziotto che compone un [[Sonnet|sonetto]]. Che egli colleghi un soldato a [[Horse|cavallo]] con un poeta appare privo di senso, come collegare un macellaio con un monaco buddista. In una storica parola, questa gente odia e ha sempre odiato il Cavaliere. Odiano il Cavaliere specialmente quando scrive [[songs|canzoni]] da Cavaliere. Odiano il cavaliere quando è anche un trovatore. Possono comprendere i Fianchi di Ferro[1] che uccidono la gente solennemente nel [[Fear|timore]] del Signore, così come possono comprendere i soldati prussiani che uccidono la gente solennemente nel [[Fear|timore]] del Signore della Guerra. Ma non possono tollerare la combinazione di arguzia, cultura e cortesia con questo mestiere di uccidere. Pare loro particolarmente assurdo quando il Cavaliere aggiunge a tutte le sue altre abbaglianti incoerenze l'essere religioso quanto il Fianco di Ferro. L'ultimo tocco è dato al loro adirato sconcerto quando l'uomo che ha parlato allegramente come se nessuno contasse tranne i lancieri e i poeti [[Lyric|lirici]] dice, con la stessa semplicità e allegria: "il solo amico del nostro paese è Dio."
+Ora, se tutti quegli ufficiali polacchi fossero stati ufficiali prussiani, se la loro spavalderia fosse consistita nello spingere silenziosamente la gente giù dal marciapiede, se il loro cerimoniale fosse consistito non nel fare buoni discorsi ma nello stare in fila del tutto muti, se i loro volti fossero stati come legno dipinto e le loro teste e i loro corpi gonfiati di null'altro che un [[motifs/wind|vento]] d'oriente d'[[concepts/pride|orgoglio]], non avrebbero irritato questo genere di critico in questo modo. Lo avrebbero rasserenato, con la vaga sensazione che questo è ciò che i soldati devono essere. Non dico che approverebbe tutto ciò che facevano, ma accetterebbe ciò che erano. Non lo adirerebbe né gli parrebbe assurdo, come pare a me, che appartengo all'altra metà del genere umano. Ma ciò che lo adira, ciò che gli pare assurdo, è l'idea di un soldato civilizzato; l'uomo che non si vergogna dell'arte militare più di quanto si vergogni di qualunque altra arte, ma che si interessa di altre arti... e si interessa di tutte come un [[archetypes/artist|artista]]. Che l'uomo in uniforme faccia un discorso, e, peggio di tutto, un buon discorso, pare comico... come un poliziotto che compone un [[forms/sonnet|sonetto]]. Che egli colleghi un soldato a [[motifs/horse|cavallo]] con un poeta appare privo di senso, come collegare un macellaio con un monaco buddista. In una storica parola, questa gente odia e ha sempre odiato il Cavaliere. Odiano il Cavaliere specialmente quando scrive canzoni da Cavaliere. Odiano il cavaliere quando è anche un trovatore. Possono comprendere i Fianchi di Ferro[1] che uccidono la gente solennemente nel [[concepts/fear|timore]] del Signore, così come possono comprendere i soldati prussiani che uccidono la gente solennemente nel [[concepts/fear|timore]] del Signore della Guerra. Ma non possono tollerare la combinazione di arguzia, cultura e cortesia con questo mestiere di uccidere. Pare loro particolarmente assurdo quando il Cavaliere aggiunge a tutte le sue altre abbaglianti incoerenze l'essere religioso quanto il Fianco di Ferro. L'ultimo tocco è dato al loro adirato sconcerto quando l'uomo che ha parlato allegramente come se nessuno contasse tranne i lancieri e i poeti [[forms/lyric|lirici]] dice, con la stessa semplicità e allegria: "il solo amico del nostro paese è Dio."
 
-Questi critici comunemente dicono di essere irritati da questo tipo romantico perché fallisce sempre; e così sono naturalmente ancor più irritati quando esso assai di frequente riesce. Le persone pronte a versare [[Tears|lacrime]] di compassione quando i mulini a vento rovesciano [[Don Quixote]] sono davvero furiose quando [[Don Quixote]] rovescia realmente i mulini a vento. Le persone disposte a dare una vana benedizione a una [[Hope|speranza]] disperata non sono innaturalmente seccate di scoprire che la [[Hope|speranza]] disperata è relativamente promettente e non del tutto disperata. Anche il più geniale di questi realisti, il signor Bernard [[Shaw]], sarebbe un po' contrariato se dovesse capovolgere l'intera morale di "Arms and the Man" e ammettere che le Armi contavano un po' meno e l'Uomo un po' di più. Sarebbe leggermente sconcertato, forse, se il celebre duello d'artiglieria avesse davvero luogo, e il sentimentale Sergius facesse a pezzi il realistico Bluntzschli. Ma questo è quasi esattamente ciò che è realmente accaduto oggi nell'Europa moderna. È ciò che è accaduto, per esempio, quando il pratico signor Broadbent[2] fece bancarotta nella sua Altra Isola.
+Questi critici comunemente dicono di essere irritati da questo tipo romantico perché fallisce sempre; e così sono naturalmente ancor più irritati quando esso assai di frequente riesce. Le persone pronte a versare [[motifs/tears|lacrime]] di compassione quando i mulini a vento rovesciano [[characters/don-quixote|Don Quixote]] sono davvero furiose quando [[characters/don-quixote|Don Quixote]] rovescia realmente i mulini a vento. Le persone disposte a dare una vana benedizione a una [[concepts/hope|speranza]] disperata non sono innaturalmente seccate di scoprire che la [[concepts/hope|speranza]] disperata è relativamente promettente e non del tutto disperata. Anche il più geniale di questi realisti, il signor Bernard [[works/shaw-(chesterton)|Shaw]], sarebbe un po' contrariato se dovesse capovolgere l'intera morale di "Arms and the Man" e ammettere che le Armi contavano un po' meno e l'Uomo un po' di più. Sarebbe leggermente sconcertato, forse, se il celebre duello d'artiglieria avesse davvero luogo, e il sentimentale Sergius facesse a pezzi il realistico Bluntzschli. Ma questo è quasi esattamente ciò che è realmente accaduto oggi nell'Europa moderna. È ciò che è accaduto, per esempio, quando il pratico signor Broadbent[2] fece bancarotta nella sua Altra Isola.
 
 
 
@@ -290,40 +290,40 @@ Questi critici comunemente dicono di essere irritati da questo tipo romantico pe
 When the Poles defeated the Bolshevists in the field of battle,
 it was precisely that.  It was the old chivalric tradition defeating
 everything that is modern, everything that is necessitarian,
-everything that is mechanical in method and materialistic in [[philosophy]].
+everything that is mechanical in method and materialistic in philosophy.
 It was the Marxian notion that everything is inevitable defeated
 by the Christian notion that nothing is inevitable--no, not even
 what has already happened.  Mr. Belloc has put the Polish ideal
 into lines dedicated to a great Polish shrine--
 
-[[Hope]] of the Half-Defeated; [[house]] of gold;
-Shrine of the [[Sword|sword]] and tower of ivory.[3]
+[[concepts/hope|Hope]] of the Half-Defeated; house of gold;
+Shrine of the sword and tower of ivory.[3]
 
 Before I leave these Polish cavaliers I may remark that I had
 another chance of seeing them at the jumping competitions in the
 Concours Hippique, and I will only mention one incident and leave it,
-for it is something of a [[Parable|parable]].  The course consisted of the usual
-high obstacle, but there was one which was apparently of a [[Novel|novel]]
+for it is something of a [[forms/parable|parable]].  The course consisted of the usual
+high obstacle, but there was one which was apparently of a [[forms/novel|novel]]
 pattern and practically insuperable.  Anyhow, one after another in
 that long procession of admirable riders, French, Polish, and Italian,
 failed at this final test till failure came to be treated as a matter
 of course; even experts on such occasions differ about the degrees
-of merits and misfortunes, and I am not an expert at a [[Horse|horse]] show.
+of merits and misfortunes, and I am not an expert at a [[motifs/horse|horse]] show.
 One of the Lancers playfully asked me if I was going to compete.
 I made the obvious answer that, mounted on my favorite elephant,
 I would undertake to step over many of the fences, though certainly
-no the last fence of all, which I [[Doubt|doubt]] if a giraffe could bestride.
+no the last fence of all, which I [[concepts/doubt|doubt]] if a giraffe could bestride.
 But the general feeling seemed to be that I should be more useful
 as an obstacle than a surmounter of obstacles, and that, if I lay
 down on the course, it might be even worse than the worst obstacle.
 
 There was some amusement and some pity for one young Pole--who was,
 I believe, a novice or relatively untried person--whose mount in some
-fashion stumble so that the rider was shot over the [[Horse|horse]]'s head.
-At least, I thought he was shot over the [[Horse|horse]]'s head,
+fashion stumble so that the rider was shot over the [[motifs/horse|horse]]'s head.
+At least, I thought he was shot over the [[motifs/horse|horse]]'s head,
 and then discovered, amid some amazing and jerky gyrations,
-that he was what can only be called clinging to the [[Horse|horse]]'s ears.
-While the [[Horse|horse]] danced about the course in a dégagé[4] manner,
+that he was what can only be called clinging to the [[motifs/horse|horse]]'s ears.
+While the [[motifs/horse|horse]] danced about the course in a dégagé[4] manner,
 the rider seemed to crawl down his neck in some incredible way and
 rolled back into the saddle.  He found one stirrup and tired in vain
 to find the other.  Then he gave it up--the stirrup, not the race.
@@ -334,12 +334,12 @@ and, first of all that company, went over it like a bird.
 And someone said at my elbow with a sharp exclamation,
 in English:  "That's just like the Poles!"
 
-[[Hope]] of the Half-Defeated; [[house]] of gold...
+[[concepts/hope|Hope]] of the Half-Defeated; house of gold...
 
 1.  Ironsides were the Puritan soldiers who fought under Cromwell
 in the English Civil Wars.
 
-2.  Tom Broadbent is a character in George Bernard [[Shaw]]'s play
+2.  Tom Broadbent is a character in George Bernard [[works/shaw-(chesterton)|Shaw]]'s play
 John Bull's Other Island (1904).
 
 3.  See Belloc's "Ballade to Our Lady of Czestochowa".
@@ -352,40 +352,40 @@ John Bull's Other Island (1904).
 Quando i Polacchi sconfissero i bolscevichi sul campo di battaglia,
 fu precisamente quello.  Fu l'antica tradizione cavalleresca che sconfiggeva
 tutto ciò che è moderno, tutto ciò che è necessitarista,
-tutto ciò che è meccanico nel metodo e materialistico nella [[philosophy|filosofia]].
+tutto ciò che è meccanico nel metodo e materialistico nella filosofia.
 Fu la nozione marxiana che tutto è inevitabile, sconfitta
 dalla nozione cristiana che nulla è inevitabile--no, nemmeno
 ciò che è già accaduto.  Il signor Belloc ha trasfuso l'ideale polacco
 in versi dedicati a un grande santuario polacco--
 
-[[Hope|Speranza]] dei Mezzo-Sconfitti; [[house|casa]] d'oro;
-Santuario della [[Sword|spada]] e torre d'avorio.[3]
+[[concepts/hope|Speranza]] dei Mezzo-Sconfitti; casa d'oro;
+Santuario della spada e torre d'avorio.[3]
 
 Prima di lasciare questi cavalieri polacchi posso osservare che ebbi
 un'altra occasione di vederli alle gare di salto nel
 Concours Hippique, e mi limiterò a menzionare un episodio e a lasciarlo lì,
-poiché ha qualcosa di una [[Parable|parabola]].  Il percorso comprendeva il consueto
-ostacolo alto, ma ce n'era uno che appariva di foggia [[Novel|nuova]]
+poiché ha qualcosa di una [[forms/parable|parabola]].  Il percorso comprendeva il consueto
+ostacolo alto, ma ce n'era uno che appariva di foggia [[forms/novel|nuova]]
 e praticamente insuperabile.  Comunque, uno dopo l'altro in
 quella lunga processione di cavalieri ammirevoli, francesi, polacchi e italiani,
 falliva a questa prova finale, finché il fallimento non venne trattato come cosa
 scontata; anche gli esperti in simili occasioni divergono sui gradi
-di merito e di sventura, e io non sono un esperto di [[Horse|cavalli]].
+di merito e di sventura, e io non sono un esperto di [[motifs/horse|cavalli]].
 Uno dei Lancieri mi chiese scherzosamente se avessi intenzione di gareggiare.
 Diedi l'ovvia risposta che, in groppa al mio elefante prediletto,
 mi sarei impegnato a scavalcare molte delle barriere, benché di certo
-non l'ultima di tutte, che [[Doubt|dubito]] una giraffa potrebbe cavalcare.
+non l'ultima di tutte, che [[concepts/doubt|dubito]] una giraffa potrebbe cavalcare.
 Ma il sentimento generale sembrava essere che sarei stato più utile
 come ostacolo che come superatore di ostacoli, e che, se mi fossi disteso
 sul percorso, avrei potuto essere peggio del peggiore degli ostacoli.
 
 Vi fu un po' di divertimento e un po' di compassione per un giovane polacco--che era,
 credo, un principiante o persona relativamente inesperta--la cui cavalcatura in qualche
-modo inciampò così che il cavaliere fu scagliato oltre la testa del [[Horse|cavallo]].
-Almeno, pensai che fosse scagliato oltre la testa del [[Horse|cavallo]],
+modo inciampò così che il cavaliere fu scagliato oltre la testa del [[motifs/horse|cavallo]].
+Almeno, pensai che fosse scagliato oltre la testa del [[motifs/horse|cavallo]],
 e poi scoprii, tra alcune stupefacenti e sussultanti evoluzioni,
-che stava facendo ciò che si può solo definire aggrapparsi alle orecchie del [[Horse|cavallo]].
-Mentre il [[Horse|cavallo]] danzava per il percorso in maniera dégagé[4],
+che stava facendo ciò che si può solo definire aggrapparsi alle orecchie del [[motifs/horse|cavallo]].
+Mentre il [[motifs/horse|cavallo]] danzava per il percorso in maniera dégagé[4],
 il cavaliere sembrava strisciargli giù per il collo in qualche modo incredibile e
 rotolò di nuovo in sella.  Trovò una staffa e cercò invano
 di trovare l'altra.  Poi vi rinunciò--alla staffa, non alla gara.
@@ -396,12 +396,12 @@ e, primo di tutta quella compagnia, la valicò come un uccello.
 E qualcuno disse al mio fianco con una brusca esclamazione,
 in inglese:  "Ecco, questi sono i Polacchi!"
 
-[[Hope|Speranza]] dei Mezzo-Sconfitti; [[house|casa]] d'oro...
+[[concepts/hope|Speranza]] dei Mezzo-Sconfitti; casa d'oro...
 
 1.  Gli Ironsides erano i soldati puritani che combatterono sotto Cromwell
 nelle guerre civili inglesi.
 
-2.  Tom Broadbent è un personaggio della commedia di George Bernard [[Shaw]]
+2.  Tom Broadbent è un personaggio della commedia di George Bernard [[works/shaw-(chesterton)|Shaw]]
 John Bull's Other Island (1904).
 
 3.  Vedi "Ballade to Our Lady of Czestochowa" di Belloc.

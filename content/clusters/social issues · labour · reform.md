@@ -11,8 +11,36 @@ A curated aggregator gathering works of social criticism across the corpus: pove
 
 ## Defining concepts
 
-[[Distributism]], [[Social Injustice]], [[Class Conflict]], [[Critique of Progress]], [[Reform]], [[Poverty]], [[Anti-Industrialism]], [[Capitalism]], [[Socialism]], [[Money and Avarice]], [[Common Man]]
+[[concepts/distributism|Distributism]], [[concepts/social-injustice|Social Injustice]], [[concepts/class-conflict|Class Conflict]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/reform|Reform]], [[concepts/poverty|Poverty]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/capitalism|Capitalism]], [[concepts/socialism|Socialism]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/common-man|Common Man]]
 
 ## Works
 
 <div class="concept-works" data-slug="clusters/social-issues-·-labour-·-reform"></div>
+
+<div class="concept-works-fallback">
+
+- [[works/economics-for-helen-(belloc)|Economics for Helen (Belloc)]]
+- [[works/the-free-press-(belloc)|The Free Press (Belloc)]]
+- [[works/the-servile-state-(belloc)|The Servile State (Belloc)]]
+- [[works/shirley-(bronte)|Shirley (Bronte)]]
+- [[works/how-not-to-do-it-(chesterton)|how-not-to-do-it (Chesterton)]]
+- [[works/irish-impressions-(chesterton)|Irish Impressions (Chesterton)]]
+- [[works/social-reform-b.c-(chesterton)|Social Reform B.C (Chesterton)]]
+- [[works/songs-of-education125-(chesterton)|Songs of Education125 (Chesterton)]]
+- [[works/the-song-of-the-wheels-(chesterton)|The Song of the Wheels (Chesterton)]]
+- [[works/whatisawinamerica-(chesterton)|WhatISawInAmerica (Chesterton)]]
+- [[works/william-cobbett-(chesterton)|William Cobbett (Chesterton)]]
+- [[testi/coleridge/atomized/swords-and-weapons-power-and-corruption-tyrant#186_ode_to_georgiana_duchess_of_devonshire|ODE TO GEORGIANA, DUCHESS OF DEVONSHIRE (Coleridge)]]
+- [[testi/coleridge/atomized/essay-critique-of-progress-common-man#077_to_a_young_ass_its_mother_being_tethered_near_it|TO A YOUNG ASS ITS MOTHER BEING TETHERED NEAR IT (Coleridge)]]
+- [[works/a-christmas-carol-(dickens)|A Christmas Carol (Dickens)]]
+- [[works/american-notes-(dickens)|American Notes (Dickens)]]
+- [[works/bleak-house-(dickens)|Bleak House (Dickens)]]
+- [[works/hard-times-(dickens)|Hard Times (Dickens)]]
+- [[works/little-dorrit-(dickens)|Little Dorrit (Dickens)]]
+- [[works/oliver-twist-(dickens)|Oliver Twist (Dickens)]]
+- [[works/sketches-by-boz-(dickens)|Sketches by Boz (Dickens)]]
+- [[works/the-happy-prince-(wilde)|The Happy Prince (Wilde)]]
+- [[works/the-soul-of-man-under-socialism-(wilde)|The Soul of Man under Socialism (Wilde)]]
+- [[works/the-young-king-(wilde)|The Young King (Wilde)]]
+
+</div>

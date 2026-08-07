@@ -17,7 +17,7 @@ tags:
 Hadst thou liv’d in days of old,  
 O what wonders had been told  
 Of thy lively countenance,  
-And thy humid eyes that [[Dance|dance]]  
+And thy humid eyes that [[motifs/dance|dance]]  
 In the  midst of their own brightness;  
 In the very fane of lightness.  
 Over which thine eyebrows, leaning,  
@@ -25,10 +25,10 @@ Picture out each lovely meaning:
 In a dainty bend they lie,  
 Like two streaks across the sky,  
 Or the feathers from a crow,  
-Fallen on a bed of [[Snow|snow]].  
+Fallen on a bed of [[motifs/snow|snow]].  
 Of thy dark hair that extends  
 Into many graceful bends:  
-As the [[Leaves|leaves]] of Hellebore  
+As the [[motifs/leaves|leaves]] of Hellebore  
 Turn to whence they sprung before.  
 And behind each ample curl  
 Peeps the richness of a pearl.  
@@ -46,7 +46,7 @@ Of the little loves that fly
 Round about with eager pry.  
 Saving when, with freshening lave,  
 Thou dipp’st them in the taintless wave;  
-Like twin [[Water|water]] lillies, born  
+Like twin [[motifs/water|water]] lillies, born  
 In the coolness of the morn.  
 O, if thou hadst breathed then,  
 Now the Muses had been ten.  
@@ -74,15 +74,15 @@ See with what a stately pace
 Comes thine alabaster steed;  
 Servant of heroic deed!  
 O’er his loins, his trappings glow  
-Like the northern lights on [[Snow|snow]].  
-Mount his back! thy [[Sword|sword]] unsheath!  
-Sign of the enchanter’s [[Death|death]];  
+Like the northern lights on [[motifs/snow|snow]].  
+Mount his back! thy sword unsheath!  
+Sign of the enchanter’s [[motifs/death|death]];  
 Bane of every wicked spell;  
 Silencer of dragon’s yell.  
 Alas! thou this wilt never do:  
 Thou art an enchantress too,  
 And wilt surely never spill  
-[[Blood]] of those whose eyes can kill.  
+[[motifs/blood|Blood]] of those whose eyes can kill.  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -90,7 +90,7 @@ And wilt surely never spill
 Fossi vissuta nei giorni antichi,  
 oh, quali meraviglie si sarebbero narrate  
 del tuo volto vivace,  
-e dei tuoi occhi umidi che [[Dance|danzano]]  
+e dei tuoi occhi umidi che [[motifs/dance|danzano]]  
 nel mezzo del loro stesso fulgore;  
 nel tempio stesso della luce.  
 Sopra di essi le tue ciglia, chinandosi,  
@@ -98,10 +98,10 @@ disegnano ogni dolce significato:
 giacciono in una curva delicata,  
 come due strisce attraverso il cielo,  
 o le penne di un corvo  
-cadute su un letto di [[Snow|neve]].  
+cadute su un letto di [[motifs/snow|neve]].  
 Dei tuoi capelli scuri che si stendono  
 in molte curve leggiadre:  
-come le [[Leaves|foglie]] dell’elleboro  
+come le [[motifs/leaves|foglie]] dell’elleboro  
 si volgono là donde prima sbocciarono.  
 E dietro ogni ampio ricciolo  
 occhieggia la ricchezza di una perla.  
@@ -119,7 +119,7 @@ dei piccoli amori che volano
 qui intorno con avido spiare.  
 Se non quando, in un lavacro che rinfresca,  
 le immergi nell’onda immacolata;  
-come gemelli gigli d’[[Water|acqua]], nati  
+come gemelli gigli d’[[motifs/water|acqua]], nati  
 nel fresco del mattino.  
 Oh, se allora avessi respirato,  
 ora le Muse sarebbero dieci.  
@@ -147,15 +147,15 @@ Guarda con che passo solenne
 viene il tuo destriero d’alabastro,  
 servo dell’impresa eroica!  
 Sui suoi lombi le bardature splendono  
-come l’aurora boreale sulla [[Snow|neve]].  
-Montagli in groppa! sguaina la tua [[Sword|spada]]!  
-Segno della [[Death|morte]] dell’incantatore;  
+come l’aurora boreale sulla [[motifs/snow|neve]].  
+Montagli in groppa! sguaina la tua spada!  
+Segno della [[motifs/death|morte]] dell’incantatore;  
 rovina d’ogni malvagio sortilegio;  
 che fa tacere l’urlo del drago.  
 Ahimè! questo non lo farai mai:  
 anche tu sei un’incantatrice,  
 e di certo non verserai mai  
-il [[Blood|sangue]] di chi ha occhi che uccidono.
+il [[motifs/blood|sangue]] di chi ha occhi che uccidono.
 
 
 
@@ -169,13 +169,13 @@ Into the labyrinths of sweet utterance?
 Or when serenely wand’ring in a trance  
   Of sober thought? Or when starting away,  
   With careless robe, to meet the morning ray,  
-Thou spar’st the [[Flowers|flowers]] in thy mazy [[Dance|dance]]?  
+Thou spar’st the [[motifs/flowers|flowers]] in thy mazy [[motifs/dance|dance]]?  
 Haply ’tis when thy ruby lips part sweetly,  
   And so remain, because thou listenest:  
 But thou to please wert nurtured so completely  
   That I can never tell what mood is best.  
 I shall as soon pronounce which grace more neatly  
-  Trips it before [[Apollo]] than the rest.  
+  Trips it before [[characters/apollo|Apollo]] than the rest.  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -187,13 +187,13 @@ nei labirinti del dolce parlare?
 O quando serena vaghi nell’estasi  
   d’un pensiero sobrio? O quando balzi via,  
   con veste negligente, incontro al raggio del mattino,  
-e risparmi i [[Flowers|fiori]] nella tua [[Dance|danza]] intricata?  
+e risparmi i [[motifs/flowers|fiori]] nella tua [[motifs/dance|danza]] intricata?  
 Forse è quando le tue labbra di rubino s’aprono dolci,  
   e così restano, perché stai ascoltando:  
 ma tu fosti nutrita al piacere così interamente  
   che mai potrò dire quale modo sia il migliore.  
 Tanto varrebbe che dicessi quale Grazia più leggiadra  
-  danzi innanzi ad [[Apollo]] più di tutte le altre.
+  danzi innanzi ad [[characters/apollo|Apollo]] più di tutte le altre.
 
 
 
@@ -202,14 +202,14 @@ Tanto varrebbe che dicessi quale Grazia più leggiadra
 
 What is there in the universal Earth  
 More lovely than a Wreath from the bay tree?  
-Haply a Halo round the [[Moon]] - a glee  
+Haply a Halo round the [[motifs/moon|Moon]] - a glee  
 Circling from three sweet pair of lips in mirth;  
 And haply you will say the dewy birth  
 Of morning roses - riplings tenderly  
 Spread by the Halcyon’s breast upon the sea -  
 But these comparisons are nothing worth -  
 Then is there nothing in the world so fair?  
-The silvery [[Tears|tears]] of April? - Youth of May?  10  
+The silvery [[motifs/tears|tears]] of April? - Youth of May?  10  
 Or June that breaths out life for butterflies?  
 No - none of these can from my favourite bear  
 Away the Palm - yet shall it ever pay  
@@ -220,14 +220,14 @@ Due reverence to your most sovereign eyes.
 
 Che cosa c’è nella Terra intera  
 di più bello d’una corona d’alloro?  
-Forse un Alone intorno alla [[Moon|Luna]] - un canto  
+Forse un Alone intorno alla [[motifs/moon|Luna]] - un canto  
 che gira lieto da tre dolci paia di labbra;  
 e forse direte la nascita rugiadosa  
 delle rose del mattino - increspature stese teneramente  
 dal petto dell’Alcione sopra il mare -  
 ma questi paragoni non valgono nulla -  
 Non c’è dunque al mondo nulla di così bello?  
-Le [[Tears|lacrime]] argentee d’aprile? - La giovinezza di maggio?  10  
+Le [[motifs/tears|lacrime]] argentee d’aprile? - La giovinezza di maggio?  10  
 O giugno che esala vita per le farfalle?  
 No - nessuna di queste può togliere alla mia prediletta  
 la Palma - e sempre essa renderà  
@@ -259,7 +259,7 @@ And fought in an amorous nipping.
 IV  
 Will you play once more at nice-cut-core,  
 For it only will last our youth out,  
-And we have the prime of the kissing [[Time|time]],  
+And we have the prime of the kissing [[motifs/time|time]],  
 We have not one sweet tooth out.  
 
 V  
@@ -292,7 +292,7 @@ e combattuto in un morso amoroso.
 IV  
 Vuoi giocare ancora a taglia-il-torsolo,  
 ché durerà solo quanto la nostra giovinezza,  
-e abbiamo il fiore del [[Time|tempo]] dei baci,  
+e abbiamo il fiore del [[motifs/time|tempo]] dei baci,  
 e non ci manca un solo dente dolce.  
 
 V  
@@ -311,7 +311,7 @@ Than those that mock the hyacinthine bell!
 J. H. Reynolds  
 
 Blue! ’Tis the life of heaven, - the domain  
-Of [[Cynthia]], - the wide palace of the sun, -  
+Of [[characters/cynthia|Cynthia]], - the wide palace of the sun, -  
 The tent of Hesperus, and all his train, -  
 The bosomer of clouds, gold, grey and dun.  
 Blue! Tis the life of waters: - Ocean  
@@ -319,11 +319,11 @@ And all its vassal streams, pools numberless,
 May rage, and foam, and fret, but never can  
 Subside, if not to dark blue nativeness.  
 Blue! Gentle cousin of the forest-green,  
-Married to green in all the sweetest [[Flowers|flowers]], -  
+Married to green in all the sweetest [[motifs/flowers|flowers]], -  
 10  
-Forget-me-not, - the bluebell, - and, that [[Queen|queen]]  
+Forget-me-not, - the bluebell, - and, that [[characters/queen|queen]]  
 Of secrecy, the violet: what strange powers  
-Hast thou, as a mere [[Shadow|shadow]]! But how great,  
+Hast thou, as a mere [[archetypes/shadow|shadow]]! But how great,  
 When in an Eye thou art, alive with fate!  
 
 
@@ -334,7 +334,7 @@ di quelli che scimmiottano la campanella di giacinto!
 J. H. Reynolds  
 
 Azzurro! È la vita del cielo, - il dominio  
-di [[Cynthia]], - l’ampia reggia del sole, -  
+di [[characters/cynthia|Cynthia]], - l’ampia reggia del sole, -  
 la tenda di Espero e di tutto il suo corteo, -  
 il grembo delle nubi, d’oro, grigie e fosche.  
 Azzurro! È la vita delle acque: - l’Oceano  
@@ -342,11 +342,11 @@ e tutti i suoi fiumi vassalli, stagni innumerevoli,
 possono infuriare, spumare, fremere, ma non sanno  
 placarsi se non nel cupo azzurro natio.  
 Azzurro! Gentile cugino del verde della selva,  
-sposato al verde in tutti i più dolci [[Flowers|fiori]], -  
+sposato al verde in tutti i più dolci [[motifs/flowers|fiori]], -  
 10  
-il nontiscordardimé, - la campanula, - e quella [[Queen|regina]]  
+il nontiscordardimé, - la campanula, - e quella [[characters/queen|regina]]  
 del segreto, la viola: quali strani poteri  
-hai, come mera [[Shadow|ombra]]! Ma quanto grandi,  
+hai, come mera [[archetypes/shadow|ombra]]! Ma quanto grandi,  
 quando sei dentro un Occhio, vivo di destino!
 
 
@@ -355,12 +355,12 @@ quando sei dentro un Occhio, vivo di destino!
 
 
 Oh, I am frighten’d with most hateful thoughts!  
-Perhaps her voice is not a [[Nightingale|nightingale]]’s,  
+Perhaps her voice is not a [[motifs/nightingale|nightingale]]’s,  
 Perhaps her teeth are not the fairest pearl;  
 Her eye-lashes may be, for aught I know,  
 Not longer than the mayfly’s small fan-horns;  
 There may not be one dimple on her hand;  
-And freckles many; ah! a careless [[Nurse|nurse]],  
+And freckles many; ah! a careless [[characters/nurse|nurse]],  
 In haste to teach the little thing to walk,  
 May have crumpt2 up a pair of Dian’s legs,  
 And warpt the ivory of a Juno’s neck.  
@@ -369,12 +369,12 @@ And warpt the ivory of a Juno’s neck.
 <span class="qlang-split" data-lang="it"></span>
 
 Oh, sono atterrito da pensieri odiosissimi!  
-Forse la sua voce non è quella d’un [[Nightingale|usignolo]],  
+Forse la sua voce non è quella d’un [[motifs/nightingale|usignolo]],  
 forse i suoi denti non sono la perla più pura;  
 le sue ciglia potrebbero, per quel che ne so,  
 non essere più lunghe delle piccole antenne a ventaglio dell’effimera;  
 può non esservi una sola fossetta sulla sua mano,  
-e lentiggini molte; ah! una [[Nurse|nutrice]] negligente,  
+e lentiggini molte; ah! una [[characters/nurse|nutrice]] negligente,  
 in fretta d’insegnare a camminare alla piccina,  
 può aver storpiato2 un paio di gambe di Diana,  
 e piegato l’avorio d’un collo di Giunone.
@@ -388,17 +388,17 @@ O soft embalmer of the still midnight,
 Shutting, with careful fingers and benign,  
 Our gloom - pleas’d eyes, embower’d from the light,  
 Enshaded in forgetfulness divine:  
-O soothest [[Sleep]]! if so it please thee, close  
-In midst of this thine [[Hymn|hymn]] my willing eyes,  
+O soothest [[motifs/sleep|Sleep]]! if so it please thee, close  
+In midst of this thine [[forms/hymn|hymn]] my willing eyes,  
 Or wait the ‘Amen,’ ere thy poppy throws  
 Around my bed its lulling charities.  
 Then save me, or the passed day will shine  
 Upon my pillow, breeding many woes, -  
 10  
-Save me from curious [[Conscience|conscience]], that still lords  
+Save me from curious [[concepts/conscience|conscience]], that still lords  
 Its strength for darkness, burrowing like a mole;  
 Turn the key deftly in the oiled wards,  
-And seal the hushed casket of my [[Soul]].  
+And seal the hushed casket of my [[motifs/soul|Soul]].  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -407,14 +407,14 @@ O soave imbalsamatore della mezzanotte immota,
 che chiudi, con dita attente e benigne,  
 i nostri occhi lieti del buio, riparati dalla luce,  
 ombreggiati in un oblio divino:  
-o dolcissimo [[Sleep|Sonno]]! se così ti piace, chiudi  
-nel mezzo di questo tuo [[Hymn|inno]] i miei occhi consenzienti,  
+o dolcissimo [[motifs/sleep|Sonno]]! se così ti piace, chiudi  
+nel mezzo di questo tuo [[forms/hymn|inno]] i miei occhi consenzienti,  
 o attendi l’«Amen», prima che il tuo papavero sparga  
 intorno al mio letto le sue carità che cullano.  
 Allora salvami, o il giorno trascorso brillerà  
 sul mio guanciale, generando molte pene, -  
 10  
-salvami dalla [[Conscience|coscienza]] indagatrice, che ancora impone  
+salvami dalla [[concepts/conscience|coscienza]] indagatrice, che ancora impone  
 la sua forza al buio, scavando come una talpa;  
 gira la chiave destramente negli ingranaggi oliati,  
-e sigilla lo scrigno silente della mia [[Soul|Anima]].
+e sigilla lo scrigno silente della mia [[motifs/soul|Anima]].

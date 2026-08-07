@@ -14,4 +14,10 @@ Invoked repeatedly as Milton's opposite: a genial, popular poet whose character 
 
 <div class="concept-works" data-slug="characters/shakespeare"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/milton-(chesterton)|Milton (Chesterton)]]
+
+</div>
+
 #graph/character

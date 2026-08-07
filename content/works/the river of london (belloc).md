@@ -35,7 +35,7 @@ tags:
   - topos/sic_transit_gloria_mundi
   - topos/book_of_nature
 ---
-*by Belloc*  ·  **Cluster:** [[Travel Writing · Pilgrimage · Landscape]]
+*by Belloc*  ·  **Cluster:** [[clusters/travel-writing-·-pilgrimage-·-landscape|Travel Writing · Pilgrimage · Landscape]]
 
 > [!abstract] 
 > An essay-history of the Lower Thames as 'London River', framed by a firsthand voyage up the tide from the sea to the Pool that reads the past in successive stratified layers. Belloc contrasts the Thames with the Scheldt and Seine, attacks materialist history and the desolation wrought by modern industrialism, and mourns the Gothic London lost to the Great Fire, insisting London is a 'function of the Thames'.
@@ -46,11 +46,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[History]], [[Essay]], [[Travel Writing]], [[Nonfiction]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Critique of Progress]], [[Nature]], [[Materialism]], [[Tradition]], [[Nature vs Civilization]], [[Economics]]
-**Motifs:** [[River]], [[Ship]], [[Fog and Smoke]], [[Ruins the Abbey]], [[Water]], [[Sea and Voyage]]
-**Historical References:** [[Roman History]], [[Industrial Revolution]], [[Medieval England]], [[Reformation]]
-**Settings:** [[River Thames]], [[London]]
-**Topoi:** [[Sic Transit Gloria Mundi]], [[Book of Nature]]
+**Forms & Genres:** [[concepts/history|History]], [[forms/essay|Essay]], [[forms/travel-writing|Travel Writing]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/nature|Nature]], [[concepts/materialism|Materialism]], [[concepts/tradition|Tradition]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/river|River]], [[motifs/ship|Ship]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/water|Water]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/roman-history|Roman History]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/medieval-england|Medieval England]], [[historical-references/reformation|Reformation]]
+**Settings:** [[settings/river-thames|River Thames]], [[settings/london|London]]
+**Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/book-of-nature|Book of Nature]]
 
-**Also relevant to:** [[Alienation · Outsider · Exile]]
+**Also relevant to:** [[clusters/alienation-·-outsider-·-exile|Alienation · Outsider · Exile]]

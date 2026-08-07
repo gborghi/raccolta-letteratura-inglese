@@ -25,7 +25,7 @@ tags:
   - archetype/child
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
+*by Chesterton*  ·  **Cluster:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > A Nativity hymn (by Frances Chesterton) on the gifts of the Magi, reading gold, incense and myrrh as the sword, battle and honoured death awaiting the sleeping Christ-child.
@@ -36,14 +36,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Life as a Battle]]
+**Topoi:** [[topoi/life-as-a-battle|Life as a Battle]]
 
-**Archetypes:** [[Christ Figure]], [[Child]]
-**Motifs:** [[Swords and Weapons]], [[Cross]], [[Battlefield (2)]]
-**Themes & Concepts:** [[Divine Love]], [[Faith]], [[Grace and Redemption]], [[Paradox]], [[Martyrdom]], [[Self-Sacrifice]]
-**Forms & Genres:** [[Hymn]], [[Lyric]]
-**Historical References:** [[Bible]]
-**Characters:** [[Christ]]
+**Archetypes:** [[archetypes/christ-figure|Christ Figure]], [[archetypes/child|Child]]
+**Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/cross|Cross]], [[motifs/battlefield-(2)|Battlefield (2)]]
+**Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/faith|Faith]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/paradox|Paradox]], [[concepts/martyrdom|Martyrdom]], [[concepts/self-sacrifice|Self-Sacrifice]]
+**Forms & Genres:** [[forms/hymn|Hymn]], [[forms/lyric|Lyric]]
+**Historical References:** [[historical-references/bible|Bible]]
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

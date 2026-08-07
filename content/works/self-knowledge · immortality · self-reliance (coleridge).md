@@ -37,20 +37,20 @@ tags:
 
 Raccolta tematica di 14 componimenti di Samuel Taylor Coleridge.
 
-- [[A FRAGMENT FOUND IN A LECTURE-ROOM (Coleridge)|A FRAGMENT FOUND IN A LECTURE-ROOM]]
-- [[DONNE ECLOGUE. ‘ON UNWORTHY WISDOM (Coleridge)|DONNE: ECLOGUE. ‘ON UNWORTHY WISDOM]]
-- [[HUMAN LIFE (Coleridge)|HUMAN LIFE]]
-- [[MUSOPHILUS (Coleridge)|MUSOPHILUS]]
-- [[NATURE’S ANSWER (Coleridge)|NATURE’S ANSWER]]
-- [[OF HUMANE LEARNING (Coleridge)|OF HUMANE LEARNING]]
-- [[ON DONNE’S POEM ‘TO A FLEA (Coleridge)|ON DONNE’S POEM ‘TO A FLEA]]
-- [[PSYCHE (Coleridge)|PSYCHE]]
-- [[SELF-KNOWLEDGE (Coleridge)|SELF-KNOWLEDGE]]
-- [[SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL (Coleridge)|SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL]]
-- [[SNOW DROP. (Coleridge)|SNOW DROP.]]
-- [[THE PAINS OF SLEEP (Coleridge)|THE PAINS OF SLEEP]]
-- [[THE SNOW-DROP (Coleridge)|THE SNOW-DROP]]
-- [[TO THE AUTHOR OF POEMS (Coleridge)|TO THE AUTHOR OF POEMS]]
+- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#036_a_fragment_found_in_a_lecture-room|A FRAGMENT FOUND IN A LECTURE-ROOM]]
+- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#421_donne_eclogue_on_unworthy_wisdom|DONNE: ECLOGUE. ‘ON UNWORTHY WISDOM]]
+- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#253_human_life|HUMAN LIFE]]
+- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#428_musophilus|MUSOPHILUS]]
+- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#247_natures_answer|NATURE’S ANSWER]]
+- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#419_of_humane_learning|OF HUMANE LEARNING]]
+- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#369_on_donnes_poem_to_a_flea|ON DONNE’S POEM ‘TO A FLEA]]
+- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#236_psyche|PSYCHE]]
+- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#298_self-knowledge|SELF-KNOWLEDGE]]
+- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#420_sir_john_davies_on_the_immortality_of_the_soul|SIR JOHN DAVIES ON THE IMMORTALITY OF THE SOUL]]
+- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#199_snow_drop|SNOW DROP.]]
+- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#218_the_pains_of_sleep|THE PAINS OF SLEEP]]
+- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#198_the_snow-drop|THE SNOW-DROP]]
+- [[testi/coleridge/atomized/self-knowledge-immortality-self-reliance#105_to_the_author_of_poems|TO THE AUTHOR OF POEMS]]
 
 ## Testo / Text
 

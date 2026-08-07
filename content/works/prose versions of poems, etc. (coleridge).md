@@ -19,7 +19,7 @@ tags:
   - motif/seasons
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
+*by Coleridge*  ·  **Cluster:** [[clusters/imagination-·-fragment-·-heroic-couplet|Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 
 > Prose drafts and glosses behind poems — love likened to the sun, Glycine's song, the self-conscious looking-glass and spider-world figure behind 'Work without Hope', and the dedication to the Ode on the Departing Year; imagination, love and the poet-prophet.
@@ -29,10 +29,10 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Poet as Prophet]]
-**Motifs:** [[Mirror]], [[Sun]], [[Birds]], [[Seasons]]
-**Themes & Concepts:** [[Imagination]], [[Romantic Love]], [[Melancholy]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
+**Motifs:** [[motifs/mirror|Mirror]], [[motifs/sun|Sun]], [[motifs/birds|Birds]], [[motifs/seasons|Seasons]]
+**Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/romantic-love|Romantic Love]], [[concepts/melancholy|Melancholy]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

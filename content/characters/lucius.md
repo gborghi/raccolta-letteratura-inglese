@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/lucius"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/timon-of-athens-(shakespeare)|TIMON OF ATHENS (Shakespeare)]]
+- [[works/titus-andronicus-(shakespeare)|TITUS ANDRONICUS (Shakespeare)]]
+
+</div>
+
 #graph/character

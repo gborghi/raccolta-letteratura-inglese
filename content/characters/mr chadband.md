@@ -14,4 +14,10 @@ The unctuous Dissenting-minister caricature from Bleak House that Chesterton use
 
 <div class="concept-works" data-slug="characters/mr-chadband"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/dickens-britannica-(chesterton)|dickens Britannica (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -32,7 +32,7 @@ tags:
   - topos/combat_strife
   - topos/last_stand
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Gothic and Supernatural · Terror and Horror · The Unseen]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/gothic-and-supernatural-·-terror-and-horror-·-the-unseen|Gothic and Supernatural · Terror and Horror · The Unseen]]
 
 > [!abstract] 
 > A party of European and American tourists cruising the Nile toward the Dervish frontier in 1895 is ambushed and force-marched into the desert by a Dervish raiding band. Their ordeal of captivity and threatened forced conversion becomes, in Doyle's telling, both an adventure narrative and a pointed defense of British imperial policy in Egypt and the Sudan.
@@ -55,11 +55,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Adventure Fiction]], [[Novel]]
-**Themes & Concepts:** [[Empire and Imperialism]], [[Terror and Horror]], [[Fear]], [[Courage]], [[Fanaticism]]
-**Motifs:** [[Desert]], [[Journey]], [[Swords and Weapons]]
-**Historical References:** [[Islam and the East]], [[British Empire]]
-**Settings:** [[Egypt]], [[Desert]], [[Orient]]
-**Characters:** [[Miss Sadie Adams]], [[Colonel Cochrane Cochrane]], [[James Stephens]], [[Cecil Brown]]
-**Archetypes:** [[Hero]], [[Villain]], [[Quest Hero]]
-**Topoi:** [[Combat Strife]], [[Last Stand]]
+**Forms & Genres:** [[forms/adventure-fiction|Adventure Fiction]], [[forms/novel|Novel]]
+**Themes & Concepts:** [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/fear|Fear]], [[concepts/courage|Courage]], [[concepts/fanaticism|Fanaticism]]
+**Motifs:** [[motifs/desert|Desert]], [[motifs/journey|Journey]], [[motifs/swords-and-weapons|Swords and Weapons]]
+**Historical References:** [[historical-references/islam-and-the-east|Islam and the East]], [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/egypt|Egypt]], [[motifs/desert|Desert]], [[settings/orient|Orient]]
+**Characters:** [[characters/miss-sadie-adams|Miss Sadie Adams]], [[characters/colonel-cochrane-cochrane|Colonel Cochrane Cochrane]], [[characters/james-stephens|James Stephens]], [[characters/cecil-brown|Cecil Brown]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/villain|Villain]], [[archetypes/quest-hero|Quest Hero]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]], [[topoi/last-stand|Last Stand]]

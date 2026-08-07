@@ -14,4 +14,10 @@ Satirized in "How I Found the Superman" through Dr. and Lady Hypatia Hagg's pseu
 
 <div class="concept-works" data-slug="concepts/eugenics-and-social-darwinism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/alarms-and-discursions-(chesterton)|alarms and discursions (Chesterton)]]
+
+</div>
+
 #graph/concept

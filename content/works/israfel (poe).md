@@ -24,19 +24,19 @@ tags:
   - histref/eastern_religion
 ---
 
-*by Poe*  ·  **Cluster:** [[Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
+*by Poe*  ·  **Cluster:** [[clusters/poet-as-prophet-·-prophet-·-romantic-movement-(sensibility)|Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
 
 > [!abstract] 
 > Lyric praising the angel Israfel whose lyre outsings all creation, contrasting heavenly song with the mortal poet's earthbound music.
 
 ## Connections
 
-**Topoi:** [[Poet as Prophet]], [[Inexpressibility]]
-**Archetypes:** [[Prophet]]
-**Motifs:** [[Music and Song]], [[Stars]], [[Moon]], [[Supernatural]]
-**Themes & Concepts:** [[Imagination]], [[Beauty]], [[Artist and Society]], [[Immortality of Art Fame]], [[Sublime]]
-**Forms & Genres:** [[Lyric]], [[Ode]]
-**Historical References:** [[Eastern Religion Comparative Religion]]
+**Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]], [[topoi/inexpressibility|Inexpressibility]]
+**Archetypes:** [[archetypes/prophet|Prophet]]
+**Motifs:** [[motifs/music-and-song|Music and Song]], [[motifs/stars|Stars]], [[motifs/moon|Moon]], [[motifs/supernatural|Supernatural]]
+**Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/beauty|Beauty]], [[concepts/artist-and-society|Artist and Society]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]], [[concepts/sublime|Sublime]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/ode|Ode]]
+**Historical References:** [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]]
 
 ## Testo integrale / Full text
 

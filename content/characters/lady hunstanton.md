@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/lady-hunstanton"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/a-woman-of-no-importance-(wilde)|A Woman of No Importance (Wilde)]]
+
+</div>
+
 #graph/character

@@ -19,7 +19,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
+*by Poe*  ·  **Cluster:** [[clusters/short-story-·-concealment-hidden-identity-·-justice-right-and-wrong|Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 
 > A comic detective/ratiocination tale: the narrator unmasks 'Old Charley Goodfellow' as the murderer of his friend by springing the corpse from a wine-box to cry 'Thou art the man'. Themes of detection, guilt, deception and appearance vs reality.
@@ -42,11 +42,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Detective]], [[Trickster]]
-**Motifs:** [[Wine and Drink]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Guilt]], [[Deception]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Historical References:** [[Bible]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/trickster|Trickster]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/guilt|Guilt]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
+**Historical References:** [[historical-references/bible|Bible]]
 
 ## Testo integrale / Full text
 

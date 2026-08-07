@@ -66,7 +66,7 @@ tags:
 
 # LordKitchener
 
-*by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
+*by Chesterton*  ·  **Cluster:** [[clusters/heroism-·-hero-·-last-stand|Heroism · Hero · Last Stand]]
 
 > [!abstract] 
 > A wartime biography and character study of the WWI general Lord Kitchener, read as a silent epic hero condemned to act an allegory of England's imperial-to-patriotic transfiguration and the raising of the New Armies.
@@ -89,17 +89,17 @@ tags:
 
 ## Connections
 
-**Settings:** [[Egypt]], [[Desert]], [[Russia]], [[Battlefield]], [[Sea (2)]], [[Ship]], [[South Africa]], [[Europe]]
+**Settings:** [[settings/egypt|Egypt]], [[motifs/desert|Desert]], [[settings/russia|Russia]], [[settings/battlefield|Battlefield]], [[settings/sea-(2)|Sea (2)]], [[motifs/ship|Ship]], [[settings/south-africa|South Africa]], [[settings/europe|Europe]]
 
-**Topoi:** [[Last Stand]], [[Combat Strife]], [[Open Road Homecoming]], [[Night Journey Vision]]
+**Topoi:** [[topoi/last-stand|Last Stand]], [[topoi/combat-strife|Combat Strife]], [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/night-journey-vision|Night Journey Vision]]
 
-**Characters:** [[Kitchener]], [[Charles Gordon]], [[Marchand]], [[Botha]], [[The Mahdi]]
+**Characters:** [[characters/kitchener|Kitchener]], [[characters/charles-gordon|Charles Gordon]], [[characters/marchand|Marchand]], [[characters/botha|Botha]], [[characters/the-mahdi|The Mahdi]]
 
-**Archetypes:** [[Hero]], [[Tragic Hero]], [[Avenger]], [[Prophet]], [[Martyr Saint]]
-**Motifs:** [[Sea]], [[Crown]], [[Machine]], [[Silence]], [[Drums and Bugles]], [[River]], [[Ship]], [[Light and Dark]], [[Blood]]
-**Themes & Concepts:** [[Heroism]], [[Honour]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Common Man]], [[Fanaticism]], [[Friendship]], [[Fate and Free Will]], [[Conversion]], [[Masculinity and the Male Code]], [[Self-Sacrifice]], [[Reconciliation]], [[Greatness]], [[Silence (2)]], [[Martyrdom]], [[History]]
-**Forms & Genres:** [[Biography]], [[Sketch]], [[Elegy]], [[Nonfiction]]
-**Historical References:** [[First World War]], [[Islam and the East]], [[Crusades]], [[Irish Question]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/avenger|Avenger]], [[archetypes/prophet|Prophet]], [[archetypes/martyr-saint|Martyr Saint]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/crown|Crown]], [[motifs/machine|Machine]], [[motifs/silence|Silence]], [[motifs/drums-and-bugles|Drums and Bugles]], [[motifs/river|River]], [[motifs/ship|Ship]], [[motifs/light-and-dark|Light and Dark]], [[motifs/blood|Blood]]
+**Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/honour|Honour]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/common-man|Common Man]], [[concepts/fanaticism|Fanaticism]], [[concepts/friendship|Friendship]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/conversion|Conversion]], [[concepts/masculinity-and-the-male-code|Masculinity and the Male Code]], [[concepts/self-sacrifice|Self-Sacrifice]], [[concepts/reconciliation|Reconciliation]], [[concepts/greatness|Greatness]], [[concepts/silence-(2)|Silence (2)]], [[concepts/martyrdom|Martyrdom]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/biography|Biography]], [[forms/sketch|Sketch]], [[forms/elegy|Elegy]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/islam-and-the-east|Islam and the East]], [[historical-references/crusades|Crusades]], [[historical-references/irish-question|Irish Question]]
 
 ## Testo integrale / Full text
 

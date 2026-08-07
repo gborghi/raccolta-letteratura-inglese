@@ -14,4 +14,12 @@ Historical author of Don Quixote who appears at the close of Lepanto sheathing h
 
 <div class="concept-works" data-slug="characters/cervantes"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/poems-(chesterton)|Poems (Chesterton)]]
+- [[works/lepanto-(chesterton)|lepanto (Chesterton)]]
+- [[works/humour-(chesterton)|Humour (Chesterton)]]
+
+</div>
+
 #graph/character

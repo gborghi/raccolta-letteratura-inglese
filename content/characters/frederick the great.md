@@ -14,4 +14,13 @@ The Prussian king portrayed as the founding devil of Prussian militarism, irreli
 
 <div class="concept-works" data-slug="characters/frederick-the-great"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thecrimesofengland-(chesterton)|TheCrimesOfEngland (Chesterton)]]
+- [[works/theappoftyranny-(chesterton)|TheAppOfTyranny (Chesterton)]]
+- [[works/as-i-was-saying-(chesterton)|As I Was Saying (Chesterton)]]
+- [[works/marie-antoinette-(belloc)|Marie Antoinette (Belloc)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ Medieval scholastic philosophy and syllogistic method (Schoolmen, mediaeval myst
 
 <div class="concept-works" data-slug="historical-references/scholasticism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/logic-(chesterton)|logic (Chesterton)]]
+
+</div>
+
 #graph/histref

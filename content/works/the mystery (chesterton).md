@@ -27,7 +27,7 @@ tags:
   - histref/bible
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
+*by Chesterton*  ·  **Cluster:** [[clusters/wonder-and-gratitude-·-sublime-·-storm|Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
 > A short lyric of cosmic wonder: the speaker marvels at sun, sky and the lost first heaven, ending 'I wonder at not wondering'. Themes: wonder and gratitude, the fall from Eden, and the inexpressibility of praise.
@@ -38,14 +38,14 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]]
+**Historical References:** [[historical-references/bible|Bible]]
 
-**Settings:** [[Garden (2)]]
+**Settings:** [[settings/garden-(2)|Garden (2)]]
 
-**Topoi:** [[Paradise Lost]], [[Fall from Innocence]], [[Inexpressibility]], [[World Upside Down]], [[Sublime in Nature]]
-**Motifs:** [[Sun]], [[Garden]], [[Sea]], [[Sea and Voyage]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Sublime]], [[Paradox]], [[Sin and the Fall]], [[Wonder]]
-**Forms & Genres:** [[Lyric]], [[Ode]]
+**Topoi:** [[topoi/paradise-lost|Paradise Lost]], [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/inexpressibility|Inexpressibility]], [[topoi/world-upside-down|World Upside Down]], [[topoi/sublime-in-nature|Sublime in Nature]]
+**Motifs:** [[motifs/sun|Sun]], [[motifs/garden|Garden]], [[motifs/sea|Sea]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/sublime|Sublime]], [[concepts/paradox|Paradox]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/wonder|Wonder]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/ode|Ode]]
 
 ## Testo integrale / Full text
 

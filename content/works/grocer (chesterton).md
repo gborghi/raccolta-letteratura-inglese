@@ -30,7 +30,7 @@ tags:
 
 # grocer
 
-*by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
+*by Chesterton*  ·  **Cluster:** [[clusters/wine-and-drink-·-ballad-ballade-·-road|Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 
 > A comic ballad-song from The Flying Inn pitting the joyous fellowship of the inn against the soulless, mercenary commerce of the grocer; satire of commercialism and praise of feasting and good cheer.
@@ -41,13 +41,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Villain]]
+**Archetypes:** [[archetypes/villain|Villain]]
 
-**Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]], [[Memento Mori]]
-**Motifs:** [[Wine and Drink]], [[Food and Feasting]], [[Inn Tavern]], [[Money and Gold]], [[Poison]]
-**Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Common Man]], [[Distributism]], [[Deception]], [[Greed and Money]], [[Economics]]
-**Forms & Genres:** [[Comic Verse Song]], [[Ballad Ballade]], [[Satire]]
-**Settings:** [[Inn]]
+**Topoi:** [[topoi/beatus-ille-(happy-the-man-rural-retreat)|Beatus Ille (Happy the Man Rural Retreat)]], [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/money-and-gold|Money and Gold]], [[motifs/poison|Poison]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/common-man|Common Man]], [[concepts/distributism|Distributism]], [[concepts/deception|Deception]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/ballad-ballade|Ballad Ballade]], [[forms/satire|Satire]]
+**Settings:** [[settings/inn|Inn]]
 
 ## Testo integrale / Full text
 

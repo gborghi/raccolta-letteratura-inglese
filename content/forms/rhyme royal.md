@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="forms/rhyme-royal"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/a-lover’s-complaint-(shakespeare)|A Lover’s Complaint (Shakespeare)]]
+- [[works/the-rape-of-lucrece-(shakespeare)|THE RAPE OF LUCRECE (Shakespeare)]]
+
+</div>
+
 #graph/form

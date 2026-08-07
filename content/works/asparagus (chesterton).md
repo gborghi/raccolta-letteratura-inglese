@@ -25,7 +25,7 @@ tags:
   - histref/tennyson
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A whimsical paradoxical essay using asparagus etiquette to satirize aristocracy, social distinction and the cult of fashionable 'Progress' as artificial passwords.
@@ -44,12 +44,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Common Man (2)]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Motifs:** [[Food and Feasting]], [[Secrets]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Class Conflict]], [[Paradox]], [[Appearance vs Reality]], [[Democracy]], [[Secrecy and Concealment]], [[Economics]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
-**Historical References:** [[French Revolution]], [[Tennyson]]
+**Motifs:** [[motifs/food-and-feasting|Food and Feasting]], [[motifs/secrets|Secrets]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/class-conflict|Class Conflict]], [[concepts/paradox|Paradox]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/democracy|Democracy]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/tennyson|Tennyson]]
 
 ## Testo integrale / Full text
 

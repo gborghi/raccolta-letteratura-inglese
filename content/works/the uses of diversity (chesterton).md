@@ -84,7 +84,7 @@ tags:
   - histref/napoleonic_wars_the_navy
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
+*by Chesterton*  ·  **Cluster:** [[clusters/paradox-·-food-and-feasting-·-aphorism|Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 
 > A 1920 collection of light familiar essays on literature, society, religion and modern fads, defending wonder, paradox and orthodoxy against pseudo-scientific seriousness; satirical social criticism in the essay form.
@@ -131,20 +131,20 @@ tags:
 
 ## Connections
 
-**Historical References:** [[First World War]], [[Irish Question]], [[French Revolution]], [[Puritanism]], [[Bible]], [[Christianity]], [[Medieval England]], [[Napoleonic Wars the Navy]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/irish-question|Irish Question]], [[historical-references/french-revolution|French Revolution]], [[historical-references/puritanism|Puritanism]], [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]], [[historical-references/medieval-england|Medieval England]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]]
 
-**Archetypes:** [[Detective]], [[Fool]], [[Tyrant]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/fool|Fool]], [[archetypes/tyrant|Tyrant]]
 
-**Settings:** [[London]], [[Paris]], [[Rural England]], [[Medieval England (2)]], [[Egypt]], [[Europe]]
+**Settings:** [[settings/london|London]], [[settings/paris|Paris]], [[settings/rural-england|Rural England]], [[settings/medieval-england-(2)|Medieval England (2)]], [[settings/egypt|Egypt]], [[settings/europe|Europe]]
 
-**Motifs:** [[Home]], [[Fire]], [[Food and Feasting]], [[Animals]], [[Clothing and Costume]]
+**Motifs:** [[motifs/home|Home]], [[motifs/fire|Fire]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/animals|Animals]], [[motifs/clothing-and-costume|Clothing and Costume]]
 
-**Topoi:** [[Golden Age]]
+**Topoi:** [[topoi/golden-age|Golden Age]]
 
-**Characters:** [[Emma Woodhouse]], [[Henry Tilney]], [[Catherine Morland]], [[Harriet Smith]], [[Robert Martin]], [[Macbeth]], [[Lady Macbeth]], [[Theseus]], [[Hermia]], [[Helena]], [[Hippolyta]], [[Bottom]], [[Falstaff]], [[Cardinal Wolsey]], [[Herod Antipas]], [[Duncan]], [[Claudius]], [[Judge Parry]], [[George Meredith]], [[George Wyndham]], [[Bernard Shaw]], [[Tennyson]], [[Cyrano de Bergerac]], [[Peter Pan]], [[Sherlock Holmes]]
+**Characters:** [[characters/emma-woodhouse|Emma Woodhouse]], [[characters/henry-tilney|Henry Tilney]], [[characters/catherine-morland|Catherine Morland]], [[characters/harriet-smith|Harriet Smith]], [[characters/robert-martin|Robert Martin]], [[characters/macbeth|Macbeth]], [[characters/lady-macbeth|Lady Macbeth]], [[characters/theseus|Theseus]], [[characters/hermia|Hermia]], [[characters/helena|Helena]], [[characters/hippolyta|Hippolyta]], [[characters/bottom|Bottom]], [[characters/falstaff|Falstaff]], [[characters/cardinal-wolsey|Cardinal Wolsey]], [[characters/herod-antipas|Herod Antipas]], [[characters/duncan|Duncan]], [[characters/claudius|Claudius]], [[characters/judge-parry|Judge Parry]], [[historical-references/george-meredith|George Meredith]], [[characters/george-wyndham|George Wyndham]], [[historical-references/bernard-shaw|Bernard Shaw]], [[historical-references/tennyson|Tennyson]], [[characters/cyrano-de-bergerac|Cyrano de Bergerac]], [[characters/peter-pan|Peter Pan]], [[characters/sherlock-holmes|Sherlock Holmes]]
 
-**Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Satire of Society]], [[Critique of Progress]], [[Faith]], [[Artist and Society]], [[Joy]], [[Nationalism and Patriotism]], [[Democracy]], [[Marriage and Fidelity]], [[Ratiocination Detection]], [[Distributism]], [[Common Man]], [[Conscience]], [[War and its Cost]], [[Class Conflict]], [[Identity]], [[Metamorphosis Transformation]], [[Grotesque]], [[Supernatural (2)]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Literary Criticism]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/faith|Faith]], [[concepts/artist-and-society|Artist and Society]], [[concepts/joy|Joy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/democracy|Democracy]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/distributism|Distributism]], [[concepts/common-man|Common Man]], [[concepts/conscience|Conscience]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/class-conflict|Class Conflict]], [[concepts/identity|Identity]], [[concepts/metamorphosis-transformation|Metamorphosis Transformation]], [[concepts/grotesque|Grotesque]], [[concepts/supernatural-(2)|Supernatural (2)]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/aphorism|Aphorism]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

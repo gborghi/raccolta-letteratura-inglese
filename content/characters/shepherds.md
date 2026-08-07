@@ -14,4 +14,10 @@ The hinds who find the divine child and stand for the popular, mythmaking instin
 
 <div class="concept-works" data-slug="characters/shepherds"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/god-in-the-cave-(chesterton)|God in the Cave (Chesterton)]]
+
+</div>
+
 #graph/character

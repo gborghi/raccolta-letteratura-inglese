@@ -43,7 +43,7 @@ tags:
   - character/pompey
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Ottava Rima]]
+*by Shakespeare*  ·  **Cluster:** [[forms/ottava-rima|Ottava Rima]]
 
 > [!abstract] 
 > A 'problem play' / tragicomedy set in Vienna where the deputy Angelo's hypocritical demand for Isabella's chastity in exchange for her brother's life probes justice and mercy, power and corruption, sin, chastity and forgiveness.
@@ -69,13 +69,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]], [[Memento Mori]]
-**Archetypes:** [[Corrupt Official]], [[Tyrant]], [[Innocent]]
-**Motifs:** [[Concealment Hidden Identity]], [[Death]], [[City]]
-**Themes & Concepts:** [[Justice Right and Wrong]], [[Mercy]], [[Power and Corruption]], [[Lust Sexual Desire]], [[Appearance vs Reality]], [[Deception]], [[Guilt]], [[Mortality]], [[Grace and Redemption]], [[Sin and the Fall]], [[Temptation]], [[Conscience]]
-**Forms & Genres:** [[Problem Play]], [[Tragicomedy]], [[Verse Drama]], [[Blank Verse]]
-**Historical References:** [[Bible]], [[Christianity]]
-**Characters:** [[Vincentio the Duke]], [[Angelo]], [[Isabella]], [[Claudio]], [[Lucio]], [[Mariana]], [[Escalus]], [[Pompey]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/memento-mori|Memento Mori]]
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/tyrant|Tyrant]], [[archetypes/innocent|Innocent]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/death|Death]], [[motifs/city|City]]
+**Themes & Concepts:** [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/mercy|Mercy]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/guilt|Guilt]], [[concepts/mortality|Mortality]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/temptation|Temptation]], [[concepts/conscience|Conscience]]
+**Forms & Genres:** [[forms/problem-play|Problem Play]], [[forms/tragicomedy|Tragicomedy]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]]
+**Characters:** [[characters/vincentio-the-duke|Vincentio the Duke]], [[characters/angelo|Angelo]], [[characters/isabella|Isabella]], [[characters/claudio|Claudio]], [[characters/lucio|Lucio]], [[characters/mariana|Mariana]], [[characters/escalus|Escalus]], [[characters/pompey|Pompey]]
 
 ## Testo integrale / Full text
 

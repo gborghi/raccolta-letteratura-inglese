@@ -23,7 +23,7 @@ tags:
   - archetype/self_made_man
   - topos/vanitas
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Science Fiction · Discovery · Reason vs the Supernatural]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/science-fiction-·-discovery-·-reason-vs-the-supernatural|Science Fiction · Discovery · Reason vs the Supernatural]]
 
 > [!abstract] 
 > A mysterious, fabulously wealthy stranger, Raffles Haw, builds a palatial house near the village of Tamfield and befriends the impoverished artist Robert McIntyre and his sister Laura. Haw's fortune, secretly derived from a chemical process for transmuting base metal into gold, brings ruin as much as good, corrupting those around him and exposing the moral hazards of unearned wealth.
@@ -51,9 +51,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]], [[Science Fiction]]
-**Themes & Concepts:** [[Greed and Money]], [[Materialism]], [[Power and Corruption]], [[Charity]], [[Vanity of Worldly Things]], [[Economics]]
-**Motifs:** [[House Mansion]], [[Great House]], [[Money and Gold]], [[Gems Jewels]]
-**Settings:** [[Rural England]]
-**Archetypes:** [[Self-Made Man]]
-**Topoi:** [[Vanitas]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/science-fiction|Science Fiction]]
+**Themes & Concepts:** [[concepts/greed-and-money|Greed and Money]], [[concepts/materialism|Materialism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/charity|Charity]], [[concepts/vanity-of-worldly-things|Vanity of Worldly Things]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/house-mansion|House Mansion]], [[motifs/great-house|Great House]], [[motifs/money-and-gold|Money and Gold]], [[motifs/gems-jewels|Gems Jewels]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]
+**Topoi:** [[topoi/vanitas|Vanitas]]

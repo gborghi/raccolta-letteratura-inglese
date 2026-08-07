@@ -21,18 +21,18 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Poe*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A short lyric love poem on inexpressibility: the poet, who once boasted the 'power of words,' is struck speechless before the beloved's name, standing entranced on the threshold of dreams.
 
 ## Connections
 
-**Topoi:** [[Inexpressibility]], [[Love as Religion]]
-**Archetypes:** [[Lover]]
-**Motifs:** [[Dreams]], [[Silence]], [[Moon]], [[Letters and Writing]]
-**Themes & Concepts:** [[Inexpressibility (3)]], [[Romantic Love]], [[Beauty]], [[Imagination]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/inexpressibility|Inexpressibility]], [[topoi/love-as-religion|Love as Religion]]
+**Archetypes:** [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/dreams|Dreams]], [[motifs/silence|Silence]], [[motifs/moon|Moon]], [[motifs/letters-and-writing|Letters and Writing]]
+**Themes & Concepts:** [[concepts/inexpressibility-(3)|Inexpressibility (3)]], [[concepts/romantic-love|Romantic Love]], [[concepts/beauty|Beauty]], [[concepts/imagination|Imagination]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

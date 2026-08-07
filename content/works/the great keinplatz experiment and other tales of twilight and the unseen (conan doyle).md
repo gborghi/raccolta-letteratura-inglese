@@ -21,16 +21,16 @@ tags:
   - archetype/ghost
   - topos/memento_mori
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Domestic and Social Fiction · Romantic Love · Class]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/domestic-and-social-fiction-·-romantic-love-·-class|Domestic and Social Fiction · Romantic Love · Class]]
 
 > [!abstract] 
 > A collection of early Doyle short stories exploring the supernatural and the uncanny, opening with 'The Brown Hand,' in which a dead Indian patient's ghost returns nightly seeking his amputated hand, and 'The Usher of Lea House School,' a tale of blackmail and menace beneath a schoolmaster's genteel surface. The other tales range across mesmerism, doubles, and unexplained hauntings at the borderland of the visible world.
 
 ## Connections
 
-**Forms & Genres:** [[Short Story]]
-**Themes & Concepts:** [[Unseen The Hidden]], [[Secrecy and Concealment]], [[Guilt]], [[Deception]]
-**Motifs:** [[Ghosts]], [[Supernatural]], [[Uncanny]], [[Secrets]]
-**Settings:** [[Rural England]]
-**Archetypes:** [[Ghost]]
-**Topoi:** [[Memento Mori]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
+**Themes & Concepts:** [[concepts/unseen-the-hidden|Unseen The Hidden]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/guilt|Guilt]], [[concepts/deception|Deception]]
+**Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[concepts/uncanny|Uncanny]], [[motifs/secrets|Secrets]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Archetypes:** [[archetypes/ghost|Ghost]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]

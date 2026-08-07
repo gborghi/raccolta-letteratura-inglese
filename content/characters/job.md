@@ -14,4 +14,13 @@ The suffering righteous man of the Bible whom Chesterton treats across several e
 
 <div class="concept-works" data-slug="characters/job"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/man-orthodox-(chesterton)|Man Orthodox (Chesterton)]]
+- [[works/our-birthday-(chesterton)|Our Birthday (Chesterton)]]
+- [[works/the-speaker-(chesterton)|The Speaker (Chesterton)]]
+- [[works/job-(chesterton)|job (Chesterton)]]
+
+</div>
+
 #graph/character

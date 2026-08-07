@@ -25,7 +25,7 @@ tags:
 
 # ILN-1930-04-19
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > An essay offering corrective maxims for reading the flood of Great War novels and plays, warning against fallacies of sentimentality and 'unthinkable war' slogans; on war, peace and patriotism.
@@ -41,10 +41,10 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Blood]], [[Battlefield (2)]]
-**Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Artist and Society]], [[Appearance vs Reality]], [[Satire of Society]], [[Truth]], [[Power of Language]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Problem Play]], [[Nonfiction]]
-**Historical References:** [[First World War]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/battlefield-(2)|Battlefield (2)]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/artist-and-society|Artist and Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/satire-of-society|Satire of Society]], [[concepts/truth|Truth]], [[concepts/power-of-language|Power of Language]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/problem-play|Problem Play]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/first-world-war|First World War]]
 
 ## Testo integrale / Full text
 

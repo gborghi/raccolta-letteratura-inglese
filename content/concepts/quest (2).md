@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="concepts/quest-(2)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/eldorado-(poe)|Eldorado (Poe)]]
+
+</div>
+
 #graph/concept

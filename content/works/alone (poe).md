@@ -19,17 +19,17 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Alienation · Outsider · Exile]]
+*by Poe*  ·  **Cluster:** [[clusters/alienation-·-outsider-·-exile|Alienation · Outsider · Exile]]
 
 > [!abstract] 
 > An early confessional lyric on the poet's lifelong sense of difference and isolation from childhood; themes of alienation, melancholy, and a visionary apartness drawn from nature's storms.
 
 ## Connections
 
-**Archetypes:** [[Outsider]]
-**Motifs:** [[Childhood]], [[Storm]], [[Sun]]
-**Themes & Concepts:** [[Alienation]], [[Melancholy]], [[Identity]], [[Maturation and Growth]], [[Imagination]]
-**Forms & Genres:** [[Lyric]]
+**Archetypes:** [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/childhood|Childhood]], [[motifs/storm|Storm]], [[motifs/sun|Sun]]
+**Themes & Concepts:** [[concepts/alienation|Alienation]], [[concepts/melancholy|Melancholy]], [[concepts/identity|Identity]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/imagination|Imagination]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

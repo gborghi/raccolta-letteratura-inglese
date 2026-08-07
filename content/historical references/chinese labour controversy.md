@@ -14,4 +14,10 @@ The pre-election political row over indentured Chinese labour (used as Chesterto
 
 <div class="concept-works" data-slug="historical-references/chinese-labour-controversy"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/cockneys-(chesterton)|cockneys (Chesterton)]]
+
+</div>
+
 #graph/histref

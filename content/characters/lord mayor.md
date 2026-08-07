@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/lord-mayor"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/sir-thomas-more-(shakespeare)|SIR THOMAS MORE (Shakespeare)]]
+
+</div>
+
 #graph/character

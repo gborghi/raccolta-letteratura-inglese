@@ -12,4 +12,13 @@ tags:
 
 <div class="concept-works" data-slug="characters/mr-bumble"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/charlesdickens-(chesterton)|CharlesDickens (Chesterton)]]
+- [[works/dickens-britannica-(chesterton)|dickens Britannica (Chesterton)]]
+- [[works/oliver-twist-(dickens)|Oliver Twist (Dickens)]]
+
+</div>
+
 #graph/character

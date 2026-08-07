@@ -23,7 +23,7 @@ tags:
   - archetype/the_writer
   - topos/immortality_through_verse
 ---
-*by Conan Doyle*  ·  **Cluster:** [[War and Empire · History · Nationalism and Patriotism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/war-and-empire-·-history-·-nationalism-and-patriotism|War and Empire · History · Nationalism and Patriotism]]
 
 > [!abstract] 
 > A memoir-essay cataloguing the books on Doyle's own shelves, offering appreciations of Macaulay, Scott, and other favourite authors while musing on reading, creativity, and the fates of writers.
@@ -52,11 +52,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Beauty and Truth]], [[Imagination]], [[Creativity]], [[Memory and Time]], [[History]]
-**Motifs:** [[The Book]], [[Book Reading]]
-**Characters:** [[Sir Walter Scott]], [[William Shakespeare]]
-**Archetypes:** [[The Writer]]
-**Topoi:** [[Immortality Through Verse]]
+**Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/beauty-and-truth|Beauty and Truth]], [[concepts/imagination|Imagination]], [[concepts/creativity|Creativity]], [[concepts/memory-and-time|Memory and Time]], [[concepts/history|History]]
+**Motifs:** [[motifs/the-book|The Book]], [[motifs/book-reading|Book Reading]]
+**Characters:** [[characters/sir-walter-scott|Sir Walter Scott]], [[characters/william-shakespeare|William Shakespeare]]
+**Archetypes:** [[archetypes/the-writer|The Writer]]
+**Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]]
 
-**Also relevant to:** [[Self-Knowledge · Immortality · Self-Reliance]]
+**Also relevant to:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]

@@ -19,7 +19,7 @@ tags:
   - motif/wordplay
   - topos/world_upside_down
 ---
-*by Belloc*  ·  **Cluster:** [[Comic Verse · Childhood · Satire]]
+*by Belloc*  ·  **Cluster:** [[clusters/comic-verse-·-childhood-·-satire|Comic Verse · Childhood · Satire]]
 
 > [!abstract] 
 > A mock-didactic ABC in comic verse, each letter yoked to an absurd little tale and an ironic 'Moral' that parodies the improving alphabet-books for children. Belloc uses the schoolroom form to skewer priggish virtue and pompous instruction, deriving deliberately useless or perverse lessons from bears, cobras, and prehistoric beasts.
@@ -30,7 +30,7 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Comic Verse Song]], [[Poem]]
-**Themes & Concepts:** [[Nonsense]], [[Wit]], [[Childhood And Growth]], [[Satire of Society]], [[Exaggeration]]
-**Motifs:** [[Animals]], [[Childhood]], [[Wordplay]]
-**Topoi:** [[World Upside Down]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/poem|Poem]]
+**Themes & Concepts:** [[concepts/nonsense|Nonsense]], [[concepts/wit|Wit]], [[concepts/childhood-and-growth|Childhood And Growth]], [[concepts/satire-of-society|Satire of Society]], [[concepts/exaggeration|Exaggeration]]
+**Motifs:** [[motifs/animals|Animals]], [[motifs/childhood|Childhood]], [[motifs/wordplay|Wordplay]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]

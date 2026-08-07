@@ -12,4 +12,13 @@ tags:
 
 <div class="concept-works" data-slug="characters/paul-dombey"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/charlesdickens-(chesterton)|CharlesDickens (Chesterton)]]
+- [[works/dickens-britannica-(chesterton)|dickens Britannica (Chesterton)]]
+- [[works/dombey-and-son-(dickens)|Dombey and Son (Dickens)]]
+
+</div>
+
 #graph/character

@@ -18,17 +18,17 @@ tags:
   - form/sonnet
 ---
 
-*by Poe*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
+*by Poe*  ·  **Cluster:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > A sonnet that both mocks shallow sonnets and conceals a lady's name acrostically; reflects on transience, immortality through naming, and the craft of the poetic riddle.
 
 ## Connections
 
-**Topoi:** [[Immortality Through Verse]], [[Tempus Fugit]]
-**Motifs:** [[Letters and Writing]], [[Book Reading]]
-**Themes & Concepts:** [[Transience]], [[Immortality of Art Fame]], [[Romantic Love]], [[Satire of Society]]
-**Forms & Genres:** [[Sonnet]]
+**Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]], [[topoi/tempus-fugit|Tempus Fugit]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/book-reading|Book Reading]]
+**Themes & Concepts:** [[concepts/transience|Transience]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]], [[concepts/romantic-love|Romantic Love]], [[concepts/satire-of-society|Satire of Society]]
+**Forms & Genres:** [[forms/sonnet|Sonnet]]
 
 ## Testo integrale / Full text
 

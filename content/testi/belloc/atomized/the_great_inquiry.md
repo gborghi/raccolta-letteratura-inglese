@@ -713,7 +713,7 @@ LOOK ON THIS PICTURE
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Ballycannon. Britanni! Guardate questa immagine.
+Ballycannon. Britanni! Guardate questa immagine.
 
 "#Sono snello e vivace."
 
@@ -737,7 +737,7 @@ E su questo.
 “Sono troppo grasso.”  
 La grande domanda
 
-# Solo versione autorizzata
+Solo versione autorizzata
 
 
 
@@ -757,7 +757,7 @@ Rapportato fedelmente
 
 By H. B.
 
-# Rappresentante del comitato
+Rappresentante del comitato
 
 
 
@@ -773,11 +773,11 @@ DUCKWORTH & CO.,
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Decorato con tagli netti eseguiti sul posto
+Decorato con tagli netti eseguiti sul posto
 
 By G. K. C.
 
-# Duckworth & Co.
+Duckworth & Co.
 
 
 
@@ -915,7 +915,7 @@ Segretario degli Affari Esteri di Sua Maestà.
 
 Il Capo Postale Generale.
 
-#E, davvero…
+E, davvero…
 
 Il signor Balfour in persona.
 
@@ -935,29 +935,29 @@ Alla domanda del signor Chamberlain se riteneva che i salari dei suoi lavoratori
 
 Il signor Chamberlain (sorridendo piacevolmente): “Formulerò la mia domanda in un altro modo. Offrireste ai vostri dipendenti una parte dei profitti così ottenuti?”
 
-# Mr. Baines (perplesso): “Perché dovrei farlo?”
+Mr. Baines (perplesso): “Perché dovrei farlo?”
 
 Il Capo Postale Generale: “Lasciate che mi occupi io di lui, padre, ” (A Mr. Baines): “Suppongo che tutti i vostri uomini abbiano il diritto di voto, ”
 
-# Il signor Baines: “Sì, tutti tranne Ben Gailey, che ha scontato una pena per il gioco del ‘ghurling’.”
+Il signor Baines: “Sì, tutti tranne Ben Gailey, che ha scontato una pena per il gioco del ‘ghurling’.”
 
-# Che cos’è il ghurling?
+Che cos’è il ghurling?
 
-# “Che cos’è il ghurling?” chiese con grande interesse il signor Balfour.
+“Che cos’è il ghurling?” chiese con grande interesse il signor Balfour.
 
 Il Capo Postale (in fretta): “Va bene. Ora la domanda è questa: se vi diamo 1 sterlina di sconto per ogni tonnellata di ghisa che mettete sul mercato, e stabiliamo come condizione che paghiate almeno il 5% in salari aggiuntivi, accettereste?”
 
-# Mr. Baines: “Come un pazzo!”
+Mr. Baines: “Come un pazzo!”
 
 Il testimone, il quale fu elogiato da Lord Lansdowne per il modo coraggioso e schietto con cui aveva fornito le sue testimonianze, si ritirò poi dal banco dei testimoni.
 
 Il signor Harry Gibbs, agricoltore di Goudhurst, interrogato riguardo alle luppoline, disse che quelle provenienti dall’estero erano di qualità molto scadente. Conosceva bene la situazione; era una persona pragmatica. Disse: “Che il governo proibisca l’importazione di tutte le luppoline straniere, sia quelle del Sussex che di altre regioni, e che ai produttori di birra venga imposto un legge che vieti loro di acquistare luppoline provenienti dal Kent. C’era quel vecchio Sir Charles Gorle, membro del Parlamento. Lui sapeva con certezza che nella sua birreria non si comprava mai altro che luppoline del Sussex; avrebbe fatto approvare una legge proprio in questo senso, ”
 
-# Mr. Chamberlain (con fermezza): “Si allontani.”
+Mr. Chamberlain (con fermezza): “Si allontani.”
 
 “Testimone (ad alta voce): ‘Ah! Sono un uomo semplice e non devo essere costretto a fare queste cose… Vi dico io…’”
 
-# Lord Lansdowne: “Si ritiri, signore!”
+Lord Lansdowne: “Si ritiri, signore!”
 
 “Testimone (a voce più alta): ‘Vi dico, se lasciate che questi maledetti Sussex W’ops…’”
 
@@ -1469,7 +1469,7 @@ Assicurò alla Corte che li avrebbe trattenuti solo per pochi momenti. Lord Byro
 
 Il signor Chamberlain, proseguendo in un modo che combinava cortesia e fermezza, e che veniva enfatizzato dal suo gesto preferito, dichiarò di ritenere suo dovere menzionare due incidenti dolorosi. Il primo era l’annuncio prematuro pubblicato sul Daily Mail secondo cui avrebbe ritirato le sue posizioni; in realtà non aveva alcuna intenzione di farlo prima di febbraio prossimo, e basta. Il secondo incidente riguardava il disastro che aveva interrotto la seduta della settimana precedente: si riferì all’allarme falso per un incendio, e in particolare al fatto che era stata versata una quantità considerevole d’acqua all’interno di un edificio sacro per il suo predecessore immortale, il signor Pitt – padre di Lord Chatham e salvatore dell’Europa; l’uomo a cui dovevamo Gibilterra, e tutto ciò che Gibilterra rappresentava.
 
-#"Cortesia e fermezza"
+"Cortesia e fermezza"
 
 Chiunque abbia lanciato quell’allarme falso non merita di essere chiamato britannico. Un giornale filo-boero aveva addirittura insinuato che si trattasse di una cospirazione contro di lui ordita dai suoi stessi colleghi. (A questo punto il signor Chamberlain guardò intorno e fu accolto da risate nervose.) Era come molte altre cose che quelle persone dicevano: era una menzogna.
 
@@ -1549,7 +1549,7 @@ Il signor Gerald Balfour (perplesso): In che senso, “trovato”?
 
 Testimone: Per favore, lasciatemi finire quello che stavo per dire. Si trovavano bottiglie, dico, e a volte anche bottiglie vuote.
 
-# Mr. Chamberlain: Ma, sicuramente…
+Mr. Chamberlain: Ma, sicuramente…
 
 Testimone (con rabbia): Mi lascerete finire la frase, per favore? Bottiglie vuote, sicuramente, bottiglie vuote. E quest’anno è stato terribile: vecchi libertini, ruote rotte, mucchi di cappelli sporchi, cesti, e – potrebbe sembrare incredibile – anche un vecchio tosaerba.
 
@@ -1911,7 +1911,7 @@ Cinquanta-sette enormi furgoni, ciascuno trainato da dodici forti cavalli e cari
 
 Quando le voci e gli ordini di questi coraggiosi uomini giunsero alle loro orecchie, la folla non riuscì più a trattenersi. Forti grida di “Tweebosch!” e i nomi di altre battaglie in cui avevano combattuto e versato il loro sangue per noi risuonarono da parte dei tre uomini istruiti presenti tra quella vasta folla. Mentre la legione passava davanti al palco e rivolgeva lo sguardo verso la maestosa figura che li aveva arruolati nel servizio comune della Razza Insulare, una grande canzone, le cui parole all’inizio erano indistinte, si levò spontaneamente da varie parti della processione: in pochi secondi mezzo milione di voci coraggiose intonarono la grande Canzone dell’Impero.
 
-#Chi non può essere ogni uomo
+Chi non può essere ogni uomo
 
 “Tre mogli aveva!”
 
@@ -1999,7 +1999,7 @@ Il quinto piatto è stato rifiutato per errore.
 
 Essendo così arrivati, nel bel mezzo della situazione, che il vostro comitato aveva accidentalmente rifiutato tutte le possibili opzioni e non gli rimaneva nulla su cui basarsi, poiché non esisteva alcun precedente per un simile errore.
 
-# Il vostro comitato
+Il vostro comitato
 
 Decisero quindi di iniziare da capo e così fu redatto…
 

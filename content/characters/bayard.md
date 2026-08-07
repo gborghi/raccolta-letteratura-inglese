@@ -14,4 +14,10 @@ Legendary knight 'without fear and without reproach' invoked in the envoi as the
 
 <div class="concept-works" data-slug="characters/bayard"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/anti-puritan-(chesterton)|anti-puritan (Chesterton)]]
+
+</div>
+
 #graph/character

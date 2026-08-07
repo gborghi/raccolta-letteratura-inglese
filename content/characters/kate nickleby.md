@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/kate-nickleby"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/nicholas-nickleby-(dickens)|Nicholas Nickleby (Dickens)]]
+
+</div>
+
 #graph/character

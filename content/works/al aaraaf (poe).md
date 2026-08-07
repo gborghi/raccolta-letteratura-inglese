@@ -29,19 +29,19 @@ tags:
   - histref/classical_antiquity
 ---
 
-*by Poe*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
+*by Poe*  ·  **Cluster:** [[clusters/greek-mythology-·-lust-sexual-desire-·-desire|Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 
 > A long, allusive cosmic poem set on Tycho Brahe's wandering star, an afterworld of pure Beauty where the angel Nesace and lovers Angelo and Ianthe dwell; explores beauty, knowledge, death, and the gulf between earthly and ideal.
 
 ## Connections
 
-**Topoi:** [[Fall from Innocence]], [[Paradise Lost]], [[Book of Nature]]
-**Archetypes:** [[Lover]]
-**Motifs:** [[Stars]], [[Flowers]], [[Music and Song]], [[Moon]], [[Death]], [[Silence]], [[Ruins the Abbey]]
-**Themes & Concepts:** [[Beauty]], [[Sublime]], [[Mortality]], [[Truth]], [[Imagination]], [[Romantic Love]]
-**Forms & Genres:** [[Narrative Poem]]
-**Historical References:** [[Greek Mythology]], [[Classical Antiquity]]
+**Topoi:** [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/paradise-lost|Paradise Lost]], [[topoi/book-of-nature|Book of Nature]]
+**Archetypes:** [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/stars|Stars]], [[motifs/flowers|Flowers]], [[motifs/music-and-song|Music and Song]], [[motifs/moon|Moon]], [[motifs/death|Death]], [[motifs/silence|Silence]], [[motifs/ruins-the-abbey|Ruins the Abbey]]
+**Themes & Concepts:** [[concepts/beauty|Beauty]], [[concepts/sublime|Sublime]], [[concepts/mortality|Mortality]], [[concepts/truth|Truth]], [[concepts/imagination|Imagination]], [[concepts/romantic-love|Romantic Love]]
+**Forms & Genres:** [[forms/narrative-poem|Narrative Poem]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/classical-antiquity|Classical Antiquity]]
 
 ## Testo integrale / Full text
 

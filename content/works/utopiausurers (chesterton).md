@@ -44,7 +44,7 @@ tags:
 
 # UtopiaUsurers
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A collection of polemical essays attacking capitalism, plutocracy, and the Servile State, advocating Distributism and warning of a dystopia ruled by usurers; opens with militant verse on the Irish road.
@@ -66,15 +66,15 @@ tags:
 
 ## Connections
 
-**Historical References:** [[French Revolution]], [[First World War]], [[Irish Question]], [[Industrial Revolution]], [[Marconi Scandal]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/first-world-war|First World War]], [[historical-references/irish-question|Irish Question]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/marconi-scandal|Marconi Scandal]]
 
-**Archetypes:** [[Tyrant]], [[Fool]], [[Rebel]], [[Corrupt Official]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/fool|Fool]], [[archetypes/rebel|Rebel]], [[archetypes/corrupt-official|Corrupt Official]]
 
-**Settings:** [[Germany]], [[London]], [[Ireland]], [[Europe]]
+**Settings:** [[settings/germany|Germany]], [[settings/london|London]], [[settings/ireland|Ireland]], [[settings/europe|Europe]]
 
-**Motifs:** [[Money and Gold]], [[Prison]], [[Chains]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Distributism]], [[Power and Corruption]], [[Social Injustice]], [[Class Conflict]], [[Critique of Progress]], [[Slavery]], [[Crime and Punishment]], [[Satire of Society]], [[Freedom and Liberty]], [[Democracy]], [[Nationalism and Patriotism]], [[Eugenics]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/prison|Prison]], [[motifs/chains|Chains]]
+**Themes & Concepts:** [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/distributism|Distributism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/social-injustice|Social Injustice]], [[concepts/class-conflict|Class Conflict]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/slavery|Slavery]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/satire-of-society|Satire of Society]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/democracy|Democracy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/eugenics|Eugenics]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

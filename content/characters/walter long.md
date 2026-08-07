@@ -14,4 +14,10 @@ Real Conservative statesman satirized as the timid, born-comfortable target of t
 
 <div class="concept-works" data-slug="characters/walter-long"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/poems-(chesterton)|Poems (Chesterton)]]
+
+</div>
+
 #graph/character

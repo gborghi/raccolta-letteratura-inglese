@@ -24,7 +24,7 @@ tags:
   - archetype/corrupt_official
   - archetype/self_made_man
 ---
-*by Belloc*  ·  **Cluster:** [[Satirical Novel · Politics and Finance · Edwardian England]]
+*by Belloc*  ·  **Cluster:** [[clusters/satirical-novel-·-politics-and-finance-·-edwardian-england|Satirical Novel · Politics and Finance · Edwardian England]]
 
 > [!abstract] 
 > A satirical novel of Edwardian high politics and finance, sequel to Mr Clutterbuck's Election, set in a near-future 1925. Prime Minister 'Dolly' and Opposition leader 'Pongo' Pennybunt scheme over an Indian loan while dependent on the financier Duke of Battersea (an antisemitic caricature of a Jewish plutocrat, born plain Mr Barnett). Belloc lampoons the party system, plutocracy and the corruption of public life.
@@ -36,8 +36,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]], [[Satire]]
-**Themes & Concepts:** [[Satire of Society]], [[Money and Avarice]], [[Power and Corruption]], [[Capitalism]], [[Democracy]], [[Hypocrisy]], [[Antisemitism]], [[Economics]]
-**Motifs:** [[Money and Gold]], [[Great House]]
-**Settings:** [[London]], [[Rural England]]
-**Archetypes:** [[Corrupt Official]], [[Self-Made Man]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/capitalism|Capitalism]], [[concepts/democracy|Democracy]], [[concepts/hypocrisy|Hypocrisy]], [[concepts/antisemitism|Antisemitism]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/great-house|Great House]]
+**Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/self-made-man|Self-Made Man]]

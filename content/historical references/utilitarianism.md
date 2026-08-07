@@ -14,4 +14,10 @@ The Benthamite philosophy of the greatest happiness that Chesterton names as the
 
 <div class="concept-works" data-slug="historical-references/utilitarianism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/victorian-age-(chesterton)|Victorian Age (Chesterton)]]
+
+</div>
+
 #graph/histref

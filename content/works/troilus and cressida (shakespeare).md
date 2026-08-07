@@ -45,7 +45,7 @@ tags:
   - character/agamemnon
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Order vs Chaos · Historical Novel · Fanaticism]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/order-vs-chaos-·-historical-novel-·-fanaticism|Order vs Chaos · Historical Novel · Fanaticism]]
 
 > [!abstract] 
 > A bitter, philosophical play set during the Trojan War that deflates heroic ideals and dramatizes the betrayal of love by Cressida; a sardonic anatomy of war, lust, time and the frailty of human value.
@@ -82,14 +82,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Combat Strife]], [[War as Glory]], [[Tempus Fugit]]
-**Archetypes:** [[Femme Fatale]], [[Hero]], [[(Reputed) Fallen Woman]], [[Prophet]]
-**Motifs:** [[Blood]], [[Swords and Weapons]], [[Time]]
-**Themes & Concepts:** [[War and its Cost]], [[Honour]], [[Disillusionment]], [[Lust Sexual Desire]], [[Marriage and Fidelity]], [[Satire of Society]], [[Order vs Chaos]], [[Deception]], [[History]]
-**Forms & Genres:** [[Verse Drama]], [[Tragicomedy]], [[Satire]], [[Blank Verse]]
-**Historical References:** [[Greek Mythology]], [[Classical Antiquity]]
-**Settings:** [[Battlefield]]
-**Characters:** [[Odysseus Ulysses]], [[Troilus]], [[Cressida]], [[Hector]], [[Achilles]], [[Ulysses]], [[Pandarus]], [[Ajax]], [[Thersites]], [[Agamemnon]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]], [[topoi/war-as-glory|War as Glory]], [[topoi/tempus-fugit|Tempus Fugit]]
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/hero|Hero]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/prophet|Prophet]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/time|Time]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/honour|Honour]], [[concepts/disillusionment|Disillusionment]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/satire-of-society|Satire of Society]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/deception|Deception]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/tragicomedy|Tragicomedy]], [[forms/satire|Satire]], [[forms/blank-verse|Blank Verse]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/classical-antiquity|Classical Antiquity]]
+**Settings:** [[settings/battlefield|Battlefield]]
+**Characters:** [[characters/odysseus-ulysses|Odysseus Ulysses]], [[characters/troilus|Troilus]], [[characters/cressida|Cressida]], [[characters/hector|Hector]], [[characters/achilles|Achilles]], [[characters/ulysses|Ulysses]], [[characters/pandarus|Pandarus]], [[characters/ajax|Ajax]], [[characters/thersites|Thersites]], [[characters/agamemnon|Agamemnon]]
 
 ## Testo integrale / Full text
 

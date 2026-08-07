@@ -14,4 +14,10 @@ The essay's central virtue of passionate, warm moderation born of strong feeling
 
 <div class="concept-works" data-slug="concepts/moderation"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/humanitarianism-(chesterton)|Humanitarianism (Chesterton)]]
+
+</div>
+
 #graph/concept

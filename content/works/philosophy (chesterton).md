@@ -25,7 +25,7 @@ tags:
 
 # philosophy
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > An essay arguing every argument begins with an undemonstrable dogma, listing the unprovable certainties sane men live by; on the foundations of thought, doubt and free will.
@@ -39,10 +39,10 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Christianity]]
+**Historical References:** [[historical-references/christianity|Christianity]]
 
-**Themes & Concepts:** [[Truth]], [[Doubt]], [[Faith]], [[Fate and Free Will]], [[Education]], [[Perception and Consciousness]], [[Appearance vs Reality]], [[Self]], [[Critique of Progress]], [[Common Man]]
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/truth|Truth]], [[concepts/doubt|Doubt]], [[concepts/faith|Faith]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/education|Education]], [[concepts/perception-and-consciousness|Perception and Consciousness]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/self|Self]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/common-man|Common Man]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

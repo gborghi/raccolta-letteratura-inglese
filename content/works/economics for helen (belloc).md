@@ -24,7 +24,7 @@ tags:
   - motif/machine
   - setting/england
 ---
-*by Belloc*  ·  **Cluster:** [[Distributism · Politics and Society · Polemic]]
+*by Belloc*  ·  **Cluster:** [[clusters/distributism-·-politics-and-society-·-polemic|Distributism · Politics and Society · Polemic]]
 
 > [!abstract] 
 > A plain-spoken primer in real economics, written for a young reader. Part I lays down the elements — what wealth is; the roles of land, labour and capital; production, rent, interest and subsistence; exchange, free trade and money. Part II turns to political application: property and its control, the Servile, Capitalist and Distributive States, socialism, banking, national loans and taxation, the historical value of money, usury and "economic imaginaries." The clearest short statement of Belloc's Distributist economics.
@@ -45,9 +45,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Economics]], [[Distributism]], [[Capitalism]], [[Socialism]], [[Money and Avarice]], [[Class Conflict]], [[Freedom and Liberty]], [[Social Injustice]], [[Tradition]], [[Anti-Industrialism]], [[History]]
-**Motifs:** [[Money and Gold]], [[Machine]]
-**Settings:** [[England]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/economics|Economics]], [[concepts/distributism|Distributism]], [[concepts/capitalism|Capitalism]], [[concepts/socialism|Socialism]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/class-conflict|Class Conflict]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/social-injustice|Social Injustice]], [[concepts/tradition|Tradition]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/history|History]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/machine|Machine]]
+**Settings:** [[settings/england|England]]
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

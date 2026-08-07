@@ -11,4 +11,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/edward-malone"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-poison-belt-(conan-doyle)|The Poison Belt (Conan Doyle)]]
+
+</div>
+
 #graph/character

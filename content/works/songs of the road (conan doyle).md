@@ -24,17 +24,17 @@ tags:
   - archetype/hero
   - topos/open_road_homecoming
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Verse · Action · Heroism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/verse-·-action-·-heroism|Verse · Action · Heroism]]
 
 > [!abstract] 
 > A 1911 poetry collection combining narrative ballads, philosophic verse, and miscellaneous lyrics, opening with 'A Hymn of Empire' written for George V's coronation year and including reflective pieces on faith, science, and everyday life alongside sporting and adventure verse.
 
 ## Connections
 
-**Forms & Genres:** [[Ballad Ballade]], [[Lyric]], [[Hymn]]
-**Themes & Concepts:** [[Empire and Imperialism]], [[Nationalism and Patriotism]], [[Hope]], [[Faith and Doubt]], [[Optimism and Pessimism]]
-**Motifs:** [[Journey]], [[Horse]], [[Flags and Banners]]
-**Historical References:** [[British Empire]]
-**Settings:** [[London]], [[Africa]]
-**Archetypes:** [[Hero]]
-**Topoi:** [[Open Road Homecoming]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/lyric|Lyric]], [[forms/hymn|Hymn]]
+**Themes & Concepts:** [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/hope|Hope]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/optimism-and-pessimism|Optimism and Pessimism]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/horse|Horse]], [[motifs/flags-and-banners|Flags and Banners]]
+**Historical References:** [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/london|London]], [[settings/africa|Africa]]
+**Archetypes:** [[archetypes/hero|Hero]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]]

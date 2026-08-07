@@ -28,7 +28,7 @@ tags:
   - setting/the_court
 ---
 
-*by Wilde*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Wilde*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > Wilde's critical essay on Shakespeare's use of costume and illusion, arguing that archaeological accuracy is a method of artistic illusion and ending on the paradox that the truths of metaphysics are the truths of masks.
@@ -42,13 +42,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Theatrum Mundi]]
-**Motifs:** [[Concealment Hidden Identity]], [[Clothing and Costume]]
-**Themes & Concepts:** [[Appearance vs Reality]], [[Truth]], [[Beauty]], [[Paradox]], [[Artist and Society]], [[Imagination]], [[History]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Nonfiction]]
-**Historical References:** [[Elizabethan England]], [[Renaissance]], [[Classical Antiquity]]
-**Settings:** [[Court]]
-**Characters:** [[Hamlet]], [[Falstaff]]
+**Topoi:** [[topoi/theatrum-mundi|Theatrum Mundi]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/clothing-and-costume|Clothing and Costume]]
+**Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/truth|Truth]], [[concepts/beauty|Beauty]], [[concepts/paradox|Paradox]], [[concepts/artist-and-society|Artist and Society]], [[concepts/imagination|Imagination]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/elizabethan-england|Elizabethan England]], [[historical-references/renaissance|Renaissance]], [[historical-references/classical-antiquity|Classical Antiquity]]
+**Settings:** [[settings/court|Court]]
+**Characters:** [[characters/hamlet|Hamlet]], [[characters/falstaff|Falstaff]]
 
 ## Testo integrale / Full text
 

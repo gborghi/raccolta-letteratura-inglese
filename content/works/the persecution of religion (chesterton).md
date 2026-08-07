@@ -31,7 +31,7 @@ tags:
   - form/literary_criticism
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > An ILN essay arguing that science now persecutes religion, mocking Shaw's 'Back to Methuselah' and Darwinian evolution for abandoning any fixed human ideal. Themes: faith versus a deifying scientism, critique of progress and the Superman, and the need for a permanent standard.
@@ -51,15 +51,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Child]], [[Christ Figure]]
+**Archetypes:** [[archetypes/child|Child]], [[archetypes/christ-figure|Christ Figure]]
 
-**Motifs:** [[Madness (2)]], [[Childhood]]
+**Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/childhood|Childhood]]
 
-**Characters:** [[Bernard Shaw]], [[Nietzsche]], [[Darwin]], [[Aristotle]]
+**Characters:** [[historical-references/bernard-shaw|Bernard Shaw]], [[characters/nietzsche|Nietzsche]], [[characters/darwin|Darwin]], [[characters/aristotle|Aristotle]]
 
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Critique of Progress]], [[Paradox]], [[Satire of Society]], [[Madness]], [[Reform]], [[Providence]]
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Satire]], [[Literary Criticism]], [[Nonfiction]]
-**Historical References:** [[Christianity]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/madness|Madness]], [[concepts/reform|Reform]], [[concepts/providence|Providence]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/satire|Satire]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]]
 
 ## Testo integrale / Full text
 

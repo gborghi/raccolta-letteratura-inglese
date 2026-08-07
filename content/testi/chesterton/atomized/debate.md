@@ -16,7 +16,7 @@ tags:
 
 DO WE AGREE?
 
-A [[debate|DEBATE]] BETWEEN G. K. CHESTERTON and BERNARD [[Shaw|SHAW]]
+A DEBATE BETWEEN G. K. CHESTERTON and BERNARD SHAW
 
 with
 
@@ -28,45 +28,45 @@ A PREFATORY NOTE
 
 In justice to all concerned I feel it to be my duty to state frankly
 that this account of a public discussion between Mr. Chesterton
-and Mr. [[Shaw]] is something less than a verbatim report.
+and Mr. [[works/shaw-(chesterton)|Shaw]] is something less than a verbatim report.
 But with some assistance from the debaters it has been possible
 to save enough from oblivion to justify publication.
 
 CECIL PALMER
 
-[[London]], 1928
+[[settings/london|London]], 1928
 
 * * *
 
 DO WE AGREE?
 
-MR. BELLOC:  I am here to take the chair in the [[debate]] between two
-men whom you [[Desire|desire]] to hear more than you could possibly [[Desire|desire]]
-to hear me.  They will [[debate]] whether they agree or do not agree.
+MR. BELLOC:  I am here to take the chair in the debate between two
+men whom you [[motifs/desire|desire]] to hear more than you could possibly [[motifs/desire|desire]]
+to hear me.  They will debate whether they agree or do not agree.
 From what I know of attempts at agreement between human beings there
-is a prospect of a very pretty fight.  When men [[debate]] agreement between
+is a prospect of a very pretty fight.  When men debate agreement between
 nations then you may be certain a disastrous war is on the horizon.
 I make an exception for the League of Nations, of which I know nothing.
 If the League of Nations could make a war it would be the only thing
 it ever has made.
 
 I do not know what Mr. Chesterton is going to say.
-I do not know what Mr. [[Shaw]] is going to say.  If I did I
+I do not know what Mr. [[works/shaw-(chesterton)|Shaw]] is going to say.  If I did I
 would not say it for them.  I vaguely gather from what I have
 heard that they are going to try to discover a principle:
 whether men should be free to possess private means, as is
-Mr. [[Shaw]], as is Mr. Chesterton; or should be, like myself,
+Mr. [[works/shaw-(chesterton)|Shaw]], as is Mr. Chesterton; or should be, like myself,
 an embarrassed person, a publishers' hack.  I could tell them;
 but my mouth is shut.  I am not allowed to say what I think.
-At any rate, they are going to [[debate]] this sort of thing.
-I know not what more to say They are about to [[debate]].
+At any rate, they are going to debate this sort of thing.
+I know not what more to say They are about to debate.
 You are about to listen.  I am about to sneer.
 
-MR. [[Shaw|SHAW]]:  Mr. Belloc, and Ladies and Gentlemen.  Our subject
+MR. SHAW:  Mr. Belloc, and Ladies and Gentlemen.  Our subject
 this evening, "Do We Agree?" was an inspiration of Mr. Chesterton's. Some
-of you might reasonably [[Wonder|wonder]], if we agree, what we are going
-to [[debate]] about.  But I suspect that you do not really care
-much what we [[debate]] about provided we entertain you by talking
+of you might reasonably [[concepts/wonder|wonder]], if we agree, what we are going
+to debate about.  But I suspect that you do not really care
+much what we debate about provided we entertain you by talking
 in our characteristic manners.
 
 The reason for this, though you may not know it--and it is my business to
@@ -111,12 +111,12 @@ but let us not forget that they are madmen."
 In this country they say "Let us listen to these amusing chaps.
 They are perfectly sane, which we obviously are not."
 Now there must be some reason for shewing us all this consideration.
-There must be some force in [[Nature|nature]] which...
+There must be some force in [[concepts/nature|nature]] which...
 
-(At this point the [[debate]] was interrupted by persistent knocking at
+(At this point the debate was interrupted by persistent knocking at
 the doors by ticket-holders who had, through some misunderstanding,
 been locked out.  On the chairman's intervention the doors were opened,
-and order was restored Mr. [[Shaw]] then proceeded.)
+and order was restored Mr. [[works/shaw-(chesterton)|Shaw]] then proceeded.)
 
 Ladies and Gentlemen, I must go on because, as you see, if I don't
 begin to talk everybody else does.  Now I was speaking of the curious
@@ -132,7 +132,7 @@ Reject all the contradictory things they say and concentrate
 your attention on the things upon which they agree, and you may
 be listening to the voice of revelation.
 
-You will do [[Well|well]] to-[[Night|night]] to listen attentively, because probably
+You will do [[motifs/well|well]] to-[[motifs/night|night]] to listen attentively, because probably
 what is urging us to these utterances is not personal to ourselves
 but some conclusion to which all mankind is moving either by reason
 or by inspiration.  The mere fact that Mr. Chesterton and 1 may agree
@@ -143,9 +143,9 @@ the liberty I am taking or because they do not like the words I
 use or the twist of my mind; but they are the people who quarrel
 most with me.
 
-You have at this moment a typical [[debate]] raging in the Press.  You have
+You have at this moment a typical debate raging in the Press.  You have
 a very pretty controversy going on in the Church of England between
-the Archbishop of Canterbury and the Bishop of Birmingham.  I [[Hope|hope]]
+the Archbishop of Canterbury and the Bishop of Birmingham.  I [[concepts/hope|hope]]
 you have all read the admirable letter of the Archbishop
 of Canterbury.  Everybody is pleased with that letter.
 It has the enormous virtue of being entirely good-humoured,
@@ -157,15 +157,15 @@ letter is a heartfelt appeal for ambiguity.  You can imagine
 the Archbishop of Canterbury, if he were continuing the controversy
 in private, saying to the Bishop of Birmingham:  "Now, my
 dear Barnes, let me recommend you to read that wonderful book,
-the [[Pilgrim]]'s Progress.  Read the [[history]] of the [[Hero|hero]], Christian,
-no [[Doubt|doubt]] a very splendid fellow, and from the literary point
-of view the only [[Hero|hero]] of romantic fiction resembling a real man.
+the [[archetypes/pilgrim|Pilgrim]]'s Progress.  Read the [[concepts/history|history]] of the [[archetypes/hero|hero]], Christian,
+no [[concepts/doubt|doubt]] a very splendid fellow, and from the literary point
+of view the only [[archetypes/hero|hero]] of romantic fiction resembling a real man.
 But he is always fighting.  He is out of one trouble into another.
 He is leading a terrible life.  How different to that great
-Peacemaker, Mr. Facing-Both-Ways! Mr. Facing-Both-Ways has no [[history]].
-Happy is the country that has no [[history]]; and happy, you may say,
-is the man who has no [[history]]; and Mr. Facing-Both-Ways in
-The [[Pilgrim]]'s Progress is that man."
+Peacemaker, Mr. Facing-Both-Ways! Mr. Facing-Both-Ways has no [[concepts/history|history]].
+Happy is the country that has no [[concepts/history|history]]; and happy, you may say,
+is the man who has no [[concepts/history|history]]; and Mr. Facing-Both-Ways in
+The [[archetypes/pilgrim|Pilgrim]]'s Progress is that man."
 
 Bunyan, by the way, does not even mention Mr. Facing-Both Ways'
 extraordinary historical feat of drafting the Twenty-seventh Article
@@ -174,11 +174,11 @@ for Elizabeth to deal with--Catholics and Puritans, for instance,
 quarrelling about Transubstantiation--Mr. Facing-Both Ways drafted
 an Article in two paragraphs.  The first paragraph affirmed
 the doctrine of Transubstantiation.  The second paragraph said it
-was an idle superstition.  Then [[Queen Elizabeth]] was able to say
+was an idle superstition.  Then [[characters/queen-elizabeth|Queen Elizabeth]] was able to say
 "Now you are all satisfied; and you must all attend the Church
-of England.  If you don't I will send you to [[Prison|prison]]."
+of England.  If you don't I will send you to [[motifs/prison|prison]]."
 
-But I am not for one moment going to [[debate]] the doctrine
+But I am not for one moment going to debate the doctrine
 of Transubstantiation.  I mention it only to shew, by the controversy
 between the Archbishop and the Bishop, that in most debates you
 will find two types of mind playing with the same subject.
@@ -190,7 +190,7 @@ or Grecian mind, and the Gothic mind--the Faustian mind as he,
 being a German, calls it.  And in this controversy you find
 that what is moving Bishop Barnes is a Grecian dislike of not
 knowing what it is he believes, and on the other side a Gothic
-instinctive feeling that it is perhaps just as [[Well|well]] not to know
+instinctive feeling that it is perhaps just as [[motifs/well|well]] not to know
 too distinctly.  I am not saying which is the better type of mind.
 I think on the whole both of them are pretty useful.
 But I always like to know what it is I am preaching.
@@ -212,8 +212,8 @@ of production, distribution, and exchange:  you will never get
 there if you begin with them.  You have to begin with the question
 of the distribution of wealth.
 
-The other day a man died and the [[government|Government]] took four
-and a half million pounds as [[Death|death]] duty on his property.
+The other day a man died and the Government took four
+and a half million pounds as [[motifs/death|death]] duty on his property.
 That man made all his money by the labour of men who received
 twenty-six shillings a week after years of qualifying for their work.
 Was that a reasonable distribution of wealth between them?
@@ -238,7 +238,7 @@ the peculiar constitution of my brain obliged me to find out
 exactly how far it was wrong and what is the right distribution.
 I went through all the proposals ever made and through the
 arguments used in justification of the existing distribution;
-and I found they were utterly insensate and [[Grotesque|grotesque]].
+and I found they were utterly insensate and [[concepts/grotesque|grotesque]].
 
 Eventually I was convinced that we ought to be tolerant
 of any sort of crime except unequal distribution of income.
@@ -253,17 +253,17 @@ On the stroke of the hour, I ask Mr. Chesterton:  "Do you
 agree with that?"
 
 MR. CHESTERTON:  Ladies and gentlemen.  The answer is in the negative.
-I don't agree with it.  Nor does Mr. [[Shaw]].  He does not think,
+I don't agree with it.  Nor does Mr. [[works/shaw-(chesterton)|Shaw]].  He does not think,
 any more than I do, that all the people in this hall, who have
 already created some confusion, should increase the confusion
 by killing each other and searching each other's pockets to see
-whether there is half-a-[[Crown|crown]] or two shillings in them.
+whether there is half-a-[[motifs/crown|crown]] or two shillings in them.
 As regards the general question, what I want to say is this:
 I should like to say to begin with that I have no intention of
-following Mr. [[Shaw]] into a discussion which would be very improper on
+following Mr. [[works/shaw-(chesterton)|Shaw]] into a discussion which would be very improper on
 my part on the condition of the Church of England.  But since he has
 definitely challenged me on the point I will say--he will not agree--
-that Mr. [[Shaw]] is indeed a peacemaker and has reconciled both sides.
+that Mr. [[works/shaw-(chesterton)|Shaw]] is indeed a peacemaker and has reconciled both sides.
 For if the Arch bishop is anti-intellectual there will be nobody
 to pretend that the Bishop is intellectual.
 
@@ -271,41 +271,41 @@ VOICE:  Yes he is.
 
 MR. CHESTERTON:  Now as to the much more interesting question,
 about a much more interesting person than Bishop Barnes--I mean
-Mr. [[Shaw]]--I should like to say that in a sense I can agree
+Mr. [[works/shaw-(chesterton)|Shaw]]--I should like to say that in a sense I can agree
 with him, in which case he can claim a complete victory.
-This is not a real controversy or [[debate]].  It is an enquiry,
-and I [[Hope|hope]] a profitable and interesting enquiry.  Up to a point
+This is not a real controversy or debate.  It is an enquiry,
+and I [[concepts/hope|hope]] a profitable and interesting enquiry.  Up to a point
 I quite agree with him, because I did start entirely by agreeing
 with him, as many years ago I began by being a Socialist,
 just as he was a Socialist.  Barring some difference of age we
-were in the same position.  We grew in [[Beauty|beauty]] side by side.
-I will not say literally we filled one [[Home|home]] with glee:
+were in the same position.  We grew in [[concepts/beauty|beauty]] side by side.
+I will not say literally we filled one [[motifs/home|home]] with glee:
 but I do believe we have filled a fair number of homes with glee.
 Whether those homes included our own personal households it
-is for others to say.  But up to a point I agreed with Mr. [[Shaw]]
+is for others to say.  But up to a point I agreed with Mr. [[works/shaw-(chesterton)|Shaw]]
 by being a Socialist, and I agreed upon grounds he has laid
 down with critical justice and lucidity, grounds which I can
-imagine nobody being such a [[Fool|fool]] as to deny:  the distribution
+imagine nobody being such a [[archetypes/fool|fool]] as to deny:  the distribution
 of property in the modern world is a monstrosity and a blasphemy.
 Thus I come to the important stage of the proceedings.
-I claim that I might agree with Mr. [[Shaw]] a step farther.
+I claim that I might agree with Mr. [[works/shaw-(chesterton)|Shaw]] a step farther.
 
 I have heard from nearly all the Socialists I have known,
-the phrase which Mr. [[Shaw]] has with characteristic
+the phrase which Mr. [[works/shaw-(chesterton)|Shaw]] has with characteristic
 artfulness avoided, a phrase which I think everyone will agree
-is common to collectivist [[philosophy]], and the phrase is this:
+is common to collectivist philosophy, and the phrase is this:
 "that the means of production should be owned by the community."
 I ask you to note that phrase because it is really upon that
 that the whole question turns.
 
-Now there is a sense in which I do agree with Mr. Bernard [[Shaw]].
+Now there is a sense in which I do agree with Mr. Bernard [[works/shaw-(chesterton)|Shaw]].
 There is a point up to which I would agree with that formula.
-So far as is possible under human conditions I should [[Desire|desire]]
+So far as is possible under human conditions I should [[motifs/desire|desire]]
 the community--or, as we used to call it in the old English language,
 The Commons--to own the means of production.  So far, I say,
-you have Mr. Bernard [[Shaw]] and me walking in fact side by side
+you have Mr. Bernard [[works/shaw-(chesterton)|Shaw]] and me walking in fact side by side
 in the flowery meads... But after that, alas! a change takes place.
-The change is owing to Mr. [[Shaw]]'s vast superiority, to his
+The change is owing to Mr. [[works/shaw-(chesterton)|Shaw]]'s vast superiority, to his
 powerful intellect.  It is not my fault if he has remained young,
 while I have grown in comparison wrinkled and haggard,
 old and experienced, and acquainted with the elementary facts
@@ -313,28 +313,28 @@ of human life.
 
 Now the first thing I want to note is this.  When you say the
 community ought to own the means of production, what do you mean?
-That is the whole point.  There was a [[Time|time]] when Mr. [[Shaw]] would probably
+That is the whole point.  There was a [[motifs/time|time]] when Mr. [[works/shaw-(chesterton)|Shaw]] would probably
 have said in all sincerity that anything possessed by the State
-or the [[government|Government]] would be in fact possessed by the Commons:
+or the Government would be in fact possessed by the Commons:
 in other words, by the community.  I do not wish to challenge
-Mr. [[Shaw]] about later remarks of his, but I [[Doubt|doubt]] whether Mr. [[Shaw]],
-in his eternal youth, still believes in [[democracy]] in that sense.
+Mr. [[works/shaw-(chesterton)|Shaw]] about later remarks of his, but I [[concepts/doubt|doubt]] whether Mr. [[works/shaw-(chesterton)|Shaw]],
+in his eternal youth, still believes in [[concepts/democracy|democracy]] in that sense.
 I quite admit he has a more hopeful and hearty outlook in some respects,
-and he has even gone to the length of saying that if [[democracy]]
+and he has even gone to the length of saying that if [[concepts/democracy|democracy]]
 will not do for mankind, perhaps it will do for some other
 creature different from mankind.  He has almost proposed to invent
 a new animal, which might be supposed to live for 300 years.
-I am inclined to think that if Mr. [[Shaw]] lived for 300 years--
-and I heartily [[Hope|hope]] he will--I never knew a man more likely to do it--
+I am inclined to think that if Mr. [[works/shaw-(chesterton)|Shaw]] lived for 300 years--
+and I heartily [[concepts/hope|hope]] he will--I never knew a man more likely to do it--
 he would certainly agree with me.  I would even undertake
-to prove it from the actual [[history]] of the last 300 years,
+to prove it from the actual [[concepts/history|history]] of the last 300 years,
 but though I think it is probable I will not insist upon it.
 As a very profound philosopher has said, "You never can tell."
-And it may be that Mr. [[Shaw]]'s immortal power of talking nonsense
+And it may be that Mr. [[works/shaw-(chesterton)|Shaw]]'s immortal power of talking nonsense
 would survive even that 300 years and he would still be fixed
 in his unnatural theories in the matter.
 
-Now I do not believe myself that Mr. [[Shaw]] thinks that the community,
+Now I do not believe myself that Mr. [[works/shaw-(chesterton)|Shaw]] thinks that the community,
 in the sense of that state which owns and rules, the thing
 that issues postage stamps and provides policemen, I do not
 believe he thinks that that community is now, at this moment,
@@ -347,7 +347,7 @@ machinery of officials and other things, you do in fact find that
 those who rule are the few.  It may be a good thing or a bad thing,
 but it is not true that all the people directly control.
 Collectivism has put all their eggs in one basket.
-I do not think that Mr. [[Shaw]] believes, or that anybody believes,
+I do not think that Mr. [[works/shaw-(chesterton)|Shaw]] believes, or that anybody believes,
 that 12,000,000 men, say, carry the basket, or look after the basket,
 or have any real distributed control over the eggs in the basket.
 I believe that it is controlled from the centre by a few people.
@@ -357,15 +357,15 @@ it is not the same as the Commons controlling the means of production.
 It is a few oligarchs or a few officials who do in fact control
 all the means of production.
 
-What Mr. [[Shaw]] means is not that all the people should control the means
+What Mr. [[works/shaw-(chesterton)|Shaw]] means is not that all the people should control the means
 of production, but that the product should be distributed among
 the vast mass of the Commons, and that is guide a different thing.
 It is not controlling the means of production at all.  If all the citizens
 had simply an equal share of the income of the State they would
 not have any control of the capital.  That is where G. K. Chesterton
-differs from George Bernard [[Shaw]].  I begin at the other end.
+differs from George Bernard [[works/shaw-(chesterton)|Shaw]].  I begin at the other end.
 I do not think that a community arranged on the principles of
-[[Distributism]] and on nothing else would be a perfect community.
+[[concepts/distributism|Distributism]] and on nothing else would be a perfect community.
 All admit that the society that we propose is more a matter
 of proportion and arrangement than a perfectly clear system in
 which all production is pooled and the result given out in wages.
@@ -379,10 +379,10 @@ Even a man who owns his own tools or works in his own workshop,
 to that extent owns and controls the means of production.
 
 But if you establish right in the middle of the State one
-enormous [[Machine|machine]], if you turn the handle of that [[Machine|machine]],
+enormous [[motifs/machine|machine]], if you turn the handle of that [[motifs/machine|machine]],
 and somebody, who must be an official, and therefore a ruler,
 distributes to everybody equally the food or whatever else is produced
-by that [[Machine|machine]], no single one of any of these people receiving
+by that [[motifs/machine|machine]], no single one of any of these people receiving
 more than any other single person, but all equal fragments:
 that fulfils a definite ideal of equality, yet no single one
 of those citizens has any control over the means of production.
@@ -406,10 +406,10 @@ of the passive mood.  It is easy enough to say Property should
 be distributed, but who is, as it were, the subject of the verb?
 Who or what is to distribute?  Now it is based on the idea
 that the central power which condescends to distribute will be
-permanently just, wise, sane, and representative of the [[Conscience|conscience]]
+permanently just, wise, sane, and representative of the [[concepts/conscience|conscience]]
 of the community which has created it.
 
-That is what we [[Doubt|doubt]].  We say there ought to be in the world
+That is what we [[concepts/doubt|doubt]].  We say there ought to be in the world
 a great mass of scattered powers, privileges, limits, points
 of resistance, so that the mass of the Commons may resist tyranny.
 And we say that there is a permanent possibility of that
@@ -428,7 +428,7 @@ We say the method to be adopted is the other method.
 We admit, frankly, that our method is in a sense imperfect,
 and only in that sense illogical.  It is imperfect, or illogical,
 because it corresponds to the variety and differences of human life.
-Mr. [[Shaw]] is making abstract diagrams of triangles, squares.
+Mr. [[works/shaw-(chesterton)|Shaw]] is making abstract diagrams of triangles, squares.
 and circles; we are trying to paint a portrait, the portrait
 of a man.  We are trying to make our lines and colours follow
 the characteristics of the real object.  Man desires certain things.
@@ -442,10 +442,10 @@ we have already said.
 I do in that sense accept the propositions that the community should
 own the means of production, but I say that the Commons should own
 the means of production, and the only way to do that is to keep actual
-hold upon land.  Mr. Bernard [[Shaw]] proposes to distribute wealth.
+hold upon land.  Mr. Bernard [[works/shaw-(chesterton)|Shaw]] proposes to distribute wealth.
 We propose to distribute power.
 
-MR. [[Shaw|SHAW]]:  I cannot say that Mr. Chesterton has succeeded in forcing
+MR. SHAW:  I cannot say that Mr. Chesterton has succeeded in forcing
 a difference of opinion on me.  There are, I suppose, at least some
 people in this room who have heard me orating on this platform at
 lectures of the Fabian Society, and they must have been considerably
@@ -478,7 +478,7 @@ this meeting.  What was the very first thing the League said must
 be done?  It said the coal-mines must be nationalized.  Instead of saying
 that the miner's means of production must he made his own property,
 it was forced to advocate making national property of the coal mines.
-These coal-mines, when nationalized, will not be managed by the [[house|House]]
+These coal-mines, when nationalized, will not be managed by the House
 of Commons:  if they were you would very soon have no coal.
 But neither will they be managed by the miners.  If you ask the man
 working in the mine to manage the mine he will say, "Not me, governor!
@@ -491,7 +491,7 @@ talking as though the means of production were machines.
 I submit to you that the real means of production in this
 country are men and women, and that consequently you always
 have the maximum control of the individual over the means
-of production, because it means [[Self|self]]-control over his own person.
+of production, because it means [[concepts/self|self]]-control over his own person.
 But he must surrender that control to the manager of the mine
 because he does not know how to manage it himself.
 Under the present capitalistic system he has to surrender it
@@ -512,7 +512,7 @@ to the nationalization of everything else.
 I have to allow for the pressure of facts because, as a playwright,
 I think of all problems in terms of actual men and women.
 Mr. Chesterton lets himself idealize them sometimes as virtuous
-peasant proprietors and [[Self|self]]-managing petty capitalists.
+peasant proprietors and [[concepts/self|self]]-managing petty capitalists.
 
 The capitalist and the landlord have their own particular ways
 of robbing the poor; but their legal rights are quite different.
@@ -520,15 +520,15 @@ It is a very direct way on the part of the landlord.
 He may do exactly what he likes with the land he owns.
 If I own a large part of Scotland I can turn the people
 off the land practically into the sea, or across the sea.
-I can take women in [[Child|child]]-bearing and throw them into
-the [[Snow|snow]] and leave them there.  That has been done.
+I can take women in [[archetypes/child|child]]-bearing and throw them into
+the [[motifs/snow|snow]] and leave them there.  That has been done.
 I can do it for no better reason than I think it is better
 to shoot deer on the land than allow people to live on it.
 They might frighten the deer.
 
 But now compare that with the ownership of my umbrella.  As a matter
-of fact the umbrella I have to-[[Night|night]] belongs to my wife; but I think
-she will permit me to call it mine for the purpose of the [[debate]].
+of fact the umbrella I have to-[[motifs/night|night]] belongs to my wife; but I think
+she will permit me to call it mine for the purpose of the debate.
 Now I have a very limited legal right to the use of that umbrella.
 I cannot do as I like with it.  For instance, certain passages
 in Mr. Chesterton's speech tempted me to get up and smite him over
@@ -566,17 +566,17 @@ as a malefactor, than in treating a murderer as a malefactor?
 Having said that much about the property part of the business,
 1 think I have succeeded in establishing that Mr. Chesterton does
 not disagree with me.  I should like to say I do not believe
-in [[democracy|Democracy]].  I do believe in Catholicism; but I hold that the
+in [[concepts/democracy|Democracy]].  I do believe in Catholicism; but I hold that the
 Irish Episcopal Protestant Church, of which I was baptized a member,
 takes the name of Catholicism in vain; that the Roman Church has
 also taken it in vain; and so with the Greek Church and the rest.
 My Catholicism is really catholic Catholicism:  that is what I
-believe in, as apart from this voting business and [[democracy]].
+believe in, as apart from this voting business and [[concepts/democracy|democracy]].
 Does Mr. Chesterton agree with me on that?
 
 MR. CHESTERTON:  Among the bewildering welter of fallacies which
-Mr. [[Shaw]] has just given us, I prefer to deal first with the simplest.
-When Mr. [[Shaw]] refrains from hitting me over the head with his umbrella,
+Mr. [[works/shaw-(chesterton)|Shaw]] has just given us, I prefer to deal first with the simplest.
+When Mr. [[works/shaw-(chesterton)|Shaw]] refrains from hitting me over the head with his umbrella,
 the real reason--apart from his real kindness of heart, which makes
 him tolerant of the humblest of the creatures of God--is not because
 he does not own his umbrella, but because he does not own my head.
@@ -585,8 +585,8 @@ to use it to the confutation of some of his other fallacies.
 
 I should like to say now what I ought perhaps to have
 said earlier in the evening, that we are enormously
-grateful to Mr. [[Shaw]] for his characteristic generosity
-in consenting to [[debate]] with a humble movement like our own.
+grateful to Mr. [[works/shaw-(chesterton)|Shaw]] for his characteristic generosity
+in consenting to debate with a humble movement like our own.
 I am so conscious of that condescension on his part that I should
 feel it a very unfair return to ask him to read any of our potty
 little literature or cast his eye over our little weekly paper
@@ -607,7 +607,7 @@ and sane people, and they have always recognized that there are
 institutions in the State in which it is very difficult to apply
 the principle of individual property, and that one of these
 cases is the discovery under the earth of valuable minerals.
-Socialists are not [[Alone|alone]] in believing this.  Charles I, who,
+Socialists are not alone in believing this.  Charles I, who,
 I suppose, could not be called a Socialist, pointed out that
 certain kinds of minerals ought to belong to the State, that is,
 to the Commons.  We have said over and over again that we support
@@ -621,26 +621,26 @@ If there were a way in which a miner could mark out one particular
 piece of coal and say, "This is mine, and I am proud of it,"
 we should have made an enormous improvement upon State management.
 There are cases in which it is very difficult to apply the principle,
-and that is one of them.  It is the reverse of the [[Truth|truth]] for Mr. [[Shaw]]
-to say that the [[logic]] of that fact will lead me to the application
+and that is one of them.  It is the reverse of the [[concepts/truth|truth]] for Mr. [[works/shaw-(chesterton)|Shaw]]
+to say that the logic of that fact will lead me to the application
 of the same principle to other cases, like the ownership of the land.
 One could not illustrate it better than by the case of coal.
 It may be true for all I know that if you ask a miner
 if he would like to manage the mine he would say, "I do not
 want to manage it; it is for my betters to manage it."
 I had not noticed that meek and simple manner among miners.
-I have even heard complaints of the opposite temper in that [[Body|body]].
-I defy Mr. [[Shaw]] to say if you went to the Irish farmers,
+I have even heard complaints of the opposite temper in that [[concepts/body|body]].
+I defy Mr. [[works/shaw-(chesterton)|Shaw]] to say if you went to the Irish farmers,
 or the French farmers, or the Serbian or the Dutch farmers, or any
 of the millions of peasant owners throughout the world, I defy him
 to say if you went to the farmer and said, "Who controls these farms?'"
 he would say, "It is not for the likes of me to control a farm."
-Mr. [[Shaw]] knows perfectly [[Well|well]] it is nonsense to suggest
+Mr. [[works/shaw-(chesterton)|Shaw]] knows perfectly [[motifs/well|well]] it is nonsense to suggest
 that peasants would talk that way anywhere.  It is part of his
 complaints against peasants that they claim personal possessions.
 I am not likely to be led to the denial of property in land, for I
 know ordinary normal people who feel property in land to be normal.
-I fully agree with Mr. [[Shaw]], and speak as strongly as he would speak,
+I fully agree with Mr. [[works/shaw-(chesterton)|Shaw]], and speak as strongly as he would speak,
 of the abomination and detestable foulness and sin of landlords
 who drove poor people from their land in Scotland and elsewhere.
 It is quite true that men in possession of land have
@@ -652,14 +652,14 @@ abominably outraged and oppressed, if you asked them what
 they want would probably say, "I want to own my own croft;
 I want to own my own land."
 
-Mr. [[Shaw]]'s dislike of the landlord is not so much a denial of
+Mr. [[works/shaw-(chesterton)|Shaw]]'s dislike of the landlord is not so much a denial of
 the right to private property.  not so much that he owns the land,
 but that the landlord has swallowed up private property.  In the face
 of these facts of millions and millions of ordinary human beings
 who have private property, who know what it is like to own property,
-I must confess that I am not overwhelmed and crushed by Mr. [[Shaw]]'s
+I must confess that I am not overwhelmed and crushed by Mr. [[works/shaw-(chesterton)|Shaw]]'s
 claim that he knows all about men and women as they really are.
-I think Mr. [[Shaw]] knows something about certain kinds of men and women;
+I think Mr. [[works/shaw-(chesterton)|Shaw]] knows something about certain kinds of men and women;
 though he sometimes makes them a little more amusing than they
 really are.  But I cannot agree with his discovery that peasants do
 not like peasant property, because I know the reverse is the fact.
@@ -671,20 +671,20 @@ are issued by an official group.  Up to a point I willingly accept
 his argument.  The Distributist is certainly not an anarchist.
 He does not believe it would be a good thing if there were no
 such laws.  But the reason why most of these laws are accepted
-is because they correspond with the common [[Conscience|conscience]] of mankind.
-Mr. [[Shaw]] and Bishop Barnes might think it would be an inadequate way
+is because they correspond with the common [[concepts/conscience|conscience]] of mankind.
+Mr. [[works/shaw-(chesterton)|Shaw]] and Bishop Barnes might think it would be an inadequate way
 of explaining it, but we might call attention to an Hebraic code
 called the Ten Commandments.  They do, I think, correspond pretty
 roughly to the moral code of every religion that is at all sane.
 These all reverence certain ideas about "Thou shalt not kill."
 They all have a reverence for the commandment which says,
 "Thou shalt not covet thy neighbour's goods."  They reverence
-the idea that you must not covet his [[house]] or his ox or his ass.
+the idea that you must not covet his house or his ox or his ass.
 It should be noted, too, that besides forbidding us to covet our
 neighbour's property, this commandment also implies that every
 man has a right to own some property.
 
-MR. [[Shaw|SHAW]]:  I now want to ask Mr. Chesterton why he insists,
+MR. SHAW:  I now want to ask Mr. Chesterton why he insists,
 on the point about the nationalization of the coal-mines--on which
 he agrees with me--that they are an exception.  Are they an exception?
 In what way are the coal-mines an exception?  What is the fundamental
@@ -699,7 +699,7 @@ find you have to go through workings driven out under the sea,
 which took 20 years to make, 20 years continual expenditure
 of capital before coal could be touched, where men going down
 the shaft have to travel sometimes two or three miles to their work.
-That is the reason at [[Bottom|bottom]] why you cannot distribute your coal mine.
+That is the reason at [[characters/bottom|bottom]] why you cannot distribute your coal mine.
 The reason you have to pay such monstrous prices for your coal
 is they are fixed by the cost of making the submarine mines.
 People who have mines like the Sunderland foreshore naturally make
@@ -716,7 +716,7 @@ are within half-an-hour's drive in a taxi.
 You cannot say that the coal-mine is an exception.
 The coal-mine is only one instance.  Mr. Chesterton in arriving at
 the necessity for the nationalization of the coal-mines has started
-on his [[Journey|journey]] towards the nationalization of all the industries.
+on his [[motifs/journey|journey]] towards the nationalization of all the industries.
 If he goes on to the land, and from the land to the factory,
 and from there to every other industrial department, he will
 find that every successive case is an exception; and eventually
@@ -761,11 +761,11 @@ you cannot split up the land and give every person a bit of property.
 
 I have stolen two minutes from Mr. Chesterton, and I apologise.
 
-MR. CHESTERTON:  I am sure Mr. [[Shaw]] is very welcome
+MR. CHESTERTON:  I am sure Mr. [[works/shaw-(chesterton)|Shaw]] is very welcome
 to as many minutes as I can offer him, or anything else,
 for his kindness in entertaining us this evening.
-It is rather late now and there is not much [[Time|time]] left for me.
-He has been rather slow in discovering what [[Distributism]] is and
+It is rather late now and there is not much [[motifs/time|time]] left for me.
+He has been rather slow in discovering what [[concepts/distributism|Distributism]] is and
 what the whole question is about.  If this were the beginning
 of the discussion I could do over our system completely.
 I could tell him exactly what we think about property in towns.
@@ -774,28 +774,28 @@ It is absurd to say it does not exist.
 In rural ownership different problems have to be faced.
 We are not cutting a thing up into mathematical squares.
 We are trying to deal with human beings, creatures quite
-outside the purview of Mr. [[Shaw]] and his political [[philosophy]].
+outside the purview of Mr. [[works/shaw-(chesterton)|Shaw]] and his political philosophy.
 We know town people are a little different from country people;
 business of one kind is different from business of another kind;
 difficulties arise about family, and all the rest of it.
-We show man's irrepressible [[Desire|desire]] to own property and because some
+We show man's irrepressible [[motifs/desire|desire]] to own property and because some
 landlords have been cruel, it is no use talking of abolishing,
 denying, and destroying property, saying no one shall have any
 property at all.  It is characteristic of his school, of his age.
-The [[morality]] he represents is above all the [[morality]] of negations.
+The morality he represents is above all the morality of negations.
 Just as it says you must not drink wine at all as the only
 solution to a few people drinking too much:  just as it
 would say you must not touch meat or smoke tobacco at all.
-Let us always remember, therefore, that when Mr. [[Shaw]] says he can
+Let us always remember, therefore, that when Mr. [[works/shaw-(chesterton)|Shaw]] says he can
 persuade all men to give up the sentiment of private property,
 it is in exactly the same hopeful spirit that he says he will get
 all of you to give up meat, tobacco, beer, and a vast number
 of other things.  He will not do anything of the sort and I
-suspect he himself suspects by this [[Time|time]] that he will not do it.
+suspect he himself suspects by this [[motifs/time|time]] that he will not do it.
 It is quite false to say you must have a centralised machinery,
 even in towns.  It is quite false to say that all forces
 must be used, as they are in monopolies, from the centre.
-It is absurd to say that because the [[Wind|wind]] is a central thing you cannot
+It is absurd to say that because the [[motifs/wind|wind]] is a central thing you cannot
 separate windmills.  How am I to explain all that in five minutes?
 I could go through a vast number of fallacies into which he has fallen.
 He said, ironically, he would like to see me go down a mine.
@@ -812,20 +812,20 @@ that they are antiquated, covered with hoary superstition.
 Why have they remained through all these centuries, if they must
 immediately break up and become impossible?  There is an answer
 to all that and I am quite prepared to give it at some greater
-length than five minutes.  But at no [[Time|time]] did I say that we must
+length than five minutes.  But at no [[motifs/time|time]] did I say that we must
 make the whole community a community of agricultural peasants.
-It is absurd.  What I said was that a [[Desire|desire]] for property which
+It is absurd.  What I said was that a [[motifs/desire|desire]] for property which
 is universal, everywhere, does appear in a perfect and working example
 in the ownership of land.  It only remains for me to say one thing.
-Mr. [[Shaw]] said, in reference to the State owning the means of production,
+Mr. [[works/shaw-(chesterton)|Shaw]] said, in reference to the State owning the means of production,
 that men and women are the only means of production.  I quite accept
-the parallel of the phrase.  His proposition is that the [[government]],
+the parallel of the phrase.  His proposition is that the government,
 the officials of the State, should own the men and women:
 in other words that the men and women should be slaves.
 
 MR. BELLOC:  I was told when I accepted this onerous office
 that I was to sum up.  I shall do nothing of the sort.
-In a very few years from now this [[debate]] will be antiquated.
+In a very few years from now this debate will be antiquated.
 I will now recite you a poem:
 
 "Our civilization
@@ -833,7 +833,7 @@ Is built upon coal.
 Let us chant in rotation
 Our civilization
 That lump of damnation
-Without any [[Soul|soul]],
+Without any [[motifs/soul|soul]],
 Our civilization
 Is built upon coal.
 
@@ -841,12 +841,12 @@ Is built upon coal.
 It will float upon oil.
 Then give three hearty cheers,
 In a very few years
-We shall mop up our [[Tears|tears]]
+We shall mop up our [[motifs/tears|tears]]
 And have done with our toil.
 In a very few years
 It will float upon oil."
 
-In I do not know how many years--five, ten, twenty--this [[debate]]
+In I do not know how many years--five, ten, twenty--this debate
 will be as antiquated as crinolines are.  I am surprised that
 neither of the two speakers pointed out that one of three things
 is going to happen.  One of three things:  not one of two.
@@ -855,8 +855,8 @@ thank God, oppresses only the small part of the world in which we
 are most inextricably bound up, will break down and therefore
 end from its monstrous wickedness, folly, ineptitude,
 leading to a restoration of sane, ordinary human affairs,
-complicated but based as a whole upon the [[Freedom|freedom]] of the citizens.
-Or it will break down and lead to nothing but a [[Desert|desert]].
+complicated but based as a whole upon the [[concepts/freedom|freedom]] of the citizens.
+Or it will break down and lead to nothing but a [[motifs/desert|desert]].
 Or it will lead the mass of men to become contented slaves,
 with a few rich men controlling them.  Take your choice.
 You will all be dead before any of the three things comes off.
@@ -876,7 +876,7 @@ A PREFATORY NOTE
 
 In justice to all concerned I feel it to be my duty to state frankly
 that this account of a public discussion between Mr. Chesterton
-and Mr. [[Shaw]] is something less than a verbatim report.
+and Mr. [[works/shaw-(chesterton)|Shaw]] is something less than a verbatim report.
 But with some assistance from the debaters it has been possible
 to save enough from oblivion to justify publication.
 
@@ -890,7 +890,7 @@ UNA NOTA PREFATORIA
 
 Per giustizia verso tutti gli interessati, sento il dovere di dichiarare francamente
 che questo resoconto di una pubblica discussione tra il signor Chesterton
-e il signor [[Shaw]] è qualcosa di meno di un resoconto testuale.
+e il signor [[works/shaw-(chesterton)|Shaw]] è qualcosa di meno di un resoconto testuale.
 Ma con qualche aiuto da parte dei contendenti è stato possibile
 salvare dall'oblio quanto basta a giustificarne la pubblicazione.
 
@@ -901,38 +901,38 @@ salvare dall'oblio quanto basta a giustificarne la pubblicazione.
 
 CECIL PALMER
 
-[[London]], 1928
+[[settings/london|London]], 1928
 
 * * *
 DO WE AGREE?
 
-MR. BELLOC:  I am here to take the chair in the [[debate]] between two
-men whom you [[Desire|desire]] to hear more than you could possibly [[Desire|desire]]
-to hear me.  They will [[debate]] whether they agree or do not agree.
+MR. BELLOC:  I am here to take the chair in the debate between two
+men whom you [[motifs/desire|desire]] to hear more than you could possibly [[motifs/desire|desire]]
+to hear me.  They will debate whether they agree or do not agree.
 From what I know of attempts at agreement between human beings there
-is a prospect of a very pretty fight.  When men [[debate]] agreement between
+is a prospect of a very pretty fight.  When men debate agreement between
 nations then you may be certain a disastrous war is on the horizon.
 I make an exception for the League of Nations, of which I know nothing.
 If the League of Nations could make a war it would be the only thing
 it ever has made.
 
 I do not know what Mr. Chesterton is going to say.
-I do not know what Mr. [[Shaw]] is going to say.  If I did I
+I do not know what Mr. [[works/shaw-(chesterton)|Shaw]] is going to say.  If I did I
 would not say it for them.  I vaguely gather from what I have
 heard that they are going to try to discover a principle:
 whether men should be free to possess private means, as is
-Mr. [[Shaw]], as is Mr. Chesterton; or should be, like myself,
+Mr. [[works/shaw-(chesterton)|Shaw]], as is Mr. Chesterton; or should be, like myself,
 an embarrassed person, a publishers' hack.  I could tell them;
 but my mouth is shut.  I am not allowed to say what I think.
-At any rate, they are going to [[debate]] this sort of thing.
-I know not what more to say They are about to [[debate]].
+At any rate, they are going to debate this sort of thing.
+I know not what more to say They are about to debate.
 You are about to listen.  I am about to sneer.
 
-MR. [[Shaw|SHAW]]:  Mr. Belloc, and Ladies and Gentlemen.  Our subject
+MR. SHAW:  Mr. Belloc, and Ladies and Gentlemen.  Our subject
 this evening, "Do We Agree?" was an inspiration of Mr. Chesterton's. Some
-of you might reasonably [[Wonder|wonder]], if we agree, what we are going
-to [[debate]] about.  But I suspect that you do not really care
-much what we [[debate]] about provided we entertain you by talking
+of you might reasonably [[concepts/wonder|wonder]], if we agree, what we are going
+to debate about.  But I suspect that you do not really care
+much what we debate about provided we entertain you by talking
 in our characteristic manners.
 
 The reason for this, though you may not know it--and it is my business to
@@ -977,12 +977,12 @@ but let us not forget that they are madmen."
 In this country they say "Let us listen to these amusing chaps.
 They are perfectly sane, which we obviously are not."
 Now there must be some reason for shewing us all this consideration.
-There must be some force in [[Nature|nature]] which...
+There must be some force in [[concepts/nature|nature]] which...
 
-(At this point the [[debate]] was interrupted by persistent knocking at
+(At this point the debate was interrupted by persistent knocking at
 the doors by ticket-holders who had, through some misunderstanding,
 been locked out.  On the chairman's intervention the doors were opened,
-and order was restored Mr. [[Shaw]] then proceeded.)
+and order was restored Mr. [[works/shaw-(chesterton)|Shaw]] then proceeded.)
 
 Ladies and Gentlemen, I must go on because, as you see, if I don't
 begin to talk everybody else does.  Now I was speaking of the curious
@@ -998,7 +998,7 @@ Reject all the contradictory things they say and concentrate
 your attention on the things upon which they agree, and you may
 be listening to the voice of revelation.
 
-You will do [[Well|well]] to-[[Night|night]] to listen attentively, because probably
+You will do [[motifs/well|well]] to-[[motifs/night|night]] to listen attentively, because probably
 what is urging us to these utterances is not personal to ourselves
 but some conclusion to which all mankind is moving either by reason
 or by inspiration.  The mere fact that Mr. Chesterton and 1 may agree
@@ -1009,9 +1009,9 @@ the liberty I am taking or because they do not like the words I
 use or the twist of my mind; but they are the people who quarrel
 most with me.
 
-You have at this moment a typical [[debate]] raging in the Press.  You have
+You have at this moment a typical debate raging in the Press.  You have
 a very pretty controversy going on in the Church of England between
-the Archbishop of Canterbury and the Bishop of Birmingham.  I [[Hope|hope]]
+the Archbishop of Canterbury and the Bishop of Birmingham.  I [[concepts/hope|hope]]
 you have all read the admirable letter of the Archbishop
 of Canterbury.  Everybody is pleased with that letter.
 It has the enormous virtue of being entirely good-humoured,
@@ -1023,31 +1023,31 @@ letter is a heartfelt appeal for ambiguity.  You can imagine
 the Archbishop of Canterbury, if he were continuing the controversy
 in private, saying to the Bishop of Birmingham:  "Now, my
 dear Barnes, let me recommend you to read that wonderful book,
-the [[Pilgrim]]'s Progress.  Read the [[history]] of the [[Hero|hero]], Christian,
-no [[Doubt|doubt]] a very splendid fellow, and from the literary point
-of view the only [[Hero|hero]] of romantic fiction resembling a real man.
+the [[archetypes/pilgrim|Pilgrim]]'s Progress.  Read the [[concepts/history|history]] of the [[archetypes/hero|hero]], Christian,
+no [[concepts/doubt|doubt]] a very splendid fellow, and from the literary point
+of view the only [[archetypes/hero|hero]] of romantic fiction resembling a real man.
 But he is always fighting.  He is out of one trouble into another.
 He is leading a terrible life.  How different to that great
-Peacemaker, Mr. Facing-Both-Ways! Mr. Facing-Both-Ways has no [[history]].
-Happy is the country that has no [[history]]; and happy, you may say,
-is the man who has no [[history]]; and Mr. Facing-Both-Ways in
-The [[Pilgrim]]'s Progress is that man."
+Peacemaker, Mr. Facing-Both-Ways! Mr. Facing-Both-Ways has no [[concepts/history|history]].
+Happy is the country that has no [[concepts/history|history]]; and happy, you may say,
+is the man who has no [[concepts/history|history]]; and Mr. Facing-Both-Ways in
+The [[archetypes/pilgrim|Pilgrim]]'s Progress is that man."
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 CECIL PALMER
 
-[[London|Londra]], 1928
+[[settings/london|Londra]], 1928
 
 * * *
 SIAMO D'ACCORDO?
 
-IL SIGNOR BELLOC:  Sono qui per presiedere il [[debate|dibattito]] fra due uomini che voi [[Desire|desiderate]] ascoltare più di quanto possiate mai [[Desire|desiderare]] di ascoltare me. Essi discuteranno se sono d'accordo o non sono d'accordo. Da quel che so dei tentativi di accordo tra esseri umani, c'è la prospettiva di una lite assai graziosa. Quando gli uomini discutono di accordi fra le nazioni, allora potete star certi che una guerra disastrosa è all'orizzonte. Faccio un'eccezione per la Società delle Nazioni, di cui non so nulla. Se la Società delle Nazioni riuscisse a fare una guerra, sarebbe l'unica cosa che abbia mai fatto.
+IL SIGNOR BELLOC:  Sono qui per presiedere il dibattito fra due uomini che voi [[motifs/desire|desiderate]] ascoltare più di quanto possiate mai [[motifs/desire|desiderare]] di ascoltare me. Essi discuteranno se sono d'accordo o non sono d'accordo. Da quel che so dei tentativi di accordo tra esseri umani, c'è la prospettiva di una lite assai graziosa. Quando gli uomini discutono di accordi fra le nazioni, allora potete star certi che una guerra disastrosa è all'orizzonte. Faccio un'eccezione per la Società delle Nazioni, di cui non so nulla. Se la Società delle Nazioni riuscisse a fare una guerra, sarebbe l'unica cosa che abbia mai fatto.
 
-Non so che cosa dirà il signor Chesterton. Non so che cosa dirà il signor [[Shaw]]. E se lo sapessi, non lo direi al posto loro. Da quel che ho sentito arguisco vagamente che cercheranno di scoprire un principio: se gli uomini debbano essere liberi di possedere mezzi privati, come lo è il signor [[Shaw]], come lo è il signor Chesterton; oppure debbano essere, come me, una persona indigente, un manovale al servizio degli editori. Potrei dirvelo io; ma ho la bocca cucita. Non mi è consentito dire ciò che penso. In ogni caso, discuteranno di questo genere di cose. Non so che altro dire. Stanno per discutere. Voi state per ascoltare. Io sto per sogghignare.
+Non so che cosa dirà il signor Chesterton. Non so che cosa dirà il signor [[works/shaw-(chesterton)|Shaw]]. E se lo sapessi, non lo direi al posto loro. Da quel che ho sentito arguisco vagamente che cercheranno di scoprire un principio: se gli uomini debbano essere liberi di possedere mezzi privati, come lo è il signor [[works/shaw-(chesterton)|Shaw]], come lo è il signor Chesterton; oppure debbano essere, come me, una persona indigente, un manovale al servizio degli editori. Potrei dirvelo io; ma ho la bocca cucita. Non mi è consentito dire ciò che penso. In ogni caso, discuteranno di questo genere di cose. Non so che altro dire. Stanno per discutere. Voi state per ascoltare. Io sto per sogghignare.
 
-IL SIGNOR [[Shaw|SHAW]]:  Signor Belloc, e Signore e Signori. Il nostro tema di questa sera, "Siamo d'accordo?", è stato un'ispirazione del signor Chesterton. Alcuni di voi potrebbero ragionevolmente [[Wonder|domandarsi]], se siamo d'accordo, di che cosa mai discuteremo. Ma sospetto che a voi non importi granché di che cosa discutiamo, purché vi intratteniamo parlando alle nostre maniere caratteristiche.
+IL SIGNOR SHAW:  Signor Belloc, e Signore e Signori. Il nostro tema di questa sera, "Siamo d'accordo?", è stato un'ispirazione del signor Chesterton. Alcuni di voi potrebbero ragionevolmente [[concepts/wonder|domandarsi]], se siamo d'accordo, di che cosa mai discuteremo. Ma sospetto che a voi non importi granché di che cosa discutiamo, purché vi intratteniamo parlando alle nostre maniere caratteristiche.
 
 La ragione di ciò, benché forse non lo sappiate—ed è compito mio dirvelo—è che il signor Chesterton e io siamo due pazzi. Invece di fare un lavoro onesto e rispettabile e di comportarci come cittadini ordinari, andiamo in giro per il mondo posseduti da uno strano dono delle lingue—nel mio caso quasi esclusivamente limitato alla lingua inglese—pronunciando ogni sorta di opinioni straordinarie senza alcuna ragione.
 
@@ -1059,15 +1059,15 @@ Curioso, non è vero, che noi andiamo in giro a fare queste cose e veniamo tolle
 
 Evidentemente siamo pazzi; e in Oriente saremmo venerati come pazzi. La saggezza dell'Oriente dice: "Ascoltiamo attentamente questi uomini; ma non dimentichiamo che sono pazzi."
 
-In questo paese dicono: "Ascoltiamo questi tipi divertenti. Sono perfettamente sani di mente, cosa che noi evidentemente non siamo." Ora, ci deve pur essere qualche ragione per mostrarci tutta questa considerazione. Ci deve essere qualche forza nella [[Nature|natura]] che...
+In questo paese dicono: "Ascoltiamo questi tipi divertenti. Sono perfettamente sani di mente, cosa che noi evidentemente non siamo." Ora, ci deve pur essere qualche ragione per mostrarci tutta questa considerazione. Ci deve essere qualche forza nella [[concepts/nature|natura]] che...
 
-(A questo punto il [[debate|dibattito]] fu interrotto da un insistente bussare alle porte da parte dei possessori di biglietto che, per un qualche malinteso, erano rimasti chiusi fuori. Su intervento del presidente le porte furono aperte, e l'ordine fu ripristinato. Il signor [[Shaw]] proseguì allora.)
+(A questo punto il dibattito fu interrotto da un insistente bussare alle porte da parte dei possessori di biglietto che, per un qualche malinteso, erano rimasti chiusi fuori. Su intervento del presidente le porte furono aperte, e l'ordine fu ripristinato. Il signor [[works/shaw-(chesterton)|Shaw]] proseguì allora.)
 
 Signore e Signori, devo continuare perché, come vedete, se non comincio a parlare io, comincia chiunque altro. Ebbene, parlavo del curioso rispetto in cui i pazzi sono tenuti in Oriente e in questo paese. Ciò a cui volevo arrivare è questo: che conta assai poco su quali punti essi divergano; hanno ogni sorta di aberrazioni che sorgono dalle loro circostanze personali, dalla loro educazione, dalla loro conoscenza o ignoranza. Ma se li ascoltate attentamente e trovate che su certi punti concordano, allora avete qualche ragione per supporre che qui stia trapelando lo spirito del tempo, che vi dà un messaggio ispirato. Respingete tutte le cose contraddittorie che dicono e concentrate la vostra attenzione sulle cose sulle quali concordano, e potreste star ascoltando la voce della rivelazione.
 
-Farete [[Well|bene]] questa [[Night|notte]] ad ascoltare con attenzione, perché probabilmente ciò che ci spinge a queste dichiarazioni non è qualcosa di personale a noi stessi, ma qualche conclusione verso cui tutta l'umanità si muove per ragione o per ispirazione. Il mero fatto che il signor Chesterton e io possiamo concordare su un qualche punto può non impedirci affatto di dibatterlo appassionatamente. Trovo che le persone che si battono contro di me generalmente sostengono le medesime idee che io cerco di esprimere. Non so se sia perché risentono della libertà che mi prendo, o perché non gradiscono le parole che uso o la piega della mia mente; ma sono proprio loro le persone che più litigano con me.
+Farete [[motifs/well|bene]] questa [[motifs/night|notte]] ad ascoltare con attenzione, perché probabilmente ciò che ci spinge a queste dichiarazioni non è qualcosa di personale a noi stessi, ma qualche conclusione verso cui tutta l'umanità si muove per ragione o per ispirazione. Il mero fatto che il signor Chesterton e io possiamo concordare su un qualche punto può non impedirci affatto di dibatterlo appassionatamente. Trovo che le persone che si battono contro di me generalmente sostengono le medesime idee che io cerco di esprimere. Non so se sia perché risentono della libertà che mi prendo, o perché non gradiscono le parole che uso o la piega della mia mente; ma sono proprio loro le persone che più litigano con me.
 
-Avete in questo momento un tipico [[debate|dibattito]] che infuria sulla Stampa. Avete una controversia assai graziosa in corso nella Chiesa d'Inghilterra fra l'Arcivescovo di Canterbury e il Vescovo di Birmingham. [[Hope|Spero]] che abbiate letto tutti l'ammirevole lettera dell'Arcivescovo di Canterbury. Quella lettera piace a tutti. Ha l'enorme pregio di essere interamente bonaria, di cercare di fare la pace, di evitare di seminare zizzania: una popolare virtù inglese che fa onore alla razza inglese. Ma ha un'altra qualità inglese un po' più discutibile, ed è la qualità di essere interamente anti-intellettuale. La lettera è un accorato appello all'ambiguità. Potete immaginare l'Arcivescovo di Canterbury, se proseguisse la controversia in privato, dire al Vescovo di Birmingham: "Ora, mio caro Barnes, permettete che vi raccomandi di leggere quel meraviglioso libro, il [[Pilgrim|Pilgrim]]'s Progress. Leggete la [[history|storia]] dell'[[Hero|eroe]], Christian, senza [[Doubt|dubbio]] un tipo assai splendido, e dal punto di vista letterario l'unico [[Hero|eroe]] della narrativa romantica che somigli a un uomo reale. Ma egli è sempre in lotta. Esce da un guaio per entrare in un altro. Conduce una vita terribile. Quanto diverso da quel grande Paciere, il signor Guardadaentrambeleparti! Il signor Guardadaentrambeleparti non ha [[history|storia]]. Felice il paese che non ha [[history|storia]]; e felice, potreste dire, l'uomo che non ha [[history|storia]]; e il signor Guardadaentrambeleparti nel The [[Pilgrim|Pilgrim]]'s Progress è quell'uomo."
+Avete in questo momento un tipico dibattito che infuria sulla Stampa. Avete una controversia assai graziosa in corso nella Chiesa d'Inghilterra fra l'Arcivescovo di Canterbury e il Vescovo di Birmingham. [[concepts/hope|Spero]] che abbiate letto tutti l'ammirevole lettera dell'Arcivescovo di Canterbury. Quella lettera piace a tutti. Ha l'enorme pregio di essere interamente bonaria, di cercare di fare la pace, di evitare di seminare zizzania: una popolare virtù inglese che fa onore alla razza inglese. Ma ha un'altra qualità inglese un po' più discutibile, ed è la qualità di essere interamente anti-intellettuale. La lettera è un accorato appello all'ambiguità. Potete immaginare l'Arcivescovo di Canterbury, se proseguisse la controversia in privato, dire al Vescovo di Birmingham: "Ora, mio caro Barnes, permettete che vi raccomandi di leggere quel meraviglioso libro, il [[archetypes/pilgrim|Pilgrim]]'s Progress. Leggete la [[concepts/history|storia]] dell'[[archetypes/hero|eroe]], Christian, senza [[concepts/doubt|dubbio]] un tipo assai splendido, e dal punto di vista letterario l'unico [[archetypes/hero|eroe]] della narrativa romantica che somigli a un uomo reale. Ma egli è sempre in lotta. Esce da un guaio per entrare in un altro. Conduce una vita terribile. Quanto diverso da quel grande Paciere, il signor Guardadaentrambeleparti! Il signor Guardadaentrambeleparti non ha [[concepts/history|storia]]. Felice il paese che non ha [[concepts/history|storia]]; e felice, potreste dire, l'uomo che non ha [[concepts/history|storia]]; e il signor Guardadaentrambeleparti nel The [[archetypes/pilgrim|Pilgrim]]'s Progress è quell'uomo."
 
 
 
@@ -1081,11 +1081,11 @@ for Elizabeth to deal with--Catholics and Puritans, for instance,
 quarrelling about Transubstantiation--Mr. Facing-Both Ways drafted
 an Article in two paragraphs.  The first paragraph affirmed
 the doctrine of Transubstantiation.  The second paragraph said it
-was an idle superstition.  Then [[Queen Elizabeth]] was able to say
+was an idle superstition.  Then [[characters/queen-elizabeth|Queen Elizabeth]] was able to say
 "Now you are all satisfied; and you must all attend the Church
-of England.  If you don't I will send you to [[Prison|prison]]."
+of England.  If you don't I will send you to [[motifs/prison|prison]]."
 
-But I am not for one moment going to [[debate]] the doctrine
+But I am not for one moment going to debate the doctrine
 of Transubstantiation.  I mention it only to shew, by the controversy
 between the Archbishop and the Bishop, that in most debates you
 will find two types of mind playing with the same subject.
@@ -1097,7 +1097,7 @@ or Grecian mind, and the Gothic mind--the Faustian mind as he,
 being a German, calls it.  And in this controversy you find
 that what is moving Bishop Barnes is a Grecian dislike of not
 knowing what it is he believes, and on the other side a Gothic
-instinctive feeling that it is perhaps just as [[Well|well]] not to know
+instinctive feeling that it is perhaps just as [[motifs/well|well]] not to know
 too distinctly.  I am not saying which is the better type of mind.
 I think on the whole both of them are pretty useful.
 But I always like to know what it is I am preaching.
@@ -1119,8 +1119,8 @@ of production, distribution, and exchange:  you will never get
 there if you begin with them.  You have to begin with the question
 of the distribution of wealth.
 
-The other day a man died and the [[government|Government]] took four
-and a half million pounds as [[Death|death]] duty on his property.
+The other day a man died and the Government took four
+and a half million pounds as [[motifs/death|death]] duty on his property.
 That man made all his money by the labour of men who received
 twenty-six shillings a week after years of qualifying for their work.
 Was that a reasonable distribution of wealth between them?
@@ -1145,7 +1145,7 @@ the peculiar constitution of my brain obliged me to find out
 exactly how far it was wrong and what is the right distribution.
 I went through all the proposals ever made and through the
 arguments used in justification of the existing distribution;
-and I found they were utterly insensate and [[Grotesque|grotesque]].
+and I found they were utterly insensate and [[concepts/grotesque|grotesque]].
 
 Eventually I was convinced that we ought to be tolerant
 of any sort of crime except unequal distribution of income.
@@ -1160,17 +1160,17 @@ On the stroke of the hour, I ask Mr. Chesterton:  "Do you
 agree with that?"
 
 MR. CHESTERTON:  Ladies and gentlemen.  The answer is in the negative.
-I don't agree with it.  Nor does Mr. [[Shaw]].  He does not think,
+I don't agree with it.  Nor does Mr. [[works/shaw-(chesterton)|Shaw]].  He does not think,
 any more than I do, that all the people in this hall, who have
 already created some confusion, should increase the confusion
 by killing each other and searching each other's pockets to see
-whether there is half-a-[[Crown|crown]] or two shillings in them.
+whether there is half-a-[[motifs/crown|crown]] or two shillings in them.
 As regards the general question, what I want to say is this:
 I should like to say to begin with that I have no intention of
-following Mr. [[Shaw]] into a discussion which would be very improper on
+following Mr. [[works/shaw-(chesterton)|Shaw]] into a discussion which would be very improper on
 my part on the condition of the Church of England.  But since he has
 definitely challenged me on the point I will say--he will not agree--
-that Mr. [[Shaw]] is indeed a peacemaker and has reconciled both sides.
+that Mr. [[works/shaw-(chesterton)|Shaw]] is indeed a peacemaker and has reconciled both sides.
 For if the Arch bishop is anti-intellectual there will be nobody
 to pretend that the Bishop is intellectual.
 
@@ -1178,24 +1178,24 @@ VOICE:  Yes he is.
 
 MR. CHESTERTON:  Now as to the much more interesting question,
 about a much more interesting person than Bishop Barnes--I mean
-Mr. [[Shaw]]--I should like to say that in a sense I can agree
+Mr. [[works/shaw-(chesterton)|Shaw]]--I should like to say that in a sense I can agree
 with him, in which case he can claim a complete victory.
-This is not a real controversy or [[debate]].  It is an enquiry,
-and I [[Hope|hope]] a profitable and interesting enquiry.  Up to a point
+This is not a real controversy or debate.  It is an enquiry,
+and I [[concepts/hope|hope]] a profitable and interesting enquiry.  Up to a point
 I quite agree with him, because I did start entirely by agreeing
 with him, as many years ago I began by being a Socialist,
 just as he was a Socialist.  Barring some difference of age we
-were in the same position.  We grew in [[Beauty|beauty]] side by side.
-I will not say literally we filled one [[Home|home]] with glee:
+were in the same position.  We grew in [[concepts/beauty|beauty]] side by side.
+I will not say literally we filled one [[motifs/home|home]] with glee:
 but I do believe we have filled a fair number of homes with glee.
 Whether those homes included our own personal households it
-is for others to say.  But up to a point I agreed with Mr. [[Shaw]]
+is for others to say.  But up to a point I agreed with Mr. [[works/shaw-(chesterton)|Shaw]]
 by being a Socialist, and I agreed upon grounds he has laid
 down with critical justice and lucidity, grounds which I can
-imagine nobody being such a [[Fool|fool]] as to deny:  the distribution
+imagine nobody being such a [[archetypes/fool|fool]] as to deny:  the distribution
 of property in the modern world is a monstrosity and a blasphemy.
 Thus I come to the important stage of the proceedings.
-I claim that I might agree with Mr. [[Shaw]] a step farther.
+I claim that I might agree with Mr. [[works/shaw-(chesterton)|Shaw]] a step farther.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1207,11 +1207,11 @@ con certe persone assai moleste — cattolici e puritani, per esempio,
 in lite sulla Transustanziazione — il signor Facing-Both-Ways redasse
 un Articolo in due paragrafi.  Il primo paragrafo affermava
 la dottrina della Transustanziazione.  Il secondo paragrafo diceva
-che essa era un'oziosa superstizione.  Allora [[Queen Elizabeth|la regina Elisabetta]] poté dire:
+che essa era un'oziosa superstizione.  Allora [[characters/queen-elizabeth|la regina Elisabetta]] poté dire:
 «Ora siete tutti soddisfatti; e dovete tutti frequentare la Chiesa
-d'Inghilterra.  Se non lo fate, vi mando in [[Prison|prigione]]».
+d'Inghilterra.  Se non lo fate, vi mando in [[motifs/prison|prigione]]».
 
-Ma non ho la minima intenzione di [[debate|dibattere]] la dottrina
+Ma non ho la minima intenzione di dibattere la dottrina
 della Transustanziazione.  La menziono solo per mostrare, mediante la controversia
 tra l'Arcivescovo e il Vescovo, che nella maggior parte dei dibattiti
 si trovano due tipi di mente che giocano con lo stesso soggetto.
@@ -1223,7 +1223,7 @@ o grecanica, e della mente gotica — la mente faustiana, come lui,
 essendo tedesco, la chiama.  E in questa controversia si scopre
 che ciò che muove il Vescovo Barnes è un'avversione grecana per il non
 sapere che cosa creda, e dall'altra parte un istintivo sentire gotico
-per cui forse è altrettanto [[Well|bene]] non sapere
+per cui forse è altrettanto [[motifs/well|bene]] non sapere
 troppo distintamente.  Non sto dicendo quale sia il tipo di mente migliore.
 Credo che, nel complesso, entrambi siano piuttosto utili.
 Ma a me piace sempre sapere che cosa sto predicando.
@@ -1245,8 +1245,8 @@ di produzione, distribuzione e scambio: non ci arriverete mai
 se cominciate da quelli.  Dovete cominciare dalla questione
 della distribuzione della ricchezza.
 
-L'altro giorno è morto un uomo e il [[government|Governo]] ha prelevato quattro
-milioni e mezzo di sterline come imposta di [[Death|successione]] sul suo patrimonio.
+L'altro giorno è morto un uomo e il Governo ha prelevato quattro
+milioni e mezzo di sterline come imposta di [[motifs/death|successione]] sul suo patrimonio.
 Quell'uomo aveva fatto tutto il suo denaro con il lavoro di uomini che ricevevano
 ventisei scellini a settimana dopo anni di apprendistato per il loro mestiere.
 Era questa una distribuzione ragionevole della ricchezza tra loro?
@@ -1271,7 +1271,7 @@ la peculiare costituzione del mio cervello mi obbligò a scoprire
 esattamente fin dove fosse sbagliata e quale sia la distribuzione giusta.
 Passai in rassegna tutte le proposte mai avanzate e tutti gli
 argomenti usati a giustificazione della distribuzione esistente;
-e li trovai del tutto insensati e [[Grotesque|grotteschi]].
+e li trovai del tutto insensati e [[concepts/grotesque|grotteschi]].
 
 Alla fine mi convinsi che dovremmo essere tolleranti
 verso ogni sorta di delitto, tranne l'iniqua distribuzione del reddito.
@@ -1286,17 +1286,17 @@ Allo scoccare dell'ora, chiedo al signor Chesterton: «Siete
 d'accordo con questo?»
 
 IL SIGNOR CHESTERTON:  Signore e signori.  La risposta è negativa.
-Non sono d'accordo.  E neppure lo è il signor [[Shaw]].  Egli non pensa,
+Non sono d'accordo.  E neppure lo è il signor [[works/shaw-(chesterton)|Shaw]].  Egli non pensa,
 più di quanto lo pensi io, che tutte le persone in questa sala, che hanno
 già creato una certa confusione, debbano accrescere la confusione
 uccidendosi a vicenda e frugandosi le tasche l'un l'altro per vedere
-se vi si trovi mezza [[Crown|corona]] o due scellini.
+se vi si trovi mezza [[motifs/crown|corona]] o due scellini.
 Quanto alla questione generale, ciò che voglio dire è questo:
 vorrei dire, per cominciare, che non ho alcuna intenzione di
-seguire il signor [[Shaw]] in una discussione che sarebbe assai sconveniente da
+seguire il signor [[works/shaw-(chesterton)|Shaw]] in una discussione che sarebbe assai sconveniente da
 parte mia sulla condizione della Chiesa d'Inghilterra.  Ma poiché egli mi ha
 esplicitamente sfidato sul punto, dirò — e lui non sarà d'accordo —
-che il signor [[Shaw]] è davvero un paciere e ha riconciliato entrambe le parti.
+che il signor [[works/shaw-(chesterton)|Shaw]] è davvero un paciere e ha riconciliato entrambe le parti.
 Perché se l'Arcivescovo è anti-intellettuale, non ci sarà nessuno
 a fingere che il Vescovo sia intellettuale.
 
@@ -1304,24 +1304,24 @@ UNA VOCE:  Sì che lo è.
 
 IL SIGNOR CHESTERTON:  Ora, quanto alla questione molto più interessante,
 riguardo a una persona molto più interessante del Vescovo Barnes — intendo
-il signor [[Shaw]] — vorrei dire che, in un certo senso, posso essere d'accordo
+il signor [[works/shaw-(chesterton)|Shaw]] — vorrei dire che, in un certo senso, posso essere d'accordo
 con lui, nel qual caso egli può rivendicare una completa vittoria.
-Questa non è una vera controversia o [[debate|dibattito]].  È un'indagine,
-e [[Hope|spero]] un'indagine proficua e interessante.  Fino a un certo punto
+Questa non è una vera controversia o dibattito.  È un'indagine,
+e [[concepts/hope|spero]] un'indagine proficua e interessante.  Fino a un certo punto
 sono del tutto d'accordo con lui, perché cominciai proprio col trovarmi
 d'accordo con lui, dato che molti anni fa iniziai essendo socialista,
 proprio come lui era socialista.  A parte una certa differenza d'età,
-eravamo nella medesima posizione.  Crescemmo in [[Beauty|bellezza]] fianco a fianco.
-Non dirò che, letteralmente, riempimmo una [[Home|casa]] di allegria:
+eravamo nella medesima posizione.  Crescemmo in [[concepts/beauty|bellezza]] fianco a fianco.
+Non dirò che, letteralmente, riempimmo una [[motifs/home|casa]] di allegria:
 ma credo davvero che abbiamo riempito di allegria un discreto numero di case.
 Se tra quelle case rientrino anche i nostri personali focolari,
-spetta ad altri dirlo.  Ma fino a un certo punto ero d'accordo con il signor [[Shaw]]
+spetta ad altri dirlo.  Ma fino a un certo punto ero d'accordo con il signor [[works/shaw-(chesterton)|Shaw]]
 nell'essere socialista, ed ero d'accordo su terreni ch'egli ha esposto
 con critica giustezza e lucidità, terreni su cui non riesco a
-immaginare nessuno tanto [[Fool|sciocco]] da negarli: la distribuzione
+immaginare nessuno tanto [[archetypes/fool|sciocco]] da negarli: la distribuzione
 della proprietà nel mondo moderno è una mostruosità e una bestemmia.
 Così giungo alla fase importante del procedimento.
-Sostengo che potrei essere d'accordo con il signor [[Shaw]] un passo più in là.
+Sostengo che potrei essere d'accordo con il signor [[works/shaw-(chesterton)|Shaw]] un passo più in là.
 
 
 
@@ -1329,21 +1329,21 @@ Sostengo che potrei essere d'accordo con il signor [[Shaw]] un passo più in là
 
 
 I have heard from nearly all the Socialists I have known,
-the phrase which Mr. [[Shaw]] has with characteristic
+the phrase which Mr. [[works/shaw-(chesterton)|Shaw]] has with characteristic
 artfulness avoided, a phrase which I think everyone will agree
-is common to collectivist [[philosophy]], and the phrase is this:
+is common to collectivist philosophy, and the phrase is this:
 "that the means of production should be owned by the community."
 I ask you to note that phrase because it is really upon that
 that the whole question turns.
 
-Now there is a sense in which I do agree with Mr. Bernard [[Shaw]].
+Now there is a sense in which I do agree with Mr. Bernard [[works/shaw-(chesterton)|Shaw]].
 There is a point up to which I would agree with that formula.
-So far as is possible under human conditions I should [[Desire|desire]]
+So far as is possible under human conditions I should [[motifs/desire|desire]]
 the community--or, as we used to call it in the old English language,
 The Commons--to own the means of production.  So far, I say,
-you have Mr. Bernard [[Shaw]] and me walking in fact side by side
+you have Mr. Bernard [[works/shaw-(chesterton)|Shaw]] and me walking in fact side by side
 in the flowery meads... But after that, alas! a change takes place.
-The change is owing to Mr. [[Shaw]]'s vast superiority, to his
+The change is owing to Mr. [[works/shaw-(chesterton)|Shaw]]'s vast superiority, to his
 powerful intellect.  It is not my fault if he has remained young,
 while I have grown in comparison wrinkled and haggard,
 old and experienced, and acquainted with the elementary facts
@@ -1351,28 +1351,28 @@ of human life.
 
 Now the first thing I want to note is this.  When you say the
 community ought to own the means of production, what do you mean?
-That is the whole point.  There was a [[Time|time]] when Mr. [[Shaw]] would probably
+That is the whole point.  There was a [[motifs/time|time]] when Mr. [[works/shaw-(chesterton)|Shaw]] would probably
 have said in all sincerity that anything possessed by the State
-or the [[government|Government]] would be in fact possessed by the Commons:
+or the Government would be in fact possessed by the Commons:
 in other words, by the community.  I do not wish to challenge
-Mr. [[Shaw]] about later remarks of his, but I [[Doubt|doubt]] whether Mr. [[Shaw]],
-in his eternal youth, still believes in [[democracy]] in that sense.
+Mr. [[works/shaw-(chesterton)|Shaw]] about later remarks of his, but I [[concepts/doubt|doubt]] whether Mr. [[works/shaw-(chesterton)|Shaw]],
+in his eternal youth, still believes in [[concepts/democracy|democracy]] in that sense.
 I quite admit he has a more hopeful and hearty outlook in some respects,
-and he has even gone to the length of saying that if [[democracy]]
+and he has even gone to the length of saying that if [[concepts/democracy|democracy]]
 will not do for mankind, perhaps it will do for some other
 creature different from mankind.  He has almost proposed to invent
 a new animal, which might be supposed to live for 300 years.
-I am inclined to think that if Mr. [[Shaw]] lived for 300 years--
-and I heartily [[Hope|hope]] he will--I never knew a man more likely to do it--
+I am inclined to think that if Mr. [[works/shaw-(chesterton)|Shaw]] lived for 300 years--
+and I heartily [[concepts/hope|hope]] he will--I never knew a man more likely to do it--
 he would certainly agree with me.  I would even undertake
-to prove it from the actual [[history]] of the last 300 years,
+to prove it from the actual [[concepts/history|history]] of the last 300 years,
 but though I think it is probable I will not insist upon it.
 As a very profound philosopher has said, "You never can tell."
-And it may be that Mr. [[Shaw]]'s immortal power of talking nonsense
+And it may be that Mr. [[works/shaw-(chesterton)|Shaw]]'s immortal power of talking nonsense
 would survive even that 300 years and he would still be fixed
 in his unnatural theories in the matter.
 
-Now I do not believe myself that Mr. [[Shaw]] thinks that the community,
+Now I do not believe myself that Mr. [[works/shaw-(chesterton)|Shaw]] thinks that the community,
 in the sense of that state which owns and rules, the thing
 that issues postage stamps and provides policemen, I do not
 believe he thinks that that community is now, at this moment,
@@ -1385,7 +1385,7 @@ machinery of officials and other things, you do in fact find that
 those who rule are the few.  It may be a good thing or a bad thing,
 but it is not true that all the people directly control.
 Collectivism has put all their eggs in one basket.
-I do not think that Mr. [[Shaw]] believes, or that anybody believes,
+I do not think that Mr. [[works/shaw-(chesterton)|Shaw]] believes, or that anybody believes,
 that 12,000,000 men, say, carry the basket, or look after the basket,
 or have any real distributed control over the eggs in the basket.
 I believe that it is controlled from the centre by a few people.
@@ -1395,15 +1395,15 @@ it is not the same as the Commons controlling the means of production.
 It is a few oligarchs or a few officials who do in fact control
 all the means of production.
 
-What Mr. [[Shaw]] means is not that all the people should control the means
+What Mr. [[works/shaw-(chesterton)|Shaw]] means is not that all the people should control the means
 of production, but that the product should be distributed among
 the vast mass of the Commons, and that is guide a different thing.
 It is not controlling the means of production at all.  If all the citizens
 had simply an equal share of the income of the State they would
 not have any control of the capital.  That is where G. K. Chesterton
-differs from George Bernard [[Shaw]].  I begin at the other end.
+differs from George Bernard [[works/shaw-(chesterton)|Shaw]].  I begin at the other end.
 I do not think that a community arranged on the principles of
-[[Distributism]] and on nothing else would be a perfect community.
+[[concepts/distributism|Distributism]] and on nothing else would be a perfect community.
 All admit that the society that we propose is more a matter
 of proportion and arrangement than a perfectly clear system in
 which all production is pooled and the result given out in wages.
@@ -1417,10 +1417,10 @@ Even a man who owns his own tools or works in his own workshop,
 to that extent owns and controls the means of production.
 
 But if you establish right in the middle of the State one
-enormous [[Machine|machine]], if you turn the handle of that [[Machine|machine]],
+enormous [[motifs/machine|machine]], if you turn the handle of that [[motifs/machine|machine]],
 and somebody, who must be an official, and therefore a ruler,
 distributes to everybody equally the food or whatever else is produced
-by that [[Machine|machine]], no single one of any of these people receiving
+by that [[motifs/machine|machine]], no single one of any of these people receiving
 more than any other single person, but all equal fragments:
 that fulfils a definite ideal of equality, yet no single one
 of those citizens has any control over the means of production.
@@ -1435,21 +1435,21 @@ unless you think that by this means they possess control.
 <span class="qlang-split" data-lang="it"></span>
 
 Ho udito da quasi tutti i socialisti che ho conosciuto
-la frase che il signor [[Shaw]] con caratteristica
+la frase che il signor [[works/shaw-(chesterton)|Shaw]] con caratteristica
 scaltrezza ha evitato, una frase che credo tutti concorderanno
-essere comune alla [[philosophy|filosofia]] collettivista, e la frase è questa:
+essere comune alla filosofia collettivista, e la frase è questa:
 "che i mezzi di produzione dovrebbero essere posseduti dalla comunità."
 Vi chiedo di notare quella frase, perché è davvero su di essa
 che l'intera questione ruota.
 
-Ora, c'è un senso in cui concordo con il signor Bernard [[Shaw]].
+Ora, c'è un senso in cui concordo con il signor Bernard [[works/shaw-(chesterton)|Shaw]].
 C'è un punto fino al quale concorderei con quella formula.
-Per quanto è possibile in condizioni umane io [[Desire|desidererei]]
+Per quanto è possibile in condizioni umane io [[motifs/desire|desidererei]]
 che la comunità—o, come la chiamavamo nell'antica lingua inglese,
 i Comuni—possedesse i mezzi di produzione. Fin qui, dico,
-il signor Bernard [[Shaw]] e io camminiamo di fatto fianco a fianco
+il signor Bernard [[works/shaw-(chesterton)|Shaw]] e io camminiamo di fatto fianco a fianco
 nei prati fioriti... Ma dopo di ciò, ahimè! avviene un mutamento.
-Il mutamento è dovuto alla vasta superiorità del signor [[Shaw]], al suo
+Il mutamento è dovuto alla vasta superiorità del signor [[works/shaw-(chesterton)|Shaw]], al suo
 potente intelletto. Non è colpa mia se egli è rimasto giovane,
 mentre io sono divenuto in confronto rugoso e sciupato,
 vecchio ed esperto, e a conoscenza dei fatti elementari
@@ -1457,28 +1457,28 @@ della vita umana.
 
 Ora, la prima cosa che voglio notare è questa. Quando dite che la
 comunità dovrebbe possedere i mezzi di produzione, che cosa intendete?
-È tutto qui il punto. Vi fu un [[Time|tempo]] in cui il signor [[Shaw]] avrebbe probabilmente
+È tutto qui il punto. Vi fu un [[motifs/time|tempo]] in cui il signor [[works/shaw-(chesterton)|Shaw]] avrebbe probabilmente
 detto in tutta sincerità che qualunque cosa posseduta dallo Stato
-o dal [[government|Governo]] sarebbe di fatto posseduta dai Comuni:
+o dal Governo sarebbe di fatto posseduta dai Comuni:
 in altre parole, dalla comunità. Non intendo sfidare
-il signor [[Shaw]] su sue osservazioni più recenti, ma [[Doubt|dubito]] che il signor [[Shaw]],
-nella sua eterna giovinezza, creda ancora nella [[democracy|democrazia]] in quel senso.
+il signor [[works/shaw-(chesterton)|Shaw]] su sue osservazioni più recenti, ma [[concepts/doubt|dubito]] che il signor [[works/shaw-(chesterton)|Shaw]],
+nella sua eterna giovinezza, creda ancora nella [[concepts/democracy|democrazia]] in quel senso.
 Ammetto senz'altro che egli ha una prospettiva più speranzosa e più cordiale sotto certi aspetti,
-ed è giunto perfino a dire che se la [[democracy|democrazia]]
+ed è giunto perfino a dire che se la [[concepts/democracy|democrazia]]
 non va bene per il genere umano, forse andrà bene per qualche altra
 creatura diversa dal genere umano. Ha quasi proposto di inventare
 un nuovo animale, che si supponga viva per 300 anni.
-Sono incline a pensare che se il signor [[Shaw]] vivesse per 300 anni—
-e di cuore [[Hope|spero]] che lo farà—non ho mai conosciuto uomo più propenso a farlo—
+Sono incline a pensare che se il signor [[works/shaw-(chesterton)|Shaw]] vivesse per 300 anni—
+e di cuore [[concepts/hope|spero]] che lo farà—non ho mai conosciuto uomo più propenso a farlo—
 egli certamente concorderebbe con me. Mi impegnerei perfino
-a dimostrarlo dalla storia [[history|effettiva]] degli ultimi 300 anni,
+a dimostrarlo dalla storia [[concepts/history|effettiva]] degli ultimi 300 anni,
 ma benché lo ritenga probabile non insisterò su ciò.
 Come ha detto un profondissimo filosofo, "Non si può mai sapere."
-E può darsi che l'immortale potere del signor [[Shaw]] di dire sciocchezze
+E può darsi che l'immortale potere del signor [[works/shaw-(chesterton)|Shaw]] di dire sciocchezze
 sopravviva perfino a quei 300 anni, ed egli resterebbe ancora fisso
 nelle sue innaturali teorie in materia.
 
-Ora io non credo, da parte mia, che il signor [[Shaw]] pensi che la comunità,
+Ora io non credo, da parte mia, che il signor [[works/shaw-(chesterton)|Shaw]] pensi che la comunità,
 nel senso di quello stato che possiede e governa, la cosa
 che emette francobolli e provvede poliziotti, non
 credo che egli pensi che quella comunità sia ora, in questo momento,
@@ -1491,7 +1491,7 @@ apparato di funzionari e altre cose, di fatto scoprite che
 quelli che governano sono i pochi. Può essere una buona cosa o una cattiva cosa,
 ma non è vero che tutto il popolo controlli direttamente.
 Il collettivismo ha messo tutte le uova in un solo paniere.
-Non credo che il signor [[Shaw]] creda, o che chiunque creda,
+Non credo che il signor [[works/shaw-(chesterton)|Shaw]] creda, o che chiunque creda,
 che 12.000.000 di uomini, diciamo, portino il paniere, o si occupino del paniere,
 o abbiano un qualche reale controllo distribuito sulle uova nel paniere.
 Credo che esso sia controllato dal centro da poche persone.
@@ -1501,15 +1501,15 @@ non è la stessa cosa che i Comuni controllino i mezzi di produzione.
 Sono pochi oligarchi o pochi funzionari che di fatto controllano
 tutti i mezzi di produzione.
 
-Ciò che il signor [[Shaw]] intende non è che tutto il popolo controlli i mezzi
+Ciò che il signor [[works/shaw-(chesterton)|Shaw]] intende non è che tutto il popolo controlli i mezzi
 di produzione, ma che il prodotto sia distribuito tra
 la vasta massa dei Comuni, e questa è una cosa ben diversa.
 Non è affatto controllare i mezzi di produzione. Se tutti i cittadini
 avessero semplicemente una quota uguale del reddito dello Stato, non
 avrebbero alcun controllo sul capitale. Ecco in che cosa G. K. Chesterton
-differisce da George Bernard [[Shaw]]. Io comincio dall'altro capo.
+differisce da George Bernard [[works/shaw-(chesterton)|Shaw]]. Io comincio dall'altro capo.
 Non credo che una comunità ordinata secondo i principi del
-[[Distributism|Distributismo]] e nient'altro sarebbe una comunità perfetta.
+[[concepts/distributism|Distributismo]] e nient'altro sarebbe una comunità perfetta.
 Tutti ammettono che la società che proponiamo è più una questione
 di proporzione e disposizione che un sistema perfettamente chiaro in
 cui tutta la produzione è messa in comune e il risultato distribuito in salari.
@@ -1523,10 +1523,10 @@ Perfino un uomo che possiede i propri arnesi o lavora nella propria officina,
 in tale misura possiede e controlla i mezzi di produzione.
 
 Ma se stabilite proprio in mezzo allo Stato una
-enorme [[Machine|Macchina]], se girate la manovella di quella [[Machine|Macchina]],
+enorme [[motifs/machine|Macchina]], se girate la manovella di quella [[motifs/machine|Macchina]],
 e qualcuno, che dev'essere un funzionario, e perciò un governante,
 distribuisce a tutti in parti uguali il cibo o qualunque altra cosa sia prodotta
-da quella [[Machine|Macchina]], senza che nessuno riceva
+da quella [[motifs/machine|Macchina]], senza che nessuno riceva
 più di qualsiasi altra singola persona, ma tutti frammenti uguali:
 ciò adempie un definito ideale di uguaglianza, eppure nessuno
 di quei cittadini ha alcun controllo sui mezzi di produzione.
@@ -1555,10 +1555,10 @@ of the passive mood.  It is easy enough to say Property should
 be distributed, but who is, as it were, the subject of the verb?
 Who or what is to distribute?  Now it is based on the idea
 that the central power which condescends to distribute will be
-permanently just, wise, sane, and representative of the [[Conscience|conscience]]
+permanently just, wise, sane, and representative of the [[concepts/conscience|conscience]]
 of the community which has created it.
 
-That is what we [[Doubt|doubt]].  We say there ought to be in the world
+That is what we [[concepts/doubt|doubt]].  We say there ought to be in the world
 a great mass of scattered powers, privileges, limits, points
 of resistance, so that the mass of the Commons may resist tyranny.
 And we say that there is a permanent possibility of that
@@ -1577,7 +1577,7 @@ We say the method to be adopted is the other method.
 We admit, frankly, that our method is in a sense imperfect,
 and only in that sense illogical.  It is imperfect, or illogical,
 because it corresponds to the variety and differences of human life.
-Mr. [[Shaw]] is making abstract diagrams of triangles, squares.
+Mr. [[works/shaw-(chesterton)|Shaw]] is making abstract diagrams of triangles, squares.
 and circles; we are trying to paint a portrait, the portrait
 of a man.  We are trying to make our lines and colours follow
 the characteristics of the real object.  Man desires certain things.
@@ -1591,10 +1591,10 @@ we have already said.
 I do in that sense accept the propositions that the community should
 own the means of production, but I say that the Commons should own
 the means of production, and the only way to do that is to keep actual
-hold upon land.  Mr. Bernard [[Shaw]] proposes to distribute wealth.
+hold upon land.  Mr. Bernard [[works/shaw-(chesterton)|Shaw]] proposes to distribute wealth.
 We propose to distribute power.
 
-MR. [[Shaw|SHAW]]:  I cannot say that Mr. Chesterton has succeeded in forcing
+MR. SHAW:  I cannot say that Mr. Chesterton has succeeded in forcing
 a difference of opinion on me.  There are, I suppose, at least some
 people in this room who have heard me orating on this platform at
 lectures of the Fabian Society, and they must have been considerably
@@ -1627,7 +1627,7 @@ this meeting.  What was the very first thing the League said must
 be done?  It said the coal-mines must be nationalized.  Instead of saying
 that the miner's means of production must he made his own property,
 it was forced to advocate making national property of the coal mines.
-These coal-mines, when nationalized, will not be managed by the [[house|House]]
+These coal-mines, when nationalized, will not be managed by the House
 of Commons:  if they were you would very soon have no coal.
 But neither will they be managed by the miners.  If you ask the man
 working in the mine to manage the mine he will say, "Not me, governor!
@@ -1640,7 +1640,7 @@ talking as though the means of production were machines.
 I submit to you that the real means of production in this
 country are men and women, and that consequently you always
 have the maximum control of the individual over the means
-of production, because it means [[Self|self]]-control over his own person.
+of production, because it means [[concepts/self|self]]-control over his own person.
 But he must surrender that control to the manager of the mine
 because he does not know how to manage it himself.
 Under the present capitalistic system he has to surrender it
@@ -1663,25 +1663,25 @@ to the nationalization of everything else.
 
 Ho usato la metafora dei collettivisti di avere tutte le uova in un solo paniere. Ora, vi sono uomini che ci compiacciamo di chiamare uova marce. Non tutti si trovano in politica. D'altra parte vi sono uomini che meritano l'elogio di «buon uovo». Vi sono, in altre parole, un certo numero di uomini buoni e un certo numero di uomini cattivi sparsi per la comunità.
 
-Per dirla in breve, potrei affermare che tutta questa teoria di una distribuzione meccanica assolutamente uguale si fonda su una sorta di uso della forma passiva. È abbastanza facile dire che la Proprietà dovrebbe essere distribuita, ma chi è, per così dire, il soggetto del verbo? Chi o che cosa deve distribuire? Ora, essa si fonda sull'idea che il potere centrale che si degna di distribuire sarà permanentemente giusto, saggio, assennato e rappresentativo della [[Conscience|coscienza]] della comunità che l'ha creato.
+Per dirla in breve, potrei affermare che tutta questa teoria di una distribuzione meccanica assolutamente uguale si fonda su una sorta di uso della forma passiva. È abbastanza facile dire che la Proprietà dovrebbe essere distribuita, ma chi è, per così dire, il soggetto del verbo? Chi o che cosa deve distribuire? Ora, essa si fonda sull'idea che il potere centrale che si degna di distribuire sarà permanentemente giusto, saggio, assennato e rappresentativo della [[concepts/conscience|coscienza]] della comunità che l'ha creato.
 
-Questo è ciò di cui noi [[Doubt|dubitiamo]]. Diciamo che nel mondo dovrebbe esservi una grande massa di poteri, privilegi, limiti e punti di resistenza sparsi, affinché la massa dei Comuni possa resistere alla tirannia. E diciamo che vi è una permanente possibilità che quella direzione centrale, per quanto sia stata incaricata di distribuire equamente il denaro, si trasformi in una tirannia. Non credo sarebbe difficile suggerire un modo in cui ciò potrebbe accadere. Non appena una particolare folla di persone si comporti in un modo che il gruppo dirigente scelga di considerare anticivico, i rifornimenti potrebbero essere tagliati con facilità, con l'approvazione di quel gruppo dirigente. Basta chiamare qualcuno con un nome come bolscevico o papista. Basta appiccicare un'etichetta a un gruppo di persone e la comunità vedrà con soddisfazione queste persone ridotte alla resa dalla fame.
+Questo è ciò di cui noi [[concepts/doubt|dubitiamo]]. Diciamo che nel mondo dovrebbe esservi una grande massa di poteri, privilegi, limiti e punti di resistenza sparsi, affinché la massa dei Comuni possa resistere alla tirannia. E diciamo che vi è una permanente possibilità che quella direzione centrale, per quanto sia stata incaricata di distribuire equamente il denaro, si trasformi in una tirannia. Non credo sarebbe difficile suggerire un modo in cui ciò potrebbe accadere. Non appena una particolare folla di persone si comporti in un modo che il gruppo dirigente scelga di considerare anticivico, i rifornimenti potrebbero essere tagliati con facilità, con l'approvazione di quel gruppo dirigente. Basta chiamare qualcuno con un nome come bolscevico o papista. Basta appiccicare un'etichetta a un gruppo di persone e la comunità vedrà con soddisfazione queste persone ridotte alla resa dalla fame.
 
-Diciamo che il metodo da adottare è l'altro metodo. Ammettiamo, francamente, che il nostro metodo è in un certo senso imperfetto, e solo in quel senso illogico. È imperfetto, o illogico, perché corrisponde alla varietà e alle differenze della vita umana. Il signor [[Shaw]] traccia diagrammi astratti di triangoli, quadrati e cerchi; noi cerchiamo di dipingere un ritratto, il ritratto di un uomo. Cerchiamo di far seguire alle nostre linee e ai nostri colori le caratteristiche dell'oggetto reale. L'uomo desidera certe cose. Ama una certa dose di libertà, certe forme di proprietà, certe forme di affetto locale, e non sarà felice senza di esse.
+Diciamo che il metodo da adottare è l'altro metodo. Ammettiamo, francamente, che il nostro metodo è in un certo senso imperfetto, e solo in quel senso illogico. È imperfetto, o illogico, perché corrisponde alla varietà e alle differenze della vita umana. Il signor [[works/shaw-(chesterton)|Shaw]] traccia diagrammi astratti di triangoli, quadrati e cerchi; noi cerchiamo di dipingere un ritratto, il ritratto di un uomo. Cerchiamo di far seguire alle nostre linee e ai nostri colori le caratteristiche dell'oggetto reale. L'uomo desidera certe cose. Ama una certa dose di libertà, certe forme di proprietà, certe forme di affetto locale, e non sarà felice senza di esse.
 
 Vi sono moltissime altre cose che si potrebbero dire, ma credo sarà più chiaro se ripeto alcune delle cose che abbiamo già detto.
 
-In tal senso accetto sì le proposizioni secondo cui la comunità dovrebbe possedere i mezzi di produzione, ma dico che dovrebbero essere i Comuni a possedere i mezzi di produzione, e l'unico modo per farlo è mantenere l'effettiva presa sulla terra. Il signor Bernard [[Shaw]] propone di distribuire la ricchezza. Noi proponiamo di distribuire il potere.
+In tal senso accetto sì le proposizioni secondo cui la comunità dovrebbe possedere i mezzi di produzione, ma dico che dovrebbero essere i Comuni a possedere i mezzi di produzione, e l'unico modo per farlo è mantenere l'effettiva presa sulla terra. Il signor Bernard [[works/shaw-(chesterton)|Shaw]] propone di distribuire la ricchezza. Noi proponiamo di distribuire il potere.
 
-IL SIGNOR [[Shaw|SHAW]]: Non posso dire che il signor Chesterton sia riuscito a impormi una divergenza d'opinione. Vi sono, suppongo, almeno alcune persone in questa sala che mi hanno udito arringare da questo palco alle conferenze della Società Fabiana, e devono essersi assai divertite al tentativo del signor Chesterton di spiegarmi che cosa sia il reddito. La mia principale attività di economista, di recente, è stata quella di cercare di concentrare l'attenzione del mio partito sul fatto non solo che essi devono distribuire il reddito, ma che non c'è nient'altro da distribuire.
+IL SIGNOR SHAW: Non posso dire che il signor Chesterton sia riuscito a impormi una divergenza d'opinione. Vi sono, suppongo, almeno alcune persone in questa sala che mi hanno udito arringare da questo palco alle conferenze della Società Fabiana, e devono essersi assai divertite al tentativo del signor Chesterton di spiegarmi che cosa sia il reddito. La mia principale attività di economista, di recente, è stata quella di cercare di concentrare l'attenzione del mio partito sul fatto non solo che essi devono distribuire il reddito, ma che non c'è nient'altro da distribuire.
 
 Dobbiamo essere perfettamente chiari su che cosa sia il capitale. Ve lo dirò io. Il capitale è denaro in eccedenza. E, naturalmente, denaro in eccedenza significa cibo in eccedenza. Se mi càpita di avere più mezzi di sussistenza di quanti ne possa usare, posso prendere quella parte non consumata e dire a un altro uomo: «Lascia che ti nutra mentre produci un qualche congegno che agevolerà il mio lavoro in futuro». Ma quando l'uomo me l'ha prodotto, il capitale se n'è tutto andato: non resta nulla da mangiare né per me né per lui. Se mi ha fatto una vanga, non posso mangiarmi quella vanga.
 
 Ho detto che posso impiegare in questo modo la mia sussistenza in eccedenza; ma devo impiegarla così perché non si conserva: se nessuno la mangia, andrà a male. L'unica cosa da farne è farla consumare prontamente. Tutto ciò che ne resta, allora, è una cifra in un registro contabile. Parte del mio capitale fu impiegata nell'ultima guerra; e questo paese ha ancora il mio nome scritto come proprietario del capitale che fecero saltare in pezzi in quella guerra.
 
-Detto ciò a vostra istruzione, veniamo ai fatti. Il signor Chesterton ha fondato la Lega Distributista, che ha organizzato questa riunione. Qual è stata la primissima cosa che la Lega disse doversi fare? Disse che le miniere di carbone devono essere nazionalizzate. Invece di dire che i mezzi di produzione del minatore devono diventare sua proprietà, fu costretta a caldeggiare che si facesse proprietà nazionale delle miniere di carbone. Queste miniere di carbone, una volta nazionalizzate, non saranno gestite dalla [[house|Camera]] dei Comuni: se lo fossero, ben presto non avreste più carbone. Ma neppure saranno gestite dai minatori. Se chiedete all'uomo che lavora nella miniera di gestire la miniera, egli dirà: «Io no, padrone! Questo è compito vostro».
+Detto ciò a vostra istruzione, veniamo ai fatti. Il signor Chesterton ha fondato la Lega Distributista, che ha organizzato questa riunione. Qual è stata la primissima cosa che la Lega disse doversi fare? Disse che le miniere di carbone devono essere nazionalizzate. Invece di dire che i mezzi di produzione del minatore devono diventare sua proprietà, fu costretta a caldeggiare che si facesse proprietà nazionale delle miniere di carbone. Queste miniere di carbone, una volta nazionalizzate, non saranno gestite dalla Camera dei Comuni: se lo fossero, ben presto non avreste più carbone. Ma neppure saranno gestite dai minatori. Se chiedete all'uomo che lavora nella miniera di gestire la miniera, egli dirà: «Io no, padrone! Questo è compito vostro».
 
-Vorrei che il signor Chesterton considerasse che cosa intende per mezzi di produzione. Ne ha parlato in una maniera piuttosto ottocentesca. Ha parlato come se i mezzi di produzione fossero macchine. Vi sottopongo che i veri mezzi di produzione in questo paese sono gli uomini e le donne, e che di conseguenza si ha sempre il massimo controllo dell'individuo sui mezzi di produzione, poiché esso significa il controllo di [[Self|sé]] sulla propria persona. Ma egli deve cedere quel controllo al direttore della miniera perché non sa gestirla da sé. Sotto l'attuale sistema capitalistico deve cederlo al direttore nominato dai proprietari della miniera. Sotto il Socialismo dovrebbe cederlo al direttore nominato dal Direttore Generale del Carbone. Ciò non impedirebbe che il prodotto della miniera fosse egualmente distribuito tra la gente.
+Vorrei che il signor Chesterton considerasse che cosa intende per mezzi di produzione. Ne ha parlato in una maniera piuttosto ottocentesca. Ha parlato come se i mezzi di produzione fossero macchine. Vi sottopongo che i veri mezzi di produzione in questo paese sono gli uomini e le donne, e che di conseguenza si ha sempre il massimo controllo dell'individuo sui mezzi di produzione, poiché esso significa il controllo di [[concepts/self|sé]] sulla propria persona. Ma egli deve cedere quel controllo al direttore della miniera perché non sa gestirla da sé. Sotto l'attuale sistema capitalistico deve cederlo al direttore nominato dai proprietari della miniera. Sotto il Socialismo dovrebbe cederlo al direttore nominato dal Direttore Generale del Carbone. Ciò non impedirebbe che il prodotto della miniera fosse egualmente distribuito tra la gente.
 
 Qui non c'è alcuna difficoltà. In un certo senso il signor Chesterton non è davvero in disaccordo con me in questa faccenda, poiché egli vede bene che in materia di combustibile in questo paese si deve giungere alla nazionalizzazione. Il combustibile deve essere controllato equamente a beneficio di tutta la gente. Poiché su questo eravamo d'accordo, non sono disposto a discutere oltre la questione. Ora che il signor Chesterton ha convenuto che le miniere di carbone dovranno essere nazionalizzate, sarà condotto dalla medesima pressione dei fatti a convenire alla nazionalizzazione di tutto il resto.
 
@@ -1693,7 +1693,7 @@ Qui non c'è alcuna difficoltà. In un certo senso il signor Chesterton non è d
 I have to allow for the pressure of facts because, as a playwright,
 I think of all problems in terms of actual men and women.
 Mr. Chesterton lets himself idealize them sometimes as virtuous
-peasant proprietors and [[Self|self]]-managing petty capitalists.
+peasant proprietors and [[concepts/self|self]]-managing petty capitalists.
 
 The capitalist and the landlord have their own particular ways
 of robbing the poor; but their legal rights are quite different.
@@ -1701,15 +1701,15 @@ It is a very direct way on the part of the landlord.
 He may do exactly what he likes with the land he owns.
 If I own a large part of Scotland I can turn the people
 off the land practically into the sea, or across the sea.
-I can take women in [[Child|child]]-bearing and throw them into
-the [[Snow|snow]] and leave them there.  That has been done.
+I can take women in [[archetypes/child|child]]-bearing and throw them into
+the [[motifs/snow|snow]] and leave them there.  That has been done.
 I can do it for no better reason than I think it is better
 to shoot deer on the land than allow people to live on it.
 They might frighten the deer.
 
 But now compare that with the ownership of my umbrella.  As a matter
-of fact the umbrella I have to-[[Night|night]] belongs to my wife; but I think
-she will permit me to call it mine for the purpose of the [[debate]].
+of fact the umbrella I have to-[[motifs/night|night]] belongs to my wife; but I think
+she will permit me to call it mine for the purpose of the debate.
 Now I have a very limited legal right to the use of that umbrella.
 I cannot do as I like with it.  For instance, certain passages
 in Mr. Chesterton's speech tempted me to get up and smite him over
@@ -1747,17 +1747,17 @@ as a malefactor, than in treating a murderer as a malefactor?
 Having said that much about the property part of the business,
 1 think I have succeeded in establishing that Mr. Chesterton does
 not disagree with me.  I should like to say I do not believe
-in [[democracy|Democracy]].  I do believe in Catholicism; but I hold that the
+in [[concepts/democracy|Democracy]].  I do believe in Catholicism; but I hold that the
 Irish Episcopal Protestant Church, of which I was baptized a member,
 takes the name of Catholicism in vain; that the Roman Church has
 also taken it in vain; and so with the Greek Church and the rest.
 My Catholicism is really catholic Catholicism:  that is what I
-believe in, as apart from this voting business and [[democracy]].
+believe in, as apart from this voting business and [[concepts/democracy|democracy]].
 Does Mr. Chesterton agree with me on that?
 
 MR. CHESTERTON:  Among the bewildering welter of fallacies which
-Mr. [[Shaw]] has just given us, I prefer to deal first with the simplest.
-When Mr. [[Shaw]] refrains from hitting me over the head with his umbrella,
+Mr. [[works/shaw-(chesterton)|Shaw]] has just given us, I prefer to deal first with the simplest.
+When Mr. [[works/shaw-(chesterton)|Shaw]] refrains from hitting me over the head with his umbrella,
 the real reason--apart from his real kindness of heart, which makes
 him tolerant of the humblest of the creatures of God--is not because
 he does not own his umbrella, but because he does not own my head.
@@ -1766,8 +1766,8 @@ to use it to the confutation of some of his other fallacies.
 
 I should like to say now what I ought perhaps to have
 said earlier in the evening, that we are enormously
-grateful to Mr. [[Shaw]] for his characteristic generosity
-in consenting to [[debate]] with a humble movement like our own.
+grateful to Mr. [[works/shaw-(chesterton)|Shaw]] for his characteristic generosity
+in consenting to debate with a humble movement like our own.
 I am so conscious of that condescension on his part that I should
 feel it a very unfair return to ask him to read any of our potty
 little literature or cast his eye over our little weekly paper
@@ -1788,7 +1788,7 @@ and sane people, and they have always recognized that there are
 institutions in the State in which it is very difficult to apply
 the principle of individual property, and that one of these
 cases is the discovery under the earth of valuable minerals.
-Socialists are not [[Alone|alone]] in believing this.  Charles I, who,
+Socialists are not alone in believing this.  Charles I, who,
 I suppose, could not be called a Socialist, pointed out that
 certain kinds of minerals ought to belong to the State, that is,
 to the Commons.  We have said over and over again that we support
@@ -1802,26 +1802,26 @@ If there were a way in which a miner could mark out one particular
 piece of coal and say, "This is mine, and I am proud of it,"
 we should have made an enormous improvement upon State management.
 There are cases in which it is very difficult to apply the principle,
-and that is one of them.  It is the reverse of the [[Truth|truth]] for Mr. [[Shaw]]
-to say that the [[logic]] of that fact will lead me to the application
+and that is one of them.  It is the reverse of the [[concepts/truth|truth]] for Mr. [[works/shaw-(chesterton)|Shaw]]
+to say that the logic of that fact will lead me to the application
 of the same principle to other cases, like the ownership of the land.
 One could not illustrate it better than by the case of coal.
 It may be true for all I know that if you ask a miner
 if he would like to manage the mine he would say, "I do not
 want to manage it; it is for my betters to manage it."
 I had not noticed that meek and simple manner among miners.
-I have even heard complaints of the opposite temper in that [[Body|body]].
-I defy Mr. [[Shaw]] to say if you went to the Irish farmers,
+I have even heard complaints of the opposite temper in that [[concepts/body|body]].
+I defy Mr. [[works/shaw-(chesterton)|Shaw]] to say if you went to the Irish farmers,
 or the French farmers, or the Serbian or the Dutch farmers, or any
 of the millions of peasant owners throughout the world, I defy him
 to say if you went to the farmer and said, "Who controls these farms?'"
 he would say, "It is not for the likes of me to control a farm."
-Mr. [[Shaw]] knows perfectly [[Well|well]] it is nonsense to suggest
+Mr. [[works/shaw-(chesterton)|Shaw]] knows perfectly [[motifs/well|well]] it is nonsense to suggest
 that peasants would talk that way anywhere.  It is part of his
 complaints against peasants that they claim personal possessions.
 I am not likely to be led to the denial of property in land, for I
 know ordinary normal people who feel property in land to be normal.
-I fully agree with Mr. [[Shaw]], and speak as strongly as he would speak,
+I fully agree with Mr. [[works/shaw-(chesterton)|Shaw]], and speak as strongly as he would speak,
 of the abomination and detestable foulness and sin of landlords
 who drove poor people from their land in Scotland and elsewhere.
 It is quite true that men in possession of land have
@@ -1836,33 +1836,33 @@ I want to own my own land."
 
 <span class="qlang-split" data-lang="it"></span>
 
-Devo tener conto della pressione dei fatti perché, come drammaturgo, penso a tutti i problemi nei termini di uomini e donne reali. Il signor Chesterton talvolta si lascia andare a idealizzarli come virtuosi contadini proprietari e piccoli capitalisti che si gestiscono da [[Self|sé]].
+Devo tener conto della pressione dei fatti perché, come drammaturgo, penso a tutti i problemi nei termini di uomini e donne reali. Il signor Chesterton talvolta si lascia andare a idealizzarli come virtuosi contadini proprietari e piccoli capitalisti che si gestiscono da [[concepts/self|sé]].
 
-Il capitalista e il proprietario terriero hanno i loro particolari modi di derubare i poveri; ma i loro diritti legali sono assai diversi. Nel caso del proprietario terriero è un modo assai diretto. Egli può fare esattamente ciò che vuole della terra che possiede. Se possiedo gran parte della Scozia posso cacciare la gente dalla terra praticamente in mare, o al di là del mare. Posso prendere donne in attesa di un [[Child|figlio]] e gettarle nella [[Snow|neve]] e lasciarvele. Ciò è stato fatto. Posso farlo senza altra ragione se non che ritengo meglio cacciare i cervi su quella terra piuttosto che permettere alla gente di viverci. Potrebbero spaventare i cervi.
+Il capitalista e il proprietario terriero hanno i loro particolari modi di derubare i poveri; ma i loro diritti legali sono assai diversi. Nel caso del proprietario terriero è un modo assai diretto. Egli può fare esattamente ciò che vuole della terra che possiede. Se possiedo gran parte della Scozia posso cacciare la gente dalla terra praticamente in mare, o al di là del mare. Posso prendere donne in attesa di un [[archetypes/child|figlio]] e gettarle nella [[motifs/snow|neve]] e lasciarvele. Ciò è stato fatto. Posso farlo senza altra ragione se non che ritengo meglio cacciare i cervi su quella terra piuttosto che permettere alla gente di viverci. Potrebbero spaventare i cervi.
 
-Ma ora si confronti tutto ciò con la proprietà del mio ombrello. In verità l'ombrello che ho questa [[Night|notte]] appartiene a mia moglie; ma credo che ella mi permetterà di chiamarlo mio ai fini del [[debate|dibattito]]. Ora, io ho un diritto legale assai limitato all'uso di quell'ombrello. Non posso farne ciò che voglio. Per esempio, certi passaggi del discorso del signor Chesterton mi hanno tentato ad alzarmi e a colpirlo sul capo col mio ombrello. Fra poco potrei sentirmi incline a colpire il signor Belloc. Ma se abusassi del mio diritto di fare ciò che voglio della mia proprietà — del mio ombrello — in questo modo, mi sarebbe presto fatto capire — forse dal pugno del signor Belloc — che non posso trattare il mio ombrello come mia proprietà nel modo in cui un proprietario terriero può trattare la sua terra. Io voglio distruggere la proprietà affinché il possesso e il godimento possano essere elevati al massimo grado in ogni sezione della comunità. Questo, credo, è perfettamente semplice.
+Ma ora si confronti tutto ciò con la proprietà del mio ombrello. In verità l'ombrello che ho questa [[motifs/night|notte]] appartiene a mia moglie; ma credo che ella mi permetterà di chiamarlo mio ai fini del dibattito. Ora, io ho un diritto legale assai limitato all'uso di quell'ombrello. Non posso farne ciò che voglio. Per esempio, certi passaggi del discorso del signor Chesterton mi hanno tentato ad alzarmi e a colpirlo sul capo col mio ombrello. Fra poco potrei sentirmi incline a colpire il signor Belloc. Ma se abusassi del mio diritto di fare ciò che voglio della mia proprietà — del mio ombrello — in questo modo, mi sarebbe presto fatto capire — forse dal pugno del signor Belloc — che non posso trattare il mio ombrello come mia proprietà nel modo in cui un proprietario terriero può trattare la sua terra. Io voglio distruggere la proprietà affinché il possesso e il godimento possano essere elevati al massimo grado in ogni sezione della comunità. Questo, credo, è perfettamente semplice.
 
 Vi sono punti su cui un proprietario terriero, persino uno scozzese, e il suo affittuario, il piccolo colono, concordano pienamente. Il proprietario terriero ha da ridire sull'essere ammazzato a vista. Il proprietario terriero irlandese soleva avere da ridire. I suoi affittuari talvolta non davano ascolto alla sua obiezione, ma tuttavia avevano una fortissima obiezione all'essere ammazzati loro stessi. Voi non avete nulla in contrario a che una legge dello Stato sia applicata con vigore, affinché la gente non si ammazzi a vicenda. Non c'è alcuna difficoltà, nei moderni Stati civili, a farla applicare. Se poteste una buona volta convincere la gente che la disuguaglianza dei redditi è un pericolo sociale più grande dell'omicidio, ben pochi vorrebbero continuare a commetterla; e lo Stato potrebbe reprimerla col consenso della comunità in generale. Aggiungiamo di continuo nuovi delitti al calendario. Perché non stabilire che nessuno possa vivere in questa comunità senza remare nella barca sociale, senza produrre più di quanto consuma — perché occorre provvedere all'accumulo di denaro in eccedenza come capitale — che non restituisca col proprio lavoro ciò che toglie alla comunità, che tenti di vivere nell'ozio, come oggi gli uomini sono orgogliosi di vivere? Vi è forse una difficoltà maggiore a trattare un simile parassita come un malfattore, che non a trattare un assassino come un malfattore?
 
-Detto questo sulla parte della faccenda relativa alla proprietà, credo di essere riuscito a stabilire che il signor Chesterton non è in disaccordo con me. Vorrei dire che io non credo nella [[democracy|Democrazia]]. Credo nel Cattolicesimo; ma sostengo che la Chiesa protestante episcopale irlandese, di cui fui battezzato membro, prende invano il nome di Cattolicesimo; che la Chiesa romana l'ha anch'essa preso invano; e così la Chiesa greca e le altre. Il mio Cattolicesimo è davvero cattolico Cattolicesimo: è in questo che credo, a prescindere da questa faccenda del voto e dalla [[democracy|democrazia]]. Il signor Chesterton concorda con me su questo?
+Detto questo sulla parte della faccenda relativa alla proprietà, credo di essere riuscito a stabilire che il signor Chesterton non è in disaccordo con me. Vorrei dire che io non credo nella [[concepts/democracy|Democrazia]]. Credo nel Cattolicesimo; ma sostengo che la Chiesa protestante episcopale irlandese, di cui fui battezzato membro, prende invano il nome di Cattolicesimo; che la Chiesa romana l'ha anch'essa preso invano; e così la Chiesa greca e le altre. Il mio Cattolicesimo è davvero cattolico Cattolicesimo: è in questo che credo, a prescindere da questa faccenda del voto e dalla [[concepts/democracy|democrazia]]. Il signor Chesterton concorda con me su questo?
 
-IL SIGNOR CHESTERTON: Tra la sconcertante congerie di fallacie che il signor [[Shaw]] ci ha appena propinato, preferisco affrontare per prima la più semplice. Quando il signor [[Shaw]] si trattiene dal colpirmi sul capo col suo ombrello, la vera ragione — a parte la sua autentica bontà di cuore, che lo rende tollerante verso la più umile delle creature di Dio — non è che egli non possegga il suo ombrello, ma che non possiede la mia testa. Poiché sono tuttora in possesso di quell'imperfetto organo, procederò a servirmene per confutare alcune delle sue altre fallacie.
+IL SIGNOR CHESTERTON: Tra la sconcertante congerie di fallacie che il signor [[works/shaw-(chesterton)|Shaw]] ci ha appena propinato, preferisco affrontare per prima la più semplice. Quando il signor [[works/shaw-(chesterton)|Shaw]] si trattiene dal colpirmi sul capo col suo ombrello, la vera ragione — a parte la sua autentica bontà di cuore, che lo rende tollerante verso la più umile delle creature di Dio — non è che egli non possegga il suo ombrello, ma che non possiede la mia testa. Poiché sono tuttora in possesso di quell'imperfetto organo, procederò a servirmene per confutare alcune delle sue altre fallacie.
 
-Vorrei dire ora ciò che forse avrei dovuto dire prima, in serata: che siamo enormemente grati al signor [[Shaw]] per la sua caratteristica generosità nell'acconsentire a [[debate|dibattere]] con un umile movimento come il nostro. Sono così consapevole di tale condiscendenza da parte sua che riterrei una ricompensa assai ingiusta chiedergli di leggere una qualsiasi delle nostre insignificanti operette o di gettare l'occhio sul nostro piccolo settimanale o di prendere coscienza dei fatti che abbiamo esposto mille volte. Uno di questi fatti, con cui ha familiarità chiunque ci conosca, è la nostra posizione riguardo alla questione del carbone. Abbiamo detto e ridetto che nel nostro stato umano di società deve esservi una classe di cose chiamate eccezioni. Ammettiamo che, nel complesso, nel caso assai peculiare del carbone sia desiderabile e all'incirca la migliore via d'uscita dalla difficoltà che esso sia controllato dai funzionari dello Stato, proprio nello stesso modo in cui sono controllati i francobolli. Nessuno dice alcunché di diverso a proposito dei francobolli. Non riesco a immaginare che qualcuno voglia avere i propri francobolli, magari di disegno più pittoresco e di colori più svariati. Posso assicurarvi che i Distributisti sono persone perfettamente assennate e sane di mente, e hanno sempre riconosciuto che vi sono nello Stato istituzioni in cui è assai difficile applicare il principio della proprietà individuale, e che uno di questi casi è la scoperta sotto terra di minerali preziosi. I socialisti non sono i [[Alone|soli]] a crederlo. Carlo I, che, suppongo, non potrebbe essere chiamato socialista, fece notare che certi tipi di minerali dovrebbero appartenere allo Stato, cioè ai Comuni. Abbiamo detto e ripetuto che sosteniamo la nazionalizzazione delle miniere di carbone, non come esempio generale di Distribuzione, ma come ammissione di buon senso di un'eccezione. La ragione per cui ne facciamo un'eccezione è che non è molto facile vedere come vi si possa applicare il sano principio della proprietà personale. Se si potesse, lo applicheremmo col più grande piacere. Consideriamo la proprietà personale infinitamente più sana. Se vi fosse un modo in cui un minatore potesse delimitare un particolare pezzo di carbone e dire: «Questo è mio, e ne sono fiero», avremmo compiuto un enorme miglioramento rispetto alla gestione statale. Vi sono casi in cui è assai difficile applicare il principio, e questo è uno di essi. È l'esatto contrario della [[Truth|verità]] che il signor [[Shaw]] affermi che la [[logic|logica]] di quel fatto mi condurrà ad applicare il medesimo principio ad altri casi, come la proprietà della terra. Non si potrebbe illustrarlo meglio che col caso del carbone. Può darsi sia vero, per quel che ne so, che se domandaste a un minatore se gli piacerebbe dirigere la miniera egli risponderebbe: «Non voglio dirigerla; spetta a chi è migliore di me dirigerla». Non avevo notato quel fare mite e semplice tra i minatori. Ho anzi sentito lagnanze del temperamento opposto in quella [[Body|categoria]]. Sfido il signor [[Shaw]] a dire che, se andaste dai contadini irlandesi, o dai contadini francesi, o dai contadini serbi o olandesi, o da uno qualsiasi dei milioni di contadini proprietari sparsi per il mondo, sfido lui a dire che, se andaste dal contadino e diceste: «Chi controlla queste fattorie?», egli risponderebbe: «Non spetta a gente come me controllare una fattoria». Il signor [[Shaw]] sa perfettamente [[Well|bene]] che è un'assurdità supporre che i contadini parlerebbero così in un qualsiasi luogo. È parte delle sue lagnanze contro i contadini il fatto che essi rivendicano possessi personali. Non è probabile che io sia indotto a negare la proprietà della terra, poiché conosco persone comuni e normali che sentono la proprietà della terra come una cosa normale. Concordo pienamente col signor [[Shaw]], e parlo con la stessa forza con cui parlerebbe lui, dell'abominio e della detestabile turpitudine e del peccato dei proprietari terrieri che cacciarono i poveri dalla loro terra in Scozia e altrove. È del tutto vero che uomini in possesso della terra hanno commesso questi delitti; ma non vedo perché malvagi funzionari sotto uno Stato socialista non potrebbero commettere questi stessi delitti. Ma ciò non ha nulla a che fare col principio della proprietà della terra. Anzi, questi stessi piccoli coloni delle Highland, queste stesse persone così abominevolmente oltraggiate e oppresse, se chiedeste loro che cosa vogliono, probabilmente risponderebbero: «Voglio possedere il mio podere; voglio possedere la mia terra».
+Vorrei dire ora ciò che forse avrei dovuto dire prima, in serata: che siamo enormemente grati al signor [[works/shaw-(chesterton)|Shaw]] per la sua caratteristica generosità nell'acconsentire a dibattere con un umile movimento come il nostro. Sono così consapevole di tale condiscendenza da parte sua che riterrei una ricompensa assai ingiusta chiedergli di leggere una qualsiasi delle nostre insignificanti operette o di gettare l'occhio sul nostro piccolo settimanale o di prendere coscienza dei fatti che abbiamo esposto mille volte. Uno di questi fatti, con cui ha familiarità chiunque ci conosca, è la nostra posizione riguardo alla questione del carbone. Abbiamo detto e ridetto che nel nostro stato umano di società deve esservi una classe di cose chiamate eccezioni. Ammettiamo che, nel complesso, nel caso assai peculiare del carbone sia desiderabile e all'incirca la migliore via d'uscita dalla difficoltà che esso sia controllato dai funzionari dello Stato, proprio nello stesso modo in cui sono controllati i francobolli. Nessuno dice alcunché di diverso a proposito dei francobolli. Non riesco a immaginare che qualcuno voglia avere i propri francobolli, magari di disegno più pittoresco e di colori più svariati. Posso assicurarvi che i Distributisti sono persone perfettamente assennate e sane di mente, e hanno sempre riconosciuto che vi sono nello Stato istituzioni in cui è assai difficile applicare il principio della proprietà individuale, e che uno di questi casi è la scoperta sotto terra di minerali preziosi. I socialisti non sono i soli a crederlo. Carlo I, che, suppongo, non potrebbe essere chiamato socialista, fece notare che certi tipi di minerali dovrebbero appartenere allo Stato, cioè ai Comuni. Abbiamo detto e ripetuto che sosteniamo la nazionalizzazione delle miniere di carbone, non come esempio generale di Distribuzione, ma come ammissione di buon senso di un'eccezione. La ragione per cui ne facciamo un'eccezione è che non è molto facile vedere come vi si possa applicare il sano principio della proprietà personale. Se si potesse, lo applicheremmo col più grande piacere. Consideriamo la proprietà personale infinitamente più sana. Se vi fosse un modo in cui un minatore potesse delimitare un particolare pezzo di carbone e dire: «Questo è mio, e ne sono fiero», avremmo compiuto un enorme miglioramento rispetto alla gestione statale. Vi sono casi in cui è assai difficile applicare il principio, e questo è uno di essi. È l'esatto contrario della [[concepts/truth|verità]] che il signor [[works/shaw-(chesterton)|Shaw]] affermi che la logica di quel fatto mi condurrà ad applicare il medesimo principio ad altri casi, come la proprietà della terra. Non si potrebbe illustrarlo meglio che col caso del carbone. Può darsi sia vero, per quel che ne so, che se domandaste a un minatore se gli piacerebbe dirigere la miniera egli risponderebbe: «Non voglio dirigerla; spetta a chi è migliore di me dirigerla». Non avevo notato quel fare mite e semplice tra i minatori. Ho anzi sentito lagnanze del temperamento opposto in quella [[concepts/body|categoria]]. Sfido il signor [[works/shaw-(chesterton)|Shaw]] a dire che, se andaste dai contadini irlandesi, o dai contadini francesi, o dai contadini serbi o olandesi, o da uno qualsiasi dei milioni di contadini proprietari sparsi per il mondo, sfido lui a dire che, se andaste dal contadino e diceste: «Chi controlla queste fattorie?», egli risponderebbe: «Non spetta a gente come me controllare una fattoria». Il signor [[works/shaw-(chesterton)|Shaw]] sa perfettamente [[motifs/well|bene]] che è un'assurdità supporre che i contadini parlerebbero così in un qualsiasi luogo. È parte delle sue lagnanze contro i contadini il fatto che essi rivendicano possessi personali. Non è probabile che io sia indotto a negare la proprietà della terra, poiché conosco persone comuni e normali che sentono la proprietà della terra come una cosa normale. Concordo pienamente col signor [[works/shaw-(chesterton)|Shaw]], e parlo con la stessa forza con cui parlerebbe lui, dell'abominio e della detestabile turpitudine e del peccato dei proprietari terrieri che cacciarono i poveri dalla loro terra in Scozia e altrove. È del tutto vero che uomini in possesso della terra hanno commesso questi delitti; ma non vedo perché malvagi funzionari sotto uno Stato socialista non potrebbero commettere questi stessi delitti. Ma ciò non ha nulla a che fare col principio della proprietà della terra. Anzi, questi stessi piccoli coloni delle Highland, queste stesse persone così abominevolmente oltraggiate e oppresse, se chiedeste loro che cosa vogliono, probabilmente risponderebbero: «Voglio possedere il mio podere; voglio possedere la mia terra».
 
 
 
 <span class="atom-split" data-atom="story_03_cecil_palmer--part_06" data-title="Do We Agree? — Cecil Palmer (part 6)" data-chapter="Cecil Palmer" data-kind="excerpt" data-tags="motif/journey,concept/conscience,character/bottom"></span>
 
 
-Mr. [[Shaw]]'s dislike of the landlord is not so much a denial of
+Mr. [[works/shaw-(chesterton)|Shaw]]'s dislike of the landlord is not so much a denial of
 the right to private property.  not so much that he owns the land,
 but that the landlord has swallowed up private property.  In the face
 of these facts of millions and millions of ordinary human beings
 who have private property, who know what it is like to own property,
-I must confess that I am not overwhelmed and crushed by Mr. [[Shaw]]'s
+I must confess that I am not overwhelmed and crushed by Mr. [[works/shaw-(chesterton)|Shaw]]'s
 claim that he knows all about men and women as they really are.
-I think Mr. [[Shaw]] knows something about certain kinds of men and women;
+I think Mr. [[works/shaw-(chesterton)|Shaw]] knows something about certain kinds of men and women;
 though he sometimes makes them a little more amusing than they
 really are.  But I cannot agree with his discovery that peasants do
 not like peasant property, because I know the reverse is the fact.
@@ -1874,20 +1874,20 @@ are issued by an official group.  Up to a point I willingly accept
 his argument.  The Distributist is certainly not an anarchist.
 He does not believe it would be a good thing if there were no
 such laws.  But the reason why most of these laws are accepted
-is because they correspond with the common [[Conscience|conscience]] of mankind.
-Mr. [[Shaw]] and Bishop Barnes might think it would be an inadequate way
+is because they correspond with the common [[concepts/conscience|conscience]] of mankind.
+Mr. [[works/shaw-(chesterton)|Shaw]] and Bishop Barnes might think it would be an inadequate way
 of explaining it, but we might call attention to an Hebraic code
 called the Ten Commandments.  They do, I think, correspond pretty
 roughly to the moral code of every religion that is at all sane.
 These all reverence certain ideas about "Thou shalt not kill."
 They all have a reverence for the commandment which says,
 "Thou shalt not covet thy neighbour's goods."  They reverence
-the idea that you must not covet his [[house]] or his ox or his ass.
+the idea that you must not covet his house or his ox or his ass.
 It should be noted, too, that besides forbidding us to covet our
 neighbour's property, this commandment also implies that every
 man has a right to own some property.
 
-MR. [[Shaw|SHAW]]:  I now want to ask Mr. Chesterton why he insists,
+MR. SHAW:  I now want to ask Mr. Chesterton why he insists,
 on the point about the nationalization of the coal-mines--on which
 he agrees with me--that they are an exception.  Are they an exception?
 In what way are the coal-mines an exception?  What is the fundamental
@@ -1902,7 +1902,7 @@ find you have to go through workings driven out under the sea,
 which took 20 years to make, 20 years continual expenditure
 of capital before coal could be touched, where men going down
 the shaft have to travel sometimes two or three miles to their work.
-That is the reason at [[Bottom|bottom]] why you cannot distribute your coal mine.
+That is the reason at [[characters/bottom|bottom]] why you cannot distribute your coal mine.
 The reason you have to pay such monstrous prices for your coal
 is they are fixed by the cost of making the submarine mines.
 People who have mines like the Sunderland foreshore naturally make
@@ -1919,7 +1919,7 @@ are within half-an-hour's drive in a taxi.
 You cannot say that the coal-mine is an exception.
 The coal-mine is only one instance.  Mr. Chesterton in arriving at
 the necessity for the nationalization of the coal-mines has started
-on his [[Journey|journey]] towards the nationalization of all the industries.
+on his [[motifs/journey|journey]] towards the nationalization of all the industries.
 If he goes on to the land, and from the land to the factory,
 and from there to every other industrial department, he will
 find that every successive case is an exception; and eventually
@@ -1965,13 +1965,13 @@ you cannot split up the land and give every person a bit of property.
 
 <span class="qlang-split" data-lang="it"></span>
 
-L'avversione del signor [[Shaw]] per il proprietario terriero non è tanto una negazione del diritto alla proprietà privata, non tanto il fatto che egli possieda la terra, quanto il fatto che il proprietario terriero abbia inghiottito la proprietà privata. Di fronte a questi fatti di milioni e milioni di comuni esseri umani che possiedono una proprietà privata, che sanno che cosa voglia dire possedere una proprietà, devo confessare che non sono sopraffatto né schiacciato dalla pretesa del signor [[Shaw]] di sapere tutto sugli uomini e sulle donne quali essi realmente sono. Credo che il signor [[Shaw]] sappia qualcosa su certi tipi di uomini e di donne; benché talvolta li renda un po' più divertenti di quanto realmente siano. Ma non posso concordare con la sua scoperta che i contadini non amino la proprietà contadina, perché so che il contrario è la realtà.
+L'avversione del signor [[works/shaw-(chesterton)|Shaw]] per il proprietario terriero non è tanto una negazione del diritto alla proprietà privata, non tanto il fatto che egli possieda la terra, quanto il fatto che il proprietario terriero abbia inghiottito la proprietà privata. Di fronte a questi fatti di milioni e milioni di comuni esseri umani che possiedono una proprietà privata, che sanno che cosa voglia dire possedere una proprietà, devo confessare che non sono sopraffatto né schiacciato dalla pretesa del signor [[works/shaw-(chesterton)|Shaw]] di sapere tutto sugli uomini e sulle donne quali essi realmente sono. Credo che il signor [[works/shaw-(chesterton)|Shaw]] sappia qualcosa su certi tipi di uomini e di donne; benché talvolta li renda un po' più divertenti di quanto realmente siano. Ma non posso concordare con la sua scoperta che i contadini non amino la proprietà contadina, perché so che il contrario è la realtà.
 
-Veniamo poi al punto generale che egli ha sollevato riguardo allo Stato. Ha sollevato una questione assai interessante. Ha detto che, dopotutto, lo Stato comanda sì rispetto, che tutti accettiamo le leggi anche se emanate da un gruppo di funzionari. Fino a un certo punto accetto volentieri il suo argomento. Il Distributista non è certo un anarchico. Non crede che sarebbe una buona cosa se non vi fossero tali leggi. Ma la ragione per cui la maggior parte di queste leggi è accettata è che esse corrispondono alla comune [[Conscience|coscienza]] dell'umanità. Il signor [[Shaw]] e il vescovo Barnes potrebbero pensare che sia un modo inadeguato di spiegarlo, ma potremmo richiamare l'attenzione su un codice ebraico chiamato i Dieci Comandamenti. Essi, credo, corrispondono all'incirca al codice morale di ogni religione che sia minimamente assennata. Tutti riveriscono certe idee sul «Non uccidere». Tutti hanno una riverenza per il comandamento che dice: «Non desiderare i beni del tuo prossimo». Riveriscono l'idea che non si debba desiderare la sua [[house|casa]] né il suo bue né il suo asino. Va notato, inoltre, che oltre a proibirci di desiderare la proprietà del nostro prossimo, questo comandamento implica anche che ogni uomo ha il diritto di possedere una qualche proprietà.
+Veniamo poi al punto generale che egli ha sollevato riguardo allo Stato. Ha sollevato una questione assai interessante. Ha detto che, dopotutto, lo Stato comanda sì rispetto, che tutti accettiamo le leggi anche se emanate da un gruppo di funzionari. Fino a un certo punto accetto volentieri il suo argomento. Il Distributista non è certo un anarchico. Non crede che sarebbe una buona cosa se non vi fossero tali leggi. Ma la ragione per cui la maggior parte di queste leggi è accettata è che esse corrispondono alla comune [[concepts/conscience|coscienza]] dell'umanità. Il signor [[works/shaw-(chesterton)|Shaw]] e il vescovo Barnes potrebbero pensare che sia un modo inadeguato di spiegarlo, ma potremmo richiamare l'attenzione su un codice ebraico chiamato i Dieci Comandamenti. Essi, credo, corrispondono all'incirca al codice morale di ogni religione che sia minimamente assennata. Tutti riveriscono certe idee sul «Non uccidere». Tutti hanno una riverenza per il comandamento che dice: «Non desiderare i beni del tuo prossimo». Riveriscono l'idea che non si debba desiderare la sua casa né il suo bue né il suo asino. Va notato, inoltre, che oltre a proibirci di desiderare la proprietà del nostro prossimo, questo comandamento implica anche che ogni uomo ha il diritto di possedere una qualche proprietà.
 
-IL SIGNOR [[Shaw|SHAW]]: Ora voglio chiedere al signor Chesterton perché insista, sul punto della nazionalizzazione delle miniere di carbone — sul quale concorda con me — che esse siano un'eccezione. Sono un'eccezione? In che modo le miniere di carbone sono un'eccezione? Qual è la ragione fondamentale per cui si deve nazionalizzare la propria miniera di carbone? La ragione è questa. Se andate su nel collegio elettorale del signor Sidney Webb, sulla costa di Sunderland, potrete raccogliere carbone per niente, assolutamente per niente. Vedete gente che lo fa laggiù. Prendete una carrozzina, o una carriola, o un semplice sacco, e quando la marea si ritira uscite sulla battigia e raccogliete ottimo carbone. Se andate in altre parti dell'Inghilterra, come Whitehaven, scoprirete che dovete attraversare gallerie scavate sotto il mare, che occorsero vent'anni per essere realizzate, vent'anni di continua spesa di capitale prima che si potesse toccare il carbone, dove gli uomini che scendono nel pozzo devono talvolta percorrere due o tre miglia per giungere al lavoro. È questa, in [[Bottom|fondo]], la ragione per cui non potete distribuire la vostra miniera di carbone. La ragione per cui dovete pagare prezzi così mostruosi per il carbone è che essi sono fissati dal costo di realizzazione delle miniere sottomarine. Chi possiede miniere come la battigia di Sunderland fa naturalmente fortune colossali. Chiunque può vedere subito che, per avere un qualsiasi tipo di equo commercio del carbone, l'unico modo è far pagare ai cittadini il costo medio dell'intera fornitura nazionale. Non potete fare la media del costo mettendo le uova in panieri diversi. Ora, questa non è l'eccezione: è la regola. Avete esattamente la stessa differenza nel caso della terra. Avete terra che non vale assolutamente niente e terra che vale un milione l'acro o più. E l'acro che vale più di un milione e l'acro che non vale niente si trovano a mezz'ora di taxi l'uno dall'altro.
+IL SIGNOR SHAW: Ora voglio chiedere al signor Chesterton perché insista, sul punto della nazionalizzazione delle miniere di carbone — sul quale concorda con me — che esse siano un'eccezione. Sono un'eccezione? In che modo le miniere di carbone sono un'eccezione? Qual è la ragione fondamentale per cui si deve nazionalizzare la propria miniera di carbone? La ragione è questa. Se andate su nel collegio elettorale del signor Sidney Webb, sulla costa di Sunderland, potrete raccogliere carbone per niente, assolutamente per niente. Vedete gente che lo fa laggiù. Prendete una carrozzina, o una carriola, o un semplice sacco, e quando la marea si ritira uscite sulla battigia e raccogliete ottimo carbone. Se andate in altre parti dell'Inghilterra, come Whitehaven, scoprirete che dovete attraversare gallerie scavate sotto il mare, che occorsero vent'anni per essere realizzate, vent'anni di continua spesa di capitale prima che si potesse toccare il carbone, dove gli uomini che scendono nel pozzo devono talvolta percorrere due o tre miglia per giungere al lavoro. È questa, in [[characters/bottom|fondo]], la ragione per cui non potete distribuire la vostra miniera di carbone. La ragione per cui dovete pagare prezzi così mostruosi per il carbone è che essi sono fissati dal costo di realizzazione delle miniere sottomarine. Chi possiede miniere come la battigia di Sunderland fa naturalmente fortune colossali. Chiunque può vedere subito che, per avere un qualsiasi tipo di equo commercio del carbone, l'unico modo è far pagare ai cittadini il costo medio dell'intera fornitura nazionale. Non potete fare la media del costo mettendo le uova in panieri diversi. Ora, questa non è l'eccezione: è la regola. Avete esattamente la stessa differenza nel caso della terra. Avete terra che non vale assolutamente niente e terra che vale un milione l'acro o più. E l'acro che vale più di un milione e l'acro che non vale niente si trovano a mezz'ora di taxi l'uno dall'altro.
 
-Non potete dire che la miniera di carbone sia un'eccezione. La miniera di carbone è soltanto un caso tra tanti. Il signor Chesterton, giungendo alla necessità della nazionalizzazione delle miniere di carbone, si è messo in [[Journey|viaggio]] verso la nazionalizzazione di tutte le industrie. Se prosegue fino alla terra, e dalla terra alla fabbrica, e di là a ogni altro comparto industriale, scoprirà che ogni caso successivo è un'eccezione; e alla fine dovrà dire a se stesso: «Credo sarà meglio chiamare la nazionalizzazione la regola piuttosto che l'eccezione».
+Non potete dire che la miniera di carbone sia un'eccezione. La miniera di carbone è soltanto un caso tra tanti. Il signor Chesterton, giungendo alla necessità della nazionalizzazione delle miniere di carbone, si è messo in [[motifs/journey|viaggio]] verso la nazionalizzazione di tutte le industrie. Se prosegue fino alla terra, e dalla terra alla fabbrica, e di là a ogni altro comparto industriale, scoprirà che ogni caso successivo è un'eccezione; e alla fine dovrà dire a se stesso: «Credo sarà meglio chiamare la nazionalizzazione la regola piuttosto che l'eccezione».
 
 Devo negare di aver mai detto che il minatore dica di voler essere governato da chi è migliore di lui. Potrò non essere un democratico; ma non sono uno snob. Intellettualmente sono uno snob, e ammetterete che ne ho buon motivo. Socialmente non sono uno snob. Non c'è affatto questione di migliori in questa faccenda. Il direttore non è migliore dell'esecutore, né l'esecutore migliore del direttore. Entrambi sono egualmente necessari ed egualmente onorevoli. Ma se chiedete all'esecutore di dirigere, egli rifiuterà con la motivazione che non è il suo mestiere; e viceversa.
 
@@ -1988,11 +1988,11 @@ Come funziona questo meraviglioso sistema della proprietà contadina? Vi rendete
 
 I have stolen two minutes from Mr. Chesterton, and I apologise.
 
-MR. CHESTERTON:  I am sure Mr. [[Shaw]] is very welcome
+MR. CHESTERTON:  I am sure Mr. [[works/shaw-(chesterton)|Shaw]] is very welcome
 to as many minutes as I can offer him, or anything else,
 for his kindness in entertaining us this evening.
-It is rather late now and there is not much [[Time|time]] left for me.
-He has been rather slow in discovering what [[Distributism]] is and
+It is rather late now and there is not much [[motifs/time|time]] left for me.
+He has been rather slow in discovering what [[concepts/distributism|Distributism]] is and
 what the whole question is about.  If this were the beginning
 of the discussion I could do over our system completely.
 I could tell him exactly what we think about property in towns.
@@ -2001,28 +2001,28 @@ It is absurd to say it does not exist.
 In rural ownership different problems have to be faced.
 We are not cutting a thing up into mathematical squares.
 We are trying to deal with human beings, creatures quite
-outside the purview of Mr. [[Shaw]] and his political [[philosophy]].
+outside the purview of Mr. [[works/shaw-(chesterton)|Shaw]] and his political philosophy.
 We know town people are a little different from country people;
 business of one kind is different from business of another kind;
 difficulties arise about family, and all the rest of it.
-We show man's irrepressible [[Desire|desire]] to own property and because some
+We show man's irrepressible [[motifs/desire|desire]] to own property and because some
 landlords have been cruel, it is no use talking of abolishing,
 denying, and destroying property, saying no one shall have any
 property at all.  It is characteristic of his school, of his age.
-The [[morality]] he represents is above all the [[morality]] of negations.
+The morality he represents is above all the morality of negations.
 Just as it says you must not drink wine at all as the only
 solution to a few people drinking too much:  just as it
 would say you must not touch meat or smoke tobacco at all.
-Let us always remember, therefore, that when Mr. [[Shaw]] says he can
+Let us always remember, therefore, that when Mr. [[works/shaw-(chesterton)|Shaw]] says he can
 persuade all men to give up the sentiment of private property,
 it is in exactly the same hopeful spirit that he says he will get
 all of you to give up meat, tobacco, beer, and a vast number
 of other things.  He will not do anything of the sort and I
-suspect he himself suspects by this [[Time|time]] that he will not do it.
+suspect he himself suspects by this [[motifs/time|time]] that he will not do it.
 It is quite false to say you must have a centralised machinery,
 even in towns.  It is quite false to say that all forces
 must be used, as they are in monopolies, from the centre.
-It is absurd to say that because the [[Wind|wind]] is a central thing you cannot
+It is absurd to say that because the [[motifs/wind|wind]] is a central thing you cannot
 separate windmills.  How am I to explain all that in five minutes?
 I could go through a vast number of fallacies into which he has fallen.
 He said, ironically, he would like to see me go down a mine.
@@ -2039,20 +2039,20 @@ that they are antiquated, covered with hoary superstition.
 Why have they remained through all these centuries, if they must
 immediately break up and become impossible?  There is an answer
 to all that and I am quite prepared to give it at some greater
-length than five minutes.  But at no [[Time|time]] did I say that we must
+length than five minutes.  But at no [[motifs/time|time]] did I say that we must
 make the whole community a community of agricultural peasants.
-It is absurd.  What I said was that a [[Desire|desire]] for property which
+It is absurd.  What I said was that a [[motifs/desire|desire]] for property which
 is universal, everywhere, does appear in a perfect and working example
 in the ownership of land.  It only remains for me to say one thing.
-Mr. [[Shaw]] said, in reference to the State owning the means of production,
+Mr. [[works/shaw-(chesterton)|Shaw]] said, in reference to the State owning the means of production,
 that men and women are the only means of production.  I quite accept
-the parallel of the phrase.  His proposition is that the [[government]],
+the parallel of the phrase.  His proposition is that the government,
 the officials of the State, should own the men and women:
 in other words that the men and women should be slaves.
 
 MR. BELLOC:  I was told when I accepted this onerous office
 that I was to sum up.  I shall do nothing of the sort.
-In a very few years from now this [[debate]] will be antiquated.
+In a very few years from now this debate will be antiquated.
 I will now recite you a poem:
 
 "Our civilization
@@ -2060,7 +2060,7 @@ Is built upon coal.
 Let us chant in rotation
 Our civilization
 That lump of damnation
-Without any [[Soul|soul]],
+Without any [[motifs/soul|soul]],
 Our civilization
 Is built upon coal.
 
@@ -2068,12 +2068,12 @@ Is built upon coal.
 It will float upon oil.
 Then give three hearty cheers,
 In a very few years
-We shall mop up our [[Tears|tears]]
+We shall mop up our [[motifs/tears|tears]]
 And have done with our toil.
 In a very few years
 It will float upon oil."
 
-In I do not know how many years--five, ten, twenty--this [[debate]]
+In I do not know how many years--five, ten, twenty--this debate
 will be as antiquated as crinolines are.  I am surprised that
 neither of the two speakers pointed out that one of three things
 is going to happen.  One of three things:  not one of two.
@@ -2082,8 +2082,8 @@ thank God, oppresses only the small part of the world in which we
 are most inextricably bound up, will break down and therefore
 end from its monstrous wickedness, folly, ineptitude,
 leading to a restoration of sane, ordinary human affairs,
-complicated but based as a whole upon the [[Freedom|freedom]] of the citizens.
-Or it will break down and lead to nothing but a [[Desert|desert]].
+complicated but based as a whole upon the [[concepts/freedom|freedom]] of the citizens.
+Or it will break down and lead to nothing but a [[motifs/desert|desert]].
 Or it will lead the mass of men to become contented slaves,
 with a few rich men controlling them.  Take your choice.
 You will all be dead before any of the three things comes off.
@@ -2095,20 +2095,20 @@ or possibly a mixture of the three combined.
 
 Ho rubato due minuti al signor Chesterton, e me ne scuso.
 
-IL SIGNOR CHESTERTON: Sono certo che il signor [[Shaw]] è più che benvenuto a quanti minuti io possa offrirgli, o a qualunque altra cosa, per la sua cortesia nell'intrattenerci questa sera. È piuttosto tardi ormai e non mi resta molto [[Time|tempo]]. Egli è stato piuttosto lento a scoprire che cosa sia il [[Distributism|Distributismo]] e di che cosa tratti l'intera questione. Se questo fosse l'inizio della discussione, potrei esporre daccapo per intero il nostro sistema. Potrei dirgli esattamente ciò che pensiamo della proprietà nelle città. È assurdo dire che essa non esiste.
+IL SIGNOR CHESTERTON: Sono certo che il signor [[works/shaw-(chesterton)|Shaw]] è più che benvenuto a quanti minuti io possa offrirgli, o a qualunque altra cosa, per la sua cortesia nell'intrattenerci questa sera. È piuttosto tardi ormai e non mi resta molto [[motifs/time|tempo]]. Egli è stato piuttosto lento a scoprire che cosa sia il [[concepts/distributism|Distributismo]] e di che cosa tratti l'intera questione. Se questo fosse l'inizio della discussione, potrei esporre daccapo per intero il nostro sistema. Potrei dirgli esattamente ciò che pensiamo della proprietà nelle città. È assurdo dire che essa non esiste.
 
-Nella proprietà rurale si devono affrontare problemi diversi. Non stiamo tagliando una cosa in quadrati matematici. Stiamo cercando di trattare con esseri umani, creature del tutto al di fuori dell'orizzonte del signor [[Shaw]] e della sua [[philosophy|filosofia]] politica. Sappiamo che la gente di città è un po' diversa da quella di campagna; un tipo di affari è diverso da un altro tipo di affari; sorgono difficoltà riguardo alla famiglia, e via dicendo. Noi mostriamo l'irreprimibile [[Desire|desiderio]] dell'uomo di possedere proprietà, e poiché alcuni proprietari terrieri sono stati crudeli, non serve a nulla parlare di abolire, negare e distruggere la proprietà, dicendo che nessuno dovrà avere alcuna proprietà. È caratteristico della sua scuola, della sua epoca. La [[morality|morale]] che egli rappresenta è soprattutto la [[morality|morale]] delle negazioni. Proprio come dice che non si deve bere vino affatto come unica soluzione al fatto che poche persone ne bevano troppo: proprio come direbbe che non si deve toccare affatto la carne né fumare affatto il tabacco. Ricordiamo dunque sempre che, quando il signor [[Shaw]] dice di poter persuadere tutti gli uomini a rinunciare al sentimento della proprietà privata, lo fa nello stesso spirito ottimista con cui dice che indurrà tutti voi a rinunciare a carne, tabacco, birra e a un'enorme quantità di altre cose. Non farà nulla del genere, e sospetto che egli stesso sospetti a questo [[Time|momento]] che non lo farà. È del tutto falso dire che si debba avere un macchinario centralizzato, persino nelle città. È del tutto falso dire che tutte le forze debbano essere usate, come lo sono nei monopoli, dal centro. È assurdo dire che, poiché il [[Wind|vento]] è una cosa centrale, non si possano separare i mulini a vento. Come faccio a spiegare tutto ciò in cinque minuti? Potrei passare in rassegna un'enorme quantità di fallacie in cui è caduto. Ha detto, ironicamente, che gli piacerebbe vedermi scendere in una miniera. Non ho alcuna difficoltà a immaginarmi mentre sprofondo in tal modo in un qualsiasi deposito geologico. Vorrei davvero vederlo lavorare in una fattoria, perché scoprirebbe che circa cinquecento sciocchezze che ha detto sono le sciocchezze che sono.
+Nella proprietà rurale si devono affrontare problemi diversi. Non stiamo tagliando una cosa in quadrati matematici. Stiamo cercando di trattare con esseri umani, creature del tutto al di fuori dell'orizzonte del signor [[works/shaw-(chesterton)|Shaw]] e della sua filosofia politica. Sappiamo che la gente di città è un po' diversa da quella di campagna; un tipo di affari è diverso da un altro tipo di affari; sorgono difficoltà riguardo alla famiglia, e via dicendo. Noi mostriamo l'irreprimibile [[motifs/desire|desiderio]] dell'uomo di possedere proprietà, e poiché alcuni proprietari terrieri sono stati crudeli, non serve a nulla parlare di abolire, negare e distruggere la proprietà, dicendo che nessuno dovrà avere alcuna proprietà. È caratteristico della sua scuola, della sua epoca. La morale che egli rappresenta è soprattutto la morale delle negazioni. Proprio come dice che non si deve bere vino affatto come unica soluzione al fatto che poche persone ne bevano troppo: proprio come direbbe che non si deve toccare affatto la carne né fumare affatto il tabacco. Ricordiamo dunque sempre che, quando il signor [[works/shaw-(chesterton)|Shaw]] dice di poter persuadere tutti gli uomini a rinunciare al sentimento della proprietà privata, lo fa nello stesso spirito ottimista con cui dice che indurrà tutti voi a rinunciare a carne, tabacco, birra e a un'enorme quantità di altre cose. Non farà nulla del genere, e sospetto che egli stesso sospetti a questo [[motifs/time|momento]] che non lo farà. È del tutto falso dire che si debba avere un macchinario centralizzato, persino nelle città. È del tutto falso dire che tutte le forze debbano essere usate, come lo sono nei monopoli, dal centro. È assurdo dire che, poiché il [[motifs/wind|vento]] è una cosa centrale, non si possano separare i mulini a vento. Come faccio a spiegare tutto ciò in cinque minuti? Potrei passare in rassegna un'enorme quantità di fallacie in cui è caduto. Ha detto, ironicamente, che gli piacerebbe vedermi scendere in una miniera. Non ho alcuna difficoltà a immaginarmi mentre sprofondo in tal modo in un qualsiasi deposito geologico. Vorrei davvero vederlo lavorare in una fattoria, perché scoprirebbe che circa cinquecento sciocchezze che ha detto sono le sciocchezze che sono.
 
-È del tutto fallace suggerire che vi sia una qualche sorta di difficoltà nelle popolazioni contadine per cui esse siano destinate a scomparire. La risposta a ciò è che non sono scomparse. Fa parte proprio dell'accusa contro il ceto contadino, tra coloro che non lo amano, che esso sia antiquato, ricoperto di canuta superstizione. Perché è rimasto attraverso tutti questi secoli, se deve immediatamente sfaldarsi e diventare impossibile? Vi è una risposta a tutto ciò, e sono pronto a darla a maggior lunghezza di cinque minuti. Ma in nessun [[Time|momento]] ho detto che dobbiamo fare dell'intera comunità una comunità di contadini agricoltori. È assurdo. Ciò che ho detto è che un [[Desire|desiderio]] di proprietà, che è universale, dappertutto, appare sì in un esempio perfetto e funzionante nella proprietà della terra. Non mi resta che dire una cosa. Il signor [[Shaw]] ha detto, a proposito dello Stato che possiede i mezzi di produzione, che gli uomini e le donne sono gli unici mezzi di produzione. Accetto senz'altro il parallelo della frase. La sua proposizione è che il [[government|governo]], i funzionari dello Stato, dovrebbero possedere gli uomini e le donne: in altre parole, che gli uomini e le donne dovrebbero essere schiavi.
+È del tutto fallace suggerire che vi sia una qualche sorta di difficoltà nelle popolazioni contadine per cui esse siano destinate a scomparire. La risposta a ciò è che non sono scomparse. Fa parte proprio dell'accusa contro il ceto contadino, tra coloro che non lo amano, che esso sia antiquato, ricoperto di canuta superstizione. Perché è rimasto attraverso tutti questi secoli, se deve immediatamente sfaldarsi e diventare impossibile? Vi è una risposta a tutto ciò, e sono pronto a darla a maggior lunghezza di cinque minuti. Ma in nessun [[motifs/time|momento]] ho detto che dobbiamo fare dell'intera comunità una comunità di contadini agricoltori. È assurdo. Ciò che ho detto è che un [[motifs/desire|desiderio]] di proprietà, che è universale, dappertutto, appare sì in un esempio perfetto e funzionante nella proprietà della terra. Non mi resta che dire una cosa. Il signor [[works/shaw-(chesterton)|Shaw]] ha detto, a proposito dello Stato che possiede i mezzi di produzione, che gli uomini e le donne sono gli unici mezzi di produzione. Accetto senz'altro il parallelo della frase. La sua proposizione è che il governo, i funzionari dello Stato, dovrebbero possedere gli uomini e le donne: in altre parole, che gli uomini e le donne dovrebbero essere schiavi.
 
-IL SIGNOR BELLOC: Quando accettai questo oneroso incarico, mi fu detto che avrei dovuto tirare le somme. Non farò nulla del genere. Fra pochissimi anni, a partire da ora, questo [[debate|dibattito]] sarà antiquato. Ora vi reciterò una poesia:
+IL SIGNOR BELLOC: Quando accettai questo oneroso incarico, mi fu detto che avrei dovuto tirare le somme. Non farò nulla del genere. Fra pochissimi anni, a partire da ora, questo dibattito sarà antiquato. Ora vi reciterò una poesia:
 
 «La nostra civiltà
 è fondata sul carbone.
 Cantiamo a turno
 la nostra civiltà,
 quel blocco di dannazione
-senza alcuna [[Soul|anima]],
+senza alcuna [[motifs/soul|anima]],
 la nostra civiltà
 è fondata sul carbone.
 
@@ -2116,9 +2116,9 @@ la nostra civiltà
 galleggerà sul petrolio.
 Allora lanciate tre calorosi evviva,
 fra pochissimi anni
-asciugheremo le nostre [[Tears|lacrime]]
+asciugheremo le nostre [[motifs/tears|lacrime]]
 e la finiremo con la nostra fatica.
 Fra pochissimi anni
 galleggerà sul petrolio.»
 
-Fra non so quanti anni — cinque, dieci, venti — questo [[debate|dibattito]] sarà antiquato quanto lo sono le crinoline. Mi sorprende che nessuno dei due oratori abbia fatto notare che una di tre cose sta per accadere. Una di tre cose: non una di due. È sempre una di tre cose. Questa civiltà industriale, che, grazie a Dio, opprime soltanto la piccola parte del mondo in cui siamo più inestricabilmente coinvolti, crollerà e dunque avrà fine per la sua mostruosa malvagità, follia, inettitudine, portando a una restaurazione di sane, ordinarie faccende umane, complicate ma fondate nel loro insieme sulla [[Freedom|libertà]] dei cittadini. Oppure crollerà e non condurrà a nient'altro che a un [[Desert|deserto]]. Oppure condurrà la massa degli uomini a diventare schiavi contenti, con pochi uomini ricchi a controllarli. Scegliete voi. Sarete tutti morti prima che una delle tre cose si avveri. Una delle tre cose sta per accadere, o una mescolanza di due, o forse una mescolanza delle tre combinate.
+Fra non so quanti anni — cinque, dieci, venti — questo dibattito sarà antiquato quanto lo sono le crinoline. Mi sorprende che nessuno dei due oratori abbia fatto notare che una di tre cose sta per accadere. Una di tre cose: non una di due. È sempre una di tre cose. Questa civiltà industriale, che, grazie a Dio, opprime soltanto la piccola parte del mondo in cui siamo più inestricabilmente coinvolti, crollerà e dunque avrà fine per la sua mostruosa malvagità, follia, inettitudine, portando a una restaurazione di sane, ordinarie faccende umane, complicate ma fondate nel loro insieme sulla [[concepts/freedom|libertà]] dei cittadini. Oppure crollerà e non condurrà a nient'altro che a un [[motifs/desert|deserto]]. Oppure condurrà la massa degli uomini a diventare schiavi contenti, con pochi uomini ricchi a controllarli. Scegliete voi. Sarete tutti morti prima che una delle tre cose si avveri. Una delle tre cose sta per accadere, o una mescolanza di due, o forse una mescolanza delle tre combinate.

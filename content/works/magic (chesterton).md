@@ -46,7 +46,7 @@ tags:
   - histref/irish_question
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
+*by Chesterton*  ·  **Cluster:** [[clusters/temptation-·-good-vs-evil-·-serpent-snake|Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 
 > A stage comedy in which a Conjurer's real magic confounds a sceptic; debates faith, doubt, the supernatural and spiritualism, with fairies presented as mighty elemental spirits.
@@ -76,17 +76,17 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]], [[Christianity]], [[Irish Question]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]], [[historical-references/irish-question|Irish Question]]
 
-**Archetypes:** [[Fool]], [[Trickster]]
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/trickster|Trickster]]
 
-**Settings:** [[Garden (2)]], [[Rural England]]
+**Settings:** [[settings/garden-(2)|Garden (2)]], [[settings/rural-england|Rural England]]
 
-**Characters:** [[Hastings]], [[The Duke]], [[Doctor Grimthorpe]], [[Rev. Cyril Smith]], [[Morris Carleon]], [[Patricia Carleon]], [[The Conjurer]]
+**Characters:** [[characters/hastings|Hastings]], [[characters/the-duke|The Duke]], [[characters/doctor-grimthorpe|Doctor Grimthorpe]], [[characters/rev.-cyril-smith|Rev. Cyril Smith]], [[characters/morris-carleon|Morris Carleon]], [[characters/patricia-carleon|Patricia Carleon]], [[characters/the-conjurer|The Conjurer]]
 
-**Motifs:** [[Supernatural]], [[Light and Dark]], [[Music and Song]], [[Clothing and Costume]], [[Concealment Hidden Identity]], [[Great House]]
-**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Good vs Evil]], [[Temptation]], [[Appearance vs Reality]], [[Imagination]], [[Madness]], [[Deception]], [[Secrecy and Concealment]], [[Satire of Society]], [[Romantic Love]], [[Grace and Redemption]], [[Spiritualism]], [[History]]
-**Forms & Genres:** [[Comedy]], [[Verse Drama]], [[Problem Play]]
+**Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/light-and-dark|Light and Dark]], [[motifs/music-and-song|Music and Song]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/great-house|Great House]]
+**Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/doubt|Doubt]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/temptation|Temptation]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/imagination|Imagination]], [[concepts/madness|Madness]], [[concepts/deception|Deception]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/satire-of-society|Satire of Society]], [[concepts/romantic-love|Romantic Love]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/spiritualism|Spiritualism]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]], [[forms/problem-play|Problem Play]]
 
 ## Testo integrale / Full text
 

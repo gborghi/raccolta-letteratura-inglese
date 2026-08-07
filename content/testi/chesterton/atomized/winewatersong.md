@@ -36,13 +36,13 @@ Bold italic text has been marked with =equals signs=.
 
 ]
 
-WINE, [[Water|WATER]], AND [[Song|SONG]]
+WINE, [[motifs/water|WATER]], AND SONG
 
 BY THE SAME AUTHOR
 
 CHARLES DICKENS
 
-THE BALLAD OF THE WHITE [[Horse|HORSE]]
+THE BALLAD OF THE WHITE [[motifs/horse|HORSE]]
 
 THE FLYING INN
 
@@ -54,9 +54,9 @@ ALARMS AND DISCURSIONS
 
 A MISCELLANY OF MEN
 
-WINE, [[Water|WATER]]
+WINE, [[motifs/water|WATER]]
 
-AND [[Song|SONG]]
+AND SONG
 
 BY
 
@@ -68,7 +68,7 @@ METHUEN & CO. LTD.
 
 36 ESSEX STREET W.C.
 
-[[London|LONDON]]
+[[settings/london|LONDON]]
 
 First Published      August  6th 1915
 
@@ -78,9 +78,9 @@ Third Edition        August 23rd 1915
 
 NOTE
 
-The [[songs|Songs]] in this book are taken from "THE FLYING INN," with the
+The Songs in this book are taken from "THE FLYING INN," with the
 
-exception of "The Good Rich Man" and "The [[Song]] of the Strange [[ascetic|Ascetic]],"
+exception of "The Good Rich Man" and "The [[works/song-(poe)|Song]] of the Strange Ascetic,"
 
 which are here included by kind permission of the editor of =The New
 
@@ -92,37 +92,37 @@ Page
 
 The Englishman                        9
 
-Wine and [[Water]]                       11
+Wine and [[motifs/water|Water]]                       11
 
-The [[Song]] against Grocers             15
+The [[works/song-(poe)|Song]] against Grocers             15
 
-The [[rolling|Rolling]] English [[Road]]             20
+The Rolling English [[motifs/road|Road]]             20
 
-The [[Song]] of [[quoodle|Quoodle]]                  24
+The [[works/song-(poe)|Song]] of [[characters/quoodle|Quoodle]]                  24
 
 Pioneers, O Pioneers                 27
 
-The Logical [[vegetarian|Vegetarian]]               31
+The Logical Vegetarian               31
 
 "The Saracen's Head"                 34
 
 The Good Rich Man                    37
 
-The [[Song]] against [[songs|Songs]]               42
+The [[works/song-(poe)|Song]] against Songs               42
 
 Me Heart                             45
 
-The [[Song]] of the Oak                  49
+The [[works/song-(poe)|Song]] of the Oak                  49
 
-The [[Road]] to Roundabout               53
+The [[motifs/road|Road]] to Roundabout               53
 
-The [[Song]] of the Strange [[ascetic|Ascetic]]      57
+The [[works/song-(poe)|Song]] of the Strange Ascetic      57
 
-The [[Song]] of Right and Wrong          60
+The [[works/song-(poe)|Song]] of Right and Wrong          60
 
-Who Goes [[Home]]?                       63
+Who Goes [[motifs/home|Home]]?                       63
 
-WINE, [[Water|WATER]], AND [[Song|SONG]]
+WINE, [[motifs/water|WATER]], AND SONG
 
 The Englishman
 
@@ -164,7 +164,7 @@ And shall wear the shield he wore
 
 When we go out in armour
 
-With the battle-[[Cross|cross]] before.
+With the battle-[[motifs/cross|cross]] before.
 
 But though he is jolly company
 
@@ -174,7 +174,7 @@ It isn't safe to give him nuts
 
 Unless you give him wine.
 
-Wine and [[Water]]
+Wine and [[motifs/water|Water]]
 
 Old Noah he had an ostrich farm and fowls on the largest scale,
 
@@ -186,19 +186,19 @@ But they all were small to the cellar he took when he set out to sail,
 
 And Noah he often said to his wife when he sat down to dine,
 
-"I don't care where the [[Water|water]] goes if it doesn't get into the wine."
+"I don't care where the [[motifs/water|water]] goes if it doesn't get into the wine."
 
 The cataract of the cliff of heaven fell blinding off the brink
 
-As if it would wash the [[Stars|stars]] away as suds go down a sink,
+As if it would wash the [[motifs/stars|stars]] away as suds go down a sink,
 
 The seven heavens came roaring down for the throats of hell to drink,
 
 And Noah he cocked his eye and said, "It looks like rain, I think,
 
-The [[Water|water]] has drowned the Matterhorn as deep as a Mendip mine,
+The [[motifs/water|water]] has drowned the Matterhorn as deep as a Mendip mine,
 
-But I don't care where the [[Water|water]] goes if it doesn't get into the wine."
+But I don't care where the [[motifs/water|water]] goes if it doesn't get into the wine."
 
 But Noah he sinned, and we have sinned; on tipsy feet we trod,
 
@@ -206,15 +206,15 @@ Till a great big black teetotaller was sent to us for a rod,
 
 And you can't get wine at a P.S.A., or chapel, or Eisteddfod,
 
-For the Curse of [[Water]] has come again because of the wrath of God,
+For the Curse of [[motifs/water|Water]] has come again because of the wrath of God,
 
-And [[Water|water]] is on the Bishop's board and the Higher Thinker's shrine,
+And [[motifs/water|water]] is on the Bishop's board and the Higher Thinker's shrine,
 
-But I don't care where the [[Water|water]] goes if it doesn't get into the wine.
+But I don't care where the [[motifs/water|water]] goes if it doesn't get into the wine.
 
-The [[Song]] Against Grocers
+The [[works/song-(poe)|Song]] Against Grocers
 
-God made the wicked [[grocer|Grocer]]
+God made the wicked Grocer
 
 For a mystery and a sign,
 
@@ -230,13 +230,13 @@ And God that made good laughter
 
 Has seen that they are good.
 
-The evil-hearted [[grocer|Grocer]]
+The evil-hearted Grocer
 
 Would call his mother "Ma'am,"
 
 And bow at her and bob at her,
 
-Her aged [[Soul|soul]] to damn,
+Her aged [[motifs/soul|soul]] to damn,
 
 And rub his horrid hands and ask
 
@@ -270,31 +270,31 @@ To crack a bottle with a friend
 
 Or treat unmoneyed men,
 
-But who hath seen the [[grocer|Grocer]]
+But who hath seen the Grocer
 
 Treat housemaids to his teas
 
 Or crack a bottle of fish-sauce
 
-Or stand a man a [[cheese]]?
+Or stand a man a cheese?
 
 He sells us sands of Araby
 
 As sugar for cash down;
 
-He sweeps his shop and sells the [[Dust|dust]]
+He sweeps his shop and sells the [[motifs/dust|dust]]
 
 The purest salt in town,
 
 He crams with cans of poisoned meat
 
-Poor subjects of the [[King]],
+Poor subjects of the [[archetypes/king|King]],
 
 And when they die by thousands
 
 Why, he laughs like anything.
 
-The wicked [[grocer|Grocer]] groces
+The wicked Grocer groces
 
 In spirits and in wine,
 
@@ -310,7 +310,7 @@ For to be snatched by Duchesses
 
 And drunk in dressing-rooms.
 
-The hell-instructed [[grocer|Grocer]]
+The hell-instructed Grocer
 
 Has a temple made of tin,
 
@@ -322,47 +322,47 @@ But now the sands are running out
 
 From sugar of a sort,
 
-The [[grocer|Grocer]] trembles; for his [[Time|time]],
+The Grocer trembles; for his [[motifs/time|time]],
 
 Just like his weight, is short.
 
-The [[rolling|Rolling]] English [[Road]]
+The Rolling English [[motifs/road|Road]]
 
 Before the Roman came to Rye or out to Severn strode,
 
-The [[rolling]] English drunkard made the [[rolling]] English [[Road|road]].
+The rolling English drunkard made the rolling English [[motifs/road|road]].
 
-A reeling [[Road|road]], a [[rolling]] [[Road|road]], that rambles round the shire,
+A reeling [[motifs/road|road]], a rolling [[motifs/road|road]], that rambles round the shire,
 
 And after him the parson ran, the sexton and the squire;
 
-A merry [[Road|road]], a mazy [[Road|road]], and such as we did tread
+A merry [[motifs/road|road]], a mazy [[motifs/road|road]], and such as we did tread
 
-The [[Night|night]] we went to Birmingham by way of Beachy Head.
+The [[motifs/night|night]] we went to Birmingham by way of Beachy Head.
 
 I knew no harm of Bonaparte and plenty of the Squire,
 
-And for to fight the Frenchman I did not much [[Desire|desire]];
+And for to fight the Frenchman I did not much [[motifs/desire|desire]];
 
 But I did bash their baggonets because they came arrayed
 
-To straighten out the crooked [[Road|road]] an English drunkard made,
+To straighten out the crooked [[motifs/road|road]] an English drunkard made,
 
 Where you and I went down the lane with ale-mugs in our hands,
 
-The [[Night|night]] we went to Glastonbury by way of Goodwin Sands.
+The [[motifs/night|night]] we went to Glastonbury by way of Goodwin Sands.
 
-His sins they were forgiven him; or why do [[Flowers|flowers]] run
+His sins they were forgiven him; or why do [[motifs/flowers|flowers]] run
 
 Behind him; and the hedges all strengthing in the sun?
 
 The wild thing went from left to right and knew not which was which,
 
-But the wild [[Rose|rose]] was above him when they found him in the ditch.
+But the wild [[motifs/rose|rose]] was above him when they found him in the ditch.
 
 God pardon us, nor harden us; we did not see so clear
 
-The [[Night|night]] we went to Bannockburn by way of Brighton Pier.
+The [[motifs/night|night]] we went to Bannockburn by way of Brighton Pier.
 
 My friends, we will not go again or ape an ancient rage,
 
@@ -370,13 +370,13 @@ Or stretch the folly of our youth to be the shame of age,
 
 But walk with clearer eyes and ears this path that wandereth,
 
-And see undrugged in evening light the decent inn of [[Death|death]];
+And see undrugged in evening light the decent inn of [[motifs/death|death]];
 
 For there is good news yet to hear and fine things to be seen,
 
 Before we go to Paradise by way of Kensal Green.
 
-The [[Song]] of [[quoodle|Quoodle]]
+The [[works/song-(poe)|Song]] of [[characters/quoodle|Quoodle]]
 
 They haven't got no noses,
 
@@ -402,7 +402,7 @@ Where even the Law of Moses
 
 Will let you steal a smell.
 
-The brilliant smell of [[Water|water]],
+The brilliant smell of [[motifs/water|water]],
 
 The brave smell of a stone,
 
@@ -412,25 +412,25 @@ The old bones buried under,
 
 Are things in which they blunder
 
-And err, if left [[Alone|alone]].
+And err, if left alone.
 
-The [[Wind|wind]] from [[Winter|winter]] forests,
+The [[motifs/wind|wind]] from [[motifs/winter|winter]] forests,
 
-The scent of scentless [[Flowers|flowers]],
+The scent of scentless [[motifs/flowers|flowers]],
 
 The breath of brides' adorning,
 
 The smell of snare and warning,
 
-The smell of [[Sunday]] morning,
+The smell of [[characters/sunday|Sunday]] morning,
 
 God gave to us for ours.
 
 . . . . .
 
-And [[quoodle|Quoodle]] here discloses
+And [[characters/quoodle|Quoodle]] here discloses
 
-All things that [[quoodle|Quoodle]] can,
+All things that [[characters/quoodle|Quoodle]] can,
 
 They haven't got no noses,
 
@@ -442,13 +442,13 @@ The Noselessness of Man.
 
 Pioneers, O Pioneers
 
-Nebuchadnezzar the [[King]] of the Jews
+Nebuchadnezzar the [[archetypes/king|King]] of the Jews
 
 Suffered from new and original views,
 
 He crawled on his hands and knees, it's said,
 
-With grass in his mouth and a [[Crown|crown]] on his head.
+With grass in his mouth and a [[motifs/crown|crown]] on his head.
 
 With a wowtyiddly, etc.
 
@@ -458,7 +458,7 @@ Thought the thing was a curse from God,
 
 But a Pioneer men always abuse
 
-Like Nebuchadnezzar the [[King]] of the Jews.
+Like Nebuchadnezzar the [[archetypes/king|King]] of the Jews.
 
 Black Lord Foulon the Frenchman slew
 
@@ -470,19 +470,19 @@ So they stuffed him with grass when they cut off his head.
 
 With a wowtyiddly, etc.
 
-For the [[Pride|pride]] of his [[Soul|soul]] he perished then--
+For the [[concepts/pride|pride]] of his [[motifs/soul|soul]] he perished then--
 
-But of course it is always of [[Pride]] that men,
+But of course it is always of [[concepts/pride|Pride]] that men,
 
 A Man in Advance of his Age accuse,
 
-Like Nebuchadnezzar the [[King]] of the Jews.
+Like Nebuchadnezzar the [[archetypes/king|King]] of the Jews.
 
 Simeon Scudder of Styx, in Maine,
 
 Thought of the thing and was at it again.
 
-He gave good grass and [[Water|water]] in pails
+He gave good grass and [[motifs/water|water]] in pails
 
 To a thousand Irishmen hammering rails.
 
@@ -490,21 +490,21 @@ With a wowtyiddly, etc.
 
 Appetites differ; and tied to a stake
 
-He was tarred and feathered for [[Conscience]]' Sake.
+He was tarred and feathered for [[concepts/conscience|Conscience]]' Sake.
 
 But stoning the prophets is ancient news,
 
-Like Nebuchadnezzar the [[King]] of the Jews.
+Like Nebuchadnezzar the [[archetypes/king|King]] of the Jews.
 
-The Logical [[vegetarian|Vegetarian]]
+The Logical Vegetarian
 
-"Why shouldn't I have a purely [[vegetarian]] drink? Why shouldn't I take
+"Why shouldn't I have a purely vegetarian drink? Why shouldn't I take
 
 vegetables in their highest form, so to speak? The modest vegetarians
 
-ought obviously to stick to wine or beer, plain [[vegetarian]] drinks,
+ought obviously to stick to wine or beer, plain vegetarian drinks,
 
-instead of filling their goblets with the [[Blood|blood]] of bulls and elephants,
+instead of filling their goblets with the [[motifs/blood|blood]] of bulls and elephants,
 
 as all conventional meat-eaters do, I suppose."--Dalroy.
 
@@ -518,7 +518,7 @@ You will find me drinking gin
 
 In the lowest kind of inn,
 
-Because I am a rigid [[vegetarian|Vegetarian]].
+Because I am a rigid Vegetarian.
 
 So I cleared the inn of wine,
 
@@ -530,7 +530,7 @@ But he said I couldn't speak,
 
 And he bowled me to the Beak
 
-Because I was a Happy [[vegetarian|Vegetarian]].
+Because I was a Happy Vegetarian.
 
 Oh, I knew a Doctor Gluck,
 
@@ -542,7 +542,7 @@ So I gave him all the pork
 
 That I had, upon a fork;
 
-Because I am myself a [[vegetarian|Vegetarian]].
+Because I am myself a Vegetarian.
 
 I am silent in the Club,
 
@@ -554,11 +554,11 @@ For I stuff away for life
 
 Shoving peas in with a knife,
 
-Because I am at heart a [[vegetarian|Vegetarian]].
+Because I am at heart a Vegetarian.
 
 No more the milk of cows
 
-Shall pollute my private [[house]]
+Shall pollute my private house
 
 Than the milk of the wild mares of the Barbarian;
 
@@ -566,7 +566,7 @@ I will stick to port and sherry,
 
 For they are so very, very,
 
-So very, very, very [[vegetarian|Vegetarian]].
+So very, very, very Vegetarian.
 
 "The Saracen's Head"
 
@@ -574,13 +574,13 @@ So very, very, very [[vegetarian|Vegetarian]].
 
 Where we shall never drink wine again,
 
-For the wicked old women who feel [[Well|well]]-bred
+For the wicked old women who feel [[motifs/well|well]]-bred
 
 Have turned to a tea-shop "The Saracen's Head."
 
 "The Saracen's Head" out of Araby came,
 
-[[King]] [[Richard]] riding in arms like flame,
+[[archetypes/king|King]] [[characters/richard|Richard]] riding in arms like flame,
 
 And where he established his folk to be fed
 
@@ -598,7 +598,7 @@ So "The Saracen's Head" fulfils its name,
 
 They drink no wine--a ridiculous game--
 
-And I shall [[Wonder|wonder]] until I'm dead,
+And I shall [[concepts/wonder|wonder]] until I'm dead,
 
 How it ever came into the Saracen's Head.
 
@@ -612,7 +612,7 @@ He ordered his lunch by megaphone in manly, simple tones,
 
 And used all his motors for canvassing voters, and twenty telephones;
 
-Besides a dandy little [[Machine|machine]],
+Besides a dandy little [[motifs/machine|machine]],
 
 Cunning and neat as ever was seen,
 
@@ -644,7 +644,7 @@ A scarlet tunic with sunflowers decked,
 
 Which might have had a more marked effect,
 
-And pleased the [[Pride|pride]] of a weaker man that yearned for wine or wife;
+And pleased the [[concepts/pride|pride]] of a weaker man that yearned for wine or wife;
 
 But Fame and the Flagon, for Mr. Mandragon
 
@@ -656,9 +656,9 @@ He enjoyed a quiet funeral in a Crematorium shed.
 
 And he lies there fluffy and soft and grey and certainly quite refined;
 
-When he might have rotted to [[Flowers|flowers]] and fruit with Adam and all mankind,
+When he might have rotted to [[motifs/flowers|flowers]] and fruit with Adam and all mankind,
 
-Or been eaten by wolves athirst for [[Blood|blood]],
+Or been eaten by wolves athirst for [[motifs/blood|blood]],
 
 Or burnt on a good tall pyre of wood,
 
@@ -670,19 +670,19 @@ Merrily taking twopenny ale and pork with a pocket-knife;
 
 But this was luxury not for one that went for the Simple Life.
 
-The [[Song]] Against [[songs|Songs]]
+The [[works/song-(poe)|Song]] Against Songs
 
-The [[Song|song]] of the sorrow of Melisande is a weary [[Song|song]] and a dreary [[Song|song]],
+The song of the sorrow of Melisande is a weary song and a dreary song,
 
-The glory of [[Mariana]]'s grange had got into great [[Decay|decay]],
+The glory of [[characters/mariana|Mariana]]'s grange had got into great [[motifs/decay|decay]],
 
-The [[Song|song]] of [[The Raven|the Raven]] Never More has never been called a cheery [[Song|song]],
+The song of the Raven Never More has never been called a cheery song,
 
 And the brightest things in Baudelaire are anything else but gay.
 
-But who will write us a riding [[Song|song]],
+But who will write us a riding song,
 
-Or a hunting [[Song|song]] or a drinking [[Song|song]],
+Or a hunting song or a drinking song,
 
 Fit for them that arose and rode
 
@@ -690,41 +690,41 @@ When day and the wine were red?
 
 But bring me a quart of claret out,
 
-And I will write you a clinking [[Song|song]],
+And I will write you a clinking song,
 
-A [[Song|song]] of war and a [[Song|song]] of wine
+A song of war and a song of wine
 
-And a [[Song|song]] to wake the dead.
+And a song to wake the dead.
 
-The [[Song|song]] of the fury of Fragolette is a florid [[Song|song]] and a torrid [[Song|song]],
+The song of the fury of Fragolette is a florid song and a torrid song,
 
-The [[Song|song]] of the sorrow of Tara is sung to a harp unstrung,
+The song of the sorrow of Tara is sung to a harp unstrung,
 
-The [[Song|song]] of the cheerful Shropshire Lad I consider a perfectly horrid [[Song|song]],
+The song of the cheerful Shropshire Lad I consider a perfectly horrid song,
 
-And the [[Song|song]] of the happy Futurist is a [[Song|song]] that can't be sung.
+And the song of the happy Futurist is a song that can't be sung.
 
-But who will write us a riding [[Song|song]]
+But who will write us a riding song
 
-Or a fighting [[Song|song]] or a drinking [[Song|song]],
+Or a fighting song or a drinking song,
 
 Fit for the fathers of you and me,
 
 That knew how to think and thrive?
 
-But the [[Song|song]] of [[Beauty]] and Art and [[Love]]
+But the song of [[concepts/beauty|Beauty]] and Art and [[motifs/love|Love]]
 
-Is simply an utterly stinking [[Song|song]],
+Is simply an utterly stinking song,
 
-To [[Double|double]] you up and drag you down
+To [[topoi/double|double]] you up and drag you down
 
-And damn your [[Soul|soul]] alive.
+And damn your [[motifs/soul|soul]] alive.
 
 Me Heart
 
 I come from Castlepatrick, and me heart is on me sleeve,
 
-And any [[Sword|sword]] or [[Pistol|pistol]] boy can hit it with me leave,
+And any sword or [[characters/pistol|pistol]] boy can hit it with me leave,
 
 It shines there for an epaulette, as golden as a flame,
 
@@ -738,7 +738,7 @@ The folk that live in Liverpool, their heart is in their boots;
 
 They go to hell like lambs, they do, because the hooter hoots.
 
-Where men may not be dancin', though the wheels may [[Dance|dance]] all day;
+Where men may not be dancin', though the wheels may [[motifs/dance|dance]] all day;
 
 And men may not be smokin'; but only chimneys may.
 
@@ -758,7 +758,7 @@ But I come from Castlepatrick, and me heart is on me sleeve;
 
 But a lady stole it from me on St. Barnabas's Eve.
 
-The [[Song]] of the Oak
+The [[works/song-(poe)|Song]] of the Oak
 
 The Druids waved their golden knives
 
@@ -776,7 +776,7 @@ But though they cut the throats of men
 
 They cut not down the tree,
 
-And from the [[Blood|blood]] the saplings sprang
+And from the [[motifs/blood|blood]] the saplings sprang
 
 Of oak-woods yet to be.
 
@@ -788,7 +788,7 @@ He clings and crawls as ivy would
 
 About the sacred tree.
 
-[[King]] Charles he fled from Worcester fight
+[[archetypes/king|King]] Charles he fled from Worcester fight
 
 And hid him in an Oak;
 
@@ -824,9 +824,9 @@ That oaks might still be in the grove
 
 As oaken as the beams above,
 
-When the great [[Lover]] sailors [[Love|love]]
+When the great [[archetypes/lover|Lover]] sailors [[motifs/love|love]]
 
-Was kissed by [[Death]] at sea.
+Was kissed by [[motifs/death|Death]] at sea.
 
 But though for him the oak-trees fell
 
@@ -844,7 +844,7 @@ As the dragon of the ivy would
 
 That has us in his grips.
 
-The [[Road]] to Roundabout
+The [[motifs/road|Road]] to Roundabout
 
 Some say that Guy of Warwick,
 
@@ -886,13 +886,13 @@ Whose lantern lights the meads
 
 In heaven no longer needs),
 
-Such [[Dance|dance]] around the trysting-place
+Such [[motifs/dance|dance]] around the trysting-place
 
-The moonstruck [[Lover|lover]] leads;
+The moonstruck [[archetypes/lover|lover]] leads;
 
 Which superstition I should scout
 
-There is more [[Faith|faith]] in honest [[Doubt|doubt]]
+There is more [[concepts/faith|faith]] in honest [[concepts/doubt|doubt]]
 
 (As Tennyson has pointed out)
 
@@ -916,7 +916,7 @@ Went forth to find the Grail,
 
 Grey Merlin wrinkled up the roads
 
-For [[Hope|hope]] that he should fail;
+For [[concepts/hope|hope]] that he should fail;
 
 All roads led back to Lyonesse
 
@@ -942,7 +942,7 @@ In the happy town of Roundabout,
 
 That makes the world go round.
 
-The [[Song]] of the Strange [[ascetic|Ascetic]]
+The [[works/song-(poe)|Song]] of the Strange Ascetic
 
 If I had been a Heathen,
 
@@ -964,9 +964,9 @@ If I had been a Heathen,
 
 I'd have crowned Neoera's curls,
 
-And filled my life with [[Love|love]] affairs,
+And filled my life with [[motifs/love|love]] affairs,
 
-My [[house]] with dancing girls;
+My house with dancing girls;
 
 But Higgins is a Heathen,
 
@@ -1010,7 +1010,7 @@ Just as if he were a pie.
 
 Now who that runs can read it,
 
-The [[Riddle|riddle]] that I write,
+The [[forms/riddle|riddle]] that I write,
 
 Of why this poor old sinner,
 
@@ -1020,15 +1020,15 @@ But I, I cannot read it
 
 (Although I run and run),
 
-Of them that do not have the [[Faith|faith]],
+Of them that do not have the [[concepts/faith|faith]],
 
 And will not have the fun.
 
-The [[Song]] of Right and Wrong
+The [[works/song-(poe)|Song]] of Right and Wrong
 
-Feast on wine or fast on [[Water|water]],
+Feast on wine or fast on [[motifs/water|water]],
 
-And your [[Honour|honour]] shall stand sure,
+And your [[concepts/honour|honour]] shall stand sure,
 
 God Almighty's son and daughter
 
@@ -1056,7 +1056,7 @@ At his pig-tail troop along;
 
 And, like all the East he grows in,
 
-He is [[Poison]] when he's strong.
+He is [[motifs/poison|Poison]] when he's strong.
 
 Tea, although an Oriental,
 
@@ -1070,9 +1070,9 @@ Cocoa is a dull, disloyal,
 
 Lying, crawling cad and clown,
 
-And may very [[Well|well]] be grateful
+And may very [[motifs/well|well]] be grateful
 
-To the [[Fool|fool]] that takes him down.
+To the [[archetypes/fool|fool]] that takes him down.
 
 As for all the windy waters,
 
@@ -1084,53 +1084,53 @@ By the tipplers of the town;
 
 When red wine had brought red ruin
 
-And the [[Death|death]]-[[Dance|dance]] of our times,
+And the [[motifs/death|death]]-[[motifs/dance|dance]] of our times,
 
-Heaven sent us Soda [[Water]]
+Heaven sent us Soda [[motifs/water|Water]]
 
 As a torment for our crimes.
 
-Who Goes [[Home]]?
+Who Goes [[motifs/home|Home]]?
 
-In the [[City|city]] set upon slime and loam
+In the [[motifs/city|city]] set upon slime and loam
 
-They cry in their parliament "Who goes [[Home|home]]?"
+They cry in their parliament "Who goes [[motifs/home|home]]?"
 
 And there comes no answer in arch or dome,
 
-For none in the [[City|city]] of graves goes [[Home|home]].
+For none in the [[motifs/city|city]] of graves goes [[motifs/home|home]].
 
 Yet these shall perish and understand,
 
 For God has pity on this great land.
 
-Men that are men again; who goes [[Home|home]]?
+Men that are men again; who goes [[motifs/home|home]]?
 
-Tocsin and trumpeter! Who goes [[Home|home]]?
+Tocsin and trumpeter! Who goes [[motifs/home|home]]?
 
-For there's [[Blood|blood]] on the field and [[Blood|blood]] on the foam
+For there's [[motifs/blood|blood]] on the field and [[motifs/blood|blood]] on the foam
 
-And [[Blood|blood]] on the [[Body|body]] when Man goes [[Home|home]].
+And [[motifs/blood|blood]] on the [[concepts/body|body]] when Man goes [[motifs/home|home]].
 
 And a voice valedictory.... Who is for Victory?
 
-Who is for Liberty? Who goes [[Home|home]]?
+Who is for Liberty? Who goes [[motifs/home|home]]?
 
 Printed in Great Britain by
 
-UNWIN BROTHERS, LIMITED, PRINTERS, WOKING AND [[London|LONDON]]
+UNWIN BROTHERS, LIMITED, PRINTERS, WOKING AND [[settings/london|LONDON]]
 
 SOME DELIGHTFUL BOOKS BY G. K. CHESTERTON
 
 *CHARLES DICKENS.
 
-With 2 Portraits in Photogravure. _Eighth Edition._ [[Crown]] 8vo, 6s.
+With 2 Portraits in Photogravure. _Eighth Edition._ [[motifs/crown|Crown]] 8vo, 6s.
 
 A famous book on Dickens which is intended as a general justification of
 
 that author. Mr. Chesterton compares the immense achievements produced
 
-by the optimism of Dickens in the realm of [[Reform|reform]] with the small results
+by the optimism of Dickens in the realm of [[concepts/reform|reform]] with the small results
 
 produced by the pessimistic method of later days. He treats each of the
 
@@ -1138,17 +1138,17 @@ novels in turn, and he devotes the latter part of his book to a general
 
 estimate of the influence of Dickens.
 
-THE FLYING INN. _Third Edition._ [[Crown]] 8vo, 6s. Also [[Crown]] 8vo, 2s. net.
+THE FLYING INN. _Third Edition._ [[motifs/crown|Crown]] 8vo, 6s. Also [[motifs/crown|Crown]] 8vo, 2s. net.
 
-THE BALLAD OF THE WHITE [[Horse|HORSE]]. _Fifth Edition._ Fcap. 8vo, 5s.
+THE BALLAD OF THE WHITE [[motifs/horse|HORSE]]. _Fifth Edition._ Fcap. 8vo, 5s.
 
-A Ballad of the Reign of [[King Alfred]]. It describes that monarch's noble
+A Ballad of the Reign of [[historical-references/king-alfred|King Alfred]]. It describes that monarch's noble
 
 exploits, his character, his struggle with the Danes, the story of the
 
-White [[Horse]], and the Battle of Ethandune.
+White [[motifs/horse|Horse]], and the Battle of Ethandune.
 
-LETTERS TO AN OLD GARIBALDIAN. [[Crown]] 8vo, 3d. net.
+LETTERS TO AN OLD GARIBALDIAN. [[motifs/crown|Crown]] 8vo, 3d. net.
 
 ESSAYS
 
@@ -1164,7 +1164,7 @@ A MISCELLANY OF MEN. _Second Edition._
 
 * _An edition in cloth, Fcap. 8vo, 1s. net, is also issued._
 
-METHUEN & CO. LTD. [[London|LONDON]]
+METHUEN & CO. LTD. [[settings/london|LONDON]]
 
 
 
@@ -1196,13 +1196,13 @@ Bold italic text has been marked with =equals signs=.
 
 ]
 
-WINE, [[Water|WATER]], AND [[Song|SONG]]
+WINE, [[motifs/water|WATER]], AND SONG
 
 BY THE SAME AUTHOR
 
 CHARLES DICKENS
 
-THE BALLAD OF THE WHITE [[Horse|HORSE]]
+THE BALLAD OF THE WHITE [[motifs/horse|HORSE]]
 
 THE FLYING INN
 
@@ -1214,9 +1214,9 @@ ALARMS AND DISCURSIONS
 
 A MISCELLANY OF MEN
 
-WINE, [[Water|WATER]]
+WINE, [[motifs/water|WATER]]
 
-AND [[Song|SONG]]
+AND SONG
 
 BY
 
@@ -1228,7 +1228,7 @@ METHUEN & CO. LTD.
 
 36 ESSEX STREET W.C.
 
-[[London|LONDON]]
+[[settings/london|LONDON]]
 
 First Published      August  6th 1915
 
@@ -1238,9 +1238,9 @@ Third Edition        August 23rd 1915
 
 NOTE
 
-The [[songs|Songs]] in this book are taken from "THE FLYING INN," with the
+The Songs in this book are taken from "THE FLYING INN," with the
 
-exception of "The Good Rich Man" and "The [[Song]] of the Strange [[ascetic|Ascetic]],"
+exception of "The Good Rich Man" and "The [[works/song-(poe)|Song]] of the Strange Ascetic,"
 
 which are here included by kind permission of the editor of =The New
 
@@ -1252,37 +1252,37 @@ Page
 
 The Englishman                        9
 
-Wine and [[Water]]                       11
+Wine and [[motifs/water|Water]]                       11
 
-The [[Song]] against Grocers             15
+The [[works/song-(poe)|Song]] against Grocers             15
 
-The [[rolling|Rolling]] English [[Road]]             20
+The Rolling English [[motifs/road|Road]]             20
 
-The [[Song]] of [[quoodle|Quoodle]]                  24
+The [[works/song-(poe)|Song]] of [[characters/quoodle|Quoodle]]                  24
 
 Pioneers, O Pioneers                 27
 
-The Logical [[vegetarian|Vegetarian]]               31
+The Logical Vegetarian               31
 
 "The Saracen's Head"                 34
 
 The Good Rich Man                    37
 
-The [[Song]] against [[songs|Songs]]               42
+The [[works/song-(poe)|Song]] against Songs               42
 
 Me Heart                             45
 
-The [[Song]] of the Oak                  49
+The [[works/song-(poe)|Song]] of the Oak                  49
 
-The [[Road]] to Roundabout               53
+The [[motifs/road|Road]] to Roundabout               53
 
-The [[Song]] of the Strange [[ascetic|Ascetic]]      57
+The [[works/song-(poe)|Song]] of the Strange Ascetic      57
 
-The [[Song]] of Right and Wrong          60
+The [[works/song-(poe)|Song]] of Right and Wrong          60
 
-Who Goes [[Home]]?                       63
+Who Goes [[motifs/home|Home]]?                       63
 
-WINE, [[Water|WATER]], AND [[Song|SONG]]
+WINE, [[motifs/water|WATER]], AND SONG
 
 The Englishman
 
@@ -1324,7 +1324,7 @@ And shall wear the shield he wore
 
 When we go out in armour
 
-With the battle-[[Cross|cross]] before.
+With the battle-[[motifs/cross|cross]] before.
 
 But though he is jolly company
 
@@ -1334,7 +1334,7 @@ It isn't safe to give him nuts
 
 Unless you give him wine.
 
-Wine and [[Water]]
+Wine and [[motifs/water|Water]]
 
 Old Noah he had an ostrich farm and fowls on the largest scale,
 
@@ -1346,19 +1346,19 @@ But they all were small to the cellar he took when he set out to sail,
 
 And Noah he often said to his wife when he sat down to dine,
 
-"I don't care where the [[Water|water]] goes if it doesn't get into the wine."
+"I don't care where the [[motifs/water|water]] goes if it doesn't get into the wine."
 
 The cataract of the cliff of heaven fell blinding off the brink
 
-As if it would wash the [[Stars|stars]] away as suds go down a sink,
+As if it would wash the [[motifs/stars|stars]] away as suds go down a sink,
 
 The seven heavens came roaring down for the throats of hell to drink,
 
 And Noah he cocked his eye and said, "It looks like rain, I think,
 
-The [[Water|water]] has drowned the Matterhorn as deep as a Mendip mine,
+The [[motifs/water|water]] has drowned the Matterhorn as deep as a Mendip mine,
 
-But I don't care where the [[Water|water]] goes if it doesn't get into the wine."
+But I don't care where the [[motifs/water|water]] goes if it doesn't get into the wine."
 
 But Noah he sinned, and we have sinned; on tipsy feet we trod,
 
@@ -1366,15 +1366,15 @@ Till a great big black teetotaller was sent to us for a rod,
 
 And you can't get wine at a P.S.A., or chapel, or Eisteddfod,
 
-For the Curse of [[Water]] has come again because of the wrath of God,
+For the Curse of [[motifs/water|Water]] has come again because of the wrath of God,
 
-And [[Water|water]] is on the Bishop's board and the Higher Thinker's shrine,
+And [[motifs/water|water]] is on the Bishop's board and the Higher Thinker's shrine,
 
-But I don't care where the [[Water|water]] goes if it doesn't get into the wine.
+But I don't care where the [[motifs/water|water]] goes if it doesn't get into the wine.
 
-The [[Song]] Against Grocers
+The [[works/song-(poe)|Song]] Against Grocers
 
-God made the wicked [[grocer|Grocer]]
+God made the wicked Grocer
 
 For a mystery and a sign,
 
@@ -1390,13 +1390,13 @@ And God that made good laughter
 
 Has seen that they are good.
 
-The evil-hearted [[grocer|Grocer]]
+The evil-hearted Grocer
 
 Would call his mother "Ma'am,"
 
 And bow at her and bob at her,
 
-Her aged [[Soul|soul]] to damn,
+Her aged [[motifs/soul|soul]] to damn,
 
 And rub his horrid hands and ask
 
@@ -1430,7 +1430,7 @@ To crack a bottle with a friend
 
 Or treat unmoneyed men,
 
-But who hath seen the [[grocer|Grocer]]
+But who hath seen the Grocer
 
 Treat housemaids to his teas
 
@@ -1443,11 +1443,11 @@ Prodotto da Jana Srna, Bryan Ness e l’Online Distributed…
 
 Proofreading Team at http://www.pgdp.net (This file was
 
-#Realizzato grazie alle immagini gentilmente concesse da The
+Realizzato grazie alle immagini gentilmente concesse da The
 
 Internet Archive/American Libraries.
 
-# Note del trascrittore:
+Note del trascrittore:
 
 È stato fatto ogni sforzo per riprodurre questo testo il più fedelmente possibile.
 
@@ -1461,11 +1461,11 @@ Il testo in grassetto e corsivo è stato contrassegnato con i segni di uguale (=
 
 ]
 
-Vino, [[Water|acqua]] e [[Song|canto]].
+Vino, [[motifs/water|acqua]] e canto.
 
 Lo stesso autore
 
-#Charles Dickens
+Charles Dickens
 
 La ballata del cavallo bianco
 
@@ -1479,13 +1479,13 @@ Allarmi e discorsi
 
 Un insieme di uomini
 
-VINO, [[Water|ACQUA]]
+VINO, [[motifs/water|ACQUA]]
 
-E [[Song|CANZONA]]
+E CANZONA
 
 BY
 
-# G. K. Chesterton
+G. K. Chesterton
 
 Terza edizione
 
@@ -1493,7 +1493,7 @@ METHUEN & CO. LTD.
 
 36 ESSEX STREET, zona W.C.
 
-[[London|LONDRA]]
+[[settings/london|LONDRA]]
 
 Prima pubblicazione: 6 agosto 1915
 
@@ -1503,60 +1503,60 @@ Terza edizione – 23 agosto 1915
 
 Nota
 
-Le [[songs|CANZONI]] presenti in questo libro sono tratte da “THE FLYING INN”.
+Le CANZONI presenti in questo libro sono tratte da “THE FLYING INN”.
 
-Ad eccezione di “Il buon ricco” e “La [[Song|canzone]] dello strano [[ascetic|asceta]]””.
+Ad eccezione di “Il buon ricco” e “La canzone dello strano asceta””.
 
 Titolo:  
 Qui inclusi per gentile concessione dell’editore di “The New”
 
 Testimone =, nel luogo in cui sono apparsi per la prima volta.
 
-INDICE
+Indice
 
-# Pagina
+Pagina
 
 L'inglese                          9
 
-Vino e [[Water|Acqua]]                          11
+Vino e [[motifs/water|Acqua]]                          11
 
-La [[Song|Canzone]] contro i negozi di alimentari             15
+La Canzone contro i negozi di alimentari             15
 
-La [[rolling|strada]] inglese [[Road|ripolverosa]]             20
+La strada inglese [[motifs/road|ripolverosa]]             20
 
-La [[Song|Canzone]] di [[quoodle|Quoodle]]                          24
+La Canzone di [[characters/quoodle|Quoodle]]                          24
 
 Pionieri, o pionieri                  27
 
-Il logico [[vegetarian|vegetariano]]                31
+Il logico vegetariano                31
 
 "#La testa del saraceno"                34
 
 Il buon ricco                    37
 
-La [[Song|Canzone]] contro le altre canzoni                42
+La Canzone contro le altre canzoni                42
 
-# Il mio cuore                           45
+Il mio cuore                           45
 
-La [[Song|Canzone]] del Quercio                49
+La Canzone del Quercio                49
 
-La [[Road|Strada]] che conduce al rondò        53
+La [[motifs/road|Strada]] che conduce al rondò        53
 
-La [[Song|Canzone]] dello strano [[ascetic|Asceta]]      57
+La Canzone dello strano Asceta      57
 
-La [[Song|Canzone]] del Giusto e dell’Ingiusto          60
+La Canzone del Giusto e dell’Ingiusto          60
 
-Chi va a [[Home|casa]]?                          63
+Chi va a [[motifs/home|casa]]?                          63
 
-Vino, [[Water|acqua]] e [[Song|canto]].
+Vino, [[motifs/water|acqua]] e canto.
 
 L'inglese
 
-#San Giorgio, protettore d’Inghilterra
+San Giorgio, protettore d’Inghilterra
 
 E prima di uccidere il drago
 
-# Bevve una pinta di birra inglese
+Bevve una pinta di birra inglese
 
 Dall’imboccatura di un boccale inglese.
 
@@ -1568,7 +1568,7 @@ Non è sicuro dargli dei dolci
 
 A meno che non gli dia dell’ale.
 
-#San Giorgio, protettore d’Inghilterra
+San Giorgio, protettore d’Inghilterra
 
 E così, con grande nobiltà, viene liberato.
 
@@ -1578,17 +1578,17 @@ Legato a un albero;
 
 Ma poiché rappresentava l’Inghilterra…
 
-# E sapeva cosa significasse l’Inghilterra
+E sapeva cosa significasse l’Inghilterra
 
-# A meno che non gli dia il bacon
+A meno che non gli dia il bacon
 
 Non devi dargli fagioli.
 
-#San Giorgio è il protettore d’Inghilterra
+San Giorgio è il protettore d’Inghilterra
 
 E porterà lo scudo che un tempo indossò
 
-# Quando usciamo armati di corazza
+Quando usciamo armati di corazza
 
 Con la croce della battaglia davanti a sé.
 
@@ -1596,79 +1596,79 @@ Ma sebbene sia una compagnia molto piacevole…
 
 E molto felice di poter cenare…
 
-# Non è sicuro dargli noci
+Non è sicuro dargli noci
 
 A meno che non gli dia del vino.
 
-Vino e [[Water|Acqua]]
+Vino e [[motifs/water|acqua]]
 
-# Vecchio Noè aveva una fattoria di struzzi e allevava pollame su larga scala
+Vecchio Noè aveva una fattoria di struzzi e allevava pollame su larga scala
 
-# Mangiò l’uovo con un cucchiaio in una ciotola grande quanto un secchio
+Mangiò l’uovo con un cucchiaio in una ciotola grande quanto un secchio
 
-#Zuppa d’elefante e pesce balena
+Zuppa d’elefante e pesce balena
 
 Ma tutti sembravano piccoli rispetto alla cantina che aveva preparato prima di partire per il viaggio in mare.
 
 “E Noè, spesso, quando si sedeva a mangiare con sua moglie…”
 
-“Non mi interessa dove vada l’[[Water|acqua]], purché non finisca nel vino.”
+“Non mi interessa dove vada l’[[motifs/water|acqua]], purché non finisca nel vino.”
 
-# La cascata accecante della scogliera del cielo si riversò giù dal bordo
+La cascata accecante della scogliera del cielo si riversò giù dal bordo
 
-Come se potesse lavare via le [[Stars|stelle]], proprio come il sapone scivola nello scarico.
+Come se potesse lavare via le [[motifs/stars|stelle]], proprio come il sapone scivola nello scarico.
 
-#I sette cieli si abbatterono con fragore sulla gola dell’inferno per bere…
+I sette cieli si abbatterono con fragore sulla gola dell’inferno per bere…
 
 “E Noè, guardando con un occhio solo, disse: ‘Sembra che stia per piovere.’”
 
-L’[[Water|acqua]] ha sommerso il Monte Bianco fino a raggiungere la profondità di una miniera del Mendip.
+L’[[motifs/water|acqua]] ha sommerso il Monte Bianco fino a raggiungere la profondità di una miniera del Mendip.
 
-Ma non mi interessa dove vada l’[[Water|acqua]], purché non finisca nel vino.
+Ma non mi interessa dove vada l’[[motifs/water|acqua]], purché non finisca nel vino.
 
-# Ma Noè ha peccato, e anche noi abbiamo peccato; barcollando sulle gambe instabili, abbiamo commesso errori…
+Ma Noè ha peccato, e anche noi abbiamo peccato; barcollando sulle gambe instabili, abbiamo commesso errori…
 
-#Finché non ci fu inviato un enorme ubriacone nero per una canna…
+Finché non ci fu inviato un enorme ubriacone nero per una canna…
 
-# Non si può trovare vino in una P.S.A., in una cappella o durante un Eisteddfod.
+Non si può trovare vino in una P.S.A., in una cappella o durante un Eisteddfod.
 
-Perché la Maledizione dell’[[Water|Acqua]] è tornata a causa della collera di Dio.
+Perché la Maledizione dell’[[motifs/water|Acqua]] è tornata a causa della collera di Dio.
 
-E l’[[Water|acqua]] si trova sulla scacchiera del Vescovo e nel santuario del Pensatore Superiore.
+E l’[[motifs/water|acqua]] si trova sulla scacchiera del Vescovo e nel santuario del Pensatore Superiore.
 
-Ma non mi interessa dove vada l’[[Water|acqua]], purché non finisca nel vino.
+Ma non mi interessa dove vada l’[[motifs/water|acqua]], purché non finisca nel vino.
 
-La [[Song|Canzone]] contro i Droghieri  
+La Canzone contro i negozi di alimentari
 
-Dio creò il malvagio [[grocer|Rivenditore di alimenti]].
+Dio creò il malvagio Rivenditore di alimenti.
 
 Per un mistero e un segno
 
-# Per che gli uomini possano evitare quei terribili negozi
+Per che gli uomini possano evitare quei terribili negozi
 
-# Andare nelle taverne per mangiare…
+Andare nelle taverne per mangiare…
 
-#Dove si trova il bacon sul tetto
+Dove si trova il bacon sul tetto
 
-#Il vino è nel legno
+Il vino è nel legno
 
-#E Dio che ha creato la buona risata
+E Dio che ha creato la buona risata
 
 Ha visto che sono buoni.
 
-Il malvagio [[grocer|Rivenditore di alimenti]]
+Il malvagio Rivenditore di alimenti
 
 Chiamerebbe sua madre “Signora”.
 
-# E inchinandosi davanti a lei…
+E inchinandosi davanti a lei…
 
-La sua anziana [[Soul|'anima]] era destinata all'inferno.
+La sua anziana [[motifs/soul|'anima]] era destinata all'inferno.
 
-# E strofinarsi quelle mani orribili, chiedendo…
+E strofinarsi quelle mani orribili, chiedendo…
 
-# Quale articolo veniva dopo?
+Quale articolo veniva dopo?
 
-# Perita nell’atto stesso
+Perita nell’atto stesso
 
 Dovrebbe essere il testo originale suo.
 
@@ -1680,7 +1680,7 @@ Chi grida “Denaro!” e fa tutto un trambusto
 
 Per esercitare la sua malvagia attività…
 
-# Tenne una donna in gabbia
+Tenne una donna in gabbia
 
 “La parte più crudele di tutta la giornata…”
 
@@ -1690,42 +1690,42 @@ Fino a quando non svanirà.
 
 Le menti rette degli ostieri
 
-# Inducili di tanto in tanto
+Inducili di tanto in tanto
 
-# Rompere una bottiglia con un amico
+Rompere una bottiglia con un amico
 
 O trattare gli uomini senza denaro…
 
-Ma chi ha mai visto il [[grocer|Rivenditore di alimentari]]?
+Ma chi ha mai visto il Rivenditore di alimentari?
 
-#"Trattare le cameriere con il suo tè"
+"Trattare le cameriere con il suo tè"
 
-# Mai aprire una bottiglia di salsa di pesce
+Mai aprire una bottiglia di salsa di pesce
 
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="WineWaterSong (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/crown,motif/death,motif/desire,motif/dust,motif/flowers,motif/night,motif/road,motif/rose,motif/soul,motif/time,motif/water,motif/wind,motif/winter,concept/conscience,concept/pride,character/quoodle,character/sunday"></span>
 
 
-Or stand a man a [[cheese]]?
+Or stand a man a cheese?
 
 He sells us sands of Araby
 
 As sugar for cash down;
 
-He sweeps his shop and sells the [[Dust|dust]]
+He sweeps his shop and sells the [[motifs/dust|dust]]
 
 The purest salt in town,
 
 He crams with cans of poisoned meat
 
-Poor subjects of the [[King]],
+Poor subjects of the [[archetypes/king|King]],
 
 And when they die by thousands
 
 Why, he laughs like anything.
 
-The wicked [[grocer|Grocer]] groces
+The wicked Grocer groces
 
 In spirits and in wine,
 
@@ -1741,7 +1741,7 @@ For to be snatched by Duchesses
 
 And drunk in dressing-rooms.
 
-The hell-instructed [[grocer|Grocer]]
+The hell-instructed Grocer
 
 Has a temple made of tin,
 
@@ -1753,47 +1753,47 @@ But now the sands are running out
 
 From sugar of a sort,
 
-The [[grocer|Grocer]] trembles; for his [[Time|time]],
+The Grocer trembles; for his [[motifs/time|time]],
 
 Just like his weight, is short.
 
-The [[rolling|Rolling]] English [[Road]]
+The Rolling English [[motifs/road|Road]]
 
 Before the Roman came to Rye or out to Severn strode,
 
-The [[rolling]] English drunkard made the [[rolling]] English [[Road|road]].
+The rolling English drunkard made the rolling English [[motifs/road|road]].
 
-A reeling [[Road|road]], a [[rolling]] [[Road|road]], that rambles round the shire,
+A reeling [[motifs/road|road]], a rolling [[motifs/road|road]], that rambles round the shire,
 
 And after him the parson ran, the sexton and the squire;
 
-A merry [[Road|road]], a mazy [[Road|road]], and such as we did tread
+A merry [[motifs/road|road]], a mazy [[motifs/road|road]], and such as we did tread
 
-The [[Night|night]] we went to Birmingham by way of Beachy Head.
+The [[motifs/night|night]] we went to Birmingham by way of Beachy Head.
 
 I knew no harm of Bonaparte and plenty of the Squire,
 
-And for to fight the Frenchman I did not much [[Desire|desire]];
+And for to fight the Frenchman I did not much [[motifs/desire|desire]];
 
 But I did bash their baggonets because they came arrayed
 
-To straighten out the crooked [[Road|road]] an English drunkard made,
+To straighten out the crooked [[motifs/road|road]] an English drunkard made,
 
 Where you and I went down the lane with ale-mugs in our hands,
 
-The [[Night|night]] we went to Glastonbury by way of Goodwin Sands.
+The [[motifs/night|night]] we went to Glastonbury by way of Goodwin Sands.
 
-His sins they were forgiven him; or why do [[Flowers|flowers]] run
+His sins they were forgiven him; or why do [[motifs/flowers|flowers]] run
 
 Behind him; and the hedges all strengthing in the sun?
 
 The wild thing went from left to right and knew not which was which,
 
-But the wild [[Rose|rose]] was above him when they found him in the ditch.
+But the wild [[motifs/rose|rose]] was above him when they found him in the ditch.
 
 God pardon us, nor harden us; we did not see so clear
 
-The [[Night|night]] we went to Bannockburn by way of Brighton Pier.
+The [[motifs/night|night]] we went to Bannockburn by way of Brighton Pier.
 
 My friends, we will not go again or ape an ancient rage,
 
@@ -1801,13 +1801,13 @@ Or stretch the folly of our youth to be the shame of age,
 
 But walk with clearer eyes and ears this path that wandereth,
 
-And see undrugged in evening light the decent inn of [[Death|death]];
+And see undrugged in evening light the decent inn of [[motifs/death|death]];
 
 For there is good news yet to hear and fine things to be seen,
 
 Before we go to Paradise by way of Kensal Green.
 
-The [[Song]] of [[quoodle|Quoodle]]
+The [[works/song-(poe)|Song]] of [[characters/quoodle|Quoodle]]
 
 They haven't got no noses,
 
@@ -1833,7 +1833,7 @@ Where even the Law of Moses
 
 Will let you steal a smell.
 
-The brilliant smell of [[Water|water]],
+The brilliant smell of [[motifs/water|water]],
 
 The brave smell of a stone,
 
@@ -1843,25 +1843,25 @@ The old bones buried under,
 
 Are things in which they blunder
 
-And err, if left [[Alone|alone]].
+And err, if left alone.
 
-The [[Wind|wind]] from [[Winter|winter]] forests,
+The [[motifs/wind|wind]] from [[motifs/winter|winter]] forests,
 
-The scent of scentless [[Flowers|flowers]],
+The scent of scentless [[motifs/flowers|flowers]],
 
 The breath of brides' adorning,
 
 The smell of snare and warning,
 
-The smell of [[Sunday]] morning,
+The smell of [[characters/sunday|Sunday]] morning,
 
 God gave to us for ours.
 
 . . . . .
 
-And [[quoodle|Quoodle]] here discloses
+And [[characters/quoodle|Quoodle]] here discloses
 
-All things that [[quoodle|Quoodle]] can,
+All things that [[characters/quoodle|Quoodle]] can,
 
 They haven't got no noses,
 
@@ -1873,13 +1873,13 @@ The Noselessness of Man.
 
 Pioneers, O Pioneers
 
-Nebuchadnezzar the [[King]] of the Jews
+Nebuchadnezzar the [[archetypes/king|King]] of the Jews
 
 Suffered from new and original views,
 
 He crawled on his hands and knees, it's said,
 
-With grass in his mouth and a [[Crown|crown]] on his head.
+With grass in his mouth and a [[motifs/crown|crown]] on his head.
 
 With a wowtyiddly, etc.
 
@@ -1889,7 +1889,7 @@ Thought the thing was a curse from God,
 
 But a Pioneer men always abuse
 
-Like Nebuchadnezzar the [[King]] of the Jews.
+Like Nebuchadnezzar the [[archetypes/king|King]] of the Jews.
 
 Black Lord Foulon the Frenchman slew
 
@@ -1901,19 +1901,19 @@ So they stuffed him with grass when they cut off his head.
 
 With a wowtyiddly, etc.
 
-For the [[Pride|pride]] of his [[Soul|soul]] he perished then--
+For the [[concepts/pride|pride]] of his [[motifs/soul|soul]] he perished then--
 
-But of course it is always of [[Pride]] that men,
+But of course it is always of [[concepts/pride|Pride]] that men,
 
 A Man in Advance of his Age accuse,
 
-Like Nebuchadnezzar the [[King]] of the Jews.
+Like Nebuchadnezzar the [[archetypes/king|King]] of the Jews.
 
 Simeon Scudder of Styx, in Maine,
 
 Thought of the thing and was at it again.
 
-He gave good grass and [[Water|water]] in pails
+He gave good grass and [[motifs/water|water]] in pails
 
 To a thousand Irishmen hammering rails.
 
@@ -1921,21 +1921,21 @@ With a wowtyiddly, etc.
 
 Appetites differ; and tied to a stake
 
-He was tarred and feathered for [[Conscience]]' Sake.
+He was tarred and feathered for [[concepts/conscience|Conscience]]' Sake.
 
 But stoning the prophets is ancient news,
 
-Like Nebuchadnezzar the [[King]] of the Jews.
+Like Nebuchadnezzar the [[archetypes/king|King]] of the Jews.
 
-The Logical [[vegetarian|Vegetarian]]
+The Logical Vegetarian
 
-"Why shouldn't I have a purely [[vegetarian]] drink? Why shouldn't I take
+"Why shouldn't I have a purely vegetarian drink? Why shouldn't I take
 
 vegetables in their highest form, so to speak? The modest vegetarians
 
-ought obviously to stick to wine or beer, plain [[vegetarian]] drinks,
+ought obviously to stick to wine or beer, plain vegetarian drinks,
 
-instead of filling their goblets with the [[Blood|blood]] of bulls and elephants,
+instead of filling their goblets with the [[motifs/blood|blood]] of bulls and elephants,
 
 as all conventional meat-eaters do, I suppose."--Dalroy.
 
@@ -1949,7 +1949,7 @@ You will find me drinking gin
 
 In the lowest kind of inn,
 
-Because I am a rigid [[vegetarian|Vegetarian]].
+Because I am a rigid Vegetarian.
 
 So I cleared the inn of wine,
 
@@ -1961,7 +1961,7 @@ But he said I couldn't speak,
 
 And he bowled me to the Beak
 
-Because I was a Happy [[vegetarian|Vegetarian]].
+Because I was a Happy Vegetarian.
 
 Oh, I knew a Doctor Gluck,
 
@@ -1973,7 +1973,7 @@ So I gave him all the pork
 
 That I had, upon a fork;
 
-Because I am myself a [[vegetarian|Vegetarian]].
+Because I am myself a Vegetarian.
 
 I am silent in the Club,
 
@@ -1984,25 +1984,25 @@ I am silent on a bally peak in Darien;
 
 <span class="qlang-split" data-lang="it"></span>
 
-O offrire a un uomo un [[cheese|formaggio]]?
+O offrire a un uomo un formaggio?
 
 Ci vende le sabbie d'Arabia
 
 Come zucchero, pagamento in contanti;
 
-Spazza la sua bottega e vende la [[Dust|polvere]]
+Spazza la sua bottega e vende la [[motifs/dust|polvere]]
 
 Il sale più puro della città,
 
 Rimpinza di lattine di carne avvelenata
 
-I poveri sudditi del [[King|Re]],
+I poveri sudditi del [[archetypes/king|Re]],
 
 E quando muoiono a migliaia
 
 Ebbene, ride a più non posso.
 
-Il malvagio [[grocer|Droghiere]] drogheggia
+Il malvagio Droghiere drogheggia
 
 In liquori e in vino,
 
@@ -2018,7 +2018,7 @@ Per essere afferrato dalle Duchesse
 
 E bevuto negli spogliatoi.
 
-Il [[grocer|Droghiere]] istruito dall'inferno
+Il Droghiere istruito dall'inferno
 
 Ha un tempio fatto di latta,
 
@@ -2030,47 +2030,47 @@ Ma ora la sabbia sta scorrendo via
 
 Da uno zucchero di dubbia specie,
 
-Il [[grocer|Droghiere]] trema; poiché il suo [[Time|tempo]],
+Il Droghiere trema; poiché il suo [[motifs/time|tempo]],
 
 Proprio come il suo peso, è scarso.
 
-La [[rolling|Tortuosa]] [[Road|Strada]] Inglese  
+La [[motifs/road|Strada]] Inglese Serpeggiante
 
 Prima che il Romano giungesse a Rye o s'inoltrasse verso il Severn,
 
-L'[[rolling|ondeggiante]] ubriacone inglese fece l'[[rolling|ondeggiante]] [[Road|strada]] inglese.
+L'ondeggiante ubriacone inglese fece l'ondeggiante [[motifs/road|strada]] inglese.
 
-Una [[Road|strada]] barcollante, una [[Road|strada]] [[rolling|ondeggiante]], che vagabonda per la contea,
+Una [[motifs/road|strada]] barcollante, una [[motifs/road|strada]] ondeggiante, che vagabonda per la contea,
 
 E dietro a lui corsero il parroco, il sagrestano e lo squire;
 
-Una [[Road|strada]] allegra, una [[Road|strada]] labirintica, e tale quale percorremmo
+Una [[motifs/road|strada]] allegra, una [[motifs/road|strada]] labirintica, e tale quale percorremmo
 
-La [[Night|notte]] in cui andammo a Birmingham passando per Beachy Head.
+La [[motifs/night|notte]] in cui andammo a Birmingham passando per Beachy Head.
 
 Non sapevo alcun male di Bonaparte e molto dello Squire,
 
-E a combattere il Francese non molto [[Desire|desideravo]];
+E a combattere il Francese non molto [[motifs/desire|desideravo]];
 
 Ma sì che pestai le loro baionette perché vennero schierate
 
-Per raddrizzare la storta [[Road|strada]] che un ubriacone inglese fece,
+Per raddrizzare la storta [[motifs/road|strada]] che un ubriacone inglese fece,
 
 Dove tu ed io scendemmo per il viottolo coi boccali di birra in mano,
 
-La [[Night|notte]] in cui andammo a Glastonbury passando per i Goodwin Sands.
+La [[motifs/night|notte]] in cui andammo a Glastonbury passando per i Goodwin Sands.
 
-I suoi peccati gli furono perdonati; o perché i [[Flowers|fiori]] corrono
+I suoi peccati gli furono perdonati; o perché i [[motifs/flowers|fiori]] corrono
 
 Dietro di lui; e le siepi tutte irrobustendosi al sole?
 
 La creatura selvaggia andò da sinistra a destra e non sapeva quale fosse quale,
 
-Ma la [[Rose|rosa]] selvatica era sopra di lui quando lo trovarono nel fosso.
+Ma la [[motifs/rose|rosa]] selvatica era sopra di lui quando lo trovarono nel fosso.
 
 Dio ci perdoni, e non c'indurisca; non vedevamo così chiaro
 
-La [[Night|notte]] in cui andammo a Bannockburn passando per il Brighton Pier.
+La [[motifs/night|notte]] in cui andammo a Bannockburn passando per il Brighton Pier.
 
 Amici miei, non vi torneremo né scimmiotteremo un'antica ira,
 
@@ -2078,13 +2078,13 @@ Né stireremo la follia della nostra giovinezza a farne l'onta della vecchiaia,
 
 Ma percorreremo con occhi e orecchie più limpidi questo sentiero che vagabonda,
 
-E vedremo non drogati nella luce della sera la decorosa locanda della [[Death|morte]];
+E vedremo non drogati nella luce della sera la decorosa locanda della [[motifs/death|morte]];
 
 Poiché vi sono ancora buone novelle da udire e belle cose da vedere,
 
 Prima di andare in Paradiso passando per Kensal Green.
 
-Il [[Song|Canto]] di [[quoodle|Quoodle]]
+Il Canto di [[characters/quoodle|Quoodle]]
 
 Non hanno nasi, loro,
 
@@ -2110,7 +2110,7 @@ Dove persino la Legge di Mosè
 
 Ti lascia rubare un odore.
 
-Il brillante odore dell'[[Water|acqua]],
+Il brillante odore dell'[[motifs/water|acqua]],
 
 Il fiero odore di una pietra,
 
@@ -2120,25 +2120,25 @@ Le vecchie ossa sepolte sotto,
 
 Sono cose in cui essi arrancano
 
-E sbagliano, se lasciati [[Alone|soli]].
+E sbagliano, se lasciati soli.
 
-Il [[Wind|vento]] dalle foreste d'[[Winter|inverno]],
+Il [[motifs/wind|vento]] dalle foreste d'[[motifs/winter|inverno]],
 
-Il profumo di [[Flowers|fiori]] senza profumo,
+Il profumo di [[motifs/flowers|fiori]] senza profumo,
 
 Il respiro dell'ornarsi delle spose,
 
 L'odore d'insidia e d'avvertimento,
 
-L'odore del mattino di [[Sunday|domenica]],
+L'odore del mattino di [[characters/sunday|domenica]],
 
 Dio ci diede come nostri.
 
 . . . . .
 
-E [[quoodle|Quoodle]] qui rivela
+E [[characters/quoodle|Quoodle]] qui rivela
 
-Tutte le cose che [[quoodle|Quoodle]] può,
+Tutte le cose che [[characters/quoodle|Quoodle]] può,
 
 Non hanno nasi, loro,
 
@@ -2150,13 +2150,13 @@ La Nasomancanza dell'Uomo.
 
 Pionieri, o Pionieri
 
-Nabucodonosor il [[King|Re]] dei Giudei
+Nabucodonosor il [[archetypes/king|Re]] dei Giudei
 
 Soffriva di vedute nuove e originali,
 
 Strisciava su mani e ginocchia, si dice,
 
-Con l'erba in bocca e una [[Crown|corona]] in capo.
+Con l'erba in bocca e una [[motifs/crown|corona]] in capo.
 
 Con un wowtyiddly, ecc.
 
@@ -2166,7 +2166,7 @@ Pensavano che la cosa fosse una maledizione di Dio,
 
 Ma un Pioniere lo si insulta sempre
 
-Come Nabucodonosor il [[King|Re]] dei Giudei.
+Come Nabucodonosor il [[archetypes/king|Re]] dei Giudei.
 
 Il nero Lord Foulon, che il Francese uccise,
 
@@ -2178,19 +2178,19 @@ Così lo rimpinzarono d'erba quando gli tagliarono la testa.
 
 Con un wowtyiddly, ecc.
 
-Per l'[[Pride|orgoglio]] della sua [[Soul|anima]] perì allora...
+Per l'[[concepts/pride|orgoglio]] della sua [[motifs/soul|anima]] perì allora...
 
-Ma naturalmente è sempre di [[Pride|orgoglio]] che gli uomini,
+Ma naturalmente è sempre di [[concepts/pride|orgoglio]] che gli uomini,
 
 Un Uomo in Anticipo sui Tempi, accusano,
 
-Come Nabucodonosor il [[King|Re]] dei Giudei.
+Come Nabucodonosor il [[archetypes/king|Re]] dei Giudei.
 
 Simeon Scudder di Styx, nel Maine,
 
 Pensò alla cosa e vi si rimise di nuovo.
 
-Diede buona erba e [[Water|acqua]] in secchi
+Diede buona erba e [[motifs/water|acqua]] in secchi
 
 A mille Irlandesi che martellavano rotaie.
 
@@ -2198,21 +2198,21 @@ Con un wowtyiddly, ecc.
 
 Gli appetiti differiscono; e legato a un palo
 
-Fu impeciato e impiumato per amor di [[Conscience|Coscienza]].
+Fu impeciato e impiumato per amor di [[concepts/conscience|Coscienza]].
 
 Ma lapidare i profeti è cosa antica,
 
-Come Nabucodonosor il [[King|Re]] dei Giudei.
+Come Nabucodonosor il [[archetypes/king|Re]] dei Giudei.
 
-Il [[vegetarian|Vegetariano]] Logico
+Il Vegetariano Logico
 
-«Perché non dovrei avere una bevanda puramente [[vegetarian|vegetariana]]? Perché non dovrei prendere
+«Perché non dovrei avere una bevanda puramente vegetariana? Perché non dovrei prendere
 
 i vegetali nella loro forma più alta, per così dire? I modesti vegetariani
 
-dovrebbero ovviamente attenersi al vino o alla birra, semplici bevande [[vegetarian|vegetariane]],
+dovrebbero ovviamente attenersi al vino o alla birra, semplici bevande vegetariane,
 
-invece di colmare i loro calici col [[Blood|sangue]] di tori ed elefanti,
+invece di colmare i loro calici col [[motifs/blood|sangue]] di tori ed elefanti,
 
 come fanno tutti i convenzionali mangiatori di carne, suppongo». — Dalroy.
 
@@ -2226,7 +2226,7 @@ Mi troverai a bere gin
 
 Nella più infima specie di locanda,
 
-Perché sono un rigido [[vegetarian|Vegetariano]].
+Perché sono un rigido Vegetariano.
 
 Così vuotai la locanda del vino,
 
@@ -2238,7 +2238,7 @@ Ma egli disse che non sapevo parlare,
 
 E mi spedì di filato dal Giudice
 
-Perché ero un Felice [[vegetarian|Vegetariano]].
+Perché ero un Felice Vegetariano.
 
 Oh, conoscevo un Dottor Gluck,
 
@@ -2250,7 +2250,7 @@ Così gli diedi tutto il maiale
 
 Che avevo, su una forchetta;
 
-Perché io stesso sono un [[vegetarian|Vegetariano]].
+Perché io stesso sono un Vegetariano.
 
 Sono silenzioso al Circolo,
 
@@ -2267,11 +2267,11 @@ For I stuff away for life
 
 Shoving peas in with a knife,
 
-Because I am at heart a [[vegetarian|Vegetarian]].
+Because I am at heart a Vegetarian.
 
 No more the milk of cows
 
-Shall pollute my private [[house]]
+Shall pollute my private house
 
 Than the milk of the wild mares of the Barbarian;
 
@@ -2279,7 +2279,7 @@ I will stick to port and sherry,
 
 For they are so very, very,
 
-So very, very, very [[vegetarian|Vegetarian]].
+So very, very, very Vegetarian.
 
 "The Saracen's Head"
 
@@ -2287,13 +2287,13 @@ So very, very, very [[vegetarian|Vegetarian]].
 
 Where we shall never drink wine again,
 
-For the wicked old women who feel [[Well|well]]-bred
+For the wicked old women who feel [[motifs/well|well]]-bred
 
 Have turned to a tea-shop "The Saracen's Head."
 
 "The Saracen's Head" out of Araby came,
 
-[[King]] [[Richard]] riding in arms like flame,
+[[archetypes/king|King]] [[characters/richard|Richard]] riding in arms like flame,
 
 And where he established his folk to be fed
 
@@ -2311,7 +2311,7 @@ So "The Saracen's Head" fulfils its name,
 
 They drink no wine--a ridiculous game--
 
-And I shall [[Wonder|wonder]] until I'm dead,
+And I shall [[concepts/wonder|wonder]] until I'm dead,
 
 How it ever came into the Saracen's Head.
 
@@ -2325,7 +2325,7 @@ He ordered his lunch by megaphone in manly, simple tones,
 
 And used all his motors for canvassing voters, and twenty telephones;
 
-Besides a dandy little [[Machine|machine]],
+Besides a dandy little [[motifs/machine|machine]],
 
 Cunning and neat as ever was seen,
 
@@ -2357,7 +2357,7 @@ A scarlet tunic with sunflowers decked,
 
 Which might have had a more marked effect,
 
-And pleased the [[Pride|pride]] of a weaker man that yearned for wine or wife;
+And pleased the [[concepts/pride|pride]] of a weaker man that yearned for wine or wife;
 
 But Fame and the Flagon, for Mr. Mandragon
 
@@ -2369,9 +2369,9 @@ He enjoyed a quiet funeral in a Crematorium shed.
 
 And he lies there fluffy and soft and grey and certainly quite refined;
 
-When he might have rotted to [[Flowers|flowers]] and fruit with Adam and all mankind,
+When he might have rotted to [[motifs/flowers|flowers]] and fruit with Adam and all mankind,
 
-Or been eaten by wolves athirst for [[Blood|blood]],
+Or been eaten by wolves athirst for [[motifs/blood|blood]],
 
 Or burnt on a good tall pyre of wood,
 
@@ -2383,19 +2383,19 @@ Merrily taking twopenny ale and pork with a pocket-knife;
 
 But this was luxury not for one that went for the Simple Life.
 
-The [[Song]] Against [[songs|Songs]]
+The [[works/song-(poe)|Song]] Against Songs
 
-The [[Song|song]] of the sorrow of Melisande is a weary [[Song|song]] and a dreary [[Song|song]],
+The song of the sorrow of Melisande is a weary song and a dreary song,
 
-The glory of [[Mariana]]'s grange had got into great [[Decay|decay]],
+The glory of [[characters/mariana|Mariana]]'s grange had got into great [[motifs/decay|decay]],
 
-The [[Song|song]] of [[The Raven|the Raven]] Never More has never been called a cheery [[Song|song]],
+The song of the Raven Never More has never been called a cheery song,
 
 And the brightest things in Baudelaire are anything else but gay.
 
-But who will write us a riding [[Song|song]],
+But who will write us a riding song,
 
-Or a hunting [[Song|song]] or a drinking [[Song|song]],
+Or a hunting song or a drinking song,
 
 Fit for them that arose and rode
 
@@ -2403,41 +2403,41 @@ When day and the wine were red?
 
 But bring me a quart of claret out,
 
-And I will write you a clinking [[Song|song]],
+And I will write you a clinking song,
 
-A [[Song|song]] of war and a [[Song|song]] of wine
+A song of war and a song of wine
 
-And a [[Song|song]] to wake the dead.
+And a song to wake the dead.
 
-The [[Song|song]] of the fury of Fragolette is a florid [[Song|song]] and a torrid [[Song|song]],
+The song of the fury of Fragolette is a florid song and a torrid song,
 
-The [[Song|song]] of the sorrow of Tara is sung to a harp unstrung,
+The song of the sorrow of Tara is sung to a harp unstrung,
 
-The [[Song|song]] of the cheerful Shropshire Lad I consider a perfectly horrid [[Song|song]],
+The song of the cheerful Shropshire Lad I consider a perfectly horrid song,
 
-And the [[Song|song]] of the happy Futurist is a [[Song|song]] that can't be sung.
+And the song of the happy Futurist is a song that can't be sung.
 
-But who will write us a riding [[Song|song]]
+But who will write us a riding song
 
-Or a fighting [[Song|song]] or a drinking [[Song|song]],
+Or a fighting song or a drinking song,
 
 Fit for the fathers of you and me,
 
 That knew how to think and thrive?
 
-But the [[Song|song]] of [[Beauty]] and Art and [[Love]]
+But the song of [[concepts/beauty|Beauty]] and Art and [[motifs/love|Love]]
 
-Is simply an utterly stinking [[Song|song]],
+Is simply an utterly stinking song,
 
-To [[Double|double]] you up and drag you down
+To [[topoi/double|double]] you up and drag you down
 
-And damn your [[Soul|soul]] alive.
+And damn your [[motifs/soul|soul]] alive.
 
 Me Heart
 
 I come from Castlepatrick, and me heart is on me sleeve,
 
-And any [[Sword|sword]] or [[Pistol|pistol]] boy can hit it with me leave,
+And any sword or [[characters/pistol|pistol]] boy can hit it with me leave,
 
 It shines there for an epaulette, as golden as a flame,
 
@@ -2451,7 +2451,7 @@ The folk that live in Liverpool, their heart is in their boots;
 
 They go to hell like lambs, they do, because the hooter hoots.
 
-Where men may not be dancin', though the wheels may [[Dance|dance]] all day;
+Where men may not be dancin', though the wheels may [[motifs/dance|dance]] all day;
 
 And men may not be smokin'; but only chimneys may.
 
@@ -2471,7 +2471,7 @@ But I come from Castlepatrick, and me heart is on me sleeve;
 
 But a lady stole it from me on St. Barnabas's Eve.
 
-The [[Song]] of the Oak
+The [[works/song-(poe)|Song]] of the Oak
 
 The Druids waved their golden knives
 
@@ -2489,7 +2489,7 @@ But though they cut the throats of men
 
 They cut not down the tree,
 
-And from the [[Blood|blood]] the saplings sprang
+And from the [[motifs/blood|blood]] the saplings sprang
 
 Of oak-woods yet to be.
 
@@ -2500,11 +2500,11 @@ Poiché mi rimpinzo per la vita
 
 Cacciandomi i piselli con un coltello,
 
-Perché in cuore sono un [[vegetarian|Vegetariano]].
+Perché in cuore sono un Vegetariano.
 
 Non più il latte di mucca
 
-Contaminerà la mia privata [[house|dimora]]
+Contaminerà la mia privata dimora
 
 Più del latte delle cavalle selvagge del Barbaro;
 
@@ -2512,7 +2512,7 @@ Mi atterrò al porto e allo sherry,
 
 Poiché sono così tanto, tanto,
 
-Così tanto, tanto, tanto [[vegetarian|Vegetariani]].
+Così tanto, tanto, tanto Vegetariani.
 
 «La Testa del Saraceno»
 
@@ -2520,13 +2520,13 @@ Così tanto, tanto, tanto [[vegetarian|Vegetariani]].
 
 Dove non berremo mai più vino,
 
-Poiché le malvagie vecchie che si sentono [[Well|ben]] educate
+Poiché le malvagie vecchie che si sentono [[motifs/well|ben]] educate
 
 Hanno mutato in una sala da tè «La Testa del Saraceno».
 
 «La Testa del Saraceno» venne dall'Arabia,
 
-[[King|Re]] [[Richard|Riccardo]] cavalcando in armi come fiamma,
+[[archetypes/king|Re]] [[characters/richard|Riccardo]] cavalcando in armi come fiamma,
 
 E dove stabilì che la sua gente fosse nutrita
 
@@ -2544,7 +2544,7 @@ Così «La Testa del Saraceno» compie il suo nome,
 
 Non bevono vino... un gioco ridicolo...
 
-E mi [[Wonder|stupirò]] finché non sarò morto,
+E mi [[concepts/wonder|stupirò]] finché non sarò morto,
 
 Come mai sia entrato nella Testa del Saraceno.
 
@@ -2558,7 +2558,7 @@ Ordinava il pranzo col megafono in toni virili e semplici,
 
 E usava tutte le sue automobili per battere gli elettori, e venti telefoni;
 
-Oltre a un elegante [[Machine|congegno]],
+Oltre a un elegante [[motifs/machine|congegno]],
 
 Ingegnoso e lindo come mai se ne vide,
 
@@ -2590,7 +2590,7 @@ Una tunica scarlatta adorna di girasoli,
 
 Che avrebbe potuto avere un effetto più marcato,
 
-E lusingato l'[[Pride|orgoglio]] di un uomo più debole che agognasse vino o moglie;
+E lusingato l'[[concepts/pride|orgoglio]] di un uomo più debole che agognasse vino o moglie;
 
 Ma la Fama e il Boccale, per il signor Mandragon
 
@@ -2602,9 +2602,9 @@ Godette di un quieto funerale in un capannone di Crematorio.
 
 E giace là soffice e molle e grigio e certamente assai raffinato;
 
-Quando avrebbe potuto marcire in [[Flowers|fiori]] e frutta con Adamo e tutto il genere umano,
+Quando avrebbe potuto marcire in [[motifs/flowers|fiori]] e frutta con Adamo e tutto il genere umano,
 
-O essere divorato da lupi assetati di [[Blood|sangue]],
+O essere divorato da lupi assetati di [[motifs/blood|sangue]],
 
 O arso su una bella alta pira di legna,
 
@@ -2616,19 +2616,19 @@ Prendendo allegramente birra da due soldi e maiale con un temperino;
 
 Ma questo era un lusso non per chi mirava alla Vita Semplice.
 
-Il [[Song|Canto]] contro i [[songs|Canti]]
+Il Canto contro i Canti
 
-Il [[Song|canto]] del dolore di Melisande è un [[Song|canto]] fiacco e un [[Song|canto]] tetro,
+Il canto del dolore di Melisande è un canto fiacco e un canto tetro,
 
-La gloria della fattoria di [[Mariana]] era caduta in gran [[Decay|rovina]],
+La gloria della fattoria di [[characters/mariana|Mariana]] era caduta in gran [[motifs/decay|rovina]],
 
-Il [[Song|canto]] del [[The Raven|Corvo]] Mai Più non è mai stato detto un [[Song|canto]] gaio,
+Il canto del Corvo Mai Più non è mai stato detto un canto gaio,
 
 E le cose più luminose in Baudelaire sono tutt'altro che liete.
 
-Ma chi ci scriverà un [[Song|canto]] da cavalcata,
+Ma chi ci scriverà un canto da cavalcata,
 
-O un [[Song|canto]] di caccia o un [[Song|canto]] da bevuta,
+O un canto di caccia o un canto da bevuta,
 
 Degno di coloro che si levarono e cavalcarono
 
@@ -2636,41 +2636,41 @@ Quando il giorno e il vino erano rossi?
 
 Ma portatemi fuori un quarto di chiaretto,
 
-E vi scriverò un [[Song|canto]] tintinnante,
+E vi scriverò un canto tintinnante,
 
-Un [[Song|canto]] di guerra e un [[Song|canto]] di vino
+Un canto di guerra e un canto di vino
 
-E un [[Song|canto]] per svegliare i morti.
+E un canto per svegliare i morti.
 
-Il [[Song|canto]] della furia di Fragolette è un [[Song|canto]] florido e un [[Song|canto]] torrido,
+Il canto della furia di Fragolette è un canto florido e un canto torrido,
 
-Il [[Song|canto]] del dolore di Tara è cantato su un'arpa scordata,
+Il canto del dolore di Tara è cantato su un'arpa scordata,
 
-Il [[Song|canto]] dell'allegro Giovane dello Shropshire lo considero un [[Song|canto]] perfettamente orrendo,
+Il canto dell'allegro Giovane dello Shropshire lo considero un canto perfettamente orrendo,
 
-E il [[Song|canto]] del felice Futurista è un [[Song|canto]] che non si può cantare.
+E il canto del felice Futurista è un canto che non si può cantare.
 
-Ma chi ci scriverà un [[Song|canto]] da cavalcata
+Ma chi ci scriverà un canto da cavalcata
 
-O un [[Song|canto]] di battaglia o un [[Song|canto]] da bevuta,
+O un canto di battaglia o un canto da bevuta,
 
 Degno dei padri tuoi e miei,
 
 Che sapevano pensare e prosperare?
 
-Ma il [[Song|canto]] della [[Beauty|Bellezza]] e dell'Arte e dell'[[Love|Amore]]
+Ma il canto della [[concepts/beauty|Bellezza]] e dell'Arte e dell'[[motifs/love|Amore]]
 
-È semplicemente un [[Song|canto]] del tutto puzzolente,
+È semplicemente un canto del tutto puzzolente,
 
-Da [[Double|piegarti]] in due e trascinarti giù
+Da [[topoi/double|piegarti]] in due e trascinarti giù
 
-E dannare la tua [[Soul|anima]] viva.
+E dannare la tua [[motifs/soul|anima]] viva.
 
 Il Mio Cuore
 
 Vengo da Castlepatrick, e il mio cuore è sulla mia manica,
 
-E qualsiasi ragazzo con [[Sword|spada]] o [[Pistol|pistola]] può colpirlo col mio permesso,
+E qualsiasi ragazzo con spada o [[characters/pistol|pistola]] può colpirlo col mio permesso,
 
 Vi brilla come una spallina, dorato come una fiamma,
 
@@ -2684,7 +2684,7 @@ La gente che vive a Liverpool, ha il cuore negli stivali;
 
 Vanno all'inferno come agnelli, davvero, perché la sirena fischia.
 
-Dove agli uomini non è concesso danzare, benché le ruote [[Dance|danzino]] tutto il giorno;
+Dove agli uomini non è concesso danzare, benché le ruote [[motifs/dance|danzino]] tutto il giorno;
 
 E agli uomini non è concesso fumare; ma solo ai camini sì.
 
@@ -2704,7 +2704,7 @@ Ma vengo da Castlepatrick, e il mio cuore è sulla mia manica;
 
 Ma una dama me lo rubò la Vigilia di San Barnaba.
 
-La [[Song|Canzone]] della Quercia  
+Il Canto della Quercia
 
 I Druidi agitavano i loro coltelli d'oro
 
@@ -2722,7 +2722,7 @@ Ma benché tagliassero la gola agli uomini
 
 Non tagliavano l'albero,
 
-E dal [[Blood|sangue]] germogliarono gli alberelli
+E dal [[motifs/blood|sangue]] germogliarono gli alberelli
 
 Dei querceti ancora a venire.
 
@@ -2739,7 +2739,7 @@ He clings and crawls as ivy would
 
 About the sacred tree.
 
-[[King]] Charles he fled from Worcester fight
+[[archetypes/king|King]] Charles he fled from Worcester fight
 
 And hid him in an Oak;
 
@@ -2775,9 +2775,9 @@ That oaks might still be in the grove
 
 As oaken as the beams above,
 
-When the great [[Lover]] sailors [[Love|love]]
+When the great [[archetypes/lover|Lover]] sailors [[motifs/love|love]]
 
-Was kissed by [[Death]] at sea.
+Was kissed by [[motifs/death|Death]] at sea.
 
 But though for him the oak-trees fell
 
@@ -2795,7 +2795,7 @@ As the dragon of the ivy would
 
 That has us in his grips.
 
-The [[Road]] to Roundabout
+The [[motifs/road|Road]] to Roundabout
 
 Some say that Guy of Warwick,
 
@@ -2837,13 +2837,13 @@ Whose lantern lights the meads
 
 In heaven no longer needs),
 
-Such [[Dance|dance]] around the trysting-place
+Such [[motifs/dance|dance]] around the trysting-place
 
-The moonstruck [[Lover|lover]] leads;
+The moonstruck [[archetypes/lover|lover]] leads;
 
 Which superstition I should scout
 
-There is more [[Faith|faith]] in honest [[Doubt|doubt]]
+There is more [[concepts/faith|faith]] in honest [[concepts/doubt|doubt]]
 
 (As Tennyson has pointed out)
 
@@ -2867,7 +2867,7 @@ Went forth to find the Grail,
 
 Grey Merlin wrinkled up the roads
 
-For [[Hope|hope]] that he should fail;
+For [[concepts/hope|hope]] that he should fail;
 
 All roads led back to Lyonesse
 
@@ -2893,7 +2893,7 @@ In the happy town of Roundabout,
 
 That makes the world go round.
 
-The [[Song]] of the Strange [[ascetic|Ascetic]]
+The [[works/song-(poe)|Song]] of the Strange Ascetic
 
 If I had been a Heathen,
 
@@ -2915,9 +2915,9 @@ If I had been a Heathen,
 
 I'd have crowned Neoera's curls,
 
-And filled my life with [[Love|love]] affairs,
+And filled my life with [[motifs/love|love]] affairs,
 
-My [[house]] with dancing girls;
+My house with dancing girls;
 
 But Higgins is a Heathen,
 
@@ -2961,7 +2961,7 @@ Just as if he were a pie.
 
 Now who that runs can read it,
 
-The [[Riddle|riddle]] that I write,
+The [[forms/riddle|riddle]] that I write,
 
 Of why this poor old sinner,
 
@@ -2971,15 +2971,15 @@ But I, I cannot read it
 
 (Although I run and run),
 
-Of them that do not have the [[Faith|faith]],
+Of them that do not have the [[concepts/faith|faith]],
 
 And will not have the fun.
 
-The [[Song]] of Right and Wrong
+The [[works/song-(poe)|Song]] of Right and Wrong
 
-Feast on wine or fast on [[Water|water]],
+Feast on wine or fast on [[motifs/water|water]],
 
-And your [[Honour|honour]] shall stand sure,
+And your [[concepts/honour|honour]] shall stand sure,
 
 God Almighty's son and daughter
 
@@ -3007,7 +3007,7 @@ At his pig-tail troop along;
 
 And, like all the East he grows in,
 
-He is [[Poison]] when he's strong.
+He is [[motifs/poison|Poison]] when he's strong.
 
 Tea, although an Oriental,
 
@@ -3021,9 +3021,9 @@ Cocoa is a dull, disloyal,
 
 Lying, crawling cad and clown,
 
-And may very [[Well|well]] be grateful
+And may very [[motifs/well|well]] be grateful
 
-To the [[Fool|fool]] that takes him down.
+To the [[archetypes/fool|fool]] that takes him down.
 
 As for all the windy waters,
 
@@ -3035,31 +3035,31 @@ By the tipplers of the town;
 
 When red wine had brought red ruin
 
-And the [[Death|death]]-[[Dance|dance]] of our times,
+And the [[motifs/death|death]]-[[motifs/dance|dance]] of our times,
 
-Heaven sent us Soda [[Water]]
+Heaven sent us Soda [[motifs/water|Water]]
 
 As a torment for our crimes.
 
-Who Goes [[Home]]?
+Who Goes [[motifs/home|Home]]?
 
-In the [[City|city]] set upon slime and loam
+In the [[motifs/city|city]] set upon slime and loam
 
-They cry in their parliament "Who goes [[Home|home]]?"
+They cry in their parliament "Who goes [[motifs/home|home]]?"
 
 And there comes no answer in arch or dome,
 
-For none in the [[City|city]] of graves goes [[Home|home]].
+For none in the [[motifs/city|city]] of graves goes [[motifs/home|home]].
 
 Yet these shall perish and understand,
 
 For God has pity on this great land.
 
-Men that are men again; who goes [[Home|home]]?
+Men that are men again; who goes [[motifs/home|home]]?
 
-Tocsin and trumpeter! Who goes [[Home|home]]?
+Tocsin and trumpeter! Who goes [[motifs/home|home]]?
 
-For there's [[Blood|blood]] on the field and [[Blood|blood]] on the foam
+For there's [[motifs/blood|blood]] on the field and [[motifs/blood|blood]] on the foam
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3072,7 +3072,7 @@ S'aggrappa e striscia come farebbe l'edera
 
 Intorno all'albero sacro.
 
-[[King|Re]] Carlo fuggì dalla battaglia di Worcester
+[[archetypes/king|Re]] Carlo fuggì dalla battaglia di Worcester
 
 E si nascose in una Quercia;
 
@@ -3108,9 +3108,9 @@ Affinché le querce fossero ancora nel boschetto
 
 Querciose quanto le travi lassù,
 
-Quando il grande [[Lover|Amante]] che i marinai [[Love|amano]]
+Quando il grande [[archetypes/lover|Amante]] che i marinai [[motifs/love|amano]]
 
-Fu baciato dalla [[Death|Morte]] in mare.
+Fu baciato dalla [[motifs/death|Morte]] in mare.
 
 Ma benché per lui le querce cadessero
 
@@ -3128,7 +3128,7 @@ Come farebbe il drago dell'edera
 
 Che ci tiene nella sua stretta.
 
-La [[Road|Strada]] per Roundabout
+La [[motifs/road|Strada]] per Roundabout
 
 Alcuni dicono che Guido di Warwick,
 
@@ -3170,13 +3170,13 @@ La cui lanterna illumina i prati
 
 In cielo non ha più bisogno),
 
-Tali [[Dance|danze]] intorno al luogo del convegno
+Tali [[motifs/dance|danze]] intorno al luogo del convegno
 
-Conduce l'[[Lover|amante]] lunatico;
+Conduce l'[[archetypes/lover|amante]] lunatico;
 
 La qual superstizione dovrei respingere
 
-V'è più [[Faith|fede]] in un onesto [[Doubt|dubbio]]
+V'è più [[concepts/faith|fede]] in un onesto [[concepts/doubt|dubbio]]
 
 (Come ha rilevato Tennyson)
 
@@ -3200,7 +3200,7 @@ Partì per trovare il Graal,
 
 Il grigio Merlino aggrinzì le strade
 
-Nella [[Hope|speranza]] che egli fallisse;
+Nella [[concepts/hope|speranza]] che egli fallisse;
 
 Tutte le strade riconducevano a Lyonesse
 
@@ -3226,7 +3226,7 @@ Nella felice città di Roundabout,
 
 Che fa girare il mondo.
 
-Il [[Song|Canto]] dello Strano [[ascetic|Asceta]]
+Il Canto dello Strano Asceta
 
 Se fossi stato un Pagano,
 
@@ -3248,9 +3248,9 @@ Se fossi stato un Pagano,
 
 Avrei incoronato i riccioli di Neera,
 
-E colmato la mia vita di relazioni d'[[Love|amore]],
+E colmato la mia vita di relazioni d'[[motifs/love|amore]],
 
-La mia [[house|casa]] di fanciulle danzanti;
+La mia casa di fanciulle danzanti;
 
 Ma Higgins è un Pagano,
 
@@ -3294,7 +3294,7 @@ Proprio come se fosse una torta.
 
 Ora chi corre può leggerlo,
 
-L'[[Riddle|enigma]] che scrivo,
+L'[[forms/riddle|enigma]] che scrivo,
 
 Del perché questo povero vecchio peccatore,
 
@@ -3304,15 +3304,15 @@ Ma io, io non riesco a leggerlo
 
 (Benché corra e corra),
 
-Di coloro che non hanno la [[Faith|fede]],
+Di coloro che non hanno la [[concepts/faith|fede]],
 
 E non vogliono il divertimento.
 
-Il [[Song|Canto]] del Giusto e dell'Ingiusto
+Il Canto del Giusto e dell'Ingiusto
 
-Banchetta col vino o digiuna con l'[[Water|acqua]],
+Banchetta col vino o digiuna con l'[[motifs/water|acqua]],
 
-E il tuo [[Honour|onore]] rimarrà saldo,
+E il tuo [[concepts/honour|onore]] rimarrà saldo,
 
 Figlio e figlia di Dio Onnipotente
 
@@ -3340,7 +3340,7 @@ Gli marciano dietro al codino;
 
 E, come tutto l'Oriente in cui cresce,
 
-È [[Poison|Veleno]] quando è forte.
+È [[motifs/poison|Veleno]] quando è forte.
 
 Il tè, benché Orientale,
 
@@ -3354,9 +3354,9 @@ Il cacao è un ottuso, sleale,
 
 Bugiardo, strisciante mascalzone e buffone,
 
-E può assai [[Well|bene]] essere grato
+E può assai [[motifs/well|bene]] essere grato
 
-Allo [[Fool|sciocco]] che lo trangugia.
+Allo [[archetypes/fool|sciocco]] che lo trangugia.
 
 Quanto a tutte le acque ventose,
 
@@ -3368,58 +3368,58 @@ Dai beoni della città;
 
 Quando il rosso vino aveva portato rossa rovina
 
-E la [[Dance|danza]] della [[Death|morte]] dei nostri tempi,
+E la [[motifs/dance|danza]] della [[motifs/death|morte]] dei nostri tempi,
 
-Il cielo ci mandò l'[[Water|Acqua]] di Soda
+Il cielo ci mandò l'[[motifs/water|Acqua]] di Soda
 
 Come tormento per i nostri delitti.
 
-Chi Va a [[Home|Casa]]?  
+Chi Va a [[motifs/home|Casa]]?
 
-Nella [[City|città]] posta su melma e fango
+Nella [[motifs/city|città]] posta su melma e fango
 
-Gridano nel loro parlamento «Chi va a [[Home|casa]]?»
+Gridano nel loro parlamento «Chi va a [[motifs/home|casa]]?»
 
 E non giunge risposta né da arco né da cupola,
 
-Poiché nessuno nella [[City|città]] delle tombe va a [[Home|casa]].
+Poiché nessuno nella [[motifs/city|città]] delle tombe va a [[motifs/home|casa]].
 
 Eppure questi periranno e comprenderanno,
 
 Poiché Dio ha pietà di questa gran terra.
 
-Uomini che sono di nuovo uomini; chi va a [[Home|casa]]?
+Uomini che sono di nuovo uomini; chi va a [[motifs/home|casa]]?
 
-Campana a martello e trombettiere! Chi va a [[Home|casa]]?
+Campana a martello e trombettiere! Chi va a [[motifs/home|casa]]?
 
-Poiché c'è [[Blood|sangue]] sul campo e [[Blood|sangue]] sulla schiuma
+Poiché c'è [[motifs/blood|sangue]] sul campo e [[motifs/blood|sangue]] sulla schiuma
 
 
 
 <span class="atom-split" data-atom="part--part_05" data-title="WineWaterSong (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/blood,motif/crown,motif/home,motif/horse,concept/body,concept/reform,histref/king_alfred,setting/london"></span>
 
 
-And [[Blood|blood]] on the [[Body|body]] when Man goes [[Home|home]].
+And [[motifs/blood|blood]] on the [[concepts/body|body]] when Man goes [[motifs/home|home]].
 
 And a voice valedictory.... Who is for Victory?
 
-Who is for Liberty? Who goes [[Home|home]]?
+Who is for Liberty? Who goes [[motifs/home|home]]?
 
 Printed in Great Britain by
 
-UNWIN BROTHERS, LIMITED, PRINTERS, WOKING AND [[London|LONDON]]
+UNWIN BROTHERS, LIMITED, PRINTERS, WOKING AND [[settings/london|LONDON]]
 
 SOME DELIGHTFUL BOOKS BY G. K. CHESTERTON
 
 *CHARLES DICKENS.
 
-With 2 Portraits in Photogravure. _Eighth Edition._ [[Crown]] 8vo, 6s.
+With 2 Portraits in Photogravure. _Eighth Edition._ [[motifs/crown|Crown]] 8vo, 6s.
 
 A famous book on Dickens which is intended as a general justification of
 
 that author. Mr. Chesterton compares the immense achievements produced
 
-by the optimism of Dickens in the realm of [[Reform|reform]] with the small results
+by the optimism of Dickens in the realm of [[concepts/reform|reform]] with the small results
 
 produced by the pessimistic method of later days. He treats each of the
 
@@ -3427,17 +3427,17 @@ novels in turn, and he devotes the latter part of his book to a general
 
 estimate of the influence of Dickens.
 
-THE FLYING INN. _Third Edition._ [[Crown]] 8vo, 6s. Also [[Crown]] 8vo, 2s. net.
+THE FLYING INN. _Third Edition._ [[motifs/crown|Crown]] 8vo, 6s. Also [[motifs/crown|Crown]] 8vo, 2s. net.
 
-THE BALLAD OF THE WHITE [[Horse|HORSE]]. _Fifth Edition._ Fcap. 8vo, 5s.
+THE BALLAD OF THE WHITE [[motifs/horse|HORSE]]. _Fifth Edition._ Fcap. 8vo, 5s.
 
-A Ballad of the Reign of [[King Alfred]]. It describes that monarch's noble
+A Ballad of the Reign of [[historical-references/king-alfred|King Alfred]]. It describes that monarch's noble
 
 exploits, his character, his struggle with the Danes, the story of the
 
-White [[Horse]], and the Battle of Ethandune.
+White [[motifs/horse|Horse]], and the Battle of Ethandune.
 
-LETTERS TO AN OLD GARIBALDIAN. [[Crown]] 8vo, 3d. net.
+LETTERS TO AN OLD GARIBALDIAN. [[motifs/crown|Crown]] 8vo, 3d. net.
 
 ESSAYS
 
@@ -3453,32 +3453,32 @@ A MISCELLANY OF MEN. _Second Edition._
 
 * _An edition in cloth, Fcap. 8vo, 1s. net, is also issued._
 
-METHUEN & CO. LTD. [[London|LONDON]]
+METHUEN & CO. LTD. [[settings/london|LONDON]]
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-E [[Blood|sangue]] sul [[Body|corpo]] quando l'Uomo torna a [[Home|casa]].
+E [[motifs/blood|sangue]] sul [[concepts/body|corpo]] quando l'Uomo torna a [[motifs/home|casa]].
 
 E una voce d'addio.... Chi è per la Vittoria?
 
-Chi è per la Libertà? Chi torna a [[Home|casa]]?
+Chi è per la Libertà? Chi torna a [[motifs/home|casa]]?
 
 Stampato in Gran Bretagna da
 
-UNWIN BROTHERS, LIMITED, STAMPATORI, WOKING E [[London|LONDRA]]
+UNWIN BROTHERS, LIMITED, STAMPATORI, WOKING E [[settings/london|LONDRA]]
 
 ALCUNI DELIZIOSI LIBRI DI G. K. CHESTERTON
 
 *CHARLES DICKENS.
 
-Con 2 ritratti in fotoincisione. _Ottava edizione._ [[Crown]] 8vo, 6s.
+Con 2 ritratti in fotoincisione. _Ottava edizione._ [[motifs/crown|Crown]] 8vo, 6s.
 
 Un celebre libro su Dickens, concepito come una giustificazione generale di
 
 quell'autore. Il signor Chesterton confronta le immense conquiste prodotte
 
-dall'ottimismo di Dickens nel campo della [[Reform|riforma]] con gli scarsi risultati
+dall'ottimismo di Dickens nel campo della [[concepts/reform|riforma]] con gli scarsi risultati
 
 prodotti dal metodo pessimistico dei tempi più recenti. Egli tratta a turno ciascuno dei
 
@@ -3486,17 +3486,17 @@ romanzi, e dedica l'ultima parte del suo libro a una valutazione generale
 
 dell'influenza di Dickens.
 
-LA LOCANDA VOLANTE. _Terza edizione._ [[Crown]] 8vo, 6s. Anche [[Crown]] 8vo, 2s. netto.
+LA LOCANDA VOLANTE. _Terza edizione._ [[motifs/crown|Crown]] 8vo, 6s. Anche [[motifs/crown|Crown]] 8vo, 2s. netto.
 
-LA BALLATA DEL [[Horse|CAVALLO]] BIANCO. _Quinta edizione._ Fcap. 8vo, 5s.
+LA BALLATA DEL [[motifs/horse|CAVALLO]] BIANCO. _Quinta edizione._ Fcap. 8vo, 5s.
 
-Una ballata sul regno di [[King Alfred|re Alfredo]]. Descrive le nobili
+Una ballata sul regno di [[historical-references/king-alfred|re Alfredo]]. Descrive le nobili
 
 imprese di quel monarca, il suo carattere, la sua lotta con i Danesi, la storia del
 
-[[Horse|Cavallo]] Bianco, e la battaglia di Ethandune.
+[[motifs/horse|Cavallo]] Bianco, e la battaglia di Ethandune.
 
-LETTERE A UN VECCHIO GARIBALDINO. [[Crown]] 8vo, 3d. netto.
+LETTERE A UN VECCHIO GARIBALDINO. [[motifs/crown|Crown]] 8vo, 3d. netto.
 
 SAGGI
 
@@ -3512,4 +3512,4 @@ UNA MISCELLANEA DI UOMINI. _Seconda edizione._
 
 * _È disponibile anche un'edizione in tela, Fcap. 8vo, 1s. netto._
 
-METHUEN & CO. LTD. [[London|LONDRA]]
+METHUEN & CO. LTD. [[settings/london|LONDRA]]

@@ -14,4 +14,10 @@ The pompous seed-merchant from Great Expectations Chesterton uses to illustrate 
 
 <div class="concept-works" data-slug="characters/uncle-pumblechook"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/charlesdickens-(chesterton)|CharlesDickens (Chesterton)]]
+
+</div>
+
 #graph/character

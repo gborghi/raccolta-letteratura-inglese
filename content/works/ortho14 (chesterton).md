@@ -48,7 +48,7 @@ tags:
 
 # ortho14
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > Chesterton's major apologetic book recounting how he came to Christian orthodoxy as the answer to a riddle; argues joy is the gigantic secret of Christianity and the modern sceptic is 'born upside down'. Themes: faith and doubt, paradox, wonder, conversion.
@@ -63,18 +63,18 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Rebel]]
+**Archetypes:** [[archetypes/rebel|Rebel]]
 
-**Settings:** [[London]]
+**Settings:** [[settings/london|London]]
 
-**Motifs:** [[Enchanted Wood]], [[Cross]], [[Garden]], [[Flag]]
+**Motifs:** [[motifs/enchanted-wood|Enchanted Wood]], [[motifs/cross|Cross]], [[motifs/garden|Garden]], [[motifs/flag|Flag]]
 
-**Characters:** [[Christ]], [[Joan of Arc]], [[Nietzsche]], [[Tolstoy]]
+**Characters:** [[characters/christ|Christ]], [[characters/joan-of-arc|Joan of Arc]], [[characters/nietzsche|Nietzsche]], [[characters/tolstoy|Tolstoy]]
 
-**Topoi:** [[World Upside Down]], [[Paradise Lost]]
-**Themes & Concepts:** [[Faith and Doubt]], [[Paradox]], [[Conversion]], [[Joy]], [[Wonder and Gratitude]], [[Faith]], [[Madness]], [[Critique of Progress]], [[Democracy]], [[Original Sin]], [[Fate and Free Will]], [[Tradition]], [[Authority]], [[History]]
-**Forms & Genres:** [[Apologetics]], [[Fictional Autobiography]], [[Essay]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Bible]], [[Classical Antiquity]], [[Crusades]], [[French Revolution]], [[Eastern Religion Comparative Religion]], [[Islam]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/paradise-lost|Paradise Lost]]
+**Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/paradox|Paradox]], [[concepts/conversion|Conversion]], [[concepts/joy|Joy]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/faith|Faith]], [[concepts/madness|Madness]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/democracy|Democracy]], [[concepts/original-sin|Original Sin]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/tradition|Tradition]], [[concepts/authority|Authority]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/apologetics|Apologetics]], [[forms/fictional-autobiography|Fictional Autobiography]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/crusades|Crusades]], [[historical-references/french-revolution|French Revolution]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]], [[historical-references/islam|Islam]]
 
 ## Testo integrale / Full text
 

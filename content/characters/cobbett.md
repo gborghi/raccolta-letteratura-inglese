@@ -14,4 +14,10 @@ William Cobbett, radical agrarian journalist and reformer, appears as the horsem
 
 <div class="concept-works" data-slug="characters/cobbett"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/oldsong-(chesterton)|oldsong (Chesterton)]]
+
+</div>
+
 #graph/character

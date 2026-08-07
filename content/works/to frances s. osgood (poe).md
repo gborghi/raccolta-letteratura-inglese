@@ -13,16 +13,16 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Poe*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A short complimentary love lyric counselling the beloved to remain exactly as she is to be endlessly praised and loved. Themes of love, beauty and constancy.
 
 ## Connections
 
-**Motifs:** [[Love]]
-**Themes & Concepts:** [[Romantic Love]], [[Beauty]]
-**Forms & Genres:** [[Lyric]]
+**Motifs:** [[motifs/love|Love]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/beauty|Beauty]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

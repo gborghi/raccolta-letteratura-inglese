@@ -31,7 +31,7 @@ tags:
   - form/dirge
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
+*by Chesterton*  ·  **Cluster:** [[clusters/grief-and-loss-·-elegy-·-clothing-and-costume|Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
 > An 1898 elegiac tribute on Gladstone's death, celebrating a strong man who died with his head high and rebuking the grey, sad spirit of the decadent younger generation.
@@ -42,16 +42,16 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Death Personified (2)]], [[Hero]]
+**Archetypes:** [[archetypes/death-personified-(2)|Death Personified (2)]], [[archetypes/hero|Hero]]
 
-**Topoi:** [[Sic Transit Gloria Mundi]]
+**Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
 
-**Characters:** [[Death Personified]], [[Gladstone]]
+**Characters:** [[characters/death-personified|Death Personified]], [[characters/gladstone|Gladstone]]
 
-**Motifs:** [[Dawn]], [[Seasons]], [[Cross]], [[Flags and Banners]], [[Crown]], [[Death]]
-**Themes & Concepts:** [[Grief and Loss]], [[Mortality]], [[Heroism]], [[Honour]], [[Melancholy]], [[Nationalism and Patriotism]], [[Decadence and Aestheticism]]
-**Forms & Genres:** [[Elegy]], [[Lyric]], [[Dirge]]
-**Historical References:** [[Regency Georgian England]]
+**Motifs:** [[motifs/dawn|Dawn]], [[motifs/seasons|Seasons]], [[motifs/cross|Cross]], [[motifs/flags-and-banners|Flags and Banners]], [[motifs/crown|Crown]], [[motifs/death|Death]]
+**Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/mortality|Mortality]], [[concepts/heroism|Heroism]], [[concepts/honour|Honour]], [[concepts/melancholy|Melancholy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/decadence-and-aestheticism|Decadence and Aestheticism]]
+**Forms & Genres:** [[forms/elegy|Elegy]], [[forms/lyric|Lyric]], [[forms/dirge|Dirge]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
 
 ## Testo integrale / Full text
 

@@ -16,15 +16,15 @@ tags:
   - character/doctor_watson
   - archetype/detective
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Detective Fiction · Ratiocination Detection · Crime and Punishment]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/detective-fiction-·-ratiocination-detection-·-crime-and-punishment|Detective Fiction · Ratiocination Detection · Crime and Punishment]]
 
 > [!abstract] 
 > A miniature comic vignette, written for Queen Mary's Dolls' House Library, in which Watson tries to imitate Holmes's deductive method at the breakfast table, only to have every one of his confident inferences gently demolished.
 
 ## Connections
 
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Wit]]
-**Settings:** [[London]]
-**Characters:** [[Sherlock Holmes]], [[Doctor Watson]]
-**Archetypes:** [[Detective]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/wit|Wit]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]]
+**Archetypes:** [[archetypes/detective|Detective]]

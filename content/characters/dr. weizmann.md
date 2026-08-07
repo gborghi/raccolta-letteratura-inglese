@@ -14,4 +14,10 @@ Chaim Weizmann, the Zionist leader Chesterton quotes and critiques at length as 
 
 <div class="concept-works" data-slug="characters/dr.-weizmann"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/new-jerusalem-(chesterton)|New Jerusalem (Chesterton)]]
+
+</div>
+
 #graph/character

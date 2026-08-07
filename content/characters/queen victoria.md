@@ -14,4 +14,11 @@ Named as the monarch under whom the 'Act of Conformity' for compulsory schooling
 
 <div class="concept-works" data-slug="characters/queen-victoria"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/compulsory-education-(chesterton)|Compulsory Education (Chesterton)]]
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+
+</div>
+
 #graph/character

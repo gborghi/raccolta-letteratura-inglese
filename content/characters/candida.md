@@ -14,4 +14,10 @@ Heroine of Shaw's play Candida, who chooses her weak, successful preacher-husban
 
 <div class="concept-works" data-slug="characters/candida"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/shaw-(chesterton)|Shaw (Chesterton)]]
+
+</div>
+
 #graph/character

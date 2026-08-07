@@ -31,7 +31,7 @@ tags:
 
 # unity
 
-*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Chesterton*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A satirical ballad about a missionary literally devoured by converts, mocking the modern doctrine of religious syncretism and forced unity of faiths; combines comic verse with theological satire.
@@ -42,19 +42,19 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Martyr Saint]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
 
-**Settings:** [[Solomon Islands]]
+**Settings:** [[settings/solomon-islands|Solomon Islands]]
 
-**Motifs:** [[Food and Feasting]], [[Cannibalism]]
+**Motifs:** [[motifs/food-and-feasting|Food and Feasting]], [[motifs/cannibalism|Cannibalism]]
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[Isaiah Bunter]]
+**Characters:** [[characters/isaiah-bunter|Isaiah Bunter]]
 
-**Themes & Concepts:** [[Satire of Society]], [[Faith]], [[Martyrdom]], [[Union]], [[Fanaticism]], [[Paradox]], [[History]]
-**Forms & Genres:** [[Satire]], [[Ballad Ballade]], [[Epigram]], [[Comic Verse Song]]
-**Historical References:** [[Christianity]], [[Eastern Religion Comparative Religion]], [[Kikuyu Controversy]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/faith|Faith]], [[concepts/martyrdom|Martyrdom]], [[concepts/union|Union]], [[concepts/fanaticism|Fanaticism]], [[concepts/paradox|Paradox]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/ballad-ballade|Ballad Ballade]], [[forms/epigram|Epigram]], [[forms/comic-verse-song|Comic Verse Song]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]], [[historical-references/kikuyu-controversy|Kikuyu Controversy]]
 
 ## Testo integrale / Full text
 

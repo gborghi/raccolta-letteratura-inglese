@@ -31,7 +31,7 @@ tags:
 
 # ephemeral
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > Preface to All Things Considered defending hasty journalism, attacking 'modernism' as snobbery and philanthropy as covert religious persecution.
@@ -50,16 +50,16 @@ tags:
 
 ## Connections
 
-**Historical References:** [[French Revolution]], [[Islam]], [[Catholic Church]], [[Puritanism]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/islam|Islam]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/puritanism|Puritanism]]
 
-**Archetypes:** [[Tyrant]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
 
-**Motifs:** [[Secrets]]
+**Motifs:** [[motifs/secrets|Secrets]]
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Themes & Concepts:** [[Critique of Progress]], [[Artist and Society]], [[Satire of Society]], [[Transience]], [[Faith]], [[Common Man]], [[Secrecy and Concealment]], [[Power and Corruption]], [[Social Injustice]], [[Religious Persecution]], [[History]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/critique-of-progress|Critique of Progress]], [[concepts/artist-and-society|Artist and Society]], [[concepts/satire-of-society|Satire of Society]], [[concepts/transience|Transience]], [[concepts/faith|Faith]], [[concepts/common-man|Common Man]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/social-injustice|Social Injustice]], [[concepts/religious-persecution|Religious Persecution]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -24,18 +24,18 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
+*by Poe*  ·  **Cluster:** [[clusters/transience-·-decay-·-carpe-diem|Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
 > Allegorical poem in which a once-radiant palace (the mind of monarch Thought) falls to evil and madness, dramatizing decay, mutability and the fall from a golden past.
 
 ## Connections
 
-**Topoi:** [[Paradise Lost]], [[Fall from Innocence]], [[Golden Age]], [[Sic Transit Gloria Mundi]]
-**Archetypes:** [[King]]
-**Motifs:** [[Decay]], [[Mutability]], [[Ghosts]], [[Music and Song]], [[Window]]
-**Themes & Concepts:** [[Madness]], [[Mortality]], [[Self-Knowledge]]
-**Forms & Genres:** [[Allegory]], [[Lyric]]
+**Topoi:** [[topoi/paradise-lost|Paradise Lost]], [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/golden-age|Golden Age]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
+**Archetypes:** [[archetypes/king|King]]
+**Motifs:** [[motifs/decay|Decay]], [[motifs/mutability|Mutability]], [[motifs/ghosts|Ghosts]], [[motifs/music-and-song|Music and Song]], [[motifs/window|Window]]
+**Themes & Concepts:** [[concepts/madness|Madness]], [[concepts/mortality|Mortality]], [[concepts/self-knowledge|Self-Knowledge]]
+**Forms & Genres:** [[forms/allegory|Allegory]], [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

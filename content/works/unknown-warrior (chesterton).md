@@ -33,7 +33,7 @@ tags:
 
 # unknown-warrior
 
-*by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
+*by Chesterton*  ·  **Cluster:** [[clusters/heroism-·-hero-·-last-stand|Heroism · Hero · Last Stand]]
 
 > [!abstract] 
 > A lyric poem celebrating the anonymous dead soldier whose nameless heroism defeats vulgar publicity and commercial fame; central themes are war's cost, honour, and the dignity of the unknown.
@@ -44,18 +44,18 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Common Man (2)]], [[Hero]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/hero|Hero]]
 
-**Settings:** [[Battlefield]]
+**Settings:** [[settings/battlefield|Battlefield]]
 
-**Topoi:** [[Sic Transit Gloria Mundi]]
+**Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
 
-**Characters:** [[Fatty Arbuckle]], [[P. T. Barnum]]
+**Characters:** [[characters/fatty-arbuckle|Fatty Arbuckle]], [[characters/p.-t.-barnum|P. T. Barnum]]
 
-**Motifs:** [[Death]], [[Silence]], [[Drums and Bugles]], [[Concealment Hidden Identity]]
-**Themes & Concepts:** [[Heroism]], [[Honour]], [[War and its Cost]], [[Satire of Society]], [[Vanity of Worldly Things]], [[Common Man]], [[Secrecy and Concealment]], [[Fame and Publicity]]
-**Forms & Genres:** [[Lyric]], [[Ode]], [[Satire]]
-**Historical References:** [[First World War]]
+**Motifs:** [[motifs/death|Death]], [[motifs/silence|Silence]], [[motifs/drums-and-bugles|Drums and Bugles]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]]
+**Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/honour|Honour]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/satire-of-society|Satire of Society]], [[concepts/vanity-of-worldly-things|Vanity of Worldly Things]], [[concepts/common-man|Common Man]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/fame-and-publicity|Fame and Publicity]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/ode|Ode]], [[forms/satire|Satire]]
+**Historical References:** [[historical-references/first-world-war|First World War]]
 
 ## Testo integrale / Full text
 

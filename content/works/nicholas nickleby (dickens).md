@@ -38,7 +38,7 @@ tags:
   - character/the_cheeryble_brothers
 ---
 
-*by Dickens*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
+*by Dickens*  ·  **Cluster:** [[clusters/city-·-london-·-theatrum-mundi|City · London · Theatrum Mundi]]
 
 > [!abstract] 
 > Dickens's picaresque social novel following young Nicholas through the cruelties of Dotheboys Hall, theatrical and mercantile London, and the villainy of his uncle Ralph; central themes are the abuse of children and education, social injustice, family, and the triumph of virtue over avarice.
@@ -52,13 +52,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Villain]], [[Hero]], [[Orphan]]
-**Motifs:** [[Money and Gold]], [[City]], [[Journey]]
-**Themes & Concepts:** [[Social Injustice]], [[Education]], [[Maturation and Growth]], [[Good vs Evil]], [[Power and Corruption]], [[Satire of Society]], [[Poverty]], [[Greed and Money]], [[Common Man]]
-**Forms & Genres:** [[Novel]], [[Bildungsroman]], [[Social Novel (Novel of Manners)]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]]
-**Characters:** [[Nicholas Nickleby]], [[Ralph Nickleby]], [[Kate Nickleby]], [[Smike]], [[Wackford Squeers]], [[Newman Noggs]], [[Madeline Bray]], [[Vincent Crummles]], [[Cheeryble Brothers]]
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/hero|Hero]], [[archetypes/orphan|Orphan]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/city|City]], [[motifs/journey|Journey]]
+**Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/education|Education]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/satire-of-society|Satire of Society]], [[concepts/poverty|Poverty]], [[concepts/greed-and-money|Greed and Money]], [[concepts/common-man|Common Man]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/bildungsroman|Bildungsroman]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/nicholas-nickleby|Nicholas Nickleby]], [[characters/ralph-nickleby|Ralph Nickleby]], [[characters/kate-nickleby|Kate Nickleby]], [[characters/smike|Smike]], [[characters/wackford-squeers|Wackford Squeers]], [[characters/newman-noggs|Newman Noggs]], [[characters/madeline-bray|Madeline Bray]], [[characters/vincent-crummles|Vincent Crummles]], [[characters/cheeryble-brothers|Cheeryble Brothers]]
 
 ## Testo integrale / Full text
 

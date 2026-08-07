@@ -14,4 +14,12 @@ Bolshevism/Communism is a sustained target of critique across 'The Backward Bols
 
 <div class="concept-works" data-slug="concepts/communism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/well-and-shallows-(chesterton)|Well And Shallows (Chesterton)]]
+- [[works/how-not-to-do-it-(chesterton)|how-not-to-do-it (Chesterton)]]
+- [[works/the-servile-state-(belloc)|The Servile State (Belloc)]]
+
+</div>
+
 #graph/concept

@@ -33,7 +33,7 @@ tags:
 
 # to-belloc
 
-*by Chesterton*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Chesterton*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A dedicatory lyric to Belloc (preface to The Napoleon of Notting Hill), dreaming an epic hour of revolution and battle where streets of earth meet the starry streets that point to God.
@@ -44,18 +44,18 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Poet as Prophet (2)]]
+**Archetypes:** [[archetypes/poet-as-prophet-(2)|Poet as Prophet (2)]]
 
-**Settings:** [[London]], [[Rural England]]
+**Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
 
-**Topoi:** [[War as Glory]], [[Night Journey Vision]]
+**Topoi:** [[topoi/war-as-glory|War as Glory]], [[topoi/night-journey-vision|Night Journey Vision]]
 
-**Characters:** [[Death Personified]], [[Hilaire Belloc]]
+**Characters:** [[characters/death-personified|Death Personified]], [[characters/hilaire-belloc|Hilaire Belloc]]
 
-**Motifs:** [[Stars]], [[Road]], [[Moon]], [[Dance]], [[Drums and Bugles]], [[Childhood]]
-**Themes & Concepts:** [[Heroism]], [[War and its Cost]], [[Faith]], [[Freedom and Liberty]], [[Nationalism and Patriotism]]
-**Forms & Genres:** [[Lyric]], [[Verse Epistle]]
-**Historical References:** [[Napoleonic Wars the Navy]], [[French Revolution]]
+**Motifs:** [[motifs/stars|Stars]], [[motifs/road|Road]], [[motifs/moon|Moon]], [[motifs/dance|Dance]], [[motifs/drums-and-bugles|Drums and Bugles]], [[motifs/childhood|Childhood]]
+**Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/faith|Faith]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/verse-epistle|Verse Epistle]]
+**Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/french-revolution|French Revolution]]
 
 ## Testo integrale / Full text
 

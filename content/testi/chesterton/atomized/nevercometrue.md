@@ -14,25 +14,25 @@ tags:
 <span class="atom-split" data-atom="nevercometrue" data-title="Nevercometrue" data-chapter="" data-kind="intro"></span>
 
 
-[[Song]]  
+[[works/song-(poe)|Song]]  
 
 There's a sound of the flutes and the lutes tonight  
-In the island of [[Nevercometrue]];  
-In a [[Fire|fire]]-lit isle in the seas of [[Night|night]]  
+In the island of [[works/nevercometrue-(chesterton)|Nevercometrue]];  
+In a [[motifs/fire|fire]]-lit isle in the seas of [[motifs/night|night]]  
 Black with depth of blue;  
-And the man that might have been I shall [[Dance|dance]]  
+And the man that might have been I shall [[motifs/dance|dance]]  
 With woman that might have been you:  
 Under the world where a man remembers  
 More than he ever knew.  
 
-There's a noise of [[songs]] in the gongs tonight,  
-In the [[Garden|garden]] of [[Nevercometrue]];  
-Under the trees of the terrible [[Flowers|flowers]]  
-That bloom when the [[Moon|moon]] is blue;  
+There's a noise of songs in the gongs tonight,  
+In the [[motifs/garden|garden]] of [[works/nevercometrue-(chesterton)|Nevercometrue]];  
+Under the trees of the terrible [[motifs/flowers|flowers]]  
+That bloom when the [[motifs/moon|moon]] is blue;  
 And the man that never was I is wed  
 To the woman that never was you--  
 O nothing nearer than all that is,  
-In [[Nevercometrue]] come true.  
+In [[works/nevercometrue-(chesterton)|Nevercometrue]] come true.  
 
 G.K. Chesterton  
 
@@ -41,25 +41,25 @@ G.K. Chesterton
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Song|Canzone]]  
+Canzone  
 
 C'è un suono di flauti e di liuti stanotte  
-nell'isola di [[Nevercometrue]];  
-in un'isola illuminata dal [[Fire|fuoco]] nei mari della [[Night|notte]]  
+nell'isola di [[works/nevercometrue-(chesterton)|Nevercometrue]];  
+in un'isola illuminata dal [[motifs/fire|fuoco]] nei mari della [[motifs/night|notte]]  
 nera di profondità d'azzurro;  
-e l'uomo che avrei potuto essere io danzerò la [[Dance|danza]]  
+e l'uomo che avrei potuto essere io danzerò la [[motifs/dance|danza]]  
 con la donna che avresti potuto essere tu:  
 sotto il mondo dove un uomo ricorda  
 più di quanto abbia mai saputo.  
 
-C'è un fragore di [[songs|canti]] nei gong stanotte,  
-nel [[Garden|giardino]] di [[Nevercometrue]];  
-sotto gli alberi dei terribili [[Flowers|fiori]]  
-che sbocciano quando la [[Moon|luna]] è azzurra;  
+C'è un fragore di canti nei gong stanotte,  
+nel [[motifs/garden|giardino]] di [[works/nevercometrue-(chesterton)|Nevercometrue]];  
+sotto gli alberi dei terribili [[motifs/flowers|fiori]]  
+che sbocciano quando la [[motifs/moon|luna]] è azzurra;  
 e l'uomo che io non fui mai è sposato  
 alla donna che tu non fosti mai--  
 o nulla di più vicino di tutto ciò che è,  
-in [[Nevercometrue]] fatto vero.  
+in [[works/nevercometrue-(chesterton)|Nevercometrue]] fatto vero.  
 
 G.K. Chesterton
 
@@ -70,25 +70,25 @@ G.K. Chesterton
 <span class="atom-split" data-atom="part--part_01" data-title="Nevercometrue (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/dance,motif/fire,motif/flowers,motif/garden,motif/moon,motif/night"></span>
 
 
-[[Song]]  
+[[works/song-(poe)|Song]]  
 
 There's a sound of the flutes and the lutes tonight  
-In the island of [[Nevercometrue]];  
-In a [[Fire|fire]]-lit isle in the seas of [[Night|night]]  
+In the island of [[works/nevercometrue-(chesterton)|Nevercometrue]];  
+In a [[motifs/fire|fire]]-lit isle in the seas of [[motifs/night|night]]  
 Black with depth of blue;  
-And the man that might have been I shall [[Dance|dance]]  
+And the man that might have been I shall [[motifs/dance|dance]]  
 With woman that might have been you:  
 Under the world where a man remembers  
 More than he ever knew.  
 
-There's a noise of [[songs]] in the gongs tonight,  
-In the [[Garden|garden]] of [[Nevercometrue]];  
-Under the trees of the terrible [[Flowers|flowers]]  
-That bloom when the [[Moon|moon]] is blue;  
+There's a noise of songs in the gongs tonight,  
+In the [[motifs/garden|garden]] of [[works/nevercometrue-(chesterton)|Nevercometrue]];  
+Under the trees of the terrible [[motifs/flowers|flowers]]  
+That bloom when the [[motifs/moon|moon]] is blue;  
 And the man that never was I is wed  
 To the woman that never was you--  
 O nothing nearer than all that is,  
-In [[Nevercometrue]] come true.  
+In [[works/nevercometrue-(chesterton)|Nevercometrue]] come true.  
 
 G.K. Chesterton  
 
@@ -97,26 +97,26 @@ G.K. Chesterton
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Song|Canzone]]  
+Canzone  
 
 C'è un suono di flauti e di liuti stanotte  
-nell'isola di [[Nevercometrue]];  
-in un'isola illuminata dal [[Fire|fuoco]] nei mari della [[Night|notte]]  
+nell'isola di [[works/nevercometrue-(chesterton)|Nevercometrue]];  
+in un'isola illuminata dal [[motifs/fire|fuoco]] nei mari della [[motifs/night|notte]]  
 nera di profondità d'azzurro;  
-e l'uomo che avrei potuto essere io danzerò la [[Dance|danza]]  
+e l'uomo che avrei potuto essere io danzerò la [[motifs/dance|danza]]  
 con la donna che avresti potuto essere tu:  
 sotto il mondo dove un uomo ricorda  
 più di quanto abbia mai saputo.  
 
-C'è un fragore di [[songs|canti]] nei gong stanotte,  
-nel [[Garden|giardino]] di [[Nevercometrue]];  
-sotto gli alberi dei terribili [[Flowers|fiori]]  
-che sbocciano quando la [[Moon|luna]] è azzurra;  
+C'è un fragore di canti nei gong stanotte,  
+nel [[motifs/garden|giardino]] di [[works/nevercometrue-(chesterton)|Nevercometrue]];  
+sotto gli alberi dei terribili [[motifs/flowers|fiori]]  
+che sbocciano quando la [[motifs/moon|luna]] è azzurra;  
 e l'uomo che io non fui mai è sposato  
 alla donna che tu non fosti mai--  
 o nulla di più vicino di tutto ciò che è,  
-in [[Nevercometrue]] fatto vero.  
+in [[works/nevercometrue-(chesterton)|Nevercometrue]] fatto vero.  
 
-G.K. Chesterton
+G.K. Chesterton  
 
 [Pubblicato in G.K.'s Weekly, 28 marzo 1925]

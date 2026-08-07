@@ -23,18 +23,18 @@ tags:
   - form/elegy
 ---
 
-*by Poe*  ·  **Cluster:** [[Stars · Night · Military Camp]]
+*by Poe*  ·  **Cluster:** [[clusters/stars-·-night-·-military-camp|Stars · Night · Military Camp]]
 
 > [!abstract] 
 > A graveyard lyric in which the solitary soul is surrounded in death by the spirits of the dead, amid night, stars and an oppressive supernatural mystery.
 
 ## Connections
 
-**Topoi:** [[Memento Mori]]
-**Archetypes:** [[Ghost]]
-**Motifs:** [[Death]], [[Grave]], [[Ghosts]], [[Night]], [[Stars]], [[Silence]], [[Supernatural]]
-**Themes & Concepts:** [[Mortality]], [[Melancholy]], [[Uncanny]]
-**Forms & Genres:** [[Lyric]], [[Elegy]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]
+**Archetypes:** [[archetypes/ghost|Ghost]]
+**Motifs:** [[motifs/death|Death]], [[motifs/grave|Grave]], [[motifs/ghosts|Ghosts]], [[motifs/night|Night]], [[motifs/stars|Stars]], [[motifs/silence|Silence]], [[motifs/supernatural|Supernatural]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/melancholy|Melancholy]], [[concepts/uncanny|Uncanny]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/elegy|Elegy]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,12 @@ The essay attacks Prussian claims of a 'master-race' and the pseudo-scholarly ra
 
 <div class="concept-works" data-slug="concepts/racial-supremacy-and-pseudo-science"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/theappoftyranny-(chesterton)|TheAppOfTyranny (Chesterton)]]
+- [[works/the-case-of-mr.-george-edalji-(conan-doyle)|The Case of Mr. George Edalji (Conan Doyle)]]
+- [[works/the-jews-(belloc)|The Jews (Belloc)]]
+
+</div>
+
 #graph/concept

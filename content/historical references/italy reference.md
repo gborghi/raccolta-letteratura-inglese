@@ -13,3 +13,9 @@ tags:
 ## Works
 
 <div class="concept-works" data-slug="historical-references/italy-reference"></div>
+
+<div class="concept-works-fallback">
+
+- [[works/gkc-all-is-grist-(chesterton)|GKC All is Grist (Chesterton)]]
+
+</div>

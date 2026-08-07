@@ -20,7 +20,7 @@ tags:
   - character/fortunato
 ---
 
-*by Poe*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
+*by Poe*  ·  **Cluster:** [[clusters/blood-·-verse-drama-·-revenge|Blood · Verse Drama · Revenge]]
 
 > [!abstract] 
 > A first-person tale of premeditated revenge in which Montresor lures the wine-loving Fortunato into the catacombs during carnival and walls him up alive; its central matter is revenge, deception, and dramatic irony.
@@ -30,11 +30,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Avenger]]
-**Motifs:** [[Wine and Drink]], [[Concealment Hidden Identity]], [[Grave]]
-**Themes & Concepts:** [[Revenge]], [[Deception]], [[Terror and Horror]], [[Guilt]]
-**Forms & Genres:** [[Short Story]]
-**Characters:** [[Montresor]], [[Fortunato]]
+**Archetypes:** [[archetypes/avenger|Avenger]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/grave|Grave]]
+**Themes & Concepts:** [[concepts/revenge|Revenge]], [[concepts/deception|Deception]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/guilt|Guilt]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
+**Characters:** [[characters/montresor|Montresor]], [[characters/fortunato|Fortunato]]
 
 ## Testo integrale / Full text
 

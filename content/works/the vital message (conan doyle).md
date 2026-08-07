@@ -27,7 +27,7 @@ tags:
   - character/christ
   - archetype/prophet
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Spiritualism · Faith and Doubt · The Afterlife]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/spiritualism-·-faith-and-doubt-·-the-afterlife|Spiritualism · Faith and Doubt · The Afterlife]]
 
 > [!abstract] 
 > A spiritualist apologetic written after the First World War, arguing that the war's suffering was meant to awaken humanity to psychic religion. Doyle sets out the case for survival after death, critiques Old Testament theology, and reviews mediums, seances, and scientific witnesses to spirit communication.
@@ -41,11 +41,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
-**Themes & Concepts:** [[Spiritualism]], [[Faith and Doubt]], [[Immortality of the Soul]], [[Heaven and the Afterlife]], [[Reason and Rationalism]], [[Death and Love]], [[History]]
-**Motifs:** [[Soul]], [[Death]], [[Light and Dark]]
-**Historical References:** [[Christianity]], [[Bible]], [[Darwinism (Evolution)]]
-**Characters:** [[Christ]]
-**Archetypes:** [[Prophet]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/spiritualism|Spiritualism]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/immortality-of-the-soul|Immortality of the Soul]], [[concepts/heaven-and-the-afterlife|Heaven and the Afterlife]], [[concepts/reason-and-rationalism|Reason and Rationalism]], [[concepts/death-and-love|Death and Love]], [[concepts/history|History]]
+**Motifs:** [[motifs/soul|Soul]], [[motifs/death|Death]], [[motifs/light-and-dark|Light and Dark]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/darwinism-(evolution)|Darwinism (Evolution)]]
+**Characters:** [[characters/christ|Christ]]
+**Archetypes:** [[archetypes/prophet|Prophet]]
 
-**Also relevant to:** [[Faith · Providence · Divine Love]]
+**Also relevant to:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

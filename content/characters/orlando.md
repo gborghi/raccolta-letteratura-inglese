@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/orlando"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/divorce-(chesterton)|divorce (Chesterton)]]
+- [[works/as-you-like-it-(shakespeare)|AS YOU LIKE IT (Shakespeare)]]
+
+</div>
+
 #graph/character

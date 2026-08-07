@@ -34,7 +34,7 @@ tags:
   - topos/open_road_homecoming
   - topos/sublime_in_nature
 ---
-*by Belloc*  ·  **Cluster:** [[Travel Writing · Pilgrimage · Landscape]]
+*by Belloc*  ·  **Cluster:** [[clusters/travel-writing-·-pilgrimage-·-landscape|Travel Writing · Pilgrimage · Landscape]]
 
 > [!abstract] 
 > A collection of familiar travel essays and sketches on sailing the North Sea and the Channel, tramping the Pyrenees, and observing the towns, fens and coasts of England and France. Framed by a mock-heroic dedication celebrating two adventuring friends, the pieces mix reckless seamanship, landscape reverie and comic anecdote. Nature, weather and the fellowship of the road are Belloc's constant themes.
@@ -75,10 +75,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Sketch]], [[Nonfiction]]
-**Themes & Concepts:** [[Nature]], [[Friendship]], [[Comradeship]], [[Nature vs Civilization]], [[Faith]], [[Wonder]]
-**Motifs:** [[Sea]], [[Journey]], [[Road]], [[Wind]], [[Storm]], [[Ship]], [[Sea and Voyage]]
-**Settings:** [[Sea (2)]], [[Mountains]], [[Rural England]], [[France]], [[Europe]]
-**Characters:** [[Hilaire Belloc]]
-**Archetypes:** [[Pilgrim]]
-**Topoi:** [[Open Road Homecoming]], [[Sublime in Nature]]
+**Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[forms/essay|Essay]], [[forms/sketch|Sketch]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/nature|Nature]], [[concepts/friendship|Friendship]], [[concepts/comradeship|Comradeship]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/faith|Faith]], [[concepts/wonder|Wonder]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/journey|Journey]], [[motifs/road|Road]], [[motifs/wind|Wind]], [[motifs/storm|Storm]], [[motifs/ship|Ship]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Settings:** [[settings/sea-(2)|Sea (2)]], [[settings/mountains|Mountains]], [[settings/rural-england|Rural England]], [[settings/france|France]], [[settings/europe|Europe]]
+**Characters:** [[characters/hilaire-belloc|Hilaire Belloc]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/sublime-in-nature|Sublime in Nature]]

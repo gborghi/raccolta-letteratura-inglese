@@ -14,4 +14,10 @@ The US alcohol ban of the 1920s, invoked in the poem's closing punchline as the 
 
 <div class="concept-works" data-slug="historical-references/prohibition-(us)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ballad-of-abbreviations-(chesterton)|Ballad Of Abbreviations (Chesterton)]]
+
+</div>
+
 #graph/histref

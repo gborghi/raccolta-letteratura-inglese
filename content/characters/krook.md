@@ -14,4 +14,10 @@ Krook — referenced in Chesterton's work.
 
 <div class="concept-works" data-slug="characters/krook"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+
+</div>
+
 #graph/character

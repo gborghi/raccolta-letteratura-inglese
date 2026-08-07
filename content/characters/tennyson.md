@@ -14,4 +14,12 @@ The Victorian poet laureate whose centenary Chesterton defends as a genuine poet
 
 <div class="concept-works" data-slug="characters/tennyson"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-uses-of-diversity-(chesterton)|The Uses of Diversity (Chesterton)]]
+- [[works/jones-(chesterton)|Jones (Chesterton)]]
+- [[works/asparagus-(chesterton)|asparagus (Chesterton)]]
+
+</div>
+
 #graph/character

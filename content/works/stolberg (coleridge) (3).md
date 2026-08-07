@@ -16,18 +16,18 @@ tags:
   - motif/music_and_song
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
+*by Coleridge*  ·  **Cluster:** [[clusters/poet-as-prophet-·-prophet-·-romantic-movement-(sensibility)|Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
 
 > [!abstract] 
 > Stolberg's 'To the Sea': the blind bard (Homer) stands by the sea while the giant deeds of a golden age sound around him and the Iliad and Odyssey rise singing from the waves; lyric on the poet-prophet, the sea and epic inspiration.
 
 ## Connections
 
-**Topoi:** [[Poet as Prophet]], [[Golden Age]]
-**Archetypes:** [[Prophet]]
-**Motifs:** [[Sea]], [[Music and Song]]
-**Themes & Concepts:** [[Immortality of Art Fame]]
-**Historical References:** [[Greek Mythology]]
+**Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]], [[topoi/golden-age|Golden Age]]
+**Archetypes:** [[archetypes/prophet|Prophet]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/music-and-song|Music and Song]]
+**Themes & Concepts:** [[concepts/immortality-of-art-fame|Immortality of Art Fame]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
 
 ## Testo integrale / Full text
 

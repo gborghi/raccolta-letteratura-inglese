@@ -37,7 +37,7 @@ tags:
   - character/guido_bardi
 ---
 
-*by Wilde*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
+*by Wilde*  ·  **Cluster:** [[clusters/blood-·-verse-drama-·-revenge|Blood · Verse Drama · Revenge]]
 
 > [!abstract] 
 > Renaissance-Florence blank-verse fragment in which the merchant Simone discovers his wife Bianca with the prince Guido and kills the lover in a duel, ending in jealous, blood-bought desire.
@@ -65,14 +65,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Love as Religion]], [[Memento Mori]]
-**Archetypes:** [[Avenger]], [[Lover]], [[Femme Fatale]]
-**Motifs:** [[Blood]], [[Swords and Weapons]], [[Wine and Drink]], [[Money and Gold]], [[Clothing and Costume]], [[Death]], [[Moon]]
-**Themes & Concepts:** [[Jealousy]], [[Revenge]], [[Marriage and Fidelity]], [[Lust Sexual Desire]], [[Appearance vs Reality]], [[Power and Corruption]]
-**Forms & Genres:** [[Verse Drama]], [[Blank Verse]], [[Tragedy]], [[Fragment]]
-**Historical References:** [[Renaissance]]
-**Settings:** [[Italy]], [[Europe]]
-**Characters:** [[Simone]], [[Bianca]], [[Guido Bardi]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/memento-mori|Memento Mori]]
+**Archetypes:** [[archetypes/avenger|Avenger]], [[archetypes/lover|Lover]], [[archetypes/femme-fatale|Femme Fatale]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/money-and-gold|Money and Gold]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/death|Death]], [[motifs/moon|Moon]]
+**Themes & Concepts:** [[concepts/jealousy|Jealousy]], [[concepts/revenge|Revenge]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/power-and-corruption|Power and Corruption]]
+**Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]], [[forms/tragedy|Tragedy]], [[forms/fragment|Fragment]]
+**Historical References:** [[historical-references/renaissance|Renaissance]]
+**Settings:** [[settings/italy|Italy]], [[settings/europe|Europe]]
+**Characters:** [[characters/simone|Simone]], [[characters/bianca|Bianca]], [[characters/guido-bardi|Guido Bardi]]
 
 ## Testo integrale / Full text
 

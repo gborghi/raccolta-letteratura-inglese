@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/mr-lockwood"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/wuthering-heights-(bronte)|Wuthering Heights (Bronte)]]
+
+</div>
+
 #graph/character

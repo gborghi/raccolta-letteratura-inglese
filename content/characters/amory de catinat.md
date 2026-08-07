@@ -11,4 +11,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/amory-de-catinat"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-refugees-(conan-doyle)|The Refugees (Conan Doyle)]]
+
+</div>
+
 #graph/character

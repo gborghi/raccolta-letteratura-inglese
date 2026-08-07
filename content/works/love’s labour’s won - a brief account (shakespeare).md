@@ -16,16 +16,16 @@ tags:
   - motif/the_book
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > Scholarly account of Shakespeare's lost comedy, attested by Francis Meres (1598) and a 1603 bookseller's fragment. As a comedy paired with Love's Labour's Lost it implies themes of romantic love and the fortunes of courtship; the account itself concerns textual transmission and the canon.
 
 ## Connections
 
-**Motifs:** [[Book Reading]]
-**Themes & Concepts:** [[Romantic Love]], [[Marriage and Fidelity]], [[Artist and Society]]
-**Forms & Genres:** [[Literary Criticism]], [[Comedy]], [[Nonfiction]]
+**Motifs:** [[motifs/book-reading|Book Reading]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/artist-and-society|Artist and Society]]
+**Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/comedy|Comedy]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

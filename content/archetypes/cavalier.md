@@ -14,4 +14,10 @@ The civilized soldier-poet figure — courteous, witty, and devout — that Ches
 
 <div class="concept-works" data-slug="archetypes/cavalier"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-polish-ideal-(chesterton)|The Polish Ideal (Chesterton)]]
+
+</div>
+
 #graph/archetype

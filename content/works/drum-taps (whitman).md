@@ -26,19 +26,19 @@ tags:
   - setting/america
 ---
 
-*by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
+*by Whitman*  ·  **Cluster:** [[clusters/war-and-its-cost-·-american-civil-war-·-battlefield|War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 
 > Whitman's Civil War poem cluster of free-verse lyrics: drums and marches, soldiers and comrades, the wound-dresser and hospital vigils, grief for the dead, and reconciliation. Sampling confirms central concerns with the cost of war, patriotism, loss, heroism, blood and death on the battlefield.
 
 ## Connections
 
-**Archetypes:** [[Martyr Saint]]
-**Motifs:** [[Death]], [[Blood]], [[Music and Song]], [[Journey]], [[Comradeship (2)]]
-**Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Grief and Loss]], [[Heroism]], [[Common Man]]
-**Forms & Genres:** [[Free Verse]], [[Elegy]], [[Lyric]]
-**Historical References:** [[American Civil War]]
-**Settings:** [[Battlefield]], [[America]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
+**Motifs:** [[motifs/death|Death]], [[motifs/blood|Blood]], [[motifs/music-and-song|Music and Song]], [[motifs/journey|Journey]], [[motifs/comradeship-(2)|Comradeship (2)]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/heroism|Heroism]], [[concepts/common-man|Common Man]]
+**Forms & Genres:** [[forms/free-verse|Free Verse]], [[forms/elegy|Elegy]], [[forms/lyric|Lyric]]
+**Historical References:** [[historical-references/american-civil-war|American Civil War]]
+**Settings:** [[settings/battlefield|Battlefield]], [[settings/america|America]]
 
 ## Testo integrale / Full text
 

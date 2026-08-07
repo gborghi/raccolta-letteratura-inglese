@@ -1394,7 +1394,7 @@ But surprised Bowring was not. Ever since the banker had left him in that strain
 
 “Oh, yes, I’ve met him,” said Bowring. “I saw him only last week, when I went down for a week-end to Laversham. I hope you won’t think me familiar if I congratulate you upon him. He told me he’d just taken his degree. And I told him how sensible he was to have done his work in London.”
 
-“So I thought,” said Mills, “when I sent him there. If he is going in for any particular branch which really interests him he gets a better chance in Gower Street than he would at [[Oxford]] or Cambridge, and I like them to begin young. I began young myself,” he added, with that slight laugh again. He loved to make these allusions to his career.
+“So I thought,” said Mills, “when I sent him there. If he is going in for any particular branch which really interests him he gets a better chance in Gower Street than he would at [[settings/oxford|Oxford]] or Cambridge, and I like them to begin young. I began young myself,” he added, with that slight laugh again. He loved to make these allusions to his career.
 
 “And you have gone far,” said Bowring.
 
@@ -1656,7 +1656,7 @@ He dined gloomily after posting his letter to London. He went to bed early — a
 
 The other thing, which was a little more disturbing, was the memory of Bowring’s warnings of those weeks ago when he first spoke of the making of the gold. One ugly phrase ran in his head : “You will be a doomed target, my boy.”
 
-The threats of death were pale compared with it. Like everybody who knows England and nothing but England, with its perfect order and huge police [[Machine|machine]], he did not believe in assassination and kidnapping. These things were more in keeping with the criminal Mediterranean races or our nobler cousins of the New World, who must be excused the liveliness of a young nation.
+The threats of death were pale compared with it. Like everybody who knows England and nothing but England, with its perfect order and huge police [[motifs/machine|machine]], he did not believe in assassination and kidnapping. These things were more in keeping with the criminal Mediterranean races or our nobler cousins of the New World, who must be excused the liveliness of a young nation.
 
 But he did believe very firmly in the extreme and permanent unpleasantness of being a wanted man, and he detested the prospect. Marked men disappeared. They weren’t killed, of course — but they did disappear. And another thing that happened to them was getting into prison for a very long time on charges which had nothing to do with their being marked. And when they got out of prison they were usually put back there again or made into coppers’ narks. Anyhow, they were done for.
 
@@ -1692,7 +1692,7 @@ No, thank heaven, it was not Scotland Yard; it was the voice which he would have
 
 In a rather lowered tone (for men at the telephone usually talk as they would talk to a man face to face) he added : “You’ve been opening your mouth too wide. There’s only one thing for you to do, and you must do it at once. Otherwise God knows what will happen to you. The one thing for you to do is …”
 
-Then came silence. Lexington tapped the [[Machine|machine]] up and down in a frenzy. The silence continued. They had been cut off. He appealed to the Exchange in an agony. He heard a sweet voice telling him that if he would replace the receiver he would be called again. He waited ten minutes. Nothing happened. It was not warm in his dressing–gown. He went back to his room.
+Then came silence. Lexington tapped the [[motifs/machine|machine]] up and down in a frenzy. The silence continued. They had been cut off. He appealed to the Exchange in an agony. He heard a sweet voice telling him that if he would replace the receiver he would be called again. He waited ten minutes. Nothing happened. It was not warm in his dressing–gown. He went back to his room.
 
 The news columns of the Drum leapt out at him : it was still propped up beside his untouched breakfast, and the news column was much worse than the leader.
 
@@ -2178,7 +2178,7 @@ His benefactress thought it too good to be true. His colleagues of the lower dec
 
 Next morning, in high good humour, his rescuer, after the secretary had written just the right letter to the Head of Section “M” (the one which worries the R.E. only and is strictly forbidden to tamper with others) she bethought her of the runabout.
 
-A man so expert in the mysteries of electricity must know all about self-starters. There was a short passage between the Duchess’s protégé and the head chauffeur, who wasn’t complimentary. But orders were orders. The head chauffeur was sending one of the minor chauffeurs into the town to fetch a man from Veeley’s garage and pocket a private commission. However, if these were orders, why Charles Lexington must tackle it; and a sincere hope was expressed that he would crush his fingers at the job. Lexington, with the keen eye of the trained scientist, discovered what was the matter : a pebble under the pedal which prevented contact. Increasing in wisdom with every experience, he spent the better part of an hour armed with a hammer, and hit it vigorously against the wall of the garage to give evidence of hard work; then he took the pebble out and started the [[Machine|machine]]. He brought it round. His mistress was overjoyed to find that it buzzed as cheerfully as it had buzzed in its hot youth when she had bought it second-hand from her own son in the beginning of the year.
+A man so expert in the mysteries of electricity must know all about self-starters. There was a short passage between the Duchess’s protégé and the head chauffeur, who wasn’t complimentary. But orders were orders. The head chauffeur was sending one of the minor chauffeurs into the town to fetch a man from Veeley’s garage and pocket a private commission. However, if these were orders, why Charles Lexington must tackle it; and a sincere hope was expressed that he would crush his fingers at the job. Lexington, with the keen eye of the trained scientist, discovered what was the matter : a pebble under the pedal which prevented contact. Increasing in wisdom with every experience, he spent the better part of an hour armed with a hammer, and hit it vigorously against the wall of the garage to give evidence of hard work; then he took the pebble out and started the [[motifs/machine|machine]]. He brought it round. His mistress was overjoyed to find that it buzzed as cheerfully as it had buzzed in its hot youth when she had bought it second-hand from her own son in the beginning of the year.
 
 Of a truth there was no end to Charles Lexington’s abilities. She almost dreaded the moment when this cheap labour would be classed and docketed and decanted into the regular channels of Department “M.” However, there would be two days before the answer to her secretary’s letter came, and perhaps some weeks before Lexington would be placed. She must hope for the best. If the worst came to the worst she might find him just that type of work which would keep him in her service. But Fate had got tired again, and had made up her mind for another change.
 
@@ -2541,13 +2541,13 @@ And with that I leave him for a little, to turn from the glories of Modern Scien
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XV
+CAPITOLO XV
 
 To
 
 Professore Andrade
 
-# Chi mi ha insegnato a creare l’oro
+Chi mi ha insegnato a creare l’oro
 
 Prologo
 
@@ -2625,7 +2625,7 @@ The unfortunate reader — unless he has been so foolish as to skip the Prologue
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO I
+CAPITOLO I
 
 Henry Bolter era al quarto anno di università. Il suo college era St. Olaf’s, fondato molto tempo fa in onore di quel grande santo e re che si distinse per legare i suoi prigionieri alle rocce durante la bassa marea e osservare poi l’acqua salire.
 
@@ -2705,7 +2705,7 @@ In cinque minuti, l’insegnante di Henry Bolter aveva affrontato tutte queste u
 
 Il coscienzioso Lexington era un uomo d’azione. Prese un foglio di carta da lettere del college e scrisse: —
 
-# Caro signor Bolter,
+Caro signor Bolter,
 
 Questo genere di comportamento non può continuare, e bisogna fare qualcosa. Questa mattina, per la terza volta dall’inizio del semestre, ho notato che non eri al tuo posto durante la mia lezione. Sono disposto a concedere qualsiasi cosa, ma questa situazione sta diventando seria. Inoltre, devo dire francamente che il saggio settimanale che mi hai inviato supera di gran lunga i limiti di ciò che è tollerabile in termini di eccesso. Difficilmente potevi averlo scritto seriamente; se non lo era, è un’impertinenza inqualificabile inviare qualcosa del genere al tuo tutor e a un membro del tuo college.
 
@@ -2767,7 +2767,7 @@ The curtains were pulled back, the last embers of incense in the brazier were ex
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO II
+CAPITOLO II
 
 Mentre i profondi rintocchi della vecchia campana della cattedrale annunciavano mezzogiorno nell’aria tremante, Henry Bolter sollevò con scarso vigore quella sua alta e magra figura; inginocchiato davanti al piedistallo e alla statua che vi era posta sopra, con la testa bassa, le spalle rilassate e le mani giunte davanti a sé, comunicò al proprio Maestro che l’ora era arrivata e implorò guida e protezione.
 
@@ -3095,7 +3095,7 @@ While the lead was melting he fetched Bolter’s strange gift from the drawer in
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO III
+CAPITOLO III
 
 In 24 Brecon Street, Henry Bolter giaceva in uno stato di estrema e pericolosa stanchezza. Vi avrebbe detto che la virtù era svanita da lui a causa di quella nuova e terribile esperienza, a causa della realtà di ciò che gli era stato rivelato. Un medico vi avrebbe detto che il motivo era la droga. Io invece vi dirò che non so se sia stata la droga o qualcos’altro; forse non è stata nemmeno una delle due cose.
 
@@ -3333,7 +3333,7 @@ William Bowring was a man some ten years older than Lexington, a friend to whom 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO IV
+CAPITOLO IV
 
 Tutto fu fatto come avrebbe dovuto essere fatto in questi casi angosciosi che, di tanto in tanto, si verificano ancora nelle nostre antiche università. La stampa fu organizzata tempestivamente; Old Bolter se ne occupò personalmente. L’inchiesta risultò abbastanza favorevole: la morte era dovuta a un infarto. I farmaci presenti nell’armadietto furono discretamente rimossi in tempo, e il medico legale comprese perfettamente il proprio dovere. La famiglia preferì che il giovane fosse sepolto in città. E non sono sicuro che non provassero – certamente il figlio maggiore lo sentiva – un certo sollievo e conforto nella solennità con cui tutto si svolse, e anche nel fatto che quell’uomo eccentrico fosse finalmente scomparso.
 
@@ -3609,7 +3609,7 @@ Si alzò di nuovo, fece un passo indietro, alzò un braccio come segnale d’avv
 
 “Perché, perché?” balbettò Lexington, senza riuscire a parlare chiaramente.
 
-# Elementi della psicologia applicata moderna di Bolter
+Elementi della psicologia applicata moderna di Bolter
 
 “Perché — oh, concedetemi la pazienza, cielo! — perché avreste il potere di scuotere e distruggere l’intera nostra civiltà. Perché diventereste un bersaglio per quei pochi uomini potenti che governano il mondo moderno. Perché vi trovereste intrappolati in una rete di tiranni, ognuno dei quali esiterebbe tra uccidervi per non essere distrutto a sua volta e costringervi a condividere i loro beni. Perché, nel peggiore dei casi, sarebbe compito dello Stato fermarvi; e perché, nel caso più grave, sarebbe assolutamente necessario che coloro che oggi sono onnipotenti vi eliminassero al più presto. Ora, capite?”
 
@@ -3711,7 +3711,7 @@ Bowring nodded. “Don’t you see the electric heater?”
 
 Ci fu un'altra pausa; durante quella fase, entrambi gli uomini iniziarono a muovere i piedi, come fanno gli uomini quando stanno per negoziare qualche accordo.
 
-#Continuò Bowring:
+Continuò Bowring:
 
 “La mia proposta è questa: quando avrò ottenuto prove concrete del fatto che siate in grado di farlo, propongo che entriamo in un'alleanza stretta. Non la chiamerò partnership, perché sarebbe assurdo scrivere anche solo una parola al riguardo su carta. Infatti, se non fossi certo dei miei collaboratori, e se pensassi che qualcuno potesse aver ascoltato le nostre conversazioni, beh, allora saremmo entrambi nei guai. Quindi, propongo che entriamo in un'alleanza stretta. Comunque sia, siamo già legati l’uno all’altro dalla conoscenza comune che possediamo, e dal pericolo potenziale che rappresenta tutto ciò per entrambi. Voi produrrete l’oro in modo riservato, all’inizio in piccole quantità. A me capita di acquistare metalli preziosi di tanto in tanto; naturalmente compro e vendo sempre oggetti d’oro e d’argento. Inoltre, ho bisogno di utilizzare oro e argento per realizzare lavori di montaggio e copie, quindi non ci sarebbe nulla di strano se piccole quantità d’oro passassero tra le mie mani, soprattutto all’inizio. Potremmo espanderci gradualmente, agendo con discrezione. Man mano che la nostra attività crescerà e inizieremo a vendere su scala più ampia, potremo utilizzare sempre più oro. Arriverà il momento in cui acquisterò apertamente sul mercato grandi quantità di metallo prezioso, e allora sarà del tutto normale, e non desterà alcuna attenzione, se gestiremo ciò che compro io, oltre a molto altro che fornirai tu. L’intero piano può essere gestito con cautela e precisione. Dovremo lasciare che siano le circostanze a guidarci nei dettagli, ma questa è la linea generale del nostro piano. Per quanto ne so, non ci sono difetti in questo approccio.”
 
@@ -3821,7 +3821,7 @@ Would Lexington, by the way, as the crucible was here in town, come back in a da
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO V
+CAPITOLO V
 
 Il mercoledì era arrivato.
 
@@ -4115,7 +4115,7 @@ It took him perhaps five minutes to clinch down that new certitude. Then he put 
 
 “Sì, fallo pure. Non ho dubbi che te la caverai bene. E sei fortunato ad avere una tale conoscenza del mestiere.”
 
-#Perché no? Ci sono voluti anni per costruirlo.
+Perché no? Ci sono voluti anni per costruirlo.
 
 “Sì, lo so, lo so.” E con queste parole si separarono.
 
@@ -4229,7 +4229,7 @@ Lexington nodded.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VI
+CAPITOLO VI
 
 Il taxi del signor Lexington si era immesso in quella stretta strada, Percy Street, nel quartiere di Mayfair, che un tempo valeva chissà quanto per ogni iarda quadrata, e ora ne vale il doppio perché sta diventando un luogo pieno di negozi. Ma il primo negozio ad aprire in quella zona, esistente da anni, portava semplicemente il nome “Bowring”: la moda e l’orgoglio del proprietario lo spingevano a disdegnare qualsiasi titolo pomposo per un mestiere che svolgeva con tanta abilità e nel quale era diventato un maestro, conosciuto da tutti coloro che contavano.
 
@@ -4561,7 +4561,7 @@ L’uomo che possedeva milioni emise una risata cordiale, ma sommessa.
 
 “I ricevitori, ” (Una parola sussurrata dietro la mano di Lord Taylor.)
 
-#"Recettori… di cosa?"
+"Recettori… di cosa?"
 
 “Ah, tu giovane idiota… roba rubata!”
 
@@ -4727,7 +4727,7 @@ When he had calmed down his thoughts took shape, and he flattered himself that t
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VII
+CAPITOLO VII
 
 Lexington tornò verso ovest con l’espresso del mattino. Scoprì che viaggiare in prima classe, per qualche motivo, non era più così lussuoso come il giorno precedente. Aveva letto nei libri che quando il reddito di una persona aumenta, essa finisce per abituarsi tristemente alle nuove comodità della propria condizione sociale e le considera altrettanto scontate quanto le vecchie difficoltà. Sembrava un peccato. Forse, quando avesse comprato una vera e propria auto di lusso e trovato qualcuno che la guidasse per lui, avrebbe iniziato a godere davvero della ricchezza.
 
@@ -4955,7 +4955,7 @@ Lord Taylor sat down, without being asked, said it was a fine spring day, and th
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VIII
+CAPITOLO VIII
 
 Quando Lord Taylor mandò il giovane signor Lexington a dormire nel letto intagliato spagnolo del XVI secolo, in quella notte memorabile, lui stesso, nel suo semplice letto tedesco del XX secolo (ma munito del baldacchino belga), non riuscì a dormire. Rimase sveglio per ore e ore; il suo vecchio cervello, colpito con violenza da quella situazione inaspettata, fu costretto a una vigilanza innaturale di fronte all’enormità del problema che gli era stato posto.
 
@@ -5382,7 +5382,7 @@ But surprised Bowring was not. Ever since the banker had left him in that strain
 
 “Oh, yes, I’ve met him,” said Bowring. “I saw him only last week, when I went down for a week-end to Laversham. I hope you won’t think me familiar if I congratulate you upon him. He told me he’d just taken his degree. And I told him how sensible he was to have done his work in London.”
 
-“So I thought,” said Mills, “when I sent him there. If he is going in for any particular branch which really interests him he gets a better chance in Gower Street than he would at [[Oxford]] or Cambridge, and I like them to begin young. I began young myself,” he added, with that slight laugh again. He loved to make these allusions to his career.
+“So I thought,” said Mills, “when I sent him there. If he is going in for any particular branch which really interests him he gets a better chance in Gower Street than he would at [[settings/oxford|Oxford]] or Cambridge, and I like them to begin young. I began young myself,” he added, with that slight laugh again. He loved to make these allusions to his career.
 
 “And you have gone far,” said Bowring.
 
@@ -5395,7 +5395,7 @@ Bowring sighed, but said nothing.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO IX
+CAPITOLO IX
 
 Il segretario di gabinetto era un uomo metodico. Si avvicinò alla finestra, si allontanò leggermente dal vetro e aspettò fino a quando non vide il vecchio Taylor uscire dal portone degli appartamenti; notò che camminava a piedi e che svoltava a sinistra, probabilmente diretti verso le Camere del Parlamento. Il disegno di legge sul cotone era in discussione e aveva sentito dire che Taylor avrebbe parlato al riguardo. Guardò l’orologio: il suo ospite “in ritardo” sarebbe stato al sicuro all’interno della sede del Parlamento almeno fino all’ora di cena. Era certo che Taylor non avrebbe perso nulla delle discussioni sul cotone; da settimane quel tema rappresentava il suo principale interesse. Dopo essersi assicurato che tutto fosse a posto, uscì, prese un taxi e si diresse direttamente verso il negozio di Bowring: mancava ancora un’ora alla chiusura.
 
@@ -5419,7 +5419,7 @@ Ma Bowring non era sorpreso. Da quando il banchiere lo aveva lasciato in quell�
 
 “Ah sì, l’ho incontrato,” disse Bowring. “L’ho visto solo la scorsa settimana, quando sono andato a Laversham per il fine settimana. Spero che non penserete che io sia troppo familiare con lui se vi faccio i complimenti. Mi ha detto che aveva appena conseguito la laurea, e io gli ho detto quanto fosse saggio aver fatto i suoi studi a Londra.”
 
-“Quindi ho pensato,” disse Mills, “quando l’ho mandato lì. Se vuole intraprendere una carriera in un settore che lo interessi davvero, ha maggiori possibilità a Gower Street che non a [[Oxford]] o Cambridge. E mi piace che le persone inizino presto nella loro carriera. Anch’io ho iniziato giovane,” aggiunse, con quel suo leggero sorriso. Gli piaceva fare queste allusioni alla sua carriera.
+“Quindi ho pensato,” disse Mills, “quando l’ho mandato lì. Se vuole intraprendere una carriera in un settore che lo interessi davvero, ha maggiori possibilità a Gower Street che non a [[settings/oxford|Oxford]] o Cambridge. E mi piace che le persone inizino presto nella loro carriera. Anch’io ho iniziato giovane,” aggiunse, con quel suo leggero sorriso. Gli piaceva fare queste allusioni alla sua carriera.
 
 “E hai fatto molta strada,” disse Bowring.
 
@@ -5507,7 +5507,7 @@ Vide quella testa forte che gli opponeva un rifiuto scuotersi in segno di negazi
 
 “Sì, esatto. Anche a me piace.”
 
-# L’hai già incontrato?
+L’hai già incontrato?
 
 “Oh, solo una o due volte” (settimo risatino leggero). “Quando mi hanno conferito il titolo onorifico l’estate scorsa, e ne ero davvero orgoglioso, credetemi! E poi, durante la partita universitaria. E ancora una o due volte dopo. Sì, Lexington è davvero un bravo ragazzo. Ovviamente so quanto siate legati. In realtà, signor Bowring, pensavo che voi due foste una sorta di partner, ”
 
@@ -5537,7 +5537,7 @@ Il Segretario dell’Interno proseguì con un sorriso piuttosto acido:
 
 “C’è già un certo grado di controllo, non è vero? Ma quello che intendo dire è: una legge che rendesse illegale l’utilizzo di metalli con pesi diversi da quelli noti e certificati; che considerasse il produrre oro un reato grave; e che regolamentasse anche la compravendita di oro prodotto industrialmente. Certo, oggi tutto questo sembra molto fantastico, ma chi può sapere cosa succederà domani? Oggi stesso, queste cose possono arrivare all’improvviso.”
 
-# Bowring intervenne improvvisamente
+Bowring intervenne improvvisamente
 
 “Mi dispiace interromperla, signor Mills, ma per tornare su quel primo punto, se non le dispiace, perché penso che dovremmo essere chiari al riguardo, e non voglio offenderla in alcun modo. Farò qualsiasi cosa per il suo bene, ovviamente, così come per quello di suo nipote. La considero una persona molto importante per me. Lo raccomanderò a chiunque lei desideri, e sono sicuro che se la caverà molto bene. C’è ad esempio l’attività di Burly: un’impresa davvero ottima; hanno realizzato il set d’oro per il trofeo, e so che stanno cercando qualcuno. Quell’uomo sta per andare in pensione.”
 
@@ -5847,17 +5847,17 @@ Il Vagabondo, ancora in preda a un pianto amaro, non provava alcun interesse per
 
 “Yus.”
 
-#Hai sentito il mio ritorno dal tè?
+Hai sentito il mio ritorno dal tè?
 
 “Yus.”
 
-# Hai sentito quel signore entrare e parlarmi?
+Hai sentito quel signore entrare e parlarmi?
 
 “Yus.”
 
 “Ricordi cosa ha detto?”
 
-# Il Vagabondo descrisse nei dettagli le parti principali della conversazione:
+Il Vagabondo descrisse nei dettagli le parti principali della conversazione:
 
 Come un gentiluomo fosse entrato e cosa avesse chiesto, e come quel gentiluomo intendesse approvare alcune leggi o altro del genere, e come il signor Bowring lo avesse cacciato via.
 
@@ -5940,7 +5940,7 @@ He dined gloomily after posting his letter to London. He went to bed early — a
 
 The other thing, which was a little more disturbing, was the memory of Bowring’s warnings of those weeks ago when he first spoke of the making of the gold. One ugly phrase ran in his head : “You will be a doomed target, my boy.”
 
-The threats of death were pale compared with it. Like everybody who knows England and nothing but England, with its perfect order and huge police [[Machine|machine]], he did not believe in assassination and kidnapping. These things were more in keeping with the criminal Mediterranean races or our nobler cousins of the New World, who must be excused the liveliness of a young nation.
+The threats of death were pale compared with it. Like everybody who knows England and nothing but England, with its perfect order and huge police [[motifs/machine|machine]], he did not believe in assassination and kidnapping. These things were more in keeping with the criminal Mediterranean races or our nobler cousins of the New World, who must be excused the liveliness of a young nation.
 
 But he did believe very firmly in the extreme and permanent unpleasantness of being a wanted man, and he detested the prospect. Marked men disappeared. They weren’t killed, of course — but they did disappear. And another thing that happened to them was getting into prison for a very long time on charges which had nothing to do with their being marked. And when they got out of prison they were usually put back there again or made into coppers’ narks. Anyhow, they were done for.
 
@@ -5969,13 +5969,13 @@ And then the final blow:
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO X
+CAPITOLO X
 
 Quando Charles Lexington tornò dal mare lunedì, si preparò a fare ciò che aveva evitato per così tanto tempo. Il giorno seguente, martedì, era il giorno in cui, secondo l’accordo, doveva riapparire in città con il pacco destinato a Bowring. Nonostante la loro discussione, non aveva scritto nulla per rimandare la visita, e il contratto restava valido. No, doveva scrivere. Non poteva spiegare tutto per iscritto, ma almeno doveva rinviare tutto fino a quando non avrebbero potuto incontrarsi di persona.
 
 Finalmente, dopo un’altra serie di esitazioni e di cancellazioni dei bozzi, decise di procedere. Si sedette e scrisse tutto in mezzo a una dozzina di righe, cercando di rendere il testo il più pratico possibile: —
 
-# Caro Bowring,
+Caro Bowring,
 
 Temo che domani, martedì, quando verrò su, non sarò in grado di portare la solita consegna. Ero sicuro che “consegna” fosse la parola giusta. È sorto un imprevisto. Spiegherò tutto quando ci incontreremo.
 
@@ -5991,7 +5991,7 @@ Dopo aver inviato la sua lettera a Londra, cenò in un'atmosfera cupa. Andò a l
 
 L’altra cosa, che era un po’ più inquietante, era il ricordo degli avvertimenti di Bowring di quelle settimane fa, quando aveva parlato per la prima volta della produzione dell’oro. Una frase spiacevole gli tornava in mente: “Diventerai un bersaglio predestinato, ragazzo mio.”
 
-Le minacce di morte sembravano insignificanti al confronto. Come tutti coloro che conoscono l’Inghilterra e nulla altro se non l’Inghilterra, con il suo ordine perfetto e la sua enorme [[Machine|macchina]] poliziesca, non credeva nelle assassini né nei rapimenti. Questi fenomeni sembravano più adatti alle razze criminali del Mediterraneo o ai nostri nobili cugini del Nuovo Mondo, i quali possono essere scusati per la vivacità tipica di una nazione giovane.
+Le minacce di morte sembravano insignificanti al confronto. Come tutti coloro che conoscono l’Inghilterra e nulla altro se non l’Inghilterra, con il suo ordine perfetto e la sua enorme [[motifs/machine|macchina]] poliziesca, non credeva nelle assassini né nei rapimenti. Questi fenomeni sembravano più adatti alle razze criminali del Mediterraneo o ai nostri nobili cugini del Nuovo Mondo, i quali possono essere scusati per la vivacità tipica di una nazione giovane.
 
 Ma credeva molto fermamente nell'estrema e permanente sgradevolezza di essere una persona ricercata, e odiava quell'idea. Le persone segnalate scomparivano. Non venivano certo uccise, ma semplicemente sparivano. Un'altra cosa che gli accadeva era finire in prigione per lunghi periodi a causa di accuse che non avevano nulla a che fare con il fatto di essere state segnalate. E quando uscivano di prigione, di solito venivano rinchiusi di nuovo o trasformati in informatori della polizia. Comunque fosse, la loro vita era rovinata.
 
@@ -6009,7 +6009,7 @@ La notizia pubblicata nella nostra ultima edizione di ieri, arrivata troppo tard
 
 Mi fermo qui per assicurarvi che il principale redattore di “Drum”, che conosco molto bene e che è davvero una brava persona, non veniva pagato, come potreste immaginare, in base al numero di parole che riusciva a scrivere, ma con uno stipendio annuale (e piuttosto generoso, per giunta). Ma se questa pagina dovesse cadere sotto gli occhi di qualcuno che non abbia ancora scritto per giornali o persino un libro (ne esistono ancora molti di questi), lasciate che vi dica qualcosa che suona paradossale, ma che è assolutamente vero: quando si scrive sotto pressione, si usano troppe parole.
 
-#Continuare il passo del leader nel ritmo della battaglia
+Continuare il passo del leader nel ritmo della battaglia
 
 “. Se la voce fosse vera, ovvero che il difficile problema della trasformazione dei metalli, e in particolare di alcuni metalli vili in oro, potesse essere dimostrato con prove concrete, “ (qui presumo che il caporedattore del “Drum” abbia bevuto un sorso dalla sua brocca, il modo convenzionale per interrompere una frase giornalistica) “. Si apre davanti a noi uno scenario pieno di possibilità, “, ecc., ecc. Ogni frase, alla fine, deve concludersi; anche questa si è conclusa. Tuttavia, dovevano essere riempiti ancora tre quarti della colonna di testo, e la parte finale risultò peggiore del resto. “Possiamo lamentarci dei titoli esagerati apparsi ieri sui giornali serali londinesi; alcuni di essi sembrano essere stati suggeriti dal panico. Il che è indegno della nostra Razza e della nostra stampa, che non hanno eguali al mondo per la loro, “ (qui, probabilmente, la brocca è stata utilizzata di nuovo, ) “superiorità e buon giudizio. Tuttavia, tutti devono riconoscere che, “, ecc., ecc.
 
@@ -6032,7 +6032,7 @@ No, thank heaven, it was not Scotland Yard; it was the voice which he would have
 
 In a rather lowered tone (for men at the telephone usually talk as they would talk to a man face to face) he added : “You’ve been opening your mouth too wide. There’s only one thing for you to do, and you must do it at once. Otherwise God knows what will happen to you. The one thing for you to do is …”
 
-Then came silence. Lexington tapped the [[Machine|machine]] up and down in a frenzy. The silence continued. They had been cut off. He appealed to the Exchange in an agony. He heard a sweet voice telling him that if he would replace the receiver he would be called again. He waited ten minutes. Nothing happened. It was not warm in his dressing–gown. He went back to his room.
+Then came silence. Lexington tapped the [[motifs/machine|machine]] up and down in a frenzy. The silence continued. They had been cut off. He appealed to the Exchange in an agony. He heard a sweet voice telling him that if he would replace the receiver he would be called again. He waited ten minutes. Nothing happened. It was not warm in his dressing–gown. He went back to his room.
 
 The news columns of the Drum leapt out at him : it was still propped up beside his untouched breakfast, and the news column was much worse than the leader.
 
@@ -6069,7 +6069,7 @@ No, grazie al cielo, non era Scotland Yard; era quella voce che il giorno prima 
 
 Con un tono piuttosto basso (poiché gli uomini al telefono di solito parlano come farebbero se fossero faccia a faccia con un altro uomo), aggiunse: “Stai parlando troppo. C’è solo una cosa che devi fare, e devi farla subito. Altrimenti. Dio sa cosa ti potrebbe accadere. La sola cosa da fare è, ”
 
-Poi calò il silenzio. Lexington premeva freneticamente sulla [[Machine|macchina]], ma il silenzio continuava. Erano stati isolati. Chiamò disperatamente l’Exchange; sentì una voce dolce che gli disse che, se avesse sostituito il ricevitore, lo avrebbero richiamato di nuovo. Aspettò dieci minuti. Niente. Non faceva caldo nel suo pigiama. Tornò in camera sua.
+Poi calò il silenzio. Lexington premeva freneticamente sulla [[motifs/machine|macchina]], ma il silenzio continuava. Erano stati isolati. Chiamò disperatamente l’Exchange; sentì una voce dolce che gli disse che, se avesse sostituito il ricevitore, lo avrebbero richiamato di nuovo. Aspettò dieci minuti. Niente. Non faceva caldo nel suo pigiama. Tornò in camera sua.
 
 Le colonne di notizie del “Drum” lo colpirono duramente: erano ancora lì, accanto alla sua colazione intatta, e il contenuto di quelle colonne era molto peggiore di quello dell’editoriale principale.
 
@@ -6269,7 +6269,7 @@ The word “hop” unsuitably describes the gait with which poor Mr. Lexington m
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XI
+CAPITOLO XI
 
 Affrontare situazioni difficili rappresenta, per più della metà dell’umanità, l’esperienza più comune; per l’altra metà, invece, è qualcosa di estremamente raro. Nel mondo a cui apparteneva Charles Lexington, tale esperienza era quasi inesistente.
 
@@ -6379,7 +6379,7 @@ Tutto ciò non significava nulla per l’infelice Lexington, e probabilmente non
 
 Lexington ringraziò il suo informatore e gli chiese se volesse entrare anche lui e bere qualcosa insieme. La voce che rispose era piena di sospetto.
 
-#"Flush? Dove l’hai preparata?"
+"Flush? Dove l’hai preparata?"
 
 Tuttavia, accettò e insieme entrarono; il nuovo arrivato funse da guida, presentando Lexington ai clienti e alle usanze a lui sconosciute, dove avrebbe potuto commettere errori così gravi da far sì che il proprietario lo rifiutasse per sospetto.
 
@@ -6521,7 +6521,7 @@ At last the orator ceased. Charles Lexington was still wondering whether his sur
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XII
+CAPITOLO XII
 
 Era notte, ma ancora presto. La riva del fiume era quasi deserta.
 
@@ -6807,7 +6807,7 @@ The captain of this band (“band” is the applicable word) was a strong, burly
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XIII
+CAPITOLO XIII
 
 Da tempo è oggetto di dibattito tra i filosofi se siano i poveri o i ricchi a essere più infelici; e nessuno è più adatto a discutere questa questione dei filosofi, poiché essi provengono dai poveri e vivono tra i ricchi in modo assolutamente spudorato.
 
@@ -7031,7 +7031,7 @@ The Duchess, in common with too many of her kind, had suffered from the extravag
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XIV
+CAPITOLO XIV
 
 “Una donna nobile, qualcosa di pianificato per qualcos’altro”, come ripeteva ossessivamente Wordsworth. Una donna nobile.
 
@@ -7100,7 +7100,7 @@ His benefactress thought it too good to be true. His colleagues of the lower dec
 
 Next morning, in high good humour, his rescuer, after the secretary had written just the right letter to the Head of Section “M” (the one which worries the R.E. only and is strictly forbidden to tamper with others) she bethought her of the runabout.
 
-A man so expert in the mysteries of electricity must know all about self-starters. There was a short passage between the Duchess’s protégé and the head chauffeur, who wasn’t complimentary. But orders were orders. The head chauffeur was sending one of the minor chauffeurs into the town to fetch a man from Veeley’s garage and pocket a private commission. However, if these were orders, why Charles Lexington must tackle it; and a sincere hope was expressed that he would crush his fingers at the job. Lexington, with the keen eye of the trained scientist, discovered what was the matter : a pebble under the pedal which prevented contact. Increasing in wisdom with every experience, he spent the better part of an hour armed with a hammer, and hit it vigorously against the wall of the garage to give evidence of hard work; then he took the pebble out and started the [[Machine|machine]]. He brought it round. His mistress was overjoyed to find that it buzzed as cheerfully as it had buzzed in its hot youth when she had bought it second-hand from her own son in the beginning of the year.
+A man so expert in the mysteries of electricity must know all about self-starters. There was a short passage between the Duchess’s protégé and the head chauffeur, who wasn’t complimentary. But orders were orders. The head chauffeur was sending one of the minor chauffeurs into the town to fetch a man from Veeley’s garage and pocket a private commission. However, if these were orders, why Charles Lexington must tackle it; and a sincere hope was expressed that he would crush his fingers at the job. Lexington, with the keen eye of the trained scientist, discovered what was the matter : a pebble under the pedal which prevented contact. Increasing in wisdom with every experience, he spent the better part of an hour armed with a hammer, and hit it vigorously against the wall of the garage to give evidence of hard work; then he took the pebble out and started the [[motifs/machine|machine]]. He brought it round. His mistress was overjoyed to find that it buzzed as cheerfully as it had buzzed in its hot youth when she had bought it second-hand from her own son in the beginning of the year.
 
 Of a truth there was no end to Charles Lexington’s abilities. She almost dreaded the moment when this cheap labour would be classed and docketed and decanted into the regular channels of Department “M.” However, there would be two days before the answer to her secretary’s letter came, and perhaps some weeks before Lexington would be placed. She must hope for the best. If the worst came to the worst she might find him just that type of work which would keep him in her service. But Fate had got tired again, and had made up her mind for another change.
 
@@ -7234,7 +7234,7 @@ He went at a good pace along a path through the wood, and then by a right of way
 
 The comments of the young in Pugginholt convinced him that his disguise had rendered him ridiculous. He could put up with that. It was the least of evils. On his way he had unpinned the carefully-dried one-pound note from his vest. He held it clasped in his hand. In his desperate need he formed a resolution. He would telephone to Bowring, get a meeting and explain all.
 
-It was humiliating, but it was necessary. If he were copped — and copped at last he would be — on the wretched point of the one-pound note snatched from the table of St. Dives’ Hostel, if he were once in the grip of the [[Machine|machine]], God help him! All the forces of the State and all the Banks would then have got him in their claws. He was the unforgivable and the leper. He was THE MAN WHO HAD MADE GOLD — whom they thought could still make gold. There was only one man in the same boat with him — one fellow-culprit who lied boldly when he did lie; who had shared the swag with him — and that was Bowring. The trail was hot upon him. He thought he had a better start than he had, but even at the best he only had four miles. It was true they did not know in which direction of the four miles he had gone.
+It was humiliating, but it was necessary. If he were copped — and copped at last he would be — on the wretched point of the one-pound note snatched from the table of St. Dives’ Hostel, if he were once in the grip of the [[motifs/machine|machine]], God help him! All the forces of the State and all the Banks would then have got him in their claws. He was the unforgivable and the leper. He was THE MAN WHO HAD MADE GOLD — whom they thought could still make gold. There was only one man in the same boat with him — one fellow-culprit who lied boldly when he did lie; who had shared the swag with him — and that was Bowring. The trail was hot upon him. He thought he had a better start than he had, but even at the best he only had four miles. It was true they did not know in which direction of the four miles he had gone.
 
 Yes. He must telephone to Bowring. Bowring would be in his shop at this hour. He would put himself at Bowring’s feet. He would tell Bowring where he was. He would ask Bowring what next to do. It would pay Bowring to save him. It would pay no one else.
 
@@ -7258,14 +7258,14 @@ Mr. Bowring, with the telephone at his ear in London, was very nearly put out. H
 
 He had been cut off at the critical moment. Lexington found! … News of the mystery of no-gold-supply on the tip of Lexington’s tongue! … Lexington in peril of arrest! … With that, what next?
 
-Anyhow he had been given the name of Pugginholt. He got on to that Exchange, after too much delay, and asked them what they meant by it. They referred him to Brandon Junction. Brandon Junction told him to ask the Superintendent of his own Exchange in London. The Superintendent referred him back to Pugginholt — for which he was given first Burgenhalt and then Packenham. At last, when he did get the Pugginholt Exchange by the throat and shook the truth out of it, he found it was too late. The Postmistress was kind enough to speak to him herself over the [[Machine|machine]]. He gave her his name. “I am sure I don’t know who you mean, or who you are,” she said.
+Anyhow he had been given the name of Pugginholt. He got on to that Exchange, after too much delay, and asked them what they meant by it. They referred him to Brandon Junction. Brandon Junction told him to ask the Superintendent of his own Exchange in London. The Superintendent referred him back to Pugginholt — for which he was given first Burgenhalt and then Packenham. At last, when he did get the Pugginholt Exchange by the throat and shook the truth out of it, he found it was too late. The Postmistress was kind enough to speak to him herself over the [[motifs/machine|machine]]. He gave her his name. “I am sure I don’t know who you mean, or who you are,” she said.
 
 “Never mind that. My name is Bowring, and my number is 8122 Berkeley. You will find me in the Directory. A Mr. Charles Lexington was ringing me up just now. Can you tell me …”
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XV
+CAPITOLO XV
 
 Quando Charles Lexington, vestito come una duchessa – il che in fondo non è molto diverso da qualsiasi altro abbigliamento indecente – riuscì a superare il primo recinto, al sicuro dai suoi inseguitori, rallentò un po’. Gli abiti delle donne moderne non ostacolano affatto una persona che corre veloce; anzi, sono fatti apposta per uomini snelli e mal proporzionati. Ma Charles Lexington ne aveva avuto abbastanza di correre. Ora toccava al Destino: era Lei a guidare la situazione, non lui. Gli ultimi giorni glielo avevano insegnato.
 
@@ -7273,7 +7273,7 @@ Proseguì a un buon passo lungo un sentiero nel bosco, poi attraversò un altro 
 
 I commenti dei giovani di Pugginholt lo convinsero che il suo travestimento lo aveva reso ridicolo. Poteva sopportarlo. Era senz’altro la soluzione meno peggiore. Lungo la strada, aveva staccato dalla propria giacca quel biglietto da un libbra, accuratamente asciugato; lo teneva stretto in mano. Nella sua disperata situazione, prese una decisione: avrebbe telefonato a Bowring, fissato un incontro e spiegato tutto.
 
-Era umiliante, ma necessario. Se lo avessero catturato – e alla fine lo avrebbero certamente fatto – riguardo a quella maledetta banconota da un pound rubata dal tavolo dell’ostello St. Dives, se fosse finito nelle grinfie della [[Machine|macchina]]. Che Dio lo aiutasse! Allora tutte le forze dello Stato e tutti i Banchi l’avrebbero avuto in loro potere. Era l’uomo imperdonabile, il “lebbroso”. Era L’UOMO CHE AVEVA FATTO ORO, che loro pensavano potesse ancora farne. C’era solo un altro uomo nella stessa situazione: un complice che mentiva con audacia quando lo faceva; uno che aveva diviso con lui il bottino, e quel nome era Bowring. Le tracce lo stavano inseguendo da vicino. Pensava di avere una possibilità maggiore rispetto a prima, ma anche nel migliore dei casi gli restavano soltanto quattro miglia da percorrere. Era vero: non sapevano in quale direzione fosse andato.
+Era umiliante, ma necessario. Se lo avessero catturato – e alla fine lo avrebbero certamente fatto – riguardo a quella maledetta banconota da un pound rubata dal tavolo dell’ostello St. Dives, se fosse finito nelle grinfie della [[motifs/machine|macchina]]. Che Dio lo aiutasse! Allora tutte le forze dello Stato e tutti i Banchi l’avrebbero avuto in loro potere. Era l’uomo imperdonabile, il “lebbroso”. Era L’UOMO CHE AVEVA FATTO ORO, che loro pensavano potesse ancora farne. C’era solo un altro uomo nella stessa situazione: un complice che mentiva con audacia quando lo faceva; uno che aveva diviso con lui il bottino, e quel nome era Bowring. Le tracce lo stavano inseguendo da vicino. Pensava di avere una possibilità maggiore rispetto a prima, ma anche nel migliore dei casi gli restavano soltanto quattro miglia da percorrere. Era vero: non sapevano in quale direzione fosse andato.
 
 Sì. Deve telefonare a Bowring. A quest’ora Bowring sarà nel suo negozio. Si metterà ai piedi di Bowring, gli dirà dove si trova e gli chiederà cosa fare adesso. Salvandolo, Bowring ne trarrebbe beneficio. Nessun altro, invece, ne avrebbe alcun vantaggio.
 
@@ -7297,7 +7297,7 @@ Il signor Bowring, con il telefono all’orecchio a Londra, stava per impazzire.
 
 È stato interrotto nel momento critico. Lexington l’ha scoperto!. Le informazioni sul mistero della mancanza di rifornimenti d’oro erano sull’orlo delle labbra di Lexington. Lexington è in pericolo di essere arrestato. E ora, cosa succederà?
 
-Comunque, gli fu dato il nome di Pugginholt. Dopo molti ritardi, si recò in quella borsa valori e chiese loro cosa intendessero con quel nome. Gli dissero di rivolgersi a Brandon Junction. Brandon Junction gli consigliò di chiedere al supervisore della sua stessa borsa valori a Londra. Il supervisore lo rimandò nuovamente a Pugginholt – che in seguito fu rinominato Burgenhalt e poi Packenham. Alla fine, quando riuscì finalmente a ottenere informazioni chiare su Pugginholt, scoprì che era ormai troppo tardi. La direttrice dell’ufficio postale fu così gentile da parlare personalmente con lui tramite la [[Machine|macchina]]. Le diede il suo nome. “Sono sicura di non conoscere né chi lei intenda, né chi sia,” disse lei.
+Comunque, gli fu dato il nome di Pugginholt. Dopo molti ritardi, si recò in quella borsa valori e chiese loro cosa intendessero con quel nome. Gli dissero di rivolgersi a Brandon Junction. Brandon Junction gli consigliò di chiedere al supervisore della sua stessa borsa valori a Londra. Il supervisore lo rimandò nuovamente a Pugginholt – che in seguito fu rinominato Burgenhalt e poi Packenham. Alla fine, quando riuscì finalmente a ottenere informazioni chiare su Pugginholt, scoprì che era ormai troppo tardi. La direttrice dell’ufficio postale fu così gentile da parlare personalmente con lui tramite la [[motifs/machine|macchina]]. Le diede il suo nome. “Sono sicura di non conoscere né chi lei intenda, né chi sia,” disse lei.
 
 “Non importa. Il mio nome è Bowring e il mio numero è 8122 Berkeley. Potrete trovarmi nell’Elenco Telefonico. Poco fa mi ha chiamato un signor Charles Lexington. Potete dirmi, ”
 
@@ -7314,7 +7314,7 @@ Comunque, gli fu dato il nome di Pugginholt. Dopo molti ritardi, si recò in que
 
 “That’s all I wanted to know.”
 
-The Bowring voice ceased upon the [[Machine|machine]], and the unfortunate Postmistress remained gnawed by unsatisfied desire for knowledge. It was so strong upon her that she almost deserted her post to find out what it was all about, and what had happened.
+The Bowring voice ceased upon the [[motifs/machine|machine]], and the unfortunate Postmistress remained gnawed by unsatisfied desire for knowledge. It was so strong upon her that she almost deserted her post to find out what it was all about, and what had happened.
 
 Meanwhile, Bowring had his staff work clear in a moment. There were two desperate things to be done. First, no matter how much the trail might twist and turn he must follow it. No short cuts. March to the sound of the guns. He was for Pugginholt. He looked at his watch. The quickest way would be the express from Waterloo in three-quarters of an hour that stopped first at Brandon. He told his foreman to ring up the “Unicorn” at Brandon, and have a car ready for him at Brandon Station. That was his first action. His next action was this. He wrote a short note to the Secretary of State for Home affairs and sent it off by messenger. The note was in these words and no more : —
 
@@ -7399,7 +7399,7 @@ Bowring made no direct answer : all he asked was :
 
 “Era tutto ciò che volevo sapere.”
 
-La voce di Bowring cessò di provenire dalla [[Machine|macchina]], e la sfortunata direttrice dell’ufficio postale continuò ad essere tormentata da un desiderio insoddisfatto di conoscenza. Era così forte che quasi abbandonò il suo incarico per scoprire di cosa si trattasse e cosa fosse realmente accaduto.
+La voce di Bowring cessò di provenire dalla [[motifs/machine|macchina]], e la sfortunata direttrice dell’ufficio postale continuò ad essere tormentata da un desiderio insoddisfatto di conoscenza. Era così forte che quasi abbandonò il suo incarico per scoprire di cosa si trattasse e cosa fosse realmente accaduto.
 
 Nel frattempo, Bowring fece sì che il suo staff si mettesse all’opera immediatamente. C'erano due cose urgenti da fare. Prima di tutto, non importava quanto il percorso potesse essere tortuoso: doveva seguirlo senza prendere scorciatoie, avanzando soltanto seguendo il suono dei cannoni. Era dalla parte di Pugginholt. Guardò l’orologio: il modo più veloce per arrivare era l’espresso da Waterloo, che sarebbe partito tra tre quarti d’ora e si sarebbe fermato prima a Brandon. Ordinò al suo caposquadra di prenotare un treno alla stazione di Brandon. Quella fu la sua prima mossa. La seconda fu questa: scrisse una breve nota al Segretario di Stato per gli Affari Interni e la inviò immediatamente tramite messaggero. La nota recitava esattamente queste parole, e nient’altro.
 
@@ -7415,7 +7415,7 @@ Bowring era arrivato troppo tardi quel giorno per poter fare qualcosa, ma si res
 
 “Esistono modi per organizzare queste cose. Ho spiegato alla Corte chi fossi tu.”
 
-# Un’espressione di allarme apparve negli occhi di Lexington. “Oh, mio Dio… Non l’hai fatto davvero, Bowring?”
+Un’espressione di allarme apparve negli occhi di Lexington. “Oh, mio Dio… Non l’hai fatto davvero, Bowring?”
 
 “Certo che sì,” disse Bowring, “e sono stati molto comprensivi. Gli ho raccontato tutto. Il vecchio Billy Monkton mi conosce, e anche l’altro signore, lo sceriffo, conosceva vostro padre; pensava di avervi visto una o due volte. Gli ho spiegato chiaramente la situazione: ho detto che avevate avuto un crollo nervoso. Sono stati molto sollevati. Tutti conoscono casi del genere nelle loro famiglie, e all’università li considerano normali. Hanno grande rispetto per St. Olaf’s: in quell’istituto ci sono stati più casi di follia e suicidi che in qualsiasi altro college. Ora raccontatemi la vostra storia, brevemente: abbiamo meno di dieci minuti prima che arrivino qui. Conosco bene le procedure: si svegliano a Scotland Yard verso le nove e mezza; alle 9:45 la polizia locale riceverà l’ordine di intervenire, e prima delle dieci saranno qui. Ora sono le nove, ”
 
@@ -7455,7 +7455,7 @@ Ancora no… Abbiamo appena iniziato ad ascoltare.
 
 “Non otterrete Lexington.”
 
-# Perché no?
+Perché no?
 
 “È scappato.”
 

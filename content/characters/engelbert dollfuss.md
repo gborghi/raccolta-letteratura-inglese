@@ -14,4 +14,10 @@ Assassinated Austrian chancellor discussed as a Catholic martyr-figure who forga
 
 <div class="concept-works" data-slug="characters/engelbert-dollfuss"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/well-and-shallows-(chesterton)|Well And Shallows (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -28,7 +28,7 @@ tags:
   - histref/scopes_trial
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Education · Self-Made Man · Wheel]]
+*by Chesterton*  ·  **Cluster:** [[clusters/education-·-self-made-man-·-wheel|Education · Self-Made Man · Wheel]]
 
 > [!abstract] 
 > Essay on the Scopes 'Monkey Trial' arguing that compulsory secular education is a new act of conformity that lets professors preach materialist creeds; defends the Tennessee Fundamentalists on grounds of justice.
@@ -48,13 +48,13 @@ tags:
 
 ## Connections
 
-**Settings:** [[American South]]
+**Settings:** [[settings/american-south|American South]]
 
-**Characters:** [[Queen Elizabeth]], [[Queen Victoria]], [[William Jennings Bryan]], [[Charles Darwin]]
+**Characters:** [[characters/queen-elizabeth|Queen Elizabeth]], [[characters/queen-victoria|Queen Victoria]], [[characters/william-jennings-bryan|William Jennings Bryan]], [[characters/charles-darwin|Charles Darwin]]
 
-**Themes & Concepts:** [[Education]], [[Faith and Doubt]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Faith]], [[Conformity vs Individualism]], [[History]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Islam]], [[Bible]], [[Elizabethan England]], [[Scopes Trial]]
+**Themes & Concepts:** [[concepts/education|Education]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/faith|Faith]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/islam|Islam]], [[historical-references/bible|Bible]], [[historical-references/elizabethan-england|Elizabethan England]], [[historical-references/scopes-trial|Scopes Trial]]
 
 ## Testo integrale / Full text
 

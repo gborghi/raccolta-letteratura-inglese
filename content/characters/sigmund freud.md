@@ -14,4 +14,10 @@ Real psychoanalyst mocked in the essay for his "morbid romance" theory of primit
 
 <div class="concept-works" data-slug="characters/sigmund-freud"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/christmas-games-(chesterton)|christmas-games (Chesterton)]]
+
+</div>
+
 #graph/character

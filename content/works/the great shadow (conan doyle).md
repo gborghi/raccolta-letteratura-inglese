@@ -34,7 +34,7 @@ tags:
   - archetype/hero
   - archetype/lover
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Historical Novel · War and its Cost · Honour and Chivalry]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/historical-novel-·-war-and-its-cost-·-honour-and-chivalry|Historical Novel · War and its Cost · Honour and Chivalry]]
 
 > [!abstract] 
 > Scottish border farmer Jock Calder of West Inch narrates his youth during the Napoleonic Wars, his rivalry with his strong friend Jim Horscroft for the love of his flirtatious cousin Edie, and his eventual service against Napoleon's invasion threat, culminating at Waterloo. The novel blends border-country domestic life with the looming national fear of Bonaparte, 'the great shadow' over Europe.
@@ -61,10 +61,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Historical Novel]], [[Adventure Fiction]], [[Bildungsroman]]
-**Themes & Concepts:** [[War and its Cost]], [[Romantic Love]], [[Family and Lineage]], [[Courage]], [[Fate and Free Will]], [[History]]
-**Motifs:** [[Sea]], [[Ship]], [[Fire]], [[Storm]], [[Journey]], [[Sea and Voyage]]
-**Historical References:** [[Napoleonic Wars the Navy]], [[French Revolution]]
-**Settings:** [[Scotland the Highlands]], [[Battlefield]], [[Ship]]
-**Characters:** [[Napoleon Bonaparte]], [[Wellington]], [[Sir Walter Scott]]
-**Archetypes:** [[Quest Hero]], [[Hero]], [[Lover]]
+**Forms & Genres:** [[forms/historical-novel|Historical Novel]], [[forms/adventure-fiction|Adventure Fiction]], [[forms/bildungsroman|Bildungsroman]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/romantic-love|Romantic Love]], [[concepts/family-and-lineage|Family and Lineage]], [[concepts/courage|Courage]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/history|History]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/ship|Ship]], [[motifs/fire|Fire]], [[motifs/storm|Storm]], [[motifs/journey|Journey]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/french-revolution|French Revolution]]
+**Settings:** [[settings/scotland-the-highlands|Scotland the Highlands]], [[settings/battlefield|Battlefield]], [[motifs/ship|Ship]]
+**Characters:** [[characters/napoleon-bonaparte|Napoleon Bonaparte]], [[characters/wellington|Wellington]], [[characters/sir-walter-scott|Sir Walter Scott]]
+**Archetypes:** [[archetypes/quest-hero|Quest Hero]], [[archetypes/hero|Hero]], [[archetypes/lover|Lover]]

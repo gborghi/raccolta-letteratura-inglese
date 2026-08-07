@@ -37,7 +37,7 @@ tags:
   - character/cranmer
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Court · Medieval England · History Play]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/court-·-medieval-england-·-history-play|Court · Medieval England · History Play]]
 
 > [!abstract] 
 > A late history play (with Fletcher) dramatizing the fall of Buckingham, Wolsey's rise and disgrace, Katherine's repudiation and Anne Boleyn's rise toward Elizabeth's birth; themes are the falls of the great, power and ambition, conscience, and providential history.
@@ -63,14 +63,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Fortune's Wheel]], [[Sic Transit Gloria Mundi]]
-**Archetypes:** [[King]], [[Corrupt Official]], [[Martyr Saint]]
-**Motifs:** [[Crown]], [[Wheel]]
-**Themes & Concepts:** [[Power and Corruption]], [[Ambition]], [[Pride]], [[Conscience]], [[Kingship and Legitimacy]], [[Marriage and Fidelity]], [[Providence]], [[Martyrdom]], [[History]]
-**Forms & Genres:** [[History Play]], [[Blank Verse]]
-**Historical References:** [[Reformation]], [[Christianity]], [[Bible]]
-**Settings:** [[Court]]
-**Characters:** [[Henry VIII]], [[Cardinal Wolsey]], [[Queen Katherine]], [[Anne Bullen]], [[Duke of Buckingham]], [[Cranmer]]
+**Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
+**Archetypes:** [[archetypes/king|King]], [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/martyr-saint|Martyr Saint]]
+**Motifs:** [[motifs/crown|Crown]], [[motifs/wheel|Wheel]]
+**Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]], [[concepts/ambition|Ambition]], [[concepts/pride|Pride]], [[concepts/conscience|Conscience]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/providence|Providence]], [[concepts/martyrdom|Martyrdom]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/history-play|History Play]], [[forms/blank-verse|Blank Verse]]
+**Historical References:** [[historical-references/reformation|Reformation]], [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
+**Settings:** [[settings/court|Court]]
+**Characters:** [[characters/henry-viii|Henry VIII]], [[characters/cardinal-wolsey|Cardinal Wolsey]], [[characters/queen-katherine|Queen Katherine]], [[characters/anne-bullen|Anne Bullen]], [[characters/duke-of-buckingham|Duke of Buckingham]], [[characters/cranmer|Cranmer]]
 
 ## Testo integrale / Full text
 

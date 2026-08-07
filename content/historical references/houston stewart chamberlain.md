@@ -14,4 +14,10 @@ The Prussian race-philosopher is quoted at length disparaging Italy, exemplifyin
 
 <div class="concept-works" data-slug="historical-references/houston-stewart-chamberlain"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/theappoftyranny-(chesterton)|TheAppOfTyranny (Chesterton)]]
+
+</div>
+
 #graph/histref

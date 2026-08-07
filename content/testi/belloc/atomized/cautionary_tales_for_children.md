@@ -248,7 +248,7 @@ Henry will very soon be dead.”
 
 His Parents stood about his Bed
 
-Lamenting his Untimely [[Death]],
+Lamenting his Untimely [[motifs/death|Death]],
 
 When Henry, with his Latest Breath,
 
@@ -260,13 +260,13 @@ That Breakfast, Dinner, Lunch and Tea
 
 Are all the Human Frame requires ...”
 
-With that the Wretched [[Child]] expires.
+With that the Wretched [[archetypes/child|Child]] expires.
 
 * * *
 
 Matilda
 
-WHO TOLD LIES, and was Burned to [[Death]].
+WHO TOLD LIES, and was Burned to [[motifs/death|Death]].
 
 Matilda told such Dreadful Lies,
 
@@ -298,7 +298,7 @@ the Telephone
 
 And summoned the Immediate Aid
 
-Of London’s Noble [[Fire]]-Brigade.
+Of London’s Noble [[motifs/fire|Fire]]-Brigade.
 
 Within an hour the Gallant Band
 
@@ -350,7 +350,7 @@ A Deprivation Just and Wise
 
 To Punish her for Telling Lies.
 
-That Night a [[Fire]] did break out —
+That Night a [[motifs/fire|Fire]] did break out —
 
 You should have heard Matilda Shout!
 
@@ -366,7 +366,7 @@ Encouraging her to obtain
 
 Their confidence) — but all in vain!
 
-For every time She shouted “[[Fire]]!”
+For every time She shouted “[[motifs/fire|Fire]]!”
 
 They only answered “Little Liar!”
 
@@ -444,7 +444,7 @@ How perfectly ridiculous!
 
 Alas! That such Affected Tricks
 
-Should flourish in a [[Child]] of Six!
+Should flourish in a [[archetypes/child|Child]] of Six!
 
 (For such was Young Godolphin’s age).
 
@@ -564,7 +564,7 @@ WHO WAS FRIGHTENED by a Passing Motor, and was brought to Reason.
 
 “Oh, Murder! What was that, Papa!”
 
-“My [[Child|child]],
+“My [[archetypes/child|child]],
 
 It was a Motor-Car,
 
@@ -1093,19 +1093,19 @@ E anche se lo fosse, non andrebbe bene.
 
 Per persone come me e te
 
-#Chi quasi per tutto il giorno…
+Chi quasi per tutto il giorno…
 
 Stanno facendo qualcosa di piuttosto sbagliato.
 
-# Perché se fosse davvero così…
+Perché se fosse davvero così…
 
-# Saresti morto da tempo
+Saresti morto da tempo
 
-#E non sarei mai sopravvissuto per poterlo scrivere
+E non sarei mai sopravvissuto per poterlo scrivere
 
-# Le nobili linee che si offrono alla tua vista
+Le nobili linee che si offrono alla tua vista
 
-#Né B. T. B. sopravvisse per poter disegnare
+Né B. T. B. sopravvisse per poter disegnare
 
 Le cose più belle che abbiate mai visto.
 
@@ -1245,7 +1245,7 @@ For fear of finding something worse.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Jim
+Jim
 
 Chi scappò via dalla sua infermiera e fu mangiato da un leone.
 
@@ -1255,13 +1255,13 @@ I suoi amici erano molto gentili con lui.
 
 Gli offrirono tè, torte e marmellata.
 
-# Fette di delizioso prosciutto
+Fette di delizioso prosciutto
 
-# Cioccolato con il rosa all’interno
+Cioccolato con il rosa all’interno
 
 E piccoli tricicli da guidare…
 
-#E, davvero…
+E, davvero…
 
 Leggere storie fino in fondo…
 
@@ -1275,19 +1275,19 @@ Lo sai, almeno dovresti saperlo.
 
 “Perché ve l’ho detto spesso…”
 
-# Che ai bambini non sia mai permesso
+Che ai bambini non sia mai permesso
 
 Lasciare le proprie infermiere in mezzo alla folla…
 
 Ora, questo era proprio il difetto caratteristico di Jim…
 
-# Fuggì non appena ne ebbe l’occasione
+Fuggì non appena ne ebbe l’occasione
 
 E in questo giorno infausto…
 
 Gli infilò la mano nella sua e scappò via!
 
-# Non aveva fatto nemmeno un metro quando…
+Non aveva fatto nemmeno un metro quando…
 
 Bang!
 
@@ -1299,11 +1299,11 @@ Il Ragazzo: iniziando dai suoi piedi.
 
 Ora immaginate solo come si prova…
 
-# Quando prima le dita dei piedi e poi i talloni…
+Quando prima le dita dei piedi e poi i talloni…
 
 E poi, gradualmente…
 
-# Gli stinchi e le caviglie, i polpacci e i ginocchi
+Gli stinchi e le caviglie, i polpacci e i ginocchi
 
 Vengono mangiati lentamente, poco a poco.
 
@@ -1313,15 +1313,15 @@ Non c’è da meravigliarsi che abbia gridato “Ehi!”
 
 Il Guardiano Onesto sentì il suo grido.
 
-# Molto grasso
+Molto grasso
 
-# Quasi corse
+Quasi corse
 
 Per aiutare quel piccolo gentiluomo.
 
 “Punto!”, ordinò mentre arrivava.
 
-# Il nome del leone era Ponto
+Il nome del leone era Ponto
 
 “Punto!”, gridò.
 
@@ -1329,17 +1329,17 @@ Con un'espressione arrabbiata e accigliata.
 
 "Lasciate andare, signore! Giù, signore! Mettetelo giù!"
 
-# Il Leone si fermò all’improvviso
+Il Leone si fermò all’improvviso
 
-# Lasciò cadere quel bocconcino delicato
+Lasciò cadere quel bocconcino delicato
 
-#Ritornò riluttante nella sua gabbia
+Ritornò riluttante nella sua gabbia
 
-#"Ruggendo di rabbia delusa"
+"Ruggendo di rabbia delusa"
 
 Ma quando lo costrinse ad inchinarsi su Jim…
 
-# Il custode onesto
+Il custode onesto
 
 Gli occhi erano spenti.
 
@@ -1347,21 +1347,21 @@ Il Leone, una volta raggiunta la sua testa…
 
 Il povero ragazzo era morto!
 
-# Quando l’infermiera ne informò i genitori, loro…
+Quando l’infermiera ne informò i genitori, loro…
 
 Più preoccupati di quanto possa esprimere…
 
-#Sua madre, mentre si asciugava le lacrime…
+Sua madre, mentre si asciugava le lacrime…
 
 Disse: “Beh… non mi sorprende affatto.”
 
 “Non voleva fare ciò che gli veniva detto!”
 
-#Il padre, che era padrone di sé
+Il padre, che era padrone di sé
 
 Ordinò che tutti i bambini presenti si avvicinassero.
 
-# Alla misera fine di James
+Alla misera fine di James
 
 E tieni sempre stretta l’infermiera…
 
@@ -1402,7 +1402,7 @@ Henry will very soon be dead.”
 
 His Parents stood about his Bed
 
-Lamenting his Untimely [[Death]],
+Lamenting his Untimely [[motifs/death|Death]],
 
 When Henry, with his Latest Breath,
 
@@ -1414,20 +1414,20 @@ That Breakfast, Dinner, Lunch and Tea
 
 Are all the Human Frame requires ...”
 
-With that the Wretched [[Child]] expires.
+With that the Wretched [[archetypes/child|Child]] expires.
 
 * * *
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Henry King
+Henry King
 
 Chi mordeva pezzi di corda, e fu tranciato prematuramente nelle più terribili sofferenze.
 
 Il principale difetto di Henry King
 
-#Fu, davvero
+Fu, davvero
 
 Masticando piccoli pezzetti di stringa.
 
@@ -1441,17 +1441,17 @@ Fu chiamato immediatamente; ma quando arrivò…
 
 Risposero:
 
-# Come ricevevano le loro tariffe
+Come ricevevano le loro tariffe
 
 “Non esiste alcuna cura per questa malattia.”
 
 “Henry morirà molto presto.”
 
-# I suoi genitori stavano in piedi accanto al suo letto
+I suoi genitori stavano in piedi accanto al suo letto
 
-Lamentando la sua prematura [[Death|morte]],
+Lamentando la sua prematura [[motifs/death|morte]],
 
-# Quando Henry, con il suo ultimo respiro…
+Quando Henry, con il suo ultimo respiro…
 
 Gridò
 
@@ -1461,7 +1461,7 @@ Quel colazione, cena, pranzo e tè
 
 “Se tutto ciò di cui ha bisogno il corpo umano è…”
 
-Con ciò, quel povero [[Child|bambino]] esala l’ultimo respiro.
+Con ciò, quel povero [[archetypes/child|bambino]] esala l’ultimo respiro.
 
 * * *
 
@@ -1472,7 +1472,7 @@ Con ciò, quel povero [[Child|bambino]] esala l’ultimo respiro.
 
 Matilda
 
-WHO TOLD LIES, and was Burned to [[Death]].
+WHO TOLD LIES, and was Burned to [[motifs/death|Death]].
 
 Matilda told such Dreadful Lies,
 
@@ -1504,7 +1504,7 @@ the Telephone
 
 And summoned the Immediate Aid
 
-Of London’s Noble [[Fire]]-Brigade.
+Of London’s Noble [[motifs/fire|Fire]]-Brigade.
 
 Within an hour the Gallant Band
 
@@ -1556,7 +1556,7 @@ A Deprivation Just and Wise
 
 To Punish her for Telling Lies.
 
-That Night a [[Fire]] did break out —
+That Night a [[motifs/fire|Fire]] did break out —
 
 You should have heard Matilda Shout!
 
@@ -1572,7 +1572,7 @@ Encouraging her to obtain
 
 Their confidence) — but all in vain!
 
-For every time She shouted “[[Fire]]!”
+For every time She shouted “[[motifs/fire|Fire]]!”
 
 They only answered “Little Liar!”
 
@@ -1589,62 +1589,62 @@ Matilda
 
 Chi ha detto menzogne, è stato bruciato a morte.
 
-# Matilda raccontava bugie terribili
+Matilda raccontava bugie terribili
 
-# Uno sguardo che lasciava senza fiato…
+Uno sguardo che lasciava senza fiato…
 
-#La sua zia, che fin da giovane…
+La sua zia, che fin da giovane…
 
-# Aveva sempre rispettato rigorosamente la verità
+Aveva sempre rispettato rigorosamente la verità
 
-# Tentativo di credere in Matilda
+Tentativo di credere in Matilda
 
 Lo sforzo quasi la uccise.
 
-#E avrebbe fatto così, se non fosse stato per lei…
+E avrebbe fatto così, se non fosse stato per lei…
 
 Ho scoperto questa debolezza.
 
-# Per una volta, verso il tramonto…
+Per una volta, verso il tramonto…
 
 Matilda, stancata di giocare…
 
 E scoprendo di essere rimasta sola…
 
-# Camminò in punta di piedi
+Camminò in punta di piedi
 
 to
 
 Il telefono
 
-# Chiamato l’aiuto immediato
+Chiamato l’aiuto immediato
 
-Della nobile [[Fire|brigata dei vigili del fuoco]] di Londra.
+Della nobile [[motifs/fire|brigata dei vigili del fuoco]] di Londra.
 
 Titolo:  
 Nell’arco di un’ora… la banda dei valorosi
 
-# Affluivano da tutte le direzioni
+Affluivano da tutte le direzioni
 
 Da Putney, Hackney Downs e Bow…
 
 Con il coraggio alto e i cuori ardenti
 
-# Galoppano veloci, sfrecciando per la città…
+Galoppano veloci, sfrecciando per la città…
 
 “La casa di Matilda sta bruciando!”
 
-#Inspirato da “Cheers” e “Loud” britannici
+Inspirato da “Cheers” e “Loud” britannici
 
 Fuori dalla folla frenetica
 
-#Corsero con le loro scale attraverso una ventina…
+Corsero con le loro scale attraverso una ventina…
 
-# Finestre al piano della sala da ballo
+Finestre al piano della sala da ballo
 
-# E si prese particolari cura di inzupparlo
+E si prese particolari cura di inzupparlo
 
-# Le immagini in tutta la casa
+Le immagini in tutta la casa
 
 Titolo:  
 Fino a quando zia di Matilda non prese il posto suo
@@ -1659,39 +1659,39 @@ Per far allontanare quegli uomini!
 
 Si verificò che, poche settimane dopo…
 
-#Sua zia era andata al teatro
+Sua zia era andata al teatro
 
-# Vedere quella commedia interessante
+Vedere quella commedia interessante
 
 La seconda signora Tanqueray.
 
-# Aveva rifiutato di prendersi cura della sua nipote
+Aveva rifiutato di prendersi cura della sua nipote
 
 Per ascoltare questo divertente brano…
 
-# Una privazione giusta e saggia
+Una privazione giusta e saggia
 
 Per punirla per aver detto bugie.
 
-Quella notte scoppiò davvero un [[Fire|incendio]].
+Quella notte scoppiò davvero un [[motifs/fire|incendio]].
 
 Dovevate assolutamente sentire come gridava Matilda!
 
-# Urla e strilli che avreste dovuto sentire
+Urla e strilli che avreste dovuto sentire
 
-# E rompere la finestra e chiamare
+E rompere la finestra e chiamare
 
 A coloro che passano per strada…
 
-#Il calore in aumento rapido
+Il calore in aumento rapido
 
-# Incoraggiandola ad ottenerlo
+Incoraggiandola ad ottenerlo
 
 La loro fiducia, ma tutto invano!
 
-Ogni volta che lei gridava “[[Fire|Fuoco]]!”.
+Ogni volta che lei gridava “[[motifs/fire|Fuoco]]!”.
 
-# "Solo risposero 'Piccolo Bugiardo'!"
+"Solo risposero 'Piccolo Bugiardo'!"
 
 E quindi, quando sua zia tornò…
 
@@ -1731,23 +1731,23 @@ As though it were a Toy!”
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Franklin Hyde
+Franklin Hyde
 
 Chi si era sporcato nel fango ed è stato rimproverato dal suo zio.
 
-#Il suo zio arrivò da Franklin Hyde
+Il suo zio arrivò da Franklin Hyde
 
 Divertirsi nella polvere.
 
 Lo scosse con forza da una parte all’altra
 
-#E, davvero…
+E, davvero…
 
-# Colpiscilo finché non fa male
+Colpiscilo finché non fa male
 
 Esclamando, con un ultimo tonfo…
 
-#Prendi
+Prendi
 
 Quello! Quel ragazzo abbandonato.
 
@@ -1783,18 +1783,18 @@ May always play with Sand.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Moralità
+Moralità
 
 Titolo:  
 Dalle avventure di Franklin Hyde… impara
 
 Trascorrere il tempo libero
 
-# In allegria e divertimento…
+In allegria e divertimento…
 
-# Dalla fanghiglia e dal limo
+Dalla fanghiglia e dal limo
 
-# Ogni forma di volgarità…
+Ogni forma di volgarità…
 
 Ma, d’altra parte…
 
@@ -1833,7 +1833,7 @@ How perfectly ridiculous!
 
 Alas! That such Affected Tricks
 
-Should flourish in a [[Child]] of Six!
+Should flourish in a [[archetypes/child|Child]] of Six!
 
 (For such was Young Godolphin’s age).
 
@@ -1924,13 +1924,13 @@ Who blacks the Boots at the Savoy.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Godolphin Horne
+Godolphin Horne
 
 Chi fu maledetto dal peccato dell'orgoglio e divenne un lucidatore di scarpe.
 
 Godolphin Horne nacque nella nobiltà;
 
-# Disprezzava la razza umana
+Disprezzava la razza umana
 
 E visse con tutte le sue sorelle lì…
 
@@ -1938,7 +1938,7 @@ Suo padre viveva a Berkeley Square.
 
 E oh, quel ragazzo era terribilmente orgoglioso!
 
-# Non ti ha mai stretto la mano né fatto un inchino
+Non ti ha mai stretto la mano né fatto un inchino
 
 Ma si limitò a sorridere enigmaticamente e annuire.
 
@@ -1954,15 +1954,15 @@ Dovrebbe fiorire in un bambino di sei anni.
 
 Just then, il Tribunale richiese un paggio.
 
-# Dove ciò avviene
+Dove ciò avviene
 
-# Il Lord Ciambellano Capo
+Il Lord Ciambellano Capo
 
 I più gentili e i migliori tra gli uomini
 
-#Andò di buon grado e…
+Andò di buon grado e…
 
-#Prese
+Prese
 
 Un libro davvero enorme
 
@@ -1974,13 +1974,13 @@ E mormorò, mentre scorreva l’elenco
 
 "#Per assicurarsi che nessuno venga dimenticato'"
 
-#C'è, davvero
+C'è, davvero
 
-#William Coutts ha preso il raffreddore
+William Coutts ha preso il raffreddore
 
-# E Billy Higgs mai lo avrebbe fatto
+E Billy Higgs mai lo avrebbe fatto
 
-# E Guy de Vere è ancora troppo giovane
+E Guy de Vere è ancora troppo giovane
 
 E, non è stato forse impiccato il padre di D’Alton?
 
@@ -2012,7 +2012,7 @@ Con cui tutti i vescovi furono d’accordo;
 
 E anche Lady Mary Flood
 
-# Così gentile… e davvero così buono
+Così gentile… e davvero così buono
 
 Disse: “No! Assolutamente non lo farebbe.”
 
@@ -2024,9 +2024,9 @@ Il Ciambellano disse…
 
 “Senza dubbio hai ragione… È impossibile dirlo con certezza!”
 
-# Prese la sua penna d’oro e di diamante
+Prese la sua penna d’oro e di diamante
 
-#E, davvero…
+E, davvero…
 
 Riscrisse “Godolphin” ancora una volta.
 
@@ -2076,19 +2076,19 @@ Chi ha giocato con un’arma carica, e, dopo aver mancato sua sorella, è stato 
 
 giovane Algernon, il figlio del dottore
 
-#Fu, davvero
+Fu, davvero
 
 Giocare con un’arma carica.
 
-# Lo puntò verso sua sorella
+Lo puntò verso sua sorella
 
 Mirato con grande attenzione, ma…
 
 L’ho persa.
 
-#Il padre di lui, che stava lì vicino…
+Il padre di lui, che stava lì vicino…
 
-#La forte esplosione che si udì per caso
+La forte esplosione che si udì per caso
 
 E rimproverò Algernon
 
@@ -2107,7 +2107,7 @@ WHO WAS FRIGHTENED by a Passing Motor, and was brought to Reason.
 
 “Oh, Murder! What was that, Papa!”
 
-“My [[Child|child]],
+“My [[archetypes/child|child]],
 
 It was a Motor-Car,
 
@@ -2160,13 +2160,13 @@ Chi fu spaventato da un’auto che passava e ritrovò la ragione?
 
 “Oh, mio Dio! Cos’è stato, papà?”
 
-“Mio [[Child|bambino]],”
+“Mio [[archetypes/child|bambino]],”
 
-# Era un’auto.
+Era un’auto.
 
 Un giocattolo davvero ingegnoso!
 
-#Progettato per incantare e affascinare
+Progettato per incantare e affascinare
 
 Meglio che non suscitare allarme
 
@@ -2175,15 +2175,15 @@ In qualsiasi ragazzo inglese.
 Titolo:  
 “Cosa direbbe il tuo bisnonno…”
 
-# Fu aiutante di campo del generale Brue
+Fu aiutante di campo del generale Brue
 
-#E perse una gamba in…
+E perse una gamba in…
 
 Waterloo
 
-#E, davvero…
+E, davvero…
 
-# Quatre-Bras e…
+Quatre-Bras e…
 
 Anche Ligny!
 
@@ -2194,7 +2194,7 @@ Cosa avrebbe detto sentendo questo?
 
 Il suo giovane discendente urla per paura.
 
-# Perché si trovava lì per caso
+Perché si trovava lì per caso
 
 Un innocuo automobilino!
 
@@ -2347,7 +2347,7 @@ While as for Revelations, these
 
 Would simply bring him to his knees,
 
-And leave him whimpering like a [[Child|child]].
+And leave him whimpering like a [[archetypes/child|child]].
 
 It drove his Colleagues raving wild!
 
@@ -2431,7 +2431,7 @@ She was not really bad at heart,
 
 But only rather rude and wild:
 
-She was an aggravating [[Child|child]]....
+She was an aggravating [[archetypes/child|child]]....
 
 It happened that a Marble Bust
 
@@ -2577,7 +2577,7 @@ Charles Augustus Fortescue
 
 WHO ALWAYS DID what was Right, and so accumulated an Immense Fortune.
 
-The nicest [[Child|child]] I ever knew
+The nicest [[archetypes/child|child]] I ever knew
 
 Was Charles Augustus Fortescue.
 
@@ -2654,47 +2654,47 @@ Lord Lundy
 
 Chi si lasciò commuovere troppo facilmente fino alle lacrime, rovinandosi così la propria carriera politica.
 
-# Lord Lundy fin dai suoi primi anni
+Lord Lundy fin dai suoi primi anni
 
 Si lasciava trasportare troppo facilmente dalle lacrime.
 
 Ad esempio, se sua madre gli dicesse…
 
-#"Lundy! È ora di andare a letto!"
+"Lundy! È ora di andare a letto!"
 
 Urlò come un piccolo turco.
 
 Or if
 
-#Il padre di lui: Lord Dunquerque
+Il padre di lui: Lord Dunquerque
 
 Disse “Ciao!” con tono autoritario.
 
-#"Ehi, Lundy! Lascia in pace il gatto!"
+"Ehi, Lundy! Lascia in pace il gatto!"
 
-# Lord Lundy, lasciando andare la sua coda
+Lord Lundy, lasciando andare la sua coda
 
 Scatenerebbe un lamento così terribile
 
-# Commosso
+Commosso
 
-#Il suo
+Il suo
 
 Nonno
 
-#Il, davvero
+Il, davvero
 
 Duca
 
-# Una severa rimprovera
+Una severa rimprovera
 
 "#Quando ero un bambino..."
 
 “Un animale non è un giocattolo!”
 
-#La sorella maggiore di suo padre… che
+La sorella maggiore di suo padre… che
 
-#Sposata con un arricchito
+Sposata con un arricchito
 
 Disse al suo marito: “Maledizione!”
 
@@ -2702,7 +2702,7 @@ Quel maledetto, irritante monello!
 
 “Perché non annegano quella piccola bestia?”
 
-# Suggerimenti che, per dirlo con poco,
+Suggerimenti che, per dirlo con poco,
 
 Non sono ciò che ci aspettiamo di sentire
 
@@ -2721,17 +2721,17 @@ Titolo:
 
 “Per fargli provare il dolore di dover piangere…”
 
-#Un desiderio vano, ahimè… per lei
+Un desiderio vano, ahimè… per lei
 
 Era cieco e aveva quasi novantatré anni.
 
-#Il, davvero
+Il, davvero
 
-# Caro vecchio maggiordomo
+Caro vecchio maggiordomo
 
 Pensai, ma eccolo lì!
 
-# Non so davvero e non mi interessa nemmeno
+Non so davvero e non mi interessa nemmeno
 
 Chissà cosa pensava quel caro vecchio maggiordomo.
 
@@ -2739,9 +2739,9 @@ Chissà cosa pensava quel caro vecchio maggiordomo.
 
 Conoscere il proprio posto e non cercare di usurparlo
 
-# La vecchia guardia notte e giorno
+La vecchia guardia notte e giorno
 
-#Stanchi tutti e due
+Stanchi tutti e due
 
 Dividiamo il poema in due parti!
 
@@ -2749,9 +2749,9 @@ Dividiamo il poema in due parti!
 
 Lord Lundy
 
-# Secondo Canto
+Secondo Canto
 
-# Fu allora che accadde al lord Lundy
+Fu allora che accadde al lord Lundy
 
 Come accade a molti uomini…
 
@@ -2759,7 +2759,7 @@ Verso i ventisei anni…
 
 Lo costrinsero ad entrare in politica.
 
-# In quale professione esercitava il suo ruolo di leader
+In quale professione esercitava il suo ruolo di leader
 
 Il reddito che il suo rango richiedeva
 
@@ -2770,33 +2770,33 @@ India, le colonie e la guerra.
 
 Ma molto presto i suoi amici iniziarono…
 
-# Dubbi su se fosse davvero l’uomo giusto…
+Dubbi su se fosse davvero l’uomo giusto…
 
 Quindi, se un membro si alzasse per parlare…
 
-# Come fanno i membri ogni giorno
+Come fanno i membri ogni giorno
 
 “Nato da quella risposta...”
 
 Lord Lundy avrebbe iniziato a piangere.
 
-# Un accenno a piccoli lavori innocui
+Un accenno a piccoli lavori innocui
 
 Lo avrebbero scosso con singhiozzi convulsi.
 
-#Mentre per quanto riguarda le “Revelazioni”…
+Mentre per quanto riguarda le “Revelazioni”…
 
 Lo metterebbe semplicemente in ginocchio…
 
-E lasciarlo piangere come un [[Child|bambino]].
+E lasciarlo piangere come un [[archetypes/child|bambino]].
 
 Fece impazzire i suoi colleghi!
 
-# Lo lasciarono decadere di posta in posta
+Lo lasciarono decadere di posta in posta
 
 Al massimo millecinquecento
 
-# A otto, e appena sei… e poi
+A otto, e appena sei… e poi
 
 Diventare il curatore di Big Ben,!
 
@@ -2808,7 +2808,7 @@ Il Duca… suo anziano nonno… portava…
 
 La vergogna divenne così insopportabile che non riuscì più a tollerarla.
 
-# Riunì le sue forze ormai declinanti
+Riunì le sue forze ormai declinanti
 
 Chiamò il giovane alle Torri di Brackley.
 
@@ -2852,21 +2852,21 @@ Il banchiere ricco
 
 Figlia minore
 
-# Chi viveva a Palace Green, Bayswater
+Chi viveva a Palace Green, Bayswater
 
-# Rebecca Offendort
+Rebecca Offendort
 
 Fu donato a questo Furious Sport.
 
-# Andare apposta
+Andare apposta
 
-#E chiudi la porta con forza…
+E chiudi la porta con forza…
 
 Billy-Ho!
 
-# Per realizzarlo
+Per realizzarlo
 
-#La sua storia
+La sua storia
 
 Zio Jacob inizia.
 
@@ -2876,14 +2876,14 @@ Ma piuttosto rude e selvaggio…
 
 Era un bambino davvero fastidioso.
 
-# Si verificò che una statua in marmo…
+Si verificò che una statua in marmo…
 
-# Di Abramo stava in piedi proprio lì
+Di Abramo stava in piedi proprio lì
 
 Titolo:  
 Sopra la porta, questo piccolo agnello…
 
-#Pronto per colpire con forza
+Pronto per colpire con forza
 
 E poi cadde giù. La sbatté a terra!
 
@@ -2893,7 +2893,7 @@ L’aveva messa a terra. Sembrava proprio così.
 
 Il suo sermone funebre (che fu molto lungo)
 
-# E seguito da un canto sacro
+E seguito da un canto sacro
 
 Menzionarono le sue virtù, è vero…
 
@@ -2909,9 +2909,9 @@ I bambini che furono portati ad ascoltare
 
 La terribile storia, lontana e vicina
 
-# Molto colpiti
+Molto colpiti
 
-# E giurò solennemente
+E giurò solennemente
 
 Non avrebbero mai più sbattuto la porta.
 
@@ -2919,27 +2919,27 @@ Non avrebbero mai più sbattuto la porta.
 
 * * *
 
-#George
+George
 
 Chi ha giocato con un giocattolo pericoloso ha subito una catastrofe di dimensioni considerevoli.
 
-# Quando a nonna di George fu detto…
+Quando a nonna di George fu detto…
 
-#Che George fosse davvero buono come l’oro
+Che George fosse davvero buono come l’oro
 
-# Lei promise nel pomeriggio
+Lei promise nel pomeriggio
 
 Per comprargli un’enorme mongolfiera.
 
-#E, davvero…
+E, davvero…
 
 E così fece; ma quando arrivò il momento…
 
-# Entrò nella fiamma della candela
+Entrò nella fiamma della candela
 
-# Di genere pericoloso
+Di genere pericoloso
 
-#Esploso
+Esploso
 
 Con un forte rumore!
 
@@ -2947,33 +2947,33 @@ Le luci si spensero! Le finestre si ruppero!
 
 La stanza era piena di fumo nauseabondo.
 
-# E nella oscurità urla e strilla
+E nella oscurità urla e strilla
 
-# Mescolati con campane elettriche
+Mescolati con campane elettriche
 
-# Crolli di mattoni e gemiti…
+Crolli di mattoni e gemiti…
 
-# E con un suono simile al frantumarsi di ossa…
+E con un suono simile al frantumarsi di ossa…
 
 E terribili urla… quando, cosa peggiore di tutte,
 
 La stessa casa iniziò a crollare!
 
-# Vacillava, tremando avanti e indietro
+Vacillava, tremando avanti e indietro
 
-# Si schiantò poi in strada sottostante…
+Si schiantò poi in strada sottostante…
 
 E quel posto era proprio Savile Row.
 
 * * *
 
-# Quando arrivò l’aiuto, tra i morti
+Quando arrivò l’aiuto, tra i morti
 
-#Erano
+Erano
 
 Cugina Mary
 
-# Piccolo Fred
+Piccolo Fred
 
 I servitori
 
@@ -2987,9 +2987,9 @@ Il cappellano, e
 
 La cameriera della stanza silenziosa.
 
-# E ho una terribile paura
+E ho una terribile paura
 
-#Quel Monsieur Champignon, il cuoco…
+Quel Monsieur Champignon, il cuoco…
 
 Ora sarà…
 
@@ -3001,15 +3001,15 @@ Aiutanti
 
 Sono più o meno la stessa cosa.
 
-#Mentre George, che in parte ne era responsabile…
+Mentre George, che in parte ne era responsabile…
 
-# Ricevuto… e ne pentirai.
+Ricevuto… e ne pentirai.
 
-# Un brutto nodulo
+Un brutto nodulo
 
 All’orecchio.
 
-# Moralità
+Moralità
 
 Il messaggio morale è che… i bambini piccoli…
 
@@ -3017,27 +3017,27 @@ Non dovrebbero essere dati giocattoli pericolosi.
 
 * * *
 
-# Charles Augustus Fortescue
+Charles Augustus Fortescue
 
 Chi ha sempre fatto ciò che era giusto, accumulò così una fortuna immensa.
 
-Il più gentile [[Child|>bambino]] che abbia mai conosciuto.
+Il più gentile [[archetypes/child|>bambino]] che abbia mai conosciuto.
 
 Si chiamava Charles Augustus Fortescue.
 
-# Mai perse il suo cappello, né lo strappò
+Mai perse il suo cappello, né lo strappò
 
 Le sue calze o il suo grembiule…
 
-# Non lasciava briciole nel mangiare il pane
+Non lasciava briciole nel mangiare il pane
 
-# Amava moltissimo i numeri
+Amava moltissimo i numeri
 
 Tuttavia, preferì…
 
-# L’analisi grammaticale di una parola latina
+L’analisi grammaticale di una parola latina
 
-#Cercò, quando ne aveva il potere
+Cercò, quando ne aveva il potere
 
 Per informazioni ogni due ore
 
@@ -3045,9 +3045,9 @@ E per quanto riguarda la ricerca della “Mutton-Fat”…
 
 Insipido, anzi molto insipido!
 
-#Spesso, a tavola con suo padre…
+Spesso, a tavola con suo padre…
 
-# Li supplicherebbe di sua spontanea iniziativa
+Li supplicherebbe di sua spontanea iniziativa
 
 “Per darglielo, se a loro non dispiace…”
 
@@ -3057,19 +3057,19 @@ I suoi ultimi anni non tradirono le sue qualità precedenti
 
 La promessa della sua infanzia.
 
-#Nella vita pubblica, cercava sempre di…
+Nella vita pubblica, cercava sempre di…
 
-#Un giudizio ampio e completo
+Un giudizio ampio e completo
 
 In privato, nessuno era superiore a lui.
 
 Noto per la sua gentilezza e discrezione.
 
-# Salì rapidamente nella sua carriera
+Salì rapidamente nella sua carriera
 
 E molto prima del suo quarantesimo anno
 
-#Sposata
+Sposata
 
 Fifi
 
@@ -3083,7 +3083,7 @@ E costruì la maestosa residenza…
 
 Si chiama
 
-# Dove vive nella prosperità
+Dove vive nella prosperità
 
 Titolo:  
 Per dimostrare ciò che tutti potrebbero fare

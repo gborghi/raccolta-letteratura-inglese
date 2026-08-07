@@ -14,4 +14,10 @@ The clubbable first-person narrator (nicknamed 'the Cherub' and 'the King of Clu
 
 <div class="concept-works" data-slug="characters/mr-swinburne"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/queertrades-(chesterton)|queertrades (Chesterton)]]
+
+</div>
+
 #graph/character

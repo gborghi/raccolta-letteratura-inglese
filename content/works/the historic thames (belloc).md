@@ -28,7 +28,7 @@ tags:
   - setting/oxford
   - topos/book_of_nature
 ---
-*by Belloc*  ·  **Cluster:** [[History · Catholicism · Europe]]
+*by Belloc*  ·  **Cluster:** [[clusters/history-·-catholicism-·-europe|History · Catholicism · Europe]]
 
 > [!abstract] 
 > A historical-topographical study (1907) of the River Thames, arguing that England was built upon the framework of her rivers and that the Thames, as highway, boundary and site of the first crossing at London Bridge, shaped the nation's economic, military and political life. Belloc reads geography — fords, marshes, gravel spurs, parish boundaries — as the substrate of English history.
@@ -92,9 +92,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[History]], [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Nature]], [[Natural Order]], [[Tradition]], [[Nature vs Civilization]]
-**Motifs:** [[River]], [[Water]], [[Grass Leaves of Grass]]
-**Historical References:** [[Roman History]], [[Medieval England]], [[Danish Invasions]], [[William the Conqueror]]
-**Settings:** [[River Thames]], [[London]], [[Rural England]], [[Oxford]]
-**Topoi:** [[Book of Nature]]
+**Forms & Genres:** [[concepts/history|History]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/nature|Nature]], [[concepts/natural-order|Natural Order]], [[concepts/tradition|Tradition]], [[concepts/nature-vs-civilization|Nature vs Civilization]]
+**Motifs:** [[motifs/river|River]], [[motifs/water|Water]], [[motifs/grass-leaves-of-grass|Grass Leaves of Grass]]
+**Historical References:** [[historical-references/roman-history|Roman History]], [[historical-references/medieval-england|Medieval England]], [[historical-references/danish-invasions|Danish Invasions]], [[historical-references/william-the-conqueror|William the Conqueror]]
+**Settings:** [[settings/river-thames|River Thames]], [[settings/london|London]], [[settings/rural-england|Rural England]], [[settings/oxford|Oxford]]
+**Topoi:** [[topoi/book-of-nature|Book of Nature]]

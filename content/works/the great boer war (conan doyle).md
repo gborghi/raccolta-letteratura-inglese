@@ -25,7 +25,7 @@ tags:
   - topos/combat_strife
   - topos/last_stand
 ---
-*by Conan Doyle*  ·  **Cluster:** [[War and Empire · History · Nationalism and Patriotism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/war-and-empire-·-history-·-nationalism-and-patriotism|War and Empire · History · Nationalism and Patriotism]]
 
 > [!abstract] 
 > Doyle's detailed contemporary history of the Second Boer War (1899-1902), tracing the origins of the Boer nations from Dutch and Huguenot settlers through the Great Trek and the annexation disputes that led to conflict with the British Empire. The book narrates the war's major battles and sieges chapter by chapter, going through sixteen revised editions as the campaign unfolded.
@@ -78,9 +78,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Empire and Imperialism]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Justice Right and Wrong]], [[Freedom and Liberty]], [[History]]
-**Motifs:** [[Blood]], [[Horse]]
-**Historical References:** [[Boer War (Second South African War)]], [[British Empire]], [[Second Boer War]]
-**Settings:** [[South Africa]], [[Battlefield]]
-**Topoi:** [[Combat Strife]], [[Last Stand]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/history|History]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/horse|Horse]]
+**Historical References:** [[historical-references/boer-war-(second-south-african-war)|Boer War (Second South African War)]], [[historical-references/british-empire|British Empire]], [[historical-references/second-boer-war|Second Boer War]]
+**Settings:** [[settings/south-africa|South Africa]], [[settings/battlefield|Battlefield]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]], [[topoi/last-stand|Last Stand]]

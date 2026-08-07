@@ -37,7 +37,7 @@ tags:
 
 # towers-of-time
 
-*by Chesterton*  ·  **Cluster:** [[Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/ruins-the-abbey-·-sic-transit-gloria-mundi-·-ubi-sunt|Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt]]
 
 > [!abstract] 
 > A visionary lyric on the mutability and fall of empires, thrones and republics, set against the eternal endurance of the Virgin and the City of God outlasting all towers men rear.
@@ -48,14 +48,14 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Great Mother]]
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 
-**Topoi:** [[Sic Transit Gloria Mundi]], [[Fortune's Wheel]], [[Ubi Sunt]], [[Contemptus Mundi]]
-**Motifs:** [[Ruins the Abbey]], [[Nature]], [[Time]], [[Light and Dark]], [[Sun]], [[Crown]]
-**Themes & Concepts:** [[Transience]], [[Pride]], [[Faith]], [[Freedom and Liberty]], [[Power and Corruption]], [[Eternity]], [[Grace and Redemption]], [[History]]
-**Forms & Genres:** [[Lyric]], [[Hymn]]
-**Historical References:** [[Ancient Rome]], [[Bible]], [[Catholic Church]], [[Carthage]]
-**Characters:** [[Virgin Mary]]
+**Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/ubi-sunt|Ubi Sunt]], [[topoi/contemptus-mundi|Contemptus Mundi]]
+**Motifs:** [[motifs/ruins-the-abbey|Ruins the Abbey]], [[concepts/nature|Nature]], [[motifs/time|Time]], [[motifs/light-and-dark|Light and Dark]], [[motifs/sun|Sun]], [[motifs/crown|Crown]]
+**Themes & Concepts:** [[concepts/transience|Transience]], [[concepts/pride|Pride]], [[concepts/faith|Faith]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/eternity|Eternity]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/hymn|Hymn]]
+**Historical References:** [[settings/ancient-rome|Ancient Rome]], [[historical-references/bible|Bible]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/carthage|Carthage]]
+**Characters:** [[characters/virgin-mary|Virgin Mary]]
 
 ## Testo integrale / Full text
 

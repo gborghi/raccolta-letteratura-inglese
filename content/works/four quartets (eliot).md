@@ -22,18 +22,18 @@ tags:
   - histref/dante
 ---
 
-*by Eliot*  ·  **Cluster:** [[Dante]]
+*by Eliot*  ·  **Cluster:** [[historical-references/dante|Dante]]
 
 > [!abstract] 
 > Eliot's meditative masterwork on time, eternity and redemption; the still point, rose-garden, fire and rose, memory; faith, conversion, the quest.
 
 ## Connections
 
-**Topoi:** [[Quest]], [[Eternal Return]]
-**Motifs:** [[Time]], [[Fire]], [[Rose]], [[Garden]], [[Memory]]
-**Themes & Concepts:** [[Memory and Time]], [[Faith]], [[Grace and Redemption]]
-**Forms & Genres:** [[Free Verse]]
-**Historical References:** [[Christianity]], [[Dante]]
+**Topoi:** [[topoi/quest|Quest]], [[topoi/eternal-return|Eternal Return]]
+**Motifs:** [[motifs/time|Time]], [[motifs/fire|Fire]], [[motifs/rose|Rose]], [[motifs/garden|Garden]], [[motifs/memory|Memory]]
+**Themes & Concepts:** [[concepts/memory-and-time|Memory and Time]], [[concepts/faith|Faith]], [[concepts/grace-and-redemption|Grace and Redemption]]
+**Forms & Genres:** [[forms/free-verse|Free Verse]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/dante|Dante]]
 
 ## Testo integrale / Full text
 

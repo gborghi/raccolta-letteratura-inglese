@@ -16,24 +16,24 @@ tags:
 
 The Human Tree  
 
-Many have Earth's [[lovers]] been,  
+Many have Earth's lovers been,  
 Tried in seas and wars, I ween;  
 Yet the mightiest have I seen:  
 Yea, the best saw I.  
-One that in a field [[Alone|alone]]  
+One that in a field alone  
 Stood up stiller than a stone  
 Lest a moth should fly.  
 
-[[Birds]] had nested in his hair,  
+[[motifs/birds|Birds]] had nested in his hair,  
 On his shoon were mosses rare,  
 Insect empires flourished there,  
 Worms in ancient wars;  
 But his eyes burn like a glass,  
 Hearing a great sea of grass  
-Roar towards the [[Stars|stars]].  
+Roar towards the [[motifs/stars|stars]].  
 
 From them to the human tree  
-[[Rose]] a cry continually:  
+[[motifs/rose|Rose]] a cry continually:  
 ‘Thou art still, our Father, we  
 Fain would have thee nod.  
 Make the skies as blood below thee,  
@@ -42,9 +42,9 @@ Answer us, O God!
 
 ‘Show thine ancient fame and thunder,  
 Split the stillness once asunder,  
-Lest we whisper, lest we [[Wonder|wonder]]  
+Lest we whisper, lest we [[concepts/wonder|wonder]]  
 Art thou there at all?'  
-But I saw him there [[Alone|alone]],  
+But I saw him there alone,  
 Standing stiller than a stone  
 Lest a moth should fall.  
 
@@ -55,24 +55,24 @@ G.K. CHESTERTON
 
 L'Albero Umano  
 
-Molti sono stati gli [[lovers|amanti]] della Terra,  
+Molti sono stati gli amanti della Terra,  
 provati in mari e in guerre, io credo;  
 eppure il più possente io ho veduto:  
 sì, il migliore io vidi.  
-Uno che in un campo [[Alone|solo]]  
+Uno che in un campo solo  
 si ergeva più immoto d'una pietra  
 per timore che una falena volasse.  
 
-Gli [[Birds|uccelli]] avevano nidificato tra i suoi capelli,  
+Gli [[motifs/birds|uccelli]] avevano nidificato tra i suoi capelli,  
 sulle sue scarpe muschi rari,  
 imperi d'insetti vi fiorivano,  
 vermi in antiche guerre;  
 ma i suoi occhi ardono come vetro,  
 udendo un gran mare d'erba  
-ruggire verso le [[Stars|stelle]].  
+ruggire verso le [[motifs/stars|stelle]].  
 
 Da essi all'albero umano  
-[[Rose|saliva]] un grido di continuo:  
+[[motifs/rose|saliva]] un grido di continuo:  
 ‘Tu sei immoto, Padre nostro, noi  
 volentieri vorremmo che tu annuissi.  
 Rendi i cieli come sangue sotto di te,  
@@ -81,9 +81,9 @@ Rispondici, o Dio!
 
 ‘Mostra la tua antica fama e il tuo tuono,  
 spezza una volta la quiete in due,  
-per timore che sussurriamo, che ci [[Wonder|domandiamo]]  
+per timore che sussurriamo, che ci [[concepts/wonder|domandiamo]]  
 sei tu davvero là?'  
-Ma io lo vidi là [[Alone|solo]],  
+Ma io lo vidi là solo,  
 in piedi più immoto d'una pietra  
 per timore che una falena cadesse.  
 
@@ -96,24 +96,24 @@ per timore che una falena cadesse.
 
 The Human Tree  
 
-Many have Earth's [[lovers]] been,  
+Many have Earth's lovers been,  
 Tried in seas and wars, I ween;  
 Yet the mightiest have I seen:  
 Yea, the best saw I.  
-One that in a field [[Alone|alone]]  
+One that in a field alone  
 Stood up stiller than a stone  
 Lest a moth should fly.  
 
-[[Birds]] had nested in his hair,  
+[[motifs/birds|Birds]] had nested in his hair,  
 On his shoon were mosses rare,  
 Insect empires flourished there,  
 Worms in ancient wars;  
 But his eyes burn like a glass,  
 Hearing a great sea of grass  
-Roar towards the [[Stars|stars]].  
+Roar towards the [[motifs/stars|stars]].  
 
 From them to the human tree  
-[[Rose]] a cry continually:  
+[[motifs/rose|Rose]] a cry continually:  
 ‘Thou art still, our Father, we  
 Fain would have thee nod.  
 Make the skies as blood below thee,  
@@ -122,9 +122,9 @@ Answer us, O God!
 
 ‘Show thine ancient fame and thunder,  
 Split the stillness once asunder,  
-Lest we whisper, lest we [[Wonder|wonder]]  
+Lest we whisper, lest we [[concepts/wonder|wonder]]  
 Art thou there at all?'  
-But I saw him there [[Alone|alone]],  
+But I saw him there alone,  
 Standing stiller than a stone  
 Lest a moth should fall.  
 
@@ -135,24 +135,24 @@ G.K. CHESTERTON
 
 L'Albero Umano  
 
-Molti sono stati gli [[lovers|amanti]] della Terra,  
+Molti sono stati gli amanti della Terra,  
 provati in mari e in guerre, io credo;  
 eppure il più possente io ho veduto:  
 sì, il migliore io vidi.  
-Uno che in un campo [[Alone|solo]]  
+Uno che in un campo solo  
 si ergeva più immoto d'una pietra  
 per timore che una falena volasse.  
 
-Gli [[Birds|uccelli]] avevano nidificato tra i suoi capelli,  
+Gli [[motifs/birds|uccelli]] avevano nidificato tra i suoi capelli,  
 sulle sue scarpe muschi rari,  
 imperi d'insetti vi fiorivano,  
 vermi in antiche guerre;  
 ma i suoi occhi ardono come vetro,  
 udendo un gran mare d'erba  
-ruggire verso le [[Stars|stelle]].  
+ruggire verso le [[motifs/stars|stelle]].  
 
 Da essi all'albero umano  
-[[Rose|saliva]] un grido di continuo:  
+[[motifs/rose|saliva]] un grido di continuo:  
 ‘Tu sei immoto, Padre nostro, noi  
 volentieri vorremmo che tu annuissi.  
 Rendi i cieli come sangue sotto di te,  
@@ -161,10 +161,10 @@ Rispondici, o Dio!
 
 ‘Mostra la tua antica fama e il tuo tuono,  
 spezza una volta la quiete in due,  
-per timore che sussurriamo, che ci [[Wonder|domandiamo]]  
+per timore che sussurriamo, che ci [[concepts/wonder|domandiamo]]  
 sei tu davvero là?'  
-Ma io lo vidi là [[Alone|solo]],  
+Ma io lo vidi là solo,  
 in piedi più immoto d'una pietra  
 per timore che una falena cadesse.  
 
-# G.K. Chesterton
+G.K. CHESTERTON

@@ -19,9 +19,9 @@ tags:
 "St. Francis Xavier"  
 The Apostle of the Indies  
 
-He left his [[Dust|dust]], by all the myriad tread  
+He left his [[motifs/dust|dust]], by all the myriad tread  
 Of yon dense millions trampled to the strand,  
-Or 'neath some [[Cross|cross]] forgotten lays his head  
+Or 'neath some [[motifs/cross|cross]] forgotten lays his head  
 Where dark seas whiten on a lonely land:  
 He left his work, what all his life had planned,  
 A waning flame to flicker and to fall,  
@@ -30,10 +30,10 @@ And the light died in temple and in hall,
 And the old twilight sank and settled over all.  
 
 He left his name, a murmur in the East,  
-That dies to [[Silence|silence]] amid older creeds,  
+That dies to [[motifs/silence|silence]] amid older creeds,  
 With which he strove in vain: the fiery priest  
 Of faiths less fitted to their ruder needs:  
-As some lone [[Pilgrim|pilgrim]], with his staff and beads,  
+As some lone [[archetypes/pilgrim|pilgrim]], with his staff and beads,  
 Mid forest-brutes whom ignorance makes tame,  
 He dwelt, and sowed an Eastern Church's seeds  
 He reigned, a teacher and a priest of fame:  
@@ -47,17 +47,17 @@ Of miracle, has clung about his name:
 So Rome has said: but we, what answer we  
 Who in grim Indian gods and rites of shame  
 O'er all the East the teacher's failure see,  
-His Eastern Church [[A Dream|a dream]], his toil a [[Vanity|vanity]].  
+His Eastern Church a dream, his toil a [[concepts/vanity|vanity]].  
 
-This then we say: as [[Time]]'s dark face at last  
+This then we say: as [[motifs/time|Time]]'s dark face at last  
 Moveth its lips of thunder to decree  
 The doom that grew through all the murmuring past  
 To be the canon of the times to be:  
-No [[Child|child]] of [[Truth|truth]] or priest of progress he,  
-Yet not the less a [[Hero|hero]] of his wars  
+No [[archetypes/child|child]] of [[concepts/truth|truth]] or priest of progress he,  
+Yet not the less a [[archetypes/hero|hero]] of his wars  
 Striving to quench the light he could not see,  
 And God, who knoweth all that makes and mars,  
-Judges his [[Soul|soul]] unseen which throbs among the [[Stars|stars]].  
+Judges his [[motifs/soul|soul]] unseen which throbs among the [[motifs/stars|stars]].  
 
 God only knows, man failing in his choice,  
 How far apparent failure may succeed,  
@@ -72,9 +72,9 @@ So lives and lingers on the spirit of the dead.
 This then we say: let all things further rest  
 And this brave life, with many thousands more,  
 Be gathered up in the eternal's breast  
-In that dim past his [[Love]] is bending o'er:  
+In that dim past his [[motifs/love|Love]] is bending o'er:  
 Healing all shattered hopes and failure sore:  
-Since he had bravely looked on [[Death|death]] and [[Pain|pain]]  
+Since he had bravely looked on [[motifs/death|death]] and [[motifs/pain|pain]]  
 For what he chose to worship and adore,  
 Cast boldly down his life for loss or gain  
 In the eternal lottery: not to be in vain.
@@ -87,9 +87,9 @@ In the eternal lottery: not to be in vain.
 «San Francesco Saverio»  
 L'Apostolo delle Indie  
 
-Lasciò la sua [[Dust|polvere]], dal miriade calpestìo  
+Lasciò la sua [[motifs/dust|polvere]], dal miriade calpestìo  
 Di quelle folte moltitudini pigiata sul lido,  
-O sotto qualche [[Cross|croce]] dimenticata posa il capo  
+O sotto qualche [[motifs/cross|croce]] dimenticata posa il capo  
 Dove mari oscuri biancheggiano su una terra solitaria:  
 Lasciò la sua opera, ciò che tutta la vita aveva disegnato,  
 Fiamma morente a guizzare e a cadere,  
@@ -98,10 +98,10 @@ E la luce morì nel tempio e nella sala,
 E l'antico crepuscolo scese e si posò su ogni cosa.  
 
 Lasciò il suo nome, un mormorio in Oriente,  
-Che si spegne nel [[Silence|silenzio]] fra credi più antichi,  
+Che si spegne nel [[motifs/silence|silenzio]] fra credi più antichi,  
 Contro cui lottò invano: il sacerdote infuocato  
 Di fedi meno acconce ai loro più rozzi bisogni:  
-Come qualche [[Pilgrim|pellegrino]] solitario, col suo bordone e i suoi grani,  
+Come qualche [[archetypes/pilgrim|pellegrino]] solitario, col suo bordone e i suoi grani,  
 Fra le bestie della foresta che l'ignoranza rende mansuete,  
 Egli dimorò, e sparse i semi d'una Chiesa d'Oriente  
 Egli regnò, maestro e sacerdote di fama:  
@@ -115,17 +115,17 @@ Del miracolo, s'è avvinta attorno al suo nome:
 Così ha detto Roma: ma noi, che cosa rispondiamo  
 Noi che in truci dèi indiani e riti d'infamia  
 Per tutto l'Oriente vediamo il fallimento del maestro,  
-La sua Chiesa d'Oriente [[A Dream|un sogno]], la sua fatica una [[Vanity|vanità]].  
+La sua Chiesa d'Oriente un sogno, la sua fatica una [[concepts/vanity|vanità]].  
 
-Questo dunque diciamo: mentre il volto oscuro del [[Time|Tempo]] da ultimo  
+Questo dunque diciamo: mentre il volto oscuro del [[motifs/time|Tempo]] da ultimo  
 Muove le sue labbra di tuono a decretare  
 La condanna che crebbe per tutto il mormorante passato  
 Fino a farsi il canone dei tempi che verranno:  
-Non [[Child|figlio]] della [[Truth|verità]] né sacerdote del progresso egli fu,  
-Eppure non meno un [[Hero|eroe]] delle sue guerre  
+Non [[archetypes/child|figlio]] della [[concepts/truth|verità]] né sacerdote del progresso egli fu,  
+Eppure non meno un [[archetypes/hero|eroe]] delle sue guerre  
 Sforzandosi di spegnere la luce che non poteva vedere,  
 E Dio, che conosce tutto ciò che crea e distrugge,  
-Giudica la sua [[Soul|anima]] invisibile che palpita fra le [[Stars|stelle]].  
+Giudica la sua [[motifs/soul|anima]] invisibile che palpita fra le [[motifs/stars|stelle]].  
 
 Dio solo sa, fallendo l'uomo nella sua scelta,  
 Fin dove l'apparente fallimento possa riuscire,  
@@ -140,9 +140,9 @@ Così vive e s'attarda lo spirito dei morti.
 Questo dunque diciamo: che ogni altra cosa riposi  
 E questa vita valorosa, con molte altre migliaia,  
 Sia raccolta nel petto dell'eterno  
-In quel fosco passato su cui il suo [[Love|Amore]] si china:  
+In quel fosco passato su cui il suo [[motifs/love|Amore]] si china:  
 Sanando ogni speranza infranta e ogni aspro fallimento:  
-Poiché egli valorosamente aveva guardato in volto la [[Death|morte]] e il [[Pain|dolore]]  
+Poiché egli valorosamente aveva guardato in volto la [[motifs/death|morte]] e il [[motifs/pain|dolore]]  
 Per ciò che scelse di venerare e adorare,  
 Gettò arditamente giù la sua vita per perdita o guadagno  
 Nella lotteria eterna: per non essere invano.
@@ -157,9 +157,9 @@ Nella lotteria eterna: per non essere invano.
 "St. Francis Xavier"  
 The Apostle of the Indies  
 
-He left his [[Dust|dust]], by all the myriad tread  
+He left his [[motifs/dust|dust]], by all the myriad tread  
 Of yon dense millions trampled to the strand,  
-Or 'neath some [[Cross|cross]] forgotten lays his head  
+Or 'neath some [[motifs/cross|cross]] forgotten lays his head  
 Where dark seas whiten on a lonely land:  
 He left his work, what all his life had planned,  
 A waning flame to flicker and to fall,  
@@ -168,10 +168,10 @@ And the light died in temple and in hall,
 And the old twilight sank and settled over all.  
 
 He left his name, a murmur in the East,  
-That dies to [[Silence|silence]] amid older creeds,  
+That dies to [[motifs/silence|silence]] amid older creeds,  
 With which he strove in vain: the fiery priest  
 Of faiths less fitted to their ruder needs:  
-As some lone [[Pilgrim|pilgrim]], with his staff and beads,  
+As some lone [[archetypes/pilgrim|pilgrim]], with his staff and beads,  
 Mid forest-brutes whom ignorance makes tame,  
 He dwelt, and sowed an Eastern Church's seeds  
 He reigned, a teacher and a priest of fame:  
@@ -185,17 +185,17 @@ Of miracle, has clung about his name:
 So Rome has said: but we, what answer we  
 Who in grim Indian gods and rites of shame  
 O'er all the East the teacher's failure see,  
-His Eastern Church [[A Dream|a dream]], his toil a [[Vanity|vanity]].  
+His Eastern Church a dream, his toil a [[concepts/vanity|vanity]].  
 
-This then we say: as [[Time]]'s dark face at last  
+This then we say: as [[motifs/time|Time]]'s dark face at last  
 Moveth its lips of thunder to decree  
 The doom that grew through all the murmuring past  
 To be the canon of the times to be:  
-No [[Child|child]] of [[Truth|truth]] or priest of progress he,  
-Yet not the less a [[Hero|hero]] of his wars  
+No [[archetypes/child|child]] of [[concepts/truth|truth]] or priest of progress he,  
+Yet not the less a [[archetypes/hero|hero]] of his wars  
 Striving to quench the light he could not see,  
 And God, who knoweth all that makes and mars,  
-Judges his [[Soul|soul]] unseen which throbs among the [[Stars|stars]].  
+Judges his [[motifs/soul|soul]] unseen which throbs among the [[motifs/stars|stars]].  
 
 God only knows, man failing in his choice,  
 How far apparent failure may succeed,  
@@ -210,9 +210,9 @@ So lives and lingers on the spirit of the dead.
 This then we say: let all things further rest  
 And this brave life, with many thousands more,  
 Be gathered up in the eternal's breast  
-In that dim past his [[Love]] is bending o'er:  
+In that dim past his [[motifs/love|Love]] is bending o'er:  
 Healing all shattered hopes and failure sore:  
-Since he had bravely looked on [[Death|death]] and [[Pain|pain]]  
+Since he had bravely looked on [[motifs/death|death]] and [[motifs/pain|pain]]  
 For what he chose to worship and adore,  
 Cast boldly down his life for loss or gain  
 In the eternal lottery: not to be in vain.
@@ -225,9 +225,9 @@ In the eternal lottery: not to be in vain.
 «San Francesco Saverio»  
 L'Apostolo delle Indie  
 
-Lasciò la sua [[Dust|polvere]], dal miriade calpestìo  
+Lasciò la sua [[motifs/dust|polvere]], dal miriade calpestìo  
 Di quelle folte moltitudini pigiata sul lido,  
-O sotto qualche [[Cross|croce]] dimenticata posa il capo  
+O sotto qualche [[motifs/cross|croce]] dimenticata posa il capo  
 Dove mari oscuri biancheggiano su una terra solitaria:  
 Lasciò la sua opera, ciò che tutta la vita aveva disegnato,  
 Fiamma morente a guizzare e a cadere,  
@@ -236,10 +236,10 @@ E la luce morì nel tempio e nella sala,
 E l'antico crepuscolo scese e si posò su ogni cosa.  
 
 Lasciò il suo nome, un mormorio in Oriente,  
-Che si spegne nel [[Silence|silenzio]] fra credi più antichi,  
+Che si spegne nel [[motifs/silence|silenzio]] fra credi più antichi,  
 Contro cui lottò invano: il sacerdote infuocato  
 Di fedi meno acconce ai loro più rozzi bisogni:  
-Come qualche [[Pilgrim|pellegrino]] solitario, col suo bordone e i suoi grani,  
+Come qualche [[archetypes/pilgrim|pellegrino]] solitario, col suo bordone e i suoi grani,  
 Fra le bestie della foresta che l'ignoranza rende mansuete,  
 Egli dimorò, e sparse i semi d'una Chiesa d'Oriente  
 Egli regnò, maestro e sacerdote di fama:  
@@ -253,17 +253,17 @@ Del miracolo, s'è avvinta attorno al suo nome:
 Così ha detto Roma: ma noi, che cosa rispondiamo  
 Noi che in truci dèi indiani e riti d'infamia  
 Per tutto l'Oriente vediamo il fallimento del maestro,  
-La sua Chiesa d'Oriente [[A Dream|un sogno]], la sua fatica una [[Vanity|vanità]].  
+La sua Chiesa d'Oriente un sogno, la sua fatica una [[concepts/vanity|vanità]].  
 
-Questo dunque diciamo: mentre il volto oscuro del [[Time|Tempo]] da ultimo  
+Questo dunque diciamo: mentre il volto oscuro del [[motifs/time|Tempo]] da ultimo  
 Muove le sue labbra di tuono a decretare  
 La condanna che crebbe per tutto il mormorante passato  
 Fino a farsi il canone dei tempi che verranno:  
-Non [[Child|figlio]] della [[Truth|verità]] né sacerdote del progresso egli fu,  
-Eppure non meno un [[Hero|eroe]] delle sue guerre  
+Non [[archetypes/child|figlio]] della [[concepts/truth|verità]] né sacerdote del progresso egli fu,  
+Eppure non meno un [[archetypes/hero|eroe]] delle sue guerre  
 Sforzandosi di spegnere la luce che non poteva vedere,  
 E Dio, che conosce tutto ciò che crea e distrugge,  
-Giudica la sua [[Soul|anima]] invisibile che palpita fra le [[Stars|stelle]].  
+Giudica la sua [[motifs/soul|anima]] invisibile che palpita fra le [[motifs/stars|stelle]].  
 
 Dio solo sa, fallendo l'uomo nella sua scelta,  
 Fin dove l'apparente fallimento possa riuscire,  
@@ -278,9 +278,9 @@ Così vive e s'attarda lo spirito dei morti.
 Questo dunque diciamo: che ogni altra cosa riposi  
 E questa vita valorosa, con molte altre migliaia,  
 Sia raccolta nel petto dell'eterno  
-In quel fosco passato su cui il suo [[Love|Amore]] si china:  
+In quel fosco passato su cui il suo [[motifs/love|Amore]] si china:  
 Sanando ogni speranza infranta e ogni aspro fallimento:  
-Poiché egli valorosamente aveva guardato in volto la [[Death|morte]] e il [[Pain|dolore]]  
+Poiché egli valorosamente aveva guardato in volto la [[motifs/death|morte]] e il [[motifs/pain|dolore]]  
 Per ciò che scelse di venerare e adorare,  
 Gettò arditamente giù la sua vita per perdita o guadagno  
 Nella lotteria eterna: per non essere invano.

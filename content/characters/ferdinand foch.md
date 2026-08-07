@@ -14,4 +14,10 @@ The French Marshal whom Chesterton eulogizes as an unglamorous, traditional hero
 
 <div class="concept-works" data-slug="characters/ferdinand-foch"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/gkc-come-to-think-(chesterton)|GKC Come to Think (Chesterton)]]
+
+</div>
+
 #graph/character

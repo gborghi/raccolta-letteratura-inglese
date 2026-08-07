@@ -63,7 +63,7 @@ tags:
 
 # Incredulity
 
-*by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
+*by Chesterton*  ·  **Cluster:** [[clusters/short-story-·-concealment-hidden-identity-·-justice-right-and-wrong|Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 
 > A collection of Father Brown detective stories in which the priest-sleuth solves crimes by reason and human insight while debunking false miracles and superstition; detective fiction with theological undercurrents.
@@ -77,16 +77,16 @@ tags:
 
 ## Connections
 
-**Settings:** [[America]], [[New York]], [[Sea (2)]], [[Ship]], [[Rural England]], [[Grave (2)]], [[Underworld Cave]], [[Castle]]
+**Settings:** [[settings/america|America]], [[settings/new-york|New York]], [[settings/sea-(2)|Sea (2)]], [[motifs/ship|Ship]], [[settings/rural-england|Rural England]], [[settings/grave-(2)|Grave (2)]], [[settings/underworld-cave|Underworld Cave]], [[settings/castle|Castle]]
 
-**Topoi:** [[Fortune's Wheel]], [[Double]], [[Katabasis Descent]]
+**Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/double|Double]], [[topoi/katabasis-descent|Katabasis Descent]]
 
-**Archetypes:** [[Detective]], [[Trickster]], [[Double Doppelganger]], [[Avenger]]
-**Motifs:** [[Concealment Hidden Identity]], [[Supernatural]], [[Blood]], [[Money and Gold]], [[Ghosts]], [[Great House]], [[Light and Dark]], [[Mirror]], [[Snow]], [[Animals]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Faith]], [[Faith and Doubt]], [[Guilt]], [[Justice Right and Wrong]], [[Deception]], [[Uncanny]], [[Crime and Punishment]], [[Revenge]], [[Money and Avarice]], [[Power and Corruption]], [[Class Conflict]], [[Fanaticism]], [[Economics]], [[History]]
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]], [[Gothic Novel]]
-**Historical References:** [[Christianity]], [[Bible]], [[Catholic Church]], [[First World War]], [[Industrial Revolution]], [[Medieval England]]
-**Characters:** [[Father Brown]], [[Flambeau]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/trickster|Trickster]], [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/avenger|Avenger]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/supernatural|Supernatural]], [[motifs/blood|Blood]], [[motifs/money-and-gold|Money and Gold]], [[motifs/ghosts|Ghosts]], [[motifs/great-house|Great House]], [[motifs/light-and-dark|Light and Dark]], [[motifs/mirror|Mirror]], [[motifs/snow|Snow]], [[motifs/animals|Animals]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/guilt|Guilt]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/deception|Deception]], [[concepts/uncanny|Uncanny]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/revenge|Revenge]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/class-conflict|Class Conflict]], [[concepts/fanaticism|Fanaticism]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]], [[forms/gothic-novel|Gothic Novel]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/first-world-war|First World War]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/medieval-england|Medieval England]]
+**Characters:** [[characters/father-brown|Father Brown]], [[characters/flambeau|Flambeau]]
 
 ## Testo integrale / Full text
 

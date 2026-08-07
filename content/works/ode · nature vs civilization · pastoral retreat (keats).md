@@ -37,15 +37,15 @@ tags:
 
 Raccolta tematica di 9 componimenti di John Keats.
 
-- [[O SOLITUDE! IF I MUST WITH THEE DWELL (Keats)|O SOLITUDE! IF I MUST WITH THEE DWELL]]
-- [[ODE ON MELANCHOLY (Keats)|ODE ON MELANCHOLY]]
-- [[ODE TO PSYCHE (Keats)|ODE TO PSYCHE]]
-- [[ON THE GRASSHOPPER AND CRICKET (Keats)|ON THE GRASSHOPPER AND CRICKET]]
-- [[Sonnet Oh! how I love, on a fair summer’s eve (Keats)|Sonnet: Oh! how I love, on a fair summer’s eve]]
-- [[Sonnet on Leigh Hunt’s Poem ‘The Story of Rimini’ (Keats)|Sonnet on Leigh Hunt’s Poem ‘The Story of Rimini’]]
-- [[Stanzas to Miss Wylie (Keats)|Stanzas to Miss Wylie]]
-- [[TO ONE WHO HAS BEEN LONG IN CITY PENT (Keats)|TO ONE WHO HAS BEEN LONG IN CITY PENT]]
-- [[Teignmouth (Keats)|Teignmouth]]
+- [[testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat#018_o_solitude_if_i_must_with_thee_dwell|O SOLITUDE! IF I MUST WITH THEE DWELL]]
+- [[testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat#040_ode_on_melancholy|ODE ON MELANCHOLY]]
+- [[testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat#034_ode_to_psyche|ODE TO PSYCHE]]
+- [[testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat#026_on_the_grasshopper_and_cricket|ON THE GRASSHOPPER AND CRICKET]]
+- [[testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat#055_sonnet_oh_how_i_love_on_a_fair_summers_eve|Sonnet: Oh! how I love, on a fair summer’s eve]]
+- [[testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat#066_sonnet_on_leigh_hunts_poem_the_story_of_rimini|Sonnet on Leigh Hunt’s Poem ‘The Story of Rimini’]]
+- [[testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat#054_stanzas_to_miss_wylie|Stanzas to Miss Wylie]]
+- [[testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat#021_to_one_who_has_been_long_in_city_pent|TO ONE WHO HAS BEEN LONG IN CITY PENT]]
+- [[testi/keats/atomized/ode-nature-vs-civilization-pastoral-retreat#092_teignmouth|Teignmouth]]
 
 ## Testo / Text
 

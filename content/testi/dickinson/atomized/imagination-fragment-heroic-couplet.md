@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="0188_make_me_a_picture_of_the_sun" data-title="188. Make me a picture of the sun —" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/birds,motif/seasons,motif/winter,motif/nature,concept/imagination,concept/joy,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
 
 
-Make me a picture of the [[Sun|sun]] —  
+Make me a picture of the [[motifs/sun|sun]] —  
 So I can hang it in my room —  
 And make believe I'm getting warm  
 When others call it "Day"!  
@@ -24,17 +24,17 @@ So I am hearing him, I'll dream,
 And when the Orchards stop their tune —  
 Put my pretense — away —  
 
-Say if it's really — warm at [[Noon|noon]] —  
+Say if it's really — warm at [[motifs/noon|noon]] —  
 Whether it's Buttercups — that "skim" —  
 Or Butterflies — that "bloom"?  
-Then — skip — the [[Frost|frost]] — upon the lea —  
-And skip the Russet — on the [[Tree|tree]] —  
+Then — skip — the [[motifs/frost|frost]] — upon the lea —  
+And skip the Russet — on the [[motifs/tree|tree]] —  
 Let's play those — never come!
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Fammi un ritratto del [[Sun|sole]] —  
+Fammi un ritratto del [[motifs/sun|sole]] —  
 Così potrò appenderlo in camera —  
 E fingere di scaldarmi  
 Quando gli altri lo chiamano "Giorno"!  
@@ -44,11 +44,11 @@ Così, per sentirlo, sognerò,
 E quando i Frutteti cessano il loro canto —  
 Metti via — la mia finzione —  
 
-Dimmi se davvero — fa caldo a [[Noon|mezzogiorno]] —  
+Dimmi se davvero — fa caldo a [[motifs/noon|mezzogiorno]] —  
 Se sono i Ranuncoli — che "sfiorano" —  
 O le Farfalle — che "fioriscono"?  
-Poi — salta — il [[Frost|gelo]] — sul prato —  
-E salta la Ruggine — sull'[[Tree|albero]] —  
+Poi — salta — il [[motifs/frost|gelo]] — sul prato —  
+E salta la Ruggine — sull'[[motifs/tree|albero]] —  
 Giochiamo che quelli — non vengano mai!
 
 
@@ -58,7 +58,7 @@ Giochiamo che quelli — non vengano mai!
 
 I send Two Sunsets—  
 Day and I—in competition ran—  
-I finished Two—and several [[Stars]]—  
+I finished Two—and several [[motifs/stars|Stars]]—  
 While He—was making One—  
 
 His own was ampler—but as I  
@@ -71,7 +71,7 @@ To Carry in the Hand—
 
 Mando Due Tramonti—  
 Il Giorno ed io—corremmo in gara—  
-Io ne finii Due—e parecchie [[Stars|Stelle]]—  
+Io ne finii Due—e parecchie [[motifs/stars|Stelle]]—  
 Mentre Lui—ne faceva Uno—  
 
 Il suo era più ampio—ma come io  
@@ -84,7 +84,7 @@ Da Portare in Mano—
 <span class="atom-split" data-atom="0326_i_cannot_dance_upon_my_toes" data-title="326. I cannot dance upon my Toes —" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,topos/immortality_through_verse,motif/music_and_song,motif/clothing,motif/birds,concept/imagination,concept/the_artist_and_society,concept/beauty,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
 
 
-I cannot [[Dance|dance]] upon my Toes —  
+I cannot [[motifs/dance|dance]] upon my Toes —  
 No Man instructed me —  
 But oftentimes, among my mind,  
 A Glee possesseth me,  
@@ -96,13 +96,13 @@ Or lay a Prima, mad,
 
 And though I had no Gown of Gauze —  
 No Ringlet, to my Hair,  
-Nor hopped to Audiences — like [[Birds]],  
+Nor hopped to Audiences — like [[motifs/birds|Birds]],  
 One Claw upon the Air,  
 
 Nor tossed my shape in Eider Balls,  
-Nor rolled on wheels of [[Snow|snow]]  
+Nor rolled on wheels of [[motifs/snow|snow]]  
 Till I was out of sight, in sound,  
-The [[house|House]] encore me so —  
+The House encore me so —  
 
 Nor any know I know the Art  
 I mention — easy — Here —  
@@ -112,7 +112,7 @@ It's full as Opera —
 
 <span class="qlang-split" data-lang="it"></span>
 
-Non so [[Dance|danzare]] sulle Punte —  
+Non so [[motifs/dance|danzare]] sulle Punte —  
 Nessun Uomo mi istruì —  
 Ma spesso, dentro la mia mente,  
 Una Gioia mi possiede,  
@@ -124,13 +124,13 @@ O far impazzire una Prima,
 
 E benché non avessi Veste di Garza —  
 Né Ricciolo, ai Capelli,  
-Né saltellassi verso il Pubblico — come [[Birds]],  
+Né saltellassi verso il Pubblico — come [[motifs/birds|Birds]],  
 Un Artiglio sull'Aria,  
 
 Né lanciassi la mia forma in Palle di Piuma,  
-Né rotolassi su ruote di [[Snow|neve]]  
+Né rotolassi su ruote di [[motifs/snow|neve]]  
 Finché fossi fuori vista, nel suono,  
-Con la [[house|Casa]] a chiedermi il bis —  
+Con la Casa a chiedermi il bis —  
 
 Né alcuno sa che io so l'Arte  
 Che nomino — con leggerezza — Qui —  
@@ -174,7 +174,7 @@ Lit — with a Ruby —
 Lathed — with Down —  
 
 Stiller — than the fields  
-At the full [[Dew]] —  
+At the full [[motifs/dew|Dew]] —  
 Beautiful — as Pictures —  
 No Man drew.  
 People — like the Moth —  
@@ -195,7 +195,7 @@ Illuminata — da un Rubino —
 Tornita — di Piuma —  
 
 Più quieta — dei campi  
-Alla piena [[Dew]] —  
+Alla piena [[motifs/dew|Dew]] —  
 Bella — come Quadri —  
 Che Uomo alcuno dipinse.  
 Gente — come la Falena —  
@@ -212,27 +212,27 @@ Società —
 <span class="atom-split" data-atom="0441_this_is_my_letter_to_the_world" data-title="441. This is my letter to the World" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,topos/poet_as_prophet,archetype/prophet,motif/letters_writing,motif/nature,concept/the_artist_and_society,concept/alienation,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
 
 
-This is my [[Letter|letter]] to the World  
+This is my [[forms/letter|letter]] to the World  
 That never wrote to Me —  
-The simple News that [[Nature]] told —  
+The simple News that [[concepts/nature|Nature]] told —  
 With tender Majesty  
 
 Her Message is committed  
 To Hands I cannot see —  
-For [[Love|love]] of Her — Sweet — countrymen —  
+For [[motifs/love|love]] of Her — Sweet — countrymen —  
 Judge tenderly — of Me
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Questa è la mia [[Letter|lettera]] al Mondo  
+Questa è la mia [[forms/letter|lettera]] al Mondo  
 Che mai scrisse a Me —  
-Le semplici Notizie che la [[Nature|Natura]] disse —  
+Le semplici Notizie che la [[concepts/nature|Natura]] disse —  
 Con tenera Maestà  
 
 Il suo Messaggio è affidato  
 A Mani che non posso vedere —  
-Per [[Love|amore]] di Lei — Dolci — compatrioti —  
+Per [[motifs/love|amore]] di Lei — Dolci — compatrioti —  
 Giudicate teneramente — Me
 
 
@@ -244,10 +244,10 @@ I would not paint — a picture —
 I'd rather be the One  
 Its bright impossibility  
 To dwell — delicious — on —  
-And [[Wonder|wonder]] how the fingers feel  
+And [[concepts/wonder|wonder]] how the fingers feel  
 Whose rare — celestial — stir —  
 Evokes so sweet a Torment —  
-Such sumptuous — [[Despair]] —  
+Such sumptuous — [[concepts/despair|Despair]] —  
 
 I would not talk, like Cornets —  
 I'd rather be the One  
@@ -274,10 +274,10 @@ Non dipingerei — un quadro —
 Vorrei piuttosto essere Colei  
 Che sulla sua chiara impossibilità  
 Indugia — deliziosa — sopra —  
-E [[Wonder|domandarmi]] cosa sentano le dita  
+E [[concepts/wonder|domandarmi]] cosa sentano le dita  
 Il cui raro — celeste — moto —  
 Evoca un Tormento così dolce —  
-Una così sontuosa — [[Despair|Disperazione]] —  
+Una così sontuosa — [[concepts/despair|Disperazione]] —  
 
 Non parlerei, come Cornette —  
 Vorrei piuttosto essere Colei  
@@ -303,8 +303,8 @@ Con Folgori di Melodia!
 
 
 I reckon — when I count it all —  
-First — Poets — Then the [[Sun]] —  
-Then [[Summer]] — Then the Heaven of [[God]] —  
+First — Poets — Then the [[motifs/sun|Sun]] —  
+Then [[motifs/summer|Summer]] — Then the Heaven of [[characters/god|God]] —  
 And then — the List is done —  
 
 But, looking back — the First so seems  
@@ -312,8 +312,8 @@ To Comprehend the Whole —
 The Others look a needless Show —  
 So I write — Poets — All —  
 
-Their [[Summer]] — lasts a Solid Year —  
-They can afford a [[Sun]]  
+Their [[motifs/summer|Summer]] — lasts a Solid Year —  
+They can afford a [[motifs/sun|Sun]]  
 The East — would deem extravagant —  
 And if the Further Heaven —  
 
@@ -326,8 +326,8 @@ To justify the Dream —
 <span class="qlang-split" data-lang="it"></span>
 
 Calcolo — quando conto il tutto —  
-Primi — i Poeti — Poi il [[Sun|Sole]] —  
-Poi l'[[Summer|Estate]] — Poi il Cielo di [[God|Dio]] —  
+Primi — i Poeti — Poi il [[motifs/sun|Sole]] —  
+Poi l'[[motifs/summer|Estate]] — Poi il Cielo di [[characters/god|Dio]] —  
 E poi — la Lista è finita —  
 
 Ma, a riguardare — i Primi paiono  
@@ -335,8 +335,8 @@ Comprendere il Tutto —
 Gli Altri sembrano uno Spettacolo superfluo —  
 Così scrivo — Poeti — Tutto —  
 
-La loro [[Summer|Estate]] — dura un Anno Intero —  
-Possono permettersi un [[Sun|Sole]]  
+La loro [[motifs/summer|Estate]] — dura un Anno Intero —  
+Possono permettersi un [[motifs/sun|Sole]]  
 Che l'Oriente — stimerebbe stravagante —  
 E se il Cielo Ulteriore —  
 
@@ -353,12 +353,12 @@ Per giustificare il Sogno —
 I found the words to every thought  
 I ever had — but One —  
 And that — defies me —  
-As a Hand did try to [[chalk]] the [[Sun]]  
+As a Hand did try to [[motifs/chalk|chalk]] the [[motifs/sun|Sun]]  
 
 To Races — nurtured in the Dark —  
 How would your own — begin?  
 Can Blaze be shown in Cochineal —  
-Or [[Noon]] — in Mazarin?
+Or [[motifs/noon|Noon]] — in Mazarin?
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -366,12 +366,12 @@ Or [[Noon]] — in Mazarin?
 Trovai le parole per ogni pensiero  
 Che mai ebbi — tranne Uno —  
 E quello — mi sfida —  
-Come una Mano che tentasse di [[chalk|tracciare col gesso]] il [[Sun|Sole]]  
+Come una Mano che tentasse di [[motifs/chalk|tracciare col gesso]] il [[motifs/sun|Sole]]  
 
 A Razze — cresciute nel Buio —  
 Come la vostra — comincerebbe?  
 Si può mostrare la Vampa in Cocciniglia —  
-O il [[Noon|Mezzogiorno]] — in Mazzarino?
+O il [[motifs/noon|Mezzogiorno]] — in Mazzarino?
 
 
 
@@ -383,20 +383,20 @@ When first a sombre Girl —
 I read that Foreign Lady —  
 The Dark — felt beautiful —  
 
-And whether it was [[Noon|noon]] at [[Night|night]] —  
-Or only Heaven — at [[Noon]] —  
+And whether it was [[motifs/noon|noon]] at [[motifs/night|night]] —  
+Or only Heaven — at [[motifs/noon|Noon]] —  
 For very Lunacy of Light  
 I had not power to tell —  
 
-The [[Bees]] — became as Butterflies —  
+The [[motifs/bees|Bees]] — became as Butterflies —  
 The Butterflies — as Swans —  
 Approached — and spurned the narrow Grass —  
 And just the meanest Tunes  
 
-That [[Nature]] murmured to herself  
+That [[concepts/nature|Nature]] murmured to herself  
 To keep herself in Cheer —  
 I took for Giants — practising  
-[[titanic|Titanic]] Opera —  
+Titanic Opera —  
 
 The Days — to Mighty Metres stept —  
 The Homeliest — adorned  
@@ -404,8 +404,8 @@ As if unto a Jubilee
 'Twere suddenly Confirmed —  
 
 I could not have defined the change —  
-[[conversion|Conversion]] of the Mind  
-Like Sanctifying in the [[Soul]] —  
+[[concepts/conversion|Conversion]] of the Mind  
+Like Sanctifying in the [[motifs/soul|Soul]] —  
 Is Witnessed — not Explained —  
 
 'Twas a Divine Insanity —  
@@ -417,7 +417,7 @@ Should I again experience —
 
 To Tomes of solid Witchcraft —  
 Magicians be asleep —  
-But [[Magic]] — hath an Element —  
+But [[works/magic-(chesterton)|Magic]] — hath an Element —  
 Like Deity — to keep —
 
 
@@ -428,20 +428,20 @@ Quando la prima volta, Fanciulla cupa —
 Lessi quella Dama Straniera —  
 Il Buio — mi parve bello —  
 
-E se fosse [[Noon|mezzogiorno]] di [[Night|notte]] —  
-O soltanto Cielo — a [[Noon|Mezzogiorno]] —  
+E se fosse [[motifs/noon|mezzogiorno]] di [[motifs/night|notte]] —  
+O soltanto Cielo — a [[motifs/noon|Mezzogiorno]] —  
 Per pura Follia di Luce  
 Non avevo potere di dirlo —  
 
-Le [[Bees|Api]] — divennero come Farfalle —  
+Le [[motifs/bees|Api]] — divennero come Farfalle —  
 Le Farfalle — come Cigni —  
 S'accostarono — sdegnando l'Erba angusta —  
 E perfino le Arie più umili  
 
-Che la [[Nature|Natura]] mormorava a se stessa  
+Che la [[concepts/nature|Natura]] mormorava a se stessa  
 Per tenersi in Allegria —  
 Le presi per Giganti — che provavano  
-[[titanic|Titanica]] Opera —  
+Titanica Opera —  
 
 I Giorni — mossero a Metri Possenti —  
 Il più Dimesso — adorno  
@@ -449,8 +449,8 @@ Come se a un Giubileo
 Fosse d'un tratto Cresimato —  
 
 Non avrei saputo definire il mutamento —  
-[[conversion|Conversione]] della Mente  
-Come il Santificarsi nell'[[Soul|Anima]] —  
+[[concepts/conversion|Conversione]] della Mente  
+Come il Santificarsi nell'[[motifs/soul|Anima]] —  
 Si Testimonia — non si Spiega —  
 
 Era una Divina Follia —  
@@ -462,7 +462,7 @@ Dovessi di nuovo provarlo —
 
 A Tomi di solida Stregoneria —  
 I Maghi dormano pure —  
-Ma la [[Magic|Magia]] — ha un Elemento —  
+Ma la Magia — ha un Elemento —  
 Come la Divinità — che dura —
 
 
@@ -473,17 +473,17 @@ Come la Divinità — che dura —
 Unto my Books — so good to turn —  
 Far ends of tired Days —  
 It half endears the Abstinence —  
-And [[Pain]] — is missed — in Praise —  
+And [[motifs/pain|Pain]] — is missed — in Praise —  
 
 As Flavors — cheer Retarded Guests  
 With Banquettings to be —  
-So Spices — stimulate the [[Time|time]]  
+So Spices — stimulate the [[motifs/time|time]]  
 Till my small Library —  
 
 It may be Wilderness — without —  
 Far feet of failing Men —  
-But Holiday — excludes the [[Night|night]] —  
-And it is [[Bells]] — within —  
+But Holiday — excludes the [[motifs/night|night]] —  
+And it is [[motifs/bells|Bells]] — within —  
 
 I thank these Kinsmen of the Shelf —  
 Their Countenances Kid  
@@ -496,17 +496,17 @@ And satisfy — obtained —
 Ai miei Libri — così dolce volgersi —  
 Estremi confini di Giorni stanchi —  
 Quasi rende cara l'Astinenza —  
-E la [[Pain|Pena]] — si scorda — nella Lode —  
+E la [[motifs/pain|Pena]] — si scorda — nella Lode —  
 
 Come i Sapori — rallegrano gli Ospiti Attardati  
 Con Banchetti a venire —  
-Così le Spezie — stimolano il [[Time|tempo]]  
+Così le Spezie — stimolano il [[motifs/time|tempo]]  
 Fino alla mia piccola Biblioteca —  
 
 Sarà pure Deserto — là fuori —  
 Lontani passi di Uomini che vengono meno —  
-Ma la Festa — esclude la [[Night|notte]] —  
-Ed è [[Bells|Campane]] — dentro —  
+Ma la Festa — esclude la [[motifs/night|notte]] —  
+Ed è [[motifs/bells|Campane]] — dentro —  
 
 Ringrazio questi Congiunti dello Scaffale —  
 I loro Volti di Capretto  
@@ -599,12 +599,12 @@ For — put them side by side —
 The one the other will contain  
 With ease — and You — beside —  
 
-The Brain is deeper than the [[Sea|sea]] —  
+The Brain is deeper than the [[motifs/sea|sea]] —  
 For — hold them — Blue to Blue —  
 The one the other will absorb —  
 As Sponges — Buckets — do —  
 
-The Brain is just the weight of [[God]] —  
+The Brain is just the weight of [[characters/god|God]] —  
 For — Heft them — Pound for Pound —  
 And they will differ — if they do —  
 As Syllable from Sound —
@@ -617,12 +617,12 @@ Ché — mettili fianco a fianco —
 L'uno conterrà l'altro  
 Con agio — e Te — accanto —  
 
-Il Cervello è più profondo del [[Sea|mare]] —  
+Il Cervello è più profondo del [[motifs/sea|mare]] —  
 Ché — tienili — Azzurro contro Azzurro —  
 L'uno assorbirà l'altro —  
 Come le Spugne — coi Secchi — fanno —  
 
-Il Cervello è giusto il peso di [[God|Dio]] —  
+Il Cervello è giusto il peso di [[characters/god|Dio]] —  
 Ché — soppesali — Libbra per Libbra —  
 E differiranno — se mai differiranno —  
 Come la Sillaba dal Suono —
@@ -634,7 +634,7 @@ Come la Sillaba dal Suono —
 
 Strong Draughts of Their Refreshing Minds  
 To drink — enables Mine  
-Through [[Desert]] or the Wilderness  
+Through [[motifs/desert|Desert]] or the Wilderness  
 As bore it Sealed Wine —  
 
 To go elastic — Or as One  
@@ -647,7 +647,7 @@ Of an Hermetic Mind —
 
 Forti Sorsi delle Loro Menti Ristoratrici  
 Bere — abilita la Mia  
-Per [[Desert|Deserto]] o per la Selva  
+Per [[motifs/desert|Deserto]] o per la Selva  
 Come portasse Vino Sigillato —  
 
 Ad andare elastica — O come Chi  
@@ -662,11 +662,11 @@ D'una Mente Ermetica —
 
 Have any like Myself  
 Investigating March,  
-New Houses on the [[Hill]] descried —  
+New Houses on the [[motifs/hill|Hill]] descried —  
 And possibly a Church —  
 
 That were not, We are sure —  
-As lately as the [[Snow]] —  
+As lately as the [[motifs/snow|Snow]] —  
 And are Today — if We exist —  
 Though how may this be so?  
 
@@ -675,7 +675,7 @@ Conjectured Who may be
 The Occupants of the Adobes —  
 So easy to the Sky —  
 
-'Twould seem that [[God]] should be  
+'Twould seem that [[characters/god|God]] should be  
 The nearest Neighbor to —  
 And Heaven — a convenient Grace  
 For Show, or Company —  
@@ -683,7 +683,7 @@ For Show, or Company —
 Have any like Myself  
 Preserved the Charm secure  
 By shunning carefully the Place  
-All [[Seasons]] of the Year,  
+All [[motifs/seasons|Seasons]] of the Year,  
 
 Excepting March — 'Tis then  
 My Villages be seen —  
@@ -695,11 +695,11 @@ Not afterward — by Men —
 
 Ha mai qualcuno come Me  
 Investigando Marzo,  
-Scorto Nuove Case sul [[Hill|Colle]] —  
+Scorto Nuove Case sul [[motifs/hill|Colle]] —  
 E forse una Chiesa —  
 
 Che non c'erano, Noi siamo certi —  
-Ancora al tempo della [[Snow|Neve]] —  
+Ancora al tempo della [[motifs/snow|Neve]] —  
 E ci sono Oggi — se Noi esistiamo —  
 Ma come può essere così?  
 
@@ -708,7 +708,7 @@ Congetturato Chi possano essere
 Gli Occupanti degli Adobi —  
 Così prossimi al Cielo —  
 
-Parrebbe che [[God|Dio]] debba essere  
+Parrebbe che [[characters/god|Dio]] debba essere  
 Il Vicino più prossimo —  
 E il Paradiso — una comoda Grazia  
 Per Mostra, o Compagnia —  
@@ -716,7 +716,7 @@ Per Mostra, o Compagnia —
 Ha mai qualcuno come Me  
 Custodito intatto l'Incanto  
 Evitando con cura quel Luogo  
-In tutte le [[Seasons|Stagioni]] dell'Anno,  
+In tutte le [[motifs/seasons|Stagioni]] dell'Anno,  
 
 Eccetto Marzo — È allora  
 Che i miei Villaggi si vedono —  
@@ -728,37 +728,37 @@ Non dopo — dagli Uomini —
 <span class="atom-split" data-atom="0780_the_truth_is_stirless" data-title="780. The Truth — is stirless —" data-chapter="" data-kind="intro" data-tags="motif/nature,concept/truth,concept/faith,concept/the_natural_order,concept/paradox,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
 
 
-The [[Truth]] — is stirless —  
+The [[concepts/truth|Truth]] — is stirless —  
 Other force — may be presumed to move —  
 This — then — is best for confidence —  
 When oldest Cedars swerve —  
 
 And Oaks untwist their fists —  
-And [[Mountains]] — feeble — lean —  
-How excellent a [[Body]], that  
+And [[settings/mountains|Mountains]] — feeble — lean —  
+How excellent a [[concepts/body|Body]], that  
 Stands without a Bone —  
 
 How vigorous a Force  
 That holds without a Prop —  
-[[Truth]] stays Herself — and every man  
+[[concepts/truth|Truth]] stays Herself — and every man  
 That trusts Her — boldly up —
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-La [[Truth|Verità]] — è immota —  
+La [[concepts/truth|Verità]] — è immota —  
 Altra forza — si può presumere che si muova —  
 Questa — dunque — è la migliore per la fiducia —  
 Quando i più antichi Cedri deviano —  
 
 E le Querce disserrano i pugni —  
-E i [[Mountains|Monti]] — fiacchi — si piegano —  
-Che eccellente [[Body|Corpo]], quello  
+E i [[settings/mountains|Monti]] — fiacchi — si piegano —  
+Che eccellente [[concepts/body|Corpo]], quello  
 Che sta ritto senza un Osso —  
 
 Che vigorosa Forza  
 Quella che regge senza un Sostegno —  
-La [[Truth|Verità]] sorregge Se stessa — e ogni uomo  
+La [[concepts/truth|Verità]] sorregge Se stessa — e ogni uomo  
 Che si affida a Lei — arditamente in piedi —
 
 
@@ -832,27 +832,27 @@ I Cherubini rivelano —
 <span class="atom-split" data-atom="1129_tell_all_the_truth_but_tell_it_slant" data-title="1129. Tell all the Truth but tell it slant —" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/light_and_dark,motif/childhood,concept/truth,concept/the_artist_and_society,form/epigram,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
 
 
-Tell all the [[Truth]] but tell it slant —  
-[[success|Success]] in Circuit lies  
+Tell all the [[concepts/truth|Truth]] but tell it slant —  
+Success in Circuit lies  
 Too bright for our infirm Delight  
-The [[Truth]]'s superb surprise  
+The [[concepts/truth|Truth]]'s superb surprise  
 
-As [[Lightning]] to the Children eased  
+As [[motifs/lightning|Lightning]] to the Children eased  
 With explanation kind  
-The [[Truth]] must dazzle gradually  
+The [[concepts/truth|Truth]] must dazzle gradually  
 Or every man be blind —
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Di' tutta la [[Truth|Verità]] ma dilla obliqua —  
-Il [[success|Successo]] sta nel Circuito  
+Di' tutta la [[concepts/truth|Verità]] ma dilla obliqua —  
+Il Successo sta nel Circuito  
 Troppo fulgida per il nostro infermo Diletto  
-La superba sorpresa della [[Truth|Verità]]  
+La superba sorpresa della [[concepts/truth|Verità]]  
 
-Come il [[Lightning|Lampo]] ai Bambini alleviato  
+Come il [[motifs/lightning|Lampo]] ai Bambini alleviato  
 Con spiegazione gentile  
-La [[Truth|Verità]] deve abbagliare gradualmente  
+La [[concepts/truth|Verità]] deve abbagliare gradualmente  
 O ogni uomo sarà cieco —
 
 
@@ -888,7 +888,7 @@ A distanza che da presso.
 <span class="atom-split" data-atom="1481_the_way_hope_builds_his_house" data-title="1481. The way Hope builds his House" data-chapter="" data-kind="intro" data-tags="concept/imagination,concept/faith,concept/paradox,form/lyric,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
 
 
-The way [[Hope]] builds his [[house|House]]  
+The way [[concepts/hope|Hope]] builds his House  
 It is not with a sill —  
 Nor Rafter — has that Edifice  
 But only Pinnacle —  
@@ -901,7 +901,7 @@ Or mortised with the Laws —
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il modo in cui la [[Hope|Speranza]] costruisce la sua [[house|Casa]]  
+Il modo in cui la [[concepts/hope|Speranza]] costruisce la sua Casa  
 Non è con un basamento —  
 Né Trave — possiede quell'Edificio  
 Ma soltanto Pinnacolo —  
@@ -916,11 +916,11 @@ O incastrata con le Leggi —
 <span class="atom-split" data-atom="1634_talk_not_to_me_of_summer_trees" data-title="1634. Talk not to me of Summer Trees" data-chapter="" data-kind="intro" data-tags="topos/book_of_nature,motif/birds,motif/wind,concept/imagination,concept/self_and_soul,concept/immortality,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
 
 
-Talk not to me of [[Summer]] Trees  
+Talk not to me of [[motifs/summer|Summer]] Trees  
 The foliage of the mind  
-A Tabernacle is for [[Birds]]  
+A Tabernacle is for [[motifs/birds|Birds]]  
 Of no corporeal kind  
-And winds do go that way at [[Noon|noon]]  
+And winds do go that way at [[motifs/noon|noon]]  
 To their Ethereal Homes  
 Whose Bugles call the least of us  
 To undepicted Realms
@@ -928,11 +928,11 @@ To undepicted Realms
 
 <span class="qlang-split" data-lang="it"></span>
 
-Non parlarmi di Alberi d'[[Summer|Estate]]  
+Non parlarmi di Alberi d'[[motifs/summer|Estate]]  
 Il fogliame della mente  
-È un Tabernacolo per [[Birds|Uccelli]]  
+È un Tabernacolo per [[motifs/birds|Uccelli]]  
 Di specie non corporea  
-E i venti vanno per quella via a [[Noon|mezzogiorno]]  
+E i venti vanno per quella via a [[motifs/noon|mezzogiorno]]  
 Verso le loro Eteree Dimore  
 Le cui Trombe chiamano il più piccolo di noi  
 A Reami non raffigurati
@@ -942,18 +942,29 @@ A Reami non raffigurati
 <span class="atom-split" data-atom="l0030_mr_william_austin_dickinson_saturday_pm" data-title="To Mr. William Austin Dickinson, Saturday, P.M." data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/the_book,concept/education,concept/imagination,concept/childhood_and_growth,form/letter,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
 
 
-MY DEAR BROTHER AUSTIN,—. . . I finished my examination in Euclid last evening, and without a failure at any [[Time|time]]. You can easily imagine how glad I am to get through with four books, for you have finished the whole forever. . . . How are you all at [[Home|home]], and what are you doing this vacation? You are reading Arabian Nights, according to Viny's statement. I [[Hope|hope]] you have derived much benefit from their perusal, and presume your powers of imagining will vastly increase thereby. But I must give you a word of advice too. Cultivate your other powers in proportion as you allow [[Imagination|imagination]] to captivate you. Am not I a very wise young lady?
+MY DEAR BROTHER AUSTIN,—. . . I finished my examination in Euclid last evening, and without a failure at any [[motifs/time|time]]. You can easily imagine how glad I am to get through with four books, for you have finished the whole forever. . . . How are you all at [[motifs/home|home]], and what are you doing this vacation? You are reading Arabian Nights, according to Viny's statement. I [[concepts/hope|hope]] you have derived much benefit from their perusal, and presume your powers of imagining will vastly increase thereby. But I must give you a word of advice too. Cultivate your other powers in proportion as you allow [[concepts/imagination|imagination]] to captivate you. Am not I a very wise young lady?
 
-I had almost forgotten to tell you what my studies are now—“better late than never.” They are Chemistry, Physiology, and quarter course in Algebra. I have completed four studies already, and am getting along [[Well|well]]. Did you think that it was my birthday yesterday? I don't believe I am seventeen! . . .
+I had almost forgotten to tell you what my studies are now—“better late than never.” They are Chemistry, Physiology, and quarter course in Algebra. I have completed four studies already, and am getting along [[motifs/well|well]]. Did you think that it was my birthday yesterday? I don't believe I am seventeen! . . .
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Mio caro fratello Austin, —. Ho terminato gli esami su Euclide ieri sera, senza aver fallito in nessun momento. Puoi facilmente immaginare quanto sia felice di aver completato questi quattro libri; tu, invece, hai già finito l’intera opera da molto tempo. Come state tutti a casa? Cosa fate durante queste vacanze? Secondo quanto dice Viny, state leggendo “I Mille e Una Notte”. Spero che ne abbiate tratto molti benefici e che la vostra immaginazione sia davvero migliorata grazie a questa lettura. Ma devo darti anche un consiglio: coltiva le tue altre capacità nella stessa misura in cui permetti all’immaginazione di dominarti. Non sono forse una giovane donna molto saggia?
+
+Stavo quasi per dimenticarmi di raccontarti quali siano ora i miei studi, “Meglio tardi che mai”. Sono Chimica, Fisiologia e un corso trimestrale di Algebra. Ho già completato quattro corsi e me la sto cavando [[motifs/well|bene]]. Pensavi forse che ieri fosse il mio compleanno? Non credo proprio di avere diciassette anni...
 
 
 
 <span class="atom-split" data-atom="l0078_mrs_gordon_l_ford_mr_bowdoin_mrs_anthon_and_miss_tuesday_morn" data-title="To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson, Tuesday Morn" data-chapter="" data-kind="intro" data-tags="archetype/king,motif/the_soul,concept/friendship,concept/imagination,concept/communication_and_isolation,concept/the_inner_life,form/letter,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
 
 
-DEAR EMILY,—I come and see you a great many times every day, though I don't bring my [[Body|body]] with me, so perhaps you don't know I'm there. But I [[Love|love]] to come just as dearly, for nobody sees me then, and I sit and chat away, and look up in your face, and no matter who calls if “my Lord the [[King]],” he doesn't interrupt me. Let me say, dear Emily, both mean to come at a [[Time|time]], so you shall be very sure I am sitting by your side, and not have to trust the fancy. . . .
+DEAR EMILY,—I come and see you a great many times every day, though I don't bring my [[concepts/body|body]] with me, so perhaps you don't know I'm there. But I [[motifs/love|love]] to come just as dearly, for nobody sees me then, and I sit and chat away, and look up in your face, and no matter who calls if “my Lord the [[archetypes/king|King]],” he doesn't interrupt me. Let me say, dear Emily, both mean to come at a [[motifs/time|time]], so you shall be very sure I am sitting by your side, and not have to trust the fancy. . . .
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Cara Emily,  
+Vengo a trovarti molte volte al giorno, anche se non porto con me il mio [[concepts/body|-corpo]]; forse quindi non sai che sono lì. Ma mi piace venire lo stesso, perché in quei momenti nessuno mi vede. Mi siedo, chiacchiero con te, ti guardo in faccia. E anche se qualcuno chiama, dicendo “Mio Signore il [[archetypes/king|-Re]]”, non mi interrompe. Cara Emily, entrambi intendiamo venire nel medesimo [[motifs/time|momento]]; quindi puoi essere sicura che sono seduto accanto a te. E non c’è bisogno di affidarsi alle fantasie.
 
 
 
@@ -963,6 +974,10 @@ DEAR EMILY,—I come and see you a great many times every day, though I don't br
 Could mortal lip divine The undeveloped freight Of a delivered syllable, 'Twould crumble with the weight!
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Potrebbe la bocca mortale esprimere il peso inespresso di una sillaba appena pronunciata? Crollerebbe sotto quel peso!
+
 
 
 <span class="atom-split" data-atom="l0234_the_misses_autumn_1873" data-title="To the Misses, Autumn, 1873" data-chapter="" data-kind="intro" data-tags="motif/the_book,motif/the_journey,motif/autumn,concept/imagination,concept/friendship,concept/the_power_of_language,concept/wonder,form/letter,character/prince_houssain,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
@@ -970,10 +985,18 @@ Could mortal lip divine The undeveloped freight Of a delivered syllable, 'Twould
 
 . . . I think of your little parlor as the poets once thought of Windermere,—peace, sunshine, and books.
 
-There is no frigate like a book To take us lands away, Nor any coursers like a page Of prancing poetry. This traverse may the poorest take, Without oppress of toll; How frugal is the chariot That bears the human [[Soul|soul]]!
+There is no frigate like a book To take us lands away, Nor any coursers like a page Of prancing poetry. This traverse may the poorest take, Without oppress of toll; How frugal is the chariot That bears the human [[motifs/soul|soul]]!
 
-What words could more vividly express the uplift, the expansion, the wider horizon which books bring! To Emily Dickinson, they were always solace and delight,—“frigates” and “coursers” indeed, to her quiet life, taking her over the world and into the infinite spaces, bringing Cathay and Brazil, Cashmere and Teneriffe, into an intimacy as near and familiar as the [[Summer|summer]] [[Bees|bees]] and butterflies of her own [[Home|home]] [[Noon|noon]]. Without the help of books even, her nimble fancy leaped intervening leagues as if it commanded the magic carpet of Prince Houssain; but her [[Love|love]] for books and indebtedness to them are many times expressed in the poems, both published and unpublished.
+What words could more vividly express the uplift, the expansion, the wider horizon which books bring! To Emily Dickinson, they were always solace and delight,—“frigates” and “coursers” indeed, to her quiet life, taking her over the world and into the infinite spaces, bringing Cathay and Brazil, Cashmere and Teneriffe, into an intimacy as near and familiar as the [[motifs/summer|summer]] [[motifs/bees|bees]] and butterflies of her own [[motifs/home|home]] [[motifs/noon|noon]]. Without the help of books even, her nimble fancy leaped intervening leagues as if it commanded the magic carpet of Prince Houssain; but her [[motifs/love|love]] for books and indebtedness to them are many times expressed in the poems, both published and unpublished.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+. Penso al tuo piccolo salotto proprio come i poeti un tempo pensavano a Windermere: pace, sole e libri.
+
+Non esiste alcuna fregata paragonabile a un libro che ci porti lontano, né alcun veliero paragonabile a una pagina di poesia vivace e leggera. Questo viaggio può essere intrapreso anche dal più povero, senza alcun costo oneroso; quanto è semplice e “frugale” il mezzo che trasporta l’anima umana!
+
+Quali parole potrebbero esprimere più vividamente l’ispirazione, la possibilità di espandersi, l’orizzonte più ampio che i libri donano! Per Emily Dickinson, i libri rappresentavano sempre un conforto e una fonte di gioia: veri e propri “navi da guerra” e “velieri” per la sua vita tranquilla, che la portavano in giro per il mondo, negli spazi infiniti, facendole conoscere luoghi come la Cina, il Brasile, il Cashmere e Tenerife, rendendoli così vicini e familiari quanto le api e i farfalle dell’estate nella sua stessa casa, nel pomeriggio. Anche senza l’aiuto dei libri, la sua immaginazione agile superava distanze immense, come se possedesse il tappeto magico del principe Houssain; ma il suo amore per i libri e la gratitudine che provava nei loro confronti sono spesso espressi nelle sue poesie, sia quelle pubblicate che quelle inedite.
 
 
 
@@ -993,21 +1016,48 @@ I enclosed my name, asking you, if you please, sir, to tell me what is true?
 That you will not betray me it is needless to ask, since honor is its own pawn.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Signor Higginson, —è troppo impegnato per dirmi se il mio verso è “vivo”?
+
+La mente è così vicina a se stessa che non riesce a vedere con chiarezza; inoltre, non ho nessuno a cui chiedere aiuto.
+
+Se pensaste che respirasse, e se aveste il tempo di dirmelo, vi sarei profondamente grato.
+
+Se commetto quell'errore, il fatto che tu abbia avuto il coraggio di dirmelo mi renderà ancora più grato nei tuoi confronti.
+
+Ho allegato il mio nome e vi chiedo, per favore, signore, di dirmi cosa è vero.
+
+Non c’è bisogno di chiederti se non mi tradirai, poiché l’onore è già di per sé una sua pedina.
+
 
 
 <span class="atom-split" data-atom="l0293_mr_thomas_wentworth_higginson_autumn_1876" data-title="To Mr. Thomas Wentworth Higginson, Autumn, 1876" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/the_book,motif/childhood,concept/friendship,concept/creativity_and_artistic_labor,concept/the_artist_and_society,form/letter,character/enobarbus,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
 
 
-DEAR FRIEND,—Thank you for permission to write Mrs. Higginson. I [[Hope|hope]] I have not fatigued her—also for thinking of my brother, who is slowly better, and rides for an hour, kind days.
+DEAR FRIEND,—Thank you for permission to write Mrs. Higginson. I [[concepts/hope|hope]] I have not fatigued her—also for thinking of my brother, who is slowly better, and rides for an hour, kind days.
 
-I am glad if I did as you would like. The degradation to displease you, I [[Hope|hope]] I may never incur.
+I am glad if I did as you would like. The degradation to displease you, I [[concepts/hope|hope]] I may never incur.
 
-Often, when troubled by entreaty, that paragraph of yours has saved me—“Such being the majesty of the art you presume to practise, you can at least take [[Time|time]] before dishonoring it,” and [[Enobarbus]] said, “Leave that which [[Leaves|leaves]] itself.”
+Often, when troubled by entreaty, that paragraph of yours has saved me—“Such being the majesty of the art you presume to practise, you can at least take [[motifs/time|time]] before dishonoring it,” and [[characters/enobarbus|Enobarbus]] said, “Leave that which [[motifs/leaves|leaves]] itself.”
 
-I shall look with [[Joy|joy]] for the “little book” because it is yours, though I seek you in vain in the magazines where you once wrote. I recently found two papers of yours that were unknown to me, and wondered anew at your with- drawing thought so sought by others.
+I shall look with [[concepts/joy|joy]] for the “little book” because it is yours, though I seek you in vain in the magazines where you once wrote. I recently found two papers of yours that were unknown to me, and wondered anew at your with- drawing thought so sought by others.
 
-When [[Flowers|flowers]] annually died and I was a [[Child|child]], I used to read Dr. Hitchcock's book on the [[Flowers]] of North [[America]]. This comforted their absence, assuring me they lived.
+When [[motifs/flowers|flowers]] annually died and I was a [[archetypes/child|child]], I used to read Dr. Hitchcock's book on the [[motifs/flowers|Flowers]] of North [[settings/america|America]]. This comforted their absence, assuring me they lived.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Caro amico,  
+Grazie per avermi concesso il permesso di scrivere alla signora Higginson. Spero di non averla stancata. E grazie anche per esservi ricordato di mio fratello, che sta migliorando lentamente e, nei giorni migliori, riesce a cavalcare per un’ora.
+
+Sono felice se ho fatto ciò che volevi. Non spero mai di incorrere in una condizione tale da deluderti.
+
+Spesso, quando ero turbato da suppliche, quel tuo passaggio mi salvava: “Visto l’immensità dell’arte che presumi di praticare, puoi almeno prenderti [[motifs/time|tempo]] prima di disonorarla”, disse [[characters/enobarbus|Enobarbus]], “Lascia che sia ciò che [[motifs/leaves|si lascia]] da solo”.
+
+Cercherò con [[concepts/joy|gioia]] quel “piccolo libro”, perché è tuo, anche se ti cerco invano nelle riviste in cui una volta scrivevi. Di recente ho trovato due tuoi articoli di cui non sapevo nulla, e ho riflettuto ancora una volta sulla tua straordinaria capacità di pensare in modi così apprezzati dagli altri.
+
+Quando ogni anno le [[motifs/flowers|fioriture]] morivano e io ero ancora un [[archetypes/child|bambino]], leggevo il libro del dottor Hitchcock sulle [[motifs/flowers|fioriture]] del Nord America. Questo mi consolava nella loro assenza, convincendomi che in realtà continuassero a vivere.
 
 
 
@@ -1017,9 +1067,18 @@ When [[Flowers|flowers]] annually died and I was a [[Child|child]], I used to re
 Tropics, and dairies, and fairies! Thank the Arabian Nights.
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Tropici, fattorie lattiero-casearie, e fate! Grazie ai “Mille e una notte”.
+
 
 
 <span class="atom-split" data-atom="l0517_h_h" data-title="To “H. H.”" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,concept/the_power_of_language,concept/inexpressibility,concept/communication_and_isolation,form/letter,cluster/imagination,cluster/fragment,cluster/heroic_couplet"></span>
 
 
-. . . What a hazard an accent is! When I think of the hearts it has scuttled or sunk, I almost [[Fear|fear]] to lift my hand to so much as a punctuation.
+. . . What a hazard an accent is! When I think of the hearts it has scuttled or sunk, I almost [[concepts/fear|fear]] to lift my hand to so much as a punctuation.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+. Che pericolo rappresenti un accento! Quando penso ai cuori che ha distrutto o spezzato, quasi ho paura di alzare la mano anche solo per usare una punteggiatura.

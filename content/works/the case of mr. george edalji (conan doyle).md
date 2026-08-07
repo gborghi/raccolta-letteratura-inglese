@@ -25,7 +25,7 @@ tags:
   - archetype/scapegoat
   - archetype/outsider
 ---
-*by Conan Doyle*  ·  **Cluster:** [[War and Empire · History · Nationalism and Patriotism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/war-and-empire-·-history-·-nationalism-and-patriotism|War and Empire · History · Nationalism and Patriotism]]
 
 > [!abstract] 
 > Conan Doyle's investigative pamphlet defends George Edalji, a half-Indian solicitor wrongly convicted of maiming livestock near Great Wyrley, arguing the prosecution was driven by racial prejudice and shoddy police work. Doyle's advocacy helped establish England's Court of Criminal Appeal.
@@ -45,10 +45,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Justice Right and Wrong]], [[Crime and Punishment]], [[Racial Supremacy and Pseudo-Science]], [[Ratiocination Detection]], [[Social Injustice]], [[History]]
-**Motifs:** [[Letters and Writing]], [[Secrets]], [[Animals]]
-**Historical References:** [[Victorian England]]
-**Settings:** [[Rural England]], [[London]]
-**Characters:** [[Sir Arthur Conan Doyle]]
-**Archetypes:** [[Scapegoat]], [[Outsider]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/racial-supremacy-and-pseudo-science|Racial Supremacy and Pseudo-Science]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/social-injustice|Social Injustice]], [[concepts/history|History]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/secrets|Secrets]], [[motifs/animals|Animals]]
+**Historical References:** [[historical-references/victorian-england|Victorian England]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/london|London]]
+**Characters:** [[characters/sir-arthur-conan-doyle|Sir Arthur Conan Doyle]]
+**Archetypes:** [[archetypes/scapegoat|Scapegoat]], [[archetypes/outsider|Outsider]]

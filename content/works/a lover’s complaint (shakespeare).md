@@ -27,18 +27,18 @@ tags:
   - motif/eyes_sight
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > A rhyme-royal narrative complaint in which a forsaken maid, overheard by an aged shepherd, laments her seduction and ruin by a beautiful, deceitful young man; a lyric of unrequited love, deception and faded beauty.
 
 ## Connections
 
-**Topoi:** [[Combat Strife]]
-**Archetypes:** [[Temptress]], [[(Reputed) Fallen Woman]], [[Lover]]
-**Motifs:** [[Tears]], [[Letters and Writing]], [[River]], [[Flowers]], [[Eyes and Sight]]
-**Themes & Concepts:** [[Unrequited Frustrated Love]], [[Deception]], [[Lust Sexual Desire]], [[Grief and Loss]], [[Beauty]], [[Temptation]]
-**Forms & Genres:** [[Narrative Poem]], [[Rhyme Royal]], [[Lyric]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]]
+**Archetypes:** [[archetypes/temptress|Temptress]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/tears|Tears]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/river|River]], [[motifs/flowers|Flowers]], [[motifs/eyes-and-sight|Eyes and Sight]]
+**Themes & Concepts:** [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/deception|Deception]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/beauty|Beauty]], [[concepts/temptation|Temptation]]
+**Forms & Genres:** [[forms/narrative-poem|Narrative Poem]], [[forms/rhyme-royal|Rhyme Royal]], [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

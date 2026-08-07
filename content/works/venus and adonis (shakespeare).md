@@ -28,20 +28,20 @@ tags:
   - character/adonis
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/greek-mythology-·-lust-sexual-desire-·-desire|Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 
 > Ovidian erotic narrative poem in sixains: the goddess Venus's failed seduction of the chaste youth Adonis, who is killed by a boar. Central themes: desire and lust, the unattainable beloved, beauty, mortality and transience.
 
 ## Connections
 
-**Topoi:** [[Combat Strife]], [[Unattainable Beloved]], [[Carpe Diem]]
-**Archetypes:** [[Temptress]]
-**Motifs:** [[Desire]], [[Flowers]], [[Horse]], [[Animals]]
-**Themes & Concepts:** [[Lust Sexual Desire]], [[Unrequited Frustrated Love]], [[Beauty]], [[Mortality]], [[Transience]], [[Grief and Loss]]
-**Forms & Genres:** [[Narrative Poem]]
-**Historical References:** [[Greek Mythology]], [[Classical Antiquity]]
-**Characters:** [[Venus]], [[Adonis]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]], [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/carpe-diem|Carpe Diem]]
+**Archetypes:** [[archetypes/temptress|Temptress]]
+**Motifs:** [[motifs/desire|Desire]], [[motifs/flowers|Flowers]], [[motifs/horse|Horse]], [[motifs/animals|Animals]]
+**Themes & Concepts:** [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/beauty|Beauty]], [[concepts/mortality|Mortality]], [[concepts/transience|Transience]], [[concepts/grief-and-loss|Grief and Loss]]
+**Forms & Genres:** [[forms/narrative-poem|Narrative Poem]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/classical-antiquity|Classical Antiquity]]
+**Characters:** [[characters/venus|Venus]], [[characters/adonis|Adonis]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ English clergyman-economist whose theory of population, framed as an answer to G
 
 <div class="concept-works" data-slug="characters/malthus"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/social-reform-b.c-(chesterton)|Social Reform B.C (Chesterton)]]
+
+</div>
+
 #graph/character

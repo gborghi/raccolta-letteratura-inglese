@@ -15,7 +15,7 @@ tags:
 
 
 There is a word  
-Which bears a [[Sword|sword]]  
+Which bears a sword  
 Can pierce an armed man -  
 It hurls it's barbed syllables  
 And is mute again -  
@@ -25,20 +25,20 @@ On patriotic day,
 Some epauletted Brother  
 Gave his breath away!  
 
-Wherever runs the breathless [[Sun|sun]] -  
+Wherever runs the breathless [[motifs/sun|sun]] -  
 Wherever roams the day -  
 There is it's noiseless onset -  
 There is it's victory!  
 Behold the keenest marksman-  
 The most accomplished host!  
-[[Time]]'s sublimest target  
-Is a [[Soul|soul]] "forgot"!
+[[motifs/time|Time]]'s sublimest target  
+Is a [[motifs/soul|soul]] "forgot"!
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 C'è una parola  
-Che porta una [[Sword|spada]]  
+Che porta una spada  
 Può trafiggere un uomo armato -  
 Scaglia le sue sillabe uncinate  
 Ed è muta di nuovo -  
@@ -48,14 +48,14 @@ Nel giorno patriottico,
 Qualche Fratello con spalline  
 Rese il suo respiro!
 
-Dovunque corre il [[Sun|sole]] senza fiato -  
+Dovunque corre il [[motifs/sun|sole]] senza fiato -  
 Dovunque vaga il giorno -  
 Là è il suo assalto silenzioso -  
 Là è la sua vittoria!  
 Ecco il tiratore più acuto -  
 La schiera più compiuta!  
-Il bersaglio più sublime del [[Time|Tempo]]  
-È un'[[Soul|anima]] "dimenticata"!
+Il bersaglio più sublime del [[motifs/time|Tempo]]  
+È un'[[motifs/soul|anima]] "dimenticata"!
 
 
 
@@ -68,7 +68,7 @@ From such a common ball as this
 Might date a Victory!  
 From marshallings as simple  
 The flags of nations swang.  
-Steady — my [[Soul|soul]]: What issues  
+Steady — my [[motifs/soul|soul]]: What issues  
 Upon thine arrow hang!
 
 
@@ -80,7 +80,7 @@ Da una palla così comune
 Potrebbe datarsi una Vittoria!  
 Da adunate altrettanto semplici  
 Ondeggiarono le bandiere delle nazioni.  
-Salda — mia [[Soul|anima]]: Quali esiti  
+Salda — mia [[motifs/soul|anima]]: Quali esiti  
 Pendono dalla tua freccia!
 
 
@@ -88,13 +88,13 @@ Pendono dalla tua freccia!
 <span class="atom-split" data-atom="0067_success_is_counted_sweetest" data-title="67. Success is counted sweetest" data-chapter="" data-kind="intro" data-tags="topos/war_as_glory,motif/swords_weapons,concept/paradox,concept/war_and_its_cost,concept/desire,form/lyric,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
 
 
-[[success|SUCCESS]] is counted sweetest  
+SUCCESS is counted sweetest  
 By those who ne'er succeed.  
 To comprehend a nectar  
 Requires sorest need.  
 
 Not one of all the purple host  
-Who took the [[Flag|flag]] to-day  
+Who took the [[motifs/flag|flag]] to-day  
 Can tell the definition,  
 So clear, of victory,  
 
@@ -106,13 +106,13 @@ Break, agonized and clear.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il [[success|SUCCESSO]] è stimato più dolce  
+Il SUCCESSO è stimato più dolce  
 Da chi non riesce mai.  
 Per comprendere un nettare  
 Occorre il più acerbo bisogno.  
 
 Nessuno di tutta la schiera purpurea  
-Che oggi prese la [[Flag|bandiera]]  
+Che oggi prese la [[motifs/flag|bandiera]]  
 Sa dire la definizione,  
 Così chiara, della vittoria,  
 
@@ -182,12 +182,12 @@ The cavalry of woe.
 Who win, and nations do not see,  
 Who fall, and none observe,  
 Whose dying eyes no country  
-Regards with patriot [[Love|love]].  
+Regards with patriot [[motifs/love|love]].  
 
 We trust, in plumed procession,  
 For such the angels go,  
 Rank after rank, with even feet  
-And uniforms of [[Snow|snow]].
+And uniforms of [[motifs/snow|snow]].
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -200,40 +200,40 @@ La cavalleria del dolore.
 Chi vince, e le nazioni non vedono,  
 Chi cade, e nessuno osserva,  
 I cui occhi morenti nessun paese  
-Guarda con patriottico [[Love|amore]].  
+Guarda con patriottico [[motifs/love|amore]].  
 
 Confidiamo, in piumata processione,  
 Che per costoro vadano gli angeli,  
 Fila dopo fila, con passo uguale  
-E uniformi di [[Snow|neve]].
+E uniformi di [[motifs/snow|neve]].
 
 
 
 <span class="atom-split" data-atom="0147_bless_god_he_went_as_soldiers" data-title="147. Bless God, he went as soldiers," data-chapter="" data-kind="intro" data-tags="archetype/hero,motif/swords_weapons,concept/war_and_its_cost,concept/heroism,concept/faith,form/lyric,form/hymn,histref/american_civil_war,setting/the_battlefield,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
 
 
-Bless [[God]], he went as soldiers,  
+Bless [[characters/god|God]], he went as soldiers,  
 His musket on his breast —  
-Grant [[God]], he charge the bravest  
+Grant [[characters/god|God]], he charge the bravest  
 Of all the martial blest!  
 
-Please [[God]], might I behold him  
+Please [[characters/god|God]], might I behold him  
 In epauletted white —  
-I should not [[Fear|fear]] the foe then —  
-I should not [[Fear|fear]] the fight!
+I should not [[concepts/fear|fear]] the foe then —  
+I should not [[concepts/fear|fear]] the fight!
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Benedici [[God|Dio]], andò come i soldati,  
+Benedici [[characters/god|Dio]], andò come i soldati,  
 Il moschetto sul petto —  
-Conceda [[God|Dio]] che carichi i più prodi  
+Conceda [[characters/god|Dio]] che carichi i più prodi  
 Di tutti i beati in armi!  
 
-Piaccia a [[God|Dio]] ch'io possa vederlo  
+Piaccia a [[characters/god|Dio]] ch'io possa vederlo  
 In bianco di spalline —  
-Allora non avrei [[Fear|paura]] del nemico —  
-Non avrei [[Fear|paura]] della battaglia!
+Allora non avrei [[concepts/fear|paura]] del nemico —  
+Non avrei [[concepts/fear|paura]] della battaglia!
 
 
 
@@ -241,26 +241,26 @@ Non avrei [[Fear|paura]] della battaglia!
 
 
 If any sink, assure that this, now standing —  
-Failed like Themselves — and conscious that it [[Rose|rose]] —  
+Failed like Themselves — and conscious that it [[motifs/rose|rose]] —  
 Grew by the Fact, and not the Understanding  
 How Weakness passed — or Force — arose —  
 
 Tell that the Worst, is easy in a Moment —  
 Dread, but the Whizzing, before the Ball —  
-When the Ball enters, enters [[Silence]] —  
+When the Ball enters, enters [[motifs/silence|Silence]] —  
 Dying — annuls the power to kill.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Se qualcuno affonda, assicura che questo, ora in piedi —  
-Cadde come Loro — e conscio che [[Rose|risorse]] —  
+Cadde come Loro — e conscio che [[motifs/rose|risorse]] —  
 Crebbe per il Fatto, e non per il Comprendere  
 Come passò la Debolezza — o la Forza — sorse —  
 
 Di' che il Peggio, è lieve in un Momento —  
 Temi, solo il Sibilo, prima della Palla —  
-Quando la Palla entra, entra il [[Silence|Silenzio]] —  
+Quando la Palla entra, entra il [[motifs/silence|Silenzio]] —  
 Morire — annulla il potere di uccidere.
 
 
@@ -270,13 +270,13 @@ Morire — annulla il potere di uccidere.
 
 It feels a shame to be Alive —  
 When Men so brave — are dead —  
-One envies the Distinguished [[Dust]] —  
+One envies the Distinguished [[motifs/dust|Dust]] —  
 Permitted — such a Head —  
 
 The Stone — that tells defending Whom  
 This Spartan put away  
 What little of Him we — possessed  
-In Pawn for [[Liberty]] —  
+In Pawn for [[concepts/liberty|Liberty]] —  
 
 The price is great — Sublimely paid —  
 Do we deserve — a Thing —  
@@ -298,13 +298,13 @@ Present Divinity —
 
 Sembra una vergogna essere Vivi —  
 Quando Uomini così valorosi — son morti —  
-Si invidia l'Illustre [[Dust|Polvere]] —  
+Si invidia l'Illustre [[motifs/dust|Polvere]] —  
 Cui fu concesso — un tale Capo —  
 
 La Pietra — che dice difendendo Chi  
 Questo Spartano depose  
 Quel poco di Lui che noi — possedevamo  
-In Pegno per la [[Liberty|Libertà]] —  
+In Pegno per la [[concepts/liberty|Libertà]] —  
 
 Il prezzo è grande — Sublimemente pagato —  
 Meritiamo noi — una Cosa —  
@@ -327,26 +327,26 @@ Presentino la Divinità —
 
 
 Except the Heaven had come so near —  
-So seemed to choose My [[Door]] —  
+So seemed to choose My [[motifs/door|Door]] —  
 The Distance would not haunt me so —  
 I had not hoped — before —  
 
 But just to hear the Grace depart —  
 I never thought to see —  
-Afflicts me with a [[Double]] loss —  
+Afflicts me with a [[topoi/double|Double]] loss —  
 'Tis lost — and lost to me —
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Se il Cielo non fosse giunto così vicino —  
-Non fosse parso scegliere la Mia [[Door|Porta]] —  
+Non fosse parso scegliere la Mia [[motifs/door|Porta]] —  
 La Distanza non mi perseguiterebbe tanto —  
 Non avevo sperato — prima —  
 
 Ma udire soltanto la Grazia partire —  
 Che mai pensai di vedere —  
-Mi affligge d'una [[Double|Doppia]] perdita —  
+Mi affligge d'una [[topoi/double|Doppia]] perdita —  
 È perduta — e perduta per me —
 
 
@@ -384,7 +384,7 @@ O fui io — troppo piccola?
 
 My Portion is Defeat — today —  
 A paler luck than Victory —  
-Less Paeans — fewer [[Bells]] —  
+Less Paeans — fewer [[motifs/bells|Bells]] —  
 The Drums don't follow Me — with tunes —  
 Defeat — a somewhat slower — means —  
 More Arduous than Balls —  
@@ -393,8 +393,8 @@ More Arduous than Balls —
 And Men too straight to stoop again —,  
 And Piles of solid Moan —  
 And Chips of Blank — in Boyish Eyes —  
-And scraps of [[prayer|Prayer]] —  
-And [[Death]]'s surprise,  
+And scraps of [[motifs/prayer|Prayer]] —  
+And [[motifs/death|Death]]'s surprise,  
 Stamped visible — in Stone —  
 
 There's somewhat prouder, over there —  
@@ -409,7 +409,7 @@ Contenteder — to die —
 
 La mia Porzione è Sconfitta — oggi —  
 Fortuna più pallida che Vittoria —  
-Meno Peana — meno [[Bells|Campane]] —  
+Meno Peana — meno [[motifs/bells|Campane]] —  
 I Tamburi non Mi seguono — con musiche —  
 Sconfitta — un mezzo — alquanto più lento —  
 Più Arduo delle Palle di cannone —  
@@ -418,8 +418,8 @@ Più Arduo delle Palle di cannone —
 E Uomini troppo rigidi per chinarsi ancora —,  
 E Cumuli di solido Gemito —  
 E Schegge di Vuoto — in Occhi di Ragazzo —  
-E brandelli di [[prayer|Preghiera]] —  
-E la sorpresa della [[Death|Morte]],  
+E brandelli di [[motifs/prayer|Preghiera]] —  
+E la sorpresa della [[motifs/death|Morte]],  
 Stampata visibile — nella Pietra —  
 
 C'è qualcosa di più fiero, laggiù —  
@@ -442,7 +442,7 @@ Answered Wolfe "to die"
 Montcalm, his opposing Spirit  
 Rendered with a smile  
 "Sweet" said he "my own Surrender  
-[[Liberty]]'s beguile"
+[[concepts/liberty|Liberty]]'s beguile"
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -455,7 +455,7 @@ Rispose Wolfe "morire"
 Montcalm, il suo Spirito avverso  
 Rese con un sorriso  
 "Dolce" disse "la mia propria Resa  
-Lusinga della [[Liberty|Libertà]]"
+Lusinga della [[concepts/liberty|Libertà]]"
 
 
 
@@ -469,21 +469,21 @@ And carried Me away —
 
 And now We roam in Sovereign Woods —  
 And now We hunt the Doe —  
-And every [[Time|time]] I speak for Him —  
-The [[Mountains]] straight reply —  
+And every [[motifs/time|time]] I speak for Him —  
+The [[settings/mountains|Mountains]] straight reply —  
 
 And do I smile, such cordial light  
 Upon the Valley glow —  
 It is as a Vesuvian face  
 Had let its pleasure through —  
 
-And when at [[Night]] — Our good Day done —  
+And when at [[motifs/night|Night]] — Our good Day done —  
 I guard My Master's Head —  
 'Tis better than the Eider-Duck's  
 Deep Pillow — to have shared —  
 
 To foe of His — I'm deadly foe —  
-None stir the second [[Time|time]] —  
+None stir the second [[motifs/time|time]] —  
 On whom I lay a Yellow Eye —  
 Or an emphatic Thumb —  
 
@@ -502,21 +502,21 @@ E mi portò via —
 
 E ora vaghiamo per Boschi Sovrani —  
 E ora cacciamo la Cerva —  
-E ogni [[Time|volta]] che parlo per Lui —  
-Le [[Mountains|Montagne]] subito rispondono —  
+E ogni [[motifs/time|volta]] che parlo per Lui —  
+Le [[settings/mountains|Montagne]] subito rispondono —  
 
 E se sorrido, una luce così cordiale  
 Sulla Valle risplende —  
 È come se un volto Vesuviano  
 Avesse lasciato filtrare il suo piacere —  
 
-E quando a [[Night|Notte]] — finito il Nostro buon Giorno —  
+E quando a [[motifs/night|Notte]] — finito il Nostro buon Giorno —  
 Io veglio il Capo del mio Padrone —  
 È meglio che dell'Anatra Eider  
 Il fondo Guanciale — aver diviso —  
 
 Del nemico Suo — sono nemica mortale —  
-Nessuno si muove una seconda [[Time|volta]] —  
+Nessuno si muove una seconda [[motifs/time|volta]] —  
 Su chi io posi un Occhio Giallo —  
 O un Pollice enfatico —  
 
@@ -537,13 +537,13 @@ Bestowed Himself to Balls
 As One who for a further Life  
 Had not a further Use —  
 
-Invited [[Death]] — with bold attempt —  
-But [[Death]] was Coy of Him  
-As Other Men, were Coy of [[Death]] —  
+Invited [[motifs/death|Death]] — with bold attempt —  
+But [[motifs/death|Death]] was Coy of Him  
+As Other Men, were Coy of [[motifs/death|Death]] —  
 To Him — to live — was Doom —  
 
 His Comrades, shifted like the Flakes  
-When Gusts reverse the [[Snow]] —  
+When Gusts reverse the [[motifs/snow|Snow]] —  
 But He — was left alive Because  
 Of Greediness to die —
 
@@ -557,13 +557,13 @@ Offrì Se stesso alle Pallottole
 Come Uno che d'una Vita ulteriore  
 Non avesse ulteriore Uso —  
 
-Invitò la [[Death|Morte]] — con audace slancio —  
-Ma la [[Death|Morte]] fu Ritrosa con Lui  
-Come gli Altri Uomini, erano Ritrosi con la [[Death|Morte]] —  
+Invitò la [[motifs/death|Morte]] — con audace slancio —  
+Ma la [[motifs/death|Morte]] fu Ritrosa con Lui  
+Come gli Altri Uomini, erano Ritrosi con la [[motifs/death|Morte]] —  
 Per Lui — vivere — era Condanna —  
 
 I Suoi Compagni, mutavano come i Fiocchi  
-Quando le Raffiche rovesciano la [[Snow|Neve]] —  
+Quando le Raffiche rovesciano la [[motifs/snow|Neve]] —  
 Ma Lui — fu lasciato vivo a Causa  
 Dell'Avidità di morire —
 
@@ -572,9 +572,9 @@ Dell'Avidità di morire —
 <span class="atom-split" data-atom="0865_he_outstripped_time_with_but_a_bout" data-title="865. He outstripped Time with but a Bout," data-chapter="" data-kind="intro" data-tags="topos/love_as_war,motif/time,motif/stars,concept/heroism,concept/immortality,form/lyric,histref/christianity,cluster/war_and_its_cost,cluster/american_civil_war,cluster/battlefield"></span>
 
 
-He outstripped [[Time]] with but a Bout,  
-He outstripped [[Stars]] and [[Sun]]  
-And then, unjaded, challenged [[God]]  
+He outstripped [[motifs/time|Time]] with but a Bout,  
+He outstripped [[motifs/stars|Stars]] and [[motifs/sun|Sun]]  
+And then, unjaded, challenged [[characters/god|God]]  
 In presence of the Throne.  
 
 And He and He in mighty List  
@@ -585,9 +585,9 @@ A just sufficient Ring.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Superò il [[Time|Tempo]] con una sola Sfida,  
-Superò le [[Stars|Stelle]] e il [[Sun|Sole]]  
-E poi, mai stanco, sfidò [[God|Dio]]  
+Superò il [[motifs/time|Tempo]] con una sola Sfida,  
+Superò le [[motifs/stars|Stelle]] e il [[motifs/sun|Sole]]  
+E poi, mai stanco, sfidò [[characters/god|Dio]]  
 Al cospetto del Trono.  
 
 E Lui e Lui in possente Lizza  
@@ -631,7 +631,7 @@ Lo riconobbe un Uomo.
 Tell as a Marksman — were forgotten  
 Tell — this Day endures  
 Ruddy as that coeval Apple  
-The [[Tradition]] bears —  
+The [[concepts/tradition|Tradition]] bears —  
 
 Fresh as Mankind that humble story  
 Though a statelier Tale  
@@ -640,23 +640,23 @@ Scarcely would prevail —
 
 Tell had a son — The ones that knew it  
 Need not linger here —  
-Those who did not to Human [[Nature]]  
+Those who did not to Human [[concepts/nature|Nature]]  
 Will subscribe a Tear —  
 
 Tell would not bare his Head  
 In Presence  
 Of the Ducal Hat —  
-Threatened for that with [[Death]] — by Gessler —  
+Threatened for that with [[motifs/death|Death]] — by Gessler —  
 Tyranny bethought  
 
 Make of his only Boy a Target  
-That surpasses [[Death]] —  
-Stolid to [[Love]]'s supreme entreaty  
-Not forsook of [[Faith]] —  
+That surpasses [[motifs/death|Death]] —  
+Stolid to [[motifs/love|Love]]'s supreme entreaty  
+Not forsook of [[concepts/faith|Faith]] —  
 
-[[Mercy]] of the Almighty begging —  
+[[concepts/mercy|Mercy]] of the Almighty begging —  
 Tell his Arrow sent —  
-[[God]] it is said replies in Person  
+[[characters/god|God]] it is said replies in Person  
 When the cry is meant —
 
 
@@ -665,7 +665,7 @@ When the cry is meant —
 Tell come Tiratore — fosse dimenticato  
 Tell — questo Giorno perdura  
 Rubicondo come quella Mela coeva  
-Che la [[Tradition|Tradizione]] reca —  
+Che la [[concepts/tradition|Tradizione]] reca —  
 
 Fresca come l'Umanità quell'umile storia  
 Benché un più solenne Racconto  
@@ -674,23 +674,23 @@ A stento prevarrebbe —
 
 Tell aveva un figlio — Chi lo sapeva  
 Non deve attardarsi qui —  
-Chi non sapeva all'Umana [[Nature|Natura]]  
+Chi non sapeva all'Umana [[concepts/nature|Natura]]  
 Sottoscriverà una Lacrima —  
 
 Tell non volle scoprirsi il Capo  
 In Presenza  
 Del Cappello Ducale —  
-Minacciato per ciò di [[Death|Morte]] — da Gessler —  
+Minacciato per ciò di [[motifs/death|Morte]] — da Gessler —  
 La Tirannia escogitò  
 
 Di fare del suo unico Ragazzo un Bersaglio  
-Che sorpassa la [[Death|Morte]] —  
-Impassibile alla suprema supplica dell'[[Love|Amore]]  
-Non abbandonato dalla [[Faith|Fede]] —  
+Che sorpassa la [[motifs/death|Morte]] —  
+Impassibile alla suprema supplica dell'[[motifs/love|Amore]]  
+Non abbandonato dalla [[concepts/faith|Fede]] —  
 
-Implorando la [[Mercy|Misericordia]] dell'Onnipotente —  
+Implorando la [[concepts/mercy|Misericordia]] dell'Onnipotente —  
 Tell la sua Freccia scagliò —  
-[[God|Dio]] si dice risponde in Persona  
+[[characters/god|Dio]] si dice risponde in Persona  
 Quando il grido è sincero —
 
 
@@ -700,7 +700,7 @@ Quando il grido è sincero —
 
 There's the Battle of Burgoyne —  
 Over, every Day,  
-By the [[Time]] that Man and Beast  
+By the [[motifs/time|Time]] that Man and Beast  
 Put their work away  
 "Sunset" sounds majestic —  
 But that solemn War  
@@ -712,7 +712,7 @@ You would chastened stare —
 
 Ecco la Battaglia di Burgoyne —  
 Finita, ogni Giorno,  
-Per il [[Time|Tempo]] in cui Uomo e Bestia  
+Per il [[motifs/time|Tempo]] in cui Uomo e Bestia  
 Ripongono il loro lavoro  
 "Tramonto" suona maestoso —  
 Ma quella Guerra solenne  
@@ -729,10 +729,10 @@ Till we are asked to rise
 And then if we are true to plan  
 Our statures touch the skies —  
 
-The [[Heroism]] we recite  
+The [[concepts/heroism|Heroism]] we recite  
 Would be a normal thing  
 Did not ourselves the Cubits warp  
-For [[Fear|fear]] to be a [[King]] —
+For [[concepts/fear|fear]] to be a [[archetypes/king|King]] —
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -742,10 +742,10 @@ Finché non ci è chiesto di alzarci
 E allora se siamo fedeli al disegno  
 Le nostre stature toccano i cieli —  
 
-L'[[Heroism|Eroismo]] che recitiamo  
+L'[[concepts/heroism|Eroismo]] che recitiamo  
 Sarebbe cosa normale  
 Se noi stessi non torcessimo i Cubiti  
-Per [[Fear|paura]] d'essere un [[King|Re]] —
+Per [[concepts/fear|paura]] d'essere un [[archetypes/king|Re]] —
 
 
 
@@ -753,7 +753,7 @@ Per [[Fear|paura]] d'essere un [[King|Re]] —
 
 
 My Triumph lasted till the Drums  
-Had left the Dead [[Alone|alone]]  
+Had left the Dead alone  
 And then I dropped my Victory  
 And chastened stole along  
 To where the finished Faces  
@@ -774,7 +774,7 @@ Is nothing to the Dead.
 <span class="qlang-split" data-lang="it"></span>
 
 Il mio Trionfo durò finché i Tamburi  
-Ebbero lasciato i Morti [[Alone|soli]]  
+Ebbero lasciato i Morti soli  
 E allora deposi la mia Vittoria  
 E castigata avanzai furtiva  
 Fin dove i Volti compiuti  
@@ -802,7 +802,7 @@ The seed of disappointment grew
 Within a capsule gay,  
 Too distant to arrest the feet  
 That walk this plank of balm —  
-Before them lies escapeless [[Sea|sea]] —  
+Before them lies escapeless [[motifs/sea|sea]] —  
 The way is closed they came.
 
 
@@ -814,7 +814,7 @@ Il seme della delusione crebbe
 Dentro una capsula gaia,  
 Troppo distante per fermare i piedi  
 Che percorrono quest'asse di balsamo —  
-Davanti a loro giace un [[Sea|mare]] senza scampo —  
+Davanti a loro giace un [[motifs/sea|mare]] senza scampo —  
 Chiusa è la via da cui vennero.
 
 
@@ -834,7 +834,7 @@ To Speculation's Son —
 
 The Heaven, in which we hoped to pause  
 When Discipline was done  
-Untenable to [[logic|Logic]]  
+Untenable to Logic  
 But possibly the one —
 
 
@@ -852,7 +852,7 @@ Al Figlio della Speculazione —
 
 Il Cielo, in cui speravamo sostare  
 Finita la Disciplina  
-Insostenibile alla [[logic|Logica]]  
+Insostenibile alla Logica  
 Ma forse l'unico —
 
 
@@ -865,7 +865,7 @@ Her triple suit as sweet
 As when 'twas cut at Lexington,  
 And first pronounced "a fit."  
 
-Great Britain disapproves, "the [[Stars|stars]]";  
+Great Britain disapproves, "the [[motifs/stars|stars]]";  
 Disparagement discreet, —  
 There's something in their attitude  
 That taunts her bayonet.
@@ -878,7 +878,7 @@ Il suo triplice abito dolce
 Come quando fu tagliato a Lexington,  
 E per la prima volta dichiarato "su misura."  
 
-La Gran Bretagna disapprova, "le [[Stars|stelle]]";  
+La Gran Bretagna disapprova, "le [[motifs/stars|stelle]]";  
 Denigrazione discreta, —  
 C'è qualcosa nel loro contegno  
 Che ne schernisce la baionetta.
@@ -892,8 +892,8 @@ Che ne schernisce la baionetta.
 To whom — is specified —  
 Not murmur — not endearment —  
 But simply — we — obeyed —  
-Obeyed — a Lure — a [[Longing]]?  
-Oh [[Nature]] — none of this —  
+Obeyed — a Lure — a [[concepts/longing|Longing]]?  
+Oh [[concepts/nature|Nature]] — none of this —  
 To Law — said sweet Thermopylae  
 I give my dying Kiss —
 
@@ -904,8 +904,8 @@ I give my dying Kiss —
 A chi — è specificato —  
 Non mormorio — non tenerezza —  
 Ma semplicemente — noi — obbedimmo —  
-Obbedimmo — a un'Esca — a una [[Longing|Brama]]?  
-Oh [[Nature|Natura]] — niente di questo —  
+Obbedimmo — a un'Esca — a una [[concepts/longing|Brama]]?  
+Oh [[concepts/nature|Natura]] — niente di questo —  
 Alla Legge — disse la dolce Termopili  
 Io do il mio Bacio morente —
 
@@ -916,12 +916,22 @@ Io do il mio Bacio morente —
 
 DEAR CHILDREN,—You have done more for me—'tis least that I can do, to tell you of brave Frazer—“killed at Newbern,” darlings. His big heart shot away by a “Minie ball.”
 
-I had read of those—I didn't think that Frazer would carry one to Eden with him. Just as he fell, in his soldier's cap, with his sword at his side, Frazer rode through Amherst. Classmates to the right of him, and classmates to the left of him, to guard his narrow face! He fell by the side of Professor dark, his superior officer—lived ten minutes in a soldier's arms, asked twice for [[Water|water]]—murmured just, “My [[God]]!” and passed! Sanderson, his classmate, made a box of boards in the [[Night|night]], put the brave boy in, covered with a blanket, rowed six [[Miles|miles]] to reach the boat,—so poor Frazer came. They tell that Colonel Clark cried like a little [[Child|child]] when he missed his pet, and could hardly resume his post. They loved each other very much. Nobody here could look on Frazer—not even his father. The doctors would not allow it.
+I had read of those—I didn't think that Frazer would carry one to Eden with him. Just as he fell, in his soldier's cap, with his sword at his side, Frazer rode through Amherst. Classmates to the right of him, and classmates to the left of him, to guard his narrow face! He fell by the side of Professor dark, his superior officer—lived ten minutes in a soldier's arms, asked twice for [[motifs/water|water]]—murmured just, “My [[characters/god|God]]!” and passed! Sanderson, his classmate, made a box of boards in the [[motifs/night|night]], put the brave boy in, covered with a blanket, rowed six [[characters/miles|miles]] to reach the boat,—so poor Frazer came. They tell that Colonel Clark cried like a little [[archetypes/child|child]] when he missed his pet, and could hardly resume his post. They loved each other very much. Nobody here could look on Frazer—not even his father. The doctors would not allow it.
 
-The bed on which he came was enclosed in a large casket shut entirely, and covered from head to foot with the sweetest [[Flowers|flowers]]. He went to [[Sleep|sleep]] from the village church. Crowds came to tell him good-[[Night|night]], choirs sang to him, pastors told how brave he was—early-soldier heart. And the [[Family|family]] bowed their heads, as the reeds the [[Wind|wind]] shakes.
+The bed on which he came was enclosed in a large casket shut entirely, and covered from head to foot with the sweetest [[motifs/flowers|flowers]]. He went to [[motifs/sleep|sleep]] from the village church. Crowds came to tell him good-[[motifs/night|night]], choirs sang to him, pastors told how brave he was—early-soldier heart. And the [[concepts/family|family]] bowed their heads, as the reeds the [[motifs/wind|wind]] shakes.
 
-So our part in Frazer is done, but you must come next [[Summer|summer]], and we will mind ourselves of this young crusader —too brave that he could [[Fear|fear]] to die. We will play his tunes—maybe he can hear them; we will try to comfort his broken-hearted Ella, who, as the clergyman said, “gave him peculiar confidence.”. . . Austin is stunned completely. Let us [[Love|love]] better, children, it's most that's left to do.
+So our part in Frazer is done, but you must come next [[motifs/summer|summer]], and we will mind ourselves of this young crusader —too brave that he could [[concepts/fear|fear]] to die. We will play his tunes—maybe he can hear them; we will try to comfort his broken-hearted Ella, who, as the clergyman said, “gave him peculiar confidence.”. . . Austin is stunned completely. Let us [[motifs/love|love]] better, children, it's most that's left to do.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Cari bambini, —avete fatto molto per me; è almeno questo che posso fare: raccontarvi della nobile figura di Frazer, che è morto a Newbern. Il suo grande cuore è stato distrutto da una pallottola.
+
+Ne avevo letto parlare. Non pensavo che Frazer portasse con sé una cosa del genere in Eden. Proprio mentre cadeva, con il suo berretto da soldato e la spada al fianco, Frazer passò attraverso Amherst. Compagni di classe a destra e a sinistra, per proteggere quel suo volto stretto. Cadde accanto al Professor Dark, il suo superiore. Visse dieci minuti tra le braccia di un soldato, chiese due volte dell’acqua. Mormorò solo: “Il mio Dio, ” e poi morì. Sanderson, il suo compagno di classe, costruì una bara di assi di legno quella notte, vi mise il ragazzo coraggioso, lo coprì con una coperta e remò per sei miglia per raggiungere la barca. Povero Frazer. Si dice che il Colonnello Clark abbia pianto come un bambino quando ha perso il suo caro soldato. Non è riuscito nemmeno a riprendere il proprio incarico. Si volevano molto bene. Nessuno qui poteva guardare Frazer. Nemmeno suo padre. I medici non lo permettevano.
+
+Il letto su cui giunse era racchiuso in un grande feretro completamente chiuso, e coperto dalla testa ai piedi con le più dolci [[motifs/flowers|fiori]]. Andò a [[motifs/sleep|)dormire]] dalla chiesa del villaggio. Le folle vennero a augurargli la buona [[motifs/night|NOTTE]], i cori cantarono per lui, i pastori raccontarono quanto fosse coraggioso, un cuore da soldato. E la sua [[concepts/family|famiglia]] chinò il capo, proprio come le canne che il [[motifs/wind|vento]] scuote.
+
+So che il nostro compito in “Frazer” è finito, ma dovete venire il prossimo [[motifs/summer|estate]], e ci occuperemo di questo giovane crociato, troppo coraggioso per poter  temere la morte. Suoneremo le sue canzoni; forse lui riuscirà a sentirle. Cercheremo anche di consolare sua Ella, il cui cuore è spezzato. Come ha detto il prete, “lei gli aveva un'affetto particolare”. Austin è completamente sbalordito. Amiamo di più, bambini. Questo è ciò che ci resta da fare.
 
 
 
@@ -930,14 +940,26 @@ So our part in Frazer is done, but you must come next [[Summer|summer]], and we 
 
 I said I should come “in a day.” Emily never fails except for a cause; that you know, dear L——.
 
-The nights turned hot, when Vinnie had gone, and I must keep no [[Window|window]] raised for [[Fear|fear]] of prowling “booger,” and I must shut my [[Door|door]] for [[Fear|fear]] front [[Door|door]] slide open on me at the “dead of [[Night|night]],” and I must keep “gas” burning to light the danger up, so I could distinguish it—these gave me a snarl in the brain which don't unravel yet, and that old nail in my breast pricked me; these, dear, were my cause. [[Truth]] is so best of all I wanted you to know. Vinnie will tell of her visit. . . .
+The nights turned hot, when Vinnie had gone, and I must keep no [[motifs/window|window]] raised for [[concepts/fear|fear]] of prowling “booger,” and I must shut my [[motifs/door|door]] for [[concepts/fear|fear]] front [[motifs/door|door]] slide open on me at the “dead of [[motifs/night|night]],” and I must keep “gas” burning to light the danger up, so I could distinguish it—these gave me a snarl in the brain which don't unravel yet, and that old nail in my breast pricked me; these, dear, were my cause. [[concepts/truth|Truth]] is so best of all I wanted you to know. Vinnie will tell of her visit. . . .
 
-About Commencement, children, I can have no [[Doubt|doubt]], if you should fail me then, my little life would fail of itself. Could you only lie in your little bed and smile at me, that would be support. Tell the doctor I am inexorable, besides I shall heal you quicker than he. You need the balsam. And who is to cut the cake, ask F——, and chirp to those trustees? Tell me, dears, by the coming mail, that you will not fail me. . . .
+About Commencement, children, I can have no [[concepts/doubt|doubt]], if you should fail me then, my little life would fail of itself. Could you only lie in your little bed and smile at me, that would be support. Tell the doctor I am inexorable, besides I shall heal you quicker than he. You need the balsam. And who is to cut the cake, ask F——, and chirp to those trustees? Tell me, dears, by the coming mail, that you will not fail me. . . .
 
-Jennie Hitchcock's mother was buried yesterday, so there is one [[Orphan|orphan]] more, and her father is very sick besides. My father and mother went to the service, and mother said while the minister prayed, a hen with her chickens came up, and tried to fly into the [[Window|window]]. I suppose the dead lady used to feed them, and they wanted to bid her good-by.
+Jennie Hitchcock's mother was buried yesterday, so there is one [[archetypes/orphan|orphan]] more, and her father is very sick besides. My father and mother went to the service, and mother said while the minister prayed, a hen with her chickens came up, and tried to fly into the [[motifs/window|window]]. I suppose the dead lady used to feed them, and they wanted to bid her good-by.
 
-Life is [[Death|death]] we're lengthy at, [[Death]] the hinge to life.
+Life is [[motifs/death|death]] we're lengthy at, [[motifs/death|Death]] the hinge to life.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Ho detto che sarei venuto “entro un giorno”. Emily non fallisce mai, tranne per una ragione particolare. Lo sai, caro L———.
+
+Le notti diventavano sempre più calde, dopo che Vinnie se n'era andata. Non potevo lasciare nessuna finestra aperta, per paura che quei “tipi sospetti” facessero irruzione. Dovevo chiudere a chiave la porta, per non rischiare che si aprisse durante la notte. E dovevo tenere sempre accesa la luce, per poter vedere eventuali pericoli. Tutto questo mi causava continue preoccupazioni. Quel vecchio dolore nel petto continuava a tormentarmi. Queste erano le mie ragioni. La [[concepts/truth|verità]], è proprio ciò che volevo che tu sapessi. Vinnie ti racconterà della sua visita.
+
+Riguardo alla cerimonia di laurea, bambini, non posso avere alcun [[concepts/doubt|dubbio]]: se mi deludeste in quel momento, anche la mia piccola vita finirebbe. Se solo poteste stare nei vostri letti e sorridermi, quello sarebbe già un grande sostegno per me. Dite al dottore che sono inflessibile; inoltre, vi guarirò più velocemente di lui. Avete bisogno di quel balsamo. E chi dovrà tagliare la torta? Chiedetelo a F—— e sorridete a quei fiduciari. Ditemi, cari, con la prossima lettera, che non mi deluderete.
+
+Ieri è stata sepolta la madre di Jennie Hitchcock; quindi c’è un altro [[archetypes/orphan|orfano]], e inoltre suo padre è molto malato. Mio padre e mia madre sono andati al funerale, e mia madre ha detto che mentre il pastore pregava, una gallina con i suoi pulcini si è avvicinata e ha cercato di volare dentro la [[motifs/window|finestra]]. Immagino che la signora defunta li nutrisse, e loro volessero salutarla un’ultima volta.
+
+La vita è la [[motifs/death|morte]] che viviamo per un lungo periodo; la [[motifs/death|morte]], invece, è l’elemento che collega la vita stessa.
 
 
 
@@ -946,16 +968,35 @@ Life is [[Death|death]] we're lengthy at, [[Death]] the hinge to life.
 
 The dear ones will excuse—they knew there was a cause. Emily was sick, and Vinnie's middle name restrained her loving pen.
 
-These are my first words since I left my pillow—that will make them faithful, although so long withheld. We had another [[Fire|fire]]—it was in Phoenix Row, Monday a week ago, at two in the [[Night|night]]. The horses were harnessed to move. the office—Austin's office, I mean. After a [[Night|night]] of terror, we went to [[Sleep|sleep]] for a few moments, and I could not rise. The others bore it better. The brook from Pelham saved the town. The [[Wind|wind]] was blowing so, it carried the burning shingles as far as Tom's piazza. We are weak and grateful. The [[Fire|fire]]-[[Bells|bells]] are oftener now, almost, than the church-[[Bells|bells]]. Thoreau would [[Wonder|wonder]] which did the most harm.
+These are my first words since I left my pillow—that will make them faithful, although so long withheld. We had another [[motifs/fire|fire]]—it was in Phoenix Row, Monday a week ago, at two in the [[motifs/night|night]]. The horses were harnessed to move. the office—Austin's office, I mean. After a [[motifs/night|night]] of terror, we went to [[motifs/sleep|sleep]] for a few moments, and I could not rise. The others bore it better. The brook from Pelham saved the town. The [[motifs/wind|wind]] was blowing so, it carried the burning shingles as far as Tom's piazza. We are weak and grateful. The [[motifs/fire|fire]]-[[motifs/bells|bells]] are oftener now, almost, than the church-[[motifs/bells|bells]]. Thoreau would [[concepts/wonder|wonder]] which did the most harm.
 
-The little gifts came sweetly. The bulbs are in the sod—the seeds in homes of paper till the [[Sun|sun]] calls them. It is snowing now. . . . “Fine sleighing we have this [[Summer|summer]],” says Austin with a scoff. The box of dainty ones—I don't know what they were, buttons of spice for coats of honey —pleased the weary mother. Thank you each for all.
+The little gifts came sweetly. The bulbs are in the sod—the seeds in homes of paper till the [[motifs/sun|sun]] calls them. It is snowing now. . . . “Fine sleighing we have this [[motifs/summer|summer]],” says Austin with a scoff. The box of dainty ones—I don't know what they were, buttons of spice for coats of honey —pleased the weary mother. Thank you each for all.
 
-The beautiful words for which L——asked were that genius is the ignition of affection—not intellect, as is supposed, —the exaltation of devotion, and in proportion to our capacity for that, is our experience of genius. Precisely as they were uttered I cannot give them, they were in a [[Letter|letter]] that I do not find, but the suggestion was this.
+The beautiful words for which L——asked were that genius is the ignition of affection—not intellect, as is supposed, —the exaltation of devotion, and in proportion to our capacity for that, is our experience of genius. Precisely as they were uttered I cannot give them, they were in a [[forms/letter|letter]] that I do not find, but the suggestion was this.
 
-It is startling to think that the lips, which are keepers of thoughts so magical, yet at any moment are subject to the seclusion of [[Death|death]].
+It is startling to think that the lips, which are keepers of thoughts so magical, yet at any moment are subject to the seclusion of [[motifs/death|death]].
 
 . . . I must leave you, dear, to come perhaps again,—
 
-We never know we go—when we are going We jest and shut the [[Door|door]]— Fate following behind us bolts it And we accost no more.
+We never know we go—when we are going We jest and shut the [[motifs/door|door]]— Fate following behind us bolts it And we accost no more.
 
-I give you my parting [[Love|love]].
+I give you my parting [[motifs/love|love]].
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Gli affetti cari perdoneranno, sapevano che c’era una ragione. Emily era malata, e il secondo nome di Vinnie impediva alla sua penna piena d’amore di scrivere liberamente.
+
+Queste sono le mie prime parole da quando ho lasciato il mio cuscino, il che le rende “fedeli”, anche se a lungo trattenute. Ci è stato un altro [[motifs/fire|incendio]]: è avvenuto in Phoenix Row, lunedì di una settimana fa, alle due di [[motifs/night|notte]]. I cavalli erano già attaccati per essere utilizzati nelle operazioni di spegnimento. L’ufficio, intendo dire l’ufficio di Austin. Dopo una notte di terrore, siamo riusciti a dormire per qualche momento, ma io non sono più riuscito a alzarmi. Gli altri se la sono cavata meglio. Il ruscello di Pelham ha salvato la città. Il [[motifs/wind|vento]] soffiava così forte che portava via le assi in fiamme fino alla piazza di Tom. Siamo deboli, ma grati. Ora i suoni delle campane d’allarme per gli incendi risuonano quasi più spesso dei rintocchi delle campane della chiesa. Thoreau si sarebbe chiesto quale dei due fenomeni avesse causato il maggior danno.
+
+I piccoli regali arrivarono dolcemente. I bulbi sono nascosti nella terra; i semi, invece, rimangono nelle case di carta fino a quando il [[motifs/sun|sole]] non li chiamerà a germogliare. Ora sta nevicando, “Quest’estate avremo ottime condizioni per andare in slitta,” dice Austin con disprezzo. La scatola piena di quei piccoli oggetti – non so cosa fossero, forse bottoncini profumati da aggiungere ai vestiti di miele – rallegrò la madre stanca. Grazie a tutti voi per tutto.
+
+Le belle parole che L——chiese erano queste: il genio è l’accensione dell’affetto, non dell’intelletto, come si crede comunemente; è l’esaltazione della devozione, e in proporzione alla nostra capacità di provare tale affetto e devozione, è anche la nostra esperienza del genio. Non posso riprodurle esattamente così come furono pronunciate, poiché si trovavano in una [[forms/letter|lettera]] che non riesco più a trovare; tuttavia, il concetto principale era proprio questo.
+
+È sorprendente pensare che le labbra, che custodiscono pensieri così magici, possano in qualsiasi momento essere separate per sempre dalla vita, a causa della [[motifs/death|morte]].
+
+. Devo lasciarti, caro… forse tornerò ancora.
+
+Non sappiamo mai quando partiremo; mentre ci prepariamo per andare, scherziamo e chiudiamo la [[motifs/door|porta]]. Ma il Fato, che ci segue da vicino, la chiude a chiave, e poi non possiamo più comunicare con il mondo esterno.
+
+Ti dono il mio amore d’addio.

@@ -17,19 +17,19 @@ tags:
 
 Produced by Marc D'Hooghe  
 
-[[Poems|POEMS]]  
+POEMS  
 
 by  
 
 G.K. CHESTERTON  
 
-[[New York|NEW YORK]]  
+[[settings/new-york|NEW YORK]]  
 
 1916  
 
 BY THE SAME AUTHOR  
 
-The Napoleon of Notting [[Hill]]: A [[Romance]]. With illustrations by Graham  
+The Napoleon of Notting [[motifs/hill|Hill]]: A [[works/romance-(poe)|Romance]]. With illustrations by Graham  
 
 Robertson.  
 
@@ -39,35 +39,35 @@ Orthodoxy.
 
 All Things Considered.  
 
-George Bernard [[Shaw]]. An illustrated [[Biography|biography]].  
+George Bernard [[works/shaw-(chesterton)|Shaw]]. An illustrated [[forms/biography|biography]].  
 
-The Ball and the [[Cross]].  
+The Ball and the [[motifs/cross|Cross]].  
 
-The Ballad of the White [[Horse]].  
+The Ballad of the White [[motifs/horse|Horse]].  
 
-The [[innocence|Innocence]] of [[Father Brown]]. Illustrated.  
+The Innocence of [[characters/father-brown|Father Brown]]. Illustrated.  
 
-The Wisdom of [[Father Brown]].  
+The Wisdom of [[characters/father-brown|Father Brown]].  
 
-[[manalive|Manalive]].  
+Manalive.  
 
 The Flying Inn.  
 
-JOHN LANE COMPANY PUBLISHERS [[New York|NEW YORK]]  
+JOHN LANE COMPANY PUBLISHERS [[settings/new-york|NEW YORK]]  
 
 CONTENTS  
 
 THREE DEDICATIONS  
 
-TO [[Edmund|EDMUND]] CLERIHEW BENTLEY  
+TO [[characters/edmund|EDMUND]] CLERIHEW BENTLEY  
 
 TO HILAIRE BELLOC  
 
 TO M. E. W.  
 
-WAR [[Poems|POEMS]]  
+WAR POEMS  
 
-[[lepanto|LEPANTO]]  
+LEPANTO  
 
 THE MARCH OF THE BLACK MOUNTAIN 1913  
 
@@ -77,17 +77,17 @@ THE WIFE OF FLANDERS
 
 THE CRUSADER RETURNS FROM CAPTIVITY  
 
-[[Love|LOVE]] [[Poems|POEMS]]  
+[[motifs/love|LOVE]] POEMS  
 
 GLENCOE  
 
-[[Love|LOVE]]'S TRAPPIST  
+[[motifs/love|LOVE]]'S TRAPPIST  
 
 CONFESSIONAL  
 
 MUSIC  
 
-THE [[deluge|DELUGE]]  
+THE DELUGE  
 
 THE STRANGE MUSIC  
 
@@ -95,33 +95,33 @@ THE GREAT MINIMUM
 
 THE MORTAL ANSWERS  
 
-A [[Marriage|MARRIAGE]] [[Song|SONG]]  
+A [[motifs/marriage|MARRIAGE]] SONG  
 
 BAY COMBE  
 
-RELIGIOUS [[Poems|POEMS]]  
+RELIGIOUS POEMS  
 
 THE WISE MEN  
 
-THE [[house|HOUSE]] OF CHRISTMAS  
+THE HOUSE OF CHRISTMAS  
 
-A [[Song|SONG]] OF GIFTS TO GOD  
+A SONG OF GIFTS TO GOD  
 
 THE KINGDOM OF HEAVEN  
 
-A [[Hymn|HYMN]] FOR THE CHURCH MILITANT  
+A [[forms/hymn|HYMN]] FOR THE CHURCH MILITANT  
 
 THE BEATIFIC VISION  
 
 THE TRUCE OF CHRISTMAS  
 
-A [[Hymn|HYMN]]  
+A [[forms/hymn|HYMN]]  
 
-A CHRISTMAS [[Song|SONG]] FOR THREE GUILDS  
+A CHRISTMAS SONG FOR THREE GUILDS  
 
 THE NATIVITY  
 
-A [[Child|CHILD]] OF THE SNOWS  
+A [[archetypes/child|CHILD]] OF THE SNOWS  
 
 A WORD  
 
@@ -133,39 +133,39 @@ THE REVOLUTIONIST, OR LINES TO A STATESMAN
 
 THE SHAKESPEARE MEMORIAL  
 
-THE HORRIBLE [[history|HISTORY]] OF [[Jones|JONES]]  
+THE HORRIBLE [[concepts/history|HISTORY]] OF [[characters/jones|JONES]]  
 
 THE NEW FREETHINKER  
 
 IN MEMORIAM P.D.  
 
-[[Sonnet|SONNET]] WITH THE COMPLIMENTS OF THE SEASON  
+[[forms/sonnet|SONNET]] WITH THE COMPLIMENTS OF THE SEASON  
 
-A [[Song|SONG]] OF SWORDS  
+A SONG OF SWORDS  
 
-A [[Song|SONG]] OF DEFEAT  
+A SONG OF DEFEAT  
 
-[[Sonnet|SONNET]]  
+[[forms/sonnet|SONNET]]  
 
 AFRICA  
 
-THE DEAD [[Hero|HERO]]  
+THE DEAD [[archetypes/hero|HERO]]  
 
 AN ELECTION ECHO  
 
-THE [[Song|SONG]] OF THE WHEELS  
+THE SONG OF THE WHEELS  
 
 THE SECRET PEOPLE  
 
-MISCELLANEOUS [[Poems|POEMS]]  
+MISCELLANEOUS POEMS  
 
 LOST  
 
 BALLAD OF THE SUN  
 
-[[Translation|TRANSLATION]] FROM DU BELLAY  
+[[forms/translation|TRANSLATION]] FROM DU BELLAY  
 
-THE HIGHER [[unity|UNITY]]  
+THE HIGHER UNITY  
 
 THE EARTH'S VIGIL  
 
@@ -173,19 +173,19 @@ ON RIGHTEOUS INDIGNATION
 
 WHEN I CAME BACK TO FLEET STREET  
 
-A CIDER [[Song|SONG]]  
+A CIDER SONG  
 
-THE LAST [[Hero|HERO]]  
+THE LAST [[archetypes/hero|HERO]]  
 
 BALLADES  
 
 BALLADE D'UNE GRANDE DAME  
 
-A BALLADE OF AN [[anti-puritan|ANTI-PURITAN]]  
+A BALLADE OF AN ANTI-PURITAN  
 
 A BALLADE OF A BOOK-REVIEWER  
 
-A BALLADE OF [[suicide|SUICIDE]]  
+A BALLADE OF [[concepts/suicide|SUICIDE]]  
 
 A BALLADE OF THE FIRST RAIN  
 
@@ -193,33 +193,33 @@ I
 
 THREE DEDICATIONS  
 
-TO [[Edmund|EDMUND]] CLERIHEW BENTLEY  
+TO [[characters/edmund|EDMUND]] CLERIHEW BENTLEY  
 
 THE DEDICATION OF _THE MAN WHO WAS THURSDAY_  
 
 A cloud was on the mind of men, and wailing went the weather,  
 
-Yea, a sick cloud upon the [[Soul|soul]] when we were boys together.  
+Yea, a sick cloud upon the [[motifs/soul|soul]] when we were boys together.  
 
-Science announced nonentity and art admired [[Decay|decay]];  
+Science announced nonentity and art admired [[motifs/decay|decay]];  
 
 The world was old and ended: but you and I were gay.  
 
 Round us in antic order their crippled vices came--  
 
-Lust that had lost its laughter, [[Fear|fear]] that had lost its shame.  
+Lust that had lost its laughter, [[concepts/fear|fear]] that had lost its shame.  
 
 Like the white lock of Whistler, that lit our aimless gloom,  
 
 Men showed their own white feather as proudly as a plume.  
 
-Life was a fly that faded, and [[Death|death]] a drone that stung;  
+Life was a fly that faded, and [[motifs/death|death]] a drone that stung;  
 
 The world was very old indeed when you and I were young.  
 
 They twisted even decent sin to shapes not to be named:  
 
-Men were ashamed of [[Honour|honour]]; but we were not ashamed.  
+Men were ashamed of [[concepts/honour|honour]]; but we were not ashamed.  
 
 Weak if we were and foolish, not thus we failed, not thus;  
 
@@ -231,7 +231,7 @@ High as they went we piled them up to break that bitter sea.
 
 Fools as we were in motley, all jangling and absurd,  
 
-When all church [[Bells|bells]] were silent our cap and [[Bells|bells]] were heard.  
+When all church [[motifs/bells|bells]] were silent our cap and [[motifs/bells|bells]] were heard.  
 
 Not all unhelped we held the fort, our tiny flags unfurled;  
 
@@ -243,11 +243,11 @@ Far out of fish-shaped Paumanok some cry of cleaner things;
 
 And the Green Carnation withered, as in forest fires that pass,  
 
-Roared in the [[Wind|wind]] of all the world ten million [[Leaves|leaves]] of grass;  
+Roared in the [[motifs/wind|wind]] of all the world ten million [[motifs/leaves|leaves]] of grass;  
 
 Or sane and sweet and sudden as a bird sings in the rain  
 
-[[Truth]] out of Tusitala spoke and pleasure out of [[Pain|pain]].  
+[[concepts/truth|Truth]] out of Tusitala spoke and pleasure out of [[motifs/pain|pain]].  
 
 Yea, cool and clear and sudden as a bird sings in the grey,  
 
@@ -257,7 +257,7 @@ But we were young; we lived to see God break their bitter charms,
 
 God and the good Republic come riding back in arms:  
 
-We have seen the [[City|city]] of Mansoul, even as it rocked, relieved--Blessed  
+We have seen the [[motifs/city|city]] of Mansoul, even as it rocked, relieved--Blessed  
 
 are they who did not see, but being blind, believed.  
 
@@ -267,21 +267,21 @@ And none but you shall understand the true thing that it tells--
 
 Of what colossal gods of shame could cow men and yet crash,  
 
-Of what huge devils hid the [[Stars|stars]], yet fell at a [[Pistol|pistol]] flash.  
+Of what huge devils hid the [[motifs/stars|stars]], yet fell at a [[characters/pistol|pistol]] flash.  
 
 The doubts that were so plain to chase, so dreadful to withstand--  
 
 Oh, who shall understand but you; yea, who shall understand?  
 
-The doubts that drove us through the [[Night|night]] as we two talked amain,  
+The doubts that drove us through the [[motifs/night|night]] as we two talked amain,  
 
 And day had broken on the streets e'er it broke upon the brain.  
 
-Between us, by the peace of God, such [[Truth|truth]] can now be told;  
+Between us, by the peace of God, such [[concepts/truth|truth]] can now be told;  
 
 Yea, there is strength in striking root, and good in growing old.  
 
-We have found common things at last, and [[Marriage|marriage]] and a creed.  
+We have found common things at last, and [[motifs/marriage|marriage]] and a creed.  
 
 And I may safely write it now, and you may safely read.  
 
@@ -291,21 +291,21 @@ THE DEDICATION OF _THE NAPOLEON OF NOTTING HILL_
 
 For every tiny town or place  
 
-God made the [[Stars|stars]] especially;  
+God made the [[motifs/stars|stars]] especially;  
 
 Babies look up with owlish face  
 
 And see them tangled in a tree:  
 
-You saw a [[Moon|moon]] from Sussex Downs,  
+You saw a [[motifs/moon|moon]] from Sussex Downs,  
 
-A Sussex [[Moon|moon]], untravelled still,  
+A Sussex [[motifs/moon|moon]], untravelled still,  
 
-I saw a [[Moon|moon]] that was the town's,  
+I saw a [[motifs/moon|moon]] that was the town's,  
 
-The largest lamp on Campden [[Hill]].  
+The largest lamp on Campden [[motifs/hill|Hill]].  
 
-Yea, Heaven is everywhere at [[Home|home]].  
+Yea, Heaven is everywhere at [[motifs/home|home]].  
 
 The big blue cap that always fits,  
 
@@ -327,7 +327,7 @@ Where an immortal England sits--
 
 Nor where your tall young men in turn  
 
-Drank [[Death|death]] like wine at Austerlitz.  
+Drank [[motifs/death|death]] like wine at Austerlitz.  
 
 And when the pedants bade us mark  
 
@@ -343,15 +343,15 @@ These sulky levels smooth and free,
 
 The drums shall crash a waltz of war  
 
-And [[Death]] shall [[Dance|dance]] with Liberty;  
+And [[motifs/death|Death]] shall [[motifs/dance|dance]] with Liberty;  
 
 Likelier the barricades shall blare  
 
 Slaughter below and smoke above,  
 
-And [[Death|death]] and hate and hell declare  
+And [[motifs/death|death]] and hate and hell declare  
 
-That men have found a thing to [[Love|love]].  
+That men have found a thing to [[motifs/love|love]].  
 
 Far from your sunny uplands set  
 
@@ -361,13 +361,13 @@ The lit straight streets shot out and met
 
 The starry streets that point to God;  
 
-The legend of an [[Epic|epic]] hour  
+The legend of an [[forms/epic|epic]] hour  
 
-A [[Child|child]] I dreamed, and dream it still,  
+A [[archetypes/child|child]] I dreamed, and dream it still,  
 
-Under the great grey [[Water|water]]-tower  
+Under the great grey [[motifs/water|water]]-tower  
 
-That strikes the [[Stars|stars]] on Campden [[Hill]]  
+That strikes the [[motifs/stars|stars]] on Campden [[motifs/hill|Hill]]  
 
 TO _M. E. W_.  
 
@@ -391,13 +391,13 @@ The pale leaf falls in pallor, but the green leaf turns to gold;
 
 We that have found it good to be young shall find it good to be old;  
 
-Life that bringeth the [[Marriage|marriage]] bell, the cradle and the [[Grave|grave]],  
+Life that bringeth the [[motifs/marriage|marriage]] bell, the cradle and the [[motifs/grave|grave]],  
 
 Life that is mean to the mean of heart, and only brave to the brave.  
 
-In the calm of the last white [[Winter|winter]], when all the past is ours,  
+In the calm of the last white [[motifs/winter|winter]], when all the past is ours,  
 
-Old [[Tears|tears]] are frozen as jewels, old storms frosted as [[Flowers|flowers]].  
+Old [[motifs/tears|tears]] are frozen as jewels, old storms frosted as [[motifs/flowers|flowers]].  
 
 Dear Lady, may we meet again, stand up again, we four,  
 
@@ -405,9 +405,9 @@ Beneath the burden of the years, and praise the earth once more.
 
 II  
 
-WAR [[Poems|POEMS]]  
+WAR POEMS  
 
-[[lepanto|LEPANTO]]  
+LEPANTO  
 
 White founts falling in the Courts of the sun,  
 
@@ -417,21 +417,21 @@ There is laughter like the fountains in that face of all men feared,
 
 It stirs the forest darkness, the darkness of his beard,  
 
-It curls the [[Blood|blood]]-red crescent, the crescent of his lips,  
+It curls the [[motifs/blood|blood]]-red crescent, the crescent of his lips,  
 
 For the inmost sea of all the earth is shake with his ships.  
 
-They have dared the white republics up the cape of [[Italy]],  
+They have dared the white republics up the cape of [[settings/italy|Italy]],  
 
-They have dashed the Adriatic round the [[Lion]] of the Sea,  
+They have dashed the Adriatic round the [[motifs/lion|Lion]] of the Sea,  
 
 And the Pope has cast his arms abroad for agony and loss,  
 
-And called the kings of Christendom for swords about the [[Cross]].  
+And called the kings of Christendom for swords about the [[motifs/cross|Cross]].  
 
-The cold [[Queen|queen]] of England is looking in the glass;  
+The cold [[characters/queen|queen]] of England is looking in the glass;  
 
-The [[Shadow|shadow]] of the Valois is yawning at the Mass;  
+The [[archetypes/shadow|shadow]] of the Valois is yawning at the Mass;  
 
 From evening isles fantastical rings faint the Spanish gun,  
 
@@ -449,15 +449,15 @@ The last and lingering troubadour to whom the bird has sung,
 
 That once went singing southward when all the world was young.  
 
-In that enormous [[Silence|silence]], tiny and unafraid,  
+In that enormous [[motifs/silence|silence]], tiny and unafraid,  
 
-Comes up along a winding [[Road|road]] the noise of the Crusade.  
+Comes up along a winding [[motifs/road|road]] the noise of the Crusade.  
 
 Strong gongs groaning as the guns boom far,  
 
-[[Don John of Austria]] is going to the war,  
+[[characters/don-john-of-austria|Don John of Austria]] is going to the war,  
 
-Stiff flags straining in the [[Night|night]]-blasts cold  
+Stiff flags straining in the [[motifs/night|night]]-blasts cold  
 
 In the gloom black-purple, in the glint old-gold,  
 
@@ -465,23 +465,23 @@ Torchlight crimson on the copper kettle-drums,
 
 Then the tuckets, then the trumpets, then the cannon, and he comes.  
 
-[[Don John]] laughing in the brave beard curled.  
+[[characters/don-john|Don John]] laughing in the brave beard curled.  
 
 Spuming of his stirrups like the thrones of all the world,  
 
-Holding his head up for a [[Flag|flag]] of all the free.  
+Holding his head up for a [[motifs/flag|flag]] of all the free.  
 
-[[Love]]-light of Spain--hurrah!  
+[[motifs/love|Love]]-light of Spain--hurrah!  
 
-[[Death]]-light of Africa!  
+[[motifs/death|Death]]-light of Africa!  
 
-[[Don John of Austria]]  
+[[characters/don-john-of-austria|Don John of Austria]]  
 
 Is riding to the sea.  
 
-Mahound is in his paradise above the [[Evening Star|evening star]],  
+Mahound is in his paradise above the evening star,  
 
-_([[Don John of Austria]] is going to the war.)_  
+_([[characters/don-john-of-austria|Don John of Austria]] is going to the war.)_  
 
 He moves a mighty turban on the timeless houri's knees,  
 
@@ -491,9 +491,9 @@ He shakes the peacock gardens as he rises from his ease,
 
 And he strides among the tree-tops and is taller than the trees,  
 
-And his voice through all the [[Garden|garden]] is a thunder sent to bring  
+And his voice through all the [[motifs/garden|garden]] is a thunder sent to bring  
 
-Black Azrael and [[Ariel]] and Ammon on the wing.  
+Black Azrael and [[characters/ariel|Ariel]] and Ammon on the wing.  
 
 Giants and the Genii,  
 
@@ -501,7 +501,7 @@ Multiplex of wing and eye,
 
 Whose strong obedience broke the sky  
 
-When Solomon was [[King|king]].  
+When Solomon was [[archetypes/king|king]].  
 
 They rush in red and purple from the red clouds of the morn,  
 
@@ -517,27 +517,27 @@ Splashed with a splendid sickness, the sickness of the pearl;
 
 They swell in sapphire smoke out of the blue cracks of the ground,--  
 
-They gather and they [[Wonder|wonder]] and give worship to Mahound.  
+They gather and they [[concepts/wonder|wonder]] and give worship to Mahound.  
 
-And he saith, "Break up the [[Mountains|mountains]] where the hermit-folk can hide,  
+And he saith, "Break up the [[settings/mountains|mountains]] where the hermit-folk can hide,  
 
 And sift the red and silver sands lest bone of saint abide,  
 
-And chase the Giaours flying [[Night|night]] and day, not giving rest,  
+And chase the Giaours flying [[motifs/night|night]] and day, not giving rest,  
 
 For that which was our trouble comes again out of the west.  
 
 We have set the seal of Solomon on all things under sun,  
 
-Of knowledge and of sorrow and [[Endurance|endurance]] of things done,  
+Of knowledge and of sorrow and [[concepts/endurance|endurance]] of things done,  
 
-But a noise is in 'the [[Mountains|mountains]], in the [[Mountains|mountains]], and I know  
+But a noise is in 'the [[settings/mountains|mountains]], in the [[settings/mountains|mountains]], and I know  
 
 The voice that shook our palaces--four hundred years ago:  
 
 It is he that saith not 'Kismet'; it is he that knows not Fate;  
 
-It is [[Richard]], it is Raymond, it is Godfrey in the gate!  
+It is [[characters/richard|Richard]], it is Raymond, it is Godfrey in the gate!  
 
 It is he whose loss is laughter when he counts the wager worth,  
 
@@ -545,19 +545,19 @@ Put down your feet upon him, that our peace be on the earth."
 
 For he heard drums groaning and he heard guns jar,  
 
-_([[Don John of Austria]] is going to the war.)_  
+_([[characters/don-john-of-austria|Don John of Austria]] is going to the war.)_  
 
 Sudden and still--hurrah!  
 
 Bolt from Iberia!  
 
-[[Don John of Austria]]  
+[[characters/don-john-of-austria|Don John of Austria]]  
 
 Is gone by Alcalar.  
 
-St. [[Michael]]'s on his Mountain in the sea-roads of the north  
+St. [[characters/michael|Michael]]'s on his Mountain in the sea-roads of the north  
 
-_([[Don John of Austria]] is girt and going forth.)_  
+_([[characters/don-john-of-austria|Don John of Austria]] is girt and going forth.)_  
 
 Where the grey seas glitter and the sharp tides shift  
 
@@ -565,21 +565,21 @@ And the sea-folk labour and the red sails lift.
 
 He shakes his lance of iron and he claps his wings of stone;  
 
-The noise is gone through Normandy; the noise is gone [[Alone|alone]];  
+The noise is gone through Normandy; the noise is gone alone;  
 
 The North is full of tangled things and texts and aching eyes  
 
-And dead is all the [[innocence]] of anger and surprise,  
+And dead is all the innocence of anger and surprise,  
 
 And Christian killeth Christian in a narrow dusty  
 
-And Christian dreadeth [[Christ]] that hath a newer face of doom,  
+And Christian dreadeth [[characters/christ|Christ]] that hath a newer face of doom,  
 
 And Christian hateth Mary that God kissed in Galilee,  
 
-But [[Don John of Austria]] is riding to the sea.  
+But [[characters/don-john-of-austria|Don John of Austria]] is riding to the sea.  
 
-[[Don John]] calling through the blast and the eclipse  
+[[characters/don-john|Don John]] calling through the blast and the eclipse  
 
 Crying with the trumpet, with the trumpet of his lips,  
 
@@ -587,19 +587,19 @@ Trumpet that sayeth ha!
 
 _Domino gloria_!  
 
-[[Don John of Austria]]  
+[[characters/don-john-of-austria|Don John of Austria]]  
 
 Is shouting to the ships.  
 
-[[King]] Philip's in his closet with the Fleece about his neck  
+[[archetypes/king|King]] Philip's in his closet with the Fleece about his neck  
 
-_([[Don John of Austria]] is armed upon the deck.)_  
+_([[characters/don-john-of-austria|Don John of Austria]] is armed upon the deck.)_  
 
 The walls are hung with velvet that is black and soft as sin,  
 
 And little dwarfs creep out of it and little dwarfs creep in.  
 
-He holds a crystal phial that has colours like the [[Moon|moon]],  
+He holds a crystal phial that has colours like the [[motifs/moon|moon]],  
 
 He touches, and it tingles, and he trembles very  
 
@@ -607,35 +607,35 @@ And his face is as a fungus of a leprous white and grey
 
 Like plants in the high houses that are shuttered from the day.  
 
-And [[Death|death]] is in the phial and the end of noble work,  
+And [[motifs/death|death]] is in the phial and the end of noble work,  
 
-But [[Don John of Austria]] has fired upon the Turk.  
+But [[characters/don-john-of-austria|Don John of Austria]] has fired upon the Turk.  
 
-[[Don John]]'s hunting, and his hounds have bayed--Booms  
+[[characters/don-john|Don John]]'s hunting, and his hounds have bayed--Booms  
 
-away past [[Italy]] the rumour of his raid.  
+away past [[settings/italy|Italy]] the rumour of his raid.  
 
 Gun upon gun, ha! ha!  
 
 Gun upon gun, hurrah!  
 
-[[Don John of Austria]]  
+[[characters/don-john-of-austria|Don John of Austria]]  
 
 Has loosed the cannonade.  
 
 The Pope was in his chapel before day or battle broke,  
 
-_([[Don John of Austria]] is hidden in the smoke.)_  
+_([[characters/don-john-of-austria|Don John of Austria]] is hidden in the smoke.)_  
 
-The hidden room in man's [[house]] where God sits all the year,  
+The hidden room in man's house where God sits all the year,  
 
-The secret [[Window|window]] whence the world looks small and very dear.  
+The secret [[motifs/window|window]] whence the world looks small and very dear.  
 
-He sees as in a [[Mirror|mirror]] on the monstrous twilight sea  
+He sees as in a [[motifs/mirror|mirror]] on the monstrous twilight sea  
 
 The crescent of his cruel ships whose name is mystery;  
 
-They fling great shadows foe-wards, making [[Cross]] and [[Castle]] dark,  
+They fling great shadows foe-wards, making [[motifs/cross|Cross]] and [[settings/castle|Castle]] dark,  
 
 They veil the plumed lions on the galleys of St. Mark;  
 
@@ -661,9 +661,9 @@ Where a yellow face looks inward through the lattice of his cell,
 
 And he finds his God forgotten, and he seeks no more a sign_(But  
 
-[[Don John of Austria]] has burst the battle-line!)_  
+[[characters/don-john-of-austria|Don John of Austria]] has burst the battle-line!)_  
 
-[[Don John]] pounding from the slaughter-painted poop,  
+[[characters/don-john|Don John]] pounding from the slaughter-painted poop,  
 
 Purpling all the ocean like a bloody pirate's sloop,  
 
@@ -679,21 +679,21 @@ _Vivat Hispania!_
 
 _Domino Gloria!_  
 
-[[Don John of Austria]]  
+[[characters/don-john-of-austria|Don John of Austria]]  
 
 Has set his people free!  
 
-Cervantes on his galley sets the [[Sword|sword]] back in the sheath  
+Cervantes on his galley sets the sword back in the sheath  
 
-_([[Don John of Austria]] rides homeward with a wreath.)_  
+_([[characters/don-john-of-austria|Don John of Austria]] rides homeward with a wreath.)_  
 
-And he sees across a weary land a straggling [[Road|road]] in Spain,  
+And he sees across a weary land a straggling [[motifs/road|road]] in Spain,  
 
 Up which a lean and foolish knight for ever rides in vain,  
 
 And he smiles, but not as Sultans smile, and settles back the blade....  
 
-_(But [[Don John of Austria]] rides [[Home|home]] from the Crusade_.)  
+_(But [[characters/don-john-of-austria|Don John of Austria]] rides [[motifs/home|home]] from the Crusade_.)  
 
 THE MARCH OF THE BLACK MOUNTAIN 1913  
 
@@ -701,9 +701,9 @@ What will there be to remember
 
 Of us in the days to be?  
 
-Whose [[Faith|faith]] was a trodden ember  
+Whose [[concepts/faith|faith]] was a trodden ember  
 
-And even our [[Doubt|doubt]] not free;  
+And even our [[concepts/doubt|doubt]] not free;  
 
 Parliaments built of paper,  
 
@@ -715,7 +715,7 @@ In the weak aggressor's hold;
 
 A hush around Hunger, slaying  
 
-A [[City|city]] of serfs unfed;  
+A [[motifs/city|city]] of serfs unfed;  
 
 What shall we leave for a saying  
 
@@ -723,7 +723,7 @@ To praise us when we are dead?
 
 But men shall remember the Mountain  
 
-That broke its forest [[Chains|chains]],  
+That broke its forest [[motifs/chains|chains]],  
 
 And men shall remember the Mountain  
 
@@ -731,7 +731,7 @@ When it arches against the plains:
 
 And christen their children from it  
 
-And season and [[Ship|ship]] and street,  
+And season and [[motifs/ship|ship]] and street,  
 
 When the Mountain came to Mahomet  
 
@@ -739,7 +739,7 @@ And looked small before his feet.
 
 His head was as high as the crescent  
 
-Of the [[Moon|moon]] that seemed his [[Crown|crown]],  
+Of the [[motifs/moon|moon]] that seemed his [[motifs/crown|crown]],  
 
 And on glory of past and present  
 
@@ -757,9 +757,9 @@ One foot on the hills for warden
 
 By the little Mountain trod;  
 
-And one was in a [[Garden|garden]]  
+And one was in a [[motifs/garden|garden]]  
 
-And stood on the [[Grave|grave]] of God.  
+And stood on the [[motifs/grave|grave]] of God.  
 
 But men shall remember the Mountain,  
 
@@ -767,11 +767,11 @@ Though it fall down like a tree,
 
 They shall see the sign of the Mountain  
 
-[[Faith]] cast into the sea;  
+[[concepts/faith|Faith]] cast into the sea;  
 
 Though the crooked swords overcome it  
 
-And the Crooked [[Moon]] ride free,  
+And the Crooked [[motifs/moon|Moon]] ride free,  
 
 When the Mountain comes to Mahomet  
 
@@ -791,7 +791,7 @@ Whose iron is ruled by gold,
 
 Peace of immortal panic,  
 
-[[Love]] that is hate grown cold--  
+[[motifs/love|Love]] that is hate grown cold--  
 
 Are these a bribe or a warning  
 
@@ -803,13 +803,13 @@ Where deeds at last are done?
 
 Where men shall remember the Mountain  
 
-When [[Truth|truth]] forgets the plain--  
+When [[concepts/truth|truth]] forgets the plain--  
 
 And walk in the way of the Mountain  
 
 That did not fail in vain;  
 
-[[Death]] and eclipse and comet,  
+[[motifs/death|Death]] and eclipse and comet,  
 
 Thunder and seals that rend:  
 
@@ -821,21 +821,21 @@ BLESSED ARE THE PEACEMAKERS
 
 Of old with a divided heart  
 
-I saw my people's [[Pride|pride]] expand,  
+I saw my people's [[concepts/pride|pride]] expand,  
 
-Since a man's [[Soul|soul]] is torn apart  
+Since a man's [[motifs/soul|soul]] is torn apart  
 
 By mother earth and fatherland.  
 
 I knew, through many a tangled tale,  
 
-Glory and [[Truth|truth]] not one but two:  
+Glory and [[concepts/truth|truth]] not one but two:  
 
-[[King]], Constable, and Amirail  
+[[archetypes/king|King]], Constable, and Amirail  
 
 Took me like trumpets: but I knew  
 
-A blacker thing than [[Blood|blood]]'s own dye  
+A blacker thing than [[motifs/blood|blood]]'s own dye  
 
 Weighed down great Hawkins on the sea;  
 
@@ -851,9 +851,9 @@ For whose cold frenzies all your own
 
 The Battle of the Rivers broke;  
 
-Who have no [[Faith|faith]] a man could mourn.  
+Who have no [[concepts/faith|faith]] a man could mourn.  
 
-Nor [[Freedom|freedom]] any man desires;  
+Nor [[concepts/freedom|freedom]] any man desires;  
 
 But in a new clean light of scorn  
 
@@ -873,17 +873,17 @@ Low and brown barns thatched and repatched and tattered
 
 Where I had seven sons until to-day,  
 
-A little [[Hill|hill]] of hay your spur has scattered....  
+A little [[motifs/hill|hill]] of hay your spur has scattered....  
 
-This is not [[Paris]]. You have lost the way.  
+This is not [[settings/paris|Paris]]. You have lost the way.  
 
-You, staring at your [[Sword|sword]] to find it brittle,  
+You, staring at your sword to find it brittle,  
 
 Surprised at the surprise that was your plan,  
 
 Who shaking and breaking barriers not a little  
 
-Find never more the [[Death|death]]-door of Sedan.  
+Find never more the [[motifs/death|death]]-door of Sedan.  
 
 Must I for more than carnage call you claimant,  
 
@@ -909,13 +909,13 @@ How should I pay you, miserable people?
 
 How should I pay you everything you owe?34  
 
-Unhappy, can I give you back your [[Honour|honour]]?  
+Unhappy, can I give you back your [[concepts/honour|honour]]?  
 
 Though I forgave would any man forget?  
 
 While all the great green land has trampled on her  
 
-The treason and terror of the [[Night|night]] we met.  
+The treason and terror of the [[motifs/night|night]] we met.  
 
 Not any more in vengeance or in pardon  
 
@@ -927,13 +927,13 @@ Ride on and prosper. You have lost your spurs.
 
 THE CRUSADER RETURNS FROM CAPTIVITY  
 
-I have come forth alive from the land of purple and [[Poison|poison]] and glamour,  
+I have come forth alive from the land of purple and [[motifs/poison|poison]] and glamour,  
 
 Where the charm is strong as the torture, being chosen to change the mind;  
 
-Torture of wordless [[Dance|dance]] and wineless feast without clamour,  
+Torture of wordless [[motifs/dance|dance]] and wineless feast without clamour,  
 
-Palace hidden in palace, [[Garden|garden]] with [[Garden|garden]] behind;  
+Palace hidden in palace, [[motifs/garden|garden]] with [[motifs/garden|garden]] behind;  
 
 Women veiled in the sun, or bare as brass in the shadows,  
 
@@ -941,7 +941,7 @@ And the endless eyeless patterns where each thing seems an eye....
 
 And my stride is on Caesar's sand where it slides to the English meadows,  
 
-To the last low woods of Sussex and the [[Road|road]] that goes to Rye.  
+To the last low woods of Sussex and the [[motifs/road|road]] that goes to Rye.  
 
 In the cool and careless woods the eyes of the eunuchs burned not,  
 
@@ -949,21 +949,21 @@ But the wild hawk went before me, being free to return or roam,
 
 The hills had broad unconscious backs; and the tree-tops turned not,  
 
-And the huts were heedless of me: and I knew I was at [[Home|home]].  
+And the huts were heedless of me: and I knew I was at [[motifs/home|home]].  
 
-And I saw my lady afar and her holy [[Freedom|freedom]] upon her,  
+And I saw my lady afar and her holy [[concepts/freedom|freedom]] upon her,  
 
 A head, without veil, averted, and not to be turned with charms,  
 
-And I heard above bannerets blown the intolerant trumpets of [[Honour|honour]],  
+And I heard above bannerets blown the intolerant trumpets of [[concepts/honour|honour]],  
 
 That usher with iron laughter the coming of Christian arms.  
 
 My shield hangs stainless still; but I shall not go where they praise it,  
 
-A [[Sword|sword]] is still at my side, but I shall not ride with the [[King]].  
+A sword is still at my side, but I shall not ride with the [[archetypes/king|King]].  
 
-Only to walk and to walk and to stun my [[Soul|soul]] and amaze it,  
+Only to walk and to walk and to stun my [[motifs/soul|soul]] and amaze it,  
 
 A day with the stone and the sparrow and every marvellous thing.  
 
@@ -971,21 +971,21 @@ I have trod the curves of the Crescent, in the maze of them that adore it,
 
 Curved around doorless chambers and unbeholden abodes,  
 
-But I walk in the maze no more; on the sign of the [[Cross|cross]] I swore it,  
+But I walk in the maze no more; on the sign of the [[motifs/cross|cross]] I swore it,  
 
-The wild white [[Cross|cross]] of [[Freedom|freedom]], the sign of the white [[Cross|cross]]-roads.  
+The wild white [[motifs/cross|cross]] of [[concepts/freedom|freedom]], the sign of the white [[motifs/cross|cross]]-roads.  
 
 And the land shall leave me or take, and the Woman take me or leave me,  
 
-There shall be no more [[Night]], or nightmares seen in a glass;  
+There shall be no more [[motifs/night|Night]], or nightmares seen in a glass;  
 
-But Life shall hold me alive, and [[Death]] shall never deceive me  
+But Life shall hold me alive, and [[motifs/death|Death]] shall never deceive me  
 
 As long as I walk in England in the lanes that let me pass.  
 
 III  
 
-[[Love|LOVE]] [[Poems|POEMS]]  
+[[motifs/love|LOVE]] POEMS  
 
 GLENCOE  
 
@@ -997,7 +997,7 @@ They open to us like the gates of God
 
 Cloven in the last great wall of all the world.  
 
-I looked, and saw the valley of my [[Soul|soul]]  
+I looked, and saw the valley of my [[motifs/soul|soul]]  
 
 Where naked crests fight to achieve the skies,  
 
@@ -1005,47 +1005,47 @@ Where no grain grows nor wine, no fruitful thing,
 
 Only big words and starry blasphemies.  
 
-But you have clothed with [[Mercy|mercy]] like a moss  
+But you have clothed with [[concepts/mercy|mercy]] like a moss  
 
 The barren violence of its primal wars,  
 
 Sterile although they be and void of rule,  
 
-You know my shapeless crags have Wed the [[Stars|stars]].  
+You know my shapeless crags have Wed the [[motifs/stars|stars]].  
 
 How shall I thank you, O courageous heart.  
 
-That of this wasteful world you had no [[Fear|fear]];  
+That of this wasteful world you had no [[concepts/fear|fear]];  
 
-But bade it blossom in clear [[Faith|faith]] and sent  
+But bade it blossom in clear [[concepts/faith|faith]] and sent  
 
 Your fair flower-feeding rivers: even as here  
 
 The peat burns brimming from their cups of stone  
 
-Glow brown and [[Blood|blood]]-red down the vast decline  
+Glow brown and [[motifs/blood|blood]]-red down the vast decline  
 
-As if [[Christ]] stood on yonder clouded peak  
+As if [[characters/christ|Christ]] stood on yonder clouded peak  
 
 And turned its thousand waters into wine.  
 
-[[Love|LOVE]]'S TRAPPIST  
+[[motifs/love|LOVE]]'S TRAPPIST  
 
 There is a place where lute and lyre are broken.  
 
-Where scrolls are torn and on a wild [[Wind|wind]] go,  
+Where scrolls are torn and on a wild [[motifs/wind|wind]] go,  
 
 Where tablets stand wiped naked for a token,  
 
 Where laurels wither and the daisies grow.  
 
-Lo: I too join the brotherhood of [[Silence|silence]],  
+Lo: I too join the brotherhood of [[motifs/silence|silence]],  
 
-I am [[Love]]'s Trappist and you ask in vain,  
+I am [[motifs/love|Love]]'s Trappist and you ask in vain,  
 
-For man through [[Love]]'s gate, even as through [[Death]]'s gate,  
+For man through [[motifs/love|Love]]'s gate, even as through [[motifs/death|Death]]'s gate,  
 
-Goeth [[Alone|alone]] and comes not back again.  
+Goeth alone and comes not back again.  
 
 Yet here I pause, look back across the threshold.  
 
@@ -1057,7 +1057,7 @@ O world, old world, the best hath ne'er been told!
 
 CONFESSIONAL  
 
-Now that I kneel at the throne, O [[Queen]],  
+Now that I kneel at the throne, O [[characters/queen|Queen]],  
 
 Pity and pardon me.  
 
@@ -1065,11 +1065,11 @@ Much have I striven to sing the same,
 
 Brother of beast and tree;  
 
-Yet when the [[Stars|stars]] catch me [[Alone|alone]]  
+Yet when the [[motifs/stars|stars]] catch me alone  
 
 Never a linnet sings--  
 
-And the [[Blood|blood]] of a man is a bitter voice  
+And the [[motifs/blood|blood]] of a man is a bitter voice  
 
 And cries for foolish things.  
 
@@ -1079,13 +1079,13 @@ Was not I from a boy
 
 Vowed with the helmet and spear and spur  
 
-To the [[Blood|blood]]-red banner of joy?  
+To the [[motifs/blood|blood]]-red banner of joy?  
 
 A man may sing his psalms to a stone,  
 
-Pour his [[Blood|blood]] for a weed,  
+Pour his [[motifs/blood|blood]] for a weed,  
 
-But the [[Tears|tears]] of a man are a sudden thing,  
+But the [[motifs/tears|tears]] of a man are a sudden thing,  
 
 And come not of his creed.  
 
@@ -1093,13 +1093,13 @@ Nay, but the earth is kind to me,
 
 Though I cry for a Star,  
 
-[[Leaves]] and grasses, feather and flower,  
+[[motifs/leaves|Leaves]] and grasses, feather and flower,  
 
 Cover the foolish scar,  
 
 Prophets and saints and seraphim  
 
-Lighten the load with [[Song|song]],  
+Lighten the load with song,  
 
 And the heart of a man is a heavy load  
 
@@ -1113,13 +1113,13 @@ He that made me sealed my ears,
 
 And the pomp of gorgeous noises,  
 
-Waves of triumph, waves of [[Tears|tears]],  
+Waves of triumph, waves of [[motifs/tears|tears]],  
 
 Thundered empty round and past me,  
 
 Shattered, lost for ever more,  
 
-Ancient gold of [[Pride|pride]] and passion,  
+Ancient gold of [[concepts/pride|pride]] and passion,  
 
 Wrecked like treasure on a shore.  
 
@@ -1135,11 +1135,11 @@ Nought is lost, but all transmuted,
 
 Ears are sealed, yet eyes have seen;  
 
-Saw her smiles (O [[Soul|soul]] be worthy!),  
+Saw her smiles (O [[motifs/soul|soul]] be worthy!),  
 
-Saw her [[Tears|tears]] (O heart be clean!).  
+Saw her [[motifs/tears|tears]] (O heart be clean!).  
 
-THE [[deluge|DELUGE]]  
+THE DELUGE  
 
 Though giant rains put out the sun,  
 
@@ -1151,7 +1151,7 @@ My cup is filled with wine.
 
 Tell to the trembling priests that here  
 
-Under the [[deluge]] rod,  
+Under the deluge rod,  
 
 One nameless, tattered, broken man  
 
@@ -1159,11 +1159,11 @@ Stood up and drank to God.
 
 Sun has been where the rain is now,  
 
-[[Bees]] in the heat to hum,  
+[[motifs/bees|Bees]] in the heat to hum,  
 
 Haply a humming maiden came,  
 
-Now let the [[deluge|Deluge]] come:  
+Now let the Deluge come:  
 
 Brown of aureole, green of garb,  
 
@@ -1175,7 +1175,7 @@ Drink to the wrath of God.
 
 High in the wreck I held the cup,  
 
-I clutched my rusty [[Sword|sword]],  
+I clutched my rusty sword,  
 
 I cocked my tattered feather  
 
@@ -1197,31 +1197,31 @@ But I wander like a minstrel with a harp upon his back,
 
 Though the harp be on my bosom, though I finger and I fret,  
 
-Still, my [[Hope|hope]] is all before me: for I cannot play it yet.  
+Still, my [[concepts/hope|hope]] is all before me: for I cannot play it yet.  
 
 In your strings is hid a music that no hand hath ere let fall,  
 
-In your [[Soul|soul]] is sealed a pleasure that you have not known at all;  
+In your [[motifs/soul|soul]] is sealed a pleasure that you have not known at all;  
 
 Pleasure subtle as your spirit, strange and slender as your frame,  
 
-Fiercer than the [[Pain|pain]] that folds you, softer than your sorrow's name.  
+Fiercer than the [[motifs/pain|pain]] that folds you, softer than your sorrow's name.  
 
-Not as mine, my [[Soul|soul]]'s anointed, not as mine the rude and light  
+Not as mine, my [[motifs/soul|soul]]'s anointed, not as mine the rude and light  
 
-Easy mirth of many faces, swaggering [[Pride|pride]] of [[Song|song]] and fight;  
+Easy mirth of many faces, swaggering [[concepts/pride|pride]] of song and fight;  
 
 Something stranger, something sweeter, something waiting you afar,  
 
-Secret as your stricken senses, [[Magic|magic]] as your sorrows are.  
+Secret as your stricken senses, magic as your sorrows are.  
 
 But on this, God's harp supernal, stretched but to be stricken once.  
 
-Hoary [[Time]] is a beginner, Life a bungler, [[Death]] a dunce.  
+Hoary [[motifs/time|Time]] is a beginner, Life a bungler, [[motifs/death|Death]] a dunce.  
 
-But I will not [[Fear|fear]] to match them--no, by God, I will not [[Fear|fear]],  
+But I will not [[concepts/fear|fear]] to match them--no, by God, I will not [[concepts/fear|fear]],  
 
-I will learn you, I will play you and the [[Stars|stars]] stand still to hear.  
+I will learn you, I will play you and the [[motifs/stars|stars]] stand still to hear.  
 
 THE GREAT MINIMUM  
 
@@ -1231,9 +1231,9 @@ It is something to have done as we have done,
 
 It is something to have watched when all men slept,  
 
-And seen the [[Stars|stars]] which never see the sun.  
+And seen the [[motifs/stars|stars]] which never see the sun.  
 
-It is something to have smelt the mystic [[Rose|rose]],  
+It is something to have smelt the mystic [[motifs/rose|rose]],  
 
 Although it break and leave the thorny rods,  
 
@@ -1257,13 +1257,13 @@ It is something to be wiser than the world,
 
 It is something to be older than the sky.  
 
-In a [[Time|time]] of sceptic moths and cynic rusts,  
+In a [[motifs/time|time]] of sceptic moths and cynic rusts,  
 
 And fatted lives that of their sweetness tire,  
 
 In a world of flying loves and fading lusts,  
 
-It is something to be sure of a [[Desire|desire]].  
+It is something to be sure of a [[motifs/desire|desire]].  
 
 Lo, blessed are our ears for they have heard;  
 
@@ -1271,7 +1271,7 @@ Yea, blessed are our eyes for they have seen:
 
 Let thunder break on man and beast and bird  
 
-And the [[Lightning|lightning]]. It is something to have been.  
+And the [[motifs/lightning|lightning]]. It is something to have been.  
 
 THE MORTAL ANSWERS  
 
@@ -1295,13 +1295,13 @@ I strove like a beast at bay;
 
 With only a right arm wearied,  
 
-Only a red [[Sword|sword]] worn,  
+Only a red sword worn,  
 
-And the [[Pride|pride]] of the [[house|House]] of Adam  
+And the [[concepts/pride|pride]] of the House of Adam  
 
-That holdeth the [[Stars|stars]] in scorn.  
+That holdeth the [[motifs/stars|stars]] in scorn.  
 
-For they came with [[Chains|chains]] of [[Flowers|flowers]]  
+For they came with [[motifs/chains|chains]] of [[motifs/flowers|flowers]]  
 
 And lilies lances free,  
 
@@ -1313,7 +1313,7 @@ And I said, "Now all is shaken
 
 When heavily hangs the brow,  
 
-When the [[Hope|hope]] of the years is taken  
+When the [[concepts/hope|hope]] of the years is taken  
 
 The last star sunken. Now--  
 
@@ -1325,7 +1325,7 @@ The strange strong cry in the darkness
 
 Of one man praising God,  
 
-"That out of the [[Night|night]] and nothing  
+"That out of the [[motifs/night|night]] and nothing  
 
 With travail of birth he came  
 
@@ -1349,7 +1349,7 @@ But the world is more full of glory
 
 Than you can understand."  
 
-A [[Marriage|MARRIAGE]] [[Song|SONG]]  
+A [[motifs/marriage|MARRIAGE]] SONG  
 
 Why should we reck of hours that rend  
 
@@ -1359,9 +1359,9 @@ The heavens rent from end to end
 
 Would be but windy weather,  
 
-The strong [[Stars|stars]] shaken down in spate  
+The strong [[motifs/stars|stars]] shaken down in spate  
 
-Would be a shower of [[spring]],  
+Would be a shower of [[motifs/spring|spring]],  
 
 And we should list the trump of fate  
 
@@ -1383,7 +1383,7 @@ And good things end and bad things end,
 
 And you and I remain.  
 
-Why should we reck of ill or [[Well|well]]  
+Why should we reck of ill or [[motifs/well|well]]  
 
 While we two ride together?  
 
@@ -1399,7 +1399,7 @@ We shall but wash our feet in heaven,
 
 And warm our hands in hell.  
 
-Battles [[unborn]] and vast shall view  
+Battles unborn and vast shall view  
 
 Our faltered standards stream,  
 
@@ -1409,11 +1409,11 @@ New troubles toil and teem;
 
 New friends shall pass and still renew  
 
-One [[Truth|truth]] that does not seem,  
+One [[concepts/truth|truth]] that does not seem,  
 
 That I am I, and you are you,  
 
-And [[Death]] a morning dream.  
+And [[motifs/death|Death]] a morning dream.  
 
 Why should we reck of scorn or praise  
 
@@ -1443,7 +1443,7 @@ To swing our swords and take our sides
 
 In that all-ending fray  
 
-When [[Stars|stars]] fall down and darkness hides,  
+When [[motifs/stars|stars]] fall down and darkness hides,  
 
 When God shall turn to bay.  
 
@@ -1461,29 +1461,29 @@ Upon the ultimate plains,
 
 And we shall turn and tell once more  
 
-Our [[Love|love]] in English lanes.  
+Our [[motifs/love|love]] in English lanes.  
 
 BAY COMBE  
 
-With [[Leaves|leaves]] below and [[Leaves|leaves]] above,  
+With [[motifs/leaves|leaves]] below and [[motifs/leaves|leaves]] above,  
 
 And groping under tree and tree,  
 
-I found the [[Home|home]] of my true [[Love|love]],  
+I found the [[motifs/home|home]] of my true [[motifs/love|love]],  
 
-Who is a wandering [[Home|home]] for me.  
+Who is a wandering [[motifs/home|home]] for me.  
 
 Who, lost in ruined worlds aloof,  
 
 Bore the dread dove wings like a roof;  
 
-Who, past the last lost [[Stars|stars]] of space  
+Who, past the last lost [[motifs/stars|stars]] of space  
 
-Carried the [[Fire|fire]]-light on her face.  
+Carried the [[motifs/fire|fire]]-light on her face.  
 
 Who, passing as in idle hours,  
 
-Tamed the wild weeds to [[Garden|garden]] [[Flowers|flowers]];  
+Tamed the wild weeds to [[motifs/garden|garden]] [[motifs/flowers|flowers]];  
 
 Stroked the strange whirlwind's whirring wings,  
 
@@ -1495,23 +1495,23 @@ The dark was dearer than the day;
 
 Where she paused in heaven or hell,  
 
-The whole world's tale had ended [[Well|well]].  
+The whole world's tale had ended [[motifs/well|well]].  
 
-_With [[Leaves|leaves]] below and [[Leaves|leaves]] above._  
+_With [[motifs/leaves|leaves]] below and [[motifs/leaves|leaves]] above._  
 
 _And groping under tree and tree,_  
 
-_I found the [[Home|home]] of my true [[Love|love]],_  
+_I found the [[motifs/home|home]] of my true [[motifs/love|love]],_  
 
-_Who is a wandering [[Home|home]] for me_.  
+_Who is a wandering [[motifs/home|home]] for me_.  
 
 Where she was flung, above, beneath,  
 
-By the rude [[Dance|dance]] of life and [[Death|death]],  
+By the rude [[motifs/dance|dance]] of life and [[motifs/death|death]],  
 
 Grow she at Gotham--die at Rome,  
 
-Between the pine trees is her [[Home|home]].  
+Between the pine trees is her [[motifs/home|home]].  
 
 In some strange town, some silver morn,  
 
@@ -1527,15 +1527,15 @@ And the dead saints become alive,
 
 Then pedants bald and parchments brown  
 
-May claim her [[Blood|blood]] for [[London]] town.  
+May claim her [[motifs/blood|blood]] for [[settings/london|London]] town.  
 
-_But [[Leaves|leaves]] below and [[Leaves|leaves]] above._  
+_But [[motifs/leaves|leaves]] below and [[motifs/leaves|leaves]] above._  
 
 _And groping under tree and tree,_  
 
-_I found the [[Home|home]] of my true [[Love|love]],_  
+_I found the [[motifs/home|home]] of my true [[motifs/love|love]],_  
 
-_Who is a wandering [[Home|home]] for me_.  
+_Who is a wandering [[motifs/home|home]] for me_.  
 
 The great gravestone she may pass by,  
 
@@ -1545,37 +1545,37 @@ The streets of silver Heaven may tread,
 
 With her grey awful eyes unfed.  
 
-The [[City|city]] of great peace in [[Pain|pain]]  
+The [[motifs/city|city]] of great peace in [[motifs/pain|pain]]  
 
 May pass, until she find again  
 
-This little [[house]] of holm and fir  
+This little house of holm and fir  
 
-God built before the [[Stars|stars]] for her.  
+God built before the [[motifs/stars|stars]] for her.  
 
-Here in the fallen [[Leaves|leaves]] is furled  
+Here in the fallen [[motifs/leaves|leaves]] is furled  
 
 Her secret centre of the world.  
 
 We sit and feel in dusk and dun  
 
-The [[Stars|stars]] swing round us like a sun.  
+The [[motifs/stars|stars]] swing round us like a sun.  
 
-_For [[Leaves|leaves]] below and [[Leaves|leaves]] above._  
+_For [[motifs/leaves|leaves]] below and [[motifs/leaves|leaves]] above._  
 
 _And groping under tree and tree,_  
 
-_I found the [[Home|home]] of my true [[Love|love]]._  
+_I found the [[motifs/home|home]] of my true [[motifs/love|love]]._  
 
-_Who is a wandering [[Home|home]] for me_.  
+_Who is a wandering [[motifs/home|home]] for me_.  
 
 IV  
 
-RELIGIOUS [[Poems|POEMS]]  
+RELIGIOUS POEMS  
 
 THE WISE MEN  
 
-Step softly, under [[Snow|snow]] or rain,  
+Step softly, under [[motifs/snow|snow]] or rain,  
 
 To find the place where men can pray;  
 
@@ -1591,9 +1591,9 @@ We know all labyrinthine lore,
 
 We are the three wise mert of yore,  
 
-And we know all things but the [[Truth|truth]].  
+And we know all things but the [[concepts/truth|truth]].  
 
-We have gone round and round the [[Hill|hill]],  
+We have gone round and round the [[motifs/hill|hill]],  
 
 And lost the wood among the trees,  
 
@@ -1605,19 +1605,19 @@ The Furies the Eumenides.
 
 The gods of violence took the veil  
 
-Of vision and [[philosophy]],  
+Of vision and philosophy,  
 
 The Serpent that brought all men bale,  
 
 He bites his own accursed tail,  
 
-And calls himself [[Eternity]].  
+And calls himself [[concepts/eternity|Eternity]].  
 
 Go humbly ... it has hailed and snowed ...  
 
 With voices low and lanterns lit;  
 
-So very simple is the [[Road|road]],  
+So very simple is the [[motifs/road|road]],  
 
 That we may stray from it.  
 
@@ -1631,25 +1631,25 @@ For something is too large for sight,
 
 And something much too plain to say.  
 
-The [[Child]] that was ere worlds begun  
+The [[archetypes/child|Child]] that was ere worlds begun  
 
 (... We need but walk a little way,  
 
 We need but see a latch undone,...)  
 
-The [[Child]] that played with [[Moon|moon]] and sun  
+The [[archetypes/child|Child]] that played with [[motifs/moon|moon]] and sun  
 
 Is playing with a little hay.  
 
-The [[house]] from which the heavens are fed,  
+The house from which the heavens are fed,  
 
-The old strange [[house]] that is our own,  
+The old strange house that is our own,  
 
 Where tricks of words are never said.  
 
-And [[Mercy]] is as plain as bread,  
+And [[concepts/mercy|Mercy]] is as plain as bread,  
 
-And [[Honour]] is as hard as stone.  
+And [[concepts/honour|Honour]] is as hard as stone.  
 
 Go humbly; humble are the skies,  
 
@@ -1659,7 +1659,7 @@ So very near the Manger lies
 
 That we may travel far.  
 
-Hark! Laughter like a [[Lion|lion]] wakes  
+Hark! Laughter like a [[motifs/lion|lion]] wakes  
 
 To roar to the resounding plain,  
 
@@ -1669,9 +1669,9 @@ For God Himself is born again,
 
 And we are little children walking  
 
-Through the [[Snow|snow]] and rain.  
+Through the [[motifs/snow|snow]] and rain.  
 
-THE [[house|HOUSE]] OF CHRISTMAS  
+THE HOUSE OF CHRISTMAS  
 
 There fared a mother driven forth  
 
@@ -1679,7 +1679,7 @@ Out of an inn to roam;
 
 In the place where she was homeless  
 
-All men are at [[Home|home]].  
+All men are at [[motifs/home|home]].  
 
 The crazy stable close at hand,  
 
@@ -1699,23 +1699,23 @@ Whenever the day is done.
 
 Here we have battle and blazing eyes,  
 
-And chance and [[Honour|honour]] and high surprise,  
+And chance and [[concepts/honour|honour]] and high surprise,  
 
 Where the yule tale was begun.  
 
-A [[Child]] in a foul stable,  
+A [[archetypes/child|Child]] in a foul stable,  
 
 Where the beasts feed and foam;  
 
 Only where He was homeless  
 
-Are you and I at [[Home|home]];  
+Are you and I at [[motifs/home|home]];  
 
 We have hands that fashion and heads that  
 
 But our hearts we lost--how long ago!  
 
-In a place no chart nor [[Ship|ship]] can show  
+In a place no chart nor [[motifs/ship|ship]] can show  
 
 Under the sky's dome.  
 
@@ -1725,9 +1725,9 @@ And strange the plain things are,
 
 The earth is enough and the air is enough  
 
-For our [[Wonder|wonder]] and our war;  
+For our [[concepts/wonder|wonder]] and our war;  
 
-But our rest is as far as the [[Fire|fire]]-drake swings  
+But our rest is as far as the [[motifs/fire|fire]]-drake swings  
 
 And our peace is put in impossible things  
 
@@ -1735,9 +1735,9 @@ Where clashed and thundered unthinkable wings
 
 Round an incredible star.  
 
-To an open [[house]] in the evening  
+To an open house in the evening  
 
-[[Home]] shall men come,  
+[[motifs/home|Home]] shall men come,  
 
 To an older place than Eden  
 
@@ -1749,11 +1749,11 @@ To the things that cannot be and that are,
 
 To the place where God was homeless  
 
-And all men are at [[Home|home]].  
+And all men are at [[motifs/home|home]].  
 
-A [[Song|SONG]] OF GIFTS TO GOD  
+A SONG OF GIFTS TO GOD  
 
-When the first Christmas presents came, the straw where [[Christ]] was rolled  
+When the first Christmas presents came, the straw where [[characters/christ|Christ]] was rolled  
 
 Smelt sweeter than their frankincense, burnt brighter than their gold,  
 
@@ -1763,13 +1763,13 @@ And a wise man said, "We will not give; the thanks would be but cold."
 
 Bends the high gratitude of God; even as He now, my brother,  
 
-Who had a Father for all [[Time|time]], yet thanks Him for a Mother.  
+Who had a Father for all [[motifs/time|time]], yet thanks Him for a Mother.  
 
 "Yet scarce for Him this yellow stone or prickly-smells and sparse.  
 
 Who holds the gold heart of the sun that fed these timber bars,  
 
-Nor any scentless lily lives for One that smells the [[Stars|stars]]."  
+Nor any scentless lily lives for One that smells the [[motifs/stars|stars]]."  
 
 Then spake the third of the Wise Men; the wisest of the three:  
 
@@ -1785,7 +1785,7 @@ Go to make harlots of the Greeks and hucksters of the Jews.
 
 "Less clouds before colossal feet redden in the under-light,  
 
-To the blind gods from Babylon less incense burn to-[[Night|night]],  
+To the blind gods from Babylon less incense burn to-[[motifs/night|night]],  
 
 To the high beasts of Babylon, whose mouths make mock of right."  
 
@@ -1799,37 +1799,37 @@ Light Thou Thy censer to Thyself, for all our fires are dim,
 
 Stamp Thou Thine image on our coin, for Caesar's face grows dim,  
 
-And a dumb devil of [[Pride|pride]] and [[Greed|greed]] has taken hold of him.  
+And a dumb devil of [[concepts/pride|pride]] and [[concepts/greed|greed]] has taken hold of him.  
 
 We bring Thee back great Christendom, churches and towns and towers.  
 
-And if our hands are glad, O God, to cast them down like [[Flowers|flowers]],  
+And if our hands are glad, O God, to cast them down like [[motifs/flowers|flowers]],  
 
 'Tis not that they enrich Thine hands, but they are saved from ours.  
 
 THE KINGDOM OF HEAVEN  
 
-Said the Lord God, "Build a [[house]],  
+Said the Lord God, "Build a house,  
 
-Build it in the gorge of [[Death|death]],  
+Build it in the gorge of [[motifs/death|death]],  
 
 Found it in the throats of hell.  
 
 Where the lost sea muttereth,  
 
-Fires and whirlwinds, build it [[Well|well]]."  
+Fires and whirlwinds, build it [[motifs/well|well]]."  
 
-Laboured sternly flame and [[Wind|wind]],  
+Laboured sternly flame and [[motifs/wind|wind]],  
 
 But a little, and they cry,  
 
-"Lord, we [[Doubt|doubt]] of this Thy will,  
+"Lord, we [[concepts/doubt|doubt]] of this Thy will,  
 
 We are blind and murmur why,"  
 
 And the winds are murmuring still.  
 
-Said the Lord God, "Build a [[house]],  
+Said the Lord God, "Build a house,  
 
 Cleave its treasure from the earth,  
 
@@ -1837,7 +1837,7 @@ With the jarring powers of hell
 
 Strive with formless might and mirth,  
 
-Tribes and war-men, build it [[Well|well]]."  
+Tribes and war-men, build it [[motifs/well|well]]."  
 
 Then the raw red sons of men  
 
@@ -1849,7 +1849,7 @@ But a little and they shrill,
 
 And the wild men clamour still.  
 
-Said the Lord God, "Build a [[house]],  
+Said the Lord God, "Build a house,  
 
 Smoke and iron, spark and steam,  
 
@@ -1857,7 +1857,7 @@ Speak and vote and buy and sell;
 
 Let a new world throb and stream,  
 
-Seers and makers, build it [[Well|well]]."  
+Seers and makers, build it [[motifs/well|well]]."  
 
 Strove the cunning men and strong,  
 
@@ -1867,11 +1867,11 @@ But a little and they cry,
 
 And we cannot know the why,"  
 
-And the wise men [[Doubt|doubt]] to-day.  
+And the wise men [[concepts/doubt|doubt]] to-day.  
 
 Yet though worn and deaf and blind,  
 
-Force and savage, [[King|king]] and seer  
+Force and savage, [[archetypes/king|king]] and seer  
 
 Labour still, they know not why;  
 
@@ -1883,13 +1883,13 @@ Till at last, mayhap, hereon,
 
 Fused of passion and accord,  
 
-[[Love]] its [[Crown|crown]] and peace its stay  
+[[motifs/love|Love]] its [[motifs/crown|crown]] and peace its stay  
 
-Rise the [[City|city]] of the Lord  
+Rise the [[motifs/city|city]] of the Lord  
 
 That we darkly build to-day.  
 
-A [[Hymn|HYMN]] FOR THE CHURCH MILITANT  
+A [[forms/hymn|HYMN]] FOR THE CHURCH MILITANT  
 
 Great God, that bowest sky and star,  
 
@@ -1897,13 +1897,13 @@ Bow down our towering thoughts to thee,
 
 And grant us in a faltering war  
 
-The firm feet of [[Humility|humility]].  
+The firm feet of [[concepts/humility|humility]].  
 
 Lord, we that snatch the swords of flame,  
 
 Lord, we that cry about Thy car.  
 
-We too are weak with [[Pride|pride]] and shame,  
+We too are weak with [[concepts/pride|pride]] and shame,  
 
 We too are as our foemen are.  
 
@@ -1919,7 +1919,7 @@ The dreadful joy Thy Son has sent
 
 Is heavier than any care;  
 
-We find, as [[Cain]] his punishment,  
+We find, as [[characters/cain|Cain]] his punishment,  
 
 Our pardon more than we can bear.  
 
@@ -1953,7 +1953,7 @@ Then was my vision mightier than man's speech;
 
 Speech snapt before it like a flying spell;  
 
-And [[Memory|memory]] and all that [[Time|time]] can teach  
+And [[motifs/memory|memory]] and all that [[motifs/time|time]] can teach  
 
 Before that splendid outrage failed and fell.  
 
@@ -1969,17 +1969,17 @@ Even such am I; within whose thoughts resides
 
 No picture of that sight nor any part  
 
-Nor any [[Memory|memory]]: in whom abides  
+Nor any [[motifs/memory|memory]]: in whom abides  
 
 Only a happiness within the heart,  
 
 A secret happiness that soaks the heart  
 
-As hills are soaked by slow unsealing [[Snow|snow]],  
+As hills are soaked by slow unsealing [[motifs/snow|snow]],  
 
-Or secret as that [[Wind|wind]] without a chart  
+Or secret as that [[motifs/wind|wind]] without a chart  
 
-Whereon did the wild [[Leaves|leaves]] of Sibyl go.  
+Whereon did the wild [[motifs/leaves|leaves]] of Sibyl go.  
 
 O light uplifted from all mortal knowing,  
 
@@ -1993,7 +1993,7 @@ THE TRUCE OF CHRISTMAS
 
 Passionate peace is in the sky--  
 
-And in the [[Snow|snow]] in silver sealed  
+And in the [[motifs/snow|snow]] in silver sealed  
 
 The beasts are perfect in the field,  
 
@@ -2015,13 +2015,13 @@ And we have the terrible tongues uncurled
 
 That praise the world to the sons of the world.)  
 
-The idle humble [[Hill|hill]] and wood  
+The idle humble [[motifs/hill|hill]] and wood  
 
 Are bowed upon the sacred birth,  
 
 And for one little hour the earth  
 
-Is lazy with the [[Love|love]] of good--  
+Is lazy with the [[motifs/love|love]] of good--  
 
 (But ready are you, and ready am I,  
 
@@ -2033,23 +2033,23 @@ And they are against us every one;
 
 And the men that hate herd all together,  
 
-To [[Pride|pride]] and gold, and the great white feather  
+To [[concepts/pride|pride]] and gold, and the great white feather  
 
 And the thing is graven in star and stone  
 
-That the men who [[Love|love]] are all [[Alone|alone]].)  
+That the men who [[motifs/love|love]] are all alone.)  
 
-Hunger is hard and [[Time|time]] is tough,  
+Hunger is hard and [[motifs/time|time]] is tough,  
 
 But bless the beggars and kiss the kings,  
 
-For [[Hope|hope]] has broken the heart of things,  
+For [[concepts/hope|hope]] has broken the heart of things,  
 
 And nothing was ever praised enough.  
 
 (But bold the shield for a sudden swing  
 
-And point the [[Sword|sword]] when you praise a thing,  
+And point the sword when you praise a thing,  
 
 For we are for all men under the sun,  
 
@@ -2057,13 +2057,13 @@ And they are against us every one;
 
 And mime and merchant, thane and thrall  
 
-Hate us because we [[Love|love]] them all;  
+Hate us because we [[motifs/love|love]] them all;  
 
 Only till Christmastide go by  
 
 Passionate peace is in the sky.)  
 
-A [[Hymn|HYMN]]  
+A [[forms/hymn|HYMN]]  
 
 O God of earth and altar,  
 
@@ -2079,7 +2079,7 @@ The swords of scorn divide,
 
 Take not thy thunder from us,  
 
-But take away our [[Pride|pride]].  
+But take away our [[concepts/pride|pride]].  
 
 From all that terror teaches,  
 
@@ -2091,9 +2091,9 @@ That comfort cruel men,
 
 From sale and profanation  
 
-Of [[Honour|honour]] and the [[Sword|sword]],  
+Of [[concepts/honour|honour]] and the sword,  
 
-From [[Sleep|sleep]] and from damnation,  
+From [[motifs/sleep|sleep]] and from damnation,  
 
 Deliver us, good Lord!  
 
@@ -2107,15 +2107,15 @@ Smite us and save us all;
 
 In ire and exultation  
 
-Aflame with [[Faith|faith]], and free,  
+Aflame with [[concepts/faith|faith]], and free,  
 
 Lift up a living nation,  
 
-A single [[Sword|sword]] to thee.  
+A single sword to thee.  
 
-A CHRISTMAS [[Song|SONG]] FOR THREE GUILDS  
+A CHRISTMAS SONG FOR THREE GUILDS  
 
-TO BE SUNG A LONG [[Time|TIME]] AGO--OR HENCE  
+TO BE SUNG A LONG [[motifs/time|TIME]] AGO--OR HENCE  
 
 _THE CARPENTERS_  
 
@@ -2125,7 +2125,7 @@ St. Joseph to the Carpenters said on a Christmas Day:
 
 And your word unto your women shall be nowise hard or wild:  
 
-For the sake of me, your master, who have worshipped Wife and [[Child]].  
+For the sake of me, your master, who have worshipped Wife and [[archetypes/child|Child]].  
 
 But softly you shall frame the fence, and softly carve the door,  
 
@@ -2137,13 +2137,13 @@ But if they tear the Charter, Jet the tocsin speak for me!
 
 Let the wooden sign above your shop be prouder to be scarred  
 
-Than the [[Lion|lion]]-shield of Lancelot that hung at Joyous Garde."  
+Than the [[motifs/lion|lion]]-shield of Lancelot that hung at Joyous Garde."  
 
 _THE SHOEMAKERS_  
 
 St. Crispin to the shoemakers said on a Christmastide:  
 
-"Who fashions at another's feet will get no good of [[Pride|pride]].  
+"Who fashions at another's feet will get no good of [[concepts/pride|pride]].  
 
 They were bleeding on the Mountain, the feet that brought good news,  
 
@@ -2151,7 +2151,7 @@ The latchet of whose shoes we were not worthy to unloose.
 
 See that your feet offend not, nor lightly lift your head,  
 
-Tread softly on the sunlit roads the bright [[Dust|dust]] of the dead.  
+Tread softly on the sunlit roads the bright [[motifs/dust|dust]] of the dead.  
 
 Let your own feet be shod with peace; be lowly all your lives.  
 
@@ -2167,7 +2167,7 @@ St. Luke unto the painters on Christmas Day he said:
 
 "See that the robes are white you dare to dip in gold and red;  
 
-For only gold the kings can give, and only [[Blood|blood]] the saints;  
+For only gold the kings can give, and only [[motifs/blood|blood]] the saints;  
 
 And his high task grows perilous that mixes them in paints.  
 
@@ -2179,7 +2179,7 @@ Paint mighty things, paint paltry things, paint silly things or sweet.
 
 But if men break the Charter, you may slay them in the street.  
 
-And if you paint one post for them, then ... but you know it [[Well|well]],  
+And if you paint one post for them, then ... but you know it [[motifs/well|well]],  
 
 You paint a harlot's face to drag all heroes down to hell."  
 
@@ -2195,7 +2195,7 @@ You can be all things other; you cannot be a slave.
 
 You shall be tired and tolerant of fancies as they fade,  
 
-But if men [[Doubt|doubt]] the Charter, ye shall call on the Crusade--  
+But if men [[concepts/doubt|doubt]] the Charter, ye shall call on the Crusade--  
 
 Trumpet and torch and catapult, cannon and bow and blade,  
 
@@ -2207,7 +2207,7 @@ The thatch on the roof was as golden,
 
 Though dusty the straw was and old,  
 
-The [[Wind|wind]] had a peal as of trumpets,  
+The [[motifs/wind|wind]] had a peal as of trumpets,  
 
 Though blowing and barren and cold,  
 
@@ -2217,7 +2217,7 @@ Though loosened and torn,
 
 For under the eaves in the gloaming  
 
-A [[Child|child]] was born.  
+A [[archetypes/child|child]] was born.  
 
 Have a myriad children been quickened.  
 
@@ -2231,15 +2231,15 @@ God abides In a terrible patience,
 
 Unangered, unworn,  
 
-And again for the [[Child|child]] that was squandered  
+And again for the [[archetypes/child|child]] that was squandered  
 
-A [[Child|child]] is born.  
+A [[archetypes/child|child]] is born.  
 
 What know we of æons behind us,  
 
 Dim dynasties lost long ago,  
 
-Huge empires, like [[Dreams|dreams]] unremembered,  
+Huge empires, like [[motifs/dreams|dreams]] unremembered,  
 
 Huge cities for ages laid low?  
 
@@ -2247,9 +2247,9 @@ This at least--that with blight and with blessing
 
 With flower and with thorn,  
 
-[[Love]] was there, and his cry was among them,  
+[[motifs/love|Love]] was there, and his cry was among them,  
 
-"A [[Child|child]] is born."  
+"A [[archetypes/child|child]] is born."  
 
 Though the darkness be noisy with systems,  
 
@@ -2257,31 +2257,31 @@ Dark fancies that fret and disprove,
 
 Still the plumes stir around us, above us  
 
-The wings of the [[Shadow|shadow]] of [[Love|love]]:  
+The wings of the [[archetypes/shadow|shadow]] of [[motifs/love|love]]:  
 
 Oh! princes and priests, have ye seen it  
 
 Grow pale through your scorn.  
 
-Huge dawns [[Sleep|sleep]] before us, deep changes,  
+Huge dawns [[motifs/sleep|sleep]] before us, deep changes,  
 
-A [[Child|child]] is born.  
+A [[archetypes/child|child]] is born.  
 
 And the rafters of toil still are gilded  
 
-With the [[Dawn|dawn]] of the star of the heart,  
+With the [[motifs/dawn|dawn]] of the star of the heart,  
 
 And the wise men draw near in the twilight,  
 
 Who are weary of learning and art,  
 
-And the face of the [[Tyrant|tyrant]] is darkened.  
+And the face of the [[archetypes/tyrant|tyrant]] is darkened.  
 
 His spirit is torn,  
 
-For a new [[King]] is enthroned; yea, the sternest,  
+For a new [[archetypes/king|King]] is enthroned; yea, the sternest,  
 
-A [[Child|child]] is born.  
+A [[archetypes/child|child]] is born.  
 
 And the mother still joys for the whispered  
 
@@ -2295,13 +2295,13 @@ Still the babe of an hour is a master
 
 Whom angels adorn,  
 
-Emmanuel, [[Prophet|prophet]], anointed,  
+Emmanuel, [[archetypes/prophet|prophet]], anointed,  
 
-A [[Child|child]] is born.  
+A [[archetypes/child|child]] is born.  
 
 And thou, that art still in thy cradle,  
 
-The sun being [[Crown|crown]] for thy brow.  
+The sun being [[motifs/crown|crown]] for thy brow.  
 
 Make answer, our flesh, make an answer,  
 
@@ -2313,11 +2313,11 @@ To train or to warn--?
 
 Hush--how may we know?--knowing only  
 
-A [[Child|child]] is born.  
+A [[archetypes/child|child]] is born.  
 
-A [[Child|CHILD]] OF THE SNOWS  
+A [[archetypes/child|CHILD]] OF THE SNOWS  
 
-There is heard a [[Hymn|hymn]] when the panes dim  
+There is heard a [[forms/hymn|hymn]] when the panes dim  
 
 And never before or again,  
 
@@ -2325,7 +2325,7 @@ When the nights are strong with a darkness long,
 
 And the dark is alive with rain.  
 
-Never we know but in sleet and in [[Snow|snow]],  
+Never we know but in sleet and in [[motifs/snow|snow]],  
 
 The place where the great fires are,  
 
@@ -2333,21 +2333,21 @@ That the midst of the earth is a raging mirth
 
 And the heart of the earth a star.  
 
-And at [[Night|night]] we win to the ancient inn  
+And at [[motifs/night|night]] we win to the ancient inn  
 
-Where the [[Child|child]] in the [[Frost|frost]] is furled,  
+Where the [[archetypes/child|child]] in the [[motifs/frost|frost]] is furled,  
 
 We follow the feet where all souls meet  
 
 At the inn at the end of the world.  
 
-The gods lie dead where the [[Leaves|leaves]] lie red,  
+The gods lie dead where the [[motifs/leaves|leaves]] lie red,  
 
 For the flame of the sun is flown.  
 
-The gods lie cold where the [[Leaves|leaves]] lie gold.  
+The gods lie cold where the [[motifs/leaves|leaves]] lie gold.  
 
-And a [[Child]] comes forth [[Alone|alone]].  
+And a [[archetypes/child|Child]] comes forth alone.  
 
 A WORD  
 
@@ -2355,11 +2355,11 @@ A word came forth in Galilee, a word like to a star;
 
 It climbed and rang and blessed and burnt wherever brave hearts are;  
 
-A word of sudden secret [[Hope|hope]], of trial and increase  
+A word of sudden secret [[concepts/hope|hope]], of trial and increase  
 
-Of wrath and pity fused in [[Fire|fire]], and passion kissing peace.  
+Of wrath and pity fused in [[motifs/fire|fire]], and passion kissing peace.  
 
-A star that o'er the citied world beckoned, a [[Sword|sword]] of flame;  
+A star that o'er the citied world beckoned, a sword of flame;  
 
 A star with myriad thunders tongued: a mighty word there came.  
 
@@ -2371,7 +2371,7 @@ The hammering on the roofs at morn, the busy workshop roar;
 
 The hiss of shavings drifted deep along the windy floor;  
 
-The heat-browned toiler's crooning [[Song|song]], the hum of human worth--  
+The heat-browned toiler's crooning song, the hum of human worth--  
 
 Mingled of all the noise of crafts, the ringing word went forth.  
 
@@ -2397,39 +2397,39 @@ The scream of filthy Caesars stabbed high in their brazen halls,
 
 The dim hoarse Hoods of naked men, the worldrealms snapping girth,  
 
-The trumpets of [[Apocalypse]], the darkness of the earth:  
+The trumpets of [[concepts/apocalypse|Apocalypse]], the darkness of the earth:  
 
-The wrath that brake the eternal lamp and hid the eternal [[Hill|hill]],  
+The wrath that brake the eternal lamp and hid the eternal [[motifs/hill|hill]],  
 
 A world's destruction loading, the word went onward still--  
 
 The blaze of creeds passed into it, the hiss of horrid fires,  
 
-The headlong spear, the scarlet [[Cross|cross]], the hair-shirt and the briars,  
+The headlong spear, the scarlet [[motifs/cross|cross]], the hair-shirt and the briars,  
 
-The cloistered brethren's thunderous chaunt, the errant champion's [[Song|song]],  
+The cloistered brethren's thunderous chaunt, the errant champion's song,  
 
 The shifting of the crowns and thrones, the tangle of the strong.  
 
-The shattering fall of crest and [[Crown|crown]] and shield and [[Cross|cross]] and cope,  
+The shattering fall of crest and [[motifs/crown|crown]] and shield and [[motifs/cross|cross]] and cope,  
 
-The tearing of the gauds of [[Time|time]], the blight of prince and pope,  
+The tearing of the gauds of [[motifs/time|time]], the blight of prince and pope,  
 
 The reign of ragged millions leagued to wrench a loaded debt,  
 
 Loud with the many throated roar, the word went forward yet.  
 
-The [[Song|song]] of wheels passed into it, the roaring and the smoke  
+The song of wheels passed into it, the roaring and the smoke  
 
-The [[Riddle|riddle]] of the want and wage, the fogs that burn and choke.  
+The [[forms/riddle|riddle]] of the want and wage, the fogs that burn and choke.  
 
 The breaking of the girths of gold, the needs that creep and swell.  
 
-The strengthening [[Hope|hope]], the dazing light, the deafening evangel,  
+The strengthening [[concepts/hope|hope]], the dazing light, the deafening evangel,  
 
 Through kingdoms dead and empires damned, through changes without cease,  
 
-With earthquake, chaos, born and fed, [[Rose|rose]],--and the word was "Peace."  
+With earthquake, chaos, born and fed, [[motifs/rose|rose]],--and the word was "Peace."  
 
 V  
 
@@ -2437,7 +2437,7 @@ RHYMES FOR THE TIMES
 
 ANTICHRIST, OR THE REUNION OF CHRISTENDOM: AN ODE  
 
-"A BILL WHICH HAS SHOCKED THE [[Conscience|CONSCIENCE]] OF  
+"A BILL WHICH HAS SHOCKED THE [[concepts/conscience|CONSCIENCE]] OF  
 
 EVERY CHRISTIAN COMMUNITY IN EUROPE."--  
 
@@ -2445,15 +2445,15 @@ _Mr. F.E. Smith_, ON THE WELSH DISESTABLISHMENT BILL.
 
 Are they clinging to their crosses,  
 
-F.E. [[smith|Smith]],  
+F.E. Smith,  
 
 Where the Breton boat-fleet tosses,  
 
-Are they, [[smith|Smith]]?  
+Are they, Smith?  
 
 Do they, fasting, tramping, bleeding,  
 
-Wait the news from this our [[City|city]]?  
+Wait the news from this our [[motifs/city|city]]?  
 
 Groaning "That's the Second Reading!"  
 
@@ -2465,15 +2465,15 @@ If McKenna's point has pith,
 
 Do they tremble for their altars?  
 
-Do they, [[smith|Smith]]?  
+Do they, Smith?  
 
 Russian peasants round their pope  
 
-Huddled, [[smith|Smith]],  
+Huddled, Smith,  
 
-Hear about it all, I [[Hope|hope]],  
+Hear about it all, I [[concepts/hope|hope]],  
 
-Don't they, [[smith|Smith]]?  
+Don't they, Smith?  
 
 In the mountain hamlets clothing  
 
@@ -2487,45 +2487,45 @@ Do they read it all in Hansard
 
 With a crib to read it with--  
 
-"Welsh Tithes: Dr. [[Clifford]] Answered,"  
+"Welsh Tithes: Dr. [[characters/clifford|Clifford]] Answered,"  
 
-Really, [[smith|Smith]]?  
+Really, Smith?  
 
 In the lands where Christians were,  
 
-F.E. [[smith|Smith]],  
+F.E. Smith,  
 
 In the little lands laid bare,  
 
-[[smith|Smith]], O [[smith|Smith]]!  
+Smith, O Smith!  
 
 Where the Turkish bands are busy,  
 
 And the Tory name is blessed  
 
-Since they hailed the [[Cross]] of Dizzy  
+Since they hailed the [[motifs/cross|Cross]] of Dizzy  
 
 On the banners from the West!  
 
 Men don't think it half so hard if  
 
-[[Islam]] burns their kin and kith,  
+[[historical-references/islam|Islam]] burns their kin and kith,  
 
 Since a curate lives in Cardiff  
 
-Saved by [[smith|Smith]].  
+Saved by Smith.  
 
 It would greatly, I must own,  
 
-Soothe me, [[smith|Smith]],  
+Soothe me, Smith,  
 
-If you left this theme [[Alone|alone]],  
+If you left this theme alone,  
 
-Holy [[smith|Smith]]!  
+Holy Smith!  
 
 For your legal cause or civil  
 
-You fight [[Well|well]] and get your fee;  
+You fight [[motifs/well|well]] and get your fee;  
 
 For your God or dream or devil  
 
@@ -2537,7 +2537,7 @@ And the Cash that goes therewith!
 
 But the souls of Christian peoples....  
 
---Chuck it, [[smith|Smith]]!  
+--Chuck it, Smith!  
 
 THE REVOLUTIONIST: OR LINES TO A STATESMAN  
 
@@ -2547,11 +2547,11 @@ WAS GOING ON."--_Speech by the Rt. Hon. Walter
 
 Long_.  
 
-When [[Death]] was on thy drums, [[democracy|Democracy]],  
+When [[motifs/death|Death]] was on thy drums, [[concepts/democracy|Democracy]],  
 
 And with one rush of slaves the world was free,  
 
-In that high [[Dawn|dawn]] that Kings shall not forget,  
+In that high [[motifs/dawn|dawn]] that Kings shall not forget,  
 
 A void there was and Walter was not yet.  
 
@@ -2559,7 +2559,7 @@ Through sacked Versailles, at Valmy in the fray,
 
 They did without him in some kind of way;  
 
-Red Christendom all Walterless they [[Cross|cross]],  
+Red Christendom all Walterless they [[motifs/cross|cross]],  
 
 And in their fury hardly feel their loss....  
 
@@ -2567,7 +2567,7 @@ Fades the Republic; faint as Roland's horn,
 
 Her trumpets taunt us with a sacred scorn....  
 
-Then [[Silence|silence]] fell; and Mr. Long was born.  
+Then [[motifs/silence|silence]] fell; and Mr. Long was born.  
 
 From his first hours in his expensive cot  
 
@@ -2587,9 +2587,9 @@ The rich might still be rulers of the land.
 
 Vain are the pious arts of parenthood,  
 
-Foiled Revolution bubbled in his [[Blood|blood]];  
+Foiled Revolution bubbled in his [[motifs/blood|blood]];  
 
-Until one day (the babe [[unborn]] shall rue it)  
+Until one day (the babe unborn shall rue it)  
 
 The Constitution bored him and he slew it.  
 
@@ -2597,13 +2597,13 @@ If I were wise and good and rich and strong--
 
 Fond, impious thought, if I were Walter Long--  
 
-If I could [[Water|water]] sell like molten gold,  
+If I could [[motifs/water|water]] sell like molten gold,  
 
 And make grown people do as they are told,  
 
 If over private fields and wastes as wide  
 
-As a Greek [[City|city]] for which heroes died,  
+As a Greek [[motifs/city|city]] for which heroes died,  
 
 I owned the houses and the men inside--  
 
@@ -2629,7 +2629,7 @@ Lest man by chance should look at me and see me;
 
 Lest men should ask what madman made me lord  
 
-Of English ploughshares and the English [[Sword|sword]];  
+Of English ploughshares and the English sword;  
 
 Lest men should mark how sleepy is the nod  
 
@@ -2649,11 +2649,11 @@ And if you goad it these grey rules to break,
 
 For a few pence, see that you do not wake  
 
-[[Death]] and the splendour of the scarlet cap,  
+[[motifs/death|Death]] and the splendour of the scarlet cap,  
 
 Boston and Valmy, Yorktown and Jemmappes,  
 
-[[Freedom]] in arms, the riding and the routing,  
+[[concepts/freedom|Freedom]] in arms, the riding and the routing,  
 
 The thunder of the captains and the shouting,  
 
@@ -2669,7 +2669,7 @@ That Shakespeare should be quite
 
 And therefore got on a Committee  
 
-With several chaps out of the [[City|city]].  
+With several chaps out of the [[motifs/city|city]].  
 
 And Shorter and Sir Herbert Tree,  
 
@@ -2731,11 +2731,11 @@ Lord Lilac was of slighter stuff;
 
 Lord Lilac had had quite enough.  
 
-THE HORRIBLE [[history|HISTORY]] OF [[Jones|JONES]]  
+THE HORRIBLE [[concepts/history|HISTORY]] OF [[characters/jones|JONES]]  
 
-[[Jones]] had a dog; it had a chain;  
+[[characters/jones|Jones]] had a dog; it had a chain;  
 
-Not often worn, not causing [[Pain|pain]];  
+Not often worn, not causing [[motifs/pain|pain]];  
 
 But, as the I.K.L. had passed  
 
@@ -2755,7 +2755,7 @@ For being Audibly at Large.
 
 None, you will say, were now annoyed,  
 
-Save haply [[Jones]]--the yard was void.  
+Save haply [[characters/jones|Jones]]--the yard was void.  
 
 But something being in the lease  
 
@@ -2769,11 +2769,11 @@ Now if there's one condition
 
 The C.C.P. are strong upon  
 
-It is that every [[house]] one buys  
+It is that every house one buys  
 
 Must have a yard for exercise;  
 
-So [[Jones]], as tenant, was unfit.  
+So [[characters/jones|Jones]], as tenant, was unfit.  
 
 His state of health was proof of it.  
 
@@ -2801,13 +2801,13 @@ To see him sitting limbless there
 
 Was more than the K.K. could bear  
 
-"In [[Mercy|mercy]] [[Silence|silence]] with all [[Speed|speed]]  
+"In [[concepts/mercy|mercy]] [[motifs/silence|silence]] with all [[characters/speed|speed]]  
 
 That mouth there are no hands to feed;  
 
 What cruel sentimentalist,  
 
-O [[Jones]], would doom thee to exist--  
+O [[characters/jones|Jones]], would doom thee to exist--  
 
 Clinging to selfish Selfhood yet?  
 
@@ -2821,13 +2821,13 @@ Let us construct you up a bit--"
 
 The head fell off when it was hit:  
 
-Then words did rise and honest [[Doubt|doubt]],  
+Then words did rise and honest [[concepts/doubt|doubt]],  
 
 And four Commissions sat about  
 
 Whether the slash that left him dead  
 
-Cut off his [[Body|body]] or his head.  
+Cut off his [[concepts/body|body]] or his head.  
 
 An author in the Isle of Wight  
 
@@ -2835,7 +2835,7 @@ Observed with unconcealed delight
 
 A land of old and just renown  
 
-Where [[Freedom]] slowly broadened down  
+Where [[concepts/freedom|Freedom]] slowly broadened down  
 
 From Precedent to Precedent....  
 
@@ -2845,7 +2845,7 @@ THE NEW FREETHINKER
 
 John Grubby, who was short and stout  
 
-And troubled with religious [[Doubt|doubt]],  
+And troubled with religious [[concepts/doubt|doubt]],  
 
 Refused about the age of three  
 
@@ -2855,7 +2855,7 @@ To sit upon the curate's knee;
 
 Between the spirit of the age  
 
-And Dogma, which, as is [[Well|well]] known.  
+And Dogma, which, as is [[motifs/well|well]] known.  
 
 Does simply hate to be outgrown).  
 
@@ -2875,11 +2875,11 @@ The altars reeled, the hen-ens shook,
 
 Just as he read of in the book;  
 
-Flung from his [[house]] went forth the youth  
+Flung from his house went forth the youth  
 
-[[Alone]] with tempests and the [[Truth]],  
+[[works/alone-(poe)|Alone]] with tempests and the [[concepts/truth|Truth]],  
 
-Up to the distant [[City|city]] and dim  
+Up to the distant [[motifs/city|city]] and dim  
 
 Where his papa had bought for him  
 
@@ -2901,21 +2901,21 @@ Enrich a man more rapidly:
 
 Twas he that stopped the Strike in Coal,  
 
-For hungry children racked his [[Soul|soul]];  
+For hungry children racked his [[motifs/soul|soul]];  
 
 To end their misery there and then  
 
 He filled the mines with Chinamen--  
 
-Sat in that [[house|House]] that broke the Kings,  
+Sat in that House that broke the Kings,  
 
 And voted for all sores of things--  
 
-And [[Rose|rose]] from Under-Sec. to Sec.  
+And [[motifs/rose|rose]] from Under-Sec. to Sec.  
 
 Some grumbled. Growlers who gave less  
 
-Than generous worship to [[success]],  
+Than generous worship to success,  
 
 The little printers in Dundee  
 
@@ -2927,7 +2927,7 @@ Respect him rather less than heaven.
 
 No matter. This can still be said:  
 
-Never to [[Supernatural|supernatural]] dread,  
+Never to [[motifs/supernatural|supernatural]] dread,  
 
 Never to unseen deity,  
 
@@ -2947,7 +2947,7 @@ His lap still empty of renown,
 
 And still across the waste of years  
 
-John Grubby, in the [[house|House]] of Peers,  
+John Grubby, in the House of Peers,  
 
 Faces that curate, proud and free,  
 
@@ -2967,7 +2967,7 @@ A bugle through the blackness of the world,
 
 An English hand would touch your shroud, in trust  
 
-That [[Truth|truth]] again be told in English speech.  
+That [[concepts/truth|truth]] again be told in English speech.  
 
 And we too yet may practise what we preach,  
 
@@ -2985,11 +2985,11 @@ Heed not if half-wits mock your broken blade:
 
 Mammon our master doeth all things ill.  
 
-You are the [[Fool]] that charged a windmill. Still,  
+You are the [[archetypes/fool|Fool]] that charged a windmill. Still,  
 
 The Miller is a Knave; and was afraid.  
 
-Lay down your [[Sword|sword]]. Ruin will know her own.  
+Lay down your sword. Ruin will know her own.  
 
 Let each small statesman sow his weak wild oat,  
 
@@ -2997,15 +2997,15 @@ Or turn his coat to decorate his coat,
 
 Or take the throne and perish by the throne.  
 
-Lay down your [[Sword|sword]]. And let the White [[Flag]] fade  
+Lay down your sword. And let the White [[motifs/flag|Flag]] fade  
 
-To grey; and let the Red [[Flag]] fade to pink,  
+To grey; and let the Red [[motifs/flag|Flag]] fade to pink,  
 
 For these that climb and climb; and cannot sink  
 
-So deep as [[Death|death]] and [[Honour|honour]], Déroulède.  
+So deep as [[motifs/death|death]] and [[concepts/honour|honour]], Déroulède.  
 
-[[Sonnet|SONNET]] WITH THE COMPLIMENTS OF THE SEASON  
+[[forms/sonnet|SONNET]] WITH THE COMPLIMENTS OF THE SEASON  
 
 TO A POPULAR LEADER MUCH TO BE CONGRATULATED  
 
@@ -3015,21 +3015,21 @@ I know you. You will hail the huge release,
 
 Saying the sheathing of a thousand swords,  
 
-In [[Silence|silence]] and injustice, [[Well|well]] accords  
+In [[motifs/silence|silence]] and injustice, [[motifs/well|well]] accords  
 
-With Christmas [[Bells|bells]]. And you will gild with grease  
+With Christmas [[motifs/bells|bells]]. And you will gild with grease  
 
 The papers, the employers, the police,  
 
 And vomit up the void your windy words  
 
-To your New [[Christ]]; who bears no whip of cords  
+To your New [[characters/christ|Christ]]; who bears no whip of cords  
 
 For them that traffic in the doves of peace.  
 
 The feast of friends, the candle-fruited tree,  
 
-I have not failed to [[Honour|honour]]. And I say  
+I have not failed to [[concepts/honour|honour]]. And I say  
 
 It would be better for such men as we,  
 
@@ -3039,13 +3039,13 @@ Shot dead on scarlet snows for liberty,
 
 Dead in the daylight upon Christmas Day.  
 
-A [[Song|SONG]] OF SWORDS  
+A SONG OF SWORDS  
 
 "A DROVE OF CATTLE CAME INTO A VILLAGE CALLED  
 
 SWORDS, AND WAS STOPPED BY THE RIOTERS."---_Daily Paper_.  
 
-In the place called Swords on the Irish [[Road|road]]  
+In the place called Swords on the Irish [[motifs/road|road]]  
 
 It is told for a new renown  
 
@@ -3063,9 +3063,9 @@ And light on the cruel lords,
 
 On the souls that suddenly all men knew,  
 
-And the green [[Flag|flag]] flew and the red [[Flag|flag]] flew,  
+And the green [[motifs/flag|flag]] flew and the red [[motifs/flag|flag]] flew,  
 
-And many a [[Wheel|wheel]] of the world stopped, too,  
+And many a [[motifs/wheel|wheel]] of the world stopped, too,  
 
 When the cattle were stopped at Swords.  
 
@@ -3081,7 +3081,7 @@ Lords of the lawless wage and low.
 
 This is your lawful wage.  
 
-You pinched a [[Child|child]] to a torture price  
+You pinched a [[archetypes/child|child]] to a torture price  
 
 That you dared not name in words;  
 
@@ -3093,11 +3093,11 @@ And the coward was plain as a cow they hit
 
 When the cattle have strayed at Swords.  
 
-The [[Wheel|wheel]] of the torment of wives went round  
+The [[motifs/wheel|wheel]] of the torment of wives went round  
 
 To break men's brotherhood;  
 
-You gave the good Irish [[Blood|blood]] to grease  
+You gave the good Irish [[motifs/blood|blood]] to grease  
 
 The clubs of your country's enemies;  
 
@@ -3111,9 +3111,9 @@ The longest of hangmen's cords;
 
 But the kings and crowds are holding their bream,  
 
-In a giant [[Shadow|shadow]] o'er all beneath  
+In a giant [[archetypes/shadow|shadow]] o'er all beneath  
 
-Where God stands holding the scales of [[Death]]  
+Where God stands holding the scales of [[motifs/death|Death]]  
 
 Between the cattle and Swords.  
 
@@ -3137,17 +3137,17 @@ Still mark that place to seek or shun,
 
 In the streets where the struggling cattle run--  
 
-Grass and a [[Silence|silence]] of judgment done  
+Grass and a [[motifs/silence|silence]] of judgment done  
 
 In the place that is called Swords.  
 
-A [[Song|SONG]] OF DEFEAT  
+A SONG OF DEFEAT  
 
 The line breaks and the guns go under,  
 
 The lords and the lackeys ride the plain;  
 
-I draw deep breaths of the [[Dawn|dawn]] and thunder,  
+I draw deep breaths of the [[motifs/dawn|dawn]] and thunder,  
 
 And the whole of my heart grows young again.  
 
@@ -3165,7 +3165,7 @@ As once in my life they throbbed and reeled;
 
 I have found ray youth in the lost battle,  
 
-I have found my heart on the [[Battlefield|battlefield]].  
+I have found my heart on the [[settings/battlefield|battlefield]].  
 
 For we that fight till the world is free,  
 
@@ -3185,7 +3185,7 @@ And proud of seeing our names in print.
 
 For so they conquered and so we scattered,  
 
-When the Devil rode and his [[dogs]] smelt gold,  
+When the Devil rode and his dogs smelt gold,  
 
 And the peace of a harmless folk was shattered;  
 
@@ -3195,13 +3195,13 @@ When the mongrel men that the market classes
 
 Had slimy hands upon England's rod,  
 
-And [[Sword|sword]] in hand upon Afric's passes  
+And sword in hand upon Afric's passes  
 
 Her last Republic cried to God.  
 
 For the men no lords can buy or sell,  
 
-They sit not easy when all goes [[Well|well]].  
+They sit not easy when all goes [[motifs/well|well]].  
 
 They have said to each other what naught can smother,  
 
@@ -3215,9 +3215,9 @@ The huckster who, mocking holy anger,
 
 Painfully paints his face with rage.  
 
-And the [[Faith|faith]] of the poor is faint and partial,  
+And the [[concepts/faith|faith]] of the poor is faint and partial,  
 
-And the [[Pride|pride]] of the rich is all for sale,  
+And the [[concepts/pride|pride]] of the rich is all for sale,  
 
 And the chosen heralds of England's Marshal  
 
@@ -3227,19 +3227,19 @@ And the niggards that dare not give are glutted,
 
 And the feeble that dare not fail are strong,  
 
-So while the [[City]] of Toil is gutted,  
+So while the [[motifs/city|City]] of Toil is gutted,  
 
-I sit in the saddle and sing my [[Song|song]].  
+I sit in the saddle and sing my song.  
 
 For we that fight till the world is free,  
 
 We have no comfort in victory;  
 
-We have read each other as [[Cain]] his brother,  
+We have read each other as [[characters/cain|Cain]] his brother,  
 
 We know each other, these slaves and we.  
 
-[[Sonnet|SONNET]]  
+[[forms/sonnet|SONNET]]  
 
 ON HEARING A LANDLORD ACCUSED (FALSELY, FOR  
 
@@ -3249,7 +3249,7 @@ NUMEROUS WHITE HORSES THAT WERE OR WERE NOT
 
 CONNECTED WITH ALFRED THE GREAT  
 
-If you have picked your lawn of [[Leaves|leaves]] and snails,  
+If you have picked your lawn of [[motifs/leaves|leaves]] and snails,  
 
 If you have told your valet, even with oaths,  
 
@@ -3257,17 +3257,17 @@ Once a week or so, to brush your clothes.
 
 If you have dared to clean your teeth, or nails,  
 
-While the [[Horse]] upon the holy mountain fails--  
+While the [[motifs/horse|Horse]] upon the holy mountain fails--  
 
 Then God that Alfred to his earth betrothes  
 
-Send on you screaming all that [[Honour|honour]] loathes,  
+Send on you screaming all that [[concepts/honour|honour]] loathes,  
 
 Horsewhipping, Hounsditch, debts, and _Daily Mails_.  
 
 Can you not even conserve? For if indeed  
 
-The White [[Horse]] fades; then closer creeps the fight  
+The White [[motifs/horse|Horse]] fades; then closer creeps the fight  
 
 When we shall scour the face of England white,  
 
@@ -3285,7 +3285,7 @@ Dreamed here, men say, to drive us to the sea:
 
 O let us drive ourselves! For it is free  
 
-And smells of [[Honour|honour]] and of English things.  
+And smells of [[concepts/honour|honour]] and of English things.  
 
 How came we brawling by these bitter springs,  
 
@@ -3303,15 +3303,15 @@ Be native here, and fat and full of bread;
 
 But we, whose sins were human, we will quit  
 
-The land of [[Blood|blood]], and leave these vultures there,  
+The land of [[motifs/blood|blood]], and leave these vultures there,  
 
 Noiselessly happy, feeding on the dead.  
 
-THE DEAD [[Hero|HERO]]  
+THE DEAD [[archetypes/hero|HERO]]  
 
 We never saw you, like our sires,  
 
-For whom your face was [[Freedom]]'s face,  
+For whom your face was [[concepts/freedom|Freedom]]'s face,  
 
 Nor know what office-tapes and wires  
 
@@ -3333,13 +3333,13 @@ Not till your course was thundered through,
 
 Did Mammon see his kingdom come.  
 
-The [[songs]] of theft, the swords of hire,  
+The songs of theft, the swords of hire,  
 
 The clerks that raved, the troops that ran  
 
-The empire of the world's [[Desire|desire]],  
+The empire of the world's [[motifs/desire|desire]],  
 
-The [[Dance|dance]] of all the dirt began.  
+The [[motifs/dance|dance]] of all the dirt began.  
 
 The happy jewelled alien men  
 
@@ -3347,21 +3347,21 @@ Worked then but as a little leaven;
 
 From some more modest palace then  
 
-The [[Soul]] of Dives stank to Heaven.  
+The [[motifs/soul|Soul]] of Dives stank to Heaven.  
 
 But when they planned with lisp and leer  
 
 Their careful war upon the weak,  
 
-They smote your [[Body|body]] on its bier,  
+They smote your [[concepts/body|body]] on its bier,  
 
 For surety that you could not speak.  
 
-A [[Hero|hero]] in the [[Desert|desert]] died;  
+A [[archetypes/hero|hero]] in the [[motifs/desert|desert]] died;  
 
 Men cried that saints should bury him.  
 
-And round the [[Grave|grave]] should guard and ride,  
+And round the [[motifs/grave|grave]] should guard and ride,  
 
 A chivalry of Cherubim.  
 
@@ -3405,7 +3405,7 @@ Dead we have been but not so dead
 
 As these that live on the life they squandered,  
 
-As these that drink of the [[Blood|blood]] they shed.  
+As these that drink of the [[motifs/blood|blood]] they shed.  
 
 We never boasted the thing we blundered,  
 
@@ -3423,19 +3423,19 @@ It was not we that sounded the trumpet
 
 In front of the triumph of wrecks and rags.  
 
-[[Fear]] not these, they have made their bargain,  
+[[concepts/fear|Fear]] not these, they have made their bargain,  
 
 They have counted the cost of the last of raids,  
 
 They have staked their lives on the things that live not,  
 
-They have burnt their [[house]] for a [[Fire|fire]] that fades.  
+They have burnt their house for a [[motifs/fire|fire]] that fades.  
 
 Five years ago and we might have feared them,  
 
 Been drubbed by the coward and taught by the dunce;  
 
-[[Truth]] may endure and be told and re-echoed,  
+[[concepts/truth|Truth]] may endure and be told and re-echoed,  
 
 But a lie can never be young but once.  
 
@@ -3447,21 +3447,21 @@ There shall naught go up from our hosts assembled
 
 But a laugh like thunder. We know them now.  
 
-THE [[Song|SONG]] OF THE WHEELS  
+THE SONG OF THE WHEELS  
 
 WRITTEN DURING A FRIDAY AND SATURDAY IN AUGUST 1911.  
 
-[[King]] Dives he was waiting in his [[Garden|garden]] all [[Alone|alone]],  
+[[archetypes/king|King]] Dives he was waiting in his [[motifs/garden|garden]] all alone,  
 
-Where his [[Flowers|flowers]] are made of iron and his trees are made of stone,  
+Where his [[motifs/flowers|flowers]] are made of iron and his trees are made of stone,  
 
-And his hives are full of thunder and the [[Lightning|lightning]] leaps and kills,  
+And his hives are full of thunder and the [[motifs/lightning|lightning]] leaps and kills,  
 
 For the mills of God grind slowly; and he works with other mills.  
 
-Dives found a mighty [[Silence|silence]]; and he missed the throb and leap,  
+Dives found a mighty [[motifs/silence|silence]]; and he missed the throb and leap,  
 
-The noise of all the sleepless creatures singing him to [[Sleep|sleep]].  
+The noise of all the sleepless creatures singing him to [[motifs/sleep|sleep]].  
 
 And he said: "A screw has fallen--or a bolt has slipped aside--  
 
@@ -3481,13 +3481,13 @@ We are only men, master, have you heard of men?
 
 "O, they live on earth like fishes, and a gasp is all their breath.  
 
-God for empty honours only gave them [[Death|death]] and scorn of [[Death|death]],  
+God for empty honours only gave them [[motifs/death|death]] and scorn of [[motifs/death|death]],  
 
 And you walk the worms for carpet and you tread a stone that squeals--  
 
 Only, God that made them worms did not make them wheels.  
 
-Man shall shut his heart against you and you shall not find the [[spring]].  
+Man shall shut his heart against you and you shall not find the [[motifs/spring|spring]].  
 
 Man who wills the thing he wants not, the intolerable thing--  
 
@@ -3501,13 +3501,13 @@ Steel is beneath your hand, stone beneath your heels,
 
 Steel will never laugh aloud, hearing what we heard,  
 
-Stone will never break its heart, mad with [[Hope|hope]] deferred--  
+Stone will never break its heart, mad with [[concepts/hope|hope]] deferred--  
 
-Men of tact that arbitrate, slow [[Reform|reform]] that heals--  
+Men of tact that arbitrate, slow [[concepts/reform|reform]] that heals--  
 
 Save the stinking grease, master, save it for the wheels.  
 
-"[[King]] Dives in the [[Garden|garden]], we have naught to give or hold--  
+"[[archetypes/king|King]] Dives in the [[motifs/garden|garden]], we have naught to give or hold--  
 
 (Even while the baby came alive the rotten sticks were sold.)  
 
@@ -3531,7 +3531,7 @@ Why should you make peace and traffic with such feeble folk as men?
 
 They are deaf to demagogues, deaf to crude appeals;  
 
-Are our hands our own, master?--how the doctors [[Doubt|doubt]]!  
+Are our hands our own, master?--how the doctors [[concepts/doubt|doubt]]!  
 
 Are our legs our own, master? wheels can run without--  
 
@@ -3539,7 +3539,7 @@ Prove the points are delicate--they will understand.
 
 All the wheels are loyal; see how still they stand!"  
 
-[[King]] Dives he was walking in his [[Garden|garden]] in the sun,  
+[[archetypes/king|King]] Dives he was walking in his [[motifs/garden|garden]] in the sun,  
 
 He shook his hand at heaven, and he called the wheels to run,  
 
@@ -3551,9 +3551,9 @@ Sitting in the Gate of Treason, in the gate of broken seals,
 
 "Bend and bind them, bend and bind them, bend and bind them into wheels,  
 
-Then once more in all my [[Garden|garden]] there may swing and sound and sweep--  
+Then once more in all my [[motifs/garden|garden]] there may swing and sound and sweep--  
 
-The noise of all the sleepless things that sing the [[Soul|soul]] to [[Sleep|sleep]]."  
+The noise of all the sleepless things that sing the [[motifs/soul|soul]] to [[motifs/sleep|sleep]]."  
 
 _Call upon the wheels, master, call upon the wheels._  
 
@@ -3561,7 +3561,7 @@ _Weary grow the holidays when you miss the meals,_
 
 _Through the Gate of Treason, through the gate within,_  
 
-_Cometh [[Fear|fear]] and [[Greed|greed]] of fame, cometh deadly sin;_  
+_Cometh [[concepts/fear|fear]] and [[concepts/greed|greed]] of fame, cometh deadly sin;_  
 
 _If a man grow faint, master, take him ere he kneels._  
 
@@ -3581,7 +3581,7 @@ There are no folk in the whole world so helpless or so wise.
 
 There is hunger in our bellies, there is laughter in our eyes;  
 
-You laugh at us and [[Love|love]] us, both mugs and eyes are wet:  
+You laugh at us and [[motifs/love|love]] us, both mugs and eyes are wet:  
 
 Only you do not know us. For we have not spoken yet.  
 
@@ -3589,27 +3589,27 @@ The fine French kings came over in a flutter of flags and dames.
 
 We liked their smiles and battles, but we never could say their names.  
 
-The [[Blood|blood]] ran red to Bosworth and the High French lords went down;  
+The [[motifs/blood|blood]] ran red to Bosworth and the High French lords went down;  
 
-There was naught but a naked people under a naked [[Crown|crown]].  
+There was naught but a naked people under a naked [[motifs/crown|crown]].  
 
-And the eyes of the [[King]]'s Servants turned terribly every way,  
+And the eyes of the [[archetypes/king|King]]'s Servants turned terribly every way,  
 
-And the gold of the [[King]]'s Servants [[Rose|rose]] higher every day.  
+And the gold of the [[archetypes/king|King]]'s Servants [[motifs/rose|rose]] higher every day.  
 
 They burnt the homes of the shaven men, that had been quaint and kind,  
 
-Till there was no bed in a monk's [[house]], nor food that man could find.  
+Till there was no bed in a monk's house, nor food that man could find.  
 
 The inns of God where no man paid, that were the wall of the weak,  
 
-The [[King]]'s Servants ate them all. And Still we did not speak.  
+The [[archetypes/king|King]]'s Servants ate them all. And Still we did not speak.  
 
-And the face of the [[King]]'s Servants grew greater than the [[King]]:  
+And the face of the [[archetypes/king|King]]'s Servants grew greater than the [[archetypes/king|King]]:  
 
 He tricked them, and they trapped him, and stood round him in a ring.  
 
-The new [[Grave|grave]] lords closed round him, that had eaten the abbey's fruits.  
+The new [[motifs/grave|grave]] lords closed round him, that had eaten the abbey's fruits.  
 
 And the men of the new religion, with their bibles in their boots.  
 
@@ -3617,15 +3617,15 @@ We saw their shoulders moving, to menace or discuss,
 
 And some were pure and some were vile; but none took heed of us.  
 
-We saw the [[King]] as they killed him, and his face was proud and pale;  
+We saw the [[archetypes/king|King]] as they killed him, and his face was proud and pale;  
 
-And a few men talked of [[Freedom|freedom]], while England talked of ale.  
+And a few men talked of [[concepts/freedom|freedom]], while England talked of ale.  
 
 A war that we understood not came over the world and woke  
 
 Americans, Frenchmen, Irish; but we knew not the things they spoke.  
 
-They talked about rights and [[Nature|nature]] and peace and the people's reign:  
+They talked about rights and [[concepts/nature|nature]] and peace and the people's reign:  
 
 And the squires, our masters, bade us fight; and never scorned us again.  
 
@@ -3635,7 +3635,7 @@ Men called us serfs and drudges; men knew that we were men.
 
 In foam and flame at Trafalgar, on Albuera plains,  
 
-We did and died like lions, to keep ourselves in [[Chains|chains]],  
+We did and died like lions, to keep ourselves in [[motifs/chains|chains]],  
 
 We lay in living ruins; firing and fearing not  
 
@@ -3647,13 +3647,13 @@ And we broke our own rights with him. And still we never spoke.
 
 Our patch of glory ended; we never heard guns again.  
 
-But the squire seemed struck in the saddle; he was foolish, as if in [[Pain|pain]]  
+But the squire seemed struck in the saddle; he was foolish, as if in [[motifs/pain|pain]]  
 
 He leaned on a staggering lawyer, he clutched a cringing Jew,  
 
 He was stricken; it may be, after all, he was stricken at Waterloo.  
 
-Or perhaps the shades of the shaven men, whose spoil is in his [[house]],  
+Or perhaps the shades of the shaven men, whose spoil is in his house,  
 
 Come back in shining shapes at last to spoil his last carouse:  
 
@@ -3663,7 +3663,7 @@ And a new people takes the land: and still it is not we.
 
 They have given us into the hand of the new unhappy lords,  
 
-Lords without anger and [[Honour|honour]], who dare not carry their swords.  
+Lords without anger and [[concepts/honour|honour]], who dare not carry their swords.  
 
 They fight by shuffling papers; they have bright dead alien eyes;  
 
@@ -3671,15 +3671,15 @@ They look at our labour and laughter as a tired man looks at flies.
 
 And the load 01 their loveless pity is worse than the ancient wrongs,  
 
-Their doors are shut in the evening; and they know no [[songs]].  
+Their doors are shut in the evening; and they know no songs.  
 
 We hear men speaking for us of new laws strong and sweet,  
 
 Yet is there no man speaketh as we speak in the street.  
 
-It may be we shall rise the last as Frenchmen [[Rose|rose]] the first,  
+It may be we shall rise the last as Frenchmen [[motifs/rose|rose]] the first,  
 
-Our wrath come after [[Russia]]'s wrath and our wrath be the worst.  
+Our wrath come after [[settings/russia|Russia]]'s wrath and our wrath be the worst.  
 
 It may be we are meant to mark with our riot and our rest  
 
@@ -3691,7 +3691,7 @@ Smile at us, pay us, pass us. But do not quite forget.
 
 VI  
 
-MISCELLANEOUS [[Poems|POEMS]]  
+MISCELLANEOUS POEMS  
 
 LOST  
 
@@ -3705,7 +3705,7 @@ For all the glory I have lost, the good I never knew.
 
 I saw the light of morning pale on princely human faces,  
 
-In tales irrevocably gone, in final [[Night|night]] enfurled,  
+In tales irrevocably gone, in final [[motifs/night|night]] enfurled,  
 
 I saw the tail of flying fights, a glimpse of burning blisses,  
 
@@ -3721,7 +3721,7 @@ That great green sunset God shall make three days after I die.
 
 When all the lights are lost and done, when all the skies are broken,  
 
-Above the ruin of the [[Stars|stars]] my [[Soul|soul]] shall sit in state,  
+Above the ruin of the [[motifs/stars|stars]] my [[motifs/soul|soul]] shall sit in state,  
 
 With a brain made rich, with the irrevocable sunsets,  
 
@@ -3737,7 +3737,7 @@ For the light of seven heavens that are lost to me like hell.
 
 BALLAD OF THE SUN  
 
-O [[Well|well]] for him that loves the sun  
+O [[motifs/well|well]] for him that loves the sun  
 
 That sees the heaven-race ridden or run,  
 
@@ -3745,9 +3745,9 @@ The splashing seas of sunset won,
 
 And shouts for victory.  
 
-God made the sun to [[Crown|crown]] his head,  
+God made the sun to [[motifs/crown|crown]] his head,  
 
-And when [[Death|death]]'s dart at last is sped,  
+And when [[motifs/death|death]]'s dart at last is sped,  
 
 At least it will not find him dead,  
 
@@ -3765,13 +3765,13 @@ Not less for us and everyone
 
 Was that white web of splendour spun;  
 
-O [[Well|well]] for him who loves the sun  
+O [[motifs/well|well]] for him who loves the sun  
 
 Although the sun should slay.  
 
-[[Translation|TRANSLATION]] FROM DU BELLAY  
+[[forms/translation|TRANSLATION]] FROM DU BELLAY  
 
-Happy, who like [[Ulysses]] or that lord  
+Happy, who like [[characters/ulysses|Ulysses]] or that lord  
 
 Who raped the fleece, returning full and sage,  
 
@@ -3783,17 +3783,17 @@ When shall I see, when shall I see, God knows!
 
 My little village smoke; or pass the door,  
 
-The old dear door of that unhappy [[house]]  
+The old dear door of that unhappy house  
 
 That is to me a kingdom and much more?  
 
-Mightier to me the [[house]] my fathers made  
+Mightier to me the house my fathers made  
 
 Than your audacious heads, O Halls of Rome!  
 
 More than immortal marbles undecayed,  
 
-The thin sad slates that cover up my [[Home|home]];  
+The thin sad slates that cover up my [[motifs/home|home]];  
 
 More than your Tiber is my Loire to me,  
 
@@ -3803,7 +3803,7 @@ And more than all the winds of all the sea
 
 The quiet kindness of the Angevin air.  
 
-THE HIGHER [[unity|UNITY]]  
+THE HIGHER UNITY  
 
 "The Rev. Isaiah Bunter has disappeared into the interior  
 
@@ -3859,9 +3859,9 @@ THE EARTH'S VIGIL
 
 The old earth keepeth her watch the same.  
 
-[[Alone]] in a voiceless void doth stand,  
+[[works/alone-(poe)|Alone]] in a voiceless void doth stand,  
 
-Her orange [[Flowers|flowers]] in her bosom flame,  
+Her orange [[motifs/flowers|flowers]] in her bosom flame,  
 
 Her gold ring in her hand.  
 
@@ -3869,7 +3869,7 @@ The surfs of the long gold-crested morns
 
 Break ever more at her great robe's hem,  
 
-And evermore come the bleak [[Moon|moon]]-horns.  
+And evermore come the bleak [[motifs/moon|moon]]-horns.  
 
 But she keepeth not watch for them.  
 
@@ -3889,13 +3889,13 @@ And she looks on havoc and smoke and steel,
 
 And knoweth it is not the end.  
 
-The faiths may choke and the powers [[Despair|despair]],  
+The faiths may choke and the powers [[concepts/despair|despair]],  
 
 The powers re-arise and the faiths renew,  
 
 She is only a maiden, waiting there,  
 
-For the [[Love|love]] whose word is true.  
+For the [[motifs/love|love]] whose word is true.  
 
 She keepeth her watch through the aeons,  
 
@@ -3909,9 +3909,9 @@ Through the cornfield's gleam and the cottage shade,
 
 They wait unwearied, the young and old,  
 
-Mother for [[Child|child]] and man for maid.  
+Mother for [[archetypes/child|child]] and man for maid.  
 
-For a [[Love|love]] that once was told.  
+For a [[motifs/love|love]] that once was told.  
 
 The hair grows grey under thatch or slates,  
 
@@ -3919,7 +3919,7 @@ The eyes grow dim behind lattice panes,
 
 The earth-race wait as the old earth waits,  
 
-And the [[Hope|hope]] in the heart remains.  
+And the [[concepts/hope|hope]] in the heart remains.  
 
 She keepeth her watch through the aeons,  
 
@@ -3931,11 +3931,11 @@ And the tale she once was told.
 
 God's gold ring on her hand is bound,  
 
-She fires with blossom the grey [[Hill|hill]]-sides,  
+She fires with blossom the grey [[motifs/hill|hill]]-sides,  
 
 Her fields are quickened, her forests crowned,  
 
-While the [[Love|love]] of her heart abides,  
+While the [[motifs/love|love]] of her heart abides,  
 
 And we from the fears that fret and mar  
 
@@ -3957,7 +3957,7 @@ ON RIGHTEOUS INDIGNATION
 
 When Adam went from Paradise  
 
-He saw the [[Sword]] and ran;  
+He saw the [[works/sword-(chesterton)|Sword]] and ran;  
 
 The dreadful shape, the new device,  
 
@@ -3989,7 +3989,7 @@ The flameless gates of Paradise,
 
 The dumb shut doors of Paradise,  
 
-God flung the flaming [[Sword|sword]].  
+God flung the flaming sword.  
 
 It burns the hand that holds it  
 
@@ -4001,13 +4001,13 @@ Yet he in whose hand it swings
 
 He is the most masterful of things,  
 
-A scorner of the [[Stars|stars]].  
+A scorner of the [[motifs/stars|stars]].  
 
 WHEN I CAME BACK TO FLEET STREET  
 
 When I came back to Fleet Street,  
 
-Through a sunset nook at [[Night|night]],  
+Through a sunset nook at [[motifs/night|night]],  
 
 And saw the old Green Dragon  
 
@@ -4031,9 +4031,9 @@ Where men were meant to be.
 
 But old things held; the laughter,  
 
-The long unnatural [[Night|night]],  
+The long unnatural [[motifs/night|night]],  
 
-And all the [[Truth|truth]] they talk in hell,  
+And all the [[concepts/truth|truth]] they talk in hell,  
 
 And all the lies they write.  
 
@@ -4041,9 +4041,9 @@ For I came back to Fleet Street,
 
 And not in peace I came;  
 
-A cloven [[Pride|pride]] was in my heart,  
+A cloven [[concepts/pride|pride]] was in my heart,  
 
-And half my [[Love|love]] was shame.  
+And half my [[motifs/love|love]] was shame.  
 
 I came to fight in fairy-tale,  
 
@@ -4079,17 +4079,17 @@ Still drink in debt to-day;
 
 Chained to the rich by ruin,  
 
-Cheerful in [[Chains|chains]], as then  
+Cheerful in [[motifs/chains|chains]], as then  
 
-When old unbroken [[Pickwick]] walked  
+When old unbroken [[works/pickwick-(chesterton)|Pickwick]] walked  
 
 Among the broken men.  
 
-Still he that [[Dreams|dreams]] and rambles  
+Still he that [[motifs/dreams|dreams]] and rambles  
 
 Through his own elfin air,  
 
-Knows that the street's a [[Prison|prison]],  
+Knows that the street's a [[motifs/prison|prison]],  
 
 Knows that the gates are there:  
 
@@ -4105,7 +4105,7 @@ All that I loved and hated,
 
 All that I shunned and knew,  
 
-Clears in broad battle [[Lightning|lightning]],  
+Clears in broad battle [[motifs/lightning|lightning]],  
 
 Where they, and I, and you,  
 
@@ -4117,11 +4117,11 @@ And shout to them that shrink within,
 
 The Prisoners of the Fleet.  
 
-A CIDER [[Song|SONG]]  
+A CIDER SONG  
 
 _To J.S.M._  
 
-EXTRACT FROM A [[Romance|ROMANCE]] WHICH IS NOT YET  
+EXTRACT FROM A ROMANCE WHICH IS NOT YET  
 
 WRITTEN AND PROBABLY NEVER WILL BE.  
 
@@ -4133,7 +4133,7 @@ God brought it burning from the sod
 
 To be a sign and signal rod  
 
-That they that drink the [[Blood|blood]] of God  
+That they that drink the [[motifs/blood|blood]] of God  
 
 Shall never thirst again.  
 
@@ -4155,7 +4155,7 @@ They find in Plodder's End,
 
 The apple wine of Hereford,  
 
-Of Hafod [[Hill]] and Hereford,  
+Of Hafod [[motifs/hill|Hill]] and Hereford,  
 
 Where woods went down to Hereford,  
 
@@ -4165,31 +4165,31 @@ The soft feet of the blessed go
 
 In the soft western vales,  
 
-The [[Road|road]] the silent saints accord,  
+The [[motifs/road|road]] the silent saints accord,  
 
-The [[Road|road]] from Heaven to Hereford,  
+The [[motifs/road|road]] from Heaven to Hereford,  
 
 Where the apple wood of Hereford  
 
 Goes all the way to Wales.  
 
-THE LAST [[Hero|HERO]]  
+THE LAST [[archetypes/hero|HERO]]  
 
-The [[Wind|wind]] blew out from Bergen from the dawning to the day,  
+The [[motifs/wind|wind]] blew out from Bergen from the dawning to the day,  
 
 There was a wreck of trees and fall of towers a score of miles away,  
 
 And drifted like a livid leaf I go before its tide,  
 
-Spewed out of [[house]] and stable, beggared of [[Flag|flag]] and bride.  
+Spewed out of house and stable, beggared of [[motifs/flag|flag]] and bride.  
 
 The heavens are bowed about my head, shouting like seraph wars.  
 
-With rains that might put out the sun and clean the sky of [[Stars|stars]],  
+With rains that might put out the sun and clean the sky of [[motifs/stars|stars]],  
 
 Rains like the fall of ruined seas from secret worlds above,  
 
-The roaring of the rains of God none but the lonely [[Love|love]].  
+The roaring of the rains of God none but the lonely [[motifs/love|love]].  
 
 Feast in my hall, O foemen, and eat and drink and drain,  
 
@@ -4201,41 +4201,41 @@ I stole my lady bride from them, they stole her back from me.
 
 I rent her from her red-roofed hall, I rode and saw arise  
 
-More lovely than the living [[Flowers|flowers]] the hatred in her eyes.  
+More lovely than the living [[motifs/flowers|flowers]] the hatred in her eyes.  
 
 She never loved me, never bent, never was less divine;  
 
-The sunset never loved me; the [[Wind|wind]] was never mine.  
+The sunset never loved me; the [[motifs/wind|wind]] was never mine.  
 
 Was it all nothing that she stood imperial in duresse?  
 
-[[Silence]] itself made softer with the sweeping of her dress.  
+[[motifs/silence|Silence]] itself made softer with the sweeping of her dress.  
 
-O you who drain the cup of life, O you who wear the [[Crown|crown]],  
+O you who drain the cup of life, O you who wear the [[motifs/crown|crown]],  
 
 You never loved a woman's smile as I have loved her frown.  
 
-The [[Wind|wind]] blew out from Bergen from the dawning to the day,  
+The [[motifs/wind|wind]] blew out from Bergen from the dawning to the day,  
 
 They ride and run with fifty spears to break and bar my way,  
 
-I shall not die [[Alone|alone]], [[Alone|alone]], but kin to all the powers.  
+I shall not die alone, alone, but kin to all the powers.  
 
-As merry as the ancient sun and fighting like the [[Flowers|flowers]].  
+As merry as the ancient sun and fighting like the [[motifs/flowers|flowers]].  
 
-How white their steel, how bright their eyes! I [[Love|love]] each laughing knave.  
+How white their steel, how bright their eyes! I [[motifs/love|love]] each laughing knave.  
 
 Cry high and bid him welcome to the banquet of the brave.  
 
-Yea, I will bless them as they bend and [[Love|love]] them where they lie,  
+Yea, I will bless them as they bend and [[motifs/love|love]] them where they lie,  
 
-When on their skulls the [[Sword|sword]] I swing falls shattering from the sky.  
+When on their skulls the sword I swing falls shattering from the sky.  
 
-The hour when [[Death|death]] is like a light and [[Blood|blood]] is like a [[Rose|rose]],--  
+The hour when [[motifs/death|death]] is like a light and [[motifs/blood|blood]] is like a [[motifs/rose|rose]],--  
 
-You never loved your friends, my friends, as I shall [[Love|love]] my foes.  
+You never loved your friends, my friends, as I shall [[motifs/love|love]] my foes.  
 
-Know you what earth shall lose to-[[Night|night]], what rich, uncounted loans,  
+Know you what earth shall lose to-[[motifs/night|night]], what rich, uncounted loans,  
 
 What heavy gold of tales untold you bury with my bones?  
 
@@ -4243,17 +4243,17 @@ My loves in deep dim meadows, my ships that rode at ease,
 
 Ruffling the purple plumage of strange and secret seas.  
 
-To see this fair earth as it is to me [[Alone|alone]] was given,  
+To see this fair earth as it is to me alone was given,  
 
-The blow that breaks my brow to-[[Night|night]] shall break the dome of heaven.  
+The blow that breaks my brow to-[[motifs/night|night]] shall break the dome of heaven.  
 
 The skies I saw, the trees I saw after no eyes shall see.  
 
-To-[[Night|night]] I die the [[Death|death]] of God; the [[Stars|stars]] shall die with me:  
+To-[[motifs/night|night]] I die the [[motifs/death|death]] of God; the [[motifs/stars|stars]] shall die with me:  
 
 One sound shall sunder all the spears and break the trumpet's breath:  
 
-You never laughed in all your life as I shall laugh in [[Death|death]].  
+You never laughed in all your life as I shall laugh in [[motifs/death|death]].  
 
 VII  
 
@@ -4261,7 +4261,7 @@ BALLADES
 
 BALLADE D'UNE GRANDE DAME  
 
-Heaven shall forgive you Bridge at [[Dawn|dawn]],  
+Heaven shall forgive you Bridge at [[motifs/dawn|dawn]],  
 
 The clothes you wear--or do not wear--  
 
@@ -4305,7 +4305,7 @@ For ever in a jailor's care
 
 Because his sins were more than _two_ ...  
 
-... I know a [[house]] in Hoxton where  
+... I know a house in Hoxton where  
 
 It shall not be forgiven you.  
 
@@ -4319,7 +4319,7 @@ When the Last Trumpet rends the air
 
 It shall not be forgiven you.  
 
-A BALLADE OF AN [[anti-puritan|ANTI-PURITAN]]  
+A BALLADE OF AN ANTI-PURITAN  
 
 They spoke of Progress spiring round,  
 
@@ -4331,7 +4331,7 @@ Or ran about the room and roared;
 
 I might have simply sat and snored--  
 
-I [[Rose|rose]] politely in the club  
+I [[motifs/rose|rose]] politely in the club  
 
 And said, "I feel a little bored;  
 
@@ -4343,7 +4343,7 @@ Me; and it pains me to record
 
 I did not think their views profound,  
 
-Or their conclusions [[Well|well]] assured;  
+Or their conclusions [[motifs/well|well]] assured;  
 
 The simple life I can't afford,  
 
@@ -4361,9 +4361,9 @@ And virtues growing from the ground,
 
 And fellowship of beer and board,  
 
-And [[Song|song]], that is a sturdy cord.  
+And song, that is a sturdy cord.  
 
-And [[Hope|hope]], that is a hardy shrub,  
+And [[concepts/hope|hope]], that is a hardy shrub,  
 
 And goodness, that is God's last word--  
 
@@ -4371,7 +4371,7 @@ Will someone take me to a pub?
 
 ENVOI  
 
-Prince, Bayard would have smashed his [[Sword|sword]]  
+Prince, Bayard would have smashed his sword  
 
 To see the sort of knights you dub--Is  
 
@@ -4393,7 +4393,7 @@ O Moses, give us all a rest!
 
 I will not even cut the strings,  
 
-I'll read "Jack Redskin on the [[Quest]]"  
+I'll read "Jack Redskin on the [[topoi/quest|Quest]]"  
 
 And feed my brain with better things.  
 
@@ -4405,7 +4405,7 @@ Somebody likes the Finnish Stage
 
 Because the Jesters do not jest;  
 
-And grey with [[Dust|dust]] is [[Dante]]'s crest,  
+And grey with [[motifs/dust|dust]] is [[historical-references/dante|Dante]]'s crest,  
 
 The bell of Rabelais soundless swings;  
 
@@ -4425,7 +4425,7 @@ Burn from my brain and from my breast
 
 Sloth, and the cowardice that clings,  
 
-And stiffness and the [[Soul|soul]]'s arrest:  
+And stiffness and the [[motifs/soul|soul]]'s arrest:  
 
 And feed my brain with better things.  
 
@@ -4439,9 +4439,9 @@ But I should have that fizz suppressed
 
 And feed my brain with better things.  
 
-A BALLADE OF [[suicide|SUICIDE]]  
+A BALLADE OF [[concepts/suicide|SUICIDE]]  
 
-The gallows in my [[Garden|garden]], people say,  
+The gallows in my [[motifs/garden|garden]], people say,  
 
 Is new and neat and adequately tall.  
 
@@ -4457,9 +4457,9 @@ The strangest whim has seized me.... After all
 
 I think I will not hang myself to-day.  
 
-To-morrow is the [[Time|time]] I get my pay--My  
+To-morrow is the [[motifs/time|time]] I get my pay--My  
 
-uncle's [[Sword|sword]] is hanging in the hall--  
+uncle's sword is hanging in the hall--  
 
 I see a little cloud all pink and grey--  
 
@@ -4475,11 +4475,11 @@ I think I will not hang myself to-day.
 
 The world will have another washing day;  
 
-The decadents [[Decay|decay]]; the pedants pall;  
+The decadents [[motifs/decay|decay]]; the pedants pall;  
 
 And H.G. Wells has found that children play.  
 
-And Bernard [[Shaw]] discovered that they squall;  
+And Bernard [[works/shaw-(chesterton)|Shaw]] discovered that they squall;  
 
 Rationalists are growing rational--  
 
@@ -4501,13 +4501,13 @@ I think I will not hang myself to-day.
 
 A BALLADE OF THE FIRST RAIN  
 
-The sky is blue with [[Summer|summer]] and the sun,  
+The sky is blue with [[motifs/summer|summer]] and the sun,  
 
-The woods are brown as [[Autumn|autumn]] with the tan,  
+The woods are brown as [[motifs/autumn|autumn]] with the tan,  
 
-It might as [[Well|well]] be Tropics and be done,  
+It might as [[motifs/well|well]] be Tropics and be done,  
 
-I might as [[Well|well]] be born a copper Khan;  
+I might as [[motifs/well|well]] be born a copper Khan;  
 
 I fashion me an oriental fan  
 
@@ -4515,11 +4515,11 @@ Made of the wholly unreceipted bills
 
 Brought by the ice-man, sleeping in his van  
 
-(A [[Storm|storm]] is coming on the Chiltern Hills).  
+(A [[motifs/storm|storm]] is coming on the Chiltern Hills).  
 
 I read the Young Philosophers for fun  
 
---Fresh as our sorrow for the late [[Queen]] Anne--  
+--Fresh as our sorrow for the late [[characters/queen|Queen]] Anne--  
 
 The Dionysians whom a pint would stun,  
 
@@ -4527,15 +4527,15 @@ The Pantheists who never heard of Pan.
 
 --But through my hair electric needles ran,  
 
-And on my book a gout of [[Water|water]] spills,  
+And on my book a gout of [[motifs/water|water]] spills,  
 
 And on the skirts of heaven the guns began  
 
-(A [[Storm|storm]] is coming on the Chiltern Hills).  
+(A [[motifs/storm|storm]] is coming on the Chiltern Hills).  
 
 O fields of England, cracked and dry and dun,  
 
-O [[Soul|soul]] of England, sick of words, and wan!--  
+O [[motifs/soul|soul]] of England, sick of words, and wan!--  
 
 The clouds grow dark;--the down-rush has begun.  
 
@@ -4547,7 +4547,7 @@ A falling laughter all the valley fills,
 
 Deep as God's thunder and the thirst of man:  
 
-(A [[Storm|storm]] is coming on the Chiltern Hills).  
+(A [[motifs/storm|storm]] is coming on the Chiltern Hills).  
 
 ENVOI  
 
@@ -4557,26 +4557,26 @@ Fulfilling such a lot of People's Wills,
 
 You take the Chiltern Hundreds while you can--  
 
-A [[Storm|storm]] is coming on the Chiltern Hills.
+A [[motifs/storm|storm]] is coming on the Chiltern Hills.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Prodotto da Marc D'Hooghe  
 
-[[Poems|POESIE]]  
+POESIE  
 
 by  
 
 # G.K. Chesterton
 
-[[New York|NEW YORK]]  
+[[settings/new-york|NEW YORK]]  
 
 1916  
 
 Lo stesso autore
 
-Il Napoleone di Notting [[Hill]]: Un [[Romance|romanzo]]. Con illustrazioni di Graham  
+Il Napoleone di Notting [[motifs/hill|Hill]]: Un romanzo. Con illustrazioni di Graham  
 
 Robertson.  
 
@@ -4586,35 +4586,35 @@ Ortodossia.
 
 Tutto considerato.  
 
-George Bernard [[Shaw]]. Una [[Biography|biografia]] illustrata.  
+George Bernard [[works/shaw-(chesterton)|Shaw]]. Una [[forms/biography|biografia]] illustrata.  
 
-La palla e la [[Cross|croce]].  
+La palla e la [[motifs/cross|croce]].  
 
-La ballata del [[Horse|cavallo]] bianco.  
+La ballata del [[motifs/horse|cavallo]] bianco.  
 
-L'[[innocence|innocenza]] di [[Father Brown|padre Brown]]. Illustrato.  
+L'innocenza di [[characters/father-brown|padre Brown]]. Illustrato.  
 
-La saggezza di [[Father Brown|padre Brown]].  
+La saggezza di [[characters/father-brown|padre Brown]].  
 
-[[manalive|Manalive]].  
+Manalive.  
 
 La locanda volante.  
 
-JOHN LANE COMPANY PUBLISHERS [[New York|NEW YORK]]  
+JOHN LANE COMPANY PUBLISHERS [[settings/new-york|NEW YORK]]  
 
 INDICE
 
 TRE DEDICHE  
 
-A [[Edmund|EDMUND]] CLERIHEW BENTLEY  
+A [[characters/edmund|EDMUND]] CLERIHEW BENTLEY  
 
 A HILAIRE BELLOC  
 
 TO M. E. W.  
 
-[[Poems|POESIE]] DI GUERRA  
+POESIE DI GUERRA  
 
-[[lepanto|LEPANTO]]  
+LEPANTO  
 
 LA MARCIA DELLA MONTAGNA NERA 1913  
 
@@ -4624,17 +4624,17 @@ LA MOGLIE DELLE FIANDRE
 
 IL CROCIATO TORNA DALLA PRIGIONIA  
 
-[[Love|AMORE]] [[Poems|POESIE]]  
+[[motifs/love|AMORE]] POESIE  
 
 GLENCOE  
 
-IL TRAPPISTA DELL'[[Love|AMORE]]  
+IL TRAPPISTA DELL'[[motifs/love|AMORE]]  
 
 CONFESSIONALE  
 
 MUSICA  
 
-IL [[deluge|DILUVIO]]  
+IL DILUVIO  
 
 LA STRANA MUSICA  
 
@@ -4642,33 +4642,33 @@ IL GRANDE MINIMO
 
 IL MORTALE RISPONDE  
 
-UN [[Marriage|NUZIALE]] [[Song|CANTO]]  
+UN [[motifs/marriage|NUZIALE]] CANTO  
 
 BAY COMBE  
 
-[[Poems|POESIE]] RELIGIOSE  
+POESIE RELIGIOSE  
 
 I MAGI  
 
-LA [[house|CASA]] DEL NATALE  
+LA CASA DEL NATALE  
 
-UN [[Song|CANTO]] DI DONI A DIO  
+UN CANTO DI DONI A DIO  
 
 IL REGNO DEI CIELI  
 
-UN [[Hymn|INNO]] PER LA CHIESA MILITANTE  
+UN [[forms/hymn|INNO]] PER LA CHIESA MILITANTE  
 
 LA VISIONE BEATIFICA  
 
 LA TREGUA DEL NATALE  
 
-UN [[Hymn|INNO]]  
+UN [[forms/hymn|INNO]]  
 
-UN [[Song|CANTO]] DI NATALE PER TRE CORPORAZIONI  
+UN CANTO DI NATALE PER TRE CORPORAZIONI  
 
 LA NATIVITÀ  
 
-UN [[Child|BAMBINO]] DELLE NEVI  
+UN [[archetypes/child|BAMBINO]] DELLE NEVI  
 
 UNA PAROLA  
 
@@ -4680,39 +4680,39 @@ IL RIVOLUZIONARIO, OVVERO VERSI A UN UOMO DI STATO
 
 IL MEMORIALE DI SHAKESPEARE  
 
-L'ORRIBILE [[history|STORIA]] DI [[Jones|JONES]]  
+L'ORRIBILE [[concepts/history|STORIA]] DI [[characters/jones|JONES]]  
 
 IL NUOVO LIBERO PENSATORE  
 
 IN MEMORIAM P.D.  
 
-[[Sonnet|SONETTO]] CON GLI AUGURI DELLA STAGIONE  
+[[forms/sonnet|SONETTO]] CON GLI AUGURI DELLA STAGIONE  
 
-UN [[Song|CANTO]] DI SPADE
+UN CANTO DI SPADE
 
-UN [[Song|CANTO]] DI SCONFITTA  
+UN CANTO DI SCONFITTA  
 
-[[Sonnet|SONETTO]]  
+[[forms/sonnet|SONETTO]]  
 
 AFRICA  
 
-Il MORTO [[Hero|EROE]]  
+Il MORTO [[archetypes/hero|EROE]]  
 
 UN'ECO ELETTORALE  
 
-IL [[Song|CANTO]] DELLE RUOTE  
+IL CANTO DELLE RUOTE  
 
 IL POPOLO SEGRETO  
 
-[[Poems|POESIE]] VARIE  
+POESIE VARIE  
 
 PERDUTO  
 
 BALLATA DEL SOLE  
 
-[[Translation|TRADUZIONE]] DA DU BELLAY  
+[[forms/translation|TRADUZIONE]] DA DU BELLAY  
 
-LA PIÙ ALTA [[unity|UNITÀ]]  
+LA PIÙ ALTA UNITÀ  
 
 LA VEGLIA DELLA TERRA  
 
@@ -4720,19 +4720,19 @@ SULLA GIUSTA INDIGNAZIONE
 
 QUANDO TORNAI IN FLEET STREET  
 
-UN [[Song|CANTO]] DEL SIDRO  
+UN CANTO DEL SIDRO  
 
-L'ULTIMO [[Hero|EROE]]  
+L'ULTIMO [[archetypes/hero|EROE]]  
 
 BALLATE  
 
 BALLADE D'UNE GRANDE DAME  
 
-UNA BALLATA DI UN [[anti-puritan|ANTI-PURITANO]]  
+UNA BALLATA DI UN ANTI-PURITANO  
 
 UNA BALLATA DI UN RECENSORE DI LIBRI  
 
-UNA BALLATA DEL [[suicide|SUICIDIO]]  
+UNA BALLATA DEL [[concepts/suicide|SUICIDIO]]  
 
 UNA BALLATA DELLA PRIMA PIOGGIA  
 
@@ -4740,33 +4740,33 @@ I
 
 TRE DEDICHE  
 
-A [[Edmund|EDMUND]] CLERIHEW BENTLEY  
+A [[characters/edmund|EDMUND]] CLERIHEW BENTLEY  
 
 LA DEDICA DI _L'UOMO CHE FU GIOVEDÌ_  
 
 Una nube gravava sulla mente degli uomini, e il tempo passava gemendo,  
 
-Sì, una nube malata sull'[[Soul|anima]] quando eravamo ragazzi insieme.  
+Sì, una nube malata sull'[[motifs/soul|anima]] quando eravamo ragazzi insieme.  
 
-La scienza proclamava il nulla e l'arte ammirava la [[Decay|corruzione]];  
+La scienza proclamava il nulla e l'arte ammirava la [[motifs/decay|corruzione]];  
 
 Il mondo era vecchio e finito: ma tu ed io eravamo lieti.  
 
 Intorno a noi in grottesco corteo venivano i loro vizi storpi--  
 
-La lussuria che aveva perso il riso, la [[Fear|paura]] che aveva perso la vergogna.  
+La lussuria che aveva perso il riso, la [[concepts/fear|paura]] che aveva perso la vergogna.  
 
 Come la bianca ciocca di Whistler, che illuminava la nostra tetraggine senza meta,  
 
 Gli uomini mostravano la propria penna bianca fieri come d'un pennacchio.  
 
-La vita era una mosca che svaniva, e la [[Death|morte]] un fuco che pungeva;  
+La vita era una mosca che svaniva, e la [[motifs/death|morte]] un fuco che pungeva;  
 
 Il mondo era davvero molto vecchio quando tu ed io eravamo giovani.  
 
 Torcevano perfino il peccato decente in forme che non si possono nominare:  
 
-Gli uomini si vergognavano dell'[[Honour|onore]]; ma noi non ci vergognavamo.  
+Gli uomini si vergognavano dell'[[concepts/honour|onore]]; ma noi non ci vergognavamo.  
 
 Deboli forse eravamo e stolti, ma non così fallimmo, non così;  
 
@@ -4778,7 +4778,7 @@ Per quanto salissero, li ammucchiavamo per infrangere quel mare amaro.
 
 Folli come eravamo in abito d'Arlecchino, tutti stridenti e assurdi,  
 
-Quando tutte le [[Bells|campane]] delle chiese tacevano, si udivano il nostro berretto e i [[Bells|sonagli]].  
+Quando tutte le [[motifs/bells|campane]] delle chiese tacevano, si udivano il nostro berretto e i [[motifs/bells|sonagli]].  
 
 Non del tutto senza aiuto tenemmo il forte, spiegate le nostre minuscole bandiere;  
 
@@ -4790,11 +4790,11 @@ Lontano, dalla Paumanok a forma di pesce, un grido di cose più pure;
 
 E il Garofano Verde appassì, come nei roghi di foresta che passano,  
 
-Ruggirono nel [[Wind|vento]] di tutto il mondo dieci milioni di [[Leaves|foglie]] d'erba;  
+Ruggirono nel [[motifs/wind|vento]] di tutto il mondo dieci milioni di [[motifs/leaves|foglie]] d'erba;  
 
 O sana e dolce e improvvisa come un uccello canta nella pioggia  
 
-La [[Truth|verità]] parlò da Tusitala e il piacere dal [[Pain|dolore]].  
+La [[concepts/truth|verità]] parlò da Tusitala e il piacere dal [[motifs/pain|dolore]].  
 
 Sì, fresca e chiara e improvvisa come un uccello canta nel grigiore,  
 
@@ -4804,7 +4804,7 @@ Ma noi eravamo giovani; vivemmo per vedere Dio spezzare i loro amari incantesimi
 
 Dio e la buona Repubblica tornare a cavallo, in armi:  
 
-Abbiamo veduto la [[City|città]] di Mansoul, mentre ancora vacillava, liberata--Beati  
+Abbiamo veduto la [[motifs/city|città]] di Mansoul, mentre ancora vacillava, liberata--Beati  
 
 coloro che non videro, ma pur essendo ciechi, credettero.  
 
@@ -4814,21 +4814,21 @@ E nessuno tranne te comprenderà la vera cosa che essa racconta--
 
 Di quali colossali dèi della vergogna poterono atterrire gli uomini e pure crollare,  
 
-Di quali enormi diavoli nascosero le [[Stars|stelle]], eppure caddero al lampo d'una [[Pistol|pistola]].  
+Di quali enormi diavoli nascosero le [[motifs/stars|stelle]], eppure caddero al lampo d'una [[characters/pistol|pistola]].  
 
 I dubbi che erano così facili da inseguire, così terribili da sostenere--  
 
 Oh, chi comprenderà se non tu; sì, chi comprenderà?  
 
-I dubbi che ci sospinsero per la [[Night|notte]] mentre noi due parlavamo senza sosta,  
+I dubbi che ci sospinsero per la [[motifs/night|notte]] mentre noi due parlavamo senza sosta,  
 
 E il giorno era spuntato sulle strade prima che spuntasse sulla mente.  
 
-Fra noi, per la pace di Dio, una tale [[Truth|verità]] può ora esser detta;  
+Fra noi, per la pace di Dio, una tale [[concepts/truth|verità]] può ora esser detta;  
 
 Sì, c'è forza nel mettere radice, e bene nell'invecchiare.  
 
-Abbiamo trovato infine le cose comuni, e il [[Marriage|matrimonio]] e un credo.  
+Abbiamo trovato infine le cose comuni, e il [[motifs/marriage|matrimonio]] e un credo.  
 
 E io posso ora scriverlo senza timore, e tu puoi leggerlo senza timore.  
 
@@ -4838,21 +4838,21 @@ LA DEDICA DI _IL NAPOLEONE DI NOTTING HILL_
 
 Per ogni minuscola città o luogo  
 
-Dio fece le [[Stars|stelle]] apposta;  
+Dio fece le [[motifs/stars|stelle]] apposta;  
 
 I bimbi guardano in su con volto di civetta  
 
 E le vedono impigliate in un albero:  
 
-Tu vedesti una [[Moon|luna]] dalle Downs del Sussex,  
+Tu vedesti una [[motifs/moon|luna]] dalle Downs del Sussex,  
 
-Una [[Moon|luna]] del Sussex, ancora mai viaggiata,  
+Una [[motifs/moon|luna]] del Sussex, ancora mai viaggiata,  
 
-Io vidi una [[Moon|luna]] che era della città,  
+Io vidi una [[motifs/moon|luna]] che era della città,  
 
-La più grande lampada su Campden [[Hill]].  
+La più grande lampada su Campden [[motifs/hill|Hill]].  
 
-Sì, il Cielo è ovunque di [[Home|casa]].  
+Sì, il Cielo è ovunque di [[motifs/home|casa]].  
 
 Il grande berretto azzurro che va sempre bene,  
 
@@ -4874,7 +4874,7 @@ Ove siede un'Inghilterra immortale--
 
 Né dove i tuoi alti giovani a loro volta  
 
-Bevvero la [[Death|morte]] come vino ad Austerlitz.  
+Bevvero la [[motifs/death|morte]] come vino ad Austerlitz.  
 
 E quando i pedanti ci ordinarono di notare  
 
@@ -4890,15 +4890,15 @@ Questi tetri livelli lisci e liberi,
 
 I tamburi fragoreranno un valzer di guerra  
 
-E la [[Death|Morte]] [[Dance|danzerà]] con la Libertà;  
+E la [[motifs/death|Morte]] [[motifs/dance|danzerà]] con la Libertà;  
 
 Più probabile, le barricate strepiteranno  
 
 Strage in basso e fumo in alto,  
 
-E la [[Death|morte]] e l'odio e l'inferno dichiarino  
+E la [[motifs/death|morte]] e l'odio e l'inferno dichiarino  
 
-Che gli uomini hanno trovato una cosa da [[Love|amare]].  
+Che gli uomini hanno trovato una cosa da [[motifs/love|amare]].  
 
 Lontano dai tuoi assolati altipiani  
 
@@ -4908,13 +4908,13 @@ Le diritte strade illuminate si slanciarono e incontrarono
 
 Le strade stellate che additano Dio;  
 
-La leggenda di un'ora [[Epic|epica]]  
+La leggenda di un'ora [[forms/epic|epica]]  
 
-Da [[Child|fanciullo]] sognai, e ancora la sogno,  
+Da [[archetypes/child|fanciullo]] sognai, e ancora la sogno,  
 
-Sotto la grande grigia torre dell'[[Water|acqua]]  
+Sotto la grande grigia torre dell'[[motifs/water|acqua]]  
 
-Che colpisce le [[Stars|stelle]] su Campden [[Hill]]  
+Che colpisce le [[motifs/stars|stelle]] su Campden [[motifs/hill|Hill]]  
 
 TO _M. E. W_.  
 
@@ -4938,13 +4938,13 @@ La foglia pallida cade nel pallore, ma la foglia verde si fa oro;
 
 Noi che abbiamo trovato bello esser giovani troveremo bello esser vecchi;  
 
-Vita che reca la campana delle [[Marriage|nozze]], la culla e la [[Grave|tomba]],  
+Vita che reca la campana delle [[motifs/marriage|nozze]], la culla e la [[motifs/grave|tomba]],  
 
 Vita che è meschina col meschino di cuore, e prode solo col prode.  
 
-Nella calma dell'ultimo bianco [[Winter|inverno]], quando tutto il passato è nostro,  
+Nella calma dell'ultimo bianco [[motifs/winter|inverno]], quando tutto il passato è nostro,  
 
-Le vecchie [[Tears|lacrime]] son gelate come gioielli, le vecchie tempeste brinate come [[Flowers|fiori]].  
+Le vecchie [[motifs/tears|lacrime]] son gelate come gioielli, le vecchie tempeste brinate come [[motifs/flowers|fiori]].  
 
 Cara Signora, possiamo incontrarci di nuovo, rialzarci di nuovo, noi quattro,  
 
@@ -4952,9 +4952,9 @@ Sotto il peso degli anni, e lodare la terra ancora una volta.
 
 II  
 
-[[Poems|POESIE]] DI GUERRA  
+POESIE DI GUERRA  
 
-[[lepanto|LEPANTO]]  
+LEPANTO  
 
 Bianche fontane cadenti nelle Corti del sole,  
 
@@ -4964,21 +4964,21 @@ C'è un riso come le fontane in quel volto che tutti temettero,
 
 Agita la tenebra di foresta, la tenebra della sua barba,  
 
-Increspa la mezzaluna rossa di [[Blood|sangue]], la mezzaluna delle sue labbra,  
+Increspa la mezzaluna rossa di [[motifs/blood|sangue]], la mezzaluna delle sue labbra,  
 
 Ché il mare più interno di tutta la terra è scosso dalle sue navi.  
 
-Hanno sfidato le bianche repubbliche su per il capo d'[[Italy|Italia]],  
+Hanno sfidato le bianche repubbliche su per il capo d'[[settings/italy|Italia]],  
 
-Hanno flagellato l'Adriatico intorno al [[Lion|Leone]] del Mare,  
+Hanno flagellato l'Adriatico intorno al [[motifs/lion|Leone]] del Mare,  
 
 E il Papa ha aperto le braccia nell'agonia e nella perdita,  
 
-E ha chiamato i re della cristianità alle spade intorno alla [[Cross|Croce]].  
+E ha chiamato i re della cristianità alle spade intorno alla [[motifs/cross|Croce]].  
 
-La fredda [[Queen|regina]] d'Inghilterra si guarda allo specchio;  
+La fredda [[characters/queen|regina]] d'Inghilterra si guarda allo specchio;  
 
-L'[[Shadow|ombra]] dei Valois sbadiglia alla Messa;  
+L'[[archetypes/shadow|ombra]] dei Valois sbadiglia alla Messa;  
 
 Da isole serali fantastiche risuona fioco il cannone spagnolo,  
 
@@ -4996,15 +4996,15 @@ L'ultimo e indugiante trovatore a cui l'uccello ha cantato,
 
 Che un tempo andava cantando verso sud quando tutto il mondo era giovane.  
 
-In quell'enorme [[Silence|silenzio]], minuscolo e senza paura,  
+In quell'enorme [[motifs/silence|silenzio]], minuscolo e senza paura,  
 
-Sale lungo una tortuosa [[Road|strada]] il rumore della Crociata.  
+Sale lungo una tortuosa [[motifs/road|strada]] il rumore della Crociata.  
 
 Forti gong gemono mentre i cannoni rombano lontano,  
 
-[[Don John of Austria|Don Giovanni d'Austria]] va alla guerra,  
+[[characters/don-john-of-austria|Don Giovanni d'Austria]] va alla guerra,  
 
-Rigide bandiere tese nelle fredde raffiche della [[Night|notte]]  
+Rigide bandiere tese nelle fredde raffiche della [[motifs/night|notte]]  
 
 Nella tenebra nero-porpora, nel bagliore oro antico,  
 
@@ -5012,23 +5012,23 @@ Luce di torce cremisi sui timpani di rame,
 
 Poi gli squilli, poi le trombe, poi il cannone, ed egli viene.  
 
-[[Don John|Don Giovanni]] che ride nella prode barba ricciuta.  
+[[characters/don-john|Don Giovanni]] che ride nella prode barba ricciuta.  
 
 Spumeggiando dalle staffe come i troni di tutto il mondo,  
 
-Tenendo alta la testa come una [[Flag|bandiera]] di tutti i liberi.  
+Tenendo alta la testa come una [[motifs/flag|bandiera]] di tutti i liberi.  
 
-Luce d'[[Love|amore]] di Spagna--evviva!  
+Luce d'[[motifs/love|amore]] di Spagna--evviva!  
 
-Luce di [[Death|morte]] d'Africa!  
+Luce di [[motifs/death|morte]] d'Africa!  
 
-[[Don John of Austria|Don Giovanni d'Austria]]  
+[[characters/don-john-of-austria|Don Giovanni d'Austria]]  
 
 Cavalca verso il mare.  
 
-Mahound è nel suo paradiso sopra la [[Evening Star|stella della sera]],  
+Mahound è nel suo paradiso sopra la stella della sera,  
 
-_([[Don John of Austria|Don Giovanni d'Austria]] va alla guerra.)_  
+_([[characters/don-john-of-austria|Don Giovanni d'Austria]] va alla guerra.)_  
 
 Muove un possente turbante sulle ginocchia dell'urì senza tempo,  
 
@@ -5038,9 +5038,9 @@ Scuote i giardini di pavoni mentre si leva dal suo ozio,
 
 E incede tra le cime degli alberi ed è più alto degli alberi,  
 
-E la sua voce per tutto il [[Garden|giardino]] è un tuono mandato a chiamare  
+E la sua voce per tutto il [[motifs/garden|giardino]] è un tuono mandato a chiamare  
 
-Il nero Azrael e [[Ariel]] e Ammon in volo.  
+Il nero Azrael e [[characters/ariel|Ariel]] e Ammon in volo.  
 
 Giganti e i Geni,  
 
@@ -5048,7 +5048,7 @@ Molteplici d'ala e d'occhio,
 
 La cui forte obbedienza spezzò il cielo  
 
-Quando Salomone era [[King|re]].  
+Quando Salomone era [[archetypes/king|re]].  
 
 Irrompono in rosso e porpora dalle rosse nubi del mattino,  
 
@@ -5064,27 +5064,27 @@ Chiazzate di uno splendido morbo, il morbo della perla;
 
 Si gonfiano in fumo di zaffiro dalle azzurre fenditure del suolo,--  
 
-Si radunano e si [[Wonder|meravigliano]] e rendono culto a Mahound.  
+Si radunano e si [[concepts/wonder|meravigliano]] e rendono culto a Mahound.  
 
-Ed egli dice: «Spaccate i [[Mountains|monti]] dove la gente eremita può nascondersi,  
+Ed egli dice: «Spaccate i [[settings/mountains|monti]] dove la gente eremita può nascondersi,  
 
 E setacciate le sabbie rosse e d'argento affinché non resti osso di santo,  
 
-E incalzate i Giaurri in fuga [[Night|notte]] e giorno, senza dar tregua,  
+E incalzate i Giaurri in fuga [[motifs/night|notte]] e giorno, senza dar tregua,  
 
 Ché ciò che fu il nostro tormento torna ancora dall'occidente.  
 
 Abbiamo posto il sigillo di Salomone su tutte le cose sotto il sole,  
 
-Di sapere e di dolore e di [[Endurance|sopportazione]] delle cose compiute,  
+Di sapere e di dolore e di [[concepts/endurance|sopportazione]] delle cose compiute,  
 
-Ma un rumore è tra i [[Mountains|monti]], tra i [[Mountains|monti]], e io conosco  
+Ma un rumore è tra i [[settings/mountains|monti]], tra i [[settings/mountains|monti]], e io conosco  
 
 La voce che scosse i nostri palazzi--quattrocento anni fa:  
 
 È colui che non dice 'Kismet'; è colui che non conosce il Fato;  
 
-È [[Richard|Riccardo]], è Raimondo, è Goffredo alla porta!  
+È [[characters/richard|Riccardo]], è Raimondo, è Goffredo alla porta!  
 
 È colui la cui perdita è riso quando stima degna la posta,  
 
@@ -5092,19 +5092,19 @@ Ponete i vostri piedi su di lui, affinché la nostra pace sia sulla terra.»
 
 Ché egli udì i tamburi gemere e udì i cannoni stridere,  
 
-_([[Don John of Austria|Don Giovanni d'Austria]] va alla guerra.)_  
+_([[characters/don-john-of-austria|Don Giovanni d'Austria]] va alla guerra.)_  
 
 Improvviso e immoto--evviva!  
 
 Folgore d'Iberia!  
 
-[[Don John of Austria|Don Giovanni d'Austria]]  
+[[characters/don-john-of-austria|Don Giovanni d'Austria]]  
 
 È passato oltre Alcalar.  
 
-San [[Michael|Michele]] è sul suo Monte nelle vie marine del nord  
+San [[characters/michael|Michele]] è sul suo Monte nelle vie marine del nord  
 
-_([[Don John of Austria|Don Giovanni d'Austria]] è cinto d'armi e si mette in cammino.)_  
+_([[characters/don-john-of-austria|Don Giovanni d'Austria]] è cinto d'armi e si mette in cammino.)_  
 
 Dove i grigi mari luccicano e le aguzze maree si spostano  
 
@@ -5112,21 +5112,21 @@ E la gente di mare fatica e le rosse vele si levano.
 
 Egli scuote la sua lancia di ferro e batte le sue ali di pietra;  
 
-Il rumore è passato per la Normandia; il rumore se n'è andato [[Alone|solo]];  
+Il rumore è passato per la Normandia; il rumore se n'è andato solo;  
 
 Il Nord è pieno di cose intricate e di testi e di occhi doloranti  
 
-E morta è tutta l'[[innocence|innocenza]] dell'ira e della sorpresa,  
+E morta è tutta l'innocenza dell'ira e della sorpresa,  
 
 E il cristiano uccide il cristiano in una angusta polverosa  
 
-E il cristiano paventa [[Christ|Cristo]] che ha un più nuovo volto di condanna,  
+E il cristiano paventa [[characters/christ|Cristo]] che ha un più nuovo volto di condanna,  
 
 E il cristiano odia Maria che Dio baciò in Galilea,  
 
-Ma [[Don John of Austria|Don Giovanni d'Austria]] cavalca verso il mare.  
+Ma [[characters/don-john-of-austria|Don Giovanni d'Austria]] cavalca verso il mare.  
 
-[[Don John|Don Giovanni]] che chiama attraverso la raffica e l'eclissi
+[[characters/don-john|Don Giovanni]] che chiama attraverso la raffica e l'eclissi
 
 Gridando con la tromba, con la tromba delle sue labbra,  
 
@@ -5134,19 +5134,19 @@ Tromba che dice ah!
 
 _Domino gloria_!  
 
-[[Don John of Austria|Don Giovanni d'Austria]]  
+[[characters/don-john-of-austria|Don Giovanni d'Austria]]  
 
 Grida alle navi.  
 
-[[King|Re]] Filippo è nel suo studiolo col Vello al collo  
+[[archetypes/king|Re]] Filippo è nel suo studiolo col Vello al collo  
 
-_([[Don John of Austria|Don Giovanni d'Austria]] è armato sul ponte.)_  
+_([[characters/don-john-of-austria|Don Giovanni d'Austria]] è armato sul ponte.)_  
 
 Le pareti sono drappeggiate di velluto nero e soffice come il peccato,  
 
 e piccoli nani ne strisciano fuori e piccoli nani vi strisciano dentro.  
 
-Regge una fiala di cristallo che ha colori come la [[Moon|luna]],  
+Regge una fiala di cristallo che ha colori come la [[motifs/moon|luna]],  
 
 la tocca, ed essa formicola, ed egli trema assai  
 
@@ -5154,35 +5154,35 @@ e il suo volto è come un fungo di un bianco e grigio lebbroso
 
 come piante nelle alte case sprangate contro il giorno.  
 
-E la [[Death|morte]] è nella fiala e la fine della nobile opera,  
+E la [[motifs/death|morte]] è nella fiala e la fine della nobile opera,  
 
-ma [[Don John of Austria|Don Giovanni d'Austria]] ha fatto fuoco sul Turco.  
+ma [[characters/don-john-of-austria|Don Giovanni d'Austria]] ha fatto fuoco sul Turco.  
 
-[[Don John|Don Giovanni]] è a caccia, e i suoi segugi hanno abbaiato--Rimbomba  
+[[characters/don-john|Don Giovanni]] è a caccia, e i suoi segugi hanno abbaiato--Rimbomba  
 
-lontano oltre l'[[Italy|Italia]] la voce della sua scorreria.  
+lontano oltre l'[[settings/italy|Italia]] la voce della sua scorreria.  
 
 Cannone su cannone, ah! ah!  
 
 Cannone su cannone, urrà!  
 
-[[Don John of Austria|Don Giovanni d'Austria]]  
+[[characters/don-john-of-austria|Don Giovanni d'Austria]]  
 
 Ha scatenato la cannonata.  
 
 Il Papa era nella sua cappella prima che il giorno o la battaglia irrompessero,  
 
-_([[Don John of Austria|Don Giovanni d'Austria]] è nascosto nel fumo.)_  
+_([[characters/don-john-of-austria|Don Giovanni d'Austria]] è nascosto nel fumo.)_  
 
-La stanza nascosta nella [[house|casa]] dell'uomo dove Dio siede tutto l'anno,  
+La stanza nascosta nella casa dell'uomo dove Dio siede tutto l'anno,  
 
-la segreta [[Window|finestra]] donde il mondo appare piccolo e assai caro.  
+la segreta [[motifs/window|finestra]] donde il mondo appare piccolo e assai caro.  
 
-Egli vede come in uno [[Mirror|specchio]] sul mostruoso mare crepuscolare  
+Egli vede come in uno [[motifs/mirror|specchio]] sul mostruoso mare crepuscolare  
 
 la mezzaluna delle sue navi crudeli il cui nome è mistero;  
 
-Esse scagliano grandi ombre verso il nemico, oscurando [[Cross|Croce]] e [[Castle|Castello]],  
+Esse scagliano grandi ombre verso il nemico, oscurando [[motifs/cross|Croce]] e [[settings/castle|Castello]],  
 
 velano i leoni pennuti sulle galee di San Marco;  
 
@@ -5208,9 +5208,9 @@ dove un volto giallo guarda dentro attraverso la grata della sua cella,
 
 ed egli trova il suo Dio dimenticato, e non cerca più un segno_(Ma  
 
-[[Don John of Austria|Don Giovanni d'Austria]] ha spezzato la linea di battaglia!)_  
+[[characters/don-john-of-austria|Don Giovanni d'Austria]] ha spezzato la linea di battaglia!)_  
 
-[[Don John|Don Giovanni]] martella dalla poppa dipinta di strage,  
+[[characters/don-john|Don Giovanni]] martella dalla poppa dipinta di strage,  
 
 imporporando tutto l'oceano come lo sloop d'un pirata insanguinato,  
 
@@ -5226,21 +5226,21 @@ _Vivat Hispania!_
 
 _Domino Gloria!_  
 
-[[Don John of Austria|Don Giovanni d'Austria]]  
+[[characters/don-john-of-austria|Don Giovanni d'Austria]]  
 
 Ha reso libero il suo popolo!  
 
-Cervantes sulla sua galea ripone la [[Sword|spada]] nel fodero  
+Cervantes sulla sua galea ripone la spada nel fodero  
 
-_([[Don John of Austria|Don Giovanni d'Austria]] cavalca verso casa con una ghirlanda.)_  
+_([[characters/don-john-of-austria|Don Giovanni d'Austria]] cavalca verso casa con una ghirlanda.)_  
 
-E vede attraverso una terra stremata una tortuosa [[Road|strada]] in Spagna,  
+E vede attraverso una terra stremata una tortuosa [[motifs/road|strada]] in Spagna,  
 
 su cui un cavaliere magro e folle per sempre cavalca invano,  
 
 ed egli sorride, ma non come sorridono i Sultani, e ripone la lama....  
 
-_(Ma [[Don John of Austria|Don Giovanni d'Austria]] cavalca [[Home|a casa]] dalla Crociata_.)  
+_(Ma [[characters/don-john-of-austria|Don Giovanni d'Austria]] cavalca [[motifs/home|a casa]] dalla Crociata_.)  
 
 LA MARCIA DELLA MONTAGNA NERA 1913  
 
@@ -5248,9 +5248,9 @@ Che cosa ci sarà da ricordare
 
 di noi nei giorni a venire?  
 
-La cui [[Faith|fede]] fu una brace calpestata  
+La cui [[concepts/faith|fede]] fu una brace calpestata  
 
-e persino il nostro [[Doubt|dubbio]] non libero;  
+e persino il nostro [[concepts/doubt|dubbio]] non libero;  
 
 Parlamenti fatti di carta,  
 
@@ -5262,7 +5262,7 @@ nella presa del debole aggressore;
 
 Un silenzio attorno alla Fame, che uccide  
 
-una [[City|città]] di servi non sfamati;  
+una [[motifs/city|città]] di servi non sfamati;  
 
 Che cosa lasceremo come detto  
 
@@ -5270,7 +5270,7 @@ per lodarci quando saremo morti?
 
 Ma gli uomini ricorderanno la Montagna  
 
-che spezzò le sue [[Chains|catene]] di foresta,  
+che spezzò le sue [[motifs/chains|catene]] di foresta,  
 
 e gli uomini ricorderanno la Montagna  
 
@@ -5278,7 +5278,7 @@ quando si inarca contro le pianure:
 
 E battezzeranno da essa i loro figli  
 
-e stagione e [[Ship|nave]] e strada,  
+e stagione e [[motifs/ship|nave]] e strada,  
 
 quando la Montagna venne a Maometto  
 
@@ -5286,7 +5286,7 @@ e apparve piccola ai suoi piedi.
 
 Il suo capo era alto come la mezzaluna  
 
-della [[Moon|luna]] che pareva la sua [[Crown|corona]],  
+della [[motifs/moon|luna]] che pareva la sua [[motifs/crown|corona]],  
 
 e sulla gloria del passato e del presente  
 
@@ -5304,9 +5304,9 @@ Un piede sui colli a far la guardia
 
 calcato dalla piccola Montagna;  
 
-e uno era in un [[Garden|giardino]]  
+e uno era in un [[motifs/garden|giardino]]  
 
-e stava sulla [[Grave|tomba]] di Dio.  
+e stava sulla [[motifs/grave|tomba]] di Dio.  
 
 Ma gli uomini ricorderanno la Montagna,  
 
@@ -5314,11 +5314,11 @@ benché cada come un albero,
 
 vedranno il segno della Montagna  
 
-[[Faith|Fede]] gettata nel mare;  
+[[concepts/faith|Fede]] gettata nel mare;  
 
 benché le spade ricurve la vincano  
 
-e la [[Moon|Luna]] Ricurva cavalchi libera,  
+e la [[motifs/moon|Luna]] Ricurva cavalchi libera,  
 
 quando la Montagna viene a Maometto  
 
@@ -5338,7 +5338,7 @@ il cui ferro è governato dall'oro,
 
 pace di immortale panico,  
 
-[[Love|Amore]] che è odio fatto freddo--  
+[[motifs/love|Amore]] che è odio fatto freddo--  
 
 Sono questi una lusinga o un monito  
 
@@ -5350,13 +5350,13 @@ dove alfine le imprese si compiono?
 
 Dove gli uomini ricorderanno la Montagna  
 
-quando la [[Truth|verità]] dimentica la pianura--  
+quando la [[concepts/truth|verità]] dimentica la pianura--  
 
 e camminano nella via della Montagna  
 
 che non fallì invano;  
 
-[[Death|Morte]] ed eclisse e cometa,  
+[[motifs/death|Morte]] ed eclisse e cometa,  
 
 tuono e sigilli che si squarciano:  
 
@@ -5368,21 +5368,21 @@ BEATI GLI OPERATORI DI PACE
 
 Un tempo con cuore diviso  
 
-vidi l'[[Pride|orgoglio]] del mio popolo espandersi,  
+vidi l'[[concepts/pride|orgoglio]] del mio popolo espandersi,  
 
-poiché l'[[Soul|anima]] d'un uomo è lacerata  
+poiché l'[[motifs/soul|anima]] d'un uomo è lacerata  
 
 dalla madre terra e dalla patria.  
 
 Seppi, per molte intricate vicende,  
 
-gloria e [[Truth|verità]] non una ma due:  
+gloria e [[concepts/truth|verità]] non una ma due:  
 
-[[King|Re]], Conestabile e Ammiraglio  
+[[archetypes/king|Re]], Conestabile e Ammiraglio  
 
 mi presero come trombe: ma io sapevo  
 
-una cosa più nera della tinta stessa del [[Blood|sangue]]  
+una cosa più nera della tinta stessa del [[motifs/blood|sangue]]  
 
 gravava sul grande Hawkins in mare;  
 
@@ -5398,9 +5398,9 @@ per le cui fredde frenesie tutte vostre
 
 la Battaglia dei Fiumi scoppiò;  
 
-voi che non avete [[Faith|fede]] che un uomo possa piangere.  
+voi che non avete [[concepts/faith|fede]] che un uomo possa piangere.  
 
-né [[Freedom|libertà]] che alcun uomo desideri;  
+né [[concepts/freedom|libertà]] che alcun uomo desideri;  
 
 ma in una nuova pura luce di scherno  
 
@@ -5420,17 +5420,17 @@ Basse e brune stalle di paglia rappezzate e ritoppate e cenciose
 
 dove ebbi sette figli fino a oggi,  
 
-una piccola [[Hill|collina]] di fieno il tuo sprone ha disperso....  
+una piccola [[motifs/hill|collina]] di fieno il tuo sprone ha disperso....  
 
-Questa non è [[Paris|Parigi]]. Hai smarrito la via.  
+Questa non è [[settings/paris|Parigi]]. Hai smarrito la via.  
 
-Tu, che fissi la tua [[Sword|spada]] per trovarla fragile,  
+Tu, che fissi la tua spada per trovarla fragile,  
 
 sorpreso della sorpresa che era il tuo piano,  
 
 tu che scuotendo e spezzando barriere non poco  
 
-non trovi mai più la porta-[[Death|morte]] di Sedan.  
+non trovi mai più la porta-[[motifs/death|morte]] di Sedan.  
 
 Devo io per più che carneficina chiamarti creditore,  
 
@@ -5456,13 +5456,13 @@ come dovrei pagarti, gente miserabile?
 
 Come dovrei pagarti tutto ciò che devi?34  
 
-Infelice, posso ridarti il tuo [[Honour|onore]]?  
+Infelice, posso ridarti il tuo [[concepts/honour|onore]]?  
 
 Anche se perdonassi, alcun uomo dimenticherebbe?  
 
 Mentre tutta la grande terra verde l'ha calpestata  
 
-il tradimento e il terrore della [[Night|notte]] in cui c'incontrammo.  
+il tradimento e il terrore della [[motifs/night|notte]] in cui c'incontrammo.  
 
 Non più in vendetta o in perdono  
 
@@ -5474,13 +5474,13 @@ Cavalca oltre e prospera. Hai perduto i tuoi speroni.
 
 IL CROCIATO TORNA DALLA PRIGIONIA  
 
-Sono uscito vivo dalla terra di porpora e [[Poison|veleno]] e incanto,  
+Sono uscito vivo dalla terra di porpora e [[motifs/poison|veleno]] e incanto,  
 
 dove il fascino è forte come la tortura, essendo scelto per mutare la mente;  
 
-tortura di [[Dance|danza]] senza parole e di banchetto senza vino e senza clamore,  
+tortura di [[motifs/dance|danza]] senza parole e di banchetto senza vino e senza clamore,  
 
-palazzo nascosto in palazzo, [[Garden|giardino]] con [[Garden|giardino]] dietro;  
+palazzo nascosto in palazzo, [[motifs/garden|giardino]] con [[motifs/garden|giardino]] dietro;  
 
 donne velate nel sole, o nude come bronzo nelle ombre,  
 
@@ -5488,7 +5488,7 @@ e gli infiniti disegni senz'occhi dove ogni cosa pare un occhio....
 
 E il mio passo è sulla sabbia di Cesare dove scivola verso i prati inglesi,  
 
-agli ultimi bassi boschi del Sussex e alla [[Road|strada]] che va a Rye.  
+agli ultimi bassi boschi del Sussex e alla [[motifs/road|strada]] che va a Rye.  
 
 Nei freschi e noncuranti boschi gli occhi degli eunuchi non ardevano,  
 
@@ -5496,21 +5496,21 @@ ma il falco selvatico mi precedeva, libero di tornare o vagare,
 
 i colli avevano ampie schiene inconsce; e le cime degli alberi non si volgevano,  
 
-e le capanne non si curavano di me: e seppi d'essere a [[Home|casa]].  
+e le capanne non si curavano di me: e seppi d'essere a [[motifs/home|casa]].  
 
-E vidi la mia dama in lontananza e su di lei la sua santa [[Freedom|libertà]],  
+E vidi la mia dama in lontananza e su di lei la sua santa [[concepts/freedom|libertà]],  
 
 un capo, senza velo, distolto, e non da volgere con incanti,  
 
-e udii sopra le banderuole spiegate le intolleranti trombe dell'[[Honour|onore]],  
+e udii sopra le banderuole spiegate le intolleranti trombe dell'[[concepts/honour|onore]],  
 
 che annunciano con ferreo riso il venire delle armi cristiane.  
 
 Il mio scudo pende ancora senza macchia; ma non andrò dove lo lodano,  
 
-una [[Sword|spada]] è ancora al mio fianco, ma non cavalcherò col [[King|Re]].  
+una spada è ancora al mio fianco, ma non cavalcherò col [[archetypes/king|Re]].  
 
-Solo camminare e camminare e stordire la mia [[Soul|anima]] e stupirla,  
+Solo camminare e camminare e stordire la mia [[motifs/soul|anima]] e stupirla,  
 
 un giorno con la pietra e il passero e ogni cosa meravigliosa.  
 
@@ -5518,21 +5518,21 @@ Ho percorso le curve della Mezzaluna, nel labirinto di chi l'adora,
 
 curvate attorno a camere senza porte e dimore non vedute,  
 
-ma non cammino più nel labirinto; sul segno della [[Cross|croce]] lo giurai,  
+ma non cammino più nel labirinto; sul segno della [[motifs/cross|croce]] lo giurai,  
 
-la selvaggia bianca [[Cross|croce]] della [[Freedom|libertà]], il segno dei bianchi crocicchi della [[Cross|croce]].  
+la selvaggia bianca [[motifs/cross|croce]] della [[concepts/freedom|libertà]], il segno dei bianchi crocicchi della [[motifs/cross|croce]].  
 
 E la terra mi lascerà o prenderà, e la Donna mi prenderà o lascerà,  
 
-non ci sarà più [[Night|Notte]], né incubi visti in uno specchio;  
+non ci sarà più [[motifs/night|Notte]], né incubi visti in uno specchio;  
 
-ma la Vita mi terrà vivo, e la [[Death|Morte]] non m'ingannerà mai  
+ma la Vita mi terrà vivo, e la [[motifs/death|Morte]] non m'ingannerà mai  
 
 finché camminerò in Inghilterra nei viottoli che mi lasciano passare.  
 
 III
 
-[[Love|AMORE]] [[Poems|POESIE]]  
+[[motifs/love|AMORE]] POESIE  
 
 GLENCOE  
 
@@ -5544,7 +5544,7 @@ ci si aprono come le porte di Dio
 
 fesse nell'ultima grande muraglia di tutto il mondo.  
 
-Guardai, e vidi la valle della mia [[Soul|anima]]  
+Guardai, e vidi la valle della mia [[motifs/soul|anima]]  
 
 dove nude creste lottano per raggiungere i cieli,  
 
@@ -5552,47 +5552,47 @@ dove non cresce grano né vino, nessuna cosa feconda,
 
 solo grandi parole e stellate bestemmie.  
 
-Ma tu hai rivestito con [[Mercy|misericordia]] come un musco  
+Ma tu hai rivestito con [[concepts/mercy|misericordia]] come un musco  
 
 la sterile violenza delle sue guerre primordiali,  
 
 sterili benché siano e prive di regola,  
 
-tu sai che le mie informi rupi hanno sposato le [[Stars|stelle]].  
+tu sai che le mie informi rupi hanno sposato le [[motifs/stars|stelle]].  
 
 Come ti ringrazierò, o cuore coraggioso.  
 
-che di questo mondo prodigo non avesti [[Fear|paura]];  
+che di questo mondo prodigo non avesti [[concepts/fear|paura]];  
 
-ma le ordinasti di fiorire in pura [[Faith|fede]] e mandasti  
+ma le ordinasti di fiorire in pura [[concepts/faith|fede]] e mandasti  
 
 i tuoi bei fiumi nutritori di fiori: proprio come qui  
 
 la torba brucia traboccando dalle loro coppe di pietra  
 
-brillano bruni e rosso-[[Blood|sangue]] giù per il vasto declivio  
+brillano bruni e rosso-[[motifs/blood|sangue]] giù per il vasto declivio  
 
-come se [[Christ|Cristo]] stesse su quel picco annuvolato  
+come se [[characters/christ|Cristo]] stesse su quel picco annuvolato  
 
 e mutasse le sue mille acque in vino.  
 
-IL TRAPPISTA DELL'[[Love|AMORE]]  
+IL TRAPPISTA DELL'[[motifs/love|AMORE]]  
 
 C'è un luogo dove liuto e lira sono spezzati.  
 
-Dove le pergamene sono strappate e su un selvaggio [[Wind|vento]] vanno,  
+Dove le pergamene sono strappate e su un selvaggio [[motifs/wind|vento]] vanno,  
 
 dove le tavolette stanno nude e deterse per segno,  
 
 dove gli allori appassiscono e crescono le margherite.  
 
-Ecco: anch'io mi unisco alla confraternita del [[Silence|silenzio]],  
+Ecco: anch'io mi unisco alla confraternita del [[motifs/silence|silenzio]],  
 
-sono il Trappista dell'[[Love|Amore]] e tu chiedi invano,  
+sono il Trappista dell'[[motifs/love|Amore]] e tu chiedi invano,  
 
-poiché l'uomo per la porta dell'[[Love|Amore]], come per la porta della [[Death|Morte]],  
+poiché l'uomo per la porta dell'[[motifs/love|Amore]], come per la porta della [[motifs/death|Morte]],  
 
-va [[Alone|solo]] e non torna più indietro.  
+va solo e non torna più indietro.  
 
 Eppure qui mi fermo, guardo indietro oltre la soglia.  
 
@@ -5604,7 +5604,7 @@ o mondo, vecchio mondo, il meglio non è mai stato detto!
 
 CONFESSIONALE  
 
-Ora che m'inginocchio al trono, o [[Queen|Regina]],  
+Ora che m'inginocchio al trono, o [[characters/queen|Regina]],  
 
 abbi pietà e perdonami.  
 
@@ -5612,11 +5612,11 @@ Molto mi sono sforzato di cantare lo stesso,
 
 fratello di bestia e d'albero;  
 
-eppure quando le [[Stars|stelle]] mi colgono [[Alone|solo]]  
+eppure quando le [[motifs/stars|stelle]] mi colgono solo  
 
 mai un fanello canta--  
 
-e il [[Blood|sangue]] d'un uomo è una voce amara  
+e il [[motifs/blood|sangue]] d'un uomo è una voce amara  
 
 e grida per cose folli.  
 
@@ -5626,13 +5626,13 @@ non fui io fin da fanciullo
 
 votato con l'elmo e la lancia e lo sprone  
 
-al vessillo rosso-[[Blood|sangue]] della gioia?  
+al vessillo rosso-[[motifs/blood|sangue]] della gioia?  
 
 Un uomo può cantare i suoi salmi a una pietra,  
 
-versare il suo [[Blood|sangue]] per un'erbaccia,  
+versare il suo [[motifs/blood|sangue]] per un'erbaccia,  
 
-ma le [[Tears|lacrime]] d'un uomo sono cosa improvvisa,  
+ma le [[motifs/tears|lacrime]] d'un uomo sono cosa improvvisa,  
 
 e non vengono dal suo credo.  
 
@@ -5640,13 +5640,13 @@ No, ma la terra è gentile con me,
 
 benché io gridi per una Stella,  
 
-[[Leaves|Foglie]] ed erbe, piuma e fiore,  
+[[motifs/leaves|Foglie]] ed erbe, piuma e fiore,  
 
 coprono la folle cicatrice,  
 
 profeti e santi e serafini  
 
-alleggeriscono il carico col [[Song|canto]],  
+alleggeriscono il carico col canto,  
 
 e il cuore d'un uomo è un carico pesante  
 
@@ -5660,13 +5660,13 @@ colui che mi fece sigillò i miei orecchi,
 
 e la pompa dei rumori magnifici,  
 
-onde di trionfo, onde di [[Tears|lacrime]],  
+onde di trionfo, onde di [[motifs/tears|lacrime]],  
 
 tuonarono vuote intorno e oltre me,  
 
 infrante, perdute per sempre,  
 
-antico oro di [[Pride|orgoglio]] e passione,  
+antico oro di [[concepts/pride|orgoglio]] e passione,  
 
 naufragato come tesoro su una riva.  
 
@@ -5682,11 +5682,11 @@ Nulla è perduto, ma tutto trasmutato,
 
 gli orecchi sono sigillati, eppure gli occhi hanno visto;  
 
-vidi i suoi sorrisi (o [[Soul|anima]] sii degna!),  
+vidi i suoi sorrisi (o [[motifs/soul|anima]] sii degna!),  
 
-vidi le sue [[Tears|lacrime]] (o cuore sii puro!).  
+vidi le sue [[motifs/tears|lacrime]] (o cuore sii puro!).  
 
-IL [[deluge|DILUVIO]]  
+IL DILUVIO  
 
 Benché piogge giganti spengano il sole,  
 
@@ -5698,7 +5698,7 @@ la mia coppa è colma di vino.
 
 Dite ai tremanti sacerdoti che qui  
 
-sotto la verga del [[deluge|diluvio]],  
+sotto la verga del diluvio,  
 
 Un uomo senza nome, lacero, spezzato  
 
@@ -5706,11 +5706,11 @@ Si levò e bevve a Dio.
 
 Il sole è stato dov'ora è la pioggia,  
 
-[[Bees|Api]] a ronzare nella calura,  
+[[motifs/bees|Api]] a ronzare nella calura,  
 
 Forse venne una fanciulla canterina,  
 
-Ora venga pure il [[deluge|Diluvio]]:  
+Ora venga pure il Diluvio:  
 
 Bruna d'aureola, verde di veste,  
 
@@ -5722,7 +5722,7 @@ Bevi all'ira di Dio.
 
 In alto tra il relitto reggevo la coppa,  
 
-Stringevo la mia [[Sword|spada]] arrugginita,  
+Stringevo la mia spada arrugginita,  
 
 Rizzavo la mia piuma sbrindellata  
 
@@ -5744,31 +5744,31 @@ Ma io vago come un menestrello con un'arpa sulle spalle,
 
 Benché l'arpa mi stia sul petto, benché la tasti e la tormenti,  
 
-Ancora, la mia [[Hope|speranza]] è tutta davanti a me: perché non so ancora suonarla.  
+Ancora, la mia [[concepts/hope|speranza]] è tutta davanti a me: perché non so ancora suonarla.  
 
 Nelle tue corde è nascosta una musica che nessuna mano lasciò mai cadere,  
 
-Nella tua [[Soul|anima]] è sigillato un piacere che non hai mai conosciuto affatto;  
+Nella tua [[motifs/soul|anima]] è sigillato un piacere che non hai mai conosciuto affatto;  
 
 Piacere sottile come il tuo spirito, strano ed esile come le tue membra,  
 
-Più fiero della [[Pain|pena]] che ti avvolge, più soave del nome del tuo dolore.  
+Più fiero della [[motifs/pain|pena]] che ti avvolge, più soave del nome del tuo dolore.  
 
-Non come il mio, o unta dell'[[Soul|anima]] mia, non come il mio, rozzo e lieve,  
+Non come il mio, o unta dell'[[motifs/soul|anima]] mia, non come il mio, rozzo e lieve,  
 
-Facile allegria di molti volti, spavaldo [[Pride|orgoglio]] di [[Song|canto]] e di lotta;  
+Facile allegria di molti volti, spavaldo [[concepts/pride|orgoglio]] di canto e di lotta;  
 
 Qualcosa di più strano, di più dolce, qualcosa che t'attende lontano,  
 
-Segreto come i tuoi sensi feriti, [[Magic|magico]] come sono i tuoi dolori.  
+Segreto come i tuoi sensi feriti, magico come sono i tuoi dolori.  
 
 Ma su questa, arpa superna di Dio, tesa solo per essere percossa una volta.  
 
-Il canuto [[Time|Tempo]] è un principiante, la Vita un pasticcione, la [[Death|Morte]] un somaro.  
+Il canuto [[motifs/time|Tempo]] è un principiante, la Vita un pasticcione, la [[motifs/death|Morte]] un somaro.  
 
-Ma non [[Fear|temerò]] di sfidarli--no, per Dio, non [[Fear|temerò]],  
+Ma non [[concepts/fear|temerò]] di sfidarli--no, per Dio, non [[concepts/fear|temerò]],  
 
-Ti imparerò, ti suonerò e le [[Stars|stelle]] si fermeranno ad ascoltare.  
+Ti imparerò, ti suonerò e le [[motifs/stars|stelle]] si fermeranno ad ascoltare.  
 
 IL GRANDE MINIMO  
 
@@ -5778,9 +5778,9 @@ IL GRANDE MINIMO
 
 È qualcosa aver vegliato quando tutti dormivano,  
 
-E visto le [[Stars|stelle]] che mai vedono il sole.  
+E visto le [[motifs/stars|stelle]] che mai vedono il sole.  
 
-È qualcosa aver odorato la mistica [[Rose|rosa]],  
+È qualcosa aver odorato la mistica [[motifs/rose|rosa]],  
 
 Benché si spezzi e lasci le verghe spinose,  
 
@@ -5804,13 +5804,13 @@ Passioni antiche e pericolose, strane ed alte;
 
 È qualcosa esser più antichi del cielo.  
 
-In un [[Time|tempo]] di tarme scettiche e ruggini ciniche,  
+In un [[motifs/time|tempo]] di tarme scettiche e ruggini ciniche,  
 
 E vite ingrassate che della loro dolcezza si stancano,  
 
 In un mondo di amori volanti e brame che sfioriscono,  
 
-È qualcosa esser sicuri di un [[Desire|desiderio]].  
+È qualcosa esser sicuri di un [[motifs/desire|desiderio]].  
 
 Ecco, benedette le nostre orecchie perché hanno udito;  
 
@@ -5818,7 +5818,7 @@ Sì, benedetti i nostri occhi perché hanno veduto:
 
 Che il tuono s'abbatta su uomo e bestia e uccello  
 
-E il [[Lightning|fulmine]]. È qualcosa essere stati.  
+E il [[motifs/lightning|fulmine]]. È qualcosa essere stati.  
 
 IL MORTALE RISPONDE  
 
@@ -5842,13 +5842,13 @@ Lottai come una bestia braccata;
 
 Con solo un braccio destro sfinito,  
 
-Solo una rossa [[Sword|spada]] consunta,  
+Solo una rossa spada consunta,  
 
-E l'[[Pride|orgoglio]] della [[house|Casa]] di Adamo  
+E l'[[concepts/pride|orgoglio]] della Casa di Adamo  
 
-Che tiene in disprezzo le [[Stars|stelle]].  
+Che tiene in disprezzo le [[motifs/stars|stelle]].  
 
-Poiché vennero con [[Chains|catene]] di [[Flowers|fiori]]  
+Poiché vennero con [[motifs/chains|catene]] di [[motifs/flowers|fiori]]  
 
 E gigli come lance libere,  
 
@@ -5860,7 +5860,7 @@ E io dissi: «Ora tutto è scosso
 
 Quando greve pende la fronte,  
 
-Quando la [[Hope|speranza]] degli anni è tolta  
+Quando la [[concepts/hope|speranza]] degli anni è tolta  
 
 L'ultima stella affondata. Ora--  
 
@@ -5872,7 +5872,7 @@ Lo strano forte grido nelle tenebre
 
 D'un uomo che loda Dio,  
 
-«Che dalla [[Night|notte]] e dal nulla  
+«Che dalla [[motifs/night|notte]] e dal nulla  
 
 Con le doglie della nascita venne  
 
@@ -5896,7 +5896,7 @@ Ma il mondo è più colmo di gloria
 
 Di quanto tu possa comprendere.»  
 
-UN [[Marriage|NUZIALE]] [[Song|CANTO]]  
+UN [[motifs/marriage|NUZIALE]] CANTO  
 
 Perché dovremmo curarci delle ore che lacerano  
 
@@ -5906,9 +5906,9 @@ I cieli squarciati da un capo all'altro
 
 Sarebbero solo tempo ventoso,  
 
-Le forti [[Stars|stelle]] scrollate giù in piena  
+Le forti [[motifs/stars|stelle]] scrollate giù in piena  
 
-Sarebbero uno scroscio di [[spring|primavera]],  
+Sarebbero uno scroscio di [[motifs/spring|primavera]],  
 
 E noi ascolteremmo la tromba del fato  
 
@@ -5930,7 +5930,7 @@ E le cose buone finiscono e le cattive finiscono,
 
 E tu ed io restiamo.  
 
-Perché dovremmo curarci del male o del [[Well|bene]]  
+Perché dovremmo curarci del male o del [[motifs/well|bene]]  
 
 Mentre noi due cavalchiamo insieme?  
 
@@ -5946,7 +5946,7 @@ Non faremo che lavarci i piedi in cielo,
 
 E scaldarci le mani all'inferno.  
 
-Battaglie [[unborn|non nate]] e vaste vedranno  
+Battaglie non nate e vaste vedranno  
 
 Sventolare i nostri vessilli vacillanti,  
 
@@ -5956,11 +5956,11 @@ Nuovi affanni si affaticano e brulicano;
 
 Nuovi amici passeranno e ancora rinnoveranno  
 
-Una [[Truth|verità]] che non è parvenza,  
+Una [[concepts/truth|verità]] che non è parvenza,  
 
 Che io sono io, e tu sei tu,  
 
-E la [[Death|Morte]] un sogno mattutino.  
+E la [[motifs/death|Morte]] un sogno mattutino.  
 
 Perché dovremmo curarci di scherno o di lode  
 
@@ -5990,7 +5990,7 @@ Per brandire le spade e prender parte
 
 In quella mischia che tutto conclude  
 
-Quando le [[Stars|stelle]] cadranno e le tenebre celeranno,  
+Quando le [[motifs/stars|stelle]] cadranno e le tenebre celeranno,  
 
 Quando Dio si volgerà a far fronte.  
 
@@ -6008,29 +6008,29 @@ Sulle pianure estreme,
 
 E ci volgeremo a ridire ancora una volta  
 
-Il nostro [[Love|amore]] nei sentieri d'Inghilterra.  
+Il nostro [[motifs/love|amore]] nei sentieri d'Inghilterra.  
 
 BAY COMBE  
 
-Con [[Leaves|foglie]] sotto e [[Leaves|foglie]] sopra,  
+Con [[motifs/leaves|foglie]] sotto e [[motifs/leaves|foglie]] sopra,  
 
 E brancolando di albero in albero,  
 
-Trovai la [[Home|casa]] del mio vero [[Love|amore]],  
+Trovai la [[motifs/home|casa]] del mio vero [[motifs/love|amore]],  
 
-Che è per me una [[Home|casa]] errante.  
+Che è per me una [[motifs/home|casa]] errante.  
 
 Che, perduta in mondi in rovina e remoti,  
 
 Portò le tremende ali di colomba come un tetto;  
 
-Che, oltre le ultime perdute [[Stars|stelle]] dello spazio  
+Che, oltre le ultime perdute [[motifs/stars|stelle]] dello spazio  
 
-Recava la luce del [[Fire|fuoco]] sul suo volto.  
+Recava la luce del [[motifs/fire|fuoco]] sul suo volto.  
 
 Che, passando come in ore d'ozio,  
 
-Addomesticò le erbacce selvatiche a [[Garden|giardino]] di [[Flowers|fiori]];  
+Addomesticò le erbacce selvatiche a [[motifs/garden|giardino]] di [[motifs/flowers|fiori]];  
 
 Carezzò le stridenti ali dello strano turbine,  
 
@@ -6042,23 +6042,23 @@ Il buio era più caro del giorno;
 
 Dove sostava in cielo o all'inferno,  
 
-La storia di tutto il mondo era finita [[Well|bene]].  
+La storia di tutto il mondo era finita [[motifs/well|bene]].  
 
-_Con [[Leaves|foglie]] sotto e [[Leaves|foglie]] sopra._  
+_Con [[motifs/leaves|foglie]] sotto e [[motifs/leaves|foglie]] sopra._  
 
 _E brancolando di albero in albero,_  
 
-_Trovai la [[Home|casa]] del mio vero [[Love|amore]],_  
+_Trovai la [[motifs/home|casa]] del mio vero [[motifs/love|amore]],_  
 
-_Che è per me una [[Home|casa]] errante_.  
+_Che è per me una [[motifs/home|casa]] errante_.  
 
 Dove fu scagliata, sopra, sotto,  
 
-Dalla rude [[Dance|danza]] della vita e della [[Death|morte]],  
+Dalla rude [[motifs/dance|danza]] della vita e della [[motifs/death|morte]],  
 
 Che cresca a Gotham--muoia a Roma,  
 
-Tra i pini è la sua [[Home|casa]].  
+Tra i pini è la sua [[motifs/home|casa]].  
 
 In qualche strana città, in qualche mattino d'argento,  
 
@@ -6074,15 +6074,15 @@ E i santi morti tornano in vita,
 
 Allora pedanti calvi e pergamene brune  
 
-Potranno reclamare il suo [[Blood|sangue]] per la città di [[London|Londra]].  
+Potranno reclamare il suo [[motifs/blood|sangue]] per la città di [[settings/london|Londra]].  
 
-_Ma [[Leaves|foglie]] sotto e [[Leaves|foglie]] sopra._  
+_Ma [[motifs/leaves|foglie]] sotto e [[motifs/leaves|foglie]] sopra._  
 
 _E brancolando di albero in albero,_  
 
-_Trovai la [[Home|casa]] del mio vero [[Love|amore]],_  
+_Trovai la [[motifs/home|casa]] del mio vero [[motifs/love|amore]],_  
 
-_Che è per me una [[Home|casa]] errante_.  
+_Che è per me una [[motifs/home|casa]] errante_.  
 
 La grande lapide potrà oltrepassare,  
 
@@ -6092,37 +6092,37 @@ Le vie del Cielo d'argento potrà calcare,
 
 Coi suoi grigi occhi terribili non saziati.  
 
-La [[City|città]] della gran pace nella [[Pain|pena]]  
+La [[motifs/city|città]] della gran pace nella [[motifs/pain|pena]]  
 
 Potrà passare, finché ritrovi  
 
-Questa piccola [[house|casa]] di leccio e abete  
+Questa piccola casa di leccio e abete  
 
-Che Dio costruì per lei prima delle [[Stars|stelle]].  
+Che Dio costruì per lei prima delle [[motifs/stars|stelle]].  
 
-Qui tra le [[Leaves|foglie]] cadute è avvolto  
+Qui tra le [[motifs/leaves|foglie]] cadute è avvolto  
 
 Il suo segreto centro del mondo.  
 
 Sediamo e sentiamo nel crepuscolo bruno  
 
-Le [[Stars|stelle]] volteggiare intorno a noi come un sole.  
+Le [[motifs/stars|stelle]] volteggiare intorno a noi come un sole.  
 
-_Poiché [[Leaves|foglie]] sotto e [[Leaves|foglie]] sopra._  
+_Poiché [[motifs/leaves|foglie]] sotto e [[motifs/leaves|foglie]] sopra._  
 
 _E brancolando di albero in albero,_  
 
-_Trovai la [[Home|casa]] del mio vero [[Love|amore]]._  
+_Trovai la [[motifs/home|casa]] del mio vero [[motifs/love|amore]]._  
 
-_Che è per me una [[Home|casa]] errante_.  
+_Che è per me una [[motifs/home|casa]] errante_.  
 
 IV  
 
-[[Poems|POESIE]] RELIGIOSE  
+POESIE RELIGIOSE  
 
 I MAGI  
 
-Va' con passo lieve, sotto [[Snow|neve]] o pioggia,  
+Va' con passo lieve, sotto [[motifs/snow|neve]] o pioggia,  
 
 Per trovare il luogo dove gli uomini possono pregare;  
 
@@ -6138,9 +6138,9 @@ Conosciamo ogni sapere labirintico,
 
 Siamo i tre saggi d'un tempo,  
 
-E sappiamo ogni cosa fuorché la [[Truth|verità]].  
+E sappiamo ogni cosa fuorché la [[concepts/truth|verità]].  
 
-Abbiamo girato e rigirato intorno alla [[Hill|collina]],  
+Abbiamo girato e rigirato intorno alla [[motifs/hill|collina]],  
 
 E perso il bosco tra gli alberi,  
 
@@ -6152,19 +6152,19 @@ le Furie le Eumenidi.
 
 Gli dèi della violenza presero il velo  
 
-Di visione e [[philosophy|filosofia]],  
+Di visione e filosofia,  
 
 Il Serpente che a tutti gli uomini portò sventura,  
 
 Si morde la propria coda maledetta,  
 
-E si chiama [[Eternity|Eternità]].  
+E si chiama [[concepts/eternity|Eternità]].  
 
 Va' con umiltà ... è grandinato e nevicato ...  
 
 Con voci sommesse e lanterne accese;  
 
-Così semplice è la [[Road|strada]],  
+Così semplice è la [[motifs/road|strada]],  
 
 Che possiamo deviarne.  
 
@@ -6178,25 +6178,25 @@ Poiché qualcosa è troppo grande per la vista,
 
 E qualcosa troppo semplice da dire.  
 
-Il [[Child|Bambino]] che era prima che i mondi cominciassero  
+Il [[archetypes/child|Bambino]] che era prima che i mondi cominciassero  
 
 (... Ci basta camminare un breve tratto,  
 
 Ci basta vedere un chiavistello sciolto,...)  
 
-Il [[Child|Bambino]] che giocava con la [[Moon|luna]] e il sole  
+Il [[archetypes/child|Bambino]] che giocava con la [[motifs/moon|luna]] e il sole  
 
 Sta giocando con un po' di fieno.  
 
-La [[house|casa]] da cui i cieli sono nutriti,  
+La casa da cui i cieli sono nutriti,  
 
-La vecchia strana [[house|casa]] che è la nostra,  
+La vecchia strana casa che è la nostra,  
 
 Dove giochi di parole non si dicono mai.  
 
-E la [[Mercy|Misericordia]] è semplice come il pane,  
+E la [[concepts/mercy|Misericordia]] è semplice come il pane,  
 
-E l'[[Honour|Onore]] è duro come la pietra.  
+E l'[[concepts/honour|Onore]] è duro come la pietra.  
 
 Va' con umiltà; umili sono i cieli,  
 
@@ -6206,7 +6206,7 @@ Così vicina giace la Mangiatoia
 
 Che possiamo viaggiare lontano.  
 
-Ascolta! Un riso come un [[Lion|leone]] si desta  
+Ascolta! Un riso come un [[motifs/lion|leone]] si desta  
 
 Per ruggire alla pianura risonante,  
 
@@ -6216,9 +6216,9 @@ Poiché Dio stesso è nato di nuovo,
 
 E noi siamo piccoli fanciulli che camminano  
 
-Attraverso la [[Snow|neve]] e la pioggia.  
+Attraverso la [[motifs/snow|neve]] e la pioggia.  
 
-LA [[house|CASA]] DEL NATALE  
+LA CASA DEL NATALE  
 
 Andò una madre cacciata via  
 
@@ -6226,7 +6226,7 @@ Fuori da una locanda a errare;
 
 Nel luogo dove ella era senza casa  
 
-Tutti gli uomini sono a [[Home|casa]].  
+Tutti gli uomini sono a [[motifs/home|casa]].  
 
 La stalla sgangherata lì vicino,  
 
@@ -6246,23 +6246,23 @@ Ogni volta che il giorno è finito.
 
 Qui abbiamo battaglia e occhi fiammeggianti,  
 
-E sorte e [[Honour|onore]] e alta sorpresa,  
+E sorte e [[concepts/honour|onore]] e alta sorpresa,  
 
 Dove il racconto di Natale fu cominciato.  
 
-Un [[Child|Bambino]] in una stalla immonda,  
+Un [[archetypes/child|Bambino]] in una stalla immonda,  
 
 Dove le bestie mangiano e schiumano;  
 
 Solo dove Egli fu senza casa  
 
-Tu ed io siamo a [[Home|casa]];  
+Tu ed io siamo a [[motifs/home|casa]];  
 
 Abbiamo mani che foggiano e teste che  
 
 Ma il cuore l'abbiamo perduto--quanto tempo fa!  
 
-In un luogo che nessuna carta né [[Ship|nave]] può mostrare  
+In un luogo che nessuna carta né [[motifs/ship|nave]] può mostrare  
 
 Sotto la cupola del cielo.  
 
@@ -6272,9 +6272,9 @@ E strane sono le cose semplici,
 
 La terra basta e l'aria basta  
 
-Per la nostra [[Wonder|meraviglia]] e la nostra guerra;  
+Per la nostra [[concepts/wonder|meraviglia]] e la nostra guerra;  
 
-Ma il nostro riposo è lontano quanto oscilla il drago di [[Fire|fuoco]]  
+Ma il nostro riposo è lontano quanto oscilla il drago di [[motifs/fire|fuoco]]  
 
 E la nostra pace è riposta in cose impossibili  
 
@@ -6282,9 +6282,9 @@ Dove cozzarono e tuonarono ali impensabili
 
 Intorno a una stella incredibile.  
 
-A una [[house|casa]] aperta nella sera  
+A una casa aperta nella sera  
 
-[[Home|A casa]] verranno gli uomini,  
+[[motifs/home|A casa]] verranno gli uomini,  
 
 A un luogo più antico dell'Eden  
 
@@ -6296,11 +6296,11 @@ Alle cose che non possono essere e che sono,
 
 Al luogo dove Dio fu senza casa  
 
-E tutti gli uomini sono a [[Home|casa]].  
+E tutti gli uomini sono a [[motifs/home|casa]].  
 
-UN [[Song|CANTO]] DI DONI A DIO  
+UN CANTO DI DONI A DIO  
 
-Quando vennero i primi doni di Natale, la paglia dove [[Christ|Cristo]] fu avvolto  
+Quando vennero i primi doni di Natale, la paglia dove [[characters/christ|Cristo]] fu avvolto  
 
 Odorò più dolce del loro incenso, arse più lucente del loro oro,  
 
@@ -6310,13 +6310,13 @@ E un saggio disse: «Non daremo; il ringraziamento sarebbe solo freddo».
 
 Si piega l'alta gratitudine di Dio; così come Egli ora, fratello mio,  
 
-Che ebbe un Padre per tutto il [[Time|tempo]], pur Lo ringrazia per una Madre.  
+Che ebbe un Padre per tutto il [[motifs/time|tempo]], pur Lo ringrazia per una Madre.  
 
 «Eppure a stento per Lui questa pietra gialla o gli aromi pungenti e radi.  
 
 Egli che tiene il cuore d'oro del sole che nutrì queste sbarre di legno,  
 
-Né alcun giglio inodore vive per Colui che odora le [[Stars|stelle]]».  
+Né alcun giglio inodore vive per Colui che odora le [[motifs/stars|stelle]]».  
 
 Allora parlò il terzo dei Magi; il più saggio dei tre:  
 
@@ -6332,7 +6332,7 @@ a fare meretrici dei Greci e bottegai degli Ebrei.
 
 «Meno nubi ai piedi colossali arrossano nella luce di sotto,  
 
-agli dèi ciechi di Babilonia meno incenso arda questa [[Night|notte]],  
+agli dèi ciechi di Babilonia meno incenso arda questa [[motifs/night|notte]],  
 
 alle alte bestie di Babilonia, le cui bocche si fanno beffe del diritto.»  
 
@@ -6346,37 +6346,37 @@ Accendi Tu il Tuo turibolo a Te stesso, ché tutti i nostri fuochi son fiochi,
 
 imprimi Tu la Tua immagine sulla nostra moneta, ché il volto di Cesare si fa fioco,  
 
-e un muto demone di [[Pride|orgoglio]] e [[Greed|avidità]] si è impadronito di lui.  
+e un muto demone di [[concepts/pride|orgoglio]] e [[concepts/greed|avidità]] si è impadronito di lui.  
 
 Ti riportiamo la grande Cristianità, chiese e città e torri.  
 
-E se le nostre mani son liete, o Dio, di gettarle giù come [[Flowers|fiori]],  
+E se le nostre mani son liete, o Dio, di gettarle giù come [[motifs/flowers|fiori]],  
 
 non è che arricchiscano le Tue mani, ma sono salvate dalle nostre.  
 
 IL REGNO DEI CIELI  
 
-Disse il Signore Iddio: «Costruite una [[house|casa]],  
+Disse il Signore Iddio: «Costruite una casa,  
 
-costruitela nella gola della [[Death|morte]],  
+costruitela nella gola della [[motifs/death|morte]],  
 
 fondatela nelle fauci dell'inferno.  
 
 Dove il mare perduto mormora,  
 
-fuochi e turbini, costruitela [[Well|bene]].»  
+fuochi e turbini, costruitela [[motifs/well|bene]].»  
 
-Faticarono aspramente fiamma e [[Wind|vento]],  
+Faticarono aspramente fiamma e [[motifs/wind|vento]],  
 
 ma di lì a poco gridano:  
 
-«Signore, [[Doubt|dubitiamo]] di questa Tua volontà,  
+«Signore, [[concepts/doubt|dubitiamo]] di questa Tua volontà,  
 
 siamo ciechi e mormoriamo perché,»  
 
 e i venti mormorano ancora.  
 
-Disse il Signore Iddio: «Costruite una [[house|casa]],  
+Disse il Signore Iddio: «Costruite una casa,  
 
 strappatene il tesoro dalla terra,  
 
@@ -6384,7 +6384,7 @@ con le potenze cozzanti dell'inferno
 
 lottate con forza informe e allegrezza,  
 
-tribù e uomini di guerra, costruitela [[Well|bene]].»  
+tribù e uomini di guerra, costruitela [[motifs/well|bene]].»  
 
 Allora i rossi crudi figli degli uomini  
 
@@ -6396,7 +6396,7 @@ ma di lì a poco stridono:
 
 e gli uomini selvaggi clamano ancora.  
 
-Disse il Signore Iddio: «Costruite una [[house|casa]],  
+Disse il Signore Iddio: «Costruite una casa,  
 
 fumo e ferro, scintilla e vapore,  
 
@@ -6404,7 +6404,7 @@ parlate e votate e comprate e vendete;
 
 lasciate che un mondo nuovo pulsi e scorra,  
 
-veggenti e artefici, costruitela [[Well|bene]].»  
+veggenti e artefici, costruitela [[motifs/well|bene]].»  
 
 Si adoperarono gli uomini astuti e forti,  
 
@@ -6414,11 +6414,11 @@ ma di lì a poco gridano:
 
 e non possiamo conoscere il perché,»  
 
-e i saggi [[Doubt|dubitano]] oggi.  
+e i saggi [[concepts/doubt|dubitano]] oggi.  
 
 Eppure, benché logori e sordi e ciechi,  
 
-forza e selvaggio, [[King|re]] e veggente  
+forza e selvaggio, [[archetypes/king|re]] e veggente  
 
 faticano ancora, non sanno perché;  
 
@@ -6430,13 +6430,13 @@ Finché infine, forse, su questo,
 
 fusa di passione e concordia,  
 
-[[Love|Amore]] sua [[Crown|corona]] e la pace suo sostegno  
+[[motifs/love|Amore]] sua [[motifs/crown|corona]] e la pace suo sostegno  
 
-sorga la [[City|città]] del Signore  
+sorga la [[motifs/city|città]] del Signore  
 
 che oscuramente edifichiamo oggi.  
 
-UN [[Hymn|INNO]] PER LA CHIESA MILITANTE  
+UN [[forms/hymn|INNO]] PER LA CHIESA MILITANTE  
 
 Grande Dio, che pieghi cielo e stella,  
 
@@ -6444,13 +6444,13 @@ piega i nostri pensieri torreggianti verso di te,
 
 e concedici in una guerra vacillante  
 
-i fermi piedi dell'[[Humility|umiltà]].  
+i fermi piedi dell'[[concepts/humility|umiltà]].  
 
 Signore, noi che afferriamo le spade di fiamma,  
 
 Signore, noi che gridiamo attorno al Tuo carro,  
 
-anche noi siam deboli di [[Pride|orgoglio]] e vergogna,  
+anche noi siam deboli di [[concepts/pride|orgoglio]] e vergogna,  
 
 anche noi siamo come i nostri nemici.  
 
@@ -6466,7 +6466,7 @@ La tremenda gioia che il Tuo Figlio ha mandato
 
 è più pesante di ogni affanno;  
 
-troviamo, come [[Cain|Caino]] la sua pena,  
+troviamo, come [[characters/cain|Caino]] la sua pena,  
 
 il nostro perdono più di quanto possiamo sopportare.  
 
@@ -6500,7 +6500,7 @@ Allora la mia visione fu più possente della parola dell'uomo;
 
 la parola si spezzò dinanzi ad essa come un incantesimo in fuga;  
 
-e la [[Memory|memoria]] e tutto ciò che il [[Time|tempo]] può insegnare  
+e la [[motifs/memory|memoria]] e tutto ciò che il [[motifs/time|tempo]] può insegnare  
 
 dinanzi a quello splendido oltraggio venne meno e cadde.  
 
@@ -6516,17 +6516,17 @@ Tale son io; nei cui pensieri non risiede
 
 alcuna immagine di quella vista né parte alcuna  
 
-né [[Memory|memoria]] alcuna: in cui dimora  
+né [[motifs/memory|memoria]] alcuna: in cui dimora  
 
 solo una felicità dentro il cuore,  
 
 una segreta felicità che imbeve il cuore  
 
-come i colli sono imbevuti dalla lenta [[Snow|neve]] che si dischiude,  
+come i colli sono imbevuti dalla lenta [[motifs/snow|neve]] che si dischiude,  
 
-o segreta come quel [[Wind|vento]] senza carta  
+o segreta come quel [[motifs/wind|vento]] senza carta  
 
-sul quale andarono le selvagge [[Leaves|foglie]] della Sibilla.  
+sul quale andarono le selvagge [[motifs/leaves|foglie]] della Sibilla.  
 
 O luce innalzata sopra ogni mortale sapere,  
 
@@ -6540,7 +6540,7 @@ LA TREGUA DEL NATALE
 
 Appassionata pace è nel cielo--  
 
-e nella [[Snow|neve]] sigillata d'argento  
+e nella [[motifs/snow|neve]] sigillata d'argento  
 
 le bestie sono perfette nel campo,  
 
@@ -6562,13 +6562,13 @@ E abbiamo le lingue terribili sciolte
 
 che lodano il mondo ai figli del mondo.)  
 
-L'ozioso umile [[Hill|colle]] e il bosco  
+L'ozioso umile [[motifs/hill|colle]] e il bosco  
 
 sono chinati sulla sacra nascita,  
 
 e per una piccola ora la terra  
 
-è pigra dell'[[Love|amore]] del bene--  
+è pigra dell'[[motifs/love|amore]] del bene--  
 
 (Ma pronto sei tu, e pronto son io,  
 
@@ -6580,23 +6580,23 @@ ed essi sono contro di noi ad uno ad uno;
 
 e gli uomini che odiano si radunano tutti insieme,  
 
-verso [[Pride|orgoglio]] e oro, e la grande piuma bianca  
+verso [[concepts/pride|orgoglio]] e oro, e la grande piuma bianca  
 
 e la cosa è incisa in stella e pietra  
 
-che gli uomini che [[Love|amano]] sono tutti [[Alone|soli]].)  
+che gli uomini che [[motifs/love|amano]] sono tutti soli.)  
 
-La fame è dura e il [[Time|tempo]] è aspro,  
+La fame è dura e il [[motifs/time|tempo]] è aspro,  
 
 ma benedite i mendicanti e baciate i re,  
 
-ché la [[Hope|speranza]] ha spezzato il cuore delle cose,  
+ché la [[concepts/hope|speranza]] ha spezzato il cuore delle cose,  
 
 e nulla fu mai lodato abbastanza.  
 
 (Ma imbraccia lo scudo per un colpo improvviso  
 
-e punta la [[Sword|spada]] quando lodi una cosa,  
+e punta la spada quando lodi una cosa,  
 
 ché noi siamo per tutti gli uomini sotto il sole,  
 
@@ -6604,13 +6604,13 @@ ed essi sono contro di noi ad uno ad uno;
 
 e mimo e mercante, thane e servo  
 
-ci odiano perché li [[Love|amiamo]] tutti;  
+ci odiano perché li [[motifs/love|amiamo]] tutti;  
 
 solo finché il tempo di Natale non passi  
 
 appassionata pace è nel cielo.)  
 
-UN [[Hymn|INNO]]  
+UN [[forms/hymn|INNO]]  
 
 O Dio della terra e dell'altare,  
 
@@ -6626,7 +6626,7 @@ le spade dello scherno ci dividono,
 
 non togliere da noi il tuo tuono,  
 
-ma togli via il nostro [[Pride|orgoglio]].  
+ma togli via il nostro [[concepts/pride|orgoglio]].  
 
 Da tutto ciò che il terrore insegna,  
 
@@ -6638,9 +6638,9 @@ che confortano gli uomini crudeli,
 
 dalla vendita e profanazione  
 
-dell'[[Honour|onore]] e della [[Sword|spada]],  
+dell'[[concepts/honour|onore]] e della spada,  
 
-dal [[Sleep|sonno]] e dalla dannazione,  
+dal [[motifs/sleep|sonno]] e dalla dannazione,  
 
 liberaci, buon Signore!  
 
@@ -6654,15 +6654,15 @@ colpiscici e salvaci tutti;
 
 in ira ed esultanza  
 
-ardente di [[Faith|fede]], e libera,  
+ardente di [[concepts/faith|fede]], e libera,  
 
 solleva una nazione vivente,  
 
-un'unica [[Sword|spada]] verso di te.  
+un'unica spada verso di te.  
 
-UN [[Song|CANTO]] DI NATALE PER TRE CORPORAZIONI  
+UN CANTO DI NATALE PER TRE CORPORAZIONI  
 
-DA CANTARSI MOLTO [[Time|TEMPO]] FA--O D'ORA INNANZI  
+DA CANTARSI MOLTO [[motifs/time|TEMPO]] FA--O D'ORA INNANZI  
 
 _I CARPENTIERI_  
 
@@ -6672,7 +6672,7 @@ San Giuseppe ai Carpentieri disse in un giorno di Natale:
 
 e la vostra parola alle vostre donne non sia punto dura o selvaggia:  
 
-per amor di me, vostro maestro, che ho venerato Moglie e [[Child|Figlio]].  
+per amor di me, vostro maestro, che ho venerato Moglie e [[archetypes/child|Figlio]].  
 
 Ma dolcemente intelaierete lo steccato, e dolcemente intaglierete la porta,  
 
@@ -6684,13 +6684,13 @@ Ma se strappano la Carta, che la campana a stormo parli per me!
 
 Che l'insegna di legno sopra la vostra bottega sia più fiera d'esser sfregiata  
 
-dello scudo-[[Lion|leone]] di Lancillotto che pendeva a Joyous Garde.»  
+dello scudo-[[motifs/lion|leone]] di Lancillotto che pendeva a Joyous Garde.»  
 
 _I CALZOLAI_  
 
 San Crispino ai calzolai disse in un tempo di Natale:  
 
-«Chi foggia ai piedi altrui non trarrà alcun bene dall'[[Pride|orgoglio]].  
+«Chi foggia ai piedi altrui non trarrà alcun bene dall'[[concepts/pride|orgoglio]].  
 
 Sanguinavano sul Monte, i piedi che portarono buone novelle,  
 
@@ -6698,7 +6698,7 @@ i cui legacci dei calzari non eravamo degni di sciogliere.
 
 Badate che i vostri piedi non offendano, né leviate con leggerezza il capo,  
 
-calpestate soavemente sulle strade assolate la lucente [[Dust|polvere]] dei morti.  
+calpestate soavemente sulle strade assolate la lucente [[motifs/dust|polvere]] dei morti.  
 
 Siano i vostri piedi calzati di pace; siate umili per tutta la vita.  
 
@@ -6714,7 +6714,7 @@ San Luca ai pittori nel giorno di Natale disse:
 
 «Badate che siano bianche le vesti che osate immergere nell'oro e nel rosso;  
 
-ché solo oro i re possono dare, e solo [[Blood|sangue]] i santi;  
+ché solo oro i re possono dare, e solo [[motifs/blood|sangue]] i santi;  
 
 e il suo alto compito si fa periglioso a chi li mischia nei colori.  
 
@@ -6726,7 +6726,7 @@ dipingete cose possenti, dipingete cose meschine, dipingete cose sciocche o dolc
 
 Ma se gli uomini spezzano la Carta, potete ucciderli nella strada.  
 
-E se dipingete un solo palo per loro, allora ... ma lo sapete [[Well|bene]],  
+E se dipingete un solo palo per loro, allora ... ma lo sapete [[motifs/well|bene]],  
 
 dipingete il volto d'una meretrice per trascinare tutti gli eroi giù all'inferno.»  
 
@@ -6742,7 +6742,7 @@ potete essere ogni altra cosa; non potete essere schiavi.
 
 Sarete stanchi e tolleranti delle fantasie che svaniscono,  
 
-ma se gli uomini [[Doubt|dubitano]] della Carta, chiamerete la Crociata--  
+ma se gli uomini [[concepts/doubt|dubitano]] della Carta, chiamerete la Crociata--  
 
 tromba e torcia e catapulta, cannone e arco e lama,  
 
@@ -6754,7 +6754,7 @@ La paglia sul tetto era come dorata,
 
 benché polverosa la paglia fosse e vecchia,  
 
-il [[Wind|vento]] aveva uno squillo come di trombe,  
+il [[motifs/wind|vento]] aveva uno squillo come di trombe,  
 
 benché soffiante e sterile e freddo,  
 
@@ -6764,7 +6764,7 @@ benché sciolti e strappati,
 
 ché sotto la gronda nel crepuscolo  
 
-un [[Child|bambino]] era nato.  
+un [[archetypes/child|bambino]] era nato.  
 
 Sono forse una miriade di bambini stati destati,  
 
@@ -6778,15 +6778,15 @@ Dio dimora in una terribile pazienza,
 
 non adirato, non consumato,  
 
-e di nuovo per il [[Child|bambino]] che fu dissipato  
+e di nuovo per il [[archetypes/child|bambino]] che fu dissipato  
 
-un [[Child|bambino]] è nato.  
+un [[archetypes/child|bambino]] è nato.  
 
 Che sappiamo noi degli eoni dietro di noi,  
 
 fosche dinastie perdute tanto tempo fa,  
 
-enormi imperi, come [[Dreams|sogni]] non ricordati,  
+enormi imperi, come [[motifs/dreams|sogni]] non ricordati,  
 
 enormi città per secoli abbattute?  
 
@@ -6794,9 +6794,9 @@ Questo almeno--che con rovina e con benedizione
 
 con fiore e con spina,  
 
-[[Love|Amore]] era là, e il suo grido era fra loro,  
+[[motifs/love|Amore]] era là, e il suo grido era fra loro,  
 
-«Un [[Child|bambino]] è nato.»  
+«Un [[archetypes/child|bambino]] è nato.»  
 
 Benché la tenebra sia rumorosa di sistemi,  
 
@@ -6804,31 +6804,31 @@ fosche fantasie che rodono e confutano,
 
 ancora le piume si agitano attorno a noi, sopra di noi  
 
-le ali dell'[[Shadow|ombra]] dell'[[Love|amore]]:  
+le ali dell'[[archetypes/shadow|ombra]] dell'[[motifs/love|amore]]:  
 
 Oh! principi e preti, l'avete veduto  
 
 impallidire per il vostro scherno.  
 
-Enormi albe [[Sleep|dormono]] dinanzi a noi, profondi mutamenti,  
+Enormi albe [[motifs/sleep|dormono]] dinanzi a noi, profondi mutamenti,  
 
-un [[Child|bambino]] è nato.  
+un [[archetypes/child|bambino]] è nato.  
 
 E le travi della fatica sono ancora dorate  
 
-con l'[[Dawn|alba]] della stella del cuore,  
+con l'[[motifs/dawn|alba]] della stella del cuore,  
 
 e i magi si avvicinano nel crepuscolo,  
 
 che sono stanchi del sapere e dell'arte,  
 
-e il volto del [[Tyrant|tiranno]] si oscura.  
+e il volto del [[archetypes/tyrant|tiranno]] si oscura.  
 
 Il suo spirito è straziato,  
 
-ché un nuovo [[King|Re]] è intronizzato; sì, il più severo,  
+ché un nuovo [[archetypes/king|Re]] è intronizzato; sì, il più severo,  
 
-un [[Child|bambino]] è nato.  
+un [[archetypes/child|bambino]] è nato.  
 
 E la madre ancora gioisce per il sussurrato  
 
@@ -6842,13 +6842,13 @@ Ancora il pargolo d'un'ora è un maestro
 
 che gli angeli adornano,  
 
-Emmanuele, [[Prophet|profeta]], unto,  
+Emmanuele, [[archetypes/prophet|profeta]], unto,  
 
-un [[Child|bambino]] è nato.  
+un [[archetypes/child|bambino]] è nato.  
 
 E tu, che sei ancora nella tua culla,  
 
-essendo il sole [[Crown|corona]] per la tua fronte,  
+essendo il sole [[motifs/crown|corona]] per la tua fronte,  
 
 rispondi, nostra carne, dà una risposta,  
 
@@ -6860,11 +6860,11 @@ a educare o ad ammonire--?
 
 Taci--come possiamo saperlo?--sapendo solo  
 
-un [[Child|bambino]] è nato.  
+un [[archetypes/child|bambino]] è nato.  
 
-UN [[Child|BAMBINO]] DELLE NEVI  
+UN [[archetypes/child|BAMBINO]] DELLE NEVI  
 
-Si ode un [[Hymn|inno]] quando i vetri s'appannano  
+Si ode un [[forms/hymn|inno]] quando i vetri s'appannano  
 
 e mai prima o di nuovo,  
 
@@ -6872,7 +6872,7 @@ quando le notti son forti d'una lunga tenebra,
 
 e il buio è vivo di pioggia.  
 
-Mai sappiamo se non nel nevischio e nella [[Snow|neve]],  
+Mai sappiamo se non nel nevischio e nella [[motifs/snow|neve]],  
 
 il luogo dove sono i grandi fuochi,  
 
@@ -6880,21 +6880,21 @@ che il mezzo della terra è una furente allegrezza
 
 e il cuore della terra una stella.  
 
-E di [[Night|notte]] giungiamo all'antica locanda  
+E di [[motifs/night|notte]] giungiamo all'antica locanda  
 
-dove il [[Child|bambino]] nel [[Frost|gelo]] è avvolto,  
+dove il [[archetypes/child|bambino]] nel [[motifs/frost|gelo]] è avvolto,  
 
 seguiamo i piedi dove tutte le anime s'incontrano  
 
 alla locanda alla fine del mondo.  
 
-Gli dèi giacciono morti dove le [[Leaves|foglie]] giacciono rosse,  
+Gli dèi giacciono morti dove le [[motifs/leaves|foglie]] giacciono rosse,  
 
 ché la fiamma del sole è fuggita.  
 
-Gli dèi giacciono freddi dove le [[Leaves|foglie]] giacciono d'oro,  
+Gli dèi giacciono freddi dove le [[motifs/leaves|foglie]] giacciono d'oro,  
 
-e un [[Child|Bambino]] viene avanti [[Alone|solo]].  
+e un [[archetypes/child|Bambino]] viene avanti solo.  
 
 UNA PAROLA  
 
@@ -6902,11 +6902,11 @@ Una parola venne fuori in Galilea, una parola simile a una stella;
 
 salì e risuonò e benedisse e arse ovunque vi siano cuori valorosi;  
 
-una parola di subitanea segreta [[Hope|speranza]], di prova e accrescimento  
+una parola di subitanea segreta [[concepts/hope|speranza]], di prova e accrescimento  
 
-d'ira e pietà fuse nel [[Fire|fuoco]], e passione che bacia la pace.  
+d'ira e pietà fuse nel [[motifs/fire|fuoco]], e passione che bacia la pace.  
 
-Una stella che sul mondo delle città ammiccava, una [[Sword|spada]] di fiamma;  
+Una stella che sul mondo delle città ammiccava, una spada di fiamma;  
 
 una stella dalle miriadi di tuoni parlante: una possente parola venne.  
 
@@ -6918,7 +6918,7 @@ Il martellare sui tetti al mattino, il fragore operoso dell'officina;
 
 Il sibilo dei trucioli ammucchiati fondi sul pavimento ventoso;  
 
-Il sommesso [[Song|canto]] del lavoratore brunito dal fuoco, il ronzio dell'umano valore--  
+Il sommesso canto del lavoratore brunito dal fuoco, il ronzio dell'umano valore--  
 
 Mescolata a tutto il rumore dei mestieri, la parola squillante andò innanzi.  
 
@@ -6944,39 +6944,39 @@ L'urlo dei Cesari immondi pugnalati in alto nelle sale di bronzo,
 
 Le fioche rauche Fiumane di uomini nudi, la cinghia dei regni del mondo che si spezza,  
 
-Le trombe dell'[[Apocalypse]], la tenebra della terra:  
+Le trombe dell'[[concepts/apocalypse|Apocalypse]], la tenebra della terra:  
 
-L'ira che infranse la lampada eterna e nascose l'eterno [[Hill|colle]],  
+L'ira che infranse la lampada eterna e nascose l'eterno [[motifs/hill|colle]],  
 
 Carica della distruzione d'un mondo, la parola procedeva ancora--  
 
 La vampa dei credi vi passò dentro, il sibilo di fuochi orrendi,  
 
-La lancia a capofitto, la scarlatta [[Cross|croce]], il cilicio e i rovi,  
+La lancia a capofitto, la scarlatta [[motifs/cross|croce]], il cilicio e i rovi,  
 
-Il canto tonante dei fratelli claustrali, il [[Song|canto]] del campione errante,  
+Il canto tonante dei fratelli claustrali, il canto del campione errante,  
 
 Il mutare di corone e troni, il groviglio dei forti.  
 
-Il crollo fragoroso di cimiero e [[Crown|corona]] e scudo e [[Cross|croce]] e piviale,  
+Il crollo fragoroso di cimiero e [[motifs/crown|corona]] e scudo e [[motifs/cross|croce]] e piviale,  
 
-Lo strappo dei fronzoli del [[Time|tempo]], la rovina di principe e papa,  
+Lo strappo dei fronzoli del [[motifs/time|tempo]], la rovina di principe e papa,  
 
 Il regno di milioni cenciosi uniti a strappare un debito gravoso,  
 
 Alta del ruggito di mille gole, la parola avanzava ancora.  
 
-Il [[Song|canto]] delle ruote vi passò dentro, il fragore e il fumo  
+Il canto delle ruote vi passò dentro, il fragore e il fumo  
 
-L'[[Riddle|enigma]] del bisogno e del salario, le nebbie che bruciano e soffocano.  
+L'[[forms/riddle|enigma]] del bisogno e del salario, le nebbie che bruciano e soffocano.  
 
 Lo spezzarsi delle cinghie d'oro, i bisogni che strisciano e gonfiano.  
 
-La [[Hope|speranza]] che rinvigorisce, la luce che abbaglia, l'evangelo assordante,  
+La [[concepts/hope|speranza]] che rinvigorisce, la luce che abbaglia, l'evangelo assordante,  
 
 Per regni morti e imperi dannati, per mutamenti senza posa,  
 
-Con terremoto, caos, nata e nutrita, [[Rose|sorse]],--e la parola fu "Pace."  
+Con terremoto, caos, nata e nutrita, [[motifs/rose|sorse]],--e la parola fu "Pace."  
 
 V  
 
@@ -6984,7 +6984,7 @@ RIME PER I TEMPI
 
 ANTICRISTO, O LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
 
-"UN PROGETTO DI LEGGE CHE HA SCOSSO LA [[Conscience|COSCIENZA]] DI  
+"UN PROGETTO DI LEGGE CHE HA SCOSSO LA [[concepts/conscience|COSCIENZA]] DI  
 
 OGNI COMUNITÀ CRISTIANA D'EUROPA."--  
 
@@ -6992,15 +6992,15 @@ _Mr. F.E. Smith_, SUL WELSH DISESTABLISHMENT BILL.
 
 Si aggrappano alle loro croci,  
 
-F.E. [[smith|Smith]],  
+F.E. Smith,  
 
 Dove beccheggia la flotta bretone,  
 
-Lo fanno, [[smith|Smith]]?  
+Lo fanno, Smith?  
 
 Forse, digiunando, arrancando, sanguinando,  
 
-Attendono notizie da questa nostra [[City|città]]?  
+Attendono notizie da questa nostra [[motifs/city|città]]?  
 
 Gemendo "Ecco la Seconda Lettura!"  
 
@@ -7012,15 +7012,15 @@ Se l'argomento di McKenna ha midollo,
 
 Tremano per i loro altari?  
 
-Lo fanno, [[smith|Smith]]?  
+Lo fanno, Smith?  
 
 I contadini russi attorno al loro pope  
 
-Stretti, [[smith|Smith]],  
+Stretti, Smith,  
 
-Ne sanno tutto, io [[Hope|spero]],  
+Ne sanno tutto, io [[concepts/hope|spero]],  
 
-Non è vero, [[smith|Smith]]?  
+Non è vero, Smith?  
 
 Nei borghi montani che rivestono  
 
@@ -7034,45 +7034,45 @@ Leggono tutto questo su Hansard
 
 Con un sussidio per decifrarlo--  
 
-"Decime Gallesi: Dr. [[Clifford]] Confutato,"  
+"Decime Gallesi: Dr. [[characters/clifford|Clifford]] Confutato,"  
 
-Davvero, [[smith|Smith]]?  
+Davvero, Smith?  
 
 Nelle terre dove i cristiani furono,  
 
-F.E. [[smith|Smith]],  
+F.E. Smith,  
 
 Nelle piccole terre spogliate,  
 
-[[smith|Smith]], O [[smith|Smith]]!  
+Smith, O Smith!  
 
 Dove le bande turche s'affaccendano,  
 
 E il nome Tory è benedetto  
 
-Da quando salutarono la [[Cross]] di Dizzy  
+Da quando salutarono la [[motifs/cross|Cross]] di Dizzy  
 
 Sulle bandiere venute dall'Ovest!  
 
 Gli uomini non la trovano poi tanto dura se  
 
-L'[[Islam]] brucia i loro cari e congiunti,  
+L'[[historical-references/islam|Islam]] brucia i loro cari e congiunti,  
 
 Poiché un curato vive a Cardiff  
 
-Salvato da [[smith|Smith]].  
+Salvato da Smith.  
 
 Gran conforto, devo ammettere,  
 
-Mi daresti, [[smith|Smith]],  
+Mi daresti, Smith,  
 
-Se questo tema lo lasciassi [[Alone|stare]],  
+Se questo tema lo lasciassi stare,  
 
-Santo [[smith|Smith]]!  
+Santo Smith!  
 
 Per la tua causa legale o civile  
 
-Combatti [[Well|bene]] e prendi la parcella;  
+Combatti [[motifs/well|bene]] e prendi la parcella;  
 
 Per il tuo Dio o sogno o diavolo  
 
@@ -7084,7 +7084,7 @@ E del Denaro che vi va appresso!
 
 Ma le anime dei popoli cristiani....  
 
---Piantala, [[smith|Smith]]!  
+--Piantala, Smith!  
 
 IL RIVOLUZIONARIO: OVVERO VERSI A UN UOMO DI STATO  
 
@@ -7094,11 +7094,11 @@ ERA IN CORSO."--_Discorso del Rt. Hon. Walter
 
 Long_.  
 
-Quando la [[Death]] era sui tuoi tamburi, [[democracy|Democrazia]],  
+Quando la [[motifs/death|Death]] era sui tuoi tamburi, [[concepts/democracy|Democrazia]],  
 
 E con un solo impeto di schiavi il mondo fu libero,  
 
-In quell'alta [[Dawn|alba]] che i Re non scorderanno,  
+In quell'alta [[motifs/dawn|alba]] che i Re non scorderanno,  
 
 V'era un vuoto e Walter ancora non era.  
 
@@ -7106,7 +7106,7 @@ Per Versailles saccheggiata, a Valmy nella mischia,
 
 Fecero senza di lui in qualche modo;  
 
-La rossa Cristianità tutta senza Walter [[Cross|attraversano]],  
+La rossa Cristianità tutta senza Walter [[motifs/cross|attraversano]],  
 
 E nella loro furia appena avvertono la perdita....  
 
@@ -7114,7 +7114,7 @@ Svanisce la Repubblica; fioca come il corno di Roland,
 
 Le sue trombe ci scherniscono con sacro sdegno....  
 
-Poi cadde il [[Silence|silenzio]]; e nacque Mr. Long.  
+Poi cadde il [[motifs/silence|silenzio]]; e nacque Mr. Long.  
 
 Dalle sue prime ore nella costosa culla  
 
@@ -7134,9 +7134,9 @@ I ricchi potevano ancora reggere il paese.
 
 Vane sono le pie arti dei genitori,  
 
-La Rivoluzione frustrata gli ribolliva nel [[Blood|sangue]];  
+La Rivoluzione frustrata gli ribolliva nel [[motifs/blood|sangue]];  
 
-Finché un giorno (il bimbo [[unborn]] lo piangerà)  
+Finché un giorno (il bimbo unborn lo piangerà)  
 
 La Costituzione lo annoiò ed egli la uccise.  
 
@@ -7144,13 +7144,13 @@ Fossi io saggio e buono e ricco e forte--
 
 Folle, empio pensiero, fossi io Walter Long--  
 
-Potessi l'[[Water|acqua]] vendere come oro fuso,  
+Potessi l'[[motifs/water|acqua]] vendere come oro fuso,  
 
 E far fare agli adulti ciò che si comanda,  
 
 Se su campi privati e lande vaste  
 
-Quanto una [[City|città]] greca per cui morirono eroi,  
+Quanto una [[motifs/city|città]] greca per cui morirono eroi,  
 
 Possedessi le case e gli uomini dentro--  
 
@@ -7176,7 +7176,7 @@ Che l'uomo per caso non mi guardi e mi veda;
 
 Che gli uomini non chiedano quale folle mi fece signore  
 
-Dei vomeri inglesi e della [[Sword|spada]] inglese;  
+Dei vomeri inglesi e della spada inglese;  
 
 Che gli uomini non notino quanto sonnolento è il cenno  
 
@@ -7196,11 +7196,11 @@ E se la sproni a infrangere queste grigie regole,
 
 Per pochi spiccioli, bada a non destare  
 
-La [[Death]] e lo splendore del berretto scarlatto,  
+La [[motifs/death|Death]] e lo splendore del berretto scarlatto,  
 
 Boston e Valmy, Yorktown e Jemmappes,  
 
-La [[Freedom]] in armi, le cavalcate e le rotte,  
+La [[concepts/freedom|Freedom]] in armi, le cavalcate e le rotte,  
 
 Il tuono dei capitani e il clamore,  
 
@@ -7216,7 +7216,7 @@ Che Shakespeare fosse del tutto
 
 E perciò entrò in un Comitato  
 
-Con parecchi tizi venuti dalla [[City|città]].  
+Con parecchi tizi venuti dalla [[motifs/city|città]].  
 
 E Shorter e Sir Herbert Tree,  
 
@@ -7278,11 +7278,11 @@ Lord Lilac era di stoffa più lieve;
 
 Lord Lilac ne aveva avuto abbastanza.  
 
-L'ORRIBILE [[history|STORIA]] DI [[Jones|JONES]]  
+L'ORRIBILE [[concepts/history|STORIA]] DI [[characters/jones|JONES]]  
 
-[[Jones]] aveva un cane; esso una catena;  
+[[characters/jones|Jones]] aveva un cane; esso una catena;  
 
-Non spesso portata, senza dar [[Pain|pena]];  
+Non spesso portata, senza dar [[motifs/pain|pena]];  
 
 Ma, poiché la I.K.L. aveva approvato  
 
@@ -7302,7 +7302,7 @@ Per essere Udibilmente a Piede Libero.
 
 Nessuno, direte, era ormai molestato,  
 
-Salvo forse [[Jones]]--il cortile era vuoto.  
+Salvo forse [[characters/jones|Jones]]--il cortile era vuoto.  
 
 Ma essendoci qualcosa nel contratto  
 
@@ -7316,11 +7316,11 @@ Ora se c'è una condizione
 
 Su cui la C.C.P. è irremovibile  
 
-È che ogni [[house]] che si compra  
+È che ogni house che si compra  
 
 Deve avere un cortile per l'esercizio;  
 
-Così [[Jones]], come inquilino, era inidoneo.  
+Così [[characters/jones|Jones]], come inquilino, era inidoneo.  
 
 Il suo stato di salute ne era la prova.  
 
@@ -7348,13 +7348,13 @@ Vederlo seduto lì senza arti
 
 Era più di quanto la K.K. potesse reggere  
 
-"Per [[Mercy|pietà]] [[Silence|zittite]] con ogni [[Speed|prontezza]]  
+"Per [[concepts/mercy|pietà]] [[motifs/silence|zittite]] con ogni [[characters/speed|prontezza]]  
 
 Quella bocca che non ha mani per nutrirla;  
 
 Quale crudele sentimentale,  
 
-O [[Jones]], ti condannerebbe a esistere--  
+O [[characters/jones|Jones]], ti condannerebbe a esistere--  
 
 Aggrappato ancora all'egoistica Individualità?  
 
@@ -7368,13 +7368,13 @@ Lascia che ti costruiamo un poco--"
 
 La testa cadde quando fu colpita:  
 
-Allora sorsero parole e onesto [[Doubt|dubbio]],  
+Allora sorsero parole e onesto [[concepts/doubt|dubbio]],  
 
 E quattro Commissioni sedettero a discutere  
 
 Se il fendente che lo lasciò morto  
 
-Gli mozzò il [[Body|corpo]] o la testa.  
+Gli mozzò il [[concepts/body|corpo]] o la testa.  
 
 Un autore nell'Isle of Wight  
 
@@ -7382,7 +7382,7 @@ Osservò con non celato diletto
 
 Una terra di antica e giusta fama  
 
-Dove la [[Freedom]] lenta si allargava  
+Dove la [[concepts/freedom|Freedom]] lenta si allargava  
 
 Di Precedente in Precedente....  
 
@@ -7392,7 +7392,7 @@ IL NUOVO LIBERO PENSATORE
 
 John Grubby, che era basso e tarchiato  
 
-E afflitto da [[Doubt|dubbio]] religioso,  
+E afflitto da [[concepts/doubt|dubbio]] religioso,  
 
 Rifiutò verso i tre anni  
 
@@ -7402,7 +7402,7 @@ Di sedersi sul ginocchio del curato;
 
 Tra lo spirito del tempo  
 
-E il Dogma, che, com'è [[Well|ben]] noto.  
+E il Dogma, che, com'è [[motifs/well|ben]] noto.  
 
 Detesta semplicemente d'essere superato).  
 
@@ -7422,11 +7422,11 @@ Gli altari vacillarono, i cieli tremarono,
 
 Proprio come aveva letto nel libro;  
 
-Scagliato dalla sua [[house]] uscì il giovane  
+Scagliato dalla sua house uscì il giovane  
 
-[[Alone]] con le tempeste e la [[Truth]],  
+[[works/alone-(poe)|Alone]] con le tempeste e la [[concepts/truth|Truth]],  
 
-Su verso la lontana [[City|città]] e fosca  
+Su verso la lontana [[motifs/city|città]] e fosca  
 
 Dove il suo papà gli aveva comprato  
 
@@ -7448,21 +7448,21 @@ Arricchì un uomo più in fretta:
 
 Fu lui a fermare lo Sciopero del Carbone,  
 
-Ché i bimbi affamati gli straziavano l'[[Soul|anima]];  
+Ché i bimbi affamati gli straziavano l'[[motifs/soul|anima]];  
 
 Per finire la loro miseria lì e subito  
 
 Riempì le miniere di cinesi--  
 
-Sedette in quella [[house|Camera]] che spezzò i Re,  
+Sedette in quella Camera che spezzò i Re,  
 
 E votò per ogni sorta di cose--  
 
-E [[Rose|salì]] da Sotto-Segr. a Segr.  
+E [[motifs/rose|salì]] da Sotto-Segr. a Segr.  
 
 Alcuni brontolarono. Ringhiosi che davano meno  
 
-Che generoso culto al [[success]],  
+Che generoso culto al success,  
 
 I piccoli tipografi di Dundee  
 
@@ -7474,7 +7474,7 @@ Lo rispettano un po' meno del cielo.
 
 Non importa. Questo si può ancora dire:  
 
-Mai a [[Supernatural|soprannaturale]] terrore,  
+Mai a [[motifs/supernatural|soprannaturale]] terrore,  
 
 Mai a deità invisibile,  
 
@@ -7494,7 +7494,7 @@ Il suo grembo ancora vuoto di fama,
 
 E ancora attraverso il deserto degli anni  
 
-John Grubby, nella [[house|Camera]] dei Pari,  
+John Grubby, nella Camera dei Pari,  
 
 Affronta quel curato, fiero e libero,  
 
@@ -7514,7 +7514,7 @@ Una tromba attraverso il buio del mondo,
 
 Una mano inglese toccherebbe il tuo sudario, fidando  
 
-Che la [[Truth|verità]] sia detta ancora in lingua inglese.  
+Che la [[concepts/truth|verità]] sia detta ancora in lingua inglese.  
 
 E anche noi ancora potremo praticare ciò che predichiamo,  
 
@@ -7532,11 +7532,11 @@ Non curarti se i mezzi ingegni deridono la tua lama spezzata:
 
 Mammona nostro padrone fa male ogni cosa.  
 
-Tu sei il [[Fool]] che caricò un mulino a vento. Eppure,  
+Tu sei il [[archetypes/fool|Fool]] che caricò un mulino a vento. Eppure,  
 
 Il Mugnaio è un Furfante; ed ebbe paura.  
 
-Deponi la tua [[Sword|spada]]. La Rovina riconoscerà i suoi.  
+Deponi la tua spada. La Rovina riconoscerà i suoi.  
 
 Lascia che ogni piccolo statista semini la sua fiacca avena selvatica,  
 
@@ -7544,15 +7544,15 @@ O rivolti la giubba per decorare la giubba,
 
 O prenda il trono e perisca per il trono.  
 
-Deponi la tua [[Sword|spada]]. E lascia che la Bianca [[Flag]] sbiadisca  
+Deponi la tua spada. E lascia che la Bianca [[motifs/flag|Flag]] sbiadisca  
 
-In grigio; e che la Rossa [[Flag]] sbiadisca in rosa,  
+In grigio; e che la Rossa [[motifs/flag|Flag]] sbiadisca in rosa,  
 
 Per questi che salgono e salgono; e non sanno affondare  
 
-Così a fondo come [[Death|morte]] e [[Honour|onore]], Déroulède.  
+Così a fondo come [[motifs/death|morte]] e [[concepts/honour|onore]], Déroulède.  
 
-[[Sonnet|SONETTO]] CON GLI AUGURI DELLA STAGIONE  
+[[forms/sonnet|SONETTO]] CON GLI AUGURI DELLA STAGIONE  
 
 A UN CAPO POPOLARE DA CONGRATULARSI MOLTO  
 
@@ -7562,21 +7562,21 @@ Ti conosco. Saluterai l'immenso scampato pericolo,
 
 Dicendo che il rinfoderare di mille spade,  
 
-In [[Silence|silenzio]] e ingiustizia, [[Well|ben]] s'accorda  
+In [[motifs/silence|silenzio]] e ingiustizia, [[motifs/well|ben]] s'accorda  
 
-Con le [[Bells|campane]] di Natale. E indorerai di grasso  
+Con le [[motifs/bells|campane]] di Natale. E indorerai di grasso  
 
 I giornali, i padroni, la polizia,  
 
 E vomiterai nel vuoto le tue parole ventose  
 
-Al tuo Nuovo [[Christ]]; che non porta frusta di corde  
+Al tuo Nuovo [[characters/christ|Christ]]; che non porta frusta di corde  
 
 Per quelli che trafficano nelle colombe della pace.  
 
 La festa degli amici, l'albero dai frutti di candele,  
 
-Non ho mancato di [[Honour|onorare]]. E dico  
+Non ho mancato di [[concepts/honour|onorare]]. E dico  
 
 Sarebbe meglio per uomini come noi,  
 
@@ -7586,13 +7586,13 @@ Uccisi a fucilate su nevi scarlatte per la libertà,
 
 Morti nella luce del giorno di Natale.  
 
-UN [[Song|CANTO]] DI SPADE
+UN CANTO DI SPADE
 
 "UNA MANDRIA DI BESTIAME ENTRÒ IN UN VILLAGGIO CHIAMATO  
 
 SWORDS, E FU FERMATA DAI RIVOLTOSI."---_Daily Paper_.  
 
-Nel luogo chiamato Swords, sulla [[Road|strada]] d'Irlanda,
+Nel luogo chiamato Swords, sulla [[motifs/road|strada]] d'Irlanda,
 
 si narra, per una nuova rinomanza,
 
@@ -7610,9 +7610,9 @@ e luce sui signori crudeli,
 
 sulle anime che a un tratto ogni uomo conobbe,
 
-e sventolò la [[Flag|bandiera]] verde e sventolò la [[Flag|bandiera]] rossa,
+e sventolò la [[motifs/flag|bandiera]] verde e sventolò la [[motifs/flag|bandiera]] rossa,
 
-e più d'una [[Wheel|ruota]] del mondo si fermò anch'essa,
+e più d'una [[motifs/wheel|ruota]] del mondo si fermò anch'essa,
 
 quando il bestiame fu fermato a Swords.
 
@@ -7628,7 +7628,7 @@ Signori del salario iniquo e vile.
 
 questa è la vostra paga legittima.
 
-Spremeste un [[Child|bambino]] a un prezzo di tortura
+Spremeste un [[archetypes/child|bambino]] a un prezzo di tortura
 
 che non osaste nominare a parole;
 
@@ -7640,11 +7640,11 @@ e il codardo era palese come una vacca percossa
 
 quando il bestiame si smarrì a Swords.
 
-La [[Wheel|ruota]] del tormento delle mogli girò  
+La [[motifs/wheel|ruota]] del tormento delle mogli girò  
 
 per spezzare la fratellanza degli uomini;
 
-deste il buon [[Blood|sangue]] irlandese a ungere
+deste il buon [[motifs/blood|sangue]] irlandese a ungere
 
 i randelli dei nemici della vostra patria;
 
@@ -7658,9 +7658,9 @@ la più lunga fra le corde del boia;
 
 Ma i re e le folle trattengono il respiro,  
 
-in un'[[Shadow|ombra]] gigante su tutto ciò che sta sotto,
+in un'[[archetypes/shadow|ombra]] gigante su tutto ciò che sta sotto,
 
-là dove Dio sta reggendo le bilance della [[Death|Morte]]
+là dove Dio sta reggendo le bilance della [[motifs/death|Morte]]
 
 tra il bestiame e Swords.
 
@@ -7684,17 +7684,17 @@ Segna ancora quel luogo da cercare o fuggire,
 
 Nelle strade dove corre il bestiame in lotta--  
 
-Erba e un [[Silence|silenzio]] di giudizio compiuto  
+Erba e un [[motifs/silence|silenzio]] di giudizio compiuto  
 
 Nel luogo che è chiamato Swords.  
 
-UN [[Song|CANTO]] DI SCONFITTA  
+UN CANTO DI SCONFITTA  
 
 La linea si spezza e i cannoni affondano,  
 
 I signori e i lacchè cavalcano la piana;  
 
-Traggo profondi respiri di [[Dawn|alba]] e tuono,  
+Traggo profondi respiri di [[motifs/dawn|alba]] e tuono,  
 
 E tutto il mio cuore torna giovane.  
 
@@ -7712,7 +7712,7 @@ Come un tempo nella mia vita pulsarono e ondeggiarono;
 
 Ho ritrovato la mia giovinezza nella battaglia perduta,  
 
-Ho ritrovato il mio cuore sul [[Battlefield|campo di battaglia]].  
+Ho ritrovato il mio cuore sul [[settings/battlefield|campo di battaglia]].  
 
 Ché noi che combattiamo finché il mondo sia libero,  
 
@@ -7732,7 +7732,7 @@ E fieri di vedere i nostri nomi in stampa.
 
 Ché così vinsero e così ci disperdemmo,  
 
-Quando il Diavolo cavalcò e i suoi [[dogs]] fiutarono l'oro,  
+Quando il Diavolo cavalcò e i suoi dogs fiutarono l'oro,  
 
 E la pace di un popolo innocuo fu infranta;  
 
@@ -7742,13 +7742,13 @@ Quando gli uomini bastardi che il mercato classifica
 
 Avevano mani viscide sulla verga di England,  
 
-E [[Sword|spada]] in pugno sui valichi d'Afric  
+E spada in pugno sui valichi d'Afric  
 
 La sua ultima Repubblica gridò a Dio.  
 
 Ché gli uomini che nessun signore può comprare o vendere,  
 
-Non seggono tranquilli quando tutto va [[Well|bene]].  
+Non seggono tranquilli quando tutto va [[motifs/well|bene]].  
 
 Si son detti l'un l'altro ciò che nulla può soffocare,  
 
@@ -7762,9 +7762,9 @@ Il mercante che, schernendo l'ira santa,
 
 Faticosamente si dipinge il volto di rabbia.  
 
-E la [[Faith|fede]] dei poveri è fioca e parziale,  
+E la [[concepts/faith|fede]] dei poveri è fioca e parziale,  
 
-E l'[[Pride|orgoglio]] dei ricchi è tutto in vendita,  
+E l'[[concepts/pride|orgoglio]] dei ricchi è tutto in vendita,  
 
 E gli araldi eletti del Maresciallo di England  
 
@@ -7774,19 +7774,19 @@ E gli spilorci che non osano dare sono satolli,
 
 E i deboli che non osano fallire sono forti,  
 
-Così mentre la [[City]] della Fatica è sventrata,  
+Così mentre la [[motifs/city|City]] della Fatica è sventrata,  
 
-Io sto in sella e canto il mio [[Song|canto]].  
+Io sto in sella e canto il mio canto.  
 
 Ché noi che combattiamo finché il mondo sia libero,  
 
 Non abbiamo conforto nella vittoria;  
 
-Ci siamo letti l'un l'altro come [[Cain]] suo fratello,  
+Ci siamo letti l'un l'altro come [[characters/cain|Cain]] suo fratello,  
 
 Ci conosciamo, questi schiavi e noi.  
 
-[[Sonnet|SONETTO]]  
+[[forms/sonnet|SONETTO]]  
 
 NELL'UDIRE UN PROPRIETARIO ACCUSATO (FALSAMENTE, PER  
 
@@ -7796,7 +7796,7 @@ NUMEROSI CAVALLI BIANCHI CHE ERANO O NON ERANO
 
 LEGATI AD ALFRED THE GREAT  
 
-Se hai ripulito il tuo prato di [[Leaves|foglie]] e lumache,  
+Se hai ripulito il tuo prato di [[motifs/leaves|foglie]] e lumache,  
 
 Se hai detto al tuo valletto, magari con giuramenti,  
 
@@ -7804,17 +7804,17 @@ Una volta a settimana o giù di lì, di spazzolarti gli abiti.
 
 Se hai osato pulirti i denti, o le unghie,  
 
-Mentre il [[Horse]] sul monte santo vien meno--  
+Mentre il [[motifs/horse|Horse]] sul monte santo vien meno--  
 
 Allora Dio che Alfred alla sua terra fidanza  
 
-Mandi su di te urlante tutto ciò che l'[[Honour|onore]] aborre,  
+Mandi su di te urlante tutto ciò che l'[[concepts/honour|onore]] aborre,  
 
 Frustate, Hounsditch, debiti, e _Daily Mails_.  
 
 Non sai nemmeno conservare? Ché se davvero  
 
-Il Bianco [[Horse]] sbiadisce; allora più vicina striscia la battaglia  
+Il Bianco [[motifs/horse|Horse]] sbiadisce; allora più vicina striscia la battaglia  
 
 Quando strofineremo bianco il volto di England,  
 
@@ -7832,7 +7832,7 @@ Sognò qui, si dice, di spingerci al mare:
 
 O spingiamoci da soli! Perché è libero  
 
-E sa di [[Honour|onore]] e di cose inglesi.  
+E sa di [[concepts/honour|onore]] e di cose inglesi.  
 
 Come giungemmo a rissare presso queste amare sorgenti,  
 
@@ -7850,15 +7850,15 @@ Siano nativi qui, e grassi e sazi di pane;
 
 Ma noi, i cui peccati furono umani, lasceremo  
 
-La terra del [[Blood|sangue]], e lasceremo là questi avvoltoi,  
+La terra del [[motifs/blood|sangue]], e lasceremo là questi avvoltoi,  
 
 Silenziosamente felici, a pascersi dei morti.  
 
-Il MORTO [[Hero|EROE]]  
+Il MORTO [[archetypes/hero|EROE]]  
 
 Noi non ti vedemmo mai, come i nostri padri,  
 
-Per i quali il tuo volto era il volto della [[Freedom]],  
+Per i quali il tuo volto era il volto della [[concepts/freedom|Freedom]],  
 
 Né sappiamo quali nastri d'ufficio e fili  
 
@@ -7880,13 +7880,13 @@ Non prima che il tuo corso fosse tuonato fino in fondo,
 
 Vide Mammona giungere il suo regno.  
 
-I [[songs]] del furto, le spade a nolo,  
+I songs del furto, le spade a nolo,  
 
 I chierici che vaneggiarono, le truppe che corsero  
 
-L'impero del [[Desire|desiderio]] del mondo,  
+L'impero del [[motifs/desire|desiderio]] del mondo,  
 
-La [[Dance|danza]] di tutto il sudiciume cominciò.  
+La [[motifs/dance|danza]] di tutto il sudiciume cominciò.  
 
 I felici uomini stranieri ingioiellati  
 
@@ -7894,21 +7894,21 @@ Operavano allora solo come un poco di lievito;
 
 Da qualche più modesto palazzo allora  
 
-La [[Soul]] di Dives puzzava fino al Cielo.  
+La [[motifs/soul|Soul]] di Dives puzzava fino al Cielo.  
 
 Ma quando tramarono con blesa voce e sogghigno  
 
 La loro guerra accurata contro i deboli,  
 
-Colpirono il tuo [[Body|corpo]] sulla bara,  
+Colpirono il tuo [[concepts/body|corpo]] sulla bara,  
 
 Per esser certi che non potessi parlare.  
 
-Un [[Hero|eroe]] nel [[Desert|deserto]] morì;  
+Un [[archetypes/hero|eroe]] nel [[motifs/desert|deserto]] morì;  
 
 Gridarono gli uomini che i santi lo seppellissero.  
 
-E attorno alla [[Grave|tomba]] vegliasse e cavalcasse,  
+E attorno alla [[motifs/grave|tomba]] vegliasse e cavalcasse,  
 
 Una cavalleria di Cherubini.  
 
@@ -7952,7 +7952,7 @@ Morti siamo stati ma non così morti
 
 Come questi che vivono della vita che sperperarono,  
 
-Come questi che bevono del [[Blood|sangue]] che versarono.  
+Come questi che bevono del [[motifs/blood|sangue]] che versarono.  
 
 Mai ci vantammo della cosa che sbagliammo,  
 
@@ -7970,19 +7970,19 @@ Non fummo noi a suonare la tromba
 
 Davanti al trionfo di rottami e stracci.  
 
-Non abbiate [[Fear]] di costoro, hanno fatto il loro patto,  
+Non abbiate [[concepts/fear|Fear]] di costoro, hanno fatto il loro patto,  
 
 Hanno contato il costo dell'ultima delle razzie,  
 
 Hanno puntato le vite su cose che non vivono,  
 
-Hanno bruciato la loro [[house]] per un [[Fire|fuoco]] che svanisce.  
+Hanno bruciato la loro house per un [[motifs/fire|fuoco]] che svanisce.  
 
 Cinque anni fa e avremmo potuto temerli,  
 
 Bastonati dal codardo e istruiti dal somaro;  
 
-La [[Truth]] può durare ed esser detta e riecheggiata,  
+La [[concepts/truth|Truth]] può durare ed esser detta e riecheggiata,  
 
 Ma una menzogna non può esser giovane che una volta.  
 
@@ -7994,21 +7994,21 @@ Nulla si leverà dalle nostre schiere adunate
 
 Se non una risata come tuono. Li conosciamo ora.  
 
-IL [[Song|CANTO]] DELLE RUOTE  
+IL CANTO DELLE RUOTE  
 
 SCRITTO DURANTE UN VENERDÌ E UN SABATO DELL'AGOSTO 1911.  
 
-[[King]] Dives attendeva nel suo [[Garden|giardino]] tutto [[Alone|solo]],  
+[[archetypes/king|King]] Dives attendeva nel suo [[motifs/garden|giardino]] tutto solo,  
 
-Dove i suoi [[Flowers|fiori]] son fatti di ferro e i suoi alberi di pietra,  
+Dove i suoi [[motifs/flowers|fiori]] son fatti di ferro e i suoi alberi di pietra,  
 
-E i suoi alveari son pieni di tuono e il [[Lightning|lampo]] balza e uccide,  
+E i suoi alveari son pieni di tuono e il [[motifs/lightning|lampo]] balza e uccide,  
 
 Ché i mulini di Dio macinano lenti; e lui lavora con altri mulini.  
 
-Dives trovò un possente [[Silence|silenzio]]; e gli mancò il pulsare e il balzo,  
+Dives trovò un possente [[motifs/silence|silenzio]]; e gli mancò il pulsare e il balzo,  
 
-Il rumore di tutte le creature insonni che lo cantavano nel [[Sleep|sonno]].  
+Il rumore di tutte le creature insonni che lo cantavano nel [[motifs/sleep|sonno]].  
 
 E disse: "Una vite è caduta--o un bullone è scivolato via--  
 
@@ -8028,13 +8028,13 @@ Noi siamo solo uomini, padrone, hai mai sentito degli uomini?
 
 "Oh, vivono sulla terra come pesci, e un rantolo è tutto il loro respiro.  
 
-Dio per vuoti onori diede loro solo [[Death|morte]] e sprezzo della [[Death|morte]],  
+Dio per vuoti onori diede loro solo [[motifs/death|morte]] e sprezzo della [[motifs/death|morte]],  
 
 E tu cammini sui vermi come tappeto e calpesti una pietra che stride--  
 
 Solo, Dio che li fece vermi non li fece ruote.  
 
-L'uomo chiuderà il suo cuore contro di te e tu non troverai la [[spring]].  
+L'uomo chiuderà il suo cuore contro di te e tu non troverai la [[motifs/spring|spring]].  
 
 L'uomo che vuole la cosa che non desidera, la cosa intollerabile--  
 
@@ -8048,13 +8048,13 @@ Acciaio sotto la tua mano, pietra sotto i tuoi talloni,
 
 L'acciaio non riderà mai forte, udendo ciò che udimmo,  
 
-La pietra non si spezzerà mai il cuore, folle di [[Hope|speranza]] differita--  
+La pietra non si spezzerà mai il cuore, folle di [[concepts/hope|speranza]] differita--  
 
-Uomini di tatto che arbitrano, lenta [[Reform|riforma]] che risana--  
+Uomini di tatto che arbitrano, lenta [[concepts/reform|riforma]] che risana--  
 
 Serba il grasso fetido, padrone, serbalo per le ruote.  
 
-"[[King]] Dives nel [[Garden|giardino]], noi non abbiamo nulla da dare o tenere--  
+"[[archetypes/king|King]] Dives nel [[motifs/garden|giardino]], noi non abbiamo nulla da dare o tenere--  
 
 (Mentre ancora il bimbo veniva alla vita i legni marci eran venduti.)  
 
@@ -8078,7 +8078,7 @@ Perché dovresti far pace e commercio con gente fiacca come gli uomini?
 
 Sono sorde ai demagoghi, sorde ai rozzi appelli;  
 
-Son nostre le nostre mani, padrone?--come ne [[Doubt|dubitano]] i dottori!  
+Son nostre le nostre mani, padrone?--come ne [[concepts/doubt|dubitano]] i dottori!  
 
 Son nostre le nostre gambe, padrone? le ruote corrono senza--  
 
@@ -8086,7 +8086,7 @@ Prova che le punte sono delicate--capiranno.
 
 Tutte le ruote sono fedeli; guarda come stanno immobili!»  
 
-[[King|Re]] Dives passeggiava nel suo [[Garden|giardino]] al sole,  
+[[archetypes/king|Re]] Dives passeggiava nel suo [[motifs/garden|giardino]] al sole,  
 
 scosse la mano contro il cielo, e ordinò alle ruote di girare,  
 
@@ -8098,9 +8098,9 @@ seduto nella Porta del Tradimento, nella porta dei sigilli infranti,
 
 «Piegatele e legatele, piegatele e legatele, piegatele e legatele in ruote,  
 
-così ancora una volta in tutto il mio [[Garden|giardino]] possano oscillare e risuonare e spazzare--  
+così ancora una volta in tutto il mio [[motifs/garden|giardino]] possano oscillare e risuonare e spazzare--  
 
-il fragore di tutte le cose insonni che cantano l'[[Soul|anima]] fino al [[Sleep|sonno]].»  
+il fragore di tutte le cose insonni che cantano l'[[motifs/soul|anima]] fino al [[motifs/sleep|sonno]].»  
 
 _Invoca le ruote, padrone, invoca le ruote._  
 
@@ -8108,7 +8108,7 @@ _Tediose si fanno le feste quando salti i pasti,_
 
 _Per la Porta del Tradimento, per la porta interiore,_  
 
-_Vengono [[Fear|paura]] e [[Greed|avidità]] di fama, viene il peccato mortale;_  
+_Vengono [[concepts/fear|paura]] e [[concepts/greed|avidità]] di fama, viene il peccato mortale;_  
 
 _Se un uomo si fa debole, padrone, prendilo prima che s'inginocchi._  
 
@@ -8128,7 +8128,7 @@ Non v'è popolo al mondo intero così indifeso o così saggio.
 
 C'è fame nei nostri ventri, c'è riso nei nostri occhi;  
 
-ridete di noi e ci [[Love|amate]], sia i boccali sia gli occhi sono umidi:  
+ridete di noi e ci [[motifs/love|amate]], sia i boccali sia gli occhi sono umidi:  
 
 solo che non ci conoscete. Poiché non abbiamo ancora parlato.  
 
@@ -8136,27 +8136,27 @@ I raffinati re francesi giunsero in uno sventolio di bandiere e dame.
 
 Ci piacquero i loro sorrisi e le loro battaglie, ma non seppimo mai dire i loro nomi.  
 
-Il [[Blood|sangue]] corse rosso fino a Bosworth e gli alti signori francesi caddero;  
+Il [[motifs/blood|sangue]] corse rosso fino a Bosworth e gli alti signori francesi caddero;  
 
-non v'era che un popolo nudo sotto una nuda [[Crown|corona]].  
+non v'era che un popolo nudo sotto una nuda [[motifs/crown|corona]].  
 
-E gli occhi dei Servi del [[King|Re]] si volgevano terribilmente in ogni direzione,  
+E gli occhi dei Servi del [[archetypes/king|Re]] si volgevano terribilmente in ogni direzione,  
 
-e l'oro dei Servi del [[King|Re]] si [[Rose|levava]] più alto ogni giorno.  
+e l'oro dei Servi del [[archetypes/king|Re]] si [[motifs/rose|levava]] più alto ogni giorno.  
 
 Bruciarono le case degli uomini rasati, che erano stati bizzarri e gentili,  
 
-finché non vi fu letto in una [[house|casa]] di monaco, né cibo che l'uomo potesse trovare.  
+finché non vi fu letto in una casa di monaco, né cibo che l'uomo potesse trovare.  
 
 Le locande di Dio dove nessuno pagava, che erano il muro dei deboli,  
 
-i Servi del [[King|Re]] le divorarono tutte. E ancora non parlammo.  
+i Servi del [[archetypes/king|Re]] le divorarono tutte. E ancora non parlammo.  
 
-E il volto dei Servi del [[King|Re]] si fece più grande del [[King|Re]]:  
+E il volto dei Servi del [[archetypes/king|Re]] si fece più grande del [[archetypes/king|Re]]:  
 
 egli li ingannò, ed essi lo intrappolarono, e gli stettero attorno in cerchio.  
 
-I nuovi signori della [[Grave|tomba]] gli si strinsero intorno, che avevano mangiato i frutti dell'abbazia,  
+I nuovi signori della [[motifs/grave|tomba]] gli si strinsero intorno, che avevano mangiato i frutti dell'abbazia,  
 
 e gli uomini della nuova religione, con le loro bibbie negli stivali.  
 
@@ -8164,15 +8164,15 @@ Vedemmo muoversi le loro spalle, a minacciare o discutere,
 
 e alcuni erano puri e alcuni vili; ma nessuno badò a noi.  
 
-Vedemmo il [[King|Re]] mentre lo uccidevano, e il suo volto era fiero e pallido;  
+Vedemmo il [[archetypes/king|Re]] mentre lo uccidevano, e il suo volto era fiero e pallido;  
 
-e pochi uomini parlarono di [[Freedom|libertà]], mentre l'Inghilterra parlava di birra.  
+e pochi uomini parlarono di [[concepts/freedom|libertà]], mentre l'Inghilterra parlava di birra.  
 
 Una guerra che non comprendemmo venne sul mondo e destò  
 
 Americani, Francesi, Irlandesi; ma non conoscemmo le cose che dicevano.  
 
-Parlavano di diritti e [[Nature|natura]] e pace e del regno del popolo:  
+Parlavano di diritti e [[concepts/nature|natura]] e pace e del regno del popolo:  
 
 e gli squire, nostri padroni, ci ordinarono di combattere; e mai più ci disprezzarono.  
 
@@ -8182,7 +8182,7 @@ gli uomini ci chiamarono servi e sgobboni; gli uomini seppero che eravamo uomini
 
 Fra schiuma e fiamma a Trafalgar, sulle pianure di Albuera,  
 
-agimmo e morimmo come leoni, per tenerci in [[Chains|catene]],  
+agimmo e morimmo come leoni, per tenerci in [[motifs/chains|catene]],  
 
 giacemmo fra rovine viventi; sparando e non temendo  
 
@@ -8194,13 +8194,13 @@ e spezzammo i nostri stessi diritti con lui. E ancora non parlammo mai.
 
 La nostra chiazza di gloria finì; non udimmo più cannoni.  
 
-Ma lo squire pareva colpito in sella; era stolto, come in [[Pain|pena]]  
+Ma lo squire pareva colpito in sella; era stolto, come in [[motifs/pain|pena]]  
 
 si appoggiava a un avvocato traballante, ghermiva un Ebreo servile,  
 
 era stroncato; forse, dopotutto, era stato stroncato a Waterloo.  
 
-O forse le ombre degli uomini rasati, il cui bottino è nella sua [[house|casa]],  
+O forse le ombre degli uomini rasati, il cui bottino è nella sua casa,  
 
 tornano infine in forme splendenti a rovinare la sua ultima gozzoviglia:  
 
@@ -8210,7 +8210,7 @@ E un popolo nuovo prende la terra: e ancora non siamo noi.
 
 Ci hanno consegnato nella mano dei nuovi infelici signori,  
 
-signori senza collera né [[Honour|onore]], che non osano portare le spade.  
+signori senza collera né [[concepts/honour|onore]], che non osano portare le spade.  
 
 Combattono rimescolando carte; hanno occhi stranieri lucidi e morti;  
 
@@ -8218,15 +8218,15 @@ guardano al nostro lavoro e al nostro riso come un uomo stanco guarda le mosche.
 
 E il fardello della loro pietà senza amore è peggiore degli antichi torti,  
 
-le loro porte sono chiuse alla sera; e non conoscono [[songs|canti]].  
+le loro porte sono chiuse alla sera; e non conoscono canti.  
 
 Udiamo uomini parlare per noi di nuove leggi forti e dolci,  
 
 eppure nessun uomo parla come noi parliamo nella strada.  
 
-Forse ci leveremo per ultimi come i Francesi si [[Rose|levarono]] per primi,  
+Forse ci leveremo per ultimi come i Francesi si [[motifs/rose|levarono]] per primi,  
 
-la nostra ira verrà dopo l'ira della [[Russia|Russia]] e la nostra ira sarà la peggiore.  
+la nostra ira verrà dopo l'ira della [[settings/russia|Russia]] e la nostra ira sarà la peggiore.  
 
 Forse siamo destinati a segnare col nostro tumulto e col nostro riposo  
 
@@ -8238,7 +8238,7 @@ Sorrideteci, pagateci, oltrepassateci. Ma non dimenticate del tutto.
 
 VI  
 
-[[Poems|POESIE]] VARIE  
+POESIE VARIE  
 
 PERDUTO  
 
@@ -8252,7 +8252,7 @@ per tutta la gloria che ho perduto, il bene che mai conobbi.
 
 Vidi la luce del mattino impallidire su volti umani regali,  
 
-in racconti irrevocabilmente svaniti, avvolti nella [[Night|notte]] finale,  
+in racconti irrevocabilmente svaniti, avvolti nella [[motifs/night|notte]] finale,  
 
 vidi la coda di lotte in fuga, un barlume di estasi ardenti,  
 
@@ -8268,7 +8268,7 @@ quel grande verde tramonto che Dio farà tre giorni dopo ch'io muoia.
 
 Quando tutte le luci saranno perdute e spente, quando tutti i cieli saranno infranti,  
 
-sopra la rovina delle [[Stars|stelle]] la mia [[Soul|anima]] siederà in pompa,  
+sopra la rovina delle [[motifs/stars|stelle]] la mia [[motifs/soul|anima]] siederà in pompa,  
 
 con una mente resa ricca, coi tramonti irrevocabili,  
 
@@ -8284,7 +8284,7 @@ per la luce dei sette cieli che mi sono perduti come l'inferno.
 
 BALLATA DEL SOLE  
 
-O [[Well|bene]] per colui che ama il sole  
+O [[motifs/well|bene]] per colui che ama il sole  
 
 che vede la corsa celeste cavalcata o corsa,  
 
@@ -8292,9 +8292,9 @@ i mari spruzzanti del tramonto vinti,
 
 e grida per la vittoria.  
 
-Dio fece il sole a [[Crown|coronare]] il suo capo,  
+Dio fece il sole a [[motifs/crown|coronare]] il suo capo,  
 
-e quando il dardo della [[Death|morte]] è infine scagliato,  
+e quando il dardo della [[motifs/death|morte]] è infine scagliato,  
 
 almeno non lo troverà morto,  
 
@@ -8312,13 +8312,13 @@ Non meno per noi e per ognuno
 
 fu filata quella bianca trama di splendore;  
 
-O [[Well|bene]] per colui che ama il sole  
+O [[motifs/well|bene]] per colui che ama il sole  
 
 benché il sole debba ucciderlo.  
 
-[[Translation|TRADUZIONE]] DA DU BELLAY  
+[[forms/translation|TRADUZIONE]] DA DU BELLAY  
 
-Felice, chi come [[Ulysses|Ulisse]] o quel signore  
+Felice, chi come [[characters/ulysses|Ulisse]] o quel signore  
 
 che rapì il vello, tornando pieno e savio,  
 
@@ -8330,17 +8330,17 @@ Quando vedrò, quando vedrò, Dio sa!
 
 il fumo del mio piccolo villaggio; o passerò la porta,  
 
-la vecchia cara porta di quella infelice [[house|casa]]  
+la vecchia cara porta di quella infelice casa  
 
 che è per me un regno e molto di più?  
 
-Più possente per me la [[house|casa]] che i miei padri fecero  
+Più possente per me la casa che i miei padri fecero  
 
 delle vostre audaci teste, o Sale di Roma!  
 
 Più che i marmi immortali intatti,  
 
-le sottili tristi ardesie che coprono la mia [[Home|dimora]];  
+le sottili tristi ardesie che coprono la mia [[motifs/home|dimora]];  
 
 Più che il vostro Tevere è per me la mia Loira,  
 
@@ -8350,7 +8350,7 @@ e più di tutti i venti di tutto il mare
 
 la quieta dolcezza dell'aria angioina.  
 
-LA PIÙ ALTA [[unity|UNITÀ]]  
+LA PIÙ ALTA UNITÀ  
 
 «Il Rev. Isaiah Bunter è scomparso nell'interno  
 
@@ -8406,9 +8406,9 @@ LA VEGLIA DELLA TERRA
 
 La vecchia terra veglia sempre uguale.  
 
-[[Alone|Sola]] in un vuoto senza voce sta,  
+Sola in un vuoto senza voce sta,  
 
-i suoi [[Flowers|fiori]] d'arancio le fiammeggiano in seno,  
+i suoi [[motifs/flowers|fiori]] d'arancio le fiammeggiano in seno,  
 
 il suo anello d'oro in mano.  
 
@@ -8416,7 +8416,7 @@ I frangenti dei lunghi mattini dalla cresta d'oro
 
 s'infrangono sempre più all'orlo della sua grande veste,  
 
-e sempre più vengono le fosche corna della [[Moon|luna]].  
+e sempre più vengono le fosche corna della [[motifs/moon|luna]].  
 
 Ma ella non veglia per esse.  
 
@@ -8436,13 +8436,13 @@ ed ella guarda scempio e fumo e acciaio,
 
 e sa che non è la fine.  
 
-Le fedi possono soffocare e le potenze [[Despair|disperare]],  
+Le fedi possono soffocare e le potenze [[concepts/despair|disperare]],  
 
 le potenze risorgono e le fedi si rinnovano,  
 
 ella è solo una fanciulla, che attende là,  
 
-per l'[[Love|amore]] la cui parola è vera.  
+per l'[[motifs/love|amore]] la cui parola è vera.  
 
 Ella veglia attraverso gli eoni,  
 
@@ -8456,9 +8456,9 @@ Fra il baluginio del campo di grano e l'ombra del casolare,
 
 attendono instancabili, i giovani e i vecchi,  
 
-madre per [[Child|figlio]] e uomo per fanciulla,  
+madre per [[archetypes/child|figlio]] e uomo per fanciulla,  
 
-per un [[Love|amore]] che un tempo fu narrato.  
+per un [[motifs/love|amore]] che un tempo fu narrato.  
 
 I capelli si fanno grigi sotto paglia o ardesia,  
 
@@ -8466,7 +8466,7 @@ gli occhi si fanno fiochi dietro i vetri a graticcio,
 
 la stirpe della terra attende come attende la vecchia terra,  
 
-e la [[Hope|speranza]] nel cuore rimane.  
+e la [[concepts/hope|speranza]] nel cuore rimane.  
 
 Ella veglia attraverso gli eoni,  
 
@@ -8478,11 +8478,11 @@ e il racconto che un tempo le fu narrato.
 
 L'anello d'oro di Dio è legato alla sua mano,  
 
-ella infiamma di fiori i grigi [[Hill|pendii]] collinari,  
+ella infiamma di fiori i grigi [[motifs/hill|pendii]] collinari,  
 
 i suoi campi sono ravvivati, le sue foreste coronate,  
 
-mentre l'[[Love|amore]] del suo cuore permane,  
+mentre l'[[motifs/love|amore]] del suo cuore permane,  
 
 e noi, dalle paure che rodono e sfregiano,  
 
@@ -8504,7 +8504,7 @@ SULLA GIUSTA INDIGNAZIONE
 
 Quando Adamo uscì dal Paradiso  
 
-vide la [[Sword|Spada]] e corse;  
+vide la Spada e corse;  
 
 la forma tremenda, il nuovo congegno,  
 
@@ -8536,7 +8536,7 @@ le porte senza fiamma del Paradiso,
 
 le mute porte serrate del Paradiso,  
 
-Dio scagliò la fiammeggiante [[Sword|spada]].  
+Dio scagliò la fiammeggiante spada.  
 
 Brucia la mano che la tiene  
 
@@ -8548,13 +8548,13 @@ eppure colui nella cui mano essa oscilla
 
 egli è la più dominatrice delle cose,  
 
-uno schernitore delle [[Stars|stelle]].  
+uno schernitore delle [[motifs/stars|stelle]].  
 
 QUANDO TORNAI IN FLEET STREET  
 
 Quando tornai in Fleet Street,  
 
-per un angolo di tramonto nella [[Night|notte]],  
+per un angolo di tramonto nella [[motifs/night|notte]],  
 
 e vidi il vecchio Green Dragon  
 
@@ -8578,9 +8578,9 @@ dove gli uomini erano destinati a stare.
 
 Ma le vecchie cose tennero; il riso,  
 
-la lunga innaturale [[Night|notte]],  
+la lunga innaturale [[motifs/night|notte]],  
 
-e tutta la [[Truth|verità]] che dicono all'inferno,  
+e tutta la [[concepts/truth|verità]] che dicono all'inferno,  
 
 e tutte le menzogne che scrivono.  
 
@@ -8588,9 +8588,9 @@ Poiché tornai in Fleet Street,
 
 e non in pace venni;  
 
-un [[Pride|orgoglio]] spaccato era nel mio cuore,  
+un [[concepts/pride|orgoglio]] spaccato era nel mio cuore,  
 
-e metà del mio [[Love|amore]] era vergogna.  
+e metà del mio [[motifs/love|amore]] era vergogna.  
 
 Venni a combattere in una fiaba,  
 
@@ -8626,17 +8626,17 @@ bevono ancora in debito oggi;
 
 incatenati ai ricchi dalla rovina,  
 
-allegri fra le [[Chains|catene]], come allora  
+allegri fra le [[motifs/chains|catene]], come allora  
 
-quando il vecchio integro [[Pickwick|Pickwick]] camminava  
+quando il vecchio integro [[works/pickwick-(chesterton)|Pickwick]] camminava  
 
 fra gli uomini spezzati.  
 
-Pure colui che [[Dreams|sogna]] e vaga  
+Pure colui che [[motifs/dreams|sogna]] e vaga  
 
 Per la propria aria fatata,  
 
-Sa che la strada è una [[Prison|prigione]],  
+Sa che la strada è una [[motifs/prison|prigione]],  
 
 Sa che i cancelli sono là:  
 
@@ -8652,7 +8652,7 @@ Tutto ciò che amai e odiai,
 
 Tutto ciò che fuggii e conobbi,  
 
-Si schiara in ampio [[Lightning|lampo]] di battaglia,  
+Si schiara in ampio [[motifs/lightning|lampo]] di battaglia,  
 
 Dove loro, e io, e tu,  
 
@@ -8664,11 +8664,11 @@ E gridiamo a quelli che si rannicchiano dentro,
 
 I Prigionieri della Fleet.  
 
-UN [[Song|CANTO]] DEL SIDRO  
+UN CANTO DEL SIDRO  
 
 _To J.S.M._  
 
-ESTRATTO DA UN [[Romance|ROMANZO]] CHE NON È ANCORA  
+ESTRATTO DA UN ROMANZO CHE NON È ANCORA  
 
 SCRITTO E PROBABILMENTE MAI LO SARÀ.  
 
@@ -8680,7 +8680,7 @@ Dio lo trasse ardente dalla zolla
 
 Perché fosse un segno e una verga di segnale  
 
-Che quelli che bevono il [[Blood|sangue]] di Dio  
+Che quelli che bevono il [[motifs/blood|sangue]] di Dio  
 
 Non avranno mai più sete.  
 
@@ -8702,7 +8702,7 @@ Lo trovano a Plodder's End,
 
 Il vino di mele di Hereford,  
 
-Di Hafod [[Hill]] e Hereford,  
+Di Hafod [[motifs/hill|Hill]] e Hereford,  
 
 Dove i boschi scendevano a Hereford,  
 
@@ -8712,31 +8712,31 @@ I piedi lievi dei beati vanno
 
 Nelle dolci valli d'occidente,  
 
-La [[Road|strada]] che i santi silenziosi accordano,  
+La [[motifs/road|strada]] che i santi silenziosi accordano,  
 
-La [[Road|strada]] dal Cielo a Hereford,  
+La [[motifs/road|strada]] dal Cielo a Hereford,  
 
 Dove il bosco di meli di Hereford  
 
 Va per tutta la via fino a Wales.  
 
-L'ULTIMO [[Hero|EROE]]  
+L'ULTIMO [[archetypes/hero|EROE]]  
 
-Il [[Wind|vento]] soffiò da Bergen dall'albeggiare al giorno,  
+Il [[motifs/wind|vento]] soffiò da Bergen dall'albeggiare al giorno,  
 
 Vi fu strage d'alberi e caduta di torri a venti miglia di distanza,  
 
 E trascinato come livida foglia vado innanzi alla sua marea,  
 
-Sputato fuor di [[house]] e stalla, spogliato di [[Flag|bandiera]] e sposa.  
+Sputato fuor di house e stalla, spogliato di [[motifs/flag|bandiera]] e sposa.  
 
 I cieli si curvano sul mio capo, urlanti come guerre di serafini.  
 
-Con piogge che potrebbero spegnere il sole e nettare il cielo di [[Stars|stelle]],  
+Con piogge che potrebbero spegnere il sole e nettare il cielo di [[motifs/stars|stelle]],  
 
 Piogge come il crollo di mari in rovina da mondi segreti lassù,  
 
-Il ruggito delle piogge di Dio nessuno se non i solitari lo [[Love|ama]].  
+Il ruggito delle piogge di Dio nessuno se non i solitari lo [[motifs/love|ama]].  
 
 Banchettate nella mia sala, o nemici, e mangiate e bevete e scolate,  
 
@@ -8748,41 +8748,41 @@ Rubai a loro la mia sposa, essi me la rubarono di ritorno.
 
 La strappai dalla sua sala dal tetto rosso, cavalcai e vidi sorgere  
 
-Più bello dei vivi [[Flowers|fiori]] l'odio nei suoi occhi.  
+Più bello dei vivi [[motifs/flowers|fiori]] l'odio nei suoi occhi.  
 
 Mai mi amò, mai si piegò, mai fu meno divina;  
 
-Il tramonto mai mi amò; il [[Wind|vento]] non fu mai mio.  
+Il tramonto mai mi amò; il [[motifs/wind|vento]] non fu mai mio.  
 
 Fu forse nulla che ella stesse imperiale in prigionia?  
 
-Il [[Silence]] stesso reso più dolce dal frusciare della sua veste.  
+Il [[motifs/silence|Silence]] stesso reso più dolce dal frusciare della sua veste.  
 
-O voi che scolate la coppa della vita, o voi che portate la [[Crown|corona]],  
+O voi che scolate la coppa della vita, o voi che portate la [[motifs/crown|corona]],  
 
 Mai amaste il sorriso di donna come io ho amato il suo cipiglio.  
 
-Il [[Wind|vento]] soffiò da Bergen dall'albeggiare al giorno,  
+Il [[motifs/wind|vento]] soffiò da Bergen dall'albeggiare al giorno,  
 
 Cavalcano e corrono con cinquanta lance per rompere e sbarrarmi la via,  
 
-Non morirò [[Alone|solo]], [[Alone|solo]], ma parente di tutte le potenze.  
+Non morirò solo, solo, ma parente di tutte le potenze.  
 
-Allegro come il sole antico e combattendo come i [[Flowers|fiori]].  
+Allegro come il sole antico e combattendo come i [[motifs/flowers|fiori]].  
 
-Com'è bianco il loro acciaio, come brillano i loro occhi! Io [[Love|amo]] ogni ridente furfante.  
+Com'è bianco il loro acciaio, come brillano i loro occhi! Io [[motifs/love|amo]] ogni ridente furfante.  
 
 Gridate alto e dategli il benvenuto al banchetto dei prodi.  
 
-Sì, li benedirò mentre si piegano e li [[Love|amerò]] dove giacciono,  
+Sì, li benedirò mentre si piegano e li [[motifs/love|amerò]] dove giacciono,  
 
-Quando sui loro crani la [[Sword|spada]] che rotea cala frantumandosi dal cielo.  
+Quando sui loro crani la spada che rotea cala frantumandosi dal cielo.  
 
-L'ora in cui la [[Death|morte]] è come una luce e il [[Blood|sangue]] è come una [[Rose|rosa]],--  
+L'ora in cui la [[motifs/death|morte]] è come una luce e il [[motifs/blood|sangue]] è come una [[motifs/rose|rosa]],--  
 
-Mai amaste i vostri amici, amici miei, come io [[Love|amerò]] i miei nemici.  
+Mai amaste i vostri amici, amici miei, come io [[motifs/love|amerò]] i miei nemici.  
 
-Sapete che cosa la terra perderà questa [[Night|notte]], quali ricchi prestiti mai contati,  
+Sapete che cosa la terra perderà questa [[motifs/night|notte]], quali ricchi prestiti mai contati,  
 
 Quale greve oro di storie non narrate seppellite con le mie ossa?  
 
@@ -8790,17 +8790,17 @@ I miei amori in prati fondi e foschi, le mie navi all'ancora tranquille,
 
 Arruffando il piumaggio purpureo di mari strani e segreti.  
 
-Vedere questa bella terra com'è a me [[Alone|solo]] fu dato,  
+Vedere questa bella terra com'è a me solo fu dato,  
 
-Il colpo che mi spezza la fronte questa [[Night|notte]] spezzerà la volta del cielo.  
+Il colpo che mi spezza la fronte questa [[motifs/night|notte]] spezzerà la volta del cielo.  
 
 I cieli che vidi, gli alberi che vidi dopo nessun occhio vedrà.  
 
-Questa [[Night|notte]] muoio della [[Death|morte]] di Dio; le [[Stars|stelle]] morranno con me:  
+Questa [[motifs/night|notte]] muoio della [[motifs/death|morte]] di Dio; le [[motifs/stars|stelle]] morranno con me:  
 
 Un solo suono fenderà tutte le lance e spezzerà il fiato della tromba:  
 
-Mai rideste in tutta la vita come io riderò nella [[Death|morte]].  
+Mai rideste in tutta la vita come io riderò nella [[motifs/death|morte]].  
 
 VII
 
@@ -8808,7 +8808,7 @@ BALLATE
 
 BALLADE D'UNE GRANDE DAME  
 
-Il Cielo ti perdonerà il Bridge all'[[Dawn|alba]],  
+Il Cielo ti perdonerà il Bridge all'[[motifs/dawn|alba]],  
 
 Gli abiti che porti--o non porti--  
 
@@ -8852,7 +8852,7 @@ Per sempre in custodia d'un carceriere
 
 Perché i suoi peccati eran più di _due_ ...  
 
-... Conosco una [[house]] a Hoxton dove  
+... Conosco una house a Hoxton dove  
 
 Non ti sarà perdonato.  
 
@@ -8866,7 +8866,7 @@ Quando l'Ultima Tromba squarcerà l'aria
 
 Non ti sarà perdonato.  
 
-UNA BALLATA DI UN [[anti-puritan|ANTI-PURITANO]]  
+UNA BALLATA DI UN ANTI-PURITANO  
 
 Parlavano del Progresso che s'inerpica a spirale,  
 
@@ -8878,7 +8878,7 @@ O che corsi per la stanza ruggendo;
 
 Avrei potuto semplicemente sedere e russare--  
 
-Mi [[Rose|alzai]] cortese nel club  
+Mi [[motifs/rose|alzai]] cortese nel club  
 
 E dissi, "Mi sento un poco annoiato;  
 
@@ -8890,7 +8890,7 @@ Intorno; e mi duole registrare
 
 Che non trovai profonde le loro vedute,  
 
-Né le loro conclusioni [[Well|ben]] salde;  
+Né le loro conclusioni [[motifs/well|ben]] salde;  
 
 La vita semplice non me la posso permettere,  
 
@@ -8908,9 +8908,9 @@ E virtù che crescono dal suolo,
 
 E fratellanza di birra e mensa,  
 
-E [[Song|canto]], che è una corda robusta.  
+E canto, che è una corda robusta.  
 
-E [[Hope|speranza]], che è un arbusto tenace,  
+E [[concepts/hope|speranza]], che è un arbusto tenace,  
 
 E bontà, che è l'ultima parola di Dio--  
 
@@ -8918,7 +8918,7 @@ Qualcuno vuol portarmi a un pub?
 
 ENVOI  
 
-Principe, Bayard avrebbe spezzato la sua [[Sword|spada]]  
+Principe, Bayard avrebbe spezzato la sua spada  
 
 Nel vedere la razza di cavalieri che nomini--È  
 
@@ -8940,7 +8940,7 @@ O Moses, dacci tregua a tutti!
 
 Non taglierò nemmeno gli spaghi,  
 
-Leggerò "Jack Redskin alla [[Quest]]"  
+Leggerò "Jack Redskin alla [[topoi/quest|Quest]]"  
 
 E nutrirò il mio cervello di cose migliori.  
 
@@ -8952,7 +8952,7 @@ A qualcuno piace la Scena Finlandese
 
 Perché i Giullari non fanno burle;  
 
-E grigio di [[Dust|polvere]] è il cimiero di [[Dante]],  
+E grigio di [[motifs/dust|polvere]] è il cimiero di [[historical-references/dante|Dante]],  
 
 La campana di Rabelais oscilla senza suono;  
 
@@ -8972,7 +8972,7 @@ Brucia dal mio cervello e dal mio petto
 
 L'accidia, e la codardia che s'aggrappa,  
 
-E la rigidezza e l'arresto dell'[[Soul|anima]]:  
+E la rigidezza e l'arresto dell'[[motifs/soul|anima]]:  
 
 E nutrirò il mio cervello di cose migliori.  
 
@@ -8986,9 +8986,9 @@ Ma farei sopprimere quello spumante
 
 E nutrirò il mio cervello di cose migliori.  
 
-UNA BALLATA DEL [[suicide|SUICIDIO]]  
+UNA BALLATA DEL [[concepts/suicide|SUICIDIO]]  
 
-La forca nel mio [[Garden|giardino]], dice la gente,  
+La forca nel mio [[motifs/garden|giardino]], dice la gente,  
 
 È nuova e linda e adeguatamente alta.  
 
@@ -9004,9 +9004,9 @@ Il più strano capriccio m'ha colto.... Dopotutto
 
 Credo che non mi impiccherò oggi.  
 
-Domani è il [[Time|momento]] in cui prendo la paga--La  
+Domani è il [[motifs/time|momento]] in cui prendo la paga--La  
 
-[[Sword|spada]] di mio zio pende nell'atrio--  
+spada di mio zio pende nell'atrio--  
 
 Vedo una nuvoletta tutta rosa e grigia--  
 
@@ -9022,11 +9022,11 @@ Credo che non mi impiccherò oggi.
 
 Il mondo avrà un altro giorno di bucato;  
 
-I decadenti [[Decay|decadono]]; i pedanti stancano;  
+I decadenti [[motifs/decay|decadono]]; i pedanti stancano;  
 
 E H.G. Wells ha scoperto che i bambini giocano.  
 
-E Bernard [[Shaw]] ha scoperto che strillano;  
+E Bernard [[works/shaw-(chesterton)|Shaw]] ha scoperto che strillano;  
 
 I razionalisti si fanno razionali--  
 
@@ -9048,13 +9048,13 @@ Credo che non mi impiccherò oggi.
 
 UNA BALLATA DELLA PRIMA PIOGGIA  
 
-Il cielo è azzurro di [[Summer|estate]] e di sole,  
+Il cielo è azzurro di [[motifs/summer|estate]] e di sole,  
 
-I boschi son bruni come [[Autumn|autunno]] per l'abbronzatura,  
+I boschi son bruni come [[motifs/autumn|autunno]] per l'abbronzatura,  
 
-Potrebbero [[Well|ben]] essere i Tropici e farla finita,  
+Potrebbero [[motifs/well|ben]] essere i Tropici e farla finita,  
 
-Potrei [[Well|ben]] essere nato un Khan di rame;  
+Potrei [[motifs/well|ben]] essere nato un Khan di rame;  
 
 Mi foggio un ventaglio orientale  
 
@@ -9062,11 +9062,11 @@ Fatto delle fatture del tutto non quietanzate
 
 Portate dall'uomo del ghiaccio, che dorme nel furgone  
 
-(Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills).  
+(Una [[motifs/storm|tempesta]] sta arrivando sui Chiltern Hills).  
 
 Leggo i Giovani Filosofi per divertimento  
 
---Freschi come il nostro cordoglio per la defunta [[Queen]] Anne--  
+--Freschi come il nostro cordoglio per la defunta [[characters/queen|Queen]] Anne--  
 
 I Dionisiaci che una pinta stenderebbe,  
 
@@ -9074,15 +9074,15 @@ I Panteisti che mai sentirono di Pan.
 
 --Ma tra i miei capelli corsero aghi elettrici,  
 
-E sul mio libro una goccia d'[[Water|acqua]] si versa,  
+E sul mio libro una goccia d'[[motifs/water|acqua]] si versa,  
 
 E sui lembi del cielo i cannoni cominciarono  
 
-(Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills).  
+(Una [[motifs/storm|tempesta]] sta arrivando sui Chiltern Hills).  
 
 O campi di England, crepati e secchi e bigi,  
 
-O [[Soul|anima]] di England, malata di parole, e smorta!--  
+O [[motifs/soul|anima]] di England, malata di parole, e smorta!--  
 
 Le nubi si fanno scure;--la piena è cominciata.  
 
@@ -9094,7 +9094,7 @@ Una risata che cade riempie tutta la valle,
 
 Fonda come il tuono di Dio e la sete dell'uomo:  
 
-(Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills).  
+(Una [[motifs/storm|tempesta]] sta arrivando sui Chiltern Hills).  
 
 ENVOI  
 
@@ -9104,7 +9104,7 @@ Che adempi tante Volontà del Popolo,
 
 Prenditi i Chiltern Hundreds finché puoi--  
 
-Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills.
+Una [[motifs/storm|tempesta]] sta arrivando sui Chiltern Hills.
 
 
 
@@ -9115,19 +9115,19 @@ Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills.
 
 Produced by Marc D'Hooghe  
 
-[[Poems|POEMS]]  
+POEMS  
 
 by  
 
 G.K. CHESTERTON  
 
-[[New York|NEW YORK]]  
+[[settings/new-york|NEW YORK]]  
 
 1916  
 
 BY THE SAME AUTHOR  
 
-The Napoleon of Notting [[Hill]]: A [[Romance]]. With illustrations by Graham  
+The Napoleon of Notting [[motifs/hill|Hill]]: A [[works/romance-(poe)|Romance]]. With illustrations by Graham  
 
 Robertson.  
 
@@ -9137,35 +9137,35 @@ Orthodoxy.
 
 All Things Considered.  
 
-George Bernard [[Shaw]]. An illustrated [[Biography|biography]].  
+George Bernard [[works/shaw-(chesterton)|Shaw]]. An illustrated [[forms/biography|biography]].  
 
-The Ball and the [[Cross]].  
+The Ball and the [[motifs/cross|Cross]].  
 
-The Ballad of the White [[Horse]].  
+The Ballad of the White [[motifs/horse|Horse]].  
 
-The [[innocence|Innocence]] of [[Father Brown]]. Illustrated.  
+The Innocence of [[characters/father-brown|Father Brown]]. Illustrated.  
 
-The Wisdom of [[Father Brown]].  
+The Wisdom of [[characters/father-brown|Father Brown]].  
 
-[[manalive|Manalive]].  
+Manalive.  
 
 The Flying Inn.  
 
-JOHN LANE COMPANY PUBLISHERS [[New York|NEW YORK]]  
+JOHN LANE COMPANY PUBLISHERS [[settings/new-york|NEW YORK]]  
 
 CONTENTS  
 
 THREE DEDICATIONS  
 
-TO [[Edmund|EDMUND]] CLERIHEW BENTLEY  
+TO [[characters/edmund|EDMUND]] CLERIHEW BENTLEY  
 
 TO HILAIRE BELLOC  
 
 TO M. E. W.  
 
-WAR [[Poems|POEMS]]  
+WAR POEMS  
 
-[[lepanto|LEPANTO]]  
+LEPANTO  
 
 THE MARCH OF THE BLACK MOUNTAIN 1913  
 
@@ -9175,17 +9175,17 @@ THE WIFE OF FLANDERS
 
 THE CRUSADER RETURNS FROM CAPTIVITY  
 
-[[Love|LOVE]] [[Poems|POEMS]]  
+[[motifs/love|LOVE]] POEMS  
 
 GLENCOE  
 
-[[Love|LOVE]]'S TRAPPIST  
+[[motifs/love|LOVE]]'S TRAPPIST  
 
 CONFESSIONAL  
 
 MUSIC  
 
-THE [[deluge|DELUGE]]  
+THE DELUGE  
 
 THE STRANGE MUSIC  
 
@@ -9193,33 +9193,33 @@ THE GREAT MINIMUM
 
 THE MORTAL ANSWERS  
 
-A [[Marriage|MARRIAGE]] [[Song|SONG]]  
+A [[motifs/marriage|MARRIAGE]] SONG  
 
 BAY COMBE  
 
-RELIGIOUS [[Poems|POEMS]]  
+RELIGIOUS POEMS  
 
 THE WISE MEN  
 
-THE [[house|HOUSE]] OF CHRISTMAS  
+THE HOUSE OF CHRISTMAS  
 
-A [[Song|SONG]] OF GIFTS TO GOD  
+A SONG OF GIFTS TO GOD  
 
 THE KINGDOM OF HEAVEN  
 
-A [[Hymn|HYMN]] FOR THE CHURCH MILITANT  
+A [[forms/hymn|HYMN]] FOR THE CHURCH MILITANT  
 
 THE BEATIFIC VISION  
 
 THE TRUCE OF CHRISTMAS  
 
-A [[Hymn|HYMN]]  
+A [[forms/hymn|HYMN]]  
 
-A CHRISTMAS [[Song|SONG]] FOR THREE GUILDS  
+A CHRISTMAS SONG FOR THREE GUILDS  
 
 THE NATIVITY  
 
-A [[Child|CHILD]] OF THE SNOWS  
+A [[archetypes/child|CHILD]] OF THE SNOWS  
 
 A WORD  
 
@@ -9231,39 +9231,39 @@ THE REVOLUTIONIST, OR LINES TO A STATESMAN
 
 THE SHAKESPEARE MEMORIAL  
 
-THE HORRIBLE [[history|HISTORY]] OF [[Jones|JONES]]  
+THE HORRIBLE [[concepts/history|HISTORY]] OF [[characters/jones|JONES]]  
 
 THE NEW FREETHINKER  
 
 IN MEMORIAM P.D.  
 
-[[Sonnet|SONNET]] WITH THE COMPLIMENTS OF THE SEASON  
+[[forms/sonnet|SONNET]] WITH THE COMPLIMENTS OF THE SEASON  
 
-A [[Song|SONG]] OF SWORDS  
+A SONG OF SWORDS  
 
-A [[Song|SONG]] OF DEFEAT  
+A SONG OF DEFEAT  
 
-[[Sonnet|SONNET]]  
+[[forms/sonnet|SONNET]]  
 
 AFRICA  
 
-THE DEAD [[Hero|HERO]]  
+THE DEAD [[archetypes/hero|HERO]]  
 
 AN ELECTION ECHO  
 
-THE [[Song|SONG]] OF THE WHEELS  
+THE SONG OF THE WHEELS  
 
 THE SECRET PEOPLE  
 
-MISCELLANEOUS [[Poems|POEMS]]  
+MISCELLANEOUS POEMS  
 
 LOST  
 
 BALLAD OF THE SUN  
 
-[[Translation|TRANSLATION]] FROM DU BELLAY  
+[[forms/translation|TRANSLATION]] FROM DU BELLAY  
 
-THE HIGHER [[unity|UNITY]]  
+THE HIGHER UNITY  
 
 THE EARTH'S VIGIL  
 
@@ -9271,19 +9271,19 @@ ON RIGHTEOUS INDIGNATION
 
 WHEN I CAME BACK TO FLEET STREET  
 
-A CIDER [[Song|SONG]]  
+A CIDER SONG  
 
-THE LAST [[Hero|HERO]]  
+THE LAST [[archetypes/hero|HERO]]  
 
 BALLADES  
 
 BALLADE D'UNE GRANDE DAME  
 
-A BALLADE OF AN [[anti-puritan|ANTI-PURITAN]]  
+A BALLADE OF AN ANTI-PURITAN  
 
 A BALLADE OF A BOOK-REVIEWER  
 
-A BALLADE OF [[suicide|SUICIDE]]  
+A BALLADE OF [[concepts/suicide|SUICIDE]]  
 
 A BALLADE OF THE FIRST RAIN  
 
@@ -9291,33 +9291,33 @@ I
 
 THREE DEDICATIONS  
 
-TO [[Edmund|EDMUND]] CLERIHEW BENTLEY  
+TO [[characters/edmund|EDMUND]] CLERIHEW BENTLEY  
 
 THE DEDICATION OF _THE MAN WHO WAS THURSDAY_  
 
 A cloud was on the mind of men, and wailing went the weather,  
 
-Yea, a sick cloud upon the [[Soul|soul]] when we were boys together.  
+Yea, a sick cloud upon the [[motifs/soul|soul]] when we were boys together.  
 
-Science announced nonentity and art admired [[Decay|decay]];  
+Science announced nonentity and art admired [[motifs/decay|decay]];  
 
 The world was old and ended: but you and I were gay.  
 
 Round us in antic order their crippled vices came--  
 
-Lust that had lost its laughter, [[Fear|fear]] that had lost its shame.  
+Lust that had lost its laughter, [[concepts/fear|fear]] that had lost its shame.  
 
 Like the white lock of Whistler, that lit our aimless gloom,  
 
 Men showed their own white feather as proudly as a plume.  
 
-Life was a fly that faded, and [[Death|death]] a drone that stung;  
+Life was a fly that faded, and [[motifs/death|death]] a drone that stung;  
 
 The world was very old indeed when you and I were young.  
 
 They twisted even decent sin to shapes not to be named:  
 
-Men were ashamed of [[Honour|honour]]; but we were not ashamed.  
+Men were ashamed of [[concepts/honour|honour]]; but we were not ashamed.  
 
 Weak if we were and foolish, not thus we failed, not thus;  
 
@@ -9329,7 +9329,7 @@ High as they went we piled them up to break that bitter sea.
 
 Fools as we were in motley, all jangling and absurd,  
 
-When all church [[Bells|bells]] were silent our cap and [[Bells|bells]] were heard.  
+When all church [[motifs/bells|bells]] were silent our cap and [[motifs/bells|bells]] were heard.  
 
 Not all unhelped we held the fort, our tiny flags unfurled;  
 
@@ -9341,11 +9341,11 @@ Far out of fish-shaped Paumanok some cry of cleaner things;
 
 And the Green Carnation withered, as in forest fires that pass,  
 
-Roared in the [[Wind|wind]] of all the world ten million [[Leaves|leaves]] of grass;  
+Roared in the [[motifs/wind|wind]] of all the world ten million [[motifs/leaves|leaves]] of grass;  
 
 Or sane and sweet and sudden as a bird sings in the rain  
 
-[[Truth]] out of Tusitala spoke and pleasure out of [[Pain|pain]].  
+[[concepts/truth|Truth]] out of Tusitala spoke and pleasure out of [[motifs/pain|pain]].  
 
 Yea, cool and clear and sudden as a bird sings in the grey,  
 
@@ -9355,7 +9355,7 @@ But we were young; we lived to see God break their bitter charms,
 
 God and the good Republic come riding back in arms:  
 
-We have seen the [[City|city]] of Mansoul, even as it rocked, relieved--Blessed  
+We have seen the [[motifs/city|city]] of Mansoul, even as it rocked, relieved--Blessed  
 
 are they who did not see, but being blind, believed.  
 
@@ -9365,21 +9365,21 @@ And none but you shall understand the true thing that it tells--
 
 Of what colossal gods of shame could cow men and yet crash,  
 
-Of what huge devils hid the [[Stars|stars]], yet fell at a [[Pistol|pistol]] flash.  
+Of what huge devils hid the [[motifs/stars|stars]], yet fell at a [[characters/pistol|pistol]] flash.  
 
 The doubts that were so plain to chase, so dreadful to withstand--  
 
 Oh, who shall understand but you; yea, who shall understand?  
 
-The doubts that drove us through the [[Night|night]] as we two talked amain,  
+The doubts that drove us through the [[motifs/night|night]] as we two talked amain,  
 
 And day had broken on the streets e'er it broke upon the brain.  
 
-Between us, by the peace of God, such [[Truth|truth]] can now be told;  
+Between us, by the peace of God, such [[concepts/truth|truth]] can now be told;  
 
 Yea, there is strength in striking root, and good in growing old.  
 
-We have found common things at last, and [[Marriage|marriage]] and a creed.  
+We have found common things at last, and [[motifs/marriage|marriage]] and a creed.  
 
 And I may safely write it now, and you may safely read.  
 
@@ -9389,21 +9389,21 @@ THE DEDICATION OF _THE NAPOLEON OF NOTTING HILL_
 
 For every tiny town or place  
 
-God made the [[Stars|stars]] especially;  
+God made the [[motifs/stars|stars]] especially;  
 
 Babies look up with owlish face  
 
 And see them tangled in a tree:  
 
-You saw a [[Moon|moon]] from Sussex Downs,  
+You saw a [[motifs/moon|moon]] from Sussex Downs,  
 
-A Sussex [[Moon|moon]], untravelled still,  
+A Sussex [[motifs/moon|moon]], untravelled still,  
 
-I saw a [[Moon|moon]] that was the town's,  
+I saw a [[motifs/moon|moon]] that was the town's,  
 
-The largest lamp on Campden [[Hill]].  
+The largest lamp on Campden [[motifs/hill|Hill]].  
 
-Yea, Heaven is everywhere at [[Home|home]].  
+Yea, Heaven is everywhere at [[motifs/home|home]].  
 
 The big blue cap that always fits,  
 
@@ -9425,7 +9425,7 @@ Where an immortal England sits--
 
 Nor where your tall young men in turn  
 
-Drank [[Death|death]] like wine at Austerlitz.  
+Drank [[motifs/death|death]] like wine at Austerlitz.  
 
 And when the pedants bade us mark  
 
@@ -9441,15 +9441,15 @@ These sulky levels smooth and free,
 
 The drums shall crash a waltz of war  
 
-And [[Death]] shall [[Dance|dance]] with Liberty;  
+And [[motifs/death|Death]] shall [[motifs/dance|dance]] with Liberty;  
 
 Likelier the barricades shall blare  
 
 Slaughter below and smoke above,  
 
-And [[Death|death]] and hate and hell declare  
+And [[motifs/death|death]] and hate and hell declare  
 
-That men have found a thing to [[Love|love]].  
+That men have found a thing to [[motifs/love|love]].  
 
 Far from your sunny uplands set  
 
@@ -9459,13 +9459,13 @@ The lit straight streets shot out and met
 
 The starry streets that point to God;  
 
-The legend of an [[Epic|epic]] hour  
+The legend of an [[forms/epic|epic]] hour  
 
-A [[Child|child]] I dreamed, and dream it still,  
+A [[archetypes/child|child]] I dreamed, and dream it still,  
 
-Under the great grey [[Water|water]]-tower  
+Under the great grey [[motifs/water|water]]-tower  
 
-That strikes the [[Stars|stars]] on Campden [[Hill]]  
+That strikes the [[motifs/stars|stars]] on Campden [[motifs/hill|Hill]]  
 
 TO _M. E. W_.  
 
@@ -9489,13 +9489,13 @@ The pale leaf falls in pallor, but the green leaf turns to gold;
 
 We that have found it good to be young shall find it good to be old;  
 
-Life that bringeth the [[Marriage|marriage]] bell, the cradle and the [[Grave|grave]],  
+Life that bringeth the [[motifs/marriage|marriage]] bell, the cradle and the [[motifs/grave|grave]],  
 
 Life that is mean to the mean of heart, and only brave to the brave.  
 
-In the calm of the last white [[Winter|winter]], when all the past is ours,  
+In the calm of the last white [[motifs/winter|winter]], when all the past is ours,  
 
-Old [[Tears|tears]] are frozen as jewels, old storms frosted as [[Flowers|flowers]].  
+Old [[motifs/tears|tears]] are frozen as jewels, old storms frosted as [[motifs/flowers|flowers]].  
 
 Dear Lady, may we meet again, stand up again, we four,  
 
@@ -9503,9 +9503,9 @@ Beneath the burden of the years, and praise the earth once more.
 
 II  
 
-WAR [[Poems|POEMS]]  
+WAR POEMS  
 
-[[lepanto|LEPANTO]]  
+LEPANTO  
 
 White founts falling in the Courts of the sun,  
 
@@ -9515,21 +9515,21 @@ There is laughter like the fountains in that face of all men feared,
 
 It stirs the forest darkness, the darkness of his beard,  
 
-It curls the [[Blood|blood]]-red crescent, the crescent of his lips,  
+It curls the [[motifs/blood|blood]]-red crescent, the crescent of his lips,  
 
 For the inmost sea of all the earth is shake with his ships.  
 
-They have dared the white republics up the cape of [[Italy]],  
+They have dared the white republics up the cape of [[settings/italy|Italy]],  
 
-They have dashed the Adriatic round the [[Lion]] of the Sea,  
+They have dashed the Adriatic round the [[motifs/lion|Lion]] of the Sea,  
 
 And the Pope has cast his arms abroad for agony and loss,  
 
-And called the kings of Christendom for swords about the [[Cross]].  
+And called the kings of Christendom for swords about the [[motifs/cross|Cross]].  
 
-The cold [[Queen|queen]] of England is looking in the glass;  
+The cold [[characters/queen|queen]] of England is looking in the glass;  
 
-The [[Shadow|shadow]] of the Valois is yawning at the Mass;  
+The [[archetypes/shadow|shadow]] of the Valois is yawning at the Mass;  
 
 From evening isles fantastical rings faint the Spanish gun,  
 
@@ -9547,15 +9547,15 @@ The last and lingering troubadour to whom the bird has sung,
 
 That once went singing southward when all the world was young.  
 
-In that enormous [[Silence|silence]], tiny and unafraid,  
+In that enormous [[motifs/silence|silence]], tiny and unafraid,  
 
-Comes up along a winding [[Road|road]] the noise of the Crusade.  
+Comes up along a winding [[motifs/road|road]] the noise of the Crusade.  
 
 Strong gongs groaning as the guns boom far,  
 
-[[Don John of Austria]] is going to the war,  
+[[characters/don-john-of-austria|Don John of Austria]] is going to the war,  
 
-Stiff flags straining in the [[Night|night]]-blasts cold  
+Stiff flags straining in the [[motifs/night|night]]-blasts cold  
 
 In the gloom black-purple, in the glint old-gold,  
 
@@ -9563,23 +9563,23 @@ Torchlight crimson on the copper kettle-drums,
 
 Then the tuckets, then the trumpets, then the cannon, and he comes.  
 
-[[Don John]] laughing in the brave beard curled.  
+[[characters/don-john|Don John]] laughing in the brave beard curled.  
 
 Spuming of his stirrups like the thrones of all the world,  
 
-Holding his head up for a [[Flag|flag]] of all the free.  
+Holding his head up for a [[motifs/flag|flag]] of all the free.  
 
-[[Love]]-light of Spain--hurrah!  
+[[motifs/love|Love]]-light of Spain--hurrah!  
 
-[[Death]]-light of Africa!  
+[[motifs/death|Death]]-light of Africa!  
 
-[[Don John of Austria]]  
+[[characters/don-john-of-austria|Don John of Austria]]  
 
 Is riding to the sea.  
 
-Mahound is in his paradise above the [[Evening Star|evening star]],  
+Mahound is in his paradise above the evening star,  
 
-_([[Don John of Austria]] is going to the war.)_  
+_([[characters/don-john-of-austria|Don John of Austria]] is going to the war.)_  
 
 He moves a mighty turban on the timeless houri's knees,  
 
@@ -9589,9 +9589,9 @@ He shakes the peacock gardens as he rises from his ease,
 
 And he strides among the tree-tops and is taller than the trees,  
 
-And his voice through all the [[Garden|garden]] is a thunder sent to bring  
+And his voice through all the [[motifs/garden|garden]] is a thunder sent to bring  
 
-Black Azrael and [[Ariel]] and Ammon on the wing.  
+Black Azrael and [[characters/ariel|Ariel]] and Ammon on the wing.  
 
 Giants and the Genii,  
 
@@ -9599,7 +9599,7 @@ Multiplex of wing and eye,
 
 Whose strong obedience broke the sky  
 
-When Solomon was [[King|king]].  
+When Solomon was [[archetypes/king|king]].  
 
 They rush in red and purple from the red clouds of the morn,  
 
@@ -9615,27 +9615,27 @@ Splashed with a splendid sickness, the sickness of the pearl;
 
 They swell in sapphire smoke out of the blue cracks of the ground,--  
 
-They gather and they [[Wonder|wonder]] and give worship to Mahound.  
+They gather and they [[concepts/wonder|wonder]] and give worship to Mahound.  
 
-And he saith, "Break up the [[Mountains|mountains]] where the hermit-folk can hide,  
+And he saith, "Break up the [[settings/mountains|mountains]] where the hermit-folk can hide,  
 
 And sift the red and silver sands lest bone of saint abide,  
 
-And chase the Giaours flying [[Night|night]] and day, not giving rest,  
+And chase the Giaours flying [[motifs/night|night]] and day, not giving rest,  
 
 For that which was our trouble comes again out of the west.  
 
 We have set the seal of Solomon on all things under sun,  
 
-Of knowledge and of sorrow and [[Endurance|endurance]] of things done,  
+Of knowledge and of sorrow and [[concepts/endurance|endurance]] of things done,  
 
-But a noise is in 'the [[Mountains|mountains]], in the [[Mountains|mountains]], and I know  
+But a noise is in 'the [[settings/mountains|mountains]], in the [[settings/mountains|mountains]], and I know  
 
 The voice that shook our palaces--four hundred years ago:  
 
 It is he that saith not 'Kismet'; it is he that knows not Fate;  
 
-It is [[Richard]], it is Raymond, it is Godfrey in the gate!  
+It is [[characters/richard|Richard]], it is Raymond, it is Godfrey in the gate!  
 
 It is he whose loss is laughter when he counts the wager worth,  
 
@@ -9643,19 +9643,19 @@ Put down your feet upon him, that our peace be on the earth."
 
 For he heard drums groaning and he heard guns jar,  
 
-_([[Don John of Austria]] is going to the war.)_  
+_([[characters/don-john-of-austria|Don John of Austria]] is going to the war.)_  
 
 Sudden and still--hurrah!  
 
 Bolt from Iberia!  
 
-[[Don John of Austria]]  
+[[characters/don-john-of-austria|Don John of Austria]]  
 
 Is gone by Alcalar.  
 
-St. [[Michael]]'s on his Mountain in the sea-roads of the north  
+St. [[characters/michael|Michael]]'s on his Mountain in the sea-roads of the north  
 
-_([[Don John of Austria]] is girt and going forth.)_  
+_([[characters/don-john-of-austria|Don John of Austria]] is girt and going forth.)_  
 
 Where the grey seas glitter and the sharp tides shift  
 
@@ -9663,40 +9663,40 @@ And the sea-folk labour and the red sails lift.
 
 He shakes his lance of iron and he claps his wings of stone;  
 
-The noise is gone through Normandy; the noise is gone [[Alone|alone]];  
+The noise is gone through Normandy; the noise is gone alone;  
 
 The North is full of tangled things and texts and aching eyes  
 
-And dead is all the [[innocence]] of anger and surprise,  
+And dead is all the innocence of anger and surprise,  
 
 And Christian killeth Christian in a narrow dusty  
 
-And Christian dreadeth [[Christ]] that hath a newer face of doom,  
+And Christian dreadeth [[characters/christ|Christ]] that hath a newer face of doom,  
 
 And Christian hateth Mary that God kissed in Galilee,  
 
-But [[Don John of Austria]] is riding to the sea.  
+But [[characters/don-john-of-austria|Don John of Austria]] is riding to the sea.  
 
-[[Don John]] calling through the blast and the eclipse
+[[characters/don-john|Don John]] calling through the blast and the eclipse
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Prodotto da Marc D'Hooghe  
 
-[[Poems|POESIE]]  
+POESIE  
 
-by  
+di  
 
-# G.K. Chesterton
+G.K. CHESTERTON  
 
-[[New York|NEW YORK]]  
+[[settings/new-york|NEW YORK]]  
 
 1916  
 
-Lo stesso autore
+DELLO STESSO AUTORE  
 
-Il Napoleone di Notting [[Hill]]: Un [[Romance|romanzo]]. Con illustrazioni di Graham  
+Il Napoleone di Notting [[motifs/hill|Hill]]: Un romanzo. Con illustrazioni di Graham  
 
 Robertson.  
 
@@ -9706,35 +9706,35 @@ Ortodossia.
 
 Tutto considerato.  
 
-George Bernard [[Shaw]]. Una [[Biography|biografia]] illustrata.  
+George Bernard [[works/shaw-(chesterton)|Shaw]]. Una [[forms/biography|biografia]] illustrata.  
 
-La palla e la [[Cross|croce]].  
+La palla e la [[motifs/cross|croce]].  
 
-La ballata del [[Horse|cavallo]] bianco.  
+La ballata del [[motifs/horse|cavallo]] bianco.  
 
-L'[[innocence|innocenza]] di [[Father Brown|padre Brown]]. Illustrato.  
+L'innocenza di [[characters/father-brown|padre Brown]]. Illustrato.  
 
-La saggezza di [[Father Brown|padre Brown]].  
+La saggezza di [[characters/father-brown|padre Brown]].  
 
-[[manalive|Manalive]].  
+Manalive.  
 
 La locanda volante.  
 
-JOHN LANE COMPANY PUBLISHERS [[New York|NEW YORK]]  
+JOHN LANE COMPANY PUBLISHERS [[settings/new-york|NEW YORK]]  
 
-INDICE
+INDICE  
 
 TRE DEDICHE  
 
-A [[Edmund|EDMUND]] CLERIHEW BENTLEY  
+A [[characters/edmund|EDMUND]] CLERIHEW BENTLEY  
 
 A HILAIRE BELLOC  
 
-TO M. E. W.  
+A M. E. W.  
 
-[[Poems|POESIE]] DI GUERRA  
+POESIE DI GUERRA  
 
-[[lepanto|LEPANTO]]  
+LEPANTO  
 
 LA MARCIA DELLA MONTAGNA NERA 1913  
 
@@ -9742,19 +9742,19 @@ BEATI GLI OPERATORI DI PACE
 
 LA MOGLIE DELLE FIANDRE  
 
-IL CROCIATO TORNA DALLA PRIGIONIA  
+IL CROCIATO RITORNA DALLA PRIGIONIA  
 
-[[Love|AMORE]] [[Poems|POESIE]]  
+POESIE D'[[motifs/love|AMORE]]  
 
 GLENCOE  
 
-IL TRAPPISTA DELL'[[Love|AMORE]]  
+IL TRAPPISTA DELL'[[motifs/love|AMORE]]  
 
 CONFESSIONALE  
 
 MUSICA  
 
-IL [[deluge|DILUVIO]]  
+IL DILUVIO  
 
 LA STRANA MUSICA  
 
@@ -9762,97 +9762,97 @@ IL GRANDE MINIMO
 
 IL MORTALE RISPONDE  
 
-UN [[Marriage|NUZIALE]] [[Song|CANTO]]  
+UN CANTO DI [[motifs/marriage|NOZZE]]  
 
 BAY COMBE  
 
-[[Poems|POESIE]] RELIGIOSE  
+POESIE RELIGIOSE  
 
-I MAGI  
+I RE MAGI  
 
-LA [[house|CASA]] DEL NATALE  
+LA CASA DEL NATALE  
 
-UN [[Song|CANTO]] DI DONI A DIO  
+UN CANTO DI DONI A DIO  
 
 IL REGNO DEI CIELI  
 
-UN [[Hymn|INNO]] PER LA CHIESA MILITANTE  
+UN [[forms/hymn|INNO]] PER LA CHIESA MILITANTE  
 
 LA VISIONE BEATIFICA  
 
 LA TREGUA DEL NATALE  
 
-UN [[Hymn|INNO]]  
+UN [[forms/hymn|INNO]]  
 
-UN [[Song|CANTO]] DI NATALE PER TRE CORPORAZIONI  
+UN CANTO DI NATALE PER TRE CORPORAZIONI  
 
 LA NATIVITÀ  
 
-UN [[Child|BAMBINO]] DELLE NEVI  
+UN [[archetypes/child|FANCIULLO]] DELLE NEVI  
 
 UNA PAROLA  
 
 RIME PER I TEMPI  
 
-ANTICRISTO, O LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
+ANTICRISTO, OVVERO LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
 
 IL RIVOLUZIONARIO, OVVERO VERSI A UN UOMO DI STATO  
 
-IL MEMORIALE DI SHAKESPEARE  
+IL MONUMENTO A SHAKESPEARE  
 
-L'ORRIBILE [[history|STORIA]] DI [[Jones|JONES]]  
+L'ORRIBILE [[concepts/history|STORIA]] DI [[characters/jones|JONES]]  
 
 IL NUOVO LIBERO PENSATORE  
 
 IN MEMORIAM P.D.  
 
-[[Sonnet|SONETTO]] CON GLI AUGURI DELLA STAGIONE  
+[[forms/sonnet|SONETTO]] CON GLI AUGURI DELLA STAGIONE  
 
-UN [[Song|CANTO]] DI SPADE
+UN CANTO DI SPADE  
 
-UN [[Song|CANTO]] DI SCONFITTA  
+UN CANTO DI SCONFITTA  
 
-[[Sonnet|SONETTO]]  
+[[forms/sonnet|SONETTO]]  
 
 AFRICA  
 
-Il MORTO [[Hero|EROE]]  
+L'[[archetypes/hero|EROE]] MORTO  
 
 UN'ECO ELETTORALE  
 
-IL [[Song|CANTO]] DELLE RUOTE  
+IL CANTO DELLE RUOTE  
 
 IL POPOLO SEGRETO  
 
-[[Poems|POESIE]] VARIE  
+POESIE VARIE  
 
 PERDUTO  
 
 BALLATA DEL SOLE  
 
-[[Translation|TRADUZIONE]] DA DU BELLAY  
+[[forms/translation|TRADUZIONE]] DA DU BELLAY  
 
-LA PIÙ ALTA [[unity|UNITÀ]]  
+L'UNITÀ SUPERIORE  
 
 LA VEGLIA DELLA TERRA  
 
 SULLA GIUSTA INDIGNAZIONE  
 
-QUANDO TORNAI IN FLEET STREET  
+QUANDO TORNAI A FLEET STREET  
 
-UN [[Song|CANTO]] DEL SIDRO  
+UN CANTO DEL SIDRO  
 
-L'ULTIMO [[Hero|EROE]]  
+L'ULTIMO [[archetypes/hero|EROE]]  
 
 BALLATE  
 
 BALLADE D'UNE GRANDE DAME  
 
-UNA BALLATA DI UN [[anti-puritan|ANTI-PURITANO]]  
+UNA BALLATA DI UN ANTI-PURITANO  
 
 UNA BALLATA DI UN RECENSORE DI LIBRI  
 
-UNA BALLATA DEL [[suicide|SUICIDIO]]  
+UNA BALLATA DEL [[concepts/suicide|SUICIDIO]]  
 
 UNA BALLATA DELLA PRIMA PIOGGIA  
 
@@ -9860,33 +9860,33 @@ I
 
 TRE DEDICHE  
 
-A [[Edmund|EDMUND]] CLERIHEW BENTLEY  
+A [[characters/edmund|EDMUND]] CLERIHEW BENTLEY  
 
 LA DEDICA DI _L'UOMO CHE FU GIOVEDÌ_  
 
 Una nube gravava sulla mente degli uomini, e il tempo passava gemendo,  
 
-Sì, una nube malata sull'[[Soul|anima]] quando eravamo ragazzi insieme.  
+Sì, una nube malata sull'[[motifs/soul|anima]] quando eravamo ragazzi insieme.  
 
-La scienza proclamava il nulla e l'arte ammirava la [[Decay|corruzione]];  
+La scienza proclamava il nulla e l'arte ammirava la [[motifs/decay|corruzione]];  
 
 Il mondo era vecchio e finito: ma tu ed io eravamo lieti.  
 
 Intorno a noi in grottesco corteo venivano i loro vizi storpi--  
 
-La lussuria che aveva perso il riso, la [[Fear|paura]] che aveva perso la vergogna.  
+La lussuria che aveva perso il riso, la [[concepts/fear|paura]] che aveva perso la vergogna.  
 
 Come la bianca ciocca di Whistler, che illuminava la nostra tetraggine senza meta,  
 
 Gli uomini mostravano la propria penna bianca fieri come d'un pennacchio.  
 
-La vita era una mosca che svaniva, e la [[Death|morte]] un fuco che pungeva;  
+La vita era una mosca che svaniva, e la [[motifs/death|morte]] un fuco che pungeva;  
 
 Il mondo era davvero molto vecchio quando tu ed io eravamo giovani.  
 
 Torcevano perfino il peccato decente in forme che non si possono nominare:  
 
-Gli uomini si vergognavano dell'[[Honour|onore]]; ma noi non ci vergognavamo.  
+Gli uomini si vergognavano dell'[[concepts/honour|onore]]; ma noi non ci vergognavamo.  
 
 Deboli forse eravamo e stolti, ma non così fallimmo, non così;  
 
@@ -9898,7 +9898,7 @@ Per quanto salissero, li ammucchiavamo per infrangere quel mare amaro.
 
 Folli come eravamo in abito d'Arlecchino, tutti stridenti e assurdi,  
 
-Quando tutte le [[Bells|campane]] delle chiese tacevano, si udivano il nostro berretto e i [[Bells|sonagli]].  
+Quando tutte le [[motifs/bells|campane]] delle chiese tacevano, si udivano il nostro berretto e i [[motifs/bells|sonagli]].  
 
 Non del tutto senza aiuto tenemmo il forte, spiegate le nostre minuscole bandiere;  
 
@@ -9910,11 +9910,11 @@ Lontano, dalla Paumanok a forma di pesce, un grido di cose più pure;
 
 E il Garofano Verde appassì, come nei roghi di foresta che passano,  
 
-Ruggirono nel [[Wind|vento]] di tutto il mondo dieci milioni di [[Leaves|foglie]] d'erba;  
+Ruggirono nel [[motifs/wind|vento]] di tutto il mondo dieci milioni di [[motifs/leaves|foglie]] d'erba;  
 
 O sana e dolce e improvvisa come un uccello canta nella pioggia  
 
-La [[Truth|verità]] parlò da Tusitala e il piacere dal [[Pain|dolore]].  
+La [[concepts/truth|verità]] parlò da Tusitala e il piacere dal [[motifs/pain|dolore]].  
 
 Sì, fresca e chiara e improvvisa come un uccello canta nel grigiore,  
 
@@ -9924,7 +9924,7 @@ Ma noi eravamo giovani; vivemmo per vedere Dio spezzare i loro amari incantesimi
 
 Dio e la buona Repubblica tornare a cavallo, in armi:  
 
-Abbiamo veduto la [[City|città]] di Mansoul, mentre ancora vacillava, liberata--Beati  
+Abbiamo veduto la [[motifs/city|città]] di Mansoul, mentre ancora vacillava, liberata--Beati  
 
 coloro che non videro, ma pur essendo ciechi, credettero.  
 
@@ -9934,21 +9934,21 @@ E nessuno tranne te comprenderà la vera cosa che essa racconta--
 
 Di quali colossali dèi della vergogna poterono atterrire gli uomini e pure crollare,  
 
-Di quali enormi diavoli nascosero le [[Stars|stelle]], eppure caddero al lampo d'una [[Pistol|pistola]].  
+Di quali enormi diavoli nascosero le [[motifs/stars|stelle]], eppure caddero al lampo d'una [[characters/pistol|pistola]].  
 
 I dubbi che erano così facili da inseguire, così terribili da sostenere--  
 
 Oh, chi comprenderà se non tu; sì, chi comprenderà?  
 
-I dubbi che ci sospinsero per la [[Night|notte]] mentre noi due parlavamo senza sosta,  
+I dubbi che ci sospinsero per la [[motifs/night|notte]] mentre noi due parlavamo senza sosta,  
 
 E il giorno era spuntato sulle strade prima che spuntasse sulla mente.  
 
-Fra noi, per la pace di Dio, una tale [[Truth|verità]] può ora esser detta;  
+Fra noi, per la pace di Dio, una tale [[concepts/truth|verità]] può ora esser detta;  
 
 Sì, c'è forza nel mettere radice, e bene nell'invecchiare.  
 
-Abbiamo trovato infine le cose comuni, e il [[Marriage|matrimonio]] e un credo.  
+Abbiamo trovato infine le cose comuni, e il [[motifs/marriage|matrimonio]] e un credo.  
 
 E io posso ora scriverlo senza timore, e tu puoi leggerlo senza timore.  
 
@@ -9958,21 +9958,21 @@ LA DEDICA DI _IL NAPOLEONE DI NOTTING HILL_
 
 Per ogni minuscola città o luogo  
 
-Dio fece le [[Stars|stelle]] apposta;  
+Dio fece le [[motifs/stars|stelle]] apposta;  
 
 I bimbi guardano in su con volto di civetta  
 
 E le vedono impigliate in un albero:  
 
-Tu vedesti una [[Moon|luna]] dalle Downs del Sussex,  
+Tu vedesti una [[motifs/moon|luna]] dalle Downs del Sussex,  
 
-Una [[Moon|luna]] del Sussex, ancora mai viaggiata,  
+Una [[motifs/moon|luna]] del Sussex, ancora mai viaggiata,  
 
-Io vidi una [[Moon|luna]] che era della città,  
+Io vidi una [[motifs/moon|luna]] che era della città,  
 
-La più grande lampada su Campden [[Hill]].  
+La più grande lampada su Campden [[motifs/hill|Hill]].  
 
-Sì, il Cielo è ovunque di [[Home|casa]].  
+Sì, il Cielo è ovunque di [[motifs/home|casa]].  
 
 Il grande berretto azzurro che va sempre bene,  
 
@@ -9994,7 +9994,7 @@ Ove siede un'Inghilterra immortale--
 
 Né dove i tuoi alti giovani a loro volta  
 
-Bevvero la [[Death|morte]] come vino ad Austerlitz.  
+Bevvero la [[motifs/death|morte]] come vino ad Austerlitz.  
 
 E quando i pedanti ci ordinarono di notare  
 
@@ -10010,15 +10010,15 @@ Questi tetri livelli lisci e liberi,
 
 I tamburi fragoreranno un valzer di guerra  
 
-E la [[Death|Morte]] [[Dance|danzerà]] con la Libertà;  
+E la [[motifs/death|Morte]] [[motifs/dance|danzerà]] con la Libertà;  
 
 Più probabile, le barricate strepiteranno  
 
 Strage in basso e fumo in alto,  
 
-E la [[Death|morte]] e l'odio e l'inferno dichiarino  
+E la [[motifs/death|morte]] e l'odio e l'inferno dichiarino  
 
-Che gli uomini hanno trovato una cosa da [[Love|amare]].  
+Che gli uomini hanno trovato una cosa da [[motifs/love|amare]].  
 
 Lontano dai tuoi assolati altipiani  
 
@@ -10028,15 +10028,15 @@ Le diritte strade illuminate si slanciarono e incontrarono
 
 Le strade stellate che additano Dio;  
 
-La leggenda di un'ora [[Epic|epica]]  
+La leggenda di un'ora [[forms/epic|epica]]  
 
-Da [[Child|fanciullo]] sognai, e ancora la sogno,  
+Da [[archetypes/child|fanciullo]] sognai, e ancora la sogno,  
 
-Sotto la grande grigia torre dell'[[Water|acqua]]  
+Sotto la grande grigia torre dell'[[motifs/water|acqua]]  
 
-Che colpisce le [[Stars|stelle]] su Campden [[Hill]]  
+Che colpisce le [[motifs/stars|stelle]] su Campden [[motifs/hill|Hill]]  
 
-TO _M. E. W_.  
+A _M. E. W_.  
 
 Parole, ché ahimè il mio mestiere è parole, un arido sprazzo di rima,  
 
@@ -10058,13 +10058,13 @@ La foglia pallida cade nel pallore, ma la foglia verde si fa oro;
 
 Noi che abbiamo trovato bello esser giovani troveremo bello esser vecchi;  
 
-Vita che reca la campana delle [[Marriage|nozze]], la culla e la [[Grave|tomba]],  
+Vita che reca la campana delle [[motifs/marriage|nozze]], la culla e la [[motifs/grave|tomba]],  
 
 Vita che è meschina col meschino di cuore, e prode solo col prode.  
 
-Nella calma dell'ultimo bianco [[Winter|inverno]], quando tutto il passato è nostro,  
+Nella calma dell'ultimo bianco [[motifs/winter|inverno]], quando tutto il passato è nostro,  
 
-Le vecchie [[Tears|lacrime]] son gelate come gioielli, le vecchie tempeste brinate come [[Flowers|fiori]].  
+Le vecchie [[motifs/tears|lacrime]] son gelate come gioielli, le vecchie tempeste brinate come [[motifs/flowers|fiori]].  
 
 Cara Signora, possiamo incontrarci di nuovo, rialzarci di nuovo, noi quattro,  
 
@@ -10072,9 +10072,9 @@ Sotto il peso degli anni, e lodare la terra ancora una volta.
 
 II  
 
-[[Poems|POESIE]] DI GUERRA  
+POESIE DI GUERRA  
 
-[[lepanto|LEPANTO]]  
+LEPANTO  
 
 Bianche fontane cadenti nelle Corti del sole,  
 
@@ -10084,21 +10084,21 @@ C'è un riso come le fontane in quel volto che tutti temettero,
 
 Agita la tenebra di foresta, la tenebra della sua barba,  
 
-Increspa la mezzaluna rossa di [[Blood|sangue]], la mezzaluna delle sue labbra,  
+Increspa la mezzaluna rossa di [[motifs/blood|sangue]], la mezzaluna delle sue labbra,  
 
 Ché il mare più interno di tutta la terra è scosso dalle sue navi.  
 
-Hanno sfidato le bianche repubbliche su per il capo d'[[Italy|Italia]],  
+Hanno sfidato le bianche repubbliche su per il capo d'[[settings/italy|Italia]],  
 
-Hanno flagellato l'Adriatico intorno al [[Lion|Leone]] del Mare,  
+Hanno flagellato l'Adriatico intorno al [[motifs/lion|Leone]] del Mare,  
 
 E il Papa ha aperto le braccia nell'agonia e nella perdita,  
 
-E ha chiamato i re della cristianità alle spade intorno alla [[Cross|Croce]].  
+E ha chiamato i re della cristianità alle spade intorno alla [[motifs/cross|Croce]].  
 
-La fredda [[Queen|regina]] d'Inghilterra si guarda allo specchio;  
+La fredda [[characters/queen|regina]] d'Inghilterra si guarda allo specchio;  
 
-L'[[Shadow|ombra]] dei Valois sbadiglia alla Messa;  
+L'[[archetypes/shadow|ombra]] dei Valois sbadiglia alla Messa;  
 
 Da isole serali fantastiche risuona fioco il cannone spagnolo,  
 
@@ -10116,15 +10116,15 @@ L'ultimo e indugiante trovatore a cui l'uccello ha cantato,
 
 Che un tempo andava cantando verso sud quando tutto il mondo era giovane.  
 
-In quell'enorme [[Silence|silenzio]], minuscolo e senza paura,  
+In quell'enorme [[motifs/silence|silenzio]], minuscolo e senza paura,  
 
-Sale lungo una tortuosa [[Road|strada]] il rumore della Crociata.  
+Sale lungo una tortuosa [[motifs/road|strada]] il rumore della Crociata.  
 
 Forti gong gemono mentre i cannoni rombano lontano,  
 
-[[Don John of Austria|Don Giovanni d'Austria]] va alla guerra,  
+[[characters/don-john-of-austria|Don Giovanni d'Austria]] va alla guerra,  
 
-Rigide bandiere tese nelle fredde raffiche della [[Night|notte]]  
+Rigide bandiere tese nelle fredde raffiche della [[motifs/night|notte]]  
 
 Nella tenebra nero-porpora, nel bagliore oro antico,  
 
@@ -10132,23 +10132,23 @@ Luce di torce cremisi sui timpani di rame,
 
 Poi gli squilli, poi le trombe, poi il cannone, ed egli viene.  
 
-[[Don John|Don Giovanni]] che ride nella prode barba ricciuta.  
+[[characters/don-john|Don Giovanni]] che ride nella prode barba ricciuta.  
 
 Spumeggiando dalle staffe come i troni di tutto il mondo,  
 
-Tenendo alta la testa come una [[Flag|bandiera]] di tutti i liberi.  
+Tenendo alta la testa come una [[motifs/flag|bandiera]] di tutti i liberi.  
 
-Luce d'[[Love|amore]] di Spagna--evviva!  
+Luce d'[[motifs/love|amore]] di Spagna--evviva!  
 
-Luce di [[Death|morte]] d'Africa!  
+Luce di [[motifs/death|morte]] d'Africa!  
 
-[[Don John of Austria|Don Giovanni d'Austria]]  
+[[characters/don-john-of-austria|Don Giovanni d'Austria]]  
 
 Cavalca verso il mare.  
 
-Mahound è nel suo paradiso sopra la [[Evening Star|stella della sera]],  
+Mahound è nel suo paradiso sopra la stella della sera,  
 
-_([[Don John of Austria|Don Giovanni d'Austria]] va alla guerra.)_  
+_([[characters/don-john-of-austria|Don Giovanni d'Austria]] va alla guerra.)_  
 
 Muove un possente turbante sulle ginocchia dell'urì senza tempo,  
 
@@ -10158,9 +10158,9 @@ Scuote i giardini di pavoni mentre si leva dal suo ozio,
 
 E incede tra le cime degli alberi ed è più alto degli alberi,  
 
-E la sua voce per tutto il [[Garden|giardino]] è un tuono mandato a chiamare  
+E la sua voce per tutto il [[motifs/garden|giardino]] è un tuono mandato a chiamare  
 
-Il nero Azrael e [[Ariel]] e Ammon in volo.  
+Il nero Azrael e [[characters/ariel|Ariel]] e Ammon in volo.  
 
 Giganti e i Geni,  
 
@@ -10168,7 +10168,7 @@ Molteplici d'ala e d'occhio,
 
 La cui forte obbedienza spezzò il cielo  
 
-Quando Salomone era [[King|re]].  
+Quando Salomone era [[archetypes/king|re]].  
 
 Irrompono in rosso e porpora dalle rosse nubi del mattino,  
 
@@ -10184,27 +10184,27 @@ Chiazzate di uno splendido morbo, il morbo della perla;
 
 Si gonfiano in fumo di zaffiro dalle azzurre fenditure del suolo,--  
 
-Si radunano e si [[Wonder|meravigliano]] e rendono culto a Mahound.  
+Si radunano e si [[concepts/wonder|meravigliano]] e rendono culto a Mahound.  
 
-Ed egli dice: «Spaccate i [[Mountains|monti]] dove la gente eremita può nascondersi,  
+Ed egli dice: «Spaccate i [[settings/mountains|monti]] dove la gente eremita può nascondersi,  
 
 E setacciate le sabbie rosse e d'argento affinché non resti osso di santo,  
 
-E incalzate i Giaurri in fuga [[Night|notte]] e giorno, senza dar tregua,  
+E incalzate i Giaurri in fuga [[motifs/night|notte]] e giorno, senza dar tregua,  
 
 Ché ciò che fu il nostro tormento torna ancora dall'occidente.  
 
 Abbiamo posto il sigillo di Salomone su tutte le cose sotto il sole,  
 
-Di sapere e di dolore e di [[Endurance|sopportazione]] delle cose compiute,  
+Di sapere e di dolore e di [[concepts/endurance|sopportazione]] delle cose compiute,  
 
-Ma un rumore è tra i [[Mountains|monti]], tra i [[Mountains|monti]], e io conosco  
+Ma un rumore è tra i [[settings/mountains|monti]], tra i [[settings/mountains|monti]], e io conosco  
 
 La voce che scosse i nostri palazzi--quattrocento anni fa:  
 
 È colui che non dice 'Kismet'; è colui che non conosce il Fato;  
 
-È [[Richard|Riccardo]], è Raimondo, è Goffredo alla porta!  
+È [[characters/richard|Riccardo]], è Raimondo, è Goffredo alla porta!  
 
 È colui la cui perdita è riso quando stima degna la posta,  
 
@@ -10212,19 +10212,19 @@ Ponete i vostri piedi su di lui, affinché la nostra pace sia sulla terra.»
 
 Ché egli udì i tamburi gemere e udì i cannoni stridere,  
 
-_([[Don John of Austria|Don Giovanni d'Austria]] va alla guerra.)_  
+_([[characters/don-john-of-austria|Don Giovanni d'Austria]] va alla guerra.)_  
 
 Improvviso e immoto--evviva!  
 
 Folgore d'Iberia!  
 
-[[Don John of Austria|Don Giovanni d'Austria]]  
+[[characters/don-john-of-austria|Don Giovanni d'Austria]]  
 
 È passato oltre Alcalar.  
 
-San [[Michael|Michele]] è sul suo Monte nelle vie marine del nord  
+San [[characters/michael|Michele]] è sul suo Monte nelle vie marine del nord  
 
-_([[Don John of Austria|Don Giovanni d'Austria]] è cinto d'armi e si mette in cammino.)_  
+_([[characters/don-john-of-austria|Don Giovanni d'Austria]] è cinto d'armi e si mette in cammino.)_  
 
 Dove i grigi mari luccicano e le aguzze maree si spostano  
 
@@ -10232,21 +10232,21 @@ E la gente di mare fatica e le rosse vele si levano.
 
 Egli scuote la sua lancia di ferro e batte le sue ali di pietra;  
 
-Il rumore è passato per la Normandia; il rumore se n'è andato [[Alone|solo]];  
+Il rumore è passato per la Normandia; il rumore se n'è andato solo;  
 
 Il Nord è pieno di cose intricate e di testi e di occhi doloranti  
 
-E morta è tutta l'[[innocence|innocenza]] dell'ira e della sorpresa,  
+E morta è tutta l'innocenza dell'ira e della sorpresa,  
 
 E il cristiano uccide il cristiano in una angusta polverosa  
 
-E il cristiano paventa [[Christ|Cristo]] che ha un più nuovo volto di condanna,  
+E il cristiano paventa [[characters/christ|Cristo]] che ha un più nuovo volto di condanna,  
 
 E il cristiano odia Maria che Dio baciò in Galilea,  
 
-Ma [[Don John of Austria|Don Giovanni d'Austria]] cavalca verso il mare.  
+Ma [[characters/don-john-of-austria|Don Giovanni d'Austria]] cavalca verso il mare.  
 
-[[Don John|Don Giovanni]] che chiama attraverso la raffica e l'eclissi
+[[characters/don-john|Don Giovanni]] che chiama attraverso la raffica e l'eclissi
 
 
 
@@ -10259,19 +10259,19 @@ Trumpet that sayeth ha!
 
 _Domino gloria_!  
 
-[[Don John of Austria]]  
+[[characters/don-john-of-austria|Don John of Austria]]  
 
 Is shouting to the ships.  
 
-[[King]] Philip's in his closet with the Fleece about his neck  
+[[archetypes/king|King]] Philip's in his closet with the Fleece about his neck  
 
-_([[Don John of Austria]] is armed upon the deck.)_  
+_([[characters/don-john-of-austria|Don John of Austria]] is armed upon the deck.)_  
 
 The walls are hung with velvet that is black and soft as sin,  
 
 And little dwarfs creep out of it and little dwarfs creep in.  
 
-He holds a crystal phial that has colours like the [[Moon|moon]],  
+He holds a crystal phial that has colours like the [[motifs/moon|moon]],  
 
 He touches, and it tingles, and he trembles very  
 
@@ -10279,35 +10279,35 @@ And his face is as a fungus of a leprous white and grey
 
 Like plants in the high houses that are shuttered from the day.  
 
-And [[Death|death]] is in the phial and the end of noble work,  
+And [[motifs/death|death]] is in the phial and the end of noble work,  
 
-But [[Don John of Austria]] has fired upon the Turk.  
+But [[characters/don-john-of-austria|Don John of Austria]] has fired upon the Turk.  
 
-[[Don John]]'s hunting, and his hounds have bayed--Booms  
+[[characters/don-john|Don John]]'s hunting, and his hounds have bayed--Booms  
 
-away past [[Italy]] the rumour of his raid.  
+away past [[settings/italy|Italy]] the rumour of his raid.  
 
 Gun upon gun, ha! ha!  
 
 Gun upon gun, hurrah!  
 
-[[Don John of Austria]]  
+[[characters/don-john-of-austria|Don John of Austria]]  
 
 Has loosed the cannonade.  
 
 The Pope was in his chapel before day or battle broke,  
 
-_([[Don John of Austria]] is hidden in the smoke.)_  
+_([[characters/don-john-of-austria|Don John of Austria]] is hidden in the smoke.)_  
 
-The hidden room in man's [[house]] where God sits all the year,  
+The hidden room in man's house where God sits all the year,  
 
-The secret [[Window|window]] whence the world looks small and very dear.  
+The secret [[motifs/window|window]] whence the world looks small and very dear.  
 
-He sees as in a [[Mirror|mirror]] on the monstrous twilight sea  
+He sees as in a [[motifs/mirror|mirror]] on the monstrous twilight sea  
 
 The crescent of his cruel ships whose name is mystery;  
 
-They fling great shadows foe-wards, making [[Cross]] and [[Castle]] dark,  
+They fling great shadows foe-wards, making [[motifs/cross|Cross]] and [[settings/castle|Castle]] dark,  
 
 They veil the plumed lions on the galleys of St. Mark;  
 
@@ -10333,9 +10333,9 @@ Where a yellow face looks inward through the lattice of his cell,
 
 And he finds his God forgotten, and he seeks no more a sign_(But  
 
-[[Don John of Austria]] has burst the battle-line!)_  
+[[characters/don-john-of-austria|Don John of Austria]] has burst the battle-line!)_  
 
-[[Don John]] pounding from the slaughter-painted poop,  
+[[characters/don-john|Don John]] pounding from the slaughter-painted poop,  
 
 Purpling all the ocean like a bloody pirate's sloop,  
 
@@ -10351,21 +10351,21 @@ _Vivat Hispania!_
 
 _Domino Gloria!_  
 
-[[Don John of Austria]]  
+[[characters/don-john-of-austria|Don John of Austria]]  
 
 Has set his people free!  
 
-Cervantes on his galley sets the [[Sword|sword]] back in the sheath  
+Cervantes on his galley sets the sword back in the sheath  
 
-_([[Don John of Austria]] rides homeward with a wreath.)_  
+_([[characters/don-john-of-austria|Don John of Austria]] rides homeward with a wreath.)_  
 
-And he sees across a weary land a straggling [[Road|road]] in Spain,  
+And he sees across a weary land a straggling [[motifs/road|road]] in Spain,  
 
 Up which a lean and foolish knight for ever rides in vain,  
 
 And he smiles, but not as Sultans smile, and settles back the blade....  
 
-_(But [[Don John of Austria]] rides [[Home|home]] from the Crusade_.)  
+_(But [[characters/don-john-of-austria|Don John of Austria]] rides [[motifs/home|home]] from the Crusade_.)  
 
 THE MARCH OF THE BLACK MOUNTAIN 1913  
 
@@ -10373,9 +10373,9 @@ What will there be to remember
 
 Of us in the days to be?  
 
-Whose [[Faith|faith]] was a trodden ember  
+Whose [[concepts/faith|faith]] was a trodden ember  
 
-And even our [[Doubt|doubt]] not free;  
+And even our [[concepts/doubt|doubt]] not free;  
 
 Parliaments built of paper,  
 
@@ -10387,7 +10387,7 @@ In the weak aggressor's hold;
 
 A hush around Hunger, slaying  
 
-A [[City|city]] of serfs unfed;  
+A [[motifs/city|city]] of serfs unfed;  
 
 What shall we leave for a saying  
 
@@ -10395,7 +10395,7 @@ To praise us when we are dead?
 
 But men shall remember the Mountain  
 
-That broke its forest [[Chains|chains]],  
+That broke its forest [[motifs/chains|chains]],  
 
 And men shall remember the Mountain  
 
@@ -10403,7 +10403,7 @@ When it arches against the plains:
 
 And christen their children from it  
 
-And season and [[Ship|ship]] and street,  
+And season and [[motifs/ship|ship]] and street,  
 
 When the Mountain came to Mahomet  
 
@@ -10411,7 +10411,7 @@ And looked small before his feet.
 
 His head was as high as the crescent  
 
-Of the [[Moon|moon]] that seemed his [[Crown|crown]],  
+Of the [[motifs/moon|moon]] that seemed his [[motifs/crown|crown]],  
 
 And on glory of past and present  
 
@@ -10429,9 +10429,9 @@ One foot on the hills for warden
 
 By the little Mountain trod;  
 
-And one was in a [[Garden|garden]]  
+And one was in a [[motifs/garden|garden]]  
 
-And stood on the [[Grave|grave]] of God.  
+And stood on the [[motifs/grave|grave]] of God.  
 
 But men shall remember the Mountain,  
 
@@ -10439,11 +10439,11 @@ Though it fall down like a tree,
 
 They shall see the sign of the Mountain  
 
-[[Faith]] cast into the sea;  
+[[concepts/faith|Faith]] cast into the sea;  
 
 Though the crooked swords overcome it  
 
-And the Crooked [[Moon]] ride free,  
+And the Crooked [[motifs/moon|Moon]] ride free,  
 
 When the Mountain comes to Mahomet  
 
@@ -10463,7 +10463,7 @@ Whose iron is ruled by gold,
 
 Peace of immortal panic,  
 
-[[Love]] that is hate grown cold--  
+[[motifs/love|Love]] that is hate grown cold--  
 
 Are these a bribe or a warning  
 
@@ -10475,13 +10475,13 @@ Where deeds at last are done?
 
 Where men shall remember the Mountain  
 
-When [[Truth|truth]] forgets the plain--  
+When [[concepts/truth|truth]] forgets the plain--  
 
 And walk in the way of the Mountain  
 
 That did not fail in vain;  
 
-[[Death]] and eclipse and comet,  
+[[motifs/death|Death]] and eclipse and comet,  
 
 Thunder and seals that rend:  
 
@@ -10493,21 +10493,21 @@ BLESSED ARE THE PEACEMAKERS
 
 Of old with a divided heart  
 
-I saw my people's [[Pride|pride]] expand,  
+I saw my people's [[concepts/pride|pride]] expand,  
 
-Since a man's [[Soul|soul]] is torn apart  
+Since a man's [[motifs/soul|soul]] is torn apart  
 
 By mother earth and fatherland.  
 
 I knew, through many a tangled tale,  
 
-Glory and [[Truth|truth]] not one but two:  
+Glory and [[concepts/truth|truth]] not one but two:  
 
-[[King]], Constable, and Amirail  
+[[archetypes/king|King]], Constable, and Amirail  
 
 Took me like trumpets: but I knew  
 
-A blacker thing than [[Blood|blood]]'s own dye  
+A blacker thing than [[motifs/blood|blood]]'s own dye  
 
 Weighed down great Hawkins on the sea;  
 
@@ -10523,9 +10523,9 @@ For whose cold frenzies all your own
 
 The Battle of the Rivers broke;  
 
-Who have no [[Faith|faith]] a man could mourn.  
+Who have no [[concepts/faith|faith]] a man could mourn.  
 
-Nor [[Freedom|freedom]] any man desires;  
+Nor [[concepts/freedom|freedom]] any man desires;  
 
 But in a new clean light of scorn  
 
@@ -10545,17 +10545,17 @@ Low and brown barns thatched and repatched and tattered
 
 Where I had seven sons until to-day,  
 
-A little [[Hill|hill]] of hay your spur has scattered....  
+A little [[motifs/hill|hill]] of hay your spur has scattered....  
 
-This is not [[Paris]]. You have lost the way.  
+This is not [[settings/paris|Paris]]. You have lost the way.  
 
-You, staring at your [[Sword|sword]] to find it brittle,  
+You, staring at your sword to find it brittle,  
 
 Surprised at the surprise that was your plan,  
 
 Who shaking and breaking barriers not a little  
 
-Find never more the [[Death|death]]-door of Sedan.  
+Find never more the [[motifs/death|death]]-door of Sedan.  
 
 Must I for more than carnage call you claimant,  
 
@@ -10581,13 +10581,13 @@ How should I pay you, miserable people?
 
 How should I pay you everything you owe?34  
 
-Unhappy, can I give you back your [[Honour|honour]]?  
+Unhappy, can I give you back your [[concepts/honour|honour]]?  
 
 Though I forgave would any man forget?  
 
 While all the great green land has trampled on her  
 
-The treason and terror of the [[Night|night]] we met.  
+The treason and terror of the [[motifs/night|night]] we met.  
 
 Not any more in vengeance or in pardon  
 
@@ -10599,13 +10599,13 @@ Ride on and prosper. You have lost your spurs.
 
 THE CRUSADER RETURNS FROM CAPTIVITY  
 
-I have come forth alive from the land of purple and [[Poison|poison]] and glamour,  
+I have come forth alive from the land of purple and [[motifs/poison|poison]] and glamour,  
 
 Where the charm is strong as the torture, being chosen to change the mind;  
 
-Torture of wordless [[Dance|dance]] and wineless feast without clamour,  
+Torture of wordless [[motifs/dance|dance]] and wineless feast without clamour,  
 
-Palace hidden in palace, [[Garden|garden]] with [[Garden|garden]] behind;  
+Palace hidden in palace, [[motifs/garden|garden]] with [[motifs/garden|garden]] behind;  
 
 Women veiled in the sun, or bare as brass in the shadows,  
 
@@ -10613,7 +10613,7 @@ And the endless eyeless patterns where each thing seems an eye....
 
 And my stride is on Caesar's sand where it slides to the English meadows,  
 
-To the last low woods of Sussex and the [[Road|road]] that goes to Rye.  
+To the last low woods of Sussex and the [[motifs/road|road]] that goes to Rye.  
 
 In the cool and careless woods the eyes of the eunuchs burned not,  
 
@@ -10621,21 +10621,21 @@ But the wild hawk went before me, being free to return or roam,
 
 The hills had broad unconscious backs; and the tree-tops turned not,  
 
-And the huts were heedless of me: and I knew I was at [[Home|home]].  
+And the huts were heedless of me: and I knew I was at [[motifs/home|home]].  
 
-And I saw my lady afar and her holy [[Freedom|freedom]] upon her,  
+And I saw my lady afar and her holy [[concepts/freedom|freedom]] upon her,  
 
 A head, without veil, averted, and not to be turned with charms,  
 
-And I heard above bannerets blown the intolerant trumpets of [[Honour|honour]],  
+And I heard above bannerets blown the intolerant trumpets of [[concepts/honour|honour]],  
 
 That usher with iron laughter the coming of Christian arms.  
 
 My shield hangs stainless still; but I shall not go where they praise it,  
 
-A [[Sword|sword]] is still at my side, but I shall not ride with the [[King]].  
+A sword is still at my side, but I shall not ride with the [[archetypes/king|King]].  
 
-Only to walk and to walk and to stun my [[Soul|soul]] and amaze it,  
+Only to walk and to walk and to stun my [[motifs/soul|soul]] and amaze it,  
 
 A day with the stone and the sparrow and every marvellous thing.  
 
@@ -10643,21 +10643,21 @@ I have trod the curves of the Crescent, in the maze of them that adore it,
 
 Curved around doorless chambers and unbeholden abodes,  
 
-But I walk in the maze no more; on the sign of the [[Cross|cross]] I swore it,  
+But I walk in the maze no more; on the sign of the [[motifs/cross|cross]] I swore it,  
 
-The wild white [[Cross|cross]] of [[Freedom|freedom]], the sign of the white [[Cross|cross]]-roads.  
+The wild white [[motifs/cross|cross]] of [[concepts/freedom|freedom]], the sign of the white [[motifs/cross|cross]]-roads.  
 
 And the land shall leave me or take, and the Woman take me or leave me,  
 
-There shall be no more [[Night]], or nightmares seen in a glass;  
+There shall be no more [[motifs/night|Night]], or nightmares seen in a glass;  
 
-But Life shall hold me alive, and [[Death]] shall never deceive me  
+But Life shall hold me alive, and [[motifs/death|Death]] shall never deceive me  
 
 As long as I walk in England in the lanes that let me pass.  
 
 III  
 
-[[Love|LOVE]] [[Poems|POEMS]]  
+[[motifs/love|LOVE]] POEMS  
 
 GLENCOE  
 
@@ -10669,7 +10669,7 @@ They open to us like the gates of God
 
 Cloven in the last great wall of all the world.  
 
-I looked, and saw the valley of my [[Soul|soul]]  
+I looked, and saw the valley of my [[motifs/soul|soul]]  
 
 Where naked crests fight to achieve the skies,  
 
@@ -10677,47 +10677,47 @@ Where no grain grows nor wine, no fruitful thing,
 
 Only big words and starry blasphemies.  
 
-But you have clothed with [[Mercy|mercy]] like a moss  
+But you have clothed with [[concepts/mercy|mercy]] like a moss  
 
 The barren violence of its primal wars,  
 
 Sterile although they be and void of rule,  
 
-You know my shapeless crags have Wed the [[Stars|stars]].  
+You know my shapeless crags have Wed the [[motifs/stars|stars]].  
 
 How shall I thank you, O courageous heart.  
 
-That of this wasteful world you had no [[Fear|fear]];  
+That of this wasteful world you had no [[concepts/fear|fear]];  
 
-But bade it blossom in clear [[Faith|faith]] and sent  
+But bade it blossom in clear [[concepts/faith|faith]] and sent  
 
 Your fair flower-feeding rivers: even as here  
 
 The peat burns brimming from their cups of stone  
 
-Glow brown and [[Blood|blood]]-red down the vast decline  
+Glow brown and [[motifs/blood|blood]]-red down the vast decline  
 
-As if [[Christ]] stood on yonder clouded peak  
+As if [[characters/christ|Christ]] stood on yonder clouded peak  
 
 And turned its thousand waters into wine.  
 
-[[Love|LOVE]]'S TRAPPIST  
+[[motifs/love|LOVE]]'S TRAPPIST  
 
 There is a place where lute and lyre are broken.  
 
-Where scrolls are torn and on a wild [[Wind|wind]] go,  
+Where scrolls are torn and on a wild [[motifs/wind|wind]] go,  
 
 Where tablets stand wiped naked for a token,  
 
 Where laurels wither and the daisies grow.  
 
-Lo: I too join the brotherhood of [[Silence|silence]],  
+Lo: I too join the brotherhood of [[motifs/silence|silence]],  
 
-I am [[Love]]'s Trappist and you ask in vain,  
+I am [[motifs/love|Love]]'s Trappist and you ask in vain,  
 
-For man through [[Love]]'s gate, even as through [[Death]]'s gate,  
+For man through [[motifs/love|Love]]'s gate, even as through [[motifs/death|Death]]'s gate,  
 
-Goeth [[Alone|alone]] and comes not back again.  
+Goeth alone and comes not back again.  
 
 Yet here I pause, look back across the threshold.  
 
@@ -10729,7 +10729,7 @@ O world, old world, the best hath ne'er been told!
 
 CONFESSIONAL  
 
-Now that I kneel at the throne, O [[Queen]],  
+Now that I kneel at the throne, O [[characters/queen|Queen]],  
 
 Pity and pardon me.  
 
@@ -10737,11 +10737,11 @@ Much have I striven to sing the same,
 
 Brother of beast and tree;  
 
-Yet when the [[Stars|stars]] catch me [[Alone|alone]]  
+Yet when the [[motifs/stars|stars]] catch me alone  
 
 Never a linnet sings--  
 
-And the [[Blood|blood]] of a man is a bitter voice  
+And the [[motifs/blood|blood]] of a man is a bitter voice  
 
 And cries for foolish things.  
 
@@ -10751,13 +10751,13 @@ Was not I from a boy
 
 Vowed with the helmet and spear and spur  
 
-To the [[Blood|blood]]-red banner of joy?  
+To the [[motifs/blood|blood]]-red banner of joy?  
 
 A man may sing his psalms to a stone,  
 
-Pour his [[Blood|blood]] for a weed,  
+Pour his [[motifs/blood|blood]] for a weed,  
 
-But the [[Tears|tears]] of a man are a sudden thing,  
+But the [[motifs/tears|tears]] of a man are a sudden thing,  
 
 And come not of his creed.  
 
@@ -10765,13 +10765,13 @@ Nay, but the earth is kind to me,
 
 Though I cry for a Star,  
 
-[[Leaves]] and grasses, feather and flower,  
+[[motifs/leaves|Leaves]] and grasses, feather and flower,  
 
 Cover the foolish scar,  
 
 Prophets and saints and seraphim  
 
-Lighten the load with [[Song|song]],  
+Lighten the load with song,  
 
 And the heart of a man is a heavy load  
 
@@ -10785,13 +10785,13 @@ He that made me sealed my ears,
 
 And the pomp of gorgeous noises,  
 
-Waves of triumph, waves of [[Tears|tears]],  
+Waves of triumph, waves of [[motifs/tears|tears]],  
 
 Thundered empty round and past me,  
 
 Shattered, lost for ever more,  
 
-Ancient gold of [[Pride|pride]] and passion,  
+Ancient gold of [[concepts/pride|pride]] and passion,  
 
 Wrecked like treasure on a shore.  
 
@@ -10807,11 +10807,11 @@ Nought is lost, but all transmuted,
 
 Ears are sealed, yet eyes have seen;  
 
-Saw her smiles (O [[Soul|soul]] be worthy!),  
+Saw her smiles (O [[motifs/soul|soul]] be worthy!),  
 
-Saw her [[Tears|tears]] (O heart be clean!).  
+Saw her [[motifs/tears|tears]] (O heart be clean!).  
 
-THE [[deluge|DELUGE]]  
+THE DELUGE  
 
 Though giant rains put out the sun,  
 
@@ -10823,7 +10823,7 @@ My cup is filled with wine.
 
 Tell to the trembling priests that here  
 
-Under the [[deluge]] rod,  
+Under the deluge rod,  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10834,19 +10834,19 @@ Tromba che dice ah!
 
 _Domino gloria_!  
 
-[[Don John of Austria|Don Giovanni d'Austria]]  
+[[characters/don-john-of-austria|Don Giovanni d'Austria]]  
 
 Grida alle navi.  
 
-[[King|Re]] Filippo è nel suo studiolo col Vello al collo  
+[[archetypes/king|Re]] Filippo è nel suo studiolo col Vello al collo  
 
-_([[Don John of Austria|Don Giovanni d'Austria]] è armato sul ponte.)_  
+_([[characters/don-john-of-austria|Don Giovanni d'Austria]] è armato sul ponte.)_  
 
 Le pareti sono drappeggiate di velluto nero e soffice come il peccato,  
 
 e piccoli nani ne strisciano fuori e piccoli nani vi strisciano dentro.  
 
-Regge una fiala di cristallo che ha colori come la [[Moon|luna]],  
+Regge una fiala di cristallo che ha colori come la [[motifs/moon|luna]],  
 
 la tocca, ed essa formicola, ed egli trema assai  
 
@@ -10854,35 +10854,35 @@ e il suo volto è come un fungo di un bianco e grigio lebbroso
 
 come piante nelle alte case sprangate contro il giorno.  
 
-E la [[Death|morte]] è nella fiala e la fine della nobile opera,  
+E la [[motifs/death|morte]] è nella fiala e la fine della nobile opera,  
 
-ma [[Don John of Austria|Don Giovanni d'Austria]] ha fatto fuoco sul Turco.  
+ma [[characters/don-john-of-austria|Don Giovanni d'Austria]] ha fatto fuoco sul Turco.  
 
-[[Don John|Don Giovanni]] è a caccia, e i suoi segugi hanno abbaiato--Rimbomba  
+[[characters/don-john|Don Giovanni]] è a caccia, e i suoi segugi hanno abbaiato--Rimbomba  
 
-lontano oltre l'[[Italy|Italia]] la voce della sua scorreria.  
+lontano oltre l'[[settings/italy|Italia]] la voce della sua scorreria.  
 
 Cannone su cannone, ah! ah!  
 
 Cannone su cannone, urrà!  
 
-[[Don John of Austria|Don Giovanni d'Austria]]  
+[[characters/don-john-of-austria|Don Giovanni d'Austria]]  
 
 Ha scatenato la cannonata.  
 
 Il Papa era nella sua cappella prima che il giorno o la battaglia irrompessero,  
 
-_([[Don John of Austria|Don Giovanni d'Austria]] è nascosto nel fumo.)_  
+_([[characters/don-john-of-austria|Don Giovanni d'Austria]] è nascosto nel fumo.)_  
 
-La stanza nascosta nella [[house|casa]] dell'uomo dove Dio siede tutto l'anno,  
+La stanza nascosta nella casa dell'uomo dove Dio siede tutto l'anno,  
 
-la segreta [[Window|finestra]] donde il mondo appare piccolo e assai caro.  
+la segreta [[motifs/window|finestra]] donde il mondo appare piccolo e assai caro.  
 
-Egli vede come in uno [[Mirror|specchio]] sul mostruoso mare crepuscolare  
+Egli vede come in uno [[motifs/mirror|specchio]] sul mostruoso mare crepuscolare  
 
 la mezzaluna delle sue navi crudeli il cui nome è mistero;  
 
-Esse scagliano grandi ombre verso il nemico, oscurando [[Cross|Croce]] e [[Castle|Castello]],  
+Esse scagliano grandi ombre verso il nemico, oscurando [[motifs/cross|Croce]] e [[settings/castle|Castello]],  
 
 velano i leoni pennuti sulle galee di San Marco;  
 
@@ -10908,9 +10908,9 @@ dove un volto giallo guarda dentro attraverso la grata della sua cella,
 
 ed egli trova il suo Dio dimenticato, e non cerca più un segno_(Ma  
 
-[[Don John of Austria|Don Giovanni d'Austria]] ha spezzato la linea di battaglia!)_  
+[[characters/don-john-of-austria|Don Giovanni d'Austria]] ha spezzato la linea di battaglia!)_  
 
-[[Don John|Don Giovanni]] martella dalla poppa dipinta di strage,  
+[[characters/don-john|Don Giovanni]] martella dalla poppa dipinta di strage,  
 
 imporporando tutto l'oceano come lo sloop d'un pirata insanguinato,  
 
@@ -10926,21 +10926,21 @@ _Vivat Hispania!_
 
 _Domino Gloria!_  
 
-[[Don John of Austria|Don Giovanni d'Austria]]  
+[[characters/don-john-of-austria|Don Giovanni d'Austria]]  
 
 Ha reso libero il suo popolo!  
 
-Cervantes sulla sua galea ripone la [[Sword|spada]] nel fodero  
+Cervantes sulla sua galea ripone la spada nel fodero  
 
-_([[Don John of Austria|Don Giovanni d'Austria]] cavalca verso casa con una ghirlanda.)_  
+_([[characters/don-john-of-austria|Don Giovanni d'Austria]] cavalca verso casa con una ghirlanda.)_  
 
-E vede attraverso una terra stremata una tortuosa [[Road|strada]] in Spagna,  
+E vede attraverso una terra stremata una tortuosa [[motifs/road|strada]] in Spagna,  
 
 su cui un cavaliere magro e folle per sempre cavalca invano,  
 
 ed egli sorride, ma non come sorridono i Sultani, e ripone la lama....  
 
-_(Ma [[Don John of Austria|Don Giovanni d'Austria]] cavalca [[Home|a casa]] dalla Crociata_.)  
+_(Ma [[characters/don-john-of-austria|Don Giovanni d'Austria]] cavalca [[motifs/home|a casa]] dalla Crociata_.)  
 
 LA MARCIA DELLA MONTAGNA NERA 1913  
 
@@ -10948,9 +10948,9 @@ Che cosa ci sarà da ricordare
 
 di noi nei giorni a venire?  
 
-La cui [[Faith|fede]] fu una brace calpestata  
+La cui [[concepts/faith|fede]] fu una brace calpestata  
 
-e persino il nostro [[Doubt|dubbio]] non libero;  
+e persino il nostro [[concepts/doubt|dubbio]] non libero;  
 
 Parlamenti fatti di carta,  
 
@@ -10962,7 +10962,7 @@ nella presa del debole aggressore;
 
 Un silenzio attorno alla Fame, che uccide  
 
-una [[City|città]] di servi non sfamati;  
+una [[motifs/city|città]] di servi non sfamati;  
 
 Che cosa lasceremo come detto  
 
@@ -10970,7 +10970,7 @@ per lodarci quando saremo morti?
 
 Ma gli uomini ricorderanno la Montagna  
 
-che spezzò le sue [[Chains|catene]] di foresta,  
+che spezzò le sue [[motifs/chains|catene]] di foresta,  
 
 e gli uomini ricorderanno la Montagna  
 
@@ -10978,7 +10978,7 @@ quando si inarca contro le pianure:
 
 E battezzeranno da essa i loro figli  
 
-e stagione e [[Ship|nave]] e strada,  
+e stagione e [[motifs/ship|nave]] e strada,  
 
 quando la Montagna venne a Maometto  
 
@@ -10986,7 +10986,7 @@ e apparve piccola ai suoi piedi.
 
 Il suo capo era alto come la mezzaluna  
 
-della [[Moon|luna]] che pareva la sua [[Crown|corona]],  
+della [[motifs/moon|luna]] che pareva la sua [[motifs/crown|corona]],  
 
 e sulla gloria del passato e del presente  
 
@@ -11004,9 +11004,9 @@ Un piede sui colli a far la guardia
 
 calcato dalla piccola Montagna;  
 
-e uno era in un [[Garden|giardino]]  
+e uno era in un [[motifs/garden|giardino]]  
 
-e stava sulla [[Grave|tomba]] di Dio.  
+e stava sulla [[motifs/grave|tomba]] di Dio.  
 
 Ma gli uomini ricorderanno la Montagna,  
 
@@ -11014,11 +11014,11 @@ benché cada come un albero,
 
 vedranno il segno della Montagna  
 
-[[Faith|Fede]] gettata nel mare;  
+[[concepts/faith|Fede]] gettata nel mare;  
 
 benché le spade ricurve la vincano  
 
-e la [[Moon|Luna]] Ricurva cavalchi libera,  
+e la [[motifs/moon|Luna]] Ricurva cavalchi libera,  
 
 quando la Montagna viene a Maometto  
 
@@ -11038,7 +11038,7 @@ il cui ferro è governato dall'oro,
 
 pace di immortale panico,  
 
-[[Love|Amore]] che è odio fatto freddo--  
+[[motifs/love|Amore]] che è odio fatto freddo--  
 
 Sono questi una lusinga o un monito  
 
@@ -11050,13 +11050,13 @@ dove alfine le imprese si compiono?
 
 Dove gli uomini ricorderanno la Montagna  
 
-quando la [[Truth|verità]] dimentica la pianura--  
+quando la [[concepts/truth|verità]] dimentica la pianura--  
 
 e camminano nella via della Montagna  
 
 che non fallì invano;  
 
-[[Death|Morte]] ed eclisse e cometa,  
+[[motifs/death|Morte]] ed eclisse e cometa,  
 
 tuono e sigilli che si squarciano:  
 
@@ -11068,21 +11068,21 @@ BEATI GLI OPERATORI DI PACE
 
 Un tempo con cuore diviso  
 
-vidi l'[[Pride|orgoglio]] del mio popolo espandersi,  
+vidi l'[[concepts/pride|orgoglio]] del mio popolo espandersi,  
 
-poiché l'[[Soul|anima]] d'un uomo è lacerata  
+poiché l'[[motifs/soul|anima]] d'un uomo è lacerata  
 
 dalla madre terra e dalla patria.  
 
 Seppi, per molte intricate vicende,  
 
-gloria e [[Truth|verità]] non una ma due:  
+gloria e [[concepts/truth|verità]] non una ma due:  
 
-[[King|Re]], Conestabile e Ammiraglio  
+[[archetypes/king|Re]], Conestabile e Ammiraglio  
 
 mi presero come trombe: ma io sapevo  
 
-una cosa più nera della tinta stessa del [[Blood|sangue]]  
+una cosa più nera della tinta stessa del [[motifs/blood|sangue]]  
 
 gravava sul grande Hawkins in mare;  
 
@@ -11098,9 +11098,9 @@ per le cui fredde frenesie tutte vostre
 
 la Battaglia dei Fiumi scoppiò;  
 
-voi che non avete [[Faith|fede]] che un uomo possa piangere.  
+voi che non avete [[concepts/faith|fede]] che un uomo possa piangere.  
 
-né [[Freedom|libertà]] che alcun uomo desideri;  
+né [[concepts/freedom|libertà]] che alcun uomo desideri;  
 
 ma in una nuova pura luce di scherno  
 
@@ -11120,17 +11120,17 @@ Basse e brune stalle di paglia rappezzate e ritoppate e cenciose
 
 dove ebbi sette figli fino a oggi,  
 
-una piccola [[Hill|collina]] di fieno il tuo sprone ha disperso....  
+una piccola [[motifs/hill|collina]] di fieno il tuo sprone ha disperso....  
 
-Questa non è [[Paris|Parigi]]. Hai smarrito la via.  
+Questa non è [[settings/paris|Parigi]]. Hai smarrito la via.  
 
-Tu, che fissi la tua [[Sword|spada]] per trovarla fragile,  
+Tu, che fissi la tua spada per trovarla fragile,  
 
 sorpreso della sorpresa che era il tuo piano,  
 
 tu che scuotendo e spezzando barriere non poco  
 
-non trovi mai più la porta-[[Death|morte]] di Sedan.  
+non trovi mai più la porta-[[motifs/death|morte]] di Sedan.  
 
 Devo io per più che carneficina chiamarti creditore,  
 
@@ -11156,13 +11156,13 @@ come dovrei pagarti, gente miserabile?
 
 Come dovrei pagarti tutto ciò che devi?34  
 
-Infelice, posso ridarti il tuo [[Honour|onore]]?  
+Infelice, posso ridarti il tuo [[concepts/honour|onore]]?  
 
 Anche se perdonassi, alcun uomo dimenticherebbe?  
 
 Mentre tutta la grande terra verde l'ha calpestata  
 
-il tradimento e il terrore della [[Night|notte]] in cui c'incontrammo.  
+il tradimento e il terrore della [[motifs/night|notte]] in cui c'incontrammo.  
 
 Non più in vendetta o in perdono  
 
@@ -11174,13 +11174,13 @@ Cavalca oltre e prospera. Hai perduto i tuoi speroni.
 
 IL CROCIATO TORNA DALLA PRIGIONIA  
 
-Sono uscito vivo dalla terra di porpora e [[Poison|veleno]] e incanto,  
+Sono uscito vivo dalla terra di porpora e [[motifs/poison|veleno]] e incanto,  
 
 dove il fascino è forte come la tortura, essendo scelto per mutare la mente;  
 
-tortura di [[Dance|danza]] senza parole e di banchetto senza vino e senza clamore,  
+tortura di [[motifs/dance|danza]] senza parole e di banchetto senza vino e senza clamore,  
 
-palazzo nascosto in palazzo, [[Garden|giardino]] con [[Garden|giardino]] dietro;  
+palazzo nascosto in palazzo, [[motifs/garden|giardino]] con [[motifs/garden|giardino]] dietro;  
 
 donne velate nel sole, o nude come bronzo nelle ombre,  
 
@@ -11188,7 +11188,7 @@ e gli infiniti disegni senz'occhi dove ogni cosa pare un occhio....
 
 E il mio passo è sulla sabbia di Cesare dove scivola verso i prati inglesi,  
 
-agli ultimi bassi boschi del Sussex e alla [[Road|strada]] che va a Rye.  
+agli ultimi bassi boschi del Sussex e alla [[motifs/road|strada]] che va a Rye.  
 
 Nei freschi e noncuranti boschi gli occhi degli eunuchi non ardevano,  
 
@@ -11196,21 +11196,21 @@ ma il falco selvatico mi precedeva, libero di tornare o vagare,
 
 i colli avevano ampie schiene inconsce; e le cime degli alberi non si volgevano,  
 
-e le capanne non si curavano di me: e seppi d'essere a [[Home|casa]].  
+e le capanne non si curavano di me: e seppi d'essere a [[motifs/home|casa]].  
 
-E vidi la mia dama in lontananza e su di lei la sua santa [[Freedom|libertà]],  
+E vidi la mia dama in lontananza e su di lei la sua santa [[concepts/freedom|libertà]],  
 
 un capo, senza velo, distolto, e non da volgere con incanti,  
 
-e udii sopra le banderuole spiegate le intolleranti trombe dell'[[Honour|onore]],  
+e udii sopra le banderuole spiegate le intolleranti trombe dell'[[concepts/honour|onore]],  
 
 che annunciano con ferreo riso il venire delle armi cristiane.  
 
 Il mio scudo pende ancora senza macchia; ma non andrò dove lo lodano,  
 
-una [[Sword|spada]] è ancora al mio fianco, ma non cavalcherò col [[King|Re]].  
+una spada è ancora al mio fianco, ma non cavalcherò col [[archetypes/king|Re]].  
 
-Solo camminare e camminare e stordire la mia [[Soul|anima]] e stupirla,  
+Solo camminare e camminare e stordire la mia [[motifs/soul|anima]] e stupirla,  
 
 un giorno con la pietra e il passero e ogni cosa meravigliosa.  
 
@@ -11218,21 +11218,21 @@ Ho percorso le curve della Mezzaluna, nel labirinto di chi l'adora,
 
 curvate attorno a camere senza porte e dimore non vedute,  
 
-ma non cammino più nel labirinto; sul segno della [[Cross|croce]] lo giurai,  
+ma non cammino più nel labirinto; sul segno della [[motifs/cross|croce]] lo giurai,  
 
-la selvaggia bianca [[Cross|croce]] della [[Freedom|libertà]], il segno dei bianchi crocicchi della [[Cross|croce]].  
+la selvaggia bianca [[motifs/cross|croce]] della [[concepts/freedom|libertà]], il segno dei bianchi crocicchi della [[motifs/cross|croce]].  
 
 E la terra mi lascerà o prenderà, e la Donna mi prenderà o lascerà,  
 
-non ci sarà più [[Night|Notte]], né incubi visti in uno specchio;  
+non ci sarà più [[motifs/night|Notte]], né incubi visti in uno specchio;  
 
-ma la Vita mi terrà vivo, e la [[Death|Morte]] non m'ingannerà mai  
+ma la Vita mi terrà vivo, e la [[motifs/death|Morte]] non m'ingannerà mai  
 
 finché camminerò in Inghilterra nei viottoli che mi lasciano passare.  
 
-III
+III  
 
-[[Love|AMORE]] [[Poems|POESIE]]  
+[[motifs/love|AMORE]] POESIE  
 
 GLENCOE  
 
@@ -11244,7 +11244,7 @@ ci si aprono come le porte di Dio
 
 fesse nell'ultima grande muraglia di tutto il mondo.  
 
-Guardai, e vidi la valle della mia [[Soul|anima]]  
+Guardai, e vidi la valle della mia [[motifs/soul|anima]]  
 
 dove nude creste lottano per raggiungere i cieli,  
 
@@ -11252,47 +11252,47 @@ dove non cresce grano né vino, nessuna cosa feconda,
 
 solo grandi parole e stellate bestemmie.  
 
-Ma tu hai rivestito con [[Mercy|misericordia]] come un musco  
+Ma tu hai rivestito con [[concepts/mercy|misericordia]] come un musco  
 
 la sterile violenza delle sue guerre primordiali,  
 
 sterili benché siano e prive di regola,  
 
-tu sai che le mie informi rupi hanno sposato le [[Stars|stelle]].  
+tu sai che le mie informi rupi hanno sposato le [[motifs/stars|stelle]].  
 
 Come ti ringrazierò, o cuore coraggioso.  
 
-che di questo mondo prodigo non avesti [[Fear|paura]];  
+che di questo mondo prodigo non avesti [[concepts/fear|paura]];  
 
-ma le ordinasti di fiorire in pura [[Faith|fede]] e mandasti  
+ma le ordinasti di fiorire in pura [[concepts/faith|fede]] e mandasti  
 
 i tuoi bei fiumi nutritori di fiori: proprio come qui  
 
 la torba brucia traboccando dalle loro coppe di pietra  
 
-brillano bruni e rosso-[[Blood|sangue]] giù per il vasto declivio  
+brillano bruni e rosso-[[motifs/blood|sangue]] giù per il vasto declivio  
 
-come se [[Christ|Cristo]] stesse su quel picco annuvolato  
+come se [[characters/christ|Cristo]] stesse su quel picco annuvolato  
 
 e mutasse le sue mille acque in vino.  
 
-IL TRAPPISTA DELL'[[Love|AMORE]]  
+IL TRAPPISTA DELL'[[motifs/love|AMORE]]  
 
 C'è un luogo dove liuto e lira sono spezzati.  
 
-Dove le pergamene sono strappate e su un selvaggio [[Wind|vento]] vanno,  
+Dove le pergamene sono strappate e su un selvaggio [[motifs/wind|vento]] vanno,  
 
 dove le tavolette stanno nude e deterse per segno,  
 
 dove gli allori appassiscono e crescono le margherite.  
 
-Ecco: anch'io mi unisco alla confraternita del [[Silence|silenzio]],  
+Ecco: anch'io mi unisco alla confraternita del [[motifs/silence|silenzio]],  
 
-sono il Trappista dell'[[Love|Amore]] e tu chiedi invano,  
+sono il Trappista dell'[[motifs/love|Amore]] e tu chiedi invano,  
 
-poiché l'uomo per la porta dell'[[Love|Amore]], come per la porta della [[Death|Morte]],  
+poiché l'uomo per la porta dell'[[motifs/love|Amore]], come per la porta della [[motifs/death|Morte]],  
 
-va [[Alone|solo]] e non torna più indietro.  
+va solo e non torna più indietro.  
 
 Eppure qui mi fermo, guardo indietro oltre la soglia.  
 
@@ -11304,7 +11304,7 @@ o mondo, vecchio mondo, il meglio non è mai stato detto!
 
 CONFESSIONALE  
 
-Ora che m'inginocchio al trono, o [[Queen|Regina]],  
+Ora che m'inginocchio al trono, o [[characters/queen|Regina]],  
 
 abbi pietà e perdonami.  
 
@@ -11312,11 +11312,11 @@ Molto mi sono sforzato di cantare lo stesso,
 
 fratello di bestia e d'albero;  
 
-eppure quando le [[Stars|stelle]] mi colgono [[Alone|solo]]  
+eppure quando le [[motifs/stars|stelle]] mi colgono solo  
 
 mai un fanello canta--  
 
-e il [[Blood|sangue]] d'un uomo è una voce amara  
+e il [[motifs/blood|sangue]] d'un uomo è una voce amara  
 
 e grida per cose folli.  
 
@@ -11326,13 +11326,13 @@ non fui io fin da fanciullo
 
 votato con l'elmo e la lancia e lo sprone  
 
-al vessillo rosso-[[Blood|sangue]] della gioia?  
+al vessillo rosso-[[motifs/blood|sangue]] della gioia?  
 
 Un uomo può cantare i suoi salmi a una pietra,  
 
-versare il suo [[Blood|sangue]] per un'erbaccia,  
+versare il suo [[motifs/blood|sangue]] per un'erbaccia,  
 
-ma le [[Tears|lacrime]] d'un uomo sono cosa improvvisa,  
+ma le [[motifs/tears|lacrime]] d'un uomo sono cosa improvvisa,  
 
 e non vengono dal suo credo.  
 
@@ -11340,13 +11340,13 @@ No, ma la terra è gentile con me,
 
 benché io gridi per una Stella,  
 
-[[Leaves|Foglie]] ed erbe, piuma e fiore,  
+[[motifs/leaves|Foglie]] ed erbe, piuma e fiore,  
 
 coprono la folle cicatrice,  
 
 profeti e santi e serafini  
 
-alleggeriscono il carico col [[Song|canto]],  
+alleggeriscono il carico col canto,  
 
 e il cuore d'un uomo è un carico pesante  
 
@@ -11360,13 +11360,13 @@ colui che mi fece sigillò i miei orecchi,
 
 e la pompa dei rumori magnifici,  
 
-onde di trionfo, onde di [[Tears|lacrime]],  
+onde di trionfo, onde di [[motifs/tears|lacrime]],  
 
 tuonarono vuote intorno e oltre me,  
 
 infrante, perdute per sempre,  
 
-antico oro di [[Pride|orgoglio]] e passione,  
+antico oro di [[concepts/pride|orgoglio]] e passione,  
 
 naufragato come tesoro su una riva.  
 
@@ -11382,11 +11382,11 @@ Nulla è perduto, ma tutto trasmutato,
 
 gli orecchi sono sigillati, eppure gli occhi hanno visto;  
 
-vidi i suoi sorrisi (o [[Soul|anima]] sii degna!),  
+vidi i suoi sorrisi (o [[motifs/soul|anima]] sii degna!),  
 
-vidi le sue [[Tears|lacrime]] (o cuore sii puro!).  
+vidi le sue [[motifs/tears|lacrime]] (o cuore sii puro!).  
 
-IL [[deluge|DILUVIO]]  
+IL DILUVIO  
 
 Benché piogge giganti spengano il sole,  
 
@@ -11398,7 +11398,7 @@ la mia coppa è colma di vino.
 
 Dite ai tremanti sacerdoti che qui  
 
-sotto la verga del [[deluge|diluvio]],
+sotto la verga del diluvio,
 
 
 
@@ -11411,11 +11411,11 @@ Stood up and drank to God.
 
 Sun has been where the rain is now,  
 
-[[Bees]] in the heat to hum,  
+[[motifs/bees|Bees]] in the heat to hum,  
 
 Haply a humming maiden came,  
 
-Now let the [[deluge|Deluge]] come:  
+Now let the Deluge come:  
 
 Brown of aureole, green of garb,  
 
@@ -11427,7 +11427,7 @@ Drink to the wrath of God.
 
 High in the wreck I held the cup,  
 
-I clutched my rusty [[Sword|sword]],  
+I clutched my rusty sword,  
 
 I cocked my tattered feather  
 
@@ -11449,31 +11449,31 @@ But I wander like a minstrel with a harp upon his back,
 
 Though the harp be on my bosom, though I finger and I fret,  
 
-Still, my [[Hope|hope]] is all before me: for I cannot play it yet.  
+Still, my [[concepts/hope|hope]] is all before me: for I cannot play it yet.  
 
 In your strings is hid a music that no hand hath ere let fall,  
 
-In your [[Soul|soul]] is sealed a pleasure that you have not known at all;  
+In your [[motifs/soul|soul]] is sealed a pleasure that you have not known at all;  
 
 Pleasure subtle as your spirit, strange and slender as your frame,  
 
-Fiercer than the [[Pain|pain]] that folds you, softer than your sorrow's name.  
+Fiercer than the [[motifs/pain|pain]] that folds you, softer than your sorrow's name.  
 
-Not as mine, my [[Soul|soul]]'s anointed, not as mine the rude and light  
+Not as mine, my [[motifs/soul|soul]]'s anointed, not as mine the rude and light  
 
-Easy mirth of many faces, swaggering [[Pride|pride]] of [[Song|song]] and fight;  
+Easy mirth of many faces, swaggering [[concepts/pride|pride]] of song and fight;  
 
 Something stranger, something sweeter, something waiting you afar,  
 
-Secret as your stricken senses, [[Magic|magic]] as your sorrows are.  
+Secret as your stricken senses, magic as your sorrows are.  
 
 But on this, God's harp supernal, stretched but to be stricken once.  
 
-Hoary [[Time]] is a beginner, Life a bungler, [[Death]] a dunce.  
+Hoary [[motifs/time|Time]] is a beginner, Life a bungler, [[motifs/death|Death]] a dunce.  
 
-But I will not [[Fear|fear]] to match them--no, by God, I will not [[Fear|fear]],  
+But I will not [[concepts/fear|fear]] to match them--no, by God, I will not [[concepts/fear|fear]],  
 
-I will learn you, I will play you and the [[Stars|stars]] stand still to hear.  
+I will learn you, I will play you and the [[motifs/stars|stars]] stand still to hear.  
 
 THE GREAT MINIMUM  
 
@@ -11483,9 +11483,9 @@ It is something to have done as we have done,
 
 It is something to have watched when all men slept,  
 
-And seen the [[Stars|stars]] which never see the sun.  
+And seen the [[motifs/stars|stars]] which never see the sun.  
 
-It is something to have smelt the mystic [[Rose|rose]],  
+It is something to have smelt the mystic [[motifs/rose|rose]],  
 
 Although it break and leave the thorny rods,  
 
@@ -11509,13 +11509,13 @@ It is something to be wiser than the world,
 
 It is something to be older than the sky.  
 
-In a [[Time|time]] of sceptic moths and cynic rusts,  
+In a [[motifs/time|time]] of sceptic moths and cynic rusts,  
 
 And fatted lives that of their sweetness tire,  
 
 In a world of flying loves and fading lusts,  
 
-It is something to be sure of a [[Desire|desire]].  
+It is something to be sure of a [[motifs/desire|desire]].  
 
 Lo, blessed are our ears for they have heard;  
 
@@ -11523,7 +11523,7 @@ Yea, blessed are our eyes for they have seen:
 
 Let thunder break on man and beast and bird  
 
-And the [[Lightning|lightning]]. It is something to have been.  
+And the [[motifs/lightning|lightning]]. It is something to have been.  
 
 THE MORTAL ANSWERS  
 
@@ -11547,13 +11547,13 @@ I strove like a beast at bay;
 
 With only a right arm wearied,  
 
-Only a red [[Sword|sword]] worn,  
+Only a red sword worn,  
 
-And the [[Pride|pride]] of the [[house|House]] of Adam  
+And the [[concepts/pride|pride]] of the House of Adam  
 
-That holdeth the [[Stars|stars]] in scorn.  
+That holdeth the [[motifs/stars|stars]] in scorn.  
 
-For they came with [[Chains|chains]] of [[Flowers|flowers]]  
+For they came with [[motifs/chains|chains]] of [[motifs/flowers|flowers]]  
 
 And lilies lances free,  
 
@@ -11565,7 +11565,7 @@ And I said, "Now all is shaken
 
 When heavily hangs the brow,  
 
-When the [[Hope|hope]] of the years is taken  
+When the [[concepts/hope|hope]] of the years is taken  
 
 The last star sunken. Now--  
 
@@ -11577,7 +11577,7 @@ The strange strong cry in the darkness
 
 Of one man praising God,  
 
-"That out of the [[Night|night]] and nothing  
+"That out of the [[motifs/night|night]] and nothing  
 
 With travail of birth he came  
 
@@ -11601,7 +11601,7 @@ But the world is more full of glory
 
 Than you can understand."  
 
-A [[Marriage|MARRIAGE]] [[Song|SONG]]  
+A [[motifs/marriage|MARRIAGE]] SONG  
 
 Why should we reck of hours that rend  
 
@@ -11611,9 +11611,9 @@ The heavens rent from end to end
 
 Would be but windy weather,  
 
-The strong [[Stars|stars]] shaken down in spate  
+The strong [[motifs/stars|stars]] shaken down in spate  
 
-Would be a shower of [[spring]],  
+Would be a shower of [[motifs/spring|spring]],  
 
 And we should list the trump of fate  
 
@@ -11635,7 +11635,7 @@ And good things end and bad things end,
 
 And you and I remain.  
 
-Why should we reck of ill or [[Well|well]]  
+Why should we reck of ill or [[motifs/well|well]]  
 
 While we two ride together?  
 
@@ -11651,7 +11651,7 @@ We shall but wash our feet in heaven,
 
 And warm our hands in hell.  
 
-Battles [[unborn]] and vast shall view  
+Battles unborn and vast shall view  
 
 Our faltered standards stream,  
 
@@ -11661,11 +11661,11 @@ New troubles toil and teem;
 
 New friends shall pass and still renew  
 
-One [[Truth|truth]] that does not seem,  
+One [[concepts/truth|truth]] that does not seem,  
 
 That I am I, and you are you,  
 
-And [[Death]] a morning dream.  
+And [[motifs/death|Death]] a morning dream.  
 
 Why should we reck of scorn or praise  
 
@@ -11695,7 +11695,7 @@ To swing our swords and take our sides
 
 In that all-ending fray  
 
-When [[Stars|stars]] fall down and darkness hides,  
+When [[motifs/stars|stars]] fall down and darkness hides,  
 
 When God shall turn to bay.  
 
@@ -11713,29 +11713,29 @@ Upon the ultimate plains,
 
 And we shall turn and tell once more  
 
-Our [[Love|love]] in English lanes.  
+Our [[motifs/love|love]] in English lanes.  
 
 BAY COMBE  
 
-With [[Leaves|leaves]] below and [[Leaves|leaves]] above,  
+With [[motifs/leaves|leaves]] below and [[motifs/leaves|leaves]] above,  
 
 And groping under tree and tree,  
 
-I found the [[Home|home]] of my true [[Love|love]],  
+I found the [[motifs/home|home]] of my true [[motifs/love|love]],  
 
-Who is a wandering [[Home|home]] for me.  
+Who is a wandering [[motifs/home|home]] for me.  
 
 Who, lost in ruined worlds aloof,  
 
 Bore the dread dove wings like a roof;  
 
-Who, past the last lost [[Stars|stars]] of space  
+Who, past the last lost [[motifs/stars|stars]] of space  
 
-Carried the [[Fire|fire]]-light on her face.  
+Carried the [[motifs/fire|fire]]-light on her face.  
 
 Who, passing as in idle hours,  
 
-Tamed the wild weeds to [[Garden|garden]] [[Flowers|flowers]];  
+Tamed the wild weeds to [[motifs/garden|garden]] [[motifs/flowers|flowers]];  
 
 Stroked the strange whirlwind's whirring wings,  
 
@@ -11747,23 +11747,23 @@ The dark was dearer than the day;
 
 Where she paused in heaven or hell,  
 
-The whole world's tale had ended [[Well|well]].  
+The whole world's tale had ended [[motifs/well|well]].  
 
-_With [[Leaves|leaves]] below and [[Leaves|leaves]] above._  
+_With [[motifs/leaves|leaves]] below and [[motifs/leaves|leaves]] above._  
 
 _And groping under tree and tree,_  
 
-_I found the [[Home|home]] of my true [[Love|love]],_  
+_I found the [[motifs/home|home]] of my true [[motifs/love|love]],_  
 
-_Who is a wandering [[Home|home]] for me_.  
+_Who is a wandering [[motifs/home|home]] for me_.  
 
 Where she was flung, above, beneath,  
 
-By the rude [[Dance|dance]] of life and [[Death|death]],  
+By the rude [[motifs/dance|dance]] of life and [[motifs/death|death]],  
 
 Grow she at Gotham--die at Rome,  
 
-Between the pine trees is her [[Home|home]].  
+Between the pine trees is her [[motifs/home|home]].  
 
 In some strange town, some silver morn,  
 
@@ -11779,15 +11779,15 @@ And the dead saints become alive,
 
 Then pedants bald and parchments brown  
 
-May claim her [[Blood|blood]] for [[London]] town.  
+May claim her [[motifs/blood|blood]] for [[settings/london|London]] town.  
 
-_But [[Leaves|leaves]] below and [[Leaves|leaves]] above._  
+_But [[motifs/leaves|leaves]] below and [[motifs/leaves|leaves]] above._  
 
 _And groping under tree and tree,_  
 
-_I found the [[Home|home]] of my true [[Love|love]],_  
+_I found the [[motifs/home|home]] of my true [[motifs/love|love]],_  
 
-_Who is a wandering [[Home|home]] for me_.  
+_Who is a wandering [[motifs/home|home]] for me_.  
 
 The great gravestone she may pass by,  
 
@@ -11797,37 +11797,37 @@ The streets of silver Heaven may tread,
 
 With her grey awful eyes unfed.  
 
-The [[City|city]] of great peace in [[Pain|pain]]  
+The [[motifs/city|city]] of great peace in [[motifs/pain|pain]]  
 
 May pass, until she find again  
 
-This little [[house]] of holm and fir  
+This little house of holm and fir  
 
-God built before the [[Stars|stars]] for her.  
+God built before the [[motifs/stars|stars]] for her.  
 
-Here in the fallen [[Leaves|leaves]] is furled  
+Here in the fallen [[motifs/leaves|leaves]] is furled  
 
 Her secret centre of the world.  
 
 We sit and feel in dusk and dun  
 
-The [[Stars|stars]] swing round us like a sun.  
+The [[motifs/stars|stars]] swing round us like a sun.  
 
-_For [[Leaves|leaves]] below and [[Leaves|leaves]] above._  
+_For [[motifs/leaves|leaves]] below and [[motifs/leaves|leaves]] above._  
 
 _And groping under tree and tree,_  
 
-_I found the [[Home|home]] of my true [[Love|love]]._  
+_I found the [[motifs/home|home]] of my true [[motifs/love|love]]._  
 
-_Who is a wandering [[Home|home]] for me_.  
+_Who is a wandering [[motifs/home|home]] for me_.  
 
 IV  
 
-RELIGIOUS [[Poems|POEMS]]  
+RELIGIOUS POEMS  
 
 THE WISE MEN  
 
-Step softly, under [[Snow|snow]] or rain,  
+Step softly, under [[motifs/snow|snow]] or rain,  
 
 To find the place where men can pray;  
 
@@ -11843,9 +11843,9 @@ We know all labyrinthine lore,
 
 We are the three wise mert of yore,  
 
-And we know all things but the [[Truth|truth]].  
+And we know all things but the [[concepts/truth|truth]].  
 
-We have gone round and round the [[Hill|hill]],  
+We have gone round and round the [[motifs/hill|hill]],  
 
 And lost the wood among the trees,  
 
@@ -11857,19 +11857,19 @@ The Furies the Eumenides.
 
 The gods of violence took the veil  
 
-Of vision and [[philosophy]],  
+Of vision and philosophy,  
 
 The Serpent that brought all men bale,  
 
 He bites his own accursed tail,  
 
-And calls himself [[Eternity]].  
+And calls himself [[concepts/eternity|Eternity]].  
 
 Go humbly ... it has hailed and snowed ...  
 
 With voices low and lanterns lit;  
 
-So very simple is the [[Road|road]],  
+So very simple is the [[motifs/road|road]],  
 
 That we may stray from it.  
 
@@ -11883,25 +11883,25 @@ For something is too large for sight,
 
 And something much too plain to say.  
 
-The [[Child]] that was ere worlds begun  
+The [[archetypes/child|Child]] that was ere worlds begun  
 
 (... We need but walk a little way,  
 
 We need but see a latch undone,...)  
 
-The [[Child]] that played with [[Moon|moon]] and sun  
+The [[archetypes/child|Child]] that played with [[motifs/moon|moon]] and sun  
 
 Is playing with a little hay.  
 
-The [[house]] from which the heavens are fed,  
+The house from which the heavens are fed,  
 
-The old strange [[house]] that is our own,  
+The old strange house that is our own,  
 
 Where tricks of words are never said.  
 
-And [[Mercy]] is as plain as bread,  
+And [[concepts/mercy|Mercy]] is as plain as bread,  
 
-And [[Honour]] is as hard as stone.  
+And [[concepts/honour|Honour]] is as hard as stone.  
 
 Go humbly; humble are the skies,  
 
@@ -11911,7 +11911,7 @@ So very near the Manger lies
 
 That we may travel far.  
 
-Hark! Laughter like a [[Lion|lion]] wakes  
+Hark! Laughter like a [[motifs/lion|lion]] wakes  
 
 To roar to the resounding plain,  
 
@@ -11921,9 +11921,9 @@ For God Himself is born again,
 
 And we are little children walking  
 
-Through the [[Snow|snow]] and rain.  
+Through the [[motifs/snow|snow]] and rain.  
 
-THE [[house|HOUSE]] OF CHRISTMAS  
+THE HOUSE OF CHRISTMAS  
 
 There fared a mother driven forth  
 
@@ -11931,7 +11931,7 @@ Out of an inn to roam;
 
 In the place where she was homeless  
 
-All men are at [[Home|home]].  
+All men are at [[motifs/home|home]].  
 
 The crazy stable close at hand,  
 
@@ -11951,23 +11951,23 @@ Whenever the day is done.
 
 Here we have battle and blazing eyes,  
 
-And chance and [[Honour|honour]] and high surprise,  
+And chance and [[concepts/honour|honour]] and high surprise,  
 
 Where the yule tale was begun.  
 
-A [[Child]] in a foul stable,  
+A [[archetypes/child|Child]] in a foul stable,  
 
 Where the beasts feed and foam;  
 
 Only where He was homeless  
 
-Are you and I at [[Home|home]];  
+Are you and I at [[motifs/home|home]];  
 
 We have hands that fashion and heads that  
 
 But our hearts we lost--how long ago!  
 
-In a place no chart nor [[Ship|ship]] can show  
+In a place no chart nor [[motifs/ship|ship]] can show  
 
 Under the sky's dome.  
 
@@ -11977,9 +11977,9 @@ And strange the plain things are,
 
 The earth is enough and the air is enough  
 
-For our [[Wonder|wonder]] and our war;  
+For our [[concepts/wonder|wonder]] and our war;  
 
-But our rest is as far as the [[Fire|fire]]-drake swings  
+But our rest is as far as the [[motifs/fire|fire]]-drake swings  
 
 And our peace is put in impossible things  
 
@@ -11987,9 +11987,9 @@ Where clashed and thundered unthinkable wings
 
 Round an incredible star.  
 
-To an open [[house]] in the evening  
+To an open house in the evening  
 
-[[Home]] shall men come,  
+[[motifs/home|Home]] shall men come,  
 
 To an older place than Eden  
 
@@ -12001,11 +12001,11 @@ To the things that cannot be and that are,
 
 To the place where God was homeless  
 
-And all men are at [[Home|home]].  
+And all men are at [[motifs/home|home]].  
 
-A [[Song|SONG]] OF GIFTS TO GOD  
+A SONG OF GIFTS TO GOD  
 
-When the first Christmas presents came, the straw where [[Christ]] was rolled  
+When the first Christmas presents came, the straw where [[characters/christ|Christ]] was rolled  
 
 Smelt sweeter than their frankincense, burnt brighter than their gold,  
 
@@ -12015,13 +12015,13 @@ And a wise man said, "We will not give; the thanks would be but cold."
 
 Bends the high gratitude of God; even as He now, my brother,  
 
-Who had a Father for all [[Time|time]], yet thanks Him for a Mother.  
+Who had a Father for all [[motifs/time|time]], yet thanks Him for a Mother.  
 
 "Yet scarce for Him this yellow stone or prickly-smells and sparse.  
 
 Who holds the gold heart of the sun that fed these timber bars,  
 
-Nor any scentless lily lives for One that smells the [[Stars|stars]]."  
+Nor any scentless lily lives for One that smells the [[motifs/stars|stars]]."  
 
 Then spake the third of the Wise Men; the wisest of the three:  
 
@@ -12040,11 +12040,11 @@ Si levò e bevve a Dio.
 
 Il sole è stato dov'ora è la pioggia,  
 
-[[Bees|Api]] a ronzare nella calura,  
+[[motifs/bees|Api]] a ronzare nella calura,  
 
 Forse venne una fanciulla canterina,  
 
-Ora venga pure il [[deluge|Diluvio]]:  
+Ora venga pure il Diluvio:  
 
 Bruna d'aureola, verde di veste,  
 
@@ -12056,7 +12056,7 @@ Bevi all'ira di Dio.
 
 In alto tra il relitto reggevo la coppa,  
 
-Stringevo la mia [[Sword|spada]] arrugginita,  
+Stringevo la mia spada arrugginita,  
 
 Rizzavo la mia piuma sbrindellata  
 
@@ -12078,31 +12078,31 @@ Ma io vago come un menestrello con un'arpa sulle spalle,
 
 Benché l'arpa mi stia sul petto, benché la tasti e la tormenti,  
 
-Ancora, la mia [[Hope|speranza]] è tutta davanti a me: perché non so ancora suonarla.  
+Ancora, la mia [[concepts/hope|speranza]] è tutta davanti a me: perché non so ancora suonarla.  
 
 Nelle tue corde è nascosta una musica che nessuna mano lasciò mai cadere,  
 
-Nella tua [[Soul|anima]] è sigillato un piacere che non hai mai conosciuto affatto;  
+Nella tua [[motifs/soul|anima]] è sigillato un piacere che non hai mai conosciuto affatto;  
 
 Piacere sottile come il tuo spirito, strano ed esile come le tue membra,  
 
-Più fiero della [[Pain|pena]] che ti avvolge, più soave del nome del tuo dolore.  
+Più fiero della [[motifs/pain|pena]] che ti avvolge, più soave del nome del tuo dolore.  
 
-Non come il mio, o unta dell'[[Soul|anima]] mia, non come il mio, rozzo e lieve,  
+Non come il mio, o unta dell'[[motifs/soul|anima]] mia, non come il mio, rozzo e lieve,  
 
-Facile allegria di molti volti, spavaldo [[Pride|orgoglio]] di [[Song|canto]] e di lotta;  
+Facile allegria di molti volti, spavaldo [[concepts/pride|orgoglio]] di canto e di lotta;  
 
 Qualcosa di più strano, di più dolce, qualcosa che t'attende lontano,  
 
-Segreto come i tuoi sensi feriti, [[Magic|magico]] come sono i tuoi dolori.  
+Segreto come i tuoi sensi feriti, magico come sono i tuoi dolori.  
 
 Ma su questa, arpa superna di Dio, tesa solo per essere percossa una volta.  
 
-Il canuto [[Time|Tempo]] è un principiante, la Vita un pasticcione, la [[Death|Morte]] un somaro.  
+Il canuto [[motifs/time|Tempo]] è un principiante, la Vita un pasticcione, la [[motifs/death|Morte]] un somaro.  
 
-Ma non [[Fear|temerò]] di sfidarli--no, per Dio, non [[Fear|temerò]],  
+Ma non [[concepts/fear|temerò]] di sfidarli--no, per Dio, non [[concepts/fear|temerò]],  
 
-Ti imparerò, ti suonerò e le [[Stars|stelle]] si fermeranno ad ascoltare.  
+Ti imparerò, ti suonerò e le [[motifs/stars|stelle]] si fermeranno ad ascoltare.  
 
 IL GRANDE MINIMO  
 
@@ -12112,9 +12112,9 @@ IL GRANDE MINIMO
 
 È qualcosa aver vegliato quando tutti dormivano,  
 
-E visto le [[Stars|stelle]] che mai vedono il sole.  
+E visto le [[motifs/stars|stelle]] che mai vedono il sole.  
 
-È qualcosa aver odorato la mistica [[Rose|rosa]],  
+È qualcosa aver odorato la mistica [[motifs/rose|rosa]],  
 
 Benché si spezzi e lasci le verghe spinose,  
 
@@ -12138,13 +12138,13 @@ Passioni antiche e pericolose, strane ed alte;
 
 È qualcosa esser più antichi del cielo.  
 
-In un [[Time|tempo]] di tarme scettiche e ruggini ciniche,  
+In un [[motifs/time|tempo]] di tarme scettiche e ruggini ciniche,  
 
 E vite ingrassate che della loro dolcezza si stancano,  
 
 In un mondo di amori volanti e brame che sfioriscono,  
 
-È qualcosa esser sicuri di un [[Desire|desiderio]].  
+È qualcosa esser sicuri di un [[motifs/desire|desiderio]].  
 
 Ecco, benedette le nostre orecchie perché hanno udito;  
 
@@ -12152,7 +12152,7 @@ Sì, benedetti i nostri occhi perché hanno veduto:
 
 Che il tuono s'abbatta su uomo e bestia e uccello  
 
-E il [[Lightning|fulmine]]. È qualcosa essere stati.  
+E il [[motifs/lightning|fulmine]]. È qualcosa essere stati.  
 
 IL MORTALE RISPONDE  
 
@@ -12176,13 +12176,13 @@ Lottai come una bestia braccata;
 
 Con solo un braccio destro sfinito,  
 
-Solo una rossa [[Sword|spada]] consunta,  
+Solo una rossa spada consunta,  
 
-E l'[[Pride|orgoglio]] della [[house|Casa]] di Adamo  
+E l'[[concepts/pride|orgoglio]] della Casa di Adamo  
 
-Che tiene in disprezzo le [[Stars|stelle]].  
+Che tiene in disprezzo le [[motifs/stars|stelle]].  
 
-Poiché vennero con [[Chains|catene]] di [[Flowers|fiori]]  
+Poiché vennero con [[motifs/chains|catene]] di [[motifs/flowers|fiori]]  
 
 E gigli come lance libere,  
 
@@ -12194,7 +12194,7 @@ E io dissi: «Ora tutto è scosso
 
 Quando greve pende la fronte,  
 
-Quando la [[Hope|speranza]] degli anni è tolta  
+Quando la [[concepts/hope|speranza]] degli anni è tolta  
 
 L'ultima stella affondata. Ora--  
 
@@ -12206,7 +12206,7 @@ Lo strano forte grido nelle tenebre
 
 D'un uomo che loda Dio,  
 
-«Che dalla [[Night|notte]] e dal nulla  
+«Che dalla [[motifs/night|notte]] e dal nulla  
 
 Con le doglie della nascita venne  
 
@@ -12230,7 +12230,7 @@ Ma il mondo è più colmo di gloria
 
 Di quanto tu possa comprendere.»  
 
-UN [[Marriage|NUZIALE]] [[Song|CANTO]]  
+UN [[motifs/marriage|NUZIALE]] CANTO  
 
 Perché dovremmo curarci delle ore che lacerano  
 
@@ -12240,9 +12240,9 @@ I cieli squarciati da un capo all'altro
 
 Sarebbero solo tempo ventoso,  
 
-Le forti [[Stars|stelle]] scrollate giù in piena  
+Le forti [[motifs/stars|stelle]] scrollate giù in piena  
 
-Sarebbero uno scroscio di [[spring|primavera]],  
+Sarebbero uno scroscio di [[motifs/spring|primavera]],  
 
 E noi ascolteremmo la tromba del fato  
 
@@ -12264,7 +12264,7 @@ E le cose buone finiscono e le cattive finiscono,
 
 E tu ed io restiamo.  
 
-Perché dovremmo curarci del male o del [[Well|bene]]  
+Perché dovremmo curarci del male o del [[motifs/well|bene]]  
 
 Mentre noi due cavalchiamo insieme?  
 
@@ -12280,7 +12280,7 @@ Non faremo che lavarci i piedi in cielo,
 
 E scaldarci le mani all'inferno.  
 
-Battaglie [[unborn|non nate]] e vaste vedranno  
+Battaglie non nate e vaste vedranno  
 
 Sventolare i nostri vessilli vacillanti,  
 
@@ -12290,11 +12290,11 @@ Nuovi affanni si affaticano e brulicano;
 
 Nuovi amici passeranno e ancora rinnoveranno  
 
-Una [[Truth|verità]] che non è parvenza,  
+Una [[concepts/truth|verità]] che non è parvenza,  
 
 Che io sono io, e tu sei tu,  
 
-E la [[Death|Morte]] un sogno mattutino.  
+E la [[motifs/death|Morte]] un sogno mattutino.  
 
 Perché dovremmo curarci di scherno o di lode  
 
@@ -12324,7 +12324,7 @@ Per brandire le spade e prender parte
 
 In quella mischia che tutto conclude  
 
-Quando le [[Stars|stelle]] cadranno e le tenebre celeranno,  
+Quando le [[motifs/stars|stelle]] cadranno e le tenebre celeranno,  
 
 Quando Dio si volgerà a far fronte.  
 
@@ -12342,29 +12342,29 @@ Sulle pianure estreme,
 
 E ci volgeremo a ridire ancora una volta  
 
-Il nostro [[Love|amore]] nei sentieri d'Inghilterra.  
+Il nostro [[motifs/love|amore]] nei sentieri d'Inghilterra.  
 
 BAY COMBE  
 
-Con [[Leaves|foglie]] sotto e [[Leaves|foglie]] sopra,  
+Con [[motifs/leaves|foglie]] sotto e [[motifs/leaves|foglie]] sopra,  
 
 E brancolando di albero in albero,  
 
-Trovai la [[Home|casa]] del mio vero [[Love|amore]],  
+Trovai la [[motifs/home|casa]] del mio vero [[motifs/love|amore]],  
 
-Che è per me una [[Home|casa]] errante.  
+Che è per me una [[motifs/home|casa]] errante.  
 
 Che, perduta in mondi in rovina e remoti,  
 
 Portò le tremende ali di colomba come un tetto;  
 
-Che, oltre le ultime perdute [[Stars|stelle]] dello spazio  
+Che, oltre le ultime perdute [[motifs/stars|stelle]] dello spazio  
 
-Recava la luce del [[Fire|fuoco]] sul suo volto.  
+Recava la luce del [[motifs/fire|fuoco]] sul suo volto.  
 
 Che, passando come in ore d'ozio,  
 
-Addomesticò le erbacce selvatiche a [[Garden|giardino]] di [[Flowers|fiori]];  
+Addomesticò le erbacce selvatiche a [[motifs/garden|giardino]] di [[motifs/flowers|fiori]];  
 
 Carezzò le stridenti ali dello strano turbine,  
 
@@ -12376,23 +12376,23 @@ Il buio era più caro del giorno;
 
 Dove sostava in cielo o all'inferno,  
 
-La storia di tutto il mondo era finita [[Well|bene]].  
+La storia di tutto il mondo era finita [[motifs/well|bene]].  
 
-_Con [[Leaves|foglie]] sotto e [[Leaves|foglie]] sopra._  
+_Con [[motifs/leaves|foglie]] sotto e [[motifs/leaves|foglie]] sopra._  
 
 _E brancolando di albero in albero,_  
 
-_Trovai la [[Home|casa]] del mio vero [[Love|amore]],_  
+_Trovai la [[motifs/home|casa]] del mio vero [[motifs/love|amore]],_  
 
-_Che è per me una [[Home|casa]] errante_.  
+_Che è per me una [[motifs/home|casa]] errante_.  
 
 Dove fu scagliata, sopra, sotto,  
 
-Dalla rude [[Dance|danza]] della vita e della [[Death|morte]],  
+Dalla rude [[motifs/dance|danza]] della vita e della [[motifs/death|morte]],  
 
 Che cresca a Gotham--muoia a Roma,  
 
-Tra i pini è la sua [[Home|casa]].  
+Tra i pini è la sua [[motifs/home|casa]].  
 
 In qualche strana città, in qualche mattino d'argento,  
 
@@ -12408,15 +12408,15 @@ E i santi morti tornano in vita,
 
 Allora pedanti calvi e pergamene brune  
 
-Potranno reclamare il suo [[Blood|sangue]] per la città di [[London|Londra]].  
+Potranno reclamare il suo [[motifs/blood|sangue]] per la città di [[settings/london|Londra]].  
 
-_Ma [[Leaves|foglie]] sotto e [[Leaves|foglie]] sopra._  
+_Ma [[motifs/leaves|foglie]] sotto e [[motifs/leaves|foglie]] sopra._  
 
 _E brancolando di albero in albero,_  
 
-_Trovai la [[Home|casa]] del mio vero [[Love|amore]],_  
+_Trovai la [[motifs/home|casa]] del mio vero [[motifs/love|amore]],_  
 
-_Che è per me una [[Home|casa]] errante_.  
+_Che è per me una [[motifs/home|casa]] errante_.  
 
 La grande lapide potrà oltrepassare,  
 
@@ -12426,37 +12426,37 @@ Le vie del Cielo d'argento potrà calcare,
 
 Coi suoi grigi occhi terribili non saziati.  
 
-La [[City|città]] della gran pace nella [[Pain|pena]]  
+La [[motifs/city|città]] della gran pace nella [[motifs/pain|pena]]  
 
 Potrà passare, finché ritrovi  
 
-Questa piccola [[house|casa]] di leccio e abete  
+Questa piccola casa di leccio e abete  
 
-Che Dio costruì per lei prima delle [[Stars|stelle]].  
+Che Dio costruì per lei prima delle [[motifs/stars|stelle]].  
 
-Qui tra le [[Leaves|foglie]] cadute è avvolto  
+Qui tra le [[motifs/leaves|foglie]] cadute è avvolto  
 
 Il suo segreto centro del mondo.  
 
 Sediamo e sentiamo nel crepuscolo bruno  
 
-Le [[Stars|stelle]] volteggiare intorno a noi come un sole.  
+Le [[motifs/stars|stelle]] volteggiare intorno a noi come un sole.  
 
-_Poiché [[Leaves|foglie]] sotto e [[Leaves|foglie]] sopra._  
+_Poiché [[motifs/leaves|foglie]] sotto e [[motifs/leaves|foglie]] sopra._  
 
 _E brancolando di albero in albero,_  
 
-_Trovai la [[Home|casa]] del mio vero [[Love|amore]]._  
+_Trovai la [[motifs/home|casa]] del mio vero [[motifs/love|amore]]._  
 
-_Che è per me una [[Home|casa]] errante_.  
+_Che è per me una [[motifs/home|casa]] errante_.  
 
 IV  
 
-[[Poems|POESIE]] RELIGIOSE  
+POESIE RELIGIOSE  
 
 I MAGI  
 
-Va' con passo lieve, sotto [[Snow|neve]] o pioggia,  
+Va' con passo lieve, sotto [[motifs/snow|neve]] o pioggia,  
 
 Per trovare il luogo dove gli uomini possono pregare;  
 
@@ -12472,9 +12472,9 @@ Conosciamo ogni sapere labirintico,
 
 Siamo i tre saggi d'un tempo,  
 
-E sappiamo ogni cosa fuorché la [[Truth|verità]].  
+E sappiamo ogni cosa fuorché la [[concepts/truth|verità]].  
 
-Abbiamo girato e rigirato intorno alla [[Hill|collina]],  
+Abbiamo girato e rigirato intorno alla [[motifs/hill|collina]],  
 
 E perso il bosco tra gli alberi,  
 
@@ -12486,19 +12486,19 @@ le Furie le Eumenidi.
 
 Gli dèi della violenza presero il velo  
 
-Di visione e [[philosophy|filosofia]],  
+Di visione e filosofia,  
 
 Il Serpente che a tutti gli uomini portò sventura,  
 
 Si morde la propria coda maledetta,  
 
-E si chiama [[Eternity|Eternità]].  
+E si chiama [[concepts/eternity|Eternità]].  
 
 Va' con umiltà ... è grandinato e nevicato ...  
 
 Con voci sommesse e lanterne accese;  
 
-Così semplice è la [[Road|strada]],  
+Così semplice è la [[motifs/road|strada]],  
 
 Che possiamo deviarne.  
 
@@ -12512,25 +12512,25 @@ Poiché qualcosa è troppo grande per la vista,
 
 E qualcosa troppo semplice da dire.  
 
-Il [[Child|Bambino]] che era prima che i mondi cominciassero  
+Il [[archetypes/child|Bambino]] che era prima che i mondi cominciassero  
 
 (... Ci basta camminare un breve tratto,  
 
 Ci basta vedere un chiavistello sciolto,...)  
 
-Il [[Child|Bambino]] che giocava con la [[Moon|luna]] e il sole  
+Il [[archetypes/child|Bambino]] che giocava con la [[motifs/moon|luna]] e il sole  
 
 Sta giocando con un po' di fieno.  
 
-La [[house|casa]] da cui i cieli sono nutriti,  
+La casa da cui i cieli sono nutriti,  
 
-La vecchia strana [[house|casa]] che è la nostra,  
+La vecchia strana casa che è la nostra,  
 
 Dove giochi di parole non si dicono mai.  
 
-E la [[Mercy|Misericordia]] è semplice come il pane,  
+E la [[concepts/mercy|Misericordia]] è semplice come il pane,  
 
-E l'[[Honour|Onore]] è duro come la pietra.  
+E l'[[concepts/honour|Onore]] è duro come la pietra.  
 
 Va' con umiltà; umili sono i cieli,  
 
@@ -12540,7 +12540,7 @@ Così vicina giace la Mangiatoia
 
 Che possiamo viaggiare lontano.  
 
-Ascolta! Un riso come un [[Lion|leone]] si desta  
+Ascolta! Un riso come un [[motifs/lion|leone]] si desta  
 
 Per ruggire alla pianura risonante,  
 
@@ -12550,9 +12550,9 @@ Poiché Dio stesso è nato di nuovo,
 
 E noi siamo piccoli fanciulli che camminano  
 
-Attraverso la [[Snow|neve]] e la pioggia.  
+Attraverso la [[motifs/snow|neve]] e la pioggia.  
 
-LA [[house|CASA]] DEL NATALE  
+LA CASA DEL NATALE  
 
 Andò una madre cacciata via  
 
@@ -12560,7 +12560,7 @@ Fuori da una locanda a errare;
 
 Nel luogo dove ella era senza casa  
 
-Tutti gli uomini sono a [[Home|casa]].  
+Tutti gli uomini sono a [[motifs/home|casa]].  
 
 La stalla sgangherata lì vicino,  
 
@@ -12580,23 +12580,23 @@ Ogni volta che il giorno è finito.
 
 Qui abbiamo battaglia e occhi fiammeggianti,  
 
-E sorte e [[Honour|onore]] e alta sorpresa,  
+E sorte e [[concepts/honour|onore]] e alta sorpresa,  
 
 Dove il racconto di Natale fu cominciato.  
 
-Un [[Child|Bambino]] in una stalla immonda,  
+Un [[archetypes/child|Bambino]] in una stalla immonda,  
 
 Dove le bestie mangiano e schiumano;  
 
 Solo dove Egli fu senza casa  
 
-Tu ed io siamo a [[Home|casa]];  
+Tu ed io siamo a [[motifs/home|casa]];  
 
 Abbiamo mani che foggiano e teste che  
 
 Ma il cuore l'abbiamo perduto--quanto tempo fa!  
 
-In un luogo che nessuna carta né [[Ship|nave]] può mostrare  
+In un luogo che nessuna carta né [[motifs/ship|nave]] può mostrare  
 
 Sotto la cupola del cielo.  
 
@@ -12606,9 +12606,9 @@ E strane sono le cose semplici,
 
 La terra basta e l'aria basta  
 
-Per la nostra [[Wonder|meraviglia]] e la nostra guerra;  
+Per la nostra [[concepts/wonder|meraviglia]] e la nostra guerra;  
 
-Ma il nostro riposo è lontano quanto oscilla il drago di [[Fire|fuoco]]  
+Ma il nostro riposo è lontano quanto oscilla il drago di [[motifs/fire|fuoco]]  
 
 E la nostra pace è riposta in cose impossibili  
 
@@ -12616,9 +12616,9 @@ Dove cozzarono e tuonarono ali impensabili
 
 Intorno a una stella incredibile.  
 
-A una [[house|casa]] aperta nella sera  
+A una casa aperta nella sera  
 
-[[Home|A casa]] verranno gli uomini,  
+[[motifs/home|A casa]] verranno gli uomini,  
 
 A un luogo più antico dell'Eden  
 
@@ -12630,11 +12630,11 @@ Alle cose che non possono essere e che sono,
 
 Al luogo dove Dio fu senza casa  
 
-E tutti gli uomini sono a [[Home|casa]].  
+E tutti gli uomini sono a [[motifs/home|casa]].  
 
-UN [[Song|CANTO]] DI DONI A DIO  
+UN CANTO DI DONI A DIO  
 
-Quando vennero i primi doni di Natale, la paglia dove [[Christ|Cristo]] fu avvolto  
+Quando vennero i primi doni di Natale, la paglia dove [[characters/christ|Cristo]] fu avvolto  
 
 Odorò più dolce del loro incenso, arse più lucente del loro oro,  
 
@@ -12644,13 +12644,13 @@ E un saggio disse: «Non daremo; il ringraziamento sarebbe solo freddo».
 
 Si piega l'alta gratitudine di Dio; così come Egli ora, fratello mio,  
 
-Che ebbe un Padre per tutto il [[Time|tempo]], pur Lo ringrazia per una Madre.  
+Che ebbe un Padre per tutto il [[motifs/time|tempo]], pur Lo ringrazia per una Madre.  
 
 «Eppure a stento per Lui questa pietra gialla o gli aromi pungenti e radi.  
 
 Egli che tiene il cuore d'oro del sole che nutrì queste sbarre di legno,  
 
-Né alcun giglio inodore vive per Colui che odora le [[Stars|stelle]]».  
+Né alcun giglio inodore vive per Colui che odora le [[motifs/stars|stelle]]».  
 
 Allora parlò il terzo dei Magi; il più saggio dei tre:  
 
@@ -12671,7 +12671,7 @@ Go to make harlots of the Greeks and hucksters of the Jews.
 
 "Less clouds before colossal feet redden in the under-light,  
 
-To the blind gods from Babylon less incense burn to-[[Night|night]],  
+To the blind gods from Babylon less incense burn to-[[motifs/night|night]],  
 
 To the high beasts of Babylon, whose mouths make mock of right."  
 
@@ -12685,37 +12685,37 @@ Light Thou Thy censer to Thyself, for all our fires are dim,
 
 Stamp Thou Thine image on our coin, for Caesar's face grows dim,  
 
-And a dumb devil of [[Pride|pride]] and [[Greed|greed]] has taken hold of him.  
+And a dumb devil of [[concepts/pride|pride]] and [[concepts/greed|greed]] has taken hold of him.  
 
 We bring Thee back great Christendom, churches and towns and towers.  
 
-And if our hands are glad, O God, to cast them down like [[Flowers|flowers]],  
+And if our hands are glad, O God, to cast them down like [[motifs/flowers|flowers]],  
 
 'Tis not that they enrich Thine hands, but they are saved from ours.  
 
 THE KINGDOM OF HEAVEN  
 
-Said the Lord God, "Build a [[house]],  
+Said the Lord God, "Build a house,  
 
-Build it in the gorge of [[Death|death]],  
+Build it in the gorge of [[motifs/death|death]],  
 
 Found it in the throats of hell.  
 
 Where the lost sea muttereth,  
 
-Fires and whirlwinds, build it [[Well|well]]."  
+Fires and whirlwinds, build it [[motifs/well|well]]."  
 
-Laboured sternly flame and [[Wind|wind]],  
+Laboured sternly flame and [[motifs/wind|wind]],  
 
 But a little, and they cry,  
 
-"Lord, we [[Doubt|doubt]] of this Thy will,  
+"Lord, we [[concepts/doubt|doubt]] of this Thy will,  
 
 We are blind and murmur why,"  
 
 And the winds are murmuring still.  
 
-Said the Lord God, "Build a [[house]],  
+Said the Lord God, "Build a house,  
 
 Cleave its treasure from the earth,  
 
@@ -12723,7 +12723,7 @@ With the jarring powers of hell
 
 Strive with formless might and mirth,  
 
-Tribes and war-men, build it [[Well|well]]."  
+Tribes and war-men, build it [[motifs/well|well]]."  
 
 Then the raw red sons of men  
 
@@ -12735,7 +12735,7 @@ But a little and they shrill,
 
 And the wild men clamour still.  
 
-Said the Lord God, "Build a [[house]],  
+Said the Lord God, "Build a house,  
 
 Smoke and iron, spark and steam,  
 
@@ -12743,7 +12743,7 @@ Speak and vote and buy and sell;
 
 Let a new world throb and stream,  
 
-Seers and makers, build it [[Well|well]]."  
+Seers and makers, build it [[motifs/well|well]]."  
 
 Strove the cunning men and strong,  
 
@@ -12753,11 +12753,11 @@ But a little and they cry,
 
 And we cannot know the why,"  
 
-And the wise men [[Doubt|doubt]] to-day.  
+And the wise men [[concepts/doubt|doubt]] to-day.  
 
 Yet though worn and deaf and blind,  
 
-Force and savage, [[King|king]] and seer  
+Force and savage, [[archetypes/king|king]] and seer  
 
 Labour still, they know not why;  
 
@@ -12769,13 +12769,13 @@ Till at last, mayhap, hereon,
 
 Fused of passion and accord,  
 
-[[Love]] its [[Crown|crown]] and peace its stay  
+[[motifs/love|Love]] its [[motifs/crown|crown]] and peace its stay  
 
-Rise the [[City|city]] of the Lord  
+Rise the [[motifs/city|city]] of the Lord  
 
 That we darkly build to-day.  
 
-A [[Hymn|HYMN]] FOR THE CHURCH MILITANT  
+A [[forms/hymn|HYMN]] FOR THE CHURCH MILITANT  
 
 Great God, that bowest sky and star,  
 
@@ -12783,13 +12783,13 @@ Bow down our towering thoughts to thee,
 
 And grant us in a faltering war  
 
-The firm feet of [[Humility|humility]].  
+The firm feet of [[concepts/humility|humility]].  
 
 Lord, we that snatch the swords of flame,  
 
 Lord, we that cry about Thy car.  
 
-We too are weak with [[Pride|pride]] and shame,  
+We too are weak with [[concepts/pride|pride]] and shame,  
 
 We too are as our foemen are.  
 
@@ -12805,7 +12805,7 @@ The dreadful joy Thy Son has sent
 
 Is heavier than any care;  
 
-We find, as [[Cain]] his punishment,  
+We find, as [[characters/cain|Cain]] his punishment,  
 
 Our pardon more than we can bear.  
 
@@ -12839,7 +12839,7 @@ Then was my vision mightier than man's speech;
 
 Speech snapt before it like a flying spell;  
 
-And [[Memory|memory]] and all that [[Time|time]] can teach  
+And [[motifs/memory|memory]] and all that [[motifs/time|time]] can teach  
 
 Before that splendid outrage failed and fell.  
 
@@ -12855,17 +12855,17 @@ Even such am I; within whose thoughts resides
 
 No picture of that sight nor any part  
 
-Nor any [[Memory|memory]]: in whom abides  
+Nor any [[motifs/memory|memory]]: in whom abides  
 
 Only a happiness within the heart,  
 
 A secret happiness that soaks the heart  
 
-As hills are soaked by slow unsealing [[Snow|snow]],  
+As hills are soaked by slow unsealing [[motifs/snow|snow]],  
 
-Or secret as that [[Wind|wind]] without a chart  
+Or secret as that [[motifs/wind|wind]] without a chart  
 
-Whereon did the wild [[Leaves|leaves]] of Sibyl go.  
+Whereon did the wild [[motifs/leaves|leaves]] of Sibyl go.  
 
 O light uplifted from all mortal knowing,  
 
@@ -12879,7 +12879,7 @@ THE TRUCE OF CHRISTMAS
 
 Passionate peace is in the sky--  
 
-And in the [[Snow|snow]] in silver sealed  
+And in the [[motifs/snow|snow]] in silver sealed  
 
 The beasts are perfect in the field,  
 
@@ -12901,13 +12901,13 @@ And we have the terrible tongues uncurled
 
 That praise the world to the sons of the world.)  
 
-The idle humble [[Hill|hill]] and wood  
+The idle humble [[motifs/hill|hill]] and wood  
 
 Are bowed upon the sacred birth,  
 
 And for one little hour the earth  
 
-Is lazy with the [[Love|love]] of good--  
+Is lazy with the [[motifs/love|love]] of good--  
 
 (But ready are you, and ready am I,  
 
@@ -12919,23 +12919,23 @@ And they are against us every one;
 
 And the men that hate herd all together,  
 
-To [[Pride|pride]] and gold, and the great white feather  
+To [[concepts/pride|pride]] and gold, and the great white feather  
 
 And the thing is graven in star and stone  
 
-That the men who [[Love|love]] are all [[Alone|alone]].)  
+That the men who [[motifs/love|love]] are all alone.)  
 
-Hunger is hard and [[Time|time]] is tough,  
+Hunger is hard and [[motifs/time|time]] is tough,  
 
 But bless the beggars and kiss the kings,  
 
-For [[Hope|hope]] has broken the heart of things,  
+For [[concepts/hope|hope]] has broken the heart of things,  
 
 And nothing was ever praised enough.  
 
 (But bold the shield for a sudden swing  
 
-And point the [[Sword|sword]] when you praise a thing,  
+And point the sword when you praise a thing,  
 
 For we are for all men under the sun,  
 
@@ -12943,13 +12943,13 @@ And they are against us every one;
 
 And mime and merchant, thane and thrall  
 
-Hate us because we [[Love|love]] them all;  
+Hate us because we [[motifs/love|love]] them all;  
 
 Only till Christmastide go by  
 
 Passionate peace is in the sky.)  
 
-A [[Hymn|HYMN]]  
+A [[forms/hymn|HYMN]]  
 
 O God of earth and altar,  
 
@@ -12965,7 +12965,7 @@ The swords of scorn divide,
 
 Take not thy thunder from us,  
 
-But take away our [[Pride|pride]].  
+But take away our [[concepts/pride|pride]].  
 
 From all that terror teaches,  
 
@@ -12977,9 +12977,9 @@ That comfort cruel men,
 
 From sale and profanation  
 
-Of [[Honour|honour]] and the [[Sword|sword]],  
+Of [[concepts/honour|honour]] and the sword,  
 
-From [[Sleep|sleep]] and from damnation,  
+From [[motifs/sleep|sleep]] and from damnation,  
 
 Deliver us, good Lord!  
 
@@ -12993,15 +12993,15 @@ Smite us and save us all;
 
 In ire and exultation  
 
-Aflame with [[Faith|faith]], and free,  
+Aflame with [[concepts/faith|faith]], and free,  
 
 Lift up a living nation,  
 
-A single [[Sword|sword]] to thee.  
+A single sword to thee.  
 
-A CHRISTMAS [[Song|SONG]] FOR THREE GUILDS  
+A CHRISTMAS SONG FOR THREE GUILDS  
 
-TO BE SUNG A LONG [[Time|TIME]] AGO--OR HENCE  
+TO BE SUNG A LONG [[motifs/time|TIME]] AGO--OR HENCE  
 
 _THE CARPENTERS_  
 
@@ -13011,7 +13011,7 @@ St. Joseph to the Carpenters said on a Christmas Day:
 
 And your word unto your women shall be nowise hard or wild:  
 
-For the sake of me, your master, who have worshipped Wife and [[Child]].  
+For the sake of me, your master, who have worshipped Wife and [[archetypes/child|Child]].  
 
 But softly you shall frame the fence, and softly carve the door,  
 
@@ -13023,13 +13023,13 @@ But if they tear the Charter, Jet the tocsin speak for me!
 
 Let the wooden sign above your shop be prouder to be scarred  
 
-Than the [[Lion|lion]]-shield of Lancelot that hung at Joyous Garde."  
+Than the [[motifs/lion|lion]]-shield of Lancelot that hung at Joyous Garde."  
 
 _THE SHOEMAKERS_  
 
 St. Crispin to the shoemakers said on a Christmastide:  
 
-"Who fashions at another's feet will get no good of [[Pride|pride]].  
+"Who fashions at another's feet will get no good of [[concepts/pride|pride]].  
 
 They were bleeding on the Mountain, the feet that brought good news,  
 
@@ -13037,7 +13037,7 @@ The latchet of whose shoes we were not worthy to unloose.
 
 See that your feet offend not, nor lightly lift your head,  
 
-Tread softly on the sunlit roads the bright [[Dust|dust]] of the dead.  
+Tread softly on the sunlit roads the bright [[motifs/dust|dust]] of the dead.  
 
 Let your own feet be shod with peace; be lowly all your lives.  
 
@@ -13053,7 +13053,7 @@ St. Luke unto the painters on Christmas Day he said:
 
 "See that the robes are white you dare to dip in gold and red;  
 
-For only gold the kings can give, and only [[Blood|blood]] the saints;  
+For only gold the kings can give, and only [[motifs/blood|blood]] the saints;  
 
 And his high task grows perilous that mixes them in paints.  
 
@@ -13065,7 +13065,7 @@ Paint mighty things, paint paltry things, paint silly things or sweet.
 
 But if men break the Charter, you may slay them in the street.  
 
-And if you paint one post for them, then ... but you know it [[Well|well]],  
+And if you paint one post for them, then ... but you know it [[motifs/well|well]],  
 
 You paint a harlot's face to drag all heroes down to hell."  
 
@@ -13081,7 +13081,7 @@ You can be all things other; you cannot be a slave.
 
 You shall be tired and tolerant of fancies as they fade,  
 
-But if men [[Doubt|doubt]] the Charter, ye shall call on the Crusade--  
+But if men [[concepts/doubt|doubt]] the Charter, ye shall call on the Crusade--  
 
 Trumpet and torch and catapult, cannon and bow and blade,  
 
@@ -13093,7 +13093,7 @@ The thatch on the roof was as golden,
 
 Though dusty the straw was and old,  
 
-The [[Wind|wind]] had a peal as of trumpets,  
+The [[motifs/wind|wind]] had a peal as of trumpets,  
 
 Though blowing and barren and cold,  
 
@@ -13103,7 +13103,7 @@ Though loosened and torn,
 
 For under the eaves in the gloaming  
 
-A [[Child|child]] was born.  
+A [[archetypes/child|child]] was born.  
 
 Have a myriad children been quickened.  
 
@@ -13117,15 +13117,15 @@ God abides In a terrible patience,
 
 Unangered, unworn,  
 
-And again for the [[Child|child]] that was squandered  
+And again for the [[archetypes/child|child]] that was squandered  
 
-A [[Child|child]] is born.  
+A [[archetypes/child|child]] is born.  
 
 What know we of æons behind us,  
 
 Dim dynasties lost long ago,  
 
-Huge empires, like [[Dreams|dreams]] unremembered,  
+Huge empires, like [[motifs/dreams|dreams]] unremembered,  
 
 Huge cities for ages laid low?  
 
@@ -13133,9 +13133,9 @@ This at least--that with blight and with blessing
 
 With flower and with thorn,  
 
-[[Love]] was there, and his cry was among them,  
+[[motifs/love|Love]] was there, and his cry was among them,  
 
-"A [[Child|child]] is born."  
+"A [[archetypes/child|child]] is born."  
 
 Though the darkness be noisy with systems,  
 
@@ -13143,31 +13143,31 @@ Dark fancies that fret and disprove,
 
 Still the plumes stir around us, above us  
 
-The wings of the [[Shadow|shadow]] of [[Love|love]]:  
+The wings of the [[archetypes/shadow|shadow]] of [[motifs/love|love]]:  
 
 Oh! princes and priests, have ye seen it  
 
 Grow pale through your scorn.  
 
-Huge dawns [[Sleep|sleep]] before us, deep changes,  
+Huge dawns [[motifs/sleep|sleep]] before us, deep changes,  
 
-A [[Child|child]] is born.  
+A [[archetypes/child|child]] is born.  
 
 And the rafters of toil still are gilded  
 
-With the [[Dawn|dawn]] of the star of the heart,  
+With the [[motifs/dawn|dawn]] of the star of the heart,  
 
 And the wise men draw near in the twilight,  
 
 Who are weary of learning and art,  
 
-And the face of the [[Tyrant|tyrant]] is darkened.  
+And the face of the [[archetypes/tyrant|tyrant]] is darkened.  
 
 His spirit is torn,  
 
-For a new [[King]] is enthroned; yea, the sternest,  
+For a new [[archetypes/king|King]] is enthroned; yea, the sternest,  
 
-A [[Child|child]] is born.  
+A [[archetypes/child|child]] is born.  
 
 And the mother still joys for the whispered  
 
@@ -13181,13 +13181,13 @@ Still the babe of an hour is a master
 
 Whom angels adorn,  
 
-Emmanuel, [[Prophet|prophet]], anointed,  
+Emmanuel, [[archetypes/prophet|prophet]], anointed,  
 
-A [[Child|child]] is born.  
+A [[archetypes/child|child]] is born.  
 
 And thou, that art still in thy cradle,  
 
-The sun being [[Crown|crown]] for thy brow.  
+The sun being [[motifs/crown|crown]] for thy brow.  
 
 Make answer, our flesh, make an answer,  
 
@@ -13199,11 +13199,11 @@ To train or to warn--?
 
 Hush--how may we know?--knowing only  
 
-A [[Child|child]] is born.  
+A [[archetypes/child|child]] is born.  
 
-A [[Child|CHILD]] OF THE SNOWS  
+A [[archetypes/child|CHILD]] OF THE SNOWS  
 
-There is heard a [[Hymn|hymn]] when the panes dim  
+There is heard a [[forms/hymn|hymn]] when the panes dim  
 
 And never before or again,  
 
@@ -13211,7 +13211,7 @@ When the nights are strong with a darkness long,
 
 And the dark is alive with rain.  
 
-Never we know but in sleet and in [[Snow|snow]],  
+Never we know but in sleet and in [[motifs/snow|snow]],  
 
 The place where the great fires are,  
 
@@ -13219,21 +13219,21 @@ That the midst of the earth is a raging mirth
 
 And the heart of the earth a star.  
 
-And at [[Night|night]] we win to the ancient inn  
+And at [[motifs/night|night]] we win to the ancient inn  
 
-Where the [[Child|child]] in the [[Frost|frost]] is furled,  
+Where the [[archetypes/child|child]] in the [[motifs/frost|frost]] is furled,  
 
 We follow the feet where all souls meet  
 
 At the inn at the end of the world.  
 
-The gods lie dead where the [[Leaves|leaves]] lie red,  
+The gods lie dead where the [[motifs/leaves|leaves]] lie red,  
 
 For the flame of the sun is flown.  
 
-The gods lie cold where the [[Leaves|leaves]] lie gold.  
+The gods lie cold where the [[motifs/leaves|leaves]] lie gold.  
 
-And a [[Child]] comes forth [[Alone|alone]].  
+And a [[archetypes/child|Child]] comes forth alone.  
 
 A WORD  
 
@@ -13241,11 +13241,11 @@ A word came forth in Galilee, a word like to a star;
 
 It climbed and rang and blessed and burnt wherever brave hearts are;  
 
-A word of sudden secret [[Hope|hope]], of trial and increase  
+A word of sudden secret [[concepts/hope|hope]], of trial and increase  
 
-Of wrath and pity fused in [[Fire|fire]], and passion kissing peace.  
+Of wrath and pity fused in [[motifs/fire|fire]], and passion kissing peace.  
 
-A star that o'er the citied world beckoned, a [[Sword|sword]] of flame;  
+A star that o'er the citied world beckoned, a sword of flame;  
 
 A star with myriad thunders tongued: a mighty word there came.  
 
@@ -13262,7 +13262,7 @@ a fare meretrici dei Greci e bottegai degli Ebrei.
 
 «Meno nubi ai piedi colossali arrossano nella luce di sotto,  
 
-agli dèi ciechi di Babilonia meno incenso arda questa [[Night|notte]],  
+agli dèi ciechi di Babilonia meno incenso arda questa [[motifs/night|notte]],  
 
 alle alte bestie di Babilonia, le cui bocche si fanno beffe del diritto.»  
 
@@ -13276,37 +13276,37 @@ Accendi Tu il Tuo turibolo a Te stesso, ché tutti i nostri fuochi son fiochi,
 
 imprimi Tu la Tua immagine sulla nostra moneta, ché il volto di Cesare si fa fioco,  
 
-e un muto demone di [[Pride|orgoglio]] e [[Greed|avidità]] si è impadronito di lui.  
+e un muto demone di [[concepts/pride|orgoglio]] e [[concepts/greed|avidità]] si è impadronito di lui.  
 
 Ti riportiamo la grande Cristianità, chiese e città e torri.  
 
-E se le nostre mani son liete, o Dio, di gettarle giù come [[Flowers|fiori]],  
+E se le nostre mani son liete, o Dio, di gettarle giù come [[motifs/flowers|fiori]],  
 
 non è che arricchiscano le Tue mani, ma sono salvate dalle nostre.  
 
 IL REGNO DEI CIELI  
 
-Disse il Signore Iddio: «Costruite una [[house|casa]],  
+Disse il Signore Iddio: «Costruite una casa,  
 
-costruitela nella gola della [[Death|morte]],  
+costruitela nella gola della [[motifs/death|morte]],  
 
 fondatela nelle fauci dell'inferno.  
 
 Dove il mare perduto mormora,  
 
-fuochi e turbini, costruitela [[Well|bene]].»  
+fuochi e turbini, costruitela [[motifs/well|bene]].»  
 
-Faticarono aspramente fiamma e [[Wind|vento]],  
+Faticarono aspramente fiamma e [[motifs/wind|vento]],  
 
 ma di lì a poco gridano:  
 
-«Signore, [[Doubt|dubitiamo]] di questa Tua volontà,  
+«Signore, [[concepts/doubt|dubitiamo]] di questa Tua volontà,  
 
 siamo ciechi e mormoriamo perché,»  
 
 e i venti mormorano ancora.  
 
-Disse il Signore Iddio: «Costruite una [[house|casa]],  
+Disse il Signore Iddio: «Costruite una casa,  
 
 strappatene il tesoro dalla terra,  
 
@@ -13314,7 +13314,7 @@ con le potenze cozzanti dell'inferno
 
 lottate con forza informe e allegrezza,  
 
-tribù e uomini di guerra, costruitela [[Well|bene]].»  
+tribù e uomini di guerra, costruitela [[motifs/well|bene]].»  
 
 Allora i rossi crudi figli degli uomini  
 
@@ -13326,7 +13326,7 @@ ma di lì a poco stridono:
 
 e gli uomini selvaggi clamano ancora.  
 
-Disse il Signore Iddio: «Costruite una [[house|casa]],  
+Disse il Signore Iddio: «Costruite una casa,  
 
 fumo e ferro, scintilla e vapore,  
 
@@ -13334,7 +13334,7 @@ parlate e votate e comprate e vendete;
 
 lasciate che un mondo nuovo pulsi e scorra,  
 
-veggenti e artefici, costruitela [[Well|bene]].»  
+veggenti e artefici, costruitela [[motifs/well|bene]].»  
 
 Si adoperarono gli uomini astuti e forti,  
 
@@ -13344,11 +13344,11 @@ ma di lì a poco gridano:
 
 e non possiamo conoscere il perché,»  
 
-e i saggi [[Doubt|dubitano]] oggi.  
+e i saggi [[concepts/doubt|dubitano]] oggi.  
 
 Eppure, benché logori e sordi e ciechi,  
 
-forza e selvaggio, [[King|re]] e veggente  
+forza e selvaggio, [[archetypes/king|re]] e veggente  
 
 faticano ancora, non sanno perché;  
 
@@ -13360,13 +13360,13 @@ Finché infine, forse, su questo,
 
 fusa di passione e concordia,  
 
-[[Love|Amore]] sua [[Crown|corona]] e la pace suo sostegno  
+[[motifs/love|Amore]] sua [[motifs/crown|corona]] e la pace suo sostegno  
 
-sorga la [[City|città]] del Signore  
+sorga la [[motifs/city|città]] del Signore  
 
 che oscuramente edifichiamo oggi.  
 
-UN [[Hymn|INNO]] PER LA CHIESA MILITANTE  
+UN [[forms/hymn|INNO]] PER LA CHIESA MILITANTE  
 
 Grande Dio, che pieghi cielo e stella,  
 
@@ -13374,13 +13374,13 @@ piega i nostri pensieri torreggianti verso di te,
 
 e concedici in una guerra vacillante  
 
-i fermi piedi dell'[[Humility|umiltà]].  
+i fermi piedi dell'[[concepts/humility|umiltà]].  
 
 Signore, noi che afferriamo le spade di fiamma,  
 
 Signore, noi che gridiamo attorno al Tuo carro,  
 
-anche noi siam deboli di [[Pride|orgoglio]] e vergogna,  
+anche noi siam deboli di [[concepts/pride|orgoglio]] e vergogna,  
 
 anche noi siamo come i nostri nemici.  
 
@@ -13396,7 +13396,7 @@ La tremenda gioia che il Tuo Figlio ha mandato
 
 è più pesante di ogni affanno;  
 
-troviamo, come [[Cain|Caino]] la sua pena,  
+troviamo, come [[characters/cain|Caino]] la sua pena,  
 
 il nostro perdono più di quanto possiamo sopportare.  
 
@@ -13430,7 +13430,7 @@ Allora la mia visione fu più possente della parola dell'uomo;
 
 la parola si spezzò dinanzi ad essa come un incantesimo in fuga;  
 
-e la [[Memory|memoria]] e tutto ciò che il [[Time|tempo]] può insegnare  
+e la [[motifs/memory|memoria]] e tutto ciò che il [[motifs/time|tempo]] può insegnare  
 
 dinanzi a quello splendido oltraggio venne meno e cadde.  
 
@@ -13446,17 +13446,17 @@ Tale son io; nei cui pensieri non risiede
 
 alcuna immagine di quella vista né parte alcuna  
 
-né [[Memory|memoria]] alcuna: in cui dimora  
+né [[motifs/memory|memoria]] alcuna: in cui dimora  
 
 solo una felicità dentro il cuore,  
 
 una segreta felicità che imbeve il cuore  
 
-come i colli sono imbevuti dalla lenta [[Snow|neve]] che si dischiude,  
+come i colli sono imbevuti dalla lenta [[motifs/snow|neve]] che si dischiude,  
 
-o segreta come quel [[Wind|vento]] senza carta  
+o segreta come quel [[motifs/wind|vento]] senza carta  
 
-sul quale andarono le selvagge [[Leaves|foglie]] della Sibilla.  
+sul quale andarono le selvagge [[motifs/leaves|foglie]] della Sibilla.  
 
 O luce innalzata sopra ogni mortale sapere,  
 
@@ -13470,7 +13470,7 @@ LA TREGUA DEL NATALE
 
 Appassionata pace è nel cielo--  
 
-e nella [[Snow|neve]] sigillata d'argento  
+e nella [[motifs/snow|neve]] sigillata d'argento  
 
 le bestie sono perfette nel campo,  
 
@@ -13492,13 +13492,13 @@ E abbiamo le lingue terribili sciolte
 
 che lodano il mondo ai figli del mondo.)  
 
-L'ozioso umile [[Hill|colle]] e il bosco  
+L'ozioso umile [[motifs/hill|colle]] e il bosco  
 
 sono chinati sulla sacra nascita,  
 
 e per una piccola ora la terra  
 
-è pigra dell'[[Love|amore]] del bene--  
+è pigra dell'[[motifs/love|amore]] del bene--  
 
 (Ma pronto sei tu, e pronto son io,  
 
@@ -13510,23 +13510,23 @@ ed essi sono contro di noi ad uno ad uno;
 
 e gli uomini che odiano si radunano tutti insieme,  
 
-verso [[Pride|orgoglio]] e oro, e la grande piuma bianca  
+verso [[concepts/pride|orgoglio]] e oro, e la grande piuma bianca  
 
 e la cosa è incisa in stella e pietra  
 
-che gli uomini che [[Love|amano]] sono tutti [[Alone|soli]].)  
+che gli uomini che [[motifs/love|amano]] sono tutti soli.)  
 
-La fame è dura e il [[Time|tempo]] è aspro,  
+La fame è dura e il [[motifs/time|tempo]] è aspro,  
 
 ma benedite i mendicanti e baciate i re,  
 
-ché la [[Hope|speranza]] ha spezzato il cuore delle cose,  
+ché la [[concepts/hope|speranza]] ha spezzato il cuore delle cose,  
 
 e nulla fu mai lodato abbastanza.  
 
 (Ma imbraccia lo scudo per un colpo improvviso  
 
-e punta la [[Sword|spada]] quando lodi una cosa,  
+e punta la spada quando lodi una cosa,  
 
 ché noi siamo per tutti gli uomini sotto il sole,  
 
@@ -13534,13 +13534,13 @@ ed essi sono contro di noi ad uno ad uno;
 
 e mimo e mercante, thane e servo  
 
-ci odiano perché li [[Love|amiamo]] tutti;  
+ci odiano perché li [[motifs/love|amiamo]] tutti;  
 
 solo finché il tempo di Natale non passi  
 
 appassionata pace è nel cielo.)  
 
-UN [[Hymn|INNO]]  
+UN [[forms/hymn|INNO]]  
 
 O Dio della terra e dell'altare,  
 
@@ -13556,7 +13556,7 @@ le spade dello scherno ci dividono,
 
 non togliere da noi il tuo tuono,  
 
-ma togli via il nostro [[Pride|orgoglio]].  
+ma togli via il nostro [[concepts/pride|orgoglio]].  
 
 Da tutto ciò che il terrore insegna,  
 
@@ -13568,9 +13568,9 @@ che confortano gli uomini crudeli,
 
 dalla vendita e profanazione  
 
-dell'[[Honour|onore]] e della [[Sword|spada]],  
+dell'[[concepts/honour|onore]] e della spada,  
 
-dal [[Sleep|sonno]] e dalla dannazione,  
+dal [[motifs/sleep|sonno]] e dalla dannazione,  
 
 liberaci, buon Signore!  
 
@@ -13584,15 +13584,15 @@ colpiscici e salvaci tutti;
 
 in ira ed esultanza  
 
-ardente di [[Faith|fede]], e libera,  
+ardente di [[concepts/faith|fede]], e libera,  
 
 solleva una nazione vivente,  
 
-un'unica [[Sword|spada]] verso di te.  
+un'unica spada verso di te.  
 
-UN [[Song|CANTO]] DI NATALE PER TRE CORPORAZIONI  
+UN CANTO DI NATALE PER TRE CORPORAZIONI  
 
-DA CANTARSI MOLTO [[Time|TEMPO]] FA--O D'ORA INNANZI  
+DA CANTARSI MOLTO [[motifs/time|TEMPO]] FA--O D'ORA INNANZI  
 
 _I CARPENTIERI_  
 
@@ -13602,7 +13602,7 @@ San Giuseppe ai Carpentieri disse in un giorno di Natale:
 
 e la vostra parola alle vostre donne non sia punto dura o selvaggia:  
 
-per amor di me, vostro maestro, che ho venerato Moglie e [[Child|Figlio]].  
+per amor di me, vostro maestro, che ho venerato Moglie e [[archetypes/child|Figlio]].  
 
 Ma dolcemente intelaierete lo steccato, e dolcemente intaglierete la porta,  
 
@@ -13614,13 +13614,13 @@ Ma se strappano la Carta, che la campana a stormo parli per me!
 
 Che l'insegna di legno sopra la vostra bottega sia più fiera d'esser sfregiata  
 
-dello scudo-[[Lion|leone]] di Lancillotto che pendeva a Joyous Garde.»  
+dello scudo-[[motifs/lion|leone]] di Lancillotto che pendeva a Joyous Garde.»  
 
 _I CALZOLAI_  
 
 San Crispino ai calzolai disse in un tempo di Natale:  
 
-«Chi foggia ai piedi altrui non trarrà alcun bene dall'[[Pride|orgoglio]].  
+«Chi foggia ai piedi altrui non trarrà alcun bene dall'[[concepts/pride|orgoglio]].  
 
 Sanguinavano sul Monte, i piedi che portarono buone novelle,  
 
@@ -13628,7 +13628,7 @@ i cui legacci dei calzari non eravamo degni di sciogliere.
 
 Badate che i vostri piedi non offendano, né leviate con leggerezza il capo,  
 
-calpestate soavemente sulle strade assolate la lucente [[Dust|polvere]] dei morti.  
+calpestate soavemente sulle strade assolate la lucente [[motifs/dust|polvere]] dei morti.  
 
 Siano i vostri piedi calzati di pace; siate umili per tutta la vita.  
 
@@ -13644,7 +13644,7 @@ San Luca ai pittori nel giorno di Natale disse:
 
 «Badate che siano bianche le vesti che osate immergere nell'oro e nel rosso;  
 
-ché solo oro i re possono dare, e solo [[Blood|sangue]] i santi;  
+ché solo oro i re possono dare, e solo [[motifs/blood|sangue]] i santi;  
 
 e il suo alto compito si fa periglioso a chi li mischia nei colori.  
 
@@ -13656,7 +13656,7 @@ dipingete cose possenti, dipingete cose meschine, dipingete cose sciocche o dolc
 
 Ma se gli uomini spezzano la Carta, potete ucciderli nella strada.  
 
-E se dipingete un solo palo per loro, allora ... ma lo sapete [[Well|bene]],  
+E se dipingete un solo palo per loro, allora ... ma lo sapete [[motifs/well|bene]],  
 
 dipingete il volto d'una meretrice per trascinare tutti gli eroi giù all'inferno.»  
 
@@ -13672,7 +13672,7 @@ potete essere ogni altra cosa; non potete essere schiavi.
 
 Sarete stanchi e tolleranti delle fantasie che svaniscono,  
 
-ma se gli uomini [[Doubt|dubitano]] della Carta, chiamerete la Crociata--  
+ma se gli uomini [[concepts/doubt|dubitano]] della Carta, chiamerete la Crociata--  
 
 tromba e torcia e catapulta, cannone e arco e lama,  
 
@@ -13684,7 +13684,7 @@ La paglia sul tetto era come dorata,
 
 benché polverosa la paglia fosse e vecchia,  
 
-il [[Wind|vento]] aveva uno squillo come di trombe,  
+il [[motifs/wind|vento]] aveva uno squillo come di trombe,  
 
 benché soffiante e sterile e freddo,  
 
@@ -13694,7 +13694,7 @@ benché sciolti e strappati,
 
 ché sotto la gronda nel crepuscolo  
 
-un [[Child|bambino]] era nato.  
+un [[archetypes/child|bambino]] era nato.  
 
 Sono forse una miriade di bambini stati destati,  
 
@@ -13708,15 +13708,15 @@ Dio dimora in una terribile pazienza,
 
 non adirato, non consumato,  
 
-e di nuovo per il [[Child|bambino]] che fu dissipato  
+e di nuovo per il [[archetypes/child|bambino]] che fu dissipato  
 
-un [[Child|bambino]] è nato.  
+un [[archetypes/child|bambino]] è nato.  
 
 Che sappiamo noi degli eoni dietro di noi,  
 
 fosche dinastie perdute tanto tempo fa,  
 
-enormi imperi, come [[Dreams|sogni]] non ricordati,  
+enormi imperi, come [[motifs/dreams|sogni]] non ricordati,  
 
 enormi città per secoli abbattute?  
 
@@ -13724,9 +13724,9 @@ Questo almeno--che con rovina e con benedizione
 
 con fiore e con spina,  
 
-[[Love|Amore]] era là, e il suo grido era fra loro,  
+[[motifs/love|Amore]] era là, e il suo grido era fra loro,  
 
-«Un [[Child|bambino]] è nato.»  
+«Un [[archetypes/child|bambino]] è nato.»  
 
 Benché la tenebra sia rumorosa di sistemi,  
 
@@ -13734,31 +13734,31 @@ fosche fantasie che rodono e confutano,
 
 ancora le piume si agitano attorno a noi, sopra di noi  
 
-le ali dell'[[Shadow|ombra]] dell'[[Love|amore]]:  
+le ali dell'[[archetypes/shadow|ombra]] dell'[[motifs/love|amore]]:  
 
 Oh! principi e preti, l'avete veduto  
 
 impallidire per il vostro scherno.  
 
-Enormi albe [[Sleep|dormono]] dinanzi a noi, profondi mutamenti,  
+Enormi albe [[motifs/sleep|dormono]] dinanzi a noi, profondi mutamenti,  
 
-un [[Child|bambino]] è nato.  
+un [[archetypes/child|bambino]] è nato.  
 
 E le travi della fatica sono ancora dorate  
 
-con l'[[Dawn|alba]] della stella del cuore,  
+con l'[[motifs/dawn|alba]] della stella del cuore,  
 
 e i magi si avvicinano nel crepuscolo,  
 
 che sono stanchi del sapere e dell'arte,  
 
-e il volto del [[Tyrant|tiranno]] si oscura.  
+e il volto del [[archetypes/tyrant|tiranno]] si oscura.  
 
 Il suo spirito è straziato,  
 
-ché un nuovo [[King|Re]] è intronizzato; sì, il più severo,  
+ché un nuovo [[archetypes/king|Re]] è intronizzato; sì, il più severo,  
 
-un [[Child|bambino]] è nato.  
+un [[archetypes/child|bambino]] è nato.  
 
 E la madre ancora gioisce per il sussurrato  
 
@@ -13772,13 +13772,13 @@ Ancora il pargolo d'un'ora è un maestro
 
 che gli angeli adornano,  
 
-Emmanuele, [[Prophet|profeta]], unto,  
+Emmanuele, [[archetypes/prophet|profeta]], unto,  
 
-un [[Child|bambino]] è nato.  
+un [[archetypes/child|bambino]] è nato.  
 
 E tu, che sei ancora nella tua culla,  
 
-essendo il sole [[Crown|corona]] per la tua fronte,  
+essendo il sole [[motifs/crown|corona]] per la tua fronte,  
 
 rispondi, nostra carne, dà una risposta,  
 
@@ -13790,11 +13790,11 @@ a educare o ad ammonire--?
 
 Taci--come possiamo saperlo?--sapendo solo  
 
-un [[Child|bambino]] è nato.  
+un [[archetypes/child|bambino]] è nato.  
 
-UN [[Child|BAMBINO]] DELLE NEVI  
+UN [[archetypes/child|BAMBINO]] DELLE NEVI  
 
-Si ode un [[Hymn|inno]] quando i vetri s'appannano  
+Si ode un [[forms/hymn|inno]] quando i vetri s'appannano  
 
 e mai prima o di nuovo,  
 
@@ -13802,7 +13802,7 @@ quando le notti son forti d'una lunga tenebra,
 
 e il buio è vivo di pioggia.  
 
-Mai sappiamo se non nel nevischio e nella [[Snow|neve]],  
+Mai sappiamo se non nel nevischio e nella [[motifs/snow|neve]],  
 
 il luogo dove sono i grandi fuochi,  
 
@@ -13810,21 +13810,21 @@ che il mezzo della terra è una furente allegrezza
 
 e il cuore della terra una stella.  
 
-E di [[Night|notte]] giungiamo all'antica locanda  
+E di [[motifs/night|notte]] giungiamo all'antica locanda  
 
-dove il [[Child|bambino]] nel [[Frost|gelo]] è avvolto,  
+dove il [[archetypes/child|bambino]] nel [[motifs/frost|gelo]] è avvolto,  
 
 seguiamo i piedi dove tutte le anime s'incontrano  
 
 alla locanda alla fine del mondo.  
 
-Gli dèi giacciono morti dove le [[Leaves|foglie]] giacciono rosse,  
+Gli dèi giacciono morti dove le [[motifs/leaves|foglie]] giacciono rosse,  
 
 ché la fiamma del sole è fuggita.  
 
-Gli dèi giacciono freddi dove le [[Leaves|foglie]] giacciono d'oro,  
+Gli dèi giacciono freddi dove le [[motifs/leaves|foglie]] giacciono d'oro,  
 
-e un [[Child|Bambino]] viene avanti [[Alone|solo]].  
+e un [[archetypes/child|Bambino]] viene avanti solo.  
 
 UNA PAROLA  
 
@@ -13832,11 +13832,11 @@ Una parola venne fuori in Galilea, una parola simile a una stella;
 
 salì e risuonò e benedisse e arse ovunque vi siano cuori valorosi;  
 
-una parola di subitanea segreta [[Hope|speranza]], di prova e accrescimento  
+una parola di subitanea segreta [[concepts/hope|speranza]], di prova e accrescimento  
 
-d'ira e pietà fuse nel [[Fire|fuoco]], e passione che bacia la pace.  
+d'ira e pietà fuse nel [[motifs/fire|fuoco]], e passione che bacia la pace.  
 
-Una stella che sul mondo delle città ammiccava, una [[Sword|spada]] di fiamma;  
+Una stella che sul mondo delle città ammiccava, una spada di fiamma;  
 
 una stella dalle miriadi di tuoni parlante: una possente parola venne.  
 
@@ -13853,7 +13853,7 @@ The hammering on the roofs at morn, the busy workshop roar;
 
 The hiss of shavings drifted deep along the windy floor;  
 
-The heat-browned toiler's crooning [[Song|song]], the hum of human worth--  
+The heat-browned toiler's crooning song, the hum of human worth--  
 
 Mingled of all the noise of crafts, the ringing word went forth.  
 
@@ -13879,39 +13879,39 @@ The scream of filthy Caesars stabbed high in their brazen halls,
 
 The dim hoarse Hoods of naked men, the worldrealms snapping girth,  
 
-The trumpets of [[Apocalypse]], the darkness of the earth:  
+The trumpets of [[concepts/apocalypse|Apocalypse]], the darkness of the earth:  
 
-The wrath that brake the eternal lamp and hid the eternal [[Hill|hill]],  
+The wrath that brake the eternal lamp and hid the eternal [[motifs/hill|hill]],  
 
 A world's destruction loading, the word went onward still--  
 
 The blaze of creeds passed into it, the hiss of horrid fires,  
 
-The headlong spear, the scarlet [[Cross|cross]], the hair-shirt and the briars,  
+The headlong spear, the scarlet [[motifs/cross|cross]], the hair-shirt and the briars,  
 
-The cloistered brethren's thunderous chaunt, the errant champion's [[Song|song]],  
+The cloistered brethren's thunderous chaunt, the errant champion's song,  
 
 The shifting of the crowns and thrones, the tangle of the strong.  
 
-The shattering fall of crest and [[Crown|crown]] and shield and [[Cross|cross]] and cope,  
+The shattering fall of crest and [[motifs/crown|crown]] and shield and [[motifs/cross|cross]] and cope,  
 
-The tearing of the gauds of [[Time|time]], the blight of prince and pope,  
+The tearing of the gauds of [[motifs/time|time]], the blight of prince and pope,  
 
 The reign of ragged millions leagued to wrench a loaded debt,  
 
 Loud with the many throated roar, the word went forward yet.  
 
-The [[Song|song]] of wheels passed into it, the roaring and the smoke  
+The song of wheels passed into it, the roaring and the smoke  
 
-The [[Riddle|riddle]] of the want and wage, the fogs that burn and choke.  
+The [[forms/riddle|riddle]] of the want and wage, the fogs that burn and choke.  
 
 The breaking of the girths of gold, the needs that creep and swell.  
 
-The strengthening [[Hope|hope]], the dazing light, the deafening evangel,  
+The strengthening [[concepts/hope|hope]], the dazing light, the deafening evangel,  
 
 Through kingdoms dead and empires damned, through changes without cease,  
 
-With earthquake, chaos, born and fed, [[Rose|rose]],--and the word was "Peace."  
+With earthquake, chaos, born and fed, [[motifs/rose|rose]],--and the word was "Peace."  
 
 V  
 
@@ -13919,7 +13919,7 @@ RHYMES FOR THE TIMES
 
 ANTICHRIST, OR THE REUNION OF CHRISTENDOM: AN ODE  
 
-"A BILL WHICH HAS SHOCKED THE [[Conscience|CONSCIENCE]] OF  
+"A BILL WHICH HAS SHOCKED THE [[concepts/conscience|CONSCIENCE]] OF  
 
 EVERY CHRISTIAN COMMUNITY IN EUROPE."--  
 
@@ -13927,15 +13927,15 @@ _Mr. F.E. Smith_, ON THE WELSH DISESTABLISHMENT BILL.
 
 Are they clinging to their crosses,  
 
-F.E. [[smith|Smith]],  
+F.E. Smith,  
 
 Where the Breton boat-fleet tosses,  
 
-Are they, [[smith|Smith]]?  
+Are they, Smith?  
 
 Do they, fasting, tramping, bleeding,  
 
-Wait the news from this our [[City|city]]?  
+Wait the news from this our [[motifs/city|city]]?  
 
 Groaning "That's the Second Reading!"  
 
@@ -13947,15 +13947,15 @@ If McKenna's point has pith,
 
 Do they tremble for their altars?  
 
-Do they, [[smith|Smith]]?  
+Do they, Smith?  
 
 Russian peasants round their pope  
 
-Huddled, [[smith|Smith]],  
+Huddled, Smith,  
 
-Hear about it all, I [[Hope|hope]],  
+Hear about it all, I [[concepts/hope|hope]],  
 
-Don't they, [[smith|Smith]]?  
+Don't they, Smith?  
 
 In the mountain hamlets clothing  
 
@@ -13969,45 +13969,45 @@ Do they read it all in Hansard
 
 With a crib to read it with--  
 
-"Welsh Tithes: Dr. [[Clifford]] Answered,"  
+"Welsh Tithes: Dr. [[characters/clifford|Clifford]] Answered,"  
 
-Really, [[smith|Smith]]?  
+Really, Smith?  
 
 In the lands where Christians were,  
 
-F.E. [[smith|Smith]],  
+F.E. Smith,  
 
 In the little lands laid bare,  
 
-[[smith|Smith]], O [[smith|Smith]]!  
+Smith, O Smith!  
 
 Where the Turkish bands are busy,  
 
 And the Tory name is blessed  
 
-Since they hailed the [[Cross]] of Dizzy  
+Since they hailed the [[motifs/cross|Cross]] of Dizzy  
 
 On the banners from the West!  
 
 Men don't think it half so hard if  
 
-[[Islam]] burns their kin and kith,  
+[[historical-references/islam|Islam]] burns their kin and kith,  
 
 Since a curate lives in Cardiff  
 
-Saved by [[smith|Smith]].  
+Saved by Smith.  
 
 It would greatly, I must own,  
 
-Soothe me, [[smith|Smith]],  
+Soothe me, Smith,  
 
-If you left this theme [[Alone|alone]],  
+If you left this theme alone,  
 
-Holy [[smith|Smith]]!  
+Holy Smith!  
 
 For your legal cause or civil  
 
-You fight [[Well|well]] and get your fee;  
+You fight [[motifs/well|well]] and get your fee;  
 
 For your God or dream or devil  
 
@@ -14019,7 +14019,7 @@ And the Cash that goes therewith!
 
 But the souls of Christian peoples....  
 
---Chuck it, [[smith|Smith]]!  
+--Chuck it, Smith!  
 
 THE REVOLUTIONIST: OR LINES TO A STATESMAN  
 
@@ -14029,11 +14029,11 @@ WAS GOING ON."--_Speech by the Rt. Hon. Walter
 
 Long_.  
 
-When [[Death]] was on thy drums, [[democracy|Democracy]],  
+When [[motifs/death|Death]] was on thy drums, [[concepts/democracy|Democracy]],  
 
 And with one rush of slaves the world was free,  
 
-In that high [[Dawn|dawn]] that Kings shall not forget,  
+In that high [[motifs/dawn|dawn]] that Kings shall not forget,  
 
 A void there was and Walter was not yet.  
 
@@ -14041,7 +14041,7 @@ Through sacked Versailles, at Valmy in the fray,
 
 They did without him in some kind of way;  
 
-Red Christendom all Walterless they [[Cross|cross]],  
+Red Christendom all Walterless they [[motifs/cross|cross]],  
 
 And in their fury hardly feel their loss....  
 
@@ -14049,7 +14049,7 @@ Fades the Republic; faint as Roland's horn,
 
 Her trumpets taunt us with a sacred scorn....  
 
-Then [[Silence|silence]] fell; and Mr. Long was born.  
+Then [[motifs/silence|silence]] fell; and Mr. Long was born.  
 
 From his first hours in his expensive cot  
 
@@ -14069,9 +14069,9 @@ The rich might still be rulers of the land.
 
 Vain are the pious arts of parenthood,  
 
-Foiled Revolution bubbled in his [[Blood|blood]];  
+Foiled Revolution bubbled in his [[motifs/blood|blood]];  
 
-Until one day (the babe [[unborn]] shall rue it)  
+Until one day (the babe unborn shall rue it)  
 
 The Constitution bored him and he slew it.  
 
@@ -14079,13 +14079,13 @@ If I were wise and good and rich and strong--
 
 Fond, impious thought, if I were Walter Long--  
 
-If I could [[Water|water]] sell like molten gold,  
+If I could [[motifs/water|water]] sell like molten gold,  
 
 And make grown people do as they are told,  
 
 If over private fields and wastes as wide  
 
-As a Greek [[City|city]] for which heroes died,  
+As a Greek [[motifs/city|city]] for which heroes died,  
 
 I owned the houses and the men inside--  
 
@@ -14111,7 +14111,7 @@ Lest man by chance should look at me and see me;
 
 Lest men should ask what madman made me lord  
 
-Of English ploughshares and the English [[Sword|sword]];  
+Of English ploughshares and the English sword;  
 
 Lest men should mark how sleepy is the nod  
 
@@ -14131,11 +14131,11 @@ And if you goad it these grey rules to break,
 
 For a few pence, see that you do not wake  
 
-[[Death]] and the splendour of the scarlet cap,  
+[[motifs/death|Death]] and the splendour of the scarlet cap,  
 
 Boston and Valmy, Yorktown and Jemmappes,  
 
-[[Freedom]] in arms, the riding and the routing,  
+[[concepts/freedom|Freedom]] in arms, the riding and the routing,  
 
 The thunder of the captains and the shouting,  
 
@@ -14151,7 +14151,7 @@ That Shakespeare should be quite
 
 And therefore got on a Committee  
 
-With several chaps out of the [[City|city]].  
+With several chaps out of the [[motifs/city|city]].  
 
 And Shorter and Sir Herbert Tree,  
 
@@ -14213,11 +14213,11 @@ Lord Lilac was of slighter stuff;
 
 Lord Lilac had had quite enough.  
 
-THE HORRIBLE [[history|HISTORY]] OF [[Jones|JONES]]  
+THE HORRIBLE [[concepts/history|HISTORY]] OF [[characters/jones|JONES]]  
 
-[[Jones]] had a dog; it had a chain;  
+[[characters/jones|Jones]] had a dog; it had a chain;  
 
-Not often worn, not causing [[Pain|pain]];  
+Not often worn, not causing [[motifs/pain|pain]];  
 
 But, as the I.K.L. had passed  
 
@@ -14237,7 +14237,7 @@ For being Audibly at Large.
 
 None, you will say, were now annoyed,  
 
-Save haply [[Jones]]--the yard was void.  
+Save haply [[characters/jones|Jones]]--the yard was void.  
 
 But something being in the lease  
 
@@ -14251,11 +14251,11 @@ Now if there's one condition
 
 The C.C.P. are strong upon  
 
-It is that every [[house]] one buys  
+It is that every house one buys  
 
 Must have a yard for exercise;  
 
-So [[Jones]], as tenant, was unfit.  
+So [[characters/jones|Jones]], as tenant, was unfit.  
 
 His state of health was proof of it.  
 
@@ -14283,13 +14283,13 @@ To see him sitting limbless there
 
 Was more than the K.K. could bear  
 
-"In [[Mercy|mercy]] [[Silence|silence]] with all [[Speed|speed]]  
+"In [[concepts/mercy|mercy]] [[motifs/silence|silence]] with all [[characters/speed|speed]]  
 
 That mouth there are no hands to feed;  
 
 What cruel sentimentalist,  
 
-O [[Jones]], would doom thee to exist--  
+O [[characters/jones|Jones]], would doom thee to exist--  
 
 Clinging to selfish Selfhood yet?  
 
@@ -14303,13 +14303,13 @@ Let us construct you up a bit--"
 
 The head fell off when it was hit:  
 
-Then words did rise and honest [[Doubt|doubt]],  
+Then words did rise and honest [[concepts/doubt|doubt]],  
 
 And four Commissions sat about  
 
 Whether the slash that left him dead  
 
-Cut off his [[Body|body]] or his head.  
+Cut off his [[concepts/body|body]] or his head.  
 
 An author in the Isle of Wight  
 
@@ -14317,7 +14317,7 @@ Observed with unconcealed delight
 
 A land of old and just renown  
 
-Where [[Freedom]] slowly broadened down  
+Where [[concepts/freedom|Freedom]] slowly broadened down  
 
 From Precedent to Precedent....  
 
@@ -14327,7 +14327,7 @@ THE NEW FREETHINKER
 
 John Grubby, who was short and stout  
 
-And troubled with religious [[Doubt|doubt]],  
+And troubled with religious [[concepts/doubt|doubt]],  
 
 Refused about the age of three  
 
@@ -14337,7 +14337,7 @@ To sit upon the curate's knee;
 
 Between the spirit of the age  
 
-And Dogma, which, as is [[Well|well]] known.  
+And Dogma, which, as is [[motifs/well|well]] known.  
 
 Does simply hate to be outgrown).  
 
@@ -14357,11 +14357,11 @@ The altars reeled, the hen-ens shook,
 
 Just as he read of in the book;  
 
-Flung from his [[house]] went forth the youth  
+Flung from his house went forth the youth  
 
-[[Alone]] with tempests and the [[Truth]],  
+[[works/alone-(poe)|Alone]] with tempests and the [[concepts/truth|Truth]],  
 
-Up to the distant [[City|city]] and dim  
+Up to the distant [[motifs/city|city]] and dim  
 
 Where his papa had bought for him  
 
@@ -14383,21 +14383,21 @@ Enrich a man more rapidly:
 
 Twas he that stopped the Strike in Coal,  
 
-For hungry children racked his [[Soul|soul]];  
+For hungry children racked his [[motifs/soul|soul]];  
 
 To end their misery there and then  
 
 He filled the mines with Chinamen--  
 
-Sat in that [[house|House]] that broke the Kings,  
+Sat in that House that broke the Kings,  
 
 And voted for all sores of things--  
 
-And [[Rose|rose]] from Under-Sec. to Sec.  
+And [[motifs/rose|rose]] from Under-Sec. to Sec.  
 
 Some grumbled. Growlers who gave less  
 
-Than generous worship to [[success]],  
+Than generous worship to success,  
 
 The little printers in Dundee  
 
@@ -14409,7 +14409,7 @@ Respect him rather less than heaven.
 
 No matter. This can still be said:  
 
-Never to [[Supernatural|supernatural]] dread,  
+Never to [[motifs/supernatural|supernatural]] dread,  
 
 Never to unseen deity,  
 
@@ -14429,7 +14429,7 @@ His lap still empty of renown,
 
 And still across the waste of years  
 
-John Grubby, in the [[house|House]] of Peers,  
+John Grubby, in the House of Peers,  
 
 Faces that curate, proud and free,  
 
@@ -14449,7 +14449,7 @@ A bugle through the blackness of the world,
 
 An English hand would touch your shroud, in trust  
 
-That [[Truth|truth]] again be told in English speech.  
+That [[concepts/truth|truth]] again be told in English speech.  
 
 And we too yet may practise what we preach,  
 
@@ -14470,7 +14470,7 @@ Il martellare sui tetti al mattino, il fragore operoso dell'officina;
 
 Il sibilo dei trucioli ammucchiati fondi sul pavimento ventoso;  
 
-Il sommesso [[Song|canto]] del lavoratore brunito dal fuoco, il ronzio dell'umano valore--  
+Il sommesso canto del lavoratore brunito dal fuoco, il ronzio dell'umano valore--  
 
 Mescolata a tutto il rumore dei mestieri, la parola squillante andò innanzi.  
 
@@ -14496,39 +14496,39 @@ L'urlo dei Cesari immondi pugnalati in alto nelle sale di bronzo,
 
 Le fioche rauche Fiumane di uomini nudi, la cinghia dei regni del mondo che si spezza,  
 
-Le trombe dell'[[Apocalypse]], la tenebra della terra:  
+Le trombe dell'[[concepts/apocalypse|Apocalypse]], la tenebra della terra:  
 
-L'ira che infranse la lampada eterna e nascose l'eterno [[Hill|colle]],  
+L'ira che infranse la lampada eterna e nascose l'eterno [[motifs/hill|colle]],  
 
 Carica della distruzione d'un mondo, la parola procedeva ancora--  
 
 La vampa dei credi vi passò dentro, il sibilo di fuochi orrendi,  
 
-La lancia a capofitto, la scarlatta [[Cross|croce]], il cilicio e i rovi,  
+La lancia a capofitto, la scarlatta [[motifs/cross|croce]], il cilicio e i rovi,  
 
-Il canto tonante dei fratelli claustrali, il [[Song|canto]] del campione errante,  
+Il canto tonante dei fratelli claustrali, il canto del campione errante,  
 
 Il mutare di corone e troni, il groviglio dei forti.  
 
-Il crollo fragoroso di cimiero e [[Crown|corona]] e scudo e [[Cross|croce]] e piviale,  
+Il crollo fragoroso di cimiero e [[motifs/crown|corona]] e scudo e [[motifs/cross|croce]] e piviale,  
 
-Lo strappo dei fronzoli del [[Time|tempo]], la rovina di principe e papa,  
+Lo strappo dei fronzoli del [[motifs/time|tempo]], la rovina di principe e papa,  
 
 Il regno di milioni cenciosi uniti a strappare un debito gravoso,  
 
 Alta del ruggito di mille gole, la parola avanzava ancora.  
 
-Il [[Song|canto]] delle ruote vi passò dentro, il fragore e il fumo  
+Il canto delle ruote vi passò dentro, il fragore e il fumo  
 
-L'[[Riddle|enigma]] del bisogno e del salario, le nebbie che bruciano e soffocano.  
+L'[[forms/riddle|enigma]] del bisogno e del salario, le nebbie che bruciano e soffocano.  
 
 Lo spezzarsi delle cinghie d'oro, i bisogni che strisciano e gonfiano.  
 
-La [[Hope|speranza]] che rinvigorisce, la luce che abbaglia, l'evangelo assordante,  
+La [[concepts/hope|speranza]] che rinvigorisce, la luce che abbaglia, l'evangelo assordante,  
 
 Per regni morti e imperi dannati, per mutamenti senza posa,  
 
-Con terremoto, caos, nata e nutrita, [[Rose|sorse]],--e la parola fu "Pace."  
+Con terremoto, caos, nata e nutrita, [[motifs/rose|sorse]],--e la parola fu "Pace."  
 
 V  
 
@@ -14536,7 +14536,7 @@ RIME PER I TEMPI
 
 ANTICRISTO, O LA RIUNIONE DELLA CRISTIANITÀ: UN'ODE  
 
-"UN PROGETTO DI LEGGE CHE HA SCOSSO LA [[Conscience|COSCIENZA]] DI  
+"UN PROGETTO DI LEGGE CHE HA SCOSSO LA [[concepts/conscience|COSCIENZA]] DI  
 
 OGNI COMUNITÀ CRISTIANA D'EUROPA."--  
 
@@ -14544,15 +14544,15 @@ _Mr. F.E. Smith_, SUL WELSH DISESTABLISHMENT BILL.
 
 Si aggrappano alle loro croci,  
 
-F.E. [[smith|Smith]],  
+F.E. Smith,  
 
 Dove beccheggia la flotta bretone,  
 
-Lo fanno, [[smith|Smith]]?  
+Lo fanno, Smith?  
 
 Forse, digiunando, arrancando, sanguinando,  
 
-Attendono notizie da questa nostra [[City|città]]?  
+Attendono notizie da questa nostra [[motifs/city|città]]?  
 
 Gemendo "Ecco la Seconda Lettura!"  
 
@@ -14564,15 +14564,15 @@ Se l'argomento di McKenna ha midollo,
 
 Tremano per i loro altari?  
 
-Lo fanno, [[smith|Smith]]?  
+Lo fanno, Smith?  
 
 I contadini russi attorno al loro pope  
 
-Stretti, [[smith|Smith]],  
+Stretti, Smith,  
 
-Ne sanno tutto, io [[Hope|spero]],  
+Ne sanno tutto, io [[concepts/hope|spero]],  
 
-Non è vero, [[smith|Smith]]?  
+Non è vero, Smith?  
 
 Nei borghi montani che rivestono  
 
@@ -14586,45 +14586,45 @@ Leggono tutto questo su Hansard
 
 Con un sussidio per decifrarlo--  
 
-"Decime Gallesi: Dr. [[Clifford]] Confutato,"  
+"Decime Gallesi: Dr. [[characters/clifford|Clifford]] Confutato,"  
 
-Davvero, [[smith|Smith]]?  
+Davvero, Smith?  
 
 Nelle terre dove i cristiani furono,  
 
-F.E. [[smith|Smith]],  
+F.E. Smith,  
 
 Nelle piccole terre spogliate,  
 
-[[smith|Smith]], O [[smith|Smith]]!  
+Smith, O Smith!  
 
 Dove le bande turche s'affaccendano,  
 
 E il nome Tory è benedetto  
 
-Da quando salutarono la [[Cross]] di Dizzy  
+Da quando salutarono la [[motifs/cross|Cross]] di Dizzy  
 
 Sulle bandiere venute dall'Ovest!  
 
 Gli uomini non la trovano poi tanto dura se  
 
-L'[[Islam]] brucia i loro cari e congiunti,  
+L'[[historical-references/islam|Islam]] brucia i loro cari e congiunti,  
 
 Poiché un curato vive a Cardiff  
 
-Salvato da [[smith|Smith]].  
+Salvato da Smith.  
 
 Gran conforto, devo ammettere,  
 
-Mi daresti, [[smith|Smith]],  
+Mi daresti, Smith,  
 
-Se questo tema lo lasciassi [[Alone|stare]],  
+Se questo tema lo lasciassi stare,  
 
-Santo [[smith|Smith]]!  
+Santo Smith!  
 
 Per la tua causa legale o civile  
 
-Combatti [[Well|bene]] e prendi la parcella;  
+Combatti [[motifs/well|bene]] e prendi la parcella;  
 
 Per il tuo Dio o sogno o diavolo  
 
@@ -14636,7 +14636,7 @@ E del Denaro che vi va appresso!
 
 Ma le anime dei popoli cristiani....  
 
---Piantala, [[smith|Smith]]!  
+--Piantala, Smith!  
 
 IL RIVOLUZIONARIO: OVVERO VERSI A UN UOMO DI STATO  
 
@@ -14646,11 +14646,11 @@ ERA IN CORSO."--_Discorso del Rt. Hon. Walter
 
 Long_.  
 
-Quando la [[Death]] era sui tuoi tamburi, [[democracy|Democrazia]],  
+Quando la [[motifs/death|Death]] era sui tuoi tamburi, [[concepts/democracy|Democrazia]],  
 
 E con un solo impeto di schiavi il mondo fu libero,  
 
-In quell'alta [[Dawn|alba]] che i Re non scorderanno,  
+In quell'alta [[motifs/dawn|alba]] che i Re non scorderanno,  
 
 V'era un vuoto e Walter ancora non era.  
 
@@ -14658,7 +14658,7 @@ Per Versailles saccheggiata, a Valmy nella mischia,
 
 Fecero senza di lui in qualche modo;  
 
-La rossa Cristianità tutta senza Walter [[Cross|attraversano]],  
+La rossa Cristianità tutta senza Walter [[motifs/cross|attraversano]],  
 
 E nella loro furia appena avvertono la perdita....  
 
@@ -14666,7 +14666,7 @@ Svanisce la Repubblica; fioca come il corno di Roland,
 
 Le sue trombe ci scherniscono con sacro sdegno....  
 
-Poi cadde il [[Silence|silenzio]]; e nacque Mr. Long.  
+Poi cadde il [[motifs/silence|silenzio]]; e nacque Mr. Long.  
 
 Dalle sue prime ore nella costosa culla  
 
@@ -14686,9 +14686,9 @@ I ricchi potevano ancora reggere il paese.
 
 Vane sono le pie arti dei genitori,  
 
-La Rivoluzione frustrata gli ribolliva nel [[Blood|sangue]];  
+La Rivoluzione frustrata gli ribolliva nel [[motifs/blood|sangue]];  
 
-Finché un giorno (il bimbo [[unborn]] lo piangerà)  
+Finché un giorno (il bimbo unborn lo piangerà)  
 
 La Costituzione lo annoiò ed egli la uccise.  
 
@@ -14696,13 +14696,13 @@ Fossi io saggio e buono e ricco e forte--
 
 Folle, empio pensiero, fossi io Walter Long--  
 
-Potessi l'[[Water|acqua]] vendere come oro fuso,  
+Potessi l'[[motifs/water|acqua]] vendere come oro fuso,  
 
 E far fare agli adulti ciò che si comanda,  
 
 Se su campi privati e lande vaste  
 
-Quanto una [[City|città]] greca per cui morirono eroi,  
+Quanto una [[motifs/city|città]] greca per cui morirono eroi,  
 
 Possedessi le case e gli uomini dentro--  
 
@@ -14728,7 +14728,7 @@ Che l'uomo per caso non mi guardi e mi veda;
 
 Che gli uomini non chiedano quale folle mi fece signore  
 
-Dei vomeri inglesi e della [[Sword|spada]] inglese;  
+Dei vomeri inglesi e della spada inglese;  
 
 Che gli uomini non notino quanto sonnolento è il cenno  
 
@@ -14748,11 +14748,11 @@ E se la sproni a infrangere queste grigie regole,
 
 Per pochi spiccioli, bada a non destare  
 
-La [[Death]] e lo splendore del berretto scarlatto,  
+La [[motifs/death|Death]] e lo splendore del berretto scarlatto,  
 
 Boston e Valmy, Yorktown e Jemmappes,  
 
-La [[Freedom]] in armi, le cavalcate e le rotte,  
+La [[concepts/freedom|Freedom]] in armi, le cavalcate e le rotte,  
 
 Il tuono dei capitani e il clamore,  
 
@@ -14768,7 +14768,7 @@ Che Shakespeare fosse del tutto
 
 E perciò entrò in un Comitato  
 
-Con parecchi tizi venuti dalla [[City|città]].  
+Con parecchi tizi venuti dalla [[motifs/city|città]].  
 
 E Shorter e Sir Herbert Tree,  
 
@@ -14830,11 +14830,11 @@ Lord Lilac era di stoffa più lieve;
 
 Lord Lilac ne aveva avuto abbastanza.  
 
-L'ORRIBILE [[history|STORIA]] DI [[Jones|JONES]]  
+L'ORRIBILE [[concepts/history|STORIA]] DI [[characters/jones|JONES]]  
 
-[[Jones]] aveva un cane; esso una catena;  
+[[characters/jones|Jones]] aveva un cane; esso una catena;  
 
-Non spesso portata, senza dar [[Pain|pena]];  
+Non spesso portata, senza dar [[motifs/pain|pena]];  
 
 Ma, poiché la I.K.L. aveva approvato  
 
@@ -14854,7 +14854,7 @@ Per essere Udibilmente a Piede Libero.
 
 Nessuno, direte, era ormai molestato,  
 
-Salvo forse [[Jones]]--il cortile era vuoto.  
+Salvo forse [[characters/jones|Jones]]--il cortile era vuoto.  
 
 Ma essendoci qualcosa nel contratto  
 
@@ -14868,11 +14868,11 @@ Ora se c'è una condizione
 
 Su cui la C.C.P. è irremovibile  
 
-È che ogni [[house]] che si compra  
+È che ogni house che si compra  
 
 Deve avere un cortile per l'esercizio;  
 
-Così [[Jones]], come inquilino, era inidoneo.  
+Così [[characters/jones|Jones]], come inquilino, era inidoneo.  
 
 Il suo stato di salute ne era la prova.  
 
@@ -14900,13 +14900,13 @@ Vederlo seduto lì senza arti
 
 Era più di quanto la K.K. potesse reggere  
 
-"Per [[Mercy|pietà]] [[Silence|zittite]] con ogni [[Speed|prontezza]]  
+"Per [[concepts/mercy|pietà]] [[motifs/silence|zittite]] con ogni [[characters/speed|prontezza]]  
 
 Quella bocca che non ha mani per nutrirla;  
 
 Quale crudele sentimentale,  
 
-O [[Jones]], ti condannerebbe a esistere--  
+O [[characters/jones|Jones]], ti condannerebbe a esistere--  
 
 Aggrappato ancora all'egoistica Individualità?  
 
@@ -14920,13 +14920,13 @@ Lascia che ti costruiamo un poco--"
 
 La testa cadde quando fu colpita:  
 
-Allora sorsero parole e onesto [[Doubt|dubbio]],  
+Allora sorsero parole e onesto [[concepts/doubt|dubbio]],  
 
 E quattro Commissioni sedettero a discutere  
 
 Se il fendente che lo lasciò morto  
 
-Gli mozzò il [[Body|corpo]] o la testa.  
+Gli mozzò il [[concepts/body|corpo]] o la testa.  
 
 Un autore nell'Isle of Wight  
 
@@ -14934,7 +14934,7 @@ Osservò con non celato diletto
 
 Una terra di antica e giusta fama  
 
-Dove la [[Freedom]] lenta si allargava  
+Dove la [[concepts/freedom|Freedom]] lenta si allargava  
 
 Di Precedente in Precedente....  
 
@@ -14944,7 +14944,7 @@ IL NUOVO LIBERO PENSATORE
 
 John Grubby, che era basso e tarchiato  
 
-E afflitto da [[Doubt|dubbio]] religioso,  
+E afflitto da [[concepts/doubt|dubbio]] religioso,  
 
 Rifiutò verso i tre anni  
 
@@ -14954,7 +14954,7 @@ Di sedersi sul ginocchio del curato;
 
 Tra lo spirito del tempo  
 
-E il Dogma, che, com'è [[Well|ben]] noto.  
+E il Dogma, che, com'è [[motifs/well|ben]] noto.  
 
 Detesta semplicemente d'essere superato).  
 
@@ -14974,11 +14974,11 @@ Gli altari vacillarono, i cieli tremarono,
 
 Proprio come aveva letto nel libro;  
 
-Scagliato dalla sua [[house]] uscì il giovane  
+Scagliato dalla sua house uscì il giovane  
 
-[[Alone]] con le tempeste e la [[Truth]],  
+[[works/alone-(poe)|Alone]] con le tempeste e la [[concepts/truth|Truth]],  
 
-Su verso la lontana [[City|città]] e fosca  
+Su verso la lontana [[motifs/city|città]] e fosca  
 
 Dove il suo papà gli aveva comprato  
 
@@ -15000,21 +15000,21 @@ Arricchì un uomo più in fretta:
 
 Fu lui a fermare lo Sciopero del Carbone,  
 
-Ché i bimbi affamati gli straziavano l'[[Soul|anima]];  
+Ché i bimbi affamati gli straziavano l'[[motifs/soul|anima]];  
 
 Per finire la loro miseria lì e subito  
 
 Riempì le miniere di cinesi--  
 
-Sedette in quella [[house|Camera]] che spezzò i Re,  
+Sedette in quella Camera che spezzò i Re,  
 
 E votò per ogni sorta di cose--  
 
-E [[Rose|salì]] da Sotto-Segr. a Segr.  
+E [[motifs/rose|salì]] da Sotto-Segr. a Segr.  
 
 Alcuni brontolarono. Ringhiosi che davano meno  
 
-Che generoso culto al [[success]],  
+Che generoso culto al success,  
 
 I piccoli tipografi di Dundee  
 
@@ -15026,7 +15026,7 @@ Lo rispettano un po' meno del cielo.
 
 Non importa. Questo si può ancora dire:  
 
-Mai a [[Supernatural|soprannaturale]] terrore,  
+Mai a [[motifs/supernatural|soprannaturale]] terrore,  
 
 Mai a deità invisibile,  
 
@@ -15046,7 +15046,7 @@ Il suo grembo ancora vuoto di fama,
 
 E ancora attraverso il deserto degli anni  
 
-John Grubby, nella [[house|Camera]] dei Pari,  
+John Grubby, nella Camera dei Pari,  
 
 Affronta quel curato, fiero e libero,  
 
@@ -15066,7 +15066,7 @@ Una tromba attraverso il buio del mondo,
 
 Una mano inglese toccherebbe il tuo sudario, fidando  
 
-Che la [[Truth|verità]] sia detta ancora in lingua inglese.  
+Che la [[concepts/truth|verità]] sia detta ancora in lingua inglese.  
 
 E anche noi ancora potremo praticare ciò che predichiamo,  
 
@@ -15089,11 +15089,11 @@ Heed not if half-wits mock your broken blade:
 
 Mammon our master doeth all things ill.  
 
-You are the [[Fool]] that charged a windmill. Still,  
+You are the [[archetypes/fool|Fool]] that charged a windmill. Still,  
 
 The Miller is a Knave; and was afraid.  
 
-Lay down your [[Sword|sword]]. Ruin will know her own.  
+Lay down your sword. Ruin will know her own.  
 
 Let each small statesman sow his weak wild oat,  
 
@@ -15101,15 +15101,15 @@ Or turn his coat to decorate his coat,
 
 Or take the throne and perish by the throne.  
 
-Lay down your [[Sword|sword]]. And let the White [[Flag]] fade  
+Lay down your sword. And let the White [[motifs/flag|Flag]] fade  
 
-To grey; and let the Red [[Flag]] fade to pink,  
+To grey; and let the Red [[motifs/flag|Flag]] fade to pink,  
 
 For these that climb and climb; and cannot sink  
 
-So deep as [[Death|death]] and [[Honour|honour]], Déroulède.  
+So deep as [[motifs/death|death]] and [[concepts/honour|honour]], Déroulède.  
 
-[[Sonnet|SONNET]] WITH THE COMPLIMENTS OF THE SEASON  
+[[forms/sonnet|SONNET]] WITH THE COMPLIMENTS OF THE SEASON  
 
 TO A POPULAR LEADER MUCH TO BE CONGRATULATED  
 
@@ -15119,21 +15119,21 @@ I know you. You will hail the huge release,
 
 Saying the sheathing of a thousand swords,  
 
-In [[Silence|silence]] and injustice, [[Well|well]] accords  
+In [[motifs/silence|silence]] and injustice, [[motifs/well|well]] accords  
 
-With Christmas [[Bells|bells]]. And you will gild with grease  
+With Christmas [[motifs/bells|bells]]. And you will gild with grease  
 
 The papers, the employers, the police,  
 
 And vomit up the void your windy words  
 
-To your New [[Christ]]; who bears no whip of cords  
+To your New [[characters/christ|Christ]]; who bears no whip of cords  
 
 For them that traffic in the doves of peace.  
 
 The feast of friends, the candle-fruited tree,  
 
-I have not failed to [[Honour|honour]]. And I say  
+I have not failed to [[concepts/honour|honour]]. And I say  
 
 It would be better for such men as we,  
 
@@ -15143,13 +15143,13 @@ Shot dead on scarlet snows for liberty,
 
 Dead in the daylight upon Christmas Day.  
 
-A [[Song|SONG]] OF SWORDS  
+A SONG OF SWORDS  
 
 "A DROVE OF CATTLE CAME INTO A VILLAGE CALLED  
 
 SWORDS, AND WAS STOPPED BY THE RIOTERS."---_Daily Paper_.  
 
-In the place called Swords on the Irish [[Road|road]]  
+In the place called Swords on the Irish [[motifs/road|road]]  
 
 It is told for a new renown  
 
@@ -15167,9 +15167,9 @@ And light on the cruel lords,
 
 On the souls that suddenly all men knew,  
 
-And the green [[Flag|flag]] flew and the red [[Flag|flag]] flew,  
+And the green [[motifs/flag|flag]] flew and the red [[motifs/flag|flag]] flew,  
 
-And many a [[Wheel|wheel]] of the world stopped, too,  
+And many a [[motifs/wheel|wheel]] of the world stopped, too,  
 
 When the cattle were stopped at Swords.  
 
@@ -15185,7 +15185,7 @@ Lords of the lawless wage and low.
 
 This is your lawful wage.  
 
-You pinched a [[Child|child]] to a torture price  
+You pinched a [[archetypes/child|child]] to a torture price  
 
 That you dared not name in words;  
 
@@ -15197,11 +15197,11 @@ And the coward was plain as a cow they hit
 
 When the cattle have strayed at Swords.  
 
-The [[Wheel|wheel]] of the torment of wives went round  
+The [[motifs/wheel|wheel]] of the torment of wives went round  
 
 To break men's brotherhood;  
 
-You gave the good Irish [[Blood|blood]] to grease  
+You gave the good Irish [[motifs/blood|blood]] to grease  
 
 The clubs of your country's enemies;  
 
@@ -15215,9 +15215,9 @@ The longest of hangmen's cords;
 
 But the kings and crowds are holding their bream,  
 
-In a giant [[Shadow|shadow]] o'er all beneath  
+In a giant [[archetypes/shadow|shadow]] o'er all beneath  
 
-Where God stands holding the scales of [[Death]]  
+Where God stands holding the scales of [[motifs/death|Death]]  
 
 Between the cattle and Swords.  
 
@@ -15241,17 +15241,17 @@ Still mark that place to seek or shun,
 
 In the streets where the struggling cattle run--  
 
-Grass and a [[Silence|silence]] of judgment done  
+Grass and a [[motifs/silence|silence]] of judgment done  
 
 In the place that is called Swords.  
 
-A [[Song|SONG]] OF DEFEAT  
+A SONG OF DEFEAT  
 
 The line breaks and the guns go under,  
 
 The lords and the lackeys ride the plain;  
 
-I draw deep breaths of the [[Dawn|dawn]] and thunder,  
+I draw deep breaths of the [[motifs/dawn|dawn]] and thunder,  
 
 And the whole of my heart grows young again.  
 
@@ -15269,7 +15269,7 @@ As once in my life they throbbed and reeled;
 
 I have found ray youth in the lost battle,  
 
-I have found my heart on the [[Battlefield|battlefield]].  
+I have found my heart on the [[settings/battlefield|battlefield]].  
 
 For we that fight till the world is free,  
 
@@ -15289,7 +15289,7 @@ And proud of seeing our names in print.
 
 For so they conquered and so we scattered,  
 
-When the Devil rode and his [[dogs]] smelt gold,  
+When the Devil rode and his dogs smelt gold,  
 
 And the peace of a harmless folk was shattered;  
 
@@ -15299,13 +15299,13 @@ When the mongrel men that the market classes
 
 Had slimy hands upon England's rod,  
 
-And [[Sword|sword]] in hand upon Afric's passes  
+And sword in hand upon Afric's passes  
 
 Her last Republic cried to God.  
 
 For the men no lords can buy or sell,  
 
-They sit not easy when all goes [[Well|well]].  
+They sit not easy when all goes [[motifs/well|well]].  
 
 They have said to each other what naught can smother,  
 
@@ -15319,9 +15319,9 @@ The huckster who, mocking holy anger,
 
 Painfully paints his face with rage.  
 
-And the [[Faith|faith]] of the poor is faint and partial,  
+And the [[concepts/faith|faith]] of the poor is faint and partial,  
 
-And the [[Pride|pride]] of the rich is all for sale,  
+And the [[concepts/pride|pride]] of the rich is all for sale,  
 
 And the chosen heralds of England's Marshal  
 
@@ -15331,19 +15331,19 @@ And the niggards that dare not give are glutted,
 
 And the feeble that dare not fail are strong,  
 
-So while the [[City]] of Toil is gutted,  
+So while the [[motifs/city|City]] of Toil is gutted,  
 
-I sit in the saddle and sing my [[Song|song]].  
+I sit in the saddle and sing my song.  
 
 For we that fight till the world is free,  
 
 We have no comfort in victory;  
 
-We have read each other as [[Cain]] his brother,  
+We have read each other as [[characters/cain|Cain]] his brother,  
 
 We know each other, these slaves and we.  
 
-[[Sonnet|SONNET]]  
+[[forms/sonnet|SONNET]]  
 
 ON HEARING A LANDLORD ACCUSED (FALSELY, FOR  
 
@@ -15353,7 +15353,7 @@ NUMEROUS WHITE HORSES THAT WERE OR WERE NOT
 
 CONNECTED WITH ALFRED THE GREAT  
 
-If you have picked your lawn of [[Leaves|leaves]] and snails,  
+If you have picked your lawn of [[motifs/leaves|leaves]] and snails,  
 
 If you have told your valet, even with oaths,  
 
@@ -15361,17 +15361,17 @@ Once a week or so, to brush your clothes.
 
 If you have dared to clean your teeth, or nails,  
 
-While the [[Horse]] upon the holy mountain fails--  
+While the [[motifs/horse|Horse]] upon the holy mountain fails--  
 
 Then God that Alfred to his earth betrothes  
 
-Send on you screaming all that [[Honour|honour]] loathes,  
+Send on you screaming all that [[concepts/honour|honour]] loathes,  
 
 Horsewhipping, Hounsditch, debts, and _Daily Mails_.  
 
 Can you not even conserve? For if indeed  
 
-The White [[Horse]] fades; then closer creeps the fight  
+The White [[motifs/horse|Horse]] fades; then closer creeps the fight  
 
 When we shall scour the face of England white,  
 
@@ -15389,7 +15389,7 @@ Dreamed here, men say, to drive us to the sea:
 
 O let us drive ourselves! For it is free  
 
-And smells of [[Honour|honour]] and of English things.  
+And smells of [[concepts/honour|honour]] and of English things.  
 
 How came we brawling by these bitter springs,  
 
@@ -15407,15 +15407,15 @@ Be native here, and fat and full of bread;
 
 But we, whose sins were human, we will quit  
 
-The land of [[Blood|blood]], and leave these vultures there,  
+The land of [[motifs/blood|blood]], and leave these vultures there,  
 
 Noiselessly happy, feeding on the dead.  
 
-THE DEAD [[Hero|HERO]]  
+THE DEAD [[archetypes/hero|HERO]]  
 
 We never saw you, like our sires,  
 
-For whom your face was [[Freedom]]'s face,  
+For whom your face was [[concepts/freedom|Freedom]]'s face,  
 
 Nor know what office-tapes and wires  
 
@@ -15437,13 +15437,13 @@ Not till your course was thundered through,
 
 Did Mammon see his kingdom come.  
 
-The [[songs]] of theft, the swords of hire,  
+The songs of theft, the swords of hire,  
 
 The clerks that raved, the troops that ran  
 
-The empire of the world's [[Desire|desire]],  
+The empire of the world's [[motifs/desire|desire]],  
 
-The [[Dance|dance]] of all the dirt began.  
+The [[motifs/dance|dance]] of all the dirt began.  
 
 The happy jewelled alien men  
 
@@ -15451,21 +15451,21 @@ Worked then but as a little leaven;
 
 From some more modest palace then  
 
-The [[Soul]] of Dives stank to Heaven.  
+The [[motifs/soul|Soul]] of Dives stank to Heaven.  
 
 But when they planned with lisp and leer  
 
 Their careful war upon the weak,  
 
-They smote your [[Body|body]] on its bier,  
+They smote your [[concepts/body|body]] on its bier,  
 
 For surety that you could not speak.  
 
-A [[Hero|hero]] in the [[Desert|desert]] died;  
+A [[archetypes/hero|hero]] in the [[motifs/desert|desert]] died;  
 
 Men cried that saints should bury him.  
 
-And round the [[Grave|grave]] should guard and ride,  
+And round the [[motifs/grave|grave]] should guard and ride,  
 
 A chivalry of Cherubim.  
 
@@ -15509,7 +15509,7 @@ Dead we have been but not so dead
 
 As these that live on the life they squandered,  
 
-As these that drink of the [[Blood|blood]] they shed.  
+As these that drink of the [[motifs/blood|blood]] they shed.  
 
 We never boasted the thing we blundered,  
 
@@ -15527,19 +15527,19 @@ It was not we that sounded the trumpet
 
 In front of the triumph of wrecks and rags.  
 
-[[Fear]] not these, they have made their bargain,  
+[[concepts/fear|Fear]] not these, they have made their bargain,  
 
 They have counted the cost of the last of raids,  
 
 They have staked their lives on the things that live not,  
 
-They have burnt their [[house]] for a [[Fire|fire]] that fades.  
+They have burnt their house for a [[motifs/fire|fire]] that fades.  
 
 Five years ago and we might have feared them,  
 
 Been drubbed by the coward and taught by the dunce;  
 
-[[Truth]] may endure and be told and re-echoed,  
+[[concepts/truth|Truth]] may endure and be told and re-echoed,  
 
 But a lie can never be young but once.  
 
@@ -15551,21 +15551,21 @@ There shall naught go up from our hosts assembled
 
 But a laugh like thunder. We know them now.  
 
-THE [[Song|SONG]] OF THE WHEELS  
+THE SONG OF THE WHEELS  
 
 WRITTEN DURING A FRIDAY AND SATURDAY IN AUGUST 1911.  
 
-[[King]] Dives he was waiting in his [[Garden|garden]] all [[Alone|alone]],  
+[[archetypes/king|King]] Dives he was waiting in his [[motifs/garden|garden]] all alone,  
 
-Where his [[Flowers|flowers]] are made of iron and his trees are made of stone,  
+Where his [[motifs/flowers|flowers]] are made of iron and his trees are made of stone,  
 
-And his hives are full of thunder and the [[Lightning|lightning]] leaps and kills,  
+And his hives are full of thunder and the [[motifs/lightning|lightning]] leaps and kills,  
 
 For the mills of God grind slowly; and he works with other mills.  
 
-Dives found a mighty [[Silence|silence]]; and he missed the throb and leap,  
+Dives found a mighty [[motifs/silence|silence]]; and he missed the throb and leap,  
 
-The noise of all the sleepless creatures singing him to [[Sleep|sleep]].  
+The noise of all the sleepless creatures singing him to [[motifs/sleep|sleep]].  
 
 And he said: "A screw has fallen--or a bolt has slipped aside--  
 
@@ -15585,13 +15585,13 @@ We are only men, master, have you heard of men?
 
 "O, they live on earth like fishes, and a gasp is all their breath.  
 
-God for empty honours only gave them [[Death|death]] and scorn of [[Death|death]],  
+God for empty honours only gave them [[motifs/death|death]] and scorn of [[motifs/death|death]],  
 
 And you walk the worms for carpet and you tread a stone that squeals--  
 
 Only, God that made them worms did not make them wheels.  
 
-Man shall shut his heart against you and you shall not find the [[spring]].  
+Man shall shut his heart against you and you shall not find the [[motifs/spring|spring]].  
 
 Man who wills the thing he wants not, the intolerable thing--  
 
@@ -15605,13 +15605,13 @@ Steel is beneath your hand, stone beneath your heels,
 
 Steel will never laugh aloud, hearing what we heard,  
 
-Stone will never break its heart, mad with [[Hope|hope]] deferred--  
+Stone will never break its heart, mad with [[concepts/hope|hope]] deferred--  
 
-Men of tact that arbitrate, slow [[Reform|reform]] that heals--  
+Men of tact that arbitrate, slow [[concepts/reform|reform]] that heals--  
 
 Save the stinking grease, master, save it for the wheels.  
 
-"[[King]] Dives in the [[Garden|garden]], we have naught to give or hold--  
+"[[archetypes/king|King]] Dives in the [[motifs/garden|garden]], we have naught to give or hold--  
 
 (Even while the baby came alive the rotten sticks were sold.)  
 
@@ -15635,7 +15635,7 @@ Why should you make peace and traffic with such feeble folk as men?
 
 They are deaf to demagogues, deaf to crude appeals;  
 
-Are our hands our own, master?--how the doctors [[Doubt|doubt]]!  
+Are our hands our own, master?--how the doctors [[concepts/doubt|doubt]]!  
 
 Are our legs our own, master? wheels can run without--  
 
@@ -15646,11 +15646,11 @@ Non curarti se i mezzi ingegni deridono la tua lama spezzata:
 
 Mammona nostro padrone fa male ogni cosa.  
 
-Tu sei il [[Fool]] che caricò un mulino a vento. Eppure,  
+Tu sei il [[archetypes/fool|Fool]] che caricò un mulino a vento. Eppure,  
 
 Il Mugnaio è un Furfante; ed ebbe paura.  
 
-Deponi la tua [[Sword|spada]]. La Rovina riconoscerà i suoi.  
+Deponi la tua spada. La Rovina riconoscerà i suoi.  
 
 Lascia che ogni piccolo statista semini la sua fiacca avena selvatica,  
 
@@ -15658,15 +15658,15 @@ O rivolti la giubba per decorare la giubba,
 
 O prenda il trono e perisca per il trono.  
 
-Deponi la tua [[Sword|spada]]. E lascia che la Bianca [[Flag]] sbiadisca  
+Deponi la tua spada. E lascia che la Bianca [[motifs/flag|Flag]] sbiadisca  
 
-In grigio; e che la Rossa [[Flag]] sbiadisca in rosa,  
+In grigio; e che la Rossa [[motifs/flag|Flag]] sbiadisca in rosa,  
 
 Per questi che salgono e salgono; e non sanno affondare  
 
-Così a fondo come [[Death|morte]] e [[Honour|onore]], Déroulède.  
+Così a fondo come [[motifs/death|morte]] e [[concepts/honour|onore]], Déroulède.  
 
-[[Sonnet|SONETTO]] CON GLI AUGURI DELLA STAGIONE  
+[[forms/sonnet|SONETTO]] CON GLI AUGURI DELLA STAGIONE  
 
 A UN CAPO POPOLARE DA CONGRATULARSI MOLTO  
 
@@ -15676,21 +15676,21 @@ Ti conosco. Saluterai l'immenso scampato pericolo,
 
 Dicendo che il rinfoderare di mille spade,  
 
-In [[Silence|silenzio]] e ingiustizia, [[Well|ben]] s'accorda  
+In [[motifs/silence|silenzio]] e ingiustizia, [[motifs/well|ben]] s'accorda  
 
-Con le [[Bells|campane]] di Natale. E indorerai di grasso  
+Con le [[motifs/bells|campane]] di Natale. E indorerai di grasso  
 
 I giornali, i padroni, la polizia,  
 
 E vomiterai nel vuoto le tue parole ventose  
 
-Al tuo Nuovo [[Christ]]; che non porta frusta di corde  
+Al tuo Nuovo [[characters/christ|Christ]]; che non porta frusta di corde  
 
 Per quelli che trafficano nelle colombe della pace.  
 
 La festa degli amici, l'albero dai frutti di candele,  
 
-Non ho mancato di [[Honour|onorare]]. E dico  
+Non ho mancato di [[concepts/honour|onorare]]. E dico  
 
 Sarebbe meglio per uomini come noi,  
 
@@ -15700,15 +15700,15 @@ Uccisi a fucilate su nevi scarlatte per la libertà,
 
 Morti nella luce del giorno di Natale.  
 
-UN [[Song|CANTO]] DI SPADE
+UN CANTO DI SWORDS  
 
 "UNA MANDRIA DI BESTIAME ENTRÒ IN UN VILLAGGIO CHIAMATO  
 
 SWORDS, E FU FERMATA DAI RIVOLTOSI."---_Daily Paper_.  
 
-Nel luogo chiamato Swords, sulla [[Road|strada]] d'Irlanda,
+Nel luogo detto Swords sulla [[motifs/road|strada]] irlandese  
 
-si narra, per una nuova rinomanza,
+Si racconta per nuova fama  
 
 Come tenemmo le corna del bestiame, e come  
 
@@ -15718,77 +15718,77 @@ Prima che il signore dell'inferno, col corno in fronte,
 
 Sia incoronato nella città di Dublin  
 
-Luce a Oriente e luce a Occidente,
+Luce a Oriente e luce a Occidente,  
 
-e luce sui signori crudeli,
+E luce sui signori crudeli,  
 
-sulle anime che a un tratto ogni uomo conobbe,
+Sulle anime che d'un tratto tutti conobbero,  
 
-e sventolò la [[Flag|bandiera]] verde e sventolò la [[Flag|bandiera]] rossa,
+E la verde [[motifs/flag|bandiera]] volò e la rossa [[motifs/flag|bandiera]] volò,  
 
-e più d'una [[Wheel|ruota]] del mondo si fermò anch'essa,
+E più d'una [[motifs/wheel|ruota]] del mondo si fermò, anch'essa,  
 
-quando il bestiame fu fermato a Swords.
+Quando il bestiame fu fermato a Swords.  
 
-Siano pure peccatori o meno che santi
+Siano peccatori o meno che santi  
 
-coloro che percuotono in strada per rabbia,
+Quelli che colpiscono in strada per rabbia,  
 
-noi sappiamo dove splende viva la vergogna; sappiamo
+Sappiamo dove la vergogna brilla chiara; conosciamo  
 
-voi, che essi colpiscono, voi loro nemico,
+Voi che essi colpiscono, voi loro nemici,  
 
 Signori del salario iniquo e vile.  
 
-questa è la vostra paga legittima.
+Questo è il vostro legittimo salario.  
 
-Spremeste un [[Child|bambino]] a un prezzo di tortura
+Avete stretto un [[archetypes/child|bimbo]] a un prezzo di tortura  
 
-che non osaste nominare a parole;
+Che non osaste nominare a parole;  
 
-tanto nera beffa era la moneta d'argento
+Sì nero scherzo era la moneta d'argento  
 
 Che la vostra stessa voce tremò per la vergogna  
 
-e il codardo era palese come una vacca percossa
+E il codardo fu palese come una vacca colpita  
 
-quando il bestiame si smarrì a Swords.
+Quando il bestiame si è sbandato a Swords.  
 
-La [[Wheel|ruota]] del tormento delle mogli girò  
+La [[motifs/wheel|ruota]] del tormento delle mogli girò  
 
-per spezzare la fratellanza degli uomini;
+Per spezzare la fratellanza degli uomini;  
 
-deste il buon [[Blood|sangue]] irlandese a ungere
+Deste il buon [[motifs/blood|sangue]] irlandese a ungere  
 
-i randelli dei nemici della vostra patria;
+I randelli dei nemici del vostro paese;  
 
 Vedeste l'uomo prode battuto in ginocchio:  
 
-e vedeste che era cosa buona.
+E vedeste che era cosa buona.  
 
-La fune dei ricchi è lunga, lunga--
+La corda dei ricchi è lunga e lunga--  
 
-la più lunga fra le corde del boia;
+La più lunga delle corde di boia;  
 
 Ma i re e le folle trattengono il respiro,  
 
-in un'[[Shadow|ombra]] gigante su tutto ciò che sta sotto,
+In una gigantesca [[archetypes/shadow|ombra]] su tutto ciò che sta sotto  
 
-là dove Dio sta reggendo le bilance della [[Death|Morte]]
+Dove Dio sta reggendo le bilance della [[motifs/death|Death]]  
 
-tra il bestiame e Swords.
+Tra il bestiame e Swords.  
 
 Forse i signori che assoldano e prestano,  
 
-i più vili fra tutti i signori degli uomini,
+I più bassi fra i signori degli uomini,  
 
 Che vendono i propri simili come vacche a una fiera.  
 
-non troveranno là un solo capo del loro bestiame;
+Non vi troveranno capo del loro bestiame;  
 
-ma volti di uomini dove c'era bestiame:
+Ma volti d'uomini dove era il bestiame:  
 
-volti di uomini--e Spade.
+Volti d'uomini--e Swords.  
 
 E il nome splendente e terribile,  
 
@@ -15798,17 +15798,17 @@ Segna ancora quel luogo da cercare o fuggire,
 
 Nelle strade dove corre il bestiame in lotta--  
 
-Erba e un [[Silence|silenzio]] di giudizio compiuto  
+Erba e un [[motifs/silence|silenzio]] di giudizio compiuto  
 
 Nel luogo che è chiamato Swords.  
 
-UN [[Song|CANTO]] DI SCONFITTA  
+UN CANTO DI SCONFITTA  
 
 La linea si spezza e i cannoni affondano,  
 
 I signori e i lacchè cavalcano la piana;  
 
-Traggo profondi respiri di [[Dawn|alba]] e tuono,  
+Traggo profondi respiri di [[motifs/dawn|alba]] e tuono,  
 
 E tutto il mio cuore torna giovane.  
 
@@ -15826,7 +15826,7 @@ Come un tempo nella mia vita pulsarono e ondeggiarono;
 
 Ho ritrovato la mia giovinezza nella battaglia perduta,  
 
-Ho ritrovato il mio cuore sul [[Battlefield|campo di battaglia]].  
+Ho ritrovato il mio cuore sul [[settings/battlefield|campo di battaglia]].  
 
 Ché noi che combattiamo finché il mondo sia libero,  
 
@@ -15846,7 +15846,7 @@ E fieri di vedere i nostri nomi in stampa.
 
 Ché così vinsero e così ci disperdemmo,  
 
-Quando il Diavolo cavalcò e i suoi [[dogs]] fiutarono l'oro,  
+Quando il Diavolo cavalcò e i suoi dogs fiutarono l'oro,  
 
 E la pace di un popolo innocuo fu infranta;  
 
@@ -15856,13 +15856,13 @@ Quando gli uomini bastardi che il mercato classifica
 
 Avevano mani viscide sulla verga di England,  
 
-E [[Sword|spada]] in pugno sui valichi d'Afric  
+E spada in pugno sui valichi d'Afric  
 
 La sua ultima Repubblica gridò a Dio.  
 
 Ché gli uomini che nessun signore può comprare o vendere,  
 
-Non seggono tranquilli quando tutto va [[Well|bene]].  
+Non seggono tranquilli quando tutto va [[motifs/well|bene]].  
 
 Si son detti l'un l'altro ciò che nulla può soffocare,  
 
@@ -15876,9 +15876,9 @@ Il mercante che, schernendo l'ira santa,
 
 Faticosamente si dipinge il volto di rabbia.  
 
-E la [[Faith|fede]] dei poveri è fioca e parziale,  
+E la [[concepts/faith|fede]] dei poveri è fioca e parziale,  
 
-E l'[[Pride|orgoglio]] dei ricchi è tutto in vendita,  
+E l'[[concepts/pride|orgoglio]] dei ricchi è tutto in vendita,  
 
 E gli araldi eletti del Maresciallo di England  
 
@@ -15888,19 +15888,19 @@ E gli spilorci che non osano dare sono satolli,
 
 E i deboli che non osano fallire sono forti,  
 
-Così mentre la [[City]] della Fatica è sventrata,  
+Così mentre la [[motifs/city|City]] della Fatica è sventrata,  
 
-Io sto in sella e canto il mio [[Song|canto]].  
+Io sto in sella e canto il mio canto.  
 
 Ché noi che combattiamo finché il mondo sia libero,  
 
 Non abbiamo conforto nella vittoria;  
 
-Ci siamo letti l'un l'altro come [[Cain]] suo fratello,  
+Ci siamo letti l'un l'altro come [[characters/cain|Cain]] suo fratello,  
 
 Ci conosciamo, questi schiavi e noi.  
 
-[[Sonnet|SONETTO]]  
+[[forms/sonnet|SONETTO]]  
 
 NELL'UDIRE UN PROPRIETARIO ACCUSATO (FALSAMENTE, PER  
 
@@ -15910,7 +15910,7 @@ NUMEROSI CAVALLI BIANCHI CHE ERANO O NON ERANO
 
 LEGATI AD ALFRED THE GREAT  
 
-Se hai ripulito il tuo prato di [[Leaves|foglie]] e lumache,  
+Se hai ripulito il tuo prato di [[motifs/leaves|foglie]] e lumache,  
 
 Se hai detto al tuo valletto, magari con giuramenti,  
 
@@ -15918,17 +15918,17 @@ Una volta a settimana o giù di lì, di spazzolarti gli abiti.
 
 Se hai osato pulirti i denti, o le unghie,  
 
-Mentre il [[Horse]] sul monte santo vien meno--  
+Mentre il [[motifs/horse|Horse]] sul monte santo vien meno--  
 
 Allora Dio che Alfred alla sua terra fidanza  
 
-Mandi su di te urlante tutto ciò che l'[[Honour|onore]] aborre,  
+Mandi su di te urlante tutto ciò che l'[[concepts/honour|onore]] aborre,  
 
 Frustate, Hounsditch, debiti, e _Daily Mails_.  
 
 Non sai nemmeno conservare? Ché se davvero  
 
-Il Bianco [[Horse]] sbiadisce; allora più vicina striscia la battaglia  
+Il Bianco [[motifs/horse|Horse]] sbiadisce; allora più vicina striscia la battaglia  
 
 Quando strofineremo bianco il volto di England,  
 
@@ -15946,7 +15946,7 @@ Sognò qui, si dice, di spingerci al mare:
 
 O spingiamoci da soli! Perché è libero  
 
-E sa di [[Honour|onore]] e di cose inglesi.  
+E sa di [[concepts/honour|onore]] e di cose inglesi.  
 
 Come giungemmo a rissare presso queste amare sorgenti,  
 
@@ -15964,15 +15964,15 @@ Siano nativi qui, e grassi e sazi di pane;
 
 Ma noi, i cui peccati furono umani, lasceremo  
 
-La terra del [[Blood|sangue]], e lasceremo là questi avvoltoi,  
+La terra del [[motifs/blood|sangue]], e lasceremo là questi avvoltoi,  
 
 Silenziosamente felici, a pascersi dei morti.  
 
-Il MORTO [[Hero|EROE]]  
+Il MORTO [[archetypes/hero|EROE]]  
 
 Noi non ti vedemmo mai, come i nostri padri,  
 
-Per i quali il tuo volto era il volto della [[Freedom]],  
+Per i quali il tuo volto era il volto della [[concepts/freedom|Freedom]],  
 
 Né sappiamo quali nastri d'ufficio e fili  
 
@@ -15994,13 +15994,13 @@ Non prima che il tuo corso fosse tuonato fino in fondo,
 
 Vide Mammona giungere il suo regno.  
 
-I [[songs]] del furto, le spade a nolo,  
+I songs del furto, le spade a nolo,  
 
 I chierici che vaneggiarono, le truppe che corsero  
 
-L'impero del [[Desire|desiderio]] del mondo,  
+L'impero del [[motifs/desire|desiderio]] del mondo,  
 
-La [[Dance|danza]] di tutto il sudiciume cominciò.  
+La [[motifs/dance|danza]] di tutto il sudiciume cominciò.  
 
 I felici uomini stranieri ingioiellati  
 
@@ -16008,21 +16008,21 @@ Operavano allora solo come un poco di lievito;
 
 Da qualche più modesto palazzo allora  
 
-La [[Soul]] di Dives puzzava fino al Cielo.  
+La [[motifs/soul|Soul]] di Dives puzzava fino al Cielo.  
 
 Ma quando tramarono con blesa voce e sogghigno  
 
 La loro guerra accurata contro i deboli,  
 
-Colpirono il tuo [[Body|corpo]] sulla bara,  
+Colpirono il tuo [[concepts/body|corpo]] sulla bara,  
 
 Per esser certi che non potessi parlare.  
 
-Un [[Hero|eroe]] nel [[Desert|deserto]] morì;  
+Un [[archetypes/hero|eroe]] nel [[motifs/desert|deserto]] morì;  
 
 Gridarono gli uomini che i santi lo seppellissero.  
 
-E attorno alla [[Grave|tomba]] vegliasse e cavalcasse,  
+E attorno alla [[motifs/grave|tomba]] vegliasse e cavalcasse,  
 
 Una cavalleria di Cherubini.  
 
@@ -16066,7 +16066,7 @@ Morti siamo stati ma non così morti
 
 Come questi che vivono della vita che sperperarono,  
 
-Come questi che bevono del [[Blood|sangue]] che versarono.  
+Come questi che bevono del [[motifs/blood|sangue]] che versarono.  
 
 Mai ci vantammo della cosa che sbagliammo,  
 
@@ -16084,19 +16084,19 @@ Non fummo noi a suonare la tromba
 
 Davanti al trionfo di rottami e stracci.  
 
-Non abbiate [[Fear]] di costoro, hanno fatto il loro patto,  
+Non abbiate [[concepts/fear|Fear]] di costoro, hanno fatto il loro patto,  
 
 Hanno contato il costo dell'ultima delle razzie,  
 
 Hanno puntato le vite su cose che non vivono,  
 
-Hanno bruciato la loro [[house]] per un [[Fire|fuoco]] che svanisce.  
+Hanno bruciato la loro house per un [[motifs/fire|fuoco]] che svanisce.  
 
 Cinque anni fa e avremmo potuto temerli,  
 
 Bastonati dal codardo e istruiti dal somaro;  
 
-La [[Truth]] può durare ed esser detta e riecheggiata,  
+La [[concepts/truth|Truth]] può durare ed esser detta e riecheggiata,  
 
 Ma una menzogna non può esser giovane che una volta.  
 
@@ -16108,21 +16108,21 @@ Nulla si leverà dalle nostre schiere adunate
 
 Se non una risata come tuono. Li conosciamo ora.  
 
-IL [[Song|CANTO]] DELLE RUOTE  
+IL CANTO DELLE RUOTE  
 
 SCRITTO DURANTE UN VENERDÌ E UN SABATO DELL'AGOSTO 1911.  
 
-[[King]] Dives attendeva nel suo [[Garden|giardino]] tutto [[Alone|solo]],  
+[[archetypes/king|King]] Dives attendeva nel suo [[motifs/garden|giardino]] tutto solo,  
 
-Dove i suoi [[Flowers|fiori]] son fatti di ferro e i suoi alberi di pietra,  
+Dove i suoi [[motifs/flowers|fiori]] son fatti di ferro e i suoi alberi di pietra,  
 
-E i suoi alveari son pieni di tuono e il [[Lightning|lampo]] balza e uccide,  
+E i suoi alveari son pieni di tuono e il [[motifs/lightning|lampo]] balza e uccide,  
 
 Ché i mulini di Dio macinano lenti; e lui lavora con altri mulini.  
 
-Dives trovò un possente [[Silence|silenzio]]; e gli mancò il pulsare e il balzo,  
+Dives trovò un possente [[motifs/silence|silenzio]]; e gli mancò il pulsare e il balzo,  
 
-Il rumore di tutte le creature insonni che lo cantavano nel [[Sleep|sonno]].  
+Il rumore di tutte le creature insonni che lo cantavano nel [[motifs/sleep|sonno]].  
 
 E disse: "Una vite è caduta--o un bullone è scivolato via--  
 
@@ -16142,13 +16142,13 @@ Noi siamo solo uomini, padrone, hai mai sentito degli uomini?
 
 "Oh, vivono sulla terra come pesci, e un rantolo è tutto il loro respiro.  
 
-Dio per vuoti onori diede loro solo [[Death|morte]] e sprezzo della [[Death|morte]],  
+Dio per vuoti onori diede loro solo [[motifs/death|morte]] e sprezzo della [[motifs/death|morte]],  
 
 E tu cammini sui vermi come tappeto e calpesti una pietra che stride--  
 
 Solo, Dio che li fece vermi non li fece ruote.  
 
-L'uomo chiuderà il suo cuore contro di te e tu non troverai la [[spring]].  
+L'uomo chiuderà il suo cuore contro di te e tu non troverai la [[motifs/spring|spring]].  
 
 L'uomo che vuole la cosa che non desidera, la cosa intollerabile--  
 
@@ -16162,13 +16162,13 @@ Acciaio sotto la tua mano, pietra sotto i tuoi talloni,
 
 L'acciaio non riderà mai forte, udendo ciò che udimmo,  
 
-La pietra non si spezzerà mai il cuore, folle di [[Hope|speranza]] differita--  
+La pietra non si spezzerà mai il cuore, folle di [[concepts/hope|speranza]] differita--  
 
-Uomini di tatto che arbitrano, lenta [[Reform|riforma]] che risana--  
+Uomini di tatto che arbitrano, lenta [[concepts/reform|riforma]] che risana--  
 
 Serba il grasso fetido, padrone, serbalo per le ruote.  
 
-"[[King]] Dives nel [[Garden|giardino]], noi non abbiamo nulla da dare o tenere--  
+"[[archetypes/king|King]] Dives nel [[motifs/garden|giardino]], noi non abbiamo nulla da dare o tenere--  
 
 (Mentre ancora il bimbo veniva alla vita i legni marci eran venduti.)  
 
@@ -16192,7 +16192,7 @@ Perché dovresti far pace e commercio con gente fiacca come gli uomini?
 
 Sono sorde ai demagoghi, sorde ai rozzi appelli;  
 
-Son nostre le nostre mani, padrone?--come ne [[Doubt|dubitano]] i dottori!  
+Son nostre le nostre mani, padrone?--come ne [[concepts/doubt|dubitano]] i dottori!  
 
 Son nostre le nostre gambe, padrone? le ruote corrono senza--
 
@@ -16205,7 +16205,7 @@ Prove the points are delicate--they will understand.
 
 All the wheels are loyal; see how still they stand!"  
 
-[[King]] Dives he was walking in his [[Garden|garden]] in the sun,  
+[[archetypes/king|King]] Dives he was walking in his [[motifs/garden|garden]] in the sun,  
 
 He shook his hand at heaven, and he called the wheels to run,  
 
@@ -16217,9 +16217,9 @@ Sitting in the Gate of Treason, in the gate of broken seals,
 
 "Bend and bind them, bend and bind them, bend and bind them into wheels,  
 
-Then once more in all my [[Garden|garden]] there may swing and sound and sweep--  
+Then once more in all my [[motifs/garden|garden]] there may swing and sound and sweep--  
 
-The noise of all the sleepless things that sing the [[Soul|soul]] to [[Sleep|sleep]]."  
+The noise of all the sleepless things that sing the [[motifs/soul|soul]] to [[motifs/sleep|sleep]]."  
 
 _Call upon the wheels, master, call upon the wheels._  
 
@@ -16227,7 +16227,7 @@ _Weary grow the holidays when you miss the meals,_
 
 _Through the Gate of Treason, through the gate within,_  
 
-_Cometh [[Fear|fear]] and [[Greed|greed]] of fame, cometh deadly sin;_  
+_Cometh [[concepts/fear|fear]] and [[concepts/greed|greed]] of fame, cometh deadly sin;_  
 
 _If a man grow faint, master, take him ere he kneels._  
 
@@ -16247,7 +16247,7 @@ There are no folk in the whole world so helpless or so wise.
 
 There is hunger in our bellies, there is laughter in our eyes;  
 
-You laugh at us and [[Love|love]] us, both mugs and eyes are wet:  
+You laugh at us and [[motifs/love|love]] us, both mugs and eyes are wet:  
 
 Only you do not know us. For we have not spoken yet.  
 
@@ -16255,27 +16255,27 @@ The fine French kings came over in a flutter of flags and dames.
 
 We liked their smiles and battles, but we never could say their names.  
 
-The [[Blood|blood]] ran red to Bosworth and the High French lords went down;  
+The [[motifs/blood|blood]] ran red to Bosworth and the High French lords went down;  
 
-There was naught but a naked people under a naked [[Crown|crown]].  
+There was naught but a naked people under a naked [[motifs/crown|crown]].  
 
-And the eyes of the [[King]]'s Servants turned terribly every way,  
+And the eyes of the [[archetypes/king|King]]'s Servants turned terribly every way,  
 
-And the gold of the [[King]]'s Servants [[Rose|rose]] higher every day.  
+And the gold of the [[archetypes/king|King]]'s Servants [[motifs/rose|rose]] higher every day.  
 
 They burnt the homes of the shaven men, that had been quaint and kind,  
 
-Till there was no bed in a monk's [[house]], nor food that man could find.  
+Till there was no bed in a monk's house, nor food that man could find.  
 
 The inns of God where no man paid, that were the wall of the weak,  
 
-The [[King]]'s Servants ate them all. And Still we did not speak.  
+The [[archetypes/king|King]]'s Servants ate them all. And Still we did not speak.  
 
-And the face of the [[King]]'s Servants grew greater than the [[King]]:  
+And the face of the [[archetypes/king|King]]'s Servants grew greater than the [[archetypes/king|King]]:  
 
 He tricked them, and they trapped him, and stood round him in a ring.  
 
-The new [[Grave|grave]] lords closed round him, that had eaten the abbey's fruits.  
+The new [[motifs/grave|grave]] lords closed round him, that had eaten the abbey's fruits.  
 
 And the men of the new religion, with their bibles in their boots.  
 
@@ -16283,15 +16283,15 @@ We saw their shoulders moving, to menace or discuss,
 
 And some were pure and some were vile; but none took heed of us.  
 
-We saw the [[King]] as they killed him, and his face was proud and pale;  
+We saw the [[archetypes/king|King]] as they killed him, and his face was proud and pale;  
 
-And a few men talked of [[Freedom|freedom]], while England talked of ale.  
+And a few men talked of [[concepts/freedom|freedom]], while England talked of ale.  
 
 A war that we understood not came over the world and woke  
 
 Americans, Frenchmen, Irish; but we knew not the things they spoke.  
 
-They talked about rights and [[Nature|nature]] and peace and the people's reign:  
+They talked about rights and [[concepts/nature|nature]] and peace and the people's reign:  
 
 And the squires, our masters, bade us fight; and never scorned us again.  
 
@@ -16301,7 +16301,7 @@ Men called us serfs and drudges; men knew that we were men.
 
 In foam and flame at Trafalgar, on Albuera plains,  
 
-We did and died like lions, to keep ourselves in [[Chains|chains]],  
+We did and died like lions, to keep ourselves in [[motifs/chains|chains]],  
 
 We lay in living ruins; firing and fearing not  
 
@@ -16313,13 +16313,13 @@ And we broke our own rights with him. And still we never spoke.
 
 Our patch of glory ended; we never heard guns again.  
 
-But the squire seemed struck in the saddle; he was foolish, as if in [[Pain|pain]]  
+But the squire seemed struck in the saddle; he was foolish, as if in [[motifs/pain|pain]]  
 
 He leaned on a staggering lawyer, he clutched a cringing Jew,  
 
 He was stricken; it may be, after all, he was stricken at Waterloo.  
 
-Or perhaps the shades of the shaven men, whose spoil is in his [[house]],  
+Or perhaps the shades of the shaven men, whose spoil is in his house,  
 
 Come back in shining shapes at last to spoil his last carouse:  
 
@@ -16329,7 +16329,7 @@ And a new people takes the land: and still it is not we.
 
 They have given us into the hand of the new unhappy lords,  
 
-Lords without anger and [[Honour|honour]], who dare not carry their swords.  
+Lords without anger and [[concepts/honour|honour]], who dare not carry their swords.  
 
 They fight by shuffling papers; they have bright dead alien eyes;  
 
@@ -16337,15 +16337,15 @@ They look at our labour and laughter as a tired man looks at flies.
 
 And the load 01 their loveless pity is worse than the ancient wrongs,  
 
-Their doors are shut in the evening; and they know no [[songs]].  
+Their doors are shut in the evening; and they know no songs.  
 
 We hear men speaking for us of new laws strong and sweet,  
 
 Yet is there no man speaketh as we speak in the street.  
 
-It may be we shall rise the last as Frenchmen [[Rose|rose]] the first,  
+It may be we shall rise the last as Frenchmen [[motifs/rose|rose]] the first,  
 
-Our wrath come after [[Russia]]'s wrath and our wrath be the worst.  
+Our wrath come after [[settings/russia|Russia]]'s wrath and our wrath be the worst.  
 
 It may be we are meant to mark with our riot and our rest  
 
@@ -16357,7 +16357,7 @@ Smile at us, pay us, pass us. But do not quite forget.
 
 VI  
 
-MISCELLANEOUS [[Poems|POEMS]]  
+MISCELLANEOUS POEMS  
 
 LOST  
 
@@ -16371,7 +16371,7 @@ For all the glory I have lost, the good I never knew.
 
 I saw the light of morning pale on princely human faces,  
 
-In tales irrevocably gone, in final [[Night|night]] enfurled,  
+In tales irrevocably gone, in final [[motifs/night|night]] enfurled,  
 
 I saw the tail of flying fights, a glimpse of burning blisses,  
 
@@ -16387,7 +16387,7 @@ That great green sunset God shall make three days after I die.
 
 When all the lights are lost and done, when all the skies are broken,  
 
-Above the ruin of the [[Stars|stars]] my [[Soul|soul]] shall sit in state,  
+Above the ruin of the [[motifs/stars|stars]] my [[motifs/soul|soul]] shall sit in state,  
 
 With a brain made rich, with the irrevocable sunsets,  
 
@@ -16403,7 +16403,7 @@ For the light of seven heavens that are lost to me like hell.
 
 BALLAD OF THE SUN  
 
-O [[Well|well]] for him that loves the sun  
+O [[motifs/well|well]] for him that loves the sun  
 
 That sees the heaven-race ridden or run,  
 
@@ -16411,9 +16411,9 @@ The splashing seas of sunset won,
 
 And shouts for victory.  
 
-God made the sun to [[Crown|crown]] his head,  
+God made the sun to [[motifs/crown|crown]] his head,  
 
-And when [[Death|death]]'s dart at last is sped,  
+And when [[motifs/death|death]]'s dart at last is sped,  
 
 At least it will not find him dead,  
 
@@ -16431,13 +16431,13 @@ Not less for us and everyone
 
 Was that white web of splendour spun;  
 
-O [[Well|well]] for him who loves the sun  
+O [[motifs/well|well]] for him who loves the sun  
 
 Although the sun should slay.  
 
-[[Translation|TRANSLATION]] FROM DU BELLAY  
+[[forms/translation|TRANSLATION]] FROM DU BELLAY  
 
-Happy, who like [[Ulysses]] or that lord  
+Happy, who like [[characters/ulysses|Ulysses]] or that lord  
 
 Who raped the fleece, returning full and sage,  
 
@@ -16449,17 +16449,17 @@ When shall I see, when shall I see, God knows!
 
 My little village smoke; or pass the door,  
 
-The old dear door of that unhappy [[house]]  
+The old dear door of that unhappy house  
 
 That is to me a kingdom and much more?  
 
-Mightier to me the [[house]] my fathers made  
+Mightier to me the house my fathers made  
 
 Than your audacious heads, O Halls of Rome!  
 
 More than immortal marbles undecayed,  
 
-The thin sad slates that cover up my [[Home|home]];  
+The thin sad slates that cover up my [[motifs/home|home]];  
 
 More than your Tiber is my Loire to me,  
 
@@ -16469,7 +16469,7 @@ And more than all the winds of all the sea
 
 The quiet kindness of the Angevin air.  
 
-THE HIGHER [[unity|UNITY]]  
+THE HIGHER UNITY  
 
 "The Rev. Isaiah Bunter has disappeared into the interior  
 
@@ -16525,9 +16525,9 @@ THE EARTH'S VIGIL
 
 The old earth keepeth her watch the same.  
 
-[[Alone]] in a voiceless void doth stand,  
+[[works/alone-(poe)|Alone]] in a voiceless void doth stand,  
 
-Her orange [[Flowers|flowers]] in her bosom flame,  
+Her orange [[motifs/flowers|flowers]] in her bosom flame,  
 
 Her gold ring in her hand.  
 
@@ -16535,7 +16535,7 @@ The surfs of the long gold-crested morns
 
 Break ever more at her great robe's hem,  
 
-And evermore come the bleak [[Moon|moon]]-horns.  
+And evermore come the bleak [[motifs/moon|moon]]-horns.  
 
 But she keepeth not watch for them.  
 
@@ -16555,13 +16555,13 @@ And she looks on havoc and smoke and steel,
 
 And knoweth it is not the end.  
 
-The faiths may choke and the powers [[Despair|despair]],  
+The faiths may choke and the powers [[concepts/despair|despair]],  
 
 The powers re-arise and the faiths renew,  
 
 She is only a maiden, waiting there,  
 
-For the [[Love|love]] whose word is true.  
+For the [[motifs/love|love]] whose word is true.  
 
 She keepeth her watch through the aeons,  
 
@@ -16575,9 +16575,9 @@ Through the cornfield's gleam and the cottage shade,
 
 They wait unwearied, the young and old,  
 
-Mother for [[Child|child]] and man for maid.  
+Mother for [[archetypes/child|child]] and man for maid.  
 
-For a [[Love|love]] that once was told.  
+For a [[motifs/love|love]] that once was told.  
 
 The hair grows grey under thatch or slates,  
 
@@ -16585,7 +16585,7 @@ The eyes grow dim behind lattice panes,
 
 The earth-race wait as the old earth waits,  
 
-And the [[Hope|hope]] in the heart remains.  
+And the [[concepts/hope|hope]] in the heart remains.  
 
 She keepeth her watch through the aeons,  
 
@@ -16597,11 +16597,11 @@ And the tale she once was told.
 
 God's gold ring on her hand is bound,  
 
-She fires with blossom the grey [[Hill|hill]]-sides,  
+She fires with blossom the grey [[motifs/hill|hill]]-sides,  
 
 Her fields are quickened, her forests crowned,  
 
-While the [[Love|love]] of her heart abides,  
+While the [[motifs/love|love]] of her heart abides,  
 
 And we from the fears that fret and mar  
 
@@ -16623,7 +16623,7 @@ ON RIGHTEOUS INDIGNATION
 
 When Adam went from Paradise  
 
-He saw the [[Sword]] and ran;  
+He saw the [[works/sword-(chesterton)|Sword]] and ran;  
 
 The dreadful shape, the new device,  
 
@@ -16655,7 +16655,7 @@ The flameless gates of Paradise,
 
 The dumb shut doors of Paradise,  
 
-God flung the flaming [[Sword|sword]].  
+God flung the flaming sword.  
 
 It burns the hand that holds it  
 
@@ -16667,13 +16667,13 @@ Yet he in whose hand it swings
 
 He is the most masterful of things,  
 
-A scorner of the [[Stars|stars]].  
+A scorner of the [[motifs/stars|stars]].  
 
 WHEN I CAME BACK TO FLEET STREET  
 
 When I came back to Fleet Street,  
 
-Through a sunset nook at [[Night|night]],  
+Through a sunset nook at [[motifs/night|night]],  
 
 And saw the old Green Dragon  
 
@@ -16697,9 +16697,9 @@ Where men were meant to be.
 
 But old things held; the laughter,  
 
-The long unnatural [[Night|night]],  
+The long unnatural [[motifs/night|night]],  
 
-And all the [[Truth|truth]] they talk in hell,  
+And all the [[concepts/truth|truth]] they talk in hell,  
 
 And all the lies they write.  
 
@@ -16707,9 +16707,9 @@ For I came back to Fleet Street,
 
 And not in peace I came;  
 
-A cloven [[Pride|pride]] was in my heart,  
+A cloven [[concepts/pride|pride]] was in my heart,  
 
-And half my [[Love|love]] was shame.  
+And half my [[motifs/love|love]] was shame.  
 
 I came to fight in fairy-tale,  
 
@@ -16745,9 +16745,9 @@ Still drink in debt to-day;
 
 Chained to the rich by ruin,  
 
-Cheerful in [[Chains|chains]], as then  
+Cheerful in [[motifs/chains|chains]], as then  
 
-When old unbroken [[Pickwick]] walked  
+When old unbroken [[works/pickwick-(chesterton)|Pickwick]] walked  
 
 Among the broken men.  
 
@@ -16758,7 +16758,7 @@ Prova che le punte sono delicate--capiranno.
 
 Tutte le ruote sono fedeli; guarda come stanno immobili!»  
 
-[[King|Re]] Dives passeggiava nel suo [[Garden|giardino]] al sole,  
+[[archetypes/king|Re]] Dives passeggiava nel suo [[motifs/garden|giardino]] al sole,  
 
 scosse la mano contro il cielo, e ordinò alle ruote di girare,  
 
@@ -16770,9 +16770,9 @@ seduto nella Porta del Tradimento, nella porta dei sigilli infranti,
 
 «Piegatele e legatele, piegatele e legatele, piegatele e legatele in ruote,  
 
-così ancora una volta in tutto il mio [[Garden|giardino]] possano oscillare e risuonare e spazzare--  
+così ancora una volta in tutto il mio [[motifs/garden|giardino]] possano oscillare e risuonare e spazzare--  
 
-il fragore di tutte le cose insonni che cantano l'[[Soul|anima]] fino al [[Sleep|sonno]].»  
+il fragore di tutte le cose insonni che cantano l'[[motifs/soul|anima]] fino al [[motifs/sleep|sonno]].»  
 
 _Invoca le ruote, padrone, invoca le ruote._  
 
@@ -16780,7 +16780,7 @@ _Tediose si fanno le feste quando salti i pasti,_
 
 _Per la Porta del Tradimento, per la porta interiore,_  
 
-_Vengono [[Fear|paura]] e [[Greed|avidità]] di fama, viene il peccato mortale;_  
+_Vengono [[concepts/fear|paura]] e [[concepts/greed|avidità]] di fama, viene il peccato mortale;_  
 
 _Se un uomo si fa debole, padrone, prendilo prima che s'inginocchi._  
 
@@ -16800,7 +16800,7 @@ Non v'è popolo al mondo intero così indifeso o così saggio.
 
 C'è fame nei nostri ventri, c'è riso nei nostri occhi;  
 
-ridete di noi e ci [[Love|amate]], sia i boccali sia gli occhi sono umidi:  
+ridete di noi e ci [[motifs/love|amate]], sia i boccali sia gli occhi sono umidi:  
 
 solo che non ci conoscete. Poiché non abbiamo ancora parlato.  
 
@@ -16808,27 +16808,27 @@ I raffinati re francesi giunsero in uno sventolio di bandiere e dame.
 
 Ci piacquero i loro sorrisi e le loro battaglie, ma non seppimo mai dire i loro nomi.  
 
-Il [[Blood|sangue]] corse rosso fino a Bosworth e gli alti signori francesi caddero;  
+Il [[motifs/blood|sangue]] corse rosso fino a Bosworth e gli alti signori francesi caddero;  
 
-non v'era che un popolo nudo sotto una nuda [[Crown|corona]].  
+non v'era che un popolo nudo sotto una nuda [[motifs/crown|corona]].  
 
-E gli occhi dei Servi del [[King|Re]] si volgevano terribilmente in ogni direzione,  
+E gli occhi dei Servi del [[archetypes/king|Re]] si volgevano terribilmente in ogni direzione,  
 
-e l'oro dei Servi del [[King|Re]] si [[Rose|levava]] più alto ogni giorno.  
+e l'oro dei Servi del [[archetypes/king|Re]] si [[motifs/rose|levava]] più alto ogni giorno.  
 
 Bruciarono le case degli uomini rasati, che erano stati bizzarri e gentili,  
 
-finché non vi fu letto in una [[house|casa]] di monaco, né cibo che l'uomo potesse trovare.  
+finché non vi fu letto in una casa di monaco, né cibo che l'uomo potesse trovare.  
 
 Le locande di Dio dove nessuno pagava, che erano il muro dei deboli,  
 
-i Servi del [[King|Re]] le divorarono tutte. E ancora non parlammo.  
+i Servi del [[archetypes/king|Re]] le divorarono tutte. E ancora non parlammo.  
 
-E il volto dei Servi del [[King|Re]] si fece più grande del [[King|Re]]:  
+E il volto dei Servi del [[archetypes/king|Re]] si fece più grande del [[archetypes/king|Re]]:  
 
 egli li ingannò, ed essi lo intrappolarono, e gli stettero attorno in cerchio.  
 
-I nuovi signori della [[Grave|tomba]] gli si strinsero intorno, che avevano mangiato i frutti dell'abbazia,  
+I nuovi signori della [[motifs/grave|tomba]] gli si strinsero intorno, che avevano mangiato i frutti dell'abbazia,  
 
 e gli uomini della nuova religione, con le loro bibbie negli stivali.  
 
@@ -16836,15 +16836,15 @@ Vedemmo muoversi le loro spalle, a minacciare o discutere,
 
 e alcuni erano puri e alcuni vili; ma nessuno badò a noi.  
 
-Vedemmo il [[King|Re]] mentre lo uccidevano, e il suo volto era fiero e pallido;  
+Vedemmo il [[archetypes/king|Re]] mentre lo uccidevano, e il suo volto era fiero e pallido;  
 
-e pochi uomini parlarono di [[Freedom|libertà]], mentre l'Inghilterra parlava di birra.  
+e pochi uomini parlarono di [[concepts/freedom|libertà]], mentre l'Inghilterra parlava di birra.  
 
 Una guerra che non comprendemmo venne sul mondo e destò  
 
 Americani, Francesi, Irlandesi; ma non conoscemmo le cose che dicevano.  
 
-Parlavano di diritti e [[Nature|natura]] e pace e del regno del popolo:  
+Parlavano di diritti e [[concepts/nature|natura]] e pace e del regno del popolo:  
 
 e gli squire, nostri padroni, ci ordinarono di combattere; e mai più ci disprezzarono.  
 
@@ -16854,7 +16854,7 @@ gli uomini ci chiamarono servi e sgobboni; gli uomini seppero che eravamo uomini
 
 Fra schiuma e fiamma a Trafalgar, sulle pianure di Albuera,  
 
-agimmo e morimmo come leoni, per tenerci in [[Chains|catene]],  
+agimmo e morimmo come leoni, per tenerci in [[motifs/chains|catene]],  
 
 giacemmo fra rovine viventi; sparando e non temendo  
 
@@ -16866,13 +16866,13 @@ e spezzammo i nostri stessi diritti con lui. E ancora non parlammo mai.
 
 La nostra chiazza di gloria finì; non udimmo più cannoni.  
 
-Ma lo squire pareva colpito in sella; era stolto, come in [[Pain|pena]]  
+Ma lo squire pareva colpito in sella; era stolto, come in [[motifs/pain|pena]]  
 
 si appoggiava a un avvocato traballante, ghermiva un Ebreo servile,  
 
 era stroncato; forse, dopotutto, era stato stroncato a Waterloo.  
 
-O forse le ombre degli uomini rasati, il cui bottino è nella sua [[house|casa]],  
+O forse le ombre degli uomini rasati, il cui bottino è nella sua casa,  
 
 tornano infine in forme splendenti a rovinare la sua ultima gozzoviglia:  
 
@@ -16882,7 +16882,7 @@ E un popolo nuovo prende la terra: e ancora non siamo noi.
 
 Ci hanno consegnato nella mano dei nuovi infelici signori,  
 
-signori senza collera né [[Honour|onore]], che non osano portare le spade.  
+signori senza collera né [[concepts/honour|onore]], che non osano portare le spade.  
 
 Combattono rimescolando carte; hanno occhi stranieri lucidi e morti;  
 
@@ -16890,15 +16890,15 @@ guardano al nostro lavoro e al nostro riso come un uomo stanco guarda le mosche.
 
 E il fardello della loro pietà senza amore è peggiore degli antichi torti,  
 
-le loro porte sono chiuse alla sera; e non conoscono [[songs|canti]].  
+le loro porte sono chiuse alla sera; e non conoscono canti.  
 
 Udiamo uomini parlare per noi di nuove leggi forti e dolci,  
 
 eppure nessun uomo parla come noi parliamo nella strada.  
 
-Forse ci leveremo per ultimi come i Francesi si [[Rose|levarono]] per primi,  
+Forse ci leveremo per ultimi come i Francesi si [[motifs/rose|levarono]] per primi,  
 
-la nostra ira verrà dopo l'ira della [[Russia|Russia]] e la nostra ira sarà la peggiore.  
+la nostra ira verrà dopo l'ira della [[settings/russia|Russia]] e la nostra ira sarà la peggiore.  
 
 Forse siamo destinati a segnare col nostro tumulto e col nostro riposo  
 
@@ -16910,7 +16910,7 @@ Sorrideteci, pagateci, oltrepassateci. Ma non dimenticate del tutto.
 
 VI  
 
-[[Poems|POESIE]] VARIE  
+POESIE VARIE  
 
 PERDUTO  
 
@@ -16924,7 +16924,7 @@ per tutta la gloria che ho perduto, il bene che mai conobbi.
 
 Vidi la luce del mattino impallidire su volti umani regali,  
 
-in racconti irrevocabilmente svaniti, avvolti nella [[Night|notte]] finale,  
+in racconti irrevocabilmente svaniti, avvolti nella [[motifs/night|notte]] finale,  
 
 vidi la coda di lotte in fuga, un barlume di estasi ardenti,  
 
@@ -16940,7 +16940,7 @@ quel grande verde tramonto che Dio farà tre giorni dopo ch'io muoia.
 
 Quando tutte le luci saranno perdute e spente, quando tutti i cieli saranno infranti,  
 
-sopra la rovina delle [[Stars|stelle]] la mia [[Soul|anima]] siederà in pompa,  
+sopra la rovina delle [[motifs/stars|stelle]] la mia [[motifs/soul|anima]] siederà in pompa,  
 
 con una mente resa ricca, coi tramonti irrevocabili,  
 
@@ -16956,7 +16956,7 @@ per la luce dei sette cieli che mi sono perduti come l'inferno.
 
 BALLATA DEL SOLE  
 
-O [[Well|bene]] per colui che ama il sole  
+O [[motifs/well|bene]] per colui che ama il sole  
 
 che vede la corsa celeste cavalcata o corsa,  
 
@@ -16964,9 +16964,9 @@ i mari spruzzanti del tramonto vinti,
 
 e grida per la vittoria.  
 
-Dio fece il sole a [[Crown|coronare]] il suo capo,  
+Dio fece il sole a [[motifs/crown|coronare]] il suo capo,  
 
-e quando il dardo della [[Death|morte]] è infine scagliato,  
+e quando il dardo della [[motifs/death|morte]] è infine scagliato,  
 
 almeno non lo troverà morto,  
 
@@ -16984,13 +16984,13 @@ Non meno per noi e per ognuno
 
 fu filata quella bianca trama di splendore;  
 
-O [[Well|bene]] per colui che ama il sole  
+O [[motifs/well|bene]] per colui che ama il sole  
 
 benché il sole debba ucciderlo.  
 
-[[Translation|TRADUZIONE]] DA DU BELLAY  
+[[forms/translation|TRADUZIONE]] DA DU BELLAY  
 
-Felice, chi come [[Ulysses|Ulisse]] o quel signore  
+Felice, chi come [[characters/ulysses|Ulisse]] o quel signore  
 
 che rapì il vello, tornando pieno e savio,  
 
@@ -17002,17 +17002,17 @@ Quando vedrò, quando vedrò, Dio sa!
 
 il fumo del mio piccolo villaggio; o passerò la porta,  
 
-la vecchia cara porta di quella infelice [[house|casa]]  
+la vecchia cara porta di quella infelice casa  
 
 che è per me un regno e molto di più?  
 
-Più possente per me la [[house|casa]] che i miei padri fecero  
+Più possente per me la casa che i miei padri fecero  
 
 delle vostre audaci teste, o Sale di Roma!  
 
 Più che i marmi immortali intatti,  
 
-le sottili tristi ardesie che coprono la mia [[Home|dimora]];  
+le sottili tristi ardesie che coprono la mia [[motifs/home|dimora]];  
 
 Più che il vostro Tevere è per me la mia Loira,  
 
@@ -17022,7 +17022,7 @@ e più di tutti i venti di tutto il mare
 
 la quieta dolcezza dell'aria angioina.  
 
-LA PIÙ ALTA [[unity|UNITÀ]]  
+L'UNITÀ SUPERIORE  
 
 «Il Rev. Isaiah Bunter è scomparso nell'interno  
 
@@ -17078,9 +17078,9 @@ LA VEGLIA DELLA TERRA
 
 La vecchia terra veglia sempre uguale.  
 
-[[Alone|Sola]] in un vuoto senza voce sta,  
+Sola in un vuoto senza voce sta,  
 
-i suoi [[Flowers|fiori]] d'arancio le fiammeggiano in seno,  
+i suoi [[motifs/flowers|fiori]] d'arancio le fiammeggiano in seno,  
 
 il suo anello d'oro in mano.  
 
@@ -17088,7 +17088,7 @@ I frangenti dei lunghi mattini dalla cresta d'oro
 
 s'infrangono sempre più all'orlo della sua grande veste,  
 
-e sempre più vengono le fosche corna della [[Moon|luna]].  
+e sempre più vengono le fosche corna della [[motifs/moon|luna]].  
 
 Ma ella non veglia per esse.  
 
@@ -17108,13 +17108,13 @@ ed ella guarda scempio e fumo e acciaio,
 
 e sa che non è la fine.  
 
-Le fedi possono soffocare e le potenze [[Despair|disperare]],  
+Le fedi possono soffocare e le potenze [[concepts/despair|disperare]],  
 
 le potenze risorgono e le fedi si rinnovano,  
 
 ella è solo una fanciulla, che attende là,  
 
-per l'[[Love|amore]] la cui parola è vera.  
+per l'[[motifs/love|amore]] la cui parola è vera.  
 
 Ella veglia attraverso gli eoni,  
 
@@ -17128,9 +17128,9 @@ Fra il baluginio del campo di grano e l'ombra del casolare,
 
 attendono instancabili, i giovani e i vecchi,  
 
-madre per [[Child|figlio]] e uomo per fanciulla,  
+madre per [[archetypes/child|figlio]] e uomo per fanciulla,  
 
-per un [[Love|amore]] che un tempo fu narrato.  
+per un [[motifs/love|amore]] che un tempo fu narrato.  
 
 I capelli si fanno grigi sotto paglia o ardesia,  
 
@@ -17138,7 +17138,7 @@ gli occhi si fanno fiochi dietro i vetri a graticcio,
 
 la stirpe della terra attende come attende la vecchia terra,  
 
-e la [[Hope|speranza]] nel cuore rimane.  
+e la [[concepts/hope|speranza]] nel cuore rimane.  
 
 Ella veglia attraverso gli eoni,  
 
@@ -17150,11 +17150,11 @@ e il racconto che un tempo le fu narrato.
 
 L'anello d'oro di Dio è legato alla sua mano,  
 
-ella infiamma di fiori i grigi [[Hill|pendii]] collinari,  
+ella infiamma di fiori i grigi [[motifs/hill|pendii]] collinari,  
 
 i suoi campi sono ravvivati, le sue foreste coronate,  
 
-mentre l'[[Love|amore]] del suo cuore permane,  
+mentre l'[[motifs/love|amore]] del suo cuore permane,  
 
 e noi, dalle paure che rodono e sfregiano,  
 
@@ -17176,7 +17176,7 @@ SULLA GIUSTA INDIGNAZIONE
 
 Quando Adamo uscì dal Paradiso  
 
-vide la [[Sword|Spada]] e corse;  
+vide la Spada e corse;  
 
 la forma tremenda, il nuovo congegno,  
 
@@ -17208,7 +17208,7 @@ le porte senza fiamma del Paradiso,
 
 le mute porte serrate del Paradiso,  
 
-Dio scagliò la fiammeggiante [[Sword|spada]].  
+Dio scagliò la fiammeggiante spada.  
 
 Brucia la mano che la tiene  
 
@@ -17220,13 +17220,13 @@ eppure colui nella cui mano essa oscilla
 
 egli è la più dominatrice delle cose,  
 
-uno schernitore delle [[Stars|stelle]].  
+uno schernitore delle [[motifs/stars|stelle]].  
 
 QUANDO TORNAI IN FLEET STREET  
 
 Quando tornai in Fleet Street,  
 
-per un angolo di tramonto nella [[Night|notte]],  
+per un angolo di tramonto nella [[motifs/night|notte]],  
 
 e vidi il vecchio Green Dragon  
 
@@ -17250,9 +17250,9 @@ dove gli uomini erano destinati a stare.
 
 Ma le vecchie cose tennero; il riso,  
 
-la lunga innaturale [[Night|notte]],  
+la lunga innaturale [[motifs/night|notte]],  
 
-e tutta la [[Truth|verità]] che dicono all'inferno,  
+e tutta la [[concepts/truth|verità]] che dicono all'inferno,  
 
 e tutte le menzogne che scrivono.  
 
@@ -17260,9 +17260,9 @@ Poiché tornai in Fleet Street,
 
 e non in pace venni;  
 
-un [[Pride|orgoglio]] spaccato era nel mio cuore,  
+un [[concepts/pride|orgoglio]] spaccato era nel mio cuore,  
 
-e metà del mio [[Love|amore]] era vergogna.  
+e metà del mio [[motifs/love|amore]] era vergogna.  
 
 Venni a combattere in una fiaba,  
 
@@ -17298,9 +17298,9 @@ bevono ancora in debito oggi;
 
 incatenati ai ricchi dalla rovina,  
 
-allegri fra le [[Chains|catene]], come allora  
+allegri fra le [[motifs/chains|catene]], come allora  
 
-quando il vecchio integro [[Pickwick|Pickwick]] camminava  
+quando il vecchio integro [[works/pickwick-(chesterton)|Pickwick]] camminava  
 
 fra gli uomini spezzati.
 
@@ -17309,11 +17309,11 @@ fra gli uomini spezzati.
 <span class="atom-split" data-atom="part--part_08" data-title="Poems (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="topos/quest,archetype/hero,motif/autumn,motif/blood,motif/crown,motif/dawn,motif/death,motif/decay,motif/dreams,motif/dust,motif/flag,motif/flowers,motif/garden,motif/hill,motif/lightning,motif/love,motif/night,motif/prison,motif/road,motif/rose,motif/silence,motif/soul,motif/stars,motif/storm,motif/summer,motif/time,motif/water,motif/well,motif/wind,concept/hope,concept/suicide,histref/dante,character/queen"></span>
 
 
-Still he that [[Dreams|dreams]] and rambles  
+Still he that [[motifs/dreams|dreams]] and rambles  
 
 Through his own elfin air,  
 
-Knows that the street's a [[Prison|prison]],  
+Knows that the street's a [[motifs/prison|prison]],  
 
 Knows that the gates are there:  
 
@@ -17329,7 +17329,7 @@ All that I loved and hated,
 
 All that I shunned and knew,  
 
-Clears in broad battle [[Lightning|lightning]],  
+Clears in broad battle [[motifs/lightning|lightning]],  
 
 Where they, and I, and you,  
 
@@ -17341,11 +17341,11 @@ And shout to them that shrink within,
 
 The Prisoners of the Fleet.  
 
-A CIDER [[Song|SONG]]  
+A CIDER SONG  
 
 _To J.S.M._  
 
-EXTRACT FROM A [[Romance|ROMANCE]] WHICH IS NOT YET  
+EXTRACT FROM A ROMANCE WHICH IS NOT YET  
 
 WRITTEN AND PROBABLY NEVER WILL BE.  
 
@@ -17357,7 +17357,7 @@ God brought it burning from the sod
 
 To be a sign and signal rod  
 
-That they that drink the [[Blood|blood]] of God  
+That they that drink the [[motifs/blood|blood]] of God  
 
 Shall never thirst again.  
 
@@ -17379,7 +17379,7 @@ They find in Plodder's End,
 
 The apple wine of Hereford,  
 
-Of Hafod [[Hill]] and Hereford,  
+Of Hafod [[motifs/hill|Hill]] and Hereford,  
 
 Where woods went down to Hereford,  
 
@@ -17389,31 +17389,31 @@ The soft feet of the blessed go
 
 In the soft western vales,  
 
-The [[Road|road]] the silent saints accord,  
+The [[motifs/road|road]] the silent saints accord,  
 
-The [[Road|road]] from Heaven to Hereford,  
+The [[motifs/road|road]] from Heaven to Hereford,  
 
 Where the apple wood of Hereford  
 
 Goes all the way to Wales.  
 
-THE LAST [[Hero|HERO]]  
+THE LAST [[archetypes/hero|HERO]]  
 
-The [[Wind|wind]] blew out from Bergen from the dawning to the day,  
+The [[motifs/wind|wind]] blew out from Bergen from the dawning to the day,  
 
 There was a wreck of trees and fall of towers a score of miles away,  
 
 And drifted like a livid leaf I go before its tide,  
 
-Spewed out of [[house]] and stable, beggared of [[Flag|flag]] and bride.  
+Spewed out of house and stable, beggared of [[motifs/flag|flag]] and bride.  
 
 The heavens are bowed about my head, shouting like seraph wars.  
 
-With rains that might put out the sun and clean the sky of [[Stars|stars]],  
+With rains that might put out the sun and clean the sky of [[motifs/stars|stars]],  
 
 Rains like the fall of ruined seas from secret worlds above,  
 
-The roaring of the rains of God none but the lonely [[Love|love]].  
+The roaring of the rains of God none but the lonely [[motifs/love|love]].  
 
 Feast in my hall, O foemen, and eat and drink and drain,  
 
@@ -17425,41 +17425,41 @@ I stole my lady bride from them, they stole her back from me.
 
 I rent her from her red-roofed hall, I rode and saw arise  
 
-More lovely than the living [[Flowers|flowers]] the hatred in her eyes.  
+More lovely than the living [[motifs/flowers|flowers]] the hatred in her eyes.  
 
 She never loved me, never bent, never was less divine;  
 
-The sunset never loved me; the [[Wind|wind]] was never mine.  
+The sunset never loved me; the [[motifs/wind|wind]] was never mine.  
 
 Was it all nothing that she stood imperial in duresse?  
 
-[[Silence]] itself made softer with the sweeping of her dress.  
+[[motifs/silence|Silence]] itself made softer with the sweeping of her dress.  
 
-O you who drain the cup of life, O you who wear the [[Crown|crown]],  
+O you who drain the cup of life, O you who wear the [[motifs/crown|crown]],  
 
 You never loved a woman's smile as I have loved her frown.  
 
-The [[Wind|wind]] blew out from Bergen from the dawning to the day,  
+The [[motifs/wind|wind]] blew out from Bergen from the dawning to the day,  
 
 They ride and run with fifty spears to break and bar my way,  
 
-I shall not die [[Alone|alone]], [[Alone|alone]], but kin to all the powers.  
+I shall not die alone, alone, but kin to all the powers.  
 
-As merry as the ancient sun and fighting like the [[Flowers|flowers]].  
+As merry as the ancient sun and fighting like the [[motifs/flowers|flowers]].  
 
-How white their steel, how bright their eyes! I [[Love|love]] each laughing knave.  
+How white their steel, how bright their eyes! I [[motifs/love|love]] each laughing knave.  
 
 Cry high and bid him welcome to the banquet of the brave.  
 
-Yea, I will bless them as they bend and [[Love|love]] them where they lie,  
+Yea, I will bless them as they bend and [[motifs/love|love]] them where they lie,  
 
-When on their skulls the [[Sword|sword]] I swing falls shattering from the sky.  
+When on their skulls the sword I swing falls shattering from the sky.  
 
-The hour when [[Death|death]] is like a light and [[Blood|blood]] is like a [[Rose|rose]],--  
+The hour when [[motifs/death|death]] is like a light and [[motifs/blood|blood]] is like a [[motifs/rose|rose]],--  
 
-You never loved your friends, my friends, as I shall [[Love|love]] my foes.  
+You never loved your friends, my friends, as I shall [[motifs/love|love]] my foes.  
 
-Know you what earth shall lose to-[[Night|night]], what rich, uncounted loans,  
+Know you what earth shall lose to-[[motifs/night|night]], what rich, uncounted loans,  
 
 What heavy gold of tales untold you bury with my bones?  
 
@@ -17467,17 +17467,17 @@ My loves in deep dim meadows, my ships that rode at ease,
 
 Ruffling the purple plumage of strange and secret seas.  
 
-To see this fair earth as it is to me [[Alone|alone]] was given,  
+To see this fair earth as it is to me alone was given,  
 
-The blow that breaks my brow to-[[Night|night]] shall break the dome of heaven.  
+The blow that breaks my brow to-[[motifs/night|night]] shall break the dome of heaven.  
 
 The skies I saw, the trees I saw after no eyes shall see.  
 
-To-[[Night|night]] I die the [[Death|death]] of God; the [[Stars|stars]] shall die with me:  
+To-[[motifs/night|night]] I die the [[motifs/death|death]] of God; the [[motifs/stars|stars]] shall die with me:  
 
 One sound shall sunder all the spears and break the trumpet's breath:  
 
-You never laughed in all your life as I shall laugh in [[Death|death]].  
+You never laughed in all your life as I shall laugh in [[motifs/death|death]].  
 
 VII  
 
@@ -17485,7 +17485,7 @@ BALLADES
 
 BALLADE D'UNE GRANDE DAME  
 
-Heaven shall forgive you Bridge at [[Dawn|dawn]],  
+Heaven shall forgive you Bridge at [[motifs/dawn|dawn]],  
 
 The clothes you wear--or do not wear--  
 
@@ -17529,7 +17529,7 @@ For ever in a jailor's care
 
 Because his sins were more than _two_ ...  
 
-... I know a [[house]] in Hoxton where  
+... I know a house in Hoxton where  
 
 It shall not be forgiven you.  
 
@@ -17543,7 +17543,7 @@ When the Last Trumpet rends the air
 
 It shall not be forgiven you.  
 
-A BALLADE OF AN [[anti-puritan|ANTI-PURITAN]]  
+A BALLADE OF AN ANTI-PURITAN  
 
 They spoke of Progress spiring round,  
 
@@ -17555,7 +17555,7 @@ Or ran about the room and roared;
 
 I might have simply sat and snored--  
 
-I [[Rose|rose]] politely in the club  
+I [[motifs/rose|rose]] politely in the club  
 
 And said, "I feel a little bored;  
 
@@ -17567,7 +17567,7 @@ Me; and it pains me to record
 
 I did not think their views profound,  
 
-Or their conclusions [[Well|well]] assured;  
+Or their conclusions [[motifs/well|well]] assured;  
 
 The simple life I can't afford,  
 
@@ -17585,9 +17585,9 @@ And virtues growing from the ground,
 
 And fellowship of beer and board,  
 
-And [[Song|song]], that is a sturdy cord.  
+And song, that is a sturdy cord.  
 
-And [[Hope|hope]], that is a hardy shrub,  
+And [[concepts/hope|hope]], that is a hardy shrub,  
 
 And goodness, that is God's last word--  
 
@@ -17595,7 +17595,7 @@ Will someone take me to a pub?
 
 ENVOI  
 
-Prince, Bayard would have smashed his [[Sword|sword]]  
+Prince, Bayard would have smashed his sword  
 
 To see the sort of knights you dub--Is  
 
@@ -17617,7 +17617,7 @@ O Moses, give us all a rest!
 
 I will not even cut the strings,  
 
-I'll read "Jack Redskin on the [[Quest]]"  
+I'll read "Jack Redskin on the [[topoi/quest|Quest]]"  
 
 And feed my brain with better things.  
 
@@ -17629,7 +17629,7 @@ Somebody likes the Finnish Stage
 
 Because the Jesters do not jest;  
 
-And grey with [[Dust|dust]] is [[Dante]]'s crest,  
+And grey with [[motifs/dust|dust]] is [[historical-references/dante|Dante]]'s crest,  
 
 The bell of Rabelais soundless swings;  
 
@@ -17649,7 +17649,7 @@ Burn from my brain and from my breast
 
 Sloth, and the cowardice that clings,  
 
-And stiffness and the [[Soul|soul]]'s arrest:  
+And stiffness and the [[motifs/soul|soul]]'s arrest:  
 
 And feed my brain with better things.  
 
@@ -17663,9 +17663,9 @@ But I should have that fizz suppressed
 
 And feed my brain with better things.  
 
-A BALLADE OF [[suicide|SUICIDE]]  
+A BALLADE OF [[concepts/suicide|SUICIDE]]  
 
-The gallows in my [[Garden|garden]], people say,  
+The gallows in my [[motifs/garden|garden]], people say,  
 
 Is new and neat and adequately tall.  
 
@@ -17681,9 +17681,9 @@ The strangest whim has seized me.... After all
 
 I think I will not hang myself to-day.  
 
-To-morrow is the [[Time|time]] I get my pay--My  
+To-morrow is the [[motifs/time|time]] I get my pay--My  
 
-uncle's [[Sword|sword]] is hanging in the hall--  
+uncle's sword is hanging in the hall--  
 
 I see a little cloud all pink and grey--  
 
@@ -17699,11 +17699,11 @@ I think I will not hang myself to-day.
 
 The world will have another washing day;  
 
-The decadents [[Decay|decay]]; the pedants pall;  
+The decadents [[motifs/decay|decay]]; the pedants pall;  
 
 And H.G. Wells has found that children play.  
 
-And Bernard [[Shaw]] discovered that they squall;  
+And Bernard [[works/shaw-(chesterton)|Shaw]] discovered that they squall;  
 
 Rationalists are growing rational--  
 
@@ -17725,13 +17725,13 @@ I think I will not hang myself to-day.
 
 A BALLADE OF THE FIRST RAIN  
 
-The sky is blue with [[Summer|summer]] and the sun,  
+The sky is blue with [[motifs/summer|summer]] and the sun,  
 
-The woods are brown as [[Autumn|autumn]] with the tan,  
+The woods are brown as [[motifs/autumn|autumn]] with the tan,  
 
-It might as [[Well|well]] be Tropics and be done,  
+It might as [[motifs/well|well]] be Tropics and be done,  
 
-I might as [[Well|well]] be born a copper Khan;  
+I might as [[motifs/well|well]] be born a copper Khan;  
 
 I fashion me an oriental fan  
 
@@ -17739,11 +17739,11 @@ Made of the wholly unreceipted bills
 
 Brought by the ice-man, sleeping in his van  
 
-(A [[Storm|storm]] is coming on the Chiltern Hills).  
+(A [[motifs/storm|storm]] is coming on the Chiltern Hills).  
 
 I read the Young Philosophers for fun  
 
---Fresh as our sorrow for the late [[Queen]] Anne--  
+--Fresh as our sorrow for the late [[characters/queen|Queen]] Anne--  
 
 The Dionysians whom a pint would stun,  
 
@@ -17751,15 +17751,15 @@ The Pantheists who never heard of Pan.
 
 --But through my hair electric needles ran,  
 
-And on my book a gout of [[Water|water]] spills,  
+And on my book a gout of [[motifs/water|water]] spills,  
 
 And on the skirts of heaven the guns began  
 
-(A [[Storm|storm]] is coming on the Chiltern Hills).  
+(A [[motifs/storm|storm]] is coming on the Chiltern Hills).  
 
 O fields of England, cracked and dry and dun,  
 
-O [[Soul|soul]] of England, sick of words, and wan!--  
+O [[motifs/soul|soul]] of England, sick of words, and wan!--  
 
 The clouds grow dark;--the down-rush has begun.  
 
@@ -17771,7 +17771,7 @@ A falling laughter all the valley fills,
 
 Deep as God's thunder and the thirst of man:  
 
-(A [[Storm|storm]] is coming on the Chiltern Hills).  
+(A [[motifs/storm|storm]] is coming on the Chiltern Hills).  
 
 ENVOI  
 
@@ -17781,16 +17781,16 @@ Fulfilling such a lot of People's Wills,
 
 You take the Chiltern Hundreds while you can--  
 
-A [[Storm|storm]] is coming on the Chiltern Hills.
+A [[motifs/storm|storm]] is coming on the Chiltern Hills.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Pure colui che [[Dreams|sogna]] e vaga  
+Pure colui che [[motifs/dreams|sogna]] e vaga  
 
 Per la propria aria fatata,  
 
-Sa che la strada è una [[Prison|prigione]],  
+Sa che la strada è una [[motifs/prison|prigione]],  
 
 Sa che i cancelli sono là:  
 
@@ -17806,7 +17806,7 @@ Tutto ciò che amai e odiai,
 
 Tutto ciò che fuggii e conobbi,  
 
-Si schiara in ampio [[Lightning|lampo]] di battaglia,  
+Si schiara in ampio [[motifs/lightning|lampo]] di battaglia,  
 
 Dove loro, e io, e tu,  
 
@@ -17818,11 +17818,11 @@ E gridiamo a quelli che si rannicchiano dentro,
 
 I Prigionieri della Fleet.  
 
-UN [[Song|CANTO]] DEL SIDRO  
+UNA CANZONE DEL SIDRO  
 
-_To J.S.M._  
+_A J.S.M._  
 
-ESTRATTO DA UN [[Romance|ROMANZO]] CHE NON È ANCORA  
+ESTRATTO DA UN ROMANZO CHE NON È ANCORA  
 
 SCRITTO E PROBABILMENTE MAI LO SARÀ.  
 
@@ -17834,7 +17834,7 @@ Dio lo trasse ardente dalla zolla
 
 Perché fosse un segno e una verga di segnale  
 
-Che quelli che bevono il [[Blood|sangue]] di Dio  
+Che quelli che bevono il [[motifs/blood|sangue]] di Dio  
 
 Non avranno mai più sete.  
 
@@ -17856,7 +17856,7 @@ Lo trovano a Plodder's End,
 
 Il vino di mele di Hereford,  
 
-Di Hafod [[Hill]] e Hereford,  
+Di Hafod [[motifs/hill|Hill]] e Hereford,  
 
 Dove i boschi scendevano a Hereford,  
 
@@ -17866,31 +17866,31 @@ I piedi lievi dei beati vanno
 
 Nelle dolci valli d'occidente,  
 
-La [[Road|strada]] che i santi silenziosi accordano,  
+La [[motifs/road|strada]] che i santi silenziosi accordano,  
 
-La [[Road|strada]] dal Cielo a Hereford,  
+La [[motifs/road|strada]] dal Cielo a Hereford,  
 
 Dove il bosco di meli di Hereford  
 
 Va per tutta la via fino a Wales.  
 
-L'ULTIMO [[Hero|EROE]]  
+L'ULTIMO [[archetypes/hero|EROE]]  
 
-Il [[Wind|vento]] soffiò da Bergen dall'albeggiare al giorno,  
+Il [[motifs/wind|vento]] soffiò da Bergen dall'albeggiare al giorno,  
 
 Vi fu strage d'alberi e caduta di torri a venti miglia di distanza,  
 
 E trascinato come livida foglia vado innanzi alla sua marea,  
 
-Sputato fuor di [[house]] e stalla, spogliato di [[Flag|bandiera]] e sposa.  
+Sputato fuor di house e stalla, spogliato di [[motifs/flag|bandiera]] e sposa.  
 
 I cieli si curvano sul mio capo, urlanti come guerre di serafini.  
 
-Con piogge che potrebbero spegnere il sole e nettare il cielo di [[Stars|stelle]],  
+Con piogge che potrebbero spegnere il sole e nettare il cielo di [[motifs/stars|stelle]],  
 
 Piogge come il crollo di mari in rovina da mondi segreti lassù,  
 
-Il ruggito delle piogge di Dio nessuno se non i solitari lo [[Love|ama]].  
+Il ruggito delle piogge di Dio nessuno se non i solitari lo [[motifs/love|ama]].  
 
 Banchettate nella mia sala, o nemici, e mangiate e bevete e scolate,  
 
@@ -17902,41 +17902,41 @@ Rubai a loro la mia sposa, essi me la rubarono di ritorno.
 
 La strappai dalla sua sala dal tetto rosso, cavalcai e vidi sorgere  
 
-Più bello dei vivi [[Flowers|fiori]] l'odio nei suoi occhi.  
+Più bello dei vivi [[motifs/flowers|fiori]] l'odio nei suoi occhi.  
 
 Mai mi amò, mai si piegò, mai fu meno divina;  
 
-Il tramonto mai mi amò; il [[Wind|vento]] non fu mai mio.  
+Il tramonto mai mi amò; il [[motifs/wind|vento]] non fu mai mio.  
 
 Fu forse nulla che ella stesse imperiale in prigionia?  
 
-Il [[Silence]] stesso reso più dolce dal frusciare della sua veste.  
+Il [[motifs/silence|Silence]] stesso reso più dolce dal frusciare della sua veste.  
 
-O voi che scolate la coppa della vita, o voi che portate la [[Crown|corona]],  
+O voi che scolate la coppa della vita, o voi che portate la [[motifs/crown|corona]],  
 
 Mai amaste il sorriso di donna come io ho amato il suo cipiglio.  
 
-Il [[Wind|vento]] soffiò da Bergen dall'albeggiare al giorno,  
+Il [[motifs/wind|vento]] soffiò da Bergen dall'albeggiare al giorno,  
 
 Cavalcano e corrono con cinquanta lance per rompere e sbarrarmi la via,  
 
-Non morirò [[Alone|solo]], [[Alone|solo]], ma parente di tutte le potenze.  
+Non morirò solo, solo, ma parente di tutte le potenze.  
 
-Allegro come il sole antico e combattendo come i [[Flowers|fiori]].  
+Allegro come il sole antico e combattendo come i [[motifs/flowers|fiori]].  
 
-Com'è bianco il loro acciaio, come brillano i loro occhi! Io [[Love|amo]] ogni ridente furfante.  
+Com'è bianco il loro acciaio, come brillano i loro occhi! Io [[motifs/love|amo]] ogni ridente furfante.  
 
 Gridate alto e dategli il benvenuto al banchetto dei prodi.  
 
-Sì, li benedirò mentre si piegano e li [[Love|amerò]] dove giacciono,  
+Sì, li benedirò mentre si piegano e li [[motifs/love|amerò]] dove giacciono,  
 
-Quando sui loro crani la [[Sword|spada]] che rotea cala frantumandosi dal cielo.  
+Quando sui loro crani la spada che rotea cala frantumandosi dal cielo.  
 
-L'ora in cui la [[Death|morte]] è come una luce e il [[Blood|sangue]] è come una [[Rose|rosa]],--  
+L'ora in cui la [[motifs/death|morte]] è come una luce e il [[motifs/blood|sangue]] è come una [[motifs/rose|rosa]],--  
 
-Mai amaste i vostri amici, amici miei, come io [[Love|amerò]] i miei nemici.  
+Mai amaste i vostri amici, amici miei, come io [[motifs/love|amerò]] i miei nemici.  
 
-Sapete che cosa la terra perderà questa [[Night|notte]], quali ricchi prestiti mai contati,  
+Sapete che cosa la terra perderà questa [[motifs/night|notte]], quali ricchi prestiti mai contati,  
 
 Quale greve oro di storie non narrate seppellite con le mie ossa?  
 
@@ -17944,25 +17944,25 @@ I miei amori in prati fondi e foschi, le mie navi all'ancora tranquille,
 
 Arruffando il piumaggio purpureo di mari strani e segreti.  
 
-Vedere questa bella terra com'è a me [[Alone|solo]] fu dato,  
+Vedere questa bella terra com'è a me solo fu dato,  
 
-Il colpo che mi spezza la fronte questa [[Night|notte]] spezzerà la volta del cielo.  
+Il colpo che mi spezza la fronte questa [[motifs/night|notte]] spezzerà la volta del cielo.  
 
 I cieli che vidi, gli alberi che vidi dopo nessun occhio vedrà.  
 
-Questa [[Night|notte]] muoio della [[Death|morte]] di Dio; le [[Stars|stelle]] morranno con me:  
+Questa [[motifs/night|notte]] muoio della [[motifs/death|morte]] di Dio; le [[motifs/stars|stelle]] morranno con me:  
 
 Un solo suono fenderà tutte le lance e spezzerà il fiato della tromba:  
 
-Mai rideste in tutta la vita come io riderò nella [[Death|morte]].  
+Mai rideste in tutta la vita come io riderò nella [[motifs/death|morte]].  
 
-VII
+VII  
 
 BALLATE  
 
 BALLADE D'UNE GRANDE DAME  
 
-Il Cielo ti perdonerà il Bridge all'[[Dawn|alba]],  
+Il Cielo ti perdonerà il Bridge all'[[motifs/dawn|alba]],  
 
 Gli abiti che porti--o non porti--  
 
@@ -18006,7 +18006,7 @@ Per sempre in custodia d'un carceriere
 
 Perché i suoi peccati eran più di _due_ ...  
 
-... Conosco una [[house]] a Hoxton dove  
+... Conosco una house a Hoxton dove  
 
 Non ti sarà perdonato.  
 
@@ -18020,7 +18020,7 @@ Quando l'Ultima Tromba squarcerà l'aria
 
 Non ti sarà perdonato.  
 
-UNA BALLATA DI UN [[anti-puritan|ANTI-PURITANO]]  
+UNA BALLATA DI UN ANTI-PURITANO  
 
 Parlavano del Progresso che s'inerpica a spirale,  
 
@@ -18032,7 +18032,7 @@ O che corsi per la stanza ruggendo;
 
 Avrei potuto semplicemente sedere e russare--  
 
-Mi [[Rose|alzai]] cortese nel club  
+Mi [[motifs/rose|alzai]] cortese nel club  
 
 E dissi, "Mi sento un poco annoiato;  
 
@@ -18044,7 +18044,7 @@ Intorno; e mi duole registrare
 
 Che non trovai profonde le loro vedute,  
 
-Né le loro conclusioni [[Well|ben]] salde;  
+Né le loro conclusioni [[motifs/well|ben]] salde;  
 
 La vita semplice non me la posso permettere,  
 
@@ -18062,9 +18062,9 @@ E virtù che crescono dal suolo,
 
 E fratellanza di birra e mensa,  
 
-E [[Song|canto]], che è una corda robusta.  
+E canto, che è una corda robusta.  
 
-E [[Hope|speranza]], che è un arbusto tenace,  
+E [[concepts/hope|speranza]], che è un arbusto tenace,  
 
 E bontà, che è l'ultima parola di Dio--  
 
@@ -18072,7 +18072,7 @@ Qualcuno vuol portarmi a un pub?
 
 ENVOI  
 
-Principe, Bayard avrebbe spezzato la sua [[Sword|spada]]  
+Principe, Bayard avrebbe spezzato la sua spada  
 
 Nel vedere la razza di cavalieri che nomini--È  
 
@@ -18094,7 +18094,7 @@ O Moses, dacci tregua a tutti!
 
 Non taglierò nemmeno gli spaghi,  
 
-Leggerò "Jack Redskin alla [[Quest]]"  
+Leggerò "Jack Redskin alla [[topoi/quest|Quest]]"  
 
 E nutrirò il mio cervello di cose migliori.  
 
@@ -18106,13 +18106,13 @@ A qualcuno piace la Scena Finlandese
 
 Perché i Giullari non fanno burle;  
 
-E grigio di [[Dust|polvere]] è il cimiero di [[Dante]],  
+E grigio di [[motifs/dust|polvere]] è il cimiero di [[historical-references/dante|Dante]],  
 
 La campana di Rabelais oscilla senza suono;  
 
 E i venti vengono dall'ovest  
 
-E nutrirò il mio cervello di cose migliori.  
+E nutrono il mio cervello di cose migliori.  
 
 Signore del nostro riso e della nostra rabbia.  
 
@@ -18126,9 +18126,9 @@ Brucia dal mio cervello e dal mio petto
 
 L'accidia, e la codardia che s'aggrappa,  
 
-E la rigidezza e l'arresto dell'[[Soul|anima]]:  
+E la rigidezza e l'arresto dell'[[motifs/soul|anima]]:  
 
-E nutrirò il mio cervello di cose migliori.  
+E nutri il mio cervello di cose migliori.  
 
 ENVOI  
 
@@ -18138,11 +18138,11 @@ Perciò rifuggo dai cavilli....
 
 Ma farei sopprimere quello spumante  
 
-E nutrirò il mio cervello di cose migliori.  
+E nutrirei il mio cervello di cose migliori.  
 
-UNA BALLATA DEL [[suicide|SUICIDIO]]  
+UNA BALLATA DEL [[concepts/suicide|SUICIDIO]]  
 
-La forca nel mio [[Garden|giardino]], dice la gente,  
+La forca nel mio [[motifs/garden|giardino]], dice la gente,  
 
 È nuova e linda e adeguatamente alta.  
 
@@ -18158,9 +18158,9 @@ Il più strano capriccio m'ha colto.... Dopotutto
 
 Credo che non mi impiccherò oggi.  
 
-Domani è il [[Time|momento]] in cui prendo la paga--La  
+Domani è il [[motifs/time|momento]] in cui prendo la paga--La  
 
-[[Sword|spada]] di mio zio pende nell'atrio--  
+spada di mio zio pende nell'atrio--  
 
 Vedo una nuvoletta tutta rosa e grigia--  
 
@@ -18176,11 +18176,11 @@ Credo che non mi impiccherò oggi.
 
 Il mondo avrà un altro giorno di bucato;  
 
-I decadenti [[Decay|decadono]]; i pedanti stancano;  
+I decadenti [[motifs/decay|decadono]]; i pedanti stancano;  
 
 E H.G. Wells ha scoperto che i bambini giocano.  
 
-E Bernard [[Shaw]] ha scoperto che strillano;  
+E Bernard [[works/shaw-(chesterton)|Shaw]] ha scoperto che strillano;  
 
 I razionalisti si fanno razionali--  
 
@@ -18202,13 +18202,13 @@ Credo che non mi impiccherò oggi.
 
 UNA BALLATA DELLA PRIMA PIOGGIA  
 
-Il cielo è azzurro di [[Summer|estate]] e di sole,  
+Il cielo è azzurro di [[motifs/summer|estate]] e di sole,  
 
-I boschi son bruni come [[Autumn|autunno]] per l'abbronzatura,  
+I boschi son bruni come [[motifs/autumn|autunno]] per l'abbronzatura,  
 
-Potrebbero [[Well|ben]] essere i Tropici e farla finita,  
+Potrebbero [[motifs/well|ben]] essere i Tropici e farla finita,  
 
-Potrei [[Well|ben]] essere nato un Khan di rame;  
+Potrei [[motifs/well|ben]] essere nato un Khan di rame;  
 
 Mi foggio un ventaglio orientale  
 
@@ -18216,11 +18216,11 @@ Fatto delle fatture del tutto non quietanzate
 
 Portate dall'uomo del ghiaccio, che dorme nel furgone  
 
-(Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills).  
+(Una [[motifs/storm|tempesta]] sta arrivando sui Chiltern Hills).  
 
 Leggo i Giovani Filosofi per divertimento  
 
---Freschi come il nostro cordoglio per la defunta [[Queen]] Anne--  
+--Freschi come il nostro cordoglio per la defunta [[characters/queen|Queen]] Anne--  
 
 I Dionisiaci che una pinta stenderebbe,  
 
@@ -18228,15 +18228,15 @@ I Panteisti che mai sentirono di Pan.
 
 --Ma tra i miei capelli corsero aghi elettrici,  
 
-E sul mio libro una goccia d'[[Water|acqua]] si versa,  
+E sul mio libro una goccia d'[[motifs/water|acqua]] si versa,  
 
 E sui lembi del cielo i cannoni cominciarono  
 
-(Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills).  
+(Una [[motifs/storm|tempesta]] sta arrivando sui Chiltern Hills).  
 
 O campi di England, crepati e secchi e bigi,  
 
-O [[Soul|anima]] di England, malata di parole, e smorta!--  
+O [[motifs/soul|anima]] di England, malata di parole, e smorta!--  
 
 Le nubi si fanno scure;--la piena è cominciata.  
 
@@ -18248,7 +18248,7 @@ Una risata che cade riempie tutta la valle,
 
 Fonda come il tuono di Dio e la sete dell'uomo:  
 
-(Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills).  
+(Una [[motifs/storm|tempesta]] sta arrivando sui Chiltern Hills).  
 
 ENVOI  
 
@@ -18258,4 +18258,4 @@ Che adempi tante Volontà del Popolo,
 
 Prenditi i Chiltern Hundreds finché puoi--  
 
-Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills.
+Una [[motifs/storm|tempesta]] sta arrivando sui Chiltern Hills.

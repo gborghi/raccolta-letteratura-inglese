@@ -22,7 +22,7 @@ tags:
   - character/madeline_usher
 ---
 
-*by Poe*  ·  **Cluster:** [[Supernatural · Uncanny · Double]]
+*by Poe*  ·  **Cluster:** [[clusters/supernatural-·-uncanny-·-double|Supernatural · Uncanny · Double]]
 
 > [!abstract] 
 > A gothic tale of the doomed twins Roderick and Madeline Usher, premature burial, hereditary madness and the literal collapse of their decaying house; a study in terror, the double, and the uncanny.
@@ -46,13 +46,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Double]]
-**Archetypes:** [[Double Doppelganger]]
-**Motifs:** [[Decay]], [[Grave]], [[Supernatural]], [[Book Reading]]
-**Themes & Concepts:** [[Terror and Horror]], [[Madness]], [[Uncanny]]
-**Forms & Genres:** [[Gothic Novel]]
-**Settings:** [[Castle]]
-**Characters:** [[Roderick Usher]], [[Madeline Usher]]
+**Topoi:** [[topoi/double|Double]]
+**Archetypes:** [[archetypes/double-doppelganger|Double Doppelganger]]
+**Motifs:** [[motifs/decay|Decay]], [[motifs/grave|Grave]], [[motifs/supernatural|Supernatural]], [[motifs/book-reading|Book Reading]]
+**Themes & Concepts:** [[concepts/terror-and-horror|Terror and Horror]], [[concepts/madness|Madness]], [[concepts/uncanny|Uncanny]]
+**Forms & Genres:** [[forms/gothic-novel|Gothic Novel]]
+**Settings:** [[settings/castle|Castle]]
+**Characters:** [[characters/roderick-usher|Roderick Usher]], [[characters/madeline-usher|Madeline Usher]]
 
 ## Testo integrale / Full text
 

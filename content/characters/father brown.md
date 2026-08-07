@@ -12,4 +12,14 @@ tags:
 
 <div class="concept-works" data-slug="characters/father-brown"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/incredulity-(chesterton)|Incredulity (Chesterton)]]
+- [[works/innocence-(chesterton)|innocence (Chesterton)]]
+- [[works/scandal-fr-brown-(chesterton)|scandal Fr Brown (Chesterton)]]
+- [[works/secret-fr-brown-(chesterton)|secret Fr Brown (Chesterton)]]
+- [[works/wifrb11-(chesterton)|wifrb11 (Chesterton)]]
+
+</div>
+
 #graph/character

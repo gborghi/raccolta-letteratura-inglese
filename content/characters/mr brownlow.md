@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/mr-brownlow"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/oliver-twist-(dickens)|Oliver Twist (Dickens)]]
+
+</div>
+
 #graph/character

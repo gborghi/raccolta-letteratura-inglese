@@ -14,4 +14,10 @@ British statesman-philosopher whom Chesterton celebrates in 'A Man of Distinctio
 
 <div class="concept-works" data-slug="historical-references/arthur-balfour"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/man-orthodox-(chesterton)|Man Orthodox (Chesterton)]]
+
+</div>
+
 #graph/histref

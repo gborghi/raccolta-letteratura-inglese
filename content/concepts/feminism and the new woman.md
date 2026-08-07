@@ -14,4 +14,11 @@ The essay opens by rebutting shallow feminist/Flapper-era readings of Austen, co
 
 <div class="concept-works" data-slug="concepts/feminism-and-the-new-woman"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/jane-austen-ge-(chesterton)|Jane Austen GE (Chesterton)]]
+- [[works/beyond-the-city-(conan-doyle)|Beyond the City (Conan Doyle)]]
+
+</div>
+
 #graph/concept

@@ -14,4 +14,12 @@ The ruined Punic empire invoked as the vision of England's own possible fall int
 
 <div class="concept-works" data-slug="historical-references/carthage"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/for-a-war-memorial-(chesterton)|For a War Memorial (Chesterton)]]
+- [[works/towers-of-time-(chesterton)|towers-of-time (Chesterton)]]
+- [[works/the-last-galley-(conan-doyle)|The Last Galley (Conan Doyle)]]
+
+</div>
+
 #graph/histref

@@ -37,7 +37,7 @@ tags:
   - histref/napoleonic_wars_the_navy
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Chesterton*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A sequence of satirical songs (History, Geography, Higher Mathematics) parodying patriotic-imperial schooling, mocking Empire, plutocratic finance and the propaganda taught to children.
@@ -48,17 +48,17 @@ tags:
 
 ## Connections
 
-**Settings:** [[Rural England]], [[Industrial City]], [[Medieval England (2)]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/industrial-city|Industrial City]], [[settings/medieval-england-(2)|Medieval England (2)]]
 
-**Motifs:** [[Money and Gold]], [[Machine]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/machine|Machine]]
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[Thomas Becket]]
+**Characters:** [[characters/thomas-becket|Thomas Becket]]
 
-**Themes & Concepts:** [[Satire of Society]], [[Nationalism and Patriotism]], [[Education]], [[Critique of Progress]], [[Power and Corruption]], [[Class Conflict]], [[Anti-Industrialism]], [[Money and Avarice]], [[Antisemitism]], [[Economics]], [[History]]
-**Forms & Genres:** [[Comic Verse Song]], [[Poem Sequence]], [[Satire]], [[Parody]]
-**Historical References:** [[Regency Georgian England]], [[Roman History]], [[Danish Invasions]], [[Crusades]], [[Industrial Revolution]], [[Napoleonic Wars the Navy]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/education|Education]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/class-conflict|Class Conflict]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/antisemitism|Antisemitism]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/poem-sequence|Poem Sequence]], [[forms/satire|Satire]], [[forms/parody|Parody]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/roman-history|Roman History]], [[historical-references/danish-invasions|Danish Invasions]], [[historical-references/crusades|Crusades]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]]
 
 ## Testo integrale / Full text
 
@@ -209,4 +209,4 @@ On the poets that live in the attics;
 For the whole of the house is upside down  
 In the Higher Mathematics.
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

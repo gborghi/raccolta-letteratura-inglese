@@ -14,4 +14,10 @@ The plain-spoken, honest young woman Gahagan loves and eventually marries, contr
 
 <div class="concept-works" data-slug="characters/joan-varney"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/mrpond-(chesterton)|MrPond (Chesterton)]]
+
+</div>
+
 #graph/character

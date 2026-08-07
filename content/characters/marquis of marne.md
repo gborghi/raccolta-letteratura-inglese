@@ -14,4 +14,10 @@ The masked, penitential recluse of Marne Castle in 'The Chief Mourner of Marne',
 
 <div class="concept-works" data-slug="characters/marquis-of-marne"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/secret-fr-brown-(chesterton)|secret Fr Brown (Chesterton)]]
+
+</div>
+
 #graph/character

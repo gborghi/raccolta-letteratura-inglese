@@ -37,20 +37,20 @@ tags:
   - setting/a_garden
 ---
 
-*by Poe*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
+*by Poe*  ·  **Cluster:** [[clusters/blood-·-verse-drama-·-revenge|Blood · Verse Drama · Revenge]]
 
 > [!abstract] 
 > An unfinished blank-verse verse-drama set in Renaissance Rome: the melancholy Earl Politian loves the ruined, vengeance-bound Lalage, swears to slay her betrayer Castiglione, building toward tragedy.
 
 ## Connections
 
-**Topoi:** [[Unattainable Beloved]], [[Love as Religion]], [[Paradise Lost]]
-**Archetypes:** [[Lover]], [[(Reputed) Fallen Woman]], [[Avenger]], [[Tragic Hero]]
-**Motifs:** [[Death]], [[Mirror]], [[Swords and Weapons]], [[Cross]], [[Music and Song]], [[Moon]]
-**Themes & Concepts:** [[Revenge]], [[Romantic Love]], [[Melancholy]], [[Honour]], [[Grief and Loss]], [[Guilt]], [[Conscience]]
-**Forms & Genres:** [[Verse Drama]], [[Tragedy]], [[Blank Verse]], [[Fragment]]
-**Historical References:** [[Renaissance]]
-**Settings:** [[Italy]], [[Garden (2)]], [[Europe]]
+**Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/love-as-religion|Love as Religion]], [[topoi/paradise-lost|Paradise Lost]]
+**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/avenger|Avenger]], [[archetypes/tragic-hero|Tragic Hero]]
+**Motifs:** [[motifs/death|Death]], [[motifs/mirror|Mirror]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/cross|Cross]], [[motifs/music-and-song|Music and Song]], [[motifs/moon|Moon]]
+**Themes & Concepts:** [[concepts/revenge|Revenge]], [[concepts/romantic-love|Romantic Love]], [[concepts/melancholy|Melancholy]], [[concepts/honour|Honour]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]]
+**Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/tragedy|Tragedy]], [[forms/blank-verse|Blank Verse]], [[forms/fragment|Fragment]]
+**Historical References:** [[historical-references/renaissance|Renaissance]]
+**Settings:** [[settings/italy|Italy]], [[settings/garden-(2)|Garden (2)]], [[settings/europe|Europe]]
 
 ## Testo integrale / Full text
 

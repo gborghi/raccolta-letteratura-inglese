@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/master-page"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-merry-wives-of-windsor-(shakespeare)|THE MERRY WIVES OF WINDSOR (Shakespeare)]]
+
+</div>
+
 #graph/character

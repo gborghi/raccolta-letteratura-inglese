@@ -32,7 +32,7 @@ tags:
 
 # christmas-games
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A playful essay imagining that children's games preceded practical objects, used to celebrate the ritual mystery behind everyday things, the wisdom of the peasantry, and to satirize gloomy modern science (Freud, Wells).
@@ -51,14 +51,14 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Trickster]]
+**Archetypes:** [[archetypes/trickster|Trickster]]
 
-**Characters:** [[Sigmund Freud]], [[H. G. Wells]], [[Gerald Heard]]
+**Characters:** [[characters/sigmund-freud|Sigmund Freud]], [[characters/h.-g.-wells|H. G. Wells]], [[characters/gerald-heard|Gerald Heard]]
 
-**Topoi:** [[Golden Age]], [[World Upside Down]]
-**Motifs:** [[Childhood]], [[Money and Gold]], [[Fire]]
-**Themes & Concepts:** [[Imagination]], [[Wonder and Gratitude]], [[Maturation and Growth]], [[Critique of Progress]], [[Distributism]], [[Common Man]], [[Paradox]], [[Economics]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Parody]], [[Nonfiction]]
+**Topoi:** [[topoi/golden-age|Golden Age]], [[topoi/world-upside-down|World Upside Down]]
+**Motifs:** [[motifs/childhood|Childhood]], [[motifs/money-and-gold|Money and Gold]], [[motifs/fire|Fire]]
+**Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/distributism|Distributism]], [[concepts/common-man|Common Man]], [[concepts/paradox|Paradox]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/parody|Parody]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

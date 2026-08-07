@@ -14,17 +14,17 @@ tags:
 <span class="atom-split" data-atom="milton" data-title="Milton" data-chapter="" data-kind="intro"></span>
 
 
-[[Milton]]: Man and Poet
+[[historical-references/milton|Milton]]: Man and Poet
 
 G K Chesterton
 
 All the mass of acute and valuable matter written or compiled
 
-about [[Milton]] [[Leaves|leaves]] eternally an unanswered question;
+about [[historical-references/milton|Milton]] [[motifs/leaves|leaves]] eternally an unanswered question;
 
 a difficulty felt by all, if expressed by few, of his readers.
 
-That difficulty is a contrast between the man and his [[Poems|poems]].
+That difficulty is a contrast between the man and his poems.
 
 There exists in the world a group of persons who perpetually try to prove
 
@@ -32,15 +32,15 @@ that Shakespeare was a clown and could not have written about princes,
 
 or that he was a drunkard and could not have written about virtue.
 
-I think there is a slight fallacy in the argument.  But I [[Wonder|wonder]] that they
+I think there is a slight fallacy in the argument.  But I [[concepts/wonder|wonder]] that they
 
 have not tried the much more tempting sport of separating the author
 
 of _L' Allegro_ from the author of the _Defensus Populi Anglicani_.
 
-For the contrast between the man [[Milton]] and the poet [[Milton]] is very
+For the contrast between the man [[historical-references/milton|Milton]] and the poet [[historical-references/milton|Milton]] is very
 
-much greater than is commonly realized.  I [[Fear|fear]] that the shortest
+much greater than is commonly realized.  I [[concepts/fear|fear]] that the shortest
 
 and clearest way of stating it is that when all is said and done,
 
@@ -48,11 +48,11 @@ he is a poet whom we cannot help liking, and a man whom we cannot like.
 
 I find it far easier to believe that an intoxicated Shakespeare
 
-wrote the marble parts of Shakespeare than that a marble [[Milton]]
+wrote the marble parts of Shakespeare than that a marble [[historical-references/milton|Milton]]
 
-wrote the intoxicated, or, rather, intoxicating, parts of [[Milton]].
+wrote the intoxicated, or, rather, intoxicating, parts of [[historical-references/milton|Milton]].
 
-[[Milton]]'s character was cold; he was one of those men who had every
+[[historical-references/milton|Milton]]'s character was cold; he was one of those men who had every
 
 virtue except the one virtue needful.  While other poets may have
 
@@ -64,19 +64,19 @@ The public has a quick eye for portraits, a very keen nose
 
 for personality; and across two centuries the traditional picture
 
-of [[Milton]] dictating to his daughters till they were nearly dead
+of [[historical-references/milton|Milton]] dictating to his daughters till they were nearly dead
 
-has kept the [[Truth|truth]] about [[Milton]]; it has not taken the chill off.
+has kept the [[concepts/truth|truth]] about [[historical-references/milton|Milton]]; it has not taken the chill off.
 
-But though the mass of men feel the fact [[Milton]] after two hundred years,
+But though the mass of men feel the fact [[historical-references/milton|Milton]] after two hundred years,
 
-they seldom read the poetry of [[Milton]] at all.  And so, because [[Milton]]
+they seldom read the poetry of [[historical-references/milton|Milton]] at all.  And so, because [[historical-references/milton|Milton]]
 
 the man was cold, they have got over the difficulty by saying
 
-that the poet [[Milton]] is cold too; cold, classical, marmoreal.
+that the poet [[historical-references/milton|Milton]] is cold too; cold, classical, marmoreal.
 
-But the poetry of [[Milton]] is not cold.  He did in his later years,
+But the poetry of [[historical-references/milton|Milton]] is not cold.  He did in his later years,
 
 and in a fit of bad temper, write a classical drama, which is
 
@@ -92,17 +92,17 @@ he is frequently sufficiently amorous to be called sensual.
 
 Even his religion is not always heathen in his poetry.
 
-If you heard for the first [[Time|time]] the line,
+If you heard for the first [[motifs/time|time]] the line,
 
 By the dear might of Him that walked the waves,
 
 you would only fancy that some heart of true religious heat
 
-and [[Humility|humility]], like Crashaw or George Herbert, had for a moment
+and [[concepts/humility|humility]], like Crashaw or George Herbert, had for a moment
 
 achieved a technical triumph and found a faultless line.
 
-If you read for the first [[Time|time]],
+If you read for the first [[motifs/time|time]],
 
 But come, thou Goddess fair and free,
 
@@ -120,11 +120,11 @@ Appeared, with gay enamelled colors mixed,
 
 or
 
-[[Silence]] was pleased. Now glowed the firmament
+[[motifs/silence|Silence]] was pleased. Now glowed the firmament
 
 With living sapphires,
 
-you would think that all the rich dyes of the [[Orient]] and
+you would think that all the rich dyes of the [[settings/orient|Orient]] and
 
 the Middle Ages had met, as they do in some quite modern poet,
 
@@ -134,39 +134,39 @@ of the ale and the elf and the Christmas sports in _L'Allegro_,
 
 you might think them written by the most rollicking of rustic poets;
 
-if you read some lines about Eve in [[Paradise Lost]], you might think
+if you read some lines about Eve in [[topoi/paradise-lost|Paradise Lost]], you might think
 
 them written at once by the most passionate and the most chivalrous
 
-of [[lovers]].  [[Paradise Lost]] is not dull; it is not even frigid.
+of lovers.  [[topoi/paradise-lost|Paradise Lost]] is not dull; it is not even frigid.
 
 Anyone who can remember reading the first few books as a boy will
 
-know what I mean; it is a [[Romance|romance]], and even a fantastic [[Romance|romance]].
+know what I mean; it is a romance, and even a fantastic romance.
 
 There is something in it of _Thalabe the Destroyer_; something wild
 
 and magical about the image of the empire in the abyss scaling
 
-the turrets of the magician who is [[King|king]] of the cosmos.
+the turrets of the magician who is [[archetypes/king|king]] of the cosmos.
 
 There is something Oriental in its design and its strange colors.
 
-One cannot imagine Flaxman illustrating [[Milton]] as he illustrated Homer.
+One cannot imagine Flaxman illustrating [[historical-references/milton|Milton]] as he illustrated Homer.
 
 Nor is it even true that the rich glimpse of tropical terrors are
 
 conveyed in a clear outline of language.  No one took more liberties
 
-with English, with metre, and even with common sense than [[Milton]];
+with English, with metre, and even with common sense than [[historical-references/milton|Milton]];
 
-an instance, of course, is the [[Well|well]]-known superlative about Adam
+an instance, of course, is the [[motifs/well|well]]-known superlative about Adam
 
 and his children.
 
-[[Milton]] was not a simple [[Epic|epic]] poet like Homer, nor was he even
+[[historical-references/milton|Milton]] was not a simple [[forms/epic|epic]] poet like Homer, nor was he even
 
-a specially clear [[Epic|epic]] poet like Virgil.  If these two gentlemen
+a specially clear [[forms/epic|epic]] poet like Virgil.  If these two gentlemen
 
 had studied his verse, they would have certainly acknowledged
 
@@ -174,9 +174,9 @@ its power; but they would have shrunk from its inversions,
 
 its abrupt ellipses, its sentences that sometimes come tail foremost.
 
-I might even say that Homer reading [[Milton]] might have much the same
+I might even say that Homer reading [[historical-references/milton|Milton]] might have much the same
 
-feelings as [[Milton]] reading Browning.  He would have found
+feelings as [[historical-references/milton|Milton]] reading Browning.  He would have found
 
 Or of the eternal coeternal beam
 
@@ -188,7 +188,7 @@ Those other two, equalled with me in fate, etc., etc.,
 
 almost entirely unintelligible.  In this sense it is absurd
 
-to set up [[Milton]] as a superlatively clear and classic poet.
+to set up [[historical-references/milton|Milton]] as a superlatively clear and classic poet.
 
 In the art of turning his sentences inside out he never had an equal;
 
@@ -196,15 +196,15 @@ and the only answer is to say that the result is perfect;
 
 though it is inside out, yet somehow it is right side out.
 
-Nevertheless, the tradition which puts [[Milton]] with Virgil and the large
+Nevertheless, the tradition which puts [[historical-references/milton|Milton]] with Virgil and the large
 
 and lucid poets, must possess and does possess some poetic significance.
 
-It lies, I think, in this:  the startling contrast between [[Milton]]
+It lies, I think, in this:  the startling contrast between [[historical-references/milton|Milton]]
 
 and the century in which he lived.  He was not supremely classical;
 
-but he was classical in a [[Time|time]] when classicism was almost forgotten.
+but he was classical in a [[motifs/time|time]] when classicism was almost forgotten.
 
 He was not specially lucid; but he was moderately intelligible
 
@@ -212,9 +212,9 @@ in an age when nearly all poets were proud of being unintelligible;
 
 an age of one hundred Brownings gone mad.  The seventeenth century was
 
-a most extraordinary [[Time|time]], which still awaits its adequate explanation.
+a most extraordinary [[motifs/time|time]], which still awaits its adequate explanation.
 
-It was something coming after the [[Renaissance]] which developed and yet
+It was something coming after the [[historical-references/renaissance|Renaissance]] which developed and yet
 
 darkened and confused it, just as a tree might be more tangled
 
@@ -230,7 +230,7 @@ every morning one heard that a new mad sect had excommunicated humanity.
 
 The grammars of Greek and Latin, which the young princes of
 
-the [[Renaissance]] had read as if they were romances, were now being
+the [[historical-references/renaissance|Renaissance]] had read as if they were romances, were now being
 
 complicated by bald-headed pedants until no one on earth could
 
@@ -246,7 +246,7 @@ The air was full of anger; and not a young sort of anger;
 
 exasperation on points of detail perpetually renewed.
 
-If the [[Renaissance]] was like a splendid wine, the seventeenth
+If the [[historical-references/renaissance|Renaissance]] was like a splendid wine, the seventeenth
 
 century might be compared to the second fermentation into vinegar.
 
@@ -262,57 +262,57 @@ those wonderfully witty poets who were incomprehensible at
 
 the first reading and dull even when one could comprehend them.
 
-Think of the scurrilous war of pamphlets, in which [[Milton]]
+Think of the scurrilous war of pamphlets, in which [[historical-references/milton|Milton]]
 
-himself engaged; pages full of elaborate [[logic]] which no one
+himself engaged; pages full of elaborate logic which no one
 
 can follow, and elaborate scandals which everyone has forgotten.
 
-Think of the tortured legalities of [[Crown]] and Parliament,
+Think of the tortured legalities of [[motifs/crown|Crown]] and Parliament,
 
 quoting against each other precedents of an utterly different age;
 
 think of the thick darkness of diplomacy that covers the meaning
 
-(if it had any) of the [[Thirty Years' War]].  The seventeenth
+(if it had any) of the [[historical-references/thirty-years'-war|Thirty Years' War]].  The seventeenth
 
 century was a labyrinth; it was full of corners and crotchets.
 
-And against this sort of background [[Milton]] stands up as simple and
+And against this sort of background [[historical-references/milton|Milton]] stands up as simple and
 
-splendid as [[Apollo]].  His style, which must always have been splendid,
+splendid as [[characters/apollo|Apollo]].  His style, which must always have been splendid,
 
 appeared more pure and translucent than it really was in contrast
 
-with all the mad [[Mystification|mystification]] and darkness.
+with all the mad mystification and darkness.
 
-A [[Riddle|riddle]] itself, that [[Time|time]] is full of minor riddles; and one of
+A [[forms/riddle|riddle]] itself, that [[motifs/time|time]] is full of minor riddles; and one of
 
-the most inexplicable of them involves the whole position of [[Milton]].
+the most inexplicable of them involves the whole position of [[historical-references/milton|Milton]].
 
 How far was there really a connection between Calvinism
 
-and the idea of liberty, or the idea of popular [[government]]?
+and the idea of liberty, or the idea of popular government?
 
 There is much to be said on both sides; indeed there is no more
 
-perplexing question than whereabouts at the [[Reformation]], or just
+perplexing question than whereabouts at the [[historical-references/reformation|Reformation]], or just
 
-after the [[Reformation]], lay the real seed of modern [[Self|self]]-[[government]]
+after the [[historical-references/reformation|Reformation]], lay the real seed of modern [[concepts/self|self]]-government
 
-and [[Freedom|freedom]], or, to speak more strictly, of the modern belief in them;
+and [[concepts/freedom|freedom]], or, to speak more strictly, of the modern belief in them;
 
 for we rather praise these things than possess them.
 
 The first and fundamental fact is certainly against the liberalizing
 
-character of [[Puritanism]].  It did not profess to be merely a moral
+character of [[historical-references/puritanism|Puritanism]].  It did not profess to be merely a moral
 
 movement; its whole point was that it was strictly a theological movement;
 
 its chief objection to its enemies was that they tried to exalt
 
-(as the Scotch Puritans said) "the cauld banes of [[morality]]"
+(as the Scotch Puritans said) "the cauld banes of morality"
 
 above the sustaining and comfortable doctrine of predestination.
 
@@ -326,17 +326,17 @@ either of emancipation or fraternity.  Calvinism took away a man's
 
 liberty in the universe; why, then, should it favor his liberty
 
-in the State?  [[Puritanism]] denied free will; why should it be likely to
+in the State?  [[historical-references/puritanism|Puritanism]] denied free will; why should it be likely to
 
 affirm free speech?  Why should the Calvinist object to an aristocracy?
 
 The Calvinists were an aristocracy; they were the most arrogant
 
-and awful of aristocracies by the [[Nature|nature]] of their own belief:
+and awful of aristocracies by the [[concepts/nature|nature]] of their own belief:
 
 they were the elect.  Why should the Puritans dislike a baby being
 
-born a nobleman?  It was the whole [[philosophy]] of the Puritans
+born a nobleman?  It was the whole philosophy of the Puritans
 
 that a baby is born a celestial nobleman; and he is at birth
 
@@ -344,7 +344,7 @@ and before birth a member of the cosmic upper classes.
 
 It should have been a small matter to the Puritans to admit that
 
-one might be born a [[King|king]], seeing that they maintained the much
+one might be born a [[archetypes/king|king]], seeing that they maintained the much
 
 more paradoxical position that one might be born a saint.
 
@@ -356,21 +356,21 @@ certainly much more the fact that they did dislike despotism than
 
 that they did dislike oligarchy.  The first conception of Calvinism
 
-is a fierce insistence on the utterly arbitrary [[Nature|nature]] of power.
+is a fierce insistence on the utterly arbitrary [[concepts/nature|nature]] of power.
 
-The [[King]] of the Cavaliers was certainly not so purely willful,
+The [[archetypes/king|King]] of the Cavaliers was certainly not so purely willful,
 
 so sublimely capricious a sultan, as the God of the Puritans.
 
 But we can add something much more plain and practical.
 
-It is not merely that despotism or oligarchy might [[Well|well]] have
+It is not merely that despotism or oligarchy might [[motifs/well|well]] have
 
 pleased the Puritans in theory:  it is also true that they did
 
 please the Puritans in practice.  Of the democratic element
 
-that did honestly exist in [[Puritanism]] I will speak in a moment;
+that did honestly exist in [[historical-references/puritanism|Puritanism]] I will speak in a moment;
 
 but the oligarchic and despotic elements were not merely things that
 
@@ -382,11 +382,11 @@ business of the Puritan revolt or triumph was anti-popular;
 
 that is to say, that at almost any given moment of the struggle,
 
-universal suffrage would have been a clear victory for the [[King|king]].
+universal suffrage would have been a clear victory for the [[archetypes/king|king]].
 
 The really brilliant triumph of Cromwell was not his triumph
 
-over the monarchy, but his triumph over the [[democracy]]; the fact
+over the monarchy, but his triumph over the [[concepts/democracy|democracy]]; the fact
 
 that he somehow kept the enormous crowd called England quiet.
 
@@ -400,19 +400,19 @@ to urge so generally accepted a conjecture as this.  Whatever may be true
 
 of the rebellion as a whole, no one will deny that at certain moments
 
-[[Puritanism]] appeared in politics as arrogant, fastidious and anti-popular;
+[[historical-references/puritanism|Puritanism]] appeared in politics as arrogant, fastidious and anti-popular;
 
-full of the [[Pride|pride]] of predestination and the scorn of all flesh.
+full of the [[concepts/pride|pride]] of predestination and the scorn of all flesh.
 
 Even the most enthusiastic upholder of the Whig or Republican theory
 
-of [[Puritanism]] will hardly pretend that when Colonel [[Pride]] drove
+of [[historical-references/puritanism|Puritanism]] will hardly pretend that when Colonel [[concepts/pride|Pride]] drove
 
 out of Parliament at the point of the pike all the members that
 
-ventured to disagree with him, his [[Soul|soul]] was at that moment inflamed
+ventured to disagree with him, his [[motifs/soul|soul]] was at that moment inflamed
 
-with an enthusiasm for free discussion or representative [[government]].
+with an enthusiasm for free discussion or representative government.
 
 It was by no means democratic; but it was highly Calvinistic.
 
@@ -420,7 +420,7 @@ It was a sort of public pantomime of the doctrine of election;
 
 of election in the theological, but by no means the political sense.
 
-It is still called "[[Pride]]'s Purge;" and the phrase has quite a fine
+It is still called "[[concepts/pride|Pride]]'s Purge;" and the phrase has quite a fine
 
 allegorical flavor, as if it came out of _Pilgrim's Progress_.
 
@@ -432,9 +432,9 @@ hold of the right surname.  And upon larger grounds the alliance
 
 between oligarchy and Protestantism has become only too plain.
 
-For all we know the [[Reformation]] may have tried to make
+For all we know the [[historical-references/reformation|Reformation]] may have tried to make
 
-a [[democracy]]; all that we do know for certain is that it did make
+a [[concepts/democracy|democracy]]; all that we do know for certain is that it did make
 
 an aristocracy, the most powerful aristocracy of modern times.
 
@@ -444,19 +444,19 @@ destruction of the small English landlords, who were the abbots.
 
 The public schools, which were for the populace in the Middle Ages,
 
-became aristocratic after the [[Reformation]].  The universities, which were
+became aristocratic after the [[historical-references/reformation|Reformation]].  The universities, which were
 
-popular in the Middle Ages, became aristocratic after the [[Reformation]].
+popular in the Middle Ages, became aristocratic after the [[historical-references/reformation|Reformation]].
 
 The tramp who went to a monastic inn in the Middle Ages,
 
-went to jail and the whipping-post after the [[Reformation]].
+went to jail and the whipping-post after the [[historical-references/reformation|Reformation]].
 
 All this is scarcely denied.
 
 Yet against all this must be put in fairness certain important facts;
 
-especially two facts illustrated in the figure and career of [[Milton]].
+especially two facts illustrated in the figure and career of [[historical-references/milton|Milton]].
 
 When we have clearly seen that Calvinism always favors aristocracy
 
@@ -464,15 +464,15 @@ in theory and often favors it in practice, two great facts remain
 
 to be explained or to be explained away.  First, that the Puritans
 
-did favor a deliberate or sy nodical method of church [[government]],
+did favor a deliberate or sy nodical method of church government,
 
-a [[government]] by [[debate]]; and, second, that most of the abstract
+a government by debate; and, second, that most of the abstract
 
 republicans of the seventeenth century were either Puritans or upon
 
 the Puritan side.  I am not, of course, discussing the synod as a mode
 
-of church [[government]], nor a republic as a mode of national [[government]].
+of church government, nor a republic as a mode of national government.
 
 I only say that the clamor for these things must have corresponded
 
@@ -488,9 +488,9 @@ the public good that read like those of some great pagan;
 
 but he was also the author of a proposal to reduce the poorer
 
-inhabitants of Scotland to a condition of personal [[Slavery|slavery]].
+inhabitants of Scotland to a condition of personal [[concepts/slavery|slavery]].
 
-There was a flavor of Fletcher of Saltown about [[Milton]].
+There was a flavor of Fletcher of Saltown about [[historical-references/milton|Milton]].
 
 Shakespeare puts into the mouth of some character (generally a
 
@@ -506,33 +506,33 @@ prejudices of the Royalist Shakespeare!  Observe the Jacobite
 
 servility of the follower of James I.!"  But as a matter of fact
 
-[[Milton]] despised the populace much more than Shakespeare;
+[[historical-references/milton|Milton]] despised the populace much more than Shakespeare;
 
-and [[Milton]] put his contempt for common men not into the mouth of silly
+and [[historical-references/milton|Milton]] put his contempt for common men not into the mouth of silly
 
 or stupid characters, but into that of the one wise character,
 
-the [[Chorus]], who is supposed to express the moral of a play:
+the [[characters/chorus|Chorus]], who is supposed to express the moral of a play:
 
 Nor do I name of men the common rout...
 
 But such as thou hast solemnly elected.
 
-I cannot help thinking that [[Milton]] was successful with [[Satan]],
+I cannot help thinking that [[historical-references/milton|Milton]] was successful with [[characters/satan|Satan]],
 
-because he was rather like [[Satan]] himself.  I mean his
+because he was rather like [[characters/satan|Satan]] himself.  I mean his
 
-own [[Satan]]:  I will not be so intemperate as to say that he resembled
+own [[characters/satan|Satan]]:  I will not be so intemperate as to say that he resembled
 
-the genuine article.  The kind of strength which supported [[Milton]]
+the genuine article.  The kind of strength which supported [[historical-references/milton|Milton]]
 
 in blindness and outlawry was very like the kind of strength
 
-that supported [[Satan]] on the flaming marl; it is the same quality,
+that supported [[characters/satan|Satan]] on the flaming marl; it is the same quality,
 
 and for merely literary purposes we need not quarrel about whether
 
-it should be called spiritual nobility or spiritual [[Pride|pride]].
+it should be called spiritual nobility or spiritual [[concepts/pride|pride]].
 
 It was almost wholly intellectual; it was unsmiling and it was empty
 
@@ -542,7 +542,7 @@ people who made up the bulk of the Royalist party and probably
 
 the bulk of the English people, we must remember that there was about
 
-the high republican type, the type of Vane, or Sydney, or [[Milton]],
+the high republican type, the type of Vane, or Sydney, or [[historical-references/milton|Milton]],
 
 something of this austerity which chilled and even alarmed.
 
@@ -556,7 +556,7 @@ none of those hearty or homely drinkers, soldiers, or ruffians,
 
 men like Danton or Dumouriez, who lent laughter to the terrors
 
-of the [[French Revolution]].  The deepest dislike which the Cavaliers
+of the [[historical-references/french-revolution|French Revolution]].  The deepest dislike which the Cavaliers
 
 felt for the Puritans, and no unjust dislike either, had reference
 
@@ -564,9 +564,9 @@ to this nameless feeling.
 
 It is possible, I fancy, to frame a fair statement that shall
 
-admit this element of the [[Pride|pride]] of the elect while doing justice
+admit this element of the [[concepts/pride|pride]] of the elect while doing justice
 
-to the democratic germ in [[Puritanism]].  It was the misfortune
+to the democratic germ in [[historical-references/puritanism|Puritanism]].  It was the misfortune
 
 of that age that the synodic or debating club idea was applied,
 
@@ -580,7 +580,7 @@ Thus the Puritan movement encouraged the sense of the equality
 
 of members without encouraging the sense of the equality of men.
 
-Each little sect was a [[democracy]] internally considered, but an oligarchy
+Each little sect was a [[concepts/democracy|democracy]] internally considered, but an oligarchy
 
 externally considered.  For an aristocracy is none the less aristocratic
 
@@ -588,15 +588,15 @@ because its members are all on a level; indeed this is rather a mark
 
 of aristocracy; in this sense most aristocracies have been levelers.
 
-Even the [[house|House]] of Lords is called the [[house|House]] of Equals:  the [[house|House]]
+Even the House of Lords is called the House of Equals:  the House
 
 of Peers.  Thus arose a spirit which had the plainness and much
 
-of the harshness of [[democracy]] without any of its sympathy or abandon.
+of the harshness of [[concepts/democracy|democracy]] without any of its sympathy or abandon.
 
 Thus arose the great race of the aristocratic republicans,
 
-half pagan and half Puritan, the greatest of whom was [[Milton]].
+half pagan and half Puritan, the greatest of whom was [[historical-references/milton|Milton]].
 
 The effect of this great type has been immense; but it has been
 
@@ -608,11 +608,11 @@ and they certainly have; if, through failing to understand it,
 
 they have done gross injustice to the heroisms and even the crimes
 
-of the [[French Revolution]], it is in no small degree due to this
+of the [[historical-references/french-revolution|French Revolution]], it is in no small degree due to this
 
 uncongenial element in the only great school of English republicans.
 
-The ultimate victory of Shakespeare over [[Milton]] has been very largely
+The ultimate victory of Shakespeare over [[historical-references/milton|Milton]] has been very largely
 
 due to the primary victory of _Il Penseroso_ over _L'Allegro_.
 
@@ -624,15 +624,15 @@ far less heroic than the dreadful patriotism of the great regicides;
 
 but the balance and excuse of that snobbishness was that it
 
-was the return of English humor and good [[Nature|nature]].  So we see it
+was the return of English humor and good [[concepts/nature|nature]].  So we see it
 
-in [[Milton]], in the one great Elizabethan who became a Puritan.
+in [[historical-references/milton|Milton]], in the one great Elizabethan who became a Puritan.
 
-His earlier [[Poems|poems]] are the dying cries of Merry England.  England, like his
+His earlier poems are the dying cries of Merry England.  England, like his
 
 own Samson, lost its strength when it lost its long hair.
 
-[[Milton]] was one of the slayers; but he was also of the slain.
+[[historical-references/milton|Milton]] was one of the slayers; but he was also of the slain.
 
 The mystery of his strange mind confronts us forever; we do not know
 
@@ -650,17 +650,17 @@ THE END
 <span class="atom-split" data-atom="part--part_01" data-title="Milton (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="topos/paradise_lost,archetype/king,motif/leaves,motif/silence,motif/time,motif/well,concept/fear,concept/humility,concept/truth,concept/wonder,form/epic,histref/milton,setting/orient,character/milton"></span>
 
 
-[[Milton]]: Man and Poet
+[[historical-references/milton|Milton]]: Man and Poet
 
 G K Chesterton
 
 All the mass of acute and valuable matter written or compiled
 
-about [[Milton]] [[Leaves|leaves]] eternally an unanswered question;
+about [[historical-references/milton|Milton]] [[motifs/leaves|leaves]] eternally an unanswered question;
 
 a difficulty felt by all, if expressed by few, of his readers.
 
-That difficulty is a contrast between the man and his [[Poems|poems]].
+That difficulty is a contrast between the man and his poems.
 
 There exists in the world a group of persons who perpetually try to prove
 
@@ -668,15 +668,15 @@ that Shakespeare was a clown and could not have written about princes,
 
 or that he was a drunkard and could not have written about virtue.
 
-I think there is a slight fallacy in the argument.  But I [[Wonder|wonder]] that they
+I think there is a slight fallacy in the argument.  But I [[concepts/wonder|wonder]] that they
 
 have not tried the much more tempting sport of separating the author
 
 of _L' Allegro_ from the author of the _Defensus Populi Anglicani_.
 
-For the contrast between the man [[Milton]] and the poet [[Milton]] is very
+For the contrast between the man [[historical-references/milton|Milton]] and the poet [[historical-references/milton|Milton]] is very
 
-much greater than is commonly realized.  I [[Fear|fear]] that the shortest
+much greater than is commonly realized.  I [[concepts/fear|fear]] that the shortest
 
 and clearest way of stating it is that when all is said and done,
 
@@ -684,11 +684,11 @@ he is a poet whom we cannot help liking, and a man whom we cannot like.
 
 I find it far easier to believe that an intoxicated Shakespeare
 
-wrote the marble parts of Shakespeare than that a marble [[Milton]]
+wrote the marble parts of Shakespeare than that a marble [[historical-references/milton|Milton]]
 
-wrote the intoxicated, or, rather, intoxicating, parts of [[Milton]].
+wrote the intoxicated, or, rather, intoxicating, parts of [[historical-references/milton|Milton]].
 
-[[Milton]]'s character was cold; he was one of those men who had every
+[[historical-references/milton|Milton]]'s character was cold; he was one of those men who had every
 
 virtue except the one virtue needful.  While other poets may have
 
@@ -700,19 +700,19 @@ The public has a quick eye for portraits, a very keen nose
 
 for personality; and across two centuries the traditional picture
 
-of [[Milton]] dictating to his daughters till they were nearly dead
+of [[historical-references/milton|Milton]] dictating to his daughters till they were nearly dead
 
-has kept the [[Truth|truth]] about [[Milton]]; it has not taken the chill off.
+has kept the [[concepts/truth|truth]] about [[historical-references/milton|Milton]]; it has not taken the chill off.
 
-But though the mass of men feel the fact [[Milton]] after two hundred years,
+But though the mass of men feel the fact [[historical-references/milton|Milton]] after two hundred years,
 
-they seldom read the poetry of [[Milton]] at all.  And so, because [[Milton]]
+they seldom read the poetry of [[historical-references/milton|Milton]] at all.  And so, because [[historical-references/milton|Milton]]
 
 the man was cold, they have got over the difficulty by saying
 
-that the poet [[Milton]] is cold too; cold, classical, marmoreal.
+that the poet [[historical-references/milton|Milton]] is cold too; cold, classical, marmoreal.
 
-But the poetry of [[Milton]] is not cold.  He did in his later years,
+But the poetry of [[historical-references/milton|Milton]] is not cold.  He did in his later years,
 
 and in a fit of bad temper, write a classical drama, which is
 
@@ -728,17 +728,17 @@ he is frequently sufficiently amorous to be called sensual.
 
 Even his religion is not always heathen in his poetry.
 
-If you heard for the first [[Time|time]] the line,
+If you heard for the first [[motifs/time|time]] the line,
 
 By the dear might of Him that walked the waves,
 
 you would only fancy that some heart of true religious heat
 
-and [[Humility|humility]], like Crashaw or George Herbert, had for a moment
+and [[concepts/humility|humility]], like Crashaw or George Herbert, had for a moment
 
 achieved a technical triumph and found a faultless line.
 
-If you read for the first [[Time|time]],
+If you read for the first [[motifs/time|time]],
 
 But come, thou Goddess fair and free,
 
@@ -756,11 +756,11 @@ Appeared, with gay enamelled colors mixed,
 
 or
 
-[[Silence]] was pleased. Now glowed the firmament
+[[motifs/silence|Silence]] was pleased. Now glowed the firmament
 
 With living sapphires,
 
-you would think that all the rich dyes of the [[Orient]] and
+you would think that all the rich dyes of the [[settings/orient|Orient]] and
 
 the Middle Ages had met, as they do in some quite modern poet,
 
@@ -770,39 +770,39 @@ of the ale and the elf and the Christmas sports in _L'Allegro_,
 
 you might think them written by the most rollicking of rustic poets;
 
-if you read some lines about Eve in [[Paradise Lost]], you might think
+if you read some lines about Eve in [[topoi/paradise-lost|Paradise Lost]], you might think
 
 them written at once by the most passionate and the most chivalrous
 
-of [[lovers]].  [[Paradise Lost]] is not dull; it is not even frigid.
+of lovers.  [[topoi/paradise-lost|Paradise Lost]] is not dull; it is not even frigid.
 
 Anyone who can remember reading the first few books as a boy will
 
-know what I mean; it is a [[Romance|romance]], and even a fantastic [[Romance|romance]].
+know what I mean; it is a romance, and even a fantastic romance.
 
 There is something in it of _Thalabe the Destroyer_; something wild
 
 and magical about the image of the empire in the abyss scaling
 
-the turrets of the magician who is [[King|king]] of the cosmos.
+the turrets of the magician who is [[archetypes/king|king]] of the cosmos.
 
 There is something Oriental in its design and its strange colors.
 
-One cannot imagine Flaxman illustrating [[Milton]] as he illustrated Homer.
+One cannot imagine Flaxman illustrating [[historical-references/milton|Milton]] as he illustrated Homer.
 
 Nor is it even true that the rich glimpse of tropical terrors are
 
 conveyed in a clear outline of language.  No one took more liberties
 
-with English, with metre, and even with common sense than [[Milton]];
+with English, with metre, and even with common sense than [[historical-references/milton|Milton]];
 
-an instance, of course, is the [[Well|well]]-known superlative about Adam
+an instance, of course, is the [[motifs/well|well]]-known superlative about Adam
 
 and his children.
 
-[[Milton]] was not a simple [[Epic|epic]] poet like Homer, nor was he even
+[[historical-references/milton|Milton]] was not a simple [[forms/epic|epic]] poet like Homer, nor was he even
 
-a specially clear [[Epic|epic]] poet like Virgil.  If these two gentlemen
+a specially clear [[forms/epic|epic]] poet like Virgil.  If these two gentlemen
 
 had studied his verse, they would have certainly acknowledged
 
@@ -810,9 +810,9 @@ its power; but they would have shrunk from its inversions,
 
 its abrupt ellipses, its sentences that sometimes come tail foremost.
 
-I might even say that Homer reading [[Milton]] might have much the same
+I might even say that Homer reading [[historical-references/milton|Milton]] might have much the same
 
-feelings as [[Milton]] reading Browning.  He would have found
+feelings as [[historical-references/milton|Milton]] reading Browning.  He would have found
 
 Or of the eternal coeternal beam
 
@@ -824,7 +824,7 @@ Those other two, equalled with me in fate, etc., etc.,
 
 almost entirely unintelligible.  In this sense it is absurd
 
-to set up [[Milton]] as a superlatively clear and classic poet.
+to set up [[historical-references/milton|Milton]] as a superlatively clear and classic poet.
 
 In the art of turning his sentences inside out he never had an equal;
 
@@ -832,32 +832,32 @@ and the only answer is to say that the result is perfect;
 
 though it is inside out, yet somehow it is right side out.
 
-Nevertheless, the tradition which puts [[Milton]] with Virgil and the large
+Nevertheless, the tradition which puts [[historical-references/milton|Milton]] with Virgil and the large
 
 and lucid poets, must possess and does possess some poetic significance.
 
-It lies, I think, in this:  the startling contrast between [[Milton]]
+It lies, I think, in this:  the startling contrast between [[historical-references/milton|Milton]]
 
 and the century in which he lived.  He was not supremely classical;
 
-but he was classical in a [[Time|time]] when classicism was almost forgotten.
+but he was classical in a [[motifs/time|time]] when classicism was almost forgotten.
 
 He was not specially lucid; but he was moderately intelligible
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Milton]]: l'uomo e il poeta
+[[historical-references/milton|Milton]]: l'uomo e il poeta
 
-G K Chesterton  
+G K Chesterton
 
 Tutta la mole di materia acuta e preziosa scritta o compilata
 
-su [[Milton]] [[Leaves|lascia]] in eterno una domanda senza risposta;
+su [[historical-references/milton|Milton]] [[motifs/leaves|lascia]] in eterno una domanda senza risposta;
 
 una difficoltà avvertita da tutti i suoi lettori, se pur espressa da pochi.
 
-Quella difficoltà è un contrasto tra l'uomo e le sue [[Poems|poesie]].
+Quella difficoltà è un contrasto tra l'uomo e le sue poesie.
 
 Esiste al mondo un gruppo di persone che perpetuamente cerca di dimostrare
 
@@ -865,15 +865,15 @@ che Shakespeare fosse un villano e non potesse aver scritto di principi,
 
 o che fosse un ubriacone e non potesse aver scritto della virtù.
 
-Credo che vi sia una lieve fallacia nell'argomento.  Ma mi [[Wonder|stupisco]] che non
+Credo che vi sia una lieve fallacia nell'argomento.  Ma mi [[concepts/wonder|stupisco]] che non
 
 abbiano tentato lo sport ben più allettante di separare l'autore
 
 de _L' Allegro_ dall'autore della _Defensus Populi Anglicani_.
 
-Poiché il contrasto tra l'uomo [[Milton]] e il poeta [[Milton]] è assai
+Poiché il contrasto tra l'uomo [[historical-references/milton|Milton]] e il poeta [[historical-references/milton|Milton]] è assai
 
-più grande di quanto comunemente si creda.  [[Fear|Temo]] che il modo più breve
+più grande di quanto comunemente si creda.  [[concepts/fear|Temo]] che il modo più breve
 
 e più chiaro di enunciarlo sia questo: che, tutto sommato,
 
@@ -881,11 +881,11 @@ egli è un poeta che non possiamo fare a meno di amare, e un uomo che non possia
 
 Trovo assai più facile credere che uno Shakespeare ubriaco
 
-abbia scritto le parti marmoree di Shakespeare, piuttosto che un [[Milton]] marmoreo
+abbia scritto le parti marmoree di Shakespeare, piuttosto che un [[historical-references/milton|Milton]] marmoreo
 
-abbia scritto le parti inebriate, o meglio inebrianti, di [[Milton]].
+abbia scritto le parti inebriate, o meglio inebrianti, di [[historical-references/milton|Milton]].
 
-Il carattere di [[Milton]] era freddo; egli era uno di quegli uomini che avevano ogni
+Il carattere di [[historical-references/milton|Milton]] era freddo; egli era uno di quegli uomini che avevano ogni
 
 virtù tranne l'unica virtù necessaria.  Mentre altri poeti possono essere
 
@@ -897,19 +897,19 @@ Il pubblico ha l'occhio pronto per i ritratti, un fiuto assai fine
 
 per la personalità; e attraverso due secoli l'immagine tradizionale
 
-di [[Milton]] che detta alle figlie fin quasi a sfinirle
+di [[historical-references/milton|Milton]] che detta alle figlie fin quasi a sfinirle
 
-ha conservato la [[Truth|verità]] su [[Milton]]; non gli ha tolto il gelo.
+ha conservato la [[concepts/truth|verità]] su [[historical-references/milton|Milton]]; non gli ha tolto il gelo.
 
-Ma benché la massa degli uomini avverta il fatto [[Milton]] dopo duecento anni,
+Ma benché la massa degli uomini avverta il fatto [[historical-references/milton|Milton]] dopo duecento anni,
 
-di rado leggono la poesia di [[Milton]].  E così, poiché [[Milton]]
+di rado leggono la poesia di [[historical-references/milton|Milton]].  E così, poiché [[historical-references/milton|Milton]]
 
 l'uomo era freddo, hanno aggirato la difficoltà dicendo
 
-che anche il poeta [[Milton]] è freddo; freddo, classico, marmoreo.
+che anche il poeta [[historical-references/milton|Milton]] è freddo; freddo, classico, marmoreo.
 
-Ma la poesia di [[Milton]] non è fredda.  Egli negli anni tardi,
+Ma la poesia di [[historical-references/milton|Milton]] non è fredda.  Egli negli anni tardi,
 
 e in un accesso di malumore, scrisse un dramma classico, che è
 
@@ -925,17 +925,17 @@ quanto Keats.  È talora sufficientemente amoroso da poter essere detto tenero;
 
 Persino la sua religione non è sempre pagana nella sua poesia.
 
-Se udiste per la prima [[Time|volta]] il verso,
+Se udiste per la prima [[motifs/time|volta]] il verso,
 
 By the dear might of Him that walked the waves,
 
 immaginereste soltanto che qualche cuore di autentico calore religioso
 
-e di [[Humility|umiltà]], come Crashaw o George Herbert, avesse per un istante
+e di [[concepts/humility|umiltà]], come Crashaw o George Herbert, avesse per un istante
 
 conseguito un trionfo tecnico e trovato un verso senza pecca.
 
-Se leggeste per la prima [[Time|volta]],
+Se leggeste per la prima [[motifs/time|volta]],
 
 But come, thou Goddess fair and free,
 
@@ -951,13 +951,13 @@ Blossoms and fruits at once of golden hue
 
 Appeared, with gay enamelled colors mixed,
 
-or
+o
 
-[[Silence]] was pleased. Now glowed the firmament
+[[motifs/silence|Silence]] was pleased. Now glowed the firmament
 
 With living sapphires,
 
-pensereste che tutte le ricche tinture dell'[[Orient|Oriente]] e
+pensereste che tutte le ricche tinture dell'[[settings/orient|Oriente]] e
 
 del Medioevo si fossero incontrate, come avviene in qualche poeta assai moderno,
 
@@ -967,39 +967,39 @@ della birra, dell'elfo e dei giochi natalizi in _L'Allegro_,
 
 lo credereste scritto dal più gioviale dei poeti campagnoli;
 
-se leggeste certi versi su Eva nel [[Paradise Lost]], li credereste
+se leggeste certi versi su Eva nel [[topoi/paradise-lost|Paradise Lost]], li credereste
 
 scritti a un tempo dal più appassionato e dal più cavalleresco
 
-degli [[lovers|amanti]].  Il [[Paradise Lost]] non è tedioso; non è nemmeno frigido.
+degli amanti.  Il [[topoi/paradise-lost|Paradise Lost]] non è tedioso; non è nemmeno frigido.
 
 Chiunque ricordi di aver letto i primi libri da ragazzo
 
-capirà cosa intendo; è un [[Romance|romanzo]], e persino un [[Romance|romanzo]] fantastico.
+capirà cosa intendo; è un romanzo, e persino un romanzo fantastico.
 
 Vi è in esso qualcosa del _Thalabe the Destroyer_; qualcosa di selvaggio
 
 e magico nell'immagine dell'impero nell'abisso che scala
 
-le torri del mago che è [[King|re]] del cosmo.
+le torri del mago che è [[archetypes/king|re]] del cosmo.
 
 Vi è qualcosa di orientale nel suo disegno e nei suoi strani colori.
 
-Non si può immaginare Flaxman che illustra [[Milton]] come illustrò Omero.
+Non si può immaginare Flaxman che illustra [[historical-references/milton|Milton]] come illustrò Omero.
 
 Né è vero che i ricchi barbagli dei terrori tropicali siano
 
 resi in un limpido contorno di linguaggio.  Nessuno si prese più libertà
 
-con l'inglese, con la metrica, e persino col buon senso, di [[Milton]];
+con l'inglese, con la metrica, e persino col buon senso, di [[historical-references/milton|Milton]];
 
-un esempio, naturalmente, è il ben [[Well|noto]] superlativo su Adamo
+un esempio, naturalmente, è il ben [[motifs/well|noto]] superlativo su Adamo
 
 e i suoi figli.
 
-[[Milton]] non era un semplice poeta [[Epic|epico]] come Omero, né era neppure
+[[historical-references/milton|Milton]] non era un semplice poeta [[forms/epic|epico]] come Omero, né era neppure
 
-un poeta [[Epic|epico]] particolarmente chiaro come Virgilio.  Se questi due signori
+un poeta [[forms/epic|epico]] particolarmente chiaro come Virgilio.  Se questi due signori
 
 avessero studiato il suo verso, ne avrebbero certo riconosciuto
 
@@ -1007,9 +1007,9 @@ la potenza; ma avrebbero rifuggito dalle sue inversioni,
 
 dalle sue brusche ellissi, dalle sue frasi che talora arrivano a coda avanti.
 
-Potrei dire perfino che Omero leggendo [[Milton]] avrebbe forse gli stessi
+Potrei dire perfino che Omero leggendo [[historical-references/milton|Milton]] avrebbe forse gli stessi
 
-sentimenti di [[Milton]] leggendo Browning.  Avrebbe trovato
+sentimenti di [[historical-references/milton|Milton]] leggendo Browning.  Avrebbe trovato
 
 Or of the eternal coeternal beam
 
@@ -1021,7 +1021,7 @@ Those other two, equalled with me in fate, etc., etc.,
 
 quasi del tutto inintelligibile.  In questo senso è assurdo
 
-erigere [[Milton]] a poeta superlativamente chiaro e classico.
+erigere [[historical-references/milton|Milton]] a poeta superlativamente chiaro e classico.
 
 Nell'arte di rivoltare le frasi come un guanto non ebbe mai eguali;
 
@@ -1029,15 +1029,15 @@ e l'unica risposta è dire che il risultato è perfetto;
 
 benché sia rovesciato, in qualche modo è pur diritto per il verso giusto.
 
-Ciò nondimeno, la tradizione che pone [[Milton]] con Virgilio e i grandi
+Ciò nondimeno, la tradizione che pone [[historical-references/milton|Milton]] con Virgilio e i grandi
 
 e lucidi poeti deve possedere e possiede davvero qualche significato poetico.
 
-Sta, credo, in questo: nello sconcertante contrasto tra [[Milton]]
+Sta, credo, in questo: nello sconcertante contrasto tra [[historical-references/milton|Milton]]
 
 e il secolo in cui visse.  Non fu supremamente classico;
 
-ma fu classico in un [[Time|tempo]] in cui il classicismo era quasi dimenticato.
+ma fu classico in un [[motifs/time|tempo]] in cui il classicismo era quasi dimenticato.
 
 Non fu particolarmente lucido; ma fu moderatamente intelligibile
 
@@ -1050,9 +1050,9 @@ in an age when nearly all poets were proud of being unintelligible;
 
 an age of one hundred Brownings gone mad.  The seventeenth century was
 
-a most extraordinary [[Time|time]], which still awaits its adequate explanation.
+a most extraordinary [[motifs/time|time]], which still awaits its adequate explanation.
 
-It was something coming after the [[Renaissance]] which developed and yet
+It was something coming after the [[historical-references/renaissance|Renaissance]] which developed and yet
 
 darkened and confused it, just as a tree might be more tangled
 
@@ -1068,7 +1068,7 @@ every morning one heard that a new mad sect had excommunicated humanity.
 
 The grammars of Greek and Latin, which the young princes of
 
-the [[Renaissance]] had read as if they were romances, were now being
+the [[historical-references/renaissance|Renaissance]] had read as if they were romances, were now being
 
 complicated by bald-headed pedants until no one on earth could
 
@@ -1084,7 +1084,7 @@ The air was full of anger; and not a young sort of anger;
 
 exasperation on points of detail perpetually renewed.
 
-If the [[Renaissance]] was like a splendid wine, the seventeenth
+If the [[historical-references/renaissance|Renaissance]] was like a splendid wine, the seventeenth
 
 century might be compared to the second fermentation into vinegar.
 
@@ -1100,57 +1100,57 @@ those wonderfully witty poets who were incomprehensible at
 
 the first reading and dull even when one could comprehend them.
 
-Think of the scurrilous war of pamphlets, in which [[Milton]]
+Think of the scurrilous war of pamphlets, in which [[historical-references/milton|Milton]]
 
-himself engaged; pages full of elaborate [[logic]] which no one
+himself engaged; pages full of elaborate logic which no one
 
 can follow, and elaborate scandals which everyone has forgotten.
 
-Think of the tortured legalities of [[Crown]] and Parliament,
+Think of the tortured legalities of [[motifs/crown|Crown]] and Parliament,
 
 quoting against each other precedents of an utterly different age;
 
 think of the thick darkness of diplomacy that covers the meaning
 
-(if it had any) of the [[Thirty Years' War]].  The seventeenth
+(if it had any) of the [[historical-references/thirty-years'-war|Thirty Years' War]].  The seventeenth
 
 century was a labyrinth; it was full of corners and crotchets.
 
-And against this sort of background [[Milton]] stands up as simple and
+And against this sort of background [[historical-references/milton|Milton]] stands up as simple and
 
-splendid as [[Apollo]].  His style, which must always have been splendid,
+splendid as [[characters/apollo|Apollo]].  His style, which must always have been splendid,
 
 appeared more pure and translucent than it really was in contrast
 
-with all the mad [[Mystification|mystification]] and darkness.
+with all the mad mystification and darkness.
 
-A [[Riddle|riddle]] itself, that [[Time|time]] is full of minor riddles; and one of
+A [[forms/riddle|riddle]] itself, that [[motifs/time|time]] is full of minor riddles; and one of
 
-the most inexplicable of them involves the whole position of [[Milton]].
+the most inexplicable of them involves the whole position of [[historical-references/milton|Milton]].
 
 How far was there really a connection between Calvinism
 
-and the idea of liberty, or the idea of popular [[government]]?
+and the idea of liberty, or the idea of popular government?
 
 There is much to be said on both sides; indeed there is no more
 
-perplexing question than whereabouts at the [[Reformation]], or just
+perplexing question than whereabouts at the [[historical-references/reformation|Reformation]], or just
 
-after the [[Reformation]], lay the real seed of modern [[Self|self]]-[[government]]
+after the [[historical-references/reformation|Reformation]], lay the real seed of modern [[concepts/self|self]]-government
 
-and [[Freedom|freedom]], or, to speak more strictly, of the modern belief in them;
+and [[concepts/freedom|freedom]], or, to speak more strictly, of the modern belief in them;
 
 for we rather praise these things than possess them.
 
 The first and fundamental fact is certainly against the liberalizing
 
-character of [[Puritanism]].  It did not profess to be merely a moral
+character of [[historical-references/puritanism|Puritanism]].  It did not profess to be merely a moral
 
 movement; its whole point was that it was strictly a theological movement;
 
 its chief objection to its enemies was that they tried to exalt
 
-(as the Scotch Puritans said) "the cauld banes of [[morality]]"
+(as the Scotch Puritans said) "the cauld banes of morality"
 
 above the sustaining and comfortable doctrine of predestination.
 
@@ -1164,17 +1164,17 @@ either of emancipation or fraternity.  Calvinism took away a man's
 
 liberty in the universe; why, then, should it favor his liberty
 
-in the State?  [[Puritanism]] denied free will; why should it be likely to
+in the State?  [[historical-references/puritanism|Puritanism]] denied free will; why should it be likely to
 
 affirm free speech?  Why should the Calvinist object to an aristocracy?
 
 The Calvinists were an aristocracy; they were the most arrogant
 
-and awful of aristocracies by the [[Nature|nature]] of their own belief:
+and awful of aristocracies by the [[concepts/nature|nature]] of their own belief:
 
 they were the elect.  Why should the Puritans dislike a baby being
 
-born a nobleman?  It was the whole [[philosophy]] of the Puritans
+born a nobleman?  It was the whole philosophy of the Puritans
 
 that a baby is born a celestial nobleman; and he is at birth
 
@@ -1182,7 +1182,7 @@ and before birth a member of the cosmic upper classes.
 
 It should have been a small matter to the Puritans to admit that
 
-one might be born a [[King|king]], seeing that they maintained the much
+one might be born a [[archetypes/king|king]], seeing that they maintained the much
 
 more paradoxical position that one might be born a saint.
 
@@ -1194,21 +1194,21 @@ certainly much more the fact that they did dislike despotism than
 
 that they did dislike oligarchy.  The first conception of Calvinism
 
-is a fierce insistence on the utterly arbitrary [[Nature|nature]] of power.
+is a fierce insistence on the utterly arbitrary [[concepts/nature|nature]] of power.
 
-The [[King]] of the Cavaliers was certainly not so purely willful,
+The [[archetypes/king|King]] of the Cavaliers was certainly not so purely willful,
 
 so sublimely capricious a sultan, as the God of the Puritans.
 
 But we can add something much more plain and practical.
 
-It is not merely that despotism or oligarchy might [[Well|well]] have
+It is not merely that despotism or oligarchy might [[motifs/well|well]] have
 
 pleased the Puritans in theory:  it is also true that they did
 
 please the Puritans in practice.  Of the democratic element
 
-that did honestly exist in [[Puritanism]] I will speak in a moment;
+that did honestly exist in [[historical-references/puritanism|Puritanism]] I will speak in a moment;
 
 but the oligarchic and despotic elements were not merely things that
 
@@ -1220,11 +1220,11 @@ business of the Puritan revolt or triumph was anti-popular;
 
 that is to say, that at almost any given moment of the struggle,
 
-universal suffrage would have been a clear victory for the [[King|king]].
+universal suffrage would have been a clear victory for the [[archetypes/king|king]].
 
 The really brilliant triumph of Cromwell was not his triumph
 
-over the monarchy, but his triumph over the [[democracy]]; the fact
+over the monarchy, but his triumph over the [[concepts/democracy|democracy]]; the fact
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1233,9 +1233,9 @@ in un'epoca in cui quasi tutti i poeti erano fieri di essere inintelligibili;
 
 un'epoca di cento Browning impazziti.  Il diciassettesimo secolo fu
 
-un [[Time|tempo]] del tutto straordinario, che attende ancora la sua adeguata spiegazione.
+un [[motifs/time|tempo]] del tutto straordinario, che attende ancora la sua adeguata spiegazione.
 
-Fu qualcosa che venne dopo il [[Renaissance|Rinascimento]] e che lo sviluppò eppure
+Fu qualcosa che venne dopo il [[historical-references/renaissance|Rinascimento]] e che lo sviluppò eppure
 
 lo oscurò e lo confuse, così come un albero può essere più aggrovigliato
 
@@ -1251,7 +1251,7 @@ ogni mattina si udiva che una nuova setta folle aveva scomunicato l'umanità.
 
 Le grammatiche di greco e latino, che i giovani principi del
 
-[[Renaissance|Rinascimento]] avevano letto come fossero romanzi, venivano ora
+[[historical-references/renaissance|Rinascimento]] avevano letto come fossero romanzi, venivano ora
 
 complicate da pedanti calvi finché nessuno sulla terra poteva
 
@@ -1267,7 +1267,7 @@ L'aria era piena d'ira; e non di un'ira giovane;
 
 esasperazione su punti di dettaglio perpetuamente rinnovata.
 
-Se il [[Renaissance|Rinascimento]] era come un vino splendido, il diciassettesimo
+Se il [[historical-references/renaissance|Rinascimento]] era come un vino splendido, il diciassettesimo
 
 secolo si potrebbe paragonare alla seconda fermentazione in aceto.
 
@@ -1283,57 +1283,57 @@ quei poeti meravigliosamente arguti che erano incomprensibili alla
 
 prima lettura e tediosi persino quando li si poteva comprendere.
 
-Pensate alla scurrile guerra di pamphlet, in cui [[Milton]]
+Pensate alla scurrile guerra di pamphlet, in cui [[historical-references/milton|Milton]]
 
-stesso s'impegnò; pagine piene di elaborata [[logic|logica]] che nessuno
+stesso s'impegnò; pagine piene di elaborata logica che nessuno
 
 riesce a seguire, e di elaborati scandali che tutti hanno dimenticato.
 
-Pensate ai tortuosi cavilli legali della [[Crown|Corona]] e del Parlamento,
+Pensate ai tortuosi cavilli legali della [[motifs/crown|Corona]] e del Parlamento,
 
 che si citavano l'un l'altro precedenti di un'epoca del tutto diversa;
 
 pensate alle fitte tenebre della diplomazia che copre il significato
 
-(se ne aveva alcuno) della [[Thirty Years' War|Guerra dei Trent'anni]].  Il diciassettesimo
+(se ne aveva alcuno) della [[historical-references/thirty-years'-war|Guerra dei Trent'anni]].  Il diciassettesimo
 
 secolo fu un labirinto; era pieno di angoli e di ghiribizzi.
 
-E contro un simile sfondo [[Milton]] si erge semplice e
+E contro un simile sfondo [[historical-references/milton|Milton]] si erge semplice e
 
-splendido come [[Apollo]].  Il suo stile, che dev'essere sempre stato splendido,
+splendido come [[characters/apollo|Apollo]].  Il suo stile, che dev'essere sempre stato splendido,
 
 apparve più puro e translucido di quanto realmente fosse, in contrasto
 
-con tutta quella folle [[Mystification|mistificazione]] e oscurità.
+con tutta quella folle mistificazione e oscurità.
 
-Un [[Riddle|enigma]] esso stesso, quel [[Time|tempo]] è pieno di enigmi minori; e uno dei
+Un [[forms/riddle|enigma]] esso stesso, quel [[motifs/time|tempo]] è pieno di enigmi minori; e uno dei
 
-più inesplicabili tra essi coinvolge l'intera posizione di [[Milton]].
+più inesplicabili tra essi coinvolge l'intera posizione di [[historical-references/milton|Milton]].
 
 Fino a che punto vi fu davvero una connessione tra il calvinismo
 
-e l'idea di libertà, o l'idea di [[government|governo]] popolare?
+e l'idea di libertà, o l'idea di governo popolare?
 
 Molto si può dire da entrambe le parti; anzi non c'è
 
-questione più perplessa di dove, alla [[Reformation|Riforma]], o proprio
+questione più perplessa di dove, alla [[historical-references/reformation|Riforma]], o proprio
 
-dopo la [[Reformation|Riforma]], giacesse il vero seme del moderno [[Self|auto]]-[[government|governo]]
+dopo la [[historical-references/reformation|Riforma]], giacesse il vero seme del moderno [[concepts/self|auto]]-governo
 
-e della [[Freedom|libertà]], o, per dir più propriamente, della moderna fede in essi;
+e della [[concepts/freedom|libertà]], o, per dir più propriamente, della moderna fede in essi;
 
 giacché più li lodiamo, queste cose, che non le possediamo.
 
 Il primo e fondamentale fatto è certo contro il carattere liberalizzante
 
-del [[Puritanism|Puritanesimo]].  Esso non pretendeva di essere un mero movimento
+del [[historical-references/puritanism|Puritanesimo]].  Esso non pretendeva di essere un mero movimento
 
 morale; tutto il suo punto era che fosse rigorosamente un movimento teologico;
 
 la sua principale obiezione ai nemici era che tentassero di esaltare
 
-(come dicevano i Puritani scozzesi) "le fredde ossa della [[morality|moralità]]"
+(come dicevano i Puritani scozzesi) "le fredde ossa della moralità"
 
 al di sopra della sostenente e confortevole dottrina della predestinazione.
 
@@ -1347,17 +1347,17 @@ né dell'emancipazione né della fraternità.  Il calvinismo tolse a un uomo
 
 la libertà nell'universo; perché, dunque, avrebbe dovuto favorire la sua libertà
 
-nello Stato?  Il [[Puritanism|Puritanesimo]] negava il libero arbitrio; perché mai avrebbe dovuto
+nello Stato?  Il [[historical-references/puritanism|Puritanesimo]] negava il libero arbitrio; perché mai avrebbe dovuto
 
 affermare la libera parola?  Perché il calvinista avrebbe dovuto opporsi a un'aristocrazia?
 
 I calvinisti erano un'aristocrazia; erano la più arrogante
 
-e tremenda delle aristocrazie per la [[Nature|natura]] della loro stessa fede:
+e tremenda delle aristocrazie per la [[concepts/nature|natura]] della loro stessa fede:
 
 erano gli eletti.  Perché i Puritani avrebbero dovuto detestare che un bimbo nascesse
 
-nobile?  Era l'intera [[philosophy|filosofia]] dei Puritani
+nobile?  Era l'intera filosofia dei Puritani
 
 che un bimbo nasce nobile celeste; ed è alla nascita
 
@@ -1365,7 +1365,7 @@ e prima della nascita un membro delle classi alte cosmiche.
 
 Doveva essere ben poca cosa per i Puritani ammettere che
 
-uno potesse nascere [[King|re]], visto che sostenevano la posizione assai
+uno potesse nascere [[archetypes/king|re]], visto che sostenevano la posizione assai
 
 più paradossale che uno potesse nascere santo.
 
@@ -1377,21 +1377,21 @@ certo assai più vero che detestassero il dispotismo di quanto
 
 detestassero l'oligarchia.  La prima concezione del calvinismo
 
-è una fiera insistenza sulla [[Nature|natura]] del tutto arbitraria del potere.
+è una fiera insistenza sulla [[concepts/nature|natura]] del tutto arbitraria del potere.
 
-Il [[King|Re]] dei Cavalieri non era certo un sultano così puramente arbitrario,
+Il [[archetypes/king|Re]] dei Cavalieri non era certo un sultano così puramente arbitrario,
 
 così sublimemente capriccioso, come il Dio dei Puritani.
 
 Ma possiamo aggiungere qualcosa di assai più piano e pratico.
 
-Non è soltanto che il dispotismo o l'oligarchia avrebbero [[Well|potuto]] ben
+Non è soltanto che il dispotismo o l'oligarchia avrebbero [[motifs/well|potuto]] ben
 
 piacere ai Puritani in teoria: è anche vero che essi
 
 piacquero ai Puritani in pratica.  Dell'elemento democratico
 
-che davvero esisteva onestamente nel [[Puritanism|Puritanesimo]] parlerò tra un istante;
+che davvero esisteva onestamente nel [[historical-references/puritanism|Puritanesimo]] parlerò tra un istante;
 
 ma gli elementi oligarchici e dispotici non erano soltanto cose che
 
@@ -1403,11 +1403,11 @@ faccenda della rivolta o del trionfo puritano fosse antipopolare;
 
 vale a dire, che in quasi ogni dato momento della lotta,
 
-il suffragio universale sarebbe stato una netta vittoria per il [[King|re]].
+il suffragio universale sarebbe stato una netta vittoria per il [[archetypes/king|re]].
 
 Il trionfo davvero brillante di Cromwell non fu il suo trionfo
 
-sulla monarchia, ma il suo trionfo sulla [[democracy|democrazia]]; il fatto
+sulla monarchia, ma il suo trionfo sulla [[concepts/democracy|democrazia]]; il fatto
 
 
 
@@ -1426,19 +1426,19 @@ to urge so generally accepted a conjecture as this.  Whatever may be true
 
 of the rebellion as a whole, no one will deny that at certain moments
 
-[[Puritanism]] appeared in politics as arrogant, fastidious and anti-popular;
+[[historical-references/puritanism|Puritanism]] appeared in politics as arrogant, fastidious and anti-popular;
 
-full of the [[Pride|pride]] of predestination and the scorn of all flesh.
+full of the [[concepts/pride|pride]] of predestination and the scorn of all flesh.
 
 Even the most enthusiastic upholder of the Whig or Republican theory
 
-of [[Puritanism]] will hardly pretend that when Colonel [[Pride]] drove
+of [[historical-references/puritanism|Puritanism]] will hardly pretend that when Colonel [[concepts/pride|Pride]] drove
 
 out of Parliament at the point of the pike all the members that
 
-ventured to disagree with him, his [[Soul|soul]] was at that moment inflamed
+ventured to disagree with him, his [[motifs/soul|soul]] was at that moment inflamed
 
-with an enthusiasm for free discussion or representative [[government]].
+with an enthusiasm for free discussion or representative government.
 
 It was by no means democratic; but it was highly Calvinistic.
 
@@ -1446,7 +1446,7 @@ It was a sort of public pantomime of the doctrine of election;
 
 of election in the theological, but by no means the political sense.
 
-It is still called "[[Pride]]'s Purge;" and the phrase has quite a fine
+It is still called "[[concepts/pride|Pride]]'s Purge;" and the phrase has quite a fine
 
 allegorical flavor, as if it came out of _Pilgrim's Progress_.
 
@@ -1458,9 +1458,9 @@ hold of the right surname.  And upon larger grounds the alliance
 
 between oligarchy and Protestantism has become only too plain.
 
-For all we know the [[Reformation]] may have tried to make
+For all we know the [[historical-references/reformation|Reformation]] may have tried to make
 
-a [[democracy]]; all that we do know for certain is that it did make
+a [[concepts/democracy|democracy]]; all that we do know for certain is that it did make
 
 an aristocracy, the most powerful aristocracy of modern times.
 
@@ -1470,19 +1470,19 @@ destruction of the small English landlords, who were the abbots.
 
 The public schools, which were for the populace in the Middle Ages,
 
-became aristocratic after the [[Reformation]].  The universities, which were
+became aristocratic after the [[historical-references/reformation|Reformation]].  The universities, which were
 
-popular in the Middle Ages, became aristocratic after the [[Reformation]].
+popular in the Middle Ages, became aristocratic after the [[historical-references/reformation|Reformation]].
 
 The tramp who went to a monastic inn in the Middle Ages,
 
-went to jail and the whipping-post after the [[Reformation]].
+went to jail and the whipping-post after the [[historical-references/reformation|Reformation]].
 
 All this is scarcely denied.
 
 Yet against all this must be put in fairness certain important facts;
 
-especially two facts illustrated in the figure and career of [[Milton]].
+especially two facts illustrated in the figure and career of [[historical-references/milton|Milton]].
 
 When we have clearly seen that Calvinism always favors aristocracy
 
@@ -1490,15 +1490,15 @@ in theory and often favors it in practice, two great facts remain
 
 to be explained or to be explained away.  First, that the Puritans
 
-did favor a deliberate or sy nodical method of church [[government]],
+did favor a deliberate or sy nodical method of church government,
 
-a [[government]] by [[debate]]; and, second, that most of the abstract
+a government by debate; and, second, that most of the abstract
 
 republicans of the seventeenth century were either Puritans or upon
 
 the Puritan side.  I am not, of course, discussing the synod as a mode
 
-of church [[government]], nor a republic as a mode of national [[government]].
+of church government, nor a republic as a mode of national government.
 
 I only say that the clamor for these things must have corresponded
 
@@ -1514,9 +1514,9 @@ the public good that read like those of some great pagan;
 
 but he was also the author of a proposal to reduce the poorer
 
-inhabitants of Scotland to a condition of personal [[Slavery|slavery]].
+inhabitants of Scotland to a condition of personal [[concepts/slavery|slavery]].
 
-There was a flavor of Fletcher of Saltown about [[Milton]].
+There was a flavor of Fletcher of Saltown about [[historical-references/milton|Milton]].
 
 Shakespeare puts into the mouth of some character (generally a
 
@@ -1532,33 +1532,33 @@ prejudices of the Royalist Shakespeare!  Observe the Jacobite
 
 servility of the follower of James I.!"  But as a matter of fact
 
-[[Milton]] despised the populace much more than Shakespeare;
+[[historical-references/milton|Milton]] despised the populace much more than Shakespeare;
 
-and [[Milton]] put his contempt for common men not into the mouth of silly
+and [[historical-references/milton|Milton]] put his contempt for common men not into the mouth of silly
 
 or stupid characters, but into that of the one wise character,
 
-the [[Chorus]], who is supposed to express the moral of a play:
+the [[characters/chorus|Chorus]], who is supposed to express the moral of a play:
 
 Nor do I name of men the common rout...
 
 But such as thou hast solemnly elected.
 
-I cannot help thinking that [[Milton]] was successful with [[Satan]],
+I cannot help thinking that [[historical-references/milton|Milton]] was successful with [[characters/satan|Satan]],
 
-because he was rather like [[Satan]] himself.  I mean his
+because he was rather like [[characters/satan|Satan]] himself.  I mean his
 
-own [[Satan]]:  I will not be so intemperate as to say that he resembled
+own [[characters/satan|Satan]]:  I will not be so intemperate as to say that he resembled
 
-the genuine article.  The kind of strength which supported [[Milton]]
+the genuine article.  The kind of strength which supported [[historical-references/milton|Milton]]
 
 in blindness and outlawry was very like the kind of strength
 
-that supported [[Satan]] on the flaming marl; it is the same quality,
+that supported [[characters/satan|Satan]] on the flaming marl; it is the same quality,
 
 and for merely literary purposes we need not quarrel about whether
 
-it should be called spiritual nobility or spiritual [[Pride|pride]].
+it should be called spiritual nobility or spiritual [[concepts/pride|pride]].
 
 It was almost wholly intellectual; it was unsmiling and it was empty
 
@@ -1568,7 +1568,7 @@ people who made up the bulk of the Royalist party and probably
 
 the bulk of the English people, we must remember that there was about
 
-the high republican type, the type of Vane, or Sydney, or [[Milton]],
+the high republican type, the type of Vane, or Sydney, or [[historical-references/milton|Milton]],
 
 something of this austerity which chilled and even alarmed.
 
@@ -1582,7 +1582,7 @@ none of those hearty or homely drinkers, soldiers, or ruffians,
 
 men like Danton or Dumouriez, who lent laughter to the terrors
 
-of the [[French Revolution]].  The deepest dislike which the Cavaliers
+of the [[historical-references/french-revolution|French Revolution]].  The deepest dislike which the Cavaliers
 
 felt for the Puritans, and no unjust dislike either, had reference
 
@@ -1590,9 +1590,9 @@ to this nameless feeling.
 
 It is possible, I fancy, to frame a fair statement that shall
 
-admit this element of the [[Pride|pride]] of the elect while doing justice
+admit this element of the [[concepts/pride|pride]] of the elect while doing justice
 
-to the democratic germ in [[Puritanism]].  It was the misfortune
+to the democratic germ in [[historical-references/puritanism|Puritanism]].  It was the misfortune
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -1609,19 +1609,19 @@ sostenere una congettura tanto generalmente accolta come questa.  Qualunque cosa
 
 della ribellione nel suo insieme, nessuno negherà che in certi momenti
 
-il [[Puritanism|Puritanesimo]] apparve in politica arrogante, schizzinoso e antipopolare;
+il [[historical-references/puritanism|Puritanesimo]] apparve in politica arrogante, schizzinoso e antipopolare;
 
-pieno dell'[[Pride|orgoglio]] della predestinazione e del disprezzo per ogni carne.
+pieno dell'[[concepts/pride|orgoglio]] della predestinazione e del disprezzo per ogni carne.
 
 Persino il più entusiasta sostenitore della teoria whig o repubblicana
 
-del [[Puritanism|Puritanesimo]] difficilmente pretenderà che, quando il colonnello [[Pride]] cacciò
+del [[historical-references/puritanism|Puritanesimo]] difficilmente pretenderà che, quando il colonnello [[concepts/pride|Pride]] cacciò
 
 dal Parlamento sulla punta della picca tutti i membri che
 
-osarono dissentire da lui, la sua [[Soul|anima]] fosse in quel momento infiammata
+osarono dissentire da lui, la sua [[motifs/soul|anima]] fosse in quel momento infiammata
 
-da un entusiasmo per la libera discussione o il [[government|governo]] rappresentativo.
+da un entusiasmo per la libera discussione o il governo rappresentativo.
 
 Non fu affatto democratico; ma fu altamente calvinista.
 
@@ -1629,7 +1629,7 @@ Fu una sorta di pantomima pubblica della dottrina dell'elezione;
 
 dell'elezione nel senso teologico, ma per nulla in quello politico.
 
-È ancora chiamata "l'Epurazione di [[Pride]]"; e la frase ha un fine
+È ancora chiamata "l'Epurazione di [[concepts/pride|Pride]]"; e la frase ha un fine
 
 sapore allegorico, come se venisse dal _Pilgrim's Progress_.
 
@@ -1641,9 +1641,9 @@ trovato il cognome giusto.  E su basi più larghe l'alleanza
 
 tra oligarchia e protestantesimo è divenuta fin troppo evidente.
 
-Per quel che ne sappiamo la [[Reformation|Riforma]] può aver tentato di fare
+Per quel che ne sappiamo la [[historical-references/reformation|Riforma]] può aver tentato di fare
 
-una [[democracy|democrazia]]; tutto ciò che sappiamo per certo è che fece
+una [[concepts/democracy|democrazia]]; tutto ciò che sappiamo per certo è che fece
 
 un'aristocrazia, la più potente aristocrazia dei tempi moderni.
 
@@ -1653,19 +1653,19 @@ distruzione dei piccoli proprietari terrieri inglesi, che erano gli abati.
 
 Le scuole pubbliche, che nel Medioevo erano per il popolo,
 
-divennero aristocratiche dopo la [[Reformation|Riforma]].  Le università, che erano
+divennero aristocratiche dopo la [[historical-references/reformation|Riforma]].  Le università, che erano
 
-popolari nel Medioevo, divennero aristocratiche dopo la [[Reformation|Riforma]].
+popolari nel Medioevo, divennero aristocratiche dopo la [[historical-references/reformation|Riforma]].
 
 Il vagabondo che andava a una locanda monastica nel Medioevo,
 
-andò in prigione e alla gogna dopo la [[Reformation|Riforma]].
+andò in prigione e alla gogna dopo la [[historical-references/reformation|Riforma]].
 
 Tutto ciò è a stento negato.
 
 Eppure contro tutto ciò si devono porre, per equità, certi fatti importanti;
 
-specialmente due fatti illustrati nella figura e nella carriera di [[Milton]].
+specialmente due fatti illustrati nella figura e nella carriera di [[historical-references/milton|Milton]].
 
 Quando avremo chiaramente visto che il calvinismo favorisce sempre l'aristocrazia
 
@@ -1673,15 +1673,15 @@ in teoria e spesso la favorisce in pratica, restano due grandi fatti
 
 da spiegare o da spiegare via.  Primo, che i Puritani
 
-favorirono davvero un metodo deliberativo o sinodale di [[government|governo]] ecclesiastico,
+favorirono davvero un metodo deliberativo o sinodale di governo ecclesiastico,
 
-un [[government|governo]] per [[debate|dibattito]]; e, secondo, che la maggior parte degli astratti
+un governo per dibattito; e, secondo, che la maggior parte degli astratti
 
 repubblicani del diciassettesimo secolo erano o Puritani o dalla
 
 parte puritana.  Non sto, naturalmente, discutendo il sinodo come modo
 
-di [[government|governo]] ecclesiastico, né la repubblica come modo di [[government|governo]] nazionale.
+di governo ecclesiastico, né la repubblica come modo di governo nazionale.
 
 Dico soltanto che il clamore per queste cose deve aver corrisposto
 
@@ -1697,9 +1697,9 @@ bene pubblico che si leggono come quelli di qualche grande pagano;
 
 ma fu anche l'autore di una proposta di ridurre gli abitanti più poveri
 
-della Scozia a una condizione di [[Slavery|schiavitù]] personale.
+della Scozia a una condizione di [[concepts/slavery|schiavitù]] personale.
 
-C'era un sapore di Fletcher di Saltoun in [[Milton]].
+C'era un sapore di Fletcher di Saltoun in [[historical-references/milton|Milton]].
 
 Shakespeare mette in bocca a qualche personaggio (di solito uno
 
@@ -1715,33 +1715,33 @@ Tory dello Shakespeare monarchico!  Osservate la servilità
 
 giacobita del seguace di Giacomo I!"  Ma di fatto
 
-[[Milton]] disprezzava il popolino assai più di Shakespeare;
+[[historical-references/milton|Milton]] disprezzava il popolino assai più di Shakespeare;
 
-e [[Milton]] pose il suo disprezzo per gli uomini comuni non in bocca a personaggi
+e [[historical-references/milton|Milton]] pose il suo disprezzo per gli uomini comuni non in bocca a personaggi
 
 sciocchi o stupidi, ma in quella dell'unico personaggio saggio,
 
-il [[Chorus|Coro]], che si suppone esprima la morale di un dramma:
+il [[characters/chorus|Coro]], che si suppone esprima la morale di un dramma:
 
 Nor do I name of men the common rout...
 
 But such as thou hast solemnly elected.
 
-Non posso fare a meno di pensare che [[Milton]] riuscì bene con [[Satan|Satana]],
+Non posso fare a meno di pensare che [[historical-references/milton|Milton]] riuscì bene con [[characters/satan|Satana]],
 
-perché era piuttosto simile a [[Satan|Satana]] stesso.  Intendo il suo
+perché era piuttosto simile a [[characters/satan|Satana]] stesso.  Intendo il suo
 
-proprio [[Satan|Satana]]: non sarò così intemperante da dire che somigliasse
+proprio [[characters/satan|Satana]]: non sarò così intemperante da dire che somigliasse
 
-all'articolo genuino.  Il tipo di forza che sostenne [[Milton]]
+all'articolo genuino.  Il tipo di forza che sostenne [[historical-references/milton|Milton]]
 
 nella cecità e nel bando era assai simile al tipo di forza
 
-che sostenne [[Satan|Satana]] sulla marna fiammeggiante; è la stessa qualità,
+che sostenne [[characters/satan|Satana]] sulla marna fiammeggiante; è la stessa qualità,
 
 e per meri scopi letterari non occorre litigare sul se
 
-debba chiamarsi nobiltà spirituale o [[Pride|orgoglio]] spirituale.
+debba chiamarsi nobiltà spirituale o [[concepts/pride|orgoglio]] spirituale.
 
 Era quasi del tutto intellettuale; era priva di sorriso ed era vuota
 
@@ -1751,7 +1751,7 @@ che formava il grosso del partito monarchico e probabilmente
 
 il grosso del popolo inglese, dobbiamo ricordare che c'era, intorno
 
-all'alto tipo repubblicano, il tipo di Vane, o di Sydney, o di [[Milton]],
+all'alto tipo repubblicano, il tipo di Vane, o di Sydney, o di [[historical-references/milton|Milton]],
 
 qualcosa di questa austerità che raggelava e persino allarmava.
 
@@ -1765,7 +1765,7 @@ nessuno di quei cordiali o casalinghi bevitori, soldati, o furfanti,
 
 uomini come Danton o Dumouriez, che prestarono riso ai terrori
 
-della [[French Revolution|Rivoluzione francese]].  La più profonda avversione che i Cavalieri
+della [[historical-references/french-revolution|Rivoluzione francese]].  La più profonda avversione che i Cavalieri
 
 provavano per i Puritani, e non un'avversione ingiusta, aveva riferimento
 
@@ -1773,9 +1773,9 @@ a questo sentimento senza nome.
 
 È possibile, credo, formulare un giusto enunciato che riconosca
 
-questo elemento dell'[[Pride|orgoglio]] degli eletti pur rendendo giustizia
+questo elemento dell'[[concepts/pride|orgoglio]] degli eletti pur rendendo giustizia
 
-al germe democratico nel [[Puritanism|Puritanesimo]].  Fu la sventura
+al germe democratico nel [[historical-references/puritanism|Puritanesimo]].  Fu la sventura
 
 
 
@@ -1794,7 +1794,7 @@ Thus the Puritan movement encouraged the sense of the equality
 
 of members without encouraging the sense of the equality of men.
 
-Each little sect was a [[democracy]] internally considered, but an oligarchy
+Each little sect was a [[concepts/democracy|democracy]] internally considered, but an oligarchy
 
 externally considered.  For an aristocracy is none the less aristocratic
 
@@ -1802,15 +1802,15 @@ because its members are all on a level; indeed this is rather a mark
 
 of aristocracy; in this sense most aristocracies have been levelers.
 
-Even the [[house|House]] of Lords is called the [[house|House]] of Equals:  the [[house|House]]
+Even the House of Lords is called the House of Equals:  the House
 
 of Peers.  Thus arose a spirit which had the plainness and much
 
-of the harshness of [[democracy]] without any of its sympathy or abandon.
+of the harshness of [[concepts/democracy|democracy]] without any of its sympathy or abandon.
 
 Thus arose the great race of the aristocratic republicans,
 
-half pagan and half Puritan, the greatest of whom was [[Milton]].
+half pagan and half Puritan, the greatest of whom was [[historical-references/milton|Milton]].
 
 The effect of this great type has been immense; but it has been
 
@@ -1822,11 +1822,11 @@ and they certainly have; if, through failing to understand it,
 
 they have done gross injustice to the heroisms and even the crimes
 
-of the [[French Revolution]], it is in no small degree due to this
+of the [[historical-references/french-revolution|French Revolution]], it is in no small degree due to this
 
 uncongenial element in the only great school of English republicans.
 
-The ultimate victory of Shakespeare over [[Milton]] has been very largely
+The ultimate victory of Shakespeare over [[historical-references/milton|Milton]] has been very largely
 
 due to the primary victory of _Il Penseroso_ over _L'Allegro_.
 
@@ -1838,15 +1838,15 @@ far less heroic than the dreadful patriotism of the great regicides;
 
 but the balance and excuse of that snobbishness was that it
 
-was the return of English humor and good [[Nature|nature]].  So we see it
+was the return of English humor and good [[concepts/nature|nature]].  So we see it
 
-in [[Milton]], in the one great Elizabethan who became a Puritan.
+in [[historical-references/milton|Milton]], in the one great Elizabethan who became a Puritan.
 
-His earlier [[Poems|poems]] are the dying cries of Merry England.  England, like his
+His earlier poems are the dying cries of Merry England.  England, like his
 
 own Samson, lost its strength when it lost its long hair.
 
-[[Milton]] was one of the slayers; but he was also of the slain.
+[[historical-references/milton|Milton]] was one of the slayers; but he was also of the slain.
 
 The mystery of his strange mind confronts us forever; we do not know
 
@@ -1873,7 +1873,7 @@ Così il movimento puritano incoraggiò il senso dell'uguaglianza
 
 dei membri senza incoraggiare il senso dell'uguaglianza degli uomini.
 
-Ogni piccola setta era una [[democracy|democrazia]] considerata internamente, ma un'oligarchia
+Ogni piccola setta era una [[concepts/democracy|democrazia]] considerata internamente, ma un'oligarchia
 
 considerata esternamente.  Poiché un'aristocrazia non è meno aristocratica
 
@@ -1881,15 +1881,15 @@ perché i suoi membri sono tutti su un livello; anzi questo è piuttosto un segn
 
 di aristocrazia; in questo senso la maggior parte delle aristocrazie sono state livellatrici.
 
-Persino la [[house|Camera]] dei Lord è chiamata la [[house|Camera]] degli Eguali: la [[house|Camera]]
+Persino la Camera dei Lord è chiamata la Camera degli Eguali: la Camera
 
 dei Pari.  Così sorse uno spirito che aveva la schiettezza e molta
 
-della durezza della [[democracy|democrazia]] senza nulla della sua simpatia o del suo abbandono.
+della durezza della [[concepts/democracy|democrazia]] senza nulla della sua simpatia o del suo abbandono.
 
 Così sorse la grande stirpe dei repubblicani aristocratici,
 
-metà pagani e metà Puritani, il più grande dei quali fu [[Milton]].
+metà pagani e metà Puritani, il più grande dei quali fu [[historical-references/milton|Milton]].
 
 L'effetto di questo grande tipo è stato immenso; ma è stato
 
@@ -1901,11 +1901,11 @@ e certo lo sono; se, per non riuscire a comprenderla,
 
 hanno fatto grossolana ingiustizia agli eroismi e persino ai crimini
 
-della [[French Revolution|Rivoluzione francese]], ciò è in non piccola misura dovuto a questo
+della [[historical-references/french-revolution|Rivoluzione francese]], ciò è in non piccola misura dovuto a questo
 
 elemento sgradevole nell'unica grande scuola di repubblicani inglesi.
 
-La vittoria ultima di Shakespeare su [[Milton]] è stata in larghissima misura
+La vittoria ultima di Shakespeare su [[historical-references/milton|Milton]] è stata in larghissima misura
 
 dovuta alla vittoria primaria de _Il Penseroso_ su _L'Allegro_.
 
@@ -1917,15 +1917,15 @@ assai meno eroico del terribile patriottismo dei grandi regicidi;
 
 ma il contrappeso e la scusa di quello snobismo era che esso
 
-fu il ritorno dell'umorismo inglese e del buon [[Nature|carattere]].  Così lo vediamo
+fu il ritorno dell'umorismo inglese e del buon [[concepts/nature|carattere]].  Così lo vediamo
 
-in [[Milton]], nell'unico grande elisabettiano che divenne Puritano.
+in [[historical-references/milton|Milton]], nell'unico grande elisabettiano che divenne Puritano.
 
-Le sue [[Poems|poesie]] più antiche sono le grida morenti dell'Allegra Inghilterra.  L'Inghilterra, come il suo
+Le sue poesie più antiche sono le grida morenti dell'Allegra Inghilterra.  L'Inghilterra, come il suo
 
 stesso Sansone, perse la forza quando perse la lunga chioma.
 
-[[Milton]] fu uno degli uccisori; ma fu anche degli uccisi.
+[[historical-references/milton|Milton]] fu uno degli uccisori; ma fu anche degli uccisi.
 
 Il mistero della sua strana mente ci sfida per sempre; non sappiamo
 

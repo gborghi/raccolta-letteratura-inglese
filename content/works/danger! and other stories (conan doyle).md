@@ -20,7 +20,7 @@ tags:
   - setting/ship
   - archetype/villain
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Science Fiction · Discovery · Reason vs the Supernatural]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/science-fiction-·-discovery-·-reason-vs-the-supernatural|Science Fiction · Discovery · Reason vs the Supernatural]]
 
 > [!abstract] 
 > A 1918 collection headed by the prophetic title story, in which a small nation's submarine flotilla starves Britain into surrender by blockading her food supply — written eighteen months before WWI as a warning about naval unpreparedness. The remaining stories range across war, horror, and mystery.
@@ -33,9 +33,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Science Fiction]], [[Short Story]]
-**Themes & Concepts:** [[War and its Cost]], [[Empire and Imperialism]], [[Terror and Horror]]
-**Motifs:** [[Ship]], [[Sea]], [[Sea and Voyage]]
-**Historical References:** [[First World War]]
-**Settings:** [[London]], [[Ship]]
-**Archetypes:** [[Villain]]
+**Forms & Genres:** [[forms/science-fiction|Science Fiction]], [[forms/short-story|Short Story]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/terror-and-horror|Terror and Horror]]
+**Motifs:** [[motifs/ship|Ship]], [[motifs/sea|Sea]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/first-world-war|First World War]]
+**Settings:** [[settings/london|London]], [[motifs/ship|Ship]]
+**Archetypes:** [[archetypes/villain|Villain]]

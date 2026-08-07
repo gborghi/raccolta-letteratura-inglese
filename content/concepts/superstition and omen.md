@@ -11,4 +11,10 @@ tags:
 
 <div class="concept-works" data-slug="concepts/superstition-and-omen"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-emerald-of-catherine-the-great-(belloc)|The Emerald of Catherine the Great (Belloc)]]
+
+</div>
+
 #graph/concept

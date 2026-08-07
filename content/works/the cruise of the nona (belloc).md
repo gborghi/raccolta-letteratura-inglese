@@ -30,7 +30,7 @@ tags:
   - archetype/the_writer
   - topos/journey_of_life
 ---
-*by Belloc*  ·  **Cluster:** [[Travel Writing · Pilgrimage · Landscape]]
+*by Belloc*  ·  **Cluster:** [[clusters/travel-writing-·-pilgrimage-·-landscape|Travel Writing · Pilgrimage · Landscape]]
 
 > [!abstract] 
 > Belloc's reflective travel-memoir framed as a solo sail of his boat the Nona along the coasts of Britain. Storms and near-drownings alternate with meditations on fear and courage, faith, small kingdoms versus great states, words, politics and the past, so the voyage becomes a model of one human life.
@@ -143,12 +143,12 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Faith]], [[Courage]], [[Fear]], [[Memory and Time]], [[Nostalgia]], [[Self-Sufficiency]], [[History]]
-**Motifs:** [[Sea]], [[Ship]], [[Storm]], [[Wind]], [[Sea and Voyage]]
-**Historical References:** [[First World War]], [[Catholic Church]], [[Danish Invasions]]
-**Settings:** [[Sea (2)]], [[Ship]]
-**Archetypes:** [[The Writer]]
-**Topoi:** [[Journey of Life]]
+**Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/courage|Courage]], [[concepts/fear|Fear]], [[concepts/memory-and-time|Memory and Time]], [[concepts/nostalgia|Nostalgia]], [[concepts/self-sufficiency|Self-Sufficiency]], [[concepts/history|History]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/ship|Ship]], [[motifs/storm|Storm]], [[motifs/wind|Wind]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/danish-invasions|Danish Invasions]]
+**Settings:** [[settings/sea-(2)|Sea (2)]], [[motifs/ship|Ship]]
+**Archetypes:** [[archetypes/the-writer|The Writer]]
+**Topoi:** [[topoi/journey-of-life|Journey of Life]]
 
-**Also relevant to:** [[Faith · Providence · Divine Love]]
+**Also relevant to:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

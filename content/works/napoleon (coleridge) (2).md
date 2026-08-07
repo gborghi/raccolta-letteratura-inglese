@@ -16,18 +16,18 @@ tags:
   - topos/war_as_glory
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
+*by Coleridge*  ·  **Cluster:** [[clusters/swords-and-weapons-·-power-and-corruption-·-tyrant|Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 
 > Dramatic lines adapted from an old play, contrasting Britain lulled by dreams of peace with the warlike, ambitious Napoleon whose temper is rage, revenge and cunning; on ambition, war and false peace.
 
 ## Connections
 
-**Topoi:** [[War as Glory]]
-**Archetypes:** [[Tyrant]]
-**Motifs:** [[Swords and Weapons]]
-**Themes & Concepts:** [[Ambition]], [[War and its Cost]], [[Revenge]]
-**Historical References:** [[Napoleonic Wars the Navy]]
+**Topoi:** [[topoi/war-as-glory|War as Glory]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
+**Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]]
+**Themes & Concepts:** [[concepts/ambition|Ambition]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/revenge|Revenge]]
+**Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]]
 
 ## Testo integrale / Full text
 

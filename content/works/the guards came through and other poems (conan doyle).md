@@ -22,16 +22,16 @@ tags:
   - archetype/hero
   - archetype/martyr_saint
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Verse · Action · Heroism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/verse-·-action-·-heroism|Verse · Action · Heroism]]
 
 > [!abstract] 
 > A First World War poetry collection whose title piece celebrates British soldiers holding the line at Hill 70 until the Guards break through, followed by patriotic and elegiac verses on England's endurance, Haig's advance, the trenches at Ypres, and the dead of the war.
 
 ## Connections
 
-**Forms & Genres:** [[Narrative Poem]], [[Lyric]], [[Ballad Ballade]]
-**Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Heroism]], [[Grief and Loss]], [[Endurance]]
-**Motifs:** [[Flags and Banners]], [[Blood]]
-**Historical References:** [[First World War]]
-**Settings:** [[Battlefield]]
-**Archetypes:** [[Hero]], [[Martyr Saint]]
+**Forms & Genres:** [[forms/narrative-poem|Narrative Poem]], [[forms/lyric|Lyric]], [[forms/ballad-ballade|Ballad Ballade]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/heroism|Heroism]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/endurance|Endurance]]
+**Motifs:** [[motifs/flags-and-banners|Flags and Banners]], [[motifs/blood|Blood]]
+**Historical References:** [[historical-references/first-world-war|First World War]]
+**Settings:** [[settings/battlefield|Battlefield]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/martyr-saint|Martyr Saint]]

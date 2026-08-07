@@ -34,7 +34,7 @@ tags:
 
 # titanic
 
-*by Chesterton*  ·  **Cluster:** [[Ship · Endurance]]
+*by Chesterton*  ·  **Cluster:** [[clusters/ship-·-endurance|Ship · Endurance]]
 
 > [!abstract] 
 > A 1912 essay reading the Titanic disaster as an analogy for modern civilisation and the State: overgrown, complacent, divided by class; meditation on death, courage and corporate conscience.
@@ -53,18 +53,18 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Suffragette Movement]]
+**Historical References:** [[historical-references/suffragette-movement|Suffragette Movement]]
 
-**Archetypes:** [[Hero]]
+**Archetypes:** [[archetypes/hero|Hero]]
 
-**Topoi:** [[Sic Transit Gloria Mundi]]
+**Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
 
-**Characters:** [[Sylvia Pankhurst]], [[W. T. Stead]]
+**Characters:** [[characters/sylvia-pankhurst|Sylvia Pankhurst]], [[characters/w.-t.-stead|W. T. Stead]]
 
-**Motifs:** [[Ship]], [[Sea]]
-**Themes & Concepts:** [[Critique of Progress]], [[Satire of Society]], [[Class Conflict]], [[Mortality]], [[Heroism]], [[Equality in Death]], [[Self-Sacrifice]], [[Democracy]], [[Comradeship]], [[Conscience]], [[Courage]], [[Economics]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Settings:** [[Ship]], [[Sea (2)]]
+**Motifs:** [[motifs/ship|Ship]], [[motifs/sea|Sea]]
+**Themes & Concepts:** [[concepts/critique-of-progress|Critique of Progress]], [[concepts/satire-of-society|Satire of Society]], [[concepts/class-conflict|Class Conflict]], [[concepts/mortality|Mortality]], [[concepts/heroism|Heroism]], [[concepts/equality-in-death|Equality in Death]], [[concepts/self-sacrifice|Self-Sacrifice]], [[concepts/democracy|Democracy]], [[concepts/comradeship|Comradeship]], [[concepts/conscience|Conscience]], [[concepts/courage|Courage]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Settings:** [[motifs/ship|Ship]], [[settings/sea-(2)|Sea (2)]]
 
 ## Testo integrale / Full text
 

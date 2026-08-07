@@ -14,4 +14,10 @@ The 1853-56 war during which Tolstoy served at the siege of Sebastopol, shaping 
 
 <div class="concept-works" data-slug="historical-references/crimean-war"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/tolstoy-(chesterton)|tolstoy (Chesterton)]]
+
+</div>
+
 #graph/histref

@@ -14,4 +14,10 @@ The cheeky tailor's-boy who torments Pip in Great Expectations, read by Chestert
 
 <div class="concept-works" data-slug="characters/trabb's-boy"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+
+</div>
+
 #graph/character

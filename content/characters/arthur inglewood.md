@@ -14,4 +14,10 @@ A shy young lodger secretly in love with Diana Duke, who serves among Smith's mo
 
 <div class="concept-works" data-slug="characters/arthur-inglewood"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/manalive-(chesterton)|manalive (Chesterton)]]
+
+</div>
+
 #graph/character

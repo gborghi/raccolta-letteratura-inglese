@@ -11,4 +11,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/austin-gilroy"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-parasite-(conan-doyle)|The Parasite (Conan Doyle)]]
+
+</div>
+
 #graph/character

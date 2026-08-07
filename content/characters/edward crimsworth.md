@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/edward-crimsworth"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-professor-(bronte)|The Professor (Bronte)]]
+
+</div>
+
 #graph/character

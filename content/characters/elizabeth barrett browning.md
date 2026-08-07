@@ -14,4 +14,11 @@ The poet's wife, a gifted invalid poet whose courtship, elopement, and fifteen-y
 
 <div class="concept-works" data-slug="characters/elizabeth-barrett-browning"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/robert-browning-(chesterton)|Robert Browning (Chesterton)]]
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+
+</div>
+
 #graph/character

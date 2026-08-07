@@ -31,7 +31,7 @@ tags:
 
 # to st michael
 
-*by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
+*by Chesterton*  ·  **Cluster:** [[clusters/temptation-·-good-vs-evil-·-serpent-snake|Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 
 > A martial hymn invoking the Archangel Michael, who threw down the Dragon, to guard the Word against the soft corruptions of a false peace bought with gold and bribes.
@@ -42,15 +42,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Christ Figure]], [[Satanic Figure]]
+**Archetypes:** [[archetypes/christ-figure|Christ Figure]], [[archetypes/satanic-figure|Satanic Figure]]
 
-**Topoi:** [[Combat Strife]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]]
 
-**Motifs:** [[Swords and Weapons]], [[Serpent Snake]], [[Money and Gold]], [[Silence]]
-**Themes & Concepts:** [[Good vs Evil]], [[Temptation]], [[Faith]], [[Power of Language]], [[Power and Corruption]], [[Greed and Money]], [[Economics]]
-**Forms & Genres:** [[Hymn]]
-**Historical References:** [[Bible]], [[Christianity]]
-**Characters:** [[Satan]], [[Michael]], [[Christ]]
+**Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/serpent-snake|Serpent Snake]], [[motifs/money-and-gold|Money and Gold]], [[motifs/silence|Silence]]
+**Themes & Concepts:** [[concepts/good-vs-evil|Good vs Evil]], [[concepts/temptation|Temptation]], [[concepts/faith|Faith]], [[concepts/power-of-language|Power of Language]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/hymn|Hymn]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]]
+**Characters:** [[characters/satan|Satan]], [[characters/michael|Michael]], [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

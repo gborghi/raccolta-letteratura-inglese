@@ -25,7 +25,7 @@ tags:
   - archetype/villain
   - archetype/self_made_man
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Drama · Adventure · The Stage]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/drama-·-adventure-·-the-stage|Drama · Adventure · The Stage]]
 
 > [!abstract] 
 > John Girdlestone and his brutal son Ezra run a lucrative African trading firm and treat every act, including charity, as a calculated investment. Their cynical pursuit of a dying friend's fortune for his orphaned daughter sets in motion a chain of financial schemes, deception, and eventually an unforeseen murder.
@@ -86,9 +86,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]], [[Melodrama]]
-**Themes & Concepts:** [[Greed and Money]], [[Hypocrisy]], [[Crime and Punishment]], [[Materialism]], [[Family and Lineage]], [[Economics]]
-**Motifs:** [[Money and Gold]], [[Ship]], [[Letters and Writing]], [[Sea and Voyage]]
-**Historical References:** [[British Empire]]
-**Settings:** [[London]], [[Africa]]
-**Archetypes:** [[Villain]], [[Self-Made Man]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/melodrama|Melodrama]]
+**Themes & Concepts:** [[concepts/greed-and-money|Greed and Money]], [[concepts/hypocrisy|Hypocrisy]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/materialism|Materialism]], [[concepts/family-and-lineage|Family and Lineage]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/ship|Ship]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/london|London]], [[settings/africa|Africa]]
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/self-made-man|Self-Made Man]]

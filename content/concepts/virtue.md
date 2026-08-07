@@ -14,4 +14,10 @@ The essay's central thesis is that virtue (mercy, chastity, whiteness) is a vivi
 
 <div class="concept-works" data-slug="concepts/virtue"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/chalk-(chesterton)|chalk (Chesterton)]]
+
+</div>
+
 #graph/concept

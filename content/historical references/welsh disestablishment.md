@@ -14,4 +14,10 @@ The 1912-14 parliamentary Bill disestablishing the Anglican Church in Wales, who
 
 <div class="concept-works" data-slug="historical-references/welsh-disestablishment"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/smith-(chesterton)|smith (Chesterton)]]
+
+</div>
+
 #graph/histref

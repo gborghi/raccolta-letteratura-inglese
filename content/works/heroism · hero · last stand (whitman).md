@@ -37,18 +37,18 @@ tags:
 
 Raccolta tematica di 12 componimenti di Walt Whitman.
 
-- [[A Sight in Camp in the Daybreak Gray and Dim (Whitman)|A Sight in Camp in the Daybreak Gray and Dim]]
-- [[Abraham Lincoln, Born Feb. 12, 1809 (Whitman)|Abraham Lincoln, Born Feb. 12, 1809]]
-- [[As the Greek’s Signal Flame (Whitman)|As the Greek’s Signal Flame]]
-- [[Death of General Grant (Whitman)|Death of General Grant]]
-- [[From Far Dakota’s Canyons June 25, 1876 (Whitman)|From Far Dakota’s Canyons  (June 25, 1876)]]
-- [[I Saw Old General at Bay (Whitman)|I Saw Old General at Bay]]
-- [[O Star of France 1870-71 (Whitman)|O Star of France (1870-71)]]
-- [[Osceola (Whitman)|Osceola]]
-- [[The Centenarian’s Story (Whitman)|The Centenarian’s Story]]
-- [[To Him That Was Crucified (Whitman)|To Him That Was Crucified]]
-- [[To-Day and Thee (Whitman)|To-Day and Thee]]
-- [[Washington’s Monument February, 1885 (Whitman)|Washington’s Monument February, 1885]]
+- [[testi/whitman/atomized/heroism-hero-last-stand#158_a_sight_in_camp_in_the_daybreak_gray_and_dim|A Sight in Camp in the Daybreak Gray and Dim]]
+- [[testi/whitman/atomized/heroism-hero-last-stand#310_abraham_lincoln_born_feb_12_1809|Abraham Lincoln, Born Feb. 12, 1809]]
+- [[testi/whitman/atomized/heroism-hero-last-stand#345_as_the_greek_s_signal_flame|As the Greek’s Signal Flame]]
+- [[testi/whitman/atomized/heroism-hero-last-stand#316_death_of_general_grant|Death of General Grant]]
+- [[testi/whitman/atomized/heroism-hero-last-stand#270_from_far_dakota_s_canyons_june_25_1876|From Far Dakota’s Canyons  (June 25, 1876)]]
+- [[testi/whitman/atomized/heroism-hero-last-stand#167_i_saw_old_general_at_bay|I Saw Old General at Bay]]
+- [[testi/whitman/atomized/heroism-hero-last-stand#221_o_star_of_france_1870_71|O Star of France (1870-71)]]
+- [[testi/whitman/atomized/heroism-hero-last-stand#371_osceola|Osceola]]
+- [[testi/whitman/atomized/heroism-hero-last-stand#150_the_centenarian_s_story|The Centenarian’s Story]]
+- [[testi/whitman/atomized/heroism-hero-last-stand#205_to_him_that_was_crucified|To Him That Was Crucified]]
+- [[testi/whitman/atomized/heroism-hero-last-stand#308_to_day_and_thee|To-Day and Thee]]
+- [[testi/whitman/atomized/heroism-hero-last-stand#318_washington_s_monument_february_1885|Washington’s Monument February, 1885]]
 
 ## Testo / Text
 

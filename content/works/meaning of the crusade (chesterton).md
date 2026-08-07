@@ -59,7 +59,7 @@ tags:
 
 # meaning of the crusade
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > A chapter from The New Jerusalem defending the First Crusade as a rational, popular religious war and a revolution of the common man; narrates the siege of Jerusalem and Godfrey de Bouillon's heroism, with the cross as central symbol.
@@ -83,16 +83,16 @@ tags:
 
 ## Connections
 
-**Settings:** [[Desert]], [[Battlefield]], [[Jerusalem]]
+**Settings:** [[motifs/desert|Desert]], [[settings/battlefield|Battlefield]], [[settings/jerusalem|Jerusalem]]
 
-**Characters:** [[Godfrey de Bouillon]], [[Peter the Hermit]], [[Ezra Pound]], [[Tancred]], [[Voltaire]], [[Kaiser Wilhelm II]]
+**Characters:** [[characters/godfrey-de-bouillon|Godfrey de Bouillon]], [[characters/peter-the-hermit|Peter the Hermit]], [[characters/ezra-pound|Ezra Pound]], [[characters/tancred|Tancred]], [[historical-references/voltaire|Voltaire]], [[historical-references/kaiser-wilhelm-ii|Kaiser Wilhelm II]]
 
-**Topoi:** [[Quest]], [[Combat Strife]]
-**Archetypes:** [[Pilgrim]], [[Hero]], [[Rebel]], [[Common Man (2)]]
-**Motifs:** [[Cross]], [[Blood]], [[Fire]], [[Swords and Weapons]], [[Dust]], [[Light and Dark]], [[Garden]], [[Hill]], [[Wheel]], [[Journey]]
-**Themes & Concepts:** [[War and its Cost]], [[Heroism]], [[Martyrdom]], [[Faith]], [[Common Man]], [[Democracy]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Fanaticism]], [[Satire of Society]], [[Reason and Rationalism]], [[Popular Revolution]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Historical References:** [[Crusades]], [[Christianity]], [[French Revolution]], [[Islam]], [[First World War]], [[Dante]], [[Russian Revolution]]
+**Topoi:** [[topoi/quest|Quest]], [[topoi/combat-strife|Combat Strife]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]], [[archetypes/hero|Hero]], [[archetypes/rebel|Rebel]], [[archetypes/common-man-(2)|Common Man (2)]]
+**Motifs:** [[motifs/cross|Cross]], [[motifs/blood|Blood]], [[motifs/fire|Fire]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/dust|Dust]], [[motifs/light-and-dark|Light and Dark]], [[motifs/garden|Garden]], [[motifs/hill|Hill]], [[motifs/wheel|Wheel]], [[motifs/journey|Journey]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/heroism|Heroism]], [[concepts/martyrdom|Martyrdom]], [[concepts/faith|Faith]], [[concepts/common-man|Common Man]], [[concepts/democracy|Democracy]], [[concepts/class-conflict|Class Conflict]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/fanaticism|Fanaticism]], [[concepts/satire-of-society|Satire of Society]], [[concepts/reason-and-rationalism|Reason and Rationalism]], [[concepts/popular-revolution|Popular Revolution]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/crusades|Crusades]], [[historical-references/christianity|Christianity]], [[historical-references/french-revolution|French Revolution]], [[historical-references/islam|Islam]], [[historical-references/first-world-war|First World War]], [[historical-references/dante|Dante]], [[historical-references/russian-revolution|Russian Revolution]]
 
 ## Testo integrale / Full text
 

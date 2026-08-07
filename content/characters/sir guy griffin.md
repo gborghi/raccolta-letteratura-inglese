@@ -14,4 +14,10 @@ The blustering, battle-scarred old squire and champion swordsman of Grayling-Abb
 
 <div class="concept-works" data-slug="characters/sir-guy-griffin"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/sword-(chesterton)|Sword (Chesterton)]]
+
+</div>
+
 #graph/character

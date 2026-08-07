@@ -42,7 +42,7 @@ THE EROS OF KEIR
 
 I
 
-WITHIN THE PARISH, and adjoining the village, of Marlden, in a stately mansion known as The Towers, whose ample lawn sweeps down in smooth luxuriance to the pellucid waters of the [[River]] Avon, resided a gentleman respected throughout the County of Wiltshire as Sir Robert Montgomery; for such was, indeed, his name.
+WITHIN THE PARISH, and adjoining the village, of Marlden, in a stately mansion known as The Towers, whose ample lawn sweeps down in smooth luxuriance to the pellucid waters of the [[motifs/river|River]] Avon, resided a gentleman respected throughout the County of Wiltshire as Sir Robert Montgomery; for such was, indeed, his name.
 
 The baronet (for such was his rank) enjoyed the esteem of his equals, the respectful affection of his inferiors, and the devotion of an only daughter, an only child, upon whom her mother (long dead) had bestowed the pleasing name of Belinda.
 
@@ -64,7 +64,7 @@ Horatio Maltravers, the youthful occupant of these venerable acres, was the last
 
 Halston House (for such was the name of the mansion) stood, a noble but sadly neglected pile, framed in tall elms and spreading oaks, whose antiquity in some way hinted at ruin. The very rooks, as they cawed at evening about its crumbling battlements, seemed to mourn the past glories of a family decayed, and the wild grass growing at random on the abandoned sward bore witness to the general decline.
 
-The Towers of the Montgomerys, Halston of the Maltravers, lay each on the banks of this same [[River|river]] Avon, and the parks were so situate that a county road divided them; but on either side of that highway what a contrast! Sir Robert Montgomery’s hedges, well trimmed and dense, proclaimed the careful wealth, the public sense, of their lord. Upon these, at the proper season of the year, a line of stout yeomen might be seen chastising with chopper and bill-hook the overluxuriance of Nature, and reducing all to an exact design. Opposite, the hedges of Halston ran straggling and thin. Great gaps disfigured their alignment. Rank growths of bush, some already grown to stunted trees, sprang here and there untended; while an unsightly patching of stake, hurdle, and furze completed the disorder.
+The Towers of the Montgomerys, Halston of the Maltravers, lay each on the banks of this same [[motifs/river|river]] Avon, and the parks were so situate that a county road divided them; but on either side of that highway what a contrast! Sir Robert Montgomery’s hedges, well trimmed and dense, proclaimed the careful wealth, the public sense, of their lord. Upon these, at the proper season of the year, a line of stout yeomen might be seen chastising with chopper and bill-hook the overluxuriance of Nature, and reducing all to an exact design. Opposite, the hedges of Halston ran straggling and thin. Great gaps disfigured their alignment. Rank growths of bush, some already grown to stunted trees, sprang here and there untended; while an unsightly patching of stake, hurdle, and furze completed the disorder.
 
 The passer-by upon his way to Bath, could not but exclaim (as he looked to the left), ‘What decency! What exactitude!’ Nor again (on turning to the right), could he restrain such expletives as ‘Slipshod!’ and even ‘Disgusting!’
 
@@ -112,7 +112,7 @@ She saw him as he came through the bracken, with active carriage, with uplifted 
 
 The moment was magical. It was as though some music had transformed the world.
 
-Breast deep in fern, the small and laughing fauns, who [[Love|love]] the awakening of life, hid tiptoe, sidling, peeping, benevolent; but in the heart of the high wood a Presence, shining in a shaft of light, triumphantly let fly the arrow from the bow.
+Breast deep in fern, the small and laughing fauns, who [[motifs/love|love]] the awakening of life, hid tiptoe, sidling, peeping, benevolent; but in the heart of the high wood a Presence, shining in a shaft of light, triumphantly let fly the arrow from the bow.
 
 * * * *
 
@@ -148,7 +148,7 @@ Even as she spoke there was heard from a cupola of green copper above the stable
 
 ‘I will accompany you,’ returned Horatio, ‘no farther than the iron gate at the entrance of the shrubbery. Permit me to remain, till then, at your side.’
 
-The distance to be traversed was but a quarter of a mile. He strode with ease beside her somewhat accelerated steps. Each knew that on the morrow in the high noon the one and the other would be by the stream again. Neither looked at the other. Neither spoke. For such we are in youth — which is the heaven of our days. But when they came to the iron gate, and must part, she halted, turned, and lifted, or half lifted, her right hand from her side. He dared for one moment to touch it. They looked into each other’s eyes, and the world was changed. He wheeled round, and was gone. In the cool shade of the arching greenery as she hurried towards the sunlit grass and the [[Great House|great house]] beyond, the air, her soul, was music, and all her being had entered beatitude.
+The distance to be traversed was but a quarter of a mile. He strode with ease beside her somewhat accelerated steps. Each knew that on the morrow in the high noon the one and the other would be by the stream again. Neither looked at the other. Neither spoke. For such we are in youth — which is the heaven of our days. But when they came to the iron gate, and must part, she halted, turned, and lifted, or half lifted, her right hand from her side. He dared for one moment to touch it. They looked into each other’s eyes, and the world was changed. He wheeled round, and was gone. In the cool shade of the arching greenery as she hurried towards the sunlit grass and the [[motifs/great-house|great house]] beyond, the air, her soul, was music, and all her being had entered beatitude.
 
 III
 
@@ -160,11 +160,11 @@ He maintained this posture for a short while, still keeping fixed upon her his p
 
 ‘My dear,’ he said, ‘(how dear you will never know, for it is not in the designs of Providence to communicate to children the devotion of their parents), I have to speak to you to-day upon a matter which will decide your whole life.’
 
-Already Belinda trembled, for a deep instinct, young as she was, informed her that her father was approaching the subject of [[Marriage|marriage]].
+Already Belinda trembled, for a deep instinct, young as she was, informed her that her father was approaching the subject of [[motifs/marriage|marriage]].
 
 The Baronet continued:
 
-‘You are my only child. You will inherit this place, my considerable fortune, and my name — for I propose that this shall, by some arrangement, be preserved. All is at my undisputed disposal, and all (need I say it?) will be yours, and yours alone. I must tell you more.... I design that upon your’ (here was Belinda’s trepidation almost openly apparent) ‘... your... your departure from beneath my roof for the house of another, a very substantial part of all my realizable wealth shall accompany you as your dower. Moreover,’ he pursued in firmer tones, ‘I have made, upon legal advice, such arrangements as shall preserve these moneys for yourself or whatever posterity’ (Belinda blushed) ‘it may please Heaven to grant you. No one,’ he added, with a rising voice, ‘but shall feel the honour and emolument of an alliance with the Montgomerys of Marlden; but no one shall imagine that its independent heritage is merged by [[Marriage|marriage]] with his own.’
+‘You are my only child. You will inherit this place, my considerable fortune, and my name — for I propose that this shall, by some arrangement, be preserved. All is at my undisputed disposal, and all (need I say it?) will be yours, and yours alone. I must tell you more.... I design that upon your’ (here was Belinda’s trepidation almost openly apparent) ‘... your... your departure from beneath my roof for the house of another, a very substantial part of all my realizable wealth shall accompany you as your dower. Moreover,’ he pursued in firmer tones, ‘I have made, upon legal advice, such arrangements as shall preserve these moneys for yourself or whatever posterity’ (Belinda blushed) ‘it may please Heaven to grant you. No one,’ he added, with a rising voice, ‘but shall feel the honour and emolument of an alliance with the Montgomerys of Marlden; but no one shall imagine that its independent heritage is merged by [[motifs/marriage|marriage]] with his own.’
 
 Indeed, at the thought of such an indignity, the Squire’s manly voice was affected, and he paused, while Belinda, who had recovered for the moment a full control of herself, awaited his fateful words.
 
@@ -260,7 +260,7 @@ He interrupted her.
 
 ‘Do not be disturbed,’ answered her father promptly. ‘Even had I not decided as I have, your health forbids. I shall send a note to the boy myself to-night. I will tell him precisely how my decision in this matter stands: as for to-morrow, I will say that your indisposition forbids your leaving the house. Later, when we are gone, you are free to write to him, if you will, and he to reply. But I repose my confidence in you that you will not disappoint me, and that you will not meet him during my brief absence.
 
-He embraced her fondly; she returned that embrace with grateful and intense feeling. Her happiness had returned — for was not such [[Love|love]] as hers and Horatio’s eternal?
+He embraced her fondly; she returned that embrace with grateful and intense feeling. Her happiness had returned — for was not such [[motifs/love|love]] as hers and Horatio’s eternal?
 
 IV
 
@@ -318,7 +318,7 @@ THE SCENE HAS changed.
 
 We are now before those gloomy but impressive gates which are the castellated portals of the Portlys. For near three generations that family had inhabited the towering pile which Mr. Portly of Cheapside, the grandfather of the reigning squire, had erected, his father amplified, and himself inherited at the early age of twenty-three; some eight years before the date of this narrative.
 
-The mansion — known as Molcombe Abbey, from a ruined wall at the end of the kitchen [[Garden|garden]], reputed to be a monastic relic — was in the Palladian order of architecture, but rising to no less than four stories and crowned by a tower of formidable dimensions, from which floated, when its owner was in residence, a flag bearing the Emblems of his Race.
+The mansion — known as Molcombe Abbey, from a ruined wall at the end of the kitchen [[motifs/garden|garden]], reputed to be a monastic relic — was in the Palladian order of architecture, but rising to no less than four stories and crowned by a tower of formidable dimensions, from which floated, when its owner was in residence, a flag bearing the Emblems of his Race.
 
 The mounted messenger, approaching it through the evening, saw no more than the vast outline of this noble pile. The reader is more privileged. He may penetrate its massive walls and observe its occupant. Reclining at his ease upon an ancient canopied Dais of Tudor workmanship, the Master of the House mused over a vast fire of oaken logs, which illumined the panelled walls and fitfully revealed the soaring roof of his Hall.
 
@@ -342,7 +342,7 @@ Sir Orlando was embarrassed beyond repair. Loan succeeded loan. The unfortunate 
 
 With each succeeding year Sir Henry’s difficulty in meeting the interest grew greater, until at last nothing remained between him and foreclosure upon Molcombe Abbey save the delay in finding a sufficient offer of purchase by the mortgage holders. At this stage Sir Henry Portly’s situation was — in his own judgement (and perhaps in theirs) — re-established by his approaching engagement to Belinda.
 
-Her father’s most hearty consent, her own feelings (which he fondly imagined would favour his suit!), he regarded as earnest of a certain alliance. The prospects of such a [[Marriage|marriage]] he had described to Mr. Fox in glowing colours: nor did the lawyer, upon making private inquiry, differ in his judgement upon the case.
+Her father’s most hearty consent, her own feelings (which he fondly imagined would favour his suit!), he regarded as earnest of a certain alliance. The prospects of such a [[motifs/marriage|marriage]] he had described to Mr. Fox in glowing colours: nor did the lawyer, upon making private inquiry, differ in his judgement upon the case.
 
 After some interval (sufficient to render his young bride sensible of their common interests), Belinda’s ample dowry, upon which her father had been both open and generous, would reduce the debt to manageable proportions; her inheritance (on which, moreover, an advance could be negotiated) would more than do the rest: and upon Sir Robert’s demise — he was reputed to be of a gouty disposition, and his father had died in middle age — all would once more be stable and at ease in the combined estates of Molcombe Abbey and Marlden Towers.
 
@@ -438,7 +438,7 @@ She turned without haste to her charge.
 
 ‘My dearest,’ she said (she was already on such terms), ‘You will excuse me, will you not? I shall take the air. I need it, and there is but a moment before we must dress for dinner, which I have postponed to the hour of five.’
 
-She kissed the charming face, and, descending, strolled out towards the iron gates of the [[Garden|garden]] and on to the path through the park, as though careless of her steps.
+She kissed the charming face, and, descending, strolled out towards the iron gates of the [[motifs/garden|garden]] and on to the path through the park, as though careless of her steps.
 
 The youth, whom she met half-way across the park field on the way to the wood saluted her awkwardly and would have passed. She stopped him with a smile, and asked him whither he was bound.
 
@@ -452,7 +452,7 @@ It has been remarked by cute observers of the human species that the female is m
 
 If, as the Papists monstrously pretend, an angel were deputed guardian for each of us, to defend us from evils which our own resolute wills should suffice to contest, such an imaginary being would have wept to observe the struggle in the soul of Miss Curll and its lamentable catastrophe.
 
-She gently forced open the sealed and folded sheet with every imaginable precaution; none the less was it slightly torn. At this accident she shrugged her shoulders imperceptibly under her Castilian shawl; she knew that it prevented any retreat or later subterfuge. She boldly opened the paper and was amused, interested, absorbed, to read these lines, penned in the bold and hasty hand of an impassioned [[Lover|lover]]:
+She gently forced open the sealed and folded sheet with every imaginable precaution; none the less was it slightly torn. At this accident she shrugged her shoulders imperceptibly under her Castilian shawl; she knew that it prevented any retreat or later subterfuge. She boldly opened the paper and was amused, interested, absorbed, to read these lines, penned in the bold and hasty hand of an impassioned [[archetypes/lover|lover]]:
 
 ‘It is a word from your most honoured father which permits me to dare — to adventure — these words. I know not, in my perturbation, how to begin. I fear lest — once entered upon such a path — I cannot bring myself to end. The same indulgence which has granted me the supreme felicity of addressing you has informed me that we may not meet — for an eternity of days: at the earliest upon Sir Robert’s return from the Metropolis. My agony is enhanced by his communication of its cause. What! You are suffering, and I may not be near you? You languish, and I may not fly to your side? I went this morning to the ferns, to the pines, to the streamlet — although I knew I should not find you there.
 
@@ -468,7 +468,7 @@ Her charge was asleep as she noiselessly entered the apartment. She sat herself 
 
 Though but this one first day of separation was passing, she had hoped — she had dared to hope — that some sign would have come already from that house in all these long hours. She turned away and was silent.
 
-‘You are fatigued, my [[Love|love]],’ said Miss Curll, implanting a kiss upon the pale brow. ‘You shall dine in your room and then early seek repose.’
+‘You are fatigued, my [[motifs/love|love]],’ said Miss Curll, implanting a kiss upon the pale brow. ‘You shall dine in your room and then early seek repose.’
 
 ‘I will do so,’ said Belinda resignedly. ‘Tomorrow I shall be completely recovered, believe me. To-night I must rest.’
 
@@ -670,7 +670,7 @@ Horatio paused a full moment ere he could bring himself to reply.
 
 But at that word his companion moved most suddenly. She gasped with a slight, an almost imperceptible yet an abrupt and stricken sound. She laid a hand upon her heart. Horatio looked up sharply in alarm. ‘It is naught,’ she said, with a catch in her breath, ‘... it is naught. I am recovered. Come, let us return.’ And she led him down to the halls below.
 
-But as she went the Inexorable had swept the chord of life within her.... She was far off and very young. Her earliest springtime had returned: her eighteenth year. It was in the old days ere ever Revolution had marred the dignity of the world. She was in her mother’s [[Garden|garden]], in her English home, and the clear Thames slid by. The stately union designed for her had been announced, the highborn foreigner who stood so conspicuous in the service of the French king had honoured her parents with a demand for her hand, and they had welcomed so great an alliance. By her side a young soldier of her own people stood silently imploring, and she had begun to know too late that his face would remain with her for ever.
+But as she went the Inexorable had swept the chord of life within her.... She was far off and very young. Her earliest springtime had returned: her eighteenth year. It was in the old days ere ever Revolution had marred the dignity of the world. She was in her mother’s [[motifs/garden|garden]], in her English home, and the clear Thames slid by. The stately union designed for her had been announced, the highborn foreigner who stood so conspicuous in the service of the French king had honoured her parents with a demand for her hand, and they had welcomed so great an alliance. By her side a young soldier of her own people stood silently imploring, and she had begun to know too late that his face would remain with her for ever.
 
 VIII
 
@@ -808,7 +808,7 @@ Standing with his bare head bowed, that good man paused a moment over the dead; 
 
 Upstairs Belinda slept more easily and with a more contented brow than for many days she had known. It was but exhaustion after so fierce an ordeal. The Baronet and his cousin conferred at table upon their next duty.
 
-‘Robert.’ said Miss Hackman, in tones more kindly but not less decisive than her wont, ‘two things would I propose to you. First, that for some little time these tragic happenings shall be withheld from our dearest charge — yes, even the faithfulness of her [[Lover|lover]], and the interception of his and her effusions. Only this — his departure — should be communicated. For if she is now told all, sudden grief may wholly dissolve her. Next, that as soon as may be — nay, before there is chance of her hearing — the very next day, even to-morrow if it may be, we shall take her away out of these scenes which have so affected her spirit, to distant renovating travel amid the quaint peoples and the sublime scenery of the Continent of Europe. Believe me, a few weeks, two months, or three at the most, of such invigorating change, will restore to us our beloved Belinda in all the freshness of her youth. Then shall she have the strength to hear what has passed (which we may feign to have but recently heard). Then also, with the lapse of time, there shall be dimmed the image of this — this young man whom, presumably, we shall never see again.’
+‘Robert.’ said Miss Hackman, in tones more kindly but not less decisive than her wont, ‘two things would I propose to you. First, that for some little time these tragic happenings shall be withheld from our dearest charge — yes, even the faithfulness of her [[archetypes/lover|lover]], and the interception of his and her effusions. Only this — his departure — should be communicated. For if she is now told all, sudden grief may wholly dissolve her. Next, that as soon as may be — nay, before there is chance of her hearing — the very next day, even to-morrow if it may be, we shall take her away out of these scenes which have so affected her spirit, to distant renovating travel amid the quaint peoples and the sublime scenery of the Continent of Europe. Believe me, a few weeks, two months, or three at the most, of such invigorating change, will restore to us our beloved Belinda in all the freshness of her youth. Then shall she have the strength to hear what has passed (which we may feign to have but recently heard). Then also, with the lapse of time, there shall be dimmed the image of this — this young man whom, presumably, we shall never see again.’
 
 Heavily as it bore upon his paternal heart, Sir Robert could but accede to so wise an advice.
 
@@ -874,7 +874,7 @@ The ladies had not waited long. The Baronet was seen advancing across the fields
 
 ‘My darling,’ he began in an altered voice ‘(Cousin, forgive me, I should have helped you to alight... I am distracted). My darling, come with me.’ He turned upon her a long regard. ‘We must come to the Château.... There you shall be refreshed and recover from the trepidations of this adventure. Cousin, come with us. The Lady who there presides...’ he paused. He had difficulty in continuing. He conquered himself and proceeded, ‘The Chatelaine insists, with high generosity (she is of English birth), in offering us the shelter of her roof till our means of transport shall be repaired. Mr. Atkins, pray follow with the others. These honest fellows will harness, and all is to be driven to... to our hostess’s manege — all shall be entertained.’
 
-So went they back to the [[Great House|great house]]. Miss Hackman wondered, but was wisely silent in the presence of her relative’s strange emotion. Belinda, with simple trust, smiled lovingly upon her father and took his arm. ‘Thank you, dear papa,’ she whispered for his ear alone. ‘I shall be grateful for rest. I fear the accident has moved me more than I knew.’
+So went they back to the [[motifs/great-house|great house]]. Miss Hackman wondered, but was wisely silent in the presence of her relative’s strange emotion. Belinda, with simple trust, smiled lovingly upon her father and took his arm. ‘Thank you, dear papa,’ she whispered for his ear alone. ‘I shall be grateful for rest. I fear the accident has moved me more than I knew.’
 
 He put his hand on hers and slackened his pace to spare her steps. The house stood wide open to the summer air for their reception, and the three entered together by its ancient gates.
 
@@ -888,7 +888,7 @@ She gave him details of her household, wherein she begged that for some little s
 
 In the petit salon upon the ground floor in the western wing of the house, Belinda, reposing on a chaise-longue restored her serenity from the agitations of the day.
 
-Into the court of the manège, by the offices near the basse-cour, the young rider dismounted, threw the reins to a groom, and advanced with leisured steps towards the house. He noted with surprise the newly arrived vehicles, the number of horses in the stables, the strange servants mixing with those of the household. He prepared to meet visitors, and for that purpose strode to the Salon d’honneur. Its gilded fauteuils were unoccupied: the room was deserted, the [[Great House|great house]] silent.
+Into the court of the manège, by the offices near the basse-cour, the young rider dismounted, threw the reins to a groom, and advanced with leisured steps towards the house. He noted with surprise the newly arrived vehicles, the number of horses in the stables, the strange servants mixing with those of the household. He prepared to meet visitors, and for that purpose strode to the Salon d’honneur. Its gilded fauteuils were unoccupied: the room was deserted, the [[motifs/great-house|great house]] silent.
 
 He rang, and at his summons a domestic appeared. He asked who might have arrived. The footman did not know their names; it was an English Milord and his suite who had met with a misadventure, and whom the Marquise was good enough to entertain while awaiting the repair of his equipage. He, his daughter, and another lady, some relative of his, would be present at dinner, and at least for that night. In his clear tones Horatio continued to inquire on the mishap, the man respectfully to reply.
 
@@ -952,7 +952,7 @@ As is the way with women, she preferred a devious reply.
 
 ‘I remember,’ he answered with falling eyes.
 
-‘Do you remember,’ she continued, ‘the lawn sloping down to the majestic stream, the lights upon the dark waters, and how, as you gazed upon them, you bade me with some melancholy remember that the [[River|river]] flows out for ever and returns no more? It was in that same night that first you called me by my name.’
+‘Do you remember,’ she continued, ‘the lawn sloping down to the majestic stream, the lights upon the dark waters, and how, as you gazed upon them, you bade me with some melancholy remember that the [[motifs/river|river]] flows out for ever and returns no more? It was in that same night that first you called me by my name.’
 
 ‘By your name, Esmeralda? That name still rings like a chime of magic bells in my poor heart. My being implores, demands....’ In his eagerness he had risen, and stretched forth his hands. She, too, rose and held them clasped in her own.
 
@@ -966,7 +966,7 @@ From an open casement of the Château the young people observed their elders thu
 
 ‘Oh, look! Horatio!’ Belinda cried. ‘Papa has by now made fast friends with the Marquise!’
 
-‘He has, indeed, I am glad to say,’ answered her [[Lover|lover]], as he turned from throwing them a careless glance to fix his eyes most ardently upon the object before him.
+‘He has, indeed, I am glad to say,’ answered her [[archetypes/lover|lover]], as he turned from throwing them a careless glance to fix his eyes most ardently upon the object before him.
 
 ‘I must call them in,’ she said. ‘They are so deep in talk that they will forget the hour when the table is prepared.’
 
@@ -1078,7 +1078,7 @@ THE EROS OF KEIR
 
 I
 
-WITHIN THE PARISH, and adjoining the village, of Marlden, in a stately mansion known as The Towers, whose ample lawn sweeps down in smooth luxuriance to the pellucid waters of the [[River]] Avon, resided a gentleman respected throughout the County of Wiltshire as Sir Robert Montgomery; for such was, indeed, his name.
+WITHIN THE PARISH, and adjoining the village, of Marlden, in a stately mansion known as The Towers, whose ample lawn sweeps down in smooth luxuriance to the pellucid waters of the [[motifs/river|River]] Avon, resided a gentleman respected throughout the County of Wiltshire as Sir Robert Montgomery; for such was, indeed, his name.
 
 The baronet (for such was his rank) enjoyed the esteem of his equals, the respectful affection of his inferiors, and the devotion of an only daughter, an only child, upon whom her mother (long dead) had bestowed the pleasing name of Belinda.
 
@@ -1100,7 +1100,7 @@ Horatio Maltravers, the youthful occupant of these venerable acres, was the last
 
 Halston House (for such was the name of the mansion) stood, a noble but sadly neglected pile, framed in tall elms and spreading oaks, whose antiquity in some way hinted at ruin. The very rooks, as they cawed at evening about its crumbling battlements, seemed to mourn the past glories of a family decayed, and the wild grass growing at random on the abandoned sward bore witness to the general decline.
 
-The Towers of the Montgomerys, Halston of the Maltravers, lay each on the banks of this same [[River|river]] Avon, and the parks were so situate that a county road divided them; but on either side of that highway what a contrast! Sir Robert Montgomery’s hedges, well trimmed and dense, proclaimed the careful wealth, the public sense, of their lord. Upon these, at the proper season of the year, a line of stout yeomen might be seen chastising with chopper and bill-hook the overluxuriance of Nature, and reducing all to an exact design. Opposite, the hedges of Halston ran straggling and thin. Great gaps disfigured their alignment. Rank growths of bush, some already grown to stunted trees, sprang here and there untended; while an unsightly patching of stake, hurdle, and furze completed the disorder.
+The Towers of the Montgomerys, Halston of the Maltravers, lay each on the banks of this same [[motifs/river|river]] Avon, and the parks were so situate that a county road divided them; but on either side of that highway what a contrast! Sir Robert Montgomery’s hedges, well trimmed and dense, proclaimed the careful wealth, the public sense, of their lord. Upon these, at the proper season of the year, a line of stout yeomen might be seen chastising with chopper and bill-hook the overluxuriance of Nature, and reducing all to an exact design. Opposite, the hedges of Halston ran straggling and thin. Great gaps disfigured their alignment. Rank growths of bush, some already grown to stunted trees, sprang here and there untended; while an unsightly patching of stake, hurdle, and furze completed the disorder.
 
 The passer-by upon his way to Bath, could not but exclaim (as he looked to the left), ‘What decency! What exactitude!’ Nor again (on turning to the right), could he restrain such expletives as ‘Slipshod!’ and even ‘Disgusting!’
 
@@ -1109,13 +1109,13 @@ The fields told the same story; on the one hand sat plenitude upon a clean soil,
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Indice
+Indice
 
 I
 
 II
 
-# III
+III
 
 IV
 
@@ -1123,9 +1123,9 @@ V
 
 VI
 
-# VII
+VII
 
-# VIII
+VIII
 
 IX
 
@@ -1133,11 +1133,11 @@ X
 
 TO
 
-# L'eros di Keir
+L'eros di Keir
 
 I
 
-Nella parrocchia di Marlden, e nelle zone adiacenti al villaggio, in una maestosa dimora conosciuta come The Towers, la cui vasta aiuola si estende dolcemente fino alle limpide acque del [[River|Fiume]] Avon, risiedeva un gentiluomo molto rispettato in tutto il Contea di Wiltshire: Sir Robert Montgomery; infatti, tale era il suo nome.
+Nella parrocchia di Marlden, e nelle zone adiacenti al villaggio, in una maestosa dimora conosciuta come The Towers, la cui vasta aiuola si estende dolcemente fino alle limpide acque del [[motifs/river|Fiume]] Avon, risiedeva un gentiluomo molto rispettato in tutto il Contea di Wiltshire: Sir Robert Montgomery; infatti, tale era il suo nome.
 
 Il barone (poiché tale era il suo rango) godeva dell’ammirazione dei suoi pari, dell'affetto rispettoso dei suoi subordinati, e della devozione di sua unica figlia, l’unica discendente che avesse; sua madre, ormai da tempo defunta, le aveva dato il nome incantevole di Belinda.
 
@@ -1159,7 +1159,7 @@ Horatio Maltravers, il giovane proprietario di queste venerate terre, era l’ul
 
 La Casa Halston (così si chiamava quella residenza) si ergeva, un edificio nobile ma purtroppo trascurato, circondato da alti olmi e querce; la sua antichità suggeriva in qualche modo il suo declino. Anche i corvi, che gracchiavano al tramonto intorno alle sue mura in rovina, sembravano piangere le glorie passate di una famiglia ormai in decadenza; l’erba selvatica che cresceva disordinatamente sul prato abbandonato testimoniava ulteriormente il generale declino della struttura.
 
-Le torri dei Montgomery e quelle degli Halston dei Maltravers sorgevano entrambe sulle rive dello stesso [[River|fiume]] Avon; i parchi erano disposti in modo tale che una strada provinciale li divideva. Ma su entrambi i lati di quella strada c’era un vero contrasto! I recinti di Sir Robert Montgomery, ben curati e fitti, testimoniavano della cura e del senso civico del loro padrone. Nella stagione giusta, si poteva vedere una fila di contadini robusti che utilizzavano falci e rastrelli per regolare la crescita eccessiva della natura, mantenendo tutto in perfetto ordine. Dall’altra parte, i recinti degli Halston erano disordinati e sparsi; grandi vuoti alteravano la loro disposizione regolare. Cespugli cresciuti selvaggiamente, alcuni addirittura trasformatisi in alberelli stentati, si estendevano senza alcuna cura; inoltre, una serie di pali, recinzioni e rovi completava quell’aspetto disordinato.
+Le torri dei Montgomery e quelle degli Halston dei Maltravers sorgevano entrambe sulle rive dello stesso [[motifs/river|fiume]] Avon; i parchi erano disposti in modo tale che una strada provinciale li divideva. Ma su entrambi i lati di quella strada c’era un vero contrasto! I recinti di Sir Robert Montgomery, ben curati e fitti, testimoniavano della cura e del senso civico del loro padrone. Nella stagione giusta, si poteva vedere una fila di contadini robusti che utilizzavano falci e rastrelli per regolare la crescita eccessiva della natura, mantenendo tutto in perfetto ordine. Dall’altra parte, i recinti degli Halston erano disordinati e sparsi; grandi vuoti alteravano la loro disposizione regolare. Cespugli cresciuti selvaggiamente, alcuni addirittura trasformatisi in alberelli stentati, si estendevano senza alcuna cura; inoltre, una serie di pali, recinzioni e rovi completava quell’aspetto disordinato.
 
 Il passante, lungo il suo cammino verso Bath, non poté fare a meno di esclamare (guardando a sinistra): “Che decenza! Che precisione!” E nemmeno (voltandosi a destra) riuscì a trattenersi dal pronunciare espressioni del tipo “Sciatto!” o persino “Disgustoso!”
 
@@ -1270,7 +1270,7 @@ Quel momento fu magico. Era come se della musica avesse trasformato il mondo int
 <span class="atom-split" data-atom="part--part_04" data-title="Belinda (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/great_house,motif/love"></span>
 
 
-Breast deep in fern, the small and laughing fauns, who [[Love|love]] the awakening of life, hid tiptoe, sidling, peeping, benevolent; but in the heart of the high wood a Presence, shining in a shaft of light, triumphantly let fly the arrow from the bow.
+Breast deep in fern, the small and laughing fauns, who [[motifs/love|love]] the awakening of life, hid tiptoe, sidling, peeping, benevolent; but in the heart of the high wood a Presence, shining in a shaft of light, triumphantly let fly the arrow from the bow.
 
 * * * *
 
@@ -1306,7 +1306,7 @@ Even as she spoke there was heard from a cupola of green copper above the stable
 
 ‘I will accompany you,’ returned Horatio, ‘no farther than the iron gate at the entrance of the shrubbery. Permit me to remain, till then, at your side.’
 
-The distance to be traversed was but a quarter of a mile. He strode with ease beside her somewhat accelerated steps. Each knew that on the morrow in the high noon the one and the other would be by the stream again. Neither looked at the other. Neither spoke. For such we are in youth — which is the heaven of our days. But when they came to the iron gate, and must part, she halted, turned, and lifted, or half lifted, her right hand from her side. He dared for one moment to touch it. They looked into each other’s eyes, and the world was changed. He wheeled round, and was gone. In the cool shade of the arching greenery as she hurried towards the sunlit grass and the [[Great House|great house]] beyond, the air, her soul, was music, and all her being had entered beatitude.
+The distance to be traversed was but a quarter of a mile. He strode with ease beside her somewhat accelerated steps. Each knew that on the morrow in the high noon the one and the other would be by the stream again. Neither looked at the other. Neither spoke. For such we are in youth — which is the heaven of our days. But when they came to the iron gate, and must part, she halted, turned, and lifted, or half lifted, her right hand from her side. He dared for one moment to touch it. They looked into each other’s eyes, and the world was changed. He wheeled round, and was gone. In the cool shade of the arching greenery as she hurried towards the sunlit grass and the [[motifs/great-house|great house]] beyond, the air, her soul, was music, and all her being had entered beatitude.
 
 III
 
@@ -1317,7 +1317,7 @@ Now that they were alone Sir Robert, looking upon her with some sadness and sole
 
 <span class="qlang-split" data-lang="it"></span>
 
-Immersi fino al petto tra le felci, quei piccoli e ridanciosi fauni, che [[Love|amano]] il risveglio della vita, si nascondevano in punta di piedi, sbirciando con benevolenza; ma nel cuore della fitta foresta, una Presenza, splendente in un raggio di luce, scoccò trionfante la freccia dal suo arco.
+Immersi fino al petto tra le felci, quei piccoli e ridanciosi fauni, che [[motifs/love|amano]] il risveglio della vita, si nascondevano in punta di piedi, sbirciando con benevolenza; ma nel cuore della fitta foresta, una Presenza, splendente in un raggio di luce, scoccò trionfante la freccia dal suo arco.
 
 * * * *
 
@@ -1355,7 +1355,7 @@ Mentre parlava, si udirono dalla cupola di rame verde sopra gli stabili i suoni 
 
 La distanza da percorrere era soltanto un quarto di miglio. Camminava con facilità al fianco dei suoi passi un po’ più veloci. Entrambi sapevano che il giorno dopo, a mezzogiorno, si sarebbero ritrovati di nuovo vicino al ruscello. Nessuno dei due guardò l’altro; nessuno parlò. Così siamo nella giovinezza, che è il paradiso dei nostri giorni. Ma quando arrivarono alla porta di ferro e dovettero separarsi, lei si fermò, si girò e sollevò, o almeno tentò di sollevare, la sua mano destra. Lui osò toccarla per un istante. Si guardarono negli occhi, e il mondo cambiò. Lui girò sui tacchi e se ne andò. Nell’ombra fresca della vegetazione rigogliosa, mentre lei si affrettava verso l’erba illuminata dal sole e la grande casa che si trovava oltre, l’aria, la sua anima, erano musica; tutta la sua esistenza era pervasa da beatitudine.
 
-# III
+III
 
 Belinda corse subito nello studio di suo padre, dove lo trovò in piedi davanti al tavolo centrale, con un bicchiere di sherry marrone e tre biscotti davanti a sé: era sua abitudine consumare quel rinfrescante proprio a quell’ora del giorno. Accanto a lui c’era il signor Carter, il maggiordomo, con cui stava discutendo delle questioni relative alla tenuta. Non appena entrò la figlia, il padre congedò il maggiordomo, ricordandogli con un sorriso affascinante che era giunto il momento di esaminare i registri domestici e occuparsi dell’organizzazione della cena e dell’accoglienza degli ospiti.
 
@@ -1370,11 +1370,11 @@ He maintained this posture for a short while, still keeping fixed upon her his p
 
 ‘My dear,’ he said, ‘(how dear you will never know, for it is not in the designs of Providence to communicate to children the devotion of their parents), I have to speak to you to-day upon a matter which will decide your whole life.’
 
-Already Belinda trembled, for a deep instinct, young as she was, informed her that her father was approaching the subject of [[Marriage|marriage]].
+Already Belinda trembled, for a deep instinct, young as she was, informed her that her father was approaching the subject of [[motifs/marriage|marriage]].
 
 The Baronet continued:
 
-‘You are my only child. You will inherit this place, my considerable fortune, and my name — for I propose that this shall, by some arrangement, be preserved. All is at my undisputed disposal, and all (need I say it?) will be yours, and yours alone. I must tell you more.... I design that upon your’ (here was Belinda’s trepidation almost openly apparent) ‘... your... your departure from beneath my roof for the house of another, a very substantial part of all my realizable wealth shall accompany you as your dower. Moreover,’ he pursued in firmer tones, ‘I have made, upon legal advice, such arrangements as shall preserve these moneys for yourself or whatever posterity’ (Belinda blushed) ‘it may please Heaven to grant you. No one,’ he added, with a rising voice, ‘but shall feel the honour and emolument of an alliance with the Montgomerys of Marlden; but no one shall imagine that its independent heritage is merged by [[Marriage|marriage]] with his own.’
+‘You are my only child. You will inherit this place, my considerable fortune, and my name — for I propose that this shall, by some arrangement, be preserved. All is at my undisputed disposal, and all (need I say it?) will be yours, and yours alone. I must tell you more.... I design that upon your’ (here was Belinda’s trepidation almost openly apparent) ‘... your... your departure from beneath my roof for the house of another, a very substantial part of all my realizable wealth shall accompany you as your dower. Moreover,’ he pursued in firmer tones, ‘I have made, upon legal advice, such arrangements as shall preserve these moneys for yourself or whatever posterity’ (Belinda blushed) ‘it may please Heaven to grant you. No one,’ he added, with a rising voice, ‘but shall feel the honour and emolument of an alliance with the Montgomerys of Marlden; but no one shall imagine that its independent heritage is merged by [[motifs/marriage|marriage]] with his own.’
 
 Indeed, at the thought of such an indignity, the Squire’s manly voice was affected, and he paused, while Belinda, who had recovered for the moment a full control of herself, awaited his fateful words.
 
@@ -1419,11 +1419,11 @@ Rimase in quella posizione per un po', continuando a fissarla con uno sguardo pr
 
 “Mia cara,” disse lui, “(quanto tu sia cara non lo saprai mai, perché non è nelle intenzioni della Provvidenza rivelare ai bambini la devozione dei loro genitori), oggi devo parlarti di una questione che deciderà tutta la tua vita.”
 
-Già Belinda tremava, perché un istinto profondo, nonostante fosse giovane, le faceva capire che suo padre stava per affrontare l’argomento del [[Marriage|matrimonio]].
+Già Belinda tremava, perché un istinto profondo, nonostante fosse giovane, le faceva capire che suo padre stava per affrontare l’argomento del [[motifs/marriage|matrimonio]].
 
 Il baronetto continuò:
 
-“Sei mio unico figlio. Erediterai questo posto, la mia considerevole fortuna e il mio nome – poiché intendo che quest’ultimo venga, con alcune disposizioni appropriate, preservato. Tutto è a mia completa disposizione, e tutto (devo forse dirlo?) sarà tuo, e solo tuo. Devo dirti di più. Intanto che tu, ” (qui la trepidazione di Belinda divenne quasi palese) “, tu lascierai questa casa per andare a vivere con un altro, una parte molto sostanziosa della mia fortuna ti accompagnerà come dote. Inoltre,” proseguì con toni più decisi, “ho preso accordi, su consiglio legale, affinché questi soldi vengano conservati per te o per qualsiasi discendente che il cielo possa concederti. Nessuno,” aggiunse alzando la voce, “avrà l’onore e i benefici di un matrimonio con i Montgomery di Marlden; ma nessuno dovrà pensare che la loro eredità venga unita, attraverso il [[Marriage|matrimonio]], a quella della propria famiglia.”
+“Sei mio unico figlio. Erediterai questo posto, la mia considerevole fortuna e il mio nome – poiché intendo che quest’ultimo venga, con alcune disposizioni appropriate, preservato. Tutto è a mia completa disposizione, e tutto (devo forse dirlo?) sarà tuo, e solo tuo. Devo dirti di più. Intanto che tu, ” (qui la trepidazione di Belinda divenne quasi palese) “, tu lascierai questa casa per andare a vivere con un altro, una parte molto sostanziosa della mia fortuna ti accompagnerà come dote. Inoltre,” proseguì con toni più decisi, “ho preso accordi, su consiglio legale, affinché questi soldi vengano conservati per te o per qualsiasi discendente che il cielo possa concederti. Nessuno,” aggiunse alzando la voce, “avrà l’onore e i benefici di un matrimonio con i Montgomery di Marlden; ma nessuno dovrà pensare che la loro eredità venga unita, attraverso il [[motifs/marriage|matrimonio]], a quella della propria famiglia.”
 
 Infatti, al pensiero di una tale umiliazione, la voce virile dello scudiero si incrinò; egli fece una pausa, mentre Belinda, che per il momento aveva riacquistato il pieno controllo su se stessa, attendeva le sue parole decisive.
 
@@ -1570,7 +1570,7 @@ He interrupted her.
 
 ‘Do not be disturbed,’ answered her father promptly. ‘Even had I not decided as I have, your health forbids. I shall send a note to the boy myself to-night. I will tell him precisely how my decision in this matter stands: as for to-morrow, I will say that your indisposition forbids your leaving the house. Later, when we are gone, you are free to write to him, if you will, and he to reply. But I repose my confidence in you that you will not disappoint me, and that you will not meet him during my brief absence.
 
-He embraced her fondly; she returned that embrace with grateful and intense feeling. Her happiness had returned — for was not such [[Love|love]] as hers and Horatio’s eternal?
+He embraced her fondly; she returned that embrace with grateful and intense feeling. Her happiness had returned — for was not such [[motifs/love|love]] as hers and Horatio’s eternal?
 
 IV
 
@@ -1676,7 +1676,7 @@ THE SCENE HAS changed.
 
 We are now before those gloomy but impressive gates which are the castellated portals of the Portlys. For near three generations that family had inhabited the towering pile which Mr. Portly of Cheapside, the grandfather of the reigning squire, had erected, his father amplified, and himself inherited at the early age of twenty-three; some eight years before the date of this narrative.
 
-The mansion — known as Molcombe Abbey, from a ruined wall at the end of the kitchen [[Garden|garden]], reputed to be a monastic relic — was in the Palladian order of architecture, but rising to no less than four stories and crowned by a tower of formidable dimensions, from which floated, when its owner was in residence, a flag bearing the Emblems of his Race.
+The mansion — known as Molcombe Abbey, from a ruined wall at the end of the kitchen [[motifs/garden|garden]], reputed to be a monastic relic — was in the Palladian order of architecture, but rising to no less than four stories and crowned by a tower of formidable dimensions, from which floated, when its owner was in residence, a flag bearing the Emblems of his Race.
 
 The mounted messenger, approaching it through the evening, saw no more than the vast outline of this noble pile. The reader is more privileged. He may penetrate its massive walls and observe its occupant. Reclining at his ease upon an ancient canopied Dais of Tudor workmanship, the Master of the House mused over a vast fire of oaken logs, which illumined the panelled walls and fitfully revealed the soaring roof of his Hall.
 
@@ -1729,7 +1729,7 @@ La scena è cambiata.
 
 Ora ci troviamo di fronte a quelle porte cupe ma imponenti, i portali fortificati della famiglia Portly. Per quasi tre generazioni, quella famiglia ha abitato in quell’imponente edificio che il signor Portly di Cheapside, nonno dell’attuale proprietario terriero, aveva fatto costruire; suo padre lo aveva ampliato e lui stesso l’aveva ereditato all’età di ventitré anni, circa otto anni prima della data in cui si svolge questa narrazione.
 
-La residenza – conosciuta come Molcombe Abbey, a causa di un muro in rovina situato all’estremità del [[Garden|giardino]] della cucina, e ritenuta un relitto monastico – seguiva lo stile architettonico palladiano. Aveva però almeno quattro piani ed era sormontata da una torre di notevoli dimensioni; quando il suo proprietario vi risiedeva, dalla torre sventolava una bandiera con gli stemmi della sua famiglia.
+La residenza – conosciuta come Molcombe Abbey, a causa di un muro in rovina situato all’estremità del [[motifs/garden|giardino]] della cucina, e ritenuta un relitto monastico – seguiva lo stile architettonico palladiano. Aveva però almeno quattro piani ed era sormontata da una torre di notevoli dimensioni; quando il suo proprietario vi risiedeva, dalla torre sventolava una bandiera con gli stemmi della sua famiglia.
 
 Il messaggero a cavallo, avvicinandosi al crepuscolo, non riusciva a vedere altro che la vasta sagoma di quella imponente struttura. Il lettore, invece, ha maggiori privilegi: può addentrarsi tra le sue massicce mura e osservare chi vi abita. Appoggiato comodamente su un antico podio realizzato in stile Tudor, il padrone di casa contemplava il vasto fuoco di tronchi d’quercia che illuminava le pareti intarsiate, rivelando di tanto in tanto l’alto soffitto della sua sala.
 
@@ -1758,7 +1758,7 @@ Sir Orlando was embarrassed beyond repair. Loan succeeded loan. The unfortunate 
 
 With each succeeding year Sir Henry’s difficulty in meeting the interest grew greater, until at last nothing remained between him and foreclosure upon Molcombe Abbey save the delay in finding a sufficient offer of purchase by the mortgage holders. At this stage Sir Henry Portly’s situation was — in his own judgement (and perhaps in theirs) — re-established by his approaching engagement to Belinda.
 
-Her father’s most hearty consent, her own feelings (which he fondly imagined would favour his suit!), he regarded as earnest of a certain alliance. The prospects of such a [[Marriage|marriage]] he had described to Mr. Fox in glowing colours: nor did the lawyer, upon making private inquiry, differ in his judgement upon the case.
+Her father’s most hearty consent, her own feelings (which he fondly imagined would favour his suit!), he regarded as earnest of a certain alliance. The prospects of such a [[motifs/marriage|marriage]] he had described to Mr. Fox in glowing colours: nor did the lawyer, upon making private inquiry, differ in his judgement upon the case.
 
 After some interval (sufficient to render his young bride sensible of their common interests), Belinda’s ample dowry, upon which her father had been both open and generous, would reduce the debt to manageable proportions; her inheritance (on which, moreover, an advance could be negotiated) would more than do the rest: and upon Sir Robert’s demise — he was reputed to be of a gouty disposition, and his father had died in middle age — all would once more be stable and at ease in the combined estates of Molcombe Abbey and Marlden Towers.
 
@@ -1807,7 +1807,7 @@ Sir Orlando si trovava in una situazione imbarazzante da non poter essere più r
 
 Con ogni anno che passava, le difficoltà di Sir Henry nel pagare gli interessi aumentavano sempre di più; alla fine, non rimase più nulla tra lui e la perdita della proprietà della Molcombe Abbey, se non il ritardo nell’ottenere un’offerta di acquisto sufficiente da parte dei detentori dell’ipoteca. A questo punto, secondo la valutazione stessa di Sir Henry Portly (e forse anche quella degli altri), la sua situazione venne ristabilita grazie al suo imminente fidanzamento con Belinda.
 
-Il pieno consenso di suo padre e i suoi stessi sentimenti (che lui si illudeva affettuosamente che fossero favorevoli alla sua proposta!) gli sembravano segni concreti dell’imminente realizzazione di un certo legame. Aveva descritto le prospettive di un tale [[Marriage|matrimonio]] al signor Fox in termini molto lusinghieri; nemmeno l’avvocato, dopo aver indagato personalmente, aveva cambiato opinione sulla questione.
+Il pieno consenso di suo padre e i suoi stessi sentimenti (che lui si illudeva affettuosamente che fossero favorevoli alla sua proposta!) gli sembravano segni concreti dell’imminente realizzazione di un certo legame. Aveva descritto le prospettive di un tale [[motifs/marriage|matrimonio]] al signor Fox in termini molto lusinghieri; nemmeno l’avvocato, dopo aver indagato personalmente, aveva cambiato opinione sulla questione.
 
 Dopo un certo lasso di tempo (sufficiente perché la sua giovane sposa comprendesse i loro interessi comuni), la cospicua dote di Belinda, di cui suo padre era stato aperto e generoso, avrebbe ridotto il debito a proporzioni gestibili; inoltre, l’eredità che le spettava (su cui si poteva anche negoziare un prestito) sarebbe stata più che sufficiente per risolvere tutti i problemi. E alla morte di Sir Robert – si diceva che soffrisse di gotta e suo padre era morto a mezza età – tutto sarebbe tornato stabile e in ordine, grazie alle proprietà congiunte di Molcombe Abbey e Marlden Towers.
 
@@ -1970,7 +1970,7 @@ She turned without haste to her charge.
 
 ‘My dearest,’ she said (she was already on such terms), ‘You will excuse me, will you not? I shall take the air. I need it, and there is but a moment before we must dress for dinner, which I have postponed to the hour of five.’
 
-She kissed the charming face, and, descending, strolled out towards the iron gates of the [[Garden|garden]] and on to the path through the park, as though careless of her steps.
+She kissed the charming face, and, descending, strolled out towards the iron gates of the [[motifs/garden|garden]] and on to the path through the park, as though careless of her steps.
 
 The youth, whom she met half-way across the park field on the way to the wood saluted her awkwardly and would have passed. She stopped him with a smile, and asked him whither he was bound.
 
@@ -1984,7 +1984,7 @@ It has been remarked by cute observers of the human species that the female is m
 
 If, as the Papists monstrously pretend, an angel were deputed guardian for each of us, to defend us from evils which our own resolute wills should suffice to contest, such an imaginary being would have wept to observe the struggle in the soul of Miss Curll and its lamentable catastrophe.
 
-She gently forced open the sealed and folded sheet with every imaginable precaution; none the less was it slightly torn. At this accident she shrugged her shoulders imperceptibly under her Castilian shawl; she knew that it prevented any retreat or later subterfuge. She boldly opened the paper and was amused, interested, absorbed, to read these lines, penned in the bold and hasty hand of an impassioned [[Lover|lover]]:
+She gently forced open the sealed and folded sheet with every imaginable precaution; none the less was it slightly torn. At this accident she shrugged her shoulders imperceptibly under her Castilian shawl; she knew that it prevented any retreat or later subterfuge. She boldly opened the paper and was amused, interested, absorbed, to read these lines, penned in the bold and hasty hand of an impassioned [[archetypes/lover|lover]]:
 
 ‘It is a word from your most honoured father which permits me to dare — to adventure — these words. I know not, in my perturbation, how to begin. I fear lest — once entered upon such a path — I cannot bring myself to end. The same indulgence which has granted me the supreme felicity of addressing you has informed me that we may not meet — for an eternity of days: at the earliest upon Sir Robert’s return from the Metropolis. My agony is enhanced by his communication of its cause. What! You are suffering, and I may not be near you? You languish, and I may not fly to your side? I went this morning to the ferns, to the pines, to the streamlet — although I knew I should not find you there.
 
@@ -2009,7 +2009,7 @@ Si girò senza fretta verso la sua responsabilità.
 
 “Mio carissimo,” disse lei (già si rivolgeva a lui in quel modo), “mi scuserai, vero? Andrò a prendere un po’ d’aria. Ne ho bisogno. Manca solo un attimo prima di doverci vestire per la cena, che ho rinviato alle cinque.”
 
-Baciò quel volto affascinante e, scendendo, si incamminò verso le porte di ferro del [[Garden|giardino]], proseguendo poi lungo il sentiero che attraversava il parco, come se non prestasse attenzione ai propri passi.
+Baciò quel volto affascinante e, scendendo, si incamminò verso le porte di ferro del [[motifs/garden|giardino]], proseguendo poi lungo il sentiero che attraversava il parco, come se non prestasse attenzione ai propri passi.
 
 Il giovane, che lei incontrò a metà del campo del parco, lungo il cammino verso il bosco, la salutò in modo goffo e stava per andarsene. Lei lo fermò con un sorriso e gli chiese dove stesse andando.
 
@@ -2023,7 +2023,7 @@ Gli osservatori attenti della specie umana hanno notato che le donne sono più p
 
 Se, come pretendono mostruosamente i Papisti, per ognuno di noi venisse designato un angelo come guardiano per difenderci dai mali contro cui la nostra volontà risoluta sarebbe sufficiente a lottare, un essere del genere avrebbe pianto nel vedere la lotta che avveniva nell’anima della signorina Curll e la sua tragica conseguenza.
 
-Con estrema cautela, aprì delicatamente quel foglio sigillato e ripiegato; tuttavia, presentava qualche piccolo strappo. Di fronte a questo incidente, scrollò impercettibilmente le spalle sotto il suo scialle castigliano; sapeva che ormai non c’era più modo di tornare indietro o di trovare una scusa in seguito. Aprì coraggiosamente il foglio e lesse con divertimento, interesse e attenzione quelle righe, scritte a mano decisa e frettolosa da un appassionato [[Lover|amante]].
+Con estrema cautela, aprì delicatamente quel foglio sigillato e ripiegato; tuttavia, presentava qualche piccolo strappo. Di fronte a questo incidente, scrollò impercettibilmente le spalle sotto il suo scialle castigliano; sapeva che ormai non c’era più modo di tornare indietro o di trovare una scusa in seguito. Aprì coraggiosamente il foglio e lesse con divertimento, interesse e attenzione quelle righe, scritte a mano decisa e frettolosa da un appassionato [[archetypes/lover|amante]].
 
 “È una parola proveniente dal vostro più onorato padre che mi permette di osare pronunciare queste parole. Non so come iniziare, nel mio turbamento. Temo che, una volta intrapreso questo percorso, non riesca a portarlo a termine. Lo stesso favore che mi ha concesso la suprema felicità di rivolgermi a voi mi ha anche detto che forse non ci incontreremo mai più. Al massimo, solo al ritorno di Sir Robert dalla Metropoli. Il mio dolore aumenta ancora di più quando so la causa della sua assenza. Come! Voi soffrite, e io non posso essere al vostro fianco? Vi sentite male, e io non posso correre da voi. Questa mattina sono andato tra i felci, i pini, il ruscello, anche se sapevo che non vi avrei trovata lì, ”
 
@@ -2044,7 +2044,7 @@ La sua compagna dormiva quando lei entrò silenziosamente nell’appartamento. S
 
 Though but this one first day of separation was passing, she had hoped — she had dared to hope — that some sign would have come already from that house in all these long hours. She turned away and was silent.
 
-‘You are fatigued, my [[Love|love]],’ said Miss Curll, implanting a kiss upon the pale brow. ‘You shall dine in your room and then early seek repose.’
+‘You are fatigued, my [[motifs/love|love]],’ said Miss Curll, implanting a kiss upon the pale brow. ‘You shall dine in your room and then early seek repose.’
 
 ‘I will do so,’ said Belinda resignedly. ‘Tomorrow I shall be completely recovered, believe me. To-night I must rest.’
 
@@ -2082,14 +2082,14 @@ Meanwhile, in the cobwebbed and decaying woodwork of his ancient hall, Horatio M
 
 He wrote with a soul disturbed; he wrote unevenly, hesitating for expression, destroying brouillon after brouillon until at last he had composed these lines — these feverish lines:
 
-‘Belinda, if I have offended you in aught reveal it to me and I will make amends for life! If some ill rumour has reached you, which stains my honour in your eyes, briefly detail it to me and I will clear myself. If for any reason whatsoever you are prevented from sending notice of yourself, from letting me receive and worship the traces of your hand — oh! let me know it, and set at rest this tortured heart! But if you must still be obstinately silent, then believe, be sure, that I conclude my heaven to have been a brief illusion — your [[Love|love]] (oh! my beloved) never to have answered mine. Yet, even so, respond! respond! I cannot be, I do not live, till I know even the worst: but oh! at least reply!’
+‘Belinda, if I have offended you in aught reveal it to me and I will make amends for life! If some ill rumour has reached you, which stains my honour in your eyes, briefly detail it to me and I will clear myself. If for any reason whatsoever you are prevented from sending notice of yourself, from letting me receive and worship the traces of your hand — oh! let me know it, and set at rest this tortured heart! But if you must still be obstinately silent, then believe, be sure, that I conclude my heaven to have been a brief illusion — your [[motifs/love|love]] (oh! my beloved) never to have answered mine. Yet, even so, respond! respond! I cannot be, I do not live, till I know even the worst: but oh! at least reply!’
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Anche se quel primo giorno di separazione stava passando, lei aveva sperato, aveva osato sperare che, in tutte quelle lunghe ore, fosse già arrivato qualche segno da quella casa. Si girò e rimase in silenzio.
 
-“Sei stanco, mio [[Love|amore]]”, disse la signorina Curll, depositando un bacio sulla sua pallida fronte. “Mangerai nella tua stanza e poi andrai a riposarti presto.”
+“Sei stanco, mio [[motifs/love|amore]]”, disse la signorina Curll, depositando un bacio sulla sua pallida fronte. “Mangerai nella tua stanza e poi andrai a riposarti presto.”
 
 “Lo farò,” disse Belinda con rassegnazione. “Domani sarò completamente guarita, credetemi. Stasera devo riposare.”
 
@@ -2127,7 +2127,7 @@ Nel frattempo, nelle assi di legno infestate dalle ragnatele e in decomposizione
 
 Scrisse con un’anima turbata; scrisse in modo disordinato, esitando nella ricerca delle parole giuste, distruggendo uno dopo l’altro i suoi bozzi, fino a quando finalmente riuscì a comporre queste righe, queste righe febbrili.
 
-‘Belinda, se in qualche modo ti ho offesa, rivelamelo e farò ammenda per tutta la vita! Se qualche cattiva voce è giunta fino a te e ha macchiato la mia reputazione ai tuoi occhi, spiegamela brevemente e mi difenderò. Se per qualsiasi motivo non riesci a comunicare con me, a permettermi di ricevere e venerare anche solo i segni della tua presenza, oh! fammelo sapere, per placare questo cuore tormentato! Ma se proprio devi rimanere ostinatamente in silenzio, allora credimi: il mio paradiso non è stato altro che un’illusione, il tuo [[Love|amore]] (oh, mia amata) non ha mai risposto al mio. Eppure, rispondi lo stesso! Non posso vivere, non esisto più, se non so anche la cosa peggiore, ma oh, rispondi almeno!’
+‘Belinda, se in qualche modo ti ho offesa, rivelamelo e farò ammenda per tutta la vita! Se qualche cattiva voce è giunta fino a te e ha macchiato la mia reputazione ai tuoi occhi, spiegamela brevemente e mi difenderò. Se per qualsiasi motivo non riesci a comunicare con me, a permettermi di ricevere e venerare anche solo i segni della tua presenza, oh! fammelo sapere, per placare questo cuore tormentato! Ma se proprio devi rimanere ostinatamente in silenzio, allora credimi: il mio paradiso non è stato altro che un’illusione, il tuo [[motifs/love|amore]] (oh, mia amata) non ha mai risposto al mio. Eppure, rispondi lo stesso! Non posso vivere, non esisto più, se non so anche la cosa peggiore, ma oh, rispondi almeno!’
 
 
 
@@ -2201,7 +2201,7 @@ I domestici di quella famiglia ridotta si scambiavano commenti, con voci timide 
 
 Ecco cos'è la gioventù: irresponsabile verso se stessa e gli altri, fonte di costante preoccupazione per gli anziani, ma animata da passioni primordiali.
 
-# VII
+VII
 
 Il giorno seguente la sua partenza, nella fresca mattina dopo un riposo in una locanda lungo la strada, Horatio fermò il suo cavallo sulla cima di un prato erboso, da dove poteva ammirare i distretti di Wiltshire e Somerset stendersi a ovest, lontano sotto di lui. Si girò nella sella per osservare, da quella distanza tra le colline nebbiose, i luoghi della sua infanzia. Quanto familiari gli sembravano quei boschi lontani, quelle cime che avevano rappresentato la sua casa. Eppure quanto erano cambiati! Il sole appena sorto illuminava quella vista con un tenue velo di luce fresca e uniforme. Ma invano! Per un’ora, quelle colline, quei valli, quei boschi avevano brillato illuminati dal nome sacro di Belinda. Ora la loro gloria era svanita; non erano più nulla. La fiamma della lanterna si era spenta; i campi, gli alberi, erano tutti estranei e vuoti.
 
@@ -2468,7 +2468,7 @@ Horatio paused a full moment ere he could bring himself to reply.
 
 But at that word his companion moved most suddenly. She gasped with a slight, an almost imperceptible yet an abrupt and stricken sound. She laid a hand upon her heart. Horatio looked up sharply in alarm. ‘It is naught,’ she said, with a catch in her breath, ‘... it is naught. I am recovered. Come, let us return.’ And she led him down to the halls below.
 
-But as she went the Inexorable had swept the chord of life within her.... She was far off and very young. Her earliest springtime had returned: her eighteenth year. It was in the old days ere ever Revolution had marred the dignity of the world. She was in her mother’s [[Garden|garden]], in her English home, and the clear Thames slid by. The stately union designed for her had been announced, the highborn foreigner who stood so conspicuous in the service of the French king had honoured her parents with a demand for her hand, and they had welcomed so great an alliance. By her side a young soldier of her own people stood silently imploring, and she had begun to know too late that his face would remain with her for ever.
+But as she went the Inexorable had swept the chord of life within her.... She was far off and very young. Her earliest springtime had returned: her eighteenth year. It was in the old days ere ever Revolution had marred the dignity of the world. She was in her mother’s [[motifs/garden|garden]], in her English home, and the clear Thames slid by. The stately union designed for her had been announced, the highborn foreigner who stood so conspicuous in the service of the French king had honoured her parents with a demand for her hand, and they had welcomed so great an alliance. By her side a young soldier of her own people stood silently imploring, and she had begun to know too late that his face would remain with her for ever.
 
 VIII
 
@@ -2505,7 +2505,7 @@ Ma alle sue parole la sua compagna reagì in modo improvviso. Trasalì con un su
 
 Ma mentre camminava, l’Inesorabile aveva già distrutto la corda della vita che era in lei. Era lontana e molto giovane; il suo primo periodo di primavera era tornato: aveva diciotto anni. Erano i tempi antichi, prima che la Rivoluzione rovinasse la dignità del mondo. Si trovava nel giardino di sua madre, nella sua casa inglese, mentre il limpido fiume Tamigi scorreva accanto a lei. L’unione nobile che le era stata destinata era stata annunciata: quel nobile straniero, così evidente nel servizio del re francese, aveva chiesto la sua mano ai suoi genitori, e questi avevano accolto con favore un tale matrimonio. Accanto a lei c’era un giovane soldato del suo stesso popolo che la guardava in silenzio, implorante. Ma lei aveva capito troppo tardi che il suo volto le sarebbe rimasto per sempre.
 
-# VIII
+VIII
 
 Sir Robert, durante le sue attività legali nella capitale, era sempre più preoccupato, così come sua cugina Miss Hackman, a causa delle lettere occasionalmente ricevute da casa. Non vedeva l’ora di tornare. Infatti, Miss Curll, che si dedicava con impegno sia alle attività di corrispondenza che ad altre mansioni, non riusciva a nascondergli quanto fosse lenta la guarigione di Belinda. Anzi, da alcune frasi caute e circostanziate, Sir Robert aveva capito che sua figlia, invece di migliorare, stava peggiorando sempre di più nella malattia che lo aveva così profondamente preoccupato.
 
@@ -2776,7 +2776,7 @@ Standing with his bare head bowed, that good man paused a moment over the dead; 
 
 Upstairs Belinda slept more easily and with a more contented brow than for many days she had known. It was but exhaustion after so fierce an ordeal. The Baronet and his cousin conferred at table upon their next duty.
 
-‘Robert.’ said Miss Hackman, in tones more kindly but not less decisive than her wont, ‘two things would I propose to you. First, that for some little time these tragic happenings shall be withheld from our dearest charge — yes, even the faithfulness of her [[Lover|lover]], and the interception of his and her effusions. Only this — his departure — should be communicated. For if she is now told all, sudden grief may wholly dissolve her. Next, that as soon as may be — nay, before there is chance of her hearing — the very next day, even to-morrow if it may be, we shall take her away out of these scenes which have so affected her spirit, to distant renovating travel amid the quaint peoples and the sublime scenery of the Continent of Europe. Believe me, a few weeks, two months, or three at the most, of such invigorating change, will restore to us our beloved Belinda in all the freshness of her youth. Then shall she have the strength to hear what has passed (which we may feign to have but recently heard). Then also, with the lapse of time, there shall be dimmed the image of this — this young man whom, presumably, we shall never see again.’
+‘Robert.’ said Miss Hackman, in tones more kindly but not less decisive than her wont, ‘two things would I propose to you. First, that for some little time these tragic happenings shall be withheld from our dearest charge — yes, even the faithfulness of her [[archetypes/lover|lover]], and the interception of his and her effusions. Only this — his departure — should be communicated. For if she is now told all, sudden grief may wholly dissolve her. Next, that as soon as may be — nay, before there is chance of her hearing — the very next day, even to-morrow if it may be, we shall take her away out of these scenes which have so affected her spirit, to distant renovating travel amid the quaint peoples and the sublime scenery of the Continent of Europe. Believe me, a few weeks, two months, or three at the most, of such invigorating change, will restore to us our beloved Belinda in all the freshness of her youth. Then shall she have the strength to hear what has passed (which we may feign to have but recently heard). Then also, with the lapse of time, there shall be dimmed the image of this — this young man whom, presumably, we shall never see again.’
 
 Heavily as it bore upon his paternal heart, Sir Robert could but accede to so wise an advice.
 
@@ -2811,7 +2811,7 @@ In piedi, con la testa china, quell'uomo buono rimase per un momento davanti al 
 
 Al piano di sopra, Belinda dormiva più serenamente e con un'espressione più soddisfatta di quanto non facesse da molti giorni. Era semplicemente l'esaurimento causato da un'esperienza così terribile. Il baronetto e suo cugino discutevano a tavola del loro prossimo compito.
 
-“Robert,” disse la signorina Hackman, con toni più gentili ma non meno decisi del solito, “vorrei proporgli due cose. Prima di tutto, che per un po’ di tempo queste tragiche notizie vengano tenute nascoste alla nostra amatissima Belinda: sì, anche l’affetto del suo [[Lover|innamorato]] e le loro lettere dovrebbero essere tenute segrete. Solo la sua partenza dovrebbe essere comunicata. Perché se le venisse detto tutto ora, il dolore improvviso potrebbe distruggerla completamente. In secondo luogo, non appena sarà possibile – anzi, prima ancora che abbia la possibilità di saperlo – il giorno dopo, o addirittura domani, se possibile, dovremmo portarla via da questi luoghi che hanno così profondamente influenzato il suo spirito, per un viaggio rigeneratore tra le strane usanze e i paesaggi maestosi del Continente europeo. Credetemi: poche settimane, due o al massimo tre mesi di questo cambiamento benefico le restituiranno tutta la freschezza della sua giovinezza. Allora avrà la forza di ascoltare ciò che è accaduto, e potremo fingere di averlo appreso solo di recente. Inoltre, con il passare del tempo, l’immagine di questo giovane – che probabilmente non rivedremo mai più – si affievolirà nel suo ricordo.”
+“Robert,” disse la signorina Hackman, con toni più gentili ma non meno decisi del solito, “vorrei proporgli due cose. Prima di tutto, che per un po’ di tempo queste tragiche notizie vengano tenute nascoste alla nostra amatissima Belinda: sì, anche l’affetto del suo [[archetypes/lover|innamorato]] e le loro lettere dovrebbero essere tenute segrete. Solo la sua partenza dovrebbe essere comunicata. Perché se le venisse detto tutto ora, il dolore improvviso potrebbe distruggerla completamente. In secondo luogo, non appena sarà possibile – anzi, prima ancora che abbia la possibilità di saperlo – il giorno dopo, o addirittura domani, se possibile, dovremmo portarla via da questi luoghi che hanno così profondamente influenzato il suo spirito, per un viaggio rigeneratore tra le strane usanze e i paesaggi maestosi del Continente europeo. Credetemi: poche settimane, due o al massimo tre mesi di questo cambiamento benefico le restituiranno tutta la freschezza della sua giovinezza. Allora avrà la forza di ascoltare ciò che è accaduto, e potremo fingere di averlo appreso solo di recente. Inoltre, con il passare del tempo, l’immagine di questo giovane – che probabilmente non rivedremo mai più – si affievolirà nel suo ricordo.”
 
 Nonostante il grande dolore che questo comportava per il suo cuore di padre, Sir Robert non poté fare altro che seguire un consiglio così saggio.
 
@@ -2938,7 +2938,7 @@ The ladies had not waited long. The Baronet was seen advancing across the fields
 
 ‘My darling,’ he began in an altered voice ‘(Cousin, forgive me, I should have helped you to alight... I am distracted). My darling, come with me.’ He turned upon her a long regard. ‘We must come to the Château.... There you shall be refreshed and recover from the trepidations of this adventure. Cousin, come with us. The Lady who there presides...’ he paused. He had difficulty in continuing. He conquered himself and proceeded, ‘The Chatelaine insists, with high generosity (she is of English birth), in offering us the shelter of her roof till our means of transport shall be repaired. Mr. Atkins, pray follow with the others. These honest fellows will harness, and all is to be driven to... to our hostess’s manege — all shall be entertained.’
 
-So went they back to the [[Great House|great house]]. Miss Hackman wondered, but was wisely silent in the presence of her relative’s strange emotion. Belinda, with simple trust, smiled lovingly upon her father and took his arm. ‘Thank you, dear papa,’ she whispered for his ear alone. ‘I shall be grateful for rest. I fear the accident has moved me more than I knew.’
+So went they back to the [[motifs/great-house|great house]]. Miss Hackman wondered, but was wisely silent in the presence of her relative’s strange emotion. Belinda, with simple trust, smiled lovingly upon her father and took his arm. ‘Thank you, dear papa,’ she whispered for his ear alone. ‘I shall be grateful for rest. I fear the accident has moved me more than I knew.’
 
 He put his hand on hers and slackened his pace to spare her steps. The house stood wide open to the summer air for their reception, and the three entered together by its ancient gates.
 
@@ -2946,13 +2946,13 @@ X
 
 THE PRESENTATIONS HAD been made, the Baronet, with the restraint of a forgotten world, had formally pronounced the name of their generous hostess to his daughter, who had dropped, as the occasion demanded, a deep reverence in honour of that commanding but gracious presence. Next Miss Hackman had been greeted with the kindest words, and even the Reverend Mr. Atkins had been accosted with so much savoir faire, such due respect for his cloth, as might have deceived an onlooker with the illusion of a conversation between equals.
 
-The heat of that deep afternoon had stilled the very leaves upon the poplar trees; all was steeped in the drowsy summer haze. Above, Miss Hackman, in her room, permitted herself (what was rare with her) some relaxation in déshabille. Below, in a boudoir where the finest canvasses of Boucher challenged the exquisite sensibility of Greuze, Sir Robert and the Marquise told each other all. She learnt that story of his long fidelity, his late [[Marriage|marriage]], his widowhood, his only child. He her life at Court and in diplomacy (of which echoes had reached him in the intervals of the wars), and of the long retirement here at Rosny, since the great gentleman who had given her his name had left the Court of Louis XVIII for that of Heaven.
+The heat of that deep afternoon had stilled the very leaves upon the poplar trees; all was steeped in the drowsy summer haze. Above, Miss Hackman, in her room, permitted herself (what was rare with her) some relaxation in déshabille. Below, in a boudoir where the finest canvasses of Boucher challenged the exquisite sensibility of Greuze, Sir Robert and the Marquise told each other all. She learnt that story of his long fidelity, his late [[motifs/marriage|marriage]], his widowhood, his only child. He her life at Court and in diplomacy (of which echoes had reached him in the intervals of the wars), and of the long retirement here at Rosny, since the great gentleman who had given her his name had left the Court of Louis XVIII for that of Heaven.
 
 She gave him details of her household, wherein she begged that for some little space they might reside, even mentioning her recent reception of a brave young Englishman who had been wounded in her defence, who for the moment was riding out in the forest, but would for dinner be returned. His name she had deliberately refused to require, but that he was of high birth she could be sure, and that his company would please them she made no doubt. His wound was wholly healed; in a few days he also (she sighed) would be gone.
 
 In the petit salon upon the ground floor in the western wing of the house, Belinda, reposing on a chaise-longue restored her serenity from the agitations of the day.
 
-Into the court of the manège, by the offices near the basse-cour, the young rider dismounted, threw the reins to a groom, and advanced with leisured steps towards the house. He noted with surprise the newly arrived vehicles, the number of horses in the stables, the strange servants mixing with those of the household. He prepared to meet visitors, and for that purpose strode to the Salon d’honneur. Its gilded fauteuils were unoccupied: the room was deserted, the [[Great House|great house]] silent.
+Into the court of the manège, by the offices near the basse-cour, the young rider dismounted, threw the reins to a groom, and advanced with leisured steps towards the house. He noted with surprise the newly arrived vehicles, the number of horses in the stables, the strange servants mixing with those of the household. He prepared to meet visitors, and for that purpose strode to the Salon d’honneur. Its gilded fauteuils were unoccupied: the room was deserted, the [[motifs/great-house|great house]] silent.
 
 He rang, and at his summons a domestic appeared. He asked who might have arrived. The footman did not know their names; it was an English Milord and his suite who had met with a misadventure, and whom the Marquise was good enough to entertain while awaiting the repair of his equipage. He, his daughter, and another lady, some relative of his, would be present at dinner, and at least for that night. In his clear tones Horatio continued to inquire on the mishap, the man respectfully to reply.
 
@@ -2975,7 +2975,7 @@ Le signore non dovettero aspettare a lungo. Si vide il baronet avanzare attraver
 
 “Mia cara,” cominciò con voce diversa, “cugina, perdonami. Avrei dovuto aiutarti a scendere. Sono distratto. Mia cara, vieni con me.” La fissò a lungo. “Dobbiamo andare al castello. Lì potrai riposarti e recuperare dalle emozioni di questa avventura. Cugina, vieni con noi. La signora che vi abita, ” Si interruppe; gli risultava difficile continuare. Si fece forza e proseguì: “La padrona di casa, con grande generosità – essendo di origine inglese – insiste nel offrirci rifugio sotto il suo tetto, finché i nostri mezzi di trasporto non saranno riparati. Signor Atkins, la prego, segua gli altri. Questi bravi uomini si occuperanno di tutto. Tutto sarà sistemato, ”
 
-Così tornarono alla [[Great House|grande casa]]. La signorina Hackman si chiese cosa stesse succedendo, ma rimase saggiamente in silenzio di fronte alle strane emozioni del suo parente. Belinda, con semplice fiducia, sorrise amorevolmente a suo padre e gli prese il braccio. “Grazie, caro papà,” sussurrò solo per lui. “Sarò grata di poter riposare. Temo che quell’incidente mi abbia colpita più di quanto pensassi.”
+Così tornarono alla [[motifs/great-house|grande casa]]. La signorina Hackman si chiese cosa stesse succedendo, ma rimase saggiamente in silenzio di fronte alle strane emozioni del suo parente. Belinda, con semplice fiducia, sorrise amorevolmente a suo padre e gli prese il braccio. “Grazie, caro papà,” sussurrò solo per lui. “Sarò grata di poter riposare. Temo che quell’incidente mi abbia colpita più di quanto pensassi.”
 
 Le mise la mano sulla sua e rallentò il passo per non affaticarla. La casa era completamente aperta all’aria estiva per accoglierli, e i tre entrarono insieme attraverso le sue antiche porte.
 
@@ -3116,7 +3116,7 @@ Come succede spesso con le donne, lei preferì dare una risposta astuta.
 
 ‘I remember,’ he answered with falling eyes.
 
-‘Do you remember,’ she continued, ‘the lawn sloping down to the majestic stream, the lights upon the dark waters, and how, as you gazed upon them, you bade me with some melancholy remember that the [[River|river]] flows out for ever and returns no more? It was in that same night that first you called me by my name.’
+‘Do you remember,’ she continued, ‘the lawn sloping down to the majestic stream, the lights upon the dark waters, and how, as you gazed upon them, you bade me with some melancholy remember that the [[motifs/river|river]] flows out for ever and returns no more? It was in that same night that first you called me by my name.’
 
 ‘By your name, Esmeralda? That name still rings like a chime of magic bells in my poor heart. My being implores, demands....’ In his eagerness he had risen, and stretched forth his hands. She, too, rose and held them clasped in her own.
 
@@ -3130,7 +3130,7 @@ From an open casement of the Château the young people observed their elders thu
 
 ‘Oh, look! Horatio!’ Belinda cried. ‘Papa has by now made fast friends with the Marquise!’
 
-‘He has, indeed, I am glad to say,’ answered her [[Lover|lover]], as he turned from throwing them a careless glance to fix his eyes most ardently upon the object before him.
+‘He has, indeed, I am glad to say,’ answered her [[archetypes/lover|lover]], as he turned from throwing them a careless glance to fix his eyes most ardently upon the object before him.
 
 ‘I must call them in,’ she said. ‘They are so deep in talk that they will forget the hour when the table is prepared.’
 
@@ -3196,7 +3196,7 @@ As she stood thus, immobile, the first strong shaft of light shot upwards, struc
 
 * * * * *
 
-In the room which had been set aside for the chapel of the ceremony, and recently furnished by the Chatelaine for that purpose with assiduous care, the household was assembled, the Reverend Mr. Atkins vested and prepared. He had required, he had demanded, he had obtained, a glass of port wine and a biscuit, which it was his invariable custom to consume before a Celebration, in protest against the Romish novelties of certain colleagues. As, with practised intonation, he recited the profound phrases of the [[Marriage]] Service, the Marquise, who had missed for so long the beautiful Liturgy of her youth, was deeply moved; while old Fanchette, the only French domestic not a Papist and, therefore, privileged to attend, was equally affected by the sacred scene, though, being ignorant of the English tongue (a Huguenot from the Vaudois), she could do no more than reverently follow the rhythms of the sacred office.
+In the room which had been set aside for the chapel of the ceremony, and recently furnished by the Chatelaine for that purpose with assiduous care, the household was assembled, the Reverend Mr. Atkins vested and prepared. He had required, he had demanded, he had obtained, a glass of port wine and a biscuit, which it was his invariable custom to consume before a Celebration, in protest against the Romish novelties of certain colleagues. As, with practised intonation, he recited the profound phrases of the [[motifs/marriage|Marriage]] Service, the Marquise, who had missed for so long the beautiful Liturgy of her youth, was deeply moved; while old Fanchette, the only French domestic not a Papist and, therefore, privileged to attend, was equally affected by the sacred scene, though, being ignorant of the English tongue (a Huguenot from the Vaudois), she could do no more than reverently follow the rhythms of the sacred office.
 
 Averse though he was to the extempore usage of the Caledonian Communion, Mr. Atkins did not forbear to add at the end of his ministration a short but heartfelt prayer of his own for the young people, who would eventually unite in their combined patronage the two livings of Halston and Marlden. Tears stood in the eyes of the good old man as he alluded with a native delicacy to the possibility of offspring. Himself a celibate, and, therefore (as we must believe), unblessed with children (for the emoluments of his office were insufficient to a matrimonial venture), the more pathetically did he extend both hands in benediction over the bowed heads of the kneeling couple, while his uplifted eyes sought Heaven in a prayer for their fruitful happiness.
 
@@ -3213,7 +3213,7 @@ FINIS
 
 “Me ne ricordo,” rispose con lo sguardo abbassato.
 
-“Ricordi,” continuò lei, “quel prato che scendeva verso il maestoso ruscello, le luci sulle acque scure. E come, mentre le guardavi, mi dicesti con un certo malinconico rimpianto che quel [[River|fiume]] scorre per sempre e non tornerà mai indietro? Fu proprio quella stessa notte che per la prima volta mi chiamasti per nome.”
+“Ricordi,” continuò lei, “quel prato che scendeva verso il maestoso ruscello, le luci sulle acque scure. E come, mentre le guardavi, mi dicesti con un certo malinconico rimpianto che quel [[motifs/river|fiume]] scorre per sempre e non tornerà mai indietro? Fu proprio quella stessa notte che per la prima volta mi chiamasti per nome.”
 
 “Per il tuo nome, Esmeralda? Quel nome risuona ancora nella mia povera anima come le campane di una magia. Il mio essere ti prega, te lo chiede con insistenza, ” Con impazienza si alzò e tese le mani verso di lei. Anche lei si alzò e le strinse nelle sue.
 
@@ -3227,7 +3227,7 @@ Dalla finestra aperta del castello, i giovani osservavano i loro anziani avanzar
 
 “Oh, guarda! Horatio!” gridò Belinda. “Papà ormai è diventato molto amico della Marchesa!”
 
-“Sì, davvero,” rispose il suo [[Lover|amante]], mentre smetteva di gettare loro uno sguardo distratto per fissare con intensità l’oggetto davanti a sé.
+“Sì, davvero,” rispose il suo [[archetypes/lover|amante]], mentre smetteva di gettare loro uno sguardo distratto per fissare con intensità l’oggetto davanti a sé.
 
 “Devo chiamarli dentro,” disse. “Stanno parlando così a lungo che dimenticheranno l’ora in cui sarà pronto il tavolo.”
 
@@ -3237,9 +3237,9 @@ Quella sera, davanti a uno spinetto che, con la sua forma antica, adornava elega
 
 Madame la Marquise
 
-# Il vostro piede è davvero ben fatto
+Il vostro piede è davvero ben fatto
 
-#"La tua taglia è perfetta."
+"La tua taglia è perfetta."
 
 E il vostro braccio perfetto.
 
@@ -3248,7 +3248,7 @@ Ma pensa ancora, mia bella…
 Titolo:  
 Forse in questo stesso istante…
 
-# La nostra grande Isabella
+La nostra grande Isabella
 
 Tornerà dal convento!
 
@@ -3272,11 +3272,11 @@ Torna dal reggimento.
 
 E nel finale, il messaggio morale emerge attraverso la riconciliazione.
 
-# La tua figura mi sembra familiare…
+La tua figura mi sembra familiare…
 
 Marchese, a diciotto anni!
 
-# Je crois voir ton allure
+Je crois voir ton allure
 
 Marchese, nella tua primavera!
 
@@ -3296,7 +3296,7 @@ Mentre stava lì immobile, il primo forte raggio di luce si levò verso l’alto
 
 * * * * *
 
-Nella stanza riservata alla cappella per la cerimonia, e recentemente arredata con cura da parte della padrona di casa per tale scopo, tutta la famiglia si era radunata; il reverendo signor Atkins era già vestito e pronto per iniziare. Aveva richiesto, aveva insistito, ed era riuscito ad ottenere un bicchiere di vino porto e un biscotto: era sua abitudine invariabile consumarli prima di ogni celebrazione, in segno di protesta contro le novità romane praticate da alcuni suoi colleghi. Mentre recitava con tono solenne le formule sacre del rito [[Marriage|nuziale]], la marchesa, che da tanto tempo non partecipava più alla bella liturgia della sua giovinezza, ne fu profondamente commossa; anche l’anziana Fanchette, unica domestica francese non papista e quindi autorizzata ad assistere, fu toccata dalla scena sacra, sebbene, essendo ignorante della lingua inglese (una ugonotta del Vaud), potesse soltanto seguire con reverenza i ritmi della cerimonia.
+Nella stanza riservata alla cappella per la cerimonia, e recentemente arredata con cura da parte della padrona di casa per tale scopo, tutta la famiglia si era radunata; il reverendo signor Atkins era già vestito e pronto per iniziare. Aveva richiesto, aveva insistito, ed era riuscito ad ottenere un bicchiere di vino porto e un biscotto: era sua abitudine invariabile consumarli prima di ogni celebrazione, in segno di protesta contro le novità romane praticate da alcuni suoi colleghi. Mentre recitava con tono solenne le formule sacre del rito [[motifs/marriage|nuziale]], la marchesa, che da tanto tempo non partecipava più alla bella liturgia della sua giovinezza, ne fu profondamente commossa; anche l’anziana Fanchette, unica domestica francese non papista e quindi autorizzata ad assistere, fu toccata dalla scena sacra, sebbene, essendo ignorante della lingua inglese (una ugonotta del Vaud), potesse soltanto seguire con reverenza i ritmi della cerimonia.
 
 Sebbene fosse contrario all’uso improvvisato della Comunione Caledoniana, il signor Atkins non si trattenne dal pronunciare alla fine della sua funzione una breve ma sincera preghiera personale per i giovani che, in futuro, avrebbero unito sotto la loro protezione congiunta le due comunità di Halston e Marlden. Gli occhi del buon vecchio si riempirono di lacrime mentre, con una delicatezza tipica della sua natura, alludeva alla possibilità che nascessero dei figli. Essendo lui stesso celibe, e quindi (come dobbiamo credere) privo di figli (poiché gli emolimenti del suo incarico non erano sufficienti per intraprendere un matrimonio), con ancora maggiore commozione stese entrambe le mani in segno di benedizione sulle teste chinate della coppia inginocchiata, mentre i suoi occhi alzati si rivolgevano al cielo nella preghiera per la loro felicità e fertilità.
 

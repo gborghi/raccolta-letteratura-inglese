@@ -30,7 +30,7 @@ tags:
   - setting/a_ship
 ---
 
-*by Poe*  ·  **Cluster:** [[Night Journey Vision · Katabasis Descent · Quest Hero]]
+*by Poe*  ·  **Cluster:** [[clusters/night-journey-vision-·-katabasis-descent-·-quest-hero|Night Journey Vision · Katabasis Descent · Quest Hero]]
 
 > [!abstract] 
 > A rationalist narrator's manuscript of a doomed sea voyage: storm, a spectral ghost-ship crewed by aged phantoms, and a final plunge into a southern polar whirlpool toward forbidden knowledge.
@@ -52,12 +52,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Night Journey Vision]], [[Katabasis Descent]], [[Quest]]
-**Archetypes:** [[Ghost]], [[Outsider]]
-**Motifs:** [[Sea]], [[Storm]], [[Water]], [[Night]], [[Ghosts]], [[Decay]], [[Ruins the Abbey]], [[Letters and Writing]]
-**Themes & Concepts:** [[Sublime]], [[Terror and Horror]], [[Mortality]], [[Uncanny]]
-**Forms & Genres:** [[Short Story]], [[Gothic Novel]]
-**Settings:** [[Sea (2)]], [[Ship]]
+**Topoi:** [[topoi/night-journey-vision|Night Journey Vision]], [[topoi/katabasis-descent|Katabasis Descent]], [[topoi/quest|Quest]]
+**Archetypes:** [[archetypes/ghost|Ghost]], [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/storm|Storm]], [[motifs/water|Water]], [[motifs/night|Night]], [[motifs/ghosts|Ghosts]], [[motifs/decay|Decay]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/letters-and-writing|Letters and Writing]]
+**Themes & Concepts:** [[concepts/sublime|Sublime]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/mortality|Mortality]], [[concepts/uncanny|Uncanny]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/gothic-novel|Gothic Novel]]
+**Settings:** [[settings/sea-(2)|Sea (2)]], [[motifs/ship|Ship]]
 
 ## Testo integrale / Full text
 

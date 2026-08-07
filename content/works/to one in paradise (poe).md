@@ -19,17 +19,17 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Melancholy · Suffering · Pain and Suffering]]
+*by Poe*  ·  **Cluster:** [[clusters/melancholy-·-suffering-·-pain-and-suffering|Melancholy · Suffering · Pain and Suffering]]
 
 > [!abstract] 
 > An elegiac love lyric mourning a dead beloved who was the speaker's whole hope; the light of life is now over, his days mere trances. Themes of grief, lost love, mortality and despair.
 
 ## Connections
 
-**Topoi:** [[Memento Mori]]
-**Motifs:** [[Love]], [[Sea]], [[Dreams]]
-**Themes & Concepts:** [[Grief and Loss]], [[Unrequited Frustrated Love]], [[Mortality]], [[Melancholy]]
-**Forms & Genres:** [[Elegy]], [[Lyric]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/love|Love]], [[motifs/sea|Sea]], [[motifs/dreams|Dreams]]
+**Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/mortality|Mortality]], [[concepts/melancholy|Melancholy]]
+**Forms & Genres:** [[forms/elegy|Elegy]], [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

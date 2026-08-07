@@ -14,4 +14,10 @@ Real-life tennis champion whose newspaper article on 'saving English Tennis' Che
 
 <div class="concept-works" data-slug="characters/tilden"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/logic-(chesterton)|logic (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -29,7 +29,7 @@ tags:
   - concept/deception
 ---
 
-*by Poe*  ·  **Cluster:** [[Night Journey Vision · Katabasis Descent · Quest Hero]]
+*by Poe*  ·  **Cluster:** [[clusters/night-journey-vision-·-katabasis-descent-·-quest-hero|Night Journey Vision · Katabasis Descent · Quest Hero]]
 
 > [!abstract] 
 > A first-person sea-voyage adventure novel of stowaway, mutiny, shipwreck, starvation, cannibalism and a southward quest ending in an apocalyptic Antarctic vision of a white shrouded figure and a silent cataract.
@@ -43,12 +43,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Quest]], [[Night Journey Vision]], [[Katabasis Descent]]
-**Archetypes:** [[Outsider]], [[Quest Hero]]
-**Motifs:** [[Sea]], [[Storm]], [[Journey]], [[White and Red]], [[Light and Dark]], [[Death]]
-**Themes & Concepts:** [[Terror and Horror]], [[Sublime]], [[Uncanny]], [[Survival]], [[Deception]]
-**Forms & Genres:** [[Novel]], [[Narrative Poem]]
-**Settings:** [[Sea (2)]], [[Ship]]
+**Topoi:** [[topoi/quest|Quest]], [[topoi/night-journey-vision|Night Journey Vision]], [[topoi/katabasis-descent|Katabasis Descent]]
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/quest-hero|Quest Hero]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/storm|Storm]], [[motifs/journey|Journey]], [[motifs/white-and-red|White and Red]], [[motifs/light-and-dark|Light and Dark]], [[motifs/death|Death]]
+**Themes & Concepts:** [[concepts/terror-and-horror|Terror and Horror]], [[concepts/sublime|Sublime]], [[concepts/uncanny|Uncanny]], [[concepts/survival|Survival]], [[concepts/deception|Deception]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/narrative-poem|Narrative Poem]]
+**Settings:** [[settings/sea-(2)|Sea (2)]], [[motifs/ship|Ship]]
 
 ## Testo integrale / Full text
 

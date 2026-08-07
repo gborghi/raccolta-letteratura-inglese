@@ -14,4 +14,12 @@ The 1925 Dayton, Tennessee prosecution of a teacher for teaching evolution, the 
 
 <div class="concept-works" data-slug="historical-references/scopes-trial"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/american-fundamentalists-(chesterton)|American Fundamentalists (Chesterton)]]
+- [[works/compulsory-education-(chesterton)|Compulsory Education (Chesterton)]]
+- [[works/american-morals-(chesterton)|american-morals (Chesterton)]]
+
+</div>
+
 #graph/histref

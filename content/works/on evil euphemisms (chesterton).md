@@ -21,7 +21,7 @@ tags:
   - histref/greek_mythology
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > A satirical essay attacking the modern habit of disguising vices ('Companionate Marriage', 'Free Love', 'Birth-Control') under flattering euphemisms; truth, deception, and the falsity of the age.
@@ -40,12 +40,12 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Greek Mythology]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
 
-**Characters:** [[Fagin]]
+**Characters:** [[characters/fagin|Fagin]]
 
-**Themes & Concepts:** [[Deception]], [[Truth]], [[Satire of Society]], [[Marriage and Fidelity]], [[Power of Language]], [[Crime and Punishment]], [[Critique of Progress]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/deception|Deception]], [[concepts/truth|Truth]], [[concepts/satire-of-society|Satire of Society]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/power-of-language|Power of Language]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/critique-of-progress|Critique of Progress]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

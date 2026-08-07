@@ -14,4 +14,13 @@ The wealthy merchant's son turned mendicant friar whose conversion, poverty, and
 
 <div class="concept-works" data-slug="characters/st.-francis-of-assisi"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/st-francis-(chesterton)|St Francis (Chesterton)]]
+- [[works/the-thing-(chesterton)|The Thing (Chesterton)]]
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+- [[works/aquinas-(chesterton)|aquinas (Chesterton)]]
+
+</div>
+
 #graph/character

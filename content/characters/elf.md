@@ -14,4 +14,10 @@ Elf, one of the three Danish earls; the minstrel who sings the heathen song of d
 
 <div class="concept-works" data-slug="characters/elf"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-ballad-of-the-white-horse-(chesterton)|The Ballad of the White Horse (Chesterton)]]
+
+</div>
+
 #graph/character

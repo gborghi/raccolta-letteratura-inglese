@@ -14,4 +14,11 @@ American founding document invoked via the punning title "A Declaration of Depen
 
 <div class="concept-works" data-slug="historical-references/declaration-of-independence"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/rotarians-(chesterton)|rotarians (Chesterton)]]
+- [[works/america-(chesterton)|america (Chesterton)]]
+
+</div>
+
 #graph/histref

@@ -33,7 +33,7 @@ tags:
 
 # upon-this-rock
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > An apologetics essay expounding Roman Catholicism: the Papacy, the Eucharist, Penance, asceticism, and the cult of the Virgin, defending the Church as guardian of faith against heresies.
@@ -54,11 +54,11 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Bread and Wine Eucharist]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Grace and Redemption]], [[Democracy]], [[Kingship and Legitimacy]], [[Self-Denial and Renunciation]], [[Forgiveness]], [[Development of Doctrine]], [[Heresy and Schism]], [[History]]
-**Forms & Genres:** [[Apologetics]], [[Essay]], [[Nonfiction]]
-**Historical References:** [[Catholic Church]], [[Christianity]], [[Bible]], [[Reformation]], [[Puritanism]]
-**Characters:** [[Virgin Mary]], [[Christ]], [[St. Peter]]
+**Motifs:** [[motifs/bread-and-wine-eucharist|Bread and Wine Eucharist]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/democracy|Democracy]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/self-denial-and-renunciation|Self-Denial and Renunciation]], [[concepts/forgiveness|Forgiveness]], [[concepts/development-of-doctrine|Development of Doctrine]], [[concepts/heresy-and-schism|Heresy and Schism]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/apologetics|Apologetics]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/reformation|Reformation]], [[historical-references/puritanism|Puritanism]]
+**Characters:** [[characters/virgin-mary|Virgin Mary]], [[characters/christ|Christ]], [[characters/st.-peter|St. Peter]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ Journalist and reformer who drowned in the wreck, eulogized by Chesterton for a 
 
 <div class="concept-works" data-slug="characters/w.-t.-stead"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/titanic-(chesterton)|titanic (Chesterton)]]
+
+</div>
+
 #graph/character

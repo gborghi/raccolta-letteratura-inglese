@@ -14,4 +14,10 @@ The famous actor and duelling second whose telltale stillness exposes the staged
 
 <div class="concept-works" data-slug="characters/hugo-romaine"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/secret-fr-brown-(chesterton)|secret Fr Brown (Chesterton)]]
+
+</div>
+
 #graph/character

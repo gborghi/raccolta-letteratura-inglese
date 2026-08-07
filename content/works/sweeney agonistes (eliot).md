@@ -25,21 +25,21 @@ tags:
   - character/sweeney
 ---
 
-*by Eliot*  ·  **Cluster:** [[Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
+*by Eliot*  ·  **Cluster:** [[clusters/spiritual-emptiness-·-waste-land-(sterility)-·-greek-tragedy|Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
 
 > [!abstract] 
 > Aristophanic melodrama fragment with Orestes/St John of the Cross epigraphs: cards, a coffin, a murder, the hangman; birth-copulation-death and pursuing guilt.
 
 ## Connections
 
-**Topoi:** [[Katabasis Descent]]
-**Archetypes:** [[Outsider]]
-**Motifs:** [[Death]], [[Dreams]], [[Music and Song]], [[Wine and Drink]]
-**Themes & Concepts:** [[Spiritual Emptiness]], [[Waste Land (Sterility)]], [[Guilt]], [[Terror and Horror]], [[Alienation]]
-**Forms & Genres:** [[Verse Drama]], [[Fragment]]
-**Historical References:** [[Greek Tragedy]]
-**Settings:** [[London]]
-**Characters:** [[Sweeney]]
+**Topoi:** [[topoi/katabasis-descent|Katabasis Descent]]
+**Archetypes:** [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/death|Death]], [[motifs/dreams|Dreams]], [[motifs/music-and-song|Music and Song]], [[motifs/wine-and-drink|Wine and Drink]]
+**Themes & Concepts:** [[concepts/spiritual-emptiness|Spiritual Emptiness]], [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/guilt|Guilt]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/alienation|Alienation]]
+**Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/fragment|Fragment]]
+**Historical References:** [[historical-references/greek-tragedy|Greek Tragedy]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/sweeney|Sweeney]]
 
 ## Testo integrale / Full text
 

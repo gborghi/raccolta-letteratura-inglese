@@ -37,7 +37,7 @@ tags:
   - character/chorus
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Court · Medieval England · History Play]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/court-·-medieval-england-·-history-play|Court · Medieval England · History Play]]
 
 > [!abstract] 
 > A patriotic history play following the matured King Henry's invasion of France and victory at Agincourt; framed by a Chorus, it celebrates kingship, national unity, and heroic war while glancing at its human cost.
@@ -74,14 +74,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[War as Glory]], [[Last Stand]], [[Theatrum Mundi]]
-**Archetypes:** [[King]], [[Hero]]
-**Motifs:** [[Swords and Weapons]], [[Crown]], [[Dawn]]
-**Themes & Concepts:** [[War and its Cost]], [[Heroism]], [[Kingship and Legitimacy]], [[Nationalism and Patriotism]], [[Honour]], [[History]]
-**Forms & Genres:** [[History Play]], [[Blank Verse]], [[Verse Drama]]
-**Historical References:** [[Medieval England]]
-**Settings:** [[Battlefield]], [[Court]]
-**Characters:** [[Henry V]], [[Princess Catherine]], [[Dauphin]], [[Fluellen]], [[Pistol]], [[Mistress Quickly]], [[Duke of Exeter]], [[Chorus]]
+**Topoi:** [[topoi/war-as-glory|War as Glory]], [[topoi/last-stand|Last Stand]], [[topoi/theatrum-mundi|Theatrum Mundi]]
+**Archetypes:** [[archetypes/king|King]], [[archetypes/hero|Hero]]
+**Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/crown|Crown]], [[motifs/dawn|Dawn]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/heroism|Heroism]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/honour|Honour]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/history-play|History Play]], [[forms/blank-verse|Blank Verse]], [[forms/verse-drama|Verse Drama]]
+**Historical References:** [[historical-references/medieval-england|Medieval England]]
+**Settings:** [[settings/battlefield|Battlefield]], [[settings/court|Court]]
+**Characters:** [[characters/henry-v|Henry V]], [[characters/princess-catherine|Princess Catherine]], [[characters/dauphin|Dauphin]], [[characters/fluellen|Fluellen]], [[characters/pistol|Pistol]], [[characters/mistress-quickly|Mistress Quickly]], [[characters/duke-of-exeter|Duke of Exeter]], [[characters/chorus|Chorus]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ Basil's younger brother, an enthusiastic amateur private detective whose sharp l
 
 <div class="concept-works" data-slug="characters/rupert-grant"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/queertrades-(chesterton)|queertrades (Chesterton)]]
+
+</div>
+
 #graph/character

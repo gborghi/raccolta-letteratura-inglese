@@ -14,4 +14,10 @@ The English king who, defeated at the Battle of Worcester, famously hid from his
 
 <div class="concept-works" data-slug="characters/king-charles-ii"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/oak-(chesterton)|oak (Chesterton)]]
+
+</div>
+
 #graph/character

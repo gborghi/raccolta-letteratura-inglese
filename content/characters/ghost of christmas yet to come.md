@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/ghost-of-christmas-yet-to-come"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/a-christmas-carol-(dickens)|A Christmas Carol (Dickens)]]
+
+</div>
+
 #graph/character

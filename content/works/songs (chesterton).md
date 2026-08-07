@@ -29,7 +29,7 @@ tags:
 
 # songs
 
-*by Chesterton*  ·  **Cluster:** [[Education · Self-Made Man · Wheel]]
+*by Chesterton*  ·  **Cluster:** [[clusters/education-·-self-made-man-·-wheel|Education · Self-Made Man · Wheel]]
 
 > [!abstract] 
 > A bitterly ironic song in which a child celebrates a mother freed from caring for him to labour in industry, satirising the destruction of family by capitalist 'progress' and state schooling.
@@ -40,17 +40,17 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Industrial Revolution]]
+**Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]]
 
-**Archetypes:** [[Child]]
+**Archetypes:** [[archetypes/child|Child]]
 
-**Settings:** [[Industrial City]]
+**Settings:** [[settings/industrial-city|Industrial City]]
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Motifs:** [[Wheel]], [[Money and Gold]], [[Machine]]
-**Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Critique of Progress]], [[Education]], [[Labor and Work]], [[Greed and Money]], [[Freedom]], [[Class Conflict]], [[Economics]]
-**Forms & Genres:** [[Comic Verse Song]], [[Satire]]
+**Motifs:** [[motifs/wheel|Wheel]], [[motifs/money-and-gold|Money and Gold]], [[motifs/machine|Machine]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/education|Education]], [[concepts/labor-and-work|Labor and Work]], [[concepts/greed-and-money|Greed and Money]], [[concepts/freedom|Freedom]], [[concepts/class-conflict|Class Conflict]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/satire|Satire]]
 
 ## Testo integrale / Full text
 

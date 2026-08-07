@@ -8,8 +8,44 @@ tags:
 *Cluster* — **31 works**.
 
 ## Defining concepts
-[[Paradox]] (23), [[Aphorism]] (16), [[Food and Feasting]] (11), [[Essay]] (9), [[Satire]] (8), [[Lyric]] (8), [[Satire of Society]] (8), [[Critique of Progress]] (7), [[Joy]] (7), [[Wonder and Gratitude]] (6), [[Artist and Society]] (5), [[Desire (2)]] (4), [[Common Man]] (4), [[Faith]] (4), [[Poverty]] (3)
+[[concepts/paradox|Paradox]] (23), [[forms/aphorism|Aphorism]] (16), [[motifs/food-and-feasting|Food and Feasting]] (11), [[forms/essay|Essay]] (9), [[forms/satire|Satire]] (8), [[forms/lyric|Lyric]] (8), [[concepts/satire-of-society|Satire of Society]] (8), [[concepts/critique-of-progress|Critique of Progress]] (7), [[concepts/joy|Joy]] (7), [[concepts/wonder-and-gratitude|Wonder and Gratitude]] (6), [[concepts/artist-and-society|Artist and Society]] (5), [[concepts/desire-(2)|Desire (2)]] (4), [[concepts/common-man|Common Man]] (4), [[concepts/faith|Faith]] (4), [[concepts/poverty|Poverty]] (3)
 
 ## Works
 
 <div class="concept-works" data-slug="clusters/paradox-·-food-and-feasting-·-aphorism"></div>
+
+<div class="concept-works-fallback">
+
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1054_not_to_discover_weakness_is|1054. Not to discover weakness is (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1070_to_undertake_is_to_achieve|1070. To undertake is to achieve (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1168_as_old_as_woe|1168. As old as Woe — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1223_who_goes_to_dine_must_take_his_feast|1223. Who goes to dine must take his Feast (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#1547_hope_is_a_subtle_glutton|1547. Hope is a subtle Glutton — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0439_undue_significance_a_starving_man_attaches|439. Undue Significance a starving man attaches (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0689_the_zeroes_taught_us_phosphorous|689. The Zeroes — taught us — Phosphorous — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0771_none_can_experience_sting|771. None can experience sting (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0773_deprived_of_other_banquet|773. Deprived of other Banquet, (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0779_the_service_without_hope|779. The Service without Hope — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0791_god_gave_a_loaf_to_every_bird|791. God gave a Loaf to every Bird — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0796_who_giants_know_with_lesser_men|796. Who Giants know, with lesser Men (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0799_despairs_advantage_is_achieved|799. Despair's advantage is achieved (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0806_a_plated_life_diversified|806. A Plated Life — diversified (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0807_expectation_is_contentment|807. Expectation — is Contentment — (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0838_impossibility_like_wine|838. Impossibility, like Wine (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0843_i_made_slow_riches_but_my_gain|843. I made slow Riches but my Gain (Dickinson)]]
+- [[testi/dickinson/atomized/paradox-food-and-feasting-aphorism#0850_i_sing_to_use_the_waiting|850. I sing to use the Waiting (Dickinson)]]
+- [[testi/eliot/atomized/joy-animals-comic-verse-song#102_a_fable_for_feasters|A Fable for Feasters (Eliot)]]
+- [[works/allthingsconsidered-8-(chesterton)|AllThingsConsidered-8 (Chesterton)]]
+- [[testi/eliot/atomized/joy-animals-comic-verse-song#091_bustopher_jones_the_cat_about_town|Bustopher Jones the Cat About Town (Eliot)]]
+- [[works/cheese-(chesterton)|cheese (Chesterton)]]
+- [[works/fancies-versis-fads-(chesterton)|Fancies Versis Fads (Chesterton)]]
+- [[works/frenchenglish-(chesterton)|frenchenglish (Chesterton)]]
+- [[works/methuselahite-(chesterton)|methuselahite (Chesterton)]]
+- [[works/on-abraham-lincoln-(chesterton)|On Abraham Lincoln (Chesterton)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_118|Sonnet 118 (Shakespeare)]]
+- [[works/the-defendant-(chesterton)|The Defendant (Chesterton)]]
+- [[works/the-uses-of-diversity-(chesterton)|The Uses of Diversity (Chesterton)]]
+- [[testi/coleridge/atomized/joy-animals-comic-verse-song#364_to_t_poole_an_invitation|TO T. POOLE AN INVITATION (Coleridge)]]
+- [[works/wild-ducks-(chesterton)|Wild Ducks (Chesterton)]]
+
+</div>

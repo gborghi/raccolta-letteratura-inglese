@@ -34,7 +34,7 @@ tags:
   - character/leonato
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > A romantic comedy of two courtships: the witty 'merry war' between Beatrice and Benedick, and the slandered Hero, nearly destroyed by Don John's deception; it turns on noting/eavesdropping, false report, and the recovery of honour.
@@ -61,13 +61,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Combat Strife]]
-**Archetypes:** [[Villain]], [[Lover]], [[Fool]]
-**Motifs:** [[Concealment Hidden Identity]], [[Eyes and Sight]], [[Love]]
-**Themes & Concepts:** [[Romantic Love]], [[Deception]], [[Appearance vs Reality]], [[Honour]], [[Marriage and Fidelity]], [[Jealousy]]
-**Forms & Genres:** [[Comedy]], [[Verse Drama]]
-**Settings:** [[Italy]], [[Europe]]
-**Characters:** [[Benedick]], [[Beatrice]], [[Claudio]], [[Hero (2)]], [[Don Pedro]], [[Don John]], [[Dogberry]], [[Leonato]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]]
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/lover|Lover]], [[archetypes/fool|Fool]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/love|Love]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/honour|Honour]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/jealousy|Jealousy]]
+**Forms & Genres:** [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]]
+**Settings:** [[settings/italy|Italy]], [[settings/europe|Europe]]
+**Characters:** [[characters/benedick|Benedick]], [[characters/beatrice|Beatrice]], [[characters/claudio|Claudio]], [[characters/hero-(2)|Hero (2)]], [[characters/don-pedro|Don Pedro]], [[characters/don-john|Don John]], [[characters/dogberry|Dogberry]], [[characters/leonato|Leonato]]
 
 ## Testo integrale / Full text
 

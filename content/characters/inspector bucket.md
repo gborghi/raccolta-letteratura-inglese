@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/inspector-bucket"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/bleak-house-(dickens)|Bleak House (Dickens)]]
+
+</div>
+
 #graph/character

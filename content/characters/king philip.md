@@ -14,4 +14,10 @@ The King of Spain, shown decadent and half-poisoned in his closet while Don John
 
 <div class="concept-works" data-slug="characters/king-philip"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lepanto-(chesterton)|lepanto (Chesterton)]]
+
+</div>
+
 #graph/character

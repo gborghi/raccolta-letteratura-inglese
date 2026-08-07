@@ -37,7 +37,7 @@ tags:
   - histref/first_world_war
 ---
 
-*by Chesterton*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
+*by Chesterton*  ·  **Cluster:** [[clusters/war-and-its-cost-·-american-civil-war-·-battlefield|War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 
 > An essay on the American Civil War as a clash of civilizations, mourning the destroyed culture of the Old South and the lost spirit of Honour.
@@ -47,18 +47,18 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Martyr Saint]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
 
-**Settings:** [[American South]], [[America]], [[Battlefield]], [[American Frontier]]
+**Settings:** [[settings/american-south|American South]], [[settings/america|America]], [[settings/battlefield|Battlefield]], [[settings/american-frontier|American Frontier]]
 
-**Motifs:** [[Battlefield (2)]], [[Honour (2)]]
+**Motifs:** [[motifs/battlefield-(2)|Battlefield (2)]], [[motifs/honour-(2)|Honour (2)]]
 
-**Topoi:** [[Golden Age]], [[Ubi Sunt]]
+**Topoi:** [[topoi/golden-age|Golden Age]], [[topoi/ubi-sunt|Ubi Sunt]]
 
-**Themes & Concepts:** [[Honour]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Nostalgia]], [[Slavery]], [[Reconciliation]], [[Democracy]], [[Freedom and Liberty]], [[Anti-Industrialism]], [[Power and Corruption]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Historical References:** [[American Civil War]], [[Puritanism]], [[First World War]]
-**Characters:** [[Abraham Lincoln]], [[John Wilkes Booth]]
+**Themes & Concepts:** [[concepts/honour|Honour]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/nostalgia|Nostalgia]], [[concepts/slavery|Slavery]], [[concepts/reconciliation|Reconciliation]], [[concepts/democracy|Democracy]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/american-civil-war|American Civil War]], [[historical-references/puritanism|Puritanism]], [[historical-references/first-world-war|First World War]]
+**Characters:** [[characters/abraham-lincoln|Abraham Lincoln]], [[characters/john-wilkes-booth|John Wilkes Booth]]
 
 ## Testo integrale / Full text
 

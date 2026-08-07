@@ -14,4 +14,10 @@ Gale's business-minded companion, an escaped lunatic Gale vows to shelter for li
 
 <div class="concept-works" data-slug="characters/james-hurrel"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/poet-and-lunatics-(chesterton)|Poet and Lunatics (Chesterton)]]
+
+</div>
+
 #graph/character

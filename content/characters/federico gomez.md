@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/federico-gomez"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-elder-statesman-(eliot)|THE ELDER STATESMAN (Eliot)]]
+
+</div>
+
 #graph/character

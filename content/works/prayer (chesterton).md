@@ -35,7 +35,7 @@ tags:
 
 # prayer
 
-*by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
+*by Chesterton*  ·  **Cluster:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > A sonnet of submission in suffering, thanking God that one's wrath cannot harm the world, ending on Christ on the Cross hearing the crickets and being glad; faith, suffering and gratitude.
@@ -46,13 +46,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Memento Mori]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]
 
-**Motifs:** [[Cross]], [[Light and Dark]], [[Nature]], [[Silence]], [[Stars]], [[Tears]], [[Sun]], [[Insects]], [[Grave]]
-**Themes & Concepts:** [[Faith]], [[Grief and Loss]], [[Humility]], [[Divine Love]], [[Wonder and Gratitude]], [[Providence]], [[Suffering]], [[Resignation]], [[Madness]]
-**Forms & Genres:** [[Sonnet]]
-**Historical References:** [[Christianity]], [[Bible]]
-**Characters:** [[Christ]], [[God]]
+**Motifs:** [[motifs/cross|Cross]], [[motifs/light-and-dark|Light and Dark]], [[concepts/nature|Nature]], [[motifs/silence|Silence]], [[motifs/stars|Stars]], [[motifs/tears|Tears]], [[motifs/sun|Sun]], [[motifs/insects|Insects]], [[motifs/grave|Grave]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/humility|Humility]], [[concepts/divine-love|Divine Love]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/providence|Providence]], [[concepts/suffering|Suffering]], [[concepts/resignation|Resignation]], [[concepts/madness|Madness]]
+**Forms & Genres:** [[forms/sonnet|Sonnet]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
+**Characters:** [[characters/christ|Christ]], [[characters/god|God]]
 
 ## Testo integrale / Full text
 

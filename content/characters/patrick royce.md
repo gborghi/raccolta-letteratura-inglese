@@ -14,4 +14,10 @@ Armstrong's giant ex-Bohemian secretary, revealed as his killer in 'The Three To
 
 <div class="concept-works" data-slug="characters/patrick-royce"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/innocence-(chesterton)|innocence (Chesterton)]]
+
+</div>
+
 #graph/character

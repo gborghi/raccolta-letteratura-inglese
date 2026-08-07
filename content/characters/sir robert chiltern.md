@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/sir-robert-chiltern"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/an-ideal-husband-(wilde)|An Ideal Husband (Wilde)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,12 @@ The Victorian craftsman, poet and socialist praised in his own chapter as the on
 
 <div class="concept-works" data-slug="historical-references/william-morris"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/as-i-was-saying-(chesterton)|As I Was Saying (Chesterton)]]
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+
+</div>
+
 #graph/histref

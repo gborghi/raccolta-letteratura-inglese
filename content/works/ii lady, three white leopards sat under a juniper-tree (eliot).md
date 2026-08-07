@@ -17,18 +17,18 @@ tags:
   - concept/love_divine
 ---
 
-*by Eliot*  ·  **Cluster:** [[Grace and Redemption · Humility · Bread and Wine Eucharist]]
+*by Eliot*  ·  **Cluster:** [[clusters/grace-and-redemption-·-humility-·-bread-and-wine-eucharist|Grace and Redemption · Humility · Bread and Wine Eucharist]]
 
 > [!abstract] 
 > Visionary lyric of dry bones singing under a juniper-tree and the Lady (Virgin/Beatrice) of the garden; Ezekiel's bones, the rose and garden, grace, forgetfulness and spiritual rebirth in the desert.
 
 ## Connections
 
-**Motifs:** [[Rose]], [[Garden]]
-**Themes & Concepts:** [[Grace and Redemption]], [[Divine Love]]
-**Historical References:** [[Bible]]
-**Settings:** [[Desert]]
-**Characters:** [[Virgin Mary]]
+**Motifs:** [[motifs/rose|Rose]], [[motifs/garden|Garden]]
+**Themes & Concepts:** [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/divine-love|Divine Love]]
+**Historical References:** [[historical-references/bible|Bible]]
+**Settings:** [[motifs/desert|Desert]]
+**Characters:** [[characters/virgin-mary|Virgin Mary]]
 
 ## Testo integrale / Full text
 

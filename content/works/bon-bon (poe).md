@@ -28,7 +28,7 @@ tags:
   - histref/classical_antiquity
 ---
 
-*by Poe*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
+*by Poe*  ·  **Cluster:** [[clusters/temptation-·-good-vs-evil-·-serpent-snake|Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 
 > A comic tale in which a vain restaurateur-philosopher is visited by the Devil, who eats souls and declines to buy Bon-Bon's; a satire on metaphysics, wine, and the philosopher's pride through a Faustian comedy.
@@ -51,13 +51,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Archetypes:** [[Satanic Figure]], [[Trickster]]
-**Motifs:** [[Wine and Drink]], [[Supernatural]], [[Food and Feasting]], [[Book Reading]], [[Concealment Hidden Identity]]
-**Themes & Concepts:** [[Temptation]], [[Good vs Evil]], [[Pride]], [[Self-Knowledge]], [[Satire of Society]], [[Grotesque]]
-**Forms & Genres:** [[Short Story]], [[Satire]]
-**Historical References:** [[Classical Antiquity]]
-**Characters:** [[Satan]], [[Faust]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/trickster|Trickster]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/supernatural|Supernatural]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/book-reading|Book Reading]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]]
+**Themes & Concepts:** [[concepts/temptation|Temptation]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/pride|Pride]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/satire-of-society|Satire of Society]], [[concepts/grotesque|Grotesque]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/satire|Satire]]
+**Historical References:** [[historical-references/classical-antiquity|Classical Antiquity]]
+**Characters:** [[characters/satan|Satan]], [[characters/faust|Faust]]
 
 ## Testo integrale / Full text
 

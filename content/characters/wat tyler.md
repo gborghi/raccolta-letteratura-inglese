@@ -14,4 +14,10 @@ Leader of the 1381 peasant revolt against feudal reaction and the Poll Tax, murd
 
 <div class="concept-works" data-slug="characters/wat-tyler"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/history-(chesterton)|history (Chesterton)]]
+
+</div>
+
 #graph/character

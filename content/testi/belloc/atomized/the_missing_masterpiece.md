@@ -66,7 +66,7 @@ The first edition’s title page
 
 CHAPTER I
 
-A FEW YEARS after the Great War, Mr. Henry Delgairn thought he would go over to [[Paris]], and he asked his old friend, Sir John Pailey, the K.C., to go with him. He had not been to [[Paris]] for more than twenty years, but he had been taken with a sentimental longing to see the places where he had pretended to study art as a young man, and had vastly enjoyed himself.
+A FEW YEARS after the Great War, Mr. Henry Delgairn thought he would go over to [[settings/paris|Paris]], and he asked his old friend, Sir John Pailey, the K.C., to go with him. He had not been to [[settings/paris|Paris]] for more than twenty years, but he had been taken with a sentimental longing to see the places where he had pretended to study art as a young man, and had vastly enjoyed himself.
 
 Mr. Delgairn was the squire of a little village called North Merton, which lies just in that pocket where the counties of Sussex, Surrey and Hampshire meet, an easy walk from White’s Selborne. His father had been a man neither poor nor rich for his rank, but on the richer side; he himself, under the new taxation and the conditions of the land, was neither rich nor poor, but on the poorer side. Neither of his sons could waste a year on an allowance in the Latin Quarter! Moreover, he was given to understand that the Latin Quarter existed no more. Nevertheless, Mr. Delgairn would go and visit its remains, and his friend Pailey, it being the vacation, must go with him, for Pailey had been his companion in those happy days.
 
@@ -80,7 +80,7 @@ So Harry went on, in his school life, from one athletic triumph to another, and 
 
 There were plenty of things about the house upon which to exercise it. North Merton was the regular old-fashioned squire’s place, boasting half a dozen good pictures, a score of nondescripts, and any number of water-colours and drawings, engravings and little curiosities of all shapes and sizes, with no more than a domestic interest.
 
-So things stood when their father decided to go off with his old friend to [[Paris]] to see whether the studio of the old happy days still stood.
+So things stood when their father decided to go off with his old friend to [[settings/paris|Paris]] to see whether the studio of the old happy days still stood.
 
 They were only to be away a few days, during which Delgairn had an interval of leisure — for the harvest had been taken in on the home farm, and he had finished the first volume of the leisurely, laborious bird book he was writing; he only wanted a breath of change. He could be back in a week. Pailey was glad to go with him.
 
@@ -108,7 +108,7 @@ But the young genius Bourrot warmed to such a greeting and bowed in his turn; an
 
 In a moment they were friends. Bourrot had already, with a great sweep of his brush, begged them to look round (there was nothing to see), when there came another sharp rap at the door, not discreet this time, not with the traditions of the gentry behind it, but unmistakably the assault of that abominable monster the Bourgeois.
 
-The Bourgeois has no heart and no soul. He lives upon the blood of the [[Artist|artist]]. He cannot tell the things of Heaven from the things of Earth — and he collects rent. The Bourgeois of all Bourgeois, the Bourgeois whom the old Latin Quarter vowed to damnation, ere the Communist came to the land to steal their thunder, the Bourgeois whom the new Montparnasse is sullen against, goes nowhere in more fearful guise than in the habit of a landlord, with bloodshot eyes and slavering teeth, gnashing and howling for his rent.
+The Bourgeois has no heart and no soul. He lives upon the blood of the [[archetypes/artist|artist]]. He cannot tell the things of Heaven from the things of Earth — and he collects rent. The Bourgeois of all Bourgeois, the Bourgeois whom the old Latin Quarter vowed to damnation, ere the Communist came to the land to steal their thunder, the Bourgeois whom the new Montparnasse is sullen against, goes nowhere in more fearful guise than in the habit of a landlord, with bloodshot eyes and slavering teeth, gnashing and howling for his rent.
 
 Yes, it was He indeed!
 
@@ -210,7 +210,7 @@ He had not risen from nothing. He had had the advantage of a certain capital to 
 
 From the first moment of his taking to the trade he showed, over and above exceptional powers of working and exceptional lucidity in the estimation of values, that he had one much rarer gift, a gift almost unique. This was a miraculous power of varying — quite suddenly — his aesthetic mood and appreciations. Nothing marks off the born dealer more sharply from the dull herd than this faculty. The many sink into a rut of affection and habit for such painters as they first knew. The exceptional brain which furnishes such purchasers with their needs can despise at a moment’s notice what it formerly admired, admire what it despised, according as fashion changes or the making of a new market demands.
 
-During the Fragonard boom, at the very beginning of his career, he felt Fragonard deeply. When Fragonard slumped, Henry Bensington felt, by a strange sympathy with the unseen forces about him, a lessening interest in Fragonard. During the much later Romney boom it was the same. But perhaps the most astonishing detail in this unique gift was his sudden wave of admiration for any great modern [[Artist|artist]] immediately upon death of same.
+During the Fragonard boom, at the very beginning of his career, he felt Fragonard deeply. When Fragonard slumped, Henry Bensington felt, by a strange sympathy with the unseen forces about him, a lessening interest in Fragonard. During the much later Romney boom it was the same. But perhaps the most astonishing detail in this unique gift was his sudden wave of admiration for any great modern [[archetypes/artist|artist]] immediately upon death of same.
 
 It was just when the public and the Press were fullest of the name that Henry Bensington was most inspired by it.
 
@@ -414,7 +414,7 @@ He had made good over the prize boar!
 
 CHAPTER V
 
-HENRY BENSINGTON WAS always in time: but on this occasion he had only just been in time. The first news he saw in his newspaper as he travelled up to London next morning with the Bourrot comfortably tucked away beside him was a paragraph in his Daily Telegraph, not largely displayed, but calculated to catch his eye immediately. It told him that “Monsieur Bourrot, the well-known French [[Artist|artist]]” (it is not my phrase, it is the newspaper’s) was lying seriously ill at the Clinique Sarrel in Paris. That paragraph had caught his eye before his train stopped at Guildford. Before it got to Waterloo he had made his plan.
+HENRY BENSINGTON WAS always in time: but on this occasion he had only just been in time. The first news he saw in his newspaper as he travelled up to London next morning with the Bourrot comfortably tucked away beside him was a paragraph in his Daily Telegraph, not largely displayed, but calculated to catch his eye immediately. It told him that “Monsieur Bourrot, the well-known French [[archetypes/artist|artist]]” (it is not my phrase, it is the newspaper’s) was lying seriously ill at the Clinique Sarrel in Paris. That paragraph had caught his eye before his train stopped at Guildford. Before it got to Waterloo he had made his plan.
 
 Bourrot would not die (it might be presumed) off-hand. It was his experience that these geniuses, though they died young, usually took a few days in dying. He decided to be in Paris the next morning, not that night. And he spent the afternoon in close consultation with Lord Borstal and with Sir Charles Holloway, who had been called in to make a third.
 
@@ -440,7 +440,7 @@ Something as near a smile as Death could allow appeared on the fallen features o
 
 On his way out from the Clinique, which was near the Observatory, he passed the telegraph office of the Senate, opposite the Luxembourg. He sent a couple of telegrams to make sure, and then from his hotel telephoned at length to Lord Borstal. He repeated the exact words: “Mark me!... for untold years.” He gave as close a description as he could of the scene, so that Lord Borstal’s chief draughtsman could depict it with that vigorous pencil so familiar to us all — or at least to those of us who read any one or all of Lord Borstal’s three Sunday papers.
 
-Next morning it was as Henry Bensington had expected; the news came to him early, brought to his hotel by a respectful messenger. Bourrot was dead; and he knew enough of the stiff Continental conventions not to come back at once to London, but to wait for the funeral, to follow it bare-headed, and to listen with bowed head to no less than fourteen interminable speeches, upon the loss which [[France]] had suffered by the passing into the Unknown (not the Néant this time) of her immortal son.
+Next morning it was as Henry Bensington had expected; the news came to him early, brought to his hotel by a respectful messenger. Bourrot was dead; and he knew enough of the stiff Continental conventions not to come back at once to London, but to wait for the funeral, to follow it bare-headed, and to listen with bowed head to no less than fourteen interminable speeches, upon the loss which [[settings/france|France]] had suffered by the passing into the Unknown (not the Néant this time) of her immortal son.
 
 He had a right to be there, had Henry Bensington. He might almost have been Chief Mourner, instead of that poor little Adorer (who, by the way, had been regularly married — yes, in Church — and was received everywhere), for had he not provided, all in all, something like sixteen thousand pounds, on which the memory of Bourrot was kept alive for nearly a dozen years. And the little woman who loved him so well was kept alive for more than forty-seven (in a very small villa by the river near St. Germains).
 
@@ -1490,7 +1490,7 @@ It was the turn of M. Caen to speak. He spoke gently, and with perfect restraint
 
 M. Caen neither took it nor left it — he stood silent, considering the matter in his mind very carefully.
 
-He also was in the trade; he also knew very well what was meant by these periodical “thefts” of pictures; he also knew a great deal about Henry Bensington’s earlier life. But then he knew also a good deal about the English judicial system, about the powers of money in our society, about the advantages of living in England after being born in Cologne, compared with living in [[France]] after being born in Vienna. He turned the whole thing over in his admirably sane judgment, and he came to his conclusion.
+He also was in the trade; he also knew very well what was meant by these periodical “thefts” of pictures; he also knew a great deal about Henry Bensington’s earlier life. But then he knew also a good deal about the English judicial system, about the powers of money in our society, about the advantages of living in England after being born in Cologne, compared with living in [[settings/france|France]] after being born in Vienna. He turned the whole thing over in his admirably sane judgment, and he came to his conclusion.
 
 “I will your conditions accept,” he said.
 
@@ -2052,7 +2052,7 @@ For some weeks there was no trace of the picture, and hope of its recovery had b
 
 “Mr. Gabriel’s first act was to call immediately at Sir Henry Bensington’s office to inform him (privately) that the picture was found. He was told that Sir Henry was travelling and would not be back for three days.
 
-“Now I beg you to pay particular heed to what next happened. My Client, the Duke of Emonsillado, hearing of the discovery, was naturally anxious to judge for himself, and with the advice of experts, whether it was indeed the missing Masterpiece on the purchase of which he had already approached its owner. His Grace has a wide experience of cultivated art in all its forms, and has for years shown the most acute judgment in the acquisition of his priceless collection at the Villa Emonsillado in Southern [[France]]. He is not a man to act precipitately. He waited till the next day to call on Mr. Gabriel, who knew him well as a distinguished patron of Art. They long inspected the picture together, and though no real doubt remained, the Duke was allowed to have it for a few hours in his suite at the Plantagenet Hotel, where certain friends and experts might see it.
+“Now I beg you to pay particular heed to what next happened. My Client, the Duke of Emonsillado, hearing of the discovery, was naturally anxious to judge for himself, and with the advice of experts, whether it was indeed the missing Masterpiece on the purchase of which he had already approached its owner. His Grace has a wide experience of cultivated art in all its forms, and has for years shown the most acute judgment in the acquisition of his priceless collection at the Villa Emonsillado in Southern [[settings/france|France]]. He is not a man to act precipitately. He waited till the next day to call on Mr. Gabriel, who knew him well as a distinguished patron of Art. They long inspected the picture together, and though no real doubt remained, the Duke was allowed to have it for a few hours in his suite at the Plantagenet Hotel, where certain friends and experts might see it.
 
 “All was quite straightforward and indeed, if I understand aright, there is no complaint about this from the other side. Mr. Gabriel, who knew what a close friend the Duke was of Sir Henry Bensington’s, wrote to him telling him all that had happened. His Grace gave a receipt; the canvas was to be returnable at a moment’s notice, and he at once wrote himself to Sir Henry Bensington informing him of the loan, again offering to purchase (at the respectable figure of £20,000) and, of course, to hand the picture back immediately to its owner if sale was not intended.
 
@@ -2704,7 +2704,7 @@ FAREWELL!
 
 CHAPTER I
 
-A FEW YEARS after the Great War, Mr. Henry Delgairn thought he would go over to [[Paris]], and he asked his old friend, Sir John Pailey, the K.C., to go with him. He had not been to [[Paris]] for more than twenty years, but he had been taken with a sentimental longing to see the places where he had pretended to study art as a young man, and had vastly enjoyed himself.
+A FEW YEARS after the Great War, Mr. Henry Delgairn thought he would go over to [[settings/paris|Paris]], and he asked his old friend, Sir John Pailey, the K.C., to go with him. He had not been to [[settings/paris|Paris]] for more than twenty years, but he had been taken with a sentimental longing to see the places where he had pretended to study art as a young man, and had vastly enjoyed himself.
 
 Mr. Delgairn was the squire of a little village called North Merton, which lies just in that pocket where the counties of Sussex, Surrey and Hampshire meet, an easy walk from White’s Selborne. His father had been a man neither poor nor rich for his rank, but on the richer side; he himself, under the new taxation and the conditions of the land, was neither rich nor poor, but on the poorer side. Neither of his sons could waste a year on an allowance in the Latin Quarter! Moreover, he was given to understand that the Latin Quarter existed no more. Nevertheless, Mr. Delgairn would go and visit its remains, and his friend Pailey, it being the vacation, must go with him, for Pailey had been his companion in those happy days.
 
@@ -2718,7 +2718,7 @@ So Harry went on, in his school life, from one athletic triumph to another, and 
 
 There were plenty of things about the house upon which to exercise it. North Merton was the regular old-fashioned squire’s place, boasting half a dozen good pictures, a score of nondescripts, and any number of water-colours and drawings, engravings and little curiosities of all shapes and sizes, with no more than a domestic interest.
 
-So things stood when their father decided to go off with his old friend to [[Paris]] to see whether the studio of the old happy days still stood.
+So things stood when their father decided to go off with his old friend to [[settings/paris|Paris]] to see whether the studio of the old happy days still stood.
 
 They were only to be away a few days, during which Delgairn had an interval of leisure — for the harvest had been taken in on the home farm, and he had finished the first volume of the leisurely, laborious bird book he was writing; he only wanted a breath of change. He could be back in a week. Pailey was glad to go with him.
 
@@ -2733,9 +2733,9 @@ A high, wild voice bade him enter. He saw before him something which made thirty
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO I
+CAPITOLO I
 
-Alcuni anni dopo la Grande Guerra, il signor Henry Delgairn decise di recarsi a [[Paris|Parigi]] e chiese al suo vecchio amico, Sir John Pailey, di accompagnarlo. Non vi era tornato da più di vent’anni, ma provava un forte desiderio di rivedere i luoghi in cui, da giovane, aveva finto di studiare arte e dove aveva trascorso momenti molto piacevoli.
+Alcuni anni dopo la Grande Guerra, il signor Henry Delgairn decise di recarsi a [[settings/paris|Parigi]] e chiese al suo vecchio amico, Sir John Pailey, di accompagnarlo. Non vi era tornato da più di vent’anni, ma provava un forte desiderio di rivedere i luoghi in cui, da giovane, aveva finto di studiare arte e dove aveva trascorso momenti molto piacevoli.
 
 Il signor Delgairn era il proprietario terriero di un piccolo villaggio chiamato North Merton, situato esattamente nel punto in cui si incontrano le contee di Sussex, Surrey e Hampshire, a breve distanza da White’s Selborne. Suo padre non era né povero né ricco per il proprio rango sociale, ma apparteneva alla categoria dei più abbienti; lui stesso, però, a causa delle nuove tasse e delle condizioni economiche del momento, non era né ricco né povero, ma piuttosto nella fascia più modesta. Nessuno dei suoi figli avrebbe potuto permettersi di trascorrere un anno intero ricevendo una rendita nel Quartiere Latino. Inoltre, gli era stato detto chiaramente che il Quartiere Latino non esisteva più. Nonostante ciò, il signor Delgairn andava ancora a visitarne le rovine, e suo amico Pailey, essendo periodo di vacanze, doveva accompagnarlo: infatti, Pailey era stato il suo compagno in quei giorni felici.
 
@@ -2749,7 +2749,7 @@ Anche l’unico talento che possedeva il giovane John Delgairn sembrava essere s
 
 C'erano molte cose in quella casa su cui esercitare tale interesse. North Merton era la tipica dimora di un gentiluomo d’altri tempi: vantava mezza dozzina di bei dipinti, una ventina di quadri poco interessanti, oltre a numerosi acquerelli, disegni, incisioni e piccole curiosità di ogni forma e dimensione, ma tutte prive di vero valore culturale o storico.
 
-So come andranno le cose quando loro padre deciderà di partire con il suo vecchio amico per [[Paris|Parigi]], per vedere se lo studio dei vecchi tempi felici esista ancora.
+So come andranno le cose quando loro padre deciderà di partire con il suo vecchio amico per [[settings/paris|Parigi]], per vedere se lo studio dei vecchi tempi felici esista ancora.
 
 Avrebbero dovuto assentarsi solo per pochi giorni, e durante quel periodo Delgairn ebbe un momento di relax: la raccolta nei campi domestici era già stata completata e aveva anche terminato il primo volume del libro sulle piante selvatiche che stava scrivendo; voleva soltanto un po’ di varietà nella sua routine quotidiana. Poteva tornare entro una settimana. Pailey fu felice di andare con lui.
 
@@ -2768,7 +2768,7 @@ Una voce alta e selvaggia gli ordinò di entrare. Davanti a lui vide qualcosa ch
 
 At the feet of this figure sat upon a little footstool a young dark girl, very hideous, very affectionate; and both met their visitors with a defiant gaze — they thought it was The Rent. For it was the Fatal Day beyond which the infamous landlord would wait no more.
 
-I will now introduce you to something which perhaps you do not know. It is God’s truth that there are such studios in [[Paris]], or were a few years after the war, still to be had by God’s starving artists for next to nothing a year, even there, with property worth millions all around: for such is [[Paris]].
+I will now introduce you to something which perhaps you do not know. It is God’s truth that there are such studios in [[settings/paris|Paris]], or were a few years after the war, still to be had by God’s starving artists for next to nothing a year, even there, with property worth millions all around: for such is [[settings/paris|Paris]].
 
 Why it is so I do not know: whether they have a system of leases even more absurd than ours, or whether the owners get more money by keeping a place derelict and letting buyers bid against each other for years — I say again, I do not know. One element of it was probably the after-war laws restricting rents to their late pre-war level in francs, although francs had lost four-fifths of their value. Anyhow, the poor old studio (call it rather a shed, and a dying shed at that) cost the genius with the wild hair and the too-big brush and the daubed smock-frock — him and his companion (who, I am ashamed to say, was called “La Mome Bouillotte”) the sum of sixteen English pounds a year, or two thousand of those brand new post-war francs.
 
@@ -2782,7 +2782,7 @@ But the young genius Bourrot warmed to such a greeting and bowed in his turn; an
 
 In a moment they were friends. Bourrot had already, with a great sweep of his brush, begged them to look round (there was nothing to see), when there came another sharp rap at the door, not discreet this time, not with the traditions of the gentry behind it, but unmistakably the assault of that abominable monster the Bourgeois.
 
-The Bourgeois has no heart and no soul. He lives upon the blood of the [[Artist|artist]]. He cannot tell the things of Heaven from the things of Earth — and he collects rent. The Bourgeois of all Bourgeois, the Bourgeois whom the old Latin Quarter vowed to damnation, ere the Communist came to the land to steal their thunder, the Bourgeois whom the new Montparnasse is sullen against, goes nowhere in more fearful guise than in the habit of a landlord, with bloodshot eyes and slavering teeth, gnashing and howling for his rent.
+The Bourgeois has no heart and no soul. He lives upon the blood of the [[archetypes/artist|artist]]. He cannot tell the things of Heaven from the things of Earth — and he collects rent. The Bourgeois of all Bourgeois, the Bourgeois whom the old Latin Quarter vowed to damnation, ere the Communist came to the land to steal their thunder, the Bourgeois whom the new Montparnasse is sullen against, goes nowhere in more fearful guise than in the habit of a landlord, with bloodshot eyes and slavering teeth, gnashing and howling for his rent.
 
 Yes, it was He indeed!
 
@@ -2799,7 +2799,7 @@ Then the Englishman came back to the simple suffering of the thing, and did some
 
 Ai piedi di questa figura, su un piccolo sgabello, sedeva una giovane ragazza dai capelli scuri: molto brutta, ma molto affettuosa; entrambe accolsero i loro visitatori con uno sguardo sfidante. Pensavano che si trattasse del “canone di affitto”. Infatti, era il Giorno Fatale dopo il quale quel famigerato proprietario non avrebbe più aspettato.
 
-Ora vi presenterò qualcosa che forse non conoscete. È una verità divina che a [[Paris|Parigi]] esistessero, o esistono ancora oggi, studi che gli artisti affamati potevano utilizzare praticamente gratuitamente, anche lì dove le proprietà intorno valgono milioni. Così è [[Paris|Parigi]].
+Ora vi presenterò qualcosa che forse non conoscete. È una verità divina che a [[settings/paris|Parigi]] esistessero, o esistono ancora oggi, studi che gli artisti affamati potevano utilizzare praticamente gratuitamente, anche lì dove le proprietà intorno valgono milioni. Così è [[settings/paris|Parigi]].
 
 Non so esattamente il motivo: forse hanno un sistema di affitti ancora più assurdo del nostro, oppure i proprietari guadagnano di più lasciando gli immobili in stato di abbandono e facendo sì che gli acquirenti si contendano le proprietà per anni. Ripeto, non lo so. Uno degli elementi che hanno contribuito a questa situazione sono stati probabilmente le leggi del dopoguerra che limitavano gli affitti ai livelli precedenti alla guerra, espressi in franchi, anche se questi avevano perso quattro quinti del loro valore. Comunque sia, quel povero vecchio studio (più che uno studio, sembrava una capanna, anzi, una capanna ormai in rovina) costava al genio dai capelli selvaggi, con il pennello troppo grande e l’abito macchiato. A lui e alla sua compagna (che, con vergogna devo ammetterlo, si chiamava “La Mome Bouillotte”) costava sedici sterline all’anno, ovvero duemila di quei nuovi franchi del dopoguerra.
 
@@ -2813,7 +2813,7 @@ Ma il giovane genio Bourrot rispose con un simile saluto e fece a sua volta un i
 
 In un attimo divennero amici. Bourrot aveva già, con un ampio movimento del suo pennello, chiesto loro di guardarsi intorno (non c’era nulla da vedere), quando si sentì un altro colpo secco alla porta: questa volta non discreto, privo delle tradizioni della nobiltà. Era senza dubbio l’assalto di quel mostro abominabile che era il Borghese.
 
-Il borghese non ha cuore né anima. Vive sul sangue degli [[Artist|artisti]]. Non è in grado di distinguere le cose del Cielo da quelle della Terra, e raccoglie l’affitto. Il borghese, tra tutti i borghesi; quel borghese che il vecchio Quartiere Latino giurò di maledire, prima che i comunisti arrivassero in questo paese per “rubargli il tuono”; quel borghese contro cui il nuovo Montparnasse nutre rancore, non esiste modo più spaventoso di presentarsi di quello di un proprietario terriero: con occhi rossi e denti snudati, ringhiando e urlando per ottenere il proprio affitto.
+Il borghese non ha cuore né anima. Vive sul sangue degli [[archetypes/artist|artisti]]. Non è in grado di distinguere le cose del Cielo da quelle della Terra, e raccoglie l’affitto. Il borghese, tra tutti i borghesi; quel borghese che il vecchio Quartiere Latino giurò di maledire, prima che i comunisti arrivassero in questo paese per “rubargli il tuono”; quel borghese contro cui il nuovo Montparnasse nutre rancore, non esiste modo più spaventoso di presentarsi di quello di un proprietario terriero: con occhi rossi e denti snudati, ringhiando e urlando per ottenere il proprio affitto.
 
 Sì, era proprio lui!
 
@@ -2965,7 +2965,7 @@ The Masterpiece was ten years old.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO II
+CAPITOLO II
 
 A nord di Merton, come in tutto il resto del mondo, trascorse un anno. Il sfortunato erede disabile aveva raggiunto l’età adulta, ma per suo padre quella festività era apparsa assolutamente vuota e priva di significato. Il figlio minore stava per lasciare la scuola. John Delgairn trascorreva sempre più tempo da solo e, come spesso accade alle persone malate e isolate, si rifugiò nell’ambito del suo hobby. Sviluppò il proprio straordinario talento segreto nella riproduzione.
 
@@ -3014,7 +3014,7 @@ He had not risen from nothing. He had had the advantage of a certain capital to 
 
 From the first moment of his taking to the trade he showed, over and above exceptional powers of working and exceptional lucidity in the estimation of values, that he had one much rarer gift, a gift almost unique. This was a miraculous power of varying — quite suddenly — his aesthetic mood and appreciations. Nothing marks off the born dealer more sharply from the dull herd than this faculty. The many sink into a rut of affection and habit for such painters as they first knew. The exceptional brain which furnishes such purchasers with their needs can despise at a moment’s notice what it formerly admired, admire what it despised, according as fashion changes or the making of a new market demands.
 
-During the Fragonard boom, at the very beginning of his career, he felt Fragonard deeply. When Fragonard slumped, Henry Bensington felt, by a strange sympathy with the unseen forces about him, a lessening interest in Fragonard. During the much later Romney boom it was the same. But perhaps the most astonishing detail in this unique gift was his sudden wave of admiration for any great modern [[Artist|artist]] immediately upon death of same.
+During the Fragonard boom, at the very beginning of his career, he felt Fragonard deeply. When Fragonard slumped, Henry Bensington felt, by a strange sympathy with the unseen forces about him, a lessening interest in Fragonard. During the much later Romney boom it was the same. But perhaps the most astonishing detail in this unique gift was his sudden wave of admiration for any great modern [[archetypes/artist|artist]] immediately upon death of same.
 
 It was just when the public and the Press were fullest of the name that Henry Bensington was most inspired by it.
 
@@ -3057,7 +3057,7 @@ Such was the man to whose powerful mind that early Bourrot, the “A me Bourgeoi
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO III
+CAPITOLO III
 
 Sir Henry Bensington era uno di quegli uomini che hanno reso l’Inghilterra ciò che è oggi.
 
@@ -3124,9 +3124,9 @@ The Salon, of course, rejected it. Inspiration of that calibre is rarely discove
 
 At last, with difficulty, Bourrot managed to get it shown at the Absolu.
 
-There was in [[Paris]], happily for the reputation of Art, one man with sufficient Vision. This was the small, delicate critic with the sensitive voice whom Mont Parnasse called The Slav Prophet, and indeed it was his custom to sign over the nom de plume of CRSK, until his editor persuaded him with difficulty to add a vowel, and expand it to CRESK. That signature ruled taste. His mastery over all instructed opinion was the more remarkable when one considers his origins, and that his parents, still happily surviving, were healthy, well-to-do peasants of the Champagne — much prouder of their son’s fame in the capital than he was of them.
+There was in [[settings/paris|Paris]], happily for the reputation of Art, one man with sufficient Vision. This was the small, delicate critic with the sensitive voice whom Mont Parnasse called The Slav Prophet, and indeed it was his custom to sign over the nom de plume of CRSK, until his editor persuaded him with difficulty to add a vowel, and expand it to CRESK. That signature ruled taste. His mastery over all instructed opinion was the more remarkable when one considers his origins, and that his parents, still happily surviving, were healthy, well-to-do peasants of the Champagne — much prouder of their son’s fame in the capital than he was of them.
 
-This mysterious figure was naturally in hot demand among the great; but CRESK was as daintily selective in his choice of friends as he was in his judgment of canvases. In a host of worldly acquaintance, there were but two whom he could call friends. One was the Duchess of Creil, and the other the elderly and distinguished Charles de Mallencourt, Academician. These were his only two real intimates among the great, but through them he ruled the picture market of [[Paris]].
+This mysterious figure was naturally in hot demand among the great; but CRESK was as daintily selective in his choice of friends as he was in his judgment of canvases. In a host of worldly acquaintance, there were but two whom he could call friends. One was the Duchess of Creil, and the other the elderly and distinguished Charles de Mallencourt, Academician. These were his only two real intimates among the great, but through them he ruled the picture market of [[settings/paris|Paris]].
 
 When “Le Néant” first burst upon his eyes he was alone. Indeed, he had only strolled into the Absolu to escape a violent thunderstorm. He did not affect these unfashionable exhibitions. But “Le Néant” struck him like a blow. He went out from the place in a dream, and in the nearest café wrote and wrote and wrote. Next day the article appeared in the newspaper Petr one, and a name which none had hitherto heard rose enormously like a meteor, and remained shining above the city — the name of Bourrot.
 
@@ -3140,7 +3140,7 @@ So for twelve months Sir Henry Bensington had been watching this new star, when 
 
 Pucker had bought the “Amour Perdu,” and had paid twenty-five thousand dollars for it.
 
-There was no time to lose. The telephone message had been spoken at New York a little after ten in the morning, within a few minutes of its sender’s getting the news. That was just after three, London time. Before four o’clock every arrangement had been made and Henry Bensington was flying south to [[Paris]] in good clear weather and calm, some two thousand feet above the coast of Kent. Before dinner he had rung up the Bourrot household, and at cocktail he was in the flat.
+There was no time to lose. The telephone message had been spoken at New York a little after ten in the morning, within a few minutes of its sender’s getting the news. That was just after three, London time. Before four o’clock every arrangement had been made and Henry Bensington was flying south to [[settings/paris|Paris]] in good clear weather and calm, some two thousand feet above the coast of Kent. Before dinner he had rung up the Bourrot household, and at cocktail he was in the flat.
 
 Bourrot was dans ses meubles (excuse me! I mean “set up in style”). His poverty had departed, but not his simplicity. Still less his Adorer. He knew that he was famous; the sums he had already received, £500 for his first picture, £1,000 for the second, still dazzled him. When he heard the name and the voice of Henry Bensington upon the telephone he was as moved as though the great dealer had come to see him twenty months before, when no one had heard his name, and he received the Master of All Picture Buying like a royalty. Nor was he disappointed.
 
@@ -3157,7 +3157,7 @@ Then the story of the Masterpiece was told, and Bourrot shook his head as he rec
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO IV
+CAPITOLO IV
 
 Circa due anni prima della morte del signor Delgairn il maggiore, e mentre Harry era ancora all’Oxford, l’orecchio unico e sensibile di Sir Henry Bensington riuscì a captare, nel frastuono confuso del mondo, il nome “Bourrot”.
 
@@ -3167,9 +3167,9 @@ Il Salone, naturalmente, lo rifiutò. Un'ispirazione di quel calibro viene raram
 
 Finalmente, con molta fatica, Bourrot riuscì a farla esporre all’Absolu.
 
-A [[Paris|Parigi]], per fortuna della reputazione dell’Arte, c'era un uomo dotato di una visione sufficientemente profonda. Si trattava di quel piccolo e delicato critico dal timbro di voce sensibile che Mont Parnasse chiamava “Il Profeta Slavo”; era sua abitudine firmare i suoi articoli con lo pseudonimo CRSK, finché il suo editore non riuscì a convincerlo, con qualche difficoltà, ad aggiungere una vocale e a modificare il nome in CRESK. Quel pseudonimo dettava le tendenze del gusto dell’epoca. La sua capacità di influenzare ogni opinione era ancora più sorprendente se si consideravano le sue origini: i suoi genitori, ancora vivi e in buona salute, erano semplici contadini della Champagne, molto più orgogliosi della fama del loro figlio nella capitale di quanto lo fosse lui stesso.
+A [[settings/paris|Parigi]], per fortuna della reputazione dell’Arte, c'era un uomo dotato di una visione sufficientemente profonda. Si trattava di quel piccolo e delicato critico dal timbro di voce sensibile che Mont Parnasse chiamava “Il Profeta Slavo”; era sua abitudine firmare i suoi articoli con lo pseudonimo CRSK, finché il suo editore non riuscì a convincerlo, con qualche difficoltà, ad aggiungere una vocale e a modificare il nome in CRESK. Quel pseudonimo dettava le tendenze del gusto dell’epoca. La sua capacità di influenzare ogni opinione era ancora più sorprendente se si consideravano le sue origini: i suoi genitori, ancora vivi e in buona salute, erano semplici contadini della Champagne, molto più orgogliosi della fama del loro figlio nella capitale di quanto lo fosse lui stesso.
 
-Questa misteriosa figura era naturalmente molto richiesta tra le persone importanti; ma CRESK era altrettanto raffinato e selettivo nel scegliere gli amici quanto lo fosse nella valutazione dei dipinti. Tra tante conoscenze mondane, ce n'erano solo due che poteva considerare veri amici: la Duchessa di Creil e il venerabile e distinto Charles de Mallencourt, accademico. Questi erano i suoi unici due veri intimi tra le persone importanti, ma attraverso di loro controllava il mercato dell’arte di [[Paris|Parigi]].
+Questa misteriosa figura era naturalmente molto richiesta tra le persone importanti; ma CRESK era altrettanto raffinato e selettivo nel scegliere gli amici quanto lo fosse nella valutazione dei dipinti. Tra tante conoscenze mondane, ce n'erano solo due che poteva considerare veri amici: la Duchessa di Creil e il venerabile e distinto Charles de Mallencourt, accademico. Questi erano i suoi unici due veri intimi tra le persone importanti, ma attraverso di loro controllava il mercato dell’arte di [[settings/paris|Parigi]].
 
 Quando “Le Néant” gli apparvero davanti agli occhi per la prima volta, era solo. Infatti, era entrato nell’Absolu soltanto per sfuggire a una violenta tempesta. Non prestava alcuna attenzione a queste manifestazioni poco alla moda. Ma “Le Néant” lo colpì come un fulmine. Uscì da quel luogo in uno stato di trance e, nel primo caffè che trovò, scrisse, scrisse, scrisse senza sosta. Il giorno dopo, l’articolo apparve sul giornale “Petr One”; un nome che fino ad allora nessuno aveva mai sentito emerse improvvisamente come una meteora e rimase luminoso sopra tutta la città: il nome di Bourrot.
 
@@ -3183,7 +3183,7 @@ Sapevo che per dodici mesi Sir Henry Bensington aveva osservato questa nuova ste
 
 Pucker aveva comprato il “Amour Perdu” e ne aveva pagato venticinque migliaia di dollari.
 
-Non c’era tempo da perdere. Il messaggio telefonico era stato lasciato a New York poco dopo le dieci del mattino, pochi minuti dopo che il mittente aveva ricevuto la notizia. A Londra erano appena passate le tre. Prima delle quattro, tutti gli accordi erano stati presi e Henry Bensington stava volando verso sud, verso [[Paris|Parigi]], in condizioni meteorologiche ottimali e in assoluta calma, a circa duemila piedi sopra la costa del Kent. Prima di cena aveva chiamato la famiglia Bourrot e, durante il cocktail, si trovava già nell’appartamento loro.
+Non c’era tempo da perdere. Il messaggio telefonico era stato lasciato a New York poco dopo le dieci del mattino, pochi minuti dopo che il mittente aveva ricevuto la notizia. A Londra erano appena passate le tre. Prima delle quattro, tutti gli accordi erano stati presi e Henry Bensington stava volando verso sud, verso [[settings/paris|Parigi]], in condizioni meteorologiche ottimali e in assoluta calma, a circa duemila piedi sopra la costa del Kent. Prima di cena aveva chiamato la famiglia Bourrot e, durante il cocktail, si trovava già nell’appartamento loro.
 
 Bourrot era veramente “a suo agio” (scusate, intendo dire che viveva in modo elegante). La povertà se n'era andata, ma non la sua semplicità. E tantomeno la persona che lo amava. Sapeva di essere famoso; le somme che aveva già ricevuto – 500 sterline per il suo primo quadro, 1.000 sterline per il secondo – lo lasciavano ancora sbalordito. Quando sentì il nome e la voce di Henry Bensington al telefono, fu commosso come se quel grande collezionista fosse venuto a trovarlo venti mesi prima, quando nessuno conosceva ancora il suo nome. E ricevette quell’uomo, considerato il “Maestro di Tutti i Compratori d’Arte”, come se si trattasse di una figura reale. E non rimase deluso.
 
@@ -3238,9 +3238,9 @@ The pencil was just going to write the name de la Game by way of reminder, but B
 
 And so they parted: — and next day the contracts were duly drawn up and the arrangements made for the package and insurance of that invaluable parcel of canvases for King Street. And the great dealer shook hands again. He first shook the strong young healthy hand of the girl, then next, well balanced as he was, he felt a sort of shudder in the grasp of what he knew, now better than ever, to be the hand of a dying man.
 
-Returned to England, Bensington worked at the clue. De la Game was impossible. He tried Lord de la Garenne, writing himself to Hampton Warren and getting nothing for his pains but a stiff letter back from the secretary, saying that his Lordship knew nothing about the business. He tried Sir James Dilligan, who had been in the [[Paris]] studios in his time, and on receiving an ambiguous reply, was at the time and expense of going all the way down to Cornwall to see the man himself. He was a good deal disgusted to find that Sir James not only had no Bourrot, but that he had got him down with the idea of selling him some rubbish. Then he thought he had it. It was Dalziel Locharne — after all, “Deel-Locarn sounded more or less like “de la Garne.” And Dalziel Locharne had been a bit of a Bohemian. But Dalziel Locharne, who was a peppery man, lost his temper and told Henry Bensington plainly that if he had got any of that modern rot he would have burnt it long ago.
+Returned to England, Bensington worked at the clue. De la Game was impossible. He tried Lord de la Garenne, writing himself to Hampton Warren and getting nothing for his pains but a stiff letter back from the secretary, saying that his Lordship knew nothing about the business. He tried Sir James Dilligan, who had been in the [[settings/paris|Paris]] studios in his time, and on receiving an ambiguous reply, was at the time and expense of going all the way down to Cornwall to see the man himself. He was a good deal disgusted to find that Sir James not only had no Bourrot, but that he had got him down with the idea of selling him some rubbish. Then he thought he had it. It was Dalziel Locharne — after all, “Deel-Locarn sounded more or less like “de la Garne.” And Dalziel Locharne had been a bit of a Bohemian. But Dalziel Locharne, who was a peppery man, lost his temper and told Henry Bensington plainly that if he had got any of that modern rot he would have burnt it long ago.
 
-The clue came apparently by pure luck — but then, tireless perseverance gets the luck. It came one evening (he had not been back from [[Paris]] more than about a week), when he was dining with Lord Birmingham, the Pailey K.C. of Delgairn’s visit to [[Paris]].
+The clue came apparently by pure luck — but then, tireless perseverance gets the luck. It came one evening (he had not been back from [[settings/paris|Paris]] more than about a week), when he was dining with Lord Birmingham, the Pailey K.C. of Delgairn’s visit to [[settings/paris|Paris]].
 
 “By the way,” he said, “you’re a picture man, Bensington. What about this man Bourrot they’re talking about? It’s a funny thing, you know, but I met him when I was with Delgairn years ago. He worked in the same studio that Delgairn had.”
 
@@ -3291,7 +3291,7 @@ E così si separarono: il giorno dopo i contratti furono redatti regolarmente e 
 
 Tornato in Inghilterra, Bensington continuò le sue ricerche. De la Game risultava impossibile da rintracciare. Provò allora con Lord de la Garenne, scrivendo personalmente a Hampton Warren, ma ricevette solo una lettera scortese nella quale il segretario gli comunicava che il suo signore non sapeva nulla riguardo alla questione. Tentò poi con Sir James Dilligan, che in passato aveva lavorato negli studi di Parigi; dopo aver ricevuto una risposta vaga, decise di recarsi personalmente in Cornovaglia a incontrarlo, a sue spese. Fu molto deluso nello scoprire che Sir James non solo non possedeva alcuna informazione su Bourrot, ma gli aveva anche proposto di vendergli robaccia di scarsa qualità. Alla fine, pensò di aver trovato la persona giusta: si trattava di Dalziel Locharne. Dopotutto, il nome “Deel-Locarn” assomigliava in qualche modo a “de la Garne”, e Dalziel Locharne aveva un carattere piuttosto bohémien. Ma Dalziel Locharne, uomo irascibile, gli disse chiaramente che, se avesse posseduto anche solo una briciola di quelle informazioni moderne, le avrebbe bruciate da tempo.
 
-Quella pista sembrò arrivare per pura fortuna, ma in fondo, è la perseveranza instancabile che porta alla fortuna. Arrivò una sera (non era tornato da [[Paris|Parigi]] da più di una settimana), mentre pranzava con Lord Birmingham, riguardo alla visita di Pailey K.C. di Delgairn a [[Paris|Parigi]].
+Quella pista sembrò arrivare per pura fortuna, ma in fondo, è la perseveranza instancabile che porta alla fortuna. Arrivò una sera (non era tornato da [[settings/paris|Parigi]] da più di una settimana), mentre pranzava con Lord Birmingham, riguardo alla visita di Pailey K.C. di Delgairn a [[settings/paris|Parigi]].
 
 “By the way,” disse, “tu sei un uomo di immagini, Bensington. E che ne dici di questo tizio, Bourrot, di cui tutti parlano? È una cosa strana, sai. L’ho incontrato anni fa quando lavoravo con Delgairn. Lavorava nello stesso studio di Delgairn.”
 
@@ -3472,15 +3472,15 @@ Aveva catturato con successo quel maiale selvatico!
 
 CHAPTER V
 
-HENRY BENSINGTON WAS always in time: but on this occasion he had only just been in time. The first news he saw in his newspaper as he travelled up to London next morning with the Bourrot comfortably tucked away beside him was a paragraph in his Daily Telegraph, not largely displayed, but calculated to catch his eye immediately. It told him that “Monsieur Bourrot, the well-known French [[Artist|artist]]” (it is not my phrase, it is the newspaper’s) was lying seriously ill at the Clinique Sarrel in [[Paris]]. That paragraph had caught his eye before his train stopped at Guildford. Before it got to Waterloo he had made his plan.
+HENRY BENSINGTON WAS always in time: but on this occasion he had only just been in time. The first news he saw in his newspaper as he travelled up to London next morning with the Bourrot comfortably tucked away beside him was a paragraph in his Daily Telegraph, not largely displayed, but calculated to catch his eye immediately. It told him that “Monsieur Bourrot, the well-known French [[archetypes/artist|artist]]” (it is not my phrase, it is the newspaper’s) was lying seriously ill at the Clinique Sarrel in [[settings/paris|Paris]]. That paragraph had caught his eye before his train stopped at Guildford. Before it got to Waterloo he had made his plan.
 
-Bourrot would not die (it might be presumed) off-hand. It was his experience that these geniuses, though they died young, usually took a few days in dying. He decided to be in [[Paris]] the next morning, not that night. And he spent the afternoon in close consultation with Lord Borstal and with Sir Charles Holloway, who had been called in to make a third.
+Bourrot would not die (it might be presumed) off-hand. It was his experience that these geniuses, though they died young, usually took a few days in dying. He decided to be in [[settings/paris|Paris]] the next morning, not that night. And he spent the afternoon in close consultation with Lord Borstal and with Sir Charles Holloway, who had been called in to make a third.
 
-The headlines were decided upon and the main steps of the boom. Sir Henry would bring back or send back by air a photograph of the dying man, of the famous studio in [[Paris]], and if possible, a sketch of Bourrot himself on his bed of sickness. Meanwhile, he would provide a negative of the paper on which Bourrot had spoken so passionately of “His Masterpiece! His lost Masterpiece!” He had it with him, now, in London. Also an old photograph of the Master. The Masterpiece itself he proposed with perfect courtesy not to have reproduced yet. If they would send one of their photographers round to his house with the apparatus for the light and everything, they could have the stuff before dinner.
+The headlines were decided upon and the main steps of the boom. Sir Henry would bring back or send back by air a photograph of the dying man, of the famous studio in [[settings/paris|Paris]], and if possible, a sketch of Bourrot himself on his bed of sickness. Meanwhile, he would provide a negative of the paper on which Bourrot had spoken so passionately of “His Masterpiece! His lost Masterpiece!” He had it with him, now, in London. Also an old photograph of the Master. The Masterpiece itself he proposed with perfect courtesy not to have reproduced yet. If they would send one of their photographers round to his house with the apparatus for the light and everything, they could have the stuff before dinner.
 
 He was even at the pains, was this Napoleonic man, to advise on the captions, and such was his prestige that even these masters of publicity humbly accepted his phrases rather than their own.
 
-The details of the plan of campaign he left to them; but the main lines were organized and settled before six o’clock. The next morning there was to be a column, heavily leaded, in The Howl, and making out the great [[Artist|artist]] in his imminent danger of death to be the supreme figure of the world. It was the easier to do as not one London man in a hundred had yet heard of him. Bourrot’s words on the Masterpiece was to appear in The Howl.
+The details of the plan of campaign he left to them; but the main lines were organized and settled before six o’clock. The next morning there was to be a column, heavily leaded, in The Howl, and making out the great [[archetypes/artist|artist]] in his imminent danger of death to be the supreme figure of the world. It was the easier to do as not one London man in a hundred had yet heard of him. Bourrot’s words on the Masterpiece was to appear in The Howl.
 
 For The Roar was reserved the old photograph of Bourrot. There was to be a strong protest against the exaggerated deference paid to foreign talent. Bourrot’s work was to be discussed in two columns, admitted to be of very high standard, but not so great as that of Mr. Byng, the Tite Street Symbolist and author of the Frescoes in the New Terminus, or that of Mr. Mangus the new voice from South Africa. It would be a tragic day indeed when our mighty empire could not produce oil work superior to that of dying Europe.
 
@@ -3494,24 +3494,24 @@ You may have gathered by this time that our great patron of modern art had nothi
 
 “I have found it,” said Henry Bensington, speaking the truth with the simplicity which is always so telling when truth is not squandered but only used upon the right occasion.
 
-Something as near a smile as Death could allow appeared on the fallen features of the [[Artist|artist]]. He put forth his hand as though to prophecy, saying huskily: “Mark me, mark me!... for untold years.... Then his voice sank, nothing but a murmur could be heard, his eyelids fell, and he could attend no more. The nurse beckoned. Sir Henry left the room on tiptoe.
+Something as near a smile as Death could allow appeared on the fallen features of the [[archetypes/artist|artist]]. He put forth his hand as though to prophecy, saying huskily: “Mark me, mark me!... for untold years.... Then his voice sank, nothing but a murmur could be heard, his eyelids fell, and he could attend no more. The nurse beckoned. Sir Henry left the room on tiptoe.
 
 On his way out from the Clinique, which was near the Observatory, he passed the telegraph office of the Senate, opposite the Luxembourg. He sent a couple of telegrams to make sure, and then from his hotel telephoned at length to Lord Borstal. He repeated the exact words: “Mark me!... for untold years.” He gave as close a description as he could of the scene, so that Lord Borstal’s chief draughtsman could depict it with that vigorous pencil so familiar to us all — or at least to those of us who read any one or all of Lord Borstal’s three Sunday papers.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO V
+CAPITOLO V
 
-HENRY BENSINGTON era sempre puntuale, ma in quella occasione era arrivato appena in tempo. La prima notizia che lesse sul giornale, la mattina seguente mentre si recava a Londra con Bourrot al suo fianco, era un paragrafo pubblicato sul Daily Telegraph: non molto evidenziato, ma sicuramente progettato per attirare immediatamente la sua attenzione. Diceva che “Monsieur Bourrot, il noto [[Artist|artista]] francese” (non è una mia frase, ma quella del giornale) si trovava in condizioni gravi alla Clinique Sarrel di [[Paris|Parigi]]. Quel paragrafo aveva attirato la sua attenzione già prima che il treno si fermasse a Guildford. Prima ancora che arrivasse a Waterloo, aveva già fatto la sua decisione.
+HENRY BENSINGTON era sempre puntuale, ma in quella occasione era arrivato appena in tempo. La prima notizia che lesse sul giornale, la mattina seguente mentre si recava a Londra con Bourrot al suo fianco, era un paragrafo pubblicato sul Daily Telegraph: non molto evidenziato, ma sicuramente progettato per attirare immediatamente la sua attenzione. Diceva che “Monsieur Bourrot, il noto [[archetypes/artist|artista]] francese” (non è una mia frase, ma quella del giornale) si trovava in condizioni gravi alla Clinique Sarrel di [[settings/paris|Parigi]]. Quel paragrafo aveva attirato la sua attenzione già prima che il treno si fermasse a Guildford. Prima ancora che arrivasse a Waterloo, aveva già fatto la sua decisione.
 
-Bourrot non sarebbe morto così facilmente. Sulla base della sua esperienza, sapeva che questi geni, anche se morivano giovani, di solito impiegavano alcuni giorni prima di esalare l’ultimo respiro. Decise quindi di rimanere a [[Paris|Parigi]] il giorno dopo, e non quella stessa notte. Trascorse il pomeriggio in stretti colloqui con Lord Borstal e Sir Charles Holloway, che erano stati chiamati per partecipare alle discussioni.
+Bourrot non sarebbe morto così facilmente. Sulla base della sua esperienza, sapeva che questi geni, anche se morivano giovani, di solito impiegavano alcuni giorni prima di esalare l’ultimo respiro. Decise quindi di rimanere a [[settings/paris|Parigi]] il giorno dopo, e non quella stessa notte. Trascorse il pomeriggio in stretti colloqui con Lord Borstal e Sir Charles Holloway, che erano stati chiamati per partecipare alle discussioni.
 
-I titoli dei giornali furono decisi e vennero definiti i passaggi principali di questa iniziativa. Sir Henry avrebbe fatto ritornare o inviato per via aerea una fotografia dell’uomo morente, dello studio famoso di [[Paris|Parigi]], e, se possibile, anche uno schizzo di Bourrot stesso sul suo letto di malattia. Nel frattempo, avrebbe fornito il negativo del foglio su cui Bourrot aveva parlato con tanta passione del “suo capolavoro, il suo capolavoro perduto”! Lo teneva con sé, ora, a Londra. C’era anche una vecchia fotografia del Maestro. Per quanto riguardava il capolavoro stesso, Sir Henry propose con grande cortesia di non riprodurlo ancora. Se avessero inviato uno dei loro fotografi a casa sua, munito di tutto l’occorrente per le riprese, avrebbero potuto ottenere le immagini prima di cena.
+I titoli dei giornali furono decisi e vennero definiti i passaggi principali di questa iniziativa. Sir Henry avrebbe fatto ritornare o inviato per via aerea una fotografia dell’uomo morente, dello studio famoso di [[settings/paris|Parigi]], e, se possibile, anche uno schizzo di Bourrot stesso sul suo letto di malattia. Nel frattempo, avrebbe fornito il negativo del foglio su cui Bourrot aveva parlato con tanta passione del “suo capolavoro, il suo capolavoro perduto”! Lo teneva con sé, ora, a Londra. C’era anche una vecchia fotografia del Maestro. Per quanto riguardava il capolavoro stesso, Sir Henry propose con grande cortesia di non riprodurlo ancora. Se avessero inviato uno dei loro fotografi a casa sua, munito di tutto l’occorrente per le riprese, avrebbero potuto ottenere le immagini prima di cena.
 
 Si preoccupava persino di dare consigli riguardo ai testi delle didascalie; il suo prestigio era tale che anche questi esperti della pubblicità accettavano umilmente le sue frasi al posto delle loro.
 
-I dettagli del piano di campagna li lasciò a loro decidere; ma le linee generali erano già state organizzate e stabilite prima delle sei di sera. Il giorno seguente, sarebbe stata pubblicata su “The Howl” un’articolo in cui il grande [[Artist|artista]] veniva descritto come una figura di primaria importanza nel mondo, minacciato dalla morte imminente. Era più facile farlo, visto che meno di uno su cento dei londinesi aveva mai sentito parlare di lui. Le parole di Bourrot sul “Capolavoro” sarebbero apparse anch’esse su “The Howl”.
+I dettagli del piano di campagna li lasciò a loro decidere; ma le linee generali erano già state organizzate e stabilite prima delle sei di sera. Il giorno seguente, sarebbe stata pubblicata su “The Howl” un’articolo in cui il grande [[archetypes/artist|artista]] veniva descritto come una figura di primaria importanza nel mondo, minacciato dalla morte imminente. Era più facile farlo, visto che meno di uno su cento dei londinesi aveva mai sentito parlare di lui. Le parole di Bourrot sul “Capolavoro” sarebbero apparse anch’esse su “The Howl”.
 
 Per “The Roar” fu utilizzata l’antica fotografia di Bourrot. Era prevista una forte protesta contro il rispetto eccessivo tributato al talento straniero. L’opera di Bourrot veniva descritta in due colonne, riconosciute come di altissimo livello, ma non paragonabili a quelle di Mr. Byng, il simbolista di Tite Street e autore delle affresche nel nuovo terminal ferroviario, né a quelle di Mr. Mangus, la nuova voce dell’Africa del Sud. Sarebbe davvero un giorno tragico se il nostro potente impero non fosse in grado di produrre opere d’arte paragonabili a quelle dell’Europa morente.
 
@@ -3525,7 +3525,7 @@ A questo punto avrete sicuramente capito che il nostro grande mecenate dell’ar
 
 “L’ho trovato,” disse Henry Bensington, dicendo la verità con quella semplicità che è sempre così significativa quando la verità non viene sprecata, ma utilizzata solo nelle occasioni giuste.
 
-Qualcosa che assomigliava a un sorriso, per quanto possibile per la Morte, apparve sul volto dell’[[Artist|artista]] caduto. Tese la mano come se volesse profetizzare, dicendo con voce rauca: “Ricordatevi di me, per anni innumerevoli, ”. Poi la sua voce si affievolì, si udì solo un mormorio; le sue palpebre si chiusero e non fu più in grado di parlare. L’infermiera fece segno; Sir Henry uscì dalla stanza in punta di piedi.
+Qualcosa che assomigliava a un sorriso, per quanto possibile per la Morte, apparve sul volto dell’[[archetypes/artist|artista]] caduto. Tese la mano come se volesse profetizzare, dicendo con voce rauca: “Ricordatevi di me, per anni innumerevoli, ”. Poi la sua voce si affievolì, si udì solo un mormorio; le sue palpebre si chiusero e non fu più in grado di parlare. L’infermiera fece segno; Sir Henry uscì dalla stanza in punta di piedi.
 
 Uscendo dalla Clinica, che si trovava vicino all’Osservatorio, passò davanti all’ufficio telegrafico del Senato, di fronte al Luxembourg. Inviò un paio di telegrammi per accertarsi delle informazioni necessarie, e poi telefonò a lungo da hotel a Lord Borstal. Ripeté esattamente le stesse parole: “Ricordatevi di me, per anni interminabili.” Descrisse con la massima precisione possibile la scena, in modo che il principale disegnatore di Lord Borstal potesse raffigurarla con quel pennello vigoroso così familiare a tutti noi – o almeno a coloro che leggono uno o tutti e tre i giornali domenicali pubblicati da Lord Borstal.
 
@@ -3534,7 +3534,7 @@ Uscendo dalla Clinica, che si trovava vicino all’Osservatorio, passò davanti 
 <span class="atom-split" data-atom="chapter_05--part_02" data-title="The Missing Masterpiece — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/artist,setting/france"></span>
 
 
-Next morning it was as Henry Bensington had expected; the news came to him early, brought to his hotel by a respectful messenger. Bourrot was dead; and he knew enough of the stiff Continental conventions not to come back at once to London, but to wait for the funeral, to follow it bare-headed, and to listen with bowed head to no less than fourteen interminable speeches, upon the loss which [[France]] had suffered by the passing into the Unknown (not the Néant this time) of her immortal son.
+Next morning it was as Henry Bensington had expected; the news came to him early, brought to his hotel by a respectful messenger. Bourrot was dead; and he knew enough of the stiff Continental conventions not to come back at once to London, but to wait for the funeral, to follow it bare-headed, and to listen with bowed head to no less than fourteen interminable speeches, upon the loss which [[settings/france|France]] had suffered by the passing into the Unknown (not the Néant this time) of her immortal son.
 
 He had a right to be there, had Henry Bensington. He might almost have been Chief Mourner, instead of that poor little Adorer (who, by the way, had been regularly married — yes, in Church — and was received everywhere), for had he not provided, all in all, something like sixteen thousand pounds, on which the memory of Bourrot was kept alive for nearly a dozen years. And the little woman who loved him so well was kept alive for more than forty-seven (in a very small villa by the river near St. Germains).
 
@@ -3546,7 +3546,7 @@ Henry Bensington flew back to London on the day after the funeral, and as he wen
 
 He found a sheaf of papers waiting for him; the Sunday papers of the Great Twins, Borstal and Holloway, the morning papers of the same, the evening papers of the same, the provincial papers of the same, the highbrow reviews of the same (a little behindhand with their news, for they had gone to press only a few hours after he had left London). And He found it all Very Good.
 
-The boom was spouting, gushing, and roaring. The British people were intoxicated with the name of Bourrot, with hints at the Mysterious Masterpiece, with actual reproductions of the glorious “Néant” and of the triumphant “Amour Perdu,” and once more with the picture of Mr. Pucker, purchaser of the same, with the pictures not only of the outside of Bourrot’s house, but of the hearse and the six black horses, and the President of the Republic (or some politician or other) speechifying over the grave; and, what was really a clever scoop (one of Lord Borstal’s serfs had got this), of the humble house in which Bourrot had not been born (a splendid farm and steading of the Champagne), under which was the caption, “Humble House in which the great [[Artist|artist]] was born — typical of the French peasantry.” While in the column next it was a reproduction of Millais’s “Angélus” and “The Man with the Hoe.” The serf had also had instructions to snapshot Bourrot’s father and mother, during the funeral, but having lingered too long over his consummations he had missed them. They were replaced by two pictures of Auvergnats in costume, bought in the Rue de Rivoli, and labelled: “Parents of the Great [[Artist]] — Typical French Peasants.”
+The boom was spouting, gushing, and roaring. The British people were intoxicated with the name of Bourrot, with hints at the Mysterious Masterpiece, with actual reproductions of the glorious “Néant” and of the triumphant “Amour Perdu,” and once more with the picture of Mr. Pucker, purchaser of the same, with the pictures not only of the outside of Bourrot’s house, but of the hearse and the six black horses, and the President of the Republic (or some politician or other) speechifying over the grave; and, what was really a clever scoop (one of Lord Borstal’s serfs had got this), of the humble house in which Bourrot had not been born (a splendid farm and steading of the Champagne), under which was the caption, “Humble House in which the great [[archetypes/artist|artist]] was born — typical of the French peasantry.” While in the column next it was a reproduction of Millais’s “Angélus” and “The Man with the Hoe.” The serf had also had instructions to snapshot Bourrot’s father and mother, during the funeral, but having lingered too long over his consummations he had missed them. They were replaced by two pictures of Auvergnats in costume, bought in the Rue de Rivoli, and labelled: “Parents of the Great [[archetypes/artist|Artist]] — Typical French Peasants.”
 
 So much for all that. The field was ploughed, and cross-cut and harrowed. Now it must be sown for the harvest.
 
@@ -3567,7 +3567,7 @@ And the two together, I say, are Lothario, half and half. Between them they furn
 
 <span class="qlang-split" data-lang="it"></span>
 
-La mattina seguente tutto andò come Henry Bensington si aspettava: la notizia gli arrivò presto, portata al suo hotel da un messaggero rispettabile. Bourrot era morto; e lui conosceva abbastanza bene le rigide convenzioni continentali per non tornare subito a Londra, ma per attendere il funerale, parteciparvi a capo scoperto e ascoltare, con la testa bassa, non meno di quattordici discorsi interminabili sul dolore che [[France|Francia]] aveva provato perdendo il suo figlio immortale, che era passato nell’Ignoto, (non nel Néant, questa volta).
+La mattina seguente tutto andò come Henry Bensington si aspettava: la notizia gli arrivò presto, portata al suo hotel da un messaggero rispettabile. Bourrot era morto; e lui conosceva abbastanza bene le rigide convenzioni continentali per non tornare subito a Londra, ma per attendere il funerale, parteciparvi a capo scoperto e ascoltare, con la testa bassa, non meno di quattordici discorsi interminabili sul dolore che [[settings/france|Francia]] aveva provato perdendo il suo figlio immortale, che era passato nell’Ignoto, (non nel Néant, questa volta).
 
 Aveva tutto il diritto di essere lì: era Henry Bensington. Avrebbe potuto quasi essere considerato il principale dolente, invece di quel povero piccolo adoratore, che, tra l’altro, era stato regolarmente sposato – sì, in chiesa – e veniva accolto ovunque. Del resto, era stato lui a fornire, in totale, circa sedicimila sterline: grazie a quelle somme, il ricordo di Bourrot è rimasto vivo per quasi un decennio. E quella piccola donna che lo amava tanto è sopravvissuta per più di quarantasette anni, in una molto piccola villetta vicino al fiume, nei pressi di St. Germains.
 
@@ -3579,7 +3579,7 @@ Henry Bensington tornò a Londra il giorno dopo il funerale; mentre volava nel c
 
 Trovò un mazzo di giornali che lo aspettavano: i giornali domenicali dei “Great Twins”, Borstal e Holloway, i giornali mattutini dello stesso editore, quelli serali, i giornali provinciali dello stesso gruppo editoriale, nonché le riviste d’alta cultura dello stesso editore (un po’ in ritardo con le notizie, visto che erano andate in stampa solo poche ore dopo la sua partenza da Londra). E trovò tutto molto buono.
 
-Il boato continuava a crescere, gorgogliando e ruggendo. Il popolo britannico era inebriato dal nome di Bourrot, dalle allusioni a quel capolavoro misterioso, dalle riproduzioni effettive delle opere “Néant” e “Amour Perdu”, nonché dall’immagine del signor Pucker, il loro acquirente. C’erano anche foto non solo dell’esterno della casa di Bourrot, ma anche del carro funebre e dei sei cavalli neri, oltre a un discorso del Presidente della Repubblica (o di qualche altro politico) sopra la tomba. E poi c’era una notizia davvero ingegnosa: uno dei “servi” di Lord Borstal aveva scoperto dove Bourrot non era nato; si trattava infatti di una splendida tenuta nella regione della Champagne. Sotto l’immagine veniva scritto: “Umile dimora in cui nacque il grande [[Artist|artista]] – tipica rappresentazione del contadino francese”. Nella colonna accanto erano riprodotte le opere “Angélus” di Millais e “L’uomo con la zappa”. A quel servo era stato anche chiesto di scattare foto dei genitori di Bourrot durante il funerale, ma essendo rimasto troppo a lungo impegnato nelle sue attività, le aveva perse. Al loro posto furono pubblicate due foto di abitanti dell’Auvergne in costume, acquistate in Rue de Rivoli, con la didascalia: “Genitori del grande [[Artist|artista]] – tipici contadini francesi”.
+Il boato continuava a crescere, gorgogliando e ruggendo. Il popolo britannico era inebriato dal nome di Bourrot, dalle allusioni a quel capolavoro misterioso, dalle riproduzioni effettive delle opere “Néant” e “Amour Perdu”, nonché dall’immagine del signor Pucker, il loro acquirente. C’erano anche foto non solo dell’esterno della casa di Bourrot, ma anche del carro funebre e dei sei cavalli neri, oltre a un discorso del Presidente della Repubblica (o di qualche altro politico) sopra la tomba. E poi c’era una notizia davvero ingegnosa: uno dei “servi” di Lord Borstal aveva scoperto dove Bourrot non era nato; si trattava infatti di una splendida tenuta nella regione della Champagne. Sotto l’immagine veniva scritto: “Umile dimora in cui nacque il grande [[archetypes/artist|artista]] – tipica rappresentazione del contadino francese”. Nella colonna accanto erano riprodotte le opere “Angélus” di Millais e “L’uomo con la zappa”. A quel servo era stato anche chiesto di scattare foto dei genitori di Bourrot durante il funerale, ma essendo rimasto troppo a lungo impegnato nelle sue attività, le aveva perse. Al loro posto furono pubblicate due foto di abitanti dell’Auvergne in costume, acquistate in Rue de Rivoli, con la didascalia: “Genitori del grande [[archetypes/artist|artista]] – tipici contadini francesi”.
 
 Ecco fatto, tutto è pronto. Il campo è stato arato, tagliato trasversalmente e rastrellato; ora deve essere seminato in attesa del raccolto.
 
@@ -3610,11 +3610,11 @@ Therefore did Henry Bensington when he opened The Howl the next morning at Break
 
 “A Modern Leonardo.
 
-“One hears a great deal nowadays of the decline of art and civilization generally, from highbrows who are themselves incapable of any work. What will they say, I wonder, about this very great Frenchman Bourrot, in ten years’ time? A great critic of my acquaintance who for years was the chief name upon the Civilta of Florence told me years ago, when we met in the Amerigo Palace in Venice at the table of that charming host — now, alas! dead — Prince Giovanni Amerigo, that there was in [[Paris]] at that moment a man who had eclipsed Leonardo. I confess I had not heard the name, but I have had good cause to remember it since that conversation. It was Bourrot.
+“One hears a great deal nowadays of the decline of art and civilization generally, from highbrows who are themselves incapable of any work. What will they say, I wonder, about this very great Frenchman Bourrot, in ten years’ time? A great critic of my acquaintance who for years was the chief name upon the Civilta of Florence told me years ago, when we met in the Amerigo Palace in Venice at the table of that charming host — now, alas! dead — Prince Giovanni Amerigo, that there was in [[settings/paris|Paris]] at that moment a man who had eclipsed Leonardo. I confess I had not heard the name, but I have had good cause to remember it since that conversation. It was Bourrot.
 
 “Though a Frenchman.
 
-“We are not accustomed to expect much from the French nowadays, especially since their deplorable breakdown during the Great War (as has been well said, they were saved once and they were saved twice, but they cannot be certain of being saved a third time), but even their most pitiless critic will admit that Bourrot was an exception. That phrase ‘the modern Leonardo,’ strong as it is, is not too strong. And yet he was only a peasant’s son, born less than thirty-two years ago, poor fellow, in a little village of that Champagne district (where the wine comes from), and entirely self - made. Of late years he acquired a great circle of acquaintance in [[Paris]] and London. It is sad to think that we shall see no more work from his brush.”
+“We are not accustomed to expect much from the French nowadays, especially since their deplorable breakdown during the Great War (as has been well said, they were saved once and they were saved twice, but they cannot be certain of being saved a third time), but even their most pitiless critic will admit that Bourrot was an exception. That phrase ‘the modern Leonardo,’ strong as it is, is not too strong. And yet he was only a peasant’s son, born less than thirty-two years ago, poor fellow, in a little village of that Champagne district (where the wine comes from), and entirely self - made. Of late years he acquired a great circle of acquaintance in [[settings/paris|Paris]] and London. It is sad to think that we shall see no more work from his brush.”
 
 So much for the Golders Green half of Lothario. There followed the Fleet Street half — but nothing to show the difference in authorship.
 
@@ -3624,7 +3624,7 @@ So much for the Golders Green half of Lothario. There followed the Fleet Street 
 
 “The Masterpiece.
 
-“As for the Masterpiece, I have been privileged to see it, though wild horses will not tear from me what it is like. But I can tell you the title. It is called the ‘Ame Bourgeoise,’ which we may translate in England by ‘The Middle Class Soul.’ You know, in artistic circles in [[Paris]] the word ‘Bourgeois’ stands for common-place and vulgar taste, and not (as it does with other continentals, such as the Russians), for Capitalism in general. But that is another story, as Mr. Kipling says.”
+“As for the Masterpiece, I have been privileged to see it, though wild horses will not tear from me what it is like. But I can tell you the title. It is called the ‘Ame Bourgeoise,’ which we may translate in England by ‘The Middle Class Soul.’ You know, in artistic circles in [[settings/paris|Paris]] the word ‘Bourgeois’ stands for common-place and vulgar taste, and not (as it does with other continentals, such as the Russians), for Capitalism in general. But that is another story, as Mr. Kipling says.”
 
 Henry Bensington laid the paper down, well pleased. That was the stuff to give ’em! He took up the telephone, asked for an appointment with Lord Borstal, got it from the servant for luncheon that day, and at the lunch made further progress. The highbrow sixpenny weekly in that nobleman’s control had a fierce attack on Bourrot resulting in a shower of letters, both of protest and of agreement. Holloway’s press issued a sort of apology for the attitude they had taken, admitting the greatness of Bourrot, but still protesting against the exaggeration of foreign genius, and saying that they had heard that the “Come - to - Britain” movement... — the rest of the leader was about our provincial hotels being the best in the world.
 
@@ -3643,11 +3643,11 @@ Ecco quindi ciò che fece Henry Bensington il giorno seguente, quando aprì “T
 
 “Un Leonardo moderno.”
 
-“Oggi si sente spesso parlare del declino dell’arte e della civiltà in generale, da persone che a loro volta sono incapaci di compiere alcun lavoro. Chissà cosa diranno, tra dieci anni, di questo grande francese, Bourrot. Un mio conoscente, un importante critico che per anni è stato una figura di spicco su ‘Civilta’ di Firenze, mi disse anni fa, quando ci incontrammo al Palazzo Amerigo a Venezia alla tavola di quel affascinante ospite – ora purtroppo defunto – il principe Giovanni Amerigo, che in quel momento a [[Paris|Parigi]] c’era un uomo che aveva oscurato persino Leonardo. Confesso di non aver mai sentito quel nome prima, ma da allora ho avuto buone ragioni per ricordarmelo. Era Bourrot.”
+“Oggi si sente spesso parlare del declino dell’arte e della civiltà in generale, da persone che a loro volta sono incapaci di compiere alcun lavoro. Chissà cosa diranno, tra dieci anni, di questo grande francese, Bourrot. Un mio conoscente, un importante critico che per anni è stato una figura di spicco su ‘Civilta’ di Firenze, mi disse anni fa, quando ci incontrammo al Palazzo Amerigo a Venezia alla tavola di quel affascinante ospite – ora purtroppo defunto – il principe Giovanni Amerigo, che in quel momento a [[settings/paris|Parigi]] c’era un uomo che aveva oscurato persino Leonardo. Confesso di non aver mai sentito quel nome prima, ma da allora ho avuto buone ragioni per ricordarmelo. Era Bourrot.”
 
 “Anche se è francese, ”
 
-“Oggigiorno non siamo abituati ad aspettarci molto dai francesi, soprattutto dopo il loro deplorevole fallimento durante la Grande Guerra (come è stato ben detto, sono stati salvati una volta e anche due volte, ma non possiamo essere certi che vengano salvati per la terza volta); tuttavia, anche il loro critico più spietato ammetterà che Bourrot è stato un’eccezione. Quella definizione di ‘il moderno Leonardo’, per quanto forte, non è affatto esagerata. Eppure lui era soltanto il figlio di un contadino, nato meno di trentadue anni fa in un piccolo villaggio della regione della Champagne (dove si produce quel vino), e si è fatto da solo. Negli ultimi anni ha acquisito una vasta cerchia di conoscenze a [[Paris|Parigi]] e Londra. È triste pensare che non vedremo più alcuna sua opera.”
+“Oggigiorno non siamo abituati ad aspettarci molto dai francesi, soprattutto dopo il loro deplorevole fallimento durante la Grande Guerra (come è stato ben detto, sono stati salvati una volta e anche due volte, ma non possiamo essere certi che vengano salvati per la terza volta); tuttavia, anche il loro critico più spietato ammetterà che Bourrot è stato un’eccezione. Quella definizione di ‘il moderno Leonardo’, per quanto forte, non è affatto esagerata. Eppure lui era soltanto il figlio di un contadino, nato meno di trentadue anni fa in un piccolo villaggio della regione della Champagne (dove si produce quel vino), e si è fatto da solo. Negli ultimi anni ha acquisito una vasta cerchia di conoscenze a [[settings/paris|Parigi]] e Londra. È triste pensare che non vedremo più alcuna sua opera.”
 
 Ecco quindi la parte di Lothario ambientata a Golders Green. Poi venne la parte ambientata a Fleet Street, ma nulla indicava una differenza nella paternità dell’opera.
 
@@ -3657,7 +3657,7 @@ Ecco quindi la parte di Lothario ambientata a Golders Green. Poi venne la parte 
 
 “L’opera maestra.”
 
-“Per quanto riguarda l’opera magistrale, ho avuto il privilegio di vederla, anche se nemmeno i cavalli selvaggi riuscirebbero a strapparmi informazioni su di essa. Ma posso dirvi il suo titolo: si chiama ‘Ame Bourgeoise’, che in Inghilterra potremmo tradurre come ‘L’anima della classe media’. Sapete, nei circoli artistici di [[Paris|Parigi]] la parola ‘Bourgeois’ indica un gusto banale e volgare, e non (come avviene in altri paesi continentali, come la Russia) il Capitalismo in generale. Ma questa è un’altra storia, come dice il signor Kipling.”
+“Per quanto riguarda l’opera magistrale, ho avuto il privilegio di vederla, anche se nemmeno i cavalli selvaggi riuscirebbero a strapparmi informazioni su di essa. Ma posso dirvi il suo titolo: si chiama ‘Ame Bourgeoise’, che in Inghilterra potremmo tradurre come ‘L’anima della classe media’. Sapete, nei circoli artistici di [[settings/paris|Parigi]] la parola ‘Bourgeois’ indica un gusto banale e volgare, e non (come avviene in altri paesi continentali, come la Russia) il Capitalismo in generale. Ma questa è un’altra storia, come dice il signor Kipling.”
 
 Henry Bensington posò il foglio di carta, molto soddisfatto. Quello era proprio ciò che avrebbe dovuto usare per colpirli! Prese il telefono, chiese un appuntamento con Lord Borstal e lo ottenne per quel giorno stesso; durante il pranzo fece ulteriori progressi nella trattativa. La settimanale di scarso valore pubblicata da quel nobile attaccava duramente Bourrot, suscitando una pioggia di lettere sia di protesta che di accordo. L’editore Holloway pubblicò in qualche modo delle scuse per l’atteggiamento assunto, riconoscendo la grandezza di Bourrot, ma continuando a protestare contro le esagerazioni riguardanti il suo genio straniero, sostenendo anche che avevano sentito dire che il movimento “Vieni in Gran Bretagna”, – il resto del testo parlava dei nostri hotel provinciali come dei migliori al mondo.
 
@@ -3710,7 +3710,7 @@ CHAPTER VI
 
 VERECUNDIA, FIFTEENTH MARCHIONESS, etc., κ.τ.λ, derived, as her name implies, from the exotic regions. She was mainly of the Blood indeed; she was of the Nordic breed and of the island race, for all she knew or I know or anyone else knows. For her late father’s name — or that by which he had been last known in life — was Wugg. Her mother’s origin is forgotten, but from the daughter’s appearance some maintain that the forgotten lady must have had in her some rich southern strain. Yet was Verecundia not of British training. This father of hers had acquired his colossal fortune through the exploitation, rather than the discovery, of the Manium deposits in the Paramooka Islands of the Pacific, at a moment when he was passing under the name of Wonks, though there were earlier friends who gave him another name sounding more like. Malchedo. But the world in which he continued to move is not in the way of asking questions.
 
-It is enough for you to know that after he had died worth twenty millions, and after his energetic sole daughter and heiress had burst upon London, [[Paris]], the Riviera, and Deauville, no questions were asked either. She had the only two things needful, the second of which is a masterful mind, though perhaps I ought to add a third — for a woman of her age — which is good health. She was as strong as a horse.
+It is enough for you to know that after he had died worth twenty millions, and after his energetic sole daughter and heiress had burst upon London, [[settings/paris|Paris]], the Riviera, and Deauville, no questions were asked either. She had the only two things needful, the second of which is a masterful mind, though perhaps I ought to add a third — for a woman of her age — which is good health. She was as strong as a horse.
 
 As to the Marquis, we need not trouble about him. He went off the mortal stage ten years ago, and his son and heir was still at Eton. Managing though she was, and energetic though she was, and even over-bearing, the great strapping woman was not unkind, and she deserved her friends quite as much as she purchased them.
 
@@ -3722,7 +3722,7 @@ The elder companion had been known as Elless for many years by the same said equ
 
 So there she was supporting Verecundia, Fifteenth Marchioness, etcetera, and being supported in turn; and so was little Ardee, and between them they were called the Two Dees; and they followed Verecundia about whithersoever she went, and did all the donkey work, each in her own way.
 
-The life of Verecundia, Fifteenth Thingumbob, should have been perfect. At least twenty millions of money (some people called it twelve, but they were wrong), health, as I have said, plenty of guts (if you will excuse the expression), not a bad heart, and full of a zest in living which made her run after things like a hound. But there was a fly in her ointment. The fly was a bitter one; and yet to hear his name you would never have guessed that there was anything troublesome about him. He was (stand by for it) Hardham, Duque de Emonsillado y Palomar y Manuada y Bo. He lived disgracefully in the worst world of Under-[[Paris]], Under-Monte Carlo, Under-Biarritz — drenched in the air of Whisky, Fizz, New Packs of Cards every night, touts, horses and the Very Bad.
+The life of Verecundia, Fifteenth Thingumbob, should have been perfect. At least twenty millions of money (some people called it twelve, but they were wrong), health, as I have said, plenty of guts (if you will excuse the expression), not a bad heart, and full of a zest in living which made her run after things like a hound. But there was a fly in her ointment. The fly was a bitter one; and yet to hear his name you would never have guessed that there was anything troublesome about him. He was (stand by for it) Hardham, Duque de Emonsillado y Palomar y Manuada y Bo. He lived disgracefully in the worst world of Under-[[settings/paris|Paris]], Under-Monte Carlo, Under-Biarritz — drenched in the air of Whisky, Fizz, New Packs of Cards every night, touts, horses and the Very Bad.
 
 And how did he come to have anything to do with Verecundia, or Verecundia with him?
 
@@ -3736,7 +3736,7 @@ When the old lady met him (it was in a gambling hell rather than a casino) she h
 
 With us, I say, that marriage would have been a Romance of the Peerage, but in Spain, where they are more old-fashioned, it had the singular effect of preventing her going back home. They made it too hot for her — and for him. So there he was, twenty years before this admirable story opens, and already Duque de Emonsillado etcetera, with the right to wear his hat before the King of the Two Worlds in the Palace or even in the Escorial; but under this unfortunate drawback, that there were orders to arrest him should he pass the frontier — for the Court would stand no nonsense, and they had a record against the poor fellow.
 
-However, they could not touch his money, and that was the principal thing. Thus he had all that he wanted, by way of a splendid Hotel in [[Paris]], and by way of a little marble palace on the right side of Nice, and away from the noise; and a huge big house in Belgrave Square. But to this last he hardly ever went, for when he came to London he preferred to take a whole great string of rooms in whatever was the noisiest and most expensive hotel of the moment.
+However, they could not touch his money, and that was the principal thing. Thus he had all that he wanted, by way of a splendid Hotel in [[settings/paris|Paris]], and by way of a little marble palace on the right side of Nice, and away from the noise; and a huge big house in Belgrave Square. But to this last he hardly ever went, for when he came to London he preferred to take a whole great string of rooms in whatever was the noisiest and most expensive hotel of the moment.
 
 And the reason that he growled about coming to London, and that when he went there he stayed defiantly in hotels, was this:
 
@@ -3753,11 +3753,11 @@ At any rate, there things stood; and Verecundia queened it over London, while po
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VI
+CAPITOLO VI
 
 VERECUNDIA, quindicesima marchesa, ecc., come suggerisce il suo nome, proveniva da regioni esotiche. Era effettivamente di sangue nobile; apparteneva alla razza nordica e all’etnia insulare, per quanto lei stessa, io o chiunque altro sappiamo. Il nome del suo defunto padre – o quello con cui era conosciuto in vita sua – era Wugg. L’origine di sua madre è andata perduta, ma dall’aspetto della figlia alcuni ritengono che quella signora debba aver avuto nelle vene qualche traccia di sangue meridionale. Tuttavia, Verecundia non ricevette un’educazione britannica. Suo padre aveva accumulato una fortuna enorme sfruttando, piuttosto che scoprendo, i giacimenti di Manium nelle isole Paramooka del Pacifico; in quel periodo si faceva chiamare Wonks, anche se alcuni suoi amici lo conoscevano con un altro nome, più simile a Malchedo. Ma il mondo in cui continuò a vivere non era certo quello adatto per porre domande.
 
-Basta che tu sappia che, dopo la sua morte avvenuta con un patrimonio di venti milioni, e dopo che sua figlia unica ed erede era arrivata a Londra, [[Paris|Parigi]], sulla Riviera e a Deauville, nessuna domanda fu posta. Lei possedeva le due cose essenziali: la seconda delle quali è una mente eccezionale. Anche se forse dovrei aggiungere una terza per una donna della sua età: la buona salute. Era forte come un cavallo.
+Basta che tu sappia che, dopo la sua morte avvenuta con un patrimonio di venti milioni, e dopo che sua figlia unica ed erede era arrivata a Londra, [[settings/paris|Parigi]], sulla Riviera e a Deauville, nessuna domanda fu posta. Lei possedeva le due cose essenziali: la seconda delle quali è una mente eccezionale. Anche se forse dovrei aggiungere una terza per una donna della sua età: la buona salute. Era forte come un cavallo.
 
 Per quanto riguarda il Marchese, non c’è bisogno di preoccuparsi per lui: è morto dieci anni fa, e suo figlio ed erede era ancora a Eton. Nonostante fosse una donna energica, decisa e talvolta anche autoritaria, non era affatto crudele; meritava davvero i suoi amici, tanto quanto ne aveva conquistati.
 
@@ -3783,7 +3783,7 @@ Quando la vecchia signora lo incontrò (era in un luogo simile a un inferno del 
 
 Con noi, dico io, quel matrimonio sarebbe stato un esempio di nobiltà e romanticismo. Ma in Spagna, dove le usanze sono più tradizionali, ebbe l’effetto contrario: impedì alla donna di tornare a casa. Le circostanze diventarono troppo difficili per entrambi. E così eccolo lì: vent’anni prima che inizi questa meravigliosa storia, già Duca de Emonsillado e via dicendo, con il diritto di portare il cappello davanti al Re dei Due Mondi, sia nel Palazzo che nell’Escorial. Ma con questo spiacevole inconveniente: esistevano ordini di arrestarlo qualora avesse attraversato la frontiera. La Corte non tollerava scherzi, e avevano prove contro quel poveretto.
 
-Tuttavia, non potevano toccare i suoi soldi, ed era questo il punto principale. Così aveva tutto ciò che desiderava: un splendido hotel a [[Paris|Parigi]], un piccolo palazzo in marmo situato sul lato destro di Nizza, lontano dal rumore; e una enorme casa in Belgrave Square. Ma raramente andava in quella casa, perché quando arrivava a Londra preferiva affittare un intero blocco di stanze nell’hotel più rumoroso e costoso del momento.
+Tuttavia, non potevano toccare i suoi soldi, ed era questo il punto principale. Così aveva tutto ciò che desiderava: un splendido hotel a [[settings/paris|Parigi]], un piccolo palazzo in marmo situato sul lato destro di Nizza, lontano dal rumore; e una enorme casa in Belgrave Square. Ma raramente andava in quella casa, perché quando arrivava a Londra preferiva affittare un intero blocco di stanze nell’hotel più rumoroso e costoso del momento.
 
 E il motivo per cui si lamentava di dover venire a Londra, e perché, una volta arrivato lì, si ostinava a soggiornare negli hotel, era questo:
 
@@ -3851,7 +3851,7 @@ There was a good deal more to the same effect. Sir Henry read it thoughtfully th
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VII
+CAPITOLO VII
 
 Quando Verecundia fece la sua proposta, lo fece, come faceva per la maggior parte delle cose, in modo completo e accurato. Non era così sciocca da scrivere: chiamò al telefono; poi, accompagnata da quella piccola donna impegnata, andò a casa di Bensington insieme alla più giovane delle Due Dee.
 
@@ -4073,7 +4073,7 @@ Leggilo di nuovo tutto daccapo.
 
 Con un sospiro, immediatamente represso, lo Schiavo lo lesse di nuovo.
 
-#"Ora chiudi il tuo quaderno, mettilo da parte e ripeti quelle istruzioni a voce alta."
+"Ora chiudi il tuo quaderno, mettilo da parte e ripeti quelle istruzioni a voce alta."
 
 Lo Schiavo le ripeté esattamente come gli erano state insegnate. Le aveva imparate alla perfezione.
 
@@ -4081,7 +4081,7 @@ Lo Schiavo le ripeté esattamente come gli erano state insegnate. Le aveva impar
 
 Disse quelle parole “Aspetta lì!” in modo molto breve e deciso, come se ci fosse la minima possibilità che Chas. Goatcher potesse fare qualcos’altro! Passò attraverso la porta di ferro, e si sentì il rumore della chiave che girava nella serratura della cassaforte. Tornò indietro con il “A me Bourgeoise” e lo posò davanti al suo servitore.
 
-# Lo sai?
+Lo sai?
 
 Oh, sì, Chas. Goatcher lo sapeva molto bene. Durante lo spettacolo era stato due volte nelle stanze di Martin: una volta, se Sir Henry se ne ricordava, per tenere d’occhio alcune persone, e l’altra volta per contare le entrate orarie. Henry Bensington annuì.
 
@@ -4097,7 +4097,7 @@ Lasciò l’opera d’arte appoggiata sul tavolo davanti agli occhi preoccupati 
 
 Chas. Goatcher glielo porse docilmente. Il suo padrone sfogliò rapidamente le pagine appena scritte, le strappò via con violenza e le gettò nel fuoco, osservandole bruciare lentamente. Solo quando l’ultima traccia di bianco si era trasformata in cenere nera distolse lo sguardo da quel documento. Poi si rivolse al “Signore Decaduto” e disse:
 
-# Resta lì! Non muoverti finché non torno!
+Resta lì! Non muoverti finché non torno!
 
 Uscì, portando con sé l’opera d’arte; si potevano sentire i suoi movimenti, il rumore di fogli che venivano spostati e, dopo un po’, anche il fruscio di carta nell’ufficio esterno. Fu via per un bel po’ e tornò con qualcosa delle dimensioni di un libro piuttosto grande, avvolto in due copie de “The Howl”, ben protetto da ogni lato; non solo era legato con del cordone, ma anche sigillato.
 
@@ -4207,7 +4207,7 @@ And Elless, who had command of the ear trumpet, supplemented the shock with a ne
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VIII
+CAPITOLO VIII
 
 Al suo ritorno a Norbolt House dopo l’intervista con Bensington, Verecundia era esausta per l’emozione. Le Due Dees si comportavano in modo nobile e dignitoso: guadagnavano il loro cibo e alloggio come vere donne troiane, senza mai mostrare quella petulanza tipica delle figure euripidee.
 
@@ -4401,7 +4401,7 @@ Erano passati cinque anni dalla sua ultima transazione con quel nobile potente: 
 
 Mentre teneva la lettera tra le dita prima di leggerla, pensò che dovesse esserci una ragione molto speciale per cui Sua Grazia aveva deciso di scrivere personalmente. Non era un’abitudine a cui fosse abituato; preferiva sempre utilizzare delle macchine. E quando aprì la lettera, capì perfettamente quella ragione: Sua Grazia disdegnava ogni tipo di subterfugio e andava dritta al punto.
 
-# Caro Harry,
+Caro Harry,
 
 “Non ti vedo da anni. Ma sono sicuro che tu sia ancora nel rosa. Guarda: devi tenerti quel Boujoys Arm per te, davvero. E non chiedermi il perché. Indica tu stesso la tua figura. Ma se non lo faccio, romperò tutto. Non telefonare: loro sentono tutto. Mandami semplicemente la tua ortografia.”
 
@@ -4639,7 +4639,7 @@ Bruised, weeping, in the last stages, he staggered up those dirty stone stairs, 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO IX
+CAPITOLO IX
 
 Ricorderai, lettore, che se quella tua deliziosa testa coperta di tegole non è una “Tête Linotte”, allora, in quella sera in cui Verecundia stava consultandosi con le sue due devote amiche, Chas. Goatcher era uscito, con l’ordine perentorio di comportarsi allegramente, di fischiare e persino di canticchiare.
 
@@ -4687,7 +4687,7 @@ Il signor Goatcher tremava; gli rimaneva abbastanza buon senso per ricordare che
 
 “Mie. Non so nemmeno come si chiama. Quella cosa che hai sotto il braccio. È mia.” E il signor Goatcher cercò di afferrarla.
 
-#"Lascia stare quella cosa!"
+"Lascia stare quella cosa!"
 
 “Yus, lascialo in pace! Che cosa stai facendo?” disse una terza persona che non aveva nulla a che fare con quel problema.
 
@@ -4797,7 +4797,7 @@ It was a good plan of campaign. I can’t remember whether I have said it before
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO X
+CAPITOLO X
 
 Il giorno dopo aver dato ordini a Mr. Goatcher e aver provato quella triste delusione riguardo a Lady Norbolt, Sir Henry Bensington entrò nel suo ufficio molto tardi, dopo essersi trattenuto troppo a pranzo con Lord Birmingham al Ritz. Lord Birmingham aveva già sentito la notizia: infatti, il piccolo Ardee l’aveva raccontata a Elless, che a sua volta l’aveva riferita alla duchessa madre, che poi l’aveva detto a Smithson, che l’aveva comunicato al autista, che a sua volta ne aveva parlato all’autista di Lord Birmingham, il quale finalmente ne era venuto a conoscenza, perché Lord Birmingham amava sempre ascoltare queste piccole storie divertenti. Infatti, aveva già iniziato a parlarne.
 
@@ -4880,13 +4880,13 @@ Era un buon piano di campagna. Non ricordo se l’abbia già detto prima, ma se 
 
 CHAPTER XI
 
-THERE ARE TWO men whom Charles Grant McCabe himself has called “the best picture-men in the continent of Europe.” He said “continent.” For without question in the British Isles Henry Bensington was the master of them all. These two men are M. Henri Caen of [[Paris]] and Mes Loisirs (a charming villa not far from Mentone), and Signor Carlo Alessandria, of anywhere you like, but generally of the Ritz Hotel in Madrid, the Ritz Hotel in [[Paris]], the Ritz Hotel in London, the Ritz Hotel in New York, and the Ritz Hotel in Rome — (if there is a Ritz Hotel in Rome; I forget).
+THERE ARE TWO men whom Charles Grant McCabe himself has called “the best picture-men in the continent of Europe.” He said “continent.” For without question in the British Isles Henry Bensington was the master of them all. These two men are M. Henri Caen of [[settings/paris|Paris]] and Mes Loisirs (a charming villa not far from Mentone), and Signor Carlo Alessandria, of anywhere you like, but generally of the Ritz Hotel in Madrid, the Ritz Hotel in [[settings/paris|Paris]], the Ritz Hotel in London, the Ritz Hotel in New York, and the Ritz Hotel in Rome — (if there is a Ritz Hotel in Rome; I forget).
 
 M. Henri Caen is so prosperous that he has a pied-à-terre in England to which he retires when he does us the honour of visiting these shores. It is a cottage called The Thatch, at King’s Worthy near Winchester. He makes no boast of it. He goes there to repose. His correspondence does not follow him.
 
 Signor Alessandria also has a pied-à-terre in England; it is a small house near Battle, called The Postern, the interior of which marvellously reproduces the effects of the XVth century. He makes no boast of it. He goes there to repose. His correspondence does not follow him.
 
-It is a witness to the universality of genius that these two great men should have sprung from origins so utterly different. M. Henri Caen, though actually born in Vienna, where his parents happened to be residing at the time (and where, in his childhood, he acquired the inestimable advantage of speaking the German tongue), was brought up by his parents from the age of fifteen to the age of twenty-two in [[Paris]]. At that age of twenty-two he boldly launched out upon the career which made him, in the eyes of a thousand others beside Mr. McCabe, deservedly famous.
+It is a witness to the universality of genius that these two great men should have sprung from origins so utterly different. M. Henri Caen, though actually born in Vienna, where his parents happened to be residing at the time (and where, in his childhood, he acquired the inestimable advantage of speaking the German tongue), was brought up by his parents from the age of fifteen to the age of twenty-two in [[settings/paris|Paris]]. At that age of twenty-two he boldly launched out upon the career which made him, in the eyes of a thousand others beside Mr. McCabe, deservedly famous.
 
 Signor Alessandria, upon the other hand, was born, of all places in the world, in Smyrna, where his parents happened to be residing at the time. His mother, and his father too, who were of doubtful origin, had German for a common language, so that the child had the inestimable advantage of acquiring that idiom in early youth. It was at the age of eighteen (what a proof of energy!) that from Malta, where his parents had for no less than three years become naturalized as British subjects, he set out upon that career which has made him in the eyes of a thousand others beside Mr. McCabe deservedly famous.
 
@@ -4909,15 +4909,15 @@ The result was the same. For each of these gentlemen, though their methods of st
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XI
+CAPITOLO XI
 
-Ci sono due uomini che lo stesso Charles Grant McCabe ha definito “i migliori fotografi del continente europeo”. Ha usato il termine “continente”, perché senza dubbio nelle Isole Britanniche Henry Bensington era il maestro di tutti. Questi due uomini sono il signor Henri Caen di [[Paris|Parigi]] e Mes Loisirs (una incantevole villa non lontano da Mentone), nonché il signor Carlo Alessandria, che, per quanto riguarda i luoghi in cui soggiorna, potrebbe essere ovunque; ma generalmente si trova all’Ritz Hotel di Madrid, all’Ritz Hotel di [[Paris|Parigi]], all’Ritz Hotel di Londra, all’Ritz Hotel di New York, e, forse, anche all’Ritz Hotel di Roma – se ne esiste uno; me lo sono dimenticato.
+Ci sono due uomini che lo stesso Charles Grant McCabe ha definito “i migliori fotografi del continente europeo”. Ha usato il termine “continente”, perché senza dubbio nelle Isole Britanniche Henry Bensington era il maestro di tutti. Questi due uomini sono il signor Henri Caen di [[settings/paris|Parigi]] e Mes Loisirs (una incantevole villa non lontano da Mentone), nonché il signor Carlo Alessandria, che, per quanto riguarda i luoghi in cui soggiorna, potrebbe essere ovunque; ma generalmente si trova all’Ritz Hotel di Madrid, all’Ritz Hotel di [[settings/paris|Parigi]], all’Ritz Hotel di Londra, all’Ritz Hotel di New York, e, forse, anche all’Ritz Hotel di Roma – se ne esiste uno; me lo sono dimenticato.
 
 Il signor Henri Caen è così benestante che possiede una proprietà in Inghilterra dove si ritira ogni volta che ci onora con la sua visita. Si tratta di una casetta chiamata “The Thatch”, situata vicino a Winchester. Non se ne vanta affatto; ci va semplicemente per riposare. La sua corrispondenza, invece, non lo segue lì.
 
 Anche il signor Alessandria possiede una proprietà in Inghilterra; si tratta di una piccola casa vicino a Battle, chiamata The Postern, la cui arredazione riproduce meravigliosamente gli stili del XV secolo. Lui non ne fa mai vanto; ci va soltanto per riposare. La sua corrispondenza, invece, non lo segue lì.
 
-È una testimonianza dell’universalità del genio il fatto che questi due grandi uomini siano nati da origini così completamente diverse. Monsieur Henri Caen, sebbene sia effettivamente nato a Vienna, dove i suoi genitori si trovavano in quel periodo (e dove, durante la sua infanzia, acquisì il vantaggio inestimabile di parlare il tedesco), fu cresciuto dai suoi genitori da quindici a ventidue anni a [[Paris|Parigi]]. A quell’età di ventidue anni intraprese con coraggio la carriera che lo rese, agli occhi di migliaia di persone oltre a Monsieur McCabe, meritatamente famoso.
+È una testimonianza dell’universalità del genio il fatto che questi due grandi uomini siano nati da origini così completamente diverse. Monsieur Henri Caen, sebbene sia effettivamente nato a Vienna, dove i suoi genitori si trovavano in quel periodo (e dove, durante la sua infanzia, acquisì il vantaggio inestimabile di parlare il tedesco), fu cresciuto dai suoi genitori da quindici a ventidue anni a [[settings/paris|Parigi]]. A quell’età di ventidue anni intraprese con coraggio la carriera che lo rese, agli occhi di migliaia di persone oltre a Monsieur McCabe, meritatamente famoso.
 
 D'altra parte, il signor Alessandria nacque, tra tutti i luoghi del mondo, a Smirne, dove i suoi genitori risiedevano all’epoca. Sia sua madre che suo padre, di origine dubbia, parlavano tedesco come lingua comune; per questo il bambino ebbe l’inestimabile vantaggio di imparare quella lingua fin da giovane. All’età di diciotto anni (che dimostrazione di energia!), lasciò Malta, dove i suoi genitori erano diventati cittadini britannici da almeno tre anni, e intraprese quella carriera che lo ha reso, agli occhi di migliaia di persone, altrettanto famoso quanto il signor McCabe.
 
@@ -5158,13 +5158,13 @@ M. Caen had hired a car from the Delgairn Arms, and had spent an hour or two in 
 
 “It is no good till I have dinner,” repeated M. Caen firmly. “And even then it is no good. I wait till it is daylight. Give him to me, I put him in my room. To-morrow I look at him and make sure, and give him back. But wait. I must pay what I promise, is it not?” And he smiled charmingly, and handed over the wad of notes.
 
-He had gone to dinner, and before sitting down had carelessly glanced for a moment to make certain (though he was certain already, dealing with such simple souls) that he had what he wanted. Even as he gave that glance, a Young [[Artist]] who had come to the hotel that afternoon, and who had been painting steadily as long as the daylight served, came into the dining-room and bowed to him.
+He had gone to dinner, and before sitting down had carelessly glanced for a moment to make certain (though he was certain already, dealing with such simple souls) that he had what he wanted. Even as he gave that glance, a Young [[archetypes/artist|Artist]] who had come to the hotel that afternoon, and who had been painting steadily as long as the daylight served, came into the dining-room and bowed to him.
 
 They were to dine together, he presumed, and M. Caen courteously agreed.
 
 They dined then, without undue haste, but M. Caen was worrying a little about the inn having no telephone. He even went so far as to say that an inn ought to have a telephone. The landlord came, apologetic, and said that there was no telephone nearer than the hotel opposite the station, three miles away; unless they went to ask leave for the one at the big house, and he would not like to do that.
 
-No, said M. Caen, there was no need to do that. After the coffee he would take the car to the station, and telephone. Wait! How far had the landlord said it was? Three miles? Oh, he would walk — and the Young [[Artist]] courteously offered to accompany him.
+No, said M. Caen, there was no need to do that. After the coffee he would take the car to the station, and telephone. Wait! How far had the landlord said it was? Three miles? Oh, he would walk — and the Young [[archetypes/artist|Artist]] courteously offered to accompany him.
 
 They set out together on that little expedition. M. Caen, while his friend was outside getting his hat and coat, had the presence of mind to put the little canvas under the big cape into which he had struggled. Then the two set out through the fine night.
 
@@ -5176,7 +5176,7 @@ When they reached the little hotel opposite the station M. Caen went in to telep
 
 “Will you tell the patron at the hotel at North Merton that I have to go to-night, urgent, but re-come to-morrow — I re-come to-morrow, quick-early; eh?”
 
-“I’m sorry you’re going,” said the [[Artist|artist]], “but I’ll certainly do it. I hope it’s not bad news?”
+“I’m sorry you’re going,” said the [[archetypes/artist|artist]], “but I’ll certainly do it. I hope it’s not bad news?”
 
 “Oh, no, not that, but urgent,” answered M. Caen, again with a worried look. “I vill go and find the train. There will be some train this night...
 
@@ -5235,13 +5235,13 @@ Il signor Caen aveva noleggiato un’auto presso il Delgairn Arms e aveva trasco
 
 “Non serve a nulla finché non ho cenato,” ripeté con fermezza il signor Caen. “E anche allora non basta. Aspetto che faccia giorno. Dammelo, lo metterò nella mia stanza. Domani lo controllerò e poi lo restituirò. Ma aspetta. Devo mantenere la mia promessa, vero?” E sorrise in modo affascinante, porgendo il mazzo di banconote.
 
-Era andato a cena e, prima di sedersi, aveva gettato uno sguardo distratto per assicurarsi (sebbene ne fosse già certo, trattandosi di persone così semplici) di avere ciò che voleva. Proprio mentre lo faceva, un giovane [[Artist|artista]] che era arrivato in hotel quel pomeriggio e aveva continuato a dipingere finché c'era luce entrò nel ristorante e gli fece un inchino.
+Era andato a cena e, prima di sedersi, aveva gettato uno sguardo distratto per assicurarsi (sebbene ne fosse già certo, trattandosi di persone così semplici) di avere ciò che voleva. Proprio mentre lo faceva, un giovane [[archetypes/artist|artista]] che era arrivato in hotel quel pomeriggio e aveva continuato a dipingere finché c'era luce entrò nel ristorante e gli fece un inchino.
 
 Presumibilmente avrebbero dovuto cenare insieme, e il signor Caen acconsentì cortesemente.
 
 Si misero a tavola senza fretta eccessiva, ma il signor Caen era un po’ preoccupato perché l’ostello non aveva telefono. Arrivò persino ad affermare che un ostello dovrebbe disporre di un telefono. Il proprietario arrivò scusandosi e spiegò che il più vicino telefono si trovava nell’hotel di fronte alla stazione, a tre miglia di distanza; a meno che non andassero a chiedere l’autorizzazione per utilizzare quello della casa grande, ma lui non voleva farlo.
 
-“No,” disse il signor Caen, “non c’era bisogno di farlo. Dopo aver bevuto il caffè avrebbe preso l’auto per la stazione e avrebbe telefonato. Aspettate! Quanto aveva detto il proprietario? Tre miglia? Oh, avrebbe camminato. E il giovane [[Artist|Artista]] si offrì gentilmente di accompagnarlo.”
+“No,” disse il signor Caen, “non c’era bisogno di farlo. Dopo aver bevuto il caffè avrebbe preso l’auto per la stazione e avrebbe telefonato. Aspettate! Quanto aveva detto il proprietario? Tre miglia? Oh, avrebbe camminato. E il giovane [[archetypes/artist|Artista]] si offrì gentilmente di accompagnarlo.”
 
 Partirono insieme per quella piccola spedizione. M. Caen, mentre il suo amico era fuori a prendere cappello e cappotto, ebbe la presenza di spirito di mettere quel piccolo telo di canapa sotto il grande mantello nel quale si era infilato a fatica. Poi i due partirono nella bella notte.
 
@@ -5253,7 +5253,7 @@ Quando arrivarono all' piccolo hotel di fronte alla stazione, il signor Caen ent
 
 “Potresti dire al proprietario dell’hotel a North Merton che devo andarmene stasera, per una questione urgente, ma tornerò domani. Tornerò molto presto, domani, eh?”
 
-“Mi dispiace che tu te ne vada,” disse l’[[Artist|artista]], “ma sicuramente lo farò. Spero non siano cattive notizie, ”
+“Mi dispiace che tu te ne vada,” disse l’[[archetypes/artist|artista]], “ma sicuramente lo farò. Spero non siano cattive notizie, ”
 
 “Oh, no, non quello, ma è urgente,” rispose il signor Caen, con un’espressione preoccupata. “Devo andare a cercare il treno. Ci sarà sicuramente qualche treno stasera, ”
 
@@ -5325,7 +5325,7 @@ Said the picture dealer to himself (whether in German, Maltese or Smyrna Greek):
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XII
+CAPITOLO XII
 
 Come due generali di altissimo genio che si muovono l’uno nelle vicinanze dell’altro, ognuno sospettando che il proprio rivale si trovi nei paraggi, così anche quei maestri della strategia commerciale, il signor Caen e il signor Alessandria, si trovavano in prossimità l’uno dell’altro quella piacevole serata estiva a North Merton. Infatti, mentre il signor Caen negoziava presso il Delgairn Arms per ottenere in prestito temporaneamente quel dipinto, il signor Alessandria (dopo aver telefonato al suo gentile ospite, il signor Delgairn) stava arrivando in auto a North Merton House per fare visita al giovane proprietario terriero. Proprio mentre Millie rifletteva su quella importante proposta, il signor Alessandria veniva fatto entrare nella casa di campagna dal gentile e disponibile “uomo strano” che, sebbene ateo (mi dispiace dirlo), ringraziò improvvisamente Dio, quasi con un sussurro, per la rapidità con cui i suoi piani stavano prendendo forma.
 
@@ -5514,7 +5514,7 @@ He turned the key, swung the door open, motioned the Temporary Odd Man to enter 
 
 * * * * * * *
 
-It was while young Mr. Delgairn had been enjoying those moments (alas! too brief) of brilliant conversation with Signor Alessandria at his own table that the Young [[Artist]], who had jumped into the carriage at Whitchell Station, was saying so genially to M. Caen, “Only just got it!” It was while young Mr. Delgairn and Signor Alessandria were taking their first sip of port that M. Caen was deciding, with the rapidity demanded by the occasion, how that occasion should be met. While he yet turned the problem over in his mind his companion met him half-way.
+It was while young Mr. Delgairn had been enjoying those moments (alas! too brief) of brilliant conversation with Signor Alessandria at his own table that the Young [[archetypes/artist|Artist]], who had jumped into the carriage at Whitchell Station, was saying so genially to M. Caen, “Only just got it!” It was while young Mr. Delgairn and Signor Alessandria were taking their first sip of port that M. Caen was deciding, with the rapidity demanded by the occasion, how that occasion should be met. While he yet turned the problem over in his mind his companion met him half-way.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5559,7 +5559,7 @@ Girò la chiave, aprì la porta, fece segno al “Temporaneo Uomo Strano” di e
 
 * * * * * * *
 
-Fu mentre il giovane signor Delgairn stava godendo di quei momenti (ahimè! troppo brevi) di intima conversazione con il signor Alessandria al proprio tavolo, che il giovane [[Artist|Artista]], che era salito sul treno alla stazione di Whitchell, disse gentilmente a M. Caen: “L’ho appena capito!” Fu proprio mentre il giovane signor Delgairn e il signor Alessandria stavano assaporando il loro primo sorso di porto, che M. Caen decise, con la rapidità richiesta dalla situazione, come affrontarla. Mentre ancora rifletteva sulla questione, il suo compagno lo interruppe a metà strada.
+Fu mentre il giovane signor Delgairn stava godendo di quei momenti (ahimè! troppo brevi) di intima conversazione con il signor Alessandria al proprio tavolo, che il giovane [[archetypes/artist|Artista]], che era salito sul treno alla stazione di Whitchell, disse gentilmente a M. Caen: “L’ho appena capito!” Fu proprio mentre il giovane signor Delgairn e il signor Alessandria stavano assaporando il loro primo sorso di porto, che M. Caen decise, con la rapidità richiesta dalla situazione, come affrontarla. Mentre ancora rifletteva sulla questione, il suo compagno lo interruppe a metà strada.
 
 
 
@@ -5570,9 +5570,9 @@ Fu mentre il giovane signor Delgairn stava godendo di quei momenti (ahimè! trop
 
 M. Caen made no reply.
 
-“That’s as it should be,” said the Young [[Artist]], crossing his legs and leaning back comfortably. “I don’t often go first, I can’t afford it; but when I saw you taking a first class ticket, I thought it would be a pity to miss your company. We’re all going the same way home.”
+“That’s as it should be,” said the Young [[archetypes/artist|Artist]], crossing his legs and leaning back comfortably. “I don’t often go first, I can’t afford it; but when I saw you taking a first class ticket, I thought it would be a pity to miss your company. We’re all going the same way home.”
 
-Still M. Caen was silent. The Young [[Artist]] went on, in the most self-possessed way in the world.
+Still M. Caen was silent. The Young [[archetypes/artist|Artist]] went on, in the most self-possessed way in the world.
 
 “I say,” he said, “can you put me up?”
 
@@ -5582,7 +5582,7 @@ M. Caen then at last spoke, slowly, and with pauses between each word.
 
 “No? I know you don’t. But, upon my soul, I don’t know where I can get put up for the night. We’re both getting out at Winchester, it’ll be very late, and I’ve got to go up to town early to-morrow morning. It’s quite on the cards that they won’t open to me at the inn — you see, I’ve got no luggage.”
 
-Again M. Caen was silent. He was thinking desperately. He remembered stories of gentlemen trapped in railway trains who had cut the knot by pushing their trapper out of the door. But there was quite twenty years between him and the genial Young [[Artist]]; besides which, England is a crowded country, and heavily over-policed. He bent forward and said hoarsely, in the same slow fashion:
+Again M. Caen was silent. He was thinking desperately. He remembered stories of gentlemen trapped in railway trains who had cut the knot by pushing their trapper out of the door. But there was quite twenty years between him and the genial Young [[archetypes/artist|Artist]]; besides which, England is a crowded country, and heavily over-policed. He bent forward and said hoarsely, in the same slow fashion:
 
 “What — is — it — that — you — want?”
 
@@ -5625,9 +5625,9 @@ Before the bewildered Secretary could make a comment upon so astonishing a discr
 
 Il signor Caen non rispose.
 
-“È proprio come dovrebbe essere,” disse il giovane [[Artist|Artista]], incrociando le gambe e appoggiandosi comodamente allo schienale. “Di solito non prendo il posto in prima classe, non me lo posso permettere; ma quando ho visto che avevi preso un biglietto di prima classe, ho pensato che sarebbe stato un peccato perderti compagnia. Dopo tutto, andiamo tutti nella stessa direzione.”
+“È proprio come dovrebbe essere,” disse il giovane [[archetypes/artist|Artista]], incrociando le gambe e appoggiandosi comodamente allo schienale. “Di solito non prendo il posto in prima classe, non me lo posso permettere; ma quando ho visto che avevi preso un biglietto di prima classe, ho pensato che sarebbe stato un peccato perderti compagnia. Dopo tutto, andiamo tutti nella stessa direzione.”
 
-M. Caen rimase ancora in silenzio. Il giovane [[Artist|Artista]] continuò a parlare, con la massima calma e compostezza possibile.
+M. Caen rimase ancora in silenzio. Il giovane [[archetypes/artist|Artista]] continuò a parlare, con la massima calma e compostezza possibile.
 
 “Dico,” disse lui, “potresti ospitarmi per la notte?”
 
@@ -5637,7 +5637,7 @@ Allora finalmente M. Caen parlò, lentamente, con pause tra ogni parola.
 
 “No? So che non lo sai. Ma, per la mia anima, non so dove potrò trovare un posto dove dormire stanotte. Entrambi scenderemo a Winchester, sarà molto tardi, e domani mattina devo andare in città presto. È molto probabile che non mi lascino entrare all’ostello, vedi, non ho bagagli con me.”
 
-Di nuovo il signor Caen rimase in silenzio. Stava pensando disperatamente. Ricordò storie di gentiluomini intrappolati nei treni che avevano tagliato i lacci per far uscire chi li aveva intrappolati dalla porta. Ma c'erano ben vent’anni di differenza tra lui e quel gioviale [[Artist|Artista]]; inoltre, l’Inghilterra è un paese affollato e fortemente sorvegliato dalla polizia. Si chinò in avanti e disse, con voce rauca e sempre nello stesso modo lento:
+Di nuovo il signor Caen rimase in silenzio. Stava pensando disperatamente. Ricordò storie di gentiluomini intrappolati nei treni che avevano tagliato i lacci per far uscire chi li aveva intrappolati dalla porta. Ma c'erano ben vent’anni di differenza tra lui e quel gioviale [[archetypes/artist|Artista]]; inoltre, l’Inghilterra è un paese affollato e fortemente sorvegliato dalla polizia. Si chinò in avanti e disse, con voce rauca e sempre nello stesso modo lento:
 
 “Cosa vuoi esattamente?”
 
@@ -5712,13 +5712,13 @@ The secretary came back. “It must have been recent, sir. We have posted him up
 
 * * * *
 
-At King’s Worthy the elderly and exhausted M. Caen, short of a night’s sleep, went off with his captor in the little hired car to Winchester station. But on one thing he had insisted. He was held on a leash... the Young [[Artist]] had no authority... and if anyone touched the picture save himself he would struggle, he would make it an assault and summon aid.
+At King’s Worthy the elderly and exhausted M. Caen, short of a night’s sleep, went off with his captor in the little hired car to Winchester station. But on one thing he had insisted. He was held on a leash... the Young [[archetypes/artist|Artist]] had no authority... and if anyone touched the picture save himself he would struggle, he would make it an assault and summon aid.
 
 He was willing to go quietly and to interview Bensington. But the Masterpiece was there, and it was an asset, and he was not going to let it go.
 
 He took the precaution of slipping the end of the string which bound it through a buttonhole in his coat, and knotting it; then he tucked the parcel under his arm, and held it firmly there all the way up to town and in the cab all the way to Bensington’s office in King Street.
 
-Thereinto was he ushered, just before the hour which the Young [[Artist]] had named in his telephone message — half-past two o’clock. The Young [[Artist]], with a courtesy worthy of a better cause, with the chivalric honour of an older world, allowed the French picture-dealer to enter Bensington’s office and presence alone. He softly shut the door, and went round himself to another compartment by a passage at the back — which other compartment was separated by a curtain only from the study where the interview was taking place.
+Thereinto was he ushered, just before the hour which the Young [[archetypes/artist|Artist]] had named in his telephone message — half-past two o’clock. The Young [[archetypes/artist|Artist]], with a courtesy worthy of a better cause, with the chivalric honour of an older world, allowed the French picture-dealer to enter Bensington’s office and presence alone. He softly shut the door, and went round himself to another compartment by a passage at the back — which other compartment was separated by a curtain only from the study where the interview was taking place.
 
 M. Caen and Henry Bensington faced each other. Caen with the Picture in its wrapping still under his arm. Bensington with hands in coat-pockets, resolute and ready.
 
@@ -5736,12 +5736,12 @@ It was the turn of M. Caen to speak. He spoke gently, and with perfect restraint
 
 M. Caen neither took it nor left it — he stood silent, considering the matter in his mind very carefully.
 
-He also was in the trade; he also knew very well what was meant by these periodical “thefts” of pictures; he also knew a great deal about Henry Bensington’s earlier life. But then he knew also a good deal about the English judicial system, about the powers of money in our society, about the advantages of living in England after being born in Cologne, compared with living in [[France]] after being born in Vienna. He turned the whole thing over in his admirably sane judgment, and he came to his conclusion.
+He also was in the trade; he also knew very well what was meant by these periodical “thefts” of pictures; he also knew a great deal about Henry Bensington’s earlier life. But then he knew also a good deal about the English judicial system, about the powers of money in our society, about the advantages of living in England after being born in Cologne, compared with living in [[settings/france|France]] after being born in Vienna. He turned the whole thing over in his admirably sane judgment, and he came to his conclusion.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XIII
+CAPITOLO XIII
 
 Quando Sir Henry Bensington entrò nella sua stanza all’ora esatta e puntuale, pronto a esaminare la sua corrispondenza, il suo segretario, quel prezioso collaboratore, gli mise davanti per primo i due messaggi telefonici. Egli giudicò correttamente che fossero necessari affrontarli immediatamente.
 
@@ -5775,19 +5775,19 @@ Il segretario tornò. “Deve essere successo di recente, signore. L’abbiamo i
 
 * * * *
 
-A King’s Worthy, il vecchio e stanco signor Caen, privo di sonno per tutta la notte, partì con il suo rapitore in quella piccola auto noleggiata verso la stazione di Winchester. Ma su una cosa aveva insistito: voleva che il quadro fosse tenuto al guinzaglio. Il giovane [[Artist|Artista]] non aveva alcun potere su di esso. E se qualcuno, tranne lui stesso, avesse toccato il dipinto, lui si sarebbe ribellato, avrebbe considerato quel gesto un’aggressione e avrebbe chiamato aiuto.
+A King’s Worthy, il vecchio e stanco signor Caen, privo di sonno per tutta la notte, partì con il suo rapitore in quella piccola auto noleggiata verso la stazione di Winchester. Ma su una cosa aveva insistito: voleva che il quadro fosse tenuto al guinzaglio. Il giovane [[archetypes/artist|Artista]] non aveva alcun potere su di esso. E se qualcuno, tranne lui stesso, avesse toccato il dipinto, lui si sarebbe ribellato, avrebbe considerato quel gesto un’aggressione e avrebbe chiamato aiuto.
 
 Era disposto ad agire in silenzio e a intervistare Bensington. Ma l’“Capolavoro” era lì, rappresentava un bene prezioso, e non aveva intenzione di lasciarlo andare.
 
 Prese la precauzione di infilare l’estremità della corda che legava il pacchetto attraverso una taschina del suo cappotto e di annodarla; poi se lo mise sotto il braccio, tenendolo saldamente fino a quando non arrivò in città e, successivamente, nella cabina dell’auto fino all’ufficio di Bensington in King Street.
 
-Fu fatto entrare proprio poco prima dell’ora indicata dal giovane [[Artist|Artista]] nel suo messaggio telefonico: le due e mezza. Il giovane [[Artist|Artista]], con una cortesia degna di cause più nobili, con l’onore cavalleresco di un mondo più antico, permise al commerciante d’arte francese di entrare da solo nell’ufficio e nella presenza di Bensington. Chiuse silenziosamente la porta e si recò in un altro locale attraverso un passaggio sul retro; quel locale era separato dallo studio dove avveniva l’incontro soltanto da una tenda.
+Fu fatto entrare proprio poco prima dell’ora indicata dal giovane [[archetypes/artist|Artista]] nel suo messaggio telefonico: le due e mezza. Il giovane [[archetypes/artist|Artista]], con una cortesia degna di cause più nobili, con l’onore cavalleresco di un mondo più antico, permise al commerciante d’arte francese di entrare da solo nell’ufficio e nella presenza di Bensington. Chiuse silenziosamente la porta e si recò in un altro locale attraverso un passaggio sul retro; quel locale era separato dallo studio dove avveniva l’incontro soltanto da una tenda.
 
 M. Caen e Henry Bensington si fronteggiarono. Caen, con la tela ancora avvolta sotto il braccio; Bensington, con le mani nelle tasche del cappotto, deciso e pronto all’azione.
 
 Erano soli, a parte, naturalmente, il signor Appleton dietro le tende.
 
-# Henry Bensington parlava tedesco – fortunatamente una lingua comune per entrambi.
+Henry Bensington parlava tedesco – fortunatamente una lingua comune per entrambi.
 
 “Beh, signor Caen. Sarà così nobile da restituirmi le mie proprietà che tiene in suo possesso?”
 
@@ -5799,7 +5799,7 @@ Fu il turno di Monsieur Caen di parlare. Parlò con dolcezza e con perfetta mode
 
 Il signor Caen né la prese né la lasciò; rimase in silenzio, riflettendo molto attentamente sulla questione.
 
-Anche lui era nel settore; sapeva molto bene cosa si intendesse con questi “furti” periodici di quadri; conosceva inoltre molti dettagli sulla vita precedente di Henry Bensington. Ma conosceva anche molto bene il sistema giudiziario inglese, il potere del denaro nella nostra società, nonché i vantaggi di vivere in Inghilterra dopo essere nato a Colonia, rispetto a vivere in [[France|Francia]] dopo essere nato a Vienna. Analizzò tutta la situazione con il suo giudizio straordinariamente lucido e ragionevole, e arrivò alla sua conclusione.
+Anche lui era nel settore; sapeva molto bene cosa si intendesse con questi “furti” periodici di quadri; conosceva inoltre molti dettagli sulla vita precedente di Henry Bensington. Ma conosceva anche molto bene il sistema giudiziario inglese, il potere del denaro nella nostra società, nonché i vantaggi di vivere in Inghilterra dopo essere nato a Colonia, rispetto a vivere in [[settings/france|Francia]] dopo essere nato a Vienna. Analizzò tutta la situazione con il suo giudizio straordinariamente lucido e ragionevole, e arrivò alla sua conclusione.
 
 
 
@@ -6027,7 +6027,7 @@ He had not long to wait. Twelve had but just struck when there came a knock at t
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XIV
+CAPITOLO XIV
 
 Henry Bensington aveva scoperto, attraverso una lunga e fruttuosa carriera professionale, che quando la mente si trovava di fronte a un problema apparentemente insolubile, il modo migliore per affrontarlo era ignorarlo per qualche ora e poi tornarci sopra con nuove energie, grazie anche all’aiuto dell’amicizia e di conversazioni varie.
 
@@ -6191,7 +6191,7 @@ Quella sera, nel Grandee di Castiglia e Aragon c'era meno della solita arroganza
 
 Il Duca mostrò poco interesse. Continuò Morning Coat:
 
-#Hai sentito parlare di quel furto?
+Hai sentito parlare di quel furto?
 
 “Sì” – ancora senza alcun entusiasmo.
 
@@ -6543,7 +6543,7 @@ There was just that little interval of time without speech which separates the c
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XV
+CAPITOLO XV
 
 Anche mentre il gentile Gran Duca di Spagna consumava la sua colazione al Plantagenet, con gesti e smorfie tipici dei grandi carnivori, il vecchio ma cortese e risoluto signor Gabriel si ritrovò in privato con il prestigioso capo della sua professione. Sir Henry fu estremamente soddisfatto; raramente mostrava emozioni, ma in questa occasione arrivò persino a prendere la mano del signor Gabriel e stringerla calorosamente.
 
@@ -6616,7 +6616,7 @@ Mr. Gabriel bowed, very deeply, as though to Royalty. It was a great deal more t
 
 “Not at all, not at all, my dear Gabriel,” said Bensington, showing him to the door. “You deserve it.”
 
-As he went back alone to his desk, he tackled by himself what was much the worst point in the whole affair, the heart of the peril. Four human beings would be privy to the fact that he, Bensington, and Gabriel his colleague, had lied in any common statement or letter they might make or write on these matters, and if such statement appeared as evidence in Court, these four human beings would each know that Bensington had committed perjury. Now perjury is punishable by law. These four human beings were M. Caen, Signor Alessandria, the Bright Young [[Artist]] and the Temporary Odd Man.
+As he went back alone to his desk, he tackled by himself what was much the worst point in the whole affair, the heart of the peril. Four human beings would be privy to the fact that he, Bensington, and Gabriel his colleague, had lied in any common statement or letter they might make or write on these matters, and if such statement appeared as evidence in Court, these four human beings would each know that Bensington had committed perjury. Now perjury is punishable by law. These four human beings were M. Caen, Signor Alessandria, the Bright Young [[archetypes/artist|Artist]] and the Temporary Odd Man.
 
 For a moment Henry Bensington hesitated as to whether the servant at the inn or her sister, of whom he had been told the story, made a fifth and a sixth; but he decided that they could be eliminated. No one would know of them or wish to sub-pœna them, and people in that class never incriminate themselves: their one desire would be to keep out of the hands of the police.
 
@@ -6685,7 +6685,7 @@ Il signor Gabriel si inchinò molto profondamente, come davanti alla royalty. Er
 
 “Assolutamente no, assolutamente no, caro Gabriel,” disse Bensington, accompagnandolo verso la porta. “Te lo meriti.”
 
-Mentre tornava da solo al suo tavolo, affrontò da solo quella che era probabilmente la parte più grave di tutta la situazione: il cuore del pericolo stesso. Quattro persone avrebbero conosciuto il fatto che lui, Bensington e il suo collega Gabriel avevano mentito in qualsiasi dichiarazione o lettera riguardante queste questioni; e se tali dichiarazioni fossero apparse come prove in tribunale, quelle quattro persone avrebbero saputo con certezza che Bensington aveva commesso spergiuro. Ora, il spergiuro è punibile per legge. Queste quattro persone erano M. Caen, Signor Alessandria, il giovane e promettente [[Artist|artista]] e, l’uomo strano e temporaneo in quella situazione.
+Mentre tornava da solo al suo tavolo, affrontò da solo quella che era probabilmente la parte più grave di tutta la situazione: il cuore del pericolo stesso. Quattro persone avrebbero conosciuto il fatto che lui, Bensington e il suo collega Gabriel avevano mentito in qualsiasi dichiarazione o lettera riguardante queste questioni; e se tali dichiarazioni fossero apparse come prove in tribunale, quelle quattro persone avrebbero saputo con certezza che Bensington aveva commesso spergiuro. Ora, il spergiuro è punibile per legge. Queste quattro persone erano M. Caen, Signor Alessandria, il giovane e promettente [[archetypes/artist|artista]] e, l’uomo strano e temporaneo in quella situazione.
 
 Per un momento Henry Bensington esitò, chiedendosi se fosse stata la serva dell’ostello o sua sorella, a cui aveva raccontato tutta la storia, ad aver inventato altre versioni dei fatti; ma decise che entrambe potevano essere eliminate. Nessuno avrebbe mai saputo nulla di loro né avrebbe voluto denunciarle, e le persone di quella classe non si incriminavano mai: il loro unico desiderio era evitare di finire nelle mani della polizia.
 
@@ -6701,7 +6701,7 @@ Mentre era ancora in questo stato d’animo di fiducia, appena pochi minuti dopo
 
 Ancora una volta si trattava di un involucro recante lo stemma dei Plantageneti splendidamente inciso, e la scrittura illeggibile della mano incolta del Duca de Emonsillado. C'era scritto: “Il portatore aspetti!” Lesse il contenuto con un sorriso appena visibile sulle sue labbra serrate.
 
-# Caro vecchio Harry,
+Caro vecchio Harry,
 
 “Devo sistemare questa faccenda una volta per tutte. Quando ho saputo che la tua lettera era stata trovata, sono andato a prenderla, sai dove e da chi. Ora l’ho qui, al sicuro. Ma ascolta, Harry: prendi il mio suggerimento, lascialo con quella persona di cui parlo.” (I termini della lettera facevano chiaramente allusione a Bensington mentre lo leggeva.) “È una proposta seria e valida; puoi prenderla oggi stesso, se vuoi. Ho già organizzato tutto per l’arrivo del grosso assegno, ho informato la banca, quindi possono aspettarselo in qualsiasi momento. Ecco qui.”
 
@@ -6839,7 +6839,7 @@ Very pleased was Capstan to note that this essential friend was so far mollified
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XVI
+CAPITOLO XVI
 
 Quando il Duca de Emonsillado ricevette la nota breve ma cordiale e sufficiente di Sir Henry Bensington, ancora prima di leggerla, dal momento in cui aprì l’invio e vide il colore rosa del assegno restituito all’interno, il suo turbamento fu estremo. Dopo averla letta, il suo turbamento aumentò ancora di più. E si chiese, come aveva tutto il diritto di fare avendo esperienza dell’umanità in vari contesti e sotto diverse forme di comportamento, quale potesse essere questa grande idea.
 
@@ -6959,7 +6959,7 @@ A Parisian Master of the name of Bourrot (said Sir Anselm) — the Jury were wel
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XVII
+CAPITOLO XVII
 
 Tutto iniziò con un annuncio pubblico sui giornali, secondo cui Verecundia, marchesa di Norbolt, aveva acquistato l’opera famosa di Bourrot, “L’Amore Borghese”, che era finalmente stata ritrovata. Poi seguì una lettera di un avvocato pubblicata sui giornali, nella quale si protestava che “L’Ante Borghese” appartenesse in realtà a Sua Grazia il duca di Emonsillado, chiedendo quindi il ritiro di tale dichiarazione. La situazione proseguì con una controaffermazione pubblicata sui giornali dagli avvocati della marchesa di Norbolt.
 
@@ -7002,7 +7002,7 @@ For some weeks there was no trace of the picture, and hope of its recovery had b
 
 “Mr. Gabriel’s first act was to call immediately at Sir Henry Bensington’s office to inform him (privately) that the picture was found. He was told that Sir Henry was travelling and would not be back for three days.
 
-“Now I beg you to pay particular heed to what next happened. My Client, the Duke of Emonsillado, hearing of the discovery, was naturally anxious to judge for himself, and with the advice of experts, whether it was indeed the missing Masterpiece on the purchase of which he had already approached its owner. His Grace has a wide experience of cultivated art in all its forms, and has for years shown the most acute judgment in the acquisition of his priceless collection at the Villa Emonsillado in Southern [[France]]. He is not a man to act precipitately. He waited till the next day to call on Mr. Gabriel, who knew him well as a distinguished patron of Art. They long inspected the picture together, and though no real doubt remained, the Duke was allowed to have it for a few hours in his suite at the Plantagenet Hotel, where certain friends and experts might see it.
+“Now I beg you to pay particular heed to what next happened. My Client, the Duke of Emonsillado, hearing of the discovery, was naturally anxious to judge for himself, and with the advice of experts, whether it was indeed the missing Masterpiece on the purchase of which he had already approached its owner. His Grace has a wide experience of cultivated art in all its forms, and has for years shown the most acute judgment in the acquisition of his priceless collection at the Villa Emonsillado in Southern [[settings/france|France]]. He is not a man to act precipitately. He waited till the next day to call on Mr. Gabriel, who knew him well as a distinguished patron of Art. They long inspected the picture together, and though no real doubt remained, the Duke was allowed to have it for a few hours in his suite at the Plantagenet Hotel, where certain friends and experts might see it.
 
 “All was quite straightforward and indeed, if I understand aright, there is no complaint about this from the other side. Mr. Gabriel, who knew what a close friend the Duke was of Sir Henry Bensington’s, wrote to him telling him all that had happened. His Grace gave a receipt; the canvas was to be returnable at a moment’s notice, and he at once wrote himself to Sir Henry Bensington informing him of the loan, again offering to purchase (at the respectable figure of £20,000) and, of course, to hand the picture back immediately to its owner if sale was not intended.
 
@@ -7029,7 +7029,7 @@ Per alcune settimane non ci fu traccia del dipinto, e la speranza di recuperarlo
 
 Il primo atto del signor Gabriel fu chiamare immediatamente l’ufficio di sir Henry Bensington per informarlo, in privato, che il dipinto era stato trovato. Gli fu detto che sir Henry si trovava in viaggio e non sarebbe tornato per tre giorni.
 
-“Ora vi prego di prestare particolare attenzione a ciò che accadde dopo. Il mio cliente, il Duca di Emonsillado, appresa la notizia della scoperta, desiderava naturalmente giudicare personalmente, con l’aiuto di esperti, se si trattasse davvero dell’opera d’arte perduta per la quale aveva già contattato il suo proprietario. Sua Grazia possiede una vasta esperienza nell’arte coltivata in tutte le sue forme e, negli anni, ha dimostrato un acuto giudizio nell’acquisizione della sua inestimabile collezione presso la Villa Emonsillado, nel sud della [[France|Francia]]. Non è certo il tipo da agire in modo precipitoso: aspettò fino al giorno seguente per incontrare il signor Gabriel, che lo conosceva bene come distinto mecenate dell’arte. Esaminarono insieme il dipinto e, sebbene non rimanesse alcun dubbio, al Duca fu permesso di tenerlo per qualche ora nella sua suite all’Hotel Plantagenet, dove alcuni amici ed esperti poterono vederlo.”
+“Ora vi prego di prestare particolare attenzione a ciò che accadde dopo. Il mio cliente, il Duca di Emonsillado, appresa la notizia della scoperta, desiderava naturalmente giudicare personalmente, con l’aiuto di esperti, se si trattasse davvero dell’opera d’arte perduta per la quale aveva già contattato il suo proprietario. Sua Grazia possiede una vasta esperienza nell’arte coltivata in tutte le sue forme e, negli anni, ha dimostrato un acuto giudizio nell’acquisizione della sua inestimabile collezione presso la Villa Emonsillado, nel sud della [[settings/france|Francia]]. Non è certo il tipo da agire in modo precipitoso: aspettò fino al giorno seguente per incontrare il signor Gabriel, che lo conosceva bene come distinto mecenate dell’arte. Esaminarono insieme il dipinto e, sebbene non rimanesse alcun dubbio, al Duca fu permesso di tenerlo per qualche ora nella sua suite all’Hotel Plantagenet, dove alcuni amici ed esperti poterono vederlo.”
 
 “Tutto è stato piuttosto semplice; anzi, se ho capito bene, non ci sono alcune lamentele da parte dell’altra parte. Il signor Gabriel, che sapeva quanto il Duca fosse un caro amico di Sir Henry Bensington, gli scrisse raccontandogli tutto ciò che era accaduto. Sua Grazia rilasciò una ricevuta; la tela poteva essere restituita in qualsiasi momento, e il signor Gabriel scrisse immediatamente a Sir Henry Bensington per informarlo del prestito, offrendosi nuovamente di acquistarla al prezzo ragionevole di 20.000 sterline, e naturalmente promettendo di restituirla immediatamente al suo proprietario se non si intendesse venderla.”
 
@@ -7247,7 +7247,7 @@ Sir Rory iniziò il suo controesame con maggiore audacia rispetto a Gabriel, ma 
 
 “È la sua sepoltura.”
 
-# Qui il giudice Dove ritenne necessario intervenire:
+Qui il giudice Dove ritenne necessario intervenire:
 
 “Devo interrompere per un momento. Non sono del tutto chiaro sul preciso significato della tua espressione. Cosa intendi con ‘funerale’?”
 
@@ -7290,9 +7290,9 @@ CHAPTER XVIII
 
 EDWARD MOWLEM WAS approaching his sixtieth year, and had increased in presence and volume of body, voice and learning from at least his eighteenth, when he had left an obscure secondary school in the West Riding for a scholarship at Fareham College in the more distinguished of the two ancient Universities.
 
-As an undergraduate he had not been heard of, and was therefore free to study, took a very brilliant First, followed by a Research Fellowship and a year of intense study in Italy and [[France]], devoted entirely to dear old Art. He returned with a reputation and a bundle of facts so considerable that he was already in the first rank of the profession on which he had determined. He was eagerly snapped up by the Civil Service, and after passing through a number of lesser posts, had been appointed, long before he was forty, to the Curatorship of Oils, English Furniture and Lace at the Imperial Museum. When English furniture had been erected to a separate department (in order to do something for poor Jenny’s half-wit son Boko) Dr. Mowlem, as he now was, could devote himself entirely to his special subject. This, in the midst of a vast range of accurate knowledge throughout the whole field of Oil Painting, he had chosen in the special restricted limits of Modern French Symbolist Art.
+As an undergraduate he had not been heard of, and was therefore free to study, took a very brilliant First, followed by a Research Fellowship and a year of intense study in Italy and [[settings/france|France]], devoted entirely to dear old Art. He returned with a reputation and a bundle of facts so considerable that he was already in the first rank of the profession on which he had determined. He was eagerly snapped up by the Civil Service, and after passing through a number of lesser posts, had been appointed, long before he was forty, to the Curatorship of Oils, English Furniture and Lace at the Imperial Museum. When English furniture had been erected to a separate department (in order to do something for poor Jenny’s half-wit son Boko) Dr. Mowlem, as he now was, could devote himself entirely to his special subject. This, in the midst of a vast range of accurate knowledge throughout the whole field of Oil Painting, he had chosen in the special restricted limits of Modern French Symbolist Art.
 
-On that nobody could touch him. He was a Corresponding Member of the principal foreign Societies, and was admitted as at least an equal even by the jealous and insular academic world of [[Paris]]. He was writing Bourrot’s life, with access to all the documents. He had already published a lesser study immediately following on the Master’s death, which was the admitted authority throughout England and America, North Germany, Australasia, and all the more progressive, districts of the world, and which was not without a certain standing in [[Paris]], little as that Capital can appreciate anything thorough and profound.
+On that nobody could touch him. He was a Corresponding Member of the principal foreign Societies, and was admitted as at least an equal even by the jealous and insular academic world of [[settings/paris|Paris]]. He was writing Bourrot’s life, with access to all the documents. He had already published a lesser study immediately following on the Master’s death, which was the admitted authority throughout England and America, North Germany, Australasia, and all the more progressive, districts of the world, and which was not without a certain standing in [[settings/paris|Paris]], little as that Capital can appreciate anything thorough and profound.
 
 He was Sir Anselm’s great gun — 17-inch, finely mounted for the occasion, loaded and prepared to deal devastation and death in the ranks of the opposite side. He appeared loaded with a pile of monstrous tomes, pamphlets and loose papers, including his own brochure on the Master, and bore on top of all Andre’s large Catalogue Raisonné, which alone is sufficient to flatten all differing opinion to the earth.
 
@@ -7339,13 +7339,13 @@ The stricken Monarch of the Herd faced his adversary: “No, Sir Rory,” he sai
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XVIII
+CAPITOLO XVIII
 
 Edward Mowlem stava per compiere sessant’anni; il suo aspetto fisico, la voce e le sue conoscenze erano notevolmente migliorati rispetto all’età di diciotto anni, quando aveva lasciato una scuola secondaria poco conosciuta nella regione del West Riding per ottenere una borsa di studio presso il Fareham College, uno degli antichi atenei più prestigiosi.
 
-Durante gli anni di università non era stato particolarmente noto, quindi aveva la libertà di studiare a piacimento. Ottenne un risultato eccezionale nel primo esame, e successivamente ricevette una borsa di studio per proseguire i suoi studi in Italia e in [[France|Francia]], dedicandosi interamente all’arte. Tornò con una solida reputazione e una vasta conoscenza, tanto da essere immediatamente inserito tra i migliori esperti nel campo che aveva scelto di perseguire. Fu subito assunto dal servizio civile e, dopo aver ricoperto diverse posizioni minori, fu nominato, molto prima dei quarant’anni, curatore delle opere d’olio, degli arredi inglesi e del pizzo presso il Museo Imperiale. Quando gli arredi inglesi furono trasferiti in un dipartimento separato (per aiutare il figlio semi-intelligente di Jenny), il Dr. Mowlem poté dedicarsi interamente alla sua specializzazione: l’arte simbolista francese moderna, all’interno di una vasta gamma di conoscenze accurate nel campo della pittura ad olio.
+Durante gli anni di università non era stato particolarmente noto, quindi aveva la libertà di studiare a piacimento. Ottenne un risultato eccezionale nel primo esame, e successivamente ricevette una borsa di studio per proseguire i suoi studi in Italia e in [[settings/france|Francia]], dedicandosi interamente all’arte. Tornò con una solida reputazione e una vasta conoscenza, tanto da essere immediatamente inserito tra i migliori esperti nel campo che aveva scelto di perseguire. Fu subito assunto dal servizio civile e, dopo aver ricoperto diverse posizioni minori, fu nominato, molto prima dei quarant’anni, curatore delle opere d’olio, degli arredi inglesi e del pizzo presso il Museo Imperiale. Quando gli arredi inglesi furono trasferiti in un dipartimento separato (per aiutare il figlio semi-intelligente di Jenny), il Dr. Mowlem poté dedicarsi interamente alla sua specializzazione: l’arte simbolista francese moderna, all’interno di una vasta gamma di conoscenze accurate nel campo della pittura ad olio.
 
-In quel periodo nessuno poteva toccarlo. Era membro corrispondente delle principali società straniere e fu riconosciuto come un pari, anche dal geloso e chiuso mondo accademico di [[Paris|Parigi]]. Stava scrivendo la biografia di Bourrot, avendo accesso a tutti i documenti relativi. Aveva già pubblicato uno studio più breve subito dopo la morte del Maestro; tale studio era riconosciuto come l’autorità ufficiale in tutta l’Inghilterra e l’America, nella Germania settentrionale, in Australasia e in tutte le regioni più progressiste del mondo; aveva anche una certa influenza a [[Paris|Parigi]], sebbene quella capitale non apprezzasse molto ciò che fosse approfondito e significativo.
+In quel periodo nessuno poteva toccarlo. Era membro corrispondente delle principali società straniere e fu riconosciuto come un pari, anche dal geloso e chiuso mondo accademico di [[settings/paris|Parigi]]. Stava scrivendo la biografia di Bourrot, avendo accesso a tutti i documenti relativi. Aveva già pubblicato uno studio più breve subito dopo la morte del Maestro; tale studio era riconosciuto come l’autorità ufficiale in tutta l’Inghilterra e l’America, nella Germania settentrionale, in Australasia e in tutte le regioni più progressiste del mondo; aveva anche una certa influenza a [[settings/paris|Parigi]], sebbene quella capitale non apprezzasse molto ciò che fosse approfondito e significativo.
 
 Era l’arma principale di Sir Anselm: un cannone da 17 pollici, perfettamente montato per l’occasione, carico e pronto a seminare distruzione e morte tra le file avversarie. Sembrava essere riempito di una pila di enormi volumi, opuscoli e fogli sparsi, tra cui anche il suo stesso broglietto sul Maestro; in cima a tutto, portava il grande Catalogo Raisonné di Andre, che da solo sarebbe stato sufficiente per soffocare qualsiasi opinione contraria.
 
@@ -7375,7 +7375,7 @@ Già l'interrogatorio aveva causato danni: era stato scoperto che le dichiarazio
 
 Regnava un silenzio terribile; durante quel silenzio si sarebbe potuto sentire cadere un ago, e infatti si udì un piccolo squittio provenire da Miss Wiseman.
 
-#"Ora, signore! Non faccia aspettare la Corte!"
+"Ora, signore! Non faccia aspettare la Corte!"
 
 La risposta arrivò attutita, ma comunque potente.
 
@@ -7735,7 +7735,7 @@ She looked at him with a proper disdain, priced the squalor into which his recen
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO DICIANNOVE
+CAPITOLO DICIANNOVE
 
 Avrete sicuramente notato (se vi degnate di leggere questo libro) che anche durante quegli brevi anni felici trascorsi tra la vostra giovinezza e i giorni attuali in cui siete una giovane donna sposata, la vita umana non era caotica, ma seguiva un piano così regolare da far quasi credere nell’esistenza di una Provvidenza.
 
@@ -8011,7 +8011,7 @@ But there was no mistaking the dreamy, soft, inspired voice which replied. Verec
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XX
+CAPITOLO XX
 
 Due di questi membri di questa enigmatica triade erano nelle mani della donna insistente. Il terzo, quello che il Duca teneva in mano, era irraggiungibile. Ma comunque, non c’era alcuna altra concorrenza; e se ne fosse presentata una, beh, allora che andasse tutto al diavolo!
 
@@ -8090,7 +8090,7 @@ And now for two days on intensive press work, and then action!
 
 It was a fine crush and it did honour to Verecundia’s twenty millions. “Pig” Hamilton was there from the word go. The Barltons came early, which was a great favour, and both Bidderlings, the Indian ones and the one at the Treasury, and Dolly brought Jane with him as well, who was presented to the Royalties with some form, and George came too. Then there was Bailey Pott, and Harry Crutch and “Horse,” who was really grateful to Verecundia, because she had paid for his step up in the peerage, and he did anything she asked him, though he couldn’t stick these painting and writing fellahs (what?), and Ganzer the new attaché and Morino who hardly went anywhere — and his hostess’s eyes beamed at the sight of him; Worsebeach and Jaggers and his wife and her friend Jack Poole, and Kinky Beale — who was tight and tried not to show it — and Pirry who had just bought Sir Edward (out of Morning Star by Fancy That; and a wise speculation it was, for he was showing finely and the odds were hardening like glue). Poor old Lord Gunter came, and that was really kind of him. Yes! Verecundia meant it! Most of them thought he was dead. He must have made a great effort. The Prime Minister was somewhere about, but he was difficult to spot in such a crowd and not worth worrying about, anyhow; but Lady Sharp was another matter, and Verecundia pushed through to congratulate her loudly on the Election, and her little husband beamed. The Duke of St. Ives was specially welcome. He really had come to do honour to Bourrot’s name, Verecundia said; and he was so keen on it that he had brought Peach with him, and Verecundia was quite kind to her for a minute and so was Archie, but the Duke didn’t like it and Polly captured him — which was wise of her, for the Duke made scenes sometimes, then there was Mrs. Roebeck and Anna Bogles with her eyeglass and of course Gaby Wyoming, with two other film stars whose names I forget, and old Buster.
 
-But I mustn’t trouble you with any more of their names — you know them all. London’s a small place. Dear Archibald was there, of course; but the Curator wasn’t because he hadn’t been asked. Besides which, Elless had reported, after due research, that the old boy still had a black eye. It’s astonishing how long they take to heal after sixty. Monsieur Caen and Signor Alessandria were in great form. They had asked themselves. They found it always worked, and Verecundia was deeply impressed when Archibald had taken her aside and told her that Monsieur Caen was the greatest expert on Bourrot in [[France]], but still more so when Lady Sharp had told her later that Signor Alessandria had no equal in Italy. So Monsieur Caen and Signor Alessandria were given places of honour in the second row, behind the Royalty, when the audience was marshalled to its chairs in the crowded ballroom.
+But I mustn’t trouble you with any more of their names — you know them all. London’s a small place. Dear Archibald was there, of course; but the Curator wasn’t because he hadn’t been asked. Besides which, Elless had reported, after due research, that the old boy still had a black eye. It’s astonishing how long they take to heal after sixty. Monsieur Caen and Signor Alessandria were in great form. They had asked themselves. They found it always worked, and Verecundia was deeply impressed when Archibald had taken her aside and told her that Monsieur Caen was the greatest expert on Bourrot in [[settings/france|France]], but still more so when Lady Sharp had told her later that Signor Alessandria had no equal in Italy. So Monsieur Caen and Signor Alessandria were given places of honour in the second row, behind the Royalty, when the audience was marshalled to its chairs in the crowded ballroom.
 
 The thing had been done with all Lady Norbolt’s energy and thoroughness. She had grasped Henry Bensington’s colour scheme and reproduced it tenfold. The whole place was hung in black, covering windows and all the walls so amply as to fall in rich folds of heavy unreflecting velvet and trail by a foot and more upon the floor, the waxed parquet of which was lost under a black carpet of a pile as soft and deep as a mother’s love or the lowing of far kine at evening. And all the chairs were black.
 
@@ -8121,7 +8121,7 @@ E ora, per due giorni di intenso lavoro di stampa, e poi azione!
 
 Era un bel successo, e onorava davvero i venti milioni di Verecundia. “Pig” Hamilton era lì fin dall’inizio. I Barlton arrivarono presto, il che fu molto gentile da parte loro; anche i Bidderling, sia quelli indiani che quello del Tesoro, e Dolly portarono con sé Jane, che fu presentata alle autorità reali in qualche modo appropriato; c’era anche George. Poi c’erano Bailey Pott, Harry Crutch e “Horse”, che erano davvero grati a Verecundia perché aveva pagato per la loro promozione nella nobiltà, e facevano qualsiasi cosa lei gli chiedesse, anche se non riuscivano proprio a gestire quei pittori e scrittori stranieri. C’era anche Ganzer, il nuovo addetto diplomatico, e Morino, che quasi mai usciva di casa; gli occhi dell’ospite brillavano ogni volta che lo vedeva. C’erano anche Worsebeach, Jaggers e sua moglie, insieme a Jack Poole e Kinky Beale – che cercava disperatamente di non farlo vedere. E poi c’era Pirry, che aveva appena comprato Sir Edward. Una scommessa intelligente, perché le sue azioni stavano andando molto bene. Povero vecchio Lord Gunter. Era davvero gentile da parte sua venire. Sì! Verecundia lo voleva davvero così. La maggior parte di loro pensava che fosse morto. Dev’essere stato un grande sforzo per lui. Il Primo Ministro era da qualche parte, ma in mezzo a tutta quella folla era difficile trovarlo. E comunque non valeva la pena preoccuparsene. Ma Lady Sharp era un’altra storia. Verecundia si fece strada tra la folla per congratularsi con lei calorosamente per la sua elezione. E suo marito sorrideva felice. Il Duca di St. Ives fu particolarmente benvenuto. Aveva davvero voluto onorare il nome di Bourrot, disse Verecundia. Ed era così entusiasta che aveva portato con sé anche Peach. Verecundia fu molto gentile con lei per un momento. Lo stesso fece Archie. Ma al Duca non piacque. E Polly riuscì a catturare la sua attenzione. Il che fu saggio da parte sua. Perché a volte il Duca faceva scenate. C’erano anche Mrs. Roebeck, Anna Bogles con i suoi occhiali. E naturalmente Gaby Wyoming, insieme ad altre due star del cinema. E poi c’era vecchio Buster.
 
-Ma non dovrei disturbarvi con altri nomi loro: li conoscete tutti. Londra è un posto piccolo. Certo, c’era anche il caro Archibald; ma il curatore no, perché non era stato invitato. Inoltre, Elless aveva riferito, dopo accurate indagini, che quel vecchio ragazzo aveva ancora un occhio nero. È sorprendente quanto tempo ci voglia perché si guariscano, a sessant’anni. Monsieur Caen e Signor Alessandria erano in ottima forma. Si erano chiesti se questo metodo funzionasse sempre. Verecundia ne fu profondamente colpita quando Archibald le disse che Monsieur Caen era il più grande esperto di Bourrot in [[France|Francia]]; e ancora di più quando Lady Sharp le riferì in seguito che Signor Alessandria non aveva eguali in Italia. Così, durante la cerimonia, Monsieur Caen e Signor Alessandria furono posti in posizioni d’onore nella seconda fila, dietro alla famiglia reale, quando il pubblico fu fatto sedere nei saloni affollati del ballo.
+Ma non dovrei disturbarvi con altri nomi loro: li conoscete tutti. Londra è un posto piccolo. Certo, c’era anche il caro Archibald; ma il curatore no, perché non era stato invitato. Inoltre, Elless aveva riferito, dopo accurate indagini, che quel vecchio ragazzo aveva ancora un occhio nero. È sorprendente quanto tempo ci voglia perché si guariscano, a sessant’anni. Monsieur Caen e Signor Alessandria erano in ottima forma. Si erano chiesti se questo metodo funzionasse sempre. Verecundia ne fu profondamente colpita quando Archibald le disse che Monsieur Caen era il più grande esperto di Bourrot in [[settings/france|Francia]]; e ancora di più quando Lady Sharp le riferì in seguito che Signor Alessandria non aveva eguali in Italia. Così, durante la cerimonia, Monsieur Caen e Signor Alessandria furono posti in posizioni d’onore nella seconda fila, dietro alla famiglia reale, quando il pubblico fu fatto sedere nei saloni affollati del ballo.
 
 Tutto era stato fatto con tutta l’energia e la meticolosità di Lady Norbolt. Aveva compreso perfettamente lo schema cromatico scelto da Henry Bensington e lo aveva riprodotto dieci volte. L’intera stanza era tappezzata di nero: le finestre e tutte le pareti erano coperte da strati spessi di velluto nero, che si arricciavano sul pavimento per oltre un piede; il parquet lucido veniva così nascosto sotto quella morbida e profonda distesa di tessuto nero, simile all’amore di una madre o al muggito degli animali lontani alla sera. E tutte le sedie erano nere.
 
@@ -8274,7 +8274,7 @@ IN THE DEPTHS of the Plantagenet Hotel the Duke of Emonsillado meditated. Things
 
 If the case had gone against him there would have been nothing more to be said — or done. If it had gone against Verecundia every thing would be over and exactly as he had wanted it to be. But as things were, it was a muddle and it left a ragged edge.
 
-The Duke of Emonsillado was annoyed. Verecundia could trust to time and to her presence in London and to her power as a hostess. In a few years everybody in England would be taking for granted that her copy was the right one. Some few might drop a phrase less and less often about a disputed picture in the South of [[France]]. But what good was that?
+The Duke of Emonsillado was annoyed. Verecundia could trust to time and to her presence in London and to her power as a hostess. In a few years everybody in England would be taking for granted that her copy was the right one. Some few might drop a phrase less and less often about a disputed picture in the South of [[settings/france|France]]. But what good was that?
 
 Then once more, and I hope not for the last time, there came into this man’s life inspiration.
 
@@ -8328,7 +8328,7 @@ FINIS
 
 SUPER-EPILOGUE
 
-I ALWAYS LIKE my books to have a happy ending. And in case you should miss it, I will point it out as I have done before in other books. Everybody is happy at the end of this book. Verecundia is happy because, though she has paid twenty thousand pounds three times over, it is no more to her than twenty thousand pence, and she has got the Masterpiece(s), and there is no rival. The Duke is happy because he has got out of an impasse — twenty thousand up. Mr. Gabriel is happy because he has got five hundred pounds. Henry Bensington is very, very happy, because he has got plenty of money, a good digestion, and does everybody all round. The Young [[Artist]] is happy, the Temporary Odd Man is happy, Caen and Alessandria are fairly happy (at not having gone to jail); Ardee will be happy, and so will Elless, because Darling Verecundia is going to give each of them a nice little present. The Dowager is happy, because she has heard some still more abominable scandal. Even poor old Goatcher is happy, for, after all, he found the picture, didn’t he?
+I ALWAYS LIKE my books to have a happy ending. And in case you should miss it, I will point it out as I have done before in other books. Everybody is happy at the end of this book. Verecundia is happy because, though she has paid twenty thousand pounds three times over, it is no more to her than twenty thousand pence, and she has got the Masterpiece(s), and there is no rival. The Duke is happy because he has got out of an impasse — twenty thousand up. Mr. Gabriel is happy because he has got five hundred pounds. Henry Bensington is very, very happy, because he has got plenty of money, a good digestion, and does everybody all round. The Young [[archetypes/artist|Artist]] is happy, the Temporary Odd Man is happy, Caen and Alessandria are fairly happy (at not having gone to jail); Ardee will be happy, and so will Elless, because Darling Verecundia is going to give each of them a nice little present. The Dowager is happy, because she has heard some still more abominable scandal. Even poor old Goatcher is happy, for, after all, he found the picture, didn’t he?
 
 By the way, the policeman who watched the Duke so suspiciously in Chelsea is happy. He was warmly commended when they found out who the Duke was for not having done anything silly, and is now trusted on the most delicate work in the Parks.
 
@@ -8349,7 +8349,7 @@ Nelle profondità dell’Hotel Plantagenet, il Duca di Emonsillado rifletteva. L
 
 Se la situazione fosse andata contro di lui, non ci sarebbe stato più nulla da dire o fare. Se fosse andata contro Verecundia, tutto sarebbe finito esattamente come lui voleva che finisse. Ma così com'era, c'era confusione e qualcosa non era stato risolto completamente.
 
-Il Duca di Emonsillado era infastidito. Verecundia poteva contare sul tempo, sulla sua presenza a Londra e sul suo ruolo di padrona di casa. Tra pochi anni, tutti in Inghilterra avrebbero dato per scontato che la sua copia fosse quella autentica. Alcuni, forse, avrebbero smesso gradualmente di menzionare quella controversa opera d’arte situata nel Sud della [[France|Francia]]. Ma a cosa sarebbe servito tutto ciò?
+Il Duca di Emonsillado era infastidito. Verecundia poteva contare sul tempo, sulla sua presenza a Londra e sul suo ruolo di padrona di casa. Tra pochi anni, tutti in Inghilterra avrebbero dato per scontato che la sua copia fosse quella autentica. Alcuni, forse, avrebbero smesso gradualmente di menzionare quella controversa opera d’arte situata nel Sud della [[settings/france|Francia]]. Ma a cosa sarebbe servito tutto ciò?
 
 Poi, ancora una volta, e spero non per l’ultima volta, nell’esistenza di quell’uomo arrivò l’ispirazione.
 
@@ -8403,7 +8403,7 @@ Fine.
 
 Super-Epilogo
 
-A ME PIACE SEMPRE CHE i miei libri abbiano una fine felice. E nel caso ve ne dimentichiate, ve lo farò notare, proprio come ho fatto in altri libri. Alla fine di questo libro tutti sono felici: Verecundia è felice perché, anche se ha pagato ventimila sterline tre volte, per lei non significa nulla di più che ventimila pence; inoltre ha ottenuto l’opera d’arte senza rivali. Il Duca è felice perché si è liberato da una situazione difficile. Mr. Gabriel è felice perché ha guadagnato cinquecento sterline. Henry Bensington è molto, molto felice: ha abbastanza denaro, una buona salute e riesce a fare del bene a tutti. Anche il giovane [[Artist|artista]] è felice, così come l’“uomo strano” che appare nel libro. Caen e Alessandria sono abbastanza felici (perché non sono finiti in prigione); Ardee ed Elless saranno felici anche loro, perché la cara Verecundia gli regalerà un bel dono ciascuno. La duchessa è felice, perché ha sentito parlare di uno scandalo ancora più orribile. Anche povero vecchio Goatcher è felice: dopotutto, ha trovato il dipinto, no?
+A ME PIACE SEMPRE CHE i miei libri abbiano una fine felice. E nel caso ve ne dimentichiate, ve lo farò notare, proprio come ho fatto in altri libri. Alla fine di questo libro tutti sono felici: Verecundia è felice perché, anche se ha pagato ventimila sterline tre volte, per lei non significa nulla di più che ventimila pence; inoltre ha ottenuto l’opera d’arte senza rivali. Il Duca è felice perché si è liberato da una situazione difficile. Mr. Gabriel è felice perché ha guadagnato cinquecento sterline. Henry Bensington è molto, molto felice: ha abbastanza denaro, una buona salute e riesce a fare del bene a tutti. Anche il giovane [[archetypes/artist|artista]] è felice, così come l’“uomo strano” che appare nel libro. Caen e Alessandria sono abbastanza felici (perché non sono finiti in prigione); Ardee ed Elless saranno felici anche loro, perché la cara Verecundia gli regalerà un bel dono ciascuno. La duchessa è felice, perché ha sentito parlare di uno scandalo ancora più orribile. Anche povero vecchio Goatcher è felice: dopotutto, ha trovato il dipinto, no?
 
 A proposito, il poliziotto che osservava con sospetto il Duca a Chelsea è molto contento. È stato calorosamente lodato quando hanno scoperto chi fosse il Duca, per non aver commesso alcun errore, e ora gli viene affidato il compito più delicato nei parchi.
 

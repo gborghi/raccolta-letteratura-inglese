@@ -30,7 +30,7 @@ tags:
   - topos/open_road_homecoming
   - topos/book_of_nature
 ---
-*by Belloc*  ·  **Cluster:** [[Travel Writing · Pilgrimage · Landscape]]
+*by Belloc*  ·  **Cluster:** [[clusters/travel-writing-·-pilgrimage-·-landscape|Travel Writing · Pilgrimage · Landscape]]
 
 > [!abstract] 
 > Belloc's 1904 topographical and historical reconstruction of the Pilgrims' Way, the ancient east-west track along the North Downs between Winchester and Canterbury. Part meditation on the primal power of the Road and antiquity, part field diary, he walks and maps the route yard by yard to recover the lived experience of the earliest travellers.
@@ -41,11 +41,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Travel Writing]], [[History]], [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Tradition]], [[Nostalgia]], [[Nature]], [[Critique of Progress]], [[Memory and Time]]
-**Motifs:** [[Road]], [[Journey]], [[Fire]], [[Hill]]
-**Historical References:** [[Medieval England]], [[Arthurian Legend]]
-**Settings:** [[Rural England]], [[Medieval England (2)]]
-**Characters:** [[King Arthur]]
-**Archetypes:** [[Pilgrim]]
-**Topoi:** [[Open Road Homecoming]], [[Book of Nature]]
+**Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[concepts/history|History]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/tradition|Tradition]], [[concepts/nostalgia|Nostalgia]], [[concepts/nature|Nature]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/memory-and-time|Memory and Time]]
+**Motifs:** [[motifs/road|Road]], [[motifs/journey|Journey]], [[motifs/fire|Fire]], [[motifs/hill|Hill]]
+**Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/arthurian-legend|Arthurian Legend]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/medieval-england-(2)|Medieval England (2)]]
+**Characters:** [[characters/king-arthur|King Arthur]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/book-of-nature|Book of Nature]]

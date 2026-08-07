@@ -64,7 +64,7 @@ tags:
 
 # thursday
 
-*by Chesterton*  ·  **Cluster:** [[Unclustered]]
+*by Chesterton*  ·  **Cluster:** [[clusters/unclustered|Unclustered]]
 
 ## Testo / Text
 
@@ -75,21 +75,21 @@ tags:
 
 ## Connections
 
-**Historical References:** [[French Revolution]], [[Bible]], [[Christianity]], [[Greek Mythology]], [[Roman History]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]], [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/roman-history|Roman History]]
 
-**Forms & Genres:** [[Novel]], [[Detective Fiction]], [[Allegory]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/detective-fiction|Detective Fiction]], [[forms/allegory|Allegory]]
 
-**Archetypes:** [[Detective]], [[Trickster]], [[Rebel]], [[Satanic Figure]], [[Double Doppelganger]], [[Christ Figure]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/trickster|Trickster]], [[archetypes/rebel|Rebel]], [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/christ-figure|Christ Figure]]
 
-**Settings:** [[London]], [[River Thames]], [[Rural England]], [[Underworld Cave]], [[Sea (2)]], [[France]], [[Europe]]
+**Settings:** [[settings/london|London]], [[settings/river-thames|River Thames]], [[settings/rural-england|Rural England]], [[settings/underworld-cave|Underworld Cave]], [[settings/sea-(2)|Sea (2)]], [[settings/france|France]], [[settings/europe|Europe]]
 
-**Motifs:** [[Concealment Hidden Identity]], [[Clothing and Costume]], [[Light and Dark]], [[Eyes and Sight]], [[Fire]], [[Garden]], [[Sun]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/light-and-dark|Light and Dark]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/fire|Fire]], [[motifs/garden|Garden]], [[motifs/sun|Sun]]
 
-**Topoi:** [[Double]], [[World Upside Down]], [[Quest]], [[Katabasis Descent]], [[Theatrum Mundi]]
+**Topoi:** [[topoi/double|Double]], [[topoi/world-upside-down|World Upside Down]], [[topoi/quest|Quest]], [[topoi/katabasis-descent|Katabasis Descent]], [[topoi/theatrum-mundi|Theatrum Mundi]]
 
-**Themes & Concepts:** [[Order vs Chaos]], [[Appearance vs Reality]], [[Secrecy and Concealment]], [[Identity]], [[Fear]], [[Paradox]], [[Faith and Doubt]], [[Providence]], [[Anarchism]], [[History]]
+**Themes & Concepts:** [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/identity|Identity]], [[concepts/fear|Fear]], [[concepts/paradox|Paradox]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/providence|Providence]], [[concepts/anarchism|Anarchism]], [[concepts/history|History]]
 
-**Characters:** [[Gabriel Syme]], [[Lucian Gregory]], [[Sunday]], [[Rosamond Gregory]], [[The Secretary]], [[Dr. Bull]], [[Professor de Worms]], [[Marquis de St. Eustache]], [[Gogol]], [[Colonel Ducroix]]
+**Characters:** [[characters/gabriel-syme|Gabriel Syme]], [[characters/lucian-gregory|Lucian Gregory]], [[characters/sunday|Sunday]], [[characters/rosamond-gregory|Rosamond Gregory]], [[characters/the-secretary|The Secretary]], [[characters/dr.-bull|Dr. Bull]], [[characters/professor-de-worms|Professor de Worms]], [[characters/marquis-de-st.-eustache|Marquis de St. Eustache]], [[characters/gogol|Gogol]], [[characters/colonel-ducroix|Colonel Ducroix]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,11 @@ Punning, rhyme, and verbal coincidence recur throughout as devices that fuse ver
 
 <div class="concept-works" data-slug="motifs/wordplay"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/pun-(chesterton)|pun (Chesterton)]]
+- [[works/a-moral-alphabet-(belloc)|A Moral Alphabet (Belloc)]]
+
+</div>
+
 #graph/motif

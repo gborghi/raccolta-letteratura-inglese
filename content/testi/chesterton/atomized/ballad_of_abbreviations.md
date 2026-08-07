@@ -24,7 +24,7 @@ He will prove to you with figures why it pays so
 Beginning with his boyhood long ago.  
 When the slow-maturing anecdote is ripest,  
 He'll dictate it like a Board of Trade Report,  
-And because he has no [[Time|time]] to call a typist,  
+And because he has no [[motifs/time|time]] to call a typist,  
 He calls her a Stenographer for short.  
 
 He is never known to loiter or malinger,  
@@ -46,7 +46,7 @@ And his dwelling, which he says is an Apartment,
 Because he cannot stop to say a flat.  
 
 We may whisper of his wild precipitation,  
-That it's [[Speed|speed]] in rather longer than a span,  
+That it's [[characters/speed|speed]] in rather longer than a span,  
 But there really is a definite occasion  
 When he does not use the longest word he can.  
 When he substitutes, I freely make admission,  
@@ -67,7 +67,7 @@ Ti proverà con le cifre perché conviene tanto,
 cominciando dalla sua fanciullezza di tanto tempo fa.  
 Quando l'aneddoto a lenta maturazione è più maturo,  
 lo detterà come un Rapporto della Camera di Commercio,  
-e poiché non ha [[Time|tempo]] di chiamarla dattilografa,  
+e poiché non ha [[motifs/time|tempo]] di chiamarla dattilografa,  
 la chiama Stenografa, per far prima.  
 
 Non lo si vede mai gingillarsi o battere la fiacca,  
@@ -89,7 +89,7 @@ e della sua dimora, che egli chiama un Appartamento,
 perché non può fermarsi a dire un alloggio.  
 
 Possiamo bisbigliare della sua sfrenata precipitazione,  
-che è [[Speed|velocità]] protratta ben oltre una breve spanna,  
+che è [[characters/speed|velocità]] protratta ben oltre una breve spanna,  
 ma c'è davvero un'occasione precisa  
 in cui non usa la parola più lunga che può.  
 Quando sostituisce, lo ammetto candidamente,  
@@ -112,7 +112,7 @@ He will prove to you with figures why it pays so
 Beginning with his boyhood long ago.  
 When the slow-maturing anecdote is ripest,  
 He'll dictate it like a Board of Trade Report,  
-And because he has no [[Time|time]] to call a typist,  
+And because he has no [[motifs/time|time]] to call a typist,  
 He calls her a Stenographer for short.  
 
 He is never known to loiter or malinger,  
@@ -134,7 +134,7 @@ And his dwelling, which he says is an Apartment,
 Because he cannot stop to say a flat.  
 
 We may whisper of his wild precipitation,  
-That it's [[Speed|speed]] in rather longer than a span,  
+That it's [[characters/speed|speed]] in rather longer than a span,  
 But there really is a definite occasion  
 When he does not use the longest word he can.  
 When he substitutes, I freely make admission,  
@@ -155,7 +155,7 @@ Ti proverà con le cifre perché conviene tanto,
 cominciando dalla sua fanciullezza di tanto tempo fa.  
 Quando l'aneddoto a lenta maturazione è più maturo,  
 lo detterà come un Rapporto della Camera di Commercio,  
-e poiché non ha [[Time|tempo]] di chiamarla dattilografa,  
+e poiché non ha [[motifs/time|tempo]] di chiamarla dattilografa,  
 la chiama Stenografa, per far prima.  
 
 Non lo si vede mai gingillarsi o battere la fiacca,  
@@ -177,7 +177,7 @@ e della sua dimora, che egli chiama un Appartamento,
 perché non può fermarsi a dire un alloggio.  
 
 Possiamo bisbigliare della sua sfrenata precipitazione,  
-che è [[Speed|velocità]] protratta ben oltre una breve spanna,  
+che è [[characters/speed|velocità]] protratta ben oltre una breve spanna,  
 ma c'è davvero un'occasione precisa  
 in cui non usa la parola più lunga che può.  
 Quando sostituisce, lo ammetto candidamente,  

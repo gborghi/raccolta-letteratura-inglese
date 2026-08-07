@@ -14,4 +14,10 @@ The blunt, literal-minded diplomatist friend of Pond and Gahagan who serves as t
 
 <div class="concept-works" data-slug="characters/sir-hubert-wotton"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/mrpond-(chesterton)|MrPond (Chesterton)]]
+
+</div>
+
 #graph/character

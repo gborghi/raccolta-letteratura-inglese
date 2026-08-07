@@ -47,7 +47,7 @@ tags:
 
 # whats wrong
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > Chesterton's 1910 book-length work of social criticism arguing that modern society misdiagnoses its ills; it defends the family, property and tradition against industrialism, imperialism, feminism and mechanical schooling, and advances his distributist programme.
@@ -64,17 +64,17 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Common Man (2)]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Motifs:** [[Home]], [[Insects]], [[Machine]]
+**Motifs:** [[motifs/home|Home]], [[motifs/insects|Insects]], [[motifs/machine|Machine]]
 
-**Characters:** [[Jones]], [[Hudge]], [[Gudge]], [[Mrs. Grundy]], [[George Bernard Shaw]]
+**Characters:** [[characters/jones|Jones]], [[characters/hudge|Hudge]], [[characters/gudge|Gudge]], [[characters/mrs.-grundy|Mrs. Grundy]], [[historical-references/george-bernard-shaw|George Bernard Shaw]]
 
-**Topoi:** [[World Upside Down]]
-**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Critique of Progress]], [[Social Injustice]], [[Common Man]], [[Reform]], [[Education]], [[Marriage and Fidelity]], [[Satire of Society]], [[Class Conflict]], [[Nationalism and Patriotism]], [[Feminism]], [[Family]], [[Socialism]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Satire]], [[Nonfiction]]
-**Historical References:** [[Industrial Revolution]], [[Regency Georgian England]], [[French Revolution]], [[Puritanism]], [[Reformation]]
-**Settings:** [[Industrial City]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Themes & Concepts:** [[concepts/distributism|Distributism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/social-injustice|Social Injustice]], [[concepts/common-man|Common Man]], [[concepts/reform|Reform]], [[concepts/education|Education]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/satire-of-society|Satire of Society]], [[concepts/class-conflict|Class Conflict]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/feminism|Feminism]], [[concepts/family|Family]], [[concepts/socialism|Socialism]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/french-revolution|French Revolution]], [[historical-references/puritanism|Puritanism]], [[historical-references/reformation|Reformation]]
+**Settings:** [[settings/industrial-city|Industrial City]]
 
 ## Testo integrale / Full text
 

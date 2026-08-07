@@ -14,4 +14,10 @@ The disguised professional magician-turned-real-sorcerer whose confession of dab
 
 <div class="concept-works" data-slug="characters/the-conjurer"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/magic-(chesterton)|Magic (Chesterton)]]
+
+</div>
+
 #graph/character

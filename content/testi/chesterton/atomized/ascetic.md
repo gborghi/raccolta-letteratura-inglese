@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="ascetic" data-title="ascetic" data-chapter="" data-kind="intro"></span>
 
 
-THE [[Song|SONG]] OF THE STRANGE [[ascetic|ASCETIC]]  
+THE SONG OF THE STRANGE ASCETIC  
 
 If I had been a Heathen,  
 I'd have praised the purple vine,  
@@ -27,8 +27,8 @@ Exactly twice a day.
 
 If I had been a Heathen,  
 I'd have crowned Neaera's curls,  
-And filled my life with [[Love|love]] affairs,  
-My [[house]] with dancing girls;  
+And filled my life with [[motifs/love|love]] affairs,  
+My house with dancing girls;  
 But Higgins is a Heathen,  
 And to lecture rooms is forced,  
 Where his aunts, who are not married,  
@@ -53,19 +53,19 @@ And they put him in an oven,
 Just as if he were a pie.  
 
 Now who that runs can read it,  
-The [[Riddle|riddle]] that I write,  
+The [[forms/riddle|riddle]] that I write,  
 Of why this poor old sinner,  
 Should sin without delight-  
 But I, I cannot read it  
 (Although I run and run),  
-Of them that do not have the [[Faith|faith]],  
+Of them that do not have the [[concepts/faith|faith]],  
 And will not have the fun.  
 (G. K. Chesterton - 1913)
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-IL [[Song|CANTO]] DELLO STRANO [[ascetic|ASCETA]]  
+IL CANTO DELLO STRANO ASCETA  
 
 Fossi stato un Pagano,  
 avrei lodato la vite purpurea,  
@@ -78,8 +78,8 @@ esattamente due volte al giorno.
 
 Fossi stato un Pagano,  
 avrei incoronato i riccioli di Neèra,  
-e riempito la vita di [[Love|amori]],  
-la mia [[house|casa]] di fanciulle danzanti;  
+e riempito la vita di [[motifs/love|amori]],  
+la mia casa di fanciulle danzanti;  
 ma Higgins è un Pagano,  
 e in aule di conferenza è costretto,  
 dove le sue zie, che non sono maritate,  
@@ -104,12 +104,12 @@ e lo cacciano in un forno,
 proprio come fosse un pasticcio.  
 
 Ora chiunque corra può leggerlo,  
-l'[[Riddle|enigma]] che io scrivo,  
+l'[[forms/riddle|enigma]] che io scrivo,  
 del perché questo povero vecchio peccatore  
 debba peccare senza diletto—  
 ma io, io non so leggerlo  
 (per quanto corra e corra),  
-di coloro che non hanno la [[Faith|fede]],  
+di coloro che non hanno la [[concepts/faith|fede]],  
 e non vogliono avere lo spasso.  
 (G. K. Chesterton - 1913)
 
@@ -118,7 +118,7 @@ e non vogliono avere lo spasso.
 <span class="atom-split" data-atom="part--part_01" data-title="ascetic (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,concept/faith,form/riddle"></span>
 
 
-THE [[Song|SONG]] OF THE STRANGE [[ascetic|ASCETIC]]  
+THE SONG OF THE STRANGE ASCETIC  
 
 If I had been a Heathen,  
 I'd have praised the purple vine,  
@@ -131,8 +131,8 @@ Exactly twice a day.
 
 If I had been a Heathen,  
 I'd have crowned Neaera's curls,  
-And filled my life with [[Love|love]] affairs,  
-My [[house]] with dancing girls;  
+And filled my life with [[motifs/love|love]] affairs,  
+My house with dancing girls;  
 But Higgins is a Heathen,  
 And to lecture rooms is forced,  
 Where his aunts, who are not married,  
@@ -157,19 +157,19 @@ And they put him in an oven,
 Just as if he were a pie.  
 
 Now who that runs can read it,  
-The [[Riddle|riddle]] that I write,  
+The [[forms/riddle|riddle]] that I write,  
 Of why this poor old sinner,  
 Should sin without delight-  
 But I, I cannot read it  
 (Although I run and run),  
-Of them that do not have the [[Faith|faith]],  
+Of them that do not have the [[concepts/faith|faith]],  
 And will not have the fun.  
 (G. K. Chesterton - 1913)
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-IL [[Song|CANTO]] DELLO STRANO [[ascetic|ASCETA]]  
+IL CANTO DELLO STRANO ASCETA  
 
 Fossi stato un Pagano,  
 avrei lodato la vite purpurea,  
@@ -182,8 +182,8 @@ esattamente due volte al giorno.
 
 Fossi stato un Pagano,  
 avrei incoronato i riccioli di Neèra,  
-e riempito la vita di [[Love|amori]],  
-la mia [[house|casa]] di fanciulle danzanti;  
+e riempito la vita di [[motifs/love|amori]],  
+la mia casa di fanciulle danzanti;  
 ma Higgins è un Pagano,  
 e in aule di conferenza è costretto,  
 dove le sue zie, che non sono maritate,  
@@ -208,11 +208,11 @@ e lo cacciano in un forno,
 proprio come fosse un pasticcio.  
 
 Ora chiunque corra può leggerlo,  
-l'[[Riddle|enigma]] che io scrivo,  
+l'[[forms/riddle|enigma]] che io scrivo,  
 del perché questo povero vecchio peccatore  
 debba peccare senza diletto—  
 ma io, io non so leggerlo  
 (per quanto corra e corra),  
-di coloro che non hanno la [[Faith|fede]],  
+di coloro che non hanno la [[concepts/faith|fede]],  
 e non vogliono avere lo spasso.  
 (G. K. Chesterton - 1913)

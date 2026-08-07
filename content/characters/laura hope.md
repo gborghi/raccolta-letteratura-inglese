@@ -14,4 +14,10 @@ Smythe's fiancee, haunted by a jilted former suitor, at the center of 'The Invis
 
 <div class="concept-works" data-slug="characters/laura-hope"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/innocence-(chesterton)|innocence (Chesterton)]]
+
+</div>
+
 #graph/character

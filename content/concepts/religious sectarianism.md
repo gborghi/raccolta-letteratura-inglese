@@ -14,4 +14,11 @@ The Protestant-Catholic divide, epitomized by Belfast's Calvinist pride versus t
 
 <div class="concept-works" data-slug="concepts/religious-sectarianism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/irish-impressions-(chesterton)|Irish Impressions (Chesterton)]]
+- [[works/micah-clarke-(conan-doyle)|Micah Clarke (Conan Doyle)]]
+
+</div>
+
 #graph/concept

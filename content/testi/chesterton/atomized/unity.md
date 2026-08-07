@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="unity" data-title="unity" data-chapter="" data-kind="intro"></span>
 
 
-THE HIGHER [[unity|UNITY]]  
+THE HIGHER UNITY  
 
 The Rev. Isaiah Bunter has disappeared into the interior of the Solomon  
 Islands, and it is feared that he may have been devoured by the natives,  
@@ -48,12 +48,12 @@ And the crew of the Captain's gig.
 (G. K. Chesterton - 1914)  
 
 [The reference to "the crew of the Captain's gig" is from the poem "The Yarn  
-of the [[Nancy]] Bell" by Gilbert.]
+of the [[characters/nancy|Nancy]] Bell" by Gilbert.]
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-LA PIÙ ALTA [[unity|UNITÀ]]  
+LA PIÙ ALTA UNITÀ  
 
 Il Rev. Isaiah Bunter è scomparso nell'interno delle Isole Salomone, e si teme che possa essere stato divorato dagli indigeni, giacché vi è stato un notevole risveglio di usanze religiose tra i Polinesiani.--Un vero trafiletto tratto da un vero Giornale; solo i nomi sono mutati.  
 
@@ -84,14 +84,14 @@ e la ciurma del canotto del Capitano.
 (G. K. Chesterton - 1914)  
 
 [Il riferimento alla «ciurma del canotto del Capitano» è tratto dalla poesia «The Yarn  
-of the [[Nancy]] Bell» di Gilbert.]
+of the [[characters/nancy|Nancy]] Bell» di Gilbert.]
 
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="unity (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="character/nancy"></span>
 
 
-THE HIGHER [[unity|UNITY]]  
+THE HIGHER UNITY  
 
 The Rev. Isaiah Bunter has disappeared into the interior of the Solomon  
 Islands, and it is feared that he may have been devoured by the natives,  
@@ -125,12 +125,12 @@ And the crew of the Captain's gig.
 (G. K. Chesterton - 1914)  
 
 [The reference to "the crew of the Captain's gig" is from the poem "The Yarn  
-of the [[Nancy]] Bell" by Gilbert.]
+of the [[characters/nancy|Nancy]] Bell" by Gilbert.]
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-LA PIÙ ALTA [[unity|UNITÀ]]  
+LA PIÙ ALTA UNITÀ  
 
 Il Rev. Isaiah Bunter è scomparso nell'interno delle Isole Salomone, e si teme che possa essere stato divorato dagli indigeni, giacché vi è stato un notevole risveglio di usanze religiose tra i Polinesiani.--Un vero trafiletto tratto da un vero Giornale; solo i nomi sono mutati.  
 
@@ -161,4 +161,4 @@ e la ciurma del canotto del Capitano.
 (G. K. Chesterton - 1914)  
 
 [Il riferimento alla «ciurma del canotto del Capitano» è tratto dalla poesia «The Yarn  
-of the [[Nancy]] Bell» di Gilbert.]
+of the [[characters/nancy|Nancy]] Bell» di Gilbert.]

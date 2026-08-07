@@ -44,7 +44,7 @@ CHAP. I
 
 YOU MAY WELL call him Chap 1; for he is the first Chap I am going to talk about. Have no fear. He will not detain you long.
 
-He was walking briskly down Fifth Avenue in the City of [[New York]] on a rather too hot June day of the year 1979. He was a man of something over thirty, short, and broad-shouldered; with a new straw hat on his queer head, and a light grey suit off the hook. In his right hand he swung a small new and smart attaché case, bearing the letters L. Z. A close observer would have seen that on the corner of his handkerchief which just showed from his pocket were the letters D. M. — in red silk. But then I am not a close observer, and neither are you; so we will not dwell too much on that. A really curious enquirer, who should have waited till he swung his hat, would have seen in the crown of it, tastefully embossed, the gilt letters J. F.
+He was walking briskly down Fifth Avenue in the City of [[settings/new-york|New York]] on a rather too hot June day of the year 1979. He was a man of something over thirty, short, and broad-shouldered; with a new straw hat on his queer head, and a light grey suit off the hook. In his right hand he swung a small new and smart attaché case, bearing the letters L. Z. A close observer would have seen that on the corner of his handkerchief which just showed from his pocket were the letters D. M. — in red silk. But then I am not a close observer, and neither are you; so we will not dwell too much on that. A really curious enquirer, who should have waited till he swung his hat, would have seen in the crown of it, tastefully embossed, the gilt letters J. F.
 
 He had very pale green eyes, somewhat furtive though decided, too wide part, and with a Mongolian lift at the outer corners: high cheek bones, a round face, and a skin which might be called a dirty yellow or a delicate parchment, according to whether one were engaged in flattering him or no. His rather scanty straight hair, a little too long at the back, projected from the hat above recorded. He was clean-shaven. His left cheek carried the pronounced scar of a sabre-cut, now nearly ten years old.
 
@@ -88,7 +88,7 @@ He had to trust Evans (John). An experienced man. Same man as had gotten Sadie J
 
 He sat in tension and attempted to allay the torture of suspense by recalling his success — such as it was — up to that point.
 
-The Distributing Centre in France had cabled in code forty-eight hours before, that Z. (it was the only name they gave him) was in [[New York]], to their certain knowledge’; they must have his movements — probably for England. He had found his man at the Belton, signed on as Malder. He had spotted the name his quarry had gone under after slipping past the frontier from British Columbia. It was Davis. He knew, too, that on the books of the Paramount Hotel in Chicago it had been Hackenschmidt. Both very good names, but not much alike. That was good work for less than two days — and had cost — oh! Hell. Now, at the Belton it was Malder. He was certain that for the trip to Europe it would be a fourth name, quite different from any of the other three. It was essential that he should get it. They’d cabled three times again. It would lower his stock badly if he failed: he didn’t want to have to cable with only the berth and no name; the folk at the European end wouldn’t be cold sure on a number without a name to confirm it.... However, that’s all there was to it. It would be fixed in five minutes more. He looked at his watch. He had only to wait that minute and he’d know. Anyhow, he couldn’t cable till they’d seen the liner start and him aboard it, sure.
+The Distributing Centre in France had cabled in code forty-eight hours before, that Z. (it was the only name they gave him) was in [[settings/new-york|New York]], to their certain knowledge’; they must have his movements — probably for England. He had found his man at the Belton, signed on as Malder. He had spotted the name his quarry had gone under after slipping past the frontier from British Columbia. It was Davis. He knew, too, that on the books of the Paramount Hotel in Chicago it had been Hackenschmidt. Both very good names, but not much alike. That was good work for less than two days — and had cost — oh! Hell. Now, at the Belton it was Malder. He was certain that for the trip to Europe it would be a fourth name, quite different from any of the other three. It was essential that he should get it. They’d cabled three times again. It would lower his stock badly if he failed: he didn’t want to have to cable with only the berth and no name; the folk at the European end wouldn’t be cold sure on a number without a name to confirm it.... However, that’s all there was to it. It would be fixed in five minutes more. He looked at his watch. He had only to wait that minute and he’d know. Anyhow, he couldn’t cable till they’d seen the liner start and him aboard it, sure.
 
 The quarter of the hour came... and passed... and ten minutes. The hour struck by the fine old Colonial grandfather clock, which was the pride of the Club, and being younger than the Porter, kept better time. The head of the Great T. and J. Agency began to sweat. He asked out into the hall, asked them if they were certain no one had rung up; he jerked back again to the rooms, picked up an evening paper, couldn’t read it, threw it down again, jerked back again to the hall. The quarter past struck, and yet there was no message. He waited till the half hour, and by that time he was in a panic, There was not much more than an hour left before the Zeeland would sail.
 
@@ -124,7 +124,7 @@ When Richard Mallard (please to remember that it was his real name, for there ma
 
 It amused him not a little to observe the addressee jump perceptibly, like a man who hears a sudden shot. For Richard Mallard turned not only round but pale. His face turned round quicker than his body (it is always a bad sign!) and both in a sort of jump. He clutched Mr. Merriman’s arm, while there passed through his eyes in lightning succession the emotions of terror, bewilderment and resignation. For Richard Mallard had suffered great agony from interviewers lately, and indeed this was the reason of his hasty flight.
 
-“Eh? I say — what?” he gasped. “What do you want with me, eh?” And even as he said it, he looked round for avenues of escape. Then he added in a lower tone, taking the private [[Detective|detective]]’s arm and leading him aside, “Look here, you know, it’s no good you making “ a row here, in public — what?”
+“Eh? I say — what?” he gasped. “What do you want with me, eh?” And even as he said it, he looked round for avenues of escape. Then he added in a lower tone, taking the private [[archetypes/detective|detective]]’s arm and leading him aside, “Look here, you know, it’s no good you making “ a row here, in public — what?”
 
 They were in the comparative privacy of an interval between two boats opposite the saloon door on the off side from the quay, and in the comparative silence of a donkey engine which was rattling in a chain, two hooting tugs, the first warning bell, and a quantity of steam escaping from a hellish pipe along the after funnel.
 
@@ -182,9 +182,9 @@ Mr. Merriman thought rapidly, as is the fashion of his kind. It is a common tale
 
 If he stopped to bargain, the second bell might ring at any moment. On the other hand, if he bargained, who knows what the quarry might be good for? His Chief had told him nothing of the case; he only had the simple orders: “Find out the name attached to Berth 136 on the Zeeland, and make certain what the man is like.” And his Chief was not in the habit of making confidants of his subordinates. Now supposing this was a character whom “they” were “waiting for” on the other side? 136 was a swell nest and no mistake; only one berth and right on the promenade. Or supposing it was blackmail?
 
-He was on the point of using that great phrase, so familiar to the captains of industry, “Nothing doing!” when the first stroke of the second bell was heard; and long before its clanging had filled the [[Ship|ship]] he had swivelled over to the other phrase, equally familiar to the masters of the modern world: “Done with you! Oh! Boy!” And he frankly held out his hand, not in friendship, but to receive the goods.
+He was on the point of using that great phrase, so familiar to the captains of industry, “Nothing doing!” when the first stroke of the second bell was heard; and long before its clanging had filled the [[motifs/ship|ship]] he had swivelled over to the other phrase, equally familiar to the masters of the modern world: “Done with you! Oh! Boy!” And he frankly held out his hand, not in friendship, but to receive the goods.
 
-A huge roll came out from the inner pocket of Mr. Mallard’s excellent fight coat: and twenty V’s from its inwards were furtively, rapidly, slipped into the [[Detective|detective]]’s hand.
+A huge roll came out from the inner pocket of Mr. Mallard’s excellent fight coat: and twenty V’s from its inwards were furtively, rapidly, slipped into the [[archetypes/detective|detective]]’s hand.
 
 “Now, you’ll keep your word won’t you?” said the payer, with unfailing futility.
 
@@ -192,7 +192,7 @@ A huge roll came out from the inner pocket of Mr. Mallard’s excellent fight co
 
 It was essential that that picture should not appear. It was essential that his name should not be noised abroad. On the other hand, what reason had anyone to noise it abroad? He had always read in crook stories that people to whom it was essential that their names should not be noised abroad used another name. He remembered too late this habit of the anti-noising-abroad brigade. He cursed himself for having blurted out his name so childishly when he had asked for the chance of an empty berth. Why hadn’t he called himself De Vere?
 
-But yet again, why should his name be noised abroad? Who knew of it up there in [[New York]]; or anywhere, for that matter, except the place where he came from? It was quite a private affair. No doubt the stranger had told a true story, and all they wanted was pictures for their silly column, “Birds of Passage!”
+But yet again, why should his name be noised abroad? Who knew of it up there in [[settings/new-york|New York]]; or anywhere, for that matter, except the place where he came from? It was quite a private affair. No doubt the stranger had told a true story, and all they wanted was pictures for their silly column, “Birds of Passage!”
 
 But the picture! The picture! ‘ That was the rub. Nobody might care about him in New York; but the New York Sunday papers go a long way. My God! If they saw that picture down in travelling kit and on the steamboat deck, and that date to it!... But he was getting exhausted with all this worry. It was no good borrowing trouble. He tried to convince himself that the gentleman with the camera had told a true and simple tale, and that his motive had been no more than what he had said. He tried to convince himself that Shooter had enough honesty to act by his bribe.
 
@@ -322,7 +322,7 @@ It is time we got back to Chap 1. And what is more, it is time that you, Unfortu
 
 To answer these questions I must first present you a certain spectacle.
 
-About the time when the Zeeland, with the blameless Richard Mallard — Chap 2 — aboard of her, was going through the Dredged Channel into Southampton Water, Chap 1 was seated gazing with a fixed, unhappy stare out to sea from a pinnacle of rock on the Labrador coast; hoping against hope not for a sail nor even, in these days of Rotors, a smoke: but a [[Ship|ship]]. None appeared.
+About the time when the Zeeland, with the blameless Richard Mallard — Chap 2 — aboard of her, was going through the Dredged Channel into Southampton Water, Chap 1 was seated gazing with a fixed, unhappy stare out to sea from a pinnacle of rock on the Labrador coast; hoping against hope not for a sail nor even, in these days of Rotors, a smoke: but a [[motifs/ship|ship]]. None appeared.
 
 His tragic watch forcibly recalled the words of our great Imperial poet, who, after surveying the perils run by His Majesty’s representatives (and those of other Powers, for that matter) in Peking, the monstrous worry of the Legation in Bucharest, and the intolerable tedium of Teheran, has yet concluded that:
 
@@ -342,7 +342,7 @@ It is sometimes remarked by the disgruntled that our modern inventions always ha
 
 As to the troubles with new inventions (see above), Chalmers’ patent with the Dual Process had now for more than fifteen years, indeed, since the later part of 1962, replaced the Laston affair for wireless at sea. It was much more distinct, it was less affected by climatic conditions, and it needed less power. On the other hand, if the Dual Process, through some defect or jar, failed to synchronise, it was hopeless. Therefore every precaution was taken to prevent the Dual Process getting such a jar and failing to synchronise. Nor did it fail by the least fraction once in twenty thousand times. But that once came off with the Bergen, on the same day that she dropped her screw.
 
-Northward she drifted before the southerly rising wind; a few hours and there came down that interesting natural phenomenon, so soothing in the summer heats — a Newfoundland Bank fog. It added greatly to the anxiety of the gentleman who was responsible for the vessel, of the crew, and even of the passengers, the more intelligent of whom (and Chap 1 came very high up among these) had clearly guessed from the long absence of vibration that there was something wrong. There was. And to make matters a good deal worse, there came on the second night amid varying distant hoots, the hoot of something approaching too closely. The Bergen’s lamentable reply puzzled the first hooter, who wirelessed vigorously. The absence of a wireless answer puzzled him more. The attempt to guess the course of the Bergen’s hooting puzzled him worst of all. The [[Ship|ship]] appeared to be coming up north from the south. Who could be on such a course?
+Northward she drifted before the southerly rising wind; a few hours and there came down that interesting natural phenomenon, so soothing in the summer heats — a Newfoundland Bank fog. It added greatly to the anxiety of the gentleman who was responsible for the vessel, of the crew, and even of the passengers, the more intelligent of whom (and Chap 1 came very high up among these) had clearly guessed from the long absence of vibration that there was something wrong. There was. And to make matters a good deal worse, there came on the second night amid varying distant hoots, the hoot of something approaching too closely. The Bergen’s lamentable reply puzzled the first hooter, who wirelessed vigorously. The absence of a wireless answer puzzled him more. The attempt to guess the course of the Bergen’s hooting puzzled him worst of all. The [[motifs/ship|ship]] appeared to be coming up north from the south. Who could be on such a course?
 
 They never knew. For though the collision was a violent one, the ships sheered off. The Unknown, which had taken the main shock, was badly damaged but able to crawl back to Halifax; the Bergen slowly developed an increasing list to starboard and deepened a little by the head.
 
@@ -542,7 +542,7 @@ They had finished dinner. The broad daylight was turning mellow though the sun h
 
 “No, no; you wouldn’t know where they are” (they were in his pocket at that very moment); “I assure you, I’m delighted,” said Palmer, gently pushing him back into his seat. And so he was.
 
-He went at top speed through the train to the abandoned compartment. It would be a pity to allow a suspicious gap in time. He tried, like lightning, the larger leather bag of his amiable companion: it was locked. He tried the small despatch case: it was open — but it was disappointing. There were no “papers.” There was a magazine, a [[Detective|detective]] novel, a map of England and a guide book, and a spare handkerchief, but nothing that you could call “papers.” Unless — stay, yes, here was something.
+He went at top speed through the train to the abandoned compartment. It would be a pity to allow a suspicious gap in time. He tried, like lightning, the larger leather bag of his amiable companion: it was locked. He tried the small despatch case: it was open — but it was disappointing. There were no “papers.” There was a magazine, a [[archetypes/detective|detective]] novel, a map of England and a guide book, and a spare handkerchief, but nothing that you could call “papers.” Unless — stay, yes, here was something.
 
 It was a set of half-finished notes. Time pressed, but Mr. Palmer had a first-rate memory. He photographed on that memory of his the names jotted down.
 
@@ -874,7 +874,7 @@ Just on getting in Mallard had noticed a short, sturdy-looking man (who seemed t
 
 The thing was of no importance; it was but a casual glance at one out of a hundred such sights at that hour. But the man’s face was full in the light of the electric lamp, and was noticeable enough. After a moment the harassed Mallard forgot all about it. He gave the direction of his hotel, stepped in, and sank back morally exhausted.
 
-That short drive south and eastwards from Mayfair was not as short as it might have been, and perhaps someone more suspicious or with more knowledge of the world than this poor young rich man might have been intrigued when, to begin with, the taxi pulled up short at the corner of Mount Street. The driver laboriously got off the seat, taking plenty of time over it, put his head in at the window, and said he had quite forgotten the address to which he had to go. He might have been still more intrigued when, five hundred yards on, the vehicle stopped with a grinding noise, and the driver, jumping off once more, assured him that he would not be a moment, and began hitting things with some iron instrument or other. At last he was delivered safe and sound. But the [[Journey|journey]] had taken seven minutes more than it ought to have done.
+That short drive south and eastwards from Mayfair was not as short as it might have been, and perhaps someone more suspicious or with more knowledge of the world than this poor young rich man might have been intrigued when, to begin with, the taxi pulled up short at the corner of Mount Street. The driver laboriously got off the seat, taking plenty of time over it, put his head in at the window, and said he had quite forgotten the address to which he had to go. He might have been still more intrigued when, five hundred yards on, the vehicle stopped with a grinding noise, and the driver, jumping off once more, assured him that he would not be a moment, and began hitting things with some iron instrument or other. At last he was delivered safe and sound. But the [[motifs/journey|journey]] had taken seven minutes more than it ought to have done.
 
 He was not in the best of tempers, therefore, as he paid the man off and went through the revolving door; and there, comfortably sprawling in a deep chair in the lounge, smoking a cigar, and in a seeming indifference of bliss to the world about him, was, most unmistakably, the gentleman who had taken that other taxi. He had apparently got to the hotel first. It was a coincidence, no more; but the victim was in a jerky mood. He steadied himself. Perhaps he was exaggerating that coincidence a little, eh? But his mind still turned upon the sturdy one. Moreover, he could not get it out of his head that the short and sturdy one had watched him over his shoulder as he went off out of the lounge towards the lift.
 
@@ -912,13 +912,13 @@ And Mr. Chinny was in glory — almost in beatitude. It is one of the splendours
 
 I am bad at describing clothes, but I can tell you generally that Mr. Chinny was in a sort of grey which had no small cousinship with purple; and his tie suggested at once the Guards and Balliol, though not a replica of either of those symbols; that he had gilt links; that he had spats. But, on the top of having all these things, he also had discretion. The make-up was not exaggerated, the covering of his carcass was that of the well-to-do English gentleman — only an inch or two on the bounder side, for he had taken for his Model the Secretary of State for the Fine Arts, as being a Lord.
 
-Richard Mallard ate his breakfast in some gloom, which the newspaper he was reading, being conducted by a Peer and therefore all murders and gallows, did not relieve. His meal over, he strolled towards the big lounge, and was at last quite seriously annoyed to notice that Mr. Chinny was also strolling, at about the same pace, half a corridor’s length behind him. As a piece of synchrony it was excellent; as a piece of [[Deception|deception]] it was bad. And once again, if you ask me why they use such men in that Department, I make the same reply. When things get too large and too complicated they usually get rather badly run.
+Richard Mallard ate his breakfast in some gloom, which the newspaper he was reading, being conducted by a Peer and therefore all murders and gallows, did not relieve. His meal over, he strolled towards the big lounge, and was at last quite seriously annoyed to notice that Mr. Chinny was also strolling, at about the same pace, half a corridor’s length behind him. As a piece of synchrony it was excellent; as a piece of [[concepts/deception|deception]] it was bad. And once again, if you ask me why they use such men in that Department, I make the same reply. When things get too large and too complicated they usually get rather badly run.
 
 Anyhow, Mr. Chinny was happy — so far. He liked the atmosphere of luxury, the pages in buttons bawling numbers at the tops of their voices, the footmen in powdered hair, the gilded columns, the complicated food with foreign names (even at breakfast), the insolence of the waiters — all that suited him. He did not get nearly enough of it. Perhaps not twice in a twelvemonth. It made him feel like a hero in a cinema when he did get it, and he had not had it since he was shadowing that Crook from the Argentine just over a year before. Indeed, the choice of Mr. Chinny was due (it is the way with some organisations) to luck. The Crook had been nabbed through missing his train by over-sleeping. He had been arrested in his bedroom, and Mr. Chinny, with real genius, had suddenly bethought him to say that the drowsiness was due to a drug administered by him in the foreigner’s coffee the night before. Nor did his superiors notice that the day happened to be that in which winter time changes to summer time.
 
 To this accident was due Mr. Chinny’s high employment on this occasion, and of such is the Kingdom of Heaven.
 
-But in the eyes of Heaven, if not in his own, Mr. Chinny, in spite of his reputation with the Department, was not of a calibre for his task. Mallard, already exasperated, was beginning to be sure that the man was shadowing him. The lift delivered him to his room ten minutes later, and behold — even as he was unlocking the door, the key of which had stuck for a moment, a second [[Journey|journey]] of the elevator delivered Mr. Chinny, who walked with nonchalance towards a neighbouring door. It speaks whole libraries for the ineptitude of Mr. Chinny, that it could goad such a youth as Richard Mallard; but Richard Mallard was getting really annoyed.
+But in the eyes of Heaven, if not in his own, Mr. Chinny, in spite of his reputation with the Department, was not of a calibre for his task. Mallard, already exasperated, was beginning to be sure that the man was shadowing him. The lift delivered him to his room ten minutes later, and behold — even as he was unlocking the door, the key of which had stuck for a moment, a second [[motifs/journey|journey]] of the elevator delivered Mr. Chinny, who walked with nonchalance towards a neighbouring door. It speaks whole libraries for the ineptitude of Mr. Chinny, that it could goad such a youth as Richard Mallard; but Richard Mallard was getting really annoyed.
 
 Mr. Chinny did not stay long in that upper room. He knew his stupid mechanical instructions far too well for that. His place lay at the strategic points of the exits. Early as was the hour, he ordered a drink, and sprawled back sipping it in a wicker-chair of the lounge, waiting for his patient to appear. The Usual Informant came and told him that Richard Mallard had rung and might be down at any moment; therefore did Mr. Chinny go out for a moment to speak to the Other Gentleman, he who was entrusted with the task of Eye Keeping for the Exterior Department, or, as we call it in the Profession, the Street Side.
 
@@ -1064,7 +1064,7 @@ Anyhow, he must play up to the side: his vis-à-vis was registering tremors. Del
 
 He shook hands in a sort of brotherly manner, as though he had come to see Mallard for Mallard’s sake.
 
-He talked of his [[Journey|journey]] from the United States (without a word of West Irania). He talked at length and with emphasis about the great annoyance which he must have suffered, and how much everybody regretted it. He even hinted vaguely at compensation — but he did not carry that vein too far, for fear of spoiling the coming effect of great sums by the mention of smaller ones. He led the conversation round very gradually, and in the most general terms, to matters of territory, of international relations, of the establishment of boundaries, to a concession — all of which was bewildering Greek to his victim.
+He talked of his [[motifs/journey|journey]] from the United States (without a word of West Irania). He talked at length and with emphasis about the great annoyance which he must have suffered, and how much everybody regretted it. He even hinted vaguely at compensation — but he did not carry that vein too far, for fear of spoiling the coming effect of great sums by the mention of smaller ones. He led the conversation round very gradually, and in the most general terms, to matters of territory, of international relations, of the establishment of boundaries, to a concession — all of which was bewildering Greek to his victim.
 
 And then he put his hand suddenly upon the centre of the affair, saying, almost abruptly:
 
@@ -1180,7 +1180,7 @@ The Worsing difficulty he would tackle later. For the moment the essential thing
 
 Lord Delisport lived in wholesome awe of the Italian Government. For nearly sixty years it had grown in strength, and the Italian nation with it, now possessed of colonies “mandated” from older Powers. He did not understand how it worked. It puzzled him. But he knew that what he would have called “approaches” were singularly difficult in the new Italy; and that its Government had a ferocious and rapid way of acting very disrespectfully to foreign capitalists. It had even been known to put rich men in prison; a thing inconceivable in happier lands. He took another turn up and down the room.... It narrowed itself down to this... He must get at the Agent here, himself, and with the least delay.
 
-The Agent who was coming to negotiate had passed through [[America]]. He knew that. He had got it through the usual channel. He was on his way to, or had just reached, England. But under what name he would pass, at what exact date he would (or had) come, Lord Delisport was still ignorant. Yet it was essential to get hold of him before the official world did. He pondered upon how that advantage was to be obtained. So he took one more turn up the room, and, as is the habit of genius, one more gulp of whisky out of his flask, and, so fortified, sat down at last to act. The gulp of whisky had suggested an Avenue of Approach.
+The Agent who was coming to negotiate had passed through [[settings/america|America]]. He knew that. He had got it through the usual channel. He was on his way to, or had just reached, England. But under what name he would pass, at what exact date he would (or had) come, Lord Delisport was still ignorant. Yet it was essential to get hold of him before the official world did. He pondered upon how that advantage was to be obtained. So he took one more turn up the room, and, as is the habit of genius, one more gulp of whisky out of his flask, and, so fortified, sat down at last to act. The gulp of whisky had suggested an Avenue of Approach.
 
 He took up the telephone, and pulled out his watch at the same time. It was not yet eleven.
 
@@ -1776,7 +1776,7 @@ For she knew of his arrival and of what was passing. She was of those few hundre
 
 She knew, not only that they were hunting him for the Concession, but that there was the alternative of arrest; the danger thrilled her! How she envied her sister, Lady Corvan, for having been privileged to entertain him at her own table! How she burned to help!
 
-With what a leaping heart, then, did she hear that name at her first introduction — Mallard! It was the name under which her Divinity had chosen to disguise himself, and as she looked at the gentle face, the quiet eyes, she was indignant at the way [[Capitalism]] had maligned him. She had been firmly sure that all those tales of the tortures, and the drownings in the Caspian, were lies. Now she was trebly sure. Her hand shook as it touched his own and as she heard a melodious voice murmuring, with the slightest of foreign accents:
+With what a leaping heart, then, did she hear that name at her first introduction — Mallard! It was the name under which her Divinity had chosen to disguise himself, and as she looked at the gentle face, the quiet eyes, she was indignant at the way [[concepts/capitalism|Capitalism]] had maligned him. She had been firmly sure that all those tales of the tortures, and the drownings in the Caspian, were lies. Now she was trebly sure. Her hand shook as it touched his own and as she heard a melodious voice murmuring, with the slightest of foreign accents:
 
 “I’ve, I’ve never had the pleasure, you know, I mean to say, what?”
 
@@ -2350,7 +2350,7 @@ CHAP. I
 
 YOU MAY WELL call him Chap 1; for he is the first Chap I am going to talk about. Have no fear. He will not detain you long.
 
-He was walking briskly down Fifth Avenue in the City of [[New York]] on a rather too hot June day of the year 1979. He was a man of something over thirty, short, and broad-shouldered; with a new straw hat on his queer head, and a light grey suit off the hook. In his right hand he swung a small new and smart attaché case, bearing the letters L. Z. A close observer would have seen that on the corner of his handkerchief which just showed from his pocket were the letters D. M. — in red silk. But then I am not a close observer, and neither are you; so we will not dwell too much on that. A really curious enquirer, who should have waited till he swung his hat, would have seen in the crown of it, tastefully embossed, the gilt letters J. F.
+He was walking briskly down Fifth Avenue in the City of [[settings/new-york|New York]] on a rather too hot June day of the year 1979. He was a man of something over thirty, short, and broad-shouldered; with a new straw hat on his queer head, and a light grey suit off the hook. In his right hand he swung a small new and smart attaché case, bearing the letters L. Z. A close observer would have seen that on the corner of his handkerchief which just showed from his pocket were the letters D. M. — in red silk. But then I am not a close observer, and neither are you; so we will not dwell too much on that. A really curious enquirer, who should have waited till he swung his hat, would have seen in the crown of it, tastefully embossed, the gilt letters J. F.
 
 He had very pale green eyes, somewhat furtive though decided, too wide part, and with a Mongolian lift at the outer corners: high cheek bones, a round face, and a skin which might be called a dirty yellow or a delicate parchment, according to whether one were engaged in flattering him or no. His rather scanty straight hair, a little too long at the back, projected from the hat above recorded. He was clean-shaven. His left cheek carried the pronounced scar of a sabre-cut, now nearly ten years old.
 
@@ -2387,17 +2387,17 @@ Very welcome therefore in the ears of the Manager of the T. and J. was his emplo
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO X
+CAPITOLO X
 
 Epilogo
 
 Il frontespizio originale
 
-# Capitolo I
+Capitolo I
 
 Potete ben chiamarlo “Capitolo 1”; infatti è il primo capitolo di cui parlerò. Non temete: non vi tratterrà a lungo.
 
-Camminava velocemente lungo la Fifth Avenue, nella città di [[New York]], in una giornata di giugno particolarmente calda del 1979. Era un uomo di oltre trent’anni, di statura bassa e con spalle larghe; indossava un nuovo cappello di paglia e un abito grigio chiaro. Nella mano destra portava una piccola valigetta elegante, sulla quale erano incise le lettere L. Z. Un osservatore attento avrebbe notato, all’angolo del fazzoletto che spuntava dalla sua tasca, le lettere D. M., ricamate in seta rossa. Ma io non sono un osservatore attento, e nemmeno tu; quindi non ci soffermeremo troppo su questo argomento. Un curioso investigatore, che avesse aspettato fino al momento in cui lui si fosse tolto il cappello, avrebbe visto, sulla sua corona, incise a rilievo le lettere dorate J. F.
+Camminava velocemente lungo la Fifth Avenue, nella città di [[settings/new-york|New York]], in una giornata di giugno particolarmente calda del 1979. Era un uomo di oltre trent’anni, di statura bassa e con spalle larghe; indossava un nuovo cappello di paglia e un abito grigio chiaro. Nella mano destra portava una piccola valigetta elegante, sulla quale erano incise le lettere L. Z. Un osservatore attento avrebbe notato, all’angolo del fazzoletto che spuntava dalla sua tasca, le lettere D. M., ricamate in seta rossa. Ma io non sono un osservatore attento, e nemmeno tu; quindi non ci soffermeremo troppo su questo argomento. Un curioso investigatore, che avesse aspettato fino al momento in cui lui si fosse tolto il cappello, avrebbe visto, sulla sua corona, incise a rilievo le lettere dorate J. F.
 
 Aveva occhi di un verde molto pallido, leggermente furtivi ma decisi; le palpebre erano piuttosto larghe e gli angoli esterni degli occhi presentavano una caratteristica “mongola”. Aveva ossa zigomatiche alte, un viso rotondo e una pelle che, a seconda che si volesse lodarlo o meno, si potrebbe definire di un giallo sporco o di un delicato colore pergamena. I suoi capelli, piuttosto radi e dritti, erano leggermente troppo lunghi sulla parte posteriore; spuntavano sopra il cappello che indossava. Era completamente rasato. Sulla guancia sinistra portava una cicatrice evidente causata da un colpo di sciabola; quella ferita aveva ormai quasi dieci anni.
 
@@ -2446,7 +2446,7 @@ He had to trust Evans (John). An experienced man. Same man as had gotten Sadie J
 
 He sat in tension and attempted to allay the torture of suspense by recalling his success — such as it was — up to that point.
 
-The Distributing Centre in France had cabled in code forty-eight hours before, that Z. (it was the only name they gave him) was in [[New York]], to their certain knowledge’; they must have his movements — probably for England. He had found his man at the Belton, signed on as Malder. He had spotted the name his quarry had gone under after slipping past the frontier from British Columbia. It was Davis. He knew, too, that on the books of the Paramount Hotel in Chicago it had been Hackenschmidt. Both very good names, but not much alike. That was good work for less than two days — and had cost — oh! Hell. Now, at the Belton it was Malder. He was certain that for the trip to Europe it would be a fourth name, quite different from any of the other three. It was essential that he should get it. They’d cabled three times again. It would lower his stock badly if he failed: he didn’t want to have to cable with only the berth and no name; the folk at the European end wouldn’t be cold sure on a number without a name to confirm it.... However, that’s all there was to it. It would be fixed in five minutes more. He looked at his watch. He had only to wait that minute and he’d know. Anyhow, he couldn’t cable till they’d seen the liner start and him aboard it, sure.
+The Distributing Centre in France had cabled in code forty-eight hours before, that Z. (it was the only name they gave him) was in [[settings/new-york|New York]], to their certain knowledge’; they must have his movements — probably for England. He had found his man at the Belton, signed on as Malder. He had spotted the name his quarry had gone under after slipping past the frontier from British Columbia. It was Davis. He knew, too, that on the books of the Paramount Hotel in Chicago it had been Hackenschmidt. Both very good names, but not much alike. That was good work for less than two days — and had cost — oh! Hell. Now, at the Belton it was Malder. He was certain that for the trip to Europe it would be a fourth name, quite different from any of the other three. It was essential that he should get it. They’d cabled three times again. It would lower his stock badly if he failed: he didn’t want to have to cable with only the berth and no name; the folk at the European end wouldn’t be cold sure on a number without a name to confirm it.... However, that’s all there was to it. It would be fixed in five minutes more. He looked at his watch. He had only to wait that minute and he’d know. Anyhow, he couldn’t cable till they’d seen the liner start and him aboard it, sure.
 
 The quarter of the hour came... and passed... and ten minutes. The hour struck by the fine old Colonial grandfather clock, which was the pride of the Club, and being younger than the Porter, kept better time. The head of the Great T. and J. Agency began to sweat. He asked out into the hall, asked them if they were certain no one had rung up; he jerked back again to the rooms, picked up an evening paper, couldn’t read it, threw it down again, jerked back again to the hall. The quarter past struck, and yet there was no message. He waited till the half hour, and by that time he was in a panic, There was not much more than an hour left before the Zeeland would sail.
 
@@ -2477,7 +2477,7 @@ Doveva fidarsi di Evans (John). Un uomo esperto. Lo stesso che aveva permesso a 
 
 Rimase seduto, teso, cercando di alleviare l’angoscia dell’attesa ricordando i suoi successi, per quanto modesti fossero, fino a quel momento.
 
-Il Centro di Distribuzione in Francia aveva inviato un cablogramma quarantotto ore prima, informando che Z. (era l’unico nome che gli avevano dato) si trovava a [[New York]], secondo quanto ne erano certi; dovevano quindi conoscere i suoi spostamenti, probabilmente diretti verso l’Inghilterra. Aveva individuato la sua preda al Belton: si era iscritto con il nome di Malder. Aveva scoperto anche il vero nome che quella persona aveva utilizzato dopo essere passata attraverso il confine dalla British Columbia: si trattava di Davis. Sapeva inoltre che, nei registri dell’Paramount Hotel di Chicago, quel nome era Hackenschmidt. Entrambi ottimi nomi, ma molto diversi tra loro. Ottimo lavoro, per meno di due giorni, eppure aveva comportato dei costi elevati. Ora, al Belton, il nome utilizzato era Malder; era certo che per il viaggio in Europa sarebbe stato scelto un quarto nome, completamente diverso dagli altri tre. Era essenziale che riuscisse a scoprirlo. Avevano inviato altri tre cablogrammi. Un fallimento avrebbe compromesso gravemente la sua posizione: non voleva che gli inviassero soltanto informazioni sul posto disponibile senza il nome della persona in questione; le persone dall’altra parte dell’Europa non avrebbero potuto essere sicure riguardo a quel numero, senza un nome che lo confermasse. Comunque, tutto si sarebbe risolto in cinque minuti al massimo. Guardò l’orologio: doveva aspettare soltanto quei cinque minuti per scoprirlo. In ogni caso, non avrebbe potuto inviare altri cablogrammi finché non avessero visto la nave salpare e lui a bordo, di questo era certo.
+Il Centro di Distribuzione in Francia aveva inviato un cablogramma quarantotto ore prima, informando che Z. (era l’unico nome che gli avevano dato) si trovava a [[settings/new-york|New York]], secondo quanto ne erano certi; dovevano quindi conoscere i suoi spostamenti, probabilmente diretti verso l’Inghilterra. Aveva individuato la sua preda al Belton: si era iscritto con il nome di Malder. Aveva scoperto anche il vero nome che quella persona aveva utilizzato dopo essere passata attraverso il confine dalla British Columbia: si trattava di Davis. Sapeva inoltre che, nei registri dell’Paramount Hotel di Chicago, quel nome era Hackenschmidt. Entrambi ottimi nomi, ma molto diversi tra loro. Ottimo lavoro, per meno di due giorni, eppure aveva comportato dei costi elevati. Ora, al Belton, il nome utilizzato era Malder; era certo che per il viaggio in Europa sarebbe stato scelto un quarto nome, completamente diverso dagli altri tre. Era essenziale che riuscisse a scoprirlo. Avevano inviato altri tre cablogrammi. Un fallimento avrebbe compromesso gravemente la sua posizione: non voleva che gli inviassero soltanto informazioni sul posto disponibile senza il nome della persona in questione; le persone dall’altra parte dell’Europa non avrebbero potuto essere sicure riguardo a quel numero, senza un nome che lo confermasse. Comunque, tutto si sarebbe risolto in cinque minuti al massimo. Guardò l’orologio: doveva aspettare soltanto quei cinque minuti per scoprirlo. In ogni caso, non avrebbe potuto inviare altri cablogrammi finché non avessero visto la nave salpare e lui a bordo, di questo era certo.
 
 Il quarto d’ora passò, e poi anche i dieci minuti successivi. L’ora suonò: l’antico orologio da colonia del Club era il suo orgoglio; essendo più nuovo del “Porter”, indicava l’orario con maggiore precisione. Il capo dell’agenzia T. e J. iniziò a sudare. Uscì nel corridoio per chiedere se qualcuno avesse suonato il campanello; tornò subito nelle stanze, prese un giornale serale, ma non riuscì a leggerlo, lo gettò via e uscì di nuovo nel corridoio. Il quarto d’ora successivo passò, ancora nessun messaggio. Aspettò fino alla mezz’ora: ormai era nel panico. Mancava poco più di un’ora prima che la nave Zeeland salpasse.
 
@@ -2518,7 +2518,7 @@ When Richard Mallard (please to remember that it was his real name, for there ma
 
 It amused him not a little to observe the addressee jump perceptibly, like a man who hears a sudden shot. For Richard Mallard turned not only round but pale. His face turned round quicker than his body (it is always a bad sign!) and both in a sort of jump. He clutched Mr. Merriman’s arm, while there passed through his eyes in lightning succession the emotions of terror, bewilderment and resignation. For Richard Mallard had suffered great agony from interviewers lately, and indeed this was the reason of his hasty flight.
 
-“Eh? I say — what?” he gasped. “What do you want with me, eh?” And even as he said it, he looked round for avenues of escape. Then he added in a lower tone, taking the private [[Detective|detective]]’s arm and leading him aside, “Look here, you know, it’s no good you making “ a row here, in public — what?”
+“Eh? I say — what?” he gasped. “What do you want with me, eh?” And even as he said it, he looked round for avenues of escape. Then he added in a lower tone, taking the private [[archetypes/detective|detective]]’s arm and leading him aside, “Look here, you know, it’s no good you making “ a row here, in public — what?”
 
 They were in the comparative privacy of an interval between two boats opposite the saloon door on the off side from the quay, and in the comparative silence of a donkey engine which was rattling in a chain, two hooting tugs, the first warning bell, and a quantity of steam escaping from a hellish pipe along the after funnel.
 
@@ -2624,9 +2624,9 @@ Mr. Merriman thought rapidly, as is the fashion of his kind. It is a common tale
 
 If he stopped to bargain, the second bell might ring at any moment. On the other hand, if he bargained, who knows what the quarry might be good for? His Chief had told him nothing of the case; he only had the simple orders: “Find out the name attached to Berth 136 on the Zeeland, and make certain what the man is like.” And his Chief was not in the habit of making confidants of his subordinates. Now supposing this was a character whom “they” were “waiting for” on the other side? 136 was a swell nest and no mistake; only one berth and right on the promenade. Or supposing it was blackmail?
 
-He was on the point of using that great phrase, so familiar to the captains of industry, “Nothing doing!” when the first stroke of the second bell was heard; and long before its clanging had filled the [[Ship|ship]] he had swivelled over to the other phrase, equally familiar to the masters of the modern world: “Done with you! Oh! Boy!” And he frankly held out his hand, not in friendship, but to receive the goods.
+He was on the point of using that great phrase, so familiar to the captains of industry, “Nothing doing!” when the first stroke of the second bell was heard; and long before its clanging had filled the [[motifs/ship|ship]] he had swivelled over to the other phrase, equally familiar to the masters of the modern world: “Done with you! Oh! Boy!” And he frankly held out his hand, not in friendship, but to receive the goods.
 
-A huge roll came out from the inner pocket of Mr. Mallard’s excellent fight coat: and twenty V’s from its inwards were furtively, rapidly, slipped into the [[Detective|detective]]’s hand.
+A huge roll came out from the inner pocket of Mr. Mallard’s excellent fight coat: and twenty V’s from its inwards were furtively, rapidly, slipped into the [[archetypes/detective|detective]]’s hand.
 
 “Now, you’ll keep your word won’t you?” said the payer, with unfailing futility.
 
@@ -2634,9 +2634,9 @@ A huge roll came out from the inner pocket of Mr. Mallard’s excellent fight co
 
 It was essential that that picture should not appear. It was essential that his name should not be noised abroad. On the other hand, what reason had anyone to noise it abroad? He had always read in crook stories that people to whom it was essential that their names should not be noised abroad used another name. He remembered too late this habit of the anti-noising-abroad brigade. He cursed himself for having blurted out his name so childishly when he had asked for the chance of an empty berth. Why hadn’t he called himself De Vere?
 
-But yet again, why should his name be noised abroad? Who knew of it up there in [[New York]]; or anywhere, for that matter, except the place where he came from? It was quite a private affair. No doubt the stranger had told a true story, and all they wanted was pictures for their silly column, “Birds of Passage!”
+But yet again, why should his name be noised abroad? Who knew of it up there in [[settings/new-york|New York]]; or anywhere, for that matter, except the place where he came from? It was quite a private affair. No doubt the stranger had told a true story, and all they wanted was pictures for their silly column, “Birds of Passage!”
 
-But the picture! The picture! ‘ That was the rub. Nobody might care about him in [[New York]]; but the [[New York]] Sunday papers go a long way. My God! If they saw that picture down in travelling kit and on the steamboat deck, and that date to it!... But he was getting exhausted with all this worry. It was no good borrowing trouble. He tried to convince himself that the gentleman with the camera had told a true and simple tale, and that his motive had been no more than what he had said. He tried to convince himself that Shooter had enough honesty to act by his bribe.
+But the picture! The picture! ‘ That was the rub. Nobody might care about him in [[settings/new-york|New York]]; but the [[settings/new-york|New York]] Sunday papers go a long way. My God! If they saw that picture down in travelling kit and on the steamboat deck, and that date to it!... But he was getting exhausted with all this worry. It was no good borrowing trouble. He tried to convince himself that the gentleman with the camera had told a true and simple tale, and that his motive had been no more than what he had said. He tried to convince himself that Shooter had enough honesty to act by his bribe.
 
 And so once again within a single hour all the world was satisfied (I repeat, that sort of thing is perpetually happening). Richard Mallard had run through the whole store of his anxieties and was reposing in the repose of exhaustion. Mr. Merriman had earned, over and above his salary, the prodigious sum of one hundred’ dollars, and double pay for leaving at his Chief’s club, within the hour, after a short deal, the Kodak film, the name attached to Cabin 136, “Richard Mallard,” and a good little précis in pencil of what that person looked like, what were his tricks of conversation, the colour of his hair and his eyes, his moustache, his particular gestures, and all the rest. His Boss was mightily relieved as well: cabled to the Distributing Centre, ordered himself a most excellent dinner, and went home to sleep, a contented man. Even the people on board the Zeeland were happy, because the night was as calm as oil and because as they slipped through the Narrows they could drink wine freely after the fashion of an older and a wiser world. All were happy and no one a victim. I can’t see how it works out, but so it was.
 
@@ -2679,9 +2679,9 @@ Il signor Merriman pensò rapidamente, come è tipico della sua gente. È un tal
 
 Se si fosse fermato per negoziare, il secondo campanello avrebbe potuto suonare in qualsiasi momento. D'altra parte, se avesse negoziato, chi sa cosa quel “premio” potesse rivelarsi utile. Il suo capo non gli aveva detto nulla riguardo a quella missione; gli aveva dato solo ordini semplici: “Scopri il nome legato al posto 136 sulla nave Zeeland, e scopri com’è quell’uomo.” Inoltre, il suo capo non aveva l’abitudine di confidarsi nei suoi subordinati. E se invece quell’uomo fosse proprio la persona che “loro” stavano aspettando dall’altra parte? Il posto 136 era sicuramente un punto strategico: un solo posto letto, proprio sulla passeggiata. O forse si trattava di una truffa finalizzata a estorcere denaro?
 
-Stava per utilizzare quella famosa espressione, così conosciuta dai capi d’industria: “Niente da fare!”, quando si udì il primo rintocco della seconda campanella; e molto prima che il suo suono riempisse l’[[Ship|navicella]], cambiò idea, optando per un’altra espressione altrettanto diffusa tra i dominatori del mondo moderno: “Basta con te! Oh, mio Dio!” E tese apertamente la mano, non per mostrare amicizia, ma per ricevere le merci.
+Stava per utilizzare quella famosa espressione, così conosciuta dai capi d’industria: “Niente da fare!”, quando si udì il primo rintocco della seconda campanella; e molto prima che il suo suono riempisse l’[[motifs/ship|navicella]], cambiò idea, optando per un’altra espressione altrettanto diffusa tra i dominatori del mondo moderno: “Basta con te! Oh, mio Dio!” E tese apertamente la mano, non per mostrare amicizia, ma per ricevere le merci.
 
-Un enorme rotolo uscì dalla tasca interna del magnifico cappotto da combattimento del signor Mallard; venti lettere “V” vennero rapidamente e furtivamente infilate nella mano dell’[[Detective|investigatore]].
+Un enorme rotolo uscì dalla tasca interna del magnifico cappotto da combattimento del signor Mallard; venti lettere “V” vennero rapidamente e furtivamente infilate nella mano dell’[[archetypes/detective|investigatore]].
 
 “Ora, manterrai la tua promessa, vero?” disse il pagatore, con una costante e inutile insistenza.
 
@@ -2689,9 +2689,9 @@ Un enorme rotolo uscì dalla tasca interna del magnifico cappotto da combattimen
 
 Era essenziale che quell’immagine non venisse diffusa; era essenziale che il suo nome non venisse reso noto all’estero. D’altra parte, quale motivo avrebbe avuto qualcuno per farlo? Aveva sempre letto nelle storie di avventura che le persone a cui era importante mantenere l’anonimato utilizzavano un altro nome. Si rese conto troppo tardi di questa abitudine delle persone che cercavano di evitare che il loro nome venisse divulgato. Si maledì per aver rivelato il proprio nome in modo così infantile quando aveva chiesto la possibilità di ottenere una cuccetta vuota. Perché non si era fatto chiamare De Vere?
 
-Ma ancora una volta, perché il suo nome dovrebbe diventare noto in giro per il mondo? Chi lo conosceva a [[New York]]? O, in realtà, da qualche altra parte, se non nel luogo da cui proveniva? Si trattava di una questione assolutamente privata. Senza dubbio, lo sconosciuto aveva raccontato la verità, e tutto ciò che volevano era qualche foto per la loro stupida rubrica, “Birds of Passage”!
+Ma ancora una volta, perché il suo nome dovrebbe diventare noto in giro per il mondo? Chi lo conosceva a [[settings/new-york|New York]]? O, in realtà, da qualche altra parte, se non nel luogo da cui proveniva? Si trattava di una questione assolutamente privata. Senza dubbio, lo sconosciuto aveva raccontato la verità, e tutto ciò che volevano era qualche foto per la loro stupida rubrica, “Birds of Passage”!
 
-Ma quella foto! Quella foto. Ecco il problema: a [[New York]] forse a nessuno importava di lui; ma i giornali domenicali di [[New York]] avevano un grande potere. Mio Dio. Se avessero visto quella foto nel suo bagaglio da viaggio e sul ponte del piroscafo, insieme alla data. Ma stava esaurendosi a causa di tutte queste preoccupazioni. Non valeva la pena cercarsi altri guai. Cercò di convincersi che l’uomo con la macchina fotografica avesse raccontato la verità, e che il suo movente fosse davvero quello che aveva detto. Cercò anche di convincersi che “Shooter” fosse abbastanza onesto da agire secondo le sue istruzioni.
+Ma quella foto! Quella foto. Ecco il problema: a [[settings/new-york|New York]] forse a nessuno importava di lui; ma i giornali domenicali di [[settings/new-york|New York]] avevano un grande potere. Mio Dio. Se avessero visto quella foto nel suo bagaglio da viaggio e sul ponte del piroscafo, insieme alla data. Ma stava esaurendosi a causa di tutte queste preoccupazioni. Non valeva la pena cercarsi altri guai. Cercò di convincersi che l’uomo con la macchina fotografica avesse raccontato la verità, e che il suo movente fosse davvero quello che aveva detto. Cercò anche di convincersi che “Shooter” fosse abbastanza onesto da agire secondo le sue istruzioni.
 
 E così, ancora una volta, in un solo’ora tutto il mondo fu soddisfatto (ripeto: cose del genere accadono continuamente). Richard Mallard aveva esaminato attentamente tutte le sue ansie e ora si riposava, esausto. Il signor Merriman, oltre al suo stipendio, aveva guadagnato la somma considerevole di cento dollari, nonché il doppio dello stipendio per aver lasciato rapidamente il club del suo capo, in un lasso di tempo brevissimo: aveva ottenuto informazioni sulla pellicola Kodak, sul nome associato alla Cabina 136 (“Richard Mallard”), e anche una descrizione dettagliata a matita dell’aspetto di quell’uomo, dei suoi modi di conversare, del colore dei suoi capelli e degli occhi, della sua barba, dei suoi gesti caratteristici, e molto altro ancora. Anche il suo capo fu profondamente sollevato: inviò un telegramma al Centro Distributore, si concesse una cena eccellente e tornò a casa a dormire, soddisfatto di sé. Anche le persone a bordo del Zeeland erano felici: la notte era tranquillissima e, mentre navigavano attraverso lo Stretto, potevano bere vino liberamente, come avveniva in tempi più antichi e saggi. Tutti erano felici, e nessuno ne fu vittima. Non riesco proprio a capire come funzioni tutto questo, ma è andata proprio così.
 
@@ -2727,7 +2727,7 @@ There was a doubtful tradition that old Mr. Mallard had come from England in his
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO II
+CAPITOLO II
 
 Mentre la nave “Zelanda” procedeva verso est attraverso l’Atlantico calmo, Richard Mallard valutò la sua situazione. La sua situazione era questa: stava finalmente allontanandosi a tutta velocità per iniziare una vita tranquilla. Aveva conosciuto momenti di pace. Anzi, proprio perché tutto era troppo tranquillo, aveva deciso di lasciarli. Ma pochi giorni dopo essere partito da casa, ogni desiderio di emozioni intense era svanito dentro di lui.
 
@@ -2810,7 +2810,7 @@ He had set the avalanche moving, and no mistake! He had offended the Great Frate
 
 At Richmond he was half the front page. In Philadelphia it was the posters, and he heard from the clerk a frightful rumour that he was going to be one of the funny things in the Topicals on the Movies.
 
-With that cunning which the mildest will develop under persecution he designed Ms flight. He fled by night in a taxi, he slept in a lost village of New Jersey, he came up next day by devious rail to [[New York]]. That was why we saw him breathless in his trepidation trying his chance at the Travel Agency in [[New York]]. He had had that excellent luck of finding a comfortable berth; it had been followed by the acute misery and terror inflicted by the alert Merriman.
+With that cunning which the mildest will develop under persecution he designed Ms flight. He fled by night in a taxi, he slept in a lost village of New Jersey, he came up next day by devious rail to [[settings/new-york|New York]]. That was why we saw him breathless in his trepidation trying his chance at the Travel Agency in [[settings/new-york|New York]]. He had had that excellent luck of finding a comfortable berth; it had been followed by the acute misery and terror inflicted by the alert Merriman.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2845,9 +2845,9 @@ Un gentiluomo vivace che aveva già esaminato l’elenco delle navi da crociera 
 
 Ma la mattina seguente, mentre prendeva il suo giornale al tavolo della colazione, scoprì ancora di più sul mondo. Rimase sbalordito davanti a titoli enormi; il meno sorprendente di tutti era:
 
-# Si rifiutò di essere intervistato
+Si rifiutò di essere intervistato
 
-#New Orleans Near Hell: Mallard Claims
+New Orleans Near Hell: Mallard Claims
 
 MALLARD MILLIONS VINCE NELLE LOTTERIE STATUNITENSE.
 
@@ -2857,9 +2857,9 @@ C'era una grande fotografia scattata in quel momento, che lo ritraeva mentre sce
 
 Non riuscì a mangiare la colazione. Con la semplicità del suo cuore, andò immediatamente negli uffici di quella rivista scandalosa e vi protestò con forza contro un simile abuso della libertà.
 
-# Ottenne la sua ricompensa. L’edizione serale riportava un titolo molto più largo…
+Ottenne la sua ricompensa. L’edizione serale riportava un titolo molto più largo…
 
-#Più chiacchiere tra i mallardi
+Più chiacchiere tra i mallardi
 
 Questa volta non c'era nessuna fotografia, ma una caricatura destinata a far ridere migliaia di persone, e allo stesso tempo a far arrossire di rabbia la vittima sfortunata.
 
@@ -2869,7 +2869,7 @@ Aveva scatenato l’avalanche, e senza dubbio! Aveva offeso la Grande Fratellanz
 
 A Richmond occupava metà della prima pagina dei giornali; a Filadelfia erano i poster a parlare di lui, e dal commesso apprese una terribile voce secondo cui sarebbe finito tra gli elementi “divertenti” delle rubriche sui film.
 
-Con quella astuzia che anche le persone più gentili sviluppano sotto persecuzione, egli pianificò la propria fuga. Scappò di notte in taxi, dormì in un villaggio abbandonato del New Jersey, e il giorno dopo raggiunse [[New York]] con un treno tortuoso. Ecco perché lo vedemmo ansimante per l’emozione mentre cercava di approfittare dell’occasione presso l’agenzia di viaggi di [[New York]]. Aveva avuto la fortuna di trovare un posto confortevole dove riposare; ma subito dopo aveva dovuto affrontare la terribile sofferenza e il terrore inflitti da Merriman, che era all’erta.
+Con quella astuzia che anche le persone più gentili sviluppano sotto persecuzione, egli pianificò la propria fuga. Scappò di notte in taxi, dormì in un villaggio abbandonato del New Jersey, e il giorno dopo raggiunse [[settings/new-york|New York]] con un treno tortuoso. Ecco perché lo vedemmo ansimante per l’emozione mentre cercava di approfittare dell’occasione presso l’agenzia di viaggi di [[settings/new-york|New York]]. Aveva avuto la fortuna di trovare un posto confortevole dove riposare; ma subito dopo aveva dovuto affrontare la terribile sofferenza e il terrore inflitti da Merriman, che era all’erta.
 
 
 
@@ -2920,7 +2920,7 @@ It is time we got back to Chap 1. And what is more, it is time that you, Unfortu
 
 To answer these questions I must first present you a certain spectacle.
 
-About the time when the Zeeland, with the blameless Richard Mallard — Chap 2 — aboard of her, was going through the Dredged Channel into Southampton Water, Chap 1 was seated gazing with a fixed, unhappy stare out to sea from a pinnacle of rock on the Labrador coast; hoping against hope not for a sail nor even, in these days of Rotors, a smoke: but a [[Ship|ship]]. None appeared.
+About the time when the Zeeland, with the blameless Richard Mallard — Chap 2 — aboard of her, was going through the Dredged Channel into Southampton Water, Chap 1 was seated gazing with a fixed, unhappy stare out to sea from a pinnacle of rock on the Labrador coast; hoping against hope not for a sail nor even, in these days of Rotors, a smoke: but a [[motifs/ship|ship]]. None appeared.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2943,7 +2943,7 @@ Era l’Agente Incaricato della Distribuzione della Sezione M: quella organizzat
 
 E questo era ciò che stava scrivendo, nella cara e familiare lingua inglese dei suoi anni da ragazza. Quel messaggio non sarebbe mai arrivato a destinazione, non sarebbe mai stato inviato “Nell’Altro Senso”.
 
-# Cara N.G.,
+Cara N.G.,
 
 “Ha attraversato il confine tra la British Columbia e lo stato di Washington, il 10 maggio, senza documenti regolari. Deve aver ottenuto dei documenti falsificati da qualche parte. Si è registrato con il nome Davis quando si è fermato a Omaha, e con il nome Hackenschmidt a Chicago. Ha preso il posto numero 136 sul battello Zeeland, usando il nome Richard Mallard. A.M.B.2 mi ha inviato un messaggio in codice; dovrebbe sbarcare a Southampton intorno al 12 maggio. Dite loro di mettersi in contatto con lui lì senza fallo.”
 
@@ -2953,9 +2953,9 @@ La bella, sebbene anziana, Ethel (Giva) sospirò soddisfatta. C’era una ricomp
 
 “Toto Much Better Sends You Love, Miriam”
 
-# Che anche i più piccoli bambini possono decifrare…
+Che anche i più piccoli bambini possono decifrare…
 
-# Richard Mallard Bert 136 Zeeland
+Richard Mallard Bert 136 Zeeland
 
 A.M.B.2
 
@@ -2969,7 +2969,7 @@ Il Centro di Distribuzione era soddisfatto. Diede la lettera al suo autista affi
 
 Per rispondere a queste domande, devo prima mostrarvi un certo spettacolo.
 
-Proprio nel momento in cui la nave Zeeland, con il innocente Richard Mallard a bordo – Capitolo 2 – stava attraversando il Canale di Dredaggio per entrare nelle acque di Southampton, Capitolo 1 era seduto su una roccia sulla costa del Labrador, fissando con uno sguardo cupo e malinconico il mare; sperando, contro ogni probabilità, non nella vista di una vela, né tantomeno, in questi tempi dei rotori, di un filo di fumo, ma di una [[Ship|nave]]. Nessuna nave apparve.
+Proprio nel momento in cui la nave Zeeland, con il innocente Richard Mallard a bordo – Capitolo 2 – stava attraversando il Canale di Dredaggio per entrare nelle acque di Southampton, Capitolo 1 era seduto su una roccia sulla costa del Labrador, fissando con uno sguardo cupo e malinconico il mare; sperando, contro ogni probabilità, non nella vista di una vela, né tantomeno, in questi tempi dei rotori, di un filo di fumo, ma di una [[motifs/ship|nave]]. Nessuna nave apparve.
 
 
 
@@ -2994,7 +2994,7 @@ It is sometimes remarked by the disgruntled that our modern inventions always ha
 
 As to the troubles with new inventions (see above), Chalmers’ patent with the Dual Process had now for more than fifteen years, indeed, since the later part of 1962, replaced the Laston affair for wireless at sea. It was much more distinct, it was less affected by climatic conditions, and it needed less power. On the other hand, if the Dual Process, through some defect or jar, failed to synchronise, it was hopeless. Therefore every precaution was taken to prevent the Dual Process getting such a jar and failing to synchronise. Nor did it fail by the least fraction once in twenty thousand times. But that once came off with the Bergen, on the same day that she dropped her screw.
 
-Northward she drifted before the southerly rising wind; a few hours and there came down that interesting natural phenomenon, so soothing in the summer heats — a Newfoundland Bank fog. It added greatly to the anxiety of the gentleman who was responsible for the vessel, of the crew, and even of the passengers, the more intelligent of whom (and Chap 1 came very high up among these) had clearly guessed from the long absence of vibration that there was something wrong. There was. And to make matters a good deal worse, there came on the second night amid varying distant hoots, the hoot of something approaching too closely. The Bergen’s lamentable reply puzzled the first hooter, who wirelessed vigorously. The absence of a wireless answer puzzled him more. The attempt to guess the course of the Bergen’s hooting puzzled him worst of all. The [[Ship|ship]] appeared to be coming up north from the south. Who could be on such a course?
+Northward she drifted before the southerly rising wind; a few hours and there came down that interesting natural phenomenon, so soothing in the summer heats — a Newfoundland Bank fog. It added greatly to the anxiety of the gentleman who was responsible for the vessel, of the crew, and even of the passengers, the more intelligent of whom (and Chap 1 came very high up among these) had clearly guessed from the long absence of vibration that there was something wrong. There was. And to make matters a good deal worse, there came on the second night amid varying distant hoots, the hoot of something approaching too closely. The Bergen’s lamentable reply puzzled the first hooter, who wirelessed vigorously. The absence of a wireless answer puzzled him more. The attempt to guess the course of the Bergen’s hooting puzzled him worst of all. The [[motifs/ship|ship]] appeared to be coming up north from the south. Who could be on such a course?
 
 They never knew. For though the collision was a violent one, the ships sheered off. The Unknown, which had taken the main shock, was badly damaged but able to crawl back to Halifax; the Bergen slowly developed an increasing list to starboard and deepened a little by the head.
 
@@ -3139,7 +3139,7 @@ He had opened the subject of Mallard’s approaching landing with the remark tha
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO III
+CAPITOLO III
 
 Il Segretario di Stato per gli Affari Interni aveva ricevuto, attraverso due distinti canali gerarchici, notizie sui progressi di Richard Mallard nell’attraversare l’Atlantico. Per il Governo, sono orgoglioso di dire, è stato possibile individuare il Centro di Distribuzione a un prezzo molto ragionevole; e sebbene le informazioni su quell’uomo fossero state inviate regolarmente ai Governi Alleati, lo sono state fatto un po’ più tardi rispetto a quanto avveniva con quella che ancora oggi viene definita, con una bella espressione, “La Corte di San Giacomo”. E dopotutto, cosa importava? Richard Mallard, l’agente della West Irania, stava comunque atterrando per primo su queste coste; quindi, naturalmente, le opportunità sarebbero spettate a noi. Ci sarebbe stato tutto il tempo necessario per fare i preparativi all’estero.
 
@@ -3272,7 +3272,7 @@ L’ufficiale all’interno di quel piccolo ufficio lo accolse con ancora più r
 
 “I’ll see that the porter has one ready for you.”
 
-“Yes, and please have the label on it with the name of some [[New York]] Hotel. No, wait a moment. I forgot. Yes, I’ll say I was ill on the boat. No, that won’t work.” He thought for a moment. “Just put a Paris Hotel label on it. You’ve got plenty of ’em?”
+“Yes, and please have the label on it with the name of some [[settings/new-york|New York]] Hotel. No, wait a moment. I forgot. Yes, I’ll say I was ill on the boat. No, that won’t work.” He thought for a moment. “Just put a Paris Hotel label on it. You’ve got plenty of ’em?”
 
 “Plenty. What hotel?”
 
@@ -3304,7 +3304,7 @@ Mr. Palmer, he said, “I don’t understand this way of talking. It’s just a 
 
 It was the common ritual. The Madeira was good, and Madeira is an excellent wine to take a little before eating. Each of these two men drank his small glass, and so parted in harmony — each having aided the vast machinery of government.
 
-The Zeeland forged her way through a sea still calm — it had been calm all the way over from [[New York]] — past the Needles, past the Shingles, up the Solent, and into her berth. Mr. Palmer was having a very good and reasonable meal, after the Italian fashion, and he drank with it, not the common Chianti, for which you and I would have paid only 3s. 6d., but first-rate wine at 8s.; your 8s. and mine.
+The Zeeland forged her way through a sea still calm — it had been calm all the way over from [[settings/new-york|New York]] — past the Needles, past the Shingles, up the Solent, and into her berth. Mr. Palmer was having a very good and reasonable meal, after the Italian fashion, and he drank with it, not the common Chianti, for which you and I would have paid only 3s. 6d., but first-rate wine at 8s.; your 8s. and mine.
 
 * * * *
 
@@ -3331,9 +3331,9 @@ He sank back for a long repose, occupying as master that small domain of which h
 
 “Mi assicurerò che il portiere ne abbia uno pronto per te.”
 
-“Sì, e per favore mettete l’etichetta con il nome di un hotel di [[New York]]. No, aspetta un attimo. Me ne sono dimenticato. Sì, dirò che ero malato sulla barca. No, non funzionerà.” Pensò per un momento. “Basta mettere un’etichetta di un hotel di Parigi. Ne avete molte, vero?”
+“Sì, e per favore mettete l’etichetta con il nome di un hotel di [[settings/new-york|New York]]. No, aspetta un attimo. Me ne sono dimenticato. Sì, dirò che ero malato sulla barca. No, non funzionerà.” Pensò per un momento. “Basta mettere un’etichetta di un hotel di Parigi. Ne avete molte, vero?”
 
-# “Abbastanza… Quale hotel?”
+“Abbastanza… Quale hotel?”
 
 “Ah, il Ritz, ”, disse il signor Palmer sbadigliando. “Tutti hanno sentito parlare del Ritz, ”, e rise allegramente. “Farò rispedire la borsa.”
 
@@ -3363,7 +3363,7 @@ Quella era la debolezza dell’ufficiale.
 
 Era un rituale comune. Il vino di Madeira era ottimo; infatti, il Madeira è un vino eccellente da bere prima dei pasti. Ognuno di questi due uomini bevve il proprio bicchiere e poi si separarono in armonia, avendo ciascuno contribuito al funzionamento dell’enorme macchinario del governo.
 
-La nave Zeeland si fece strada attraverso un mare ancora calmo – era rimasto calmo per tutto il tragitto da [[New York]] – oltre le Needles, oltre le Shingles, lungo il Solent, fino a raggiungere il suo porto di destinazione. Il signor Palmer stava gustando una cena molto buona e sostanziosa, secondo la tradizione italiana; beveva vino di prima qualità, non quel comune Chianti che tu ed io avremmo pagato soltanto 3 sterline e 6 pence a bottiglia, ma vino davvero eccellente, al prezzo di 8 sterline a bottiglia, il tuo prezzo, e anche il mio.
+La nave Zeeland si fece strada attraverso un mare ancora calmo – era rimasto calmo per tutto il tragitto da [[settings/new-york|New York]] – oltre le Needles, oltre le Shingles, lungo il Solent, fino a raggiungere il suo porto di destinazione. Il signor Palmer stava gustando una cena molto buona e sostanziosa, secondo la tradizione italiana; beveva vino di prima qualità, non quel comune Chianti che tu ed io avremmo pagato soltanto 3 sterline e 6 pence a bottiglia, ma vino davvero eccellente, al prezzo di 8 sterline a bottiglia, il tuo prezzo, e anche il mio.
 
 * * * *
 
@@ -3418,7 +3418,7 @@ They had finished dinner. The broad daylight was turning mellow though the sun h
 
 “No, no; you wouldn’t know where they are” (they were in his pocket at that very moment); “I assure you, I’m delighted,” said Palmer, gently pushing him back into his seat. And so he was.
 
-He went at top speed through the train to the abandoned compartment. It would be a pity to allow a suspicious gap in time. He tried, like lightning, the larger leather bag of his amiable companion: it was locked. He tried the small despatch case: it was open — but it was disappointing. There were no “papers.” There was a magazine, a [[Detective|detective]] novel, a map of England and a guide book, and a spare handkerchief, but nothing that you could call “papers.” Unless — stay, yes, here was something.
+He went at top speed through the train to the abandoned compartment. It would be a pity to allow a suspicious gap in time. He tried, like lightning, the larger leather bag of his amiable companion: it was locked. He tried the small despatch case: it was open — but it was disappointing. There were no “papers.” There was a magazine, a [[archetypes/detective|detective]] novel, a map of England and a guide book, and a spare handkerchief, but nothing that you could call “papers.” Unless — stay, yes, here was something.
 
 It was a set of half-finished notes. Time pressed, but Mr. Palmer had a first-rate memory. He photographed on that memory of his the names jotted down.
 
@@ -3444,7 +3444,7 @@ At the Titanic Mr. Palmer lingered just long enough to hear the number of the ro
 
 There, in the writing-room of the Junior Loyalists’ Club, did the efficient Mr. Palmer prepare for a business that might mark a step in his career. First he tore off the unmarked sheet of a double piece of notepaper, held it to the light to see that there was no watermark, and wrote thereon a report with careful thought and frequent pauses.
 
-“The description exactly tallies, and the luggage is marked R. M. It consists of two new leather bags, one with a [[New York]] maker’s name, and both apparently bought together. The larger luggage will follow to the Titanic where he has room 227, no bath. I had no opportunity of opening the larger bag. The despatch case was unlocked, so in any case he would not have had anything of importance in it, but I thought it worth noting a paper on which was jotted something of an itinerary. He doesn’t propose to go to Paris until he has gone first to some Stratford. No indication which Stratford, or Stratford might possibly be a man’s name. He has an appointment to meet someone in the Lakes at a hotel called the ‘Black Horse.’”
+“The description exactly tallies, and the luggage is marked R. M. It consists of two new leather bags, one with a [[settings/new-york|New York]] maker’s name, and both apparently bought together. The larger luggage will follow to the Titanic where he has room 227, no bath. I had no opportunity of opening the larger bag. The despatch case was unlocked, so in any case he would not have had anything of importance in it, but I thought it worth noting a paper on which was jotted something of an itinerary. He doesn’t propose to go to Paris until he has gone first to some Stratford. No indication which Stratford, or Stratford might possibly be a man’s name. He has an appointment to meet someone in the Lakes at a hotel called the ‘Black Horse.’”
 
 Here he rose from the writing-table, went to the shelves where were the books of reference and looked up in a road book the “Black Horse” (or “Black Horses”) of the Lake District. He found but one which seemed of sufficient importance, and he went back to write....
 
@@ -3471,7 +3471,7 @@ Parlava troppo velocemente e sembrava senza fiato per la corsa; Richard Mallard,
 
 “No, non esattamente,” disse Richard.
 
-#Appena arrivato dalla Francia… Sono sbarcato a Cherbourg.
+Appena arrivato dalla Francia… Sono sbarcato a Cherbourg.
 
 “Non ti ho visto.”
 
@@ -3521,7 +3521,7 @@ Al Titanic, il signor Palmer rimase lì abbastanza a lungo da sentire il numero 
 
 Lì, nella sala da scrivere del Junior Loyalists’ Club, l’efficiente signor Palmer si preparò a redigere un documento che avrebbe potuto rappresentare un passo importante nella sua carriera. Prima di tutto strappò una pagina non contrassegnata da alcun segno distintivo da un foglio di carta da lettere, la esaminò alla luce per verificare l’assenza di watermark e poi vi scrisse il rapporto, prendendosi del tempo e facendo frequenti pause.
 
-“La descrizione corrisponde esattamente; inoltre, il bagaglio è contrassegnato dalla lettera ‘R.M’. È composto da due nuove borse di pelle: una recava il nome del produttore di [[New York]], e entrambe sembrano essere state acquistate insieme. Il bagaglio più grande verrà inviato sul Titanic, dove lui ha la cabina 227 (senza bagno). Non ho avuto l’opportunità di aprirlo. La valigetta era aperta; comunque, non avrebbe contenuto nulla di importante. Tuttavia, ho ritenuto opportuno menzionare un foglio su cui erano appuntati alcuni dettagli del suo itinerario. Non intende recarsi a Parigi prima di visitare qualche luogo chiamato Stratford. Non è specificato quale Stratford si tratti; forse potrebbe trattarsi anche del nome di una persona. Ha un appuntamento con qualcuno nei Laghi, in un hotel chiamato ‘Black Horse’.”
+“La descrizione corrisponde esattamente; inoltre, il bagaglio è contrassegnato dalla lettera ‘R.M’. È composto da due nuove borse di pelle: una recava il nome del produttore di [[settings/new-york|New York]], e entrambe sembrano essere state acquistate insieme. Il bagaglio più grande verrà inviato sul Titanic, dove lui ha la cabina 227 (senza bagno). Non ho avuto l’opportunità di aprirlo. La valigetta era aperta; comunque, non avrebbe contenuto nulla di importante. Tuttavia, ho ritenuto opportuno menzionare un foglio su cui erano appuntati alcuni dettagli del suo itinerario. Non intende recarsi a Parigi prima di visitare qualche luogo chiamato Stratford. Non è specificato quale Stratford si tratti; forse potrebbe trattarsi anche del nome di una persona. Ha un appuntamento con qualcuno nei Laghi, in un hotel chiamato ‘Black Horse’.”
 
 Si alzò dalla scrivania, andò agli scaffali dove erano riposti i libri di riferimento e cercò in un atlante stradale l’informazione relativa alla “Black Horse” (o “Black Horses”) della regione del Lake District. Ne trovò solo uno che sembrava abbastanza importante, quindi tornò a scrivere.
 
@@ -3577,7 +3577,7 @@ Now that she had occupied the Foreign Office for eight years (five under the lat
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO IV
+CAPITOLO IV
 
 Lady Caroline Balcombe, per tradizione della sua nobile famiglia (era di origine Baugh di Woolstone), era legata al partito anarchico; suo padre stesso ne era stato una sorta di secondo leader a metà del ventesimo secolo. In effetti, tutta quella stirpe di persone dotate di talento ereditario aveva sempre mostrato una tendenza verso un'interpretazione più democratica degli affari pubblici.
 
@@ -3929,7 +3929,7 @@ Si sedette, appoggiandosi allo schienale di una profonda sedia di pelle, disatti
 
 “Sì, ah, l’Inghilterra,” mormorò il suo superiore, “l’Inghilterra. Beh, signor Mallard, deve ricordare che è proprio questo clima a averci resi ciò che siamo. Comunque, posso assicurarglielo: è stato proprio questo clima a rendermi ciò che sono. Ricordo bene mio caro padre, quando mi portò per la prima volta a Roma nel ’35, o forse era il ’36? No, il ’35. Ricordo esattamente la data perché quell’anno si tenne il Terzo Congresso Universale della Pace, ” Si interruppe bruscamente.
 
-#Correva senza sosta… e continuò bruscamente.
+Correva senza sosta… e continuò bruscamente.
 
 “Bene, signor Mallard, mi scuserà se vado subito al dunque, vero?”
 
@@ -4053,7 +4053,7 @@ Il Ministro dell’Interno fece un gesto con la mano.
 
 “Beh, in ogni caso, supponiamo per ipotesi che tu sia qui per negoziare.”
 
-# “Negoziare cosa?”
+“Negoziare cosa?”
 
 “Ora, ora,” rispose il Segretario dell’Interno. “Certo, apprezzo pienamente il vostro diritto di rimanere reticenti; anzi, signor Mallard, ne comprendo perfettamente le ragioni. Al vostro posto, assumerei esattamente lo stesso atteggiamento. Ma potreste anche essere franco con me. Queste cose vengono quasi sempre fatte da terzi, poiché nessuno ne sa più di voi. Ci è stato detto che avete il potere di avviare delle trattative – quelle verbali – e tutto ciò che voglio sapere è l’entità di tali poteri. Solo allora saprò cosa fare e cosa dire ai miei colleghi. Sono stato chiaro?”
 
@@ -4152,7 +4152,7 @@ Just on getting in Mallard had noticed a short, sturdy-looking man (who seemed t
 
 The thing was of no importance; it was but a casual glance at one out of a hundred such sights at that hour. But the man’s face was full in the light of the electric lamp, and was noticeable enough. After a moment the harassed Mallard forgot all about it. He gave the direction of his hotel, stepped in, and sank back morally exhausted.
 
-That short drive south and eastwards from Mayfair was not as short as it might have been, and perhaps someone more suspicious or with more knowledge of the world than this poor young rich man might have been intrigued when, to begin with, the taxi pulled up short at the corner of Mount Street. The driver laboriously got off the seat, taking plenty of time over it, put his head in at the window, and said he had quite forgotten the address to which he had to go. He might have been still more intrigued when, five hundred yards on, the vehicle stopped with a grinding noise, and the driver, jumping off once more, assured him that he would not be a moment, and began hitting things with some iron instrument or other. At last he was delivered safe and sound. But the [[Journey|journey]] had taken seven minutes more than it ought to have done.
+That short drive south and eastwards from Mayfair was not as short as it might have been, and perhaps someone more suspicious or with more knowledge of the world than this poor young rich man might have been intrigued when, to begin with, the taxi pulled up short at the corner of Mount Street. The driver laboriously got off the seat, taking plenty of time over it, put his head in at the window, and said he had quite forgotten the address to which he had to go. He might have been still more intrigued when, five hundred yards on, the vehicle stopped with a grinding noise, and the driver, jumping off once more, assured him that he would not be a moment, and began hitting things with some iron instrument or other. At last he was delivered safe and sound. But the [[motifs/journey|journey]] had taken seven minutes more than it ought to have done.
 
 He was not in the best of tempers, therefore, as he paid the man off and went through the revolving door; and there, comfortably sprawling in a deep chair in the lounge, smoking a cigar, and in a seeming indifference of bliss to the world about him, was, most unmistakably, the gentleman who had taken that other taxi. He had apparently got to the hotel first. It was a coincidence, no more; but the victim was in a jerky mood. He steadied himself. Perhaps he was exaggerating that coincidence a little, eh? But his mind still turned upon the sturdy one. Moreover, he could not get it out of his head that the short and sturdy one had watched him over his shoulder as he went off out of the lounge towards the lift.
 
@@ -4177,7 +4177,7 @@ Mr. Chinny was on a Toff Stunt. He was on the Toff Stunt at the Titanic Hotel an
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO V
+CAPITOLO V
 
 Il segretario di casa salì di nuovo al piano di sopra, nella sala da pranzo piena di oscurità. Trovò Mallard molto a disagio, quasi incapace di sapere cosa dire o fare: la nipote e suo marito cercavano a turno di rassicurarlo, ma fallivano miseramente.
 
@@ -4189,7 +4189,7 @@ Appena entrato nel centro commerciale, Mallard notò un uomo di statura bassa ma
 
 Quella cosa non aveva alcuna importanza; era soltanto uno sguardo casuale su centinaia di scene simili in quell’ora. Ma il volto dell’uomo era ben visibile nella luce della lampada elettrica. Dopo un momento, Mallard, distratto da altre preoccupazioni, dimenticò completamente l’episodio. Indicò la direzione del suo hotel, entrò e si lasciò cadere sul letto, moralmente esaurito.
 
-Quel breve tragitto in direzione sud-est da Mayfair non era affatto così breve come avrebbe potuto essere; forse qualcuno, più sospettoso o con una maggiore conoscenza del mondo di questo povero giovane ricco, si sarebbe incuriosito quando, all’inizio, il taxi si fermò bruscamente all’angolo di Mount Street. Il conducente scese dal sedile con grande lentezza, infilò la testa dentro il finestrino e disse di aver completamente dimenticato l’indirizzo verso cui doveva andare. Sarebbe stato ancora più perplesso se, cinquecento metri dopo, il veicolo si fosse fermato di nuovo con un rumore stridulo, e il conducente, scendendo nuovamente, gli avesse assicurato che sarebbe tornato subito, per poi iniziare a colpire qualcosa con qualche strumento di ferro. Alla fine arrivò sano e salvo. Ma il [[Journey|viaggio]] aveva richiesto sette minuti in più del dovuto.
+Quel breve tragitto in direzione sud-est da Mayfair non era affatto così breve come avrebbe potuto essere; forse qualcuno, più sospettoso o con una maggiore conoscenza del mondo di questo povero giovane ricco, si sarebbe incuriosito quando, all’inizio, il taxi si fermò bruscamente all’angolo di Mount Street. Il conducente scese dal sedile con grande lentezza, infilò la testa dentro il finestrino e disse di aver completamente dimenticato l’indirizzo verso cui doveva andare. Sarebbe stato ancora più perplesso se, cinquecento metri dopo, il veicolo si fosse fermato di nuovo con un rumore stridulo, e il conducente, scendendo nuovamente, gli avesse assicurato che sarebbe tornato subito, per poi iniziare a colpire qualcosa con qualche strumento di ferro. Alla fine arrivò sano e salvo. Ma il [[motifs/journey|viaggio]] aveva richiesto sette minuti in più del dovuto.
 
 Non era certo di buon umore; quindi, dopo aver pagato l’uomo e attraversato la porta girevole, si trovò nella sala soggiorno, sdraiato comodamente in una poltrona profonda, a fumare un sigaro, con un’aria apparentemente indifferente verso il mondo che lo circondava. Era senza dubbio lo stesso signore che aveva preso quell’altro taxi. A quanto pare era arrivato all’hotel prima di lui. Era solo una coincidenza. Ma la vittima era in uno stato d’animo particolarmente irrequieto. Si calmò un po’. Forse stava esagerando riguardo a quella coincidenza. Ma non riusciva proprio a scacciare dalla mente l’immagine di quell’uomo robusto e basso che lo aveva osservato mentre usciva dalla sala soggiorno verso l’ascensore.
 
@@ -4232,13 +4232,13 @@ And Mr. Chinny was in glory — almost in beatitude. It is one of the splendours
 
 I am bad at describing clothes, but I can tell you generally that Mr. Chinny was in a sort of grey which had no small cousinship with purple; and his tie suggested at once the Guards and Balliol, though not a replica of either of those symbols; that he had gilt links; that he had spats. But, on the top of having all these things, he also had discretion. The make-up was not exaggerated, the covering of his carcass was that of the well-to-do English gentleman — only an inch or two on the bounder side, for he had taken for his Model the Secretary of State for the Fine Arts, as being a Lord.
 
-Richard Mallard ate his breakfast in some gloom, which the newspaper he was reading, being conducted by a Peer and therefore all murders and gallows, did not relieve. His meal over, he strolled towards the big lounge, and was at last quite seriously annoyed to notice that Mr. Chinny was also strolling, at about the same pace, half a corridor’s length behind him. As a piece of synchrony it was excellent; as a piece of [[Deception|deception]] it was bad. And once again, if you ask me why they use such men in that Department, I make the same reply. When things get too large and too complicated they usually get rather badly run.
+Richard Mallard ate his breakfast in some gloom, which the newspaper he was reading, being conducted by a Peer and therefore all murders and gallows, did not relieve. His meal over, he strolled towards the big lounge, and was at last quite seriously annoyed to notice that Mr. Chinny was also strolling, at about the same pace, half a corridor’s length behind him. As a piece of synchrony it was excellent; as a piece of [[concepts/deception|deception]] it was bad. And once again, if you ask me why they use such men in that Department, I make the same reply. When things get too large and too complicated they usually get rather badly run.
 
 Anyhow, Mr. Chinny was happy — so far. He liked the atmosphere of luxury, the pages in buttons bawling numbers at the tops of their voices, the footmen in powdered hair, the gilded columns, the complicated food with foreign names (even at breakfast), the insolence of the waiters — all that suited him. He did not get nearly enough of it. Perhaps not twice in a twelvemonth. It made him feel like a hero in a cinema when he did get it, and he had not had it since he was shadowing that Crook from the Argentine just over a year before. Indeed, the choice of Mr. Chinny was due (it is the way with some organisations) to luck. The Crook had been nabbed through missing his train by over-sleeping. He had been arrested in his bedroom, and Mr. Chinny, with real genius, had suddenly bethought him to say that the drowsiness was due to a drug administered by him in the foreigner’s coffee the night before. Nor did his superiors notice that the day happened to be that in which winter time changes to summer time.
 
 To this accident was due Mr. Chinny’s high employment on this occasion, and of such is the Kingdom of Heaven.
 
-But in the eyes of Heaven, if not in his own, Mr. Chinny, in spite of his reputation with the Department, was not of a calibre for his task. Mallard, already exasperated, was beginning to be sure that the man was shadowing him. The lift delivered him to his room ten minutes later, and behold — even as he was unlocking the door, the key of which had stuck for a moment, a second [[Journey|journey]] of the elevator delivered Mr. Chinny, who walked with nonchalance towards a neighbouring door. It speaks whole libraries for the ineptitude of Mr. Chinny, that it could goad such a youth as Richard Mallard; but Richard Mallard was getting really annoyed.
+But in the eyes of Heaven, if not in his own, Mr. Chinny, in spite of his reputation with the Department, was not of a calibre for his task. Mallard, already exasperated, was beginning to be sure that the man was shadowing him. The lift delivered him to his room ten minutes later, and behold — even as he was unlocking the door, the key of which had stuck for a moment, a second [[motifs/journey|journey]] of the elevator delivered Mr. Chinny, who walked with nonchalance towards a neighbouring door. It speaks whole libraries for the ineptitude of Mr. Chinny, that it could goad such a youth as Richard Mallard; but Richard Mallard was getting really annoyed.
 
 Mr. Chinny did not stay long in that upper room. He knew his stupid mechanical instructions far too well for that. His place lay at the strategic points of the exits. Early as was the hour, he ordered a drink, and sprawled back sipping it in a wicker-chair of the lounge, waiting for his patient to appear. The Usual Informant came and told him that Richard Mallard had rung and might be down at any moment; therefore did Mr. Chinny go out for a moment to speak to the Other Gentleman, he who was entrusted with the task of Eye Keeping for the Exterior Department, or, as we call it in the Profession, the Street Side.
 
@@ -4267,7 +4267,7 @@ E il signor Chinny era nella gloria, quasi nella beatitudine. Uno dei vantaggi d
 
 Sono maldestro nel descrivere i vestiti, ma posso dirvi in generale che il signor Chinny indossava un abito di colore grigio, che presentava notevoli somiglianze con il viola; la sua cravatta faceva immediatamente pensare alle Guardie Reali e al college Balliol, anche se non ne era una replica esatta; i suoi bottoni erano dorati e indossava delle ghette. Ma, oltre a tutte queste caratteristiche, possedeva anche un certo gusto nell’abbigliamento: il suo look non era eccessivo; l’aspetto del suo corpo rifletteva quello di un rispettabile gentiluomo inglese, solo con qualche dettaglio in più, poiché aveva preso come modello il Segretario di Stato per le Arti, essendo quest’ultimo un nobile.
 
-Richard Mallard mangiò la colazione in un’atmosfera cupa; nemmeno il giornale che stava leggendo, pieno di notizie su omicidi e giustizi, riuscì a rallegrarlo. Dopo aver finito di mangiare, si avviò verso il grande salotto, ma rimase piuttosto sorpreso nel notare che anche Mr. Chinny lo stava seguendo, mantenendo più o meno lo stesso passo, a circa metà della distanza del corridoio. Come esempio di sincronizzazione, era eccellente; come esempio di [[Deception|inganno]], invece, molto scadente. E ancora una volta, se mi chiedete perché si utilizzino persone del genere in quel dipartimento, rispondo sempre allo stesso modo: quando le cose diventano troppo grandi e complicate, di solito vengono gestite in modo piuttosto maldestro.
+Richard Mallard mangiò la colazione in un’atmosfera cupa; nemmeno il giornale che stava leggendo, pieno di notizie su omicidi e giustizi, riuscì a rallegrarlo. Dopo aver finito di mangiare, si avviò verso il grande salotto, ma rimase piuttosto sorpreso nel notare che anche Mr. Chinny lo stava seguendo, mantenendo più o meno lo stesso passo, a circa metà della distanza del corridoio. Come esempio di sincronizzazione, era eccellente; come esempio di [[concepts/deception|inganno]], invece, molto scadente. E ancora una volta, se mi chiedete perché si utilizzino persone del genere in quel dipartimento, rispondo sempre allo stesso modo: quando le cose diventano troppo grandi e complicate, di solito vengono gestite in modo piuttosto maldestro.
 
 Comunque sia, il signor Chinny era felice, per il momento. Gli piaceva quell’atmosfera di lusso: le pagine dei giornali con numeri stampati in caratteri enormi, i camerieri dai capelli impolverati, le colonne dorate, il cibo complesso con nomi stranieri (anche a colazione), l’arroganza dei camerieri. Tutto ciò gli si addiceva. Non ne aveva mai abbastanza; forse solo due volte in dodici mesi. Quando finalmente riusciva ad assaporare tutto questo, si sentiva come un eroe al cinema. L’ultima volta che aveva vissuto una simile esperienza era stato poco più di un anno prima, quando seguiva quell’uomo losco proveniente dall’Argentina. In realtà, la scelta del signor Chinny era stata dovuta, alla fortuna (è così per alcune organizzazioni). Quell’uomo losco era stato catturato perché aveva perso il treno a causa di un sonno eccessivo; era stato arrestato nel suo letto, e il signor Chinny, con vera genialità, gli aveva fatto dire che quella sonnolenza era dovuta a una sostanza drogante che gli aveva somministrato nella caffè la sera precedente. I suoi superiori non si erano nemmeno accorti che quel giorno coincideva con il passaggio dall’inverno all’estate.
 
@@ -4496,7 +4496,7 @@ The Prime Minister thought for a moment, tapping her false teeth with the nail o
 
 “Suppose he prefers a national loan for West Irania?” suggested Delavere.
 
-“Well,” patiently replied his chief, “if he prefers a loan he can have it. I arranged that with the banks and Douglas the moment I heard the fellow was sailing from [[New York]]. He would get his commission on the loan, and that might give us more of a hold over him. Have you heard whether he’s putting his price high?”
+“Well,” patiently replied his chief, “if he prefers a loan he can have it. I arranged that with the banks and Douglas the moment I heard the fellow was sailing from [[settings/new-york|New York]]. He would get his commission on the loan, and that might give us more of a hold over him. Have you heard whether he’s putting his price high?”
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -4535,7 +4535,7 @@ Nel suo sguardo c'era determinazione mentre lo faceva. Sarebbe stata una Guardia
 
 “Una controconcessione è senz’altro la soluzione migliore, non credi?” suggerì Delavere. “È esattamente ciò che hanno fatto nel caso Dagon: quando lui ottenne la concessione per i viaggi marittimi a beneficio del nostro popolo, noi permettemmo alla sua banca e a Budapest di gestire l’operazione legata alla silvicoltura.”
 
-# Hai scoperto con quali aziende è collegato?
+Hai scoperto con quali aziende è collegato?
 
 “Non ancora,” rispose il segretario. “Potrebbe non essere apertamente collegato a nulla. Nel sistema degli Annihilationisti, come sapete, alle società private non è permesso operare. Probabilmente scopriremo che la maggior parte dei suoi fondi privati si trova nei fondi britannici. Questi asiatici sanno bene dove nasconderli. Dovrò prima scoprire chi sono i mediatori, per capire quale interesse abbia in qualsiasi società o banca nostra, o in qualsiasi gruppo continentale o americano.”
 
@@ -4545,7 +4545,7 @@ Il Primo Ministro rimase per un momento in silenzio, battendo i suoi denti falsi
 
 “Supponiamo che preferisca un prestito nazionale per la West Irania, ” suggerì Delavere.
 
-“Beh,” rispose pazientemente il suo capo, “se preferisce un prestito, può averlo. Ho sistemato tutto con le banche e con Douglas non appena ho saputo che quell’uomo stava partendo da [[New York]]. Otterrà la sua commissione sul prestito, e questo potrebbe darci più potere su di lui. Hai sentito se ha fissato un prezzo troppo alto?”
+“Beh,” rispose pazientemente il suo capo, “se preferisce un prestito, può averlo. Ho sistemato tutto con le banche e con Douglas non appena ho saputo che quell’uomo stava partendo da [[settings/new-york|New York]]. Otterrà la sua commissione sul prestito, e questo potrebbe darci più potere su di lui. Hai sentito se ha fissato un prezzo troppo alto?”
 
 
 
@@ -4568,7 +4568,7 @@ Anyhow, he must play up to the side: his vis-à-vis was registering tremors. Del
 
 He shook hands in a sort of brotherly manner, as though he had come to see Mallard for Mallard’s sake.
 
-He talked of his [[Journey|journey]] from the United States (without a word of West Irania). He talked at length and with emphasis about the great annoyance which he must have suffered, and how much everybody regretted it. He even hinted vaguely at compensation — but he did not carry that vein too far, for fear of spoiling the coming effect of great sums by the mention of smaller ones. He led the conversation round very gradually, and in the most general terms, to matters of territory, of international relations, of the establishment of boundaries, to a concession — all of which was bewildering Greek to his victim.
+He talked of his [[motifs/journey|journey]] from the United States (without a word of West Irania). He talked at length and with emphasis about the great annoyance which he must have suffered, and how much everybody regretted it. He even hinted vaguely at compensation — but he did not carry that vein too far, for fear of spoiling the coming effect of great sums by the mention of smaller ones. He led the conversation round very gradually, and in the most general terms, to matters of territory, of international relations, of the establishment of boundaries, to a concession — all of which was bewildering Greek to his victim.
 
 And then he put his hand suddenly upon the centre of the affair, saying, almost abruptly:
 
@@ -4618,7 +4618,7 @@ With that he firmly drove the conversation down another street, got it on to the
 
 Well, Mr. Delavere hoped they might soon meet again, and so made for the door and his taxi in something as near jubilation as an astute young man of the world ever gets.
 
-Mallard left for his hotel and swept the lounge with his eye for a [[Detective]]. It was empty, save for uniforms — and even these he suspected. He went up to his room, looking behind him two or three times on the way, and locked himself in. There he held his head in his hands and suffered agonies of fear and incomprehension combined. He was tangled beyond the limits of entanglement. How could you promise something you hadn’t yet got? You might pledge yourself verbally, but when it came to documents? Eh? What? And what on earth had the “Mallard Millions” and Piraeus to do with the British Government?
+Mallard left for his hotel and swept the lounge with his eye for a [[archetypes/detective|Detective]]. It was empty, save for uniforms — and even these he suspected. He went up to his room, looking behind him two or three times on the way, and locked himself in. There he held his head in his hands and suffered agonies of fear and incomprehension combined. He was tangled beyond the limits of entanglement. How could you promise something you hadn’t yet got? You might pledge yourself verbally, but when it came to documents? Eh? What? And what on earth had the “Mallard Millions” and Piraeus to do with the British Government?
 
 Perhaps, he surmised (for he was innocent in these things), there was some bargain on with the authorities in Texas; perhaps they wanted to have no chance, however remote, of complications, and so would pay him to clear out of the road. But would it be honest? And (again) why the British?
 
@@ -4653,7 +4653,7 @@ Comunque fosse, doveva cercare di calmare la situazione: il suo interlocutore st
 
 Strinse la mano in modo fraterno, come se fosse venuto a trovare Mallard per il suo bene.
 
-Parlò della sua [[Journey|viaggio]] dagli Stati Uniti (senza menzionare nemmeno una parola dell’Irania occidentale). Parlò a lungo e con enfasi del grande disagio che doveva aver provato, e di quanto tutti ne fossero dispiaciuti. Fece persino allusione in modo vago a un eventuale risarcimento, ma non approfondì l’argomento troppo, per paura di rovinare l’effetto delle somme ingenti che avrebbe menzionato successivamente, parlando di somme più piccole. Guidò la conversazione in modo molto graduale e in termini molto generali, verso argomenti come il territorio, le relazioni internazionali, la delimitazione dei confini. Tutto ciò rappresentava un vero enigma per la sua “vittima”, che non comprendeva affatto di cosa si stesse parlando.
+Parlò della sua [[motifs/journey|viaggio]] dagli Stati Uniti (senza menzionare nemmeno una parola dell’Irania occidentale). Parlò a lungo e con enfasi del grande disagio che doveva aver provato, e di quanto tutti ne fossero dispiaciuti. Fece persino allusione in modo vago a un eventuale risarcimento, ma non approfondì l’argomento troppo, per paura di rovinare l’effetto delle somme ingenti che avrebbe menzionato successivamente, parlando di somme più piccole. Guidò la conversazione in modo molto graduale e in termini molto generali, verso argomenti come il territorio, le relazioni internazionali, la delimitazione dei confini. Tutto ciò rappresentava un vero enigma per la sua “vittima”, che non comprendeva affatto di cosa si stesse parlando.
 
 E poi, all’improvviso, posò la mano proprio al centro della questione, dicendo quasi bruscamente:
 
@@ -4703,7 +4703,7 @@ Con queste parole guidò fermamente la conversazione su un altro argomento, pass
 
 Beh, il signor Delavere sperava che potessero incontrarsi di nuovo presto, quindi si diresse verso la porta e il suo taxi con un’aria di gioia quasi pari a quella di un giovane astuto e abile nel mondo degli affari.
 
-Mallard si diresse verso il suo hotel e guardò intorno nel salone alla ricerca di qualche [[Detective|detective]]. Era vuoto, tranne che per alcune uniformi. E anche di queste sospettava qualcosa. Salì in camera sua, guardandosi alle spalle due o tre volte lungo il cammino, e si chiuse a chiave dentro. Lì, si prese la testa tra le mani, sopportando atroci dolori causati dalla paura e dall’incomprensione. Era completamente intrappolato in una situazione inspiegabile. Come si poteva promettere qualcosa che non si possedeva ancora? Forse si potevano fare promesse verbali, ma cosa dire dei documenti? Eh? Cosa diavolo c’entravano i “Mallard Millions” e il Piraeus con il governo britannico?
+Mallard si diresse verso il suo hotel e guardò intorno nel salone alla ricerca di qualche [[archetypes/detective|detective]]. Era vuoto, tranne che per alcune uniformi. E anche di queste sospettava qualcosa. Salì in camera sua, guardandosi alle spalle due o tre volte lungo il cammino, e si chiuse a chiave dentro. Lì, si prese la testa tra le mani, sopportando atroci dolori causati dalla paura e dall’incomprensione. Era completamente intrappolato in una situazione inspiegabile. Come si poteva promettere qualcosa che non si possedeva ancora? Forse si potevano fare promesse verbali, ma cosa dire dei documenti? Eh? Cosa diavolo c’entravano i “Mallard Millions” e il Piraeus con il governo britannico?
 
 Forse, ipotizzò (poiché era innocente in queste faccende), c'era qualche accordo segreto con le autorità del Texas; forse volevano evitare qualsiasi possibilità, anche remota, di complicazioni, e quindi gli avrebbero pagato affinché se ne andasse. Ma sarebbe stato onesto? E, perché proprio i britannici?
 
@@ -4769,7 +4769,7 @@ Lord Delisport knew all that. His mighty intelligence had concluded that the mat
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VI
+CAPITOLO VI
 
 La mattina seguente all’episodio in cui Richard Mallard aveva avuto la sua piccola “avventura” con la polizia, sia sotto il velo che apertamente, proprio nell’istante della sua splendida assoluzione, Lord Delisport – imperatore, proprietario di un giornale e marchese – camminava avanti e indietro nel suo ufficio, immerso in profonde riflessioni. È un’abitudine ormai troppo rara tra gli uomini del suo alto rango; ma se vi dico che stava pensando al denaro, allora capirete meglio sia lui che me.
 
@@ -4824,7 +4824,7 @@ The Worsing difficulty he would tackle later. For the moment the essential thing
 
 Lord Delisport lived in wholesome awe of the Italian Government. For nearly sixty years it had grown in strength, and the Italian nation with it, now possessed of colonies “mandated” from older Powers. He did not understand how it worked. It puzzled him. But he knew that what he would have called “approaches” were singularly difficult in the new Italy; and that its Government had a ferocious and rapid way of acting very disrespectfully to foreign capitalists. It had even been known to put rich men in prison; a thing inconceivable in happier lands. He took another turn up and down the room.... It narrowed itself down to this... He must get at the Agent here, himself, and with the least delay.
 
-The Agent who was coming to negotiate had passed through [[America]]. He knew that. He had got it through the usual channel. He was on his way to, or had just reached, England. But under what name he would pass, at what exact date he would (or had) come, Lord Delisport was still ignorant. Yet it was essential to get hold of him before the official world did. He pondered upon how that advantage was to be obtained. So he took one more turn up the room, and, as is the habit of genius, one more gulp of whisky out of his flask, and, so fortified, sat down at last to act. The gulp of whisky had suggested an Avenue of Approach.
+The Agent who was coming to negotiate had passed through [[settings/america|America]]. He knew that. He had got it through the usual channel. He was on his way to, or had just reached, England. But under what name he would pass, at what exact date he would (or had) come, Lord Delisport was still ignorant. Yet it was essential to get hold of him before the official world did. He pondered upon how that advantage was to be obtained. So he took one more turn up the room, and, as is the habit of genius, one more gulp of whisky out of his flask, and, so fortified, sat down at last to act. The gulp of whisky had suggested an Avenue of Approach.
 
 He took up the telephone, and pulled out his watch at the same time. It was not yet eleven.
 
@@ -4855,7 +4855,7 @@ La difficoltà crescente avrebbe dovuto affrontarla in seguito. Per il momento, 
 
 Lord Delisport provava un profondo rispetto per il governo italiano. Per quasi sessant’anni esso aveva continuato a rafforzarsi, e con esso anche la nazione italiana, che ora possedeva colonie “concesse” da potenze più antiche. Lui non capiva come funzionasse tutto ciò; gli sembrava davvero enigmatico. Tuttavia sapeva che quelle che lui avrebbe definito “strategie” per ottenere qualcosa erano particolarmente difficili da attuare nella nuova Italia; inoltre, il governo italiano agiva in modo spietato e rapido nei confronti dei capitalisti stranieri. Era persino noto che imprigionasse persone ricche, una cosa inconcepibile in paesi più felici. Fece un altro giro per la stanza. Alla fine, concluse: doveva mettersi in contatto con quell’agente qui presente, il prima possibile.
 
-L’agente che stava per arrivare per negoziare aveva già attraversato l’[[America]]. Lo sapeva; aveva utilizzato i soliti canali per raggiungere il suo obiettivo. Era in viaggio verso l’Inghilterra, o forse l’aveva appena raggiunta. Ma con quale nome si sarebbe presentato, in quale data esatta sarebbe arrivato. Lord Delisport non lo sapeva ancora. Tuttavia era essenziale mettersi in contatto con lui prima che lo facesse il mondo ufficiale. Rifletté su come ottenere quell’ vantaggio. Così fece un altro giro per la stanza e, come è tipico dei geni, bevve un altro sorso di whisky dalla sua fiaschetta. Rinvigorito da quel liquore, finalmente si sedette per agire. Quel sorso di whisky gli aveva suggerito una possibile strategia d’approccio.
+L’agente che stava per arrivare per negoziare aveva già attraversato l’[[settings/america|America]]. Lo sapeva; aveva utilizzato i soliti canali per raggiungere il suo obiettivo. Era in viaggio verso l’Inghilterra, o forse l’aveva appena raggiunta. Ma con quale nome si sarebbe presentato, in quale data esatta sarebbe arrivato. Lord Delisport non lo sapeva ancora. Tuttavia era essenziale mettersi in contatto con lui prima che lo facesse il mondo ufficiale. Rifletté su come ottenere quell’ vantaggio. Così fece un altro giro per la stanza e, come è tipico dei geni, bevve un altro sorso di whisky dalla sua fiaschetta. Rinvigorito da quel liquore, finalmente si sedette per agire. Quel sorso di whisky gli aveva suggerito una possibile strategia d’approccio.
 
 Prese il telefono in mano e allo stesso tempo tirò fuori l'orologio. Non erano ancora le undici.
 
@@ -5307,7 +5307,7 @@ Richard Mallard told them all, and particularly the landlady, that he meant to g
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VII
+CAPITOLO VII
 
 Nel suo letto scomodo, Richard Mallard aveva scoperto ciò che i giovani non dovrebbero mai conoscere. Non si trattava semplicemente di una notte insonne, come quelle che aveva già trascorso in precedenza. Era un’insonnia totale. Giaceva agitato, nella disperazione, fissando l’oscurità totale intorno a sé.
 
@@ -5321,7 +5321,7 @@ Comunque, il giorno dopo avrebbe potuto riposare. Il giorno dopo tutto sarebbe f
 
 Aveva raggiunto quel luogo con l’intenzione di ammirare i paesaggi, come fanno tutti; aveva pianificato di visitare prima i laghi, poi le Highlands e infine Stratford-on-Avon. Aveva letto attentamente le opere di Wordsworth a bordo della nave; possedeva anche le mappe, e aveva persino annotato il nome dell’ostello in cui avrebbe soggiornato: “Black Horse”. Secondo la guida turistica, era proprio lì che Wordsworth aveva scritto quella poesia immortale, che inizia con un suono potente come quello di una tromba.
 
-#"Non andrò a Windermere oggi."
+"Non andrò a Windermere oggi."
 
 “Domani sarà più conveniente.”
 
@@ -5553,13 +5553,13 @@ The over-anxious and much-too-careful face, which was trying to understand his o
 
 Il cielo si vendica dell'arroganza dei ricchi e aiuta i poveri! Non che il detective A fosse povero, ma sembrava povero, ed è proprio questo che bastava. E poiché era già buio, il cielo fu ingannato: aveva “aiutato” il detective A, basandosi soltanto sull’aspetto povero che questi presentava. Aveva appreso tutto ciò che voleva sapere. Quella notte, il detective B e la sua preda si trovavano all’hotel Clan Tarroch. Tornò nel suo taxi, ormai avvolto nell’oscurità, e aspettò finché l’auto troppo ricca davanti a lui non riprese a muoversi. Aspettò fino a quando i suoi fari non scomparvero dietro l’angolo. Solo allora fece accendere il taxi al conducente e, prima di salire, chiese: “Che cos’è il Clan Tarroch?”
 
-# Solo l’hotel.
+Solo l’hotel.
 
 "Nient'altro?"
 
 “Ecco la suocera di mia moglie, se volete saperlo.”
 
-# Darà ospitalità?
+Darà ospitalità?
 
 “Lo farà.”
 
@@ -5732,7 +5732,7 @@ He answered cautiously.
 
 “It’s a very large offer, you know, Mr. Worsing! What?”
 
-“It is,” said Worsing quietly. “But I mean it. I am fully authorised to make it. And remember this is for the personal payment only; the preliminary payment. What I sincerely think is due from us to you. And if you will take my advice you will make it shares — or perhaps” (he thought he saw something doubtful in Mallard’s downcast face, and added hurriedly) “in part cash down and part shares. Oh!” he continued, warming to his work, as he always did when really great affairs were in hand, “surely you know that the possibilities are infinite! When I think of all that it means... Yes, indeed, you would be wiser to consider shares. There’s no end to what it may mean,” and the old man came as near to enthusiasm as such can come. “And we’re right, too,” he continued emphatically — and quite truthfully. “If you will excuse my saying it, we who have handled such things for twenty years, and I myself, who have been dealing with them since I was quite a young man, would probably bring it to a better conclusion than anybody else. If you would rather not have a personal payment, but arrange, say, for a private arrangement with your people at home, we could meet you. If you are authorised to offer the whole thing for cash, at a much higher rate, instead of an annual rental, we could meet you. We could arrange a loan in [[New York]] and London. The only reason I used the words ‘personal payment’ was that I wanted you to be quite clear that I thought it just to you. For it’s on you that our success depends.”
+“It is,” said Worsing quietly. “But I mean it. I am fully authorised to make it. And remember this is for the personal payment only; the preliminary payment. What I sincerely think is due from us to you. And if you will take my advice you will make it shares — or perhaps” (he thought he saw something doubtful in Mallard’s downcast face, and added hurriedly) “in part cash down and part shares. Oh!” he continued, warming to his work, as he always did when really great affairs were in hand, “surely you know that the possibilities are infinite! When I think of all that it means... Yes, indeed, you would be wiser to consider shares. There’s no end to what it may mean,” and the old man came as near to enthusiasm as such can come. “And we’re right, too,” he continued emphatically — and quite truthfully. “If you will excuse my saying it, we who have handled such things for twenty years, and I myself, who have been dealing with them since I was quite a young man, would probably bring it to a better conclusion than anybody else. If you would rather not have a personal payment, but arrange, say, for a private arrangement with your people at home, we could meet you. If you are authorised to offer the whole thing for cash, at a much higher rate, instead of an annual rental, we could meet you. We could arrange a loan in [[settings/new-york|New York]] and London. The only reason I used the words ‘personal payment’ was that I wanted you to be quite clear that I thought it just to you. For it’s on you that our success depends.”
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5785,7 +5785,7 @@ Rispose con cautela.
 
 “È un’offerta davvero molto generosa, sa, signor Worsing? Cosa?”
 
-“Sì,” disse Worsing in tono tranquillo. “Ma lo dico sul serio. Sono pienamente autorizzato a farlo. E ricorda: si tratta soltanto di un pagamento personale, una somma preliminare. Quello che sinceramente ritengo sia dovuto da noi a te. Se segui il mio consiglio, potresti scegliere di ricevere azioni. O forse,” aggiunse, notando un’espressione perplessa sul volto di Mallard, “in parte in contanti e in parte in azioni. Oh!” continuò, animandosi sempre di più, come faceva sempre quando si trattava di questioni importanti. “Di certo sai che le possibilità sono infinite. Pensando a tutto ciò che questo potrebbe significare. Sì, davvero, sarebbe meglio per te scegliere le azioni. Le conseguenze potrebbero essere inimmaginabili,” e l’uomo anziano sembrò quasi entusiasta. “E abbiamo anche ragione,” proseguì con convinzione. E del tutto sinceramente. “Se mi permetti di dirlo, noi che ci occupiamo di queste cose da vent’anni. E io stesso, che ho iniziato fin da quando ero molto giovane. Probabilmente riusciremmo a raggiungere un accordo migliore di chiunque altro. Se preferisci non ricevere un pagamento personale, ma organizzare invece un accordo privato con le tue persone a casa, possiamo incontrarci. Se sei autorizzato ad offrire l’intera somma in contanti, a un tasso molto più alto rispetto a un affitto annuale. Possiamo ancora trovare una soluzione. Potremmo ottenere un prestito a [[New York]] e Londra. L’unica ragione per cui ho usato il termine ‘pagamento personale’ è perché volevo essere assolutamente chiaro: penso che questa somma sia davvero destinata solo a te. Il nostro successo dipende da te.”
+“Sì,” disse Worsing in tono tranquillo. “Ma lo dico sul serio. Sono pienamente autorizzato a farlo. E ricorda: si tratta soltanto di un pagamento personale, una somma preliminare. Quello che sinceramente ritengo sia dovuto da noi a te. Se segui il mio consiglio, potresti scegliere di ricevere azioni. O forse,” aggiunse, notando un’espressione perplessa sul volto di Mallard, “in parte in contanti e in parte in azioni. Oh!” continuò, animandosi sempre di più, come faceva sempre quando si trattava di questioni importanti. “Di certo sai che le possibilità sono infinite. Pensando a tutto ciò che questo potrebbe significare. Sì, davvero, sarebbe meglio per te scegliere le azioni. Le conseguenze potrebbero essere inimmaginabili,” e l’uomo anziano sembrò quasi entusiasta. “E abbiamo anche ragione,” proseguì con convinzione. E del tutto sinceramente. “Se mi permetti di dirlo, noi che ci occupiamo di queste cose da vent’anni. E io stesso, che ho iniziato fin da quando ero molto giovane. Probabilmente riusciremmo a raggiungere un accordo migliore di chiunque altro. Se preferisci non ricevere un pagamento personale, ma organizzare invece un accordo privato con le tue persone a casa, possiamo incontrarci. Se sei autorizzato ad offrire l’intera somma in contanti, a un tasso molto più alto rispetto a un affitto annuale. Possiamo ancora trovare una soluzione. Potremmo ottenere un prestito a [[settings/new-york|New York]] e Londra. L’unica ragione per cui ho usato il termine ‘pagamento personale’ è perché volevo essere assolutamente chiaro: penso che questa somma sia davvero destinata solo a te. Il nostro successo dipende da te.”
 
 
 
@@ -5935,7 +5935,7 @@ She lost not a moment. She tackled her miserable colleague, Harry Hardham, and m
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VIII
+CAPITOLO VIII
 
 Il vescovo di Shoreham ha osservato con acume nelle sue riflessioni che uno dei motivi per cui tutto qui viene svolto meglio rispetto ai paesi stranieri è l’abitudine al tempo libero, comune a tutte le classi della società. “In ogni ceto, dal nobile al povero” (tali sono le parole eloquenti di Sua Signoria) “le ore dedicate al lavoro sono strettamente limitate, mentre quelle riservate al divertimento sono più lunghe. Feste frequenti e prolungate sono la regola generale. Ed è per questo che portiamo a termine i nostri compiti con vivacità e precisione che rappresentano una vera fonte di invidia per i nostri rivali.”
 
@@ -5945,7 +5945,7 @@ Mallard se n'era andato giovedì mattina. Ora era lunedì pomeriggio, all’ora 
 
 Verso la fine dell’elenco c'era la parola contrassegnata con una stella: “Irania”. Sì! A proposito. Mary Bullar se ne ricordò.
 
-# Hai visto di nuovo quel tizio che si chiama Mallard?
+Hai visto di nuovo quel tizio che si chiama Mallard?
 
 “Da quando te ne ho parlato l’ultima volta…”
 
@@ -6010,7 +6010,7 @@ She had chosen him herself, personally, years before when she was still Under-Se
 
 She had first discovered him in the service of the late Charles Q. Banneken, the Copra King of Homer, Mo., earning a princely salary. She learnt his successes. She didn’t hesitate to draw upon the Exchequer (under the heading of Office Furniture, Stationery and Sundries) a still larger salary which tempted this great Englishman (for he was born in Bungay, the brother and secretary of a distinguished Baptist Minister in that town) to return to his native country and to put his unrivalled genius at the disposal of the Empire.
 
-He never failed. In the character of Henry Baker, millionaire owner of the yacht Susan, he had entertained Carramba aboard and had learnt and transmitted the design against the Azores. As a longshoreman (locally Tarry Tim), he had heard by night, concealed in a shelter, the whispered Branagan plot discussed on Brighton beach. As the burly and popular tenant for a season of Woolborough House in Grosvenor Street he had discovered, during a ball of princely magnificence, the whole Hungerford incident, and had put the Government in a position to forestall that terrible conspiracy. As a retired Captain of the Mercantile Marine in Liverpool he had caused the arrest of the Annihilationist Agent at the very moment when he was taking [[Ship|ship]] with the secret plans of the new Puffin class upon his person.
+He never failed. In the character of Henry Baker, millionaire owner of the yacht Susan, he had entertained Carramba aboard and had learnt and transmitted the design against the Azores. As a longshoreman (locally Tarry Tim), he had heard by night, concealed in a shelter, the whispered Branagan plot discussed on Brighton beach. As the burly and popular tenant for a season of Woolborough House in Grosvenor Street he had discovered, during a ball of princely magnificence, the whole Hungerford incident, and had put the Government in a position to forestall that terrible conspiracy. As a retired Captain of the Mercantile Marine in Liverpool he had caused the arrest of the Annihilationist Agent at the very moment when he was taking [[motifs/ship|ship]] with the secret plans of the new Puffin class upon his person.
 
 Such was the man who, forty minutes after leaving Lady Caroline’s presence, was tearing past Willesden in the Glasgow express, and next morning entered, fresh and hearty, the little Granite Pub at Glenaber.
 
@@ -6110,7 +6110,7 @@ For she knew of his arrival and of what was passing. She was of those few hundre
 
 She knew, not only that they were hunting him for the Concession, but that there was the alternative of arrest; the danger thrilled her! How she envied her sister, Lady Corvan, for having been privileged to entertain him at her own table! How she burned to help!
 
-With what a leaping heart, then, did she hear that name at her first introduction — Mallard! It was the name under which her Divinity had chosen to disguise himself, and as she looked at the gentle face, the quiet eyes, she was indignant at the way [[Capitalism]] had maligned him. She had been firmly sure that all those tales of the tortures, and the drownings in the Caspian, were lies. Now she was trebly sure. Her hand shook as it touched his own and as she heard a melodious voice murmuring, with the slightest of foreign accents:
+With what a leaping heart, then, did she hear that name at her first introduction — Mallard! It was the name under which her Divinity had chosen to disguise himself, and as she looked at the gentle face, the quiet eyes, she was indignant at the way [[concepts/capitalism|Capitalism]] had maligned him. She had been firmly sure that all those tales of the tortures, and the drownings in the Caspian, were lies. Now she was trebly sure. Her hand shook as it touched his own and as she heard a melodious voice murmuring, with the slightest of foreign accents:
 
 “I’ve, I’ve never had the pleasure, you know, I mean to say, what?”
 
@@ -6151,7 +6151,7 @@ Perché sapeva del suo arrivo e di ciò che stava accadendo. Era una di quelle p
 
 Sapeva non solo che lo stavano cercando per via della Concessione, ma anche che esisteva l’alternativa dell’arresto; quel pericolo la eccitava! Quanto invidiava sua sorella, Lady Corvan, per aver avuto il privilegio di riceverlo a tavola! Quanto desiderava poter aiutarlo!
 
-Con quale cuore pieno di emozione, allora, udì quel nome la prima volta che venne presentata: Mallard! Era il nome sotto cui la sua Divinità aveva scelto di nascondersi. Guardando quel volto gentile, quegli occhi tranquilli, provò indignazione per il modo in cui [[Capitalism|Il Capitalismo]] lo aveva diffamato. Era stata assolutamente certa che tutte quelle storie di torture e di annegamenti nel Mar Caspio fossero menzogne. Ora ne era ancora più convinta. Le tremò la mano quando gli strinse la sua, e udì una voce melodiosa mormorare, con un leggerissimo accento straniero:
+Con quale cuore pieno di emozione, allora, udì quel nome la prima volta che venne presentata: Mallard! Era il nome sotto cui la sua Divinità aveva scelto di nascondersi. Guardando quel volto gentile, quegli occhi tranquilli, provò indignazione per il modo in cui [[concepts/capitalism|Il Capitalismo]] lo aveva diffamato. Era stata assolutamente certa che tutte quelle storie di torture e di annegamenti nel Mar Caspio fossero menzogne. Ora ne era ancora più convinta. Le tremò la mano quando gli strinse la sua, e udì una voce melodiosa mormorare, con un leggerissimo accento straniero:
 
 “Non ho mai avuto l’opportunità… Voglio dire, cosa?”
 
@@ -6271,7 +6271,7 @@ Gli tese le mani verso di lui; il suo viso si avvicinò al suo. Per un terribile
 
 Nella sua stanza, rifugiandosi come un coniglio braccato, Richard Mallard tremava. Sentiva dentro di sé una confusa miscela di terrore: qualche orribile destino di cui gli era stato detto, una donna pazza che minacciava chissà cosa, spie dappertutto. E in quel momento, mentre era ancora immobile con gli occhi sbarrati, sentì due frasi pronunciate sotto la sua finestra. La prima apparteneva a Worsing:
 
-#"Non perdere mai il contatto. Seguilo quando se ne va e riferisci tutto."
+"Non perdere mai il contatto. Seguilo quando se ne va e riferisci tutto."
 
 Il secondo, oh! Cuore consapevole, oh! Terrore premonitore. Era davvero la voce di quella persona liscia, affascinante, rispettabile. E stava rispondendo.
 
@@ -6578,12 +6578,12 @@ With wretched springs, on defunct cushions, Richard Mallard bumped over the coun
 
 It was of but two low stories. It was covered with creepers; it stood well back from the road; in the garden between it and the paling along the highway were somewhat rusty chairs and tables of iron, and there was painted along its front, “Au Jean Bart.”
 
-Who or what John Bart might be Richard Mallard could not tell. But that was the place for him. He paid the plaintive Fleming royally, and went into the good hostelry as the storm-driven [[Ship|ship]] into harbour. Now, once and for all, was he his own master, and alone. He would forget the grave things he had suffered, the tortures beyond bearing; the dreadful nights, the ceaseless appearances of faces that knew him to the marrow, but of whom he knew nothing, save that they haunted him.
+Who or what John Bart might be Richard Mallard could not tell. But that was the place for him. He paid the plaintive Fleming royally, and went into the good hostelry as the storm-driven [[motifs/ship|ship]] into harbour. Now, once and for all, was he his own master, and alone. He would forget the grave things he had suffered, the tortures beyond bearing; the dreadful nights, the ceaseless appearances of faces that knew him to the marrow, but of whom he knew nothing, save that they haunted him.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO IX
+CAPITOLO IX
 
 Nella città di Stratford-on-Avon, quattro uomini stanchi e esasperati per una notte trascorsa in treno e per i cambi di treni a orari insoliti si riunirono nel salone dell’hotel “Swan of Avon”, il nuovo ed elegante albergo il cui design rifletteva le 12 sue piani sull’acqua del fiume storico. Si stavano rilassando con dei cocktail; loro erano il Detective A, il Detective B, il Detective C e il Detective D.
 
@@ -6784,7 +6784,7 @@ As they marched poor Mallard away he followed immediately behind like the chief 
 
 * * *
 
-On the boat, in a private cabin, Richard Mallard sat between two gentlemen in plain clothes who did not molest him, but who gave him to understand that they preferred his remaining where he was, and would, on landing, accompany him to London. The authorities had a carriage reserved. The prisoner — he supposed he was a prisoner — bore it as well as he could. He listened while they told him that they would submit him to no indignity, their orders were to see that he reached London in their custody. There he would, of course, be under surveillance, but no one need know it, and he would be told where and when and by whom he would be wanted. Only, he must accompany them quietly and make no attempt to communicate with others or to leave them during the [[Journey|journey]]. For the rest, he was free to order what refreshments he chose, to smoke and to get the papers and all the rest of it. He was agreeable. There was nothing else to be done.
+On the boat, in a private cabin, Richard Mallard sat between two gentlemen in plain clothes who did not molest him, but who gave him to understand that they preferred his remaining where he was, and would, on landing, accompany him to London. The authorities had a carriage reserved. The prisoner — he supposed he was a prisoner — bore it as well as he could. He listened while they told him that they would submit him to no indignity, their orders were to see that he reached London in their custody. There he would, of course, be under surveillance, but no one need know it, and he would be told where and when and by whom he would be wanted. Only, he must accompany them quietly and make no attempt to communicate with others or to leave them during the [[motifs/journey|journey]]. For the rest, he was free to order what refreshments he chose, to smoke and to get the papers and all the rest of it. He was agreeable. There was nothing else to be done.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6841,7 +6841,7 @@ Mentre portavano via il povero Mallard, lui lo seguì immediatamente dietro, com
 
 * * *
 
-Sul battello, in una cabina privata, Richard Mallard sedeva tra due signori in abiti civili che non lo molestarono, ma gli fecero capire che preferivano che rimanesse lì dove si trovava e che, al momento dello sbarco, lo avrebbero accompagnato a Londra. Le autorità avevano prenotato una carrozza; il prigioniero – pensava che lo fosse – la sopportò nel miglior modo possibile. Ascoltò mentre gli dicevano che non avrebbero subito alcuna umiliazione, poiché il loro compito era assicurarsi che arrivasse a Londra sotto la loro custodia. Lì, ovviamente, sarebbe stato sorvegliato, ma nessuno doveva saperlo; gli avrebbero comunicato dove, quando e da chi sarebbe stato cercato. L’unica condizione era che li accompagnasse in silenzio, senza tentare di comunicare con altri o di lasciarli durante il [[Journey|Viaggio]]. Per il resto, poteva ordinare i rinfreschi che desiderava, fumare e disporre dei suoi documenti e di tutto ciò di cui aveva bisogno. Era d’accordo; non c’era altro da fare.
+Sul battello, in una cabina privata, Richard Mallard sedeva tra due signori in abiti civili che non lo molestarono, ma gli fecero capire che preferivano che rimanesse lì dove si trovava e che, al momento dello sbarco, lo avrebbero accompagnato a Londra. Le autorità avevano prenotato una carrozza; il prigioniero – pensava che lo fosse – la sopportò nel miglior modo possibile. Ascoltò mentre gli dicevano che non avrebbero subito alcuna umiliazione, poiché il loro compito era assicurarsi che arrivasse a Londra sotto la loro custodia. Lì, ovviamente, sarebbe stato sorvegliato, ma nessuno doveva saperlo; gli avrebbero comunicato dove, quando e da chi sarebbe stato cercato. L’unica condizione era che li accompagnasse in silenzio, senza tentare di comunicare con altri o di lasciarli durante il [[motifs/journey|Viaggio]]. Per il resto, poteva ordinare i rinfreschi che desiderava, fumare e disporre dei suoi documenti e di tutto ciò di cui aveva bisogno. Era d’accordo; non c’era altro da fare.
 
 
 
@@ -6910,7 +6910,7 @@ E c'era Richard Mallard; indietro rispetto agli altri, per usare le parole di La
 
 CHAPTER X
 
-FROM THAT LONELY pinnacle of rock upon the foreshore of Labrador Chap 1 did not perceive a friendly sail, a British [[Ship|ship]] all full of gallant tars. He did not catch through the telescope with which he did not sweep the horizon the blessed symbol of liberty floating at the main. Contrariwise his relief came in another fashion. A lantern flashed in his eyes under the tarpaulin tent where he lay exhausted after the tenth day of his vigil, and one of the returning party from civilisation waked him with his boot. It was not a romantic salvation; but salvation it was, and he had seen enough of life to take it as it came.
+FROM THAT LONELY pinnacle of rock upon the foreshore of Labrador Chap 1 did not perceive a friendly sail, a British [[motifs/ship|ship]] all full of gallant tars. He did not catch through the telescope with which he did not sweep the horizon the blessed symbol of liberty floating at the main. Contrariwise his relief came in another fashion. A lantern flashed in his eyes under the tarpaulin tent where he lay exhausted after the tenth day of his vigil, and one of the returning party from civilisation waked him with his boot. It was not a romantic salvation; but salvation it was, and he had seen enough of life to take it as it came.
 
 It was about a week later that he sailed from Quebec, having first sent such cables as are despatched by people of this kind to other people of their kind (with whom London is swarming).
 
@@ -6981,7 +6981,7 @@ Callingham enjoyed her excitement. He had spent three hours confirming and recon
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO X
+CAPITOLO X
 
 Da quel solitario picco di roccia sulla riva del Labrador, nel primo capitolo, non si scorgeva alcuna vela amica, nessuna nave britannica piena di valorosi marinai. Non riuscì nemmeno a individuare, attraverso il telescopio con cui scrutava l’orizzonte, quel simbolo benedetto della libertà che solitamente si trova sulla bandiera delle navi. Al contrario, la sua salvezza arrivò in un altro modo: una lanterna lampeggiò davanti ai suoi occhi sotto la tenda di tela dove giaceva esausto dopo dieci giorni di veglia ininterrotta; uno dei membri del gruppo che tornava dalla civiltà lo svegliò con il tacco della sua scarpa. Non si trattava certo di una salvezza romantica, ma era pur sempre una salvezza. E lui aveva già visto abbastanza della vita per accettarla così com’era.
 
@@ -7131,13 +7131,13 @@ Caroline Balcombe allungò la mano verso i suoi libri di riferimento e cercò le
 
 Cinque minuti dopo entrò nella grande stanza di Downing Street dove il suo capo era seduto da solo alla massiccia scrivania, con la testa appoggiata sulla mano, quasi addormentato a causa della lunga veglia. Caroline Balcombe entrò, chiuse attentamente la porta alle sue spalle, spostò una sedia vicina per coprire il buco della serratura, guardò il Primo Ministro attraverso la sua lorgnette e pronunciò queste parole indimenticabili:
 
-#"Mary, sei una sciocca!"
+"Mary, sei una sciocca!"
 
 “Cosa?” disse Mary Bullar, completamente sveglia, e si appoggiò all’indietro sulla sedia.
 
 “Un idiota, ho detto… Un idiota. Sei un idiota, Mary… Hai scelto la persona sbagliata!”
 
-#"Ho preso quello sbagliato..."
+"Ho preso quello sbagliato..."
 
 “Sì,” continuò Caroline Balcombe, approfittando della sorpresa generale e aggiungendo le sue argomentazioni. “L’uomo sbagliato. Avete tutti perso tempo in una ricerca inutile. Solo io l’ho visto davvero,” proseguì, sempre più animata. “Lo avevo detto fin dall’inizio. Avevo dei sospetti sin dall’inizio. Ho sempre pensato che non potesse essere innocente. Non era Mallard l’uomo giusto, vero?”
 

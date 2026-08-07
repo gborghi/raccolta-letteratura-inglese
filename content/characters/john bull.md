@@ -14,4 +14,10 @@ Popular personification of the English national character, whose stock stolid at
 
 <div class="concept-works" data-slug="characters/john-bull"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/frenchenglish-(chesterton)|frenchenglish (Chesterton)]]
+
+</div>
+
 #graph/character

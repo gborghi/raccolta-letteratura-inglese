@@ -20,7 +20,7 @@ This, and my heart, and all the fields —
 And all the meadows wide —  
 Be sure you count — should I forget  
 Some one the sum could tell —  
-This, and my heart, and all the [[Bees]]  
+This, and my heart, and all the [[motifs/bees|Bees]]  
 Which in the Clover dwell.
 
 
@@ -32,7 +32,7 @@ Questo, e il mio cuore, e tutti i campi —
 E tutti i vasti prati —  
 Bada a contare — dovessi io scordare  
 Qualcuno la somma saprebbe dire —  
-Questo, e il mio cuore, e tutte le [[Bees]]  
+Questo, e il mio cuore, e tutte le [[motifs/bees|Bees]]  
 Che nel Trifoglio dimorano.
 
 
@@ -42,63 +42,63 @@ Che nel Trifoglio dimorano.
 
 Garlands for Queens, may be -  
 Laurels - for rare degree  
-Of [[Soul|soul]] or [[Sword|sword]] -  
+Of [[motifs/soul|soul]] or sword -  
 Ah - but remembering me -  
 Ah - but remembering thee -  
-[[Nature]] in chivalry -  
-[[Nature]] in [[Charity|charity]] -  
-[[Nature]] in equity -  
-The [[Rose]] ordained!
+[[concepts/nature|Nature]] in chivalry -  
+[[concepts/nature|Nature]] in [[concepts/charity|charity]] -  
+[[concepts/nature|Nature]] in equity -  
+The [[motifs/rose|Rose]] ordained!
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Ghirlande per Regine, può darsi -  
 Allori - per raro grado  
-Di [[Soul|anima]] o [[Sword|spada]] -  
+Di [[motifs/soul|anima]] o spada -  
 Ah - ma ricordando me -  
 Ah - ma ricordando te -  
-[[Nature]] in cavalleria -  
-[[Nature]] in [[Charity|carità]] -  
-[[Nature]] in equità -  
-La [[Rose]] consacrata!
+[[concepts/nature|Nature]] in cavalleria -  
+[[concepts/nature|Nature]] in [[concepts/charity|carità]] -  
+[[concepts/nature|Nature]] in equità -  
+La [[motifs/rose|Rose]] consacrata!
 
 
 
 <span class="atom-split" data-atom="0035_nobody_knows_this_little_rose" data-title="35. Nobody knows this little Rose —" data-chapter="" data-kind="intro" data-tags="archetype/pilgrim,motif/rose,motif/bees,concept/mortality,concept/transience,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
 
 
-Nobody knows this little [[Rose|rose]];  
-It might a [[Pilgrim|pilgrim]] be,  
+Nobody knows this little [[motifs/rose|rose]];  
+It might a [[archetypes/pilgrim|pilgrim]] be,  
 Did I not take it from the ways,  
 And lift it up to thee!  
 
 Only a bee will miss it;  
 Only a butterfly,  
-Hastening from far [[Journey|journey]],  
+Hastening from far [[motifs/journey|journey]],  
 On it's breast to lie.  
 
-Only a bird will [[Wonder|wonder]];  
+Only a bird will [[concepts/wonder|wonder]];  
 Only a breeze will sigh;  
-Ah! little [[Rose|rose]], how easy  
+Ah! little [[motifs/rose|rose]], how easy  
 For such as thee to die!
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Nessuno conosce questa piccola [[Rose|rosa]];  
-Potrebbe essere un [[Pilgrim|pellegrino]],  
+Nessuno conosce questa piccola [[motifs/rose|rosa]];  
+Potrebbe essere un [[archetypes/pilgrim|pellegrino]],  
 Se io non l'avessi colta dalle vie,  
 E sollevata fino a te!  
 
 Solo un'ape ne sentirà la mancanza;  
 Solo una farfalla,  
-Affrettandosi da lungo [[Journey|viaggio]],  
+Affrettandosi da lungo [[motifs/journey|viaggio]],  
 A giacere sul suo petto.  
 
-Solo un uccello si [[Wonder|stupirà]];  
+Solo un uccello si [[concepts/wonder|stupirà]];  
 Solo una brezza sospirerà;  
-Ah! piccola [[Rose|rosa]], com'è facile  
+Ah! piccola [[motifs/rose|rosa]], com'è facile  
 Per una come te morire!
 
 
@@ -107,25 +107,25 @@ Per una come te morire!
 
 
 If she had been the Mistletoe  
-And I had been the [[Rose]] —  
+And I had been the [[motifs/rose|Rose]] —  
 How gay upon your table  
 My velvet life to close —  
 Since I am of the Druid,  
-And she is of the [[Dew|dew]] —  
-I'll deck [[Tradition]]'s buttonhole —  
-And send the [[Rose]] to you.
+And she is of the [[motifs/dew|dew]] —  
+I'll deck [[concepts/tradition|Tradition]]'s buttonhole —  
+And send the [[motifs/rose|Rose]] to you.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Se lei fosse stata il Vischio  
-E io fossi stata la [[Rose|Rosa]] —  
+E io fossi stata la [[motifs/rose|Rosa]] —  
 Che gaiezza sulla vostra tavola  
 Chiudere la mia vita di velluto —  
 Poiché io sono del Druido,  
-E lei è della [[Dew|rugiada]] —  
-Ornerò l'occhiello della [[Tradition|Tradizione]] —  
-E manderò a voi la [[Rose|Rosa]].
+E lei è della [[motifs/dew|rugiada]] —  
+Ornerò l'occhiello della [[concepts/tradition|Tradizione]] —  
+E manderò a voi la [[motifs/rose|Rosa]].
 
 
 
@@ -134,8 +134,8 @@ E manderò a voi la [[Rose|Rosa]].
 
 I keep my pledge.  
 I was not called —  
-[[Death]] did not notice me.  
-I bring my [[Rose]].  
+[[motifs/death|Death]] did not notice me.  
+I bring my [[motifs/rose|Rose]].  
 I plight again,  
 By every sainted Bee —  
 By Daisy called from hillside —  
@@ -149,8 +149,8 @@ Will surely come again.
 
 Mantengo il mio pegno.  
 Non fui chiamata —  
-La [[Death|Morte]] non si accorse di me.  
-Porto la mia [[Rose|Rosa]].  
+La [[motifs/death|Morte]] non si accorse di me.  
+Porto la mia [[motifs/rose|Rosa]].  
 Rinnovo la promessa,  
 Per ogni Ape santificata —  
 Per la Margherita chiamata dal pendio —  
@@ -164,25 +164,25 @@ Di certo torneremo ancora.
 <span class="atom-split" data-atom="0056_if_i_should_cease_to_bring_a_rose" data-title="56. If I should cease to bring a Rose" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/flowers,concept/mortality,form/lyric,character/death_personified,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
 
 
-If I should cease to bring a [[Rose]]  
+If I should cease to bring a [[motifs/rose|Rose]]  
 Upon a festal day,  
-'Twill be because beyond the [[Rose]]  
+'Twill be because beyond the [[motifs/rose|Rose]]  
 I have been called away —  
 If I should cease to take the names  
 My buds commemorate —  
-'Twill be because [[Death]]'s finger  
+'Twill be because [[motifs/death|Death]]'s finger  
 Claps my murmuring lip!
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Se io cessassi di portare una [[Rose|Rosa]]  
+Se io cessassi di portare una [[motifs/rose|Rosa]]  
 In un giorno di festa,  
-Sarà perché oltre la [[Rose|Rosa]]  
+Sarà perché oltre la [[motifs/rose|Rosa]]  
 Sono stata chiamata via —  
 Se cessassi di prendere i nomi  
 Che i miei boccioli commemorano —  
-Sarà perché il dito della [[Death|Morte]]  
+Sarà perché il dito della [[motifs/death|Morte]]  
 Serra il mio labbro mormorante!
 
 
@@ -191,7 +191,7 @@ Serra il mio labbro mormorante!
 
 
 I never hear the word "escape"  
-Without a quicker [[Blood|blood]],  
+Without a quicker [[motifs/blood|blood]],  
 A sudden expectation  
 A flying attitude!  
 
@@ -204,7 +204,7 @@ Only to fail again!
 <span class="qlang-split" data-lang="it"></span>
 
 Non odo mai la parola "fuga"  
-Senza un più rapido [[Blood|sangue]],  
+Senza un più rapido [[motifs/blood|sangue]],  
 Un'improvvisa attesa  
 Un'attitudine al volo!  
 
@@ -224,7 +224,7 @@ Till some odd afternoon
 The Alps neglect their Curtains  
 And we look farther on!  
 
-[[Italy]] stands the other side!  
+[[settings/italy|Italy]] stands the other side!  
 While like a guard between —  
 The solemn Alps —  
 The siren Alps  
@@ -239,7 +239,7 @@ Finché un qualche strano pomeriggio
 Le Alpi trascurano le loro Cortine  
 E noi guardiamo più lontano!  
 
-L'[[Italy|Italia]] sta dall'altro lato!  
+L'[[settings/italy|Italia]] sta dall'altro lato!  
 Mentre come una guardia in mezzo —  
 Le solenni Alpi —  
 Le Alpi sirene  
@@ -265,9 +265,9 @@ On her forehead lay,
 You and I, and Dr. Holland,  
 Bloom Eternally!  
 
-Roses of a steadfast [[Summer|summer]]  
+Roses of a steadfast [[motifs/summer|summer]]  
 In a steadfast land,  
-Where no [[Autumn]] lifts her pencil —  
+Where no [[motifs/autumn|Autumn]] lifts her pencil —  
 And no Reapers stand!
 
 
@@ -288,9 +288,9 @@ Poseranno sulla sua fronte,
 Tu ed io, e il Dr. Holland,  
 Fioriremo in Eterno!  
 
-Rose d'una salda [[Summer|estate]]  
+Rose d'una salda [[motifs/summer|estate]]  
 In una terra salda,  
-Dove nessun [[Autumn|Autunno]] leva la matita —  
+Dove nessun [[motifs/autumn|Autunno]] leva la matita —  
 E nessun Mietitore sta!
 
 
@@ -298,19 +298,19 @@ E nessun Mietitore sta!
 <span class="atom-split" data-atom="0179_if_i_could_bribe_them_by_a_rose" data-title="179. If I could bribe them by a Rose" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/flowers,motif/birds,motif/seasons,motif/music_and_song,concept/unrequited_love,concept/the_artist_and_society,concept/joy,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
 
 
-If I could bribe them by a [[Rose]]  
+If I could bribe them by a [[motifs/rose|Rose]]  
 I'd bring them every flower that grows  
 From Amherst to Cashmere!  
-I would not stop for [[Night|night]], or [[Storm|storm]] —  
-Or [[Frost|frost]], or [[Death|death]], or anyone —  
+I would not stop for [[motifs/night|night]], or [[motifs/storm|storm]] —  
+Or [[motifs/frost|frost]], or [[motifs/death|death]], or anyone —  
 My business were so dear!  
 
 If they would linger for a Bird  
 My Tambourin were soonest heard  
 Among the April Woods!  
-Unwearied, all the [[Summer|summer]] long,  
-Only to break in wilder [[Song|song]]  
-When [[Winter]] shook the boughs!  
+Unwearied, all the [[motifs/summer|summer]] long,  
+Only to break in wilder song  
+When [[motifs/winter|Winter]] shook the boughs!  
 
 What if they hear me!  
 Who shall say  
@@ -324,19 +324,19 @@ To drive her from the Hall?
 
 <span class="qlang-split" data-lang="it"></span>
 
-Se potessi corromperli con una [[Rose|Rosa]]  
+Se potessi corromperli con una [[motifs/rose|Rosa]]  
 Porterei loro ogni fiore che cresce  
 Da Amherst al Kashmir!  
-Non mi fermerei per [[Night|notte]], o [[Storm|tempesta]] —  
-Né [[Frost|gelo]], né [[Death|morte]], né alcuno —  
+Non mi fermerei per [[motifs/night|notte]], o [[motifs/storm|tempesta]] —  
+Né [[motifs/frost|gelo]], né [[motifs/death|morte]], né alcuno —  
 Tanto caro sarebbe il mio compito!  
 
 Se indugiassero per un Uccello  
 Il mio Tamburino si udrebbe per primo  
 Fra i Boschi d'Aprile!  
-Instancabile, per tutta l'[[Summer|estate]],  
-Solo per prorompere in più selvaggio [[Song|canto]]  
-Quando l'[[Winter|Inverno]] scuotesse i rami!  
+Instancabile, per tutta l'[[motifs/summer|estate]],  
+Solo per prorompere in più selvaggio canto  
+Quando l'[[motifs/winter|Inverno]] scuotesse i rami!  
 
 E se mi udissero!  
 Chi può dire  
@@ -394,7 +394,7 @@ He touched me, so I live to know
 That such a day, permitted so,  
 I groped upon his breast —  
 It was a boundless place to me  
-And silenced, as the awful [[Sea|sea]]  
+And silenced, as the awful [[motifs/sea|sea]]  
 Puts minor streams to rest.  
 
 And now, I'm different from before,  
@@ -405,11 +405,11 @@ My Gypsy face — transfigured now —
 To tenderer Renown —  
 
 Into this Port, if I might come,  
-Rebecca, to [[Jerusalem]],  
+Rebecca, to [[settings/jerusalem|Jerusalem]],  
 Would not so ravished turn —  
 Nor Persian, baffled at her shrine  
 Lift such a Crucifixial sign  
-To her imperial [[Sun]].
+To her imperial [[motifs/sun|Sun]].
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -418,7 +418,7 @@ Mi toccò, così vivo per sapere
 Che un tale giorno, così concesso,  
 Brancolai sul suo petto —  
 Era per me un luogo sconfinato  
-E quietato, come il tremendo [[Sea|mare]]  
+E quietato, come il tremendo [[motifs/sea|mare]]  
 Mette a riposo i ruscelli minori.  
 
 E ora, sono diversa da prima,  
@@ -429,11 +429,11 @@ Il mio viso di Zingara — trasfigurato ora —
 In più tenera Fama —  
 
 In questo Porto, se potessi giungere,  
-Rebecca, verso [[Jerusalem|Gerusalemme]],  
+Rebecca, verso [[settings/jerusalem|Gerusalemme]],  
 Non si volgerebbe così rapita —  
 Né la Persiana, confusa al suo altare  
 Leverebbe un tale segno Crocifissale  
-Al suo [[Sun|Sole]] imperiale.
+Al suo [[motifs/sun|Sole]] imperiale.
 
 
 
@@ -442,7 +442,7 @@ Al suo [[Sun|Sole]] imperiale.
 
 The Luxury to apprehend  
 The Luxury 'twould be  
-To look at Thee a single [[Time|time]]  
+To look at Thee a single [[motifs/time|time]]  
 An Epicure of Me  
 
 In whatsoever Presence makes  
@@ -465,7 +465,7 @@ The Consciousness of Thee.
 
 Il Lusso di percepire  
 Il Lusso che sarebbe  
-Guardarti una sola [[Time|volta]]  
+Guardarti una sola [[motifs/time|volta]]  
 Un Epicureo di Me  
 
 In qualsivoglia Presenza renda  
@@ -493,11 +493,11 @@ There is no other in the World —
 Mine was the only one  
 
 I was so happy I forgot  
-To shut the [[Door]] And it went out  
-And I am all [[Alone|alone]] —  
+To shut the [[motifs/door|Door]] And it went out  
+And I am all alone —  
 
 If I could find it Anywhere  
-I would not mind the [[Journey|journey]] there  
+I would not mind the [[motifs/journey|journey]] there  
 Though it took all my store  
 
 But just to look it in the Eye —  
@@ -512,11 +512,11 @@ Non ve n'è un altro al Mondo —
 Il mio era l'unico  
 
 Ero così felice che scordai  
-Di chiudere la [[Door|Porta]] Ed esso uscì  
-E sono tutta [[Alone|sola]] —  
+Di chiudere la [[motifs/door|Porta]] Ed esso uscì  
+E sono tutta sola —  
 
 Se potessi trovarlo Ovunque  
-Non mi peserebbe il [[Journey|viaggio]] fin là  
+Non mi peserebbe il [[motifs/journey|viaggio]] fin là  
 Costasse pure ogni mia scorta  
 
 Ma solo per guardarlo nell'Occhio —  
@@ -533,7 +533,7 @@ As the Vulture teased
 Forces the Broods in lonely Valleys  
 As the Tiger eased  
 
-By but a Crumb of [[Blood]], fasts Scarlet  
+By but a Crumb of [[motifs/blood|Blood]], fasts Scarlet  
 Till he meet a Man  
 Dainty adorned with Veins and Tissues  
 And partakes — his Tongue  
@@ -556,7 +556,7 @@ Come l'Avvoltoio provocato
 Assale le Nidiate in Valli solitarie  
 Come la Tigre placata  
 
-Da una sola Briciola di [[Blood|Sangue]], digiuna Scarlatta  
+Da una sola Briciola di [[motifs/blood|Sangue]], digiuna Scarlatta  
 Finché non incontri un Uomo  
 Squisitamente adorno di Vene e Tessuti  
 E ne prende parte — la sua Lingua  
@@ -582,7 +582,7 @@ Subsides from its significance
 The Gem were best unknown —  
 Within a Seller's Shrine  
 How many sight and sigh  
-And cannot, but are mad for [[Fear|fear]]  
+And cannot, but are mad for [[concepts/fear|fear]]  
 That any other buy.
 
 
@@ -594,7 +594,7 @@ Decade dal suo significato
 La Gemma sarebbe meglio ignota —  
 Nel Sacrario d'un Venditore  
 Quanti guardano e sospirano  
-E non possono, ma impazziscono per [[Fear|paura]]  
+E non possono, ma impazziscono per [[concepts/fear|paura]]  
 Che un altro compri.
 
 
@@ -603,7 +603,7 @@ Che un altro compri.
 
 
 None who saw it ever told it  
-'Tis as hid as [[Death]]  
+'Tis as hid as [[motifs/death|Death]]  
 Had for that specific treasure  
 A departing breath —  
 Surfaces may be invested  
@@ -615,7 +615,7 @@ Would you serve it so?
 <span class="qlang-split" data-lang="it"></span>
 
 Nessuno che lo vide mai lo disse  
-È celato come se la [[Death|Morte]]  
+È celato come se la [[motifs/death|Morte]]  
 Avesse per quel tesoro preciso  
 Un respiro d'addio —  
 Le Superfici si possono rivestire  
@@ -663,7 +663,7 @@ That has not starved so long —
 I tell thee while I waited  
 The mystery of Food  
 Increased till I abjured it  
-And dine without Like [[God]] —  
+And dine without Like [[characters/god|God]] —  
 
 —  
 
@@ -675,7 +675,7 @@ Thou could'st not goad so long —
 I tell thee while I waited —  
 The mystery of Food  
 Increased till I abjured it  
-Subsisting now like [[God]] —
+Subsisting now like [[characters/god|God]] —
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -687,7 +687,7 @@ Che non ha digiunato così a lungo —
 Ti dico che mentre attendevo  
 Il mistero del Cibo  
 Crebbe finché lo abiurai  
-E pranzo senza Come [[God|Dio]] —  
+E pranzo senza Come [[characters/god|Dio]] —  
 
 —  
 
@@ -699,15 +699,15 @@ Che non potresti tentare così a lungo —
 Ti dico che mentre attendevo —  
 Il mistero del Cibo  
 Crebbe finché lo abiurai  
-Sussistendo ora come [[God|Dio]] —
+Sussistendo ora come [[characters/god|Dio]] —
 
 
 
 <span class="atom-split" data-atom="1291_until_the_desert_knows" data-title="1291. Until the Desert knows" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/desire,motif/water,motif/dreams,concept/lust,concept/paradox,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
 
 
-Until the [[Desert]] knows  
-That [[Water]] grows  
+Until the [[motifs/desert|Desert]] knows  
+That [[motifs/water|Water]] grows  
 His Sands suffice  
 But let him once suspect  
 That Caspian Fact  
@@ -717,14 +717,14 @@ Utmost is relative —
 Have not or Have  
 Adjacent sums  
 Enough — the first Abode  
-On the familiar [[Road]]  
-Galloped in [[Dreams]] —
+On the familiar [[motifs/road|Road]]  
+Galloped in [[motifs/dreams|Dreams]] —
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Finché il [[Desert|Deserto]] non sa  
-Che l'[[Water|Acqua]] cresce  
+Finché il [[motifs/desert|Deserto]] non sa  
+Che l'[[motifs/water|Acqua]] cresce  
 Le sue Sabbie bastano  
 Ma che sospetti una volta  
 Quel Fatto Caspio  
@@ -734,8 +734,8 @@ L'Estremo è relativo —
 Non avere o Avere  
 Somme adiacenti  
 Basta — la prima Dimora  
-Sulla [[Road|Strada]] familiare  
-Galoppata nei [[Dreams|Sogni]] —
+Sulla [[motifs/road|Strada]] familiare  
+Galoppata nei [[motifs/dreams|Sogni]] —
 
 
 
@@ -744,7 +744,7 @@ Galoppata nei [[Dreams|Sogni]] —
 
 I cannot want it more —  
 I cannot want it less —  
-My Human [[Nature]]'s fullest force  
+My Human [[concepts/nature|Nature]]'s fullest force  
 Expends itself on this.  
 
 And yet it nothing is  
@@ -757,7 +757,7 @@ He fathoms who obtains.
 
 Non posso volerlo di più —  
 Non posso volerlo di meno —  
-La forza più piena della mia [[Nature|Natura]] Umana  
+La forza più piena della mia [[concepts/nature|Natura]] Umana  
 Si spende su questo.  
 
 Eppure esso niente è  
@@ -775,7 +775,7 @@ Upon the hither side
 Has Dowers of Prospective  
 To Denizens denied  
 
-Inquire of the closing [[Rose]]  
+Inquire of the closing [[motifs/rose|Rose]]  
 Which rapture she preferred  
 And she will point you sighing  
 To her rescinded Bud.
@@ -788,7 +788,7 @@ Sulla sponda di qua
 Ha Doti di Prospettiva  
 Negate ai Residenti  
 
-Chiedi alla [[Rose|Rosa]] che si chiude  
+Chiedi alla [[motifs/rose|Rosa]] che si chiude  
 Quale rapimento preferisse  
 E lei sospirando ti addita  
 Il suo Bocciolo revocato.
@@ -798,99 +798,117 @@ Il suo Bocciolo revocato.
 <span class="atom-split" data-atom="1430_who_never_wanted_maddest_joy" data-title="1430. Who never wanted — maddest Joy" data-chapter="" data-kind="intro" data-tags="motif/desire,motif/wine_and_drink,concept/joy,concept/self_and_soul,concept/appearance_vs_reality,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
 
 
-Who never wanted — maddest [[Joy]]  
+Who never wanted — maddest [[concepts/joy|Joy]]  
 Remains to him unknown —  
 The Banquet of Abstemiousness  
 Defaces that of Wine —  
 
 Within its reach, though yet ungrasped  
-[[Desire]]'s perfect Goal —  
+[[motifs/desire|Desire]]'s perfect Goal —  
 No nearer — lest the Actual —  
-Should disentrall thy [[Soul|soul]] —
+Should disentrall thy [[motifs/soul|soul]] —
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Chi mai non volle — la più folle [[Joy|Gioia]]  
+Chi mai non volle — la più folle [[concepts/joy|Gioia]]  
 A lui resta ignota —  
 Il Banchetto dell'Astinenza  
 Sfigura quello del Vino —  
 
 A portata di mano, ma non ancora colto  
-Il Traguardo perfetto del [[Desire|Desiderio]] —  
+Il Traguardo perfetto del [[motifs/desire|Desiderio]] —  
 Non più vicino — che il Reale —  
-Non disincanti la tua [[Soul|anima]] —
+Non disincanti la tua [[motifs/soul|anima]] —
 
 
 
 <span class="atom-split" data-atom="1434_go_not_too_near_a_house_of_rose" data-title="1434. Go not too near a House of Rose —" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/desire,motif/flowers,concept/beauty,concept/transience,concept/joy,form/lyric,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
 
 
-Go not too near a [[house|House]] of [[Rose]] —  
+Go not too near a House of [[motifs/rose|Rose]] —  
 The depredation of a Breeze —  
-Or inundation of a [[Dew]]  
+Or inundation of a [[motifs/dew|Dew]]  
 Alarms its walls away —  
 
 Nor try to tie the Butterfly,  
 Nor climb the Bars of Ecstasy,  
 In insecurity to lie  
-Is [[Joy]]'s insuring quality.
+Is [[concepts/joy|Joy]]'s insuring quality.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Non andare troppo vicino a una [[house|Casa]] di [[Rose|Rosa]] —  
+Non andare troppo vicino a una Casa di [[motifs/rose|Rosa]] —  
 La depredazione di una Brezza —  
-O l'inondazione di una [[Dew|Rugiada]]  
+O l'inondazione di una [[motifs/dew|Rugiada]]  
 Spaventa via le sue mura —  
 
 Né provare a legare la Farfalla,  
 Né scalare le Sbarre dell'Estasi,  
 Giacere nell'insicurezza  
-È della [[Joy|Gioia]] la qualità che assicura.
+È della [[concepts/joy|Gioia]] la qualità che assicura.
 
 
 
 <span class="atom-split" data-atom="l0077_mrs_gordon_l_ford_mr_bowdoin_mrs_anthon_and_miss" data-title="To Mrs. Gordon L. Ford, Mr. Bowdoin, Mrs. Anthon, and Miss Lavinia Dickinson" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/rose,motif/garden,motif/insects,concept/friendship,concept/love_romantic,form/letter,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
 
 
-The buds are small, dear Emily, but will you please accept one for your cousin and yourself? I quite forgot the rosebugs when I spoke of the buds, last evening, and I found a [[Family|family]] of them taking an early breakfast on my most precious bud, with a smart little worm for landlady, so the sweetest are gone, but accept my [[Love|love]] with the smallest, and I'm
+The buds are small, dear Emily, but will you please accept one for your cousin and yourself? I quite forgot the rosebugs when I spoke of the buds, last evening, and I found a [[concepts/family|family]] of them taking an early breakfast on my most precious bud, with a smart little worm for landlady, so the sweetest are gone, but accept my [[motifs/love|love]] with the smallest, and I'm
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+I boccioli sono piccoli, cara Emily, ma potresti accettarne uno per tua cugina e per te stessa? Ieri sera, parlando dei boccioli, me ne ero completamente dimenticata. Ho trovato un’intera “famiglia” di questi insetti che stavano facendo colazione sul mio bocciolo più prezioso; il verme che li accompagnava sembrava proprio il loro padrone di casa. Quindi i boccioli più belli sono andati persi. Ma accetta almeno il mio [[motifs/love|affetto]] insieme a quello più piccolo.
 
 
 
 <span class="atom-split" data-atom="l0090_mrs_anthon_amherst_1859" data-title="To Mrs. Anthon, AMHERST, 1859" data-chapter="" data-kind="intro" data-tags="archetype/pilgrim,motif/flowers,motif/rose,motif/sun,motif/spring,motif/home,concept/friendship,concept/love_romantic,concept/solitude,concept/endurance,form/letter,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
 
 
-. . . Sweet at my [[Door|door]] this March [[Night|night]] another candidate. Go [[Home|home]]! We don't like Katies here! Stay! My heart votes for you, and what am I, indeed, to dispute her ballot!
+. . . Sweet at my [[motifs/door|door]] this March [[motifs/night|night]] another candidate. Go [[motifs/home|home]]! We don't like Katies here! Stay! My heart votes for you, and what am I, indeed, to dispute her ballot!
 
-What are your qualifications? Dare you dwell in the East where we dwell? Are you afraid of the [[Sun|sun]]? When you hear the new violet sucking her way among the sods, shall you be resolute? All we are strangers, dear, the world is not acquainted with us, because we are not acquainted with her; and pilgrims. Do you hesitate? And soldiers, oft—some of us victors, but those I do not see to-[[Night|night]], owing to the smoke. We are hungry, and thirsty, sometimes, we are barefoot and cold—will you still come?
+What are your qualifications? Dare you dwell in the East where we dwell? Are you afraid of the [[motifs/sun|sun]]? When you hear the new violet sucking her way among the sods, shall you be resolute? All we are strangers, dear, the world is not acquainted with us, because we are not acquainted with her; and pilgrims. Do you hesitate? And soldiers, oft—some of us victors, but those I do not see to-[[motifs/night|night]], owing to the smoke. We are hungry, and thirsty, sometimes, we are barefoot and cold—will you still come?
 
-Then, bright I record you—Kate, gathered in March! It is a small bouquet, dear, but what it lacks in size it gains in fadelessness. Many can boast a hollyhock, but few can bear a [[Rose|rose]]! And should new flower smile at limited associates, pray her remember were there many, they were not worn upon the breast, but tilled in the pasture. So I rise wearing her—so I [[Sleep|sleep]] holding,—[[Sleep|sleep]] at last with her fast in my hand, and wake bearing my flower.
+Then, bright I record you—Kate, gathered in March! It is a small bouquet, dear, but what it lacks in size it gains in fadelessness. Many can boast a hollyhock, but few can bear a [[motifs/rose|rose]]! And should new flower smile at limited associates, pray her remember were there many, they were not worn upon the breast, but tilled in the pasture. So I rise wearing her—so I [[motifs/sleep|sleep]] holding,—[[motifs/sleep|sleep]] at last with her fast in my hand, and wake bearing my flower.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+. Questa notte di marzo, un altro candidato è arrivato dolcemente alla mia porta. Vai a casa! A noi non piacciono le ragazze come Katie qui. Resta! Il mio cuore vota per te. E cosa potrei mai oppormi al suo voto?
+
+Quali sono le tue qualifiche? Osi vivere nell’Oriente dove viviamo noi? Hai paura del [[motifs/sun|sole]]? Quando sentirai la nuova violetta crescere tra l’erba, sarai deciso? Siamo tutti stranieri, caro. Il mondo non ci conosce, perché nemmeno noi lo conosciamo; siamo soltanto pellegrini. Esiti ancora? E poi ci sono i soldati. Alcuni di noi vincenti, ma di notte non riesco a vederli, a causa del fumo. Abbiamo fame, sete. A volte siamo scalzi e freddi. Verrai comunque?
+
+Allora, con chiarezza vi ricordo: Kate, raccolta a marzo! È un mazzolino piccolo, caro, ma ciò che gli manca in dimensioni è compensato dalla sua longevità. Molti possono vantare una hollyhock, ma pochi riescono ad avere una [[motifs/rose|rosa]]! E se una nuova fioritura sorride tra compagnie limitate, pregate che ricordi: molti di questi fiori non sono stati indossati sul petto, ma coltivati nei campi. Così io mi alzo portandola con me, così dormo tenendola stretta nella mia mano, e finalmente mi sveglio con il mio fiore tra le mani.
 
 
 
 <span class="atom-split" data-atom="l0099_mrs_anthon" data-title="To Mrs. Anthon" data-chapter="" data-kind="intro" data-tags="motif/dust,motif/flowers,motif/the_soul,concept/resurrection,concept/regeneration,concept/mortality,concept/survival,form/lyric,form/letter,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
 
 
-Soon after the close of the war, a friend, Mrs. [[Vanderbilt]] of Long [[Island]], met with a very serious bodily accident. Upon her recovery she received the following welcome to the realm of health:—
+Soon after the close of the war, a friend, Mrs. [[characters/vanderbilt|Vanderbilt]] of Long [[settings/island|Island]], met with a very serious bodily accident. Upon her recovery she received the following welcome to the realm of health:—
 
-To this world she returned, But with a tingle of that; A compound manner, As a sod Espoused a violet That chiefer to the skies Than to himself allied, Dwelt, hesitating, Half of [[Dust|dust]], And half of day, the bride.
+To this world she returned, But with a tingle of that; A compound manner, As a sod Espoused a violet That chiefer to the skies Than to himself allied, Dwelt, hesitating, Half of [[motifs/dust|dust]], And half of day, the bride.
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Poco dopo la fine della guerra, un'amica, la signora [[characters/vanderbilt|Vanderbilt]] di Long [[settings/island|Island]], subì un incidente molto grave. Dopo essersi ripresa, ricevette il seguente benvenuto nel regno della salute:—
+
+Tornò in questo mondo, ma con un senso di timore; con un comportamento ambiguo, come se una pianta erbacea si fosse unita a una violetta che preferiva il cielo alla propria esistenza. Viveva, esitante: metà polvere, metà luce, la sposa.
 
 
 
 <span class="atom-split" data-atom="l0294_mr_thomas_wentworth_higginson_1877" data-title="To Mr. Thomas Wentworth Higginson, 1877" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/bees,motif/death,motif/rose,concept/friendship,concept/death,form/letter,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
 
 
-Thank you, dear friend, for my “New Year,” but did you not confer it? Had your scholar permission to fashion yours, it were perhaps too fair. I always ran [[Home|home]] to awe when a [[Child|child]], if anything befell me. He was an awful mother, but I liked him better than none.
+Thank you, dear friend, for my “New Year,” but did you not confer it? Had your scholar permission to fashion yours, it were perhaps too fair. I always ran [[motifs/home|home]] to awe when a [[archetypes/child|child]], if anything befell me. He was an awful mother, but I liked him better than none.
 
 There remained this shelter after you left me the other day.
 
 Of your flitting coming it is fair to think, like the bee's coupé, vanishing in music.
 
-Would you with the bee return, What a firm of [[Noon|noon]]! [[Death]] obtains the [[Rose|rose]], But the news of dying goes No further than the breeze.
+Would you with the bee return, What a firm of [[motifs/noon|noon]]! [[motifs/death|Death]] obtains the [[motifs/rose|rose]], But the news of dying goes No further than the breeze.
 
 The ear is the last face. We hear after we see, which to tell you first is still my destiny.
 
@@ -898,30 +916,67 @@ Meeting a bird this morning, I began to flee. He saw it and sung.
 
 Presuming on that lone result, His infinite disdain, But vanquished him with my defeat— 'Twas victory was slain.
 
-I shall read [[The Book|the book]].
+I shall read [[motifs/the-book|the book]].
 
 Thank you for telling me.
 
 After Colonel Higginson had met with a bereavement, in
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Grazie, caro amico, per il mio “Novo Anno”, ma non l’hai forse già concesso? Se avessi ottenuto il permesso del tuo studioso per crearlo, forse sarebbe stato troppo bello. Io correvo sempre a [[motifs/home|casa]] per chiedere protezione ogni volta che mi accadeva qualcosa. Era una madre terribile, ma lo preferivo a chiunque altro.
+
+Dopo che te ne sei andato l’altro giorno, è rimasto questo rifugio.
+
+Del vostro passaggio fugace si può pensare, proprio come il volo di una ape, che scompaia nella melodia.
+
+Torneresti con l'ape? Che caldo a [[motifs/noon|mattina]]. [[motifs/death|Morte]] ottiene la [[motifs/rose|rosa]], Ma la notizia della morte non va oltre la brezza.
+
+L’orecchio è l’“ultima faccia”. Ascoltiamo dopo aver visto; dirvi questo per primo è ancora parte del mio destino.
+
+Incontrando un uccello questa mattina, ho iniziato a fuggire. Lui me l’ha visto e ha cantato.
+
+Sfruttando quel singolo risultato, il suo infinito disprezzo. Ma fu la mia sconfitta a sconfiggerlo: quella che sembrava una vittoria, in realtà fu la sua morte.
+
+Leggerò [[motifs/the-book|il libro]].
+
+Grazie per avermelo detto.
+
+Dopo che il colonnello Higginson aveva affrontato una perdita personale, in…
+
 
 
 <span class="atom-split" data-atom="l0374_mrs_w_a_stearns_spring_1876" data-title="To Mrs. W. A. Stearns, Spring, 1876" data-chapter="" data-kind="intro" data-tags="motif/gems_jewels,motif/flowers,concept/value_and_scarcity,concept/friendship,concept/beauty,form/letter,histref/the_bible,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
 
 
-DEAR FRIENDS,—Might these be among the fabrics which the [[Bible]] designates as beyond rubies?
+DEAR FRIENDS,—Might these be among the fabrics which the [[historical-references/bible|Bible]] designates as beyond rubies?
 
 Certainly they are more accessible to the fingers of your thief
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Cari amici, — potrebbero questi essere tra i tessuti che la [[historical-references/bible|Bibbia]] definisce “superiori ai rubini”?
+
+"Certamente sono più facili da raggiungere con le dita di un ladro..."
 
 
 
 <span class="atom-split" data-atom="l0424_mrs_fs_cooper" data-title="To Mrs. F.S. Cooper" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/money_gold,concept/money_and_avarice,concept/greed,form/letter,character/midas,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
 
 
-The keeper of golden [[Flowers|flowers]] need have no [[Fear|fear]] of the “Silver Bill.”
+The keeper of golden [[motifs/flowers|flowers]] need have no [[concepts/fear|fear]] of the “Silver Bill.”
 
 An Indies in the hand, at all times fortifying, is peculiarly so, perhaps, to-day.
 
-[[Midas]] was a rogue.
+[[characters/midas|Midas]] was a rogue.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il custode di quelle meravigliose [[motifs/flowers|fiori]] non dovrebbe temere affatto il “Biglietto d’Argento”.
+
+Unle Indie nelle proprie mani, che vengono costantemente rafforzate, sono forse particolarmente importanti proprio oggi.
+
+[[characters/midas|Mida]] era un furfante.

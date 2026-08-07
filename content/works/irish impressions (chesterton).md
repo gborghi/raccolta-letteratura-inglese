@@ -60,7 +60,7 @@ tags:
   - histref/industrial_revolution
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A travel-essay on Ireland during WWI: meditates on Irish nationalism, the Anglo-Irish question, religion, the family and the land, and distributist ideals against industrial England.
@@ -82,18 +82,18 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Martyr Saint]], [[Rebel]], [[Common Man (2)]], [[Outsider]], [[Poet as Prophet (2)]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/rebel|Rebel]], [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/outsider|Outsider]], [[archetypes/poet-as-prophet-(2)|Poet as Prophet (2)]]
 
-**Motifs:** [[Flags and Banners]], [[Stone and Marble]], [[Home]], [[Grass Leaves of Grass]], [[Garden]], [[Road]], [[Horse]]
+**Motifs:** [[motifs/flags-and-banners|Flags and Banners]], [[motifs/stone-and-marble|Stone and Marble]], [[motifs/home|Home]], [[motifs/grass-leaves-of-grass|Grass Leaves of Grass]], [[motifs/garden|Garden]], [[motifs/road|Road]], [[motifs/horse|Horse]]
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[W. B. Yeats]], [[Roger Casement]], [[Thomas Kettle]], [[Charles Stewart Parnell]], [[George Russell (A.E.)]], [[Sergeant Sheridan]]
+**Characters:** [[characters/w.-b.-yeats|W. B. Yeats]], [[historical-references/roger-casement|Roger Casement]], [[characters/thomas-kettle|Thomas Kettle]], [[characters/charles-stewart-parnell|Charles Stewart Parnell]], [[characters/george-russell-(a.e.)|George Russell (A.E.)]], [[characters/sergeant-sheridan|Sergeant Sheridan]]
 
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Distributism]], [[Anti-Industrialism]], [[Social Injustice]], [[War and its Cost]], [[Pride]], [[Humility]], [[Class Conflict]], [[Poverty]], [[Justice Right and Wrong]], [[Democracy]], [[Power and Corruption]], [[Paradox]], [[Martyrdom]], [[Empire and Imperialism]], [[Family and Lineage]], [[Religious Sectarianism]], [[Economics]], [[History]]
-**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Nonfiction]]
-**Historical References:** [[Irish Question]], [[First World War]], [[Christianity]], [[Catholic Church]], [[Reformation]], [[Industrial Revolution]]
-**Settings:** [[Rural England]], [[Industrial City]], [[Pastoral Countryside]], [[Ireland]]
+**Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/distributism|Distributism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/social-injustice|Social Injustice]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/pride|Pride]], [[concepts/humility|Humility]], [[concepts/class-conflict|Class Conflict]], [[concepts/poverty|Poverty]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/democracy|Democracy]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/paradox|Paradox]], [[concepts/martyrdom|Martyrdom]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/family-and-lineage|Family and Lineage]], [[concepts/religious-sectarianism|Religious Sectarianism]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/irish-question|Irish Question]], [[historical-references/first-world-war|First World War]], [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/reformation|Reformation]], [[historical-references/industrial-revolution|Industrial Revolution]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/industrial-city|Industrial City]], [[settings/pastoral-countryside|Pastoral Countryside]], [[settings/ireland|Ireland]]
 
 ## Testo integrale / Full text
 
@@ -3607,4 +3607,4 @@ but as missionaries in the very midnight of the Dark Ages,
 like a multitude of moving candles, that were the light of the world.
 The End
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

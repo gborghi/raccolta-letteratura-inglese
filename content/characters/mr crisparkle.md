@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/mr-crisparkle"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,12 @@ The historical warrior-saint held up as the model of heroic private (not profess
 
 <div class="concept-works" data-slug="characters/joan-of-arc"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/fancies-versis-fads-(chesterton)|Fancies Versis Fads (Chesterton)]]
+- [[works/history-(chesterton)|history (Chesterton)]]
+- [[works/ortho14-(chesterton)|ortho14 (Chesterton)]]
+
+</div>
+
 #graph/character

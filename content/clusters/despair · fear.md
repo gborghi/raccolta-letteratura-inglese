@@ -8,8 +8,16 @@ tags:
 *Cluster* — **3 works**.
 
 ## Defining concepts
-[[Lyric]] (3), [[Despair]] (3), [[Alienation]] (1), [[Melancholy]] (1), [[Suffering]] (1), [[Quest]] (1), [[Journey]] (1), [[Light and Dark]] (1), [[Fear]] (1), [[Self-Knowledge]] (1), [[Paradox]] (1), [[Swords and Weapons]] (1), [[Grief and Loss]] (1), [[Inner Life]] (1), [[Ship]] (1)
+[[forms/lyric|Lyric]] (3), [[concepts/despair|Despair]] (3), [[concepts/alienation|Alienation]] (1), [[concepts/melancholy|Melancholy]] (1), [[concepts/suffering|Suffering]] (1), [[topoi/quest|Quest]] (1), [[motifs/journey|Journey]] (1), [[motifs/light-and-dark|Light and Dark]] (1), [[concepts/fear|Fear]] (1), [[concepts/self-knowledge|Self-Knowledge]] (1), [[concepts/paradox|Paradox]] (1), [[motifs/swords-and-weapons|Swords and Weapons]] (1), [[concepts/grief-and-loss|Grief and Loss]] (1), [[concepts/inner-life|Inner Life]] (1), [[motifs/ship|Ship]] (1)
 
 ## Works
 
 <div class="concept-works" data-slug="clusters/despair-·-fear"></div>
+
+<div class="concept-works-fallback">
+
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#1123_a_great_hope_fell|1123. A great Hope fell (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0761_from_blank_to_blank|761. From Blank to Blank — (Dickinson)]]
+- [[testi/dickinson/atomized/melancholy-suffering-pain-and-suffering#0770_i_lived_on_dread|770. I lived on Dread — (Dickinson)]]
+
+</div>

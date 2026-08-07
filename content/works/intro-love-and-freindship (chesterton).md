@@ -36,7 +36,7 @@ tags:
 
 # intro-love-and-freindship
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > A critical-biographical essay introducing Jane Austen's juvenile burlesque; argues she was a born comic genius whose irony springs from controlled exuberance and a satire of sentimental fiction.
@@ -56,16 +56,16 @@ tags:
 
 ## Connections
 
-**Historical References:** [[French Revolution]], [[Regency Georgian England]], [[Romantic Movement (Sensibility)]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/romantic-movement-(sensibility)|Romantic Movement (Sensibility)]]
 
-**Archetypes:** [[Artist]]
+**Archetypes:** [[archetypes/artist|Artist]]
 
-**Motifs:** [[Fire]], [[Home]]
+**Motifs:** [[motifs/fire|Fire]], [[motifs/home|Home]]
 
-**Characters:** [[Elizabeth Bennet]], [[Fanny Price]], [[Laura]], [[Sophia]], [[Mr Bennet]]
+**Characters:** [[characters/elizabeth-bennet|Elizabeth Bennet]], [[characters/fanny-price|Fanny Price]], [[characters/laura|Laura]], [[characters/sophia|Sophia]], [[characters/mr-bennet|Mr Bennet]]
 
-**Themes & Concepts:** [[Artist and Society]], [[Imagination]], [[Joy]], [[Satire of Society]], [[Individualism]], [[Greatness]], [[Literary Criticism (2)]], [[History]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Satire]], [[Parody]], [[Epistolary Diary Novel]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/imagination|Imagination]], [[concepts/joy|Joy]], [[concepts/satire-of-society|Satire of Society]], [[concepts/individualism|Individualism]], [[concepts/greatness|Greatness]], [[concepts/literary-criticism-(2)|Literary Criticism (2)]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/parody|Parody]], [[forms/epistolary-diary-novel|Epistolary Diary Novel]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

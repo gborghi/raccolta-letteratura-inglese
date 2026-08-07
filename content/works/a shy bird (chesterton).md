@@ -33,7 +33,7 @@ tags:
   - histref/charles_dickens
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A paradoxical familiar essay on English national character, arguing that England's poetry and humour (Shakespeare, Dickens, the common man's songs) hide a shy, soft-hearted, anti-pompous spirit behind a cold reputation; themes of national identity, the common man, nostalgia for Merry England, and the artist and society.
@@ -54,17 +54,17 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Puritanism]], [[First World War]], [[Charles Dickens]]
+**Historical References:** [[historical-references/puritanism|Puritanism]], [[historical-references/first-world-war|First World War]], [[historical-references/charles-dickens|Charles Dickens]]
 
-**Archetypes:** [[Common Man (2)]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Characters:** [[Samuel Pickwick]], [[Dick Swiveller]], [[Tony Weller]]
+**Characters:** [[characters/samuel-pickwick|Samuel Pickwick]], [[characters/dick-swiveller|Dick Swiveller]], [[characters/tony-weller|Tony Weller]]
 
-**Topoi:** [[Golden Age]]
-**Motifs:** [[Music and Song]], [[Nightingale]], [[Birds]]
-**Themes & Concepts:** [[Paradox]], [[Identity]], [[Nationalism and Patriotism]], [[Common Man]], [[Artist and Society]], [[Nostalgia]], [[Patience and Waiting]], [[Comradeship]], [[History]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Nonfiction]]
-**Settings:** [[Rural England]]
+**Topoi:** [[topoi/golden-age|Golden Age]]
+**Motifs:** [[motifs/music-and-song|Music and Song]], [[motifs/nightingale|Nightingale]], [[motifs/birds|Birds]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/identity|Identity]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/common-man|Common Man]], [[concepts/artist-and-society|Artist and Society]], [[concepts/nostalgia|Nostalgia]], [[concepts/patience-and-waiting|Patience and Waiting]], [[concepts/comradeship|Comradeship]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
+**Settings:** [[settings/rural-england|Rural England]]
 
 ## Testo integrale / Full text
 

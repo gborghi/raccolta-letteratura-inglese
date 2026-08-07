@@ -31,7 +31,7 @@ tags:
   - character/earl_of_salisbury
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Court · Medieval England · History Play]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/court-·-medieval-england-·-history-play|Court · Medieval England · History Play]]
 
 > [!abstract] 
 > Collaborative history play on Edward III's wars against Scotland and France (Crecy, Calais) and his attempted seduction of the virtuous Countess of Salisbury. Central themes: kingship, war and conquest, honour, chastity vs lust, mercy.
@@ -59,13 +59,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Combat Strife]], [[War as Glory]]
-**Motifs:** [[Crown]]
-**Themes & Concepts:** [[Kingship and Legitimacy]], [[War and its Cost]], [[Heroism]], [[Honour]], [[Mercy]], [[Temptation]], [[Marriage and Fidelity]], [[Nationalism and Patriotism]], [[History]]
-**Forms & Genres:** [[History Play]], [[Blank Verse]]
-**Historical References:** [[Medieval England]]
-**Settings:** [[Battlefield]]
-**Characters:** [[Edward III]], [[Edward the Black Prince]], [[Countess of Salisbury]], [[Queen Philippa]], [[King John of France]], [[Earl of Salisbury]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]], [[topoi/war-as-glory|War as Glory]]
+**Motifs:** [[motifs/crown|Crown]]
+**Themes & Concepts:** [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/heroism|Heroism]], [[concepts/honour|Honour]], [[concepts/mercy|Mercy]], [[concepts/temptation|Temptation]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/history-play|History Play]], [[forms/blank-verse|Blank Verse]]
+**Historical References:** [[historical-references/medieval-england|Medieval England]]
+**Settings:** [[settings/battlefield|Battlefield]]
+**Characters:** [[characters/edward-iii|Edward III]], [[characters/edward-the-black-prince|Edward the Black Prince]], [[characters/countess-of-salisbury|Countess of Salisbury]], [[characters/queen-philippa|Queen Philippa]], [[characters/king-john-of-france|King John of France]], [[characters/earl-of-salisbury|Earl of Salisbury]]
 
 ## Testo integrale / Full text
 

@@ -21,7 +21,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Sleep · Sleeper Awakes · Resurrection]]
+*by Poe*  ·  **Cluster:** [[clusters/sleep-·-sleeper-awakes-·-resurrection|Sleep · Sleeper Awakes · Resurrection]]
 
 > [!abstract] 
 > Pseudo-scientific dialogue in which a dying mesmerized man reveals a metaphysics of God as 'unparticled matter,' the soul's immortality, and death as metamorphosis; ends with the sleep-waker's death.
@@ -42,11 +42,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Sleeper Awakes]]
-**Motifs:** [[Death]], [[Sleep]], [[Stars]]
-**Themes & Concepts:** [[Immortality]], [[Self-Knowledge]], [[Faith and Doubt]], [[Mortality]], [[Sublime]], [[Beauty]]
-**Forms & Genres:** [[Short Story]]
-**Characters:** [[Death Personified]]
+**Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]]
+**Motifs:** [[motifs/death|Death]], [[motifs/sleep|Sleep]], [[motifs/stars|Stars]]
+**Themes & Concepts:** [[concepts/immortality|Immortality]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/mortality|Mortality]], [[concepts/sublime|Sublime]], [[concepts/beauty|Beauty]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
+**Characters:** [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

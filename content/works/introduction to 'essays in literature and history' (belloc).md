@@ -28,7 +28,7 @@ tags:
   - setting/oxford
   - archetype/the_writer
 ---
-*by Belloc*  ·  **Cluster:** [[Familiar Essay · Paradox · The Common Man]]
+*by Belloc*  ·  **Cluster:** [[clusters/familiar-essay-·-paradox-·-the-common-man|Familiar Essay · Paradox · The Common Man]]
 
 > [!abstract] 
 > Belloc's critical preface to a selection of J. A. Froude's essays, weighing Froude's combative Victorian prose, its dogmatic rationalism, and its virtues of courage, universality and synthesis. Belloc argues that Froude, denying the Faith, nonetheless stood perpetually on the borderland of the Catholic Church.
@@ -47,9 +47,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Nonfiction]]
-**Themes & Concepts:** [[Literary Criticism (2)]], [[Faith]], [[Doubt]], [[Rationalism]], [[Truth]], [[Conversion]], [[Development of Doctrine]], [[Courage]], [[History]]
-**Motifs:** [[Book Reading]], [[Letters and Writing]]
-**Historical References:** [[Victorian England]], [[Catholic Church]], [[Reformation]], [[Oxford Movement]]
-**Settings:** [[Oxford]]
-**Archetypes:** [[The Writer]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/literary-criticism-(2)|Literary Criticism (2)]], [[concepts/faith|Faith]], [[concepts/doubt|Doubt]], [[concepts/rationalism|Rationalism]], [[concepts/truth|Truth]], [[concepts/conversion|Conversion]], [[concepts/development-of-doctrine|Development of Doctrine]], [[concepts/courage|Courage]], [[concepts/history|History]]
+**Motifs:** [[motifs/book-reading|Book Reading]], [[motifs/letters-and-writing|Letters and Writing]]
+**Historical References:** [[historical-references/victorian-england|Victorian England]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/reformation|Reformation]], [[historical-references/oxford-movement|Oxford Movement]]
+**Settings:** [[settings/oxford|Oxford]]
+**Archetypes:** [[archetypes/the-writer|The Writer]]

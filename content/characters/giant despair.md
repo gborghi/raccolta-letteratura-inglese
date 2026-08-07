@@ -14,4 +14,10 @@ The imprisoning giant of Pilgrim's Progress, cited by Chesterton as needing no i
 
 <div class="concept-works" data-slug="characters/giant-despair"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/intro-pilgrims-progress-(chesterton)|intro-pilgrims-progress (Chesterton)]]
+
+</div>
+
 #graph/character

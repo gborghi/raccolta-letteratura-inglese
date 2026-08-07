@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/macduff"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/macbeth-(shakespeare)|MACBETH (Shakespeare)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ Former priest turned rationalist controversialist, subject of 'On Mr. McCabe and
 
 <div class="concept-works" data-slug="characters/mccabe"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/heret12-(chesterton)|heret12 (Chesterton)]]
+
+</div>
+
 #graph/character

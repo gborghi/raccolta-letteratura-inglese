@@ -18,7 +18,7 @@ tags:
   - form/essay
 ---
 
-*by Poe*  ·  **Cluster:** [[Flowers · Spring · Garden]]
+*by Poe*  ·  **Cluster:** [[clusters/flowers-·-spring-·-garden|Flowers · Spring · Garden]]
 
 > [!abstract] 
 > A reflective tale-essay on landscape gardening as the highest art, in which a wealthy aesthete builds an earthly paradise; its matter is beauty, the sublime, and the artist's creation of an ideal garden.
@@ -41,11 +41,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Locus Amoenus]]
-**Motifs:** [[Garden]], [[Money and Gold]]
-**Themes & Concepts:** [[Beauty]], [[Sublime]], [[Artist and Society]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Settings:** [[Garden (2)]]
+**Topoi:** [[topoi/locus-amoenus|Locus Amoenus]]
+**Motifs:** [[motifs/garden|Garden]], [[motifs/money-and-gold|Money and Gold]]
+**Themes & Concepts:** [[concepts/beauty|Beauty]], [[concepts/sublime|Sublime]], [[concepts/artist-and-society|Artist and Society]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Settings:** [[settings/garden-(2)|Garden (2)]]
 
 ## Testo integrale / Full text
 

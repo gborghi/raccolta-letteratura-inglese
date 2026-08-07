@@ -14,4 +14,10 @@ Eldred the Franklin, the Saxon — Alfred's broad, earthy captain who falls in t
 
 <div class="concept-works" data-slug="characters/eldred"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-ballad-of-the-white-horse-(chesterton)|The Ballad of the White Horse (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -23,7 +23,7 @@ tags:
   - archetype/detective
   - archetype/villain
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Detective Fiction · Ratiocination Detection · Crime and Punishment]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/detective-fiction-·-ratiocination-detection-·-crime-and-punishment|Detective Fiction · Ratiocination Detection · Crime and Punishment]]
 
 > [!abstract] 
 > A collection of eight late Sherlock Holmes stories (1908–1917), including 'Wisteria Lodge,' 'The Dying Detective,' and the title story in which Holmes emerges from retirement to outwit a German spy on the eve of the First World War.
@@ -43,10 +43,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Empire and Imperialism]]
-**Motifs:** [[Secrets]], [[Blood]]
-**Historical References:** [[First World War]]
-**Settings:** [[London]], [[Rural England]]
-**Characters:** [[Sherlock Holmes]], [[Doctor Watson]]
-**Archetypes:** [[Detective]], [[Villain]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/empire-and-imperialism|Empire and Imperialism]]
+**Motifs:** [[motifs/secrets|Secrets]], [[motifs/blood|Blood]]
+**Historical References:** [[historical-references/first-world-war|First World War]]
+**Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]

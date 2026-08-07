@@ -56,7 +56,7 @@ tags:
 
 # Napoleon of Notting Hill
 
-*by Chesterton*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
+*by Chesterton*  ·  **Cluster:** [[clusters/city-·-london-·-theatrum-mundi|City · London · Theatrum Mundi]]
 
 > [!abstract] 
 > A 1904 futuristic comic novel set in a drab 1984 London; the joker-king Auberon Quin revives medieval pageantry and the fanatic Adam Wayne fights a war for the sacredness of his little borough, dramatising local patriotism, romance versus rationalism, and the love of small things.
@@ -67,15 +67,15 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Napoleonic Wars the Navy]]
+**Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]]
 
-**Topoi:** [[World Upside Down]], [[Poet as Prophet]], [[Last Stand]]
-**Archetypes:** [[Fool]], [[King]], [[Hero]], [[Rebel]], [[Common Man (2)]], [[Double Doppelganger]]
-**Motifs:** [[Swords and Weapons]], [[Blood]], [[City]], [[Clothing and Costume]], [[Flags and Banners]], [[Crown]], [[Lamp-post]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[War and its Cost]], [[Heroism]], [[Honour]], [[Critique of Progress]], [[Anti-Industrialism]], [[Maturation and Growth]], [[Satire of Society]], [[Nature vs Civilization]], [[Democracy]], [[Kingship and Legitimacy]], [[Common Man]], [[Economics]]
-**Forms & Genres:** [[Novel]], [[Satire]], [[Allegory]], [[Mock Epic]]
-**Settings:** [[London]], [[Modern Metropolis]]
-**Characters:** [[Auberon Quin]], [[Adam Wayne]], [[James Barker]], [[Mr Buck]], [[James Turnbull]], [[Mr Wilson]], [[Provost Swindon]], [[Wilfrid Lambert]], [[Mr Bowles]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/poet-as-prophet|Poet as Prophet]], [[topoi/last-stand|Last Stand]]
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/king|King]], [[archetypes/hero|Hero]], [[archetypes/rebel|Rebel]], [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/double-doppelganger|Double Doppelganger]]
+**Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/blood|Blood]], [[motifs/city|City]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/flags-and-banners|Flags and Banners]], [[motifs/crown|Crown]], [[motifs/lamp-post|Lamp-post]]
+**Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/heroism|Heroism]], [[concepts/honour|Honour]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/satire-of-society|Satire of Society]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/democracy|Democracy]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/common-man|Common Man]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]], [[forms/allegory|Allegory]], [[forms/mock-epic|Mock Epic]]
+**Settings:** [[settings/london|London]], [[settings/modern-metropolis|Modern Metropolis]]
+**Characters:** [[characters/auberon-quin|Auberon Quin]], [[characters/adam-wayne|Adam Wayne]], [[characters/james-barker|James Barker]], [[characters/mr-buck|Mr Buck]], [[characters/james-turnbull|James Turnbull]], [[characters/mr-wilson|Mr Wilson]], [[characters/provost-swindon|Provost Swindon]], [[characters/wilfrid-lambert|Wilfrid Lambert]], [[characters/mr-bowles|Mr Bowles]]
 
 ## Testo integrale / Full text
 

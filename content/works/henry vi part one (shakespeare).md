@@ -31,7 +31,7 @@ tags:
   - character/margaret_of_anjou
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Wars of the Roses]]
+*by Shakespeare*  ·  **Cluster:** [[historical-references/wars-of-the-roses|Wars of the Roses]]
 
 > [!abstract] 
 > Early history play dramatizing England's losses in France after Henry V's death, the Joan la Pucelle episodes, and the seeds of the Wars of the Roses (the Temple Garden plucking of red and white roses). Central themes: civil discord, faction, kingship and the cost of war.
@@ -76,12 +76,12 @@ tags:
 
 ## Connections
 
-**Motifs:** [[White and Red]], [[Swords and Weapons]], [[Crown]]
-**Themes & Concepts:** [[War and its Cost]], [[Kingship and Legitimacy]], [[Order vs Chaos]], [[Class Conflict]], [[Ambition]], [[Economics]]
-**Forms & Genres:** [[History Play]], [[Blank Verse]]
-**Historical References:** [[Medieval England]], [[Wars of the Roses]]
-**Settings:** [[Battlefield]]
-**Characters:** [[Henry VI]], [[Lord Talbot]], [[Joan la Pucelle]], [[Duke of Gloucester]], [[Duke of York]], [[Earl of Suffolk]], [[Charles the Dauphin]], [[Margaret of Anjou]]
+**Motifs:** [[motifs/white-and-red|White and Red]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/crown|Crown]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/class-conflict|Class Conflict]], [[concepts/ambition|Ambition]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/history-play|History Play]], [[forms/blank-verse|Blank Verse]]
+**Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/wars-of-the-roses|Wars of the Roses]]
+**Settings:** [[settings/battlefield|Battlefield]]
+**Characters:** [[characters/henry-vi|Henry VI]], [[characters/lord-talbot|Lord Talbot]], [[characters/joan-la-pucelle|Joan la Pucelle]], [[characters/duke-of-gloucester|Duke of Gloucester]], [[characters/duke-of-york|Duke of York]], [[characters/earl-of-suffolk|Earl of Suffolk]], [[characters/charles-the-dauphin|Charles the Dauphin]], [[characters/margaret-of-anjou|Margaret of Anjou]]
 
 ## Testo integrale / Full text
 

@@ -27,7 +27,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Flowers · Spring · Garden]]
+*by Poe*  ·  **Cluster:** [[clusters/flowers-·-spring-·-garden|Flowers · Spring · Garden]]
 
 > [!abstract] 
 > Aesthetic tale-essay in which the immensely wealthy poet Ellison devotes his fortune to landscape-gardening as the supreme art, theorizing beauty, nature and the artist's creation of an intermediate Nature between man and God.
@@ -48,12 +48,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Locus Amoenus]], [[Book of Nature]]
-**Archetypes:** [[Self-Made Man]]
-**Motifs:** [[Garden]], [[Nature]], [[Flowers]], [[Money and Gold]]
-**Themes & Concepts:** [[Beauty]], [[Imagination]], [[Artist and Society]], [[Natural Order]], [[Immortality of Art Fame]], [[Sublime]], [[Providence]]
-**Forms & Genres:** [[Essay]], [[Short Story]], [[Nonfiction]]
-**Settings:** [[Garden (2)]]
+**Topoi:** [[topoi/locus-amoenus|Locus Amoenus]], [[topoi/book-of-nature|Book of Nature]]
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]
+**Motifs:** [[motifs/garden|Garden]], [[concepts/nature|Nature]], [[motifs/flowers|Flowers]], [[motifs/money-and-gold|Money and Gold]]
+**Themes & Concepts:** [[concepts/beauty|Beauty]], [[concepts/imagination|Imagination]], [[concepts/artist-and-society|Artist and Society]], [[concepts/natural-order|Natural Order]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]], [[concepts/sublime|Sublime]], [[concepts/providence|Providence]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/short-story|Short Story]], [[forms/nonfiction|Nonfiction]]
+**Settings:** [[settings/garden-(2)|Garden (2)]]
 
 ## Testo integrale / Full text
 

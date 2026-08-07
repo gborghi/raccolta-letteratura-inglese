@@ -14,4 +14,10 @@ The poem's controlling sensory motif — the rich world of smells (roses, water,
 
 <div class="concept-works" data-slug="motifs/smell-and-scent"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/quoodle-(chesterton)|quoodle (Chesterton)]]
+
+</div>
+
 #graph/motif

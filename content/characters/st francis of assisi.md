@@ -14,4 +14,10 @@ Founder of the Franciscan order whose joyful asceticism and love of birds, fire,
 
 <div class="concept-works" data-slug="characters/st-francis-of-assisi"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+
+</div>
+
 #graph/character

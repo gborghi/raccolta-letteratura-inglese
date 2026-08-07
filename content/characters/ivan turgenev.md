@@ -14,4 +14,10 @@ Tolstoy's friend and fellow novelist who, from his deathbed, begs him to abandon
 
 <div class="concept-works" data-slug="characters/ivan-turgenev"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/tolstoy-(chesterton)|tolstoy (Chesterton)]]
+
+</div>
+
 #graph/character

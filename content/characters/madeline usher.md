@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/madeline-usher"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-fall-of-the-house-of-usher-(poe)|The Fall of the House of Usher (Poe)]]
+
+</div>
+
 #graph/character

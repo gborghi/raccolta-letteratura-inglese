@@ -14,4 +14,10 @@ British Tory politician satirically addressed throughout the ode as emblem of pa
 
 <div class="concept-works" data-slug="characters/f.-e.-smith"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/smith-(chesterton)|smith (Chesterton)]]
+
+</div>
+
 #graph/character

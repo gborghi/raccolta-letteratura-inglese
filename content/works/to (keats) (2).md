@@ -14,17 +14,17 @@ tags:
   - concept/lust
 ---
 
-*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Keats*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Petrarchan-style sonnet of romantic longing in which the speaker, lacking knightly beauty, woos by spells and incantation; unrequited desire and fancy.
 
 ## Connections
 
-**Topoi:** [[Unattainable Beloved]]
-**Archetypes:** [[Lover]]
-**Themes & Concepts:** [[Unrequited Frustrated Love]], [[Lust Sexual Desire]]
-**Forms & Genres:** [[Petrarchan Sonnet]]
+**Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]]
+**Archetypes:** [[archetypes/lover|Lover]]
+**Themes & Concepts:** [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/lust-sexual-desire|Lust Sexual Desire]]
+**Forms & Genres:** [[forms/petrarchan-sonnet|Petrarchan Sonnet]]
 
 ## Testo integrale / Full text
 

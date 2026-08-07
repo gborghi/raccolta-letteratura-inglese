@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/palamon"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-two-noble-kinsmen-(shakespeare)|THE TWO NOBLE KINSMEN (Shakespeare)]]
+
+</div>
+
 #graph/character

@@ -22,7 +22,7 @@ tags:
   - setting/london
   - archetype/villain
 ---
-*by Conan Doyle*  ·  **Cluster:** [[War and Empire · History · Nationalism and Patriotism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/war-and-empire-·-history-·-nationalism-and-patriotism|War and Empire · History · Nationalism and Patriotism]]
 
 > [!abstract] 
 > A true-crime account of William Godfrey Youngman, who in 1860 murdered his mother, two young brothers, and his sweetheart Mary Streeter in a lodging house, apparently for a small insurance payout, followed by a transcript of his Old Bailey trial and execution; Doyle frames it as a case study in pathological selfishness.
@@ -38,8 +38,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Crime and Punishment]], [[Justice Right and Wrong]], [[Madness]], [[Deception]], [[Greed and Money]], [[Economics]], [[History]]
-**Motifs:** [[Letters and Writing]], [[Blood]], [[Gallows]]
-**Settings:** [[London]]
-**Archetypes:** [[Villain]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/madness|Madness]], [[concepts/deception|Deception]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/blood|Blood]], [[motifs/gallows|Gallows]]
+**Settings:** [[settings/london|London]]
+**Archetypes:** [[archetypes/villain|Villain]]

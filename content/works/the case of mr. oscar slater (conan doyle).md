@@ -24,7 +24,7 @@ tags:
   - character/sir_arthur_conan_doyle
   - archetype/scapegoat
 ---
-*by Conan Doyle*  ·  **Cluster:** [[War and Empire · History · Nationalism and Patriotism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/war-and-empire-·-history-·-nationalism-and-patriotism|War and Empire · History · Nationalism and Patriotism]]
 
 > [!abstract] 
 > Doyle's investigative pamphlet dissects the wrongful murder conviction of Oscar Slater, a German-Jewish immigrant scapegoated for the 1908 bludgeoning of wealthy Glasgow spinster Marion Gilchrist, exposing shaky eyewitness identification and a fatal prosecutorial misstatement.
@@ -41,10 +41,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Justice Right and Wrong]], [[Crime and Punishment]], [[Ratiocination Detection]], [[Antisemitism]], [[Social Injustice]], [[History]]
-**Motifs:** [[Secrets]], [[Money and Gold]], [[Letters and Writing]]
-**Historical References:** [[Victorian England]]
-**Settings:** [[Industrial City]], [[London]]
-**Characters:** [[Sir Arthur Conan Doyle]]
-**Archetypes:** [[Scapegoat]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/antisemitism|Antisemitism]], [[concepts/social-injustice|Social Injustice]], [[concepts/history|History]]
+**Motifs:** [[motifs/secrets|Secrets]], [[motifs/money-and-gold|Money and Gold]], [[motifs/letters-and-writing|Letters and Writing]]
+**Historical References:** [[historical-references/victorian-england|Victorian England]]
+**Settings:** [[settings/industrial-city|Industrial City]], [[settings/london|London]]
+**Characters:** [[characters/sir-arthur-conan-doyle|Sir Arthur Conan Doyle]]
+**Archetypes:** [[archetypes/scapegoat|Scapegoat]]

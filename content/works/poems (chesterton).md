@@ -80,7 +80,7 @@ tags:
   - histref/wars_of_the_roses
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > A collected volume of Chesterton's verse: war poems (Lepanto), love poems, religious/Christmas poems and satirical rhymes; themes of faith, war, patriotism, marriage and joy.
@@ -102,16 +102,16 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Hero]], [[Common Man (2)]], [[Tyrant]], [[Corrupt Official]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/tyrant|Tyrant]], [[archetypes/corrupt-official|Corrupt Official]]
 
-**Settings:** [[Sea (2)]], [[Battlefield]], [[Italy]], [[London]], [[Rural England]], [[Orient]], [[Mountains]], [[Ship]], [[Europe]]
+**Settings:** [[settings/sea-(2)|Sea (2)]], [[settings/battlefield|Battlefield]], [[settings/italy|Italy]], [[settings/london|London]], [[settings/rural-england|Rural England]], [[settings/orient|Orient]], [[settings/mountains|Mountains]], [[motifs/ship|Ship]], [[settings/europe|Europe]]
 
-**Topoi:** [[Last Stand]], [[War as Glory]], [[Immortality Through Verse]], [[Open Road Homecoming]], [[Life as a Battle]], [[Memento Mori]]
-**Motifs:** [[Swords and Weapons]], [[Sea]], [[Cross]], [[Stars]], [[Drums and Bugles]], [[Flags and Banners]], [[Wheel]], [[Wine and Drink]], [[Money and Gold]]
-**Themes & Concepts:** [[Faith]], [[War and its Cost]], [[Romantic Love]], [[Marriage and Fidelity]], [[Nationalism and Patriotism]], [[Joy]], [[Doubt]], [[Satire of Society]], [[Social Injustice]], [[Freedom and Liberty]], [[Distributism]], [[Anti-Industrialism]], [[Grief and Loss]], [[Heroism]], [[Christmas and the Nativity]], [[Economics]], [[History]]
-**Forms & Genres:** [[Lyric]], [[Ballad Ballade]], [[Hymn]], [[Narrative Poem]], [[Sonnet]], [[Ode]], [[Satire]], [[Translation]], [[Comic Verse Song]], [[Verse Epistle]]
-**Historical References:** [[Battle of Lepanto]], [[Christianity]], [[Catholic Church]], [[Islam]], [[Crusades]], [[French Revolution]], [[Napoleonic Wars the Navy]], [[King Alfred]], [[Reformation]], [[Wars of the Roses]]
-**Characters:** [[Don John of Austria]], [[Christ]], [[Don Quixote]], [[Cervantes]], [[F.E. Smith]], [[Walter Long]]
+**Topoi:** [[topoi/last-stand|Last Stand]], [[topoi/war-as-glory|War as Glory]], [[topoi/immortality-through-verse|Immortality Through Verse]], [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/life-as-a-battle|Life as a Battle]], [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/sea|Sea]], [[motifs/cross|Cross]], [[motifs/stars|Stars]], [[motifs/drums-and-bugles|Drums and Bugles]], [[motifs/flags-and-banners|Flags and Banners]], [[motifs/wheel|Wheel]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/money-and-gold|Money and Gold]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/joy|Joy]], [[concepts/doubt|Doubt]], [[concepts/satire-of-society|Satire of Society]], [[concepts/social-injustice|Social Injustice]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/distributism|Distributism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/heroism|Heroism]], [[concepts/christmas-and-the-nativity|Christmas and the Nativity]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/ballad-ballade|Ballad Ballade]], [[forms/hymn|Hymn]], [[forms/narrative-poem|Narrative Poem]], [[forms/sonnet|Sonnet]], [[forms/ode|Ode]], [[forms/satire|Satire]], [[forms/translation|Translation]], [[forms/comic-verse-song|Comic Verse Song]], [[forms/verse-epistle|Verse Epistle]]
+**Historical References:** [[historical-references/battle-of-lepanto|Battle of Lepanto]], [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/islam|Islam]], [[historical-references/crusades|Crusades]], [[historical-references/french-revolution|French Revolution]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/king-alfred|King Alfred]], [[historical-references/reformation|Reformation]], [[historical-references/wars-of-the-roses|Wars of the Roses]]
+**Characters:** [[characters/don-john-of-austria|Don John of Austria]], [[characters/christ|Christ]], [[characters/don-quixote|Don Quixote]], [[historical-references/cervantes|Cervantes]], [[characters/f.e.-smith|F.E. Smith]], [[characters/walter-long|Walter Long]]
 
 ## Testo integrale / Full text
 

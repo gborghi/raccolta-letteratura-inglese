@@ -76,7 +76,7 @@ tags:
 
 # VariedTypes
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > A collection of critical essays on figures such as Charlotte Bronte, William Morris, Byron, Pope, St Francis, Stevenson, Carlyle and Tolstoy; literary criticism that probes the inner truth and creed behind each writer's art.
@@ -94,19 +94,19 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[King]], [[Prophet]]
+**Archetypes:** [[archetypes/king|King]], [[archetypes/prophet|Prophet]]
 
-**Settings:** [[Italy]], [[Medieval England (2)]], [[Germany]], [[Europe]]
+**Settings:** [[settings/italy|Italy]], [[settings/medieval-england-(2)|Medieval England (2)]], [[settings/germany|Germany]], [[settings/europe|Europe]]
 
-**Motifs:** [[Crown]], [[Court (2)]]
+**Motifs:** [[motifs/crown|Crown]], [[motifs/court-(2)|Court (2)]]
 
-**Topoi:** [[Poet as Prophet]]
+**Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
 
-**Characters:** [[King Alfred (2)]], [[Christ]], [[Charlotte Brontë]], [[William Morris]], [[Lord Byron]], [[Alexander Pope]], [[St. Francis of Assisi]], [[Robert Louis Stevenson]], [[Edmond Rostand]], [[Charles II]], [[Thomas Carlyle]], [[Leo Tolstoy]], [[Girolamo Savonarola]], [[Sir Walter Scott]], [[Bret Harte]], [[Maurice Maeterlinck]], [[John Ruskin]], [[Queen Victoria]], [[Kaiser Wilhelm II (the German Emperor)]], [[Alfred Lord Tennyson]], [[Elizabeth Barrett Browning]], [[Cyrano de Bergerac]]
+**Characters:** [[characters/king-alfred-(2)|King Alfred (2)]], [[characters/christ|Christ]], Charlotte Brontë, [[historical-references/william-morris|William Morris]], [[characters/lord-byron|Lord Byron]], [[characters/alexander-pope|Alexander Pope]], [[characters/st.-francis-of-assisi|St. Francis of Assisi]], [[historical-references/robert-louis-stevenson|Robert Louis Stevenson]], [[characters/edmond-rostand|Edmond Rostand]], [[characters/charles-ii|Charles II]], [[characters/thomas-carlyle|Thomas Carlyle]], [[characters/leo-tolstoy|Leo Tolstoy]], [[characters/girolamo-savonarola|Girolamo Savonarola]], [[characters/sir-walter-scott|Sir Walter Scott]], [[characters/bret-harte|Bret Harte]], [[characters/maurice-maeterlinck|Maurice Maeterlinck]], [[characters/john-ruskin|John Ruskin]], [[characters/queen-victoria|Queen Victoria]], [[characters/kaiser-wilhelm-ii-(the-german-emperor)|Kaiser Wilhelm II (the German Emperor)]], [[characters/alfred-lord-tennyson|Alfred Lord Tennyson]], [[characters/elizabeth-barrett-browning|Elizabeth Barrett Browning]], [[characters/cyrano-de-bergerac|Cyrano de Bergerac]]
 
-**Themes & Concepts:** [[Artist and Society]], [[Truth]], [[Appearance vs Reality]], [[Common Man]], [[Beauty]], [[Imagination]], [[Democracy]], [[Doubt]], [[Self-Denial and Renunciation]], [[Nature vs Civilization]], [[Kingship and Legitimacy]], [[Nationalism and Patriotism]], [[Power of Language]], [[Vanity]], [[Individualism]], [[Optimism and Pessimism]], [[Hero Worship]], [[The Spirit of Romance]], [[History]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Biography]], [[Satire]], [[Verse Drama]], [[Nonfiction]]
-**Historical References:** [[Regency Georgian England]], [[Puritanism]], [[Renaissance]], [[Christianity]], [[Napoleonic Wars the Navy]], [[Medieval England]], [[Danish Invasions]], [[Battle of Ethandun]], [[King Alfred]]
+**Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/truth|Truth]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/common-man|Common Man]], [[concepts/beauty|Beauty]], [[concepts/imagination|Imagination]], [[concepts/democracy|Democracy]], [[concepts/doubt|Doubt]], [[concepts/self-denial-and-renunciation|Self-Denial and Renunciation]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/power-of-language|Power of Language]], [[concepts/vanity|Vanity]], [[concepts/individualism|Individualism]], [[concepts/optimism-and-pessimism|Optimism and Pessimism]], [[concepts/hero-worship|Hero Worship]], [[concepts/the-spirit-of-romance|The Spirit of Romance]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/biography|Biography]], [[forms/satire|Satire]], [[forms/verse-drama|Verse Drama]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/puritanism|Puritanism]], [[historical-references/renaissance|Renaissance]], [[historical-references/christianity|Christianity]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/medieval-england|Medieval England]], [[historical-references/danish-invasions|Danish Invasions]], [[historical-references/battle-of-ethandun|Battle of Ethandun]], [[historical-references/king-alfred|King Alfred]]
 
 ## Testo integrale / Full text
 

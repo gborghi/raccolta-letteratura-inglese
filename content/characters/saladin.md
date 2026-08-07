@@ -14,4 +14,10 @@ The great Saracen conqueror of Jerusalem, portrayed as a hard but chivalrous ant
 
 <div class="concept-works" data-slug="characters/saladin"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/new-jerusalem-(chesterton)|New Jerusalem (Chesterton)]]
+
+</div>
+
 #graph/character

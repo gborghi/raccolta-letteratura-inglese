@@ -14,4 +14,10 @@ George Eliot's miser-turned-foster-father, cited by Chesterton (via Max Beerbohm
 
 <div class="concept-works" data-slug="characters/silas-marner"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/victorian-age-(chesterton)|Victorian Age (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,11 @@ The Darwin-Huxley-Wallace theory of evolution whose vague popular diffusion Ches
 
 <div class="concept-works" data-slug="historical-references/darwinism-(evolution)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/victorian-age-(chesterton)|Victorian Age (Chesterton)]]
+- [[works/the-vital-message-(conan-doyle)|The Vital Message (Conan Doyle)]]
+
+</div>
+
 #graph/histref

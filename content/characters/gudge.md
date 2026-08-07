@@ -14,4 +14,10 @@ Chesterton's satirical stand-in for the plutocrat/capitalist who profits from Hu
 
 <div class="concept-works" data-slug="characters/gudge"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/whats-wrong-(chesterton)|whats wrong (Chesterton)]]
+
+</div>
+
 #graph/character

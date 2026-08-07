@@ -14,10 +14,10 @@ tags:
 <span class="atom-split" data-atom="003_to_some_ladies" data-title="TO SOME LADIES" data-chapter="" data-kind="intro" data-tags="motif/nature,motif/the_sea,motif/nightingale,motif/moon,concept/friendship,form/lyric,cluster/friendship,cluster/tears"></span>
 
 
-What though while the wonders of [[Nature|nature]] exploring,  
+What though while the wonders of [[concepts/nature|nature]] exploring,  
   I cannot your light, mazy footsteps attend;  
 Nor listen to accents, that almost adoring,  
-  Bless [[Cynthia]]’s face, the enthusiast’s friend:  
+  Bless [[characters/cynthia|Cynthia]]’s face, the enthusiast’s friend:  
 
 Yet over the steep, whence the mountain stream rushes,  
   With you, kindest friends, in idea I rove;  
@@ -26,10 +26,10 @@ Mark the clear tumbling crystal, its passionate gushes,
 
 Why linger you so, the wild labyrinth strolling?  
   Why breathless, unable your bliss to declare?  
-Ah! you list to the [[Nightingale|nightingale]]’s tender condoling,  
-  Responsive to sylphs, in the [[Moon|moon]] beamy air.  
+Ah! you list to the [[motifs/nightingale|nightingale]]’s tender condoling,  
+  Responsive to sylphs, in the [[motifs/moon|moon]] beamy air.  
 
-’Tis morn, and the [[Flowers|flowers]] with dew are yet drooping,  
+’Tis morn, and the [[motifs/flowers|flowers]] with dew are yet drooping,  
   I see you are treading the verge of the sea:  
 And now! ah, I see it — you just now are stooping  
   To pick up the keep-sake intended for me.  
@@ -52,10 +52,10 @@ To possess but a span of the hour of leisure,
 
 <span class="qlang-split" data-lang="it"></span>
 
-Che importa se, mentre esploro le meraviglie della [[Nature|natura]],  
+Che importa se, mentre esploro le meraviglie della [[concepts/nature|natura]],  
   non posso seguire i vostri passi lievi e sinuosi;  
 né udire gli accenti che, quasi adoranti,  
-  benedicono il volto di [[Cynthia|Cinzia]], amica di chi si esalta:  
+  benedicono il volto di [[characters/cynthia|Cinzia]], amica di chi si esalta:  
 
 Pure sull’erta donde precipita il torrente montano,  
   con voi, dolcissime amiche, col pensiero vago;  
@@ -64,10 +64,10 @@ guardo il limpido cristallo che rovina, i suoi getti appassionati,
 
 Perché indugiate così, errando nel labirinto selvaggio?  
   perché senza fiato, incapaci di dire la vostra gioia?  
-Ah! ascoltate il tenero compianto dell’[[Nightingale|usignolo]],  
-  che risponde ai silfi nell’aria raggiante di [[Moon|luna]].  
+Ah! ascoltate il tenero compianto dell’[[motifs/nightingale|usignolo]],  
+  che risponde ai silfi nell’aria raggiante di [[motifs/moon|luna]].  
 
-È mattino, e i [[Flowers|fiori]] ancora si piegano di rugiada,  
+È mattino, e i [[motifs/flowers|fiori]] ancora si piegano di rugiada,  
   vi vedo camminare sull’orlo del mare:  
 ed ecco! ah, lo vedo — proprio ora vi chinate  
   a raccogliere il ricordo destinato a me.  
@@ -92,21 +92,21 @@ possedere anche solo un palmo dell’ora d’ozio
 <span class="atom-split" data-atom="007_imitation_of_spenser" data-title="IMITATION OF SPENSER" data-chapter="" data-kind="intro" data-tags="topos/locus_amoenus,motif/nature,concept/beauty,concept/love_romantic,form/spenserian_stanza,histref/the_renaissance,cluster/friendship,cluster/tears"></span>
 
 
-Now Morning from her [[Orient|orient]] chamber came,  
-  And her first footsteps touch’d a verdant [[Hill|hill]];  
+Now Morning from her [[settings/orient|orient]] chamber came,  
+  And her first footsteps touch’d a verdant [[motifs/hill|hill]];  
   Crowning its lawny crest with amber flame,  
   Silv’ring the untainted gushes of its rill;  
   Which, pure from mossy beds, did down distill,  
-  And after parting beds of simple [[Flowers|flowers]],  
+  And after parting beds of simple [[motifs/flowers|flowers]],  
   By many streams a little lake did fill,  
   Which round its marge reflected woven bowers,  
 And, in its middle space, a sky that never lowers.  
 
-There the [[King|king]]-fisher saw his plumage bright  
+There the [[archetypes/king|king]]-fisher saw his plumage bright  
   Vieing with fish of brilliant dye below;  
   Whose silken fins, and golden scales’ light  
   Cast upward, through the waves, a ruby glow:  
-  There saw the swan his neck of arched [[Snow|snow]],  
+  There saw the swan his neck of arched [[motifs/snow|snow]],  
   And oar’d himself along with majesty;  
   Sparkled his jetty eyes; his feet did show  
   Beneath the waves like Afric’s ebony,  
@@ -126,25 +126,25 @@ And all around it dipp’d luxuriously
   Slopings of verdure through the glossy tide,  
   Which, as it were in gentle amity,  
   Rippled delighted up the flowery side;  
-  As if to glean the ruddy [[Tears|tears]], it tried,  
-  Which fell profusely from the [[Rose|rose]]-tree stem!  
-  Haply it was the workings of its [[Pride|pride]],  
+  As if to glean the ruddy [[motifs/tears|tears]], it tried,  
+  Which fell profusely from the [[motifs/rose|rose]]-tree stem!  
+  Haply it was the workings of its [[concepts/pride|pride]],  
   In strife to throw upon the shore a gem  
 Outvieing all the buds in Flora’s diadem.  
 
 Woman! when I behold thee flippant, vain,  
   Inconstant, childish, proud, and full of fancies;  
   Without that modest softening that enhances  
-The downcast eye, repentant of the [[Pain|pain]]  
+The downcast eye, repentant of the [[motifs/pain|pain]]  
 That its mild light creates to heal again:  
   E’en then, elate, my spirit leaps, and prances,  
-  E’en then my [[Soul|soul]] with exultation dances  
-For that to [[Love|love]], so long, I’ve dormant lain:  
+  E’en then my [[motifs/soul|soul]] with exultation dances  
+For that to [[motifs/love|love]], so long, I’ve dormant lain:  
 But when I see thee meek, and kind, and tender,  
   Heavens! how desperately do I adore  
 Thy winning graces; — to be thy defender  
   I hotly burn — to be a Calidore —  
-A very Red [[Cross]] Knight — a stout Leander —  
+A very Red [[motifs/cross|Cross]] Knight — a stout Leander —  
   Might I be loved by thee like these of yore.  
 
 Light feet, dark violet eyes, and parted hair;  
@@ -164,13 +164,13 @@ My ear is open like a greedy shark,
 
 Ah! who can e’er forget so fair a being?  
   Who can forget her half retiring sweets?  
-  God! she is like a milk-white [[Lamb|lamb]] that bleats  
+  God! she is like a milk-white [[motifs/lamb|lamb]] that bleats  
 For man’s protection. Surely the All-seeing,  
 Who joys to see us with his gifts agreeing,  
   Will never give him pinions, who intreats  
-  Such [[innocence]] to ruin, — who vilely cheats  
-A dove-like bosom. In [[Truth|truth]] there is no freeing  
-One’s thoughts from such a [[Beauty|beauty]]; when I hear  
+  Such innocence to ruin, — who vilely cheats  
+A dove-like bosom. In [[concepts/truth|truth]] there is no freeing  
+One’s thoughts from such a [[concepts/beauty|beauty]]; when I hear  
   A lay that once I saw her hand awake,  
 Her form seems floating palpable, and near;  
   Had I e’er seen her from an arbour take  
@@ -180,21 +180,21 @@ A dewy flower, oft would that hand appear,
 
 <span class="qlang-split" data-lang="it"></span>
 
-Or il Mattino venne dalla sua stanza d’[[Orient|oriente]],  
-  e i suoi primi passi toccarono un verde [[Hill|colle]];  
+Or il Mattino venne dalla sua stanza d’[[settings/orient|oriente]],  
+  e i suoi primi passi toccarono un verde [[motifs/hill|colle]];  
   coronandone la cresta erbosa di fiamma d’ambra,  
   inargentando i getti intatti del suo ruscello;  
   che, puro da letti muscosi, giù stillava,  
-  e dopo aver diviso aiuole di semplici [[Flowers|fiori]],  
+  e dopo aver diviso aiuole di semplici [[motifs/flowers|fiori]],  
   con molti rivi colmava un piccolo lago,  
   che intorno al margine rifletteva pergole intrecciate,  
 e, nel suo spazio di mezzo, un cielo che mai s’annuvola.  
 
-Là il [[King|re]]-pescatore vide il suo piumaggio lucente  
+Là il [[archetypes/king|re]]-pescatore vide il suo piumaggio lucente  
   gareggiare coi pesci di brillante tinta là sotto;  
   le cui pinne di seta, e la luce delle scaglie d’oro,  
   gettavano in su, per le onde, un bagliore di rubino:  
-  là il cigno vide il suo collo d’inarcata [[Snow|neve]],  
+  là il cigno vide il suo collo d’inarcata [[motifs/snow|neve]],  
   e si remava innanzi con maestà;  
   scintillavano i suoi occhi di giaietto; i piedi apparivano  
   sotto le onde come ebano d’Africa,  
@@ -214,25 +214,25 @@ E tutt’intorno s’immergevano lussureggianti
   declivi di verzura entro l’onda lucida,  
   che, come in mite amicizia,  
   s’increspava lieta su per la sponda fiorita;  
-  quasi tentasse di spigolare le rosse [[Tears|lacrime]]  
-  che cadevano a profusione dallo stelo del [[Rose|rosaio]]!  
-  Forse era l’opera del suo [[Pride|orgoglio]],  
+  quasi tentasse di spigolare le rosse [[motifs/tears|lacrime]]  
+  che cadevano a profusione dallo stelo del [[motifs/rose|rosaio]]!  
+  Forse era l’opera del suo [[concepts/pride|orgoglio]],  
   nello sforzo di gettare sulla riva una gemma  
 che vincesse ogni bocciolo nel diadema di Flora.  
 
 Donna! quando ti vedo frivola, vana,  
   incostante, puerile, superba e piena di capricci;  
   senza quel modesto addolcirsi che esalta  
-l’occhio abbassato, pentito del [[Pain|dolore]]  
+l’occhio abbassato, pentito del [[motifs/pain|dolore]]  
 che la sua mite luce crea per poi guarirlo:  
   pure allora, esultante, il mio spirito balza e caracolla,  
-  pure allora la mia [[Soul|anima]] danza d’esultanza  
-perché all’[[Love|amore]], per tanto tempo, sono giaciuto dormiente:  
+  pure allora la mia [[motifs/soul|anima]] danza d’esultanza  
+perché all’[[motifs/love|amore]], per tanto tempo, sono giaciuto dormiente:  
 ma quando ti vedo mite, e buona, e tenera,  
   cieli! con che disperazione adoro  
 le tue grazie vincenti; — per essere il tuo difensore  
   ardo di fuoco — per essere un Calidore —  
-un vero Cavaliere della Rossa [[Cross|Croce]] — un prode Leandro —  
+un vero Cavaliere della Rossa [[motifs/cross|Croce]] — un prode Leandro —  
   potessi essere amato da te come quelli d’un tempo.  
 
 Piedi lievi, occhi di violetta scura, capelli divisi;  
@@ -252,13 +252,13 @@ il mio orecchio s’apre come uno squalo vorace,
 
 Ah! chi può mai dimenticare una creatura così bella?  
   chi può scordare le sue dolcezze mezzo ritrose?  
-  Dio! ella è come un [[Lamb|agnello]] bianco di latte che bela  
+  Dio! ella è come un [[motifs/lamb|agnello]] bianco di latte che bela  
 per la protezione dell’uomo. Certo Colui che tutto vede,  
 che gode a vederci concordi coi suoi doni,  
   mai darà ali a chi supplica  
-  tale [[innocence|innocenza]] per rovinarla, — a chi vilmente inganna  
-un seno di colomba. In [[Truth|verità]] non c’è modo di liberare  
-i propri pensieri da una tale [[Beauty|bellezza]]; quando odo  
+  tale innocenza per rovinarla, — a chi vilmente inganna  
+un seno di colomba. In [[concepts/truth|verità]] non c’è modo di liberare  
+i propri pensieri da una tale [[concepts/beauty|bellezza]]; quando odo  
   un’aria che una volta vidi destare dalla sua mano,  
 la sua forma pare fluttuare palpabile e vicina;  
   e se mai l’avessi vista cogliere da un pergolato  
@@ -271,7 +271,7 @@ un fiore rugiadoso, spesso quella mano apparirebbe,
 
 
 Sweet are the pleasures that to verse belong,  
-And doubly sweet a brotherhood in [[Song|song]];  
+And doubly sweet a brotherhood in song;  
 Nor can remembrance, Mathew! bring to view  
 A fate more pleasing, a delight more true  
 Than that in which the brother Poets joy’d,  
@@ -290,28 +290,28 @@ Just when the sun his farewell beam has darted:
 But ’tis impossible; far different cares  
 Beckon me sternly from soft “Lydian airs,”  
 And hold my faculties so long in thrall,  
-That I am oft in [[Doubt|doubt]] whether at all  
+That I am oft in [[concepts/doubt|doubt]] whether at all  
 I shall again see Phoebus in the morning:  
 Or flush’d Aurora in the roseate dawning!  
 Or a white Naiad in a rippling stream;  
 Or a rapt seraph in a moonlight beam;  
 Or again witness what with thee I’ve seen,  
 The dew by fairy feet swept from the green,  
-After a [[Night|night]] of some quaint jubilee  
+After a [[motifs/night|night]] of some quaint jubilee  
 Which every elf and fay had come to see:  
 When bright processions took their airy march  
-Beneath the curved [[Moon|moon]]’s triumphal arch.  
+Beneath the curved [[motifs/moon|moon]]’s triumphal arch.  
 
 But might I now each passing moment give  
 To the coy muse, with me she would not live  
-In this dark [[City|city]], nor would condescend  
+In this dark [[motifs/city|city]], nor would condescend  
 ‘Mid contradictions her delights to lend.  
 Should e’er the fine-eyed maid to me be kind,  
 Ah! surely it must be whene’er I find  
 Some flowery spot, sequester’d, wild, romantic,  
 That often must have seen a poet frantic;  
 Where oaks, that erst the Druid knew, are growing,  
-And [[Flowers|flowers]], the glory of one day, are blowing;  
+And [[motifs/flowers|flowers]], the glory of one day, are blowing;  
 Where the dark-leav’d laburnum’s drooping clusters  
 Reflect athwart the stream their yellow lustres,  
 And intertwined the cassia’s arms unite,  
@@ -321,7 +321,7 @@ Where on one side are covert branches hung,
 In leafy quiet; where to pry, aloof,  
 Atween the pillars of the sylvan roof,  
 Would be to find where violet beds were nestling,  
-And where the bee with cowslip [[Bells|bells]] was wrestling.  
+And where the bee with cowslip [[motifs/bells|bells]] was wrestling.  
 There must be too a ruin dark, and gloomy,  
 To say “joy not too much in all that’s bloomy.”  
 
@@ -333,17 +333,17 @@ And that warm-hearted Shakspeare sent to meet him
 Four laurell’d spirits, heaven-ward to intreat him.  
 With reverence would we speak of all the sages  
 Who have left streaks of light athwart their ages:  
-And thou shouldst moralize on [[Milton]]’s blindness,  
+And thou shouldst moralize on [[historical-references/milton|Milton]]’s blindness,  
 And mourn the fearful dearth of human kindness  
 To those who strove with the bright golden wing  
 Of genius, to flap away each sting  
 Thrown by the pitiless world. We next could tell  
-Of those who in the cause of [[Freedom|freedom]] fell:  
+Of those who in the cause of [[concepts/freedom|freedom]] fell:  
 Of our own Alfred, of Helvetian Tell;  
 Of him whose name to ev’ry heart’s a solace,  
 High-minded and unbending William Wallace.  
 While to the rugged north our musing turns  
-We [[Well|well]] might drop a tear for him, and Burns.  
+We [[motifs/well|well]] might drop a tear for him, and Burns.  
 
 Felton! without incitements such as these,  
 How vain for me the niggard Muse to tease:  
@@ -351,17 +351,17 @@ For thee, she will thy every dwelling grace,
 And make “a sun-shine in a shady place:”  
 For thou wast once a flowret blooming wild,  
 Close to the source, bright, pure, and undefil’d,  
-Whence gush the streams of [[Song|song]]: in happy hour  
-Came chaste [[Diana]] from her shady bower,  
+Whence gush the streams of song: in happy hour  
+Came chaste [[characters/diana|Diana]] from her shady bower,  
 Just as the sun was from the east uprising;  
 And, as for him some gift she was devising,  
 Beheld thee, pluck’d thee, cast thee in the stream  
 To meet her glorious brother’s greeting beam.  
 I marvel much that thou hast never told  
 How, from a flower, into a fish of gold  
-[[Apollo]] chang’d thee; how thou next didst seem  
+[[characters/apollo|Apollo]] chang’d thee; how thou next didst seem  
 A black-eyed swan upon the widening stream;  
-And when thou first didst in that [[Mirror|mirror]] trace  
+And when thou first didst in that [[motifs/mirror|mirror]] trace  
 The placid features of a human face:  
 That thou hast never told thy travels strange.  
 And all the wonders of the mazy range  
@@ -374,7 +374,7 @@ November, 1815.
 <span class="qlang-split" data-lang="it"></span>
 
 Dolci sono i piaceri che al verso appartengono,  
-e doppiamente dolce una fratellanza nel [[Song|canto]];  
+e doppiamente dolce una fratellanza nel canto;  
 né il ricordo, Mathew! può mettere davanti agli occhi  
 una sorte più grata, un diletto più vero  
 di quello in cui gioirono i Poeti fratelli,  
@@ -393,28 +393,28 @@ giusto quando il sole ha scagliato il suo raggio d’addio:
 ma è impossibile; ben altre cure  
 severe mi chiamano via dalle molli “arie lidie”,  
 e tengono così a lungo in ceppi le mie facoltà,  
-che spesso sono in [[Doubt|dubbio]] se mai  
+che spesso sono in [[concepts/doubt|dubbio]] se mai  
 rivedrò Febo al mattino:  
 o l’Aurora accesa nell’alba rosata!  
 o una bianca Naiade in un ruscello increspato;  
 o un serafino rapito in un raggio di luna;  
 o assisterò ancora a ciò che con te ho veduto,  
 la rugiada spazzata via dal prato da piedi di fate,  
-dopo una [[Night|notte]] di qualche bizzarro giubileo  
+dopo una [[motifs/night|notte]] di qualche bizzarro giubileo  
 che ogni elfo e ogni fata era venuto a vedere:  
 quando lucenti processioni movevano la loro marcia d’aria  
-sotto l’arco trionfale della [[Moon|luna]] ricurva.  
+sotto l’arco trionfale della [[motifs/moon|luna]] ricurva.  
 
 Ma potessi ora dare ogni istante che passa  
 alla musa ritrosa, con me non vorrebbe vivere  
-in questa oscura [[City|città]], né si degnerebbe  
+in questa oscura [[motifs/city|città]], né si degnerebbe  
 di prestare fra contraddizioni le sue delizie.  
 Se mai la fanciulla dagli occhi belli mi fosse benigna,  
 ah! certo dovrà essere quando io trovi  
 qualche luogo fiorito, appartato, selvatico, romantico,  
 che spesso avrà visto un poeta in delirio;  
 dove crescono querce che un tempo il Druido conobbe,  
-e sbocciano [[Flowers|fiori]], gloria di un giorno solo;  
+e sbocciano [[motifs/flowers|fiori]], gloria di un giorno solo;  
 dove i grappoli penduli del maggiociondolo dalle foglie scure  
 riflettono di traverso nel ruscello i loro lustri gialli,  
 e intrecciandosi si uniscono i rami della cassia,  
@@ -424,7 +424,7 @@ fra i quali sempre hanno cantato gli usignoli
 nella quiete frondosa; dove spiare, in disparte,  
 fra le colonne del tetto silvestre,  
 sarebbe trovare dove s’annidano le aiuole di viole,  
-e dove l’ape lottava con le [[Bells|campanelle]] della primula.  
+e dove l’ape lottava con le [[motifs/bells|campanelle]] della primula.  
 Vi dev’essere anche una rovina scura e tetra,  
 che dica “non gioire troppo di tutto ciò che fiorisce”.  
 
@@ -436,17 +436,17 @@ e a come Shakspeare dal cuore caldo mandò a incontrarlo
 quattro spiriti laureati, per invitarlo verso il cielo.  
 Con riverenza parleremmo di tutti i saggi  
 che hanno lasciato strisce di luce attraverso le loro età:  
-e tu moralizzeresti sulla cecità di [[Milton]],  
+e tu moralizzeresti sulla cecità di [[historical-references/milton|Milton]],  
 e piangeresti la spaventosa penuria di umana bontà  
 verso coloro che si sforzarono, con la lucente ala d’oro  
 del genio, di scacciare ogni pungiglione  
 scagliato dal mondo spietato. Poi potremmo narrare  
-di quelli che caddero per la causa della [[Freedom|libertà]]:  
+di quelli che caddero per la causa della [[concepts/freedom|libertà]]:  
 del nostro Alfredo, dell’elvetico Tell;  
 di colui il cui nome è conforto a ogni cuore,  
 l’altero e inflessibile William Wallace.  
 E mentre il nostro fantasticare volge al rude nord,  
-[[Well|ben]] potremmo lasciar cadere una lacrima per lui, e per Burns.  
+[[motifs/well|ben]] potremmo lasciar cadere una lacrima per lui, e per Burns.  
 
 Felton! senza incitamenti come questi,  
 com’è vano per me stuzzicare la Musa avara:  
@@ -454,17 +454,17 @@ per te, ella farà grazia a ogni tua dimora,
 e farà “un sole in luogo ombroso”:  
 ché tu fosti un tempo un fiorellino sbocciato allo stato brado,  
 presso la sorgente, chiara, pura e incontaminata,  
-donde sgorgano i fiumi del [[Song|canto]]: in ora felice  
-venne la casta [[Diana]] dal suo pergolato ombroso,  
+donde sgorgano i fiumi del canto: in ora felice  
+venne la casta [[characters/diana|Diana]] dal suo pergolato ombroso,  
 giusto mentre il sole sorgeva da oriente;  
 e, mentre per lui andava ideando un dono,  
 ti scorse, ti colse, ti gettò nella corrente  
 incontro al raggio di saluto del suo glorioso fratello.  
 Molto mi meraviglio che tu non abbia mai raccontato  
 come, da fiore, in pesce d’oro  
-[[Apollo]] ti mutò; come poi sembrasti  
+[[characters/apollo|Apollo]] ti mutò; come poi sembrasti  
 un cigno dagli occhi neri sulla corrente che s’allargava;  
-e quando per la prima volta in quello [[Mirror|specchio]] tracciasti  
+e quando per la prima volta in quello [[motifs/mirror|specchio]] tracciasti  
 i placidi lineamenti d’un volto umano:  
 che tu non abbia mai narrato i tuoi viaggi strani,  
 e tutte le meraviglie del vagare labirintico  
@@ -479,24 +479,24 @@ Novembre 1815.
 
 
 Oft have you seen a swan superbly frowning,  
-And with proud breast his own white [[Shadow|shadow]] crowning;  
+And with proud breast his own white [[archetypes/shadow|shadow]] crowning;  
 He slants his neck beneath the waters bright  
 So silently, it seems a beam of light  
 Come from the galaxy: anon he sports, —  
 With outspread wings the Naiad Zephyr courts,  
 Or ruffles all the surface of the lake  
 In striving from its crystal face to take  
-Some diamond [[Water|water]] drops, and them to treasure  
+Some diamond [[motifs/water|water]] drops, and them to treasure  
 In milky nest, and sip them off at leisure.  
 But not a moment can he there insure them,  
 Nor to such downy rest can he allure them;  
 For down they rush as though they would be free,  
-And drop like hours into [[Eternity|eternity]].  
-Just like that bird am I in loss of [[Time|time]],  
+And drop like hours into [[concepts/eternity|eternity]].  
+Just like that bird am I in loss of [[motifs/time|time]],  
 Whene’er I venture on the stream of rhyme;  
 With shatter’d boat, oar snapt, and canvass rent,  
 I slowly sail, scarce knowing my intent;  
-Still scooping up the [[Water|water]] with my fingers,  
+Still scooping up the [[motifs/water|water]] with my fingers,  
 In which a trembling diamond never lingers.  
 
 By this, friend Charles, you may full plainly see  
@@ -506,51 +506,51 @@ And little fit to please a classic ear;
 Because my wine was of too poor a savour  
 For one whose palate gladdens in the flavour  
 Of sparkling Helicon: — small good it were  
-To take him to a [[Desert|desert]] rude, and bare.  
+To take him to a [[motifs/desert|desert]] rude, and bare.  
 Who had on Baiae’s shore reclin’d at ease,  
 While Tasso’s page was floating in a breeze  
 That gave soft music from Armida’s bowers,  
-Mingled with fragrance from her rarest [[Flowers|flowers]]:  
+Mingled with fragrance from her rarest [[motifs/flowers|flowers]]:  
 Small good to one who had by Mulla’s stream  
 Fondled the maidens with the breasts of cream;  
 Who had beheld Belphoebe in a brook,  
 And lovely Una in a leafy nook,  
 And Archimago leaning o’er his book:  
 Who had of all that’s sweet tasted, and seen,  
-From silv’ry ripple, up to [[Beauty|beauty]]’s [[Queen|queen]];  
-From the sequester’d haunts of gay [[Titania]],  
+From silv’ry ripple, up to [[concepts/beauty|beauty]]’s [[characters/queen|queen]];  
+From the sequester’d haunts of gay [[characters/titania|Titania]],  
 To the blue dwelling of divine Urania:  
 One, who, of late, had ta’en sweet forest walks  
 With him who elegantly chats, and talks —  
 The wrong’d Libert as, — who has told you stories  
-Of laurel chaplets, and [[Apollo]]’s glories;  
-Of troops chivalrous prancing; through a [[City|city]],  
-And tearful ladies made for [[Love|love]], and pity:  
+Of laurel chaplets, and [[characters/apollo|Apollo]]’s glories;  
+Of troops chivalrous prancing; through a [[motifs/city|city]],  
+And tearful ladies made for [[motifs/love|love]], and pity:  
 With many else which I have never known.  
 Thus have I thought; and days on days have flown  
 Slowly, or rapidly — unwilling still  
 For you to try my dull, unlearned quill.  
 Nor should I now, but that I’ve known you long;  
-That you first taught me all the sweets of [[Song|song]]:  
+That you first taught me all the sweets of song:  
 The grand, the sweet, the terse, the free, the fine;  
 What swell’d with pathos, and what right divine:  
 Spenserian vowels that elope with ease,  
-And float along like [[Birds|birds]] o’er [[Summer|summer]] seas;  
+And float along like [[motifs/birds|birds]] o’er [[motifs/summer|summer]] seas;  
 Miltonian storms, and more, Miltonian tenderness;  
-[[Michael]] in arms, and more, meek Eve’s fair slenderness.  
-Who read for me the [[Sonnet|sonnet]] swelling loudly  
+[[characters/michael|Michael]] in arms, and more, meek Eve’s fair slenderness.  
+Who read for me the [[forms/sonnet|sonnet]] swelling loudly  
 Up to its climax and then dying proudly?  
 Who found for me the grandeur of the ode,  
 Growing, like Atlas, stronger from its load?  
 Who let me taste that more than cordial dram,  
-The sharp, the rapier-pointed [[Epigram|epigram]]?  
-Shew’d me that [[Epic|epic]] was of all the [[King|king]],  
-Round, vast, and spanning all like [[Saturn]]’s ring?  
-You too upheld the veil from Clio’s [[Beauty|beauty]],  
+The sharp, the rapier-pointed [[forms/epigram|epigram]]?  
+Shew’d me that [[forms/epic|epic]] was of all the [[archetypes/king|king]],  
+Round, vast, and spanning all like [[characters/saturn|Saturn]]’s ring?  
+You too upheld the veil from Clio’s [[concepts/beauty|beauty]],  
 And pointed out the patriot’s stern duty;  
 The might of Alfred, and the shaft of Tell;  
-The hand of [[Brutus]], that so grandly fell  
-Upon a [[Tyrant|tyrant]]’s head. Ah! had I never seen,  
+The hand of [[characters/brutus|Brutus]], that so grandly fell  
+Upon a [[archetypes/tyrant|tyrant]]’s head. Ah! had I never seen,  
 Or known your kindness, what might I have been?  
 What my enjoyments in my youthful years,  
 Bereft of all that now my life endears?  
@@ -558,7 +558,7 @@ And can I e’er these benefits forget?
 And can I e’er repay the friendly debt?  
 No, doubly no; — yet should these rhymings please,  
 I shall roll on the grass with two-fold ease:  
-For I have long [[Time|time]] been my fancy feeding  
+For I have long [[motifs/time|time]] been my fancy feeding  
 With hopes that you would one day think the reading  
 Of my rough verses not an hour misspent;  
 Should it e’er be so, what a rich content!  
@@ -566,12 +566,12 @@ Some weeks have pass’d since last I saw the spires
 In lucent Thames reflected: — warm desires  
 To see the sun o’er peep the eastern dimness,  
 And morning shadows streaking into slimness  
-Across the lawny fields, and pebbly [[Water|water]];  
-To mark the [[Time|time]] as they grow broad, and shorter;  
+Across the lawny fields, and pebbly [[motifs/water|water]];  
+To mark the [[motifs/time|time]] as they grow broad, and shorter;  
 To feel the air that plays about the hills,  
 And sips its freshness from the little rills;  
 To see high, golden corn wave in the light  
-When [[Cynthia]] smiles upon a [[Summer|summer]]’s [[Night|night]],  
+When [[characters/cynthia|Cynthia]] smiles upon a [[motifs/summer|summer]]’s [[motifs/night|night]],  
 And peers among the cloudlet’s jet and white,  
 As though she were reclining in a bed  
 Of bean blossoms, in heaven freshly shed.  
@@ -586,17 +586,17 @@ Trust to my feelings, and write you a letter.
 Such an attempt required an inspiration  
 Of a peculiar sort, — a consummation; —  
 Which, had I felt, these scribblings might have been  
-Verses from which the [[Soul|soul]] would never wean:  
+Verses from which the [[motifs/soul|soul]] would never wean:  
 But many days have past since last my heart  
 Was warm’d luxuriously by divine Mozart;  
 By Arne delighted, or by Handel madden’d;  
-Or by the [[Song|song]] of Erin pierc’d and sadden’d:  
-What [[Time|time]] you were before the music sitting,  
+Or by the song of Erin pierc’d and sadden’d:  
+What [[motifs/time|time]] you were before the music sitting,  
 And the rich notes to each sensation fitting.  
 Since I have walk’d with you through shady lanes  
 That freshly terminate in open plains,  
 And revel’d in a chat that ceased not  
-When at [[Night|night]]-fall among your books we got:  
+When at [[motifs/night|night]]-fall among your books we got:  
 No, nor when supper came, nor after that, —  
 Nor when reluctantly I took my hat;  
 No, nor till cordially you shook my hand  
@@ -606,11 +606,11 @@ Could hear your footsteps touch the grav’ly floor.
 Sometimes I lost them, and then found again;  
 You chang’d the footpath for the grassy plain.  
 In those still moments I have wish’d you joys  
-That [[Well|well]] you know to [[Honour|honour]]: — ”Life’s very toys  
+That [[motifs/well|well]] you know to [[concepts/honour|honour]]: — ”Life’s very toys  
 With him,” said I, “will take a pleasant charm;  
 It cannot be that ought will work him harm.”  
 These thoughts now come o’er me with all their might: —  
-Again I shake your hand, — friend Charles, good [[Night|night]].  
+Again I shake your hand, — friend Charles, good [[motifs/night|night]].  
 
 September, 1816.  
 
@@ -618,24 +618,24 @@ September, 1816.
 <span class="qlang-split" data-lang="it"></span>
 
 Spesso avete visto un cigno accigliarsi superbo,  
-e col petto orgoglioso incoronare la propria bianca [[Shadow|ombra]];  
+e col petto orgoglioso incoronare la propria bianca [[archetypes/shadow|ombra]];  
 piega di sbieco il collo sotto le acque lucenti  
 così in silenzio, che pare un raggio di luce  
 venuto dalla galassia: poi si trastulla, —  
 con le ali spiegate corteggia lo Zefiro Naiade,  
 o increspa tutta la superficie del lago  
 nello sforzo di prendere dal suo volto di cristallo  
-qualche goccia d’[[Water|acqua]] adamantina, e custodirla  
+qualche goccia d’[[motifs/water|acqua]] adamantina, e custodirla  
 in nido lattiginoso, e sorseggiarla con comodo.  
 Ma non può assicurarvele un solo istante,  
 né allettarle a un riposo così piumoso;  
 ché giù precipitano come volessero esser libere,  
-e cadono come ore nell’[[Eternity|eternità]].  
-Proprio come quell’uccello sono io nel perdere il [[Time|tempo]],  
+e cadono come ore nell’[[concepts/eternity|eternità]].  
+Proprio come quell’uccello sono io nel perdere il [[motifs/time|tempo]],  
 ogni volta che mi avventuro sulla corrente della rima;  
 con barca sfasciata, remo spezzato e vela squarciata,  
 navigo lento, appena sapendo il mio intento;  
-raccogliendo sempre l’[[Water|acqua]] con le dita,  
+raccogliendo sempre l’[[motifs/water|acqua]] con le dita,  
 in cui mai indugia un diamante tremulo.  
 
 Da ciò, amico Charles, potete ben chiaramente vedere  
@@ -645,51 +645,51 @@ e poco adatti a piacere a un orecchio classico;
 perché il mio vino era di sapore troppo povero  
 per uno il cui palato si rallegra dell’aroma  
 dello spumeggiante Elicona: — poco giovamento sarebbe  
-condurlo in un [[Desert|deserto]] rude e spoglio,  
+condurlo in un [[motifs/desert|deserto]] rude e spoglio,  
 lui che sulla riva di Baia s’era adagiato a suo agio,  
 mentre la pagina del Tasso fluttuava in una brezza  
 che dava dolce musica dai pergolati d’Armida,  
-mista alla fragranza dei suoi [[Flowers|fiori]] più rari:  
+mista alla fragranza dei suoi [[motifs/flowers|fiori]] più rari:  
 poco giovamento a chi presso il fiume Mulla  
 aveva accarezzato fanciulle dal seno di crema;  
 che aveva scorto Belfebe in un ruscello,  
 e la bella Una in un angolo frondoso,  
 e Archimago chino sul suo libro:  
 che di tutto ciò che è dolce aveva gustato e visto,  
-dall’increspatura d’argento fino alla [[Queen|regina]] della [[Beauty|bellezza]];  
-dai ritiri appartati della gaia [[Titania]],  
+dall’increspatura d’argento fino alla [[characters/queen|regina]] della [[concepts/beauty|bellezza]];  
+dai ritiri appartati della gaia [[characters/titania|Titania]],  
 all’azzurra dimora della divina Urania:  
 uno che, di recente, aveva fatto dolci passeggiate nei boschi  
 con colui che elegantemente chiacchiera e discorre —  
 l’oltraggiato Libertas, — che vi ha raccontato storie  
-di ghirlande d’alloro, e delle glorie d’[[Apollo]];  
-di schiere cavalleresche caracollanti per una [[City|città]],  
-e di dame in lacrime fatte per l’[[Love|amore]] e la pietà:  
+di ghirlande d’alloro, e delle glorie d’[[characters/apollo|Apollo]];  
+di schiere cavalleresche caracollanti per una [[motifs/city|città]],  
+e di dame in lacrime fatte per l’[[motifs/love|amore]] e la pietà:  
 con molt’altro che io non ho mai conosciuto.  
 Così ho pensato; e giorni su giorni sono volati  
 lenti, o rapidi — sempre restio  
 a farvi provare la mia penna ottusa e ignorante.  
 Né lo farei ora, se non vi conoscessi da tanto;  
-se non foste voi il primo a insegnarmi ogni dolcezza del [[Song|canto]]:  
+se non foste voi il primo a insegnarmi ogni dolcezza del canto:  
 il grande, il dolce, il terso, il libero, il fine;  
 ciò che si gonfiava di pathos, e ciò che era diritto divino:  
 vocali spenseriane che fuggono con agio,  
-e fluttuano come [[Birds|uccelli]] su mari d’[[Summer|estate]];  
+e fluttuano come [[motifs/birds|uccelli]] su mari d’[[motifs/summer|estate]];  
 tempeste miltoniane, e più ancora, tenerezza miltoniana;  
-[[Michael|Michele]] in armi, e più ancora, la bella esilità della mite Eva.  
-Chi mi lesse il [[Sonnet|sonetto]] che si gonfia sonoro  
+[[characters/michael|Michele]] in armi, e più ancora, la bella esilità della mite Eva.  
+Chi mi lesse il [[forms/sonnet|sonetto]] che si gonfia sonoro  
 fino al suo culmine e poi muore con orgoglio?  
 Chi trovò per me la grandezza dell’ode,  
 che cresce, come Atlante, più forte sotto il suo carico?  
 Chi mi fece assaggiare quel sorso più che cordiale,  
-l’acuto [[Epigram|epigramma]] dalla punta di stocco?  
-Mi mostrò che l’[[Epic|epica]] era il [[King|re]] di tutte,  
-rotonda, vasta, e abbracciante ogni cosa come l’anello di [[Saturn|Saturno]]?  
-Voi pure sollevaste il velo dalla [[Beauty|bellezza]] di Clio,  
+l’acuto [[forms/epigram|epigramma]] dalla punta di stocco?  
+Mi mostrò che l’[[forms/epic|epica]] era il [[archetypes/king|re]] di tutte,  
+rotonda, vasta, e abbracciante ogni cosa come l’anello di [[characters/saturn|Saturno]]?  
+Voi pure sollevaste il velo dalla [[concepts/beauty|bellezza]] di Clio,  
 e additaste il severo dovere del patriota;  
 la possanza di Alfredo, e il dardo di Tell;  
-la mano di [[Brutus|Bruto]], che così grandiosamente cadde  
-sul capo d’un [[Tyrant|tiranno]]. Ah! se mai non avessi visto,  
+la mano di [[characters/brutus|Bruto]], che così grandiosamente cadde  
+sul capo d’un [[archetypes/tyrant|tiranno]]. Ah! se mai non avessi visto,  
 o conosciuto la vostra bontà, che cosa sarei stato?  
 quali i miei godimenti negli anni giovanili,  
 privo di tutto ciò che ora mi rende cara la vita?  
@@ -697,7 +697,7 @@ E posso mai dimenticare questi benefici?
 E posso mai ripagare l’amichevole debito?  
 No, doppiamente no; — pure, se queste rime piacessero,  
 mi rotolerei sull’erba con doppia beatitudine:  
-ché per lungo [[Time|tempo]] ho nutrito la mia fantasia  
+ché per lungo [[motifs/time|tempo]] ho nutrito la mia fantasia  
 con la speranza che un giorno pensiate che la lettura  
 dei miei versi rozzi non sia un’ora sprecata;  
 se mai fosse così, che ricca contentezza!  
@@ -705,12 +705,12 @@ Alcune settimane son passate da quando vidi le guglie
 riflesse nel lucente Tamigi: — caldi desideri  
 di vedere il sole occhieggiare sopra l’oscurità d’oriente,  
 e le ombre del mattino assottigliarsi in strisce  
-attraverso i campi erbosi e l’[[Water|acqua]] ciottolosa;  
-di segnare il [[Time|tempo]] mentre si fanno larghe e più corte;  
+attraverso i campi erbosi e l’[[motifs/water|acqua]] ciottolosa;  
+di segnare il [[motifs/time|tempo]] mentre si fanno larghe e più corte;  
 di sentire l’aria che gioca intorno ai colli,  
 e sorseggia la sua freschezza dai piccoli rivi;  
 di vedere l’alto grano dorato ondeggiare nella luce  
-quando [[Cynthia|Cinzia]] sorride a una [[Night|notte]] d’[[Summer|estate]],  
+quando [[characters/cynthia|Cinzia]] sorride a una [[motifs/night|notte]] d’[[motifs/summer|estate]],  
 e occhieggia fra il nero e il bianco delle nuvolette,  
 come se fosse adagiata in un letto  
 di fiori di fava, freschi sparsi in cielo.  
@@ -725,17 +725,17 @@ fidarmi dei miei sentimenti, e scrivervi una lettera.
 Un tale tentativo richiedeva un’ispirazione  
 di specie peculiare, — un compimento; —  
 che, se l’avessi sentita, questi scarabocchi sarebbero stati  
-versi da cui l’[[Soul|anima]] non si svezzerebbe mai:  
+versi da cui l’[[motifs/soul|anima]] non si svezzerebbe mai:  
 ma molti giorni son passati da quando il mio cuore  
 fu scaldato lussuosamente dal divino Mozart;  
 deliziato da Arne, o fatto folle da Händel;  
-o trafitto e rattristato dal [[Song|canto]] d’Erin:  
-nel [[Time|tempo]] in cui voi sedevate davanti alla musica,  
+o trafitto e rattristato dal canto d’Erin:  
+nel [[motifs/time|tempo]] in cui voi sedevate davanti alla musica,  
 adattando le ricche note a ogni sensazione.  
 Da quando ho camminato con voi per viottoli ombrosi  
 che sboccano freschi in aperte pianure,  
 e goduto d’una conversazione che non cessava  
-quando al calar della [[Night|notte]] arrivavamo fra i vostri libri:  
+quando al calar della [[motifs/night|notte]] arrivavamo fra i vostri libri:  
 no, né quando veniva la cena, né dopo, —  
 né quando a malincuore prendevo il cappello;  
 no, né finché cordialmente mi scuoteste la mano  
@@ -745,11 +745,11 @@ potevo udire i vostri passi toccare il suolo ghiaioso.
 Talvolta li perdevo, e poi li ritrovavo;  
 avevate lasciato il sentiero per la piana erbosa.  
 In quei momenti quieti vi ho augurato gioie  
-che [[Well|bene]] sapete [[Honour|onorare]]: — “I giocattoli stessi della vita  
+che [[motifs/well|bene]] sapete [[concepts/honour|onorare]]: — “I giocattoli stessi della vita  
 con lui,” dissi, “prenderanno un piacevole incanto;  
 non può essere che alcunché gli faccia male”.  
 Questi pensieri ora mi assalgono con tutta la loro forza: —  
-di nuovo vi stringo la mano, — amico Charles, buona [[Night|notte]].  
+di nuovo vi stringo la mano, — amico Charles, buona [[motifs/night|notte]].  
 
 Settembre 1816.
 
@@ -759,13 +759,13 @@ Settembre 1816.
 
 
 Small, busy flames play through the fresh laid coals,  
-  And their faint cracklings o’er our [[Silence|silence]] creep  
+  And their faint cracklings o’er our [[motifs/silence|silence]] creep  
   Like whispers of the household gods that keep  
 A gentle empire o’er fraternal souls.  
 And while, for rhymes, I search around the poles,  
-  Your eyes are fix’d, as in poetic [[Sleep|sleep]],  
+  Your eyes are fix’d, as in poetic [[motifs/sleep|sleep]],  
   Upon the lore so voluble and deep,  
-That aye at fall of [[Night|night]] our care condoles.  
+That aye at fall of [[motifs/night|night]] our care condoles.  
 This is your birth-day Tom, and I rejoice  
   That thus it passes smoothly, quietly.  
 Many such eves of gently whisp’ring noise  
@@ -779,13 +779,13 @@ November 18, 1816.
 <span class="qlang-split" data-lang="it"></span>
 
 Piccole fiamme operose giocano tra i carboni appena posati,  
-  e i loro fiochi crepitii strisciano sul nostro [[Silence|silenzio]]  
+  e i loro fiochi crepitii strisciano sul nostro [[motifs/silence|silenzio]]  
   come sussurri dei dèi domestici che tengono  
 un mite impero sulle anime fraterne.  
 E mentre, cercando rime, frugo intorno ai poli,  
-  i vostri occhi stanno fissi, come in [[Sleep|sonno]] poetico,  
+  i vostri occhi stanno fissi, come in [[motifs/sleep|sonno]] poetico,  
   sopra il sapere così fluente e profondo  
-che sempre al calar della [[Night|notte]] consola il nostro affanno.  
+che sempre al calar della [[motifs/night|notte]] consola il nostro affanno.  
 Questo è il tuo compleanno, Tom, e mi rallegro  
   che trascorra così, sereno e quieto.  
 Molte sere come questa, di rumore che dolcemente sussurra,  
@@ -802,36 +802,36 @@ quali siano le vere gioie di questo mondo, — prima che la gran voce,
 
 Keen, fitful gusts are whisp’ring here and there  
   Among the bushes half leafless, and dry;  
-  The [[Stars|stars]] look very cold about the sky,  
+  The [[motifs/stars|stars]] look very cold about the sky,  
 And I have many miles on foot to fare.  
 Yet feel I little of the cool bleak air,  
-  Or of the dead [[Leaves|leaves]] rustling drearily,  
+  Or of the dead [[motifs/leaves|leaves]] rustling drearily,  
   Or of those silver lamps that burn on high,  
-Or of the distance from [[Home|home]]’s pleasant lair:  
+Or of the distance from [[motifs/home|home]]’s pleasant lair:  
 For I am brimfull of the friendliness  
   That in a little cottage I have found;  
-Of fair-hair’d [[Milton]]’s eloquent distress,  
-  And all his [[Love|love]] for gentle Lycid drown’d;  
+Of fair-hair’d [[historical-references/milton|Milton]]’s eloquent distress,  
+  And all his [[motifs/love|love]] for gentle Lycid drown’d;  
 Of lovely Laura in her light green dress,  
-  And faithful Petrarch gloriously [[Crown|crown]]’d.  
+  And faithful Petrarch gloriously [[motifs/crown|crown]]’d.  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Acute, incostanti raffiche sussurrano qua e là  
   tra i cespugli mezzo spogli e secchi;  
-  le [[Stars|stelle]] hanno un’aria gelida per il cielo,  
+  le [[motifs/stars|stelle]] hanno un’aria gelida per il cielo,  
 e molte miglia mi restano da fare a piedi.  
 Pure poco sento dell’aria fredda e squallida,  
-  o delle [[Leaves|foglie]] morte che frusciano tristemente,  
+  o delle [[motifs/leaves|foglie]] morte che frusciano tristemente,  
   o di quelle lampade d’argento che ardono lassù,  
-o della distanza dal caro covo di [[Home|casa]]:  
+o della distanza dal caro covo di [[motifs/home|casa]]:  
 ché sono colmo fino all’orlo dell’amicizia  
   che ho trovato in una piccola casetta;  
-dell’eloquente dolore di [[Milton]] dai capelli biondi,  
-  e di tutto il suo [[Love|amore]] per il gentile Licida annegato;  
+dell’eloquente dolore di [[historical-references/milton|Milton]] dai capelli biondi,  
+  e di tutto il suo [[motifs/love|amore]] per il gentile Licida annegato;  
 della bella Laura nella sua veste verde chiara,  
-  e del fedele Petrarca gloriosamente [[Crown|incoronato]].
+  e del fedele Petrarca gloriosamente [[motifs/crown|incoronato]].
 
 
 
@@ -842,17 +842,17 @@ Georgiana Augusta Keats
 
 Give me your patience Sister while I frame  
 Exact in capitals your golden name  
-Or sue the fair [[Apollo]] and he will  
+Or sue the fair [[characters/apollo|Apollo]] and he will  
 Rouse from his heavy slumber and instil  
-Great [[Love|love]] in me for thee and Poesy.  
+Great [[motifs/love|love]] in me for thee and Poesy.  
 Imagine not that greatest mastery  
 And kingdom over all the realms of verse  
-Nears more to heaven in aught than when we [[Nurse|nurse]]  
-And surety give to [[Love|love]] and brotherhood.  
+Nears more to heaven in aught than when we [[characters/nurse|nurse]]  
+And surety give to [[motifs/love|love]] and brotherhood.  
 
-Anthropophagi in [[Othello]]’s mood;  
+Anthropophagi in [[characters/othello|Othello]]’s mood;  
 10  
-[[Ulysses]] stormed, and his enchanted belt  
+[[characters/ulysses|Ulysses]] stormed, and his enchanted belt  
 Glow with the Muse, but they are never felt  
 Unbosom’d so’ and so eternal made,  
 Such tender incense in their laurel shade,  
@@ -863,7 +863,7 @@ Enchanted has it been the Lord knows where.
 And may it taste to you like good old wine,  
 Take you to real happiness and give  
 20  
-Sons, daughters and a [[Home|home]] like honied hive.  
+Sons, daughters and a [[motifs/home|home]] like honied hive.  
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -872,17 +872,17 @@ Georgiana Augusta Keats
 
 Garbata sorella, dammi pazienza mentre compongo  
 Esatto in maiuscole il tuo aureo nome,  
-O supplica il bell’[[Apollo]], ed egli saprà  
+O supplica il bell’[[characters/apollo|Apollo]], ed egli saprà  
 Ridestarsi dal suo greve sonno e infondere  
-Grande [[Love|amore]] in me per te e per la Poesia.  
+Grande [[motifs/love|amore]] in me per te e per la Poesia.  
 Immagina: non la più alta maestria,  
 Ampio regno su tutti i reami del verso,  
-Non s’accosta al cielo più di quando [[Nurse|nutriamo]]  
-Ad [[Love|amore]] e fratellanza dando salda fede.  
+Non s’accosta al cielo più di quando [[characters/nurse|nutriamo]]  
+Ad [[motifs/love|amore]] e fratellanza dando salda fede.  
 
-Antropofagi nell’umore di [[Othello|Otello]];  
+Antropofagi nell’umore di [[characters/othello|Otello]];  
 10  
-Urlò [[Ulysses|Ulisse]] nella tempesta, e la cintura incantata  
+Urlò [[characters/ulysses|Ulisse]] nella tempesta, e la cintura incantata  
 Gareggiano di luce con la Musa, ma mai furono sentiti  
 Usciti dal petto così, e resi così eterni,  
 Sì tenero incenso nella loro ombra d’alloro  
@@ -893,7 +893,7 @@ Ed è stato incantato Dio sa dove.
 A te sappia di buon vino invecchiato,  
 Ti conduca alla vera felicità e ti dia  
 20  
-Schiere di figli e figlie, e una [[Home|casa]] come alveare di miele.
+Schiere di figli e figlie, e una [[motifs/home|casa]] come alveare di miele.
 
 
 
@@ -902,7 +902,7 @@ Schiere di figli e figlie, e una [[Home|casa]] come alveare di miele.
 
 Written at the close of Canto II, Book V, of’The Faerie Queene’.  
 
-In after-[[Time|time]], a sage of mickle lore  
+In after-[[motifs/time|time]], a sage of mickle lore  
 Yclep’d Typographus, the Giant took,  
 And did refit his limbs as heretofore,  
 And made him read in many a learned book,  
@@ -917,7 +917,7 @@ The one he struck stone-blind, the other’s eyes wox dim.
 
 Scritta alla fine del Canto II, Libro V, della ’Faerie Queene’.  
 
-In un [[Time|tempo]] avvenire, un savio di molta dottrina  
+In un [[motifs/time|tempo]] avvenire, un savio di molta dottrina  
 detto Typographus, prese il Gigante,  
 e gli riassestò le membra come prima,  
 e lo fece leggere in molti dotti libri,  
@@ -933,11 +933,11 @@ l’uno accecò come pietra, all’altro offuscò gli occhi.
 
 
 I  
-He is to weet a [[Melancholy|melancholy]] carle:  
+He is to weet a [[concepts/melancholy|melancholy]] carle:  
 Thin in the waist, with bushy head of hair,  
 As hath the seeded thistle when in parle  
 It holds the Zephyr, ere it sendeth fair  
-Its light balloons into the [[Summer|summer]] air;  
+Its light balloons into the [[motifs/summer|summer]] air;  
 Therto his beard had not begun to bloom,  
 No brush had touch’d his chin or razor’sheer;  
 No care had touch’d his cheek with mortal doom,  
@@ -950,7 +950,7 @@ And sauces held he worthless as the chaff;
 He ‘sdeigned the swine-head at the wassail-bowl;  
 Ne with lewd ribbalds sat he cheek by jowl;  
 Ne with sly Lemans in the scorner’s chair;  
-But after [[Water|water]]-brooks this [[Pilgrim]]’s [[Soul|soul]]  
+But after [[motifs/water|water]]-brooks this [[archetypes/pilgrim|Pilgrim]]’s [[motifs/soul|soul]]  
 Panted, and all his food was woodland air  
 Though he would oft-times feast on gilliflowers rare.  
 
@@ -959,7 +959,7 @@ The slang of cities in no wise he knew,
 Tipping the wink to him was heathen Greek;  
 He sipp’d no olden Tom or ruin blue,  
 Or nantz or cherry-brandy drank full meek  
-By many a [[Damsel|damsel]] hoarse and rouge of cheek;  
+By many a [[archetypes/damsel|damsel]] hoarse and rouge of cheek;  
 Nor did he know each aged watchman’s beat,  
 Nor in obscured purlieus would he seek  
 For curled Jewesses, with ankles neat,  
@@ -969,11 +969,11 @@ Who as they walk abroad make tinkling with their feet.
 <span class="qlang-split" data-lang="it"></span>
 
 I  
-Egli è, a saperlo, un tipo [[Melancholy|malinconico]]:  
+Egli è, a saperlo, un tipo [[concepts/melancholy|malinconico]]:  
 sottile alla vita, con una zazzera folta di capelli,  
 quale l’ha il cardo andato in seme quando a colloquio  
 trattiene lo Zefiro, prima di mandare belli  
-i suoi lievi palloncini nell’aria d’[[Summer|estate]];  
+i suoi lievi palloncini nell’aria d’[[motifs/summer|estate]];  
 inoltre la barba non gli era ancora fiorita,  
 nessun pennello gli aveva toccato il mento, né la lama del rasoio;  
 nessun affanno gli aveva segnato la guancia di mortale condanna,  
@@ -986,7 +986,7 @@ e le salse teneva vili quanto la pula;
 sdegnava il testone di porco alla coppa del brindisi;  
 né sedeva gomito a gomito con osceni buffoni;  
 né con astute amanti sul seggio dello schernitore;  
-ma verso i ruscelli d’[[Water|acqua]] l’[[Soul|anima]] di questo [[Pilgrim|pellegrino]]  
+ma verso i ruscelli d’[[motifs/water|acqua]] l’[[motifs/soul|anima]] di questo [[archetypes/pilgrim|pellegrino]]  
 anelava, e tutto il suo cibo era aria di bosco,  
 benché spesso banchettasse di rare violacciocche.  
 
@@ -995,7 +995,7 @@ Il gergo delle città in nessun modo conosceva,
 strizzar l’occhio per lui era greco pagano;  
 non sorseggiava vecchio gin né azzurra rovina,  
 né acquavite o brandy di ciliegia beveva mansueto  
-accanto a più d’una [[Damsel|donzella]] roca e imbellettata di guancia;  
+accanto a più d’una [[archetypes/damsel|donzella]] roca e imbellettata di guancia;  
 né sapeva il giro di ronda d’ogni vecchia guardia,  
 né in oscuri sobborghi andava cercando  
 ebree ricciute, dalle caviglie sottili,  

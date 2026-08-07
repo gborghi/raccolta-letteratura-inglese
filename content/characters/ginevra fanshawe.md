@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/ginevra-fanshawe"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/villette-(bronte)|Villette (Bronte)]]
+
+</div>
+
 #graph/character

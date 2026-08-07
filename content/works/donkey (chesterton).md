@@ -27,7 +27,7 @@ tags:
 
 # donkey
 
-*by Chesterton*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
+*by Chesterton*  ·  **Cluster:** [[clusters/martyrdom-·-martyr-saint-·-cross|Martyrdom · Martyr Saint · Cross]]
 
 > [!abstract] 
 > Lyric in which the despised, grotesque donkey keeps its secret: it too had 'one far fierce hour' when palms were strewn before it on Palm Sunday — the lowly exalted through Christ.
@@ -38,14 +38,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Archetypes:** [[Christ Figure]], [[Scapegoat]], [[Outsider]]
-**Motifs:** [[Animals]], [[Moon]], [[Blood]]
-**Themes & Concepts:** [[Humility]], [[Grace and Redemption]], [[Grotesque]], [[Secrecy and Concealment]], [[Suffering and Pain]]
-**Forms & Genres:** [[Lyric]]
-**Historical References:** [[Bible]], [[Christianity]]
-**Characters:** [[Christ]]
+**Archetypes:** [[archetypes/christ-figure|Christ Figure]], [[archetypes/scapegoat|Scapegoat]], [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/animals|Animals]], [[motifs/moon|Moon]], [[motifs/blood|Blood]]
+**Themes & Concepts:** [[concepts/humility|Humility]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/grotesque|Grotesque]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/suffering-and-pain|Suffering and Pain]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]]
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

@@ -11,4 +11,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/danton"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-french-revolution-(belloc)|The French Revolution (Belloc)]]
+
+</div>
+
 #graph/character

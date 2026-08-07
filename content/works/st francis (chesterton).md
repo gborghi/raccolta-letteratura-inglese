@@ -68,7 +68,7 @@ tags:
 
 # St Francis
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > Chesterton's biography of St. Francis, reading the saint's life of poverty, humility, love of nature and conversion as a divine paradox; an apologetic and devotional study.
@@ -82,16 +82,16 @@ tags:
 
 ## Connections
 
-**Settings:** [[Italy]], [[Mountains]], [[Europe]]
+**Settings:** [[settings/italy|Italy]], [[settings/mountains|Mountains]], [[settings/europe|Europe]]
 
-**Characters:** [[Christ]], [[Virgin Mary]], [[St. Francis of Assisi]], [[Pietro Bernadone]], [[St. Clare of Assisi]], [[St. Dominic]], [[Bernard of Quintaville]]
+**Characters:** [[characters/christ|Christ]], [[characters/virgin-mary|Virgin Mary]], [[characters/st.-francis-of-assisi|St. Francis of Assisi]], [[characters/pietro-bernadone|Pietro Bernadone]], [[characters/st.-clare-of-assisi|St. Clare of Assisi]], [[characters/st.-dominic|St. Dominic]], [[characters/bernard-of-quintaville|Bernard of Quintaville]]
 
-**Topoi:** [[World Upside Down]], [[Contemptus Mundi]], [[Poet as Prophet]]
-**Archetypes:** [[Martyr Saint]], [[Christ Figure]], [[Fool]], [[Pilgrim]]
-**Motifs:** [[Nature]], [[Animals]], [[Birds]], [[Fire]], [[Water]], [[Sun]], [[Cave]], [[Cross]], [[Nakedness]], [[Dreams]], [[Light and Dark]], [[Clothing and Costume]]
-**Themes & Concepts:** [[Faith]], [[Humility]], [[Poverty]], [[Conversion]], [[Grace and Redemption]], [[Divine Love]], [[Paradox]], [[Wonder and Gratitude]], [[Nature vs Civilization]], [[Martyrdom]], [[Self-Denial and Renunciation]], [[Joy]], [[Democracy]], [[Original Sin]], [[Providence]], [[Romantic Love]], [[History]]
-**Forms & Genres:** [[Biography]], [[Apologetics]], [[Essay]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Catholic Church]], [[Crusades]], [[Renaissance]], [[Dante]], [[Islam and the East]], [[Spanish Inquisition]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/contemptus-mundi|Contemptus Mundi]], [[topoi/poet-as-prophet|Poet as Prophet]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/christ-figure|Christ Figure]], [[archetypes/fool|Fool]], [[archetypes/pilgrim|Pilgrim]]
+**Motifs:** [[concepts/nature|Nature]], [[motifs/animals|Animals]], [[motifs/birds|Birds]], [[motifs/fire|Fire]], [[motifs/water|Water]], [[motifs/sun|Sun]], [[motifs/cave|Cave]], [[motifs/cross|Cross]], [[motifs/nakedness|Nakedness]], [[motifs/dreams|Dreams]], [[motifs/light-and-dark|Light and Dark]], [[motifs/clothing-and-costume|Clothing and Costume]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/humility|Humility]], [[concepts/poverty|Poverty]], [[concepts/conversion|Conversion]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/divine-love|Divine Love]], [[concepts/paradox|Paradox]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/martyrdom|Martyrdom]], [[concepts/self-denial-and-renunciation|Self-Denial and Renunciation]], [[concepts/joy|Joy]], [[concepts/democracy|Democracy]], [[concepts/original-sin|Original Sin]], [[concepts/providence|Providence]], [[concepts/romantic-love|Romantic Love]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/biography|Biography]], [[forms/apologetics|Apologetics]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/crusades|Crusades]], [[historical-references/renaissance|Renaissance]], [[historical-references/dante|Dante]], [[historical-references/islam-and-the-east|Islam and the East]], [[historical-references/spanish-inquisition|Spanish Inquisition]]
 
 ## Testo integrale / Full text
 

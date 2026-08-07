@@ -17,18 +17,18 @@ tags:
   - histref/the_bible
 ---
 
-*by Eliot*  ·  **Cluster:** [[Grace and Redemption · Humility · Bread and Wine Eucharist]]
+*by Eliot*  ·  **Cluster:** [[clusters/grace-and-redemption-·-humility-·-bread-and-wine-eucharist|Grace and Redemption · Humility · Bread and Wine Eucharist]]
 
 > [!abstract] 
 > Meditation on the silent unspoken Word (Logos) shining in darkness amid a noisy world, with the Reproaches 'O my people'; the Word, silence, grace, the desert/garden and prayer of the veiled sister.
 
 ## Connections
 
-**Motifs:** [[Silence]], [[Light and Dark]]
-**Themes & Concepts:** [[Faith]], [[Grace and Redemption]]
-**Historical References:** [[Bible]]
-**Settings:** [[Desert]]
-**Characters:** [[Christ]]
+**Motifs:** [[motifs/silence|Silence]], [[motifs/light-and-dark|Light and Dark]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/grace-and-redemption|Grace and Redemption]]
+**Historical References:** [[historical-references/bible|Bible]]
+**Settings:** [[motifs/desert|Desert]]
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

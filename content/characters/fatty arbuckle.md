@@ -14,4 +14,10 @@ American silent-film comedian invoked as the emblem of scandal-fed celebrity tha
 
 <div class="concept-works" data-slug="characters/fatty-arbuckle"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/unknown-warrior-(chesterton)|unknown-warrior (Chesterton)]]
+
+</div>
+
 #graph/character

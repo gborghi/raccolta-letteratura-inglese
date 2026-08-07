@@ -14,4 +14,10 @@ Shaw's doctrine that a divinely-directed evolutionary will drives life toward pr
 
 <div class="concept-works" data-slug="concepts/creative-evolution-and-the-superman"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/shaw-(chesterton)|Shaw (Chesterton)]]
+
+</div>
+
 #graph/concept

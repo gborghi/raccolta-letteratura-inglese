@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/young-syrian"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/salome-(wilde)|Salome (Wilde)]]
+
+</div>
+
 #graph/character

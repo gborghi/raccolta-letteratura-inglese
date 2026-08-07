@@ -71,7 +71,7 @@ tags:
 
 # TheCrimesOfEngland
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A 1916 satirical historical-polemical essay charging England's real crime as its long collusion with Prussia; an ironic patriotic critique tied to the First World War.
@@ -93,19 +93,19 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Tyrant]], [[Villain]], [[Martyr Saint]], [[Hero]], [[Common Man (2)]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/villain|Villain]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/hero|Hero]], [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Settings:** [[Germany]], [[Denmark]], [[Italy]], [[Russia]], [[Paris]], [[Rural England]], [[Battlefield]], [[Ireland]], [[Europe]]
+**Settings:** [[settings/germany|Germany]], [[settings/denmark|Denmark]], [[settings/italy|Italy]], [[settings/russia|Russia]], [[settings/paris|Paris]], [[settings/rural-england|Rural England]], [[settings/battlefield|Battlefield]], [[settings/ireland|Ireland]], [[settings/europe|Europe]]
 
-**Motifs:** [[Machine]], [[Horse]], [[Flags and Banners]], [[Blood]]
+**Motifs:** [[motifs/machine|Machine]], [[motifs/horse|Horse]], [[motifs/flags-and-banners|Flags and Banners]], [[motifs/blood|Blood]]
 
-**Topoi:** [[Sleeper Awakes]], [[War as Glory]], [[Last Stand]], [[World Upside Down]]
+**Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]], [[topoi/war-as-glory|War as Glory]], [[topoi/last-stand|Last Stand]], [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[Frederick the Great]], [[Napoleon]], [[Napoleon III]], [[Bismarck]], [[William Cobbett]], [[Kaiser Wilhelm II]], [[Duke of Wellington]], [[Blucher]], [[Lord Salisbury]], [[Garibaldi]], [[Carlyle]], [[Maria Theresa]], [[William Pitt]], [[Castlereagh]], [[Hans Andersen]]
+**Characters:** [[historical-references/frederick-the-great|Frederick the Great]], [[historical-references/napoleon|Napoleon]], [[characters/napoleon-iii|Napoleon III]], [[characters/bismarck|Bismarck]], [[characters/william-cobbett|William Cobbett]], [[historical-references/kaiser-wilhelm-ii|Kaiser Wilhelm II]], [[characters/duke-of-wellington|Duke of Wellington]], [[characters/blucher|Blucher]], [[characters/lord-salisbury|Lord Salisbury]], [[characters/garibaldi|Garibaldi]], [[characters/carlyle|Carlyle]], [[characters/maria-theresa|Maria Theresa]], [[characters/william-pitt|William Pitt]], [[characters/castlereagh|Castlereagh]], [[characters/hans-andersen|Hans Andersen]]
 
-**Themes & Concepts:** [[Satire of Society]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Power and Corruption]], [[Democracy]], [[Freedom and Liberty]], [[Slavery]], [[Kingship and Legitimacy]], [[Class Conflict]], [[Common Man]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Apologetics]], [[Nonfiction]]
-**Historical References:** [[First World War]], [[Reformation]], [[French Revolution]], [[Napoleonic Wars the Navy]], [[Thirty Years' War]], [[Irish Question]], [[Catholic Church]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/democracy|Democracy]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/slavery|Slavery]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/class-conflict|Class Conflict]], [[concepts/common-man|Common Man]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/reformation|Reformation]], [[historical-references/french-revolution|French Revolution]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/thirty-years'-war|Thirty Years' War]], [[historical-references/irish-question|Irish Question]], [[historical-references/catholic-church|Catholic Church]]
 
 ## Testo integrale / Full text
 

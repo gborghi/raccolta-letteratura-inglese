@@ -18,18 +18,18 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Poe*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A melancholic narrative lyric: a nocturnal walk with a scornful maiden ends in parting and lifelong heartbreak, the once-pleasant elms now whispering mad, discordant melodies. Themes of lost love, melancholy and memory.
 
 ## Connections
 
-**Topoi:** [[Unattainable Beloved]]
-**Archetypes:** [[Femme Fatale]]
-**Motifs:** [[Moon]], [[Stars]], [[Autumn]], [[Memory]]
-**Themes & Concepts:** [[Unrequited Frustrated Love]], [[Melancholy]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]]
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]]
+**Motifs:** [[motifs/moon|Moon]], [[motifs/stars|Stars]], [[motifs/autumn|Autumn]], [[motifs/memory|Memory]]
+**Themes & Concepts:** [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/melancholy|Melancholy]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

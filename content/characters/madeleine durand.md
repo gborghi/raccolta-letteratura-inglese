@@ -14,4 +14,10 @@ The devout, level-headed French innkeeper's daughter in Jersey with whom Turnbul
 
 <div class="concept-works" data-slug="characters/madeleine-durand"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ball-and-cross-(chesterton)|ball and cross (Chesterton)]]
+
+</div>
+
 #graph/character

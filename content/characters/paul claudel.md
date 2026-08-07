@@ -14,4 +14,10 @@ French Catholic poet-dramatist praised at length in 'The Case of Claudel' as a m
 
 <div class="concept-works" data-slug="characters/paul-claudel"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/well-and-shallows-(chesterton)|Well And Shallows (Chesterton)]]
+
+</div>
+
 #graph/character

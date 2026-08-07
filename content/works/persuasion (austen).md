@@ -39,7 +39,7 @@ tags:
   - character/elizabeth_elliot
 ---
 
-*by Austen*  ·  **Cluster:** [[Problem Play]]
+*by Austen*  ·  **Cluster:** [[forms/problem-play|Problem Play]]
 
 > [!abstract] 
 > Austen's last completed novel, in which Anne Elliot is reunited with Captain Wentworth years after being persuaded to break their engagement; themes of constancy, second chances, regret, class and the rising navy, with an autumnal, melancholy tone.
@@ -55,13 +55,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Lover]]
-**Motifs:** [[Marriage]], [[Autumn]], [[Sea]], [[Letters and Writing]]
-**Themes & Concepts:** [[Romantic Love]], [[Marriage and Fidelity]], [[Unrequited Frustrated Love]], [[Nostalgia]], [[Melancholy]], [[Memory and Time]], [[Class Conflict]], [[Pride]], [[Satire of Society]], [[Appearance vs Reality]], [[Deception]], [[Economics]]
-**Forms & Genres:** [[Novel]], [[Social Novel (Novel of Manners)]], [[Satire]]
-**Historical References:** [[Napoleonic Wars the Navy]], [[Regency Georgian England]]
-**Settings:** [[Rural England]]
-**Characters:** [[Anne Elliot]], [[Captain Wentworth]], [[Sir Walter Elliot]], [[Lady Russell]], [[Admiral Croft]], [[Captain Benwick]], [[Elizabeth Elliot]]
+**Archetypes:** [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/marriage|Marriage]], [[motifs/autumn|Autumn]], [[motifs/sea|Sea]], [[motifs/letters-and-writing|Letters and Writing]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/nostalgia|Nostalgia]], [[concepts/melancholy|Melancholy]], [[concepts/memory-and-time|Memory and Time]], [[concepts/class-conflict|Class Conflict]], [[concepts/pride|Pride]], [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/satire|Satire]]
+**Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Characters:** [[characters/anne-elliot|Anne Elliot]], [[characters/captain-wentworth|Captain Wentworth]], [[characters/sir-walter-elliot|Sir Walter Elliot]], [[characters/lady-russell|Lady Russell]], [[characters/admiral-croft|Admiral Croft]], [[characters/captain-benwick|Captain Benwick]], [[characters/elizabeth-elliot|Elizabeth Elliot]]
 
 ## Testo integrale / Full text
 

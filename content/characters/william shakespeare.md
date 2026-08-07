@@ -14,4 +14,12 @@ The Elizabethan dramatist repeatedly set against Shaw as a 'Catholic' universal 
 
 <div class="concept-works" data-slug="characters/william-shakespeare"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/shaw-(chesterton)|Shaw (Chesterton)]]
+- [[works/through-the-magic-door-(conan-doyle)|Through the Magic Door (Conan Doyle)]]
+- [[works/this-and-that-and-the-other-(belloc)|This and That and the Other (Belloc)]]
+
+</div>
+
 #graph/character

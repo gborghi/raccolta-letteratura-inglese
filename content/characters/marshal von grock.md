@@ -14,4 +14,10 @@ The ruthlessly obedient Prussian marshal of 'The Three Horsemen of Apocalypse' w
 
 <div class="concept-works" data-slug="characters/marshal-von-grock"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/mrpond-(chesterton)|MrPond (Chesterton)]]
+
+</div>
+
 #graph/character

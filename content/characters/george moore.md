@@ -14,4 +14,10 @@ Irish novelist and aesthete given his own chapter ('The Moods of Mr. George Moor
 
 <div class="concept-works" data-slug="characters/george-moore"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/heret12-(chesterton)|heret12 (Chesterton)]]
+
+</div>
+
 #graph/character

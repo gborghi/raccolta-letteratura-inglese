@@ -22,17 +22,17 @@ tags:
   - form/elegy
 ---
 
-*by Poe*  ·  **Cluster:** [[Stars · Night · Military Camp]]
+*by Poe*  ·  **Cluster:** [[clusters/stars-·-night-·-military-camp|Stars · Night · Military Camp]]
 
 > [!abstract] 
 > Lyric on a youth in mystic communion with Nature drawn from sun and stars, with an appended Paean mourning a young dead beauty.
 
 ## Connections
 
-**Topoi:** [[Book of Nature]]
-**Motifs:** [[Nature]], [[Stars]], [[Moon]], [[Death]], [[Grave]]
-**Themes & Concepts:** [[Nature vs Civilization]], [[Sublime]], [[Imagination]], [[Grief and Loss]], [[Immortality]]
-**Forms & Genres:** [[Lyric]], [[Elegy]]
+**Topoi:** [[topoi/book-of-nature|Book of Nature]]
+**Motifs:** [[concepts/nature|Nature]], [[motifs/stars|Stars]], [[motifs/moon|Moon]], [[motifs/death|Death]], [[motifs/grave|Grave]]
+**Themes & Concepts:** [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/sublime|Sublime]], [[concepts/imagination|Imagination]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/immortality|Immortality]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/elegy|Elegy]]
 
 ## Testo integrale / Full text
 

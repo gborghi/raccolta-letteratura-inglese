@@ -13,3 +13,9 @@ tags:
 ## Works
 
 <div class="concept-works" data-slug="concepts/wonder-and-terror"></div>
+
+<div class="concept-works-fallback">
+
+- [[works/deluge-(chesterton)|deluge (Chesterton)]]
+
+</div>

@@ -14,4 +14,10 @@ The Italian Crusader leader first to sight Bethlehem, who tries to scale Jerusal
 
 <div class="concept-works" data-slug="characters/tancred"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/meaning-of-the-crusade-(chesterton)|meaning of the crusade (Chesterton)]]
+
+</div>
+
 #graph/character

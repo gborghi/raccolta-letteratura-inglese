@@ -14,4 +14,10 @@ A French nobleman whose reputation for decadent luxury and dissipation secretly 
 
 <div class="concept-works" data-slug="characters/count-raoul-de-marillac"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/fourfaultlessfelons-(chesterton)|FourFaultlessFelons (Chesterton)]]
+
+</div>
+
 #graph/character

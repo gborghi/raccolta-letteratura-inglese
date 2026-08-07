@@ -14,29 +14,29 @@ tags:
 <span class="atom-split" data-atom="childsnow" data-title="childsnow" data-chapter="" data-kind="intro"></span>
 
 
-A [[Child]] of the Snows  
+A [[archetypes/child|Child]] of the Snows  
 
 -------------------------------------------------------------  
 
-There is heard a [[Hymn|hymn]] when the panes are dim,  
+There is heard a [[forms/hymn|hymn]] when the panes are dim,  
 And never before or again,  
 When the nights are strong with a darkness long,  
 And the dark is alive with rain.  
 
-Never we know but in sleet and in [[Snow|snow]],  
+Never we know but in sleet and in [[motifs/snow|snow]],  
 The place where the great fires are,  
 That the midst of the earth is a raging mirth  
 And the heart of the earth a star.  
 
-And at [[Night|night]] we win to the ancient inn  
-Where the [[Child|child]] in the [[Frost|frost]] is furled,  
+And at [[motifs/night|night]] we win to the ancient inn  
+Where the [[archetypes/child|child]] in the [[motifs/frost|frost]] is furled,  
 We follow the feet where all souls meet  
 At the inn at the end of the world.  
 
-The gods lie dead where the [[Leaves|leaves]] lie red,  
+The gods lie dead where the [[motifs/leaves|leaves]] lie red,  
 For the flame of the sun is flown,  
-The gods lie cold where the [[Leaves|leaves]] lie gold,  
-And a [[Child]] comes forth [[Alone|alone]].  
+The gods lie cold where the [[motifs/leaves|leaves]] lie gold,  
+And a [[archetypes/child|Child]] comes forth alone.  
 - G.K. Chesterton
 
 -------------------------------------------------------------
@@ -44,29 +44,29 @@ And a [[Child]] comes forth [[Alone|alone]].
 
 <span class="qlang-split" data-lang="it"></span>
 
-Un [[Child|Bambino]] delle Nevi  
+Un [[archetypes/child|Bambino]] delle Nevi  
 
 -------------------------------------------------------------  
 
-S'ode un [[Hymn|inno]] quando i vetri sono appannati,  
+S'ode un [[forms/hymn|inno]] quando i vetri sono appannati,  
 e mai prima né dopo,  
 quando le notti sono forti d'una lunga tenebra,  
 e il buio è vivo di pioggia.  
 
-Mai sappiamo se non nel nevischio e nella [[Snow|neve]],  
+Mai sappiamo se non nel nevischio e nella [[motifs/snow|neve]],  
 il luogo dove sono i grandi fuochi,  
 che il grembo della terra è un'allegria furente  
 e il cuore della terra una stella.  
 
-E di [[Night|notte]] giungiamo all'antica locanda  
-dove il [[Child|bambino]] è avvolto nel [[Frost|gelo]],  
+E di [[motifs/night|notte]] giungiamo all'antica locanda  
+dove il [[archetypes/child|bambino]] è avvolto nel [[motifs/frost|gelo]],  
 seguiamo i passi dove tutte le anime s'incontrano  
 alla locanda in capo al mondo.  
 
-Gli dèi giacciono morti dove le [[Leaves|foglie]] giacciono rosse,  
+Gli dèi giacciono morti dove le [[motifs/leaves|foglie]] giacciono rosse,  
 poiché la fiamma del sole è volata via,  
-gli dèi giacciono freddi dove le [[Leaves|foglie]] giacciono d'oro,  
-e un [[Child|Bambino]] viene avanti [[Alone|solo]].  
+gli dèi giacciono freddi dove le [[motifs/leaves|foglie]] giacciono d'oro,  
+e un [[archetypes/child|Bambino]] viene avanti solo.  
 - G.K. Chesterton
 
 -------------------------------------------------------------
@@ -76,29 +76,29 @@ e un [[Child|Bambino]] viene avanti [[Alone|solo]].
 <span class="atom-split" data-atom="part--part_01" data-title="childsnow (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/frost,motif/leaves,motif/night,motif/snow,form/hymn"></span>
 
 
-A [[Child]] of the Snows  
+A [[archetypes/child|Child]] of the Snows  
 
 -------------------------------------------------------------  
 
-There is heard a [[Hymn|hymn]] when the panes are dim,  
+There is heard a [[forms/hymn|hymn]] when the panes are dim,  
 And never before or again,  
 When the nights are strong with a darkness long,  
 And the dark is alive with rain.  
 
-Never we know but in sleet and in [[Snow|snow]],  
+Never we know but in sleet and in [[motifs/snow|snow]],  
 The place where the great fires are,  
 That the midst of the earth is a raging mirth  
 And the heart of the earth a star.  
 
-And at [[Night|night]] we win to the ancient inn  
-Where the [[Child|child]] in the [[Frost|frost]] is furled,  
+And at [[motifs/night|night]] we win to the ancient inn  
+Where the [[archetypes/child|child]] in the [[motifs/frost|frost]] is furled,  
 We follow the feet where all souls meet  
 At the inn at the end of the world.  
 
-The gods lie dead where the [[Leaves|leaves]] lie red,  
+The gods lie dead where the [[motifs/leaves|leaves]] lie red,  
 For the flame of the sun is flown,  
-The gods lie cold where the [[Leaves|leaves]] lie gold,  
-And a [[Child]] comes forth [[Alone|alone]].  
+The gods lie cold where the [[motifs/leaves|leaves]] lie gold,  
+And a [[archetypes/child|Child]] comes forth alone.  
 - G.K. Chesterton
 
 -------------------------------------------------------------
@@ -106,29 +106,29 @@ And a [[Child]] comes forth [[Alone|alone]].
 
 <span class="qlang-split" data-lang="it"></span>
 
-Un [[Child|Bambino]] delle Nevi  
+Un [[archetypes/child|Bambino]] delle Nevi  
 
 -------------------------------------------------------------  
 
-S'ode un [[Hymn|inno]] quando i vetri sono appannati,  
+S'ode un [[forms/hymn|inno]] quando i vetri sono appannati,  
 e mai prima né dopo,  
 quando le notti sono forti d'una lunga tenebra,  
 e il buio è vivo di pioggia.  
 
-Mai sappiamo se non nel nevischio e nella [[Snow|neve]],  
+Mai sappiamo se non nel nevischio e nella [[motifs/snow|neve]],  
 il luogo dove sono i grandi fuochi,  
 che il grembo della terra è un'allegria furente  
 e il cuore della terra una stella.  
 
-E di [[Night|notte]] giungiamo all'antica locanda  
-dove il [[Child|bambino]] è avvolto nel [[Frost|gelo]],  
+E di [[motifs/night|notte]] giungiamo all'antica locanda  
+dove il [[archetypes/child|bambino]] è avvolto nel [[motifs/frost|gelo]],  
 seguiamo i passi dove tutte le anime s'incontrano  
 alla locanda in capo al mondo.  
 
-Gli dèi giacciono morti dove le [[Leaves|foglie]] giacciono rosse,  
+Gli dèi giacciono morti dove le [[motifs/leaves|foglie]] giacciono rosse,  
 poiché la fiamma del sole è volata via,  
-gli dèi giacciono freddi dove le [[Leaves|foglie]] giacciono d'oro,  
-e un [[Child|Bambino]] viene avanti [[Alone|solo]].  
+gli dèi giacciono freddi dove le [[motifs/leaves|foglie]] giacciono d'oro,  
+e un [[archetypes/child|Bambino]] viene avanti solo.  
 - G.K. Chesterton
 
 -------------------------------------------------------------

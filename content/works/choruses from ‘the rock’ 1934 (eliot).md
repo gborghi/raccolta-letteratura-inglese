@@ -25,20 +25,20 @@ tags:
   - setting/london
 ---
 
-*by Eliot*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
+*by Eliot*  ·  **Cluster:** [[clusters/city-·-london-·-theatrum-mundi|City · London · Theatrum Mundi]]
 
 > [!abstract] 
 > Choric pageant verse defending the Church and church-building against secular modernity; faith, the Word, the timekept City, light, anti-industrialism.
 
 ## Connections
 
-**Topoi:** [[Eternal Return]]
-**Archetypes:** [[Prophet]]
-**Motifs:** [[City]], [[Light and Dark]], [[Dust]], [[Bells]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Anti-Industrialism]], [[Critique of Progress]], [[Spiritual Emptiness]], [[Economics]]
-**Forms & Genres:** [[Free Verse]]
-**Historical References:** [[Christianity]], [[Bible]]
-**Settings:** [[London]]
+**Topoi:** [[topoi/eternal-return|Eternal Return]]
+**Archetypes:** [[archetypes/prophet|Prophet]]
+**Motifs:** [[motifs/city|City]], [[motifs/light-and-dark|Light and Dark]], [[motifs/dust|Dust]], [[motifs/bells|Bells]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/spiritual-emptiness|Spiritual Emptiness]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/free-verse|Free Verse]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
+**Settings:** [[settings/london|London]]
 
 ## Testo integrale / Full text
 

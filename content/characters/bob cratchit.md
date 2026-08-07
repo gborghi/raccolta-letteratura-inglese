@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/bob-cratchit"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/a-christmas-carol-(dickens)|A Christmas Carol (Dickens)]]
+
+</div>
+
 #graph/character

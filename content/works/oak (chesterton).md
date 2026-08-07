@@ -42,7 +42,7 @@ tags:
 
 # oak
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A ballad-song contrasting the enduring sacred oak with the parasitic Lord Ivywood who rots the tree; an anti-industrial, distributist allegory of rootedness vs. destructive modernity.
@@ -53,17 +53,17 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Napoleonic Wars the Navy]], [[English Civil War]], [[Druidic Paganism]]
+**Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/english-civil-war|English Civil War]], [[historical-references/druidic-paganism|Druidic Paganism]]
 
-**Archetypes:** [[Villain]], [[King]]
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/king|King]]
 
-**Settings:** [[Rural England]]
+**Settings:** [[settings/rural-england|Rural England]]
 
-**Characters:** [[Lord Ivywood]], [[King Charles II]], [[Collingwood]]
+**Characters:** [[characters/lord-ivywood|Lord Ivywood]], [[characters/king-charles-ii|King Charles II]], [[characters/collingwood|Collingwood]]
 
-**Motifs:** [[Nature]], [[Blood]], [[Seed and Germination]], [[Decay]], [[Sea]], [[Ship]], [[Concealment Hidden Identity]], [[Sea and Voyage]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Distributism]], [[Critique of Progress]], [[Nature vs Civilization]], [[Natural Order]], [[Regeneration]], [[Kingship and Legitimacy]], [[Paganism and Classical Revival]], [[Power and Corruption]], [[Economics]], [[History]]
-**Forms & Genres:** [[Ballad Ballade]], [[Allegory]], [[Comic Verse Song]]
+**Motifs:** [[concepts/nature|Nature]], [[motifs/blood|Blood]], [[motifs/seed-and-germination|Seed and Germination]], [[motifs/decay|Decay]], [[motifs/sea|Sea]], [[motifs/ship|Ship]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Themes & Concepts:** [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/distributism|Distributism]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/natural-order|Natural Order]], [[concepts/regeneration|Regeneration]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/allegory|Allegory]], [[forms/comic-verse-song|Comic Verse Song]]
 
 ## Testo integrale / Full text
 

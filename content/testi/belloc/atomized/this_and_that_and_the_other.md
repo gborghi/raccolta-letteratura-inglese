@@ -58,7 +58,7 @@ XIX THE PLACE APART
 
 XX THE EBRO PLAIN
 
-XXI THE LITTLE [[River|RIVER]]
+XXI THE LITTLE [[motifs/river|RIVER]]
 
 XXII SOME LETTERS OF SHAKESPEARE’S TIME
 
@@ -70,7 +70,7 @@ XXV THE DUPE
 
 XXVI THE LOVE OF ENGLAND
 
-XXVII THE [[Storm|STORM]]
+XXVII THE [[motifs/storm|STORM]]
 
 XXVIII THE VALLEY
 
@@ -86,7 +86,7 @@ XXXIII ON KNOWING THE PAST
 
 XXXIV THE HIGHER CRITICISM
 
-XXXV THE [[Fanatic|FANATIC]]
+XXXV THE [[archetypes/fanatic|FANATIC]]
 
 XXXVI A LEADING ARTICLE
 
@@ -106,7 +106,7 @@ PREFACE TO THE READER
 
 SINCE I AM assured that this book requires a Preface I must attempt to write one, but I cannot conceive upon what lines it should run unless they be an apology for writing of so many things, and in very many different moods, and in so many different ways.
 
-A Preface is intended to introduce to the Reader the air in which the book that follows must be taken, but what air attaches in common to historical reconstructions, to abstract vagaries, to stories, to jests, to the impression of a [[Storm|storm]], and to annoyance with a dead scientist?
+A Preface is intended to introduce to the Reader the air in which the book that follows must be taken, but what air attaches in common to historical reconstructions, to abstract vagaries, to stories, to jests, to the impression of a [[motifs/storm|storm]], and to annoyance with a dead scientist?
 
 The sort of introduction which a book like this needs is like that which a man might find to say who should have to deliver at a house a ton of coals, some second-hand books, a warrant, several weather forecasts and a great quantity of dust. I do not know how such a man would make himself pleasant to the homestead, or prepare for the reception of so mixed a load.
 
@@ -172,9 +172,9 @@ What is a Pedant?
 
 There are many fixed human types, and every one of them has a name. There is the Priest, there is the Merchant, there is the Noble — and there is the Pedant. Each of these types are known by a distinctive name, and to most men they call up a clear image, but because they are types of mankind they are a little too complicated for definition. Nevertheless I will have a try at the Pedant.
 
-The essence of the Pedant is twofold, first that he takes his particular science for something universal, second, that he holds with the Grip of [[Faith]] certain set phrases in that science which he has been taught. I say “with the Grip of [[Faith]]”; it is the only metaphor applicable; he has for these phrases a violent affection. Not only does he not question them, but he does not know that they can be questioned. When he repeats them it is in a fixed and hierarchic voice. When they are denied he does not answer, but flies into a passion which, were he destined to an accession of power, might in the near future turn to persecution.
+The essence of the Pedant is twofold, first that he takes his particular science for something universal, second, that he holds with the Grip of [[concepts/faith|Faith]] certain set phrases in that science which he has been taught. I say “with the Grip of [[concepts/faith|Faith]]”; it is the only metaphor applicable; he has for these phrases a violent affection. Not only does he not question them, but he does not know that they can be questioned. When he repeats them it is in a fixed and hierarchic voice. When they are denied he does not answer, but flies into a passion which, were he destined to an accession of power, might in the near future turn to persecution.
 
-Alas! that the noblest thing in man should be perverted to such a use; for [[Faith]] when it is exercised upon those unprovable things which are in tune with things provable, illuminates and throws into a right perspective everything we know. But the Faith of the Pedant!...
+Alas! that the noblest thing in man should be perverted to such a use; for [[concepts/faith|Faith]] when it is exercised upon those unprovable things which are in tune with things provable, illuminates and throws into a right perspective everything we know. But the Faith of the Pedant!...
 
 The Pedant crept in upon the eclipse of our religion; his reign is therefore brief. Perhaps he is also but a reflection of that vast addition to material knowledge which glorified the last century. Perhaps it is the hurry, and the rapidity of our declining time, which makes it necessary for us to accept ready-made phrases and to act on rules of thumb good or bad. Perhaps it is the whirlpool and turmoil of classes which has pitchforked into the power of the Pedant whole groups of men who used to escape him. Perhaps it is the Devil. Whatever it is it is there.
 
@@ -188,7 +188,7 @@ The answer is simple. It smacks — or did originally smack — of learning. Amo
 
 Then there is “alcohol”; what “alcohol” does to the human body, and the rest of it; to read the absurd fellows one would imagine that this stuff “alcohol” was something you could see and handle; something with which humanity was familiar, like Beef, Oak, Sand, Chalk, and the rest. Not a bit of it. It does not exist any more than the “Anglo-Saxon race” exists. It is a chemical extraction. And in connection with it you have something very common to all such folly, to wit, gross insufficiency even in the line to which its pedantry is devoted. For this chemical abstraction of theirs may be expressed in many forms and it is only in one of these forms that they mouth out their interminable and pretentious dogmas. Humanity, healthy European humanity that is, the jolly place called Christendom, has drunk from immemorial time wine and beer and cider. It has been noticed (also from immemorial time) that if a man drank too much of any of these things he got drunk, and that if he got drunk often his health and capacity declined. There is the important fact which humanity has never missed, and without which the rhodomontades of the Pedant would have no foothold. It is because his pretended knowledge relates to a real evil with which humanity is acquainted that people listen to him at all on the subject. He ill requites their confidence! He exploits and bamboozles them to the top of their bent. He terrifies the weak victims (and the weaker witnesses) of drunkenness and often, I am sorry to say, picks their pockets as well. I can call to mind as I write more than one Pedant who by harping on this word “alcohol” has got very considerable sums out of the public. Well, it is the public’s fault! Vult decipi et decipiatur. And a murrain on it — also a quinsy!
 
-Then there is “the Fourth Gospel”: your Pedant never calls it the Gospel of S. John, as his fathers have done before him for two thousand years. He must give it a pretentious name and then, because it happens to be cram-full of Christian doctrine, he must deny its authenticity. There is not a vestige of proof against that authenticity, nor for that matter a vestige of sound historical proof in favour of it. Like everything else in the fundamental structure of the Faith from the Mass to the Apocalypse, it has for witness the [[Tradition|tradition]] of the Church, and is no more acceptable as an historic document of the type of the “Agricola” or the “Catiline Orations” than any one of the other Gospels. There is not an event mentioned in the whole of the New Testament which has true historic value. The whole thing depends upon Belief, and Belief in a corporate teaching body. Yet how your Pedant has flourished upon this same Fourth Gospel! Now he is “reverently accepting it,” now “reluctantly rejecting it”; he fondles it as a cat does a mouse, and when you try to come to handgrips with him he will first (taking you for a simple and unlearned man) put you off with silly technicalities. You have but to read up the meaning of these technicalities in the dictionary to find that he is talking through his hat. He has no evidence, and there can be no evidence, as to whether the Gospel was or was not written by the traditional figure which the Catholic Church calls S. John, and all he has to say on the matter would not tempt the most gullible gambler to invest a penny on a ten-to-one chance.
+Then there is “the Fourth Gospel”: your Pedant never calls it the Gospel of S. John, as his fathers have done before him for two thousand years. He must give it a pretentious name and then, because it happens to be cram-full of Christian doctrine, he must deny its authenticity. There is not a vestige of proof against that authenticity, nor for that matter a vestige of sound historical proof in favour of it. Like everything else in the fundamental structure of the Faith from the Mass to the Apocalypse, it has for witness the [[concepts/tradition|tradition]] of the Church, and is no more acceptable as an historic document of the type of the “Agricola” or the “Catiline Orations” than any one of the other Gospels. There is not an event mentioned in the whole of the New Testament which has true historic value. The whole thing depends upon Belief, and Belief in a corporate teaching body. Yet how your Pedant has flourished upon this same Fourth Gospel! Now he is “reverently accepting it,” now “reluctantly rejecting it”; he fondles it as a cat does a mouse, and when you try to come to handgrips with him he will first (taking you for a simple and unlearned man) put you off with silly technicalities. You have but to read up the meaning of these technicalities in the dictionary to find that he is talking through his hat. He has no evidence, and there can be no evidence, as to whether the Gospel was or was not written by the traditional figure which the Catholic Church calls S. John, and all he has to say on the matter would not tempt the most gullible gambler to invest a penny on a ten-to-one chance.
 
 Then there is “the conflict between religion and science.” What the Pedant really means when he uses that phrase (and he has not only used it threadbare but has fed it by the ton to the recently enfranchised and to the vulgar in general) is the conflict between a mystical doctrine and every-day common sense. That conflict has always existed and always will exist. If you say to any man who has not heard of such a thing before “I will kill you and yet you will survive” or “This water is not ordinary water, it does more than wash you or assuage your thirst, it will also cure blindness, and make whole a diseased limb,” the man who has not heard such things before, will call you a liar; of course he will, and small blame to him. We can only generalise from repeated experience, and oddities and transcendental things are not within the field of repeated experience. But “science” has nothing to do with that. The very fact that they use the word religion is enough to show the deplorable insufficiency of their minds. What religion? Your Pedant is far too warped and hypocritical to say exactly what he means even in so simple a case; so he uses the word “religion,” a term which may apply to Thugs with their doctrine of the sanctity of murder, or to the Mahommedans who are not bound to any transcendental doctrine but only to a Rule of Life, or to Buddhists who have but a philosophy, or to Plymouth Brethren, or to Head Hunters.
 
@@ -198,7 +198,7 @@ Humph!
 
 III ON ATHEISM
 
-THE ATHEIST IS he that has forgotten God. He that denies God may do so in many innocent ways, and is an Atheist in form, but is not condemnable as such. Thus one man will reason by contradiction that there can be no God. If there were a God (says he), how could such things be? This man has not read or does not know sufficient to his purpose, or is not wide enough. His purpose is [[Truth]], so he is not to be condemned. Another will say, “There is no God,” meaning, “There is none that I have heard called God”: as, the figure of an old man; some vengeful spirit; an absurdity taught him by fools; and so forth. Another also will say, “There is no God,” as he would say, “Thus do I solve this riddle!” He has played a game, coming to a conclusion of logic, and supposes himself right by the rules of the game. Nor is he more to be condemned than one who shall prove, not that God is not, but that God is, by similar ways. For though this last man proves [[Truth|truth]], and that first man falsehood, yet each is only concerned with proving, and not with making good or standing up for the [[Truth]], so that it shall be established. Neither would found in the mind something unshakeable, but each would rather bring a process to its conclusion for neatness.
+THE ATHEIST IS he that has forgotten God. He that denies God may do so in many innocent ways, and is an Atheist in form, but is not condemnable as such. Thus one man will reason by contradiction that there can be no God. If there were a God (says he), how could such things be? This man has not read or does not know sufficient to his purpose, or is not wide enough. His purpose is [[concepts/truth|Truth]], so he is not to be condemned. Another will say, “There is no God,” meaning, “There is none that I have heard called God”: as, the figure of an old man; some vengeful spirit; an absurdity taught him by fools; and so forth. Another also will say, “There is no God,” as he would say, “Thus do I solve this riddle!” He has played a game, coming to a conclusion of logic, and supposes himself right by the rules of the game. Nor is he more to be condemned than one who shall prove, not that God is not, but that God is, by similar ways. For though this last man proves [[concepts/truth|truth]], and that first man falsehood, yet each is only concerned with proving, and not with making good or standing up for the [[concepts/truth|Truth]], so that it shall be established. Neither would found in the mind something unshakeable, but each would rather bring a process to its conclusion for neatness.
 
 We call that man Atheist who, thinking or unthinking, waking or sleeping, knows not God; and when it is brought to him that either God is not or is, would act as though the question mattered nothing. Such an Atheist makes nothing of God’s judgments nor of his commands. He does not despise them but will have them absent, as he will have God absent also. Nor is he a rebel but rather an absconder.
 
@@ -318,7 +318,7 @@ If any one is so vile as to maintain in your presence that one’s country shoul
 
 For the truth is that Inns (may God preserve them, and of the few remaining breed, in spite of peril, a host of new Inns for our sons), Inns, Inns are the mirror and at the same time the flower of a people. The savour of men met in kindliness and in a homely way for years and years comes to inhabit all their panels (Inns are panelled) and lends incense to their fires. (Inns have not radiators, but fires.) But this good quintessence and distillation of comradeship varies from countryside to countryside and more from province to province, and more still from race to race and from realm to realm; just as speech differs and music and all the other excellent fruits of Europe.
 
-Thus there is an Inn at Tout-de-suite-Tardets which the Basques made for themselves and offer to those who visit their delightful streams. A [[River|river]] flows under its balcony, tinkling along a sheer stone wall, and before it, high against the sunset, is a wood called Tiger Wood, clothing a rocky peak called the Peak of Eagles.
+Thus there is an Inn at Tout-de-suite-Tardets which the Basques made for themselves and offer to those who visit their delightful streams. A [[motifs/river|river]] flows under its balcony, tinkling along a sheer stone wall, and before it, high against the sunset, is a wood called Tiger Wood, clothing a rocky peak called the Peak of Eagles.
 
 Now no one could have built that Inn nor endowed it with its admirable spirit, save the cleanly but incomprehensible Basques. There is no such Inn in the Béarnese country, nor any among the Gascons.
 
@@ -400,7 +400,7 @@ He said he had suffered greatly and that he desired to tell me the whole tale. I
 
 It seems that my friend (according to his account) found himself recently in a country of a very delightful character.
 
-This country lay up and heavenly upon a sort of table-land. One went up a road which led continually higher and higher through the ravines of the mountains, until, passing through a natural gate of rock, one saw before one a wide plain bounded upon the further side by the highest crests of the range. Through this upland plain ran a broad and noble [[River|river]] whose reaches he could see in glimpses for miles, and upon the further bank of it in a direction opposite that which the gate of rock regarded, was a very delightful city.
+This country lay up and heavenly upon a sort of table-land. One went up a road which led continually higher and higher through the ravines of the mountains, until, passing through a natural gate of rock, one saw before one a wide plain bounded upon the further side by the highest crests of the range. Through this upland plain ran a broad and noble [[motifs/river|river]] whose reaches he could see in glimpses for miles, and upon the further bank of it in a direction opposite that which the gate of rock regarded, was a very delightful city.
 
 The walls of this city were old in their texture, venerable and majestic in their lines. Within their circumference could be discerned sacred buildings of a similar antiquity, but also modern and convenient houses of a kind which my friend had not come across before, but which were evidently suited to the genial, sunlit climate, as also to the habits of leisured men. Their roofs were flat, covered in places by awnings, in other places by tiled verandas, and these roofs were often disposed in the form of little gardens.
 
@@ -736,7 +736,7 @@ I remember (I was a nephew if I remember right) above the din and confusion of l
 
 During the march homewards — an adventure enlightened with a sharp skirmish and two losses at the hands of the police — I know not what passed through the mind of the youth who had hitherto kept so careful a distinction between blood and blood: whether like Hannibal he swore eternal hatred to the English, or whether in his patient German mind he noted it all down as a piece of historical evidence to be used in his diplomatic career, we shall not be told. I think in the main he was simply bewildered: bewildered to madness.
 
-Of the many other things we made him do before Eights Week I have no space to tell: How he asked us what was the fashionable sport and how we told him Polo and made him buy a Polo pony sixteen hands high, with huge great bones and a broken nose, explaining to him that it was stamina and not appearance that the bluff Englishman loved in a horse. How we made him wear his arms embroidered upon his handkerchief (producing several for a pattern and taking the thing as a commonplace by sly allusion for many preparatory days). How we told him that it was the custom to call every Sunday afternoon for half an hour upon the wife of every married Don of one’s College: How we challenged him to the Great College feat of throwing himself into the river at midnight: How finally we persuaded him that the ancient custom of the University demanded the presentation to one’s Tutor at the end of term of an elaborate thesis one hundred pages long upon some subject of Theology: How he was carefully warned that surprise was the essence of this charming [[Tradition|tradition]] and not a word of it must be breathed to the august recipient of the favour: How he sucked in the knowledge that the more curious and strange the matter the higher would be his place in the schools, and how the poor fool elaborately wasted what God gives such men for brains in the construction of a damning refutation against the Monophysites: How his tutor, a humble little nervous fool, thought he was having his leg pulled — all these things I have no space to tell you now.
+Of the many other things we made him do before Eights Week I have no space to tell: How he asked us what was the fashionable sport and how we told him Polo and made him buy a Polo pony sixteen hands high, with huge great bones and a broken nose, explaining to him that it was stamina and not appearance that the bluff Englishman loved in a horse. How we made him wear his arms embroidered upon his handkerchief (producing several for a pattern and taking the thing as a commonplace by sly allusion for many preparatory days). How we told him that it was the custom to call every Sunday afternoon for half an hour upon the wife of every married Don of one’s College: How we challenged him to the Great College feat of throwing himself into the river at midnight: How finally we persuaded him that the ancient custom of the University demanded the presentation to one’s Tutor at the end of term of an elaborate thesis one hundred pages long upon some subject of Theology: How he was carefully warned that surprise was the essence of this charming [[concepts/tradition|tradition]] and not a word of it must be breathed to the august recipient of the favour: How he sucked in the knowledge that the more curious and strange the matter the higher would be his place in the schools, and how the poor fool elaborately wasted what God gives such men for brains in the construction of a damning refutation against the Monophysites: How his tutor, a humble little nervous fool, thought he was having his leg pulled — all these things I have no space to tell you now.
 
 But he was rich! Doubtless by the custom of his country he is now in some great position plotting the ruin of Britannia and certainly she deserves it in his case. He was most unmercifully ragged.
 
@@ -902,7 +902,7 @@ Four men tended the leader, one man holding his head upon his knee, the three ot
 
 The name of this village and this church was Brissarthe; and the man who so fell, and from whose falling soldier songs and legends arose, was the first father of all the Capetians, the French kings.
 
-From this man sprang Eudes, who defended Paris from the Sea-Rovers: Hugh Capet and Philip Augustus and Louis the Saint and Philip the Fair; and so through century after century to the kings that rode through Italy, to Henri IV, to Louis XIV in the splendour of his wars, and to that last unfortunate who lost the Tuileries on August 10th, 1793. His line survives to-day, for its eldest heir is the man whom the Basques would follow. His expectants call him Don Carlos, and he claims the crown of [[Spain]].
+From this man sprang Eudes, who defended Paris from the Sea-Rovers: Hugh Capet and Philip Augustus and Louis the Saint and Philip the Fair; and so through century after century to the kings that rode through Italy, to Henri IV, to Louis XIV in the splendour of his wars, and to that last unfortunate who lost the Tuileries on August 10th, 1793. His line survives to-day, for its eldest heir is the man whom the Basques would follow. His expectants call him Don Carlos, and he claims the crown of [[settings/spain|Spain]].
 
 XVIII THE CROOKED STREETS
 
@@ -922,7 +922,7 @@ The Renaissance indeed everywhere began this plague of vistas and of avenues. It
 
 Crooked Streets will never tire a man, and each will have its character, and each will have a soul of its own. To proceed from one to another is like travelling in a multitude or mixing with a number of friends. In a town of Crooked Streets it is natural that one should be the Moneylenders’ Street and another that of the Burglars, and a third that of the Politicians, and so forth through all the trades and professions.
 
-Then also, how much better are not the beauties of a town seen from Crooked Streets! Consider those old Dutch towns where you suddenly come round a corner upon great stretches of salt water, or those towns of Central [[France]] which from one street and then another show you the Gothic in a hundred ways.
+Then also, how much better are not the beauties of a town seen from Crooked Streets! Consider those old Dutch towns where you suddenly come round a corner upon great stretches of salt water, or those towns of Central [[settings/france|France]] which from one street and then another show you the Gothic in a hundred ways.
 
 It is as it should be when you have the back of Chartres Cathedral towering up above you from between and above two houses gabled and almost meeting. It is what the builders meant when one comes out from such fissures into the great Place, the parvis of the cathedral, like a sailor from a river into the sea. Not that certain buildings were not made particularly for wide approaches and splendid roads, but that these, when they are the rule, sterilize and kill a town. Napoleon was wise enough when he designed that there should lead all up beyond the Tiber to St. Peter’s a vast imperial way. But the modern nondescript horde, which has made Rome its prey, is very ill advised to drive those new Straight Streets foolishly, emptily, with mean façades of plaster and great gaps that will not fill.
 
@@ -982,11 +982,11 @@ The moor (for so I would call it) upon the further side fell away and away dista
 
 XX THE EBRO PLAIN
 
-I WISH I could put before men who have not seen that sight, the abrupt shock which the Northern eye receives when it first looks from some rampart of the Pyrenees upon the new deserts of [[Spain]].
+I WISH I could put before men who have not seen that sight, the abrupt shock which the Northern eye receives when it first looks from some rampart of the Pyrenees upon the new deserts of [[settings/spain|Spain]].
 
 “Deserts” is a term at once too violent and too simple. The effect of that amazement is by no means the effect which follows from a similar vision of the Sahara from the red-burnt and precipitous rocks of Atlas; nor is it the effect which those stretches of white blinding sand give forth when, looking southward toward Mexico and the sun, a man shades his eyes to catch a distant mark of human habitation along some rare river of Arizona from the cliff edge of a cut tableland.
 
-Corn grows in that new [[Spain]] beneath one: many towns stand founded there; Christian Churches are established; a human society stands firmly, though sparsely, set in that broad waste of land. But to the Northern eye first seeing it — nay, to a Northerner well acquainted with it, but returning to the renewal of so strange a vision — it is always a renewed perplexity how corn, how men, how worship, how society (as he has known them) can have found a place there; and that, although he knows that nowhere in Europe have the fundamental things of Europe been fought for harder and more steadfastly maintained than they have along this naked and burnt valley of the Ebro.
+Corn grows in that new [[settings/spain|Spain]] beneath one: many towns stand founded there; Christian Churches are established; a human society stands firmly, though sparsely, set in that broad waste of land. But to the Northern eye first seeing it — nay, to a Northerner well acquainted with it, but returning to the renewal of so strange a vision — it is always a renewed perplexity how corn, how men, how worship, how society (as he has known them) can have found a place there; and that, although he knows that nowhere in Europe have the fundamental things of Europe been fought for harder and more steadfastly maintained than they have along this naked and burnt valley of the Ebro.
 
 I will suppose the traveller to have made his way on foot from the boundaries of the Basque country, from the Peak of Anie, down through the high Pyrenean silences to those banks of Aragon where the river runs west between parallel ranges, each of which is a bastion of the main Pyrenean chain. I will suppose him to have crossed that roll of thick mud which the tumbling Aragon is in all these lower reaches, to have climbed the further range (which is called “The Mountains of Stone,” or “The Mountains of the Rock”), and, coming upon its further southern slope, to see for the first time spread before him that vast extent of uniform dead-brown stretching through an air metallically clear to the tiny peaks far off on the horizon, which mark the springs of the Tagus. It is a characteristic of the stretched Spanish upland, from within sight of the Pyrenees to within sight of the Southern Sea, that it may thus be grasped in less than half a dozen views, wider than any views in Europe; and, partly from the height of that interior land, partly from the Iberian aridity of its earth, these views are as sharp in detail, as inhuman in their lack of distant veils and blues, as might be the landscapes of a dead world.
 
@@ -1042,7 +1042,7 @@ One thing I am looking forward to, dear, is this little coon Shakespeare. Victor
 
 (The rest of this letter is about other matters.)
 
-From Messrs. Hornbull and Sons to [[William Shakespeare]] Esq.
+From Messrs. Hornbull and Sons to [[characters/william-shakespeare|William Shakespeare]] Esq.
 
 Sir, — We have now sent in our account three times, and the last time with a pressing recommendation that you should settle it, but you have not honoured us by any reply. We regret to inform you that if we do not receive a cheque by Wednesday the 22nd inst. we shall be compelled to put the matter into other hands.
 
@@ -1050,7 +1050,7 @@ From John Shakespeare to his mother, Mrs. Shakespeare
 
 Dearest Mamma, — I am afraid Billie really can’t pay that money this week. He was awfully apologetic about it and I gave him a good talking to, but if he hasn’t got it he hasn’t. After all it isn’t absolutely necessary until the 30th.
 
-From Jonathan Truelove Esq. to [[William Shakespeare]] Esq.
+From Jonathan Truelove Esq. to [[characters/william-shakespeare|William Shakespeare]] Esq.
 
 Dear Old Chap, — I am going to do something very unconventional, but we know each other well enough I think. Can you let me have the £5 I lent you two years ago? I have to get in every penny I can this week, suddenly. If you can’t don’t bother to answer, I am not going to press you.
 
@@ -1062,7 +1062,7 @@ By the way, do choke off that silly ass Bates, if he is still worrying about Sha
 
 Yours, H. P.
 
-From James Jevons and Co. Publishers, to [[William Shakespeare]] Esq.
+From James Jevons and Co. Publishers, to [[characters/william-shakespeare|William Shakespeare]] Esq.
 
 Dear Sir, — Our attention has been called to your work by our correspondent in Edinburgh, and he asks us whether we think you could see your way to something dealing with Scottish history. He does not want it cast in the form of a play, for which he says there will be no sale with the Scottish public, seeing the exceedingly English cast of your work, but if you could throw it into Ballad form he thinks something could be done with it.
 
@@ -1240,7 +1240,7 @@ The Knave Slovenly looks to the Dupe to see to details and to meet men in ante-c
 
 The Dupe is in God’s providence very numerous, for his normal rate of breeding is high in the extreme, his normal death-rate low. On this account those curious in this part of natural history may watch the Dupes going about in great herds, conducted and instructed by the Knave; nor is the one to be distinguished from the other by the coat, but rather by the snout and visage, the eyes and, if one be old enough to open the mouth, by the teeth. The Dupe, upon the other hand, will not be of great service in any physical struggle and must not be depended upon for this. It is his delight to browse and when disturbed he scatters rather than flies. Here and there a Rogue Dupe will turn upon his pursuers, in which case he is invariably devoured.
 
-The Dupe has his habitat, but that not easily defined, as in the suburbs of great cities, and in those towns called residential, where the leisured and the inane make their lives seem so much longer than those of others. But there are exceptions also to this, and the Dupe will sometimes migrate in vast numbers from one spot to another in such few years as wholly to discomfit the calculations of the Knaves. Some of these have been found to stand up in public halls before numbers whom they had thought to be Dupes (seeing that the locality was Little Partington) but only to discover a great boiling of Anti-Dupes, men working with their hands or what-not, quite undeceivable, as often as not Atheist, and ready to [[Storm|storm]] the platform and tear the Knave alive.
+The Dupe has his habitat, but that not easily defined, as in the suburbs of great cities, and in those towns called residential, where the leisured and the inane make their lives seem so much longer than those of others. But there are exceptions also to this, and the Dupe will sometimes migrate in vast numbers from one spot to another in such few years as wholly to discomfit the calculations of the Knaves. Some of these have been found to stand up in public halls before numbers whom they had thought to be Dupes (seeing that the locality was Little Partington) but only to discover a great boiling of Anti-Dupes, men working with their hands or what-not, quite undeceivable, as often as not Atheist, and ready to [[motifs/storm|storm]] the platform and tear the Knave alive.
 
 The Dupe loves courtesy and, as has been said above, will tolerate no hint of impatience. On the other hand, he needs no breaking in and will carry upon the back from his earliest years. It is incredible to travellers when they first come across the Dupe what burdens he will bear in this fashion, so that sometimes the whole Plain appears to be a moving mass of gold bags, public salaries, contracts, large houses, yachts, motor-cars, opera houses, howdahs sheltering masters and mistresses, cases of wine, rich foods, and charitable institutions, all as it were endowed with a motion of their own until you stoop down and perceive that the whole of this vast weight sways securely upon the backs of an enormous migratory body of Dupes upon the trek for a Better Land.
 
@@ -1360,7 +1360,7 @@ The Andorran was a little embarrassed. “No no,” he said, “you do not under
 
 The Englishman smiled more genially still in his good wholesome beard, and said: “Do I look to you like that?”
 
-“No,” said the Andorran gravely, “nor does that gentleman whom you pointed out to me when we left [[France]], your English patron, Mr. Bernstein I think ... you were both well-fed and well-clothed ... and what is more, I know nothing of what you earn. But in Andorra we ask about this man and that man indifferently, and especially about the poorest, and when I asked you about the poorest in your towns you told me that there was not one of them who did not earn, when he was fully working, twenty-five pesetas a week. Now with twenty-five pesetas a week! Oh ...! Why, I could live on five, and five weeks of twenty saved is a hundred pesetas; and with a hundred pesetas ...! Oh, one can buy a great brood sow; or if one is minded for grandeur, the best coat in the world; or again, a little mule just foaled, which in two years, mind you, in two years” (and here he wagged his finger) “will be a great fine beast” (and here he extended his arms), “and the next year will carry a man over the hills and will sell for five hundred pesetas. Yes it will!”
+“No,” said the Andorran gravely, “nor does that gentleman whom you pointed out to me when we left [[settings/france|France]], your English patron, Mr. Bernstein I think ... you were both well-fed and well-clothed ... and what is more, I know nothing of what you earn. But in Andorra we ask about this man and that man indifferently, and especially about the poorest, and when I asked you about the poorest in your towns you told me that there was not one of them who did not earn, when he was fully working, twenty-five pesetas a week. Now with twenty-five pesetas a week! Oh ...! Why, I could live on five, and five weeks of twenty saved is a hundred pesetas; and with a hundred pesetas ...! Oh, one can buy a great brood sow; or if one is minded for grandeur, the best coat in the world; or again, a little mule just foaled, which in two years, mind you, in two years” (and here he wagged his finger) “will be a great fine beast” (and here he extended his arms), “and the next year will carry a man over the hills and will sell for five hundred pesetas. Yes it will!”
 
 The Englishman looked puzzled. “Well,” said he, leaning forward, ticking off on his fingers and becoming practical, “there’s your pound a week.”
 
@@ -1580,7 +1580,7 @@ So much has passion taken the place of reason in matters of scholarship that pla
 
 Now here we discover the first mark of the Barbarian.
 
-Note that in the peril of English society to-day there is no positive alternative to the ancient philosophic [[Tradition|tradition]] of Christian Europe. It has to meet nothing more substantive than a series of negations, often contradictory, but all allied in their repugnance to a fixed certitude in morals.
+Note that in the peril of English society to-day there is no positive alternative to the ancient philosophic [[concepts/tradition|tradition]] of Christian Europe. It has to meet nothing more substantive than a series of negations, often contradictory, but all allied in their repugnance to a fixed certitude in morals.
 
 So far has this process gone that to be writing as I am here in public, not even defending the creed of Christendom, but postulating its historic place, and pointing out that the considerable attack now carried on against it is symptomatic of the dissolution of our society, has about it something temerarious and odd.
 
@@ -1736,9 +1736,9 @@ In a further paper I shall discuss the much-disputed point of authorship, and I 
 
 That is how the damned fools write: and with brains of that standard Germans ask me to deny my God.
 
-XXXV THE [[Fanatic|FANATIC]]
+XXXV THE [[archetypes/fanatic|FANATIC]]
 
-“I ASKED OLD Biggs (as the Duke of Racton used to be called) what he thought of Charlie Wilson. Old Biggs answered, ‘Man like that’s one of two things: a [[Fanatic]] or a Fanatic.’ I thought this very funny.” — St. Germans Sporting Memoirs, Vol. II, .
+“I ASKED OLD Biggs (as the Duke of Racton used to be called) what he thought of Charlie Wilson. Old Biggs answered, ‘Man like that’s one of two things: a [[archetypes/fanatic|Fanatic]] or a Fanatic.’ I thought this very funny.” — St. Germans Sporting Memoirs, Vol. II, .
 
 This is a kind of man whom we all love and yet all desire to moderate. He is excessive only in good, but his excess therein is dangerous. He proceeds from less to more; first irritated, then exasperated, then mad. He will not tolerate the necessary foibles of mankind. No, nor even their misunderstandings. He himself commonly takes refuge in some vice or other, but a small one, and from this bastion defends himself against all comers.
 
@@ -1922,7 +1922,7 @@ PREFACE TO THE READER
 
 SINCE I AM assured that this book requires a Preface I must attempt to write one, but I cannot conceive upon what lines it should run unless they be an apology for writing of so many things, and in very many different moods, and in so many different ways.
 
-A Preface is intended to introduce to the Reader the air in which the book that follows must be taken, but what air attaches in common to historical reconstructions, to abstract vagaries, to stories, to jests, to the impression of a [[Storm|storm]], and to annoyance with a dead scientist?
+A Preface is intended to introduce to the Reader the air in which the book that follows must be taken, but what air attaches in common to historical reconstructions, to abstract vagaries, to stories, to jests, to the impression of a [[motifs/storm|storm]], and to annoyance with a dead scientist?
 
 The sort of introduction which a book like this needs is like that which a man might find to say who should have to deliver at a house a ton of coals, some second-hand books, a warrant, several weather forecasts and a great quantity of dust. I do not know how such a man would make himself pleasant to the homestead, or prepare for the reception of so mixed a load.
 
@@ -1939,7 +1939,7 @@ Prefazione al lettore
 
 Poiché sono certo che questo libro richieda una Prefazione, devo tentare di scriverla; tuttavia non riesco a immaginare su quali linee dovrebbe essere strutturata, se non come un ringraziamento per aver potuto scrivere di tante cose, in toni e modi così diversi.
 
-Una prefazione ha lo scopo di introdurre il Lettore nello “ambiente” in cui deve essere letta il libro che segue; ma quale ambiente condividono le ricostruzioni storiche, i ragionamenti astratti, le storie, gli scherzi, l’immagine di una [[Storm|tempesta]] e la sensazione di fastidio verso un scienziato “morto”?
+Una prefazione ha lo scopo di introdurre il Lettore nello “ambiente” in cui deve essere letta il libro che segue; ma quale ambiente condividono le ricostruzioni storiche, i ragionamenti astratti, le storie, gli scherzi, l’immagine di una [[motifs/storm|tempesta]] e la sensazione di fastidio verso un scienziato “morto”?
 
 Il tipo di introduzione di cui ha bisogno un libro del genere è proprio quello che potrebbe usare un uomo che debba consegnare in una casa una tonnellata di carbone, alcuni libri di seconda mano, un mandato, diverse previsioni meteorologiche e una grande quantità di polvere. Non so proprio come tale uomo possa riuscire a rendersi gradito alla famiglia che riceve questa miscela di cose, o come possa prepararsi adeguatamente per accogliere un carico così eterogeneo.
 
@@ -2003,7 +2003,7 @@ H. Belloc.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Una lettera aperta a un giovane diplomatico
+Una lettera aperta a un giovane diplomatico
 
 Mio carissimo giovane diplomatico,
 
@@ -2043,7 +2043,7 @@ Lo spazio mi impedisce di occuparmi delle questioni minori relative alla religio
 
 Addio, mio caro giovane diplomatico. Se ti mandano a Parigi, chiedi di essere inviato a Berlino; e se ti mandano a Berlino, ucciditi.
 
-# In memoria di vostro padre
+In memoria di vostro padre
 
 Il tuo fedele amico,
 
@@ -2064,9 +2064,9 @@ What is a Pedant?
 
 There are many fixed human types, and every one of them has a name. There is the Priest, there is the Merchant, there is the Noble — and there is the Pedant. Each of these types are known by a distinctive name, and to most men they call up a clear image, but because they are types of mankind they are a little too complicated for definition. Nevertheless I will have a try at the Pedant.
 
-The essence of the Pedant is twofold, first that he takes his particular science for something universal, second, that he holds with the Grip of [[Faith]] certain set phrases in that science which he has been taught. I say “with the Grip of [[Faith]]”; it is the only metaphor applicable; he has for these phrases a violent affection. Not only does he not question them, but he does not know that they can be questioned. When he repeats them it is in a fixed and hierarchic voice. When they are denied he does not answer, but flies into a passion which, were he destined to an accession of power, might in the near future turn to persecution.
+The essence of the Pedant is twofold, first that he takes his particular science for something universal, second, that he holds with the Grip of [[concepts/faith|Faith]] certain set phrases in that science which he has been taught. I say “with the Grip of [[concepts/faith|Faith]]”; it is the only metaphor applicable; he has for these phrases a violent affection. Not only does he not question them, but he does not know that they can be questioned. When he repeats them it is in a fixed and hierarchic voice. When they are denied he does not answer, but flies into a passion which, were he destined to an accession of power, might in the near future turn to persecution.
 
-Alas! that the noblest thing in man should be perverted to such a use; for [[Faith]] when it is exercised upon those unprovable things which are in tune with things provable, illuminates and throws into a right perspective everything we know. But the Faith of the Pedant!...
+Alas! that the noblest thing in man should be perverted to such a use; for [[concepts/faith|Faith]] when it is exercised upon those unprovable things which are in tune with things provable, illuminates and throws into a right perspective everything we know. But the Faith of the Pedant!...
 
 The Pedant crept in upon the eclipse of our religion; his reign is therefore brief. Perhaps he is also but a reflection of that vast addition to material knowledge which glorified the last century. Perhaps it is the hurry, and the rapidity of our declining time, which makes it necessary for us to accept ready-made phrases and to act on rules of thumb good or bad. Perhaps it is the whirlpool and turmoil of classes which has pitchforked into the power of the Pedant whole groups of men who used to escape him. Perhaps it is the Devil. Whatever it is it is there.
 
@@ -2080,7 +2080,7 @@ The answer is simple. It smacks — or did originally smack — of learning. Amo
 
 Then there is “alcohol”; what “alcohol” does to the human body, and the rest of it; to read the absurd fellows one would imagine that this stuff “alcohol” was something you could see and handle; something with which humanity was familiar, like Beef, Oak, Sand, Chalk, and the rest. Not a bit of it. It does not exist any more than the “Anglo-Saxon race” exists. It is a chemical extraction. And in connection with it you have something very common to all such folly, to wit, gross insufficiency even in the line to which its pedantry is devoted. For this chemical abstraction of theirs may be expressed in many forms and it is only in one of these forms that they mouth out their interminable and pretentious dogmas. Humanity, healthy European humanity that is, the jolly place called Christendom, has drunk from immemorial time wine and beer and cider. It has been noticed (also from immemorial time) that if a man drank too much of any of these things he got drunk, and that if he got drunk often his health and capacity declined. There is the important fact which humanity has never missed, and without which the rhodomontades of the Pedant would have no foothold. It is because his pretended knowledge relates to a real evil with which humanity is acquainted that people listen to him at all on the subject. He ill requites their confidence! He exploits and bamboozles them to the top of their bent. He terrifies the weak victims (and the weaker witnesses) of drunkenness and often, I am sorry to say, picks their pockets as well. I can call to mind as I write more than one Pedant who by harping on this word “alcohol” has got very considerable sums out of the public. Well, it is the public’s fault! Vult decipi et decipiatur. And a murrain on it — also a quinsy!
 
-Then there is “the Fourth Gospel”: your Pedant never calls it the Gospel of S. John, as his fathers have done before him for two thousand years. He must give it a pretentious name and then, because it happens to be cram-full of Christian doctrine, he must deny its authenticity. There is not a vestige of proof against that authenticity, nor for that matter a vestige of sound historical proof in favour of it. Like everything else in the fundamental structure of the Faith from the Mass to the Apocalypse, it has for witness the [[Tradition|tradition]] of the Church, and is no more acceptable as an historic document of the type of the “Agricola” or the “Catiline Orations” than any one of the other Gospels. There is not an event mentioned in the whole of the New Testament which has true historic value. The whole thing depends upon Belief, and Belief in a corporate teaching body. Yet how your Pedant has flourished upon this same Fourth Gospel! Now he is “reverently accepting it,” now “reluctantly rejecting it”; he fondles it as a cat does a mouse, and when you try to come to handgrips with him he will first (taking you for a simple and unlearned man) put you off with silly technicalities. You have but to read up the meaning of these technicalities in the dictionary to find that he is talking through his hat. He has no evidence, and there can be no evidence, as to whether the Gospel was or was not written by the traditional figure which the Catholic Church calls S. John, and all he has to say on the matter would not tempt the most gullible gambler to invest a penny on a ten-to-one chance.
+Then there is “the Fourth Gospel”: your Pedant never calls it the Gospel of S. John, as his fathers have done before him for two thousand years. He must give it a pretentious name and then, because it happens to be cram-full of Christian doctrine, he must deny its authenticity. There is not a vestige of proof against that authenticity, nor for that matter a vestige of sound historical proof in favour of it. Like everything else in the fundamental structure of the Faith from the Mass to the Apocalypse, it has for witness the [[concepts/tradition|tradition]] of the Church, and is no more acceptable as an historic document of the type of the “Agricola” or the “Catiline Orations” than any one of the other Gospels. There is not an event mentioned in the whole of the New Testament which has true historic value. The whole thing depends upon Belief, and Belief in a corporate teaching body. Yet how your Pedant has flourished upon this same Fourth Gospel! Now he is “reverently accepting it,” now “reluctantly rejecting it”; he fondles it as a cat does a mouse, and when you try to come to handgrips with him he will first (taking you for a simple and unlearned man) put you off with silly technicalities. You have but to read up the meaning of these technicalities in the dictionary to find that he is talking through his hat. He has no evidence, and there can be no evidence, as to whether the Gospel was or was not written by the traditional figure which the Catholic Church calls S. John, and all he has to say on the matter would not tempt the most gullible gambler to invest a penny on a ten-to-one chance.
 
 Then there is “the conflict between religion and science.” What the Pedant really means when he uses that phrase (and he has not only used it threadbare but has fed it by the ton to the recently enfranchised and to the vulgar in general) is the conflict between a mystical doctrine and every-day common sense. That conflict has always existed and always will exist. If you say to any man who has not heard of such a thing before “I will kill you and yet you will survive” or “This water is not ordinary water, it does more than wash you or assuage your thirst, it will also cure blindness, and make whole a diseased limb,” the man who has not heard such things before, will call you a liar; of course he will, and small blame to him. We can only generalise from repeated experience, and oddities and transcendental things are not within the field of repeated experience. But “science” has nothing to do with that. The very fact that they use the word religion is enough to show the deplorable insufficiency of their minds. What religion? Your Pedant is far too warped and hypocritical to say exactly what he means even in so simple a case; so he uses the word “religion,” a term which may apply to Thugs with their doctrine of the sanctity of murder, or to the Mahommedans who are not bound to any transcendental doctrine but only to a Rule of Life, or to Buddhists who have but a philosophy, or to Plymouth Brethren, or to Head Hunters.
 
@@ -2091,7 +2091,7 @@ Humph!
 
 <span class="qlang-split" data-lang="it"></span>
 
-# II sui pedanti
+II sui pedanti
 
 L’uomo giusto e gentile cercherà di trarre piacere da ciò che lo circonda quando questo è in grado di dargli divertimento, sempre supponendo che non lo induca alla rabbia. Intendo dire che un uomo sia giusto che socievole preferirà ridere piuttosto che arrabbiarsi per le scomodità di questo mondo. Per esempio, consideriamo il Pedante.
 
@@ -2101,9 +2101,9 @@ Che cos'è un pedante?
 
 Esistono molti tipi umani ben definiti, e ognuno di essi ha un nome: c’è il Sacerdote, il Mercante, il Nobile, e poi c’è il Pedante. Ogni uno di questi tipi è conosciuto con un nome specifico, e per la maggior parte delle persone evoca un’immagine chiara; tuttavia, poiché si tratta di tipi umani, sono un po’ troppo complessi da definire in modo preciso. Comunque, proverò a descrivere il Pedante.
 
-L’essenza del pedante è duplice: innanzitutto, considera la propria disciplina scientifica come qualcosa di universale; in secondo luogo, afferra con la forza della [[Faith|fede]] alcune frasi fisse apprese in quella disciplina. Dico “con la forza della [[Faith|fede]]”; è l’unica metafora appropriata: egli nutre per queste frasi un’affezione intensa e irrazionale. Non solo non le mette mai in discussione, ma nemmeno si rende conto che possano essere messe in discussione. Quando le ripete, lo fa con voce rigida e gerarchica; quando vengono negate, non risponde, ma scatta in una furia che, se gli fosse data l’opportunità di raggiungere il potere, potrebbe trasformarsi in persecuzione nel prossimo futuro.
+L’essenza del pedante è duplice: innanzitutto, considera la propria disciplina scientifica come qualcosa di universale; in secondo luogo, afferra con la forza della [[concepts/faith|fede]] alcune frasi fisse apprese in quella disciplina. Dico “con la forza della [[concepts/faith|fede]]”; è l’unica metafora appropriata: egli nutre per queste frasi un’affezione intensa e irrazionale. Non solo non le mette mai in discussione, ma nemmeno si rende conto che possano essere messe in discussione. Quando le ripete, lo fa con voce rigida e gerarchica; quando vengono negate, non risponde, ma scatta in una furia che, se gli fosse data l’opportunità di raggiungere il potere, potrebbe trasformarsi in persecuzione nel prossimo futuro.
 
-Ahimè! Che la cosa più nobile nell’uomo venga distorta a tale scopo; infatti la [[Faith|>Fede]], quando viene applicata a quelle cose indimostrabili che sono in armonia con quelle dimostrabili, illumina e mette in giusta prospettiva tutto ciò che conosciamo. Ma la Fede del pedante,!
+Ahimè! Che la cosa più nobile nell’uomo venga distorta a tale scopo; infatti la [[concepts/faith|>Fede]], quando viene applicata a quelle cose indimostrabili che sono in armonia con quelle dimostrabili, illumina e mette in giusta prospettiva tutto ciò che conosciamo. Ma la Fede del pedante,!
 
 Il pedante si è insinuato durante il declino della nostra religione; pertanto il suo dominio è stato breve. Forse non è altro che un riflesso di quella vasta crescita delle conoscenze materiali che ha glorificato il secolo scorso. Forse è la fretta, la rapidità dei tempi in cui viviamo a rendere necessario per noi accettare frasi pronte e agire seguendo regole empiriche, buone o cattive che siano. Forse è il vortice delle classi sociali che ha portato gruppi interi di persone, un tempo al di fuori del suo controllo, sotto il suo potere. Forse è il Diavolo. Qualunque cosa sia, è effettivamente presente.
 
@@ -2132,7 +2132,7 @@ Humph!
 
 III ON ATHEISM
 
-THE ATHEIST IS he that has forgotten God. He that denies God may do so in many innocent ways, and is an Atheist in form, but is not condemnable as such. Thus one man will reason by contradiction that there can be no God. If there were a God (says he), how could such things be? This man has not read or does not know sufficient to his purpose, or is not wide enough. His purpose is [[Truth]], so he is not to be condemned. Another will say, “There is no God,” meaning, “There is none that I have heard called God”: as, the figure of an old man; some vengeful spirit; an absurdity taught him by fools; and so forth. Another also will say, “There is no God,” as he would say, “Thus do I solve this riddle!” He has played a game, coming to a conclusion of logic, and supposes himself right by the rules of the game. Nor is he more to be condemned than one who shall prove, not that God is not, but that God is, by similar ways. For though this last man proves [[Truth|truth]], and that first man falsehood, yet each is only concerned with proving, and not with making good or standing up for the [[Truth]], so that it shall be established. Neither would found in the mind something unshakeable, but each would rather bring a process to its conclusion for neatness.
+THE ATHEIST IS he that has forgotten God. He that denies God may do so in many innocent ways, and is an Atheist in form, but is not condemnable as such. Thus one man will reason by contradiction that there can be no God. If there were a God (says he), how could such things be? This man has not read or does not know sufficient to his purpose, or is not wide enough. His purpose is [[concepts/truth|Truth]], so he is not to be condemned. Another will say, “There is no God,” meaning, “There is none that I have heard called God”: as, the figure of an old man; some vengeful spirit; an absurdity taught him by fools; and so forth. Another also will say, “There is no God,” as he would say, “Thus do I solve this riddle!” He has played a game, coming to a conclusion of logic, and supposes himself right by the rules of the game. Nor is he more to be condemned than one who shall prove, not that God is not, but that God is, by similar ways. For though this last man proves [[concepts/truth|truth]], and that first man falsehood, yet each is only concerned with proving, and not with making good or standing up for the [[concepts/truth|Truth]], so that it shall be established. Neither would found in the mind something unshakeable, but each would rather bring a process to its conclusion for neatness.
 
 We call that man Atheist who, thinking or unthinking, waking or sleeping, knows not God; and when it is brought to him that either God is not or is, would act as though the question mattered nothing. Such an Atheist makes nothing of God’s judgments nor of his commands. He does not despise them but will have them absent, as he will have God absent also. Nor is he a rebel but rather an absconder.
 
@@ -2157,7 +2157,7 @@ This instance is a mark and Atheism is judged by it. For if God is not, then all
 
 III SULL'ATEISMO
 
-L'ATEO È colui che ha dimenticato Dio. Chi nega Dio può farlo in molti modi innocenti, ed è ateo nella forma, ma non è per questo condannabile. Così un uomo ragionerà per contraddizione che non può esserci alcun Dio. Se ci fosse un Dio (dice), come potrebbero accadere certe cose? Quest'uomo non ha letto o non sa abbastanza per il suo scopo, oppure non ha veduta abbastanza ampia. Il suo scopo è la [[Truth|Verità]], perciò non va condannato. Un altro dirà: «Dio non esiste», intendendo: «Non esiste nessuno di quelli che ho sentito chiamare Dio»: come la figura di un vecchio; qualche spirito vendicativo; un'assurdità insegnatagli da sciocchi; e così via. Un altro ancora dirà: «Dio non esiste», come direbbe: «Ecco come risolvo questo enigma!». Ha giocato una partita, giungendo a una conclusione logica, e si crede nel giusto secondo le regole del gioco. Né è da condannare più di chi dimostri, non che Dio non è, ma che Dio è, per vie simili. Perché, sebbene quest'ultimo dimostri il [[Truth|vero]] e il primo il falso, ciascuno dei due si cura soltanto di dimostrare, e non di sostenere o difendere la [[Truth|Verità]], perché sia stabilita. Nessuno dei due fonderebbe nella mente qualcosa di incrollabile, ma ciascuno vuole piuttosto portare a termine un procedimento per amore di eleganza.
+L'ATEO È colui che ha dimenticato Dio. Chi nega Dio può farlo in molti modi innocenti, ed è ateo nella forma, ma non è per questo condannabile. Così un uomo ragionerà per contraddizione che non può esserci alcun Dio. Se ci fosse un Dio (dice), come potrebbero accadere certe cose? Quest'uomo non ha letto o non sa abbastanza per il suo scopo, oppure non ha veduta abbastanza ampia. Il suo scopo è la [[concepts/truth|Verità]], perciò non va condannato. Un altro dirà: «Dio non esiste», intendendo: «Non esiste nessuno di quelli che ho sentito chiamare Dio»: come la figura di un vecchio; qualche spirito vendicativo; un'assurdità insegnatagli da sciocchi; e così via. Un altro ancora dirà: «Dio non esiste», come direbbe: «Ecco come risolvo questo enigma!». Ha giocato una partita, giungendo a una conclusione logica, e si crede nel giusto secondo le regole del gioco. Né è da condannare più di chi dimostri, non che Dio non è, ma che Dio è, per vie simili. Perché, sebbene quest'ultimo dimostri il [[concepts/truth|vero]] e il primo il falso, ciascuno dei due si cura soltanto di dimostrare, e non di sostenere o difendere la [[concepts/truth|Verità]], perché sia stabilita. Nessuno dei due fonderebbe nella mente qualcosa di incrollabile, ma ciascuno vuole piuttosto portare a termine un procedimento per amore di eleganza.
 
 Chiamiamo ateo quell'uomo che, pensando o non pensando, sveglio o addormentato, non conosce Dio; e che, quando gli si pone che Dio o è o non è, si comporta come se la questione non contasse nulla. Un tale ateo non fa alcun conto dei giudizi di Dio né dei suoi comandi. Non li disprezza, ma li vuole assenti, come vuole assente anche Dio. Né è un ribelle, ma piuttosto un latitante.
 
@@ -2255,7 +2255,7 @@ There are many good accompaniments for Rest, slow and distant music which at las
 
 <span class="qlang-split" data-lang="it"></span>
 
-# V in riposo
+V in riposo
 
 Il riposo non è la conclusione del lavoro, ma il recupero delle energie. Sembra una ricompensa, poiché soddisfa un bisogno; ma una volta quel bisogno appagato, il riposo diventa soltanto uno stato di inattività e nulla più. Pertanto non pregiamo per il riposo; bensì (in una religione giusta) dopo questa vita pregiamo per rinfrescamento, luce e pace – non per il riposo stesso.
 
@@ -2318,7 +2318,7 @@ I went, not of my own choice but because I had to go, and when I got there I mad
 
 Naples was utterly unlike anything I had imagined. Vesuvius was not a cone smoking upon the horizon — it was a great angry pyramid toppling right above me. The town was not a lazy, dirty town with all the marks of antiquity and none of energy. It was alive with commerce and all the evils and all the good of commerce. It was angrily alive; it was like a wasp nest.
 
-I will state the plain [[Truth|truth]] at the risk of being thought paradoxical. Naples recalled to me an American seaboard town so vividly that I could have thought myself upon the Pacific. I could have gone on for days digging into all this new experience, turning it over and fructifying it. My business allowed me not twenty-four hours, but the vision was one I shall never forget, and it was as completely new and as wholly creative, or re-creative, of the mind, as is that land-fall which an adventurous sailor makes when he finds a new island at dawn upon a sea not yet travelled.
+I will state the plain [[concepts/truth|truth]] at the risk of being thought paradoxical. Naples recalled to me an American seaboard town so vividly that I could have thought myself upon the Pacific. I could have gone on for days digging into all this new experience, turning it over and fructifying it. My business allowed me not twenty-four hours, but the vision was one I shall never forget, and it was as completely new and as wholly creative, or re-creative, of the mind, as is that land-fall which an adventurous sailor makes when he finds a new island at dawn upon a sea not yet travelled.
 
 Every one, therefore, should go out to discover, five miles from home, or five hundred. Every one should assure himself against the cheating tedium which books and maps create in us, that the world is perpetually new: and oddly enough it is not a matter of money.
 
@@ -2361,7 +2361,7 @@ Ci andai, non per mia scelta ma perché dovevo andarci, e una volta arrivato fec
 
 Napoli era assolutamente diversa da tutto ciò che avevo immaginato. Il Vesuvio non era un cono fumante all'orizzonte: era una grande piramide irata che incombeva proprio sopra di me. La città non era una città pigra e sudicia, con tutti i segni dell'antichità e nessuno dell'energia. Era viva di commercio e di tutti i mali e tutti i beni del commercio. Era iratamente viva; era come un nido di vespe.
 
-Dirò la pura [[Truth|verità]] a rischio di parere paradossale. Napoli mi richiamò alla mente una città portuale americana in modo così vivido che avrei potuto credermi sul Pacifico. Avrei potuto continuare per giorni a scavare in tutta questa esperienza nuova, rivoltandola e facendola fruttificare. I miei impegni non mi concessero nemmeno ventiquattr'ore, ma quella visione è una di quelle che non dimenticherò mai, ed era del tutto nuova e interamente creativa, o ri-creativa, della mente, quanto lo è l'avvistamento della terra che compie un marinaio avventuroso quando all'alba trova un'isola nuova su un mare non ancora percorso.
+Dirò la pura [[concepts/truth|verità]] a rischio di parere paradossale. Napoli mi richiamò alla mente una città portuale americana in modo così vivido che avrei potuto credermi sul Pacifico. Avrei potuto continuare per giorni a scavare in tutta questa esperienza nuova, rivoltandola e facendola fruttificare. I miei impegni non mi concessero nemmeno ventiquattr'ore, ma quella visione è una di quelle che non dimenticherò mai, ed era del tutto nuova e interamente creativa, o ri-creativa, della mente, quanto lo è l'avvistamento della terra che compie un marinaio avventuroso quando all'alba trova un'isola nuova su un mare non ancora percorso.
 
 Ognuno, dunque, dovrebbe uscire a scoprire, a cinque miglia da casa o a cinquecento. Ognuno dovrebbe convincersi, contro l'ingannevole tedio che i libri e le carte geografiche creano in noi, che il mondo è perennemente nuovo: e, per quanto strano, non è una questione di denaro.
 
@@ -2386,9 +2386,9 @@ If any foolish man pretend in your presence that the brotherhood of men should m
 
 If any one is so vile as to maintain in your presence that one’s country should not be loved and loyally defended, confound so horrid a fool by the very vigorous picture of an Inn. And if he impudently says that some damned Babylon or other is better than an Inn, look up his ancestry.
 
-For the [[Truth|truth]] is that Inns (may God preserve them, and of the few remaining breed, in spite of peril, a host of new Inns for our sons), Inns, Inns are the mirror and at the same time the flower of a people. The savour of men met in kindliness and in a homely way for years and years comes to inhabit all their panels (Inns are panelled) and lends incense to their fires. (Inns have not radiators, but fires.) But this good quintessence and distillation of comradeship varies from countryside to countryside and more from province to province, and more still from race to race and from realm to realm; just as speech differs and music and all the other excellent fruits of Europe.
+For the [[concepts/truth|truth]] is that Inns (may God preserve them, and of the few remaining breed, in spite of peril, a host of new Inns for our sons), Inns, Inns are the mirror and at the same time the flower of a people. The savour of men met in kindliness and in a homely way for years and years comes to inhabit all their panels (Inns are panelled) and lends incense to their fires. (Inns have not radiators, but fires.) But this good quintessence and distillation of comradeship varies from countryside to countryside and more from province to province, and more still from race to race and from realm to realm; just as speech differs and music and all the other excellent fruits of Europe.
 
-Thus there is an Inn at Tout-de-suite-Tardets which the Basques made for themselves and offer to those who visit their delightful streams. A [[River|river]] flows under its balcony, tinkling along a sheer stone wall, and before it, high against the sunset, is a wood called Tiger Wood, clothing a rocky peak called the Peak of Eagles.
+Thus there is an Inn at Tout-de-suite-Tardets which the Basques made for themselves and offer to those who visit their delightful streams. A [[motifs/river|river]] flows under its balcony, tinkling along a sheer stone wall, and before it, high against the sunset, is a wood called Tiger Wood, clothing a rocky peak called the Peak of Eagles.
 
 Now no one could have built that Inn nor endowed it with its admirable spirit, save the cleanly but incomprehensible Basques. There is no such Inn in the Béarnese country, nor any among the Gascons.
 
@@ -2429,7 +2429,7 @@ From the towns all Inns have been driven: from the villages most. No conscious e
 
 <span class="qlang-split" data-lang="it"></span>
 
-#VII DEGLI ALBERGI
+VII DEGLI ALBERGI
 
 Eccomi qui, seduto in una locanda; meno di mezz’ora fa credevo con tristezza che le locande, come tutte le altre cose buone, fossero destinate al declino, ma ora provo maggiore speranza e intravedo nuove possibilità di fuga attraverso questa decadenza che ci circonda.
 
@@ -2445,9 +2445,9 @@ Se qualcuno sciocco dovesse pretendere davanti a voi che la fraternità umana po
 
 Se qualcuno è così spregevole da sostenere davanti a voi che il proprio paese non debba essere amato e difeso con lealtà, confondete quel folle orribile con l’immagine vivida di una locanda. E se osa dire, in modo impudente, che qualche maledetta città come Babilonia sia migliore di una locanda, indagate sulla sua origine.
 
-Perché la [[Truth|verità]] è che le osterie (che Dio le preservi, e che dalle poche rimaste, nonostante i pericoli, possano nascere molte altre per i nostri figli) sono lo specchio e al contempo il fiore di un popolo. Il sapore delle persone che si incontrano in gentilezza e in modo cordiale, anno dopo anno, permea tutte le loro strutture (le osterie sono infatti fatte di pannelli) e dona profumo ai loro focolari. (Le osterie non hanno riscaldatori, ma focolari.) Ma questa buona essenza, questo distillato dell’amicizia, varia da una regione all’altra, ancora di più da una provincia all’altra, e ancora di più da una razza all’altra e da un regno all’altro; proprio come diversificati sono il linguaggio, la musica e tutti gli altri eccellenti frutti dell’Europa.
+Perché la [[concepts/truth|verità]] è che le osterie (che Dio le preservi, e che dalle poche rimaste, nonostante i pericoli, possano nascere molte altre per i nostri figli) sono lo specchio e al contempo il fiore di un popolo. Il sapore delle persone che si incontrano in gentilezza e in modo cordiale, anno dopo anno, permea tutte le loro strutture (le osterie sono infatti fatte di pannelli) e dona profumo ai loro focolari. (Le osterie non hanno riscaldatori, ma focolari.) Ma questa buona essenza, questo distillato dell’amicizia, varia da una regione all’altra, ancora di più da una provincia all’altra, e ancora di più da una razza all’altra e da un regno all’altro; proprio come diversificati sono il linguaggio, la musica e tutti gli altri eccellenti frutti dell’Europa.
 
-Esiste quindi una locanda a Tout-de-suite-Tardets che i baschi hanno costruito per sé stessi e offrono a coloro che visitano i loro incantevoli ruscelli. Un [[River|fiume]] scorre sotto il suo balcone, gorgogliando lungo un ripido muro di pietra; davanti ad esso, in alto contro il tramonto, si estende una foresta chiamata Tiger Wood, che ricopre una cima rocciosa denominata Peak of Eagles.
+Esiste quindi una locanda a Tout-de-suite-Tardets che i baschi hanno costruito per sé stessi e offrono a coloro che visitano i loro incantevoli ruscelli. Un [[motifs/river|fiume]] scorre sotto il suo balcone, gorgogliando lungo un ripido muro di pietra; davanti ad esso, in alto contro il tramonto, si estende una foresta chiamata Tiger Wood, che ricopre una cima rocciosa denominata Peak of Eagles.
 
 Ora nessuno avrebbe potuto costruire quella locanda né donarle quel spirito ammirevole, se non i puliti ma incomprensibili baschi. Non esiste alcuna locanda del genere nella regione del Béarn, né tra i gasconi.
 
@@ -2507,7 +2507,7 @@ Absolutely purposeless phrases go the rounds, are mechanically repeated; sometim
 
 If there is one class in the community which has made more rows than another it is the young male of the wealthier classes, from Alcibiades to my Lord Tit-up. When men are well fed, good-natured, fairly innocent (as are our youth) then rows are their meat and drink. Nay, the younger males of the gentry have such a craving and necessity for a row that they may be observed at the universities of this country making rows continually without any sort of object or goal attached to such rows.
 
-Sometimes he does not call it ungentlemanly, but points out that a row is of no effect, by which he means that there is no money in it. That is true, neither is there money in drinking, or breathing, or sleeping, but they are all very necessary things. Sometimes the row is denounced by the suburban gentleman as unchristian; but that is because he knows nothing about human history or the [[Faith]], and plasters the phrase down as a label without consideration. The whole history of Christendom is one great row. From time to time the Christians would leap up and swarm like bees, making the most hideous noise and pouring out by millions to whang in their Christianity for as long as it could be borne upon the vile persons of the infidel. More commonly the Christians would vent their happy rage one against the other.
+Sometimes he does not call it ungentlemanly, but points out that a row is of no effect, by which he means that there is no money in it. That is true, neither is there money in drinking, or breathing, or sleeping, but they are all very necessary things. Sometimes the row is denounced by the suburban gentleman as unchristian; but that is because he knows nothing about human history or the [[concepts/faith|Faith]], and plasters the phrase down as a label without consideration. The whole history of Christendom is one great row. From time to time the Christians would leap up and swarm like bees, making the most hideous noise and pouring out by millions to whang in their Christianity for as long as it could be borne upon the vile persons of the infidel. More commonly the Christians would vent their happy rage one against the other.
 
 The row is better fun when it is played according to rule: it sounds paradoxical, and your superficial man might conceive that the essence of a row was anarchy. If he did he would be quite wrong; a row being a male thing at once demands all sorts of rules and complications. Otherwise it would be no fun. Take, for instance, the oldest and most solid of our national rows — the House of Commons row. Everybody knows how it is done and everybody surely knows that very special rules are observed. For instance, there is the word “traitor.” That is in order. It was decided long ago, when Mr. Joseph Chamberlain, of Birmingham, called Mr. Dillon a traitor. But I have heard with my own ears the word “party-hack” ruled out. It is not allowed.
 
@@ -2524,11 +2524,11 @@ Why on earth this last little band — there are not a couple of dozen of them t
 
 <span class="qlang-split" data-lang="it"></span>
 
-# VIII in fila
+VIII in fila
 
 Onorevole membro del Parlamento: Presidente, Presidente! È davvero appropriato da parte dell’Onorevole membro chiamarmi un maiale insolenzo?
 
-# Vedi Hansard in tutto il testo
+Vedi Hansard in tutto il testo
 
 Un rinomato letterato ha composto, e probabilmente pubblicherà presto, un poema molto prezioso il cui ritornello è: “Mi piace il suono del vetro che si rompe”.
 
@@ -2540,7 +2540,7 @@ Frasi assolutamente prive di senso vengono ripetute meccanicamente; a volte, i c
 
 Se c'è una classe nella società che si è impegnata più di altre in atti di violenza, questa è senza dubbio quella dei giovani maschi delle classi più agiate, da Alcibiade a Lord Tit-up. Quando gli uomini sono ben nutriti, di buon carattere e abbastanza innocenti (come i nostri giovani), le risse diventano la loro “necessità quotidiana”. Anzi, i giovani maschi della nobiltà hanno una tale sete e bisogno di litigare che si può osservarli nelle università di questo paese impegnati costantemente in liti, senza alcun obiettivo o scopo preciso.
 
-A volte non lo definisce un comportamento da gentiluomo, ma sottolinea che litigare non serve a nulla, intendendo con ciò che non si guadagna nulla da farlo. È vero: né bere, né respirare, né dormire portano a qualche guadagno, ma sono tutte cose assolutamente necessarie. A volte il gentiluomo di periferia denuncia il litigio come atto immorale; ma questo perché non conosce nulla della storia umana o della [[Faith|>Fede]], e utilizza questa espressione senza rifletterci sopra. L’intera storia del Cristianesimo è, in realtà, un lungo susseguirsi di litigi. Di tanto in tanto i cristiani si scatenavano come api, facendo il più grande rumore possibile e riversandosi a milioni per imporre la loro fede su quelle persone spregevoli degli infedeli. Più spesso, invece, i cristiani sfogavano la loro rabbia l’uno contro l’altro.
+A volte non lo definisce un comportamento da gentiluomo, ma sottolinea che litigare non serve a nulla, intendendo con ciò che non si guadagna nulla da farlo. È vero: né bere, né respirare, né dormire portano a qualche guadagno, ma sono tutte cose assolutamente necessarie. A volte il gentiluomo di periferia denuncia il litigio come atto immorale; ma questo perché non conosce nulla della storia umana o della [[concepts/faith|>Fede]], e utilizza questa espressione senza rifletterci sopra. L’intera storia del Cristianesimo è, in realtà, un lungo susseguirsi di litigi. Di tanto in tanto i cristiani si scatenavano come api, facendo il più grande rumore possibile e riversandosi a milioni per imporre la loro fede su quelle persone spregevoli degli infedeli. Più spesso, invece, i cristiani sfogavano la loro rabbia l’uno contro l’altro.
 
 Il gioco diventa molto più divertente se si segue le regole: sembra paradossale, e una persona superficiale potrebbe pensare che l’essenza di questo gioco sia l’anarchia. Se lo credesse, sbaglierebbe completamente; poiché si tratta di un gioco tipicamente maschile, richiede infatti molte regole e complicazioni. Altrimenti non sarebbe affatto divertente. Prendiamo ad esempio il più antico e consolidato dei nostri giochi nazionali: il gioco della Camera dei Comuni. Tutti sanno come si gioca e sicuramente sono a conoscenza delle regole particolari che vengono rispettate. Ad esempio, c’è la parola “traditore”: questa è stata decisa molto tempo fa, quando il signor Joseph Chamberlain di Birmingham definì traditore il signor Dillon. Ho anche sentito con le mie orecchie che la parola “partigiano” viene rigorosamente vietata: non è ammessa.
 
@@ -2573,7 +2573,7 @@ He said he had suffered greatly and that he desired to tell me the whole tale. I
 
 It seems that my friend (according to his account) found himself recently in a country of a very delightful character.
 
-This country lay up and heavenly upon a sort of table-land. One went up a road which led continually higher and higher through the ravines of the mountains, until, passing through a natural gate of rock, one saw before one a wide plain bounded upon the further side by the highest crests of the range. Through this upland plain ran a broad and noble [[River|river]] whose reaches he could see in glimpses for miles, and upon the further bank of it in a direction opposite that which the gate of rock regarded, was a very delightful city.
+This country lay up and heavenly upon a sort of table-land. One went up a road which led continually higher and higher through the ravines of the mountains, until, passing through a natural gate of rock, one saw before one a wide plain bounded upon the further side by the highest crests of the range. Through this upland plain ran a broad and noble [[motifs/river|river]] whose reaches he could see in glimpses for miles, and upon the further bank of it in a direction opposite that which the gate of rock regarded, was a very delightful city.
 
 The walls of this city were old in their texture, venerable and majestic in their lines. Within their circumference could be discerned sacred buildings of a similar antiquity, but also modern and convenient houses of a kind which my friend had not come across before, but which were evidently suited to the genial, sunlit climate, as also to the habits of leisured men. Their roofs were flat, covered in places by awnings, in other places by tiled verandas, and these roofs were often disposed in the form of little gardens.
 
@@ -2600,7 +2600,7 @@ My friend began his reply with those conventional phrases to which we are all ac
 
 <span class="qlang-split" data-lang="it"></span>
 
-# IX Il luogo piacevole
+IX Il luogo piacevole
 
 Un gentiluomo che conosco è venuto da me l’altro giorno in cerca di comprensione. Ma prima devo descriverlo: —
 
@@ -2614,7 +2614,7 @@ Disse di aver sofferto molto e che desiderava raccontarmi tutta la storia. Io ne
 
 Sembra che mio amico, secondo quanto lui stesso racconta, si sia recentemente trovato in un paese di carattere molto piacevole.
 
-Questo paese si estendeva dolcemente su una sorta di altopiano. Si percorreva una strada che saliva sempre più in alto attraverso le gole delle montagne; superato un passaggio naturale formato da rocce, si apriva davanti ai propri occhi un vasto pianoro delimitato, sul lato opposto, dalle cime più alte della catena montuosa. Attraverso questo altopiano scorreva un ampio e maestoso [[River|>fiume]]; ne si potevano vedere i corsi per chilometri di distanza. Sulla riva opposta, in direzione opposta rispetto a quella del passaggio roccioso, sorgeva una città davvero incantevole.
+Questo paese si estendeva dolcemente su una sorta di altopiano. Si percorreva una strada che saliva sempre più in alto attraverso le gole delle montagne; superato un passaggio naturale formato da rocce, si apriva davanti ai propri occhi un vasto pianoro delimitato, sul lato opposto, dalle cime più alte della catena montuosa. Attraverso questo altopiano scorreva un ampio e maestoso [[motifs/river|>fiume]]; ne si potevano vedere i corsi per chilometri di distanza. Sulla riva opposta, in direzione opposta rispetto a quella del passaggio roccioso, sorgeva una città davvero incantevole.
 
 Le mura di questa città presentavano una texture antica, linee maestose e venerabili. All’interno del loro perimetro si potevano distinguere edifici sacri di analoga antichità, così come case moderne e comode di un tipo che il mio amico non aveva mai visto prima; queste ultime, ovviamente, erano adatte al clima mite e soleggiato, nonché alle abitudini delle persone che vi trascorrevano il tempo libero. I tetti erano piatti; in alcuni punti erano coperti da portici, in altri da verande in tegole, e spesso questi tetti venivano utilizzati come piccoli giardini.
 
@@ -2643,7 +2643,7 @@ Il mio amico iniziò la sua risposta con quelle frasi convenzionali a cui siamo 
 <span class="atom-split" data-atom="story_10_the_pleasant_place--part_02" data-title="This and That and the Other — THE PLEASANT PLACE (part 2)" data-chapter="THE PLEASANT PLACE" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
-Moved by I know not what freedom of expression, and expansive in a degree which he had never yet known, my friend smiled back and said: “Well, to tell you the [[Truth|truth]], some such meal as this would appeal to me: First two dozen green-bearded oysters of the Arcachon kind, opened upon the deep shell with all their juices preserved, and each exquisitely cleaned. These set upon pounded ice and served in that sort of dish which is contrived for each oyster to repose in its own little recess with a sort of side arrangement for the reception of the empty shells.”
+Moved by I know not what freedom of expression, and expansive in a degree which he had never yet known, my friend smiled back and said: “Well, to tell you the [[concepts/truth|truth]], some such meal as this would appeal to me: First two dozen green-bearded oysters of the Arcachon kind, opened upon the deep shell with all their juices preserved, and each exquisitely cleaned. These set upon pounded ice and served in that sort of dish which is contrived for each oyster to repose in its own little recess with a sort of side arrangement for the reception of the empty shells.”
 
 His host nodded gravely, as one who takes in all that is said to him.
 
@@ -2699,7 +2699,7 @@ The mere passage into this Home out of the warm morning daylight into the inner 
 
 “I do not know,” said his host in a gentle whisper as they crossed the courtyard, “whether it is your custom to bathe before the morning meal or in the middle of the afternoon?”
 
-“Why, sir,” said my friend, “if I may tell the whole [[Truth|truth]], I have no custom in the matter; but perhaps the middle of the afternoon would suit me best.”
+“Why, sir,” said my friend, “if I may tell the whole [[concepts/truth|truth]], I have no custom in the matter; but perhaps the middle of the afternoon would suit me best.”
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -2760,7 +2760,7 @@ Il semplice passaggio da questa luce calda del mattino all’ombra fresca dell�
 
 “Non lo so,” disse il suo ospite sussurrando dolcemente mentre attraversavano il cortile, “se sia vostra abitudine lavarvi prima di colazione o a metà pomeriggio.”
 
-“Perché, signore,” disse il mio amico, “se posso raccontare tutta la [[Truth|verità]], non ho alcuna abitudine particolare in questo senso; ma forse a metà pomeriggio mi andrebbe meglio.”
+“Perché, signore,” disse il mio amico, “se posso raccontare tutta la [[concepts/truth|verità]], non ho alcuna abitudine particolare in questo senso; ma forse a metà pomeriggio mi andrebbe meglio.”
 
 
 
@@ -2783,7 +2783,7 @@ While the oysters (delightful things!) were entering upon their tray and were be
 
 My friend started.
 
-“Nay,” said his host hastily, “do not misunderstand me. I do not mean that preoccupations of business are alone so alarming. What I mean is that sometimes, yes, and I may say often (horrible as it seems to us!), our guests are in an active preoccupation about the petty business of finance. Some few have debts, it seems, in the wretched society from which they come, and of which, frankly, I know nothing. Others, though not indebted, feel insecure about the future. Others though wealthy are oppressed by their responsibilities. Now,” he continued firmly, “I must tell you once and for all that we have a custom here upon which we take no denial: no denial whatsoever. Every man who enters this city, who honours us by entering this city, is made free of that sort of nonsense, thank God!” And as he said this, my friend’s host breathed a great sigh of relief. “It would be intolerable to us to think,” he continued, “that our welcome and dear companions were suffering from such a tawdry thing as money-worry in our presence. So the matter is plainly this: whether you like it or whether you do not, the sum of £10,000 is already set down to your credit in the public bank of the city; whether you use it or not is your business; if you do not it is our custom to melt down an equivalent sum of gold and to cast it into the depths of the [[River|river]], for we have of this metal an unfailing supply, and I confess we do not find it easy to understand the exaggerated value which other men place upon it.”
+“Nay,” said his host hastily, “do not misunderstand me. I do not mean that preoccupations of business are alone so alarming. What I mean is that sometimes, yes, and I may say often (horrible as it seems to us!), our guests are in an active preoccupation about the petty business of finance. Some few have debts, it seems, in the wretched society from which they come, and of which, frankly, I know nothing. Others, though not indebted, feel insecure about the future. Others though wealthy are oppressed by their responsibilities. Now,” he continued firmly, “I must tell you once and for all that we have a custom here upon which we take no denial: no denial whatsoever. Every man who enters this city, who honours us by entering this city, is made free of that sort of nonsense, thank God!” And as he said this, my friend’s host breathed a great sigh of relief. “It would be intolerable to us to think,” he continued, “that our welcome and dear companions were suffering from such a tawdry thing as money-worry in our presence. So the matter is plainly this: whether you like it or whether you do not, the sum of £10,000 is already set down to your credit in the public bank of the city; whether you use it or not is your business; if you do not it is our custom to melt down an equivalent sum of gold and to cast it into the depths of the [[motifs/river|river]], for we have of this metal an unfailing supply, and I confess we do not find it easy to understand the exaggerated value which other men place upon it.”
 
 “I do not know that I shall have occasion to use so magnificent a custom,” said my friend with an extraordinary relief in his heart, “but I certainly thank you very kindly for its intention, and I shall not hesitate to use any sum that may be necessary for my continuing the great happiness which this city appears to afford.”
 
@@ -2834,7 +2834,7 @@ Mentre le ostriche (cose deliziose!) venivano posate sul vassoio e portate in ta
 
 Il mio amico ha iniziato.
 
-“No,” disse il suo ospite in fretta, “non fraintendetemi. Non intendo dire che solo le preoccupazioni legate agli affari siano così allarmanti. Quello che voglio dire è che a volte, sì, e posso dire spesso (anche se ci sembra orribile!), i nostri ospiti sono profondamente impegnati nelle meschine questioni finanziarie. Alcuni, a quanto pare, hanno debiti nella misera società da cui provengono, di cui, onestamente, non so nulla. Altri, anche se non indebitati, si sentono insicuri riguardo al futuro. Altri ancora, pur essendo ricchi, sono oppressi dalle loro responsabilità. Ora,” continuò con fermezza, “devo dirvi una volta per tutte che qui abbiamo una regola alla quale non facciamo alcuna eccezione: nessuna eccezione. Ogni uomo che entra in questa città, che ci onora entrando in questa città, viene liberato da quel genere di problemi, grazie a Dio!” E mentre lo diceva, l’ospite del mio amico emise un grande sospiro di sollievo. “Per noi sarebbe intollerabile pensare,” continuò, “che il nostro benvenuto e le nostre compagnie soffrano a causa di questioni così banali come i problemi finanziari in nostra presenza. Quindi la situazione è chiara: che vi piaccia o no, la somma di 10.000 sterline è già stata accreditata sul vostro conto presso la banca pubblica della città; se la utilizzate o meno dipende da voi. Se non la utilizzate, secondo le nostre usanze fonderemo una quantità equivalente d’oro e la getteremo nelle profondità del [[River|fiume]], perché abbiamo sempre a disposizione questa sostanza. E devo ammettere che non riesco proprio a capire il motivo per cui gli altri attribuiscono un valore così esagerato all’oro.”
+“No,” disse il suo ospite in fretta, “non fraintendetemi. Non intendo dire che solo le preoccupazioni legate agli affari siano così allarmanti. Quello che voglio dire è che a volte, sì, e posso dire spesso (anche se ci sembra orribile!), i nostri ospiti sono profondamente impegnati nelle meschine questioni finanziarie. Alcuni, a quanto pare, hanno debiti nella misera società da cui provengono, di cui, onestamente, non so nulla. Altri, anche se non indebitati, si sentono insicuri riguardo al futuro. Altri ancora, pur essendo ricchi, sono oppressi dalle loro responsabilità. Ora,” continuò con fermezza, “devo dirvi una volta per tutte che qui abbiamo una regola alla quale non facciamo alcuna eccezione: nessuna eccezione. Ogni uomo che entra in questa città, che ci onora entrando in questa città, viene liberato da quel genere di problemi, grazie a Dio!” E mentre lo diceva, l’ospite del mio amico emise un grande sospiro di sollievo. “Per noi sarebbe intollerabile pensare,” continuò, “che il nostro benvenuto e le nostre compagnie soffrano a causa di questioni così banali come i problemi finanziari in nostra presenza. Quindi la situazione è chiara: che vi piaccia o no, la somma di 10.000 sterline è già stata accreditata sul vostro conto presso la banca pubblica della città; se la utilizzate o meno dipende da voi. Se non la utilizzate, secondo le nostre usanze fonderemo una quantità equivalente d’oro e la getteremo nelle profondità del [[motifs/river|fiume]], perché abbiamo sempre a disposizione questa sostanza. E devo ammettere che non riesco proprio a capire il motivo per cui gli altri attribuiscono un valore così esagerato all’oro.”
 
 “Non so se avrò mai l’occasione di utilizzare una tradizione così magnifica,” disse il mio amico con un vero sollievo nel cuore, “ma ti ringrazio sinceramente per la sua intenzione e non esiterò a spendere qualsiasi somma sia necessaria per continuare a godere della grande felicità che questa città sembra offrirmi.”
 
@@ -2904,7 +2904,7 @@ Remember this parable. It is enormously illuminating.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# X sugli presagi
+X sugli presagi
 
 Solo l’altro giorno, su un giornale (quante cose si pubblicano sui giornali, ) sono state stampate cinque righe che dicevano così:
 
@@ -2970,7 +2970,7 @@ He got home to luncheon, to which he now remembered he had asked a friend — a 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XI Il libro
+XI Il libro
 
 Questo è stato scritto per dissuadere i ricchi dal disturbare il lavoro di noi poveri letterati, che dobbiamo scrivere o morire di fame. Si tratta di un certo signor Foley: il signor Charles Foley, banchiere e figlio di banchiere, che a quarant’anni, ormai nella mezza età, si rese conto che non aveva più alcun motivo per andare ogni giorno in ufficio e iniziò quindi a condurre la vita di un uomo d’ozio. Essendo estremamente ricco, naturalmente gli venne l’idea di scrivere un libro. Quello che lo spinse a farlo fu un pensiero, un’idea. Gli balenò in mente una sera di sabato mentre tornava a casa dal club. Era una bella serata e quell’idea sembrò materializzarsi dal nulla. L’idea era questa: gli esseri umani producono determinati tipi di arte, architettura, comportamenti sociali, ecc., a causa del clima in cui vivono. Un pensiero del genere non gli era mai passato per la mente prima. E probabilmente nemmeno a nessun altro. Era semplice come un seme. Ma, man mano che ci rifletteva sopra, ne scopriva le enormi possibilità.
 
@@ -3084,7 +3084,7 @@ Tornò dal suo amico appassionato di golf, che stava bevendo tranquillamente del
 
 “Scusa, pensavo fosse qualcosa di politico,” rispose il suo amico, con la bocca ormai meno piena. Poi gli venne in mente un’idea brillante.
 
-# Di cosa parla il libro?
+Di cosa parla il libro?
 
 “Beh, riguarda l’arte e… il clima, sai.”
 
@@ -3114,7 +3114,7 @@ Alla fine dell'autunno, l'editore gli scrisse una nota chiedendogli se potesse a
 
 “Se, trascorso un certo lasso di tempo, secondo il parere dell’editore, un libro non risulti più giustificato dal proprio prezzo attuale, la modifica del prezzo sarà decisa a discrezione dell’editore o dell’autore, o di entrambi, o di ciascuno di loro, nel rispetto delle condizioni previste dalla Clausola 9.”
 
-# Passando alla clausola 9, il signor Foley scoprì le seguenti parole:
+Passando alla clausola 9, il signor Foley scoprì le seguenti parole:
 
 “Tutti gli aspetti relativi al prezzo, alle pubblicità, alla rilegatura, al tipo di carta utilizzata, alla stampa, ecc., saranno di competenza dei signori Towkem Bingo e Platt, qui di seguito denominati Editori.”
 
@@ -3155,7 +3155,7 @@ All these things we have suffered, you and I, at their hands. But be comforted. 
 
 That man who looked us up and down so insolently when the great doors were opened in St. James’ Square and who thought one’s boots so comic. He too, and all his like, burn separately. So does that fellow with the wine that poured it out ungenerously, and clearly thought that we were in luck’s way to get the bubbly stuff at all in any measure. He that conveyed his master’s messages with a pomp that was instinct with scorn and he that drove you to the station, hardly deigning to reply to your timid sentences and knowing well your tremors and your abject ill-ease. Be comforted. He too burns.
 
-It is the custom in Hell when this last batch of scoundrels, the horsey ones, come up in batches to be dealt with by the authorities thereof, for them first to be asked in awful tones how many pieces of silver they have taken from men below the rank of a squire, or whose income was less than a thousand pounds a year, and the [[Truth|truth]] on this they are compelled by Fate to declare, whereupon, before their tortures begin, they receive as many stripes as they took florins: nor is there any defect in the arrangement of divine justice in their regard, save that the money is not refunded to us.
+It is the custom in Hell when this last batch of scoundrels, the horsey ones, come up in batches to be dealt with by the authorities thereof, for them first to be asked in awful tones how many pieces of silver they have taken from men below the rank of a squire, or whose income was less than a thousand pounds a year, and the [[concepts/truth|truth]] on this they are compelled by Fate to declare, whereupon, before their tortures begin, they receive as many stripes as they took florins: nor is there any defect in the arrangement of divine justice in their regard, save that the money is not refunded to us.
 
 Cooks, housemaids, poor little scullery-maids, under-gardeners, estate carpenters of all kinds, small stable lads, and in general all those humble Servants of the Rich who are debarred by their insolent superiors from approaching the guests and neither wound them with contemptuous looks, nor follow these up by brigandish demands for money, these you will not see in this Pit of Fire. For them is reserved a high place in Paradise, only a little lower than that supreme and cloudy height of bliss wherein repose the happy souls of all who on this earth have been Journalists.
 
@@ -3172,7 +3172,7 @@ For there is no repentance known among the Servants of the Rich, nor any excepti
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XII: I servitori dei ricchi
+XII: I servitori dei ricchi
 
 Li segni lì, nel punto più basso e più remoto della Fossa del Fuoco Infernale? Anime che si contorcono nel fumo, stesse simili a fumo luminoso, tormentate dalle fiamme. Mi chiedi cosa siano? Sono i Servitori dei Ricchi: quelli che, nella loro vita mortale, aprirono le porte delle grandi case, guidarono le carrozze e derisero gli ospiti sfortunati.
 
@@ -3192,7 +3192,7 @@ Tutte queste cose che abbiamo sofferto, tu ed io, a causa loro. Ma rassicurati: 
 
 Quell’uomo che ci guardava dall’alto in basso con tale insolenza quando le grandi porte di St. James’s Square si aprirono, e che trovava così comiche le nostre scarpe. Anche lui, e tutti quanti come lui, bruciano separatamente. Lo stesso vale per quel tizio che versò il vino in modo generoso, pensando chiaramente che fossimo fortunati ad ottenere quella bevanda frizzante, anche solo in piccole dosi. Quello che trasmetteva i messaggi del suo padrone con una pompa che nascondeva disprezzo, e quello che ti accompagnò alla stazione, senza nemmeno degnarsi di rispondere alle tue timide parole, conoscendo bene i tuoi tremori e il tuo profondo disagio. Tranquilla: anche lui brucia.
 
-È consuetudine all’Inferno che quest’ultima ondata di scellerati venga portata lì in gruppi affinché le autorità locali possano occuparsene. Prima di tutto, vengono interrogati con toni minacciosi su quante monete d’argento abbiano sottratto a persone di rango inferiore a quello di scudiero, o il cui reddito fosse inferiore a mille sterline all’anno; sono costretti dalla sorte ad confessare la [[Truth|verità]], e subito dopo l’inizio delle loro torture ricevono tante frustate quante monete d’argento hanno rubato. Non c’è alcun difetto nell’organizzazione della giustizia divina nei loro confronti, tranne il fatto che quel denaro non ci viene restituito.
+È consuetudine all’Inferno che quest’ultima ondata di scellerati venga portata lì in gruppi affinché le autorità locali possano occuparsene. Prima di tutto, vengono interrogati con toni minacciosi su quante monete d’argento abbiano sottratto a persone di rango inferiore a quello di scudiero, o il cui reddito fosse inferiore a mille sterline all’anno; sono costretti dalla sorte ad confessare la [[concepts/truth|verità]], e subito dopo l’inizio delle loro torture ricevono tante frustate quante monete d’argento hanno rubato. Non c’è alcun difetto nell’organizzazione della giustizia divina nei loro confronti, tranne il fatto che quel denaro non ci viene restituito.
 
 Cuochi, cameriere, povere ragazze addette alle pulizie, giardinieri, carpentieri da estate di ogni tipo, ragazzi addetti alle stalle, insomma, tutti quei umili servitori dei ricchi che, a causa dell’arroganza dei loro padroni, non possono avvicinarsi agli ospiti né guardarli con disprezzo, né far loro richieste estorsive di denaro. Di loro non troverete traccia in questo “Abisso di Fuoco”. Per loro è riservato un posto elevato nel Paradiso, soltanto leggermente inferiore a quella suprema e nebbiosa dimora della beatitudine dove riposano le anime felici di tutti coloro che, in questa vita, sono stati giornalisti.
 
@@ -3213,7 +3213,7 @@ Poiché tra i servitori dei ricchi non esiste alcun pentimento, né alcuna eccez
 
 XIII THE JOKE
 
-THERE ARE TWO kinds of jokes, those jokes that are funny because they are true, and those jokes that would be funny anyhow. Think it out and you will find that that is a great [[Truth|truth]]. Now the joke I have here for the delectation of the broken-hearted is of the first sort. It is funny because it is true. It is about a man whom I really saw and really knew and touched, and on occasions treated ill. He was. The sunlight played upon his form. Perhaps he may still flounder under the light of the sun, and not yet have gone down into that kingdom whose kings are less happy than the poorest hind upon the upper fields.
+THERE ARE TWO kinds of jokes, those jokes that are funny because they are true, and those jokes that would be funny anyhow. Think it out and you will find that that is a great [[concepts/truth|truth]]. Now the joke I have here for the delectation of the broken-hearted is of the first sort. It is funny because it is true. It is about a man whom I really saw and really knew and touched, and on occasions treated ill. He was. The sunlight played upon his form. Perhaps he may still flounder under the light of the sun, and not yet have gone down into that kingdom whose kings are less happy than the poorest hind upon the upper fields.
 
 It was at College that I knew him and I retained my acquaintance with him — Oh, I retained it in a loving and cherishing manner — until he was grown to young manhood. I would keep it still did Fate permit me so to do, for he was a treasure. I have never met anything so complete for the purposes of laughter, though I am told there are many such in the society which bred his oafish form.
 
@@ -3263,7 +3263,7 @@ I remember (I was a nephew if I remember right) above the din and confusion of l
 
 During the march homewards — an adventure enlightened with a sharp skirmish and two losses at the hands of the police — I know not what passed through the mind of the youth who had hitherto kept so careful a distinction between blood and blood: whether like Hannibal he swore eternal hatred to the English, or whether in his patient German mind he noted it all down as a piece of historical evidence to be used in his diplomatic career, we shall not be told. I think in the main he was simply bewildered: bewildered to madness.
 
-Of the many other things we made him do before Eights Week I have no space to tell: How he asked us what was the fashionable sport and how we told him Polo and made him buy a Polo pony sixteen hands high, with huge great bones and a broken nose, explaining to him that it was stamina and not appearance that the bluff Englishman loved in a horse. How we made him wear his arms embroidered upon his handkerchief (producing several for a pattern and taking the thing as a commonplace by sly allusion for many preparatory days). How we told him that it was the custom to call every Sunday afternoon for half an hour upon the wife of every married Don of one’s College: How we challenged him to the Great College feat of throwing himself into the [[River|river]] at midnight: How finally we persuaded him that the ancient custom of the University demanded the presentation to one’s Tutor at the end of term of an elaborate thesis one hundred pages long upon some subject of Theology: How he was carefully warned that surprise was the essence of this charming [[Tradition|tradition]] and not a word of it must be breathed to the august recipient of the favour: How he sucked in the knowledge that the more curious and strange the matter the higher would be his place in the schools, and how the poor fool elaborately wasted what God gives such men for brains in the construction of a damning refutation against the Monophysites: How his tutor, a humble little nervous fool, thought he was having his leg pulled — all these things I have no space to tell you now.
+Of the many other things we made him do before Eights Week I have no space to tell: How he asked us what was the fashionable sport and how we told him Polo and made him buy a Polo pony sixteen hands high, with huge great bones and a broken nose, explaining to him that it was stamina and not appearance that the bluff Englishman loved in a horse. How we made him wear his arms embroidered upon his handkerchief (producing several for a pattern and taking the thing as a commonplace by sly allusion for many preparatory days). How we told him that it was the custom to call every Sunday afternoon for half an hour upon the wife of every married Don of one’s College: How we challenged him to the Great College feat of throwing himself into the [[motifs/river|river]] at midnight: How finally we persuaded him that the ancient custom of the University demanded the presentation to one’s Tutor at the end of term of an elaborate thesis one hundred pages long upon some subject of Theology: How he was carefully warned that surprise was the essence of this charming [[concepts/tradition|tradition]] and not a word of it must be breathed to the august recipient of the favour: How he sucked in the knowledge that the more curious and strange the matter the higher would be his place in the schools, and how the poor fool elaborately wasted what God gives such men for brains in the construction of a damning refutation against the Monophysites: How his tutor, a humble little nervous fool, thought he was having his leg pulled — all these things I have no space to tell you now.
 
 But he was rich! Doubtless by the custom of his country he is now in some great position plotting the ruin of Britannia and certainly she deserves it in his case. He was most unmercifully ragged.
 
@@ -3272,7 +3272,7 @@ But he was rich! Doubtless by the custom of his country he is now in some great 
 
 XIII LO SCHERZO
 
-CI SONO DUE specie di scherzi: quelli che fanno ridere perché sono veri, e quelli che farebbero ridere comunque. Pensateci bene e scoprirete che questa è una grande [[Truth|verità]]. Ora, lo scherzo che ho qui per la delizia dei cuori infranti è della prima specie. Fa ridere perché è vero. Riguarda un uomo che ho davvero visto e davvero conosciuto e toccato, e che in certe occasioni ho trattato male. Egli fu. La luce del sole giocava sulla sua figura. Forse arranca ancora sotto la luce del sole, e non è ancora disceso in quel regno i cui re sono meno felici del più povero bifolco dei campi di lassù.
+CI SONO DUE specie di scherzi: quelli che fanno ridere perché sono veri, e quelli che farebbero ridere comunque. Pensateci bene e scoprirete che questa è una grande [[concepts/truth|verità]]. Ora, lo scherzo che ho qui per la delizia dei cuori infranti è della prima specie. Fa ridere perché è vero. Riguarda un uomo che ho davvero visto e davvero conosciuto e toccato, e che in certe occasioni ho trattato male. Egli fu. La luce del sole giocava sulla sua figura. Forse arranca ancora sotto la luce del sole, e non è ancora disceso in quel regno i cui re sono meno felici del più povero bifolco dei campi di lassù.
 
 Fu al College che lo conobbi, e la sua conoscenza la conservai — oh, la conservai in modo amorevole e premuroso — finché non fu cresciuto fino alla giovinezza virile. La conserverei ancora, se il Fato me lo permettesse, perché era un tesoro. Non ho mai incontrato nulla di così perfetto ai fini del riso, benché mi si dica che ve ne siano molti simili nella società che generò quella sua figura da zoticone.
 
@@ -3322,7 +3322,7 @@ Ricordo (ero un nipote, se ben rammento) che sopra il frastuono e la confusione 
 
 Durante la marcia verso casa — avventura rallegrata da una vivace scaramuccia e da due perdite per mano della polizia — non so che cosa passasse per la mente del giovane che fino ad allora aveva mantenuto una distinzione così scrupolosa fra sangue e sangue: se, come Annibale, giurasse odio eterno agli inglesi, o se nella sua paziente mente tedesca annotasse ogni cosa come materiale storico da adoperare nella sua carriera diplomatica, non ci sarà dato saperlo. Credo che nel complesso fosse semplicemente sbigottito: sbigottito fino alla follia.
 
-Delle molte altre cose che gli facemmo fare prima della Eights Week non ho spazio per raccontare: come ci chiese quale fosse lo sport alla moda e come gli dicemmo il Polo e gli facemmo comprare un pony da polo alto sedici palmi, con ossa enormi e il naso rotto, spiegandogli che in un cavallo il franco inglese ama la resistenza e non l'aspetto. Come gli facemmo ricamare lo stemma sul fazzoletto (esibendone parecchi come modello e trattando la cosa, per molti giorni preparatori, come un'ovvietà, con sornione allusioni). Come gli dicemmo che era usanza far visita ogni domenica pomeriggio, per mezz'ora, alla moglie di ogni Don sposato del proprio College: come lo sfidammo alla grande impresa del College, gettarsi nel [[River|fiume]] a mezzanotte: come infine lo persuademmo che l'antica consuetudine dell'Università esigeva che alla fine del trimestre si presentasse al proprio Tutor un'elaborata tesi di cento pagine su qualche argomento di Teologia: come fu accuratamente avvertito che la sorpresa era l'essenza di quella deliziosa [[Tradition|tradizione]] e che non se ne doveva far parola all'augusto destinatario del favore: come si bevve la nozione che quanto più curiosa e strana fosse la materia, tanto più alto sarebbe stato il suo posto negli esami, e come quel povero sciocco sprecò minuziosamente ciò che Dio dà a uomini simili in luogo del cervello nel costruire una schiacciante confutazione dei Monofisiti: come il suo tutor, un ometto umile e nervoso, credette che gli si stesse prendendo in giro — tutte queste cose non ho spazio di raccontarvele adesso.
+Delle molte altre cose che gli facemmo fare prima della Eights Week non ho spazio per raccontare: come ci chiese quale fosse lo sport alla moda e come gli dicemmo il Polo e gli facemmo comprare un pony da polo alto sedici palmi, con ossa enormi e il naso rotto, spiegandogli che in un cavallo il franco inglese ama la resistenza e non l'aspetto. Come gli facemmo ricamare lo stemma sul fazzoletto (esibendone parecchi come modello e trattando la cosa, per molti giorni preparatori, come un'ovvietà, con sornione allusioni). Come gli dicemmo che era usanza far visita ogni domenica pomeriggio, per mezz'ora, alla moglie di ogni Don sposato del proprio College: come lo sfidammo alla grande impresa del College, gettarsi nel [[motifs/river|fiume]] a mezzanotte: come infine lo persuademmo che l'antica consuetudine dell'Università esigeva che alla fine del trimestre si presentasse al proprio Tutor un'elaborata tesi di cento pagine su qualche argomento di Teologia: come fu accuratamente avvertito che la sorpresa era l'essenza di quella deliziosa [[concepts/tradition|tradizione]] e che non se ne doveva far parola all'augusto destinatario del favore: come si bevve la nozione che quanto più curiosa e strana fosse la materia, tanto più alto sarebbe stato il suo posto negli esami, e come quel povero sciocco sprecò minuziosamente ciò che Dio dà a uomini simili in luogo del cervello nel costruire una schiacciante confutazione dei Monofisiti: come il suo tutor, un ometto umile e nervoso, credette che gli si stesse prendendo in giro — tutte queste cose non ho spazio di raccontarvele adesso.
 
 Ma era ricco! Senza dubbio, secondo l'usanza del suo paese, occupa ora qualche grande carica e trama la rovina di Britannia; e certamente, nel suo caso, ella se lo merita. Fu preso in giro senza la minima misericordia.
 
@@ -3392,7 +3392,7 @@ It is certainly an extraordinary way of doing business, but that is their look-o
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XIV Il Spia
+XIV Il Spia
 
 Un giorno, mentre camminavo sulla spiaggia di Southsea, vidi un ometto seduto su una sedia da campeggio che disegnava con grande attenzione l’antico forte in pietra rotonda situato nel mezzo delle acque poco profonde; si tratta di uno dei quattro forti presenti in quella zona, e da Southsea sembra trovarsi a circa metà strada verso l’isola.
 
@@ -3488,7 +3488,7 @@ Or am I all wrong? Is the world so rapidly changing that the Young also are caug
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XV I giovani
+XV I giovani
 
 Uno dei miei passatempi, devo ammetterlo un po’ malinconico, in questi bei giorni di primavera, è osservare i giovani per le strade di Londra e chiedermi se siano ciò che ero io alla loro età.
 
@@ -3533,7 +3533,7 @@ From this high knoll a man perceives the two days’ march which Alfred made wit
 
 The struggle of which these two days were the crisis was of more moment to the history of Britain and of Europe than any other which has imperilled the survival of either between the Roman time and our own.
 
-That generation in which the stuff of society had worn most threadbare, and in which its continued life (individually the living memory of the Empire and informed by the [[Faith]]) was most in peril, was not the generation which saw the raids of the fifth century, nor even that which witnessed the breaking of the Mahommedan tide in the eighth, when the Christians carried it through near Poitiers, between the [[River]] Vienne and the Chain, the upland south of Chatellerault. The gravest moment of peril was for that generation whose grandfathers could remember the order of Charlemagne, and which fought its way desperately through the perils of the later ninth century.
+That generation in which the stuff of society had worn most threadbare, and in which its continued life (individually the living memory of the Empire and informed by the [[concepts/faith|Faith]]) was most in peril, was not the generation which saw the raids of the fifth century, nor even that which witnessed the breaking of the Mahommedan tide in the eighth, when the Christians carried it through near Poitiers, between the [[motifs/river|River]] Vienne and the Chain, the upland south of Chatellerault. The gravest moment of peril was for that generation whose grandfathers could remember the order of Charlemagne, and which fought its way desperately through the perils of the later ninth century.
 
 Then it was, during the great Scandinavian harry of the North and West, that Europe might have gone down. Its monastic establishment was shaken; its relics of central government were perishing of themselves; letters had sunk to nothing and building had already about it something nearly savage, when the swirl of the pirates came up all its rivers. And though legend had taken the place of true history, and though the memories of our race were confused almost to dreaming, we were conscious of our past and of our inheritance, and seemed to feel that now we had come to a narrow bridge which might or might not be crossed: a bridge already nearly ruined.
 
@@ -3566,7 +3566,7 @@ All this great affair we have doubtfully followed to-day in no more than some th
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XVI Ethandune
+XVI Ethandune
 
 Nella parrocchia di East Knoyle, nella contea del Wiltshire, e verso il lato occidentale di quella parrocchia, si trova una collina isolata, ricoperta di erica, scoscesa e alta poco più di 700 piedi sul livello del mare. Dalla sua cima un uomo può guardare a ovest, a nord e a est, su un vasto panorama di campagna ondulata.
 
@@ -3576,7 +3576,7 @@ Da questa alta collina, un uomo può osservare il percorso di due giorni che Alf
 
 La lotta la cui crisi si è verificata in questi due giorni ha avuto un'importanza per la storia della Gran Bretagna e dell’Europa maggiore di qualsiasi altra che abbia mai messo in pericolo la sopravvivenza di queste regioni, dal tempo dei Romani fino ad oggi.
 
-Quella generazione, nella quale le strutture della società erano ormai logore al massimo e la cui continuità (sia come memoria individuale dell’Impero sia sotto l’influenza della [[Faith|Fede]]) era maggiormente in pericolo, non fu quella che vide gli attacchi dei secoli V e VI, né tantomeno quella che assistette alla sconfitta delle forze musulmane nell’VIII secolo, quando i cristiani riuscirono a respingerle vicino a Poitiers, tra il [[River|>Fiume]] Vienne e la catena montuosa a sud di Chatellerault. Il momento più grave di pericolo toccò proprio quella generazione i cui nonni ricordavano ancora l’epoca di Carlo Magno, e che dovette lottare disperatamente contro le minacce del tardo IX secolo.
+Quella generazione, nella quale le strutture della società erano ormai logore al massimo e la cui continuità (sia come memoria individuale dell’Impero sia sotto l’influenza della [[concepts/faith|Fede]]) era maggiormente in pericolo, non fu quella che vide gli attacchi dei secoli V e VI, né tantomeno quella che assistette alla sconfitta delle forze musulmane nell’VIII secolo, quando i cristiani riuscirono a respingerle vicino a Poitiers, tra il [[motifs/river|>Fiume]] Vienne e la catena montuosa a sud di Chatellerault. Il momento più grave di pericolo toccò proprio quella generazione i cui nonni ricordavano ancora l’epoca di Carlo Magno, e che dovette lottare disperatamente contro le minacce del tardo IX secolo.
 
 Fu allora, durante le grandi incursioni scandinave nel Nord e nell’Ovest, che l’Europa avrebbe potuto cadere in rovina. La sua struttura monastica fu scossa; i resti del suo governo centrale stavano per scomparire; la comunicazione era quasi interrotta e gli edifici avevano assunto un aspetto quasi selvaggio, quando le flotte dei pirati invasero tutti i suoi fiumi. E sebbene la leggenda avesse sostituito la vera storia, e sebbene i ricordi della nostra razza fossero ormai confusi fino a diventare quasi un sogno, eravamo consapevoli del nostro passato e della nostra eredità. E sembrava che ora fossimo giunti a un ponte stretto, che poteva essere attraversato, oppure no: un ponte ormai quasi distrutto.
 
@@ -3613,7 +3613,7 @@ Tutta questa grande vicenda, che oggi abbiamo probabilmente seguito attraverso s
 
 XVII THE DEATH OF ROBERT THE STRONG
 
-UP IN THE higher valley of the [[River]] Sarthe, which runs between low knolls through easy meadow-land, and is a place of cattle and of pasture, interspersed with woods of no great size, upon a summer morning a troop of some hundreds of men was coming down from the higher land to the crossings of the [[River|river]]. It was in the year 866. The older servants in the chief men’s retinue could remember Charlemagne.
+UP IN THE higher valley of the [[motifs/river|River]] Sarthe, which runs between low knolls through easy meadow-land, and is a place of cattle and of pasture, interspersed with woods of no great size, upon a summer morning a troop of some hundreds of men was coming down from the higher land to the crossings of the [[motifs/river|river]]. It was in the year 866. The older servants in the chief men’s retinue could remember Charlemagne.
 
 Two leaders rode before the troop. They were two great owners of land, and each possessed of commissions from the Imperial authority. The one had come up hastily northwards from Poitiers, the other had marched westward to join him, coming from the Beauce, with his command. Each was a Comes, a Lord Administrator of a countryside and its capital, and had power to levy free men. Their retainers also were many. About them there rode a little group of aides, and behind them, before the footmen, were four squadrons of mounted followers.
 
@@ -3645,14 +3645,14 @@ Four men tended the leader, one man holding his head upon his knee, the three ot
 
 The name of this village and this church was Brissarthe; and the man who so fell, and from whose falling soldier songs and legends arose, was the first father of all the Capetians, the French kings.
 
-From this man sprang Eudes, who defended Paris from the Sea-Rovers: Hugh Capet and Philip Augustus and Louis the Saint and Philip the Fair; and so through century after century to the kings that rode through Italy, to Henri IV, to Louis XIV in the splendour of his wars, and to that last unfortunate who lost the Tuileries on August 10th, 1793. His line survives to-day, for its eldest heir is the man whom the Basques would follow. His expectants call him Don Carlos, and he claims the crown of [[Spain]].
+From this man sprang Eudes, who defended Paris from the Sea-Rovers: Hugh Capet and Philip Augustus and Louis the Saint and Philip the Fair; and so through century after century to the kings that rode through Italy, to Henri IV, to Louis XIV in the splendour of his wars, and to that last unfortunate who lost the Tuileries on August 10th, 1793. His line survives to-day, for its eldest heir is the man whom the Basques would follow. His expectants call him Don Carlos, and he claims the crown of [[settings/spain|Spain]].
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XVII La morte di Robert il Forte
+XVII La morte di Robert il Forte
 
-Nella parte più alta della valle del [[River|_Fiume]] Sarthe, che scorre tra bassi colli attraverso praterie facilmente accessibili, un luogo adatto al pascolo del bestiame e alle coltivazioni, si trovavano alcune foreste di dimensioni non molto grandi. Una mattina d’estate, un gruppo di circa cento uomini stava scendendo dalle zone più alte verso i punti di attraversamento del [[River|_fiume]]. Era l’anno 866. I servitori più anziani che facevano parte della scorta dei capi ricordavano ancora Carlo Magno.
+Nella parte più alta della valle del [[motifs/river|_Fiume]] Sarthe, che scorre tra bassi colli attraverso praterie facilmente accessibili, un luogo adatto al pascolo del bestiame e alle coltivazioni, si trovavano alcune foreste di dimensioni non molto grandi. Una mattina d’estate, un gruppo di circa cento uomini stava scendendo dalle zone più alte verso i punti di attraversamento del [[motifs/river|_fiume]]. Era l’anno 866. I servitori più anziani che facevano parte della scorta dei capi ricordavano ancora Carlo Magno.
 
 Due leader cavalcavano in testa alla truppa. Erano due grandi proprietari terrieri, entrambi muniti di ordini ufficiali dell’autorità imperiale. Uno era arrivato in fretta da nord, proveniente da Poitiers; l’altro si era unito a lui marciando verso ovest, giungendo dalla regione della Beauce con le sue truppe. Ognuno di loro era un “Comes”, un Lord Amministratore di una certa zona e della sua capitale, e aveva il potere di reclutare uomini liberi per i propri eserciti. Anche i loro seguaci erano numerosi: intorno a loro cavalcava un piccolo gruppo di assistenti, mentre dietro di loro, davanti alle truppe a piedi, si trovavano quattro squadroni di cavalieri fedeli.
 
@@ -3684,7 +3684,7 @@ Quattro uomini si prendevano cura del leader: uno teneva la sua testa sulle gino
 
 Il nome di questo villaggio e di questa chiesa era Brissarthe; l’uomo che cadde in quel modo, e dal cui fallimento nacquero canzoni e leggende militari, fu il primo antenato di tutti i Capetingi, i re di Francia.
 
-Da quest’uomo nacque Eudes, che difese Parigi dai pirati marittimi: Ugo Capeto, Filippo Augusto, Luigi il Santo, Filippo il Bello; e così, secolo dopo secolo, fino ai re che attraversarono l’Italia, a Enrico IV, a Luigi XIV nel fulgore delle sue guerre, e fino a quell’ultimo sfortunato che perse le Tuileries l’10 agosto 1793. La sua discendenza sopravvive ancora oggi, poiché il suo erede più anziano è colui che i baschi sarebbero disposti a seguire. Coloro che lo aspettano lo chiamano Don Carlos, e lui rivendica la corona di [[Spain|Spagna]].
+Da quest’uomo nacque Eudes, che difese Parigi dai pirati marittimi: Ugo Capeto, Filippo Augusto, Luigi il Santo, Filippo il Bello; e così, secolo dopo secolo, fino ai re che attraversarono l’Italia, a Enrico IV, a Luigi XIV nel fulgore delle sue guerre, e fino a quell’ultimo sfortunato che perse le Tuileries l’10 agosto 1793. La sua discendenza sopravvive ancora oggi, poiché il suo erede più anziano è colui che i baschi sarebbero disposti a seguire. Coloro che lo aspettano lo chiamano Don Carlos, e lui rivendica la corona di [[settings/spain|Spagna]].
 
 
 
@@ -3705,13 +3705,13 @@ I know a dead city called Timgad, which the sand or the barbarians of the Atlas 
 
 Well, take any other town which has not thus been mummified and preserved but has lived through the intervening time, and you will find that man, active, curious, intense, in all the fruitful centuries of Christian time has endowed them with Crooked Streets, which kind of streets are the most native to Christian men. So it is with Arles, so it is with Nîmes, so it is with old Rome itself, and so it is with the City of London, on which by a special Providence the curse of the Straight Street has never fallen, so that it is to this day a labyrinth of little lanes. It was intended after the Great Fire to set it all out in order with “piazzas” and boulevards and the rest — but the English temper was too strong for any such nonsense, and the streets and the courts took to the natural lines which suit us best.
 
-The Renaissance indeed everywhere began this plague of vistas and of avenues. It was determined three centuries ago to rebuild Paris as regular as a chessboard, and nothing but money saved the town — or rather the lack of money. You may to this day see in a square called the “Place des Vosges” what was intended. But when they had driven their Straight Street two hundred yards or so the exchequer ran dry, and thus was old Paris saved. But in the last seventy years they have hurt it badly again. I have no quarrel with what is regal and magnificent, with splendid ways of a hundred feet or more, with great avenues and lines of palaces; but why should they pull down my nest beyond the [[River|river]] — Straw Street and Rat Street and all those winding belts round the little Church of St. Julien the Poor, where they say that Dante studied and where Danton in the madness of his grief dug up his dead love from the earth on his returning from the wars.
+The Renaissance indeed everywhere began this plague of vistas and of avenues. It was determined three centuries ago to rebuild Paris as regular as a chessboard, and nothing but money saved the town — or rather the lack of money. You may to this day see in a square called the “Place des Vosges” what was intended. But when they had driven their Straight Street two hundred yards or so the exchequer ran dry, and thus was old Paris saved. But in the last seventy years they have hurt it badly again. I have no quarrel with what is regal and magnificent, with splendid ways of a hundred feet or more, with great avenues and lines of palaces; but why should they pull down my nest beyond the [[motifs/river|river]] — Straw Street and Rat Street and all those winding belts round the little Church of St. Julien the Poor, where they say that Dante studied and where Danton in the madness of his grief dug up his dead love from the earth on his returning from the wars.
 
 Crooked Streets will never tire a man, and each will have its character, and each will have a soul of its own. To proceed from one to another is like travelling in a multitude or mixing with a number of friends. In a town of Crooked Streets it is natural that one should be the Moneylenders’ Street and another that of the Burglars, and a third that of the Politicians, and so forth through all the trades and professions.
 
-Then also, how much better are not the beauties of a town seen from Crooked Streets! Consider those old Dutch towns where you suddenly come round a corner upon great stretches of salt water, or those towns of Central [[France]] which from one street and then another show you the Gothic in a hundred ways.
+Then also, how much better are not the beauties of a town seen from Crooked Streets! Consider those old Dutch towns where you suddenly come round a corner upon great stretches of salt water, or those towns of Central [[settings/france|France]] which from one street and then another show you the Gothic in a hundred ways.
 
-It is as it should be when you have the back of Chartres Cathedral towering up above you from between and above two houses gabled and almost meeting. It is what the builders meant when one comes out from such fissures into the great Place, the parvis of the cathedral, like a sailor from a [[River|river]] into the sea. Not that certain buildings were not made particularly for wide approaches and splendid roads, but that these, when they are the rule, sterilize and kill a town. Napoleon was wise enough when he designed that there should lead all up beyond the Tiber to St. Peter’s a vast imperial way. But the modern nondescript horde, which has made Rome its prey, is very ill advised to drive those new Straight Streets foolishly, emptily, with mean façades of plaster and great gaps that will not fill.
+It is as it should be when you have the back of Chartres Cathedral towering up above you from between and above two houses gabled and almost meeting. It is what the builders meant when one comes out from such fissures into the great Place, the parvis of the cathedral, like a sailor from a [[motifs/river|river]] into the sea. Not that certain buildings were not made particularly for wide approaches and splendid roads, but that these, when they are the rule, sterilize and kill a town. Napoleon was wise enough when he designed that there should lead all up beyond the Tiber to St. Peter’s a vast imperial way. But the modern nondescript horde, which has made Rome its prey, is very ill advised to drive those new Straight Streets foolishly, emptily, with mean façades of plaster and great gaps that will not fill.
 
 You will have noted in your travels how the Crooked Streets gather names to themselves which are as individual as they, and which are bound up with them as our names are with all our own human reality and humour. Thus I bear in mind certain streets of the town where I served as a soldier. There was the Street of the Three Little Heaps of Wheat, the Street of the Trumpeting Moor, the Street of the False Heart, and an exceedingly pleasant street called “Who Grumbles at It?” and another short one called “The Street of the Devil in His Haste,” and many others.
 
@@ -3730,7 +3730,7 @@ Let me boldly borrow a quotation which I never saw until the other day, and that
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XVIII Le strade tortuose
+XVIII Le strade tortuose
 
 Perché demoliscono e eliminano quelle strade tortuose che rappresentano la mia gioia e non fanno del male a nessuno?
 
@@ -3744,13 +3744,13 @@ Conosco una città deserta chiamata Timgad, che il sabbiaio o i barbari dell’A
 
 Beh, prendete qualsiasi altra città che non sia stata così “mummificata” e conservata nel corso del tempo, ma che abbia continuato a vivere attraverso i secoli. Scoprirete che l’uomo, nella sua natura attiva, curiosa e intensa, nei secoli fruttuosi dell’epoca cristiana ha creato strade tortuose, proprio quelle strade che sono più tipiche della cultura umana cristiana. Lo stesso vale per Arles, Nîmes, l’antica Roma. E anche per la Città di Londra, su cui, per una particolare provvidenza, non è mai caduta la maledizione delle strade dritte; oggi essa è ancora un labirinto di viottoli stretti. Dopo il Grande Incendio si intendeva sistemare tutto in modo ordinato, con piazze, boulevard e via dicendo. Ma il carattere degli inglesi era troppo forte per tollerare simili sciocchezze; le strade e i cortili hanno semplicemente seguito le linee naturali che meglio si adattano alle nostre esigenze.
 
-Il Rinascimento, infatti, ovunque ha introdotto questa moda di viste e di vie larghe. Tre secoli fa si decise di ricostruire Parigi seguendo uno schema regolare, simile a quello di una scacchiera; fu solo la mancanza di fondi a salvare la città. O meglio, fu proprio l’assenza di denaro a impedire che il progetto venisse portato a termine. Ancora oggi si può vedere, in una piazza chiamata “Place des Vosges”, ciò che era stato previsto in origine. Ma quando decisero di estendere quella strada retta per circa duecento metri, le casse dello Stato rimasero vuote. E così fu salvata l’antica Parigi. Tuttavia, negli ultimi settanta anni, questa città è stata nuovamente gravemente danneggiata. Non ho nulla in contrario a ciò che è regale e maestoso, a viali splendidi larghi centinaia di piedi, a grandi arterie e file di palazzi. Ma perché dovrebbero distruggere il mio “nido”, situato al di là del [[River|fiume]] – quelle strade strette e tortuose intorno alla piccola chiesa di San Giuliano il Povero, dove si dice che Dante studiasse, e dove Danton, nel suo dolore folle, scavò fuori dalla terra il corpo della sua amata al ritorno dalle guerre.
+Il Rinascimento, infatti, ovunque ha introdotto questa moda di viste e di vie larghe. Tre secoli fa si decise di ricostruire Parigi seguendo uno schema regolare, simile a quello di una scacchiera; fu solo la mancanza di fondi a salvare la città. O meglio, fu proprio l’assenza di denaro a impedire che il progetto venisse portato a termine. Ancora oggi si può vedere, in una piazza chiamata “Place des Vosges”, ciò che era stato previsto in origine. Ma quando decisero di estendere quella strada retta per circa duecento metri, le casse dello Stato rimasero vuote. E così fu salvata l’antica Parigi. Tuttavia, negli ultimi settanta anni, questa città è stata nuovamente gravemente danneggiata. Non ho nulla in contrario a ciò che è regale e maestoso, a viali splendidi larghi centinaia di piedi, a grandi arterie e file di palazzi. Ma perché dovrebbero distruggere il mio “nido”, situato al di là del [[motifs/river|fiume]] – quelle strade strette e tortuose intorno alla piccola chiesa di San Giuliano il Povero, dove si dice che Dante studiasse, e dove Danton, nel suo dolore folle, scavò fuori dalla terra il corpo della sua amata al ritorno dalle guerre.
 
 Le strade tortuose non stancano mai un uomo; ognuna di esse ha il proprio carattere e la propria “anima”. Passare da una all’altra è come viaggiare in mezzo a molte persone o mescolarsi con numerosi amici. In una città piena di strade tortuose, è naturale che ci sia una via dedicata ai prestatori di denaro, un’altra ai ladri, una terza ai politici, e così via, per tutte le professioni esistenti.
 
 Inoltre, quanto sono più belle le meraviglie di una città viste da “Crooked Streets”. Pensate a quelle antiche città olandesi dove, all’improvviso, girando l’angolo si scoprono vasti estesi di acqua salata, oppure a quelle città della Francia centrale in cui, passando da una strada all’altra, si può ammirare il gotico sotto mille forme diverse.
 
-È proprio così che dovrebbe essere quando si ha la cattedrale di Chartres che si erge maestosa sopra due case a padiglione che quasi si incontrano. È esattamente ciò che gli architetti avevano in mente quando progettavano questi spazi aperti, come un marinaio che emerge da un [[River|fiume]] per entrare nel mare. Non è che alcune costruzioni non siano state realizzate appositamente per permettere accessi ampi e strade splendide, ma quando queste diventano la regola dominante, sterilizzano e distruggono una città. Napoleone fu abbastanza saggio da progettare un vasto viale imperiale che portasse fino a San Pietro, oltre il Tevere. Ma la moderna folla anonima che ha preso Roma come preda sta commettendo un grave errore costruendo quelle nuove strade dritte in modo sciocco e vuoto, con facciate banali di intonaco e grandi spazi vuoti che non verranno mai riempiti.
+È proprio così che dovrebbe essere quando si ha la cattedrale di Chartres che si erge maestosa sopra due case a padiglione che quasi si incontrano. È esattamente ciò che gli architetti avevano in mente quando progettavano questi spazi aperti, come un marinaio che emerge da un [[motifs/river|fiume]] per entrare nel mare. Non è che alcune costruzioni non siano state realizzate appositamente per permettere accessi ampi e strade splendide, ma quando queste diventano la regola dominante, sterilizzano e distruggono una città. Napoleone fu abbastanza saggio da progettare un vasto viale imperiale che portasse fino a San Pietro, oltre il Tevere. Ma la moderna folla anonima che ha preso Roma come preda sta commettendo un grave errore costruendo quelle nuove strade dritte in modo sciocco e vuoto, con facciate banali di intonaco e grandi spazi vuoti che non verranno mai riempiti.
 
 Avrete sicuramente notato, durante i vostri viaggi, come le strade di questa città prendano nomi propri, nomi unici e distintivi, proprio come i nostri nomi sono legati alla nostra realtà umana e al nostro senso dell’umorismo. Ricordo quindi alcune strade della città dove ho servito come soldato: c’era la Strada dei Tre Piccoli Mucchi di Grano, la Strada del Muore che Suona il Trombone, la Strada del Cuore Falso. E poi c’era una strada davvero piacevole chiamata “Chi Si Lamenta Per Questo?”, e un’altra più corta chiamata “La Strada del Diavolo Nella Sua Affrettatezza”, e molte altre ancora.
 
@@ -3777,15 +3777,15 @@ LITTLE PEN, BE good and flow with ink (which you do not always do) so that I may
 
 * * * * *
 
-One Summer morning as I was wandering from one house to another among the houses of men, I lifted up a bank from a [[River|river]] to a village and good houses, and there I was well entertained. I wish I could recite the names of those chance companions, but I cannot, for they did not tell me their names. June was just beginning in the middle lands where there are vines, but not many, and where the look of the stonework is still northern. The place was not very far from the Western Sea.
+One Summer morning as I was wandering from one house to another among the houses of men, I lifted up a bank from a [[motifs/river|river]] to a village and good houses, and there I was well entertained. I wish I could recite the names of those chance companions, but I cannot, for they did not tell me their names. June was just beginning in the middle lands where there are vines, but not many, and where the look of the stonework is still northern. The place was not very far from the Western Sea.
 
-The bank on which the village stood above that [[River|river]] had behind it a solemn slope of woodland leading up gently to where, two miles or more away, yet not three hundred feet above me, the new green of the tree-tops made a line along the sky. Clouds of a little, happy, hurrying sort ran across the gentle blue of that heaven, and I thought, as I went onward into the forest upland, that I had come to very good things: but indeed I had come to things of a graver kind.
+The bank on which the village stood above that [[motifs/river|river]] had behind it a solemn slope of woodland leading up gently to where, two miles or more away, yet not three hundred feet above me, the new green of the tree-tops made a line along the sky. Clouds of a little, happy, hurrying sort ran across the gentle blue of that heaven, and I thought, as I went onward into the forest upland, that I had come to very good things: but indeed I had come to things of a graver kind.
 
 A path went on athwart the woods and upwards. This path was first regular, and then grew less and less marked, though it still preserved a clear-way through the undergrowth. The new leaves were opened all about me, and there was a little breeze: yet the birds piped singly and the height was lonely when I reached it, as though it were engaged in a sort of contemplation. At the summit was first one small clearing and then another, in which coarse grass grew high within the walls of trees; men had not often come that way, and those men only the few of the countryside.
 
 Just where the slope began to go downwards again upon the further side, these little clearings ceased and the woods closed in again. The path, or what was left of it, wholly failed, and I had now to push my way through many twigs and interlacing brambles, till in a little while that forest ceased abruptly upon the edge of a falling sward, and I saw before me the Valley.
 
-Its floor must have lain higher than that [[River|river]] which I had crossed and left the same morning, for my ascent had been one of two miles or so, and my pushing downward on the further slope far less than one; moreover, that descent had been gentle.
+Its floor must have lain higher than that [[motifs/river|river]] which I had crossed and left the same morning, for my ascent had been one of two miles or so, and my pushing downward on the further slope far less than one; moreover, that descent had been gentle.
 
 The Valley opened to the right at my issue from the wood. To my left hand was a circle of the same trees as those through which I had passed, but to the right and so away northward, the pleasant empty dale.
 
@@ -3814,21 +3814,21 @@ The moor (for so I would call it) upon the further side fell away and away dista
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XIX Il luogo separato
+XIX Il luogo separato
 
 Piccolo Pennello, sii buono e lascia che l’inchiostro scorra liberamente (cosa che non succede sempre), così che io possa raccontarti ciò che mi è accaduto una volta, in un caldo giorno d’estate, e la felicità che ne ho tratto.
 
 * * * * *
 
-Una mattina d’estate, mentre vagavo da una casa all’altra tra le abitazioni degli uomini, raccolsi un banco di terra che si trovava lungo un [[River|>fiume]], vicino a un villaggio e a belle case; lì mi divertii molto. Vorrei poter ricordare i nomi di quei compagni fortuiti, ma non ci riesco, perché loro non mi dissero i loro nomi. A quel tempo giugno stava appena iniziando nelle terre centrali, dove crescono viti, anche se non molte; inoltre, lo stile architettonico delle costruzioni conservava ancora caratteristiche tipiche del nord. Quel luogo non era molto lontano dal Mare Occidentale.
+Una mattina d’estate, mentre vagavo da una casa all’altra tra le abitazioni degli uomini, raccolsi un banco di terra che si trovava lungo un [[motifs/river|>fiume]], vicino a un villaggio e a belle case; lì mi divertii molto. Vorrei poter ricordare i nomi di quei compagni fortuiti, ma non ci riesco, perché loro non mi dissero i loro nomi. A quel tempo giugno stava appena iniziando nelle terre centrali, dove crescono viti, anche se non molte; inoltre, lo stile architettonico delle costruzioni conservava ancora caratteristiche tipiche del nord. Quel luogo non era molto lontano dal Mare Occidentale.
 
-La collina su cui sorgeva il villaggio, sopra quel [[River|fiume]], presentava alle sue spalle un pendio boschivo che si innalzava dolcemente fino a dove, a due miglia di distanza o più, ma comunque non a trecento piedi sopra di me, il nuovo verde dei tetti degli alberi formava una linea lungo l’orizzonte. Nuvole leggere, felici e veloci attraversavano quel cielo azzurro; avanzando nella foresta che si estendeva sulle colline, pensai di essere giunto in luoghi davvero meravigliosi. Ma in realtà, ero arrivato in luoghi di natura molto più profonda e significativa.
+La collina su cui sorgeva il villaggio, sopra quel [[motifs/river|fiume]], presentava alle sue spalle un pendio boschivo che si innalzava dolcemente fino a dove, a due miglia di distanza o più, ma comunque non a trecento piedi sopra di me, il nuovo verde dei tetti degli alberi formava una linea lungo l’orizzonte. Nuvole leggere, felici e veloci attraversavano quel cielo azzurro; avanzando nella foresta che si estendeva sulle colline, pensai di essere giunto in luoghi davvero meravigliosi. Ma in realtà, ero arrivato in luoghi di natura molto più profonda e significativa.
 
 Un sentiero attraversava la foresta e saliva verso l’alto. All’inizio era ben tracciato, ma poi diventava sempre meno evidente, pur mantenendo comunque un percorso chiaro tra i cespugli. I nuovi fogli si aprivano intorno a me e soffiava una leggera brezza; tuttavia gli uccelli cantavano soltanto uno alla volta, e il luogo in alto era desolato quando lo raggiunsi, come se fosse immerso in una sorta di meditazione. In cima c’erano prima un piccolo spazio aperto, poi un altro; lì l’erba alta cresceva tra i tronchi degli alberi. Gli uomini non venivano spesso da quella parte, e solo pochi abitanti della campagna lo facevano.
 
 Esattamente nel punto in cui il pendio iniziava di nuovo a scendere sul lato opposto, questi piccoli spazi aperti finivano e la foresta si richiudeva nuovamente intorno. Il sentiero, o quanto ne rimaneva, scompariva del tutto; dovetti quindi farmi strada tra molti rami e rovi intricati. Dopo un po’, la foresta terminava bruscamente sul bordo di un prato in pendenza, e davanti a me apparve la Valle.
 
-Il suo fondo doveva trovarsi a un'altitudine maggiore rispetto a quella [[River|fiume]] che avevo attraversato la stessa mattina: la mia salita aveva durato circa due miglia, mentre la discesa lungo il pendio successivo era stata molto più breve; inoltre, quella discesa era stata dolce e graduale.
+Il suo fondo doveva trovarsi a un'altitudine maggiore rispetto a quella [[motifs/river|fiume]] che avevo attraversato la stessa mattina: la mia salita aveva durato circa due miglia, mentre la discesa lungo il pendio successivo era stata molto più breve; inoltre, quella discesa era stata dolce e graduale.
 
 La valle si apriva a destra, lontano dal bosco da cui provenivo. A sinistra c'era un cerchio di alberi uguali a quelli attraverso i quali ero passato, ma a destra, e quindi verso nord, si estendeva quella piacevole valle deserta.
 
@@ -3861,21 +3861,21 @@ La brughiera (così la chiamerei) sul lato opposto si estendeva sempre più lont
 
 XX THE EBRO PLAIN
 
-I WISH I could put before men who have not seen that sight, the abrupt shock which the Northern eye receives when it first looks from some rampart of the Pyrenees upon the new deserts of [[Spain]].
+I WISH I could put before men who have not seen that sight, the abrupt shock which the Northern eye receives when it first looks from some rampart of the Pyrenees upon the new deserts of [[settings/spain|Spain]].
 
-“Deserts” is a term at once too violent and too simple. The effect of that amazement is by no means the effect which follows from a similar vision of the Sahara from the red-burnt and precipitous rocks of Atlas; nor is it the effect which those stretches of white blinding sand give forth when, looking southward toward Mexico and the sun, a man shades his eyes to catch a distant mark of human habitation along some rare [[River|river]] of Arizona from the cliff edge of a cut tableland.
+“Deserts” is a term at once too violent and too simple. The effect of that amazement is by no means the effect which follows from a similar vision of the Sahara from the red-burnt and precipitous rocks of Atlas; nor is it the effect which those stretches of white blinding sand give forth when, looking southward toward Mexico and the sun, a man shades his eyes to catch a distant mark of human habitation along some rare [[motifs/river|river]] of Arizona from the cliff edge of a cut tableland.
 
-Corn grows in that new [[Spain]] beneath one: many towns stand founded there; Christian Churches are established; a human society stands firmly, though sparsely, set in that broad waste of land. But to the Northern eye first seeing it — nay, to a Northerner well acquainted with it, but returning to the renewal of so strange a vision — it is always a renewed perplexity how corn, how men, how worship, how society (as he has known them) can have found a place there; and that, although he knows that nowhere in Europe have the fundamental things of Europe been fought for harder and more steadfastly maintained than they have along this naked and burnt valley of the Ebro.
+Corn grows in that new [[settings/spain|Spain]] beneath one: many towns stand founded there; Christian Churches are established; a human society stands firmly, though sparsely, set in that broad waste of land. But to the Northern eye first seeing it — nay, to a Northerner well acquainted with it, but returning to the renewal of so strange a vision — it is always a renewed perplexity how corn, how men, how worship, how society (as he has known them) can have found a place there; and that, although he knows that nowhere in Europe have the fundamental things of Europe been fought for harder and more steadfastly maintained than they have along this naked and burnt valley of the Ebro.
 
-I will suppose the traveller to have made his way on foot from the boundaries of the Basque country, from the Peak of Anie, down through the high Pyrenean silences to those banks of Aragon where the [[River|river]] runs west between parallel ranges, each of which is a bastion of the main Pyrenean chain. I will suppose him to have crossed that roll of thick mud which the tumbling Aragon is in all these lower reaches, to have climbed the further range (which is called “The Mountains of Stone,” or “The Mountains of the Rock”), and, coming upon its further southern slope, to see for the first time spread before him that vast extent of uniform dead-brown stretching through an air metallically clear to the tiny peaks far off on the horizon, which mark the springs of the Tagus. It is a characteristic of the stretched Spanish upland, from within sight of the Pyrenees to within sight of the Southern Sea, that it may thus be grasped in less than half a dozen views, wider than any views in Europe; and, partly from the height of that interior land, partly from the Iberian aridity of its earth, these views are as sharp in detail, as inhuman in their lack of distant veils and blues, as might be the landscapes of a dead world.
+I will suppose the traveller to have made his way on foot from the boundaries of the Basque country, from the Peak of Anie, down through the high Pyrenean silences to those banks of Aragon where the [[motifs/river|river]] runs west between parallel ranges, each of which is a bastion of the main Pyrenean chain. I will suppose him to have crossed that roll of thick mud which the tumbling Aragon is in all these lower reaches, to have climbed the further range (which is called “The Mountains of Stone,” or “The Mountains of the Rock”), and, coming upon its further southern slope, to see for the first time spread before him that vast extent of uniform dead-brown stretching through an air metallically clear to the tiny peaks far off on the horizon, which mark the springs of the Tagus. It is a characteristic of the stretched Spanish upland, from within sight of the Pyrenees to within sight of the Southern Sea, that it may thus be grasped in less than half a dozen views, wider than any views in Europe; and, partly from the height of that interior land, partly from the Iberian aridity of its earth, these views are as sharp in detail, as inhuman in their lack of distant veils and blues, as might be the landscapes of a dead world.
 
 The traveller who should so have passed the high ridge and watershed of the Pyrenees, would have come down from the snows of the Anie through forests not indeed as plentiful as those of the French side, but still dignified by many and noble trees, and alive with cascading water. While he was yet crossing the awful barriers (one standing out parallel before the next) which guard the mountains on their Spainward fall, he would continuously have perceived, though set in dry, unhospitable soil, bushes and clumps of trees; something at times resembling his own Northern conception of pasture-land. The herbage upon which he would pitch his camp, the branches he would pick for firewood, still, though sparse and Southern, would have reminded him of home.
 
-But when he has come over the furthest of these parallel reaches, and sees at last the whole sweep of the Ebro country spread out before him, it is no longer so. His eye detects no trees, save that belt of green which accompanies the course of the [[River|river]], no glint of water. Though human habitation is present in that landscape, it mixes, as it were, with the mud and the dust of the earth from which it rose; and, gazing at a distant clump in the plains beneath him, far off, the traveller asks himself doubtfully whether these hummocks are but small, abrupt, insignificant hills or a nest of the houses of men — things with histories.
+But when he has come over the furthest of these parallel reaches, and sees at last the whole sweep of the Ebro country spread out before him, it is no longer so. His eye detects no trees, save that belt of green which accompanies the course of the [[motifs/river|river]], no glint of water. Though human habitation is present in that landscape, it mixes, as it were, with the mud and the dust of the earth from which it rose; and, gazing at a distant clump in the plains beneath him, far off, the traveller asks himself doubtfully whether these hummocks are but small, abrupt, insignificant hills or a nest of the houses of men — things with histories.
 
 For the rest all that immeasurable sweep of yellow-brown bare earth fills up whatever is not sky, and is contained or framed upon its final limit by mountains as severe as its own empty surface. Those far and dreadful hills are unrelieved by crag or wood or mist; they are a mere height, naked and unfruitful, running along wall-like and cutting off Aragon from the south and the old from the new Castile, save where the higher knot of the Moncayo stands tragic and enormous against the sky.
 
-This experience of [[Spain]], this first discovery of a thing so unexpected and so universally misstated by the pens of travellers and historians, is best seen in autumn sunsets, I think, when behind the mass of the distant mountains an angry sky lights up its unfruitful aspect of desolation, and, though lending it a colour it can never possess in commoner hours and seasons, in no way creates an illusion of fertility or of romance, of yield or of adventure, in that doomed silence.
+This experience of [[settings/spain|Spain]], this first discovery of a thing so unexpected and so universally misstated by the pens of travellers and historians, is best seen in autumn sunsets, I think, when behind the mass of the distant mountains an angry sky lights up its unfruitful aspect of desolation, and, though lending it a colour it can never possess in commoner hours and seasons, in no way creates an illusion of fertility or of romance, of yield or of adventure, in that doomed silence.
 
 The vision of which I speak does not, I know, convey this peculiar impression even to all of the few who may have seen it thus — and they are rare. They are rare because men do not now approach the old places of Europe in the old way. They come into a Spanish town of the north by those insufficient railways of our time. They return back home with no possession of great sights, no more memorable experience than of urban things done less natively, more awkwardly, more slowly than in England. Yet even those few, I say, who enter Spain from the north, as Spain should be entered — over the mountain roads — have not all of them received the impression of which I speak.
 
@@ -3886,23 +3886,23 @@ With a more familiar acquaintance this impression does not diminish, but increas
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XX La Pianura dell’Ebro
+XX La Pianura dell’Ebro
 
-Vorrei tanto poter mostrare a coloro che non hanno mai visto quella scena lo shock improvviso che colpisce lo sguardo di chi proviene dal Nord quando, per la prima volta, da qualche cresta dei Pirenei si ammirano i nuovi deserti della [[Spain|Spagna]].
+Vorrei tanto poter mostrare a coloro che non hanno mai visto quella scena lo shock improvviso che colpisce lo sguardo di chi proviene dal Nord quando, per la prima volta, da qualche cresta dei Pirenei si ammirano i nuovi deserti della [[settings/spain|Spagna]].
 
-“Deserti” è un termine al tempo stesso troppo violento e troppo semplice. L’effetto di quell’ammirazione non è affatto lo stesso che si prova osservando il Sahara dalle rocce rosse e scoscese dell’Atlante; né è lo stesso effetto che suscitano quelle distese di sabbia bianca abbagliante quando, guardando verso sud verso il Messico e il sole, si scherma gli occhi per cercare di individuare, da bordo di un altopiano tagliato a metà, qualche segno lontano di presenza umana lungo qualche raro [[River|fiume]] dell’Arizona.
+“Deserti” è un termine al tempo stesso troppo violento e troppo semplice. L’effetto di quell’ammirazione non è affatto lo stesso che si prova osservando il Sahara dalle rocce rosse e scoscese dell’Atlante; né è lo stesso effetto che suscitano quelle distese di sabbia bianca abbagliante quando, guardando verso sud verso il Messico e il sole, si scherma gli occhi per cercare di individuare, da bordo di un altopiano tagliato a metà, qualche segno lontano di presenza umana lungo qualche raro [[motifs/river|fiume]] dell’Arizona.
 
-Il grano cresce in quella nuova [[Spain|Spagna]]; molte città sono state fondate lì; ci sono chiese cristiane; una società umana si è stabilita, sebbene in modo sparsivo, in quel vasto territorio desolato. Ma per chi la vede per la prima volta dal Nord – o anche per un abitante del Nord che vi ritorna dopo averne riveduto le meraviglie – rimane sempre una grande sorpresa il fatto che il grano, gli uomini, il culto e la società possano essersi insediati in quel luogo; soprattutto considerando che in nessun altro angolo d’Europa le cose fondamentali della civiltà europea sono state difese con tanta determinazione e tenacia come lungo questa valle desolata dell’Ebro.
+Il grano cresce in quella nuova [[settings/spain|Spagna]]; molte città sono state fondate lì; ci sono chiese cristiane; una società umana si è stabilita, sebbene in modo sparsivo, in quel vasto territorio desolato. Ma per chi la vede per la prima volta dal Nord – o anche per un abitante del Nord che vi ritorna dopo averne riveduto le meraviglie – rimane sempre una grande sorpresa il fatto che il grano, gli uomini, il culto e la società possano essersi insediati in quel luogo; soprattutto considerando che in nessun altro angolo d’Europa le cose fondamentali della civiltà europea sono state difese con tanta determinazione e tenacia come lungo questa valle desolata dell’Ebro.
 
-Supponiamo che il viaggiatore abbia percorso a piedi i confini della regione basca, partendo dal Picco di Anie, attraversando le silenziose valli dei Pirenei fino alle rive dell’Aragona, dove il [[River|fiume]] scorre verso ovest tra catene montuose parallele, ciascuna delle quali rappresenta un baluardo della principale catena pirenaica. Supponiamo inoltre che abbia attraversato quella distesa di fango denso presente nelle parti più basse del corso dell’Aragona, sia salito sulla catena montuosa successiva (chiamata “Le Montagne di Pietra” o “Le Montagne della Roccia”) e, arrivando sul suo versante meridionale, abbia visto per la prima volta davanti a sé quell’enorme estensione di terreno di colore marrone scuro, che si estende fino alle minuscole cime lontane all’orizzonte, segnate dalle sorgenti del Tagus. È caratteristico dell’altopiano spagnolo, da dove sono visibili sia i Pirenei che il Mar Mediterraneo, il fatto che queste viste possano essere apprezzate in meno di sei diversi punti di osservazione; tali viste sono più ampie di qualsiasi altra in Europa. In parte a causa dell’altitudine di questa regione interna, in parte a causa della aridità del suolo iberico, queste immagini risultano estremamente nitide nei dettagli e, allo stesso tempo, prive di quelle sfumature lontane e di quel colore blu tipici dei paesaggi naturali; sembrano quasi i paesaggi di un mondo morto.
+Supponiamo che il viaggiatore abbia percorso a piedi i confini della regione basca, partendo dal Picco di Anie, attraversando le silenziose valli dei Pirenei fino alle rive dell’Aragona, dove il [[motifs/river|fiume]] scorre verso ovest tra catene montuose parallele, ciascuna delle quali rappresenta un baluardo della principale catena pirenaica. Supponiamo inoltre che abbia attraversato quella distesa di fango denso presente nelle parti più basse del corso dell’Aragona, sia salito sulla catena montuosa successiva (chiamata “Le Montagne di Pietra” o “Le Montagne della Roccia”) e, arrivando sul suo versante meridionale, abbia visto per la prima volta davanti a sé quell’enorme estensione di terreno di colore marrone scuro, che si estende fino alle minuscole cime lontane all’orizzonte, segnate dalle sorgenti del Tagus. È caratteristico dell’altopiano spagnolo, da dove sono visibili sia i Pirenei che il Mar Mediterraneo, il fatto che queste viste possano essere apprezzate in meno di sei diversi punti di osservazione; tali viste sono più ampie di qualsiasi altra in Europa. In parte a causa dell’altitudine di questa regione interna, in parte a causa della aridità del suolo iberico, queste immagini risultano estremamente nitide nei dettagli e, allo stesso tempo, prive di quelle sfumature lontane e di quel colore blu tipici dei paesaggi naturali; sembrano quasi i paesaggi di un mondo morto.
 
 Il viaggiatore che avesse attraversato quella catena montuosa e il punto di divisione delle acque dei Pirenei sarebbe sceso dalle nevi dell’Anie attraverso foreste non certo così rigogliose come quelle del versante francese, ma comunque caratterizzate da molti alberi nobili e da ruscelli che scorrevano tra di loro. Mentre attraversava quelle imponenti barriere naturali – una dopo l’altra, disposte in fila davanti ai monti che si innalzano verso la Spagna – avrebbe continuato a notare cespugli e gruppi di alberi, sebbene crescessero su terreni aridi e ostili; talvolta questi elementi gli avrebbero ricordato le praterie del suo nord natale. L’erba su cui avrebbe piantato il campo, i rami che avrebbe raccolto per fare legna da ardere, anche se scarsi e tipici di un clima meridionale, gli avrebbero comunque fatto pensare a casa sua.
 
-Ma quando ha superato la parte più lontana di queste zone parallele e finalmente vede davanti a sé tutta l’ampia estensione della regione dell’Ebro, le cose non sono più così. Il suo sguardo non individua alberi, se non quella striscia verde che accompagna il corso del [[River|fiume]], né alcun riflesso d’acqua. Sebbene in quel paesaggio esistano insediamenti umani, questi sembrano mescolarsi, per così dire, con la terra e la polvere da cui sono sorti; e guardando lontano, verso quelle formazioni rocciose nelle pianure sottostanti, il viaggiatore si chiede incerto se quegli rilievi siano semplicemente piccole colline insignificanti o invece insediamenti umani, con le loro storie.
+Ma quando ha superato la parte più lontana di queste zone parallele e finalmente vede davanti a sé tutta l’ampia estensione della regione dell’Ebro, le cose non sono più così. Il suo sguardo non individua alberi, se non quella striscia verde che accompagna il corso del [[motifs/river|fiume]], né alcun riflesso d’acqua. Sebbene in quel paesaggio esistano insediamenti umani, questi sembrano mescolarsi, per così dire, con la terra e la polvere da cui sono sorti; e guardando lontano, verso quelle formazioni rocciose nelle pianure sottostanti, il viaggiatore si chiede incerto se quegli rilievi siano semplicemente piccole colline insignificanti o invece insediamenti umani, con le loro storie.
 
 Per il resto, tutta quell’immensa distesa di terra nuda di colore giallo-marrone riempie tutto ciò che non è cielo; i suoi confini sono delimitati da montagne altrettanto severe della sua stessa superficie desolata. Quei lontani e terribili colli non presentano alcuna rilievo naturale, né cespugli, né alberi, né nebbia; sono semplicemente altezze nude e sterili che si estendono a formare una sorta di “muro”, separando l’Aragona a sud dal nuovo Castiglia a nord, tranne nel punto in cui il massiccio del Moncayo si erge maestoso contro il cielo.
 
-Questa esperienza in [[Spain|Spagna]], questa prima scoperta di qualcosa di così inaspettato e così spesso descritto in modo errato dai viaggiatori e dagli storici, si manifesta al meglio nei tramonti autunnali, penso. Quando, dietro le montagne lontane, un cielo cupo illumina la sua superficie desolata; quel colore, sebbene conferisca alla scena un aspetto particolare, non crea affatto l’illusione di fertilità o romanticismo, né di avventura. In quella silenziosa desolazione, nulla sembra indicare la possibilità di vita o di emozioni.
+Questa esperienza in [[settings/spain|Spagna]], questa prima scoperta di qualcosa di così inaspettato e così spesso descritto in modo errato dai viaggiatori e dagli storici, si manifesta al meglio nei tramonti autunnali, penso. Quando, dietro le montagne lontane, un cielo cupo illumina la sua superficie desolata; quel colore, sebbene conferisca alla scena un aspetto particolare, non crea affatto l’illusione di fertilità o romanticismo, né di avventura. In quella silenziosa desolazione, nulla sembra indicare la possibilità di vita o di emozioni.
 
 La visione di cui parlo, lo so bene, non suscita necessariamente questa particolare impressione nemmeno in coloro pochi che l’hanno vista in questo modo. E sono davvero pochi. Sono pochi perché oggi le persone non visitano più i vecchi luoghi d’Europa nel modo tradizionale. Arrivano in una città spagnola del nord attraverso quei ferrovie insufficienti dei nostri tempi; tornano a casa senza aver assaporato grandi meraviglie, senza aver vissuto esperienze particolarmente memorabili. Solo cose ordinarie, fatte in modo meno naturale, più goffo e più lento rispetto all’Inghilterra. Eppure, anche quei pochi che entrano in Spagna dal nord, nel modo in cui Spagna dovrebbe essere visitata – attraverso le strade di montagna – non tutti hanno ricevuto quell’impressione di cui parlo.
 
@@ -3915,11 +3915,11 @@ Con un conoscente più familiare, questa impressione non diminuisce, ma aumenta.
 <span class="atom-split" data-atom="story_22_the_little_river" data-title="This and That and the Other — THE LITTLE RIVER" data-chapter="THE LITTLE RIVER" data-kind="story" data-tags="motif/river,concept/truth"></span>
 
 
-XXI THE LITTLE [[River|RIVER]]
+XXI THE LITTLE [[motifs/river|RIVER]]
 
 MEN FORGET TOO easily how much the things they see around them in the landscapes of Britain are the work of men. Most of our trees were planted and carefully nurtured by man’s hand. Our ploughs for countless centuries have made even the soil of the plains the lines of a great view; its groups of hedge and of building, of ridge and of road are very largely the creation of that curious and active breed which was set upon this dull round of the earth to enliven it — which, alone of creatures, speaks and has foreknowledge of death and wonders concerning its origin and its end. It is man that has transformed the surface and the outline of the old countries, and even the rivers carry his handiwork.
 
-There is a little [[River|river]] on my land which very singularly shows the historical [[Truth|truth]] of what I am here saying. As God made it, it was but a drain rambling through the marshy clay of tangled underwood, sluggishly feeling its way through the hollows in general weathers, scouring in a shapeless flood after the winter rains, dried up and stagnant in isolated pools in our hot summers. Then, no one will ever know how many centuries ago, man came, busy and curious, and doing with his hands. He took my little [[River|river]]; he began to use it, to make it, and to transform it, and to erect of it a human thing. He gave to it its ancient name, which is the ancient name for water, and which you will find scattered upon streams large and small from the Pyrenees up to the Northern Sea and from the West of Germany to the Atlantic. He called it the Adur; therefore pedants pretend that the name is new and not old, for pedants hate the fruitful humour of antiquity.
+There is a little [[motifs/river|river]] on my land which very singularly shows the historical [[concepts/truth|truth]] of what I am here saying. As God made it, it was but a drain rambling through the marshy clay of tangled underwood, sluggishly feeling its way through the hollows in general weathers, scouring in a shapeless flood after the winter rains, dried up and stagnant in isolated pools in our hot summers. Then, no one will ever know how many centuries ago, man came, busy and curious, and doing with his hands. He took my little [[motifs/river|river]]; he began to use it, to make it, and to transform it, and to erect of it a human thing. He gave to it its ancient name, which is the ancient name for water, and which you will find scattered upon streams large and small from the Pyrenees up to the Northern Sea and from the West of Germany to the Atlantic. He called it the Adur; therefore pedants pretend that the name is new and not old, for pedants hate the fruitful humour of antiquity.
 
 Well, not only did man give my little river (an inconceivable number of generations ago) the name which it still bears, but he bridged it and he banked it, he scoured it and he dammed it, until he made of it a thing to his own purpose and a companion of the countryside.
 
@@ -3944,11 +3944,11 @@ This little river — the river Adur before I have done with it — will be as c
 
 <span class="qlang-split" data-lang="it"></span>
 
-XXI Il piccolo [[River|>fiume]]
+XXI Il piccolo [[motifs/river|>fiume]]
 
 Gli uomini dimenticano troppo facilmente quanto ciò che vedono intorno a loro nei paesaggi della Gran Bretagna sia il risultato del lavoro umano. La maggior parte degli alberi che abbiamo è stata piantata e curata con attenzione dall’uomo. I nostri aratri, per innumerevoli secoli, hanno trasformato persino il terreno delle pianure in paesaggi meravigliosi; i gruppi di siepi, gli edifici, le creste e le strade sono in gran parte frutto dell’ingegno di quella razza curiosa e attiva che è stata messa su questa terra per renderla più vivace. Solo l’uomo, tra tutte le creature, parla della morte, ne conosce la causa e il destino. È l’uomo che ha trasformato la superficie e i contorni delle antiche terre; persino i fiumi portano tracce del suo operato.
 
-C’è un piccolo [[River|fiume]] nella mia terra che mostra in modo molto evidente la [[Truth|verità storica]] di ciò che sto dicendo qui. Così come Dio l’aveva creato, era soltanto un ruscello che serpeggiava attraverso il fango paludoso e i boschi intricati, avanzando lentamente tra le depressioni del terreno, lavando via tutto al passaggio delle piogge invernali per poi prosciugarsi e rimanere stagnante in pozzanghere isolate durante gli estati calde. Chissà da quanti secoli, un uomo arrivò lì: curioso e attivo, iniziò a utilizzare quel piccolo fiume, a modellarlo e trasformarlo, fino a costruire qualcosa di umano con esso. Gli diede il suo nome antico, quello che gli antichi usavano per indicare l’acqua; un nome che si trova ancora oggi su fiumi grandi e piccoli, dai Pirenei al Mare del Nord, dal West della Germania all’Atlantico. Lo chiamò “Adur”; quindi alcuni pedanti pretendono che quel nome sia nuovo e non antico. Ma i pedanti odiano l’ingegnosità creativa dell’antichità.
+C’è un piccolo [[motifs/river|fiume]] nella mia terra che mostra in modo molto evidente la [[concepts/truth|verità storica]] di ciò che sto dicendo qui. Così come Dio l’aveva creato, era soltanto un ruscello che serpeggiava attraverso il fango paludoso e i boschi intricati, avanzando lentamente tra le depressioni del terreno, lavando via tutto al passaggio delle piogge invernali per poi prosciugarsi e rimanere stagnante in pozzanghere isolate durante gli estati calde. Chissà da quanti secoli, un uomo arrivò lì: curioso e attivo, iniziò a utilizzare quel piccolo fiume, a modellarlo e trasformarlo, fino a costruire qualcosa di umano con esso. Gli diede il suo nome antico, quello che gli antichi usavano per indicare l’acqua; un nome che si trova ancora oggi su fiumi grandi e piccoli, dai Pirenei al Mare del Nord, dal West della Germania all’Atlantico. Lo chiamò “Adur”; quindi alcuni pedanti pretendono che quel nome sia nuovo e non antico. Ma i pedanti odiano l’ingegnosità creativa dell’antichità.
 
 Beh, non solo l’uomo ha dato al mio piccolo fiume (un numero inimmaginabile di generazioni fa) il nome che porta ancora oggi, ma l’ha anche attraversato costruendo ponti, ne ha regolato le rive, lo ha pulito e l’ha arginato, fino a trasformarlo in qualcosa che servisse ai suoi scopi e diventasse un elemento integrante del paesaggio circostante.
 
@@ -3987,7 +3987,7 @@ One thing I am looking forward to, dear, is this little coon Shakespeare. Victor
 
 (The rest of this letter is about other matters.)
 
-From Messrs. Hornbull and Sons to [[William Shakespeare]] Esq.
+From Messrs. Hornbull and Sons to [[characters/william-shakespeare|William Shakespeare]] Esq.
 
 Sir, — We have now sent in our account three times, and the last time with a pressing recommendation that you should settle it, but you have not honoured us by any reply. We regret to inform you that if we do not receive a cheque by Wednesday the 22nd inst. we shall be compelled to put the matter into other hands.
 
@@ -3995,7 +3995,7 @@ From John Shakespeare to his mother, Mrs. Shakespeare
 
 Dearest Mamma, — I am afraid Billie really can’t pay that money this week. He was awfully apologetic about it and I gave him a good talking to, but if he hasn’t got it he hasn’t. After all it isn’t absolutely necessary until the 30th.
 
-From Jonathan Truelove Esq. to [[William Shakespeare]] Esq.
+From Jonathan Truelove Esq. to [[characters/william-shakespeare|William Shakespeare]] Esq.
 
 Dear Old Chap, — I am going to do something very unconventional, but we know each other well enough I think. Can you let me have the £5 I lent you two years ago? I have to get in every penny I can this week, suddenly. If you can’t don’t bother to answer, I am not going to press you.
 
@@ -4007,7 +4007,7 @@ By the way, do choke off that silly ass Bates, if he is still worrying about Sha
 
 Yours, H. P.
 
-From James Jevons and Co. Publishers, to [[William Shakespeare]] Esq.
+From James Jevons and Co. Publishers, to [[characters/william-shakespeare|William Shakespeare]] Esq.
 
 Dear Sir, — Our attention has been called to your work by our correspondent in Edinburgh, and he asks us whether we think you could see your way to something dealing with Scottish history. He does not want it cast in the form of a play, for which he says there will be no sale with the Scottish public, seeing the exceedingly English cast of your work, but if you could throw it into Ballad form he thinks something could be done with it.
 
@@ -4106,19 +4106,19 @@ Henry Holt, a Commissioner of the Queen’s &c. &c.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XXII Alcune lettere dell’epoca di Shakespeare
+XXII Alcune lettere dell’epoca di Shakespeare
 
-# Da Lord Mulberry a sua sorella, signora Blake
+Da Lord Mulberry a sua sorella, signora Blake
 
 Mia cara Victoria, — Sì, per favore dica al vostro giovane amico, il signor Shakespeare, che può venire a Paxton sabato. Poiché ha detto di non poter partire prima del treno successivo, farò in modo che Perkins lo vada ad incontrare dal villaggio. Immagino che non sappia cavalcare, comunque non potrei certo farlo salire a cavallo io. Spero che non ci siano problemi per la funzione domenicale.
 
-# Da la signora Myers alla signorina Clogg
+Da la signora Myers alla signorina Clogg
 
 Una cosa che non vedo l’ora di vedere, caro, è questo piccolo Shakespeare. Victoria mi ne ha parlato: a volte suona, altre volte no. Ma dice che in questo momento è molto tranquillo. A volte, però, all’improvviso inizia a parlare. E si può anche farlo cantare! Comunque, voglio davvero vedere com’è fatto.
 
 (Il resto di questa lettera tratta di altre questioni.)
 
-Da Messeri Hornbull e Figli a [[William Shakespeare]] Esq.
+Da Messeri Hornbull e Figli a [[characters/william-shakespeare|William Shakespeare]] Esq.
 
 Signore, — Abbiamo già inviato il nostro conto per tre volte, l’ultima volta con una sollecita richiesta affinché lo liquidaste al più presto, ma non abbiamo ricevuto alcuna risposta da parte vostra. Ci dispiace comunicarvi che, se entro mercoledì 22 non riceveremo un assegno, saremo costretti a rivolgerci ad altre persone per risolvere la questione.
 
@@ -4126,11 +4126,11 @@ Da John Shakespeare a sua madre, la signora Shakespeare
 
 Cara mamma, temo che Billie davvero non possa pagare quella somma di denaro questa settimana. Si è scusato molto per questo e gli ho parlato seriamente, ma se non l’ha, significa proprio che non ce l’ha. Dopotutto, non è assolutamente necessario farlo prima del 30.
 
-Da Jonathan Truelove Esq. a [[William Shakespeare]] Esq.
+Da Jonathan Truelove Esq. a [[characters/william-shakespeare|William Shakespeare]] Esq.
 
 Caro vecchio amico, — sto per fare qualcosa di molto insolito, ma penso che ci conosciamo abbastanza bene. Potresti restituirmi i 5 sterline che ti ho prestato due anni fa? Questa settimana devo assolutamente risparmiare ogni penny possibile. Se non puoi farlo, non preoccuparti di rispondere: non insisterò.
 
-# Da Sir Henry Portman, Procuratore Generale, al Segretario del Procuratore della Corona
+Da Sir Henry Portman, Procuratore Generale, al Segretario del Procuratore della Corona
 
 Caro Jim, — No, non riesco proprio a recarmi al Ritz stasera. Mary dice che vuole che Johnnie lasci Dresda. Che assurdità incomprensibile! Perché non può lasciarlo dove si trova? È come se volesse annegarsi piuttosto che lasciare Dresda. A cosa potrebbe portare tutto questo, in nome del cielo?
 
@@ -4138,13 +4138,13 @@ A proposito, fai pure fuori quel stupido di Bates, se continua a preoccuparsi pe
 
 Di tuo, H. P.
 
-Dai tipografi James Jevons and Co., a [[William Shakespeare]] Signore.
+Dai tipografi James Jevons and Co., a [[characters/william-shakespeare|William Shakespeare]] Signore.
 
 Caro Signore, — Il nostro corrispondente di Edimburgo ci ha segnalato il suo lavoro e ci chiede se riteniamo che possiate dedicarvi a qualcosa che riguardi la storia scozzese. Non desidera che venga presentato sotto forma di dramma, poiché ritiene che non avrebbe successo presso il pubblico scozzese, data l’elevata componente inglese del testo; tuttavia, se poteste adattarlo in forma di ballata, pensa che si possano ottenere buoni risultati.
 
 Certo, simili iniziative all’inizio non possono mai essere particolarmente redditizie. L’azienda di Edimburgo per cui scrive propone di acquistare le copie a 4½ penny o 5 penny, offrendo inoltre una royalty del 10%, da dividere equamente tra la nostra azienda e te stesso. Non potrebbero superare le 500 copie per la prima edizione. Potrebbe valer la pena, nonostante il compenso modesto, prendere in considerazione questa proposta: così potresti garantirti i diritti d’autore e evitare che future edizioni vengano piratate in Scozia. Ti prego di darmi il tuo parere.
 
-# Siamo noi
+Siamo noi
 
 I vostri umili servitori
 
@@ -4170,7 +4170,7 @@ Con grande fedeltà,
 
 Clarence de Vere Chalmondeley.
 
-# Da William Shakespeare a Sir John Fowless (scritto frettolosamente a matita)
+Da William Shakespeare a Sir John Fowless (scritto frettolosamente a matita)
 
 Cercherò di venire se possibile, ma è una situazione terribile. Sono riuscito a far leggere le mie prove solo alle due di notte; dovevo consegnare l’articolo per “The Owl” entro le dieci di questa mattina, poi devo incontrare le persone della Church Defence League lungo la strada per la stazione, e infine prendere un treno per andare in un posto nei Midlands dove la signora Blake vuole che vada. Penso di poter dare un’occhiata al mio lavoro mentre sono in viaggio verso la stazione.
 
@@ -4193,21 +4193,21 @@ Da Mr. Mustwrite di Warwick a William Shakespeare, Esq.
 
 Caro signor Shakespeare, — Non vi ho mai incontrato, e forse penserete che sia una grande impertinenza da parte mia scrivervi in questo modo. Ma devo farlo per esprimervi la profonda e sincera gioia che ho provato leggendo il vostro piccolo opuscolo “Venus e Adonis”, che il reverendo William Clarke, il nostro parroco, mi ha prestato soltanto ieri. L’ho letto tutto d’un fiato e non sono riuscita a calmarmi finché non ho scritto per comunicarvi la profonda consolazione spirituale che ne ho tratto.
 
-# Io sono, caro signor Shakespeare
+Io sono, caro signor Shakespeare
 
 Un tuo grande ammiratore,
 
 George Mustwrite.
 
-# A William Shakespeare Esq.
+A William Shakespeare Esq.
 
 Senza dubbio pensi di essere una brava persona e un amico dei lavoratori. Ma io non la penso così! Alcuni di noi sanno più cose su di te di quanto tu creda. Ti ho visto al Queen’s Hall e mi hai fatto schifo. Non sei nemmeno degno di pulire le scarpe dell’uomo contro cui hai parlato.
 
-# A William Shakespeare Esq., O.H.M.S. (stampato)
+A William Shakespeare Esq., O.H.M.S. (stampato)
 
 Signore, — In conformità alle disposizioni della Legge Benevola di Sua Maestà, vi si richiede di redigere una dichiarazione veritiera e corretta dei vostri emolimenti derivanti da tutte le forme di reddito letterario (in forma scritta), da firmare entro 21 giorni a partire da questa data. Tuttavia, se preferite essere valutati dai Commissari Distrettuali in base a un determinato numero o lettera, ecc., ecc., potete farlo.
 
-# Dall’Earl di Essex a W. Shakespeare Esq. (litografato)
+Dall’Earl di Essex a W. Shakespeare Esq. (litografato)
 
 Caro Signore, — Quest’anno mi sono assunto l’onere di ricoprire il ruolo di presidente della Cena Annuale della Lega per il Sostegno degli Autori Drammatici con Talenti Insufficienti. Sono certo che lei sia a conoscenza degli scopi meravigliosi di questa iniziativa, ecc. Spero di vedere il suo nome tra gli organizzatori, un incarico puramente onorifico che richiede il pagamento di cinque ghinee, ecc. Questa nobile iniziativa, ecc.
 
@@ -4290,7 +4290,7 @@ God bless you!
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XXIII: Conoscenza del Grande
+XXIII: Conoscenza del Grande
 
 In questo paese si riconosce generalmente che conoscere qualcuno che sia più o meno a contatto con le persone molto ricche, e preferibilmente quelle che lo sono da almeno una generazione, rappresenti il modo giusto per entrare in qualsiasi tipo di servizio pubblico.
 
@@ -4353,7 +4353,7 @@ There is no lie like the winsome, pretty, flattering, dilating eyelid-and-lip-an
 
 Fools will believe their lies, but wise men also will take delight in them, as did the Honourable Mr. Gherkin, for some time His Majesty’s Minister of State for the Lord Knows What, who, when policemen would beslaver him, and put their hands to their heads and pay court in a low way, told all that saw it what mummery it was; yet inwardly was pleased. The more at a loss was he when, being by an accident in the Minories too late and his hat lost, his coat torn and muddy, he made to accost an officer, and civilly saying, “Hi — —” had got no further but he took such a crack on the crown with a truncheon as laid him out for dead, and he is not now the same as he was, nor ever will be.
 
-Ministers of religion will both show forth to the people the evil of lying and will also lie themselves in a particular manner, very distinct and formidable: as was clear when one denounced from the pulpit the dreadful vice of hypocrisy and false seeming, whereat a drunkard not yet sober, hearing him say, “Show me the hypocrite!” rose where he was, full in church, and pointed to the pulpit, so that he was thrust out for [[Truth|truth]]-telling by gesture in that sacred place; as was that other who, when the preacher came to “Show me the drunkard,” jerked his thumb over his shoulder at the parson’s wife: a very mutinous act. But to Lying.
+Ministers of religion will both show forth to the people the evil of lying and will also lie themselves in a particular manner, very distinct and formidable: as was clear when one denounced from the pulpit the dreadful vice of hypocrisy and false seeming, whereat a drunkard not yet sober, hearing him say, “Show me the hypocrite!” rose where he was, full in church, and pointed to the pulpit, so that he was thrust out for [[concepts/truth|truth]]-telling by gesture in that sacred place; as was that other who, when the preacher came to “Show me the drunkard,” jerked his thumb over his shoulder at the parson’s wife: a very mutinous act. But to Lying.
 
 He that takes lying easily will take life hardly; as the saw has it, “Easy lying makes hard hearing,” but your constructed and considered, your well-drafted lie — that is the lie for men grown, men discreet and fortunate. To which effect also the poet Shakespeare says in his Sonnets — but no matter! The passage is not for our ears or time, dealing with a dark woman that would have her Will: as women also must if the world is to wag, which leads me to that sort of lie common to all the sex of which we men say that it is the marvellous, the potent, the dextrous, the thorough, or better still, the mysterious, the uncircumvented and not explainable, the stopping-short and confounding-against-right-reason lie, the triumphant lie of Eve our mother: Iseult our sister: Judith, an aunt of ours, who saved a city, and Jael, of holy memory.
 
@@ -4366,7 +4366,7 @@ Amen.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XXIV SUL MENZOGNIO
+XXIV SUL MENZOGNIO
 
 Colui che decide di mentire senza prima aver ponderato attentamente le conseguenze e valutato i pro e i contro, fallirà non nella menzogna in sé, ma nell’obiettivo che essa si propone: innanzitutto, quello di ingannare; ma soprattutto, nel tentativo di trarne profitto, come chiariscono chiaramente Aristotele e altri. Infatti, coloro che mentono lo fanno non per divertimento o capriccio (a parte pochi casi di abitudine), ma al fine di ottenere qualcosa di vantaggioso o di evitare un danno; ad esempio, quando si esagera sulla propria forza fisica, anche se non si è mai combattuto – né con adulti, né tantomeno con bambini – o quando si raccontano fandonie sulle proprie imprese militari, anche se non si è mai partecipato a nessuna battaglia. Queste menzogne hanno lo scopo di guadagnare onore; diversamente dai commercianti e dai politici, che mentono direttamente per ottenere denaro o per evitare conseguenze peggiori.
 
@@ -4409,7 +4409,7 @@ The Knave Slovenly looks to the Dupe to see to details and to meet men in ante-c
 
 The Dupe is in God’s providence very numerous, for his normal rate of breeding is high in the extreme, his normal death-rate low. On this account those curious in this part of natural history may watch the Dupes going about in great herds, conducted and instructed by the Knave; nor is the one to be distinguished from the other by the coat, but rather by the snout and visage, the eyes and, if one be old enough to open the mouth, by the teeth. The Dupe, upon the other hand, will not be of great service in any physical struggle and must not be depended upon for this. It is his delight to browse and when disturbed he scatters rather than flies. Here and there a Rogue Dupe will turn upon his pursuers, in which case he is invariably devoured.
 
-The Dupe has his habitat, but that not easily defined, as in the suburbs of great cities, and in those towns called residential, where the leisured and the inane make their lives seem so much longer than those of others. But there are exceptions also to this, and the Dupe will sometimes migrate in vast numbers from one spot to another in such few years as wholly to discomfit the calculations of the Knaves. Some of these have been found to stand up in public halls before numbers whom they had thought to be Dupes (seeing that the locality was Little Partington) but only to discover a great boiling of Anti-Dupes, men working with their hands or what-not, quite undeceivable, as often as not Atheist, and ready to [[Storm|storm]] the platform and tear the Knave alive.
+The Dupe has his habitat, but that not easily defined, as in the suburbs of great cities, and in those towns called residential, where the leisured and the inane make their lives seem so much longer than those of others. But there are exceptions also to this, and the Dupe will sometimes migrate in vast numbers from one spot to another in such few years as wholly to discomfit the calculations of the Knaves. Some of these have been found to stand up in public halls before numbers whom they had thought to be Dupes (seeing that the locality was Little Partington) but only to discover a great boiling of Anti-Dupes, men working with their hands or what-not, quite undeceivable, as often as not Atheist, and ready to [[motifs/storm|storm]] the platform and tear the Knave alive.
 
 The Dupe loves courtesy and, as has been said above, will tolerate no hint of impatience. On the other hand, he needs no breaking in and will carry upon the back from his earliest years. It is incredible to travellers when they first come across the Dupe what burdens he will bear in this fashion, so that sometimes the whole Plain appears to be a moving mass of gold bags, public salaries, contracts, large houses, yachts, motor-cars, opera houses, howdahs sheltering masters and mistresses, cases of wine, rich foods, and charitable institutions, all as it were endowed with a motion of their own until you stoop down and perceive that the whole of this vast weight sways securely upon the backs of an enormous migratory body of Dupes upon the trek for a Better Land.
 
@@ -4422,7 +4422,7 @@ It is the reward of the Dupe that he is all his life very consistently happy, an
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XXV La vittima ingannata
+XXV La vittima ingannata
 
 La vittima designata è una creatura onesta, e tale onestà rappresenta l’opera più nobile di Dio. La vittima designata non è il servitore del furfante, ma il suo alleato. Non serve, come vorrebbe una filosofia politica troppo semplicistica, soltanto da materiale su cui il furfante possa agire; essa rappresenta anche il sostegno morale del furfante, rafforzandone e confortandone l’anima più profonda, e contribuendo a ridurre gli attriti derivanti dalle menzogne pubbliche. Infatti, i furfanti esistono in molti tipi, e la vittima designata li aiuta tutti.
 
@@ -4463,16 +4463,16 @@ The greatness of the English soul is best discovered in that strong rebuke of ex
 
 The love of England breeds in those who cherish it an attachment to institutions which is half reverential, but also half despairing. In its reverence this appetite produces one hundred living streams of action and of vesture and of custom. In its despair, in its refusal to consider upon what theory the institution lies, it permits the institution to sterilise with age and to grow fantastic.
 
-The love of England has never destroyed, but at times, and again at closer and at closer times (while we have lived) it has failed to save. Yet it will save England in the end. Men are more bound together by this music in their souls than by any other, wherever England is or is spoken of by Englishmen. Here you may discover what religion has been to many, and also you may discover here how legend and how epics arise. In men cut off from England, the love of England grows into a set repetitive thing, a thing of peculiar strength yet almost barren. Nourished and exampled by England, flourishing upon the field of England, the love of England is a love of the very earth: of the smell of growing things and of certain skies, and of tides in [[River|river]]-mouths, and of belts of sea.
+The love of England has never destroyed, but at times, and again at closer and at closer times (while we have lived) it has failed to save. Yet it will save England in the end. Men are more bound together by this music in their souls than by any other, wherever England is or is spoken of by Englishmen. Here you may discover what religion has been to many, and also you may discover here how legend and how epics arise. In men cut off from England, the love of England grows into a set repetitive thing, a thing of peculiar strength yet almost barren. Nourished and exampled by England, flourishing upon the field of England, the love of England is a love of the very earth: of the smell of growing things and of certain skies, and of tides in [[motifs/river|river]]-mouths, and of belts of sea.
 
-If a man would understand this great thing England which is now in peril and which has so worked throughout the world, he must not consider the accident of England’s success and failure, nor certain empty lands filled without battle, nor others ruined by folly, nor certain arts singularly discovered and perfected by England, nor other arts as singularly neglected and decayed. Nor must he contrast the passionate love of England with some high religion of which it takes the place, nor with some active work in contrast with which it seems so empty and unproducing a thing. He must not set it against a creed (it is not so high as that), nor against a conquest or a true empire such as [[Spain]] and Rome possessed.
+If a man would understand this great thing England which is now in peril and which has so worked throughout the world, he must not consider the accident of England’s success and failure, nor certain empty lands filled without battle, nor others ruined by folly, nor certain arts singularly discovered and perfected by England, nor other arts as singularly neglected and decayed. Nor must he contrast the passionate love of England with some high religion of which it takes the place, nor with some active work in contrast with which it seems so empty and unproducing a thing. He must not set it against a creed (it is not so high as that), nor against a conquest or a true empire such as [[settings/spain|Spain]] and Rome possessed.
 
 If a man would understand the love of England he must do what hardly any one would dare to do: that is, he must clearly envisage England defeated in a final war and ask himself, “What should I do then?”
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XXVI: L’Amore per l’Inghilterra
+XXVI: L’Amore per l’Inghilterra
 
 L’amore per la patria è un sentimento comune all’umanità, tuttavia non può essere descritto con un termine generico. L’amore cambia in base all’oggetto amato; il paese che si ama determina la natura dei propri doveri e degli impegni verso di esso.
 
@@ -4486,7 +4486,7 @@ L’amore per l’Inghilterra genera, in coloro che la amano, un legame verso le
 
 L’amore per l’Inghilterra non ha mai distrutto nulla; tuttavia, a volte – e sempre più spesso nel corso del nostro tempo – non è riuscito a salvarla. Eppure, alla fine, salverà l’Inghilterra. Gli uomini sono uniti da questa “musica” che risuona nelle loro anime più di qualsiasi altra cosa; ovunque si trovi l’Inghilterra o venga menzionata dagli inglesi. Qui si può comprendere quale ruolo abbia avuto la religione per molti, e anche come nascano le leggende e gli epici. Negli uomini separati dall’Inghilterra, l’amore per essa diventa qualcosa di meccanico, ripetitivo, dotato di una forza particolare ma quasi sterile. Nutrito e ispirato dall’Inghilterra, fiorendo sul suo suolo, l’amore per l’Inghilterra è un amore per la stessa terra: per il profumo delle piante in crescita, per certi tipi di cielo, per le maree alle foce dei fiumi, per gli estesi mari.
 
-Se un uomo volesse comprendere questa grandiosa nazione che è l’Inghilterra, ora in pericolo e che ha avuto un ruolo così importante in tutto il mondo, non dovrebbe considerare gli eventi casuali che hanno determinato i suoi successi o fallimenti, né certe terre desolate ottenute senza combattere, né altre distrutte dall’errore umano. Non dovrebbe nemmeno confrontare l’amore appassionato per l’Inghilterra con qualche forma di religione “superiore” che essa sostituisce, né con attività concrete che, al suo confronto, sembrano così inutili e improduttive. Non deve nemmeno metterla a confronto con una dottrina religiosa (non è certo così elevata), né con conquiste o imperi veri e propri come quelli posseduti da [[Spain|Spagna]] e Roma.
+Se un uomo volesse comprendere questa grandiosa nazione che è l’Inghilterra, ora in pericolo e che ha avuto un ruolo così importante in tutto il mondo, non dovrebbe considerare gli eventi casuali che hanno determinato i suoi successi o fallimenti, né certe terre desolate ottenute senza combattere, né altre distrutte dall’errore umano. Non dovrebbe nemmeno confrontare l’amore appassionato per l’Inghilterra con qualche forma di religione “superiore” che essa sostituisce, né con attività concrete che, al suo confronto, sembrano così inutili e improduttive. Non deve nemmeno metterla a confronto con una dottrina religiosa (non è certo così elevata), né con conquiste o imperi veri e propri come quelli posseduti da [[settings/spain|Spagna]] e Roma.
 
 Se un uomo volesse davvero comprendere l’amore per l’Inghilterra, dovrebbe fare qualcosa che quasi nessuno oserebbe fare: cioè immaginare chiaramente l’Inghilterra sconfitta in una guerra finale e chiedersi: “Cosa dovrei fare allora?”
 
@@ -4495,7 +4495,7 @@ Se un uomo volesse davvero comprendere l’amore per l’Inghilterra, dovrebbe f
 <span class="atom-split" data-atom="story_28_the_storm" data-title="This and That and the Other — THE STORM" data-chapter="THE STORM" data-kind="story" data-tags="motif/river,motif/storm"></span>
 
 
-XXVII THE [[Storm|STORM]]
+XXVII THE [[motifs/storm|STORM]]
 
 THERE IS A contemptible habit of mind (contemptible in intellect, not in morals) which would withdraw from the mass of life the fecundity of perception.
 
@@ -4503,13 +4503,13 @@ The things that we see are, according to the interpretation of the mystics, ever
 
 There is a detestable habit of mind, which either does not understand, or sneers at, or despises, or even wholly misses — when it is persisted in — this faculty for enjoyment, which even our gross senses endow us with. This evil habit of the mind will have us neglect first colour for form, then form for mere number. It would have us reject those intimations of high and half-remembered things which a new aspect of a tree or house or of a landscape arouses in us. It would compel us to forget, or to let grow stale, the pleasure with which the scent of woods blest us in early youth. Perpetually this evil habit of the mind would flatten the diversity of our lives, suck out the sap of experience, kill humour and exhaust the living spring. It whispers to us the falsehood that years in their advance leave us in some way less alive, it adds to the burden upon our shoulders, not a true weight of sad knowledge as life, however well lived, must properly do, but a useless drag of despair. It would make us numb. In the field of letters it would persuade us that all things may be read and known and that nothing is worth the reading or the knowing, and that the loveliest rhythms or the most subtle connotations of words are but tricks to be despised. In the field of experience it would convince us that nothing bears a fruit and that human life is no more than anarchy or at best an unexplained fragment. Even in that highest of fields, the field of service, it would persuade us that there is nothing to serve. And if we are convinced of that, then every faculty in us turns inward and becomes useless: may be called abortive and fails its end.
 
-These thoughts arose in me as I watched to-day from the platform of my Mill the advance of a great [[Storm|storm]] cloud; for in the majestic progress which lifted itself into the sky and marched against the north from the Channel I perceived that which the evil, modern, drying habit of thought would neglect and would attempt to make material, and also that which I very well knew was in its awfulness allied to the life of the soul.
+These thoughts arose in me as I watched to-day from the platform of my Mill the advance of a great [[motifs/storm|storm]] cloud; for in the majestic progress which lifted itself into the sky and marched against the north from the Channel I perceived that which the evil, modern, drying habit of thought would neglect and would attempt to make material, and also that which I very well knew was in its awfulness allied to the life of the soul.
 
-For very many days the intense heat had parched the Weald. The leaves dropped upon the ash and the oak, the grass was brown, our wells had failed. The little [[River|river]] of the clay was no more than several stagnant pools. We thought the fruits would wither; and our houses, not built for such droughts and such an ardent sun, were like ovens long after the cool of the evening had come.
+For very many days the intense heat had parched the Weald. The leaves dropped upon the ash and the oak, the grass was brown, our wells had failed. The little [[motifs/river|river]] of the clay was no more than several stagnant pools. We thought the fruits would wither; and our houses, not built for such droughts and such an ardent sun, were like ovens long after the cool of the evening had come.
 
 At the end of some days one bank of cloud and then another had passed far off east or far to the west, over the distant forest ridge or over Egdean Side, missing us. We had printed stuff from London telling us how it had rained in London — as though rain falling in London ever fell upon earth or nourished fruits and men!
 
-We thought that we were not to be allowed any little rain out of Heaven. But to-day the great [[Storm|storm]] came up, marching in a dark breastplate and in skirts of rain, with thunders about it; and it was personal. It came right up out of the sea. It walked through the gate which the [[River]] Adur has pierced, leaving upon either side the high chalk hills; the crest of its helmet carried a great plume of white and menacing cloud.
+We thought that we were not to be allowed any little rain out of Heaven. But to-day the great [[motifs/storm|storm]] came up, marching in a dark breastplate and in skirts of rain, with thunders about it; and it was personal. It came right up out of the sea. It walked through the gate which the [[motifs/river|River]] Adur has pierced, leaving upon either side the high chalk hills; the crest of its helmet carried a great plume of white and menacing cloud.
 
 No man seeing this creature as it moved solemn and panoplied could have mistaken the memory or the knowledge that stirred within him at the sight. This was that great master, that great friend, that great enemy, that great idol (for it has been all of these things), which, since we have tilled the earth, we have watched, we have welcomed, we have combated, we have unfortunately worshipped. This was that God of the Storm which has made such tremendous music in the poets.
 
@@ -4524,7 +4524,7 @@ When the storm had passed over northward to other places beyond, and when at eve
 
 <span class="qlang-split" data-lang="it"></span>
 
-XXVII LA [[Storm|Tempesta]]
+XXVII LA [[motifs/storm|Tempesta]]
 
 Esiste un abitudine mentale spregevole (spregevole dal punto di vista intellettuale, non morale) che priverebbe la vita comune della fertilità della percezione.
 
@@ -4534,11 +4534,11 @@ Esiste un abitudine mentale detestabile che, o non comprende affatto, o deride, 
 
 Questi pensieri mi vennero in mente mentre oggi, dalla piattaforma della mia fabbrica, osservavo l'avanzata di una grande nuvola temporalesca; nel suo maestoso movimento verso il cielo, che si spostava verso nord partendo dal Canale della Manica, riconobbi ciò che l’abitudine di pensare moderna e negativa trascurerebbe o cercerebbe di ridurre a qualcosa di materiale, e anche ciò che sapevo molto bene essere, nella sua terribile realtà, strettamente legato alla vita dell’anima.
 
-Per molti giorni il calore intenso aveva prosciugato la regione della Weald. Le foglie cadevano sugli alberi di frassino e quercia; l’erba diventava marrone, le nostre fontane smettevano di funzionare. Il piccolo [[River|fiume]] di fango non era altro che alcuni stagni d’acqua stagnante. Pensavamo che i frutti avrebbero appassito; e le nostre case, non costruite per affrontare tali siccità e un sole così ardente, diventavano come forni anche dopo l’arrivo della frescura serale.
+Per molti giorni il calore intenso aveva prosciugato la regione della Weald. Le foglie cadevano sugli alberi di frassino e quercia; l’erba diventava marrone, le nostre fontane smettevano di funzionare. Il piccolo [[motifs/river|fiume]] di fango non era altro che alcuni stagni d’acqua stagnante. Pensavamo che i frutti avrebbero appassito; e le nostre case, non costruite per affrontare tali siccità e un sole così ardente, diventavano come forni anche dopo l’arrivo della frescura serale.
 
 Dopo alcuni giorni, una nuvola dopo l’altra passava lontano a est o a ovest, sopra le lontane creste dei boschi o sopra la regione di Egdean Side, senza mai raggiungerci. Avevamo ricevuto da Londra lettere che raccontavano di come piovesse lì. Come se la pioggia che cade a Londra potesse mai nutrire la terra, i frutti o le persone!
 
-Pensavamo che non ci fosse permesso nemmeno un po’ di pioggia dal Cielo. Ma oggi è arrivata la grande [[Storm|tempesta]], avanzando con una corazza scura e gonne di pioggia, accompagnata da tuoni; era davvero “personale”. È venuta direttamente dal mare. Ha attraversato il cancello che il [[River|Fiume]] Adur ha creato, lasciando ai lati le alte colline di gesso; sulla cresta del suo elmo si ergeva una grande penna di nuvole bianche e minacciose.
+Pensavamo che non ci fosse permesso nemmeno un po’ di pioggia dal Cielo. Ma oggi è arrivata la grande [[motifs/storm|tempesta]], avanzando con una corazza scura e gonne di pioggia, accompagnata da tuoni; era davvero “personale”. È venuta direttamente dal mare. Ha attraversato il cancello che il [[motifs/river|Fiume]] Adur ha creato, lasciando ai lati le alte colline di gesso; sulla cresta del suo elmo si ergeva una grande penna di nuvole bianche e minacciose.
 
 Nessun uomo che avesse visto questa creatura muoversi con solennità e bardata a festa avrebbe potuto confondere i ricordi o la conoscenza che si risvegliavano in lui alla sua vista. Era quel grande maestro, quel grande amico, quel grande nemico, quel grande idolo (poiché è stato tutte queste cose): da quando abbiamo iniziato a coltivare la terra, l’abbiamo osservata, l’abbiamo accolta, ne abbiamo combattuto contro, e purtroppo, l’abbiamo anche adorata. Era quel Dio della Tempesta che ha ispirato tanta poesia nei poeti.
 
@@ -4559,7 +4559,7 @@ XXVIII THE VALLEY
 
 EVERYBODY KNOWS, I fancy, that kind of landscape in which hills seem to lie in a regular manner, fold on fold, one range behind the other, until at last, behind them all, some higher and grander range dominates and frames the whole.
 
-The infinite variety of light and air and accident of soil provide all men, save those who live in the great plains, with examples of this sort. The traveller in the dry air of California or of [[Spain]], watching great distances from the heights, will recollect such landscapes all his life. They were the reward of his long ascents, and they were the sunset visions which attended his effort when at last he had climbed to the utmost ridge of his day’s westward journey. Such a landscape does a man see from the edges of the Guadarrama, looking eastward and south toward the very distant hills that guard Toledo and the ravines of the Tagus. Such a landscape does a man see at sunrise from the highest of the Cevennes looking right eastward to the dawn as it comes up in the pure and cold air beyond the Alps, and shows you the falling of their foothills, a hundred miles of them, right down to the trench of the Rhone. And by such a landscape is a man gladdened when, upon the escarpments of the Tuolumne, he turns back and looks westward over the Stockton plain towards the coast range which guards the Pacific.
+The infinite variety of light and air and accident of soil provide all men, save those who live in the great plains, with examples of this sort. The traveller in the dry air of California or of [[settings/spain|Spain]], watching great distances from the heights, will recollect such landscapes all his life. They were the reward of his long ascents, and they were the sunset visions which attended his effort when at last he had climbed to the utmost ridge of his day’s westward journey. Such a landscape does a man see from the edges of the Guadarrama, looking eastward and south toward the very distant hills that guard Toledo and the ravines of the Tagus. Such a landscape does a man see at sunrise from the highest of the Cevennes looking right eastward to the dawn as it comes up in the pure and cold air beyond the Alps, and shows you the falling of their foothills, a hundred miles of them, right down to the trench of the Rhone. And by such a landscape is a man gladdened when, upon the escarpments of the Tuolumne, he turns back and looks westward over the Stockton plain towards the coast range which guards the Pacific.
 
 The experience of such a sight is one peculiar in travel, or, for that matter, if a man is lucky enough to enjoy it near his home, insistent and reiterated upon the mind of the home-dwelling man. Such a landscape, for instance, makes a man praise God if his house is upon the height of Mendip, and he can look over falling hills right over the Vale of Severn toward the rank above rank of the Welsh solemnities beyond, until the straight line and height of the Black Mountain against the sky bounds his view and frames it.
 
@@ -4604,11 +4604,11 @@ But the wood was empty. The offer did not come. The moment was lost. The five vo
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XXVIII LA VALLA
+XXVIII LA VALLA
 
 TUTTI CONOSCONO, penso, quel tipo di paesaggio in cui le colline sembrano disposte in modo regolare, una sovrapposta all’altra, fino a quando, alla fine, dietro tutte loro, un massiccio più alto e imponente domina l’intera vista.
 
-La infinita varietà di luci, aria e caratteristiche del terreno fornisce, a tutti gli uomini tranne quelli che vivono nelle grandi pianure, esempi di questo genere. Il viaggiatore che si trova nell’aria secca della California o della [[Spain|Spagna]], osservando vaste distanze da grande altezza, ricorderà per tutta la vita questi paesaggi. Sono stati il premio dei suoi lunghi sforzi; sono le visioni che lo accompagnano quando finalmente raggiunge l’apice del suo viaggio verso ovest. Un tale paesaggio si può ammirare dai margini della catena montuosa dei Guadarrama, guardando a est e a sud verso le lontane colline che proteggono Toledo e i burroni del fiume Tagus. Lo stesso panorama si presenta all’alba dalle cime più alte delle Cevenne, guardando direttamente a est verso l’aurora che sorge nell’aria pura e fredda al di là delle Alpi; si possono vedere le pendici di queste montagne, per centinaia di miglia, scendere fino al corso del fiume Rodano. E è proprio un simile paesaggio a rallegrare l’animo di chi, sulle scarpate del Tuolumne, si gira indietro e guarda a ovest, verso la catena montuosa che costeggia la costa e protegge il Pacifico.
+La infinita varietà di luci, aria e caratteristiche del terreno fornisce, a tutti gli uomini tranne quelli che vivono nelle grandi pianure, esempi di questo genere. Il viaggiatore che si trova nell’aria secca della California o della [[settings/spain|Spagna]], osservando vaste distanze da grande altezza, ricorderà per tutta la vita questi paesaggi. Sono stati il premio dei suoi lunghi sforzi; sono le visioni che lo accompagnano quando finalmente raggiunge l’apice del suo viaggio verso ovest. Un tale paesaggio si può ammirare dai margini della catena montuosa dei Guadarrama, guardando a est e a sud verso le lontane colline che proteggono Toledo e i burroni del fiume Tagus. Lo stesso panorama si presenta all’alba dalle cime più alte delle Cevenne, guardando direttamente a est verso l’aurora che sorge nell’aria pura e fredda al di là delle Alpi; si possono vedere le pendici di queste montagne, per centinaia di miglia, scendere fino al corso del fiume Rodano. E è proprio un simile paesaggio a rallegrare l’animo di chi, sulle scarpate del Tuolumne, si gira indietro e guarda a ovest, verso la catena montuosa che costeggia la costa e protegge il Pacifico.
 
 L’esperienza di un tale spettacolo è qualcosa di particolare quando si viaggia; anzi, anche se una persona ha la fortuna di goderselo vicino a casa sua, quell’impressione rimane costantemente presente nella sua mente. Ad esempio, un paesaggio del genere spinge un uomo a lodare Dio se la sua casa si trova sulle colline di Mendip, e da lì può ammirare le colline che digradano verso la valle del Severn, fino alle maestose cime delle montagne gallesi; la linea d’orizzonte è delimitata dalla Black Mountain, che si staglia contro il cielo, incorniciando tutto quel panorama.
 
@@ -4648,7 +4648,7 @@ Erano passati dieci anni da quando l'avevo vista l'ultima volta, quella piccola 
 
 Ma il luogo era vuoto. L’offerta non arrivò. Quell’opportunità fu persa. I cinque volumi difficilmente verranno scritti ora. Al loro posto vi offro questo, che potete prendere o lasciare. Ma prima di concludere, permettetemi di citare alcune parole molto nobili legate a quella grande locanda, The Griffin, la cui fondazione risale a tempi lontani, nella città di March, nella triste regione dei Fen-Land vicino al Mare Orientale:
 
-#Inghilterra, mio desiderio… cosa non mi hai rifiutato?
+Inghilterra, mio desiderio… cosa non mi hai rifiutato?
 
 
 
@@ -4675,7 +4675,7 @@ The Andorran was a little embarrassed. “No no,” he said, “you do not under
 
 The Englishman smiled more genially still in his good wholesome beard, and said: “Do I look to you like that?”
 
-“No,” said the Andorran gravely, “nor does that gentleman whom you pointed out to me when we left [[France]], your English patron, Mr. Bernstein I think ... you were both well-fed and well-clothed ... and what is more, I know nothing of what you earn. But in Andorra we ask about this man and that man indifferently, and especially about the poorest, and when I asked you about the poorest in your towns you told me that there was not one of them who did not earn, when he was fully working, twenty-five pesetas a week. Now with twenty-five pesetas a week! Oh ...! Why, I could live on five, and five weeks of twenty saved is a hundred pesetas; and with a hundred pesetas ...! Oh, one can buy a great brood sow; or if one is minded for grandeur, the best coat in the world; or again, a little mule just foaled, which in two years, mind you, in two years” (and here he wagged his finger) “will be a great fine beast” (and here he extended his arms), “and the next year will carry a man over the hills and will sell for five hundred pesetas. Yes it will!”
+“No,” said the Andorran gravely, “nor does that gentleman whom you pointed out to me when we left [[settings/france|France]], your English patron, Mr. Bernstein I think ... you were both well-fed and well-clothed ... and what is more, I know nothing of what you earn. But in Andorra we ask about this man and that man indifferently, and especially about the poorest, and when I asked you about the poorest in your towns you told me that there was not one of them who did not earn, when he was fully working, twenty-five pesetas a week. Now with twenty-five pesetas a week! Oh ...! Why, I could live on five, and five weeks of twenty saved is a hundred pesetas; and with a hundred pesetas ...! Oh, one can buy a great brood sow; or if one is minded for grandeur, the best coat in the world; or again, a little mule just foaled, which in two years, mind you, in two years” (and here he wagged his finger) “will be a great fine beast” (and here he extended his arms), “and the next year will carry a man over the hills and will sell for five hundred pesetas. Yes it will!”
 
 The Englishman looked puzzled. “Well,” said he, leaning forward, ticking off on his fingers and becoming practical, “there’s your pound a week.”
 
@@ -4794,7 +4794,7 @@ This was the end of the conversation in Andorra: it was my business to return to
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XXIX Una conversazione in Andorra
+XXIX Una conversazione in Andorra
 
 Un giorno, anzi alcuni mesi fa, mi trovavo in compagnia di due uomini che conversavano tra loro ma con obiettivi opposti. Uno era un inglese che conosceva la lingua catalana e ne andava piuttosto fiero; l’altro era un cittadino della Repubblica di Andorra.
 
@@ -4814,7 +4814,7 @@ L’Andorrano si sentì un po’ imbarazzato. “No, no,” disse, “non capite
 
 L’inglese sorrise ancora più cordialmente, con la sua bella barba folta, e disse: “Vi sembro davvero così?”
 
-“No,” disse l’Andorrano con gravità, “né quel signore che mi avete indicato quando siamo partiti da [[France|Francia]], il vostro protettore inglese, il signor Bernstein, credo. Voi due eravate ben nutriti e ben vestiti. E inoltre, non so nulla di quanto guadagniate. Ma ad Andorra chiediamo informazioni su quest’uomo o quell’altro in modo indifferente, soprattutto sui più poveri. Quando vi ho chiesto dei più poveri nelle vostre città, mi avete detto che non c’era nessuno di loro che, lavorando a pieno ritmo, non guadagnasse venticinque pesetas a settimana. Venticinque pesetas a settimana! Oh. Con cinque pesetas potrei vivere, e cinque settimane di risparmi fanno cento pesetas; e con cento pesetas. Oh, si può comprare una buona scrofa; oppure, se si desidera qualcosa di lussuoso, il miglior cappotto del mondo; o ancora, un piccolo mulo appena nato, che in due anni, ” (e qui agitò il dito) “diventerà un animale davvero prezioso”, (e qui allargò le braccia), “e l’anno dopo potrà portare un uomo oltre le colline e verrà venduto per cinquecento pesetas. Sì, sicuramente!”
+“No,” disse l’Andorrano con gravità, “né quel signore che mi avete indicato quando siamo partiti da [[settings/france|Francia]], il vostro protettore inglese, il signor Bernstein, credo. Voi due eravate ben nutriti e ben vestiti. E inoltre, non so nulla di quanto guadagniate. Ma ad Andorra chiediamo informazioni su quest’uomo o quell’altro in modo indifferente, soprattutto sui più poveri. Quando vi ho chiesto dei più poveri nelle vostre città, mi avete detto che non c’era nessuno di loro che, lavorando a pieno ritmo, non guadagnasse venticinque pesetas a settimana. Venticinque pesetas a settimana! Oh. Con cinque pesetas potrei vivere, e cinque settimane di risparmi fanno cento pesetas; e con cento pesetas. Oh, si può comprare una buona scrofa; oppure, se si desidera qualcosa di lussuoso, il miglior cappotto del mondo; o ancora, un piccolo mulo appena nato, che in due anni, ” (e qui agitò il dito) “diventerà un animale davvero prezioso”, (e qui allargò le braccia), “e l’anno dopo potrà portare un uomo oltre le colline e verrà venduto per cinquecento pesetas. Sì, sicuramente!”
 
 L’inglese sembrava perplesso. “Beh,” disse, inclinandosi in avanti e contando sulle dita con aria pragmatica, “ecco i tuoi un paio di sterline a settimana.”
 
@@ -4939,7 +4939,7 @@ XXX PARIS AND THE EAST
 
 ONE OF THE things that set a modern man wondering is the nature of the survivor of our time.
 
-It is customary to say that all human things decay and end; and if you will take a period long enough of course it is true, for at last the world itself shall dissolve. But when men point to dead Empires, as Egypt or Assyria are dead, or when they point to a fossilised civilisation, as it seems, according to travellers, that certain civilisations of the East are fossilised, or when they point to little broken cities where once were famous towns, one is tempted to remember that to all these there is an exceptional glorious sort which is ourselves. Atlantic Europe, the Europe that was made by the Christian [[Faith]] and in the first four centuries of our era, lives on from change to change in a most marvellous way, and for now two thousand years has not seemed capable of decline. You have in the history of it resurrection after resurrection, and through all those rapid and fantastic developments, transformations far more rapid and far more fantastic than any other of which we have record, a sort of inner fixity of type remains, like the individual soul of the man which makes him always himself in spite of accident and in spite of the process of age; only, Europe differs from such metaphor in this, that it is like some man not subject, it would seem, to mortality.
+It is customary to say that all human things decay and end; and if you will take a period long enough of course it is true, for at last the world itself shall dissolve. But when men point to dead Empires, as Egypt or Assyria are dead, or when they point to a fossilised civilisation, as it seems, according to travellers, that certain civilisations of the East are fossilised, or when they point to little broken cities where once were famous towns, one is tempted to remember that to all these there is an exceptional glorious sort which is ourselves. Atlantic Europe, the Europe that was made by the Christian [[concepts/faith|Faith]] and in the first four centuries of our era, lives on from change to change in a most marvellous way, and for now two thousand years has not seemed capable of decline. You have in the history of it resurrection after resurrection, and through all those rapid and fantastic developments, transformations far more rapid and far more fantastic than any other of which we have record, a sort of inner fixity of type remains, like the individual soul of the man which makes him always himself in spite of accident and in spite of the process of age; only, Europe differs from such metaphor in this, that it is like some man not subject, it would seem, to mortality.
 
 This thought to which I perpetually return, occurred to me as I handled a book on Paris, the illustrations of which were impressions gathered by a Japanese artist. Such a contrast will call up in the minds of many the contrast between something very old and something very new. A reader might say as he glanced at this book: “Here is one of the most ancient things we have, the Oriental mind, and it is looking at one of the freshest and most modern things we have, modern Paris.”
 
@@ -4957,7 +4957,7 @@ It has men within it who imagine that the correction of some large abuse and the
 
 It has a lesser number of other enemies within itself; enemies more dangerous, who do believe that some quite new thing wholly alien to the soul of Europe can be imposed upon that soul. These men are always for anarchy; they delight in emphasising all that seems to diminish the responsibility and the freedom of citizens, and it is their pleasure to accelerate every tendency which may destroy, from whatever side, our permanent solution of domestic and of natural things: families, properties, armies.
 
-The common [[Faith|faith]] which was, as it were, the cement of our civilisation has been hit so hard that some do ask themselves openly the question that was only whispered some little time ago — whether the cement still holds. It is quite certain that if that last symbol and reality disintegrates, if the Catholic Church leaves it, Europe has come to an end.
+The common [[concepts/faith|faith]] which was, as it were, the cement of our civilisation has been hit so hard that some do ask themselves openly the question that was only whispered some little time ago — whether the cement still holds. It is quite certain that if that last symbol and reality disintegrates, if the Catholic Church leaves it, Europe has come to an end.
 
 But these questions are not yet to be met by any reply. And when I ask myself those questions, and I always do when I see the Seine going by the walls that were Cæsar’s parleying ground with the chiefs, Dionysius’s prison, Julian’s office, Dagobert’s palace, and which have been subject to everything from Charlemagne to the Bourbons, and which have (within the memory of men whom I myself have known) ended the Monarchy and seen passing by a wholly new society — when I ask myself those questions, I answer less and less with every year.
 
@@ -4978,7 +4978,7 @@ Never was Europe less conscious of herself, never did she more freely admit the 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XXX Parigi e l’Oriente
+XXX Parigi e l’Oriente
 
 Una delle cose che fanno riflettere l’uomo moderno è la natura di coloro che sopravvivono ai tempi nostri.
 
@@ -5000,7 +5000,7 @@ All’interno di essa ci sono persone che pensano che la correzione di alcuni gr
 
 Contiene un numero inferiore di altri nemici al proprio interno; si tratta di nemici più pericolosi, che credono davvero che qualcosa di completamente nuovo e estraneo all’anima dell’Europa possa essere imposto su di essa. Questi uomini sono sempre a favore dell’anarchia; si compiacciono nel sottolineare tutto ciò che sembra ridurre la responsabilità e la libertà dei cittadini, e trova piacere nell’accelerare ogni tendenza che possa distruggere, da qualsiasi parte provenga, la nostra soluzione permanente ai problemi domestici e naturali: famiglie, proprietà, eserciti.
 
-La comune [[Faith|>fede]], che era in qualche modo il “cemento” della nostra civiltà, è stata colpita così duramente che alcuni si chiedono apertamente quella domanda che fino a poco tempo fa veniva soltanto sussurrata: se quel “cemento” sia ancora efficace. È assolutamente certo che, se anche quell’ultimo simbolo e realtà dovessero dissolversi, se la Chiesa Cattolica dovesse abbandonarli, l’Europa avrebbe raggiunto la fine.
+La comune [[concepts/faith|>fede]], che era in qualche modo il “cemento” della nostra civiltà, è stata colpita così duramente che alcuni si chiedono apertamente quella domanda che fino a poco tempo fa veniva soltanto sussurrata: se quel “cemento” sia ancora efficace. È assolutamente certo che, se anche quell’ultimo simbolo e realtà dovessero dissolversi, se la Chiesa Cattolica dovesse abbandonarli, l’Europa avrebbe raggiunto la fine.
 
 Ma queste domande non hanno ancora ricevuto alcuna risposta. E quando me le pongo, cosa che faccio sempre ogni volta che vedo la Senna scorrere lungo quei muri che furono il luogo delle trattative di Cesare con i capi, la prigione di Dionisio, l’ufficio di Giuliano, il palazzo di Dagoberto; muri che hanno subito tutto, dal tempo di Carlo Magno a quello dei Borboni; muri che, nella memoria di persone che ho conosciuto personalmente, hanno visto finire la Monarchia e passare una società completamente nuova, quando mi pongo queste domande, ogni anno rispondo sempre meno.
 
@@ -5068,7 +5068,7 @@ The Ass!
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XXXI Il ciarlatano umano
+XXXI Il ciarlatano umano
 
 È curioso che lo spirito scientifico non abbia mai condotto alcuna ricerca, nemmeno superficiale, sul tipo umano di ciarlatano.
 
@@ -5123,9 +5123,9 @@ When ancient civilisation broke down its breakdown was accompanied by the infilt
 
 The presence of these foreign elements, coupled with the gradual loss of so many arts, led men to speak of “the Barbarian invasions” as though these were a principal cause of what was in reality no more than the old age and fatigue of an antique society.
 
-Upon the model of this conception men, watching the dissolution of our own civilisation to-day, or at least its corruption, have asked themselves whence those Barbarians would come that should complete its final ruin. The first, the least scholarly and the most obvious idea was that of the swamping of Europe by the East. It was a conception which required no learning, nor even any humour. It was widely adopted and it was ridiculous. Others, with somewhat more grasp of reality, coined the phrase “that the barbarians which should destroy the civilisation of Europe were already breeding under the terrible conditions of our great cities.” This guess contained, indeed, a half-[[Truth|truth]], for though the degradation of human life in the great industrial cities of England and the United States was not a cause of our decline it was very certainly a symptom of it. Moreover, industrial society, notably in this country and in Germany, while increasing rapidly in numbers, is breeding steadily from the worst and most degraded types.
+Upon the model of this conception men, watching the dissolution of our own civilisation to-day, or at least its corruption, have asked themselves whence those Barbarians would come that should complete its final ruin. The first, the least scholarly and the most obvious idea was that of the swamping of Europe by the East. It was a conception which required no learning, nor even any humour. It was widely adopted and it was ridiculous. Others, with somewhat more grasp of reality, coined the phrase “that the barbarians which should destroy the civilisation of Europe were already breeding under the terrible conditions of our great cities.” This guess contained, indeed, a half-[[concepts/truth|truth]], for though the degradation of human life in the great industrial cities of England and the United States was not a cause of our decline it was very certainly a symptom of it. Moreover, industrial society, notably in this country and in Germany, while increasing rapidly in numbers, is breeding steadily from the worst and most degraded types.
 
-But the [[Truth|truth]] is that no such mechanical explanation will suffice to set forth the causes of a civilisation’s decay. Before the barbarian in any form can appear in it, it must already have weakened. If it cannot absorb or reject an alien element it is because its organism has grown enfeebled, and its powers of digestion and excretion are lost or deteriorated; and whoever would restore any society which menaces to fall, must busy himself about the inward nature of that society much more than about its external dangers or the merely mechanical and numerical factors of peril to be discovered within it.
+But the [[concepts/truth|truth]] is that no such mechanical explanation will suffice to set forth the causes of a civilisation’s decay. Before the barbarian in any form can appear in it, it must already have weakened. If it cannot absorb or reject an alien element it is because its organism has grown enfeebled, and its powers of digestion and excretion are lost or deteriorated; and whoever would restore any society which menaces to fall, must busy himself about the inward nature of that society much more than about its external dangers or the merely mechanical and numerical factors of peril to be discovered within it.
 
 Whenever we look for “the barbarian,” whether in the decline of our own society or that of some past one whose historical fate we may be studying, we are looking rather for a visible effect of disease than for its source.
 
@@ -5137,7 +5137,7 @@ So much has passion taken the place of reason in matters of scholarship that pla
 
 Now here we discover the first mark of the Barbarian.
 
-Note that in the peril of English society to-day there is no positive alternative to the ancient philosophic [[Tradition|tradition]] of Christian Europe. It has to meet nothing more substantive than a series of negations, often contradictory, but all allied in their repugnance to a fixed certitude in morals.
+Note that in the peril of English society to-day there is no positive alternative to the ancient philosophic [[concepts/tradition|tradition]] of Christian Europe. It has to meet nothing more substantive than a series of negations, often contradictory, but all allied in their repugnance to a fixed certitude in morals.
 
 So far has this process gone that to be writing as I am here in public, not even defending the creed of Christendom, but postulating its historic place, and pointing out that the considerable attack now carried on against it is symptomatic of the dissolution of our society, has about it something temerarious and odd.
 
@@ -5163,7 +5163,7 @@ The Barbarian is very certain that the exact reproduction in line or colour of a
 
 The Barbarian hopes — and that is the very mark of him — that he can have his cake and eat it too. He will consume what civilisation has slowly produced after generations of selection and effort but he will not be at the pains to replace such goods nor indeed has he a comprehension of the virtue that has brought them into being. Discipline seems to him irrational, on which account he is for ever marvelling that civilisation should have offended him with priests and soldiers.
 
-The Barbarian wonders what strange meaning may lurk in that ancient and solemn [[Truth|truth]], “Sine Auctoritate nulla vita.”
+The Barbarian wonders what strange meaning may lurk in that ancient and solemn [[concepts/truth|truth]], “Sine Auctoritate nulla vita.”
 
 In a word, the Barbarian is discoverable everywhere in this that he cannot make; that he can befog or destroy, but that he cannot sustain; and of every Barbarian in the decline or peril of every civilisation exactly that has been true.
 
@@ -5180,7 +5180,7 @@ The real interest of watching the Barbarian is not the amusement derivable from 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XXXII I Barbari
+XXXII I Barbari
 
 L’uso dell’analogia, che è qualcosa di così saggio e necessario nel giudizio storico, ha la tendenza a assumere le forme più errate.
 
@@ -5188,9 +5188,9 @@ Quando le antiche civiltà crollavano, tale crollo era accompagnato dall’infil
 
 La presenza di questi elementi stranieri, unita alla graduale scomparsa di molte arti, portò le persone a parlare di “le invasioni barbariche” come se queste fossero la causa principale di ciò che in realtà non era altro che l’età avanzata e lo sfinimento di una società antica.
 
-Sulla scia di questa concezione, gli uomini, osservando la dissoluzione della nostra civiltà odierna, o almeno la sua corruzione, si sono chiesti da dove potessero provenire quei “barbari” che avrebbero completato la sua rovina definitiva. La prima idea, quella meno erudita e più ovvia, era che l’Europa sarebbe stata sommersa dall’Oriente. Si trattava di una concezione che non richiedeva alcuna conoscenza specifica, né tantomeno un minimo di senso dell’umorismo. Fu ampiamente diffusa, ma anche ridicola. Altri, con una comprensione più profonda della realtà, proposero l’idea che “i barbari destinati a distruggere la civiltà europea si stessero già riproducendo nelle terribili condizioni delle nostre grandi città”. Questa ipotesi conteneva effettivamente una mezza [[Truth|_verità]], perché sebbene il degrado della vita umana nelle grandi città industriali d’Inghilterra e degli Stati Uniti non fosse la causa del nostro declino, certamente ne era un sintomo evidente. Inoltre, la società industriale, soprattutto in questo paese e in Germania, pur aumentando rapidamente di numero, sta producendo continuamente individui dei tipi peggiori e più degradati.
+Sulla scia di questa concezione, gli uomini, osservando la dissoluzione della nostra civiltà odierna, o almeno la sua corruzione, si sono chiesti da dove potessero provenire quei “barbari” che avrebbero completato la sua rovina definitiva. La prima idea, quella meno erudita e più ovvia, era che l’Europa sarebbe stata sommersa dall’Oriente. Si trattava di una concezione che non richiedeva alcuna conoscenza specifica, né tantomeno un minimo di senso dell’umorismo. Fu ampiamente diffusa, ma anche ridicola. Altri, con una comprensione più profonda della realtà, proposero l’idea che “i barbari destinati a distruggere la civiltà europea si stessero già riproducendo nelle terribili condizioni delle nostre grandi città”. Questa ipotesi conteneva effettivamente una mezza [[concepts/truth|_verità]], perché sebbene il degrado della vita umana nelle grandi città industriali d’Inghilterra e degli Stati Uniti non fosse la causa del nostro declino, certamente ne era un sintomo evidente. Inoltre, la società industriale, soprattutto in questo paese e in Germania, pur aumentando rapidamente di numero, sta producendo continuamente individui dei tipi peggiori e più degradati.
 
-Ma la [[Truth|verità]] è che nessuna spiegazione meccanica può essere sufficiente a chiarire le cause del declino di una civiltà. Prima ancora che un barbaro, in qualsiasi forma si presenti, possa entrarvi a far parte, quella civiltà deve già essersi indebolita. Se non è in grado di assorbire o respingere elementi estranei, significa che il suo “organismo” si è affievolito e le sue capacità di assimilazione e eliminazione sono perdute o deteriorate; quindi chiunque voglia salvare una società minacciata dal declino deve concentrarsi molto di più sulla sua natura interna che sui pericoli esterni, o sugli elementi meccanici e numerici che potrebbero rappresentare un rischio.
+Ma la [[concepts/truth|verità]] è che nessuna spiegazione meccanica può essere sufficiente a chiarire le cause del declino di una civiltà. Prima ancora che un barbaro, in qualsiasi forma si presenti, possa entrarvi a far parte, quella civiltà deve già essersi indebolita. Se non è in grado di assorbire o respingere elementi estranei, significa che il suo “organismo” si è affievolito e le sue capacità di assimilazione e eliminazione sono perdute o deteriorate; quindi chiunque voglia salvare una società minacciata dal declino deve concentrarsi molto di più sulla sua natura interna che sui pericoli esterni, o sugli elementi meccanici e numerici che potrebbero rappresentare un rischio.
 
 Ogni volta che cerchiamo il “barbaro”, sia nel declino della nostra società che in quello di un passato che stiamo studiando, in realtà cerchiamo piuttosto un effetto visibile della malattia, piuttosto che la sua origine.
 
@@ -5228,7 +5228,7 @@ Il barbaro è assolutamente convinto che una riproduzione esatta, sia nelle line
 
 Il Barbaro spera – ed è proprio questo il suo tratto distintivo – di poter avere sia la torta che mangiarla. Consumirà ciò che la civiltà ha prodotto lentamente, attraverso generazioni di selezione e sforzi, ma non si darà la briga di sostituire tali beni; inoltre, non comprende affatto la virtù che ne ha permesso la creazione. La disciplina gli sembra irrazionale, ed è per questo che rimane sempre stupito dal fatto che la civiltà abbia potuto offenderlo con sacerdoti e soldati.
 
-Il barbaro si chiede quale strano significato possa nascondersi in quella antica e solenne [[Truth|_verità]]: “Senza autorità, nessuna vita”.
+Il barbaro si chiede quale strano significato possa nascondersi in quella antica e solenne [[concepts/truth|_verità]]: “Senza autorità, nessuna vita”.
 
 In breve, il “barbaro” si trova ovunque in ciò che non è in grado di creare; può confondere o distruggere, ma non è in grado di preservare; e ciò vale esattamente per ogni “barbaro” che si trovi nel declino o nel pericolo di qualsiasi civiltà.
 
@@ -5255,13 +5255,13 @@ First, the mind must grasp the nature of historic change and must be made acquai
 
 Secondly, the actions of men, the times, that is the dates and hours of such actions, must be strictly and accurately acquired.
 
-Neither of these two foundations upon which repose both the teaching and the learning of history is more important than the other. Each is essential. But a neglect of the due emphasis which one or the other demands, though both be present, warps the judgment of the scholar and forbids him to apply this science to its end, which is the establishment of [[Truth|truth]].
+Neither of these two foundations upon which repose both the teaching and the learning of history is more important than the other. Each is essential. But a neglect of the due emphasis which one or the other demands, though both be present, warps the judgment of the scholar and forbids him to apply this science to its end, which is the establishment of [[concepts/truth|truth]].
 
 History may be called the test of true philosophy, or it may be called in a very modern and not very dignified metaphor, the object lesson of political science; or it may be called the great story whose interest is upon another plane from all other stories because its irony, its tragedy and its moral are real, were acted by real men, and were the manifestation of God.
 
-But whatever brief and epigrammatic summary we make to explain the value of history to men, that formula still remains an imperative formula for them all, and I repeat it: the end of history is the establishment of [[Truth|truth]].
+But whatever brief and epigrammatic summary we make to explain the value of history to men, that formula still remains an imperative formula for them all, and I repeat it: the end of history is the establishment of [[concepts/truth|truth]].
 
-A man may be ever so accurately informed as to the dates, the hours, the weather, the gestures, the type of speech, the very words, the soil, the colour, that between them all would seem to build up a particular event. But if he is not seized of the mind which lay behind all that was human in the business, then no synthesis of his detailed knowledge is possible. He cannot give to the various actions which he knows their due sequence and proportion; he knows not what to omit, nor what to enlarge upon, among so many, or rather a potentially infinite number of facts, and his picture will not be (as some would put it) distorted: it will be false. He will not be able to use history for its end, which is the establishment of [[Truth|truth]]. All that he establishes by his action, all that he confirms and makes stronger, is untruth. And so far as truth is concerned, it would be far better that a man should be possessed of no history than that he should be possessed of history ill-stated as to the factor of human motive.
+A man may be ever so accurately informed as to the dates, the hours, the weather, the gestures, the type of speech, the very words, the soil, the colour, that between them all would seem to build up a particular event. But if he is not seized of the mind which lay behind all that was human in the business, then no synthesis of his detailed knowledge is possible. He cannot give to the various actions which he knows their due sequence and proportion; he knows not what to omit, nor what to enlarge upon, among so many, or rather a potentially infinite number of facts, and his picture will not be (as some would put it) distorted: it will be false. He will not be able to use history for its end, which is the establishment of [[concepts/truth|truth]]. All that he establishes by his action, all that he confirms and makes stronger, is untruth. And so far as truth is concerned, it would be far better that a man should be possessed of no history than that he should be possessed of history ill-stated as to the factor of human motive.
 
 A living man has to aid his judgment and to guide him in the establishment of truth, contemporary experience. Other men are his daily companions. The consequence and the living principles of their acts and of his own are fully within his grasp.
 
@@ -5285,14 +5285,14 @@ Indeed — though metaphors are dangerous in such a matter — a metaphor may wi
 
 To increase one’s knowledge by research, to train one’s self to an accurate memory of it, does not mean that one’s view of the past is continually changing. Only a fool can think, for instance, that some document somewhere will be discovered to show that the mass of the people of London had for James II an ardent veneration, or that the national defence organised by the Committee of Public Safety during the French Revolution was due to the unpopular tyranny of a secret society. But research in either of these cases, and a minute and increasing acquaintance with detail, does show one London largely apathetic in the first place, and does show one large sections of rebellious feeling in the armies of the Terror. It permits one to appreciate what energy and what initiative were needed for the overthrow of the Stuarts, and to see from how small a body of wealthy and determined men that policy proceeded. It permits one to understand how the battles of ‘93 could never have been fought upon the basis of popular enthusiasm alone; it permits one to assert without exaggeration that the autocratic power of the Committee of Public Safety and the secrecy of its action was a necessary condition of the National defence during the French Revolution.
 
-One might conclude by saying what might seem too good to be true: namely, that minute and accurate information upon details (the characteristic of our time in the science of history) must of its own nature so corroborate just and general judgments of the past, that through it, when the modern phase of wilful distortion is over, mere blind scholarship will restore [[Tradition|tradition]].
+One might conclude by saying what might seem too good to be true: namely, that minute and accurate information upon details (the characteristic of our time in the science of history) must of its own nature so corroborate just and general judgments of the past, that through it, when the modern phase of wilful distortion is over, mere blind scholarship will restore [[concepts/tradition|tradition]].
 
 I say it sounds too good to be true. But three or four examples of such action are already before us. Consider the Gospel of St. John, for instance, or what is called “the Higher Criticism” of the old Hebrew literature, and ask yourselves whether modern scholarship has not tended to restore the long and sane judgment of men, which, when that scholarship was still imperfect, seemed to imperil.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XXXIII: Conoscere il passato
+XXXIII: Conoscere il passato
 
 Per comprendere il passato sono necessarie due tipi di informazioni.
 
@@ -5300,13 +5300,13 @@ Innanzitutto, la mente deve comprendere la natura del cambiamento storico e deve
 
 In secondo luogo, le azioni umane, nonché i momenti in cui tali azioni avvengono, cioè le date e gli orari, devono essere raccolti in modo rigoroso e accurato.
 
-Nessuna di queste due basi su cui poggiano sia l’insegnamento che lo studio della storia è più importante dell’altra. Entrambe sono essenziali. Tuttavia, trascurare l’enfasi dovuta a una o all’altra, anche se entrambe sono presenti, distorce il giudizio dello studioso e gli impedisce di applicare questa scienza al suo scopo principale: stabilire la [[Truth|verità]].
+Nessuna di queste due basi su cui poggiano sia l’insegnamento che lo studio della storia è più importante dell’altra. Entrambe sono essenziali. Tuttavia, trascurare l’enfasi dovuta a una o all’altra, anche se entrambe sono presenti, distorce il giudizio dello studioso e gli impedisce di applicare questa scienza al suo scopo principale: stabilire la [[concepts/truth|verità]].
 
 La storia può essere definita la prova della vera filosofia; oppure, con una metafora molto moderna e non del tutto dignitosa, l’esempio concreto delle scienze politiche; ancora, può essere considerata quella grande storia il cui interesse si colloca su un piano diverso da quello di tutte le altre storie: la sua ironia, la sua tragedia e i suoi insegnamenti morali sono reali, sono stati vissuti da persone reali e rappresentano una manifestazione di Dio.
 
-Ma qualsiasi sia la breve e incisiva sintesi che facciamo per spiegare il valore della storia per gli uomini, quella formula rimane comunque un imperativo valido per tutti loro. E lo ripeto: la fine della storia è l’instaurazione della [[Truth|verità]].
+Ma qualsiasi sia la breve e incisiva sintesi che facciamo per spiegare il valore della storia per gli uomini, quella formula rimane comunque un imperativo valido per tutti loro. E lo ripeto: la fine della storia è l’instaurazione della [[concepts/truth|verità]].
 
-Un uomo può essere informato con la massima precisione sui giorni, sulle ore, sul tempo, sui gesti, sul tipo di discorso, sulle parole stesse, sul terreno, sul colore; tuttavia, se non riesce a comprendere la mente che si cela dietro tutto ciò che è umano in quegli eventi, allora nessuna sintesi dei suoi dettagliati conoscimenti è possibile. Non è in grado di attribuire alle varie azioni il giusto ordine e la giusta proporzione; non sa cosa omettere e cosa approfondire, tra un numero così grande – anzi, potenzialmente infinito – di fatti; quindi la sua rappresentazione degli eventi non sarà soltanto distorta, ma sarà semplicemente falsa. Non riuscirà a utilizzare la storia al suo scopo principale, che è quello di stabilire la [[Truth|verità]]. Tutto ciò che ottiene con le sue azioni, tutto ciò che conferma e rafforza, non è altro che menzogna. E, per quanto riguarda la verità, sarebbe molto meglio che un uomo non possedesse alcuna conoscenza storica, piuttosto che possederla in modo errato, ignorando il fattore delle motivazioni umane che stanno alla base degli eventi.
+Un uomo può essere informato con la massima precisione sui giorni, sulle ore, sul tempo, sui gesti, sul tipo di discorso, sulle parole stesse, sul terreno, sul colore; tuttavia, se non riesce a comprendere la mente che si cela dietro tutto ciò che è umano in quegli eventi, allora nessuna sintesi dei suoi dettagliati conoscimenti è possibile. Non è in grado di attribuire alle varie azioni il giusto ordine e la giusta proporzione; non sa cosa omettere e cosa approfondire, tra un numero così grande – anzi, potenzialmente infinito – di fatti; quindi la sua rappresentazione degli eventi non sarà soltanto distorta, ma sarà semplicemente falsa. Non riuscirà a utilizzare la storia al suo scopo principale, che è quello di stabilire la [[concepts/truth|verità]]. Tutto ciò che ottiene con le sue azioni, tutto ciò che conferma e rafforza, non è altro che menzogna. E, per quanto riguarda la verità, sarebbe molto meglio che un uomo non possedesse alcuna conoscenza storica, piuttosto che possederla in modo errato, ignorando il fattore delle motivazioni umane che stanno alla base degli eventi.
 
 Un uomo vivente deve aiutare il proprio giudizio e guidarlo nella ricerca della verità, attraverso l’esperienza quotidiana. Gli altri uomini sono i suoi compagni di vita; le conseguenze delle loro azioni, così come quelle delle sue stesse, sono completamente alla sua portata.
 
@@ -5330,7 +5330,7 @@ Infatti – anche se le metafore sono pericolose in una questione del genere –
 
 Aumentare le proprie conoscenze attraverso la ricerca, allenarsi ad una memoria accurata dei fatti, non significa necessariamente che la propria visione del passato cambi continuamente. Solo un idiota potrebbe pensare, ad esempio, che qualche documento scoperto in qualche parte possa dimostrare che la maggior parte della popolazione di Londra nutriva un profondo rispetto per Giacomo II, o che la difesa nazionale organizzata dal Comitato di Sicurezza Pubblica durante la Rivoluzione Francese fosse il risultato della tirannia di una società segreta. Tuttavia, la ricerca in entrambi i casi, nonché una conoscenza sempre più approfondita dei dettagli, dimostra che, in realtà, gran parte della popolazione di Londra era piuttosto indifferente nei confronti di Giacomo II; inoltre, evidenzia la presenza di forti sentimenti ribelli all’interno delle armate del Terrore. Questa ricerca permette di comprendere quanta energia e iniziativa siano state necessarie per rovesciare la dinastia Stuart, e di rendersi conto di quanto tale politica sia stata realizzata da un gruppo ristretto di uomini ricchi e determinati. Inoltre, permette di capire come le battaglie del 1793 non avrebbero mai potuto essere vinte soltanto grazie all’entusiasmo popolare; permette anche di affermare, senza esagerazione, che il potere autocratico del Comitato di Sicurezza Pubblica e la segretezza delle sue azioni siano state condizioni indispensabili per la difesa nazionale durante la Rivoluzione Francese.
 
-Si potrebbe concludere dicendo qualcosa che potrebbe sembrare troppo bello per essere vero: ovvero che informazioni minute e precise sui dettagli (caratteristiche della nostra epoca nella scienza storica) devono, per loro natura, corroborare giudizi equi e generali sul passato; in questo modo, quando la fase moderna di distorsione volontaria sarà terminata, semplicemente lo studio accademico restituirà la [[Tradition|tradizione]].
+Si potrebbe concludere dicendo qualcosa che potrebbe sembrare troppo bello per essere vero: ovvero che informazioni minute e precise sui dettagli (caratteristiche della nostra epoca nella scienza storica) devono, per loro natura, corroborare giudizi equi e generali sul passato; in questo modo, quando la fase moderna di distorsione volontaria sarà terminata, semplicemente lo studio accademico restituirà la [[concepts/tradition|tradizione]].
 
 Dico che suona troppo bello per essere vero. Ma già abbiamo tre o quattro esempi di questo tipo di approccio. Pensate, ad esempio, al Vangelo di San Giovanni, o a quella che viene chiamata “la Critica Superiore” della vecchia letteratura ebraica. E chiedetevi se lo studio moderno non abbia tendenzialmente ripristinato i giudizi saggi e lungimiranti degli uomini, quei giudizi che, quando tale studio era ancora imperfetto, sembravano essere in pericolo.
 
@@ -5347,7 +5347,7 @@ But I also know that a mere appeal to reason will be of very little use, so I pr
 
 The Very Learned when they desire to fix the date or the authenticity or both of a piece of literature, adopt among other postulates, these:
 
-(1) That [[Tradition|tradition]] doesn’t count.
+(1) That [[concepts/tradition|tradition]] doesn’t count.
 
 (2) That common sense, one’s general knowledge of the time, and all that multiplex integration which the same mind effects from a million tiny data to a general judgment, is too tiny to be worthy of their august consideration.
 
@@ -5357,7 +5357,7 @@ These are their negative postulates in dealing with a document.
 
 As to their positive methods, of one hundred insufficient tricks I choose in particular these:
 
-(1) The establishment of the date of the document against [[Tradition|tradition]] and general air, by allusion discovered within it.
+(1) The establishment of the date of the document against [[concepts/tradition|tradition]] and general air, by allusion discovered within it.
 
 (2) The conception that all unusual events recorded in it are mythical, and therefore necessarily anterior to the document.
 
@@ -5367,7 +5367,7 @@ As to their positive methods, of one hundred insufficient tricks I choose in par
 
 (5) The fixed dogma that most writers of the past have spent most of their time in forging.
 
-Now to test these nincompoops I will consider a contemporary document which I know a good deal about, called The Path to Rome. It professes to be the record of a journey by one H. Belloc in the year 1901 from Toul in Lorraine to Rome in Italy. I will suppose that opus to have survived through some accident into a time which preserved few contemporary documents, but which had, through [[Tradition|tradition]] and through a knowledge of surrounding circumstance, a popular idea of what the opening of the twentieth century was like, and a pathetic belief that Belloc had taken this journey in the year 1901.
+Now to test these nincompoops I will consider a contemporary document which I know a good deal about, called The Path to Rome. It professes to be the record of a journey by one H. Belloc in the year 1901 from Toul in Lorraine to Rome in Italy. I will suppose that opus to have survived through some accident into a time which preserved few contemporary documents, but which had, through [[concepts/tradition|tradition]] and through a knowledge of surrounding circumstance, a popular idea of what the opening of the twentieth century was like, and a pathetic belief that Belloc had taken this journey in the year 1901.
 
 This is how the Very Learned would proceed to teach the vulgar a lesson in scepticism.
 
@@ -5416,7 +5416,7 @@ That is how the damned fools write: and with brains of that standard Germans ask
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XXXIV La critica più severa
+XXXIV La critica più severa
 
 Da tempo desidero esprimere la mia protesta contro l’atteggiamento che i cosiddetti “very learned” assumono riguardo alle prove letterarie. So bene che questi studiosi cambiano spesso opinione; so anche che in questo paese sono indietro di circa cinquant’anni rispetto al Continente. So infine che la loro devozione verso quei metodi tedeschi estremamente poco intelligenti verrà presto scossa dalla scoperta che esistono metodi nuovi all’estero, e intendo “all’estero” in entrambi i sensi del termine: perché, grazie al cielo, da molto tempo esistono già metodi nuovi.
 
@@ -5424,7 +5424,7 @@ Ma so anche che un semplice appello alla ragione sarà di scarso utilizzo; perci
 
 Gli studiosi molto eruditi, quando desiderano stabilire la data di composizione, l’autenticità o entrambe le cose riguardo a un testo letterario, adottano, tra gli altri principi, questi:
 
-(1) Quella [[Tradition|tradizione]] non conta.
+(1) Quella [[concepts/tradition|tradizione]] non conta.
 
 (2) Quel buon senso, quella conoscenza generale del momento, e tutta quell’integrazione complessa che lo stesso intelletto effettua, partendo da milioni di informazioni minuscule per giungere a una conclusione generale, sono elementi troppo banali per meritare la loro attenzione.
 
@@ -5434,7 +5434,7 @@ Questi sono i loro postulati negativi nel trattare con un documento.
 
 Per quanto riguarda i loro metodi positivi, tra cento trucchi insufficienti scelgo proprio questi.
 
-(1) La determinazione della data del documento, in base alla [[Tradition|tradizione]] e alle informazioni generalmente disponibili, attraverso le allusioni presenti al suo interno.
+(1) La determinazione della data del documento, in base alla [[concepts/tradition|tradizione]] e alle informazioni generalmente disponibili, attraverso le allusioni presenti al suo interno.
 
 (2) L’idea che tutti gli eventi insoliti registrati in esso siano di natura mitica, e quindi necessariamente precedenti alla stesura del documento stesso.
 
@@ -5444,7 +5444,7 @@ Per quanto riguarda i loro metodi positivi, tra cento trucchi insufficienti scel
 
 Il dogma fisso che la maggior parte degli scrittori del passato ha trascorso la maggior parte del proprio tempo a forgiare.
 
-Ora, per mettere alla prova questi incompetenti, considererò un documento contemporaneo di cui conosco bene i dettagli: si intitola “Il cammino verso Roma”. Afferma di essere il resoconto di un viaggio compiuto da H. Belloc nel 1901 da Toul, in Lorena, fino a Roma, in Italia. Supporrò che questo testo sia sopravvissuto per qualche motivo in un’epoca in cui pochi documenti contemporanei sono rimasti; tuttavia, grazie alla [[Tradition|tradizione]] e alla conoscenza delle circostanze del tempo, la gente aveva una certa idea di come fosse l’inizio del ventesimo secolo, e credeva, in modo un po’ ingenuo, che Belloc avesse davvero intrapreso quel viaggio nel 1901.
+Ora, per mettere alla prova questi incompetenti, considererò un documento contemporaneo di cui conosco bene i dettagli: si intitola “Il cammino verso Roma”. Afferma di essere il resoconto di un viaggio compiuto da H. Belloc nel 1901 da Toul, in Lorena, fino a Roma, in Italia. Supporrò che questo testo sia sopravvissuto per qualche motivo in un’epoca in cui pochi documenti contemporanei sono rimasti; tuttavia, grazie alla [[concepts/tradition|tradizione]] e alla conoscenza delle circostanze del tempo, la gente aveva una certa idea di come fosse l’inizio del ventesimo secolo, e credeva, in modo un po’ ingenuo, che Belloc avesse davvero intrapreso quel viaggio nel 1901.
 
 Ecco come i molto eruditi avrebbero proceduto per insegnare ai volgari una lezione di scetticismo.
 
@@ -5495,9 +5495,9 @@ Ecco come scrivono quegli stupidi maledetti: con un cervello del genere, i tedes
 <span class="atom-split" data-atom="story_36_the_fanatic" data-title="This and That and the Other — THE FANATIC" data-chapter="THE FANATIC" data-kind="story" data-tags="archetype/fanatic"></span>
 
 
-XXXV THE [[Fanatic|FANATIC]]
+XXXV THE [[archetypes/fanatic|FANATIC]]
 
-“I ASKED OLD Biggs (as the Duke of Racton used to be called) what he thought of Charlie Wilson. Old Biggs answered, ‘Man like that’s one of two things: a [[Fanatic]] or a [[Fanatic]].’ I thought this very funny.” — St. Germans Sporting Memoirs, Vol. II, .
+“I ASKED OLD Biggs (as the Duke of Racton used to be called) what he thought of Charlie Wilson. Old Biggs answered, ‘Man like that’s one of two things: a [[archetypes/fanatic|Fanatic]] or a [[archetypes/fanatic|Fanatic]].’ I thought this very funny.” — St. Germans Sporting Memoirs, Vol. II, .
 
 This is a kind of man whom we all love and yet all desire to moderate. He is excessive only in good, but his excess therein is dangerous. He proceeds from less to more; first irritated, then exasperated, then mad. He will not tolerate the necessary foibles of mankind. No, nor even their misunderstandings. He himself commonly takes refuge in some vice or other, but a small one, and from this bastion defends himself against all comers.
 
@@ -5518,9 +5518,9 @@ The Irish are very fanatical, and have driven from their country many landlords 
 
 <span class="qlang-split" data-lang="it"></span>
 
-XXXV IL [[Fanatic|FANATICO]]
+XXXV IL [[archetypes/fanatic|FANATICO]]
 
-«CHIESI AL VECCHIO Biggs (come si usava chiamare il Duca di Racton) che cosa pensasse di Charlie Wilson. Il vecchio Biggs rispose: “Un uomo simile è una di due cose: un [[Fanatic|Fanatico]] oppure un [[Fanatic|Fanatico]]”. La cosa mi parve assai spassosa.» — St. Germans, Memorie sportive, vol. II, .
+«CHIESI AL VECCHIO Biggs (come si usava chiamare il Duca di Racton) che cosa pensasse di Charlie Wilson. Il vecchio Biggs rispose: “Un uomo simile è una di due cose: un [[archetypes/fanatic|Fanatico]] oppure un [[archetypes/fanatic|Fanatico]]”. La cosa mi parve assai spassosa.» — St. Germans, Memorie sportive, vol. II, .
 
 È questa una specie d'uomo che tutti amiamo e che pure tutti desideriamo moderare. Egli è eccessivo soltanto nel bene, ma il suo eccesso in ciò è pericoloso. Procede dal meno al più: dapprima irritato, poi esasperato, poi folle. Non tollera le necessarie debolezze del genere umano. No, e neppure i suoi malintesi. Egli stesso di solito si rifugia in qualche vizio, ma piccolo, e da questo bastione si difende contro chiunque sopraggiunga.
 
@@ -5562,7 +5562,7 @@ Finally, we hope that all those who have been permitted by the Home Secretary to
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XXXVI Un articolo di spicco
+XXXVI Un articolo di spicco
 
 Dopo il fallimento delle numerose conferenze tenutesi tra Carlo Stuart e i Commissari del Parlamento, e dopo un processo presso la Westminster Hall le cui circostanze sarebbe doloroso ricordare, la Corte incaricata di risolvere la questione è giunta a una conclusione con cui riteniamo che la maggior parte degli inglesi, per quanto a malincuore, sarà d’accordo. La cortesia e i buoni sentimenti di cui ci vantiamo nella nostra vita politica sembrano essere stati stranamente dimenticati durante le controversie degli ultimi mesi. Sarebbe invidioso menzionare esempi specifici, e ammettiamo senza problemi che le circostanze erano anormali. L’emozione era alta, e almeno tra gli inglesi, abituati a dire le cose come stanno, parole forti seguono spesso a sentimenti intensi; ma possiamo sperare che la decisione finale della Corte ponga per sempre fine a uno dei periodi più critici di dibattito nella storia moderna, con tutti i suoi eccessi deplorabili e le parole violente e incontrollate.
 
@@ -5618,7 +5618,7 @@ By the provisions of Mr. Herod’s will he is to be cremated, and the ceremony w
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XXXVII La notizia necrologica
+XXXVII La notizia necrologica
 
 Il signor Erode, la cui morte è stata appena annunciata tramite un telegramma da Lione, era una delle personalità più straordinarie e influenti del nostro tempo.
 
@@ -5665,7 +5665,7 @@ Est autem amicitia nihil aliud, nisi omnium divinarum huminarumque rerum cockalo
 
 Was it not charming?
 
-Of course there is a little jealousy — no more than a pout! — about Hasdrubal’s magnificent work in [[Spain]], but every one recognises what a great man he is, and it was only yesterday that M. Catulus (the son of our fine old enemy Lutatius) said to me with a sigh: “The reason we Romans cannot do that kind of thing is because we cannot stick together. We are for ever fighting among ourselves. Just look at our history!” On the other hand, I can’t think that our mixture of democracy and common sense would suit the Latin temperament, with its verve and nescio quid, which make it at the same time so incalculable and so fascinating. Every nation must have its own advantages and drawbacks. We are a little too stolid, perhaps, and a little too businesslike, but our stolidity and our businesslike capacity have founded Colonies over the whole world and established a magnificent Empire. The Romans are a little too fond of “glory” and give way to sudden emotion in a fashion which seems to us perilously like weakness, but no one can deny that they have established a wonderfully methodical and orderly system of roads all over Italy, and that their capital is still the intellectual centre of the world.
+Of course there is a little jealousy — no more than a pout! — about Hasdrubal’s magnificent work in [[settings/spain|Spain]], but every one recognises what a great man he is, and it was only yesterday that M. Catulus (the son of our fine old enemy Lutatius) said to me with a sigh: “The reason we Romans cannot do that kind of thing is because we cannot stick together. We are for ever fighting among ourselves. Just look at our history!” On the other hand, I can’t think that our mixture of democracy and common sense would suit the Latin temperament, with its verve and nescio quid, which make it at the same time so incalculable and so fascinating. Every nation must have its own advantages and drawbacks. We are a little too stolid, perhaps, and a little too businesslike, but our stolidity and our businesslike capacity have founded Colonies over the whole world and established a magnificent Empire. The Romans are a little too fond of “glory” and give way to sudden emotion in a fashion which seems to us perilously like weakness, but no one can deny that they have established a wonderfully methodical and orderly system of roads all over Italy, and that their capital is still the intellectual centre of the world.
 
 Talking of that I ought to pay a tribute to the Roman home and to Roman thrift. We hear too much in our country of the Roman amphitheatre and all the rest of it. What many Carthaginians do not yet know is that the stay-at-home sober Roman is the backbone of the whole place. He hates war as heartily as we do, and though his forms of justice are very different from ours he is a sincere lover of right-dealing according to his lights. It is due to such men that Rome is, after ourselves, the chief financial power in the world.
 
@@ -5682,7 +5682,7 @@ I must not ramble on further, for the post is going, and you know what the Roman
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XXXVIII La colonna “Merry Rome”
+XXXVIII La colonna “Merry Rome”
 
 Una rubrica settimanale del “Carthaginian Messenger”, tratta dall’edizione del 15 marzo 220 a.C.
 
@@ -5692,7 +5692,7 @@ Ma l’amicizia, in realtà, non è altro che la capacità di armonizzare tutte 
 
 Non era forse incantevole?
 
-Certo, c’è un po’ di invidia – niente di più che un piccolo broncio! – per il magnifico lavoro svolto da Hasdrubal in [[Spain|Spagna]], ma tutti riconoscono quanto sia stato un grande uomo. Solo ieri, M. Catulo (il figlio del nostro vecchio nemico Lutazio) mi disse con un sospiro: “Il motivo per cui noi Romani non riusciamo a fare cose del genere è perché non riusciamo a stare uniti. Continuiamo sempre a litigare tra di noi. Basta guardare la nostra storia!” D’altra parte, non credo che il nostro mix di democrazia e buon senso possa adattarsi al temperamento latino, con la sua vivacità e quella sorta di incertezza che lo rende allo stesso tempo così imprevedibile e affascinante. Ogni nazione deve pur avere i suoi vantaggi e i suoi svantaggi. Noi siamo forse un po’ troppo seri e un po’ troppo pratici, ma proprio questa serietà e questa capacità organizzativa ci hanno permesso di fondare colonie in tutto il mondo e di creare un impero magnifico. I Romani, invece, amano troppo la “gloria” e lasciano che le emozioni improvvisse prendano il sopravvento. Il che, a nostro parere, sembra una forma di debolezza. Ma nessuno può negare che abbiano costruito un sistema stradale meravigliosamente metodico e ordinato in tutta l’Italia, e che la loro capitale rimanga ancora il centro intellettuale del mondo.
+Certo, c’è un po’ di invidia – niente di più che un piccolo broncio! – per il magnifico lavoro svolto da Hasdrubal in [[settings/spain|Spagna]], ma tutti riconoscono quanto sia stato un grande uomo. Solo ieri, M. Catulo (il figlio del nostro vecchio nemico Lutazio) mi disse con un sospiro: “Il motivo per cui noi Romani non riusciamo a fare cose del genere è perché non riusciamo a stare uniti. Continuiamo sempre a litigare tra di noi. Basta guardare la nostra storia!” D’altra parte, non credo che il nostro mix di democrazia e buon senso possa adattarsi al temperamento latino, con la sua vivacità e quella sorta di incertezza che lo rende allo stesso tempo così imprevedibile e affascinante. Ogni nazione deve pur avere i suoi vantaggi e i suoi svantaggi. Noi siamo forse un po’ troppo seri e un po’ troppo pratici, ma proprio questa serietà e questa capacità organizzativa ci hanno permesso di fondare colonie in tutto il mondo e di creare un impero magnifico. I Romani, invece, amano troppo la “gloria” e lasciano che le emozioni improvvisse prendano il sopravvento. Il che, a nostro parere, sembra una forma di debolezza. Ma nessuno può negare che abbiano costruito un sistema stradale meravigliosamente metodico e ordinato in tutta l’Italia, e che la loro capitale rimanga ancora il centro intellettuale del mondo.
 
 Parlando di questo, dovrei rendere omaggio alla casa romana e al risparmio dei Romani. Nel nostro paese si parla troppo dell’anfiteatro romano e di tutto il resto. Quello che molti Cartaginesi ancora non sanno è che il Romano sobrio e casalingo rappresenta la colonna portante di tutta quella società. Odia la guerra tanto quanto noi, e sebbene i suoi sistemi giudiziari siano molto diversi dai nostri, è un sincero amante della giustizia secondo le sue concezioni. È grazie a uomini del genere che Roma, dopo di noi, è la principale potenza finanziaria del mondo.
 
@@ -5731,7 +5731,7 @@ Let me beg you, with all the earnestness in my power, to put such thoughts from 
 
 Let me turn from all this and give you a few rough rules which should guide you in the earlier part of your way. You will not, I am sure, reject them lightly, coming as they do from a friend of my standing and experience. Young men commonly regard the advice of their elders as something too crude to be observed. It is a fatal error. What they take for crudity is only the terseness and pressure of accumulated experience.
 
-The first main rule is to take note of that limit of insult and contempt beyond which your master will revolt. Note carefully what I say. No one, and least of all the prosperous, especially when their prosperity is combined with culture, will long tolerate flattery. A certain indifference, spiced with occasional contempt and not infrequent insolence, is what those of jaded appetite look for in any permanent companion. Without a full knowledge of this great [[Truth|truth]], hundreds of your compeers have fallen early upon the field, never to rise again. For if it is true that the wealthy and the refined demand much seasoning in their companionship, it is equally true that there is a fairly sharp boundary beyond which they suddenly revolt. Henry Bellarmine was thrust out of the Congletons’ house for no other reason. The same cause led to poor Ralph Pagberry’s imprisonment, and I could quote you hosts of others.
+The first main rule is to take note of that limit of insult and contempt beyond which your master will revolt. Note carefully what I say. No one, and least of all the prosperous, especially when their prosperity is combined with culture, will long tolerate flattery. A certain indifference, spiced with occasional contempt and not infrequent insolence, is what those of jaded appetite look for in any permanent companion. Without a full knowledge of this great [[concepts/truth|truth]], hundreds of your compeers have fallen early upon the field, never to rise again. For if it is true that the wealthy and the refined demand much seasoning in their companionship, it is equally true that there is a fairly sharp boundary beyond which they suddenly revolt. Henry Bellarmine was thrust out of the Congletons’ house for no other reason. The same cause led to poor Ralph Pagberry’s imprisonment, and I could quote you hosts of others.
 
 My next rule is that you should never, under any temptation of weather, or ill health, or fatigue, permit yourself really and thoroughly to bore either your patron or any one of his guests, near relatives, or advisers. As it is not easy for a young man to know when he is boring the well-to-do, let me give you a few hints.
 
@@ -5743,14 +5743,14 @@ Let me give you a further rule, which is, to agree with the women. It is very di
 
 I have little more to add. Be courteous to all chance guests in the house. You will tell me, justly enough, that the great majority of them will be unimportant or poor or both. But the point is that you can never tell when one of them may turn out to be, either then or in the future, important or rich or both. The rule is simple and absolute. Cultivate courtesy, avoid affection; use the first upon all occasions, and forget so much as the meaning of the second.
 
-Lastly, drink wine, but drink it in moderation. I have known admirably successful parasites who were total abstainers, but only in the houses of fanatics with whom this peculiar habit was a creed. The moment these successful men passed to other employers, I was interested to note that they at once abandoned the foolish trick. But if it is important not to fall into the Mohammedan foible of total abstinence from wine, it is, if anything, even more important never upon any occasion whatsoever to exceed in it. Excess in wine is dangerous in a degree to the burglar, the thief, the money-lender, the poisoner, and many professions other than your own, but in that which you have chosen it is not dangerous, but fatal. Let such excess be apparent once in the career of a young parasite, and that career is as good as done for. I urge this [[Truth|truth]] upon you most solemnly, my dear lad, by way of ending.
+Lastly, drink wine, but drink it in moderation. I have known admirably successful parasites who were total abstainers, but only in the houses of fanatics with whom this peculiar habit was a creed. The moment these successful men passed to other employers, I was interested to note that they at once abandoned the foolish trick. But if it is important not to fall into the Mohammedan foible of total abstinence from wine, it is, if anything, even more important never upon any occasion whatsoever to exceed in it. Excess in wine is dangerous in a degree to the burglar, the thief, the money-lender, the poisoner, and many professions other than your own, but in that which you have chosen it is not dangerous, but fatal. Let such excess be apparent once in the career of a young parasite, and that career is as good as done for. I urge this [[concepts/truth|truth]] upon you most solemnly, my dear lad, by way of ending.
 
 I wish you the best of luck, and I am your poor father’s devoted friend and your own.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Lettera aperta a un giovane parassita
+Lettera aperta a un giovane parassita
 
 Mio caro ragazzo:
 
@@ -5770,7 +5770,7 @@ Lasciate che vi supplichi, con tutta la sincerità di cui sono capace, di scarta
 
 Lasciate che mi allontani da tutto questo e vi dia alcune regole di base che dovrebbero guidarvi nei primi passi del vostro percorso. Sono sicuro che non le rifiuterete alla leggera, visto che provengono da un amico della mia posizione e esperienza. I giovani spesso considerano i consigli degli anziani come qualcosa di troppo grezzo per essere seguito. È un errore fatale. Quello che loro ritengono rozzezza non è altro che la concisione e la forza derivanti da un’esperienza accumulata nel tempo.
 
-La prima regola principale è quella di prestare attenzione a quel limite di insulti e disprezzo oltre il quale il proprio interlocutore potrebbe ribellarsi. Ascoltate attentamente ciò che dico: nessuno, soprattutto non coloro che sono benestanti e colti, tollererà a lungo le lusinghe. Una certa indifferenza, mescolata di occasionale disprezzo e non infrequente insolenza, è proprio ciò che persone con gusti raffinati cercano in un compagno permanente. Senza una piena consapevolezza di questa grande [[Truth|_verità]], centinaia dei vostri simili sono caduti prematuramente, senza mai rialzarsi più. Perché se è vero che i ricchi e i raffinati richiedono molte “spezie” nella loro compagnia, è altrettanto vero che esiste un limite ben definito oltre il quale improvvisamente si ribellano. Henry Bellarmine fu cacciato di casa dai Congleton per nessun altro motivo; lo stesso motivo portò all’arresto del povero Ralph Pagberry, e potrei citarvi molti altri esempi simili.
+La prima regola principale è quella di prestare attenzione a quel limite di insulti e disprezzo oltre il quale il proprio interlocutore potrebbe ribellarsi. Ascoltate attentamente ciò che dico: nessuno, soprattutto non coloro che sono benestanti e colti, tollererà a lungo le lusinghe. Una certa indifferenza, mescolata di occasionale disprezzo e non infrequente insolenza, è proprio ciò che persone con gusti raffinati cercano in un compagno permanente. Senza una piena consapevolezza di questa grande [[concepts/truth|_verità]], centinaia dei vostri simili sono caduti prematuramente, senza mai rialzarsi più. Perché se è vero che i ricchi e i raffinati richiedono molte “spezie” nella loro compagnia, è altrettanto vero che esiste un limite ben definito oltre il quale improvvisamente si ribellano. Henry Bellarmine fu cacciato di casa dai Congleton per nessun altro motivo; lo stesso motivo portò all’arresto del povero Ralph Pagberry, e potrei citarvi molti altri esempi simili.
 
 La mia prossima regola è che non dovete mai, sotto alcuna tentazione legata al tempo, alla cattiva salute o alla stanchezza, permettervi di annoiare davvero e completamente né il vostro protettore né uno qualsiasi dei suoi ospiti, parenti stretti o consiglieri. Poiché non è facile per un giovane capire quando sta annoiando le persone benestanti, lasciate che vi dia alcuni suggerimenti.
 
@@ -5782,7 +5782,7 @@ Lasciate che vi dia un’altra regola: accordarsi con le donne. È molto diffici
 
 Non ho molto altro da aggiungere. Siate cortesi con tutti gli ospiti che potrebbero presentarsi in casa. Mi direte, giustamente, che la stragrande maggioranza di loro sarà insignificante, povera o entrambe le cose. Ma il punto è che non si può mai sapere quando uno di loro possa rivelarsi, in quel momento o in futuro, importante, ricco o entrambe le cose. La regola è semplice e assoluta: coltivate la cortesia, evitate gli affetti; utilizzate sempre la prima in qualsiasi situazione, e dimenticate completamente il significato della seconda.
 
-Infine, bevete vino, ma con moderazione. Conosco parassiti di grande successo che si astenevano completamente dal bere, ma solo nelle case di fanatici per i quali questa abitudine costituiva un vero credo. Non appena questi individui riuscivano a ottenere lavoro altrove, abbandonavano immediatamente questa sciocca pratica. Tuttavia, se è importante evitare l’errore dei musulmani di astenersi completamente dal vino, allora è ancora più importante non esagerarvi mai, in nessuna circostanza. L’eccesso nel consumo di alcol è pericoloso tanto quanto per un ladro, un usuraio o un avvelenatore; nella vostra professione, invece, tale eccesso non è solo dannoso, ma fatale. Se un giovane parassita commette un simile errore, la sua carriera è praticamente finita. Vi esorto con la massima serietà a seguire questa [[Truth|verità]], mio caro ragazzo, come conclusione delle mie parole.
+Infine, bevete vino, ma con moderazione. Conosco parassiti di grande successo che si astenevano completamente dal bere, ma solo nelle case di fanatici per i quali questa abitudine costituiva un vero credo. Non appena questi individui riuscivano a ottenere lavoro altrove, abbandonavano immediatamente questa sciocca pratica. Tuttavia, se è importante evitare l’errore dei musulmani di astenersi completamente dal vino, allora è ancora più importante non esagerarvi mai, in nessuna circostanza. L’eccesso nel consumo di alcol è pericoloso tanto quanto per un ladro, un usuraio o un avvelenatore; nella vostra professione, invece, tale eccesso non è solo dannoso, ma fatale. Se un giovane parassita commette un simile errore, la sua carriera è praticamente finita. Vi esorto con la massima serietà a seguire questa [[concepts/truth|verità]], mio caro ragazzo, come conclusione delle mie parole.
 
 Ti auguro tutta la migliore fortuna possibile; sono l’amico devoto di tuo povero padre e anche il tuo amico personale.
 
@@ -5807,11 +5807,11 @@ I told him that I was sorry I had picked up his moorings, but that, in this coun
 
 Then, when I had cast off, I put out the sweeps and I rowed gently, for it was now slack water at the top of the tide, and I stood by while he tied his magnificent yacht to the moorings. When he had done that I rowed under the stern of that ship and read her name. But I will not print it here, only let me tell you it was the name of a ship belonging to a fabulously rich man. Riches, I thought then and I think still, corrupt the heart.
 
-Upon another occasion I came with one companion across the bar of Orford [[River]], out of a very heavy wind outside and a very heavy sea. I just touched as I crossed that bar, though I was on the top of the highest tide of the year, for it was just this time in September, the highest springs of the hunter’s moon.
+Upon another occasion I came with one companion across the bar of Orford [[motifs/river|River]], out of a very heavy wind outside and a very heavy sea. I just touched as I crossed that bar, though I was on the top of the highest tide of the year, for it was just this time in September, the highest springs of the hunter’s moon.
 
-My companion and I sailed up Orford [[River]], and when we came to Orford Town we saw a buoy, and I said to my companion, “Let us pick up moorings.”
+My companion and I sailed up Orford [[motifs/river|River]], and when we came to Orford Town we saw a buoy, and I said to my companion, “Let us pick up moorings.”
 
-Upon the bank of the [[River|river]] was a long line of men, all shouting and howling, and warning us not to touch that buoy. But we called out to them that we meant no harm. We only meant to pick up those moorings for a moment, so as to make everything snug on board, and that then we would take a line ashore and lie close to the wharf. Only the more did those numerous men (whom many others ran up to join as I called) forbid us with oaths to touch the buoy. Nevertheless, we picked up the little buoy (which was quite small and light) and we got it in-board, and held on, waiting for our boat to swing to it. But an astonishing thing happened! The boat paid no attention to the moorings, but went careering up river carrying the buoy with it, and apparently dragging the moorings along the bottom without the least difficulty. And this was no wonder, for we found out afterwards that the little buoy had only been set there to mark a racing point, and that the weights holding the line of it to the bottom were very light and few. So it was no wonder the men of Orford had been so angry. Soon it was dark, and we replaced the buoy stealthily, and when we came in to eat at the Inn we were not recognised.
+Upon the bank of the [[motifs/river|river]] was a long line of men, all shouting and howling, and warning us not to touch that buoy. But we called out to them that we meant no harm. We only meant to pick up those moorings for a moment, so as to make everything snug on board, and that then we would take a line ashore and lie close to the wharf. Only the more did those numerous men (whom many others ran up to join as I called) forbid us with oaths to touch the buoy. Nevertheless, we picked up the little buoy (which was quite small and light) and we got it in-board, and held on, waiting for our boat to swing to it. But an astonishing thing happened! The boat paid no attention to the moorings, but went careering up river carrying the buoy with it, and apparently dragging the moorings along the bottom without the least difficulty. And this was no wonder, for we found out afterwards that the little buoy had only been set there to mark a racing point, and that the weights holding the line of it to the bottom were very light and few. So it was no wonder the men of Orford had been so angry. Soon it was dark, and we replaced the buoy stealthily, and when we came in to eat at the Inn we were not recognised.
 
 It was on this occasion that was written the song:
 
@@ -5842,7 +5842,7 @@ Under that falling light, all alone in such a place, I shall let go the anchor c
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XL: Sull’abbassare l’ancora
+XL: Sull’abbassare l’ancora
 
 Il miglior suono al mondo è il rumore della catena dell’ancora quando finalmente si arriva in porto e la si lascia scorrere sopra la prua.
 
@@ -5860,15 +5860,15 @@ Poi, una volta sbarcato, sistemai le pale e iniziai a remare dolcemente: in quel
 
 In un'altra occasione, insieme a un compagno, attraversai la foce del fiume Orford, in mezzo a venti molto forti e a mareggiate intense. Quando attraversai quella foce, toccai appena l'acqua, anche se mi trovavo nel momento di marea più alta dell'anno: era proprio settembre, il periodo in cui le maree sono più alte a causa della luna di caccia.
 
-Io e il mio compagno navigammo lungo il fiume [[River|Orford]]; quando arrivammo a Orford Town vedemmo un segnale di battigia, così dissi al mio compagno: “Andiamo ad ancorarci”.
+Io e il mio compagno navigammo lungo il fiume [[motifs/river|Orford]]; quando arrivammo a Orford Town vedemmo un segnale di battigia, così dissi al mio compagno: “Andiamo ad ancorarci”.
 
-Sulla riva del [[River|fiume]] c'era una lunga fila di uomini che gridavano e urlavano, avvertendoci di non toccare quella boia. Ma noi rispondemmo loro che non avevamo cattive intenzioni; volevamo semplicemente prendere quei cavi per un momento, in modo che tutto fosse ben fissato a bordo, e poi saremmo andati a riva e ci saremmo fermati vicino al molo. Tuttavia, quegli uomini (a cui si unirono molti altri mentre io gridavo) continuavano a vietarci con insulti di toccare la boia. Comunque sia, prendemmo quella piccola boia (che era davvero molto piccola e leggera), la portammo a bordo e aspettammo che la nostra barca si avvicinasse. Ma accadde qualcosa di sorprendente: la barca non prestò alcuna attenzione ai cavi, ma continuò ad andare verso l’alto corso del fiume, trascinando con sé la boia e, apparentemente, senza alcuna difficoltà anche i cavi che la fissavano al fondo. Non c’era da meravigliarsi: in seguito scoprimmo che quella piccola boia era stata messa lì soltanto per indicare un punto di partenza per le gare, e che i pesi che tenevano i cavi attaccati al fondo erano molto leggeri e pochi. Non c’è da stupirsi quindi che gli uomini di Orford fossero così arrabbiati. Presto fece buio; noi rimettemmo la boia in silenzio e, quando tornammo all’osteria per mangiare, nessuno ci riconobbe.
+Sulla riva del [[motifs/river|fiume]] c'era una lunga fila di uomini che gridavano e urlavano, avvertendoci di non toccare quella boia. Ma noi rispondemmo loro che non avevamo cattive intenzioni; volevamo semplicemente prendere quei cavi per un momento, in modo che tutto fosse ben fissato a bordo, e poi saremmo andati a riva e ci saremmo fermati vicino al molo. Tuttavia, quegli uomini (a cui si unirono molti altri mentre io gridavo) continuavano a vietarci con insulti di toccare la boia. Comunque sia, prendemmo quella piccola boia (che era davvero molto piccola e leggera), la portammo a bordo e aspettammo che la nostra barca si avvicinasse. Ma accadde qualcosa di sorprendente: la barca non prestò alcuna attenzione ai cavi, ma continuò ad andare verso l’alto corso del fiume, trascinando con sé la boia e, apparentemente, senza alcuna difficoltà anche i cavi che la fissavano al fondo. Non c’era da meravigliarsi: in seguito scoprimmo che quella piccola boia era stata messa lì soltanto per indicare un punto di partenza per le gare, e che i pesi che tenevano i cavi attaccati al fondo erano molto leggeri e pochi. Non c’è da stupirsi quindi che gli uomini di Orford fossero così arrabbiati. Presto fece buio; noi rimettemmo la boia in silenzio e, quando tornammo all’osteria per mangiare, nessuno ci riconobbe.
 
 Fu in questa occasione che fu scritta la canzone:
 
 Titolo: Gli uomini che vivevano a Orford
 
-#Alla riva ad aspettarmi;
+Alla riva ad aspettarmi;
 
 “Il loro viso era come legno scolpito.”
 

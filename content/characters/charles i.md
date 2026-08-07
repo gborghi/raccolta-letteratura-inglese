@@ -14,4 +14,10 @@ Stuart king whose conflict with Parliament over taxation ended in civil war and 
 
 <div class="concept-works" data-slug="characters/charles-i"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/history-(chesterton)|history (Chesterton)]]
+
+</div>
+
 #graph/character

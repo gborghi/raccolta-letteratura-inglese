@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/sir-toby-belch"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/twelfth-night-(shakespeare)|TWELFTH NIGHT (Shakespeare)]]
+
+</div>
+
 #graph/character

@@ -22,7 +22,7 @@ tags:
   - setting/oxford
   - archetype/self_made_man
 ---
-*by Belloc*  ·  **Cluster:** [[Satirical Novel · Politics and Finance · Edwardian England]]
+*by Belloc*  ·  **Cluster:** [[clusters/satirical-novel-·-politics-and-finance-·-edwardian-england|Satirical Novel · Politics and Finance · Edwardian England]]
 
 > [!abstract] 
 > A comic satirical novel in which a drug-addled Oxford undergraduate dabbling in occult alchemy appears to succeed in making gold, throwing the world of banking and finance into panic. Belloc lampoons modern science, academic pomposity, and the greed of high finance through the collision of medieval magic and the modern atom.
@@ -33,8 +33,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]], [[Satire]]
-**Themes & Concepts:** [[Money and Avarice]], [[Greed]], [[Satire of Society]], [[Capitalism]], [[Materialism]], [[Ambition]], [[Economics]]
-**Motifs:** [[Money and Gold]], [[Machine]], [[Book Reading]]
-**Settings:** [[Oxford]]
-**Archetypes:** [[Self-Made Man]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]]
+**Themes & Concepts:** [[concepts/money-and-avarice|Money and Avarice]], [[concepts/greed|Greed]], [[concepts/satire-of-society|Satire of Society]], [[concepts/capitalism|Capitalism]], [[concepts/materialism|Materialism]], [[concepts/ambition|Ambition]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/machine|Machine]], [[motifs/book-reading|Book Reading]]
+**Settings:** [[settings/oxford|Oxford]]
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]

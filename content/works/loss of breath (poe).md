@@ -21,7 +21,7 @@ tags:
   - form/parody
 ---
 
-*by Poe*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
+*by Poe*  ·  **Cluster:** [[clusters/mortality-·-grave-·-memento-mori|Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > Grotesque comic tale of a man who literally loses his breath, is mangled, hanged, entombed, and revived, parodying horror sensationalism.
@@ -43,10 +43,10 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Sleeper Awakes]]
-**Motifs:** [[Death]], [[Grave]], [[Marriage]], [[Inn Tavern]]
-**Themes & Concepts:** [[Grotesque]], [[Terror and Horror]], [[Satire of Society]], [[Mortality]], [[Identity]]
-**Forms & Genres:** [[Short Story]], [[Parody]]
+**Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]]
+**Motifs:** [[motifs/death|Death]], [[motifs/grave|Grave]], [[motifs/marriage|Marriage]], [[motifs/inn-tavern|Inn Tavern]]
+**Themes & Concepts:** [[concepts/grotesque|Grotesque]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/satire-of-society|Satire of Society]], [[concepts/mortality|Mortality]], [[concepts/identity|Identity]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/parody|Parody]]
 
 ## Testo integrale / Full text
 

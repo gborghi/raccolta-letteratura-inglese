@@ -14,4 +14,10 @@ Honest-faced cabman whose confidently wrong memory of where the cab ride began b
 
 <div class="concept-works" data-slug="characters/the-extraordinary-cabman"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/cabman-(chesterton)|cabman (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ The Governor of Polybia's niece whose unsettling encounters with a nationalist a
 
 <div class="concept-works" data-slug="characters/barbara-traill"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/fourfaultlessfelons-(chesterton)|FourFaultlessFelons (Chesterton)]]
+
+</div>
+
 #graph/character

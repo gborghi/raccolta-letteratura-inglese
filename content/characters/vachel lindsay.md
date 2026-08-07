@@ -14,4 +14,10 @@ American Puritan-poet who is the subject of a full chapter contrasting his Spani
 
 <div class="concept-works" data-slug="characters/vachel-lindsay"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/all-i-survey-(chesterton)|All I Survey (Chesterton)]]
+
+</div>
+
 #graph/character

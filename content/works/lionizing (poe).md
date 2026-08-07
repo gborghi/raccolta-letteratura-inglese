@@ -21,7 +21,7 @@ tags:
   - setting/london
 ---
 
-*by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Poe*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > Comic satire of the 'science of Noses' and literary celebrity, lampooning vanity, fashionable society, and pretentious erudition.
@@ -31,10 +31,10 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Eyes and Sight]], [[Food and Feasting]], [[Wine and Drink]], [[Book Reading]]
-**Themes & Concepts:** [[Satire of Society]], [[Pride]], [[Appearance vs Reality]], [[Artist and Society]], [[Grotesque]]
-**Forms & Genres:** [[Satire]], [[Short Story]]
-**Settings:** [[London]]
+**Motifs:** [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/book-reading|Book Reading]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/pride|Pride]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/artist-and-society|Artist and Society]], [[concepts/grotesque|Grotesque]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]
+**Settings:** [[settings/london|London]]
 
 ## Testo integrale / Full text
 

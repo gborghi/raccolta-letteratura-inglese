@@ -29,7 +29,7 @@ tags:
   - topos/tempus_fugit
   - topos/immortality_through_verse
 ---
-*by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Shakespeare's 154 sonnets. The Fair Youth sequence urges procreation, then immortalizes the beloved's beauty against time and decay through the poet's own eternal verse; the later Dark Lady sonnets turn to desire, jealousy and disillusion. Recurrent notes are love and beauty, the ravages of time, appearance versus reality, and art as a defense against mortality.
@@ -40,7 +40,7 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]], [[Poem Sequence]]
-**Themes & Concepts:** [[Love Romantic]], [[Beauty]], [[Transience]], [[Appearance vs Reality]], [[Grief and Loss]], [[Jealousy]], [[Procreation]], [[Immortality of Art Fame]]
-**Motifs:** [[Time]], [[Eyes and Sight]], [[Desire]], [[Death]], [[Letters and Writing]], [[Seasons]]
-**Topoi:** [[Tempus Fugit]], [[Immortality Through Verse]]
+**Forms & Genres:** [[forms/shakespearean-sonnet|Shakespearean Sonnet]], [[forms/sonnet|Sonnet]], [[forms/poem-sequence|Poem Sequence]]
+**Themes & Concepts:** Love Romantic, [[concepts/beauty|Beauty]], [[concepts/transience|Transience]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/jealousy|Jealousy]], [[concepts/procreation|Procreation]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]]
+**Motifs:** [[motifs/time|Time]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/desire|Desire]], [[motifs/death|Death]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/seasons|Seasons]]
+**Topoi:** [[topoi/tempus-fugit|Tempus Fugit]], [[topoi/immortality-through-verse|Immortality Through Verse]]

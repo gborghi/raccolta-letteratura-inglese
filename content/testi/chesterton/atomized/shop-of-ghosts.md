@@ -14,59 +14,59 @@ tags:
 <span class="atom-split" data-atom="shop-of-ghosts" data-title="shop-of-ghosts" data-chapter="" data-kind="intro"></span>
 
 
-The Shop Of [[Ghosts]]
+The Shop Of [[motifs/ghosts|Ghosts]]
 
 G. K. Chesterton
 
 ----------------------------------------------------------------------------
-The Shop Of [[Ghosts]] first appeared in [[London]]'s Daily News. It was later
+The Shop Of [[motifs/ghosts|Ghosts]] first appeared in [[settings/london|London]]'s Daily News. It was later
 collected into the book of essays Tremendous Trifles.
 ----------------------------------------------------------------------------
 
 Nearly all the best and most precious things in the universe you can
 get for a halfpenny.  I make an exception, of course, of the sun,
-the [[Moon|moon]], the earth, people, [[Stars|stars]], thunderstorms, and such trifles.
+the [[motifs/moon|moon]], the earth, people, [[motifs/stars|stars]], thunderstorms, and such trifles.
 You can get them for nothing.  Also I make an exception of another thing,
 which I am not allowed to mention in this paper, and of which
 the lowest price is a penny halfpenny.  But the general principle
 will be at once apparent.  In the street behind me, for instance,
 you can now get a ride on an electric tram for a halfpenny.
-To be on an electric tram is to be on a flying [[Castle|castle]] in a fairy tale.
+To be on an electric tram is to be on a flying [[settings/castle|castle]] in a fairy tale.
 You can get quite a large number of brightly coloured sweets for
 a halfpenny.  Also you can get the chance of reading this article
 for a halfpenny; along, of course, with other and irrelevant matter.
 
 But if you want to see what a vast and bewildering array of valuable
 things you can get at a halfpenny each you should do as I was doing
-last [[Night|night]].  I was gluing my nose against the glass of a very
+last [[motifs/night|night]].  I was gluing my nose against the glass of a very
 small and dimly lit toy shop in one of the greyest and leanest
 of the streets of Battersea.  But dim as was that square of light,
-it was filled (as a [[Child|child]] once said to me) with all the colours
+it was filled (as a [[archetypes/child|child]] once said to me) with all the colours
 God ever made.  Those toys of the poor were like the children
 who buy them; they were all dirty; but they were all bright.
 For my part, I think brightness more important than cleanliness;
-since the first is of the [[Soul|soul]], and the second of the [[Body|body]].
+since the first is of the [[motifs/soul|soul]], and the second of the [[concepts/body|body]].
 You must excuse me; I am a democrat; I know I am out of fashion
 in the modern world.
 
 As I looked at that palace of pigmy wonders, at small green omnibuses,
 at small blue elephants, at small black dolls, and small red
 Noah's arks, I must have fallen into some sort of unnatural trance.
-That lit shop-[[Window|window]] became like the brilliantly lit
-stage when one is watching some highly coloured [[Comedy|comedy]].
+That lit shop-[[motifs/window|window]] became like the brilliantly lit
+stage when one is watching some highly coloured [[forms/comedy|comedy]].
 I forgot the grey houses and the grimy people behind me as one
 forgets the dark galleries and the dim crowds at a theatre.
 It seemed as if the little objects behind the glass were small,
 not because they were toys, but because they were objects far away.
 The green omnibus was really a green omnibus, a green
-Bayswater omnibus, passing across some huge [[Desert|desert]] on its
+Bayswater omnibus, passing across some huge [[motifs/desert|desert]] on its
 ordinary way to Bayswater.  The blue elephant was no longer
 blue with paint; he was blue with distance.  The black doll
 was really a negro relieved against passionate tropic foliage
 in the land where every weed is flaming and only man is black.
-The red Noah's ark was really the enormous [[Ship|ship]] of earthly
+The red Noah's ark was really the enormous [[motifs/ship|ship]] of earthly
 salvation riding on the rain-swollen sea, red in the first
-morning of [[Hope|hope]].
+morning of [[concepts/hope|hope]].
 
 Every one, I suppose, knows such stunning instants
 of abstraction, such brilliant blanks in the mind.
@@ -78,22 +78,22 @@ The return to real thinking is often as abrupt as bumping into a man.
 Very often indeed (in my case) it is bumping into a man.
 But in any case the awakening is always emphatic and,
 generally speaking, it is always complete.  Now, in this case,
-I did come back with a shock of [[Sanity|sanity]] to the consciousness
+I did come back with a shock of sanity to the consciousness
 that I was, after all, only staring into a dingy little toy-shop;
 but in some strange way the mental cure did not seem to be final.
 There was still in my mind an unmanageable something that told
 me that I had strayed into some odd atmosphere, or that I
 had already done some odd thing.  I felt as if I had worked
 a miracle or committed a sin.  It was as if I had at any rate,
-stepped across some border in the [[Soul|soul]].
+stepped across some border in the [[motifs/soul|soul]].
 
 To shake off this dangerous and dreamy sense I went into the shop
 and tried to buy wooden soldiers.  The man in the shop was very old
 and broken, with confused white hair covering his head and half
 his face, hair so startlingly white that it looked almost artificial.
-Yet though he was senile and even sick, there was nothing of [[Suffering|suffering]]
+Yet though he was senile and even sick, there was nothing of [[concepts/suffering|suffering]]
 in his eyes; he looked rather as if he were gradually falling
-asleep in a not unkindly [[Decay|decay]].  He gave me the wooden soldiers,
+asleep in a not unkindly [[motifs/decay|decay]].  He gave me the wooden soldiers,
 but when I put down the money he did not at first seem to see it;
 then he blinked at it feebly, and then he pushed it feebly away.
 
@@ -114,7 +114,7 @@ his nose again.
 
 The lamps could not have been lighted yet in the street outside.
 At any rate, I could see nothing against the darkness but the shining
-shop-[[Window|window]]. There were no sounds of steps or voices in the street;
+shop-[[motifs/window|window]]. There were no sounds of steps or voices in the street;
 I might have strayed into some new and sunless world.
 But something had cut the chords of common sense, and I could
 not feel even surprise except sleepily.  Something made me say,
@@ -133,13 +133,13 @@ They say my heavenly parts are too heavenly; they say my earthly
 parts are too earthly; I donÕt know what they want, I'm sure.
 How can heavenly things be too heavenly, or earthly things
 too earthly?  How can one be too good, or too jolly?
-I don't understand.  But I understand one thing [[Well|well]] enough.
+I don't understand.  But I understand one thing [[motifs/well|well]] enough.
 These modern people are living and I am dead."
 
 "You may be dead," I replied.  "You ought to know.
 But as for what they are doing, do not call it living."
 
-A [[Silence|silence]] fell suddenly between us which I somehow expected to
+A [[motifs/silence|silence]] fell suddenly between us which I somehow expected to
 be unbroken.  But it had not fallen for more than a few seconds when,
 in the utter stillness, I distinctly heard a very rapid step coming
 nearer and nearer along the street.  The next moment a figure
@@ -153,31 +153,31 @@ He took in the shop and the old man in a look that seemed literally
 a flash and uttered the exclamation of a man utterly staggered.
 
 "Good lord!" he cried out; "it can't be you!  It isn't you!
-I came to ask where your [[Grave|grave]] was."
+I came to ask where your [[motifs/grave|grave]] was."
 
 "I'm not dead yet, Mr. Dickens," said the old gentleman, with a
 feeble smile; "but I'm dying," he hastened to add reassuringly.
 
-"But, dash it all, you were dying in my [[Time|time]]," said Mr. Charles Dickens
+"But, dash it all, you were dying in my [[motifs/time|time]]," said Mr. Charles Dickens
 with animation; "and you don't look a day older."
 
-"I've felt like this for a long [[Time|time]]," said Father Christmas.
+"I've felt like this for a long [[motifs/time|time]]," said Father Christmas.
 
 Mr. Dickens turned his back and put his head out of the door
 into the darkness.
 
 "Dick," he roared at the top of his voice; "he's still alive."
 
-Another [[Shadow|shadow]] darkened the doorway, and a much larger and
+Another [[archetypes/shadow|shadow]] darkened the doorway, and a much larger and
 more full-blooded gentleman in an enormous periwig came in,
 fanning his flushed face with a military hat of the cut
-of [[Queen]] Anne.  He carried his head [[Well|well]] back like a soldier,
+of [[characters/queen|Queen]] Anne.  He carried his head [[motifs/well|well]] back like a soldier,
 and his hot face had even a look of arrogance, which was suddenly
 contradicted by his eyes, which were literally as humble
-as a dog's. His [[Sword|sword]] made a great clatter, as if the shop
+as a dog's. His sword made a great clatter, as if the shop
 were too small for it.
 
-"Indeed," said Sir [[Richard]] Steele, "'tis a most prodigious matter,
+"Indeed," said Sir [[characters/richard|Richard]] Steele, "'tis a most prodigious matter,
 for the man was dying when I wrote about Sir Roger de Coverley
 and his Christmas Day."
 
@@ -187,14 +187,14 @@ It seemed to be filled with newcomers.
 "It hath ever been understood," said a burly man, who carried
 his head humorously and obstinately a little on one side (I think
 he was Ben Jonson) "It hath ever been understood, consule Jacobo,
-under our [[King]] James and her late Majesty, that such good and hearty
+under our [[archetypes/king|King]] James and her late Majesty, that such good and hearty
 customs were fallen sick, and like to pass from the world.
 This grey beard most surely was no lustier when I knew him than now."
 
-And I also thought I heard a green-clad man, like [[Robin Hood]],
+And I also thought I heard a green-clad man, like [[characters/robin-hood|Robin Hood]],
 say in some mixed Norman French, "But I saw the man dying."
 
-"I have felt like this a long [[Time|time]]," said Father Christmas,
+"I have felt like this a long [[motifs/time|time]]," said Father Christmas,
 in his feeble way again.
 
 Mr. Charles Dickens suddenly leant across to him.
@@ -216,59 +216,59 @@ a mob to rise.
 <span class="atom-split" data-atom="part--part_01" data-title="shop-of-ghosts (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/decay,motif/desert,motif/ghosts,motif/moon,motif/night,motif/ship,motif/soul,motif/stars,motif/window,concept/body,concept/hope,concept/suffering,form/comedy,setting/castle,setting/desert,setting/london,setting/ship"></span>
 
 
-The Shop Of [[Ghosts]]
+The Shop Of [[motifs/ghosts|Ghosts]]
 
 G. K. Chesterton
 
 ----------------------------------------------------------------------------
-The Shop Of [[Ghosts]] first appeared in [[London]]'s Daily News. It was later
+The Shop Of [[motifs/ghosts|Ghosts]] first appeared in [[settings/london|London]]'s Daily News. It was later
 collected into the book of essays Tremendous Trifles.
 ----------------------------------------------------------------------------
 
 Nearly all the best and most precious things in the universe you can
 get for a halfpenny.  I make an exception, of course, of the sun,
-the [[Moon|moon]], the earth, people, [[Stars|stars]], thunderstorms, and such trifles.
+the [[motifs/moon|moon]], the earth, people, [[motifs/stars|stars]], thunderstorms, and such trifles.
 You can get them for nothing.  Also I make an exception of another thing,
 which I am not allowed to mention in this paper, and of which
 the lowest price is a penny halfpenny.  But the general principle
 will be at once apparent.  In the street behind me, for instance,
 you can now get a ride on an electric tram for a halfpenny.
-To be on an electric tram is to be on a flying [[Castle|castle]] in a fairy tale.
+To be on an electric tram is to be on a flying [[settings/castle|castle]] in a fairy tale.
 You can get quite a large number of brightly coloured sweets for
 a halfpenny.  Also you can get the chance of reading this article
 for a halfpenny; along, of course, with other and irrelevant matter.
 
 But if you want to see what a vast and bewildering array of valuable
 things you can get at a halfpenny each you should do as I was doing
-last [[Night|night]].  I was gluing my nose against the glass of a very
+last [[motifs/night|night]].  I was gluing my nose against the glass of a very
 small and dimly lit toy shop in one of the greyest and leanest
 of the streets of Battersea.  But dim as was that square of light,
-it was filled (as a [[Child|child]] once said to me) with all the colours
+it was filled (as a [[archetypes/child|child]] once said to me) with all the colours
 God ever made.  Those toys of the poor were like the children
 who buy them; they were all dirty; but they were all bright.
 For my part, I think brightness more important than cleanliness;
-since the first is of the [[Soul|soul]], and the second of the [[Body|body]].
+since the first is of the [[motifs/soul|soul]], and the second of the [[concepts/body|body]].
 You must excuse me; I am a democrat; I know I am out of fashion
 in the modern world.
 
 As I looked at that palace of pigmy wonders, at small green omnibuses,
 at small blue elephants, at small black dolls, and small red
 Noah's arks, I must have fallen into some sort of unnatural trance.
-That lit shop-[[Window|window]] became like the brilliantly lit
-stage when one is watching some highly coloured [[Comedy|comedy]].
+That lit shop-[[motifs/window|window]] became like the brilliantly lit
+stage when one is watching some highly coloured [[forms/comedy|comedy]].
 I forgot the grey houses and the grimy people behind me as one
 forgets the dark galleries and the dim crowds at a theatre.
 It seemed as if the little objects behind the glass were small,
 not because they were toys, but because they were objects far away.
 The green omnibus was really a green omnibus, a green
-Bayswater omnibus, passing across some huge [[Desert|desert]] on its
+Bayswater omnibus, passing across some huge [[motifs/desert|desert]] on its
 ordinary way to Bayswater.  The blue elephant was no longer
 blue with paint; he was blue with distance.  The black doll
 was really a negro relieved against passionate tropic foliage
 in the land where every weed is flaming and only man is black.
-The red Noah's ark was really the enormous [[Ship|ship]] of earthly
+The red Noah's ark was really the enormous [[motifs/ship|ship]] of earthly
 salvation riding on the rain-swollen sea, red in the first
-morning of [[Hope|hope]].
+morning of [[concepts/hope|hope]].
 
 Every one, I suppose, knows such stunning instants
 of abstraction, such brilliant blanks in the mind.
@@ -280,22 +280,22 @@ The return to real thinking is often as abrupt as bumping into a man.
 Very often indeed (in my case) it is bumping into a man.
 But in any case the awakening is always emphatic and,
 generally speaking, it is always complete.  Now, in this case,
-I did come back with a shock of [[Sanity|sanity]] to the consciousness
+I did come back with a shock of sanity to the consciousness
 that I was, after all, only staring into a dingy little toy-shop;
 but in some strange way the mental cure did not seem to be final.
 There was still in my mind an unmanageable something that told
 me that I had strayed into some odd atmosphere, or that I
 had already done some odd thing.  I felt as if I had worked
 a miracle or committed a sin.  It was as if I had at any rate,
-stepped across some border in the [[Soul|soul]].
+stepped across some border in the [[motifs/soul|soul]].
 
 To shake off this dangerous and dreamy sense I went into the shop
 and tried to buy wooden soldiers.  The man in the shop was very old
 and broken, with confused white hair covering his head and half
 his face, hair so startlingly white that it looked almost artificial.
-Yet though he was senile and even sick, there was nothing of [[Suffering|suffering]]
+Yet though he was senile and even sick, there was nothing of [[concepts/suffering|suffering]]
 in his eyes; he looked rather as if he were gradually falling
-asleep in a not unkindly [[Decay|decay]].  He gave me the wooden soldiers,
+asleep in a not unkindly [[motifs/decay|decay]].  He gave me the wooden soldiers,
 but when I put down the money he did not at first seem to see it;
 then he blinked at it feebly, and then he pushed it feebly away.
 
@@ -316,7 +316,7 @@ his nose again.
 
 The lamps could not have been lighted yet in the street outside.
 At any rate, I could see nothing against the darkness but the shining
-shop-[[Window|window]]. There were no sounds of steps or voices in the street;
+shop-[[motifs/window|window]]. There were no sounds of steps or voices in the street;
 I might have strayed into some new and sunless world.
 But something had cut the chords of common sense, and I could
 not feel even surprise except sleepily.  Something made me say,
@@ -329,55 +329,55 @@ I did not speak, and it was he who spoke again.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il negozio di [[Ghosts|fantasmi]]
+Il negozio di [[motifs/ghosts|fantasmi]]
 
-G. K. Chesterton
+G.K. Chesterton
 
-La bottega dei [[Ghosts|fantasmi]] fu pubblicata per la prima volta sul Daily News di [[London|Londra]]. In seguito venne raccolta nel libro di saggi Tremendous Trifles.
+La bottega dei [[motifs/ghosts|fantasmi]] fu pubblicata per la prima volta sul Daily News di [[settings/london|Londra]]. In seguito venne raccolta nel libro di saggi Tremendous Trifles.
 
 Quasi tutte le cose migliori e più preziose dell'universo si possono avere per mezzo penny.
-Faccio un'eccezione, naturalmente, per il sole, la [[Moon|luna]], la terra, gli uomini,
-le [[Stars|stelle]], i temporali e simili bagattelle. Si possono ottenere gratis.
+Faccio un'eccezione, naturalmente, per il sole, la [[motifs/moon|luna]], la terra, gli uomini,
+le [[motifs/stars|stelle]], i temporali e simili bagattelle. Si possono ottenere gratis.
 Faccio anche un'altra eccezione per una cosa che non mi è permesso menzionare in questo articolo
 e il cui prezzo minimo è di un penny mezzo. Ma il principio generale appare subito evidente.
 Nella strada dietro di me, ad esempio, si può fare un giro su un tram elettrico per mezzo penny.
-Essere su un tram elettrico equivale a essere su un [[Castle|castello]] volante in una fiaba.
+Essere su un tram elettrico equivale a essere su un [[settings/castle|castello]] volante in una fiaba.
 Si possono ottenere parecchie caramelle colorate per mezzo penny. Si può anche avere la possibilità
 di leggere questo articolo per mezzo penny; insieme, naturalmente, ad altre cose irrilevanti.
 
-Ma se volete vedere quale vasta e sconcertante varietà di cose preziose si possono ottenere al prezzo di mezzo penny l'una, dovreste fare come facevo io la [[Night|scorsa notte]].  Stavo incollando il naso contro il vetro di un negozio di giocattoli molto piccolo e debolmente illuminato in una delle strade più grigie e squallide di Battersea.  Ma fioco come era quel quadrato di luce, era pieno (come mi disse una [[Child|bambina]]) di tutti i colori che Dio abbia mai creato.  Quei giocattoli dei poveri erano come i bambini che li compravano; erano tutti sporchi; ma erano tutti luminosi.
+Ma se volete vedere quale vasta e sconcertante varietà di cose preziose si possono ottenere al prezzo di mezzo penny l'una, dovreste fare come facevo io la [[motifs/night|scorsa notte]].  Stavo incollando il naso contro il vetro di un negozio di giocattoli molto piccolo e debolmente illuminato in una delle strade più grigie e squallide di Battersea.  Ma fioco come era quel quadrato di luce, era pieno (come mi disse una [[archetypes/child|bambina]]) di tutti i colori che Dio abbia mai creato.  Quei giocattoli dei poveri erano come i bambini che li compravano; erano tutti sporchi; ma erano tutti luminosi.
 Per quanto mi riguarda, ritengo la luminosità più importante della pulizia;
-poiché la prima è dell'[[Soul|anima]], e la seconda del [[Body|corpo]].
+poiché la prima è dell'[[motifs/soul|anima]], e la seconda del [[concepts/body|corpo]].
 Dovete scusarmi; sono un democratico; so di essere fuori moda
 nel mondo moderno.
 
 Mentre guardavo quel palazzo di meraviglie pigmee, gli omnibus verdi,
 gli elefanti blu, le bambole nere e le arche di Noè rosse, devo essere caduto in una specie di trance innaturale.
 Quella vetrina illuminata divenne come il palcoscenico brillantemente illuminato
-quando si sta guardando una [[Comedy|commedia]] dai colori vivaci.
+quando si sta guardando una [[forms/comedy|commedia]] dai colori vivaci.
 Dimenticai le case grigie e la gente sudicia alle mie spalle, così come si
 dimenticano i corridoi bui e le folle indistinte in un teatro.
 Sembrava che gli oggetti dietro il vetro fossero piccoli,
 non perché erano giocattoli, ma perché erano oggetti lontani.
 L'omnibus verde era davvero un omnibus verde, un omnibus verde
-di Bayswater, che passava attraverso qualche enorme [[Desert|deserto]] sulla sua
+di Bayswater, che passava attraverso qualche enorme [[motifs/desert|deserto]] sulla sua
 strada ordinaria verso Bayswater. L'elefante blu non era più
 blu di vernice; era blu per la distanza. La bambola nera
 era davvero un negro in risalto contro il fogliame tropicale appassionato
 nella terra dove ogni erba è fiammeggiante e solo l'uomo è nero.
-L'arca di Noè rossa era davvero la enorme [[Ship|nave]] della salvezza terrena
+L'arca di Noè rossa era davvero la enorme [[motifs/ship|nave]] della salvezza terrena
 che naviga sul mare gonfio di pioggia, rosso nella prima
-mattina di [[Hope|speranza]].
+mattina di [[concepts/hope|speranza]].
 
-Suppongo che tutti conoscano quegli istanti sbalorditivi di astrazione, quelle brillanti lacune nella mente. In tali momenti si può vedere il volto del proprio migliore amico come un insensato disegno di occhiali o baffi. Sono comunemente caratterizzati dai due segni della lentezza della loro crescita e dell'improvvisità della loro fine. Il ritorno al pensiero reale è spesso brusco quanto scontrarsi con una persona. Molto spesso, infatti (nel mio caso), è proprio questo che accade. Ma in ogni caso il risveglio è sempre enfatico e, generalmente parlando, è sempre completo. Ora, in questo caso, sono tornato con uno shock di [[Sanity|sanità]] alla consapevolezza che stavo, dopotutto, solo fissando una squallida bottega di giocattoli; ma per qualche strana ragione la cura mentale non sembrava essere definitiva. C'era ancora nella mia mente qualcosa di incontrollabile che mi diceva che ero incappato in un'atmosfera strana, o che avevo già fatto qualcosa di strano. Mi sentivo come se avessi compiuto un miracolo o commesso un peccato. Era come se fossi comunque passato oltre qualche confine nell'[[Soul|anima]].
+Suppongo che tutti conoscano quegli istanti sbalorditivi di astrazione, quelle brillanti lacune nella mente. In tali momenti si può vedere il volto del proprio migliore amico come un insensato disegno di occhiali o baffi. Sono comunemente caratterizzati dai due segni della lentezza della loro crescita e dell'improvvisità della loro fine. Il ritorno al pensiero reale è spesso brusco quanto scontrarsi con una persona. Molto spesso, infatti (nel mio caso), è proprio questo che accade. Ma in ogni caso il risveglio è sempre enfatico e, generalmente parlando, è sempre completo. Ora, in questo caso, sono tornato con uno shock di sanità alla consapevolezza che stavo, dopotutto, solo fissando una squallida bottega di giocattoli; ma per qualche strana ragione la cura mentale non sembrava essere definitiva. C'era ancora nella mia mente qualcosa di incontrollabile che mi diceva che ero incappato in un'atmosfera strana, o che avevo già fatto qualcosa di strano. Mi sentivo come se avessi compiuto un miracolo o commesso un peccato. Era come se fossi comunque passato oltre qualche confine nell'[[motifs/soul|anima]].
 
 Per scuotermi da questa sensazione pericolosa e sognante sono entrato nel negozio
 e ho cercato di comprare dei soldatini di legno.  L'uomo del negozio era molto vecchio
 e malandato, con i capelli bianchi confusi che gli coprivano la testa e metà
 del viso, capelli così sbalorditivamente bianchi da sembrare quasi artificiali.
-Eppure, sebbene fosse senile e persino malato, non c'era nulla di [[Suffering|sofferenza]]
+Eppure, sebbene fosse senile e persino malato, non c'era nulla di [[concepts/suffering|sofferenza]]
 nei suoi occhi; sembrava piuttosto che stesse gradualmente addormentandosi
-in un [[Decay|declino]] non del tutto ostile.  Mi ha dato i soldatini di legno,
+in un [[motifs/decay|declino]] non del tutto ostile.  Mi ha dato i soldatini di legno,
 ma quando ho posato il denaro lui all'inizio non sembrava vederlo;
 poi lo ha fissato debolmente, e poi l'ha spinto debolmente via.
 
@@ -394,7 +394,7 @@ Qui siamo piuttosto vecchio stile».
 «Sono Babbo Natale», disse scusandosi e si soffiò di nuovo il naso.
 
 Le lampade non potevano essere ancora accese nella strada esterna.
-In ogni caso, non riuscivo a vedere nulla contro l'oscurità se non la [[Window|vetrina]] luminosa. Non c'erano suoni di passi o voci per la strada;
+In ogni caso, non riuscivo a vedere nulla contro l'oscurità se non la [[motifs/window|vetrina]] luminosa. Non c'erano suoni di passi o voci per la strada;
 avrei potuto vagare in un mondo nuovo e senza sole.
 Ma qualcosa aveva reciso i legami del senso comune, e non potevo
 provare nemmeno sorpresa se non con sonnolenza. Qualcosa mi fece dire:
@@ -418,13 +418,13 @@ They say my heavenly parts are too heavenly; they say my earthly
 parts are too earthly; I donÕt know what they want, I'm sure.
 How can heavenly things be too heavenly, or earthly things
 too earthly?  How can one be too good, or too jolly?
-I don't understand.  But I understand one thing [[Well|well]] enough.
+I don't understand.  But I understand one thing [[motifs/well|well]] enough.
 These modern people are living and I am dead."
 
 "You may be dead," I replied.  "You ought to know.
 But as for what they are doing, do not call it living."
 
-A [[Silence|silence]] fell suddenly between us which I somehow expected to
+A [[motifs/silence|silence]] fell suddenly between us which I somehow expected to
 be unbroken.  But it had not fallen for more than a few seconds when,
 in the utter stillness, I distinctly heard a very rapid step coming
 nearer and nearer along the street.  The next moment a figure
@@ -438,31 +438,31 @@ He took in the shop and the old man in a look that seemed literally
 a flash and uttered the exclamation of a man utterly staggered.
 
 "Good lord!" he cried out; "it can't be you!  It isn't you!
-I came to ask where your [[Grave|grave]] was."
+I came to ask where your [[motifs/grave|grave]] was."
 
 "I'm not dead yet, Mr. Dickens," said the old gentleman, with a
 feeble smile; "but I'm dying," he hastened to add reassuringly.
 
-"But, dash it all, you were dying in my [[Time|time]]," said Mr. Charles Dickens
+"But, dash it all, you were dying in my [[motifs/time|time]]," said Mr. Charles Dickens
 with animation; "and you don't look a day older."
 
-"I've felt like this for a long [[Time|time]]," said Father Christmas.
+"I've felt like this for a long [[motifs/time|time]]," said Father Christmas.
 
 Mr. Dickens turned his back and put his head out of the door
 into the darkness.
 
 "Dick," he roared at the top of his voice; "he's still alive."
 
-Another [[Shadow|shadow]] darkened the doorway, and a much larger and
+Another [[archetypes/shadow|shadow]] darkened the doorway, and a much larger and
 more full-blooded gentleman in an enormous periwig came in,
 fanning his flushed face with a military hat of the cut
-of [[Queen]] Anne.  He carried his head [[Well|well]] back like a soldier,
+of [[characters/queen|Queen]] Anne.  He carried his head [[motifs/well|well]] back like a soldier,
 and his hot face had even a look of arrogance, which was suddenly
 contradicted by his eyes, which were literally as humble
-as a dog's. His [[Sword|sword]] made a great clatter, as if the shop
+as a dog's. His sword made a great clatter, as if the shop
 were too small for it.
 
-"Indeed," said Sir [[Richard]] Steele, "'tis a most prodigious matter,
+"Indeed," said Sir [[characters/richard|Richard]] Steele, "'tis a most prodigious matter,
 for the man was dying when I wrote about Sir Roger de Coverley
 and his Christmas Day."
 
@@ -472,14 +472,14 @@ It seemed to be filled with newcomers.
 "It hath ever been understood," said a burly man, who carried
 his head humorously and obstinately a little on one side (I think
 he was Ben Jonson) "It hath ever been understood, consule Jacobo,
-under our [[King]] James and her late Majesty, that such good and hearty
+under our [[archetypes/king|King]] James and her late Majesty, that such good and hearty
 customs were fallen sick, and like to pass from the world.
 This grey beard most surely was no lustier when I knew him than now."
 
-And I also thought I heard a green-clad man, like [[Robin Hood]],
+And I also thought I heard a green-clad man, like [[characters/robin-hood|Robin Hood]],
 say in some mixed Norman French, "But I saw the man dying."
 
-"I have felt like this a long [[Time|time]]," said Father Christmas,
+"I have felt like this a long [[motifs/time|time]]," said Father Christmas,
 in his feeble way again.
 
 Mr. Charles Dickens suddenly leant across to him.
@@ -507,13 +507,13 @@ Dicono che le mie parti celesti sono troppo celesti; dicono che le mie parti
 terrene sono troppo terrene; non so proprio che cosa vogliano, davvero.
 Come possono le cose celesti essere troppo celesti, o le cose terrene
 troppo terrene?  Come si può essere troppo buoni, o troppo allegri?
-Non capisco.  Ma una cosa la capisco [[Well|bene]] abbastanza.
+Non capisco.  Ma una cosa la capisco [[motifs/well|bene]] abbastanza.
 Questa gente moderna vive, e io sono morto."
 
 "Sarai anche morto," risposi.  "Dovresti saperlo tu.
 Ma quanto a ciò che fanno loro, non chiamarlo vivere."
 
-Un [[Silence|silenzio]] cadde d'improvviso fra noi, che in qualche modo mi aspettavo
+Un [[motifs/silence|silenzio]] cadde d'improvviso fra noi, che in qualche modo mi aspettavo
 restasse ininterrotto.  Ma non era caduto da più di pochi secondi quando,
 nell'assoluta quiete, udii distintamente un passo rapidissimo avvicinarsi
 sempre più lungo la strada.  Un istante dopo una figura
@@ -527,30 +527,30 @@ Abbracciò la bottega e il vecchio in uno sguardo che parve letteralmente
 un lampo e proferì l'esclamazione di un uomo del tutto sbalordito.
 
 "Santo cielo!" gridò; "non può essere lei!  Non è lei!
-Ero venuto a chiedere dov'era la sua [[Grave|tomba]]."
+Ero venuto a chiedere dov'era la sua [[motifs/grave|tomba]]."
 
 "Non sono ancora morto, signor Dickens," disse il vecchio gentiluomo, con un
 debole sorriso; "ma sto morendo," si affrettò ad aggiungere per rassicurarlo.
 
-"Ma, diamine, lei stava morendo già ai miei [[Time|tempi]]," disse il signor Charles Dickens
+"Ma, diamine, lei stava morendo già ai miei [[motifs/time|tempi]]," disse il signor Charles Dickens
 con vivacità; "e non è invecchiato di un giorno."
 
-"Mi sento così da molto [[Time|tempo]]," disse Babbo Natale.
+"Mi sento così da molto [[motifs/time|tempo]]," disse Babbo Natale.
 
 Il signor Dickens si voltò e sporse la testa dalla porta
 nel buio.
 
 "Dick," ruggì a squarciagola; "è ancora vivo."
 
-Un'altra [[Shadow|ombra]] oscurò la soglia, ed entrò un gentiluomo assai più grande e
+Un'altra [[archetypes/shadow|ombra]] oscurò la soglia, ed entrò un gentiluomo assai più grande e
 più sanguigno, con un'enorme parrucca, sventolandosi il volto acceso
-con un cappello militare del taglio della [[Queen|regina]] Anna.  Portava la testa [[Well|ben]] eretta come un soldato,
+con un cappello militare del taglio della [[characters/queen|regina]] Anna.  Portava la testa [[motifs/well|ben]] eretta come un soldato,
 e il suo volto infuocato aveva persino un'aria di arroganza, subito
 smentita dagli occhi, che erano letteralmente umili
-come quelli di un cane.  La sua [[Sword|spada]] faceva un gran fracasso, come se la bottega
+come quelli di un cane.  La sua spada faceva un gran fracasso, come se la bottega
 fosse troppo piccola per essa.
 
-"In verità," disse Sir [[Richard]] Steele, "è cosa quanto mai prodigiosa,
+"In verità," disse Sir [[characters/richard|Richard]] Steele, "è cosa quanto mai prodigiosa,
 giacché quell'uomo stava morendo quando scrissi di Sir Roger de Coverley
 e del suo giorno di Natale."
 
@@ -560,14 +560,14 @@ Pareva riempirsi di nuovi venuti.
 "È sempre stato inteso," disse un uomo robusto, che portava
 la testa con umorismo e ostinazione un po' inclinata da un lato (credo
 fosse Ben Jonson) "è sempre stato inteso, consule Jacobo,
-sotto il nostro [[King|re]] Giacomo e la sua defunta Maestà, che tali buone e cordiali
+sotto il nostro [[archetypes/king|re]] Giacomo e la sua defunta Maestà, che tali buone e cordiali
 usanze fossero cadute inferme, e prossime a scomparire dal mondo.
 Questa barba grigia di certo non era più gagliarda quando lo conobbi di quanto lo sia adesso."
 
-E mi parve anche di udire un uomo vestito di verde, come [[Robin Hood]],
+E mi parve anche di udire un uomo vestito di verde, come [[characters/robin-hood|Robin Hood]],
 dire in un francese normanno un po' confuso: "Ma io vidi quell'uomo morire."
 
-"Mi sento così da molto [[Time|tempo]]," disse Babbo Natale,
+"Mi sento così da molto [[motifs/time|tempo]]," disse Babbo Natale,
 di nuovo nel suo modo fievole.
 
 Il signor Charles Dickens d'improvviso si sporse verso di lui.

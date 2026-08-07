@@ -33,7 +33,7 @@ tags:
   - histref/polish_soviet_war
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
+*by Chesterton*  ·  **Cluster:** [[clusters/heroism-·-hero-·-last-stand|Heroism · Hero · Last Stand]]
 
 > [!abstract] 
 > An essay celebrating Catholic Poland and the civilized cavalier — soldier and poet at once — whose chivalric, providential faith defeated Bolshevist materialism. Themes: heroism and chivalry, faith against mechanistic determinism, and national-religious romance.
@@ -52,15 +52,15 @@ tags:
 
 ## Connections
 
-**Settings:** [[Poland]], [[Europe]]
+**Settings:** [[settings/poland|Poland]], [[settings/europe|Europe]]
 
-**Topoi:** [[Last Stand]], [[War as Glory]]
-**Archetypes:** [[Hero]], [[Cavalier]]
-**Motifs:** [[Horse]]
-**Themes & Concepts:** [[Heroism]], [[Honour]], [[Faith]], [[Fate and Free Will]], [[Nationalism and Patriotism]], [[Providence]], [[Paradox]], [[History]]
-**Forms & Genres:** [[Essay]], [[Travel Writing]], [[Nonfiction]]
-**Historical References:** [[Catholic Church]], [[Puritanism]], [[Polish-Soviet War]]
-**Characters:** [[Don Quixote]], [[Sergius]], [[Bluntzschli]]
+**Topoi:** [[topoi/last-stand|Last Stand]], [[topoi/war-as-glory|War as Glory]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/cavalier|Cavalier]]
+**Motifs:** [[motifs/horse|Horse]]
+**Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/honour|Honour]], [[concepts/faith|Faith]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/providence|Providence]], [[concepts/paradox|Paradox]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/travel-writing|Travel Writing]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/puritanism|Puritanism]], [[historical-references/polish-soviet-war|Polish-Soviet War]]
+**Characters:** [[characters/don-quixote|Don Quixote]], [[characters/sergius|Sergius]], [[characters/bluntzschli|Bluntzschli]]
 
 ## Testo integrale / Full text
 

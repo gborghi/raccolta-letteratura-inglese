@@ -21,7 +21,7 @@ I. MR. WELLS’S GENERAL GRIEVANCES
 
 II. MR. WELLS AS BIOLOGIST
 
-III. MR. WELLS’S IGNORANCE OF THE [[Catholic Church|CATHOLIC CHURCH]]
+III. MR. WELLS’S IGNORANCE OF THE [[historical-references/catholic-church|CATHOLIC CHURCH]]
 
 IV. MY ERRORS
 
@@ -31,7 +31,7 @@ VI. THE GREAT ROSY DAWN
 
 INTRODUCTION
 
-MR. [[H. G. Wells]] brought out some time ago an Outline of History, the object of which was to deny the Christian religion.
+MR. [[characters/h.-g.-wells|H. G. Wells]] brought out some time ago an Outline of History, the object of which was to deny the Christian religion.
 
 I examined this production for the benefit of my co-religionists in the columns of certain Catholic papers. I did full justice to Mr. Wells’s talents as a writer, but I exposed his ill acquaintance with modern work on Biology, with early Christian writing and tradition, with Christian doctrine itself: and, in general, his incompetence.
 
@@ -39,7 +39,7 @@ Stung by this exposure, Mr. Wells has just brought out against me a small pamphl
 
 That book denies a creative God. There is no God, the Father Almighty, Creator of Heaven and Earth. The Incarnation is a myth; the Resurrection a falsehood; the Eucharist a mummery.
 
-Probably Mr. Wells is thus infuriated, not only at being exposed, but also because he cannot understand how such an assault upon religious [[Truth|truth]] should possibly provoke resentment; yet I think I can explain the thing to him by a parable.
+Probably Mr. Wells is thus infuriated, not only at being exposed, but also because he cannot understand how such an assault upon religious [[concepts/truth|truth]] should possibly provoke resentment; yet I think I can explain the thing to him by a parable.
 
 Supposing (it is mere hypothesis) that a man were to attack the Royal Family, and His Majesty in particular, jeering at the functions which monarchy performs for the State and holding up the King of England to contempt.
 
@@ -47,13 +47,13 @@ Mr. Wells would be the first to admit that a man so misbehaving himself would re
 
 Now the great and fundamental truths of the Christian religion are still sacred to quite a number of Mr. Wells’s fellow-citizens, including myself. Our attachment to them is at least as strong as the loyalty of the average Englishman to the Royal Family; and if he attacks them by way of History — making out that History disproves the Christian religion — then it is not, as he seems to imagine, an outrage; but, on the contrary, a natural and inevitable consequence that he should be taken to task, and his competence for writing history severely examined.
 
-I propose to reply in this pamphlet, not because I have any intention of being drawn into a slanging match with a writer who is my superior in this form of art, but because no challenge to [[Truth]] must be allowed to pass unheeded. So far from imitating Mr. Wells, I shall take care when I publish — as I do in a few weeks — my whole book, entitled A Companion to Mr. Wells’s “Outline of History,” to go carefully over my text and to cut out anything which could be construed into mere personal attack; though I shall preserve, of course, and even add to, the due and often severe criticism which Mr. Wells deserves for pretending to teach others on the basis of his own most insufficient instruction.
+I propose to reply in this pamphlet, not because I have any intention of being drawn into a slanging match with a writer who is my superior in this form of art, but because no challenge to [[concepts/truth|Truth]] must be allowed to pass unheeded. So far from imitating Mr. Wells, I shall take care when I publish — as I do in a few weeks — my whole book, entitled A Companion to Mr. Wells’s “Outline of History,” to go carefully over my text and to cut out anything which could be construed into mere personal attack; though I shall preserve, of course, and even add to, the due and often severe criticism which Mr. Wells deserves for pretending to teach others on the basis of his own most insufficient instruction.
 
 I should, no doubt, greatly increase the circulation of this little pamphlet of mine were I to season it with those offensive references to personal habits and appearance which are now fashionable between contemporaries. But I do not aim at any large circulation, beyond that reasonable amount which will secure my being heard by the people whose attention is worth having.
 
 Invective such as Mr. Wells substitutes for argument is wholly irrelevant. When you are discussing the competence of a man to write history, it is utterly meaningless to throw about the jeers of the gutter on his dress, accent or any other private detail concerning him. If you discover a man pretending to write about Roman antiquity and yet wholly blind to the effect of Latin literature, you rightly point out his ignorance. But it is not to the purpose to accuse him of having a round face or a thin voice. Indeed, were invective my object (which it most certainly is not), I should rather have answered in verse as being the more incisive and enduring form.
 
-If it be a test of literary victory over an opponent to make him foam at the mouth, then I have won hands down; but I do not regard Mr. Wells as my opponent, nor am I seeking any victory. I am simply taking a book which proposes to destroy the [[Faith]] of Christian men by the recital of pretended history, and showing that the history is bad. While praising many qualities in the book, I point out with chapter and verse that the history is uninformed. That is my point and my only point.
+If it be a test of literary victory over an opponent to make him foam at the mouth, then I have won hands down; but I do not regard Mr. Wells as my opponent, nor am I seeking any victory. I am simply taking a book which proposes to destroy the [[concepts/faith|Faith]] of Christian men by the recital of pretended history, and showing that the history is bad. While praising many qualities in the book, I point out with chapter and verse that the history is uninformed. That is my point and my only point.
 
 Now that I have made it, I hope, quite clear that I am neither interested in Mr. Wells’s personalities nor intend to go one better upon them, but to deal strictly with things capable of argument and intelligent examination, let us cut the cackle and come to the horses.
 
@@ -67,7 +67,7 @@ First: A number of shrill grievances on general grounds. For instance, that thou
 
 Secondly: He violently (and this is the main gist of all his pamphlet) assaults me for pointing out that his statement of Darwinian Natural Selection as the chief agent of evolution is antiquated stuff, exploded, and proves him quite unacquainted with modern work. Here he jeers at me as putting on a pose of special learning, and challenges me to quote any modern authorities substantiating my criticism. He calls my argument fantastic, a thing made up out of my own head, without any authority from competent biologists. He denies the existence of any such group of modern men of science opposed to Darwinian Natural Selection. It is an amazing thing that his ignorance should reach such a level as that, but it does. And it is there I am going to hammer him.
 
-Thirdly: There runs all through the little pamphlet, and still more through the book itself, a startling ignorance upon the [[Catholic Church]], and in particular the idea that the Church is opposed to scientific work, even such elementary science as Mr. Wells attempts to expound.
+Thirdly: There runs all through the little pamphlet, and still more through the book itself, a startling ignorance upon the [[historical-references/catholic-church|Catholic Church]], and in particular the idea that the Church is opposed to scientific work, even such elementary science as Mr. Wells attempts to expound.
 
 Fourthly: He complains that I have in certain specific points misread his meaning, misstated his conclusions or affirmations, and made errors myself in attempting to correct his. He brings, it is true, no more than three specific allegations; three out of a total of I know not how many score, in a body of work which catches him up and exposes him over and over again. Nevertheless, such as they are, being specific allegations, however few, they must in justice be met; and I will here meet them.
 
@@ -89,7 +89,7 @@ Of two things, one, either Mr. Wells knew my attitude, in which case his insinua
 
 Next he complains that I have not given him sufficient praise, or, at any rate, not praised him as continuously, highly and enthusiastically as I ought to have done. He complains that I only give him “slow” and “formal compliments” (page 2) and “patronising praise” (page 5).
 
-He is wounded because I accuse him of violent antagonism to the [[Catholic Church]] (page 1) (an accusation which he denies very earnestly).
+He is wounded because I accuse him of violent antagonism to the [[historical-references/catholic-church|Catholic Church]] (page 1) (an accusation which he denies very earnestly).
 
 He indignantly repudiates any bias against the gentry in history — which social class I ask him to revere.
 
@@ -111,17 +111,17 @@ Really, if that sort of thing is “oiliness,” Mr. Wells must be very difficul
 
 I did much more than this. I specifically praised whole portions of the book as being quite excellent, notably his handling of the story of language, and the précis on many sections of history. I have no space here to give a list of the passages in which I compliment him; but they are numerous, as any one of my readers will see when my book (A Companion to Mr. Wells’s “Outline”) shall appear.
 
-But he is not satisfied; and I am afraid the [[Truth|truth]] must be that these recent large, popular circulations of his have gone to his head, and now make him think himself much more talented than he is.
+But he is not satisfied; and I am afraid the [[concepts/truth|truth]] must be that these recent large, popular circulations of his have gone to his head, and now make him think himself much more talented than he is.
 
 Next he has a grievance which I have no doubt is quite sincere in his own mind, but which any impartial observer, I think, would smile at. I have said that he acts with violent antagonism to the Catholic Church, and I have called that his motive. That it is his motive Mr. Wells “earnestly denies.”
 
 Well, the whole book is written quite clearly round the object of convincing the reader, by so-called evidence, rather than reasoned argument, that there is no design in nature, and therefore no all-powerful creative God as the Author of nature; therefore, again, no revelation of such a God to men, therefore, naturally, no question of the Incarnation in Jesus Christ. The Atonement is man-made nonsense: The Fall of Man never happened, the Resurrection is a foolish story, and the Eucharist a make-believe.
 
-Now what Body is it which maintains in their entirety the doctrines thus attacked? Can anyone deny that it is the Catholic Church? Many of them have been held by other Bodies schismatical or heretical to it, and therefore the doctrines are often alluded to as those not of the Catholic Church, but of a vague entity, impossible to define, called “[[Christianity]].” Nevertheless, we all know that the denial to-day of those doctrines does not provoke determined resistance in any large organised Body outside the Catholic Church.
+Now what Body is it which maintains in their entirety the doctrines thus attacked? Can anyone deny that it is the Catholic Church? Many of them have been held by other Bodies schismatical or heretical to it, and therefore the doctrines are often alluded to as those not of the Catholic Church, but of a vague entity, impossible to define, called “[[historical-references/christianity|Christianity]].” Nevertheless, we all know that the denial to-day of those doctrines does not provoke determined resistance in any large organised Body outside the Catholic Church.
 
 Apart from this, there are expressions of contempt which quite clearly show the rabidness of the author’s reaction against the Creed. There is no doubt at all that the Church makes him “see red” — as she does so many others.
 
-He says he is not conscious of any such motive in attacking all the prime dogmas of the Christian [[Faith]].
+He says he is not conscious of any such motive in attacking all the prime dogmas of the Christian [[concepts/faith|Faith]].
 
 Well, I will give him a parallel. Suppose a foreigner were to write an Outline of Nineteenth Century History, and to say in it that Islanders were always rascals, that the love of sport and games was degrading — and particularly vicious that of football and cricket — that the English language was an offensive vehicle of thought and had produced nothing worthy; that sea-power was a myth, and that Nelson in particular was a bungler at handling ships; that the administration of India was a failure and a crime; and that the creation of large Overseas Colonies from the Mother Country was a fatuous experiment.
 
@@ -135,7 +135,7 @@ I am quite willing to withdraw the words, to admit my blunder, and to apologise 
 
 He is wounded because I pointed out his odd reaction against the idea of a gentleman, and his dislike of the gentry, and says that I bid him “revere” them. I never asked him to do anything so silly as to revere the gentry. I am sure I do not revere them myself. What I did say was that it weakened an historian and pretty well put him out of court when he wrote, not with balanced judgment, but negatively, out of hatred; and that piece of criticism I must maintain.
 
-As for his attitude towards the type called “a gentleman” in history, and in contemporary life, it would be easy to give examples out of other books from the same pen. But I am rigidly confining myself to this book — the Outline of History — and I submit that right through this work you see this strong dislike appearing. It appears in his treatment of the type, Roman, French or English, ancient, mediæval or modern. To take one instance out of a hundred, his sneer at the late [[Lord Salisbury]] in the pamphlet against me is characteristic. He suggests that this great man and considerable scientist was incompetent to discuss a simple question in biology, and had to be coached for the purpose, and badly coached. All our generation is a witness to the great talent of [[Lord Salisbury]] and to the range of his learning, and since he was no man’s enemy, and certainly never can have done any harm, direct or indirect, to Mr. Wells, I can only suggest that the word “Lord” was sufficient to throw Mr. Wells off his balance.
+As for his attitude towards the type called “a gentleman” in history, and in contemporary life, it would be easy to give examples out of other books from the same pen. But I am rigidly confining myself to this book — the Outline of History — and I submit that right through this work you see this strong dislike appearing. It appears in his treatment of the type, Roman, French or English, ancient, mediæval or modern. To take one instance out of a hundred, his sneer at the late [[characters/lord-salisbury|Lord Salisbury]] in the pamphlet against me is characteristic. He suggests that this great man and considerable scientist was incompetent to discuss a simple question in biology, and had to be coached for the purpose, and badly coached. All our generation is a witness to the great talent of [[characters/lord-salisbury|Lord Salisbury]] and to the range of his learning, and since he was no man’s enemy, and certainly never can have done any harm, direct or indirect, to Mr. Wells, I can only suggest that the word “Lord” was sufficient to throw Mr. Wells off his balance.
 
 Now for the condemnatory words to which he objects, — presumably on account of their force — words which I have, indeed, used in connection with his work, and shall certainly use again: such words as “ignorance,” “blunders,” “childish,” “unscientific,” etc. I see I must again explain to Mr. Wells an obvious principle in criticism which he fails to grasp. A word is not out of place in criticism unless it is either irrelevant or false in statement or in degree. The mere strength of a word does not put it out of court. On the contrary, if the strength of the word is exactly consonant to the degree of error noted the criticism is more just than if a milder word had been used. To say that a man who poisons his mother in order to obtain her fortune is “reprehensible” is bad criticism. To call him an “inhuman criminal” is sound criticism.
 
@@ -189,7 +189,7 @@ Another example of bad muddle-headedness is his mixing up the Catholic use of re
 
 I say in my criticism of Mr. Wells, and I say quite rightly, that to put forward a picture of an imaginary being called “Eoanthropus,” giving him a particular weapon and gait and gesture, and an expression (which, as I have said, made him very like one of my acquaintance), was utterly unwarranted upon the exceedingly doubtful evidence of the fragments called “The Piltdown skull.” Sacred images in Catholic use are not — and surely everybody ought to know that — attempts at reconstruction, still less are they fakes to try and get people to believe that, for instance, an Archangel has goose wings and curly hair. They are symbols; are powerful and useful aids to devotion, not reconstructions.
 
-Nor are relics in any way parallel to fossil evidences. We venerate a relic of St. Agnes (such as I am glad to say I have in my house), both because it is a striking memorial of that very holy witness to the [[Faith]], who gave up her life for it, and because (what I will not debate here) we believe that the sanctity of the person can upon occasion give virtue and power to such things. But we do not say, “In case you do not believe St. Agnes ever existed, here is a fragment of her bone.” To mix up two things so entirely different is muddle-headedness turned glorious.
+Nor are relics in any way parallel to fossil evidences. We venerate a relic of St. Agnes (such as I am glad to say I have in my house), both because it is a striking memorial of that very holy witness to the [[concepts/faith|Faith]], who gave up her life for it, and because (what I will not debate here) we believe that the sanctity of the person can upon occasion give virtue and power to such things. But we do not say, “In case you do not believe St. Agnes ever existed, here is a fragment of her bone.” To mix up two things so entirely different is muddle-headedness turned glorious.
 
 I could add not only further examples justifying the terms I have used, but a great many other terms equally justified. I must leave it to the ampler space of my book, The Companion to his work, which Mr. Wells will have the pleasure of seeing before him in a very few weeks.
 
@@ -197,7 +197,7 @@ II. MR. WELLS AS BIOLOGIST
 
 I COME NOW to what is the pith of Mr. Wells’s whole pamphlet. It is evidently the matter upon which he is most pained; it is also the matter on which he has most woefully exposed his lack of modern reading.
 
-Through page after page — thirteen whole pages — he slangs and bangs away at me — because I have exposed his ignorance of modern work upon [[Darwinism]].
+Through page after page — thirteen whole pages — he slangs and bangs away at me — because I have exposed his ignorance of modern work upon [[historical-references/darwinism|Darwinism]].
 
 There are in this furious attack two quite distinct points: first, his accusation that I pose as being a man having special learning, with European reputation in such affairs (very silly nonsense!); secondly, his treatment of the arguments which I have put before my readers against the old and exploded theory of Darwinian Natural Selection, upon which theory, remember, all these popular materialists still desperately rely in their denial of a Creative God and of Design in the universe.
 
@@ -235,11 +235,11 @@ Now let us turn to something totally different. I give it, not in German, which 
 
 And who is the unknown fellow I have got hold of here? Driesch: and his conclusion is much older than that which we have from Professor Bateson. Here, again, from the same insignificant little fellow, we have this — thirty whole years ago: —
 
-“For men of clear intellect [[Darwinism]] has long been dead....”
+“For men of clear intellect [[historical-references/darwinism|Darwinism]] has long been dead....”
 
 “Oh!” I can hear Mr. Wells saying, “but who is this Driesch?” Well, he stands among the greatest of the German biologists to all educated men. But Mr. Wells has never heard of him.
 
-There is yet another German who put it more strongly still, for he actually gave a title to his book which is, being interpreted, The Death-bed of [[Darwinism]]. And who was he? He was only a person called Dennert.
+There is yet another German who put it more strongly still, for he actually gave a title to his book which is, being interpreted, The Death-bed of [[historical-references/darwinism|Darwinism]]. And who was he? He was only a person called Dennert.
 
 Here Mr. Wells will, I am sure, protest and say, “Oh, this Dennert you tell me about is surely extreme.” I am rather inclined to agree. But that is not the point. He wanted modern authorities, and I am giving him a few. Mr. Wells had never heard of Dennert.
 
@@ -577,7 +577,7 @@ This sort of exaltation is the inevitable first phase of Bible-mania in decay. B
 
 INTRODUCTION
 
-MR. [[H. G. Wells]] brought out some time ago an Outline of History, the object of which was to deny the Christian religion.
+MR. [[characters/h.-g.-wells|H. G. Wells]] brought out some time ago an Outline of History, the object of which was to deny the Christian religion.
 
 I examined this production for the benefit of my co-religionists in the columns of certain Catholic papers. I did full justice to Mr. Wells’s talents as a writer, but I exposed his ill acquaintance with modern work on Biology, with early Christian writing and tradition, with Christian doctrine itself: and, in general, his incompetence.
 
@@ -585,7 +585,7 @@ Stung by this exposure, Mr. Wells has just brought out against me a small pamphl
 
 That book denies a creative God. There is no God, the Father Almighty, Creator of Heaven and Earth. The Incarnation is a myth; the Resurrection a falsehood; the Eucharist a mummery.
 
-Probably Mr. Wells is thus infuriated, not only at being exposed, but also because he cannot understand how such an assault upon religious [[Truth|truth]] should possibly provoke resentment; yet I think I can explain the thing to him by a parable.
+Probably Mr. Wells is thus infuriated, not only at being exposed, but also because he cannot understand how such an assault upon religious [[concepts/truth|truth]] should possibly provoke resentment; yet I think I can explain the thing to him by a parable.
 
 Supposing (it is mere hypothesis) that a man were to attack the Royal Family, and His Majesty in particular, jeering at the functions which monarchy performs for the State and holding up the King of England to contempt.
 
@@ -593,13 +593,13 @@ Mr. Wells would be the first to admit that a man so misbehaving himself would re
 
 Now the great and fundamental truths of the Christian religion are still sacred to quite a number of Mr. Wells’s fellow-citizens, including myself. Our attachment to them is at least as strong as the loyalty of the average Englishman to the Royal Family; and if he attacks them by way of History — making out that History disproves the Christian religion — then it is not, as he seems to imagine, an outrage; but, on the contrary, a natural and inevitable consequence that he should be taken to task, and his competence for writing history severely examined.
 
-I propose to reply in this pamphlet, not because I have any intention of being drawn into a slanging match with a writer who is my superior in this form of art, but because no challenge to [[Truth]] must be allowed to pass unheeded. So far from imitating Mr. Wells, I shall take care when I publish — as I do in a few weeks — my whole book, entitled A Companion to Mr. Wells’s “Outline of History,” to go carefully over my text and to cut out anything which could be construed into mere personal attack; though I shall preserve, of course, and even add to, the due and often severe criticism which Mr. Wells deserves for pretending to teach others on the basis of his own most insufficient instruction.
+I propose to reply in this pamphlet, not because I have any intention of being drawn into a slanging match with a writer who is my superior in this form of art, but because no challenge to [[concepts/truth|Truth]] must be allowed to pass unheeded. So far from imitating Mr. Wells, I shall take care when I publish — as I do in a few weeks — my whole book, entitled A Companion to Mr. Wells’s “Outline of History,” to go carefully over my text and to cut out anything which could be construed into mere personal attack; though I shall preserve, of course, and even add to, the due and often severe criticism which Mr. Wells deserves for pretending to teach others on the basis of his own most insufficient instruction.
 
 I should, no doubt, greatly increase the circulation of this little pamphlet of mine were I to season it with those offensive references to personal habits and appearance which are now fashionable between contemporaries. But I do not aim at any large circulation, beyond that reasonable amount which will secure my being heard by the people whose attention is worth having.
 
 Invective such as Mr. Wells substitutes for argument is wholly irrelevant. When you are discussing the competence of a man to write history, it is utterly meaningless to throw about the jeers of the gutter on his dress, accent or any other private detail concerning him. If you discover a man pretending to write about Roman antiquity and yet wholly blind to the effect of Latin literature, you rightly point out his ignorance. But it is not to the purpose to accuse him of having a round face or a thin voice. Indeed, were invective my object (which it most certainly is not), I should rather have answered in verse as being the more incisive and enduring form.
 
-If it be a test of literary victory over an opponent to make him foam at the mouth, then I have won hands down; but I do not regard Mr. Wells as my opponent, nor am I seeking any victory. I am simply taking a book which proposes to destroy the [[Faith]] of Christian men by the recital of pretended history, and showing that the history is bad. While praising many qualities in the book, I point out with chapter and verse that the history is uninformed. That is my point and my only point.
+If it be a test of literary victory over an opponent to make him foam at the mouth, then I have won hands down; but I do not regard Mr. Wells as my opponent, nor am I seeking any victory. I am simply taking a book which proposes to destroy the [[concepts/faith|Faith]] of Christian men by the recital of pretended history, and showing that the history is bad. While praising many qualities in the book, I point out with chapter and verse that the history is uninformed. That is my point and my only point.
 
 Now that I have made it, I hope, quite clear that I am neither interested in Mr. Wells’s personalities nor intend to go one better upon them, but to deal strictly with things capable of argument and intelligent examination, let us cut the cackle and come to the horses.
 
@@ -613,7 +613,7 @@ First: A number of shrill grievances on general grounds. For instance, that thou
 
 Secondly: He violently (and this is the main gist of all his pamphlet) assaults me for pointing out that his statement of Darwinian Natural Selection as the chief agent of evolution is antiquated stuff, exploded, and proves him quite unacquainted with modern work. Here he jeers at me as putting on a pose of special learning, and challenges me to quote any modern authorities substantiating my criticism. He calls my argument fantastic, a thing made up out of my own head, without any authority from competent biologists. He denies the existence of any such group of modern men of science opposed to Darwinian Natural Selection. It is an amazing thing that his ignorance should reach such a level as that, but it does. And it is there I am going to hammer him.
 
-Thirdly: There runs all through the little pamphlet, and still more through the book itself, a startling ignorance upon the [[Catholic Church]], and in particular the idea that the Church is opposed to scientific work, even such elementary science as Mr. Wells attempts to expound.
+Thirdly: There runs all through the little pamphlet, and still more through the book itself, a startling ignorance upon the [[historical-references/catholic-church|Catholic Church]], and in particular the idea that the Church is opposed to scientific work, even such elementary science as Mr. Wells attempts to expound.
 
 Fourthly: He complains that I have in certain specific points misread his meaning, misstated his conclusions or affirmations, and made errors myself in attempting to correct his. He brings, it is true, no more than three specific allegations; three out of a total of I know not how many score, in a body of work which catches him up and exposes him over and over again. Nevertheless, such as they are, being specific allegations, however few, they must in justice be met; and I will here meet them.
 
@@ -628,7 +628,7 @@ I will deal with these six matters which build up Mr. Wells’s pamphlet, taking
 
 Introduzione
 
-Il signor [[H. G. Wells]] ha pubblicato qualche tempo fa un “Sommario della Storia”, il cui scopo era negare l’esistenza della religione cristiana.
+Il signor [[characters/h.-g.-wells|H. G. Wells]] ha pubblicato qualche tempo fa un “Sommario della Storia”, il cui scopo era negare l’esistenza della religione cristiana.
 
 Ho esaminato questa produzione al fine di aiutare i miei confratelli di religione attraverso le colonne di alcuni giornali cattolici. Ho reso piena giustizia ai talenti dello signor Wells come scrittore, ma ho evidenziato la sua scarsa conoscenza delle moderne ricerche in biologia, degli scritti e della tradizione cristiana antica, nonché della stessa dottrina cristiana; in generale, ho mostrato la sua incompetenza.
 
@@ -636,7 +636,7 @@ Offeso da questa pubblicazione, il signor Wells ha appena pubblicato contro di m
 
 Quel libro nega l’esistenza di un Dio creatore. Non c’è alcun Dio, il Padre Onnipotente, Creatore del Cielo e della Terra. L’Incarnazione è un mito; la Resurrezione una menzogna; l’Eucaristia una simulazione.
 
-Probabilmente il signor Wells è così furioso non solo perché è stato smascherato, ma anche perché non riesce a capire come un attacco del genere contro le [[Truth|verità]] religiose possa suscitare risentimento; tuttavia credo di potergli spiegare la cosa attraverso una parabola.
+Probabilmente il signor Wells è così furioso non solo perché è stato smascherato, ma anche perché non riesce a capire come un attacco del genere contro le [[concepts/truth|verità]] religiose possa suscitare risentimento; tuttavia credo di potergli spiegare la cosa attraverso una parabola.
 
 Supponendo (si tratta solo di un'ipotesi) che un uomo attaccasse la Famiglia Reale, e in particolare Sua Maestà, deridendo le funzioni che la monarchia svolge per lo Stato e mettendo in ridicolo il Re d’Inghilterra.
 
@@ -644,13 +644,13 @@ Il signor Wells sarebbe il primo ad ammettere che un uomo che si comporta in mod
 
 Oggi ancora, le grandi e fondamentali verità della religione cristiana sono sacre per molti dei concittadini di Mr. Wells, compreso me stesso. Il nostro attaccamento a esse è almeno altrettanto forte quanto la lealtà dell’inglese medio verso la Famiglia Reale; e se lui le attacca attraverso la storia, sostenendo che quest’ultima confuti la religione cristiana, allora non si tratta, come sembra credere lui, di un oltraggio, ma, al contrario, di una conseguenza naturale ed inevitabile del fatto che venga messo sotto accusa e che la sua competenza nel scrivere storia venga severamente esaminata.
 
-Propongo di rispondere in questo pamphlet, non perché abbia alcuna intenzione di coinvolgermi in una disputa verbale con uno scrittore che è mio superiore in questa forma d’arte, ma perché nessuna sfida alla [[Truth|Verità]] può essere lasciata senza risposta. Lontano dall’imitare il signor Wells, farò attenzione, quando pubblicherò – tra poche settimane – l’intero mio libro intitolato “Un complemento all’‘Schema della storia’ del signor Wells”, a revisionare attentamente il testo e a eliminare qualsiasi elemento possa essere interpretato come semplice attacco personale; tuttavia, naturalmente manterrò, anzi aggiungerò, quelle critiche giuste e spesso severe che il signor Wells merita per aver cercato di insegnare agli altri basandosi sulle proprie conoscenze assai insufficienti.
+Propongo di rispondere in questo pamphlet, non perché abbia alcuna intenzione di coinvolgermi in una disputa verbale con uno scrittore che è mio superiore in questa forma d’arte, ma perché nessuna sfida alla [[concepts/truth|Verità]] può essere lasciata senza risposta. Lontano dall’imitare il signor Wells, farò attenzione, quando pubblicherò – tra poche settimane – l’intero mio libro intitolato “Un complemento all’‘Schema della storia’ del signor Wells”, a revisionare attentamente il testo e a eliminare qualsiasi elemento possa essere interpretato come semplice attacco personale; tuttavia, naturalmente manterrò, anzi aggiungerò, quelle critiche giuste e spesso severe che il signor Wells merita per aver cercato di insegnare agli altri basandosi sulle proprie conoscenze assai insufficienti.
 
 Senza dubbio, potrei aumentare notevolmente la diffusione di questo mio piccolo pamphlet se vi aggiungessi quelle allusioni offensive ai comportamenti personali e all’aspetto fisico che al giorno d’oggi sono in voga tra i miei contemporanei. Tuttavia, non ho alcuna intenzione di ottenere una diffusione su larga scala, ma soltanto quella quantità ragionevole che mi permetta di essere ascoltato da quelle persone il cui interesse merita davvero la mia attenzione.
 
 Insulti del genere di quelli lanciati da Mr. Wells, al posto di argomentazioni valide, sono completamente irrilevanti. Quando si discute della competenza di una persona nel scrivere storia, è assolutamente privo di senso ricorrere a commenti offensivi riguardo al suo abbigliamento, all’accento o ad altri dettagli personali. Se si scopre che qualcuno pretende di scrivere sulla antichità romana ma è completamente ignorante sugli effetti della letteratura latina, è giusto sottolineare la sua ignoranza. Tuttavia, non ha alcun senso accusarlo di avere il viso rotondo o una voce sottile. Anzi, se lo scopo fosse proprio quello di lanciare insulti (il che certamente non è), avrei preferito rispondere in versi, poiché questa forma è sicuramente più incisiva e duratura.
 
-Se consideriamo che il compito di un autore sia quello di “far sbavare” il proprio avversario attraverso una vittoria letteraria, allora ho vinto senza dubbio; tuttavia non considero il signor Wells mio avversario, né sto cercando alcuna vittoria. Sto semplicemente analizzando un libro che si propone di distruggere la [[Faith|Fede]] degli uomini cristiani attraverso la narrazione di una storia falsa, dimostrando che tale storia è priva di fondamento storico. Pur lodando molti aspetti positivi di questo libro, indico con precisione, capitolo per capitolo e versetto per versetto, le sue inesattezze. Questo è il mio obiettivo, e l’unico.
+Se consideriamo che il compito di un autore sia quello di “far sbavare” il proprio avversario attraverso una vittoria letteraria, allora ho vinto senza dubbio; tuttavia non considero il signor Wells mio avversario, né sto cercando alcuna vittoria. Sto semplicemente analizzando un libro che si propone di distruggere la [[concepts/faith|Fede]] degli uomini cristiani attraverso la narrazione di una storia falsa, dimostrando che tale storia è priva di fondamento storico. Pur lodando molti aspetti positivi di questo libro, indico con precisione, capitolo per capitolo e versetto per versetto, le sue inesattezze. Questo è il mio obiettivo, e l’unico.
 
 Ora che ho cercato di spiegare chiaramente che non mi interessano affatto le personalità del signor Wells, né intendo migliorarle in alcun modo, ma voglio occuparmi soltanto di argomenti suscettibili di discussione e analisi razionale, smettiamo di perdere tempo in chiacchiere inutili e veniamo al dunque.
 
@@ -658,13 +658,13 @@ Ora che ho cercato di spiegare chiaramente che non mi interessano affatto le per
 
 Il pamphlet di Mr. Wells contro di me, a cui sto rispondendo qui, è composto da sei elementi diversi. Questi non sono disposti in alcun ordine regolare, e probabilmente nemmeno l’autore stesso sarebbe in grado di analizzarli; tuttavia, un critico competente non ha difficoltà a separarli uno dall’altro.
 
-#Essi sono:—
+Essi sono:—
 
 Primo: Un numero di lamentele acute su questioni generali. Ad esempio, che sebbene lo abbia lodato molto, non abbastanza a mio parere; che nei casi in cui dovevo biasimarlo, ho usato aggettivi riguardo al suo lavoro come “confuso”, “ignorante”, che non erano giustificati; che in generale sia una persona sfruttata e quindi si lamenti con grande amarezza.
 
 In secondo luogo: Mi attacca violentamente (e questo è il punto principale di tutti i suoi pamphlet) perché ho sottolineato che la sua affermazione secondo cui la selezione naturale darwiniana sia l’agente principale dell’evoluzione è ormai obsoleta, screditata e dimostra chiaramente la sua totale ignoranza dei lavori moderni in materia. Qui mi accusa di fingere di possedere una conoscenza speciale e mi sfida a citare qualsiasi autore moderno che possa avvalorare le mie critiche. Definisce il mio argomento fantastico, frutto della mia fantasia, privo di qualsiasi fondamento fornito da biologi competenti. Nega l’esistenza di un gruppo di scienziati moderni contrari alla selezione naturale darwiniana. È sorprendente che la sua ignoranza possa raggiungere un tale livello, ma è proprio così. Ed è su questo punto che intendo colpirlo duramente.
 
-In terzo luogo: in tutto quel piccolo opuscolo, e ancora di più nel libro stesso, si riscontra una sorprendente ignoranza riguardo alla [[Catholic Church|Chiesa Cattolica]], in particolare l’idea che la Chiesa sia contraria al lavoro scientifico, anche a quello di carattere elementare come quello che il signor Wells cerca di spiegare.
+In terzo luogo: in tutto quel piccolo opuscolo, e ancora di più nel libro stesso, si riscontra una sorprendente ignoranza riguardo alla [[historical-references/catholic-church|Chiesa Cattolica]], in particolare l’idea che la Chiesa sia contraria al lavoro scientifico, anche a quello di carattere elementare come quello che il signor Wells cerca di spiegare.
 
 In quarto luogo: si lamenta che in alcuni punti specifici abbia frainteso il suo significato, riportato erroneamente le sue conclusioni o affermazioni, e che io stesso abbia commesso errori nel tentativo di correggerle. È vero che solleva non più di tre accuse specifiche; tre su un numero totale che non so quantificare, in un’opera che lo smaschera ripetutamente. Tuttavia, poiché si tratta di accuse specifiche, per quanto poche siano, è giusto rispondervi; e io lo farò qui.
 
@@ -691,7 +691,7 @@ Of two things, one, either Mr. Wells knew my attitude, in which case his insinua
 
 Next he complains that I have not given him sufficient praise, or, at any rate, not praised him as continuously, highly and enthusiastically as I ought to have done. He complains that I only give him “slow” and “formal compliments” (page 2) and “patronising praise” (page 5).
 
-He is wounded because I accuse him of violent antagonism to the [[Catholic Church]] (page 1) (an accusation which he denies very earnestly).
+He is wounded because I accuse him of violent antagonism to the [[historical-references/catholic-church|Catholic Church]] (page 1) (an accusation which he denies very earnestly).
 
 He indignantly repudiates any bias against the gentry in history — which social class I ask him to revere.
 
@@ -713,16 +713,16 @@ Really, if that sort of thing is “oiliness,” Mr. Wells must be very difficul
 
 I did much more than this. I specifically praised whole portions of the book as being quite excellent, notably his handling of the story of language, and the précis on many sections of history. I have no space here to give a list of the passages in which I compliment him; but they are numerous, as any one of my readers will see when my book (A Companion to Mr. Wells’s “Outline”) shall appear.
 
-But he is not satisfied; and I am afraid the [[Truth|truth]] must be that these recent large, popular circulations of his have gone to his head, and now make him think himself much more talented than he is.
+But he is not satisfied; and I am afraid the [[concepts/truth|truth]] must be that these recent large, popular circulations of his have gone to his head, and now make him think himself much more talented than he is.
 
-Next he has a grievance which I have no doubt is quite sincere in his own mind, but which any impartial observer, I think, would smile at. I have said that he acts with violent antagonism to the [[Catholic Church]], and I have called that his motive. That it is his motive Mr. Wells “earnestly denies.”
+Next he has a grievance which I have no doubt is quite sincere in his own mind, but which any impartial observer, I think, would smile at. I have said that he acts with violent antagonism to the [[historical-references/catholic-church|Catholic Church]], and I have called that his motive. That it is his motive Mr. Wells “earnestly denies.”
 
 Well, the whole book is written quite clearly round the object of convincing the reader, by so-called evidence, rather than reasoned argument, that there is no design in nature, and therefore no all-powerful creative God as the Author of nature; therefore, again, no revelation of such a God to men, therefore, naturally, no question of the Incarnation in Jesus Christ. The Atonement is man-made nonsense: The Fall of Man never happened, the Resurrection is a foolish story, and the Eucharist a make-believe.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# I. Le generali lamentele del signor Wells
+I. Le generali lamentele del signor Wells
 
 Non posso certo, in un pamphlet così breve come questo, affrontare tutte le lamentele che il signor Wells ha diffuso ovunque. Ma posso esporne i punti principali e cercare di fargli capire quanto siano infondate le sue obiezioni.
 
@@ -734,7 +734,7 @@ Tra queste due possibilità: o il signor Wells conosceva la mia posizione, e in 
 
 In seguito si lamenta che non gli abbia dato abbastanza lodi, o comunque che non lo abbia lodato con continuità, entusiasmo e intensità come avrei dovuto fare. Si lamenta che gli dia soltanto “lodi lente” e “formali” (pagina 2) e “lodi condiscendenti” (pagina 5).
 
-È ferito perché lo accuso di un ostilità violenta verso la [[Catholic Church|Chiesa Cattolica]] (pagina 1) (un'accusa che lui nega con molta convinzione).
+È ferito perché lo accuso di un ostilità violenta verso la [[historical-references/catholic-church|Chiesa Cattolica]] (pagina 1) (un'accusa che lui nega con molta convinzione).
 
 Rifiuta con indignazione qualsiasi pregiudizio nei confronti della nobiltà nella storia, una classe sociale che, gli chiedo, dovrebbe essere rispettata.
 
@@ -756,9 +756,9 @@ Davvero, se questo tipo di atteggiamento viene considerato “adulazione eccessi
 
 Ho fatto molto di più di questo: ho specificamente lodato intere parti del libro, definendole davvero eccellenti, in particolare il modo in cui l’autore ha affrontato la questione del linguaggio e i dettagli forniti su molte parti della storia. Non ho spazio qui per elencare tutti i passaggi in cui lo ho lodato; ma sono numerosi, come qualsiasi lettore potrà constatare non appena uscirà il mio libro (“A Companion to Mr. Wells’s ‘Outline’”).
 
-Ma lui non è soddisfatto; temo che la [[Truth|_verità]] sia che queste recenti e ampie circolazioni delle sue opere gli siano salite alla testa, facendogli credere di essere molto più talentuoso di quanto in realtà sia.
+Ma lui non è soddisfatto; temo che la [[concepts/truth|_verità]] sia che queste recenti e ampie circolazioni delle sue opere gli siano salite alla testa, facendogli credere di essere molto più talentuoso di quanto in realtà sia.
 
-Successivamente, egli presenta un rimprovero che, senza dubbio, è del tutto sincero nella sua mente, ma che, a mio parere, qualsiasi osservatore imparziale troverebbe ridicolo. Ho detto che agisce con un violento antagonismo verso la [[Catholic Church|Chiesa Cattolica]] e ho definito quella la sua motivazione. Ma il signor Wells “nega fermamente” che sia proprio questa la sua motivazione.
+Successivamente, egli presenta un rimprovero che, senza dubbio, è del tutto sincero nella sua mente, ma che, a mio parere, qualsiasi osservatore imparziale troverebbe ridicolo. Ho detto che agisce con un violento antagonismo verso la [[historical-references/catholic-church|Chiesa Cattolica]] e ho definito quella la sua motivazione. Ma il signor Wells “nega fermamente” che sia proprio questa la sua motivazione.
 
 Beh, l'intero libro è scritto in modo piuttosto chiaro, con l’obiettivo di convincere il lettore, attraverso cosiddette “prove”, e non argomentazioni razionali, che nella natura non esista alcun disegno divino, e quindi nessun Dio creatore onnipotente come autore della natura; di conseguenza, nemmeno alcuna rivelazione di tale Dio agli uomini, e naturalmente neppure il problema dell’Incarnazione in Gesù Cristo. L’Espiazione è un nonsenso inventato dall’uomo: la Caduta dell’Uomo non è mai avvenuta, la Resurrezione è una storia assurda, e l’Eucaristia è solo una finzione.
 
@@ -767,11 +767,11 @@ Beh, l'intero libro è scritto in modo piuttosto chiaro, con l’obiettivo di co
 <span class="atom-split" data-atom="story_02_mr_wellss_general_grievances--part_02" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS’S GENERAL GRIEVANCES (part 2)" data-chapter="MR WELLSS GENERAL GRIEVANCES" data-kind="excerpt" data-tags="concept/faith,histref/catholic_church,histref/christianity,character/lord_salisbury"></span>
 
 
-Now what Body is it which maintains in their entirety the doctrines thus attacked? Can anyone deny that it is the [[Catholic Church]]? Many of them have been held by other Bodies schismatical or heretical to it, and therefore the doctrines are often alluded to as those not of the [[Catholic Church]], but of a vague entity, impossible to define, called “[[Christianity]].” Nevertheless, we all know that the denial to-day of those doctrines does not provoke determined resistance in any large organised Body outside the [[Catholic Church]].
+Now what Body is it which maintains in their entirety the doctrines thus attacked? Can anyone deny that it is the [[historical-references/catholic-church|Catholic Church]]? Many of them have been held by other Bodies schismatical or heretical to it, and therefore the doctrines are often alluded to as those not of the [[historical-references/catholic-church|Catholic Church]], but of a vague entity, impossible to define, called “[[historical-references/christianity|Christianity]].” Nevertheless, we all know that the denial to-day of those doctrines does not provoke determined resistance in any large organised Body outside the [[historical-references/catholic-church|Catholic Church]].
 
 Apart from this, there are expressions of contempt which quite clearly show the rabidness of the author’s reaction against the Creed. There is no doubt at all that the Church makes him “see red” — as she does so many others.
 
-He says he is not conscious of any such motive in attacking all the prime dogmas of the Christian [[Faith]].
+He says he is not conscious of any such motive in attacking all the prime dogmas of the Christian [[concepts/faith|Faith]].
 
 Well, I will give him a parallel. Suppose a foreigner were to write an Outline of Nineteenth Century History, and to say in it that Islanders were always rascals, that the love of sport and games was degrading — and particularly vicious that of football and cricket — that the English language was an offensive vehicle of thought and had produced nothing worthy; that sea-power was a myth, and that Nelson in particular was a bungler at handling ships; that the administration of India was a failure and a crime; and that the creation of large Overseas Colonies from the Mother Country was a fatuous experiment.
 
@@ -785,7 +785,7 @@ I am quite willing to withdraw the words, to admit my blunder, and to apologise 
 
 He is wounded because I pointed out his odd reaction against the idea of a gentleman, and his dislike of the gentry, and says that I bid him “revere” them. I never asked him to do anything so silly as to revere the gentry. I am sure I do not revere them myself. What I did say was that it weakened an historian and pretty well put him out of court when he wrote, not with balanced judgment, but negatively, out of hatred; and that piece of criticism I must maintain.
 
-As for his attitude towards the type called “a gentleman” in history, and in contemporary life, it would be easy to give examples out of other books from the same pen. But I am rigidly confining myself to this book — the Outline of History — and I submit that right through this work you see this strong dislike appearing. It appears in his treatment of the type, Roman, French or English, ancient, mediæval or modern. To take one instance out of a hundred, his sneer at the late [[Lord Salisbury]] in the pamphlet against me is characteristic. He suggests that this great man and considerable scientist was incompetent to discuss a simple question in biology, and had to be coached for the purpose, and badly coached. All our generation is a witness to the great talent of [[Lord Salisbury]] and to the range of his learning, and since he was no man’s enemy, and certainly never can have done any harm, direct or indirect, to Mr. Wells, I can only suggest that the word “Lord” was sufficient to throw Mr. Wells off his balance.
+As for his attitude towards the type called “a gentleman” in history, and in contemporary life, it would be easy to give examples out of other books from the same pen. But I am rigidly confining myself to this book — the Outline of History — and I submit that right through this work you see this strong dislike appearing. It appears in his treatment of the type, Roman, French or English, ancient, mediæval or modern. To take one instance out of a hundred, his sneer at the late [[characters/lord-salisbury|Lord Salisbury]] in the pamphlet against me is characteristic. He suggests that this great man and considerable scientist was incompetent to discuss a simple question in biology, and had to be coached for the purpose, and badly coached. All our generation is a witness to the great talent of [[characters/lord-salisbury|Lord Salisbury]] and to the range of his learning, and since he was no man’s enemy, and certainly never can have done any harm, direct or indirect, to Mr. Wells, I can only suggest that the word “Lord” was sufficient to throw Mr. Wells off his balance.
 
 Now for the condemnatory words to which he objects, — presumably on account of their force — words which I have, indeed, used in connection with his work, and shall certainly use again: such words as “ignorance,” “blunders,” “childish,” “unscientific,” etc. I see I must again explain to Mr. Wells an obvious principle in criticism which he fails to grasp. A word is not out of place in criticism unless it is either irrelevant or false in statement or in degree. The mere strength of a word does not put it out of court. On the contrary, if the strength of the word is exactly consonant to the degree of error noted the criticism is more just than if a milder word had been used. To say that a man who poisons his mother in order to obtain her fortune is “reprehensible” is bad criticism. To call him an “inhuman criminal” is sound criticism.
 
@@ -798,11 +798,11 @@ As to “ignorance.” This is a word exactly applicable to point after point in
 
 <span class="qlang-split" data-lang="it"></span>
 
-Quale quindi è l’entità che mantiene integralmente queste dottrine, così attaccate? Qualcuno può negare che si tratti della [[Catholic Church|Chiesa Cattolica]]? Molte di queste dottrine sono state considerate eretiche o scismatiche da altre istituzioni, e per questo motivo vengono spesso definite non appartenenti alla [[Catholic Church|Chiesa Cattolica]], ma a un’entità vaga e impossibile da definire, chiamata “[[Christianity|Christianesimo]]”. Tuttavia, sappiamo tutti che la negazione di queste dottrine oggi non suscita alcuna resistenza decisa da parte di nessuna grande organizzazione al di fuori della [[Catholic Church|Chiesa Cattolica]].
+Quale quindi è l’entità che mantiene integralmente queste dottrine, così attaccate? Qualcuno può negare che si tratti della [[historical-references/catholic-church|Chiesa Cattolica]]? Molte di queste dottrine sono state considerate eretiche o scismatiche da altre istituzioni, e per questo motivo vengono spesso definite non appartenenti alla [[historical-references/catholic-church|Chiesa Cattolica]], ma a un’entità vaga e impossibile da definire, chiamata “[[historical-references/christianity|Christianesimo]]”. Tuttavia, sappiamo tutti che la negazione di queste dottrine oggi non suscita alcuna resistenza decisa da parte di nessuna grande organizzazione al di fuori della [[historical-references/catholic-church|Chiesa Cattolica]].
 
 Oltre a questo, ci sono espressioni di disprezzo che mostrano chiaramente l’intensità della reazione dell’autore contro il Credo. Non c’è alcun dubbio che la Chiesa lo faccia “impazzire di rabbia” – proprio come fa con molte altre persone.
 
-Afferma di non essere consapevole dell’esistenza di un simile movente nell’attaccare tutti i principali dogmi della [[Faith|>Fede]] cristiana.
+Afferma di non essere consapevole dell’esistenza di un simile movente nell’attaccare tutti i principali dogmi della [[concepts/faith|>Fede]] cristiana.
 
 Beh, gli farò un esempio simile. Supponiamo che uno straniero scriva una “Sinossi della Storia del Novecento” e vi dica che gli abitanti delle isole sono sempre stati individui disonesti, che l’amore per lo sport e i giochi è degradante – soprattutto il calcio e il cricket – che la lingua inglese è uno strumento offensivo per esprimere i pensieri e non ha prodotto nulla di significativo; che il potere marittimo è un mito, e che Nelson in particolare era un incompetente nel gestire le navi; che l’amministrazione dell’India è stata un fallimento e un crimine; e che la creazione di grandi colonie d’oltremare dalla madrepatria sia stato un esperimento futile.
 
@@ -816,7 +816,7 @@ Sono più che disposto a ritirare quelle parole, ad ammettere il mio errore e a 
 
 È ferito perché ho evidenziato la sua strana reazione verso l’idea di ciò che significa essere un gentiluomo, nonché il suo disprezzo per la nobiltà, e lui sostiene che gli abbia chiesto di “rispettarli”. Non gli ho mai chiesto di fare qualcosa di così assurdo come rispettare i nobili. E sono sicuro che nemmeno io li rispetto. Quello che ho detto è che tale atteggiamento indeboliva un storico e lo rendeva inadatto a svolgere il proprio compito, quando scriveva non con giudizio oggettivo, ma con odio; e questa critica devo assolutamente mantenere.
 
-Per quanto riguarda la sua posizione nei confronti di quel tipo di persona chiamata “gentiluomo”, sia nella storia che nella vita contemporanea, sarebbe facile fornire esempi tratti da altri libri dello stesso autore. Ma mi limito rigorosamente a questo libro – *Il sunto della storia* – e sostengo che, in tutto il suo contenuto, si percepisca questa forte avversione. Questa avversione emerge nel modo in cui tratta tale tipo di persona, sia essa romana, francese o inglese, antica, medievale o moderna. Per citare solo un esempio su cento, il suo disprezzo verso il defunto [[Lord Salisbury]] nel pamphlet contro di me è caratteristico: suggerisce che quest’uomo straordinario e notevole scienziato fosse incapace di affrontare una semplice questione di biologia, e che avesse bisogno di essere istruito per farlo, e in modo molto imperfetto. Tutta la nostra generazione ha testimoniato il grande talento di [[Lord Salisbury]] e l’ampiezza delle sue conoscenze; poiché non era nemico di nessuno, e certamente non ha mai potuto causare alcun danno, diretto o indiretto, a Mr. Wells, posso solo ipotizzare che il titolo di “Lord” sia stato sufficiente per far perdere la calma a Mr. Wells.
+Per quanto riguarda la sua posizione nei confronti di quel tipo di persona chiamata “gentiluomo”, sia nella storia che nella vita contemporanea, sarebbe facile fornire esempi tratti da altri libri dello stesso autore. Ma mi limito rigorosamente a questo libro – *Il sunto della storia* – e sostengo che, in tutto il suo contenuto, si percepisca questa forte avversione. Questa avversione emerge nel modo in cui tratta tale tipo di persona, sia essa romana, francese o inglese, antica, medievale o moderna. Per citare solo un esempio su cento, il suo disprezzo verso il defunto [[characters/lord-salisbury|Lord Salisbury]] nel pamphlet contro di me è caratteristico: suggerisce che quest’uomo straordinario e notevole scienziato fosse incapace di affrontare una semplice questione di biologia, e che avesse bisogno di essere istruito per farlo, e in modo molto imperfetto. Tutta la nostra generazione ha testimoniato il grande talento di [[characters/lord-salisbury|Lord Salisbury]] e l’ampiezza delle sue conoscenze; poiché non era nemico di nessuno, e certamente non ha mai potuto causare alcun danno, diretto o indiretto, a Mr. Wells, posso solo ipotizzare che il titolo di “Lord” sia stato sufficiente per far perdere la calma a Mr. Wells.
 
 Ora, per quanto riguarda quelle parole condannatorie alle quali egli obietta – presumibilmente a causa della loro forza – parole che ho effettivamente usato in relazione al suo lavoro e che sicuramente userò di nuovo: parole come “ignoranza”, “errori”, “infantile”, “inscientifico”, ecc. Credo di dover ancora spiegare al signor Wells un principio ovvio della critica che lui non riesce a comprendere. Una parola non è inappropriata nella critica se non è irrilevante o falsa, sia nel contenuto che nell’intensità del suo significato. Anzi, se l’intensità di quella parola corrisponde esattamente al grado di errore evidenziato, la critica risulta più giusta rispetto all’uso di una parola meno dura. Dire che un uomo che avvelena sua madre per ottenere il suo patrimonio è “deprecabile” significa fornire una critica inadeguata; chiamarlo invece “criminale disumano” significa offrire una critica valida e appropriata.
 
@@ -915,7 +915,7 @@ Another example of bad muddle-headedness is his mixing up the Catholic use of re
 
 I say in my criticism of Mr. Wells, and I say quite rightly, that to put forward a picture of an imaginary being called “Eoanthropus,” giving him a particular weapon and gait and gesture, and an expression (which, as I have said, made him very like one of my acquaintance), was utterly unwarranted upon the exceedingly doubtful evidence of the fragments called “The Piltdown skull.” Sacred images in Catholic use are not — and surely everybody ought to know that — attempts at reconstruction, still less are they fakes to try and get people to believe that, for instance, an Archangel has goose wings and curly hair. They are symbols; are powerful and useful aids to devotion, not reconstructions.
 
-Nor are relics in any way parallel to fossil evidences. We venerate a relic of St. Agnes (such as I am glad to say I have in my house), both because it is a striking memorial of that very holy witness to the [[Faith]], who gave up her life for it, and because (what I will not debate here) we believe that the sanctity of the person can upon occasion give virtue and power to such things. But we do not say, “In case you do not believe St. Agnes ever existed, here is a fragment of her bone.” To mix up two things so entirely different is muddle-headedness turned glorious.
+Nor are relics in any way parallel to fossil evidences. We venerate a relic of St. Agnes (such as I am glad to say I have in my house), both because it is a striking memorial of that very holy witness to the [[concepts/faith|Faith]], who gave up her life for it, and because (what I will not debate here) we believe that the sanctity of the person can upon occasion give virtue and power to such things. But we do not say, “In case you do not believe St. Agnes ever existed, here is a fragment of her bone.” To mix up two things so entirely different is muddle-headedness turned glorious.
 
 I could add not only further examples justifying the terms I have used, but a great many other terms equally justified. I must leave it to the ampler space of my book, The Companion to his work, which Mr. Wells will have the pleasure of seeing before him in a very few weeks.
 
@@ -934,7 +934,7 @@ Un altro esempio di cattiva confusione mentale è il suo mescolare l’uso delle
 
 Nella mia critica del signor Wells, dico con piena ragione che presentare l’immagine di un essere immaginario chiamato “Eoanthropus”, attribuendogli un particolare tipo di arma, modo di camminare, gesti e espressione facciale (che, come ho detto, lo rendeva molto simile a qualcuno che conosco), era del tutto ingiustificato, data l’estrema incertezza delle prove fornite dai frammenti noti come “il cranio di Piltdown”. Le immagini sacre utilizzate nella Chiesa Cattolica non sono affatto tentativi di ricostruzione storica; anzi, tutti dovrebbero saperlo bene. Sono simboli, strumenti potenti e utili per la devozione, ma certamente non falsificazioni volte a far credere che, ad esempio, un Arcangelo abbia ali d’oca e capelli ricci.
 
-Le reliquie non sono in alcun modo paragonabili alle prove fornite dai fossili. Noi veneriamo una reliquia di Santa Agnese (e sono felice di dire che ne ho una in casa mia), sia perché rappresenta un memorabile simbolo di quella santa testimone della [[Faith|Fede]] che sacrificò la propria vita per essa, sia perché (cosa che qui non intendo discutere) crediamo che la santità di una persona possa talvolta conferire virtù e potere a tali oggetti. Ma non diciamo mai: “In caso non crediate che Santa Agnese sia mai esistita, ecco un frammento delle sue ossa”. Mescolare due cose così completamente diverse è un esempio di confusione trasformata in qualcosa di apparentemente nobile, ma in realtà privo di senso.
+Le reliquie non sono in alcun modo paragonabili alle prove fornite dai fossili. Noi veneriamo una reliquia di Santa Agnese (e sono felice di dire che ne ho una in casa mia), sia perché rappresenta un memorabile simbolo di quella santa testimone della [[concepts/faith|Fede]] che sacrificò la propria vita per essa, sia perché (cosa che qui non intendo discutere) crediamo che la santità di una persona possa talvolta conferire virtù e potere a tali oggetti. Ma non diciamo mai: “In caso non crediate che Santa Agnese sia mai esistita, ecco un frammento delle sue ossa”. Mescolare due cose così completamente diverse è un esempio di confusione trasformata in qualcosa di apparentemente nobile, ma in realtà privo di senso.
 
 Potrei aggiungere non solo altri esempi che giustifichino i termini che ho utilizzato, ma anche moltissimi altri termini altrettanto validi. Devo lasciare tutto ciò nello spazio più ampio del mio libro, “Il Compendio della sua opera”, che il signor Wells avrà il piacere di leggere entro poche settimane.
 
@@ -947,7 +947,7 @@ II. MR. WELLS AS BIOLOGIST
 
 I COME NOW to what is the pith of Mr. Wells’s whole pamphlet. It is evidently the matter upon which he is most pained; it is also the matter on which he has most woefully exposed his lack of modern reading.
 
-Through page after page — thirteen whole pages — he slangs and bangs away at me — because I have exposed his ignorance of modern work upon [[Darwinism]].
+Through page after page — thirteen whole pages — he slangs and bangs away at me — because I have exposed his ignorance of modern work upon [[historical-references/darwinism|Darwinism]].
 
 There are in this furious attack two quite distinct points: first, his accusation that I pose as being a man having special learning, with European reputation in such affairs (very silly nonsense!); secondly, his treatment of the arguments which I have put before my readers against the old and exploded theory of Darwinian Natural Selection, upon which theory, remember, all these popular materialists still desperately rely in their denial of a Creative God and of Design in the universe.
 
@@ -985,11 +985,11 @@ Now let us turn to something totally different. I give it, not in German, which 
 
 And who is the unknown fellow I have got hold of here? Driesch: and his conclusion is much older than that which we have from Professor Bateson. Here, again, from the same insignificant little fellow, we have this — thirty whole years ago: —
 
-“For men of clear intellect [[Darwinism]] has long been dead....”
+“For men of clear intellect [[historical-references/darwinism|Darwinism]] has long been dead....”
 
 “Oh!” I can hear Mr. Wells saying, “but who is this Driesch?” Well, he stands among the greatest of the German biologists to all educated men. But Mr. Wells has never heard of him.
 
-There is yet another German who put it more strongly still, for he actually gave a title to his book which is, being interpreted, The Death-bed of [[Darwinism]]. And who was he? He was only a person called Dennert.
+There is yet another German who put it more strongly still, for he actually gave a title to his book which is, being interpreted, The Death-bed of [[historical-references/darwinism|Darwinism]]. And who was he? He was only a person called Dennert.
 
 Here Mr. Wells will, I am sure, protest and say, “Oh, this Dennert you tell me about is surely extreme.” I am rather inclined to agree. But that is not the point. He wanted modern authorities, and I am giving him a few. Mr. Wells had never heard of Dennert.
 
@@ -1000,11 +1000,11 @@ Let us turn to Dwight: —
 
 <span class="qlang-split" data-lang="it"></span>
 
-# II. Il signor Wells come biologo
+II. Il signor Wells come biologo
 
 Ora arriviamo al punto essenziale di tutto il pamphlet del signor Wells. È evidente che si tratta dell’argomento che lo preoccupa di più; è anche l’argomento su cui ha mostrato in modo particolarmente evidente la mancanza di una cultura letteraria moderna.
 
-Pagina dopo pagina – tredici pagine intere – continua a insultarmi e attaccarmi, perché ho messo in luce la sua ignoranza riguardo alle moderne ricerche sul [[Darwinism|darwinismo]].
+Pagina dopo pagina – tredici pagine intere – continua a insultarmi e attaccarmi, perché ho messo in luce la sua ignoranza riguardo alle moderne ricerche sul [[historical-references/darwinism|darwinismo]].
 
 In questo furioso attacco ci sono due aspetti ben distinti: primo, la sua accusa secondo cui io mi presenterei come un uomo con conoscenze specialistiche e una reputazione europea in questi ambiti (una sciocchezza totale!); secondo, il modo in cui ha affrontato gli argomenti che ho presentato ai miei lettori contro la vecchia e ormai screditata teoria della Selezione Naturale darwiniana, su cui, ricordiamo, tutti questi materialisti popolari continuano ancora a fare affidamento per negare l’esistenza di un Dio Creatore e il disegno nella natura dell’universo.
 
@@ -1028,7 +1028,7 @@ Quindi non esiste alcuna critica distruttiva all’antica ipotesi darwiniana? Qu
 
 Diamo un’occhiata.
 
-# C’è un certo Professore Bateson che ha lasciato traccia della seguente opinione:
+C’è un certo Professore Bateson che ha lasciato traccia della seguente opinione:
 
 “Noi” (in generale, i biologi) “siamo giunti alla conclusione che il principio della Selezione Naturale non possa essere stato il fattore principale nella determinazione delle specie, ”
 
@@ -1042,15 +1042,15 @@ La “Selezione Naturale” non spiega affatto le caratteristiche specifiche del
 
 E chi è questo sconosciuto che ho incontrato qui? Driesch: e la sua conclusione è molto più antica di quella che abbiamo dal professor Bateson. Ancora una volta, da questo stesso individuo insignificante, otteniamo questa informazione, trent’anni fa.
 
-“Per coloro dotati di un intelletto chiaro, il [[Darwinism|darwinismo]] è da tempo morto, ”
+“Per coloro dotati di un intelletto chiaro, il [[historical-references/darwinism|darwinismo]] è da tempo morto, ”
 
 “Oh!” Posso sentire il signor Wells dire: “Ma chi è questo Driesch?” Beh, lui rientra tra i più grandi biologi tedeschi agli occhi di tutti gli uomini istruiti. Ma il signor Wells non ne ha mai sentito parlare.
 
-C'è ancora un altro tedesco che l'ha espresso in modo ancora più deciso: ha addirittura dato un titolo al suo libro che, se interpretato, significa “Il letto di morte del [[Darwinism|darwinismo]]”. E chi era questo tedesco? Era semplicemente una persona di nome Dennert.
+C'è ancora un altro tedesco che l'ha espresso in modo ancora più deciso: ha addirittura dato un titolo al suo libro che, se interpretato, significa “Il letto di morte del [[historical-references/darwinism|darwinismo]]”. E chi era questo tedesco? Era semplicemente una persona di nome Dennert.
 
 Qui, sono sicuro, il signor Wells protesterà dicendo: “Oh, questo Dennert di cui mi parlate è davvero estremo.” Sono piuttosto d’accordo. Ma non è questo il punto. Lui voleva esempi di autorità moderne, e io gli ne sto fornendo alcuni. Il signor Wells non aveva mai sentito parlare di Dennert.
 
-# Lettiamo ora di Dwight: —
+Lettiamo ora di Dwight: —
 
 “Ora abbiamo davanti a noi lo spettacolo straordinario che, proprio quando molti scienziati concordano sul fatto che nessuna parte del sistema darwiniano abbia un’influenza significativa, e che l’intera teoria non sia solo non dimostrata, ma addirittura impossibile, le masse ignoranti e semieducate hanno acquisito l’idea che essa debba essere accettata come un fatto fondamentale, ”
 
@@ -1109,7 +1109,7 @@ Now that last sentence leads me to yet another thrust of the battering ram which
 
 So the arguments I have put forward (only a few main arguments out of many) were made up out of my own head, and have no support from authority? I have no acquaintance with the names or general conclusions of any experts in these affairs? It would be, indeed, astonishing if I had acted thus, seeing that nothing was easier than for me to write to any friend engaged in biological study and get the amplest information. I did not do so, because there was no necessity to do so. That liberal education — which Mr. Wells derides — was sufficient.
 
-Really, Mr. Wells here flatters me too much! He does not know that the arguments were not mine but the main arguments which have been set forward by a host of competent authorities, and which have proved so damaging that even the remaining defenders of [[Darwinism]] have had to modify their position.
+Really, Mr. Wells here flatters me too much! He does not know that the arguments were not mine but the main arguments which have been set forward by a host of competent authorities, and which have proved so damaging that even the remaining defenders of [[historical-references/darwinism|Darwinism]] have had to modify their position.
 
 Thus my first argument is the well-known one of accident being quite unable to explain the co-ordination of variations necessary to adaptation.
 
@@ -1168,7 +1168,7 @@ Ora, quell’ultima frase mi spinge a lanciare un altro attacco contro povero si
 
 Quindi, gli argomenti che ho avanzato (solo alcuni dei principali, tra molti altri) sono frutto della mia fantasia e non trovano alcun sostegno in fonti autorevoli? Non conosco i nomi né le conclusioni generali di nessun esperto in questi ambiti. Sarebbe davvero sorprendente se avessi agito così, visto che per me sarebbe stato estremamente facile scrivere a qualsiasi amico impegnato nello studio biologico e ottenere informazioni abbondanti. Non l’ho fatto perché non c’era alcuna necessità di farlo. Quell’educazione liberale, che il signor Wells deride, era sufficiente.
 
-Davvero, il signor Wells mi loda troppo! Lui non sa che quelle argomentazioni non erano mie, ma piuttosto le principali tesi avanzate da molte autorità competenti, e che si sono rivelate così dannose da costringere anche gli ultimi sostenitori del [[Darwinism|darwinismo]] a modificare la loro posizione.
+Davvero, il signor Wells mi loda troppo! Lui non sa che quelle argomentazioni non erano mie, ma piuttosto le principali tesi avanzate da molte autorità competenti, e che si sono rivelate così dannose da costringere anche gli ultimi sostenitori del [[historical-references/darwinism|darwinismo]] a modificare la loro posizione.
 
 Pertanto, il mio primo argomento è quello ben noto secondo cui l’incidente è assolutamente incapace di spiegare la coordinazione delle variazioni necessarie all’adattamento.
 
@@ -1187,7 +1187,7 @@ I do not pretend to have read Wolff; I have not. But I have read the significant
 
 My second argument is equally a commonplace with educated men, and in saying that I am the author of it Mr. Wells is again flattering me a great deal too much, and again betraying his own astonishing lack of acquaintance with the subject he professes to teach.
 
-I pointed out, as hundreds have pointed out before me, that [[Darwinism]] obviously breaks down from the fact that it demands each step in evolution to be an advance in survival value over the last. There again it is a plain matter of arithmetic that the chance of this happening accidentally is impossible. Mr. Wells is so confused in mind that he quotes as a bad example what I said about the reptile and the bird. He seems to think that the argument is upset by the fact that there are intermediate forms and that in these intermediate forms the fore legs lose their function before they become wings. If one could prove such a transformation — which one cannot, it is mere hypothesis — it would have nothing to do with Natural Selection; it would be simply an example of transformism. What I say (and what is obviously true in a myriad instances) is that between the foot of the land animal and the flapper of the whale, between the powerfully defensive and aggressive great ape and the weak, more intelligent man, there must be stages (if the transition ever took place) where the organism was at a positive disadvantage, and that consideration blows Darwinian Natural Selection to pieces.
+I pointed out, as hundreds have pointed out before me, that [[historical-references/darwinism|Darwinism]] obviously breaks down from the fact that it demands each step in evolution to be an advance in survival value over the last. There again it is a plain matter of arithmetic that the chance of this happening accidentally is impossible. Mr. Wells is so confused in mind that he quotes as a bad example what I said about the reptile and the bird. He seems to think that the argument is upset by the fact that there are intermediate forms and that in these intermediate forms the fore legs lose their function before they become wings. If one could prove such a transformation — which one cannot, it is mere hypothesis — it would have nothing to do with Natural Selection; it would be simply an example of transformism. What I say (and what is obviously true in a myriad instances) is that between the foot of the land animal and the flapper of the whale, between the powerfully defensive and aggressive great ape and the weak, more intelligent man, there must be stages (if the transition ever took place) where the organism was at a positive disadvantage, and that consideration blows Darwinian Natural Selection to pieces.
 
 When Korchinsky calls selection through the struggle for existence a factor inimical to evolution, he is saying exactly that; and, I repeat, hosts of men great and small, of high authority like these Professors or of no authority like myself, have been repeating that obvious bit of common sense for something like a lifetime, though it would seem that for some extraordinary reason Mr. Wells has never heard of it.
 
@@ -1214,7 +1214,7 @@ Non pretendo di aver letto le opere di Wolff; non l’ho fatto. Tuttavia ho lett
 
 Il mio secondo argomento è altrettanto comune tra gli uomini istruiti; e affermare che io ne sia l’autore significa che il signor Wells mi sta di nuovo lusingando eccessivamente, tradendo ancora una volta la sua sorprendente ignoranza sull’argomento che pretende di insegnare.
 
-Ho sottolineato, come hanno fatto centinaia di persone prima di me, che il [[Darwinism|darwinismo]] si scontra inevitabilmente con il fatto che richiede che ogni passo nell’evoluzione rappresenti un miglioramento del valore di sopravvivenza rispetto al precedente. È una questione puramente aritmetica: le probabilità che ciò avvenga per caso sono semplicemente nulle. Il signor Wells è così confuso da citare come esempio negativo quanto ho detto riguardo al rettile e all’uccello; sembra pensare che l’argomentazione venga compromessa dall’esistenza di forme intermedie, in cui le zampe anteriori perdono la loro funzione prima di trasformarsi in ali. Se si potesse dimostrare una tale trasformazione – il che non è possibile, poiché si tratta soltanto di un’ipotesi – essa non avrebbe nulla a che fare con la Selezione Naturale; sarebbe semplicemente un esempio di “transformismo”. Quello che affermo io (e che è ovviamente vero in innumerevoli casi) è che, tra la zampa dell’animale terrestre e l’ala della balena, tra il grande scimmione potente e aggressivo e l’uomo debole ma più intelligente, devono esistere fasi intermedie in cui l’organismo si trova in svantaggio; tale considerazione distrugge completamente la teoria della Selezione Naturale di Darwin.
+Ho sottolineato, come hanno fatto centinaia di persone prima di me, che il [[historical-references/darwinism|darwinismo]] si scontra inevitabilmente con il fatto che richiede che ogni passo nell’evoluzione rappresenti un miglioramento del valore di sopravvivenza rispetto al precedente. È una questione puramente aritmetica: le probabilità che ciò avvenga per caso sono semplicemente nulle. Il signor Wells è così confuso da citare come esempio negativo quanto ho detto riguardo al rettile e all’uccello; sembra pensare che l’argomentazione venga compromessa dall’esistenza di forme intermedie, in cui le zampe anteriori perdono la loro funzione prima di trasformarsi in ali. Se si potesse dimostrare una tale trasformazione – il che non è possibile, poiché si tratta soltanto di un’ipotesi – essa non avrebbe nulla a che fare con la Selezione Naturale; sarebbe semplicemente un esempio di “transformismo”. Quello che affermo io (e che è ovviamente vero in innumerevoli casi) è che, tra la zampa dell’animale terrestre e l’ala della balena, tra il grande scimmione potente e aggressivo e l’uomo debole ma più intelligente, devono esistere fasi intermedie in cui l’organismo si trova in svantaggio; tale considerazione distrugge completamente la teoria della Selezione Naturale di Darwin.
 
 Quando Korchinsky definisce la selezione attraverso la lotta per l’esistenza un fattore ostile all’evoluzione, sta esattamente dicendo questo; e ripeto: innumerevoli persone, grandi e piccole, dotate di grande autorità come questi professori o prive di qualsiasi autorità come me, hanno continuato a ripetere questa ovvia verità del buon senso per tutta la loro vita, anche se sembra che, per qualche motivo straordinario, il signor Wells non abbia mai sentito parlare di essa.
 
@@ -1235,9 +1235,9 @@ La bolla è stata perforata ed è scoppiata.
 <span class="atom-split" data-atom="story_04_mr_wellss_ignorance_of_the_catholic_chur" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS’S IGNORANCE OF THE CATHOLIC CHURCH" data-chapter="MR WELLSS IGNORANCE OF THE CATHOLIC CHUR" data-kind="story" data-tags="concept/faith,histref/catholic_church"></span>
 
 
-III. MR. WELLS’S IGNORANCE OF THE [[Catholic Church|CATHOLIC CHURCH]]
+III. MR. WELLS’S IGNORANCE OF THE [[historical-references/catholic-church|CATHOLIC CHURCH]]
 
-THE THIRD MARK of Mr. Wells’s outburst against me I have called his amazing ignorance upon the [[Catholic Church]]. That ignorance is, of course, still more apparent in his book. But I am concerned here only with the way in which it appears in his pamphlet. He inherits the old prejudice — flourishing strongly in the best No-Popery days — that for some unexplained reason a Catholic is opposed to that most interesting intellectual activity, the pursuit of physical knowledge. He envisages the [[Catholic Church]] as teaching an inchoate heap of unconnected doctrines, each of them highly concrete, each of them flagrantly impossible, and the chief of them an historical statement that in a particular place and at a particular time, to wit, in the neighbourhood of Baghdad 5930 years ago, there took place the Fall of Man. He has no conception that we object to a book like his and to methods such as he uses because we use the human reason, and are all brought up to know that the human reason is absolute in its own sphere.
+THE THIRD MARK of Mr. Wells’s outburst against me I have called his amazing ignorance upon the [[historical-references/catholic-church|Catholic Church]]. That ignorance is, of course, still more apparent in his book. But I am concerned here only with the way in which it appears in his pamphlet. He inherits the old prejudice — flourishing strongly in the best No-Popery days — that for some unexplained reason a Catholic is opposed to that most interesting intellectual activity, the pursuit of physical knowledge. He envisages the [[historical-references/catholic-church|Catholic Church]] as teaching an inchoate heap of unconnected doctrines, each of them highly concrete, each of them flagrantly impossible, and the chief of them an historical statement that in a particular place and at a particular time, to wit, in the neighbourhood of Baghdad 5930 years ago, there took place the Fall of Man. He has no conception that we object to a book like his and to methods such as he uses because we use the human reason, and are all brought up to know that the human reason is absolute in its own sphere.
 
 Exactly the same habit of clear thinking which makes us know the limitations of reason and makes us accept a mystery, gives us our admiration for that divine gift of reason in man and our contempt for people who, like Mr. Wells, have never been trained to use it, and flounder the moment they try to think hard.
 
@@ -1251,15 +1251,15 @@ So also there is such a thing as man, though Mr. Wells seems to doubt it. Man ha
 
 We Catholics are interested in this Animal Man, because we think (making clear use of our reason) that it is more important for man to know what happens to man and what man really is than for man to know any other subject. We believe that he has been created by an omnipotent God, to whom he is responsible for good or evil action committed by his own free will — for in man’s free will we also believe; we believe his soul to be immortal, and to be tested for eternal beatitude or eternal loss thereof.
 
-Anyone is free to say “These doctrines are particular, you admit yourself that you hold them on [[Faith]] and not on positive evidence. I for my part do not accept them.” There is no lack of reason in making that negative statement.
+Anyone is free to say “These doctrines are particular, you admit yourself that you hold them on [[concepts/faith|Faith]] and not on positive evidence. I for my part do not accept them.” There is no lack of reason in making that negative statement.
 
 But a mind that can imagine that there is no such thing as man and indeed no such thing as a thing; a mind (to put it in the old language) which is nominalist in that degree, is in great peril of ceasing to be a mind at all.
 
 The particular point on which Mr. Wells comes his worst cropper in connection with the Catholic Church is a blunder to which he devotes a whole chapter of his pamphlet, and over ten pages of print furiously reviling me.
 
-He has got hold of the idea that the discovery of Neanderthal skulls and skeletons destroys Catholic theology. He imagines that we wake up in the middle of the night in an agony of imperilled [[Faith|faith]] because a long time ago there was a being which was as human as we are apparently in his brain capacity, in his power to make instruments, to light fires, and in his reverent burial of the dead, but who probably, perhaps certainly, bent a little at the knee, carried his head forward, was sloping in the chin. He thinks that unless a private individual like myself, with hardly any more reading on anthropology than Mr. Wells himself, can give a definite theological definition on whether the owners of these skeletons were true men or not, all the theological statements about man as we know him are worthless.
+He has got hold of the idea that the discovery of Neanderthal skulls and skeletons destroys Catholic theology. He imagines that we wake up in the middle of the night in an agony of imperilled [[concepts/faith|faith]] because a long time ago there was a being which was as human as we are apparently in his brain capacity, in his power to make instruments, to light fires, and in his reverent burial of the dead, but who probably, perhaps certainly, bent a little at the knee, carried his head forward, was sloping in the chin. He thinks that unless a private individual like myself, with hardly any more reading on anthropology than Mr. Wells himself, can give a definite theological definition on whether the owners of these skeletons were true men or not, all the theological statements about man as we know him are worthless.
 
-I can understand many a blunder about the Catholic position on the part of people living in a world where they do not meet Catholics and who know next to nothing of the past of Europe or of the way in which our civilisation is a product of the Catholic [[Faith]]. I often come across even well-educated men who have surprisingly little knowledge of the Church; but what I cannot understand is that a man thus ignorant should also be ignorant of the ordinary rules of thought.
+I can understand many a blunder about the Catholic position on the part of people living in a world where they do not meet Catholics and who know next to nothing of the past of Europe or of the way in which our civilisation is a product of the Catholic [[concepts/faith|Faith]]. I often come across even well-educated men who have surprisingly little knowledge of the Church; but what I cannot understand is that a man thus ignorant should also be ignorant of the ordinary rules of thought.
 
 A man’s Faith may possibly be shaken by some philosophical argument — though my own experience is that when it is shaken, still more when it is lost, the cause at work is not intellectual but always moral — the Faith is lost through wrong doing. But that the Faith could conceivably be lost through not being able to define at what exact moment true man appeared, is to me quite inconceivable. I confess I cannot understand the mental processes of a writer who puts a test of that kind.
 
@@ -1284,9 +1284,9 @@ That knowledge is rare and fragmentary in many considerable anti-Catholic histor
 
 <span class="qlang-split" data-lang="it"></span>
 
-III. L’ignoranza del signor Wells riguardo alla [[Catholic Church|Chiesa cattolica]]
+III. L’ignoranza del signor Wells riguardo alla [[historical-references/catholic-church|Chiesa cattolica]]
 
-Il terzo aspetto dell’attacco di Mr. Wells contro di me riguarda la sua sorprendente ignoranza riguardo alla [[Catholic Church|Chiesa Cattolica]]. Quell’ignoranza, naturalmente, risulta ancora più evidente nel suo libro; ma qui mi interessa soltanto il modo in cui si manifesta nel suo pamphlet. Egli eredita quell’antico pregiudizio – che fiorì intensamente durante i periodi più ferventi dell’opposizione alla Chiesa Cattolica – secondo cui, per qualche motivo inspiegabile, un cattolico sia contrario a quell’attività intellettuale così interessante rappresentata dalla ricerca della conoscenza scientifica. Immagina che la [[Catholic Church|Chiesa Cattolica]] insegni una serie di dottrine sconnesse e prive di logica: ognuna di esse, pur essendo molto concreta, è palesemente impossibile; la principale di queste dottrine sostiene che, in un luogo e in un momento specifici – cioè nei dintorni di Baghdad 5930 anni fa – sia avvenuta la Caduta dell’Uomo. Non si rende conto che noi ci oppongiamo a libri come il suo e ai metodi da lui utilizzati perché facciamo affidamento sulla ragione umana, e perché sappiamo che questa ragione è assoluta nel proprio ambito di applicazione.
+Il terzo aspetto dell’attacco di Mr. Wells contro di me riguarda la sua sorprendente ignoranza riguardo alla [[historical-references/catholic-church|Chiesa Cattolica]]. Quell’ignoranza, naturalmente, risulta ancora più evidente nel suo libro; ma qui mi interessa soltanto il modo in cui si manifesta nel suo pamphlet. Egli eredita quell’antico pregiudizio – che fiorì intensamente durante i periodi più ferventi dell’opposizione alla Chiesa Cattolica – secondo cui, per qualche motivo inspiegabile, un cattolico sia contrario a quell’attività intellettuale così interessante rappresentata dalla ricerca della conoscenza scientifica. Immagina che la [[historical-references/catholic-church|Chiesa Cattolica]] insegni una serie di dottrine sconnesse e prive di logica: ognuna di esse, pur essendo molto concreta, è palesemente impossibile; la principale di queste dottrine sostiene che, in un luogo e in un momento specifici – cioè nei dintorni di Baghdad 5930 anni fa – sia avvenuta la Caduta dell’Uomo. Non si rende conto che noi ci oppongiamo a libri come il suo e ai metodi da lui utilizzati perché facciamo affidamento sulla ragione umana, e perché sappiamo che questa ragione è assoluta nel proprio ambito di applicazione.
 
 Esattamente lo stesso atteggiamento di pensiero lucido che ci fa comprendere i limiti della ragione e ci spinge ad accettare l’ignoto, ci fa provare ammirazione per quel dono divino che è la ragione nell’uomo, e ci fa disprezzare coloro che, come il signor Wells, non sono mai stati educati a usarla correttamente, finendo per impazzire non appena cercano di pensare seriamente.
 
@@ -1300,15 +1300,15 @@ So anche che esiste una cosa chiamata “uomo”, anche se il signor Wells sembr
 
 Noi cattolici siamo interessati a questo “Uomo Animale”, perché riteniamo (facendo un chiaro uso della nostra ragione) che sia più importante per l’uomo conoscere ciò che gli accade e chi realmente è, piuttosto che qualsiasi altro argomento. Crediamo che sia stato creato da un Dio onnipotente, davanti al quale è responsabile delle azioni buone o cattive compiute con la propria libera volontà; crediamo infatti nella libertà di volontà umana. Riteniamo inoltre che la sua anima sia immortale e venga sottoposta a prove per determinare se otterrà la beatitudine eterna o perderà l’eternità.
 
-Chiunque può liberamente dire: “Queste dottrine sono particolari; ammettete voi stessi di sostenerle sulla base della [[Faith|Fede]] e non su prove concrete. Io, personalmente, non le accetto.” Non mancano motivazioni per formulare un tale giudizio negativo.
+Chiunque può liberamente dire: “Queste dottrine sono particolari; ammettete voi stessi di sostenerle sulla base della [[concepts/faith|Fede]] e non su prove concrete. Io, personalmente, non le accetto.” Non mancano motivazioni per formulare un tale giudizio negativo.
 
 Ma una mente che è in grado di immaginare che non esista nulla del genere come l’uomo, e anzi che non esista nemmeno nulla; una mente (per usare il linguaggio antico) che sia nominalista fino a quel punto, corre un grande rischio di smettere del tutto di essere una mente.
 
 Il punto specifico su cui il signor Wells commette l’errore più grave riguardo alla Chiesa Cattolica è un errore che dedica interamente un capitolo del suo pamphlet a criticare aspramente, occupando inoltre oltre dieci pagine di testo per attaccarmi con violenza.
 
-È convinto che la scoperta dei crani e degli scheletri dei Neanderthal distrugga la teologia cattolica. Immagina che una notte ci svegliamo in preda all’angoscia per la nostra [[Faith|>fede]] in pericolo, perché molto tempo fa esisteva un essere umano quanto noi, almeno per quanto riguarda le capacità mentali, la capacità di costruire strumenti e accendere il fuoco, nonché l’abitudine di seppellire i morti con rispetto. Tuttavia, secondo lui, questo essere probabilmente aveva una postura un po’ curva, la testa china in avanti e il mento inclinato. Ritiene che, a meno che una persona comune come me, che ha letto molto meno sull’antropologia di quanto abbia fatto lo stesso signor Wells, non possa fornire una definizione teologica chiara su se i proprietari di questi scheletri fossero davvero esseri umani o meno, tutte le affermazioni teologiche riguardanti l’uomo così come lo conosciamo siano prive di valore.
+È convinto che la scoperta dei crani e degli scheletri dei Neanderthal distrugga la teologia cattolica. Immagina che una notte ci svegliamo in preda all’angoscia per la nostra [[concepts/faith|>fede]] in pericolo, perché molto tempo fa esisteva un essere umano quanto noi, almeno per quanto riguarda le capacità mentali, la capacità di costruire strumenti e accendere il fuoco, nonché l’abitudine di seppellire i morti con rispetto. Tuttavia, secondo lui, questo essere probabilmente aveva una postura un po’ curva, la testa china in avanti e il mento inclinato. Ritiene che, a meno che una persona comune come me, che ha letto molto meno sull’antropologia di quanto abbia fatto lo stesso signor Wells, non possa fornire una definizione teologica chiara su se i proprietari di questi scheletri fossero davvero esseri umani o meno, tutte le affermazioni teologiche riguardanti l’uomo così come lo conosciamo siano prive di valore.
 
-Posso capire molti errori riguardo alla posizione cattolica da parte di persone che vivono in un mondo dove non incontrano cattolici e che sanno quasi nulla del passato dell’Europa o del modo in cui la nostra civiltà è il prodotto della [[Faith|Fede]] cattolica. Spesso incontro anche uomini ben istruiti che hanno una conoscenza sorprendentemente limitata della Chiesa; ma ciò che non riesco a comprendere è come un uomo così ignorante possa anche essere privo delle regole di base del pensiero razionale.
+Posso capire molti errori riguardo alla posizione cattolica da parte di persone che vivono in un mondo dove non incontrano cattolici e che sanno quasi nulla del passato dell’Europa o del modo in cui la nostra civiltà è il prodotto della [[concepts/faith|Fede]] cattolica. Spesso incontro anche uomini ben istruiti che hanno una conoscenza sorprendentemente limitata della Chiesa; ma ciò che non riesco a comprendere è come un uomo così ignorante possa anche essere privo delle regole di base del pensiero razionale.
 
 La fede di un uomo può forse essere scossa da qualche argomentazione filosofica – anche se la mia esperienza personale mi dice che, quando questa viene scossa, o addirittura persa, la causa non è mai intellettuale, ma sempre morale: la fede si perde a causa di azioni sbagliate. Tuttavia, che la fede possa essere persa semplicemente perché non si riesce a definire con precisione in quale momento esattamente sia apparso l’uomo vero, mi sembra del tutto inconcepibile. Confesso di non riuscire a comprendere i processi mentali di uno scrittore che pone una domanda del genere.
 
@@ -1359,7 +1359,7 @@ However, I was wrong, and I duly apologise.
 
 The idea was that the embryo reproduced in various stages of its development the various stages of its ancestry in the evolutionary process. The proper scientific term for this conception or theory is “Recapitulation.” To this theory of Recapitulation Mr. Wells amply commits himself in his book. He brings it out specifically in connection with man. How his allusions to Recapitulation look in the light of modern scientific work we shall see in a moment. The particular point here is that he did not use the particular phrase “climbing up the family tree.” He did not, and I never intended to say that he did. I readily apologise for any misconception that may have arisen on that head. But I confess I cannot for the life of me see how the matter can be of the least importance!
 
-Supposing Mr. Wells were to write a criticism of my book, Europe and the [[Faith]], and were to say, “Mr. Belloc is for ever referring the main institutions of Europe to the Roman Empire,” and then were to add, out of his wide acquaintance with French literature, that fine expression from Verlaine, “O Rome! O Mère!”
+Supposing Mr. Wells were to write a criticism of my book, Europe and the [[concepts/faith|Faith]], and were to say, “Mr. Belloc is for ever referring the main institutions of Europe to the Roman Empire,” and then were to add, out of his wide acquaintance with French literature, that fine expression from Verlaine, “O Rome! O Mère!”
 
 I don’t think I should rush into print and protest that I had been abominably maligned. I should say that I was not the author of the expression (if anybody bothered to ask me), but that it put my opinion more tersely than I could have put it myself.
 
@@ -1369,7 +1369,7 @@ However, if Mr. Wells cannot bear the misunderstanding, he will be relieved to k
 
 Here it is I that must defend myself.
 
-I bought Vialleton’s great book (which is a destructive criticism of [[Darwinism]] of a 17-inch calibre) the week in which it came out, and have consulted it ever since. If Mr. Wells is reduced for ammunition to the picking out of one misprint in some hundred thousand words of matter, he must be in a terrible way.
+I bought Vialleton’s great book (which is a destructive criticism of [[historical-references/darwinism|Darwinism]] of a 17-inch calibre) the week in which it came out, and have consulted it ever since. If Mr. Wells is reduced for ammunition to the picking out of one misprint in some hundred thousand words of matter, he must be in a terrible way.
 
 But on the attached point, that I accuse him of never having read Vialleton, and that (as Mr. Wells himself roundly affirms) Vialleton does not knock Recapitulation sideways, I can only repeat that I have made no error at all; but that, on the contrary, it is clear Mr. Wells has never read the book, and probably never heard of it until he saw the name quoted in my criticism. Had he really read Vialleton he could not have had the face to pretend that this great authority did not oppose the old-fashioned views Mr. Wells was putting forward.
 
@@ -1410,7 +1410,7 @@ Tuttavia, se il signor Wells non riesce a sopportare questo malinteso, sarà sol
 
 Ecco, sono io che devo difendermi.
 
-Ho comprato il meraviglioso libro di Vialleton – una critica radicale del [[Darwinism|darwinismo]] – nella stessa settimana in cui è stato pubblicato e lo ho consultato da allora. Se il signor Wells si riduce a individuare un solo errore di stampa in centomila parole, allora deve trovarsi in una situazione davvero terribile.
+Ho comprato il meraviglioso libro di Vialleton – una critica radicale del [[historical-references/darwinism|darwinismo]] – nella stessa settimana in cui è stato pubblicato e lo ho consultato da allora. Se il signor Wells si riduce a individuare un solo errore di stampa in centomila parole, allora deve trovarsi in una situazione davvero terribile.
 
 Ma riguardo al punto su cui lo accuso di non aver mai letto Vialleton, e che – come lo stesso signor Wells afferma categoricamente – Vialleton non mette affatto in discussione le tesi contenute nel libro “Recapitulation”, posso solo ripetere che non ho commesso alcun errore; anzi, è evidente che il signor Wells non ha mai letto quel libro, e probabilmente non ne aveva nemmeno sentito parlare fino a quando non ha visto il nome menzionato nella mia critica. Se davvero avesse letto Vialleton, non avrebbe avuto il coraggio di fingere che questa autorevole fonte non si opponesse alle idee antiquate che il signor Wells stava sostenendo.
 
@@ -1605,7 +1605,7 @@ I suppose that for ten men who may read Mr. Wells’s pamphlet against me, there
 
 But I would like to point out to Mr. Wells that success of this kind is short-lived. No one can read what I have said in the second section of this pamphlet, no one can read that list of authorities of whom Mr. Wells has not even heard, and whom he loudly proclaimed not even to exist, without discovering that the author of the Outline of History was incompetent for his task. Very few people, I think, faced with chapter and verse of that sort, can refrain from passing on the good news.
 
-If you take the history of opinion upon matters of positive fact, you will generally discover that the discovery of the [[Truth|truth]] affects at first but a small circle, and that a popular error may cover a whole society. But it is the [[Truth|truth]] that wins in the long run, because the [[Truth|truth]] is not soluble: it is hard and resistant. The number of people who continue to believe that there has been no modern destructive criticism of [[Darwinism]] by the greatest of modern biologists, anthropologists, and scientific men, bearing the highest names in our civilisation, will necessarily be progressively lessened as time goes on. The half educated of any period are always cocksure of things which the real science of that period has long ago abandoned; but their situation is not a stable nor a permanent one. Sooner or later they learn. So undoubtedly will it be with Darwinian Natural Selection.
+If you take the history of opinion upon matters of positive fact, you will generally discover that the discovery of the [[concepts/truth|truth]] affects at first but a small circle, and that a popular error may cover a whole society. But it is the [[concepts/truth|truth]] that wins in the long run, because the [[concepts/truth|truth]] is not soluble: it is hard and resistant. The number of people who continue to believe that there has been no modern destructive criticism of [[historical-references/darwinism|Darwinism]] by the greatest of modern biologists, anthropologists, and scientific men, bearing the highest names in our civilisation, will necessarily be progressively lessened as time goes on. The half educated of any period are always cocksure of things which the real science of that period has long ago abandoned; but their situation is not a stable nor a permanent one. Sooner or later they learn. So undoubtedly will it be with Darwinian Natural Selection.
 
 Mr. Wells’s incompetence in that one department of his history has been exposed. I have exposed it. But note that he was here on his own chosen ground. He boasted special instruction in these affairs of physical science, and particularly in biology; he contrasted his education with my own, which had been so deplorably limited to the Humanities, and in his attack upon me he was fighting wholly upon a position chosen by himself.
 
@@ -1625,7 +1625,7 @@ In plain English Mr. Wells shirks. He shirks the great mass of my attack. He sub
 
 Yet surely these proved absurdities on recorded history, and not his backwardness in biological science, are the main thing he has to meet.
 
-It is principally through recorded human history and not through guess work upon the unknown past, that he should rely, in order to upset the Christian [[Faith]] of his readers.
+It is principally through recorded human history and not through guess work upon the unknown past, that he should rely, in order to upset the Christian [[concepts/faith|Faith]] of his readers.
 
 The history of our race becomes a definable and concrete thing only after the establishment of record, and if he fail there manifestly — as he has failed — he fails altogether.
 
@@ -1657,7 +1657,7 @@ Suppongo che, su dieci persone che potrebbero leggere il pamphlet di Mr. Wells c
 
 Ma vorrei sottolineare al signor Wells che un successo di questo tipo è di breve durata. Nessuno può leggere ciò che ho detto nella seconda sezione di questo pamphlet, nessuno può leggere quella lista di autori di cui il signor Wells non ha nemmeno sentito parlare e che ha addirittura affermato con forza non esistessero affatto, senza rendersi conto che l’autore di “Outline of History” era incompetente per il compito che si era assunto. Penso che molto poche persone, di fronte a prove così schiaccianti, riuscirebbero a trattenersi dal diffondere questa “buona notizia”.
 
-Se si esamina la storia dei punti di vista riguardo a questioni di fatto concreto, si scopre generalmente che la scoperta della [[Truth|verità]] inizialmente colpisce soltanto un piccolo gruppo di persone, mentre un errore diffuso può interessare un’intera società. Ma è proprio la [[Truth|verità]] ad avere la meglio nel lungo periodo, perché non si può negare: è solida e resistente. Il numero delle persone che continuano a credere che non esista alcuna critica distruttiva al [[Darwinism|darwinismo]] da parte dei più grandi biologi, antropologi e scienziati moderni, figure di spicco nella nostra civiltà, diminuirà inevitabilmente col passare del tempo. Le persone semi-istruite di ogni epoca sono sempre sicure di cose che la vera scienza di quel periodo ha da tempo abbandonato; ma questa loro posizione non è né stabile né permanente. Prima o poi impareranno la verità. E lo stesso accadrà senza dubbio anche per la teoria della selezione naturale darwiniana.
+Se si esamina la storia dei punti di vista riguardo a questioni di fatto concreto, si scopre generalmente che la scoperta della [[concepts/truth|verità]] inizialmente colpisce soltanto un piccolo gruppo di persone, mentre un errore diffuso può interessare un’intera società. Ma è proprio la [[concepts/truth|verità]] ad avere la meglio nel lungo periodo, perché non si può negare: è solida e resistente. Il numero delle persone che continuano a credere che non esista alcuna critica distruttiva al [[historical-references/darwinism|darwinismo]] da parte dei più grandi biologi, antropologi e scienziati moderni, figure di spicco nella nostra civiltà, diminuirà inevitabilmente col passare del tempo. Le persone semi-istruite di ogni epoca sono sempre sicure di cose che la vera scienza di quel periodo ha da tempo abbandonato; ma questa loro posizione non è né stabile né permanente. Prima o poi impareranno la verità. E lo stesso accadrà senza dubbio anche per la teoria della selezione naturale darwiniana.
 
 L’incompetenza del signor Wells in quel particolare ambito della sua storia è stata messa in evidenza. Sono stato io ad evidenziarla. Ma notate che si trovava sul terreno da lui stesso scelto: si vantava di aver ricevuto un’istruzione speciale in queste materie delle scienze fisiche, soprattutto in biologia; metteva in contrasto la sua formazione con la mia, che era stata così deplorevolmente limitata agli studi umanistici. Quindi, attaccandomi, stava combattendo su una posizione scelta interamente da lui stesso.
 
@@ -1677,7 +1677,7 @@ In parole povere, il signor Wells evita di affrontare direttamente la maggior pa
 
 Tuttavia, sicuramente sono proprio queste assurdità registrate nella storia, e non il suo ritardo nelle scienze biologiche, le principali difficoltà che deve affrontare.
 
-È principalmente attraverso la storia umana documentata, e non attraverso congetture sul passato sconosciuto, che dovrebbe basarsi per sovvertire la [[Faith|>Fede]] cristiana dei suoi lettori.
+È principalmente attraverso la storia umana documentata, e non attraverso congetture sul passato sconosciuto, che dovrebbe basarsi per sovvertire la [[concepts/faith|>Fede]] cristiana dei suoi lettori.
 
 La storia della nostra razza diventa qualcosa di definito e concreto soltanto dopo la creazione di documenti che ne testimonino l’esistenza; se questa fase fallisce – come è chiaramente accaduto in questo caso – allora tutto fallisce completamente.
 
@@ -1694,11 +1694,11 @@ THE LAST FACTOR in Mr. Wells’s pamphlet is one that we must always expect from
 
 “I see knowledge,” says Mr. Wells at the end of his diatribe, “increasing and human power increasing, I see ever-increasing possibilities before life, and I see no limit set to it at all. Existence impresses me as perpetual dawn. Our lives as I apprehend them, swim in expectation.”
 
-We have had this before over and over again, not only from the enthusiasts of the seventeenth century, but from the enthusiasts of the early heresies. There was a glorious time coming. Reality — that is the [[Faith]] — is a delusion. Now that you know it to be a delusion you are naturally down in the mouth. But cheer up, I have a consolation for you. All will yet be well; nay, much better. All is going forward. My donkey will soon grow wings.
+We have had this before over and over again, not only from the enthusiasts of the seventeenth century, but from the enthusiasts of the early heresies. There was a glorious time coming. Reality — that is the [[concepts/faith|Faith]] — is a delusion. Now that you know it to be a delusion you are naturally down in the mouth. But cheer up, I have a consolation for you. All will yet be well; nay, much better. All is going forward. My donkey will soon grow wings.
 
 I need not waste my reader’s time on that sort of thing. It is sheer stupid enthusiasm, indulged in to fill the void left by the loss of reason: by a man losing himself in a fog of cheap print and becoming fantastically unaware of things as they are.
 
-When, in that connection Mr. Wells tells me that we of the [[Faith]] are backward people, who “because it is necessary for their comfort believe in Heaven and Hell” (a comfortable place Hell!) I answer that he appreciates the [[Faith]] as a man born blind might appreciate colour. When he tells me that this Catholic sort (to which I belong) are besotted to stand by accepted morals, beget children honestly, love one wife and live decently, I answer him that he is becoming disgusting. When he says that we believe in immortality “because we should be sorry to grow old and die,” I answer that he is talking nonsense on such a scale that it is difficult to deal with it.
+When, in that connection Mr. Wells tells me that we of the [[concepts/faith|Faith]] are backward people, who “because it is necessary for their comfort believe in Heaven and Hell” (a comfortable place Hell!) I answer that he appreciates the [[concepts/faith|Faith]] as a man born blind might appreciate colour. When he tells me that this Catholic sort (to which I belong) are besotted to stand by accepted morals, beget children honestly, love one wife and live decently, I answer him that he is becoming disgusting. When he says that we believe in immortality “because we should be sorry to grow old and die,” I answer that he is talking nonsense on such a scale that it is difficult to deal with it.
 
 When he goes on to say that we think we live on a “flat World” it becomes worse still, and one can’t deal with it; it is no longer nonsense, it is raving.
 
@@ -1733,11 +1733,11 @@ L’ultimo fattore menzionato nel pamphlet di Mr. Wells è proprio ciò che poss
 
 “Vedo che la conoscenza,” dice il signor Wells alla fine del suo discorso, “continua ad aumentare, così come il potere umano; vedo possibilità sempre maggiori davanti alla vita, e non scorgo alcun limite a esse. L’esistenza mi appare come un’alba perpetua. Le nostre vite, così come le comprendo io, sono piene di aspettative.”
 
-È successo più e più volte: non solo tra gli entusiasti del diciassettesimo secolo, ma anche tra coloro che sostenevano le eresie del passato. C'era un’epoca gloriosa in arrivo. La realtà – cioè la [[Faith|Fede]] – è in realtà un’illusione. Ora che sai che si tratta di un’illusione, naturalmente sei deluso. Ma non disperare: ho una consolazione per te. Tutto andrà bene, anzi, molto meglio di quanto tu possa immaginare. Le cose stanno andando avanti. Presto anche il mio asino acquisirà le ali.
+È successo più e più volte: non solo tra gli entusiasti del diciassettesimo secolo, ma anche tra coloro che sostenevano le eresie del passato. C'era un’epoca gloriosa in arrivo. La realtà – cioè la [[concepts/faith|Fede]] – è in realtà un’illusione. Ora che sai che si tratta di un’illusione, naturalmente sei deluso. Ma non disperare: ho una consolazione per te. Tutto andrà bene, anzi, molto meglio di quanto tu possa immaginare. Le cose stanno andando avanti. Presto anche il mio asino acquisirà le ali.
 
 Non devo sprecare il tempo del mio lettore con cose del genere. Si tratta di un entusiasmo puramente stupido, alimentato per colmare il vuoto lasciato dalla perdita della ragione: da un uomo che si perde in una nebbia di testi banali e diventa incredibilmente ignorante riguardo alla realtà.
 
-Quando, in questo contesto, il signor Wells mi dice che noi della [[Faith|Fede]] siamo persone arretrate, che “perché necessario al loro comfort crediamo nel Cielo e nell’Inferno” (un posto davvero confortevole, l’Inferno,!), rispondo che lui apprezza la [[Faith|Fede]] come un uomo nato cieco potrebbe apprezzare i colori. Quando mi dice che questa gente cattolica (a cui appartengo) è ossessionata dall’adeguarsi alle morali convenzionali, dal generare figli onestamente, dall’amare una sola moglie e da vivere in modo decente, rispondo che sta diventando disgustoso. Quando afferma che crediamo nell’immortalità “perché ci dispiacerebbe invecchiare e morire”, rispondo che sta dicendo sciocchezze su una scala tale da rendere difficile affrontarlo.
+Quando, in questo contesto, il signor Wells mi dice che noi della [[concepts/faith|Fede]] siamo persone arretrate, che “perché necessario al loro comfort crediamo nel Cielo e nell’Inferno” (un posto davvero confortevole, l’Inferno,!), rispondo che lui apprezza la [[concepts/faith|Fede]] come un uomo nato cieco potrebbe apprezzare i colori. Quando mi dice che questa gente cattolica (a cui appartengo) è ossessionata dall’adeguarsi alle morali convenzionali, dal generare figli onestamente, dall’amare una sola moglie e da vivere in modo decente, rispondo che sta diventando disgustoso. Quando afferma che crediamo nell’immortalità “perché ci dispiacerebbe invecchiare e morire”, rispondo che sta dicendo sciocchezze su una scala tale da rendere difficile affrontarlo.
 
 Quando aggiunge che pensiamo di vivere su un “mondo piatto”, la situazione diventa ancora peggiore. Non si può più farci fronte: non è più semplicemente assurdo, ma pura follia.
 

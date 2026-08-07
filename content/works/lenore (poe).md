@@ -23,18 +23,18 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Death · Silence · Bells]]
+*by Poe*  ·  **Cluster:** [[clusters/death-·-silence-·-bells|Death · Silence · Bells]]
 
 > [!abstract] 
 > Elegiac dirge for the young dead Lenore, the bereaved lover rebuking false mourners and waiting her soul's flight to heaven.
 
 ## Connections
 
-**Topoi:** [[Memento Mori]]
-**Archetypes:** [[Ghost]]
-**Motifs:** [[Death]], [[Bells]], [[Grave]], [[River]], [[Music and Song]]
-**Themes & Concepts:** [[Grief and Loss]], [[Mortality]], [[Immortality]], [[Faith]], [[Romantic Love]]
-**Forms & Genres:** [[Elegy]], [[Lyric]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]
+**Archetypes:** [[archetypes/ghost|Ghost]]
+**Motifs:** [[motifs/death|Death]], [[motifs/bells|Bells]], [[motifs/grave|Grave]], [[motifs/river|River]], [[motifs/music-and-song|Music and Song]]
+**Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/mortality|Mortality]], [[concepts/immortality|Immortality]], [[concepts/faith|Faith]], [[concepts/romantic-love|Romantic Love]]
+**Forms & Genres:** [[forms/elegy|Elegy]], [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

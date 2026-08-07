@@ -22,19 +22,19 @@ tags:
   - character/the_virgin_mary
 ---
 
-*by Eliot*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Eliot*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > Closing section of Ash-Wednesday: penitential prayer poised between birth and dying, sea imagery, surrender to God's will. Religious conversion and faith-doubt tension.
 
 ## Connections
 
-**Topoi:** [[Quest]]
-**Motifs:** [[Sea]], [[Garden]], [[River]]
-**Themes & Concepts:** [[Faith and Doubt]], [[Conversion]], [[Humility]], [[Grace and Redemption]], [[Self-Knowledge]]
-**Forms & Genres:** [[Lyric]], [[Free Verse]]
-**Historical References:** [[Christianity]]
-**Characters:** [[Virgin Mary]]
+**Topoi:** [[topoi/quest|Quest]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/garden|Garden]], [[motifs/river|River]]
+**Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/conversion|Conversion]], [[concepts/humility|Humility]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/self-knowledge|Self-Knowledge]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/free-verse|Free Verse]]
+**Historical References:** [[historical-references/christianity|Christianity]]
+**Characters:** [[characters/virgin-mary|Virgin Mary]]
 
 ## Testo integrale / Full text
 

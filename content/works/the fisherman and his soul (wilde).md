@@ -44,7 +44,7 @@ tags:
   - character/the_witch
 ---
 
-*by Wilde*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
+*by Wilde*  ·  **Cluster:** [[clusters/allegory-·-quest-·-pilgrim|Allegory · Quest · Pilgrim]]
 
 > [!abstract] 
 > A fairy tale in which a young fisherman cuts away his shadow-soul to wed a mermaid; the disembodied, heartless Soul becomes his tempting double, dramatizing desire versus soul, body versus spirit, and the sea as the realm of pagan love against the Priest's Christian condemnation.
@@ -58,14 +58,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Double]], [[Quest]], [[Love as Religion]], [[Katabasis Descent]]
-**Archetypes:** [[Double Doppelganger]], [[Witch Enchantress]], [[Satanic Figure]], [[Lover]]
-**Motifs:** [[Sea]], [[Desire]], [[Love]], [[Supernatural]], [[Mirror]], [[Money and Gold]], [[Cross]], [[Moon]], [[Death]]
-**Themes & Concepts:** [[Self-Knowledge]], [[Romantic Love]], [[Temptation]], [[Good vs Evil]], [[Sin and the Fall]], [[Lust Sexual Desire]], [[Grace and Redemption]]
-**Forms & Genres:** [[Fairy Tale Fantasy]], [[Allegory]], [[Short Story]]
-**Historical References:** [[Christianity]]
-**Settings:** [[Sea (2)]], [[Orient]]
-**Characters:** [[Satan]], [[Young Fisherman]], [[Mermaid]], [[Soul (2)]], [[Witch]]
+**Topoi:** [[topoi/double|Double]], [[topoi/quest|Quest]], [[topoi/love-as-religion|Love as Religion]], [[topoi/katabasis-descent|Katabasis Descent]]
+**Archetypes:** [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/witch-enchantress|Witch Enchantress]], [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/desire|Desire]], [[motifs/love|Love]], [[motifs/supernatural|Supernatural]], [[motifs/mirror|Mirror]], [[motifs/money-and-gold|Money and Gold]], [[motifs/cross|Cross]], [[motifs/moon|Moon]], [[motifs/death|Death]]
+**Themes & Concepts:** [[concepts/self-knowledge|Self-Knowledge]], [[concepts/romantic-love|Romantic Love]], [[concepts/temptation|Temptation]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/grace-and-redemption|Grace and Redemption]]
+**Forms & Genres:** [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/allegory|Allegory]], [[forms/short-story|Short Story]]
+**Historical References:** [[historical-references/christianity|Christianity]]
+**Settings:** [[settings/sea-(2)|Sea (2)]], [[settings/orient|Orient]]
+**Characters:** [[characters/satan|Satan]], [[characters/young-fisherman|Young Fisherman]], [[characters/mermaid|Mermaid]], [[characters/soul-(2)|Soul (2)]], [[characters/witch|Witch]]
 
 ## Testo integrale / Full text
 

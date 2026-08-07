@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="concepts/inner-conflict"></div>
 
+<div class="concept-works-fallback">
+
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#0642_me_from_myself_to_banish|642. Me from Myself — to banish — (Dickinson)]]
+
+</div>
+
 #graph/concept

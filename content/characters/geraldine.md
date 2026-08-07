@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/geraldine"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/christabel-(coleridge)|CHRISTABEL (Coleridge)]]
+
+</div>
+
 #graph/character

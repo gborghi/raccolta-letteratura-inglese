@@ -27,7 +27,7 @@ tags:
 
 # great-minimum
 
-*by Chesterton*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Chesterton*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A lyric of gratitude and wonder affirming that to have lived, loved, and seen beauty 'is something' even amid loss; celebrates desire, the mystic rose, and gratitude against a sceptical, jaded age.
@@ -38,12 +38,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Lover]]
+**Archetypes:** [[archetypes/lover|Lover]]
 
-**Topoi:** [[Carpe Diem]]
-**Motifs:** [[Rose]], [[Flowers]], [[Stars]], [[Lightning]], [[Bread and Wine Eucharist]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Joy]], [[Romantic Love]], [[Faith and Doubt]], [[Desire and Longing]], [[Grief and Loss]], [[Mortality]], [[Apocalypse]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/carpe-diem|Carpe Diem]]
+**Motifs:** [[motifs/rose|Rose]], [[motifs/flowers|Flowers]], [[motifs/stars|Stars]], [[motifs/lightning|Lightning]], [[motifs/bread-and-wine-eucharist|Bread and Wine Eucharist]]
+**Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/joy|Joy]], [[concepts/romantic-love|Romantic Love]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/desire-and-longing|Desire and Longing]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/mortality|Mortality]], [[concepts/apocalypse|Apocalypse]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

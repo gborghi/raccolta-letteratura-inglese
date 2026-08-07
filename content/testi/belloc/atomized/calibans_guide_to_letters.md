@@ -86,7 +86,7 @@ THIS WORK NEEDS no apology.
 
 Its value to the English-speaking world is two-fold. It preserves for all time, in the form of a printed book, what might have been scattered in the sheets of ephemeral publications. It is so designed that these isolated monuments of prose and verse can be studied, absorbed, and, if necessary, copied by the young aspirant to literary honours.
 
-Nothing is Good save the Useful, and it would have been sheer [[Vanity|vanity]] to have published so small a selection, whatever its merit, unless it could be made to do Something, to achieve a Result in this strenuous modern world. It will not be the fault of the book, but of the reader, if no creative impulse follows its perusal, and the student will have but himself to blame if, with such standards before him, and so lucid and thorough an analysis of modern Literature and of its well-springs, he does not attain the goal to which the author would lead him.
+Nothing is Good save the Useful, and it would have been sheer [[concepts/vanity|vanity]] to have published so small a selection, whatever its merit, unless it could be made to do Something, to achieve a Result in this strenuous modern world. It will not be the fault of the book, but of the reader, if no creative impulse follows its perusal, and the student will have but himself to blame if, with such standards before him, and so lucid and thorough an analysis of modern Literature and of its well-springs, he does not attain the goal to which the author would lead him.
 
 The book will be found conveniently divided into sections representing the principal divisions of modern literary activity; each section will contain an introductory essay, which will form a practical guide to the subject with which it deals, and each will be adorned with one or more examples of the finished article, which, if the instructions be carefully followed, should soon be turned out without difficulty by any earnest and industrious scholar of average ability.
 
@@ -94,7 +94,7 @@ If the Work can raise the income of but one poor journalist, or produce earnings
 
 INTRODUCTION.
 
-FEW MEN HAVE pursued more honourably, more usefully, or more successfully the career of letters than Thomas Caliban, D.D., of Winchelthorpe-on-Sea, near Portsmouth. Inheriting, as his name would imply, the grand old Huguenot strain, his father was a Merchant Taylor of the City of [[London]], and principal manager of the Anglo-Chilian Bank; his mother the fifth daughter of K. Muller, Esq., of Brighton, a furniture dealer and reformer of note in the early forties.
+FEW MEN HAVE pursued more honourably, more usefully, or more successfully the career of letters than Thomas Caliban, D.D., of Winchelthorpe-on-Sea, near Portsmouth. Inheriting, as his name would imply, the grand old Huguenot strain, his father was a Merchant Taylor of the City of [[settings/london|London]], and principal manager of the Anglo-Chilian Bank; his mother the fifth daughter of K. Muller, Esq., of Brighton, a furniture dealer and reformer of note in the early forties.
 
 The connection established between my own family and that of Dr. Caliban I purposely pass over as not germane to the ensuing pages, remarking only that the friendship, guidance, and intimacy of such a man will ever count among my chiefest treasures. Of him it may truly be written: “He maketh them to shine like Sharon; the waters are his in Ram-Shaîd, and Gilgath praiseth him.”
 
@@ -142,7 +142,7 @@ A young radical of sorts was declaiming at his table one evening against the Con
 
 On another occasion, when some foreigner was reported in the papers as having doubted Mr. Brodrick’s figures relative to the numbers of the enemy remaining in the field, Dr. Caliban said with quiet dignity, “It is the first time I have heard the word of an English gentleman doubted.”
 
-It must not be imagined from these lines that he defended the gross excesses of the [[London]] mob — especially in the matter of strong waters — or that he wholly approved of our policy. “Peace in our time, Oh, Lord!” was his constant cry, and against militarism he thundered fearlessly. I have heard him apply to it a word that never passed his lips in any other connection — the word Damnable.
+It must not be imagined from these lines that he defended the gross excesses of the [[settings/london|London]] mob — especially in the matter of strong waters — or that he wholly approved of our policy. “Peace in our time, Oh, Lord!” was his constant cry, and against militarism he thundered fearlessly. I have heard him apply to it a word that never passed his lips in any other connection — the word Damnable.
 
 On the details of the war, the policy of annexation, the advisability of frequent surrenders, the high salaries of irregulars, and the employment of national scouts, he was silent. In fine, one might have applied to him the strong and simple words of Lord Jacobs, in his Guildhall speech. One main fact stood out — he hated warfare. He was a man of peace.
 
@@ -462,7 +462,7 @@ In the older and more settled order, political forces were so well known that no
 
 For the moment, however, their effect is direct and immediate. A vivid prophecy, a strong attack upon this statesman or that foreign Government may determine public opinion for a space of over ten days, and matter of this sort is remunerated at the rate of from 15s. to 18s. 6d. per thousand words. When we contrast this with the 9s. paid for the translation of foreign classics, the 5s. of occasional verse, or even the 10s. of police-court reporting, it is sufficiently evident that this kind of composition is the Premier Prose of our time.
 
-There must, indeed, be in [[London]] and Manchester, alive at the present moment, at least fifty men who can command the prices I have mentioned, and who, with reasonable industry, can earn as much as £500 a year by their decisions upon political matters. But I should be giving the student very indifferent counsel were I to recommend him for the delivery of his judgment to the beaten track of Leading Articles or to that of specially written and signed communications: the sums paid for such writing never rise beyond a modest level; the position itself is precarious. In London alone, and within a radius of 87 yards from the “Green Dragon,” no less than 53 Authors lost their livelihood upon the more respectable papers from an inability to prophecy with any kind of accuracy upon the late war, and this at a time when the majority of regular politicians were able to retain their seats in Parliament and many ministers their rank in the Cabinet.
+There must, indeed, be in [[settings/london|London]] and Manchester, alive at the present moment, at least fifty men who can command the prices I have mentioned, and who, with reasonable industry, can earn as much as £500 a year by their decisions upon political matters. But I should be giving the student very indifferent counsel were I to recommend him for the delivery of his judgment to the beaten track of Leading Articles or to that of specially written and signed communications: the sums paid for such writing never rise beyond a modest level; the position itself is precarious. In London alone, and within a radius of 87 yards from the “Green Dragon,” no less than 53 Authors lost their livelihood upon the more respectable papers from an inability to prophecy with any kind of accuracy upon the late war, and this at a time when the majority of regular politicians were able to retain their seats in Parliament and many ministers their rank in the Cabinet.
 
 By far the most durable, the most exalted, and the most effective kind of appeal, is that which is made in a poetic form, especially if that form be vague and symbolic in its character. Nothing is risked and everything is gained by this method, upon which have been founded so many reputations and so many considerable fortunes. The student cannot be too strongly urged to abandon the regular and daily task of set columns — signed or unsigned — for the occasional Flash of Verse if he desire to provoke great wars and to increase his income. It may not always succeed, but the proportion of failures is very small, and at the worst it is but a moment’s energy wasted.
 
@@ -722,7 +722,7 @@ It is not enough to compose such appeals as may quicken the nation to a percepti
 
 His comrades, who are content to deal with such matters as they arise, will not be paid at a higher rate: but they will be paid more often. They will not infrequently be paid from several sources; they will have many opportunities for judging those financial questions which are invariably mixed up with the great battle against the Ultramontane, the Cossack and the Turk. In Cairo, Frankfort, Pretoria, Mayfair, Shanghai, their latter days confirm Dr. Caliban’s profound conclusion: “Whosoever works for Humanity works, whether he know it or not, for himself as well.”
 
-I earnestly beseech the reader of this text-book, especially if he be young, to allow no false shame to modify his zeal in judging the vileness of the Continent. We know whatever can be known; all criticism or qualification is [[Hypocrisy|hypocrisy]]; all silence is cowardice. There is work to be done. Let the writer take up his pen and write.
+I earnestly beseech the reader of this text-book, especially if he be young, to allow no false shame to modify his zeal in judging the vileness of the Continent. We know whatever can be known; all criticism or qualification is [[concepts/hypocrisy|hypocrisy]]; all silence is cowardice. There is work to be done. Let the writer take up his pen and write.
 
 I had some little hesitation what model to put before the student. This book does not profess to be more than an introduction to the elements of our science; I therefore omitted what had first seemed to me of some value, the letters written on a special commission to Pondicherry during the plague and famine in that unhappy and ill-governed remnant of a falling empire. The articles on the tortures in the Phillipines were never printed, and might mislead. I have preferred to show Priestcraft and Liberty in their eternal struggle as they appeared to me in the character of Special Commissioner for Out and About during the troubles of 1901. It is clear, and I think unbiassed; it opens indeed in that light fashion which is a concession to contemporary journalism: but the half-frivolous exterior conceals a permanent missionary purpose. Its carefully collected array of facts give, I suggest, a vivid picture of one particular battlefield; that whereon there rage to-day the opposed forces which will destroy or save the French people. The beginner could not have a better introduction to his struggle against the infamies of Clericalism. Let him ask himself (as Mr. Gardy, M.P., asked in a letter to Out and About) the indignant question, “Could such things happen here in England?”
 
@@ -1264,7 +1264,7 @@ With a sigh of relief he thrust those creative hands of his into his trouser poc
 
 “To show you how it is done, I cannot begin better than by a little example,” he said.
 
-He went to a neighbouring table, rummaged about in a pile of the Outlook and [[Vanity]] Fair, and produced a scrap of paper upon which there was a type-written poem. His hands trembled with pleasure, but he controlled himself well (for he is a strong, silent kind of man), and continued: —
+He went to a neighbouring table, rummaged about in a pile of the Outlook and [[concepts/vanity|Vanity]] Fair, and produced a scrap of paper upon which there was a type-written poem. His hands trembled with pleasure, but he controlled himself well (for he is a strong, silent kind of man), and continued: —
 
 “I will not weary you with the whole of this Work. I am sure you must already be familiar with it. In the Volunteer camp where I was recently staying, and where I slept under canvas like anybody else, the officers knew it by heart, and used to sing it to a tune of my own composition (for you must know that I write these little things to airs of my own). I will only read you the last verse, which, as is usual in my lyrics, contains the pith of the whole matter.”
 
@@ -1310,7 +1310,7 @@ He went to a corner of the room, opened a large, scented, velvet-bound book upon
 
 “Lest he forget the great ally
 
-In heaven yclept [[Hypocrisy|hypocrisy]],
+In heaven yclept [[concepts/hypocrisy|hypocrisy]],
 
 So help me Bawb! I’ll mark him yet —
 
@@ -2562,7 +2562,7 @@ THIS WORK NEEDS no apology.
 
 Its value to the English-speaking world is two-fold. It preserves for all time, in the form of a printed book, what might have been scattered in the sheets of ephemeral publications. It is so designed that these isolated monuments of prose and verse can be studied, absorbed, and, if necessary, copied by the young aspirant to literary honours.
 
-Nothing is Good save the Useful, and it would have been sheer [[Vanity|vanity]] to have published so small a selection, whatever its merit, unless it could be made to do Something, to achieve a Result in this strenuous modern world. It will not be the fault of the book, but of the reader, if no creative impulse follows its perusal, and the student will have but himself to blame if, with such standards before him, and so lucid and thorough an analysis of modern Literature and of its well-springs, he does not attain the goal to which the author would lead him.
+Nothing is Good save the Useful, and it would have been sheer [[concepts/vanity|vanity]] to have published so small a selection, whatever its merit, unless it could be made to do Something, to achieve a Result in this strenuous modern world. It will not be the fault of the book, but of the reader, if no creative impulse follows its perusal, and the student will have but himself to blame if, with such standards before him, and so lucid and thorough an analysis of modern Literature and of its well-springs, he does not attain the goal to which the author would lead him.
 
 The book will be found conveniently divided into sections representing the principal divisions of modern literary activity; each section will contain an introductory essay, which will form a practical guide to the subject with which it deals, and each will be adorned with one or more examples of the finished article, which, if the instructions be carefully followed, should soon be turned out without difficulty by any earnest and industrious scholar of average ability.
 
@@ -2577,7 +2577,7 @@ Quest'opera non ha bisogno di scuse.
 
 Il suo valore per il mondo di lingua inglese è doppio: conserva per sempre, sotto forma di libro stampato, ciò che altrimenti sarebbe disperso tra le pagine di pubblicazioni effimere. È stato progettato in modo tale che questi isolati monumenti di prosa e poesia possano essere studiati, assimilati e, se necessario, copiati dai giovani che aspirano a raggiungere onori letterari.
 
-Niente è buono se non ciò che è utile; pubblicare una selezione così limitata, per quanto meritevole possa essere, sarebbe pura [[Vanity|vanità]], a meno che essa non possa contribuire a realizzare qualcosa, a ottenere un risultato in questo difficile mondo moderno. Non sarà colpa del libro se, dopo averlo letto, non scaturirà alcun impulso creativo; lo studente, invece, dovrà incolpare soltanto se stesso se, di fronte a standard così elevati e a un'analisi così chiara e approfondita della letteratura moderna e delle sue origini, non riesce ad raggiungere l’obiettivo che l’autore si proponeva di fargli raggiungere.
+Niente è buono se non ciò che è utile; pubblicare una selezione così limitata, per quanto meritevole possa essere, sarebbe pura [[concepts/vanity|vanità]], a meno che essa non possa contribuire a realizzare qualcosa, a ottenere un risultato in questo difficile mondo moderno. Non sarà colpa del libro se, dopo averlo letto, non scaturirà alcun impulso creativo; lo studente, invece, dovrà incolpare soltanto se stesso se, di fronte a standard così elevati e a un'analisi così chiara e approfondita della letteratura moderna e delle sue origini, non riesce ad raggiungere l’obiettivo che l’autore si proponeva di fargli raggiungere.
 
 Il libro è suddiviso in sezioni che rappresentano le principali ambiti dell’attività letteraria moderna; ciascuna sezione contiene un saggio introduttivo che funge da guida pratica all’argomento trattato, e inoltre è arricchita da uno o più esempi di testi completati. Seguendo attentamente le istruzioni fornite, qualsiasi studente serio e diligente, con capacità medie, potrà facilmente realizzarli senza difficoltà.
 
@@ -2590,7 +2590,7 @@ Se questo lavoro riesce ad aumentare il reddito anche solo di un giornalista pov
 
 INTRODUCTION.
 
-FEW MEN HAVE pursued more honourably, more usefully, or more successfully the career of letters than Thomas Caliban, D.D., of Winchelthorpe-on-Sea, near Portsmouth. Inheriting, as his name would imply, the grand old Huguenot strain, his father was a Merchant Taylor of the City of [[London]], and principal manager of the Anglo-Chilian Bank; his mother the fifth daughter of K. Muller, Esq., of Brighton, a furniture dealer and reformer of note in the early forties.
+FEW MEN HAVE pursued more honourably, more usefully, or more successfully the career of letters than Thomas Caliban, D.D., of Winchelthorpe-on-Sea, near Portsmouth. Inheriting, as his name would imply, the grand old Huguenot strain, his father was a Merchant Taylor of the City of [[settings/london|London]], and principal manager of the Anglo-Chilian Bank; his mother the fifth daughter of K. Muller, Esq., of Brighton, a furniture dealer and reformer of note in the early forties.
 
 The connection established between my own family and that of Dr. Caliban I purposely pass over as not germane to the ensuing pages, remarking only that the friendship, guidance, and intimacy of such a man will ever count among my chiefest treasures. Of him it may truly be written: “He maketh them to shine like Sharon; the waters are his in Ram-Shaîd, and Gilgath praiseth him.”
 
@@ -2621,7 +2621,7 @@ I hardly know where to begin the recital of his numerous activities in the perio
 
 **Introduzione.**
 
-Pochi uomini hanno perseguito la carriera letteraria con maggiore onore, maggior utilità o maggior successo di Thomas Caliban, D.D., di Winchelthorpe-on-Sea, vicino a Portsmouth. Come il suo nome stesso suggerisce, ereditò il nobile sangue degli Ugonotti; suo padre era un mercante di tessuti della Città di [[London|Londra]] e principale dirigente della Anglo-Chilian Bank; sua madre era la quinta figlia di K. Muller, commerciante di mobili e figura di spicco nel movimento riformista dei primi anni del diciannovesimo secolo a Brighton.
+Pochi uomini hanno perseguito la carriera letteraria con maggiore onore, maggior utilità o maggior successo di Thomas Caliban, D.D., di Winchelthorpe-on-Sea, vicino a Portsmouth. Come il suo nome stesso suggerisce, ereditò il nobile sangue degli Ugonotti; suo padre era un mercante di tessuti della Città di [[settings/london|Londra]] e principale dirigente della Anglo-Chilian Bank; sua madre era la quinta figlia di K. Muller, commerciante di mobili e figura di spicco nel movimento riformista dei primi anni del diciannovesimo secolo a Brighton.
 
 Il legame stabilito tra la mia famiglia e quella del Dottor Caliban lo tralascio intenzionalmente, poiché non è rilevante per le pagine che seguono; voglio solo sottolineare che l’amicizia, la guida e l’intimità di un uomo del genere rimarranno sempre tra i miei tesori più preziosi. Di lui si può davvero dire: “Li rende splendenti come Sharon; le acque appartengono a lui a Ram-Shaîd, e Gilgath lo loda”.
 
@@ -2704,7 +2704,7 @@ In un'altra occasione, quando i giornali riferirono che qualcun straniero aveva 
 <span class="atom-split" data-atom="story_02_introduction--part_03" data-title="Caliban’s Guide to Letters — INTRODUCTION. (part 3)" data-chapter="INTRODUCTION" data-kind="excerpt" data-tags="setting/london"></span>
 
 
-It must not be imagined from these lines that he defended the gross excesses of the [[London]] mob — especially in the matter of strong waters — or that he wholly approved of our policy. “Peace in our time, Oh, Lord!” was his constant cry, and against militarism he thundered fearlessly. I have heard him apply to it a word that never passed his lips in any other connection — the word Damnable.
+It must not be imagined from these lines that he defended the gross excesses of the [[settings/london|London]] mob — especially in the matter of strong waters — or that he wholly approved of our policy. “Peace in our time, Oh, Lord!” was his constant cry, and against militarism he thundered fearlessly. I have heard him apply to it a word that never passed his lips in any other connection — the word Damnable.
 
 On the details of the war, the policy of annexation, the advisability of frequent surrenders, the high salaries of irregulars, and the employment of national scouts, he was silent. In fine, one might have applied to him the strong and simple words of Lord Jacobs, in his Guildhall speech. One main fact stood out — he hated warfare. He was a man of peace.
 
@@ -2723,7 +2723,7 @@ Finally, let me offer to his family, and to his numerous circle, such apologies 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Non si deve pensare, da queste parole, che egli difendesse gli eccessi della folla di [[London|Londra]] – soprattutto in materia di alcolici forti – né che approvasse completamente la nostra politica. “Pace nel nostro tempo, Oh Signore!” era il suo grido costante, e contro il militarismo si pronunciava senza paura. L’ho sentito usare una parola che mai prima aveva pronunciato in altri contesti: “Maledetto”.
+Non si deve pensare, da queste parole, che egli difendesse gli eccessi della folla di [[settings/london|Londra]] – soprattutto in materia di alcolici forti – né che approvasse completamente la nostra politica. “Pace nel nostro tempo, Oh Signore!” era il suo grido costante, e contro il militarismo si pronunciava senza paura. L’ho sentito usare una parola che mai prima aveva pronunciato in altri contesti: “Maledetto”.
 
 Riguardo ai dettagli della guerra, alla politica di annessione, all’opportunità di arrendersi frequentemente, agli alti salari degli irregolari e all’impiego dei ricognitori nazionali, rimase in silenzio. In definitiva, si sarebbero potuti applicare a lui le parole forti e semplici di Lord Jacobs nel suo discorso al Guildhall. Un fatto principale emergeva chiaramente: odiava la guerra. Era un uomo di pace.
 
@@ -2911,7 +2911,7 @@ Prese con un certo distacco una pagina di carta e scrisse quanto segue: un passa
 
 “Questo libro arriva in un momento assolutamente opportuno. Non è generalmente noto che il Professor Charles sia stato il primo a sottolineare l’immensa importanza dell’educazione della mente nell’insegnamento dei bambini. Fu nel maggio del 1875 che fece questa osservazione in presenza di Mr. Gladstone, il quale rimase così colpito dalla profondità e dalla novità di questo punto di vista da scrivere una lunga e interessante cartolina sull’autore a un amico dell’attuale autore. Il Professor Charles può essere definito – anzi, lui stesso si definisce – un ‘uomo fatto da sé’. Nato a Huddersfield da genitori tessitori in quella incantevole città del nord, fin da giovane fu affascinato dagli studi di scienze naturali e riuscì ad essere ammesso all’Università Alexandrovna, ”
 
-# E così via… tratto da “Chi è chi”.
+E così via… tratto da “Chi è chi”.
 
 “Ma questo non sarebbe stato sufficiente per il suo crescente genio.”
 
@@ -3089,7 +3089,7 @@ Nelle stesse strutture è possibile reperire liste molto complete di parole effi
 
 {
 
-# Assoluto
+Assoluto
 
 }
 
@@ -3107,7 +3107,7 @@ Creative
 
 {
 
-# Bestiale
+Bestiale
 
 }
 
@@ -3117,7 +3117,7 @@ Intenso
 
 }
 
-#"C'è qualcosa..."
+"C'è qualcosa..."
 
 {
 
@@ -3127,7 +3127,7 @@ Autoritario
 
 “In stile del signor — —”.
 
-# Di, davvero
+Di, davvero
 
 {
 
@@ -3135,7 +3135,7 @@ Ampitheatrical
 
 }
 
-# La signora — —
+La signora — —
 
 {
 
@@ -3143,7 +3143,7 @@ Scaduto
 
 }
 
-# Miss — — ‘s
+Miss — — ‘s
 
 {
 
@@ -3165,13 +3165,13 @@ Casuale
 
 {
 
-# Alcalino
+Alcalino
 
 }
 
 {
 
-# Zenotic
+Zenotic
 
 }
 
@@ -3183,13 +3183,13 @@ In questo, come in ogni altro settore pratico, un esempio concreto vale più di 
 
 Un giovane poeta in pericolo.
 
-# "Pereant qui Nostra" di Mr. Mayhem
+"Pereant qui Nostra" di Mr. Mayhem
 
 Temo che con “Pereant Qui Nostra”, il signor Mayhem non abbia affatto migliorato la sua reputazione; anzi, si potrebbe persino dubitare che sia stata una buona idea pubblicarlo. “Tufts in an Orchard” prometteva molto, e l’autore di quelle splendide parole avrebbe potuto tranquillamente accontentarsi della fama immediata ottenuta con quel primo lavoro.
 
 “Signore, guarda verso l’Inghilterra; l’Inghilterra guarda verso di te.”
 
-#E, davvero…
+E, davvero…
 
 “I grandi vampiri sinceri e la luna”
 
@@ -3285,7 +3285,7 @@ ON POLITICAL APPEALS.
 
 “Babbler of Hell, importunate mad fiend, dead canker, crested worm” – queste espressioni sono vigorose e originali, ma non bastano a salvare il sonetto. E per quanto riguarda le ultime due righe.
 
-#"Non cercare mai di penetrare lo scudo invisibile degli anni."
+"Non cercare mai di penetrare lo scudo invisibile degli anni."
 
 “Per quello certamente non potresti mai farlo.”
 
@@ -3293,11 +3293,11 @@ Se diciamo che l’ordine delle righe crea un effetto di totale ridicolo, il sig
 
 Forse i difetti e le qualità di Mr. Mayhem, i suoi limiti “fruttuosi” e le sue ispirazioni energiche possono essere apprezzati al meglio se citiamo il seguente sonetto; inoltre, questo esercizio ci offrirà l’opportunità (che sicuramente Mr. Mayhem non rimprovererà a un vecchio amico come noi) di evidenziare i pericoli nei quali le sue nuove tendenze potrebbero portarlo.
 
-#Inghilterra, se mai dovesse toccarti questo destino…
+Inghilterra, se mai dovesse toccarti questo destino…
 
 Per volere del destino o per caso fortuito
 
-# Da timori meschini di non essere grandi
+Da timori meschini di non essere grandi
 
 E nel torneo con la lancia scomposta…
 
@@ -3368,13 +3368,13 @@ In the older and more settled order, political forces were so well known that no
 
 For the moment, however, their effect is direct and immediate. A vivid prophecy, a strong attack upon this statesman or that foreign Government may determine public opinion for a space of over ten days, and matter of this sort is remunerated at the rate of from 15s. to 18s. 6d. per thousand words. When we contrast this with the 9s. paid for the translation of foreign classics, the 5s. of occasional verse, or even the 10s. of police-court reporting, it is sufficiently evident that this kind of composition is the Premier Prose of our time.
 
-There must, indeed, be in [[London]] and Manchester, alive at the present moment, at least fifty men who can command the prices I have mentioned, and who, with reasonable industry, can earn as much as £500 a year by their decisions upon political matters. But I should be giving the student very indifferent counsel were I to recommend him for the delivery of his judgment to the beaten track of Leading Articles or to that of specially written and signed communications: the sums paid for such writing never rise beyond a modest level; the position itself is precarious. In [[London]] alone, and within a radius of 87 yards from the “Green Dragon,” no less than 53 Authors lost their livelihood upon the more respectable papers from an inability to prophecy with any kind of accuracy upon the late war, and this at a time when the majority of regular politicians were able to retain their seats in Parliament and many ministers their rank in the Cabinet.
+There must, indeed, be in [[settings/london|London]] and Manchester, alive at the present moment, at least fifty men who can command the prices I have mentioned, and who, with reasonable industry, can earn as much as £500 a year by their decisions upon political matters. But I should be giving the student very indifferent counsel were I to recommend him for the delivery of his judgment to the beaten track of Leading Articles or to that of specially written and signed communications: the sums paid for such writing never rise beyond a modest level; the position itself is precarious. In [[settings/london|London]] alone, and within a radius of 87 yards from the “Green Dragon,” no less than 53 Authors lost their livelihood upon the more respectable papers from an inability to prophecy with any kind of accuracy upon the late war, and this at a time when the majority of regular politicians were able to retain their seats in Parliament and many ministers their rank in the Cabinet.
 
 By far the most durable, the most exalted, and the most effective kind of appeal, is that which is made in a poetic form, especially if that form be vague and symbolic in its character. Nothing is risked and everything is gained by this method, upon which have been founded so many reputations and so many considerable fortunes. The student cannot be too strongly urged to abandon the regular and daily task of set columns — signed or unsigned — for the occasional Flash of Verse if he desire to provoke great wars and to increase his income. It may not always succeed, but the proportion of failures is very small, and at the worst it is but a moment’s energy wasted.
 
 “We are sick” says one of the most famous among those who have adopted this method, “We are sick” — he is speaking not only of himself but of others— “We are sick for a stave of the song that our fathers sang.” Turn, therefore, to the dead — who are no longer alive, and with whom no quarrel is to be feared. Make them reappear and lend weight to your contention. Their fame is achieved, and may very possibly support your own. This kind of writing introduces all the elements that most profoundly affect the public: it is mysterious, it is vague, it is authoritative; it is also eminently literary, and I can recall no first-class political appeal of the last fifteen years which has not been cast more or less upon these lines.
 
-The subjects you may choose from are numerous and are daily increasing, but for the amateur the best, without any question, is that of Imperialism. It is a common ground upon which all meet, and upon which every race resident in the wealthier part of [[London]] is agreed. Bring forward the great ghosts of the past, let them swell what is now an all but universal chorus. Avoid the more complicated metres, hendecasyllables, and the rest; choose those which neither scan nor rhyme; or, if their subtlety baffles you, fall back upon blank verse, and you should, with the most moderate talent, lay the foundation of a permanent success.
+The subjects you may choose from are numerous and are daily increasing, but for the amateur the best, without any question, is that of Imperialism. It is a common ground upon which all meet, and upon which every race resident in the wealthier part of [[settings/london|London]] is agreed. Bring forward the great ghosts of the past, let them swell what is now an all but universal chorus. Avoid the more complicated metres, hendecasyllables, and the rest; choose those which neither scan nor rhyme; or, if their subtlety baffles you, fall back upon blank verse, and you should, with the most moderate talent, lay the foundation of a permanent success.
 
 I will append, as is my custom, a model upon which the student may shape his first efforts, though I would not have him copy too faithfully, lest certain idiosyncrasies of manner should betray the plagiarism.
 
@@ -3429,13 +3429,13 @@ Nell’ordine sociale più antico e stabile, le forze politiche erano così ben 
 
 Tuttavia, al momento, il loro effetto è diretto e immediato. Una profezia vivida, un attacco deciso contro questo o quel statista o governo straniero possono influenzare l’opinione pubblica per oltre dieci giorni; servizi di questo tipo vengono pagati a un compenso che va da 15 a 18 penny e 6 pence per mille parole. Se confrontiamo questo con i soli 9 penny pagati per la traduzione di classici stranieri, i 5 penny per poesie occasionali, o addirittura i 10 penny per resoconti giudiziari, diventa evidente che questo tipo di scrittura rappresenta davvero la “prosa più importante” del nostro tempo.
 
-Deve esserci, senza dubbio, a [[London|Londra]] e a Manchester, almeno cinquanta uomini che, in questo momento, siano in grado di influenzare i prezzi di cui ho parlato e che, con un impegno ragionevole, possano guadagnare fino a 500 sterline all’anno grazie alle loro decisioni su questioni politiche. Tuttavia, consiglierei allo studente di non affidarsi ai soliti articoli pubblicati sui giornali più diffusi, né a comunicazioni scritte appositamente e firmate da autori noti: i compensi per tale tipo di attività non superano mai livelli modesti, e la posizione stessa occupata da questi autori è molto precaria. Solo a [[London|Londra]], entro un raggio di 87 metri dal “Green Dragon”, ben 53 autori hanno perso il proprio mezzo di sussistenza a causa della loro incapacità di prevedere con precisione gli sviluppi della guerra appena conclusa, in un momento in cui la maggior parte dei politici regolari riusciva comunque a mantenere i propri seggi in Parlamento e molti ministri il proprio ruolo nel Gabinetto.
+Deve esserci, senza dubbio, a [[settings/london|Londra]] e a Manchester, almeno cinquanta uomini che, in questo momento, siano in grado di influenzare i prezzi di cui ho parlato e che, con un impegno ragionevole, possano guadagnare fino a 500 sterline all’anno grazie alle loro decisioni su questioni politiche. Tuttavia, consiglierei allo studente di non affidarsi ai soliti articoli pubblicati sui giornali più diffusi, né a comunicazioni scritte appositamente e firmate da autori noti: i compensi per tale tipo di attività non superano mai livelli modesti, e la posizione stessa occupata da questi autori è molto precaria. Solo a [[settings/london|Londra]], entro un raggio di 87 metri dal “Green Dragon”, ben 53 autori hanno perso il proprio mezzo di sussistenza a causa della loro incapacità di prevedere con precisione gli sviluppi della guerra appena conclusa, in un momento in cui la maggior parte dei politici regolari riusciva comunque a mantenere i propri seggi in Parlamento e molti ministri il proprio ruolo nel Gabinetto.
 
 Di gran lunga il tipo di appello più duraturo, più elevato ed efficace è quello espresso in forma poetica, soprattutto se tale forma è vaga e simbolica per natura. Con questo metodo non si rischia nulla e si guadagna tutto; su di esso sono state costruite molte reputazioni e molti patrimoni considerevoli. Non si può mai esortare abbastanza un studente a abbandonare il compito regolare e quotidiano di scrivere articoli ordinati, siano essi firmati o meno, per dedicarsi occasionalmente alla scrittura di versi, se desidera suscitare grande interesse e aumentare i propri guadagni. Forse non sempre avrà successo, ma la percentuale di fallimenti è molto bassa; nel peggiore dei casi, si tratterà soltanto di uno spreco di energia momentaneo.
 
 “Siamo malati”, dice uno dei più famosi tra coloro che hanno adottato questo metodo. “Siamo malati” – e parla non solo di sé, ma anche degli altri – “siamo malati per la mancanza di quella canzone che i nostri padri cantavano”. Pertanto, rivolgetevi ai morti: coloro che ormai non sono più vivi, e con i quali non c’è alcun motivo di temere conflitti. Fateli riapparire e datemi forza nelle mie argomentazioni. La loro fama è già a disposizione; molto probabilmente può anche sostenere la vostra. Questo tipo di scrittura introduce tutti gli elementi che influenzano profondamente il pubblico: è misteriosa, vaga, autorevole, ed è anche estremamente letteraria. Non ricordo alcun appello politico di prim’ordine degli ultimi quindici anni che non si sia basato, in misura maggiore o minore, su questi principi.
 
-Gli argomenti tra cui si può scegliere sono numerosi e aumentano ogni giorno, ma per un principiante, senza dubbio il migliore è quello dell’Imperialismo. È un terreno comune su cui tutti concordano, e su cui ogni razza residente nella parte più ricca di [[London|Londra]] è d’accordo. Portate avanti i grandi “fantasmi” del passato; lasciate che rafforzino quel coro ormai quasi universale. Evitate le metriche più complicate, gli endecasillabi e simili; scegliete quelle che né seguono una regola metrica precisa né si rimeggiano; oppure, se la loro complessità vi confonde, ricorrete al verso libero. E con un talento anche moderato, sarete in grado di gettare le basi per un successo duraturo.
+Gli argomenti tra cui si può scegliere sono numerosi e aumentano ogni giorno, ma per un principiante, senza dubbio il migliore è quello dell’Imperialismo. È un terreno comune su cui tutti concordano, e su cui ogni razza residente nella parte più ricca di [[settings/london|Londra]] è d’accordo. Portate avanti i grandi “fantasmi” del passato; lasciate che rafforzino quel coro ormai quasi universale. Evitate le metriche più complicate, gli endecasillabi e simili; scegliete quelle che né seguono una regola metrica precisa né si rimeggiano; oppure, se la loro complessità vi confonde, ricorrete al verso libero. E con un talento anche moderato, sarete in grado di gettare le basi per un successo duraturo.
 
 Aggiungerò, come è mia abitudine, un modello su cui lo studente possa basare i suoi primi tentativi, anche se non vorrei che lo copiasse troppo fedelmente, per evitare che alcune particolarità stilistiche rivelassero la presenza di plagio.
 
@@ -3449,7 +3449,7 @@ Petronio – Stasera mi incoronerebbero con fiori di carta
 
 E profumato con il raro opopanax.
 
-# Il sapore che guida l’Oriente…
+Il sapore che guida l’Oriente…
 
 I mari al di là di Modore.
 
@@ -3457,13 +3457,13 @@ Talleyrand – Spingiti da parte, Petronio.
 
 E lasciate che mi sieda il più vicino possibile.
 
-# Alla grande banda imperiale del signor Bingoe
+Alla grande banda imperiale del signor Bingoe
 
-# Trentasette strumenti di bronzo
+Trentasette strumenti di bronzo
 
-#E i tamburi rimbombano: sento i suonatori
+E i tamburi rimbombano: sento i suonatori
 
-# Discorso sulla musica chiamata “What Ho! She Bumps!”
+Discorso sulla musica chiamata “What Ho! She Bumps!”
 
 Lord Chesterfield: Che cosa! Si sbatte contro qualcosa! Proprio così! Ecco, c’è “aria”!
 
@@ -3694,7 +3694,7 @@ It is not enough to compose such appeals as may quicken the nation to a percepti
 
 His comrades, who are content to deal with such matters as they arise, will not be paid at a higher rate: but they will be paid more often. They will not infrequently be paid from several sources; they will have many opportunities for judging those financial questions which are invariably mixed up with the great battle against the Ultramontane, the Cossack and the Turk. In Cairo, Frankfort, Pretoria, Mayfair, Shanghai, their latter days confirm Dr. Caliban’s profound conclusion: “Whosoever works for Humanity works, whether he know it or not, for himself as well.”
 
-I earnestly beseech the reader of this text-book, especially if he be young, to allow no false shame to modify his zeal in judging the vileness of the Continent. We know whatever can be known; all criticism or qualification is [[Hypocrisy|hypocrisy]]; all silence is cowardice. There is work to be done. Let the writer take up his pen and write.
+I earnestly beseech the reader of this text-book, especially if he be young, to allow no false shame to modify his zeal in judging the vileness of the Continent. We know whatever can be known; all criticism or qualification is [[concepts/hypocrisy|hypocrisy]]; all silence is cowardice. There is work to be done. Let the writer take up his pen and write.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3917,7 +3917,7 @@ Non basta comporre appelli tali da destare nella nazione la percezione della sua
 
 I suoi compagni, che si accontentano di trattare le questioni via via che si presentano, non saranno pagati a una tariffa più alta: ma saranno pagati più spesso. Non di rado saranno pagati da più fonti; avranno molte occasioni di giudicare quelle questioni finanziarie che sono immancabilmente mescolate alla grande battaglia contro l’Ultramontano, il Cosacco e il Turco. Al Cairo, a Francoforte, a Pretoria, a Mayfair, a Shanghai, i loro ultimi giorni confermano la profonda conclusione del Dr. Calibano: «Chiunque lavori per l’Umanità lavora, che lo sappia o no, anche per se stesso».
 
-Prego caldamente il lettore di questo manuale, specie se giovane, di non permettere che alcun falso pudore attenui il suo zelo nel giudicare la turpitudine del Continente. Noi sappiamo tutto ciò che si può sapere; ogni critica o distinguo è [[Hypocrisy|ipocrisia]]; ogni silenzio è codardia. C’è del lavoro da fare. Prenda lo scrittore la sua penna e scriva.
+Prego caldamente il lettore di questo manuale, specie se giovane, di non permettere che alcun falso pudore attenui il suo zelo nel giudicare la turpitudine del Continente. Noi sappiamo tutto ciò che si può sapere; ogni critica o distinguo è [[concepts/hypocrisy|ipocrisia]]; ogni silenzio è codardia. C’è del lavoro da fare. Prenda lo scrittore la sua penna e scriva.
 
 
 
@@ -4000,7 +4000,7 @@ Un vecchio generale di genio militare, che aveva ideato l’obturatore speciale 
 <span class="atom-split" data-atom="story_04_political_appeals--part_05" data-title="Caliban’s Guide to Letters — POLITICAL APPEALS. (part 5)" data-chapter="POLITICAL APPEALS" data-kind="excerpt" data-tags="setting/london"></span>
 
 
-Two monks, who had walked all the way from Spain, settled in a house near the well. A pilgrim, who had also evidently come from a prodigious distance on foot, but gave false information as to his movements, was arrested by the police and subsequently released. The arrest was telegraphed to the Times and much commented upon, but the suicide of a prominent [[London]] solicitor and other important news prevented any mention of his release.
+Two monks, who had walked all the way from Spain, settled in a house near the well. A pilgrim, who had also evidently come from a prodigious distance on foot, but gave false information as to his movements, was arrested by the police and subsequently released. The arrest was telegraphed to the Times and much commented upon, but the suicide of a prominent [[settings/london|London]] solicitor and other important news prevented any mention of his release.
 
 A writer of great eminence, who had been a leading sceptic all his life, stayed at Lagarde for a month and became a raving devotee. His publishers (MM. Hermann Khan) punished him by refusing to receive his book upon the subject; but by some occult influence, probably that of the Jesuits, he was paid several hundreds for it by the firm of Zadoc et Cie; ten years afterwards he died of a congested liver, a catastrophe which some ascribed to a Jewish plot, and others treated as a proof that his intellect had long been failing.
 
@@ -4339,15 +4339,15 @@ Queste due cose, dunque, la sua pigrizia e la sua esitazione nel criticare, impe
 
 Ma piuttosto, con un’agilità antichissima…
 
-# Di merito perfetto, essi rimangono.
+Di merito perfetto, essi rimangono.
 
-# Trascinati lontano dalla brutale realtà… rimanete così.
+Trascinati lontano dalla brutale realtà… rimanete così.
 
 E nel flusso e nel vortice del tempo, rimangono ancora lì.
 
-#Sabbia consacrata
+Sabbia consacrata
 
-# Dove lasciarono le loro tracce, senza più dolore…
+Dove lasciarono le loro tracce, senza più dolore…
 
 “Un erede della terra inglese… che la terra inglese lo accetti.”
 
@@ -4459,7 +4459,7 @@ Ricevette una risposta quella stessa sera: —
 
 “Telegraph, ‘Vindex.’” W.C.
 
-# “Dottor Sir”
+“Dottor Sir”
 
 “Il vostro gentile favore è a disposizione. Poiché non sono state incluse alcune stampe con i versi, le abbiamo mantenute così come erano; tuttavia le invieremo non appena riceveremo due stampe, comprese anche le spese relative a queste.”
 
@@ -4467,7 +4467,7 @@ Ricevette una risposta quella stessa sera: —
 
 “Alphonse Riphraim.”
 
-# Modifica di indirizzo.
+Modifica di indirizzo.
 
 A causa di questo, Peter Gurney si arrabbiò così tanto che andò direttamente al suo club, compose il numero 239 e disse personalmente, a voce alta e con enfasi, all’editore del “Patriot” che era un sostenitore dei Boeri; poi riattaccò prima che quel straniero stupito avesse il tempo di rispondere.
 
@@ -4487,7 +4487,7 @@ Per quanto riguarda il suo poema, cambiò il titolo in “Vivono!” e lo inviò
 
 "The Laurels"
 
-# 20, Poplar Grove
+20, Poplar Grove
 
 “S.W.
 
@@ -4502,7 +4502,7 @@ Per dire che la mancanza di spazio e la pressione della materia…
 
 Proibitegli di utilizzare i vostri deliziosi versi.
 
-#Che quindi ritorna… Credimi ancora.
+Che quindi ritorna… Credimi ancora.
 
 Con sincera cordialità, Nathaniel Pickersgill.
 
@@ -4604,7 +4604,7 @@ Lo studente, in un momento o nell’altro, avrà provato forti emozioni. Avrà d
 
 Non riesco a passare da un sonno all’altro.
 
-#Vivere appieno per assaporare fino in fondo tutto ciò che la vita ha da offrire
+Vivere appieno per assaporare fino in fondo tutto ciò che la vita ha da offrire
 
 “La soddisfazione dell’aria comune”.
 
@@ -4616,13 +4616,13 @@ Prenderò prima lo stile semplice o quello colloquiale. Scegliete un soggetto ch
 
 Di Pimpernel è abbastanza facile scrivere; ha abitudini straordinarie, non è né disgustoso né comune. Sarebbe molto più difficile scrivere, ad esempio, di erba o prezzemolo.
 
-# Prima scrivi tutto ciò che ti viene in mente, così: —
+Prima scrivi tutto ciò che ti viene in mente, così: —
 
 “La graziosa piccola Pimpernel”
 
 “Posso imparare ad amarti davvero bene?”
 
-#Continua nello stesso stile di “Twinkle, twinkle…”
+Continua nello stesso stile di “Twinkle, twinkle…”
 
 "#Nascosto nell’ombra umida del muschio..."
 
@@ -4644,9 +4644,9 @@ Non vi annoierò con tutti i dettagli del processo, ma annoterò il mio risultat
 
 “Piccolo e insipido Pimpernel…”
 
-# Shepherd’s Holt e la maledizione di avvertimento
+Shepherd’s Holt e la maledizione di avvertimento
 
-# Nascondendosi nell’ombra fresca
+Nascondendosi nell’ombra fresca
 
 “Come un mondo fatto di seta…”
 
@@ -4660,11 +4660,11 @@ Nei suoi inizi, derivava dai capricci di alcuni gentiluomini e signore che aveva
 
 Ma quel primo stato di estasi sacra non può essere più ritrovato. Dobbiamo agire seguendo delle regole. Le regole relative a questo tipo di lavoro sono sei: —
 
-# Mettere il verbo nel posto sbagliato (alcuni lo omettono del tutto)
+Mettere il verbo nel posto sbagliato (alcuni lo omettono del tutto)
 
-# Utilizzare parole che possano essere sia verbi che nomi: i plurali sono molto utili.
+Utilizzare parole che possano essere sia verbi che nomi: i plurali sono molto utili.
 
-#Punteggiatura insufficiente
+Punteggiatura insufficiente
 
 Utilizzare in modo particolare frasi che hanno due o tre significati.
 
@@ -4748,7 +4748,7 @@ To see the yellow mustard grow!
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Lascia fuori i parenti
+Lascia fuori i parenti
 
 (6) Le frasi complete vanno poste in posizione avversativa.
 
@@ -4762,11 +4762,11 @@ Sono particolarmente scarsi. Chiunque potrebbe risultare oscuro in un modo così
 
 Inizio con “What Pimpernels”, il che potrebbe significare “Che cosa! Pimpernels?”, oppure semplicemente “What Pimpernels?”, o ancora “What Pimpernels!”; espressioni che rivelano sorpresa, una domanda o ammirazione sbalordita. Ma pensate davvero che rivelerò subito di cosa si tratta? Assolutamente no. C’è qualcosa nel carattere delle persone della nostra isola che ama il mistero. Qualcosa tipico del Nord. Mi lusingo di saperlo fare alla perfezione.
 
-#"Che delizia rara… una vera gratificazione"
+"Che delizia rara… una vera gratificazione"
 
-#Inverni sprecati sotto soli imperfetti
+Inverni sprecati sotto soli imperfetti
 
-# E i pimpernel sono ormai al tramonto…
+E i pimpernel sono ormai al tramonto…
 
 Una mano sconosciuta veste con noncuranza l’inverno…
 
@@ -4790,13 +4790,13 @@ Chi non ha mai visto crescere la senape?
 
 Il senape giallo non è da meno
 
-# Il dono divino della solitudine
+Il dono divino della solitudine
 
-#E fu pubblicato con una copertina magnifica.
+E fu pubblicato con una copertina magnifica.
 
 Per far tintinnare le chiavi nel mio dolore.
 
-#Ho sentito di nuovo il canto del cuculo
+Ho sentito di nuovo il canto del cuculo
 
 Vieni qui, Dolore! vieni qui, Dolore!
 
@@ -4807,13 +4807,13 @@ Vagare sotto la pioggia estiva.
 
 Lontano dal luogo degli uomini…
 
-#E ardendo come un enorme disonore…
+E ardendo come un enorme disonore…
 
-# Mi colpì con violenza in faccia
+Mi colpì con violenza in faccia
 
 Il simbolo della razza dei senape.
 
-# Vedere crescere il senape giallo
+Vedere crescere il senape giallo
 
 Oltre la città, sopra, sotto…
 
@@ -4935,7 +4935,7 @@ Ecco il signor Caliban; dopo essersi fermato per un momento, come se cercasse qu
 
 "#Molte gemme di luce pura e serena"
 
-# Le oscure e insondabili caverne degli abissi marini
+Le oscure e insondabili caverne degli abissi marini
 
 Molte fioriture nascono soltanto per sbocciare nell’oscurità.
 
@@ -5096,7 +5096,7 @@ With a sigh of relief he thrust those creative hands of his into his trouser poc
 
 “To show you how it is done, I cannot begin better than by a little example,” he said.
 
-He went to a neighbouring table, rummaged about in a pile of the Outlook and [[Vanity]] Fair, and produced a scrap of paper upon which there was a type-written poem. His hands trembled with pleasure, but he controlled himself well (for he is a strong, silent kind of man), and continued: —
+He went to a neighbouring table, rummaged about in a pile of the Outlook and [[concepts/vanity|Vanity]] Fair, and produced a scrap of paper upon which there was a type-written poem. His hands trembled with pleasure, but he controlled himself well (for he is a strong, silent kind of man), and continued: —
 
 “I will not weary you with the whole of this Work. I am sure you must already be familiar with it. In the Volunteer camp where I was recently staying, and where I slept under canvas like anybody else, the officers knew it by heart, and used to sing it to a tune of my own composition (for you must know that I write these little things to airs of my own). I will only read you the last verse, which, as is usual in my lyrics, contains the pith of the whole matter.”
 
@@ -5142,7 +5142,7 @@ He went to a corner of the room, opened a large, scented, velvet-bound book upon
 
 “Lest he forget the great ally
 
-In heaven yclept [[Hypocrisy|hypocrisy]],
+In heaven yclept [[concepts/hypocrisy|hypocrisy]],
 
 So help me Bawb! I’ll mark him yet —
 
@@ -5211,7 +5211,7 @@ Andò in un angolo della stanza, aprì un grande libro rilegato in velluto e pro
 
 “Perché non dimentichi il grande alleato”
 
-Nel cielo chiamato [[Hypocrisy|ipocrisia]],
+Nel cielo chiamato [[concepts/hypocrisy|ipocrisia]],
 
 Aiutami, Bawb! Lo segnerò ancora…
 
@@ -5379,7 +5379,7 @@ Mem.: Una preposizione può iniziare con una lettera maiuscola?
 
 Ascoltate e prestate attenzione ai miei Eletti: mi avete udito.
 
-#Gente mia
+Gente mia
 
 Dall’Oriente…
 
@@ -5387,25 +5387,25 @@ Con un’introduzione?
 
 Mem.: Alternativa: “con una borsa e una coperta”.
 
-#Io sono venuto e le nazioni hanno tremato: portavo il Segno
+Io sono venuto e le nazioni hanno tremato: portavo il Segno
 
-# Con un ■■■■■■■■■■■■
+Con un ■■■■■■■■■■■■
 
 ■■■■■■■
 
 Che gloria c’è in me?
 
-# La bestia
+La bestia
 
 Bene!
 
-# Cento libri… sì, addirittura centouno!
+Cento libri… sì, addirittura centouno!
 
 Di tutte le fatiche umane svolte sotto il sole…
 
-# Secondo “sì”? Lo zio dice “cancella”.
+Secondo “sì”? Lo zio dice “cancella”.
 
-# E mi avvolsi di terrore: Sì! Coprii ogni mio passo con la paura.
+E mi avvolsi di terrore: Sì! Coprii ogni mio passo con la paura.
 
 E le donne furono stupite dalle cose orribili che dissi.
 
@@ -5413,7 +5413,7 @@ Gli uomini della Razza Insulare… alcuni di loro si annoiavano terribilmente.
 
 Ma la maggior parte di loro mi pagò bene; e io lodai il Signore.
 
-# E quando… mentre lo spirito era in pieno vigore… ho riso sottovoce, ho bevuto avidamente e ho pronunciato giuramenti.
+E quando… mentre lo spirito era in pieno vigore… ho riso sottovoce, ho bevuto avidamente e ho pronunciato giuramenti.
 
 Dick dice che “Days of Yore” sia una cosa comune. Sangue? Orrore? Storie antiche? Qualcos’altro? Per il momento, consulta anche Emily al riguardo.
 
@@ -5421,13 +5421,13 @@ Come hanno fatto gli uomini prima di me, gli uomini dei tempi passati…
 
 (?)
 
-# Quando lo spirito era pieno… ma quando era raro e debole
+Quando lo spirito era pieno… ma quando era raro e debole
 
 Ho copiato i Salmi a caso. E guarda un po’: è proprio così che era!
 
 ■■■■■■■
 
-# Chiedi a ■■■■■■■
+Chiedi a ■■■■■■■
 
 Editore
 
@@ -5445,39 +5445,39 @@ Della Chiesa dei Ultimi Giorni, la setta di Re Salomone, che è davvero molto st
 
 (Intrappolato.)
 
-# Il destino degli Anglosassoni… gridatelo ad alta voce
+Il destino degli Anglosassoni… gridatelo ad alta voce
 
 , ci stai riprovando di nuovo?, torni tra la folla?
 
-# Ricorda… Devono essere consecutivi
+Ricorda… Devono essere consecutivi
 
 Le cose non sono più come una volta (comune).
 
-# Mai cancellare il passato
+Mai cancellare il passato
 
 Le cose non sono come dovrebbero essere. Le cose e i cambiamenti.
 
 Cose e, altre cose ancora.
 
-# Lascia che sia qualcun altro a occuparsene
+Lascia che sia qualcun altro a occuparsene
 
 E alcuni di voi stanno in posizione strategica… Sono gli uomini più fortunati.
 
-# Quando… la memoria è buona… – utilizzato in “Horeb”.
+Quando… la memoria è buona… – utilizzato in “Horeb”.
 
 Ma altri sono lontano, in un altro campo… e di tanto in tanto…
 
-#Quando tutto sarà finito, attraverseranno dall’altra parte…
+Quando tutto sarà finito, attraverseranno dall’altra parte…
 
 Qualcosa che stanca il corpo e ferisce l’orgoglio.
 
 Dovrà andarsene.
 
-# I ministri del gabinetto giocano a un gioco che tutti dovrebbero evitare
+I ministri del gabinetto giocano a un gioco che tutti dovrebbero evitare
 
-# Si gioca con piccoli pipistrelli e una pallina di celluloide
+Si gioca con piccoli pipistrelli e una pallina di celluloide
 
-# Una piccola rete sul tavolo… conosciuta con quel nome.
+Una piccola rete sul tavolo… conosciuta con quel nome.
 
 Ping e Pong.
 
@@ -5544,7 +5544,7 @@ Lady Gumm’s kindness of heart is well known. She lately presented a beggar wit
 
 * * *
 
-Lord Harmbury was lately discovered on the top of a ‘bus by an acquaintance who taxed him with the misadventure. “I would rather be caught on a ‘bus than in a trap,” said the witty peer. The mot has had some success in [[London]] Society.
+Lord Harmbury was lately discovered on the top of a ‘bus by an acquaintance who taxed him with the misadventure. “I would rather be caught on a ‘bus than in a trap,” said the witty peer. The mot has had some success in [[settings/london|London]] Society.
 
 * * *
 
@@ -5607,7 +5607,7 @@ La bontà d’animo di Lady Gumm è ben nota. Di recente ha dato un scellino a u
 
 * * *
 
-Di recente, Lord Harmbury fu scoperto su un’autobus da un conoscente che gli fece notare quell’incidente imbarazzante. “Preferirei essere sorpreso su un autobus piuttosto che in una trappola”, disse il brillante nobile. Questa battuta ha avuto un certo successo nella società di [[London|Londra]].
+Di recente, Lord Harmbury fu scoperto su un’autobus da un conoscente che gli fece notare quell’incidente imbarazzante. “Preferirei essere sorpreso su un autobus piuttosto che in una trappola”, disse il brillante nobile. Questa battuta ha avuto un certo successo nella società di [[settings/london|Londra]].
 
 * * *
 
@@ -5638,11 +5638,11 @@ THE TOPOGRAPHICAL ARTICLE is so familiar as to need but little introduction.... 
 
 Nevertheless, there are special occasions when it will be advisable to attempt it; as — in order to please an aged and wealthy relative; in order to strike up a chance acquaintance with a great Family; in order to advertise land that is for sale; in order to prevent the sale, or to lower the price (in these two last cases it is usual to demand a small fee from the parties interested); in order to vent a just anger; in order to repay a debt; in order to introduce a “special” advertisement for some manure or other; and so forth. Most men can recall some individual accident when a training in Topographical Writing would have been of value to them.
 
-There even arise, though very rarely, conditions under which this kind of writing is positively ordered. Thus, when the Editor of the Evening Mercury changed his politics for money on the 17th of September, 1899, all that part of his staff who were unable to drop their outworn shibboleths were put on to writing up various parts of [[London]] in the legal interval preceding their dismissal, and a very good job they made of it.
+There even arise, though very rarely, conditions under which this kind of writing is positively ordered. Thus, when the Editor of the Evening Mercury changed his politics for money on the 17th of September, 1899, all that part of his staff who were unable to drop their outworn shibboleths were put on to writing up various parts of [[settings/london|London]] in the legal interval preceding their dismissal, and a very good job they made of it.
 
 Never, perhaps, were the five rules governing the art more thoroughly adhered to. A land-owning family was introduced into each; living persons were treated with courtesy and affection; a tone of regret was used at the opening of each; each closed with a phrase of passionate patriotism; and each was carefully run parallel to the course of English History in general; and the proper praise and blame allotted to this name and that, according to its present standing with the more ignorant of the general public.
 
-It was in this series (afterwards issued in Book form under the title, [[London]]! My [[London]]) that the following article — which I can put forward as an excellent model — was the contribution of my friend, Mr. James Bayley. It may interest the young reader (if he be as yet unfamiliar with our great London names) to know that under the pseudonym of “Cringle” is concealed the family of Holt, whose present head is, of course, the Duke of Sheffield.
+It was in this series (afterwards issued in Book form under the title, [[settings/london|London]]! My [[settings/london|London]]) that the following article — which I can put forward as an excellent model — was the contribution of my friend, Mr. James Bayley. It may interest the young reader (if he be as yet unfamiliar with our great London names) to know that under the pseudonym of “Cringle” is concealed the family of Holt, whose present head is, of course, the Duke of Sheffield.
 
 DISAPPEARING LONDON: MANNING GREEN.
 
@@ -5711,11 +5711,11 @@ L’articolo di carattere topografico è così familiare che quasi non richiede 
 
 Tuttavia, ci sono occasioni particolari in cui può essere opportuno tentare di farlo: ad esempio, per compiacere un parente anziano e ricco; per stabilire un contatto casuale con una famiglia importante; per pubblicizzare terreni in vendita; per impedire la vendita o per ridurne il prezzo (nei due ultimi casi è consueto chiedere una piccola commissione alle parti interessate); per esprimere un giusto sdegno; per ripagare un debito; per inserire un annuncio “speciale” relativo a letame o altro ancora. La maggior parte delle persone può ricordare qualche occasione in cui una formazione nel campo della scrittura topografica sarebbe stata di grande utilità per loro.
 
-Si verificano anche, sebbene molto raramente, situazioni in cui questo tipo di scrittura viene effettuato in modo ordinato e sistematico. Così, quando il redattore del “Evening Mercury” cambiò le sue ideologie politiche per motivi finanziari il 17 settembre 1899, tutti i membri del suo staff che non riuscirono a abbandonare le loro vecchie convinzioni furono incaricati di redigere vari articoli su [[London|Londra]] nel lasso di tempo legale precedente al loro licenziamento, e riuscirono davvero a svolgere il compito in modo eccellente.
+Si verificano anche, sebbene molto raramente, situazioni in cui questo tipo di scrittura viene effettuato in modo ordinato e sistematico. Così, quando il redattore del “Evening Mercury” cambiò le sue ideologie politiche per motivi finanziari il 17 settembre 1899, tutti i membri del suo staff che non riuscirono a abbandonare le loro vecchie convinzioni furono incaricati di redigere vari articoli su [[settings/london|Londra]] nel lasso di tempo legale precedente al loro licenziamento, e riuscirono davvero a svolgere il compito in modo eccellente.
 
 Forse mai le cinque regole che governavano quest’arte furono rispettate con tanta attenzione. In ogni caso veniva introdotta una famiglia proprietaria terriera; alle persone viventi si rivolgeva con cortesia e affetto; l’inizio di ciascun testo era caratterizzato da un tono di rammarico; la conclusione era sempre segnata da frasi di appassionato patriottismo; inoltre, ogni testo seguiva attentamente lo sviluppo della storia inglese nel suo complesso; infine, venivano attribuite lodi o rimproveri appropriati a ciascun personaggio, in base alla sua posizione attuale agli occhi del grande pubblico meno informato.
 
-Fu in questa serie (in seguito pubblicata in forma di libro con il titolo [[London]]! My [[London]]) che l’articolo seguente – che posso considerare un ottimo esempio – fu scritto dal mio amico, il signor James Bayley. Potrebbe interessare i giovani lettori (se ancora non conoscono questi grandi nomi legati a Londra) sapere che dietro lo pseudonimo “Cringle” si nasconde la famiglia Holt, la cui attuale capo è, naturalmente, il Duca di Sheffield.
+Fu in questa serie (in seguito pubblicata in forma di libro con il titolo [[settings/london|London]]! My [[settings/london|London]]) che l’articolo seguente – che posso considerare un ottimo esempio – fu scritto dal mio amico, il signor James Bayley. Potrebbe interessare i giovani lettori (se ancora non conoscono questi grandi nomi legati a Londra) sapere che dietro lo pseudonimo “Cringle” si nasconde la famiglia Holt, la cui attuale capo è, naturalmente, il Duca di Sheffield.
 
 Londra che scompare: Manning Green.
 
@@ -5735,7 +5735,7 @@ Ancora oggi si possono scoprire reperti relativi al periodo in cui Manning Green
 
 Fino alla fine
 
-#"Al di là di queste voci c’è la pace."
+"Al di là di queste voci c’è la pace."
 
 Un’altra reliquia dell’antico villaggio di Manning Green è la “Court Baron”, che si tiene ancora oggi (quanti londinesi lo sanno!) una volta all’anno allo scopo di fornire un piccolo ma regolare reddito a un parente del Lord Cancelliere. Questa cerimonia probabilmente non aveva luogo prima del 1895, ma è comunque di estremo interesse per gli antiquari.
 
@@ -5818,7 +5818,7 @@ February 5th, 19 — . — Mrs. Burpham is certainly in dreadful trouble. She te
 
 February 6th, 19 — . — Dr. Minton dined here last night before going to set Jones’ leg, and I gave the veterinary surgeon supper in the old schoolroom. I am afraid Dr. Minton took too much wine, for he quarrelled with Mr. Ehrenbreitstein and Mr. Bischoffen about the danger of war with France. He said they had no right to speak, and got quite excited. Called again on Mrs. Burpham, and only appreciated fully to-day in what sad trouble she is. Algernon has telegraphed from Paris saying it will be all right. Meanwhile she has certainly quarrelled with Binston Park, and she even spoke bitterly against the Duke, so that means another family gone — for the Duke is very proud. I see in the Standard that our Ambassador has delivered an ultimatum, and that the French are doing all they can to shirk war. That is what Mr. Bischoffen and Reuben said they would do, but they must be taught a lesson. Newfoundlands have fallen, but Reuben says they must rise after the war. I do hope they will. The dear Bishop called. He says this war is a judgment on the French. Jane is much better, and can talk quite clearly, and Ali Baba is almost well. Also it has thawed now completely, and they can meet on Saturday as usual, so things are looking up all round.
 
-February 7th, 19 — . — Freddie goes to the Isle of Wight with the Lambtonshire Regiment, and Mrs. Burpham and the Bishop are both delighted, because it will bring him and Hepworth together. It would be such a solace to poor Mrs. Burpham if Freddie could see active service and get promotion; it would help to wipe out Algernon’s disgrace, for I fear there is now no doubt of it, though he says it is all right in his last letter, which is from Marseilles. Letters still come through from France, because our Ambassador said that if any tricks were played with them he would hold the French Government personally responsible, and so cowed them. The Bishop has gone to [[London]] with his family.
+February 7th, 19 — . — Freddie goes to the Isle of Wight with the Lambtonshire Regiment, and Mrs. Burpham and the Bishop are both delighted, because it will bring him and Hepworth together. It would be such a solace to poor Mrs. Burpham if Freddie could see active service and get promotion; it would help to wipe out Algernon’s disgrace, for I fear there is now no doubt of it, though he says it is all right in his last letter, which is from Marseilles. Letters still come through from France, because our Ambassador said that if any tricks were played with them he would hold the French Government personally responsible, and so cowed them. The Bishop has gone to [[settings/london|London]] with his family.
 
 February 8th, 19 — . — The Standard has a large map of the North of France, where the fighting will be. It is very interesting. Reuben and his friends have gone up to town again. I saw the Reserves marching through Molesworth to-day; they are going to garrison Portsmouth. The afternoon post did not come in. Reuben said he would telegraph, but I have not got any message. The 12.40 train was an hour late, so I suppose everything is upset by the war. Maria will have to come home by Bâle, and I do so dread the passage from Ostend for her; even the hour from Calais to Dover is more than she can bear. The vicar says that our Government will force the French to keep the Dover-Calais route open for civilians. He says it would be against the practice of civilised warfare to close it, and if that were done we should lay waste the whole country; but I fear he does not know much about the legal aspect of the thing: it is his heart, not his head that speaks. It is dreadful to think what I shall do with Mademoiselle when she comes home with Maria. One can’t blame her when one thinks that it is her own country that is going to be harried and her own brothers brought here as prisoners; but it will be very difficult all the same. The man who was killed at Bigley races was not a Frenchman after all: the crowd only thought he was because he had blacked his face like a negro. It seems that Sir Henry was very hard in court, and said that the ringleaders were lucky not to be indicted for manslaughter. It has frozen again, and it is very slippery in the drive. They are having fireworks or something at Portsmouth, to judge by the sound. Jones told Jane he thought there was a bonfire as well, because he could see a glare now and then in the sky from the window in his room. His leg is setting nicely.
 
@@ -5865,7 +5865,7 @@ Un corpo aristocratico saldamente radicato nel suolo nazionale non è solo la ga
 
 6 febbraio 19 — Ieri sera il dottor Minton ha cenato qui prima di andare a operare la gamba di Jones; ho offerto la cena al chirurgo veterinario nell’antica aula scolastica. Temo che il dottor Minton abbia bevuto troppo vino, perché si è scontrato con il signor Ehrenbreitstein e il signor Bischoffen riguardo ai pericoli di una guerra con la Francia. Ha detto che loro non avevano il diritto di parlare e si è molto arrabbiato. Ho visitato di nuovo la signora Burpham, e solo oggi ho compreso appieno in quale triste situazione si trovi. Algernon ha telegrafato da Parigi dicendo che tutto andrà bene. Ma intanto lei si è sicuramente scontrata con Binston Park; ha anche parlato con amarezza del Duca, il che significa un’altra famiglia distrutta. Il Duca, infatti, è molto orgoglioso. Leggo sul “Standard” che il nostro ambasciatore ha inviato un ultimatum e che i francesi stanno facendo di tutto per evitare la guerra. È esattamente ciò che il signor Bischoffen e Reuben avevano previsto, ma devono imparare una lezione. I Newfoundlands sono caduti. Ma Reuben dice che dovranno rialzarsi dopo la guerra. Spero davvero che sia così. Il caro vescovo è venuto a trovarmi; dice che questa guerra rappresenta un giudizio su i francesi. Jane sta molto meglio, ora può parlare chiaramente. E anche Ali Baba è quasi guarito. Inoltre, il terreno si è completamente sciolto. Potranno incontrarsi di nuovo sabato come al solito. Quindi le cose stanno migliorando in tutto.
 
-7 febbraio 19 — Freddie parte per l’Isola di Wight con il Reggimento di Lambtonshire; sia la signora Burpham che il vescovo ne sono molto felici, perché questo li farà riunire lui e Hepworth. Sarebbe un grande conforto per la povera signora Burpham se Freddie potesse prestare servizio attivo e ottenere promozioni; ciò aiuterebbe anche a cancellare la vergogna di Algernon, poiché temo ormai non ci siano più dubbi al riguardo, anche se lui sostiene che tutto vada bene nella sua ultima lettera, inviata da Marsiglia. Le lettere dalla Francia continuano ad arrivare, perché il nostro ambasciatore ha minacciato di ritenere il governo francese personalmente responsabile di eventuali trucchi nei loro confronti, il che li ha intimiditi. Il vescovo è andato a [[London|Londra]] con la sua famiglia.
+7 febbraio 19 — Freddie parte per l’Isola di Wight con il Reggimento di Lambtonshire; sia la signora Burpham che il vescovo ne sono molto felici, perché questo li farà riunire lui e Hepworth. Sarebbe un grande conforto per la povera signora Burpham se Freddie potesse prestare servizio attivo e ottenere promozioni; ciò aiuterebbe anche a cancellare la vergogna di Algernon, poiché temo ormai non ci siano più dubbi al riguardo, anche se lui sostiene che tutto vada bene nella sua ultima lettera, inviata da Marsiglia. Le lettere dalla Francia continuano ad arrivare, perché il nostro ambasciatore ha minacciato di ritenere il governo francese personalmente responsabile di eventuali trucchi nei loro confronti, il che li ha intimiditi. Il vescovo è andato a [[settings/london|Londra]] con la sua famiglia.
 
 8 febbraio 19 —. — Il “Standard” pubblica una grande mappa del Nord della Francia, dove si svolgeranno i combattimenti; è molto interessante. Reuben e i suoi amici sono tornati in città. Oggi ho visto le truppe di riserva marciare attraverso Molesworth; andranno a presidiare Portsmouth. La posta del pomeriggio non è arrivata. Reuben ha detto che avrebbe telegrafato, ma non ho ricevuto alcun messaggio. Il treno delle 12:40 è arrivato con un’ora di ritardo; suppongo che tutto sia sconvolto a causa della guerra. Maria dovrà tornare a casa passando per Basilea. Temo molto il tratto da Ostenda; anche l’ora di viaggio da Calais a Dover le sarà insopportabile. Il vicario dice che il nostro governo costringerà i francesi ad mantenere aperta la strada tra Dover e Calais per i civili. Afferma che chiuderla sarebbe contrario alle norme della guerra civile; se ciò dovesse accadere, distruggeremmo l’intera nazione. Ma temo che non conosca bene gli aspetti legali della questione: è il suo cuore, non la sua mente, a parlare. È terribile pensare a cosa farò quando Mademoiselle tornerà a casa con Maria. Non si può biasimarla, se si considera che è proprio il suo paese ad essere colpito e i suoi fratelli portati qui come prigionieri. Comunque sarà molto difficile. L’uomo ucciso durante la gara a Bigley non era francese: la folla pensava lo fosse solo perché si era tinto il viso di nero, come un negro. Sembra che Sir Henry sia stato molto severo in tribunale, dicendo che i responsabili avevano fortuna ad essere accusati soltanto di omicidio colposo. Ha ricominciato a nevicare; le strade sono molto scivolose. A Portsmouth stanno facendo fuochi d’artificio, a giudicare dal rumore. Jones ha detto a Jane che probabilmente c’è anche un falò, perché ogni tanto vedeva dei bagliori nel cielo dalla finestra della sua stanza. La sua gamba sta guarendo bene.
 
@@ -5953,7 +5953,7 @@ Un contenuto diffamatorio può essere eliminato. Un semplice errore di informazi
 
 Finalmente, quando avrete preso la vostra decisione, tornate indietro, sbloccate il sistema, pagate e congedatevi. Non pagate mai con assegno. Ricordate quanto sia breve il tempo a vostra disposizione. Ricordate che, se il vostro giornale non pubblicherà un resoconto davvero accurato quando verrà presentato, qualche altro giornale lo farà. Ricordate i “Times”, la “Chronicle” e il maggiore Esterhazy. Ricordate anche le dimissioni di Mr. Gladstone.
 
-# Ricorda il “Maine”.
+Ricorda il “Maine”.
 
 Alcuni esempi pratici ci aiuteranno a comprendere queste regole astratte.
 
@@ -6069,7 +6069,7 @@ Quando il dottor Caliban ed io eravamo soli, aprì l’involucro sigillato e les
 
 “La seguente lettera è stata accettata dal ‘Spectator’ e verrà pubblicata la prossima settimana.” A questo biglietto era attaccato un foglio di carta da nota piuttosto sporco, su cui era scritta la seguente lettera:
 
-# Castello di Balcarry
+Castello di Balcarry
 
 Contea di Mayo.
 
@@ -6077,7 +6077,7 @@ Contea di Mayo.
 
 Al Redattore del “Spectator”.
 
-# Caro Signore,
+Caro Signore,
 
 Tra le vostre storie umoristiche irlandesi, forse la seguente meriterà di essere inclusa. Un caro zio mio, fratellastro di mio padre e marito della talentuosa E. J. S., fu vescovo di Killibardine: un prelato di grande distinzione e notevole senso dell’umorismo.
 
@@ -6286,9 +6286,9 @@ Fuori furono stampati immediatamente. Da allora non hanno mai più subito alcuna
 
 I.
 
-# 497, Jubilee Row
+497, Jubilee Row
 
-# B’ham
+B’ham
 
 19.7.’99.
 
@@ -6312,7 +6312,7 @@ Sicilia.
 
 Ecco, le feste dell’Assunzione della T.S.V.
 
-# Vecchio Stile
+Vecchio Stile
 
 L’anno del N.S.J.C. MCM.
 
@@ -6322,9 +6322,9 @@ Monsieur Mon Frère. Vi inviamo i nostri ringraziamenti per i vostri auguri e vi
 
 Si prega di accettare, Signor Mio Fratello, l’espressione della nostra più distinta considerazione reale.
 
-# Orléans
+Orléans
 
-# Pour le Roy
+Pour le Roy
 
 Magro.
 
@@ -6339,9 +6339,9 @@ Uffici del Secolo
 
 Parigi
 
-# Capoluogo di
+Capoluogo di
 
-# Dipartimento della Senna
+Dipartimento della Senna
 
 Francia.
 
@@ -6349,7 +6349,7 @@ Francia.
 
 Mio caro Kruger. È evidentemente necessario che parli con te in modo chiaro e diretto. Non posso dilungarmi in lunghe spiegazioni, ma se leggerai i libri che ti invio – “L’Origine delle specie” di Darwin, la sociologia di Spencer, l’“Evoluzione dell’idea di Dio” di Grant Allen, ecc. – capirai perché non posso sostenerti in questa tua proposta. Quanto alla tua offerta spregevole, la rifiuto con disprezzo. Solo il mio nome dovrebbe bastare a proteggermi da simili insulti. Voglio che tu sappia che il mio articolo rappresenta l’opinione francese in Inghilterra e attualmente appartiene a una società internazionale; io ne sono l’editore insostituibile.
 
-# Con riserva tua
+Con riserva tua
 
 Yves Guyot.
 
@@ -6359,9 +6359,9 @@ IV.
 
 Il Capellano
 
-# Barford College
+Barford College
 
-# Vecchia Festa di Santa Winifreda
+Vecchia Festa di Santa Winifreda
 
 1900.
 
@@ -6398,7 +6398,7 @@ The House of Commons,
 
 April 10th, 1899.
 
-My dear Sir. — You put me in a very difficult position, for, on the one hand, I cannot, and would not, work against the interests of my country, and, on the other hand, I am convinced that Mr. Chamberlain is determined to plunge that country into the war spoken of by John in Revelations ix. Anything I can do for peace I will, but for some reason or other the Times will not insert my letters, though I write to them twice and sometimes thrice in one day. Sir Alfred Milner was once very rude to me. He is a weak man morally, mainly intent upon “getting on;” he has agreed since his youth with every single person of influence (except myself) whom he happened to come across, and is universally liked. I fear that no one’s private influence can do much. The [[London]] Press has been bought in a lump by two financiers. Perhaps a little waiting is the best thing. There is sure to be a reaction, and after all, Mr. Chamberlain is a man of a very low order. His mind, I take it, is not unlike his face. He thinks very little and very clearly ... I have really nothing more to say.
+My dear Sir. — You put me in a very difficult position, for, on the one hand, I cannot, and would not, work against the interests of my country, and, on the other hand, I am convinced that Mr. Chamberlain is determined to plunge that country into the war spoken of by John in Revelations ix. Anything I can do for peace I will, but for some reason or other the Times will not insert my letters, though I write to them twice and sometimes thrice in one day. Sir Alfred Milner was once very rude to me. He is a weak man morally, mainly intent upon “getting on;” he has agreed since his youth with every single person of influence (except myself) whom he happened to come across, and is universally liked. I fear that no one’s private influence can do much. The [[settings/london|London]] Press has been bought in a lump by two financiers. Perhaps a little waiting is the best thing. There is sure to be a reaction, and after all, Mr. Chamberlain is a man of a very low order. His mind, I take it, is not unlike his face. He thinks very little and very clearly ... I have really nothing more to say.
 
 Always your sincere friend,
 
@@ -6419,7 +6419,7 @@ Credetemi, caro signor Kruger: con la massima e più sincera solidarietà per ev
 
 Il tuo affezionato amico d’antica data,
 
-# Joshia Lambkin, M.A.
+Joshia Lambkin, M.A.
 
 Compagno e Cappellano.
 
@@ -6437,7 +6437,7 @@ VI.
 
 Al reverendo Ebenezer Biggs, Città del Capo.
 
-# La Camera dei Comuni
+La Camera dei Comuni
 
 10 aprile 1899.
 
@@ -6603,7 +6603,7 @@ William Shakespeare, senza alcun dubbio e al di là di ogni rimpianto, è – o 
 
 “Venti forti scuotono i teneri boccioli di maggio.”
 
-#E quell’altro…
+E quell’altro…
 
 “O si china con lo strumento per rimuovere.”
 
@@ -6623,23 +6623,23 @@ Da dove ti è venuta quell’espressione sorpresa?
 
 Questo è lo Shakespeare nella sua interezza. Ma anche noi, che non siamo del tutto sicuri dei difetti di Shakespeare, possiamo rispondergli con brani come questi: —
 
-# Hen. — Pertanto, tu, rigido e ostinato Northumberland…
+Hen. — Pertanto, tu, rigido e ostinato Northumberland…
 
-# Ritirati a Chester… e mio cugino qui…
+Ritirati a Chester… e mio cugino qui…
 
 Il nobile Bedford: diretto verso Gloucester
 
 E concediamo il nostro decreto reale e la nostra volontà.
 
-# In questa lotta e conflitto per il dominio…
+In questa lotta e conflitto per il dominio…
 
-#"Nessuna perdita può essere accettata. Di fronte a questa costrizione..."
+"Nessuna perdita può essere accettata. Di fronte a questa costrizione..."
 
-# Giuro la mia spada, la mia persona e il mio onore
+Giuro la mia spada, la mia persona e il mio onore
 
 Sul Grande Sigillo d’Inghilterra: addio dunque.
 
-#Pronto all’azione: nulla fu mai compiuto
+Pronto all’azione: nulla fu mai compiuto
 
 A meno che, in qualche momento, non si iniziasse tutto da capo.
 
@@ -6647,7 +6647,7 @@ Anche questo è Shakespeare nel suo stato di riposo, ma uno Shakespeare migliore
 
 E eccolo qui, nei sentieri secondari, un prato di Poesia. L’ho trovato nascosto in uno dei suoi ultimi drammi: i fiori del suo declino.
 
-#"Non temere più il calore del sole..."
+"Non temere più il calore del sole..."
 
 Né le furie dell’inverno più violento…
 
@@ -6669,11 +6669,11 @@ Ecco quindi William Shakespeare con queste ultime parole. Un uomo sempre impegna
 
 Tali avvisi possono essere inviati con un preavviso ragionevole a qualsiasi poeta, preferibilmente giovane o moderno, secondo le condizioni abituali. Lo stile è disponibile in sette dimensioni diverse; questo è il modello numero 3. Si prega di specificare il numero desiderato al momento dell’ordine. Tutti gli indirizzi devono essere completi con l’intestazione.
 
-# Mrs. Margaret Railston
+Mrs. Margaret Railston
 
 C/o Charlie Bernberg,
 
-# 48, Upper Gannimore Gardens
+48, Upper Gannimore Gardens
 
 Shepherd’s Bush, Ovest.
 
@@ -7076,7 +7076,7 @@ Avvisi del Tribunale di Polizia
 
 5/-
 
-# Calunnie garantite
+Calunnie garantite
 
 25/-
 
@@ -7086,7 +7086,7 @@ Avvisi del Tribunale di Polizia
 
 3/-
 
-# Non garantito
+Non garantito
 
 5/-
 
@@ -7096,7 +7096,7 @@ Avvisi del Tribunale di Polizia
 
 2/-
 
-#Rinvio del medesimo
+Rinvio del medesimo
 
 14/-
 
@@ -7116,7 +7116,7 @@ Leader presuntuosi
 
 25/-!
 
-# Leader intelligenti
+Leader intelligenti
 
 9/-
 
@@ -7168,7 +7168,7 @@ Lavoro storico
 
 6d.?
 
-# praticamente impossibile
+praticamente impossibile
 
 Nessuna richiesta.
 
@@ -7192,7 +7192,7 @@ Attacchi al Cristianesimo
 
 5/- (A
 
-# Un duro colpo per questo
+Un duro colpo per questo
 
 Un certo tipo di materia.
 
@@ -7637,21 +7637,21 @@ Devo ammettere che il passaggio relativo al guardiano del corpo dei Boy Scouts �
 
 “E chi potrebbe essere più adatto di loro?”
 
-# A chi fu la saggezza a spingerli alla tradizione?
+A chi fu la saggezza a spingerli alla tradizione?
 
 Un anziano leader e una causa in declino
 
-# Perché
+Perché
 
 “Perché ritenevano che valesse la pena.”
 
 Il signor Daniel Witton non scrisse quella parola “perché” due volte nel suo manoscritto originale. La scrisse due volte per compiacere il musicista (la cui ignoranza della lingua inglese rappresentava un grande ostacolo in tutto ciò che faceva), e, almeno secondo me, commise un errore facendolo.
 
-#Tutto quel passaggio in cui il grande politico…
+Tutto quel passaggio in cui il grande politico…
 
 “… togliendosi il cappello”
 
-#Entra nel palazzo di Pretoria, dove…
+Entra nel palazzo di Pretoria, dove…
 
 "... in terribili condizioni, da solo..."
 
@@ -7661,7 +7661,7 @@ Chi protegge il nostro regno, estendendo i suoi confini ristretti?
 
 E per raggiungere il suo scopo,
 
-#Pronto a spendere senza esitazione
+Pronto a spendere senza esitazione
 
 La inimmaginabile somma imperiale di duecento trecento volte cinque
 
@@ -7679,7 +7679,7 @@ Un esempio ancora migliore si trova nel magnifico coro “Pretoria”, che inizi
 
 “Heil! Heil! Hoch! Heil! Du übermenschlich, wohl-geborener Graf!”
 
-# von Chamberlain
+von Chamberlain
 
 Mentre è sottoterra…
 
@@ -7696,9 +7696,9 @@ E naturalmente, la strofa alla fine…
 
 Leggere libri selezionati
 
-#Includendo le ingegnose opere di Conan Doyle
+Includendo le ingegnose opere di Conan Doyle
 
-#E la popolare quota-
+E la popolare quota-
 
 Titolo: Versi, tra l’altro…
 
@@ -7708,7 +7708,7 @@ E l’opera di Herr Werther
 
 Intitolato “Inghilterra non dovrà sfuggire alle sue responsabilità”.
 
-# “Dalla Capo Verde al Cairo, passando per Kairouan e Cadice”
+“Dalla Capo Verde al Cairo, passando per Kairouan e Cadice”
 
 “E Burke… e ‘Chi è chi’”
 

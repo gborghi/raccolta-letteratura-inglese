@@ -14,4 +14,10 @@ Aristocratic East End social reformer turned eugenicist mother, whose euphemisti
 
 <div class="concept-works" data-slug="characters/lady-hypatia-hagg"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/hifts-(chesterton)|HIFTS (Chesterton)]]
+
+</div>
+
 #graph/character

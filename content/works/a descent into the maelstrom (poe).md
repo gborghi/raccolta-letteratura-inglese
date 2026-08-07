@@ -27,7 +27,7 @@ tags:
   - setting/a_ship
 ---
 
-*by Poe*  ·  **Cluster:** [[Night Journey Vision · Katabasis Descent · Quest Hero]]
+*by Poe*  ·  **Cluster:** [[clusters/night-journey-vision-·-katabasis-descent-·-quest-hero|Night Journey Vision · Katabasis Descent · Quest Hero]]
 
 > [!abstract] 
 > A frame-narrative sea tale in which an old fisherman recounts surviving the Norwegian whirlpool by rational observation; explores terror, the sublime, and reason against the destructive power of nature.
@@ -51,12 +51,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Katabasis Descent]], [[Night Journey Vision]], [[Book of Nature]]
-**Archetypes:** [[Hero]]
-**Motifs:** [[Sea]], [[Storm]], [[Water]], [[Moon]], [[Death]]
-**Themes & Concepts:** [[Terror and Horror]], [[Sublime]], [[Ratiocination Detection]], [[Providence]], [[Fate and Free Will]], [[Mortality]]
-**Forms & Genres:** [[Short Story]]
-**Settings:** [[Sea (2)]], [[Ship]]
+**Topoi:** [[topoi/katabasis-descent|Katabasis Descent]], [[topoi/night-journey-vision|Night Journey Vision]], [[topoi/book-of-nature|Book of Nature]]
+**Archetypes:** [[archetypes/hero|Hero]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/storm|Storm]], [[motifs/water|Water]], [[motifs/moon|Moon]], [[motifs/death|Death]]
+**Themes & Concepts:** [[concepts/terror-and-horror|Terror and Horror]], [[concepts/sublime|Sublime]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/providence|Providence]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/mortality|Mortality]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
+**Settings:** [[settings/sea-(2)|Sea (2)]], [[motifs/ship|Ship]]
 
 ## Testo integrale / Full text
 

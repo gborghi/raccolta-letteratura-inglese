@@ -28,7 +28,7 @@ tags:
   - topos/open_road_homecoming
   - topos/ubi_sunt
 ---
-*by Belloc*  ·  **Cluster:** [[Travel Writing · Pilgrimage · Landscape]]
+*by Belloc*  ·  **Cluster:** [[clusters/travel-writing-·-pilgrimage-·-landscape|Travel Writing · Pilgrimage · Landscape]]
 
 > [!abstract] 
 > Subtitled 'A Farrago', a mixed prose-and-verse account of a four-day walk across Sussex by four companions - Myself, Grizzlebeard, the Sailor and the Poet - who are really facets of Belloc himself. An elegiac celebration of the beloved home county, friendship and wine, shadowed by the knowledge that all beloved things must pass.
@@ -92,9 +92,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Poem]], [[Nonfiction]]
-**Themes & Concepts:** [[Nature]], [[Nostalgia]], [[Friendship]], [[Comradeship]], [[Mortality]], [[Transience]]
-**Motifs:** [[Road]], [[Journey]], [[Inn Tavern]], [[Wine and Drink]], [[Home]]
-**Settings:** [[Rural England]]
-**Archetypes:** [[Pilgrim]], [[Common Man (2)]]
-**Topoi:** [[Open Road Homecoming]], [[Ubi Sunt]]
+**Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[forms/essay|Essay]], [[forms/poem|Poem]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/nature|Nature]], [[concepts/nostalgia|Nostalgia]], [[concepts/friendship|Friendship]], [[concepts/comradeship|Comradeship]], [[concepts/mortality|Mortality]], [[concepts/transience|Transience]]
+**Motifs:** [[motifs/road|Road]], [[motifs/journey|Journey]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/home|Home]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]], [[archetypes/common-man-(2)|Common Man (2)]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/ubi-sunt|Ubi Sunt]]

@@ -14,113 +14,113 @@ tags:
 <span class="atom-split" data-atom="carol" data-title="carol" data-chapter="" data-kind="intro"></span>
 
 
-A Christmas [[carol|Carol]]  
+A Christmas Carol  
 
-The [[Christ]]-[[Child|child]] lay on Mary's lap,  
+The [[characters/christ|Christ]]-[[archetypes/child|child]] lay on Mary's lap,  
 His hair was like a light.  
 (O weary, weary were the world,  
 But here is all aright.)  
 
-The [[Christ]]-[[Child|child]] lay on Mary's breast,  
+The [[characters/christ|Christ]]-[[archetypes/child|child]] lay on Mary's breast,  
 His hair was like a star.  
 (O stern and cunning are the kings,  
 But here the true hearts are.)  
 
-The [[Christ]]-[[Child|child]] lay on Mary's heart,  
-His hair was like a [[Fire|fire]].  
+The [[characters/christ|Christ]]-[[archetypes/child|child]] lay on Mary's heart,  
+His hair was like a [[motifs/fire|fire]].  
 (O weary, weary is the world,  
-But here the world's [[Desire|desire]].)  
+But here the world's [[motifs/desire|desire]].)  
 
-The [[Christ]]-[[Child|child]] stood at Mary's knee,  
-His hair was like a [[Crown|crown]].  
-And all the [[Flowers|flowers]] looked up at Him,  
-And all the [[Stars|stars]] looked down.  
+The [[characters/christ|Christ]]-[[archetypes/child|child]] stood at Mary's knee,  
+His hair was like a [[motifs/crown|crown]].  
+And all the [[motifs/flowers|flowers]] looked up at Him,  
+And all the [[motifs/stars|stars]] looked down.  
 
 (From "The Wild Knight", first published 1900.  
-Also published in "The collected [[Poems]] of G.K.Chesterton")
+Also published in "The collected [[works/poems-(chesterton)|Poems]] of G.K.Chesterton")
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Una [[carol|Canzone]] di Natale  
+Una Canzone di Natale  
 
-Il [[Christ|Cristo]]-[[Child|bambino]] giaceva in grembo a Maria,  
+Il [[characters/christ|Cristo]]-[[archetypes/child|bambino]] giaceva in grembo a Maria,  
 i suoi capelli erano come luce.  
 (Oh stanco, stanco era il mondo,  
 ma qui tutto è come dev'essere.)  
 
-Il [[Christ|Cristo]]-[[Child|bambino]] giaceva sul seno di Maria,  
+Il [[characters/christ|Cristo]]-[[archetypes/child|bambino]] giaceva sul seno di Maria,  
 i suoi capelli erano come una stella.  
 (Oh severi e scaltri sono i re,  
 ma qui stanno i cuori veri.)  
 
-Il [[Christ|Cristo]]-[[Child|bambino]] giaceva sul cuore di Maria,  
-i suoi capelli erano come [[Fire|fuoco]].  
+Il [[characters/christ|Cristo]]-[[archetypes/child|bambino]] giaceva sul cuore di Maria,  
+i suoi capelli erano come [[motifs/fire|fuoco]].  
 (Oh stanco, stanco è il mondo,  
-ma qui è il [[Desire|desiderio]] del mondo.)  
+ma qui è il [[motifs/desire|desiderio]] del mondo.)  
 
-Il [[Christ|Cristo]]-[[Child|bambino]] stava al ginocchio di Maria,  
-i suoi capelli erano come una [[Crown|corona]].  
-E tutti i [[Flowers|fiori]] guardavano in alto verso di Lui,  
-e tutte le [[Stars|stelle]] guardavano in basso.  
+Il [[characters/christ|Cristo]]-[[archetypes/child|bambino]] stava al ginocchio di Maria,  
+i suoi capelli erano come una [[motifs/crown|corona]].  
+E tutti i [[motifs/flowers|fiori]] guardavano in alto verso di Lui,  
+e tutte le [[motifs/stars|stelle]] guardavano in basso.  
 
 (Da "The Wild Knight", pubblicata per la prima volta nel 1900.  
-Pubblicata anche in "The collected [[Poems]] of G.K.Chesterton")
+Pubblicata anche in "The collected [[works/poems-(chesterton)|Poems]] of G.K.Chesterton")
 
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="carol (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/desire,motif/fire,motif/flowers,motif/stars,character/christ"></span>
 
 
-A Christmas [[carol|Carol]]  
+A Christmas Carol  
 
-The [[Christ]]-[[Child|child]] lay on Mary's lap,  
+The [[characters/christ|Christ]]-[[archetypes/child|child]] lay on Mary's lap,  
 His hair was like a light.  
 (O weary, weary were the world,  
 But here is all aright.)  
 
-The [[Christ]]-[[Child|child]] lay on Mary's breast,  
+The [[characters/christ|Christ]]-[[archetypes/child|child]] lay on Mary's breast,  
 His hair was like a star.  
 (O stern and cunning are the kings,  
 But here the true hearts are.)  
 
-The [[Christ]]-[[Child|child]] lay on Mary's heart,  
-His hair was like a [[Fire|fire]].  
+The [[characters/christ|Christ]]-[[archetypes/child|child]] lay on Mary's heart,  
+His hair was like a [[motifs/fire|fire]].  
 (O weary, weary is the world,  
-But here the world's [[Desire|desire]].)  
+But here the world's [[motifs/desire|desire]].)  
 
-The [[Christ]]-[[Child|child]] stood at Mary's knee,  
-His hair was like a [[Crown|crown]].  
-And all the [[Flowers|flowers]] looked up at Him,  
-And all the [[Stars|stars]] looked down.  
+The [[characters/christ|Christ]]-[[archetypes/child|child]] stood at Mary's knee,  
+His hair was like a [[motifs/crown|crown]].  
+And all the [[motifs/flowers|flowers]] looked up at Him,  
+And all the [[motifs/stars|stars]] looked down.  
 
 (From "The Wild Knight", first published 1900.  
-Also published in "The collected [[Poems]] of G.K.Chesterton")
+Also published in "The collected [[works/poems-(chesterton)|Poems]] of G.K.Chesterton")
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Una [[carol|Canzone]] di Natale  
+Una Canzone di Natale  
 
-Il [[Christ|Cristo]]-[[Child|bambino]] giaceva in grembo a Maria,  
+Il [[characters/christ|Cristo]]-[[archetypes/child|bambino]] giaceva in grembo a Maria,  
 i suoi capelli erano come luce.  
 (Oh stanco, stanco era il mondo,  
 ma qui tutto è come dev'essere.)  
 
-Il [[Christ|Cristo]]-[[Child|bambino]] giaceva sul seno di Maria,  
+Il [[characters/christ|Cristo]]-[[archetypes/child|bambino]] giaceva sul seno di Maria,  
 i suoi capelli erano come una stella.  
 (Oh severi e scaltri sono i re,  
 ma qui stanno i cuori veri.)  
 
-Il [[Christ|Cristo]]-[[Child|bambino]] giaceva sul cuore di Maria,  
-i suoi capelli erano come [[Fire|fuoco]].  
+Il [[characters/christ|Cristo]]-[[archetypes/child|bambino]] giaceva sul cuore di Maria,  
+i suoi capelli erano come [[motifs/fire|fuoco]].  
 (Oh stanco, stanco è il mondo,  
-ma qui è il [[Desire|desiderio]] del mondo.)  
+ma qui è il [[motifs/desire|desiderio]] del mondo.)  
 
-Il [[Christ|Cristo]]-[[Child|bambino]] stava al ginocchio di Maria,  
-i suoi capelli erano come una [[Crown|corona]].  
-E tutti i [[Flowers|fiori]] guardavano in alto verso di Lui,  
-e tutte le [[Stars|stelle]] guardavano in basso.  
+Il [[characters/christ|Cristo]]-[[archetypes/child|bambino]] stava al ginocchio di Maria,  
+i suoi capelli erano come una [[motifs/crown|corona]].  
+E tutti i [[motifs/flowers|fiori]] guardavano in alto verso di Lui,  
+e tutte le [[motifs/stars|stelle]] guardavano in basso.  
 
 (Da "The Wild Knight", pubblicata per la prima volta nel 1900.  
-Pubblicata anche in "The collected [[Poems]] of G.K.Chesterton")
+Pubblicata anche in "The collected [[works/poems-(chesterton)|Poems]] of G.K.Chesterton")

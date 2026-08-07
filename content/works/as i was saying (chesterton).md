@@ -45,7 +45,7 @@ tags:
   - histref/darwinism
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A collection of witty, paradoxical essays on modern life (Puritanism, Voltaire, Darwinism, education, Totalitarianism, change and impermanence), satirizing fashionable progress and defending tradition, common sense and the permanent things.
@@ -98,17 +98,17 @@ tags:
 
 ## Connections
 
-**Settings:** [[London]], [[Italy]], [[Europe]]
+**Settings:** [[settings/london|London]], [[settings/italy|Italy]], [[settings/europe|Europe]]
 
-**Motifs:** [[Machine]], [[Clock]]
+**Motifs:** [[motifs/machine|Machine]], [[motifs/clock|Clock]]
 
-**Topoi:** [[Memento Mori]], [[Sic Transit Gloria Mundi]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
 
-**Characters:** [[Lady Macbeth]]
+**Characters:** [[characters/lady-macbeth|Lady Macbeth]]
 
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Paradox]], [[Education]], [[Nostalgia]], [[Transience]], [[Democracy]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Distributism]], [[Power and Corruption]], [[Mortality]], [[Money and Avarice]], [[Labor and Work]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Literary Criticism]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Puritanism]], [[Voltaire]], [[Frederick the Great]], [[Samuel Taylor Coleridge]], [[George Meredith]], [[William Morris]], [[Darwinism]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/paradox|Paradox]], [[concepts/education|Education]], [[concepts/nostalgia|Nostalgia]], [[concepts/transience|Transience]], [[concepts/democracy|Democracy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/class-conflict|Class Conflict]], [[concepts/distributism|Distributism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/mortality|Mortality]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/labor-and-work|Labor and Work]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/puritanism|Puritanism]], [[historical-references/voltaire|Voltaire]], [[historical-references/frederick-the-great|Frederick the Great]], [[historical-references/samuel-taylor-coleridge|Samuel Taylor Coleridge]], [[historical-references/george-meredith|George Meredith]], [[historical-references/william-morris|William Morris]], [[historical-references/darwinism|Darwinism]]
 
 ## Testo integrale / Full text
 

@@ -12,4 +12,12 @@ tags:
 
 <div class="concept-works" data-slug="characters/michael"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lepanto-(chesterton)|lepanto (Chesterton)]]
+- [[works/to-st-michael-(chesterton)|to st michael (Chesterton)]]
+- [[works/vera,-or-the-nihilists-(wilde)|Vera, or The Nihilists (Wilde)]]
+
+</div>
+
 #graph/character

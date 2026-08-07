@@ -28,7 +28,7 @@ tags:
   - archetype/hero
   - topos/sleeper_awakes
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Science Fiction · Discovery · Reason vs the Supernatural]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/science-fiction-·-discovery-·-reason-vs-the-supernatural|Science Fiction · Discovery · Reason vs the Supernatural]]
 
 > [!abstract] 
 > Professor Challenger summons his old comrades from The Lost World to his Sussex home, convinced that Earth is passing through a poisonous belt of ether that will exterminate humanity. Sealed in an oxygen-filled room, the party watches what they believe to be the annihilation of civilization, only to wake into an eerily stilled but ultimately recovering world.
@@ -44,10 +44,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Science Fiction]], [[Novel]]
-**Themes & Concepts:** [[Apocalypse]], [[Fate and Free Will]], [[Mortality]], [[Reason and Rationalism]], [[Order vs Chaos]]
-**Motifs:** [[Death]], [[Light and Dark]], [[Sleep]], [[Time]]
-**Settings:** [[London]], [[Rural England]]
-**Characters:** [[Professor Challenger]], [[Professor Summerlee]], [[Lord John Roxton]], [[Edward Malone]]
-**Archetypes:** [[Prophet]], [[Hero]]
-**Topoi:** [[Sleeper Awakes]]
+**Forms & Genres:** [[forms/science-fiction|Science Fiction]], [[forms/novel|Novel]]
+**Themes & Concepts:** [[concepts/apocalypse|Apocalypse]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/mortality|Mortality]], [[concepts/reason-and-rationalism|Reason and Rationalism]], [[concepts/order-vs-chaos|Order vs Chaos]]
+**Motifs:** [[motifs/death|Death]], [[motifs/light-and-dark|Light and Dark]], [[motifs/sleep|Sleep]], [[motifs/time|Time]]
+**Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
+**Characters:** [[characters/professor-challenger|Professor Challenger]], [[characters/professor-summerlee|Professor Summerlee]], [[characters/lord-john-roxton|Lord John Roxton]], [[characters/edward-malone|Edward Malone]]
+**Archetypes:** [[archetypes/prophet|Prophet]], [[archetypes/hero|Hero]]
+**Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]]

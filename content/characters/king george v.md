@@ -14,4 +14,10 @@ The reigning British monarch whose recent illness and recovery Chesterton uses t
 
 <div class="concept-works" data-slug="characters/king-george-v"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/gkc-come-to-think-(chesterton)|GKC Come to Think (Chesterton)]]
+
+</div>
+
 #graph/character

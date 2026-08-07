@@ -39,7 +39,7 @@ tags:
   - character/christ
 ---
 
-*by Wilde*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
+*by Wilde*  ·  **Cluster:** [[clusters/greek-mythology-·-lust-sexual-desire-·-desire|Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 
 > Wilde's decadent narrative poem in which a student addresses an immortal Egyptian Sphinx, conjuring her ancient lovers and exotic gods amid lust, decay and ruin, before recoiling toward his crucifix at the close.
@@ -50,14 +50,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Immortality Through Verse]], [[Memento Mori]], [[Sic Transit Gloria Mundi]], [[Ubi Sunt]]
-**Archetypes:** [[Femme Fatale]], [[Temptress]], [[Monster]]
-**Motifs:** [[Desire]], [[Night]], [[Moon]], [[Cross]], [[Ruins the Abbey]], [[Serpent Snake]], [[Supernatural]], [[Animals]]
-**Themes & Concepts:** [[Lust Sexual Desire]], [[Temptation]], [[Sin and the Fall]], [[Faith and Doubt]], [[Transience]], [[Grotesque]], [[History]]
-**Forms & Genres:** [[Narrative Poem]], [[Dramatic Monologue]]
-**Historical References:** [[Greek Mythology]], [[Classical Antiquity]], [[Bible]]
-**Settings:** [[Egypt]], [[Orient]]
-**Characters:** [[Christ]]
+**Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]], [[topoi/memento-mori|Memento Mori]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/ubi-sunt|Ubi Sunt]]
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/temptress|Temptress]], [[archetypes/monster|Monster]]
+**Motifs:** [[motifs/desire|Desire]], [[motifs/night|Night]], [[motifs/moon|Moon]], [[motifs/cross|Cross]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/serpent-snake|Serpent Snake]], [[motifs/supernatural|Supernatural]], [[motifs/animals|Animals]]
+**Themes & Concepts:** [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/temptation|Temptation]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/transience|Transience]], [[concepts/grotesque|Grotesque]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/narrative-poem|Narrative Poem]], [[forms/dramatic-monologue|Dramatic Monologue]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/bible|Bible]]
+**Settings:** [[settings/egypt|Egypt]], [[settings/orient|Orient]]
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

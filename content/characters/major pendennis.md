@@ -14,4 +14,10 @@ Thackeray's worldly old uncle from Pendennis, whom Chesterton uses at length to 
 
 <div class="concept-works" data-slug="characters/major-pendennis"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/victorian-age-(chesterton)|Victorian Age (Chesterton)]]
+
+</div>
+
 #graph/character

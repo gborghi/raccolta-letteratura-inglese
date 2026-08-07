@@ -15,17 +15,17 @@ tags:
   - motif/fog_and_smoke
 ---
 
-*by Eliot*  ·  **Cluster:** [[Alienation · Outsider · Exile]]
+*by Eliot*  ·  **Cluster:** [[clusters/alienation-·-outsider-·-exile|Alienation · Outsider · Exile]]
 
 > [!abstract] 
 > Eliot's first collection (here printing 'The Love Song of J. Alfred Prufrock'): modern urban dramatic monologue of paralysis, social timidity, alienation and the failure to act.
 
 ## Connections
 
-**Motifs:** [[Fog and Smoke]]
-**Themes & Concepts:** [[Alienation]], [[Disillusionment]]
-**Forms & Genres:** [[Dramatic Monologue]], [[Free Verse]]
-**Settings:** [[Modern Metropolis]]
+**Motifs:** [[motifs/fog-and-smoke|Fog and Smoke]]
+**Themes & Concepts:** [[concepts/alienation|Alienation]], [[concepts/disillusionment|Disillusionment]]
+**Forms & Genres:** [[forms/dramatic-monologue|Dramatic Monologue]], [[forms/free-verse|Free Verse]]
+**Settings:** [[settings/modern-metropolis|Modern Metropolis]]
 
 ## Testo integrale / Full text
 

@@ -14,19 +14,19 @@ tags:
 <span class="atom-split" data-atom="0103_i_have_a_king_who_does_not_speak" data-title="103. I have a King, who does not speak —" data-chapter="" data-kind="intro" data-tags="archetype/king,motif/dreams,motif/bells,concept/faith_and_doubt,concept/fate_and_free_will,form/lyric,histref/christianity,character/christ,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
 
 
-I have a [[King]], who does not speak —  
+I have a [[archetypes/king|King]], who does not speak —  
 So — wondering — thro' the hours meek  
 I trudge the day away —  
-Half glad when it is [[Night|night]], and [[Sleep|sleep]],  
-If, haply, thro' [[A Dream|a dream]], to peep  
+Half glad when it is [[motifs/night|night]], and [[motifs/sleep|sleep]],  
+If, haply, thro' a dream, to peep  
 In parlors, shut by day.  
 
 And if I do — when morning comes —  
 It is as if a hundred drums  
 Did round my pillow roll,  
 And shouts fill all my Childish sky,  
-And [[Bells]] keep saying "Victory"  
-From steeples in my [[Soul|soul]]!  
+And [[motifs/bells|Bells]] keep saying "Victory"  
+From steeples in my [[motifs/soul|soul]]!  
 
 And if I don't — the little Bird  
 Within the Orchard, is not heard,  
@@ -38,19 +38,19 @@ And it were perjury!
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ho un [[King|Re]], che non parla —  
+Ho un [[archetypes/king|Re]], che non parla —  
 Così — meravigliata — per le ore miti  
 Trascino via il giorno —  
-Mezzo lieta quando è [[Night|notte]], e [[Sleep|sonno]],  
-Se, per ventura, in [[A Dream|un sogno]], sbirciare  
+Mezzo lieta quando è [[motifs/night|notte]], e [[motifs/sleep|sonno]],  
+Se, per ventura, in un sogno, sbirciare  
 In salotti, chiusi di giorno.  
 
 E se lo faccio — quando vien mattina —  
 È come se cento tamburi  
 Rullassero intorno al mio cuscino,  
 E grida riempiono tutto il mio cielo Infantile,  
-E [[Bells|Campane]] ripetono "Vittoria"  
-Dai campanili nella mia [[Soul|anima]]!  
+E [[motifs/bells|Campane]] ripetono "Vittoria"  
+Dai campanili nella mia [[motifs/soul|anima]]!  
 
 E se non lo faccio — il piccolo Uccello  
 Dentro il Frutteto, non si ode,  
@@ -64,8 +64,8 @@ E sarebbe spergiuro!
 <span class="atom-split" data-atom="0283_a_mien_to_move_a_queen" data-title="283. A Mien to move a Queen —" data-chapter="" data-kind="intro" data-tags="archetype/king,archetype/child,motif/birds,motif/crown,concept/identity,form/lyric,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
 
 
-A Mien to move a [[Queen]] —  
-Half [[Child]] — Half Heroine —  
+A Mien to move a [[characters/queen|Queen]] —  
+Half [[archetypes/child|Child]] — Half Heroine —  
 An Orleans in the Eye  
 That puts its manner by  
 For humbler Company  
@@ -83,12 +83,12 @@ With Merriment —
 
 A Voice that Alters — Low  
 And on the Ear can go  
-Like Let of [[Snow]] —  
+Like Let of [[motifs/snow|Snow]] —  
 Or shift supreme —  
 As tone of Realm  
 On Subjects Diadem —  
 
-Too small — to [[Fear|fear]] —  
+Too small — to [[concepts/fear|fear]] —  
 Too distant — to endear —  
 And so Men Compromise  
 And just — revere —
@@ -96,8 +96,8 @@ And just — revere —
 
 <span class="qlang-split" data-lang="it"></span>
 
-Un Contegno da muovere una [[Queen|Regina]] —  
-Metà [[Child|Bimba]] — Metà Eroina —  
+Un Contegno da muovere una [[characters/queen|Regina]] —  
+Metà [[archetypes/child|Bimba]] — Metà Eroina —  
 Un'Orléans nell'Occhio  
 Che depone i suoi modi  
 Per più umile Compagnia  
@@ -115,12 +115,12 @@ Di Allegria —
 
 Una Voce che Muta — Bassa  
 E sull'Orecchio può posarsi  
-Come Posa di [[Snow|Neve]] —  
+Come Posa di [[motifs/snow|Neve]] —  
 O volgersi suprema —  
 Come tono di Regno  
 Su Sudditi Diadema —  
 
-Troppo piccola — da [[Fear|temere]] —  
+Troppo piccola — da [[concepts/fear|temere]] —  
 Troppo distante — per farsi cara —  
 E così gli Uomini Scendono a patti  
 E soltanto — venerano —
@@ -136,7 +136,7 @@ When lesser Fames invite —
 With one long "Nay" —  
 Bliss' early shape  
 Deforming — Dwindling — Gulfing up —  
-[[Time]]'s possibility.
+[[motifs/time|Time]]'s possibility.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -147,7 +147,7 @@ Quando Fame minori invitano —
 Con un lungo "No" —  
 La prima forma della Beatitudine  
 Deformando — Scemando — Inghiottendo —  
-La possibilità del [[Time|Tempo]].
+La possibilità del [[motifs/time|Tempo]].
 
 
 
@@ -164,13 +164,13 @@ And Carbon in the Gem
 Are One — and yet the former  
 Were dull for Diadem —  
 
-I [[Rose|rose]], and all was plain —  
+I [[motifs/rose|rose]], and all was plain —  
 But when the Day declined  
 Myself and It, in Majesty  
 Were equally — adorned —  
 
 The Grace that I — was chose —  
-To Me — surpassed the [[Crown]]  
+To Me — surpassed the [[motifs/crown|Crown]]  
 That was the Witness for the Grace —  
 'Twas even that 'twas Mine —
 
@@ -187,13 +187,13 @@ E il Carbonio nella Gemma
 Sono Uno — eppure il primo  
 Sarebbe spento per un Diadema —  
 
-Mi [[Rose|alzai]], e tutto era piano —  
+Mi [[motifs/rose|alzai]], e tutto era piano —  
 Ma quando il Giorno declinò  
 Io ed Esso, in Maestà  
 Fummo egualmente — adornati —  
 
 La Grazia che io — fui scelta —  
-Per Me — superava la [[Crown|Corona]]  
+Per Me — superava la [[motifs/crown|Corona]]  
 Che era il Testimone della Grazia —  
 Fu proprio il fatto che fosse Mia —
 
@@ -203,7 +203,7 @@ Fu proprio il fatto che fosse Mia —
 
 
 I'm saying every day  
-"If I should be a [[Queen]], tomorrow" —  
+"If I should be a [[characters/queen|Queen]], tomorrow" —  
 I'd do this way —  
 And so I deck, a little,  
 
@@ -213,7 +213,7 @@ With "This was she —
 Begged in the Market place —  
 Yesterday."  
 
-[[Court]] is a stately place —  
+[[settings/court|Court]] is a stately place —  
 I've heard men say —  
 So I loop my apron, against the Majesty  
 With bright Pins of Buttercup —  
@@ -248,7 +248,7 @@ To Exeter —
 <span class="qlang-split" data-lang="it"></span>
 
 Vado dicendo ogni giorno  
-"Se fossi una [[Queen]], domani" —  
+"Se fossi una [[characters/queen|Queen]], domani" —  
 Farei così —  
 E allora mi adorno, un poco,  
 
@@ -258,7 +258,7 @@ Con "Questa era colei —
 Che mendicava al Mercato —  
 Ieri."  
 
-[[Court]] è un luogo solenne —  
+[[settings/court|Court]] è un luogo solenne —  
 Ho udito dire dagli uomini —  
 Così drappeggio il grembiule, contro la Maestà  
 Con lucenti Spille di Ranuncolo —  
@@ -337,7 +337,7 @@ Next — One — Might be the golden touch —
 Could take it —  
 Diamonds — Wait —  
 I'm diving — just a little late —  
-But [[Stars|stars]] — go slow — for [[Night|night]] —  
+But [[motifs/stars|stars]] — go slow — for [[motifs/night|night]] —  
 
 I'll string you — in fine Necklace —  
 Tiaras — make — of some —  
@@ -345,10 +345,10 @@ Wear you on Hem —
 Loop up a Countess — with you —  
 Make — a Diadem — and mend my old One —  
 Count — Hoard — then lose —  
-And [[Doubt|doubt]] that you are mine —  
-To have the [[Joy|joy]] of feeling it — again —  
+And [[concepts/doubt|doubt]] that you are mine —  
+To have the [[concepts/joy|joy]] of feeling it — again —  
 
-I'll show you at the [[Court]] —  
+I'll show you at the [[settings/court|Court]] —  
 Bear you — for Ornament  
 Where Women breathe —  
 That every sigh — may lift you  
@@ -368,7 +368,7 @@ La prossima — Volta — Potrebbe essere il tocco d'oro —
 Potrebbe prenderlo —  
 Diamanti — Aspettate —  
 Mi tuffo — solo un poco in ritardo —  
-Ma le [[Stars|stelle]] — vanno piano — per la [[Night|notte]] —  
+Ma le [[motifs/stars|stelle]] — vanno piano — per la [[motifs/night|notte]] —  
 
 Vi infilerò — in fine Collana —  
 Tiare — farò — di alcuni —  
@@ -376,10 +376,10 @@ Vi porterò sull'Orlo —
 Allaccerò una Contessa — con voi —  
 Farò — un Diadema — e rammendo il mio Vecchio —  
 Conterò — Ammasserò — poi perderò —  
-E [[Doubt|dubiterò]] che siate miei —  
-Per avere la [[Joy|gioia]] di sentirlo — ancora —  
+E [[concepts/doubt|dubiterò]] che siate miei —  
+Per avere la [[concepts/joy|gioia]] di sentirlo — ancora —  
 
-Vi mostrerò alla [[Court]] —  
+Vi mostrerò alla [[settings/court|Court]] —  
 Vi porterò — come Ornamento  
 Dove le Donne respirano —  
 Che ogni sospiro — vi sollevi  
@@ -404,7 +404,7 @@ Convicted of Itself —
 A best Disgrace — a Brave Man feels —  
 Acknowledged — of the Brave —  
 One More — "Ye Blessed" — to be told —  
-But that's — Behind the [[Grave]] —
+But that's — Behind the [[motifs/grave|Grave]] —
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -417,7 +417,7 @@ Rea di Se Stessa —
 Una suprema Disgrazia — la prova un Uomo Coraggioso —  
 Riconosciuta — dai Coraggiosi —  
 Una Ancora — "Voi Benedetti" — da sentirsi dire —  
-Ma quella è — Oltre la [[Grave|Tomba]] —
+Ma quella è — Oltre la [[motifs/grave|Tomba]] —
 
 
 
@@ -430,22 +430,22 @@ It is as Swans — discarded You,
 For Duties Diamond —  
 
 Their Liquid Feet go softly out  
-Upon a [[Sea]] of Blonde —  
+Upon a [[motifs/sea|Sea]] of Blonde —  
 They spurn the Air, as t'were too mean  
 For Creatures so renowned —  
 
 Their Ribbons just beyond the eye —  
 They struggle — some — for Breath —  
 And yet the Crowd applaud, below —  
-They would not encore — [[Death]] —  
+They would not encore — [[motifs/death|Death]] —  
 
 The Gilded Creature strains — and spins —  
-Trips frantic in a [[Tree]] —  
-[[Tears]] open her imperial Veins —  
-And tumbles in the [[Sea]] —  
+Trips frantic in a [[motifs/tree|Tree]] —  
+[[motifs/tears|Tears]] open her imperial Veins —  
+And tumbles in the [[motifs/sea|Sea]] —  
 
 The Crowd — retire with an Oath —  
-The [[Dust]] in Streets — go down —  
+The [[motifs/dust|Dust]] in Streets — go down —  
 And Clerks in Counting Rooms  
 Observe — "'Twas only a Balloon" —
 
@@ -458,22 +458,22 @@ Così maestosi ascendono —
 Per Doveri di Diamante —  
 
 I loro Liquidi Piedi escono lievi  
-Sopra un [[Sea|Mare]] di Biondo —  
+Sopra un [[motifs/sea|Mare]] di Biondo —  
 Sdegnano l'Aria, come fosse troppo vile  
 Per Creature così rinomate —  
 
 I loro Nastri appena oltre l'occhio —  
 Lottano — alcuni — per il Respiro —  
 Eppure la Folla applaude, in basso —  
-Non chiederebbe il bis — alla [[Death|Morte]] —  
+Non chiederebbe il bis — alla [[motifs/death|Morte]] —  
 
 La Creatura Dorata si tende — e rotea —  
-Inciampa frenetica in un [[Tree|Albero]] —  
-[[Tears|Squarcia]] le sue Vene imperiali —  
-E precipita nel [[Sea|Mare]] —  
+Inciampa frenetica in un [[motifs/tree|Albero]] —  
+[[motifs/tears|Squarcia]] le sue Vene imperiali —  
+E precipita nel [[motifs/sea|Mare]] —  
 
 La Folla — si ritira con un'Imprecazione —  
-La [[Dust|Polvere]] nelle Strade — si posa —  
+La [[motifs/dust|Polvere]] nelle Strade — si posa —  
 E gli Impiegati nelle Stanze dei Conti  
 Osservano — "Era soltanto un Pallone" —
 
@@ -558,28 +558,28 @@ Un futile Diadema —
 <span class="atom-split" data-atom="0803_who_court_obtain_within_himself" data-title="803. Who Court obtain within Himself" data-chapter="" data-kind="intro" data-tags="archetype/king,motif/crown,concept/self_sufficiency,concept/self_and_soul,form/aphorism,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
 
 
-Who [[Court]] obtain within Himself  
-Sees every Man a [[King]] —  
-And [[Poverty]] of Monarchy  
+Who [[settings/court|Court]] obtain within Himself  
+Sees every Man a [[archetypes/king|King]] —  
+And [[concepts/poverty|Poverty]] of Monarchy  
 Is an interior thing —  
 
 No Man depose  
 Whom Fate Ordain —  
-And Who can add a [[Crown]]  
+And Who can add a [[motifs/crown|Crown]]  
 To Him who doth continual  
 Conspire against His Own
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Chi [[Court|Corte]] ottiene dentro di Sé  
-Vede in ogni Uomo un [[King|Re]] —  
-E la [[Poverty|Povertà]] di Monarchia  
+Chi [[settings/court|Corte]] ottiene dentro di Sé  
+Vede in ogni Uomo un [[archetypes/king|Re]] —  
+E la [[concepts/poverty|Povertà]] di Monarchia  
 È cosa interiore —  
 
 Nessun Uomo depone  
 Chi il Fato Ordina —  
-E Chi può aggiungere una [[Crown|Corona]]  
+E Chi può aggiungere una [[motifs/crown|Corona]]  
 A Colui che di continuo  
 Cospira contro la Propria
 
@@ -642,44 +642,76 @@ Sia Onore e non vergogna —
 <span class="atom-split" data-atom="l0102_dr_j_g_holland_and_mrs_holland_tuesday_evening" data-title="To Dr. J. G. Holland, and Mrs. Holland, Tuesday Evening" data-chapter="" data-kind="intro" data-tags="motif/prayer,motif/bells,motif/birds,motif/bees,motif/letters_writing,concept/friendship,concept/faith_and_doubt,concept/longing,concept/immortality_divine,form/letter,histref/the_bible,setting/new_england,character/matthew,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
 
 
-DEAR DR. AND MRS. HOLLAND,—dear Minnie—it is cold to-[[Night|night]], but the thought of you so warm, that I sit by it as a fireside, and am never cold any more. I [[Love|love]] to write to you—it gives my heart a holiday and sets the [[Bells|bells]] to ringing. If prayers had any answers to them, you were all here to-[[Night|night]], but I seek and I don't find, and knock and it is not opened. [[Wonder]] if [[God]] is just—presume He is, however, and 'twas only a blunder of Matthew's.
+DEAR DR. AND MRS. HOLLAND,—dear Minnie—it is cold to-[[motifs/night|night]], but the thought of you so warm, that I sit by it as a fireside, and am never cold any more. I [[motifs/love|love]] to write to you—it gives my heart a holiday and sets the [[motifs/bells|bells]] to ringing. If prayers had any answers to them, you were all here to-[[motifs/night|night]], but I seek and I don't find, and knock and it is not opened. [[concepts/wonder|Wonder]] if [[characters/god|God]] is just—presume He is, however, and 'twas only a blunder of Matthew's.
 
-I think mine is the case, where when they ask an egg, they get a scorpion, for I keep wishing for you, keep shutting up my eyes and looking toward the sky, asking with all my might for you, and yet you do not come. I wrote to you last week, but thought you would laugh at me, and call me sentimental, so I kept my lofty [[Letter|letter]] for “Adolphus Hawkins, Esq.”
+I think mine is the case, where when they ask an egg, they get a scorpion, for I keep wishing for you, keep shutting up my eyes and looking toward the sky, asking with all my might for you, and yet you do not come. I wrote to you last week, but thought you would laugh at me, and call me sentimental, so I kept my lofty [[forms/letter|letter]] for “Adolphus Hawkins, Esq.”
 
-If it wasn't for broad daylight, and cooking-stoves, and roosters, I'm afraid you would have occasion to smile at my letters often, but so sure as “this mortal” essays [[Immortality|immortality]], a crow from a neighboring farm-yard dissipates the illusion, and I am here again.
+If it wasn't for broad daylight, and cooking-stoves, and roosters, I'm afraid you would have occasion to smile at my letters often, but so sure as “this mortal” essays [[concepts/immortality|immortality]], a crow from a neighboring farm-yard dissipates the illusion, and I am here again.
 
 And what I mean is this—that I thought of you all last week, until the world grew rounder than it sometimes is, and I broke several dishes.
 
-Monday, I solemnly resolved I would be sensible, so I wore thick shoes, and thought of Dr. Humphrey, and the Moral Law. One glimpse of The Republican makes me break things again—I read in it every [[Night|night]].
+Monday, I solemnly resolved I would be sensible, so I wore thick shoes, and thought of Dr. Humphrey, and the Moral Law. One glimpse of The Republican makes me break things again—I read in it every [[motifs/night|night]].
 
-Who writes those funny accidents, where railroads meet each other unexpectedly, and gentlemen in factories get their heads cut off quite informally? The author, too, relates them in such a sprightly way, that they are quite attractive. Vinnie was disappointed to-[[Night|night]], that there were
+Who writes those funny accidents, where railroads meet each other unexpectedly, and gentlemen in factories get their heads cut off quite informally? The author, too, relates them in such a sprightly way, that they are quite attractive. Vinnie was disappointed to-[[motifs/night|night]], that there were
 
-[[Letter|LETTER]] TO DR. AND MRS. HOLLAND, facsimile
+[[forms/letter|LETTER]] TO DR. AND MRS. HOLLAND, facsimile
 
-not more accidents—I read the news aloud, while Vinnie was sewing. The Republican seems to us like a [[Letter|letter]] from you, and we break the seal and read it eagerly. . . .
+not more accidents—I read the news aloud, while Vinnie was sewing. The Republican seems to us like a [[forms/letter|letter]] from you, and we break the seal and read it eagerly. . . .
 
-Vinnie and I talked of you as we sewed, this afternoon. I said—“how far they seem from us,” but Vinnie answered me “only a little way.” . . . I'd [[Love|love]] to be a bird or bee, that whether hum or sing, still might be near you.
+Vinnie and I talked of you as we sewed, this afternoon. I said—“how far they seem from us,” but Vinnie answered me “only a little way.” . . . I'd [[motifs/love|love]] to be a bird or bee, that whether hum or sing, still might be near you.
 
-Heaven is large—is it not? Life is short too, isn't it? Then when one is done, is there not another, and—and—then if [[God]] is willing, we are neighbors then. Vinnie and mother send their [[Love|love]]. Mine too is here. My [[Letter|letter]] as a bee, goes laden. Please [[Love|love]] us and remember us. Please write us very soon, and tell us how you are. . . .
+Heaven is large—is it not? Life is short too, isn't it? Then when one is done, is there not another, and—and—then if [[characters/god|God]] is willing, we are neighbors then. Vinnie and mother send their [[motifs/love|love]]. Mine too is here. My [[forms/letter|letter]] as a bee, goes laden. Please [[motifs/love|love]] us and remember us. Please write us very soon, and tell us how you are. . . .
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Caro dottor e signora Holland, cara Minnie. Fa freddo di notte, ma il pensiero di voi mi riscalda tanto che mi sento come se fossi accanto al fuoco, e non ho più freddo affatto. Mi piace scrivervi: mi dà una sensazione di festa nel cuore e fa suonare le “campane” della gioia. Se le preghiere avessero risposte, voi sareste tutti qui con me questa notte. Ma non trovo nulla; batto alla porta, ma nessuno apre. Chissà se [[characters/god|Dio]] è giusto. Comunque, presumo che lo sia. Dev’essere stato solo un errore di Matthew.
+
+Penso che il mio caso sia proprio questo: quando chiedono un uovo, ricevono uno scorpione. Continuo a sperare in te, chiudo gli occhi e guardo verso il cielo, pregando con tutte le mie forze. Eppure tu non arrivi. Ti ho scritto la settimana scorsa, ma pensavo che mi avresti riso in faccia, che mi avresti definito sentimentale. Così ho tenuto per me questa mia “nobile” lettera, indirizzata a “Adolphus Hawkins, Esq.”
+
+Se non fosse per il pieno giorno, i fornelli da cucina e i galli, temo che spesso vi verrebbe da sorridere alle mie lettere, ma proprio come “questo mortale” cerca di raggiungere l’[[concepts/immortality|immortalità]], un corvo proveniente dal cortile vicino distrugge quell’illusione, e eccomi di nuovo qui.
+
+E quello che voglio dire è questo: ho pensato a voi tutti la scorsa settimana, finché il mondo non è diventato più “rotondo” del solito, e ho rotto alcuni piatti.
+
+Lunedì, decisi solennemente di comportarmi in modo sensato; quindi indossai scarpe pesanti e pensai al Dottor Humphrey e alla Legge Morale. Ma un solo sguardo a “The Republican” mi fa di nuovo perdere il controllo. Lo leggo ogni [[motifs/night|notte]].
+
+Chi scrive di quegli strani incidenti in cui le ferrovie si incontrano inaspettatamente, e in cui signori nelle fabbriche perdono la testa in modo piuttosto informale? Anche l’autore li racconta in modo così vivace che diventano davvero interessanti. Vinnie fu deluso quella [[motifs/night|notte]], perché non ce n’erano.
+
+[[forms/letter|Lettera]] al dottor e alla signora Holland, facsimile
+
+Nessun altro incidente. Lessi la notizia ad alta voce mentre Vinnie cuciva. Il repubblicano ci sembra come una [[forms/letter|lettera]] tua; quindi l’apriamo con impazienza e la leggiamo attentamente.
+
+Questo pomeriggio, mentre cucivamo, Vinnie e io abbiamo parlato di te. Ho detto: “Sembrano così lontani da noi, ”, ma Vinnie mi ha risposto: “Solo un po’”., Mi piacerebbe essere un uccello o una ape: in quel caso, sia che ronzassi o cantassi, potrei comunque stare vicino a te.
+
+Il cielo è vasto, non è vero? Anche la vita è breve, non è così? Quindi, quando una fine arriva, ce n’è un’altra. E se [[characters/god|Dio]] lo vuole, allora saremo vicini. Vinnie e mia madre inviano il loro [[motifs/love|affetto]]; anche il mio è con voi. La mia [[forms/letter|lettera]], come una ape, porta con sé tanti sentimenti. Per favore, [[motifs/love|amateci]] e ricordatevi di noi. Scriveteci presto, diteci come state.
 
 
 
 <span class="atom-split" data-atom="l0243_the_misses_april_1875" data-title="To the Misses, April, 1875" data-chapter="" data-kind="intro" data-tags="motif/flowers,concept/friendship,concept/humility,concept/nationalism_and_patriotism,form/letter,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
 
 
-I have only a buttercup to offer for the centennial, as an “embattled farmer” has but little [[Time|time]].
+I have only a buttercup to offer for the centennial, as an “embattled farmer” has but little [[motifs/time|time]].
 
 Begging you not to smile at my limited meadows, I am modestly
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Per il centenario ho solo un ranuncolo da offrire; dopotutto, come “contadino che ha lottato”, non mi resta molto [[motifs/time|tempo]].
+
+“Per favore, non sorridete delle mie ‘limitate praterie’… Sono semplicemente modesto…”
 
 
 
 <span class="atom-split" data-atom="l0338_miss_maria_whitney" data-title="To Miss Maria Whitney" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/sleep,motif/flowers,concept/beauty,concept/wonder,form/letter,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
 
 
-DEAR FRIENDS,—Had I not known I was not asleep, I should have feared I dreamed, so blissful was their [[Beauty|beauty]], but day and they demurred. . . .
+DEAR FRIENDS,—Had I not known I was not asleep, I should have feared I dreamed, so blissful was their [[concepts/beauty|beauty]], but day and they demurred. . . .
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Cari amici, —se non avessi saputo di non essere addormentato, avrei temuto di stare sognando. Quanto era beata la loro [[concepts/beauty|bellezza]]! Ma è arrivato il giorno, e loro hanno rifiutato.
 
 
 
@@ -689,3 +721,10 @@ DEAR FRIENDS,—Had I not known I was not asleep, I should have feared I dreamed
 DEAR FRIEND,—We often say “how beautiful!” But when we mean it, we can mean no more.
 
 A dream personified.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Caro amico, —spesso diciamo “che bello!”, ma quando lo diciamo davvero, non possiamo intendere nulla di più.
+
+Un sogno personificato.

@@ -14,4 +14,10 @@ Cigars, cigarettes, and pipes recur as the concrete emblem of America's muddled 
 
 <div class="concept-works" data-slug="motifs/tobacco-and-cigars"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/american-morals-(chesterton)|american-morals (Chesterton)]]
+
+</div>
+
 #graph/motif

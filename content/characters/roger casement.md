@@ -14,4 +14,10 @@ The doomed Anglo-Irish revolutionary whose solitary, tragic figure and disputed 
 
 <div class="concept-works" data-slug="characters/roger-casement"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/irish-impressions-(chesterton)|Irish Impressions (Chesterton)]]
+
+</div>
+
 #graph/character

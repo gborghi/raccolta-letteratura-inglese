@@ -14,4 +14,11 @@ The institution of the family, defended in its own chapter as an unchosen, unsoc
 
 <div class="concept-works" data-slug="concepts/family"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/heret12-(chesterton)|heret12 (Chesterton)]]
+- [[works/whats-wrong-(chesterton)|whats wrong (Chesterton)]]
+
+</div>
+
 #graph/concept

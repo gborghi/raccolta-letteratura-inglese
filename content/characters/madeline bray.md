@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/madeline-bray"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/nicholas-nickleby-(dickens)|Nicholas Nickleby (Dickens)]]
+
+</div>
+
 #graph/character

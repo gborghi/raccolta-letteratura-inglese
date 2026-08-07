@@ -30,7 +30,7 @@ tags:
 
 # success
 
-*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Chesterton*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A satirical essay attacking the modern cult of 'Success' as the mysticism of money and avarice; social criticism rooted in the Midas myth.
@@ -50,16 +50,16 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Self-Made Man]]
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]
 
-**Topoi:** [[Vanitas]], [[World Upside Down]]
+**Topoi:** [[topoi/vanitas|Vanitas]], [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[Midas]], [[Vanderbilt]]
+**Characters:** [[characters/midas|Midas]], [[characters/vanderbilt|Vanderbilt]]
 
-**Motifs:** [[Money and Gold]], [[Secrets]]
-**Themes & Concepts:** [[Satire of Society]], [[Money and Avarice]], [[Pride]], [[Critique of Progress]], [[Self-Reliance and Earned Success]], [[Deception]], [[Economics]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
-**Historical References:** [[Classical Antiquity]], [[Industrial Revolution]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/secrets|Secrets]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/pride|Pride]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/self-reliance-and-earned-success|Self-Reliance and Earned Success]], [[concepts/deception|Deception]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/industrial-revolution|Industrial Revolution]]
 
 ## Testo integrale / Full text
 

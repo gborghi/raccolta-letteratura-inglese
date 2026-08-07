@@ -34,7 +34,7 @@ tags:
 
 # christmas-poem
 
-*by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
+*by Chesterton*  ·  **Cluster:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > A Nativity lyric on the homeless holy family in the stable as the true home of all men; contrasts the wandering exile of the human heart with the divine homecoming of Christmas.
@@ -45,14 +45,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Paradise Lost]], [[Open Road Homecoming]], [[World Upside Down]]
-**Archetypes:** [[Outsider]], [[Great Mother]], [[Child]]
-**Motifs:** [[Inn Tavern]], [[Stars]], [[Home]], [[Journey]]
-**Themes & Concepts:** [[Divine Love]], [[Grace and Redemption]], [[Exile]], [[Wonder and Gratitude]], [[Providence]], [[Paradox]]
-**Forms & Genres:** [[Hymn]], [[Lyric]]
-**Historical References:** [[Ancient Rome]], [[Bible]]
-**Settings:** [[Inn]]
-**Characters:** [[Virgin Mary]], [[Christ]]
+**Topoi:** [[topoi/paradise-lost|Paradise Lost]], [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/great-mother|Great Mother]], [[archetypes/child|Child]]
+**Motifs:** [[motifs/inn-tavern|Inn Tavern]], [[motifs/stars|Stars]], [[motifs/home|Home]], [[motifs/journey|Journey]]
+**Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/exile|Exile]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/providence|Providence]], [[concepts/paradox|Paradox]]
+**Forms & Genres:** [[forms/hymn|Hymn]], [[forms/lyric|Lyric]]
+**Historical References:** [[settings/ancient-rome|Ancient Rome]], [[historical-references/bible|Bible]]
+**Settings:** [[settings/inn|Inn]]
+**Characters:** [[characters/virgin-mary|Virgin Mary]], [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

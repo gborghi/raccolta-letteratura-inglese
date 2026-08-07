@@ -14,4 +14,11 @@ Roman poet cited as example of literature's near-magical power, whom medieval im
 
 <div class="concept-works" data-slug="historical-references/virgil"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/strange-city-(chesterton)|strange-city (Chesterton)]]
+- [[works/on-(belloc)|On (Belloc)]]
+
+</div>
+
 #graph/histref

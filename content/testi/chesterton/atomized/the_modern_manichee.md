@@ -21,7 +21,7 @@ The Modern Manichee
 He sayeth there is no sin, and all his sin  
 Swells round him into a world made merciless;  
 The midnight of his universe of shame  
-Is the vast [[Shadow|shadow]] of his shamelessness.  
+Is the vast [[archetypes/shadow|shadow]] of his shamelessness.  
 He blames all that begat him, gods or brutes,  
 And sires not sons he chides as with a rod.  
 The sins of the children visited on the fathers  
@@ -31,15 +31,15 @@ The fields that heal the humble, the happy forests
 That sing to men confessed and men consoled,  
 To him are jungles only, greedy and groping,  
 Heartlessly new, unvenerably old.  
-Beyond the [[Pride|pride]] of his own cold compassion  
-Is only cruelty and imputed [[Pain|pain]]:  
+Beyond the [[concepts/pride|pride]] of his own cold compassion  
+Is only cruelty and imputed [[motifs/pain|pain]]:  
 Matched with that mood, a boy's sport in the forest  
 Makes comrades of the slayer and the slain.  
 
-The [[Innocent|innocent]] lust of the unfallen creatures  
+The [[archetypes/innocent|innocent]] lust of the unfallen creatures  
 Moves him to hidden horror but no mirth;  
-Misplaced [[morality]] rots in the roots unconscious,  
-His stifled [[Conscience|conscience]] stinks through the green earth.  
+Misplaced morality rots in the roots unconscious,  
+His stifled [[concepts/conscience|conscience]] stinks through the green earth.  
 The green things thrust like horrible huge snails,  
 Horns green and gross, each lifting a leering eye  
 He scarce can call a flower; it lolls obscene,  
@@ -47,7 +47,7 @@ Its organs gaping to the sneering sky.
 
 Dark with that dusk the old red god of gardens  
 Still pagan but not merry any more,  
-Stirs up the dull adulteries of the [[Dust|dust]],  
+Stirs up the dull adulteries of the [[motifs/dust|dust]],  
 Blind, frustrate, hopeless, hollow at the core;  
 The plants are brutes tied with green rope and roaring  
 Their terrible dark loves from tree to tree:  
@@ -56,12 +56,12 @@ A gilded pimp and pandar, goes the bee.
 
 He sayeth, 'I have no sin; I cast the stone',  
 And throws his little pebble at the shrine,  
-Casts sin and stone away against the [[house]]  
+Casts sin and stone away against the house  
 Whose health has turned earth's waters into wine.  
-The venom of that repudiated [[Guilt|guilt]]  
+The venom of that repudiated [[concepts/guilt|guilt]]  
 Poisons the sea and every natural flood  
-As once a wavering [[Tyrant|tyrant]] washed his hands,  
-And touching, turned the [[Water|water]] black with [[Blood|blood]].  
+As once a wavering [[archetypes/tyrant|tyrant]] washed his hands,  
+And touching, turned the [[motifs/water|water]] black with [[motifs/blood|blood]].  
 
 G K Chesterton.
 
@@ -75,7 +75,7 @@ Il manicheo moderno
 Egli dice che non v'è peccato, e ogni suo peccato  
 Gli si gonfia intorno in un mondo fatto spietato;  
 La mezzanotte del suo universo di vergogna  
-È la vasta [[Shadow|ombra]] della sua spudoratezza.  
+È la vasta [[archetypes/shadow|ombra]] della sua spudoratezza.  
 Incolpa tutto ciò che lo generò, dèi o bruti,  
 E non genera figli che sferza come con la verga.  
 Le colpe dei figli fatte ricadere sui padri  
@@ -85,15 +85,15 @@ I campi che risanano gli umili, le liete foreste
 Che cantano agli uomini confessi e agli uomini consolati,  
 Per lui non sono che giungle, avide e brancolanti,  
 Senza cuore nuove, senza venerazione antiche.  
-Oltre l'[[Pride|orgoglio]] della sua fredda compassione  
-Non v'è che crudeltà e [[Pain|dolore]] imputato:  
+Oltre l'[[concepts/pride|orgoglio]] della sua fredda compassione  
+Non v'è che crudeltà e [[motifs/pain|dolore]] imputato:  
 Rapportato a quell'umore, il gioco d'un fanciullo nel bosco  
 Fa compagni l'uccisore e l'ucciso.  
 
-L'[[Innocent|innocente]] brama delle creature non cadute  
+L'[[archetypes/innocent|innocente]] brama delle creature non cadute  
 Lo muove a un orrore nascosto ma a nessuna letizia;  
-Una [[morality|moralità]] malriposta marcisce nelle radici inconsce,  
-La sua [[Conscience|coscienza]] soffocata puzza per la verde terra.  
+Una moralità malriposta marcisce nelle radici inconsce,  
+La sua [[concepts/conscience|coscienza]] soffocata puzza per la verde terra.  
 Le cose verdi si spingono su come orribili lumache enormi,  
 Corni verdi e grossi, ciascuno levando un occhio sogghignante  
 Ch'egli a stento può dir fiore; sta sdraiato osceno,  
@@ -101,7 +101,7 @@ I suoi organi spalancati al cielo beffardo.
 
 Buio di quel crepuscolo, l'antico rosso dio dei giardini  
 Ancóra pagano ma non più gioioso,  
-Ridesta i cupi adultèri della [[Dust|polvere]],  
+Ridesta i cupi adultèri della [[motifs/dust|polvere]],  
 Cieco, frustrato, senza speranza, cavo nel cuore;  
 Le piante son bruti legati con verde fune e ruggenti  
 I loro terribili oscuri amori d'albero in albero:  
@@ -110,12 +110,12 @@ Passa l'ape, dorato ruffiano e mezzano.
 
 Egli dice: 'Non ho peccato; io scaglio la pietra',  
 E getta il suo sassolino contro il santuario,  
-Scaglia via peccato e pietra contro la [[house|casa]]  
+Scaglia via peccato e pietra contro la casa  
 La cui salute ha mutato in vino le acque della terra.  
-Il veleno di quella [[Guilt|colpa]] ripudiata  
+Il veleno di quella [[concepts/guilt|colpa]] ripudiata  
 Avvelena il mare e ogni flusso naturale  
-Come un tempo un [[Tyrant|tiranno]] esitante si lavò le mani,  
-E, toccandola, fece l'[[Water|acqua]] nera di [[Blood|sangue]].  
+Come un tempo un [[archetypes/tyrant|tiranno]] esitante si lavò le mani,  
+E, toccandola, fece l'[[motifs/water|acqua]] nera di [[motifs/blood|sangue]].  
 
 G K Chesterton.
 
@@ -131,7 +131,7 @@ The Modern Manichee
 He sayeth there is no sin, and all his sin  
 Swells round him into a world made merciless;  
 The midnight of his universe of shame  
-Is the vast [[Shadow|shadow]] of his shamelessness.  
+Is the vast [[archetypes/shadow|shadow]] of his shamelessness.  
 He blames all that begat him, gods or brutes,  
 And sires not sons he chides as with a rod.  
 The sins of the children visited on the fathers  
@@ -141,15 +141,15 @@ The fields that heal the humble, the happy forests
 That sing to men confessed and men consoled,  
 To him are jungles only, greedy and groping,  
 Heartlessly new, unvenerably old.  
-Beyond the [[Pride|pride]] of his own cold compassion  
-Is only cruelty and imputed [[Pain|pain]]:  
+Beyond the [[concepts/pride|pride]] of his own cold compassion  
+Is only cruelty and imputed [[motifs/pain|pain]]:  
 Matched with that mood, a boy's sport in the forest  
 Makes comrades of the slayer and the slain.  
 
-The [[Innocent|innocent]] lust of the unfallen creatures  
+The [[archetypes/innocent|innocent]] lust of the unfallen creatures  
 Moves him to hidden horror but no mirth;  
-Misplaced [[morality]] rots in the roots unconscious,  
-His stifled [[Conscience|conscience]] stinks through the green earth.  
+Misplaced morality rots in the roots unconscious,  
+His stifled [[concepts/conscience|conscience]] stinks through the green earth.  
 The green things thrust like horrible huge snails,  
 Horns green and gross, each lifting a leering eye  
 He scarce can call a flower; it lolls obscene,  
@@ -157,7 +157,7 @@ Its organs gaping to the sneering sky.
 
 Dark with that dusk the old red god of gardens  
 Still pagan but not merry any more,  
-Stirs up the dull adulteries of the [[Dust|dust]],  
+Stirs up the dull adulteries of the [[motifs/dust|dust]],  
 Blind, frustrate, hopeless, hollow at the core;  
 The plants are brutes tied with green rope and roaring  
 Their terrible dark loves from tree to tree:  
@@ -166,12 +166,12 @@ A gilded pimp and pandar, goes the bee.
 
 He sayeth, 'I have no sin; I cast the stone',  
 And throws his little pebble at the shrine,  
-Casts sin and stone away against the [[house]]  
+Casts sin and stone away against the house  
 Whose health has turned earth's waters into wine.  
-The venom of that repudiated [[Guilt|guilt]]  
+The venom of that repudiated [[concepts/guilt|guilt]]  
 Poisons the sea and every natural flood  
-As once a wavering [[Tyrant|tyrant]] washed his hands,  
-And touching, turned the [[Water|water]] black with [[Blood|blood]].  
+As once a wavering [[archetypes/tyrant|tyrant]] washed his hands,  
+And touching, turned the [[motifs/water|water]] black with [[motifs/blood|blood]].  
 
 G K Chesterton.
 
@@ -185,7 +185,7 @@ Il manicheo moderno
 Egli dice che non v'è peccato, e ogni suo peccato  
 Gli si gonfia intorno in un mondo fatto spietato;  
 La mezzanotte del suo universo di vergogna  
-È la vasta [[Shadow|ombra]] della sua spudoratezza.  
+È la vasta [[archetypes/shadow|ombra]] della sua spudoratezza.  
 Incolpa tutto ciò che lo generò, dèi o bruti,  
 E non genera figli che sferza come con la verga.  
 Le colpe dei figli fatte ricadere sui padri  
@@ -195,15 +195,15 @@ I campi che risanano gli umili, le liete foreste
 Che cantano agli uomini confessi e agli uomini consolati,  
 Per lui non sono che giungle, avide e brancolanti,  
 Senza cuore nuove, senza venerazione antiche.  
-Oltre l'[[Pride|orgoglio]] della sua fredda compassione  
-Non v'è che crudeltà e [[Pain|dolore]] imputato:  
+Oltre l'[[concepts/pride|orgoglio]] della sua fredda compassione  
+Non v'è che crudeltà e [[motifs/pain|dolore]] imputato:  
 Rapportato a quell'umore, il gioco d'un fanciullo nel bosco  
 Fa compagni l'uccisore e l'ucciso.  
 
-L'[[Innocent|innocente]] brama delle creature non cadute  
+L'[[archetypes/innocent|innocente]] brama delle creature non cadute  
 Lo muove a un orrore nascosto ma a nessuna letizia;  
-Una [[morality|moralità]] malriposta marcisce nelle radici inconsce,  
-La sua [[Conscience|coscienza]] soffocata puzza per la verde terra.  
+Una moralità malriposta marcisce nelle radici inconsce,  
+La sua [[concepts/conscience|coscienza]] soffocata puzza per la verde terra.  
 Le cose verdi si spingono su come orribili lumache enormi,  
 Corni verdi e grossi, ciascuno levando un occhio sogghignante  
 Ch'egli a stento può dir fiore; sta sdraiato osceno,  
@@ -211,7 +211,7 @@ I suoi organi spalancati al cielo beffardo.
 
 Buio di quel crepuscolo, l'antico rosso dio dei giardini  
 Ancóra pagano ma non più gioioso,  
-Ridesta i cupi adultèri della [[Dust|polvere]],  
+Ridesta i cupi adultèri della [[motifs/dust|polvere]],  
 Cieco, frustrato, senza speranza, cavo nel cuore;  
 Le piante son bruti legati con verde fune e ruggenti  
 I loro terribili oscuri amori d'albero in albero:  
@@ -220,11 +220,11 @@ Passa l'ape, dorato ruffiano e mezzano.
 
 Egli dice: 'Non ho peccato; io scaglio la pietra',  
 E getta il suo sassolino contro il santuario,  
-Scaglia via peccato e pietra contro la [[house|casa]]  
+Scaglia via peccato e pietra contro la casa  
 La cui salute ha mutato in vino le acque della terra.  
-Il veleno di quella [[Guilt|colpa]] ripudiata  
+Il veleno di quella [[concepts/guilt|colpa]] ripudiata  
 Avvelena il mare e ogni flusso naturale  
-Come un tempo un [[Tyrant|tiranno]] esitante si lavò le mani,  
-E, toccandola, fece l'[[Water|acqua]] nera di [[Blood|sangue]].  
+Come un tempo un [[archetypes/tyrant|tiranno]] esitante si lavò le mani,  
+E, toccandola, fece l'[[motifs/water|acqua]] nera di [[motifs/blood|sangue]].  
 
 G K Chesterton.

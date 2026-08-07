@@ -14,4 +14,10 @@ The shaggy, thickly-accented anarchist called Tuesday, denounced as a spy at the
 
 <div class="concept-works" data-slug="characters/gogol"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thursday-(chesterton)|thursday (Chesterton)]]
+
+</div>
+
 #graph/character

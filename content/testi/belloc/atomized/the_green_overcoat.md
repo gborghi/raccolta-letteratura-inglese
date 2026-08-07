@@ -104,9 +104,9 @@ Professor Higginson sidled aimlessly into the study that was doing duty as a clo
 
 Was it gone? The Professor of Psychology was a learned man, and his sense of reality was not always exact. Had he come in that Inverness after all? — . — . — . The more he thought about it the less certain he was.
 
-He remembered that the May night, though very cold, had been fine as he came. He had no precise memory of taking off that Inverness or of hanging it up. He walked slowly, ruminating upon the great problem, towards the door of the hall; he inwardly congratulated himself that there was no servant present, and that he could go through the dreadful ordeal of leaving the house without suffering the scrutiny of a human being. No carriage had yet drawn up. He opened the door, and was appalled to be met by a violent gust and a bitter, cold, driving [[Rain|rain]].
+He remembered that the May night, though very cold, had been fine as he came. He had no precise memory of taking off that Inverness or of hanging it up. He walked slowly, ruminating upon the great problem, towards the door of the hall; he inwardly congratulated himself that there was no servant present, and that he could go through the dreadful ordeal of leaving the house without suffering the scrutiny of a human being. No carriage had yet drawn up. He opened the door, and was appalled to be met by a violent gust and a bitter, cold, driving [[motifs/rain|rain]].
 
-Now the Professor of Psychology was, like the domestic cat, of simple tastes, but he hated [[Rain|rain]] even more than does that animal. It bitterly disagreed with him, and worse still, the oddity of walking through the streets in evening clothes through a raging downpour, with a large expanse of white shirt all drenched, was more than his nerves could bear.
+Now the Professor of Psychology was, like the domestic cat, of simple tastes, but he hated [[motifs/rain|rain]] even more than does that animal. It bitterly disagreed with him, and worse still, the oddity of walking through the streets in evening clothes through a raging downpour, with a large expanse of white shirt all drenched, was more than his nerves could bear.
 
 He was turning round irresolutely to seek once again for that Inverness, which he was now more confident than ever was not there, when the Devil, who has great power in these affairs, presented to his eyes, cast negligently over a chair, a GREEN OVERCOAT of singular magnificence.
 
@@ -116,7 +116,7 @@ Now the Devil during all Professor Higginson’s life had had but trifling fun w
 
 The Green Overcoat appeared for a few seconds seductive, then violently alluring, next — and in a very few seconds — irresistible.
 
-Professor Higginson shot a sin-laden and frightened glance towards the light and the noise and the music within. No one was in sight. Through the open door of the rooms, whence the sound of the party came loud and fairly drunken, he saw no face turned his way. The hall itself was deserted. Then he heard a hurl of wind, a dash of [[Rain|rain]] on the hall window. With a rapidity worthy of a greater game, and to him most unusual, he whisked the garment from the chair, slipped into the shadow of the door, struggled into the Green Overcoat with a wriggle that seemed to him to last five weeks — it was, as a fact, a conjuror’s trick for smartness — and it was on! The Devil saw to it that it fitted.
+Professor Higginson shot a sin-laden and frightened glance towards the light and the noise and the music within. No one was in sight. Through the open door of the rooms, whence the sound of the party came loud and fairly drunken, he saw no face turned his way. The hall itself was deserted. Then he heard a hurl of wind, a dash of [[motifs/rain|rain]] on the hall window. With a rapidity worthy of a greater game, and to him most unusual, he whisked the garment from the chair, slipped into the shadow of the door, struggled into the Green Overcoat with a wriggle that seemed to him to last five weeks — it was, as a fact, a conjuror’s trick for smartness — and it was on! The Devil saw to it that it fitted.
 
 It was all right. He would pretend some mistake, and send it back the very first thing next morning; nay, he would be an honest man, and send it back at once by a messenger the moment he found out his mistake on getting to his lodgings. So wealthy an overcoat could only belong to a great man — a man who would stay late, very late. Come, the Green Overcoat would be back again in that house before its owner had elected to move. He would be no wiser! There was no harm done, and he could not walk as he was through the rain.
 
@@ -134,7 +134,7 @@ The driver’s back showed a black square against the lamp-lit rain. He heard, o
 
 The beating rain outside blurred the window-panes, and the pace at which they drove forbade the Philosopher any but the vaguest guesses at the road and the whereabouts.
 
-The public lights of the town had long since been left behind; rapid turns had begun to suggest country lanes, when, after a sharper jolt than usual, the [[Machine|machine]] curved warily through a gate into a narrow way, the brakes were put on sharply, the clutch was thrown out, and the cab stopped dead. It was halted and its [[Machine|machine]] was panting down in some garden, the poverty and neglect of which glared under the acetylene lamps. — The disordered, weedy gravel of the place and its ragged laurels stood out unnaturally, framed in the thick darkness. The edge of the light just caught the faded brick corner of an old house.
+The public lights of the town had long since been left behind; rapid turns had begun to suggest country lanes, when, after a sharper jolt than usual, the [[motifs/machine|machine]] curved warily through a gate into a narrow way, the brakes were put on sharply, the clutch was thrown out, and the cab stopped dead. It was halted and its [[motifs/machine|machine]] was panting down in some garden, the poverty and neglect of which glared under the acetylene lamps. — The disordered, weedy gravel of the place and its ragged laurels stood out unnaturally, framed in the thick darkness. The edge of the light just caught the faded brick corner of an old house.
 
 Professor Higginson had barely a second in which to note a flight of four dirty stone steps leading to a door in the shadow, when his captors spoke for the first time.
 
@@ -1286,7 +1286,7 @@ It was Babcock who broke it.
 
 But for the next half hour he was at the telephone again, talking to London and to the Ancient Aristocracy of Britain and to The Howl.
 
-When he rose from the [[Machine|machine]] it was just eleven. The Howl prints news up to two o’clock. Smart Rag!
+When he rose from the [[motifs/machine|machine]] it was just eleven. The Howl prints news up to two o’clock. Smart Rag!
 
 Next morning (Friday), when he came downstairs, Professor Higginson received a slight but very unpleasant shock. It was a shock of a kind one does not often receive.
 
@@ -3355,7 +3355,7 @@ L’elefante è costoso, così come il cappotto. L’elefante ha un’espression
 
 Ancora una volta, l’uomo, in combinazione con l’elefante, ne viene nobilitato da tale unione, sia che viaggi sul suo dorso, sul suo collo o cammini al suo fianco, proprio come fa il custode dello zoo. Lo stesso vale per i cappotti: indossarli o portarli sulle braccia aggiunge qualcosa al nostro aspetto. Potrei elencare molti altri punti in comune, se solo questa parte del mio lavoro fosse redditizia, e potesse essere considerata un vero “affare”; ma non lo è, quindi devo concludere. Vi ricordo che gli elefanti probabilmente invecchiano (anche se nessuno ha mai visto accadere), così come i cappotti; inoltre, gli elefanti hanno diversi sessi, proprio come i cappotti. D’altra parte, un cappotto non ha piedi e può avere due code o nessuna, mentre l’elefante ha quattro piedi e soltanto una coda, e per di più molto corta.
 
-# Devo concludere spiegandovi perché ho parlato di un “cappotto” e non di un “grande cappotto”.
+Devo concludere spiegandovi perché ho parlato di un “cappotto” e non di un “grande cappotto”.
 
 “Greatcoat” è un termine più colloquiale; “overcoat”, invece, mi sembra avere un tono più “imperiale”. Ma non è stato questo il motivo per cui ho scritto “overcoat”. L’ho fatto perché questa parola presenta una struttura sillabica simile e quasi lo stesso schema di accentazione (“wow!”) della parola “elephant”. Ovviamente, se avessi considerato la lunghezza delle sillabe e il valore vocalico, le cose sarebbero state diverse: “elephant” è composto da tre sillabe brevi, mentre “overcoat” da una breve, una lunga e una breve. La prima sillaba di “overcoat” è, beh, potremmo chiamarla una sorta di “um”, mentre la seconda è, una specie di “thingumbob”.
 
@@ -3390,9 +3390,9 @@ Professor Higginson sidled aimlessly into the study that was doing duty as a clo
 
 Was it gone? The Professor of Psychology was a learned man, and his sense of reality was not always exact. Had he come in that Inverness after all? — . — . — . The more he thought about it the less certain he was.
 
-He remembered that the May night, though very cold, had been fine as he came. He had no precise memory of taking off that Inverness or of hanging it up. He walked slowly, ruminating upon the great problem, towards the door of the hall; he inwardly congratulated himself that there was no servant present, and that he could go through the dreadful ordeal of leaving the house without suffering the scrutiny of a human being. No carriage had yet drawn up. He opened the door, and was appalled to be met by a violent gust and a bitter, cold, driving [[Rain|rain]].
+He remembered that the May night, though very cold, had been fine as he came. He had no precise memory of taking off that Inverness or of hanging it up. He walked slowly, ruminating upon the great problem, towards the door of the hall; he inwardly congratulated himself that there was no servant present, and that he could go through the dreadful ordeal of leaving the house without suffering the scrutiny of a human being. No carriage had yet drawn up. He opened the door, and was appalled to be met by a violent gust and a bitter, cold, driving [[motifs/rain|rain]].
 
-Now the Professor of Psychology was, like the domestic cat, of simple tastes, but he hated [[Rain|rain]] even more than does that animal. It bitterly disagreed with him, and worse still, the oddity of walking through the streets in evening clothes through a raging downpour, with a large expanse of white shirt all drenched, was more than his nerves could bear.
+Now the Professor of Psychology was, like the domestic cat, of simple tastes, but he hated [[motifs/rain|rain]] even more than does that animal. It bitterly disagreed with him, and worse still, the oddity of walking through the streets in evening clothes through a raging downpour, with a large expanse of white shirt all drenched, was more than his nerves could bear.
 
 He was turning round irresolutely to seek once again for that Inverness, which he was now more confident than ever was not there, when the Devil, who has great power in these affairs, presented to his eyes, cast negligently over a chair, a GREEN OVERCOAT of singular magnificence.
 
@@ -3402,7 +3402,7 @@ Now the Devil during all Professor Higginson’s life had had but trifling fun w
 
 The Green Overcoat appeared for a few seconds seductive, then violently alluring, next — and in a very few seconds — irresistible.
 
-Professor Higginson shot a sin-laden and frightened glance towards the light and the noise and the music within. No one was in sight. Through the open door of the rooms, whence the sound of the party came loud and fairly drunken, he saw no face turned his way. The hall itself was deserted. Then he heard a hurl of wind, a dash of [[Rain|rain]] on the hall window. With a rapidity worthy of a greater game, and to him most unusual, he whisked the garment from the chair, slipped into the shadow of the door, struggled into the Green Overcoat with a wriggle that seemed to him to last five weeks — it was, as a fact, a conjuror’s trick for smartness — and it was on! The Devil saw to it that it fitted.
+Professor Higginson shot a sin-laden and frightened glance towards the light and the noise and the music within. No one was in sight. Through the open door of the rooms, whence the sound of the party came loud and fairly drunken, he saw no face turned his way. The hall itself was deserted. Then he heard a hurl of wind, a dash of [[motifs/rain|rain]] on the hall window. With a rapidity worthy of a greater game, and to him most unusual, he whisked the garment from the chair, slipped into the shadow of the door, struggled into the Green Overcoat with a wriggle that seemed to him to last five weeks — it was, as a fact, a conjuror’s trick for smartness — and it was on! The Devil saw to it that it fitted.
 
 It was all right. He would pretend some mistake, and send it back the very first thing next morning; nay, he would be an honest man, and send it back at once by a messenger the moment he found out his mistake on getting to his lodgings. So wealthy an overcoat could only belong to a great man — a man who would stay late, very late. Come, the Green Overcoat would be back again in that house before its owner had elected to move. He would be no wiser! There was no harm done, and he could not walk as he was through the rain.
 
@@ -3433,7 +3433,7 @@ Se n'era andato davvero? Il Professore di Psicologia era un uomo colto, ma la su
 
 Ricordava che quella notte di maggio, sebbene molto fredda, era stata serena quando era arrivato. Non aveva un ricordo preciso di aver tolto quel cappotto Inverness o di averlo appeso da qualche parte. Camminava lentamente, riflettendo su quel grande problema, verso la porta dell’ingresso; si compiacque in cuor suo che non ci fosse nessun domestico nei paraggi, così avrebbe potuto affrontare quella terribile situazione di lasciare la casa senza essere osservato da nessuno. Nessuna carrozza era ancora arrivata. Aprì la porta e rimase sbalordito dal violento vento e dalla pioggia fredda e battente che lo investì all’istante.
 
-Ora il Professore di Psicologia aveva gusti semplici, proprio come un gatto domestico, ma odiava la [[Rain|pioggia]] ancora di più di quel animale. La pioggia gli causava grande disagio; peggio ancora, l’idea di dover camminare per le strade in abiti da sera sotto una pioggia battente, con la camicia bianca completamente bagnata, era qualcosa che i suoi nervi non riuscivano a sopportare.
+Ora il Professore di Psicologia aveva gusti semplici, proprio come un gatto domestico, ma odiava la [[motifs/rain|pioggia]] ancora di più di quel animale. La pioggia gli causava grande disagio; peggio ancora, l’idea di dover camminare per le strade in abiti da sera sotto una pioggia battente, con la camicia bianca completamente bagnata, era qualcosa che i suoi nervi non riuscivano a sopportare.
 
 Stava per voltarsi di nuovo, indeciso, nella speranza di ritrovare quell’Inverness che ora era ancora più convinto non esistesse affatto, quando il Diavolo, che ha grande potere in queste faccende, gli fece vedere, gettato negligentemente su una sedia, un cappotto verde di straordinaria magnificenza.
 
@@ -3443,7 +3443,7 @@ Finora, durante tutta la vita del professor Higginson, il Diavolo aveva solo sch
 
 Il Cappotto Verde apparve per qualche secondo in modo seducente, poi in modo violentemente allettante; e subito dopo – in pochissimi secondi – divenne irresistibile.
 
-Il professor Higginson lanciò uno sguardo pieno di timore e perplessità verso la luce, il rumore e la musica che provenivano dall’interno della stanza. Non c’era nessuno in vista. Attraverso la porta aperta, da dove provenivano i suoni della festa, sentiva il rumore crescente, ma nessun volto si girava verso di lui. L’intero corridoio era deserto. Poi sentì un soffio di vento e le gocce di [[Rain|pioggia]] battere contro la finestra del corridoio. Con una rapidità degna di un gioco più importante, e per lui assolutamente insolita, afferrò il cappotto dalla sedia, si nascose nell’ombra della porta e, con movimenti frenetici che gli sembrarono durare cinque settimane, indossò il cappotto verde! Il Diavolo stesso si era assicurato che gli andasse a pennello.
+Il professor Higginson lanciò uno sguardo pieno di timore e perplessità verso la luce, il rumore e la musica che provenivano dall’interno della stanza. Non c’era nessuno in vista. Attraverso la porta aperta, da dove provenivano i suoni della festa, sentiva il rumore crescente, ma nessun volto si girava verso di lui. L’intero corridoio era deserto. Poi sentì un soffio di vento e le gocce di [[motifs/rain|pioggia]] battere contro la finestra del corridoio. Con una rapidità degna di un gioco più importante, e per lui assolutamente insolita, afferrò il cappotto dalla sedia, si nascose nell’ombra della porta e, con movimenti frenetici che gli sembrarono durare cinque settimane, indossò il cappotto verde! Il Diavolo stesso si era assicurato che gli andasse a pennello.
 
 Non c’era alcun problema. Avrebbe finto di aver commesso un errore e l’avrebbe restituita la mattina seguente; anzi, sarebbe stato onesto e l’avrebbe inviata subito via messaggero non appena si fosse reso conto dell’errore arrivando al suo alloggio. Un cappotto così costoso poteva appartenere solo a una persona importante, a qualcuno che rimaneva fuori fino a tardi, molto tardi. Ebbene, il “Cappotto Verde” sarebbe tornato in quella casa prima ancora che il suo proprietario decidesse di traslocare. Lui non avrebbe capito nulla! Non era stato fatto alcun danno, e comunque non poteva certo camminare sotto la pioggia così come era.
 
@@ -3462,11 +3462,11 @@ He had just time to begin, “I beg your—” when he felt each wrist held in a
 
 Professor Higginson’s thoughts were drawn out of their daily groove. His brain raced and pulsed, then halted, and projected one clear decision — which was to sit quite quiet and do nothing.
 
-The driver’s back showed a black square against the lamp-lit [[Rain|rain]]. He heard, or would hear, nothing. He paid no heed to the motions within, but steered furiously through the storm. For ten good minutes nothing changed.
+The driver’s back showed a black square against the lamp-lit [[motifs/rain|rain]]. He heard, or would hear, nothing. He paid no heed to the motions within, but steered furiously through the storm. For ten good minutes nothing changed.
 
-The beating [[Rain|rain]] outside blurred the window-panes, and the pace at which they drove forbade the Philosopher any but the vaguest guesses at the road and the whereabouts.
+The beating [[motifs/rain|rain]] outside blurred the window-panes, and the pace at which they drove forbade the Philosopher any but the vaguest guesses at the road and the whereabouts.
 
-The public lights of the town had long since been left behind; rapid turns had begun to suggest country lanes, when, after a sharper jolt than usual, the [[Machine|machine]] curved warily through a gate into a narrow way, the brakes were put on sharply, the clutch was thrown out, and the cab stopped dead. It was halted and its [[Machine|machine]] was panting down in some garden, the poverty and neglect of which glared under the acetylene lamps. — The disordered, weedy gravel of the place and its ragged laurels stood out unnaturally, framed in the thick darkness. The edge of the light just caught the faded brick corner of an old house.
+The public lights of the town had long since been left behind; rapid turns had begun to suggest country lanes, when, after a sharper jolt than usual, the [[motifs/machine|machine]] curved warily through a gate into a narrow way, the brakes were put on sharply, the clutch was thrown out, and the cab stopped dead. It was halted and its [[motifs/machine|machine]] was panting down in some garden, the poverty and neglect of which glared under the acetylene lamps. — The disordered, weedy gravel of the place and its ragged laurels stood out unnaturally, framed in the thick darkness. The edge of the light just caught the faded brick corner of an old house.
 
 Professor Higginson had barely a second in which to note a flight of four dirty stone steps leading to a door in the shadow, when his captors spoke for the first time.
 
@@ -3515,7 +3515,7 @@ La schiena del conducente appariva come un quadrato nero contro la luce della pi
 
 La pioggia battente all’esterno offuscava i vetri delle finestre, e la velocità con cui viaggiavano impediva al Filosofo di fare altro che ipotesi molto vaghe riguardo alla strada e alla loro posizione.
 
-Le luci pubbliche della città erano da tempo state abbandonate; dopo alcune curve rapide che sembravano condurre su strade di campagna, l’[[Machine|veicolo]] fece una curva improvvisa attraverso un cancello, entrando in un sentiero stretto. I freni furono azionati bruscamente, il cambio lasciato libero e la cabina si fermò completamente. Il veicolo si trovava ora in un giardino, il cui stato di povertà e abbandono era evidente sotto le luci ad acetilene. Il terreno accidentato e ricoperto di erbacce, insieme ai rami spezzati degli allori, spiccavano in modo innaturale nell’oscurità densa. Il raggio di luce raggiungeva appena l’angolo in mattoni sbiaditi di una vecchia casa.
+Le luci pubbliche della città erano da tempo state abbandonate; dopo alcune curve rapide che sembravano condurre su strade di campagna, l’[[motifs/machine|veicolo]] fece una curva improvvisa attraverso un cancello, entrando in un sentiero stretto. I freni furono azionati bruscamente, il cambio lasciato libero e la cabina si fermò completamente. Il veicolo si trovava ora in un giardino, il cui stato di povertà e abbandono era evidente sotto le luci ad acetilene. Il terreno accidentato e ricoperto di erbacce, insieme ai rami spezzati degli allori, spiccavano in modo innaturale nell’oscurità densa. Il raggio di luce raggiungeva appena l’angolo in mattoni sbiaditi di una vecchia casa.
 
 Il professor Higginson ebbe appena il tempo di notare una serie di quattro gradini di pietra sporchi che conducevano a una porta nell’ombra, quando i suoi rapitori parlarono per la prima volta.
 
@@ -3525,7 +3525,7 @@ Il Professore annuì con il suo bavaglio, emettendo una voce simile al lontano m
 
 Non appena i suoi piedi furono liberi, sferrò un calcio violento contro colui che lo teneva prigioniero (che a malapena riuscì a schivarlo), emise attraverso il bavaglio un suono cupo e pieno di rabbia; nello stesso istante fu scaraventato a terra con violenza, le gambe che si agitavano in tutte le direzioni. L’autore di questa manovra era proprio il gentiluomo che gli teneva i polsi dietro la schiena; e mentre lo faceva, emise una strana voce acuta, che contrastava stranamente con la forza che aveva appena dimostrato.
 
-#"Colpiscilo, Jimmy! Colpiscilo in faccia!"
+"Colpiscilo, Jimmy! Colpiscilo in faccia!"
 
 “Non ancora,” disse Jimmy con un tono minaccioso. “Sollevalo su, Melba!”
 
@@ -3905,7 +3905,7 @@ Dopo aver detto una parola sciocca, il Professore ne seguì subito un'altra anco
 
 “Lauderdale”
 
-# Crampton Park, Ormeston
+Crampton Park, Ormeston
 
 Melba consegnò con solennità il libretto degli assegni a Jimmy, e i due giovani si sedettero di nuovo di fronte al loro “creditore involontario”, dispiegando il libretto davanti a loro in modo molto imponente.
 
@@ -3997,7 +3997,7 @@ Davvero, è stata un’idea geniale! Si sentiva più orgoglioso di sé che mai: 
 
 Questo attacco di flanco da parte del Male decise il destino del Filosofo. Con voce sommessa, ruppe il lungo silenzio e disse:
 
-#"Dammi la penna!"
+"Dammi la penna!"
 
 Jimmy immerse solennemente la penna nell'inchiostro e gliela porse, senza lasciare andare il libretto degli assegni, ma strappando invece il modulo dell’assegno affinché potesse firmarlo; e mentre lo faceva, il “Serpente” invisibile sorrise. Con una mano quanto più decisa possibile, il Professor Higginson scrisse deliberatamente nell’angolo in basso a destra le parole fatale: “JOHN BRASSINGTON”.
 
@@ -4108,7 +4108,7 @@ When Mr. Brassington had come to the end of a sentence and made something of a p
 
 “I have arranged to take the night mail,” he said gravely. “I shall walk down. Will you come to the station with me?”
 
-“Oh, yes!” said Mr. Kirby briskly. “ It’ll give me a nice walk back again all through the [[Rain|rain]]. If you think all that about Algernon you shouldn’t have sent him to Cambridge.”
+“Oh, yes!” said Mr. Kirby briskly. “ It’ll give me a nice walk back again all through the [[motifs/rain|rain]]. If you think all that about Algernon you shouldn’t have sent him to Cambridge.”
 
 “I sent him to Cambridge by your advice, Kirby,” said Mr. Brassington with dignity.
 
@@ -4199,7 +4199,7 @@ Quando il signor Brassington giunse alla fine di una frase e fece una specie di 
 
 «Ho stabilito di prendere il postale della notte» disse gravemente. «Ci andrò a piedi. Vuoi venire con me alla stazione?»
 
-«Oh, sì!» disse il signor Kirby con vivacità. «Mi farà fare una bella camminata di ritorno sotto la [[Rain|pioggia]]. Se pensi tutto questo di Algernon, non avresti dovuto mandarlo a Cambridge.»
+«Oh, sì!» disse il signor Kirby con vivacità. «Mi farà fare una bella camminata di ritorno sotto la [[motifs/rain|pioggia]]. Se pensi tutto questo di Algernon, non avresti dovuto mandarlo a Cambridge.»
 
 «L'ho mandato a Cambridge su tuo consiglio, Kirby» disse il signor Brassington con dignità.
 
@@ -4352,7 +4352,7 @@ John Brassington smiled palely.
 
 “Now, John,” said Charles Kirby firmly, “don’t make a fool of yourself. Don’t ask for that coat. It’s the one way not to get it. Stay where you are, and I’ll bring you news.” He went out, and in five minutes he came back with news.
 
-“Fifty people went out before we got up, John. No one knows who they were. The idiot at the door could only remember the Quaker lot and My-lord, and Perkin’s so fussed that he can do nothing but swear, and that’s no use. You’ve simply got to come along with me, and we’ll walk home through the [[Rain|rain]]. Take Belgium at your leisure.”
+“Fifty people went out before we got up, John. No one knows who they were. The idiot at the door could only remember the Quaker lot and My-lord, and Perkin’s so fussed that he can do nothing but swear, and that’s no use. You’ve simply got to come along with me, and we’ll walk home through the [[motifs/rain|rain]]. Take Belgium at your leisure.”
 
 “It isn’t Belgium that’s worrying me!” said poor Mr. Brassington.
 
@@ -4360,7 +4360,7 @@ John Brassington smiled palely.
 
 The two men went out into the night and the storm. Charles Kirby enjoyed bad weather; it was part of his manifold perversity. He tried to whistle in the teeth of the wind as they went along the main road towards the Crampton Park suburb of the town. Brassington strode at his side.
 
-“You didn’t order a carriage,” said Kirby after a little while; “you didn’t know it was going to [[Rain|rain]]. I suppose that Green Overcoat of yours has got luck in the lining?”
+“You didn’t order a carriage,” said Kirby after a little while; “you didn’t know it was going to [[motifs/rain|rain]]. I suppose that Green Overcoat of yours has got luck in the lining?”
 
 “It has a cheque-book of mine in the pocket,” said John Brassington.
 
@@ -4427,7 +4427,7 @@ Prese fuori un decantatore di brandy, gettò nel fuoco il fondo della bottiglia 
 
 “Sempre dimentico la tua ultima passione, John,” disse; “ma se fossi un medico ti consiglierei di berlo.”
 
-# John Brassington bevve un po’ di brandy, e il signor Kirby continuò…
+John Brassington bevve un po’ di brandy, e il signor Kirby continuò…
 
 “Non preoccuparti del Belgio stasera, ragazzo mio. Prima di tutto, prendi il mio cappotto. Sono più astuto di te in queste situazioni: non lo appendo nemmeno a un gancio. Lo lascio qui,” disse, avvicinandosi dietro una tenda e tirandolo fuori.
 
@@ -4443,7 +4443,7 @@ John Brassington sorrise pallidamente.
 
 “Ora, John,” disse Charles Kirby con fermezza, “non fare la figura dello sciocco. Non chiedere quel cappotto. È l’unico modo per non ottenerlo. Resta dove sei, e ti porterò notizie.” Uscì e in cinque minuti tornò con delle novità.
 
-“Cinquanta persone se ne sono andate prima che ci alzassimo, John. Nessuno sa chi fossero. Quell’idiota alla porta ricorda solo quel gruppo di Quaker e, mio Dio, Perkin è così agitato che non riesce a fare altro che imprecare, ma questo non serve a nulla. Devi semplicemente venire con me e torneremo a casa sotto la [[Rain|pioggia]]. Prenditi tutto il tempo che vuoi per attraversare il Belgio.”
+“Cinquanta persone se ne sono andate prima che ci alzassimo, John. Nessuno sa chi fossero. Quell’idiota alla porta ricorda solo quel gruppo di Quaker e, mio Dio, Perkin è così agitato che non riesce a fare altro che imprecare, ma questo non serve a nulla. Devi semplicemente venire con me e torneremo a casa sotto la [[motifs/rain|pioggia]]. Prenditi tutto il tempo che vuoi per attraversare il Belgio.”
 
 “Non è il Belgio a preoccuparmi!” disse povero il signor Brassington.
 
@@ -4486,7 +4486,7 @@ The servant had seen nothing of it.
 
 “You ‘re a good friend, Charles,” said John Brassington, with meaning and simplicity. He had got a blow.
 
-“Meanwhile, John,” said Kirby, standing outside and dripping in the [[Rain|rain]], “remember it’s doing some other fellow heaps of good. Heaps and heaps and heaps! I should like a drink.”
+“Meanwhile, John,” said Kirby, standing outside and dripping in the [[motifs/rain|rain]], “remember it’s doing some other fellow heaps of good. Heaps and heaps and heaps! I should like a drink.”
 
 “Come in,” said Brassington again.
 
@@ -4519,7 +4519,7 @@ E dopo di ciò non si disse più nulla fino a quando non arrivarono alle porte d
 
 I due uomini percorsero il breve tragitto che conduceva alla porta principale. Quando questa fu aperta per loro, la prima cosa che il signor Brassington disse al suo servitore fu.
 
-#Qualcuno ha riportato il mio cappotto?
+Qualcuno ha riportato il mio cappotto?
 
 Il servitore non aveva visto nulla di tutto ciò.
 
@@ -4529,7 +4529,7 @@ Il servitore non aveva visto nulla di tutto ciò.
 
 “Sei un buon amico, Charles,” disse John Brassington, con significato e semplicità. Aveva ricevuto un colpo duro.
 
-“Intanto, John,” disse Kirby, fermo fuori sotto la [[Rain|pioggia]], “ricorda che sta facendo un sacco di bene anche ad altre persone. Un vero e proprio mucchio di bene! Mi andrebbe un bicchiere.”
+“Intanto, John,” disse Kirby, fermo fuori sotto la [[motifs/rain|pioggia]], “ricorda che sta facendo un sacco di bene anche ad altre persone. Un vero e proprio mucchio di bene! Mi andrebbe un bicchiere.”
 
 “Entri pure,” disse di nuovo Brassington.
 
@@ -4543,7 +4543,7 @@ Il servitore tenne la porta aperta per lui, e Brassington se ne andò; ma quando
 
 "#Chi hai parlato oggi riguardo al cappotto del tuo padrone?"
 
-#L’uomo fu così sorpreso che balbettò…
+L’uomo fu così sorpreso che balbettò…
 
 “Signore, non ho detto una parola! È stato il cocchiere a parlare con il giovane signore quando lui l’ha visto. Non l’ha preso in prestito, signore. Era un amico del signor Algernon.”
 
@@ -4592,7 +4592,7 @@ He was exhausted.
 
 He was exhausted; but the new day always brings some kind of vigour in its train, and the Professor began once more to think and to determine, though the soul within him was a wet rag and his morale wholly gone. He was angry, so far as a man can be properly angry when weakened by such extremes of ill. He hated now not only those two young men, but all men. He would be free. He had a right to freedom. He would recover his own freedom by whatever means, and when he had recovered it, then he would do dreadful deeds!
 
-There was no sound in the great lonely house. The [[Rain|rain]] outside had ceased. The ridiculous birds, grossly ignorant of his sorrows, were skreedling for dear life like ungreased cartwheels. It was a moment when wickedness has power, and oh! Professor Higginson, with firmer face than ever he had yet set, made up his mind to be free.
+There was no sound in the great lonely house. The [[motifs/rain|rain]] outside had ceased. The ridiculous birds, grossly ignorant of his sorrows, were skreedling for dear life like ungreased cartwheels. It was a moment when wickedness has power, and oh! Professor Higginson, with firmer face than ever he had yet set, made up his mind to be free.
 
 .... Once free, he would undo all ill and wreak his vengeance.
 
@@ -4639,7 +4639,7 @@ Era esausto.
 
 Era esausto; ma la nuova giornata portava sempre con sé qualche forma di energia, e il Professore iniziò nuovamente a pensare e a prendere decisioni, anche se l’anima dentro di lui era come un panno bagnato e il suo morale completamente distrutto. Era arrabbiato, nel senso in cui un uomo può essere veramente arrabbiato quando indebolito da estremi simili. Ora odiava non solo quei due giovani, ma tutti gli uomini. Voleva essere libero. Aveva il diritto alla libertà. Avrebbe recuperato la propria libertà con qualsiasi mezzo, e una volta riuscito in questo, avrebbe compiuto atti terribili!
 
-Non c'era alcun suono nella grande casa deserta. La [[Rain|pioggia]] all'esterno si era fermata. Quegli strani uccelli, completamente ignari delle sue sofferenze, strillavano disperatamente come ruote di carri non unte. Era un momento in cui il male aveva potere. E oh! Il professor Higginson, con un volto più deciso che mai, decise di liberarsi.
+Non c'era alcun suono nella grande casa deserta. La [[motifs/rain|pioggia]] all'esterno si era fermata. Quegli strani uccelli, completamente ignari delle sue sofferenze, strillavano disperatamente come ruote di carri non unte. Era un momento in cui il male aveva potere. E oh! Il professor Higginson, con un volto più deciso che mai, decise di liberarsi.
 
 . Una volta libero, avrebbe cancellato ogni male e vendicato se stesso.
 
@@ -5493,7 +5493,7 @@ Poi si ricordò, per sua grande fortuna, che c'erano testimoni del fatto che fos
 
 “Ah,” iniziò la signora Randle, “Dio solo sa, ha gridato così forte quando mi ha visto, ” ma il poliziotto non voleva sentire nulla di tutto ciò.
 
-# Pose questa terza domanda
+Pose questa terza domanda
 
 “Che ora potrebbe essere?”
 
@@ -5597,7 +5597,7 @@ Poi, poi, in un attimo di follia, fece quella cosa fatale. Fu un ricercatore di 
 
 “Garden aveva detto…”
 
-# Quali erano quei volti? Quali erano quelle voci? In che modo si differenziavano dai sogni?
+Quali erano quei volti? Quali erano quelle voci? In che modo si differenziavano dai sogni?
 
 Il professor Higginson sentì il punto critico.
 
@@ -5936,7 +5936,7 @@ It was Babcock who broke it.
 
 But for the next half hour he was at the telephone again, talking to London and to the Ancient Aristocracy of Britain and to The Howl.
 
-When he rose from the [[Machine|machine]] it was just eleven. The Howl prints news up to two o’clock. Smart Rag!
+When he rose from the [[motifs/machine|machine]] it was just eleven. The Howl prints news up to two o’clock. Smart Rag!
 
 Next morning (Friday), when he came downstairs, Professor Higginson received a slight but very unpleasant shock. It was a shock of a kind one does not often receive.
 
@@ -6003,7 +6003,7 @@ C’era un vuoto nella loro conversazione: fine alle pressioni di Babcock, fine 
 
 Ma per il resto di quella mezz’ora rimase di nuovo al telefono, parlando con Londra, con l’Antica Aristocrazia della Gran Bretagna e con The Howl.
 
-Quando uscì dalla [[Machine|macchina]], erano appena le undici. “Howl” pubblica le notizie fino alle due del pomeriggio. Che ottimo giornale!
+Quando uscì dalla [[motifs/machine|macchina]], erano appena le undici. “Howl” pubblica le notizie fino alle due del pomeriggio. Che ottimo giornale!
 
 La mattina seguente (venerdì), quando scese al piano di sotto, il professor Higginson ricevette una scossa leggera ma molto sgradevole. Era un tipo di scossa che non si riceve spesso.
 
@@ -6080,7 +6080,7 @@ As they passed the door of the University Common Room, Babcock halted and said�
 
 “All right,” said Babcock, not insisting. “Charles will see you home. I ought to have told you, this is my wife’s brother Charles; he’s a parson,” he added rudely, as though the external signs of that profession were absent. “You go with him, Charles. It’s on your way. Tell Clara I’m coming. Back before one.”
 
-And George Babcock the strong pushed through the swing doors of the Club, and left his brother-in-law and his colleague in the [[Rain|rain]] outside. —
+And George Babcock the strong pushed through the swing doors of the Club, and left his brother-in-law and his colleague in the [[motifs/rain|rain]] outside. —
 
 Professor Higginson and the religious person walked for a few minutes in silence. For one thing the Philosopher did not know the name of the minister, and it was the minister who first broke that silence.
 
@@ -6090,7 +6090,7 @@ Professor Higginson had never in his life been rude to a man at the first meetin
 
 “Yes,” he said. — . — .— “after a fashion.”
 
-“Ah!” said the Reverend Charles, and they went on another fifty yards in silence through the [[Rain|rain]]. The streets were quite deserted.
+“Ah!” said the Reverend Charles, and they went on another fifty yards in silence through the [[motifs/rain|rain]]. The streets were quite deserted.
 
 Professor Higginson was appalled to find his companion’s hand laid firmly upon his shoulder; the other hand held the umbrella above. The parson looked immensely into his eyes.
 
@@ -6108,7 +6108,7 @@ The Reverend Charles began talking very loudly to himself, not in the half-tones
 
 And here he shook his head as gravely as he had nodded it.
 
-The [[Rain|rain]] still fell. The wet street still stretched out before them.
+The [[motifs/rain|rain]] still fell. The wet street still stretched out before them.
 
 “It has been given to many men,” began the Reverend Charles again in a totally different tone, this time the intellectual interrogative, “to see the hidden places, but your chance?”
 
@@ -6151,7 +6151,7 @@ Mentre superavano la porta della sala comune dell’università, Babcock si ferm
 
 “Va bene,” disse Babcock, senza insistere. “Charles ti accompagnerà a casa. Avrei dovuto dirtelo: è il fratello di mia moglie, Charles; è un pastore,” aggiunse in modo brusco, come se i segni esteriori di quella professione non esistessero affatto. “Vai con lui, Charles. È sulla tua strada. Dì a Clara che tornerò prima dell’una.”
 
-E George Babcock, quel forte uomo, entrò con forza attraverso le porte a battenti del club, lasciando suo cognato e il suo collega fuori, sotto la [[Rain|pioggia]].
+E George Babcock, quel forte uomo, entrò con forza attraverso le porte a battenti del club, lasciando suo cognato e il suo collega fuori, sotto la [[motifs/rain|pioggia]].
 
 Il professor Higginson e la persona religiosa camminarono in silenzio per alcuni minuti. Innanzitutto, il filosofo non conosceva il nome del pastore, ed fu proprio il pastore ad essere il primo a rompere quel silenzio.
 
@@ -6161,7 +6161,7 @@ Il professor Higginson non aveva mai, in tutta la sua vita, comportato siché sc
 
 “Sì,” disse. — . — .— “in un certo senso.”
 
-“Ah!” disse il Reverendo Charles, e continuarono per altri cinquanta metri in silenzio sotto la [[Rain|pioggia]]. Le strade erano completamente deserte.
+“Ah!” disse il Reverendo Charles, e continuarono per altri cinquanta metri in silenzio sotto la [[motifs/rain|pioggia]]. Le strade erano completamente deserte.
 
 Il professor Higginson rimase sconvolto nel vedere la mano del suo compagno posata fermamente sulla sua spalla; l’altra mano teneva l’ombrello sopra di loro. Il pastore lo guardò negli occhi con grande intensità.
 
@@ -6179,7 +6179,7 @@ Il reverendo Charles iniziò a parlare molto ad alta voce da solo, non con quei 
 
 E qui scosse la testa con la stessa serietà con cui l'aveva fatta oscillare in segno di assenso.
 
-La [[Rain|pioggia]] continuava a cadere. La strada bagnata si estendeva ancora davanti a loro.
+La [[motifs/rain|pioggia]] continuava a cadere. La strada bagnata si estendeva ancora davanti a loro.
 
 “Molti uomini hanno avuto questa opportunità,” riprese il reverendo Charles con un tono completamente diverso, questa volta un tono intellettuale e interrogativo, “di vedere quei luoghi nascosti. Ma tu? Hai avuto questa possibilità?”
 
@@ -6202,7 +6202,7 @@ Fu allora che il professor Higginson notò, in piedi nel piccolo e modesto corri
 
 “What?” snapped the Professor, still holding the Parson’s hand, like the handle of a pump.
 
-“May I see you a moment? I represent The Sunday [[Machine]].”
+“May I see you a moment? I represent The Sunday [[motifs/machine|Machine]].”
 
 “No,” thundered Professor Higginson, dropping the reverend hand in his excitement. “I’m tired, it’s not lunch time yet, I don’t know what you mean!”
 
@@ -6218,7 +6218,7 @@ Professor Higginson was at the end of his patience. He said sharply —
 
 “You must come again! You must come again! This isn’t the moment.”
 
-In another minute he would have apologised for his abruptness, but the little journalist had pride and had already gone out, without an umbrella, thrusting his pathetic little note-book into his threadbare pocket; and the Reverend brother-in-law, after giving one great revealing look into the darkness of the hall, had gone out also. Professor Higginson heard the door slam behind him: — His curiosity prompted him to gaze upon them out of a window. They were going off together through the [[Rain|rain]], into the heart of the town, and it seemed to the Philosopher that the Parson was more animated than before. He turned to his companion continually, and his gestures were broad. More fame was brewing!
+In another minute he would have apologised for his abruptness, but the little journalist had pride and had already gone out, without an umbrella, thrusting his pathetic little note-book into his threadbare pocket; and the Reverend brother-in-law, after giving one great revealing look into the darkness of the hall, had gone out also. Professor Higginson heard the door slam behind him: — His curiosity prompted him to gaze upon them out of a window. They were going off together through the [[motifs/rain|rain]], into the heart of the town, and it seemed to the Philosopher that the Parson was more animated than before. He turned to his companion continually, and his gestures were broad. More fame was brewing!
 
 All that Friday afternoon he kept his room.
 
@@ -6275,7 +6275,7 @@ Il piccolo giornalista, non essendo del tutto sicuro di cosa dovesse fare, affer
 
 “Devi tornare ancora! Devi tornare ancora… Non è il momento giusto.”
 
-In un altro minuto avrebbe sicuramente chiesto scusa per la sua bruschezza, ma quel piccolo giornalista aveva troppo orgoglio e se n’era già andato, senza ombrello, infilando il suo misero taccuino nella tasca logora dei suoi vestiti; anche il reverendo cognato, dopo aver gettato uno sguardo nel buio del corridoio, se n’era andato a sua volta. Il professor Higginson sentì la porta chiudersi alle sue spalle: la curiosità lo spinse a guardarli da una finestra. Stavano andando via insieme, sotto la [[Rain|pioggia]], verso il centro della città, e al filosofo sembrò che il pastore fosse più animato del solito. Si girava continuamente verso il suo compagno, e i suoi gesti erano eloquenti. Una grande fama stava per arrivare!
+In un altro minuto avrebbe sicuramente chiesto scusa per la sua bruschezza, ma quel piccolo giornalista aveva troppo orgoglio e se n’era già andato, senza ombrello, infilando il suo misero taccuino nella tasca logora dei suoi vestiti; anche il reverendo cognato, dopo aver gettato uno sguardo nel buio del corridoio, se n’era andato a sua volta. Il professor Higginson sentì la porta chiudersi alle sue spalle: la curiosità lo spinse a guardarli da una finestra. Stavano andando via insieme, sotto la [[motifs/rain|pioggia]], verso il centro della città, e al filosofo sembrò che il pastore fosse più animato del solito. Si girava continuamente verso il suo compagno, e i suoi gesti erano eloquenti. Una grande fama stava per arrivare!
 
 Quel venerdì pomeriggio, rimase tutto il tempo nella sua stanza.
 
@@ -6446,7 +6446,7 @@ But the heavy Babcock had organising power.
 
 “You ought to have — a man of your position,” said Babcock. They had reached the door. “I’ll come in and help you,” he added.
 
-He did so. He set to work at once did Babcock — strongly and well. He reproved his unhappy colleague again for not having a telephone, sent out a servant in a cab with the address of a shorthand writer and of a typist, newspaper people obtainable of a Sunday, and he ordered a [[Machine|machine]]. Then he proceeded with tremendous rapidity to slice open the great heap of envelopes with a butter knife.
+He did so. He set to work at once did Babcock — strongly and well. He reproved his unhappy colleague again for not having a telephone, sent out a servant in a cab with the address of a shorthand writer and of a typist, newspaper people obtainable of a Sunday, and he ordered a [[motifs/machine|machine]]. Then he proceeded with tremendous rapidity to slice open the great heap of envelopes with a butter knife.
 
 He sorted out their contents at a pace that appalled and yet fascinated the Professor of Psychology. By the time the assistants had come he had them in four heaps: ——
 
@@ -6549,7 +6549,7 @@ Ma il potente Babcock possedeva un forte potere organizzativo.
 
 “Dovresti averlo, uno nella tua posizione,” disse Babcock. Erano arrivati alla porta. “Entrerò ad aiutarti,” aggiunse.
 
-Lo fece subito. Babcock si mise all’opera immediatamente, con energia e efficacia. Rimproverò di nuovo il suo sfortunato collega per non avere un telefono, mandò un servitore in taxi con l’indirizzo di una stenografa e di una dattilografa, persone disponibili anche di domenica, e ordinò una [[Machine|macchina]] per scrivere. Poi procedette con estrema rapidità a tagliare quel enorme mucchio di buste usando un coltello da burro.
+Lo fece subito. Babcock si mise all’opera immediatamente, con energia e efficacia. Rimproverò di nuovo il suo sfortunato collega per non avere un telefono, mandò un servitore in taxi con l’indirizzo di una stenografa e di una dattilografa, persone disponibili anche di domenica, e ordinò una [[motifs/machine|macchina]] per scrivere. Poi procedette con estrema rapidità a tagliare quel enorme mucchio di buste usando un coltello da burro.
 
 Organizzò i loro contenuti con una velocità che, sebbene spaventosa, affascinava profondamente il Professore di Psicologia. Quando arrivarono gli assistenti, lui li aveva già divisi in quattro mucchi: ——
 
@@ -6725,7 +6725,7 @@ Scrisse qualche parola a matita su un pezzo di carta e lo spinse verso il Profes
 
 “Ecco,” disse, “copialo tu stesso con la tua mano. Se fossi al tuo posto, non scriverei mai nulla del genere a macchina, e lo scriverei su carta dell’Università.”
 
-#Il professor Higginson esaminò la nota e lesse…
+Il professor Higginson esaminò la nota e lesse…
 
 “Mio caro signor Barclay, sarò davvero molto felice. Penso che mercoledì sia una buona notte. Lo fissiamo per mercoledì? A meno che non riceva mie notizie, considererò la cosa decisa; e naturalmente, al solito orario, da Gorton, ”
 
@@ -6848,7 +6848,7 @@ He looked at it stupidly for a moment, not understanding how such a prize should
 
 The sums that stood therein called to him like great heralds; they made his puny old chest heave and certain muscles in him grow rigid.
 
-He was in the midst of the tale when his whole being fainted within him, as it were — stopped dead at the noise of a violent [[Rain|rain]] of blows upon his outer door.
+He was in the midst of the tale when his whole being fainted within him, as it were — stopped dead at the noise of a violent [[motifs/rain|rain]] of blows upon his outer door.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7519,7 +7519,7 @@ Man mano che il signor Postlethwaite invecchiava, diventava sempre più spavento
 
 Se al signor Kirby non piacevano gli affari, di certo adorava le avventure. Il suo sorriso costante diventava ancora più vivace; il suo collo snello sembrava accorciarsi leggermente, e lui spingeva in avanti il mento con decisione, dicendo poi con un gesto della mano.
 
-#"Si sieda pure, signor Postlethwaite, sono completamente a sua disposizione."
+"Si sieda pure, signor Postlethwaite, sono completamente a sua disposizione."
 
 “Non mi siederò,” ruggì il temibile Postlethwaite. “Sei stato tu a mettermi in questa situazione, quindi devi essere tu ad aiutarmi ad uscirne!”
 
@@ -7554,7 +7554,7 @@ Mr. Kirby put up his hand.
 
 “What?” shouted Mr. Postlethwaite, “everything I tell you! Skylight, chairs, everything. Broken chair in the garden with a lot of sheets tied on. Damned foolery! Broken chairs, broken glass, empty bottle, beastly dirty mess of food. Now,” he added, with rising passion, “I’ll have the law on this, and it’s you who did it, Kirby, it’s you persuaded me!”
 
-“Mr. Postlethwaite,” said Mr. Kirby quietly, “what I did try to persuade you was to spend a little money on the place. As you wouldn’t, and as a tramp wouldn’t look at it, I advised you to let it to those young fellows for a month. I knew all about them, at least one of them, the one who came to me — James McAuley. He’s perfectly all right. Said he wanted to paint with his friend. I know his father, big doctor in London. Boy was at Cambridge. They ‘re as right as [[Rain|rain]], Postlethwaite. If they’ve hurt your property we can get compensation. The month’s not up by a long while, and hang it, I did get you prepayment!”
+“Mr. Postlethwaite,” said Mr. Kirby quietly, “what I did try to persuade you was to spend a little money on the place. As you wouldn’t, and as a tramp wouldn’t look at it, I advised you to let it to those young fellows for a month. I knew all about them, at least one of them, the one who came to me — James McAuley. He’s perfectly all right. Said he wanted to paint with his friend. I know his father, big doctor in London. Boy was at Cambridge. They ‘re as right as [[motifs/rain|rain]], Postlethwaite. If they’ve hurt your property we can get compensation. The month’s not up by a long while, and hang it, I did get you prepayment!”
 
 “We can’t get compensation?” huffed Mr. Postlethwaite. “I shall!”
 
@@ -7637,7 +7637,7 @@ Il signor Kirby alzò la mano.
 
 “Appena arrivato”, disse l’anziano Postlethwaite con uno sguardo furioso, “tutto distrutto! Rotto! Raso al suolo!”
 
-# Hai trovato qualche lettera, o biglietto, o qualcosa del genere?
+Hai trovato qualche lettera, o biglietto, o qualcosa del genere?
 
 “Niente. Ve l’avevo detto, completamente vuoto. E c’è anche un pezzo di corda sporca gettato tra le travi,” aggiunse, come se quella fosse la cosa peggiore e ultima delle sue lamentele. “Dove sono quei giovani mascalzoni?”
 
@@ -8139,7 +8139,7 @@ Dopo aver detto questo, si preparò ad andarsene.
 
 Il signor Brassington era ancora confuso. Non rispose nulla e fece per uscire.
 
-#Il signor Kirby non lo trattenne, ma proprio mentre il suo amico stava aprendo la porta, disse…
+Il signor Kirby non lo trattenne, ma proprio mentre il suo amico stava aprendo la porta, disse…
 
 “Brassington, potrebbe mostrarmi la controfaccia di quel assegno?”
 
@@ -8177,7 +8177,7 @@ Disse:
 
 Successivamente disse:
 
-# C’è qualche altro ispettore lì?
+C’è qualche altro ispettore lì?
 
 La terza cosa che disse fu…
 
@@ -8635,7 +8635,7 @@ Il signor Kirby annuì in segno di accordo. “Non credo che dovrei rubarvi anco
 
 “Temo che non serva a nulla,” disse il professor Higginson, e fece per uscire.
 
-# Era già alla porta quando il signor Kirby aggiunse…
+Era già alla porta quando il signor Kirby aggiunse…
 
 “Professore Higginson, ho promesso a alcuni amici di chiederle di venire a cena a Londra dopo la sua lezione. È stato un po’ audace da parte mia, ma sapevano che vivevo a Ormeston. Mi chiedo se possa permettermelo. Devo scriverle? Sarò al Rockingham; forse potrò dirle qualcosa di più, magari scoprire qualcosa.”
 
@@ -8809,7 +8809,7 @@ Non capiva questa razza che non era la sua, ma sapeva perfettamente che il signo
 
 “Silenzio!” tuonò il signor Kirby verso il suo connazionale, e il signor Lipsky ne fu molto grato.
 
-# Mr. Lipsky continuò con impazienza —
+Mr. Lipsky continuò con impazienza —
 
 “Va tutto bene, signor Kirby. C’è il libretto degli assegni nella tasca. È per questo che lo sapevo!”
 
@@ -8940,7 +8940,7 @@ Good Lord! He could imagine one or two terribly urgent things in connection with
 
 Twice more and once again did poor Jimmy implore the voice, but Mr. Kirby knew the nature of man, especially of youthful man. He had not attempted to persuade. In the study of his own house at Ormeston he had already replaced the receiver, and was taking down from the book-shelf a volume of Moliere. He loved that author, and there was a good two hours before he need meet the night mail at the station.
 
-After a quarrel with the clerk-in-charge and sundry foolish troubles, Jimmy abandoned the [[Machine|machine]]. He came back to his two companions. They were in the thick of some silly vinous argument or other. They looked up at his entry, and they saw that he was changed.
+After a quarrel with the clerk-in-charge and sundry foolish troubles, Jimmy abandoned the [[motifs/machine|machine]]. He came back to his two companions. They were in the thick of some silly vinous argument or other. They looked up at his entry, and they saw that he was changed.
 
 “What’s matter, Jimmy?” said Melba.
 
@@ -9097,7 +9097,7 @@ Mio Dio! Poteva immaginare uno o due problemi terribilmente urgenti legati a Gre
 
 Ancora due volte e ancora una volta il povero Jimmy implorò quella voce, ma il signor Kirby conosceva la natura umana, soprattutto quella dei giovani. Non aveva cercato di convincerlo. Nella sua stanza da studio a Ormeston aveva già sostituito il ricevitore e stava prendendo dallo scaffale un volume di Molière. Amava quell’autore, e mancavano ancora almeno due ore prima che dovesse andare alla stazione a ritirare la posta della sera.
 
-Dopo una lite con il responsabile del negozio e varie altre situazioni ridicole, Jimmy abbandonò la [[Machine|macchina]]. Tornò dai suoi due compagni, che erano immersi in qualche stupida discussione a proposito di vino o altro. Alzando lo sguardo al suo arrivo, notarono che era cambiato.
+Dopo una lite con il responsabile del negozio e varie altre situazioni ridicole, Jimmy abbandonò la [[motifs/machine|macchina]]. Tornò dai suoi due compagni, che erano immersi in qualche stupida discussione a proposito di vino o altro. Alzando lo sguardo al suo arrivo, notarono che era cambiato.
 
 “Che c’è, Jimmy?” chiese Melba.
 
@@ -9355,7 +9355,7 @@ McAuley, il problema è, naturalmente non ti biasimo, ma dovrai renderti conto d
 
 Jimmy non sentì una parola; stava pensando a cose molto più importanti.
 
-# Mr. Kirby continuò —
+Mr. Kirby continuò —
 
 “Certo che avrei pagato e mi sarei poi messo in contatto con voi, signore.”
 
@@ -9890,11 +9890,11 @@ They all filed into Mr. Kirby’s private sitting-room, and they found it conven
 
 As for their host, he began fussing about like a man who is arranging a meeting of directors, and finally took his seat at the head of the large table.
 
-“I think you’d better sit here, Brassington,” he said, pointing to a chair on his right. “And you, Professor Higginson, would you come here?” pointing to the chair upon his left. “The rest,” he added abruptly, “can sit where they like. My lord! it’s beginning to [[Rain|rain]]!”
+“I think you’d better sit here, Brassington,” he said, pointing to a chair on his right. “And you, Professor Higginson, would you come here?” pointing to the chair upon his left. “The rest,” he added abruptly, “can sit where they like. My lord! it’s beginning to [[motifs/rain|rain]]!”
 
 They sat awkwardly round him. Mr. Brassington, at least, was used enough to his irrelevancy not to notice the last remark, but Professor Higginson stared. He had had enough to do with mental aberration in the last few days; he didn’t want any more of it.
 
-“It’s beginning to [[Rain|rain]],” continued Mr. Kirby, turning to Mr. Brassington, “and I’m sure you didn’t bring your Overcoat. It’s May, and you didn’t think you’d want it. Well, I’ve taken the liberty of an old friend, and I’ve got it here; it’s hanging up.” He jerked his head backwards.
+“It’s beginning to [[motifs/rain|rain]],” continued Mr. Kirby, turning to Mr. Brassington, “and I’m sure you didn’t bring your Overcoat. It’s May, and you didn’t think you’d want it. Well, I’ve taken the liberty of an old friend, and I’ve got it here; it’s hanging up.” He jerked his head backwards.
 
 They followed his gesture with their eyes, and sure enough the Green Overcoat was hanging there ponderously and silently upon a peg. It had one will and one purpose, and it had accomplished it: it had found its master.
 
@@ -9973,11 +9973,11 @@ Tutti entrarono nella sala da pranzo privata del signor Kirby e la trovarono abb
 
 Per quanto riguarda il loro ospite, iniziò a fare le cose con grande cura, come se stesse organizzando una riunione di dirigenti, e infine si sedette a capo del grande tavolo.
 
-“Penso che sia meglio che vi sediate qui, Brassington,” disse, indicando una sedia a destra. “E voi, Professor Higginson, volete venire qui?” aggiunse, indicando la sedia a sinistra. “Gli altri,” concluse bruscamente, “possono sedersi dove vogliono. Mio signore, sta iniziando a [[Rain|>piovere]]!”
+“Penso che sia meglio che vi sediate qui, Brassington,” disse, indicando una sedia a destra. “E voi, Professor Higginson, volete venire qui?” aggiunse, indicando la sedia a sinistra. “Gli altri,” concluse bruscamente, “possono sedersi dove vogliono. Mio signore, sta iniziando a [[motifs/rain|>piovere]]!”
 
 Si sedettero intorno a lui in modo imbarazzato. Almeno il signor Brassington era abbastanza abituato alla propria irrilevanza da non notare l’ultima osservazione, ma il professor Higginson fissava la scena con attenzione. Negli ultimi giorni aveva già avuto a che fare a sufficienza con le anomalie mentali; non ne voleva più sentire parlare.
 
-“Sta iniziando a [[Rain|>piovere]],” continuò il signor Kirby, rivolgendosi al signor Brassington, “e sono sicuro che non avete portato il vostro cappotto. È maggio. Non pensavate certo di averne bisogno. Beh, ho preso l’iniziativa su suggerimento di un vecchio amico: l’ho qui; è appeso lì.” Fece un gesto con la testa indicando il punto in cui si trovava il cappotto.
+“Sta iniziando a [[motifs/rain|>piovere]],” continuò il signor Kirby, rivolgendosi al signor Brassington, “e sono sicuro che non avete portato il vostro cappotto. È maggio. Non pensavate certo di averne bisogno. Beh, ho preso l’iniziativa su suggerimento di un vecchio amico: l’ho qui; è appeso lì.” Fece un gesto con la testa indicando il punto in cui si trovava il cappotto.
 
 Seguirono con lo sguardo il suo gesto, e infatti il Cappotto Verde era lì, appeso pesantemente e in silenzio su un gancio. Aveva una volontà e uno scopo, e li aveva realizzati: aveva trovato il suo padrone.
 
@@ -10167,9 +10167,9 @@ Quanto caldo era il suo pelo. Quanto antico e confortevole quel modo tradizional
 
 “Te lo lascio fare, Kirby,” disse con una voce diversa. “Se mi muovo, farò del male a tutti; se resto fermo, salverò ottomila sterline, e vincerò.”
 
-# Mentre si stavano avvicinando alla porta, all’improvviso il signor Brassington aggiunse…
+Mentre si stavano avvicinando alla porta, all’improvviso il signor Brassington aggiunse…
 
-# Mio Dio! Cosa sto facendo con questo cappotto? Pensavo di uscire…
+Mio Dio! Cosa sto facendo con questo cappotto? Pensavo di uscire…
 
 “Non importa,” disse il signor Kirby, “toglitela di nuovo. Le cose familiari rimangono. Sono le uniche cose che veramente esistono.”
 

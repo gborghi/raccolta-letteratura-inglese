@@ -16,17 +16,17 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Poe*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A love lyric: amid the woes of his earthly path the speaker finds solace in the memory of the beloved, likened to a serene enchanted isle in a stormy sea. Themes of love, consolation and melancholy.
 
 ## Connections
 
-**Topoi:** [[Unattainable Beloved]]
-**Motifs:** [[Love]], [[Sea]], [[Rose]]
-**Themes & Concepts:** [[Romantic Love]], [[Melancholy]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]]
+**Motifs:** [[motifs/love|Love]], [[motifs/sea|Sea]], [[motifs/rose|Rose]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/melancholy|Melancholy]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

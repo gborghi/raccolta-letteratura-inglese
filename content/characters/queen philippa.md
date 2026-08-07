@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/queen-philippa"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/edward-iii-(shakespeare)|EDWARD III (Shakespeare)]]
+
+</div>
+
 #graph/character

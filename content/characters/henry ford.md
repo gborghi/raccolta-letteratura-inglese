@@ -14,4 +14,12 @@ American industrialist named directly by Chesterton as proof that champions of '
 
 <div class="concept-works" data-slug="characters/henry-ford"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/on-abolishing-sunday-(chesterton)|On Abolishing Sunday (Chesterton)]]
+- [[works/sanity-(chesterton)|Sanity (Chesterton)]]
+- [[works/whatisawinamerica-(chesterton)|WhatISawInAmerica (Chesterton)]]
+
+</div>
+
 #graph/character

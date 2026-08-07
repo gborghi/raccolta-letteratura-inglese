@@ -22,7 +22,7 @@ tags:
   - concept/self_sufficiency
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Grace and Redemption · Humility · Bread and Wine Eucharist]]
+*by Chesterton*  ·  **Cluster:** [[clusters/grace-and-redemption-·-humility-·-bread-and-wine-eucharist|Grace and Redemption · Humility · Bread and Wine Eucharist]]
 
 > [!abstract] 
 > An essay using birthdays to argue, against Shaw, that human life rests on receptivity, gratitude and inheritance rather than on the modern urge to 'make' a religion or cosmos.
@@ -41,11 +41,11 @@ tags:
 
 ## Connections
 
-**Characters:** [[Bernard Shaw]], [[Job]]
+**Characters:** [[historical-references/bernard-shaw|Bernard Shaw]], [[characters/job|Job]]
 
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Humility]], [[Critique of Progress]], [[Joy]], [[Providence]], [[Self and Cosmos]], [[Pride]], [[Self-Sufficiency]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Historical References:** [[Bible]]
+**Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/humility|Humility]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/joy|Joy]], [[concepts/providence|Providence]], [[concepts/self-and-cosmos|Self and Cosmos]], [[concepts/pride|Pride]], [[concepts/self-sufficiency|Self-Sufficiency]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/bible|Bible]]
 
 ## Testo integrale / Full text
 

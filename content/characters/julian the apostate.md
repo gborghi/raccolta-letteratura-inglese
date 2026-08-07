@@ -14,4 +14,10 @@ The emperor who tried to restore paganism, central to the chapter on the 'first 
 
 <div class="concept-works" data-slug="characters/julian-the-apostate"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/everlasting-man-(chesterton)|everlasting man (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -16,7 +16,7 @@ tags:
   - form/satire
 ---
 
-*by Poe*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
+*by Poe*  ·  **Cluster:** [[clusters/temptation-·-good-vs-evil-·-serpent-snake|Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 
 > A flippant comic tale in which a dandified Duc dies of gourmandise, finds himself before the Devil in Hell, and wins his soul back at cards; a satire of foppery and a playful treatment of damnation.
@@ -26,11 +26,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Satanic Figure]]
-**Motifs:** [[Food and Feasting]], [[Death]]
-**Themes & Concepts:** [[Satire of Society]], [[Temptation]]
-**Forms & Genres:** [[Satire]]
-**Settings:** [[Underworld Cave]]
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]]
+**Motifs:** [[motifs/food-and-feasting|Food and Feasting]], [[motifs/death|Death]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/temptation|Temptation]]
+**Forms & Genres:** [[forms/satire|Satire]]
+**Settings:** [[settings/underworld-cave|Underworld Cave]]
 
 ## Testo integrale / Full text
 

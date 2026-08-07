@@ -12,4 +12,13 @@ tags:
 
 <div class="concept-works" data-slug="concepts/metamorphosis-transformation"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/praise-of-dust-(chesterton)|praise of dust (Chesterton)]]
+- [[works/the-uses-of-diversity-(chesterton)|The Uses of Diversity (Chesterton)]]
+- [[works/to-frances-(chesterton)|to-frances (Chesterton)]]
+- [[testi/dickinson/atomized/self-knowledge-immortality-self-reliance#1099_my_cocoon_tightens_colors_tease|1099. My Cocoon tightens — Colors tease — (Dickinson)]]
+
+</div>
+
 #graph/concept

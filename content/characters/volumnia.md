@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/volumnia"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/coriolanus-(shakespeare)|CORIOLANUS (Shakespeare)]]
+
+</div>
+
 #graph/character

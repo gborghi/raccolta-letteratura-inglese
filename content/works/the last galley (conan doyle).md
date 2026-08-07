@@ -34,7 +34,7 @@ tags:
   - topos/sic_transit_gloria_mundi
   - topos/fortunes_wheel
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Historical Novel · War and its Cost · Honour and Chivalry]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/historical-novel-·-war-and-its-cost-·-honour-and-chivalry|Historical Novel · War and its Cost · Honour and Chivalry]]
 
 > [!abstract] 
 > A volume of historical 'impressions and tales' ranging from the destruction of Carthage's last fleet by Rome, to Nero's rigged singing contest at Olympia, to a Christian slave's martyrdom under Domitian, plus eight independent short stories. Doyle uses vivid historical vignettes to dramatize the rise and fall of empires as a warning parable for Britain.
@@ -64,10 +64,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Short Story]], [[Historical Novel]]
-**Themes & Concepts:** [[Empire and Imperialism]], [[War and its Cost]], [[Fate and Free Will]], [[Power and Corruption]], [[Faith and Doubt]], [[Justice Right and Wrong]], [[History]]
-**Motifs:** [[Ship]], [[Sea]], [[Fire]], [[Blood]], [[Time]], [[Sea and Voyage]]
-**Historical References:** [[Ancient Rome]], [[Roman History]], [[Carthage]], [[Christianity]]
-**Settings:** [[Ancient Rome]], [[Africa]]
-**Archetypes:** [[Tyrant]], [[Martyr Saint]], [[Avenger]]
-**Topoi:** [[Sic Transit Gloria Mundi]], [[Fortune's Wheel]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/historical-novel|Historical Novel]]
+**Themes & Concepts:** [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/history|History]]
+**Motifs:** [[motifs/ship|Ship]], [[motifs/sea|Sea]], [[motifs/fire|Fire]], [[motifs/blood|Blood]], [[motifs/time|Time]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[settings/ancient-rome|Ancient Rome]], [[historical-references/roman-history|Roman History]], [[historical-references/carthage|Carthage]], [[historical-references/christianity|Christianity]]
+**Settings:** [[settings/ancient-rome|Ancient Rome]], [[settings/africa|Africa]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/avenger|Avenger]]
+**Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/fortune's-wheel|Fortune's Wheel]]

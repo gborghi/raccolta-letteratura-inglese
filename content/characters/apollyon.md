@@ -14,4 +14,10 @@ The demonic antagonist of Pilgrim's Progress, quoted straddling the road and swe
 
 <div class="concept-works" data-slug="characters/apollyon"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/intro-pilgrims-progress-(chesterton)|intro-pilgrims-progress (Chesterton)]]
+
+</div>
+
 #graph/character

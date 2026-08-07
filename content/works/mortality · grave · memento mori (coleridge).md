@@ -37,22 +37,22 @@ tags:
 
 Raccolta tematica di 16 componimenti di Samuel Taylor Coleridge.
 
-- [[A HINT TO PREMIERS AND FIRST CONSULS (Coleridge)|A HINT TO PREMIERS AND FIRST CONSULS]]
-- [[ANOTHER VERSION. (Coleridge)|ANOTHER VERSION.]]
-- [[EPITAPH (Coleridge)|EPITAPH]]
-- [[EPITAPH ON A BAD MAN (Coleridge)|EPITAPH ON A BAD MAN]]
-- [[EPITAPH ON AN INFANT (Coleridge)|EPITAPH ON AN INFANT]]
-- [[EPITAPH ON MAJOR DIEMAN (Coleridge)|EPITAPH ON MAJOR DIEMAN]]
-- [[EPITAPHIUM TESTAMENTARIUM (Coleridge)|EPITAPHIUM TESTAMENTARIUM]]
-- [[INSCRIPTION FOR A SEAT BY THE ROAD SIDE HALF-WAY UP A STEEP HILL FACING SOUTH (Coleridge)|INSCRIPTION FOR A SEAT BY THE ROAD SIDE HALF-WAY UP A STEEP HILL FACING SOUTH]]
-- [[LIFE (Coleridge)|LIFE]]
-- [[MORIENS SUPERSTITI (Coleridge)|MORIENS SUPERSTITI]]
-- [[ON AN INFANT WHICH DIED BEFORE BAPTISM (Coleridge)|ON AN INFANT WHICH DIED BEFORE BAPTISM]]
-- [[ON AN INSIGNIFICANT (Coleridge)|ON AN INSIGNIFICANT]]
-- [[THE HOUR-GLASS (Coleridge)|THE HOUR-GLASS]]
-- [[TRANSLATION OF A LATIN INSCRIPTION BY THE REV. W. L. BOWLES IN NETHER-STOWEY CHURCH (Coleridge)|TRANSLATION OF A LATIN INSCRIPTION BY THE REV. W. L. BOWLES IN NETHER-STOWEY CHURCH]]
-- [[UNDERWOODS (Coleridge)|UNDERWOODS]]
-- [[WHAT IS LIFE (Coleridge)|WHAT IS LIFE?]]
+- [[testi/coleridge/atomized/mortality-grave-memento-mori#339_a_hint_to_premiers_and_first_consuls|A HINT TO PREMIERS AND FIRST CONSULS]]
+- [[testi/coleridge/atomized/mortality-grave-memento-mori#399_another_version|ANOTHER VERSION.]]
+- [[testi/coleridge/atomized/mortality-grave-memento-mori#304_epitaph|EPITAPH]]
+- [[testi/coleridge/atomized/mortality-grave-memento-mori#331_epitaph_on_a_bad_man|EPITAPH ON A BAD MAN]]
+- [[testi/coleridge/atomized/mortality-grave-memento-mori#241_epitaph_on_an_infant_1|EPITAPH ON AN INFANT]]
+- [[testi/coleridge/atomized/mortality-grave-memento-mori#329_epitaph_on_major_dieman|EPITAPH ON MAJOR DIEMAN]]
+- [[testi/coleridge/atomized/mortality-grave-memento-mori#278_epitaphium_testamentarium|EPITAPHIUM TESTAMENTARIUM]]
+- [[testi/coleridge/atomized/mortality-grave-memento-mori#194_inscription_for_a_seat_by_the_road_side_half-way_up_a_steep_hill_facing_south|INSCRIPTION FOR A SEAT BY THE ROAD SIDE HALF-WAY UP A STEEP HILL FACING SOUTH]]
+- [[testi/coleridge/atomized/mortality-grave-memento-mori#010_life|LIFE]]
+- [[testi/coleridge/atomized/mortality-grave-memento-mori#060_moriens_superstiti|MORIENS SUPERSTITI]]
+- [[testi/coleridge/atomized/mortality-grave-memento-mori#172_on_an_infant_which_died_before_baptism|ON AN INFANT WHICH DIED BEFORE BAPTISM]]
+- [[testi/coleridge/atomized/mortality-grave-memento-mori#310_on_an_insignificant|ON AN INSIGNIFICANT]]
+- [[testi/coleridge/atomized/mortality-grave-memento-mori#425_the_hour-glass|THE HOUR-GLASS]]
+- [[testi/coleridge/atomized/mortality-grave-memento-mori#133_translation_of_a_latin_inscription_by_the_rev_w_l_bowles_in_nether-stowey_church|TRANSLATION OF A LATIN INSCRIPTION BY THE REV. W. L. BOWLES IN NETHER-STOWEY CHURCH]]
+- [[testi/coleridge/atomized/mortality-grave-memento-mori#424_underwoods|UNDERWOODS]]
+- [[testi/coleridge/atomized/mortality-grave-memento-mori#225_what_is_life|WHAT IS LIFE?]]
 
 ## Testo / Text
 

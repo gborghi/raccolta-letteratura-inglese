@@ -14,4 +14,10 @@ Author of 'The Origin of Species' whose theory of natural selection is attacked 
 
 <div class="concept-works" data-slug="characters/darwin"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-persecution-of-religion-(chesterton)|The Persecution of Religion (Chesterton)]]
+
+</div>
+
 #graph/character

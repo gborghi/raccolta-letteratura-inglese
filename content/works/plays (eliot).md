@@ -13,16 +13,16 @@ tags:
   - histref/medieval_england
 ---
 
-*by Eliot*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
+*by Eliot*  ·  **Cluster:** [[clusters/blood-·-verse-drama-·-revenge|Blood · Verse Drama · Revenge]]
 
 > [!abstract] 
 > Section header for Eliot's verse drama; the present text is Murder in the Cathedral, the martyrdom of Thomas Becket.
 
 ## Connections
 
-**Themes & Concepts:** [[Martyrdom]]
-**Forms & Genres:** [[Verse Drama]]
-**Historical References:** [[Christianity]], [[Medieval England]]
+**Themes & Concepts:** [[concepts/martyrdom|Martyrdom]]
+**Forms & Genres:** [[forms/verse-drama|Verse Drama]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/medieval-england|Medieval England]]
 
 ## Testo integrale / Full text
 

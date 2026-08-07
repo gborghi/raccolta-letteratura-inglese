@@ -25,7 +25,7 @@ tags:
 
 # rotarians
 
-*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Chesterton*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A set of satirical epigrams mocking the Rotary Club's empty business-praise, using the wheel as emblem of circular argument and St Catherine's martyrdom for contrast. Satire of commercialism and modern boosterism.
@@ -36,16 +36,16 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Declaration of Independence]]
+**Historical References:** [[historical-references/declaration-of-independence|Declaration of Independence]]
 
-**Settings:** [[America]]
+**Settings:** [[settings/america|America]]
 
-**Characters:** [[St. Catherine of Alexandria]]
+**Characters:** [[characters/st.-catherine-of-alexandria|St. Catherine of Alexandria]]
 
-**Archetypes:** [[Martyr Saint]]
-**Motifs:** [[Wheel]], [[Money and Gold]]
-**Themes & Concepts:** [[Satire of Society]], [[Martyrdom]], [[Deception]], [[Power of Language]], [[Money and Avarice]], [[Economics]]
-**Forms & Genres:** [[Epigram]], [[Satire]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
+**Motifs:** [[motifs/wheel|Wheel]], [[motifs/money-and-gold|Money and Gold]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/martyrdom|Martyrdom]], [[concepts/deception|Deception]], [[concepts/power-of-language|Power of Language]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/epigram|Epigram]], [[forms/satire|Satire]]
 
 ## Testo integrale / Full text
 

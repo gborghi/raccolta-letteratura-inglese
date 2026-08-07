@@ -20,7 +20,7 @@ Of Ermine is his doublet —
 His Capuchin gay —  
 
 He reaches town at nightfall —  
-He stops at every [[Door|door]] —  
+He stops at every [[motifs/door|door]] —  
 Who looks for him at morning  
 I pray him too — explore  
 The Lark's pure territory —  
@@ -35,7 +35,7 @@ D'Ermellino è il suo farsetto —
 Il suo Cappuccio gaio —  
 
 Giunge in città al calar della notte —  
-Si ferma a ogni [[Door|porta]] —  
+Si ferma a ogni [[motifs/door|porta]] —  
 Chi lo cerca al mattino  
 Io lo prego pure — di esplorare  
 Il puro territorio dell'Allodola —  
@@ -47,11 +47,11 @@ O la riva della Pavoncella!
 
 
 I had some things that I called mine —  
-And [[God]], that he called his,  
+And [[characters/god|God]], that he called his,  
 Till, recently a rival Claim  
 Disturbed these amities.  
 
-The property, my [[Garden|garden]],  
+The property, my [[motifs/garden|garden]],  
 Which having sown with care,  
 He claims the pretty acre,  
 And sends a Bailiff there.  
@@ -64,17 +64,17 @@ Than arms, or pedigree.
 I'll institute an "Action" —  
 I'll vindicate the law —  
 Jove! Choose your counsel —  
-I retain "[[Shaw]]"!
+I retain "[[works/shaw-(chesterton)|Shaw]]"!
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Avevo alcune cose che chiamavo mie —  
-E [[God]], alcune che chiamava sue,  
+E [[characters/god|God]], alcune che chiamava sue,  
 Finché, di recente, una Pretesa rivale  
 Turbò queste amicizie.  
 
-La proprietà, il mio [[Garden|giardino]],  
+La proprietà, il mio [[motifs/garden|giardino]],  
 Che avendo seminato con cura,  
 Egli reclama il grazioso acro,  
 E vi manda un Balivo.  
@@ -87,7 +87,7 @@ Di armi, o lignaggio.
 Intenterò una "Causa" —  
 Rivendicherò la legge —  
 Giove! Scegli il tuo avvocato —  
-Io ingaggio "[[Shaw]]"!
+Io ingaggio "[[works/shaw-(chesterton)|Shaw]]"!
 
 
 
@@ -96,7 +96,7 @@ Io ingaggio "[[Shaw]]"!
 
 A wounded deer leaps highest,  
 I've heard the hunter tell ;  
-'T is but the ecstasy of [[Death|death]],  
+'T is but the ecstasy of [[motifs/death|death]],  
 And then the brake is still.  
 
 The smitten rock that gushes,  
@@ -106,7 +106,7 @@ Just where the hectic stings!
 
 Mirth is the mail of anguish,  
 In which it cautions arm,  
-Lest anybody spy the [[Blood|blood]]  
+Lest anybody spy the [[motifs/blood|blood]]  
 And "You're hurt" exclaim!
 
 
@@ -114,7 +114,7 @@ And "You're hurt" exclaim!
 
 Un cervo ferito balza più alto,  
 L'ho udito dire dal cacciatore ;  
-Non è che l'estasi della [[Death|morte]],  
+Non è che l'estasi della [[motifs/death|morte]],  
 E poi la macchia tace.  
 
 La roccia percossa che sgorga,  
@@ -124,7 +124,7 @@ Proprio dove la febbre punge!
 
 L'allegria è la maglia dell'angoscia,  
 In cui con cautela s'arma,  
-Che nessuno scorga il [[Blood|sangue]]  
+Che nessuno scorga il [[motifs/blood|sangue]]  
 Ed esclami "Sei ferito"!
 
 
@@ -142,13 +142,13 @@ Sometime, upon a bough,
 From which he doth descend in plush  
 Upon the Passer-by!  
 
-All this in [[Summer|summer]].  
+All this in [[motifs/summer|summer]].  
 But when winds alarm the Forest Folk,  
 He taketh Damask Residence —  
 And struts in sewing silk!  
 
 Then, finer than a Lady,  
-Emerges in the [[spring]]!  
+Emerges in the [[motifs/spring|spring]]!  
 A Feather on each shoulder!  
 You'd scarce recognize him!  
 
@@ -170,13 +170,13 @@ Talvolta, sopra un ramo,
 Da cui discende in peluche  
 Sul Passante!  
 
-Tutto questo in [[Summer|estate]].  
+Tutto questo in [[motifs/summer|estate]].  
 Ma quando i venti allarmano il Popolo della Foresta,  
 Prende Residenza di Damasco —  
 E incede in seta da cucito!  
 
 Poi, più fine d'una Dama,  
-Emerge in [[spring|primavera]]!  
+Emerge in [[motifs/spring|primavera]]!  
 Una Piuma su ogni spalla!  
 A stento lo riconosceresti!  
 
@@ -192,27 +192,27 @@ Della Farfalla!
 
 I have never seen "Volcanoes" —  
 But, when Travellers tell  
-How those old — phlegmatic [[Mountains|mountains]]  
+How those old — phlegmatic [[settings/mountains|mountains]]  
 Usually so still —  
 
 Bear within — appalling Ordnance,  
-[[Fire]], and smoke, and gun,  
+[[motifs/fire|Fire]], and smoke, and gun,  
 Taking Villages for breakfast,  
 And appalling Men —  
 
 If the stillness is Volcanic  
 In the human face  
-When upon a [[Pain|pain]] [[titanic|Titanic]]  
+When upon a [[motifs/pain|pain]] Titanic  
 Features keep their place —  
 
 If at length the smouldering anguish  
 Will not overcome —  
 And the palpitating Vineyard  
-In the [[Dust|dust]], be thrown?  
+In the [[motifs/dust|dust]], be thrown?  
 
 If some loving Antiquary,  
 On Resumption Morn,  
-Will not cry with [[Joy|joy]] "Pompeii"!  
+Will not cry with [[concepts/joy|joy]] "Pompeii"!  
 To the Hills return!
 
 
@@ -220,27 +220,27 @@ To the Hills return!
 
 Non ho mai visto "Vulcani" —  
 Ma, quando i Viaggiatori narrano  
-Come quelle vecchie — flemmatiche [[Mountains|montagne]]  
+Come quelle vecchie — flemmatiche [[settings/mountains|montagne]]  
 Di solito così quiete —  
 
 Rechino dentro — spaventosa Artiglieria,  
-[[Fire|Fuoco]], e fumo, e cannone,  
+[[motifs/fire|Fuoco]], e fumo, e cannone,  
 Prendendo Villaggi a colazione,  
 E atterrendo gli Uomini —  
 
 Se la quiete è Vulcanica  
 Nel volto umano  
-Quando su un [[Pain|dolore]] [[titanic|Titanico]]  
+Quando su un [[motifs/pain|dolore]] Titanico  
 I lineamenti restano al loro posto —  
 
 Se alla fine l'angoscia che cova  
 Non avrà il sopravvento —  
 E la palpitante Vigna  
-Nella [[Dust|polvere]], sarà gettata?  
+Nella [[motifs/dust|polvere]], sarà gettata?  
 
 Se qualche amoroso Antiquario,  
 Nel Mattino della Resurrezione,  
-Non griderà con [[Joy|gioia]] "Pompei"!  
+Non griderà con [[concepts/joy|gioia]] "Pompei"!  
 Alle Colline ritorna!
 
 
@@ -253,7 +253,7 @@ It doesn't state you how
 It contemplated — smiling —  
 Just consummated — now —  
 But this one, wears its merriment  
-So patient — like a [[Pain|pain]] —  
+So patient — like a [[motifs/pain|pain]] —  
 Fresh gilded — to elude the eyes  
 Unqualified, to scan —
 
@@ -265,7 +265,7 @@ Non ti dichiara come
 Contemplava — sorridendo —  
 Solo consumato — ora —  
 Ma questo, porta la sua allegria  
-Così paziente — come una [[Pain|pena]] —  
+Così paziente — come una [[motifs/pain|pena]] —  
 Dorata di fresco — per eludere gli occhi  
 Non qualificati, a scrutare —
 
@@ -277,7 +277,7 @@ Non qualificati, a scrutare —
 A Charm invests a face  
 Imperfectly beheld —  
 The Lady dare not lift her Veil  
-For [[Fear|fear]] it be dispelled —  
+For [[concepts/fear|fear]] it be dispelled —  
 
 But peers beyond her mesh —  
 And wishes — and denies —  
@@ -290,7 +290,7 @@ That Image — satisfies —
 Un Fascino riveste un volto  
 Imperfettamente scorto —  
 La Dama non osa alzare il Velo  
-Per [[Fear|timore]] che si dissolva —  
+Per [[concepts/fear|timore]] che si dissolva —  
 
 Ma spia oltre la sua trama —  
 E desidera — e nega —  
@@ -304,13 +304,13 @@ Che l'Immagine — appaga —
 
 The Outer — from the Inner  
 Derives its Magnitude —  
-'Tis Duke, or [[Dwarf]], according  
+'Tis Duke, or [[characters/dwarf|Dwarf]], according  
 As is the Central Mood —  
 
 The fine — unvarying Axis  
-That regulates the [[Wheel]] —  
+That regulates the [[motifs/wheel|Wheel]] —  
 Though Spokes — spin — more conspicuous  
-And fling a [[Dust|dust]] — the while.  
+And fling a [[motifs/dust|dust]] — the while.  
 
 The Inner — paints the Outer —  
 The Brush without the Hand —  
@@ -327,13 +327,13 @@ Eyes were not meant to know.
 
 L'Esterno — dall'Interno  
 Deriva la sua Grandezza —  
-È Duca, o [[Dwarf|Nano]], a seconda  
+È Duca, o [[characters/dwarf|Nano]], a seconda  
 Di com'è l'Umore Centrale —  
 
 Il fine — invariabile Asse  
-Che regola la [[Wheel|Ruota]] —  
+Che regola la [[motifs/wheel|Ruota]] —  
 Benché i Raggi — girino — più vistosi  
-E gettino [[Dust|polvere]] — intanto.  
+E gettino [[motifs/dust|polvere]] — intanto.  
 
 L'Interno — dipinge l'Esterno —  
 Il Pennello senza la Mano —  
@@ -350,13 +350,13 @@ Occhi non eran fatti per saperlo.
 <span class="atom-split" data-atom="0500_within_my_garden_rides_a_bird" data-title="500. Within my Garden, rides a Bird" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/garden,motif/rose,motif/eyes_sight,concept/imagination,concept/appearance_vs_reality,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
-Within my [[Garden]], rides a Bird  
-Upon a single [[Wheel]] —  
+Within my [[motifs/garden|Garden]], rides a Bird  
+Upon a single [[motifs/wheel|Wheel]] —  
 Whose spokes a dizzy Music make  
 As 'twere a travelling Mill —  
 
 He never stops, but slackens  
-Above the Ripest [[Rose]] —  
+Above the Ripest [[motifs/rose|Rose]] —  
 Partakes without alighting  
 And praises as he goes,  
 
@@ -367,7 +367,7 @@ And I rejoin my Dog,
 
 And He and I, perplex us  
 If positive, 'twere we —  
-Or bore the [[Garden]] in the Brain  
+Or bore the [[motifs/garden|Garden]] in the Brain  
 This Curiosity —  
 
 But He, the best Logician,  
@@ -378,13 +378,13 @@ An Exquisite Reply!
 
 <span class="qlang-split" data-lang="it"></span>
 
-Nel mio [[Garden|Giardino]], cavalca un Uccello  
-Sopra una sola [[Wheel|Ruota]] —  
+Nel mio [[motifs/garden|Giardino]], cavalca un Uccello  
+Sopra una sola [[motifs/wheel|Ruota]] —  
 I cui raggi fanno una Musica di vertigine  
 Come fosse un Mulino in viaggio —  
 
 Mai non si ferma, ma rallenta  
-Sopra la [[Rose|Rosa]] più Matura —  
+Sopra la [[motifs/rose|Rosa]] più Matura —  
 Ne gusta senza posarsi  
 E loda mentre va,  
 
@@ -395,7 +395,7 @@ E io raggiungo il mio Cane,
 
 E Lui ed io, ci confondiamo  
 Se certi, fummo noi —  
-O se portò il [[Garden|Giardino]] nel Cervello  
+O se portò il [[motifs/garden|Giardino]] nel Cervello  
 Questa Curiosità —  
 
 Ma Lui, il miglior Logico,  
@@ -411,7 +411,7 @@ Una Risposta Squisita!
 Must be a Woe —  
 A loss or so —  
 To bend the eye  
-Best [[Beauty]]'s way —  
+Best [[concepts/beauty|Beauty]]'s way —  
 
 But — once aslant  
 It notes Delight  
@@ -425,7 +425,7 @@ Even as the Grace —
 
 Our lord — thought no  
 Extravagance  
-To pay — a [[Cross]] —
+To pay — a [[motifs/cross|Cross]] —
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -433,7 +433,7 @@ To pay — a [[Cross]] —
 Dev'esserci un Dolore —  
 Una perdita o giù di lì —  
 Per piegare l'occhio  
-Verso la via della miglior [[Beauty|Bellezza]] —  
+Verso la via della miglior [[concepts/beauty|Bellezza]] —  
 
 Ma — una volta obliquo  
 Nota la Delizia  
@@ -447,7 +447,7 @@ Pari quanto la Grazia —
 
 Nostro signore — non stimò  
 Stravaganza  
-Pagare — una [[Cross|Croce]] —
+Pagare — una [[motifs/cross|Croce]] —
 
 
 
@@ -461,11 +461,11 @@ A Guinea at a sight —
 
 The fine — impalpable Array —  
 That swaggers on the eye  
-Like [[Cleopatra]]'s Company —  
+Like [[characters/cleopatra|Cleopatra]]'s Company —  
 Repeated — in the sky —  
 
 The Moments of Dominion  
-That happen on the [[Soul]]  
+That happen on the [[motifs/soul|Soul]]  
 And leave it with a Discontent  
 Too exquisite — to tell —  
 
@@ -474,14 +474,14 @@ As if they just repressed
 Some Secret — that was pushing  
 Like Chariots — in the Vest —  
 
-The Pleading of the [[Summer]] —  
-That other Prank — of [[Snow]] —  
+The Pleading of the [[motifs/summer|Summer]] —  
+That other Prank — of [[motifs/snow|Snow]] —  
 That Cushions Mystery with Tulle,  
-For [[Fear|fear]] the Squirrels — know.  
+For [[concepts/fear|fear]] the Squirrels — know.  
 
 Their Graspless manners — mock us —  
 Until the Cheated Eye  
-Shuts arrogantly — in the [[Grave]] —  
+Shuts arrogantly — in the [[motifs/grave|Grave]] —  
 Another way — to see —
 
 
@@ -494,11 +494,11 @@ Una Ghinea per uno sguardo —
 
 La fine — impalpabile Schiera —  
 Che sfila superba sull'occhio  
-Come la Compagnia di [[Cleopatra]] —  
+Come la Compagnia di [[characters/cleopatra|Cleopatra]] —  
 Ripetuta — nel cielo —  
 
 I Momenti di Dominio  
-Che accadono all'[[Soul|Anima]]  
+Che accadono all'[[motifs/soul|Anima]]  
 E la lasciano con uno Scontento  
 Troppo squisito — da dire —  
 
@@ -507,14 +507,14 @@ Come se avessero appena represso
 Qualche Segreto — che premeva  
 Come Carri — nel Panciotto —  
 
-L'Implorare dell'[[Summer|Estate]] —  
-Quell'altra Burla — della [[Snow|Neve]] —  
+L'Implorare dell'[[motifs/summer|Estate]] —  
+Quell'altra Burla — della [[motifs/snow|Neve]] —  
 Che Imbottisce il Mistero di Tulle,  
-Per [[Fear|timore]] che gli Scoiattoli — sappiano.  
+Per [[concepts/fear|timore]] che gli Scoiattoli — sappiano.  
 
 I loro modi Inafferrabili — ci scherniscono —  
 Finché l'Occhio Ingannato  
-Non si chiude arrogante — nella [[Grave|Tomba]] —  
+Non si chiude arrogante — nella [[motifs/grave|Tomba]] —  
 Un altro modo — di vedere —
 
 
@@ -525,7 +525,7 @@ Un altro modo — di vedere —
 —  
 
 Whole Gulfs — of Red, and Fleets — of Red —  
-And Crews — of solid [[Blood]] —  
+And Crews — of solid [[motifs/blood|Blood]] —  
 Did place upon the West — Tonight —  
 As 'twere specific Ground —  
 
@@ -540,7 +540,7 @@ That bows — and disappears —
 —  
 
 Interi Golfi — di Rosso, e Flotte — di Rosso —  
-E Ciurme — di solido [[Blood|Sangue]] —  
+E Ciurme — di solido [[motifs/blood|Sangue]] —  
 Presero posto sull'Occidente — Stanotte —  
 Come fosse Suolo designato —  
 
@@ -558,17 +558,17 @@ DAY
 
 Drama's Vitallest Expression is the Common Day  
 That arise and set about Us —  
-Other [[Tragedy]]  
+Other [[forms/tragedy|Tragedy]]  
 
 Perish in the Recitation —  
 This — the best enact  
 When the Audience is scattered  
 And the Boxes shut —  
 
-"[[Hamlet]]" to Himself were [[Hamlet]] —  
-Had not [[Shakespeare]] wrote —  
-Though the "[[Romeo]]" left no Record  
-Of his [[Juliet]],  
+"[[characters/hamlet|Hamlet]]" to Himself were [[characters/hamlet|Hamlet]] —  
+Had not [[characters/shakespeare|Shakespeare]] wrote —  
+Though the "[[characters/romeo|Romeo]]" left no Record  
+Of his [[characters/juliet|Juliet]],  
 
 It were infinite enacted  
 In the Human Heart —  
@@ -582,17 +582,17 @@ GIORNO
 
 L'Espressione più Vitale del Dramma è il Giorno Comune  
 Che sorge e tramonta intorno a Noi —  
-Altra [[Tragedy|Tragedia]]  
+Altra [[forms/tragedy|Tragedia]]  
 
 Perisce nella Recitazione —  
 Questo — lo recitano al meglio  
 Quando il Pubblico è disperso  
 E i Palchi chiusi —  
 
-"[[Hamlet|Amleto]]" per Sé sarebbe stato [[Hamlet|Amleto]] —  
-Non avesse [[Shakespeare]] scritto —  
-Benché il "[[Romeo]]" non lasciasse Traccia  
-Della sua [[Juliet|Giulietta]],  
+"[[characters/hamlet|Amleto]]" per Sé sarebbe stato [[characters/hamlet|Amleto]] —  
+Non avesse [[characters/shakespeare|Shakespeare]] scritto —  
+Benché il "[[characters/romeo|Romeo]]" non lasciasse Traccia  
+Della sua [[characters/juliet|Giulietta]],  
 
 Sarebbe infinitamente recitato  
 Nel Cuore Umano —  
@@ -607,7 +607,7 @@ Il Proprietario non può chiudere —
 It dropped so low — in my Regard —  
 I heard it hit the Ground —  
 And go to pieces on the Stones  
-At [[Bottom|bottom]] of my Mind —  
+At [[characters/bottom|bottom]] of my Mind —  
 
 Yet blamed the Fate that flung it — less  
 Than I denounced Myself,  
@@ -620,7 +620,7 @@ Upon my Silver Shelf —
 Cadde così in basso — nella mia Stima —  
 Lo udii colpire il Suolo —  
 E andare in pezzi sulle Pietre  
-In [[Bottom|fondo]] alla mia Mente —  
+In [[characters/bottom|fondo]] alla mia Mente —  
 
 Eppure incolpai il Fato che lo scagliò — meno  
 Di quanto denunciai Me stessa,  
@@ -662,8 +662,8 @@ Svanito — appena conosciuto —
 
 Grief is a Mouse —  
 And chooses Wainscot in the Breast  
-For His Shy [[house|House]] —  
-And baffles [[Quest|quest]] —  
+For His Shy House —  
+And baffles [[topoi/quest|quest]] —  
 
 Grief is a Thief — quick startled —  
 Pricks His Ear — report to hear  
@@ -686,8 +686,8 @@ Since a Rack couldn't coax a syllable — now.
 
 Il Dolore è un Topo —  
 E sceglie il Rivestimento nel Petto  
-Per sua Timida [[house|Casa]] —  
-Ed elude la [[Quest|ricerca]] —  
+Per sua Timida Casa —  
+Ed elude la [[topoi/quest|ricerca]] —  
 
 Il Dolore è un Ladro — presto allarmato —  
 Tende l'Orecchio — per udire notizia  
@@ -784,18 +784,18 @@ And opens further on.
 He likes a boggy acre  
 A floor too cool for corn,  
 Yet when a boy and barefoot,  
-I more than once at [[Noon|noon]]  
+I more than once at [[motifs/noon|noon]]  
 Have passed, I thought, a whip lash,  
-Unbraiding in the [[Sun|sun]],  
+Unbraiding in the [[motifs/sun|sun]],  
 When stooping to secure it,  
 It wrinkled and was gone.  
 
-Several of [[Nature|nature]]'s people  
+Several of [[concepts/nature|nature]]'s people  
 I know, and they know me;  
 I feel for them a transport  
 Of cordiality.  
 Yet never met this fellow,  
-Attended or [[Alone|alone]],  
+Attended or alone,  
 Without a tighter breathing,  
 And zero at the bone.
 
@@ -814,18 +814,18 @@ E si apre più oltre.
 Gli piace un acro paludoso  
 Un suolo troppo freddo per il grano,  
 Pure quando, ragazzo e scalzo,  
-Più d'una volta a [[Noon|mezzogiorno]]  
+Più d'una volta a [[motifs/noon|mezzogiorno]]  
 Ho oltrepassato, credevo, una sferza,  
-Che si sfilacciava al [[Sun|sole]],  
+Che si sfilacciava al [[motifs/sun|sole]],  
 Quando, chinandomi ad afferrarla,  
 Si increspò e scomparve.
 
-Parecchi tra la gente della [[Nature|natura]]  
+Parecchi tra la gente della [[concepts/nature|natura]]  
 Conosco, e loro conoscono me;  
 Sento per loro un trasporto  
 Di cordialità.  
 Ma mai ho incontrato questo tipo,  
-Accompagnato o [[Alone|solo]],  
+Accompagnato o solo,  
 Senza un respiro più stretto,  
 E zero fino all'osso.
 
@@ -866,28 +866,28 @@ Da scorgere il suo ampio volo —
 <span class="atom-split" data-atom="1426_the_pretty_rain_from_those_sweet_eaves" data-title="1426. The pretty Rain from those sweet Eaves" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/water,concept/innocence_and_experience,concept/grief_and_loss,concept/love_romantic,form/lyric,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
-The pretty [[Rain]] from those sweet Eaves  
+The pretty [[motifs/rain|Rain]] from those sweet Eaves  
 Her unintending Eyes —  
 Took her own Heart, including ours,  
-By [[Innocent|innocent]] Surprise —  
+By [[archetypes/innocent|innocent]] Surprise —  
 
 The wrestle in her simple Throat  
 To hold the feeling down  
 That vanquished her — defeated Feat —  
-Was Fervor's sudden [[Crown]] —
+Was Fervor's sudden [[motifs/crown|Crown]] —
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-La bella [[Rain|Pioggia]] da quelle dolci Gronde  
+La bella [[motifs/rain|Pioggia]] da quelle dolci Gronde  
 I suoi Occhi involontari —  
 Prese il suo proprio Cuore, e il nostro,  
-Di [[Innocent|innocente]] Sorpresa —  
+Di [[archetypes/innocent|innocente]] Sorpresa —  
 
 La lotta nella sua semplice Gola  
 Per trattenere il sentimento  
 Che la vinse — Impresa sconfitta —  
-Fu del Fervore l'improvvisa [[Crown|Corona]] —
+Fu del Fervore l'improvvisa [[motifs/crown|Corona]] —
 
 
 
@@ -897,9 +897,9 @@ Fu del Fervore l'improvvisa [[Crown|Corona]] —
 A Counterfeit — a Plated Person —  
 I would not be —  
 Whatever strata of Iniquity  
-My [[Nature]] underlie —  
-[[Truth]] is good Health — and Safety, and the Sky.  
-How meagre, what an [[Exile]] — is a Lie,  
+My [[concepts/nature|Nature]] underlie —  
+[[concepts/truth|Truth]] is good Health — and Safety, and the Sky.  
+How meagre, what an [[concepts/exile|Exile]] — is a Lie,  
 And Vocal — when we die —
 
 
@@ -908,9 +908,9 @@ And Vocal — when we die —
 Una Contraffazione — una Persona Placcata —  
 Non vorrei essere —  
 Quali che siano gli strati d'Iniquità  
-Che alla mia [[Nature|Natura]] soggiacciono —  
-La [[Truth|Verità]] è buona Salute — e Salvezza, e il Cielo.  
-Che misera cosa, quale [[Exile|Esilio]] — è una Menzogna,  
+Che alla mia [[concepts/nature|Natura]] soggiacciono —  
+La [[concepts/truth|Verità]] è buona Salute — e Salvezza, e il Cielo.  
+Che misera cosa, quale [[concepts/exile|Esilio]] — è una Menzogna,  
 E Vocale — quando moriamo —
 
 
@@ -918,23 +918,23 @@ E Vocale — quando moriamo —
 <span class="atom-split" data-atom="l0268_mr_thomas_wentworth_higginson" data-title="To Mr. Thomas Wentworth Higginson" data-chapter="" data-kind="intro" data-tags="motif/animals,motif/serpent_snake,motif/flowers,motif/the_supernatural,concept/identity,concept/creativity_and_artistic_labor,concept/solitude,concept/innocence_and_experience,concept/pride,form/letter,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
-Colonel Higginson wrote, “It would seem that at first I tried a little--a very little—to lead her in the direction of rules and traditions; but I [[Fear|fear]] it was only perfunctory, and that she interested me more in her—so to speak—unregenerate condition. Still, she recognizes the endeavor. In this case, as will be seen, I called her attention to the fact that while she took pains to correct the spelling of a word, she was utterly careless of greater irregularities. It will be seen by her answer that with her usual naive adroitness she turns my point”:—
+Colonel Higginson wrote, “It would seem that at first I tried a little--a very little—to lead her in the direction of rules and traditions; but I [[concepts/fear|fear]] it was only perfunctory, and that she interested me more in her—so to speak—unregenerate condition. Still, she recognizes the endeavor. In this case, as will be seen, I called her attention to the fact that while she took pains to correct the spelling of a word, she was utterly careless of greater irregularities. It will be seen by her answer that with her usual naive adroitness she turns my point”:—
 
-DEAR FRIEND,—Are these more orderly? I thank you for the [[Truth|truth]].
+DEAR FRIEND,—Are these more orderly? I thank you for the [[concepts/truth|truth]].
 
-I had no monarch in my life, and cannot rule myself; and when I try to organize, my little force explodes and [[Leaves|leaves]] me bare and charred.
+I had no monarch in my life, and cannot rule myself; and when I try to organize, my little force explodes and [[motifs/leaves|leaves]] me bare and charred.
 
 I think you called me “wayward.” Will you help me improve?
 
-I suppose the [[Pride|pride]] that stops the breath, in the core of woods, is not of ourself.
+I suppose the [[concepts/pride|pride]] that stops the breath, in the core of woods, is not of ourself.
 
 You say I confess the little mistake, and omit the large. Because I can see orthography; but the ignorance out of sight is my preceptor's charge.
 
-Of “shunning men and women,”—they talk of hallowed things, aloud, and embarrass my dog. He and I don't object to them, if they'll exist their side. I think Carl would please you. He is dumb, and brave. I think you would like the chestnut-[[Tree|tree]] I met in my walk. It hit my notice suddenly, and I thought the skies were in blossom.
+Of “shunning men and women,”—they talk of hallowed things, aloud, and embarrass my dog. He and I don't object to them, if they'll exist their side. I think Carl would please you. He is dumb, and brave. I think you would like the chestnut-[[motifs/tree|tree]] I met in my walk. It hit my notice suddenly, and I thought the skies were in blossom.
 
 Then there's a noiseless noise in the orchard that I let persons hear.
 
-You told me in one [[Letter|letter]] you could not come to see me “now,” and I made no answer; not because I had none, but did not think myself the price that you should come so far.
+You told me in one [[forms/letter|letter]] you could not come to see me “now,” and I made no answer; not because I had none, but did not think myself the price that you should come so far.
 
 I do not ask so large a pleasure, lest you might deny me.
 
@@ -949,3 +949,38 @@ I shall observe your precept, though I don't understand it, always.
 I marked a line in one verse, because I met it after I made it, and never consciously touch a paint mixed by another person. I do not let go it, because, it is mine.
 
 Have you the portrait of Mrs. Browning? Persons sent me three. If you had none, will you have mine?
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il Colonnello Higginson scrisse: “Sembra che all’inizio abbia cercato, in modo molto modesto, di indirizzarla verso le regole e le tradizioni; ma temo che ciò fosse solo una formalità, e che lei mi interessasse molto di più nella sua condizione, per così dire, ‘non riformata’. Comunque, lei riconosce questo mio tentativo. In questo caso, come si vedrà, ho attirato la sua attenzione sul fatto che, mentre si sforzava di correggere l’ortografia di una parola, era completamente negligente riguardo ad altre irregolarità più gravi. La sua risposta dimostra, con la solita ingenua astuzia sua, che ha compreso perfettamente il mio punto”:—
+
+Caro amico, —Sono più ordinati ora? Grazie per la [[concepts/truth|verità]].
+
+Nella mia vita non ho mai avuto un monarca, e quindi non posso governare me stesso; quando provo a organizzare qualcosa, le mie deboli forze si disperdono completamente, lasciandomi solo in condizioni di fragilità e vulnerabilità.
+
+Penso che tu mi abbia chiamato “capriccioso”. Mi aiuterai a migliorare?
+
+Suppongo che quella [[concepts/pride|orgoglio]] che ci lascia senza fiato, nel cuore dei boschi, non appartenga a noi stessi.
+
+Dici che ammetto i piccoli errori e ometto quelli più gravi. Perché riesco a riconoscere gli errori di ortografia; ma l’ignoranza, quella che sfugge alla vista, è compito del mio insegnante.
+
+Del “evitare uomini e donne”, parlano di cose sacre ad alta voce, imbarazzando il mio cane. Lui e io non abbiamo nulla in contrario, purché si tengano da parte. Penso che Carl ti piacerebbe. È stupido, ma coraggioso. Inoltre, penso che ti piacerebbe quel castagno che ho incontrato durante la mia passeggiata. Mi è colpito all’improvviso; ho avuto l’impressione che il cielo fosse in fiore.
+
+Poi c’è un rumore silenzioso nel frutteto che permetto alle persone di sentire.
+
+Mi hai detto in una [[forms/letter|lettera]] che non potevi venire a trovarmi “adesso”, e non ho risposto; non perché non avessi nulla da dire, ma perché non ritenevo di meritare che tu facessi tanta strada per me.
+
+Non chiedo un piacere così grande, per non rischiare che tu mi rifiuti.
+
+Dici: “Al di là delle tue conoscenze”. Non scherzeresti con me, perché ti credo; ma, maestro, non può davvero essere vero.
+
+Tutti gli uomini mi chiedono “Cosa”, ma io pensavo che fosse solo una moda.
+
+Quando ero una bambina e mi trovavo spesso nel bosco, mi dicevano che i serpenti avrebbero potuto mordermi, che avrei potuto raccogliere fiori velenosi o che dei goblin avrebbero potuto rapirmi; ma io andavo avanti e non incontravo nessuno se non angeli, che avevano molta più paura di me di quanto ne avessi io di loro. Per questo non ho quella fiducia nel male che molti hanno.
+
+Osserverò sempre il tuo precetto, anche se non lo capisco.
+
+Ho segnato una linea in un verso, perché l’ho incontrata dopo averla creata; non tocco mai consapevolmente colori mescolati da altre persone. Non li lascio andare, perché appartengono a me.
+
+Avete il ritratto della signora Browning? Qualcuno mi ne ha inviati tre. Se non ne avete nessuno, vorreste prendere il mio?

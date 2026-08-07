@@ -23,7 +23,7 @@ tags:
   - setting/london
   - archetype/villain
 ---
-*by Conan Doyle*  ·  **Cluster:** [[War and Empire · History · Nationalism and Patriotism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/war-and-empire-·-history-·-nationalism-and-patriotism|War and Empire · History · Nationalism and Patriotism]]
 
 > [!abstract] 
 > A true-crime essay collection examining real Victorian murder trials: the 1828 Market-Drayton case of a rustic gang hired to strangle a witness, and the unresolved 1860 murder of the reclusive landlady Mary Emsley. Doyle weighs the trial evidence and questions the reliability of circumstantial proof and capital verdicts.
@@ -40,9 +40,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Crime and Punishment]], [[Justice Right and Wrong]], [[Guilt]], [[Deception]], [[Poverty]], [[History]]
-**Motifs:** [[Blood]], [[Money and Gold]], [[Secrets]]
-**Historical References:** [[Victorian England]]
-**Settings:** [[Rural England]], [[London]]
-**Archetypes:** [[Villain]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/guilt|Guilt]], [[concepts/deception|Deception]], [[concepts/poverty|Poverty]], [[concepts/history|History]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/money-and-gold|Money and Gold]], [[motifs/secrets|Secrets]]
+**Historical References:** [[historical-references/victorian-england|Victorian England]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/london|London]]
+**Archetypes:** [[archetypes/villain|Villain]]

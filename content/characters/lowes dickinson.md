@@ -14,4 +14,10 @@ Cambridge classicist and essayist, subject of the chapter 'Paganism and Mr. Lowe
 
 <div class="concept-works" data-slug="characters/lowes-dickinson"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/heret12-(chesterton)|heret12 (Chesterton)]]
+
+</div>
+
 #graph/character

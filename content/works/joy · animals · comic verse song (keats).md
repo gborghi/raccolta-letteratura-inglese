@@ -37,18 +37,18 @@ tags:
 
 Raccolta tematica di 12 componimenti di John Keats.
 
-- [[A Galloway Song (Keats)|A Galloway Song]]
-- [[A Song of Opposites (Keats)|A Song of Opposites]]
-- [[An Extempore (Keats)|An Extempore]]
-- [[Apollo and the Graces (Keats)|Apollo and the Graces]]
-- [[Daisy’s Song (Keats)|Daisy’s Song]]
-- [[ISABELLA (Keats)|ISABELLA]]
-- [[LINES ON THE MERMAID TAVERN (Keats)|LINES ON THE MERMAID TAVERN]]
-- [[ROBIN HOOD (Keats)|ROBIN HOOD]]
-- [[Song Spirit here that reignest! (Keats)|Song: Spirit here that reignest!]]
-- [[Song of Four Faeries - Fire, Air, Earth, and Water - (Keats)|Song of Four Faeries - Fire, Air, Earth, and Water -]]
-- [[Sonnet to a Cat (Keats)|Sonnet to a Cat]]
-- [[Two or Three (Keats)|Two or Three]]
+- [[testi/keats/atomized/joy-animals-comic-verse-song#101_a_galloway_song|A Galloway Song]]
+- [[testi/keats/atomized/joy-animals-comic-verse-song#071_a_song_of_opposites|A Song of Opposites]]
+- [[testi/keats/atomized/joy-animals-comic-verse-song#122_an_extempore|An Extempore]]
+- [[testi/keats/atomized/joy-animals-comic-verse-song#130_apollo_and_the_graces|Apollo and the Graces]]
+- [[testi/keats/atomized/joy-animals-comic-verse-song#085_daisys_song|Daisy’s Song]]
+- [[testi/keats/atomized/joy-animals-comic-verse-song#030_isabella|ISABELLA]]
+- [[testi/keats/atomized/joy-animals-comic-verse-song#037_lines_on_the_mermaid_tavern|LINES ON THE MERMAID TAVERN]]
+- [[testi/keats/atomized/joy-animals-comic-verse-song#038_robin_hood|ROBIN HOOD]]
+- [[testi/keats/atomized/joy-animals-comic-verse-song#091_song_spirit_here_that_reignest|Song: Spirit here that reignest!]]
+- [[testi/keats/atomized/joy-animals-comic-verse-song#126_song_of_four_faeries_-_fire_air_earth_and_water_-|Song of Four Faeries - Fire, Air, Earth, and Water -]]
+- [[testi/keats/atomized/joy-animals-comic-verse-song#072_sonnet_to_a_cat|Sonnet to a Cat]]
+- [[testi/keats/atomized/joy-animals-comic-verse-song#124_two_or_three|Two or Three]]
 
 ## Testo / Text
 

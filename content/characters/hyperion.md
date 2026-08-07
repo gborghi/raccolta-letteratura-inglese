@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/hyperion"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/hyperion-(keats)|Hyperion (Keats)]]
+
+</div>
+
 #graph/character

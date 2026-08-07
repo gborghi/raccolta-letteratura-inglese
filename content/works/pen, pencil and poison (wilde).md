@@ -32,7 +32,7 @@ tags:
   - setting/london
 ---
 
-*by Wilde*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Wilde*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > Critical biography of Wainewright, the artist-forger-poisoner, exploring the relation of art and crime, the artist and society, and the amorality of beauty.
@@ -46,13 +46,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Double]]
-**Archetypes:** [[Villain]], [[Satanic Figure]], [[Outsider]]
-**Motifs:** [[Concealment Hidden Identity]], [[Death]], [[Money and Gold]], [[Letters and Writing]], [[Blood]]
-**Themes & Concepts:** [[Artist and Society]], [[Beauty]], [[Good vs Evil]], [[Paradox]], [[Guilt]], [[Revenge]], [[Terror and Horror]]
-**Forms & Genres:** [[Biography]], [[Essay]], [[Literary Criticism]], [[Nonfiction]]
-**Historical References:** [[Regency Georgian England]], [[Romantic Movement (Sensibility)]]
-**Settings:** [[London]]
+**Topoi:** [[topoi/double|Double]]
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/death|Death]], [[motifs/money-and-gold|Money and Gold]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/blood|Blood]]
+**Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/beauty|Beauty]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/paradox|Paradox]], [[concepts/guilt|Guilt]], [[concepts/revenge|Revenge]], [[concepts/terror-and-horror|Terror and Horror]]
+**Forms & Genres:** [[forms/biography|Biography]], [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/romantic-movement-(sensibility)|Romantic Movement (Sensibility)]]
+**Settings:** [[settings/london|London]]
 
 ## Testo integrale / Full text
 

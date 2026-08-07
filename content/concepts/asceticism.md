@@ -14,4 +14,10 @@ Chesterton's broadened notion that any joy so total it renounces all else--relig
 
 <div class="concept-works" data-slug="concepts/asceticism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+
+</div>
+
 #graph/concept

@@ -70,11 +70,11 @@ But this humdrum course of professional life could never satisfy abilities of hi
 
 He was that morning in March, 1915, eating an egg. He had before him a copy of the Times, the affairs of which newspaper were among his most valued connections. The moments he could spare from its perusal were given to the methodical cutting open of envelopes and the glancing at their contents, — an exercise which it was his rule most methodically to pursue before he permitted his secretary to deal with the answers. Indeed some one or two of these missives he put into his pocket to be dealt with at his private leisure.
 
-He was alone, for his wife — Maria, Lady Repton — would commonly affect to come down after he had left the house; and this, no matter how late divisions might have kept him upon the previous evening, he invariably did at the hour of half-past nine. I may add that he had no children, but could boast no less than five horses in town and sixteen in the country, all his own property, and used to drag in the country I know not how many vehicles; in [[London]] three, each suitable for its own function. Of motor cars he kept but one, but that large and in colour a very bright sky-blue. As he had no proficiency in riding, he did not indulge in that exercise; but he was fond of golf and was acquainted with all the technical terms of the game.
+He was alone, for his wife — Maria, Lady Repton — would commonly affect to come down after he had left the house; and this, no matter how late divisions might have kept him upon the previous evening, he invariably did at the hour of half-past nine. I may add that he had no children, but could boast no less than five horses in town and sixteen in the country, all his own property, and used to drag in the country I know not how many vehicles; in [[settings/london|London]] three, each suitable for its own function. Of motor cars he kept but one, but that large and in colour a very bright sky-blue. As he had no proficiency in riding, he did not indulge in that exercise; but he was fond of golf and was acquainted with all the technical terms of the game.
 
 To do him justice he was not without means, nay, he was what many would call wealthy, and the salary of £5000 to which, amid the enthusiastic cheers of the Legislature, the Wardenship of the Court of Dowry had recently been raised was of no great consequence to his position.
 
-To another, alas! in the vast and heartless [[City|city]], such a salary was shortly to mean far more, — and George Mulross Demaine, upon whom I will not for the moment linger, would have been even more benefited in pocket than in status by the handling of it.
+To another, alas! in the vast and heartless [[motifs/city|city]], such a salary was shortly to mean far more, — and George Mulross Demaine, upon whom I will not for the moment linger, would have been even more benefited in pocket than in status by the handling of it.
 
 Careless, however, as Sir Charles Repton might be of a fringe of income obtainable only while his own Party were in office, it was imagined that he was not a little attached to other advantages connected with his Wardenship. It is doubtful whether a man of this firm, reticent and dominating character could really be attached to such accidents of his post as the carrying of a model ship, bareheaded, in the great procession upon Empire Day, the wearing upon state occasions of shoes which curled up at the toe and were caught back to the ankles by small silver chains, or the presence upon these ornaments of several tiny bells that jingled as he walked; anachronisms of this kind can have produced little but discomfort in one of his stern mould when, upon the rare occasions of court functions, he was compelled to adopt the official dress. But there was more!
 
@@ -90,9 +90,9 @@ The comparatively small sum of £4,000,000 which by its charter the Company was 
 
 There exists a sound rule of public administration of this country — inaugurated, I believe, by Mr. Gladstone — which forbids a Cabinet Minister to hold any public directorship at the same time as his official post, and indeed it is this rule which renders it usual for a couple of men upon opposite sides of the House to come to an arrangement whereby the one shall be Director while his colleague is in office, lest important commercial affairs should be neglected through the too rigid application of what is in principle so excellent a rule. But there had been no necessity for this arrangement in the case of so great an Imperial business as the Van Diemens: it touched too nearly the major interests of the country for its connection with a Cabinet Minister to be remarkable, and all patriotic opinion was sincerely glad when, in the preceding January, Sir Charles Repton had consented to acquire without direct purchase a few thousand shares and to take an active part in raising the fortunes of the scheme.
 
-It was recognised upon all sides that the act was one of statesman-like self-sacrifice, and there were perhaps but two papers in [[London]] (two evening papers of large circulation but of no high standing) which so much as alluded to Sir Charles’ labours in this field.
+It was recognised upon all sides that the act was one of statesman-like self-sacrifice, and there were perhaps but two papers in [[settings/london|London]] (two evening papers of large circulation but of no high standing) which so much as alluded to Sir Charles’ labours in this field.
 
-Of these one, the Moon, catered especially for that very considerable public which will have [[England]] mistress of the waves, which is interested in the printed results of horse-racing, which had formerly triumphantly carried at the polls the demand for protection, and which was somewhat embittered by so many years of office during which the Nationalist Party had done little more than tax the parts of motor cars, foreign unsweetened prunes, moss litter, and such small quantities of foreign sulphuric acid as are used in the manufacture of beer.
+Of these one, the Moon, catered especially for that very considerable public which will have [[settings/england|England]] mistress of the waves, which is interested in the printed results of horse-racing, which had formerly triumphantly carried at the polls the demand for protection, and which was somewhat embittered by so many years of office during which the Nationalist Party had done little more than tax the parts of motor cars, foreign unsweetened prunes, moss litter, and such small quantities of foreign sulphuric acid as are used in the manufacture of beer.
 
 The other, the Capon — to give it its entire name — was of a finer stamp. All the young enthusiasts read it, and it was enormously bought for its Notes on Gardening, its caricatures, its clever headlines, and its short, downright little leaders not twenty lines long, printed, by a successful innovation, in capitals throughout, and in a red ink that showed up finely against the plain black and white of the remainder.
 
@@ -122,7 +122,7 @@ From her room Maria, Lady Repton, when she was quite sure that her husband was g
 
 He, meanwhile, was out in Oxford Street, and with the rapidity that distinguishes successful men, had decided not to take a motor-bus but to walk. The March day was cold and clear and breezy, and he went eastward at a happy gait. He did not need to be at his work until close upon eleven, and even that he knew to be full early for at least one colleague, the stupidest of all the Directors, a certain Bingham, upon whose late rising he counted. For the intolerable tedium of arguing against a man who invariably took the unintelligent side was one of the few things which caused Sir Charles to betray some slight shade of impatience.
 
-The day pleased him, as indeed it pleased the greater part of [[London]], from its fineness. He walked upon the sunny side of the street, and his smile, though restrained and somewhat sadly dignified, was the more genial from the influence of the weather. His brain during this brief exercise was not concerned, as those ignorant of our great men might imagine, with affairs of State, nor even with the choice of investments upon which he was in so short a time to determine. He was occupied rather in planning (for his power of organisation was famous) how exactly he should fit in his engagements for the day.
+The day pleased him, as indeed it pleased the greater part of [[settings/london|London]], from its fineness. He walked upon the sunny side of the street, and his smile, though restrained and somewhat sadly dignified, was the more genial from the influence of the weather. His brain during this brief exercise was not concerned, as those ignorant of our great men might imagine, with affairs of State, nor even with the choice of investments upon which he was in so short a time to determine. He was occupied rather in planning (for his power of organisation was famous) how exactly he should fit in his engagements for the day.
 
 A Board meeting, especially if there is any chance of long argument with a late riser of exceptional stupidity, may last for an indefinite time. He gave it an hour and a half.
 
@@ -158,7 +158,7 @@ One way and another Ole Man Benson stood in for Popocatapetls in a manner as hea
 
 Ole Man Benson loved, trusted and revered this statesman and supported him in every way: his name escapes me, but upon his decision the future of the undertaking would without question lie; and such was the bond between the two men that the politician had not hesitated to receive from the capitalist certain rough notes which had been jotted down in the office for the supreme verdict which was to be delivered to the nation.
 
-It was to be delivered at Washington upon a certain Wednesday (the date is memorable) at the unconventional hour of ten, in order that a full report of it might reach the foolish and the wise in New York [[City]] in ample time for its effects to be fully felt upon the markets; and Ole Man Benson had given instructions to sell not later than half-past three of that same fateful Wednesday.
+It was to be delivered at Washington upon a certain Wednesday (the date is memorable) at the unconventional hour of ten, in order that a full report of it might reach the foolish and the wise in New York [[motifs/city|City]] in ample time for its effects to be fully felt upon the markets; and Ole Man Benson had given instructions to sell not later than half-past three of that same fateful Wednesday.
 
 But what, you cry (if such is your habit), what of all this in connection with the ancient houses of this land? With the Cabinet? With peerages and the rest?
 
@@ -170,13 +170,13 @@ He was of good birth, and doubtless had he possessed a secure and flowing fortun
 
 George Mulross Demaine, like so many of his rank, was related to Mary Smith.
 
-Now Mary Smith, her pleasing, energetic person, her lively eyes and dear soul, the reader can never fully know unless she has perused or rather learned by heart, that entrancing work, “Mr. Clutterbuck’s Election,” in which, like a good fairy, she plumps across the scene and is perceived to be the friend, the confidant, the cousin, the sister-in-law or the aunt of at least three-quarters of what counts in [[England]].
+Now Mary Smith, her pleasing, energetic person, her lively eyes and dear soul, the reader can never fully know unless she has perused or rather learned by heart, that entrancing work, “Mr. Clutterbuck’s Election,” in which, like a good fairy, she plumps across the scene and is perceived to be the friend, the confidant, the cousin, the sister-in-law or the aunt of at least three-quarters of what counts in [[settings/england|England]].
 
 She will not feel, I say, unless she has made that work her bible, how from St. James’s Place Mary Smith blessed Society with her jolly little hands, and indulged in the companionship of characters as varied as the Peabody Yid and Victoria Mosel.
 
 What a woman! Her little shooting-box in Scotland! Her place in the West Country! The country house which she so rarely visited in the Midlands but which she lent in the freest manner! Her vivacity, her charm, her go, her scraps of French — her inheritance from her late husband, himself an American and Smith, as I need hardly say, by name!
 
-The reader unacquainted with the Work which I refer her to, must further have introduced to her at the proper place the notable figure of cousin William Bailey, at what an expense of repetition upon my part I need hardly say. He also was of the gang; he also had been elected of the people: but violent eccentricities now kept him apart from his true world. Thus he professed a vast interest in Jews, making them out to be the secret masters of [[England]]. How far that fanaticism was sincere, he could not himself have told you. It diverted him hugely to discover mares’ nests of every kind; he was never happier than when he was tracking the relationship between governing families or the connection of some spotless politician with a spotted financial adventure. There was but one excuse for his manias, that he remained, through the most ardent pursuit of them, a genial cynic. We shall meet him again.
+The reader unacquainted with the Work which I refer her to, must further have introduced to her at the proper place the notable figure of cousin William Bailey, at what an expense of repetition upon my part I need hardly say. He also was of the gang; he also had been elected of the people: but violent eccentricities now kept him apart from his true world. Thus he professed a vast interest in Jews, making them out to be the secret masters of [[settings/england|England]]. How far that fanaticism was sincere, he could not himself have told you. It diverted him hugely to discover mares’ nests of every kind; he was never happier than when he was tracking the relationship between governing families or the connection of some spotless politician with a spotted financial adventure. There was but one excuse for his manias, that he remained, through the most ardent pursuit of them, a genial cynic. We shall meet him again.
 
 Mary Smith, then, was related to all of them and they were all related to each other, and in their relationship there was friendship also, and they governed England and the taxes bore them on.
 
@@ -230,7 +230,7 @@ For a year Ole Man Benson had not only kept his promise in the way of building a
 
 Demaine was put into Parliament by a majority comparable only to the financial advantages which had secured it. His birth, her voice and its timbre, gathered into Demaine House all that so small a Great House could hold.
 
-So things had stood to within a week of the March day upon which we saw that very different man, Charles Repton, walking into the [[City]] of London....
+So things had stood to within a week of the March day upon which we saw that very different man, Charles Repton, walking into the [[motifs/city|City]] of London....
 
 But from the name of Charles Repton let me rapidly slew off to the sombre pyramid of that peak in the neighbourhood of Darien and recall the caprice of Popocatapetl upon which so much was to depend.
 
@@ -3360,11 +3360,11 @@ But this humdrum course of professional life could never satisfy abilities of hi
 
 He was that morning in March, 1915, eating an egg. He had before him a copy of the Times, the affairs of which newspaper were among his most valued connections. The moments he could spare from its perusal were given to the methodical cutting open of envelopes and the glancing at their contents, — an exercise which it was his rule most methodically to pursue before he permitted his secretary to deal with the answers. Indeed some one or two of these missives he put into his pocket to be dealt with at his private leisure.
 
-He was alone, for his wife — Maria, Lady Repton — would commonly affect to come down after he had left the house; and this, no matter how late divisions might have kept him upon the previous evening, he invariably did at the hour of half-past nine. I may add that he had no children, but could boast no less than five horses in town and sixteen in the country, all his own property, and used to drag in the country I know not how many vehicles; in [[London]] three, each suitable for its own function. Of motor cars he kept but one, but that large and in colour a very bright sky-blue. As he had no proficiency in riding, he did not indulge in that exercise; but he was fond of golf and was acquainted with all the technical terms of the game.
+He was alone, for his wife — Maria, Lady Repton — would commonly affect to come down after he had left the house; and this, no matter how late divisions might have kept him upon the previous evening, he invariably did at the hour of half-past nine. I may add that he had no children, but could boast no less than five horses in town and sixteen in the country, all his own property, and used to drag in the country I know not how many vehicles; in [[settings/london|London]] three, each suitable for its own function. Of motor cars he kept but one, but that large and in colour a very bright sky-blue. As he had no proficiency in riding, he did not indulge in that exercise; but he was fond of golf and was acquainted with all the technical terms of the game.
 
 To do him justice he was not without means, nay, he was what many would call wealthy, and the salary of £5000 to which, amid the enthusiastic cheers of the Legislature, the Wardenship of the Court of Dowry had recently been raised was of no great consequence to his position.
 
-To another, alas! in the vast and heartless [[City|city]], such a salary was shortly to mean far more, — and George Mulross Demaine, upon whom I will not for the moment linger, would have been even more benefited in pocket than in status by the handling of it.
+To another, alas! in the vast and heartless [[motifs/city|city]], such a salary was shortly to mean far more, — and George Mulross Demaine, upon whom I will not for the moment linger, would have been even more benefited in pocket than in status by the handling of it.
 
 Careless, however, as Sir Charles Repton might be of a fringe of income obtainable only while his own Party were in office, it was imagined that he was not a little attached to other advantages connected with his Wardenship. It is doubtful whether a man of this firm, reticent and dominating character could really be attached to such accidents of his post as the carrying of a model ship, bareheaded, in the great procession upon Empire Day, the wearing upon state occasions of shoes which curled up at the toe and were caught back to the ankles by small silver chains, or the presence upon these ornaments of several tiny bells that jingled as he walked; anachronisms of this kind can have produced little but discomfort in one of his stern mould when, upon the rare occasions of court functions, he was compelled to adopt the official dress. But there was more!
 
@@ -3373,7 +3373,7 @@ The Wardenship of the Court of Dowry carried with it something regal in that gre
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO I
+CAPITOLO I
 
 Sir – o, per essere più precisi, il Nobile Sir T. Charles Repton, Bart., M.V.O., O.M., Sovrintendente della Corte dei Dote, un uomo ormai oltre la mezza età ma ancora pieno di energia e impegno, stava pranzando nella sua casa: una grande residenza che si affacciava su Hyde Park dal lato nord, situata vicino all’angolo di Edgware Road, e quindi distante almeno cento metri dalla posizione indicata sulla mappa che segnava il luogo dove un tempo sorgeva la vecchia forca permanente di Tyburn.
 
@@ -3389,11 +3389,11 @@ Ma questa routine monotona della vita professionale non avrebbe mai potuto soddi
 
 Quella mattina di marzo 1915 stava mangiando un uovo. Davanti a lui c'era un esemplare del “Times”; le notizie pubblicate da quel giornale rientravano tra i suoi interessi principali. Gli istanti che gli rimanevano dopo averlo letto li dedicava al metodoico aprire le buste e dare un’occhiata al loro contenuto: era sua abitudine procedere in modo sistematico prima di affidare alle sue segretarie il compito di rispondere alle lettere. Anzi, alcune di queste missive le metteva in tasca per occuparsene più tardi, con calma e tranquillità.
 
-Era solo, perché sua moglie – Maria, Lady Repton – di solito fingeva di scendere al piano dopo che lui aveva lasciato la casa; e questo, non importava quanto tardi fosse rimasto fuori la sera precedente, lui lo faceva sempre alle nove e mezza. Devo aggiungere che non aveva figli, ma poteva vantare ben cinque cavalli in città e sedici in campagna, tutti di sua proprietà; in campagna utilizzava chissà quanti veicoli. A [[London|Londra]] ne aveva tre, ciascuno adatto alle proprie esigenze. Per quanto riguarda le automobili, ne possedeva solo una, ma molto grande e di un colore azzurro cielo intenso. Poiché non era abile a cavalcare, non si dedicava a questa attività; invece amava il golf e conosceva tutti i termini tecnici del gioco.
+Era solo, perché sua moglie – Maria, Lady Repton – di solito fingeva di scendere al piano dopo che lui aveva lasciato la casa; e questo, non importava quanto tardi fosse rimasto fuori la sera precedente, lui lo faceva sempre alle nove e mezza. Devo aggiungere che non aveva figli, ma poteva vantare ben cinque cavalli in città e sedici in campagna, tutti di sua proprietà; in campagna utilizzava chissà quanti veicoli. A [[settings/london|Londra]] ne aveva tre, ciascuno adatto alle proprie esigenze. Per quanto riguarda le automobili, ne possedeva solo una, ma molto grande e di un colore azzurro cielo intenso. Poiché non era abile a cavalcare, non si dedicava a questa attività; invece amava il golf e conosceva tutti i termini tecnici del gioco.
 
 Per essere giusti con lui, non mancavano certo i mezzi; anzi, si potrebbe dire che fosse ricco, e lo stipendio di 5000 sterline, aumentato recentemente con gli entusiasti applausi dell’Assemblea Legislativa per il ruolo di Sovrintendente del Tribunale delle Dote, non influenzava in modo significativo la sua situazione economica.
 
-Per un altro, ahimè! nella vasta e spietata [[City|città]], un simile stipendio avrebbe significato molto di più. E George Mulross Demaine, di cui per il momento non intendo soffermarmi, ne avrebbe tratto maggior beneficio in termini economici che di status.
+Per un altro, ahimè! nella vasta e spietata [[motifs/city|città]], un simile stipendio avrebbe significato molto di più. E George Mulross Demaine, di cui per il momento non intendo soffermarmi, ne avrebbe tratto maggior beneficio in termini economici che di status.
 
 Incurante, tuttavia, per quanto Sir Charles Repton potesse essere riguardo a quei piccoli introiti che gli derivavano soltanto quando il suo partito era al potere, si riteneva che fosse piuttosto attaccato ad altri vantaggi legati alla sua carica di Sovrintendente. È dubbia la possibilità che un uomo dal carattere così deciso, riservato e dominante potesse davvero apprezzare cose del genere: portare una modella di nave in testa nuda durante le grandi processioni del Giorno dell’Impero, indossare in occasioni ufficiali scarpe con i tacchi arricciati che si fissavano alle caviglie con piccole catene d’argento, o avere su tali accessori diversi campanellini che tintinnavano mentre camminava. Questi anacronismi non potevano che causare disagio in una persona dal suo temperamento rigido, soprattutto nelle rare occasioni in cui era costretto a indossare l’uniforme ufficiale durante le cerimonie di corte. Ma c’era dell’altro.
 
@@ -3414,9 +3414,9 @@ The comparatively small sum of £4,000,000 which by its charter the Company was 
 
 There exists a sound rule of public administration of this country — inaugurated, I believe, by Mr. Gladstone — which forbids a Cabinet Minister to hold any public directorship at the same time as his official post, and indeed it is this rule which renders it usual for a couple of men upon opposite sides of the House to come to an arrangement whereby the one shall be Director while his colleague is in office, lest important commercial affairs should be neglected through the too rigid application of what is in principle so excellent a rule. But there had been no necessity for this arrangement in the case of so great an Imperial business as the Van Diemens: it touched too nearly the major interests of the country for its connection with a Cabinet Minister to be remarkable, and all patriotic opinion was sincerely glad when, in the preceding January, Sir Charles Repton had consented to acquire without direct purchase a few thousand shares and to take an active part in raising the fortunes of the scheme.
 
-It was recognised upon all sides that the act was one of statesman-like self-sacrifice, and there were perhaps but two papers in [[London]] (two evening papers of large circulation but of no high standing) which so much as alluded to Sir Charles’ labours in this field.
+It was recognised upon all sides that the act was one of statesman-like self-sacrifice, and there were perhaps but two papers in [[settings/london|London]] (two evening papers of large circulation but of no high standing) which so much as alluded to Sir Charles’ labours in this field.
 
-Of these one, the Moon, catered especially for that very considerable public which will have [[England]] mistress of the waves, which is interested in the printed results of horse-racing, which had formerly triumphantly carried at the polls the demand for protection, and which was somewhat embittered by so many years of office during which the Nationalist Party had done little more than tax the parts of motor cars, foreign unsweetened prunes, moss litter, and such small quantities of foreign sulphuric acid as are used in the manufacture of beer.
+Of these one, the Moon, catered especially for that very considerable public which will have [[settings/england|England]] mistress of the waves, which is interested in the printed results of horse-racing, which had formerly triumphantly carried at the polls the demand for protection, and which was somewhat embittered by so many years of office during which the Nationalist Party had done little more than tax the parts of motor cars, foreign unsweetened prunes, moss litter, and such small quantities of foreign sulphuric acid as are used in the manufacture of beer.
 
 The other, the Capon — to give it its entire name — was of a finer stamp. All the young enthusiasts read it, and it was enormously bought for its Notes on Gardening, its caricatures, its clever headlines, and its short, downright little leaders not twenty lines long, printed, by a successful innovation, in capitals throughout, and in a red ink that showed up finely against the plain black and white of the remainder.
 
@@ -3457,9 +3457,9 @@ La somma relativamente piccola di 4.000.000 sterline, che secondo lo statuto del
 
 Esiste una regola fondamentale nell’amministrazione pubblica di questo paese – introdotta, credo, dal signor Gladstone – che vieta a un ministro del gabinetto di ricoprire contemporaneamente alcuna carica dirigenziale in ambito pubblico. È proprio questa regola che rende abituale che due persone appartenenti a fazioni opposte all’interno del Parlamento raggiungano un accordo secondo cui uno di loro assume la carica di direttore mentre l’altro è in carica, al fine di evitare che questioni commerciali importanti vengano trascurate a causa dell’applicazione troppo rigida di una regola, in sé eccellente. Tuttavia, nel caso di un affare imperiale di tale rilevanza come quello delle isole Van Diemen, non c’era alcuna necessità di un simile accordo: l’interesse nazionale era troppo diretto perché la connessione di questo progetto con un ministro del gabinetto potesse risultare significativa. Pertanto, tutti coloro che avevano sentimenti patriottici furono sinceramente felici quando, nel gennaio precedente, Sir Charles Repton acconsentì ad acquistare alcune migliaia di azioni senza procedere a un’acquisto diretto e ad impegnarsi attivamente per il successo del progetto.
 
-Fu riconosciuto da tutti che quell'atto rappresentava un esempio di autosacrificio tipico di uno statista; forse solo due giornali di [[London|Londra]] (due quotidiani serali a grande diffusione ma senza particolare prestigio) menzionarono in qualche modo gli sforzi di Sir Charles in questo campo.
+Fu riconosciuto da tutti che quell'atto rappresentava un esempio di autosacrificio tipico di uno statista; forse solo due giornali di [[settings/london|Londra]] (due quotidiani serali a grande diffusione ma senza particolare prestigio) menzionarono in qualche modo gli sforzi di Sir Charles in questo campo.
 
-Di questi, la Luna si rivolgeva particolarmente a quel vasto pubblico che desiderava che [[England|Inghilterra]] dominasse i mari, che era interessato ai risultati delle corse ippiche stampati, che in passato aveva con successo sostenuto richieste di protezioni, e che si sentiva un po’ deluso dopo tanti anni in cui il Partito Nazionalista non aveva fatto altro che aumentare le tasse su parti dei motori automobilistici, prugne straniere non zuccherate, letame di muschio, e quantità minuscole di acido solforico importato utilizzato nella produzione della birra.
+Di questi, la Luna si rivolgeva particolarmente a quel vasto pubblico che desiderava che [[settings/england|Inghilterra]] dominasse i mari, che era interessato ai risultati delle corse ippiche stampati, che in passato aveva con successo sostenuto richieste di protezioni, e che si sentiva un po’ deluso dopo tanti anni in cui il Partito Nazionalista non aveva fatto altro che aumentare le tasse su parti dei motori automobilistici, prugne straniere non zuccherate, letame di muschio, e quantità minuscole di acido solforico importato utilizzato nella produzione della birra.
 
 L’altro, il Capon – per dargli il nome completo – era di qualità molto superiore. Tutti i giovani appassionati lo leggevano; veniva acquistato in grandi quantità grazie alle sue Note di Giardinaggio, alle sue caricature, ai suoi titoli accattivanti e ai suoi brevi articoli, non lunghi nemmeno venti righe. Grazie a un’invenzione innovativa, tutti i testi erano stampati in lettere maiuscole e con inchiostro rosso, che risaltava perfettamente sul bianco e nero del resto del contenuto.
 
@@ -3469,7 +3469,7 @@ Bene, allora, alle nove e mezza di quel giorno di marzo del 1915, Charles Repton
 
 Il maggiordomo arrivò.
 
-#"Vado a pranzo."
+"Vado a pranzo."
 
 “Sì, signor Charles.”
 
@@ -3494,7 +3494,7 @@ Dalla sua stanza, Maria, Lady Repton, una volta certa che suo marito se n’era 
 
 He, meanwhile, was out in Oxford Street, and with the rapidity that distinguishes successful men, had decided not to take a motor-bus but to walk. The March day was cold and clear and breezy, and he went eastward at a happy gait. He did not need to be at his work until close upon eleven, and even that he knew to be full early for at least one colleague, the stupidest of all the Directors, a certain Bingham, upon whose late rising he counted. For the intolerable tedium of arguing against a man who invariably took the unintelligent side was one of the few things which caused Sir Charles to betray some slight shade of impatience.
 
-The day pleased him, as indeed it pleased the greater part of [[London]], from its fineness. He walked upon the sunny side of the street, and his smile, though restrained and somewhat sadly dignified, was the more genial from the influence of the weather. His brain during this brief exercise was not concerned, as those ignorant of our great men might imagine, with affairs of State, nor even with the choice of investments upon which he was in so short a time to determine. He was occupied rather in planning (for his power of organisation was famous) how exactly he should fit in his engagements for the day.
+The day pleased him, as indeed it pleased the greater part of [[settings/london|London]], from its fineness. He walked upon the sunny side of the street, and his smile, though restrained and somewhat sadly dignified, was the more genial from the influence of the weather. His brain during this brief exercise was not concerned, as those ignorant of our great men might imagine, with affairs of State, nor even with the choice of investments upon which he was in so short a time to determine. He was occupied rather in planning (for his power of organisation was famous) how exactly he should fit in his engagements for the day.
 
 A Board meeting, especially if there is any chance of long argument with a late riser of exceptional stupidity, may last for an indefinite time. He gave it an hour and a half.
 
@@ -3511,7 +3511,7 @@ Let the reader leave him there walking in Oxford Street and turn her attention t
 
 Intanto, lui si trovava in Oxford Street e, con la rapidità che contraddistingue gli uomini di successo, aveva deciso di non prendere l’autobus ma di camminare a piedi. Era un giorno di marzo freddo, sereno e ventoso; procedeva verso est con passo spedito. Non doveva presentarsi al lavoro prima delle undici, e sapeva anche che per almeno uno dei suoi colleghi – il più stupido tra tutti i direttori, un certo Bingham – la sua arrivata sarebbe stata comunque anticipata. Infatti, l’insopportabile noia di dover discutere con una persona che invariabilmente prendeva le decisioni più sciocche era uno dei pochi motivi che facevano sì che Sir Charles mostrasse segni di impazienza.
 
-Quel giorno lo rese felice; del resto, piacque anche alla maggior parte di [[London|Londra]], per la sua bellezza e il suo clima gradevole. Camminava sul lato soleggiato della strada, e il suo sorriso, sebbene contenuto e leggermente malinconico, sembrava ancora più cordiale grazie al bel tempo. Durante quel breve spazio di tempo, la sua mente non era occupata, come potrebbero pensare coloro che ignorano le grandi capacità delle persone straordinarie, né dalle questioni di Stato, né nemmeno dalla scelta degli investimenti su cui doveva prendere una decisione in così poco tempo. Era piuttosto impegnato a pianificare – poiché la sua abilità nell’organizzazione era nota – come svolgere esattamente tutti gli impegni previsti per quella giornata.
+Quel giorno lo rese felice; del resto, piacque anche alla maggior parte di [[settings/london|Londra]], per la sua bellezza e il suo clima gradevole. Camminava sul lato soleggiato della strada, e il suo sorriso, sebbene contenuto e leggermente malinconico, sembrava ancora più cordiale grazie al bel tempo. Durante quel breve spazio di tempo, la sua mente non era occupata, come potrebbero pensare coloro che ignorano le grandi capacità delle persone straordinarie, né dalle questioni di Stato, né nemmeno dalla scelta degli investimenti su cui doveva prendere una decisione in così poco tempo. Era piuttosto impegnato a pianificare – poiché la sua abilità nell’organizzazione era nota – come svolgere esattamente tutti gli impegni previsti per quella giornata.
 
 In una riunione del consiglio, soprattutto se c’è la possibilità di lunghe discussioni con qualcuno che si alza tardi e è eccezionalmente stupido, l’incontro può durare per un tempo indeterminato. Lui ha previsto che sarebbe durata un’ora e mezza.
 
@@ -3552,20 +3552,20 @@ One way and another Ole Man Benson stood in for Popocatapetls in a manner as hea
 
 Ole Man Benson loved, trusted and revered this statesman and supported him in every way: his name escapes me, but upon his decision the future of the undertaking would without question lie; and such was the bond between the two men that the politician had not hesitated to receive from the capitalist certain rough notes which had been jotted down in the office for the supreme verdict which was to be delivered to the nation.
 
-It was to be delivered at Washington upon a certain Wednesday (the date is memorable) at the unconventional hour of ten, in order that a full report of it might reach the foolish and the wise in New York [[City]] in ample time for its effects to be fully felt upon the markets; and Ole Man Benson had given instructions to sell not later than half-past three of that same fateful Wednesday.
+It was to be delivered at Washington upon a certain Wednesday (the date is memorable) at the unconventional hour of ten, in order that a full report of it might reach the foolish and the wise in New York [[motifs/city|City]] in ample time for its effects to be fully felt upon the markets; and Ole Man Benson had given instructions to sell not later than half-past three of that same fateful Wednesday.
 
 But what, you cry (if such is your habit), what of all this in connection with the ancient houses of this land? With the Cabinet? With peerages and the rest?
 
 Tut! Have you never heard how sensitive is the modern world to every breath of commercial news, and how all the modern world is one? Well then, I must explain:
 
-Some two years before, in [[London]], one George Mulross Demaine had lain languishing for lack of money.
+Some two years before, in [[settings/london|London]], one George Mulross Demaine had lain languishing for lack of money.
 
 He was of good birth, and doubtless had he possessed a secure and flowing fortune, his natural diffidence would have been less pronounced, and the strange fatality by which he could hardly place his hands and feet in any position without causing some slight accident to the furniture, would have passed unnoticed, or would have been put down to good nature. But George Mulross was wholly devoid of means.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO II
+CAPITOLO II
 
 Si ammetterà generalmente che un fiume sotterraneo che scorre con grande forza attraverso una regione costantemente infuocata debba, per sua natura, rappresentare una base estremamente instabile per qualsiasi grande struttura in muratura; il pericolo legato alla costruzione su un simile terreno diventa ancora più evidente se i materiali utilizzati non vengono adeguatamente consolidati, a causa della mancanza di professionalità da parte di un appaltatore indifferente al giudizio della propria coscienza.
 
@@ -3589,13 +3589,13 @@ In un modo o nell'altro, Ole Man Benson sostituiva Popocatapetls in modo tanto e
 
 Ole Man Benson amava, fidava e rispettava questo statista, sostenendolo in ogni modo possibile; il suo nome mi sfugge, ma sulla sua decisione dipendeva senza dubbio il futuro dell’impresa. Il legame tra i due uomini era tale che il politico non esitò a ricevere dal capitalista alcune appunti scritti in fretta in ufficio, utilizzati per formulare la decisione finale da comunicare al popolo.
 
-Doveva essere consegnato a Washington in una certa mercoledì (la data è memorabile), all’ora insolita delle dieci, affinché un resoconto completo potesse raggiungere sia i saggi che gli ignoranti di [[City]] di New York in tempo utile perché le sue conseguenze si facessero pienamente sentire sui mercati; e Ole Man Benson aveva dato istruzioni di vendere non più tardi delle tre e mezza di quella stessa fatidica mercoledì.
+Doveva essere consegnato a Washington in una certa mercoledì (la data è memorabile), all’ora insolita delle dieci, affinché un resoconto completo potesse raggiungere sia i saggi che gli ignoranti di [[motifs/city|City]] di New York in tempo utile perché le sue conseguenze si facessero pienamente sentire sui mercati; e Ole Man Benson aveva dato istruzioni di vendere non più tardi delle tre e mezza di quella stessa fatidica mercoledì.
 
 Ma cosa c'entra tutto questo, se vi piace piangere (se è davvero questa la vostra abitudine), con le antiche case di questa terra? Con il Gabinetto? Con i titoli nobiliari e il resto?
 
 Tut! Non avete mai sentito quanto il mondo moderno sia sensibile a ogni notizia commerciale, e come tutto il mondo moderno sia ormai un tutt’uno? Beh, allora devo spiegare.
 
-Circa due anni prima, a [[London|Londra]], un certo George Mulross Demaine giaceva in condizioni di povertà estrema a causa della mancanza di denaro.
+Circa due anni prima, a [[settings/london|Londra]], un certo George Mulross Demaine giaceva in condizioni di povertà estrema a causa della mancanza di denaro.
 
 Proveniva da una buona famiglia; senza dubbio, se avesse posseduto una fortuna stabile e abbondante, la sua naturale timidezza sarebbe stata meno evidente, e quella strana tendenza a causare piccoli incidenti ogni volta che muoveva le mani o i piedi avrebbe potuto passare inosservata, o essere attribuita semplicemente alla sua indole. Ma George Mulross era completamente privo di mezzi.
 
@@ -3606,15 +3606,15 @@ Proveniva da una buona famiglia; senza dubbio, se avesse posseduto una fortuna s
 
 George Mulross Demaine, like so many of his rank, was related to Mary Smith.
 
-Now Mary Smith, her pleasing, energetic person, her lively eyes and dear soul, the reader can never fully know unless she has perused or rather learned by heart, that entrancing work, “Mr. Clutterbuck’s Election,” in which, like a good fairy, she plumps across the scene and is perceived to be the friend, the confidant, the cousin, the sister-in-law or the aunt of at least three-quarters of what counts in [[England]].
+Now Mary Smith, her pleasing, energetic person, her lively eyes and dear soul, the reader can never fully know unless she has perused or rather learned by heart, that entrancing work, “Mr. Clutterbuck’s Election,” in which, like a good fairy, she plumps across the scene and is perceived to be the friend, the confidant, the cousin, the sister-in-law or the aunt of at least three-quarters of what counts in [[settings/england|England]].
 
 She will not feel, I say, unless she has made that work her bible, how from St. James’s Place Mary Smith blessed Society with her jolly little hands, and indulged in the companionship of characters as varied as the Peabody Yid and Victoria Mosel.
 
 What a woman! Her little shooting-box in Scotland! Her place in the West Country! The country house which she so rarely visited in the Midlands but which she lent in the freest manner! Her vivacity, her charm, her go, her scraps of French — her inheritance from her late husband, himself an American and Smith, as I need hardly say, by name!
 
-The reader unacquainted with the Work which I refer her to, must further have introduced to her at the proper place the notable figure of cousin William Bailey, at what an expense of repetition upon my part I need hardly say. He also was of the gang; he also had been elected of the people: but violent eccentricities now kept him apart from his true world. Thus he professed a vast interest in Jews, making them out to be the secret masters of [[England]]. How far that fanaticism was sincere, he could not himself have told you. It diverted him hugely to discover mares’ nests of every kind; he was never happier than when he was tracking the relationship between governing families or the connection of some spotless politician with a spotted financial adventure. There was but one excuse for his manias, that he remained, through the most ardent pursuit of them, a genial cynic. We shall meet him again.
+The reader unacquainted with the Work which I refer her to, must further have introduced to her at the proper place the notable figure of cousin William Bailey, at what an expense of repetition upon my part I need hardly say. He also was of the gang; he also had been elected of the people: but violent eccentricities now kept him apart from his true world. Thus he professed a vast interest in Jews, making them out to be the secret masters of [[settings/england|England]]. How far that fanaticism was sincere, he could not himself have told you. It diverted him hugely to discover mares’ nests of every kind; he was never happier than when he was tracking the relationship between governing families or the connection of some spotless politician with a spotted financial adventure. There was but one excuse for his manias, that he remained, through the most ardent pursuit of them, a genial cynic. We shall meet him again.
 
-Mary Smith, then, was related to all of them and they were all related to each other, and in their relationship there was friendship also, and they governed [[England]] and the taxes bore them on.
+Mary Smith, then, was related to all of them and they were all related to each other, and in their relationship there was friendship also, and they governed [[settings/england|England]] and the taxes bore them on.
 
 That the Leader of the Opposition should be Mary Smith’s close friend goes without saying; much closer and dearer to her was her other cousin, the young and popular Prime Minister, to his friends Dolly, to the world a more dignified name, who suffered slightly from his left lung. He had attained his high position before his fiftieth year was closed. For over four years he had conducted with consummate skill the fortunes of the Nationalist Party, and was at that very moment when Popocatapetl nursed so sullenly its internal rage, piloting in distant Westminster the Broadening of the Streets Bill through an excited session of Parliament.
 
@@ -3630,22 +3630,22 @@ She took him everywhere, she kept him in pocket money and, most important of all
 
 The moment was opportune: he was twenty-five, he had lost his father, he was penniless, the title of Grinstead into which he would certainly come was distant and was unprovided for. He had not chosen, or rather had not been given, the opportunity of entering, the army, but there had been just enough bungling about that to make him miss the university also. He was so unfitted for diplomacy that even William Bailey, who was accustomed to recommend for that profession the least vivacious of his young friends, shook his head when it was proposed, and after a very short experience in Paris he was withdrawn from it.
 
-No profession naturally proposed itself to a man of his talents, and he had not the initiative to live as a free lance. His marriage, therefore, was one of these providential things which seemed to fit almost too exactly into the general scheme of life to be true. He met his wife when Mary Smith (after making all her inquiries at the Petheringtons’) had caught and branded that heiress: and the wife so branded was Sudie Benson, the daughter of so wealthy an American as made the traffic of [[London]] not infrequently halt for his convenience, and who rather more than two years before my story bursts open, had seen fit to bring the radiant girl to [[London]].
+No profession naturally proposed itself to a man of his talents, and he had not the initiative to live as a free lance. His marriage, therefore, was one of these providential things which seemed to fit almost too exactly into the general scheme of life to be true. He met his wife when Mary Smith (after making all her inquiries at the Petheringtons’) had caught and branded that heiress: and the wife so branded was Sudie Benson, the daughter of so wealthy an American as made the traffic of [[settings/london|London]] not infrequently halt for his convenience, and who rather more than two years before my story bursts open, had seen fit to bring the radiant girl to [[settings/london|London]].
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 George Mulross Demaine, come molti della sua stessa classe sociale, era imparentato con Mary Smith.
 
-Ora Mary Smith, con la sua personalità piacevole ed energica, i suoi occhi vivaci e il suo cuore gentile. Il lettore non potrà mai comprenderla appieno se non avrà letto o, meglio ancora, imparato a memoria quell’opera incantevole: “L’elezione di Mr. Clutterbuck”. In essa, come una vera fata, appare in ogni scena e sembra essere l’amica, la confidente, la cugina, la cognata o la zia di almeno tre quarti delle persone importanti d’[[England|Inghilterra]].
+Ora Mary Smith, con la sua personalità piacevole ed energica, i suoi occhi vivaci e il suo cuore gentile. Il lettore non potrà mai comprenderla appieno se non avrà letto o, meglio ancora, imparato a memoria quell’opera incantevole: “L’elezione di Mr. Clutterbuck”. In essa, come una vera fata, appare in ogni scena e sembra essere l’amica, la confidente, la cugina, la cognata o la zia di almeno tre quarti delle persone importanti d’[[settings/england|Inghilterra]].
 
 Non proverà nulla, dico io, a meno che non abbia reso quel lavoro la sua “bibbia”; solo allora capirà come Mary Smith, da St. James’s Place, abbia benedetto quella società con le sue manine gioiose, e come si sia divertita in compagnia di personaggi così diversi tra loro come il Peabody Yid e Victoria Mosel.
 
 Che donna! Quel suo piccolo “cassone da tiro” in Scozia. La sua casa nel West Country. Quella tenuta di campagna che raramente visitava nelle Midlands, ma che prestava con estrema generosità. La sua vivacità, il suo fascino, le sue frasi in francese. Tutti questi erano eredità del suo defunto marito, anch'egli americano e di cognome Smith, come è facile intuire!
 
-Il lettore che non conosce l’opera di cui parlo dovrebbe essersi già informato, nel luogo appropriato, sulla notevole figura del cugino William Bailey; non occorre certo dire quanto ciò abbia comportato ripetizioni da parte mia. Anche lui faceva parte di quel gruppo; anche lui era stato eletto dal popolo. Ma strane eccentricità lo tenevano ormai lontano dal suo vero mondo. Affermava quindi di avere un grande interesse per gli Ebrei, presentandoli come i veri padroni segreti dell’[[England|Inghilterra]]. Quanto fosse sincero quel fanatismo, nemmeno lui stesso avrebbe potuto dirlo con certezza. Gli procurava enorme divertimento scoprire ogni sorta di “nidi di vespe”; non era mai più felice che quando individuava le relazioni tra le famiglie al potere, o il legame tra qualche politico irreprensibile e qualche avventura finanziaria losca. C’era però una sola scusa per le sue manie: nonostante le sue più appassionate ricerche, rimaneva comunque un cinico gentile. Lo incontreremo di nuovo.
+Il lettore che non conosce l’opera di cui parlo dovrebbe essersi già informato, nel luogo appropriato, sulla notevole figura del cugino William Bailey; non occorre certo dire quanto ciò abbia comportato ripetizioni da parte mia. Anche lui faceva parte di quel gruppo; anche lui era stato eletto dal popolo. Ma strane eccentricità lo tenevano ormai lontano dal suo vero mondo. Affermava quindi di avere un grande interesse per gli Ebrei, presentandoli come i veri padroni segreti dell’[[settings/england|Inghilterra]]. Quanto fosse sincero quel fanatismo, nemmeno lui stesso avrebbe potuto dirlo con certezza. Gli procurava enorme divertimento scoprire ogni sorta di “nidi di vespe”; non era mai più felice che quando individuava le relazioni tra le famiglie al potere, o il legame tra qualche politico irreprensibile e qualche avventura finanziaria losca. C’era però una sola scusa per le sue manie: nonostante le sue più appassionate ricerche, rimaneva comunque un cinico gentile. Lo incontreremo di nuovo.
 
-Quindi, Mary Smith era imparentata con tutti loro, e loro erano tutti imparentati tra loro; nel loro rapporto c'era anche amicizia, e erano loro a governare [[England|Inghilterra]], ed erano loro ad assumersi l'onere delle tasse.
+Quindi, Mary Smith era imparentata con tutti loro, e loro erano tutti imparentati tra loro; nel loro rapporto c'era anche amicizia, e erano loro a governare [[settings/england|Inghilterra]], ed erano loro ad assumersi l'onere delle tasse.
 
 Che il leader dell’Opposizione fosse un caro amico di Mary Smith è ovvio; ancora più stretta e affezionata a lei era un’altra sua cugina, il giovane e popolare Primo Ministro. Per i suoi amici era chiamato Dolly, ma per il mondo conosceva un nome più dignitoso. Soffriva leggermente di problemi al polmone sinistro; aveva raggiunto quella posizione elevata prima ancora di compiere cinquant’anni. Per oltre quattro anni aveva guidato con grande abilità le sorti del Partito Nazionalista, e proprio in quel momento, mentre Popocatapetl covava la sua rabbia interna, lui stava a Westminster facendo approvare il “Progetto per l’Ampliamento delle Strade” durante una sessione parlamentare molto animata.
 
@@ -3661,7 +3661,7 @@ Lo portava ovunque con sé, gli dava sempre dei soldi da spendere e, cosa più i
 
 Il momento era propizio: aveva venticinque anni, aveva perso suo padre, era senza un soldo; il titolo di Grinstead che sicuramente avrebbe ereditato sembrava lontano e privo di qualsiasi garanzia concreta. Non aveva scelto, o meglio non gli era stata data, l’opportunità di arruolarsi nell’esercito; inoltre, per colpa di alcuni errori commessi, aveva anche perso l’occasione di frequentare l’università. Era così inadatto alla diplomazia che persino William Bailey, abituato a consigliare per quella professione i suoi giovani amici meno brillanti, scosse la testa quando gliene fu proposto l’ingresso; dopo una breve esperienza a Parigi, fu quindi costretto ad abbandonare anche quel campo.
 
-Nessuna professione si presentò naturalmente a un uomo dai suoi talenti, e lui non aveva l’iniziativa di lavorare come freelance. Pertanto, il suo matrimonio fu uno di quegli eventi “provvidenziali” che sembravano adattarsi troppo perfettamente al disegno generale della sua vita per poter essere veri. Conobbe sua moglie quando Mary Smith, dopo aver fatto tutte le sue indagini presso i Petherington, aveva individuato e “etichettato” quella ereditiera. Quella moglie, appunto, era Sudie Benson, figlia di un americano così ricco che il traffico di [[London|Londra]] si fermava spesso per comodità sua; inoltre, poco più di due anni prima che la mia storia iniziasse, aveva deciso di portare quella ragazza radiosa a [[London|Londra]].
+Nessuna professione si presentò naturalmente a un uomo dai suoi talenti, e lui non aveva l’iniziativa di lavorare come freelance. Pertanto, il suo matrimonio fu uno di quegli eventi “provvidenziali” che sembravano adattarsi troppo perfettamente al disegno generale della sua vita per poter essere veri. Conobbe sua moglie quando Mary Smith, dopo aver fatto tutte le sue indagini presso i Petherington, aveva individuato e “etichettato” quella ereditiera. Quella moglie, appunto, era Sudie Benson, figlia di un americano così ricco che il traffico di [[settings/london|Londra]] si fermava spesso per comodità sua; inoltre, poco più di due anni prima che la mia storia iniziasse, aveva deciso di portare quella ragazza radiosa a [[settings/london|Londra]].
 
 
 
@@ -3676,7 +3676,7 @@ He had been born of Scotch-Irish parents, probably of the name of Benson, and ce
 
 Theocritus C. Benson, now familiar to the whole Anglo-Saxon race of every colour and clime, was of that type always rare but now, though rare, conspicuous, which can so organise and direct the acts of others as to bring order out of chaos, chaos out of order, and alternately accumulate and disperse fortunes hitherto unprecedented in the history of the world.
 
-He was accustomed (in the interviews which he was proud to grant to the newspapers of [[England]], America and the Colonies) to ascribe his great position to unwearied industry and to an abhorrence of all excess (notably in the consumption of fermented liquors) and particularly of the horrid practice of gambling. His puritan upbringing, which had taught him to look upon cards as the Devil’s picture-book, and upon racing as akin to the drama in its spiritual blight, was, he would constantly assert, the key to all that he had done since he left his father’s home. But in this manly self-judgment the Hon. Mr. Benson did himself an injustice. These high qualities are to be discovered in many million of his fellow-citizens, and he might as well have pointed, as sometimes he did point with pride, to the number of his Lodge or to his ignorance of foreign languages as the causes of his repeated triumphs.
+He was accustomed (in the interviews which he was proud to grant to the newspapers of [[settings/england|England]], America and the Colonies) to ascribe his great position to unwearied industry and to an abhorrence of all excess (notably in the consumption of fermented liquors) and particularly of the horrid practice of gambling. His puritan upbringing, which had taught him to look upon cards as the Devil’s picture-book, and upon racing as akin to the drama in its spiritual blight, was, he would constantly assert, the key to all that he had done since he left his father’s home. But in this manly self-judgment the Hon. Mr. Benson did himself an injustice. These high qualities are to be discovered in many million of his fellow-citizens, and he might as well have pointed, as sometimes he did point with pride, to the number of his Lodge or to his ignorance of foreign languages as the causes of his repeated triumphs.
 
 There was more: To his hatred of hazard and to his stern sense of duty and unbending industry, he added something of that daring which has made for the greatness of the blood in all its adventures Overseas, and for no branch more than for the Scotch-Irish.
 
@@ -3686,7 +3686,7 @@ At the moment when his only daughter left her happy Belgian convent to be presen
 
 His wife had married another: their only child he had not seen for three years, and though he knew that her robust common sense would stand against the religious environment of the gentle nuns who had been entrusted with her upbringing, yet he could not but feel that she had passed the most formative years of her life in an alien air, and under influences quite other than those of the Ohio Valley.
 
-He had therefore determined to decline numerous and advantageous offers and to be present himself in [[London]] during the season which saw her introduction to the world, and there, in spite of his unfamiliarity with English ways, he soon appreciated the central position of Mary Smith whose late husband indeed he had come across a quarter of a century before when he was freezing the Topekas off the Pit.
+He had therefore determined to decline numerous and advantageous offers and to be present himself in [[settings/london|London]] during the season which saw her introduction to the world, and there, in spite of his unfamiliarity with English ways, he soon appreciated the central position of Mary Smith whose late husband indeed he had come across a quarter of a century before when he was freezing the Topekas off the Pit.
 
 Theocritus C. Benson had seen young Demaine and was contented; he was also naturally anxious to come across old Lord Grinstead if possible, that he might estimate for himself how long his daughter might have to wait for her title. Indeed he would not allow the marriage to take place until the old man had been pointed out to him, shrivelled almost to nothingness and pulled with extreme caution and deliberation in a bath-chair through the private gardens of Bayton House.
 
@@ -3696,13 +3696,13 @@ When all was happily settled, when Demaine had been given away by his principal 
 
 A point upon which Mary Smith had done her best and failed was the settlements — £1500 a year to stand between his child and starvation or worse, Theocritus was willing to determine. It was the sum he had himself named before the first negotiations were begun; but as they proceeded he refused to change it by one penny, and at last the discussion was abandoned in despair. All the young people might need they should have — she was his only child, they could trust him to be more than generous. Capital sums when they were required for anything but direct investment, should be always at their disposal, and the half or more than the half of his enormous income should be ready to their call; but he resolutely retained to himself the right to control the management of all save the infinitesimal sum which was to stand between Sudie and her husband’s tyranny, or the world’s harshness.
 
-Mary Smith’s veiled threats and open flattery were alike useless. She capitulated, told the young woman to earmark her tiny allowance for journeys, and gained from Theocritus Chepstow only this: — that he would buy a freehold for them, build and furnish it. Theocritus was on like a bird; and the lovely little lodge which [[London]] now knows as Demaine House, with its curious formal gardens, odd Dutch stables and Grecian weathercock on the site of the old mews in what is now Benson Street, is the proof that he kept his promise.
+Mary Smith’s veiled threats and open flattery were alike useless. She capitulated, told the young woman to earmark her tiny allowance for journeys, and gained from Theocritus Chepstow only this: — that he would buy a freehold for them, build and furnish it. Theocritus was on like a bird; and the lovely little lodge which [[settings/london|London]] now knows as Demaine House, with its curious formal gardens, odd Dutch stables and Grecian weathercock on the site of the old mews in what is now Benson Street, is the proof that he kept his promise.
 
-For a year Ole Man Benson had not only kept his promise in the way of building and furnishing for the young people: he had done more. He had floated them upon [[London]] with all the revenue that could be reserved from the new venture upon which he designed to double the colossal sums which directly or indirectly stood to his name, and every penny that he could spare from his first early purchases of Popocatapetls went into the status and future social position of his daughter. Now, after two years, Popocatapetl Dam was finished and yet greater things lay before them.
+For a year Ole Man Benson had not only kept his promise in the way of building and furnishing for the young people: he had done more. He had floated them upon [[settings/london|London]] with all the revenue that could be reserved from the new venture upon which he designed to double the colossal sums which directly or indirectly stood to his name, and every penny that he could spare from his first early purchases of Popocatapetls went into the status and future social position of his daughter. Now, after two years, Popocatapetl Dam was finished and yet greater things lay before them.
 
 Demaine was put into Parliament by a majority comparable only to the financial advantages which had secured it. His birth, her voice and its timbre, gathered into Demaine House all that so small a Great House could hold.
 
-So things had stood to within a week of the March day upon which we saw that very different man, Charles Repton, walking into the [[City]] of London....
+So things had stood to within a week of the March day upon which we saw that very different man, Charles Repton, walking into the [[motifs/city|City]] of London....
 
 But from the name of Charles Repton let me rapidly slew off to the sombre pyramid of that peak in the neighbourhood of Darien and recall the caprice of Popocatapetl upon which so much was to depend.
 
@@ -3719,7 +3719,7 @@ Era nato da genitori scozzesi-irlandesi, probabilmente di cognome Benson, e cert
 
 Theocritus C. Benson, ormai conosciuto da tutta la comunità anglo-sassone, indipendentemente dalla razza o dall’ambiente in cui vive, appartiene a quel tipo di persone che, sebbene rari, sono particolarmente capaci di organizzare e guidare le azioni altrui in modo da creare ordine dal caos, e di accumulare o distribuire ricchezze in modi fino ad allora senza precedenti nella storia del mondo.
 
-Era abituato (nei colloqui che con orgoglio concedeva ai giornali dell’[[England|Inghilterra]], dell’America e delle Colonie) a attribuire la sua grande posizione a un impegno instancabile e a un profondo disprezzo per ogni forma di eccesso, in particolare nel consumo di alcolici fermentati e soprattutto nella terribile pratica del gioco d’azzardo. La sua educazione puritana, che gli aveva insegnato a considerare le carte come un “libro illustrato del Diavolo” e le corse come qualcosa di simile al teatro, ma con effetti dannosi dal punto di vista spirituale, era, secondo quanto sosteneva costantemente, la chiave di tutto ciò che aveva realizzato da quando aveva lasciato la casa di suo padre. Tuttavia, in questa autocritica così mascolina, il signor Benson si rendeva ingiusto verso se stesso. Queste qualità positive si trovano in molti milioni dei suoi concittadini; avrebbe potuto altrettanto bene indicare, con orgoglio, il numero di membri della sua loggia o la propria ignoranza delle lingue straniere come le cause dei suoi continui successi.
+Era abituato (nei colloqui che con orgoglio concedeva ai giornali dell’[[settings/england|Inghilterra]], dell’America e delle Colonie) a attribuire la sua grande posizione a un impegno instancabile e a un profondo disprezzo per ogni forma di eccesso, in particolare nel consumo di alcolici fermentati e soprattutto nella terribile pratica del gioco d’azzardo. La sua educazione puritana, che gli aveva insegnato a considerare le carte come un “libro illustrato del Diavolo” e le corse come qualcosa di simile al teatro, ma con effetti dannosi dal punto di vista spirituale, era, secondo quanto sosteneva costantemente, la chiave di tutto ciò che aveva realizzato da quando aveva lasciato la casa di suo padre. Tuttavia, in questa autocritica così mascolina, il signor Benson si rendeva ingiusto verso se stesso. Queste qualità positive si trovano in molti milioni dei suoi concittadini; avrebbe potuto altrettanto bene indicare, con orgoglio, il numero di membri della sua loggia o la propria ignoranza delle lingue straniere come le cause dei suoi continui successi.
 
 C'era dell'altro: Oltre al suo odio per il rischio e al suo rigido senso del dovere e alla sua instancabile diligenza, possedeva anche quella sorta di audacia che ha reso grande quel popolo in tutte le sue avventure all'estero, soprattutto nel caso dei scozzesi-irlandesi.
 
@@ -3729,7 +3729,7 @@ Nel momento in cui sua unica figlia lasciò il suo felice convento belga per ess
 
 Sua moglie si era sposata con un altro; il loro unico figlio non lo vedeva da tre anni. Sebbene sapesse che il suo buon senso l’avrebbe aiutata a resistere all’influenza dell’ambiente religioso delle gentili suore incaricate della sua educazione, non poteva fare a meno di pensare che avesse trascorso gli anni più importanti della sua vita in un ambiente estraneo, sotto influenze molto diverse da quelle del Ohio Valley.
 
-Era quindi deciso a rifiutare numerose e vantaggiose offerte e ad recarsi personalmente a [[London|Londra]] durante la stagione in cui lei fu presentata al mondo. Lì, nonostante la sua ignoranza delle usanze inglesi, capì rapidamente l’importanza cruciale di Mary Smith; del resto, aveva già incontrato il suo defunto marito un quarto di secolo prima, quando si occupava di congelare i prodotti provenienti dalle regioni dei Topeka.
+Era quindi deciso a rifiutare numerose e vantaggiose offerte e ad recarsi personalmente a [[settings/london|Londra]] durante la stagione in cui lei fu presentata al mondo. Lì, nonostante la sua ignoranza delle usanze inglesi, capì rapidamente l’importanza cruciale di Mary Smith; del resto, aveva già incontrato il suo defunto marito un quarto di secolo prima, quando si occupava di congelare i prodotti provenienti dalle regioni dei Topeka.
 
 Theocritus C. Benson aveva visto il giovane Demaine e ne era rimasto soddisfatto; inoltre, desiderava naturalmente incontrare l’anziano Lord Grinstead, se possibile, per poter valutare da solo quanto tempo sua figlia avrebbe dovuto aspettare per ottenere il suo titolo. Infatti, non avrebbe permesso che il matrimonio avvenisse finché quell’uomo non gli fosse stato mostrato: un uomo ormai ridotto quasi a nulla, che doveva essere trasportato con estrema cautela e attenzione in una sedia a rotelle attraverso i giardini privati di Bayton House.
 
@@ -3739,13 +3739,13 @@ Quando tutto fu sistemato felicemente, quando Demaine fu ceduto dal suo principa
 
 Un punto su cui Mary Smith aveva fatto del suo meglio ma senza successo erano le somme di denaro destinate a garantire che il figlio non morisse di fame o peggio: 1500 sterline all’anno, una cifra che Theocritus stesso aveva proposto prima dell’inizio delle trattative. Ma man mano che queste proseguivano, Theocritus rifiutò categoricamente di modificarla anche di un penny, e alla fine la discussione fu abbandonata in preda al dispero. Tutti i bisogni dei giovani avrebbero dovuto essere soddisfatti. Lei era l’unica figlia di Theocritus; si poteva quindi fidare che fosse più che generoso. Somme considerevoli, quando necessarie per scopi diversi dall’investimento diretto, dovevano sempre essere a loro disposizione. Ma lui si rifiutò con fermezza di cedere il controllo su quelle risorse, tranne che per quella piccolissima somma destinata a proteggere Sudie dalla tirannia del marito o dalle difficoltà della vita.
 
-Le minacce velate e i complimenti espliciti di Mary Smith risultarono entrambi inutili. Si arrese, disse alla giovane donna di riservare la sua piccola rendita per i viaggi, e ottenne da Theocritus Chepstow soltanto questo: che avrebbe comprato loro una proprietà immobiliare, costruendola e arredandola. Theocritus era molto diligente; e la deliziosa casetta che oggi [[London|Londra]] conosce come Demaine House, con i suoi curiosi giardini formali, gli strani stalli olandesi e il galletto di bronzo greco situato nel luogo delle vecchie viette, ora Benson Street, è la prova che mantenne la sua promessa.
+Le minacce velate e i complimenti espliciti di Mary Smith risultarono entrambi inutili. Si arrese, disse alla giovane donna di riservare la sua piccola rendita per i viaggi, e ottenne da Theocritus Chepstow soltanto questo: che avrebbe comprato loro una proprietà immobiliare, costruendola e arredandola. Theocritus era molto diligente; e la deliziosa casetta che oggi [[settings/london|Londra]] conosce come Demaine House, con i suoi curiosi giardini formali, gli strani stalli olandesi e il galletto di bronzo greco situato nel luogo delle vecchie viette, ora Benson Street, è la prova che mantenne la sua promessa.
 
-Per un anno, Ole Man Benson non solo aveva mantenuto la sua promessa riguardo alla costruzione e all’arredamento per quei giovani: aveva fatto di più. Li aveva fatti arrivare a [[London|Londra]] con tutti i proventi che era stato possibile ottenere da quell’impresa nuova, grazie alla quale intendeva raddoppiare le enormi somme che gli appartenevano, direttamente o indirettamente. Ogni centesimo che poteva risparmiare dalle sue prime spese per l’acquisto di Popocatapetl veniva investito nel benessere e nella futura posizione sociale di sua figlia. Ora, dopo due anni, la diga di Popocatapetl era stata completata, ma c’erano ancora cose più grandi in serbo per loro.
+Per un anno, Ole Man Benson non solo aveva mantenuto la sua promessa riguardo alla costruzione e all’arredamento per quei giovani: aveva fatto di più. Li aveva fatti arrivare a [[settings/london|Londra]] con tutti i proventi che era stato possibile ottenere da quell’impresa nuova, grazie alla quale intendeva raddoppiare le enormi somme che gli appartenevano, direttamente o indirettamente. Ogni centesimo che poteva risparmiare dalle sue prime spese per l’acquisto di Popocatapetl veniva investito nel benessere e nella futura posizione sociale di sua figlia. Ora, dopo due anni, la diga di Popocatapetl era stata completata, ma c’erano ancora cose più grandi in serbo per loro.
 
 Demaine fu inserito nel Parlamento grazie a una maggioranza paragonabile soltanto ai vantaggi finanziari che ne avevano garantito l’ingresso. La sua nascita, la sua voce e il suo timbro racchiudevano in Casa Demaine tutto ciò che una così piccola famiglia nobile poteva offrire.
 
-So che tutto era giunto a meno di una settimana dal giorno di marzo in cui vedemmo quell’uomo molto diverso, Charles Repton, entrare nella [[City|>Città]] di Londra.
+So che tutto era giunto a meno di una settimana dal giorno di marzo in cui vedemmo quell’uomo molto diverso, Charles Repton, entrare nella [[motifs/city|>Città]] di Londra.
 
 Ma dal nome di Charles Repton, lasciate che mi soffermi rapidamente sulla cupa piramide situata su quel picco nei pressi di Darien, e ricordi il capriccio di Popocatapetl da cui dipendeva così tanto.
 
@@ -3776,7 +3776,7 @@ That speech, that statesman-like speech, had never been delivered — and for th
 
 A truce to Ole Man Benson! If I have introduced his wretched commercial adventures at such length it is but to explain the portentous effect which they had upon the fortunes of one British statesman.
 
-Far off in [[London]] (Eng.) George Mulross Demaine saw nothing in his morning newspaper but the news (to him a serious matter) that Pink Eye was scratched for the Grand National. His wife, whom her father had shielded from the vulgar atmosphere of commerce, noted indeed the news from the Western Hemisphere and was for a passing moment concerned; but Ole Man Benson did not telegraph, for there were no flies upon him, nor did Ole Man Benson even write, and for the same entomological reason.
+Far off in [[settings/london|London]] (Eng.) George Mulross Demaine saw nothing in his morning newspaper but the news (to him a serious matter) that Pink Eye was scratched for the Grand National. His wife, whom her father had shielded from the vulgar atmosphere of commerce, noted indeed the news from the Western Hemisphere and was for a passing moment concerned; but Ole Man Benson did not telegraph, for there were no flies upon him, nor did Ole Man Benson even write, and for the same entomological reason.
 
 Oh! no. Ole Man Benson proceeded to New York, had certain interviews with certain people, took certain drugs, went through a certain cure, laid as he hoped the foundations of yet another scheme, and not until 30th of March, a full week after the matter I have described, did Theocritus dictate a brief note to his daughter, which I will here transcribe:
 
@@ -3788,7 +3788,7 @@ Theocritus C. Benson.)
 
 “2909 Kanaka Building
 
-New York [[City]]
+New York [[motifs/city|City]]
 
 30/3/’15
 
@@ -3796,9 +3796,9 @@ Coming across on Potassic. Depart 4th — probable arrival Plymouth 11th. Shall 
 
 (Signed) Father”
 
-With true business instinct the great organiser dispatched the cable upon the 4th of April, so that his daughter received upon the evening of the same day in her [[London]] house the reassuring word “eleventh,” which her reception of the letter a few days later easily enabled her to comprehend; and on 11th of April, sure enough, Ole Man Benson in a grave and sober manner embraced his daughter on the landing-stage at Plymouth. George Mulross Demaine was also there, standing a little behind the affectionate group, clothed in a large green ulster and a cap of the same cloth and colour with an enormous peak.
+With true business instinct the great organiser dispatched the cable upon the 4th of April, so that his daughter received upon the evening of the same day in her [[settings/london|London]] house the reassuring word “eleventh,” which her reception of the letter a few days later easily enabled her to comprehend; and on 11th of April, sure enough, Ole Man Benson in a grave and sober manner embraced his daughter on the landing-stage at Plymouth. George Mulross Demaine was also there, standing a little behind the affectionate group, clothed in a large green ulster and a cap of the same cloth and colour with an enormous peak.
 
-They got into the train together and all the way up to [[London]] the master of empty millions said nothing.
+They got into the train together and all the way up to [[settings/london|London]] the master of empty millions said nothing.
 
 As they were driving to Demaine House he spoke: “Any o’ your folk to supper?” he said.
 
@@ -3807,7 +3807,7 @@ His daughter with filial gaiety assured him that she had waited his orders, to w
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO III
+CAPITOLO III
 
 Tardi, quella sera di martedì, Ole Man Benson salì a bordo del Louis XV. Rosewood Express de Luxe mentre questo lasciava la stazione ferroviaria di Chicago della M.N. & C.: era diretto alla sua proprietà in montagna, nell’Idaho, e nella privacy della sua cabina, Ole Man Benson si addormentò.
 
@@ -3827,11 +3827,11 @@ Quel discorso, quel discorso da vero statista, non era mai stato pronunciato, e 
 
 Tregua per Ole Man Benson! Se ho descritto così dettagliatamente le sue misere avventure commerciali, è solo per spiegare l’effetto profondo che esse ebbero sulle sorti di un importante statista britannico.
 
-Lontano, a [[London|Londra]] (Inghilterra), George Mulross Demaine non trovò nulla nel suo giornale del mattino se non quella notizia (che per lui era molto importante): Pink Eye sarebbe stato iscritto alla gara Grand National. Sua moglie, che suo padre aveva protetto dallo spirito volgare del mondo degli affari, notò effettivamente quella notizia proveniente dall’emisfero occidentale e per un momento ne fu preoccupata; ma Ole Man Benson non inviò alcun telegramma, perché non aveva mosche addosso. E nemmeno scrisse, per la stessa ragione entomologica.
+Lontano, a [[settings/london|Londra]] (Inghilterra), George Mulross Demaine non trovò nulla nel suo giornale del mattino se non quella notizia (che per lui era molto importante): Pink Eye sarebbe stato iscritto alla gara Grand National. Sua moglie, che suo padre aveva protetto dallo spirito volgare del mondo degli affari, notò effettivamente quella notizia proveniente dall’emisfero occidentale e per un momento ne fu preoccupata; ma Ole Man Benson non inviò alcun telegramma, perché non aveva mosche addosso. E nemmeno scrisse, per la stessa ragione entomologica.
 
 Oh! no. Ole Man Benson proseguì verso New York, ebbe alcune interviste con certe persone, assunse determinati farmaci, seguì un certo trattamento e, come sperava, gettò le basi per un altro piano. Solo il 30 marzo, una settimana dopo l’episodio che ho descritto, Theocritus dettò una breve nota alla sua figlia, che qui trascrivo:
 
-# Se non viene consegnato, per favore restituirlo.
+Se non viene consegnato, per favore restituirlo.
 
 Titolo: Entro tre giorni…
 
@@ -3847,9 +3847,9 @@ Incontriamoci su Potassic. Partenza il 4°; arrivo probabile a Plymouth l’11°
 
 “Fratello, firmato…”
 
-Con vero istinto imprenditoriale, il grande organizzatore inviò il cablogramma il 4 aprile, così che sua figlia ricevette lo stesso giorno, alla sera, nella sua casa di [[London|Londra]], la rassicurante parola “undicesimo”, che le permise di comprendere facilmente il contenuto della lettera ricevuta pochi giorni dopo; e infatti, l’11 aprile, Ole Man Benson abbracciò sua figlia in modo solenne e sobrio alla banchina di Plymouth. C’era anche George Mulross Demaine, che stava un po’ indietro rispetto al gruppo affettuoso, vestito con un grande ulster verde e un cappello dello stesso tessuto e colore, con una cresta enorme.
+Con vero istinto imprenditoriale, il grande organizzatore inviò il cablogramma il 4 aprile, così che sua figlia ricevette lo stesso giorno, alla sera, nella sua casa di [[settings/london|Londra]], la rassicurante parola “undicesimo”, che le permise di comprendere facilmente il contenuto della lettera ricevuta pochi giorni dopo; e infatti, l’11 aprile, Ole Man Benson abbracciò sua figlia in modo solenne e sobrio alla banchina di Plymouth. C’era anche George Mulross Demaine, che stava un po’ indietro rispetto al gruppo affettuoso, vestito con un grande ulster verde e un cappello dello stesso tessuto e colore, con una cresta enorme.
 
-Salirono sul treno insieme e, per tutto il tragitto fino a [[London|Londra]], quell’uomo ricco di soldi non disse una parola.
+Salirono sul treno insieme e, per tutto il tragitto fino a [[settings/london|Londra]], quell’uomo ricco di soldi non disse una parola.
 
 Mentre si dirigevano verso la casa di Demaine, lui disse: “C’è qualcuno della tua famiglia a cena stasera?”
 
@@ -3864,9 +3864,9 @@ During the meal he was as silent as he had been upon the journey, and at the end
 
 The message Ole Man Benson had to deliver to Sudie was simple enough: there would, for he could not say how long, be no more money forthcoming. He hoped the position might be retrieved; he was confident it would be retrieved before the Fall, by Thanksgiving at latest. Till then, nit!
 
-Sudie had all her father’s readiness; she pointed out to him at once that under the conditions of English politics the total cessation of an income the source of which was familiar to her husband’s friends, would at once affect her father’s credit in future transactions, and clearly showed that no investment could be more to his advantage than the placing of sums at her disposal for the proper up-keep of his daughter’s position in the society of [[London]].
+Sudie had all her father’s readiness; she pointed out to him at once that under the conditions of English politics the total cessation of an income the source of which was familiar to her husband’s friends, would at once affect her father’s credit in future transactions, and clearly showed that no investment could be more to his advantage than the placing of sums at her disposal for the proper up-keep of his daughter’s position in the society of [[settings/london|London]].
 
-To this powerful argument Theocritus immediately replied that those who looked for hens’ teeth were liable to be stung; that cigars containing explosive matter had been offered him too frequently in the past for him now to entertain the thought of consuming them; and that when he was bulling [[London]] he would advise. By which parables he intended to, and did, convey to his daughter his fixed conclusion that it was up to her to bear futures: and lest she should have failed wholly to seize his point, he told her briefly and in the plainest terms that whatever rocks were going were wanted — badly — to sling at something with more dough in it than Mayfair.
+To this powerful argument Theocritus immediately replied that those who looked for hens’ teeth were liable to be stung; that cigars containing explosive matter had been offered him too frequently in the past for him now to entertain the thought of consuming them; and that when he was bulling [[settings/london|London]] he would advise. By which parables he intended to, and did, convey to his daughter his fixed conclusion that it was up to her to bear futures: and lest she should have failed wholly to seize his point, he told her briefly and in the plainest terms that whatever rocks were going were wanted — badly — to sling at something with more dough in it than Mayfair.
 
 With that their brief discourse was ended.
 
@@ -3888,7 +3888,7 @@ To which her father very simply and plainly answered her: “Yep.”
 
 There was much of the splendid blood of Theocritus in Sudie; indeed it is often observed that the genius of the father will descend to the daughter — and vice versa. The very next sentence, therefore, with which Sudie prodded her disconsolate spouse, was a demand for a list of those who might be ready to take Demaine House, to take it at once, to take it furnished, to take it high, to take it by the year and not for the season, and, when they had taken it, to pay.
 
-Demaine immediately suggested the name of such of his acquaintance as might most desire to occupy such a position in [[London]], and were also least able to do so, but he was careful to add after each name, some such remark as “But of course they won’t do,” or “but I don’t think he can afford it,” — until his father-in-law in a pardonable lassitude went out.
+Demaine immediately suggested the name of such of his acquaintance as might most desire to occupy such a position in [[settings/london|London]], and were also least able to do so, but he was careful to add after each name, some such remark as “But of course they won’t do,” or “but I don’t think he can afford it,” — until his father-in-law in a pardonable lassitude went out.
 
 “The best thing you can do,” said his wife with renewed decision when they were alone, “is to get up right here and go round to Mary’s.” For it was a notable circumstance in Sudie’s relations with Mrs. Smith that while that lady gave her her full title, she would invariably allude to Mrs. Smith by the more affectionate medium of the Christian name.
 
@@ -3907,9 +3907,9 @@ Durante il pasto rimase silenzioso proprio come durante il viaggio; alla fine fe
 
 Il messaggio che Ole Man Benson doveva portare a Sudie era abbastanza semplice: per un periodo di tempo ancora indefinito, non ci sarebbero stati più soldi disponibili. Sperava che la situazione potesse essere risolta; era convinto che ciò avverrebbe entro l’autunno, al massimo entro il Ringraziamento. Fino ad allora, niente da fare!
 
-Sudie possedeva tutta la prontezza di suo padre; gli spiegò immediatamente che, nelle condizioni della politica inglese, la cessazione totale di un reddito il cui provenire era noto agli amici di suo marito avrebbe influenzato negativamente la credibilità di suo padre in future transazioni. Gli dimostrò chiaramente anche che nessun investimento avrebbe potuto essere più vantaggioso per lui di quello di mettere a sua disposizione somme di denaro per garantire il corretto mantenimento della posizione sociale di sua figlia nella società di [[London|Londra]].
+Sudie possedeva tutta la prontezza di suo padre; gli spiegò immediatamente che, nelle condizioni della politica inglese, la cessazione totale di un reddito il cui provenire era noto agli amici di suo marito avrebbe influenzato negativamente la credibilità di suo padre in future transazioni. Gli dimostrò chiaramente anche che nessun investimento avrebbe potuto essere più vantaggioso per lui di quello di mettere a sua disposizione somme di denaro per garantire il corretto mantenimento della posizione sociale di sua figlia nella società di [[settings/london|Londra]].
 
-Di fronte a questo argomento convincente, Teocrito rispose immediatamente che coloro che cercano denti di gallina rischiano di essere pungiti; che sigari contenenti sostanze esplosive gli erano stati offerti troppo spesso in passato per poter ora anche solo considerare l’idea di consumarli; e che, quando si trattava di affrontare problemi legati a [[London|Londra]], lui era sempre pronto a dare consigli. Con queste metafore intendeva, e infatti riuscì, a comunicare alla figlia la sua ferma convinzione: spettava a lei affrontare il futuro. E per assicurarsi che avesse compreso appieno il messaggio, le disse in termini semplici e chiari che erano necessarie tutte le risorse disponibili per contrastare qualcosa di molto più importante di ciò che esisteva a Mayfair.
+Di fronte a questo argomento convincente, Teocrito rispose immediatamente che coloro che cercano denti di gallina rischiano di essere pungiti; che sigari contenenti sostanze esplosive gli erano stati offerti troppo spesso in passato per poter ora anche solo considerare l’idea di consumarli; e che, quando si trattava di affrontare problemi legati a [[settings/london|Londra]], lui era sempre pronto a dare consigli. Con queste metafore intendeva, e infatti riuscì, a comunicare alla figlia la sua ferma convinzione: spettava a lei affrontare il futuro. E per assicurarsi che avesse compreso appieno il messaggio, le disse in termini semplici e chiari che erano necessarie tutte le risorse disponibili per contrastare qualcosa di molto più importante di ciò che esisteva a Mayfair.
 
 Con ciò terminò il loro breve dialogo.
 
@@ -3931,7 +3931,7 @@ Non fu mancanza di tatto, ma nervosismo a impedire a George, alla fine di questo
 
 In Sudie scorreva molto del nobile sangue di Teocrito; infatti si osserva spesso che il genio del padre possa trasmettersi alla figlia – e viceversa. Quindi, la prima frase che Sudie disse al suo sposo disperato fu proprio una richiesta di un elenco di persone disposte ad acquistare immediatamente la casa Demaine, già arredata, per un periodo annuale e non solo temporaneamente; inoltre, tali persone dovevano essere pronte a pagare subito dopo l’acquisto.
 
-Demaine suggerì immediatamente i nomi di alcune persone che conosceva e che molto probabilmente avrebbero desiderato occupare una tale posizione a [[London|Londra]], ma allo stesso tempo erano le meno in grado di farlo. Tuttavia, aggiungeva sempre dopo ogni nome commenti del tipo “Ma ovviamente non sarebbero adatti”, o “Non credo che possano permetterselo, ”, fino a quando suo suocero, con una comprensibile stanchezza, decise di andarsene.
+Demaine suggerì immediatamente i nomi di alcune persone che conosceva e che molto probabilmente avrebbero desiderato occupare una tale posizione a [[settings/london|Londra]], ma allo stesso tempo erano le meno in grado di farlo. Tuttavia, aggiungeva sempre dopo ogni nome commenti del tipo “Ma ovviamente non sarebbero adatti”, o “Non credo che possano permetterselo, ”, fino a quando suo suocero, con una comprensibile stanchezza, decise di andarsene.
 
 “La cosa migliore che puoi fare,” disse sua moglie con nuova determinazione quando furono soli, “è alzarti subito e andare da Mary.” Infatti, una caratteristica distintiva nelle relazioni tra Sudie e la signora Smith era che, sebbene quest'ultima le usasse il titolo completo, lei la chiamava sempre con il nome di battesimo, in modo più affettuoso.
 
@@ -3960,7 +3960,7 @@ She sat down and wrote at once to William Bailey.
 
 He said “yes” again, as humbly as before. And as he went out he did all that she had asked him, though to make the matter more sure she watched for a moment from the window.
 
-When William Bailey received the letter next morning he was in the best of moods. For one thing he was going to leave [[London]] for three weeks, — a prospect that always delighted him. For another he was going to do some sea fishing, a sport of which he was passionately fond. For a third, an Austrian money-lender and a baron at that, had shot himself — it had of course been kept out of the English papers, but he had read all the details in one of the anti-semitic rags which are the disgrace of Vienna, and his spirits had risen, buoyant at the news. Finally, and what was of perhaps most importance for an eccentric and middle-aged celibate, the house which he had hired for a month he knew exactly suited him. It was the house of Merry, the architect, and stood just so far from Parham Town as would give him the isolation he adored, yet just so near to Parham Harbour as would put him in touch with the sea.
+When William Bailey received the letter next morning he was in the best of moods. For one thing he was going to leave [[settings/london|London]] for three weeks, — a prospect that always delighted him. For another he was going to do some sea fishing, a sport of which he was passionately fond. For a third, an Austrian money-lender and a baron at that, had shot himself — it had of course been kept out of the English papers, but he had read all the details in one of the anti-semitic rags which are the disgrace of Vienna, and his spirits had risen, buoyant at the news. Finally, and what was of perhaps most importance for an eccentric and middle-aged celibate, the house which he had hired for a month he knew exactly suited him. It was the house of Merry, the architect, and stood just so far from Parham Town as would give him the isolation he adored, yet just so near to Parham Harbour as would put him in touch with the sea.
 
 For all these reasons he read Mary Smith’s little note in great gaiety of heart, and in a mood in which men of influence are willing to do what they can for their kind.
 
@@ -3995,7 +3995,7 @@ Si sedette e scrisse immediatamente a William Bailey.
 
 Disse di nuovo «sì», umilmente come prima. E uscendo fece tutto quello che lei gli aveva chiesto, benché, per rendere la cosa più sicura, lei lo sorvegliasse per un momento dalla finestra.
 
-Quando William Bailey ricevette la lettera il mattino seguente era del più bell'umore. Anzitutto stava per lasciare [[London|Londra]] per tre settimane, — una prospettiva che lo rallegrava sempre. Poi si accingeva a un po' di pesca in mare, uno sport per il quale aveva una passione ardente. In terzo luogo, un usuraio austriaco, e per giunta barone, si era sparato — la notizia era stata naturalmente tenuta fuori dai giornali inglesi, ma lui ne aveva letto tutti i particolari in uno di quei fogliacci antisemiti che sono la vergogna di Vienna, e a quella notizia il suo umore si era sollevato, esultante. Infine, e questo era forse ciò che più contava per un celibe eccentrico e di mezza età, la casa che aveva preso in affitto per un mese sapeva bene che gli si addiceva alla perfezione. Era la casa di Merry, l'architetto, e sorgeva abbastanza lontano da Parham Town da concedergli l'isolamento che adorava, e tuttavia abbastanza vicino al porto di Parham da metterlo in contatto con il mare.
+Quando William Bailey ricevette la lettera il mattino seguente era del più bell'umore. Anzitutto stava per lasciare [[settings/london|Londra]] per tre settimane, — una prospettiva che lo rallegrava sempre. Poi si accingeva a un po' di pesca in mare, uno sport per il quale aveva una passione ardente. In terzo luogo, un usuraio austriaco, e per giunta barone, si era sparato — la notizia era stata naturalmente tenuta fuori dai giornali inglesi, ma lui ne aveva letto tutti i particolari in uno di quei fogliacci antisemiti che sono la vergogna di Vienna, e a quella notizia il suo umore si era sollevato, esultante. Infine, e questo era forse ciò che più contava per un celibe eccentrico e di mezza età, la casa che aveva preso in affitto per un mese sapeva bene che gli si addiceva alla perfezione. Era la casa di Merry, l'architetto, e sorgeva abbastanza lontano da Parham Town da concedergli l'isolamento che adorava, e tuttavia abbastanza vicino al porto di Parham da metterlo in contatto con il mare.
 
 Per tutte queste ragioni lesse il biglietto di Mary Smith con grande allegria di cuore, e in quello stato d'animo in cui gli uomini influenti sono disposti a fare per il prossimo tutto quello che possono.
 
@@ -4032,7 +4032,7 @@ Anyhow, those regions of the head which lie behind either ear were for some reas
 
 When, therefore, somewhere about the corner of Tottenham Court Road (on that March day on which we left him walking to his Board meeting), his hat blew off: when he had run after it: when in doing so he had ruffled his fine crop of white hair; and when, to have it all set right, he had gone into a second-rate barber’s, it may well be imagined that he gave the man who served him minute instructions that the head rest upon the back of the chair should be made comfortable — and so it was. And on to it Sir Charles Repton leant gingerly the head upon whose clear action depended the future fortunes of Van Diemens.
 
-The man in brushing his hair with an apparatus of singular power, turned the monologue on to the commonplaces of the moment, which included the bestiality of the Government and the abhorrent nature of the Italian people, of whom at that particular moment in 1915 the people of [[London]] stood in abject terror.
+The man in brushing his hair with an apparatus of singular power, turned the monologue on to the commonplaces of the moment, which included the bestiality of the Government and the abhorrent nature of the Italian people, of whom at that particular moment in 1915 the people of [[settings/london|London]] stood in abject terror.
 
 Whether it was the pressure of the violent rotating brush or some looseness in the screw that held the support behind him, with a shock and a clang that support slipped, and Sir Charles Repton’s head came smartly down, first through nothingness and then on to two iron nuts which exactly corresponded to those processes of the skull just behind either ear, in which, as I have taken pains to remark, he was peculiarly sensitive: for they were largely developed in him and nourished it would seem by an unusual supply of blood.
 
@@ -4040,11 +4040,11 @@ Sharp as was the pain, Charles Repton controlled himself, listened to the explan
 
 When he went out again into the street he had almost forgotten the accident. The two places where his head had been struck swelled slightly and he touched them now and again, but they soon passed from his mind; within ten minutes they were no longer painful; yet was there set up in them from that moment, an irritation which was to have no inconsiderable consequence.
 
-He went on into the [[City]], ordered one or two things which he had set down in his memorandum before starting, looked in at a [[City]] Club where he knew one or two items of news were awaiting him, and slowly betook himself to the offices of the Van Diemens Company. He had thoroughly planned out the scheme of that morning’s work; it needed no recapitulation in his mind, yet as his habit was, just before opening the door of the Board Room, in the few seconds of going up the stairs, he briefly presented his scheme of tactics to his own mind.
+He went on into the [[motifs/city|City]], ordered one or two things which he had set down in his memorandum before starting, looked in at a [[motifs/city|City]] Club where he knew one or two items of news were awaiting him, and slowly betook himself to the offices of the Van Diemens Company. He had thoroughly planned out the scheme of that morning’s work; it needed no recapitulation in his mind, yet as his habit was, just before opening the door of the Board Room, in the few seconds of going up the stairs, he briefly presented his scheme of tactics to his own mind.
 
 The Directors must ask the shareholders for fresh capital; a nominal million, an increase of 25 per cent. upon the value of the shares at par. That was the first point.
 
-The second point was the object for which this levy should nominally be demanded. On that also he had made up his mind. Paton had quite unconsciously suggested to him the master idea; a little belt of untravelled and unknown country (locally known as the “Out and Out”) wherein the degraded Kawangas — so Paton had told him, and after all Paton had been there — held their orgies in Mutchi-time, alone separated Perks’ Bay from the Straits, and the long detour which all traffic must now make between the coaling station and the high road to the East, could be cut off by a line crossing that region. Paton had assured him with immense enthusiasm that such a line would give its possessor the strategic key to the gate of everything East of the Bay of Bengal, and, what was more important in Sir Charles’ eyes than Paton’s own opinion, a vast mass of gentlemen in the suburbs of [[London]] and perhaps five-sixths of the journalists in Fleet Street, were ready to rally to the idea. It had been well preached and well dinned in.
+The second point was the object for which this levy should nominally be demanded. On that also he had made up his mind. Paton had quite unconsciously suggested to him the master idea; a little belt of untravelled and unknown country (locally known as the “Out and Out”) wherein the degraded Kawangas — so Paton had told him, and after all Paton had been there — held their orgies in Mutchi-time, alone separated Perks’ Bay from the Straits, and the long detour which all traffic must now make between the coaling station and the high road to the East, could be cut off by a line crossing that region. Paton had assured him with immense enthusiasm that such a line would give its possessor the strategic key to the gate of everything East of the Bay of Bengal, and, what was more important in Sir Charles’ eyes than Paton’s own opinion, a vast mass of gentlemen in the suburbs of [[settings/london|London]] and perhaps five-sixths of the journalists in Fleet Street, were ready to rally to the idea. It had been well preached and well dinned in.
 
 These two points were clear: they must ask for a million and they must ask it for the purpose of building a railway that would at last ensure the Empire against the nightmare of foreign rivals.
 
@@ -4057,7 +4057,7 @@ For his colleague Bingham added to a native idiocy of solid texture and formidab
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO IV
+CAPITOLO IV
 
 Charles Repton, con i suoi interessi finanziari così diversificati, non sapeva nulla dei Popocatapetl e gliene importava ancora meno.
 
@@ -4069,7 +4069,7 @@ Comunque, quelle parti della testa situate dietro ciascun orecchio erano, per qu
 
 Quindi, quando, all’angolo di Tottenham Court Road (in quel giorno di marzo in cui lo vedemmo camminare verso la riunione del consiglio), il suo cappello volò via; quando corse ad inseguirlo; quando, nel farlo, si scompigliò quella bella chioma bianca; e quando, per sistemarlo, entrò in un barbiere di seconda categoria, è facile immaginare che diede precise istruzioni al ragazzo che lo serviva affinché il sedile della sedia su cui appoggiava la testa fosse ben confortevole. E così fu. Su quel sedile, Sir Charles Repton appoggiò con cura la testa di colui il cui operato avrebbe determinato il futuro di Van Diemen.
 
-L’uomo, mentre si pettinava con un apparecchio di straordinaria potenza, continuò il suo monologo parlando delle banalità del momento: tra queste, menzionò la bestialità del governo e la natura odiosa del popolo italiano; in quel particolare istante del 1915, il popolo di [[London|Londra]] provava un terrore profondo.
+L’uomo, mentre si pettinava con un apparecchio di straordinaria potenza, continuò il suo monologo parlando delle banalità del momento: tra queste, menzionò la bestialità del governo e la natura odiosa del popolo italiano; in quel particolare istante del 1915, il popolo di [[settings/london|Londra]] provava un terrore profondo.
 
 Sia a causa della pressione esercitata dalla spazzola che ruotava violentemente, sia per qualche problema di fissità del viti che sostenevano il supporto alle sue spalle, con un urto improvviso e un clangore quel supporto si staccò, facendo cadere la testa di Sir Charles Repton: prima nel vuoto, poi su due viti di ferro che corrispondevano esattamente alle zone del cranio situate dietro ciascun orecchio, zone in cui, come ho già sottolineato, era particolarmente sensibile; queste aree, infatti, erano particolarmente sviluppate in lui e sembrava che venissero nutrite da un flusso sanguigno insolitamente intenso.
 
@@ -4077,11 +4077,11 @@ Nonostante il dolore fosse intenso, Charles Repton riuscì a controllarsi, ascol
 
 Quando uscì di nuovo in strada, aveva quasi dimenticato l’incidente. I due punti in cui la sua testa era stata colpita erano leggermente gonfi e li toccava di tanto in tanto, ma presto quei ricordi svanirono dalla sua mente; entro dieci minuti non provava più dolore. Tuttavia, da quel momento in poi, in quei punti si era creato un’irritazione che avrebbe avuto conseguenze notevoli.
 
-Entrò nella [[City|Città]], ordinò una o due cose che aveva annotato nel suo promemoria prima di iniziare, fece un salto al [[City|Club della Città]] dove sapeva che lo aspettavano una o due notizie importanti, e poi si diresse lentamente verso gli uffici della Van Diemens Company. Aveva pianificato attentamente tutto il lavoro da svolgere quella mattina; non aveva bisogno di ripassare i dettagli nella sua mente, ma, come suo solito, proprio prima di aprire la porta dell’ufficio del consiglio di amministrazione, nei pochi secondi trascorsi salendo le scale, riassunse brevemente il piano d’azione che aveva in mente.
+Entrò nella [[motifs/city|Città]], ordinò una o due cose che aveva annotato nel suo promemoria prima di iniziare, fece un salto al [[motifs/city|Club della Città]] dove sapeva che lo aspettavano una o due notizie importanti, e poi si diresse lentamente verso gli uffici della Van Diemens Company. Aveva pianificato attentamente tutto il lavoro da svolgere quella mattina; non aveva bisogno di ripassare i dettagli nella sua mente, ma, come suo solito, proprio prima di aprire la porta dell’ufficio del consiglio di amministrazione, nei pochi secondi trascorsi salendo le scale, riassunse brevemente il piano d’azione che aveva in mente.
 
 I dirigenti devono chiedere ai soci un capitale aggiuntivo: un milione nominale, ovvero un aumento del 25% rispetto al valore nominale delle azioni. Questo era il primo punto da considerare.
 
-Il secondo punto riguardava l’oggetto per cui questa tassa avrebbe dovuto essere richiesta nominalmente; anche su questo aveva già preso una decisione. Paton, quasi inconsciamente, gli aveva suggerito l’idea principale: un piccolo tratto di territorio inesplorato e sconosciuto (localmente noto come “Out and Out”), dove i decaduti Kawangas – così gli aveva detto Paton, e dopotutto Paton c’era stato – tenevano le loro orge durante il periodo Mutchi. Quel tratto di territorio avrebbe potuto eliminare il lungo giro obbligatorio che tutti i viaggiatori dovevano compiere attualmente tra la stazione di carburante e la strada principale verso est, permettendo così di abbreviare notevolmente il percorso. Paton gli aveva assicurato con grande entusiasmo che una tale linea avrebbe dato al suo possessore il controllo strategico su tutto ciò che si trovava a est della Baia del Bengala; e, cosa ancora più importante agli occhi di Sir Charles rispetto all’opinione stessa di Paton, un gran numero di persone nei sobborghi di [[London|Londra]] – e probabilmente cinque-sei settimi dei giornalisti di Fleet Street – erano pronte a sostenere questa idea. L’argomento era stato ampiamente dibattuto e diffuso.
+Il secondo punto riguardava l’oggetto per cui questa tassa avrebbe dovuto essere richiesta nominalmente; anche su questo aveva già preso una decisione. Paton, quasi inconsciamente, gli aveva suggerito l’idea principale: un piccolo tratto di territorio inesplorato e sconosciuto (localmente noto come “Out and Out”), dove i decaduti Kawangas – così gli aveva detto Paton, e dopotutto Paton c’era stato – tenevano le loro orge durante il periodo Mutchi. Quel tratto di territorio avrebbe potuto eliminare il lungo giro obbligatorio che tutti i viaggiatori dovevano compiere attualmente tra la stazione di carburante e la strada principale verso est, permettendo così di abbreviare notevolmente il percorso. Paton gli aveva assicurato con grande entusiasmo che una tale linea avrebbe dato al suo possessore il controllo strategico su tutto ciò che si trovava a est della Baia del Bengala; e, cosa ancora più importante agli occhi di Sir Charles rispetto all’opinione stessa di Paton, un gran numero di persone nei sobborghi di [[settings/london|Londra]] – e probabilmente cinque-sei settimi dei giornalisti di Fleet Street – erano pronte a sostenere questa idea. L’argomento era stato ampiamente dibattuto e diffuso.
 
 Questi due punti erano chiari: dovevano chiedere un milione e lo dovevano fare allo scopo di costruire una ferrovia che finalmente potesse proteggere l’Impero dal terrore dei rivali stranieri.
 
@@ -4150,13 +4150,13 @@ After that typical and decisive day, Repton, for more than a month, refrained fr
 
 He was ever in his seat on those two days in each week when it was his business to answer questions: he never let his understrapper appear for him; for one full fortnight he was permanently in attendance, watching the fortunes before a select committee of a certain Bill, for which the public cared nothing but which he knew might change in a very important particular the public fortune — but in general he seemed to be in retirement. He was planning hard.
 
-A mixture of Imperial sentiment and personal pride urged him to put Van Diemens on their legs, and all April, all through the Easter Recess, he remained in [[London]] working. He worked right on into May; for the first week after Parliament met again he was seen but little; one thing only troubled him, that at long intervals — sometimes as long as ten days, an uneasy twinge behind the ears, the result of that little half-forgotten accident, incommoded him. These twinges came a trifle more frequently as May advanced. After the last of them he had felt a little dazed — no more. And still he worked and worked, holding twenty reins in his hands.
+A mixture of Imperial sentiment and personal pride urged him to put Van Diemens on their legs, and all April, all through the Easter Recess, he remained in [[settings/london|London]] working. He worked right on into May; for the first week after Parliament met again he was seen but little; one thing only troubled him, that at long intervals — sometimes as long as ten days, an uneasy twinge behind the ears, the result of that little half-forgotten accident, incommoded him. These twinges came a trifle more frequently as May advanced. After the last of them he had felt a little dazed — no more. And still he worked and worked, holding twenty reins in his hands.
 
 Before the end of May the fruit of all this labour began to appear. Camptons were reconstructed, arbitration had been forced upon the Docks combination in the North just in time to prevent a wholesale transference of shipping abroad, and more important than all, perhaps, there had begun to crop up in the papers, here, there, and everywhere, the mention — and the flattering mention — of Van Diemens, and the wealthy were already familiar with the conception of a certain railway in the land which was under the Van Diemens charter.
 
 The wealthy, but as yet only the wealthy; it is as fatal to be too early as to be too late, and that brain which knew how to drive and compel, had also known so well how to restrain, that the shares still remained unsaleable with the meaningless quotation of sixteen shillings and a few fluctuating pence still attached to them in the market lists.
 
-So Repton stood in the middle of May, 1915, when he became aware that an obscure member (obscure at least in the House of Commons — and Repton noticed little of, and cared nothing for, the merely luxurious world of [[London]]), an aristocrat of sorts, one of the Demaine, — George Demaine it seemed, was being talked about. He was being pushed somehow. Repton hardly heeded so commonplace a phenomenon, save perhaps to wonder what job was on: — he continued to push Van Diemens.
+So Repton stood in the middle of May, 1915, when he became aware that an obscure member (obscure at least in the House of Commons — and Repton noticed little of, and cared nothing for, the merely luxurious world of [[settings/london|London]]), an aristocrat of sorts, one of the Demaine, — George Demaine it seemed, was being talked about. He was being pushed somehow. Repton hardly heeded so commonplace a phenomenon, save perhaps to wonder what job was on: — he continued to push Van Diemens.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -4171,13 +4171,13 @@ Dopo quel giorno tipico e decisivo, Repton si astenne dal partecipare a dibattit
 
 Quei due giorni della settimana in cui spettava a lui rispondere alle domande, era sempre presente al suo posto; non permetteva mai che il suo assistente intervenisse al suo posto. Per un intero quindicinale rimase costantemente lì, osservando gli sviluppi di una certa proposta di legge davanti a una commissione selezionata. Al pubblico quella proposta non interessava affatto, ma lui sapeva che poteva influenzare in modo significativo la situazione economica del Paese. In generale, però, sembrava essere in pensione. Stava pianificando con attenzione.
 
-Un misto di sentimento imperiale e orgoglio personale lo spinse a far sì che Van Diemens si rimettesse in piedi; per tutto aprile, durante l’intervallo pasquale, rimase a [[London|Londra]] a lavorare. Continuò a lavorare anche nel mese di maggio; nella prima settimana dopo la riapertura del Parlamento lo si vide poco in giro. L’unica cosa che lo preoccupava era un dolore sgradevole che gli compariva di tanto in tanto alle orecchie – a volte ogni dieci giorni – causato da quell’incidente quasi dimenticato. Con l’avanzare di maggio, questi dolori diventarono più frequenti; dopo l’ultimo episodio si sentì un po’ stordito, ma nient’altro. E continuò comunque a lavorare, tenendo in mano venti redini contemporaneamente.
+Un misto di sentimento imperiale e orgoglio personale lo spinse a far sì che Van Diemens si rimettesse in piedi; per tutto aprile, durante l’intervallo pasquale, rimase a [[settings/london|Londra]] a lavorare. Continuò a lavorare anche nel mese di maggio; nella prima settimana dopo la riapertura del Parlamento lo si vide poco in giro. L’unica cosa che lo preoccupava era un dolore sgradevole che gli compariva di tanto in tanto alle orecchie – a volte ogni dieci giorni – causato da quell’incidente quasi dimenticato. Con l’avanzare di maggio, questi dolori diventarono più frequenti; dopo l’ultimo episodio si sentì un po’ stordito, ma nient’altro. E continuò comunque a lavorare, tenendo in mano venti redini contemporaneamente.
 
 Prima della fine di maggio, i frutti di tutto questo lavoro iniziarono ad apparire. I campeggi furono ricostruiti; l’arbitrato fu imposto sulla combinazione dei porti del Nord proprio in tempo per impedire il trasferimento su larga scala delle attività navali all’estero. E, forse più importante di tutto, iniziò a comparire ovunque sui giornali menzioni – e menzioni lusinghiere – di Van Diemens; i ricchi erano già a conoscenza dell’idea di costruire una certa ferrovia nel territorio soggetto alla concessione di Van Diemens.
 
 I ricchi, ma per ora solo i ricchi; è altrettanto fatale essere troppo presto quanto essere troppo tardi. Quel cervello che sapeva come guidare e imporre, conosceva anche molto bene come frenare; di conseguenza, le azioni rimanevano ancora invendute, con quella quotazione senza significato di sedici scellini e qualche penny fluttuante ancora indicata nei listini di borsa.
 
-So che Repton si trovava nel mezzo di maggio 1915 quando si rese conto che un membro poco noto – almeno alla Camera dei Comuni; Repton non prestava molta attenzione, né gli importava nulla, al mondo soltanto lussuoso di [[London|Londra]] – un aristocratico di sorta, uno dei Demaine, sembrava fosse George Demaine, veniva discusso in quel momento. Qualcuno lo stava spingendo verso qualcosa. Repton quasi non prestò attenzione a questo fenomeno così comune; forse si chiese soltanto quale fosse il compito che gli era stato assegnato. Continuò comunque a “spingere” Van Diemens.
+So che Repton si trovava nel mezzo di maggio 1915 quando si rese conto che un membro poco noto – almeno alla Camera dei Comuni; Repton non prestava molta attenzione, né gli importava nulla, al mondo soltanto lussuoso di [[settings/london|Londra]] – un aristocratico di sorta, uno dei Demaine, sembrava fosse George Demaine, veniva discusso in quel momento. Qualcuno lo stava spingendo verso qualcosa. Repton quasi non prestò attenzione a questo fenomeno così comune; forse si chiese soltanto quale fosse il compito che gli era stato assegnato. Continuò comunque a “spingere” Van Diemens.
 
 
 
@@ -4186,7 +4186,7 @@ So che Repton si trovava nel mezzo di maggio 1915 quando si rese conto che un me
 
 CHAPTER V
 
-THE PETHERINGTONS’ HOUSE, to which Mary Smith drove on the evening of 12th of April, under the two pretty little electric lights of her car, one for either side of her face, was one of a hundred similar [[London]] houses, a huge brown cube in the middle of Grosvenor Square.
+THE PETHERINGTONS’ HOUSE, to which Mary Smith drove on the evening of 12th of April, under the two pretty little electric lights of her car, one for either side of her face, was one of a hundred similar [[settings/london|London]] houses, a huge brown cube in the middle of Grosvenor Square.
 
 It was no longer called Petherington House; it had once again regained its more familiar appellation of No. 89, under which it had been famous for the complete lack of entertainment of any sort which had distinguished the short session of 1912. Then old Hooker had died, the changes in the Cabinet had come, Hooker’s wife had married the Bishop and also died immediately, and finally the Petheringtons had taken the place, foolishly called it by their own title for a few months, and finding it unknown to cabmen and to their friends’ chauffeurs also under this appellation, they slowly reverted to the old name.
 
@@ -4222,7 +4222,7 @@ The Prime Minister remembered the explosion of Popocatapetl: he had vaguely conn
 
 The Prime Minister seemed to live more actively as he considered the problem. The warm air, the scent of clothes and flowers suited him well.
 
-The trouble with his left lung which had so endeared him to his fellow-citizens, he felt far less keenly in the beginning of a warm spring than at any other time, and evenings such as this rewarded him for the sacrifice he made every winter to his duty and to [[England]]. Of the four years during which he had held the highest of human offices he had spent but one winter on the Riviera, and though it had been necessary in one year to forego an Autumn session, such a session had not in the other three years delayed the meeting of Parliament beyond the end of February. His youth stood him in good stead during this ordeal; but there were those (and they were they who loved him most) who looked with anxiety upon the frail form and thought, although they dared not say, that the years were slipping by and that what a man could do with impunity when still upon the right side of fifty, would become another matter when his fifty-fifth year was passed.... There was of course always the hope of opposition and its leisure.... The Broadening of the Streets Bill had roused a tempest of Party passion.... He had already been publicly stoned in the North.... But no matter; for the moment the Prime Minister was full of appreciation, and for his cousin’s purposes in the kindliest of moods.
+The trouble with his left lung which had so endeared him to his fellow-citizens, he felt far less keenly in the beginning of a warm spring than at any other time, and evenings such as this rewarded him for the sacrifice he made every winter to his duty and to [[settings/england|England]]. Of the four years during which he had held the highest of human offices he had spent but one winter on the Riviera, and though it had been necessary in one year to forego an Autumn session, such a session had not in the other three years delayed the meeting of Parliament beyond the end of February. His youth stood him in good stead during this ordeal; but there were those (and they were they who loved him most) who looked with anxiety upon the frail form and thought, although they dared not say, that the years were slipping by and that what a man could do with impunity when still upon the right side of fifty, would become another matter when his fifty-fifth year was passed.... There was of course always the hope of opposition and its leisure.... The Broadening of the Streets Bill had roused a tempest of Party passion.... He had already been publicly stoned in the North.... But no matter; for the moment the Prime Minister was full of appreciation, and for his cousin’s purposes in the kindliest of moods.
 
 Nevertheless he thought (and his cousin read his thoughts) that she was asking the impossible. An idea struck him.
 
@@ -4289,9 +4289,9 @@ He, poor fellow, saw in all this nothing but that eternity of bad luck to which 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO V
+CAPITOLO V
 
-La casa dei Petherington, verso cui Mary Smith si diresse la sera del 12 aprile, illuminata dalle due graziose luci elettriche della sua auto – una su ciascun lato del viso – era una delle centinaia di case simili che si trovano a [[London|Londra]], un enorme cubo marrone situato nel mezzo di Grosvenor Square.
+La casa dei Petherington, verso cui Mary Smith si diresse la sera del 12 aprile, illuminata dalle due graziose luci elettriche della sua auto – una su ciascun lato del viso – era una delle centinaia di case simili che si trovano a [[settings/london|Londra]], un enorme cubo marrone situato nel mezzo di Grosvenor Square.
 
 Non veniva più chiamata Casa Petherington; aveva ripreso il suo nome più conosciuto: numero 89. Era famosa per l’assoluta assenza di qualsiasi forma di intrattenimento che avesse caratterizzato la sua breve esistenza nel 1912. Poi era morto il vecchio Hooker, erano avvenuti i cambiamenti nel Gabinetto, la moglie di Hooker aveva sposato il vescovo ed era morta subito dopo; infine i Petherington si erano trasferiti lì. Per qualche mese avevano stupidamente continuato a chiamarla con il loro nome, ma vedendo che né i tassisti né gli autisti dei loro amici la conoscevano con quel nome, avevano gradualmente ripreso ad usarne l’originale.
 
@@ -4305,7 +4305,7 @@ Un estraneo avrebbe potuto pensare che avesse pochi amici; procedeva così lenta
 
 Dolly conosceva bene Mary Smith e si rassegnò ad affrontare quella sofferenza. Non era certo venuta lì quella notte per niente. Si avvicinò a lui in meno di mezzo minuto, dopo averlo individuato tra la folla di persone ricche, e lo portò via silenziosamente. Lo fece sedere su una grande sedia situata in un angolo appartato, dove la luce era soffusa. Approfittando di un fragoroso rumore prodotto dall’orchestra – che, rispetto ai successi precedenti, sembrava davvero poco impressionante – gridò:
 
-#Quando farai il tuo prossimo passo?
+Quando farai il tuo prossimo passo?
 
 Il Primo Ministro la pregò di non parlare di lavoro. Poi, in modo piuttosto contraddittorio, aggiunse, indebolendo il proprio tono: “Perché vuoi saperlo?”
 
@@ -4327,7 +4327,7 @@ Il Primo Ministro ricordò l’esplosione del Popocatapetl: in quel momento avev
 
 Il Primo Ministro sembrava vivere in modo più attivo mentre rifletteva sul problema. L’aria calda, il profumo dei vestiti e dei fiori gli si addicevano molto.
 
-Il problema legato al suo polmone sinistro, che tanto lo aveva reso amato dai suoi concittadini, si faceva sentire molto meno all’inizio di una calda primavera rispetto ad altri periodi dell’anno; serate come questa compensavano appieno il sacrificio che egli compiva ogni inverno per il proprio dovere e per [[England|Inghilterra]]. Dei quattro anni in cui aveva ricoperto la più alta carica umana, ne aveva trascorsi soltanto uno sulla Riviera; inoltre, sebbene in un anno fosse stato necessario rinunciare a una sessione autunnale, negli altri tre anni tale rinuncia non aveva mai ritardato l’apertura del Parlamento oltre la fine di febbraio. La sua giovane età gli fu di grande aiuto durante questa prova; tuttavia c’erano coloro (e erano proprio quelli che lo amavano di più) che osservavano con preoccupazione il suo fisico fragile, pensando – anche se non osavano dirlo apertamente – che gli anni passassero in fretta e che ciò che un uomo poteva fare impunemente prima dei cinquanta diventasse molto diverso dopo. C’era ovviamente sempre la possibilità di incontrare opposizione. La proposta di “Ampliamento delle Strade” aveva scatenato una tempesta di passioni politiche. Già in Nord era stato pubblicamente lapidato. Ma non importava: al momento il Primo Ministro era pieno di apprezzamento, e nei confronti dei desideri del suo cugino si mostrava estremamente disponibile.
+Il problema legato al suo polmone sinistro, che tanto lo aveva reso amato dai suoi concittadini, si faceva sentire molto meno all’inizio di una calda primavera rispetto ad altri periodi dell’anno; serate come questa compensavano appieno il sacrificio che egli compiva ogni inverno per il proprio dovere e per [[settings/england|Inghilterra]]. Dei quattro anni in cui aveva ricoperto la più alta carica umana, ne aveva trascorsi soltanto uno sulla Riviera; inoltre, sebbene in un anno fosse stato necessario rinunciare a una sessione autunnale, negli altri tre anni tale rinuncia non aveva mai ritardato l’apertura del Parlamento oltre la fine di febbraio. La sua giovane età gli fu di grande aiuto durante questa prova; tuttavia c’erano coloro (e erano proprio quelli che lo amavano di più) che osservavano con preoccupazione il suo fisico fragile, pensando – anche se non osavano dirlo apertamente – che gli anni passassero in fretta e che ciò che un uomo poteva fare impunemente prima dei cinquanta diventasse molto diverso dopo. C’era ovviamente sempre la possibilità di incontrare opposizione. La proposta di “Ampliamento delle Strade” aveva scatenato una tempesta di passioni politiche. Già in Nord era stato pubblicamente lapidato. Ma non importava: al momento il Primo Ministro era pieno di apprezzamento, e nei confronti dei desideri del suo cugino si mostrava estremamente disponibile.
 
 Tuttavia, pensò (e suo cugino lesse nei suoi pensieri) che lei stesse chiedendo l’impossibile. Gli venne in mente un’idea.
 
@@ -4410,7 +4410,7 @@ He was attacked gently but cleverly in a paper upon his own side of politics; sh
 
 Later came anecdotes of his goodness of heart; how he had run over a boy in the Park with his motor and had then picked him up; and how he had good-humouredly refrained from telling people who he was in the railway accident, and had permitted the wounded to be taken to hospital before he himself would accept conveyance.
 
-Finally, as the month ended, and as May brought in the [[London]] season, George Mulross began to find himself uncomfortably prominent. For he very sincerely and very heartily hated fame. He could not so much as upset a glass of wine or stumble over public stairs without hearing his name whispered; and once when he had called at the wrong number, the servant, recognising him from some caricature in the papers, had mentioned his own name to him with reverence, though the door was the door of a house whose occupants he did not know.
+Finally, as the month ended, and as May brought in the [[settings/london|London]] season, George Mulross began to find himself uncomfortably prominent. For he very sincerely and very heartily hated fame. He could not so much as upset a glass of wine or stumble over public stairs without hearing his name whispered; and once when he had called at the wrong number, the servant, recognising him from some caricature in the papers, had mentioned his own name to him with reverence, though the door was the door of a house whose occupants he did not know.
 
 Meanwhile the tiny balance at the bank had gone. The overdraft was large and at any moment there might come a note which he dreaded. And Mary Smith had compelled him to look for a small house in Westminster and to make every preparation for leaving Demaine House. He kicked feebly, but she insisted: and even Sudie gave way.
 
@@ -4428,7 +4428,7 @@ It was originally instituted to try cases falling within the jurisdiction of tha
 
 Tearing the bowels,” etc.
 
-It had cognizance of all Escheats, Novels Tabulate and Malprisions Reguardaunt in the County of Ponthieu and the Seniory of Lucq. But when active jurisdiction over these continental territories was interrupted under King Henry VI., there remained no function for the Court but the trial of cases arising in or without foreign ports upon decks subject to the Crown of [[England]].
+It had cognizance of all Escheats, Novels Tabulate and Malprisions Reguardaunt in the County of Ponthieu and the Seniory of Lucq. But when active jurisdiction over these continental territories was interrupted under King Henry VI., there remained no function for the Court but the trial of cases arising in or without foreign ports upon decks subject to the Crown of [[settings/england|England]].
 
 It lingered thus into the beginning of the sixteenth century, at which moment it was reduced to a Clerk known as the Mangeur, and a Warden, each holding what were virtually sinecures (and not highly paid sinecures at that) about the Palace.
 
@@ -4443,7 +4443,7 @@ During the eighteenth century the fixed yearly salary of £2000 hereditarily enj
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VI
+CAPITOLO VI
 
 La Pasqua, come coloro che sopravvissero avranno modo di sapere, arrivò presto nel 1915: per essere precisi, il 4 aprile. Ole Man Benson era tornato l’11; il 12 Mary aveva visto Dolly; e la settimana dopo il ritorno di Ole Man Benson in queste terre, la settimana dopo che aveva comunicato quella notizia importante ma alquanto deprimente alla giovane famiglia, la settimana dopo che Mary e Dolly si erano incontrate dai Petherington, fu proprio quella settimana che il Parlamento riunì dopo la pausa estiva, la terza settimana di aprile.
 
@@ -4457,7 +4457,7 @@ Fu attaccato in modo gentile ma astuto in un articolo riguardante il suo stesso 
 
 In seguito emersero aneddoti sulla sua bontà d’animo: di come avesse investito un ragazzo nel parco con la sua motocicletta per poi aiutarlo; e di come, durante l’incidente ferroviario, avesse gentilmente evitato di rivelare chi fosse, permettendo che i feriti venissero portati in ospedale prima di prendere lui stesso un mezzo di trasporto.
 
-Finalmente, con la fine del mese e l’arrivo della stagione estiva a [[London|Londra]], George Mulross iniziò a sentirsi in modo sgradevole sotto i riflettori. Infatti, odiava sinceramente e profondamente la fama. Non riusciva nemmeno a rovesciare un bicchiere di vino o a inciampare su una scala pubblica senza che qualcuno sussurrasse il suo nome; una volta, quando aveva bussato al numero sbagliato, il domestico, riconoscendolo da una caricatura apparsa sui giornali, gli aveva rivolto la parola con rispetto, anche se si trattava della porta di una casa la cui gente non conosceva affatto.
+Finalmente, con la fine del mese e l’arrivo della stagione estiva a [[settings/london|Londra]], George Mulross iniziò a sentirsi in modo sgradevole sotto i riflettori. Infatti, odiava sinceramente e profondamente la fama. Non riusciva nemmeno a rovesciare un bicchiere di vino o a inciampare su una scala pubblica senza che qualcuno sussurrasse il suo nome; una volta, quando aveva bussato al numero sbagliato, il domestico, riconoscendolo da una caricatura apparsa sui giornali, gli aveva rivolto la parola con rispetto, anche se si trattava della porta di una casa la cui gente non conosceva affatto.
 
 Nel frattempo, quel misero risparmio in banca era scomparso. Il debito in eccesso era molto alto e, da un momento all'altro, poteva arrivare quella nota che temeva tanto. Inoltre, Mary Smith lo aveva costretto a cercare una piccola casa a Westminster e a prepararsi completamente per lasciare la casa di Demaine. Lui cercò debolmente di opporsi, ma lei insistette. E persino Sudie cedette alle sue pressioni.
 
@@ -4471,11 +4471,11 @@ La Corte della Dote, con la sua stessa esistenza e ancora di più forse con le f
 
 Fu istituito originariamente per giudicare cause che rientravano nella giurisdizione di quella Regina Madre del Medioevo a cui il poeta Gray fa un’allusione così commovente nelle sue straordinarie righe.
 
-#Lupa mannara di Francia con zanne implacabili
+Lupa mannara di Francia con zanne implacabili
 
 “Strappando le viscere”, ecc.
 
-Aveva giurisdizione su tutti gli espropri, i nuovi regolamenti e le azioni per negligenza che riguardavano la contea di Ponthieu e il territorio di Lucq. Tuttavia, quando la giurisdizione attiva su questi territori continentali fu interrotta durante il regno di Re Enrico VI, alla Corte non rimase altro compito se non quello di giudicare i casi che si verificavano, sia all’interno che al di fuori dei porti stranieri, su imbarcazioni soggette al dominio della Corona d’[[England|Inghilterra]].
+Aveva giurisdizione su tutti gli espropri, i nuovi regolamenti e le azioni per negligenza che riguardavano la contea di Ponthieu e il territorio di Lucq. Tuttavia, quando la giurisdizione attiva su questi territori continentali fu interrotta durante il regno di Re Enrico VI, alla Corte non rimase altro compito se non quello di giudicare i casi che si verificavano, sia all’interno che al di fuori dei porti stranieri, su imbarcazioni soggette al dominio della Corona d’[[settings/england|Inghilterra]].
 
 Rimase in questo stato fino all'inizio del XVI secolo, quando venne ridotto a un funzionario chiamato “Mangeur” e a un custode; entrambi ricoprivano incarichi praticamente onorifici (e per di più non molto ben retribuiti) all’interno del Palazzo.
 
@@ -4578,7 +4578,7 @@ He looked frightened, and said:
 
 “No, certainly not,” she answered. “You silly ass! What could that have to do with it? Read it.”
 
-He read: “Mr. G. M. Demaine: to ask the Prime Minister whether his attention has been called to the fact that the Van Huren Company is not registered in [[London]] as the law provides, and what steps he proposes to take in view of this evasion of a public safeguard?”
+He read: “Mr. G. M. Demaine: to ask the Prime Minister whether his attention has been called to the fact that the Van Huren Company is not registered in [[settings/london|London]] as the law provides, and what steps he proposes to take in view of this evasion of a public safeguard?”
 
 “What on earth have I to do with that?” he asked, looking up at her, a little put out and evidently unwilling to take any risks. “What is it anyhow?”
 
@@ -4637,7 +4637,7 @@ Sembrava spaventato e disse:
 
 “No, assolutamente no,” rispose lei. “Sei stupido! Cosa potrebbe avere a che fare con questa storia? Leggilo.”
 
-Lesse: “Signor G. M. Demaine: chiedere al Primo Ministro se sia stato attirato l’attenzione sul fatto che la Van Huren Company non è registrata a [[London|Londra]] come previsto dalla legge, e quali misure intende adottare di fronte a questa elusione di una norma di tutela pubblica.”
+Lesse: “Signor G. M. Demaine: chiedere al Primo Ministro se sia stato attirato l’attenzione sul fatto che la Van Huren Company non è registrata a [[settings/london|Londra]] come previsto dalla legge, e quali misure intende adottare di fronte a questa elusione di una norma di tutela pubblica.”
 
 “Che cosa c’entro io in tutto questo?” chiese, alzando lo sguardo su di lei, un po’ infastidito e chiaramente riluttante ad assumersi qualsiasi rischio. “Di che si tratta, comunque?”
 
@@ -4712,7 +4712,7 @@ Dimmy thought long and painfully. For him there were but two scales of income, t
 
 “No,” said Mary, “but the house in Westminster is very large when you get inside through the narrow part. When are you going into Westminster, Dimmy?”
 
-“I don’t know,” said Dimmy hopelessly. “Sudie’s got all muddled about it. She saw ‘[[City]] of Westminster’ stuck up on one of those khaki Dreadnought hats that the street sweepers wear, an’ the man was getting horrors into a cart right up by our house, an’ she said that where we were was Westminster anyhow. And then when I argued with her she shoved me to the window and pointed out his hat. She was quite rough.” And George Mulross sighed.
+“I don’t know,” said Dimmy hopelessly. “Sudie’s got all muddled about it. She saw ‘[[motifs/city|City]] of Westminster’ stuck up on one of those khaki Dreadnought hats that the street sweepers wear, an’ the man was getting horrors into a cart right up by our house, an’ she said that where we were was Westminster anyhow. And then when I argued with her she shoved me to the window and pointed out his hat. She was quite rough.” And George Mulross sighed.
 
 Mary Smith got testy. “Don’t talk rubbish,” she said, “and don’t bother me about your wife. Have you looked at anything in Westminster at all?”
 
@@ -4726,7 +4726,7 @@ Mary Smith got testy. “Don’t talk rubbish,” she said, “and don’t bothe
 
 George Mulross, worried as he always was when she began drilling him, on hearing the word “office” said simply:
 
-“Well I won’t, that’s flat. I don’t believe in it. I’ve seen lots of men do that kind of thing. They get to the [[City]] and they think they’re learning business, and they’re rooked before....”
+“Well I won’t, that’s flat. I don’t believe in it. I’ve seen lots of men do that kind of thing. They get to the [[motifs/city|City]] and they think they’re learning business, and they’re rooked before....”
 
 “I said ‘TAKE office’!” shouted Mary Smith, “TAKE office — get a post.... Dolly will give you a post. Now do you understand?”
 
@@ -4791,7 +4791,7 @@ Dimmy rifletté a lungo e con dolore. Per lui esistevano soltanto due categorie 
 
 “No,” disse Mary, “ma la casa a Westminster è molto grande una volta che ci si entra passando per quella parte stretta. Quando andrai a Westminster, Dimmy?”
 
-“Non lo so,” disse Dimmy disperatamente. “Sudie ha capito tutto sbagliato. Ha visto scritto ‘[[City|Città]] di Westminster’ su uno di quei cappelli kaki che indossano i netturbini, e poi ha visto un uomo che caricava qualcosa in un carretto proprio vicino a casa nostra. Ha detto che comunque noi ci trovavamo a Westminster. E quando ho cercato di spiegarle, mi ha spinto contro la finestra e ha indicato di nuovo quel cappello. È stata davvero brutale, ” George Mulross sospirò.
+“Non lo so,” disse Dimmy disperatamente. “Sudie ha capito tutto sbagliato. Ha visto scritto ‘[[motifs/city|Città]] di Westminster’ su uno di quei cappelli kaki che indossano i netturbini, e poi ha visto un uomo che caricava qualcosa in un carretto proprio vicino a casa nostra. Ha detto che comunque noi ci trovavamo a Westminster. E quando ho cercato di spiegarle, mi ha spinto contro la finestra e ha indicato di nuovo quel cappello. È stata davvero brutale, ” George Mulross sospirò.
 
 Mary Smith si arrabbiò. “Non dire sciocchezze,” disse, “e non disturbarmi con tua moglie. Hai guardato qualcosa a Westminster, almeno?”
 
@@ -4805,7 +4805,7 @@ Mary Smith si arrabbiò. “Non dire sciocchezze,” disse, “e non disturbarmi
 
 George Mulross, come sempre preoccupato quando lei iniziava a rimproverarlo, sentendo la parola “ufficio” disse semplicemente:
 
-“Beh, non lo farò di certo, punto e basta. Non ci credo affatto. Ho visto molti uomini comportarsi in quel modo: arrivano nella [[City|>Città]] pensando di imparare a fare affari, ma finiscono per essere truffati, ”
+“Beh, non lo farò di certo, punto e basta. Non ci credo affatto. Ho visto molti uomini comportarsi in quel modo: arrivano nella [[motifs/city|>Città]] pensando di imparare a fare affari, ma finiscono per essere truffati, ”
 
 “Ho detto ‘Assumi l’incarico!’” gridò Mary Smith, “Assumi l’incarico, trova una posizione. Dolly ti aiuterà a trovarne una. Ora capisci?”
 
@@ -4850,7 +4850,7 @@ L’assurdità totale di quella situazione diventava sempre più evidente nella 
 
 “Oh NONSENSE!... I mean how many people would write to you for instance, and congratulate you?”
 
-Demaine gave it up. But one could see from his demeanour what she had guessed from her own study of the debates and from her great knowledge of [[London]]: a month ago people just knew that Demaine was in the House and that was about all. They knew him now as a man whose name they had seen fifty times and who asked questions. A better candidature could not be conceived, and his close family connection with so many men on both front benches would render the appointment reasonable in all eyes.
+Demaine gave it up. But one could see from his demeanour what she had guessed from her own study of the debates and from her great knowledge of [[settings/london|London]]: a month ago people just knew that Demaine was in the House and that was about all. They knew him now as a man whose name they had seen fifty times and who asked questions. A better candidature could not be conceived, and his close family connection with so many men on both front benches would render the appointment reasonable in all eyes.
 
 All sorts of things were lumbering against each other in George Mulross’ brain. He wondered whether one had to know anything, or what one had to do, and how the money was paid; and whether income tax was deducted at source; and how long the Government would stay in. Then the absurdity of it recurred to him.
 
@@ -4880,7 +4880,7 @@ It was Sunday, the 31st of May. The weather had begun to be large and open and w
 
 “Well,” said Mary, “I really don’t see what your trouble is.”
 
-“It’s an absurd hour to catch a man, half-past nine — and I should have to get up God knows when — besides to-morrow’s a bad day,” said the Premier, pressing his lips together when he had spoken. “It’s a bad moment. It’s a big week for him. He’s got a dinner on that’s something to do with his dam companies to-morrow evening. I know that. And then Tuesday he’s got that big Van Diemens meeting in the [[City]]. And before the end of the week, I know he’s talking at the big Wycliffite Conference — I can’t remember the day though. Pottle told me about it.”
+“It’s an absurd hour to catch a man, half-past nine — and I should have to get up God knows when — besides to-morrow’s a bad day,” said the Premier, pressing his lips together when he had spoken. “It’s a bad moment. It’s a big week for him. He’s got a dinner on that’s something to do with his dam companies to-morrow evening. I know that. And then Tuesday he’s got that big Van Diemens meeting in the [[motifs/city|City]]. And before the end of the week, I know he’s talking at the big Wycliffite Conference — I can’t remember the day though. Pottle told me about it.”
 
 They had turned to go home, and Mary Smith for the first hundred yards or so was honestly wondering in her mind why men found so difficult what women find so easy.
 
@@ -4909,7 +4909,7 @@ She put both hands on his awkward shoulders to stop him, and she kissed him anyw
 
 “Oh, assurdità. Voglio dire, quante persone ti scriverebbero, per esempio, per farti i complimenti?”
 
-Demaine si arrese. Ma dal suo comportamento si poteva intuire ciò che lei aveva già dedotto da sue stesse osservazioni sui dibattiti e dalla sua vasta conoscenza di [[London|Londra]]: un mese prima la gente sapeva soltanto che Demaine era presente in Aula, e nient'altro. Ora lo conoscevano come un uomo il cui nome avevano sentito menzionare cinquanta volte e che poneva domande durante le discussioni. Non si poteva immaginare una candidatura migliore; inoltre, i suoi stretti legami familiari con molti dei membri di entrambi gli schieramenti rendevano la sua nomina del tutto ragionevole agli occhi di tutti.
+Demaine si arrese. Ma dal suo comportamento si poteva intuire ciò che lei aveva già dedotto da sue stesse osservazioni sui dibattiti e dalla sua vasta conoscenza di [[settings/london|Londra]]: un mese prima la gente sapeva soltanto che Demaine era presente in Aula, e nient'altro. Ora lo conoscevano come un uomo il cui nome avevano sentito menzionare cinquanta volte e che poneva domande durante le discussioni. Non si poteva immaginare una candidatura migliore; inoltre, i suoi stretti legami familiari con molti dei membri di entrambi gli schieramenti rendevano la sua nomina del tutto ragionevole agli occhi di tutti.
 
 Tutti i tipi di pensieri si affollavano nella mente di George Mulross. Si chiedeva se fosse necessario sapere qualcosa, o cosa si dovesse fare esattamente, e come venissero pagati i soldi; se l’imposta sul reddito venisse detratta direttamente dalla retribuzione; e per quanto tempo il governo avrebbe continuato a esistere. Poi gli tornò in mente l’assurdità di tutta quella situazione.
 
@@ -4939,7 +4939,7 @@ Era domenica, il 31 maggio. Il tempo aveva iniziato a diventare più aperto e ca
 
 “Beh,” disse Mary, “non capisco davvero qual sia il tuo problema.”
 
-“È un’ora assurda per cercare una persona: sono le nove e mezza. E dovrei alzarmi chissà quando, per di più domani è una giornata difficile,” disse il Primo Ministro, stringendo le labbra dopo aver parlato. “È un momento sbagliato. È una settimana importante per lui: domani sera ha un incontro legato alle sue società idriche. Lo so bene. E poi martedì c’è quella importante riunione a [[City|Città]] con Van Diemen. E prima della fine della settimana, dovrà partecipare alla grande conferenza Wycliffite. Non ricordo esattamente il giorno, ma Pottle me ne ha parlato.”
+“È un’ora assurda per cercare una persona: sono le nove e mezza. E dovrei alzarmi chissà quando, per di più domani è una giornata difficile,” disse il Primo Ministro, stringendo le labbra dopo aver parlato. “È un momento sbagliato. È una settimana importante per lui: domani sera ha un incontro legato alle sue società idriche. Lo so bene. E poi martedì c’è quella importante riunione a [[motifs/city|Città]] con Van Diemen. E prima della fine della settimana, dovrà partecipare alla grande conferenza Wycliffite. Non ricordo esattamente il giorno, ma Pottle me ne ha parlato.”
 
 Avevano iniziato a tornare a casa, e per i primi cento metri circa, Mary Smith si chiedeva sinceramente perché agli uomini risultasse così difficile ciò che alle donne sembrava così facile.
 
@@ -4966,9 +4966,9 @@ Posò entrambe le mani sulle sue spalle goffe per fermarlo, e lo baciò in quals
 
 CHAPTER VII
 
-CHARLES REPTON HAD taken no weekends. Charles Repton had sat tight in [[London]].
+CHARLES REPTON HAD taken no weekends. Charles Repton had sat tight in [[settings/london|London]].
 
-The end of that May did not tempt him to move; he was right on to his business, and never had his silent life been more silent or Maria, Lady Repton, felt more alone, though she did as she was bid and remained immovable in her [[London]] house, only seeing, when the leisure was afforded her, her few dear friends (none conspicuous), and once or twice presiding at a great dinner of her husband’s.
+The end of that May did not tempt him to move; he was right on to his business, and never had his silent life been more silent or Maria, Lady Repton, felt more alone, though she did as she was bid and remained immovable in her [[settings/london|London]] house, only seeing, when the leisure was afforded her, her few dear friends (none conspicuous), and once or twice presiding at a great dinner of her husband’s.
 
 Beyond all his other concerns one chief concern was resolving itself in Charles Repton’s head. He was wondering exactly where he stood between commerce and politics.
 
@@ -4978,7 +4978,7 @@ Now as May drew to its close, as the discussion on the Budget was in full swing 
 
 He calculated most exactly — as a man calculates a measurable thing, an acreage, or a weight of metal — what the future proportions should be.
 
-He must remain in touch with everything that passed at Westminster; on that he was fixed. But he knew that there was a growing criticism of his combination of high political idealism with affairs in the [[City]]. The Moon had said one exceedingly unpleasant thing about the Oil Concession in Burmah — it was only a newspaper but he had had to settle it. The Capon was paying a little more attention than he liked to his position in the House of Commons.
+He must remain in touch with everything that passed at Westminster; on that he was fixed. But he knew that there was a growing criticism of his combination of high political idealism with affairs in the [[motifs/city|City]]. The Moon had said one exceedingly unpleasant thing about the Oil Concession in Burmah — it was only a newspaper but he had had to settle it. The Capon was paying a little more attention than he liked to his position in the House of Commons.
 
 He thought hard, and under the process of his thought his mind somewhat cleared. But he had come to no decision when, late in the night of Sunday, the 31st of May, he marshalled the papers upon his desk, deliberately turned his mind off the problems that had been engaging him, and drew up a list of his next engagements.
 
@@ -4986,7 +4986,7 @@ The next day, Monday the 1st of June, after leaving his house punctually at half
 
 On Tuesday, the 2nd, was the speech to the General Meeting of Van Diemens. He glanced at his notes for that speech; they were all in excellent sequence, and he felt, so far as men of that stern temper can feel it, a little touch of pride when he noted the procession of the argument. He saw in his mind’s eye first the conviction and then the enthusiasm of the men whom he must convince: the vivid portrayal of the Empire’s need of the railway: the ease of building it, — the delivery of the great metaphor wherein he compared that thin new line of iron to the electrical connection which turns potential and useless electrical energy into actual and working force.
 
-He re-read the phrase in which he called it “completing the circuit”; he did not doubt at all that the meeting would follow him. Sentence after sentence passed before his memory (for he had carefully learned the peroration by heart); the name of Nelson shone in one of them, the name of Rhodes in another, of Joel in a third, till the great oration closed with a vision, brief, succinct (but how vivid!) of the Gate of the East and of [[England]]’s hand upon it, holding
+He re-read the phrase in which he called it “completing the circuit”; he did not doubt at all that the meeting would follow him. Sentence after sentence passed before his memory (for he had carefully learned the peroration by heart); the name of Nelson shone in one of them, the name of Rhodes in another, of Joel in a third, till the great oration closed with a vision, brief, succinct (but how vivid!) of the Gate of the East and of [[settings/england|England]]’s hand upon it, holding
 
 “... the keys
 
@@ -4996,7 +4996,7 @@ through them: through them!
 
 It was a great speech.
 
-He turned more carelessly to the already typewritten stuff which he must deliver upon the Thursday to the Wycliffite Conference. It would do — and it was of importance for the moment. It reminded him a little contemptuously of the High Meat Teas in the North of [[England]] and of his youth, and of that maundering war between Church and Chapel which was then of real moment to him, and which now he still had wearily to wage, — at least in public.
+He turned more carelessly to the already typewritten stuff which he must deliver upon the Thursday to the Wycliffite Conference. It would do — and it was of importance for the moment. It reminded him a little contemptuously of the High Meat Teas in the North of [[settings/england|England]] and of his youth, and of that maundering war between Church and Chapel which was then of real moment to him, and which now he still had wearily to wage, — at least in public.
 
 Whether this little bout of study had been too much for a man who had already spent a full month glued to his work, or whatever else was the cause, he felt as midnight approached a trifle brain-sick. He leant his head upon his hand, and it seemed to him — he hoped it was an illusion for the sensation was yet vague — but it did seem to him that the pain behind the ears, or at least an oppression there, was beginning. He muttered an exclamation so sharp as would have astonished those who had never seen him under a strain. Then he went quickly upstairs to the drawing-room and found his wife, sitting all alone with her book.
 
@@ -5009,11 +5009,11 @@ The mood was of no long duration. She could have wished it had been longer. He s
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VII
+CAPITOLO VII
 
-Charles Repton non aveva mai trascorso nessun fine settimana; era rimasto sempre a [[London|Londra]].
+Charles Repton non aveva mai trascorso nessun fine settimana; era rimasto sempre a [[settings/london|Londra]].
 
-La fine di quel maggio non lo spinse ad agire; continuò tranquillamente con le sue occupazioni, e la sua vita silenziosa divenne ancora più silenziosa, proprio come Maria, Lady Repton, si sentì ancora più sola. Tuttavia obbedì alle istruzioni ricevute e rimase immobile nella sua casa a [[London|Londra]], incontrando solo di tanto in tanto i suoi pochi cari amici (nessuno particolarmente noto) e, un paio di volte, presiedendo ai grandi banchetti organizzati da suo marito.
+La fine di quel maggio non lo spinse ad agire; continuò tranquillamente con le sue occupazioni, e la sua vita silenziosa divenne ancora più silenziosa, proprio come Maria, Lady Repton, si sentì ancora più sola. Tuttavia obbedì alle istruzioni ricevute e rimase immobile nella sua casa a [[settings/london|Londra]], incontrando solo di tanto in tanto i suoi pochi cari amici (nessuno particolarmente noto) e, un paio di volte, presiedendo ai grandi banchetti organizzati da suo marito.
 
 Oltre a tutte le altre preoccupazioni, una questione principale assillava la mente di Charles Repton: si chiedeva esattamente dove si collocasse tra commercio e politica.
 
@@ -5023,7 +5023,7 @@ Ora che maggio stava per concludersi, mentre le discussioni sul Bilancio erano a
 
 Calcolò con estrema precisione – come un uomo calcola qualcosa di misurabile, come una superficie in acri o il peso di un metallo – quali dovessero essere le proporzioni future.
 
-Deve rimanere in contatto con tutto ciò che è accaduto a Westminster; su questo punto era deciso. Ma sapeva che c’era una crescente critica nei suoi confronti per la combinazione tra il suo alto idealismo politico e le sue attività nella [[City]]. La “Luna” aveva detto qualcosa di estremamente sgradevole riguardo alla Concessione Petrolifera in Birmania. Era solo un giornale, ma aveva dovuto occuparsene. Inoltre, il “Caprone” stava prestando un’attenzione maggiore del dovuto alla sua posizione nella Camera dei Comuni.
+Deve rimanere in contatto con tutto ciò che è accaduto a Westminster; su questo punto era deciso. Ma sapeva che c’era una crescente critica nei suoi confronti per la combinazione tra il suo alto idealismo politico e le sue attività nella [[motifs/city|City]]. La “Luna” aveva detto qualcosa di estremamente sgradevole riguardo alla Concessione Petrolifera in Birmania. Era solo un giornale, ma aveva dovuto occuparsene. Inoltre, il “Caprone” stava prestando un’attenzione maggiore del dovuto alla sua posizione nella Camera dei Comuni.
 
 Pensò a lungo, e nel corso di quel processo il suo cervello iniziò gradualmente a schiarirsi. Tuttavia, non era ancora giunto a una decisione quando, nella tarda notte di domenica, il 31 maggio, radunò i documenti sulla sua scrivania, si sforzò deliberatamente di allontanare dalla mente i problemi che lo assillavano e stilò un elenco delle sue prossime impegni.
 
@@ -5031,7 +5031,7 @@ Il giorno seguente, lunedì 1° giugno, dopo essere uscito di casa puntualmente 
 
 Martedì 2, ebbe luogo il discorso alla Riunione Generale dei Van Diemens. Diede un’occhiata alle sue note per quel discorso; erano tutte in perfetta sequenza, e provò, per quanto possano provarlo persone dal temperamento così severo, un leggero senso di orgoglio nel notare l’organizzazione logica dei suoi argomenti. Nella sua mente, vide prima la convinzione, poi l’entusiasmo delle persone che doveva convincere: la descrizione vivida del bisogno dell’Impero per quella ferrovia, la facilità con cui poteva essere costruita. E infine, utilizzò una metafora potente per spiegare come quella nuova linea di ferro trasformasse energia elettrica potenziale e inutile in forza reale e efficace.
 
-Rilesse quella frase nella quale l'aveva definita “completare il circuito”; non ebbe alcun dubbio che l'incontro lo avrebbe seguito. Parola dopo parola gli passarono davanti alla mente (poiché aveva imparato a memoria quel discorso con attenzione); nel corso di quelle parole apparvero il nome di Nelson, quello di Rhodes, poi quello di Joel, fino a quando l'importante discorso si concluse con un’immagine breve, concisa, ma quanto vivida! L’immagine della Porta dell’Est e della mano d’[[England|Inghilterra]] posata su di essa.
+Rilesse quella frase nella quale l'aveva definita “completare il circuito”; non ebbe alcun dubbio che l'incontro lo avrebbe seguito. Parola dopo parola gli passarono davanti alla mente (poiché aveva imparato a memoria quel discorso con attenzione); nel corso di quelle parole apparvero il nome di Nelson, quello di Rhodes, poi quello di Joel, fino a quando l'importante discorso si concluse con un’immagine breve, concisa, ma quanto vivida! L’immagine della Porta dell’Est e della mano d’[[settings/england|Inghilterra]] posata su di essa.
 
 "... le chiavi"
 
@@ -5041,7 +5041,7 @@ Attraverso di loro: attraverso di loro!
 
 È stato un ottimo discorso.
 
-Si voltò con maggiore noncuranza verso il materiale già battuto a macchina che doveva consegnare giovedì alla Conferenza Wycliffita. Andava bene, e, al momento, era importante. Gli ricordava, con un certo disprezzo, le riunioni del “High Meat Tea” nel Nord dell’[[England|Inghilterra]] e la sua giovinezza; inoltre gli rievocava quella guerra confusa tra Chiesa e Setta che allora aveva una grande importanza per lui, e che ora doveva ancora combattere, almeno in pubblico.
+Si voltò con maggiore noncuranza verso il materiale già battuto a macchina che doveva consegnare giovedì alla Conferenza Wycliffita. Andava bene, e, al momento, era importante. Gli ricordava, con un certo disprezzo, le riunioni del “High Meat Tea” nel Nord dell’[[settings/england|Inghilterra]] e la sua giovinezza; inoltre gli rievocava quella guerra confusa tra Chiesa e Setta che allora aveva una grande importanza per lui, e che ora doveva ancora combattere, almeno in pubblico.
 
 Che questo breve periodo di studio fosse stato troppo faticoso per un uomo che aveva già trascorso un intero mese immerso nel suo lavoro, o che ci fosse qualche altra ragione, fatto sta che, con l’avvicinarsi della mezzanotte, si sentì leggermente stordito. Appoggiò la testa sulla mano e gli sembrò – sperava fosse solo un’illusione, poiché la sensazione era ancora vaga – che il dolore dietro le orecchie, o almeno una sorta di oppressione in quella zona, stesse iniziando. Mormorò un’esclamazione così intensa da sorprendere chiunque lo avesse visto sotto pressione. Poi salì rapidamente al piano di sopra, nel soggiorno, e trovò sua moglie seduta da sola con il suo libro.
 
@@ -5056,7 +5056,7 @@ Quell’atmosfera di serenità non durò a lungo. Avrebbe voluto che continuasse
 <span class="atom-split" data-atom="chapter_07--part_02" data-title="A Change in the Cabinet — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="setting/london"></span>
 
 
-She was to see nothing of him while he went through every detail of his affairs for the week and the month with his assistant; she was not even to be allowed to see something of him at his midday meal; she watched him as he went out of the house at the invariable hour to drive to the office of the Court of Dowry. And as she watched him with new feelings in her, and the breaking of dead crusts, she saw another man accost him, the cab turned away, and the two go together, walking, towards the Park. She knew the figure though she came so little into the life of [[London]], and she recognised, in the sloppy clothes and the stooping walk, the Prime Minister.
+She was to see nothing of him while he went through every detail of his affairs for the week and the month with his assistant; she was not even to be allowed to see something of him at his midday meal; she watched him as he went out of the house at the invariable hour to drive to the office of the Court of Dowry. And as she watched him with new feelings in her, and the breaking of dead crusts, she saw another man accost him, the cab turned away, and the two go together, walking, towards the Park. She knew the figure though she came so little into the life of [[settings/london|London]], and she recognised, in the sloppy clothes and the stooping walk, the Prime Minister.
 
 If you are a member of the governing classes of this great Empire it is not an easy thing to approach a house between the Edgware Road and Hyde Park from the North, at half-past nine in the morning it is supremely difficult if you are making for Westminster.
 
@@ -5101,7 +5101,7 @@ But Charles Repton was firm. These solid masters of finance are glad to think ou
 
 <span class="qlang-split" data-lang="it"></span>
 
-Non doveva vederlo affatto mentre lui, per tutta la settimana e il mese, discuteva ogni dettaglio delle sue faccende con il suo assistente; non le era nemmeno permesso incontrarlo durante il pranzo. Lo osservava mentre, all’ora solita, usciva di casa per recarsi in ufficio presso la Corte del Dote. E mentre lo guardava con sentimenti nuovi nel cuore, vide un altro uomo avvicinarsi a lui: l’auto si allontanò e i due proseguirono insieme verso il Parco. Riconobbe quella figura, nonostante partecipasse così poco alla vita di [[London|Londra]]; nei vestiti trasandati e nel modo curvo di camminare, riconobbe il Primo Ministro.
+Non doveva vederlo affatto mentre lui, per tutta la settimana e il mese, discuteva ogni dettaglio delle sue faccende con il suo assistente; non le era nemmeno permesso incontrarlo durante il pranzo. Lo osservava mentre, all’ora solita, usciva di casa per recarsi in ufficio presso la Corte del Dote. E mentre lo guardava con sentimenti nuovi nel cuore, vide un altro uomo avvicinarsi a lui: l’auto si allontanò e i due proseguirono insieme verso il Parco. Riconobbe quella figura, nonostante partecipasse così poco alla vita di [[settings/london|Londra]]; nei vestiti trasandati e nel modo curvo di camminare, riconobbe il Primo Ministro.
 
 Se sei un membro delle classi dirigenti di questo grande Impero, non è affatto facile raggiungere una casa situata tra Edgware Road e Hyde Park da nord; alle nove e mezza del mattino, inoltre, diventa estremamente difficile se ti stai dirigendo verso Westminster.
 
@@ -5361,7 +5361,7 @@ Yet again his mood changed and he burst into an explosion of laughter as he reme
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VIII
+CAPITOLO VIII
 
 Sir Charles Repton camminava a grandi passi per Whitehall. Il lavoro di quella giornata era stato intenso, soprattutto nelle ore successive a quella conversazione mattutina, e lui ne soffriva.
 
@@ -5424,7 +5424,7 @@ The man hesitated.
 
 The taxi-man as he was driving off nodded familiarly to a policeman, and, by drawing up all one side of his face while he left the other in repose, gave it to be understood that he had grave doubts of the mental balance of the gentleman whom he had just conveyed to his residence.
 
-Alas, for simple men! The policeman strode up to him, rated him soundly, asked what he meant by it, and in general gave him to understand that he was dealing with no ordinary household. And the taxi-man, who was but recently landed from the sea, went off pondering, as far as the congested traffic would allow him, upon the mysteries of [[London]].
+Alas, for simple men! The policeman strode up to him, rated him soundly, asked what he meant by it, and in general gave him to understand that he was dealing with no ordinary household. And the taxi-man, who was but recently landed from the sea, went off pondering, as far as the congested traffic would allow him, upon the mysteries of [[settings/london|London]].
 
 The policeman solemnly returned to his duty, which was that of guarding the residence of so great a citizen, and Sir Charles, putting his hat upon the table in the hall, went past the two servants upon whose presence in that vestibule he insisted, and walked majestically up the staircase, as though the last half-hour had not been.
 
@@ -5495,7 +5495,7 @@ L’uomo esitò.
 
 Il tassista, mentre si allontanava, fece un cenno di saluto familiare a un poliziotto; piegando da un lato il viso e lasciando l’altro immobile, voleva far capire che nutriva seri dubbi riguardo al equilibrio mentale del signore che aveva appena accompagnato alla sua residenza.
 
-Ahimè, per gli uomini semplici. Il poliziotto si avvicinò a lui, lo rimproverò severamente, gli chiese cosa intendesse con quel comportamento e in generale gli fece capire che non stava trattando con una famiglia ordinaria. Quanto al tassista, appena sbarcato dal mare, continuò a riflettere, nel limite permesso dal traffico intenso, sui misteri di [[London|Londra]].
+Ahimè, per gli uomini semplici. Il poliziotto si avvicinò a lui, lo rimproverò severamente, gli chiese cosa intendesse con quel comportamento e in generale gli fece capire che non stava trattando con una famiglia ordinaria. Quanto al tassista, appena sbarcato dal mare, continuò a riflettere, nel limite permesso dal traffico intenso, sui misteri di [[settings/london|Londra]].
 
 Il poliziotto tornò solennemente al suo dovere: quello di vigilare sulla residenza di un cittadino così importante. Sir Charles, posando il cappello sul tavolo nell’ingresso, passò accanto ai due servitori la cui presenza in quel vestibolo aveva insistito per far sì che fossero presenti, e salì maestosamente le scale, come se l’ultima mezz’ora non fosse mai esistita.
 
@@ -5566,7 +5566,7 @@ The noise of talking during the dinner covered any other indiscretions, and when
 
 There were the beginnings of a quarrel with a pompous and little-known fellow-member of his own Party who attempted to talk learnedly on wine. Repton had begun, “What on earth d’you know about wine? Why, your old father wouldn’t allow you swipes when you went to fetch the supper beer!” He had begun thus, I say, to recall the humble origins of the politician, when he added: “But there, what’s the good of quarreling? You’re all the same herd,” — his evident illness excused him. He led them back to the women, a gloomy troupe; they began to leave uncommonly early.
 
-The one who lingered last was a very honest man, stupid, straightforward and rich. He was fond of Charles Repton, simply because Repton had once done him a very cheap good turn in the matter of a legal dispute; he had stopped a lawsuit. And this man ever, since — it was now five years ago, — was ready to serve that household. His name, I should add, was Withers, and he was a Commoner; he sat for Ashington. He had not only this loyal feeling for Charles Repton, which he was perhaps the only man in [[London]] to feel; he had also a simple admiration for him, for his career, for his speeches, for his power of introducing impromptu such words as “well,” and “now” and “I will beg the House to observe” into his careful arguments. Lady Repton trusted him, and she was glad to see him remaining alone after the others had left. Charles Repton was sitting at the end of the room, staring at nothingness.
+The one who lingered last was a very honest man, stupid, straightforward and rich. He was fond of Charles Repton, simply because Repton had once done him a very cheap good turn in the matter of a legal dispute; he had stopped a lawsuit. And this man ever, since — it was now five years ago, — was ready to serve that household. His name, I should add, was Withers, and he was a Commoner; he sat for Ashington. He had not only this loyal feeling for Charles Repton, which he was perhaps the only man in [[settings/london|London]] to feel; he had also a simple admiration for him, for his career, for his speeches, for his power of introducing impromptu such words as “well,” and “now” and “I will beg the House to observe” into his careful arguments. Lady Repton trusted him, and she was glad to see him remaining alone after the others had left. Charles Repton was sitting at the end of the room, staring at nothingness.
 
 Withers whispered to Lady Repton a rapid query as to what had happened. She could tell him nothing, but her eyes filled with tears.
 
@@ -5586,7 +5586,7 @@ Withers did not know whether to stay or to go, but before he could reply Charles
 
 “Lady Repton,” said Withers very gently when he had gone, “what has Charles got to do to-morrow?”
 
-“He never tells me,” said the wretched lady. “I suppose he will go into the [[City]] as usual.”
+“He never tells me,” said the wretched lady. “I suppose he will go into the [[motifs/city|City]] as usual.”
 
 “It’s very unwise,” said Withers, “and yet I don’t know after all. It might help him to be in harness, and you’ll have him out of the house while you’re making your plans. I’ll do what I can, Lady Repton, I’ll do what I can. Isn’t to-morrow the meeting of the Van Diemens Company?”
 
@@ -5611,7 +5611,7 @@ Il rumore delle conversazioni durante la cena sovrastava qualsiasi altra indiscr
 
 Iniziarono dei disaccordi con un membro del suo stesso partito, un individuo presuntuoso e poco conosciuto, che cercava di parlare in modo erudito di vino. Repton esordì dicendo: “Ma cosa ne sai tu del vino? Diamine, tuo padre non ti avrebbe nemmeno permesso di berne quando andavi a prendere la birra per la cena!” Così aveva iniziato a ricordare le umili origini di quel politico, quando aggiunse: “Ma insomma, a che serve litigare? Siete tutti uguali, ” La sua evidente malattia lo scusava. Li riportò quindi dalle donne; erano un gruppo cupo e deprimente. Se ne andarono insolitamente presto.
 
-L’ultimo ad andarsene era un uomo molto onesto: stupido, diretto e ricco. Amava Charles Repton semplicemente perché quest’ultimo gli aveva una volta reso un grande servizio in una questione legale, impedendo che venisse intentata una causa contro di lui. Da allora – ormai erano passati cinque anni – quell’uomo era sempre stato pronto a servire quella famiglia. Il suo nome era Withers; era un cittadino comune e rappresentava la circoscrizione di Ashington in parlamento. Non solo provava questo sentimento di lealtà verso Charles Repton, forse l’unico uomo a [[London|Londra]] ad averlo; ma provava anche una semplice ammirazione per lui: per la sua carriera, per i suoi discorsi, per la sua capacità di inserire, in modo spontaneo, frasi come “bene”, “ora” o “chiedo alla Camera di prestare attenzione” nelle sue argomentazioni ben confezionate. Lady Repton aveva fiducia in lui e le piaceva vederlo rimanere lì, da solo, dopo che gli altri se n’erano andati. Charles Repton sedeva in un angolo della stanza, fissando il nulla.
+L’ultimo ad andarsene era un uomo molto onesto: stupido, diretto e ricco. Amava Charles Repton semplicemente perché quest’ultimo gli aveva una volta reso un grande servizio in una questione legale, impedendo che venisse intentata una causa contro di lui. Da allora – ormai erano passati cinque anni – quell’uomo era sempre stato pronto a servire quella famiglia. Il suo nome era Withers; era un cittadino comune e rappresentava la circoscrizione di Ashington in parlamento. Non solo provava questo sentimento di lealtà verso Charles Repton, forse l’unico uomo a [[settings/london|Londra]] ad averlo; ma provava anche una semplice ammirazione per lui: per la sua carriera, per i suoi discorsi, per la sua capacità di inserire, in modo spontaneo, frasi come “bene”, “ora” o “chiedo alla Camera di prestare attenzione” nelle sue argomentazioni ben confezionate. Lady Repton aveva fiducia in lui e le piaceva vederlo rimanere lì, da solo, dopo che gli altri se n’erano andati. Charles Repton sedeva in un angolo della stanza, fissando il nulla.
 
 Withers sussurrò velocemente alla signora Repton per chiederle cosa fosse accaduto. Lei non poteva dirgli nulla, ma i suoi occhi si riempirono di lacrime.
 
@@ -5730,12 +5730,12 @@ With that he wormed his way through the increasing mob and disappeared into a ta
 
 “You won’t know it,” said Sir Charles kindly and still craning in a constrained manner out of the window. “By the way, why don’t they have a speaking-tube or something from inside to you people? It’s awkward turning one’s head outside like a snake. You won’t know it, but I’ll shout to you when we get to the bottom of St. James’s Street.”
 
-The driver, now convinced that he had to do with something quite out of the ordinary, touched his cap in a manner almost military, and fled through the streets of [[London]]. At a Boy Messenger’s office Sir Charles sent home for clothes and for a change, got to his Club, informed the astonished porter that it was a very fine day, that he had just had a fight on the top of a bus, that by God the Johnnie didn’t know who he was tackling! He, Sir Charles, was no longer a young man, but he would have shown him what an upper cut was if he could have got a free swing! He proceeded to illustrate the nature of this fence — then suddenly asked for his letters, and for a dressing-room.
+The driver, now convinced that he had to do with something quite out of the ordinary, touched his cap in a manner almost military, and fled through the streets of [[settings/london|London]]. At a Boy Messenger’s office Sir Charles sent home for clothes and for a change, got to his Club, informed the astonished porter that it was a very fine day, that he had just had a fight on the top of a bus, that by God the Johnnie didn’t know who he was tackling! He, Sir Charles, was no longer a young man, but he would have shown him what an upper cut was if he could have got a free swing! He proceeded to illustrate the nature of this fence — then suddenly asked for his letters, and for a dressing-room.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO IX
+CAPITOLO IX
 
 Quando Sir Charles Repton si svegliò quella mattina di martedì, si sentì meglio di quanto non si fosse mai sentito da quando aveva perso la sua giovinezza. C'era qualcosa di leggero nell’aria intorno a lui, e nella sua mente una mancanza di preoccupazioni e di conflitti che all’epoca non riuscì a spiegare, ma che forse, in modo vago, attribuì alla purezza dell’aria e alla bellezza di quella giornata.
 
@@ -5769,7 +5769,7 @@ Così facendo, si fece strada tra la folla sempre più numerosa e scomparve dent
 
 “Non te ne accorgerai,” disse Sir Charles con gentilezza, continuando comunque a sporgersi fuori dalla finestra in modo goffo. “A proposito, perché non hanno un tubo per la comunicazione o qualcosa del genere dall’interno verso di voi? È davvero scomodo dover girare la testa fuori come un serpente. Non te ne accorgerai, ma ti griderò quando arriveremo in fondo a St. James’s Street.”
 
-Il conducente, ormai convinto che si trattasse di qualcosa di davvero insolito, si toccò il cappello in un modo quasi militare e fuggì per le strade di [[London|Londra]]. In un ufficio di messaggeri, Sir Charles mandò a prendere i vestiti a casa e, finalmente, arrivò al suo club. Informò l’assonnato portiere che era una giornata meravigliosa, che aveva appena avuto una rissa su un autobus. E che, per Dio, quel tizio non sapeva nemmeno con chi stesse litigando! Lui, Sir Charles, ormai non era più un giovane, ma gli avrebbe dimostrato cosa significasse un colpo efficace se solo avesse potuto sferrarlo liberamente. Poi chiese di vedere le sue lettere e di essere accompagnato in bagno.
+Il conducente, ormai convinto che si trattasse di qualcosa di davvero insolito, si toccò il cappello in un modo quasi militare e fuggì per le strade di [[settings/london|Londra]]. In un ufficio di messaggeri, Sir Charles mandò a prendere i vestiti a casa e, finalmente, arrivò al suo club. Informò l’assonnato portiere che era una giornata meravigliosa, che aveva appena avuto una rissa su un autobus. E che, per Dio, quel tizio non sapeva nemmeno con chi stesse litigando! Lui, Sir Charles, ormai non era più un giovane, ma gli avrebbe dimostrato cosa significasse un colpo efficace se solo avesse potuto sferrarlo liberamente. Poi chiese di vedere le sue lettere e di essere accompagnato in bagno.
 
 
 
@@ -5798,7 +5798,7 @@ It was certainly calculated to compel their attention if not their conviction, f
 
 “WHAT ARE WE HERE FOR?”
 
-After that rhetorical question, delivered in a roar that would have filled the largest railway station in [[London]], he repeated it in a somewhat lower tone, clenched his fists, struck them squarely on the table, and answered as though he were delivering a final judgment:
+After that rhetorical question, delivered in a roar that would have filled the largest railway station in [[settings/london|London]], he repeated it in a somewhat lower tone, clenched his fists, struck them squarely on the table, and answered as though he were delivering a final judgment:
 
 “MONEY!....
 
@@ -5837,9 +5837,9 @@ Quando arrivò il momento di parlare, si alzò in piedi, forse un po’ troppo r
 
 Certamente era un gesto calcolato per attirare la loro attenzione, se non per convincerli; le prime parole che gridò nella sala furono proprio queste:
 
-# “Perché siamo qui?”
+“Perché siamo qui?”
 
-Dopo quella domanda retorica, pronunciata con un urlo che avrebbe riempito la più grande stazione ferroviaria di [[London|Londra]], la ripeté con un tono leggermente più basso, strinse i pugni e li batté con forza sul tavolo, rispondendo come se stesse emettendo una sentenza definitiva:
+Dopo quella domanda retorica, pronunciata con un urlo che avrebbe riempito la più grande stazione ferroviaria di [[settings/london|Londra]], la ripeté con un tono leggermente più basso, strinse i pugni e li batté con forza sul tavolo, rispondendo come se stesse emettendo una sentenza definitiva:
 
 “Denaro!, ”
 
@@ -5948,7 +5948,7 @@ He gave a great breath of satisfaction. “Now d’ye see? It’ll go to forty s
 
 And with a large happy, final, satisfactory and conclusive smile, the Builder of Empire, to the astonishment of every one, looked at his watch, called upon his Creator as a witness to the lateness of the hour, and suddenly went out.
 
-It would be delicious to describe what happened in the vast body of that hall when the Chief had left it: how the shareholders made a noise like angry bees swarming; how a curate who had done no man any harm was squashed against a wall and broke two ribs; how five or six excited and almost tearful men surrounded the reporters and fought for their notebooks; how Bingham continued to reiterate that Charles Repton knew what he was at; and how a certain quiet little man with a bronzed face and very humorous eyes, slunk out and got rid of his block of shares within the hour, to a young hearty Colonial gentleman who was wealthy and had come to [[London]] to learn the business ways of our [[City]].2
+It would be delicious to describe what happened in the vast body of that hall when the Chief had left it: how the shareholders made a noise like angry bees swarming; how a curate who had done no man any harm was squashed against a wall and broke two ribs; how five or six excited and almost tearful men surrounded the reporters and fought for their notebooks; how Bingham continued to reiterate that Charles Repton knew what he was at; and how a certain quiet little man with a bronzed face and very humorous eyes, slunk out and got rid of his block of shares within the hour, to a young hearty Colonial gentleman who was wealthy and had come to [[settings/london|London]] to learn the business ways of our [[motifs/city|City]].2
 
 But I must follow Sir Charles in his rapid drive to the House of Commons. I must mention his unconventional remark to the policeman to the effect that he hoped that old fool Pottle hadn’t come in yet; and his taking his place on the front bench just after prayers with a look so merry and free that it illumined the faces opposite like a sun.
 
@@ -5985,7 +5985,7 @@ Emise un profondo sospiro di soddisfazione. “Ora capite? Venderà subito per q
 
 E con un grande sorriso felice, finale, soddisfacente e conclusivo, il Costruttore di Imperi, per la meraviglia di tutti, guardò l’orologio, chiamò il proprio Creatore a testimoniare dell’ora tarda, e poi uscì all’improvviso.
 
-Sarebbe delizioso descrivere ciò che accadde nella vasta sala dopo che il Presidente l’aveva lasciata: come gli azionisti iniziarono a fare un rumore assordante, simile al ronzio di api arrabbiate; come un curato che non aveva mai fatto del male a nessuno fu spinto contro un muro e si ruppe due costole; come cinque o sei uomini eccitati e quasi in lacrime circondarono i giornalisti lottando per le loro agende; come Bingham continuò a ripetere che Charles Repton sapeva esattamente ciò che stava facendo; e come un certo uomo tranquillo, dal viso abbronzato e dagli occhi molto umoristici, vendette rapidamente tutte le sue azioni a un giovane e robusto gentiluomo coloniale, ricco e venuto a [[London|Londra]] per imparare i metodi di affari della nostra [[City]].
+Sarebbe delizioso descrivere ciò che accadde nella vasta sala dopo che il Presidente l’aveva lasciata: come gli azionisti iniziarono a fare un rumore assordante, simile al ronzio di api arrabbiate; come un curato che non aveva mai fatto del male a nessuno fu spinto contro un muro e si ruppe due costole; come cinque o sei uomini eccitati e quasi in lacrime circondarono i giornalisti lottando per le loro agende; come Bingham continuò a ripetere che Charles Repton sapeva esattamente ciò che stava facendo; e come un certo uomo tranquillo, dal viso abbronzato e dagli occhi molto umoristici, vendette rapidamente tutte le sue azioni a un giovane e robusto gentiluomo coloniale, ricco e venuto a [[settings/london|Londra]] per imparare i metodi di affari della nostra [[motifs/city|City]].
 
 Ma devo seguire Sir Charles nel suo rapido viaggio verso la Camera dei Comuni. Devo menzionare il suo commento poco convenzionale rivolto al poliziotto, secondo cui sperava che quel vecchio sciocco Pottle non fosse ancora arrivato; e il modo in cui prese il suo posto nella prima fila subito dopo le preghiere, con un'espressione così allegra e spensierata da illuminare i volti di coloro seduti di fronte a lui come se fosse il sole.
 
@@ -6098,7 +6098,7 @@ The Prime Minister cast upon him a look of contempt, and asked the doorkeeper wh
 
 The Prime Minister was almost moved to reprove him, but dignity forbade.
 
-“Not in the House!” said the man curtly, addressing as an equal the chief power in [[England]]; for his post was secure, the Prime Minister’s precarious.
+“Not in the House!” said the man curtly, addressing as an equal the chief power in [[settings/england|England]]; for his post was secure, the Prime Minister’s precarious.
 
 “You mean not on the benches: I can see that for myself!” said the Prime Minister sharply.
 
@@ -6108,7 +6108,7 @@ The Prime Minister further condescended to go out of the House in the ordinary w
 
 It was really very awkward and exasperating, though it was only a detail. He must see Demaine that afternoon: it was imperative. But it was also important that he should see him as soon as possible. He wanted to keep him out of the way till he was coached.
 
-There is nothing in this happy English life of ours more soothing to the brain in moments of anxiety, than the perusal of any one of those great Organs of Opinion which are the characteristic of our people and the envy of Europe, and of these it must be admitted none stand on quite the same intellectual and moral plane as the best two or three of our [[London]] evening papers. One of these the Prime Minister had always found particularly soothing. He bought it of the newsman at the corner of Parliament Square and opened it as he walked along at leisure towards Downing Street.
+There is nothing in this happy English life of ours more soothing to the brain in moments of anxiety, than the perusal of any one of those great Organs of Opinion which are the characteristic of our people and the envy of Europe, and of these it must be admitted none stand on quite the same intellectual and moral plane as the best two or three of our [[settings/london|London]] evening papers. One of these the Prime Minister had always found particularly soothing. He bought it of the newsman at the corner of Parliament Square and opened it as he walked along at leisure towards Downing Street.
 
 There was one corner of this sheet which was always a recreation to Dolly in the few moments he could spare from the House: it was the corner in which prizes were offered for the best pun, on condition of course that nothing coarse or personally offensive should be sent in by the competitors. To this he had turned an indifferent eye, when for the second time that day he received a shock which was almost like a blow in the face....
 
@@ -6118,7 +6118,7 @@ There, in great letters, with a flamboyance surely unworthy of a paper that prof
 
 And his forebodings did not deceive him.... It was ... it was ... the permanently unlucky Demaine!
 
-He cursed the crass imbecility by which such a thing could have got into the papers at all. He strode to his house and to his room, crumpled the paper which he was still holding, unfolded it, and then read the news again. There were but a few lines of it: Demaine had disappeared, and the full detective power of [[London]] was attempting to solve the mystery of his disappearance.
+He cursed the crass imbecility by which such a thing could have got into the papers at all. He strode to his house and to his room, crumpled the paper which he was still holding, unfolded it, and then read the news again. There were but a few lines of it: Demaine had disappeared, and the full detective power of [[settings/london|London]] was attempting to solve the mystery of his disappearance.
 
 What madness to let such things get out!
 
@@ -6141,7 +6141,7 @@ Il Primo Ministro lo guardò con disprezzo e chiese al portiere se avesse visto 
 
 Il Primo Ministro stava quasi per rimproverarlo, ma la dignità glielo impedì.
 
-“Non è possibile nella Camera!” disse l’uomo in modo brusco, rivolgendosi come a un pari al potere supremo di [[England|Inghilterra]]; poiché il suo incarico era sicuro, quello del Primo Ministro invece era precario.
+“Non è possibile nella Camera!” disse l’uomo in modo brusco, rivolgendosi come a un pari al potere supremo di [[settings/england|Inghilterra]]; poiché il suo incarico era sicuro, quello del Primo Ministro invece era precario.
 
 “Voi intendete dire che non sui banchi. Me ne rendo conto da solo!”, disse il Primo Ministro in tono secco.
 
@@ -6151,7 +6151,7 @@ Il Primo Ministro si prese anche la briga di uscire dall’edificio in modo norm
 
 Era davvero molto imbarazzante e frustrante, anche se si trattava solo di un dettaglio. Quel pomeriggio doveva assolutamente incontrare Demaine: era indispensabile. Ma era altrettanto importante farlo il prima possibile. Voleva tenerlo lontano finché non avesse ricevuto le dovute istruzioni.
 
-Nella nostra felice vita inglese, non c’è nulla di più rilassante per la mente nei momenti di ansia della lettura di uno qualsiasi di quei grandi organi di opinione che sono caratteristici del nostro popolo e oggetto d’invidia per tutta Europa; tra questi, bisogna ammettere che nessuno raggiunge lo stesso livello intellettuale e morale dei migliori due o tre giornali serali di [[London|Londra]]. Uno di questi era particolarmente rilassante per il Primo Ministro: lo comprava dal giornalista all’angolo di Parliament Square e lo apriva mentre camminava con calma verso Downing Street.
+Nella nostra felice vita inglese, non c’è nulla di più rilassante per la mente nei momenti di ansia della lettura di uno qualsiasi di quei grandi organi di opinione che sono caratteristici del nostro popolo e oggetto d’invidia per tutta Europa; tra questi, bisogna ammettere che nessuno raggiunge lo stesso livello intellettuale e morale dei migliori due o tre giornali serali di [[settings/london|Londra]]. Uno di questi era particolarmente rilassante per il Primo Ministro: lo comprava dal giornalista all’angolo di Parliament Square e lo apriva mentre camminava con calma verso Downing Street.
 
 C'era un angolo di questa pagina che rappresentava sempre una fonte di divertimento per Dolly nei pochi momenti che riusciva a liberare dalla casa: era quell'angolo in cui venivano offerti premi per i migliori giochi di parole, naturalmente a condizione che i concorrenti non inviassero nulla di volgare o offensivo. Fino ad allora aveva ignorato questa attività, ma quella volta, per la seconda volta nel corso della giornata, ricevette uno shock quasi paragonabile a un pugno in faccia.
 
@@ -6161,7 +6161,7 @@ Lì, in caratteri grandi, con una sfarzosità certamente indegna di un giornale 
 
 E i suoi presentimenti non lo ingannarono. Era, era, quel sfortunato per natura, Demaine!
 
-Imprecò contro quella grossolana stupidità che aveva permesso che una cosa del genere finisse sui giornali. Si diresse verso casa sua, nella sua stanza, strappò in mille pezzi il foglio che ancora teneva in mano, lo riaprì e rilesse la notizia. Erano soltanto poche righe: Demaine era scomparso, e tutte le forze investigative di [[London|Londra]] stavano cercando di risolvere il mistero della sua scomparsa.
+Imprecò contro quella grossolana stupidità che aveva permesso che una cosa del genere finisse sui giornali. Si diresse verso casa sua, nella sua stanza, strappò in mille pezzi il foglio che ancora teneva in mano, lo riaprì e rilesse la notizia. Erano soltanto poche righe: Demaine era scomparso, e tutte le forze investigative di [[settings/london|Londra]] stavano cercando di risolvere il mistero della sua scomparsa.
 
 Che follia permettere che cose del genere vengano rese pubbliche!
 
@@ -6202,9 +6202,9 @@ It always meant something, even when one was out of office, and then who knows? 
 
 Look at it how he would, heaven was smiling on him, and he in return, and as though in gratitude, smiled at the gaunt front of Blackfriars Station, opposite which he had now arrived.
 
-Between him and it there lay the street, and he was naturally too cautious to attempt to cross until he had gazed carefully to the front and right. But at midnight there is no pressure of traffic in the [[City]] of [[London]], and when he had allowed a belated dray and a steam roller to pass him at their leisure he hurriedly crossed over with a vague intention of taking the train.
+Between him and it there lay the street, and he was naturally too cautious to attempt to cross until he had gazed carefully to the front and right. But at midnight there is no pressure of traffic in the [[motifs/city|City]] of [[settings/london|London]], and when he had allowed a belated dray and a steam roller to pass him at their leisure he hurriedly crossed over with a vague intention of taking the train.
 
-Like many men of the governing classes, whose mental activities are naturally divorced from the petty details of [[London]] life, and who are independent of that daily round which makes the less fortunate only too familiar with our means of communication, George Mulross Demaine was not quite certain where the Underground went to, nor what part of [[London]] precisely it served. But he had been taught from childhood that it was circular in form, and that round it like Old Ocean3 in a perpetual race, went along streams of trains. Enter it where you would, and you might leave it somewhere upon its periphery.
+Like many men of the governing classes, whose mental activities are naturally divorced from the petty details of [[settings/london|London]] life, and who are independent of that daily round which makes the less fortunate only too familiar with our means of communication, George Mulross Demaine was not quite certain where the Underground went to, nor what part of [[settings/london|London]] precisely it served. But he had been taught from childhood that it was circular in form, and that round it like Old Ocean3 in a perpetual race, went along streams of trains. Enter it where you would, and you might leave it somewhere upon its periphery.
 
 He knew that St. James’s Park Station was at his very door. He asked for and obtained a ticket with that promptitude which distinguishes the service of our premier Metropolitan line, left the change for sixpence by an oversight on the ledge of the ticket window, and then, as Fate would have it, turned to the left-hand stairs.
 
@@ -6225,7 +6225,7 @@ Alas, for the various locutions of various ranks in our society! he did turn sha
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO X
+CAPITOLO X
 
 L’espressione “intossicato di piacere”, troppo comune nella nostra letteratura, descriverebbe in modo assai impreciso lo stato d’animo di George Mulross Demaine quando uscì dalla stanza del Primo Ministro quella notte di lunedì.
 
@@ -6247,9 +6247,9 @@ Sempre significava qualcosa, anche quando una persona non era più in carica. E 
 
 Guardate come faceva. Il cielo sorrideva a lui, e lui, come se volesse ringraziare, sorrideva anche alla desolata facciata della stazione di Blackfriars, davanti alla quale si era ora fermato.
 
-Tra lui e l’oggetto desiderato c’era la strada; naturalmente era troppo cauto per tentare di attraversarla finché non aveva guardato attentamente davanti a sé e a destra. Ma a mezzanotte, nella [[City|>Città]] di [[London|>Londra]], non c’è alcun traffico intenso; dopo aver lasciato che un carretto e una pressa a vapore lo superassero con calma, attraversò rapidamente la strada, con l’intenzione vaga di prendere il treno.
+Tra lui e l’oggetto desiderato c’era la strada; naturalmente era troppo cauto per tentare di attraversarla finché non aveva guardato attentamente davanti a sé e a destra. Ma a mezzanotte, nella [[motifs/city|>Città]] di [[settings/london|>Londra]], non c’è alcun traffico intenso; dopo aver lasciato che un carretto e una pressa a vapore lo superassero con calma, attraversò rapidamente la strada, con l’intenzione vaga di prendere il treno.
 
-Come molti uomini delle classi dirigenti, i cui pensieri sono naturalmente lontani dai piccoli dettagli della vita quotidiana di [[London|Londra]] e che non sono coinvolti in quel ciclo quotidiano che rende le persone meno fortunate fin troppo familiari con i nostri mezzi di comunicazione, George Mulross Demaine non era del tutto sicuro di dove andasse la metropolitana, né di quale parte esatta di [[London|Londra]] servisse. Ma da bambino gli era stato insegnato che aveva una forma circolare e che, come l’Antico Oceano, vi scorrevano incessantemente treni in movimento. Entrandovi da qualsiasi punto si desiderasse, si poteva uscirne in qualche parte della sua periferia.
+Come molti uomini delle classi dirigenti, i cui pensieri sono naturalmente lontani dai piccoli dettagli della vita quotidiana di [[settings/london|Londra]] e che non sono coinvolti in quel ciclo quotidiano che rende le persone meno fortunate fin troppo familiari con i nostri mezzi di comunicazione, George Mulross Demaine non era del tutto sicuro di dove andasse la metropolitana, né di quale parte esatta di [[settings/london|Londra]] servisse. Ma da bambino gli era stato insegnato che aveva una forma circolare e che, come l’Antico Oceano, vi scorrevano incessantemente treni in movimento. Entrandovi da qualsiasi punto si desiderasse, si poteva uscirne in qualche parte della sua periferia.
 
 Sapeva che la stazione di St. James’s Park era proprio davanti a lui. Chiese e ottenne il biglietto con quella rapidità che caratterizza il servizio della nostra principale linea metropolitana; per distrazione, lasciò sul bordo del bancone della biglietteria i sei penny di resto. E poi, come se fosse stato destino, svoltò verso le scale a sinistra.
 
@@ -6466,7 +6466,7 @@ With such energy as remained to him, George sprang up at the first opportunity t
 
 I should over-weight these pages were I so much as to attempt the language of the first officer when he cast eyes upon the unfortunate figure before him. A stowaway! It was the second time it had happened in three months.
 
-One stammering attempt to make himself heard so dreadfully increased the power of this man’s passion that George perforce was silent. The first officer’s rage rose into a sort of typhoon, and had the law or even the custom of the sea permitted him to do one quarter of that with which he threatened the poor vagabond, a British ship would certainly be no fit place to live in. As a matter of fact when his tirade was over he confined himself to a general curse upon the town of [[London]] and its inhabitants, to a particular one directed with menace against the able seaman who had captured the stowaway, and at last, with directions that he should be shown to the captain when the ship was in the fairway and the anxious business of getting her out was over.
+One stammering attempt to make himself heard so dreadfully increased the power of this man’s passion that George perforce was silent. The first officer’s rage rose into a sort of typhoon, and had the law or even the custom of the sea permitted him to do one quarter of that with which he threatened the poor vagabond, a British ship would certainly be no fit place to live in. As a matter of fact when his tirade was over he confined himself to a general curse upon the town of [[settings/london|London]] and its inhabitants, to a particular one directed with menace against the able seaman who had captured the stowaway, and at last, with directions that he should be shown to the captain when the ship was in the fairway and the anxious business of getting her out was over.
 
 For some little time, therefore, Demaine still stood a butt for the occasional but half-exhausted ribaldry of his two guardians, and not until the waterman’s boat had dropped away from alongside and the warping rope had splashed into the slime of the Thames, not until the donkey engine had clanked once more and got it aboard, horrible with all the horrors of that water, and not until the engine was going fairly and the Lily dropping swiftly down the tide, was the captain ready to sit in judgment.
 
@@ -6511,7 +6511,7 @@ Con quel po' di energia che gli restava, George balzò in piedi alla prima occas
 
 Appesantirei troppo queste pagine se solo tentassi di riferire il linguaggio del primo ufficiale quando posò gli occhi sulla sventurata figura che gli stava davanti. Un clandestino! Era la seconda volta che accadeva in tre mesi.
 
-Un balbettante tentativo di farsi ascoltare accrebbe così spaventosamente la furia di quell'uomo che George dovette per forza tacere. La collera del primo ufficiale montò in una sorta di tifone, e se la legge, o anche solo la consuetudine del mare, gli avessero permesso di fare un quarto di ciò di cui minacciava il povero vagabondo, una nave britannica non sarebbe certo stata un luogo adatto a viverci. In realtà, quando la tirata fu finita, si limitò a una maledizione generale sulla città di [[London|Londra]] e i suoi abitanti, a una particolare rivolta con minaccia contro il marinaio scelto che aveva catturato il clandestino, e infine a disporre che lo si conducesse dal capitano quando la nave fosse in canale e la trepidante faccenda di portarla fuori fosse conclusa.
+Un balbettante tentativo di farsi ascoltare accrebbe così spaventosamente la furia di quell'uomo che George dovette per forza tacere. La collera del primo ufficiale montò in una sorta di tifone, e se la legge, o anche solo la consuetudine del mare, gli avessero permesso di fare un quarto di ciò di cui minacciava il povero vagabondo, una nave britannica non sarebbe certo stata un luogo adatto a viverci. In realtà, quando la tirata fu finita, si limitò a una maledizione generale sulla città di [[settings/london|Londra]] e i suoi abitanti, a una particolare rivolta con minaccia contro il marinaio scelto che aveva catturato il clandestino, e infine a disporre che lo si conducesse dal capitano quando la nave fosse in canale e la trepidante faccenda di portarla fuori fosse conclusa.
 
 Per un certo tempo, dunque, Demaine rimase bersaglio delle occasionali ma ormai fiacche sguaiataggini dei suoi due guardiani, e soltanto quando la barca del barcaiolo si fu staccata dalla fiancata e il cavo di tonneggio ebbe sguazzato nella melma del Tamigi, soltanto quando la macchinetta ebbe sferragliato ancora una volta e l'ebbe tirato a bordo, orrendo di tutti gli orrori di quell'acqua, e soltanto quando le macchine andarono di buon passo e la Lily scendeva rapida con la marea, il capitano fu pronto a sedere in giudizio.
 
@@ -6540,7 +6540,7 @@ Captain Higgins pulled out a large, official-looking paper divided into certain 
 
 He began once more by clearing his throat, but though he had not yet said a word, Captain Higgins looked up with such an expression in his small and unpleasing eyes as would brook no nonsense.
 
-“George Ross Mane,” said he, speaking through his nose. “You have been discovered on my ship, the Lily, one thousand three hundred and twenty tons burthen, [[London]] rating, bound from [[London]] to Portland with agricultural and general cargo.”
+“George Ross Mane,” said he, speaking through his nose. “You have been discovered on my ship, the Lily, one thousand three hundred and twenty tons burthen, [[settings/london|London]] rating, bound from [[settings/london|London]] to Portland with agricultural and general cargo.”
 
 Captain Higgins loved these formalities.
 
@@ -6579,7 +6579,7 @@ Era questa la persona su cui dipendevano le speranze di Demaine per un rapido re
 
 Il Capitano Higgins tirò fuori un foglio grande, dall'aspetto ufficiale, diviso in diversi riquadri misteriosi, ciascuno intitolato da una dicitura stampata, e disse brevemente, senza alzare lo sguardo e con la penna pronta a scrivere:
 
-# “Nome?”
+“Nome?”
 
 “Demaine,” disse George, con tutta la dignità che riuscì a racimolare… “Ma…”
 
@@ -6589,7 +6589,7 @@ Il Capitano Higgins tirò fuori un foglio grande, dall'aspetto ufficiale, diviso
 
 Iniziò di nuovo schiarendosi la gola, ma anche se non aveva ancora detto una parola, il Capitano Higgins alzò lo sguardo con un'espressione nei suoi piccoli e poco attraenti occhi che non tollerava assolutamente sciocchezze.
 
-“George Ross Mane,” disse lui, parlando attraverso il naso. “Siete stato scoperto sulla mia nave, la Lily, con una capacità di carico di mille trecentoventi tonnellate, classificata a [[London|Londra]], in viaggio da [[London|Londra]] a Portland con merci agricole e di vario genere.”
+“George Ross Mane,” disse lui, parlando attraverso il naso. “Siete stato scoperto sulla mia nave, la Lily, con una capacità di carico di mille trecentoventi tonnellate, classificata a [[settings/london|Londra]], in viaggio da [[settings/london|Londra]] a Portland con merci agricole e di vario genere.”
 
 Il Capitano Higgins amava queste formalità.
 
@@ -6658,7 +6658,7 @@ George did not understand. “Why Parham?” he asked weakly.
 
 “Coz that’s where they’ll land yer. That’s where they’ll put yer shore. They’ll ave the cops there roight on the quay wytin for yer, and they’ll put yer ahverboard in the little dinghy, they wull: they wahn’t thrah yer bundle arter ye, anforwhoy? acause yer arn’t got none. But they’ll send one of th’ orficers and ee’ll and yer ahver ter th’ cops, and ee’ll sye: ‘ee’s been very vilent’ — that’s what ee’ll sye; that’s what they said wiv the larst un; and they clapped th’ darbies on im ... saw em meself,” continued the boy most untruthfully. Then not knowing his man and going a step too far, he continued: “Ee was ung, ee was: ung in Lewes Gaol,” he ended, to give the story point and finish.
 
-The poor pedantry of maps does not weigh upon the governing classes of this country, and Demaine might have had some difficulty in answering in an examination exactly where Parham lay, but he knew that it was on the south coast, he knew one reached it easily in an hour or two from [[London]], because he had gone to golf there. He knew that there was a good motor track between the harbour and Highcliff, and altogether Parham sounded to him like an echo from now forgotten, dearer, and long dead days. He affected indifference.
+The poor pedantry of maps does not weigh upon the governing classes of this country, and Demaine might have had some difficulty in answering in an examination exactly where Parham lay, but he knew that it was on the south coast, he knew one reached it easily in an hour or two from [[settings/london|London]], because he had gone to golf there. He knew that there was a good motor track between the harbour and Highcliff, and altogether Parham sounded to him like an echo from now forgotten, dearer, and long dead days. He affected indifference.
 
 “Well,” he said, “it’s all the same to me.”
 
@@ -6741,7 +6741,7 @@ George non capiva. “Perché Parham?”, chiese debolmente.
 
 “Perché è lì che vi porteranno. È lì che vi faranno sbarcare. Avranno la polizia ad aspettarvi proprio sul molo, e vi faranno salire su quella piccola barca. Non vi porteranno nemmeno il vostro bagaglio, perché non ne avete nessuno. Ma manderanno uno degli agenti e lui vi consegnerà alla polizia, dicendo: ‘È stato molto violento’. È quello che diranno; è quello che hanno detto anche dell’ultimo. E poi gli hanno messo le manette, ” continuò il ragazzo in modo assolutamente falso. Poi, non conoscendo bene la situazione e andando un po’ troppo oltre, aggiunse: “Era giovane. Era in prigione a Lewes, ” concluse, per dare un senso alla storia e farla finire.
 
-La povera pedanteria delle mappe non influisce affatto sulle classi dirigenti di questo paese; forse Demaine avrebbe avuto qualche difficoltà a rispondere con precisione dove si trovasse Parham durante un esame, ma sapeva che si trovava sulla costa meridionale, sapeva che ci si poteva arrivare facilmente in un’ora o due da [[London|Londra]], perché c’era andato a giocare a golf. Sapeva anche che esisteva una buona strada asfaltata tra il porto e Highcliff. In definitiva, Parham gli sembrava l’eco di tempi ormai dimenticati, più belli e lontani nel tempo. Fingeva indifferenza.
+La povera pedanteria delle mappe non influisce affatto sulle classi dirigenti di questo paese; forse Demaine avrebbe avuto qualche difficoltà a rispondere con precisione dove si trovasse Parham durante un esame, ma sapeva che si trovava sulla costa meridionale, sapeva che ci si poteva arrivare facilmente in un’ora o due da [[settings/london|Londra]], perché c’era andato a giocare a golf. Sapeva anche che esisteva una buona strada asfaltata tra il porto e Highcliff. In definitiva, Parham gli sembrava l’eco di tempi ormai dimenticati, più belli e lontani nel tempo. Fingeva indifferenza.
 
 “Beh,” disse, “per me non fa alcuna differenza.”
 
@@ -6794,11 +6794,11 @@ AS GEORGE MULROSS Demaine drifted down river in his cell that Tuesday afternoon 
 
 Evil breeds evil.
 
-As he considered the gloomy prospect, new aspects of it rose before him. Not only was he privately between these two fires, the sudden madness of the outgoing Warden, the disappearance of his successor, but the retirement of Charles Repton had been publicly announced and Dimmy’s nomination had appeared alongside with it in the morning papers. The double news was all over [[England]].
+As he considered the gloomy prospect, new aspects of it rose before him. Not only was he privately between these two fires, the sudden madness of the outgoing Warden, the disappearance of his successor, but the retirement of Charles Repton had been publicly announced and Dimmy’s nomination had appeared alongside with it in the morning papers. The double news was all over [[settings/england|England]].
 
 Yet another torturing thought suggested itself. How and when should he fill the vacancy? What was he to do?
 
-Repton was impossible. His disaster was not in the papers, thank God, and could not be, under the decent rules which govern our press. But it was already the chief tittle-tattle of every house that counted in [[London]]. There could be no interregnum with Repton still nominally filling the place. He might wait as long as he dared, give it to a third man, and then have Demaine turn up smiling and hungry: and if that happened the Prime Minister would earn what he dreaded most on earth, the enmity of those who had been his friends; perhaps a breach with Mary Smith herself.
+Repton was impossible. His disaster was not in the papers, thank God, and could not be, under the decent rules which govern our press. But it was already the chief tittle-tattle of every house that counted in [[settings/london|London]]. There could be no interregnum with Repton still nominally filling the place. He might wait as long as he dared, give it to a third man, and then have Demaine turn up smiling and hungry: and if that happened the Prime Minister would earn what he dreaded most on earth, the enmity of those who had been his friends; perhaps a breach with Mary Smith herself.
 
 He was not fit to do more than survey the misfortune of the moment: he was still in his perplexity, when he heard the bell ringing in the next room, and was told that he himself was personally and urgently wanted upon the telephone.
 
@@ -6851,17 +6851,17 @@ The Prime Minister almost forced him down into the chair from which he had risen
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XI
+CAPITOLO XI
 
 Quel martedì pomeriggio del 2 giugno, mentre George Mulross Demaine galleggiava lungo il fiume nella sua cella, Dolly sedeva immobile a Downing Street, con le acque della disperazione alle sue labbra.
 
 Il male genera altro male.
 
-Mentre rifletteva su quella cupa prospettiva, ne emersero nuovi aspetti davanti ai suoi occhi. Non solo si trovava personalmente stretto tra due difficoltà estreme: la follia improvvisa dell’ex direttore e la scomparsa del suo successore, ma anche il ritiro di Charles Repton era stato annunciato pubblicamente, e la nomina di Dimmy era apparsa insieme ad esso sui giornali del mattino. Queste due notizie si erano diffuse in tutta [[England|Inghilterra]].
+Mentre rifletteva su quella cupa prospettiva, ne emersero nuovi aspetti davanti ai suoi occhi. Non solo si trovava personalmente stretto tra due difficoltà estreme: la follia improvvisa dell’ex direttore e la scomparsa del suo successore, ma anche il ritiro di Charles Repton era stato annunciato pubblicamente, e la nomina di Dimmy era apparsa insieme ad esso sui giornali del mattino. Queste due notizie si erano diffuse in tutta [[settings/england|Inghilterra]].
 
 Un altro pensiero tormentoso gli venne in mente: come e quando doveva colmare quel vuoto? Cosa doveva fare?
 
-Repton era insopportabile. Grazie al cielo, il suo disastro non compariva sui giornali, e non avrebbe potuto comparire nemmeno secondo le regole decenti che governano la nostra stampa. Tuttavia, era già l’argomento principale di ogni pettegolezzo nelle case più importanti di [[London|Londra]]. Non poteva esserci alcun periodo di transizione mentre Repton continuava nominalmente a ricoprire quella posizione. Avrebbe potuto aspettare per tutto il tempo che si fosse sentito di osare, passarla a un terzo uomo, e poi Demaine sarebbe apparso, sorridente e desideroso di riprendere il controllo: e se ciò fosse accaduto, il Primo Ministro avrebbe ottenuto proprio ciò che temeva di più al mondo: l’inimicizia di coloro che un tempo erano stati suoi amici. Forse persino una rottura con Mary Smith stessa.
+Repton era insopportabile. Grazie al cielo, il suo disastro non compariva sui giornali, e non avrebbe potuto comparire nemmeno secondo le regole decenti che governano la nostra stampa. Tuttavia, era già l’argomento principale di ogni pettegolezzo nelle case più importanti di [[settings/london|Londra]]. Non poteva esserci alcun periodo di transizione mentre Repton continuava nominalmente a ricoprire quella posizione. Avrebbe potuto aspettare per tutto il tempo che si fosse sentito di osare, passarla a un terzo uomo, e poi Demaine sarebbe apparso, sorridente e desideroso di riprendere il controllo: e se ciò fosse accaduto, il Primo Ministro avrebbe ottenuto proprio ciò che temeva di più al mondo: l’inimicizia di coloro che un tempo erano stati suoi amici. Forse persino una rottura con Mary Smith stessa.
 
 Non era nelle condizioni di fare altro che osservare la sfortuna del momento; era ancora immerso nella sua perplessità quando sentì suonare il campanello nella stanza accanto e gli fu detto che lo chiamavano al telefono in modo personale ed urgente.
 
@@ -6948,7 +6948,7 @@ Edward had been at King’s, for his father had sent him there. From the Treasur
 
 He was a silent Welshman, descended from a short line of small squires, and he comprehended, in a manner not wholly natural to a man under thirty, the frailties of the human heart. The instructions he received from his chief, however, were of the simplest possible type, and called for the moment upon none of his exceptional powers.
 
-There was to be no writing and no telephoning: he was to call upon Bowker, because Bowker had the largest specialist experience of nervous diseases in [[London]], and therefore in the world.
+There was to be no writing and no telephoning: he was to call upon Bowker, because Bowker had the largest specialist experience of nervous diseases in [[settings/london|London]], and therefore in the world.
 
 He was to come as from the Reptons, and to give an appointment at Repton’s house, telling the doctor that he should there find Sir Anthony Poole. He was to go at once to Sir Anthony Poole, whose general reputation stood higher than any other medical man’s, to approach him as from the Reptons, to give him a similar appointment and to inform him that he would meet there Dr. Bowker. He was to tell them the whole sad truth, and beg for a certificate. The unfortunate gentleman could then be given the advantages of a complete rest cure.
 
@@ -6997,7 +6997,7 @@ Edward aveva studiato alla King’s College, perché suo padre lo aveva mandato 
 
 Era un silenzioso gallese, discendente di una linea di piccoli nobili di basso rango; comprendeva, in modo non del tutto naturale per un uomo sotto i trent’anni, le debolezze del cuore umano. Tuttavia, le istruzioni che riceveva dal suo capo erano delle più semplici possibili e, al momento, non richiedevano alcuna delle sue capacità eccezionali.
 
-Non era permesso scrivere né telefonare: doveva recarsi da Bowker, perché Bowker possedeva la più vasta esperienza specialistica nelle malattie nervose di tutta [[London|Londra]] e, di conseguenza, del mondo intero.
+Non era permesso scrivere né telefonare: doveva recarsi da Bowker, perché Bowker possedeva la più vasta esperienza specialistica nelle malattie nervose di tutta [[settings/london|Londra]] e, di conseguenza, del mondo intero.
 
 Avrebbe dovuto presentarsi come se provenisse dai Reptons e fissare un appuntamento a casa loro, dicendo al dottore che avrebbe trovato lì Sir Anthony Poole. Avrebbe dovuto recarsi immediatamente da Sir Anthony Poole, la cui reputazione generale era superiore a quella di qualsiasi altro medico, avvicinarsi a lui presentandosi come se provenisse dai Reptons, fissargli un appuntamento simile e informarlo che lì avrebbe incontrato il dottor Bowker. Avrebbe dovuto raccontare loro tutta la triste verità e chiedere un certificato. In questo modo, quel povero signore avrebbe potuto beneficiare di un completo trattamento di riposo.
 
@@ -7034,7 +7034,7 @@ She was agitated; it was even distressing to watch her agitation. She described 
 
 She left them for a moment together, and went to prepare her husband. She was a woman of heroic endurance. Her father had been in his time a God-fearing man, and had accumulated a small competence in the jute line.
 
-Dr. Bowker, let it be remembered, was a specialist in nervous diseases. Sir Anthony Poole, let it also be remembered, was not, but he was something infinitely better in his own estimation: he was a man who had attended more distinguished people and with greater success than any other physician in [[London]]. Dr. Bowker’s word as a specialist could not be doubted. Sir Anthony Poole had only to express an opinion upon a man’s health in any particular and that opinion became positive gospel to all who heard it.
+Dr. Bowker, let it be remembered, was a specialist in nervous diseases. Sir Anthony Poole, let it also be remembered, was not, but he was something infinitely better in his own estimation: he was a man who had attended more distinguished people and with greater success than any other physician in [[settings/london|London]]. Dr. Bowker’s word as a specialist could not be doubted. Sir Anthony Poole had only to express an opinion upon a man’s health in any particular and that opinion became positive gospel to all who heard it.
 
 The medical judgment of no two men given concurrently could carry greater weight. By an accident not infrequent in all professions, these two great men, though their rivalry was not strictly in the same field, each undervalued the scientific aptitude of the other. Each would have gone to the stake for the corporate value of that small ring to which both belonged, but neither would admit the claim of the other to a special if undefined precedence.
 
@@ -7071,7 +7071,7 @@ Era agitata; era persino angosciante osservare la sua agitazione. Raccontò loro
 
 Li lasciò da soli per un momento e andò ad aiutare suo marito. Era una donna di straordinaria pazienza e forza d’animo. Suo padre, in passato, era stato un uomo timoroso di Dio e aveva acquisito una certa competenza nel settore della juta.
 
-Il dottor Bowker, si ricordi bene, era uno specialista in malattie nervose. Sir Anthony Poole, si ricordi anche questo, non lo era; tuttavia, secondo la sua stessa valutazione, rappresentava qualcosa di infinitamente migliore: era un uomo che aveva curato persone molto importanti e con maggiore successo di qualsiasi altro medico a [[London|Londra]]. La parola del dottor Bowker, in quanto specialista, non poteva essere messa in dubbio. Quando Sir Anthony Poole esprimeva un’opinione sulla salute di qualcuno, quella opinione diventava una verità assoluta per chiunque la ascoltasse.
+Il dottor Bowker, si ricordi bene, era uno specialista in malattie nervose. Sir Anthony Poole, si ricordi anche questo, non lo era; tuttavia, secondo la sua stessa valutazione, rappresentava qualcosa di infinitamente migliore: era un uomo che aveva curato persone molto importanti e con maggiore successo di qualsiasi altro medico a [[settings/london|Londra]]. La parola del dottor Bowker, in quanto specialista, non poteva essere messa in dubbio. Quando Sir Anthony Poole esprimeva un’opinione sulla salute di qualcuno, quella opinione diventava una verità assoluta per chiunque la ascoltasse.
 
 Il giudizio medico di due persone espresse contemporaneamente non potrebbe mai avere un peso maggiore di questo. Per un errore non infrequente in tutte le professioni, questi due grandi uomini, sebbene la loro rivalità non riguardasse esattamente lo stesso campo, sottovalutarono entrambi le capacità scientifiche dell’altro. Ognuno di loro sarebbe stato disposto a sacrificare tutto per il valore collettivo di quel piccolo anello a cui entrambi appartenevano, ma nessuno dei due avrebbe riconosciuto l’affermazione dell’altro riguardo a una precedenza speciale, anche se non ben definita.
 
@@ -7152,7 +7152,7 @@ Lady Repton in her grievous anxiety (for at the very moment she read the message
 
 The Prime Minister was not sympathetic. He did not desire further acquaintance with the lady.
 
-The Premier’s cup was full. His Warden of the Court of Dowry had resigned: the new Warden was appointed. The Warden who had resigned had gone mad; the Warden whom he had appointed had fled. At least — at least he might have been spared the madman! But no, he was not granted even this! the madman was still loose over [[London]] like a roaring lion, capable of doing infinite things within the next twenty-four hours. What was a peerage to a madman? What was a Wardenship of the Court of Dowry to a man who was not? The crumb of comfort that would have been afforded him by locking up the wretched lunatic who was the root of half his troubles was snatched from him.
+The Premier’s cup was full. His Warden of the Court of Dowry had resigned: the new Warden was appointed. The Warden who had resigned had gone mad; the Warden whom he had appointed had fled. At least — at least he might have been spared the madman! But no, he was not granted even this! the madman was still loose over [[settings/london|London]] like a roaring lion, capable of doing infinite things within the next twenty-four hours. What was a peerage to a madman? What was a Wardenship of the Court of Dowry to a man who was not? The crumb of comfort that would have been afforded him by locking up the wretched lunatic who was the root of half his troubles was snatched from him.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7217,7 +7217,7 @@ Lady Repton, nel suo profondo stato di ansia (poiché nel momento stesso in cui 
 
 Il Primo Ministro non era affatto comprensivo; non desiderava approfondire la conoscenza con quella signora.
 
-La coppa del Primo Ministro era piena. Il suo Sovrintendente della Corte dei Dote aveva rassegnato le dimissioni; il nuovo Sovrintendente era stato nominato. Quello che aveva rassegnato le dimissioni era impazzito; quello che lui stesso aveva nominato era fuggito. Almeno, almeno avrebbe potuto essere risparmiato da quel pazzo! Ma no, nemmeno questo gli fu concesso! Il pazzo era ancora a piede libero per [[London|Londra]], come una tigre ruggente, capace di compiere infinite cose nelle prossime ventiquattro ore. Che significato aveva un titolo nobiliare per un pazzo? E che significato aveva la carica di Sovrintendente della Corte dei Dote per un uomo che non lo era? Quel piccolo conforto che avrebbe potuto derivargli dal rinchiudere quel maledetto pazzo, responsabile di metà dei suoi problemi, gli fu strappato via.
+La coppa del Primo Ministro era piena. Il suo Sovrintendente della Corte dei Dote aveva rassegnato le dimissioni; il nuovo Sovrintendente era stato nominato. Quello che aveva rassegnato le dimissioni era impazzito; quello che lui stesso aveva nominato era fuggito. Almeno, almeno avrebbe potuto essere risparmiato da quel pazzo! Ma no, nemmeno questo gli fu concesso! Il pazzo era ancora a piede libero per [[settings/london|Londra]], come una tigre ruggente, capace di compiere infinite cose nelle prossime ventiquattro ore. Che significato aveva un titolo nobiliare per un pazzo? E che significato aveva la carica di Sovrintendente della Corte dei Dote per un uomo che non lo era? Quel piccolo conforto che avrebbe potuto derivargli dal rinchiudere quel maledetto pazzo, responsabile di metà dei suoi problemi, gli fu strappato via.
 
 
 
@@ -7264,7 +7264,7 @@ The Prime Minister groaned.
 
 “Nothing in the Times?”
 
-“Oh no,” said Edward, “nothing in any of the eleven [[London]] papers on the official list.”
+“Oh no,” said Edward, “nothing in any of the eleven [[settings/london|London]] papers on the official list.”
 
 “Do you think the others count?”
 
@@ -7290,9 +7290,9 @@ Upon his table a time-honoured device constructed of brass and wood was designed
 
 Of Demaine not a word.
 
-Dolly thanked Heaven for the discipline which makes the Press of [[London]] the most powerful instrument of Government in the world.
+Dolly thanked Heaven for the discipline which makes the Press of [[settings/london|London]] the most powerful instrument of Government in the world.
 
-His thanks were premature; and the gentle, somewhat mournful atheism which was his only creed received excellent support when he saw among certain items of news which were laid upon his table every morning, two cuttings from foreign papers which told at great length and in the plainest details the whole story of the dreadful episode in the [[City]], and connected it in so many words with the scandalous scene in the House of Commons. He could only comfort himself by reflecting that news which leaked out abroad was rarely if ever permitted to enter the Island. He reflected that time is a remedy for all evils, and he made ready for the duties of the day.
+His thanks were premature; and the gentle, somewhat mournful atheism which was his only creed received excellent support when he saw among certain items of news which were laid upon his table every morning, two cuttings from foreign papers which told at great length and in the plainest details the whole story of the dreadful episode in the [[motifs/city|City]], and connected it in so many words with the scandalous scene in the House of Commons. He could only comfort himself by reflecting that news which leaked out abroad was rarely if ever permitted to enter the Island. He reflected that time is a remedy for all evils, and he made ready for the duties of the day.
 
 Meanwhile his secretary, Edward, — to give him his full title, Teddy Evans — had come to the first of the two offices which it was his business to visit. It was not yet nine o’clock and there was still time to cut on the machine.
 
@@ -7341,7 +7341,7 @@ Il Primo Ministro emise un gemito.
 
 "Niente nei “Times”?"
 
-“Oh no,” disse Edward, “niente in nessuno dei dodici giornali di [[London|Londra]] presenti nell’elenco ufficiale.”
+“Oh no,” disse Edward, “niente in nessuno dei dodici giornali di [[settings/london|Londra]] presenti nell’elenco ufficiale.”
 
 “Pensi che gli altri contino davvero?”
 
@@ -7351,7 +7351,7 @@ Il Primo Ministro emise un gemito.
 
 “Il pranzo non è niente di che,” disse Edward.
 
-# Perché no?
+Perché no?
 
 I giornali serali vengono stampati la mattina.
 
@@ -7367,9 +7367,9 @@ Sul suo tavolo c'era un oggetto antico, realizzato in ottone e legno, progettato
 
 Nessuna parola su Demaine.
 
-Dolly ringraziò il Cielo per la disciplina che rende la stampa di [[London|Londra]] lo strumento più potente del governo al mondo.
+Dolly ringraziò il Cielo per la disciplina che rende la stampa di [[settings/london|Londra]] lo strumento più potente del governo al mondo.
 
-I suoi ringraziamenti erano prematuri; e l’ateismo gentile e un po’ malinconico che costituiva la sua unica credenza ricevette un ottimo sostegno quando, ogni mattina, tra le notizie che gli venivano portate, trovò due articoli tratti da giornali stranieri che descrivevano in dettaglio l’intera vicenda terribile accaduta nella [[City|>Città]], collegandola in modo esplicito allo scandalo avvenuto alla Camera dei Comuni. Si consolò pensando che le notizie che filtravano all’estero raramente, se mai, avevano l’opportunità di raggiungere l’Isola. Riconobbe inoltre che il tempo è un rimedio per tutti i mali e si preparò ad affrontare le incombenze della giornata.
+I suoi ringraziamenti erano prematuri; e l’ateismo gentile e un po’ malinconico che costituiva la sua unica credenza ricevette un ottimo sostegno quando, ogni mattina, tra le notizie che gli venivano portate, trovò due articoli tratti da giornali stranieri che descrivevano in dettaglio l’intera vicenda terribile accaduta nella [[motifs/city|>Città]], collegandola in modo esplicito allo scandalo avvenuto alla Camera dei Comuni. Si consolò pensando che le notizie che filtravano all’estero raramente, se mai, avevano l’opportunità di raggiungere l’Isola. Riconobbe inoltre che il tempo è un rimedio per tutti i mali e si preparò ad affrontare le incombenze della giornata.
 
 Nel frattempo, il suo segretario, Edward – per dargli il titolo completo, Teddy Evans – era arrivato nella prima delle due stanze che doveva visitare. Non erano ancora le nove e c’era ancora tempo per iniziare a lavorare.
 
@@ -7434,7 +7434,7 @@ Evans spent about thirty seconds looking at the floor.
 
 “Yes,” said the sub-editor, “Why?”
 
-Evans walked to the window and looked out into the [[City]] street and said without showing his face:
+Evans walked to the window and looked out into the [[motifs/city|City]] street and said without showing his face:
 
 “Mr. Price, your proprietor is a very valued member of our party.”
 
@@ -7503,9 +7503,9 @@ Evans trascorse circa trenta secondi a guardare il pavimento.
 
 “Sì”, disse il vice-redattore, “Perché?”
 
-Evans si avvicinò alla finestra, guardò fuori nella strada della [[City|Città]] e disse, senza mostrare il viso:
+Evans si avvicinò alla finestra, guardò fuori nella strada della [[motifs/city|Città]] e disse, senza mostrare il viso:
 
-# “Il signor Price è un membro molto apprezzato del nostro gruppo.”
+“Il signor Price è un membro molto apprezzato del nostro gruppo.”
 
 Alla parola “proprietario”, il signor Price cambiò colore. Tuttavia, Evans non intendeva il proprietario del signor Price, ma semplicemente il proprietario della Luna.
 
@@ -7550,7 +7550,7 @@ But what about Demaine?
 
 That had got ahead of them, and there was nothing to do but to wait until Demaine should be found. The very moment that he was found they could act and an explanation should be given that would soon cause the mystery to be forgotten. But a silence still surrounded that unlucky name.
 
-Nothing had been heard in the Lobbies, nothing from Scotland Yard. Finally, and more important, Mary Smith herself could tell Dolly nothing, and if she could not, certainly no one else in [[London]] could.
+Nothing had been heard in the Lobbies, nothing from Scotland Yard. Finally, and more important, Mary Smith herself could tell Dolly nothing, and if she could not, certainly no one else in [[settings/london|London]] could.
 
 She was really fond of her cousin, and for his sake she comforted, and, what was more important, restrained the imprudent Sudie.
 
@@ -7589,7 +7589,7 @@ Ma che ne è di Demaine?
 
 Quello aveva preso il sopravvento su di loro, e non c'era nulla da fare se non aspettare che Demaine venisse trovato. Non appena fosse stato ritrovato, avrebbero potuto agire e fornire una spiegazione che avrebbe presto fatto dimenticare quel mistero. Ma un silenzio continuava a circondare quel nome sfortunato.
 
-Nessuna notizia era arrivata dai corridoi dell’edificio, né da Scotland Yard. Alla fine, e cosa più importante, nemmeno Mary Smith stessa poteva dire nulla a Dolly; e se lei non riusciva a farlo, di certo nessun altro a [[London|Londra]] avrebbe potuto.
+Nessuna notizia era arrivata dai corridoi dell’edificio, né da Scotland Yard. Alla fine, e cosa più importante, nemmeno Mary Smith stessa poteva dire nulla a Dolly; e se lei non riusciva a farlo, di certo nessun altro a [[settings/london|Londra]] avrebbe potuto.
 
 Lei aveva davvero un grande affetto per suo cugino, e per amor suo cercava di consolarlo e, cosa ancora più importante, di trattenere Sudie dal comportarsi in modo imprudente.
 
@@ -7634,11 +7634,11 @@ Demaine was in acute necessity. “Look here,” he said, “get me some bread.�
 
 Demaine nodded mysteriously, and once again was his gaoler torn between a desire for some ultimate gain and the certitude that no present gain was obtainable.
 
-He was a [[London]] lad, with all the advantages that [[London]] birth implies, and it had already occurred to him that Demaine’s accent, manner and cuticle differed in a strange way from those of your stock stowaway. He had been impressed in the matter of the food; he was more impressed by certain little turns of language which he associated with those hateful, but, as he had been told, wealthy people, who came down and did good amid his mother’s neighbours in the East End; and when he had thought it well over and tamed his prisoner further by one more well-chosen epithet, he went off and came back with a hunk of bread.
+He was a [[settings/london|London]] lad, with all the advantages that [[settings/london|London]] birth implies, and it had already occurred to him that Demaine’s accent, manner and cuticle differed in a strange way from those of your stock stowaway. He had been impressed in the matter of the food; he was more impressed by certain little turns of language which he associated with those hateful, but, as he had been told, wealthy people, who came down and did good amid his mother’s neighbours in the East End; and when he had thought it well over and tamed his prisoner further by one more well-chosen epithet, he went off and came back with a hunk of bread.
 
 “Yer lucky,” he said as he returned, “thet yer on a short trip. Otherwyes t’d uv been biscuit....” Then he added, “and gryte wurms in ut!”
 
-George did not reply. He bit into the bread in ecstasy, and his eyes, which his acquaintances in [[London]] commonly discovered to be lifeless, positively gleamed upon this summer morning.
+George did not reply. He bit into the bread in ecstasy, and his eyes, which his acquaintances in [[settings/london|London]] commonly discovered to be lifeless, positively gleamed upon this summer morning.
 
 “They gotter communicyte wiv the orfferities fust,” said the boy pompously.
 
@@ -7650,7 +7650,7 @@ George did not reply. He bit into the bread in ecstasy, and his eyes, which his 
 
 “Woy, wiv a flag, that’s ow,” said the boy.
 
-Demaine had often been told of the long and complicated messages which little pieces of bunting could convey, and he had himself presented to a country school a whole series of flags which, in a certain order, signified that [[England]] expected every man to do his duty. But he could not conceive how so complete a message as the presence and desired arrest of an unfortunate stowaway could be conveyed to the authorities ashore by any such simple means, unless indeed the presence of stowaways was so common an occurrence that a code signal was used for the purpose of disembarking that cargo.
+Demaine had often been told of the long and complicated messages which little pieces of bunting could convey, and he had himself presented to a country school a whole series of flags which, in a certain order, signified that [[settings/england|England]] expected every man to do his duty. But he could not conceive how so complete a message as the presence and desired arrest of an unfortunate stowaway could be conveyed to the authorities ashore by any such simple means, unless indeed the presence of stowaways was so common an occurrence that a code signal was used for the purpose of disembarking that cargo.
 
 The boy illumined him.
 
@@ -7663,7 +7663,7 @@ A voice came bawling down from above, ordering him to tumble up with the prisone
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XII
+CAPITOLO XII
 
 “Oh Libertà!” esclama il poeta bulgaro Machinchose in un bellissimo apostrofo, troppo poco conosciuto in questo paese, “Oh Libertà”, ecc.
 
@@ -7697,11 +7697,11 @@ Sentì dei passi fuori; colpì la porta con il pugno. Con sua gioia, una chiave 
 
 Demaine annuì in modo misterioso; ancora una volta, il suo carceriere si trovava diviso tra il desiderio di ottenere un qualche vantaggio definitivo e la consapevolezza che al momento non fosse possibile alcun guadagno concreto.
 
-Era un ragazzo di [[London|Londra]], con tutti i vantaggi che una nascita a [[London|Londra]] comporta; gli era già venuto in mente che l’accento, il modo di fare e le abitudini di Demaine differivano in modo strano da quelli dei soliti clandestini. Era rimasto colpito dal cibo; ancora di più lo avevano colpito alcune particolari espressioni linguistiche che gli ricordavano quei persone odiose, ma, come gli era stato detto, ricche, che venivano nel quartiere East End dove viveva sua madre per fare del bene. Dopo averci pensato bene e aver “addomesticato” ulteriormente il suo prigioniero con un altro epiteto ben scelto, andò via e tornò con un pezzo di pane.
+Era un ragazzo di [[settings/london|Londra]], con tutti i vantaggi che una nascita a [[settings/london|Londra]] comporta; gli era già venuto in mente che l’accento, il modo di fare e le abitudini di Demaine differivano in modo strano da quelli dei soliti clandestini. Era rimasto colpito dal cibo; ancora di più lo avevano colpito alcune particolari espressioni linguistiche che gli ricordavano quei persone odiose, ma, come gli era stato detto, ricche, che venivano nel quartiere East End dove viveva sua madre per fare del bene. Dopo averci pensato bene e aver “addomesticato” ulteriormente il suo prigioniero con un altro epiteto ben scelto, andò via e tornò con un pezzo di pane.
 
 “Sei fortunato,” disse tornando, “perché si tratta di un viaggio breve. Altrimenti saresti finito nei guai, ” Poi aggiunse: “E con dei vermi giganti dentro!”
 
-George non rispose. Mordicchiava il pane con estasi, e i suoi occhi, che i suoi conoscenti a [[London|Londra]] di solito consideravano privi di vita, brillavano davvero in quella mattina d’estate.
+George non rispose. Mordicchiava il pane con estasi, e i suoi occhi, che i suoi conoscenti a [[settings/london|Londra]] di solito consideravano privi di vita, brillavano davvero in quella mattina d’estate.
 
 “Riusciranno a comunicare con le vittime prima”, disse il ragazzo in tono pomposo.
 
@@ -7713,7 +7713,7 @@ George non rispose. Mordicchiava il pane con estasi, e i suoi occhi, che i suoi 
 
 “Ehi, che strana bandiera, quella non è giusta,” disse il ragazzo.
 
-A Demaine era stato spesso detto di quali messaggi lunghi e complicati potessero trasmettere quei piccoli pezzi di stoffa colorata, ed egli stesso aveva portato in una scuola rurale un intero insieme di bandiere che, disposte in un certo ordine, significavano che [[England|Inghilterra]] si aspettava che ogni uomo adempisse al proprio dovere. Ma non riusciva a capire come un messaggio così completo, come la presenza e l’arresto desiderato di un sfortunato clandestino a bordo, potesse essere trasmesso alle autorità a terra con mezzi così semplici. A meno che, forse, la presenza di clandestini non fosse un fenomeno così comune da rendere necessario l’uso di segnali in codice per lo sbarco di quel “carico”.
+A Demaine era stato spesso detto di quali messaggi lunghi e complicati potessero trasmettere quei piccoli pezzi di stoffa colorata, ed egli stesso aveva portato in una scuola rurale un intero insieme di bandiere che, disposte in un certo ordine, significavano che [[settings/england|Inghilterra]] si aspettava che ogni uomo adempisse al proprio dovere. Ma non riusciva a capire come un messaggio così completo, come la presenza e l’arresto desiderato di un sfortunato clandestino a bordo, potesse essere trasmesso alle autorità a terra con mezzi così semplici. A meno che, forse, la presenza di clandestini non fosse un fenomeno così comune da rendere necessario l’uso di segnali in codice per lo sbarco di quel “carico”.
 
 Il ragazzo lo illuminò.
 
@@ -7732,9 +7732,9 @@ Tumble up George did; that is, he crawled up the steep and noisome ladder, and a
 
 George Mulross was one of those few men who have never written verse, but he was capable that moment if not of the execution at least of the sentiment which the more classical of my readers are weary of in Prom. Vinc. Chor. A. 1-19, Oh the god-like air! The depth and the expanse of sky!
 
-The fatherly sky was all light, the sun was climbing, and a vivid belt of [[England]] lay, still asleep, green and in repose under that beneficence; and in the midst of it, set all round with fields, lay a lovely little town. It was Parham.
+The fatherly sky was all light, the sun was climbing, and a vivid belt of [[settings/england|England]] lay, still asleep, green and in repose under that beneficence; and in the midst of it, set all round with fields, lay a lovely little town. It was Parham.
 
-Demaine had once or twice noted how strangely glad the houses of men seem from off the sea, but as he was familiar rather with Calais and Dover, with Ostend, Folkestone and Boulogne than with other ports, and as he had more often approached them in winter weather than in the [[London]] season, there was something miraculously new to him in this vision which had been the delight of his forefathers: [[England]] from the summer sea.
+Demaine had once or twice noted how strangely glad the houses of men seem from off the sea, but as he was familiar rather with Calais and Dover, with Ostend, Folkestone and Boulogne than with other ports, and as he had more often approached them in winter weather than in the [[settings/london|London]] season, there was something miraculously new to him in this vision which had been the delight of his forefathers: [[settings/england|England]] from the summer sea.
 
 The clear spirit bubbling within him encountered another and muddier but forceful current as his eyes fell upon the first officer.
 
@@ -7787,9 +7787,9 @@ George ci riuscì davvero; cioè, strisciò su per quella scala ripida e rumoros
 
 George Mulross era uno di quei rari uomini che non hanno mai scritto versi, ma in quel momento fu capace, se non della loro esecuzione, almeno di esprimere i sentimenti di cui i miei lettori più classici sono ormai stanchi. Versi come quelli presenti in “Prom. Vinc. Chor. A. 1-19”: “Oh, l’aria divina! La profondità e l’immensità del cielo!”
 
-Il cielo, pieno di luce paterna, vedeva il sole sorgere; un vivido tratto di [[England|Inghilterra]] si estendeva, ancora addormentato, verde e tranquillo sotto quella benevolenza naturale; al suo centro, circondato da campi, sorgeva una deliziosa piccola città: era Parham.
+Il cielo, pieno di luce paterna, vedeva il sole sorgere; un vivido tratto di [[settings/england|Inghilterra]] si estendeva, ancora addormentato, verde e tranquillo sotto quella benevolenza naturale; al suo centro, circondato da campi, sorgeva una deliziosa piccola città: era Parham.
 
-Demaine aveva già notato una o due volte quanto stranamente piacevoli appaiono le case degli uomini viste dal mare; tuttavia, essendo più familiare con Calais, Dover, Ostend, Folkestone e Boulogne che con altri porti, e avendole spesso viste in tempo invernale piuttosto che durante la stagione londinese, questa visione – l’[[England|Inghilterra]] vista dal mare estivo – gli sembrava qualcosa di miracolosamente nuovo.
+Demaine aveva già notato una o due volte quanto stranamente piacevoli appaiono le case degli uomini viste dal mare; tuttavia, essendo più familiare con Calais, Dover, Ostend, Folkestone e Boulogne che con altri porti, e avendole spesso viste in tempo invernale piuttosto che durante la stagione londinese, questa visione – l’[[settings/england|Inghilterra]] vista dal mare estivo – gli sembrava qualcosa di miracolosamente nuovo.
 
 Lo spirito chiaro che ribolliva dentro di lui si scontrò con un’altra corrente, più torbida ma altrettanto potente, quando i suoi occhi incontrarono il primo ufficiale.
 
@@ -7850,7 +7850,7 @@ The reappearance of the boy was a welcome relief to the chief officer’s lungs 
 
 The prospective Warden of the Court of Dowry could swim fairly well. It had been his practice to swim in a tank. He had swum now and then near shore, but he had no conception of the amount of salt water that can get into a man’s mouth in a really long push over a sea however slightly broken, especially if one enters that sea in a sort of bundle, without taking a proper header. Moreover, the phenomenon of the tide astonished him; he had imagined in his innocence that the sea also was a kind of tank and that he had a dead course of it for the shore, the nearest point of which lay just eastward of the harbour mouth.
 
-As it was, [[England]] seemed to be flitting by at a terrible rate, and the Lily, when he turned upon his back and floated for a moment to observe her, had all the appearance of a ship proceeding at full speed up Channel, so rapidly did he drift away.
+As it was, [[settings/england|England]] seemed to be flitting by at a terrible rate, and the Lily, when he turned upon his back and floated for a moment to observe her, had all the appearance of a ship proceeding at full speed up Channel, so rapidly did he drift away.
 
 He swam too hurriedly and he exhausted himself, for his mind was full of terrors: they might fire upon him — he did not know what dreadful arsenal the Lily might not contain!
 
@@ -7881,7 +7881,7 @@ Il ritorno del ragazzo fu un vero sollievo per il capo ufficiale; alimentò anco
 
 Il futuro Sovrintendente del Tribunale delle Dote sapeva nuotare abbastanza bene; era solito fare il bagno in una piscina. Di tanto in tanto aveva nuotato anche vicino alla riva, ma non aveva idea di quanta acqua salata potesse finire nella bocca di un uomo durante una lunga nuotata in mare, soprattutto se ci si immergeva in modo goffo senza prepararsi adeguatamente. Inoltre, il fenomeno della marea lo sorprese molto: nella sua ingenuità, aveva pensato che anche il mare fosse una sorta di piscina e che potesse nuotare dritto verso la riva, la quale si trovava appena a est dell’ingresso del porto.
 
-Così com'era, [[England|Inghilterra]] sembrava passare via a una velocità terribile; il “Lily”, quando lui si girò sulla schiena e rimase sospeso per un momento ad osservarla, aveva l’aspetto esatto di una nave che viaggiava a tutta velocità attraverso la Manica, tanto rapidamente si allontanava.
+Così com'era, [[settings/england|Inghilterra]] sembrava passare via a una velocità terribile; il “Lily”, quando lui si girò sulla schiena e rimase sospeso per un momento ad osservarla, aveva l’aspetto esatto di una nave che viaggiava a tutta velocità attraverso la Manica, tanto rapidamente si allontanava.
 
 Nuotò troppo in fretta e si esaurì, perché la sua mente era piena di terrore: avrebbero potuto sparargli addosso. Non sapeva quali orribili armi potesse contenere quella “Liliana”!
 
@@ -7906,7 +7906,7 @@ Quando Demaine sentì il rumore dei remi e si voltò di nuovo indietro, stimò l
 
 The Shining Goddesses of the Sea loved him more than they loved the odious denizens of the Lily; they set the tide in shore, and the Sea Lady, the Silver-Footed One, led the little waves along in his favour.
 
-He had come to a belt of water where the tide set inward very rapidly, along a gulley or deep of the shore water. It was a godsend to him, for his pursuers were still in the outer tide. He was now not a quarter of a mile from the water-mark, and still going strong, with perhaps two hundred yards between the boat and him; he could not feel their hot breath upon his neck, but he could hear the rhythmic yell of the officer astern, criticising the moral characters of his crew with a regular emphatic cadence that followed the stroke of the oars ... when his cold, numbed right foot struck something; then his left struck sand: ... It was [[England]]! And the English statesman, like Antæus, was glad and was refreshed.
+He had come to a belt of water where the tide set inward very rapidly, along a gulley or deep of the shore water. It was a godsend to him, for his pursuers were still in the outer tide. He was now not a quarter of a mile from the water-mark, and still going strong, with perhaps two hundred yards between the boat and him; he could not feel their hot breath upon his neck, but he could hear the rhythmic yell of the officer astern, criticising the moral characters of his crew with a regular emphatic cadence that followed the stroke of the oars ... when his cold, numbed right foot struck something; then his left struck sand: ... It was [[settings/england|England]]! And the English statesman, like Antæus, was glad and was refreshed.
 
 He stumbled along out of it — the water on the shelving sand was here not three feet deep. He stumbled and raced along through the splashing water. It fell to his knees, to his shins, to his ankles, and he was on dry land!
 
@@ -7932,14 +7932,14 @@ He found himself in a little room of which this door was evidently the private c
 
 To begin with, it was lined everywhere with books, and though he himself had read perhaps but eighteen volumes in the whole course of his early manhood, yet a room lined with books justly suggested to him cultivation, leisure, and a certain amount of wealth. A volume was lying with its flyleaf open upon the table. He saw pasted in it a book-plate in the modern style, made out in the name of Carolus Merry Armiger. Mr. Armiger, it seemed, was his unsuspecting host. Mr. Armiger’s literary occupations did not interest George Mulross; such as they were he gathered them to have some connection with the Ten Lost Tribes.
 
-Manuscripts were lying upon the table, manuscripts consisting of long double lists of names with a date between them. The Jewish Encyclopedia was ranged in awful solemnity before these manuscripts; the Court Guides, reference books and almanacs of [[London]], Berlin, New York, Frankfort, Paris, Rome and Vienna, were laid ready to hand, and sundry slips detailing the family origins and marital connections of most European statesmen, including of course our own, completed the work upon which the chief resident of the house appeared to be engaged.
+Manuscripts were lying upon the table, manuscripts consisting of long double lists of names with a date between them. The Jewish Encyclopedia was ranged in awful solemnity before these manuscripts; the Court Guides, reference books and almanacs of [[settings/london|London]], Berlin, New York, Frankfort, Paris, Rome and Vienna, were laid ready to hand, and sundry slips detailing the family origins and marital connections of most European statesmen, including of course our own, completed the work upon which the chief resident of the house appeared to be engaged.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Le splendide dee del mare lo amavano più di quanto amassero gli orribili abitanti dei lillà; facevano sì che la marea si dirigesse verso riva, e la Dama del Mare, quella dalle gambe d’argento, guidava le piccole onde a suo favore.
 
-Aveva raggiunto una zona dove la marea si ritirava molto rapidamente lungo un canale o una depressione presente sulla riva. Fu una vera fortuna per lui, poiché i suoi inseguitori erano ancora nella parte esterna della marea. Ora si trovava a meno di un quarto di miglio dalla linea di risacca e continuava ad avanzare velocemente; tra la sua barca e loro c'erano probabilmente circa duecento metri. Non sentiva più il loro respiro affannoso sul proprio collo, ma riusciva a udire le grida ritmiche dell’ufficiale che gli stava alle spalle, mentre criticava con tono deciso e enfatico il comportamento della sua squadra. Quando il suo piede destro, freddo e intorpidito, colpì qualcosa; poi il sinistro toccò la sabbia. Era [[England|Inghilterra]]! E quel politico inglese, come Anteo, si sentì felice e rinvigorito.
+Aveva raggiunto una zona dove la marea si ritirava molto rapidamente lungo un canale o una depressione presente sulla riva. Fu una vera fortuna per lui, poiché i suoi inseguitori erano ancora nella parte esterna della marea. Ora si trovava a meno di un quarto di miglio dalla linea di risacca e continuava ad avanzare velocemente; tra la sua barca e loro c'erano probabilmente circa duecento metri. Non sentiva più il loro respiro affannoso sul proprio collo, ma riusciva a udire le grida ritmiche dell’ufficiale che gli stava alle spalle, mentre criticava con tono deciso e enfatico il comportamento della sua squadra. Quando il suo piede destro, freddo e intorpidito, colpì qualcosa; poi il sinistro toccò la sabbia. Era [[settings/england|Inghilterra]]! E quel politico inglese, come Anteo, si sentì felice e rinvigorito.
 
 Barcollando, uscì da lì; l’acqua sulla sabbia non era profonda più di un metro e mezzo. Continuò a camminare in fretta attraverso le onde che si schiantavano contro i suoi piedi. L’acqua gli arrivava alle ginocchia, ai polpacci, agli ankle, ma finalmente raggiunse la terraferma!
 
@@ -7965,7 +7965,7 @@ Si trovò in una piccola stanza la cui porta rappresentava evidentemente l’uni
 
 Innanzitutto, la stanza era piena di libri dappertutto; e sebbene lui stesso avesse letto forse soltanto diciotto volumi nel corso della sua giovinezza, una stanza tappezzata di libri gli suggeriva immediatamente cultura, tranquillità e una certa agiatezza. Un libro giaceva aperto sul tavolo; vi era attaccata una targhetta in stile moderno, con il nome di Carolus Merry Armiger. A quanto pare, il signor Armiger era il suo ospite ignaro delle sue intenzioni. Le occupazioni letterarie del signor Armiger non interessavano affatto George Mulross; tuttavia, le seguiva perché riteneva che avessero qualche legame con le “Dieci Tribù Perdute”.
 
-I manoscritti erano disposti sul tavolo; si trattava di lunghi elenchi doppi di nomi, ciascuno accompagnato da una data. L’Enciclopedia Ebraica era sistemata davanti a questi manoscritti con estrema solennità; inoltre, erano pronti all’uso i guide della città, i libri di riferimento e gli almanacchi di [[London|Londra]], Berlino, New York, Francoforte, Parigi, Roma e Vienna. In aggiunta, vi erano diversi foglietti che fornivano dettagli sulle origini familiari e sulle relazioni matrimoniali della maggior parte dei politici europei, compresi naturalmente anche i nostri connazionali; tutto ciò completava il lavoro a cui sembrava dedicarsi l’abitante principale di quella casa.
+I manoscritti erano disposti sul tavolo; si trattava di lunghi elenchi doppi di nomi, ciascuno accompagnato da una data. L’Enciclopedia Ebraica era sistemata davanti a questi manoscritti con estrema solennità; inoltre, erano pronti all’uso i guide della città, i libri di riferimento e gli almanacchi di [[settings/london|Londra]], Berlino, New York, Francoforte, Parigi, Roma e Vienna. In aggiunta, vi erano diversi foglietti che fornivano dettagli sulle origini familiari e sulle relazioni matrimoniali della maggior parte dei politici europei, compresi naturalmente anche i nostri connazionali; tutto ciò completava il lavoro a cui sembrava dedicarsi l’abitante principale di quella casa.
 
 
 
@@ -8072,7 +8072,7 @@ To which Demaine answered, with the solemnity the occasion demanded:
 
 “My dear Dimmy,” said William Bailey, his interest increasing as the situation grew upon him, “I am delighted to hear that phrase! I haven’t heard it since I gave up politics! I haven’t heard it since they tried to make me an Under Secretary, — only it used to be worded a little differently. Old schoolfellows of mine whom I had thrashed with a cricket stump in years gone by used to come up washing their hands and saying, ‘What can I do for you?’ Now for once in my life some one has asked me what I can do for him. Sweet Dimmy, all I have is at your disposal. Would you like to borrow some money, or would you prefer to wash?”
 
-“I wish you’d chuck that sort of thing,” said Demaine, angrily and with insufficient respect for a senior. “It isn’t [[London]] and I’m not out for jokes. I’m in trouble.”
+“I wish you’d chuck that sort of thing,” said Demaine, angrily and with insufficient respect for a senior. “It isn’t [[settings/london|London]] and I’m not out for jokes. I’m in trouble.”
 
 “In trouble?” said William Bailey, asking the question sympathetically. “Oh don’t say that! Dirty, maybe, and very funnily dressed, but not, I hope, in trouble?”
 
@@ -8127,7 +8127,7 @@ Quell’oligarca alto, con le basette e dal carattere affabile non mostrò alcun
 
 “Mio caro Dimmy,” disse William Bailey, il suo interesse crescendo man mano che la situazione gli diventava più chiara, “Sono molto felice di sentire quella frase! Non l’ho più sentita da quando ho lasciato la politica. Non l’ho più sentita da quando hanno cercato di farmi diventare Sottosegretario. Anzi, allora veniva formulata in modo leggermente diverso. Vecchi compagni di scuola con cui un tempo avevo litigato usando un bastone da cricket, ora venivano da me lavandosi le mani e mi chiedevano: ‘In che posso esserti d’aiuto?’ Ora, per la prima volta in vita mia, qualcuno mi ha chiesto cosa posso fare per lui. Caro Dimmy, tutto ciò che ho è a tua disposizione. Vorresti prendermi in prestito del denaro, o preferisci lavarti le mani?”
 
-“Vorrei che tu smettessi di fare cose del genere,” disse Demaine, arrabbiato e senza mostrare il dovuto rispetto verso un anziano. “Non siamo a [[London|Londra]] e non ho voglia di scherzi. Ho dei problemi.”
+“Vorrei che tu smettessi di fare cose del genere,” disse Demaine, arrabbiato e senza mostrare il dovuto rispetto verso un anziano. “Non siamo a [[settings/london|Londra]] e non ho voglia di scherzi. Ho dei problemi.”
 
 “In guai?” chiese William Bailey con tono comprensivo. “Oh, non dite così! Forse un po’ sporco e vestito in modo molto strano, ma spero di no, in guai.”
 
@@ -8204,7 +8204,7 @@ The tenor was indifferent to his sarcasm, the bass was touched.
 
 “Would he cut mine?” asked William Bailey as he followed them from room to room.
 
-“He’s capable of it,” said the bass, nodding mysteriously. “He’s not an ordinary stowaway,” he continued, lowering his voice almost to a gruff whisper, “he’s well known to the police. He’s Stappy, that’s what he is, Stappy the Clinker! He’s done this trick before, getting aboard a vessel and pretending he’s a vagabun; the Chief knows all about him! He did a man in last Monday night in [[London]]!”
+“He’s capable of it,” said the bass, nodding mysteriously. “He’s not an ordinary stowaway,” he continued, lowering his voice almost to a gruff whisper, “he’s well known to the police. He’s Stappy, that’s what he is, Stappy the Clinker! He’s done this trick before, getting aboard a vessel and pretending he’s a vagabun; the Chief knows all about him! He did a man in last Monday night in [[settings/london|London]]!”
 
 To the unhappy man in the bathroom there returned with vivid horror the recollection of Lewes Gaol; but so long as William Bailey’s wits did not fail him he knew that more than even chances were in his favour. His mood changed suddenly, however, when the police, who had been perambulating the small rooms near his retreat, suddenly rattled the door of his bathroom and said:
 
@@ -8299,7 +8299,7 @@ Il tenore rimase indifferente al suo sarcasmo, il basso invece ne fu commosso.
 
 “Taglierebbe anche la mia?” chiese William Bailey mentre li seguiva di stanza in stanza.
 
-“È capace di farlo,” disse il basso, annuendo misteriosamente. “Non è un semplice clandestino,” continuò, abbassando la voce quasi a un sussurro rauco, “la polizia lo conosce bene. Si chiama Stappy, ecco chi è: Stappy il Ladro! Ha già fatto questa cosa in passato, salendo su una nave e fingendosi un vagabondo; il capo della polizia sa tutto di lui. L’ultima volta l’ha fatto lunedì sera a [[London|Londra]]!”
+“È capace di farlo,” disse il basso, annuendo misteriosamente. “Non è un semplice clandestino,” continuò, abbassando la voce quasi a un sussurro rauco, “la polizia lo conosce bene. Si chiama Stappy, ecco chi è: Stappy il Ladro! Ha già fatto questa cosa in passato, salendo su una nave e fingendosi un vagabondo; il capo della polizia sa tutto di lui. L’ultima volta l’ha fatto lunedì sera a [[settings/london|Londra]]!”
 
 Per quell’uomo sfortunato in bagno ritornò con un orrore vivido il ricordo della prigione di Lewes; ma finché la mente di William Bailey non lo tradiva, sapeva che le probabilità a suo favore erano molto alte. Tuttavia, il suo umore cambiò improvvisamente quando la polizia, che aveva perquisito le stanze vicine al suo rifugio, bussò all’improvviso alla porta del bagno e disse:
 
@@ -8535,11 +8535,11 @@ Sia nella tattica che nella strategia esiste una disposizione conosciuta come of
 
 “Sì,” disse Dimmy.
 
-# Hai fame?
+Hai fame?
 
 “Sì,” disse Dimmy.
 
-# Hai sete?
+Hai sete?
 
 “Sono molto stanco,” disse Dimmy.
 
@@ -8566,7 +8566,7 @@ ALL THROUGH THAT hot noon and down the beginning of the sun’s decline, George 
 
 He slept in the house of Carolus Merry Armiger, under the shield and tutelage of William Bailey, eccentric, and with God’s benediction upon him. His troubles were at an end.
 
-Meanwhile in [[London]], the young and popular Prime Minister had received his secretary’s report. The Moon and the Capon were squared.
+Meanwhile in [[settings/london|London]], the young and popular Prime Minister had received his secretary’s report. The Moon and the Capon were squared.
 
 How squared he was not busy to inquire. Gold and silver he had none — for those purposes at least — that would not be in the best traditions of our public life: but they were squared: Edward assured him they were squared, and there was an end of it.
 
@@ -8619,13 +8619,13 @@ A thousand horrid thoughts! Found dead? Found wandering and imbecile? Found —�
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XIII
+CAPITOLO XIII
 
 Per tutto quel caldo pomeriggio e fino all’inizio del tramonto, George Mulross dormì profondamente; dormì come se fosse morto, a Parham.
 
 Dormì nella casa di Carolus Merry Armiger, sotto la protezione dello scudo e dell’affetto di William Bailey, un uomo eccentrico. E con la benedizione di Dio. I suoi problemi erano finiti.
 
-Nel frattempo, a [[London|Londra]], il giovane e popolare Primo Ministro aveva ricevuto il rapporto della sua segretaria. La Luna e il Caprone erano allineati perfettamente.
+Nel frattempo, a [[settings/london|Londra]], il giovane e popolare Primo Ministro aveva ricevuto il rapporto della sua segretaria. La Luna e il Caprone erano allineati perfettamente.
 
 Non era affatto interessato a indagare su come fossero stati sistemati. Non possedeva né oro né argento – almeno non per quei scopi – che non rispettassero le migliori tradizioni della nostra vita pubblica; ma tutto era stato sistemato a dovere: Edward gli assicurò che tutto fosse in ordine, e la questione fu chiusa lì.
 
@@ -8742,7 +8742,7 @@ All good things come to an end, as do all delays and all vexations, and life its
 
 George Mulross Demaine was at that moment (it was six o’clock) upon that afternoon of Wednesday, the 3rd of June, ... drinking brandy and soda in great quantities and refusing tea, at the Liverpool Street Hotel. A courteous message from the Manager thereof was the source of the information, and Edward — Edward who never failed — had been the first to receive it.
 
-The message had gone up and down [[London]] a good deal before it had got to the House of Commons; at Demaine House the Manager had been told to try Mary Smith’s number, and at Mary Smith’s the half-wit having almost had her head blown off by Edward’s repeated violence, very sensibly suggested that the Manager should telephone direct to the House of Commons and give a body peace.
+The message had gone up and down [[settings/london|London]] a good deal before it had got to the House of Commons; at Demaine House the Manager had been told to try Mary Smith’s number, and at Mary Smith’s the half-wit having almost had her head blown off by Edward’s repeated violence, very sensibly suggested that the Manager should telephone direct to the House of Commons and give a body peace.
 
 An instant demand (said Edward) that Demaine should himself come to the instrument, had been followed by a very long pause, after which he was told that the gentleman had gone off in a four-wheeler with a lame horse, and had left the bill unpaid.
 
@@ -8787,7 +8787,7 @@ Rimasero seduti insieme in silenzio per un momento. Il Primo Ministro, come era 
 
 Erano abbastanza chiari.
 
-# Il ministro perduto ritrovato
+Il ministro perduto ritrovato
 
 Disse la cosa più dignitosa.
 
@@ -8819,7 +8819,7 @@ Tutte le cose buone hanno una fine, così come tutti i ritardi e tutte le irrita
 
 In quel momento (erano le sei di sera), nel pomeriggio di mercoledì 3 giugno, George Mulross Demaine si trovava all’hotel Liverpool Street, dove beveva grandi quantità di brandy e soda, rifiutando il tè. L’informazione proveniva da un messaggio gentile del direttore dell’hotel, e Edward – che non mai falliva nel ricevere queste notizie – era stato il primo ad ottenerla.
 
-Il messaggio aveva viaggiato avanti e indietro per tutta [[London|Londra]] prima di arrivare alla Camera dei Comuni; presso la Demaine House al Direttore era stato detto di provare a chiamare il numero di Mary Smith, e quest’ultima, dopo essere stata quasi uccisa dalla violenza ripetuta di Edward, suggerì molto sensatamente che il Direttore telefonasse direttamente alla Camera dei Comuni per porre fine a quella situazione caotica.
+Il messaggio aveva viaggiato avanti e indietro per tutta [[settings/london|Londra]] prima di arrivare alla Camera dei Comuni; presso la Demaine House al Direttore era stato detto di provare a chiamare il numero di Mary Smith, e quest’ultima, dopo essere stata quasi uccisa dalla violenza ripetuta di Edward, suggerì molto sensatamente che il Direttore telefonasse direttamente alla Camera dei Comuni per porre fine a quella situazione caotica.
 
 Un istante dopo che Edward aveva chiesto esplicitamente a Demaine di recarsi personalmente all’ufficio per saldare il conto, seguì un lungo silenzio; infine gli fu detto che quel signore se n’era andato su una vettura a quattro ruote trainata da un cavallo zoppo, senza pagare il debito.
 
@@ -8988,7 +8988,7 @@ These nautical experiences filled George with doubts.
 
 “There wasn’t any so’wester,” he said with bovine criticism.
 
-“You silly ass,” said Edward, “who notices a thing like that in [[London]]?”
+“You silly ass,” said Edward, “who notices a thing like that in [[settings/london|London]]?”
 
 “You’d notice it at sea,” said George with profound conviction.
 
@@ -9026,7 +9026,7 @@ Edward tried another approach. “Were there houses round it?”
 
 “Oh yes, lots,” said George, “lots — and they had laurels, and there was a lot of gas lamp-posts, and there was a tramway — oh it was a beastly place!”
 
-Then Evans understood and Kent, the Garden of [[England]], was in his mind: Kent and one of its deeply bosomed towns, Chislehurst haply or St. Mary Cray. “But why did you go to Liverpool Street when you got in at Cannon Street?” he said.
+Then Evans understood and Kent, the Garden of [[settings/england|England]], was in his mind: Kent and one of its deeply bosomed towns, Chislehurst haply or St. Mary Cray. “But why did you go to Liverpool Street when you got in at Cannon Street?” he said.
 
 “How did you know I got in at Cannon Street?” asked George with wide-open eyes like a child who sees the secretly marked card come out of the pack.
 
@@ -9038,7 +9038,7 @@ Then Evans understood and Kent, the Garden of [[England]], was in his mind: Kent
 
 “No,” said George, “I don’t.... I don’t know.”
 
-“Well,” said Edward, as though conveying a profound secret, “if ever you happen to be at Lowestoft, that’s the way you get in to [[London]].”
+“Well,” said Edward, as though conveying a profound secret, “if ever you happen to be at Lowestoft, that’s the way you get in to [[settings/london|London]].”
 
 “Oh, is it?” said George blankly.
 
@@ -9056,7 +9056,7 @@ George opened his waistcoat and looked. “Six sixty-six,” he said.
 
 “Who do you mean?” said George, bewildered. “William Bailey lent it to me.”
 
-“If you’d told me that,” said Edward, “I wouldn’t have asked you what the mark was; and what’s more, if you had told me the mark I could have told you the owner. Good lord!” he muttered, “what other man in [[England]]!... Had he hauled his Jewish Encyclopedia down there?” he suddenly turned round to ask.
+“If you’d told me that,” said Edward, “I wouldn’t have asked you what the mark was; and what’s more, if you had told me the mark I could have told you the owner. Good lord!” he muttered, “what other man in [[settings/england|England]]!... Had he hauled his Jewish Encyclopedia down there?” he suddenly turned round to ask.
 
 “Yes,” said George eagerly, “how did you know?”
 
@@ -9068,7 +9068,7 @@ The expression of Edward was completely satisfied.
 
 The time had come for their return. George, whose carelessness about money had received very distinct and very severe shocks in the last few months — nay, in the last few days — insisted upon paying, and Edward, who knew more than was good for him, allowed him to pay: and further advised him to spend the morrow, Thursday, in bed. “At any rate,” he concluded, “not where the sharks can get at you. Wait till Dolly sends, and that’ll be Friday, I know.”
 
-They drove back to Demaine House, and Sudie, having heard the news from half [[London]], was left to deal with the truant as she saw fit.
+They drove back to Demaine House, and Sudie, having heard the news from half [[settings/london|London]], was left to deal with the truant as she saw fit.
 
 As for Edward, he was back late at night in Downing Street where bread-and-butter called him. But he found his chief with the mood of that happy afternoon long past, for, one encumbrance well discharged, the other did but the more gravely harass him, and the memory of Repton, of Repton doing he knew not what, — perhaps at that very moment wrecking any one of twenty political arrangements — tortured him beyond bearing.
 
@@ -9083,7 +9083,7 @@ Queste esperienze marittime suscitarono in George molti dubbi.
 
 “Non c’era affatto nessun vento di sud-ovest,” disse con un tono critico e indifferente.
 
-“Idiota che non sei altro,” disse Edward, “chi si preoccuperebbe di una cosa del genere a [[London|Londra]]?”
+“Idiota che non sei altro,” disse Edward, “chi si preoccuperebbe di una cosa del genere a [[settings/london|Londra]]?”
 
 “Lo si noterebbe in mare,” disse George con profonda convinzione.
 
@@ -9117,15 +9117,15 @@ Si cenarono insieme a Richmond, quella cittadina suburbana a cui erano arrivati 
 
 “Non lo so”, disse George, “non me ne sono accorto”.
 
-#Edward provò un altro approccio. “C’erano case intorno ad esso?”
+Edward provò un altro approccio. “C’erano case intorno ad esso?”
 
 “Sì, moltissimi,” disse George, “moltissimi. C'erano allori, molte colonne di lampioni a gas, e anche un tram. Oh, era davvero un posto terribile!”
 
-Allora Evans capì: nella sua mente c'era il Giardino di [[England|Inghilterra]], Kent e una delle sue città dal cuore profondo, forse Chislehurst o St. Mary Cray. “Ma perché sei andato in Liverpool Street se eri entrato da Cannon Street?” chiese.
+Allora Evans capì: nella sua mente c'era il Giardino di [[settings/england|Inghilterra]], Kent e una delle sue città dal cuore profondo, forse Chislehurst o St. Mary Cray. “Ma perché sei andato in Liverpool Street se eri entrato da Cannon Street?” chiese.
 
 “Come facevi a sapere che ero entrato in Cannon Street?”, chiese George con gli occhi spalancati, come un bambino che vede la carta segnalata in segreto uscire dal mazzo.
 
-#"Non importa… Perché sei andato in Liverpool Street?"
+"Non importa… Perché sei andato in Liverpool Street?"
 
 “William mi ha detto di farlo,” rispose semplicemente George.
 
@@ -9133,7 +9133,7 @@ Allora Evans capì: nella sua mente c'era il Giardino di [[England|Inghilterra]]
 
 “No”, disse George, “non lo so… Non ne sono certo”.
 
-“Beh,” disse Edward, come se stesse rivelando un segreto profondo, “se mai doveste trovarvi a Lowestoft, è così che potete arrivare a [[London|Londra]].”
+“Beh,” disse Edward, come se stesse rivelando un segreto profondo, “se mai doveste trovarvi a Lowestoft, è così che potete arrivare a [[settings/london|Londra]].”
 
 “Ah, è così?” disse George in tono vuoto.
 
@@ -9151,7 +9151,7 @@ George aprì il suo gilet e guardò. “Seicentosessantasei,” disse.
 
 “Di chi stai parlando?”, chiese George, confuso. “Me l’ha prestato William Bailey.”
 
-“Se me l’avessi detto,” disse Edward, “non ti avrei chiesto di cosa si trattasse; anzi, se mi avessi fornito quell’informazione, avrei potuto dirti chi ne era il proprietario. Mio Dio!” mormorò, “che altro uomo in [[England|Inghilterra]]. Avrebbe mai portato con sé la sua Enciclopedia Ebraica?” chiese all'improvviso, girandosi di scatto.
+“Se me l’avessi detto,” disse Edward, “non ti avrei chiesto di cosa si trattasse; anzi, se mi avessi fornito quell’informazione, avrei potuto dirti chi ne era il proprietario. Mio Dio!” mormorò, “che altro uomo in [[settings/england|Inghilterra]]. Avrebbe mai portato con sé la sua Enciclopedia Ebraica?” chiese all'improvviso, girandosi di scatto.
 
 “Sì,” disse George con entusiasmo, “come facevi a saperlo?”
 
@@ -9163,7 +9163,7 @@ L’espressione di Edward era piena di soddisfazione.
 
 Era arrivato il momento del loro ritorno. George, la cui negligenza verso i soldi aveva subito colpi molto duri negli ultimi mesi – anzi, negli ultimi giorni – insistette per pagare, e Edward, che sapeva più di quanto fosse opportuno, gli permise di farlo; inoltre lo consigliò di trascorrere il giorno seguente, giovedì, a letto. “Comunque,” concluse, “non in un posto dove i ‘squali’ possano raggiungerti. Aspetta che Dolly ti mandi qualcosa: sarà venerdì, ne sono sicuro.”
 
-Tornarono a casa di Demaine; Sudie, avendo sentito la notizia in tutta [[London|Londra]], dovette occuparsi del ragazzo assente senza scuola a suo piacimento.
+Tornarono a casa di Demaine; Sudie, avendo sentito la notizia in tutta [[settings/london|Londra]], dovette occuparsi del ragazzo assente senza scuola a suo piacimento.
 
 Per quanto riguarda Edward, tornò tardi di notte a Downing Street, dove le sue responsabilità quotidiane lo aspettavano. Tuttavia trovò il suo capo nel medesimo stato d’animo di quella felice giornata ormai lontana: avendo risolto un problema, ne era sorto uno ancora più grave. Il ricordo di Repton, di Repton che probabilmente in quel preciso momento stava rovinando uno qualsiasi dei venti accordi politici presi in precedenza, lo tormentava oltre ogni sopportazione.
 
@@ -9178,7 +9178,7 @@ In quel preciso istante, Repton tornò in possesso della sua mente sana; i “Ga
 
 CHAPTER XIV
 
-ALL NIGHT SIR Charles Repton had tossed in an uneasy slumber; all night his faithful wife Maria had sat up watching him. She dared not trust a trained nurse; she dared not trust a single member of the household, for he muttered as he slept strange things concerning the governance of [[England]], and stranger things concerning his own financial schemes.
+ALL NIGHT SIR Charles Repton had tossed in an uneasy slumber; all night his faithful wife Maria had sat up watching him. She dared not trust a trained nurse; she dared not trust a single member of the household, for he muttered as he slept strange things concerning the governance of [[settings/england|England]], and stranger things concerning his own financial schemes.
 
 At one moment, it was about half-past four in the morning, — much at the time when Demaine, seventy miles away, upon the bosom of the ocean, had woken to see the sun — his predecessor in the Wardenship of the Court of Dowry (and still the titular holder of that office) had started suddenly up in bed, and violently denounced a man with an Austrian name as having cheated him by obtaining prior information upon the Budget. He asked rapidly in his mania why Consols had gone up in the first week of April, and would not be pacified until his wife, with the tact that is born of affection, had assumed the rôle of the unpleasing foreigner and had confessed all. Then and then only was he pacified and fell into the first true sleep he had enjoyed for twenty-four hours. He slept until eleven, and she, brave woman that she was, snatched some little sleep at his side, but only upon the edge of sleep as it were, waking at any moment to shield him from the consequences of his disease.
 
@@ -9186,7 +9186,7 @@ When he woke she herself made it her duty to go downstairs and fetch him his bre
 
 He would have it that the Royal Family when they invested in some concern were not registered under their true names, and he began a long wild rambling harangue about the death duties and some new story about yet another outlandish name, and the insufficiency of the taxes for which it was responsible. The whole thing was described in a manner so clear and sensible as added to the horror of the contrast between his sanity and that other dreadful mood.
 
-By noon, still lying in his bed, he was contrasting to her wearied ear the cost of the Tubes in [[London]] as against those in Paris, and making jokes about “boring through the [[London]] clay.” He went on to ask why a friend of his had drawn his salary as a Minister for some little time after his death, and suddenly went off at a tangent upon the noble self-sacrifice of Lord Axton in exiling himself to a tropic clime, threatening that unfortunate peer with certain bankruptcy and possible imprisonment unless a report upon the Bitsu Marsh were favourable. Then for a blessed half-hour he was silent.
+By noon, still lying in his bed, he was contrasting to her wearied ear the cost of the Tubes in [[settings/london|London]] as against those in Paris, and making jokes about “boring through the [[settings/london|London]] clay.” He went on to ask why a friend of his had drawn his salary as a Minister for some little time after his death, and suddenly went off at a tangent upon the noble self-sacrifice of Lord Axton in exiling himself to a tropic clime, threatening that unfortunate peer with certain bankruptcy and possible imprisonment unless a report upon the Bitsu Marsh were favourable. Then for a blessed half-hour he was silent.
 
 At the end of it he called for a pen and paper, and wrote a number of short notes. Luckily he gave them to her to be posted; she read but a few, and with trembling hands she burned them all, even the stamps, though she knew how particular he had been in the old days on that detail.
 
@@ -9211,9 +9211,9 @@ Another attack of pain in the head seized him and passed. She sat doggedly, and 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XIV
+CAPITOLO XIV
 
-Per tutta la notte, Sir Charles Repton dormì agitato e inquieto; per tutta la notte sua fedele moglie Maria rimase sveglia a vegliarlo. Non osava affidarsi a una infermiera qualificata, né a nessun membro della famiglia. Mentre dormiva, mormorava cose strane riguardo al governo di [[England|Inghilterra]] e ancora più strane riguardo ai suoi stessi piani finanziari.
+Per tutta la notte, Sir Charles Repton dormì agitato e inquieto; per tutta la notte sua fedele moglie Maria rimase sveglia a vegliarlo. Non osava affidarsi a una infermiera qualificata, né a nessun membro della famiglia. Mentre dormiva, mormorava cose strane riguardo al governo di [[settings/england|Inghilterra]] e ancora più strane riguardo ai suoi stessi piani finanziari.
 
 Alle quattro e mezza di mattina, proprio nel momento in cui Demaine, a settanta miglia di distanza, sulle onde dell’oceano, si era svegliato per vedere sorgere il sole, il suo predecessore nella carica di Sovrintendente del Tribunale delle Dote (e che ancora ne deteneva il titolo) si alzò improvvisamente dal letto e accusò violentemente un uomo di nome austriaco di averlo ingannato ottenendo informazioni riservate sul bilancio. In preda alla follia, chiese ripetutamente perché i documenti relativi fossero stati inviati già nella prima settimana di aprile; solo quando sua moglie, con la delicatezza tipica dell’amore, assunse il ruolo di quella “sgradevole straniera” e confessò tutto, egli si calmò finalmente e poté godere del primo vero sonno da ventiquattro ore. Dormì fino alle undici; lei, donna coraggiosa, riuscì a riposare un po’ al suo fianco, ma solo in uno stato di semisveglio, pronta ad intervenire in qualsiasi momento per proteggerlo dalle conseguenze della sua malattia.
 
@@ -9270,7 +9270,7 @@ Dr. Scipio Knickerbocker, M.D.
 
 415 Tenth St.
 
-[[London]], Ont.
+[[settings/london|London]], Ont.
 
 And the Savoy Hotel.
 
@@ -9347,7 +9347,7 @@ La didascalia era particolare; recitava:
 
 Alla Nobile Onorabilità.
 
-# A, davvero
+A, davvero
 
 La signora C. Repton, M.V.O.
 
@@ -9365,7 +9365,7 @@ Dottor Scipio Knickerbocker, Medico.
 
 415 Tenth Street
 
-[[London|Londra]], Ontario.
+[[settings/london|Londra]], Ontario.
 
 E poi l’Hotel Savoy.
 
@@ -9588,7 +9588,7 @@ Scipio Knickerbocker shook his head. “He’ll be less rattled every minute, Ma
 
 Sir Charles stood up, a little groggy, leant one hand on the back of a chair, took a deep breath, stood up more strongly, and said at last in a voice still weak but quite clear: —
 
-“Thank you sir. How can I thank you? I seem to remember” — he passed his hand over his forehead— “I seem to remember some one telling me that you were born, — though I assure you it is impossible for us in [[England]] to distinguish it, — in one of our Britains Overseas. Sir, an action such as that which you have just done — a good deed if I may call it so,” he went on more loudly, seizing Scipio’s right hand between both of his, “is a cement of Empire! I will never forget it, never! Will you excuse me a moment sir, while I speak to Lady Repton?”
+“Thank you sir. How can I thank you? I seem to remember” — he passed his hand over his forehead— “I seem to remember some one telling me that you were born, — though I assure you it is impossible for us in [[settings/england|England]] to distinguish it, — in one of our Britains Overseas. Sir, an action such as that which you have just done — a good deed if I may call it so,” he went on more loudly, seizing Scipio’s right hand between both of his, “is a cement of Empire! I will never forget it, never! Will you excuse me a moment sir, while I speak to Lady Repton?”
 
 With his best and most winning smile Sir Charles asked this question of Scipio, who for the tenth or eleventh time that evening, bowed with a kink in the fourteenth vertebra.
 
@@ -9655,7 +9655,7 @@ Scipio Knickerbocker scosse la testa. “Ogni minuto che passa diventerà meno n
 
 Sir Charles si alzò, un po’ stordito; appoggiò una mano allo schienale di una sedia, prese un respiro profondo, si rialzò con più forza e finalmente disse, con una voce ancora debole ma chiara: —
 
-“Grazie, signore. Come posso ringraziarvi? Credo di ricordare, ” — si passò la mano sulla fronte— “credo di ricordare che qualcuno mi abbia detto che siete nato, anche se vi assicuro che per noi in [[England|Inghilterra]] è impossibile distinguerlo, in uno dei nostri territori d’oltremare. Signore, un atto come quello che avete appena compiuto, una buona azione, se così posso chiamarla, ” continuò ad alta voce, stringendo la mano destra di Scipio tra le sue, “è davvero il cemento dell’Impero! Non lo dimenticherò mai, mai! Potete scusarmi un momento, signore, mentre parlo con Lady Repton?”
+“Grazie, signore. Come posso ringraziarvi? Credo di ricordare, ” — si passò la mano sulla fronte— “credo di ricordare che qualcuno mi abbia detto che siete nato, anche se vi assicuro che per noi in [[settings/england|Inghilterra]] è impossibile distinguerlo, in uno dei nostri territori d’oltremare. Signore, un atto come quello che avete appena compiuto, una buona azione, se così posso chiamarla, ” continuò ad alta voce, stringendo la mano destra di Scipio tra le sue, “è davvero il cemento dell’Impero! Non lo dimenticherò mai, mai! Potete scusarmi un momento, signore, mentre parlo con Lady Repton?”
 
 Con il suo sorriso più bello e vincente, Sir Charles pose questa domanda a Scipione, che, per la decima o undicesima volta quella sera, si inchinò con una deformazione alla quattordicesima vertebra.
 
@@ -9767,7 +9767,7 @@ Dolly came in nervously and shook hands with him.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO XV
+CAPITOLO XV
 
 Era venerdì mattina, il 5 giugno 1915: il giovane e popolare Primo Ministro era impegnato nella Cerimonia di Insediamento dei Guardiani della Corte del Dote.
 
@@ -9850,7 +9850,7 @@ Charles Repton tried to remember, but could not.
 
 Well, it wath the cathe of the man who had very properly got twenty yearth of the betht for thaying that he could reveal how old Ballymulrock had got his peerage ... a dithgratheful cathe! There wath blackmail behind it!
 
-Yes, Charles Repton could remember now, and he smiled a grim smile as he considered the peculiar ineptitude of that particular convict. Why old Ballymulrock was the seventh in the title, he had nothing a year, he was a doddering old bachelor of eighty-seven, he had got it by a fluke from a half-nephew, and it was only an Irish elective peerage at that! The convict had pleaded a misprint! What a fool! Yes, Sir Charles Repton could remember the case. What about it? “I’m not going to take any action to save him,” he said sharply, “if that’s what you want: he deserved all he got! If you want some one get Birdwhistlethorpe; Isaacs that was: he knows North [[London]].”
+Yes, Charles Repton could remember now, and he smiled a grim smile as he considered the peculiar ineptitude of that particular convict. Why old Ballymulrock was the seventh in the title, he had nothing a year, he was a doddering old bachelor of eighty-seven, he had got it by a fluke from a half-nephew, and it was only an Irish elective peerage at that! The convict had pleaded a misprint! What a fool! Yes, Sir Charles Repton could remember the case. What about it? “I’m not going to take any action to save him,” he said sharply, “if that’s what you want: he deserved all he got! If you want some one get Birdwhistlethorpe; Isaacs that was: he knows North [[settings/london|London]].”
 
 “Noh, noh, noh,” said the aged Duke of Battersea in alarm, “you mithunderthand me!” And he went on to tell the outgoing Warden that they were determined to bring this sort of thing before the House of Lords in a Resolution. Would he move?
 
@@ -9913,7 +9913,7 @@ Charles Repton cercò di ricordare, ma non ci riuscì.
 
 Beh, si trattava di una truffa ordita da un uomo che aveva ottenuto con ogni diritto vent’anni di indennità per aver dichiarato con certezza l’età alla quale Ballymulrock aveva ricevuto il suo titolo nobiliare. Una truffa davvero meschina! Dietro tutto ciò c’era ricatto.
 
-Sì, ora Charles Repton se ne ricordava, e sorrise con un sorriso amaro pensando all’incompetenza strana di quel particolare detenuto. Perché il vecchio Ballymulrock fosse il settimo nella lista dei titolari di quel titolo, lui non guadagnava nulla all’anno; era un anziano scapolo di ottantasette anni, l’aveva ottenuto per caso da un nipote acquisito, e inoltre si trattava solo di un titolo nobiliare irlandese! Il detenuto aveva sostenuto che si fosse trattato di un errore di stampa. Che sciocco! Sì, Sir Charles Repton ricordava bene quel caso. E allora? “Non intendo prendere alcuna misura per salvarlo,” disse seccamente, “se è questo che volete: se l’è meritato! Se volete che qualcuno si occupi di Birdwhistlethorpe, beh, c’è Isaac: conosce bene il Nord di [[London|Londra]].”
+Sì, ora Charles Repton se ne ricordava, e sorrise con un sorriso amaro pensando all’incompetenza strana di quel particolare detenuto. Perché il vecchio Ballymulrock fosse il settimo nella lista dei titolari di quel titolo, lui non guadagnava nulla all’anno; era un anziano scapolo di ottantasette anni, l’aveva ottenuto per caso da un nipote acquisito, e inoltre si trattava solo di un titolo nobiliare irlandese! Il detenuto aveva sostenuto che si fosse trattato di un errore di stampa. Che sciocco! Sì, Sir Charles Repton ricordava bene quel caso. E allora? “Non intendo prendere alcuna misura per salvarlo,” disse seccamente, “se è questo che volete: se l’è meritato! Se volete che qualcuno si occupi di Birdwhistlethorpe, beh, c’è Isaac: conosce bene il Nord di [[settings/london|Londra]].”
 
 “No, no, no,” disse allarmato il vecchio Duca di Battersea, “mi state confondendo completamente!” E continuò a spiegare al direttore uscente che erano decisi a portare questa questione davanti alla Camera dei Lord con una risoluzione ufficiale. Avrebbe appoggiato la loro iniziativa?
 
@@ -9992,7 +9992,7 @@ At last he was summoned.
 
 The House was very full for question-time, for it was known or suspected that something of importance would take place that day. The full nature of the crisis had been understood by very few, but the disappearance of Demaine and his return, his terrible adventures in the fishing-boat, his night at sea, the dastardly action of the foreign crew, and the heroic succour which had ultimately reached him were public property.
 
-The silent and little known young member whose disappearance from the benches under the gallery would never have been noticed, was half a hero already in the popular mind, and had become particularly dear to his colleagues during the anxious moments when he was believed to be lost, and when the press of [[London]] had worked that mystery for all it was worth.
+The silent and little known young member whose disappearance from the benches under the gallery would never have been noticed, was half a hero already in the popular mind, and had become particularly dear to his colleagues during the anxious moments when he was believed to be lost, and when the press of [[settings/london|London]] had worked that mystery for all it was worth.
 
 The House of Commons knows a Man.
 
@@ -10041,7 +10041,7 @@ Finalmente fu chiamato.
 
 L’Aula era molto affollata durante l’ora delle domande, poiché si sapeva o si sospettava che quel giorno avrebbe avuto luogo qualcosa di importante. La vera natura della crisi era nota a pochi, ma la scomparsa di Demaine e il suo ritorno, le sue terribili avventure sulla barca da pesca, la sua notte in mare, l’azione spregevole dell’equipaggio straniero e l’aiuto eroico che alla fine gli era stato prestato erano ormai di dominio pubblico.
 
-Quel giovane silenzioso e poco conosciuto, la cui scomparsa dai banchi sotto la galleria probabilmente non sarebbe mai stata notata, era già considerato quasi un eroe nella mente del pubblico. Era diventato particolarmente caro ai suoi colleghi durante quei momenti di ansia in cui si credeva che fosse perso, e quando i media di [[London|Londra]] avevano dedicato molte attenzioni a quella misteriosa scomparsa.
+Quel giovane silenzioso e poco conosciuto, la cui scomparsa dai banchi sotto la galleria probabilmente non sarebbe mai stata notata, era già considerato quasi un eroe nella mente del pubblico. Era diventato particolarmente caro ai suoi colleghi durante quei momenti di ansia in cui si credeva che fosse perso, e quando i media di [[settings/london|Londra]] avevano dedicato molte attenzioni a quella misteriosa scomparsa.
 
 La Camera dei Comuni conosce quell’uomo.
 
@@ -10256,9 +10256,9 @@ When the House of Commons rose, near midnight, Dolly and Dimmy went out together
 
 “You got to come to supper to-night,” she said mysteriously. “They’ll all be there.”
 
-Dimmy was agreeable. Dolly tried to plead something but she shut him up, and after them in single file raced through [[London]] half a dozen taxis and cars and broughams all making in a stream for St. James’s.
+Dimmy was agreeable. Dolly tried to plead something but she shut him up, and after them in single file raced through [[settings/london|London]] half a dozen taxis and cars and broughams all making in a stream for St. James’s.
 
-It made such a supper-party as Mary Smith alone in [[London]] could gather!
+It made such a supper-party as Mary Smith alone in [[settings/london|London]] could gather!
 
 Her sister-in-law, with the Leader of the Opposition, and his brother; his right-hand man who had been Chancellor in the last administration; his nephew, the Postmaster General; Dolly himself; Dolly’s brother-in-law, the Secretary for India; his little nephew’s wife’s cousin at the Board of Trade, and his stepmother’s brother at the Admiralty, sat down, — and so did Dimmy, who was there without his wife, and also, I regret to say, without a stud, or rather without the head of a stud, in his shirt; for somehow it had broken off.
 
@@ -10313,9 +10313,9 @@ Quando la Camera dei Comuni si riunì, verso mezzanotte, Dolly e Dimmy uscirono 
 
 “Devi venire a cena stasera,” disse lei in modo misterioso. “Ci saranno tutti.”
 
-Dimmy era d'accordo. Dolly provò a supplicarlo, ma lui la zittì; poi, uno dopo l’altro, una mezza dozzina di taxi, automobili e carrozze sfrecciarono attraverso [[London|Londra]], diretti tutti verso St. James’s.
+Dimmy era d'accordo. Dolly provò a supplicarlo, ma lui la zittì; poi, uno dopo l’altro, una mezza dozzina di taxi, automobili e carrozze sfrecciarono attraverso [[settings/london|Londra]], diretti tutti verso St. James’s.
 
-Fu organizzata una festa serale del genere che solo Mary Smith, da sola a [[London|Londra]], avrebbe potuto mettere insieme!
+Fu organizzata una festa serale del genere che solo Mary Smith, da sola a [[settings/london|Londra]], avrebbe potuto mettere insieme!
 
 Sua cognata, insieme al leader dell’Opposizione e a suo fratello; il suo braccio destro che era stato Cancelliere nell’amministrazione precedente; suo nipote, il Ministro Postale Generale; Dolly stesso; il cognato di Dolly, il Segretario per l’India; il cugino della moglie di suo nipote presso la Camera di Commercio, e il fratello di sua matrigna presso l’Ammiragliato, tutti si sedettero. Lo fece anche Dimmy, che era lì senza sua moglie, e, purtroppo, anche senza un bottone sulla camicia; per qualche motivo, infatti, quel bottone si era staccato.
 
@@ -10337,7 +10337,7 @@ Mary Smith era quasi infastidita, ma in un’occasione del genere lo perdonò.
 
 A nord del Parco, per due ore consecutive, Lord Repton di Giggleswick aveva dormito serenamente.
 
-# Sulle funzioni pseudologiche della ganglia di Caryll
+Sulle funzioni pseudologiche della ganglia di Caryll
 
 Un opuscolo
 
@@ -10380,7 +10380,7 @@ La rivista “Review of Comparative Biology”, nel suo numero di ottobre, pubbl
 
 “The essay was printed, Upton’s name had already flown to the utmost corners of the globe, when he read in some obscure narrative of travel that the little armadillo that can sleep without a pillow, though possessing no ganglia, was capable of the same balance and restraint as man, could control himself under all but the most violent stimuli, conceal his most poignant necessities, and smile in the presence of death.
 
-“Upton was a Scientist of the Scientists. One single exception and he would retract from his position. He sailed for the Amazon, interviewed the armadillo, but at the first pin he thrust into the fleshy portion of the animal’s steaks, a little below the armoured belt, it belied the false report by turning savagely round and biting off his head. His remains were reverently brought home to [[London]]. He lies in Westminster Abbey, the last and perhaps the greatest of martyrs to scientific truth.
+“Upton was a Scientist of the Scientists. One single exception and he would retract from his position. He sailed for the Amazon, interviewed the armadillo, but at the first pin he thrust into the fleshy portion of the animal’s steaks, a little below the armoured belt, it belied the false report by turning savagely round and biting off his head. His remains were reverently brought home to [[settings/london|London]]. He lies in Westminster Abbey, the last and perhaps the greatest of martyrs to scientific truth.
 
 “If Henry Upton’s immortal achievement seems for a moment to have broken down the very keystone in the arch of social progress, and to have made null the whole structure of biological truth; if it leaves Man no longer propped up by a knowledge of cousinship and brotherhood with the beasts of the field, but all alone, an exile upon earth, nevertheless we must take courage. The Bishop of Shoreham has told us (Etc., etc., etc.).”
 
@@ -10421,7 +10421,7 @@ Ora passo alle prove. In breve, ancora una volta, Henry Upton dimostrò che i ga
 
 L’articolo fu pubblicato; il nome di Upton era già giunto in tutti gli angoli del mondo. Fu allora che lesse, in un racconto di viaggio poco conosciuto, che quel piccolo armadillo che può dormire senza cuscino, pur non possedendo gangli nervosi, è in grado di mantenere lo stesso equilibrio e la stessa capacità di autocontrollo dell’uomo: riesce a trattenersi di fronte a quasi tutti gli stimoli violenti, a nascondere le proprie necessità più urgenti e persino a sorridere di fronte alla morte.
 
-“Upton era uno scienziato tra gli scienziati. Un solo errore e avrebbe ritirato la sua posizione. Viaggiò verso l’Amazzonia, intervistò l’armadillo, ma non appena conficcò il primo chiodo nella parte carnosa del corpo dell’animale, poco sotto la cintura corazzata, quest’ultimo reagì con violenza: si girò di scatto e gli morse via la testa. I suoi resti furono rispettosamente riportati a [[London|Londra]]. Riposa ora nell’Abbazia di Westminster, l’ultimo e forse il più grande dei martiri della verità scientifica.”
+“Upton era uno scienziato tra gli scienziati. Un solo errore e avrebbe ritirato la sua posizione. Viaggiò verso l’Amazzonia, intervistò l’armadillo, ma non appena conficcò il primo chiodo nella parte carnosa del corpo dell’animale, poco sotto la cintura corazzata, quest’ultimo reagì con violenza: si girò di scatto e gli morse via la testa. I suoi resti furono rispettosamente riportati a [[settings/london|Londra]]. Riposa ora nell’Abbazia di Westminster, l’ultimo e forse il più grande dei martiri della verità scientifica.”
 
 “Se l’impresa immortale di Henry Upton sembra, per un momento, aver distrutto il pilastro fondamentale sull’arco del progresso sociale e aver reso nulla l’intera struttura della verità biologica; se questo rende l’Uomo privo del sostegno fornito dalla conoscenza dei legami di parentela e fratellanza con gli animali selvatici, lasciandolo solo, un esiliato sulla terra, tuttavia dobbiamo trovare il coraggio. Il Vescovo di Shoreham ce l’ha detto (Etc., etc., etc.).”
 
@@ -10431,14 +10431,14 @@ Note finali.
 
 2 Lo fece.
 
-# 3... una debole madre dell’oceano
+3... una debole madre dell’oceano
 
 “Con abiti fatti di fuoco, il poeta danzò.”
 
 Titolo:  
 {Greco: … mega sthenos Ôkeanoio}
 
-# L'antica legge e il nuovo diritto
+L'antica legge e il nuovo diritto
 
 Mi riferisco a Mr. Bulge, sia come attore che come autore. Amen.
 

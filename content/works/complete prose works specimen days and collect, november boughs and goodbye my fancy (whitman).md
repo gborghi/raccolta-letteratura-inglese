@@ -25,7 +25,7 @@ tags:
   - concept/power_and_corruption
 ---
 
-*by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
+*by Whitman*  ·  **Cluster:** [[clusters/war-and-its-cost-·-american-civil-war-·-battlefield|War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 
 > Whitman's collected prose: autobiographical Specimen Days, Civil War hospital memoranda, nature notes, and literary essays celebrating democracy, the common people, and nature.
@@ -83,11 +83,11 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Nature]], [[Death]]
-**Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Common Man]], [[Democracy]], [[Artist and Society]], [[Power and Corruption]]
-**Forms & Genres:** [[Fictional Autobiography]], [[Essay]], [[Nonfiction]]
-**Historical References:** [[American Civil War]]
-**Settings:** [[Battlefield]], [[America]]
+**Motifs:** [[concepts/nature|Nature]], [[motifs/death|Death]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/common-man|Common Man]], [[concepts/democracy|Democracy]], [[concepts/artist-and-society|Artist and Society]], [[concepts/power-and-corruption|Power and Corruption]]
+**Forms & Genres:** [[forms/fictional-autobiography|Fictional Autobiography]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/american-civil-war|American Civil War]]
+**Settings:** [[settings/battlefield|Battlefield]], [[settings/america|America]]
 
 ## Testo integrale / Full text
 

@@ -20,7 +20,7 @@ tags:
   - histref/dante
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Coleridge*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > A critical-apologetic prose essay defending his War-Eclogue against the charge of malignity, distinguishing poetic imagination from real cruelty, with a long defence of Milton and Jeremy Taylor and the Church's toleration.
@@ -30,9 +30,9 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Imagination]], [[Revenge]], [[War and its Cost]], [[Artist and Society]], [[Faith and Doubt]]
-**Forms & Genres:** [[Apologetics]], [[Essay]], [[Literary Criticism]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Dante]]
+**Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/revenge|Revenge]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/artist-and-society|Artist and Society]], [[concepts/faith-and-doubt|Faith and Doubt]]
+**Forms & Genres:** [[forms/apologetics|Apologetics]], [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/dante|Dante]]
 
 ## Testo integrale / Full text
 

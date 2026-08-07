@@ -41,7 +41,7 @@ tags:
   - character/mabel_chiltern
 ---
 
-*by Wilde*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
+*by Wilde*  ·  **Cluster:** [[clusters/city-·-london-·-theatrum-mundi|City · London · Theatrum Mundi]]
 
 > [!abstract] 
 > Wilde's society comedy of political corruption and blackmail, contrasting public and private morality, with the dandy Lord Goring as raisonneur and a buried secret threatening a statesman's career.
@@ -142,14 +142,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Theatrum Mundi]], [[Double]]
-**Archetypes:** [[Corrupt Official]], [[Temptress]], [[Villain]], [[Trickster]]
-**Motifs:** [[Letters and Writing]], [[Money and Gold]], [[Concealment Hidden Identity]], [[Serpent Snake]], [[City]], [[Marriage]]
-**Themes & Concepts:** [[Power and Corruption]], [[Appearance vs Reality]], [[Deception]], [[Satire of Society]], [[Guilt]], [[Marriage and Fidelity]], [[Ambition]], [[Grace and Redemption]]
-**Forms & Genres:** [[Comedy]], [[Satire]], [[Epigram]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]], [[Court]]
-**Characters:** [[Sir Robert Chiltern]], [[Lady Chiltern]], [[Lord Goring]], [[Mrs Cheveley]], [[Lord Caversham]], [[Mabel Chiltern]]
+**Topoi:** [[topoi/theatrum-mundi|Theatrum Mundi]], [[topoi/double|Double]]
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/temptress|Temptress]], [[archetypes/villain|Villain]], [[archetypes/trickster|Trickster]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/money-and-gold|Money and Gold]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/serpent-snake|Serpent Snake]], [[motifs/city|City]], [[motifs/marriage|Marriage]]
+**Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/satire-of-society|Satire of Society]], [[concepts/guilt|Guilt]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/ambition|Ambition]], [[concepts/grace-and-redemption|Grace and Redemption]]
+**Forms & Genres:** [[forms/comedy|Comedy]], [[forms/satire|Satire]], [[forms/epigram|Epigram]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/london|London]], [[settings/court|Court]]
+**Characters:** [[characters/sir-robert-chiltern|Sir Robert Chiltern]], [[characters/lady-chiltern|Lady Chiltern]], [[characters/lord-goring|Lord Goring]], [[characters/mrs-cheveley|Mrs Cheveley]], [[characters/lord-caversham|Lord Caversham]], [[characters/mabel-chiltern|Mabel Chiltern]]
 
 ## Testo integrale / Full text
 

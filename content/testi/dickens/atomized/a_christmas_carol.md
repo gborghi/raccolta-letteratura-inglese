@@ -14,11 +14,11 @@ tags:
 <span class="atom-split" data-atom="a_christmas_carol" data-title="A Christmas Carol" data-chapter="" data-kind="intro"></span>
 
 
-A CHRISTMAS [[carol|CAROL]]
+A CHRISTMAS CAROL
 
 IN PROSE
 BEING
-A [[Ghost]] Story of Christmas
+A [[archetypes/ghost|Ghost]] Story of Christmas
 
 by Charles Dickens
 
@@ -27,8 +27,8 @@ by Charles Dickens
 PREFACE
 
 I HAVE endeavoured in this Ghostly little book,
-to raise the [[Ghost]] of an Idea, which shall not put my
-readers out of [[Humour|humour]] with themselves, with each other,
+to raise the [[archetypes/ghost|Ghost]] of an Idea, which shall not put my
+readers out of humour with themselves, with each other,
 with the season, or with me.  May it haunt their houses
 pleasantly, and no one wish to lay it.
 
@@ -40,7 +40,7 @@ December, 1843.
 
 CONTENTS
 
-Stave   I: Marley's [[Ghost]]
+Stave   I: Marley's [[archetypes/ghost|Ghost]]
 Stave  II: The First of the Three Spirits
 Stave III: The Second of the Three Spirits
 Stave  IV: The Last of the Spirits
@@ -48,9 +48,9 @@ Stave   V: The End of It
 
 
 
-STAVE I:  MARLEY'S [[Ghost|GHOST]]
+STAVE I:  MARLEY'S [[archetypes/ghost|GHOST]]
 
-MARLEY was dead: to begin with. There is no [[Doubt|doubt]]
+MARLEY was dead: to begin with. There is no [[concepts/doubt|doubt]]
 whatever about that. The register of his burial was
 signed by the clergyman, the clerk, the undertaker,
 and the chief mourner. Scrooge signed it: and
@@ -79,13 +79,13 @@ man of business on the very day of the funeral,
 and solemnised it with an undoubted bargain.
 
 The mention of Marley's funeral brings me back to
-the point I started from. There is no [[Doubt|doubt]] that Marley
+the point I started from. There is no [[concepts/doubt|doubt]] that Marley
 was dead. This must be distinctly understood, or
 nothing wonderful can come of the story I am going
 to relate. If we were not perfectly convinced that
-[[Hamlet]]'s Father died before the play began, there
+[[characters/hamlet|Hamlet]]'s Father died before the play began, there
 would be nothing more remarkable in his taking a
-stroll at [[Night|night]], in an easterly [[Wind|wind]], upon his own ramparts,
+stroll at [[motifs/night|night]], in an easterly [[motifs/wind|wind]], upon his own ramparts,
 than there would be in any other middle-aged
 gentleman rashly turning out after dark in a breezy
 spot--say Saint Paul's Churchyard for instance--
@@ -102,8 +102,8 @@ same to him.
 Oh! But he was a tight-fisted hand at the grind-stone,
 Scrooge! a squeezing, wrenching, grasping, scraping,
 clutching, covetous, old sinner! Hard and sharp as flint,
-from which no steel had ever struck out generous [[Fire|fire]];
-secret, and [[Self|self]]-contained, and solitary as an oyster. The
+from which no steel had ever struck out generous [[motifs/fire|fire]];
+secret, and [[concepts/self|self]]-contained, and solitary as an oyster. The
 cold within him froze his old features, nipped his pointed
 nose, shrivelled his cheek, stiffened his gait; made his
 eyes red, his thin lips blue; and spoke out shrewdly in his
@@ -114,11 +114,11 @@ the dog-days; and didn't thaw it one degree at Christmas.
 
 External heat and cold had little influence on
 Scrooge. No warmth could warm, no wintry weather
-chill him. No [[Wind|wind]] that blew was bitterer than he,
-no falling [[Snow|snow]] was more intent upon its purpose, no
+chill him. No [[motifs/wind|wind]] that blew was bitterer than he,
+no falling [[motifs/snow|snow]] was more intent upon its purpose, no
 pelting rain less open to entreaty. Foul weather didn't
 know where to have him. The heaviest rain, and
-[[Snow|snow]], and hail, and sleet, could boast of the advantage
+[[motifs/snow|snow]], and hail, and sleet, could boast of the advantage
 over him in only one respect. They often "came down"
 handsomely, and Scrooge never did.
 
@@ -126,9 +126,9 @@ Nobody ever stopped him in the street to say, with
 gladsome looks, "My dear Scrooge, how are you?
 When will you come to see me?" No beggars implored
 him to bestow a trifle, no children asked him
-what it was o'[[Clock|clock]], no man or woman ever once in all
+what it was o'[[motifs/clock|clock]], no man or woman ever once in all
 his life inquired the way to such and such a place, of
-Scrooge. Even the blind men's [[dogs]] appeared to
+Scrooge. Even the blind men's dogs appeared to
 know him; and when they saw him coming on, would
 tug their owners into doorways and up courts; and
 then would wag their tails as though they said, "No
@@ -139,36 +139,36 @@ he liked. To edge his way along the crowded paths
 of life, warning all human sympathy to keep its distance,
 was what the knowing ones call "nuts" to Scrooge.
 
-Once upon a [[Time|time]]--of all the good days in the year,
+Once upon a [[motifs/time|time]]--of all the good days in the year,
 on Christmas Eve--old Scrooge sat busy in his
-counting-[[house]]. It was cold, bleak, biting weather: foggy
-withal: and he could hear the people in the [[Court|court]] outside,
+counting-house. It was cold, bleak, biting weather: foggy
+withal: and he could hear the people in the [[settings/court|court]] outside,
 go wheezing up and down, beating their hands
 upon their breasts, and stamping their feet upon the
-pavement stones to warm them. The [[City|city]] clocks had
+pavement stones to warm them. The [[motifs/city|city]] clocks had
 only just gone three, but it was quite dark already--
 it had not been light all day--and candles were flaring
 in the windows of the neighbouring offices, like
 ruddy smears upon the palpable brown air. The fog
 came pouring in at every chink and keyhole, and was
-so dense without, that although the [[Court|court]] was of the
+so dense without, that although the [[settings/court|court]] was of the
 narrowest, the houses opposite were mere phantoms.
 To see the dingy cloud come drooping down, obscuring
-everything, one might have thought that [[Nature]]
+everything, one might have thought that [[concepts/nature|Nature]]
 lived hard by, and was brewing on a large scale.
 
-The door of Scrooge's counting-[[house]] was open
+The door of Scrooge's counting-house was open
 that he might keep his eye upon his clerk, who in a
 dismal little cell beyond, a sort of tank, was copying
-letters. Scrooge had a very small [[Fire|fire]], but the clerk's
-[[Fire|fire]] was so very much smaller that it looked like one
+letters. Scrooge had a very small [[motifs/fire|fire]], but the clerk's
+[[motifs/fire|fire]] was so very much smaller that it looked like one
 coal. But he couldn't replenish it, for Scrooge kept
 the coal-box in his own room; and so surely as the
 clerk came in with the shovel, the master predicted
 that it would be necessary for them to part. Wherefore
 the clerk put on his white comforter, and tried to
 warm himself at the candle; in which effort, not being
-a man of a strong [[Imagination|imagination]], he failed.
+a man of a strong [[concepts/imagination|imagination]], he failed.
 
 "A merry Christmas, uncle! God save you!" cried
 a cheerful voice. It was the voice of Scrooge's
@@ -178,7 +178,7 @@ the first intimation he had of his approach.
 "Bah!" said Scrooge, "Humbug!"
 
 He had so heated himself with rapid walking in the
-fog and [[Frost|frost]], this nephew of Scrooge's, that he was
+fog and [[motifs/frost|frost]], this nephew of Scrooge's, that he was
 all in a glow; his face was ruddy and handsome; his
 eyes sparkled, and his breath smoked again.
 
@@ -197,14 +197,14 @@ Scrooge having no better answer ready on the spur
 of the moment, said, "Bah!" again; and followed it up
 with "Humbug."
 
-"Don't be [[Cross|cross]], uncle!" said the nephew.
+"Don't be [[motifs/cross|cross]], uncle!" said the nephew.
 
 "What else can I be," returned the uncle, "when I
 live in such a world of fools as this? Merry Christmas!
 Out upon merry Christmas! What's Christmas
-[[Time|time]] to you but a [[Time|time]] for paying bills without
-money; a [[Time|time]] for finding yourself a year older, but
-not an hour richer; a [[Time|time]] for balancing your books
+[[motifs/time|time]] to you but a [[motifs/time|time]] for paying bills without
+money; a [[motifs/time|time]] for finding yourself a year older, but
+not an hour richer; a [[motifs/time|time]] for balancing your books
 and having every item in 'em through a round dozen
 of months presented dead against you? If I could
 work my will," said Scrooge indignantly, "every idiot
@@ -220,7 +220,7 @@ in your own way, and let me keep it in mine."
 "Keep it!" repeated Scrooge's nephew. "But you
 don't keep it."
 
-"Let me leave it [[Alone|alone]], then," said Scrooge. "Much
+"Let me leave it alone, then," said Scrooge. "Much
 good may it do you! Much good it has ever done
 you!"
 
@@ -228,15 +228,15 @@ you!"
 derived good, by which I have not profited, I dare
 say," returned the nephew. "Christmas among the
 rest. But I am sure I have always thought of Christmas
-[[Time|time]], when it has come round--apart from the
+[[motifs/time|time]], when it has come round--apart from the
 veneration due to its sacred name and origin, if anything
 belonging to it can be apart from that--as a
-good [[Time|time]]; a kind, forgiving, charitable, pleasant
-[[Time|time]]; the only [[Time|time]] I know of, in the long calendar
+good [[motifs/time|time]]; a kind, forgiving, charitable, pleasant
+[[motifs/time|time]]; the only [[motifs/time|time]] I know of, in the long calendar
 of the year, when men and women seem by one consent
 to open their shut-up hearts freely, and to think
 of people below them as if they really were
-fellow-passengers to the [[Grave|grave]], and not another race
+fellow-passengers to the [[motifs/grave|grave]], and not another race
 of creatures bound on other journeys. And therefore,
 uncle, though it has never put a scrap of gold or
 silver in my pocket, I believe that it has done me
@@ -244,13 +244,13 @@ good, and will do me good; and I say, God bless it!"
 
 The clerk in the Tank involuntarily applauded.
 Becoming immediately sensible of the impropriety,
-he poked the [[Fire|fire]], and extinguished the last frail spark
+he poked the [[motifs/fire|fire]], and extinguished the last frail spark
 for ever.
 
 "Let me hear another sound from you," said
 Scrooge, "and you'll keep your Christmas by losing
 your situation! You're quite a powerful speaker,
-sir," he added, turning to his nephew. "I [[Wonder|wonder]] you
+sir," he added, turning to his nephew. "I [[concepts/wonder|wonder]] you
 don't go into Parliament."
 
 "Don't be angry, uncle. Come! Dine with us to-morrow."
@@ -263,9 +263,9 @@ and said that he would see him in that extremity first.
 
 "Why did you get married?" said Scrooge.
 
-"Because I fell in [[Love|love]]."
+"Because I fell in [[motifs/love|love]]."
 
-"Because you fell in [[Love|love]]!" growled Scrooge, as if
+"Because you fell in [[motifs/love|love]]!" growled Scrooge, as if
 that were the only one thing in the world more ridiculous
 than a merry Christmas. "Good afternoon!"
 
@@ -284,7 +284,7 @@ why cannot we be friends?"
 resolute. We have never had any quarrel, to which I
 have been a party. But I have made the trial in
 homage to Christmas, and I'll keep my Christmas
-[[Humour|humour]] to the last. So A Merry Christmas, uncle!"
+humour to the last. So A Merry Christmas, uncle!"
 
 "Good afternoon!" said Scrooge.
 
@@ -315,9 +315,9 @@ of addressing Mr. Scrooge, or Mr. Marley?"
 
 "Mr. Marley has been dead these seven years,"
 Scrooge replied. "He died seven years ago, this very
-[[Night|night]]."
+[[motifs/night|night]]."
 
-"We have no [[Doubt|doubt]] his liberality is [[Well|well]] represented
+"We have no [[concepts/doubt|doubt]] his liberality is [[motifs/well|well]] represented
 by his surviving partner," said the gentleman, presenting
 his credentials.
 
@@ -330,7 +330,7 @@ back.
 said the gentleman, taking up a pen, "it is more than
 usually desirable that we should make some slight
 provision for the Poor and destitute, who suffer
-greatly at the present [[Time|time]]. Many thousands are in
+greatly at the present [[motifs/time|time]]. Many thousands are in
 want of common necessaries; hundreds of thousands
 are in want of common comforts, sir."
 
@@ -339,7 +339,7 @@ are in want of common comforts, sir."
 "Plenty of prisons," said the gentleman, laying down
 the pen again.
 
-"And the [[Union]] workhouses?" demanded Scrooge.
+"And the [[concepts/union|Union]] workhouses?" demanded Scrooge.
 "Are they still in operation?"
 
 "They are. Still," returned the gentleman, "I wish
@@ -356,11 +356,11 @@ useful course," said Scrooge. "I'm very glad to
 hear it."
 
 "Under the impression that they scarcely furnish
-Christian cheer of mind or [[Body|body]] to the multitude,"
+Christian cheer of mind or [[concepts/body|body]] to the multitude,"
 returned the gentleman, "a few of us are endeavouring
 to raise a fund to buy the Poor some meat and drink,
-and means of warmth. We choose this [[Time|time]], because
-it is a [[Time|time]], of all others, when Want is keenly felt,
+and means of warmth. We choose this [[motifs/time|time]], because
+it is a [[motifs/time|time]], of all others, when Want is keenly felt,
 and Abundance rejoices. What shall I put you down
 for?"
 
@@ -368,7 +368,7 @@ for?"
 
 "You wish to be anonymous?"
 
-"I wish to be left [[Alone|alone]]," said Scrooge. "Since you
+"I wish to be left alone," said Scrooge. "Since you
 ask me what I wish, gentlemen, that is my answer.
 I don't make merry myself at Christmas and I can't
 afford to make idle people merry. I help to support
@@ -399,17 +399,17 @@ people ran about with flaring links, proffering their
 services to go before horses in carriages, and conduct
 them on their way. The ancient tower of a church,
 whose gruff old bell was always peeping slily down
-at Scrooge out of a Gothic [[Window|window]] in the wall, became
+at Scrooge out of a Gothic [[motifs/window|window]] in the wall, became
 invisible, and struck the hours and quarters in the
 clouds, with tremulous vibrations afterwards as if
 its teeth were chattering in its frozen head up there.
 The cold became intense. In the main street, at the
-corner of the [[Court|court]], some labourers were repairing
-the gas-pipes, and had lighted a great [[Fire|fire]] in a brazier,
+corner of the [[settings/court|court]], some labourers were repairing
+the gas-pipes, and had lighted a great [[motifs/fire|fire]] in a brazier,
 round which a party of ragged men and boys were
 gathered: warming their hands and winking their
-eyes before the blaze in rapture. The [[Water|water]]-plug
-being left in [[Solitude|solitude]], its overflowings sullenly congealed,
+eyes before the blaze in rapture. The [[motifs/water|water]]-plug
+being left in [[concepts/solitude|solitude]], its overflowings sullenly congealed,
 and turned to misanthropic ice. The brightness
 of the shops where holly sprigs and berries
 crackled in the lamp heat of the windows, made pale
@@ -417,9 +417,9 @@ faces ruddy as they passed. Poulterers' and grocers'
 trades became a splendid joke: a glorious pageant,
 with which it was next to impossible to believe that
 such dull principles as bargain and sale had anything
-to do. The [[Lord Mayor]], in the stronghold of the
-mighty Mansion [[house|House]], gave orders to his fifty cooks
-and butlers to keep Christmas as a [[Lord Mayor]]'s
+to do. The [[characters/lord-mayor|Lord Mayor]], in the stronghold of the
+mighty Mansion House, gave orders to his fifty cooks
+and butlers to keep Christmas as a [[characters/lord-mayor|Lord Mayor]]'s
 household should; and even the little tailor, whom he
 had fined five shillings on the previous Monday for
 being drunk and bloodthirsty in the streets, stirred up
@@ -432,18 +432,18 @@ the Evil Spirit's nose with a touch of such weather
 as that, instead of using his familiar weapons, then
 indeed he would have roared to lusty purpose. The
 owner of one scant young nose, gnawed and mumbled
-by the hungry cold as bones are gnawed by [[dogs]],
+by the hungry cold as bones are gnawed by dogs,
 stooped down at Scrooge's keyhole to regale him with
-a Christmas [[carol]]: but at the first sound of
+a Christmas carol: but at the first sound of
 
 "God bless you, merry gentleman!
 May nothing you dismay!"
 
 Scrooge seized the ruler with such energy of action,
 that the singer fled in terror, leaving the keyhole to
-the fog and even more congenial [[Frost|frost]].
+the fog and even more congenial [[motifs/frost|frost]].
 
-At length the hour of shutting up the counting-[[house]]
+At length the hour of shutting up the counting-house
 arrived. With an ill-will Scrooge dismounted from his
 stool, and tacitly admitted the fact to the expectant
 clerk in the Tank, who instantly snuffed his candle out,
@@ -455,7 +455,7 @@ Scrooge.
 "If quite convenient, sir."
 
 "It's not convenient," said Scrooge, "and it's not
-fair. If I was to stop half-a-[[Crown|crown]] for it, you'd
+fair. If I was to stop half-a-[[motifs/crown|crown]] for it, you'd
 think yourself ill-used, I'll be bound?"
 
 The clerk smiled faintly.
@@ -477,37 +477,37 @@ twinkling, and the clerk, with the long ends of his
 white comforter dangling below his waist (for he
 boasted no great-coat), went down a slide on Cornhill,
 at the end of a lane of boys, twenty times, in
-[[Honour|honour]] of its being Christmas Eve, and then ran [[Home|home]]
+[[concepts/honour|honour]] of its being Christmas Eve, and then ran [[motifs/home|home]]
 to Camden Town as hard as he could pelt, to play
 at blindman's-buff.
 
-Scrooge took his [[Melancholy|melancholy]] dinner in his usual
-[[Melancholy|melancholy]] tavern; and having read all the newspapers, and
+Scrooge took his [[concepts/melancholy|melancholy]] dinner in his usual
+[[concepts/melancholy|melancholy]] tavern; and having read all the newspapers, and
 beguiled the rest of the evening with his
-banker's-book, went [[Home|home]] to bed. He lived in
+banker's-book, went [[motifs/home|home]] to bed. He lived in
 chambers which had once belonged to his deceased
 partner. They were a gloomy suite of rooms, in a
 lowering pile of building up a yard, where it had so
 little business to be, that one could scarcely help
 fancying it must have run there when it was a young
-[[house]], playing at hide-and-seek with other houses,
+house, playing at hide-and-seek with other houses,
 and forgotten the way out again. It was old enough
 now, and dreary enough, for nobody lived in it but
 Scrooge, the other rooms being all let out as offices.
 The yard was so dark that even Scrooge, who knew
 its every stone, was fain to grope with his hands.
-The fog and [[Frost|frost]] so hung about the black old gateway
-of the [[house]], that it seemed as if the Genius of
+The fog and [[motifs/frost|frost]] so hung about the black old gateway
+of the house, that it seemed as if the Genius of
 the Weather sat in mournful meditation on the
 threshold.
 
 Now, it is a fact, that there was nothing at all
 particular about the knocker on the door, except that it
 was very large. It is also a fact, that Scrooge had
-seen it, [[Night|night]] and morning, during his whole residence
+seen it, [[motifs/night|night]] and morning, during his whole residence
 in that place; also that Scrooge had as little of what
-is called fancy about him as any man in the [[City|city]] of
-[[London]], even including--which is a bold word--the
+is called fancy about him as any man in the [[motifs/city|city]] of
+[[settings/london|London]], even including--which is a bold word--the
 corporation, aldermen, and livery. Let it also be
 borne in mind that Scrooge had not bestowed one
 thought on Marley, since his last mention of his
@@ -517,7 +517,7 @@ that Scrooge, having his key in the lock of the door,
 saw in the knocker, without its undergoing any intermediate
 process of change--not a knocker, but Marley's face.
 
-Marley's face. It was not in impenetrable [[Shadow|shadow]]
+Marley's face. It was not in impenetrable [[archetypes/shadow|shadow]]
 as the other objects in the yard were, but had a
 dismal light about it, like a bad lobster in a dark
 cellar. It was not angry or ferocious, but looked
@@ -533,7 +533,7 @@ its own expression.
 As Scrooge looked fixedly at this phenomenon, it
 was a knocker again.
 
-To say that he was not startled, or that his [[Blood|blood]]
+To say that he was not startled, or that his [[motifs/blood|blood]]
 was not conscious of a terrible sensation to which it
 had been a stranger from infancy, would be untrue.
 But he put his hand upon the key he had relinquished,
@@ -547,7 +547,7 @@ But there was nothing on the back of the door, except
 the screws and nuts that held the knocker on, so he
 said "Pooh, pooh!" and closed it with a bang.
 
-The sound resounded through the [[house]] like thunder.
+The sound resounded through the house like thunder.
 Every room above, and every cask in the wine-merchant's
 cellars below, appeared to have a separate peal
 of echoes of its own. Scrooge was not a man to
@@ -565,7 +565,7 @@ easy. There was plenty of width for that, and room
 to spare; which is perhaps the reason why Scrooge
 thought he saw a locomotive hearse going on before
 him in the gloom. Half-a-dozen gas-lamps out of
-the street wouldn't have lighted the entry too [[Well|well]],
+the street wouldn't have lighted the entry too [[motifs/well|well]],
 so you may suppose that it was pretty dark with
 Scrooge's dip.
 
@@ -573,28 +573,28 @@ Up Scrooge went, not caring a button for that.
 Darkness is cheap, and Scrooge liked it. But before
 he shut his heavy door, he walked through his rooms
 to see that all was right. He had just enough recollection
-of the face to [[Desire|desire]] to do that.
+of the face to [[motifs/desire|desire]] to do that.
 
 Sitting-room, bedroom, lumber-room. All as they
 should be. Nobody under the table, nobody under
-the sofa; a small [[Fire|fire]] in the grate; spoon and basin
+the sofa; a small [[motifs/fire|fire]] in the grate; spoon and basin
 ready; and the little saucepan of gruel (Scrooge had
 a cold in his head) upon the hob. Nobody under the
 bed; nobody in the closet; nobody in his dressing-gown,
 which was hanging up in a suspicious attitude
-against the wall. Lumber-room as usual. Old [[Fire|fire]]-guard,
+against the wall. Lumber-room as usual. Old [[motifs/fire|fire]]-guard,
 old shoes, two fish-baskets, washing-stand on three
 legs, and a poker.
 
 Quite satisfied, he closed his door, and locked
-himself in; [[Double|double]]-locked himself in, which was not his
+himself in; [[topoi/double|double]]-locked himself in, which was not his
 custom. Thus secured against surprise, he took off
 his cravat; put on his dressing-gown and slippers, and
-his nightcap; and sat down before the [[Fire|fire]] to take
+his nightcap; and sat down before the [[motifs/fire|fire]] to take
 his gruel.
 
-It was a very low [[Fire|fire]] indeed; nothing on such a
-bitter [[Night|night]]. He was obliged to sit close to it, and
+It was a very low [[motifs/fire|fire]] indeed; nothing on such a
+bitter [[motifs/night|night]]. He was obliged to sit close to it, and
 brood over it, before he could extract the least
 sensation of warmth from such a handful of fuel.
 The fireplace was an old one, built by some Dutch
@@ -606,7 +606,7 @@ through the air on clouds like feather-beds, Abrahams,
 Belshazzars, Apostles putting off to sea in butter-boats,
 hundreds of figures to attract his thoughts;
 and yet that face of Marley, seven years dead, came
-like the ancient [[Prophet]]'s rod, and swallowed up the
+like the ancient [[archetypes/prophet|Prophet]]'s rod, and swallowed up the
 whole. If each smooth tile had been a blank at first,
 with power to shape some picture on its surface from
 the disjointed fragments of his thoughts, there would
@@ -624,16 +624,16 @@ building. It was with great astonishment, and with
 a strange, inexplicable dread, that as he looked, he
 saw this bell begin to swing. It swung so softly in
 the outset that it scarcely made a sound; but soon it
-rang out loudly, and so did every bell in the [[house]].
+rang out loudly, and so did every bell in the house.
 
 This might have lasted half a minute, or a minute,
-but it seemed an hour. [[The Bells|The bells]] ceased as they had
+but it seemed an hour. The bells ceased as they had
 begun, together. They were succeeded by a clanking
 noise, deep down below; as if some person were
 dragging a heavy chain over the casks in the
 wine-merchant's cellar. Scrooge then remembered to have
-heard that [[Ghosts|ghosts]] in haunted houses were described as
-dragging [[Chains|chains]].
+heard that [[motifs/ghosts|ghosts]] in haunted houses were described as
+dragging [[motifs/chains|chains]].
 
 The cellar-door flew open with a booming sound,
 and then he heard the noise much louder, on the floors
@@ -646,7 +646,7 @@ His colour changed though, when, without a pause,
 it came on through the heavy door, and passed into
 the room before his eyes. Upon its coming in, the
 dying flame leaped up, as though it cried, "I know
-him; Marley's [[Ghost]]!" and fell again.
+him; Marley's [[archetypes/ghost|Ghost]]!" and fell again.
 
 The same face: the very same. Marley in his pigtail,
 usual waistcoat, tights and boots; the tassels on
@@ -656,7 +656,7 @@ clasped about his middle. It was long, and wound
 about him like a tail; and it was made (for Scrooge
 observed it closely) of cash-boxes, keys, padlocks,
 ledgers, deeds, and heavy purses wrought in steel.
-His [[Body|body]] was transparent; so that Scrooge, observing him,
+His [[concepts/body|body]] was transparent; so that Scrooge, observing him,
 and looking through his waistcoat, could see
 the two buttons on his coat behind.
 
@@ -664,9 +664,9 @@ Scrooge had often heard it said that Marley had no
 bowels, but he had never believed it until now.
 
 No, nor did he believe it even now. Though he
-looked the [[Phantom|phantom]] through and through, and saw
+looked the [[characters/phantom|phantom]] through and through, and saw
 it standing before him; though he felt the chilling
-influence of its [[Death|death]]-cold eyes; and marked the very
+influence of its [[motifs/death|death]]-cold eyes; and marked the very
 texture of the folded kerchief bound about its head
 and chin, which wrapper he had not observed before;
 he was still incredulous, and fought against his senses.
@@ -674,7 +674,7 @@ he was still incredulous, and fought against his senses.
 "How now!" said Scrooge, caustic and cold as ever.
 "What do you want with me?"
 
-"Much!"--Marley's voice, no [[Doubt|doubt]] about it.
+"Much!"--Marley's voice, no [[concepts/doubt|doubt]] about it.
 
 "Who are you?"
 
@@ -685,7 +685,7 @@ voice. "You're particular, for a shade." He was going
 to say "to a shade," but substituted this, as more
 appropriate.
 
-"In life I was your partner, [[Jacob Marley]]."
+"In life I was your partner, [[characters/jacob-marley|Jacob Marley]]."
 
 "Can you--can you sit down?" asked Scrooge, looking
 doubtfully at him.
@@ -695,14 +695,14 @@ doubtfully at him.
 "Do it, then."
 
 Scrooge asked the question, because he didn't know
-whether a [[Ghost|ghost]] so transparent might find himself in
+whether a [[archetypes/ghost|ghost]] so transparent might find himself in
 a condition to take a chair; and felt that in the event
 of its being impossible, it might involve the necessity
-of an embarrassing explanation. But the [[Ghost|ghost]] sat
+of an embarrassing explanation. But the [[archetypes/ghost|ghost]] sat
 down on the opposite side of the fireplace, as if he
 were quite used to it.
 
-"You don't believe in me," observed the [[Ghost]].
+"You don't believe in me," observed the [[archetypes/ghost|Ghost]].
 
 "I don't," said Scrooge.
 
@@ -711,28 +711,28 @@ your senses?"
 
 "I don't know," said Scrooge.
 
-"Why do you [[Doubt|doubt]] your senses?"
+"Why do you [[concepts/doubt|doubt]] your senses?"
 
 "Because," said Scrooge, "a little thing affects them.
 A slight disorder of the stomach makes them cheats. You may
 be an undigested bit of beef, a blot of mustard, a crumb of
-[[cheese]], a [[Fragment|fragment]] of an underdone potato. There's more of
-gravy than of [[Grave|grave]] about you, whatever you are!"
+cheese, a [[forms/fragment|fragment]] of an underdone potato. There's more of
+gravy than of [[motifs/grave|grave]] about you, whatever you are!"
 
 Scrooge was not much in the habit of cracking
 jokes, nor did he feel, in his heart, by any means
-waggish then. The [[Truth|truth]] is, that he tried to be
+waggish then. The [[concepts/truth|truth]] is, that he tried to be
 smart, as a means of distracting his own attention,
 and keeping down his terror; for the spectre's voice
 disturbed the very marrow in his bones.
 
-To sit, staring at those fixed glazed eyes, in [[Silence|silence]]
+To sit, staring at those fixed glazed eyes, in [[motifs/silence|silence]]
 for a moment, would play, Scrooge felt, the very
 deuce with him. There was something very awful,
 too, in the spectre's being provided with an infernal
 atmosphere of its own. Scrooge could not feel it
 himself, but this was clearly the case; for though the
-[[Ghost]] sat perfectly motionless, its hair, and skirts,
+[[archetypes/ghost|Ghost]] sat perfectly motionless, its hair, and skirts,
 and tassels, were still agitated as by the hot vapour
 from an oven.
 
@@ -741,13 +741,13 @@ quickly to the charge, for the reason just assigned;
 and wishing, though it were only for a second, to
 divert the vision's stony gaze from himself.
 
-"I do," replied the [[Ghost]].
+"I do," replied the [[archetypes/ghost|Ghost]].
 
 "You are not looking at it," said Scrooge.
 
-"But I see it," said the [[Ghost]], "notwithstanding."
+"But I see it," said the [[archetypes/ghost|Ghost]], "notwithstanding."
 
-"[[Well]]!" returned Scrooge, "I have but to [[Swallow|swallow]]
+"[[motifs/well|Well]]!" returned Scrooge, "I have but to [[motifs/swallow|swallow]]
 this, and be for the rest of my days persecuted by a
 legion of goblins, all of my own creation. Humbug,
 I tell you! humbug!"
@@ -756,27 +756,27 @@ At this the spirit raised a frightful cry, and shook
 its chain with such a dismal and appalling noise, that
 Scrooge held on tight to his chair, to save himself
 from falling in a swoon. But how much greater was
-his horror, when the [[Phantom|phantom]] taking off the bandage
+his horror, when the [[characters/phantom|phantom]] taking off the bandage
 round its head, as if it were too warm to wear indoors,
 its lower jaw dropped down upon its breast!
 
 Scrooge fell upon his knees, and clasped his hands
 before his face.
 
-"[[Mercy]]!" he said. "Dreadful apparition, why do
+"[[concepts/mercy|Mercy]]!" he said. "Dreadful apparition, why do
 you trouble me?"
 
-"Man of the worldly mind!" replied the [[Ghost]], "do
+"Man of the worldly mind!" replied the [[archetypes/ghost|Ghost]], "do
 you believe in me or not?"
 
 "I do," said Scrooge. "I must. But why do spirits
 walk the earth, and why do they come to me?"
 
-"It is required of every man," the [[Ghost]] returned,
+"It is required of every man," the [[archetypes/ghost|Ghost]] returned,
 "that the spirit within him should walk abroad among
 his fellowmen, and travel far and wide; and if that
 spirit goes not forth in life, it is condemned to do so
-after [[Death|death]]. It is doomed to wander through the
+after [[motifs/death|death]]. It is doomed to wander through the
 world--oh, woe is me!--and witness what it cannot
 share, but might have shared on earth, and turned to
 happiness!"
@@ -787,14 +787,14 @@ and wrung its shadowy hands.
 "You are fettered," said Scrooge, trembling. "Tell
 me why?"
 
-"I wear the chain I forged in life," replied the [[Ghost]].
+"I wear the chain I forged in life," replied the [[archetypes/ghost|Ghost]].
 "I made it link by link, and yard by yard; I girded
 it on of my own free will, and of my own free will I
 wore it. Is its pattern strange to you?"
 
 Scrooge trembled more and more.
 
-"Or would you know," pursued the [[Ghost]], "the
+"Or would you know," pursued the [[archetypes/ghost|Ghost]], "the
 weight and length of the strong coil you bear yourself?
 It was full as heavy and as long as this, seven
 Christmas Eves ago. You have laboured on it, since.
@@ -805,54 +805,54 @@ expectation of finding himself surrounded by some fifty
 or sixty fathoms of iron cable: but he could see
 nothing.
 
-"Jacob," he said, imploringly. "Old [[Jacob Marley]],
+"Jacob," he said, imploringly. "Old [[characters/jacob-marley|Jacob Marley]],
 tell me more. Speak comfort to me, Jacob!"
 
-"I have none to give," the [[Ghost]] replied. "It comes
-from other regions, [[Ebenezer Scrooge]], and is conveyed
+"I have none to give," the [[archetypes/ghost|Ghost]] replied. "It comes
+from other regions, [[characters/ebenezer-scrooge|Ebenezer Scrooge]], and is conveyed
 by other ministers, to other kinds of men. Nor
 can I tell you what I would. A very little more is
 all permitted to me. I cannot rest, I cannot stay, I
 cannot linger anywhere. My spirit never walked
-beyond our counting-[[house]]--mark me!--in life my
+beyond our counting-house--mark me!--in life my
 spirit never roved beyond the narrow limits of our
 money-changing hole; and weary journeys lie before
 me!"
 
 It was a habit with Scrooge, whenever he became
 thoughtful, to put his hands in his breeches pockets.
-Pondering on what the [[Ghost]] had said, he did so now,
+Pondering on what the [[archetypes/ghost|Ghost]] had said, he did so now,
 but without lifting up his eyes, or getting off his
 knees.
 
 "You must have been very slow about it, Jacob,"
 Scrooge observed, in a business-like manner, though
-with [[Humility|humility]] and deference.
+with [[concepts/humility|humility]] and deference.
 
-"Slow!" the [[Ghost]] repeated.
+"Slow!" the [[archetypes/ghost|Ghost]] repeated.
 
 "Seven years dead," mused Scrooge. "And travelling
-all the [[Time|time]]!"
+all the [[motifs/time|time]]!"
 
-"The whole [[Time|time]]," said the [[Ghost]]. "No rest, no
+"The whole [[motifs/time|time]]," said the [[archetypes/ghost|Ghost]]. "No rest, no
 peace. Incessant torture of remorse."
 
 "You travel fast?" said Scrooge.
 
-"On the wings of the [[Wind|wind]]," replied the [[Ghost]].
+"On the wings of the [[motifs/wind|wind]]," replied the [[archetypes/ghost|Ghost]].
 
 "You might have got over a great quantity of
 ground in seven years," said Scrooge.
 
-The [[Ghost]], on hearing this, set up another cry, and
-clanked its chain so hideously in the dead [[Silence|silence]] of
-the [[Night|night]], that the Ward would have been justified in
+The [[archetypes/ghost|Ghost]], on hearing this, set up another cry, and
+clanked its chain so hideously in the dead [[motifs/silence|silence]] of
+the [[motifs/night|night]], that the Ward would have been justified in
 indicting it for a nuisance.
 
-"Oh! captive, bound, and [[Double|double]]-ironed," cried the
-[[Phantom|phantom]], "not to know, that ages of incessant labour
+"Oh! captive, bound, and [[topoi/double|double]]-ironed," cried the
+[[characters/phantom|phantom]], "not to know, that ages of incessant labour
 by immortal creatures, for this earth must pass into
-[[Eternity|eternity]] before the good of which it is susceptible is
+[[concepts/eternity|eternity]] before the good of which it is susceptible is
 all developed. Not to know that any Christian spirit
 working kindly in its little sphere, whatever it may
 be, will find its mortal life too short for its vast
@@ -864,18 +864,18 @@ misused! Yet such was I! Oh! such was I!"
 Jacob," faltered Scrooge, who now began to apply this
 to himself.
 
-"Business!" cried the [[Ghost]], wringing its hands
+"Business!" cried the [[archetypes/ghost|Ghost]], wringing its hands
 again. "Mankind was my business. The common
-welfare was my business; [[Charity|charity]], [[Mercy|mercy]], forbearance,
+welfare was my business; [[concepts/charity|charity]], [[concepts/mercy|mercy]], forbearance,
 and benevolence, were, all, my business. The dealings
-of my trade were but a drop of [[Water|water]] in the
+of my trade were but a drop of [[motifs/water|water]] in the
 comprehensive ocean of my business!"
 
 It held up its chain at arm's length, as if that were
 the cause of all its unavailing grief, and flung it
 heavily upon the ground again.
 
-"At this [[Time|time]] of the [[rolling]] year," the spectre said,
+"At this [[motifs/time|time]] of the rolling year," the spectre said,
 "I suffer most. Why did I walk through crowds of
 fellow-beings with my eyes turned down, and never
 raise them to that blessed Star which led the Wise
@@ -886,7 +886,7 @@ Scrooge was very much dismayed to hear the
 spectre going on at this rate, and began to quake
 exceedingly.
 
-"Hear me!" cried the [[Ghost]]. "My [[Time|time]] is nearly
+"Hear me!" cried the [[archetypes/ghost|Ghost]]. "My [[motifs/time|time]] is nearly
 gone."
 
 "I will," said Scrooge. "But don't be hard upon
@@ -900,35 +900,35 @@ It was not an agreeable idea. Scrooge shivered,
 and wiped the perspiration from his brow.
 
 "That is no light part of my penance," pursued
-the [[Ghost]]. "I am here to-[[Night|night]] to warn you, that you
-have yet a chance and [[Hope|hope]] of escaping my fate. A
-chance and [[Hope|hope]] of my procuring, Ebenezer."
+the [[archetypes/ghost|Ghost]]. "I am here to-[[motifs/night|night]] to warn you, that you
+have yet a chance and [[concepts/hope|hope]] of escaping my fate. A
+chance and [[concepts/hope|hope]] of my procuring, Ebenezer."
 
 "You were always a good friend to me," said
 Scrooge. "Thank'ee!"
 
-"You will be haunted," resumed the [[Ghost]], "by
+"You will be haunted," resumed the [[archetypes/ghost|Ghost]], "by
 Three Spirits."
 
 Scrooge's countenance fell almost as low as the
-[[Ghost]]'s had done.
+[[archetypes/ghost|Ghost]]'s had done.
 
-"Is that the chance and [[Hope|hope]] you mentioned,
+"Is that the chance and [[concepts/hope|hope]] you mentioned,
 Jacob?" he demanded, in a faltering voice.
 
 "It is."
 
 "I--I think I'd rather not," said Scrooge.
 
-"Without their visits," said the [[Ghost]], "you cannot
-[[Hope|hope]] to shun the path I tread. Expect the first to-morrow,
+"Without their visits," said the [[archetypes/ghost|Ghost]], "you cannot
+[[concepts/hope|hope]] to shun the path I tread. Expect the first to-morrow,
 when the bell tolls One."
 
 "Couldn't I take 'em all at once, and have it over,
 Jacob?" hinted Scrooge.
 
-"Expect the second on the next [[Night|night]] at the same
-hour. The third upon the next [[Night|night]] when the last
+"Expect the second on the next [[motifs/night|night]] at the same
+hour. The third upon the next [[motifs/night|night]] when the last
 stroke of Twelve has ceased to vibrate. Look to see
 me no more; and look that, for your own sake, you
 remember what has passed between us!"
@@ -938,37 +938,37 @@ wrapper from the table, and bound it round its head,
 as before. Scrooge knew this, by the smart sound its
 teeth made, when the jaws were brought together
 by the bandage. He ventured to raise his eyes again,
-and found his [[Supernatural|supernatural]] visitor confronting him
+and found his [[motifs/supernatural|supernatural]] visitor confronting him
 in an erect attitude, with its chain wound over and
 about its arm.
 
 The apparition walked backward from him; and at
-every step it took, the [[Window|window]] raised itself a little,
+every step it took, the [[motifs/window|window]] raised itself a little,
 so that when the spectre reached it, it was wide open.
 
 It beckoned Scrooge to approach, which he did.
 When they were within two paces of each other,
-Marley's [[Ghost]] held up its hand, warning him to
+Marley's [[archetypes/ghost|Ghost]] held up its hand, warning him to
 come no nearer. Scrooge stopped.
 
-Not so much in obedience, as in surprise and [[Fear|fear]]:
+Not so much in obedience, as in surprise and [[concepts/fear|fear]]:
 for on the raising of the hand, he became sensible
 of confused noises in the air; incoherent sounds of
 lamentation and regret; wailings inexpressibly sorrowful and
-[[Self|self]]-accusatory. The spectre, after listening for a moment,
-joined in the mournful [[Dirge|dirge]]; and floated out upon the
-bleak, dark [[Night|night]].
+[[concepts/self|self]]-accusatory. The spectre, after listening for a moment,
+joined in the mournful [[forms/dirge|dirge]]; and floated out upon the
+bleak, dark [[motifs/night|night]].
 
-Scrooge followed to the [[Window|window]]: desperate in his
+Scrooge followed to the [[motifs/window|window]]: desperate in his
 curiosity. He looked out.
 
 The air was filled with phantoms, wandering hither
 and thither in restless haste, and moaning as they
-went. Every one of them wore [[Chains|chains]] like Marley's
-[[Ghost]]; some few (they might be guilty governments)
+went. Every one of them wore [[motifs/chains|chains]] like Marley's
+[[archetypes/ghost|Ghost]]; some few (they might be guilty governments)
 were linked together; none were free. Many had
 been personally known to Scrooge in their lives. He
-had been quite familiar with one old [[Ghost|ghost]], in a white
+had been quite familiar with one old [[archetypes/ghost|ghost]], in a white
 waistcoat, with a monstrous iron safe attached to
 its ankle, who cried piteously at being unable to assist
 a wretched woman with an infant, whom it saw below,
@@ -978,17 +978,17 @@ human matters, and had lost the power for ever.
 
 Whether these creatures faded into mist, or mist
 enshrouded them, he could not tell. But they and
-their spirit voices faded together; and the [[Night|night]] became
-as it had been when he walked [[Home|home]].
+their spirit voices faded together; and the [[motifs/night|night]] became
+as it had been when he walked [[motifs/home|home]].
 
-Scrooge closed the [[Window|window]], and examined the door
-by which the [[Ghost]] had entered. It was [[Double|double]]-locked,
+Scrooge closed the [[motifs/window|window]], and examined the door
+by which the [[archetypes/ghost|Ghost]] had entered. It was [[topoi/double|double]]-locked,
 as he had locked it with his own hands, and
 the bolts were undisturbed. He tried to say "Humbug!"
 but stopped at the first syllable. And being,
 from the emotion he had undergone, or the fatigues
 of the day, or his glimpse of the Invisible World, or
-the dull conversation of the [[Ghost]], or the lateness of
+the dull conversation of the [[archetypes/ghost|Ghost]], or the lateness of
 the hour, much in need of repose; went straight to
 bed, without undressing, and fell asleep upon the
 instant.
@@ -997,7 +997,7 @@ instant.
 STAVE II:  THE FIRST OF THE THREE SPIRITS
 
 WHEN Scrooge awoke, it was so dark, that looking out of bed,
-he could scarcely distinguish the transparent [[Window|window]] from
+he could scarcely distinguish the transparent [[motifs/window|window]] from
 the opaque walls of his chamber. He was endeavouring to
 pierce the darkness with his ferret eyes, when the chimes of a
 neighbouring church struck the four quarters. So he listened
@@ -1006,28 +1006,28 @@ for the hour.
 To his great astonishment the heavy bell went on from
 six to seven, and from seven to eight, and regularly up to
 twelve; then stopped. Twelve! It was past two when he
-went to bed. The [[Clock|clock]] was wrong. An icicle must have
+went to bed. The [[motifs/clock|clock]] was wrong. An icicle must have
 got into the works. Twelve!
 
-He touched the [[spring]] of his repeater, to correct this most
-preposterous [[Clock|clock]]. Its rapid little pulse beat twelve:
+He touched the [[motifs/spring|spring]] of his repeater, to correct this most
+preposterous [[motifs/clock|clock]]. Its rapid little pulse beat twelve:
 and stopped.
 
 "Why, it isn't possible," said Scrooge, "that I can have
-slept through a whole day and far into another [[Night|night]]. It
+slept through a whole day and far into another [[motifs/night|night]]. It
 isn't possible that anything has happened to the sun, and
-this is twelve at [[Noon|noon]]!"
+this is twelve at [[motifs/noon|noon]]!"
 
 The idea being an alarming one, he scrambled out of bed,
-and groped his way to the [[Window|window]]. He was obliged to rub
-the [[Frost|frost]] off with the sleeve of his dressing-gown before he
+and groped his way to the [[motifs/window|window]]. He was obliged to rub
+the [[motifs/frost|frost]] off with the sleeve of his dressing-gown before he
 could see anything; and could see very little then. All he
 could make out was, that it was still very foggy and extremely
 cold, and that there was no noise of people running to and fro,
 and making a great stir, as there unquestionably would have been
-if [[Night|night]] had beaten off bright day, and taken possession of the
+if [[motifs/night|night]] had beaten off bright day, and taken possession of the
 world.  This was a great relief, because "three days after sight
-of this First of Exchange pay to Mr. [[Ebenezer Scrooge]] or his
+of this First of Exchange pay to Mr. [[characters/ebenezer-scrooge|Ebenezer Scrooge]] or his
 order," and so forth, would have become a mere United States'
 security if there were no days to count by.
 
@@ -1036,21 +1036,21 @@ it over and over and over, and could make nothing of it.  The more he
 thought, the more perplexed he was; and the more he endeavoured
 not to think, the more he thought.
 
-Marley's [[Ghost]] bothered him exceedingly. Every [[Time|time]] he resolved
-within himself, after mature inquiry, that it was all [[A Dream|a dream]], his
-mind flew back again, like a strong [[spring]] released, to its first
+Marley's [[archetypes/ghost|Ghost]] bothered him exceedingly. Every [[motifs/time|time]] he resolved
+within himself, after mature inquiry, that it was all a dream, his
+mind flew back again, like a strong [[motifs/spring|spring]] released, to its first
 position, and presented the same problem to be worked all through,
-"Was it [[A Dream|a dream]] or not?"
+"Was it a dream or not?"
 
 Scrooge lay in this state until the chime had gone three quarters
-more, when he remembered, on a sudden, that the [[Ghost]] had warned
+more, when he remembered, on a sudden, that the [[archetypes/ghost|Ghost]] had warned
 him of a visitation when the bell tolled one.  He resolved to lie
 awake until the hour was passed; and, considering that he could
-no more go to [[Sleep|sleep]] than go to Heaven, this was perhaps the
+no more go to [[motifs/sleep|sleep]] than go to Heaven, this was perhaps the
 wisest resolution in his power.
 
 The quarter was so long, that he was more than once convinced he
-must have sunk into a doze unconsciously, and missed the [[Clock|clock]].
+must have sunk into a doze unconsciously, and missed the [[motifs/clock|clock]].
 At length it broke upon his listening ear.
 
 "Ding, dong!"
@@ -1070,7 +1070,7 @@ At length it broke upon his listening ear.
 "The hour itself," said Scrooge, triumphantly, "and nothing else!"
 
 He spoke before the hour bell sounded, which it now did with a
-deep, dull, hollow, [[Melancholy|melancholy]] ONE.  Light flashed up in the room
+deep, dull, hollow, [[concepts/melancholy|melancholy]] ONE.  Light flashed up in the room
 upon the instant, and the curtains of his bed were drawn.
 
 The curtains of his bed were drawn aside, I tell you, by a
@@ -1081,10 +1081,10 @@ half-recumbent attitude, found himself face to face with the
 unearthly visitor who drew them: as close to it as I am now
 to you, and I am standing in the spirit at your elbow.
 
-It was a strange figure--like a [[Child|child]]: yet not so like a
-[[Child|child]] as like an old man, viewed through some [[Supernatural|supernatural]]
+It was a strange figure--like a [[archetypes/child|child]]: yet not so like a
+[[archetypes/child|child]] as like an old man, viewed through some [[motifs/supernatural|supernatural]]
 medium, which gave him the appearance of having receded
-from the view, and being diminished to a [[Child|child]]'s proportions.
+from the view, and being diminished to a [[archetypes/child|child]]'s proportions.
 Its hair, which hung about its neck and down its back, was
 white as if with age; and yet the face had not a wrinkle in
 it, and the tenderest bloom was on the skin. The arms were
@@ -1095,8 +1095,8 @@ of the purest white; and round its waist was bound
 a lustrous belt, the sheen of which was beautiful. It held
 a branch of fresh green holly in its hand; and, in singular
 contradiction of that wintry emblem, had its dress trimmed
-with [[Summer|summer]] [[Flowers|flowers]]. But the strangest thing about it was,
-that from the [[Crown|crown]] of its head there sprung a bright clear
+with [[motifs/summer|summer]] [[motifs/flowers|flowers]]. But the strangest thing about it was,
+that from the [[motifs/crown|crown]] of its head there sprung a bright clear
 jet of light, by which all this was visible; and which was
 doubtless the occasion of its using, in its duller moments, a
 great extinguisher for a cap, which it now held under its arm.
@@ -1104,13 +1104,13 @@ great extinguisher for a cap, which it now held under its arm.
 Even this, though, when Scrooge looked at it with increasing
 steadiness, was not its strangest quality. For as its belt
 sparkled and glittered now in one part and now in another,
-and what was light one instant, at another [[Time|time]] was dark, so
+and what was light one instant, at another [[motifs/time|time]] was dark, so
 the figure itself fluctuated in its distinctness: being now a
 thing with one arm, now with one leg, now with twenty legs,
 now a pair of legs without a head, now a head without a
-[[Body|body]]: of which dissolving parts, no outline would be visible
+[[concepts/body|body]]: of which dissolving parts, no outline would be visible
 in the dense gloom wherein they melted away. And in the
-very [[Wonder|wonder]] of this, it would be itself again; distinct and
+very [[concepts/wonder|wonder]] of this, it would be itself again; distinct and
 clear as ever.
 
 "Are you the Spirit, sir, whose coming was foretold to
@@ -1123,7 +1123,7 @@ instead of being so close beside him, it were at a distance.
 
 "Who, and what are you?" Scrooge demanded.
 
-"I am the [[Ghost of Christmas Past]]."
+"I am the [[characters/ghost-of-christmas-past|Ghost of Christmas Past]]."
 
 "Long Past?" inquired Scrooge: observant of its dwarfish
 stature.
@@ -1131,10 +1131,10 @@ stature.
 "No. Your past."
 
 Perhaps, Scrooge could not have told anybody why, if
-anybody could have asked him; but he had a special [[Desire|desire]]
+anybody could have asked him; but he had a special [[motifs/desire|desire]]
 to see the Spirit in his cap; and begged him to be covered.
 
-"What!" exclaimed the [[Ghost]], "would you so soon put out,
+"What!" exclaimed the [[archetypes/ghost|Ghost]], "would you so soon put out,
 with worldly hands, the light I give? Is it not enough
 that you are one of those whose passions made this cap, and
 force me through whole trains of years to wear it low upon
@@ -1145,10 +1145,10 @@ or any knowledge of having wilfully "bonneted" the Spirit at
 any period of his life. He then made bold to inquire what
 business brought him there.
 
-"Your welfare!" said the [[Ghost]].
+"Your welfare!" said the [[archetypes/ghost|Ghost]].
 
 Scrooge expressed himself much obliged, but could not
-help thinking that a [[Night|night]] of unbroken rest would have been
+help thinking that a [[motifs/night|night]] of unbroken rest would have been
 more conducive to that end. The Spirit must have heard
 him thinking, for it said immediately:
 
@@ -1164,9 +1164,9 @@ weather and the hour were not adapted to pedestrian purposes;
 that bed was warm, and the thermometer a long way below
 freezing; that he was clad but lightly in his slippers,
 dressing-gown, and nightcap; and that he had a cold upon him at
-that [[Time|time]]. The grasp, though gentle as a woman's hand,
-was not to be resisted. He [[Rose|rose]]: but finding that the Spirit
-made towards the [[Window|window]], clasped his robe in supplication.
+that [[motifs/time|time]]. The grasp, though gentle as a woman's hand,
+was not to be resisted. He [[motifs/rose|rose]]: but finding that the Spirit
+made towards the [[motifs/window|window]], clasped his robe in supplication.
 
 "I am a mortal," Scrooge remonstrated, "and liable to fall."
 
@@ -1175,10 +1175,10 @@ laying it upon his heart, "and you shall be upheld in more
 than this!"
 
 As the words were spoken, they passed through the wall,
-and stood upon an open country [[Road|road]], with fields on either
-hand. The [[City|city]] had entirely vanished. Not a vestige of it
+and stood upon an open country [[motifs/road|road]], with fields on either
+hand. The [[motifs/city|city]] had entirely vanished. Not a vestige of it
 was to be seen. The darkness and the mist had vanished
-with it, for it was a clear, cold, [[Winter|winter]] day, with [[Snow|snow]] upon
+with it, for it was a clear, cold, [[motifs/winter|winter]] day, with [[motifs/snow|snow]] upon
 the ground.
 
 "Good Heaven!" said Scrooge, clasping his hands together,
@@ -1192,11 +1192,11 @@ of a thousand odours floating in the air, each one connected
 with a thousand thoughts, and hopes, and joys, and cares
 long, long, forgotten!
 
-"Your lip is trembling," said the [[Ghost]]. "And what is
+"Your lip is trembling," said the [[archetypes/ghost|Ghost]]. "And what is
 that upon your cheek?"
 
 Scrooge muttered, with an unusual catching in his voice,
-that it was a pimple; and begged the [[Ghost]] to lead him
+that it was a pimple; and begged the [[archetypes/ghost|Ghost]] to lead him
 where he would.
 
 "You recollect the way?" inquired the Spirit.
@@ -1205,11 +1205,11 @@ where he would.
 walk it blindfold."
 
 "Strange to have forgotten it for so many years!" observed
-the [[Ghost]]. "Let us go on."
+the [[archetypes/ghost|Ghost]]. "Let us go on."
 
-They walked along the [[Road|road]], Scrooge recognising every
+They walked along the [[motifs/road|road]], Scrooge recognising every
 gate, and post, and tree; until a little market-town appeared
-in the distance, with its bridge, its church, and winding [[River|river]].
+in the distance, with its bridge, its church, and winding [[motifs/river|river]].
 Some shaggy ponies now were seen trotting towards them
 with boys upon their backs, who called to other boys in
 country gigs and carts, driven by farmers. All these boys
@@ -1218,27 +1218,27 @@ broad fields were so full of merry music, that the crisp air
 laughed to hear it!
 
 "These are but shadows of the things that have been," said
-the [[Ghost]]. "They have no consciousness of us."
+the [[archetypes/ghost|Ghost]]. "They have no consciousness of us."
 
 The jocund travellers came on; and as they came, Scrooge
 knew and named them every one. Why was he rejoiced beyond
 all bounds to see them! Why did his cold eye glisten, and
 his heart leap up as they went past! Why was he filled
 with gladness when he heard them give each other Merry
-Christmas, as they parted at [[Cross|cross]]-roads and bye-ways, for
+Christmas, as they parted at [[motifs/cross|cross]]-roads and bye-ways, for
 their several homes! What was merry Christmas to Scrooge?
 Out upon merry Christmas! What good had it ever done
 to him?
 
-"The school is not quite deserted," said the [[Ghost]]. "A
-solitary [[Child|child]], neglected by his friends, is left there still."
+"The school is not quite deserted," said the [[archetypes/ghost|Ghost]]. "A
+solitary [[archetypes/child|child]], neglected by his friends, is left there still."
 
 Scrooge said he knew it. And he sobbed.
 
-They left the high-[[Road|road]], by a [[Well|well]]-remembered lane, and
+They left the high-[[motifs/road|road]], by a [[motifs/well|well]]-remembered lane, and
 soon approached a mansion of dull red brick, with a little
 weathercock-surmounted cupola, on the roof, and a bell
-hanging in it. It was a large [[house]], but one of broken
+hanging in it. It was a large house, but one of broken
 fortunes; for the spacious offices were little used, their walls
 were damp and mossy, their windows broken, and their
 gates decayed. Fowls clucked and strutted in the stables;
@@ -1251,56 +1251,56 @@ chilly bareness in the place, which associated itself somehow
 with too much getting up by candle-light, and not too
 much to eat.
 
-They went, the [[Ghost]] and Scrooge, across the hall, to a
-door at the back of the [[house]]. It opened before them, and
-disclosed a long, bare, [[Melancholy|melancholy]] room, made barer still by
+They went, the [[archetypes/ghost|Ghost]] and Scrooge, across the hall, to a
+door at the back of the house. It opened before them, and
+disclosed a long, bare, [[concepts/melancholy|melancholy]] room, made barer still by
 lines of plain deal forms and desks. At one of these a lonely
-boy was reading near a feeble [[Fire|fire]]; and Scrooge sat down
-upon a form, and wept to see his poor forgotten [[Self|self]] as he
+boy was reading near a feeble [[motifs/fire|fire]]; and Scrooge sat down
+upon a form, and wept to see his poor forgotten [[concepts/self|self]] as he
 used to be.
 
-Not a latent echo in the [[house]], not a squeak and scuffle
+Not a latent echo in the house, not a squeak and scuffle
 from the mice behind the panelling, not a drip from the
-half-thawed [[Water|water]]-spout in the dull yard behind, not a sigh among
+half-thawed [[motifs/water|water]]-spout in the dull yard behind, not a sigh among
 the leafless boughs of one despondent poplar, not the idle
-swinging of an empty store-[[house]] door, no, not a clicking in
-the [[Fire|fire]], but fell upon the heart of Scrooge with a softening
-influence, and gave a freer passage to his [[Tears|tears]].
+swinging of an empty store-house door, no, not a clicking in
+the [[motifs/fire|fire]], but fell upon the heart of Scrooge with a softening
+influence, and gave a freer passage to his [[motifs/tears|tears]].
 
 The Spirit touched him on the arm, and pointed to his
-younger [[Self|self]], intent upon his reading. Suddenly a man, in
+younger [[concepts/self|self]], intent upon his reading. Suddenly a man, in
 foreign garments: wonderfully real and distinct to look at:
-stood outside the [[Window|window]], with an axe stuck in his belt, and
+stood outside the [[motifs/window|window]], with an axe stuck in his belt, and
 leading by the bridle an ass laden with wood.
 
 "Why, it's Ali Baba!" Scrooge exclaimed in ecstasy. "It's
 dear old honest Ali Baba! Yes, yes, I know! One Christmas
-[[Time|time]], when yonder solitary [[Child|child]] was left here all [[Alone|alone]],
-he did come, for the first [[Time|time]], just like that. Poor boy! And
-[[Valentine]]," said Scrooge, "and his wild brother, Orson; there
+[[motifs/time|time]], when yonder solitary [[archetypes/child|child]] was left here all alone,
+he did come, for the first [[motifs/time|time]], just like that. Poor boy! And
+[[characters/valentine|Valentine]]," said Scrooge, "and his wild brother, Orson; there
 they go! And what's his name, who was put down in his
 drawers, asleep, at the Gate of Damascus; don't you see him!
 And the Sultan's Groom turned upside down by the Genii;
 there he is upon his head! Serve him right. I'm glad of it.
 What business had he to be married to the Princess!"
 
-To hear Scrooge expending all the earnestness of his [[Nature|nature]]
+To hear Scrooge expending all the earnestness of his [[concepts/nature|nature]]
 on such subjects, in a most extraordinary voice between
 laughing and crying; and to see his heightened and excited
 face; would have been a surprise to his business friends in
-the [[City|city]], indeed.
+the [[motifs/city|city]], indeed.
 
-"There's the Parrot!" cried Scrooge. "Green [[Body|body]] and
+"There's the Parrot!" cried Scrooge. "Green [[concepts/body|body]] and
 yellow tail, with a thing like a lettuce growing out of the
 top of his head; there he is! Poor Robin Crusoe, he called
-him, when he came [[Home|home]] again after sailing round the
+him, when he came [[motifs/home|home]] again after sailing round the
 island. 'Poor Robin Crusoe, where have you been, Robin
 Crusoe?'  The man thought he was dreaming, but he wasn't.
 It was the Parrot, you know. There goes Friday, running
 for his life to the little creek! Halloa! Hoop! Halloo!"
 
 Then, with a rapidity of transition very foreign to his
-usual character, he said, in pity for his former [[Self|self]], "Poor
+usual character, he said, in pity for his former [[concepts/self|self]], "Poor
 boy!" and cried again.
 
 "I wish," Scrooge muttered, putting his hand in his
@@ -1310,23 +1310,23 @@ cuff: "but it's too late now."
 "What is the matter?" asked the Spirit.
 
 "Nothing," said Scrooge. "Nothing. There was a boy
-singing a Christmas [[carol|Carol]] at my door last [[Night|night]]. I should
+singing a Christmas Carol at my door last [[motifs/night|night]]. I should
 like to have given him something: that's all."
 
-The [[Ghost]] smiled thoughtfully, and waved its hand:
+The [[archetypes/ghost|Ghost]] smiled thoughtfully, and waved its hand:
 saying as it did so, "Let us see another Christmas!"
 
-Scrooge's former [[Self|self]] grew larger at the words, and the
+Scrooge's former [[concepts/self|self]] grew larger at the words, and the
 room became a little darker and more dirty. The panels shrunk,
 the windows cracked; fragments of plaster fell out of the
 ceiling, and the naked laths were shown instead; but how
 all this was brought about, Scrooge knew no more than you
 do. He only knew that it was quite correct; that everything
-had happened so; that there he was, [[Alone|alone]] again, when all
-the other boys had gone [[Home|home]] for the jolly holidays.
+had happened so; that there he was, alone again, when all
+the other boys had gone [[motifs/home|home]] for the jolly holidays.
 
 He was not reading now, but walking up and down despairingly.
-Scrooge looked at the [[Ghost]], and with a mournful shaking of
+Scrooge looked at the [[archetypes/ghost|Ghost]], and with a mournful shaking of
 his head, glanced anxiously towards the door.
 
 It opened; and a little girl, much younger than the boy,
@@ -1334,22 +1334,22 @@ came darting in, and putting her arms about his neck, and
 often kissing him, addressed him as her "Dear, dear
 brother."
 
-"I have come to bring you [[Home|home]], dear brother!" said the
-[[Child|child]], clapping her tiny hands, and bending down to laugh.
-"To bring you [[Home|home]], [[Home|home]], [[Home|home]]!"
+"I have come to bring you [[motifs/home|home]], dear brother!" said the
+[[archetypes/child|child]], clapping her tiny hands, and bending down to laugh.
+"To bring you [[motifs/home|home]], [[motifs/home|home]], [[motifs/home|home]]!"
 
-"[[Home]], little Fan?" returned the boy.
+"[[motifs/home|Home]], little Fan?" returned the boy.
 
-"Yes!" said the [[Child|child]], brimful of glee. "[[Home]], for good
-and all. [[Home]], for ever and ever. Father is so much kinder
-than he used to be, that [[Home|home]]'s like Heaven! He spoke so
-gently to me one dear [[Night|night]] when I was going to bed, that
+"Yes!" said the [[archetypes/child|child]], brimful of glee. "[[motifs/home|Home]], for good
+and all. [[motifs/home|Home]], for ever and ever. Father is so much kinder
+than he used to be, that [[motifs/home|home]]'s like Heaven! He spoke so
+gently to me one dear [[motifs/night|night]] when I was going to bed, that
 I was not afraid to ask him once more if you might come
-[[Home|home]]; and he said Yes, you should; and sent me in a coach
-to bring you. And you're to be a man!" said the [[Child|child]],
+[[motifs/home|home]]; and he said Yes, you should; and sent me in a coach
+to bring you. And you're to be a man!" said the [[archetypes/child|child]],
 opening her eyes, "and are never to come back here; but
 first, we're to be together all the Christmas long, and have
-the merriest [[Time|time]] in all the world."
+the merriest [[motifs/time|time]] in all the world."
 
 "You are quite a woman, little Fan!" exclaimed the boy.
 
@@ -1364,48 +1364,48 @@ Scrooge's box, there!" and in the hall appeared the schoolmaster
 himself, who glared on Master Scrooge with a ferocious
 condescension, and threw him into a dreadful state of mind
 by shaking hands with him. He then conveyed him and his
-sister into the veriest old [[Well|well]] of a shivering best-parlour that
+sister into the veriest old [[motifs/well|well]] of a shivering best-parlour that
 ever was seen, where the maps upon the wall, and the celestial
 and terrestrial globes in the windows, were waxy with cold.
 Here he produced a decanter of curiously light wine, and a
 block of curiously heavy cake, and administered instalments
-of those dainties to the young people: at the same [[Time|time]],
+of those dainties to the young people: at the same [[motifs/time|time]],
 sending out a meagre servant to offer a glass of "something"
 to the postboy, who answered that he thanked the gentleman,
 but if it was the same tap as he had tasted before, he had
-rather not. Master Scrooge's trunk being by this [[Time|time]] tied
+rather not. Master Scrooge's trunk being by this [[motifs/time|time]] tied
 on to the top of the chaise, the children bade the schoolmaster
 good-bye right willingly; and getting into it, drove
-gaily down the [[Garden|garden]]-sweep: the quick wheels dashing the
-hoar-[[Frost|frost]] and [[Snow|snow]] from off the dark [[Leaves|leaves]] of the evergreens
+gaily down the [[motifs/garden|garden]]-sweep: the quick wheels dashing the
+hoar-[[motifs/frost|frost]] and [[motifs/snow|snow]] from off the dark [[motifs/leaves|leaves]] of the evergreens
 like spray.
 
 "Always a delicate creature, whom a breath might have
-withered," said the [[Ghost]]. "But she had a large heart!"
+withered," said the [[archetypes/ghost|Ghost]]. "But she had a large heart!"
 
 "So she had," cried Scrooge. "You're right. I will not
 gainsay it, Spirit. God forbid!"
 
-"She died a woman," said the [[Ghost]], "and had, as I think,
+"She died a woman," said the [[archetypes/ghost|Ghost]], "and had, as I think,
 children."
 
-"One [[Child|child]]," Scrooge returned.
+"One [[archetypes/child|child]]," Scrooge returned.
 
-"True," said the [[Ghost]]. "Your nephew!"
+"True," said the [[archetypes/ghost|Ghost]]. "Your nephew!"
 
 Scrooge seemed uneasy in his mind; and answered briefly,
 "Yes."
 
 Although they had but that moment left the school behind
-them, they were now in the busy thoroughfares of a [[City|city]],
+them, they were now in the busy thoroughfares of a [[motifs/city|city]],
 where shadowy passengers passed and repassed; where shadowy
 carts and coaches battled for the way, and all the strife and
-tumult of a real [[City|city]] were. It was made plain enough, by
+tumult of a real [[motifs/city|city]] were. It was made plain enough, by
 the dressing of the shops, that here too it was Christmas
-[[Time|time]] again; but it was evening, and the streets were
+[[motifs/time|time]] again; but it was evening, and the streets were
 lighted up.
 
-The [[Ghost]] stopped at a certain warehouse door, and asked
+The [[archetypes/ghost|Ghost]] stopped at a certain warehouse door, and asked
 Scrooge if he knew it.
 
 "Know it!" said Scrooge. "Was I apprenticed here!"
@@ -1419,21 +1419,21 @@ ceiling, Scrooge cried in great excitement:
 alive again!"
 
 Old Fezziwig laid down his pen, and looked up at the
-[[Clock|clock]], which pointed to the hour of seven. He rubbed his
+[[motifs/clock|clock]], which pointed to the hour of seven. He rubbed his
 hands; adjusted his capacious waistcoat; laughed all over
 himself, from his shoes to his organ of benevolence; and
 called out in a comfortable, oily, rich, fat, jovial voice:
 
 "Yo ho, there! Ebenezer! Dick!"
 
-Scrooge's former [[Self|self]], now grown a young man, came briskly
+Scrooge's former [[concepts/self|self]], now grown a young man, came briskly
 in, accompanied by his fellow-'prentice.
 
-"Dick Wilkins, to be sure!" said Scrooge to the [[Ghost]].
+"Dick Wilkins, to be sure!" said Scrooge to the [[archetypes/ghost|Ghost]].
 "Bless me, yes. There he is. He was very much attached
 to me, was Dick. Poor Dick! Dear, dear!"
 
-"Yo ho, my boys!" said Fezziwig. "No more work to-[[Night|night]].
+"Yo ho, my boys!" said Fezziwig. "No more work to-[[motifs/night|night]].
 Christmas Eve, Dick. Christmas, Ebenezer! Let's
 have the shutters up," cried old Fezziwig, with a sharp clap
 of his hands, "before a man can say Jack Robinson!"
@@ -1454,9 +1454,9 @@ away, or couldn't have cleared away, with old Fezziwig looking
 on. It was done in a minute. Every movable was packed off, as if
 it were dismissed from public life for evermore; the floor was
 swept and watered, the lamps were trimmed, fuel was heaped upon
-the [[Fire|fire]]; and the warehouse was as snug, and warm, and dry, and
-bright a ball-room, as you would [[Desire|desire]] to see upon a [[Winter|winter]]'s
-[[Night|night]].
+the [[motifs/fire|fire]]; and the warehouse was as snug, and warm, and dry, and
+bright a ball-room, as you would [[motifs/desire|desire]] to see upon a [[motifs/winter|winter]]'s
+[[motifs/night|night]].
 
 In came a fiddler with a music-book, and went up to the
 lofty desk, and made an orchestra of it, and tuned like fifty
@@ -1478,13 +1478,13 @@ the other way; down the middle and up again; round
 and round in various stages of affectionate grouping; old
 top couple always turning up in the wrong place; new top
 couple starting off again, as soon as they got there; all top
-couples at last, and not a [[Bottom|bottom]] one to help them! When
+couples at last, and not a [[characters/bottom|bottom]] one to help them! When
 this result was brought about, old Fezziwig, clapping his
-hands to stop the [[Dance|dance]], cried out, "[[Well]] done!" and the
+hands to stop the [[motifs/dance|dance]], cried out, "[[motifs/well|Well]] done!" and the
 fiddler plunged his hot face into a pot of porter, especially
 provided for that purpose. But scorning rest, upon his
 reappearance, he instantly began again, though there were no
-dancers yet, as if the other fiddler had been carried [[Home|home]],
+dancers yet, as if the other fiddler had been carried [[motifs/home|home]],
 exhausted, on a shutter, and he were a bran-new man
 resolved to beat him out of sight, or perish.
 
@@ -1496,10 +1496,10 @@ But the great effect of the evening came after the Roast
 and Boiled, when the fiddler (an artful dog, mind! The sort
 of man who knew his business better than you or I could
 have told it him!) struck up "Sir Roger de Coverley."  Then
-old Fezziwig stood out to [[Dance|dance]] with Mrs. Fezziwig. Top
+old Fezziwig stood out to [[motifs/dance|dance]] with Mrs. Fezziwig. Top
 couple, too; with a good stiff piece of work cut out for them;
 three or four and twenty pair of partners; people who were
-not to be trifled with; people who would [[Dance|dance]], and had no
+not to be trifled with; people who would [[motifs/dance|dance]], and had no
 notion of walking.
 
 But if they had been twice as many--ah, four times--old
@@ -1508,16 +1508,16 @@ Mrs. Fezziwig. As to her, she was worthy to be his partner
 in every sense of the term. If that's not high praise, tell me
 higher, and I'll use it. A positive light appeared to issue
 from Fezziwig's calves. They shone in every part of the
-[[Dance|dance]] like moons. You couldn't have predicted, at any given
-[[Time|time]], what would have become of them next. And when old
-Fezziwig and Mrs. Fezziwig had gone all through the [[Dance|dance]];
+[[motifs/dance|dance]] like moons. You couldn't have predicted, at any given
+[[motifs/time|time]], what would have become of them next. And when old
+Fezziwig and Mrs. Fezziwig had gone all through the [[motifs/dance|dance]];
 advance and retire, both hands to your partner, bow and
 curtsey, corkscrew, thread-the-needle, and back again to
 your place; Fezziwig "cut"--cut so deftly, that he appeared
 to wink with his legs, and came upon his feet again without
 a stagger.
 
-When the [[Clock|clock]] struck eleven, this domestic ball broke up.
+When the [[motifs/clock|clock]] struck eleven, this domestic ball broke up.
 Mr. and Mrs. Fezziwig took their stations, one on either side
 of the door, and shaking hands with every person individually
 as he or she went out, wished him or her a Merry Christmas.
@@ -1526,17 +1526,17 @@ the same to them; and thus the cheerful voices died away,
 and the lads were left to their beds; which were under a
 counter in the back-shop.
 
-During the whole of this [[Time|time]], Scrooge had acted like a
-man out of his wits. His heart and [[Soul|soul]] were in the scene,
-and with his former [[Self|self]]. He corroborated everything,
+During the whole of this [[motifs/time|time]], Scrooge had acted like a
+man out of his wits. His heart and [[motifs/soul|soul]] were in the scene,
+and with his former [[concepts/self|self]]. He corroborated everything,
 remembered everything, enjoyed everything, and underwent
 the strangest agitation. It was not until now, when the
-bright faces of his former [[Self|self]] and Dick were turned from
-them, that he remembered the [[Ghost]], and became conscious
+bright faces of his former [[concepts/self|self]] and Dick were turned from
+them, that he remembered the [[archetypes/ghost|Ghost]], and became conscious
 that it was looking full upon him, while the light upon its
 head burnt very clear.
 
-"A small matter," said the [[Ghost]], "to make these silly
+"A small matter," said the [[archetypes/ghost|Ghost]], "to make these silly
 folks so full of gratitude."
 
 "Small!" echoed Scrooge.
@@ -1550,7 +1550,7 @@ your mortal money: three or four perhaps. Is that so
 much that he deserves this praise?"
 
 "It isn't that," said Scrooge, heated by the remark, and
-speaking unconsciously like his former, not his latter, [[Self|self]].
+speaking unconsciously like his former, not his latter, [[concepts/self|self]].
 "It isn't that, Spirit. He has the power to render us happy
 or unhappy; to make our service light or burdensome; a
 pleasure or a toil. Say that his power lies in words and
@@ -1560,20 +1560,20 @@ he gives, is quite as great as if it cost a fortune."
 
 He felt the Spirit's glance, and stopped.
 
-"What is the matter?" asked the [[Ghost]].
+"What is the matter?" asked the [[archetypes/ghost|Ghost]].
 
 "Nothing particular," said Scrooge.
 
-"Something, I think?" the [[Ghost]] insisted.
+"Something, I think?" the [[archetypes/ghost|Ghost]] insisted.
 
 "No," said Scrooge, "No. I should like to be able to say
 a word or two to my clerk just now. That's all."
 
-His former [[Self|self]] turned down the lamps as he gave utterance
-to the wish; and Scrooge and the [[Ghost]] again stood side by
+His former [[concepts/self|self]] turned down the lamps as he gave utterance
+to the wish; and Scrooge and the [[archetypes/ghost|Ghost]] again stood side by
 side in the open air.
 
-"My [[Time|time]] grows short," observed the Spirit. "Quick!"
+"My [[motifs/time|time]] grows short," observed the Spirit. "Quick!"
 
 This was not addressed to Scrooge, or to any one whom he
 could see, but it produced an immediate effect. For again
@@ -1582,16 +1582,16 @@ of life. His face had not the harsh and rigid lines of later
 years; but it had begun to wear the signs of care and avarice.
 There was an eager, greedy, restless motion in the eye, which
 showed the passion that had taken root, and where the
-[[Shadow|shadow]] of the growing tree would fall.
+[[archetypes/shadow|shadow]] of the growing tree would fall.
 
-He was not [[Alone|alone]], but sat by the side of a fair young
-girl in a mourning-dress: in whose eyes there were [[Tears|tears]],
-which sparkled in the light that shone out of the [[Ghost]] of
+He was not alone, but sat by the side of a fair young
+girl in a mourning-dress: in whose eyes there were [[motifs/tears|tears]],
+which sparkled in the light that shone out of the [[archetypes/ghost|Ghost]] of
 Christmas Past.
 
 "It matters little," she said, softly. "To you, very little.
 Another idol has displaced me; and if it can cheer and comfort
-you in [[Time|time]] to come, as I would have tried to do, I have
+you in [[motifs/time|time]] to come, as I would have tried to do, I have
 no just cause to grieve."
 
 "What Idol has displaced you?" he rejoined.
@@ -1599,12 +1599,12 @@ no just cause to grieve."
 "A golden one."
 
 "This is the even-handed dealing of the world!" he said.
-"There is nothing on which it is so hard as [[Poverty|poverty]]; and
+"There is nothing on which it is so hard as [[concepts/poverty|poverty]]; and
 there is nothing it professes to condemn with such severity
 as the pursuit of wealth!"
 
-"You [[Fear|fear]] the world too much," she answered, gently.
-"All your other hopes have merged into the [[Hope|hope]] of being
+"You [[concepts/fear|fear]] the world too much," she answered, gently.
+"All your other hopes have merged into the [[concepts/hope|hope]] of being
 beyond the chance of its sordid reproach. I have seen your
 nobler aspirations fall off one by one, until the master-passion,
 Gain, engrosses you. Have I not?"
@@ -1636,9 +1636,9 @@ and can release you."
 
 "In what, then?"
 
-"In a changed [[Nature|nature]]; in an altered spirit; in another
-atmosphere of life; another [[Hope]] as its great end. In
-everything that made my [[Love|love]] of any worth or value in your
+"In a changed [[concepts/nature|nature]]; in an altered spirit; in another
+atmosphere of life; another [[concepts/hope|Hope]] as its great end. In
+everything that made my [[motifs/love|love]] of any worth or value in your
 sight. If this had never been between us," said the girl,
 looking mildly, but with steadiness, upon him; "tell me,
 would you seek me out and try to win me now? Ah, no!"
@@ -1648,7 +1648,7 @@ spite of himself. But he said with a struggle, "You think
 not."
 
 "I would gladly think otherwise if I could," she answered,
-"Heaven knows! When I have learned a [[Truth]] like this,
+"Heaven knows! When I have learned a [[concepts/truth|Truth]] like this,
 I know how strong and irresistible it must be. But if you
 were free to-day, to-morrow, yesterday, can even I believe
 that you would choose a dowerless girl--you who, in your
@@ -1656,41 +1656,41 @@ very confidence with her, weigh everything by Gain: or,
 choosing her, if for a moment you were false enough to your
 one guiding principle to do so, do I not know that your
 repentance and regret would surely follow? I do; and I
-release you. With a full heart, for the [[Love|love]] of him you
+release you. With a full heart, for the [[motifs/love|love]] of him you
 once were."
 
 He was about to speak; but with her head turned from
 him, she resumed.
 
-"You may--the [[Memory|memory]] of what is past half makes me
-[[Hope|hope]] you will--have [[Pain|pain]] in this. A very, very brief [[Time|time]],
+"You may--the [[motifs/memory|memory]] of what is past half makes me
+[[concepts/hope|hope]] you will--have [[motifs/pain|pain]] in this. A very, very brief [[motifs/time|time]],
 and you will dismiss the recollection of it, gladly, as an
-unprofitable dream, from which it happened [[Well|well]] that you
+unprofitable dream, from which it happened [[motifs/well|well]] that you
 awoke. May you be happy in the life you have chosen!"
 
 She left him, and they parted.
 
 "Spirit!" said Scrooge, "show me no more! Conduct
-me [[Home|home]]. Why do you delight to torture me?"
+me [[motifs/home|home]]. Why do you delight to torture me?"
 
-"One [[Shadow|shadow]] more!" exclaimed the [[Ghost]].
+"One [[archetypes/shadow|shadow]] more!" exclaimed the [[archetypes/ghost|Ghost]].
 
 "No more!" cried Scrooge. "No more. I don't wish to
 see it. Show me no more!"
 
-But the relentless [[Ghost]] pinioned him in both his arms,
+But the relentless [[archetypes/ghost|Ghost]] pinioned him in both his arms,
 and forced him to observe what happened next.
 
 They were in another scene and place; a room, not very
-large or handsome, but full of comfort. Near to the [[Winter|winter]]
-[[Fire|fire]] sat a beautiful young girl, so like that last that Scrooge
+large or handsome, but full of comfort. Near to the [[motifs/winter|winter]]
+[[motifs/fire|fire]] sat a beautiful young girl, so like that last that Scrooge
 believed it was the same, until he saw her, now a comely
 matron, sitting opposite her daughter. The noise in this
 room was perfectly tumultuous, for there were more children
 there, than Scrooge in his agitated state of mind could count;
 and, unlike the celebrated herd in the poem, they were not
 forty children conducting themselves like one, but every
-[[Child|child]] was conducting itself like forty. The consequences
+[[archetypes/child|child]] was conducting itself like forty. The consequences
 were uproarious beyond belief; but no one seemed to care;
 on the contrary, the mother and daughter laughed heartily,
 and enjoyed it very much; and the latter, soon beginning to
@@ -1699,7 +1699,7 @@ most ruthlessly. What would I not have given to be one of
 them! Though I never could have been so rude, no, no! I
 wouldn't for the wealth of all the world have crushed that
 braided hair, and torn it down; and for the precious little
-shoe, I wouldn't have plucked it off, God bless my [[Soul|soul]]! to
+shoe, I wouldn't have plucked it off, God bless my [[motifs/soul|soul]]! to
 save my life. As to measuring her waist in sport, as they
 did, bold young brood, I couldn't have done it; I should
 have expected my arm to have grown round it for a punishment,
@@ -1710,21 +1710,21 @@ looked upon the lashes of her downcast eyes, and never
 raised a blush; to have let loose waves of hair, an inch of
 which would be a keepsake beyond price: in short, I should
 have liked, I do confess, to have had the lightest licence
-of a [[Child|child]], and yet to have been man enough to know its
+of a [[archetypes/child|child]], and yet to have been man enough to know its
 value.
 
 But now a knocking at the door was heard, and such a
 rush immediately ensued that she with laughing face and
 plundered dress was borne towards it the centre of a flushed
-and boisterous group, just in [[Time|time]] to greet the father, who
-came [[Home|home]] attended by a man laden with Christmas toys
+and boisterous group, just in [[motifs/time|time]] to greet the father, who
+came [[motifs/home|home]] attended by a man laden with Christmas toys
 and presents. Then the shouting and the struggling, and
 the onslaught that was made on the defenceless porter!
 The scaling him with chairs for ladders to dive into his
 pockets, despoil him of brown-paper parcels, hold on tight
 by his cravat, hug him round his neck, pommel his back,
 and kick his legs in irrepressible affection! The shouts of
-[[Wonder|wonder]] and delight with which the development of every
+[[concepts/wonder|wonder]] and delight with which the development of every
 package was received! The terrible announcement that the
 baby had been taken in the act of putting a doll's frying-pan
 into his mouth, and was more than suspected of having
@@ -1732,16 +1732,16 @@ swallowed a fictitious turkey, glued on a wooden platter!
 The immense relief of finding this a false alarm! The joy,
 and gratitude, and ecstasy! They are all indescribable alike.
 It is enough that by degrees the children and their emotions
-got out of the parlour, and by one stair at a [[Time|time]], up to the
-top of the [[house]]; where they went to bed, and so subsided.
+got out of the parlour, and by one stair at a [[motifs/time|time]], up to the
+top of the house; where they went to bed, and so subsided.
 
 And now Scrooge looked on more attentively than ever,
-when the master of the [[house]], having his daughter leaning
+when the master of the house, having his daughter leaning
 fondly on him, sat down with her and her mother at his
 own fireside; and when he thought that such another
 creature, quite as graceful and as full of promise, might
-have called him father, and been a [[spring]]-[[Time|time]] in the
-haggard [[Winter|winter]] of his life, his sight grew very dim indeed.
+have called him father, and been a [[motifs/spring|spring]]-[[motifs/time|time]] in the
+haggard [[motifs/winter|winter]] of his life, his sight grew very dim indeed.
 
 "Belle," said the husband, turning to his wife with a
 smile, "I saw an old friend of yours this afternoon."
@@ -1753,29 +1753,29 @@ smile, "I saw an old friend of yours this afternoon."
 "How can I? Tut, don't I know?" she added in the
 same breath, laughing as he laughed. "Mr. Scrooge."
 
-"Mr. Scrooge it was. I passed his office [[Window|window]]; and as
+"Mr. Scrooge it was. I passed his office [[motifs/window|window]]; and as
 it was not shut up, and he had a candle inside, I could
 scarcely help seeing him. His partner lies upon the point
-of [[Death|death]], I hear; and there he sat [[Alone|alone]]. Quite [[Alone|alone]] in
+of [[motifs/death|death]], I hear; and there he sat alone. Quite alone in
 the world, I do believe."
 
 "Spirit!" said Scrooge in a broken voice, "remove me
 from this place."
 
 "I told you these were shadows of the things that have
-been," said the [[Ghost]]. "That they are what they are, do
+been," said the [[archetypes/ghost|Ghost]]. "That they are what they are, do
 not blame me!"
 
 "Remove me!" Scrooge exclaimed, "I cannot bear it!"
 
-He turned upon the [[Ghost]], and seeing that it looked upon
+He turned upon the [[archetypes/ghost|Ghost]], and seeing that it looked upon
 him with a face, in which in some strange way there were
 fragments of all the faces it had shown him, wrestled with it.
 
 "Leave me! Take me back. Haunt me no longer!"
 
 In the struggle, if that can be called a struggle in which
-the [[Ghost]] with no visible resistance on its own part was
+the [[archetypes/ghost|Ghost]] with no visible resistance on its own part was
 undisturbed by any effort of its adversary, Scrooge observed
 that its light was burning high and bright; and dimly
 connecting that with its influence over him, he seized the
@@ -1790,8 +1790,8 @@ from under it, in an unbroken flood upon the ground.
 He was conscious of being exhausted, and overcome by an
 irresistible drowsiness; and, further, of being in his own
 bedroom.  He gave the cap a parting squeeze, in which his hand
-relaxed; and had barely [[Time|time]] to reel to bed, before he sank
-into a heavy [[Sleep|sleep]].
+relaxed; and had barely [[motifs/time|time]] to reel to bed, before he sank
+into a heavy [[motifs/sleep|sleep]].
 
 
 STAVE III:  THE SECOND OF THE THREE SPIRITS
@@ -1800,10 +1800,10 @@ AWAKING in the middle of a prodigiously tough snore, and
 sitting up in bed to get his thoughts together, Scrooge had
 no occasion to be told that the bell was again upon the
 stroke of One. He felt that he was restored to consciousness
-in the right nick of [[Time|time]], for the especial purpose of holding
+in the right nick of [[motifs/time|time]], for the especial purpose of holding
 a conference with the second messenger despatched to him
-through [[Jacob Marley]]'s intervention. But finding that he
-turned uncomfortably cold when he began to [[Wonder|wonder]] which
+through [[characters/jacob-marley|Jacob Marley]]'s intervention. But finding that he
+turned uncomfortably cold when he began to [[concepts/wonder|wonder]] which
 of his curtains this new spectre would draw back, he put
 them every one aside with his own hands; and lying down
 again, established a sharp look-out all round the bed. For
@@ -1813,10 +1813,10 @@ made nervous.
 
 Gentlemen of the free-and-easy sort, who plume themselves
 on being acquainted with a move or two, and being usually
-equal to the [[Time|time]]-of-day, express the wide range of their
+equal to the [[motifs/time|time]]-of-day, express the wide range of their
 capacity for adventure by observing that they are good for
 anything from pitch-and-toss to manslaughter; between which
-opposite extremes, no [[Doubt|doubt]], there lies a tolerably wide and
+opposite extremes, no [[concepts/doubt|doubt]], there lies a tolerably wide and
 comprehensive range of subjects. Without venturing for
 Scrooge quite as hardily as this, I don't mind calling on you
 to believe that he was ready for a good broad field of
@@ -1827,11 +1827,11 @@ Now, being prepared for almost anything, he was not by
 any means prepared for nothing; and, consequently, when the
 Bell struck One, and no shape appeared, he was taken with a
 violent fit of trembling. Five minutes, ten minutes, a quarter
-of an hour went by, yet nothing came. All this [[Time|time]], he lay
+of an hour went by, yet nothing came. All this [[motifs/time|time]], he lay
 upon his bed, the very core and centre of a blaze of ruddy
-light, which streamed upon it when the [[Clock|clock]] proclaimed the
+light, which streamed upon it when the [[motifs/clock|clock]] proclaimed the
 hour; and which, being only light, was more alarming than
-a dozen [[Ghosts|ghosts]], as he was powerless to make out what it
+a dozen [[motifs/ghosts|ghosts]], as he was powerless to make out what it
 meant, or would be at; and was sometimes apprehensive
 that he might be at that very moment an interesting case of
 spontaneous combustion, without having the consolation of
@@ -1849,16 +1849,16 @@ The moment Scrooge's hand was on the lock, a strange
 voice called him by his name, and bade him enter. He
 obeyed.
 
-It was his own room. There was no [[Doubt|doubt]] about that.
+It was his own room. There was no [[concepts/doubt|doubt]] about that.
 But it had undergone a surprising transformation. The walls
 and ceiling were so hung with living green, that it looked a
 perfect grove; from every part of which, bright gleaming
-berries glistened. The crisp [[Leaves|leaves]] of holly, mistletoe, and
+berries glistened. The crisp [[motifs/leaves|leaves]] of holly, mistletoe, and
 ivy reflected back the light, as if so many little mirrors had
 been scattered there; and such a mighty blaze went roaring
 up the chimney, as that dull petrification of a hearth had
-never known in Scrooge's [[Time|time]], or Marley's, or for many and
-many a [[Winter|winter]] season gone. Heaped up on the floor, to form
+never known in Scrooge's [[motifs/time|time]], or Marley's, or for many and
+many a [[motifs/winter|winter]] season gone. Heaped up on the floor, to form
 a kind of throne, were turkeys, geese, game, poultry, brawn,
 great joints of meat, sucking-pigs, long wreaths of sausages,
 mince-pies, plum-puddings, barrels of oysters, red-hot chestnuts,
@@ -1870,7 +1870,7 @@ see; who bore a glowing torch, in shape not unlike Plenty's
 horn, and held it up, high up, to shed its light on Scrooge,
 as he came peeping round the door.
 
-"Come in!" exclaimed the [[Ghost]]. "Come in! and know
+"Come in!" exclaimed the [[archetypes/ghost|Ghost]]. "Come in! and know
 me better, man!"
 
 Scrooge entered timidly, and hung his head before this
@@ -1878,7 +1878,7 @@ Spirit. He was not the dogged Scrooge he had been; and
 though the Spirit's eyes were clear and kind, he did not like
 to meet them.
 
-"I am the [[Ghost of Christmas Present]]," said the Spirit.
+"I am the [[characters/ghost-of-christmas-present|Ghost of Christmas Present]]," said the Spirit.
 "Look upon me!"
 
 Scrooge reverently did so. It was clothed in one simple
@@ -1891,7 +1891,7 @@ covering than a holly wreath, set here and there with shining
 icicles. Its dark brown curls were long and free; free as its
 genial face, its sparkling eye, its open hand, its cheery voice,
 its unconstrained demeanour, and its joyful air. Girded
-round its middle was an antique scabbard; but no [[Sword|sword]]
+round its middle was an antique scabbard; but no sword
 was in it, and the ancient sheath was eaten up with rust.
 
 "You have never seen the like of me before!" exclaimed
@@ -1901,20 +1901,20 @@ the Spirit.
 
 "Have never walked forth with the younger members of
 my family; meaning (for I am very young) my elder brothers
-born in these later years?" pursued the [[Phantom]].
+born in these later years?" pursued the [[characters/phantom|Phantom]].
 
 "I don't think I have," said Scrooge. "I am afraid I have
 not. Have you had many brothers, Spirit?"
 
-"More than eighteen hundred," said the [[Ghost]].
+"More than eighteen hundred," said the [[archetypes/ghost|Ghost]].
 
 "A tremendous family to provide for!" muttered Scrooge.
 
-The [[Ghost of Christmas Present]] [[Rose|rose]].
+The [[characters/ghost-of-christmas-present|Ghost of Christmas Present]] [[motifs/rose|rose]].
 
 "Spirit," said Scrooge submissively, "conduct me where
-you will. I went forth last [[Night|night]] on compulsion, and I learnt
-a lesson which is working now. To-[[Night|night]], if you have aught
+you will. I went forth last [[motifs/night|night]] on compulsion, and I learnt
+a lesson which is working now. To-[[motifs/night|night]], if you have aught
 to teach me, let me profit by it."
 
 "Touch my robe!"
@@ -1924,31 +1924,31 @@ Scrooge did as he was told, and held it fast.
 Holly, mistletoe, red berries, ivy, turkeys, geese, game,
 poultry, brawn, meat, pigs, sausages, oysters, pies, puddings,
 fruit, and punch, all vanished instantly. So did the room,
-the [[Fire|fire]], the ruddy glow, the hour of [[Night|night]], and they stood
-in the [[City|city]] streets on Christmas morning, where (for the
+the [[motifs/fire|fire]], the ruddy glow, the hour of [[motifs/night|night]], and they stood
+in the [[motifs/city|city]] streets on Christmas morning, where (for the
 weather was severe) the people made a rough, but brisk and
-not unpleasant kind of music, in scraping the [[Snow|snow]] from the
+not unpleasant kind of music, in scraping the [[motifs/snow|snow]] from the
 pavement in front of their dwellings, and from the tops of
 their houses, whence it was mad delight to the boys to see
-it come plumping down into the [[Road|road]] below, and splitting
-into artificial little [[Snow|snow]]-storms.
+it come plumping down into the [[motifs/road|road]] below, and splitting
+into artificial little [[motifs/snow|snow]]-storms.
 
-The [[house]] fronts looked black enough, and the windows
-blacker, contrasting with the smooth white sheet of [[Snow|snow]]
-upon the roofs, and with the dirtier [[Snow|snow]] upon the ground;
+The house fronts looked black enough, and the windows
+blacker, contrasting with the smooth white sheet of [[motifs/snow|snow]]
+upon the roofs, and with the dirtier [[motifs/snow|snow]] upon the ground;
 which last deposit had been ploughed up in deep furrows by
 the heavy wheels of carts and waggons; furrows that crossed
 and re-crossed each other hundreds of times where the great
 streets branched off; and made intricate channels, hard to trace
-in the thick yellow mud and icy [[Water|water]]. The sky was gloomy,
+in the thick yellow mud and icy [[motifs/water|water]]. The sky was gloomy,
 and the shortest streets were choked up with a dingy mist,
 half thawed, half frozen, whose heavier particles descended
 in a shower of sooty atoms, as if all the chimneys in Great
-Britain had, by one consent, caught [[Fire|fire]], and were blazing away
+Britain had, by one consent, caught [[motifs/fire|fire]], and were blazing away
 to their dear hearts' content. There was nothing very cheerful
 in the climate or the town, and yet was there an air of
-cheerfulness abroad that the clearest [[Summer|summer]] air and brightest
-[[Summer|summer]] sun might have endeavoured to diffuse in vain.
+cheerfulness abroad that the clearest [[motifs/summer|summer]] air and brightest
+[[motifs/summer|summer]] sun might have endeavoured to diffuse in vain.
 
 For, the people who were shovelling away on the housetops
 were jovial and full of glee; calling out to one another
@@ -1967,13 +1967,13 @@ by, and glanced demurely at the hung-up mistletoe. There were
 pears and apples, clustered high in blooming pyramids; there
 were bunches of grapes, made, in the shopkeepers' benevolence
 to dangle from conspicuous hooks, that people's mouths might
-[[Water|water]] gratis as they passed; there were piles of filberts, mossy
+[[motifs/water|water]] gratis as they passed; there were piles of filberts, mossy
 and brown, recalling, in their fragrance, ancient walks among
 the woods, and pleasant shufflings ankle deep through withered
-[[Leaves|leaves]]; there were Norfolk Biffins, squat and swarthy, setting
+[[motifs/leaves|leaves]]; there were Norfolk Biffins, squat and swarthy, setting
 off the yellow of the oranges and lemons, and, in the great
 compactness of their juicy persons, urgently entreating and
-beseeching to be carried [[Home|home]] in paper bags and eaten after
+beseeching to be carried [[motifs/home|home]] in paper bags and eaten after
 dinner. The very gold and silver fish, set forth among
 these choice fruits in a bowl, though members of a dull and
 stagnant-blooded race, appeared to know that there was
@@ -1982,7 +1982,7 @@ round their little world in slow and passionless excitement.
 
 The Grocers'! oh, the Grocers'! nearly closed, with perhaps
 two shutters down, or one; but through those gaps such
-glimpses! It was not [[Alone|alone]] that the scales descending on the
+glimpses! It was not alone that the scales descending on the
 counter made a merry sound, or that the twine and roller
 parted company so briskly, or that the canisters were rattled
 up and down like juggling tricks, or even that the blended
@@ -2000,7 +2000,7 @@ promise of the day, that they tumbled up against each other
 at the door, crashing their wicker baskets wildly, and left
 their purchases upon the counter, and came running back to
 fetch them, and committed hundreds of the like mistakes, in
-the best [[Humour|humour]] possible; while the [[grocer|Grocer]] and his people
+the best humour possible; while the Grocer and his people
 were so frank and fresh that the polished hearts with which
 they fastened their aprons behind might have been their own,
 worn outside for general inspection, and for Christmas daws
@@ -2009,7 +2009,7 @@ to peck at if they chose.
 But soon the steeples called good people all, to church and
 chapel, and away they came, flocking through the streets in
 their best clothes, and with their gayest faces. And at the
-same [[Time|time]] there emerged from scores of bye-streets, lanes, and
+same [[motifs/time|time]] there emerged from scores of bye-streets, lanes, and
 nameless turnings, innumerable people, carrying their dinners
 to the bakers' shops. The sight of these poor revellers
 appeared to interest the Spirit very much, for he stood with
@@ -2018,12 +2018,12 @@ covers as their bearers passed, sprinkled incense on their
 dinners from his torch. And it was a very uncommon kind
 of torch, for once or twice when there were angry words
 between some dinner-carriers who had jostled each other, he
-shed a few drops of [[Water|water]] on them from it, and their good
-[[Humour|humour]] was restored directly. For they said, it was a shame
-to quarrel upon Christmas Day. And so it was! God [[Love|love]]
+shed a few drops of [[motifs/water|water]] on them from it, and their good
+humour was restored directly. For they said, it was a shame
+to quarrel upon Christmas Day. And so it was! God [[motifs/love|love]]
 it, so it was!
 
-In [[Time|time]] [[The Bells|the bells]] ceased, and the bakers were shut up; and
+In [[motifs/time|time]] the bells ceased, and the bakers were shut up; and
 yet there was a genial shadowing forth of all these dinners
 and the progress of their cooking, in the thawed blotch of
 wet above each baker's oven; where the pavement smoked as
@@ -2043,9 +2043,9 @@ asked Scrooge.
 
 "Because it needs it most."
 
-"Spirit," said Scrooge, after a moment's thought, "I [[Wonder|wonder]]
+"Spirit," said Scrooge, after a moment's thought, "I [[concepts/wonder|wonder]]
 you, of all the beings in the many worlds about us, should
-[[Desire|desire]] to cramp these people's opportunities of [[Innocent|innocent]]
+[[motifs/desire|desire]] to cramp these people's opportunities of [[archetypes/innocent|innocent]]
 enjoyment."
 
 "I!" cried the Spirit.
@@ -2066,40 +2066,40 @@ name, or at least in that of your family," said Scrooge.
 
 "There are some upon this earth of yours," returned the Spirit,
 "who lay claim to know us, and who do their deeds of passion,
-[[Pride|pride]], ill-will, hatred, envy, bigotry, and selfishness
+[[concepts/pride|pride]], ill-will, hatred, envy, bigotry, and selfishness
 in our name, who are as strange to us and all our kith and
 kin, as if they had never lived. Remember that, and charge
 their doings on themselves, not us."
 
 Scrooge promised that he would; and they went on,
 invisible, as they had been before, into the suburbs of the
-town. It was a remarkable quality of the [[Ghost]] (which
+town. It was a remarkable quality of the [[archetypes/ghost|Ghost]] (which
 Scrooge had observed at the baker's), that notwithstanding
 his gigantic size, he could accommodate himself to any place
 with ease; and that he stood beneath a low roof quite as
-gracefully and like a [[Supernatural|supernatural]] creature, as it was possible
+gracefully and like a [[motifs/supernatural|supernatural]] creature, as it was possible
 he could have done in any lofty hall.
 
 And perhaps it was the pleasure the good Spirit had in
 showing off this power of his, or else it was his own kind,
-generous, hearty [[Nature|nature]], and his sympathy with all poor
+generous, hearty [[concepts/nature|nature]], and his sympathy with all poor
 men, that led him straight to Scrooge's clerk's; for there he
 went, and took Scrooge with him, holding to his robe; and
 on the threshold of the door the Spirit smiled, and stopped
-to bless [[Bob Cratchit]]'s dwelling with the sprinkling of his
+to bless [[characters/bob-cratchit|Bob Cratchit]]'s dwelling with the sprinkling of his
 torch. Think of that! Bob had but fifteen "Bob" a-week
 himself; he pocketed on Saturdays but fifteen copies of his
-Christian name; and yet the [[Ghost of Christmas Present]]
-blessed his four-roomed [[house]]!
+Christian name; and yet the [[characters/ghost-of-christmas-present|Ghost of Christmas Present]]
+blessed his four-roomed house!
 
-Then up [[Rose|rose]] Mrs. Cratchit, Cratchit's wife, dressed out
+Then up [[motifs/rose|rose]] Mrs. Cratchit, Cratchit's wife, dressed out
 but poorly in a twice-turned gown, but brave in ribbons,
 which are cheap and make a goodly show for sixpence; and
 she laid the cloth, assisted by Belinda Cratchit, second of
 her daughters, also brave in ribbons; while Master Peter
 Cratchit plunged a fork into the saucepan of potatoes, and
 getting the corners of his monstrous shirt collar (Bob's private
-property, conferred upon his son and heir in [[Honour|honour]] of the
+property, conferred upon his son and heir in [[concepts/honour|honour]] of the
 day) into his mouth, rejoiced to find himself so gallantly
 attired, and yearned to show his linen in the fashionable Parks.
 And now two smaller Cratchits, boy and girl, came tearing
@@ -2108,12 +2108,12 @@ goose, and known it for their own; and basking in luxurious
 thoughts of sage and onion, these young Cratchits danced
 about the table, and exalted Master Peter Cratchit to the
 skies, while he (not proud, although his collars nearly choked
-him) blew the [[Fire|fire]], until the slow potatoes bubbling up,
+him) blew the [[motifs/fire|fire]], until the slow potatoes bubbling up,
 knocked loudly at the saucepan-lid to be let out and
 peeled.
 
 "What has ever got your precious father then?" said Mrs.
-Cratchit. "And your brother, [[Tiny Tim]]! And Martha
+Cratchit. "And your brother, [[characters/tiny-tim|Tiny Tim]]! And Martha
 warn't as late last Christmas Day by half-an-hour?"
 
 "Here's Martha, mother!" said a girl, appearing as she
@@ -2126,11 +2126,11 @@ spoke.
 said Mrs. Cratchit, kissing her a dozen times, and taking off
 her shawl and bonnet for her with officious zeal.
 
-"We'd a deal of work to finish up last [[Night|night]]," replied the
+"We'd a deal of work to finish up last [[motifs/night|night]]," replied the
 girl, "and had to clear away this morning, mother!"
 
-"[[Well]]! Never mind so long as you are come," said Mrs.
-Cratchit. "Sit ye down before the [[Fire|fire]], my dear, and have
+"[[motifs/well|Well]]! Never mind so long as you are come," said Mrs.
+Cratchit. "Sit ye down before the [[motifs/fire|fire]], my dear, and have
 a warm, Lord bless ye!"
 
 "No, no! There's father coming," cried the two young
@@ -2140,24 +2140,24 @@ hide!"
 So Martha hid herself, and in came little Bob, the father,
 with at least three feet of comforter exclusive of the fringe,
 hanging down before him; and his threadbare clothes darned
-up and brushed, to look seasonable; and [[Tiny Tim]] upon his
-shoulder. Alas for [[Tiny Tim]], he bore a little crutch, and
+up and brushed, to look seasonable; and [[characters/tiny-tim|Tiny Tim]] upon his
+shoulder. Alas for [[characters/tiny-tim|Tiny Tim]], he bore a little crutch, and
 had his limbs supported by an iron frame!
 
-"Why, where's our Martha?" cried [[Bob Cratchit]], looking
+"Why, where's our Martha?" cried [[characters/bob-cratchit|Bob Cratchit]], looking
 round.
 
 "Not coming," said Mrs. Cratchit.
 
 "Not coming!" said Bob, with a sudden declension in his
-high spirits; for he had been Tim's [[Blood|blood]] [[Horse|horse]] all the way
-from church, and had come [[Home|home]] rampant. "Not coming
+high spirits; for he had been Tim's [[motifs/blood|blood]] [[motifs/horse|horse]] all the way
+from church, and had come [[motifs/home|home]] rampant. "Not coming
 upon Christmas Day!"
 
 Martha didn't like to see him disappointed, if it were only
 in joke; so she came out prematurely from behind the closet
 door, and ran into his arms, while the two young Cratchits
-hustled [[Tiny Tim]], and bore him off into the wash-[[house]],
+hustled [[characters/tiny-tim|Tiny Tim]], and bore him off into the wash-house,
 that he might hear the pudding singing in the copper.
 
 "And how did little Tim behave?" asked Mrs. Cratchit,
@@ -2166,19 +2166,19 @@ hugged his daughter to his heart's content.
 
 "As good as gold," said Bob, "and better. Somehow he
 gets thoughtful, sitting by himself so much, and thinks the
-strangest things you ever heard. He told me, coming [[Home|home]],
+strangest things you ever heard. He told me, coming [[motifs/home|home]],
 that he hoped the people saw him in the church, because he
 was a cripple, and it might be pleasant to them to remember
 upon Christmas Day, who made lame beggars walk, and blind
 men see."
 
 Bob's voice was tremulous when he told them this, and
-trembled more when he said that [[Tiny Tim]] was growing
+trembled more when he said that [[characters/tiny-tim|Tiny Tim]] was growing
 strong and hearty.
 
 His active little crutch was heard upon the floor, and back
-came [[Tiny Tim]] before another word was spoken, escorted by
-his brother and sister to his stool before the [[Fire|fire]]; and while
+came [[characters/tiny-tim|Tiny Tim]] before another word was spoken, escorted by
+his brother and sister to his stool before the [[motifs/fire|fire]]; and while
 Bob, turning up his cuffs--as if, poor fellow, they were
 capable of being made more shabby--compounded some hot
 mixture in a jug with gin and lemons, and stirred it round
@@ -2187,13 +2187,13 @@ and the two ubiquitous young Cratchits went to fetch the
 goose, with which they soon returned in high procession.
 
 Such a bustle ensued that you might have thought a goose
-the rarest of all [[Birds|birds]]; a feathered phenomenon, to which a
-black swan was a matter of course--and in [[Truth|truth]] it was
-something very like it in that [[house]]. Mrs. Cratchit made
+the rarest of all [[motifs/birds|birds]]; a feathered phenomenon, to which a
+black swan was a matter of course--and in [[concepts/truth|truth]] it was
+something very like it in that house. Mrs. Cratchit made
 the gravy (ready beforehand in a little saucepan) hissing hot;
 Master Peter mashed the potatoes with incredible vigour;
 Miss Belinda sweetened up the apple-sauce; Martha dusted
-the hot plates; Bob took [[Tiny Tim]] beside him in a tiny
+the hot plates; Bob took [[characters/tiny-tim|Tiny Tim]] beside him in a tiny
 corner at the table; the two young Cratchits set chairs for
 everybody, not forgetting themselves, and mounting guard
 upon their posts, crammed spoons into their mouths, lest
@@ -2203,7 +2203,7 @@ said. It was succeeded by a breathless pause, as Mrs.
 Cratchit, looking slowly all along the carving-knife, prepared
 to plunge it in the breast; but when she did, and when the
 long expected gush of stuffing issued forth, one murmur of
-delight arose all round the board, and even [[Tiny Tim]],
+delight arose all round the board, and even [[characters/tiny-tim|Tiny Tim]],
 excited by the two young Cratchits, beat on the table with
 the handle of his knife, and feebly cried Hurrah!
 
@@ -2217,7 +2217,7 @@ atom of a bone upon the dish), they hadn't ate it all at
 last! Yet every one had had enough, and the youngest
 Cratchits in particular, were steeped in sage and onion to
 the eyebrows! But now, the plates being changed by Miss
-Belinda, Mrs. Cratchit left the room [[Alone|alone]]--too nervous to
+Belinda, Mrs. Cratchit left the room alone--too nervous to
 bear witnesses--to take the pudding up and bring it in.
 
 Suppose it should not be done enough! Suppose it should
@@ -2229,7 +2229,7 @@ supposed.
 
 Hallo! A great deal of steam! The pudding was out of
 the copper. A smell like a washing-day! That was the
-cloth. A smell like an eating-[[house]] and a pastrycook's next
+cloth. A smell like an eating-house and a pastrycook's next
 door to each other, with a laundress's next door to that!
 That was the pudding! In half a minute Mrs. Cratchit
 entered--flushed, but smiling proudly--with the pudding,
@@ -2237,9 +2237,9 @@ like a speckled cannon-ball, so hard and firm, blazing in half
 of half-a-quartern of ignited brandy, and bedight with
 Christmas holly stuck into the top.
 
-Oh, a wonderful pudding! [[Bob Cratchit]] said, and calmly
-too, that he regarded it as the greatest [[success]] achieved by
-Mrs. Cratchit since their [[Marriage|marriage]]. Mrs. Cratchit said that
+Oh, a wonderful pudding! [[characters/bob-cratchit|Bob Cratchit]] said, and calmly
+too, that he regarded it as the greatest success achieved by
+Mrs. Cratchit since their [[motifs/marriage|marriage]]. Mrs. Cratchit said that
 now the weight was off her mind, she would confess she had
 had her doubts about the quantity of flour. Everybody had
 something to say about it, but nobody said or thought it
@@ -2248,59 +2248,59 @@ been flat heresy to do so. Any Cratchit would have blushed
 to hint at such a thing.
 
 At last the dinner was all done, the cloth was cleared, the
-hearth swept, and the [[Fire|fire]] made up. The compound in the
+hearth swept, and the [[motifs/fire|fire]] made up. The compound in the
 jug being tasted, and considered perfect, apples and oranges
 were put upon the table, and a shovel-full of chestnuts on the
-[[Fire|fire]]. Then all the Cratchit family drew round the hearth, in
-what [[Bob Cratchit]] called a circle, meaning half a one; and
-at [[Bob Cratchit]]'s elbow stood the family display of glass.
+[[motifs/fire|fire]]. Then all the Cratchit family drew round the hearth, in
+what [[characters/bob-cratchit|Bob Cratchit]] called a circle, meaning half a one; and
+at [[characters/bob-cratchit|Bob Cratchit]]'s elbow stood the family display of glass.
 Two tumblers, and a custard-cup without a handle.
 
-These held the hot stuff from the jug, however, as [[Well|well]] as
+These held the hot stuff from the jug, however, as [[motifs/well|well]] as
 golden goblets would have done; and Bob served it out with
-beaming looks, while the chestnuts on the [[Fire|fire]] sputtered and
+beaming looks, while the chestnuts on the [[motifs/fire|fire]] sputtered and
 cracked noisily. Then Bob proposed:
 
 "A Merry Christmas to us all, my dears. God bless us!"
 
 Which all the family re-echoed.
 
-"God bless us every one!" said [[Tiny Tim]], the last of all.
+"God bless us every one!" said [[characters/tiny-tim|Tiny Tim]], the last of all.
 
 He sat very close to his father's side upon his little
 stool. Bob held his withered little hand in his, as if he
-loved the [[Child|child]], and wished to keep him by his side, and
+loved the [[archetypes/child|child]], and wished to keep him by his side, and
 dreaded that he might be taken from him.
 
 "Spirit," said Scrooge, with an interest he had never felt
-before, "tell me if [[Tiny Tim]] will live."
+before, "tell me if [[characters/tiny-tim|Tiny Tim]] will live."
 
-"I see a vacant seat," replied the [[Ghost]], "in the poor
+"I see a vacant seat," replied the [[archetypes/ghost|Ghost]], "in the poor
 chimney-corner, and a crutch without an owner, carefully
 preserved. If these shadows remain unaltered by the Future,
-the [[Child|child]] will die."
+the [[archetypes/child|child]] will die."
 
 "No, no," said Scrooge. "Oh, no, kind Spirit! say he
 will be spared."
 
 "If these shadows remain unaltered by the Future, none
-other of my race," returned the [[Ghost]], "will find him here.
+other of my race," returned the [[archetypes/ghost|Ghost]], "will find him here.
 What then? If he be like to die, he had better do it, and
 decrease the surplus population."
 
 Scrooge hung his head to hear his own words quoted by
 the Spirit, and was overcome with penitence and grief.
 
-"Man," said the [[Ghost]], "if man you be in heart, not
+"Man," said the [[archetypes/ghost|Ghost]], "if man you be in heart, not
 adamant, forbear that wicked cant until you have discovered
 What the surplus is, and Where it is. Will you decide what
 men shall live, what men shall die? It may be, that in the
 sight of Heaven, you are more worthless and less fit to live
-than millions like this poor man's [[Child|child]]. Oh God! to hear
+than millions like this poor man's [[archetypes/child|child]]. Oh God! to hear
 the Insect on the leaf pronouncing on the too much life
-among his hungry brothers in the [[Dust|dust]]!"
+among his hungry brothers in the [[motifs/dust|dust]]!"
 
-Scrooge bent before the [[Ghost]]'s rebuke, and trembling cast
+Scrooge bent before the [[archetypes/ghost|Ghost]]'s rebuke, and trembling cast
 his eyes upon the ground. But he raised them speedily, on
 hearing his own name.
 
@@ -2309,7 +2309,7 @@ Founder of the Feast!"
 
 "The Founder of the Feast indeed!" cried Mrs. Cratchit,
 reddening. "I wish I had him here. I'd give him a piece
-of my mind to feast upon, and I [[Hope|hope]] he'd have a good
+of my mind to feast upon, and I [[concepts/hope|hope]] he'd have a good
 appetite for it."
 
 "My dear," said Bob, "the children! Christmas Day."
@@ -2324,22 +2324,22 @@ Nobody knows it better than you do, poor fellow!"
 "I'll drink his health for your sake and the Day's," said
 Mrs. Cratchit, "not for his. Long life to him! A merry
 Christmas and a happy new year! He'll be very merry and
-very happy, I have no [[Doubt|doubt]]!"
+very happy, I have no [[concepts/doubt|doubt]]!"
 
 The children drank the toast after her. It was the first of
-their proceedings which had no heartiness. [[Tiny Tim]] drank
+their proceedings which had no heartiness. [[characters/tiny-tim|Tiny Tim]] drank
 it last of all, but he didn't care twopence for it. Scrooge
 was the Ogre of the family. The mention of his name cast
-a dark [[Shadow|shadow]] on the party, which was not dispelled for full
+a dark [[archetypes/shadow|shadow]] on the party, which was not dispelled for full
 five minutes.
 
 After it had passed away, they were ten times merrier than
 before, from the mere relief of Scrooge the Baleful being done
-with. [[Bob Cratchit]] told them how he had a situation in his
+with. [[characters/bob-cratchit|Bob Cratchit]] told them how he had a situation in his
 eye for Master Peter, which would bring in, if obtained, full
 five-and-sixpence weekly. The two young Cratchits laughed
 tremendously at the idea of Peter's being a man of business;
-and Peter himself looked thoughtfully at the [[Fire|fire]] from
+and Peter himself looked thoughtfully at the [[motifs/fire|fire]] from
 between his collars, as if he were deliberating what particular
 investments he should favour when he came into the receipt
 of that bewildering income. Martha, who was a poor
@@ -2347,47 +2347,47 @@ apprentice at a milliner's, then told them what kind of work
 she had to do, and how many hours she worked at a stretch,
 and how she meant to lie abed to-morrow morning for a
 good long rest; to-morrow being a holiday she passed at
-[[Home|home]]. Also how she had seen a countess and a lord some
+[[motifs/home|home]]. Also how she had seen a countess and a lord some
 days before, and how the lord "was much about as tall as
 Peter;" at which Peter pulled up his collars so high that you
 couldn't have seen his head if you had been there. All this
-[[Time|time]] the chestnuts and the jug went round and round; and
-by-and-bye they had a [[Song|song]], about a lost [[Child|child]] travelling in
-the [[Snow|snow]], from [[Tiny Tim]], who had a plaintive little voice,
-and sang it very [[Well|well]] indeed.
+[[motifs/time|time]] the chestnuts and the jug went round and round; and
+by-and-bye they had a song, about a lost [[archetypes/child|child]] travelling in
+the [[motifs/snow|snow]], from [[characters/tiny-tim|Tiny Tim]], who had a plaintive little voice,
+and sang it very [[motifs/well|well]] indeed.
 
 There was nothing of high mark in this. They were not
-a handsome family; they were not [[Well|well]] dressed; their shoes
-were far from being [[Water|water]]-proof; their clothes were scanty;
+a handsome family; they were not [[motifs/well|well]] dressed; their shoes
+were far from being [[motifs/water|water]]-proof; their clothes were scanty;
 and Peter might have known, and very likely did, the inside
 of a pawnbroker's. But, they were happy, grateful, pleased
-with one another, and contented with the [[Time|time]]; and when
+with one another, and contented with the [[motifs/time|time]]; and when
 they faded, and looked happier yet in the bright sprinklings
 of the Spirit's torch at parting, Scrooge had his eye upon
-them, and especially on [[Tiny Tim]], until the last.
+them, and especially on [[characters/tiny-tim|Tiny Tim]], until the last.
 
-By this [[Time|time]] it was getting dark, and snowing pretty
+By this [[motifs/time|time]] it was getting dark, and snowing pretty
 heavily; and as Scrooge and the Spirit went along the streets,
 the brightness of the roaring fires in kitchens, parlours, and
 all sorts of rooms, was wonderful. Here, the flickering of
 the blaze showed preparations for a cosy dinner, with hot
-plates baking through and through before the [[Fire|fire]], and deep
+plates baking through and through before the [[motifs/fire|fire]], and deep
 red curtains, ready to be drawn to shut out cold and darkness.
-There all the children of the [[house]] were running out
-into the [[Snow|snow]] to meet their married sisters, brothers, cousins,
+There all the children of the house were running out
+into the [[motifs/snow|snow]] to meet their married sisters, brothers, cousins,
 uncles, aunts, and be the first to greet them. Here, again,
-were shadows on the [[Window|window]]-blind of guests assembling; and
+were shadows on the [[motifs/window|window]]-blind of guests assembling; and
 there a group of handsome girls, all hooded and fur-booted,
 and all chattering at once, tripped lightly off to some near
-neighbour's [[house]]; where, woe upon the single man who saw
-them enter--artful witches, [[Well|well]] they knew it--in a glow!
+neighbour's house; where, woe upon the single man who saw
+them enter--artful witches, [[motifs/well|well]] they knew it--in a glow!
 
 But, if you had judged from the numbers of people on
 their way to friendly gatherings, you might have thought
-that no one was at [[Home|home]] to give them welcome when they
-got there, instead of every [[house]] expecting company, and
+that no one was at [[motifs/home|home]] to give them welcome when they
+got there, instead of every house expecting company, and
 piling up its fires half-chimney high. Blessings on it, how
-the [[Ghost]] exulted! How it bared its breadth of breast, and
+the [[archetypes/ghost|Ghost]] exulted! How it bared its breadth of breast, and
 opened its capacious palm, and floated on, outpouring, with
 a generous hand, its bright and harmless mirth on everything
 within its reach! The very lamplighter, who ran on before,
@@ -2396,32 +2396,32 @@ dressed to spend the evening somewhere, laughed out loudly
 as the Spirit passed, though little kenned the lamplighter
 that he had any company but Christmas!
 
-And now, without a word of warning from the [[Ghost]], they
-stood upon a bleak and [[Desert|desert]] moor, where monstrous masses
+And now, without a word of warning from the [[archetypes/ghost|Ghost]], they
+stood upon a bleak and [[motifs/desert|desert]] moor, where monstrous masses
 of rude stone were cast about, as though it were the burial-place
-of giants; and [[Water|water]] spread itself wheresoever it listed,
-or would have done so, but for the [[Frost|frost]] that held it prisoner;
+of giants; and [[motifs/water|water]] spread itself wheresoever it listed,
+or would have done so, but for the [[motifs/frost|frost]] that held it prisoner;
 and nothing grew but moss and furze, and coarse rank grass.
 Down in the west the setting sun had left a streak of fiery
 red, which glared upon the desolation for an instant, like a
 sullen eye, and frowning lower, lower, lower yet, was lost in
-the thick gloom of darkest [[Night|night]].
+the thick gloom of darkest [[motifs/night|night]].
 
 "What place is this?" asked Scrooge.
 
 "A place where Miners live, who labour in the bowels of
 the earth," returned the Spirit. "But they know me. See!"
 
-A light shone from the [[Window|window]] of a hut, and swiftly they
+A light shone from the [[motifs/window|window]] of a hut, and swiftly they
 advanced towards it. Passing through the wall of mud and
 stone, they found a cheerful company assembled round a
-glowing [[Fire|fire]]. An old, old man and woman, with their
+glowing [[motifs/fire|fire]]. An old, old man and woman, with their
 children and their children's children, and another generation
 beyond that, all decked out gaily in their holiday attire.
-The old man, in a voice that seldom [[Rose|rose]] above the howling
-of the [[Wind|wind]] upon the barren waste, was singing them a
-Christmas [[Song|song]]--it had been a very old [[Song|song]] when he was a
-boy--and from [[Time|time]] to [[Time|time]] they all joined in the [[Chorus|chorus]].
+The old man, in a voice that seldom [[motifs/rose|rose]] above the howling
+of the [[motifs/wind|wind]] upon the barren waste, was singing them a
+Christmas song--it had been a very old song when he was a
+boy--and from [[motifs/time|time]] to [[motifs/time|time]] they all joined in the [[characters/chorus|chorus]].
 So surely as they raised their voices, the old man got quite
 blithe and loud; and so surely as they stopped, his vigour
 sank again.
@@ -2430,31 +2430,31 @@ The Spirit did not tarry here, but bade Scrooge hold his
 robe, and passing on above the moor, sped--whither? Not
 to sea? To sea. To Scrooge's horror, looking back, he saw
 the last of the land, a frightful range of rocks, behind them;
-and his ears were deafened by the thundering of [[Water|water]], as it
+and his ears were deafened by the thundering of [[motifs/water|water]], as it
 rolled and roared, and raged among the dreadful caverns it
 had worn, and fiercely tried to undermine the earth.
 
 Built upon a dismal reef of sunken rocks, some league
 or so from shore, on which the waters chafed and dashed,
 the wild year through, there stood a solitary lighthouse.
-Great heaps of sea-weed clung to its base, and [[Storm|storm]]-[[Birds|birds]]
---born of the [[Wind|wind]] one might suppose, as sea-weed of the
-[[Water|water]]--[[Rose|rose]] and fell about it, like the waves they skimmed.
+Great heaps of sea-weed clung to its base, and [[motifs/storm|storm]]-[[motifs/birds|birds]]
+--born of the [[motifs/wind|wind]] one might suppose, as sea-weed of the
+[[motifs/water|water]]--[[motifs/rose|rose]] and fell about it, like the waves they skimmed.
 
 But even here, two men who watched the light had made
-a [[Fire|fire]], that through the loophole in the thick stone wall shed
+a [[motifs/fire|fire]], that through the loophole in the thick stone wall shed
 out a ray of brightness on the awful sea. Joining their
 horny hands over the rough table at which they sat, they
 wished each other Merry Christmas in their can of grog; and
 one of them: the elder, too, with his face all damaged and
-scarred with hard weather, as the figure-head of an old [[Ship|ship]]
-might be: struck up a sturdy [[Song|song]] that was like a Gale in
+scarred with hard weather, as the figure-head of an old [[motifs/ship|ship]]
+might be: struck up a sturdy song that was like a Gale in
 itself.
 
-Again the [[Ghost]] sped on, above the black and heaving sea
+Again the [[archetypes/ghost|Ghost]] sped on, above the black and heaving sea
 --on, on--until, being far away, as he told Scrooge, from any
-shore, they lighted on a [[Ship|ship]]. They stood beside the helmsman
-at the [[Wheel|wheel]], the look-out in the bow, the officers who
+shore, they lighted on a [[motifs/ship|ship]]. They stood beside the helmsman
+at the [[motifs/wheel|wheel]], the look-out in the bow, the officers who
 had the watch; dark, ghostly figures in their several stations;
 but every man among them hummed a Christmas tune, or
 had a Christmas thought, or spoke below his breath to his
@@ -2467,9 +2467,9 @@ he cared for at a distance, and had known that they delighted
 to remember him.
 
 It was a great surprise to Scrooge, while listening to the
-moaning of the [[Wind|wind]], and thinking what a solemn thing it
+moaning of the [[motifs/wind|wind]], and thinking what a solemn thing it
 was to move on through the lonely darkness over an unknown
-abyss, whose depths were [[Secrets|secrets]] as profound as [[Death]]: it
+abyss, whose depths were [[motifs/secrets|secrets]] as profound as [[motifs/death|Death]]: it
 was a great surprise to Scrooge, while thus engaged, to hear
 a hearty laugh. It was a much greater surprise to Scrooge
 to recognise it as his own nephew's and to find himself in a
@@ -2487,9 +2487,9 @@ and I'll cultivate his acquaintance.
 It is a fair, even-handed, noble adjustment of things, that
 while there is infection in disease and sorrow, there is nothing
 in the world so irresistibly contagious as laughter and
-good-[[Humour|humour]]. When Scrooge's nephew laughed in this way: holding
-his sides, [[rolling]] his head, and twisting his face into the
-most extravagant contortions: Scrooge's niece, by [[Marriage|marriage]],
+good-humour. When Scrooge's nephew laughed in this way: holding
+his sides, rolling his head, and twisting his face into the
+most extravagant contortions: Scrooge's niece, by [[motifs/marriage|marriage]],
 laughed as heartily as he. And their assembled friends being
 not a bit behindhand, roared out lustily.
 
@@ -2498,13 +2498,13 @@ not a bit behindhand, roared out lustily.
 "He said that Christmas was a humbug, as I live!" cried
 Scrooge's nephew. "He believed it too!"
 
-"More shame for him, [[Fred]]!" said Scrooge's niece,
+"More shame for him, [[characters/fred|Fred]]!" said Scrooge's niece,
 indignantly. Bless those women; they never do anything by
 halves. They are always in earnest.
 
 She was very pretty: exceedingly pretty. With a dimpled,
 surprised-looking, capital face; a ripe little mouth, that
-seemed made to be kissed--as no [[Doubt|doubt]] it was; all kinds of
+seemed made to be kissed--as no [[concepts/doubt|doubt]] it was; all kinds of
 good little dots about her chin, that melted into one another
 when she laughed; and the sunniest pair of eyes you ever
 saw in any little creature's head. Altogether she was what
@@ -2512,11 +2512,11 @@ you would have called provoking, you know; but satisfactory, too.
 Oh, perfectly satisfactory.
 
 "He's a comical old fellow," said Scrooge's nephew, "that's
-the [[Truth|truth]]: and not so pleasant as he might be. However,
+the [[concepts/truth|truth]]: and not so pleasant as he might be. However,
 his offences carry their own punishment, and I have nothing
 to say against him."
 
-"I'm sure he is very rich, [[Fred]]," hinted Scrooge's niece.
+"I'm sure he is very rich, [[characters/fred|Fred]]," hinted Scrooge's niece.
 "At least you always tell me so."
 
 "What of that, my dear!" said Scrooge's nephew. "His
@@ -2539,10 +2539,10 @@ What's the consequence? He don't lose much of a dinner."
 Scrooge's niece. Everybody else said the same, and they
 must be allowed to have been competent judges, because
 they had just had dinner; and, with the dessert upon the
-table, were clustered round the [[Fire|fire]], by lamplight.
+table, were clustered round the [[motifs/fire|fire]], by lamplight.
 
-"[[Well]]! I'm very glad to hear it," said Scrooge's nephew,
-"because I haven't great [[Faith|faith]] in these young housekeepers.
+"[[motifs/well|Well]]! I'm very glad to hear it," said Scrooge's nephew,
+"because I haven't great [[concepts/faith|faith]] in these young housekeepers.
 What do you say, Topper?"
 
 Topper had clearly got his eye upon one of Scrooge's niece's
@@ -2551,7 +2551,7 @@ who had no right to express an opinion on the subject.
 Whereat Scrooge's niece's sister--the plump one with the lace
 tucker: not the one with the roses--blushed.
 
-"Do go on, [[Fred]]," said Scrooge's niece, clapping her hands.
+"Do go on, [[characters/fred|Fred]]," said Scrooge's niece, clapping her hands.
 "He never finishes what he begins to say! He is such a
 ridiculous fellow!"
 
@@ -2585,13 +2585,13 @@ family, and knew what they were about, when they sung a
 Glee or Catch, I can assure you: especially Topper, who
 could growl away in the bass like a good one, and never
 swell the large veins in his forehead, or get red in the face
-over it. Scrooge's niece played [[Well|well]] upon the harp; and
+over it. Scrooge's niece played [[motifs/well|well]] upon the harp; and
 played among other tunes a simple little air (a mere nothing:
 you might learn to whistle it in two minutes), which had
-been familiar to the [[Child|child]] who fetched Scrooge from the
-boarding-school, as he had been reminded by the [[Ghost]] of
+been familiar to the [[archetypes/child|child]] who fetched Scrooge from the
+boarding-school, as he had been reminded by the [[archetypes/ghost|Ghost]] of
 Christmas Past. When this strain of music sounded, all the
-things that [[Ghost]] had shown him, came upon his mind; he
+things that [[archetypes/ghost|Ghost]] had shown him, came upon his mind; he
 softened more and more; and thought that if he could have
 listened to it often, years ago, he might have cultivated the
 kindnesses of life for his own happiness with his own hands,
@@ -2601,14 +2601,14 @@ Marley.
 But they didn't devote the whole evening to music. After
 a while they played at forfeits; for it is good to be children
 sometimes, and never better than at Christmas, when its
-mighty Founder was a [[Child|child]] himself. Stop! There was first
+mighty Founder was a [[archetypes/child|child]] himself. Stop! There was first
 a game at blind-man's buff. Of course there was. And I
 no more believe Topper was really blind than I believe he
 had eyes in his boots. My opinion is, that it was a done
 thing between him and Scrooge's nephew; and that the
-[[Ghost of Christmas Present]] knew it. The way he went after
+[[characters/ghost-of-christmas-present|Ghost of Christmas Present]] knew it. The way he went after
 that plump sister in the lace tucker, was an outrage on the
-credulity of human [[Nature|nature]]. Knocking down the [[Fire|fire]]-irons,
+credulity of human [[concepts/nature|nature]]. Knocking down the [[motifs/fire|fire]]-irons,
 tumbling over the chairs, bumping against the piano,
 smothering himself among the curtains, wherever she went,
 there went he! He always knew where the plump sister was.
@@ -2623,18 +2623,18 @@ silken rustlings, and her rapid flutterings past him, he got
 her into a corner whence there was no escape; then his
 conduct was the most execrable. For his pretending not to
 know her; his pretending that it was necessary to touch her
-head-dress, and further to assure himself of her [[Identity|identity]] by
+head-dress, and further to assure himself of her [[concepts/identity|identity]] by
 pressing a certain ring upon her finger, and a certain chain
-about her neck; was vile, monstrous! No [[Doubt|doubt]] she told
+about her neck; was vile, monstrous! No [[concepts/doubt|doubt]] she told
 him her opinion of it, when, another blind-man being in
 office, they were so very confidential together, behind the
 curtains.
 
 Scrooge's niece was not one of the blind-man's buff party,
 but was made comfortable with a large chair and a footstool,
-in a snug corner, where the [[Ghost]] and Scrooge were close
+in a snug corner, where the [[archetypes/ghost|Ghost]] and Scrooge were close
 behind her. But she joined in the forfeits, and loved her
-[[Love|love]] to admiration with all the letters of the alphabet.
+[[motifs/love|love]] to admiration with all the letters of the alphabet.
 Likewise at the game of How, When, and Where, she was
 very great, and to the secret joy of Scrooge's nephew, beat
 her sisters hollow: though they were sharp girls too, as Topper
@@ -2647,7 +2647,7 @@ for the sharpest needle, best Whitechapel, warranted not to cut
 in the eye, was not sharper than Scrooge; blunt as he took it in
 his head to be.
 
-The [[Ghost]] was greatly pleased to find him in this mood,
+The [[archetypes/ghost|Ghost]] was greatly pleased to find him in this mood,
 and looked upon him with such favour, that he begged like
 a boy to be allowed to stay until the guests departed. But
 this the Spirit said could not be done.
@@ -2658,24 +2658,24 @@ Spirit, only one!"
 It was a Game called Yes and No, where Scrooge's nephew
 had to think of something, and the rest must find out what;
 he only answering to their questions yes or no, as the case
-was. The brisk [[Fire|fire]] of questioning to which he was exposed,
+was. The brisk [[motifs/fire|fire]] of questioning to which he was exposed,
 elicited from him that he was thinking of an animal, a live
 animal, rather a disagreeable animal, a savage animal, an
 animal that growled and grunted sometimes, and talked sometimes,
-and lived in [[London]], and walked about the streets,
+and lived in [[settings/london|London]], and walked about the streets,
 and wasn't made a show of, and wasn't led by anybody, and
 didn't live in a menagerie, and was never killed in a market,
-and was not a [[Horse|horse]], or an ass, or a cow, or a bull, or a
+and was not a [[motifs/horse|horse]], or an ass, or a cow, or a bull, or a
 tiger, or a dog, or a pig, or a cat, or a bear. At every fresh
 question that was put to him, this nephew burst into a
 fresh roar of laughter; and was so inexpressibly tickled, that
 he was obliged to get up off the sofa and stamp. At last
 the plump sister, falling into a similar state, cried out:
 
-"I have found it out! I know what it is, [[Fred]]! I know
+"I have found it out! I know what it is, [[characters/fred|Fred]]! I know
 what it is!"
 
-"What is it?" cried [[Fred]].
+"What is it?" cried [[characters/fred|Fred]].
 
 "It's your Uncle Scro-o-o-o-oge!"
 
@@ -2687,11 +2687,11 @@ from Mr. Scrooge, supposing they had ever had any tendency
 that way.
 
 "He has given us plenty of merriment, I am sure," said
-[[Fred]], "and it would be ungrateful not to drink his health.
+[[characters/fred|Fred]], "and it would be ungrateful not to drink his health.
 Here is a glass of mulled wine ready to our hand at the
 moment; and I say, 'Uncle Scrooge!'"
 
-"[[Well]]! Uncle Scrooge!" they cried.
+"[[motifs/well|Well]]! Uncle Scrooge!" they cried.
 
 "A Merry Christmas and a Happy New Year to the old
 man, whatever he is!" said Scrooge's nephew. "He wouldn't
@@ -2701,38 +2701,38 @@ Scrooge!"
 Uncle Scrooge had imperceptibly become so gay and light
 of heart, that he would have pledged the unconscious
 company in return, and thanked them in an inaudible speech,
-if the [[Ghost]] had given him [[Time|time]]. But the whole scene
+if the [[archetypes/ghost|Ghost]] had given him [[motifs/time|time]]. But the whole scene
 passed off in the breath of the last word spoken by his
 nephew; and he and the Spirit were again upon their travels.
 
 Much they saw, and far they went, and many homes they
 visited, but always with a happy end. The Spirit stood
 beside sick beds, and they were cheerful; on foreign lands,
-and they were close at [[Home|home]]; by struggling men, and they
-were patient in their greater [[Hope|hope]]; by [[Poverty|poverty]], and it was
+and they were close at [[motifs/home|home]]; by struggling men, and they
+were patient in their greater [[concepts/hope|hope]]; by [[concepts/poverty|poverty]], and it was
 rich. In almshouse, hospital, and jail, in misery's every
 refuge, where vain man in his little brief authority had not
 made fast the door, and barred the Spirit out, he left his
 blessing, and taught Scrooge his precepts.
 
-It was a long [[Night|night]], if it were only a [[Night|night]]; but Scrooge
+It was a long [[motifs/night|night]], if it were only a [[motifs/night|night]]; but Scrooge
 had his doubts of this, because the Christmas Holidays appeared
-to be condensed into the space of [[Time|time]] they passed
+to be condensed into the space of [[motifs/time|time]] they passed
 together. It was strange, too, that while Scrooge remained
-unaltered in his outward form, the [[Ghost]] grew older, clearly
+unaltered in his outward form, the [[archetypes/ghost|Ghost]] grew older, clearly
 older. Scrooge had observed this change, but never spoke of
-it, until they left a children's [[Twelfth Night]] party, when,
+it, until they left a children's [[clusters/twelfth-night|Twelfth Night]] party, when,
 looking at the Spirit as they stood together in an open place,
 he noticed that its hair was grey.
 
 "Are spirits' lives so short?" asked Scrooge.
 
-"My life upon this globe, is very brief," replied the [[Ghost]].
-"It ends to-[[Night|night]]."
+"My life upon this globe, is very brief," replied the [[archetypes/ghost|Ghost]].
+"It ends to-[[motifs/night|night]]."
 
-"To-[[Night|night]]!" cried Scrooge.
+"To-[[motifs/night|night]]!" cried Scrooge.
 
-"To-[[Night|night]] at midnight. Hark! The [[Time|time]] is drawing
+"To-[[motifs/night|night]] at midnight. Hark! The [[motifs/time|time]] is drawing
 near."
 
 The chimes were ringing the three quarters past eleven at
@@ -2751,10 +2751,10 @@ wretched, abject, frightful, hideous, miserable. They knelt
 down at its feet, and clung upon the outside of its garment.
 
 "Oh, Man! look here. Look, look, down here!" exclaimed
-the [[Ghost]].
+the [[archetypes/ghost|Ghost]].
 
 They were a boy and girl. Yellow, meagre, ragged, scowling,
-wolfish; but prostrate, too, in their [[Humility|humility]]. Where
+wolfish; but prostrate, too, in their [[concepts/humility|humility]]. Where
 graceful youth should have filled their features out, and
 touched them with its freshest tints, a stale and shrivelled
 hand, like that of age, had pinched, and twisted them, and
@@ -2777,27 +2777,27 @@ This boy is Ignorance. This girl is Want. Beware them both,
 and all of their degree, but most of all beware this boy, for
 on his brow I see that written which is Doom, unless the
 writing be erased. Deny it!" cried the Spirit, stretching out
-its hand towards the [[City|city]]. "Slander those who tell it ye!
+its hand towards the [[motifs/city|city]]. "Slander those who tell it ye!
 Admit it for your factious purposes, and make it worse.
 And bide the end!"
 
 "Have they no refuge or resource?" cried Scrooge.
 
 "Are there no prisons?" said the Spirit, turning on him
-for the last [[Time|time]] with his own words. "Are there no workhouses?"
+for the last [[motifs/time|time]] with his own words. "Are there no workhouses?"
 
 The bell struck twelve.
 
-Scrooge looked about him for the [[Ghost]], and saw it not.
+Scrooge looked about him for the [[archetypes/ghost|Ghost]], and saw it not.
 As the last stroke ceased to vibrate, he remembered the
-prediction of old [[Jacob Marley]], and lifting up his eyes,
-beheld a solemn [[Phantom]], draped and hooded, coming, like
+prediction of old [[characters/jacob-marley|Jacob Marley]], and lifting up his eyes,
+beheld a solemn [[characters/phantom|Phantom]], draped and hooded, coming, like
 a mist along the ground, towards him.
 
 
 STAVE IV:  THE LAST OF THE SPIRITS
 
-THE [[Phantom]] slowly, gravely, silently, approached. When
+THE [[characters/phantom|Phantom]] slowly, gravely, silently, approached. When
 it came near him, Scrooge bent down upon his knee; for in
 the very air through which this Spirit moved it seemed to
 scatter gloom and mystery.
@@ -2805,7 +2805,7 @@ scatter gloom and mystery.
 It was shrouded in a deep black garment, which concealed
 its head, its face, its form, and left nothing of it visible
 save one outstretched hand. But for this it would have been
-difficult to detach its figure from the [[Night|night]], and separate it
+difficult to detach its figure from the [[motifs/night|night]], and separate it
 from the darkness by which it was surrounded.
 
 He felt that it was tall and stately when it came beside
@@ -2813,25 +2813,25 @@ him, and that its mysterious presence filled him with a
 solemn dread. He knew no more, for the Spirit neither
 spoke nor moved.
 
-"I am in the presence of the [[Ghost]] of Christmas Yet To
+"I am in the presence of the [[archetypes/ghost|Ghost]] of Christmas Yet To
 Come?" said Scrooge.
 
 The Spirit answered not, but pointed onward with its
 hand.
 
 "You are about to show me shadows of the things that
-have not happened, but will happen in the [[Time|time]] before us,"
+have not happened, but will happen in the [[motifs/time|time]] before us,"
 Scrooge pursued. "Is that so, Spirit?"
 
 The upper portion of the garment was contracted for an
 instant in its folds, as if the Spirit had inclined its head.
 That was the only answer he received.
 
-Although [[Well|well]] used to ghostly company by this [[Time|time]],
+Although [[motifs/well|well]] used to ghostly company by this [[motifs/time|time]],
 Scrooge feared the silent shape so much that his legs trembled
 beneath him, and he found that he could hardly stand when
 he prepared to follow it. The Spirit paused a moment, as
-observing his condition, and giving him [[Time|time]] to recover.
+observing his condition, and giving him [[motifs/time|time]] to recover.
 
 But Scrooge was all the worse for this. It thrilled him
 with a vague uncertain horror, to know that behind the
@@ -2840,9 +2840,9 @@ him, while he, though he stretched his own to the utmost,
 could see nothing but a spectral hand and one great heap
 of black.
 
-"[[Ghost]] of the Future!" he exclaimed, "I [[Fear|fear]] you more
+"[[archetypes/ghost|Ghost]] of the Future!" he exclaimed, "I [[concepts/fear|fear]] you more
 than any spectre I have seen. But as I know your purpose
-is to do me good, and as I [[Hope|hope]] to live to be another
+is to do me good, and as I [[concepts/hope|hope]] to live to be another
 man from what I was, I am prepared to bear you company,
 and do it with a thankful heart. Will you not speak
 to me?"
@@ -2850,16 +2850,16 @@ to me?"
 It gave him no reply. The hand was pointed straight
 before them.
 
-"Lead on!" said Scrooge. "Lead on! The [[Night|night]] is
-waning fast, and it is precious [[Time|time]] to me, I know. Lead
+"Lead on!" said Scrooge. "Lead on! The [[motifs/night|night]] is
+waning fast, and it is precious [[motifs/time|time]] to me, I know. Lead
 on, Spirit!"
 
-The [[Phantom]] moved away as it had come towards him.
-Scrooge followed in the [[Shadow|shadow]] of its dress, which bore him
+The [[characters/phantom|Phantom]] moved away as it had come towards him.
+Scrooge followed in the [[archetypes/shadow|shadow]] of its dress, which bore him
 up, he thought, and carried him along.
 
-They scarcely seemed to enter the [[City|city]]; for the [[City|city]] rather
-seemed to [[spring]] up about them, and encompass them of its
+They scarcely seemed to enter the [[motifs/city|city]]; for the [[motifs/city|city]] rather
+seemed to [[motifs/spring|spring]] up about them, and encompass them of its
 own act. But there they were, in the heart of it; on
 'Change, amongst the merchants; who hurried up and down,
 and chinked the money in their pockets, and conversed in
@@ -2877,7 +2877,7 @@ dead."
 
 "When did he die?" inquired another.
 
-"Last [[Night|night]], I believe."
+"Last [[motifs/night|night]], I believe."
 
 "Why, what was the matter with him?" asked a third,
 taking a vast quantity of snuff out of a very large snuff-box.
@@ -2905,7 +2905,7 @@ be fed, if I make one."
 
 Another laugh.
 
-"[[Well]], I am the most disinterested among you, after all,"
+"[[motifs/well|Well]], I am the most disinterested among you, after all,"
 said the first speaker, "for I never wear black gloves, and I
 never eat lunch. But I'll offer to go, if anybody else will.
 When I come to think of it, I'm not at all sure that I wasn't
@@ -2916,25 +2916,25 @@ Speakers and listeners strolled away, and mixed with
 other groups. Scrooge knew the men, and looked towards the
 Spirit for an explanation.
 
-The [[Phantom]] glided on into a street. Its finger pointed
+The [[characters/phantom|Phantom]] glided on into a street. Its finger pointed
 to two persons meeting. Scrooge listened again, thinking
 that the explanation might lie here.
 
 He knew these men, also, perfectly. They were men of business:
 very wealthy, and of great importance. He had made a point
-always of standing [[Well|well]] in their esteem: in a business point
+always of standing [[motifs/well|well]] in their esteem: in a business point
 of view, that is; strictly in a business point of view.
 
 "How are you?" said one.
 
 "How are you?" returned the other.
 
-"[[Well]]!" said the first. "Old Scratch has got his own at
+"[[motifs/well|Well]]!" said the first. "Old Scratch has got his own at
 last, hey?"
 
 "So I am told," returned the second. "Cold, isn't it?"
 
-"Seasonable for Christmas [[Time|time]]. You're not a skater, I
+"Seasonable for Christmas [[motifs/time|time]]. You're not a skater, I
 suppose?"
 
 "No. No. Something else to think of. Good morning!"
@@ -2947,30 +2947,30 @@ Spirit should attach importance to conversations apparently so
 trivial; but feeling assured that they must have some hidden
 purpose, he set himself to consider what it was likely to be.
 They could scarcely be supposed to have any bearing on the
-[[Death|death]] of Jacob, his old partner, for that was Past, and this
-[[Ghost]]'s province was the Future. Nor could he think of any
+[[motifs/death|death]] of Jacob, his old partner, for that was Past, and this
+[[archetypes/ghost|Ghost]]'s province was the Future. Nor could he think of any
 one immediately connected with himself, to whom he could
 apply them. But nothing doubting that to whomsoever they
 applied they had some latent moral for his own improvement,
 he resolved to treasure up every word he heard,
 and everything he saw; and especially to observe the
-[[Shadow|shadow]] of himself when it appeared. For he had an expectation
-that the conduct of his future [[Self|self]] would give him
+[[archetypes/shadow|shadow]] of himself when it appeared. For he had an expectation
+that the conduct of his future [[concepts/self|self]] would give him
 the clue he missed, and would render the solution of these
 riddles easy.
 
 He looked about in that very place for his own image; but
 another man stood in his accustomed corner, and though the
-[[Clock|clock]] pointed to his usual [[Time|time]] of day for being there, he
+[[motifs/clock|clock]] pointed to his usual [[motifs/time|time]] of day for being there, he
 saw no likeness of himself among the multitudes that poured
 in through the Porch. It gave him little surprise, however;
 for he had been revolving in his mind a change of life, and
 thought and hoped he saw his new-born resolutions carried
 out in this.
 
-Quiet and dark, beside him stood the [[Phantom]], with its
+Quiet and dark, beside him stood the [[characters/phantom|Phantom]], with its
 outstretched hand. When he roused himself from his
-thoughtful [[Quest|quest]], he fancied from the turn of the hand, and
+thoughtful [[topoi/quest|quest]], he fancied from the turn of the hand, and
 its situation in reference to himself, that the Unseen Eyes
 were looking at him keenly. It made him shudder, and feel
 very cold.
@@ -2985,12 +2985,12 @@ smell, and dirt, and life, upon the straggling streets; and the
 whole quarter reeked with crime, with filth, and misery.
 
 Far in this den of infamous resort, there was a low-browed,
-beetling shop, below a pent-[[house]] roof, where iron, old rags,
+beetling shop, below a pent-house roof, where iron, old rags,
 bottles, bones, and greasy offal, were bought. Upon the floor
-within, were piled up heaps of rusty keys, nails, [[Chains|chains]], hinges,
-files, scales, weights, and refuse iron of all kinds. [[Secrets]]
+within, were piled up heaps of rusty keys, nails, [[motifs/chains|chains]], hinges,
+files, scales, weights, and refuse iron of all kinds. [[motifs/secrets|Secrets]]
 that few would like to scrutinise were bred and hidden in
-[[Mountains|mountains]] of unseemly rags, masses of corrupted fat, and
+[[settings/mountains|mountains]] of unseemly rags, masses of corrupted fat, and
 sepulchres of bones. Sitting in among the wares he dealt in, by a
 charcoal stove, made of old bricks, was a grey-haired rascal,
 nearly seventy years of age; who had screened himself from the
@@ -2998,7 +2998,7 @@ cold air without, by a frousy curtaining of miscellaneous
 tatters, hung upon a line; and smoked his pipe in all the luxury
 of calm retirement.
 
-Scrooge and the [[Phantom]] came into the presence of this
+Scrooge and the [[characters/phantom|Phantom]] came into the presence of this
 man, just as a woman with a heavy bundle slunk into the
 shop. But she had scarcely entered, when another woman,
 similarly laden, came in too; and she was closely followed by
@@ -3008,9 +3008,9 @@ other. After a short period of blank astonishment, in which
 the old man with the pipe had joined them, they all three
 burst into a laugh.
 
-"Let the charwoman [[Alone|alone]] to be the first!" cried she who
-had entered first. "Let the laundress [[Alone|alone]] to be the second;
-and let the undertaker's man [[Alone|alone]] to be the third. Look
+"Let the charwoman alone to be the first!" cried she who
+had entered first. "Let the laundress alone to be the second;
+and let the undertaker's man alone to be the third. Look
 here, old Joe, here's a chance! If we haven't all three met
 here without meaning it!"
 
@@ -3021,12 +3021,12 @@ two an't strangers. Stop till I shut the door of the shop.
 Ah! How it skreeks! There an't such a rusty bit of metal
 in the place as its own hinges, I believe; and I'm sure there's
 no such old bones here, as mine. Ha, ha! We're all suitable
-to our calling, we're [[Well|well]] matched. Come into the
+to our calling, we're [[motifs/well|well]] matched. Come into the
 parlour. Come into the parlour."
 
 The parlour was the space behind the screen of rags. The
-old man raked the [[Fire|fire]] together with an old stair-rod, and
-having trimmed his smoky lamp (for it was [[Night|night]]), with the
+old man raked the [[motifs/fire|fire]] together with an old stair-rod, and
+having trimmed his smoky lamp (for it was [[motifs/night|night]]), with the
 stem of his pipe, put it in his mouth again.
 
 While he did this, the woman who had already spoken
@@ -3046,9 +3046,9 @@ woman; who's the wiser? We're not going to pick holes in
 each other's coats, I suppose?"
 
 "No, indeed!" said Mrs. Dilber and the man together.
-"We should [[Hope|hope]] not."
+"We should [[concepts/hope|hope]] not."
 
-"Very [[Well|well]], then!" cried the woman. "That's enough.
+"Very [[motifs/well|well]], then!" cried the woman. "That's enough.
 Who's the worse for the loss of a few things like these?
 Not a dead man, I suppose."
 
@@ -3057,8 +3057,8 @@ Not a dead man, I suppose."
 "If he wanted to keep 'em after he was dead, a wicked old
 screw," pursued the woman, "why wasn't he natural in his
 lifetime? If he had been, he'd have had somebody to look
-after him when he was struck with [[Death]], instead of lying
-gasping out his last there, [[Alone|alone]] by himself."
+after him when he was struck with [[motifs/death|Death]], instead of lying
+gasping out his last there, alone by himself."
 
 "It's the truest word that ever was spoke," said Mrs.
 Dilber. "It's a judgment on him."
@@ -3068,7 +3068,7 @@ woman; "and it should have been, you may depend upon it,
 if I could have laid my hands on anything else. Open that
 bundle, old Joe, and let me know the value of it. Speak out
 plain. I'm not afraid to be the first, nor afraid for them to
-see it. We know pretty [[Well|well]] that we were helping ourselves,
+see it. We know pretty [[motifs/well|well]] that we were helping ourselves,
 before we met here, I believe. It's no sin. Open the bundle,
 Joe."
 
@@ -3094,7 +3094,7 @@ in the same manner.
 and that's the way I ruin myself," said old Joe. "That's
 your account. If you asked me for another penny, and made
 it an open question, I'd repent of being so liberal and knock
-off half-a-[[Crown|crown]]."
+off half-a-[[motifs/crown|crown]]."
 
 "And now undo my bundle, Joe," said the first woman.
 
@@ -3125,7 +3125,7 @@ drop that oil upon the blankets, now."
 "Whose else's do you think?" replied the woman. "He
 isn't likely to take cold without 'em, I dare say."
 
-"I [[Hope|hope]] he didn't die of anything catching? Eh?" said
+"I [[concepts/hope|hope]] he didn't die of anything catching? Eh?" said
 old Joe, stopping in his work, and looking up.
 
 "Don't you be afraid of that," returned the woman. "I
@@ -3138,10 +3138,10 @@ They'd have wasted it, if it hadn't been for me."
 "What do you call wasting of it?" asked old Joe.
 
 "Putting it on him to be buried in, to be sure," replied
-the woman with a laugh. "Somebody was [[Fool|fool]] enough to
+the woman with a laugh. "Somebody was [[archetypes/fool|fool]] enough to
 do it, but I took it off again. If calico an't good enough for
 such a purpose, it isn't good enough for anything. It's quite
-as becoming to the [[Body|body]]. He can't look uglier than he did
+as becoming to the [[concepts/body|body]]. He can't look uglier than he did
 in that one."
 
 Scrooge listened to this dialogue in horror. As they sat
@@ -3172,9 +3172,9 @@ any accuracy, though Scrooge glanced round it in obedience
 to a secret impulse, anxious to know what kind of room it
 was. A pale light, rising in the outer air, fell straight upon
 the bed; and on it, plundered and bereft, unwatched, unwept,
-uncared for, was the [[Body|body]] of this man.
+uncared for, was the [[concepts/body|body]] of this man.
 
-Scrooge glanced towards the [[Phantom]]. Its steady hand
+Scrooge glanced towards the [[characters/phantom|Phantom]]. Its steady hand
 was pointed to the head. The cover was so carelessly adjusted
 that the slightest raising of it, the motion of a finger upon
 Scrooge's part, would have disclosed the face. He thought
@@ -3182,7 +3182,7 @@ of it, felt how easy it would be to do, and longed to do it;
 but had no more power to withdraw the veil than to dismiss
 the spectre at his side.
 
-Oh cold, cold, rigid, dreadful [[Death]], set up thine altar
+Oh cold, cold, rigid, dreadful [[motifs/death|Death]], set up thine altar
 here, and dress it with such terrors as thou hast at thy
 command: for this is thy dominion! But of the loved,
 revered, and honoured head, thou canst not turn one hair
@@ -3190,7 +3190,7 @@ to thy dread purposes, or make one feature odious. It is
 not that the hand is heavy and will fall down when released;
 it is not that the heart and pulse are still; but that the
 hand WAS open, generous, and true; the heart brave, warm,
-and tender; and the pulse a man's. Strike, [[Shadow]], strike!
+and tender; and the pulse a man's. Strike, [[archetypes/shadow|Shadow]], strike!
 And see his good deeds springing from the wound, to sow
 the world with life immortal!
 
@@ -3200,18 +3200,18 @@ thought, if this man could be raised up now, what would be
 his foremost thoughts? Avarice, hard-dealing, griping cares?
 They have brought him to a rich end, truly!
 
-He lay, in the dark empty [[house]], with not a man, a
-woman, or a [[Child|child]], to say that he was kind to me in this
-or that, and for the [[Memory|memory]] of one kind word I will be
+He lay, in the dark empty house, with not a man, a
+woman, or a [[archetypes/child|child]], to say that he was kind to me in this
+or that, and for the [[motifs/memory|memory]] of one kind word I will be
 kind to him. A cat was tearing at the door, and there was
 a sound of gnawing rats beneath the hearth-stone. What
-they wanted in the room of [[Death|death]], and why they were so
+they wanted in the room of [[motifs/death|death]], and why they were so
 restless and disturbed, Scrooge did not dare to think.
 
 "Spirit!" he said, "this is a fearful place. In leaving it,
 I shall not leave its lesson, trust me. Let us go!"
 
-Still the [[Ghost]] pointed with an unmoved finger to the
+Still the [[archetypes/ghost|Ghost]] pointed with an unmoved finger to the
 head.
 
 "I understand you," Scrooge returned, "and I would do
@@ -3221,16 +3221,16 @@ not the power."
 Again it seemed to look upon him.
 
 "If there is any person in the town, who feels emotion
-caused by this man's [[Death|death]]," said Scrooge quite agonised,
+caused by this man's [[motifs/death|death]]," said Scrooge quite agonised,
 "show that person to me, Spirit, I beseech you!"
 
-The [[Phantom]] spread its dark robe before him for a
+The [[characters/phantom|Phantom]] spread its dark robe before him for a
 moment, like a wing; and withdrawing it, revealed a room
 by daylight, where a mother and her children were.
 
 She was expecting some one, and with anxious eagerness;
 for she walked up and down the room; started at every
-sound; looked out from the [[Window|window]]; glanced at the [[Clock|clock]];
+sound; looked out from the [[motifs/window|window]]; glanced at the [[motifs/clock|clock]];
 tried, but in vain, to work with her needle; and could hardly
 bear the voices of the children in their play.
 
@@ -3241,8 +3241,8 @@ a remarkable expression in it now; a kind of serious delight
 of which he felt ashamed, and which he struggled to repress.
 
 He sat down to the dinner that had been hoarding for
-him by the [[Fire|fire]]; and when she asked him faintly what news
-(which was not until after a long [[Silence|silence]]), he appeared
+him by the [[motifs/fire|fire]]; and when she asked him faintly what news
+(which was not until after a long [[motifs/silence|silence]]), he appeared
 embarrassed how to answer.
 
 "Is it good?" she said, "or bad?"--to help him.
@@ -3251,56 +3251,56 @@ embarrassed how to answer.
 
 "We are quite ruined?"
 
-"No. There is [[Hope|hope]] yet, Caroline."
+"No. There is [[concepts/hope|hope]] yet, Caroline."
 
 "If he relents," she said, amazed, "there is! Nothing is
-past [[Hope|hope]], if such a miracle has happened."
+past [[concepts/hope|hope]], if such a miracle has happened."
 
 "He is past relenting," said her husband. "He is dead."
 
 She was a mild and patient creature if her face spoke
-[[Truth|truth]]; but she was thankful in her [[Soul|soul]] to hear it, and she
-said so, with clasped hands. She prayed [[Forgiveness|forgiveness]] the next
+[[concepts/truth|truth]]; but she was thankful in her [[motifs/soul|soul]] to hear it, and she
+said so, with clasped hands. She prayed [[concepts/forgiveness|forgiveness]] the next
 moment, and was sorry; but the first was the emotion of
 her heart.
 
 "What the half-drunken woman whom I told you of last
-[[Night|night]], said to me, when I tried to see him and obtain a
+[[motifs/night|night]], said to me, when I tried to see him and obtain a
 week's delay; and what I thought was a mere excuse to avoid
 me; turns out to have been quite true. He was not only
 very ill, but dying, then."
 
 "To whom will our debt be transferred?"
 
-"I don't know. But before that [[Time|time]] we shall be ready
+"I don't know. But before that [[motifs/time|time]] we shall be ready
 with the money; and even though we were not, it would be
 a bad fortune indeed to find so merciless a creditor in his
-successor. We may [[Sleep|sleep]] to-[[Night|night]] with light hearts, Caroline!"
+successor. We may [[motifs/sleep|sleep]] to-[[motifs/night|night]] with light hearts, Caroline!"
 
 Yes. Soften it as they would, their hearts were lighter.
 The children's faces, hushed and clustered round to hear what
 they so little understood, were brighter; and it was a happier
-[[house]] for this man's [[Death|death]]! The only emotion that the
-[[Ghost]] could show him, caused by the event, was one of
+house for this man's [[motifs/death|death]]! The only emotion that the
+[[archetypes/ghost|Ghost]] could show him, caused by the event, was one of
 pleasure.
 
-"Let me see some tenderness connected with a [[Death|death]]," said
+"Let me see some tenderness connected with a [[motifs/death|death]]," said
 Scrooge; "or that dark chamber, Spirit, which we left just
 now, will be for ever present to me."
 
-The [[Ghost]] conducted him through several streets familiar
+The [[archetypes/ghost|Ghost]] conducted him through several streets familiar
 to his feet; and as they went along, Scrooge looked here and
 there to find himself, but nowhere was he to be seen. They
-entered poor [[Bob Cratchit]]'s [[house]]; the dwelling he had
+entered poor [[characters/bob-cratchit|Bob Cratchit]]'s house; the dwelling he had
 visited before; and found the mother and the children seated
-round the [[Fire|fire]].
+round the [[motifs/fire|fire]].
 
 Quiet. Very quiet. The noisy little Cratchits were as
 still as statues in one corner, and sat looking up at Peter,
 who had a book before him. The mother and her daughters
 were engaged in sewing. But surely they were very quiet!
 
-"'And He took a [[Child|child]], and set him in the midst of
+"'And He took a [[archetypes/child|child]], and set him in the midst of
 them.'"
 
 Where had Scrooge heard those words? He had not
@@ -3313,12 +3313,12 @@ hand up to her face.
 
 "The colour hurts my eyes," she said.
 
-The colour? Ah, poor [[Tiny Tim]]!
+The colour? Ah, poor [[characters/tiny-tim|Tiny Tim]]!
 
 "They're better now again," said Cratchit's wife. "It
 makes them weak by candle-light; and I wouldn't show weak
-eyes to your father when he comes [[Home|home]], for the world. It
-must be near his [[Time|time]]."
+eyes to your father when he comes [[motifs/home|home]], for the world. It
+must be near his [[motifs/time|time]]."
 
 "Past it rather," Peter answered, shutting up his book.
 "But I think he has walked a little slower than he used,
@@ -3328,7 +3328,7 @@ They were very quiet again. At last she said, and in a
 steady, cheerful voice, that only faltered once:
 
 "I have known him walk with--I have known him walk
-with [[Tiny Tim]] upon his shoulder, very fast indeed."
+with [[characters/tiny-tim|Tiny Tim]] upon his shoulder, very fast indeed."
 
 "And so have I," cried Peter. "Often."
 
@@ -3342,37 +3342,37 @@ She hurried out to meet him; and little Bob in his comforter
 --he had need of it, poor fellow--came in. His tea
 was ready for him on the hob, and they all tried who should
 help him to it most. Then the two young Cratchits got
-upon his knees and laid, each [[Child|child]] a little cheek, against
+upon his knees and laid, each [[archetypes/child|child]] a little cheek, against
 his face, as if they said, "Don't mind it, father. Don't be
 grieved!"
 
 Bob was very cheerful with them, and spoke pleasantly to
 all the family. He looked at the work upon the table, and
-praised the industry and [[Speed|speed]] of Mrs. Cratchit and the girls.
-They would be done long before [[Sunday]], he said.
+praised the industry and [[characters/speed|speed]] of Mrs. Cratchit and the girls.
+They would be done long before [[characters/sunday|Sunday]], he said.
 
-"[[Sunday]]! You went to-day, then, Robert?" said his
+"[[characters/sunday|Sunday]]! You went to-day, then, Robert?" said his
 wife.
 
 "Yes, my dear," returned Bob. "I wish you could have
 gone. It would have done you good to see how green a
 place it is. But you'll see it often. I promised him that I
-would walk there on a [[Sunday]]. My little, little [[Child|child]]!"
-cried Bob. "My little [[Child|child]]!"
+would walk there on a [[characters/sunday|Sunday]]. My little, little [[archetypes/child|child]]!"
+cried Bob. "My little [[archetypes/child|child]]!"
 
 He broke down all at once. He couldn't help it. If he
-could have helped it, he and his [[Child|child]] would have been farther
+could have helped it, he and his [[archetypes/child|child]] would have been farther
 apart perhaps than they were.
 
 He left the room, and went up-stairs into the room above,
 which was lighted cheerfully, and hung with Christmas.
-There was a chair set close beside the [[Child|child]], and there were
+There was a chair set close beside the [[archetypes/child|child]], and there were
 signs of some one having been there, lately. Poor Bob sat
 down in it, and when he had thought a little and composed
 himself, he kissed the little face. He was reconciled to what
 had happened, and went down again quite happy.
 
-They drew about the [[Fire|fire]], and talked; the girls and mother
+They drew about the [[motifs/fire|fire]], and talked; the girls and mother
 working still. Bob told them of the extraordinary kindness
 of Mr. Scrooge's nephew, whom he had scarcely seen but
 once, and who, meeting him in the street that day, and seeing
@@ -3389,16 +3389,16 @@ By the bye, how he ever knew that, I don't know."
 
 "Everybody knows that!" said Peter.
 
-"Very [[Well|well]] observed, my boy!" cried Bob. "I [[Hope|hope]] they
+"Very [[motifs/well|well]] observed, my boy!" cried Bob. "I [[concepts/hope|hope]] they
 do. 'Heartily sorry,' he said, 'for your good wife. If I
 can be of service to you in any way,' he said, giving me
 his card, 'that's where I live. Pray come to me.' Now, it
 wasn't," cried Bob, "for the sake of anything he might be
 able to do for us, so much as for his kind way, that this was
 quite delightful. It really seemed as if he had known our
-[[Tiny Tim]], and felt with us."
+[[characters/tiny-tim|Tiny Tim]], and felt with us."
 
-"I'm sure he's a good [[Soul|soul]]!" said Mrs. Cratchit.
+"I'm sure he's a good [[motifs/soul|soul]]!" said Mrs. Cratchit.
 
 "You would be surer of it, my dear," returned Bob, "if
 you saw and spoke to him. I shouldn't be at all surprised--
@@ -3412,17 +3412,17 @@ company with some one, and setting up for himself."
 "Get along with you!" retorted Peter, grinning.
 
 "It's just as likely as not," said Bob, "one of these days;
-though there's plenty of [[Time|time]] for that, my dear. But however
+though there's plenty of [[motifs/time|time]] for that, my dear. But however
 and whenever we part from one another, I am sure we
-shall none of us forget poor [[Tiny Tim]]--shall we--or this
+shall none of us forget poor [[characters/tiny-tim|Tiny Tim]]--shall we--or this
 first parting that there was among us?"
 
 "Never, father!" cried they all.
 
 "And I know," said Bob, "I know, my dears, that when
 we recollect how patient and how mild he was; although he
-was a little, little [[Child|child]]; we shall not quarrel easily among
-ourselves, and forget poor [[Tiny Tim]] in doing it."
+was a little, little [[archetypes/child|child]]; we shall not quarrel easily among
+ourselves, and forget poor [[characters/tiny-tim|Tiny Tim]] in doing it."
 
 "No, never, father!" they all cried again.
 
@@ -3430,37 +3430,37 @@ ourselves, and forget poor [[Tiny Tim]] in doing it."
 
 Mrs. Cratchit kissed him, his daughters kissed him, the
 two young Cratchits kissed him, and Peter and himself shook
-hands. Spirit of [[Tiny Tim]], thy childish essence was from
+hands. Spirit of [[characters/tiny-tim|Tiny Tim]], thy childish essence was from
 God!
 
 "Spectre," said Scrooge, "something informs me that our
 parting moment is at hand. I know it, but I know not
 how. Tell me what man that was whom we saw lying dead?"
 
-The [[Ghost of Christmas Yet to Come|Ghost of Christmas Yet To Come]] conveyed him, as
-before--though at a different [[Time|time]], he thought: indeed, there
+The [[characters/ghost-of-christmas-yet-to-come|Ghost of Christmas Yet To Come]] conveyed him, as
+before--though at a different [[motifs/time|time]], he thought: indeed, there
 seemed no order in these latter visions, save that they were
 in the Future--into the resorts of business men, but showed
 him not himself. Indeed, the Spirit did not stay for anything,
 but went straight on, as to the end just now desired,
 until besought by Scrooge to tarry for a moment.
 
-"This [[Court|court]]," said Scrooge, "through which we hurry now,
+"This [[settings/court|court]]," said Scrooge, "through which we hurry now,
 is where my place of occupation is, and has been for a length
-of [[Time|time]]. I see the [[house]]. Let me behold what I shall be,
+of [[motifs/time|time]]. I see the house. Let me behold what I shall be,
 in days to come!"
 
 The Spirit stopped; the hand was pointed elsewhere.
 
-"The [[house]] is yonder," Scrooge exclaimed. "Why do you
+"The house is yonder," Scrooge exclaimed. "Why do you
 point away?"
 
 The inexorable finger underwent no change.
 
-Scrooge hastened to the [[Window|window]] of his office, and looked
+Scrooge hastened to the [[motifs/window|window]] of his office, and looked
 in. It was an office still, but not his. The furniture was
 not the same, and the figure in the chair was not himself.
-The [[Phantom]] pointed as before.
+The [[characters/phantom|Phantom]] pointed as before.
 
 He joined it once again, and wondering why and whither
 he had gone, accompanied it until they reached an iron gate.
@@ -3469,12 +3469,12 @@ He paused to look round before entering.
 A churchyard. Here, then; the wretched man whose name
 he had now to learn, lay underneath the ground. It was a
 worthy place. Walled in by houses; overrun by grass and
-weeds, the growth of vegetation's [[Death|death]], not life; choked up
+weeds, the growth of vegetation's [[motifs/death|death]], not life; choked up
 with too much burying; fat with repleted appetite. A
 worthy place!
 
 The Spirit stood among the graves, and pointed down to
-One. He advanced towards it trembling. The [[Phantom]] was
+One. He advanced towards it trembling. The [[characters/phantom|Phantom]] was
 exactly as it had been, but he dreaded that he saw new
 meaning in its solemn shape.
 
@@ -3483,7 +3483,7 @@ said Scrooge, "answer me one question. Are these the
 shadows of the things that Will be, or are they shadows of
 things that May be, only?"
 
-Still the [[Ghost]] pointed downward to the [[Grave|grave]] by which
+Still the [[archetypes/ghost|Ghost]] pointed downward to the [[motifs/grave|grave]] by which
 it stood.
 
 "Men's courses will foreshadow certain ends, to which, if
@@ -3495,12 +3495,12 @@ The Spirit was immovable as ever.
 
 Scrooge crept towards it, trembling as he went; and
 following the finger, read upon the stone of the neglected
-[[Grave|grave]] his own name, [[Ebenezer Scrooge|EBENEZER SCROOGE]].
+[[motifs/grave|grave]] his own name, [[characters/ebenezer-scrooge|EBENEZER SCROOGE]].
 
 "Am I that man who lay upon the bed?" he cried, upon
 his knees.
 
-The finger pointed from the [[Grave|grave]] to him, and back again.
+The finger pointed from the [[motifs/grave|grave]] to him, and back again.
 
 "No, Spirit! Oh no, no!"
 
@@ -3509,18 +3509,18 @@ The finger still was there.
 "Spirit!" he cried, tight clutching at its robe, "hear me!
 I am not the man I was. I will not be the man I must
 have been but for this intercourse. Why show me this, if I
-am past all [[Hope|hope]]!"
+am past all [[concepts/hope|hope]]!"
 
-For the first [[Time|time]] the hand appeared to shake.
+For the first [[motifs/time|time]] the hand appeared to shake.
 
 "Good Spirit," he pursued, as down upon the ground he
-fell before it: "Your [[Nature|nature]] intercedes for me, and pities
+fell before it: "Your [[concepts/nature|nature]] intercedes for me, and pities
 me. Assure me that I yet may change these shadows you
 have shown me, by an altered life!"
 
 The kind hand trembled.
 
-"I will [[Honour|honour]] Christmas in my heart, and try to keep it
+"I will [[concepts/honour|honour]] Christmas in my heart, and try to keep it
 all the year. I will live in the Past, the Present, and the
 Future. The Spirits of all Three shall strive within me. I
 will not shut out the lessons that they teach. Oh, tell me I
@@ -3530,27 +3530,27 @@ In his agony, he caught the spectral hand. It sought to
 free itself, but he was strong in his entreaty, and detained it.
 The Spirit, stronger yet, repulsed him.
 
-Holding up his hands in a last [[prayer]] to have his fate
-reversed, he saw an alteration in the [[Phantom]]'s hood and dress.
+Holding up his hands in a last [[motifs/prayer|prayer]] to have his fate
+reversed, he saw an alteration in the [[characters/phantom|Phantom]]'s hood and dress.
 It shrunk, collapsed, and dwindled down into a bedpost.
 
 
 STAVE V:  THE END OF IT
 
 YES! and the bedpost was his own. The bed was his own,
-the room was his own. Best and happiest of all, the [[Time]]
+the room was his own. Best and happiest of all, the [[motifs/time|Time]]
 before him was his own, to make amends in!
 
 "I will live in the Past, the Present, and the Future!"
 Scrooge repeated, as he scrambled out of bed. "The Spirits
-of all Three shall strive within me. Oh [[Jacob Marley]]!
-Heaven, and the Christmas [[Time]] be praised for this! I say
+of all Three shall strive within me. Oh [[characters/jacob-marley|Jacob Marley]]!
+Heaven, and the Christmas [[motifs/time|Time]] be praised for this! I say
 it on my knees, old Jacob; on my knees!"
 
 He was so fluttered and so glowing with his good intentions,
 that his broken voice would scarcely answer to his
 call. He had been sobbing violently in his conflict with the
-Spirit, and his face was wet with [[Tears|tears]].
+Spirit, and his face was wet with [[motifs/tears|tears]].
 
 "They are not torn down," cried Scrooge, folding one of
 his bed-curtains in his arms, "they are not torn down, rings
@@ -3558,7 +3558,7 @@ and all. They are here--I am here--the shadows of the
 things that would have been, may be dispelled. They will
 be. I know they will!"
 
-His hands were busy with his garments all this [[Time|time]];
+His hands were busy with his garments all this [[motifs/time|time]];
 turning them inside out, putting them on upside down,
 tearing them, mislaying them, making them parties to every
 kind of extravagance.
@@ -3576,9 +3576,9 @@ there: perfectly winded.
 
 "There's the saucepan that the gruel was in!" cried
 Scrooge, starting off again, and going round the fireplace.
-"There's the door, by which the [[Ghost]] of [[Jacob Marley]]
-entered! There's the corner where the [[Ghost]] of Christmas
-Present, sat! There's the [[Window|window]] where I saw the wandering
+"There's the door, by which the [[archetypes/ghost|Ghost]] of [[characters/jacob-marley|Jacob Marley]]
+entered! There's the corner where the [[archetypes/ghost|Ghost]] of Christmas
+Present, sat! There's the [[motifs/window|window]] where I saw the wandering
 Spirits! It's all right, it's all true, it all happened.
 Ha ha ha!"
 
@@ -3597,24 +3597,24 @@ out the lustiest peals he had ever heard. Clash, clang,
 hammer; ding, dong, bell. Bell, dong, ding; hammer, clang,
 clash! Oh, glorious, glorious!
 
-Running to the [[Window|window]], he opened it, and put out his
+Running to the [[motifs/window|window]], he opened it, and put out his
 head. No fog, no mist; clear, bright, jovial, stirring, cold;
-cold, piping for the [[Blood|blood]] to [[Dance|dance]] to; Golden sunlight;
-Heavenly sky; sweet fresh air; merry [[Bells|bells]]. Oh, glorious!
+cold, piping for the [[motifs/blood|blood]] to [[motifs/dance|dance]] to; Golden sunlight;
+Heavenly sky; sweet fresh air; merry [[motifs/bells|bells]]. Oh, glorious!
 Glorious!
 
 "What's to-day!" cried Scrooge, calling downward to a
-boy in [[Sunday]] clothes, who perhaps had loitered in to look
+boy in [[characters/sunday|Sunday]] clothes, who perhaps had loitered in to look
 about him.
 
-"EH?" returned the boy, with all his might of [[Wonder|wonder]].
+"EH?" returned the boy, with all his might of [[concepts/wonder|wonder]].
 
 "What's to-day, my fine fellow?" said Scrooge.
 
 "To-day!" replied the boy. "Why, CHRISTMAS DAY."
 
 "It's Christmas Day!" said Scrooge to himself. "I
-haven't missed it. The Spirits have done it all in one [[Night|night]].
+haven't missed it. The Spirits have done it all in one [[motifs/night|night]].
 They can do anything they like. Of course they can. Of
 course they can. Hallo, my fine fellow!"
 
@@ -3623,7 +3623,7 @@ course they can. Hallo, my fine fellow!"
 "Do you know the Poulterer's, in the next street but one,
 at the corner?" Scrooge inquired.
 
-"I should [[Hope|hope]] I did," replied the lad.
+"I should [[concepts/hope|hope]] I did," replied the lad.
 
 "An intelligent boy!" said Scrooge. "A remarkable boy!
 Do you know whether they've sold the prize Turkey that
@@ -3645,14 +3645,14 @@ to talk to him. Yes, my buck!"
 it, and tell 'em to bring it here, that I may give them the
 direction where to take it. Come back with the man, and
 I'll give you a shilling. Come back with him in less than
-five minutes and I'll give you half-a-[[Crown|crown]]!"
+five minutes and I'll give you half-a-[[motifs/crown|crown]]!"
 
 The boy was off like a shot. He must have had a steady
 hand at a trigger who could have got a shot off half so fast.
 
-"I'll send it to [[Bob Cratchit]]'s!" whispered Scrooge,
+"I'll send it to [[characters/bob-cratchit|Bob Cratchit]]'s!" whispered Scrooge,
 rubbing his hands, and splitting with a laugh. "He sha'n't
-know who sends it. It's twice the size of [[Tiny Tim]]. Joe
+know who sends it. It's twice the size of [[characters/tiny-tim|Tiny Tim]]. Joe
 Miller never made such a joke as sending it to Bob's
 will be!"
 
@@ -3662,7 +3662,7 @@ open the street door, ready for the coming of the poulterer's
 man. As he stood there, waiting his arrival, the knocker
 caught his eye.
 
-"I shall [[Love|love]] it, as long as I live!" cried Scrooge, patting
+"I shall [[motifs/love|love]] it, as long as I live!" cried Scrooge, patting
 it with his hand. "I scarcely ever looked at it before.
 What an honest expression it has in its face! It's a
 wonderful knocker!--Here's the Turkey! Hallo! Whoop!
@@ -3684,13 +3684,13 @@ chuckled till he cried.
 
 Shaving was not an easy task, for his hand continued to
 shake very much; and shaving requires attention, even when
-you don't [[Dance|dance]] while you are at it. But if he had cut the
+you don't [[motifs/dance|dance]] while you are at it. But if he had cut the
 end of his nose off, he would have put a piece of
 sticking-plaister over it, and been quite satisfied.
 
 He dressed himself "all in his best," and at last got out
-into the streets. The people were by this [[Time|time]] pouring forth,
-as he had seen them with the [[Ghost of Christmas Present]];
+into the streets. The people were by this [[motifs/time|time]] pouring forth,
+as he had seen them with the [[characters/ghost-of-christmas-present|Ghost of Christmas Present]];
 and walking with his hands behind him, Scrooge regarded
 every one with a delighted smile. He looked so irresistibly
 pleasant, in a word, that three or four good-humoured fellows
@@ -3700,19 +3700,19 @@ sounds he had ever heard, those were the blithest in his ears.
 
 He had not gone far, when coming on towards him he
 beheld the portly gentleman, who had walked into his
-counting-[[house]] the day before, and said, "Scrooge and Marley's, I
+counting-house the day before, and said, "Scrooge and Marley's, I
 believe?"  It sent a pang across his heart to think how this
 old gentleman would look upon him when they met; but he
 knew what path lay straight before him, and he took it.
 
 "My dear sir," said Scrooge, quickening his pace, and
 taking the old gentleman by both his hands. "How do you
-do? I [[Hope|hope]] you succeeded yesterday. It was very kind of
+do? I [[concepts/hope|hope]] you succeeded yesterday. It was very kind of
 you. A merry Christmas to you, sir!"
 
 "Mr. Scrooge?"
 
-"Yes," said Scrooge. "That is my name, and I [[Fear|fear]] it
+"Yes," said Scrooge. "That is my name, and I [[concepts/fear|fear]] it
 may not be pleasant to you. Allow me to ask your pardon.
 And will you have the goodness"--here Scrooge whispered in
 his ear.
@@ -3743,18 +3743,18 @@ the kitchens of houses, and up to the windows, and found
 that everything could yield him pleasure. He had never
 dreamed that any walk--that anything--could give him so
 much happiness. In the afternoon he turned his steps
-towards his nephew's [[house]].
+towards his nephew's house.
 
 He passed the door a dozen times, before he had the
-[[Courage|courage]] to go up and knock. But he made a dash, and
+[[concepts/courage|courage]] to go up and knock. But he made a dash, and
 did it:
 
-"Is your master at [[Home|home]], my dear?" said Scrooge to the
+"Is your master at [[motifs/home|home]], my dear?" said Scrooge to the
 girl. Nice girl! Very.
 
 "Yes, sir."
 
-"Where is he, my [[Love|love]]?" said Scrooge.
+"Where is he, my [[motifs/love|love]]?" said Scrooge.
 
 "He's in the dining-room, sir, along with mistress. I'll
 show you up-stairs, if you please."
@@ -3767,20 +3767,20 @@ They were looking at the table (which was spread out in
 great array); for these young housekeepers are always nervous
 on such points, and like to see that everything is right.
 
-"[[Fred]]!" said Scrooge.
+"[[characters/fred|Fred]]!" said Scrooge.
 
-Dear heart alive, how his niece by [[Marriage|marriage]] started!
+Dear heart alive, how his niece by [[motifs/marriage|marriage]] started!
 Scrooge had forgotten, for the moment, about her sitting
 in the corner with the footstool, or he wouldn't have done
 it, on any account.
 
-"Why bless my [[Soul|soul]]!" cried [[Fred]], "who's that?"
+"Why bless my [[motifs/soul|soul]]!" cried [[characters/fred|Fred]], "who's that?"
 
 "It's I. Your uncle Scrooge. I have come to dinner.
-Will you let me in, [[Fred]]?"
+Will you let me in, [[characters/fred|Fred]]?"
 
-Let him in! It is a [[Mercy|mercy]] he didn't shake his arm off.
-He was at [[Home|home]] in five minutes. Nothing could be heartier.
+Let him in! It is a [[concepts/mercy|mercy]] he didn't shake his arm off.
+He was at [[motifs/home|home]] in five minutes. Nothing could be heartier.
 His niece looked just the same. So did Topper when he
 came. So did the plump sister when she came. So did
 every one when they came. Wonderful party, wonderful
@@ -3791,20 +3791,20 @@ early there. If he could only be there first, and catch Bob
 Cratchit coming late! That was the thing he had set his
 heart upon.
 
-And he did it; yes, he did! The [[Clock|clock]] struck nine. No
+And he did it; yes, he did! The [[motifs/clock|clock]] struck nine. No
 Bob. A quarter past. No Bob. He was full eighteen
-minutes and a half behind his [[Time|time]]. Scrooge sat with his
+minutes and a half behind his [[motifs/time|time]]. Scrooge sat with his
 door wide open, that he might see him come into the Tank.
 
 His hat was off, before he opened the door; his comforter
 too. He was on his stool in a jiffy; driving away with his
-pen, as if he were trying to overtake nine o'[[Clock|clock]].
+pen, as if he were trying to overtake nine o'[[motifs/clock|clock]].
 
 "Hallo!" growled Scrooge, in his accustomed voice, as
 near as he could feign it. "What do you mean by coming
-here at this [[Time|time]] of day?"
+here at this [[motifs/time|time]] of day?"
 
-"I am very sorry, sir," said Bob. "I am behind my [[Time|time]]."
+"I am very sorry, sir," said Bob. "I am behind my [[motifs/time|time]]."
 
 "You are?" repeated Scrooge. "Yes. I think you are.
 Step this way, sir, if you please."
@@ -3822,7 +3822,7 @@ salary!"
 
 Bob trembled, and got a little nearer to the ruler. He
 had a momentary idea of knocking Scrooge down with it,
-holding him, and calling to the people in the [[Court|court]] for help
+holding him, and calling to the people in the [[settings/court|court]] for help
 and a strait-waistcoat.
 
 "A merry Christmas, Bob!" said Scrooge, with an earnestness
@@ -3832,20 +3832,20 @@ have given you, for many a year! I'll raise your salary, and
 endeavour to assist your struggling family, and we will discuss
 your affairs this very afternoon, over a Christmas bowl of
 smoking bishop, Bob! Make up the fires, and buy another
-coal-scuttle before you dot another i, [[Bob Cratchit]]!"
+coal-scuttle before you dot another i, [[characters/bob-cratchit|Bob Cratchit]]!"
 
 
 Scrooge was better than his word. He did it all, and
-infinitely more; and to [[Tiny Tim]], who did NOT die, he was
+infinitely more; and to [[characters/tiny-tim|Tiny Tim]], who did NOT die, he was
 a second father. He became as good a friend, as good a
-master, and as good a man, as the good old [[City|city]] knew, or
-any other good old [[City|city]], town, or borough, in the good old
+master, and as good a man, as the good old [[motifs/city|city]] knew, or
+any other good old [[motifs/city|city]], town, or borough, in the good old
 world. Some people laughed to see the alteration in him,
 but he let them laugh, and little heeded them; for he was
 wise enough to know that nothing ever happened on this
 globe, for good, at which some people did not have their fill
 of laughter in the outset; and knowing that such as these
-would be blind anyway, he thought it quite as [[Well|well]] that they
+would be blind anyway, he thought it quite as [[motifs/well|well]] that they
 should wrinkle up their eyes in grins, as have the malady in
 less attractive forms. His own heart laughed: and that was
 quite enough for him.
@@ -3853,8 +3853,8 @@ quite enough for him.
 He had no further intercourse with Spirits, but lived upon
 the Total Abstinence Principle, ever afterwards; and it was
 always said of him, that he knew how to keep Christmas
-[[Well|well]], if any man alive possessed the knowledge. May that
-be truly said of us, and all of us! And so, as [[Tiny Tim]]
+[[motifs/well|well]], if any man alive possessed the knowledge. May that
+be truly said of us, and all of us! And so, as [[characters/tiny-tim|Tiny Tim]]
 observed, God bless Us, Every One!
 
 
@@ -3863,9 +3863,9 @@ observed, God bless Us, Every One!
 <span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_01" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 1)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="archetype/ghost,motif/city,motif/clock,motif/fire,motif/frost,motif/nature,motif/night,motif/snow,motif/time,motif/wind,concept/doubt,concept/imagination,concept/nature,concept/self,setting/court,character/hamlet"></span>
 
 
-STAVE I:  MARLEY'S [[Ghost|GHOST]]
+STAVE I:  MARLEY'S [[archetypes/ghost|GHOST]]
 
-MARLEY was dead: to begin with. There is no [[Doubt|doubt]]
+MARLEY was dead: to begin with. There is no [[concepts/doubt|doubt]]
 whatever about that. The register of his burial was
 signed by the clergyman, the clerk, the undertaker,
 and the chief mourner. Scrooge signed it: and
@@ -3894,13 +3894,13 @@ man of business on the very day of the funeral,
 and solemnised it with an undoubted bargain.
 
 The mention of Marley's funeral brings me back to
-the point I started from. There is no [[Doubt|doubt]] that Marley
+the point I started from. There is no [[concepts/doubt|doubt]] that Marley
 was dead. This must be distinctly understood, or
 nothing wonderful can come of the story I am going
 to relate. If we were not perfectly convinced that
-[[Hamlet]]'s Father died before the play began, there
+[[characters/hamlet|Hamlet]]'s Father died before the play began, there
 would be nothing more remarkable in his taking a
-stroll at [[Night|night]], in an easterly [[Wind|wind]], upon his own ramparts,
+stroll at [[motifs/night|night]], in an easterly [[motifs/wind|wind]], upon his own ramparts,
 than there would be in any other middle-aged
 gentleman rashly turning out after dark in a breezy
 spot--say Saint Paul's Churchyard for instance--
@@ -3917,8 +3917,8 @@ same to him.
 Oh! But he was a tight-fisted hand at the grind-stone,
 Scrooge! a squeezing, wrenching, grasping, scraping,
 clutching, covetous, old sinner! Hard and sharp as flint,
-from which no steel had ever struck out generous [[Fire|fire]];
-secret, and [[Self|self]]-contained, and solitary as an oyster. The
+from which no steel had ever struck out generous [[motifs/fire|fire]];
+secret, and [[concepts/self|self]]-contained, and solitary as an oyster. The
 cold within him froze his old features, nipped his pointed
 nose, shrivelled his cheek, stiffened his gait; made his
 eyes red, his thin lips blue; and spoke out shrewdly in his
@@ -3929,11 +3929,11 @@ the dog-days; and didn't thaw it one degree at Christmas.
 
 External heat and cold had little influence on
 Scrooge. No warmth could warm, no wintry weather
-chill him. No [[Wind|wind]] that blew was bitterer than he,
-no falling [[Snow|snow]] was more intent upon its purpose, no
+chill him. No [[motifs/wind|wind]] that blew was bitterer than he,
+no falling [[motifs/snow|snow]] was more intent upon its purpose, no
 pelting rain less open to entreaty. Foul weather didn't
 know where to have him. The heaviest rain, and
-[[Snow|snow]], and hail, and sleet, could boast of the advantage
+[[motifs/snow|snow]], and hail, and sleet, could boast of the advantage
 over him in only one respect. They often "came down"
 handsomely, and Scrooge never did.
 
@@ -3941,9 +3941,9 @@ Nobody ever stopped him in the street to say, with
 gladsome looks, "My dear Scrooge, how are you?
 When will you come to see me?" No beggars implored
 him to bestow a trifle, no children asked him
-what it was o'[[Clock|clock]], no man or woman ever once in all
+what it was o'[[motifs/clock|clock]], no man or woman ever once in all
 his life inquired the way to such and such a place, of
-Scrooge. Even the blind men's [[dogs]] appeared to
+Scrooge. Even the blind men's dogs appeared to
 know him; and when they saw him coming on, would
 tug their owners into doorways and up courts; and
 then would wag their tails as though they said, "No
@@ -3954,36 +3954,36 @@ he liked. To edge his way along the crowded paths
 of life, warning all human sympathy to keep its distance,
 was what the knowing ones call "nuts" to Scrooge.
 
-Once upon a [[Time|time]]--of all the good days in the year,
+Once upon a [[motifs/time|time]]--of all the good days in the year,
 on Christmas Eve--old Scrooge sat busy in his
-counting-[[house]]. It was cold, bleak, biting weather: foggy
-withal: and he could hear the people in the [[Court|court]] outside,
+counting-house. It was cold, bleak, biting weather: foggy
+withal: and he could hear the people in the [[settings/court|court]] outside,
 go wheezing up and down, beating their hands
 upon their breasts, and stamping their feet upon the
-pavement stones to warm them. The [[City|city]] clocks had
+pavement stones to warm them. The [[motifs/city|city]] clocks had
 only just gone three, but it was quite dark already--
 it had not been light all day--and candles were flaring
 in the windows of the neighbouring offices, like
 ruddy smears upon the palpable brown air. The fog
 came pouring in at every chink and keyhole, and was
-so dense without, that although the [[Court|court]] was of the
+so dense without, that although the [[settings/court|court]] was of the
 narrowest, the houses opposite were mere phantoms.
 To see the dingy cloud come drooping down, obscuring
-everything, one might have thought that [[Nature]]
+everything, one might have thought that [[concepts/nature|Nature]]
 lived hard by, and was brewing on a large scale.
 
-The door of Scrooge's counting-[[house]] was open
+The door of Scrooge's counting-house was open
 that he might keep his eye upon his clerk, who in a
 dismal little cell beyond, a sort of tank, was copying
-letters. Scrooge had a very small [[Fire|fire]], but the clerk's
-[[Fire|fire]] was so very much smaller that it looked like one
+letters. Scrooge had a very small [[motifs/fire|fire]], but the clerk's
+[[motifs/fire|fire]] was so very much smaller that it looked like one
 coal. But he couldn't replenish it, for Scrooge kept
 the coal-box in his own room; and so surely as the
 clerk came in with the shovel, the master predicted
 that it would be necessary for them to part. Wherefore
 the clerk put on his white comforter, and tried to
 warm himself at the candle; in which effort, not being
-a man of a strong [[Imagination|imagination]], he failed.
+a man of a strong [[concepts/imagination|imagination]], he failed.
 
 "A merry Christmas, uncle! God save you!" cried
 a cheerful voice. It was the voice of Scrooge's
@@ -3993,16 +3993,16 @@ the first intimation he had of his approach.
 "Bah!" said Scrooge, "Humbug!"
 
 He had so heated himself with rapid walking in the
-fog and [[Frost|frost]], this nephew of Scrooge's, that he was
+fog and [[motifs/frost|frost]], this nephew of Scrooge's, that he was
 all in a glow; his face was ruddy and handsome; his
 eyes sparkled, and his breath smoked again.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-CAPITOLO I: IL [[Ghost|SPIRITO]] DI MARLEY
+CAPITOLO I: IL [[archetypes/ghost|SPIRITO]] DI MARLEY
 
-MARLEY era morto: per cominciare. Non c'è alcun [[Doubt|dubbio]] al riguardo.
+MARLEY era morto: per cominciare. Non c'è alcun [[concepts/doubt|dubbio]] al riguardo.
 Il registro del suo funerale fu firmato dal prete, dall'impiegato,
 dal becchino e dal capomorto. Scrooge lo firmò: e il nome di
 Scrooge era buono alla Borsa per qualsiasi cosa a cui volesse mettere mano.
@@ -4019,7 +4019,7 @@ e l'unico a piangerlo. E anche Scrooge non fu così terribilmente
 sconvolto dall'evento tragico da non essere un ottimo uomo d'affari proprio nel giorno dei funerali,
 e li celebrò con un affare indiscutibile.
 
-La menzione dei funerali di Marley mi riporta al punto da cui sono partito. Non c'è [[Doubt|dubbio]] che Marley fosse morto. Questo deve essere compreso distintamente, o nulla di straordinario può derivare dalla storia che sto per raccontare. Se non fossimo perfettamente convinti che il padre di [[Hamlet|Amleto]] morì prima dell'inizio della commedia, non ci sarebbe nulla di più notevole nel fatto che egli facesse una passeggiata a [[Night|notte]], in un [[Wind|vento]] da est, sulle sue stesse mura, di quanto ce ne sarebbe per qualsiasi altro signore di mezza età che uscisse imprudentemente dopo il buio in un luogo ventoso - diciamo, per esempio, il cimitero di San Paolo - letteralmente per stupire la debole mente di suo figlio.
+La menzione dei funerali di Marley mi riporta al punto da cui sono partito. Non c'è [[concepts/doubt|dubbio]] che Marley fosse morto. Questo deve essere compreso distintamente, o nulla di straordinario può derivare dalla storia che sto per raccontare. Se non fossimo perfettamente convinti che il padre di [[characters/hamlet|Amleto]] morì prima dell'inizio della commedia, non ci sarebbe nulla di più notevole nel fatto che egli facesse una passeggiata a [[motifs/night|notte]], in un [[motifs/wind|vento]] da est, sulle sue stesse mura, di quanto ce ne sarebbe per qualsiasi altro signore di mezza età che uscisse imprudentemente dopo il buio in un luogo ventoso - diciamo, per esempio, il cimitero di San Paolo - letteralmente per stupire la debole mente di suo figlio.
 
 Scrooge non cancellò mai il nome di Old Marley.
 Era ancora lì, anni dopo, sopra la porta del magazzino:
@@ -4032,8 +4032,8 @@ differenza.
 Oh! Ma era una mano avara sul macinello,
 Scrooge! Un vecchio peccatore che strizzava, torceva, afferrava, grattava,
 stringeva, avido e avaro! Duro e tagliente come il quarzo,
-da cui nessun acciaio aveva mai fatto scaturire un generoso [[Fire|fuoco]];
-segreto, e [[Self|egoista]], e solitario come una ostrica. Il
+da cui nessun acciaio aveva mai fatto scaturire un generoso [[motifs/fire|fuoco]];
+segreto, e [[concepts/self|egoista]], e solitario come una ostrica. Il
 freddo interiore gli gelava i vecchi lineamenti, pizzicava il suo naso appuntito,
 raggrinziva la sua guancia, irrigidiva il suo passo; rendeva i suoi occhi rossi, le sue labbra sottili bluastre;
 e si esprimeva con acume nella sua voce stridente. Una brina gelata ricopriva la sua testa,
@@ -4042,13 +4042,13 @@ ghiacciava il suo ufficio anche nei giorni canicolari; e non lo scongelava neanc
 
 Il caldo e il freddo esterni avevano poca influenza su Scrooge.
 Nessun tepore lo riscaldava, nessuna intemperie invernale
-lo gelava. Nessun [[Wind|vento]] che soffiava era più amaro di lui,
-nessuna [[Snow|neve]] cadente era più determinata nel suo scopo, nessuna
+lo gelava. Nessun [[motifs/wind|vento]] che soffiava era più amaro di lui,
+nessuna [[motifs/snow|neve]] cadente era più determinata nel suo scopo, nessuna
 pioggia battente era meno incline alle preghiere. Il maltempo non sapeva cosa farsene di lui.
-La pioggia e la [[Snow|neve]], la grandine e la pioggia gelata più intense potevano vantare su di lui
+La pioggia e la [[motifs/snow|neve]], la grandine e la pioggia gelata più intense potevano vantare su di lui
 un solo vantaggio. Spesso "scendevano" in modo imponente, ma Scrooge mai.
 
-Nessuno lo fermò mai per strada a dire con aria lieta: «Mio caro Scrooge, come sta? Quando verrà a trovarmi?». Nessun mendicante gli chiese una piccola elemosina, nessun bambino gli domandò che ora fosse, e in tutta la sua vita mai un uomo o una donna gli chiesero la strada per andare da qualche parte. Persino i [[dogs|cani]] dei ciechi sembravano conoscerlo; e quando lo vedevano avvicinarsi tiravano i loro padroni dentro i portoni e su per le scale, scodinzolando come a dire: «Nessun occhio è meglio di un occhio malvagio, o buio signore!».
+Nessuno lo fermò mai per strada a dire con aria lieta: «Mio caro Scrooge, come sta? Quando verrà a trovarmi?». Nessun mendicante gli chiese una piccola elemosina, nessun bambino gli domandò che ora fosse, e in tutta la sua vita mai un uomo o una donna gli chiesero la strada per andare da qualche parte. Persino i cani dei ciechi sembravano conoscerlo; e quando lo vedevano avvicinarsi tiravano i loro padroni dentro i portoni e su per le scale, scodinzolando come a dire: «Nessun occhio è meglio di un occhio malvagio, o buio signore!».
 
 Ma che importava a Scrooge! Era proprio quello che gli piaceva.
 Farsi largo sui sentieri affollati della vita, intimando a ogni umana simpatia di tenersi alla larga,
@@ -4056,24 +4056,24 @@ era per Scrooge ciò che i furbi chiamano "una delizia".
 
 C'era una volta -- di tutti i bei giorni dell'anno,
 la vigilia di Natale -- il vecchio Scrooge sedeva occupato nella sua
-[[house|banca]]. Era un [[Time|tempo]] freddo, desolato e pungente: nebbioso
-per giunta: e poteva sentire le persone nel [[Court|vicolo]] fuori,
+banca. Era un [[motifs/time|tempo]] freddo, desolato e pungente: nebbioso
+per giunta: e poteva sentire le persone nel [[settings/court|vicolo]] fuori,
 andare su e giù ansimando, battendo le mani
 sul petto e pestando i piedi sulle
-pietre del marciapiede per riscaldarsi. Gli orologi della [[City|città]]
+pietre del marciapiede per riscaldarsi. Gli orologi della [[motifs/city|città]]
 avevano appena suonato le tre, ma era già completamente buio --
 non c'era stata luce tutto il giorno -- e le candele stavano fiammeggiando
 nelle finestre degli uffici vicini, come macchie rosse sul palpabile aria marrone. La nebbia
 entrava a fiotti da ogni fessura e serratura, ed era così densa fuori,
-che sebbene il [[Court|vicolo]] fosse stretto, le case di fronte erano solo fantasmi.
+che sebbene il [[settings/court|vicolo]] fosse stretto, le case di fronte erano solo fantasmi.
 Vedere la nube sporca scendere gocciolando, oscurando
-tutto, si sarebbe potuto pensare che la [[Nature|Natura]]
+tutto, si sarebbe potuto pensare che la [[concepts/nature|Natura]]
 vivesse nelle vicinanze e stesse preparando qualcosa su larga scala.
 
-La porta del [[house|ufficio]] contabile di Scrooge era aperta,
+La porta del ufficio contabile di Scrooge era aperta,
 perché potesse tenere d'occhio il suo impiegato, che in una
 squallida stanzetta oltre la porta, una specie di vasca, stava copiando
-lettere. Scrooge aveva un [[Fire|fuoco]] molto piccolo, ma il [[Fire|fuoco]] dell'impiegato
+lettere. Scrooge aveva un [[motifs/fire|fuoco]] molto piccolo, ma il [[motifs/fire|fuoco]] dell'impiegato
 era così tanto più piccolo che sembrava una sola
 braciola. Ma non poteva ravvivarlo, perché Scrooge teneva
 la scatola del carbone nella sua stanza; e appena
@@ -4081,13 +4081,13 @@ l'impiegato entrava con la paletta, il padrone prevedeva
 che sarebbe stato necessario separarsi. Per questo motivo,
 l'impiegato si mise il suo foulard bianco e cercò di
 scaldarsi alla luce della candela; in questo tentativo, non essendo
-un uomo dalla forte [[Imagination|immaginazione]], fallì.
+un uomo dalla forte [[concepts/imagination|immaginazione]], fallì.
 
 «Un allegra Natale, zio! Dio ti salvi!» gridò una voce allegra. Era la voce del nipote di Scrooge, che gli si avvicinò così rapidamente che questa fu la prima indicazione che ebbe del suo arrivo.
 
 «Bah!» disse Scrooge «Una fandonia!»
 
-Era così accaldato per la rapida camminata nella nebbia e nel [[Frost|gelido]] freddo che questo nipote di Scrooge era tutto in fiamme; il suo viso era rosso e bello, gli occhi brillavano e il respiro si condensava nuovamente.
+Era così accaldato per la rapida camminata nella nebbia e nel [[motifs/frost|gelido]] freddo che questo nipote di Scrooge era tutto in fiamme; il suo viso era rosso e bello, gli occhi brillavano e il respiro si condensava nuovamente.
 
 
 
@@ -4109,14 +4109,14 @@ Scrooge having no better answer ready on the spur
 of the moment, said, "Bah!" again; and followed it up
 with "Humbug."
 
-"Don't be [[Cross|cross]], uncle!" said the nephew.
+"Don't be [[motifs/cross|cross]], uncle!" said the nephew.
 
 "What else can I be," returned the uncle, "when I
 live in such a world of fools as this? Merry Christmas!
 Out upon merry Christmas! What's Christmas
-[[Time|time]] to you but a [[Time|time]] for paying bills without
-money; a [[Time|time]] for finding yourself a year older, but
-not an hour richer; a [[Time|time]] for balancing your books
+[[motifs/time|time]] to you but a [[motifs/time|time]] for paying bills without
+money; a [[motifs/time|time]] for finding yourself a year older, but
+not an hour richer; a [[motifs/time|time]] for balancing your books
 and having every item in 'em through a round dozen
 of months presented dead against you? If I could
 work my will," said Scrooge indignantly, "every idiot
@@ -4132,7 +4132,7 @@ in your own way, and let me keep it in mine."
 "Keep it!" repeated Scrooge's nephew. "But you
 don't keep it."
 
-"Let me leave it [[Alone|alone]], then," said Scrooge. "Much
+"Let me leave it alone, then," said Scrooge. "Much
 good may it do you! Much good it has ever done
 you!"
 
@@ -4140,15 +4140,15 @@ you!"
 derived good, by which I have not profited, I dare
 say," returned the nephew. "Christmas among the
 rest. But I am sure I have always thought of Christmas
-[[Time|time]], when it has come round--apart from the
+[[motifs/time|time]], when it has come round--apart from the
 veneration due to its sacred name and origin, if anything
 belonging to it can be apart from that--as a
-good [[Time|time]]; a kind, forgiving, charitable, pleasant
-[[Time|time]]; the only [[Time|time]] I know of, in the long calendar
+good [[motifs/time|time]]; a kind, forgiving, charitable, pleasant
+[[motifs/time|time]]; the only [[motifs/time|time]] I know of, in the long calendar
 of the year, when men and women seem by one consent
 to open their shut-up hearts freely, and to think
 of people below them as if they really were
-fellow-passengers to the [[Grave|grave]], and not another race
+fellow-passengers to the [[motifs/grave|grave]], and not another race
 of creatures bound on other journeys. And therefore,
 uncle, though it has never put a scrap of gold or
 silver in my pocket, I believe that it has done me
@@ -4156,13 +4156,13 @@ good, and will do me good; and I say, God bless it!"
 
 The clerk in the Tank involuntarily applauded.
 Becoming immediately sensible of the impropriety,
-he poked the [[Fire|fire]], and extinguished the last frail spark
+he poked the [[motifs/fire|fire]], and extinguished the last frail spark
 for ever.
 
 "Let me hear another sound from you," said
 Scrooge, "and you'll keep your Christmas by losing
 your situation! You're quite a powerful speaker,
-sir," he added, turning to his nephew. "I [[Wonder|wonder]] you
+sir," he added, turning to his nephew. "I [[concepts/wonder|wonder]] you
 don't go into Parliament."
 
 "Don't be angry, uncle. Come! Dine with us to-morrow."
@@ -4175,9 +4175,9 @@ and said that he would see him in that extremity first.
 
 "Why did you get married?" said Scrooge.
 
-"Because I fell in [[Love|love]]."
+"Because I fell in [[motifs/love|love]]."
 
-"Because you fell in [[Love|love]]!" growled Scrooge, as if
+"Because you fell in [[motifs/love|love]]!" growled Scrooge, as if
 that were the only one thing in the world more ridiculous
 than a merry Christmas. "Good afternoon!"
 
@@ -4196,7 +4196,7 @@ why cannot we be friends?"
 resolute. We have never had any quarrel, to which I
 have been a party. But I have made the trial in
 homage to Christmas, and I'll keep my Christmas
-[[Humour|humour]] to the last. So A Merry Christmas, uncle!"
+humour to the last. So A Merry Christmas, uncle!"
 
 "Good afternoon!" said Scrooge.
 
@@ -4227,9 +4227,9 @@ of addressing Mr. Scrooge, or Mr. Marley?"
 
 "Mr. Marley has been dead these seven years,"
 Scrooge replied. "He died seven years ago, this very
-[[Night|night]]."
+[[motifs/night|night]]."
 
-"We have no [[Doubt|doubt]] his liberality is [[Well|well]] represented
+"We have no [[concepts/doubt|doubt]] his liberality is [[motifs/well|well]] represented
 by his surviving partner," said the gentleman, presenting
 his credentials.
 
@@ -4242,7 +4242,7 @@ back.
 said the gentleman, taking up a pen, "it is more than
 usually desirable that we should make some slight
 provision for the Poor and destitute, who suffer
-greatly at the present [[Time|time]]. Many thousands are in
+greatly at the present [[motifs/time|time]]. Many thousands are in
 want of common necessaries; hundreds of thousands
 are in want of common comforts, sir."
 
@@ -4251,7 +4251,7 @@ are in want of common comforts, sir."
 "Plenty of prisons," said the gentleman, laying down
 the pen again.
 
-"And the [[Union]] workhouses?" demanded Scrooge.
+"And the [[concepts/union|Union]] workhouses?" demanded Scrooge.
 "Are they still in operation?"
 
 "They are. Still," returned the gentleman, "I wish
@@ -4268,11 +4268,11 @@ useful course," said Scrooge. "I'm very glad to
 hear it."
 
 "Under the impression that they scarcely furnish
-Christian cheer of mind or [[Body|body]] to the multitude,"
+Christian cheer of mind or [[concepts/body|body]] to the multitude,"
 returned the gentleman, "a few of us are endeavouring
 to raise a fund to buy the Poor some meat and drink,
-and means of warmth. We choose this [[Time|time]], because
-it is a [[Time|time]], of all others, when Want is keenly felt,
+and means of warmth. We choose this [[motifs/time|time]], because
+it is a [[motifs/time|time]], of all others, when Want is keenly felt,
 and Abundance rejoices. What shall I put you down
 for?"
 
@@ -4297,13 +4297,13 @@ Non avendo nessuna risposta migliore pronta su due piedi, Scrooge disse di nuovo
 
 “Tienilo!” ripeté il nipote di Scrooge. “Ma tu non lo tieni.”
 
-“Allora lasciatemelo [[Alone|da solo]]”, disse Scrooge. “Forse vi farà molto bene. Forse vi ha già fatto molto bene in passato!”
+“Allora lasciatemelo da solo”, disse Scrooge. “Forse vi farà molto bene. Forse vi ha già fatto molto bene in passato!”
 
 “Ci sono molte cose da cui avrei potuto trarre beneficio, ma di cui non ho mai approfittato, oserei dire,” rispose il nipote. “Natale, per esempio. Ma sono sicuro che abbia sempre considerato Natale, quando arriva, a parte la venerazione dovuta al suo nome sacro e alle sue origini, come un momento buono: gentile, indulgente, caritatevole, piacevole. È l’unico periodo dell’anno in cui uomini e donne, sembra, con un’unanime volontà, aprono i loro cuori e pensano alle persone più umili come a compagni di viaggio verso la morte, e non come a creature diverse destinate a percorsi diversi. E per questo, zio, anche se Natale non mi ha mai messo nemmeno un pezzo d’oro o d’argento in tasca, credo che mi abbia fatto del bene e che continuerà a farlo; e dico: che Dio lo benedica!”
 
 Il commesso nel magazzino applaudì involontariamente.  
 Rendendosi immediatamente conto dell’inappropriato di quel gesto,  
-spense la [[Fire|fiamma]], estinguendo per sempre l’ultima scintilla rimasta.
+spense la [[motifs/fire|fiamma]], estinguendo per sempre l’ultima scintilla rimasta.
 
 “Lasciami sentire un altro tuo discorso,” disse Scrooge, “e così potrai mantenere le tue festività natalizie, a condizione di perdere la tua posizione sociale! Sei davvero un ottimo oratore, signore,” aggiunse, rivolgendosi al nipote. “Mi chiedo perché non entri in Parlamento.”
 
@@ -4315,7 +4315,7 @@ Scrooge disse che lo avrebbe visto, sì, davvero lo fece. Seguì fino in fondo a
 
 “Perché ti sei sposato?” chiese Scrooge.
 
-“Perché sono caduto in [[Love|amore]].”
+“Perché sono caduto in [[motifs/love|amore]].”
 
 “Perché ti sei innamorato!” ringhiò Scrooge, come se quella fosse l’unica cosa al mondo più ridicola di una felice festa di Natale. “Buon pomeriggio!”
 
@@ -4344,9 +4344,9 @@ Questo pazzo, facendo uscire il nipote di Scrooge, aveva anche fatto entrare alt
 
 “Scrooge e Marley’s, credo,” disse uno dei gentiluomini, consultando la sua lista. “Ho l’onore di rivolgermi a Mr. Scrooge, o a Mr. Marley?”
 
-“Il signor Marley è morto da sette anni,” rispose Scrooge. “È morto esattamente sette anni fa, proprio questa [[Night|notte]].”
+“Il signor Marley è morto da sette anni,” rispose Scrooge. “È morto esattamente sette anni fa, proprio questa [[motifs/night|notte]].”
 
-“Non abbiamo alcun [[Doubt|dubbio]] che la sua generosità sia ben rappresentata dal suo compagno sopravvissuto,” disse il gentiluomo, presentando le sue credenziali.
+“Non abbiamo alcun [[concepts/doubt|dubbio]] che la sua generosità sia ben rappresentata dal suo compagno sopravvissuto,” disse il gentiluomo, presentando le sue credenziali.
 
 Certo che lo era; infatti erano due anime affini. Alla sinistra parola “generosità”, Scrooge fece una smorfia, scosse la testa e restituì i documenti.
 
@@ -4356,7 +4356,7 @@ Certo che lo era; infatti erano due anime affini. Alla sinistra parola “genero
 
 “Molte prigioni,” disse il gentiluomo, mettendo giù di nuovo la penna.
 
-“E le case di lavoro dell’[[Union|Unione]]?” chiese Scrooge. “Sono ancora in funzione?”
+“E le case di lavoro dell’[[concepts/union|Unione]]?” chiese Scrooge. “Sono ancora in funzione?”
 
 “Lo sono. Ancora,” rispose il gentiluomo, “vorrei poter dire che non lo sono.”
 
@@ -4366,7 +4366,7 @@ Certo che lo era; infatti erano due anime affini. Alla sinistra parola “genero
 
 “Oh! Avevo paura, da quello che avevate detto all’inizio, che fosse successo qualcosa che li avesse fermati nel loro percorso utile,” disse Scrooge. “Sono molto contento di saperlo.”
 
-“Con l’impressione che queste iniziative forniscano ben poco conforto spirituale o materiale alla gente comune,” rispose il gentiluomo, “alcuni di noi stanno cercando di raccogliere fondi per comprare del cibo, della bevanda e mezzi per scaldarsi ai poveri. Abbiamo scelto questo [[Time|momento]], perché è proprio in questa stagione che la povertà si fa più acuta e la ricchezza sembra ancora più evidente. Quanto posso offrirvi?”
+“Con l’impressione che queste iniziative forniscano ben poco conforto spirituale o materiale alla gente comune,” rispose il gentiluomo, “alcuni di noi stanno cercando di raccogliere fondi per comprare del cibo, della bevanda e mezzi per scaldarsi ai poveri. Abbiamo scelto questo [[motifs/time|momento]], perché è proprio in questa stagione che la povertà si fa più acuta e la ricchezza sembra ancora più evidente. Quanto posso offrirvi?”
 
 
 
@@ -4377,7 +4377,7 @@ Certo che lo era; infatti erano due anime affini. Alla sinistra parola “genero
 
 "You wish to be anonymous?"
 
-"I wish to be left [[Alone|alone]]," said Scrooge. "Since you
+"I wish to be left alone," said Scrooge. "Since you
 ask me what I wish, gentlemen, that is my answer.
 I don't make merry myself at Christmas and I can't
 afford to make idle people merry. I help to support
@@ -4408,17 +4408,17 @@ people ran about with flaring links, proffering their
 services to go before horses in carriages, and conduct
 them on their way. The ancient tower of a church,
 whose gruff old bell was always peeping slily down
-at Scrooge out of a Gothic [[Window|window]] in the wall, became
+at Scrooge out of a Gothic [[motifs/window|window]] in the wall, became
 invisible, and struck the hours and quarters in the
 clouds, with tremulous vibrations afterwards as if
 its teeth were chattering in its frozen head up there.
 The cold became intense. In the main street, at the
-corner of the [[Court|court]], some labourers were repairing
-the gas-pipes, and had lighted a great [[Fire|fire]] in a brazier,
+corner of the [[settings/court|court]], some labourers were repairing
+the gas-pipes, and had lighted a great [[motifs/fire|fire]] in a brazier,
 round which a party of ragged men and boys were
 gathered: warming their hands and winking their
-eyes before the blaze in rapture. The [[Water|water]]-plug
-being left in [[Solitude|solitude]], its overflowings sullenly congealed,
+eyes before the blaze in rapture. The [[motifs/water|water]]-plug
+being left in [[concepts/solitude|solitude]], its overflowings sullenly congealed,
 and turned to misanthropic ice. The brightness
 of the shops where holly sprigs and berries
 crackled in the lamp heat of the windows, made pale
@@ -4426,9 +4426,9 @@ faces ruddy as they passed. Poulterers' and grocers'
 trades became a splendid joke: a glorious pageant,
 with which it was next to impossible to believe that
 such dull principles as bargain and sale had anything
-to do. The [[Lord Mayor]], in the stronghold of the
-mighty Mansion [[house|House]], gave orders to his fifty cooks
-and butlers to keep Christmas as a [[Lord Mayor]]'s
+to do. The [[characters/lord-mayor|Lord Mayor]], in the stronghold of the
+mighty Mansion House, gave orders to his fifty cooks
+and butlers to keep Christmas as a [[characters/lord-mayor|Lord Mayor]]'s
 household should; and even the little tailor, whom he
 had fined five shillings on the previous Monday for
 being drunk and bloodthirsty in the streets, stirred up
@@ -4441,18 +4441,18 @@ the Evil Spirit's nose with a touch of such weather
 as that, instead of using his familiar weapons, then
 indeed he would have roared to lusty purpose. The
 owner of one scant young nose, gnawed and mumbled
-by the hungry cold as bones are gnawed by [[dogs]],
+by the hungry cold as bones are gnawed by dogs,
 stooped down at Scrooge's keyhole to regale him with
-a Christmas [[carol]]: but at the first sound of
+a Christmas carol: but at the first sound of
 
 "God bless you, merry gentleman!
 May nothing you dismay!"
 
 Scrooge seized the ruler with such energy of action,
 that the singer fled in terror, leaving the keyhole to
-the fog and even more congenial [[Frost|frost]].
+the fog and even more congenial [[motifs/frost|frost]].
 
-At length the hour of shutting up the counting-[[house]]
+At length the hour of shutting up the counting-house
 arrived. With an ill-will Scrooge dismounted from his
 stool, and tacitly admitted the fact to the expectant
 clerk in the Tank, who instantly snuffed his candle out,
@@ -4464,7 +4464,7 @@ Scrooge.
 "If quite convenient, sir."
 
 "It's not convenient," said Scrooge, "and it's not
-fair. If I was to stop half-a-[[Crown|crown]] for it, you'd
+fair. If I was to stop half-a-[[motifs/crown|crown]] for it, you'd
 think yourself ill-used, I'll be bound?"
 
 The clerk smiled faintly.
@@ -4486,37 +4486,37 @@ twinkling, and the clerk, with the long ends of his
 white comforter dangling below his waist (for he
 boasted no great-coat), went down a slide on Cornhill,
 at the end of a lane of boys, twenty times, in
-[[Honour|honour]] of its being Christmas Eve, and then ran [[Home|home]]
+[[concepts/honour|honour]] of its being Christmas Eve, and then ran [[motifs/home|home]]
 to Camden Town as hard as he could pelt, to play
 at blindman's-buff.
 
-Scrooge took his [[Melancholy|melancholy]] dinner in his usual
-[[Melancholy|melancholy]] tavern; and having read all the newspapers, and
+Scrooge took his [[concepts/melancholy|melancholy]] dinner in his usual
+[[concepts/melancholy|melancholy]] tavern; and having read all the newspapers, and
 beguiled the rest of the evening with his
-banker's-book, went [[Home|home]] to bed. He lived in
+banker's-book, went [[motifs/home|home]] to bed. He lived in
 chambers which had once belonged to his deceased
 partner. They were a gloomy suite of rooms, in a
 lowering pile of building up a yard, where it had so
 little business to be, that one could scarcely help
 fancying it must have run there when it was a young
-[[house]], playing at hide-and-seek with other houses,
+house, playing at hide-and-seek with other houses,
 and forgotten the way out again. It was old enough
 now, and dreary enough, for nobody lived in it but
 Scrooge, the other rooms being all let out as offices.
 The yard was so dark that even Scrooge, who knew
 its every stone, was fain to grope with his hands.
-The fog and [[Frost|frost]] so hung about the black old gateway
-of the [[house]], that it seemed as if the Genius of
+The fog and [[motifs/frost|frost]] so hung about the black old gateway
+of the house, that it seemed as if the Genius of
 the Weather sat in mournful meditation on the
 threshold.
 
 Now, it is a fact, that there was nothing at all
 particular about the knocker on the door, except that it
 was very large. It is also a fact, that Scrooge had
-seen it, [[Night|night]] and morning, during his whole residence
+seen it, [[motifs/night|night]] and morning, during his whole residence
 in that place; also that Scrooge had as little of what
-is called fancy about him as any man in the [[City|city]] of
-[[London]], even including--which is a bold word--the
+is called fancy about him as any man in the [[motifs/city|city]] of
+[[settings/london|London]], even including--which is a bold word--the
 corporation, aldermen, and livery. Let it also be
 borne in mind that Scrooge had not bestowed one
 thought on Marley, since his last mention of his
@@ -4533,7 +4533,7 @@ process of change--not a knocker, but Marley's face.
 
 “Vuoi rimanere anonimo?”
 
-“Vorrei essere lasciato [[Alone|da solo]],” disse Scrooge. “Poiché mi chiedete cosa desidero, signori, questa è la mia risposta. Io stesso non mi diverto a Natale e non posso permettermi di rendere felici persone inutili. Aiuto a mantenere le istituzioni di cui ho parlato, costano abbastanza; e coloro che sono in difficoltà devono andarci.”
+“Vorrei essere lasciato da solo,” disse Scrooge. “Poiché mi chiedete cosa desidero, signori, questa è la mia risposta. Io stesso non mi diverto a Natale e non posso permettermi di rendere felici persone inutili. Aiuto a mantenere le istituzioni di cui ho parlato, costano abbastanza; e coloro che sono in difficoltà devono andarci.”
 
 Molti non possono andarci; e molti preferirebbero morire piuttosto che farlo.
 
@@ -4545,22 +4545,22 @@ Molti non possono andarci; e molti preferirebbero morire piuttosto che farlo.
 
 Riconoscendo chiaramente che sarebbe stato inutile insistere sul proprio punto di vista, quei signori se ne andarono. Scrooge riprese i suoi lavori con un’opinione più positiva su se stesso e in uno spirito più scherzoso del solito.
 
-Nel frattempo, la nebbia e l’oscurità si facevano sempre più dense; le persone correvano qua e là con torce accese, offrendosi di guidare i cavalli delle carrozze lungo il cammino. L’antica torre di una chiesa, la cui vecchia campana osservava sempre di nascosto Scrooge attraverso una finestra gotica nel muro, divenne invisibile; le sue campane suonavano le ore e i quarti tra le nuvole, con vibrazioni tremolanti, come se i suoi denti stessero battendo dentro la sua testa congelata lassù in alto. Il freddo diventava sempre più intenso. Nella strada principale, all’angolo di un cortile, alcuni operai stavano riparando le tubature del gas e avevano acceso un grande fuoco in un braciere; intorno ad esso si radunavano uomini e ragazzi in abiti laceri, riscaldandosi le mani e strizzando gli occhi davanti alle fiamme con gioia. Il rubinetto dell’acqua, lasciato aperto, faceva gocciolare acqua che poi si congelava, trasformandosi in ghiaccio ostile verso l’umanità. La luce delle botteghe, dove rametti di vischio e bacche scoppiettavano nel calore delle lampade, rendeva i volti pallidi rossi quando le persone vi passavano davanti. I negozi di pollame e alimentari sembravano diventare uno spettacolo meraviglioso; era quasi impossibile credere che principi noiosi come contrattazioni e vendite avessero qualcosa a che fare con tutto ciò. Il [[Lord Mayor]], nella potente residenza della [[house|Casa]], ordinò ai suoi cinquanta cuochi e camerieri di celebrare il Natale come si conveniva alla famiglia di un [[Lord Mayor]]; persino quel piccolo sarto, a cui aveva multato cinque scellini la settimana precedente per essere stato ubriaco e violento in strada, preparava il budino del giorno dopo nel suo seminterrato, mentre sua moglie magra e il bambino uscivano a comprare la carne.
+Nel frattempo, la nebbia e l’oscurità si facevano sempre più dense; le persone correvano qua e là con torce accese, offrendosi di guidare i cavalli delle carrozze lungo il cammino. L’antica torre di una chiesa, la cui vecchia campana osservava sempre di nascosto Scrooge attraverso una finestra gotica nel muro, divenne invisibile; le sue campane suonavano le ore e i quarti tra le nuvole, con vibrazioni tremolanti, come se i suoi denti stessero battendo dentro la sua testa congelata lassù in alto. Il freddo diventava sempre più intenso. Nella strada principale, all’angolo di un cortile, alcuni operai stavano riparando le tubature del gas e avevano acceso un grande fuoco in un braciere; intorno ad esso si radunavano uomini e ragazzi in abiti laceri, riscaldandosi le mani e strizzando gli occhi davanti alle fiamme con gioia. Il rubinetto dell’acqua, lasciato aperto, faceva gocciolare acqua che poi si congelava, trasformandosi in ghiaccio ostile verso l’umanità. La luce delle botteghe, dove rametti di vischio e bacche scoppiettavano nel calore delle lampade, rendeva i volti pallidi rossi quando le persone vi passavano davanti. I negozi di pollame e alimentari sembravano diventare uno spettacolo meraviglioso; era quasi impossibile credere che principi noiosi come contrattazioni e vendite avessero qualcosa a che fare con tutto ciò. Il [[characters/lord-mayor|Lord Mayor]], nella potente residenza della Casa, ordinò ai suoi cinquanta cuochi e camerieri di celebrare il Natale come si conveniva alla famiglia di un [[characters/lord-mayor|Lord Mayor]]; persino quel piccolo sarto, a cui aveva multato cinque scellini la settimana precedente per essere stato ubriaco e violento in strada, preparava il budino del giorno dopo nel suo seminterrato, mentre sua moglie magra e il bambino uscivano a comprare la carne.
 
-Più fitto e ancora più freddo. Un freddo penetrante, insidioso. Se solo il buon San Dunstan avesse potuto mordere il naso dello Spirito Malvagio con un simile gelo, invece di usare le sue solite armi. Allora sì che lo Spirito Malvagio avrebbe urlato per la paura. Il proprietario di quel piccolo, delizioso nasino, rosicchiato e mormorante dal freddo intenso, come i ossa vengono rosicchiate dai [[dogs|cani]]. Si chinò davanti alla serratura di Scrooge per cantargli una canzone natalizia. Ma non appena iniziò a cantare.
+Più fitto e ancora più freddo. Un freddo penetrante, insidioso. Se solo il buon San Dunstan avesse potuto mordere il naso dello Spirito Malvagio con un simile gelo, invece di usare le sue solite armi. Allora sì che lo Spirito Malvagio avrebbe urlato per la paura. Il proprietario di quel piccolo, delizioso nasino, rosicchiato e mormorante dal freddo intenso, come i ossa vengono rosicchiate dai cani. Si chinò davanti alla serratura di Scrooge per cantargli una canzone natalizia. Ma non appena iniziò a cantare.
 
 “Dio ti benedica, caro signore!
 Che nulla possa rattristarti!”
 
-Scrooge afferrò la riga con tale violenza che il cantante fuggì spaventato, lasciando la serratura esposta alla nebbia e a un [[Frost|freddo]] ancora più intenso.
+Scrooge afferrò la riga con tale violenza che il cantante fuggì spaventato, lasciando la serratura esposta alla nebbia e a un [[motifs/frost|freddo]] ancora più intenso.
 
-Finalmente arrivò l’ora di chiudere la [[house|banca]] dei pegni. Con malagrazia, Scrooge scese dal suo sgabello e ammise tacitamente il fatto al impiegato che lo aspettava nel “Tanque”; quest’ultimo spense immediatamente la candela e si mise il cappello.
+Finalmente arrivò l’ora di chiudere la banca dei pegni. Con malagrazia, Scrooge scese dal suo sgabello e ammise tacitamente il fatto al impiegato che lo aspettava nel “Tanque”; quest’ultimo spense immediatamente la candela e si mise il cappello.
 
 “Immagino che ti servirà un intero giorno domani, vero?” disse Scrooge.
 
 “Se fosse davvero conveniente, signore.”
 
-“Non è conveniente,” disse Scrooge, “e non è nemmeno giusto. Se dovessi rinunciare a mezza [[Crown|corona]] per questo, pensereste sicuramente di essere stati trattati ingiustamente, vero?”
+“Non è conveniente,” disse Scrooge, “e non è nemmeno giusto. Se dovessi rinunciare a mezza [[motifs/crown|corona]] per questo, pensereste sicuramente di essere stati trattati ingiustamente, vero?”
 
 Il commesso sorrise debolmente.
 
@@ -4574,14 +4574,14 @@ Il commesso promise che l'avrebbe fatto; e Scrooge se ne andò borbottando. L’
 
 Scrooge consumò la sua solita cena, nella solita taverna cupa e desolata; dopo aver letto tutti i giornali e trascorso il resto della serata con il suo libro contabile, andò a letto. Viveva in stanze che un tempo appartenevano al suo defunto socio. Erano un insieme di locali tetri, situati in un edificio fatiscente, in un angolo del cortile dove non c’era alcuna necessità che si trovassero. Si poteva quasi immaginare che fossero state costruite quando l’edificio era ancora una casa giovane, giocando a nascondino con altre abitazioni, e poi avessero dimenticato la strada per uscire. Ora erano vecchie e tristi; in esse non viveva nessuno, se non Scrooge. Gli altri locali venivano affittati come uffici. Il cortile era così buio che persino Scrooge, che conosceva ogni singola pietra, doveva cercare a tentoni il cammino. La nebbia e la brina si addensavano intorno al vecchio portone nero della casa. Sembrava quasi che lo “Genio del Tempo” sedesse lì, immerso in una meditazione triste.
 
-Ora, è un fatto che non c’era nulla di particolare nel bussolo della porta, se non il fatto che fosse molto grande. È anche un fatto che Scrooge lo aveva visto, giorno e notte, durante tutto il suo soggiorno in quel luogo; inoltre, Scrooge non possedeva affatto quella che si potrebbe definire fantasia, proprio come qualsiasi altro uomo nella città di [[London|Londra]], compresi i membri del consiglio comunale e le varie corporazioni. Bisogna anche ricordare che Scrooge non aveva più pensato a Marley da quando, quel pomeriggio, ne aveva parlato l’ultima volta per riferirsi al suo socio defunto da sette anni. E allora, che qualcuno mi spieghi, se ci riesce, come mai Scrooge, avendo la chiave nella serratura della porta, vide nel bussolo, non un semplice bussolo, ma il volto di Marley.
+Ora, è un fatto che non c’era nulla di particolare nel bussolo della porta, se non il fatto che fosse molto grande. È anche un fatto che Scrooge lo aveva visto, giorno e notte, durante tutto il suo soggiorno in quel luogo; inoltre, Scrooge non possedeva affatto quella che si potrebbe definire fantasia, proprio come qualsiasi altro uomo nella città di [[settings/london|Londra]], compresi i membri del consiglio comunale e le varie corporazioni. Bisogna anche ricordare che Scrooge non aveva più pensato a Marley da quando, quel pomeriggio, ne aveva parlato l’ultima volta per riferirsi al suo socio defunto da sette anni. E allora, che qualcuno mi spieghi, se ci riesce, come mai Scrooge, avendo la chiave nella serratura della porta, vide nel bussolo, non un semplice bussolo, ma il volto di Marley.
 
 
 
 <span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_04" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 4)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="topos/double,archetype/ghost,archetype/prophet,motif/blood,motif/chains,motif/desire,motif/fire,motif/ghosts,motif/night,motif/well,concept/body"></span>
 
 
-Marley's face. It was not in impenetrable [[Shadow|shadow]]
+Marley's face. It was not in impenetrable [[archetypes/shadow|shadow]]
 as the other objects in the yard were, but had a
 dismal light about it, like a bad lobster in a dark
 cellar. It was not angry or ferocious, but looked
@@ -4597,7 +4597,7 @@ its own expression.
 As Scrooge looked fixedly at this phenomenon, it
 was a knocker again.
 
-To say that he was not startled, or that his [[Blood|blood]]
+To say that he was not startled, or that his [[motifs/blood|blood]]
 was not conscious of a terrible sensation to which it
 had been a stranger from infancy, would be untrue.
 But he put his hand upon the key he had relinquished,
@@ -4611,7 +4611,7 @@ But there was nothing on the back of the door, except
 the screws and nuts that held the knocker on, so he
 said "Pooh, pooh!" and closed it with a bang.
 
-The sound resounded through the [[house]] like thunder.
+The sound resounded through the house like thunder.
 Every room above, and every cask in the wine-merchant's
 cellars below, appeared to have a separate peal
 of echoes of its own. Scrooge was not a man to
@@ -4629,7 +4629,7 @@ easy. There was plenty of width for that, and room
 to spare; which is perhaps the reason why Scrooge
 thought he saw a locomotive hearse going on before
 him in the gloom. Half-a-dozen gas-lamps out of
-the street wouldn't have lighted the entry too [[Well|well]],
+the street wouldn't have lighted the entry too [[motifs/well|well]],
 so you may suppose that it was pretty dark with
 Scrooge's dip.
 
@@ -4637,28 +4637,28 @@ Up Scrooge went, not caring a button for that.
 Darkness is cheap, and Scrooge liked it. But before
 he shut his heavy door, he walked through his rooms
 to see that all was right. He had just enough recollection
-of the face to [[Desire|desire]] to do that.
+of the face to [[motifs/desire|desire]] to do that.
 
 Sitting-room, bedroom, lumber-room. All as they
 should be. Nobody under the table, nobody under
-the sofa; a small [[Fire|fire]] in the grate; spoon and basin
+the sofa; a small [[motifs/fire|fire]] in the grate; spoon and basin
 ready; and the little saucepan of gruel (Scrooge had
 a cold in his head) upon the hob. Nobody under the
 bed; nobody in the closet; nobody in his dressing-gown,
 which was hanging up in a suspicious attitude
-against the wall. Lumber-room as usual. Old [[Fire|fire]]-guard,
+against the wall. Lumber-room as usual. Old [[motifs/fire|fire]]-guard,
 old shoes, two fish-baskets, washing-stand on three
 legs, and a poker.
 
 Quite satisfied, he closed his door, and locked
-himself in; [[Double|double]]-locked himself in, which was not his
+himself in; [[topoi/double|double]]-locked himself in, which was not his
 custom. Thus secured against surprise, he took off
 his cravat; put on his dressing-gown and slippers, and
-his nightcap; and sat down before the [[Fire|fire]] to take
+his nightcap; and sat down before the [[motifs/fire|fire]] to take
 his gruel.
 
-It was a very low [[Fire|fire]] indeed; nothing on such a
-bitter [[Night|night]]. He was obliged to sit close to it, and
+It was a very low [[motifs/fire|fire]] indeed; nothing on such a
+bitter [[motifs/night|night]]. He was obliged to sit close to it, and
 brood over it, before he could extract the least
 sensation of warmth from such a handful of fuel.
 The fireplace was an old one, built by some Dutch
@@ -4670,7 +4670,7 @@ through the air on clouds like feather-beds, Abrahams,
 Belshazzars, Apostles putting off to sea in butter-boats,
 hundreds of figures to attract his thoughts;
 and yet that face of Marley, seven years dead, came
-like the ancient [[Prophet]]'s rod, and swallowed up the
+like the ancient [[archetypes/prophet|Prophet]]'s rod, and swallowed up the
 whole. If each smooth tile had been a blank at first,
 with power to shape some picture on its surface from
 the disjointed fragments of his thoughts, there would
@@ -4688,16 +4688,16 @@ building. It was with great astonishment, and with
 a strange, inexplicable dread, that as he looked, he
 saw this bell begin to swing. It swung so softly in
 the outset that it scarcely made a sound; but soon it
-rang out loudly, and so did every bell in the [[house]].
+rang out loudly, and so did every bell in the house.
 
 This might have lasted half a minute, or a minute,
-but it seemed an hour. [[The Bells|The bells]] ceased as they had
+but it seemed an hour. The bells ceased as they had
 begun, together. They were succeeded by a clanking
 noise, deep down below; as if some person were
 dragging a heavy chain over the casks in the
 wine-merchant's cellar. Scrooge then remembered to have
-heard that [[Ghosts|ghosts]] in haunted houses were described as
-dragging [[Chains|chains]].
+heard that [[motifs/ghosts|ghosts]] in haunted houses were described as
+dragging [[motifs/chains|chains]].
 
 The cellar-door flew open with a booming sound,
 and then he heard the noise much louder, on the floors
@@ -4710,7 +4710,7 @@ His colour changed though, when, without a pause,
 it came on through the heavy door, and passed into
 the room before his eyes. Upon its coming in, the
 dying flame leaped up, as though it cried, "I know
-him; Marley's [[Ghost]]!" and fell again.
+him; Marley's [[archetypes/ghost|Ghost]]!" and fell again.
 
 The same face: the very same. Marley in his pigtail,
 usual waistcoat, tights and boots; the tassels on
@@ -4720,47 +4720,47 @@ clasped about his middle. It was long, and wound
 about him like a tail; and it was made (for Scrooge
 observed it closely) of cash-boxes, keys, padlocks,
 ledgers, deeds, and heavy purses wrought in steel.
-His [[Body|body]] was transparent; so that Scrooge, observing him,
+His [[concepts/body|body]] was transparent; so that Scrooge, observing him,
 and looking through his waistcoat, could see
 the two buttons on his coat behind.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il viso di Marley. Non era avvolto nell’impenetrabile [[Shadow|oscurità]] come gli altri oggetti nel cortile, ma emanava una luce cupa e sinistra, simile a quella di un gambero in una cantina buia. Non mostrava rabbia né ferocia; guardava Scrooge proprio come Marley faceva un tempo: con occhi spalancati, immobili. Quel colore livido rendeva il suo aspetto orribile. Ma quell’orrore sembrava provenire da qualcosa al di là del suo controllo, piuttosto che far parte della sua espressione naturale.
+Il viso di Marley. Non era avvolto nell’impenetrabile [[archetypes/shadow|oscurità]] come gli altri oggetti nel cortile, ma emanava una luce cupa e sinistra, simile a quella di un gambero in una cantina buia. Non mostrava rabbia né ferocia; guardava Scrooge proprio come Marley faceva un tempo: con occhi spalancati, immobili. Quel colore livido rendeva il suo aspetto orribile. Ma quell’orrore sembrava provenire da qualcosa al di là del suo controllo, piuttosto che far parte della sua espressione naturale.
 
 Mentre Scrooge fissava attentamente questo fenomeno, si udì di nuovo bussare alla porta.
 
-Affermare che non fosse rimasto sorpreso, o che il suo [[Blood|sangue]] non avesse percepito una terribile sensazione di cui era stato estraneo fin dall’infanzia, sarebbe falso. Ma mise la mano sulla chiave che aveva lasciato andare, la girò con decisione, entrò e accese la sua candela.
+Affermare che non fosse rimasto sorpreso, o che il suo [[motifs/blood|sangue]] non avesse percepito una terribile sensazione di cui era stato estraneo fin dall’infanzia, sarebbe falso. Ma mise la mano sulla chiave che aveva lasciato andare, la girò con decisione, entrò e accese la sua candela.
 
 Si fermò per un momento, incerto su cosa fare, prima di chiudere la porta; e prima guardò con cautela dietro di essa, come se si aspettasse quasi di essere spaventato dalla vista della coda di cavallo di Marley che spuntava nel corridoio. Ma non c'era nulla dietro la porta, tranne i viti e le ghiere che tenevano attaccata la campanella; quindi disse “Puf, ”, e la chiuse con un colpo secco.
 
-Il suono risuonò in tutta la [[house|casa]] come il tuono. Ogni stanza al piano di sopra, e ogni botte nelle cantine del venditore di vini al piano di sotto, sembrava produrre un proprio eco distinto. Scrooge non era certo il tipo da spaventarsi degli echi. Chiuse la porta, attraversò il corridoio e salì le scale, lentamente; accendeva la candela man mano che procedeva.
+Il suono risuonò in tutta la casa come il tuono. Ogni stanza al piano di sopra, e ogni botte nelle cantine del venditore di vini al piano di sotto, sembrava produrre un proprio eco distinto. Scrooge non era certo il tipo da spaventarsi degli echi. Chiuse la porta, attraversò il corridoio e salì le scale, lentamente; accendeva la candela man mano che procedeva.
 
 Si può parlare vagamente di guidare un carro a sei cavalli su una vecchia e ripida scala, o attraverso qualche assurdo provvedimento legislativo; ma intendo dire che si sarebbe potuto anche far salire una bara su quella scala, posizionandola di traverso, con la parte rigida rivolta verso il muro e la porta verso le ringhiere. E farlo senza alcun problema. C’era abbastanza spazio per questo; forse è proprio per questo che Scrooge pensò di vedere una bara trainata da una locomotiva davanti a sé, nel buio. Nemmeno sei lampioni a gas posti in strada avrebbero potuto illuminare bene quell’ingresso. Quindi si può immaginare che facesse abbastanza buio con la lampada di Scrooge.
 
 Su, andò Scrooge, senza curarsi affatto di tutto ciò.  
-L’oscurità è economica, e a Scrooge piaceva. Ma prima di chiudere la sua pesante porta, percorse tutte le stanze per assicurarsi che tutto fosse a posto. Aveva ancora abbastanza memoria di quel volto da [[Desire|desiderare]] farlo.
+L’oscurità è economica, e a Scrooge piaceva. Ma prima di chiudere la sua pesante porta, percorse tutte le stanze per assicurarsi che tutto fosse a posto. Aveva ancora abbastanza memoria di quel volto da [[motifs/desire|desiderare]] farlo.
 
-Soggiorno, camera da letto, ripostiglio. Tutto come dovrebbe essere. Nessuno sotto il tavolo, nessuno sotto il divano; un piccolo [[Fire|fuoco]] nel camino; cucchiaio e bacinella pronti; e la pentola con la pappa (Scrooge aveva il raffreddore, ) sul fornello. Nessuno sotto il letto, nessuno nell’armadio, nessuno nei suoi abiti da camera, che erano appesi al muro in modo, sospetto. Il ripostiglio, come sempre: vecchio mantice del camino, vecchi scarponi, due cesti per i pesci, lavandino a tre gambe, e un attizzatoio.
+Soggiorno, camera da letto, ripostiglio. Tutto come dovrebbe essere. Nessuno sotto il tavolo, nessuno sotto il divano; un piccolo [[motifs/fire|fuoco]] nel camino; cucchiaio e bacinella pronti; e la pentola con la pappa (Scrooge aveva il raffreddore, ) sul fornello. Nessuno sotto il letto, nessuno nell’armadio, nessuno nei suoi abiti da camera, che erano appesi al muro in modo, sospetto. Il ripostiglio, come sempre: vecchio mantice del camino, vecchi scarponi, due cesti per i pesci, lavandino a tre gambe, e un attizzatoio.
 
-Piuttosto soddisfatto, chiuse la porta e si chiuse a chiave dentro; si chiuse addirittura a doppia chiave, il che non era sua abitudine. Una volta protetto da qualsiasi sorpresa improvvisa, si tolse la cravatta, indossò la vestaglia, le pantofole e il berretto da notte, poi si sedette davanti al [[Fire|focolare]] per mangiare la sua pappa.
+Piuttosto soddisfatto, chiuse la porta e si chiuse a chiave dentro; si chiuse addirittura a doppia chiave, il che non era sua abitudine. Una volta protetto da qualsiasi sorpresa improvvisa, si tolse la cravatta, indossò la vestaglia, le pantofole e il berretto da notte, poi si sedette davanti al [[motifs/fire|focolare]] per mangiare la sua pappa.
 
 Era davvero un fuoco molto debole; nulla di paragonabile in una notte così fredda e buia. Fu costretto a sedersi vicino al camino, a fissarlo per lunghi minuti, prima di riuscire a percepire anche solo un minimo di calore da quella misera quantità di legna. Il caminetto era vecchio; era stato costruito molto tempo fa da un mercante olandese e tutto intorno erano posate piastrelle olandesi dall’aspetto pittoresco, disegnate apposta per illustrare i testi sacri: c’erano Caino e Abele, le figlie del faraone, regine di Saba, angeli che scendevano dal cielo su nuvole simili a letti di piume, Abramo, Belshazzar, apostoli che salpavano in barche fatte di burro. Centinaia di figure capaci di attirare i suoi pensieri; eppure quel volto di Marley, morto da sette anni, apparve come il bastone dell’antico profeta, inghiottendo tutto il resto. Se ogni singola piastrella fosse stata inizialmente vuota, con la capacità di formare immagini sulla sua superficie a partire dai frammenti disordinati dei suoi pensieri, su ognuna di esse ci sarebbe stata una copia della vecchia testa di Marley.
 
 “Sciocchezze!” disse Scrooge, poi attraversò la stanza.
 
-Dopo diversi giri, si sedette di nuovo. Mentre appoggiava la testa allo schienale della sedia, il suo sguardo cadde su una campana, una campana in disuso, appesa nella stanza, che per qualche motivo ormai dimenticato era collegata a una camera situata all’ultimo piano dell’edificio. Con grande stupore e con un terrore strano e inspiegabile, vide quella campana iniziare a dondolare. All’inizio oscillava così dolcemente da quasi non emettere suono; ma presto iniziò a suonare forte, e lo stesso accadde a tutte le campane dell’[[house|casa]].
+Dopo diversi giri, si sedette di nuovo. Mentre appoggiava la testa allo schienale della sedia, il suo sguardo cadde su una campana, una campana in disuso, appesa nella stanza, che per qualche motivo ormai dimenticato era collegata a una camera situata all’ultimo piano dell’edificio. Con grande stupore e con un terrore strano e inspiegabile, vide quella campana iniziare a dondolare. All’inizio oscillava così dolcemente da quasi non emettere suono; ma presto iniziò a suonare forte, e lo stesso accadde a tutte le campane dell’casa.
 
-Potrebbe essere durato mezzo minuto, o un minuto, ma sembrò un’ora. Le [[The Bells|campane]] smisero di suonare all’improvviso, tutte insieme. Subentrò poi un rumore metallico, proveniente da molto in basso; come se qualcuno stesse trascinando una catena pesante sopra i barili nel seminterrato del venditore di vino. A quel punto Scrooge si ricordò di aver sentito dire che quegli [[Ghosts|fantasmi]] presenti nelle case infestate venivano descritti come persone che trascinavano [[Chains|catene]].
+Potrebbe essere durato mezzo minuto, o un minuto, ma sembrò un’ora. Le campane smisero di suonare all’improvviso, tutte insieme. Subentrò poi un rumore metallico, proveniente da molto in basso; come se qualcuno stesse trascinando una catena pesante sopra i barili nel seminterrato del venditore di vino. A quel punto Scrooge si ricordò di aver sentito dire che quegli [[motifs/ghosts|fantasmi]] presenti nelle case infestate venivano descritti come persone che trascinavano [[motifs/chains|catene]].
 
 La porta del seminterrato si aprì di scatto con un forte rumore; poi sentì il suono diventare ancora più forte, provenire dai piani sottostanti; poi risuonò lungo le scale, e infine si avvicinò direttamente alla sua porta.
 
 “È ancora tutta una farsa!” disse Scrooge. “Non ci credo.”
 
-Tuttavia il suo colore cambiò quando, senza alcuna pausa, entrò attraverso la porta pesante e si diffuse nella stanza davanti ai suoi occhi. Non appena entrò, la fiamma morente si ravvivò, come se gridasse: “Lo conosco; è lo [[Ghost|Fantasma]] di Marley!”, per poi spegnersi di nuovo.
+Tuttavia il suo colore cambiò quando, senza alcuna pausa, entrò attraverso la porta pesante e si diffuse nella stanza davanti ai suoi occhi. Non appena entrò, la fiamma morente si ravvivò, come se gridasse: “Lo conosco; è lo [[archetypes/ghost|Fantasma]] di Marley!”, per poi spegnersi di nuovo.
 
-Lo stesso viso: esattamente lo stesso. Marley con la coda di cavallo, il solito gilet, i collant e gli stivali; le frange sugli stivali si muovevano, proprio come la sua coda di cavallo, così come le falde del suo gilet e i capelli sulla sua testa. La catena che indossava era legata intorno alla sua vita; era lunga e gli si avvolgeva intorno come una coda; ed era fatta (come Scrooge osservò attentamente) di cassetti, chiavi, lucchetti, registri, atti legali e pesanti borse realizzati in acciaio. Il suo [[Body|corpo]] era trasparente; quindi Scrooge, osservandolo e guardando attraverso il suo gilet, riusciva a vedere i due bottoni della sua giacca sul retro.
+Lo stesso viso: esattamente lo stesso. Marley con la coda di cavallo, il solito gilet, i collant e gli stivali; le frange sugli stivali si muovevano, proprio come la sua coda di cavallo, così come le falde del suo gilet e i capelli sulla sua testa. La catena che indossava era legata intorno alla sua vita; era lunga e gli si avvolgeva intorno come una coda; ed era fatta (come Scrooge osservò attentamente) di cassetti, chiavi, lucchetti, registri, atti legali e pesanti borse realizzati in acciaio. Il suo [[concepts/body|corpo]] era trasparente; quindi Scrooge, osservandolo e guardando attraverso il suo gilet, riusciva a vedere i due bottoni della sua giacca sul retro.
 
 
 
@@ -4771,9 +4771,9 @@ Scrooge had often heard it said that Marley had no
 bowels, but he had never believed it until now.
 
 No, nor did he believe it even now. Though he
-looked the [[Phantom|phantom]] through and through, and saw
+looked the [[characters/phantom|phantom]] through and through, and saw
 it standing before him; though he felt the chilling
-influence of its [[Death|death]]-cold eyes; and marked the very
+influence of its [[motifs/death|death]]-cold eyes; and marked the very
 texture of the folded kerchief bound about its head
 and chin, which wrapper he had not observed before;
 he was still incredulous, and fought against his senses.
@@ -4781,7 +4781,7 @@ he was still incredulous, and fought against his senses.
 "How now!" said Scrooge, caustic and cold as ever.
 "What do you want with me?"
 
-"Much!"--Marley's voice, no [[Doubt|doubt]] about it.
+"Much!"--Marley's voice, no [[concepts/doubt|doubt]] about it.
 
 "Who are you?"
 
@@ -4792,7 +4792,7 @@ voice. "You're particular, for a shade." He was going
 to say "to a shade," but substituted this, as more
 appropriate.
 
-"In life I was your partner, [[Jacob Marley]]."
+"In life I was your partner, [[characters/jacob-marley|Jacob Marley]]."
 
 "Can you--can you sit down?" asked Scrooge, looking
 doubtfully at him.
@@ -4802,14 +4802,14 @@ doubtfully at him.
 "Do it, then."
 
 Scrooge asked the question, because he didn't know
-whether a [[Ghost|ghost]] so transparent might find himself in
+whether a [[archetypes/ghost|ghost]] so transparent might find himself in
 a condition to take a chair; and felt that in the event
 of its being impossible, it might involve the necessity
-of an embarrassing explanation. But the [[Ghost|ghost]] sat
+of an embarrassing explanation. But the [[archetypes/ghost|ghost]] sat
 down on the opposite side of the fireplace, as if he
 were quite used to it.
 
-"You don't believe in me," observed the [[Ghost]].
+"You don't believe in me," observed the [[archetypes/ghost|Ghost]].
 
 "I don't," said Scrooge.
 
@@ -4818,28 +4818,28 @@ your senses?"
 
 "I don't know," said Scrooge.
 
-"Why do you [[Doubt|doubt]] your senses?"
+"Why do you [[concepts/doubt|doubt]] your senses?"
 
 "Because," said Scrooge, "a little thing affects them.
 A slight disorder of the stomach makes them cheats. You may
 be an undigested bit of beef, a blot of mustard, a crumb of
-[[cheese]], a [[Fragment|fragment]] of an underdone potato. There's more of
-gravy than of [[Grave|grave]] about you, whatever you are!"
+cheese, a [[forms/fragment|fragment]] of an underdone potato. There's more of
+gravy than of [[motifs/grave|grave]] about you, whatever you are!"
 
 Scrooge was not much in the habit of cracking
 jokes, nor did he feel, in his heart, by any means
-waggish then. The [[Truth|truth]] is, that he tried to be
+waggish then. The [[concepts/truth|truth]] is, that he tried to be
 smart, as a means of distracting his own attention,
 and keeping down his terror; for the spectre's voice
 disturbed the very marrow in his bones.
 
-To sit, staring at those fixed glazed eyes, in [[Silence|silence]]
+To sit, staring at those fixed glazed eyes, in [[motifs/silence|silence]]
 for a moment, would play, Scrooge felt, the very
 deuce with him. There was something very awful,
 too, in the spectre's being provided with an infernal
 atmosphere of its own. Scrooge could not feel it
 himself, but this was clearly the case; for though the
-[[Ghost]] sat perfectly motionless, its hair, and skirts,
+[[archetypes/ghost|Ghost]] sat perfectly motionless, its hair, and skirts,
 and tassels, were still agitated as by the hot vapour
 from an oven.
 
@@ -4848,13 +4848,13 @@ quickly to the charge, for the reason just assigned;
 and wishing, though it were only for a second, to
 divert the vision's stony gaze from himself.
 
-"I do," replied the [[Ghost]].
+"I do," replied the [[archetypes/ghost|Ghost]].
 
 "You are not looking at it," said Scrooge.
 
-"But I see it," said the [[Ghost]], "notwithstanding."
+"But I see it," said the [[archetypes/ghost|Ghost]], "notwithstanding."
 
-"[[Well]]!" returned Scrooge, "I have but to [[Swallow|swallow]]
+"[[motifs/well|Well]]!" returned Scrooge, "I have but to [[motifs/swallow|swallow]]
 this, and be for the rest of my days persecuted by a
 legion of goblins, all of my own creation. Humbug,
 I tell you! humbug!"
@@ -4863,27 +4863,27 @@ At this the spirit raised a frightful cry, and shook
 its chain with such a dismal and appalling noise, that
 Scrooge held on tight to his chair, to save himself
 from falling in a swoon. But how much greater was
-his horror, when the [[Phantom|phantom]] taking off the bandage
+his horror, when the [[characters/phantom|phantom]] taking off the bandage
 round its head, as if it were too warm to wear indoors,
 its lower jaw dropped down upon its breast!
 
 Scrooge fell upon his knees, and clasped his hands
 before his face.
 
-"[[Mercy]]!" he said. "Dreadful apparition, why do
+"[[concepts/mercy|Mercy]]!" he said. "Dreadful apparition, why do
 you trouble me?"
 
-"Man of the worldly mind!" replied the [[Ghost]], "do
+"Man of the worldly mind!" replied the [[archetypes/ghost|Ghost]], "do
 you believe in me or not?"
 
 "I do," said Scrooge. "I must. But why do spirits
 walk the earth, and why do they come to me?"
 
-"It is required of every man," the [[Ghost]] returned,
+"It is required of every man," the [[archetypes/ghost|Ghost]] returned,
 "that the spirit within him should walk abroad among
 his fellowmen, and travel far and wide; and if that
 spirit goes not forth in life, it is condemned to do so
-after [[Death|death]]. It is doomed to wander through the
+after [[motifs/death|death]]. It is doomed to wander through the
 world--oh, woe is me!--and witness what it cannot
 share, but might have shared on earth, and turned to
 happiness!"
@@ -4894,14 +4894,14 @@ and wrung its shadowy hands.
 "You are fettered," said Scrooge, trembling. "Tell
 me why?"
 
-"I wear the chain I forged in life," replied the [[Ghost]].
+"I wear the chain I forged in life," replied the [[archetypes/ghost|Ghost]].
 "I made it link by link, and yard by yard; I girded
 it on of my own free will, and of my own free will I
 wore it. Is its pattern strange to you?"
 
 Scrooge trembled more and more.
 
-"Or would you know," pursued the [[Ghost]], "the
+"Or would you know," pursued the [[archetypes/ghost|Ghost]], "the
 weight and length of the strong coil you bear yourself?
 It was full as heavy and as long as this, seven
 Christmas Eves ago. You have laboured on it, since.
@@ -4912,45 +4912,45 @@ expectation of finding himself surrounded by some fifty
 or sixty fathoms of iron cable: but he could see
 nothing.
 
-"Jacob," he said, imploringly. "Old [[Jacob Marley]],
+"Jacob," he said, imploringly. "Old [[characters/jacob-marley|Jacob Marley]],
 tell me more. Speak comfort to me, Jacob!"
 
-"I have none to give," the [[Ghost]] replied. "It comes
-from other regions, [[Ebenezer Scrooge]], and is conveyed
+"I have none to give," the [[archetypes/ghost|Ghost]] replied. "It comes
+from other regions, [[characters/ebenezer-scrooge|Ebenezer Scrooge]], and is conveyed
 by other ministers, to other kinds of men. Nor
 can I tell you what I would. A very little more is
 all permitted to me. I cannot rest, I cannot stay, I
 cannot linger anywhere. My spirit never walked
-beyond our counting-[[house]]--mark me!--in life my
+beyond our counting-house--mark me!--in life my
 spirit never roved beyond the narrow limits of our
 money-changing hole; and weary journeys lie before
 me!"
 
 It was a habit with Scrooge, whenever he became
 thoughtful, to put his hands in his breeches pockets.
-Pondering on what the [[Ghost]] had said, he did so now,
+Pondering on what the [[archetypes/ghost|Ghost]] had said, he did so now,
 but without lifting up his eyes, or getting off his
 knees.
 
 "You must have been very slow about it, Jacob,"
 Scrooge observed, in a business-like manner, though
-with [[Humility|humility]] and deference.
+with [[concepts/humility|humility]] and deference.
 
-"Slow!" the [[Ghost]] repeated.
+"Slow!" the [[archetypes/ghost|Ghost]] repeated.
 
 "Seven years dead," mused Scrooge. "And travelling
-all the [[Time|time]]!"
+all the [[motifs/time|time]]!"
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Scrooge aveva spesso sentito dire che Marley non avesse cuore, ma non ci aveva mai creduto fino a quel momento.
 
-No, né lo credeva neppure ora. Anche se aveva scrutato il [[Phantom|fantasma]] da cima a fondo e lo vedeva in piedi davanti a sé; anche se sentiva l'influenza gelida dei suoi occhi freddi come la [[Death|morte]]; e notava persino la trama del fazzoletto avvolto intorno alla testa e al mento, che non aveva osservato prima; era ancora incredulo e combatteva contro i propri sensi.
+No, né lo credeva neppure ora. Anche se aveva scrutato il [[characters/phantom|fantasma]] da cima a fondo e lo vedeva in piedi davanti a sé; anche se sentiva l'influenza gelida dei suoi occhi freddi come la [[motifs/death|morte]]; e notava persino la trama del fazzoletto avvolto intorno alla testa e al mento, che non aveva osservato prima; era ancora incredulo e combatteva contro i propri sensi.
 
 «Come?» disse Scrooge, caustico e freddo come sempre. «Cosa volete da me?»
 
-«Molto!» -- la voce di Marley, senza alcun [[Doubt|dubbio]].
+«Molto!» -- la voce di Marley, senza alcun [[concepts/doubt|dubbio]].
 
 «Chi siete?»
 
@@ -4959,7 +4959,7 @@ No, né lo credeva neppure ora. Anche se aveva scrutato il [[Phantom|fantasma]] 
 «Chi eravate allora?» disse Scrooge alzando la voce.
 «Siete davvero pignolo per un'ombra». Stava per dire «per uno spirito», ma lo sostituì con questo termine, più appropriato.
 
-«Nella vita ero il tuo socio, [[Jacob Marley]].»
+«Nella vita ero il tuo socio, [[characters/jacob-marley|Jacob Marley]].»
 
 «Potete, potete sedervi?» chiese Scrooge guardandolo con aria dubbiosa.
 
@@ -4967,9 +4967,9 @@ No, né lo credeva neppure ora. Anche se aveva scrutato il [[Phantom|fantasma]] 
 
 «Fatelo, dunque».
 
-Scrooge fece la domanda perché non sapeva se un [[Ghost|fantasma]] così trasparente potesse trovarsi in condizione di prendere posto su una sedia; e temeva che nel caso fosse impossibile, ciò avrebbe comportato la necessità di una spiegazione imbarazzante. Ma il [[Ghost|fantasma]] si sedette sul lato opposto del caminetto, come se ci fosse abituato da tempo.
+Scrooge fece la domanda perché non sapeva se un [[archetypes/ghost|fantasma]] così trasparente potesse trovarsi in condizione di prendere posto su una sedia; e temeva che nel caso fosse impossibile, ciò avrebbe comportato la necessità di una spiegazione imbarazzante. Ma il [[archetypes/ghost|fantasma]] si sedette sul lato opposto del caminetto, come se ci fosse abituato da tempo.
 
-"Non credete in me", osservò lo [[Ghost|spettro]].
+"Non credete in me", osservò lo [[archetypes/ghost|spettro]].
 
 «Non lo faccio», disse Scrooge.
 
@@ -4977,103 +4977,103 @@ Scrooge fece la domanda perché non sapeva se un [[Ghost|fantasma]] così traspa
 
 «Non lo so», disse Scrooge.
 
-"Perché [[Doubt|dubitare]] dei vostri sensi?"
+"Perché [[concepts/doubt|dubitare]] dei vostri sensi?"
 
 «Perché», disse Scrooge, «una piccola cosa li colpisce.
-Un leggero disturbo di stomaco li rende bugiardi. Potresti essere un pezzetto di carne non digerita, una macchia di senape, una briciola di [[cheese|formaggio]], un [[Fragment|frammento]] di patata poco cotta. C'è più sugo che [[Grave|tomba]] in te, qualunque cosa tu sia!»
+Un leggero disturbo di stomaco li rende bugiardi. Potresti essere un pezzetto di carne non digerita, una macchia di senape, una briciola di formaggio, un [[forms/fragment|frammento]] di patata poco cotta. C'è più sugo che [[motifs/grave|tomba]] in te, qualunque cosa tu sia!»
 
-Scrooge non era molto abituato a fare battute e neppure si sentiva affatto spiritoso allora nel suo cuore. La [[Truth|verità]] è che cercava di essere intelligente, come un mezzo per distrarre la sua attenzione e reprimere il terrore; perché la voce dello spettro turbava fino al midollo le sue ossa.
+Scrooge non era molto abituato a fare battute e neppure si sentiva affatto spiritoso allora nel suo cuore. La [[concepts/truth|verità]] è che cercava di essere intelligente, come un mezzo per distrarre la sua attenzione e reprimere il terrore; perché la voce dello spettro turbava fino al midollo le sue ossa.
 
-Rimanere seduto a fissare quegli occhi vitrei immobili in [[Silence|silenzio]]
-per un momento avrebbe giocato al diavolo con lui, sentiva Scrooge. C'era qualcosa di veramente terribile anche nel fatto che lo spettro fosse dotato della sua atmosfera infernale. Scrooge non poteva sentirlo lui stesso, ma era chiaramente così; perché sebbene il [[Ghost|Fantasma]] stesse perfettamente immobile, i suoi capelli e le gonne e i pompon erano ancora agitati come dal vapore caldo di un forno.
+Rimanere seduto a fissare quegli occhi vitrei immobili in [[motifs/silence|silenzio]]
+per un momento avrebbe giocato al diavolo con lui, sentiva Scrooge. C'era qualcosa di veramente terribile anche nel fatto che lo spettro fosse dotato della sua atmosfera infernale. Scrooge non poteva sentirlo lui stesso, ma era chiaramente così; perché sebbene il [[archetypes/ghost|Fantasma]] stesse perfettamente immobile, i suoi capelli e le gonne e i pompon erano ancora agitati come dal vapore caldo di un forno.
 
 «Vedete questo stuzzicadenti?» disse Scrooge,
 tornando rapidamente all'attacco per il motivo appena indicato;
 e desideroso, anche se solo per un secondo,
 di distogliere lo sguardo di pietra della visione da sé stesso.
 
-«Lo faccio», rispose lo [[Ghost|Spirito]].
+«Lo faccio», rispose lo [[archetypes/ghost|Spirito]].
 
 «Non lo stai guardando», disse Scrooge.
 
-"Ma io lo vedo", disse il [[Ghost|Spirito]], "nonostante tutto".
+"Ma io lo vedo", disse il [[archetypes/ghost|Spirito]], "nonostante tutto".
 
-"[[Well|Bene]]!" rispose Scrooge, "non ho che da [[Swallow|ingoiare]]
+"[[motifs/well|Bene]]!" rispose Scrooge, "non ho che da [[motifs/swallow|ingoiare]]
 questo e per il resto dei miei giorni sarò perseguitato da una
 legione di goblin, tutti della mia creazione. Fesseria,
 vi dico! fesseria!"
 
-A questo punto lo spirito emise un urlo spaventoso e scosse la sua catena con un rumore così lugubre e terribile che Scrooge si aggrappò saldamente alla sedia per evitare di cadere in deliquio. Ma quanto fu più grande il suo orrore quando lo [[Phantom|spettro]] tolse la benda intorno alla testa, come se fosse troppo calda da portare al chiuso, e la sua mandibola inferiore gli cadde sul petto!
+A questo punto lo spirito emise un urlo spaventoso e scosse la sua catena con un rumore così lugubre e terribile che Scrooge si aggrappò saldamente alla sedia per evitare di cadere in deliquio. Ma quanto fu più grande il suo orrore quando lo [[characters/phantom|spettro]] tolse la benda intorno alla testa, come se fosse troppo calda da portare al chiuso, e la sua mandibola inferiore gli cadde sul petto!
 
 Scrooge cadde in ginocchio e si portò le mani giunte davanti al viso.
 
-«[[Mercy|Pietà]]!», disse. «Apparizione spaventosa, perché mi tormenti?»
+«[[concepts/mercy|Pietà]]!», disse. «Apparizione spaventosa, perché mi tormenti?»
 
-«Uomo di mente terrena!» rispose lo [[Ghost|Spirito]], «credi o no a me?»
+«Uomo di mente terrena!» rispose lo [[archetypes/ghost|Spirito]], «credi o no a me?»
 
 «Lo so», disse Scrooge. «Devo saperlo. Ma perché gli spiriti camminano sulla terra e perché vengono da me?»
 
-"È richiesto a ogni uomo", rispose lo [[Ghost|spirito]],
-"che l'anima che è in lui cammini tra i suoi simili e viaggi lontano e oltre; e se quell'anima non esce durante la vita, è condannata a farlo dopo la [[Death|morte]]. È destinata ad errare per il mondo --oh, guai a me!-- e assistere a ciò che non può condividere, ma avrebbe potuto condividere sulla terra, e trasformarlo in felicità!"
+"È richiesto a ogni uomo", rispose lo [[archetypes/ghost|spirito]],
+"che l'anima che è in lui cammini tra i suoi simili e viaggi lontano e oltre; e se quell'anima non esce durante la vita, è condannata a farlo dopo la [[motifs/death|morte]]. È destinata ad errare per il mondo --oh, guai a me!-- e assistere a ciò che non può condividere, ma avrebbe potuto condividere sulla terra, e trasformarlo in felicità!"
 
 Ancora una volta lo spettro lanciò un grido e scosse la sua catena,
 e si strinse le mani ombrose.
 
 «Sei incatenato», disse Scrooge tremando. «Dimmi perché?»
 
-«Porto la catena che ho forgiato in vita», rispose lo [[Ghost|Spirito]]. «L'ho creata anello per anello e metro per metro; me la sono messa da solo, di mia libera volontà, e l'ho portata di mia libera volontà. Il suo aspetto vi sembra strano?»
+«Porto la catena che ho forgiato in vita», rispose lo [[archetypes/ghost|Spirito]]. «L'ho creata anello per anello e metro per metro; me la sono messa da solo, di mia libera volontà, e l'ho portata di mia libera volontà. Il suo aspetto vi sembra strano?»
 
 Scrooge tremava sempre più forte.
 
-«O forse vorresti sapere», continuò lo [[Ghost|Spirito]], «il peso e la lunghezza della pesante catena che porti tu stesso? Era altrettanto pesante e lunga di questa, sette vigili di Natale fa. Da allora hai lavorato per renderla più grande. È una catena enorme!»
+«O forse vorresti sapere», continuò lo [[archetypes/ghost|Spirito]], «il peso e la lunghezza della pesante catena che porti tu stesso? Era altrettanto pesante e lunga di questa, sette vigili di Natale fa. Da allora hai lavorato per renderla più grande. È una catena enorme!»
 
 Scrooge diede un'occhiata intorno a sé sul pavimento,
 aspettandosi di trovarsi circondato da una cinquantina o sessantina
 di braccia di cavo d'acciaio; ma non vide nulla.
 
-«[[Jacob Marley|Jacobo]],» disse supplicante «vecchio Jacomo Marley, dimmi di più. Parla e confortami, Jacomo!»
+«[[characters/jacob-marley|Jacobo]],» disse supplicante «vecchio Jacomo Marley, dimmi di più. Parla e confortami, Jacomo!»
 
-"Non ne ho da dare", rispose lo [[Ghost|Spirito]]. "Proviene
-da altre regioni, [[Ebenezer Scrooge]], e viene trasmesso
+"Non ne ho da dare", rispose lo [[archetypes/ghost|Spirito]]. "Proviene
+da altre regioni, [[characters/ebenezer-scrooge|Ebenezer Scrooge]], e viene trasmesso
 da altri ministri ad altri tipi di uomini. E nemmeno
 posso dirti ciò che vorrei. Mi è permesso ben poco.
 Non posso riposare, non posso fermarmi, non
 posso indugiare da nessuna parte. Il mio spirito non ha mai camminato
-oltre la nostra [[house|banca]] -- ascoltami! -- in vita mia il mio spirito non si è mai spinto oltre i ristretti confini del nostro
+oltre la nostra banca -- ascoltami! -- in vita mia il mio spirito non si è mai spinto oltre i ristretti confini del nostro
 antro di cambiavalute; e mi attendono viaggi stancanti!"
 
-Era un'abitudine di Scrooge, ogni volta che diventava pensieroso, mettere le mani nelle tasche dei calzoni. Riflettendo su ciò che aveva detto lo [[Ghost|spettro]], fece così ora, ma senza alzare gli occhi o rialzarsi in piedi.
+Era un'abitudine di Scrooge, ogni volta che diventava pensieroso, mettere le mani nelle tasche dei calzoni. Riflettendo su ciò che aveva detto lo [[archetypes/ghost|spettro]], fece così ora, ma senza alzare gli occhi o rialzarsi in piedi.
 
-"Devi averci messo molto tempo, Jacob," osservò Scrooge con tono da uomo d'affari, ma con [[Humility|umiltà]] e deferenza.
+"Devi averci messo molto tempo, Jacob," osservò Scrooge con tono da uomo d'affari, ma con [[concepts/humility|umiltà]] e deferenza.
 
-«Piano!», ripeté lo [[Ghost|spettro]].
+«Piano!», ripeté lo [[archetypes/ghost|spettro]].
 
-«Morto da sette anni», rifletté Scrooge, «e in viaggio tutto il [[Time|tempo]]!»
+«Morto da sette anni», rifletté Scrooge, «e in viaggio tutto il [[motifs/time|tempo]]!»
 
 
 
 <span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_06" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 6)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="topos/double,archetype/ghost,motif/chains,motif/home,motif/night,motif/silence,motif/supernatural,motif/time,motif/water,motif/wind,motif/window,concept/charity,concept/eternity,concept/fear,concept/hope,concept/mercy,concept/self,form/dirge,character/phantom"></span>
 
 
-"The whole [[Time|time]]," said the [[Ghost]]. "No rest, no
+"The whole [[motifs/time|time]]," said the [[archetypes/ghost|Ghost]]. "No rest, no
 peace. Incessant torture of remorse."
 
 "You travel fast?" said Scrooge.
 
-"On the wings of the [[Wind|wind]]," replied the [[Ghost]].
+"On the wings of the [[motifs/wind|wind]]," replied the [[archetypes/ghost|Ghost]].
 
 "You might have got over a great quantity of
 ground in seven years," said Scrooge.
 
-The [[Ghost]], on hearing this, set up another cry, and
-clanked its chain so hideously in the dead [[Silence|silence]] of
-the [[Night|night]], that the Ward would have been justified in
+The [[archetypes/ghost|Ghost]], on hearing this, set up another cry, and
+clanked its chain so hideously in the dead [[motifs/silence|silence]] of
+the [[motifs/night|night]], that the Ward would have been justified in
 indicting it for a nuisance.
 
-"Oh! captive, bound, and [[Double|double]]-ironed," cried the
-[[Phantom|phantom]], "not to know, that ages of incessant labour
+"Oh! captive, bound, and [[topoi/double|double]]-ironed," cried the
+[[characters/phantom|phantom]], "not to know, that ages of incessant labour
 by immortal creatures, for this earth must pass into
-[[Eternity|eternity]] before the good of which it is susceptible is
+[[concepts/eternity|eternity]] before the good of which it is susceptible is
 all developed. Not to know that any Christian spirit
 working kindly in its little sphere, whatever it may
 be, will find its mortal life too short for its vast
@@ -5085,18 +5085,18 @@ misused! Yet such was I! Oh! such was I!"
 Jacob," faltered Scrooge, who now began to apply this
 to himself.
 
-"Business!" cried the [[Ghost]], wringing its hands
+"Business!" cried the [[archetypes/ghost|Ghost]], wringing its hands
 again. "Mankind was my business. The common
-welfare was my business; [[Charity|charity]], [[Mercy|mercy]], forbearance,
+welfare was my business; [[concepts/charity|charity]], [[concepts/mercy|mercy]], forbearance,
 and benevolence, were, all, my business. The dealings
-of my trade were but a drop of [[Water|water]] in the
+of my trade were but a drop of [[motifs/water|water]] in the
 comprehensive ocean of my business!"
 
 It held up its chain at arm's length, as if that were
 the cause of all its unavailing grief, and flung it
 heavily upon the ground again.
 
-"At this [[Time|time]] of the [[rolling]] year," the spectre said,
+"At this [[motifs/time|time]] of the rolling year," the spectre said,
 "I suffer most. Why did I walk through crowds of
 fellow-beings with my eyes turned down, and never
 raise them to that blessed Star which led the Wise
@@ -5107,7 +5107,7 @@ Scrooge was very much dismayed to hear the
 spectre going on at this rate, and began to quake
 exceedingly.
 
-"Hear me!" cried the [[Ghost]]. "My [[Time|time]] is nearly
+"Hear me!" cried the [[archetypes/ghost|Ghost]]. "My [[motifs/time|time]] is nearly
 gone."
 
 "I will," said Scrooge. "But don't be hard upon
@@ -5121,35 +5121,35 @@ It was not an agreeable idea. Scrooge shivered,
 and wiped the perspiration from his brow.
 
 "That is no light part of my penance," pursued
-the [[Ghost]]. "I am here to-[[Night|night]] to warn you, that you
-have yet a chance and [[Hope|hope]] of escaping my fate. A
-chance and [[Hope|hope]] of my procuring, Ebenezer."
+the [[archetypes/ghost|Ghost]]. "I am here to-[[motifs/night|night]] to warn you, that you
+have yet a chance and [[concepts/hope|hope]] of escaping my fate. A
+chance and [[concepts/hope|hope]] of my procuring, Ebenezer."
 
 "You were always a good friend to me," said
 Scrooge. "Thank'ee!"
 
-"You will be haunted," resumed the [[Ghost]], "by
+"You will be haunted," resumed the [[archetypes/ghost|Ghost]], "by
 Three Spirits."
 
 Scrooge's countenance fell almost as low as the
-[[Ghost]]'s had done.
+[[archetypes/ghost|Ghost]]'s had done.
 
-"Is that the chance and [[Hope|hope]] you mentioned,
+"Is that the chance and [[concepts/hope|hope]] you mentioned,
 Jacob?" he demanded, in a faltering voice.
 
 "It is."
 
 "I--I think I'd rather not," said Scrooge.
 
-"Without their visits," said the [[Ghost]], "you cannot
-[[Hope|hope]] to shun the path I tread. Expect the first to-morrow,
+"Without their visits," said the [[archetypes/ghost|Ghost]], "you cannot
+[[concepts/hope|hope]] to shun the path I tread. Expect the first to-morrow,
 when the bell tolls One."
 
 "Couldn't I take 'em all at once, and have it over,
 Jacob?" hinted Scrooge.
 
-"Expect the second on the next [[Night|night]] at the same
-hour. The third upon the next [[Night|night]] when the last
+"Expect the second on the next [[motifs/night|night]] at the same
+hour. The third upon the next [[motifs/night|night]] when the last
 stroke of Twelve has ceased to vibrate. Look to see
 me no more; and look that, for your own sake, you
 remember what has passed between us!"
@@ -5159,37 +5159,37 @@ wrapper from the table, and bound it round its head,
 as before. Scrooge knew this, by the smart sound its
 teeth made, when the jaws were brought together
 by the bandage. He ventured to raise his eyes again,
-and found his [[Supernatural|supernatural]] visitor confronting him
+and found his [[motifs/supernatural|supernatural]] visitor confronting him
 in an erect attitude, with its chain wound over and
 about its arm.
 
 The apparition walked backward from him; and at
-every step it took, the [[Window|window]] raised itself a little,
+every step it took, the [[motifs/window|window]] raised itself a little,
 so that when the spectre reached it, it was wide open.
 
 It beckoned Scrooge to approach, which he did.
 When they were within two paces of each other,
-Marley's [[Ghost]] held up its hand, warning him to
+Marley's [[archetypes/ghost|Ghost]] held up its hand, warning him to
 come no nearer. Scrooge stopped.
 
-Not so much in obedience, as in surprise and [[Fear|fear]]:
+Not so much in obedience, as in surprise and [[concepts/fear|fear]]:
 for on the raising of the hand, he became sensible
 of confused noises in the air; incoherent sounds of
 lamentation and regret; wailings inexpressibly sorrowful and
-[[Self|self]]-accusatory. The spectre, after listening for a moment,
-joined in the mournful [[Dirge|dirge]]; and floated out upon the
-bleak, dark [[Night|night]].
+[[concepts/self|self]]-accusatory. The spectre, after listening for a moment,
+joined in the mournful [[forms/dirge|dirge]]; and floated out upon the
+bleak, dark [[motifs/night|night]].
 
-Scrooge followed to the [[Window|window]]: desperate in his
+Scrooge followed to the [[motifs/window|window]]: desperate in his
 curiosity. He looked out.
 
 The air was filled with phantoms, wandering hither
 and thither in restless haste, and moaning as they
-went. Every one of them wore [[Chains|chains]] like Marley's
-[[Ghost]]; some few (they might be guilty governments)
+went. Every one of them wore [[motifs/chains|chains]] like Marley's
+[[archetypes/ghost|Ghost]]; some few (they might be guilty governments)
 were linked together; none were free. Many had
 been personally known to Scrooge in their lives. He
-had been quite familiar with one old [[Ghost|ghost]], in a white
+had been quite familiar with one old [[archetypes/ghost|ghost]], in a white
 waistcoat, with a monstrous iron safe attached to
 its ankle, who cried piteously at being unable to assist
 a wretched woman with an infant, whom it saw below,
@@ -5199,17 +5199,17 @@ human matters, and had lost the power for ever.
 
 Whether these creatures faded into mist, or mist
 enshrouded them, he could not tell. But they and
-their spirit voices faded together; and the [[Night|night]] became
-as it had been when he walked [[Home|home]].
+their spirit voices faded together; and the [[motifs/night|night]] became
+as it had been when he walked [[motifs/home|home]].
 
-Scrooge closed the [[Window|window]], and examined the door
-by which the [[Ghost]] had entered. It was [[Double|double]]-locked,
+Scrooge closed the [[motifs/window|window]], and examined the door
+by which the [[archetypes/ghost|Ghost]] had entered. It was [[topoi/double|double]]-locked,
 as he had locked it with his own hands, and
 the bolts were undisturbed. He tried to say "Humbug!"
 but stopped at the first syllable. And being,
 from the emotion he had undergone, or the fatigues
 of the day, or his glimpse of the Invisible World, or
-the dull conversation of the [[Ghost]], or the lateness of
+the dull conversation of the [[archetypes/ghost|Ghost]], or the lateness of
 the hour, much in need of repose; went straight to
 bed, without undressing, and fell asleep upon the
 instant.
@@ -5217,21 +5217,21 @@ instant.
 
 <span class="qlang-split" data-lang="it"></span>
 
-«Per tutto il [[Time|tempo]]», disse lo [[Ghost|Spirito]]. «Niente riposo, niente pace. Una tortura incessante di rimorso».
+«Per tutto il [[motifs/time|tempo]]», disse lo [[archetypes/ghost|Spirito]]. «Niente riposo, niente pace. Una tortura incessante di rimorso».
 
 «Viaggiate in fretta?» disse Scrooge.
 
-"Sulle ali del [[Wind|vento]]", rispose lo [[Ghost|Spirito]].
+"Sulle ali del [[motifs/wind|vento]]", rispose lo [[archetypes/ghost|Spirito]].
 
 «Avresti potuto percorrere un gran tratto di strada in sette anni», disse Scrooge.
 
-Lo [[Ghost|Spirito]], udendo ciò, emise un altro grido e fece
-sferragliare la sua catena così orribilmente nel morto [[Silence|silenzio]] della [[Night|notte]], che il quartiere sarebbe stato giustificato nell'accusarlo di essere una seccatura.
+Lo [[archetypes/ghost|Spirito]], udendo ciò, emise un altro grido e fece
+sferragliare la sua catena così orribilmente nel morto [[motifs/silence|silenzio]] della [[motifs/night|notte]], che il quartiere sarebbe stato giustificato nell'accusarlo di essere una seccatura.
 
-"Oh! prigioniero, incatenato e [[Double|doppiamente]] ferrato," gridò lo
-[[Phantom|spettro]], "non sapere che secoli di incessante lavoro
+"Oh! prigioniero, incatenato e [[topoi/double|doppiamente]] ferrato," gridò lo
+[[characters/phantom|spettro]], "non sapere che secoli di incessante lavoro
 di creature immortali per questa terra devono passare nell'
-[[Eternity|eternità]] prima che il bene di cui è suscettibile sia
+[[concepts/eternity|eternità]] prima che il bene di cui è suscettibile sia
 tutto sviluppato. Non sapere che qualsiasi spirito cristiano
 che opera gentilmente nella sua piccola sfera, qualunque essa
 possa essere, troverà la propria vita mortale troppo breve per i suoi vasti mezzi di utilità. Non sapere che nessuno spazio di rimpianto può riparare per l'opportunità di una vita mal impiegata! Eppure tale ero io! Oh! Tale ero io!"
@@ -5239,17 +5239,17 @@ possa essere, troverà la propria vita mortale troppo breve per i suoi vasti mez
 «Ma tu sei sempre stato un uomo d'affari in gamba,
 Giacobbe», balbettò Scrooge che ora cominciava ad applicare tutto ciò a se stesso.
 
-«Affari!» gridò lo [[Ghost|Spirito]], torcendosi di nuovo le mani.
-«L'umanità era il mio affare. Il benessere comune era il mio affare; la [[Charity|carità]], la [[Mercy|misericordia]], la pazienza e la benevolenza erano tutti i miei affari. Le transazioni del mio commercio non erano che una goccia di [[Water|acqua]] nell'oceano vastissimo dei miei affari!»
+«Affari!» gridò lo [[archetypes/ghost|Spirito]], torcendosi di nuovo le mani.
+«L'umanità era il mio affare. Il benessere comune era il mio affare; la [[concepts/charity|carità]], la [[concepts/mercy|misericordia]], la pazienza e la benevolenza erano tutti i miei affari. Le transazioni del mio commercio non erano che una goccia di [[motifs/water|acqua]] nell'oceano vastissimo dei miei affari!»
 
 Alzò la catena a braccio teso, come se quella fosse stata la causa di tutta la sua inutile sofferenza, e la gettò pesantemente di nuovo a terra.
 
-"In questo [[Time|periodo]] dell'anno che si svolge", disse lo spettro,
+"In questo [[motifs/time|periodo]] dell'anno che si svolge", disse lo spettro,
 "soffro di più. Perché ho camminato tra la folla dei miei simili con gli occhi bassi, senza mai alzarli verso quella benedetta Stella che guidò i Re Magi fino a una povera dimora! Non c'erano case povere in cui la sua luce mi avrebbe condotto!"
 
 Scrooge fu molto turbato nel sentire lo spirito continuare in questo modo e cominciò a tremare enormemente.
 
-"Sentitemi!" gridò lo [[Ghost|spettro]]. "Il mio [[Time|tempo]] sta per finire".
+"Sentitemi!" gridò lo [[archetypes/ghost|spettro]]. "Il mio [[motifs/time|tempo]] sta per finire".
 
 «Lo farò», disse Scrooge. «Ma non essere severo con me! Non essere troppo enfatico, Giacobbe! Ti prego!»
 
@@ -5257,54 +5257,54 @@ Scrooge fu molto turbato nel sentire lo spirito continuare in questo modo e comi
 
 Non era un'idea piacevole. Scrooge rabbrividì e si asciugò il sudore dalla fronte.
 
-"Questa non è una parte leggera del mio penitenza", continuò lo [[Ghost|spettro]]. "Sono qui stasera per avvertirti che hai ancora la possibilità e la [[Hope|speranza]] di sfuggire al mio destino. Una possibilità e una [[Hope|speranza]] procurate da me, Ebenezer."
+"Questa non è una parte leggera del mio penitenza", continuò lo [[archetypes/ghost|spettro]]. "Sono qui stasera per avvertirti che hai ancora la possibilità e la [[concepts/hope|speranza]] di sfuggire al mio destino. Una possibilità e una [[concepts/hope|speranza]] procurate da me, Ebenezer."
 
 «Siete sempre stato un buon amico per me», disse Scrooge. «Grazie!»
 
-"Tu sarai perseguitato", riprese lo [[Ghost|spettro]], "da tre spiriti".
+"Tu sarai perseguitato", riprese lo [[archetypes/ghost|spettro]], "da tre spiriti".
 
-Il volto di Scrooge si abbassò quasi quanto quello dello [[Ghost|Spirito]].
+Il volto di Scrooge si abbassò quasi quanto quello dello [[archetypes/ghost|Spirito]].
 
-«È questa la possibilità e la [[Hope|speranza]] che hai menzionato,
+«È questa la possibilità e la [[concepts/hope|speranza]] che hai menzionato,
 Giacobbe?» chiese con voce incerta.
 
 "It is."
 
 «Io, io credo che preferirei di no», disse Scrooge.
 
-«Senza le loro visite», disse lo [[Ghost|Spirito]], «non potete
-[[Hope|sperare]] di evitare la strada che ho percorso. Aspettatevi il primo domani,
+«Senza le loro visite», disse lo [[archetypes/ghost|Spirito]], «non potete
+[[concepts/hope|sperare]] di evitare la strada che ho percorso. Aspettatevi il primo domani,
 quando la campana suonerà l'una».
 
 «Non potrei prenderli tutti insieme e finirla lì,
 Jacobo?» suggerì Scrooge.
 
-«Aspettatevi il secondo la prossima [[Night|notte]] alla stessa ora.
-Il terzo la [[Night|notte]] successiva quando l'ultimo rintocco delle Dodici avrà cessato di vibrare. Non aspettatevi più di vedermi; e badate che, per il vostro bene, ricordiate ciò che è passato tra noi!»
+«Aspettatevi il secondo la prossima [[motifs/night|notte]] alla stessa ora.
+Il terzo la [[motifs/night|notte]] successiva quando l'ultimo rintocco delle Dodici avrà cessato di vibrare. Non aspettatevi più di vedermi; e badate che, per il vostro bene, ricordiate ciò che è passato tra noi!»
 
-Quando ebbe pronunciato queste parole, lo spettro prese il suo panno dal tavolo e se lo avvolse di nuovo intorno alla testa. Scrooge lo capì dal rumore secco che fecero i denti quando la benda strinse le mascelle. Osò alzare gli occhi ancora una volta, e scoprì che il suo visitatore [[Supernatural|soprannaturale]] era di fronte a lui in posizione eretta, con la catena avvolta intorno al braccio.
+Quando ebbe pronunciato queste parole, lo spettro prese il suo panno dal tavolo e se lo avvolse di nuovo intorno alla testa. Scrooge lo capì dal rumore secco che fecero i denti quando la benda strinse le mascelle. Osò alzare gli occhi ancora una volta, e scoprì che il suo visitatore [[motifs/supernatural|soprannaturale]] era di fronte a lui in posizione eretta, con la catena avvolta intorno al braccio.
 
-L'apparizione si allontanò camminando all'indietro da lui e ad ogni passo che faceva la [[Window|finestra]] si alzava un po', così che quando lo spettro l'raggiunse era spalancata.
+L'apparizione si allontanò camminando all'indietro da lui e ad ogni passo che faceva la [[motifs/window|finestra]] si alzava un po', così che quando lo spettro l'raggiunse era spalancata.
 
 Lo spirito fece cenno a Scrooge di avvicinarsi e lui lo fece.
 Quando furono l'uno a due passi dall'altro,
-il [[Ghost|fantasma]] di Marley alzò la mano, intimandogli di non
+il [[archetypes/ghost|fantasma]] di Marley alzò la mano, intimandogli di non
 avvicinarsi oltre. Scrooge si fermò.
 
-Non tanto per obbedienza che per sorpresa e [[Fear|timore]]:
+Non tanto per obbedienza che per sorpresa e [[concepts/fear|timore]]:
 infatti alzando la mano si accorse di confusi rumori nell'aria;
 suoni incoerenti di lamento e rimpianto; pianti inesprimibilmente dolorosi
-e [[Self|autocritici]]. Lo spettro, dopo aver ascoltato per un momento,
-si unì al luttuoso [[Dirge|lamento]]; e galleggiò fuori nella
-desolata, buia [[Night|notte]].
+e [[concepts/self|autocritici]]. Lo spettro, dopo aver ascoltato per un momento,
+si unì al luttuoso [[forms/dirge|lamento]]; e galleggiò fuori nella
+desolata, buia [[motifs/night|notte]].
 
-Scrooge seguì fino alla [[Window|finestra]], disperato dalla sua curiosità. Guardò fuori.
+Scrooge seguì fino alla [[motifs/window|finestra]], disperato dalla sua curiosità. Guardò fuori.
 
-L'aria era piena di fantasmi che vagavano qua e là con affannosa fretta, lamentandosi mentre procedevano. Ognuno di loro portava delle [[Chains|catene]] come lo [[Ghost|spettro]] di Marley; alcuni pochi (forse governi colpevoli) erano legati insieme; nessuno era libero. Molti erano stati conosciuti personalmente da Scrooge quando erano in vita. Egli aveva avuto modo di conoscere molto bene un vecchio [[Ghost|fantasma]], con un panciotto bianco, a cui era attaccata una mostruosa cassaforte di ferro all'anca, che piangeva pietosamente per non poter aiutare una miserabile donna con un bambino in braccio, che vedeva sotto, su uno scalino della porta. La miseria comune a tutti loro era, chiaramente, che cercavano di intervenire, per il bene, negli affari umani, e avevano perso per sempre tale potere.
+L'aria era piena di fantasmi che vagavano qua e là con affannosa fretta, lamentandosi mentre procedevano. Ognuno di loro portava delle [[motifs/chains|catene]] come lo [[archetypes/ghost|spettro]] di Marley; alcuni pochi (forse governi colpevoli) erano legati insieme; nessuno era libero. Molti erano stati conosciuti personalmente da Scrooge quando erano in vita. Egli aveva avuto modo di conoscere molto bene un vecchio [[archetypes/ghost|fantasma]], con un panciotto bianco, a cui era attaccata una mostruosa cassaforte di ferro all'anca, che piangeva pietosamente per non poter aiutare una miserabile donna con un bambino in braccio, che vedeva sotto, su uno scalino della porta. La miseria comune a tutti loro era, chiaramente, che cercavano di intervenire, per il bene, negli affari umani, e avevano perso per sempre tale potere.
 
-Non sapeva se quelle creature si fossero dissolte nella nebbia o la nebbia le avesse avvolte. Ma loro e le loro voci spirituali svanirono insieme; e la [[Night|notte]] divenne come era stata quando aveva camminato verso [[Home|casa]].
+Non sapeva se quelle creature si fossero dissolte nella nebbia o la nebbia le avesse avvolte. Ma loro e le loro voci spirituali svanirono insieme; e la [[motifs/night|notte]] divenne come era stata quando aveva camminato verso [[motifs/home|casa]].
 
-Scrooge chiuse la [[Window|finestra]] e ispezionò la porta da cui lo [[Ghost|Spirito]] era entrato. Era [[Double|doppia]], come aveva fatto lui stesso a chiudere con le proprie mani, e i chiavistelli erano intatti. Provò a dire "Fandonia!", ma si fermò alla prima sillaba. E poiché, per l'emozione che aveva provato o per la fatica della giornata o per il suo sguardo sul Mondo Invisibile o per la noiosa conversazione dello [[Ghost|Spirito]] o per l'ora tarda, aveva un gran bisogno di riposo; andò dritto a letto senza spogliarsi e si addormentò all'istante.
+Scrooge chiuse la [[motifs/window|finestra]] e ispezionò la porta da cui lo [[archetypes/ghost|Spirito]] era entrato. Era [[topoi/double|doppia]], come aveva fatto lui stesso a chiudere con le proprie mani, e i chiavistelli erano intatti. Provò a dire "Fandonia!", ma si fermò alla prima sillaba. E poiché, per l'emozione che aveva provato o per la fatica della giornata o per il suo sguardo sul Mondo Invisibile o per la noiosa conversazione dello [[archetypes/ghost|Spirito]] o per l'ora tarda, aveva un gran bisogno di riposo; andò dritto a letto senza spogliarsi e si addormentò all'istante.
 
 
 
@@ -5314,7 +5314,7 @@ Scrooge chiuse la [[Window|finestra]] e ispezionò la porta da cui lo [[Ghost|Sp
 STAVE II:  THE FIRST OF THE THREE SPIRITS
 
 WHEN Scrooge awoke, it was so dark, that looking out of bed,
-he could scarcely distinguish the transparent [[Window|window]] from
+he could scarcely distinguish the transparent [[motifs/window|window]] from
 the opaque walls of his chamber. He was endeavouring to
 pierce the darkness with his ferret eyes, when the chimes of a
 neighbouring church struck the four quarters. So he listened
@@ -5323,28 +5323,28 @@ for the hour.
 To his great astonishment the heavy bell went on from
 six to seven, and from seven to eight, and regularly up to
 twelve; then stopped. Twelve! It was past two when he
-went to bed. The [[Clock|clock]] was wrong. An icicle must have
+went to bed. The [[motifs/clock|clock]] was wrong. An icicle must have
 got into the works. Twelve!
 
-He touched the [[spring]] of his repeater, to correct this most
-preposterous [[Clock|clock]]. Its rapid little pulse beat twelve:
+He touched the [[motifs/spring|spring]] of his repeater, to correct this most
+preposterous [[motifs/clock|clock]]. Its rapid little pulse beat twelve:
 and stopped.
 
 "Why, it isn't possible," said Scrooge, "that I can have
-slept through a whole day and far into another [[Night|night]]. It
+slept through a whole day and far into another [[motifs/night|night]]. It
 isn't possible that anything has happened to the sun, and
-this is twelve at [[Noon|noon]]!"
+this is twelve at [[motifs/noon|noon]]!"
 
 The idea being an alarming one, he scrambled out of bed,
-and groped his way to the [[Window|window]]. He was obliged to rub
-the [[Frost|frost]] off with the sleeve of his dressing-gown before he
+and groped his way to the [[motifs/window|window]]. He was obliged to rub
+the [[motifs/frost|frost]] off with the sleeve of his dressing-gown before he
 could see anything; and could see very little then. All he
 could make out was, that it was still very foggy and extremely
 cold, and that there was no noise of people running to and fro,
 and making a great stir, as there unquestionably would have been
-if [[Night|night]] had beaten off bright day, and taken possession of the
+if [[motifs/night|night]] had beaten off bright day, and taken possession of the
 world.  This was a great relief, because "three days after sight
-of this First of Exchange pay to Mr. [[Ebenezer Scrooge]] or his
+of this First of Exchange pay to Mr. [[characters/ebenezer-scrooge|Ebenezer Scrooge]] or his
 order," and so forth, would have become a mere United States'
 security if there were no days to count by.
 
@@ -5353,21 +5353,21 @@ it over and over and over, and could make nothing of it.  The more he
 thought, the more perplexed he was; and the more he endeavoured
 not to think, the more he thought.
 
-Marley's [[Ghost]] bothered him exceedingly. Every [[Time|time]] he resolved
-within himself, after mature inquiry, that it was all [[A Dream|a dream]], his
-mind flew back again, like a strong [[spring]] released, to its first
+Marley's [[archetypes/ghost|Ghost]] bothered him exceedingly. Every [[motifs/time|time]] he resolved
+within himself, after mature inquiry, that it was all a dream, his
+mind flew back again, like a strong [[motifs/spring|spring]] released, to its first
 position, and presented the same problem to be worked all through,
-"Was it [[A Dream|a dream]] or not?"
+"Was it a dream or not?"
 
 Scrooge lay in this state until the chime had gone three quarters
-more, when he remembered, on a sudden, that the [[Ghost]] had warned
+more, when he remembered, on a sudden, that the [[archetypes/ghost|Ghost]] had warned
 him of a visitation when the bell tolled one.  He resolved to lie
 awake until the hour was passed; and, considering that he could
-no more go to [[Sleep|sleep]] than go to Heaven, this was perhaps the
+no more go to [[motifs/sleep|sleep]] than go to Heaven, this was perhaps the
 wisest resolution in his power.
 
 The quarter was so long, that he was more than once convinced he
-must have sunk into a doze unconsciously, and missed the [[Clock|clock]].
+must have sunk into a doze unconsciously, and missed the [[motifs/clock|clock]].
 At length it broke upon his listening ear.
 
 "Ding, dong!"
@@ -5387,7 +5387,7 @@ At length it broke upon his listening ear.
 "The hour itself," said Scrooge, triumphantly, "and nothing else!"
 
 He spoke before the hour bell sounded, which it now did with a
-deep, dull, hollow, [[Melancholy|melancholy]] ONE.  Light flashed up in the room
+deep, dull, hollow, [[concepts/melancholy|melancholy]] ONE.  Light flashed up in the room
 upon the instant, and the curtains of his bed were drawn.
 
 The curtains of his bed were drawn aside, I tell you, by a
@@ -5398,10 +5398,10 @@ half-recumbent attitude, found himself face to face with the
 unearthly visitor who drew them: as close to it as I am now
 to you, and I am standing in the spirit at your elbow.
 
-It was a strange figure--like a [[Child|child]]: yet not so like a
-[[Child|child]] as like an old man, viewed through some [[Supernatural|supernatural]]
+It was a strange figure--like a [[archetypes/child|child]]: yet not so like a
+[[archetypes/child|child]] as like an old man, viewed through some [[motifs/supernatural|supernatural]]
 medium, which gave him the appearance of having receded
-from the view, and being diminished to a [[Child|child]]'s proportions.
+from the view, and being diminished to a [[archetypes/child|child]]'s proportions.
 Its hair, which hung about its neck and down its back, was
 white as if with age; and yet the face had not a wrinkle in
 it, and the tenderest bloom was on the skin. The arms were
@@ -5412,8 +5412,8 @@ of the purest white; and round its waist was bound
 a lustrous belt, the sheen of which was beautiful. It held
 a branch of fresh green holly in its hand; and, in singular
 contradiction of that wintry emblem, had its dress trimmed
-with [[Summer|summer]] [[Flowers|flowers]]. But the strangest thing about it was,
-that from the [[Crown|crown]] of its head there sprung a bright clear
+with [[motifs/summer|summer]] [[motifs/flowers|flowers]]. But the strangest thing about it was,
+that from the [[motifs/crown|crown]] of its head there sprung a bright clear
 jet of light, by which all this was visible; and which was
 doubtless the occasion of its using, in its duller moments, a
 great extinguisher for a cap, which it now held under its arm.
@@ -5421,13 +5421,13 @@ great extinguisher for a cap, which it now held under its arm.
 Even this, though, when Scrooge looked at it with increasing
 steadiness, was not its strangest quality. For as its belt
 sparkled and glittered now in one part and now in another,
-and what was light one instant, at another [[Time|time]] was dark, so
+and what was light one instant, at another [[motifs/time|time]] was dark, so
 the figure itself fluctuated in its distinctness: being now a
 thing with one arm, now with one leg, now with twenty legs,
 now a pair of legs without a head, now a head without a
-[[Body|body]]: of which dissolving parts, no outline would be visible
+[[concepts/body|body]]: of which dissolving parts, no outline would be visible
 in the dense gloom wherein they melted away. And in the
-very [[Wonder|wonder]] of this, it would be itself again; distinct and
+very [[concepts/wonder|wonder]] of this, it would be itself again; distinct and
 clear as ever.
 
 "Are you the Spirit, sir, whose coming was foretold to
@@ -5440,7 +5440,7 @@ instead of being so close beside him, it were at a distance.
 
 "Who, and what are you?" Scrooge demanded.
 
-"I am the [[Ghost of Christmas Past]]."
+"I am the [[characters/ghost-of-christmas-past|Ghost of Christmas Past]]."
 
 "Long Past?" inquired Scrooge: observant of its dwarfish
 stature.
@@ -5448,7 +5448,7 @@ stature.
 "No. Your past."
 
 Perhaps, Scrooge could not have told anybody why, if
-anybody could have asked him; but he had a special [[Desire|desire]]
+anybody could have asked him; but he had a special [[motifs/desire|desire]]
 to see the Spirit in his cap; and begged him to be covered.
 
 
@@ -5457,26 +5457,26 @@ to see the Spirit in his cap; and begged him to be covered.
 CAPITOLO II: IL PRIMO DEGLI TRE SPIRITI
 
 QUANDO Scrooge si svegliò, era così buio che guardando fuori dal letto,
-a malapena riusciva a distinguere la [[Window|finestra]] trasparente dalle pareti opache della sua camera. Stava cercando di penetrare l'oscurità con i suoi occhi da furetto, quando le campane di una chiesa vicina suonarono i quattro quarti. Così aspettò l'ora.
+a malapena riusciva a distinguere la [[motifs/window|finestra]] trasparente dalle pareti opache della sua camera. Stava cercando di penetrare l'oscurità con i suoi occhi da furetto, quando le campane di una chiesa vicina suonarono i quattro quarti. Così aspettò l'ora.
 
-Con suo grande stupore la pesante campana continuò a suonare dalle sei alle sette, e dalle sette all'otto, e regolarmente fino a mezzanotte; poi si fermò. Mezzanotte! Erano passate le due quando andò a letto. La [[Clock|clessidra]] era rotta. Un ghiacciolo doveva essersi incastrato nei meccanismi. Mezzanotte!
+Con suo grande stupore la pesante campana continuò a suonare dalle sei alle sette, e dalle sette all'otto, e regolarmente fino a mezzanotte; poi si fermò. Mezzanotte! Erano passate le due quando andò a letto. La [[motifs/clock|clessidra]] era rotta. Un ghiacciolo doveva essersi incastrato nei meccanismi. Mezzanotte!
 
-Toccò la [[spring|molla]] del suo ripetitore per correggere questo [[Clock|orologio]] più che assurdo: il suo rapido battito pulsava dodici volte e si fermava.
+Toccò la [[motifs/spring|molla]] del suo ripetitore per correggere questo [[motifs/clock|orologio]] più che assurdo: il suo rapido battito pulsava dodici volte e si fermava.
 
-«Ma non è possibile», disse Scrooge, «che io abbia dormito per un giorno intero e ben oltre la [[Night|notte]]. Non è possibile che sia successo qualcosa al sole, e che siano le dodici di [[Noon|mezzogiorno]]!»
+«Ma non è possibile», disse Scrooge, «che io abbia dormito per un giorno intero e ben oltre la [[motifs/night|notte]]. Non è possibile che sia successo qualcosa al sole, e che siano le dodici di [[motifs/noon|mezzogiorno]]!»
 
-Essendo l'idea allarmante, si arrampicò fuori dal letto e tastoni raggiunse la [[Window|finestra]]. Fu costretto a strofinare via il [[Frost|gelato]] con la manica del suo accappatoio prima di poter vedere qualcosa; e anche allora non riusciva a vedere molto. Tutto ciò che poteva capire era che faceva ancora molto nebbia ed estremamente freddo, e che non c'era rumore di persone che correvano avanti e indietro, facendo un gran trambusto, come senza dubbio ci sarebbe stato se la [[Night|notte]] avesse sconfitto il giorno luminoso e preso possesso del mondo. Questo fu un grande sollievo, perché "tre giorni dopo vista di questo primo assegno pagare a Mr. [[Ebenezer Scrooge]] o suo ordine" e così via, sarebbe diventato una semplice sicurezza degli Stati Uniti se non ci fossero stati giorni da contare.
+Essendo l'idea allarmante, si arrampicò fuori dal letto e tastoni raggiunse la [[motifs/window|finestra]]. Fu costretto a strofinare via il [[motifs/frost|gelato]] con la manica del suo accappatoio prima di poter vedere qualcosa; e anche allora non riusciva a vedere molto. Tutto ciò che poteva capire era che faceva ancora molto nebbia ed estremamente freddo, e che non c'era rumore di persone che correvano avanti e indietro, facendo un gran trambusto, come senza dubbio ci sarebbe stato se la [[motifs/night|notte]] avesse sconfitto il giorno luminoso e preso possesso del mondo. Questo fu un grande sollievo, perché "tre giorni dopo vista di questo primo assegno pagare a Mr. [[characters/ebenezer-scrooge|Ebenezer Scrooge]] o suo ordine" e così via, sarebbe diventato una semplice sicurezza degli Stati Uniti se non ci fossero stati giorni da contare.
 
 Scrooge tornò a letto e pensò, e pensò, e ripensò la cosa più volte,
 ma non riusciva a capirci nulla. Più ci pensava, più si confondeva;
 e più cercava di non pensarci, più ci pensava.
 
-Lo [[Ghost|spettro]] di Marley lo tormentava in modo eccessivo. Ogni [[Time|volta]] che si convinceva, dopo una matura riflessione, che tutto fosse stato solo un [[A Dream|sogno]], la sua mente tornava indietro come una forte [[spring|molla]] liberata, alla sua posizione iniziale e gli presentava lo stesso problema da risolvere: "Era stato un [[A Dream|sogno]] o no?"
+Lo [[archetypes/ghost|spettro]] di Marley lo tormentava in modo eccessivo. Ogni [[motifs/time|volta]] che si convinceva, dopo una matura riflessione, che tutto fosse stato solo un sogno, la sua mente tornava indietro come una forte [[motifs/spring|molla]] liberata, alla sua posizione iniziale e gli presentava lo stesso problema da risolvere: "Era stato un sogno o no?"
 
 Scrooge rimase in questo stato fino a che il rintocco non ebbe suonato altri tre quarti,
-quando gli tornò improvvisamente alla mente che lo [[Ghost|spettro]] l'aveva avvertito di una visita quando la campana avesse battuto l'una. Decise di rimanere sveglio fino a che non fosse passata quell'ora; e, considerando che non poteva più andare a [[Sleep|dormire]] di quanto potesse andare in Paradiso, questa era forse la decisione più saggia alla sua portata.
+quando gli tornò improvvisamente alla mente che lo [[archetypes/ghost|spettro]] l'aveva avvertito di una visita quando la campana avesse battuto l'una. Decise di rimanere sveglio fino a che non fosse passata quell'ora; e, considerando che non poteva più andare a [[motifs/sleep|dormire]] di quanto potesse andare in Paradiso, questa era forse la decisione più saggia alla sua portata.
 
-Il quarto d'ora era così lungo che più di una volta fu convinto di essere sprofondato in un sonnellino senza accorgersene e di aver perso la [[Clock|campana]]. Alla fine essa giunse all'orecchio attento.
+Il quarto d'ora era così lungo che più di una volta fu convinto di essere sprofondato in un sonnellino senza accorgersene e di aver perso la [[motifs/clock|campana]]. Alla fine essa giunse all'orecchio attento.
 
 «Din, don!»
 
@@ -5495,13 +5495,13 @@ Il quarto d'ora era così lungo che più di una volta fu convinto di essere spro
 «L'ora stessa», disse Scrooge trionfalmente, «e nient'altro!»
 
 Parlò prima che suonasse la campana dell'ora, che ora fece con un
-suono profondo, opaco, vuoto e [[Melancholy|malinconico]]. Uno scoppio di luce illuminò immediatamente la stanza e le tende del suo letto furono aperte.
+suono profondo, opaco, vuoto e [[concepts/melancholy|malinconico]]. Uno scoppio di luce illuminò immediatamente la stanza e le tende del suo letto furono aperte.
 
 Le tende del suo letto furono scostate, ve lo dico io, da una mano. Non le tende ai suoi piedi né quelle dietro di lui, ma quelle davanti al suo viso. Le tende del suo letto furono scostate; e Scrooge, balzando in un atteggiamento semi-seduto, si trovò faccia a faccia con il visitatore ultraterreno che le aveva aperte: tanto vicino quanto io sono ora a voi, e io sto in piedi nello spirito al vostro gomito.
 
-Era una figura strana: somigliava a un [[Child|bambino]], eppure non tanto a un [[Child|bambino]] quanto a un vecchio osservato attraverso qualche mezzo [[Supernatural|soprannaturale]] che gli dava l'aspetto di essersi allontanato dalla vista, riducendosi alle proporzioni di un [[Child|bambino]]. I suoi capelli, che gli cadevano sul collo e lungo la schiena, erano bianchi come se fossero invecchiati; eppure il volto non aveva una ruga e la pelle era delicata. Le braccia erano molto lunghe e muscolose; le mani altrettanto forti, come se avessero una presa di straordinaria potenza. Le gambe e i piedi, di forma squisita, erano, come quelle parti superiori del corpo, nudi. Indossava una tunica di un bianco puro; intorno alla vita portava una cintura lucente, la cui brillantezza era bella da vedere. Teneva in mano un ramo di agrifoglio verde fresco e, in singolare contraddizione con quell'emblema invernale, il suo abito era ornato di [[Summer|fiori]] [[Flowers|estivi]]. Ma la cosa più strana era che dalla [[Crown|cima]] della sua testa usciva un getto luminoso e chiaro grazie al quale tutto ciò era visibile; senza dubbio questa era la ragione per cui, nei momenti meno brillanti, si serviva di una grande copribaffi come cappello, che ora teneva sotto il braccio.
+Era una figura strana: somigliava a un [[archetypes/child|bambino]], eppure non tanto a un [[archetypes/child|bambino]] quanto a un vecchio osservato attraverso qualche mezzo [[motifs/supernatural|soprannaturale]] che gli dava l'aspetto di essersi allontanato dalla vista, riducendosi alle proporzioni di un [[archetypes/child|bambino]]. I suoi capelli, che gli cadevano sul collo e lungo la schiena, erano bianchi come se fossero invecchiati; eppure il volto non aveva una ruga e la pelle era delicata. Le braccia erano molto lunghe e muscolose; le mani altrettanto forti, come se avessero una presa di straordinaria potenza. Le gambe e i piedi, di forma squisita, erano, come quelle parti superiori del corpo, nudi. Indossava una tunica di un bianco puro; intorno alla vita portava una cintura lucente, la cui brillantezza era bella da vedere. Teneva in mano un ramo di agrifoglio verde fresco e, in singolare contraddizione con quell'emblema invernale, il suo abito era ornato di [[motifs/summer|fiori]] [[motifs/flowers|estivi]]. Ma la cosa più strana era che dalla [[motifs/crown|cima]] della sua testa usciva un getto luminoso e chiaro grazie al quale tutto ciò era visibile; senza dubbio questa era la ragione per cui, nei momenti meno brillanti, si serviva di una grande copribaffi come cappello, che ora teneva sotto il braccio.
 
-Anche questo però, mentre Scrooge lo guardava con crescente fermezza, non era la sua qualità più strana. Perché come la cintura scintillava e brillava ora in una parte e ora nell'altra, e ciò che era luminoso un istante, in un altro [[Time|momento]] era oscuro, così anche la figura stessa oscillava nella sua distinzione: essendo ora una cosa con un braccio, ora con una gamba, ora con venti gambe, ora un paio di gambe senza testa, ora una testa senza [[Body|corpo]]: delle quali parti dissolventisi, nessun contorno sarebbe visibile nel denso buio in cui si fondevano. E proprio nella [[Wonder|meraviglia]] di questo, essa sarebbe stata di nuovo se stessa; distinta e chiara come sempre.
+Anche questo però, mentre Scrooge lo guardava con crescente fermezza, non era la sua qualità più strana. Perché come la cintura scintillava e brillava ora in una parte e ora nell'altra, e ciò che era luminoso un istante, in un altro [[motifs/time|momento]] era oscuro, così anche la figura stessa oscillava nella sua distinzione: essendo ora una cosa con un braccio, ora con una gamba, ora con venti gambe, ora un paio di gambe senza testa, ora una testa senza [[concepts/body|corpo]]: delle quali parti dissolventisi, nessun contorno sarebbe visibile nel denso buio in cui si fondevano. E proprio nella [[concepts/wonder|meraviglia]] di questo, essa sarebbe stata di nuovo se stessa; distinta e chiara come sempre.
 
 «Siete voi lo Spirito la cui venuta mi era stata predetta?» chiese Scrooge.
 
@@ -5512,20 +5512,20 @@ anziché trovarsi così vicina accanto a lui, fosse lontana.
 
 «Chi siete e che cosa volete?» chiese Scrooge.
 
-«Io sono lo [[Ghost of Christmas Past|spettro]] del Natale passato».
+«Io sono lo [[characters/ghost-of-christmas-past|spettro]] del Natale passato».
 
 «Passato lontano?» chiese Scrooge, osservandone la bassa statura.
 
 «No. Il suo passato».
 
-Forse Scrooge non avrebbe saputo dire perché a nessuno, se qualcuno glielo avesse chiesto; ma aveva un particolare [[Desire|desiderio]] di vedere lo Spirito col suo cappello e lo pregò di coprirselo.
+Forse Scrooge non avrebbe saputo dire perché a nessuno, se qualcuno glielo avesse chiesto; ma aveva un particolare [[motifs/desire|desiderio]] di vedere lo Spirito col suo cappello e lo pregò di coprirselo.
 
 
 
 <span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_02" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 2)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/city,motif/cross,motif/fire,motif/night,motif/river,motif/road,motif/rose,motif/snow,motif/tears,motif/time,motif/water,motif/well,motif/window,motif/winter,concept/melancholy,concept/self"></span>
 
 
-"What!" exclaimed the [[Ghost]], "would you so soon put out,
+"What!" exclaimed the [[archetypes/ghost|Ghost]], "would you so soon put out,
 with worldly hands, the light I give? Is it not enough
 that you are one of those whose passions made this cap, and
 force me through whole trains of years to wear it low upon
@@ -5536,10 +5536,10 @@ or any knowledge of having wilfully "bonneted" the Spirit at
 any period of his life. He then made bold to inquire what
 business brought him there.
 
-"Your welfare!" said the [[Ghost]].
+"Your welfare!" said the [[archetypes/ghost|Ghost]].
 
 Scrooge expressed himself much obliged, but could not
-help thinking that a [[Night|night]] of unbroken rest would have been
+help thinking that a [[motifs/night|night]] of unbroken rest would have been
 more conducive to that end. The Spirit must have heard
 him thinking, for it said immediately:
 
@@ -5555,9 +5555,9 @@ weather and the hour were not adapted to pedestrian purposes;
 that bed was warm, and the thermometer a long way below
 freezing; that he was clad but lightly in his slippers,
 dressing-gown, and nightcap; and that he had a cold upon him at
-that [[Time|time]]. The grasp, though gentle as a woman's hand,
-was not to be resisted. He [[Rose|rose]]: but finding that the Spirit
-made towards the [[Window|window]], clasped his robe in supplication.
+that [[motifs/time|time]]. The grasp, though gentle as a woman's hand,
+was not to be resisted. He [[motifs/rose|rose]]: but finding that the Spirit
+made towards the [[motifs/window|window]], clasped his robe in supplication.
 
 "I am a mortal," Scrooge remonstrated, "and liable to fall."
 
@@ -5566,10 +5566,10 @@ laying it upon his heart, "and you shall be upheld in more
 than this!"
 
 As the words were spoken, they passed through the wall,
-and stood upon an open country [[Road|road]], with fields on either
-hand. The [[City|city]] had entirely vanished. Not a vestige of it
+and stood upon an open country [[motifs/road|road]], with fields on either
+hand. The [[motifs/city|city]] had entirely vanished. Not a vestige of it
 was to be seen. The darkness and the mist had vanished
-with it, for it was a clear, cold, [[Winter|winter]] day, with [[Snow|snow]] upon
+with it, for it was a clear, cold, [[motifs/winter|winter]] day, with [[motifs/snow|snow]] upon
 the ground.
 
 "Good Heaven!" said Scrooge, clasping his hands together,
@@ -5583,11 +5583,11 @@ of a thousand odours floating in the air, each one connected
 with a thousand thoughts, and hopes, and joys, and cares
 long, long, forgotten!
 
-"Your lip is trembling," said the [[Ghost]]. "And what is
+"Your lip is trembling," said the [[archetypes/ghost|Ghost]]. "And what is
 that upon your cheek?"
 
 Scrooge muttered, with an unusual catching in his voice,
-that it was a pimple; and begged the [[Ghost]] to lead him
+that it was a pimple; and begged the [[archetypes/ghost|Ghost]] to lead him
 where he would.
 
 "You recollect the way?" inquired the Spirit.
@@ -5596,11 +5596,11 @@ where he would.
 walk it blindfold."
 
 "Strange to have forgotten it for so many years!" observed
-the [[Ghost]]. "Let us go on."
+the [[archetypes/ghost|Ghost]]. "Let us go on."
 
-They walked along the [[Road|road]], Scrooge recognising every
+They walked along the [[motifs/road|road]], Scrooge recognising every
 gate, and post, and tree; until a little market-town appeared
-in the distance, with its bridge, its church, and winding [[River|river]].
+in the distance, with its bridge, its church, and winding [[motifs/river|river]].
 Some shaggy ponies now were seen trotting towards them
 with boys upon their backs, who called to other boys in
 country gigs and carts, driven by farmers. All these boys
@@ -5609,27 +5609,27 @@ broad fields were so full of merry music, that the crisp air
 laughed to hear it!
 
 "These are but shadows of the things that have been," said
-the [[Ghost]]. "They have no consciousness of us."
+the [[archetypes/ghost|Ghost]]. "They have no consciousness of us."
 
 The jocund travellers came on; and as they came, Scrooge
 knew and named them every one. Why was he rejoiced beyond
 all bounds to see them! Why did his cold eye glisten, and
 his heart leap up as they went past! Why was he filled
 with gladness when he heard them give each other Merry
-Christmas, as they parted at [[Cross|cross]]-roads and bye-ways, for
+Christmas, as they parted at [[motifs/cross|cross]]-roads and bye-ways, for
 their several homes! What was merry Christmas to Scrooge?
 Out upon merry Christmas! What good had it ever done
 to him?
 
-"The school is not quite deserted," said the [[Ghost]]. "A
-solitary [[Child|child]], neglected by his friends, is left there still."
+"The school is not quite deserted," said the [[archetypes/ghost|Ghost]]. "A
+solitary [[archetypes/child|child]], neglected by his friends, is left there still."
 
 Scrooge said he knew it. And he sobbed.
 
-They left the high-[[Road|road]], by a [[Well|well]]-remembered lane, and
+They left the high-[[motifs/road|road]], by a [[motifs/well|well]]-remembered lane, and
 soon approached a mansion of dull red brick, with a little
 weathercock-surmounted cupola, on the roof, and a bell
-hanging in it. It was a large [[house]], but one of broken
+hanging in it. It was a large house, but one of broken
 fortunes; for the spacious offices were little used, their walls
 were damp and mossy, their windows broken, and their
 gates decayed. Fowls clucked and strutted in the stables;
@@ -5642,40 +5642,40 @@ chilly bareness in the place, which associated itself somehow
 with too much getting up by candle-light, and not too
 much to eat.
 
-They went, the [[Ghost]] and Scrooge, across the hall, to a
-door at the back of the [[house]]. It opened before them, and
-disclosed a long, bare, [[Melancholy|melancholy]] room, made barer still by
+They went, the [[archetypes/ghost|Ghost]] and Scrooge, across the hall, to a
+door at the back of the house. It opened before them, and
+disclosed a long, bare, [[concepts/melancholy|melancholy]] room, made barer still by
 lines of plain deal forms and desks. At one of these a lonely
-boy was reading near a feeble [[Fire|fire]]; and Scrooge sat down
-upon a form, and wept to see his poor forgotten [[Self|self]] as he
+boy was reading near a feeble [[motifs/fire|fire]]; and Scrooge sat down
+upon a form, and wept to see his poor forgotten [[concepts/self|self]] as he
 used to be.
 
-Not a latent echo in the [[house]], not a squeak and scuffle
+Not a latent echo in the house, not a squeak and scuffle
 from the mice behind the panelling, not a drip from the
-half-thawed [[Water|water]]-spout in the dull yard behind, not a sigh among
+half-thawed [[motifs/water|water]]-spout in the dull yard behind, not a sigh among
 the leafless boughs of one despondent poplar, not the idle
-swinging of an empty store-[[house]] door, no, not a clicking in
-the [[Fire|fire]], but fell upon the heart of Scrooge with a softening
-influence, and gave a freer passage to his [[Tears|tears]].
+swinging of an empty store-house door, no, not a clicking in
+the [[motifs/fire|fire]], but fell upon the heart of Scrooge with a softening
+influence, and gave a freer passage to his [[motifs/tears|tears]].
 
 The Spirit touched him on the arm, and pointed to his
-younger [[Self|self]], intent upon his reading. Suddenly a man, in
+younger [[concepts/self|self]], intent upon his reading. Suddenly a man, in
 foreign garments: wonderfully real and distinct to look at:
-stood outside the [[Window|window]], with an axe stuck in his belt, and
+stood outside the [[motifs/window|window]], with an axe stuck in his belt, and
 leading by the bridle an ass laden with wood.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-"Che cosa!" esclamò lo [[Ghost|Spirito]], "vorresti così presto spegnere,
+"Che cosa!" esclamò lo [[archetypes/ghost|Spirito]], "vorresti così presto spegnere,
 con mani terrene, la luce che io dono? Non ti basta
 il fatto di essere uno di coloro le cui passioni hanno creato questo cappuccio e mi costringono a portarlo basso sulla fronte per interi anni!"
 
 Scrooge negò con riverenza ogni intenzione di offendere o di aver mai “calzato il cappello” allo Spirito in alcun momento della sua vita. Poi si permise di chiedere quale affare lo avesse portato lì.
 
-«Il tuo benessere!» disse lo [[Ghost|spettro]].
+«Il tuo benessere!» disse lo [[archetypes/ghost|spettro]].
 
-Scrooge si dichiarò molto grato, ma non poté fare a meno di pensare che una [[Night|notte]] di riposo ininterrotto sarebbe stata più utile allo scopo. Lo Spirito doveva averlo sentito pensare, perché disse subito:
+Scrooge si dichiarò molto grato, ma non poté fare a meno di pensare che una [[motifs/night|notte]] di riposo ininterrotto sarebbe stata più utile allo scopo. Lo Spirito doveva averlo sentito pensare, perché disse subito:
 
 «La vostra redenzione, dunque. State attenti!»
 
@@ -5683,14 +5683,14 @@ Mentre parlava, allungò la sua forte mano e lo afferrò delicatamente per il br
 
 «Alzati! e cammina con me!»
 
-Sarebbe stato vano per Scrooge sostenere che il tempo e l'ora non erano adatti a scopi pedonali; che il letto era caldo, e il termometro ben al di sotto dello zero; che era vestito solo con pantofole, veste da camera e berretto da notte; e che aveva un raffreddore in quel [[Time|momento]]. La presa, sebbene delicata come quella di una mano femminile, non poteva essere resistita. Egli [[Rose|si alzò]]: ma trovando che lo Spirito si dirigeva verso la [[Window|finestra]], strinse la sua veste in supplica.
+Sarebbe stato vano per Scrooge sostenere che il tempo e l'ora non erano adatti a scopi pedonali; che il letto era caldo, e il termometro ben al di sotto dello zero; che era vestito solo con pantofole, veste da camera e berretto da notte; e che aveva un raffreddore in quel [[motifs/time|momento]]. La presa, sebbene delicata come quella di una mano femminile, non poteva essere resistita. Egli [[motifs/rose|si alzò]]: ma trovando che lo Spirito si dirigeva verso la [[motifs/window|finestra]], strinse la sua veste in supplica.
 
 «Sono un essere umano», obiettò Scrooge, «e soggetto a cadute».
 
 «Basta che io ti tocchi con la mia mano», disse lo Spirito,
 appoggiandola sul suo cuore, «e sarai sostenuto da ben più di questo!»
 
-Mentre le parole venivano pronunciate, attraversarono il muro e si trovarono su una [[Road|strada]] di campagna aperta, con campi da entrambi i lati. La [[City|città]] era completamente scomparsa. Non se ne vedeva più traccia. L'oscurità e la nebbia erano svanite insieme ad essa, perché era un giorno chiaro, freddo d'[[Winter|inverno]], con la [[Snow|neve]] a terra.
+Mentre le parole venivano pronunciate, attraversarono il muro e si trovarono su una [[motifs/road|strada]] di campagna aperta, con campi da entrambi i lati. La [[motifs/city|città]] era completamente scomparsa. Non se ne vedeva più traccia. L'oscurità e la nebbia erano svanite insieme ad essa, perché era un giorno chiaro, freddo d'[[motifs/winter|inverno]], con la [[motifs/snow|neve]] a terra.
 
 «Buon Dio!» esclamò Scrooge, stringendosi le mani mentre si guardava intorno.
 «Sono stato educato qui. Ero un ragazzo qui!»
@@ -5702,49 +5702,49 @@ di mille odori che fluttuavano nell'aria, ognuno dei quali connesso
 a mille pensieri, speranze, gioie e preoccupazioni,
 dimenticate da tanto, tanto tempo!
 
-"Il tuo labbro trema", disse lo [[Ghost|spettro]], "e cosa hai sulla guancia?"
+"Il tuo labbro trema", disse lo [[archetypes/ghost|spettro]], "e cosa hai sulla guancia?"
 
 Scrooge borbottò, con un insolito tremore nella voce,
-che si trattava di una pustola e pregò lo [[Ghost|Spirito]] di condurlo
+che si trattava di una pustola e pregò lo [[archetypes/ghost|Spirito]] di condurlo
 dove voleva.
 
 «Ti ricordi la strada?» chiese lo Spirito.
 
 «Ricordatela!» gridò Scrooge con fervore «Potrei percorrerla a occhi chiusi.»
 
-«È strano averlo dimenticato per tanti anni!» osservò lo [[Ghost|Spirito]]. «Andiamo avanti.»
+«È strano averlo dimenticato per tanti anni!» osservò lo [[archetypes/ghost|Spirito]]. «Andiamo avanti.»
 
-Camminarono lungo la [[Road|strada]], Scrooge riconoscendo ogni cancello,
+Camminarono lungo la [[motifs/road|strada]], Scrooge riconoscendo ogni cancello,
 palo e albero; finché una piccola cittadina di mercato apparve
-in lontananza, con il suo ponte, la sua chiesa e il suo fiume tortuoso [[River|fiume]].
+in lontananza, con il suo ponte, la sua chiesa e il suo fiume tortuoso [[motifs/river|fiume]].
 Ora si vedevano alcuni pony arruffati trotterellare verso di loro
 con dei ragazzi in groppa, che chiamavano altri ragazzi su carri e carrozze di campagna,
 guidate da agricoltori. Tutti questi ragazzi erano di grande umore,
 e gridavano l'uno all'altro, finché i vasti campi si riempirono
 di musica allegra, tanto che l'aria gelida rideva nel sentirli!
 
-«Queste sono solo ombre delle cose che furono», disse lo [[Ghost|Spirito]], «non hanno alcuna consapevolezza di noi».
+«Queste sono solo ombre delle cose che furono», disse lo [[archetypes/ghost|Spirito]], «non hanno alcuna consapevolezza di noi».
 
 I viaggiatori allegri proseguirono; e mentre procedevano,
 Scrooge li riconosceva e nominava uno per uno. Perché era così
 felice di vederli, oltre ogni limite! Perché il suo freddo sguardo brillava,
 e il suo cuore si sollevava quando passavano? Perché si sentiva pieno
 di gioia quando li udiva augurarsi Buon Natale a vicenda, mentre si separavano
-agli [[Cross|incroci]] e nei viottoli per tornare alle rispettive case! Che cosa era il
+agli [[motifs/cross|incroci]] e nei viottoli per tornare alle rispettive case! Che cosa era il
 Buon Natale per Scrooge? Fuori dai piedi al Buon Natale! Qual buon fine aveva mai
 servito a lui?
 
-"La scuola non è del tutto deserta", disse lo [[Ghost|Spirito]]. "Un [[Child|bambino]] solitario, trascurato dai suoi amici, è ancora lì".
+"La scuola non è del tutto deserta", disse lo [[archetypes/ghost|Spirito]]. "Un [[archetypes/child|bambino]] solitario, trascurato dai suoi amici, è ancora lì".
 
 Scrooge disse che lo sapeva. E pianse.
 
-Lasciarono la [[Road|strada]] maestra per una stradina ben nota e presto si avvicinarono a un palazzo di mattoni rossi spenti con una piccola cupola sormontata da un gallo canto sul tetto, e una campana appesa al suo interno. Era una grande [[house|casa]], ma di fortuna decaduta; infatti gli ampi uffici erano poco utilizzati, le loro pareti umide e ricoperte di muschio, le finestre rotte e i cancelli in rovina. I polli facevano coccodè e camminavano impettiti nelle stalle; e le carrozzine e gli capanni erano invasi dall'erba. Non era più conservata nel suo stato antico nemmeno all'interno; infatti entrando nell'atrio desolato e dando un'occhiata attraverso le porte aperte di molte stanze, le trovarono arredate poveramente, fredde e immense. C'era un sapore terroso nell'aria, una fredda nudità nel luogo, che si associava in qualche modo a troppe alzate alla luce di candela e non abbastanza da mangiare.
+Lasciarono la [[motifs/road|strada]] maestra per una stradina ben nota e presto si avvicinarono a un palazzo di mattoni rossi spenti con una piccola cupola sormontata da un gallo canto sul tetto, e una campana appesa al suo interno. Era una grande casa, ma di fortuna decaduta; infatti gli ampi uffici erano poco utilizzati, le loro pareti umide e ricoperte di muschio, le finestre rotte e i cancelli in rovina. I polli facevano coccodè e camminavano impettiti nelle stalle; e le carrozzine e gli capanni erano invasi dall'erba. Non era più conservata nel suo stato antico nemmeno all'interno; infatti entrando nell'atrio desolato e dando un'occhiata attraverso le porte aperte di molte stanze, le trovarono arredate poveramente, fredde e immense. C'era un sapore terroso nell'aria, una fredda nudità nel luogo, che si associava in qualche modo a troppe alzate alla luce di candela e non abbastanza da mangiare.
 
-Andarono, lo [[Ghost|Spirito]] e Scrooge, attraverso il salone fino a una porta sul retro della [[house|casa]]. Si aprì davanti a loro rivelando un lungo, spoglio, [[Melancholy|malinconico]] locale reso ancora più vuoto da file di semplici banchi e scrivanie. A uno di questi un ragazzo solitario stava leggendo vicino ad un debole [[Fire|fuoco]]; e Scrooge si sedette su una panca, piangendo nel vedere il suo povero dimenticato [[Self|se stesso]] com'era un tempo.
+Andarono, lo [[archetypes/ghost|Spirito]] e Scrooge, attraverso il salone fino a una porta sul retro della casa. Si aprì davanti a loro rivelando un lungo, spoglio, [[concepts/melancholy|malinconico]] locale reso ancora più vuoto da file di semplici banchi e scrivanie. A uno di questi un ragazzo solitario stava leggendo vicino ad un debole [[motifs/fire|fuoco]]; e Scrooge si sedette su una panca, piangendo nel vedere il suo povero dimenticato [[concepts/self|se stesso]] com'era un tempo.
 
-Né un'eco latente nella [[house|casa]], né uno stridio e uno scalpiccio dei topi dietro i pannelli, né una goccia dallo scolapacchi della [[Water|acqua]] semisgretolata nel cortile buio sul retro, né un sospiro tra i rami spogli di un poplar triste, né il dondolio ozioso di una porta vuota del magazzino, no, neppure uno scatto nel [[Fire|fuoco]], ma tutto ciò colpì il cuore di Scrooge con un influsso addolcente e diede più libero sfogo alle sue [[Tears|lacrime]].
+Né un'eco latente nella casa, né uno stridio e uno scalpiccio dei topi dietro i pannelli, né una goccia dallo scolapacchi della [[motifs/water|acqua]] semisgretolata nel cortile buio sul retro, né un sospiro tra i rami spogli di un poplar triste, né il dondolio ozioso di una porta vuota del magazzino, no, neppure uno scatto nel [[motifs/fire|fuoco]], ma tutto ciò colpì il cuore di Scrooge con un influsso addolcente e diede più libero sfogo alle sue [[motifs/tears|lacrime]].
 
-Lo Spirito lo sfiorò sul braccio e gli indicò il suo più giovane [[Self|sé]] intento nella lettura. Improvvisamente un uomo, con abiti stranieri: meravigliosamente reale e distinto da guardare: si fermò fuori dalla [[Window|finestra]], con un'ascia infilata nella cintura, conducendo per la cavezza un asino carico di legna.
+Lo Spirito lo sfiorò sul braccio e gli indicò il suo più giovane [[concepts/self|sé]] intento nella lettura. Improvvisamente un uomo, con abiti stranieri: meravigliosamente reale e distinto da guardare: si fermò fuori dalla [[motifs/window|finestra]], con un'ascia infilata nella cintura, conducendo per la cavezza un asino carico di legna.
 
 
 
@@ -5753,32 +5753,32 @@ Lo Spirito lo sfiorò sul braccio e gli indicò il suo più giovane [[Self|sé]]
 
 "Why, it's Ali Baba!" Scrooge exclaimed in ecstasy. "It's
 dear old honest Ali Baba! Yes, yes, I know! One Christmas
-[[Time|time]], when yonder solitary [[Child|child]] was left here all [[Alone|alone]],
-he did come, for the first [[Time|time]], just like that. Poor boy! And
-[[Valentine]]," said Scrooge, "and his wild brother, Orson; there
+[[motifs/time|time]], when yonder solitary [[archetypes/child|child]] was left here all alone,
+he did come, for the first [[motifs/time|time]], just like that. Poor boy! And
+[[characters/valentine|Valentine]]," said Scrooge, "and his wild brother, Orson; there
 they go! And what's his name, who was put down in his
 drawers, asleep, at the Gate of Damascus; don't you see him!
 And the Sultan's Groom turned upside down by the Genii;
 there he is upon his head! Serve him right. I'm glad of it.
 What business had he to be married to the Princess!"
 
-To hear Scrooge expending all the earnestness of his [[Nature|nature]]
+To hear Scrooge expending all the earnestness of his [[concepts/nature|nature]]
 on such subjects, in a most extraordinary voice between
 laughing and crying; and to see his heightened and excited
 face; would have been a surprise to his business friends in
-the [[City|city]], indeed.
+the [[motifs/city|city]], indeed.
 
-"There's the Parrot!" cried Scrooge. "Green [[Body|body]] and
+"There's the Parrot!" cried Scrooge. "Green [[concepts/body|body]] and
 yellow tail, with a thing like a lettuce growing out of the
 top of his head; there he is! Poor Robin Crusoe, he called
-him, when he came [[Home|home]] again after sailing round the
+him, when he came [[motifs/home|home]] again after sailing round the
 island. 'Poor Robin Crusoe, where have you been, Robin
 Crusoe?'  The man thought he was dreaming, but he wasn't.
 It was the Parrot, you know. There goes Friday, running
 for his life to the little creek! Halloa! Hoop! Halloo!"
 
 Then, with a rapidity of transition very foreign to his
-usual character, he said, in pity for his former [[Self|self]], "Poor
+usual character, he said, in pity for his former [[concepts/self|self]], "Poor
 boy!" and cried again.
 
 "I wish," Scrooge muttered, putting his hand in his
@@ -5788,23 +5788,23 @@ cuff: "but it's too late now."
 "What is the matter?" asked the Spirit.
 
 "Nothing," said Scrooge. "Nothing. There was a boy
-singing a Christmas [[carol|Carol]] at my door last [[Night|night]]. I should
+singing a Christmas Carol at my door last [[motifs/night|night]]. I should
 like to have given him something: that's all."
 
-The [[Ghost]] smiled thoughtfully, and waved its hand:
+The [[archetypes/ghost|Ghost]] smiled thoughtfully, and waved its hand:
 saying as it did so, "Let us see another Christmas!"
 
-Scrooge's former [[Self|self]] grew larger at the words, and the
+Scrooge's former [[concepts/self|self]] grew larger at the words, and the
 room became a little darker and more dirty. The panels shrunk,
 the windows cracked; fragments of plaster fell out of the
 ceiling, and the naked laths were shown instead; but how
 all this was brought about, Scrooge knew no more than you
 do. He only knew that it was quite correct; that everything
-had happened so; that there he was, [[Alone|alone]] again, when all
-the other boys had gone [[Home|home]] for the jolly holidays.
+had happened so; that there he was, alone again, when all
+the other boys had gone [[motifs/home|home]] for the jolly holidays.
 
 He was not reading now, but walking up and down despairingly.
-Scrooge looked at the [[Ghost]], and with a mournful shaking of
+Scrooge looked at the [[archetypes/ghost|Ghost]], and with a mournful shaking of
 his head, glanced anxiously towards the door.
 
 It opened; and a little girl, much younger than the boy,
@@ -5812,22 +5812,22 @@ came darting in, and putting her arms about his neck, and
 often kissing him, addressed him as her "Dear, dear
 brother."
 
-"I have come to bring you [[Home|home]], dear brother!" said the
-[[Child|child]], clapping her tiny hands, and bending down to laugh.
-"To bring you [[Home|home]], [[Home|home]], [[Home|home]]!"
+"I have come to bring you [[motifs/home|home]], dear brother!" said the
+[[archetypes/child|child]], clapping her tiny hands, and bending down to laugh.
+"To bring you [[motifs/home|home]], [[motifs/home|home]], [[motifs/home|home]]!"
 
-"[[Home]], little Fan?" returned the boy.
+"[[motifs/home|Home]], little Fan?" returned the boy.
 
-"Yes!" said the [[Child|child]], brimful of glee. "[[Home]], for good
-and all. [[Home]], for ever and ever. Father is so much kinder
-than he used to be, that [[Home|home]]'s like Heaven! He spoke so
-gently to me one dear [[Night|night]] when I was going to bed, that
+"Yes!" said the [[archetypes/child|child]], brimful of glee. "[[motifs/home|Home]], for good
+and all. [[motifs/home|Home]], for ever and ever. Father is so much kinder
+than he used to be, that [[motifs/home|home]]'s like Heaven! He spoke so
+gently to me one dear [[motifs/night|night]] when I was going to bed, that
 I was not afraid to ask him once more if you might come
-[[Home|home]]; and he said Yes, you should; and sent me in a coach
-to bring you. And you're to be a man!" said the [[Child|child]],
+[[motifs/home|home]]; and he said Yes, you should; and sent me in a coach
+to bring you. And you're to be a man!" said the [[archetypes/child|child]],
 opening her eyes, "and are never to come back here; but
 first, we're to be together all the Christmas long, and have
-the merriest [[Time|time]] in all the world."
+the merriest [[motifs/time|time]] in all the world."
 
 "You are quite a woman, little Fan!" exclaimed the boy.
 
@@ -5842,91 +5842,91 @@ Scrooge's box, there!" and in the hall appeared the schoolmaster
 himself, who glared on Master Scrooge with a ferocious
 condescension, and threw him into a dreadful state of mind
 by shaking hands with him. He then conveyed him and his
-sister into the veriest old [[Well|well]] of a shivering best-parlour that
+sister into the veriest old [[motifs/well|well]] of a shivering best-parlour that
 ever was seen, where the maps upon the wall, and the celestial
 and terrestrial globes in the windows, were waxy with cold.
 Here he produced a decanter of curiously light wine, and a
 block of curiously heavy cake, and administered instalments
-of those dainties to the young people: at the same [[Time|time]],
+of those dainties to the young people: at the same [[motifs/time|time]],
 sending out a meagre servant to offer a glass of "something"
 to the postboy, who answered that he thanked the gentleman,
 but if it was the same tap as he had tasted before, he had
-rather not. Master Scrooge's trunk being by this [[Time|time]] tied
+rather not. Master Scrooge's trunk being by this [[motifs/time|time]] tied
 on to the top of the chaise, the children bade the schoolmaster
 good-bye right willingly; and getting into it, drove
-gaily down the [[Garden|garden]]-sweep: the quick wheels dashing the
-hoar-[[Frost|frost]] and [[Snow|snow]] from off the dark [[Leaves|leaves]] of the evergreens
+gaily down the [[motifs/garden|garden]]-sweep: the quick wheels dashing the
+hoar-[[motifs/frost|frost]] and [[motifs/snow|snow]] from off the dark [[motifs/leaves|leaves]] of the evergreens
 like spray.
 
 "Always a delicate creature, whom a breath might have
-withered," said the [[Ghost]]. "But she had a large heart!"
+withered," said the [[archetypes/ghost|Ghost]]. "But she had a large heart!"
 
 "So she had," cried Scrooge. "You're right. I will not
 gainsay it, Spirit. God forbid!"
 
-"She died a woman," said the [[Ghost]], "and had, as I think,
+"She died a woman," said the [[archetypes/ghost|Ghost]], "and had, as I think,
 children."
 
-"One [[Child|child]]," Scrooge returned.
+"One [[archetypes/child|child]]," Scrooge returned.
 
-"True," said the [[Ghost]]. "Your nephew!"
+"True," said the [[archetypes/ghost|Ghost]]. "Your nephew!"
 
 Scrooge seemed uneasy in his mind; and answered briefly,
 "Yes."
 
 Although they had but that moment left the school behind
-them, they were now in the busy thoroughfares of a [[City|city]],
+them, they were now in the busy thoroughfares of a [[motifs/city|city]],
 where shadowy passengers passed and repassed; where shadowy
 carts and coaches battled for the way, and all the strife and
-tumult of a real [[City|city]] were. It was made plain enough, by
+tumult of a real [[motifs/city|city]] were. It was made plain enough, by
 the dressing of the shops, that here too it was Christmas
-[[Time|time]] again; but it was evening, and the streets were
+[[motifs/time|time]] again; but it was evening, and the streets were
 lighted up.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-"Ecco Ali Baba!", esclamò Scrooge in estasi. "E' il caro vecchio onesto Ali Baba! Sì, sì, lo so! Un [[Time|Natale]], quando quel bambino solitario fu lasciato qui tutto solo, lui venne per la prima [[Time|volta]] proprio così. Povero ragazzo! E [[Valentine|Valentino]]," disse Scrooge, "e suo fratello selvaggio Orson; eccoli là! E come si chiama quello che fu messo a dormire nei suoi pantaloni alla Porta di Damasco; non lo vedi? E il Groom del Sultano capovolto dai Geni; eccolo lì con la testa all'ingiù! Servirgliene. Ne sono contento. Che diritto aveva lui di sposare la Principessa!"
+"Ecco Ali Baba!", esclamò Scrooge in estasi. "E' il caro vecchio onesto Ali Baba! Sì, sì, lo so! Un [[motifs/time|Natale]], quando quel bambino solitario fu lasciato qui tutto solo, lui venne per la prima [[motifs/time|volta]] proprio così. Povero ragazzo! E [[characters/valentine|Valentino]]," disse Scrooge, "e suo fratello selvaggio Orson; eccoli là! E come si chiama quello che fu messo a dormire nei suoi pantaloni alla Porta di Damasco; non lo vedi? E il Groom del Sultano capovolto dai Geni; eccolo lì con la testa all'ingiù! Servirgliene. Ne sono contento. Che diritto aveva lui di sposare la Principessa!"
 
-Sentire Scrooge esprimere tutta la sincerità della sua [[Nature|natura]] su tali argomenti, con una voce straordinariamente tra il ridere e il piangere; e vedere il suo volto acceso ed eccitato; sarebbe stato davvero uno stupore per i suoi amici d'affari nella [[City|città]].
+Sentire Scrooge esprimere tutta la sincerità della sua [[concepts/nature|natura]] su tali argomenti, con una voce straordinariamente tra il ridere e il piangere; e vedere il suo volto acceso ed eccitato; sarebbe stato davvero uno stupore per i suoi amici d'affari nella [[motifs/city|città]].
 
 "Ecco il pappagallo!" gridò Scrooge. "Corpo verde e coda gialla,
 con una cosa come un lattuga che gli spunta dalla testa; eccolo là!
-Povero Robin Crusoe, lo chiamava così quando tornava [[Home|a casa]]
+Povero Robin Crusoe, lo chiamava così quando tornava [[motifs/home|a casa]]
 dopo aver circumnavigato l'isola. 'Povero Robin Crusoe, dove sei stato,
 Robin Crusoe?' L'uomo pensò di sognare, ma non era così.
 Era il pappagallo, sapete. Ecco che va Friday, che scappa a gambe levate
 verso la piccola insenatura! Halloa! Hoop! Halloo!"
 
-Poi, con una rapidità di transizione molto estranea al suo carattere abituale, disse, per pietà del suo vecchio [[Self|io]], «Povero ragazzo!» e pianse ancora.
+Poi, con una rapidità di transizione molto estranea al suo carattere abituale, disse, per pietà del suo vecchio [[concepts/self|io]], «Povero ragazzo!» e pianse ancora.
 
 «Vorrei» borbottò Scrooge mettendo la mano in tasca e guardandosi intorno dopo essersi asciugato gli occhi con il polsino «ma ormai è troppo tardi.»
 
 «Che cosa succede?» chiese lo Spirito.
 
-"Niente", disse Scrooge, "niente. C'era un ragazzo che cantava una [[carol|canzone]] di Natale alla mia porta la scorsa [[Night|notte]]. Mi sarebbe piaciuto dargli qualcosa: ecco tutto."
+"Niente", disse Scrooge, "niente. C'era un ragazzo che cantava una canzone di Natale alla mia porta la scorsa [[motifs/night|notte]]. Mi sarebbe piaciuto dargli qualcosa: ecco tutto."
 
-Lo [[Ghost|Spirito]] sorrise pensieroso e fece un gesto con la mano,
+Lo [[archetypes/ghost|Spirito]] sorrise pensieroso e fece un gesto con la mano,
 dicendo mentre lo faceva: «Vediamo un altro Natale!»
 
-Il vecchio sé di Scrooge si ingrandì a quelle parole e la stanza divenne un po' più buia e sporca. I pannelli si ritirarono, le finestre si creparono; pezzi di intonaco caddero dal soffitto, mostrando invece i travetti nudi; ma come tutto ciò fosse avvenuto, Scrooge non lo sapeva più di quanto lo sappiate voi. Sapeva solo che era del tutto corretto; che tutto era accaduto così; che eccolo lì, [[Alone|solo]] ancora una volta, mentre tutti gli altri ragazzi erano andati [[Home|a casa]] per le allegre vacanze.
+Il vecchio sé di Scrooge si ingrandì a quelle parole e la stanza divenne un po' più buia e sporca. I pannelli si ritirarono, le finestre si creparono; pezzi di intonaco caddero dal soffitto, mostrando invece i travetti nudi; ma come tutto ciò fosse avvenuto, Scrooge non lo sapeva più di quanto lo sappiate voi. Sapeva solo che era del tutto corretto; che tutto era accaduto così; che eccolo lì, solo ancora una volta, mentre tutti gli altri ragazzi erano andati [[motifs/home|a casa]] per le allegre vacanze.
 
 Ora non stava leggendo, ma camminava avanti e indietro disperatamente.
-Scrooge guardò lo [[Ghost|Spirito]] e con un triste scuotimento del capo lanciò uno sguardo ansioso verso la porta.
+Scrooge guardò lo [[archetypes/ghost|Spirito]] e con un triste scuotimento del capo lanciò uno sguardo ansioso verso la porta.
 
 Si aprì e una bambina molto più giovane del ragazzo entrò di corsa, gli mise le braccia al collo e lo baciò spesso chiamandolo il suo “Caro, carissimo fratello”.
 
-"Sono venuta a portarti a [[Home|casa]], caro fratello!" disse la [[Child|bambina]], battendo le sue manine e chinandosi per ridere. "A portarti a [[Home|casa]], [[Home|casa]], [[Home|casa]]!"
+"Sono venuta a portarti a [[motifs/home|casa]], caro fratello!" disse la [[archetypes/child|bambina]], battendo le sue manine e chinandosi per ridere. "A portarti a [[motifs/home|casa]], [[motifs/home|casa]], [[motifs/home|casa]]!"
 
-«[[Home|Casa]], piccola Fan?» rispose il ragazzo.
+«[[motifs/home|Casa]], piccola Fan?» rispose il ragazzo.
 
-"Sì!" disse il [[Child|bambino]], pieno di gioia. "A [[Home|casa]], per sempre.
-A [[Home|casa]], eternamente. Il padre è così più gentile di prima,
-che la [[Home|casa]] sembra un paradiso! Mi ha parlato con tanta dolcezza
-una cara [[Night|sera]] mentre andavo a letto, che non ho avuto paura
-di chiedergli ancora una volta se tu potessi tornare a [[Home|casa]];
+"Sì!" disse il [[archetypes/child|bambino]], pieno di gioia. "A [[motifs/home|casa]], per sempre.
+A [[motifs/home|casa]], eternamente. Il padre è così più gentile di prima,
+che la [[motifs/home|casa]] sembra un paradiso! Mi ha parlato con tanta dolcezza
+una cara [[motifs/night|sera]] mentre andavo a letto, che non ho avuto paura
+di chiedergli ancora una volta se tu potessi tornare a [[motifs/home|casa]];
 e lui mi ha detto di sì, che dovevi venire; e mi ha mandato in carrozza
-a prenderti. E tu diventerai un uomo!" disse il [[Child|bambino]],
+a prenderti. E tu diventerai un uomo!" disse il [[archetypes/child|bambino]],
 spalancando gli occhi, "e non tornerai mai più qui; ma prima,
 dovremo stare insieme tutto il Natale e passare i giorni più felici
 del mondo."
@@ -5938,36 +5938,36 @@ ma essendo troppo piccola rise ancora, e si mise in punta di piedi per abbraccia
 Poi cominciò a trascinarlo verso la porta nella sua infantile impazienza; ed egli,
 niente affatto riluttante ad andarsene, l'accompagnò.
 
-Una voce terribile nel corridoio gridò: «Portate giù la valigia del giovane Scrooge!», e apparve in sala lo stesso maestro di scuola, che fissò il giovane Scrooge con una ferocia condiscendente e lo gettò in uno stato d'animo terribile stringendogli la mano. Poi accompagnò lui e sua sorella nel più vecchio [[Well|pozzo]] di un salotto migliore che tremava come non mai, dove le mappe sulle pareti e i globi celesti e terrestri alle finestre erano appannati dal freddo. Qui tirò fuori una caraffa di vino stranamente leggero e un pezzo di torta stranamente pesante, e distribuì a rate queste prelibatezze ai giovani: nello stesso [[Time|tempo]], mandò fuori un servitore magro per offrire un bicchiere di "qualcosa" al postiglione, che rispose che ringraziava il signore, ma se era lo stesso vino che aveva assaggiato prima, preferiva di no. La valigia del giovane Scrooge essendo stata a quell'[[Time|ora]] legata sul tetto della carrozza, i bambini salutarono volentieri il maestro e, saliti sulla vettura, partirono allegramente lungo la [[Garden|strada]] del giardino: le ruote veloci schizzavano via dalla brina e dalla [[Snow|neve]] dalle scure [[Leaves|foglie]] degli alberi sempreverdi come spruzzi.
+Una voce terribile nel corridoio gridò: «Portate giù la valigia del giovane Scrooge!», e apparve in sala lo stesso maestro di scuola, che fissò il giovane Scrooge con una ferocia condiscendente e lo gettò in uno stato d'animo terribile stringendogli la mano. Poi accompagnò lui e sua sorella nel più vecchio [[motifs/well|pozzo]] di un salotto migliore che tremava come non mai, dove le mappe sulle pareti e i globi celesti e terrestri alle finestre erano appannati dal freddo. Qui tirò fuori una caraffa di vino stranamente leggero e un pezzo di torta stranamente pesante, e distribuì a rate queste prelibatezze ai giovani: nello stesso [[motifs/time|tempo]], mandò fuori un servitore magro per offrire un bicchiere di "qualcosa" al postiglione, che rispose che ringraziava il signore, ma se era lo stesso vino che aveva assaggiato prima, preferiva di no. La valigia del giovane Scrooge essendo stata a quell'[[motifs/time|ora]] legata sul tetto della carrozza, i bambini salutarono volentieri il maestro e, saliti sulla vettura, partirono allegramente lungo la [[motifs/garden|strada]] del giardino: le ruote veloci schizzavano via dalla brina e dalla [[motifs/snow|neve]] dalle scure [[motifs/leaves|foglie]] degli alberi sempreverdi come spruzzi.
 
-«Sempre una creatura delicata, che un soffio avrebbe potuto appassire», disse lo [[Ghost|Spirito]]. «Ma aveva un grande cuore!»
+«Sempre una creatura delicata, che un soffio avrebbe potuto appassire», disse lo [[archetypes/ghost|Spirito]]. «Ma aveva un grande cuore!»
 
 «Ebbene sì», esclamò Scrooge «avete ragione. Non lo nego,
 Spirito. Dio me ne scampi!»
 
-"Morì da donna", disse lo [[Ghost|spettro]], "e aveva, credo io,
+"Morì da donna", disse lo [[archetypes/ghost|spettro]], "e aveva, credo io,
 dei figli".
 
-"Un [[Child|bambino]]", rispose Scrooge.
+"Un [[archetypes/child|bambino]]", rispose Scrooge.
 
-«È vero», disse lo [[Ghost|spettro]]. «Tuo nipote!»
+«È vero», disse lo [[archetypes/ghost|spettro]]. «Tuo nipote!»
 
 Scrooge sembrava turbato e rispose brevemente: «Sì».
 
 Anche se avevano appena lasciato la scuola alle spalle,
-si trovavano ora nei traffici viali di una [[City|città]],
+si trovavano ora nei traffici viali di una [[motifs/city|città]],
 dove passeggeri ombrosi passavano e ripassavano; dove carri e carrozze
 ombrosi combattevano per il passaggio, e tutta la lotta e
-il tumulto di una vera [[City|città]] erano. Era abbastanza chiaro,
+il tumulto di una vera [[motifs/city|città]] erano. Era abbastanza chiaro,
 dall'allestimento dei negozi, che anche qui era di nuovo Natale
-[[Time|tempo]]; ma era sera, e le strade erano illuminate.
+[[motifs/time|tempo]]; ma era sera, e le strade erano illuminate.
 
 
 
 <span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_04" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 4)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt" data-tags="archetype/ghost,motif/clock,motif/dance,motif/desire,motif/fire,motif/home,motif/night,motif/soul,motif/time,motif/well,motif/winter,concept/self,character/bottom"></span>
 
 
-The [[Ghost]] stopped at a certain warehouse door, and asked
+The [[archetypes/ghost|Ghost]] stopped at a certain warehouse door, and asked
 Scrooge if he knew it.
 
 "Know it!" said Scrooge. "Was I apprenticed here!"
@@ -5981,21 +5981,21 @@ ceiling, Scrooge cried in great excitement:
 alive again!"
 
 Old Fezziwig laid down his pen, and looked up at the
-[[Clock|clock]], which pointed to the hour of seven. He rubbed his
+[[motifs/clock|clock]], which pointed to the hour of seven. He rubbed his
 hands; adjusted his capacious waistcoat; laughed all over
 himself, from his shoes to his organ of benevolence; and
 called out in a comfortable, oily, rich, fat, jovial voice:
 
 "Yo ho, there! Ebenezer! Dick!"
 
-Scrooge's former [[Self|self]], now grown a young man, came briskly
+Scrooge's former [[concepts/self|self]], now grown a young man, came briskly
 in, accompanied by his fellow-'prentice.
 
-"Dick Wilkins, to be sure!" said Scrooge to the [[Ghost]].
+"Dick Wilkins, to be sure!" said Scrooge to the [[archetypes/ghost|Ghost]].
 "Bless me, yes. There he is. He was very much attached
 to me, was Dick. Poor Dick! Dear, dear!"
 
-"Yo ho, my boys!" said Fezziwig. "No more work to-[[Night|night]].
+"Yo ho, my boys!" said Fezziwig. "No more work to-[[motifs/night|night]].
 Christmas Eve, Dick. Christmas, Ebenezer! Let's
 have the shutters up," cried old Fezziwig, with a sharp clap
 of his hands, "before a man can say Jack Robinson!"
@@ -6016,9 +6016,9 @@ away, or couldn't have cleared away, with old Fezziwig looking
 on. It was done in a minute. Every movable was packed off, as if
 it were dismissed from public life for evermore; the floor was
 swept and watered, the lamps were trimmed, fuel was heaped upon
-the [[Fire|fire]]; and the warehouse was as snug, and warm, and dry, and
-bright a ball-room, as you would [[Desire|desire]] to see upon a [[Winter|winter]]'s
-[[Night|night]].
+the [[motifs/fire|fire]]; and the warehouse was as snug, and warm, and dry, and
+bright a ball-room, as you would [[motifs/desire|desire]] to see upon a [[motifs/winter|winter]]'s
+[[motifs/night|night]].
 
 In came a fiddler with a music-book, and went up to the
 lofty desk, and made an orchestra of it, and tuned like fifty
@@ -6040,13 +6040,13 @@ the other way; down the middle and up again; round
 and round in various stages of affectionate grouping; old
 top couple always turning up in the wrong place; new top
 couple starting off again, as soon as they got there; all top
-couples at last, and not a [[Bottom|bottom]] one to help them! When
+couples at last, and not a [[characters/bottom|bottom]] one to help them! When
 this result was brought about, old Fezziwig, clapping his
-hands to stop the [[Dance|dance]], cried out, "[[Well]] done!" and the
+hands to stop the [[motifs/dance|dance]], cried out, "[[motifs/well|Well]] done!" and the
 fiddler plunged his hot face into a pot of porter, especially
 provided for that purpose. But scorning rest, upon his
 reappearance, he instantly began again, though there were no
-dancers yet, as if the other fiddler had been carried [[Home|home]],
+dancers yet, as if the other fiddler had been carried [[motifs/home|home]],
 exhausted, on a shutter, and he were a bran-new man
 resolved to beat him out of sight, or perish.
 
@@ -6058,10 +6058,10 @@ But the great effect of the evening came after the Roast
 and Boiled, when the fiddler (an artful dog, mind! The sort
 of man who knew his business better than you or I could
 have told it him!) struck up "Sir Roger de Coverley."  Then
-old Fezziwig stood out to [[Dance|dance]] with Mrs. Fezziwig. Top
+old Fezziwig stood out to [[motifs/dance|dance]] with Mrs. Fezziwig. Top
 couple, too; with a good stiff piece of work cut out for them;
 three or four and twenty pair of partners; people who were
-not to be trifled with; people who would [[Dance|dance]], and had no
+not to be trifled with; people who would [[motifs/dance|dance]], and had no
 notion of walking.
 
 But if they had been twice as many--ah, four times--old
@@ -6070,16 +6070,16 @@ Mrs. Fezziwig. As to her, she was worthy to be his partner
 in every sense of the term. If that's not high praise, tell me
 higher, and I'll use it. A positive light appeared to issue
 from Fezziwig's calves. They shone in every part of the
-[[Dance|dance]] like moons. You couldn't have predicted, at any given
-[[Time|time]], what would have become of them next. And when old
-Fezziwig and Mrs. Fezziwig had gone all through the [[Dance|dance]];
+[[motifs/dance|dance]] like moons. You couldn't have predicted, at any given
+[[motifs/time|time]], what would have become of them next. And when old
+Fezziwig and Mrs. Fezziwig had gone all through the [[motifs/dance|dance]];
 advance and retire, both hands to your partner, bow and
 curtsey, corkscrew, thread-the-needle, and back again to
 your place; Fezziwig "cut"--cut so deftly, that he appeared
 to wink with his legs, and came upon his feet again without
 a stagger.
 
-When the [[Clock|clock]] struck eleven, this domestic ball broke up.
+When the [[motifs/clock|clock]] struck eleven, this domestic ball broke up.
 Mr. and Mrs. Fezziwig took their stations, one on either side
 of the door, and shaking hands with every person individually
 as he or she went out, wished him or her a Merry Christmas.
@@ -6088,20 +6088,20 @@ the same to them; and thus the cheerful voices died away,
 and the lads were left to their beds; which were under a
 counter in the back-shop.
 
-During the whole of this [[Time|time]], Scrooge had acted like a
-man out of his wits. His heart and [[Soul|soul]] were in the scene,
-and with his former [[Self|self]]. He corroborated everything,
+During the whole of this [[motifs/time|time]], Scrooge had acted like a
+man out of his wits. His heart and [[motifs/soul|soul]] were in the scene,
+and with his former [[concepts/self|self]]. He corroborated everything,
 remembered everything, enjoyed everything, and underwent
 the strangest agitation. It was not until now, when the
-bright faces of his former [[Self|self]] and Dick were turned from
-them, that he remembered the [[Ghost]], and became conscious
+bright faces of his former [[concepts/self|self]] and Dick were turned from
+them, that he remembered the [[archetypes/ghost|Ghost]], and became conscious
 that it was looking full upon him, while the light upon its
 head burnt very clear.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Lo [[Ghost|Spirito]] si fermò davanti alla porta di un certo magazzino e chiese a Scrooge se lo conoscesse.
+Lo [[archetypes/ghost|Spirito]] si fermò davanti alla porta di un certo magazzino e chiese a Scrooge se lo conoscesse.
 
 «Conoscerlo!» disse Scrooge «Ci sono stato apprendista io qui!»
 
@@ -6109,16 +6109,16 @@ Entrarono. Alla vista di un vecchio signore con una parrucca gallese seduto diet
 
 «Ma è il vecchio Fezziwig! Benedetto lui; è di nuovo vivo Fezziwig!»
 
-Il vecchio Fezziwig depose la penna e guardò l'[[Clock|orologio]], che segnava le sette. Si strofinò le mani; sistemò il suo ampio panciotto; rise di gusto, dai piedi fino all'organo della benevolenza; e gridò con una voce confortevole, untuosa, ricca, grassa e gioviale:
+Il vecchio Fezziwig depose la penna e guardò l'[[motifs/clock|orologio]], che segnava le sette. Si strofinò le mani; sistemò il suo ampio panciotto; rise di gusto, dai piedi fino all'organo della benevolenza; e gridò con una voce confortevole, untuosa, ricca, grassa e gioviale:
 
 «Ehi là! Ebenèzer! Dick!»
 
 Il vecchio sé di Scrooge, ora diventato un giovane uomo,
 entrò vivacemente accompagnato dal suo compagno di apprendistato.
 
-"Ma certo che è Dick Wilkins!", disse Scrooge al [[Ghost|Spirito]]. "Perbacco, sì. Ecco chi è. Era molto affezionato a me, quel Dick. Povero Dick! Ahimè, ahimè!"
+"Ma certo che è Dick Wilkins!", disse Scrooge al [[archetypes/ghost|Spirito]]. "Perbacco, sì. Ecco chi è. Era molto affezionato a me, quel Dick. Povero Dick! Ahimè, ahimè!"
 
-«Yo ho, ragazzi miei!» disse Fezziwig. «Niente più lavoro [[Night|questa]] sera.
+«Yo ho, ragazzi miei!» disse Fezziwig. «Niente più lavoro [[motifs/night|questa]] sera.
 Vigilia di Natale, Dick. Natale, Ebenezer! Alziamo le persiane», gridò il vecchio Fezziwig con un secco schiocco delle mani, «prima che uno possa dire Jack Robinson!»
 
 Non credereste come quei due si siano dati da fare!
@@ -6128,9 +6128,9 @@ prima che voi aveste potuto arrivare a dodici, ansimanti come cavalli da corsa.
 
 «Hilli-ho!» gridò il vecchio Fezziwig saltando giù dal banco alto con straordinaria agilità. «Togliete di mezzo, ragazzi miei, e facciamo un po' di spazio qui! Hilli-ho, Dick! Cip-cip, Ebenezer!»
 
-Via libera! Non c'era nulla che non avrebbero spostato o non sarebbero riusciti a spostare, con il vecchio Fezziwig che li osservava. Fu fatto in un minuto. Ogni mobile fu portato via come se fosse stato allontanato dalla vita pubblica per sempre; il pavimento fu spazzato e bagnato, le lampade furono regolate, il combustibile fu accumulato sul [[Fire|fuoco]]; e il magazzino divenne una sala da ballo accogliente, calda, asciutta e luminosa come si potrebbe [[Desire|desiderare]] di vedere in una [[Winter|notte]] d'[[Night|inverno]].
+Via libera! Non c'era nulla che non avrebbero spostato o non sarebbero riusciti a spostare, con il vecchio Fezziwig che li osservava. Fu fatto in un minuto. Ogni mobile fu portato via come se fosse stato allontanato dalla vita pubblica per sempre; il pavimento fu spazzato e bagnato, le lampade furono regolate, il combustibile fu accumulato sul [[motifs/fire|fuoco]]; e il magazzino divenne una sala da ballo accogliente, calda, asciutta e luminosa come si potrebbe [[motifs/desire|desiderare]] di vedere in una [[motifs/winter|notte]] d'[[motifs/night|inverno]].
 
-Entrò un violinista con un libro di musica e salì alla scrivania imponente, che trasformò in orchestra, accordandosi come se avesse cinquanta mal di pancia. Entrò la signora Fezziwig, un enorme sorriso solido. Entrano le tre Miss Fezziwig, raggianti e amabili. Entrarono i sei giovani corteggiatori a cui spezzavano il cuore. Entrarono tutti i giovani uomini e donne impiegati nell'azienda. Entrò la cameriera con suo cugino, il fornaio. Entrò la cuoca col particolare amico di suo fratello, il latteiere. Entrò il ragazzo dall'altra parte della strada, sospettato di non ricevere abbastanza vitto dal padrone; cercando di nascondersi dietro la ragazza della casa due porte più in là, che si scoprì aver preso delle sonore orecchiate dalla sua padrona. Entrarono tutti, uno dopo l'altro; alcuni timidamente, altri con sicurezza, alcuni con grazia, altri goffamente, alcuni spingendosi avanti, altri tirandosi indietro; entrarono tutti, comunque e in ogni modo. Via che andarono, venti coppie insieme; mani a metà giro e poi di nuovo dall'altra parte; giù per il mezzo e su di nuovo; intorno e intorno in vari stadi di affettuoso raggruppamento; la vecchia coppia di testa che si ritrovava sempre nel posto sbagliato; nuova coppia di testa che ripartiva non appena arrivata lì; tutte coppie di testa alla fine, e neanche una [[Bottom|coda]] a dargli manforte! Quando questo risultato fu raggiunto, il vecchio Fezziwig, battendo le mani per fermare la [[Dance|danza]], esclamò: "[[Well|Bravi]]!" e il violinista sprofondò il suo viso arrossato in un vaso di birra scura, appositamente fornito a questo scopo. Ma disdegnando il riposo, alla sua ricomparsa, subito ricominciò, anche se non c'erano ancora ballerini, come se l'altro violinista fosse stato portato [[Home|a casa]], esausto, su un'insegna, e lui fosse un uomo completamente nuovo deciso a batterlo fino all'ultimo sangue o morire.
+Entrò un violinista con un libro di musica e salì alla scrivania imponente, che trasformò in orchestra, accordandosi come se avesse cinquanta mal di pancia. Entrò la signora Fezziwig, un enorme sorriso solido. Entrano le tre Miss Fezziwig, raggianti e amabili. Entrarono i sei giovani corteggiatori a cui spezzavano il cuore. Entrarono tutti i giovani uomini e donne impiegati nell'azienda. Entrò la cameriera con suo cugino, il fornaio. Entrò la cuoca col particolare amico di suo fratello, il latteiere. Entrò il ragazzo dall'altra parte della strada, sospettato di non ricevere abbastanza vitto dal padrone; cercando di nascondersi dietro la ragazza della casa due porte più in là, che si scoprì aver preso delle sonore orecchiate dalla sua padrona. Entrarono tutti, uno dopo l'altro; alcuni timidamente, altri con sicurezza, alcuni con grazia, altri goffamente, alcuni spingendosi avanti, altri tirandosi indietro; entrarono tutti, comunque e in ogni modo. Via che andarono, venti coppie insieme; mani a metà giro e poi di nuovo dall'altra parte; giù per il mezzo e su di nuovo; intorno e intorno in vari stadi di affettuoso raggruppamento; la vecchia coppia di testa che si ritrovava sempre nel posto sbagliato; nuova coppia di testa che ripartiva non appena arrivata lì; tutte coppie di testa alla fine, e neanche una [[characters/bottom|coda]] a dargli manforte! Quando questo risultato fu raggiunto, il vecchio Fezziwig, battendo le mani per fermare la [[motifs/dance|danza]], esclamò: "[[motifs/well|Bravi]]!" e il violinista sprofondò il suo viso arrossato in un vaso di birra scura, appositamente fornito a questo scopo. Ma disdegnando il riposo, alla sua ricomparsa, subito ricominciò, anche se non c'erano ancora ballerini, come se l'altro violinista fosse stato portato [[motifs/home|a casa]], esausto, su un'insegna, e lui fosse un uomo completamente nuovo deciso a batterlo fino all'ultimo sangue o morire.
 
 Ci furono altre danze, e ci fu il gioco delle multe, e ancora più danze,
 e ci fu la torta, e c'era del negus, e un grande pezzo di arrosto freddo,
@@ -6138,14 +6138,14 @@ e un grande pezzo di bollito freddo, e ci furono le tortine di carne tritata
 e abbondante birra. Ma il gran momento della serata arrivò dopo l'arrosto
 e il bollito, quando il suonatore di violino (un cane astuto, bada bene!
 Il tipo d'uomo che conosceva la sua arte meglio di quanto tu o io avremmo potuto spiegargliela!)
-attaccò "Sir Roger de Coverley". Allora l'anziano Fezziwig si fece avanti per [[Dance|ballare]] con la signora Fezziwig.
+attaccò "Sir Roger de Coverley". Allora l'anziano Fezziwig si fece avanti per [[motifs/dance|ballare]] con la signora Fezziwig.
 La coppia principale, inoltre; con un bel pezzo di lavoro duro davanti a loro;
-ventiquattro coppie di ballerini; gente che non ammetteva scherzi; persone che avrebbero [[Dance|ballato]], e non avevano
+ventiquattro coppie di ballerini; gente che non ammetteva scherzi; persone che avrebbero [[motifs/dance|ballato]], e non avevano
 nessuna intenzione di camminare.
 
-Ma se fossero stati il doppio - ah, quattro volte - di più, il vecchio Fezziwig sarebbe stato all'altezza della situazione, e lo sarebbe stata anche la signora Fezziwig. Per quanto riguarda lei, era degna di essere sua partner in ogni senso del termine. Se questo non è un elogio altisonante, ditemi quale sarebbe più alto e io lo userò. Una luce positiva sembrava emanare dalle gambe di Fezziwig. Brillavano in ogni parte della [[Dance|danza]] come lune. Non si poteva prevedere, a un dato momento, cosa ne sarebbe stato di loro dopo. E quando il vecchio Fezziwig e la signora Fezziwig avevano completato tutta la [[Dance|danza]]; avanti e indietro, entrambe le mani al partner, inchino e riverenza, elica, agofilo e di nuovo al proprio posto; Fezziwig "tagliava" - tagliava con tanta destrezza che sembrava strizzasse l'occhio con le gambe, e tornava in piedi senza vacillare.
+Ma se fossero stati il doppio - ah, quattro volte - di più, il vecchio Fezziwig sarebbe stato all'altezza della situazione, e lo sarebbe stata anche la signora Fezziwig. Per quanto riguarda lei, era degna di essere sua partner in ogni senso del termine. Se questo non è un elogio altisonante, ditemi quale sarebbe più alto e io lo userò. Una luce positiva sembrava emanare dalle gambe di Fezziwig. Brillavano in ogni parte della [[motifs/dance|danza]] come lune. Non si poteva prevedere, a un dato momento, cosa ne sarebbe stato di loro dopo. E quando il vecchio Fezziwig e la signora Fezziwig avevano completato tutta la [[motifs/dance|danza]]; avanti e indietro, entrambe le mani al partner, inchino e riverenza, elica, agofilo e di nuovo al proprio posto; Fezziwig "tagliava" - tagliava con tanta destrezza che sembrava strizzasse l'occhio con le gambe, e tornava in piedi senza vacillare.
 
-Quando la [[Clock|campana]] batté le undici, questo ballo domestico si sciolse.
+Quando la [[motifs/clock|campana]] batté le undici, questo ballo domestico si sciolse.
 Il signor e la signora Fezziwig presero posto uno da ciascun lato della porta,
 e stringendo la mano a ogni persona singolarmente mentre usciva,
 le auguravano un Buon Natale.
@@ -6153,14 +6153,14 @@ Quando tutti se ne furono andati tranne i due garzoni, fecero lo stesso con loro
 e così le voci allegre si spensero e i ragazzi rimasero ai loro letti;
 che erano sotto uno scaffale nel retrobottega.
 
-Durante tutto questo [[Time|tempo]], Scrooge si era comportato come un uomo fuori di sé. Il suo cuore e la sua [[Soul|anima]] erano nella scena, insieme al suo vecchio [[Self|io]]. Confermava ogni cosa, ricordava tutto, godeva di tutto e subiva le più strane agitazioni. Fu solo ora che i volti sorridenti del suo vecchio [[Self|io]] e di Dick si voltarono da loro che Scrooge ricordò lo [[Ghost|Spirito]] e si rese conto che stava fissandolo, mentre la luce sulla sua testa brillava molto chiara.
+Durante tutto questo [[motifs/time|tempo]], Scrooge si era comportato come un uomo fuori di sé. Il suo cuore e la sua [[motifs/soul|anima]] erano nella scena, insieme al suo vecchio [[concepts/self|io]]. Confermava ogni cosa, ricordava tutto, godeva di tutto e subiva le più strane agitazioni. Fu solo ora che i volti sorridenti del suo vecchio [[concepts/self|io]] e di Dick si voltarono da loro che Scrooge ricordò lo [[archetypes/ghost|Spirito]] e si rese conto che stava fissandolo, mentre la luce sulla sua testa brillava molto chiara.
 
 
 
 <span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_05" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 5)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/shadow,motif/fire,motif/home,motif/love,motif/memory,motif/nature,motif/pain,motif/soul,motif/tears,motif/time,motif/well,motif/winter,concept/fear,concept/hope,concept/nature,concept/poverty,concept/self,concept/truth"></span>
 
 
-"A small matter," said the [[Ghost]], "to make these silly
+"A small matter," said the [[archetypes/ghost|Ghost]], "to make these silly
 folks so full of gratitude."
 
 "Small!" echoed Scrooge.
@@ -6174,7 +6174,7 @@ your mortal money: three or four perhaps. Is that so
 much that he deserves this praise?"
 
 "It isn't that," said Scrooge, heated by the remark, and
-speaking unconsciously like his former, not his latter, [[Self|self]].
+speaking unconsciously like his former, not his latter, [[concepts/self|self]].
 "It isn't that, Spirit. He has the power to render us happy
 or unhappy; to make our service light or burdensome; a
 pleasure or a toil. Say that his power lies in words and
@@ -6184,20 +6184,20 @@ he gives, is quite as great as if it cost a fortune."
 
 He felt the Spirit's glance, and stopped.
 
-"What is the matter?" asked the [[Ghost]].
+"What is the matter?" asked the [[archetypes/ghost|Ghost]].
 
 "Nothing particular," said Scrooge.
 
-"Something, I think?" the [[Ghost]] insisted.
+"Something, I think?" the [[archetypes/ghost|Ghost]] insisted.
 
 "No," said Scrooge, "No. I should like to be able to say
 a word or two to my clerk just now. That's all."
 
-His former [[Self|self]] turned down the lamps as he gave utterance
-to the wish; and Scrooge and the [[Ghost]] again stood side by
+His former [[concepts/self|self]] turned down the lamps as he gave utterance
+to the wish; and Scrooge and the [[archetypes/ghost|Ghost]] again stood side by
 side in the open air.
 
-"My [[Time|time]] grows short," observed the Spirit. "Quick!"
+"My [[motifs/time|time]] grows short," observed the Spirit. "Quick!"
 
 This was not addressed to Scrooge, or to any one whom he
 could see, but it produced an immediate effect. For again
@@ -6206,16 +6206,16 @@ of life. His face had not the harsh and rigid lines of later
 years; but it had begun to wear the signs of care and avarice.
 There was an eager, greedy, restless motion in the eye, which
 showed the passion that had taken root, and where the
-[[Shadow|shadow]] of the growing tree would fall.
+[[archetypes/shadow|shadow]] of the growing tree would fall.
 
-He was not [[Alone|alone]], but sat by the side of a fair young
-girl in a mourning-dress: in whose eyes there were [[Tears|tears]],
-which sparkled in the light that shone out of the [[Ghost]] of
+He was not alone, but sat by the side of a fair young
+girl in a mourning-dress: in whose eyes there were [[motifs/tears|tears]],
+which sparkled in the light that shone out of the [[archetypes/ghost|Ghost]] of
 Christmas Past.
 
 "It matters little," she said, softly. "To you, very little.
 Another idol has displaced me; and if it can cheer and comfort
-you in [[Time|time]] to come, as I would have tried to do, I have
+you in [[motifs/time|time]] to come, as I would have tried to do, I have
 no just cause to grieve."
 
 "What Idol has displaced you?" he rejoined.
@@ -6223,12 +6223,12 @@ no just cause to grieve."
 "A golden one."
 
 "This is the even-handed dealing of the world!" he said.
-"There is nothing on which it is so hard as [[Poverty|poverty]]; and
+"There is nothing on which it is so hard as [[concepts/poverty|poverty]]; and
 there is nothing it professes to condemn with such severity
 as the pursuit of wealth!"
 
-"You [[Fear|fear]] the world too much," she answered, gently.
-"All your other hopes have merged into the [[Hope|hope]] of being
+"You [[concepts/fear|fear]] the world too much," she answered, gently.
+"All your other hopes have merged into the [[concepts/hope|hope]] of being
 beyond the chance of its sordid reproach. I have seen your
 nobler aspirations fall off one by one, until the master-passion,
 Gain, engrosses you. Have I not?"
@@ -6260,9 +6260,9 @@ and can release you."
 
 "In what, then?"
 
-"In a changed [[Nature|nature]]; in an altered spirit; in another
-atmosphere of life; another [[Hope]] as its great end. In
-everything that made my [[Love|love]] of any worth or value in your
+"In a changed [[concepts/nature|nature]]; in an altered spirit; in another
+atmosphere of life; another [[concepts/hope|Hope]] as its great end. In
+everything that made my [[motifs/love|love]] of any worth or value in your
 sight. If this had never been between us," said the girl,
 looking mildly, but with steadiness, upon him; "tell me,
 would you seek me out and try to win me now? Ah, no!"
@@ -6272,7 +6272,7 @@ spite of himself. But he said with a struggle, "You think
 not."
 
 "I would gladly think otherwise if I could," she answered,
-"Heaven knows! When I have learned a [[Truth]] like this,
+"Heaven knows! When I have learned a [[concepts/truth|Truth]] like this,
 I know how strong and irresistible it must be. But if you
 were free to-day, to-morrow, yesterday, can even I believe
 that you would choose a dowerless girl--you who, in your
@@ -6280,41 +6280,41 @@ very confidence with her, weigh everything by Gain: or,
 choosing her, if for a moment you were false enough to your
 one guiding principle to do so, do I not know that your
 repentance and regret would surely follow? I do; and I
-release you. With a full heart, for the [[Love|love]] of him you
+release you. With a full heart, for the [[motifs/love|love]] of him you
 once were."
 
 He was about to speak; but with her head turned from
 him, she resumed.
 
-"You may--the [[Memory|memory]] of what is past half makes me
-[[Hope|hope]] you will--have [[Pain|pain]] in this. A very, very brief [[Time|time]],
+"You may--the [[motifs/memory|memory]] of what is past half makes me
+[[concepts/hope|hope]] you will--have [[motifs/pain|pain]] in this. A very, very brief [[motifs/time|time]],
 and you will dismiss the recollection of it, gladly, as an
-unprofitable dream, from which it happened [[Well|well]] that you
+unprofitable dream, from which it happened [[motifs/well|well]] that you
 awoke. May you be happy in the life you have chosen!"
 
 She left him, and they parted.
 
 "Spirit!" said Scrooge, "show me no more! Conduct
-me [[Home|home]]. Why do you delight to torture me?"
+me [[motifs/home|home]]. Why do you delight to torture me?"
 
-"One [[Shadow|shadow]] more!" exclaimed the [[Ghost]].
+"One [[archetypes/shadow|shadow]] more!" exclaimed the [[archetypes/ghost|Ghost]].
 
 "No more!" cried Scrooge. "No more. I don't wish to
 see it. Show me no more!"
 
-But the relentless [[Ghost]] pinioned him in both his arms,
+But the relentless [[archetypes/ghost|Ghost]] pinioned him in both his arms,
 and forced him to observe what happened next.
 
 They were in another scene and place; a room, not very
-large or handsome, but full of comfort. Near to the [[Winter|winter]]
-[[Fire|fire]] sat a beautiful young girl, so like that last that Scrooge
+large or handsome, but full of comfort. Near to the [[motifs/winter|winter]]
+[[motifs/fire|fire]] sat a beautiful young girl, so like that last that Scrooge
 believed it was the same, until he saw her, now a comely
 matron, sitting opposite her daughter. The noise in this
 room was perfectly tumultuous, for there were more children
 there, than Scrooge in his agitated state of mind could count;
 and, unlike the celebrated herd in the poem, they were not
 forty children conducting themselves like one, but every
-[[Child|child]] was conducting itself like forty. The consequences
+[[archetypes/child|child]] was conducting itself like forty. The consequences
 were uproarious beyond belief; but no one seemed to care;
 on the contrary, the mother and daughter laughed heartily,
 and enjoyed it very much; and the latter, soon beginning to
@@ -6323,7 +6323,7 @@ most ruthlessly. What would I not have given to be one of
 them! Though I never could have been so rude, no, no! I
 wouldn't for the wealth of all the world have crushed that
 braided hair, and torn it down; and for the precious little
-shoe, I wouldn't have plucked it off, God bless my [[Soul|soul]]! to
+shoe, I wouldn't have plucked it off, God bless my [[motifs/soul|soul]]! to
 save my life. As to measuring her waist in sport, as they
 did, bold young brood, I couldn't have done it; I should
 have expected my arm to have grown round it for a punishment,
@@ -6334,13 +6334,13 @@ looked upon the lashes of her downcast eyes, and never
 raised a blush; to have let loose waves of hair, an inch of
 which would be a keepsake beyond price: in short, I should
 have liked, I do confess, to have had the lightest licence
-of a [[Child|child]], and yet to have been man enough to know its
+of a [[archetypes/child|child]], and yet to have been man enough to know its
 value.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-"Una piccola cosa", disse lo [[Ghost|Spirito]], "per rendere così pieni di gratitudine queste povere persone".
+"Una piccola cosa", disse lo [[archetypes/ghost|Spirito]], "per rendere così pieni di gratitudine queste povere persone".
 
 «Piccola!» fece eco Scrooge.
 
@@ -6350,40 +6350,40 @@ e quando lo ebbe fatto, disse:
 
 «Perché! Non lo è forse? Ha speso solo poche sterline dei vostri miseri soldi, tre o quattro al massimo. È così tanto da meritargli questi elogi?»
 
-"Non è questo," disse Scrooge, infervorato dall'osservazione e parlando inconsciamente come il suo [[Self|sé]] di un tempo, non quello attuale. "Non è questo, Spirito. Egli ha la capacità di renderci felici o infelici; di rendere il nostro servizio leggero o gravoso; un piacere o una fatica. Dite che il suo potere risiede in parole e sguardi; in cose così lievi e insignificanti da essere impossibili da sommare e contare: allora? La felicità che dona è altrettanto grande come se costasse una fortuna."
+"Non è questo," disse Scrooge, infervorato dall'osservazione e parlando inconsciamente come il suo [[concepts/self|sé]] di un tempo, non quello attuale. "Non è questo, Spirito. Egli ha la capacità di renderci felici o infelici; di rendere il nostro servizio leggero o gravoso; un piacere o una fatica. Dite che il suo potere risiede in parole e sguardi; in cose così lievi e insignificanti da essere impossibili da sommare e contare: allora? La felicità che dona è altrettanto grande come se costasse una fortuna."
 
 Sentì lo sguardo dello Spirito e si fermò.
 
-"Che cosa c'è che non va?", chiese lo [[Ghost|Spirito]].
+"Che cosa c'è che non va?", chiese lo [[archetypes/ghost|Spirito]].
 
 «Nulla di particolare», disse Scrooge.
 
-«Qualcosa, credo?» insistette lo [[Ghost|spettro]].
+«Qualcosa, credo?» insistette lo [[archetypes/ghost|spettro]].
 
 «No», disse Scrooge, «no. Mi piacerebbe poter dire una parola o due al mio impiegato proprio ora. Questo è tutto».
 
-Il suo vecchio [[Self|io]] abbassò le lampade mentre esprimeva il desiderio, e Scrooge e lo [[Ghost|Spirito]] si ritrovarono fianco a fianco all'aperto.
+Il suo vecchio [[concepts/self|io]] abbassò le lampade mentre esprimeva il desiderio, e Scrooge e lo [[archetypes/ghost|Spirito]] si ritrovarono fianco a fianco all'aperto.
 
-"La mia [[Time|ora]] si avvicina", osservò lo Spirito. "Svelto!"
+"La mia [[motifs/time|ora]] si avvicina", osservò lo Spirito. "Svelto!"
 
-Questo non era rivolto a Scrooge o a qualcuno che lui potesse vedere, ma ebbe un effetto immediato. Perché ancora una volta Scrooge si vide. Ora era più vecchio; un uomo nel fiore degli anni. Il suo volto non aveva le linee dure e rigide degli anni successivi; ma cominciava a mostrare i segni della preoccupazione e dell'avarizia. C'era un movimento ansioso, avido, irrequieto negli occhi, che rivelava la passione che si era radicata in lui e dove l'[[Shadow|ombra]] dell'albero crescente sarebbe caduta.
+Questo non era rivolto a Scrooge o a qualcuno che lui potesse vedere, ma ebbe un effetto immediato. Perché ancora una volta Scrooge si vide. Ora era più vecchio; un uomo nel fiore degli anni. Il suo volto non aveva le linee dure e rigide degli anni successivi; ma cominciava a mostrare i segni della preoccupazione e dell'avarizia. C'era un movimento ansioso, avido, irrequieto negli occhi, che rivelava la passione che si era radicata in lui e dove l'[[archetypes/shadow|ombra]] dell'albero crescente sarebbe caduta.
 
-Non era [[Alone|solo]], ma sedeva accanto a una giovane fanciulla dai capelli chiari, vestita di lutto: nei cui occhi c'erano delle [[Tears|lacrime]], che brillavano alla luce che emanava dallo [[Ghost|Spirito]] del Natale Passato.
+Non era solo, ma sedeva accanto a una giovane fanciulla dai capelli chiari, vestita di lutto: nei cui occhi c'erano delle [[motifs/tears|lacrime]], che brillavano alla luce che emanava dallo [[archetypes/ghost|Spirito]] del Natale Passato.
 
 «Importa poco», disse dolcemente. «Per te, molto poco.
-Un altro idolo mi ha sostituita; e se può consolarti e darti conforto nei [[Time|tempi]] a venire, come avrei cercato di fare io, non ho alcuna ragione giusta per addolorarmene.»
+Un altro idolo mi ha sostituita; e se può consolarti e darti conforto nei [[motifs/time|tempi]] a venire, come avrei cercato di fare io, non ho alcuna ragione giusta per addolorarmene.»
 
 «Quale idolo ti ha sostituito?» ribatté lui.
 
 «Una d'oro».
 
 "Questo è il modo equilibrato in cui il mondo tratta le cose!" disse.
-"Non c'è niente su cui sia così duro come la [[Poverty|povertà]]; e
+"Non c'è niente su cui sia così duro come la [[concepts/poverty|povertà]]; e
 non c'è nulla che dice di condannare con tanta severità
 come l'inseguimento della ricchezza!"
 
-"[[Fear|Temete]] troppo il mondo", rispose lei con dolcezza.
-"Tutte le vostre altre speranze si sono fuse nella [[Hope|speranza]]
+"[[concepts/fear|Temete]] troppo il mondo", rispose lei con dolcezza.
+"Tutte le vostre altre speranze si sono fuse nella [[concepts/hope|speranza]]
 di essere al di là della possibilità del suo volgare rimprovero. Ho visto cadere una dopo l'altra le vostre nobili aspirazioni, fino a quando la passione dominante, il Guadagno, vi ha assorbito completamente. Non è così?"
 
 «E allora?» ribatté lui. «Anche se sono diventato così più saggio, e allora? Non sono cambiato nei tuoi confronti».
@@ -6404,13 +6404,13 @@ Scosse la testa.
 
 «In che cosa, allora?»
 
-"In una [[Nature|natura]] cambiata; in uno spirito alterato; in un'altra atmosfera di vita; un altro [[Hope|Speranza]] come suo grande scopo. In tutto ciò che rendeva il mio [[Love|amore]] degno o prezioso ai tuoi occhi. Se questo non fosse mai esistito tra noi," disse la ragazza, guardandolo con dolcezza ma fermezza; "dimmi, mi cercheresti e proveresti a conquistarmi ora? Ah, no!"
+"In una [[concepts/nature|natura]] cambiata; in uno spirito alterato; in un'altra atmosfera di vita; un altro [[concepts/hope|Speranza]] come suo grande scopo. In tutto ciò che rendeva il mio [[motifs/love|amore]] degno o prezioso ai tuoi occhi. Se questo non fosse mai esistito tra noi," disse la ragazza, guardandolo con dolcezza ma fermezza; "dimmi, mi cercheresti e proveresti a conquistarmi ora? Ah, no!"
 
 Sembrò cedere alla giustezza di questa supposizione,
 nonostante se stesso. Ma disse con uno sforzo: «Non pensate così».
 
 "Vorrei volentieri pensare diversamente se potessi," rispose,
-"Il cielo lo sa! Quando ho imparato una [[Truth|Verità]] come questa,
+"Il cielo lo sa! Quando ho imparato una [[concepts/truth|Verità]] come questa,
 so quanto debba essere forte e irresistibile. Ma se tu
 fossi libero oggi, domani, ieri, posso anche io credere
 che sceglieresti una ragazza senza dote--tu che, nella tua
@@ -6418,27 +6418,27 @@ stessa confidenza con lei, valuti tutto in base al Guadagno: o,
 scegliendola, se per un momento fossi abbastanza falso nei confronti del tuo
 unico principio guida da farlo, non so che il tuo
 pentimento e rimpianto ti seguirebbero sicuramente? Lo so; e io
-ti libero. Con tutto il cuore, per [[Love|amore]] di colui che un tempo eri."
+ti libero. Con tutto il cuore, per [[motifs/love|amore]] di colui che un tempo eri."
 
 Stava per parlare; ma lei riprese a parlare senza guardarlo.
 
-"Potreste--il [[Memory|ricordo]] di ciò che è passato mi fa quasi
-[[Hope|sperare]] lo farete--provare [[Pain|dolore]] per questo. Un brevissimo, brevissimo [[Time|periodo]],
+"Potreste--il [[motifs/memory|ricordo]] di ciò che è passato mi fa quasi
+[[concepts/hope|sperare]] lo farete--provare [[motifs/pain|dolore]] per questo. Un brevissimo, brevissimo [[motifs/time|periodo]],
 e voi scarterete il ricordo di esso, volentieri, come un sogno
-inutile da cui è stato [[Well|bene]] che vi siate svegliati. Possiate essere felici nella vita che avete scelto!"
+inutile da cui è stato [[motifs/well|bene]] che vi siate svegliati. Possiate essere felici nella vita che avete scelto!"
 
 Lo lasciò e si separarono.
 
-"Spettro!" disse Scrooge, "non mostrarmi altro! Riportami a [[Home|casa]]. Perché ti compiace torturarmi?"
+"Spettro!" disse Scrooge, "non mostrarmi altro! Riportami a [[motifs/home|casa]]. Perché ti compiace torturarmi?"
 
-"Un'altra [[Shadow|ombra]]!" esclamò lo [[Ghost|Spirito]].
+"Un'altra [[archetypes/shadow|ombra]]!" esclamò lo [[archetypes/ghost|Spirito]].
 
 «Niente di più!» gridò Scrooge «Non voglio vederlo, non mostrarmi altro!»
 
-Ma lo spietato [[Ghost|Spirito]] lo immobilizzò con entrambe le braccia e lo costrinse a osservare ciò che accadde dopo.
+Ma lo spietato [[archetypes/ghost|Spirito]] lo immobilizzò con entrambe le braccia e lo costrinse a osservare ciò che accadde dopo.
 
 Erano in un'altra scena e luogo; una stanza non molto grande o bella,
-ma piena di comfort. Vicino al [[Winter|fuoco]] d'[[Fire|inverno]] sedeva una giovane ragazza bellissima, così simile all'ultima che Scrooge credette fosse la stessa, finché non vide lei, ora una matrona attraente, seduta di fronte a sua figlia. Il rumore in questa stanza era perfettamente tumultuoso, perché c'erano più bambini di quanti Scrooge nel suo stato d'animo agitato potesse contare; e, diversamente dalla celebre mandria nella poesia, non si comportavano come uno solo, ma ogni [[Child|bambino]] si comportava come quaranta. Le conseguenze erano incredibilmente tumultuose; ma sembrava che a nessuno importasse; al contrario, la madre e la figlia ridevano di cuore e se ne godevano molto; e quest'ultima, iniziando presto a partecipare ai giochi, venne saccheggiata dai giovani briganti senza pietà. Che cosa non avrei dato per essere uno di loro! Anche se non sarei mai stato così scortese, no, no! Non avrei schiacciato quei capelli intrecciati e strappateli giù per tutto l'oro del mondo; e per la preziosa piccola scarpa, non l'avrei tolta, Dio benedica la mia [[Soul|anima]]!, nemmeno per salvarmi la vita. Per quanto riguarda misurare la sua vita in gioco, come facevano loro, audace giovane prole, non avrei potuto farlo; mi sarei aspettato che il mio braccio si fosse avvolto intorno ad essa come punizione e non tornasse mai dritto. Eppure confesso che mi sarebbe piaciuto molto toccare le sue labbra; interrogarla, affinché potesse aprirle; guardare le ciglia dei suoi occhi abbassati, senza farle arrossire; sciogliere onde di capelli, un pollice dei quali sarebbe stato un ricordo senza prezzo: in breve, confesso che mi sarebbe piaciuto avere la più leggera licenza di un [[Child|bambino]], eppure essere abbastanza uomo da conoscere il suo valore.
+ma piena di comfort. Vicino al [[motifs/winter|fuoco]] d'[[motifs/fire|inverno]] sedeva una giovane ragazza bellissima, così simile all'ultima che Scrooge credette fosse la stessa, finché non vide lei, ora una matrona attraente, seduta di fronte a sua figlia. Il rumore in questa stanza era perfettamente tumultuoso, perché c'erano più bambini di quanti Scrooge nel suo stato d'animo agitato potesse contare; e, diversamente dalla celebre mandria nella poesia, non si comportavano come uno solo, ma ogni [[archetypes/child|bambino]] si comportava come quaranta. Le conseguenze erano incredibilmente tumultuose; ma sembrava che a nessuno importasse; al contrario, la madre e la figlia ridevano di cuore e se ne godevano molto; e quest'ultima, iniziando presto a partecipare ai giochi, venne saccheggiata dai giovani briganti senza pietà. Che cosa non avrei dato per essere uno di loro! Anche se non sarei mai stato così scortese, no, no! Non avrei schiacciato quei capelli intrecciati e strappateli giù per tutto l'oro del mondo; e per la preziosa piccola scarpa, non l'avrei tolta, Dio benedica la mia [[motifs/soul|anima]]!, nemmeno per salvarmi la vita. Per quanto riguarda misurare la sua vita in gioco, come facevano loro, audace giovane prole, non avrei potuto farlo; mi sarei aspettato che il mio braccio si fosse avvolto intorno ad essa come punizione e non tornasse mai dritto. Eppure confesso che mi sarebbe piaciuto molto toccare le sue labbra; interrogarla, affinché potesse aprirle; guardare le ciglia dei suoi occhi abbassati, senza farle arrossire; sciogliere onde di capelli, un pollice dei quali sarebbe stato un ricordo senza prezzo: in breve, confesso che mi sarebbe piaciuto avere la più leggera licenza di un [[archetypes/child|bambino]], eppure essere abbastanza uomo da conoscere il suo valore.
 
 
 
@@ -6448,15 +6448,15 @@ ma piena di comfort. Vicino al [[Winter|fuoco]] d'[[Fire|inverno]] sedeva una gi
 But now a knocking at the door was heard, and such a
 rush immediately ensued that she with laughing face and
 plundered dress was borne towards it the centre of a flushed
-and boisterous group, just in [[Time|time]] to greet the father, who
-came [[Home|home]] attended by a man laden with Christmas toys
+and boisterous group, just in [[motifs/time|time]] to greet the father, who
+came [[motifs/home|home]] attended by a man laden with Christmas toys
 and presents. Then the shouting and the struggling, and
 the onslaught that was made on the defenceless porter!
 The scaling him with chairs for ladders to dive into his
 pockets, despoil him of brown-paper parcels, hold on tight
 by his cravat, hug him round his neck, pommel his back,
 and kick his legs in irrepressible affection! The shouts of
-[[Wonder|wonder]] and delight with which the development of every
+[[concepts/wonder|wonder]] and delight with which the development of every
 package was received! The terrible announcement that the
 baby had been taken in the act of putting a doll's frying-pan
 into his mouth, and was more than suspected of having
@@ -6464,16 +6464,16 @@ swallowed a fictitious turkey, glued on a wooden platter!
 The immense relief of finding this a false alarm! The joy,
 and gratitude, and ecstasy! They are all indescribable alike.
 It is enough that by degrees the children and their emotions
-got out of the parlour, and by one stair at a [[Time|time]], up to the
-top of the [[house]]; where they went to bed, and so subsided.
+got out of the parlour, and by one stair at a [[motifs/time|time]], up to the
+top of the house; where they went to bed, and so subsided.
 
 And now Scrooge looked on more attentively than ever,
-when the master of the [[house]], having his daughter leaning
+when the master of the house, having his daughter leaning
 fondly on him, sat down with her and her mother at his
 own fireside; and when he thought that such another
 creature, quite as graceful and as full of promise, might
-have called him father, and been a [[spring]]-[[Time|time]] in the
-haggard [[Winter|winter]] of his life, his sight grew very dim indeed.
+have called him father, and been a [[motifs/spring|spring]]-[[motifs/time|time]] in the
+haggard [[motifs/winter|winter]] of his life, his sight grew very dim indeed.
 
 "Belle," said the husband, turning to his wife with a
 smile, "I saw an old friend of yours this afternoon."
@@ -6485,29 +6485,29 @@ smile, "I saw an old friend of yours this afternoon."
 "How can I? Tut, don't I know?" she added in the
 same breath, laughing as he laughed. "Mr. Scrooge."
 
-"Mr. Scrooge it was. I passed his office [[Window|window]]; and as
+"Mr. Scrooge it was. I passed his office [[motifs/window|window]]; and as
 it was not shut up, and he had a candle inside, I could
 scarcely help seeing him. His partner lies upon the point
-of [[Death|death]], I hear; and there he sat [[Alone|alone]]. Quite [[Alone|alone]] in
+of [[motifs/death|death]], I hear; and there he sat alone. Quite alone in
 the world, I do believe."
 
 "Spirit!" said Scrooge in a broken voice, "remove me
 from this place."
 
 "I told you these were shadows of the things that have
-been," said the [[Ghost]]. "That they are what they are, do
+been," said the [[archetypes/ghost|Ghost]]. "That they are what they are, do
 not blame me!"
 
 "Remove me!" Scrooge exclaimed, "I cannot bear it!"
 
-He turned upon the [[Ghost]], and seeing that it looked upon
+He turned upon the [[archetypes/ghost|Ghost]], and seeing that it looked upon
 him with a face, in which in some strange way there were
 fragments of all the faces it had shown him, wrestled with it.
 
 "Leave me! Take me back. Haunt me no longer!"
 
 In the struggle, if that can be called a struggle in which
-the [[Ghost]] with no visible resistance on its own part was
+the [[archetypes/ghost|Ghost]] with no visible resistance on its own part was
 undisturbed by any effort of its adversary, Scrooge observed
 that its light was burning high and bright; and dimly
 connecting that with its influence over him, he seized the
@@ -6522,22 +6522,22 @@ from under it, in an unbroken flood upon the ground.
 He was conscious of being exhausted, and overcome by an
 irresistible drowsiness; and, further, of being in his own
 bedroom.  He gave the cap a parting squeeze, in which his hand
-relaxed; and had barely [[Time|time]] to reel to bed, before he sank
-into a heavy [[Sleep|sleep]].
+relaxed; and had barely [[motifs/time|time]] to reel to bed, before he sank
+into a heavy [[motifs/sleep|sleep]].
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Ma ora si udì un bussare alla porta e subito ne seguì una tale
-follia che lei, con il volto sorridente e l'abito in disordine, fu portata verso di essa al centro di un gruppo arrossato ed esuberante, proprio in [[Time|tempo]] per salutare il padre, che veniva a [[Home|casa]] accompagnato da un uomo carico di giocattoli e regali natalizi. Poi le urla e la lotta, e l'assalto al povero portiere indifeso! La scalata su di lui con sedie come scale per tuffarsi nelle sue tasche, derubarlo dei pacchi avvolti in carta marrone, aggrapparsi forte alla sua cravatta, abbracciarlo intorno al collo, picchiarlo sulla schiena e calciargli le gambe in un'affettuosità irrefrenabile! Le urla di [[Wonder|meraviglia]] e delizia con cui veniva accolto l'aprirsi di ogni pacco! L'annuncio terribile che il bambino era stato sorpreso nel mettere una padella della bambola in bocca, ed era più che sospettato di aver ingoiato un tacchino finto incollato su un piatto di legno! Il grande sollievo nel scoprire che si trattava di un allarme falso! La gioia, la gratitudine e l'estasi! Tutte sono indescrivibili allo stesso modo. Basta dire che a poco a poco i bambini e le loro emozioni uscirono dal salotto, e salendo una scala alla [[Time|volta]], fino in cima alla [[house|casa]]; dove andarono a letto e così si calmarono.
+follia che lei, con il volto sorridente e l'abito in disordine, fu portata verso di essa al centro di un gruppo arrossato ed esuberante, proprio in [[motifs/time|tempo]] per salutare il padre, che veniva a [[motifs/home|casa]] accompagnato da un uomo carico di giocattoli e regali natalizi. Poi le urla e la lotta, e l'assalto al povero portiere indifeso! La scalata su di lui con sedie come scale per tuffarsi nelle sue tasche, derubarlo dei pacchi avvolti in carta marrone, aggrapparsi forte alla sua cravatta, abbracciarlo intorno al collo, picchiarlo sulla schiena e calciargli le gambe in un'affettuosità irrefrenabile! Le urla di [[concepts/wonder|meraviglia]] e delizia con cui veniva accolto l'aprirsi di ogni pacco! L'annuncio terribile che il bambino era stato sorpreso nel mettere una padella della bambola in bocca, ed era più che sospettato di aver ingoiato un tacchino finto incollato su un piatto di legno! Il grande sollievo nel scoprire che si trattava di un allarme falso! La gioia, la gratitudine e l'estasi! Tutte sono indescrivibili allo stesso modo. Basta dire che a poco a poco i bambini e le loro emozioni uscirono dal salotto, e salendo una scala alla [[motifs/time|volta]], fino in cima alla casa; dove andarono a letto e così si calmarono.
 
 E ora Scrooge osservò con più attenzione che mai,
-quando il padrone di [[house|casa]], avendo la figlia affettuosamente appoggiata a lui,
+quando il padrone di casa, avendo la figlia affettuosamente appoggiata a lui,
 si sedette accanto a lei e alla madre al suo focolare;
 e quando pensò che un'altra creatura del genere,
 altrettanto graziosa e piena di promesse, avrebbe potuto
-chiamarlo padre ed essere una [[spring|primavera]]-[[Time|tempo]] nel
-desolato [[Winter|inverno]] della sua vita, la vista gli si offuscò davvero.
+chiamarlo padre ed essere una [[motifs/spring|primavera]]-[[motifs/time|tempo]] nel
+desolato [[motifs/winter|inverno]] della sua vita, la vista gli si offuscò davvero.
 
 «Bella», disse il marito rivolgendosi alla moglie con un sorriso,
 «oggi pomeriggio ho incontrato un vecchio amico tuo.»
@@ -6548,23 +6548,23 @@ desolato [[Winter|inverno]] della sua vita, la vista gli si offuscò davvero.
 
 “Come potrei? Ma che sciocchezza!” aggiunse nello stesso respiro, ridendo come rideva lui. “Signor Scrooge.”
 
-«Era il signor Scrooge. Sono passato davanti alla sua [[Window|finestra]] dell'ufficio; e dato che non era chiusa e lui aveva una candela accesa dentro, è stato difficile non vederlo. Ho sentito dire che il suo socio giace in punto di [[Death|morte]]; ed eccolo lì seduto [[Alone|solo]]. Del tutto [[Alone|solo]] al mondo, ne sono certo.»
+«Era il signor Scrooge. Sono passato davanti alla sua [[motifs/window|finestra]] dell'ufficio; e dato che non era chiusa e lui aveva una candela accesa dentro, è stato difficile non vederlo. Ho sentito dire che il suo socio giace in punto di [[motifs/death|morte]]; ed eccolo lì seduto solo. Del tutto solo al mondo, ne sono certo.»
 
 «Spirito!» disse Scrooge con voce rotta «allontanatemi da questo luogo».
 
-"Ti ho detto che queste erano ombre delle cose che sono state", disse lo [[Ghost|Spirito]], "che siano quello che sono, non incolpami!".
+"Ti ho detto che queste erano ombre delle cose che sono state", disse lo [[archetypes/ghost|Spirito]], "che siano quello che sono, non incolpami!".
 
 «Portatemi via!», esclamò Scrooge, «non riesco a sopportarlo!»
 
-Si voltò verso lo [[Ghost|Spirito]] e, vedendo che lo guardava con un volto nel quale si potevano scorgere, in qualche strana maniera, frammenti di tutti i volti che gli aveva mostrato, lottò contro di esso.
+Si voltò verso lo [[archetypes/ghost|Spirito]] e, vedendo che lo guardava con un volto nel quale si potevano scorgere, in qualche strana maniera, frammenti di tutti i volti che gli aveva mostrato, lottò contro di esso.
 
 «Lasciatemi! Riportatemi indietro. Non perseguitatemi più!»
 
-Nella lotta, se si può chiamare lotta una cosa in cui lo [[Ghost|spettro]], senza opporre alcuna resistenza visibile da parte sua, non veniva disturbato da nessuno sforzo del suo avversario, Scrooge notò che la sua luce ardeva alta e luminosa; e associando vagamente questo con il potere che aveva su di lui, afferrò il cappuccio spentore e con un gesto improvviso lo abbassò sulla sua testa.
+Nella lotta, se si può chiamare lotta una cosa in cui lo [[archetypes/ghost|spettro]], senza opporre alcuna resistenza visibile da parte sua, non veniva disturbato da nessuno sforzo del suo avversario, Scrooge notò che la sua luce ardeva alta e luminosa; e associando vagamente questo con il potere che aveva su di lui, afferrò il cappuccio spentore e con un gesto improvviso lo abbassò sulla sua testa.
 
 Lo Spirito si abbassò sotto di esso, così che lo spegnitore coprì tutta la sua forma; ma sebbene Scrooge lo premette con tutte le sue forze, non poté nascondere la luce: che fuoriusciva da sotto di essa in un flusso continuo sul terreno.
 
-Era consapevole di essere esausto e sopraffatto da un'irresistibile sonnolenza; inoltre si trovava nella sua stessa camera da letto. Diede al berretto una stretta finale, durante la quale la sua mano si rilassò; e appena ebbe il [[Time|tempo]] di barcollare fino a letto, prima che sprofondasse in un pesante [[Sleep|sonno]].
+Era consapevole di essere esausto e sopraffatto da un'irresistibile sonnolenza; inoltre si trovava nella sua stessa camera da letto. Diede al berretto una stretta finale, durante la quale la sua mano si rilassò; e appena ebbe il [[motifs/time|tempo]] di barcollare fino a letto, prima che sprofondasse in un pesante [[motifs/sleep|sonno]].
 
 
 
@@ -6577,10 +6577,10 @@ AWAKING in the middle of a prodigiously tough snore, and
 sitting up in bed to get his thoughts together, Scrooge had
 no occasion to be told that the bell was again upon the
 stroke of One. He felt that he was restored to consciousness
-in the right nick of [[Time|time]], for the especial purpose of holding
+in the right nick of [[motifs/time|time]], for the especial purpose of holding
 a conference with the second messenger despatched to him
-through [[Jacob Marley]]'s intervention. But finding that he
-turned uncomfortably cold when he began to [[Wonder|wonder]] which
+through [[characters/jacob-marley|Jacob Marley]]'s intervention. But finding that he
+turned uncomfortably cold when he began to [[concepts/wonder|wonder]] which
 of his curtains this new spectre would draw back, he put
 them every one aside with his own hands; and lying down
 again, established a sharp look-out all round the bed. For
@@ -6590,10 +6590,10 @@ made nervous.
 
 Gentlemen of the free-and-easy sort, who plume themselves
 on being acquainted with a move or two, and being usually
-equal to the [[Time|time]]-of-day, express the wide range of their
+equal to the [[motifs/time|time]]-of-day, express the wide range of their
 capacity for adventure by observing that they are good for
 anything from pitch-and-toss to manslaughter; between which
-opposite extremes, no [[Doubt|doubt]], there lies a tolerably wide and
+opposite extremes, no [[concepts/doubt|doubt]], there lies a tolerably wide and
 comprehensive range of subjects. Without venturing for
 Scrooge quite as hardily as this, I don't mind calling on you
 to believe that he was ready for a good broad field of
@@ -6604,11 +6604,11 @@ Now, being prepared for almost anything, he was not by
 any means prepared for nothing; and, consequently, when the
 Bell struck One, and no shape appeared, he was taken with a
 violent fit of trembling. Five minutes, ten minutes, a quarter
-of an hour went by, yet nothing came. All this [[Time|time]], he lay
+of an hour went by, yet nothing came. All this [[motifs/time|time]], he lay
 upon his bed, the very core and centre of a blaze of ruddy
-light, which streamed upon it when the [[Clock|clock]] proclaimed the
+light, which streamed upon it when the [[motifs/clock|clock]] proclaimed the
 hour; and which, being only light, was more alarming than
-a dozen [[Ghosts|ghosts]], as he was powerless to make out what it
+a dozen [[motifs/ghosts|ghosts]], as he was powerless to make out what it
 meant, or would be at; and was sometimes apprehensive
 that he might be at that very moment an interesting case of
 spontaneous combustion, without having the consolation of
@@ -6626,16 +6626,16 @@ The moment Scrooge's hand was on the lock, a strange
 voice called him by his name, and bade him enter. He
 obeyed.
 
-It was his own room. There was no [[Doubt|doubt]] about that.
+It was his own room. There was no [[concepts/doubt|doubt]] about that.
 But it had undergone a surprising transformation. The walls
 and ceiling were so hung with living green, that it looked a
 perfect grove; from every part of which, bright gleaming
-berries glistened. The crisp [[Leaves|leaves]] of holly, mistletoe, and
+berries glistened. The crisp [[motifs/leaves|leaves]] of holly, mistletoe, and
 ivy reflected back the light, as if so many little mirrors had
 been scattered there; and such a mighty blaze went roaring
 up the chimney, as that dull petrification of a hearth had
-never known in Scrooge's [[Time|time]], or Marley's, or for many and
-many a [[Winter|winter]] season gone. Heaped up on the floor, to form
+never known in Scrooge's [[motifs/time|time]], or Marley's, or for many and
+many a [[motifs/winter|winter]] season gone. Heaped up on the floor, to form
 a kind of throne, were turkeys, geese, game, poultry, brawn,
 great joints of meat, sucking-pigs, long wreaths of sausages,
 mince-pies, plum-puddings, barrels of oysters, red-hot chestnuts,
@@ -6647,7 +6647,7 @@ see; who bore a glowing torch, in shape not unlike Plenty's
 horn, and held it up, high up, to shed its light on Scrooge,
 as he came peeping round the door.
 
-"Come in!" exclaimed the [[Ghost]]. "Come in! and know
+"Come in!" exclaimed the [[archetypes/ghost|Ghost]]. "Come in! and know
 me better, man!"
 
 Scrooge entered timidly, and hung his head before this
@@ -6655,7 +6655,7 @@ Spirit. He was not the dogged Scrooge he had been; and
 though the Spirit's eyes were clear and kind, he did not like
 to meet them.
 
-"I am the [[Ghost of Christmas Present]]," said the Spirit.
+"I am the [[characters/ghost-of-christmas-present|Ghost of Christmas Present]]," said the Spirit.
 "Look upon me!"
 
 Scrooge reverently did so. It was clothed in one simple
@@ -6668,7 +6668,7 @@ covering than a holly wreath, set here and there with shining
 icicles. Its dark brown curls were long and free; free as its
 genial face, its sparkling eye, its open hand, its cheery voice,
 its unconstrained demeanour, and its joyful air. Girded
-round its middle was an antique scabbard; but no [[Sword|sword]]
+round its middle was an antique scabbard; but no sword
 was in it, and the ancient sheath was eaten up with rust.
 
 "You have never seen the like of me before!" exclaimed
@@ -6678,20 +6678,20 @@ the Spirit.
 
 "Have never walked forth with the younger members of
 my family; meaning (for I am very young) my elder brothers
-born in these later years?" pursued the [[Phantom]].
+born in these later years?" pursued the [[characters/phantom|Phantom]].
 
 "I don't think I have," said Scrooge. "I am afraid I have
 not. Have you had many brothers, Spirit?"
 
-"More than eighteen hundred," said the [[Ghost]].
+"More than eighteen hundred," said the [[archetypes/ghost|Ghost]].
 
 "A tremendous family to provide for!" muttered Scrooge.
 
-The [[Ghost of Christmas Present]] [[Rose|rose]].
+The [[characters/ghost-of-christmas-present|Ghost of Christmas Present]] [[motifs/rose|rose]].
 
 "Spirit," said Scrooge submissively, "conduct me where
-you will. I went forth last [[Night|night]] on compulsion, and I learnt
-a lesson which is working now. To-[[Night|night]], if you have aught
+you will. I went forth last [[motifs/night|night]] on compulsion, and I learnt
+a lesson which is working now. To-[[motifs/night|night]], if you have aught
 to teach me, let me profit by it."
 
 "Touch my robe!"
@@ -6701,42 +6701,42 @@ Scrooge did as he was told, and held it fast.
 Holly, mistletoe, red berries, ivy, turkeys, geese, game,
 poultry, brawn, meat, pigs, sausages, oysters, pies, puddings,
 fruit, and punch, all vanished instantly. So did the room,
-the [[Fire|fire]], the ruddy glow, the hour of [[Night|night]], and they stood
-in the [[City|city]] streets on Christmas morning, where (for the
+the [[motifs/fire|fire]], the ruddy glow, the hour of [[motifs/night|night]], and they stood
+in the [[motifs/city|city]] streets on Christmas morning, where (for the
 weather was severe) the people made a rough, but brisk and
-not unpleasant kind of music, in scraping the [[Snow|snow]] from the
+not unpleasant kind of music, in scraping the [[motifs/snow|snow]] from the
 pavement in front of their dwellings, and from the tops of
 their houses, whence it was mad delight to the boys to see
-it come plumping down into the [[Road|road]] below, and splitting
-into artificial little [[Snow|snow]]-storms.
+it come plumping down into the [[motifs/road|road]] below, and splitting
+into artificial little [[motifs/snow|snow]]-storms.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 CAPITOLO III: IL SECONDO DEGLI TRE SPIRITI
 
-Svegliandosi nel bel mezzo di un russare prodigiosamente forte e sedendosi sul letto per raccogliere i suoi pensieri, Scrooge non ebbe bisogno che gli si dicesse che il campanello suonava nuovamente l'una. Sentiva di essere tornato cosciente nel momento giusto, con lo scopo particolare di tenere una conferenza col secondo messaggero inviato a lui per intervento di [[Jacob Marley]]. Ma trovandosi che si sentiva sgradevolmente freddo quando cominciò a [[Wonder|pensare]] quale delle sue tende questo nuovo spettro avrebbe tirato indietro, le mise tutte da parte con le proprie mani; e sdraiandosi di nuovo, stabilì una vigile osservazione tutt'intorno al letto. Perché desiderava sfidare lo Spirito nel momento del suo apparire, e non voleva essere colto di sorpresa e reso nervoso.
+Svegliandosi nel bel mezzo di un russare prodigiosamente forte e sedendosi sul letto per raccogliere i suoi pensieri, Scrooge non ebbe bisogno che gli si dicesse che il campanello suonava nuovamente l'una. Sentiva di essere tornato cosciente nel momento giusto, con lo scopo particolare di tenere una conferenza col secondo messaggero inviato a lui per intervento di [[characters/jacob-marley|Jacob Marley]]. Ma trovandosi che si sentiva sgradevolmente freddo quando cominciò a [[concepts/wonder|pensare]] quale delle sue tende questo nuovo spettro avrebbe tirato indietro, le mise tutte da parte con le proprie mani; e sdraiandosi di nuovo, stabilì una vigile osservazione tutt'intorno al letto. Perché desiderava sfidare lo Spirito nel momento del suo apparire, e non voleva essere colto di sorpresa e reso nervoso.
 
 Signori di stampo libero e spensierato, che si vantano
 di conoscere una mossa o due, e di essere solitamente
-alla [[Time|altezza]] della situazione, esprimono l'ampia portata delle loro capacità avventurose osservando che sono pronti per qualsiasi cosa, dal lancio della moneta all'omicidio; tra questi estremi opposti, senza [[Doubt|dubbio]], si stende un campo abbastanza ampio e completo di soggetti. Senza azzardarmi per Scrooge con la stessa audacia, non mi dispiace chiedervi di credere che fosse pronto per un vasto campo di strane apparenze, e che nulla tra un bambino e un rinoceronte lo avrebbe molto sorpreso.
+alla [[motifs/time|altezza]] della situazione, esprimono l'ampia portata delle loro capacità avventurose osservando che sono pronti per qualsiasi cosa, dal lancio della moneta all'omicidio; tra questi estremi opposti, senza [[concepts/doubt|dubbio]], si stende un campo abbastanza ampio e completo di soggetti. Senza azzardarmi per Scrooge con la stessa audacia, non mi dispiace chiedervi di credere che fosse pronto per un vasto campo di strane apparenze, e che nulla tra un bambino e un rinoceronte lo avrebbe molto sorpreso.
 
-Ora, essendo preparato a quasi tutto, non era affatto preparato a nulla; e, di conseguenza, quando la [[Clock|campana]] suonò l'una e nessuna forma apparve, fu preso da un violento attacco di tremore. Cinque minuti, dieci minuti, un quarto d'ora passarono, ma nulla accadde. Tutto questo [[Time|tempo]], rimase sdraiato sul suo letto, nel cuore e al centro di una fiammata di luce rossastra che si riversava su di esso quando la [[Clock|campana]] annunciò l'ora; e questa, essendo solo luce, era più allarmante di una dozzina di [[Ghosts|fantasmi]], poiché non riusciva a capire cosa significasse o cosa sarebbe successo; e talvolta temeva che in quel preciso momento potesse essere un caso interessante di combustione spontanea, senza avere la consolazione di saperlo. Alla fine, tuttavia, cominciò a pensare - come avreste pensato voi o io all'inizio; perché è sempre la persona non nella situazione quella che sa cosa avrebbe dovuto fare in quel caso e che senza dubbio l'avrebbe fatto - alla fine, dico, cominciò a pensare che la fonte e il segreto di questa luce fantasma potessero trovarsi nella stanza accanto, da cui sembrava provenire, almeno stando alle ulteriori indagini. Questa idea prese pieno possesso della sua mente, si alzò in silenzio e si avvicinò alla porta strisciando nelle pantofole.
+Ora, essendo preparato a quasi tutto, non era affatto preparato a nulla; e, di conseguenza, quando la [[motifs/clock|campana]] suonò l'una e nessuna forma apparve, fu preso da un violento attacco di tremore. Cinque minuti, dieci minuti, un quarto d'ora passarono, ma nulla accadde. Tutto questo [[motifs/time|tempo]], rimase sdraiato sul suo letto, nel cuore e al centro di una fiammata di luce rossastra che si riversava su di esso quando la [[motifs/clock|campana]] annunciò l'ora; e questa, essendo solo luce, era più allarmante di una dozzina di [[motifs/ghosts|fantasmi]], poiché non riusciva a capire cosa significasse o cosa sarebbe successo; e talvolta temeva che in quel preciso momento potesse essere un caso interessante di combustione spontanea, senza avere la consolazione di saperlo. Alla fine, tuttavia, cominciò a pensare - come avreste pensato voi o io all'inizio; perché è sempre la persona non nella situazione quella che sa cosa avrebbe dovuto fare in quel caso e che senza dubbio l'avrebbe fatto - alla fine, dico, cominciò a pensare che la fonte e il segreto di questa luce fantasma potessero trovarsi nella stanza accanto, da cui sembrava provenire, almeno stando alle ulteriori indagini. Questa idea prese pieno possesso della sua mente, si alzò in silenzio e si avvicinò alla porta strisciando nelle pantofole.
 
 Nel momento in cui la mano di Scrooge si posò sulla serratura,
 una strana voce lo chiamò per nome e gli ordinò di entrare.
 Obbedì.
 
-Era la sua stanza. Non c'era alcun [[Doubt|dubbio]] al riguardo.
+Era la sua stanza. Non c'era alcun [[concepts/doubt|dubbio]] al riguardo.
 Ma aveva subito una trasformazione sorprendente. Le pareti
 e il soffitto erano così ricoperti di verde vivente, che sembrava un
 vero e proprio boschetto; da ogni parte del quale brillavano
-fragole lucenti. Le croccanti [[Leaves|foglie]] di agrifoglio, vischio e
+fragole lucenti. Le croccanti [[motifs/leaves|foglie]] di agrifoglio, vischio e
 edera riflettevano la luce, come se fossero stati sparsi tanti piccoli specchi;
 e una fiamma così potente ardeva nel camino,
-che quel tetto spento non aveva mai conosciuto né ai [[Time|tempi]] di Scrooge,
+che quel tetto spento non aveva mai conosciuto né ai [[motifs/time|tempi]] di Scrooge,
 né a quelli di Marley, né per molti e molti
-[[Winter|inverni]] passati. Ammucchiati sul pavimento, a formare
+[[motifs/winter|inverni]] passati. Ammucchiati sul pavimento, a formare
 una sorta di trono, c'erano tacchini, oche, selvaggina, pollame, carne salata,
 grandi pezzi di carne, maialini da latte, lunghi ghirlande di salsicce,
 torte di mele, budini di prugne, barili di ostriche, castagne arrosto,
@@ -6747,12 +6747,12 @@ di comoda posizione su questo divano, sedeva un allegro Gigante,
 splendido da vedere; che portava una torcia fiammeggiante, in forma non dissimile dal corno dell'abbondanza di Plutone, e la teneva alta, molto alta, per far luce su Scrooge,
 mentre sbirciava attorno alla porta.
 
-«Entra!» esclamò lo [[Ghost|Spirito]]. «Entra e conoscerai meglio me, uomo!»
+«Entra!» esclamò lo [[archetypes/ghost|Spirito]]. «Entra e conoscerai meglio me, uomo!»
 
 Scrooge entrò con timidezza e chinò il capo davanti a questo Spirito.
 Non era più lo Scrooge ostinato di prima; e sebbene gli occhi dello Spirito fossero limpidi e benevoli, non gli piaceva incontrarli.
 
-«Io sono lo [[Ghost of Christmas Present|Spirito del Natale Presente]]», disse lo Spirito.
+«Io sono lo [[characters/ghost-of-christmas-present|Spirito del Natale Presente]]», disse lo Spirito.
 «Guardami!»
 
 Scrooge lo fece con riverenza. Era avvolto in un semplice manto verde,
@@ -6763,25 +6763,25 @@ e sulla testa non portava altro copricapo se non una ghirlanda di agrifoglio,
 sparsa qua e là di scintillanti ghiaccioli. I suoi ricci castani erano lunghi
 e liberi; liberi come il suo volto cordiale, i suoi occhi scintillanti,
 la sua mano aperta, la sua voce allegra, il suo comportamento disinvolto e l'aria gioiosa.
-In vita portava una vecchia guaina; ma non conteneva alcuna [[Sword|spada]],
+In vita portava una vecchia guaina; ma non conteneva alcuna spada,
 e l'antica fodera era consumata dalla ruggine.
 
 «Non hai mai visto niente di simile a me prima!» esclamò lo Spirito.
 
 «Mai», rispose Scrooge.
 
-«Non sono mai uscito con i membri più giovani della mia famiglia, intendo dire (perché io sono molto giovane) i miei fratelli maggiori nati negli ultimi anni?» proseguì lo [[Phantom|spettro]].
+«Non sono mai uscito con i membri più giovani della mia famiglia, intendo dire (perché io sono molto giovane) i miei fratelli maggiori nati negli ultimi anni?» proseguì lo [[characters/phantom|spettro]].
 
 «Non credo di averlo fatto», disse Scrooge. «Temo proprio di no. Hai avuto molti fratelli, Spirito?»
 
-«Più di milleottocento», disse lo [[Ghost|Spirito]].
+«Più di milleottocento», disse lo [[archetypes/ghost|Spirito]].
 
 «Una famiglia enorme da mantenere!» borbottò Scrooge.
 
-Lo [[Ghost of Christmas Present|Spirito del Natale Presente]] si [[Rose|levò]].
+Lo [[characters/ghost-of-christmas-present|Spirito del Natale Presente]] si [[motifs/rose|levò]].
 
 "Spirito," disse Scrooge con umiltà, "conducimi dove vuoi.
-Sono uscito la [[Night|scorsa notte]] per forza e ho imparato una lezione che sta facendo il suo effetto. Stasera, se hai qualcosa da insegnarmi, lascia che ne tragga profitto."
+Sono uscito la [[motifs/night|scorsa notte]] per forza e ho imparato una lezione che sta facendo il suo effetto. Stasera, se hai qualcosa da insegnarmi, lascia che ne tragga profitto."
 
 «Tocca la mia veste!»
 
@@ -6791,34 +6791,34 @@ Il vischio, le bacche rosse, l'edera, i tacchini, le oche,
 il selvaggina, il pollame, la carne di maiale, la carne,
 i maiali, le salsicce, le ostriche, le torte, i budini,
 la frutta e il punch sparirono all'istante. Scomparvero
-anche la stanza, il [[Fire|fuoco]], il bagliore rosso, l'ora della
-[[Night|notte]], e si ritrovarono nelle strade della [[City|città]] al mattino di Natale,
+anche la stanza, il [[motifs/fire|fuoco]], il bagliore rosso, l'ora della
+[[motifs/night|notte]], e si ritrovarono nelle strade della [[motifs/city|città]] al mattino di Natale,
 dove (perché il tempo era rigido) la gente faceva una musica grezza, ma vivace
-e non spiacevole, spalando via la [[Snow|neve]] dai marciapiedi davanti alle loro case e dalle grondaie,
-da cui i ragazzi si divertivano moltissimo a vederla cadere pesantemente sulla [[Road|strada]] sottostante
-e frantumarsi in piccole tempeste di [[Snow|neve]] artificiali.
+e non spiacevole, spalando via la [[motifs/snow|neve]] dai marciapiedi davanti alle loro case e dalle grondaie,
+da cui i ragazzi si divertivano moltissimo a vederla cadere pesantemente sulla [[motifs/road|strada]] sottostante
+e frantumarsi in piccole tempeste di [[motifs/snow|neve]] artificiali.
 
 
 
 <span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_02" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 2)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt" data-tags="archetype/innocent,motif/desire,motif/fire,motif/home,motif/leaves,motif/love,motif/snow,motif/summer,motif/time,motif/water,concept/wonder"></span>
 
 
-The [[house]] fronts looked black enough, and the windows
-blacker, contrasting with the smooth white sheet of [[Snow|snow]]
-upon the roofs, and with the dirtier [[Snow|snow]] upon the ground;
+The house fronts looked black enough, and the windows
+blacker, contrasting with the smooth white sheet of [[motifs/snow|snow]]
+upon the roofs, and with the dirtier [[motifs/snow|snow]] upon the ground;
 which last deposit had been ploughed up in deep furrows by
 the heavy wheels of carts and waggons; furrows that crossed
 and re-crossed each other hundreds of times where the great
 streets branched off; and made intricate channels, hard to trace
-in the thick yellow mud and icy [[Water|water]]. The sky was gloomy,
+in the thick yellow mud and icy [[motifs/water|water]]. The sky was gloomy,
 and the shortest streets were choked up with a dingy mist,
 half thawed, half frozen, whose heavier particles descended
 in a shower of sooty atoms, as if all the chimneys in Great
-Britain had, by one consent, caught [[Fire|fire]], and were blazing away
+Britain had, by one consent, caught [[motifs/fire|fire]], and were blazing away
 to their dear hearts' content. There was nothing very cheerful
 in the climate or the town, and yet was there an air of
-cheerfulness abroad that the clearest [[Summer|summer]] air and brightest
-[[Summer|summer]] sun might have endeavoured to diffuse in vain.
+cheerfulness abroad that the clearest [[motifs/summer|summer]] air and brightest
+[[motifs/summer|summer]] sun might have endeavoured to diffuse in vain.
 
 For, the people who were shovelling away on the housetops
 were jovial and full of glee; calling out to one another
@@ -6837,13 +6837,13 @@ by, and glanced demurely at the hung-up mistletoe. There were
 pears and apples, clustered high in blooming pyramids; there
 were bunches of grapes, made, in the shopkeepers' benevolence
 to dangle from conspicuous hooks, that people's mouths might
-[[Water|water]] gratis as they passed; there were piles of filberts, mossy
+[[motifs/water|water]] gratis as they passed; there were piles of filberts, mossy
 and brown, recalling, in their fragrance, ancient walks among
 the woods, and pleasant shufflings ankle deep through withered
-[[Leaves|leaves]]; there were Norfolk Biffins, squat and swarthy, setting
+[[motifs/leaves|leaves]]; there were Norfolk Biffins, squat and swarthy, setting
 off the yellow of the oranges and lemons, and, in the great
 compactness of their juicy persons, urgently entreating and
-beseeching to be carried [[Home|home]] in paper bags and eaten after
+beseeching to be carried [[motifs/home|home]] in paper bags and eaten after
 dinner. The very gold and silver fish, set forth among
 these choice fruits in a bowl, though members of a dull and
 stagnant-blooded race, appeared to know that there was
@@ -6852,7 +6852,7 @@ round their little world in slow and passionless excitement.
 
 The Grocers'! oh, the Grocers'! nearly closed, with perhaps
 two shutters down, or one; but through those gaps such
-glimpses! It was not [[Alone|alone]] that the scales descending on the
+glimpses! It was not alone that the scales descending on the
 counter made a merry sound, or that the twine and roller
 parted company so briskly, or that the canisters were rattled
 up and down like juggling tricks, or even that the blended
@@ -6870,7 +6870,7 @@ promise of the day, that they tumbled up against each other
 at the door, crashing their wicker baskets wildly, and left
 their purchases upon the counter, and came running back to
 fetch them, and committed hundreds of the like mistakes, in
-the best [[Humour|humour]] possible; while the [[grocer|Grocer]] and his people
+the best humour possible; while the Grocer and his people
 were so frank and fresh that the polished hearts with which
 they fastened their aprons behind might have been their own,
 worn outside for general inspection, and for Christmas daws
@@ -6879,7 +6879,7 @@ to peck at if they chose.
 But soon the steeples called good people all, to church and
 chapel, and away they came, flocking through the streets in
 their best clothes, and with their gayest faces. And at the
-same [[Time|time]] there emerged from scores of bye-streets, lanes, and
+same [[motifs/time|time]] there emerged from scores of bye-streets, lanes, and
 nameless turnings, innumerable people, carrying their dinners
 to the bakers' shops. The sight of these poor revellers
 appeared to interest the Spirit very much, for he stood with
@@ -6888,12 +6888,12 @@ covers as their bearers passed, sprinkled incense on their
 dinners from his torch. And it was a very uncommon kind
 of torch, for once or twice when there were angry words
 between some dinner-carriers who had jostled each other, he
-shed a few drops of [[Water|water]] on them from it, and their good
-[[Humour|humour]] was restored directly. For they said, it was a shame
-to quarrel upon Christmas Day. And so it was! God [[Love|love]]
+shed a few drops of [[motifs/water|water]] on them from it, and their good
+humour was restored directly. For they said, it was a shame
+to quarrel upon Christmas Day. And so it was! God [[motifs/love|love]]
 it, so it was!
 
-In [[Time|time]] [[The Bells|the bells]] ceased, and the bakers were shut up; and
+In [[motifs/time|time]] the bells ceased, and the bakers were shut up; and
 yet there was a genial shadowing forth of all these dinners
 and the progress of their cooking, in the thawed blotch of
 wet above each baker's oven; where the pavement smoked as
@@ -6913,36 +6913,36 @@ asked Scrooge.
 
 "Because it needs it most."
 
-"Spirit," said Scrooge, after a moment's thought, "I [[Wonder|wonder]]
+"Spirit," said Scrooge, after a moment's thought, "I [[concepts/wonder|wonder]]
 you, of all the beings in the many worlds about us, should
-[[Desire|desire]] to cramp these people's opportunities of [[Innocent|innocent]]
+[[motifs/desire|desire]] to cramp these people's opportunities of [[archetypes/innocent|innocent]]
 enjoyment."
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Le facciate delle [[house|case]] erano abbastanza scure, e le finestre ancora più scure,
-in contrasto con la liscia coltre bianca di [[Snow|neve]]
-sugli tetti, e con la [[Snow|neve]] più sporca a terra;
+Le facciate delle case erano abbastanza scure, e le finestre ancora più scure,
+in contrasto con la liscia coltre bianca di [[motifs/snow|neve]]
+sugli tetti, e con la [[motifs/snow|neve]] più sporca a terra;
 quest'ultima era stata sollevata in profondi solchi
 dalle pesanti ruote dei carri e dei furgoni; solchi che si incrociavano
 e s'incrociavano di nuovo centinaia di volte dove le grandi strade si diramavano;
 e formavano canali intricati, difficili da seguire
-nel denso fango giallo e nell'[[Water|acqua]] gelata. Il cielo era cupo,
+nel denso fango giallo e nell'[[motifs/water|acqua]] gelata. Il cielo era cupo,
 e anche le stradine più corte erano ostruite da una nebbia grigiastra,
 mezzo sciolta e mezzo congelata, i cui elementi più pesanti cadevano
-in una pioggia di atomi neri, come se tutti i camini della Gran Bretagna avessero preso [[Fire|fuoco]] all'unisono ed ardessero a tutto spiano. Non c'era nulla di molto allegro nel clima o nella città,
+in una pioggia di atomi neri, come se tutti i camini della Gran Bretagna avessero preso [[motifs/fire|fuoco]] all'unisono ed ardessero a tutto spiano. Non c'era nulla di molto allegro nel clima o nella città,
 eppure nell'aria c'era un non so che di lieto
-che la più limpida aria d'[[Summer|estate]] e il sole più luminoso dell'[[Summer|estate]]
+che la più limpida aria d'[[motifs/summer|estate]] e il sole più luminoso dell'[[motifs/summer|estate]]
 avrebbero potuto cercare invano di diffondere.
 
-Perché le persone che stavano spalando la neve sui tetti erano gioviali e piene di gioia; si chiamavano l'una con l'altra dai parapetti, e ogni tanto scambiavano una palla di neve scherzosa - un missile più benevolo di molti scherzi verbali - ridendo di cuore se andava a segno e non meno di cuore se mancava il bersaglio. I negozi di pollaioli erano ancora mezzo aperti, e quelli dei fruttivendoli erano radiosi nella loro gloria. C'erano grandi cestini rotondi e panciuti di castagne, a forma di gilè di vecchi signori allegri, che si affacciavano alle porte e traboccavano in strada nella loro opulenza apoplettica. C'erano cipolle spagnole robuste, dal viso rosso e largo, che brillavano per la pinguedine della loro crescita come frati spagnoli, e ammiccavano dagli scaffali con sottile malizia alle ragazze mentre passavano, lanciando occhiate pudiche all'agrifoglio appeso. C'erano pere e mele, ammassate in alte piramidi fiorite; c'erano grappoli d'uva, messi, nella benevolenza dei negozianti, a pendere da ganci vistosi, affinché le bocche della gente si [[Water|riempissero]] gratis passando; c'erano pile di nocciole, muschiati e marroni, che richiamavano, nel loro profumo, antiche passeggiate tra i boschi e piacevoli scricchiolii fino alle caviglie tra le foglie secche [[Leaves|foglie]]; c'erano Biffins di Norfolk, tozzi e scuri, che facevano risaltare il giallo degli aranci e dei limoni, e, nella grande compattezza delle loro persone succose, imploravano urgentemente di essere portati [[Home|a casa]] in sacchetti di carta e mangiati dopo cena. Anche i pesci d'oro e d'argento, esposti tra queste scelte frutta in una ciotola, sebbene appartenessero a una razza ottusa e dal sangue stagnante, sembravano sapere che stava succedendo qualcosa; e, come un pesce solo, andavano girovagando intorno al loro piccolo mondo in lenta ed impassibile agitazione.
+Perché le persone che stavano spalando la neve sui tetti erano gioviali e piene di gioia; si chiamavano l'una con l'altra dai parapetti, e ogni tanto scambiavano una palla di neve scherzosa - un missile più benevolo di molti scherzi verbali - ridendo di cuore se andava a segno e non meno di cuore se mancava il bersaglio. I negozi di pollaioli erano ancora mezzo aperti, e quelli dei fruttivendoli erano radiosi nella loro gloria. C'erano grandi cestini rotondi e panciuti di castagne, a forma di gilè di vecchi signori allegri, che si affacciavano alle porte e traboccavano in strada nella loro opulenza apoplettica. C'erano cipolle spagnole robuste, dal viso rosso e largo, che brillavano per la pinguedine della loro crescita come frati spagnoli, e ammiccavano dagli scaffali con sottile malizia alle ragazze mentre passavano, lanciando occhiate pudiche all'agrifoglio appeso. C'erano pere e mele, ammassate in alte piramidi fiorite; c'erano grappoli d'uva, messi, nella benevolenza dei negozianti, a pendere da ganci vistosi, affinché le bocche della gente si [[motifs/water|riempissero]] gratis passando; c'erano pile di nocciole, muschiati e marroni, che richiamavano, nel loro profumo, antiche passeggiate tra i boschi e piacevoli scricchiolii fino alle caviglie tra le foglie secche [[motifs/leaves|foglie]]; c'erano Biffins di Norfolk, tozzi e scuri, che facevano risaltare il giallo degli aranci e dei limoni, e, nella grande compattezza delle loro persone succose, imploravano urgentemente di essere portati [[motifs/home|a casa]] in sacchetti di carta e mangiati dopo cena. Anche i pesci d'oro e d'argento, esposti tra queste scelte frutta in una ciotola, sebbene appartenessero a una razza ottusa e dal sangue stagnante, sembravano sapere che stava succedendo qualcosa; e, come un pesce solo, andavano girovagando intorno al loro piccolo mondo in lenta ed impassibile agitazione.
 
-I droghieri! oh, i droghieri! quasi chiusi, con forse due o una persiana abbassata; ma attraverso quelle fessure si intravedevano tali cose! Non era [[Alone|solo]] che le bilance che scendevano sul banco facevano un suono allegro, o che il cordino e la bobina si separavano così velocemente, o che i barattoli venivano fatti tintinnare su e giù come trucchi di prestigio, o anche che i profumi misti del tè e del caffè fossero così graditi al naso, o addirittura che l'uva passa fosse così abbondante e rara, le mandorle così bianchissime, i bastoncini di cannella così lunghi e diritti, le altre spezie così deliziose, i frutti canditi così ricoperti e macchiati di zucchero fuso da far sentire deboli e successivamente biliosi anche gli spettatori più freddi. Né era che le mele cotogne fossero succose e polpose, o che le prugne francesi arrossissero in timida acidità dalle loro scatole altamente decorate, o che tutto fosse buono da mangiare e vestito a festa per il Natale; ma i clienti erano tutti così affrettati ed entusiasti nella speranzosa promessa del giorno, che si scontravano l'uno con l'altro alla porta, facendo schiantare selvaggiamente i loro cestini di vimini, lasciando i loro acquisti sul banco e tornando a prenderli di corsa, commettendo centinaia di errori simili, nel migliore [[Humour|umore]] possibile; mentre il [[grocer|droghiere]] e la sua gente erano così schietti e freschi che i cuori lucidi con cui si chiudevano i loro grembiuli dietro potevano essere i loro, portati all'esterno per l'ispezione generale, e perché gli uccelli del Natale ci beccassero sopra se lo desideravano.
+I droghieri! oh, i droghieri! quasi chiusi, con forse due o una persiana abbassata; ma attraverso quelle fessure si intravedevano tali cose! Non era solo che le bilance che scendevano sul banco facevano un suono allegro, o che il cordino e la bobina si separavano così velocemente, o che i barattoli venivano fatti tintinnare su e giù come trucchi di prestigio, o anche che i profumi misti del tè e del caffè fossero così graditi al naso, o addirittura che l'uva passa fosse così abbondante e rara, le mandorle così bianchissime, i bastoncini di cannella così lunghi e diritti, le altre spezie così deliziose, i frutti canditi così ricoperti e macchiati di zucchero fuso da far sentire deboli e successivamente biliosi anche gli spettatori più freddi. Né era che le mele cotogne fossero succose e polpose, o che le prugne francesi arrossissero in timida acidità dalle loro scatole altamente decorate, o che tutto fosse buono da mangiare e vestito a festa per il Natale; ma i clienti erano tutti così affrettati ed entusiasti nella speranzosa promessa del giorno, che si scontravano l'uno con l'altro alla porta, facendo schiantare selvaggiamente i loro cestini di vimini, lasciando i loro acquisti sul banco e tornando a prenderli di corsa, commettendo centinaia di errori simili, nel migliore umore possibile; mentre il droghiere e la sua gente erano così schietti e freschi che i cuori lucidi con cui si chiudevano i loro grembiuli dietro potevano essere i loro, portati all'esterno per l'ispezione generale, e perché gli uccelli del Natale ci beccassero sopra se lo desideravano.
 
-Ma presto i campanili chiamarono tutti le brave persone in chiesa e cappella, ed eccoli arrivare, accalcandosi per le strade nei loro vestiti migliori e con i volti più allegri. E nello stesso [[Time|tempo]] emersero da decine di stradine laterali, vicoli e svolte senza nome innumerevoli persone che portavano i loro pranzi ai forni dei panettieri. La vista di questi poveri festaiuoli sembrava interessare molto lo Spirito, perché si fermò con Scrooge accanto a lui sulla porta di un forno e, togliendo i coperchi mentre i portatori passavano, cosparse i loro pranzi d'incenso dalla sua torcia. E quella era una torcia davvero insolita, perché una o due volte quando ci furono parole arrabbiate tra alcuni portatori di pranzo che si erano urtati a vicenda, versò alcune gocce di [[Water|acqua]] su di loro e il loro buon [[Humour|umore]] fu immediatamente ristabilito. Perché dicevano che era una vergogna litigare nel giorno di Natale. E così era! Dio [[Love|ami]], così era!
+Ma presto i campanili chiamarono tutti le brave persone in chiesa e cappella, ed eccoli arrivare, accalcandosi per le strade nei loro vestiti migliori e con i volti più allegri. E nello stesso [[motifs/time|tempo]] emersero da decine di stradine laterali, vicoli e svolte senza nome innumerevoli persone che portavano i loro pranzi ai forni dei panettieri. La vista di questi poveri festaiuoli sembrava interessare molto lo Spirito, perché si fermò con Scrooge accanto a lui sulla porta di un forno e, togliendo i coperchi mentre i portatori passavano, cosparse i loro pranzi d'incenso dalla sua torcia. E quella era una torcia davvero insolita, perché una o due volte quando ci furono parole arrabbiate tra alcuni portatori di pranzo che si erano urtati a vicenda, versò alcune gocce di [[motifs/water|acqua]] su di loro e il loro buon umore fu immediatamente ristabilito. Perché dicevano che era una vergogna litigare nel giorno di Natale. E così era! Dio [[motifs/love|ami]], così era!
 
-Con il [[Time|tempo]] le [[The Bells|campane]] smisero di suonare e i forni dei panettieri furono chiusi, ma c'era ancora un'ombra geniale che prefigurava tutti quei pranzi e l'avanzamento della loro cottura nella macchia sciolta sopra ogni forno del panettiere; dove il selciato fumava come se anche le pietre si stessero cuocendo.
+Con il [[motifs/time|tempo]] le campane smisero di suonare e i forni dei panettieri furono chiusi, ma c'era ancora un'ombra geniale che prefigurava tutti quei pranzi e l'avanzamento della loro cottura nella macchia sciolta sopra ogni forno del panettiere; dove il selciato fumava come se anche le pietre si stessero cuocendo.
 
 «C'è un sapore particolare in ciò che spargi dalla tua torcia?» chiese Scrooge.
 
@@ -6956,7 +6956,7 @@ Con il [[Time|tempo]] le [[The Bells|campane]] smisero di suonare e i forni dei 
 
 «Perché ne ha più bisogno».
 
-"Spirito," disse Scrooge dopo un attimo di riflessione, "mi [[Wonder|meraviglio]] che tu, tra tutti gli esseri dei molti mondi intorno a noi, voglia [[Desire|desiderare]] di restringere le possibilità di godimento [[Innocent|innocente]] per queste persone."
+"Spirito," disse Scrooge dopo un attimo di riflessione, "mi [[concepts/wonder|meraviglio]] che tu, tra tutti gli esseri dei molti mondi intorno a noi, voglia [[motifs/desire|desiderare]] di restringere le possibilità di godimento [[archetypes/innocent|innocente]] per queste persone."
 
 
 
@@ -6981,40 +6981,40 @@ name, or at least in that of your family," said Scrooge.
 
 "There are some upon this earth of yours," returned the Spirit,
 "who lay claim to know us, and who do their deeds of passion,
-[[Pride|pride]], ill-will, hatred, envy, bigotry, and selfishness
+[[concepts/pride|pride]], ill-will, hatred, envy, bigotry, and selfishness
 in our name, who are as strange to us and all our kith and
 kin, as if they had never lived. Remember that, and charge
 their doings on themselves, not us."
 
 Scrooge promised that he would; and they went on,
 invisible, as they had been before, into the suburbs of the
-town. It was a remarkable quality of the [[Ghost]] (which
+town. It was a remarkable quality of the [[archetypes/ghost|Ghost]] (which
 Scrooge had observed at the baker's), that notwithstanding
 his gigantic size, he could accommodate himself to any place
 with ease; and that he stood beneath a low roof quite as
-gracefully and like a [[Supernatural|supernatural]] creature, as it was possible
+gracefully and like a [[motifs/supernatural|supernatural]] creature, as it was possible
 he could have done in any lofty hall.
 
 And perhaps it was the pleasure the good Spirit had in
 showing off this power of his, or else it was his own kind,
-generous, hearty [[Nature|nature]], and his sympathy with all poor
+generous, hearty [[concepts/nature|nature]], and his sympathy with all poor
 men, that led him straight to Scrooge's clerk's; for there he
 went, and took Scrooge with him, holding to his robe; and
 on the threshold of the door the Spirit smiled, and stopped
-to bless [[Bob Cratchit]]'s dwelling with the sprinkling of his
+to bless [[characters/bob-cratchit|Bob Cratchit]]'s dwelling with the sprinkling of his
 torch. Think of that! Bob had but fifteen "Bob" a-week
 himself; he pocketed on Saturdays but fifteen copies of his
-Christian name; and yet the [[Ghost of Christmas Present]]
-blessed his four-roomed [[house]]!
+Christian name; and yet the [[characters/ghost-of-christmas-present|Ghost of Christmas Present]]
+blessed his four-roomed house!
 
-Then up [[Rose|rose]] Mrs. Cratchit, Cratchit's wife, dressed out
+Then up [[motifs/rose|rose]] Mrs. Cratchit, Cratchit's wife, dressed out
 but poorly in a twice-turned gown, but brave in ribbons,
 which are cheap and make a goodly show for sixpence; and
 she laid the cloth, assisted by Belinda Cratchit, second of
 her daughters, also brave in ribbons; while Master Peter
 Cratchit plunged a fork into the saucepan of potatoes, and
 getting the corners of his monstrous shirt collar (Bob's private
-property, conferred upon his son and heir in [[Honour|honour]] of the
+property, conferred upon his son and heir in [[concepts/honour|honour]] of the
 day) into his mouth, rejoiced to find himself so gallantly
 attired, and yearned to show his linen in the fashionable Parks.
 And now two smaller Cratchits, boy and girl, came tearing
@@ -7023,12 +7023,12 @@ goose, and known it for their own; and basking in luxurious
 thoughts of sage and onion, these young Cratchits danced
 about the table, and exalted Master Peter Cratchit to the
 skies, while he (not proud, although his collars nearly choked
-him) blew the [[Fire|fire]], until the slow potatoes bubbling up,
+him) blew the [[motifs/fire|fire]], until the slow potatoes bubbling up,
 knocked loudly at the saucepan-lid to be let out and
 peeled.
 
 "What has ever got your precious father then?" said Mrs.
-Cratchit. "And your brother, [[Tiny Tim]]! And Martha
+Cratchit. "And your brother, [[characters/tiny-tim|Tiny Tim]]! And Martha
 warn't as late last Christmas Day by half-an-hour?"
 
 "Here's Martha, mother!" said a girl, appearing as she
@@ -7041,11 +7041,11 @@ spoke.
 said Mrs. Cratchit, kissing her a dozen times, and taking off
 her shawl and bonnet for her with officious zeal.
 
-"We'd a deal of work to finish up last [[Night|night]]," replied the
+"We'd a deal of work to finish up last [[motifs/night|night]]," replied the
 girl, "and had to clear away this morning, mother!"
 
-"[[Well]]! Never mind so long as you are come," said Mrs.
-Cratchit. "Sit ye down before the [[Fire|fire]], my dear, and have
+"[[motifs/well|Well]]! Never mind so long as you are come," said Mrs.
+Cratchit. "Sit ye down before the [[motifs/fire|fire]], my dear, and have
 a warm, Lord bless ye!"
 
 "No, no! There's father coming," cried the two young
@@ -7055,24 +7055,24 @@ hide!"
 So Martha hid herself, and in came little Bob, the father,
 with at least three feet of comforter exclusive of the fringe,
 hanging down before him; and his threadbare clothes darned
-up and brushed, to look seasonable; and [[Tiny Tim]] upon his
-shoulder. Alas for [[Tiny Tim]], he bore a little crutch, and
+up and brushed, to look seasonable; and [[characters/tiny-tim|Tiny Tim]] upon his
+shoulder. Alas for [[characters/tiny-tim|Tiny Tim]], he bore a little crutch, and
 had his limbs supported by an iron frame!
 
-"Why, where's our Martha?" cried [[Bob Cratchit]], looking
+"Why, where's our Martha?" cried [[characters/bob-cratchit|Bob Cratchit]], looking
 round.
 
 "Not coming," said Mrs. Cratchit.
 
 "Not coming!" said Bob, with a sudden declension in his
-high spirits; for he had been Tim's [[Blood|blood]] [[Horse|horse]] all the way
-from church, and had come [[Home|home]] rampant. "Not coming
+high spirits; for he had been Tim's [[motifs/blood|blood]] [[motifs/horse|horse]] all the way
+from church, and had come [[motifs/home|home]] rampant. "Not coming
 upon Christmas Day!"
 
 Martha didn't like to see him disappointed, if it were only
 in joke; so she came out prematurely from behind the closet
 door, and ran into his arms, while the two young Cratchits
-hustled [[Tiny Tim]], and bore him off into the wash-[[house]],
+hustled [[characters/tiny-tim|Tiny Tim]], and bore him off into the wash-house,
 that he might hear the pudding singing in the copper.
 
 "And how did little Tim behave?" asked Mrs. Cratchit,
@@ -7081,19 +7081,19 @@ hugged his daughter to his heart's content.
 
 "As good as gold," said Bob, "and better. Somehow he
 gets thoughtful, sitting by himself so much, and thinks the
-strangest things you ever heard. He told me, coming [[Home|home]],
+strangest things you ever heard. He told me, coming [[motifs/home|home]],
 that he hoped the people saw him in the church, because he
 was a cripple, and it might be pleasant to them to remember
 upon Christmas Day, who made lame beggars walk, and blind
 men see."
 
 Bob's voice was tremulous when he told them this, and
-trembled more when he said that [[Tiny Tim]] was growing
+trembled more when he said that [[characters/tiny-tim|Tiny Tim]] was growing
 strong and hearty.
 
 His active little crutch was heard upon the floor, and back
-came [[Tiny Tim]] before another word was spoken, escorted by
-his brother and sister to his stool before the [[Fire|fire]]; and while
+came [[characters/tiny-tim|Tiny Tim]] before another word was spoken, escorted by
+his brother and sister to his stool before the [[motifs/fire|fire]]; and while
 Bob, turning up his cuffs--as if, poor fellow, they were
 capable of being made more shabby--compounded some hot
 mixture in a jug with gin and lemons, and stirred it round
@@ -7118,34 +7118,34 @@ goose, with which they soon returned in high procession.
 
 "Vi sono alcuni sulla terra che tu conosci", rispose lo Spirito,
 "che pretendono di conoscerci e compiono le loro azioni di passione,
-[[Pride|orgoglio]], malanimo, odio, invidia, bigottismo ed egoismo
+[[concepts/pride|orgoglio]], malanimo, odio, invidia, bigottismo ed egoismo
 in nostro nome; essi sono per noi così estranei come se non fossero mai vissuti. Ricordati questo e attribuisci le loro azioni a loro stessi, non a noi."
 
 Scrooge promise che lo avrebbe fatto e proseguirono,
 invisibili come prima, verso la periferia della città.
-Era una caratteristica notevole dello [[Ghost|Spirito]] (che Scrooge aveva osservato dal fornaio) che nonostante le sue dimensioni gigantesche poteva adattarsi a qualsiasi luogo con facilità e che si trovava sotto un tetto basso altrettanto aggraziato e come una creatura [[Supernatural|soprannaturale]] quanto avrebbe potuto essere in qualunque grande sala.
+Era una caratteristica notevole dello [[archetypes/ghost|Spirito]] (che Scrooge aveva osservato dal fornaio) che nonostante le sue dimensioni gigantesche poteva adattarsi a qualsiasi luogo con facilità e che si trovava sotto un tetto basso altrettanto aggraziato e come una creatura [[motifs/supernatural|soprannaturale]] quanto avrebbe potuto essere in qualunque grande sala.
 
-E forse fu il piacere che lo Spirito buono provava nel mostrare questo suo potere, o forse fu la sua stessa [[Nature|natura]] gentile, generosa e cordiale, e la sua simpatia per tutti gli uomini poveri, a condurlo dritto dal commesso di Scrooge; perché lì andò, portando con sé Scrooge che si aggrappava al suo mantello; e sulla soglia della porta lo Spirito sorrise e si fermò per benedire la dimora di [[Bob Cratchit]] aspergendola col liquido della sua torcia. Pensate un po'! Bob aveva appena quindici "Bob" a settimana; il sabato metteva in tasca solo quindici copie del suo nome cristiano; eppure lo [[Ghost of Christmas Present|Spirito del Natale Presente]] benedisse la sua [[house|casa]] di quattro stanze!
+E forse fu il piacere che lo Spirito buono provava nel mostrare questo suo potere, o forse fu la sua stessa [[concepts/nature|natura]] gentile, generosa e cordiale, e la sua simpatia per tutti gli uomini poveri, a condurlo dritto dal commesso di Scrooge; perché lì andò, portando con sé Scrooge che si aggrappava al suo mantello; e sulla soglia della porta lo Spirito sorrise e si fermò per benedire la dimora di [[characters/bob-cratchit|Bob Cratchit]] aspergendola col liquido della sua torcia. Pensate un po'! Bob aveva appena quindici "Bob" a settimana; il sabato metteva in tasca solo quindici copie del suo nome cristiano; eppure lo [[characters/ghost-of-christmas-present|Spirito del Natale Presente]] benedisse la sua casa di quattro stanze!
 
-Poi si [[Rose|alzò]] la signora Cratchit, moglie di Cratchit, vestita
+Poi si [[motifs/rose|alzò]] la signora Cratchit, moglie di Cratchit, vestita
 ma poveramente in un abito rifatto due volte, ma elegante nelle
 ghirlande, che sono a buon mercato e fanno bella mostra per sei pence; e
 lei apparecchiò la tavola, assistita da Belinda Cratchit, seconda delle
 sue figlie, anch'essa elegante in ghirlande; mentre il piccolo Peter
 Cratchit affondò una forchetta nella pentola di patate, e
 mettendo gli angoli del suo mostruoso colletto (proprietà privata di Bob,
-conferita a suo figlio ed erede in [[Honour|onore]] della giornata) in bocca, si rallegrò nel trovarsi così elegantemente
+conferita a suo figlio ed erede in [[concepts/honour|onore]] della giornata) in bocca, si rallegrò nel trovarsi così elegantemente
 vestito e desiderò mostrare la sua biancheria nei parchi alla moda.
 E ora due Cratchit più piccoli, un ragazzo e una ragazza, entrarono di corsa,
 gridando che fuori dal fornaio avevano sentito l'odore dell'oca e l'avevano riconosciuta
 come la loro; e abbandonandosi a pensieri lussureggianti di salvia e cipolla, questi giovani Cratchit danzarono
 attorno al tavolo ed esaltarono il piccolo Peter Cratchit fino ai cieli,
 mentre lui (non orgoglioso, sebbene i suoi colletti lo soffocassero quasi)
-soffiava sul [[Fire|fuoco]], finché le patate lente non bollivano e
+soffiava sul [[motifs/fire|fuoco]], finché le patate lente non bollivano e
 bussavano rumorosamente al coperchio della pentola per essere liberate e
 sbucciate.
 
-"Che cosa ha preso allora il vostro prezioso padre?", disse la signora Cratchit. "E vostro fratello, [[Tiny Tim|Timmy Piccolo]]? E Martha non è arrivata l'ultimo giorno di Natale con mezz'ora di ritardo?"
+"Che cosa ha preso allora il vostro prezioso padre?", disse la signora Cratchit. "E vostro fratello, [[characters/tiny-tim|Timmy Piccolo]]? E Martha non è arrivata l'ultimo giorno di Natale con mezz'ora di ritardo?"
 
 «Ecco Martha, mamma!» disse una ragazza, apparendo mentre parlava.
 
@@ -7154,34 +7154,34 @@ sbucciate.
 
 «Ma benedetto il tuo cuore, mia cara, come sei in ritardo!» disse la signora Cratchit, baciandola una dozzina di volte e togliendole scialle e cappello con zelante premura.
 
-«Abbiamo dovuto finire un sacco di lavoro ieri [[Night|sera]]» rispose la ragazza «e stamattina dovevamo liberare il posto, mamma!»
+«Abbiamo dovuto finire un sacco di lavoro ieri [[motifs/night|sera]]» rispose la ragazza «e stamattina dovevamo liberare il posto, mamma!»
 
-«[[Well|Ebbene]]! Non importa finché sei qui», disse la signora Cratchit. «Siediti davanti al [[Fire|fuoco]], mio caro, e riscaldati, Dio ti benedica!»
+«[[motifs/well|Ebbene]]! Non importa finché sei qui», disse la signora Cratchit. «Siediti davanti al [[motifs/fire|fuoco]], mio caro, e riscaldati, Dio ti benedica!»
 
 “No, no! Sta arrivando papà”, gridarono i due giovani Cratchit che erano ovunque nello stesso momento. “Nasconditi, Marta, nasconditi!”
 
 Così Martha si nascose e arrivò il piccolo Bob, il padre,
 con almeno un metro di scialle esclusa la frangia che gli pendeva davanti;
-e i suoi vestiti logori erano rattoppati e spazzolati per apparire presentabili; e [[Tiny Tim|Timmy]] sulla sua
-spalla. Povero il mio [[Tiny Tim|Timmy]], portava un piccolo bastone, e le sue gambe erano sostenute da una struttura di ferro!
+e i suoi vestiti logori erano rattoppati e spazzolati per apparire presentabili; e [[characters/tiny-tim|Timmy]] sulla sua
+spalla. Povero il mio [[characters/tiny-tim|Timmy]], portava un piccolo bastone, e le sue gambe erano sostenute da una struttura di ferro!
 
-"Ma dov'è la nostra Marta?", esclamò [[Bob Cratchit]], guardandosi intorno.
+"Ma dov'è la nostra Marta?", esclamò [[characters/bob-cratchit|Bob Cratchit]], guardandosi intorno.
 
 «Non viene», disse la signora Cratchit.
 
-"Non viene!" disse Bob con un improvviso calo del suo buon umore; perché era stato il [[Blood|sangue]] [[Horse|cavallo]] di Tim per tutto il tragitto dalla chiesa, ed era tornato a [[Home|casa]] trionfante. "Non viene nel giorno di Natale!"
+"Non viene!" disse Bob con un improvviso calo del suo buon umore; perché era stato il [[motifs/blood|sangue]] [[motifs/horse|cavallo]] di Tim per tutto il tragitto dalla chiesa, ed era tornato a [[motifs/home|casa]] trionfante. "Non viene nel giorno di Natale!"
 
-Martha non voleva vederlo deluso, anche se solo per scherzo; così uscì prematuramente da dietro la porta dell'armadio e gli corse tra le braccia, mentre i due giovani Cratchit spinsero [[Tiny Tim|Timmy]] e lo portarono nella [[house|lavanderia]], affinché potesse sentire il pudding che cantava nel paiolo.
+Martha non voleva vederlo deluso, anche se solo per scherzo; così uscì prematuramente da dietro la porta dell'armadio e gli corse tra le braccia, mentre i due giovani Cratchit spinsero [[characters/tiny-tim|Timmy]] e lo portarono nella lavanderia, affinché potesse sentire il pudding che cantava nel paiolo.
 
 "E come si è comportato il piccolo Tim?" chiese la signora Cratchit,
 dopo aver scherzato con Bob sulla sua ingenuità e dopo che Bob ebbe abbracciato a lungo sua figlia.
 
-«Buono come l'oro», disse Bob «e anche meglio. In qualche modo diventa pensieroso, standosene tanto da solo, e pensa le cose più strane che tu abbia mai sentito. Mi ha detto, tornando [[Home|a casa]], che sperava la gente lo avesse visto in chiesa perché era un invalido, e forse sarebbe stato piacevole per loro ricordare nel giorno di Natale chi fece camminare i mendicanti zoppi e vedere gli uomini ciechi.»
+«Buono come l'oro», disse Bob «e anche meglio. In qualche modo diventa pensieroso, standosene tanto da solo, e pensa le cose più strane che tu abbia mai sentito. Mi ha detto, tornando [[motifs/home|a casa]], che sperava la gente lo avesse visto in chiesa perché era un invalido, e forse sarebbe stato piacevole per loro ricordare nel giorno di Natale chi fece camminare i mendicanti zoppi e vedere gli uomini ciechi.»
 
 La voce di Bob era tremula quando lo disse loro,
-e tremò ancora di più quando disse che [[Tiny Tim|il piccolo Tim]] stava crescendo forte e robusto.
+e tremò ancora di più quando disse che [[characters/tiny-tim|il piccolo Tim]] stava crescendo forte e robusto.
 
-Si sentì il rumore della sua attiva piccola stampella sul pavimento e [[Tiny Tim]] tornò indietro prima che fosse pronunciata un'altra parola, scortato dal fratello e dalla sorella fino allo sgabello davanti al [[Fire|fuoco]]; mentre Bob, rimboccandosi le maniche - come se, poveretto, potessero diventare ancora più malconce - preparava una miscela calda in un brocca con gin e limoni, mescolandola a lungo e mettendola sullo scaffale del focolare per farla sobbollire; il piccolo Peter e i due giovani Cratchit onnipresenti andarono a prendere l'oca, con la quale tornarono ben presto in solenne processione.
+Si sentì il rumore della sua attiva piccola stampella sul pavimento e [[characters/tiny-tim|Tiny Tim]] tornò indietro prima che fosse pronunciata un'altra parola, scortato dal fratello e dalla sorella fino allo sgabello davanti al [[motifs/fire|fuoco]]; mentre Bob, rimboccandosi le maniche - come se, poveretto, potessero diventare ancora più malconce - preparava una miscela calda in un brocca con gin e limoni, mescolandola a lungo e mettendola sullo scaffale del focolare per farla sobbollire; il piccolo Peter e i due giovani Cratchit onnipresenti andarono a prendere l'oca, con la quale tornarono ben presto in solenne processione.
 
 
 
@@ -7189,13 +7189,13 @@ Si sentì il rumore della sua attiva piccola stampella sul pavimento e [[Tiny Ti
 
 
 Such a bustle ensued that you might have thought a goose
-the rarest of all [[Birds|birds]]; a feathered phenomenon, to which a
-black swan was a matter of course--and in [[Truth|truth]] it was
-something very like it in that [[house]]. Mrs. Cratchit made
+the rarest of all [[motifs/birds|birds]]; a feathered phenomenon, to which a
+black swan was a matter of course--and in [[concepts/truth|truth]] it was
+something very like it in that house. Mrs. Cratchit made
 the gravy (ready beforehand in a little saucepan) hissing hot;
 Master Peter mashed the potatoes with incredible vigour;
 Miss Belinda sweetened up the apple-sauce; Martha dusted
-the hot plates; Bob took [[Tiny Tim]] beside him in a tiny
+the hot plates; Bob took [[characters/tiny-tim|Tiny Tim]] beside him in a tiny
 corner at the table; the two young Cratchits set chairs for
 everybody, not forgetting themselves, and mounting guard
 upon their posts, crammed spoons into their mouths, lest
@@ -7205,7 +7205,7 @@ said. It was succeeded by a breathless pause, as Mrs.
 Cratchit, looking slowly all along the carving-knife, prepared
 to plunge it in the breast; but when she did, and when the
 long expected gush of stuffing issued forth, one murmur of
-delight arose all round the board, and even [[Tiny Tim]],
+delight arose all round the board, and even [[characters/tiny-tim|Tiny Tim]],
 excited by the two young Cratchits, beat on the table with
 the handle of his knife, and feebly cried Hurrah!
 
@@ -7219,7 +7219,7 @@ atom of a bone upon the dish), they hadn't ate it all at
 last! Yet every one had had enough, and the youngest
 Cratchits in particular, were steeped in sage and onion to
 the eyebrows! But now, the plates being changed by Miss
-Belinda, Mrs. Cratchit left the room [[Alone|alone]]--too nervous to
+Belinda, Mrs. Cratchit left the room alone--too nervous to
 bear witnesses--to take the pudding up and bring it in.
 
 Suppose it should not be done enough! Suppose it should
@@ -7231,7 +7231,7 @@ supposed.
 
 Hallo! A great deal of steam! The pudding was out of
 the copper. A smell like a washing-day! That was the
-cloth. A smell like an eating-[[house]] and a pastrycook's next
+cloth. A smell like an eating-house and a pastrycook's next
 door to each other, with a laundress's next door to that!
 That was the pudding! In half a minute Mrs. Cratchit
 entered--flushed, but smiling proudly--with the pudding,
@@ -7239,9 +7239,9 @@ like a speckled cannon-ball, so hard and firm, blazing in half
 of half-a-quartern of ignited brandy, and bedight with
 Christmas holly stuck into the top.
 
-Oh, a wonderful pudding! [[Bob Cratchit]] said, and calmly
-too, that he regarded it as the greatest [[success]] achieved by
-Mrs. Cratchit since their [[Marriage|marriage]]. Mrs. Cratchit said that
+Oh, a wonderful pudding! [[characters/bob-cratchit|Bob Cratchit]] said, and calmly
+too, that he regarded it as the greatest success achieved by
+Mrs. Cratchit since their [[motifs/marriage|marriage]]. Mrs. Cratchit said that
 now the weight was off her mind, she would confess she had
 had her doubts about the quantity of flour. Everybody had
 something to say about it, but nobody said or thought it
@@ -7250,59 +7250,59 @@ been flat heresy to do so. Any Cratchit would have blushed
 to hint at such a thing.
 
 At last the dinner was all done, the cloth was cleared, the
-hearth swept, and the [[Fire|fire]] made up. The compound in the
+hearth swept, and the [[motifs/fire|fire]] made up. The compound in the
 jug being tasted, and considered perfect, apples and oranges
 were put upon the table, and a shovel-full of chestnuts on the
-[[Fire|fire]]. Then all the Cratchit family drew round the hearth, in
-what [[Bob Cratchit]] called a circle, meaning half a one; and
-at [[Bob Cratchit]]'s elbow stood the family display of glass.
+[[motifs/fire|fire]]. Then all the Cratchit family drew round the hearth, in
+what [[characters/bob-cratchit|Bob Cratchit]] called a circle, meaning half a one; and
+at [[characters/bob-cratchit|Bob Cratchit]]'s elbow stood the family display of glass.
 Two tumblers, and a custard-cup without a handle.
 
-These held the hot stuff from the jug, however, as [[Well|well]] as
+These held the hot stuff from the jug, however, as [[motifs/well|well]] as
 golden goblets would have done; and Bob served it out with
-beaming looks, while the chestnuts on the [[Fire|fire]] sputtered and
+beaming looks, while the chestnuts on the [[motifs/fire|fire]] sputtered and
 cracked noisily. Then Bob proposed:
 
 "A Merry Christmas to us all, my dears. God bless us!"
 
 Which all the family re-echoed.
 
-"God bless us every one!" said [[Tiny Tim]], the last of all.
+"God bless us every one!" said [[characters/tiny-tim|Tiny Tim]], the last of all.
 
 He sat very close to his father's side upon his little
 stool. Bob held his withered little hand in his, as if he
-loved the [[Child|child]], and wished to keep him by his side, and
+loved the [[archetypes/child|child]], and wished to keep him by his side, and
 dreaded that he might be taken from him.
 
 "Spirit," said Scrooge, with an interest he had never felt
-before, "tell me if [[Tiny Tim]] will live."
+before, "tell me if [[characters/tiny-tim|Tiny Tim]] will live."
 
-"I see a vacant seat," replied the [[Ghost]], "in the poor
+"I see a vacant seat," replied the [[archetypes/ghost|Ghost]], "in the poor
 chimney-corner, and a crutch without an owner, carefully
 preserved. If these shadows remain unaltered by the Future,
-the [[Child|child]] will die."
+the [[archetypes/child|child]] will die."
 
 "No, no," said Scrooge. "Oh, no, kind Spirit! say he
 will be spared."
 
 "If these shadows remain unaltered by the Future, none
-other of my race," returned the [[Ghost]], "will find him here.
+other of my race," returned the [[archetypes/ghost|Ghost]], "will find him here.
 What then? If he be like to die, he had better do it, and
 decrease the surplus population."
 
 Scrooge hung his head to hear his own words quoted by
 the Spirit, and was overcome with penitence and grief.
 
-"Man," said the [[Ghost]], "if man you be in heart, not
+"Man," said the [[archetypes/ghost|Ghost]], "if man you be in heart, not
 adamant, forbear that wicked cant until you have discovered
 What the surplus is, and Where it is. Will you decide what
 men shall live, what men shall die? It may be, that in the
 sight of Heaven, you are more worthless and less fit to live
-than millions like this poor man's [[Child|child]]. Oh God! to hear
+than millions like this poor man's [[archetypes/child|child]]. Oh God! to hear
 the Insect on the leaf pronouncing on the too much life
-among his hungry brothers in the [[Dust|dust]]!"
+among his hungry brothers in the [[motifs/dust|dust]]!"
 
-Scrooge bent before the [[Ghost]]'s rebuke, and trembling cast
+Scrooge bent before the [[archetypes/ghost|Ghost]]'s rebuke, and trembling cast
 his eyes upon the ground. But he raised them speedily, on
 hearing his own name.
 
@@ -7311,7 +7311,7 @@ Founder of the Feast!"
 
 "The Founder of the Feast indeed!" cried Mrs. Cratchit,
 reddening. "I wish I had him here. I'd give him a piece
-of my mind to feast upon, and I [[Hope|hope]] he'd have a good
+of my mind to feast upon, and I [[concepts/hope|hope]] he'd have a good
 appetite for it."
 
 "My dear," said Bob, "the children! Christmas Day."
@@ -7324,16 +7324,16 @@ Nobody knows it better than you do, poor fellow!"
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ne seguì un tale trambusto che avreste potuto pensare che l'oca fosse il più raro di tutti gli [[Birds|uccelli]]; un fenomeno piumato, a cui un cigno nero sarebbe stato una cosa normale -- e in [[Truth|verità]] era qualcosa di molto simile in quella [[house|casa]]. La signora Cratchit preparò il sugo (pronto in anticipo in una piccola pentola) bollente; il piccolo Peter schiacciò le patate con incredibile vigore; la signorina Belinda addolcì la salsa di mele; Martha spolverò i piatti caldi; Bob prese [[Tiny Tim]] accanto a sé in un angolo minuscolo del tavolo; i due giovani Cratchit sistemarono sedie per tutti, senza dimenticare se stessi, e montando la guardia sui loro posti, si infilarono cucchiai in bocca, affinché non gridassero per l'oca prima che venisse il loro turno di essere serviti. Alla fine i piatti furono messi in tavola e fu detta la preghiera. Fu seguita da una pausa senza fiato, mentre la signora Cratchit, guardando lentamente lungo tutto il coltello da taglio, si preparava a piantarlo nel petto; ma quando lo fece, e quando il tanto atteso flusso di ripieno fuoriuscì, un mormorio di delizia sorse tutt'intorno al tavolo, e persino [[Tiny Tim]], eccitato dai due giovani Cratchit, batté sul tavolo con l'impugnatura del suo coltello e gridò debolmente Evviva!
+Ne seguì un tale trambusto che avreste potuto pensare che l'oca fosse il più raro di tutti gli [[motifs/birds|uccelli]]; un fenomeno piumato, a cui un cigno nero sarebbe stato una cosa normale -- e in [[concepts/truth|verità]] era qualcosa di molto simile in quella casa. La signora Cratchit preparò il sugo (pronto in anticipo in una piccola pentola) bollente; il piccolo Peter schiacciò le patate con incredibile vigore; la signorina Belinda addolcì la salsa di mele; Martha spolverò i piatti caldi; Bob prese [[characters/tiny-tim|Tiny Tim]] accanto a sé in un angolo minuscolo del tavolo; i due giovani Cratchit sistemarono sedie per tutti, senza dimenticare se stessi, e montando la guardia sui loro posti, si infilarono cucchiai in bocca, affinché non gridassero per l'oca prima che venisse il loro turno di essere serviti. Alla fine i piatti furono messi in tavola e fu detta la preghiera. Fu seguita da una pausa senza fiato, mentre la signora Cratchit, guardando lentamente lungo tutto il coltello da taglio, si preparava a piantarlo nel petto; ma quando lo fece, e quando il tanto atteso flusso di ripieno fuoriuscì, un mormorio di delizia sorse tutt'intorno al tavolo, e persino [[characters/tiny-tim|Tiny Tim]], eccitato dai due giovani Cratchit, batté sul tavolo con l'impugnatura del suo coltello e gridò debolmente Evviva!
 
-Non c'era mai stato un'oca del genere. Bob disse che non credeva ci fosse mai stata un'oca così cucinata. La sua tenerezza e il suo sapore, le dimensioni e l'economicità erano oggetto di ammirazione universale. Arricchito con salsa di mele e purè di patate, era un pasto sufficiente per tutta la famiglia; anzi, come disse la signora Cratchit con grande piacere (osservando un piccolissimo pezzo d'osso nel piatto), non l'avevano finita del tutto! Eppure tutti avevano mangiato abbastanza e i più giovani dei Cratchit in particolare, erano immersi fino alle sopracciglia nell'impasto di salvia e cipolla! Ma ora che le piatti erano stati cambiati da Miss Belinda, la signora Cratchit lasciò la stanza [[Alone|da sola]] - troppo nervosa per sopportare testimoni - per prendere il pudding e portarlo dentro.
+Non c'era mai stato un'oca del genere. Bob disse che non credeva ci fosse mai stata un'oca così cucinata. La sua tenerezza e il suo sapore, le dimensioni e l'economicità erano oggetto di ammirazione universale. Arricchito con salsa di mele e purè di patate, era un pasto sufficiente per tutta la famiglia; anzi, come disse la signora Cratchit con grande piacere (osservando un piccolissimo pezzo d'osso nel piatto), non l'avevano finita del tutto! Eppure tutti avevano mangiato abbastanza e i più giovani dei Cratchit in particolare, erano immersi fino alle sopracciglia nell'impasto di salvia e cipolla! Ma ora che le piatti erano stati cambiati da Miss Belinda, la signora Cratchit lasciò la stanza da sola - troppo nervosa per sopportare testimoni - per prendere il pudding e portarlo dentro.
 
 Supponiamo che non sia stato fatto abbastanza! Supponiamo che si rompa nel momento in cui lo tirano fuori! Supponiamo che qualcuno sia riuscito a scavalcare il muro del cortile sul retro e l'abbia rubato, mentre loro erano intenti a divertirsi con l'oca - un'ipotesi alla quale i due giovani Cratchit divennero pallidi! Si ipotizzarono tutti i tipi di orrori.
 
-Eccoci! Un sacco di vapore! Il pudding era fuori dalla pentola. Un odore come il giorno del bucato! Quello era il panno. Un odore come una [[house|trattoria]] e un pasticciere l'uno accanto all'altra, con la lavandaia che abita proprio di fianco! Questo era il pudding! In mezzo minuto entrò la signora Cratchit - arrossata ma sorridente orgogliosamente - col pudding, come una palla da cannone maculata, così dura e compatta, fiammeggiante in metà di un quarto di brandy acceso, e adornato con agrifoglio natalizio conficcato sulla cima.
+Eccoci! Un sacco di vapore! Il pudding era fuori dalla pentola. Un odore come il giorno del bucato! Quello era il panno. Un odore come una trattoria e un pasticciere l'uno accanto all'altra, con la lavandaia che abita proprio di fianco! Questo era il pudding! In mezzo minuto entrò la signora Cratchit - arrossata ma sorridente orgogliosamente - col pudding, come una palla da cannone maculata, così dura e compatta, fiammeggiante in metà di un quarto di brandy acceso, e adornato con agrifoglio natalizio conficcato sulla cima.
 
-Oh, un budino meraviglioso! disse [[Bob Cratchit]], e con calma,
-che lo considerava il più grande [[success|successo]] ottenuto dalla
+Oh, un budino meraviglioso! disse [[characters/bob-cratchit|Bob Cratchit]], e con calma,
+che lo considerava il più grande successo ottenuto dalla
 signora Cratchit da quando erano sposati. La signora Cratchit disse che
 ora che il peso le era scivolato via di mente, avrebbe confessato di aver
 avuto dei dubbi sulla quantità di farina. Tutti avevano
@@ -7342,44 +7342,44 @@ fosse un budino piccolo per una famiglia numerosa. Sarebbe stato
 un'eresia dichiararlo tale. Qualsiasi Cratchit si sarebbe arrossito
 di accennare a una cosa del genere.
 
-Finalmente la cena fu terminata, la tovaglia tolta, il focolare spazzato e il [[Fire|fuoco]] ravvivato. Dopo aver assaggiato la miscela nella brocca e giudicatala perfetta, si posero sulla tavola mele e arance e una paletta di castagne sul [[Fire|fuoco]]. Poi tutta la famiglia Cratchit si riunì intorno al focolare, in quello che [[Bob Cratchit]] chiamava un cerchio, intendendo metà di uno; e all'altezza del gomito di [[Bob Cratchit]] era esposto l'intero servizio di cristalleria della famiglia. Due bicchieri e una coppa per la crema pasticcera senza manico.
+Finalmente la cena fu terminata, la tovaglia tolta, il focolare spazzato e il [[motifs/fire|fuoco]] ravvivato. Dopo aver assaggiato la miscela nella brocca e giudicatala perfetta, si posero sulla tavola mele e arance e una paletta di castagne sul [[motifs/fire|fuoco]]. Poi tutta la famiglia Cratchit si riunì intorno al focolare, in quello che [[characters/bob-cratchit|Bob Cratchit]] chiamava un cerchio, intendendo metà di uno; e all'altezza del gomito di [[characters/bob-cratchit|Bob Cratchit]] era esposto l'intero servizio di cristalleria della famiglia. Due bicchieri e una coppa per la crema pasticcera senza manico.
 
-Questi contenevano la bevanda calda dalla brocca, però, come avrebbero fatto dei calici d'oro; e Bob lo servì con un'espressione raggiante, mentre le castagne sul [[Fire|fuoco]] crepitavano rumorosamente. Poi Bob propose:
+Questi contenevano la bevanda calda dalla brocca, però, come avrebbero fatto dei calici d'oro; e Bob lo servì con un'espressione raggiante, mentre le castagne sul [[motifs/fire|fuoco]] crepitavano rumorosamente. Poi Bob propose:
 
 "Un Buon Natale per tutti noi, miei cari. Dio ci benedica!"
 
 E tutto il resto della famiglia fece eco a queste parole.
 
-"Dio ci benedica tutti quanti!", disse [[Tiny Tim|Timmy Piccolo]], l'ultimo di tutti.
+"Dio ci benedica tutti quanti!", disse [[characters/tiny-tim|Timmy Piccolo]], l'ultimo di tutti.
 
 Egli sedeva molto vicino al padre sulla sua piccola
-seggiolina. Bob teneva la sua manina avvizzita nella propria, come se amasse il [[Child|bambino]] e desiderasse tenerlo accanto a sé, temendo che gli venisse tolto.
+seggiolina. Bob teneva la sua manina avvizzita nella propria, come se amasse il [[archetypes/child|bambino]] e desiderasse tenerlo accanto a sé, temendo che gli venisse tolto.
 
-"Spettro", disse Scrooge con un interesse che non aveva mai provato prima, "dimmi se [[Tiny Tim|Timmy]] vivrà".
+"Spettro", disse Scrooge con un interesse che non aveva mai provato prima, "dimmi se [[characters/tiny-tim|Timmy]] vivrà".
 
-"Vedo una sedia vuota", rispose lo [[Ghost|spettro]], "nell'angolo del caminetto di quel povero posto, e un bastone senza proprietario, accuratamente conservato. Se queste ombre non cambieranno nel Futuro, il [[Child|bambino]] morirà."
+"Vedo una sedia vuota", rispose lo [[archetypes/ghost|spettro]], "nell'angolo del caminetto di quel povero posto, e un bastone senza proprietario, accuratamente conservato. Se queste ombre non cambieranno nel Futuro, il [[archetypes/child|bambino]] morirà."
 
 «No, no», disse Scrooge. «Oh, no, buono Spirito! dite che verrà risparmiato».
 
-"Se queste ombre non cambieranno in futuro, nessun altro della mia razza", rispose lo [[Ghost|Spirito]], "lo troverà qui. E allora? Se è destinato a morire, tanto vale che lo faccia e riduca la popolazione superflua."
+"Se queste ombre non cambieranno in futuro, nessun altro della mia razza", rispose lo [[archetypes/ghost|Spirito]], "lo troverà qui. E allora? Se è destinato a morire, tanto vale che lo faccia e riduca la popolazione superflua."
 
 Scrooge chinò il capo nel sentire le sue stesse parole citate dallo Spirito e fu sopraffatto da pentimento e dolore.
 
-«Uomo», disse lo [[Ghost|Spirito]], «se uomo sei nel cuore, non di pietra,
+«Uomo», disse lo [[archetypes/ghost|Spirito]], «se uomo sei nel cuore, non di pietra,
 astieniti da questo linguaggio empio finché non avrai scoperto
 qual è l'eccedenza e dove si trova. Deciderai tu quale
 uomo debba vivere e quale morire? Può darsi che agli occhi del Cielo, tu sia più indegno e meno adatto a vivere
-di milioni di persone come questo [[Child|bambino]] povero. Oh Dio! sentire
+di milioni di persone come questo [[archetypes/child|bambino]] povero. Oh Dio! sentire
 l'Insetto sulla foglia pronunciare il suo giudizio sull'eccesso di vita
-tra i suoi fratelli affamati nella [[Dust|polvere]]!»
+tra i suoi fratelli affamati nella [[motifs/dust|polvere]]!»
 
-Scrooge si chinò davanti alla rimproverata del [[Ghost|Spirito]], e tremando volse gli occhi a terra. Ma li alzò rapidamente sentendo il proprio nome.
+Scrooge si chinò davanti alla rimproverata del [[archetypes/ghost|Spirito]], e tremando volse gli occhi a terra. Ma li alzò rapidamente sentendo il proprio nome.
 
 «Signor Scrooge!» disse Bob «Lei è il Signor Scrooge,
 il Fondatore della Festa!»
 
 "La Fondatrice della Festa davvero!" esclamò la signora Cratchit,
-arrossendo. "Vorrei che fosse qui. Gli darei un pezzo del mio pensiero da festeggiare, e [[Hope|spero]] che ne avesse un buon appetito."
+arrossendo. "Vorrei che fosse qui. Gli darei un pezzo del mio pensiero da festeggiare, e [[concepts/hope|spero]] che ne avesse un buon appetito."
 
 «Mia cara», disse Bob, «i bambini! Il giorno di Natale».
 
@@ -7395,22 +7395,22 @@ arrossendo. "Vorrei che fosse qui. Gli darei un pezzo del mio pensiero da festeg
 "I'll drink his health for your sake and the Day's," said
 Mrs. Cratchit, "not for his. Long life to him! A merry
 Christmas and a happy new year! He'll be very merry and
-very happy, I have no [[Doubt|doubt]]!"
+very happy, I have no [[concepts/doubt|doubt]]!"
 
 The children drank the toast after her. It was the first of
-their proceedings which had no heartiness. [[Tiny Tim]] drank
+their proceedings which had no heartiness. [[characters/tiny-tim|Tiny Tim]] drank
 it last of all, but he didn't care twopence for it. Scrooge
 was the Ogre of the family. The mention of his name cast
-a dark [[Shadow|shadow]] on the party, which was not dispelled for full
+a dark [[archetypes/shadow|shadow]] on the party, which was not dispelled for full
 five minutes.
 
 After it had passed away, they were ten times merrier than
 before, from the mere relief of Scrooge the Baleful being done
-with. [[Bob Cratchit]] told them how he had a situation in his
+with. [[characters/bob-cratchit|Bob Cratchit]] told them how he had a situation in his
 eye for Master Peter, which would bring in, if obtained, full
 five-and-sixpence weekly. The two young Cratchits laughed
 tremendously at the idea of Peter's being a man of business;
-and Peter himself looked thoughtfully at the [[Fire|fire]] from
+and Peter himself looked thoughtfully at the [[motifs/fire|fire]] from
 between his collars, as if he were deliberating what particular
 investments he should favour when he came into the receipt
 of that bewildering income. Martha, who was a poor
@@ -7418,47 +7418,47 @@ apprentice at a milliner's, then told them what kind of work
 she had to do, and how many hours she worked at a stretch,
 and how she meant to lie abed to-morrow morning for a
 good long rest; to-morrow being a holiday she passed at
-[[Home|home]]. Also how she had seen a countess and a lord some
+[[motifs/home|home]]. Also how she had seen a countess and a lord some
 days before, and how the lord "was much about as tall as
 Peter;" at which Peter pulled up his collars so high that you
 couldn't have seen his head if you had been there. All this
-[[Time|time]] the chestnuts and the jug went round and round; and
-by-and-bye they had a [[Song|song]], about a lost [[Child|child]] travelling in
-the [[Snow|snow]], from [[Tiny Tim]], who had a plaintive little voice,
-and sang it very [[Well|well]] indeed.
+[[motifs/time|time]] the chestnuts and the jug went round and round; and
+by-and-bye they had a song, about a lost [[archetypes/child|child]] travelling in
+the [[motifs/snow|snow]], from [[characters/tiny-tim|Tiny Tim]], who had a plaintive little voice,
+and sang it very [[motifs/well|well]] indeed.
 
 There was nothing of high mark in this. They were not
-a handsome family; they were not [[Well|well]] dressed; their shoes
-were far from being [[Water|water]]-proof; their clothes were scanty;
+a handsome family; they were not [[motifs/well|well]] dressed; their shoes
+were far from being [[motifs/water|water]]-proof; their clothes were scanty;
 and Peter might have known, and very likely did, the inside
 of a pawnbroker's. But, they were happy, grateful, pleased
-with one another, and contented with the [[Time|time]]; and when
+with one another, and contented with the [[motifs/time|time]]; and when
 they faded, and looked happier yet in the bright sprinklings
 of the Spirit's torch at parting, Scrooge had his eye upon
-them, and especially on [[Tiny Tim]], until the last.
+them, and especially on [[characters/tiny-tim|Tiny Tim]], until the last.
 
-By this [[Time|time]] it was getting dark, and snowing pretty
+By this [[motifs/time|time]] it was getting dark, and snowing pretty
 heavily; and as Scrooge and the Spirit went along the streets,
 the brightness of the roaring fires in kitchens, parlours, and
 all sorts of rooms, was wonderful. Here, the flickering of
 the blaze showed preparations for a cosy dinner, with hot
-plates baking through and through before the [[Fire|fire]], and deep
+plates baking through and through before the [[motifs/fire|fire]], and deep
 red curtains, ready to be drawn to shut out cold and darkness.
-There all the children of the [[house]] were running out
-into the [[Snow|snow]] to meet their married sisters, brothers, cousins,
+There all the children of the house were running out
+into the [[motifs/snow|snow]] to meet their married sisters, brothers, cousins,
 uncles, aunts, and be the first to greet them. Here, again,
-were shadows on the [[Window|window]]-blind of guests assembling; and
+were shadows on the [[motifs/window|window]]-blind of guests assembling; and
 there a group of handsome girls, all hooded and fur-booted,
 and all chattering at once, tripped lightly off to some near
-neighbour's [[house]]; where, woe upon the single man who saw
-them enter--artful witches, [[Well|well]] they knew it--in a glow!
+neighbour's house; where, woe upon the single man who saw
+them enter--artful witches, [[motifs/well|well]] they knew it--in a glow!
 
 But, if you had judged from the numbers of people on
 their way to friendly gatherings, you might have thought
-that no one was at [[Home|home]] to give them welcome when they
-got there, instead of every [[house]] expecting company, and
+that no one was at [[motifs/home|home]] to give them welcome when they
+got there, instead of every house expecting company, and
 piling up its fires half-chimney high. Blessings on it, how
-the [[Ghost]] exulted! How it bared its breadth of breast, and
+the [[archetypes/ghost|Ghost]] exulted! How it bared its breadth of breast, and
 opened its capacious palm, and floated on, outpouring, with
 a generous hand, its bright and harmless mirth on everything
 within its reach! The very lamplighter, who ran on before,
@@ -7467,32 +7467,32 @@ dressed to spend the evening somewhere, laughed out loudly
 as the Spirit passed, though little kenned the lamplighter
 that he had any company but Christmas!
 
-And now, without a word of warning from the [[Ghost]], they
-stood upon a bleak and [[Desert|desert]] moor, where monstrous masses
+And now, without a word of warning from the [[archetypes/ghost|Ghost]], they
+stood upon a bleak and [[motifs/desert|desert]] moor, where monstrous masses
 of rude stone were cast about, as though it were the burial-place
-of giants; and [[Water|water]] spread itself wheresoever it listed,
-or would have done so, but for the [[Frost|frost]] that held it prisoner;
+of giants; and [[motifs/water|water]] spread itself wheresoever it listed,
+or would have done so, but for the [[motifs/frost|frost]] that held it prisoner;
 and nothing grew but moss and furze, and coarse rank grass.
 Down in the west the setting sun had left a streak of fiery
 red, which glared upon the desolation for an instant, like a
 sullen eye, and frowning lower, lower, lower yet, was lost in
-the thick gloom of darkest [[Night|night]].
+the thick gloom of darkest [[motifs/night|night]].
 
 "What place is this?" asked Scrooge.
 
 "A place where Miners live, who labour in the bowels of
 the earth," returned the Spirit. "But they know me. See!"
 
-A light shone from the [[Window|window]] of a hut, and swiftly they
+A light shone from the [[motifs/window|window]] of a hut, and swiftly they
 advanced towards it. Passing through the wall of mud and
 stone, they found a cheerful company assembled round a
-glowing [[Fire|fire]]. An old, old man and woman, with their
+glowing [[motifs/fire|fire]]. An old, old man and woman, with their
 children and their children's children, and another generation
 beyond that, all decked out gaily in their holiday attire.
-The old man, in a voice that seldom [[Rose|rose]] above the howling
-of the [[Wind|wind]] upon the barren waste, was singing them a
-Christmas [[Song|song]]--it had been a very old [[Song|song]] when he was a
-boy--and from [[Time|time]] to [[Time|time]] they all joined in the [[Chorus|chorus]].
+The old man, in a voice that seldom [[motifs/rose|rose]] above the howling
+of the [[motifs/wind|wind]] upon the barren waste, was singing them a
+Christmas song--it had been a very old song when he was a
+boy--and from [[motifs/time|time]] to [[motifs/time|time]] they all joined in the [[characters/chorus|chorus]].
 So surely as they raised their voices, the old man got quite
 blithe and loud; and so surely as they stopped, his vigour
 sank again.
@@ -7501,7 +7501,7 @@ The Spirit did not tarry here, but bade Scrooge hold his
 robe, and passing on above the moor, sped--whither? Not
 to sea? To sea. To Scrooge's horror, looking back, he saw
 the last of the land, a frightful range of rocks, behind them;
-and his ears were deafened by the thundering of [[Water|water]], as it
+and his ears were deafened by the thundering of [[motifs/water|water]], as it
 rolled and roared, and raged among the dreadful caverns it
 had worn, and fiercely tried to undermine the earth.
 
@@ -7510,17 +7510,17 @@ had worn, and fiercely tried to undermine the earth.
 
 «Mia cara», fu la mite risposta di Bob, «è il giorno di Natale».
 
-"Bevo alla sua salute per il tuo bene e per la festività," disse la signora Cratchit, "non certo per lui. Lunga vita a lui! Un buon Natale e un felice anno nuovo! Sarà molto allegro e molto felice, non ho [[Doubt|dubbio]]!"
+"Bevo alla sua salute per il tuo bene e per la festività," disse la signora Cratchit, "non certo per lui. Lunga vita a lui! Un buon Natale e un felice anno nuovo! Sarà molto allegro e molto felice, non ho [[concepts/doubt|dubbio]]!"
 
-I bambini brindarono dopo di lei. Fu la prima delle loro azioni che non ebbe alcuna cordialità. [[Tiny Tim|Timmy Piccolo]] lo bevve per ultimo, ma non gliene importava nulla. Scrooge era l'Ogre della famiglia. Il solo nominarlo gettò un'oscura [[Shadow|ombra]] sulla festa che non si dissipò per ben cinque minuti.
+I bambini brindarono dopo di lei. Fu la prima delle loro azioni che non ebbe alcuna cordialità. [[characters/tiny-tim|Timmy Piccolo]] lo bevve per ultimo, ma non gliene importava nulla. Scrooge era l'Ogre della famiglia. Il solo nominarlo gettò un'oscura [[archetypes/shadow|ombra]] sulla festa che non si dissipò per ben cinque minuti.
 
 Dopo che fu passata, furono dieci volte più allegri di prima,
 solo per il sollievo che Scrooge il Funesto fosse finito.
-[[Bob Cratchit]] raccontò loro come avesse in vista un posto
+[[characters/bob-cratchit|Bob Cratchit]] raccontò loro come avesse in vista un posto
 per il piccolo Peter, che se ottenuto gli avrebbe fruttato ben
 cinque scellini e sei pence alla settimana. I due giovani
 Cratchit risero moltissimo all'idea di Peter come uomo
-d'affari; e lo stesso Peter guardò pensieroso il [[Fire|fuoco]]
+d'affari; e lo stesso Peter guardò pensieroso il [[motifs/fire|fuoco]]
 da tra i suoi colletti, come se stesse valutando quali particolari
 investimenti favorire quando fosse entrato in possesso
 di quel disorientante reddito. Martha, che era una povera
@@ -7528,34 +7528,34 @@ apprendista da un modista, raccontò loro allora che tipo di
 lavoro dovesse fare e per quante ore lavorasse senza sosta,
 e come intendesse rimanere a letto la mattina seguente per
 un bel lungo riposo; dato che il giorno dopo era una festa
-che trascorreva in [[Home|casa]]. Raccontò anche di aver visto un
+che trascorreva in [[motifs/home|casa]]. Raccontò anche di aver visto un
 conte e un lord alcuni giorni prima, e come il lord "era più o
 meno alto quanto Peter"; a questo punto Peter tirò su i suoi
 colletti così tanto che non si sarebbe potuto vedere la sua
-testa se ci foste stati. Tutto questo [[Time|tempo]] le castagne e la
+testa se ci foste stati. Tutto questo [[motifs/time|tempo]] le castagne e la
 brocca girarono e rigirarono; e dopo un po' ebbero una
-[[Song|canzone]], su un bambino perduto che viaggiava nella
-[[Snow|neve]], da parte di [[Tiny Tim]], che aveva una vocina lagnosa,
-e la cantò molto [[Well|bene]] davvero.
+canzone, su un bambino perduto che viaggiava nella
+[[motifs/snow|neve]], da parte di [[characters/tiny-tim|Tiny Tim]], che aveva una vocina lagnosa,
+e la cantò molto [[motifs/well|bene]] davvero.
 
-Non c'era nulla di eccezionale in tutto ciò. Non erano una famiglia bella; non erano vestiti con eleganza; le loro scarpe erano ben lontane dall'essere impermeabili; i loro abiti erano scarsi; e Peter poteva aver conosciuto, e molto probabilmente aveva conosciuto, l'interno di un banco dei pegni. Ma erano felici, grati, contenti gli uni degli altri e soddisfatti del [[Time|tempo]]; e quando svanirono, e sembrarono ancora più felici nelle luminose spruzzate della torcia dello Spirito al momento di salutarsi, Scrooge li teneva d'occhio, e in particolare [[Tiny Tim|Timmy il Piccolo]], fino all'ultimo.
+Non c'era nulla di eccezionale in tutto ciò. Non erano una famiglia bella; non erano vestiti con eleganza; le loro scarpe erano ben lontane dall'essere impermeabili; i loro abiti erano scarsi; e Peter poteva aver conosciuto, e molto probabilmente aveva conosciuto, l'interno di un banco dei pegni. Ma erano felici, grati, contenti gli uni degli altri e soddisfatti del [[motifs/time|tempo]]; e quando svanirono, e sembrarono ancora più felici nelle luminose spruzzate della torcia dello Spirito al momento di salutarsi, Scrooge li teneva d'occhio, e in particolare [[characters/tiny-tim|Timmy il Piccolo]], fino all'ultimo.
 
-A quell'[[Time|ora]] stava facendo buio e nevicava parecchio; mentre Scrooge e lo Spirito percorrevano le strade, la luminosità dei fuochi crepitanti nelle cucine, nei salotti e in ogni tipo di stanza era meravigliosa. Qui, il tremolio delle fiamme mostrava i preparativi per una cena accogliente, con piatti caldi che si riscaldavano completamente davanti al [[Fire|fuoco]], e tende rosso scuro pronte ad essere tirate per escludere freddo e oscurità. Là tutti i bambini della [[house|casa]] correvano fuori nella [[Snow|neve]] per incontrare le loro sorelle sposate, fratelli, cugini, zii e zie ed essere i primi a salutarli. Qui di nuovo si vedevano le ombre degli ospiti che si radunavano sullo [[Window|scuro]] delle finestre; e là un gruppo di belle ragazze, tutte con cappucci e stivali di pelliccia, chiacchierando tutte insieme, saltellavano leggere verso la [[house|casa]] di qualche vicino; dove guai all'uomo single che le vedeva entrare -- streghe abili, lo sapevano bene -- in un bagliore!
+A quell'[[motifs/time|ora]] stava facendo buio e nevicava parecchio; mentre Scrooge e lo Spirito percorrevano le strade, la luminosità dei fuochi crepitanti nelle cucine, nei salotti e in ogni tipo di stanza era meravigliosa. Qui, il tremolio delle fiamme mostrava i preparativi per una cena accogliente, con piatti caldi che si riscaldavano completamente davanti al [[motifs/fire|fuoco]], e tende rosso scuro pronte ad essere tirate per escludere freddo e oscurità. Là tutti i bambini della casa correvano fuori nella [[motifs/snow|neve]] per incontrare le loro sorelle sposate, fratelli, cugini, zii e zie ed essere i primi a salutarli. Qui di nuovo si vedevano le ombre degli ospiti che si radunavano sullo [[motifs/window|scuro]] delle finestre; e là un gruppo di belle ragazze, tutte con cappucci e stivali di pelliccia, chiacchierando tutte insieme, saltellavano leggere verso la casa di qualche vicino; dove guai all'uomo single che le vedeva entrare -- streghe abili, lo sapevano bene -- in un bagliore!
 
-Ma se aveste giudicato dal numero di persone in viaggio verso raduni amichevoli, avreste potuto pensare che nessuno fosse [[Home|a casa]] per accoglierli al loro arrivo, invece di ogni [[house|casa]] che aspettava compagnia e accumulava i fuochi fino a metà camino. Benedizioni su di esso, come l'[[Ghost|Spirito]] esultò! Come si scoprì la sua ampiezza di petto e aprì il suo capiente palmo, e galleggiò, riversando con una mano generosa la sua luminosa e innocua allegria su tutto ciò che era a portata di mano! Anche lo stesso accenditore di lampioni, che correva davanti, punteggiando la strada oscura con macchie di luce, e che si era vestito per trascorrere la serata da qualche parte, rise forte quando lo Spirito passò, sebbene poco sapesse l'accenditore di lampioni che aveva compagnia oltre il Natale!
+Ma se aveste giudicato dal numero di persone in viaggio verso raduni amichevoli, avreste potuto pensare che nessuno fosse [[motifs/home|a casa]] per accoglierli al loro arrivo, invece di ogni casa che aspettava compagnia e accumulava i fuochi fino a metà camino. Benedizioni su di esso, come l'[[archetypes/ghost|Spirito]] esultò! Come si scoprì la sua ampiezza di petto e aprì il suo capiente palmo, e galleggiò, riversando con una mano generosa la sua luminosa e innocua allegria su tutto ciò che era a portata di mano! Anche lo stesso accenditore di lampioni, che correva davanti, punteggiando la strada oscura con macchie di luce, e che si era vestito per trascorrere la serata da qualche parte, rise forte quando lo Spirito passò, sebbene poco sapesse l'accenditore di lampioni che aveva compagnia oltre il Natale!
 
-E ora, senza alcun preavviso da parte dello [[Ghost|Spirito]], si trovarono su di una brughiera desolata e [[Desert|deserta]], dove enormi masse di pietra grezza erano sparse dappertutto, come se fosse il luogo di sepoltura dei giganti; e l'[[Water|acqua]] si estendeva ovunque le piacesse, o avrebbe fatto così, se non fosse stato per la [[Frost|gelida]] che la teneva prigioniera; e nulla cresceva tranne muschio ed erica, e grossa erba selvatica.
-Nel cielo occidentale il sole al tramonto aveva lasciato una striscia di rosso infuocato, che per un istante illuminò la desolazione come un occhio torvo, e aggrottando sempre più basso, ancora più basso, si perse nell'oscurità fitta della notte più [[Night|buia]].
+E ora, senza alcun preavviso da parte dello [[archetypes/ghost|Spirito]], si trovarono su di una brughiera desolata e [[motifs/desert|deserta]], dove enormi masse di pietra grezza erano sparse dappertutto, come se fosse il luogo di sepoltura dei giganti; e l'[[motifs/water|acqua]] si estendeva ovunque le piacesse, o avrebbe fatto così, se non fosse stato per la [[motifs/frost|gelida]] che la teneva prigioniera; e nulla cresceva tranne muschio ed erica, e grossa erba selvatica.
+Nel cielo occidentale il sole al tramonto aveva lasciato una striscia di rosso infuocato, che per un istante illuminò la desolazione come un occhio torvo, e aggrottando sempre più basso, ancora più basso, si perse nell'oscurità fitta della notte più [[motifs/night|buia]].
 
 «Che posto è questo?» chiese Scrooge.
 
 «Un luogo dove vivono i minatori che lavorano nelle viscere della terra», rispose lo Spirito. «Ma mi conoscono. Guarda!»
 
-Una luce brillava dalla [[Window|finestra]] di una capanna e loro si avvicinarono rapidamente.
-Attraversando la parete di fango e pietra, trovarono un allegro gruppo riunito attorno a un luminoso [[Fire|fuoco]]. Un vecchio uomo e una donna molto anziani con i loro figli e i nipoti, e un'altra generazione oltre quella, tutti vestiti allegramente per la festività.
-Il vecchio cantava con una voce che raramente si alzava sopra il ululato del [[Wind|vento]] sulla desolata landa. Era un canto di Natale -- era già un canto molto antico quando lui era ragazzo -- e ogni tanto tutti si univano nel [[Chorus|coro]]. Non appena alzavano le voci, il vecchio diventava allegro e sonoro; e non appena smettevano, la sua energia calava di nuovo.
+Una luce brillava dalla [[motifs/window|finestra]] di una capanna e loro si avvicinarono rapidamente.
+Attraversando la parete di fango e pietra, trovarono un allegro gruppo riunito attorno a un luminoso [[motifs/fire|fuoco]]. Un vecchio uomo e una donna molto anziani con i loro figli e i nipoti, e un'altra generazione oltre quella, tutti vestiti allegramente per la festività.
+Il vecchio cantava con una voce che raramente si alzava sopra il ululato del [[motifs/wind|vento]] sulla desolata landa. Era un canto di Natale -- era già un canto molto antico quando lui era ragazzo -- e ogni tanto tutti si univano nel [[characters/chorus|coro]]. Non appena alzavano le voci, il vecchio diventava allegro e sonoro; e non appena smettevano, la sua energia calava di nuovo.
 
-Lo Spirito non si trattenne qui, ma ordinò a Scrooge di afferrare la sua veste e, passando sopra il brughiera, corse, dove? Non verso il mare? Sì, verso il mare. Con orrore, guardandosi indietro, Scrooge vide l'ultima parte della terraferma, una spaventosa catena di rocce, alle loro spalle; e le sue orecchie furono assordite dal fragore dell'[[Water|acqua]], mentre si riversava e ruggiva e infuriava tra le terribili caverne che aveva scavato, cercando con violenza di minare la terra.
+Lo Spirito non si trattenne qui, ma ordinò a Scrooge di afferrare la sua veste e, passando sopra il brughiera, corse, dove? Non verso il mare? Sì, verso il mare. Con orrore, guardandosi indietro, Scrooge vide l'ultima parte della terraferma, una spaventosa catena di rocce, alle loro spalle; e le sue orecchie furono assordite dal fragore dell'[[motifs/water|acqua]], mentre si riversava e ruggiva e infuriava tra le terribili caverne che aveva scavato, cercando con violenza di minare la terra.
 
 
 
@@ -7565,24 +7565,24 @@ Lo Spirito non si trattenne qui, ma ordinò a Scrooge di afferrare la sua veste 
 Built upon a dismal reef of sunken rocks, some league
 or so from shore, on which the waters chafed and dashed,
 the wild year through, there stood a solitary lighthouse.
-Great heaps of sea-weed clung to its base, and [[Storm|storm]]-[[Birds|birds]]
---born of the [[Wind|wind]] one might suppose, as sea-weed of the
-[[Water|water]]--[[Rose|rose]] and fell about it, like the waves they skimmed.
+Great heaps of sea-weed clung to its base, and [[motifs/storm|storm]]-[[motifs/birds|birds]]
+--born of the [[motifs/wind|wind]] one might suppose, as sea-weed of the
+[[motifs/water|water]]--[[motifs/rose|rose]] and fell about it, like the waves they skimmed.
 
 But even here, two men who watched the light had made
-a [[Fire|fire]], that through the loophole in the thick stone wall shed
+a [[motifs/fire|fire]], that through the loophole in the thick stone wall shed
 out a ray of brightness on the awful sea. Joining their
 horny hands over the rough table at which they sat, they
 wished each other Merry Christmas in their can of grog; and
 one of them: the elder, too, with his face all damaged and
-scarred with hard weather, as the figure-head of an old [[Ship|ship]]
-might be: struck up a sturdy [[Song|song]] that was like a Gale in
+scarred with hard weather, as the figure-head of an old [[motifs/ship|ship]]
+might be: struck up a sturdy song that was like a Gale in
 itself.
 
-Again the [[Ghost]] sped on, above the black and heaving sea
+Again the [[archetypes/ghost|Ghost]] sped on, above the black and heaving sea
 --on, on--until, being far away, as he told Scrooge, from any
-shore, they lighted on a [[Ship|ship]]. They stood beside the helmsman
-at the [[Wheel|wheel]], the look-out in the bow, the officers who
+shore, they lighted on a [[motifs/ship|ship]]. They stood beside the helmsman
+at the [[motifs/wheel|wheel]], the look-out in the bow, the officers who
 had the watch; dark, ghostly figures in their several stations;
 but every man among them hummed a Christmas tune, or
 had a Christmas thought, or spoke below his breath to his
@@ -7595,9 +7595,9 @@ he cared for at a distance, and had known that they delighted
 to remember him.
 
 It was a great surprise to Scrooge, while listening to the
-moaning of the [[Wind|wind]], and thinking what a solemn thing it
+moaning of the [[motifs/wind|wind]], and thinking what a solemn thing it
 was to move on through the lonely darkness over an unknown
-abyss, whose depths were [[Secrets|secrets]] as profound as [[Death]]: it
+abyss, whose depths were [[motifs/secrets|secrets]] as profound as [[motifs/death|Death]]: it
 was a great surprise to Scrooge, while thus engaged, to hear
 a hearty laugh. It was a much greater surprise to Scrooge
 to recognise it as his own nephew's and to find himself in a
@@ -7615,9 +7615,9 @@ and I'll cultivate his acquaintance.
 It is a fair, even-handed, noble adjustment of things, that
 while there is infection in disease and sorrow, there is nothing
 in the world so irresistibly contagious as laughter and
-good-[[Humour|humour]]. When Scrooge's nephew laughed in this way: holding
-his sides, [[rolling]] his head, and twisting his face into the
-most extravagant contortions: Scrooge's niece, by [[Marriage|marriage]],
+good-humour. When Scrooge's nephew laughed in this way: holding
+his sides, rolling his head, and twisting his face into the
+most extravagant contortions: Scrooge's niece, by [[motifs/marriage|marriage]],
 laughed as heartily as he. And their assembled friends being
 not a bit behindhand, roared out lustily.
 
@@ -7626,13 +7626,13 @@ not a bit behindhand, roared out lustily.
 "He said that Christmas was a humbug, as I live!" cried
 Scrooge's nephew. "He believed it too!"
 
-"More shame for him, [[Fred]]!" said Scrooge's niece,
+"More shame for him, [[characters/fred|Fred]]!" said Scrooge's niece,
 indignantly. Bless those women; they never do anything by
 halves. They are always in earnest.
 
 She was very pretty: exceedingly pretty. With a dimpled,
 surprised-looking, capital face; a ripe little mouth, that
-seemed made to be kissed--as no [[Doubt|doubt]] it was; all kinds of
+seemed made to be kissed--as no [[concepts/doubt|doubt]] it was; all kinds of
 good little dots about her chin, that melted into one another
 when she laughed; and the sunniest pair of eyes you ever
 saw in any little creature's head. Altogether she was what
@@ -7640,11 +7640,11 @@ you would have called provoking, you know; but satisfactory, too.
 Oh, perfectly satisfactory.
 
 "He's a comical old fellow," said Scrooge's nephew, "that's
-the [[Truth|truth]]: and not so pleasant as he might be. However,
+the [[concepts/truth|truth]]: and not so pleasant as he might be. However,
 his offences carry their own punishment, and I have nothing
 to say against him."
 
-"I'm sure he is very rich, [[Fred]]," hinted Scrooge's niece.
+"I'm sure he is very rich, [[characters/fred|Fred]]," hinted Scrooge's niece.
 "At least you always tell me so."
 
 "What of that, my dear!" said Scrooge's nephew. "His
@@ -7667,10 +7667,10 @@ What's the consequence? He don't lose much of a dinner."
 Scrooge's niece. Everybody else said the same, and they
 must be allowed to have been competent judges, because
 they had just had dinner; and, with the dessert upon the
-table, were clustered round the [[Fire|fire]], by lamplight.
+table, were clustered round the [[motifs/fire|fire]], by lamplight.
 
-"[[Well]]! I'm very glad to hear it," said Scrooge's nephew,
-"because I haven't great [[Faith|faith]] in these young housekeepers.
+"[[motifs/well|Well]]! I'm very glad to hear it," said Scrooge's nephew,
+"because I haven't great [[concepts/faith|faith]] in these young housekeepers.
 What do you say, Topper?"
 
 Topper had clearly got his eye upon one of Scrooge's niece's
@@ -7679,7 +7679,7 @@ who had no right to express an opinion on the subject.
 Whereat Scrooge's niece's sister--the plump one with the lace
 tucker: not the one with the roses--blushed.
 
-"Do go on, [[Fred]]," said Scrooge's niece, clapping her hands.
+"Do go on, [[characters/fred|Fred]]," said Scrooge's niece, clapping her hands.
 "He never finishes what he begins to say! He is such a
 ridiculous fellow!"
 
@@ -7705,38 +7705,38 @@ that's something; and I think I shook him yesterday."
 
 <span class="qlang-split" data-lang="it"></span>
 
-Costruito su uno squallido scoglio sommerso a una lega o giù di lì dalla costa, sul quale le acque si agitavano e si infrangevano per tutto l'anno selvaggio, sorgeva un faro solitario. Grandi cumuli di alghe si attaccavano alla sua base, e [[Storm|tempesta]]-[[Birds|uccelli]] -- nati dal [[Wind|vento]] ci si poteva supporre, come le alghe dall'[[Water|acqua]] -- [[Rose|salivano]] e scendevano intorno ad esso, come le onde che sfioravano.
+Costruito su uno squallido scoglio sommerso a una lega o giù di lì dalla costa, sul quale le acque si agitavano e si infrangevano per tutto l'anno selvaggio, sorgeva un faro solitario. Grandi cumuli di alghe si attaccavano alla sua base, e [[motifs/storm|tempesta]]-[[motifs/birds|uccelli]] -- nati dal [[motifs/wind|vento]] ci si poteva supporre, come le alghe dall'[[motifs/water|acqua]] -- [[motifs/rose|salivano]] e scendevano intorno ad esso, come le onde che sfioravano.
 
-Ma anche qui due uomini che osservavano la luce avevano acceso un [[Fire|fuoco]], che attraverso il feritoio nella spessa parete di pietra proiettava un raggio di luce sul mare terribile. Unendo le loro mani callose sopra il grezzo tavolo a cui sedevano, si augurarono Buon Natale nel loro boccale di grog; e uno dei due: anche il più anziano, con il volto segnato e cicatrizzato dalle intemperie come la prua di una vecchia [[Ship|barca]] potrebbe essere: attaccò un vigoroso [[Song|canto]] che era come una tempesta in sé.
+Ma anche qui due uomini che osservavano la luce avevano acceso un [[motifs/fire|fuoco]], che attraverso il feritoio nella spessa parete di pietra proiettava un raggio di luce sul mare terribile. Unendo le loro mani callose sopra il grezzo tavolo a cui sedevano, si augurarono Buon Natale nel loro boccale di grog; e uno dei due: anche il più anziano, con il volto segnato e cicatrizzato dalle intemperie come la prua di una vecchia [[motifs/ship|barca]] potrebbe essere: attaccò un vigoroso canto che era come una tempesta in sé.
 
-Ancora una volta lo [[Ghost|Spirito]] si affrettò sopra il mare nero e agitato,
+Ancora una volta lo [[archetypes/ghost|Spirito]] si affrettò sopra il mare nero e agitato,
 -- avanti, avanti -- finché, trovandosi lontano da ogni
-costa, come disse a Scrooge, scesero su una [[Ship|nave]]. Si fermarono accanto al timoniere alla [[Wheel|ruota]], all'uomo di vedetta nella prua, agli ufficiali in servizio; figure oscure e spettrali nei loro rispettivi posti; ma ogni uomo tra loro canticchiava una melodia natalizia,
+costa, come disse a Scrooge, scesero su una [[motifs/ship|nave]]. Si fermarono accanto al timoniere alla [[motifs/wheel|ruota]], all'uomo di vedetta nella prua, agli ufficiali in servizio; figure oscure e spettrali nei loro rispettivi posti; ma ogni uomo tra loro canticchiava una melodia natalizia,
 o aveva un pensiero natalizio, o parlava sottovoce al suo
 compagno di qualche Natale passato, con le speranze di tornare a casa che vi erano associate. E ogni uomo a bordo, sveglio o addormentato, buono o cattivo, aveva avuto una parola gentile per un altro in quel giorno più che in qualsiasi altro giorno dell'anno; e aveva partecipato
 in qualche misura alle sue festività; e si era ricordato di coloro che gli erano cari lontani, e sapeva che essi erano felici di ricordarlo.
 
-Fu una grande sorpresa per Scrooge, mentre ascoltava il lamento del [[Wind|vento]] e pensava quanto fosse solenne avanzare attraverso la desolata oscurità sopra un abisso ignoto le cui profondità erano [[Secrets|segreti]] tanto insondabili quanto la [[Death|morte]]; fu una grande sorpresa per Scrooge, mentre era così assorto, sentire una risata cordiale. Fu una sorpresa ancora più grande per Scrooge riconoscerla come quella di suo nipote e trovarsi in una stanza luminosa, asciutta e scintillante, con lo Spirito che gli stava accanto sorridente e guardava quel medesimo nipote con affabilità benevola!
+Fu una grande sorpresa per Scrooge, mentre ascoltava il lamento del [[motifs/wind|vento]] e pensava quanto fosse solenne avanzare attraverso la desolata oscurità sopra un abisso ignoto le cui profondità erano [[motifs/secrets|segreti]] tanto insondabili quanto la [[motifs/death|morte]]; fu una grande sorpresa per Scrooge, mentre era così assorto, sentire una risata cordiale. Fu una sorpresa ancora più grande per Scrooge riconoscerla come quella di suo nipote e trovarsi in una stanza luminosa, asciutta e scintillante, con lo Spirito che gli stava accanto sorridente e guardava quel medesimo nipote con affabilità benevola!
 
 «Ah, ah!» rise il nipote dello Scrooge. «Ah, ah, ah!»
 
 Se per caso vi capitasse di conoscere un uomo più fortunato nel ridere del nipote dello Scrooge, tutto quello che posso dire è che mi piacerebbe conoscerlo anch'io. Presentatemelo e io coltiverò la sua amicizia.
 
-È un giusto e nobile equilibrio delle cose che mentre l'infezione è presente nella malattia e nel dolore, non c'è nulla al mondo così irresistibilmente contagioso come la risata e il buon [[Humour|umore]]. Quando il nipote di Scrooge rideva in questo modo: tenendosi i fianchi, [[rolling|rotolando]] con la testa e contorcendo il viso nelle più stravaganti smorfie: la nipote di Scrooge, per [[Marriage|matrimonio]], rideva altrettanto di cuore come lui. E gli amici riuniti, non essendo affatto indietro, scoppiarono a ridere fragorosamente.
+È un giusto e nobile equilibrio delle cose che mentre l'infezione è presente nella malattia e nel dolore, non c'è nulla al mondo così irresistibilmente contagioso come la risata e il buon umore. Quando il nipote di Scrooge rideva in questo modo: tenendosi i fianchi, rotolando con la testa e contorcendo il viso nelle più stravaganti smorfie: la nipote di Scrooge, per [[motifs/marriage|matrimonio]], rideva altrettanto di cuore come lui. E gli amici riuniti, non essendo affatto indietro, scoppiarono a ridere fragorosamente.
 
 "Ha, ha! Ha, ha, ha, ha!"
 
 «Ha detto che il Natale è una farsa, per come sto!» esclamò il nipote di Scrooge «E ci credeva pure!»
 
-«Più vergogna per lui, [[Fred]]!» disse indignata la nipote di Scrooge.
+«Più vergogna per lui, [[characters/fred|Fred]]!» disse indignata la nipote di Scrooge.
 Dio benedica quelle donne; non fanno mai le cose a metà.
 Sono sempre serie.
 
-Era molto carina: straordinariamente carina. Con un viso grazioso, dai lineamenti delicati e sorpresi, una boccuccia carnosa che sembrava fatta per essere baciata - come senza [[Doubt|dubbio]] lo era; tanti piccoli nei sul mento che si fondevano l'uno nell'altro quando rideva; e un paio di occhi più luminosi di qualsiasi altro aveste mai visto in una testolina. Nel complesso, era proprio quel tipo di ragazza che si dice essere provocante, sapete; ma anche soddisfacente. Oh, perfettamente soddisfacente.
+Era molto carina: straordinariamente carina. Con un viso grazioso, dai lineamenti delicati e sorpresi, una boccuccia carnosa che sembrava fatta per essere baciata - come senza [[concepts/doubt|dubbio]] lo era; tanti piccoli nei sul mento che si fondevano l'uno nell'altro quando rideva; e un paio di occhi più luminosi di qualsiasi altro aveste mai visto in una testolina. Nel complesso, era proprio quel tipo di ragazza che si dice essere provocante, sapete; ma anche soddisfacente. Oh, perfettamente soddisfacente.
 
-"È un vecchio buffone", disse il nipote di Scrooge, "è la [[Truth|verità]]: e non è così piacevole come potrebbe essere. Tuttavia i suoi reati portano con sé la propria punizione, e io non ho nulla da dire contro di lui."
+"È un vecchio buffone", disse il nipote di Scrooge, "è la [[concepts/truth|verità]]: e non è così piacevole come potrebbe essere. Tuttavia i suoi reati portano con sé la propria punizione, e io non ho nulla da dire contro di lui."
 
-«Sono sicura che è molto ricco, [[Fred]]», insinuò la nipote di Scrooge,
+«Sono sicura che è molto ricco, [[characters/fred|Fred]]», insinuò la nipote di Scrooge,
 «almeno tu mi dici sempre così.»
 
 «E allora?» disse il nipote di Scrooge «La sua ricchezza non gli serve a niente. Non ne fa buon uso. Non se la gode. E poi non può nemmeno dire, pensare - ah, ah, ah! - che un giorno ci farà comodo anche a NOI».
@@ -7746,15 +7746,15 @@ Le sorelle della nipote di Scrooge e tutte le altre signore espressero lo stesso
 
 «Oh, certo che l'ho fatto!» disse il nipote di Scrooge «Mi dispiace per lui; non potrei arrabbiarmi con lui neanche se ci provassi. Chi soffre per i suoi capricci? Lui sempre. Ecco, gli viene in mente di non piacergli la nostra compagnia e non vuole venire a cena da noi. Qual è il risultato? Non rinuncia certo a un gran pranzo».
 
-«In effetti, penso che perda una cena ottima», interruppe la nipote di Scrooge. Tutti gli altri dissero la stessa cosa e bisogna riconoscere loro la competenza in materia, perché avevano appena cenato; e con il dessert sul tavolo, erano radunati intorno al [[Fire|fuoco]], alla luce della lampada.
+«In effetti, penso che perda una cena ottima», interruppe la nipote di Scrooge. Tutti gli altri dissero la stessa cosa e bisogna riconoscere loro la competenza in materia, perché avevano appena cenato; e con il dessert sul tavolo, erano radunati intorno al [[motifs/fire|fuoco]], alla luce della lampada.
 
-«[[Well|Bene]]! Ne sono molto contento», disse il nipote dello Scrooge,
-«perché non ho grande [[Faith|fiducia]] in questi giovani casalinghi.
+«[[motifs/well|Bene]]! Ne sono molto contento», disse il nipote dello Scrooge,
+«perché non ho grande [[concepts/faith|fiducia]] in questi giovani casalinghi.
 Che ne pensi, Topper?»
 
 Topper aveva chiaramente messo gli occhi su una delle sorelle della nipote di Scrooge, perché rispose che un celibe era uno sventurato emarginato, che non aveva il diritto di esprimere un'opinione in proposito. Al che la sorella della nipote di Scrooge - quella paffuta con il volant di pizzo: non quella con le rose - arrossì.
 
-"Continua, continua, [[Fred]]", disse la nipote di Scrooge battendo le mani,
+"Continua, continua, [[characters/fred|Fred]]", disse la nipote di Scrooge battendo le mani,
 "Non finisce mai quello che inizia a dire! È un tipo così ridicolo!"
 
 Il nipote di Scrooge scoppiò a ridere ancora una volta e,
@@ -7778,13 +7778,13 @@ family, and knew what they were about, when they sung a
 Glee or Catch, I can assure you: especially Topper, who
 could growl away in the bass like a good one, and never
 swell the large veins in his forehead, or get red in the face
-over it. Scrooge's niece played [[Well|well]] upon the harp; and
+over it. Scrooge's niece played [[motifs/well|well]] upon the harp; and
 played among other tunes a simple little air (a mere nothing:
 you might learn to whistle it in two minutes), which had
-been familiar to the [[Child|child]] who fetched Scrooge from the
-boarding-school, as he had been reminded by the [[Ghost]] of
+been familiar to the [[archetypes/child|child]] who fetched Scrooge from the
+boarding-school, as he had been reminded by the [[archetypes/ghost|Ghost]] of
 Christmas Past. When this strain of music sounded, all the
-things that [[Ghost]] had shown him, came upon his mind; he
+things that [[archetypes/ghost|Ghost]] had shown him, came upon his mind; he
 softened more and more; and thought that if he could have
 listened to it often, years ago, he might have cultivated the
 kindnesses of life for his own happiness with his own hands,
@@ -7794,14 +7794,14 @@ Marley.
 But they didn't devote the whole evening to music. After
 a while they played at forfeits; for it is good to be children
 sometimes, and never better than at Christmas, when its
-mighty Founder was a [[Child|child]] himself. Stop! There was first
+mighty Founder was a [[archetypes/child|child]] himself. Stop! There was first
 a game at blind-man's buff. Of course there was. And I
 no more believe Topper was really blind than I believe he
 had eyes in his boots. My opinion is, that it was a done
 thing between him and Scrooge's nephew; and that the
-[[Ghost of Christmas Present]] knew it. The way he went after
+[[characters/ghost-of-christmas-present|Ghost of Christmas Present]] knew it. The way he went after
 that plump sister in the lace tucker, was an outrage on the
-credulity of human [[Nature|nature]]. Knocking down the [[Fire|fire]]-irons,
+credulity of human [[concepts/nature|nature]]. Knocking down the [[motifs/fire|fire]]-irons,
 tumbling over the chairs, bumping against the piano,
 smothering himself among the curtains, wherever she went,
 there went he! He always knew where the plump sister was.
@@ -7816,18 +7816,18 @@ silken rustlings, and her rapid flutterings past him, he got
 her into a corner whence there was no escape; then his
 conduct was the most execrable. For his pretending not to
 know her; his pretending that it was necessary to touch her
-head-dress, and further to assure himself of her [[Identity|identity]] by
+head-dress, and further to assure himself of her [[concepts/identity|identity]] by
 pressing a certain ring upon her finger, and a certain chain
-about her neck; was vile, monstrous! No [[Doubt|doubt]] she told
+about her neck; was vile, monstrous! No [[concepts/doubt|doubt]] she told
 him her opinion of it, when, another blind-man being in
 office, they were so very confidential together, behind the
 curtains.
 
 Scrooge's niece was not one of the blind-man's buff party,
 but was made comfortable with a large chair and a footstool,
-in a snug corner, where the [[Ghost]] and Scrooge were close
+in a snug corner, where the [[archetypes/ghost|Ghost]] and Scrooge were close
 behind her. But she joined in the forfeits, and loved her
-[[Love|love]] to admiration with all the letters of the alphabet.
+[[motifs/love|love]] to admiration with all the letters of the alphabet.
 Likewise at the game of How, When, and Where, she was
 very great, and to the secret joy of Scrooge's nephew, beat
 her sisters hollow: though they were sharp girls too, as Topper
@@ -7840,7 +7840,7 @@ for the sharpest needle, best Whitechapel, warranted not to cut
 in the eye, was not sharper than Scrooge; blunt as he took it in
 his head to be.
 
-The [[Ghost]] was greatly pleased to find him in this mood,
+The [[archetypes/ghost|Ghost]] was greatly pleased to find him in this mood,
 and looked upon him with such favour, that he begged like
 a boy to be allowed to stay until the guests departed. But
 this the Spirit said could not be done.
@@ -7851,24 +7851,24 @@ Spirit, only one!"
 It was a Game called Yes and No, where Scrooge's nephew
 had to think of something, and the rest must find out what;
 he only answering to their questions yes or no, as the case
-was. The brisk [[Fire|fire]] of questioning to which he was exposed,
+was. The brisk [[motifs/fire|fire]] of questioning to which he was exposed,
 elicited from him that he was thinking of an animal, a live
 animal, rather a disagreeable animal, a savage animal, an
 animal that growled and grunted sometimes, and talked sometimes,
-and lived in [[London]], and walked about the streets,
+and lived in [[settings/london|London]], and walked about the streets,
 and wasn't made a show of, and wasn't led by anybody, and
 didn't live in a menagerie, and was never killed in a market,
-and was not a [[Horse|horse]], or an ass, or a cow, or a bull, or a
+and was not a [[motifs/horse|horse]], or an ass, or a cow, or a bull, or a
 tiger, or a dog, or a pig, or a cat, or a bear. At every fresh
 question that was put to him, this nephew burst into a
 fresh roar of laughter; and was so inexpressibly tickled, that
 he was obliged to get up off the sofa and stamp. At last
 the plump sister, falling into a similar state, cried out:
 
-"I have found it out! I know what it is, [[Fred]]! I know
+"I have found it out! I know what it is, [[characters/fred|Fred]]! I know
 what it is!"
 
-"What is it?" cried [[Fred]].
+"What is it?" cried [[characters/fred|Fred]].
 
 "It's your Uncle Scro-o-o-o-oge!"
 
@@ -7880,11 +7880,11 @@ from Mr. Scrooge, supposing they had ever had any tendency
 that way.
 
 "He has given us plenty of merriment, I am sure," said
-[[Fred]], "and it would be ungrateful not to drink his health.
+[[characters/fred|Fred]], "and it would be ungrateful not to drink his health.
 Here is a glass of mulled wine ready to our hand at the
 moment; and I say, 'Uncle Scrooge!'"
 
-"[[Well]]! Uncle Scrooge!" they cried.
+"[[motifs/well|Well]]! Uncle Scrooge!" they cried.
 
 "A Merry Christmas and a Happy New Year to the old
 man, whatever he is!" said Scrooge's nephew. "He wouldn't
@@ -7898,19 +7898,19 @@ Ora toccava a loro ridere all'idea che lui potesse spaventare Scrooge.
 Ma essendo di buon cuore e non preoccupandosi molto del motivo per cui ridevano,
 purché ridessero, li incoraggiò nella loro allegria e passò la bottiglia con gioia.
 
-Dopo il tè ci fu un po' di musica. Erano infatti una famiglia musicale e sapevano quel che facevano quando cantavano un glee o un canone, ve lo assicuro: specialmente Topper, che ruggiva nel basso come si deve senza gonfiare le vene del collo né arrossire in viso. La nipote di Scrooge suonava [[Well|bene]] l'arpa e tra gli altri brani eseguì un semplice motivetto (una sciocchezza, lo avreste imparato a fischiettare in due minuti) che era stato familiare al [[Child|ragazzo]] che andò a prendere Scrooge alla scuola interna, come gli aveva ricordato il [[Ghost|fantasma]] del Natale passato. Quando questa melodia risuonò, tutte le cose che quel [[Ghost|fantasma]] gli aveva mostrato gli tornarono in mente; si ammorbidì sempre più e pensò che se avesse potuto ascoltarla spesso anni prima, forse avrebbe coltivato con le proprie mani i sentimenti gentili della vita per la sua felicità personale, senza dover ricorrere al badile del becchino che aveva seppellito Jacob Marley.
+Dopo il tè ci fu un po' di musica. Erano infatti una famiglia musicale e sapevano quel che facevano quando cantavano un glee o un canone, ve lo assicuro: specialmente Topper, che ruggiva nel basso come si deve senza gonfiare le vene del collo né arrossire in viso. La nipote di Scrooge suonava [[motifs/well|bene]] l'arpa e tra gli altri brani eseguì un semplice motivetto (una sciocchezza, lo avreste imparato a fischiettare in due minuti) che era stato familiare al [[archetypes/child|ragazzo]] che andò a prendere Scrooge alla scuola interna, come gli aveva ricordato il [[archetypes/ghost|fantasma]] del Natale passato. Quando questa melodia risuonò, tutte le cose che quel [[archetypes/ghost|fantasma]] gli aveva mostrato gli tornarono in mente; si ammorbidì sempre più e pensò che se avesse potuto ascoltarla spesso anni prima, forse avrebbe coltivato con le proprie mani i sentimenti gentili della vita per la sua felicità personale, senza dover ricorrere al badile del becchino che aveva seppellito Jacob Marley.
 
 Ma non dedicarono tutta la serata alla musica. Dopo un po'
 giocarono a "paga e passa"; perché è bello essere bambini
 qualche volta, e mai più di Natale, quando il suo
-possente Fondatore era lui stesso un [[Child|bambino]]. Aspettate!
+possente Fondatore era lui stesso un [[archetypes/child|bambino]]. Aspettate!
 Prima giocarono alla mosca cieca. Certo che sì. E io non ci credo
 più se Topper fosse davvero cieco di quanto ci creda
 che avesse gli occhi nelle scarpe. Secondo me, era una cosa
 combinata tra lui e il nipote dello Scrooge; e che lo
-[[Ghost of Christmas Present|Spirito del Natale Presente]] lo sapesse. Il modo in cui andava dietro
+[[characters/ghost-of-christmas-present|Spirito del Natale Presente]] lo sapesse. Il modo in cui andava dietro
 a quella paffuta sorella con la balza di merletto, era un oltraggio alla
-credulità della [[Nature|natura]] umana. Abbattendo gli attrezzi del [[Fire|fuoco]],
+credulità della [[concepts/nature|natura]] umana. Abbattendo gli attrezzi del [[motifs/fire|fuoco]],
 inciampando sulle sedie, sbattendo contro il pianoforte,
 soffocandosi tra le tende, ovunque lei andasse,
 lui la seguiva! Sapeva sempre dove si trovava la paffuta sorella.
@@ -7921,17 +7921,17 @@ e si sarebbe subito allontanato furtivamente in direzione della paffuta sorella.
 Spesso lei gridava che non era giusto; e davvero non lo era.
 Ma quando infine la catturò; quando, nonostante tutti i suoi
 fruscii di seta e le sue rapide volate oltre lui, riuscì a metterla in un angolo da cui non poteva fuggire;
-allora il suo comportamento fu davvero spregevole. Perché fingere di non conoscerla; fingere che fosse necessario toccarle l'acconciatura, e assicurarsi ulteriormente della sua [[Identity|identità]]
+allora il suo comportamento fu davvero spregevole. Perché fingere di non conoscerla; fingere che fosse necessario toccarle l'acconciatura, e assicurarsi ulteriormente della sua [[concepts/identity|identità]]
 premendo un certo anello sul suo dito, e una certa catena
-intorno al collo; fu vile, mostruoso! Non c'è [[Doubt|dubbio]] che lei gli disse
+intorno al collo; fu vile, mostruoso! Non c'è [[concepts/doubt|dubbio]] che lei gli disse
 la sua opinione in proposito, quando, con un altro cieco in carica,
 furono così confidenziali insieme, dietro le tende.
 
 La nipote di Scrooge non partecipava alla partita di mosca cieca,
 ma era sistemata comodamente con una grande poltrona e uno sgabello per i piedi,
-in un angolo accogliente, dove lo [[Ghost|Spirito]] e Scrooge erano vicini
+in un angolo accogliente, dove lo [[archetypes/ghost|Spirito]] e Scrooge erano vicini
 alle sue spalle. Ma si unì ai giochi di scommessa e amò il suo
-[[Love|innamorato]] con ammirazione usando tutte le lettere dell'alfabeto.
+[[motifs/love|innamorato]] con ammirazione usando tutte le lettere dell'alfabeto.
 Allo stesso modo, nel gioco del Come, Quando e Dove, fu
 molto brava, e con la gioia segreta del nipote di Scrooge, batté
 le sue sorelle: anche se erano ragazze acute, come Topper
@@ -7944,16 +7944,16 @@ perché l'ago più affilato, il migliore di Whitechapel, garantito per non tagli
 nell'occhio, non era più affilato di Scrooge; ottuso come lo prendeva
 nella sua testa.
 
-Lo [[Ghost|Spirito]] fu molto contento di trovarlo in questo umore e lo guardò con tanta benevolenza che egli, come un bambino, pregò di poter rimanere fino alla partenza degli ospiti. Ma lo Spirito disse che ciò non poteva essere fatto.
+Lo [[archetypes/ghost|Spirito]] fu molto contento di trovarlo in questo umore e lo guardò con tanta benevolenza che egli, come un bambino, pregò di poter rimanere fino alla partenza degli ospiti. Ma lo Spirito disse che ciò non poteva essere fatto.
 
 «Ecco un nuovo gioco», disse Scrooge. «Un'ora sola,
 Spirito, solo un'ora!»
 
-Era un gioco chiamato Sì e No, nel quale il nipote di Scrooge doveva pensare a qualcosa, mentre gli altri cercavano di indovinare cosa fosse; lui rispondeva alle loro domande solo con sì o no, secondo i casi. La vivace [[Fire|fiamma]] dell'interrogatorio cui era sottoposto lo portò a rivelare che stava pensando a un animale, un animale vivo, piuttosto antipatico, un animale selvaggio, un animale che ringhiava e grugniva talvolta, e parlava talvolta, e viveva a [[London|Londra]], e si aggirava per le strade, e non era messo in mostra, e non veniva condotto da nessuno, e non viveva in uno zoo, e non veniva mai ucciso al mercato, e non era un [[Horse|cavallo]], o un asino, o una mucca, o un toro, o una tigre, o un cane, o un maiale, o un gatto, o un orso. Ad ogni nuova domanda che gli veniva posta, questo nipote scoppiava in una nuova risata fragorosa; e si divertiva così immensamente, che era costretto ad alzarsi dal divano e pestare i piedi. Alla fine la sorella paffuta, cadendo in uno stato simile, esclamò:
+Era un gioco chiamato Sì e No, nel quale il nipote di Scrooge doveva pensare a qualcosa, mentre gli altri cercavano di indovinare cosa fosse; lui rispondeva alle loro domande solo con sì o no, secondo i casi. La vivace [[motifs/fire|fiamma]] dell'interrogatorio cui era sottoposto lo portò a rivelare che stava pensando a un animale, un animale vivo, piuttosto antipatico, un animale selvaggio, un animale che ringhiava e grugniva talvolta, e parlava talvolta, e viveva a [[settings/london|Londra]], e si aggirava per le strade, e non era messo in mostra, e non veniva condotto da nessuno, e non viveva in uno zoo, e non veniva mai ucciso al mercato, e non era un [[motifs/horse|cavallo]], o un asino, o una mucca, o un toro, o una tigre, o un cane, o un maiale, o un gatto, o un orso. Ad ogni nuova domanda che gli veniva posta, questo nipote scoppiava in una nuova risata fragorosa; e si divertiva così immensamente, che era costretto ad alzarsi dal divano e pestare i piedi. Alla fine la sorella paffuta, cadendo in uno stato simile, esclamò:
 
-"L'ho scoperto! So cos'è, [[Fred]]! So cosa è!"
+"L'ho scoperto! So cos'è, [[characters/fred|Fred]]! So cosa è!"
 
-"Che cos'è?", esclamò [[Fred]].
+"Che cos'è?", esclamò [[characters/fred|Fred]].
 
 «È vostro zio Scro-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-oge!»
 
@@ -7963,9 +7963,9 @@ doveva essere stata "Sì"; in quanto una risposta negativa sarebbe
 stata sufficiente per distogliere i loro pensieri dal signor Scrooge,
 supponendo che avessero mai avuto qualche tendenza in tal senso.
 
-«Ci ha dato molta allegria, ne sono sicuro», disse [[Fred]], «e sarebbe ingrato non brindare alla sua salute. Ecco un bicchiere di vin brulé pronto per noi in questo momento; e io dico: 'Zio Scrooge!'"
+«Ci ha dato molta allegria, ne sono sicuro», disse [[characters/fred|Fred]], «e sarebbe ingrato non brindare alla sua salute. Ecco un bicchiere di vin brulé pronto per noi in questo momento; e io dico: 'Zio Scrooge!'"
 
-«[[Well|Ebbene]]! Zio Scrooge!» gridarono.
+«[[motifs/well|Ebbene]]! Zio Scrooge!» gridarono.
 
 «Un Buon Natale e un Felice Anno Nuovo all'uomo anziano,
 qualunque cosa sia!» disse il nipote di Scrooge. «Non lo avrebbe preso da me, ma possa averlo comunque. Zio Scrooge!»
@@ -7978,38 +7978,38 @@ qualunque cosa sia!» disse il nipote di Scrooge. «Non lo avrebbe preso da me, 
 Uncle Scrooge had imperceptibly become so gay and light
 of heart, that he would have pledged the unconscious
 company in return, and thanked them in an inaudible speech,
-if the [[Ghost]] had given him [[Time|time]]. But the whole scene
+if the [[archetypes/ghost|Ghost]] had given him [[motifs/time|time]]. But the whole scene
 passed off in the breath of the last word spoken by his
 nephew; and he and the Spirit were again upon their travels.
 
 Much they saw, and far they went, and many homes they
 visited, but always with a happy end. The Spirit stood
 beside sick beds, and they were cheerful; on foreign lands,
-and they were close at [[Home|home]]; by struggling men, and they
-were patient in their greater [[Hope|hope]]; by [[Poverty|poverty]], and it was
+and they were close at [[motifs/home|home]]; by struggling men, and they
+were patient in their greater [[concepts/hope|hope]]; by [[concepts/poverty|poverty]], and it was
 rich. In almshouse, hospital, and jail, in misery's every
 refuge, where vain man in his little brief authority had not
 made fast the door, and barred the Spirit out, he left his
 blessing, and taught Scrooge his precepts.
 
-It was a long [[Night|night]], if it were only a [[Night|night]]; but Scrooge
+It was a long [[motifs/night|night]], if it were only a [[motifs/night|night]]; but Scrooge
 had his doubts of this, because the Christmas Holidays appeared
-to be condensed into the space of [[Time|time]] they passed
+to be condensed into the space of [[motifs/time|time]] they passed
 together. It was strange, too, that while Scrooge remained
-unaltered in his outward form, the [[Ghost]] grew older, clearly
+unaltered in his outward form, the [[archetypes/ghost|Ghost]] grew older, clearly
 older. Scrooge had observed this change, but never spoke of
-it, until they left a children's [[Twelfth Night]] party, when,
+it, until they left a children's [[clusters/twelfth-night|Twelfth Night]] party, when,
 looking at the Spirit as they stood together in an open place,
 he noticed that its hair was grey.
 
 "Are spirits' lives so short?" asked Scrooge.
 
-"My life upon this globe, is very brief," replied the [[Ghost]].
-"It ends to-[[Night|night]]."
+"My life upon this globe, is very brief," replied the [[archetypes/ghost|Ghost]].
+"It ends to-[[motifs/night|night]]."
 
-"To-[[Night|night]]!" cried Scrooge.
+"To-[[motifs/night|night]]!" cried Scrooge.
 
-"To-[[Night|night]] at midnight. Hark! The [[Time|time]] is drawing
+"To-[[motifs/night|night]] at midnight. Hark! The [[motifs/time|time]] is drawing
 near."
 
 The chimes were ringing the three quarters past eleven at
@@ -8028,10 +8028,10 @@ wretched, abject, frightful, hideous, miserable. They knelt
 down at its feet, and clung upon the outside of its garment.
 
 "Oh, Man! look here. Look, look, down here!" exclaimed
-the [[Ghost]].
+the [[archetypes/ghost|Ghost]].
 
 They were a boy and girl. Yellow, meagre, ragged, scowling,
-wolfish; but prostrate, too, in their [[Humility|humility]]. Where
+wolfish; but prostrate, too, in their [[concepts/humility|humility]]. Where
 graceful youth should have filled their features out, and
 touched them with its freshest tints, a stale and shrivelled
 hand, like that of age, had pinched, and twisted them, and
@@ -8054,40 +8054,40 @@ This boy is Ignorance. This girl is Want. Beware them both,
 and all of their degree, but most of all beware this boy, for
 on his brow I see that written which is Doom, unless the
 writing be erased. Deny it!" cried the Spirit, stretching out
-its hand towards the [[City|city]]. "Slander those who tell it ye!
+its hand towards the [[motifs/city|city]]. "Slander those who tell it ye!
 Admit it for your factious purposes, and make it worse.
 And bide the end!"
 
 "Have they no refuge or resource?" cried Scrooge.
 
 "Are there no prisons?" said the Spirit, turning on him
-for the last [[Time|time]] with his own words. "Are there no workhouses?"
+for the last [[motifs/time|time]] with his own words. "Are there no workhouses?"
 
 The bell struck twelve.
 
-Scrooge looked about him for the [[Ghost]], and saw it not.
+Scrooge looked about him for the [[archetypes/ghost|Ghost]], and saw it not.
 As the last stroke ceased to vibrate, he remembered the
-prediction of old [[Jacob Marley]], and lifting up his eyes,
-beheld a solemn [[Phantom]], draped and hooded, coming, like
+prediction of old [[characters/jacob-marley|Jacob Marley]], and lifting up his eyes,
+beheld a solemn [[characters/phantom|Phantom]], draped and hooded, coming, like
 a mist along the ground, towards him.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Zio Scrooge era impercettibilmente diventato così allegro e leggero di cuore, che avrebbe brindato alla compagnia ignara in cambio, e li avrebbe ringraziati con un discorso inudibile, se lo [[Ghost|Spirito]] gli avesse dato [[Time|tempo]]. Ma tutta la scena si svolse nel respiro dell'ultima parola pronunciata dal suo nipote; e lui e lo Spirito furono di nuovo in viaggio.
+Zio Scrooge era impercettibilmente diventato così allegro e leggero di cuore, che avrebbe brindato alla compagnia ignara in cambio, e li avrebbe ringraziati con un discorso inudibile, se lo [[archetypes/ghost|Spirito]] gli avesse dato [[motifs/time|tempo]]. Ma tutta la scena si svolse nel respiro dell'ultima parola pronunciata dal suo nipote; e lui e lo Spirito furono di nuovo in viaggio.
 
 Videro molto e andarono lontano, visitando molte case,
-ma sempre con un lieto fine. Lo Spirito si fermò accanto ai letti dei malati, che erano allegri; in terre straniere, dove si sentivano vicini a [[Home|casa]]; presso uomini in difficoltà, che erano pazienti nella loro più grande [[Hope|speranza]]; accanto alla [[Poverty|povertà]], e questa era ricca. Nelle case di carità, negli ospedali e nelle prigioni, in ogni rifugio della miseria, dove l'uomo vano con la sua breve autorità non aveva chiuso a chiave la porta e sbarrato lo Spirito fuori, egli lasciò la sua benedizione e insegnò i suoi precetti a Scrooge.
+ma sempre con un lieto fine. Lo Spirito si fermò accanto ai letti dei malati, che erano allegri; in terre straniere, dove si sentivano vicini a [[motifs/home|casa]]; presso uomini in difficoltà, che erano pazienti nella loro più grande [[concepts/hope|speranza]]; accanto alla [[concepts/poverty|povertà]], e questa era ricca. Nelle case di carità, negli ospedali e nelle prigioni, in ogni rifugio della miseria, dove l'uomo vano con la sua breve autorità non aveva chiuso a chiave la porta e sbarrato lo Spirito fuori, egli lasciò la sua benedizione e insegnò i suoi precetti a Scrooge.
 
-Fu una lunga [[Night|notte]], se si trattava solo di una [[Night|notte]]; ma Scrooge ne dubitava, perché le vacanze di Natale sembravano essere condensate nello spazio di [[Time|tempo]] che passarono insieme. Era strano anche il fatto che mentre Scrooge rimaneva invariato nella sua forma esteriore, lo [[Ghost|Spirito]] invecchiava, chiaramente invecchiava. Scrooge aveva notato questo cambiamento, ma non ne parlò mai finché non lasciarono una festa per bambini del [[Twelfth Night|Epifania]]; allora, guardando lo Spirito mentre si trovavano insieme in un luogo aperto, notò che i suoi capelli erano diventati grigi.
+Fu una lunga [[motifs/night|notte]], se si trattava solo di una [[motifs/night|notte]]; ma Scrooge ne dubitava, perché le vacanze di Natale sembravano essere condensate nello spazio di [[motifs/time|tempo]] che passarono insieme. Era strano anche il fatto che mentre Scrooge rimaneva invariato nella sua forma esteriore, lo [[archetypes/ghost|Spirito]] invecchiava, chiaramente invecchiava. Scrooge aveva notato questo cambiamento, ma non ne parlò mai finché non lasciarono una festa per bambini del [[clusters/twelfth-night|Epifania]]; allora, guardando lo Spirito mentre si trovavano insieme in un luogo aperto, notò che i suoi capelli erano diventati grigi.
 
 «La vita degli spiriti è così breve?» chiese Scrooge.
 
-«La mia vita su questo globo è molto breve», rispose lo [[Ghost|Spirito]], «finisce stasera [[Night|stasera]].»
+«La mia vita su questo globo è molto breve», rispose lo [[archetypes/ghost|Spirito]], «finisce stasera [[motifs/night|stasera]].»
 
-"Questa [[Night|notte]]!" gridò Scrooge.
+"Questa [[motifs/night|notte]]!" gridò Scrooge.
 
-"Sta-[[Night|sera]] a mezzanotte. Ascolta! Il [[Time|momento]] si sta avvicinando."
+"Sta-[[motifs/night|sera]] a mezzanotte. Ascolta! Il [[motifs/time|momento]] si sta avvicinando."
 
 In quel momento le campane battevano i tre quarti dopo l'undicesimo rintocco dell'ora.
 
@@ -8098,28 +8098,28 @@ In quel momento le campane battevano i tre quarti dopo l'undicesimo rintocco del
 Dai lembi del suo mantello fece uscire due bambini; miseri,
 abietti, spaventosi, orribili, poveretti. Si inginocchiarono ai suoi piedi e si aggrapparono all'esterno della sua veste.
 
-"O uomo! guarda qui. Guarda, guarda, giù qui!", esclamò lo [[Ghost|spettro]].
+"O uomo! guarda qui. Guarda, guarda, giù qui!", esclamò lo [[archetypes/ghost|spettro]].
 
 Erano un ragazzo e una ragazza. Gialli, magri, stracciati,
-brutti, lupeschi; ma anche prostrati nella loro [[Humility|umiltà]]. Dove la grazia della giovinezza avrebbe dovuto riempire i loro tratti e toccarli con le sue sfumature più fresche, una mano stantia e raggrinzita, come quella dell'età, li aveva pizzicati, contorti e strappati in brandelli. Dove gli angeli avrebbero potuto sedere in trono, i diavoli si nascondevano e sbirciavano minacciosi. Nessun cambiamento, nessuna degradazione, nessuna perversione dell'umanità, a qualsiasi livello, attraverso tutti i misteri della meravigliosa creazione, ha prodotto mostri così orribili e spaventosi.
+brutti, lupeschi; ma anche prostrati nella loro [[concepts/humility|umiltà]]. Dove la grazia della giovinezza avrebbe dovuto riempire i loro tratti e toccarli con le sue sfumature più fresche, una mano stantia e raggrinzita, come quella dell'età, li aveva pizzicati, contorti e strappati in brandelli. Dove gli angeli avrebbero potuto sedere in trono, i diavoli si nascondevano e sbirciavano minacciosi. Nessun cambiamento, nessuna degradazione, nessuna perversione dell'umanità, a qualsiasi livello, attraverso tutti i misteri della meravigliosa creazione, ha prodotto mostri così orribili e spaventosi.
 
 Scrooge indietreggiò, atterrito. Avendoli visti così, cercò di dire che erano dei bei bambini, ma le parole si strozzarono piuttosto che essere comparse in una menzogna di tale enormità.
 
 «Spirito, sono tue?» Scrooge non poté dire altro.
 
 "Sono dell'uomo", disse lo Spirito guardandoli dall'alto.  
-"E si aggrappano a me, appellandosi contro i loro padri. Questo ragazzo è l'Ignoranza. Questa ragazza è la Miseria. Diffidate di entrambi e di tutti quelli della loro risma, ma soprattutto diffidate di questo ragazzo, perché sulla sua fronte vedo scritta una parola che significa Distruzione, a meno che non venga cancellata. Negatela!" gridò lo Spirito, tendendo la mano verso la [[City|città]]. "Calunniate coloro che ve l'hanno detto! Accettatela per i vostri scopi fazioni e peggioratela ancora. E aspettate il risultato!"
+"E si aggrappano a me, appellandosi contro i loro padri. Questo ragazzo è l'Ignoranza. Questa ragazza è la Miseria. Diffidate di entrambi e di tutti quelli della loro risma, ma soprattutto diffidate di questo ragazzo, perché sulla sua fronte vedo scritta una parola che significa Distruzione, a meno che non venga cancellata. Negatela!" gridò lo Spirito, tendendo la mano verso la [[motifs/city|città]]. "Calunniate coloro che ve l'hanno detto! Accettatela per i vostri scopi fazioni e peggioratela ancora. E aspettate il risultato!"
 
 «Non hanno rifugio o risorse?» esclamò Scrooge.
 
-“Non ci sono forse le prigioni?” disse lo Spirito, rivolgendosi a lui per l’[[Time|ultima]] volta con le sue stesse parole. “Non ci sono i ricoveri di mendicità?”
+“Non ci sono forse le prigioni?” disse lo Spirito, rivolgendosi a lui per l’[[motifs/time|ultima]] volta con le sue stesse parole. “Non ci sono i ricoveri di mendicità?”
 
 La campana suonò le dodici.
 
-Scrooge guardò intorno in cerca dello [[Ghost|Spirito]] e non lo vide.
+Scrooge guardò intorno in cerca dello [[archetypes/ghost|Spirito]] e non lo vide.
 Quando l'ultimo rintocco cessò di vibrare, si ricordò della
-profezia del vecchio [[Jacob Marley]], e alzando gli occhi,
-vide un solenne [[Phantom|Fantasma]], drappeggiato e con il cappuccio, che veniva verso di lui come una nebbia lungo il terreno.
+profezia del vecchio [[characters/jacob-marley|Jacob Marley]], e alzando gli occhi,
+vide un solenne [[characters/phantom|Fantasma]], drappeggiato e con il cappuccio, che veniva verso di lui come una nebbia lungo il terreno.
 
 
 
@@ -8128,7 +8128,7 @@ vide un solenne [[Phantom|Fantasma]], drappeggiato e con il cappuccio, che veniv
 
 STAVE IV:  THE LAST OF THE SPIRITS
 
-THE [[Phantom]] slowly, gravely, silently, approached. When
+THE [[characters/phantom|Phantom]] slowly, gravely, silently, approached. When
 it came near him, Scrooge bent down upon his knee; for in
 the very air through which this Spirit moved it seemed to
 scatter gloom and mystery.
@@ -8136,7 +8136,7 @@ scatter gloom and mystery.
 It was shrouded in a deep black garment, which concealed
 its head, its face, its form, and left nothing of it visible
 save one outstretched hand. But for this it would have been
-difficult to detach its figure from the [[Night|night]], and separate it
+difficult to detach its figure from the [[motifs/night|night]], and separate it
 from the darkness by which it was surrounded.
 
 He felt that it was tall and stately when it came beside
@@ -8144,25 +8144,25 @@ him, and that its mysterious presence filled him with a
 solemn dread. He knew no more, for the Spirit neither
 spoke nor moved.
 
-"I am in the presence of the [[Ghost]] of Christmas Yet To
+"I am in the presence of the [[archetypes/ghost|Ghost]] of Christmas Yet To
 Come?" said Scrooge.
 
 The Spirit answered not, but pointed onward with its
 hand.
 
 "You are about to show me shadows of the things that
-have not happened, but will happen in the [[Time|time]] before us,"
+have not happened, but will happen in the [[motifs/time|time]] before us,"
 Scrooge pursued. "Is that so, Spirit?"
 
 The upper portion of the garment was contracted for an
 instant in its folds, as if the Spirit had inclined its head.
 That was the only answer he received.
 
-Although [[Well|well]] used to ghostly company by this [[Time|time]],
+Although [[motifs/well|well]] used to ghostly company by this [[motifs/time|time]],
 Scrooge feared the silent shape so much that his legs trembled
 beneath him, and he found that he could hardly stand when
 he prepared to follow it. The Spirit paused a moment, as
-observing his condition, and giving him [[Time|time]] to recover.
+observing his condition, and giving him [[motifs/time|time]] to recover.
 
 But Scrooge was all the worse for this. It thrilled him
 with a vague uncertain horror, to know that behind the
@@ -8171,9 +8171,9 @@ him, while he, though he stretched his own to the utmost,
 could see nothing but a spectral hand and one great heap
 of black.
 
-"[[Ghost]] of the Future!" he exclaimed, "I [[Fear|fear]] you more
+"[[archetypes/ghost|Ghost]] of the Future!" he exclaimed, "I [[concepts/fear|fear]] you more
 than any spectre I have seen. But as I know your purpose
-is to do me good, and as I [[Hope|hope]] to live to be another
+is to do me good, and as I [[concepts/hope|hope]] to live to be another
 man from what I was, I am prepared to bear you company,
 and do it with a thankful heart. Will you not speak
 to me?"
@@ -8181,16 +8181,16 @@ to me?"
 It gave him no reply. The hand was pointed straight
 before them.
 
-"Lead on!" said Scrooge. "Lead on! The [[Night|night]] is
-waning fast, and it is precious [[Time|time]] to me, I know. Lead
+"Lead on!" said Scrooge. "Lead on! The [[motifs/night|night]] is
+waning fast, and it is precious [[motifs/time|time]] to me, I know. Lead
 on, Spirit!"
 
-The [[Phantom]] moved away as it had come towards him.
-Scrooge followed in the [[Shadow|shadow]] of its dress, which bore him
+The [[characters/phantom|Phantom]] moved away as it had come towards him.
+Scrooge followed in the [[archetypes/shadow|shadow]] of its dress, which bore him
 up, he thought, and carried him along.
 
-They scarcely seemed to enter the [[City|city]]; for the [[City|city]] rather
-seemed to [[spring]] up about them, and encompass them of its
+They scarcely seemed to enter the [[motifs/city|city]]; for the [[motifs/city|city]] rather
+seemed to [[motifs/spring|spring]] up about them, and encompass them of its
 own act. But there they were, in the heart of it; on
 'Change, amongst the merchants; who hurried up and down,
 and chinked the money in their pockets, and conversed in
@@ -8208,7 +8208,7 @@ dead."
 
 "When did he die?" inquired another.
 
-"Last [[Night|night]], I believe."
+"Last [[motifs/night|night]], I believe."
 
 "Why, what was the matter with him?" asked a third,
 taking a vast quantity of snuff out of a very large snuff-box.
@@ -8236,7 +8236,7 @@ be fed, if I make one."
 
 Another laugh.
 
-"[[Well]], I am the most disinterested among you, after all,"
+"[[motifs/well|Well]], I am the most disinterested among you, after all,"
 said the first speaker, "for I never wear black gloves, and I
 never eat lunch. But I'll offer to go, if anybody else will.
 When I come to think of it, I'm not at all sure that I wasn't
@@ -8247,25 +8247,25 @@ Speakers and listeners strolled away, and mixed with
 other groups. Scrooge knew the men, and looked towards the
 Spirit for an explanation.
 
-The [[Phantom]] glided on into a street. Its finger pointed
+The [[characters/phantom|Phantom]] glided on into a street. Its finger pointed
 to two persons meeting. Scrooge listened again, thinking
 that the explanation might lie here.
 
 He knew these men, also, perfectly. They were men of business:
 very wealthy, and of great importance. He had made a point
-always of standing [[Well|well]] in their esteem: in a business point
+always of standing [[motifs/well|well]] in their esteem: in a business point
 of view, that is; strictly in a business point of view.
 
 "How are you?" said one.
 
 "How are you?" returned the other.
 
-"[[Well]]!" said the first. "Old Scratch has got his own at
+"[[motifs/well|Well]]!" said the first. "Old Scratch has got his own at
 last, hey?"
 
 "So I am told," returned the second. "Cold, isn't it?"
 
-"Seasonable for Christmas [[Time|time]]. You're not a skater, I
+"Seasonable for Christmas [[motifs/time|time]]. You're not a skater, I
 suppose?"
 
 "No. No. Something else to think of. Good morning!"
@@ -8278,15 +8278,15 @@ Spirit should attach importance to conversations apparently so
 trivial; but feeling assured that they must have some hidden
 purpose, he set himself to consider what it was likely to be.
 They could scarcely be supposed to have any bearing on the
-[[Death|death]] of Jacob, his old partner, for that was Past, and this
-[[Ghost]]'s province was the Future. Nor could he think of any
+[[motifs/death|death]] of Jacob, his old partner, for that was Past, and this
+[[archetypes/ghost|Ghost]]'s province was the Future. Nor could he think of any
 one immediately connected with himself, to whom he could
 apply them. But nothing doubting that to whomsoever they
 applied they had some latent moral for his own improvement,
 he resolved to treasure up every word he heard,
 and everything he saw; and especially to observe the
-[[Shadow|shadow]] of himself when it appeared. For he had an expectation
-that the conduct of his future [[Self|self]] would give him
+[[archetypes/shadow|shadow]] of himself when it appeared. For he had an expectation
+that the conduct of his future [[concepts/self|self]] would give him
 the clue he missed, and would render the solution of these
 riddles easy.
 
@@ -8295,44 +8295,44 @@ riddles easy.
 
 CAPITOLO IV: L'ULTIMO DEGLI SPIRITI
 
-Il [[Phantom|Fantasma]] si avvicinò lentamente, gravemente e silenziosamente. Quando gli fu vicino, Scrooge si inginocchiò; perché nell'aria stessa attraverso cui questo Spirito si muoveva sembrava diffondersi un'atmosfera di tristezza e mistero.
+Il [[characters/phantom|Fantasma]] si avvicinò lentamente, gravemente e silenziosamente. Quando gli fu vicino, Scrooge si inginocchiò; perché nell'aria stessa attraverso cui questo Spirito si muoveva sembrava diffondersi un'atmosfera di tristezza e mistero.
 
-Era avvolto in un abito profondamente nero, che nascondeva la sua testa, il suo volto, la sua forma e non lasciava nulla di esso visibile se non una mano tesa. Se non fosse stato per questo, sarebbe stato difficile distinguere la sua figura dalla [[Night|notte]] e separarla dall'oscurità che lo circondava.
+Era avvolto in un abito profondamente nero, che nascondeva la sua testa, il suo volto, la sua forma e non lasciava nulla di esso visibile se non una mano tesa. Se non fosse stato per questo, sarebbe stato difficile distinguere la sua figura dalla [[motifs/night|notte]] e separarla dall'oscurità che lo circondava.
 
 Sentiva che era alto e maestoso quando si avvicinò a lui,
 e che la sua presenza misteriosa lo riempiva di un timore solenne.
 Non ne sapeva altro, perché lo Spirito non parlava né si muoveva.
 
-"Mi trovo alla presenza dello [[Ghost|spettro]] del Natale che Deve Ancora Venire?", disse Scrooge.
+"Mi trovo alla presenza dello [[archetypes/ghost|spettro]] del Natale che Deve Ancora Venire?", disse Scrooge.
 
 Lo Spirito non rispose, ma indicò avanti con la sua mano.
 
 "Stai per mostrarmi ombre di cose che non sono ancora accadute,
-ma accadranno nel [[Time|tempo]] davanti a noi," continuò Scrooge.
+ma accadranno nel [[motifs/time|tempo]] davanti a noi," continuò Scrooge.
 "È così, Spirito?"
 
 La parte superiore del vestito si contrasse per un istante nelle sue pieghe, come se lo Spirito avesse inclinato la testa.
 Questa fu l'unica risposta che ricevette.
 
-Sebbene ormai abituato alla compagnia spettrale, Scrooge temeva tanto la silenziosa figura che le gambe gli tremavano sotto il corpo e si accorse di poter a malapena stare in piedi quando si preparò a seguirla. Lo Spirito fece una pausa un momento, come per osservare il suo stato, concedendogli [[Time|tempo]] per riprendersi.
+Sebbene ormai abituato alla compagnia spettrale, Scrooge temeva tanto la silenziosa figura che le gambe gli tremavano sotto il corpo e si accorse di poter a malapena stare in piedi quando si preparò a seguirla. Lo Spirito fece una pausa un momento, come per osservare il suo stato, concedendogli [[motifs/time|tempo]] per riprendersi.
 
 Ma Scrooge ne uscì peggio che mai. Lo attraversò un brivido di vaga e indefinita orripilazione al pensiero che, dietro il sudario scuro, ci fossero occhi spettrali fissi su di lui, mentre lui, quantunque si sforzasse con tutte le sue forze, non riusciva a vedere altro che una mano fantasma e un grande mucchio di nero.
 
-"[[Ghost|Fantasma]] del Futuro!" esclamò, "ti [[Fear|temo]] più di qualsiasi spettro abbia mai visto.
-Ma poiché so che il tuo scopo è farmi del bene e poiché [[Hope|spero]] di vivere per diventare
+"[[archetypes/ghost|Fantasma]] del Futuro!" esclamò, "ti [[concepts/fear|temo]] più di qualsiasi spettro abbia mai visto.
+Ma poiché so che il tuo scopo è farmi del bene e poiché [[concepts/hope|spero]] di vivere per diventare
 un uomo diverso da quello che ero, sono pronto ad accompagnarti,
 e lo farò con un cuore grato. Non vuoi parlarmi?"
 
 Non gli diede risposta alcuna. La mano era puntata dritta davanti a loro.
 
-«Avanti!» disse Scrooge. «Avanti! La [[Night|notte]] sta volgendo al termine e il [[Time|tempo]] è prezioso per me, lo so bene. Avanti, Spirito!»
+«Avanti!» disse Scrooge. «Avanti! La [[motifs/night|notte]] sta volgendo al termine e il [[motifs/time|tempo]] è prezioso per me, lo so bene. Avanti, Spirito!»
 
-Lo [[Phantom|spettro]] si allontanò nello stesso modo in cui era venuto verso di lui.
-Scrooge seguì l'[[Shadow|ombra]] del suo abito che lo sostenne,
+Lo [[characters/phantom|spettro]] si allontanò nello stesso modo in cui era venuto verso di lui.
+Scrooge seguì l'[[archetypes/shadow|ombra]] del suo abito che lo sostenne,
 pensò, e lo trasportò.
 
-Non sembravano quasi entrare nella [[City|città]]; anzi,
-pareva che la [[City|città]] fosse loro venuta incontro e li avesse circondati di sua propria iniziativa.
+Non sembravano quasi entrare nella [[motifs/city|città]]; anzi,
+pareva che la [[motifs/city|città]] fosse loro venuta incontro e li avesse circondati di sua propria iniziativa.
 Ma eccoli lì, nel cuore della città; alla Borsa, tra i mercanti;
 che si affrettavano su e giù, facevano tintinnare il denaro nelle tasche,
 si riunivano in gruppi, guardavano l'orologio, maneggiavano pensierosi
@@ -8345,7 +8345,7 @@ Scorgendo che la mano era puntata verso di loro, Scrooge si avvicinò per ascolt
 
 «Quando è morto?» chiese un altro.
 
-"Ieri [[Night|sera]], credo."
+"Ieri [[motifs/night|sera]], credo."
 
 «Ebbene, che cosa aveva?» chiese un terzo,
 prendendo una grande quantità di tabacco da fiuto da una scatola molto grande.
@@ -8366,7 +8366,7 @@ Questa battuta fu accolta con una risata generale.
 
 Un'altra risata.
 
-«[[Well|Beh]], sono io il più disinteressato tra voi, dopotutto»,
+«[[motifs/well|Beh]], sono io il più disinteressato tra voi, dopotutto»,
 disse il primo oratore, «perché non indosso mai guanti neri e non mangio mai a pranzo.
 Ma mi offrirò di andare, se qualcun altro lo farà. Quando ci penso, non sono affatto sicuro
 di non essere stato il suo amico più particolare; perché quando ci incontravamo,
@@ -8374,7 +8374,7 @@ ci fermavamo sempre a parlare. Arrivederci!»
 
 Oratori e ascoltatori si allontanarono passeggiando e si mischiarono ad altri gruppi. Scrooge conosceva gli uomini e guardò lo Spirito in cerca di una spiegazione.
 
-Lo [[Phantom|spettro]] si diresse in una strada. Il suo dito indicò due persone che si incontravano. Scrooge ascoltò nuovamente, pensando che la spiegazione potesse trovarsi lì.
+Lo [[characters/phantom|spettro]] si diresse in una strada. Il suo dito indicò due persone che si incontravano. Scrooge ascoltò nuovamente, pensando che la spiegazione potesse trovarsi lì.
 
 Conosceva perfettamente anche questi uomini. Erano uomini d'affari:
 molto ricchi e di grande importanza. Aveva sempre fatto un punto
@@ -8385,17 +8385,17 @@ cioè; rigorosamente dal punto di vista degli affari.
 
 «Come state?» rispose l'altro.
 
-«[[Well|Bene]]!» disse il primo. «Vecchio diavolo ha finalmente avuto la sua rivincita, eh?»
+«[[motifs/well|Bene]]!» disse il primo. «Vecchio diavolo ha finalmente avuto la sua rivincita, eh?»
 
 «Così mi hanno detto», rispose il secondo. «Fa freddo, vero?»
 
-«Adatto per il periodo di Natale [[Time|periodo]]. Non è che lei sia un patinatore, immagino?»
+«Adatto per il periodo di Natale [[motifs/time|periodo]]. Non è che lei sia un patinatore, immagino?»
 
 «No. No. C'è qualcos'altro di cui occuparsi. Buongiorno!»
 
 Non un'altra parola. Questo fu il loro incontro, la loro conversazione e il loro addio.
 
-Scrooge fu dapprima incline a stupirsi che lo Spirito attribuisse importanza a conversazioni apparentemente così banali; ma essendo certo che dovevano avere uno scopo nascosto, si mise a riflettere su quale potesse essere. Non era facile supporre che avessero qualche attinenza con la [[Death|morte]] di Jacob, il suo vecchio socio, perché quella era una cosa del Passato e la provincia di questo [[Ghost|Spirito]] era l'Avvenire. E nemmeno riusciva a pensare a qualcuno direttamente legato a lui stesso, a cui potesse applicarle. Ma non dubitando che chiunque fossero quelli a cui si applicavano, dovevano avere un insegnamento morale latente per il suo miglioramento, decise di custodire ogni parola che udiva e tutto ciò che vedeva; e specialmente di osservare l'[[Shadow|ombra]] di se stesso quando appariva. Perché si aspettava che la condotta del suo futuro [[Self|io]] gli avrebbe dato il filo che gli mancava, e avrebbe reso facile la soluzione di questi enigmi.
+Scrooge fu dapprima incline a stupirsi che lo Spirito attribuisse importanza a conversazioni apparentemente così banali; ma essendo certo che dovevano avere uno scopo nascosto, si mise a riflettere su quale potesse essere. Non era facile supporre che avessero qualche attinenza con la [[motifs/death|morte]] di Jacob, il suo vecchio socio, perché quella era una cosa del Passato e la provincia di questo [[archetypes/ghost|Spirito]] era l'Avvenire. E nemmeno riusciva a pensare a qualcuno direttamente legato a lui stesso, a cui potesse applicarle. Ma non dubitando che chiunque fossero quelli a cui si applicavano, dovevano avere un insegnamento morale latente per il suo miglioramento, decise di custodire ogni parola che udiva e tutto ciò che vedeva; e specialmente di osservare l'[[archetypes/shadow|ombra]] di se stesso quando appariva. Perché si aspettava che la condotta del suo futuro [[concepts/self|io]] gli avrebbe dato il filo che gli mancava, e avrebbe reso facile la soluzione di questi enigmi.
 
 
 
@@ -8404,16 +8404,16 @@ Scrooge fu dapprima incline a stupirsi che lo Spirito attribuisse importanza a c
 
 He looked about in that very place for his own image; but
 another man stood in his accustomed corner, and though the
-[[Clock|clock]] pointed to his usual [[Time|time]] of day for being there, he
+[[motifs/clock|clock]] pointed to his usual [[motifs/time|time]] of day for being there, he
 saw no likeness of himself among the multitudes that poured
 in through the Porch. It gave him little surprise, however;
 for he had been revolving in his mind a change of life, and
 thought and hoped he saw his new-born resolutions carried
 out in this.
 
-Quiet and dark, beside him stood the [[Phantom]], with its
+Quiet and dark, beside him stood the [[characters/phantom|Phantom]], with its
 outstretched hand. When he roused himself from his
-thoughtful [[Quest|quest]], he fancied from the turn of the hand, and
+thoughtful [[topoi/quest|quest]], he fancied from the turn of the hand, and
 its situation in reference to himself, that the Unseen Eyes
 were looking at him keenly. It made him shudder, and feel
 very cold.
@@ -8428,12 +8428,12 @@ smell, and dirt, and life, upon the straggling streets; and the
 whole quarter reeked with crime, with filth, and misery.
 
 Far in this den of infamous resort, there was a low-browed,
-beetling shop, below a pent-[[house]] roof, where iron, old rags,
+beetling shop, below a pent-house roof, where iron, old rags,
 bottles, bones, and greasy offal, were bought. Upon the floor
-within, were piled up heaps of rusty keys, nails, [[Chains|chains]], hinges,
-files, scales, weights, and refuse iron of all kinds. [[Secrets]]
+within, were piled up heaps of rusty keys, nails, [[motifs/chains|chains]], hinges,
+files, scales, weights, and refuse iron of all kinds. [[motifs/secrets|Secrets]]
 that few would like to scrutinise were bred and hidden in
-[[Mountains|mountains]] of unseemly rags, masses of corrupted fat, and
+[[settings/mountains|mountains]] of unseemly rags, masses of corrupted fat, and
 sepulchres of bones. Sitting in among the wares he dealt in, by a
 charcoal stove, made of old bricks, was a grey-haired rascal,
 nearly seventy years of age; who had screened himself from the
@@ -8441,7 +8441,7 @@ cold air without, by a frousy curtaining of miscellaneous
 tatters, hung upon a line; and smoked his pipe in all the luxury
 of calm retirement.
 
-Scrooge and the [[Phantom]] came into the presence of this
+Scrooge and the [[characters/phantom|Phantom]] came into the presence of this
 man, just as a woman with a heavy bundle slunk into the
 shop. But she had scarcely entered, when another woman,
 similarly laden, came in too; and she was closely followed by
@@ -8451,9 +8451,9 @@ other. After a short period of blank astonishment, in which
 the old man with the pipe had joined them, they all three
 burst into a laugh.
 
-"Let the charwoman [[Alone|alone]] to be the first!" cried she who
-had entered first. "Let the laundress [[Alone|alone]] to be the second;
-and let the undertaker's man [[Alone|alone]] to be the third. Look
+"Let the charwoman alone to be the first!" cried she who
+had entered first. "Let the laundress alone to be the second;
+and let the undertaker's man alone to be the third. Look
 here, old Joe, here's a chance! If we haven't all three met
 here without meaning it!"
 
@@ -8464,12 +8464,12 @@ two an't strangers. Stop till I shut the door of the shop.
 Ah! How it skreeks! There an't such a rusty bit of metal
 in the place as its own hinges, I believe; and I'm sure there's
 no such old bones here, as mine. Ha, ha! We're all suitable
-to our calling, we're [[Well|well]] matched. Come into the
+to our calling, we're [[motifs/well|well]] matched. Come into the
 parlour. Come into the parlour."
 
 The parlour was the space behind the screen of rags. The
-old man raked the [[Fire|fire]] together with an old stair-rod, and
-having trimmed his smoky lamp (for it was [[Night|night]]), with the
+old man raked the [[motifs/fire|fire]] together with an old stair-rod, and
+having trimmed his smoky lamp (for it was [[motifs/night|night]]), with the
 stem of his pipe, put it in his mouth again.
 
 While he did this, the woman who had already spoken
@@ -8489,9 +8489,9 @@ woman; who's the wiser? We're not going to pick holes in
 each other's coats, I suppose?"
 
 "No, indeed!" said Mrs. Dilber and the man together.
-"We should [[Hope|hope]] not."
+"We should [[concepts/hope|hope]] not."
 
-"Very [[Well|well]], then!" cried the woman. "That's enough.
+"Very [[motifs/well|well]], then!" cried the woman. "That's enough.
 Who's the worse for the loss of a few things like these?
 Not a dead man, I suppose."
 
@@ -8500,8 +8500,8 @@ Not a dead man, I suppose."
 "If he wanted to keep 'em after he was dead, a wicked old
 screw," pursued the woman, "why wasn't he natural in his
 lifetime? If he had been, he'd have had somebody to look
-after him when he was struck with [[Death]], instead of lying
-gasping out his last there, [[Alone|alone]] by himself."
+after him when he was struck with [[motifs/death|Death]], instead of lying
+gasping out his last there, alone by himself."
 
 "It's the truest word that ever was spoke," said Mrs.
 Dilber. "It's a judgment on him."
@@ -8511,7 +8511,7 @@ woman; "and it should have been, you may depend upon it,
 if I could have laid my hands on anything else. Open that
 bundle, old Joe, and let me know the value of it. Speak out
 plain. I'm not afraid to be the first, nor afraid for them to
-see it. We know pretty [[Well|well]] that we were helping ourselves,
+see it. We know pretty [[motifs/well|well]] that we were helping ourselves,
 before we met here, I believe. It's no sin. Open the bundle,
 Joe."
 
@@ -8537,33 +8537,33 @@ in the same manner.
 and that's the way I ruin myself," said old Joe. "That's
 your account. If you asked me for another penny, and made
 it an open question, I'd repent of being so liberal and knock
-off half-a-[[Crown|crown]]."
+off half-a-[[motifs/crown|crown]]."
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Egli cercò proprio lì la propria immagine; ma un altro uomo stava nel suo solito angolo e, sebbene [[Clock|l'orologio]] segnasse il suo consueto [[Time|momento]] della giornata per trovarsi là, non vide alcuna somiglianza di sé tra le moltitudini che affluivano attraverso il portico. Tuttavia ciò lo sorprese poco; perché aveva in mente un cambiamento di vita e pensò e sperò di vedere realizzate in questo modo le sue risoluzioni appena nate.
+Egli cercò proprio lì la propria immagine; ma un altro uomo stava nel suo solito angolo e, sebbene [[motifs/clock|l'orologio]] segnasse il suo consueto [[motifs/time|momento]] della giornata per trovarsi là, non vide alcuna somiglianza di sé tra le moltitudini che affluivano attraverso il portico. Tuttavia ciò lo sorprese poco; perché aveva in mente un cambiamento di vita e pensò e sperò di vedere realizzate in questo modo le sue risoluzioni appena nate.
 
-Silenzioso e oscuro, accanto a lui stava il [[Phantom|Fantasma]], con la mano tesa.
-Quando si riscosse dalla sua riflessiva [[Quest|ricerca]], gli parve che dal movimento della mano,
+Silenzioso e oscuro, accanto a lui stava il [[characters/phantom|Fantasma]], con la mano tesa.
+Quando si riscosse dalla sua riflessiva [[topoi/quest|ricerca]], gli parve che dal movimento della mano,
 e dalla posizione di questa rispetto a sé stesso, gli Occhi Invisibili lo stessero scrutando attentamente. Questo lo fece rabbrividire e si sentì molto freddo.
 
 Lasciarono la scena affollata e si diressero in una parte oscura della città dove Scrooge non era mai stato prima, sebbene riconoscesse la zona e la sua cattiva reputazione. Le vie erano luride e strette; i negozi e le case misere; la gente seminuda, ubriaca, malvestita, brutta. Vicoli e passaggi, come tante fogne, riversavano i loro escrementi di odore, sporcizia e vita nelle strade desolate; e l'intero quartiere puzzava di crimine, di sporco e di miseria.
 
-Lontano, in questo covo di infame ritrovo, si trovava un negozio con il tetto sporgente e basso sotto una [[house|casa]] a mansarda, dove si compravano ferro vecchio, stracci, bottiglie, ossa e interiora untose. Sul pavimento all'interno erano ammassati mucchi di chiavi arrugginite, chiodi, [[Chains|catene]], cardini, lima, bilance, pesi e ferro di scarto di ogni tipo. [[Secrets|Segreti]] che pochi vorrebbero esaminare erano nascosti e crescevano in [[Mountains|montagne]] di stracci sordidi, masse di grasso corrotto e sepolcri d'ossa. Seduto tra le merci che commerciava, accanto a un fornello a carbone fatto con mattoni vecchi, c'era un canaglia dai capelli grigi, quasi settantenne; che si era riparato dall'aria fredda esterna con una tenda fatiscente di stracci vari appesi a una corda e fumava la pipa in tutta la lussuosa tranquillità del ritiro.
+Lontano, in questo covo di infame ritrovo, si trovava un negozio con il tetto sporgente e basso sotto una casa a mansarda, dove si compravano ferro vecchio, stracci, bottiglie, ossa e interiora untose. Sul pavimento all'interno erano ammassati mucchi di chiavi arrugginite, chiodi, [[motifs/chains|catene]], cardini, lima, bilance, pesi e ferro di scarto di ogni tipo. [[motifs/secrets|Segreti]] che pochi vorrebbero esaminare erano nascosti e crescevano in [[settings/mountains|montagne]] di stracci sordidi, masse di grasso corrotto e sepolcri d'ossa. Seduto tra le merci che commerciava, accanto a un fornello a carbone fatto con mattoni vecchi, c'era un canaglia dai capelli grigi, quasi settantenne; che si era riparato dall'aria fredda esterna con una tenda fatiscente di stracci vari appesi a una corda e fumava la pipa in tutta la lussuosa tranquillità del ritiro.
 
-Scrooge e lo [[Phantom|spettro]] si presentarono davanti a quest'uomo proprio mentre una donna con un pesante pacco furtivamente entrava nel negozio. Ma non era ancora riuscita ad entrare che ne arrivò un'altra, carica allo stesso modo; e subito dopo venne un uomo in abiti neri sbiaditi, che rimase sorpreso quanto loro alla vista di quelle due donne, proprio come loro erano state sorprese nel riconoscersi a vicenda. Dopo un breve momento di stupore, durante il quale anche l'uomo anziano con la pipa si era unito al gruppo, tutti e tre scoppiarono in una risata.
+Scrooge e lo [[characters/phantom|spettro]] si presentarono davanti a quest'uomo proprio mentre una donna con un pesante pacco furtivamente entrava nel negozio. Ma non era ancora riuscita ad entrare che ne arrivò un'altra, carica allo stesso modo; e subito dopo venne un uomo in abiti neri sbiaditi, che rimase sorpreso quanto loro alla vista di quelle due donne, proprio come loro erano state sorprese nel riconoscersi a vicenda. Dopo un breve momento di stupore, durante il quale anche l'uomo anziano con la pipa si era unito al gruppo, tutti e tre scoppiarono in una risata.
 
-"Lasciate che la donna delle pulizie [[Alone|sia]] la prima!" gridò colei che era entrata per prima.
-"Lasciate che la lavandaia [[Alone|sia]] la seconda; e lasciate che l'uomo del becchino [[Alone|sia]] il terzo. Guardate qui, vecchio Joe, ecco un'occasione! Se non ci siamo incontrati tutti e tre qui senza volerlo!"
+"Lasciate che la donna delle pulizie sia la prima!" gridò colei che era entrata per prima.
+"Lasciate che la lavandaia sia la seconda; e lasciate che l'uomo del becchino sia il terzo. Guardate qui, vecchio Joe, ecco un'occasione! Se non ci siamo incontrati tutti e tre qui senza volerlo!"
 
 "Non avreste potuto incontrarvi in un posto migliore", disse il vecchio Joe,
 togliendosi la pipa di bocca. "Entrate nel salotto.
 Siete stato ammesso da molto tempo, sapete; e gli altri due non sono estranei. Aspettate che chiuda la porta del negozio.
-Ah! Come strida! Non credo ci sia un pezzo di metallo così arrugginito in questo posto come i suoi cardini; e sono sicuro che qui non ci sono ossa più vecchie delle mie. Ha, ha! Siamo tutti adatti alla nostra professione, siamo [[Well|ben]] abbinati. Entrate nel salotto.
+Ah! Come strida! Non credo ci sia un pezzo di metallo così arrugginito in questo posto come i suoi cardini; e sono sicuro che qui non ci sono ossa più vecchie delle mie. Ha, ha! Siamo tutti adatti alla nostra professione, siamo [[motifs/well|ben]] abbinati. Entrate nel salotto.
 Entrate nel salotto."
 
-La sala era lo spazio dietro la tenda di stracci. Il vecchio rastrellò il [[Fire|fuoco]] con una vecchia asta per scale e, dopo aver regolato la sua lampada fumosa (perché era [[Night|notte]]) col cannello della pipa, se la rimise in bocca.
+La sala era lo spazio dietro la tenda di stracci. Il vecchio rastrellò il [[motifs/fire|fuoco]] con una vecchia asta per scale e, dopo aver regolato la sua lampada fumosa (perché era [[motifs/night|notte]]) col cannello della pipa, se la rimise in bocca.
 
 Mentre faceva ciò, la donna che aveva già parlato gettò il suo fagotto sul pavimento e si sedette con fare sfacciato su uno sgabello; incrociando i gomiti sulle ginocchia e guardando con audace sfida le altre due.
 
@@ -8577,17 +8577,17 @@ donna; chi è più saggio? Non credo che ci metteremo a cercare i buchi nelle gi
 "Ma no!", dissero insieme la signora Dilber e l'uomo,
 "Speriamo di no".
 
-"Molto [[Well|bene]], allora!" gridò la donna. "Questo è sufficiente.
+"Molto [[motifs/well|bene]], allora!" gridò la donna. "Questo è sufficiente.
 Chi ne soffre di più per la perdita di alcune cose come queste?
 Non un uomo morto, immagino."
 
 «No davvero», disse la signora Dilber ridendo.
 
-"Se voleva tenerle dopo la morte, quel vecchio avaro malvagio," continuò la donna, "perché non è stato naturale da vivo? Se lo fosse stato, avrebbe avuto qualcuno che si prendesse cura di lui quando fu colpito dalla [[Death|morte]], invece di giacere lì a esalare il suo ultimo respiro, [[Alone|solo]] da solo."
+"Se voleva tenerle dopo la morte, quel vecchio avaro malvagio," continuò la donna, "perché non è stato naturale da vivo? Se lo fosse stato, avrebbe avuto qualcuno che si prendesse cura di lui quando fu colpito dalla [[motifs/death|morte]], invece di giacere lì a esalare il suo ultimo respiro, solo da solo."
 
 «È la più vera parola che sia mai stata detta», disse la signora Dilber, «è una condanna per lui».
 
-"Vorrei che fosse un giudizio un po' più severo", rispose la donna; "e lo sarebbe stato, state pur certi, se fossi riuscita a mettere le mani su qualcos'altro. Apra quel pacco, vecchio Joe, e dica il suo valore. Parli chiaro. Non ho paura di essere la prima né che loro vedano. Sappiamo [[Well|abbastanza]] bene che ci stavamo aiutando da soli, credo, prima di incontrarci qui. Non è un peccato. Apra il pacco, Joe."
+"Vorrei che fosse un giudizio un po' più severo", rispose la donna; "e lo sarebbe stato, state pur certi, se fossi riuscita a mettere le mani su qualcos'altro. Apra quel pacco, vecchio Joe, e dica il suo valore. Parli chiaro. Non ho paura di essere la prima né che loro vedano. Sappiamo [[motifs/well|abbastanza]] bene che ci stavamo aiutando da soli, credo, prima di incontrarci qui. Non è un peccato. Apra il pacco, Joe."
 
 Ma la galanteria delle sue amiche non lo permise;
 e l'uomo in nero sbiadito, salendo per primo sulla breccia,
@@ -8604,7 +8604,7 @@ La signora Dilber venne dopo. Lenzuola e asciugamani, un po' di biancheria usata
 
 «Do sempre troppo alle signore. È una mia debolezza,
 e così mi rovino», disse il vecchio Joe. «Questo è
-il suo conto. Se mi chiedesse un altro penny e lo rendesse una questione aperta, me ne pentirei di essere stato tanto generoso e toglierei mezza [[Crown|corona]].»
+il suo conto. Se mi chiedesse un altro penny e lo rendesse una questione aperta, me ne pentirei di essere stato tanto generoso e toglierei mezza [[motifs/crown|corona]].»
 
 
 
@@ -8640,7 +8640,7 @@ drop that oil upon the blankets, now."
 "Whose else's do you think?" replied the woman. "He
 isn't likely to take cold without 'em, I dare say."
 
-"I [[Hope|hope]] he didn't die of anything catching? Eh?" said
+"I [[concepts/hope|hope]] he didn't die of anything catching? Eh?" said
 old Joe, stopping in his work, and looking up.
 
 "Don't you be afraid of that," returned the woman. "I
@@ -8653,10 +8653,10 @@ They'd have wasted it, if it hadn't been for me."
 "What do you call wasting of it?" asked old Joe.
 
 "Putting it on him to be buried in, to be sure," replied
-the woman with a laugh. "Somebody was [[Fool|fool]] enough to
+the woman with a laugh. "Somebody was [[archetypes/fool|fool]] enough to
 do it, but I took it off again. If calico an't good enough for
 such a purpose, it isn't good enough for anything. It's quite
-as becoming to the [[Body|body]]. He can't look uglier than he did
+as becoming to the [[concepts/body|body]]. He can't look uglier than he did
 in that one."
 
 Scrooge listened to this dialogue in horror. As they sat
@@ -8687,9 +8687,9 @@ any accuracy, though Scrooge glanced round it in obedience
 to a secret impulse, anxious to know what kind of room it
 was. A pale light, rising in the outer air, fell straight upon
 the bed; and on it, plundered and bereft, unwatched, unwept,
-uncared for, was the [[Body|body]] of this man.
+uncared for, was the [[concepts/body|body]] of this man.
 
-Scrooge glanced towards the [[Phantom]]. Its steady hand
+Scrooge glanced towards the [[characters/phantom|Phantom]]. Its steady hand
 was pointed to the head. The cover was so carelessly adjusted
 that the slightest raising of it, the motion of a finger upon
 Scrooge's part, would have disclosed the face. He thought
@@ -8697,7 +8697,7 @@ of it, felt how easy it would be to do, and longed to do it;
 but had no more power to withdraw the veil than to dismiss
 the spectre at his side.
 
-Oh cold, cold, rigid, dreadful [[Death]], set up thine altar
+Oh cold, cold, rigid, dreadful [[motifs/death|Death]], set up thine altar
 here, and dress it with such terrors as thou hast at thy
 command: for this is thy dominion! But of the loved,
 revered, and honoured head, thou canst not turn one hair
@@ -8705,7 +8705,7 @@ to thy dread purposes, or make one feature odious. It is
 not that the hand is heavy and will fall down when released;
 it is not that the heart and pulse are still; but that the
 hand WAS open, generous, and true; the heart brave, warm,
-and tender; and the pulse a man's. Strike, [[Shadow]], strike!
+and tender; and the pulse a man's. Strike, [[archetypes/shadow|Shadow]], strike!
 And see his good deeds springing from the wound, to sow
 the world with life immortal!
 
@@ -8715,18 +8715,18 @@ thought, if this man could be raised up now, what would be
 his foremost thoughts? Avarice, hard-dealing, griping cares?
 They have brought him to a rich end, truly!
 
-He lay, in the dark empty [[house]], with not a man, a
-woman, or a [[Child|child]], to say that he was kind to me in this
-or that, and for the [[Memory|memory]] of one kind word I will be
+He lay, in the dark empty house, with not a man, a
+woman, or a [[archetypes/child|child]], to say that he was kind to me in this
+or that, and for the [[motifs/memory|memory]] of one kind word I will be
 kind to him. A cat was tearing at the door, and there was
 a sound of gnawing rats beneath the hearth-stone. What
-they wanted in the room of [[Death|death]], and why they were so
+they wanted in the room of [[motifs/death|death]], and why they were so
 restless and disturbed, Scrooge did not dare to think.
 
 "Spirit!" he said, "this is a fearful place. In leaving it,
 I shall not leave its lesson, trust me. Let us go!"
 
-Still the [[Ghost]] pointed with an unmoved finger to the
+Still the [[archetypes/ghost|Ghost]] pointed with an unmoved finger to the
 head.
 
 "I understand you," Scrooge returned, "and I would do
@@ -8736,16 +8736,16 @@ not the power."
 Again it seemed to look upon him.
 
 "If there is any person in the town, who feels emotion
-caused by this man's [[Death|death]]," said Scrooge quite agonised,
+caused by this man's [[motifs/death|death]]," said Scrooge quite agonised,
 "show that person to me, Spirit, I beseech you!"
 
-The [[Phantom]] spread its dark robe before him for a
+The [[characters/phantom|Phantom]] spread its dark robe before him for a
 moment, like a wing; and withdrawing it, revealed a room
 by daylight, where a mother and her children were.
 
 She was expecting some one, and with anxious eagerness;
 for she walked up and down the room; started at every
-sound; looked out from the [[Window|window]]; glanced at the [[Clock|clock]];
+sound; looked out from the [[motifs/window|window]]; glanced at the [[motifs/clock|clock]];
 tried, but in vain, to work with her needle; and could hardly
 bear the voices of the children in their play.
 
@@ -8779,15 +8779,15 @@ mentre lui giaceva lì?» disse Joe.
 
 «Di chi altro pensi?» rispose la donna. «Non è probabile che prenda freddo senza di esse, direi».
 
-"[[Hope|Spero]] che non sia morto di niente di contagioso? Eh?" disse il vecchio Joe, fermandosi nel suo lavoro e alzando lo sguardo.
+"[[concepts/hope|Spero]] che non sia morto di niente di contagioso? Eh?" disse il vecchio Joe, fermandosi nel suo lavoro e alzando lo sguardo.
 
 «Non abbia paura di questo», rispose la donna. «Non sono così affezionata alla sua compagnia da indugiare con lui per queste cose, anche se lo facesse. Ah! può guardare attraverso quella camicia finché gli occhi le fanno male; ma non troverà un buco né un punto consumato. È la migliore che aveva, ed è anche molto bella. L'avrebbero sprecata, se non fosse stato per me».
 
 «Che cosa chiamate spreco?» domandò il vecchio Joe.
 
 «Certo che lo metteremo su di lui per seppellirlo», rispose la donna ridendo.
-«Qualcuno è stato abbastanza [[Fool|sciocco]] da farlo, ma io l'ho tolto. Se il cotone non è sufficientemente buono
-per uno scopo del genere, allora non lo è per nulla. Sta benissimo sul [[Body|corpo]]. Non può apparire più brutto di quanto fosse in quello».
+«Qualcuno è stato abbastanza [[archetypes/fool|sciocco]] da farlo, ma io l'ho tolto. Se il cotone non è sufficientemente buono
+per uno scopo del genere, allora non lo è per nulla. Sta benissimo sul [[concepts/body|corpo]]. Non può apparire più brutto di quanto fosse in quello».
 
 Scrooge ascoltò questo dialogo con orrore. Mentre erano seduti in gruppo intorno al loro bottino, nella scarsa luce fornita dalla lampada del vecchio, li guardava con un odio e disgusto che non sarebbero potuti essere maggiori se fossero stati demoni osceni intenti a commerciare il cadavere stesso.
 
@@ -8798,38 +8798,38 @@ tirando fuori un sacchetto di flanella pieno di monete, contò sul pavimento i l
 
 Indietreggiò terrorizzato, perché la scena era cambiata e ora si trovava quasi a toccare un letto: un letto spoglio senza tende, su cui giaceva qualcosa coperto da una coperta strappata che, sebbene fosse muto, annunciava sé stesso in un linguaggio terribile.
 
-La stanza era molto buia, troppo buia per poterla osservare con precisione, sebbene Scrooge l'avesse scrutata obbedendo a un impulso segreto, desideroso di sapere che tipo di stanza fosse. Una pallida luce, proveniente dall'esterno, cadeva direttamente sul letto; e su di esso, derubato e abbandonato, senza sorveglianza, senza lacrime, senza cure, giaceva il [[Body|corpo]] di quell'uomo.
+La stanza era molto buia, troppo buia per poterla osservare con precisione, sebbene Scrooge l'avesse scrutata obbedendo a un impulso segreto, desideroso di sapere che tipo di stanza fosse. Una pallida luce, proveniente dall'esterno, cadeva direttamente sul letto; e su di esso, derubato e abbandonato, senza sorveglianza, senza lacrime, senza cure, giaceva il [[concepts/body|corpo]] di quell'uomo.
 
-Scrooge lanciò un'occhiata verso lo [[Phantom|spettro]]. La sua mano ferma era puntata sulla testa.
+Scrooge lanciò un'occhiata verso lo [[characters/phantom|spettro]]. La sua mano ferma era puntata sulla testa.
 Il lenzuolo era così malamente sistemato che il minimo sollevarlo, il movimento di un dito da parte di Scrooge,
 avrebbe rivelato il volto. Ci pensò, si rese conto di quanto sarebbe stato facile farlo e desiderò farlo;
 ma non aveva più potere di scoprire il volto che di allontanare lo spettro al suo fianco.
 
-Oh fredda, fredda, rigida e terribile [[Death|morte]], erigi qui il tuo altare e adorna con i terrori che hai a tua disposizione: perché questo è il tuo dominio! Ma della testa amata, riverita e onorata non puoi trasformare un solo capello ai tuoi spaventosi scopi o rendere odioso un singolo tratto. Non è che la mano sia pesante e cada quando viene rilasciata; non è che il cuore e il polso siano immobili, ma che la mano ERA aperta, generosa e sincera; il cuore coraggioso, caldo e tenero; e il polso quello di un uomo. Colpisci, [[Shadow|ombra]], colpisci! E vedi le sue buone azioni scaturire dalla ferita per seminare nel mondo la vita immortale!
+Oh fredda, fredda, rigida e terribile [[motifs/death|morte]], erigi qui il tuo altare e adorna con i terrori che hai a tua disposizione: perché questo è il tuo dominio! Ma della testa amata, riverita e onorata non puoi trasformare un solo capello ai tuoi spaventosi scopi o rendere odioso un singolo tratto. Non è che la mano sia pesante e cada quando viene rilasciata; non è che il cuore e il polso siano immobili, ma che la mano ERA aperta, generosa e sincera; il cuore coraggioso, caldo e tenero; e il polso quello di un uomo. Colpisci, [[archetypes/shadow|ombra]], colpisci! E vedi le sue buone azioni scaturire dalla ferita per seminare nel mondo la vita immortale!
 
 Nessuna voce pronunciò queste parole all'orecchio di Scrooge,
 eppure le udì quando guardò il letto. Pensò: se questo uomo potesse essere risuscitato ora, quali sarebbero i suoi primi pensieri? L'avarizia, gli affari spietati, le preoccupazioni tirchie?
 Hanno davvero portato a una fine ricca!
 
-Era disteso nell'oscura e vuota [[house|casa]], senza un uomo,
-una donna o un [[Child|bambino]] che potesse dire che era stato gentile con me in questo o quel momento, e per il [[Memory|ricordo]] di una sola parola gentile sarò gentile con lui. Un gatto stava graffiando la porta, e si udiva un rumore di ratti che rosicchiavano sotto la pietra del focolare. Cosa volessero nella stanza della [[Death|morte]], e perché fossero così irrequieti e agitati, Scrooge non osava nemmeno pensarci.
+Era disteso nell'oscura e vuota casa, senza un uomo,
+una donna o un [[archetypes/child|bambino]] che potesse dire che era stato gentile con me in questo o quel momento, e per il [[motifs/memory|ricordo]] di una sola parola gentile sarò gentile con lui. Un gatto stava graffiando la porta, e si udiva un rumore di ratti che rosicchiavano sotto la pietra del focolare. Cosa volessero nella stanza della [[motifs/death|morte]], e perché fossero così irrequieti e agitati, Scrooge non osava nemmeno pensarci.
 
 «Spirito!» disse «questo è un luogo spaventoso. Nell'abbandonarlo non dimenticherò la lezione che mi ha dato, credetemi. Andiamocene!»
 
-Eppure lo [[Ghost|spettro]] continuava a indicare con un dito immobile la testa.
+Eppure lo [[archetypes/ghost|spettro]] continuava a indicare con un dito immobile la testa.
 
 «Vi capisco», rispose Scrooge «e lo farei se potessi.
 Ma non ho il potere, Spirito! Non ho il potere».
 
 Ancora sembrò guardarlo.
 
-«Se c'è qualcuno in città che prova emozione per la [[Death|morte]] di quest'uomo», disse Scrooge angosciato, «mostramelo, Spirito, ti prego!»
+«Se c'è qualcuno in città che prova emozione per la [[motifs/death|morte]] di quest'uomo», disse Scrooge angosciato, «mostramelo, Spirito, ti prego!»
 
-Lo [[Phantom|spettro]] distese il suo manto scuro davanti a lui per un momento,
+Lo [[characters/phantom|spettro]] distese il suo manto scuro davanti a lui per un momento,
 come un'ala; e ritirandolo, rivelò una stanza illuminata dal sole dove si trovavano
 una madre e i suoi bambini.
 
-Aspettava qualcuno con ansiosa impazienza: camminava su e giù per la stanza, sobbalzava a ogni rumore, guardava fuori dalla [[Window|finestra]], lanciava occhiate all'[[Clock|orologio]], cercò di lavorare con l'ago ma invano, e non riusciva quasi più a sopportare le voci dei bambini che giocavano.
+Aspettava qualcuno con ansiosa impazienza: camminava su e giù per la stanza, sobbalzava a ogni rumore, guardava fuori dalla [[motifs/window|finestra]], lanciava occhiate all'[[motifs/clock|orologio]], cercò di lavorare con l'ago ma invano, e non riusciva quasi più a sopportare le voci dei bambini che giocavano.
 
 Finalmente si udì il tanto atteso colpo alla porta. Ella corse ad aprire e incontrò suo marito: un uomo dal volto segnato dalla preoccupazione e dall'abbattimento, nonostante la giovane età. In quel momento vi era in lui un'espressione notevole; una sorta di gioia seria della quale si vergognava e che cercava di reprimere.
 
@@ -8839,8 +8839,8 @@ Finalmente si udì il tanto atteso colpo alla porta. Ella corse ad aprire e inco
 
 
 He sat down to the dinner that had been hoarding for
-him by the [[Fire|fire]]; and when she asked him faintly what news
-(which was not until after a long [[Silence|silence]]), he appeared
+him by the [[motifs/fire|fire]]; and when she asked him faintly what news
+(which was not until after a long [[motifs/silence|silence]]), he appeared
 embarrassed how to answer.
 
 "Is it good?" she said, "or bad?"--to help him.
@@ -8849,56 +8849,56 @@ embarrassed how to answer.
 
 "We are quite ruined?"
 
-"No. There is [[Hope|hope]] yet, Caroline."
+"No. There is [[concepts/hope|hope]] yet, Caroline."
 
 "If he relents," she said, amazed, "there is! Nothing is
-past [[Hope|hope]], if such a miracle has happened."
+past [[concepts/hope|hope]], if such a miracle has happened."
 
 "He is past relenting," said her husband. "He is dead."
 
 She was a mild and patient creature if her face spoke
-[[Truth|truth]]; but she was thankful in her [[Soul|soul]] to hear it, and she
-said so, with clasped hands. She prayed [[Forgiveness|forgiveness]] the next
+[[concepts/truth|truth]]; but she was thankful in her [[motifs/soul|soul]] to hear it, and she
+said so, with clasped hands. She prayed [[concepts/forgiveness|forgiveness]] the next
 moment, and was sorry; but the first was the emotion of
 her heart.
 
 "What the half-drunken woman whom I told you of last
-[[Night|night]], said to me, when I tried to see him and obtain a
+[[motifs/night|night]], said to me, when I tried to see him and obtain a
 week's delay; and what I thought was a mere excuse to avoid
 me; turns out to have been quite true. He was not only
 very ill, but dying, then."
 
 "To whom will our debt be transferred?"
 
-"I don't know. But before that [[Time|time]] we shall be ready
+"I don't know. But before that [[motifs/time|time]] we shall be ready
 with the money; and even though we were not, it would be
 a bad fortune indeed to find so merciless a creditor in his
-successor. We may [[Sleep|sleep]] to-[[Night|night]] with light hearts, Caroline!"
+successor. We may [[motifs/sleep|sleep]] to-[[motifs/night|night]] with light hearts, Caroline!"
 
 Yes. Soften it as they would, their hearts were lighter.
 The children's faces, hushed and clustered round to hear what
 they so little understood, were brighter; and it was a happier
-[[house]] for this man's [[Death|death]]! The only emotion that the
-[[Ghost]] could show him, caused by the event, was one of
+house for this man's [[motifs/death|death]]! The only emotion that the
+[[archetypes/ghost|Ghost]] could show him, caused by the event, was one of
 pleasure.
 
-"Let me see some tenderness connected with a [[Death|death]]," said
+"Let me see some tenderness connected with a [[motifs/death|death]]," said
 Scrooge; "or that dark chamber, Spirit, which we left just
 now, will be for ever present to me."
 
-The [[Ghost]] conducted him through several streets familiar
+The [[archetypes/ghost|Ghost]] conducted him through several streets familiar
 to his feet; and as they went along, Scrooge looked here and
 there to find himself, but nowhere was he to be seen. They
-entered poor [[Bob Cratchit]]'s [[house]]; the dwelling he had
+entered poor [[characters/bob-cratchit|Bob Cratchit]]'s house; the dwelling he had
 visited before; and found the mother and the children seated
-round the [[Fire|fire]].
+round the [[motifs/fire|fire]].
 
 Quiet. Very quiet. The noisy little Cratchits were as
 still as statues in one corner, and sat looking up at Peter,
 who had a book before him. The mother and her daughters
 were engaged in sewing. But surely they were very quiet!
 
-"'And He took a [[Child|child]], and set him in the midst of
+"'And He took a [[archetypes/child|child]], and set him in the midst of
 them.'"
 
 Where had Scrooge heard those words? He had not
@@ -8911,12 +8911,12 @@ hand up to her face.
 
 "The colour hurts my eyes," she said.
 
-The colour? Ah, poor [[Tiny Tim]]!
+The colour? Ah, poor [[characters/tiny-tim|Tiny Tim]]!
 
 "They're better now again," said Cratchit's wife. "It
 makes them weak by candle-light; and I wouldn't show weak
-eyes to your father when he comes [[Home|home]], for the world. It
-must be near his [[Time|time]]."
+eyes to your father when he comes [[motifs/home|home]], for the world. It
+must be near his [[motifs/time|time]]."
 
 "Past it rather," Peter answered, shutting up his book.
 "But I think he has walked a little slower than he used,
@@ -8926,7 +8926,7 @@ They were very quiet again. At last she said, and in a
 steady, cheerful voice, that only faltered once:
 
 "I have known him walk with--I have known him walk
-with [[Tiny Tim]] upon his shoulder, very fast indeed."
+with [[characters/tiny-tim|Tiny Tim]] upon his shoulder, very fast indeed."
 
 "And so have I," cried Peter. "Often."
 
@@ -8940,37 +8940,37 @@ She hurried out to meet him; and little Bob in his comforter
 --he had need of it, poor fellow--came in. His tea
 was ready for him on the hob, and they all tried who should
 help him to it most. Then the two young Cratchits got
-upon his knees and laid, each [[Child|child]] a little cheek, against
+upon his knees and laid, each [[archetypes/child|child]] a little cheek, against
 his face, as if they said, "Don't mind it, father. Don't be
 grieved!"
 
 Bob was very cheerful with them, and spoke pleasantly to
 all the family. He looked at the work upon the table, and
-praised the industry and [[Speed|speed]] of Mrs. Cratchit and the girls.
-They would be done long before [[Sunday]], he said.
+praised the industry and [[characters/speed|speed]] of Mrs. Cratchit and the girls.
+They would be done long before [[characters/sunday|Sunday]], he said.
 
-"[[Sunday]]! You went to-day, then, Robert?" said his
+"[[characters/sunday|Sunday]]! You went to-day, then, Robert?" said his
 wife.
 
 "Yes, my dear," returned Bob. "I wish you could have
 gone. It would have done you good to see how green a
 place it is. But you'll see it often. I promised him that I
-would walk there on a [[Sunday]]. My little, little [[Child|child]]!"
-cried Bob. "My little [[Child|child]]!"
+would walk there on a [[characters/sunday|Sunday]]. My little, little [[archetypes/child|child]]!"
+cried Bob. "My little [[archetypes/child|child]]!"
 
 He broke down all at once. He couldn't help it. If he
-could have helped it, he and his [[Child|child]] would have been farther
+could have helped it, he and his [[archetypes/child|child]] would have been farther
 apart perhaps than they were.
 
 He left the room, and went up-stairs into the room above,
 which was lighted cheerfully, and hung with Christmas.
-There was a chair set close beside the [[Child|child]], and there were
+There was a chair set close beside the [[archetypes/child|child]], and there were
 signs of some one having been there, lately. Poor Bob sat
 down in it, and when he had thought a little and composed
 himself, he kissed the little face. He was reconciled to what
 had happened, and went down again quite happy.
 
-They drew about the [[Fire|fire]], and talked; the girls and mother
+They drew about the [[motifs/fire|fire]], and talked; the girls and mother
 working still. Bob told them of the extraordinary kindness
 of Mr. Scrooge's nephew, whom he had scarcely seen but
 once, and who, meeting him in the street that day, and seeing
@@ -8987,19 +8987,19 @@ By the bye, how he ever knew that, I don't know."
 
 "Everybody knows that!" said Peter.
 
-"Very [[Well|well]] observed, my boy!" cried Bob. "I [[Hope|hope]] they
+"Very [[motifs/well|well]] observed, my boy!" cried Bob. "I [[concepts/hope|hope]] they
 do. 'Heartily sorry,' he said, 'for your good wife. If I
 can be of service to you in any way,' he said, giving me
 his card, 'that's where I live. Pray come to me.' Now, it
 wasn't," cried Bob, "for the sake of anything he might be
 able to do for us, so much as for his kind way, that this was
 quite delightful. It really seemed as if he had known our
-[[Tiny Tim]], and felt with us."
+[[characters/tiny-tim|Tiny Tim]], and felt with us."
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Si sedette alla cena che era stata messa da parte per lui accanto al [[Fire|fuoco]]; e quando lei gli chiese debolmente quali fossero le novità (il che non avvenne prima di un lungo [[Silence|silenzio]]), sembrò imbarazzato su come rispondere.
+Si sedette alla cena che era stata messa da parte per lui accanto al [[motifs/fire|fuoco]]; e quando lei gli chiese debolmente quali fossero le novità (il che non avvenne prima di un lungo [[motifs/silence|silenzio]]), sembrò imbarazzato su come rispondere.
 
 «È buono?» disse «o cattivo?» per aiutarlo.
 
@@ -9007,38 +9007,38 @@ Si sedette alla cena che era stata messa da parte per lui accanto al [[Fire|fuoc
 
 «Siamo completamente rovinati?»
 
-"No. C'è ancora [[Hope|speranza]], Caroline".
+"No. C'è ancora [[concepts/hope|speranza]], Caroline".
 
-"Se si è pentito", disse stupita, "c'è ancora [[Hope|speranza]]! Nulla è irrimediabile se un tale miracolo è accaduto."
+"Se si è pentito", disse stupita, "c'è ancora [[concepts/hope|speranza]]! Nulla è irrimediabile se un tale miracolo è accaduto."
 
 «È troppo tardi per pentirsi», disse il marito «è morto».
 
-Era una creatura mite e paziente se il suo volto diceva la [[Truth|verità]]; ma era grata nel suo [[Soul|anima]] di sentirlo, e lo disse con le mani giunte. Pregò per ottenere [[Forgiveness|perdono]] un attimo dopo, e ne fu pentita; ma la prima era l'emozione del suo cuore.
+Era una creatura mite e paziente se il suo volto diceva la [[concepts/truth|verità]]; ma era grata nel suo [[motifs/soul|anima]] di sentirlo, e lo disse con le mani giunte. Pregò per ottenere [[concepts/forgiveness|perdono]] un attimo dopo, e ne fu pentita; ma la prima era l'emozione del suo cuore.
 
-"Quello che la donna mezzi ubriaca di cui vi parlai ieri [[Night|sera]] mi disse quando cercai di vederlo e ottenere un rinvio di una settimana; e quello che pensavo fosse solo una scusa per evitarmi, si è rivelato del tutto vero. Non era soltanto molto malato, ma morente in quel momento."
+"Quello che la donna mezzi ubriaca di cui vi parlai ieri [[motifs/night|sera]] mi disse quando cercai di vederlo e ottenere un rinvio di una settimana; e quello che pensavo fosse solo una scusa per evitarmi, si è rivelato del tutto vero. Non era soltanto molto malato, ma morente in quel momento."
 
 «A chi verrà trasferito il nostro debito?»
 
-"Non lo so. Ma prima di quel [[Time|tempo]] avremo i soldi pronti; e anche se non li avessimo, sarebbe davvero una sfortuna trovare un creditore così spietato nel suo successore. Possiamo [[Sleep|dormire]] stan [[Night|otte]] con il cuore leggero, Caroline!"
+"Non lo so. Ma prima di quel [[motifs/time|tempo]] avremo i soldi pronti; e anche se non li avessimo, sarebbe davvero una sfortuna trovare un creditore così spietato nel suo successore. Possiamo [[motifs/sleep|dormire]] stan [[motifs/night|otte]] con il cuore leggero, Caroline!"
 
 Sì. Per quanto cercassero di addolcirla, la loro anima era più leggera.
 I volti dei bambini, silenziosi e raggruppati per ascoltare ciò che comprendevano così poco,
-erano più luminosi; e fu una [[house|casa]] più felice per questa [[Death|morte]] dell'uomo! L'unica emozione
-che lo [[Ghost|Spirito]] poté mostrargli, causata dall'evento, era di piacere.
+erano più luminosi; e fu una casa più felice per questa [[motifs/death|morte]] dell'uomo! L'unica emozione
+che lo [[archetypes/ghost|Spirito]] poté mostrargli, causata dall'evento, era di piacere.
 
-"Fammi vedere un po' di tenerezza legata ad una [[Death|morte]]", disse Scrooge;
+"Fammi vedere un po' di tenerezza legata ad una [[motifs/death|morte]]", disse Scrooge;
 "altrimenti quella stanza buia, Spirito, che abbiamo appena lasciato,
 sarà per sempre presente a me".
 
-Lo [[Ghost|Spirito]] lo condusse per diverse strade familiari ai suoi piedi;
+Lo [[archetypes/ghost|Spirito]] lo condusse per diverse strade familiari ai suoi piedi;
 e mentre procedevano, Scrooge guardava qua e là per trovare se stesso,
-ma non c'era da nessuna parte. Entrarono nella [[house|casa]] del povero [[Bob Cratchit]];
+ma non c'era da nessuna parte. Entrarono nella casa del povero [[characters/bob-cratchit|Bob Cratchit]];
 l'abitazione che aveva visitato prima; e trovarono la madre e i bambini seduti
-intorno al [[Fire|fuoco]].
+intorno al [[motifs/fire|fuoco]].
 
 Silenzio. Un silenzio profondo. I piccoli e rumorosi Cratchit erano immobili come statue in un angolo, seduti con lo sguardo rivolto a Peter che aveva davanti un libro. La madre e le figlie erano impegnate nella cucitura. Ma certo che facevano silenzio!
 
-«E prese un [[Child|bambino]] e lo pose in mezzo a loro».
+«E prese un [[archetypes/child|bambino]] e lo pose in mezzo a loro».
 
 Dove aveva sentito Scrooge quelle parole? Non le aveva sognate. Il ragazzo doveva averle lette ad alta voce mentre lui e lo Spirito attraversavano la soglia. Perché non continuava?
 
@@ -9046,9 +9046,9 @@ La madre depose il suo lavoro sul tavolo e si portò la mano al viso.
 
 «Il colore mi ferisce gli occhi», disse lei.
 
-Il colore? Ah, povero [[Tiny Tim|piccolo Tim]]!
+Il colore? Ah, povero [[characters/tiny-tim|piccolo Tim]]!
 
-“Ora stanno meglio”, disse la moglie di Cratchit. “La luce delle candele li rende deboli; e io non mostrerei mai a tuo padre occhi deboli quando tornerà [[Home|a casa]], per niente al mondo. Deve essere quasi il suo [[Time|orario]].”
+“Ora stanno meglio”, disse la moglie di Cratchit. “La luce delle candele li rende deboli; e io non mostrerei mai a tuo padre occhi deboli quando tornerà [[motifs/home|a casa]], per niente al mondo. Deve essere quasi il suo [[motifs/time|orario]].”
 
 «Piuttosto è passato oltre», rispose Pietro chiudendo il libro. «Ma credo che negli ultimi pochi sere abbia camminato un po' più lentamente del solito, mamma».
 
@@ -9056,7 +9056,7 @@ Rimanevano di nuovo molto tranquilli. Alla fine lei disse,
 e con voce ferma e allegra che vacillò solo una volta:
 
 "Lo ho visto camminare con -- lo ho visto camminare
-con [[Tiny Tim|Timmy Piccolo]] sulla spalla, davvero molto velocemente."
+con [[characters/tiny-tim|Timmy Piccolo]] sulla spalla, davvero molto velocemente."
 
 «E così ho fatto anch'io», esclamò Pietro «spesso».
 
@@ -9064,22 +9064,22 @@ con [[Tiny Tim|Timmy Piccolo]] sulla spalla, davvero molto velocemente."
 
 «Ma lui era molto leggero da portare», riprese lei, concentrata sul suo lavoro, «e suo padre lo amava così tanto che non era affatto un problema: nessun problema. E là c'è tuo padre sulla porta!»
 
-Lei uscì di corsa per incontrarlo; e il piccolo Bob con la sua sciarpa — ne aveva bisogno, poveretto — entrò. Il suo tè era pronto sul focolare, e tutti cercarono di aiutarlo a servirsi. Poi i due giovani Cratchit gli salirono in grembo e appoggiarono, ciascun [[Child|bambino]], una guancia contro il suo viso, come se volessero dire: "Non pensarci più, papà. Non essere triste!"
+Lei uscì di corsa per incontrarlo; e il piccolo Bob con la sua sciarpa — ne aveva bisogno, poveretto — entrò. Il suo tè era pronto sul focolare, e tutti cercarono di aiutarlo a servirsi. Poi i due giovani Cratchit gli salirono in grembo e appoggiarono, ciascun [[archetypes/child|bambino]], una guancia contro il suo viso, come se volessero dire: "Non pensarci più, papà. Non essere triste!"
 
-Bob fu molto allegro con loro e parlò in modo piacevole a tutta la famiglia. Guardò il lavoro sul tavolo, e lodò l'industria e la [[Speed|rapidità]] della signora Cratchit e delle ragazze. Sarebbero state finite ben prima di [[Sunday|domenica]], disse.
+Bob fu molto allegro con loro e parlò in modo piacevole a tutta la famiglia. Guardò il lavoro sul tavolo, e lodò l'industria e la [[characters/speed|rapidità]] della signora Cratchit e delle ragazze. Sarebbero state finite ben prima di [[characters/sunday|domenica]], disse.
 
-«[[Sunday|Domenica]]! Sei andato oggi, allora, Robert?» disse sua moglie.
+«[[characters/sunday|Domenica]]! Sei andato oggi, allora, Robert?» disse sua moglie.
 
-"Sì, mia cara", rispose Bob. "Avrei voluto che tu ci fossi potuta andare. Ti avrebbe fatto bene vedere quanto è verde quel posto. Ma lo vedrai spesso. Gli ho promesso che sarei andato a piedi la [[Sunday|domenica]]. La mia piccola, piccolissima [[Child|bambina]]!" esclamò Bob. "La mia piccola [[Child|bambina]]!"
+"Sì, mia cara", rispose Bob. "Avrei voluto che tu ci fossi potuta andare. Ti avrebbe fatto bene vedere quanto è verde quel posto. Ma lo vedrai spesso. Gli ho promesso che sarei andato a piedi la [[characters/sunday|domenica]]. La mia piccola, piccolissima [[archetypes/child|bambina]]!" esclamò Bob. "La mia piccola [[archetypes/child|bambina]]!"
 
-Si sgretolò tutto in una volta. Non poteva farne a meno. Se avesse potuto evitarlo, lui e il suo [[Child|bambino]] sarebbero stati forse più lontani di quanto non fossero.
+Si sgretolò tutto in una volta. Non poteva farne a meno. Se avesse potuto evitarlo, lui e il suo [[archetypes/child|bambino]] sarebbero stati forse più lontani di quanto non fossero.
 
 Uscì dalla stanza e salì al piano di sopra, dove c'era una camera illuminata allegramente e addobbata per il Natale.
-C'era una sedia accanto al [[Child|bambino]], e si vedeva che qualcuno era stato lì poco prima. Il povero Bob vi si sedette,
+C'era una sedia accanto al [[archetypes/child|bambino]], e si vedeva che qualcuno era stato lì poco prima. Il povero Bob vi si sedette,
 e dopo aver riflettuto un po' e essersi ripreso, baciò il visetto.
 Si era rassegnato a quanto era accaduto ed era di nuovo felice mentre scendeva giù.
 
-Si radunarono intorno al [[Fire|fuoco]] e parlarono; le ragazze e la madre continuarono a lavorare. Bob raccontò loro della straordinaria gentilezza del nipote di Mr. Scrooge, che aveva visto appena una volta, e che incontrandolo in strada quel giorno, e vedendo che sembrava un po'--"solo un po' giù, sapete," disse Bob, gli chiese cosa fosse successo per addolorarlo. "Allora," continuò Bob, "perché è il gentiluomo più piacevole di cui abbiate mai sentito parlare, glielo raccontai. 'Mi dispiace molto,' mi disse, 'Mr. Cratchit, e mi dispiace anche per sua moglie.' A proposito, non so come abbia fatto a saperlo."
+Si radunarono intorno al [[motifs/fire|fuoco]] e parlarono; le ragazze e la madre continuarono a lavorare. Bob raccontò loro della straordinaria gentilezza del nipote di Mr. Scrooge, che aveva visto appena una volta, e che incontrandolo in strada quel giorno, e vedendo che sembrava un po'--"solo un po' giù, sapete," disse Bob, gli chiese cosa fosse successo per addolorarlo. "Allora," continuò Bob, "perché è il gentiluomo più piacevole di cui abbiate mai sentito parlare, glielo raccontai. 'Mi dispiace molto,' mi disse, 'Mr. Cratchit, e mi dispiace anche per sua moglie.' A proposito, non so come abbia fatto a saperlo."
 
 «Sapeva cosa, mia cara?»
 
@@ -9087,14 +9087,14 @@ Si radunarono intorno al [[Fire|fuoco]] e parlarono; le ragazze e la madre conti
 
 «Tutti lo sanno!» disse Pietro.
 
-"Ottima [[Well|osservazione]], ragazzo mio!" esclamò Bob. "Spero che lo facciano. 'Mi dispiace molto,' ha detto, 'per tua moglie. Se posso esserti utile in qualche modo,' ha aggiunto porgendomi il suo biglietto da visita, 'questa è la mia abitazione. Ti prego di venire a trovarmi.' Ora," esclamò Bob, "non era tanto per qualcosa che avrebbe potuto fare per noi quanto per il suo modo gentile che questo era davvero delizioso. Sembrava proprio che conoscesse nostro [[Tiny Tim|Timmy]] e provasse le nostre stesse emozioni."
+"Ottima [[motifs/well|osservazione]], ragazzo mio!" esclamò Bob. "Spero che lo facciano. 'Mi dispiace molto,' ha detto, 'per tua moglie. Se posso esserti utile in qualche modo,' ha aggiunto porgendomi il suo biglietto da visita, 'questa è la mia abitazione. Ti prego di venire a trovarmi.' Ora," esclamò Bob, "non era tanto per qualcosa che avrebbe potuto fare per noi quanto per il suo modo gentile che questo era davvero delizioso. Sembrava proprio che conoscesse nostro [[characters/tiny-tim|Timmy]] e provasse le nostre stesse emozioni."
 
 
 
 <span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_05" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 5)" data-chapter="THE LAST OF THE SPIRITS" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/death,motif/grave,motif/nature,motif/prayer,motif/soul,motif/time,motif/window,concept/honour,concept/hope,concept/nature,setting/court,character/ebenezer_scrooge,character/ghost_of_christmas_yet_to_come,character/phantom,character/tiny_tim"></span>
 
 
-"I'm sure he's a good [[Soul|soul]]!" said Mrs. Cratchit.
+"I'm sure he's a good [[motifs/soul|soul]]!" said Mrs. Cratchit.
 
 "You would be surer of it, my dear," returned Bob, "if
 you saw and spoke to him. I shouldn't be at all surprised--
@@ -9108,17 +9108,17 @@ company with some one, and setting up for himself."
 "Get along with you!" retorted Peter, grinning.
 
 "It's just as likely as not," said Bob, "one of these days;
-though there's plenty of [[Time|time]] for that, my dear. But however
+though there's plenty of [[motifs/time|time]] for that, my dear. But however
 and whenever we part from one another, I am sure we
-shall none of us forget poor [[Tiny Tim]]--shall we--or this
+shall none of us forget poor [[characters/tiny-tim|Tiny Tim]]--shall we--or this
 first parting that there was among us?"
 
 "Never, father!" cried they all.
 
 "And I know," said Bob, "I know, my dears, that when
 we recollect how patient and how mild he was; although he
-was a little, little [[Child|child]]; we shall not quarrel easily among
-ourselves, and forget poor [[Tiny Tim]] in doing it."
+was a little, little [[archetypes/child|child]]; we shall not quarrel easily among
+ourselves, and forget poor [[characters/tiny-tim|Tiny Tim]] in doing it."
 
 "No, never, father!" they all cried again.
 
@@ -9126,37 +9126,37 @@ ourselves, and forget poor [[Tiny Tim]] in doing it."
 
 Mrs. Cratchit kissed him, his daughters kissed him, the
 two young Cratchits kissed him, and Peter and himself shook
-hands. Spirit of [[Tiny Tim]], thy childish essence was from
+hands. Spirit of [[characters/tiny-tim|Tiny Tim]], thy childish essence was from
 God!
 
 "Spectre," said Scrooge, "something informs me that our
 parting moment is at hand. I know it, but I know not
 how. Tell me what man that was whom we saw lying dead?"
 
-The [[Ghost of Christmas Yet to Come|Ghost of Christmas Yet To Come]] conveyed him, as
-before--though at a different [[Time|time]], he thought: indeed, there
+The [[characters/ghost-of-christmas-yet-to-come|Ghost of Christmas Yet To Come]] conveyed him, as
+before--though at a different [[motifs/time|time]], he thought: indeed, there
 seemed no order in these latter visions, save that they were
 in the Future--into the resorts of business men, but showed
 him not himself. Indeed, the Spirit did not stay for anything,
 but went straight on, as to the end just now desired,
 until besought by Scrooge to tarry for a moment.
 
-"This [[Court|court]]," said Scrooge, "through which we hurry now,
+"This [[settings/court|court]]," said Scrooge, "through which we hurry now,
 is where my place of occupation is, and has been for a length
-of [[Time|time]]. I see the [[house]]. Let me behold what I shall be,
+of [[motifs/time|time]]. I see the house. Let me behold what I shall be,
 in days to come!"
 
 The Spirit stopped; the hand was pointed elsewhere.
 
-"The [[house]] is yonder," Scrooge exclaimed. "Why do you
+"The house is yonder," Scrooge exclaimed. "Why do you
 point away?"
 
 The inexorable finger underwent no change.
 
-Scrooge hastened to the [[Window|window]] of his office, and looked
+Scrooge hastened to the [[motifs/window|window]] of his office, and looked
 in. It was an office still, but not his. The furniture was
 not the same, and the figure in the chair was not himself.
-The [[Phantom]] pointed as before.
+The [[characters/phantom|Phantom]] pointed as before.
 
 He joined it once again, and wondering why and whither
 he had gone, accompanied it until they reached an iron gate.
@@ -9165,12 +9165,12 @@ He paused to look round before entering.
 A churchyard. Here, then; the wretched man whose name
 he had now to learn, lay underneath the ground. It was a
 worthy place. Walled in by houses; overrun by grass and
-weeds, the growth of vegetation's [[Death|death]], not life; choked up
+weeds, the growth of vegetation's [[motifs/death|death]], not life; choked up
 with too much burying; fat with repleted appetite. A
 worthy place!
 
 The Spirit stood among the graves, and pointed down to
-One. He advanced towards it trembling. The [[Phantom]] was
+One. He advanced towards it trembling. The [[characters/phantom|Phantom]] was
 exactly as it had been, but he dreaded that he saw new
 meaning in its solemn shape.
 
@@ -9179,7 +9179,7 @@ said Scrooge, "answer me one question. Are these the
 shadows of the things that Will be, or are they shadows of
 things that May be, only?"
 
-Still the [[Ghost]] pointed downward to the [[Grave|grave]] by which
+Still the [[archetypes/ghost|Ghost]] pointed downward to the [[motifs/grave|grave]] by which
 it stood.
 
 "Men's courses will foreshadow certain ends, to which, if
@@ -9191,12 +9191,12 @@ The Spirit was immovable as ever.
 
 Scrooge crept towards it, trembling as he went; and
 following the finger, read upon the stone of the neglected
-[[Grave|grave]] his own name, [[Ebenezer Scrooge|EBENEZER SCROOGE]].
+[[motifs/grave|grave]] his own name, [[characters/ebenezer-scrooge|EBENEZER SCROOGE]].
 
 "Am I that man who lay upon the bed?" he cried, upon
 his knees.
 
-The finger pointed from the [[Grave|grave]] to him, and back again.
+The finger pointed from the [[motifs/grave|grave]] to him, and back again.
 
 "No, Spirit! Oh no, no!"
 
@@ -9205,18 +9205,18 @@ The finger still was there.
 "Spirit!" he cried, tight clutching at its robe, "hear me!
 I am not the man I was. I will not be the man I must
 have been but for this intercourse. Why show me this, if I
-am past all [[Hope|hope]]!"
+am past all [[concepts/hope|hope]]!"
 
-For the first [[Time|time]] the hand appeared to shake.
+For the first [[motifs/time|time]] the hand appeared to shake.
 
 "Good Spirit," he pursued, as down upon the ground he
-fell before it: "Your [[Nature|nature]] intercedes for me, and pities
+fell before it: "Your [[concepts/nature|nature]] intercedes for me, and pities
 me. Assure me that I yet may change these shadows you
 have shown me, by an altered life!"
 
 The kind hand trembled.
 
-"I will [[Honour|honour]] Christmas in my heart, and try to keep it
+"I will [[concepts/honour|honour]] Christmas in my heart, and try to keep it
 all the year. I will live in the Past, the Present, and the
 Future. The Spirits of all Three shall strive within me. I
 will not shut out the lessons that they teach. Oh, tell me I
@@ -9226,14 +9226,14 @@ In his agony, he caught the spectral hand. It sought to
 free itself, but he was strong in his entreaty, and detained it.
 The Spirit, stronger yet, repulsed him.
 
-Holding up his hands in a last [[prayer]] to have his fate
-reversed, he saw an alteration in the [[Phantom]]'s hood and dress.
+Holding up his hands in a last [[motifs/prayer|prayer]] to have his fate
+reversed, he saw an alteration in the [[characters/phantom|Phantom]]'s hood and dress.
 It shrunk, collapsed, and dwindled down into a bedpost.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-"Ne sono sicura che è una buona [[Soul|persona]]!" disse la signora Cratchit.
+"Ne sono sicura che è una buona [[motifs/soul|persona]]!" disse la signora Cratchit.
 
 «Ne sareste più certa, mia cara», rispose Bob, «se lo vedeste e gli parlaste. Non mi stupirei affatto - fate attenzione a quello che dico! - se trovasse a Peter una situazione migliore».
 
@@ -9244,61 +9244,61 @@ It shrunk, collapsed, and dwindled down into a bedpost.
 «Andatevene!» ribatté Peter, sogghignando.
 
 "È altrettanto probabile che no," disse Bob, "che un giorno accada;
-anche se c'è ancora molto [[Time|tempo]] per questo, mia cara. Ma comunque e quando ci separeremo l'uno dall'altra, sono sicuro che nessuno di noi dimenticherà il povero [[Tiny Tim]] - lo faremo? - o questa prima separazione tra noi?"
+anche se c'è ancora molto [[motifs/time|tempo]] per questo, mia cara. Ma comunque e quando ci separeremo l'uno dall'altra, sono sicuro che nessuno di noi dimenticherà il povero [[characters/tiny-tim|Tiny Tim]] - lo faremo? - o questa prima separazione tra noi?"
 
 «Mai, padre!» gridarono tutti.
 
-"E lo so," disse Bob, "lo so, miei cari, che quando ci ricorderemo quanto era paziente e mite; sebbene fosse un piccolo, piccolo [[Child|bambino]]; non litigheremo facilmente tra di noi e dimenticheremo il povero [[Tiny Tim]] facendolo."
+"E lo so," disse Bob, "lo so, miei cari, che quando ci ricorderemo quanto era paziente e mite; sebbene fosse un piccolo, piccolo [[archetypes/child|bambino]]; non litigheremo facilmente tra di noi e dimenticheremo il povero [[characters/tiny-tim|Tiny Tim]] facendolo."
 
 «No, mai, padre!» gridarono di nuovo tutti quanti.
 
 «Sono molto felice», disse il piccolo Bob, «sono molto felice!»
 
 La signora Cratchit lo baciò, le sue figlie lo baciarono,
-i due giovani Cratchit lo baciarono e Pietro e lui si strinsero la mano. Spirito di [[Tiny Tim|Timmy]], la tua essenza infantile era di Dio!
+i due giovani Cratchit lo baciarono e Pietro e lui si strinsero la mano. Spirito di [[characters/tiny-tim|Timmy]], la tua essenza infantile era di Dio!
 
 «Spettro», disse Scrooge, «qualcosa mi fa pensare che il nostro momento di separazione sia vicino. Lo so, ma non so come. Dimmi chi era quell'uomo che abbiamo visto giacere morto?»
 
-Lo [[Ghost of Christmas Yet to Come|Spirito del Natale che verrà]] lo condusse come prima - sebbene in un momento diverso, pensò: infatti non sembrava esserci alcun ordine in queste ultime visioni, a parte il fatto che appartenevano al Futuro - nei luoghi di ritrovo degli uomini d'affari, ma non gli mostrò se stesso. Infatti lo Spirito non si fermò per nulla, ma proseguì diritto, come verso la fine appena desiderata, finché Scrooge lo pregò di trattenersi un momento.
+Lo [[characters/ghost-of-christmas-yet-to-come|Spirito del Natale che verrà]] lo condusse come prima - sebbene in un momento diverso, pensò: infatti non sembrava esserci alcun ordine in queste ultime visioni, a parte il fatto che appartenevano al Futuro - nei luoghi di ritrovo degli uomini d'affari, ma non gli mostrò se stesso. Infatti lo Spirito non si fermò per nulla, ma proseguì diritto, come verso la fine appena desiderata, finché Scrooge lo pregò di trattenersi un momento.
 
-«Questo [[Court|tribunale]],» disse Scrooge, «attraverso il quale ci stiamo affrettando ora,
+«Questo [[settings/court|tribunale]],» disse Scrooge, «attraverso il quale ci stiamo affrettando ora,
 è dove si trova la mia sede di lavoro e lo è stata per un lungo
-periodo di [[Time|tempo]]. Vedrei la [[house|casa]]. Fammi vedere che cosa sarò,
+periodo di [[motifs/time|tempo]]. Vedrei la casa. Fammi vedere che cosa sarò,
 nei giorni a venire!»
 
 Lo Spirito si fermò; la mano era puntata altrove.
 
-"La [[house|casa]] è laggiù", esclamò Scrooge, "perché mi indichi una direzione diversa?"
+"La casa è laggiù", esclamò Scrooge, "perché mi indichi una direzione diversa?"
 
 Il dito implacabile non subì alcun cambiamento.
 
-Scrooge si affrettò alla [[Window|finestra]] del suo ufficio e guardò dentro. Era ancora un ufficio, ma non il suo. I mobili non erano gli stessi, e la figura seduta sulla sedia non era lui. Lo [[Phantom|Spettro]] indicava come prima.
+Scrooge si affrettò alla [[motifs/window|finestra]] del suo ufficio e guardò dentro. Era ancora un ufficio, ma non il suo. I mobili non erano gli stessi, e la figura seduta sulla sedia non era lui. Lo [[characters/phantom|Spettro]] indicava come prima.
 
 Si unì di nuovo a essa e, chiedendosi perché e dove fosse andato,
 la seguì fino a quando non arrivarono davanti a un cancello di ferro.
 Si fermò per guardarsi intorno prima di entrare.
 
-Un cimitero. Ecco dunque dove giaceva sottoterra l’infelice uomo il cui nome ora gli toccava conoscere. Era un luogo degno di nota. Cinto da case, invaso dall'erba e dalle erbacce, frutto della [[Death|morte]] della vegetazione, non della sua vita; ostruito da troppe sepolture; sazio per aver troppo mangiato. Un luogo davvero degno!
+Un cimitero. Ecco dunque dove giaceva sottoterra l’infelice uomo il cui nome ora gli toccava conoscere. Era un luogo degno di nota. Cinto da case, invaso dall'erba e dalle erbacce, frutto della [[motifs/death|morte]] della vegetazione, non della sua vita; ostruito da troppe sepolture; sazio per aver troppo mangiato. Un luogo davvero degno!
 
 Lo Spirito si ergeva tra le tombe e indicava una di esse.
-Si avvicinò tremante. Il [[Phantom|fantasma]] era esattamente come prima,
+Si avvicinò tremante. Il [[characters/phantom|fantasma]] era esattamente come prima,
 ma temeva che la sua solenne forma nascondesse un nuovo significato.
 
 «Prima di avvicinarmi a quella pietra che mi indicaste»,
 disse Scrooge «rispondetemi a una domanda. Sono queste le ombre delle cose che Saranno, oppure sono esse le ombre delle cose che Potranno essere?»
 
-Eppure lo [[Ghost|spettro]] continuava a indicare verso il basso la [[Grave|tomba]] presso cui si trovava.
+Eppure lo [[archetypes/ghost|spettro]] continuava a indicare verso il basso la [[motifs/grave|tomba]] presso cui si trovava.
 
 «Le azioni degli uomini prefigurano certi risultati ai quali, se perseverano, devono condurre», disse Scrooge «ma se le azioni cambiano i risultati saranno diversi. Dite che è così per ciò che mi mostrate!»
 
 Lo Spirito rimase immobile come sempre.
 
-Scrooge si avvicinò a esso con passo furtivo e tremante; seguendo il dito, lesse sulla pietra della tomba trascurata il proprio nome: [[Grave|tomba]] [[Ebenezer Scrooge|EBENEZER SCROOGE]].
+Scrooge si avvicinò a esso con passo furtivo e tremante; seguendo il dito, lesse sulla pietra della tomba trascurata il proprio nome: [[motifs/grave|tomba]] [[characters/ebenezer-scrooge|EBENEZER SCROOGE]].
 
 «Sono io quell'uomo che giaceva sul letto?» gridò,
 in ginocchio.
 
-Il dito puntava dalla [[Grave|tomba]] verso di lui e poi tornava indietro.
+Il dito puntava dalla [[motifs/grave|tomba]] verso di lui e poi tornava indietro.
 
 “No, Spirito! Oh no, no!”
 
@@ -9306,20 +9306,20 @@ Il dito era ancora lì.
 
 "Spirito!", gridò stringendo saldamente la sua veste, "ascoltami!
 Non sono più l'uomo che ero. Non sarò mai l'uomo che sarei stato senza questo incontro.
-Perché mostrarmi tutto ciò se non c'è più alcuna [[Hope|speranza]] per me!"
+Perché mostrarmi tutto ciò se non c'è più alcuna [[concepts/hope|speranza]] per me!"
 
-Per la prima [[Time|volta]] la mano sembrò tremare.
+Per la prima [[motifs/time|volta]] la mano sembrò tremare.
 
-"Buon Spirito," proseguì cadendo a terra davanti ad esso: "la tua [[Nature|natura]] intercede per me e mi compatisce. Assicurami che posso ancora cambiare queste ombre che mi hai mostrato, vivendo in modo diverso!"
+"Buon Spirito," proseguì cadendo a terra davanti ad esso: "la tua [[concepts/nature|natura]] intercede per me e mi compatisce. Assicurami che posso ancora cambiare queste ombre che mi hai mostrato, vivendo in modo diverso!"
 
 La mano gentile tremava.
 
-"Onorerò il Natale nel mio cuore e cercherò di mantenerlo tutto l'anno. Vivrò nel Passato, nel Presente e nel Futuro. Gli Spiriti dei Tre si sforzeranno dentro di me. Non respingerò le lezioni che insegnano. Oh, ditemi che posso cancellare la scritta su questa [[Honour|pietra]]!"
+"Onorerò il Natale nel mio cuore e cercherò di mantenerlo tutto l'anno. Vivrò nel Passato, nel Presente e nel Futuro. Gli Spiriti dei Tre si sforzeranno dentro di me. Non respingerò le lezioni che insegnano. Oh, ditemi che posso cancellare la scritta su questa [[concepts/honour|pietra]]!"
 
 Nella sua agonia afferrò la mano spettrale. Essa cercava di liberarsi, ma lui era forte nelle sue preghiere e la tratteneva. Lo Spirito, ancora più forte, lo respinse.
 
-Alzando le mani in un ultimo [[prayer|prego]] per avere il suo destino invertito,
-vide una trasformazione nel cappuccio e nell'abito del [[Phantom|Fantasma]]. Si ridusse, si accartocciò e diminuì fino a diventare un montante di letto.
+Alzando le mani in un ultimo [[motifs/prayer|prego]] per avere il suo destino invertito,
+vide una trasformazione nel cappuccio e nell'abito del [[characters/phantom|Fantasma]]. Si ridusse, si accartocciò e diminuì fino a diventare un montante di letto.
 
 
 
@@ -9329,19 +9329,19 @@ vide una trasformazione nel cappuccio e nell'abito del [[Phantom|Fantasma]]. Si 
 STAVE V:  THE END OF IT
 
 YES! and the bedpost was his own. The bed was his own,
-the room was his own. Best and happiest of all, the [[Time]]
+the room was his own. Best and happiest of all, the [[motifs/time|Time]]
 before him was his own, to make amends in!
 
 "I will live in the Past, the Present, and the Future!"
 Scrooge repeated, as he scrambled out of bed. "The Spirits
-of all Three shall strive within me. Oh [[Jacob Marley]]!
-Heaven, and the Christmas [[Time]] be praised for this! I say
+of all Three shall strive within me. Oh [[characters/jacob-marley|Jacob Marley]]!
+Heaven, and the Christmas [[motifs/time|Time]] be praised for this! I say
 it on my knees, old Jacob; on my knees!"
 
 He was so fluttered and so glowing with his good intentions,
 that his broken voice would scarcely answer to his
 call. He had been sobbing violently in his conflict with the
-Spirit, and his face was wet with [[Tears|tears]].
+Spirit, and his face was wet with [[motifs/tears|tears]].
 
 "They are not torn down," cried Scrooge, folding one of
 his bed-curtains in his arms, "they are not torn down, rings
@@ -9349,7 +9349,7 @@ and all. They are here--I am here--the shadows of the
 things that would have been, may be dispelled. They will
 be. I know they will!"
 
-His hands were busy with his garments all this [[Time|time]];
+His hands were busy with his garments all this [[motifs/time|time]];
 turning them inside out, putting them on upside down,
 tearing them, mislaying them, making them parties to every
 kind of extravagance.
@@ -9367,9 +9367,9 @@ there: perfectly winded.
 
 "There's the saucepan that the gruel was in!" cried
 Scrooge, starting off again, and going round the fireplace.
-"There's the door, by which the [[Ghost]] of [[Jacob Marley]]
-entered! There's the corner where the [[Ghost]] of Christmas
-Present, sat! There's the [[Window|window]] where I saw the wandering
+"There's the door, by which the [[archetypes/ghost|Ghost]] of [[characters/jacob-marley|Jacob Marley]]
+entered! There's the corner where the [[archetypes/ghost|Ghost]] of Christmas
+Present, sat! There's the [[motifs/window|window]] where I saw the wandering
 Spirits! It's all right, it's all true, it all happened.
 Ha ha ha!"
 
@@ -9388,24 +9388,24 @@ out the lustiest peals he had ever heard. Clash, clang,
 hammer; ding, dong, bell. Bell, dong, ding; hammer, clang,
 clash! Oh, glorious, glorious!
 
-Running to the [[Window|window]], he opened it, and put out his
+Running to the [[motifs/window|window]], he opened it, and put out his
 head. No fog, no mist; clear, bright, jovial, stirring, cold;
-cold, piping for the [[Blood|blood]] to [[Dance|dance]] to; Golden sunlight;
-Heavenly sky; sweet fresh air; merry [[Bells|bells]]. Oh, glorious!
+cold, piping for the [[motifs/blood|blood]] to [[motifs/dance|dance]] to; Golden sunlight;
+Heavenly sky; sweet fresh air; merry [[motifs/bells|bells]]. Oh, glorious!
 Glorious!
 
 "What's to-day!" cried Scrooge, calling downward to a
-boy in [[Sunday]] clothes, who perhaps had loitered in to look
+boy in [[characters/sunday|Sunday]] clothes, who perhaps had loitered in to look
 about him.
 
-"EH?" returned the boy, with all his might of [[Wonder|wonder]].
+"EH?" returned the boy, with all his might of [[concepts/wonder|wonder]].
 
 "What's to-day, my fine fellow?" said Scrooge.
 
 "To-day!" replied the boy. "Why, CHRISTMAS DAY."
 
 "It's Christmas Day!" said Scrooge to himself. "I
-haven't missed it. The Spirits have done it all in one [[Night|night]].
+haven't missed it. The Spirits have done it all in one [[motifs/night|night]].
 They can do anything they like. Of course they can. Of
 course they can. Hallo, my fine fellow!"
 
@@ -9414,7 +9414,7 @@ course they can. Hallo, my fine fellow!"
 "Do you know the Poulterer's, in the next street but one,
 at the corner?" Scrooge inquired.
 
-"I should [[Hope|hope]] I did," replied the lad.
+"I should [[concepts/hope|hope]] I did," replied the lad.
 
 "An intelligent boy!" said Scrooge. "A remarkable boy!
 Do you know whether they've sold the prize Turkey that
@@ -9436,14 +9436,14 @@ to talk to him. Yes, my buck!"
 it, and tell 'em to bring it here, that I may give them the
 direction where to take it. Come back with the man, and
 I'll give you a shilling. Come back with him in less than
-five minutes and I'll give you half-a-[[Crown|crown]]!"
+five minutes and I'll give you half-a-[[motifs/crown|crown]]!"
 
 The boy was off like a shot. He must have had a steady
 hand at a trigger who could have got a shot off half so fast.
 
-"I'll send it to [[Bob Cratchit]]'s!" whispered Scrooge,
+"I'll send it to [[characters/bob-cratchit|Bob Cratchit]]'s!" whispered Scrooge,
 rubbing his hands, and splitting with a laugh. "He sha'n't
-know who sends it. It's twice the size of [[Tiny Tim]]. Joe
+know who sends it. It's twice the size of [[characters/tiny-tim|Tiny Tim]]. Joe
 Miller never made such a joke as sending it to Bob's
 will be!"
 
@@ -9453,7 +9453,7 @@ open the street door, ready for the coming of the poulterer's
 man. As he stood there, waiting his arrival, the knocker
 caught his eye.
 
-"I shall [[Love|love]] it, as long as I live!" cried Scrooge, patting
+"I shall [[motifs/love|love]] it, as long as I live!" cried Scrooge, patting
 it with his hand. "I scarcely ever looked at it before.
 What an honest expression it has in its face! It's a
 wonderful knocker!--Here's the Turkey! Hallo! Whoop!
@@ -9475,13 +9475,13 @@ chuckled till he cried.
 
 Shaving was not an easy task, for his hand continued to
 shake very much; and shaving requires attention, even when
-you don't [[Dance|dance]] while you are at it. But if he had cut the
+you don't [[motifs/dance|dance]] while you are at it. But if he had cut the
 end of his nose off, he would have put a piece of
 sticking-plaister over it, and been quite satisfied.
 
 He dressed himself "all in his best," and at last got out
-into the streets. The people were by this [[Time|time]] pouring forth,
-as he had seen them with the [[Ghost of Christmas Present]];
+into the streets. The people were by this [[motifs/time|time]] pouring forth,
+as he had seen them with the [[characters/ghost-of-christmas-present|Ghost of Christmas Present]];
 and walking with his hands behind him, Scrooge regarded
 every one with a delighted smile. He looked so irresistibly
 pleasant, in a word, that three or four good-humoured fellows
@@ -9495,17 +9495,17 @@ sounds he had ever heard, those were the blithest in his ears.
 CAPITOLO V: LA FINE
 
 SI'! e il montante del letto era proprio suo. Il letto era proprio suo,
-la stanza era tutta sua. E la cosa migliore di tutte, quella che lo rendeva più felice, era che il [[Time|tempo]]
+la stanza era tutta sua. E la cosa migliore di tutte, quella che lo rendeva più felice, era che il [[motifs/time|tempo]]
 che aveva davanti a sé gli apparteneva, e poteva usarlo per fare ammenda!
 
 "Vivrò nel Passato, nel Presente e nel Futuro!"
-ripeté Scrooge mentre si arrampicava fuori dal letto. "Gli Spiriti di tutti e tre lottano dentro di me. Oh [[Jacob Marley]]! Sia lodato il Cielo e il [[Time|tempo]] del Natale per questo! Lo dico in ginocchio, vecchio Jacob; in ginocchio!"
+ripeté Scrooge mentre si arrampicava fuori dal letto. "Gli Spiriti di tutti e tre lottano dentro di me. Oh [[characters/jacob-marley|Jacob Marley]]! Sia lodato il Cielo e il [[motifs/time|tempo]] del Natale per questo! Lo dico in ginocchio, vecchio Jacob; in ginocchio!"
 
-Era così agitato e così acceso dalle sue buone intenzioni che la sua voce roca a malapena rispondeva al suo appello. Aveva pianto disperatamente nel suo conflitto con lo Spirito, e il suo volto era bagnato di [[Tears|lacrime]].
+Era così agitato e così acceso dalle sue buone intenzioni che la sua voce roca a malapena rispondeva al suo appello. Aveva pianto disperatamente nel suo conflitto con lo Spirito, e il suo volto era bagnato di [[motifs/tears|lacrime]].
 
 «Non sono stati abbattuti», gridò Scrooge avvolgendo uno dei suoi tendaggi del letto tra le braccia, «non sono stati abbattuti, anelli e tutto. Sono qui — io sono qui — le ombre delle cose che sarebbero potute accadere possono essere disperse. Lo saranno. So che lo saranno!»
 
-Le sue mani erano occupate con i suoi vestiti tutto questo [[Time|tempo]],
+Le sue mani erano occupate con i suoi vestiti tutto questo [[motifs/time|tempo]],
 capovolgendoli, indossandoli al contrario,
 strappandoli, smarrendoli, costringendoli a partecipare a ogni
 sorta di eccentricità.
@@ -9516,8 +9516,8 @@ Era entrato di corsa nel salotto e ora stava lì in piedi,
 completamente senza fiato.
 
 «Ecco la pentola in cui c'era il porridge!» esclamò Scrooge,
-riprendendo a camminare e girando intorno al camino. «Ecco la porta da cui è entrato lo [[Ghost|spettro]] di [[Jacob Marley]]!
-Ecco l'angolo dove sedeva lo [[Ghost|spettro]] del Natale Presente! Ecco la [[Window|finestra]] da cui ho visto gli Spiriti erranti!
+riprendendo a camminare e girando intorno al camino. «Ecco la porta da cui è entrato lo [[archetypes/ghost|spettro]] di [[characters/jacob-marley|Jacob Marley]]!
+Ecco l'angolo dove sedeva lo [[archetypes/ghost|spettro]] del Natale Presente! Ecco la [[motifs/window|finestra]] da cui ho visto gli Spiriti erranti!
 Tutto è giusto, tutto è vero, tutto è accaduto. Ha ha ha!»
 
 Davvero, per un uomo che non lo faceva da così tanti anni,
@@ -9532,20 +9532,20 @@ Ehi qui!»
 
 I suoi trasporti furono frenati dalle chiese che suonavano le più vigorose scampanate che avesse mai udito. Scontro, squillo, martellio; din, don, campana. Campana, don, din; martello, squillo, scontro! Oh, glorioso, glorioso!
 
-Correndo alla [[Window|finestra]], la aprì e sporse il capo. Nessuna nebbia, nessun velo di foschia; cielo limpido, luminoso, gioioso, vivace, freddo;
-freddo che faceva fischiare il [[Blood|sangue]] per farlo [[Dance|danzare]]; sole dorato;
-cielo celeste; aria fresca e dolce; [[Bells|campane]] allegre. Oh, glorioso!
+Correndo alla [[motifs/window|finestra]], la aprì e sporse il capo. Nessuna nebbia, nessun velo di foschia; cielo limpido, luminoso, gioioso, vivace, freddo;
+freddo che faceva fischiare il [[motifs/blood|sangue]] per farlo [[motifs/dance|danzare]]; sole dorato;
+cielo celeste; aria fresca e dolce; [[motifs/bells|campane]] allegre. Oh, glorioso!
 Glorioso!
 
-"Che giorno è oggi!", gridò Scrooge rivolgendosi verso un ragazzo vestito di [[Sunday|domenica]] che forse era entrato per curiosare.
+"Che giorno è oggi!", gridò Scrooge rivolgendosi verso un ragazzo vestito di [[characters/sunday|domenica]] che forse era entrato per curiosare.
 
-"EH?", rispose il ragazzo con tutta la sua forza di [[Wonder|meraviglia]].
+"EH?", rispose il ragazzo con tutta la sua forza di [[concepts/wonder|meraviglia]].
 
 «Che giorno è oggi, mio caro ragazzo?» disse Scrooge.
 
 «Oggi!» rispose il ragazzo. «Ma è proprio NATALE!».
 
-"È il giorno di Natale!" disse Scrooge tra sé e sé. "Non l'ho perso. Gli Spiriti hanno fatto tutto in una [[Night|notte]]. Possono fare qualsiasi cosa vogliono. Certo che possono. Certo che possono. Ehi, mio caro amico!"
+"È il giorno di Natale!" disse Scrooge tra sé e sé. "Non l'ho perso. Gli Spiriti hanno fatto tutto in una [[motifs/night|notte]]. Possono fare qualsiasi cosa vogliono. Certo che possono. Certo che possono. Ehi, mio caro amico!"
 
 «Ehi!» rispose il ragazzo.
 
@@ -9567,18 +9567,18 @@ Glorioso!
 
 "No, no," disse Scrooge, "lo dico sul serio. Va' e comprala,
 e digli di portarla qui, così potrò dare loro le istruzioni su dove portarla. Torna indietro con l'uomo, e ti darò uno scellino. Torna indietro con lui in meno
-di cinque minuti e ti darò mezza [[Crown|corona]]!"
+di cinque minuti e ti darò mezza [[motifs/crown|corona]]!"
 
 Il ragazzo partì come un razzo. Doveva avere una mano ferma sul grilletto chiunque avesse potuto sparare anche solo la metà di quella velocità.
 
-"La manderò ai [[Bob Cratchit|Cratchit]]!" sussurrò Scrooge,
-strofinandosi le mani e scoppiando in una risata. "Non saprà mai chi gliel'ha mandata. È due volte più grande del [[Tiny Tim|piccolo Tim]]. Joe Miller non ha mai fatto uno scherzo come quello di mandarla a Bob!"
+"La manderò ai [[characters/bob-cratchit|Cratchit]]!" sussurrò Scrooge,
+strofinandosi le mani e scoppiando in una risata. "Non saprà mai chi gliel'ha mandata. È due volte più grande del [[characters/tiny-tim|piccolo Tim]]. Joe Miller non ha mai fatto uno scherzo come quello di mandarla a Bob!"
 
 La mano con cui scrisse l'indirizzo non era ferma,
 ma in qualche modo riuscì a scrivere e scese le scale per
 aprire la porta di strada, pronto all'arrivo del fattorino del pollivendolo. Mentre stava lì, ad aspettare il suo arrivo, lo sguardo gli cadde sul battente della porta.
 
-"La [[Love|amerò]] finché vivrò!" esclamò Scrooge, accarezzandola con la mano. "Non l'avevo quasi mai guardata prima.
+"La [[motifs/love|amerò]] finché vivrò!" esclamò Scrooge, accarezzandola con la mano. "Non l'avevo quasi mai guardata prima.
 Che onesta espressione ha in faccia! È un battente meraviglioso!--Ecco il tacchino! Ehi! Evviva!
 Come state? Buon Natale!"
 
@@ -9589,9 +9589,9 @@ disse Scrooge «Dovete prendere un taxi».
 
 La risatina con cui disse questo e la risatina con cui pagò il tacchino e la risatina con cui pagò la carrozza e la risatina con cui ricompensò il ragazzo furono superate solo dalla risatina con cui si sedette senza fiato di nuovo sulla sua sedia, ridacchiando fino a piangere.
 
-Radersi non era un'impresa facile, perché la sua mano continuava a tremare molto; e radersi richiede attenzione, anche quando non si [[Dance|balla]] mentre lo si fa. Ma se avesse tagliato la punta del naso, ci avrebbe messo sopra un pezzo di cerotto e sarebbe stato completamente soddisfatto.
+Radersi non era un'impresa facile, perché la sua mano continuava a tremare molto; e radersi richiede attenzione, anche quando non si [[motifs/dance|balla]] mentre lo si fa. Ma se avesse tagliato la punta del naso, ci avrebbe messo sopra un pezzo di cerotto e sarebbe stato completamente soddisfatto.
 
-Si vestì "tutto con i suoi abiti migliori" e alla fine uscì per le strade. La gente stava già riversandosi fuori, come l'aveva vista con lo [[Ghost of Christmas Present|spirito del Natale Presente]]; camminando con le mani dietro la schiena, Scrooge guardò tutti con un sorriso felice. In una parola, aveva un aspetto così irresistibilmente piacevole che tre o quattro buoni compagni dissero: "Buongiorno, signore! Un buon Natale a lei!" E spesso in seguito Scrooge disse che di tutti i suoni gioiosi che avesse mai sentito, quelli erano i più allegri alle sue orecchie.
+Si vestì "tutto con i suoi abiti migliori" e alla fine uscì per le strade. La gente stava già riversandosi fuori, come l'aveva vista con lo [[characters/ghost-of-christmas-present|spirito del Natale Presente]]; camminando con le mani dietro la schiena, Scrooge guardò tutti con un sorriso felice. In una parola, aveva un aspetto così irresistibilmente piacevole che tre o quattro buoni compagni dissero: "Buongiorno, signore! Un buon Natale a lei!" E spesso in seguito Scrooge disse che di tutti i suoni gioiosi che avesse mai sentito, quelli erano i più allegri alle sue orecchie.
 
 
 
@@ -9600,19 +9600,19 @@ Si vestì "tutto con i suoi abiti migliori" e alla fine uscì per le strade. La 
 
 He had not gone far, when coming on towards him he
 beheld the portly gentleman, who had walked into his
-counting-[[house]] the day before, and said, "Scrooge and Marley's, I
+counting-house the day before, and said, "Scrooge and Marley's, I
 believe?"  It sent a pang across his heart to think how this
 old gentleman would look upon him when they met; but he
 knew what path lay straight before him, and he took it.
 
 "My dear sir," said Scrooge, quickening his pace, and
 taking the old gentleman by both his hands. "How do you
-do? I [[Hope|hope]] you succeeded yesterday. It was very kind of
+do? I [[concepts/hope|hope]] you succeeded yesterday. It was very kind of
 you. A merry Christmas to you, sir!"
 
 "Mr. Scrooge?"
 
-"Yes," said Scrooge. "That is my name, and I [[Fear|fear]] it
+"Yes," said Scrooge. "That is my name, and I [[concepts/fear|fear]] it
 may not be pleasant to you. Allow me to ask your pardon.
 And will you have the goodness"--here Scrooge whispered in
 his ear.
@@ -9643,18 +9643,18 @@ the kitchens of houses, and up to the windows, and found
 that everything could yield him pleasure. He had never
 dreamed that any walk--that anything--could give him so
 much happiness. In the afternoon he turned his steps
-towards his nephew's [[house]].
+towards his nephew's house.
 
 He passed the door a dozen times, before he had the
-[[Courage|courage]] to go up and knock. But he made a dash, and
+[[concepts/courage|courage]] to go up and knock. But he made a dash, and
 did it:
 
-"Is your master at [[Home|home]], my dear?" said Scrooge to the
+"Is your master at [[motifs/home|home]], my dear?" said Scrooge to the
 girl. Nice girl! Very.
 
 "Yes, sir."
 
-"Where is he, my [[Love|love]]?" said Scrooge.
+"Where is he, my [[motifs/love|love]]?" said Scrooge.
 
 "He's in the dining-room, sir, along with mistress. I'll
 show you up-stairs, if you please."
@@ -9667,20 +9667,20 @@ They were looking at the table (which was spread out in
 great array); for these young housekeepers are always nervous
 on such points, and like to see that everything is right.
 
-"[[Fred]]!" said Scrooge.
+"[[characters/fred|Fred]]!" said Scrooge.
 
-Dear heart alive, how his niece by [[Marriage|marriage]] started!
+Dear heart alive, how his niece by [[motifs/marriage|marriage]] started!
 Scrooge had forgotten, for the moment, about her sitting
 in the corner with the footstool, or he wouldn't have done
 it, on any account.
 
-"Why bless my [[Soul|soul]]!" cried [[Fred]], "who's that?"
+"Why bless my [[motifs/soul|soul]]!" cried [[characters/fred|Fred]], "who's that?"
 
 "It's I. Your uncle Scrooge. I have come to dinner.
-Will you let me in, [[Fred]]?"
+Will you let me in, [[characters/fred|Fred]]?"
 
-Let him in! It is a [[Mercy|mercy]] he didn't shake his arm off.
-He was at [[Home|home]] in five minutes. Nothing could be heartier.
+Let him in! It is a [[concepts/mercy|mercy]] he didn't shake his arm off.
+He was at [[motifs/home|home]] in five minutes. Nothing could be heartier.
 His niece looked just the same. So did Topper when he
 came. So did the plump sister when she came. So did
 every one when they came. Wonderful party, wonderful
@@ -9691,20 +9691,20 @@ early there. If he could only be there first, and catch Bob
 Cratchit coming late! That was the thing he had set his
 heart upon.
 
-And he did it; yes, he did! The [[Clock|clock]] struck nine. No
+And he did it; yes, he did! The [[motifs/clock|clock]] struck nine. No
 Bob. A quarter past. No Bob. He was full eighteen
-minutes and a half behind his [[Time|time]]. Scrooge sat with his
+minutes and a half behind his [[motifs/time|time]]. Scrooge sat with his
 door wide open, that he might see him come into the Tank.
 
 His hat was off, before he opened the door; his comforter
 too. He was on his stool in a jiffy; driving away with his
-pen, as if he were trying to overtake nine o'[[Clock|clock]].
+pen, as if he were trying to overtake nine o'[[motifs/clock|clock]].
 
 "Hallo!" growled Scrooge, in his accustomed voice, as
 near as he could feign it. "What do you mean by coming
-here at this [[Time|time]] of day?"
+here at this [[motifs/time|time]] of day?"
 
-"I am very sorry, sir," said Bob. "I am behind my [[Time|time]]."
+"I am very sorry, sir," said Bob. "I am behind my [[motifs/time|time]]."
 
 "You are?" repeated Scrooge. "Yes. I think you are.
 Step this way, sir, if you please."
@@ -9722,7 +9722,7 @@ salary!"
 
 Bob trembled, and got a little nearer to the ruler. He
 had a momentary idea of knocking Scrooge down with it,
-holding him, and calling to the people in the [[Court|court]] for help
+holding him, and calling to the people in the [[settings/court|court]] for help
 and a strait-waistcoat.
 
 "A merry Christmas, Bob!" said Scrooge, with an earnestness
@@ -9732,20 +9732,20 @@ have given you, for many a year! I'll raise your salary, and
 endeavour to assist your struggling family, and we will discuss
 your affairs this very afternoon, over a Christmas bowl of
 smoking bishop, Bob! Make up the fires, and buy another
-coal-scuttle before you dot another i, [[Bob Cratchit]]!"
+coal-scuttle before you dot another i, [[characters/bob-cratchit|Bob Cratchit]]!"
 
 
 Scrooge was better than his word. He did it all, and
-infinitely more; and to [[Tiny Tim]], who did NOT die, he was
+infinitely more; and to [[characters/tiny-tim|Tiny Tim]], who did NOT die, he was
 a second father. He became as good a friend, as good a
-master, and as good a man, as the good old [[City|city]] knew, or
-any other good old [[City|city]], town, or borough, in the good old
+master, and as good a man, as the good old [[motifs/city|city]] knew, or
+any other good old [[motifs/city|city]], town, or borough, in the good old
 world. Some people laughed to see the alteration in him,
 but he let them laugh, and little heeded them; for he was
 wise enough to know that nothing ever happened on this
 globe, for good, at which some people did not have their fill
 of laughter in the outset; and knowing that such as these
-would be blind anyway, he thought it quite as [[Well|well]] that they
+would be blind anyway, he thought it quite as [[motifs/well|well]] that they
 should wrinkle up their eyes in grins, as have the malady in
 less attractive forms. His own heart laughed: and that was
 quite enough for him.
@@ -9753,20 +9753,20 @@ quite enough for him.
 He had no further intercourse with Spirits, but lived upon
 the Total Abstinence Principle, ever afterwards; and it was
 always said of him, that he knew how to keep Christmas
-[[Well|well]], if any man alive possessed the knowledge. May that
-be truly said of us, and all of us! And so, as [[Tiny Tim]]
+[[motifs/well|well]], if any man alive possessed the knowledge. May that
+be truly said of us, and all of us! And so, as [[characters/tiny-tim|Tiny Tim]]
 observed, God bless Us, Every One!
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Non era ancora andato lontano quando vide avvicinarsi il signore corpulento che il giorno prima aveva fatto irruzione nel suo [[house|ufficio]] contabile e gli aveva detto: «Scrooge e Marley, se non erro?». Gli fece male al cuore pensare a come lo avrebbe guardato questo vecchio signore quando si fossero incontrati; ma sapeva quale strada gli stava dritta davanti e la prese.
+Non era ancora andato lontano quando vide avvicinarsi il signore corpulento che il giorno prima aveva fatto irruzione nel suo ufficio contabile e gli aveva detto: «Scrooge e Marley, se non erro?». Gli fece male al cuore pensare a come lo avrebbe guardato questo vecchio signore quando si fossero incontrati; ma sapeva quale strada gli stava dritta davanti e la prese.
 
-"Mio caro signore", disse Scrooge accelerando il passo e prendendo l'anziano gentiluomo per entrambe le mani, "come state? [[Hope|Spero]] che abbiate avuto successo ieri. È stato molto gentile da parte vostra. Buon Natale, signore!"
+"Mio caro signore", disse Scrooge accelerando il passo e prendendo l'anziano gentiluomo per entrambe le mani, "come state? [[concepts/hope|Spero]] che abbiate avuto successo ieri. È stato molto gentile da parte vostra. Buon Natale, signore!"
 
 «Signor Scrooge?»
 
-"Sì", disse Scrooge. "Questo è il mio nome e [[Fear|temo]] che non sia di suo gradimento. Mi permetta di chiederle scusa. E vorrà avere la gentilezza" -- qui Scrooge gli sussurrò all'orecchio.
+"Sì", disse Scrooge. "Questo è il mio nome e [[concepts/fear|temo]] che non sia di suo gradimento. Mi permetta di chiederle scusa. E vorrà avere la gentilezza" -- qui Scrooge gli sussurrò all'orecchio.
 
 «Signore Iddio!» esclamò il gentiluomo come se gli mancasse il respiro «Mio caro signor Scrooge, parla sul serio?»
 
@@ -9782,15 +9782,15 @@ Non era ancora andato lontano quando vide avvicinarsi il signore corpulento che 
 «Grazie», disse Scrooge. «Le sono molto obbligato.
 La ringrazio cinquanta volte. La benedica!»
 
-Andò in chiesa e passeggiò per le strade, osservando la gente che si affrettava avanti e indietro, accarezzò i bambini sulla testa, interrogò i mendicanti, guardò nelle cucine delle case e alle finestre, e scoprì che tutto poteva dargli piacere. Non aveva mai immaginato che una passeggiata - o qualsiasi cosa - potesse regalargli tanta felicità. Nel pomeriggio si diresse verso la [[house|casa]] del nipote.
+Andò in chiesa e passeggiò per le strade, osservando la gente che si affrettava avanti e indietro, accarezzò i bambini sulla testa, interrogò i mendicanti, guardò nelle cucine delle case e alle finestre, e scoprì che tutto poteva dargli piacere. Non aveva mai immaginato che una passeggiata - o qualsiasi cosa - potesse regalargli tanta felicità. Nel pomeriggio si diresse verso la casa del nipote.
 
-Passò davanti alla porta una dozzina di volte prima di avere il [[Courage|coraggio]] di salire e bussare. Ma si decise e lo fece:
+Passò davanti alla porta una dozzina di volte prima di avere il [[concepts/courage|coraggio]] di salire e bussare. Ma si decise e lo fece:
 
-«Il tuo padrone è in [[Home|casa]], mia cara?» disse Scrooge alla ragazza. Che bella ragazza! Davvero.
+«Il tuo padrone è in [[motifs/home|casa]], mia cara?» disse Scrooge alla ragazza. Che bella ragazza! Davvero.
 
 «Sì, signore».
 
-"Dov'è lui, il mio [[Love|amore]]?", disse Scrooge.
+"Dov'è lui, il mio [[motifs/love|amore]]?", disse Scrooge.
 
 «È nel salotto da pranzo, signore, insieme alla padrona di casa. Se vuole seguirmi, la accompagno al piano di sopra».
 
@@ -9799,19 +9799,19 @@ Passò davanti alla porta una dozzina di volte prima di avere il [[Courage|corag
 Lo girò delicatamente e si insinuò con il viso oltre la porta.
 Stavano guardando il tavolo (che era apparecchiato in grande stile); perché queste giovani casalinghe sono sempre nervose su questi punti, e vogliono assicurarsi che tutto sia a posto.
 
-«[[Fred]]!» disse Scrooge.
+«[[characters/fred|Fred]]!» disse Scrooge.
 
-Caro cuore vivente, come ha iniziato la nipote per [[Marriage|matrimonio]]!
+Caro cuore vivente, come ha iniziato la nipote per [[motifs/marriage|matrimonio]]!
 Scrooge aveva dimenticato, al momento, che lei stava seduta nell'angolo con lo sgabello, o non l'avrebbe fatto,
 in nessun caso.
 
-"Perbacco!" esclamò [[Fred]], "chi è quello?"
+"Perbacco!" esclamò [[characters/fred|Fred]], "chi è quello?"
 
 "Sono io. Lo zio Scrooge. Sono venuto a cena.
-Mi fai entrare, [[Fred]]?"
+Mi fai entrare, [[characters/fred|Fred]]?"
 
-Fatelo entrare! È una [[Mercy|pietà]] che non si sia staccato il braccio.
-Era a [[Home|casa]] in cinque minuti. Non poteva essere più caloroso.
+Fatelo entrare! È una [[concepts/mercy|pietà]] che non si sia staccato il braccio.
+Era a [[motifs/home|casa]] in cinque minuti. Non poteva essere più caloroso.
 Sua nipote sembrava proprio la stessa di sempre. Così come Topper quando arrivò. Così come la sorella grassottella quando arrivò. Così come tutti gli altri quando arrivarono. Festa meravigliosa, giochi meravigliosi, unanimità meravigliosa, fe-li-ci-tà me-ra-vo-glio-sa!
 
 Ma la mattina seguente fu in ufficio molto presto. Oh,
@@ -9819,16 +9819,16 @@ sì, ci arrivò davvero prestissimo. Se solo fosse riuscito ad
 arrivare per primo e a sorprendere Bob Cratchit che
 arrivava tardi! Era questo il suo unico desiderio.
 
-E lo fece; sì, lo fece! La [[Clock|campana]] batté le nove. Nessun Bob.
-Un quarto dopo. Nessun Bob. Era in ritardo di diciotto minuti e mezzo rispetto al suo [[Time|orario]]. Scrooge sedeva con la porta spalancata, per poterlo vedere entrare nel cortile.
+E lo fece; sì, lo fece! La [[motifs/clock|campana]] batté le nove. Nessun Bob.
+Un quarto dopo. Nessun Bob. Era in ritardo di diciotto minuti e mezzo rispetto al suo [[motifs/time|orario]]. Scrooge sedeva con la porta spalancata, per poterlo vedere entrare nel cortile.
 
-Si era tolto il cappello prima ancora di aprire la porta; e anche lo scialle. Era seduto sul suo sgabello in un batter d'occhio; scriveva furiosamente, come se stesse cercando di raggiungere le [[Clock|nove]] in punto.
+Si era tolto il cappello prima ancora di aprire la porta; e anche lo scialle. Era seduto sul suo sgabello in un batter d'occhio; scriveva furiosamente, come se stesse cercando di raggiungere le [[motifs/clock|nove]] in punto.
 
 "Ahò!" brontolò Scrooge con la sua voce abituale,
 quanto più poteva imitarla. "Che cosa vuoi dire venendo
-qui a quest'[[Time|ora]] del giorno?"
+qui a quest'[[motifs/time|ora]] del giorno?"
 
-«Mi dispiace molto, signore», disse Bob. «Sono in ritardo rispetto al mio [[Time|orario]].»
+«Mi dispiace molto, signore», disse Bob. «Sono in ritardo rispetto al mio [[motifs/time|orario]].»
 
 «Lei è?» ripeté Scrooge. «Sì. Penso che lei sia.  
 Faccia un passo da questa parte, signore, se non le dispiace».
@@ -9837,10 +9837,11 @@ Faccia un passo da questa parte, signore, se non le dispiace».
 
 «Ora, ti dirò una cosa, mio caro», disse Scrooge, «non intendo tollerare più questo genere di cose. E quindi», continuò saltando giù dallo sgabello e dando a Bob una tale gomitata sul panciotto che questi barcollò all'indietro fin dentro la vasca; «e quindi sto per aumentarti lo stipendio!»
 
-Bob tremava e si avvicinò un po' alla regola. Ebbe l'idea momentanea di abbattere Scrooge con essa, tenerlo fermo e chiamare in aiuto la gente nel [[Court|tribunale]] e una camicia di forza.
+Bob tremava e si avvicinò un po' alla regola. Ebbe l'idea momentanea di abbattere Scrooge con essa, tenerlo fermo e chiamare in aiuto la gente nel [[settings/court|tribunale]] e una camicia di forza.
 
-"Un buon Natale, Bob!" disse Scrooge con un'energia che non poteva essere fraintesa mentre gli dava una pacca sulla schiena. "Un Natale più allegrò di quello che ti ho dato da tanti anni a questa parte! Ti aumenterò lo stipendio e cercherò di aiutare la tua famiglia in difficoltà, e discuteremo delle tue faccende proprio questo pomeriggio davanti a una coppa natalizia di smoking bishop, Bob! Accendi i fuochi e compra un altro secchiello per il carbone prima ancora di tracciare un'altra i, [[Bob Cratchit]]!"
+"Un buon Natale, Bob!" disse Scrooge con un'energia che non poteva essere fraintesa mentre gli dava una pacca sulla schiena. "Un Natale più allegrò di quello che ti ho dato da tanti anni a questa parte! Ti aumenterò lo stipendio e cercherò di aiutare la tua famiglia in difficoltà, e discuteremo delle tue faccende proprio questo pomeriggio davanti a una coppa natalizia di smoking bishop, Bob! Accendi i fuochi e compra un altro secchiello per il carbone prima ancora di tracciare un'altra i, [[characters/bob-cratchit|Bob Cratchit]]!"
 
-Scrooge fu migliore della sua parola. Fece tutto questo e molto di più; e per [[Tiny Tim|Tim]] Piccolo, che NON morì, fu un secondo padre. Divenne un amico così buono, un padrone così buono e un uomo così buono come la vecchia e buona [[City|città]] ne aveva mai conosciuti, o qualsiasi altra vecchia e buona [[City|città]], paese o borgata nel mondo intero. Alcune persone risero vedendo il suo cambiamento, ma lui lasciò che ridessero senza badarci; perché era abbastanza saggio da sapere che nulla di buono è mai accaduto su questo pianeta senza che qualcuno non se ne fosse fatto una bella risata all'inizio; e sapendo che quelli come loro sarebbero stati ciechi comunque, pensò che tanto valeva che si corrucciassero gli occhi a forza di ghignare, piuttosto che avere la malattia in forme meno attraenti. Il suo cuore rideva: e questo era più che sufficiente per lui.
 
-Non ebbe più alcun contatto con gli Spiriti, ma visse secondo il principio dell'astinenza totale da allora in poi; e si disse sempre di lui che sapeva come festeggiare [[Well|bene]] il Natale, se mai un uomo ancora in vita possedesse tale conoscenza. Possa essere detto veramente di noi, e di tutti noi! E così, come osservò [[Tiny Tim]], Dio benedica ognuno di noi!
+Scrooge fu migliore della sua parola. Fece tutto questo e molto di più; e per [[characters/tiny-tim|Tim]] Piccolo, che NON morì, fu un secondo padre. Divenne un amico così buono, un padrone così buono e un uomo così buono come la vecchia e buona [[motifs/city|città]] ne aveva mai conosciuti, o qualsiasi altra vecchia e buona [[motifs/city|città]], paese o borgata nel mondo intero. Alcune persone risero vedendo il suo cambiamento, ma lui lasciò che ridessero senza badarci; perché era abbastanza saggio da sapere che nulla di buono è mai accaduto su questo pianeta senza che qualcuno non se ne fosse fatto una bella risata all'inizio; e sapendo che quelli come loro sarebbero stati ciechi comunque, pensò che tanto valeva che si corrucciassero gli occhi a forza di ghignare, piuttosto che avere la malattia in forme meno attraenti. Il suo cuore rideva: e questo era più che sufficiente per lui.
+
+Non ebbe più alcun contatto con gli Spiriti, ma visse secondo il principio dell'astinenza totale da allora in poi; e si disse sempre di lui che sapeva come festeggiare [[motifs/well|bene]] il Natale, se mai un uomo ancora in vita possedesse tale conoscenza. Possa essere detto veramente di noi, e di tutti noi! E così, come osservò [[characters/tiny-tim|Tiny Tim]], Dio benedica ognuno di noi!

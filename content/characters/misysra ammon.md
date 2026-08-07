@@ -14,4 +14,10 @@ The fez-wearing itinerant "Prophet" whose eccentric pseudo-Islamic preaching is 
 
 <div class="concept-works" data-slug="characters/misysra-ammon"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-flying-inn-(chesterton)|The Flying Inn (Chesterton)]]
+
+</div>
+
 #graph/character

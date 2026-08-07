@@ -14,4 +14,10 @@ The Irish Nationalist wit and soldier-poet who died fighting in France, whose be
 
 <div class="concept-works" data-slug="characters/thomas-kettle"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/irish-impressions-(chesterton)|Irish Impressions (Chesterton)]]
+
+</div>
+
 #graph/character

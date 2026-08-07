@@ -24,7 +24,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Poe*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A comic tale of the trickster Baron Ritzner von Jung, master of mystification, who humiliates a pompous duellist with a nonsense treatise and a decanter hurled at a mirror; satire of the duello and honor.
@@ -45,10 +45,10 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Trickster]], [[Fool]]
-**Motifs:** [[Mirror]], [[Book Reading]], [[Wine and Drink]], [[Swords and Weapons]], [[Letters and Writing]]
-**Themes & Concepts:** [[Deception]], [[Appearance vs Reality]], [[Satire of Society]], [[Honour]], [[Grotesque]], [[Pride]]
-**Forms & Genres:** [[Satire]], [[Short Story]]
+**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/fool|Fool]]
+**Motifs:** [[motifs/mirror|Mirror]], [[motifs/book-reading|Book Reading]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/letters-and-writing|Letters and Writing]]
+**Themes & Concepts:** [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/satire-of-society|Satire of Society]], [[concepts/honour|Honour]], [[concepts/grotesque|Grotesque]], [[concepts/pride|Pride]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]
 
 ## Testo integrale / Full text
 

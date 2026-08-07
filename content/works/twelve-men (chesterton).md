@@ -31,7 +31,7 @@ tags:
 
 # twelve-men
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > An essay on jury service arguing that the ordinary man, not the expert, must judge grave human matters; defends the common man, tragedy as the value of life, and Christian wisdom.
@@ -50,17 +50,17 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Common Man (2)]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Settings:** [[Court]], [[London]]
+**Settings:** [[settings/court|Court]], [[settings/london|London]]
 
-**Motifs:** [[Court (2)]], [[The Twelve]]
+**Motifs:** [[motifs/court-(2)|Court (2)]], [[motifs/the-twelve|The Twelve]]
 
-**Characters:** [[Christ]]
+**Characters:** [[characters/christ|Christ]]
 
-**Themes & Concepts:** [[Common Man]], [[Justice Right and Wrong]], [[Paradox]], [[Humility]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Faith]], [[Courage]], [[Democracy]], [[Crime and Punishment]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Bible]]
+**Themes & Concepts:** [[concepts/common-man|Common Man]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/paradox|Paradox]], [[concepts/humility|Humility]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/faith|Faith]], [[concepts/courage|Courage]], [[concepts/democracy|Democracy]], [[concepts/crime-and-punishment|Crime and Punishment]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
 
 ## Testo integrale / Full text
 

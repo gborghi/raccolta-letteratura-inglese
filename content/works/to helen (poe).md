@@ -18,19 +18,19 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
+*by Poe*  ·  **Cluster:** [[clusters/greek-mythology-·-lust-sexual-desire-·-desire|Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 
 > Poe's classic lyric praising Helen's beauty as a Nicean bark bearing the wanderer home to 'the glory that was Greece, and the grandeur that was Rome'. Themes of beauty, idealized love and classical antiquity.
 
 ## Connections
 
-**Topoi:** [[Love as Religion]], [[Unattainable Beloved]]
-**Motifs:** [[Sea]]
-**Themes & Concepts:** [[Beauty]], [[Romantic Love]]
-**Forms & Genres:** [[Lyric]]
-**Historical References:** [[Classical Antiquity]], [[Greek Mythology]]
-**Settings:** [[Ancient Greece (2)]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/unattainable-beloved|Unattainable Beloved]]
+**Motifs:** [[motifs/sea|Sea]]
+**Themes & Concepts:** [[concepts/beauty|Beauty]], [[concepts/romantic-love|Romantic Love]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
+**Historical References:** [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/greek-mythology|Greek Mythology]]
+**Settings:** [[settings/ancient-greece-(2)|Ancient Greece (2)]]
 
 ## Testo integrale / Full text
 

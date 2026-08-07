@@ -14,4 +14,10 @@ Aristide Valentin, the atheist chief of the Paris police and Europe's foremost r
 
 <div class="concept-works" data-slug="characters/valentin"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/innocence-(chesterton)|innocence (Chesterton)]]
+
+</div>
+
 #graph/character

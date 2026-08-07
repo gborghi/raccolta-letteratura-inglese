@@ -29,7 +29,7 @@ tags:
   - archetype/fool
   - topos/war_as_glory
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Adventure Fiction · Empire and Imperialism · Peril and Survival]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/adventure-fiction-·-empire-and-imperialism-·-peril-and-survival|Adventure Fiction · Empire and Imperialism · Peril and Survival]]
 
 > [!abstract] 
 > A second series of comic tales narrated by the boastful, gallant Hussar Etienne Gerard, recounting his exploits during the Napoleonic Wars across Europe. Gerard's vanity and self-regard are undercut by genuine bravery, as Doyle satirises both French self-image and English stereotypes of it.
@@ -50,11 +50,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Adventure Fiction]], [[Short Story]]
-**Themes & Concepts:** [[Vanity]], [[Honour]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Satire of Society]]
-**Motifs:** [[Swords and Weapons]], [[Journey]], [[Prison]]
-**Historical References:** [[Napoleonic Wars the Navy]], [[Napoleon]]
-**Settings:** [[France]], [[Continental Europe (Brussels)]], [[Battlefield]], [[Europe]]
-**Characters:** [[Brigadier Gerard]], [[Napoleon Bonaparte]]
-**Archetypes:** [[Hero]], [[Fool]]
-**Topoi:** [[War as Glory]]
+**Forms & Genres:** [[forms/adventure-fiction|Adventure Fiction]], [[forms/short-story|Short Story]]
+**Themes & Concepts:** [[concepts/vanity|Vanity]], [[concepts/honour|Honour]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/satire-of-society|Satire of Society]]
+**Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/journey|Journey]], [[motifs/prison|Prison]]
+**Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/napoleon|Napoleon]]
+**Settings:** [[settings/france|France]], [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]], [[settings/battlefield|Battlefield]], [[settings/europe|Europe]]
+**Characters:** [[characters/brigadier-gerard|Brigadier Gerard]], [[characters/napoleon-bonaparte|Napoleon Bonaparte]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/fool|Fool]]
+**Topoi:** [[topoi/war-as-glory|War as Glory]]

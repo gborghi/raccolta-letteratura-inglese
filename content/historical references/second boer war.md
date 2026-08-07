@@ -14,4 +14,11 @@ The 1899-1902 South African War and Transvaal annexation, cited as the essay's i
 
 <div class="concept-works" data-slug="historical-references/second-boer-war"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/humanitarianism-(chesterton)|Humanitarianism (Chesterton)]]
+- [[works/the-great-boer-war-(conan-doyle)|The Great Boer War (Conan Doyle)]]
+
+</div>
+
 #graph/histref

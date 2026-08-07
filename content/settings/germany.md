@@ -12,4 +12,23 @@ tags:
 
 <div class="concept-works" data-slug="settings/germany"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/alliterativism-(chesterton)|alliterativism (Chesterton)]]
+- [[works/mrpond-(chesterton)|MrPond (Chesterton)]]
+- [[works/shaw-(chesterton)|Shaw (Chesterton)]]
+- [[works/theappoftyranny-(chesterton)|TheAppOfTyranny (Chesterton)]]
+- [[works/thecrimesofengland-(chesterton)|TheCrimesOfEngland (Chesterton)]]
+- [[works/utopiausurers-(chesterton)|UtopiaUsurers (Chesterton)]]
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+- [[works/well-and-shallows-(chesterton)|Well And Shallows (Chesterton)]]
+- [[works/history-(chesterton)|history (Chesterton)]]
+- [[works/wifrb11-(chesterton)|wifrb11 (Chesterton)]]
+- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#161_hexameters|HEXAMETERS (Coleridge)]]
+- [[testi/coleridge/atomized/grief-and-loss-elegy-clothing-and-costume#174_home-sick|HOME-SICK (Coleridge)]]
+- [[testi/coleridge/atomized/dreams-moon#173_something_childish_but_very_natural|SOMETHING CHILDISH, BUT VERY NATURAL (Coleridge)]]
+- [[works/the-two-maps-of-europe-(belloc)|The Two Maps of Europe (Belloc)]]
+
+</div>
+
 #graph/setting

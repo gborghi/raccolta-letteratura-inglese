@@ -14,4 +14,10 @@ The Puritan general and Lord Protector under whom Bunyan served, and whose falle
 
 <div class="concept-works" data-slug="characters/cromwell"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/intro-pilgrims-progress-(chesterton)|intro-pilgrims-progress (Chesterton)]]
+
+</div>
+
 #graph/character

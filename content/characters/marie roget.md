@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/marie-roget"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-mystery-of-marie-roget-(poe)|The Mystery of Marie Roget (Poe)]]
+
+</div>
+
 #graph/character

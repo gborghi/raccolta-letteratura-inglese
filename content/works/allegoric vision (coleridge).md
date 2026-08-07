@@ -19,7 +19,7 @@ tags:
   - topos/seven_ages_of_man
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
+*by Coleridge*  ·  **Cluster:** [[clusters/allegory-·-quest-·-pilgrim|Allegory · Quest · Pilgrim]]
 
 > [!abstract] 
 > A prose dream-allegory: a pilgrim's vision of the Valley of Life, the Temple of Superstition, the matron Religion, and the cave of Blasphemy and atheism that proves Janus-faced with Superstition; faith, doubt and true religion.
@@ -29,11 +29,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Quest]], [[Seven Ages of Man]]
-**Archetypes:** [[Pilgrim]]
-**Motifs:** [[Dreams]], [[Light and Dark]]
-**Themes & Concepts:** [[Faith and Doubt]], [[Faith]], [[Melancholy]], [[Doubt]]
-**Forms & Genres:** [[Allegory]]
+**Topoi:** [[topoi/quest|Quest]], [[topoi/seven-ages-of-man|Seven Ages of Man]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
+**Motifs:** [[motifs/dreams|Dreams]], [[motifs/light-and-dark|Light and Dark]]
+**Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/faith|Faith]], [[concepts/melancholy|Melancholy]], [[concepts/doubt|Doubt]]
+**Forms & Genres:** [[forms/allegory|Allegory]]
 
 ## Testo integrale / Full text
 

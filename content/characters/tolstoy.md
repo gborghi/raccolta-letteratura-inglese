@@ -14,4 +14,10 @@ The Russian novelist and Christian anarchist held up throughout the book as the 
 
 <div class="concept-works" data-slug="characters/tolstoy"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ortho14-(chesterton)|ortho14 (Chesterton)]]
+
+</div>
+
 #graph/character

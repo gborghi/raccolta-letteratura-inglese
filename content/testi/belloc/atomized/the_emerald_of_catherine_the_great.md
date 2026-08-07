@@ -62,7 +62,7 @@ MY DEAR MAURICE:
 
 This is the fourth book I have dedicated to you, and you will see why if you read it — which no one need do.
 
-First, emeralds are green; and, on principle, like the Green Overcoat, it owes to you of the Green Elephant, a dedication. Next, there is Catherine the Great. She plays no long part, but she founded the fortunes of them all; and we are in communion in the matter of that large and generous but regal soul; we agree that it is a pity she died before we were born. Also, you who know all about [[Russia]], and I who know nothing, have, in the matter of [[Russia]], this Monarch of all the Russias for a link.
+First, emeralds are green; and, on principle, like the Green Overcoat, it owes to you of the Green Elephant, a dedication. Next, there is Catherine the Great. She plays no long part, but she founded the fortunes of them all; and we are in communion in the matter of that large and generous but regal soul; we agree that it is a pity she died before we were born. Also, you who know all about [[settings/russia|Russia]], and I who know nothing, have, in the matter of [[settings/russia|Russia]], this Monarch of all the Russias for a link.
 
 Lastly, you have often urged me to write a detective story, because (you assured me) they have gigantic sales. I promised you I would, on condition there was nothing to find out.
 
@@ -78,7 +78,7 @@ WILLIAM BONES WAS a stalwart man, some thirty-five years of age, the master of a
 
 Among other ports, he had found profit more than once in visiting that of the River Neva, and was acquainted with the Russian trade. The great city of St. Petersburg, still new but already splendid, became familiar to him; and he himself, in his humble visits to the local factors, became a familiar figure to the Secret Police of that capital. Even his most domestic and private actions during his dealings in this port were registered; and, it must be added, his strong English frame and handsome English face admired, but also duly noted and their description passed on to the proper authorities.
 
-On his third voyage to [[Russia]] he was honoured by the invitation of a merchant somewhat wealthier than the common of his acquaintance and at that table met some official of the Court, of what exact situation his ignorance of Russian and of French forbade him to inquire. Before returning to his native Lincolnshire, his happy spouse and his young family, he enjoyed the singular privilege of a further unexpected invitation from this same Court official whom he had thus chanced to meet, and so found himself at supper in one of the smaller and more discreet rooms of the Palace, upon its mezzanine floor, in a choice company of both sexes.
+On his third voyage to [[settings/russia|Russia]] he was honoured by the invitation of a merchant somewhat wealthier than the common of his acquaintance and at that table met some official of the Court, of what exact situation his ignorance of Russian and of French forbade him to inquire. Before returning to his native Lincolnshire, his happy spouse and his young family, he enjoyed the singular privilege of a further unexpected invitation from this same Court official whom he had thus chanced to meet, and so found himself at supper in one of the smaller and more discreet rooms of the Palace, upon its mezzanine floor, in a choice company of both sexes.
 
 It is characteristic of the Empress herself — a great woman! — that a large humanity and a laudable curiosity combined rendered her indifferent to the conventions of rank. No sooner had she heard of the British merchant captain’s cheerful and manly habit than she desired a more exact description, upon her receiving which he was permitted an entrance to the Presence.
 
@@ -86,7 +86,7 @@ He enjoyed, partly by means of an elderly female who interpreted for him until h
 
 Next season, the moment the Baltic ice was melted, he did so, disposing of a mixed cargo; and, while leisurely awaiting his return charge, was almost daily conveyed to the Palace from his humble lodging. For four successive seasons running this strange adventure persisted.
 
-Meanwhile his Boston neighbours could not but remark that his home in the British haven of which he was a native and mariner, showed a considerable advance in prosperity. His wife was better dressed, his growing family could boast an increasing and superior acquaintance among children of a rank with whom they would not earlier have mixed. It was even whispered that Bill Bones had made formidable investments in the City of London, which he certainly had visited more than half a dozen times during his last winter stay in [[England]]; and though his friends very charitably agreed that the profits of the Baltic trade might be large, and that Bill Bones might have had exceptional opportunities, they none the less talked among themselves upon the various possible sources of a fortune which that trade could hardly account for.
+Meanwhile his Boston neighbours could not but remark that his home in the British haven of which he was a native and mariner, showed a considerable advance in prosperity. His wife was better dressed, his growing family could boast an increasing and superior acquaintance among children of a rank with whom they would not earlier have mixed. It was even whispered that Bill Bones had made formidable investments in the City of London, which he certainly had visited more than half a dozen times during his last winter stay in [[settings/england|England]]; and though his friends very charitably agreed that the profits of the Baltic trade might be large, and that Bill Bones might have had exceptional opportunities, they none the less talked among themselves upon the various possible sources of a fortune which that trade could hardly account for.
 
 With the fifth season there came an end to what had certainly been a remarkable series. Whatever advantages communion with a throne might have had for William Bones, the future would no doubt show; but the fifth season was the end. There had been farewells, and yet no loss of the high regard in which, for some extraordinary reason, he had been held by the Semiramis of the North. He had acquired a certain assurance of bearing which marked his new fortunes, and indeed, in this final scene of his presence upon the quays of St. Petersburg, he seemed by his gait to be some one of consequence. And no wonder, for he had left the Palace for the last time bearing secreted in the bosom of his ample coat a jewel worthy to be a memorial of the greatest passages in any life.
 
@@ -98,7 +98,7 @@ The next year William Bones let his house in Boston and abruptly transported him
 
 His only son George, when of an age for such occupations, which was some five years after the family had come up to London, was taken in as a partner by Mr. Worsle the India merchant, partly, no doubt, as a testimony of friendship to his father, but partly also because William Bone, who would now indifferently sign himself Bone or Bohun — the original form of the name — had put at the young fellow’s disposal a very considerable capital.
 
-William Bohun himself died somewhat prematurely in the eighth year after his transmigration, and his wife, who, though much desiring to cut a proper figure in her new world, had never properly succeeded in doing so, followed him within three months to the grave. Her younger daughters had received an excellent education; her eldest, born in her father’s earlier days, had perhaps less refinement of accent and deportment — but on the other hand, her solid worth and quite exceptional dowry had procured her alliance with the heir to Sir Philip Goole, a landed gentleman in the West of [[England]] possessed of a fine town house in Cavendish Square, but indifferent to politics.
+William Bohun himself died somewhat prematurely in the eighth year after his transmigration, and his wife, who, though much desiring to cut a proper figure in her new world, had never properly succeeded in doing so, followed him within three months to the grave. Her younger daughters had received an excellent education; her eldest, born in her father’s earlier days, had perhaps less refinement of accent and deportment — but on the other hand, her solid worth and quite exceptional dowry had procured her alliance with the heir to Sir Philip Goole, a landed gentleman in the West of [[settings/england|England]] possessed of a fine town house in Cavendish Square, but indifferent to politics.
 
 George de Bohun — he had at first rejected but later began to use the prefix “de” which a friend in the Heralds’ College had suggested to him — prospered, I am glad to say, exceedingly, as the son of such a worthy father should, and acquired the playful nickname of “The Nabob,” which spread from the city to the more exalted circles into which he was welcomed, west of Temple Bar. It is a sufficient indication of the respect in which he was held when I say that he was elected to Brooks’s Club, and there, by his generous behaviour at the card table, failed not to become a favourite with the most exalted of his contemporaries in Whig circles.
 
@@ -184,7 +184,7 @@ Victoria Mosel was there, Marjorie’s friend of another generation, still sinuo
 
 The first was the hippo-phile, the expert in things of the Turf whom you have just heard of, young Lord Galton, the son of the Home Secretary’s first cousin, Cecily, who had brought to Algernon, first — and very nearly last — Lord Galton, a sufficient dowry, drawn from the then ample funds of the de Bohuns, for her father had been the younger brother of the Home Secretary. But this first — and very nearly last — Lord Galton indeed was dead, and so was Lady Galton his wife, and the young man, now his own father, found his inheritance less than he might have desired. The Galtons, wisely taking their title from their name, had not done well since they had left Liverpool; they had left that town too early. So here he was, a tall, dark young man, a little too solid and certain of himself, and — unhappily — attached to racing, a pastime for which his fortune might have been sufficient fifty years ago, but was not at all sufficient to-day.
 
-It was not every house in [[England]] in which Lord Galton would have been welcomed; but family counts, and he was here, with his rather sullen face, strong chin and fixed mouth, and sub-challenging eyes. They were sub-challenging because of Attaboy the horse. He had not suffered as he might have done; he went a good deal less to one or two of his better clubs than he had done before the rumour spread, but he was still a constant member of the Posts and gambled there assiduously and with some success. Yet was he always embarrassed, and his embarrassment did not help his reputation.
+It was not every house in [[settings/england|England]] in which Lord Galton would have been welcomed; but family counts, and he was here, with his rather sullen face, strong chin and fixed mouth, and sub-challenging eyes. They were sub-challenging because of Attaboy the horse. He had not suffered as he might have done; he went a good deal less to one or two of his better clubs than he had done before the rumour spread, but he was still a constant member of the Posts and gambled there assiduously and with some success. Yet was he always embarrassed, and his embarrassment did not help his reputation.
 
 He sat at the tea table that afternoon, fighting the boredom of Aunt Amelia with what was toleration if it was not courtesy, and looking at Marjorie without admiration but perhaps with intention. Now and then he cast a furtive sharp look, when he thought it was safe, at Victoria Mosel. She always knew too much, and as she stood there in front of the fire, with a sham vacant look on her shrewd face, and the eternal cigarette hanging from her lip, he wished her farther.
 
@@ -372,7 +372,7 @@ Not so long since, this same Ethelbert had (alas!) in company with youths of his
 
 The Deed might have appeared upon his record at Scotland Yard and dogged him through life, for he was already eight years of age and knew full well the wickedness of his act. He had been spared by the noble elasticity of the English Common Law. His sobbing widowed mother had seen, indeed, the shadow of the police across her threshold, and Ethelbert had stood in the Felons’ Dock before the dud parliamentary lawyer who had got the local stipendiary job. But our Magistracy — especially that of the Stipendiary Sort — is famous throughout the whole world for its merciful wisdom. Young Bert had escaped imprisonment, as having been led away by his senior Charlie Gasket, who was nearly ten.
 
-He had, I say, been saved; but the memory of the peril had burnt into his soul. And now, though he was nearly fifteen years of age, the incident still stood out the sharpest of his memories. It was known to his lord the Butler — perhaps to his Master — but to no others. He had been taken into the [[Great House]] in spite of it all, because his father had worked upon the estate. Therefore, I say, did Ethelbert feel himself redeemed. But he trembled still at the apparatus of National Justice.
+He had, I say, been saved; but the memory of the peril had burnt into his soul. And now, though he was nearly fifteen years of age, the incident still stood out the sharpest of his memories. It was known to his lord the Butler — perhaps to his Master — but to no others. He had been taken into the [[motifs/great-house|Great House]] in spite of it all, because his father had worked upon the estate. Therefore, I say, did Ethelbert feel himself redeemed. But he trembled still at the apparatus of National Justice.
 
 The Boy Ethelbert untouched by
 
@@ -898,7 +898,7 @@ The Professor went in.
 
 “That’s it,” said the Professor, nodding genially. “That’s it. That’s what I want. That’s it.” Slipping it into his pocket, he made for the door, nodding good day.
 
-“Hi! Mister! That’ll be five guineas,” said the ancient. Oh! vileness of avaricious age! He had seen his client coming out by the garden gate by the [[Great House]], he had noted guilty haste, he had noted academic idiocy, and he charged accordingly.
+“Hi! Mister! That’ll be five guineas,” said the ancient. Oh! vileness of avaricious age! He had seen his client coming out by the garden gate by the [[motifs/great-house|Great House]], he had noted guilty haste, he had noted academic idiocy, and he charged accordingly.
 
 “Oh, yes! Of course ... ah! What! Five guineas? ... five guineas! FIVE GUINEAS!”
 
@@ -1756,7 +1756,7 @@ He found the deliverer at the door of the West Room.
 
 “A winder was left open,” insisted bovinely Mr. Collop. “I’ll lay to that. And if you’ll settle that p’int you’ll see ’ow the rest’ll follow. I tell you I ‘ave me clue; it’s more than a clue; it’s a find. Ye’ll see!”
 
-The mechanism of a [[Great House|great house]] (delightful thought!) involves a hierarchy. The Home Secretary rang, and asked for the butler. An underling sought Mr. George Whaley, and Mr. George Whaley arrived. There was that in his eye which might have alarmed or warned the Head of the de Bohuns; but the Head of the de Bohuns was passing weary in the head just now, and he noted nothing.
+The mechanism of a [[motifs/great-house|great house]] (delightful thought!) involves a hierarchy. The Home Secretary rang, and asked for the butler. An underling sought Mr. George Whaley, and Mr. George Whaley arrived. There was that in his eye which might have alarmed or warned the Head of the de Bohuns; but the Head of the de Bohuns was passing weary in the head just now, and he noted nothing.
 
 “Oh!” he said, “I wanted you, Whaley ... to ask you — er — whether ... yes, to ask you who it is who does the room here in the early morning? Who, for instance, would be in the room here, say, well, before anybody else?”
 
@@ -2260,7 +2260,7 @@ MY DEAR MAURICE:
 
 This is the fourth book I have dedicated to you, and you will see why if you read it — which no one need do.
 
-First, emeralds are green; and, on principle, like the Green Overcoat, it owes to you of the Green Elephant, a dedication. Next, there is Catherine the Great. She plays no long part, but she founded the fortunes of them all; and we are in communion in the matter of that large and generous but regal soul; we agree that it is a pity she died before we were born. Also, you who know all about [[Russia]], and I who know nothing, have, in the matter of [[Russia]], this Monarch of all the Russias for a link.
+First, emeralds are green; and, on principle, like the Green Overcoat, it owes to you of the Green Elephant, a dedication. Next, there is Catherine the Great. She plays no long part, but she founded the fortunes of them all; and we are in communion in the matter of that large and generous but regal soul; we agree that it is a pity she died before we were born. Also, you who know all about [[settings/russia|Russia]], and I who know nothing, have, in the matter of [[settings/russia|Russia]], this Monarch of all the Russias for a link.
 
 Lastly, you have often urged me to write a detective story, because (you assured me) they have gigantic sales. I promised you I would, on condition there was nothing to find out.
 
@@ -2273,7 +2273,7 @@ Whitsun, 1926.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Capitolo Sedicesimo
+Capitolo Sedicesimo
 
 Pezzo da museo
 
@@ -2283,17 +2283,17 @@ Il frontespizio originale: Il signor Collop descrive le “Finesse Diplomatiche�
 
 A Maurice Baring
 
-#Mio caro Maurice:
+Mio caro Maurice:
 
 Questo è il quarto libro che ti ho dedicato; capirai il motivo se lo leggerai, anche se in realtà nessuno è obbligato a farlo.
 
-Prima di tutto, le smeraldi sono verdi; e, per principio, proprio come il “Cappotto Verde”, anche esse devono la loro esistenza al “Elefante Verde”. Inoltre, c’è Caterina la Grande: lei non ha avuto un ruolo molto importante nella storia, ma è stata lei a fondare le fortune di tutti loro; siamo in sintonia riguardo a quella grande, generosa e regale anima. Concordiamo sul fatto che sia un peccato che sia morta prima che noi nascessimo. Inoltre, tu, che sai tutto su [[Russia]], e io, che non so nulla, abbiamo in questo “Monarca di tutte le Russie” un legame comune.
+Prima di tutto, le smeraldi sono verdi; e, per principio, proprio come il “Cappotto Verde”, anche esse devono la loro esistenza al “Elefante Verde”. Inoltre, c’è Caterina la Grande: lei non ha avuto un ruolo molto importante nella storia, ma è stata lei a fondare le fortune di tutti loro; siamo in sintonia riguardo a quella grande, generosa e regale anima. Concordiamo sul fatto che sia un peccato che sia morta prima che noi nascessimo. Inoltre, tu, che sai tutto su [[settings/russia|Russia]], e io, che non so nulla, abbiamo in questo “Monarca di tutte le Russie” un legame comune.
 
 Infine, mi avete spesso esortato a scrivere una storia gialla, perché (mi avete assicurato) hanno un successo commerciale enorme. Vi ho promesso che lo avrei fatto, a condizione che non ci fosse nulla da scoprire.
 
 Ecco qui.
 
-#Terra del Re
+Terra del Re
 
 Whitsun, 1926.
 
@@ -2308,7 +2308,7 @@ WILLIAM BONES WAS a stalwart man, some thirty-five years of age, the master of a
 
 Among other ports, he had found profit more than once in visiting that of the River Neva, and was acquainted with the Russian trade. The great city of St. Petersburg, still new but already splendid, became familiar to him; and he himself, in his humble visits to the local factors, became a familiar figure to the Secret Police of that capital. Even his most domestic and private actions during his dealings in this port were registered; and, it must be added, his strong English frame and handsome English face admired, but also duly noted and their description passed on to the proper authorities.
 
-On his third voyage to [[Russia]] he was honoured by the invitation of a merchant somewhat wealthier than the common of his acquaintance and at that table met some official of the Court, of what exact situation his ignorance of Russian and of French forbade him to inquire. Before returning to his native Lincolnshire, his happy spouse and his young family, he enjoyed the singular privilege of a further unexpected invitation from this same Court official whom he had thus chanced to meet, and so found himself at supper in one of the smaller and more discreet rooms of the Palace, upon its mezzanine floor, in a choice company of both sexes.
+On his third voyage to [[settings/russia|Russia]] he was honoured by the invitation of a merchant somewhat wealthier than the common of his acquaintance and at that table met some official of the Court, of what exact situation his ignorance of Russian and of French forbade him to inquire. Before returning to his native Lincolnshire, his happy spouse and his young family, he enjoyed the singular privilege of a further unexpected invitation from this same Court official whom he had thus chanced to meet, and so found himself at supper in one of the smaller and more discreet rooms of the Palace, upon its mezzanine floor, in a choice company of both sexes.
 
 It is characteristic of the Empress herself — a great woman! — that a large humanity and a laudable curiosity combined rendered her indifferent to the conventions of rank. No sooner had she heard of the British merchant captain’s cheerful and manly habit than she desired a more exact description, upon her receiving which he was permitted an entrance to the Presence.
 
@@ -2316,7 +2316,7 @@ He enjoyed, partly by means of an elderly female who interpreted for him until h
 
 Next season, the moment the Baltic ice was melted, he did so, disposing of a mixed cargo; and, while leisurely awaiting his return charge, was almost daily conveyed to the Palace from his humble lodging. For four successive seasons running this strange adventure persisted.
 
-Meanwhile his Boston neighbours could not but remark that his home in the British haven of which he was a native and mariner, showed a considerable advance in prosperity. His wife was better dressed, his growing family could boast an increasing and superior acquaintance among children of a rank with whom they would not earlier have mixed. It was even whispered that Bill Bones had made formidable investments in the City of London, which he certainly had visited more than half a dozen times during his last winter stay in [[England]]; and though his friends very charitably agreed that the profits of the Baltic trade might be large, and that Bill Bones might have had exceptional opportunities, they none the less talked among themselves upon the various possible sources of a fortune which that trade could hardly account for.
+Meanwhile his Boston neighbours could not but remark that his home in the British haven of which he was a native and mariner, showed a considerable advance in prosperity. His wife was better dressed, his growing family could boast an increasing and superior acquaintance among children of a rank with whom they would not earlier have mixed. It was even whispered that Bill Bones had made formidable investments in the City of London, which he certainly had visited more than half a dozen times during his last winter stay in [[settings/england|England]]; and though his friends very charitably agreed that the profits of the Baltic trade might be large, and that Bill Bones might have had exceptional opportunities, they none the less talked among themselves upon the various possible sources of a fortune which that trade could hardly account for.
 
 With the fifth season there came an end to what had certainly been a remarkable series. Whatever advantages communion with a throne might have had for William Bones, the future would no doubt show; but the fifth season was the end. There had been farewells, and yet no loss of the high regard in which, for some extraordinary reason, he had been held by the Semiramis of the North. He had acquired a certain assurance of bearing which marked his new fortunes, and indeed, in this final scene of his presence upon the quays of St. Petersburg, he seemed by his gait to be some one of consequence. And no wonder, for he had left the Palace for the last time bearing secreted in the bosom of his ample coat a jewel worthy to be a memorial of the greatest passages in any life.
 
@@ -2331,13 +2331,13 @@ His only son George, when of an age for such occupations, which was some five ye
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO PRIMO
+CAPITOLO PRIMO
 
 William Bones era un uomo robusto, di circa trentacinque anni; era il proprietario di una brigata che navigava dal porto di Boston, nel Lincolnshire, e quella nave rappresentava metà del suo patrimonio personale. Era originario di quella città: suo padre vi lavorava come macellaio di maiali e aveva un’attività prospera; sua madre, invece, era figlia di un piccolo agricoltore della zona di Wring Land. Faceva affari nel Baltico quando Giorgio III era re, anzi, già da quando Giorgio III era ancora giovane, molto prima che iniziasse ad impazzire.
 
 Tra altri porti, aveva ottenuto profitti più volte visitando quello del fiume Neva e conosceva bene il commercio russo. La grande città di San Pietroburgo, ancora nuova ma già splendida, divenne familiare per lui; e lui stesso, con le sue umili visite ai commercianti locali, finì per essere noto alla Polizia Segreta di quella capitale. Anche le sue azioni più domestiche e private durante le sue attività in quel porto venivano registrate; inoltre, il suo robusto fisico inglese e il suo bel viso inglese suscitavano ammirazione, ma venivano anche attentamente osservati e descritti per essere poi trasmessi alle autorità competenti.
 
-Nella sua terza traversata verso la [[Russia]], ricevette l'onore di un invito da parte di un mercante piuttosto ricco rispetto alla gente comune che conosceva; a quella cena incontrò anche alcuni funzionari della Corte, ma la sua ignoranza del russo e del francese gli impedì di chiedere loro informazioni più precise sulla loro posizione. Prima di tornare nella sua nativa Lincolnshire, dalla sua felice moglie e dalla sua giovane famiglia, godette del singolare privilegio di ricevere un altro invito inaspettato da parte dello stesso funzionario della Corte che aveva incontrato casualmente; così si trovò a cena in una delle stanze più piccole e discrete del Palazzo, al piano intermedio, in compagnia di persone di entrambi i sessi.
+Nella sua terza traversata verso la [[settings/russia|Russia]], ricevette l'onore di un invito da parte di un mercante piuttosto ricco rispetto alla gente comune che conosceva; a quella cena incontrò anche alcuni funzionari della Corte, ma la sua ignoranza del russo e del francese gli impedì di chiedere loro informazioni più precise sulla loro posizione. Prima di tornare nella sua nativa Lincolnshire, dalla sua felice moglie e dalla sua giovane famiglia, godette del singolare privilegio di ricevere un altro invito inaspettato da parte dello stesso funzionario della Corte che aveva incontrato casualmente; così si trovò a cena in una delle stanze più piccole e discrete del Palazzo, al piano intermedio, in compagnia di persone di entrambi i sessi.
 
 È caratteristico della stessa Imperatrice – una grande donna! – il fatto che un grande senso di umanità e una lodevole curiosità le facessero ignorare le convenzioni legate al rango sociale. Non appena ebbe sentito parlare dell’abitudine allegra e virile del capitano mercante britannico, desiderò una descrizione più dettagliata; non appena l’ebbe ricevuta, gli fu concesso l’accesso alla sua presenza.
 
@@ -2345,7 +2345,7 @@ Grazie anche all’aiuto di una donna anziana che gli faceva da interprete finch
 
 Nella stagione successiva, non appena il ghiaccio del Baltico si sciolse, egli fece ciò che doveva, sbarazzandosi di una merce mista; e mentre aspettava con calma il viaggio di ritorno, veniva quasi quotidianamente trasportato dal suo umile alloggio al Palazzo. Questa strana avventura continuò per quattro stagioni consecutive.
 
-Nel frattempo, i suoi vicini di Boston non potevano fare a meno di notare che la sua casa, situata in quel porto britannico dove era nato e dove lavorava come marinaio, mostrava un notevole miglioramento economico. Sua moglie si vestiva meglio, e la loro famiglia, in crescita, poteva ora contare su relazioni sempre più numerose e di rango superiore tra i bambini della stessa classe sociale; prima non avrebbero mai avuto occasione di frequentarli. Si mormorava persino che Bill Bones avesse effettuato importanti investimenti nella City di Londra, città che aveva sicuramente visitato più di sei volte durante la sua ultima permanenza in [[England|Inghilterra]]; e sebbene i suoi amici fossero disposti ad ammettere che i profitti derivanti dal commercio nel Baltico potessero essere considerevoli, e che Bill Bones avesse avuto opportunità eccezionali, non smettevano comunque di chiedersi quali altre possibili fonti di ricchezza potessero spiegare tale successo economico.
+Nel frattempo, i suoi vicini di Boston non potevano fare a meno di notare che la sua casa, situata in quel porto britannico dove era nato e dove lavorava come marinaio, mostrava un notevole miglioramento economico. Sua moglie si vestiva meglio, e la loro famiglia, in crescita, poteva ora contare su relazioni sempre più numerose e di rango superiore tra i bambini della stessa classe sociale; prima non avrebbero mai avuto occasione di frequentarli. Si mormorava persino che Bill Bones avesse effettuato importanti investimenti nella City di Londra, città che aveva sicuramente visitato più di sei volte durante la sua ultima permanenza in [[settings/england|Inghilterra]]; e sebbene i suoi amici fossero disposti ad ammettere che i profitti derivanti dal commercio nel Baltico potessero essere considerevoli, e che Bill Bones avesse avuto opportunità eccezionali, non smettevano comunque di chiedersi quali altre possibili fonti di ricchezza potessero spiegare tale successo economico.
 
 Con la quinta stagione terminò quella che senza dubbio era stata una serie straordinaria. Quali che fossero stati i vantaggi derivanti dal rapporto con un trono per William Bones, il futuro avrebbe sicuramente rivelato tutto; ma la quinta stagione fu davvero l’ultima. Ci furono addii, eppure non si verificò alcuna perdita della grande stima che, per qualche motivo insolito, lui suscitava in “Semiramide del Nord”. Aveva acquisito una certa sicurezza nel proprio portamento, segno dei suoi nuovi successi; anzi, in questa ultima scena della sua presenza sulle banchine di San Pietroburgo, il suo modo di camminare sembrava indicare che fosse davvero una persona importante. E non c’è da meravigliarsi: aveva lasciato il Palazzo per l’ultima volta, nascondendo nel petto del proprio ampio mantello un gioiello degno di ricordare i momenti più significativi di qualsiasi vita umana.
 
@@ -2362,7 +2362,7 @@ Il suo unico figlio, George, quando raggiunse l’età adatta per intraprendere 
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="The Emerald of Catherine the Great — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="setting/england"></span>
 
 
-William Bohun himself died somewhat prematurely in the eighth year after his transmigration, and his wife, who, though much desiring to cut a proper figure in her new world, had never properly succeeded in doing so, followed him within three months to the grave. Her younger daughters had received an excellent education; her eldest, born in her father’s earlier days, had perhaps less refinement of accent and deportment — but on the other hand, her solid worth and quite exceptional dowry had procured her alliance with the heir to Sir Philip Goole, a landed gentleman in the West of [[England]] possessed of a fine town house in Cavendish Square, but indifferent to politics.
+William Bohun himself died somewhat prematurely in the eighth year after his transmigration, and his wife, who, though much desiring to cut a proper figure in her new world, had never properly succeeded in doing so, followed him within three months to the grave. Her younger daughters had received an excellent education; her eldest, born in her father’s earlier days, had perhaps less refinement of accent and deportment — but on the other hand, her solid worth and quite exceptional dowry had procured her alliance with the heir to Sir Philip Goole, a landed gentleman in the West of [[settings/england|England]] possessed of a fine town house in Cavendish Square, but indifferent to politics.
 
 George de Bohun — he had at first rejected but later began to use the prefix “de” which a friend in the Heralds’ College had suggested to him — prospered, I am glad to say, exceedingly, as the son of such a worthy father should, and acquired the playful nickname of “The Nabob,” which spread from the city to the more exalted circles into which he was welcomed, west of Temple Bar. It is a sufficient indication of the respect in which he was held when I say that he was elected to Brooks’s Club, and there, by his generous behaviour at the card table, failed not to become a favourite with the most exalted of his contemporaries in Whig circles.
 
@@ -2393,7 +2393,7 @@ If it be not blasphemy to suggest any inefficiency in our Teutonic cousins, I sh
 
 <span class="qlang-split" data-lang="it"></span>
 
-William Bohun stesso morì piuttosto prematuramente nell’ottavo anno dopo il suo arrivo nel nuovo mondo; sua moglie, sebbene desiderasse ardentemente distinguersi nella sua nuova vita, non riuscì mai a farlo veramente e lo seguì nella tomba entro tre mesi. Le sue figlie minori avevano ricevuto un’ottima educazione; la maggiore, nata negli anni precedenti la morte del padre, forse presentava meno raffinatezza nell’accento e nel comportamento. Ma d’altra parte, il suo solido carattere e il suo considerevole dote le permisero di sposare l’erede di Sir Philip Goole, un gentiluomo terriero dell’Ovest dell’[[England|Inghilterra]] che possedeva una bella casa in Cavendish Square, ma era indifferente alla politica.
+William Bohun stesso morì piuttosto prematuramente nell’ottavo anno dopo il suo arrivo nel nuovo mondo; sua moglie, sebbene desiderasse ardentemente distinguersi nella sua nuova vita, non riuscì mai a farlo veramente e lo seguì nella tomba entro tre mesi. Le sue figlie minori avevano ricevuto un’ottima educazione; la maggiore, nata negli anni precedenti la morte del padre, forse presentava meno raffinatezza nell’accento e nel comportamento. Ma d’altra parte, il suo solido carattere e il suo considerevole dote le permisero di sposare l’erede di Sir Philip Goole, un gentiluomo terriero dell’Ovest dell’[[settings/england|Inghilterra]] che possedeva una bella casa in Cavendish Square, ma era indifferente alla politica.
 
 George de Bohun – all’inizio aveva rifiutato di utilizzare il prefisso “de”, ma in seguito ne iniziò l’uso su suggerimento di un amico del College degli Araldi – ebbe, sono lieto di dirlo, un enorme successo, come ci si aspetterebbe da figlio di un padre così nobile, e guadagnò il soprannome scherzoso di “Il Nabob”. Questo soprannome si diffuse non solo nella città, ma anche nei circoli più elevati in cui veniva accolto, a ovest di Temple Bar. È una chiara dimostrazione del rispetto che gli era dovuto il fatto che venisse eletto membro del Brooks’s Club; lì, grazie al suo comportamento generoso ai tavoli da gioco, divenne sicuramente uno dei preferiti tra i suoi contemporanei appartenenti ai circoli whig.
 
@@ -2457,7 +2457,7 @@ Aunt Amelia had made a pompous present of him three years before to her beloved 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO DUE
+CAPITOLO DUE
 
 Erano passate circa quattro settimane da quando il signor de Bohun aveva regalato alla figlia Marjorie la mascotte di famiglia. Era venerdì, 30 gennaio 1930: il tempo era freddo e nuvoloso, con la minaccia di neve, e già era calata la notte.
 
@@ -2520,7 +2520,7 @@ Victoria Mosel was there, Marjorie’s friend of another generation, still sinuo
 
 The first was the hippo-phile, the expert in things of the Turf whom you have just heard of, young Lord Galton, the son of the Home Secretary’s first cousin, Cecily, who had brought to Algernon, first — and very nearly last — Lord Galton, a sufficient dowry, drawn from the then ample funds of the de Bohuns, for her father had been the younger brother of the Home Secretary. But this first — and very nearly last — Lord Galton indeed was dead, and so was Lady Galton his wife, and the young man, now his own father, found his inheritance less than he might have desired. The Galtons, wisely taking their title from their name, had not done well since they had left Liverpool; they had left that town too early. So here he was, a tall, dark young man, a little too solid and certain of himself, and — unhappily — attached to racing, a pastime for which his fortune might have been sufficient fifty years ago, but was not at all sufficient to-day.
 
-It was not every house in [[England]] in which Lord Galton would have been welcomed; but family counts, and he was here, with his rather sullen face, strong chin and fixed mouth, and sub-challenging eyes. They were sub-challenging because of Attaboy the horse. He had not suffered as he might have done; he went a good deal less to one or two of his better clubs than he had done before the rumour spread, but he was still a constant member of the Posts and gambled there assiduously and with some success. Yet was he always embarrassed, and his embarrassment did not help his reputation.
+It was not every house in [[settings/england|England]] in which Lord Galton would have been welcomed; but family counts, and he was here, with his rather sullen face, strong chin and fixed mouth, and sub-challenging eyes. They were sub-challenging because of Attaboy the horse. He had not suffered as he might have done; he went a good deal less to one or two of his better clubs than he had done before the rumour spread, but he was still a constant member of the Posts and gambled there assiduously and with some success. Yet was he always embarrassed, and his embarrassment did not help his reputation.
 
 He sat at the tea table that afternoon, fighting the boredom of Aunt Amelia with what was toleration if it was not courtesy, and looking at Marjorie without admiration but perhaps with intention. Now and then he cast a furtive sharp look, when he thought it was safe, at Victoria Mosel. She always knew too much, and as she stood there in front of the fire, with a sham vacant look on her shrewd face, and the eternal cigarette hanging from her lip, he wished her farther.
 
@@ -2565,7 +2565,7 @@ C'era Victoria Mosel lì, l'amica di un'altra generazione di Marjorie, che conti
 
 Il primo era l’amante degli ippopotami, l’esperto in questioni legate ai cavalli di cui avete appena sentito parlare, il giovane Lord Galton, figlio della cugina di primo grado del Segretario dell’Interno, Cecily, che aveva portato ad Algernon – per la prima volta, e quasi anche per l’ultima – una dote sufficiente, proveniente dai considerevoli beni dei de Bohuns; infatti suo padre era il fratello minore del Segretario dell’Interno. Ma questo primo, e quasi ultimo. Lord Galton era ormai morto, così come sua moglie Lady Galton; il giovane, che ora era diventato padre a sua volta, si trovò con un patrimonio inferiore a quanto avesse sperato. I Galton, saggiamente scegliendo di derivare il loro titolo dal proprio nome, non avevano avuto successo da quando avevano lasciato Liverpool. Avevano lasciato quella città troppo presto. E così eccolo lì: un giovane alto e scuro di pelle, un po’ troppo sicuro di sé stesso, e, sfortunatamente, appassionato di corse; uno svago per il quale cinquant’anni fa la sua fortuna sarebbe stata sufficiente, ma che oggi non lo è affatto.
 
-Non in ogni casa d’[[England|Inghilterra]] Lord Galton sarebbe stato accolto con favore; ma la famiglia conta, e lui era lì, con il suo viso piuttosto cupo, il mento forte e le labbra serrate, gli occhi che sembravano lanciare continue sfide. Queste sfide derivavano soprattutto dal cavallo Attaboy: non aveva sofferto quanto avrebbe potuto; frequentava molto meno alcuni dei suoi club più prestigiosi rispetto a prima che si diffondesse la voce, ma rimaneva comunque un membro assiduo del “Posts” e vi giocava con costanza, ottenendo anche qualche successo. Tuttavia, era sempre imbarazzato, e questo suo imbarazzo non aiutava affatto la sua reputazione.
+Non in ogni casa d’[[settings/england|Inghilterra]] Lord Galton sarebbe stato accolto con favore; ma la famiglia conta, e lui era lì, con il suo viso piuttosto cupo, il mento forte e le labbra serrate, gli occhi che sembravano lanciare continue sfide. Queste sfide derivavano soprattutto dal cavallo Attaboy: non aveva sofferto quanto avrebbe potuto; frequentava molto meno alcuni dei suoi club più prestigiosi rispetto a prima che si diffondesse la voce, ma rimaneva comunque un membro assiduo del “Posts” e vi giocava con costanza, ottenendo anche qualche successo. Tuttavia, era sempre imbarazzato, e questo suo imbarazzo non aiutava affatto la sua reputazione.
 
 Quel pomeriggio sedeva al tavolo da tè, cercando di combattere la noia causata dalla zia Amelia con comportamenti che, se non si potevano definire cortesi, almeno erano tollerabili; guardava Marjorie senza ammirazione, ma forse con un certo intento. Di tanto in tanto, quando pensava di poterselo permettere, le lanciava sguardi furtivi e penetranti verso Victoria Mosel. Lei sapeva sempre troppo. Mentre stava lì davanti al fuoco, con quell’espressione apparentemente vuota sul suo viso astuto e la sigaretta che pendeva dalle sue labbra, lui avrebbe voluto che scomparisse per sempre.
 
@@ -2703,9 +2703,9 @@ To action, therefore — to the Emerald!
 
 Il Ministro dell’Interno guardò l’orologio da polso, poi quello a muro, si rese conto che non corrispondevano, fece una smorfia e disse che sarebbe arrivato in qualsiasi momento.
 
-# Victoria Mosel scommette su Mr. McTaggart
+Victoria Mosel scommette su Mr. McTaggart
 
-#"Dee-Boe-Hunn"."
+"Dee-Boe-Hunn"."
 
 “Ti dico una cosa”, disse Victoria Mosel, “lui ti chiama Dee Boe Hunn”.
 
@@ -2839,7 +2839,7 @@ Far in the Eastern Wing where, mured in stone Arrived at by a passage cold that 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Capitolo Tre
+Capitolo Tre
 
 Era proprio quella stessa sera di venerdì, alle 9:55 circa. Gli uomini erano appena rientrati dal salone da pranzo. Avevano ricevuto l’avvertimento che la governante, la signora Bankes (non temete nulla, non la rivedrete mai più), aveva preso in custodia il salotto. Non era loro permesso tornarci, perché anche in quel momento i “servi ritardatari” stavano, sotto gli occhi della signora Bankes, stendendo grandi teli scuri sui divani e sulle tavole per proteggerli dal primo sole del mattino.
 
@@ -2942,7 +2942,7 @@ Not so long since, this same Ethelbert had (alas!) in company with youths of his
 
 The Deed might have appeared upon his record at Scotland Yard and dogged him through life, for he was already eight years of age and knew full well the wickedness of his act. He had been spared by the noble elasticity of the English Common Law. His sobbing widowed mother had seen, indeed, the shadow of the police across her threshold, and Ethelbert had stood in the Felons’ Dock before the dud parliamentary lawyer who had got the local stipendiary job. But our Magistracy — especially that of the Stipendiary Sort — is famous throughout the whole world for its merciful wisdom. Young Bert had escaped imprisonment, as having been led away by his senior Charlie Gasket, who was nearly ten.
 
-He had, I say, been saved; but the memory of the peril had burnt into his soul. And now, though he was nearly fifteen years of age, the incident still stood out the sharpest of his memories. It was known to his lord the Butler — perhaps to his Master — but to no others. He had been taken into the [[Great House]] in spite of it all, because his father had worked upon the estate. Therefore, I say, did Ethelbert feel himself redeemed. But he trembled still at the apparatus of National Justice.
+He had, I say, been saved; but the memory of the peril had burnt into his soul. And now, though he was nearly fifteen years of age, the incident still stood out the sharpest of his memories. It was known to his lord the Butler — perhaps to his Master — but to no others. He had been taken into the [[motifs/great-house|Great House]] in spite of it all, because his father had worked upon the estate. Therefore, I say, did Ethelbert feel himself redeemed. But he trembled still at the apparatus of National Justice.
 
 The Boy Ethelbert untouched by
 
@@ -2957,7 +2957,7 @@ There is an instinct planted in man by Mr. Darwin, which impels him to pick up a
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO QUATTRO
+CAPITOLO QUATTRO
 
 L’imponente dignità del sangue nordico non si manifesta mai con maggiore perfezione che in quella rappresentazione della nostra civiltà: una semplice casa di campagna inglese. Qui non esiste consapevolezza di classe, qui non ci sono guerre di classe. Ognuno occupa il proprio posto, e la pace regna grazie all’ordine.
 
@@ -2975,9 +2975,9 @@ Non molto tempo fa, lo stesso Ethelbert – ahimè! – insieme ad altri ragazzi
 
 Quel atto avrebbe potuto apparire nei suoi registri presso Scotland Yard e perseguitarlo per tutta la vita, perché aveva già otto anni ed era ben consapevole della malvagità del proprio gesto. Era stato risparmiato dalla nobile flessibilità del diritto comune inglese. Sua madre vedova, in lacrime, aveva effettivamente visto l’ombra della polizia oltre la soglia di casa loro, e Ethelbert era anche comparso davanti a quel mediocre avvocato parlamentare che aveva ottenuto il lavoro retribuito dal comune. Ma la nostra magistratura – soprattutto quella dei funzionari retribuiti – è famosa in tutto il mondo per la sua saggezza misericordiosa. Il giovane Bert era riuscito a evitare l’incarcerazione, perché era stato portato via dal suo fratello maggiore Charlie Gasket, che aveva quasi dieci anni.
 
-Era stato salvato, dico; ma il ricordo del pericolo era rimasto impresso profondamente nella sua anima. E ora, nonostante avesse quasi quindici anni, quell’episodio continuava a essere il più vivido dei suoi ricordi. Il suo padrone, il maggiordomo, forse anche il suo signore, ne erano a conoscenza; ma nessun altro lo sapeva. Nonostante tutto ciò, era stato accolto nella [[Great House|Grande Casa]], perché suo padre aveva lavorato in quella tenuta. Ecco perché Ethelbert si sentiva redento. Ma ancora oggi tremava al solo pensiero dei meccanismi della Giustizia Nazionale.
+Era stato salvato, dico; ma il ricordo del pericolo era rimasto impresso profondamente nella sua anima. E ora, nonostante avesse quasi quindici anni, quell’episodio continuava a essere il più vivido dei suoi ricordi. Il suo padrone, il maggiordomo, forse anche il suo signore, ne erano a conoscenza; ma nessun altro lo sapeva. Nonostante tutto ciò, era stato accolto nella [[motifs/great-house|Grande Casa]], perché suo padre aveva lavorato in quella tenuta. Ecco perché Ethelbert si sentiva redento. Ma ancora oggi tremava al solo pensiero dei meccanismi della Giustizia Nazionale.
 
-#Il ragazzo Ethelbert, intatto da tutto…
+Il ragazzo Ethelbert, intatto da tutto…
 
 Civiltà.
 
@@ -3211,7 +3211,7 @@ Incontrò uno dei servitori e chiese dove potesse trovarsi il signor de Bohun; g
 
 Andò dritto dal suo cugino, che si girò non appena sentì i suoi passi, e disse molto piano e rapidamente:
 
-#"Vorrei parlarti da solo nel tuo studio per un momento… È urgente!"
+"Vorrei parlarti da solo nel tuo studio per un momento… È urgente!"
 
 E il Ministro dell’Interno, alzando lo sguardo in fretta con un’espressione di paura, disse: “Sì? Certo! Venga pure.”
 
@@ -3271,7 +3271,7 @@ The Home Secretary put on his expression of gravity in the third degree — the 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO CINQUE
+CAPITOLO CINQUE
 
 Lord Galton stava accanto al Segretario di Stato per gli Interni nel suo studio; all’improvviso guardò intorno e disse: “Posso chiudere la porta?” La chiuse senza chiedere permesso, poi tornò indietro e iniziò a parlare.
 
@@ -3492,9 +3492,9 @@ Il ragazzo si immaginava osservato da mille occhi. Non osava andarsene, eppure i
 
 Il piano del Professore era semplice, ma McTaggart era ancora più semplice di lui.
 
-# Improvvisa passione per il gioco del biliardo
+Improvvisa passione per il gioco del biliardo
 
-# Parte del Professore di Cristallografia
+Parte del Professore di Cristallografia
 
 All’università.
 
@@ -3677,7 +3677,7 @@ Then how to put it? He thought long and deeply. He must put it with sympathy —
 
 He had handled other situations in his other situations, had Mr. Whaley: none quite so delicate as this, but still, some of ’em pretty delicate. Yes; he must talk to Humphrey as a friend. Respectfully, but as a friend: and above all firmly. It was clear that such a service would merit some reward.
 
-God knows, there would be no tone of menace! Oh, no! Whatever honorarium might accrue to George Whaley as a reward for such revelation should be the gift of a grateful heart alone: and, said Mr. George Whaley to his own conscience, why not? He would be doing his master a very great service. Indeed, he would be doing a double service — nay, a treble one. For he would be rescuing the Home Secretary of [[England]] from his lower self; that was a moral service. He would be preventing him from inevitable discovery; that was a material service. He would be serving him faithfully as an honest domestic should; and that was a service of loyalty.
+God knows, there would be no tone of menace! Oh, no! Whatever honorarium might accrue to George Whaley as a reward for such revelation should be the gift of a grateful heart alone: and, said Mr. George Whaley to his own conscience, why not? He would be doing his master a very great service. Indeed, he would be doing a double service — nay, a treble one. For he would be rescuing the Home Secretary of [[settings/england|England]] from his lower self; that was a moral service. He would be preventing him from inevitable discovery; that was a material service. He would be serving him faithfully as an honest domestic should; and that was a service of loyalty.
 
 Was it to be wondered at (the whole scene rose vividly before his eyes as it was to be — as it certainly would be), was it to be wondered at that the grateful man should, on an impulse, seize the honest servitor’s hand, grasp it warmly, and then, with a catch in his voice, cry aloud, “Whaley, you have served me well!” The rest would follow. Not less, he took it, than five hundred pounds.
 
@@ -3694,7 +3694,7 @@ Such was the plan of George Whaley. Once more he recited, but in an undertone, a
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO SEI
+CAPITOLO SEI
 
 Il ragazzo Etelbert soffriva; non per pentimento – che, a chi di voi è istruito, non occorre spiegare, rappresenta il vero dolore per il peccato – ma per l’angoscia derivante dalle sue spiacevoli conseguenze personali.
 
@@ -3762,7 +3762,7 @@ Allora, come dovrei dirlo? Ci pensò a lungo e con attenzione. Dovevo esprimermi
 
 Aveva affrontato altre situazioni in passato. Ma nessuna era stata così delicata come questa, anche se alcune lo erano state abbastanza. Sì, doveva parlare con Humphrey da amico: con rispetto, ma da amico. E soprattutto con fermezza. Era chiaro che un simile aiuto meritasse una ricompensa.
 
-Dio solo sa che non ci sarebbe stato alcun tono minaccioso! Oh, no! Qualsiasi compenso potesse derivare a George Whaley per una rivelazione del genere dovrebbe essere considerato soltanto un dono di un cuore grato. E, disse il signor George Whaley alla propria coscienza, perché no? Stava infatti rendendo un grande servizio al proprio padrone. Anzi, stava compiendo un doppio servizio. No, addirittura un triplo servizio: avrebbe salvato il Segretario di Stato per l’Interno dell’[[England|Inghilterra]] dal suo lato più basso; questo era un servizio morale. Avrebbe impedito che la verità venisse scoperta inevitabilmente; questo era un servizio materiale. E avrebbe servito il proprio padrone con fedeltà, come dovrebbe fare un domestico onesto. Questo era un servizio di lealtà.
+Dio solo sa che non ci sarebbe stato alcun tono minaccioso! Oh, no! Qualsiasi compenso potesse derivare a George Whaley per una rivelazione del genere dovrebbe essere considerato soltanto un dono di un cuore grato. E, disse il signor George Whaley alla propria coscienza, perché no? Stava infatti rendendo un grande servizio al proprio padrone. Anzi, stava compiendo un doppio servizio. No, addirittura un triplo servizio: avrebbe salvato il Segretario di Stato per l’Interno dell’[[settings/england|Inghilterra]] dal suo lato più basso; questo era un servizio morale. Avrebbe impedito che la verità venisse scoperta inevitabilmente; questo era un servizio materiale. E avrebbe servito il proprio padrone con fedeltà, come dovrebbe fare un domestico onesto. Questo era un servizio di lealtà.
 
 C'era davvero da meravigliarsi (tutta la scena gli si presentò vividamente davanti agli occhi, proprio come sarebbe successo – e infatti accadde), che quell’uomo grato, spinto dall’impulso del momento, afferrasse la mano dell’onesto servitore, la stringesse calorosamente e poi, con voce commossa, esclamasse: “Whaley, mi hai servito bene!” Il resto sarebbe seguito. Gli diede addirittura cinquecento sterline.
 
@@ -3834,7 +3834,7 @@ Within twenty minutes more the great statesman was in his official palace of Whi
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO SETTE
+CAPITOLO SETTE
 
 Marjorie aveva insistito per incontrare suo padre da solo, e le era riuscito abbastanza facilmente.
 
@@ -3937,7 +3937,7 @@ The Home Secretary meditated.
 
 “No one’ll suspect anything?” persisted his chief anxiously.
 
-“Oh, no, no, no!” assured Morden airily. “I know the man like an uncle. Quiet, silver, rather too refined, silent, tall. Dresses — if anything — a little too carefully. At Lady Matcham’s he passed for a Don working in Egypt who hadn’t come to London for months. And in this last Yorkshire case he passed as a Times correspondent just back in [[England]] from the east after some years. All you have to do is to make up good reasons for people not having seen him before. He passes perfectly.”
+“Oh, no, no, no!” assured Morden airily. “I know the man like an uncle. Quiet, silver, rather too refined, silent, tall. Dresses — if anything — a little too carefully. At Lady Matcham’s he passed for a Don working in Egypt who hadn’t come to London for months. And in this last Yorkshire case he passed as a Times correspondent just back in [[settings/england|England]] from the east after some years. All you have to do is to make up good reasons for people not having seen him before. He passes perfectly.”
 
 “The accent?” said the Home Secretary, knitting his brows again. “Is — well — you know what I mean?”
 
@@ -4006,7 +4006,7 @@ Il Ministro dell’Interno rifletté a lungo.
 
 “Nessuno sospetterà nulla?” insistette ansiosamente il suo capo.
 
-“Oh, no, no, no!” disse Morden con noncuranza. “Conosco quell’uomo come un zio. Calmo, silenzioso, troppo raffinato, alto. Si veste, beh, un po’ troppo attentamente. Alla casa di Lady Matcham si è fatto passare per un signore spagnolo che lavorava in Egitto e non era tornato a Londra da mesi; nell’ultimo caso nel Yorkshire si è finto un corrispondente del ‘Times’ appena rientrato in [[England|Inghilterra]] dall’est. Basta solo inventare buone ragioni per spiegare perché la gente non lo abbia mai visto prima. Si confonde perfettamente.”
+“Oh, no, no, no!” disse Morden con noncuranza. “Conosco quell’uomo come un zio. Calmo, silenzioso, troppo raffinato, alto. Si veste, beh, un po’ troppo attentamente. Alla casa di Lady Matcham si è fatto passare per un signore spagnolo che lavorava in Egitto e non era tornato a Londra da mesi; nell’ultimo caso nel Yorkshire si è finto un corrispondente del ‘Times’ appena rientrato in [[settings/england|Inghilterra]] dall’est. Basta solo inventare buone ragioni per spiegare perché la gente non lo abbia mai visto prima. Si confonde perfettamente.”
 
 “L’accento?” disse il Segretario dell’Interno, aggrottando di nuovo la fronte. “È, insomma, capite cosa intendo, ”
 
@@ -4065,7 +4065,7 @@ The Professor went in.
 
 “That’s it,” said the Professor, nodding genially. “That’s it. That’s what I want. That’s it.” Slipping it into his pocket, he made for the door, nodding good day.
 
-“Hi! Mister! That’ll be five guineas,” said the ancient. Oh! vileness of avaricious age! He had seen his client coming out by the garden gate by the [[Great House]], he had noted guilty haste, he had noted academic idiocy, and he charged accordingly.
+“Hi! Mister! That’ll be five guineas,” said the ancient. Oh! vileness of avaricious age! He had seen his client coming out by the garden gate by the [[motifs/great-house|Great House]], he had noted guilty haste, he had noted academic idiocy, and he charged accordingly.
 
 “Oh, yes! Of course ... ah! What! Five guineas? ... five guineas! FIVE GUINEAS!”
 
@@ -4098,7 +4098,7 @@ He searched in his pocket. Humphrey de Bohun looked to see the jewel appear. Not
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO OTTO
+CAPITOLO OTTO
 
 Molte delle nostre invenzioni moderne più importanti sono state anticipate dai cinesi, e dovremmo rispettarli ancora di più proprio perché non sono cristiani. Polvere da sparo, denaro falso, l’arte della stampa, la diplomazia, la propaganda, i “fortuni” derivanti dalle prigioni, i tassimetri, tutte queste invenzioni provengono dall’Estremo Oriente. Ma cosa c’entro io con tutto questo? Io parlo del compasso nautico, anch’esso scoperto per primo dai cinesi.
 
@@ -4134,13 +4134,13 @@ Il Professore entrò.
 
 “Ecco fatto,” disse il Professore, annuendo cordialmente. “Esatto. È proprio questo che volevo. Ecco fatto.” Mettendosela in tasca, si diresse verso la porta, salutando con un cenno di addio.
 
-“Ehi! Signore! Cinque ghinee, per favore,” disse l’anziano. Oh, la malvagità di un'epoca avida e meschina! Aveva visto il suo cliente uscire dal cancello del giardino vicino alla [[Great House|Grande Casa]], aveva notato la sua fretta colpevole, aveva osservato la sua stupidità, e quindi aveva chiesto il prezzo corrispondente.
+“Ehi! Signore! Cinque ghinee, per favore,” disse l’anziano. Oh, la malvagità di un'epoca avida e meschina! Aveva visto il suo cliente uscire dal cancello del giardino vicino alla [[motifs/great-house|Grande Casa]], aveva notato la sua fretta colpevole, aveva osservato la sua stupidità, e quindi aveva chiesto il prezzo corrispondente.
 
 “Ah sì! Certo… oh! Cosa? Cinque ghinee?… cinque ghinee! CINQUE GHinee!”
 
 Era davvero disgustoso. Ma il prezzo del peccato è la morte. Lui deve subirlo. O qualcosa del genere. E deve farlo ora, prima che Humphrey torni a casa. Il peccato non aspetterà.
 
-# Deplorevole errore morale del professor de Bohun
+Deplorevole errore morale del professor de Bohun
 
 (pronunciato “Buon”).
 
@@ -4242,7 +4242,7 @@ But wait! Should he tell the great detective when he arrived? No. It would be on
 
 Qualsiasi cosa andava bene per quel pedante ingannevole. Annuì felicemente.
 
-#Il professor de Bohun spiega al capo…
+Il professor de Bohun spiega al capo…
 
 Titolo:  
 Fondando la sua teoria… o meglio, la sua certezza, sulla famiglia
@@ -4320,7 +4320,7 @@ Collop? Collop? What was this? The disguise for Brailton?
 
 The father rose to his feet, somewhat painfully, the daughter looked round. And behold! a man sturdy, broad-shouldered, short, clad, not in some soft clinging stuff, but in stout Scotch tweed, which — as to his upper part — was a roomy coat with poachers’ pockets, and — as to his lower — plus-fours. His stockings were thick and ribbed, as fashion in a certain world demanded at that moment; but his boots were of that unmistakable sort provided by the Government of the King for his police. The hair was short, coarse, and thick; the face broad and determined; the eyes straightforward, grey and far too bold. What the mouth might really be like only its Creator knew, for it was thatched by a moustache so bristling, curt, aggressive and sprouting-out that the eye of the onlooker was fascinated and could not note the ugly lips below.
 
-“Evenin’!” said the Apparition in a powerful voice of low pitch; and as he said it he bobbed the head and shoulders of him towards the man who — for a year or two — controlled the peace — and police — of [[England]].
+“Evenin’!” said the Apparition in a powerful voice of low pitch; and as he said it he bobbed the head and shoulders of him towards the man who — for a year or two — controlled the peace — and police — of [[settings/england|England]].
 
 “Evenin’, ma’am,” added the Apparition with the same jerk of the head and shoulders towards the Lady of the House. “Cold evenin’? Good fire, I see!” he added with a charming familiarity. “Pleasant thing evenin’s the likes o’ this, a good fire is.”
 
@@ -4363,7 +4363,7 @@ The call on Marjorie’s intelligence woke her to action.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO NOVE
+CAPITOLO NOVE
 
 Il Segretario di Gabinetto si trovava nel suo studio davanti a un piacevole fuoco. Il Professore se n'era andato; sua figlia era con lui. Non c'era nessun altro nella stanza. Lui l'aveva chiamata prima, per spiegarle alcune cose. Mancavano ancora quindici minuti prima di doversi vestire per la cena, e quel terribile sconosciuto del cortile poteva arrivare da un momento all'altro. Aveva avvertito tutti i suoi ospiti che un distinto diplomatico aveva chiesto di incontrarlo con urgenza. Il Ministero degli Esteri lo aveva inviato al Ministero dell’Interno; la questione riguardava entrambi i dipartimenti. Quel distinto diplomatico avrebbe cenato con loro. Avrebbero dovuto scusare il suo ritiro più tardi quella sera, per discutere di importanti affari di Stato.
 
@@ -4389,7 +4389,7 @@ Colpo? Colpo? Che cos'era questo? Il travestimento di Brailton?
 
 Il padre si alzò in piedi, con qualche difficoltà; la figlia guardò intorno. E eccolo lì: un uomo robusto, dalle spalle larghe, di statura bassa, vestito non con tessuti morbidi e aderenti, ma con solido tweed scozzese. La parte superiore del suo abbigliamento era costituita da un cappotto ampio con tasche particolari; quella inferiore da pantaloni larghi. Le sue calze erano spesse e a righe, come richiedeva la moda in quel momento. Ma i suoi stivali appartenevano senza dubbio al tipo fornito dal governo del Re per la sua polizia. I capelli erano corti, ruvidi e folti; il viso largo e deciso; gli occhi diretti, grigi e piuttosto audaci. Com’era davvero la sua bocca? Solo il suo Creatore lo sapeva. Era coperta da una barba così folta, corta, aggressiva che l’attenzione dell’osservatore veniva completamente catturata da essa, impedendogli di notare le labbra brutte e sgradevoli al di sotto.
 
-“Buonasera!”, disse l’apparizione con una voce potente e profonda; mentre lo diceva, mosse la testa e le spalle in direzione dell’uomo che, per un anno o due, aveva il controllo della pace e della polizia di [[England|Inghilterra]].
+“Buonasera!”, disse l’apparizione con una voce potente e profonda; mentre lo diceva, mosse la testa e le spalle in direzione dell’uomo che, per un anno o due, aveva il controllo della pace e della polizia di [[settings/england|Inghilterra]].
 
 “Buonasera, signora,” aggiunse l’apparizione con lo stesso movimento della testa e delle spalle verso la padrona di casa. “Serata fredda, eh? Beh, vedo che avete un bel fuoco, ” disse con una cordiale familiarità. “È davvero piacevole una serata del genere, con un buon fuoco.”
 
@@ -4713,7 +4713,7 @@ McTaggart was tired of standing up. He sat down in another chair, and said “Ye
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO DIECI
+CAPITOLO DIECI
 
 Il signor Collop uscì, vestito, e rimase sorpreso nel trovare il suo ospite ad aspettarlo, per non dire ad attenderlo, nel corridoio all’esterno.
 
@@ -4889,7 +4889,7 @@ McTaggart accettò quel gesto.
 
 “Sono grato, signore,” disse semplicemente. “Capisco perfettamente che una persona nella mia posizione possa essere naturalmente sospettata.”
 
-# Il signor McTaggart spiega al grande statista
+Il signor McTaggart spiega al grande statista
 
 Titolo:  
 La sua teoria… o meglio, la sua certezza… su…
@@ -5064,7 +5064,7 @@ With a sigh he turned towards the door of the library, within which room, alone,
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO UNDICI
+CAPITOLO UNDICI
 
 Durante la cena, il signor Collop non rimase in silenzio. Inutilmente il Segretario di Stato per gli Interni fece segno al suo servitore con un'espressione cupa che si dovesse risparmiare il vino del signor Collop. Il signor Collop, essendo pienamente consapevole delle proprie maniere, chiese semplicemente altro vino quando ne desiderò ancora. Questo, se possibile, aumentò ancora di più il suo straordinario coraggio.
 
@@ -5173,7 +5173,7 @@ Mr. Collop needed no further invitation. Proceeding was his passion — I might 
 
 “I’ll tell you my express method — since ye want it express,” said Mr. Collop, speaking now no louder than your ordinary street orator, railways guard or the cabinet minister at election. “First, to establish what I call negative evidence. This term,” he added sententiously, “I will make clear in a moment. Two” — he ticked them off on his podgy fingers— “what I call the search, comparable to the experiment conducted by men of science; with no hypothetic bless you, none at all! Just random like. Now then, in the midst of that we shall find a clue. What then? Then number three. The hypothetic is formed, modified, readjusted, co-ordinated, and leads infallibly to the inevitable conclusion.”
 
-He coughed and spat in the fire. It was perhaps the thirty-seventh time in the last ten years that he had recited that piece. It had been written out for him by his nephew, who, he was proud to say, attended lectures at Manchester University, and he had it typewritten on a now rather dirty sheet of paper which he carried about with him all over [[England]].
+He coughed and spat in the fire. It was perhaps the thirty-seventh time in the last ten years that he had recited that piece. It had been written out for him by his nephew, who, he was proud to say, attended lectures at Manchester University, and he had it typewritten on a now rather dirty sheet of paper which he carried about with him all over [[settings/england|England]].
 
 “So what do we do now?” he continued heartily. “Why, we begin by establishing our negative evidence. Chrm! Chrm! And how do we do that? Why, we make sure that it is not in this room.”
 
@@ -5224,7 +5224,7 @@ And those sham-ancient polished parquet squares, their very base modern pitch pi
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Capitolo Dodici
+Capitolo Dodici
 
 Nella stanza Ovest, il Segretario dell’Interno aprì il fuoco sul suo ospite.
 
@@ -5238,7 +5238,7 @@ A Mr. Collop non serviva alcuna ulteriore invito: agire era la sua passione, anz
 
 “Vi spiegherò il mio metodo rapido, visto che lo volete così,” disse il signor Collop, parlando ora a voce non più alta di quella di un comune oratore di strada, di un guardiano delle ferrovie o di un ministro in tempo di elezioni. “Prima di tutto, è necessario stabilire ciò che io chiamo ‘prove negative’. Questo termine,” aggiunse con aria solenne, “lo chiarirò tra un attimo. Poi, due, ” contò sulle sue dita tozze, “ciò che io definisco ‘ricerche’, paragonabili agli esperimenti condotti dagli scienziati; senza alcuna ipotesi, assolutamente nessuna! Solo ricerche casuali. E poi, nel corso di queste ricerche troveremo un indizio. E dopo? Allora arriva il terzo passo: si formula un’ipotesi, la si modifica, la si adatta, la si coordina, e questa porta inevitabilmente alla conclusione inevitabile.”
 
-Tossì e sputò nel fuoco. Forse era la trentasettesima volta negli ultimi dieci anni che recitava quel testo. Glielo aveva scritto a mano suo nipote, il quale, con orgoglio doveva ammetterlo, frequentava le lezioni all’Università di Manchester; poi lo aveva fatto battere a macchina su un foglio di carta ormai piuttosto sporco, che portava sempre con sé in tutta l’[[England|Inghilterra]].
+Tossì e sputò nel fuoco. Forse era la trentasettesima volta negli ultimi dieci anni che recitava quel testo. Glielo aveva scritto a mano suo nipote, il quale, con orgoglio doveva ammetterlo, frequentava le lezioni all’Università di Manchester; poi lo aveva fatto battere a macchina su un foglio di carta ormai piuttosto sporco, che portava sempre con sé in tutta l’[[settings/england|Inghilterra]].
 
 “Allora, cosa facciamo ora?” continuò con entusiasmo. “Beh, iniziamo stabilendo le nostre prove negative. Chrmm! Chrmm! E come facciamo questo? Beh, ci assicuriamo che non siano in questa stanza.”
 
@@ -5612,7 +5612,7 @@ So true it is that once in every man’s life comes an opportunity and that in e
 
 <span class="qlang-split" data-lang="it"></span>
 
-#CAPITOLO TREDICESIMO
+CAPITOLO TREDICESIMO
 
 È un’occupazione affascinante osservare un potente cervello umano al lavoro su grandi problemi: il volto animato dall’intelligenza, la tensione dei muscoli, lo sguardo corrucciato; e percepire, dietro tutto ciò, quella forza motrice, quel potere irresistibile dell’intelligenza che rende l’uomo simile a Dio.
 
@@ -5796,7 +5796,7 @@ He repeated that phrase three times and fixed them to their stations; then he ra
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO QUATTORDICESIMO
+CAPITOLO QUATTORDICESIMO
 
 La mattina di domenica era sorta splendente, il suo splendore aumentava con il passare del tempo. La nebbia si era dissipata; un sole basso ma chiaro e magnifico illuminava i campi innevati, trasformando il cielo invernale.
 
@@ -5915,7 +5915,7 @@ He found the deliverer at the door of the West Room.
 
 “A winder was left open,” insisted bovinely Mr. Collop. “I’ll lay to that. And if you’ll settle that p’int you’ll see ’ow the rest’ll follow. I tell you I ‘ave me clue; it’s more than a clue; it’s a find. Ye’ll see!”
 
-The mechanism of a [[Great House|great house]] (delightful thought!) involves a hierarchy. The Home Secretary rang, and asked for the butler. An underling sought Mr. George Whaley, and Mr. George Whaley arrived. There was that in his eye which might have alarmed or warned the Head of the de Bohuns; but the Head of the de Bohuns was passing weary in the head just now, and he noted nothing.
+The mechanism of a [[motifs/great-house|great house]] (delightful thought!) involves a hierarchy. The Home Secretary rang, and asked for the butler. An underling sought Mr. George Whaley, and Mr. George Whaley arrived. There was that in his eye which might have alarmed or warned the Head of the de Bohuns; but the Head of the de Bohuns was passing weary in the head just now, and he noted nothing.
 
 “Oh!” he said, “I wanted you, Whaley ... to ask you — er — whether ... yes, to ask you who it is who does the room here in the early morning? Who, for instance, would be in the room here, say, well, before anybody else?”
 
@@ -5996,7 +5996,7 @@ Trovò il messaggero alla porta della Sala Ovest.
 
 “C’è ancora un regolatore aperto,” insistette in modo ottuso il signor Collop. “Ve lo assicuro. E se risolvete questo problema, vedrete come tutto il resto seguirà facilmente. Vi dico che ho una pista, anzi, è più di una semplice pista: è una vera scoperta. Vedrete!”
 
-Il meccanismo di una [[Great House|grande casa]] (che pensiero delizioso!) prevede una gerarchia ben definita. Il Ministro dell’Interno chiamò e chiese del maggiordomo; un subordinato andò a cercare il signor George Whaley, che poi arrivò. Negli occhi di lui c’era qualcosa che avrebbe potuto allarmare o mettere in guardia il capo della famiglia de Bohuns; ma in quel momento il capo dei de Bohuns era piuttosto stanco e non notò nulla.
+Il meccanismo di una [[motifs/great-house|grande casa]] (che pensiero delizioso!) prevede una gerarchia ben definita. Il Ministro dell’Interno chiamò e chiese del maggiordomo; un subordinato andò a cercare il signor George Whaley, che poi arrivò. Negli occhi di lui c’era qualcosa che avrebbe potuto allarmare o mettere in guardia il capo della famiglia de Bohuns; ma in quel momento il capo dei de Bohuns era piuttosto stanco e non notò nulla.
 
 “Oh!” disse, “Volevo che tu, Whaley, che tu mi chiedessi, insomma, chi è quella persona che viene in questa stanza all’alba? Chi, ad esempio, potrebbe trovarsi qui prima di chiunque altro?”
 
@@ -6164,7 +6164,7 @@ Nor did Lord Galton wince — though that parrot had suddenly revealed to him a 
 
 “Non ho menzionato nomi specifici,” disse Ethelbert, tremando per la paura e l’importanza della situazione. “Ma questo lo dico senz’altro, ed è, ”
 
-# Hai prove contro Lord Galton?
+Hai prove contro Lord Galton?
 
 “Ora, signor Dee Boe Hun,” insistette il signor Collop con decisione. “Ora, per favore, non facciamo che le cose prendano una brutta piega.”
 
@@ -6300,7 +6300,7 @@ There were no little marks — but no matter. He had done his best to suggest th
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO QUINDICI
+CAPITOLO QUINDICI
 
 Il signor Collop stava in piedi, con aria teatrale, al centro di quell’ampio appartamento: una sorta di tozza torre simbolo di umiltà trionfante e di successo insormontabile.
 
@@ -6588,7 +6588,7 @@ Let me not do Humphrey de Bohun injustice. He had never yet in his life taken an
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Capitolo Sedicesimo
+Capitolo Sedicesimo
 
 “Perdonatemi, signore! Potrei avere l’onore di parlare con voi in privato per un momento?”
 
@@ -6624,7 +6624,7 @@ Rimase fermo per circa quindici secondi; la sua testa coraggiosa, con quella fra
 
 “Solo la perdita di un cuore fedele può ingannare e confondere”, gemette George Whaley, citando letteralmente il testo de “The Waifs of the Whirlwind”. Incrociò le mani davanti al suo ampio gilet e abbassò tristemente la testa.
 
-#Il maggiordomo del Segretario di Stato per l’Interno che…
+Il maggiordomo del Segretario di Stato per l’Interno che…
 
 “Libertà di osservare: ‘Tu sei’”
 
@@ -6742,7 +6742,7 @@ Il volto di George Whaley in quel momento non era certo quello che potesse ispir
 
 “Ahia! Tu giovane dose di veleno!” gridò l’uomo ferito, mentre si lanciava verso la sua preda; con un urlo forte, Ethelbert fuggì. Corse attraverso la porta aperta nel cortile dove si trovavano i carbone, mentre George Whaley lo inseguiva zoppicando. Lì, appoggiata al muro del cortile, c’era una vecchia scala impazzita; il giovane Ethelbert la salì di corsa, e ai suoi piedi si trovava la vittima delle sue ingannevoli confidenze, che tremava stringendo un pugno impotente.
 
-# Dialogo tra il ragazzo Ethelbert e…
+Dialogo tra il ragazzo Ethelbert e…
 
 superiore caduto.
 
@@ -6883,7 +6883,7 @@ George Whaley, con i risparmi accumulati, acquistò immediatamente, dopo aver la
 <span class="atom-split" data-atom="chapter_17_sixteen--part_04" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 4)" data-chapter="SIXTEEN" data-kind="excerpt" data-tags="setting/england"></span>
 
 
-Ethelbert, a bright lad of nineteen, ordered by his master into the special constabulary during the third General Strike — I use the conventional numeration — was so unfortunate as to crack smartly upon the head a high dignitary of the Church of [[England]], and was thereupon put in prison at the instance of Lady Sophia — the eminent cleric’s wife — who would take no denial. Upon release, the General Strike being still in progress — it was the first of the really long General Strikes, as you will remember, he joined the regular police force, which is ever ready to welcome men of varied experience and initiative. But he never developed the intelligence required for the agent provocateur, in which capacity such members of the service as have had personal experience of the cells are commonly employed. He is now past thirty and doing clerical work in the Lost Property Department.
+Ethelbert, a bright lad of nineteen, ordered by his master into the special constabulary during the third General Strike — I use the conventional numeration — was so unfortunate as to crack smartly upon the head a high dignitary of the Church of [[settings/england|England]], and was thereupon put in prison at the instance of Lady Sophia — the eminent cleric’s wife — who would take no denial. Upon release, the General Strike being still in progress — it was the first of the really long General Strikes, as you will remember, he joined the regular police force, which is ever ready to welcome men of varied experience and initiative. But he never developed the intelligence required for the agent provocateur, in which capacity such members of the service as have had personal experience of the cells are commonly employed. He is now past thirty and doing clerical work in the Lost Property Department.
 
 What else remains? The horse, Attaboy, is dead, worn out in faithful labours at the stud. He was the sire of Get-On out of Get-Out. Get-Out, I need hardly tell you, was the sire of Success by Morning Star. Success was the sire of Repetition by Raseuse; and that is how Tabouche won the Oaks. I always did say the little filly would do well, for I have followed the strain — as, long ago, the form — of Attaboy, who now sleeps with his fathers — I means, sires, let alone dams.
 
@@ -6909,7 +6909,7 @@ And the emerald? Ah, my friends! My brothers! I will tell you what happened to t
 
 When Mrs. Pemberton, formerly Lady Galton, then Mrs. Munster née de Bohun, was making the straddle between the Pemberton and the Munster connections — what we call joining the slats — she needed five hundred pounds. It sounds ridiculous. But she did. One often does. She had outrun the constable. She did not want to bother her father, and for the very good reason that he had just got damnably knocked in the Hungarian Phosphates on the erroneous advice of that silly man Mowlem. Well, she had taken the emerald to the man who, Vic had told her, was the best expert in London — Mr. Marlovitch, Junior — and (behold!) he had proved to her by infallible tests that it was paste. What is more, he had given her proof out of learned books that no emerald of such size ever had existed, or could exist.
 
-The Bohuns had patriotism in their blood. Marjorie gave the famous trinket to the State — let me say to [[England]]! — under very easy conditions which earned her, I am glad to say, the entry of her daughter into Parliament. These conditions were modest: the emerald was to be permanently exhibited, in a very large case all by itself, in the British Museum, with a tablet engraved at the expense of [[England]] — I mean the State — describing it as the largest Emerald in the world — which it would have been if it had been an emerald — and assuring the honest public that it had been given by Catherine the Great to that member of the ancient family of de Bohuns who had served the interests of the State — or rather, let me say, of England — at the Court of All the Russias, in those days when the Semiramis of the North was the admiration of Europe.
+The Bohuns had patriotism in their blood. Marjorie gave the famous trinket to the State — let me say to [[settings/england|England]]! — under very easy conditions which earned her, I am glad to say, the entry of her daughter into Parliament. These conditions were modest: the emerald was to be permanently exhibited, in a very large case all by itself, in the British Museum, with a tablet engraved at the expense of [[settings/england|England]] — I mean the State — describing it as the largest Emerald in the world — which it would have been if it had been an emerald — and assuring the honest public that it had been given by Catherine the Great to that member of the ancient family of de Bohuns who had served the interests of the State — or rather, let me say, of England — at the Court of All the Russias, in those days when the Semiramis of the North was the admiration of Europe.
 
 “What!” you’ll exclaim (it’s just like you!), “would that regal woman, that generous if somewhat demanding lady, that broad German strong in her nobility, that Monarch of the Snows, Empress of all the Russias, have fallen to deceiving handsome Bill Bones with a piece of paste?”
 
@@ -6926,11 +6926,11 @@ Hilaire Belloc, 1915
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ethelbert, un giovane di diciannove anni e molto intelligente, fu inviato dal suo capo nella polizia speciale durante la terza Grande Sciopero – uso la numerazione convenzionale. Sfortunatamente, colpì con forza in testa un alto dignitario della Chiesa d’[[England|Inghilterra]]; di conseguenza fu messo in prigione su esortazione di Lady Sophia, moglie di quel prestigioso ecclesiastico, la quale non accettò alcuna spiegazione. Dopo essere stato rilasciato – poiché la Grande Sciopero era ancora in corso – e trattandosi della prima delle grandi scioperi di quel periodo, entrò a far parte della polizia regolare, che è sempre pronta ad accogliere persone con diverse esperienze e capacità di iniziativa. Tuttavia, non riuscì mai a sviluppare l’intelligenza necessaria per svolgere il ruolo di agente provocatore, incarico che solitamente viene affidato a membri del servizio che hanno personalmente sperimentato la vita in prigione. Ora ha oltre trent’anni e svolge un lavoro amministrativo presso il Dipartimento per le Proprietà Smarrite.
+Ethelbert, un giovane di diciannove anni e molto intelligente, fu inviato dal suo capo nella polizia speciale durante la terza Grande Sciopero – uso la numerazione convenzionale. Sfortunatamente, colpì con forza in testa un alto dignitario della Chiesa d’[[settings/england|Inghilterra]]; di conseguenza fu messo in prigione su esortazione di Lady Sophia, moglie di quel prestigioso ecclesiastico, la quale non accettò alcuna spiegazione. Dopo essere stato rilasciato – poiché la Grande Sciopero era ancora in corso – e trattandosi della prima delle grandi scioperi di quel periodo, entrò a far parte della polizia regolare, che è sempre pronta ad accogliere persone con diverse esperienze e capacità di iniziativa. Tuttavia, non riuscì mai a sviluppare l’intelligenza necessaria per svolgere il ruolo di agente provocatore, incarico che solitamente viene affidato a membri del servizio che hanno personalmente sperimentato la vita in prigione. Ora ha oltre trent’anni e svolge un lavoro amministrativo presso il Dipartimento per le Proprietà Smarrite.
 
 Cosa altro rimane? Il cavallo Attaboy è morto, consumato dai fedeli sforzi nel allevamento. Fu il padre di Get-On, nato da Get-Out. Get-Out, non c’è bisogno di dirvelo, fu il padre di Success, nato da Morning Star. Success a sua volta fu il padre di Repetition, nato da Raseuse; ed è così che Tabouche vinse la gara delle Oaks. Dicevo sempre che quella piccola giumenta avrebbe avuto successo, perché ho seguito sempre la linea genetica di Attaboy, proprio come avevo fatto in passato con il suo aspetto fisico. Ora Attaboy riposa insieme ai suoi padri, intendo dire, ai suoi antenati maschi, senza contare le femmine.
 
-#Controversie condotte con ombrelli tra…
+Controversie condotte con ombrelli tra…
 
 Professore di Cristallografia e docente associato
 
@@ -6952,7 +6952,7 @@ E l’emeraldina? Ah, amici miei! Fratelli miei! Vi racconterò cosa è successo
 
 Quando la signora Pemberton, un tempo Lady Galton e poi signora Munster da Bohun, cercava di mantenere buone relazioni sia con la famiglia Pemberton che con quella Munster, insomma, di “collegare entrambe le fazioni”, le servivano cinquecento sterline. Sembra ridicolo, ma così fu. Spesso accade. Lei era riuscita a sfuggire alla polizia; non voleva disturbare suo padre, e per un motivo più che valido: lui aveva appena subito una terribile perdita nell’affare dei fosfati ungheresi, a causa dei consigli sbagliati di quel stupido individuo chiamato Mowlem. Bene, lei portò l’emeraldo dall’uomo che, secondo Vic, era il miglior esperto di Londra: il signor Marlovitch Junior. E (guarda un po’) lui le dimostrò, attraverso test infallibili, che si trattava soltanto di una imitazione. Inoltre, le fornì prove tratte da libri accademici, secondo cui nessun emeraldo di quelle dimensioni era mai esistito, né avrebbe potuto esistere.
 
-I Bohun avevano il patriottismo nel loro sangue. Marjorie donò quel famoso gioiello allo Stato – voglio dire all’[[England|Inghilterra]]! – in condizioni molto semplici, che le valsero, con piacere devo dire, l’ammissione della figlia al Parlamento. Queste condizioni erano modeste: l’emeraldio doveva essere esposto permanentemente, in una vetrina molto grande e da solo, al British Museum, con un’iscrizione realizzata a spese dell’[[England|Inghilterra]] – intendo lo Stato – che ne descriveva come il più grande emeraldio del mondo, il che sarebbe stato vero se davvero fosse stato un emeraldio – e garantiva al pubblico onesto che fosse stato donato da Caterina la Grande a quel membro dell’antica famiglia dei Bohun che aveva servito gli interessi dello Stato, o meglio, dell’Inghilterra, alla corte di tutte le Russie, in quei tempi in cui la “Semiramide del Nord” era l’ammirazione dell’Europa.
+I Bohun avevano il patriottismo nel loro sangue. Marjorie donò quel famoso gioiello allo Stato – voglio dire all’[[settings/england|Inghilterra]]! – in condizioni molto semplici, che le valsero, con piacere devo dire, l’ammissione della figlia al Parlamento. Queste condizioni erano modeste: l’emeraldio doveva essere esposto permanentemente, in una vetrina molto grande e da solo, al British Museum, con un’iscrizione realizzata a spese dell’[[settings/england|Inghilterra]] – intendo lo Stato – che ne descriveva come il più grande emeraldio del mondo, il che sarebbe stato vero se davvero fosse stato un emeraldio – e garantiva al pubblico onesto che fosse stato donato da Caterina la Grande a quel membro dell’antica famiglia dei Bohun che aveva servito gli interessi dello Stato, o meglio, dell’Inghilterra, alla corte di tutte le Russie, in quei tempi in cui la “Semiramide del Nord” era l’ammirazione dell’Europa.
 
 “Che cosa!” esclamerete (è proprio come voi!), “che quella donna regale, quella signora generosa sebbene un po’ esigente, quella tedesca dal carattere forte e nobile, quella Regina delle Nevi, Imperatrice di tutte le Russie, possa essere caduta nel trucco di ingannare il bel Bill Bones con un semplice pezzo di pasta?”
 
@@ -6962,6 +6962,6 @@ E, come disse il Primo Ministro riguardo al suo collega seduto sul banco dei min
 
 No, io no, davvero.
 
-# La autobiografia
+La autobiografia
 
-# Hilaire Belloc, 1915
+Hilaire Belloc, 1915

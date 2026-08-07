@@ -32,7 +32,7 @@ tags:
 
 # childsnow
 
-*by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
+*by Chesterton*  ·  **Cluster:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > A mystical Nativity lyric: the Christ-child born at the inn at the world's end while the old pagan gods die; a hymn of the heart of the earth as a star.
@@ -43,15 +43,15 @@ tags:
 
 ## Connections
 
-**Settings:** [[Inn]]
+**Settings:** [[settings/inn|Inn]]
 
-**Topoi:** [[Golden Age]], [[Sic Transit Gloria Mundi]]
-**Archetypes:** [[Innocent]]
-**Motifs:** [[Winter]], [[Fire]], [[Stars]], [[Inn Tavern]], [[Snow]], [[Frost]], [[Night]], [[Death]], [[Leaves]]
-**Themes & Concepts:** [[Divine Love]], [[Grace and Redemption]], [[Wonder and Gratitude]], [[Paganism and Classical Revival]]
-**Forms & Genres:** [[Hymn]], [[Lyric]]
-**Historical References:** [[Christianity]]
-**Characters:** [[Christ]]
+**Topoi:** [[topoi/golden-age|Golden Age]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
+**Archetypes:** [[archetypes/innocent|Innocent]]
+**Motifs:** [[motifs/winter|Winter]], [[motifs/fire|Fire]], [[motifs/stars|Stars]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/snow|Snow]], [[motifs/frost|Frost]], [[motifs/night|Night]], [[motifs/death|Death]], [[motifs/leaves|Leaves]]
+**Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]]
+**Forms & Genres:** [[forms/hymn|Hymn]], [[forms/lyric|Lyric]]
+**Historical References:** [[historical-references/christianity|Christianity]]
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

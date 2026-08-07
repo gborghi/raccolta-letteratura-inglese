@@ -12,4 +12,15 @@ tags:
 
 <div class="concept-works" data-slug="forms/poem-sequence"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/songs-of-education125-(chesterton)|Songs of Education125 (Chesterton)]]
+- [[works/kingcole-(chesterton)|kingcole (Chesterton)]]
+- [[testi/coleridge/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#081_sonnets_on_eminent_characters|SONNETS ON EMINENT CHARACTERS (Coleridge)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_001|Sonnet 1 (Shakespeare)]]
+- [[testi/shakespeare/atomized/sonnets#sonnet_127|Sonnet 127 (Shakespeare)]]
+- [[works/sonnets-and-verse-(belloc)|Sonnets and Verse (Belloc)]]
+
+</div>
+
 #graph/form

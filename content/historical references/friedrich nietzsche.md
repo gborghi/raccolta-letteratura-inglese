@@ -14,4 +14,13 @@ Quoted twice ('forget not thy whip'; 'we must have chaos within') as a philosoph
 
 <div class="concept-works" data-slug="historical-references/friedrich-nietzsche"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/theappoftyranny-(chesterton)|TheAppOfTyranny (Chesterton)]]
+- [[works/two-kinds-of-paradox-(chesterton)|Two Kinds of Paradox (Chesterton)]]
+- [[works/shaw-(chesterton)|Shaw (Chesterton)]]
+- [[works/the-defendant-(chesterton)|The Defendant (Chesterton)]]
+
+</div>
+
 #graph/histref

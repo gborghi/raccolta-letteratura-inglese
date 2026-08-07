@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/bertha-plummer"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-cricket-on-the-hearth-(dickens)|The Cricket on the Hearth (Dickens)]]
+
+</div>
+
 #graph/character

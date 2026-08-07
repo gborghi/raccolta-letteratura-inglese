@@ -14,4 +14,11 @@ Playwright named via the narrator's acquaintance, an "Ibsenite pessimist," satir
 
 <div class="concept-works" data-slug="historical-references/henrik-ibsen"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/on-lying-in-bed-(chesterton)|On Lying In Bed (Chesterton)]]
+- [[works/shaw-(chesterton)|Shaw (Chesterton)]]
+
+</div>
+
 #graph/histref

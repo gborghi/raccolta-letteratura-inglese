@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/ada-clare"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/bleak-house-(dickens)|Bleak House (Dickens)]]
+
+</div>
+
 #graph/character

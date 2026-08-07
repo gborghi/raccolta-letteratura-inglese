@@ -14,4 +14,13 @@ God taking on flesh and descending into time and matter through the birth at Bet
 
 <div class="concept-works" data-slug="concepts/incarnation"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-mind-of-the-maker-(sayers)|The Mind of the Maker (Sayers)]]
+- [[works/gloria-in-profundis-(chesterton)|Gloria in Profundis (Chesterton)]]
+- [[works/litany-(chesterton)|litany (Chesterton)]]
+- [[works/spring-(chesterton)|spring (Chesterton)]]
+
+</div>
+
 #graph/concept

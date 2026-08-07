@@ -45,7 +45,7 @@ tags:
   - character/death_personified
 ---
 
-*by Wilde*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
+*by Wilde*  ·  **Cluster:** [[clusters/martyrdom-·-martyr-saint-·-cross|Martyrdom · Martyr Saint · Cross]]
 
 > [!abstract] 
 > A ballad recounting the execution of a condemned guardsman, meditating on guilt, mercy, the cruelty of prison and Man's justice, and the redemptive figure of Christ, framed by the refrain that each man kills the thing he loves.
@@ -61,13 +61,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Memento Mori]], [[Dance of Death]], [[Fortune's Wheel]]
-**Archetypes:** [[Scapegoat]], [[Christ Figure]], [[Outsider]], [[Martyr Saint]]
-**Motifs:** [[Death]], [[Blood]], [[Grave]], [[Cross]], [[Rose]], [[White and Red]], [[Clock]], [[Bells]], [[Dawn]], [[Supernatural]]
-**Themes & Concepts:** [[Mortality]], [[Guilt]], [[Mercy]], [[Justice Right and Wrong]], [[Social Injustice]], [[Grace and Redemption]], [[Martyrdom]], [[Conscience]], [[Alienation]], [[Terror and Horror]], [[History]]
-**Forms & Genres:** [[Ballad Ballade]], [[Elegy]], [[Lyric]]
-**Historical References:** [[Christianity]], [[Bible]], [[Regency Georgian England]]
-**Characters:** [[Christ]], [[Death Personified]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]], [[topoi/dance-of-death|Dance of Death]], [[topoi/fortune's-wheel|Fortune's Wheel]]
+**Archetypes:** [[archetypes/scapegoat|Scapegoat]], [[archetypes/christ-figure|Christ Figure]], [[archetypes/outsider|Outsider]], [[archetypes/martyr-saint|Martyr Saint]]
+**Motifs:** [[motifs/death|Death]], [[motifs/blood|Blood]], [[motifs/grave|Grave]], [[motifs/cross|Cross]], [[motifs/rose|Rose]], [[motifs/white-and-red|White and Red]], [[motifs/clock|Clock]], [[motifs/bells|Bells]], [[motifs/dawn|Dawn]], [[motifs/supernatural|Supernatural]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/guilt|Guilt]], [[concepts/mercy|Mercy]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/social-injustice|Social Injustice]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/martyrdom|Martyrdom]], [[concepts/conscience|Conscience]], [[concepts/alienation|Alienation]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/elegy|Elegy]], [[forms/lyric|Lyric]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Characters:** [[characters/christ|Christ]], [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

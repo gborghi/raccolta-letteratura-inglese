@@ -27,7 +27,7 @@ tags:
   - histref/darwinism_evolutionary_theory
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
+*by Chesterton*  ·  **Cluster:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > An essay arguing the spiritual view of the world, like evolution, is justified as a working hypothesis that makes the whole of reality rational; on faith, the supernatural and method.
@@ -46,12 +46,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Book of Nature]]
+**Topoi:** [[topoi/book-of-nature|Book of Nature]]
 
-**Motifs:** [[Supernatural]], [[Light and Dark]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Critique of Progress]], [[Wonder and Gratitude]], [[Conversion]], [[Paradox]], [[Providence]], [[Pragmatism (Method of the Hypothesis)]], [[History]]
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Eastern Religion Comparative Religion]], [[Darwinism (Evolutionary Theory)]]
+**Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/light-and-dark|Light and Dark]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/conversion|Conversion]], [[concepts/paradox|Paradox]], [[concepts/providence|Providence]], [[concepts/pragmatism-(method-of-the-hypothesis)|Pragmatism (Method of the Hypothesis)]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]], [[concepts/darwinism-(evolutionary-theory)|Darwinism (Evolutionary Theory)]]
 
 ## Testo integrale / Full text
 

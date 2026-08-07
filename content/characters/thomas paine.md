@@ -14,4 +14,10 @@ The exiled author of The Age of Reason whose bones Cobbett, once his fiercest sl
 
 <div class="concept-works" data-slug="characters/thomas-paine"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/william-cobbett-(chesterton)|William Cobbett (Chesterton)]]
+
+</div>
+
 #graph/character

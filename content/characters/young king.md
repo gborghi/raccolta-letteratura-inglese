@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/young-king"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-young-king-(wilde)|The Young King (Wilde)]]
+
+</div>
+
 #graph/character

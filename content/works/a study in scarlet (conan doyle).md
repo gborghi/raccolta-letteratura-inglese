@@ -24,7 +24,7 @@ tags:
   - archetype/detective
   - archetype/avenger
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Detective Fiction · Ratiocination Detection · Crime and Punishment]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/detective-fiction-·-ratiocination-detection-·-crime-and-punishment|Detective Fiction · Ratiocination Detection · Crime and Punishment]]
 
 > [!abstract] 
 > The first Sherlock Holmes novel, introducing Holmes and Dr. Watson as they investigate the murder of an American found in an empty London house. The second half flashes back to Mormon-country Utah, revealing a long-nursed revenge plot as the killer's motive.
@@ -52,9 +52,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Detective Fiction]], [[Novel]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Revenge]]
-**Motifs:** [[Blood]], [[Secrets]], [[Journey]]
-**Settings:** [[London]], [[American Frontier]], [[American West]]
-**Characters:** [[Sherlock Holmes]], [[Doctor Watson]]
-**Archetypes:** [[Detective]], [[Avenger]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/novel|Novel]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/revenge|Revenge]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/secrets|Secrets]], [[motifs/journey|Journey]]
+**Settings:** [[settings/london|London]], [[settings/american-frontier|American Frontier]], [[settings/american-west|American West]]
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/avenger|Avenger]]

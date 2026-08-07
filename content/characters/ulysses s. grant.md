@@ -14,4 +14,10 @@ Union general and later U.S. President whom Chesterton pairs with Lincoln as ano
 
 <div class="concept-works" data-slug="characters/ulysses-s.-grant"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/on-abraham-lincoln-(chesterton)|On Abraham Lincoln (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/edward-the-black-prince"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/edward-iii-(shakespeare)|EDWARD III (Shakespeare)]]
+- [[works/six-british-battles-(belloc)|Six British Battles (Belloc)]]
+
+</div>
+
 #graph/character

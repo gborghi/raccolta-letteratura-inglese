@@ -14,4 +14,10 @@ Louis Napoleon, the maligned democratic Emperor of the French whose reputation C
 
 <div class="concept-works" data-slug="characters/napoleon-iii"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thecrimesofengland-(chesterton)|TheCrimesOfEngland (Chesterton)]]
+
+</div>
+
 #graph/character

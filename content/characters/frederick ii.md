@@ -14,4 +14,10 @@ The Holy Roman Emperor called Stupor Mundi, Aquinas's own cousin, whose sack of 
 
 <div class="concept-works" data-slug="characters/frederick-ii"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/aquinas-(chesterton)|aquinas (Chesterton)]]
+
+</div>
+
 #graph/character

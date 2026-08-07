@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/puck"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/midsummer-nights-dream-(chesterton)|midsummer nights dream (Chesterton)]]
+- [[works/a-midsummer-night’s-dream-(shakespeare)|A MIDSUMMER NIGHT’S DREAM (Shakespeare)]]
+
+</div>
+
 #graph/character

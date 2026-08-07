@@ -24,7 +24,7 @@ tags:
   - form/satire
 ---
 
-*by Poe*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Poe*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A satirical aesthetic essay on interior decoration, attacking American 'glare,' glitter and the confusion of cost with beauty, then sketching an ideal tasteful crimson-and-gold chamber.
@@ -34,9 +34,9 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Money and Gold]], [[Light and Dark]], [[Mirror]], [[White and Red]], [[Gold and Grey]]
-**Themes & Concepts:** [[Beauty]], [[Satire of Society]], [[Appearance vs Reality]], [[Power and Corruption]], [[Distributism]], [[Imagination]], [[Economics]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/light-and-dark|Light and Dark]], [[motifs/mirror|Mirror]], [[motifs/white-and-red|White and Red]], [[motifs/gold-and-grey|Gold and Grey]]
+**Themes & Concepts:** [[concepts/beauty|Beauty]], [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/distributism|Distributism]], [[concepts/imagination|Imagination]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

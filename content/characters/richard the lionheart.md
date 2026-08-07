@@ -14,4 +14,10 @@ King Richard I of England (Coeur de Lion), whose crusading motives Chesterton co
 
 <div class="concept-works" data-slug="characters/richard-the-lionheart"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/new-jerusalem-(chesterton)|New Jerusalem (Chesterton)]]
+
+</div>
+
 #graph/character

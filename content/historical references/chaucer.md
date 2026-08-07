@@ -14,4 +14,11 @@ The first of Chesterton's three founding humorists, credited with bringing true 
 
 <div class="concept-works" data-slug="historical-references/chaucer"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/humour-(chesterton)|Humour (Chesterton)]]
+- [[works/spice-of-life-(chesterton)|Spice Of Life (Chesterton)]]
+
+</div>
+
 #graph/histref

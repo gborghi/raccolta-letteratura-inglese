@@ -23,7 +23,7 @@ tags:
   - concept/war_and_its_cost
 ---
 
-*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
+*by Whitman*  ·  **Cluster:** [[clusters/identity-·-free-verse-·-eternal-return|Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > Whitman's great 52-section epic of the self merging with all humanity and nature; identity, body and soul, democracy, death and rebirth, ecstatic catalogues. Foundational free-verse epic.
@@ -84,10 +84,10 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Eternal Return]]
-**Motifs:** [[Nature]], [[Death]], [[Sea]]
-**Themes & Concepts:** [[Identity]], [[Self-Knowledge]], [[Democracy]], [[Body]], [[Common Man]], [[Immortality]], [[Sublime]], [[War and its Cost]]
-**Forms & Genres:** [[Free Verse]], [[Epic]]
+**Topoi:** [[topoi/eternal-return|Eternal Return]]
+**Motifs:** [[concepts/nature|Nature]], [[motifs/death|Death]], [[motifs/sea|Sea]]
+**Themes & Concepts:** [[concepts/identity|Identity]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/democracy|Democracy]], [[concepts/body|Body]], [[concepts/common-man|Common Man]], [[concepts/immortality|Immortality]], [[concepts/sublime|Sublime]], [[concepts/war-and-its-cost|War and its Cost]]
+**Forms & Genres:** [[forms/free-verse|Free Verse]], [[forms/epic|Epic]]
 
 ## Testo integrale / Full text
 

@@ -30,7 +30,7 @@ tags:
   - topos/open_road_homecoming
   - topos/beatus_ille_happy_the_man_rural_retreat
 ---
-*by Belloc*  ·  **Cluster:** [[Familiar Essay · Paradox · The Common Man]]
+*by Belloc*  ·  **Cluster:** [[clusters/familiar-essay-·-paradox-·-the-common-man|Familiar Essay · Paradox · The Common Man]]
 
 > [!abstract] 
 > A collection of Belloc's familiar essays and sketches ranging over travel in France and Spain, the writing of history, poets and prophets, and whimsical fables. The prevailing temper is nostalgic, anti-modern and rooted in landscape, memory and the pleasures of the road.
@@ -78,11 +78,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Sketch]], [[Nonfiction]]
-**Themes & Concepts:** [[Critique of Progress]], [[Nostalgia]], [[Nature vs Civilization]], [[Imagination]], [[Memory and Time]], [[Common Man]]
-**Motifs:** [[Road]], [[Journey]], [[Wine and Drink]], [[Fog and Smoke]]
-**Historical References:** [[French Revolution]]
-**Settings:** [[France]], [[Spain]], [[Rural England]], [[Europe]]
-**Characters:** [[Robespierre]]
-**Archetypes:** [[Prophet]]
-**Topoi:** [[Open Road Homecoming]], [[Beatus Ille (Happy the Man Rural Retreat)]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/sketch|Sketch]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/critique-of-progress|Critique of Progress]], [[concepts/nostalgia|Nostalgia]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/imagination|Imagination]], [[concepts/memory-and-time|Memory and Time]], [[concepts/common-man|Common Man]]
+**Motifs:** [[motifs/road|Road]], [[motifs/journey|Journey]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/fog-and-smoke|Fog and Smoke]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]]
+**Settings:** [[settings/france|France]], [[settings/spain|Spain]], [[settings/rural-england|Rural England]], [[settings/europe|Europe]]
+**Characters:** [[characters/robespierre|Robespierre]]
+**Archetypes:** [[archetypes/prophet|Prophet]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/beatus-ille-(happy-the-man-rural-retreat)|Beatus Ille (Happy the Man Rural Retreat)]]

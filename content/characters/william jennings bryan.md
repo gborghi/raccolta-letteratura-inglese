@@ -14,4 +14,10 @@ The recently-deceased Fundamentalist prosecutor of the Dayton trial whose death 
 
 <div class="concept-works" data-slug="characters/william-jennings-bryan"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/compulsory-education-(chesterton)|Compulsory Education (Chesterton)]]
+
+</div>
+
 #graph/character

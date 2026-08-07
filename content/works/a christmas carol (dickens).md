@@ -48,7 +48,7 @@ tags:
   - character/fezziwig
 ---
 
-*by Dickens*  ·  **Cluster:** [[Money and Gold · Poverty · Imprisonment]]
+*by Dickens*  ·  **Cluster:** [[clusters/money-and-gold-·-poverty-·-imprisonment|Money and Gold · Poverty · Imprisonment]]
 
 > [!abstract] 
 > A 'Ghost Story of Christmas': the miser Scrooge is visited by Marley's ghost and three Spirits who lead him through past, present and future to moral conversion. Central themes: grace and redemption, charity versus avarice, social injustice and poverty, memory, mortality, set in Victorian London — a redemptive ghostly fable.
@@ -62,14 +62,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Memento Mori]], [[Fall from Innocence]]
-**Archetypes:** [[Ghost]], [[Outsider]]
-**Motifs:** [[Ghosts]], [[Supernatural]], [[Money and Gold]], [[City]], [[Fog and Smoke]], [[Winter]], [[Grave]], [[Food and Feasting]], [[Bells]], [[Childhood]]
-**Themes & Concepts:** [[Grace and Redemption]], [[Conversion]], [[Social Injustice]], [[Poverty]], [[Reform]], [[Memory and Time]], [[Mortality]], [[Guilt]], [[Wonder and Gratitude]], [[Maturation and Growth]], [[Common Man]], [[Grotesque]]
-**Forms & Genres:** [[Christmas Story Novella]]
-**Historical References:** [[Christianity]], [[Regency Georgian England]]
-**Settings:** [[London]]
-**Characters:** [[Ebenezer Scrooge]], [[Bob Cratchit]], [[Tiny Tim]], [[Jacob Marley]], [[Ghost of Christmas Past]], [[Ghost of Christmas Present]], [[Ghost of Christmas Yet to Come]], [[Fred]], [[Mr Fezziwig]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]], [[topoi/fall-from-innocence|Fall from Innocence]]
+**Archetypes:** [[archetypes/ghost|Ghost]], [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[motifs/money-and-gold|Money and Gold]], [[motifs/city|City]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/winter|Winter]], [[motifs/grave|Grave]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/bells|Bells]], [[motifs/childhood|Childhood]]
+**Themes & Concepts:** [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/conversion|Conversion]], [[concepts/social-injustice|Social Injustice]], [[concepts/poverty|Poverty]], [[concepts/reform|Reform]], [[concepts/memory-and-time|Memory and Time]], [[concepts/mortality|Mortality]], [[concepts/guilt|Guilt]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/common-man|Common Man]], [[concepts/grotesque|Grotesque]]
+**Forms & Genres:** [[forms/christmas-story-novella|Christmas Story Novella]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/ebenezer-scrooge|Ebenezer Scrooge]], [[characters/bob-cratchit|Bob Cratchit]], [[characters/tiny-tim|Tiny Tim]], [[characters/jacob-marley|Jacob Marley]], [[characters/ghost-of-christmas-past|Ghost of Christmas Past]], [[characters/ghost-of-christmas-present|Ghost of Christmas Present]], [[characters/ghost-of-christmas-yet-to-come|Ghost of Christmas Yet to Come]], [[characters/fred|Fred]], [[characters/mr-fezziwig|Mr Fezziwig]]
 
 ## Testo integrale / Full text
 
@@ -3916,4 +3916,4 @@ well, if any man alive possessed the knowledge. May that
 be truly said of us, and all of us! And so, as Tiny Tim
 observed, God bless Us, Every One!
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

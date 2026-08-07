@@ -17,17 +17,17 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Melancholy · Suffering · Pain and Suffering]]
+*by Poe*  ·  **Cluster:** [[clusters/melancholy-·-suffering-·-pain-and-suffering|Melancholy · Suffering · Pain and Suffering]]
 
 > [!abstract] 
 > A short lyric on a once-peaceful dell, now restless and weeping over a nameless grave after its people went to the wars. Themes of death, mutability, melancholy and a haunted landscape.
 
 ## Connections
 
-**Topoi:** [[Memento Mori]]
-**Motifs:** [[Death]], [[Grave]], [[Flowers]], [[Stars]]
-**Themes & Concepts:** [[Melancholy]], [[Transience]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/death|Death]], [[motifs/grave|Grave]], [[motifs/flowers|Flowers]], [[motifs/stars|Stars]]
+**Themes & Concepts:** [[concepts/melancholy|Melancholy]], [[concepts/transience|Transience]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

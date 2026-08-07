@@ -14,4 +14,10 @@ Chesterton's central diagnosis that industrial capitalism diffuses moral respons
 
 <div class="concept-works" data-slug="concepts/indirection-and-impersonal-systems"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/democracy-(chesterton)|democracy (Chesterton)]]
+
+</div>
+
 #graph/concept

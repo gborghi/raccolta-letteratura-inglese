@@ -25,7 +25,7 @@ tags:
   - histref/henrik_ibsen
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A whimsical essay defending idle lying in bed, attacking the modern strengthening of minor morals at the expense of major ones; paradox, humility, and the heroic virtues.
@@ -44,12 +44,12 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]], [[Michelangelo]], [[Henrik Ibsen]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/michelangelo|Michelangelo]], [[historical-references/henrik-ibsen|Henrik Ibsen]]
 
-**Characters:** [[Cyrano de Bergerac]]
+**Characters:** [[characters/cyrano-de-bergerac|Cyrano de Bergerac]]
 
-**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Heroism]], [[Imagination]], [[Critique of Progress]], [[Indolence]], [[Common Man]], [[Conformity vs Individualism]], [[Freedom]], [[History]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/heroism|Heroism]], [[concepts/imagination|Imagination]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/indolence|Indolence]], [[concepts/common-man|Common Man]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/freedom|Freedom]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

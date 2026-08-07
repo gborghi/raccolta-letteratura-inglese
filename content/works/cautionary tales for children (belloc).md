@@ -25,7 +25,7 @@ tags:
   - archetype/child
   - topos/memento_mori
 ---
-*by Belloc*  ·  **Cluster:** [[Comic Verse · Childhood · Satire]]
+*by Belloc*  ·  **Cluster:** [[clusters/comic-verse-·-childhood-·-satire|Comic Verse · Childhood · Satire]]
 
 > [!abstract] 
 > A collection of mock-moral comic verses in which naughty or vain children meet grotesque, exaggerated fates (eaten by lions, burned, shot) as punishment for small faults. Belloc parodies the earnest Victorian cautionary-tale tradition, the deadpan solemnity of the verse heightening the absurd cruelty of the outcomes.
@@ -45,9 +45,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Comic Verse Song]], [[Parody]], [[Poem]]
-**Themes & Concepts:** [[Childhood And Growth]], [[Crime and Punishment]], [[Nonsense]], [[Exaggeration]], [[Satire of Society]], [[Vanity]]
-**Motifs:** [[Death]], [[Animals]], [[Childhood]], [[Gallows]], [[Fire]]
-**Settings:** [[Rural England]]
-**Archetypes:** [[Child]]
-**Topoi:** [[Memento Mori]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/parody|Parody]], [[forms/poem|Poem]]
+**Themes & Concepts:** [[concepts/childhood-and-growth|Childhood And Growth]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/nonsense|Nonsense]], [[concepts/exaggeration|Exaggeration]], [[concepts/satire-of-society|Satire of Society]], [[concepts/vanity|Vanity]]
+**Motifs:** [[motifs/death|Death]], [[motifs/animals|Animals]], [[motifs/childhood|Childhood]], [[motifs/gallows|Gallows]], [[motifs/fire|Fire]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Archetypes:** [[archetypes/child|Child]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]

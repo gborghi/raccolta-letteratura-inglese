@@ -19,7 +19,7 @@ tags:
 A Broad Minded Bishop Rebukes The Verminous St. Francis  
 
 If Brother Francis pardoned Brother Flea,  
-There still seems need of such strange [[Charity|charity]],  
+There still seems need of such strange [[concepts/charity|charity]],  
 Seeing he is, for all his gay goodwill,  
 Bitten by funny little creatures still.
 
@@ -31,7 +31,7 @@ Bitten by funny little creatures still.
 Un Vescovo di Larghe Vedute Rimprovera il Verminoso San Francesco  
 
 Se Frate Francesco perdonò Frate Pulce,  
-pare che di tale strana [[Charity|carità]] vi sia ancora bisogno,  
+pare che di tale strana [[concepts/charity|carità]] vi sia ancora bisogno,  
 visto che egli, con tutta la sua gaia benevolenza,  
 è tuttora morso da buffe creaturine.
 
@@ -45,7 +45,7 @@ visto che egli, con tutta la sua gaia benevolenza,
 A Broad Minded Bishop Rebukes The Verminous St. Francis  
 
 If Brother Francis pardoned Brother Flea,  
-There still seems need of such strange [[Charity|charity]],  
+There still seems need of such strange [[concepts/charity|charity]],  
 Seeing he is, for all his gay goodwill,  
 Bitten by funny little creatures still.
 
@@ -57,6 +57,6 @@ Bitten by funny little creatures still.
 Un Vescovo di Larghe Vedute Rimprovera il Verminoso San Francesco  
 
 Se Frate Francesco perdonò Frate Pulce,  
-pare che di tale strana [[Charity|carità]] vi sia ancora bisogno,  
+pare che di tale strana [[concepts/charity|carità]] vi sia ancora bisogno,  
 visto che egli, con tutta la sua gaia benevolenza,  
 è tuttora morso da buffe creaturine.

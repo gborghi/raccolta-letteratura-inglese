@@ -14,4 +14,10 @@ The practical, quietly devoted young woman of Beacon House who is loved by Arthu
 
 <div class="concept-works" data-slug="characters/diana-duke"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/manalive-(chesterton)|manalive (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -30,7 +30,7 @@ tags:
   - topos/open_road_homecoming
   - topos/carpe_diem
 ---
-*by Belloc*  ·  **Cluster:** [[Verse · Faith · Nature]]
+*by Belloc*  ·  **Cluster:** [[clusters/verse-·-faith-·-nature|Verse · Faith · Nature]]
 
 > [!abstract] 
 > A collection of Belloc's verse (introduced by Joyce Kilmer) mixing serious lyric and devotional poems with rollicking drinking songs and light satirical ballads. Recurrent notes are Catholic faith, the South Country landscape of Sussex, comradeship and the friends of youth, wine, and the Boer War ('To the Balliol Men Still in Africa').
@@ -88,13 +88,13 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Poem]], [[Comic Verse Song]], [[Ballad Ballade]]
-**Themes & Concepts:** [[Faith]], [[Friendship]], [[Nationalism and Patriotism]], [[Nature]], [[Wonder and Gratitude]]
-**Motifs:** [[Wine and Drink]], [[Road]], [[Birds]], [[Night]]
-**Historical References:** [[Boer War]], [[Catholic Church]]
-**Settings:** [[Rural England]], [[France]], [[Europe]]
-**Characters:** [[King Dives]]
-**Archetypes:** [[Pilgrim]], [[Rebel]]
-**Topoi:** [[Open Road Homecoming]], [[Carpe Diem]]
+**Forms & Genres:** [[forms/poem|Poem]], [[forms/comic-verse-song|Comic Verse Song]], [[forms/ballad-ballade|Ballad Ballade]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/friendship|Friendship]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/nature|Nature]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/road|Road]], [[motifs/birds|Birds]], [[motifs/night|Night]]
+**Historical References:** [[historical-references/boer-war|Boer War]], [[historical-references/catholic-church|Catholic Church]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/france|France]], [[settings/europe|Europe]]
+**Characters:** [[characters/king-dives|King Dives]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]], [[archetypes/rebel|Rebel]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/carpe-diem|Carpe Diem]]
 
-**Also relevant to:** [[Faith · Providence · Divine Love]]
+**Also relevant to:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

@@ -14,4 +14,10 @@ The book's long closing essay is devoted entirely to assessing Swinburne's poetr
 
 <div class="concept-works" data-slug="historical-references/algernon-charles-swinburne"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/gkc-all-is-grist-(chesterton)|GKC All is Grist (Chesterton)]]
+
+</div>
+
 #graph/histref

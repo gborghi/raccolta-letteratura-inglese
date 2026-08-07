@@ -35,7 +35,7 @@ tags:
 
 # job
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > A theological-literary essay reading Job as a poem of paradox in which God answers suffering not with explanation but with wonder, turning scepticism against itself.
@@ -53,17 +53,17 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Innocent]]
+**Archetypes:** [[archetypes/innocent|Innocent]]
 
-**Motifs:** [[Animals]]
+**Motifs:** [[motifs/animals|Animals]]
 
-**Topoi:** [[Book of Nature]], [[World Upside Down]]
+**Topoi:** [[topoi/book-of-nature|Book of Nature]], [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[Job]], [[Jehovah]], [[Jacob]], [[Socrates]]
+**Characters:** [[characters/job|Job]], [[characters/jehovah|Jehovah]], [[characters/jacob|Jacob]], [[characters/socrates|Socrates]]
 
-**Themes & Concepts:** [[Paradox]], [[Faith and Doubt]], [[Doubt]], [[Wonder and Gratitude]], [[Providence]], [[Grief and Loss]], [[Humility]], [[Suffering]], [[Individualism]], [[Justice Right and Wrong]]
-**Forms & Genres:** [[Apologetics]], [[Literary Criticism]], [[Epic]], [[Nonfiction]]
-**Historical References:** [[Bible]], [[Ancient Greece]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/doubt|Doubt]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/providence|Providence]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/humility|Humility]], [[concepts/suffering|Suffering]], [[concepts/individualism|Individualism]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]]
+**Forms & Genres:** [[forms/apologetics|Apologetics]], [[forms/literary-criticism|Literary Criticism]], [[forms/epic|Epic]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/ancient-greece|Ancient Greece]]
 
 ## Testo integrale / Full text
 

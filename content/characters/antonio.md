@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/antonio"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-merchant-of-venice-(shakespeare)|THE MERCHANT OF VENICE (Shakespeare)]]
+- [[works/the-tempest-(shakespeare)|THE TEMPEST (Shakespeare)]]
+
+</div>
+
 #graph/character

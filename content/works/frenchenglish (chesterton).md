@@ -31,7 +31,7 @@ tags:
 
 # frenchenglish
 
-*by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
+*by Chesterton*  ·  **Cluster:** [[clusters/paradox-·-food-and-feasting-·-aphorism|Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 
 > A paradoxical essay contrasting French and English national character (candour versus snobbery, revolution versus tradition), arguing that each nation's vices are the flower of its virtues; satire of cosmopolitanism in defence of patriotism.
@@ -51,15 +51,15 @@ tags:
 
 ## Connections
 
-**Settings:** [[Paris]], [[Europe]]
+**Settings:** [[settings/paris|Paris]], [[settings/europe|Europe]]
 
-**Motifs:** [[Flowers]], [[Great House]], [[Money and Gold]]
+**Motifs:** [[motifs/flowers|Flowers]], [[motifs/great-house|Great House]], [[motifs/money-and-gold|Money and Gold]]
 
-**Characters:** [[Sam Weller]], [[John Bull]]
+**Characters:** [[characters/sam-weller|Sam Weller]], [[characters/john-bull|John Bull]]
 
-**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Artist and Society]], [[Democracy]], [[Eastern Religion and Asceticism]], [[Appearance vs Reality]], [[Economics]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Historical References:** [[French Revolution]], [[Eastern Religion Comparative Religion]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/class-conflict|Class Conflict]], [[concepts/artist-and-society|Artist and Society]], [[concepts/democracy|Democracy]], [[concepts/eastern-religion-and-asceticism|Eastern Religion and Asceticism]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]]
 
 ## Testo integrale / Full text
 

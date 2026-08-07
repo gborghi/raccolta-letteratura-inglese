@@ -14,4 +14,10 @@ Nervous, self-important industrialist (formerly Sir Samuel Bliss) whose factory 
 
 <div class="concept-works" data-slug="characters/lord-normantowers"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/longbow2-(chesterton)|longbow2 (Chesterton)]]
+
+</div>
+
 #graph/character

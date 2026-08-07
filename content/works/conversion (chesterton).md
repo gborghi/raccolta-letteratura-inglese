@@ -46,7 +46,7 @@ tags:
 
 # conversion
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > Apologetic treatise on the psychology and stages of conversion to Catholicism, treating the convert as a modern witness/martyr to the truth of the Faith.
@@ -60,15 +60,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Pilgrim]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
 
-**Motifs:** [[Prison]], [[Window]], [[Ship]]
+**Motifs:** [[motifs/prison|Prison]], [[motifs/window|Window]], [[motifs/ship|Ship]]
 
-**Topoi:** [[World Upside Down]], [[Journey of Life]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/journey-of-life|Journey of Life]]
 
-**Themes & Concepts:** [[Conversion]], [[Faith]], [[Faith and Doubt]], [[Truth]], [[Grace and Redemption]], [[Martyrdom]], [[Distributism]], [[Paganism and Classical Revival]], [[Nationalism and Patriotism]], [[Class Conflict]], [[Freedom and Liberty]], [[Paradox]], [[Appearance vs Reality]], [[Economics]], [[History]]
-**Forms & Genres:** [[Apologetics]], [[Essay]], [[Nonfiction]]
-**Historical References:** [[Catholic Church]], [[Christianity]], [[Ancient Rome]], [[Reformation]], [[Puritanism]], [[Romantic Movement (Sensibility)]], [[Renaissance]], [[First World War]], [[Dante]], [[John Henry Newman]], [[Pope Leo XIII]]
+**Themes & Concepts:** [[concepts/conversion|Conversion]], [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/truth|Truth]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/martyrdom|Martyrdom]], [[concepts/distributism|Distributism]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/class-conflict|Class Conflict]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/paradox|Paradox]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/apologetics|Apologetics]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/christianity|Christianity]], [[settings/ancient-rome|Ancient Rome]], [[historical-references/reformation|Reformation]], [[historical-references/puritanism|Puritanism]], [[historical-references/romantic-movement-(sensibility)|Romantic Movement (Sensibility)]], [[historical-references/renaissance|Renaissance]], [[historical-references/first-world-war|First World War]], [[historical-references/dante|Dante]], [[historical-references/john-henry-newman|John Henry Newman]], [[historical-references/pope-leo-xiii|Pope Leo XIII]]
 
 ## Testo integrale / Full text
 

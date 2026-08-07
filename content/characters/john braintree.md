@@ -14,4 +14,10 @@ A Syndicalist trade-union secretary and former engineer who leads a coal-tar wor
 
 <div class="concept-works" data-slug="characters/john-braintree"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/don-quixote-(chesterton)|Don Quixote (Chesterton)]]
+
+</div>
+
 #graph/character

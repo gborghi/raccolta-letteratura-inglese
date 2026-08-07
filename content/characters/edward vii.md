@@ -14,4 +14,10 @@ King Edward VII is the subject of an essay on his very popular, democratic style
 
 <div class="concept-works" data-slug="characters/edward-vii"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-glass-walking-stick-(chesterton)|The Glass Walking Stick (Chesterton)]]
+
+</div>
+
 #graph/character

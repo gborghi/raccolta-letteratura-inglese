@@ -14,4 +14,12 @@ Michelangelo is repeatedly cited as proof that Renaissance artists remained inte
 
 <div class="concept-works" data-slug="historical-references/michelangelo"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/gkc-all-is-grist-(chesterton)|GKC All is Grist (Chesterton)]]
+- [[works/on-lying-in-bed-(chesterton)|On Lying In Bed (Chesterton)]]
+- [[works/theappoftyranny-(chesterton)|TheAppOfTyranny (Chesterton)]]
+
+</div>
+
 #graph/histref

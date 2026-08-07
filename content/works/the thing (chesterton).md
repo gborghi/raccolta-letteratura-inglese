@@ -40,7 +40,7 @@ tags:
   - histref/islam
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > A collection of apologetic essays defending Catholic orthodoxy ('Why I Am a Catholic') against scepticism, humanism, and the Protestant and modern drift. Themes: faith and the defence of dogma, conversion and orthodoxy, and critique of fashionable progress.
@@ -72,14 +72,14 @@ tags:
 
 ## Connections
 
-**Settings:** [[Scotland the Highlands]]
+**Settings:** [[settings/scotland-the-highlands|Scotland the Highlands]]
 
-**Characters:** [[St. Francis of Assisi]], [[St. Joan of Arc]]
+**Characters:** [[characters/st.-francis-of-assisi|St. Francis of Assisi]], [[characters/st.-joan-of-arc|St. Joan of Arc]]
 
-**Motifs:** [[Book Reading]], [[Home]], [[Food and Feasting]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Conversion]], [[Doubt]], [[Truth]], [[Critique of Progress]], [[Order vs Chaos]], [[Paradox]], [[Satire of Society]], [[Democracy]], [[Conformity vs Individualism]], [[Distributism]], [[Nationalism and Patriotism]], [[Common Man]], [[Economics]], [[History]]
-**Forms & Genres:** [[Apologetics]], [[Essay]], [[Satire]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Catholic Church]], [[Reformation]], [[Puritanism]], [[Islam]]
+**Motifs:** [[motifs/book-reading|Book Reading]], [[motifs/home|Home]], [[motifs/food-and-feasting|Food and Feasting]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/conversion|Conversion]], [[concepts/doubt|Doubt]], [[concepts/truth|Truth]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/democracy|Democracy]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/distributism|Distributism]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/common-man|Common Man]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/apologetics|Apologetics]], [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/reformation|Reformation]], [[historical-references/puritanism|Puritanism]], [[historical-references/islam|Islam]]
 
 ## Testo integrale / Full text
 

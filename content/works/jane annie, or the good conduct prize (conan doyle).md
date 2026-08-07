@@ -14,14 +14,14 @@ tags:
   - setting/oxford
   - archetype/fool
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Drama · Adventure · The Stage]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/drama-·-adventure-·-the-stage|Drama · Adventure · The Stage]]
 
 > [!abstract] 
 > A comic opera libretto begun by J.M. Barrie and completed by Conan Doyle, with music by Ernest Ford, staged at the Savoy Theatre in 1893. It follows schoolgirl schemes, a priggish 'good girl' who tattles on her friends, and a golf-course elopement plot near a university town.
 
 ## Connections
 
-**Forms & Genres:** [[Comedy]], [[Verse Drama]]
-**Themes & Concepts:** [[Hypocrisy]], [[Satire of Society]]
-**Settings:** [[Oxford]]
-**Archetypes:** [[Fool]]
+**Forms & Genres:** [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]]
+**Themes & Concepts:** [[concepts/hypocrisy|Hypocrisy]], [[concepts/satire-of-society|Satire of Society]]
+**Settings:** [[settings/oxford|Oxford]]
+**Archetypes:** [[archetypes/fool|Fool]]

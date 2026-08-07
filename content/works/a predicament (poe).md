@@ -23,7 +23,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Poe*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A grotesque satire (companion to 'How to Write a Blackwood Article') in which Signora Psyche Zenobia is decapitated by a giant clock-hand; parodies sensational magazine fiction through black comedy and the grotesque.
@@ -44,11 +44,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Tempus Fugit]], [[Memento Mori]]
-**Archetypes:** [[Fool]]
-**Motifs:** [[Clock]], [[Time]], [[Death]], [[Eyes and Sight]]
-**Themes & Concepts:** [[Grotesque]], [[Satire of Society]], [[Terror and Horror]], [[Mortality]]
-**Forms & Genres:** [[Parody]], [[Satire]], [[Short Story]]
+**Topoi:** [[topoi/tempus-fugit|Tempus Fugit]], [[topoi/memento-mori|Memento Mori]]
+**Archetypes:** [[archetypes/fool|Fool]]
+**Motifs:** [[motifs/clock|Clock]], [[motifs/time|Time]], [[motifs/death|Death]], [[motifs/eyes-and-sight|Eyes and Sight]]
+**Themes & Concepts:** [[concepts/grotesque|Grotesque]], [[concepts/satire-of-society|Satire of Society]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/mortality|Mortality]]
+**Forms & Genres:** [[forms/parody|Parody]], [[forms/satire|Satire]], [[forms/short-story|Short Story]]
 
 ## Testo integrale / Full text
 

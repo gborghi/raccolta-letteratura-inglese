@@ -16,7 +16,7 @@ tags:
   - concept/terror_and_horror
 ---
 
-*by Poe*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
+*by Poe*  ·  **Cluster:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > A dialogue of disembodied souls recounting the destruction of the Earth by a comet that burned away the atmosphere; an apocalyptic tale of cosmic annihilation and the afterlife.
@@ -26,8 +26,8 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Fire]], [[Stars]]
-**Themes & Concepts:** [[Apocalypse]], [[Mortality]], [[Self-Knowledge]], [[Immortality]], [[Terror and Horror]]
+**Motifs:** [[motifs/fire|Fire]], [[motifs/stars|Stars]]
+**Themes & Concepts:** [[concepts/apocalypse|Apocalypse]], [[concepts/mortality|Mortality]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/immortality|Immortality]], [[concepts/terror-and-horror|Terror and Horror]]
 
 ## Testo integrale / Full text
 

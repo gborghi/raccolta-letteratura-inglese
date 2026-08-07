@@ -38,7 +38,7 @@ tags:
   - character/lord_lowborough
 ---
 
-*by Bronte*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
+*by Bronte*  ·  **Cluster:** [[clusters/wine-and-drink-·-ballad-ballade-·-road|Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 
 > Anne Bronte's 1848 novel, framed as Gilbert Markham's narrative enclosing Helen Graham's diary, in which a wife flees her dissolute, alcoholic and abusive husband Arthur Huntingdon to protect herself and her son; a morally bold social novel on marriage, debauchery, a woman's independence, faith and redemption.
@@ -64,13 +64,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[(Reputed) Fallen Woman]], [[Rebel]], [[Lover]]
-**Motifs:** [[Wine and Drink]], [[Letters and Writing]], [[Concealment Hidden Identity]], [[Money and Gold]]
-**Themes & Concepts:** [[Marriage and Fidelity]], [[Romantic Love]], [[Identity]], [[Temptation]], [[Sin and the Fall]], [[Grace and Redemption]], [[Faith]], [[Conscience]], [[Social Injustice]], [[Appearance vs Reality]], [[Maturation and Growth]]
-**Forms & Genres:** [[Novel]], [[Social Novel (Novel of Manners)]], [[Epistolary Diary Novel]]
-**Historical References:** [[Christianity]]
-**Settings:** [[Rural England]]
-**Characters:** [[Helen Huntingdon]], [[Gilbert Markham]], [[Arthur Huntingdon]], [[Walter Hargrave]], [[Annabella Lowborough]], [[Lord Lowborough]]
+**Archetypes:** [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/rebel|Rebel]], [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/money-and-gold|Money and Gold]]
+**Themes & Concepts:** [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/romantic-love|Romantic Love]], [[concepts/identity|Identity]], [[concepts/temptation|Temptation]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/faith|Faith]], [[concepts/conscience|Conscience]], [[concepts/social-injustice|Social Injustice]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/maturation-and-growth|Maturation and Growth]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/epistolary-diary-novel|Epistolary Diary Novel]]
+**Historical References:** [[historical-references/christianity|Christianity]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Characters:** [[characters/helen-huntingdon|Helen Huntingdon]], [[characters/gilbert-markham|Gilbert Markham]], [[characters/arthur-huntingdon|Arthur Huntingdon]], [[characters/walter-hargrave|Walter Hargrave]], [[characters/annabella-lowborough|Annabella Lowborough]], [[characters/lord-lowborough|Lord Lowborough]]
 
 ## Testo integrale / Full text
 

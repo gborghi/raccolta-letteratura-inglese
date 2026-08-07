@@ -33,7 +33,7 @@ tags:
   - character/antiochus
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Blank Verse · Tragicomedy · Romance Play]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/blank-verse-·-tragicomedy-·-romance-play|Blank Verse · Tragicomedy · Romance Play]]
 
 > [!abstract] 
 > A late dramatic romance (with George Wilkins) tracing Pericles' wanderings, shipwrecks, the loss and miraculous reunion with his daughter Marina and wife; central to it are the quest/sea-journey, suffering and patience, and providential restoration of the family.
@@ -66,13 +66,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Quest]], [[Fortune's Wheel]]
-**Archetypes:** [[Pilgrim]], [[Outsider]], [[Innocent]]
-**Motifs:** [[Sea]], [[Storm]], [[Journey]]
-**Themes & Concepts:** [[Grief and Loss]], [[Providence]], [[Grace and Redemption]], [[Fate and Free Will]]
-**Forms & Genres:** [[Romance Play]], [[Narrative Poem]], [[Blank Verse]]
-**Settings:** [[Sea (2)]]
-**Characters:** [[Pericles]], [[Marina]], [[Thaisa]], [[Gower]], [[Cleon]], [[Dionyza]], [[Simonides]], [[Antiochus]]
+**Topoi:** [[topoi/quest|Quest]], [[topoi/fortune's-wheel|Fortune's Wheel]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]], [[archetypes/outsider|Outsider]], [[archetypes/innocent|Innocent]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/storm|Storm]], [[motifs/journey|Journey]]
+**Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/providence|Providence]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/fate-and-free-will|Fate and Free Will]]
+**Forms & Genres:** [[forms/romance-play|Romance Play]], [[forms/narrative-poem|Narrative Poem]], [[forms/blank-verse|Blank Verse]]
+**Settings:** [[settings/sea-(2)|Sea (2)]]
+**Characters:** [[characters/pericles|Pericles]], [[characters/marina|Marina]], [[characters/thaisa|Thaisa]], [[characters/gower|Gower]], [[characters/cleon|Cleon]], [[characters/dionyza|Dionyza]], [[characters/simonides|Simonides]], [[characters/antiochus|Antiochus]]
 
 ## Testo integrale / Full text
 

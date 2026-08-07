@@ -34,7 +34,7 @@ tags:
 
 # litany
 
-*by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
+*by Chesterton*  ·  **Cluster:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > A devotional Marian lyric meditating on the Incarnation: God grown little, seeing earth through the Virgin as through a window, mirror, and house of gold.
@@ -45,15 +45,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Great Mother]]
+**Archetypes:** [[archetypes/great-mother|Great Mother]]
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Motifs:** [[Mirror]], [[Light and Dark]], [[Rose]], [[Window]], [[Stars]]
-**Themes & Concepts:** [[Divine Love]], [[Faith]], [[Wonder and Gratitude]], [[Providence]], [[Eternity]], [[Paradox]], [[Incarnation]], [[History]]
-**Forms & Genres:** [[Lyric]], [[Hymn]], [[Litany]]
-**Historical References:** [[Christianity]], [[Bible]], [[Litany of Loreto]]
-**Characters:** [[Virgin Mary]], [[Christ]]
+**Motifs:** [[motifs/mirror|Mirror]], [[motifs/light-and-dark|Light and Dark]], [[motifs/rose|Rose]], [[motifs/window|Window]], [[motifs/stars|Stars]]
+**Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/faith|Faith]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/providence|Providence]], [[concepts/eternity|Eternity]], [[concepts/paradox|Paradox]], [[concepts/incarnation|Incarnation]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/hymn|Hymn]], [[forms/litany|Litany]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/litany-of-loreto|Litany of Loreto]]
+**Characters:** [[characters/virgin-mary|Virgin Mary]], [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

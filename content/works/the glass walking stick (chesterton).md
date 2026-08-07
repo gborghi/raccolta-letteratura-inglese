@@ -53,7 +53,7 @@ tags:
   - histref/victorian_england
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > A posthumous selection of Chesterton's Illustrated London News essays on history, architecture, art, monarchy and national tradition. Central matter: the romance and meaning of history, defence of tradition against fashionable progress, and the imaginative recovery of the past.
@@ -85,17 +85,17 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[King]], [[Hero]]
+**Archetypes:** [[archetypes/king|King]], [[archetypes/hero|Hero]]
 
-**Settings:** [[Cathedral]], [[Spain]], [[Toledo]], [[The Escorial]], [[Camelot]], [[Europe]]
+**Settings:** [[settings/cathedral|Cathedral]], [[settings/spain|Spain]], [[settings/toledo|Toledo]], [[settings/the-escorial|The Escorial]], [[settings/camelot|Camelot]], [[settings/europe|Europe]]
 
-**Characters:** [[King Arthur]], [[Napoleon]], [[Robert Bruce]], [[General Wolfe]], [[Cyrano de Bergerac]], [[Chantecler]], [[St George]], [[Tom Jones]], [[Philip the Second]], [[George IV]], [[Edward VII]], [[George V]]
+**Characters:** [[characters/king-arthur|King Arthur]], [[historical-references/napoleon|Napoleon]], [[characters/robert-bruce|Robert Bruce]], [[characters/general-wolfe|General Wolfe]], [[characters/cyrano-de-bergerac|Cyrano de Bergerac]], [[characters/chantecler|Chantecler]], [[characters/st-george|St George]], [[characters/tom-jones|Tom Jones]], [[characters/philip-the-second|Philip the Second]], [[characters/george-iv|George IV]], [[characters/edward-vii|Edward VII]], [[characters/george-v|George V]]
 
-**Topoi:** [[Sic Transit Gloria Mundi]]
-**Motifs:** [[Ruins the Abbey]], [[Memory]], [[Lion]]
-**Themes & Concepts:** [[Critique of Progress]], [[Nostalgia]], [[Nationalism and Patriotism]], [[Wonder and Gratitude]], [[Satire of Society]], [[Artist and Society]], [[Kingship and Legitimacy]], [[Heroism]], [[War and its Cost]], [[History]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Heroic Couplet]], [[Nonfiction]]
-**Historical References:** [[Medieval England]], [[Arthurian Legend]], [[Christianity]], [[Regency Georgian England]], [[Napoleonic Wars the Navy]], [[Victorian England]]
+**Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
+**Motifs:** [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/memory|Memory]], [[motifs/lion|Lion]]
+**Themes & Concepts:** [[concepts/critique-of-progress|Critique of Progress]], [[concepts/nostalgia|Nostalgia]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/satire-of-society|Satire of Society]], [[concepts/artist-and-society|Artist and Society]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/heroism|Heroism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/heroic-couplet|Heroic Couplet]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/arthurian-legend|Arthurian Legend]], [[historical-references/christianity|Christianity]], [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/victorian-england|Victorian England]]
 
 ## Testo integrale / Full text
 

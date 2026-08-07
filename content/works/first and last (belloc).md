@@ -31,7 +31,7 @@ tags:
   - topos/ubi_sunt
   - topos/tempus_fugit
 ---
-*by Belloc*  ·  **Cluster:** [[Familiar Essay · Paradox · The Common Man]]
+*by Belloc*  ·  **Cluster:** [[clusters/familiar-essay-·-paradox-·-the-common-man|Familiar Essay · Paradox · The Common Man]]
 
 > [!abstract] 
 > A gathering of Belloc's familiar essays ranging over the sea and sailing, cheese, history, old things, great winds, and the end of the world. The tone moves between genial digression and elegiac reflection on time, memory, loss, and the passing away of a settled European life.
@@ -61,8 +61,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Sketch]], [[Nonfiction]]
-**Themes & Concepts:** [[Memory and Time]], [[Nostalgia]], [[Transience]], [[Mortality]], [[Tradition]], [[Nature]]
-**Motifs:** [[Sea]], [[Wind]], [[Journey]], [[Wine and Drink]], [[Food and Feasting]], [[Death]], [[Sea and Voyage]]
-**Settings:** [[Rural England]], [[Sea (2)]], [[France]], [[Europe]]
-**Topoi:** [[Sic Transit Gloria Mundi]], [[Ubi Sunt]], [[Tempus Fugit]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/sketch|Sketch]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/memory-and-time|Memory and Time]], [[concepts/nostalgia|Nostalgia]], [[concepts/transience|Transience]], [[concepts/mortality|Mortality]], [[concepts/tradition|Tradition]], [[concepts/nature|Nature]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/wind|Wind]], [[motifs/journey|Journey]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/death|Death]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/sea-(2)|Sea (2)]], [[settings/france|France]], [[settings/europe|Europe]]
+**Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/ubi-sunt|Ubi Sunt]], [[topoi/tempus-fugit|Tempus Fugit]]

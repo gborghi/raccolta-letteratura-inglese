@@ -18,18 +18,18 @@ tags:
   - concept/apocalypse
 ---
 
-*by Poe*  ·  **Cluster:** [[Death · Silence · Bells]]
+*by Poe*  ·  **Cluster:** [[clusters/death-·-silence-·-bells|Death · Silence · Bells]]
 
 > [!abstract] 
 > A visionary lyric depicting a doomed city of the dead where Death reigns enthroned among ruined towers before the whole town sinks into the sea; its themes are mortality, ruin, and apocalyptic decay.
 
 ## Connections
 
-**Topoi:** [[Memento Mori]]
-**Motifs:** [[Death]], [[Ruins the Abbey]], [[Sea]]
-**Themes & Concepts:** [[Mortality]], [[Melancholy]], [[Apocalypse]]
-**Forms & Genres:** [[Lyric]]
-**Characters:** [[Death Personified]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/death|Death]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/sea|Sea]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/melancholy|Melancholy]], [[concepts/apocalypse|Apocalypse]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
+**Characters:** [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

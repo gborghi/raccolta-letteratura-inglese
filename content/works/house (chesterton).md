@@ -33,7 +33,7 @@ tags:
 
 # house
 
-*by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
+*by Chesterton*  ·  **Cluster:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > A Christmas lyric on the paradox of homelessness and home: only where God was homeless, in the stable, are all men at home; the wandering star, exile, and the longing for a truer home.
@@ -44,16 +44,16 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Christ Figure]]
+**Archetypes:** [[archetypes/christ-figure|Christ Figure]]
 
-**Settings:** [[Inn]], [[Stable]]
+**Settings:** [[settings/inn|Inn]], [[settings/stable|Stable]]
 
-**Topoi:** [[World Upside Down]], [[Open Road Homecoming]]
-**Motifs:** [[Stars]], [[Journey]], [[Home]], [[Supernatural]]
-**Themes & Concepts:** [[Divine Love]], [[Paradox]], [[Exile]], [[Nostalgia]], [[Grace and Redemption]], [[Providence]], [[Wonder]]
-**Forms & Genres:** [[Lyric]], [[Hymn]]
-**Historical References:** [[Christianity]], [[Bible]]
-**Characters:** [[Christ]], [[Virgin Mary]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/open-road-homecoming|Open Road Homecoming]]
+**Motifs:** [[motifs/stars|Stars]], [[motifs/journey|Journey]], [[motifs/home|Home]], [[motifs/supernatural|Supernatural]]
+**Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/paradox|Paradox]], [[concepts/exile|Exile]], [[concepts/nostalgia|Nostalgia]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/providence|Providence]], [[concepts/wonder|Wonder]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/hymn|Hymn]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
+**Characters:** [[characters/christ|Christ]], [[characters/virgin-mary|Virgin Mary]]
 
 ## Testo integrale / Full text
 

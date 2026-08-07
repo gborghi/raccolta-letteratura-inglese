@@ -13,3 +13,9 @@ tags:
 ## Works
 
 <div class="concept-works" data-slug="motifs/jewel"></div>
+
+<div class="concept-works-fallback">
+
+- [[works/gargoyles-(chesterton)|gargoyles (Chesterton)]]
+
+</div>

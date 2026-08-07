@@ -21,7 +21,7 @@ tags:
   - character/sir_arthur_conan_doyle
   - archetype/prophet
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Spiritualism · Faith and Doubt · The Afterlife]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/spiritualism-·-faith-and-doubt-·-the-afterlife|Spiritualism · Faith and Doubt · The Afterlife]]
 
 > [!abstract] 
 > Doyle's final book is a passionate defense of Spiritualism, opening with a detailed portrait of his troubled friendship and rivalry with Houdini, whom Doyle believed to be a suppressed physical medium turned medium-baiter. It goes on to recount ghost sightings, psychic mail, and personal encounters offered as evidence for survival after death.
@@ -32,8 +32,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Spiritualism]], [[Unseen The Hidden]], [[Immortality of the Soul]], [[Deception]], [[Faith and Doubt]]
-**Motifs:** [[Ghosts]], [[Supernatural]], [[Uncanny]], [[Death]]
-**Characters:** [[Sir Arthur Conan Doyle]]
-**Archetypes:** [[Prophet]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/spiritualism|Spiritualism]], [[concepts/unseen-the-hidden|Unseen The Hidden]], [[concepts/immortality-of-the-soul|Immortality of the Soul]], [[concepts/deception|Deception]], [[concepts/faith-and-doubt|Faith and Doubt]]
+**Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[concepts/uncanny|Uncanny]], [[motifs/death|Death]]
+**Characters:** [[characters/sir-arthur-conan-doyle|Sir Arthur Conan Doyle]]
+**Archetypes:** [[archetypes/prophet|Prophet]]

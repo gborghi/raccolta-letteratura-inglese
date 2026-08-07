@@ -17,12 +17,12 @@ tags:
 This is entered in from one of four Chesterton essays in the collection
 cited below.  Maisie Ward references this material as being some of his
 best and also, ironically, some of his earliest.  Haw, George, ed.
-The Religious Doubts of [[democracy|Democracy]].  [[London]]:  MacMillan, 1904.
+The Religious Doubts of [[concepts/democracy|Democracy]].  [[settings/london|London]]:  MacMillan, 1904.
 
-[[Christianity]] and Rationalism
+[[historical-references/christianity|Christianity]] and Rationalism
 
 My friend, Mr. George Haw, has asked me to state, in one or two articles,
-my general belief on the subject of [[Christianity]], to be inserted in
+my general belief on the subject of [[historical-references/christianity|Christianity]], to be inserted in
 the Clarion.  I will not pretend to any particlular reluctance to do so;
 but I ought not to do it without first of all offering to Mr. Blatchford
 our gratitude, and something which is better than gratitude,
@@ -35,16 +35,16 @@ Most of the awful revelations of Christian evil and ignorance do not,
 I am afraid, affect me in quite so serious a manner as they ought to.
 When I hear that a German professor has found the four-hundreth
 accurate origin of protoplasm, I try in vain to feel excitement;
-when I read that savages paint their faces green to please the [[Ghosts|ghosts]]
+when I read that savages paint their faces green to please the [[motifs/ghosts|ghosts]]
 (or what not), I have no feeling beyond a vague pleasure and sympathy.
 Both the German professor and the green-faced savage seem to me
 to be doing the same thing--that is, falling under the influence
 of that starry impulse which leads men to take a vast deal of trouble
 about quite useless things.
 
-But such things do not make much difference to my view of [[Christianity]].
+But such things do not make much difference to my view of [[historical-references/christianity|Christianity]].
 In the whole of this controversy I have felt the force of one thing,
-which has really hit practical [[Christianity]]; I think it is
+which has really hit practical [[historical-references/christianity|Christianity]]; I think it is
 a good argument; I think it is a terrible argument.  It is not
 that this controversy is being conducted in a non-Christian paper.
 It certainly is a fair point scored against a religion that the people
@@ -53,12 +53,12 @@ a fraud.  I think, therefore, that Mr. Blatchford's magnanimity,
 like all magnanimity, is profoundly philosophical and wise.
 
 Nor do I blame him, as some have done, for having discussed it
-at great length; as the subject is the [[Nature|nature]] of the Universe,
+at great length; as the subject is the [[concepts/nature|nature]] of the Universe,
 it is necessarily as large as the Universe, and as rich as the Universe,
 and I may add, as amusing as the Universe.
 
-In fact, I fancy there must be such a thing as [[Immortality]],
-merely that Mr. Blatchford and I may have [[Time|time]] to discuss whether
+In fact, I fancy there must be such a thing as [[concepts/immortality|Immortality]],
+merely that Mr. Blatchford and I may have [[motifs/time|time]] to discuss whether
 it is true.
 
 Before I give an outline of my view, there is one other thing
@@ -67,23 +67,23 @@ I have begun to realise that there are a good many people to whom my
 way of speaking about these things appears like an indication that I
 am flippant or imperfectly sincere.  Since, as a matter of fact,
 I am more certain of myself in this affair than I am of the existence
-of the [[Moon|moon]], this naturally causes me some considerable regret;
+of the [[motifs/moon|moon]], this naturally causes me some considerable regret;
 but I think I see the naturalness of the mistake and how it
 arose in people for removed from the Christian atmosphere.
-[[Christianity]] is itself so jolly a thing that it fills the possessor
+[[historical-references/christianity|Christianity]] is itself so jolly a thing that it fills the possessor
 of it with a certain silly exuberance, which sad and high-minded
 Rationalists might reasonably mistake for mere buffoonery and blasphemy;
 just as their prototypes, the sad and high-minded Stoics of old Rome,
 did mistake the Christian joyousness for buffoonery and blasphemy.
 
 This difference holds good everywhere, in the cold Pagan architectrure
-and the grinning [[gargoyles]] of Christendom, in the preposterous motley
+and the grinning gargoyles of Christendom, in the preposterous motley
 of the Middle Ages and the dingy dress of this Rationlistic century.
 And if Mr. Blatchford wishes to know why we should be surprised if
 the Duke of Devonshire walked about with one leg red and the other yellow
 (as a nobleman might have done in the thirteenth century), I can
-obligingly inform him that it is because of the [[Decay|decay]] of our [[Faith|faith]].
-Nowhere in [[history]] has there ever been any popular brightness
+obligingly inform him that it is because of the [[motifs/decay|decay]] of our [[concepts/faith|faith]].
+Nowhere in [[concepts/history|history]] has there ever been any popular brightness
 and gaiety without religion.
 
 The first of all the difficulities that I have in controverting
@@ -107,26 +107,26 @@ that Patagonians should dream of a Son of God?
 The Blatchfordian position really amounts to this--that because a
 certain thing has impressed millions of different people as likely
 or necessary therefore is connot be true.  And then this bashful being,
-veiling his own talents, convicts the wretched G.K.C. of [[Paradox|paradox]]!
-I like [[Paradox|paradox]], but I am not prepared to [[Dance|dance]] and dazzle to the
+veiling his own talents, convicts the wretched G.K.C. of [[concepts/paradox|paradox]]!
+I like [[concepts/paradox|paradox]], but I am not prepared to [[motifs/dance|dance]] and dazzle to the
 extent of Nunquam, who points to humanity crying out to a thing,
 and pointing to it from immemorial ages, as a proof that it
 cannot be there.
 
-The story of a [[Christ]] is very common in legend and literature.
-So is the story of two [[lovers]] parted by Fate.
+The story of a [[characters/christ|Christ]] is very common in legend and literature.
+So is the story of two lovers parted by Fate.
 So is the story of two friends killing each other for a woman.
 But will it seriously be maintained that, because these two
 stories are common as legends, therefore not two friends were
-ever separated by [[Love|love]] or no two [[lovers]] by circumstances?
+ever separated by [[motifs/love|love]] or no two lovers by circumstances?
 It is tolerably plain, surely, that these two stories are common
 because the situation is an intensely probable and human one,
-because our [[Nature|nature]] is so built as to make them almost inevitable.
+because our [[concepts/nature|nature]] is so built as to make them almost inevitable.
 
-Why should it not be that our [[Nature|nature]] is so built as to make certain
+Why should it not be that our [[concepts/nature|nature]] is so built as to make certain
 spiritual events inevitable?  In any case, it is clearly ridiculous
-to attempt to disprove [[Christianity]] by the number and variety of
-Pagan Christs.  You might as [[Well|well]] take the number and variety of ideal
+to attempt to disprove [[historical-references/christianity|Christianity]] by the number and variety of
+Pagan Christs.  You might as [[motifs/well|well]] take the number and variety of ideal
 schemes of society, from Plato's Republic to Morris' News from Nowhere,
 from More's Utopia to Blatchford's Merrie England, and then try and prove
 from them that mankind cannot ever reach a better social condition.
@@ -139,9 +139,9 @@ I should reply:  "Speaking as an unlearned person, I don't know.
 But speaking as a Christian, I should be very much astonished
 if they hadn't."
 
-Take a second instance.  The Secularist says that [[Christianity]]
-has been a gloomy and [[ascetic]] thing, and points to the procession
-of austere or ferocious saints who have given up [[Home|home]] and happiness
+Take a second instance.  The Secularist says that [[historical-references/christianity|Christianity]]
+has been a gloomy and ascetic thing, and points to the procession
+of austere or ferocious saints who have given up [[motifs/home|home]] and happiness
 and macerated health and sex.  But it never seems to occur to him
 that the very oddity and completeness of the men's surrender
 make it look very much as if there were really something actual
@@ -161,12 +161,12 @@ and the homelessness of the man, and the stupefied degradation
 of the man proved that there was no such thing as brandy.
 
 That is precisely what the Secularist tries to say.  He tries
-to prove that there is no such think as [[Supernatural|supernatural]] experience
+to prove that there is no such think as [[motifs/supernatural|supernatural]] experience
 by pointing at the people who have given up everything for it.
 He tries to prove that there is no such thing by proving that there
 are people who live on nothing else.
 
-Again I may submissively ask:  "Whose is the [[Paradox|paradox]]?"
+Again I may submissively ask:  "Whose is the [[concepts/paradox|paradox]]?"
 The frantic severity of these men may, of course, show that they
 were eccentric people who loved unhappiness for its own sake.
 But is seems more in accordance with commonsense to suppose that they
@@ -174,15 +174,15 @@ had really found the secret of some actual power or experience
 which was, like wine, a terrible consolation and a lonely joy.
 
 Thus, then, in the second instance, when the learned sceptic says to me:
-"Christian saints gave up [[Love|love]] and liberty for this one rapture
-of [[Christianity]], I should have been surprised if they hadn't."
+"Christian saints gave up [[motifs/love|love]] and liberty for this one rapture
+of [[historical-references/christianity|Christianity]], I should have been surprised if they hadn't."
 
-Take a third instance.  The Secularist says that [[Christianity]] produced
+Take a third instance.  The Secularist says that [[historical-references/christianity|Christianity]] produced
 tumult and cruelty.  He seems to suppose that this proves it to be bad.
 But it might prove it to be very good.  For men commit crimes
 not only for bad things, far more often for good things.
 For no bad things can be desired quite so passionately and persistently
-as good things can be desired and only very exceptional men [[Desire|desire]]
+as good things can be desired and only very exceptional men [[motifs/desire|desire]]
 very bad and unnatural things.
 
 Most crime is committed because, owing to some peculiar complication,
@@ -193,8 +193,8 @@ Babies, the most beautiful things on earth, have been the excuse
 and origin of almost all the business of brutality and financial
 infamy on earth.
 
-If we could abolish monogamic or [[Romantic Love|romantic love]], again the country
-would be dotted with Maiden Assizes.  And if anywhere in [[history]]
+If we could abolish monogamic or [[concepts/romantic-love|romantic love]], again the country
+would be dotted with Maiden Assizes.  And if anywhere in [[concepts/history|history]]
 masses of common and kindly men become cruel it almost certainly
 does not mean that they are serving something in itself tyrannical
 (for why should they?). It almost certainly does mean that something
@@ -209,7 +209,7 @@ of cruel rush.
 
 We need not go far for instances quite apart from the instances
 of religion.  When the modern doctrines of brotherhood and liberty
-were preached in France in the eighteenth century the [[Time|time]] was
+were preached in France in the eighteenth century the [[motifs/time|time]] was
 ripe for them, the educated classes everywhere had been growing
 towards them, the world to a very considerable extend welcomed them.
 And yet all that preparation and openness were unable to prevent
@@ -217,24 +217,24 @@ the burst of anger and agony which greets anything good.
 And if the slow and polite preaching of rational fraternity in a rational
 age ended in the massacres of September, what an a fortiori is here!
 What would be likely to be the effect of the sudden dropping
-into a dreadfully evil century of a dreadfully perfect [[Truth|truth]]?
+into a dreadfully evil century of a dreadfully perfect [[concepts/truth|truth]]?
 What would happen if a world baser than the world of Sade were
 confronted with a gospel purer than the gospel of Rousseau?
 
 The mere flinging of the polished pebble of Republican Indealism into
 the artificial lake of eighteenth century Europe produced a splash
-that seemed to splash the heavens, and a [[Storm|storm]] that drowned ten
+that seemed to splash the heavens, and a [[motifs/storm|storm]] that drowned ten
 thousand men.  What would happen if a star from heaven really fell
 into the slimy and bloody pool of a hopless and decaying humanity?
-Men swept a [[City|city]] with the guillotine, a continent with the sabre,
+Men swept a [[motifs/city|city]] with the guillotine, a continent with the sabre,
 because Liberty, Equality, and Fraternity were too precious to be lost.
-How if [[Christianity]] was yet more maddening because it was
+How if [[historical-references/christianity|Christianity]] was yet more maddening because it was
 yet more precious?
 
-But why should we labour the point when One who knew human [[Nature|nature]] as it
+But why should we labour the point when One who knew human [[concepts/nature|nature]] as it
 can really be learnt, from fishermen and women and natural people,
-saw from his quiet village the track of this [[Truth|truth]] across [[history]],
-and, in saying that He came to bring not peace but a [[Sword|sword]], set up
+saw from his quiet village the track of this [[concepts/truth|truth]] across [[concepts/history|history]],
+and, in saying that He came to bring not peace but a sword, set up
 eternally His colossal realism against the eternal sentimentality
 of the Secularist?
 
@@ -256,16 +256,16 @@ are some other and higher beings than ourselves, and if they
 in some strange ways, at some emotional crisis, really revealed
 themselves to rude poets or dreamers in very simple times,
 that the rude people should regard the revelation as local,
-and connect it with the particular [[Hill|hill]] or [[River|river]] where it happened,
+and connect it with the particular [[motifs/hill|hill]] or [[motifs/river|river]] where it happened,
 seems to me exactly what any reasonable human being would expect.
-It has a far more credible look than if they had talked cosmic [[philosophy]]
+It has a far more credible look than if they had talked cosmic philosophy
 from the beginning.  If they had, I should have suspected "priestcraft"
 and forgeries and third-century Gnosticism
 
-If there be such a being as God, and He can speak to a [[Child|child]],
-and if God spoke to a [[Child|child]] in the [[Garden|garden]] the [[Child|child]] would, of course,
-say that God lived in the [[Garden|garden]].  I should not think it any less
-likely to be true for that.  If the [[Child|child]] said:  "God is everywhere:
+If there be such a being as God, and He can speak to a [[archetypes/child|child]],
+and if God spoke to a [[archetypes/child|child]] in the [[motifs/garden|garden]] the [[archetypes/child|child]] would, of course,
+say that God lived in the [[motifs/garden|garden]].  I should not think it any less
+likely to be true for that.  If the [[archetypes/child|child]] said:  "God is everywhere:
 an impalpable essence pervading and supporting all constituents
 of the Cosmos alike"--if, I say, the infant addressed me in the
 above terms, I should think he was mouch more likely to have been
@@ -278,16 +278,16 @@ For whatever be the Divine Secret, and whether or no it has
 (as all people have believed) sometimes broken bounds and surged
 into our work, at least it lies on the side furthest away from pedants
 and their definitions, and nearest to the silver souls of quiet people,
-to the [[Beauty|beauty]] of bushes, and the [[Love|love]] of one's native place.
+to the [[concepts/beauty|beauty]] of bushes, and the [[motifs/love|love]] of one's native place.
 
 Thus, then in our last instance (out of hundreds that might be taken),
 we conclude in the same way.  When the learned sceptic says:
-"The visions of the Old Testament were local, and rustic, and [[Grotesque|grotesque]],"
+"The visions of the Old Testament were local, and rustic, and [[concepts/grotesque|grotesque]],"
 we shall answer:  "Of course.  They were genuine."
 
 Thus, as I said at the beginning, I find myself, to start with,
 face to face with the difficulty that to mention the reasons that I
-have for believing in [[Christianity]] is, in very many cases, to repeat
+have for believing in [[historical-references/christianity|Christianity]] is, in very many cases, to repeat
 those arguments which Mr. Blatchford, in some strange way, seems to
 regard as arguments against it.  His book is really rich and powerful.
 He has undoubtedly set up these four great guns of which I have spoken.
@@ -295,28 +295,28 @@ I have nothing to say against the size and ammunition of the guns.
 I only say that by some accident of arrangement he has set up those four
 pieces of artillery with the tails pointing at me and the mouths
 pointing at himself.  If I were not so humane, I should say:
-"Gentlemen of the Secularist Guard, [[Fire|fire]] first."
+"Gentlemen of the Secularist Guard, [[motifs/fire|fire]] first."
 
 But there is more to be said.  Mr. Blatchford, for some reason or other
 (possibly want of space), has neglected to urge all the arguments
-for [[Christianity]].  And, oddly enough, the two or three arguments
+for [[historical-references/christianity|Christianity]].  And, oddly enough, the two or three arguments
 he has omitted to state are the really vital and essential ones.
 Without them, even the excellent four facts which he and I have
 respectively explained may apprear superficially unitelligible.
 
 Why will many of you not accept my four explanations?  Obviously, in mere
-[[logic]], they are as logical as Mr. Blatchford's. It is as reasonable,
-in the abstract, that a [[Truth|truth]] should be distorted as that a lie
+logic, they are as logical as Mr. Blatchford's. It is as reasonable,
+in the abstract, that a [[concepts/truth|truth]] should be distorted as that a lie
 should be distorted; it is as reasonable, in the abstract, that men
 should starve and sin for a real benefit as for an unreal one.
 You will not believe it because you are armed to the teeth,
 and buttoned up to the chin with the great Agnostic Orthodoxy,
 perhaps the most placid and perfect of all the orthodoxies of mean.
-You could sooner believe that Socrates was a [[government|Government]] spy than
+You could sooner believe that Socrates was a Government spy than
 believe that he heard a voice from his God.  You could more easily
-think that [[Christ]] murdered His mother, than that He had a psychic
+think that [[characters/christ|Christ]] murdered His mother, than that He had a psychic
 energy of which we know nothing.  I approach you with the reverence
-and the [[Courage|courage]] due to a bench of bishops.
+and the [[concepts/courage|courage]] due to a bench of bishops.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -324,12 +324,12 @@ and the [[Courage|courage]] due to a bench of bishops.
 Questo testo è tratto da uno dei quattro saggi di Chesterton nella raccolta
 citata qui sotto.  Maisie Ward indica queste pagine come tra le sue
 migliori e, ironicamente, anche tra le sue più precoci.  Haw, George, a cura di.
-The Religious Doubts of [[democracy|Democracy]].  [[London|Londra]]:  MacMillan, 1904.
+The Religious Doubts of [[concepts/democracy|Democracy]].  [[settings/london|Londra]]:  MacMillan, 1904.
 
-[[Christianity]] e il Razionalismo
+[[historical-references/christianity|Christianity]] e il Razionalismo
 
 Il mio amico, il signor George Haw, mi ha chiesto di esporre, in uno o due articoli,
-la mia opinione generale in materia di [[Christianity|Cristianesimo]], da pubblicarsi
+la mia opinione generale in materia di [[historical-references/christianity|Cristianesimo]], da pubblicarsi
 nel Clarion.  Non fingerò alcuna particolare riluttanza a farlo;
 ma non dovrei accingermi all'impresa senza prima offrire al signor Blatchford
 la nostra gratitudine, e qualcosa che vale più della gratitudine,
@@ -342,16 +342,16 @@ La maggior parte delle terribili rivelazioni sul male e sull'ignoranza dei crist
 turba, temo, in modo tanto grave quanto dovrebbe.
 Quando sento dire che un professore tedesco ha scoperto la quattrocentesima
 esatta origine del protoplasma, mi sforzo invano di provare entusiasmo;
-quando leggo che i selvaggi si dipingono il volto di verde per compiacere i [[Ghosts|fantasmi]]
+quando leggo che i selvaggi si dipingono il volto di verde per compiacere i [[motifs/ghosts|fantasmi]]
 (o che so io), non provo nulla al di là di un vago piacere e di una vaga simpatia.
 Tanto il professore tedesco quanto il selvaggio dal volto verde mi paiono
 fare la stessa cosa: cioè cadere sotto l'influsso
 di quell'impulso siderale che spinge gli uomini a darsi un gran daffare
 per cose del tutto inutili.
 
-Ma simili cose non mutano granché la mia idea del [[Christianity|Cristianesimo]].
+Ma simili cose non mutano granché la mia idea del [[historical-references/christianity|Cristianesimo]].
 In tutta questa controversia ho sentito la forza di una cosa sola,
-che ha colpito davvero il [[Christianity|Cristianesimo]] pratico; la ritengo
+che ha colpito davvero il [[historical-references/christianity|Cristianesimo]] pratico; la ritengo
 una buona argomentazione; la ritengo un'argomentazione terribile.  Non sta
 nel fatto che questa controversia si conduca su un giornale non cristiano.
 È senza dubbio un punto legittimo segnato contro una religione il fatto che coloro
@@ -360,12 +360,12 @@ una frode.  Penso, dunque, che la magnanimità del signor Blatchford,
 come ogni magnanimità, sia profondamente filosofica e saggia.
 
 Né lo biasimo, come alcuni hanno fatto, per averne discusso
-a lungo; poiché il soggetto è la [[Nature|natura]] dell'Universo,
+a lungo; poiché il soggetto è la [[concepts/nature|natura]] dell'Universo,
 esso è necessariamente vasto quanto l'Universo, e ricco quanto l'Universo,
 e, aggiungerei, divertente quanto l'Universo.
 
-Anzi, immagino che debba esistere qualcosa come l'[[Immortality|Immortalità]],
-non fosse che perché il signor Blatchford e io abbiamo il [[Time|tempo]] di discutere se
+Anzi, immagino che debba esistere qualcosa come l'[[concepts/immortality|Immortalità]],
+non fosse che perché il signor Blatchford e io abbiamo il [[motifs/time|tempo]] di discutere se
 essa sia vera.
 
 Prima di tracciare un abbozzo della mia posizione, c'è un'altra cosa
@@ -374,23 +374,23 @@ Ho cominciato a rendermi conto che vi sono parecchie persone alle quali il mio
 modo di parlare di queste cose pare indizio che io
 sia frivolo o imperfettamente sincero.  Poiché, di fatto,
 in questa faccenda sono più sicuro di me stesso di quanto lo sia dell'esistenza
-della [[Moon|luna]], ciò naturalmente mi procura un notevole rammarico;
+della [[motifs/moon|luna]], ciò naturalmente mi procura un notevole rammarico;
 ma credo di scorgere la naturalezza dell'equivoco e come esso
 sia sorto in persone assai lontane dall'atmosfera cristiana.
-Il [[Christianity|Cristianesimo]] è di per sé cosa tanto gioiosa che riempie chi lo possiede
+Il [[historical-references/christianity|Cristianesimo]] è di per sé cosa tanto gioiosa che riempie chi lo possiede
 di una certa sciocca esuberanza, che i Razionalisti tristi e nobili
 d'animo potrebbero ragionevolmente scambiare per mera buffoneria e bestemmia;
 proprio come i loro prototipi, i tristi e nobili Stoici dell'antica Roma,
 scambiarono la gioia cristiana per buffoneria e bestemmia.
 
 Questa differenza vale ovunque: nella fredda architettura pagana
-e nei [[gargoyles|gargoyle]] ghignanti della Cristianità, nell'assurda screziatura
+e nei gargoyle ghignanti della Cristianità, nell'assurda screziatura
 del Medioevo e nell'abito smorto di questo secolo razionalista.
 E se il signor Blatchford desidera sapere perché dovremmo stupirci qualora
 il Duca di Devonshire andasse in giro con una gamba rossa e l'altra gialla
 (come un nobiluomo avrebbe potuto fare nel tredicesimo secolo), posso
-cortesemente informarlo che ciò è dovuto al [[Decay|declino]] della nostra [[Faith|fede]].
-In nessun luogo della [[history|storia]] vi è mai stata alcuna allegria
+cortesemente informarlo che ciò è dovuto al [[motifs/decay|declino]] della nostra [[concepts/faith|fede]].
+In nessun luogo della [[concepts/history|storia]] vi è mai stata alcuna allegria
 e gaiezza popolare senza religione.
 
 La prima fra tutte le difficoltà che incontro nel confutare
@@ -414,26 +414,26 @@ che i Patagoni sognino un Figlio di Dio?
 La posizione blatchfordiana si riduce in realtà a questo: che, poiché una
 certa cosa ha impresso in milioni di persone diverse l'idea che sia probabile
 o necessaria, essa perciò non può essere vera.  E poi questo essere schivo,
-velando i propri talenti, dichiara il malcapitato G.K.C. colpevole di [[Paradox|paradosso]]!
-A me il [[Paradox|paradosso]] piace, ma non sono disposto a [[Dance|danzare]] e ad abbagliare fino al
+velando i propri talenti, dichiara il malcapitato G.K.C. colpevole di [[concepts/paradox|paradosso]]!
+A me il [[concepts/paradox|paradosso]] piace, ma non sono disposto a [[motifs/dance|danzare]] e ad abbagliare fino al
 punto di Nunquam, il quale addita l'umanità che invoca a gran voce una cosa,
 e la indica da tempi immemorabili, come prova che essa
 non può esservi.
 
-La storia di un [[Christ|Cristo]] è assai comune nella leggenda e nella letteratura.
-Così è la storia di due [[lovers|amanti]] separati dal Fato.
+La storia di un [[characters/christ|Cristo]] è assai comune nella leggenda e nella letteratura.
+Così è la storia di due amanti separati dal Fato.
 Così è la storia di due amici che si uccidono l'un l'altro per una donna.
 Ma si vorrà sul serio sostenere che, poiché queste due
 storie sono comuni come leggende, perciò mai due amici furono
-separati dall'[[Love|amore]] né due [[lovers|amanti]] dalle circostanze?
+separati dall'[[motifs/love|amore]] né due amanti dalle circostanze?
 È abbastanza chiaro, di certo, che queste due storie sono comuni
 perché la situazione è intensamente probabile e umana,
-perché la nostra [[Nature|natura]] è congegnata in modo da renderle quasi inevitabili.
+perché la nostra [[concepts/nature|natura]] è congegnata in modo da renderle quasi inevitabili.
 
-Perché non dovrebbe darsi che la nostra [[Nature|natura]] sia congegnata in modo da rendere
+Perché non dovrebbe darsi che la nostra [[concepts/nature|natura]] sia congegnata in modo da rendere
 inevitabili certi eventi spirituali?  In ogni caso, è palesemente ridicolo
-tentare di confutare il [[Christianity|Cristianesimo]] con il numero e la varietà dei
-Cristi pagani.  Fareste altrettanto [[Well|bene]] a prendere il numero e la varietà dei disegni
+tentare di confutare il [[historical-references/christianity|Cristianesimo]] con il numero e la varietà dei
+Cristi pagani.  Fareste altrettanto [[motifs/well|bene]] a prendere il numero e la varietà dei disegni
 ideali di società, dalla Repubblica di Platone a News from Nowhere di Morris,
 dall'Utopia di More alla Merrie England di Blatchford, e poi cercare di provare
 da essi che l'umanità non potrà mai raggiungere una condizione sociale migliore.
@@ -446,9 +446,9 @@ dovrei rispondere:  «Parlando da ignorante, non lo so.
 Ma parlando da cristiano, sarei molto stupito
 se non ce l'avessero».
 
-Prendiamo un secondo caso.  Il Secolarista dice che il [[Christianity|Cristianesimo]]
-è stato una cosa cupa e [[ascetic|ascetica]], e addita la processione
-di santi austeri o feroci che hanno rinunciato alla [[Home|casa]] e alla felicità
+Prendiamo un secondo caso.  Il Secolarista dice che il [[historical-references/christianity|Cristianesimo]]
+è stato una cosa cupa e ascetica, e addita la processione
+di santi austeri o feroci che hanno rinunciato alla [[motifs/home|casa]] e alla felicità
 e hanno macerato salute e sesso.  Ma non gli viene mai in mente
 che la stranezza stessa e la completezza della resa di quegli uomini
 fanno assai pensare che vi fosse davvero qualcosa di reale
@@ -468,12 +468,12 @@ e la sua mancanza di tetto, e la sua istupidita degradazione
 provano che l'acquavite non esiste.
 
 È esattamente ciò che il Secolarista cerca di dire.  Egli cerca
-di provare che non esiste alcuna esperienza [[Supernatural|soprannaturale]]
+di provare che non esiste alcuna esperienza [[motifs/supernatural|soprannaturale]]
 additando le persone che per essa hanno rinunciato a tutto.
 Cerca di provare che una tale cosa non esiste provando che vi
 sono persone che non vivono d'altro.
 
-Di nuovo posso chiedere sommessamente:  «Di chi è il [[Paradox|paradosso]]?».
+Di nuovo posso chiedere sommessamente:  «Di chi è il [[concepts/paradox|paradosso]]?».
 La frenetica severità di questi uomini può, certo, mostrare che essi
 erano gente eccentrica che amava l'infelicità in sé.
 Ma pare più conforme al buon senso supporre che essi
@@ -481,15 +481,15 @@ avessero davvero trovato il segreto di qualche reale potere o esperienza
 che era, come il vino, una terribile consolazione e una gioia solitaria.
 
 Così, dunque, nel secondo caso, quando il dotto scettico mi dice:
-«I santi cristiani rinunciarono all'[[Love|amore]] e alla libertà per questo unico rapimento
-del [[Christianity|Cristianesimo]]», mi sarei stupito se non l'avessero fatto.
+«I santi cristiani rinunciarono all'[[motifs/love|amore]] e alla libertà per questo unico rapimento
+del [[historical-references/christianity|Cristianesimo]]», mi sarei stupito se non l'avessero fatto.
 
-Prendiamo un terzo caso.  Il Secolarista dice che il [[Christianity|Cristianesimo]] ha prodotto
+Prendiamo un terzo caso.  Il Secolarista dice che il [[historical-references/christianity|Cristianesimo]] ha prodotto
 tumulto e crudeltà.  Pare supporre che ciò provi che esso è cattivo.
 Ma potrebbe provare che è ottimo.  Poiché gli uomini commettono delitti
 non solo per cose cattive, ma assai più spesso per cose buone.
 Giacché nessuna cosa cattiva può essere desiderata con tanta passione e costanza
-quanto possono esserlo le cose buone, e solo uomini del tutto eccezionali [[Desire|desiderano]]
+quanto possono esserlo le cose buone, e solo uomini del tutto eccezionali [[motifs/desire|desiderano]]
 cose molto cattive e innaturali.
 
 La maggior parte dei delitti si commette perché, a causa di qualche singolare
@@ -500,8 +500,8 @@ I bambini, le cose più belle della terra, sono stati il pretesto
 e l'origine di quasi tutto il traffico di brutalità e di infamia
 finanziaria che esista al mondo.
 
-Se potessimo abolire l'[[Romantic Love|amore romantico]] o monogamico, di nuovo il paese
-sarebbe costellato di Assise senza imputati.  E se in qualche luogo della [[history|storia]]
+Se potessimo abolire l'[[concepts/romantic-love|amore romantico]] o monogamico, di nuovo il paese
+sarebbe costellato di Assise senza imputati.  E se in qualche luogo della [[concepts/history|storia]]
 masse di uomini comuni e bonari diventano crudeli, ciò quasi certamente
 non significa che stiano servendo qualcosa di tirannico in sé
 (perché mai dovrebbero?).  Significa quasi certamente che qualcosa
@@ -516,7 +516,7 @@ di corsa crudele.
 
 Non occorre andar lontano per trovare esempi del tutto estranei a quelli
 della religione.  Quando le moderne dottrine di fratellanza e libertà
-furono predicate in Francia nel diciottesimo secolo, i [[Time|tempi]] erano
+furono predicate in Francia nel diciottesimo secolo, i [[motifs/time|tempi]] erano
 maturi per esse, le classi colte ovunque erano andate maturando
 verso di esse, il mondo in misura assai considerevole le accolse.
 Eppure tutta quella preparazione e quell'apertura non valsero a impedire
@@ -524,24 +524,24 @@ lo scoppio d'ira e d'angoscia che accoglie ogni cosa buona.
 E se la lenta e cortese predicazione della fraternità razionale in un'epoca
 razionale finì nei massacri di settembre, che a fortiori è mai questo!
 Quale sarebbe verosimilmente l'effetto della caduta improvvisa
-in un secolo spaventosamente malvagio di una [[Truth|verità]] spaventosamente perfetta?
+in un secolo spaventosamente malvagio di una [[concepts/truth|verità]] spaventosamente perfetta?
 Che cosa accadrebbe se un mondo più abietto del mondo di Sade fosse
 posto di fronte a un vangelo più puro del vangelo di Rousseau?
 
 Il solo gettare il levigato ciottolo dell'Idealismo repubblicano nel
 lago artificiale dell'Europa del diciottesimo secolo produsse uno spruzzo
-che parve schizzare i cieli, e una [[Storm|tempesta]] che annegò diecimila
+che parve schizzare i cieli, e una [[motifs/storm|tempesta]] che annegò diecimila
 uomini.  Che cosa accadrebbe se una stella dal cielo cadesse davvero
 nella pozza melmosa e sanguinosa di un'umanità disperata e decadente?
-Gli uomini spazzarono una [[City|città]] con la ghigliottina, un continente con la sciabola,
+Gli uomini spazzarono una [[motifs/city|città]] con la ghigliottina, un continente con la sciabola,
 perché Libertà, Uguaglianza e Fraternità erano troppo preziose per essere perdute.
-E se il [[Christianity|Cristianesimo]] fosse ancora più esaltante perché era
+E se il [[historical-references/christianity|Cristianesimo]] fosse ancora più esaltante perché era
 ancora più prezioso?
 
-Ma perché insistere sul punto, quando Colui che conobbe la [[Nature|natura]] umana come
+Ma perché insistere sul punto, quando Colui che conobbe la [[concepts/nature|natura]] umana come
 essa si può davvero apprendere, da pescatori e donne e gente semplice,
-scorse dal suo quieto villaggio la traccia di questa [[Truth|verità]] attraverso la [[history|storia]],
-e, dicendo di esser venuto a portare non la pace ma una [[Sword|spada]], eresse
+scorse dal suo quieto villaggio la traccia di questa [[concepts/truth|verità]] attraverso la [[concepts/history|storia]],
+e, dicendo di esser venuto a portare non la pace ma una spada, eresse
 in eterno il suo colossale realismo contro l'eterno sentimentalismo
 del Secolarista?
 
@@ -563,16 +563,16 @@ esistono altri esseri più alti di noi, e se essi,
 in qualche strano modo, in qualche crisi emotiva, davvero si rivelarono
 a rozzi poeti o sognatori in tempi assai semplici,
 che quella gente rozza consideri la rivelazione come locale,
-e la colleghi al particolare [[Hill|colle]] o [[River|fiume]] dove essa avvenne,
+e la colleghi al particolare [[motifs/hill|colle]] o [[motifs/river|fiume]] dove essa avvenne,
 mi pare esattamente ciò che ogni essere umano ragionevole si aspetterebbe.
-Ha un'aria assai più credibile che se avessero discettato di [[philosophy|filosofia]] cosmica
+Ha un'aria assai più credibile che se avessero discettato di filosofia cosmica
 fin dal principio.  Se l'avessero fatto, avrei sospettato «arte sacerdotale»
 e falsificazioni e gnosticismo di terzo secolo.
 
-Se esiste un essere come Dio, ed Egli può parlare a un [[Child|bambino]],
-e se Dio parlò a un [[Child|bambino]] nel [[Garden|giardino]], il [[Child|bambino]] direbbe, ovviamente,
-che Dio abitava nel [[Garden|giardino]].  Non per questo la riterrei meno
-probabilmente vera.  Se il [[Child|bambino]] dicesse:  «Dio è dappertutto:
+Se esiste un essere come Dio, ed Egli può parlare a un [[archetypes/child|bambino]],
+e se Dio parlò a un [[archetypes/child|bambino]] nel [[motifs/garden|giardino]], il [[archetypes/child|bambino]] direbbe, ovviamente,
+che Dio abitava nel [[motifs/garden|giardino]].  Non per questo la riterrei meno
+probabilmente vera.  Se il [[archetypes/child|bambino]] dicesse:  «Dio è dappertutto:
 un'essenza impalpabile che pervade e sostiene allo stesso modo tutti i costituenti
 del Cosmo» — se, dico, il fanciullo mi si rivolgesse nei
 termini suddetti, penserei che assai più probabilmente sia stato
@@ -585,16 +585,16 @@ Poiché, quale che sia il Segreto Divino, e che esso abbia o no
 (come tutti gli uomini hanno creduto) talvolta rotto gli argini e fatto irruzione
 nella nostra opera, esso giace almeno dalla parte più lontana dai pedanti
 e dalle loro definizioni, e più vicina alle anime d'argento della gente tranquilla,
-alla [[Beauty|bellezza]] dei cespugli, e all'[[Love|amore]] per il proprio luogo natale.
+alla [[concepts/beauty|bellezza]] dei cespugli, e all'[[motifs/love|amore]] per il proprio luogo natale.
 
 Così, dunque, nel nostro ultimo caso (fra le centinaia che si potrebbero prendere),
 concludiamo allo stesso modo.  Quando il dotto scettico dice:
-«Le visioni dell'Antico Testamento erano locali, e rustiche, e [[Grotesque|grottesche]]»,
+«Le visioni dell'Antico Testamento erano locali, e rustiche, e [[concepts/grotesque|grottesche]]»,
 risponderemo:  «Naturalmente.  Erano autentiche».
 
 Così, come ho detto all'inizio, mi trovo, per cominciare,
 faccia a faccia con la difficoltà che menzionare le ragioni che io
-ho per credere nel [[Christianity|Cristianesimo]] è, in moltissimi casi, ripetere
+ho per credere nel [[historical-references/christianity|Cristianesimo]] è, in moltissimi casi, ripetere
 quegli argomenti che il signor Blatchford, in qualche strano modo, pare
 considerare argomenti contro di esso.  Il suo libro è davvero ricco e potente.
 Egli ha indubbiamente piazzato questi quattro grossi cannoni di cui ho parlato.
@@ -602,28 +602,28 @@ Non ho nulla da dire contro la mole e le munizioni dei cannoni.
 Dico soltanto che, per qualche accidente di disposizione, ha piazzato quei quattro
 pezzi d'artiglieria con le culatte puntate verso di me e le bocche
 puntate verso di sé.  Se non fossi tanto umano, direi:
-«Signori della Guardia Secolarista, [[Fire|fate fuoco]] per primi».
+«Signori della Guardia Secolarista, [[motifs/fire|fate fuoco]] per primi».
 
 Ma c'è dell'altro da dire.  Il signor Blatchford, per una ragione o per l'altra
 (forse per mancanza di spazio), ha trascurato di addurre tutti gli argomenti
-a favore del [[Christianity|Cristianesimo]].  E, cosa curiosa, i due o tre argomenti
+a favore del [[historical-references/christianity|Cristianesimo]].  E, cosa curiosa, i due o tre argomenti
 che ha omesso di esporre sono quelli davvero vitali ed essenziali.
 Senza di essi, perfino gli eccellenti quattro fatti che egli e io abbiamo
 rispettivamente spiegato possono apparire superficialmente inintelligibili.
 
 Perché molti di voi non vorranno accettare le mie quattro spiegazioni?  Ovviamente, in pura
-[[logic|logica]], esse sono logiche quanto quelle del signor Blatchford.  È altrettanto ragionevole,
-in astratto, che una [[Truth|verità]] venga distorta quanto che venga distorta una menzogna;
+logica, esse sono logiche quanto quelle del signor Blatchford.  È altrettanto ragionevole,
+in astratto, che una [[concepts/truth|verità]] venga distorta quanto che venga distorta una menzogna;
 è altrettanto ragionevole, in astratto, che gli uomini
 patiscano la fame e pecchino per un beneficio reale quanto per uno irreale.
 Non lo crederete perché siete armati fino ai denti,
 e abbottonati fino al mento con la grande Ortodossia Agnostica,
 forse la più placida e perfetta di tutte le ortodossie degli uomini.
-Riuscireste a credere più facilmente che Socrate fosse una spia del [[government|Governo]] che a
+Riuscireste a credere più facilmente che Socrate fosse una spia del Governo che a
 credere ch'egli udì una voce dal suo Dio.  Riuscireste più facilmente a
-pensare che [[Christ|Cristo]] abbia assassinato la propria madre, che non ch'Egli possedesse un'energia psichica
+pensare che [[characters/christ|Cristo]] abbia assassinato la propria madre, che non ch'Egli possedesse un'energia psichica
 di cui nulla sappiamo.  Mi accosto a voi con la reverenza
-e il [[Courage|coraggio]] dovuti a un consesso di vescovi.
+e il [[concepts/courage|coraggio]] dovuti a un consesso di vescovi.
 
 
 
@@ -633,12 +633,12 @@ e il [[Courage|coraggio]] dovuti a un consesso di vescovi.
 This is entered in from one of four Chesterton essays in the collection
 cited below.  Maisie Ward references this material as being some of his
 best and also, ironically, some of his earliest.  Haw, George, ed.
-The Religious Doubts of [[democracy|Democracy]].  [[London]]:  MacMillan, 1904.
+The Religious Doubts of [[concepts/democracy|Democracy]].  [[settings/london|London]]:  MacMillan, 1904.
 
-[[Christianity]] and Rationalism
+[[historical-references/christianity|Christianity]] and Rationalism
 
 My friend, Mr. George Haw, has asked me to state, in one or two articles,
-my general belief on the subject of [[Christianity]], to be inserted in
+my general belief on the subject of [[historical-references/christianity|Christianity]], to be inserted in
 the Clarion.  I will not pretend to any particlular reluctance to do so;
 but I ought not to do it without first of all offering to Mr. Blatchford
 our gratitude, and something which is better than gratitude,
@@ -651,16 +651,16 @@ Most of the awful revelations of Christian evil and ignorance do not,
 I am afraid, affect me in quite so serious a manner as they ought to.
 When I hear that a German professor has found the four-hundreth
 accurate origin of protoplasm, I try in vain to feel excitement;
-when I read that savages paint their faces green to please the [[Ghosts|ghosts]]
+when I read that savages paint their faces green to please the [[motifs/ghosts|ghosts]]
 (or what not), I have no feeling beyond a vague pleasure and sympathy.
 Both the German professor and the green-faced savage seem to me
 to be doing the same thing--that is, falling under the influence
 of that starry impulse which leads men to take a vast deal of trouble
 about quite useless things.
 
-But such things do not make much difference to my view of [[Christianity]].
+But such things do not make much difference to my view of [[historical-references/christianity|Christianity]].
 In the whole of this controversy I have felt the force of one thing,
-which has really hit practical [[Christianity]]; I think it is
+which has really hit practical [[historical-references/christianity|Christianity]]; I think it is
 a good argument; I think it is a terrible argument.  It is not
 that this controversy is being conducted in a non-Christian paper.
 It certainly is a fair point scored against a religion that the people
@@ -669,12 +669,12 @@ a fraud.  I think, therefore, that Mr. Blatchford's magnanimity,
 like all magnanimity, is profoundly philosophical and wise.
 
 Nor do I blame him, as some have done, for having discussed it
-at great length; as the subject is the [[Nature|nature]] of the Universe,
+at great length; as the subject is the [[concepts/nature|nature]] of the Universe,
 it is necessarily as large as the Universe, and as rich as the Universe,
 and I may add, as amusing as the Universe.
 
-In fact, I fancy there must be such a thing as [[Immortality]],
-merely that Mr. Blatchford and I may have [[Time|time]] to discuss whether
+In fact, I fancy there must be such a thing as [[concepts/immortality|Immortality]],
+merely that Mr. Blatchford and I may have [[motifs/time|time]] to discuss whether
 it is true.
 
 Before I give an outline of my view, there is one other thing
@@ -683,23 +683,23 @@ I have begun to realise that there are a good many people to whom my
 way of speaking about these things appears like an indication that I
 am flippant or imperfectly sincere.  Since, as a matter of fact,
 I am more certain of myself in this affair than I am of the existence
-of the [[Moon|moon]], this naturally causes me some considerable regret;
+of the [[motifs/moon|moon]], this naturally causes me some considerable regret;
 but I think I see the naturalness of the mistake and how it
 arose in people for removed from the Christian atmosphere.
-[[Christianity]] is itself so jolly a thing that it fills the possessor
+[[historical-references/christianity|Christianity]] is itself so jolly a thing that it fills the possessor
 of it with a certain silly exuberance, which sad and high-minded
 Rationalists might reasonably mistake for mere buffoonery and blasphemy;
 just as their prototypes, the sad and high-minded Stoics of old Rome,
 did mistake the Christian joyousness for buffoonery and blasphemy.
 
 This difference holds good everywhere, in the cold Pagan architectrure
-and the grinning [[gargoyles]] of Christendom, in the preposterous motley
+and the grinning gargoyles of Christendom, in the preposterous motley
 of the Middle Ages and the dingy dress of this Rationlistic century.
 And if Mr. Blatchford wishes to know why we should be surprised if
 the Duke of Devonshire walked about with one leg red and the other yellow
 (as a nobleman might have done in the thirteenth century), I can
-obligingly inform him that it is because of the [[Decay|decay]] of our [[Faith|faith]].
-Nowhere in [[history]] has there ever been any popular brightness
+obligingly inform him that it is because of the [[motifs/decay|decay]] of our [[concepts/faith|faith]].
+Nowhere in [[concepts/history|history]] has there ever been any popular brightness
 and gaiety without religion.
 
 The first of all the difficulities that I have in controverting
@@ -723,8 +723,8 @@ that Patagonians should dream of a Son of God?
 The Blatchfordian position really amounts to this--that because a
 certain thing has impressed millions of different people as likely
 or necessary therefore is connot be true.  And then this bashful being,
-veiling his own talents, convicts the wretched G.K.C. of [[Paradox|paradox]]!
-I like [[Paradox|paradox]], but I am not prepared to [[Dance|dance]] and dazzle to the
+veiling his own talents, convicts the wretched G.K.C. of [[concepts/paradox|paradox]]!
+I like [[concepts/paradox|paradox]], but I am not prepared to [[motifs/dance|dance]] and dazzle to the
 extent of Nunquam, who points to humanity crying out to a thing,
 and pointing to it from immemorial ages, as a proof that it
 cannot be there.
@@ -735,12 +735,12 @@ cannot be there.
 Questo testo è tratto da uno dei quattro saggi di Chesterton nella raccolta
 citata qui sotto.  Maisie Ward indica queste pagine come tra le sue
 migliori e, ironicamente, anche tra le sue più precoci.  Haw, George, a cura di.
-The Religious Doubts of [[democracy|Democracy]].  [[London|Londra]]:  MacMillan, 1904.
+The Religious Doubts of [[concepts/democracy|Democracy]].  [[settings/london|Londra]]:  MacMillan, 1904.
 
-[[Christianity]] e il Razionalismo
+[[historical-references/christianity|Christianity]] e il Razionalismo
 
 Il mio amico, il signor George Haw, mi ha chiesto di esporre, in uno o due articoli,
-la mia opinione generale in materia di [[Christianity|Cristianesimo]], da pubblicarsi
+la mia opinione generale in materia di [[historical-references/christianity|Cristianesimo]], da pubblicarsi
 nel Clarion.  Non fingerò alcuna particolare riluttanza a farlo;
 ma non dovrei accingermi all'impresa senza prima offrire al signor Blatchford
 la nostra gratitudine, e qualcosa che vale più della gratitudine,
@@ -753,16 +753,16 @@ La maggior parte delle terribili rivelazioni sul male e sull'ignoranza dei crist
 turba, temo, in modo tanto grave quanto dovrebbe.
 Quando sento dire che un professore tedesco ha scoperto la quattrocentesima
 esatta origine del protoplasma, mi sforzo invano di provare entusiasmo;
-quando leggo che i selvaggi si dipingono il volto di verde per compiacere i [[Ghosts|fantasmi]]
+quando leggo che i selvaggi si dipingono il volto di verde per compiacere i [[motifs/ghosts|fantasmi]]
 (o che so io), non provo nulla al di là di un vago piacere e di una vaga simpatia.
 Tanto il professore tedesco quanto il selvaggio dal volto verde mi paiono
 fare la stessa cosa: cioè cadere sotto l'influsso
 di quell'impulso siderale che spinge gli uomini a darsi un gran daffare
 per cose del tutto inutili.
 
-Ma simili cose non mutano granché la mia idea del [[Christianity|Cristianesimo]].
+Ma simili cose non mutano granché la mia idea del [[historical-references/christianity|Cristianesimo]].
 In tutta questa controversia ho sentito la forza di una cosa sola,
-che ha colpito davvero il [[Christianity|Cristianesimo]] pratico; la ritengo
+che ha colpito davvero il [[historical-references/christianity|Cristianesimo]] pratico; la ritengo
 una buona argomentazione; la ritengo un'argomentazione terribile.  Non sta
 nel fatto che questa controversia si conduca su un giornale non cristiano.
 È senza dubbio un punto legittimo segnato contro una religione il fatto che coloro
@@ -771,12 +771,12 @@ una frode.  Penso, dunque, che la magnanimità del signor Blatchford,
 come ogni magnanimità, sia profondamente filosofica e saggia.
 
 Né lo biasimo, come alcuni hanno fatto, per averne discusso
-a lungo; poiché il soggetto è la [[Nature|natura]] dell'Universo,
+a lungo; poiché il soggetto è la [[concepts/nature|natura]] dell'Universo,
 esso è necessariamente vasto quanto l'Universo, e ricco quanto l'Universo,
 e, aggiungerei, divertente quanto l'Universo.
 
-Anzi, immagino che debba esistere qualcosa come l'[[Immortality|Immortalità]],
-non fosse che perché il signor Blatchford e io abbiamo il [[Time|tempo]] di discutere se
+Anzi, immagino che debba esistere qualcosa come l'[[concepts/immortality|Immortalità]],
+non fosse che perché il signor Blatchford e io abbiamo il [[motifs/time|tempo]] di discutere se
 essa sia vera.
 
 Prima di tracciare un abbozzo della mia posizione, c'è un'altra cosa
@@ -785,23 +785,23 @@ Ho cominciato a rendermi conto che vi sono parecchie persone alle quali il mio
 modo di parlare di queste cose pare indizio che io
 sia frivolo o imperfettamente sincero.  Poiché, di fatto,
 in questa faccenda sono più sicuro di me stesso di quanto lo sia dell'esistenza
-della [[Moon|luna]], ciò naturalmente mi procura un notevole rammarico;
+della [[motifs/moon|luna]], ciò naturalmente mi procura un notevole rammarico;
 ma credo di scorgere la naturalezza dell'equivoco e come esso
 sia sorto in persone assai lontane dall'atmosfera cristiana.
-Il [[Christianity|Cristianesimo]] è di per sé cosa tanto gioiosa che riempie chi lo possiede
+Il [[historical-references/christianity|Cristianesimo]] è di per sé cosa tanto gioiosa che riempie chi lo possiede
 di una certa sciocca esuberanza, che i Razionalisti tristi e nobili
 d'animo potrebbero ragionevolmente scambiare per mera buffoneria e bestemmia;
 proprio come i loro prototipi, i tristi e nobili Stoici dell'antica Roma,
 scambiarono la gioia cristiana per buffoneria e bestemmia.
 
 Questa differenza vale ovunque: nella fredda architettura pagana
-e nei [[gargoyles|gargoyle]] ghignanti della Cristianità, nell'assurda screziatura
+e nei gargoyle ghignanti della Cristianità, nell'assurda screziatura
 del Medioevo e nell'abito smorto di questo secolo razionalista.
 E se il signor Blatchford desidera sapere perché dovremmo stupirci qualora
 il Duca di Devonshire andasse in giro con una gamba rossa e l'altra gialla
 (come un nobiluomo avrebbe potuto fare nel tredicesimo secolo), posso
-cortesemente informarlo che ciò è dovuto al [[Decay|declino]] della nostra [[Faith|fede]].
-In nessun luogo della [[history|storia]] vi è mai stata alcuna allegria
+cortesemente informarlo che ciò è dovuto al [[motifs/decay|declino]] della nostra [[concepts/faith|fede]].
+In nessun luogo della [[concepts/history|storia]] vi è mai stata alcuna allegria
 e gaiezza popolare senza religione.
 
 La prima fra tutte le difficoltà che incontro nel confutare
@@ -825,8 +825,8 @@ che i Patagoni sognino un Figlio di Dio?
 La posizione blatchfordiana si riduce in realtà a questo: che, poiché una
 certa cosa ha impresso in milioni di persone diverse l'idea che sia probabile
 o necessaria, essa perciò non può essere vera.  E poi questo essere schivo,
-velando i propri talenti, dichiara il malcapitato G.K.C. colpevole di [[Paradox|paradosso]]!
-A me il [[Paradox|paradosso]] piace, ma non sono disposto a [[Dance|danzare]] e ad abbagliare fino al
+velando i propri talenti, dichiara il malcapitato G.K.C. colpevole di [[concepts/paradox|paradosso]]!
+A me il [[concepts/paradox|paradosso]] piace, ma non sono disposto a [[motifs/dance|danzare]] e ad abbagliare fino al
 punto di Nunquam, il quale addita l'umanità che invoca a gran voce una cosa,
 e la indica da tempi immemorabili, come prova che essa
 non può esservi.
@@ -836,20 +836,20 @@ non può esservi.
 <span class="atom-split" data-atom="part--part_02" data-title="Christianity (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/love,motif/nature,motif/supernatural,motif/well,concept/history,concept/nature,concept/paradox,concept/romantic_love,form/history,histref/christianity,character/christ"></span>
 
 
-The story of a [[Christ]] is very common in legend and literature.
-So is the story of two [[lovers]] parted by Fate.
+The story of a [[characters/christ|Christ]] is very common in legend and literature.
+So is the story of two lovers parted by Fate.
 So is the story of two friends killing each other for a woman.
 But will it seriously be maintained that, because these two
 stories are common as legends, therefore not two friends were
-ever separated by [[Love|love]] or no two [[lovers]] by circumstances?
+ever separated by [[motifs/love|love]] or no two lovers by circumstances?
 It is tolerably plain, surely, that these two stories are common
 because the situation is an intensely probable and human one,
-because our [[Nature|nature]] is so built as to make them almost inevitable.
+because our [[concepts/nature|nature]] is so built as to make them almost inevitable.
 
-Why should it not be that our [[Nature|nature]] is so built as to make certain
+Why should it not be that our [[concepts/nature|nature]] is so built as to make certain
 spiritual events inevitable?  In any case, it is clearly ridiculous
-to attempt to disprove [[Christianity]] by the number and variety of
-Pagan Christs.  You might as [[Well|well]] take the number and variety of ideal
+to attempt to disprove [[historical-references/christianity|Christianity]] by the number and variety of
+Pagan Christs.  You might as [[motifs/well|well]] take the number and variety of ideal
 schemes of society, from Plato's Republic to Morris' News from Nowhere,
 from More's Utopia to Blatchford's Merrie England, and then try and prove
 from them that mankind cannot ever reach a better social condition.
@@ -862,9 +862,9 @@ I should reply:  "Speaking as an unlearned person, I don't know.
 But speaking as a Christian, I should be very much astonished
 if they hadn't."
 
-Take a second instance.  The Secularist says that [[Christianity]]
-has been a gloomy and [[ascetic]] thing, and points to the procession
-of austere or ferocious saints who have given up [[Home|home]] and happiness
+Take a second instance.  The Secularist says that [[historical-references/christianity|Christianity]]
+has been a gloomy and ascetic thing, and points to the procession
+of austere or ferocious saints who have given up [[motifs/home|home]] and happiness
 and macerated health and sex.  But it never seems to occur to him
 that the very oddity and completeness of the men's surrender
 make it look very much as if there were really something actual
@@ -884,12 +884,12 @@ and the homelessness of the man, and the stupefied degradation
 of the man proved that there was no such thing as brandy.
 
 That is precisely what the Secularist tries to say.  He tries
-to prove that there is no such think as [[Supernatural|supernatural]] experience
+to prove that there is no such think as [[motifs/supernatural|supernatural]] experience
 by pointing at the people who have given up everything for it.
 He tries to prove that there is no such thing by proving that there
 are people who live on nothing else.
 
-Again I may submissively ask:  "Whose is the [[Paradox|paradox]]?"
+Again I may submissively ask:  "Whose is the [[concepts/paradox|paradox]]?"
 The frantic severity of these men may, of course, show that they
 were eccentric people who loved unhappiness for its own sake.
 But is seems more in accordance with commonsense to suppose that they
@@ -897,15 +897,15 @@ had really found the secret of some actual power or experience
 which was, like wine, a terrible consolation and a lonely joy.
 
 Thus, then, in the second instance, when the learned sceptic says to me:
-"Christian saints gave up [[Love|love]] and liberty for this one rapture
-of [[Christianity]], I should have been surprised if they hadn't."
+"Christian saints gave up [[motifs/love|love]] and liberty for this one rapture
+of [[historical-references/christianity|Christianity]], I should have been surprised if they hadn't."
 
-Take a third instance.  The Secularist says that [[Christianity]] produced
+Take a third instance.  The Secularist says that [[historical-references/christianity|Christianity]] produced
 tumult and cruelty.  He seems to suppose that this proves it to be bad.
 But it might prove it to be very good.  For men commit crimes
 not only for bad things, far more often for good things.
 For no bad things can be desired quite so passionately and persistently
-as good things can be desired and only very exceptional men [[Desire|desire]]
+as good things can be desired and only very exceptional men [[motifs/desire|desire]]
 very bad and unnatural things.
 
 Most crime is committed because, owing to some peculiar complication,
@@ -916,8 +916,8 @@ Babies, the most beautiful things on earth, have been the excuse
 and origin of almost all the business of brutality and financial
 infamy on earth.
 
-If we could abolish monogamic or [[Romantic Love|romantic love]], again the country
-would be dotted with Maiden Assizes.  And if anywhere in [[history]]
+If we could abolish monogamic or [[concepts/romantic-love|romantic love]], again the country
+would be dotted with Maiden Assizes.  And if anywhere in [[concepts/history|history]]
 masses of common and kindly men become cruel it almost certainly
 does not mean that they are serving something in itself tyrannical
 (for why should they?). It almost certainly does mean that something
@@ -933,20 +933,20 @@ of cruel rush.
 
 <span class="qlang-split" data-lang="it"></span>
 
-La storia di un [[Christ|Cristo]] è assai comune nella leggenda e nella letteratura.
-Così è la storia di due [[lovers|amanti]] separati dal Fato.
+La storia di un [[characters/christ|Cristo]] è assai comune nella leggenda e nella letteratura.
+Così è la storia di due amanti separati dal Fato.
 Così è la storia di due amici che si uccidono l'un l'altro per una donna.
 Ma si vorrà sul serio sostenere che, poiché queste due
 storie sono comuni come leggende, perciò mai due amici furono
-separati dall'[[Love|amore]] né due [[lovers|amanti]] dalle circostanze?
+separati dall'[[motifs/love|amore]] né due amanti dalle circostanze?
 È abbastanza chiaro, di certo, che queste due storie sono comuni
 perché la situazione è intensamente probabile e umana,
-perché la nostra [[Nature|natura]] è congegnata in modo da renderle quasi inevitabili.
+perché la nostra [[concepts/nature|natura]] è congegnata in modo da renderle quasi inevitabili.
 
-Perché non dovrebbe darsi che la nostra [[Nature|natura]] sia congegnata in modo da rendere
+Perché non dovrebbe darsi che la nostra [[concepts/nature|natura]] sia congegnata in modo da rendere
 inevitabili certi eventi spirituali?  In ogni caso, è palesemente ridicolo
-tentare di confutare il [[Christianity|Cristianesimo]] con il numero e la varietà dei
-Cristi pagani.  Fareste altrettanto [[Well|bene]] a prendere il numero e la varietà dei disegni
+tentare di confutare il [[historical-references/christianity|Cristianesimo]] con il numero e la varietà dei
+Cristi pagani.  Fareste altrettanto [[motifs/well|bene]] a prendere il numero e la varietà dei disegni
 ideali di società, dalla Repubblica di Platone a News from Nowhere di Morris,
 dall'Utopia di More alla Merrie England di Blatchford, e poi cercare di provare
 da essi che l'umanità non potrà mai raggiungere una condizione sociale migliore.
@@ -959,9 +959,9 @@ dovrei rispondere:  «Parlando da ignorante, non lo so.
 Ma parlando da cristiano, sarei molto stupito
 se non ce l'avessero».
 
-Prendiamo un secondo caso.  Il Secolarista dice che il [[Christianity|Cristianesimo]]
-è stato una cosa cupa e [[ascetic|ascetica]], e addita la processione
-di santi austeri o feroci che hanno rinunciato alla [[Home|casa]] e alla felicità
+Prendiamo un secondo caso.  Il Secolarista dice che il [[historical-references/christianity|Cristianesimo]]
+è stato una cosa cupa e ascetica, e addita la processione
+di santi austeri o feroci che hanno rinunciato alla [[motifs/home|casa]] e alla felicità
 e hanno macerato salute e sesso.  Ma non gli viene mai in mente
 che la stranezza stessa e la completezza della resa di quegli uomini
 fanno assai pensare che vi fosse davvero qualcosa di reale
@@ -981,12 +981,12 @@ e la sua mancanza di tetto, e la sua istupidita degradazione
 provano che l'acquavite non esiste.
 
 È esattamente ciò che il Secolarista cerca di dire.  Egli cerca
-di provare che non esiste alcuna esperienza [[Supernatural|soprannaturale]]
+di provare che non esiste alcuna esperienza [[motifs/supernatural|soprannaturale]]
 additando le persone che per essa hanno rinunciato a tutto.
 Cerca di provare che una tale cosa non esiste provando che vi
 sono persone che non vivono d'altro.
 
-Di nuovo posso chiedere sommessamente:  «Di chi è il [[Paradox|paradosso]]?».
+Di nuovo posso chiedere sommessamente:  «Di chi è il [[concepts/paradox|paradosso]]?».
 La frenetica severità di questi uomini può, certo, mostrare che essi
 erano gente eccentrica che amava l'infelicità in sé.
 Ma pare più conforme al buon senso supporre che essi
@@ -994,15 +994,15 @@ avessero davvero trovato il segreto di qualche reale potere o esperienza
 che era, come il vino, una terribile consolazione e una gioia solitaria.
 
 Così, dunque, nel secondo caso, quando il dotto scettico mi dice:
-«I santi cristiani rinunciarono all'[[Love|amore]] e alla libertà per questo unico rapimento
-del [[Christianity|Cristianesimo]]», mi sarei stupito se non l'avessero fatto.
+«I santi cristiani rinunciarono all'[[motifs/love|amore]] e alla libertà per questo unico rapimento
+del [[historical-references/christianity|Cristianesimo]]», mi sarei stupito se non l'avessero fatto.
 
-Prendiamo un terzo caso.  Il Secolarista dice che il [[Christianity|Cristianesimo]] ha prodotto
+Prendiamo un terzo caso.  Il Secolarista dice che il [[historical-references/christianity|Cristianesimo]] ha prodotto
 tumulto e crudeltà.  Pare supporre che ciò provi che esso è cattivo.
 Ma potrebbe provare che è ottimo.  Poiché gli uomini commettono delitti
 non solo per cose cattive, ma assai più spesso per cose buone.
 Giacché nessuna cosa cattiva può essere desiderata con tanta passione e costanza
-quanto possono esserlo le cose buone, e solo uomini del tutto eccezionali [[Desire|desiderano]]
+quanto possono esserlo le cose buone, e solo uomini del tutto eccezionali [[motifs/desire|desiderano]]
 cose molto cattive e innaturali.
 
 La maggior parte dei delitti si commette perché, a causa di qualche singolare
@@ -1013,8 +1013,8 @@ I bambini, le cose più belle della terra, sono stati il pretesto
 e l'origine di quasi tutto il traffico di brutalità e di infamia
 finanziaria che esista al mondo.
 
-Se potessimo abolire l'[[Romantic Love|amore romantico]] o monogamico, di nuovo il paese
-sarebbe costellato di Assise senza imputati.  E se in qualche luogo della [[history|storia]]
+Se potessimo abolire l'[[concepts/romantic-love|amore romantico]] o monogamico, di nuovo il paese
+sarebbe costellato di Assise senza imputati.  E se in qualche luogo della [[concepts/history|storia]]
 masse di uomini comuni e bonari diventano crudeli, ciò quasi certamente
 non significa che stiano servendo qualcosa di tirannico in sé
 (perché mai dovrebbero?).  Significa quasi certamente che qualcosa
@@ -1034,7 +1034,7 @@ di corsa crudele.
 
 We need not go far for instances quite apart from the instances
 of religion.  When the modern doctrines of brotherhood and liberty
-were preached in France in the eighteenth century the [[Time|time]] was
+were preached in France in the eighteenth century the [[motifs/time|time]] was
 ripe for them, the educated classes everywhere had been growing
 towards them, the world to a very considerable extend welcomed them.
 And yet all that preparation and openness were unable to prevent
@@ -1042,24 +1042,24 @@ the burst of anger and agony which greets anything good.
 And if the slow and polite preaching of rational fraternity in a rational
 age ended in the massacres of September, what an a fortiori is here!
 What would be likely to be the effect of the sudden dropping
-into a dreadfully evil century of a dreadfully perfect [[Truth|truth]]?
+into a dreadfully evil century of a dreadfully perfect [[concepts/truth|truth]]?
 What would happen if a world baser than the world of Sade were
 confronted with a gospel purer than the gospel of Rousseau?
 
 The mere flinging of the polished pebble of Republican Indealism into
 the artificial lake of eighteenth century Europe produced a splash
-that seemed to splash the heavens, and a [[Storm|storm]] that drowned ten
+that seemed to splash the heavens, and a [[motifs/storm|storm]] that drowned ten
 thousand men.  What would happen if a star from heaven really fell
 into the slimy and bloody pool of a hopless and decaying humanity?
-Men swept a [[City|city]] with the guillotine, a continent with the sabre,
+Men swept a [[motifs/city|city]] with the guillotine, a continent with the sabre,
 because Liberty, Equality, and Fraternity were too precious to be lost.
-How if [[Christianity]] was yet more maddening because it was
+How if [[historical-references/christianity|Christianity]] was yet more maddening because it was
 yet more precious?
 
-But why should we labour the point when One who knew human [[Nature|nature]] as it
+But why should we labour the point when One who knew human [[concepts/nature|nature]] as it
 can really be learnt, from fishermen and women and natural people,
-saw from his quiet village the track of this [[Truth|truth]] across [[history]],
-and, in saying that He came to bring not peace but a [[Sword|sword]], set up
+saw from his quiet village the track of this [[concepts/truth|truth]] across [[concepts/history|history]],
+and, in saying that He came to bring not peace but a sword, set up
 eternally His colossal realism against the eternal sentimentality
 of the Secularist?
 
@@ -1081,16 +1081,16 @@ are some other and higher beings than ourselves, and if they
 in some strange ways, at some emotional crisis, really revealed
 themselves to rude poets or dreamers in very simple times,
 that the rude people should regard the revelation as local,
-and connect it with the particular [[Hill|hill]] or [[River|river]] where it happened,
+and connect it with the particular [[motifs/hill|hill]] or [[motifs/river|river]] where it happened,
 seems to me exactly what any reasonable human being would expect.
-It has a far more credible look than if they had talked cosmic [[philosophy]]
+It has a far more credible look than if they had talked cosmic philosophy
 from the beginning.  If they had, I should have suspected "priestcraft"
 and forgeries and third-century Gnosticism
 
-If there be such a being as God, and He can speak to a [[Child|child]],
-and if God spoke to a [[Child|child]] in the [[Garden|garden]] the [[Child|child]] would, of course,
-say that God lived in the [[Garden|garden]].  I should not think it any less
-likely to be true for that.  If the [[Child|child]] said:  "God is everywhere:
+If there be such a being as God, and He can speak to a [[archetypes/child|child]],
+and if God spoke to a [[archetypes/child|child]] in the [[motifs/garden|garden]] the [[archetypes/child|child]] would, of course,
+say that God lived in the [[motifs/garden|garden]].  I should not think it any less
+likely to be true for that.  If the [[archetypes/child|child]] said:  "God is everywhere:
 an impalpable essence pervading and supporting all constituents
 of the Cosmos alike"--if, I say, the infant addressed me in the
 above terms, I should think he was mouch more likely to have been
@@ -1103,16 +1103,16 @@ For whatever be the Divine Secret, and whether or no it has
 (as all people have believed) sometimes broken bounds and surged
 into our work, at least it lies on the side furthest away from pedants
 and their definitions, and nearest to the silver souls of quiet people,
-to the [[Beauty|beauty]] of bushes, and the [[Love|love]] of one's native place.
+to the [[concepts/beauty|beauty]] of bushes, and the [[motifs/love|love]] of one's native place.
 
 Thus, then in our last instance (out of hundreds that might be taken),
 we conclude in the same way.  When the learned sceptic says:
-"The visions of the Old Testament were local, and rustic, and [[Grotesque|grotesque]],"
+"The visions of the Old Testament were local, and rustic, and [[concepts/grotesque|grotesque]],"
 we shall answer:  "Of course.  They were genuine."
 
 Thus, as I said at the beginning, I find myself, to start with,
 face to face with the difficulty that to mention the reasons that I
-have for believing in [[Christianity]] is, in very many cases, to repeat
+have for believing in [[historical-references/christianity|Christianity]] is, in very many cases, to repeat
 those arguments which Mr. Blatchford, in some strange way, seems to
 regard as arguments against it.  His book is really rich and powerful.
 He has undoubtedly set up these four great guns of which I have spoken.
@@ -1120,11 +1120,11 @@ I have nothing to say against the size and ammunition of the guns.
 I only say that by some accident of arrangement he has set up those four
 pieces of artillery with the tails pointing at me and the mouths
 pointing at himself.  If I were not so humane, I should say:
-"Gentlemen of the Secularist Guard, [[Fire|fire]] first."
+"Gentlemen of the Secularist Guard, [[motifs/fire|fire]] first."
 
 But there is more to be said.  Mr. Blatchford, for some reason or other
 (possibly want of space), has neglected to urge all the arguments
-for [[Christianity]].  And, oddly enough, the two or three arguments
+for [[historical-references/christianity|Christianity]].  And, oddly enough, the two or three arguments
 he has omitted to state are the really vital and essential ones.
 Without them, even the excellent four facts which he and I have
 respectively explained may apprear superficially unitelligible.
@@ -1134,7 +1134,7 @@ respectively explained may apprear superficially unitelligible.
 
 Non occorre andar lontano per trovare esempi del tutto estranei a quelli
 della religione.  Quando le moderne dottrine di fratellanza e libertà
-furono predicate in Francia nel diciottesimo secolo, i [[Time|tempi]] erano
+furono predicate in Francia nel diciottesimo secolo, i [[motifs/time|tempi]] erano
 maturi per esse, le classi colte ovunque erano andate maturando
 verso di esse, il mondo in misura assai considerevole le accolse.
 Eppure tutta quella preparazione e quell'apertura non valsero a impedire
@@ -1142,24 +1142,24 @@ lo scoppio d'ira e d'angoscia che accoglie ogni cosa buona.
 E se la lenta e cortese predicazione della fraternità razionale in un'epoca
 razionale finì nei massacri di settembre, che a fortiori è mai questo!
 Quale sarebbe verosimilmente l'effetto della caduta improvvisa
-in un secolo spaventosamente malvagio di una [[Truth|verità]] spaventosamente perfetta?
+in un secolo spaventosamente malvagio di una [[concepts/truth|verità]] spaventosamente perfetta?
 Che cosa accadrebbe se un mondo più abietto del mondo di Sade fosse
 posto di fronte a un vangelo più puro del vangelo di Rousseau?
 
 Il solo gettare il levigato ciottolo dell'Idealismo repubblicano nel
 lago artificiale dell'Europa del diciottesimo secolo produsse uno spruzzo
-che parve schizzare i cieli, e una [[Storm|tempesta]] che annegò diecimila
+che parve schizzare i cieli, e una [[motifs/storm|tempesta]] che annegò diecimila
 uomini.  Che cosa accadrebbe se una stella dal cielo cadesse davvero
 nella pozza melmosa e sanguinosa di un'umanità disperata e decadente?
-Gli uomini spazzarono una [[City|città]] con la ghigliottina, un continente con la sciabola,
+Gli uomini spazzarono una [[motifs/city|città]] con la ghigliottina, un continente con la sciabola,
 perché Libertà, Uguaglianza e Fraternità erano troppo preziose per essere perdute.
-E se il [[Christianity|Cristianesimo]] fosse ancora più esaltante perché era
+E se il [[historical-references/christianity|Cristianesimo]] fosse ancora più esaltante perché era
 ancora più prezioso?
 
-Ma perché insistere sul punto, quando Colui che conobbe la [[Nature|natura]] umana come
+Ma perché insistere sul punto, quando Colui che conobbe la [[concepts/nature|natura]] umana come
 essa si può davvero apprendere, da pescatori e donne e gente semplice,
-scorse dal suo quieto villaggio la traccia di questa [[Truth|verità]] attraverso la [[history|storia]],
-e, dicendo di esser venuto a portare non la pace ma una [[Sword|spada]], eresse
+scorse dal suo quieto villaggio la traccia di questa [[concepts/truth|verità]] attraverso la [[concepts/history|storia]],
+e, dicendo di esser venuto a portare non la pace ma una spada, eresse
 in eterno il suo colossale realismo contro l'eterno sentimentalismo
 del Secolarista?
 
@@ -1181,16 +1181,16 @@ esistono altri esseri più alti di noi, e se essi,
 in qualche strano modo, in qualche crisi emotiva, davvero si rivelarono
 a rozzi poeti o sognatori in tempi assai semplici,
 che quella gente rozza consideri la rivelazione come locale,
-e la colleghi al particolare [[Hill|colle]] o [[River|fiume]] dove essa avvenne,
+e la colleghi al particolare [[motifs/hill|colle]] o [[motifs/river|fiume]] dove essa avvenne,
 mi pare esattamente ciò che ogni essere umano ragionevole si aspetterebbe.
-Ha un'aria assai più credibile che se avessero discettato di [[philosophy|filosofia]] cosmica
+Ha un'aria assai più credibile che se avessero discettato di filosofia cosmica
 fin dal principio.  Se l'avessero fatto, avrei sospettato «arte sacerdotale»
 e falsificazioni e gnosticismo di terzo secolo.
 
-Se esiste un essere come Dio, ed Egli può parlare a un [[Child|bambino]],
-e se Dio parlò a un [[Child|bambino]] nel [[Garden|giardino]], il [[Child|bambino]] direbbe, ovviamente,
-che Dio abitava nel [[Garden|giardino]].  Non per questo la riterrei meno
-probabilmente vera.  Se il [[Child|bambino]] dicesse:  «Dio è dappertutto:
+Se esiste un essere come Dio, ed Egli può parlare a un [[archetypes/child|bambino]],
+e se Dio parlò a un [[archetypes/child|bambino]] nel [[motifs/garden|giardino]], il [[archetypes/child|bambino]] direbbe, ovviamente,
+che Dio abitava nel [[motifs/garden|giardino]].  Non per questo la riterrei meno
+probabilmente vera.  Se il [[archetypes/child|bambino]] dicesse:  «Dio è dappertutto:
 un'essenza impalpabile che pervade e sostiene allo stesso modo tutti i costituenti
 del Cosmo» — se, dico, il fanciullo mi si rivolgesse nei
 termini suddetti, penserei che assai più probabilmente sia stato
@@ -1203,16 +1203,16 @@ Poiché, quale che sia il Segreto Divino, e che esso abbia o no
 (come tutti gli uomini hanno creduto) talvolta rotto gli argini e fatto irruzione
 nella nostra opera, esso giace almeno dalla parte più lontana dai pedanti
 e dalle loro definizioni, e più vicina alle anime d'argento della gente tranquilla,
-alla [[Beauty|bellezza]] dei cespugli, e all'[[Love|amore]] per il proprio luogo natale.
+alla [[concepts/beauty|bellezza]] dei cespugli, e all'[[motifs/love|amore]] per il proprio luogo natale.
 
 Così, dunque, nel nostro ultimo caso (fra le centinaia che si potrebbero prendere),
 concludiamo allo stesso modo.  Quando il dotto scettico dice:
-«Le visioni dell'Antico Testamento erano locali, e rustiche, e [[Grotesque|grottesche]]»,
+«Le visioni dell'Antico Testamento erano locali, e rustiche, e [[concepts/grotesque|grottesche]]»,
 risponderemo:  «Naturalmente.  Erano autentiche».
 
 Così, come ho detto all'inizio, mi trovo, per cominciare,
 faccia a faccia con la difficoltà che menzionare le ragioni che io
-ho per credere nel [[Christianity|Cristianesimo]] è, in moltissimi casi, ripetere
+ho per credere nel [[historical-references/christianity|Cristianesimo]] è, in moltissimi casi, ripetere
 quegli argomenti che il signor Blatchford, in qualche strano modo, pare
 considerare argomenti contro di esso.  Il suo libro è davvero ricco e potente.
 Egli ha indubbiamente piazzato questi quattro grossi cannoni di cui ho parlato.
@@ -1220,11 +1220,11 @@ Non ho nulla da dire contro la mole e le munizioni dei cannoni.
 Dico soltanto che, per qualche accidente di disposizione, ha piazzato quei quattro
 pezzi d'artiglieria con le culatte puntate verso di me e le bocche
 puntate verso di sé.  Se non fossi tanto umano, direi:
-«Signori della Guardia Secolarista, [[Fire|fate fuoco]] per primi».
+«Signori della Guardia Secolarista, [[motifs/fire|fate fuoco]] per primi».
 
 Ma c'è dell'altro da dire.  Il signor Blatchford, per una ragione o per l'altra
 (forse per mancanza di spazio), ha trascurato di addurre tutti gli argomenti
-a favore del [[Christianity|Cristianesimo]].  E, cosa curiosa, i due o tre argomenti
+a favore del [[historical-references/christianity|Cristianesimo]].  E, cosa curiosa, i due o tre argomenti
 che ha omesso di esporre sono quelli davvero vitali ed essenziali.
 Senza di essi, perfino gli eccellenti quattro fatti che egli e io abbiamo
 rispettivamente spiegato possono apparire superficialmente inintelligibili.
@@ -1235,32 +1235,32 @@ rispettivamente spiegato possono apparire superficialmente inintelligibili.
 
 
 Why will many of you not accept my four explanations?  Obviously, in mere
-[[logic]], they are as logical as Mr. Blatchford's. It is as reasonable,
-in the abstract, that a [[Truth|truth]] should be distorted as that a lie
+logic, they are as logical as Mr. Blatchford's. It is as reasonable,
+in the abstract, that a [[concepts/truth|truth]] should be distorted as that a lie
 should be distorted; it is as reasonable, in the abstract, that men
 should starve and sin for a real benefit as for an unreal one.
 You will not believe it because you are armed to the teeth,
 and buttoned up to the chin with the great Agnostic Orthodoxy,
 perhaps the most placid and perfect of all the orthodoxies of mean.
-You could sooner believe that Socrates was a [[government|Government]] spy than
+You could sooner believe that Socrates was a Government spy than
 believe that he heard a voice from his God.  You could more easily
-think that [[Christ]] murdered His mother, than that He had a psychic
+think that [[characters/christ|Christ]] murdered His mother, than that He had a psychic
 energy of which we know nothing.  I approach you with the reverence
-and the [[Courage|courage]] due to a bench of bishops.
+and the [[concepts/courage|courage]] due to a bench of bishops.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Perché molti di voi non vorranno accettare le mie quattro spiegazioni?  Ovviamente, in pura
-[[logic|logica]], esse sono logiche quanto quelle del signor Blatchford.  È altrettanto ragionevole,
-in astratto, che una [[Truth|verità]] venga distorta quanto che venga distorta una menzogna;
+logica, esse sono logiche quanto quelle del signor Blatchford.  È altrettanto ragionevole,
+in astratto, che una [[concepts/truth|verità]] venga distorta quanto che venga distorta una menzogna;
 è altrettanto ragionevole, in astratto, che gli uomini
 patiscano la fame e pecchino per un beneficio reale quanto per uno irreale.
 Non lo crederete perché siete armati fino ai denti,
 e abbottonati fino al mento con la grande Ortodossia Agnostica,
 forse la più placida e perfetta di tutte le ortodossie degli uomini.
-Riuscireste a credere più facilmente che Socrate fosse una spia del [[government|Governo]] che a
+Riuscireste a credere più facilmente che Socrate fosse una spia del Governo che a
 credere ch'egli udì una voce dal suo Dio.  Riuscireste più facilmente a
-pensare che [[Christ|Cristo]] abbia assassinato la propria madre, che non ch'Egli possedesse un'energia psichica
+pensare che [[characters/christ|Cristo]] abbia assassinato la propria madre, che non ch'Egli possedesse un'energia psichica
 di cui nulla sappiamo.  Mi accosto a voi con la reverenza
-e il [[Courage|coraggio]] dovuti a un consesso di vescovi.
+e il [[concepts/courage|coraggio]] dovuti a un consesso di vescovi.

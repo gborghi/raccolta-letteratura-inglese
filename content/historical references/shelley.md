@@ -14,4 +14,10 @@ The Romantic poet whom Chesterton's essay 'The Voice of Shelley' characterizes a
 
 <div class="concept-works" data-slug="historical-references/shelley"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/wild-ducks-(chesterton)|Wild Ducks (Chesterton)]]
+
+</div>
+
 #graph/histref

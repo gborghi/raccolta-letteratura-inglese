@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/captain-benwick"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/persuasion-(austen)|Persuasion (Austen)]]
+
+</div>
+
 #graph/character

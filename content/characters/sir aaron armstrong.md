@@ -14,4 +14,10 @@ The relentlessly cheerful teetotal philanthropist found murdered in 'The Three T
 
 <div class="concept-works" data-slug="characters/sir-aaron-armstrong"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/innocence-(chesterton)|innocence (Chesterton)]]
+
+</div>
+
 #graph/character

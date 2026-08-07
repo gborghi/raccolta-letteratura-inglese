@@ -14,4 +14,10 @@ The self-experimenting doctor and his monstrous double from Stevenson's novella,
 
 <div class="concept-works" data-slug="characters/jekyll-and-hyde"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/robert-louis-stevenson-(chesterton)|Robert Louis Stevenson (Chesterton)]]
+
+</div>
+
 #graph/character

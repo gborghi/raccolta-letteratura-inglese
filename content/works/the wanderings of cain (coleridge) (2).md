@@ -17,19 +17,19 @@ tags:
   - form/fragment
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Bible · Sin and the Fall · Fall from Innocence]]
+*by Coleridge*  ·  **Cluster:** [[clusters/bible-·-sin-and-the-fall-·-fall-from-innocence|Bible · Sin and the Fall · Fall from Innocence]]
 
 > [!abstract] 
 > Canto II of the prose-poem in which Cain, led by his innocent child Enos through a dark forest, cries out under relentless divine persecution and longs for death; themes of guilt, sin and the fall, and the outcast wanderer.
 
 ## Connections
 
-**Archetypes:** [[Outsider]], [[Child]]
-**Motifs:** [[Night]]
-**Themes & Concepts:** [[Guilt]], [[Sin and the Fall]]
-**Forms & Genres:** [[Fragment]]
-**Historical References:** [[Bible]]
-**Characters:** [[Cain]]
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/child|Child]]
+**Motifs:** [[motifs/night|Night]]
+**Themes & Concepts:** [[concepts/guilt|Guilt]], [[concepts/sin-and-the-fall|Sin and the Fall]]
+**Forms & Genres:** [[forms/fragment|Fragment]]
+**Historical References:** [[historical-references/bible|Bible]]
+**Characters:** [[characters/cain|Cain]]
 
 ## Testo integrale / Full text
 

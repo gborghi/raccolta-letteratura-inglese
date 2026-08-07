@@ -14,4 +14,11 @@ Author of 'Alice in Wonderland,' analyzed at length as the divided don-and-dream
 
 <div class="concept-works" data-slug="characters/lewis-carroll"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-defendant-(chesterton)|The Defendant (Chesterton)]]
+- [[works/two-kinds-of-paradox-(chesterton)|Two Kinds of Paradox (Chesterton)]]
+
+</div>
+
 #graph/character

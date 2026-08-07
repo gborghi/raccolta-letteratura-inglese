@@ -14,4 +14,10 @@ The dreamy, fey young woman who believes she has met a fairy wizard in the twili
 
 <div class="concept-works" data-slug="characters/patricia-carleon"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/magic-(chesterton)|Magic (Chesterton)]]
+
+</div>
+
 #graph/character

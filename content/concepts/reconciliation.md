@@ -12,4 +12,14 @@ tags:
 
 <div class="concept-works" data-slug="concepts/reconciliation"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lordkitchener-(chesterton)|LordKitchener (Chesterton)]]
+- [[works/on-america-(chesterton)|On America (Chesterton)]]
+- [[works/aquinas-(chesterton)|aquinas (Chesterton)]]
+- [[works/ball-and-cross-(chesterton)|ball and cross (Chesterton)]]
+- [[testi/whitman/atomized/stars-night-military-camp#175_reconciliation|Reconciliation (Whitman)]]
+
+</div>
+
 #graph/concept

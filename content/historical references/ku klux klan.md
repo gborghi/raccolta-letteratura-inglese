@@ -14,4 +14,10 @@ Chesterton contrasts the old, targeted Klan with the new 'formless' Klan to illu
 
 <div class="concept-works" data-slug="historical-references/ku-klux-klan"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/american-morals-(chesterton)|american-morals (Chesterton)]]
+
+</div>
+
 #graph/histref

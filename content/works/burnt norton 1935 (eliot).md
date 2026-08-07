@@ -21,18 +21,18 @@ tags:
   - form/free_verse
 ---
 
-*by Eliot*  ·  **Cluster:** [[Flowers · Spring · Garden]]
+*by Eliot*  ·  **Cluster:** [[clusters/flowers-·-spring-·-garden|Flowers · Spring · Garden]]
 
 > [!abstract] 
 > First Quartet: time present/past/future, the rose-garden, the still point of the turning world, drained pool and light; memory, time, faith, the quest.
 
 ## Connections
 
-**Topoi:** [[Quest]]
-**Motifs:** [[Time]], [[Rose]], [[Garden]], [[Birds]], [[Dust]], [[Autumn]]
-**Themes & Concepts:** [[Memory and Time]], [[Faith]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Free Verse]]
-**Settings:** [[Garden (2)]]
+**Topoi:** [[topoi/quest|Quest]]
+**Motifs:** [[motifs/time|Time]], [[motifs/rose|Rose]], [[motifs/garden|Garden]], [[motifs/birds|Birds]], [[motifs/dust|Dust]], [[motifs/autumn|Autumn]]
+**Themes & Concepts:** [[concepts/memory-and-time|Memory and Time]], [[concepts/faith|Faith]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
+**Forms & Genres:** [[forms/free-verse|Free Verse]]
+**Settings:** [[settings/garden-(2)|Garden (2)]]
 
 ## Testo integrale / Full text
 

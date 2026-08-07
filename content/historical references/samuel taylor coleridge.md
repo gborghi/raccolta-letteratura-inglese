@@ -14,4 +14,10 @@ The Romantic poet and opium-taking metaphysician given an entire chapter ("About
 
 <div class="concept-works" data-slug="historical-references/samuel-taylor-coleridge"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/as-i-was-saying-(chesterton)|As I Was Saying (Chesterton)]]
+
+</div>
+
 #graph/histref

@@ -14,4 +14,10 @@ Cited for forcing Anselm into a mitre rather than under the axe, illustrating th
 
 <div class="concept-works" data-slug="historical-references/william-rufus"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/mormonism-(chesterton)|Mormonism (Chesterton)]]
+
+</div>
+
 #graph/histref

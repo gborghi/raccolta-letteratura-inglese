@@ -33,7 +33,7 @@ tags:
   - archetype/fanatic
   - topos/journey_of_life
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Historical Novel · War and its Cost · Honour and Chivalry]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/historical-novel-·-war-and-its-cost-·-honour-and-chivalry|Historical Novel · War and its Cost · Honour and Chivalry]]
 
 > [!abstract] 
 > A historical adventure set during the 1685 Monmouth Rebellion, narrated as an old man's memoir to his grandchildren. Micah Clarke, son of a fervent ex-Cromwellian soldier, joins the Protestant rebel army against the Catholic King James, growing from a naive youth into a disillusioned adult who comes to prize religious toleration over zealotry.
@@ -80,11 +80,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Historical Novel]], [[Bildungsroman]], [[Fictional Autobiography]]
-**Themes & Concepts:** [[Religious Sectarianism]], [[Fanaticism]], [[Tolerance]], [[Maturation and Growth]], [[Justice Right and Wrong]], [[Empire and Imperialism]], [[History]]
-**Motifs:** [[Journey]], [[Prayer]], [[Swords and Weapons]], [[House Mansion]]
-**Historical References:** [[English Civil War]], [[Puritanism]], [[Oliver Cromwell]], [[Reformation]]
-**Settings:** [[Rural England]], [[Battlefield]]
-**Characters:** [[Oliver Cromwell]]
-**Archetypes:** [[Quest Hero]], [[Mentor]], [[Fanatic]]
-**Topoi:** [[Journey of Life]]
+**Forms & Genres:** [[forms/historical-novel|Historical Novel]], [[forms/bildungsroman|Bildungsroman]], [[forms/fictional-autobiography|Fictional Autobiography]]
+**Themes & Concepts:** [[concepts/religious-sectarianism|Religious Sectarianism]], [[concepts/fanaticism|Fanaticism]], [[concepts/tolerance|Tolerance]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/history|History]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/prayer|Prayer]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/house-mansion|House Mansion]]
+**Historical References:** [[historical-references/english-civil-war|English Civil War]], [[historical-references/puritanism|Puritanism]], [[historical-references/oliver-cromwell|Oliver Cromwell]], [[historical-references/reformation|Reformation]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/battlefield|Battlefield]]
+**Characters:** [[historical-references/oliver-cromwell|Oliver Cromwell]]
+**Archetypes:** [[archetypes/quest-hero|Quest Hero]], [[archetypes/mentor|Mentor]], [[archetypes/fanatic|Fanatic]]
+**Topoi:** [[topoi/journey-of-life|Journey of Life]]

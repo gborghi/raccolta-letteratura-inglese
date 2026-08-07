@@ -14,4 +14,10 @@ The Victorian art critic and social prophet whom Chesterton's essay 'Ruskin: the
 
 <div class="concept-works" data-slug="historical-references/ruskin"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/wild-ducks-(chesterton)|Wild Ducks (Chesterton)]]
+
+</div>
+
 #graph/histref

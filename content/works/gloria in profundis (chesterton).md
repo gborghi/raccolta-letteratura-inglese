@@ -28,7 +28,7 @@ tags:
   - histref/bible
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
+*by Chesterton*  ·  **Cluster:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > A lyric on the Nativity reimagined as a divine descent: God 'falls' deeper than the fallen angels into the cave of Bethlehem. Themes of Incarnation, paradox, and humility through cosmic inversion.
@@ -39,14 +39,14 @@ tags:
 
 ## Connections
 
-**Settings:** [[Underworld Cave]]
+**Settings:** [[settings/underworld-cave|Underworld Cave]]
 
-**Topoi:** [[World Upside Down]], [[Paradise Lost]], [[Katabasis Descent]]
-**Motifs:** [[Stars]], [[Grave]], [[Cave]]
-**Themes & Concepts:** [[Divine Love]], [[Paradox]], [[Humility]], [[Grace and Redemption]], [[Sin and the Fall]], [[Eternity]], [[Incarnation]]
-**Forms & Genres:** [[Hymn]]
-**Historical References:** [[Christianity]], [[Bible]]
-**Characters:** [[Christ]], [[Satan]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/paradise-lost|Paradise Lost]], [[topoi/katabasis-descent|Katabasis Descent]]
+**Motifs:** [[motifs/stars|Stars]], [[motifs/grave|Grave]], [[motifs/cave|Cave]]
+**Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/paradox|Paradox]], [[concepts/humility|Humility]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/eternity|Eternity]], [[concepts/incarnation|Incarnation]]
+**Forms & Genres:** [[forms/hymn|Hymn]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
+**Characters:** [[characters/christ|Christ]], [[characters/satan|Satan]]
 
 ## Testo integrale / Full text
 

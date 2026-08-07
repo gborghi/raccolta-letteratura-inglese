@@ -30,7 +30,7 @@ tags:
   - histref/holbrook_jackson
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > A 1911 essay distinguishing fruitful, life-giving paradox (Lear, Carroll) from barren, thought-killing epigram (Shaw, Nietzsche imitators); a meditation on nonsense, art and truth.
@@ -46,11 +46,11 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Lewis Carroll]], [[Edward Lear]], [[Bernard Shaw]], [[Oscar Wilde]], [[Friedrich Nietzsche]], [[Holbrook Jackson]]
+**Historical References:** [[historical-references/lewis-carroll|Lewis Carroll]], [[historical-references/edward-lear|Edward Lear]], [[historical-references/bernard-shaw|Bernard Shaw]], [[historical-references/oscar-wilde|Oscar Wilde]], [[historical-references/friedrich-nietzsche|Friedrich Nietzsche]], [[historical-references/holbrook-jackson|Holbrook Jackson]]
 
-**Topoi:** [[World Upside Down]]
-**Themes & Concepts:** [[Paradox]], [[Imagination]], [[Truth]], [[Artist and Society]], [[Satire of Society]], [[Power of Language]], [[Creative Sterility]], [[Nonsense]], [[History]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Aphorism]], [[Epigram]], [[Nonfiction]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/imagination|Imagination]], [[concepts/truth|Truth]], [[concepts/artist-and-society|Artist and Society]], [[concepts/satire-of-society|Satire of Society]], [[concepts/power-of-language|Power of Language]], [[concepts/creative-sterility|Creative Sterility]], [[concepts/nonsense|Nonsense]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/aphorism|Aphorism]], [[forms/epigram|Epigram]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

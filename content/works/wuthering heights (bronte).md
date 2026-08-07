@@ -44,7 +44,7 @@ tags:
   - character/cathy_linton
 ---
 
-*by Bronte*  ·  **Cluster:** [[Ghosts · Ghost · Death and Love]]
+*by Bronte*  ·  **Cluster:** [[clusters/ghosts-·-ghost-·-death-and-love|Ghosts · Ghost · Death and Love]]
 
 > [!abstract] 
 > Emily Bronte's frame-narrated Gothic novel of the destructive passion between Catherine Earnshaw and the outcast Heathcliff on the Yorkshire moors. Central themes are obsessive love, revenge, social outsiderhood, the supernatural and the bond between the living and the dead.
@@ -63,12 +63,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Outsider]], [[Avenger]], [[Satanic Figure]], [[Ghost]]
-**Motifs:** [[Ghosts]], [[Supernatural]], [[Storm]], [[Nature]], [[Grave]], [[Death]], [[Dreams]], [[Window]]
-**Themes & Concepts:** [[Romantic Love]], [[Revenge]], [[Grief and Loss]], [[Alienation]], [[Class Conflict]], [[Nature vs Civilization]], [[Lust Sexual Desire]], [[Good vs Evil]], [[Mortality]], [[Economics]]
-**Forms & Genres:** [[Novel]], [[Gothic Novel]]
-**Settings:** [[Rural England]]
-**Characters:** [[Heathcliff]], [[Catherine Earnshaw]], [[Edgar Linton]], [[Nelly Dean]], [[Mr Lockwood]], [[Hindley Earnshaw]], [[Isabella Linton]], [[Hareton Earnshaw]], [[Linton Heathcliff]], [[Cathy Linton]]
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/avenger|Avenger]], [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/ghost|Ghost]]
+**Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[motifs/storm|Storm]], [[concepts/nature|Nature]], [[motifs/grave|Grave]], [[motifs/death|Death]], [[motifs/dreams|Dreams]], [[motifs/window|Window]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/revenge|Revenge]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/alienation|Alienation]], [[concepts/class-conflict|Class Conflict]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/mortality|Mortality]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/gothic-novel|Gothic Novel]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Characters:** [[characters/heathcliff|Heathcliff]], [[characters/catherine-earnshaw|Catherine Earnshaw]], [[characters/edgar-linton|Edgar Linton]], [[characters/nelly-dean|Nelly Dean]], [[characters/mr-lockwood|Mr Lockwood]], [[characters/hindley-earnshaw|Hindley Earnshaw]], [[characters/isabella-linton|Isabella Linton]], [[characters/hareton-earnshaw|Hareton Earnshaw]], [[characters/linton-heathcliff|Linton Heathcliff]], [[characters/cathy-linton|Cathy Linton]]
 
 ## Testo integrale / Full text
 

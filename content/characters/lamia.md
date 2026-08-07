@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/lamia"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lamia-(keats)|Lamia (Keats)]]
+
+</div>
+
 #graph/character

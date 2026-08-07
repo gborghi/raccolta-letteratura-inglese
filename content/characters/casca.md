@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/casca"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/julius-caesar-(shakespeare)|JULIUS CAESAR (Shakespeare)]]
+
+</div>
+
 #graph/character

@@ -32,7 +32,7 @@ tags:
   - setting/industrial_city
   - archetype/common_man_2
 ---
-*by Belloc*  ·  **Cluster:** [[History · Catholicism · Europe]]
+*by Belloc*  ·  **Cluster:** [[clusters/history-·-catholicism-·-europe|History · Catholicism · Europe]]
 
 > [!abstract] 
 > A political-economy treatise arguing that industrial capitalism, being in unstable equilibrium, is drifting back toward legally enforced compulsory labour — a re-established slavery Belloc names the Servile State. Tracing the dissolution of pagan slavery by the Church, the medieval Distributive State, its wreck at the Reformation, and the failure of both socialist and 'practical' reform, he presents Distributism and Collectivism as the only alternatives. A foundational Distributist text.
@@ -45,11 +45,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[History]], [[Nonfiction]]
-**Themes & Concepts:** [[Distributism]], [[Capitalism]], [[Socialism]], [[Slavery]], [[Communism]], [[Anti-Industrialism]], [[Freedom and Liberty]], [[Class Conflict]], [[Authority]], [[Social Injustice]], [[Economics]]
-**Motifs:** [[Chains]], [[Machine]], [[Money and Gold]]
-**Historical References:** [[Industrial Revolution]], [[Reformation]], [[Catholic Church]]
-**Settings:** [[England]], [[Industrial City]]
-**Archetypes:** [[Common Man (2)]]
+**Forms & Genres:** [[forms/essay|Essay]], [[concepts/history|History]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/distributism|Distributism]], [[concepts/capitalism|Capitalism]], [[concepts/socialism|Socialism]], [[concepts/slavery|Slavery]], [[concepts/communism|Communism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/class-conflict|Class Conflict]], [[concepts/authority|Authority]], [[concepts/social-injustice|Social Injustice]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/chains|Chains]], [[motifs/machine|Machine]], [[motifs/money-and-gold|Money and Gold]]
+**Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/reformation|Reformation]], [[historical-references/catholic-church|Catholic Church]]
+**Settings:** [[settings/england|England]], [[settings/industrial-city|Industrial City]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

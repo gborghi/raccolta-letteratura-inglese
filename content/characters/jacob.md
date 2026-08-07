@@ -14,4 +14,10 @@ Patriarch cited as proof that the Old Testament narrator knew his hero was 'a sn
 
 <div class="concept-works" data-slug="characters/jacob"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/job-(chesterton)|job (Chesterton)]]
+
+</div>
+
 #graph/character

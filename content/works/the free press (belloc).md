@@ -29,7 +29,7 @@ tags:
   - setting/london
   - archetype/corrupt_official
 ---
-*by Belloc*  ·  **Cluster:** [[Distributism · Politics and Society · Polemic]]
+*by Belloc*  ·  **Cluster:** [[clusters/distributism-·-politics-and-society-·-polemic|Distributism · Politics and Society · Polemic]]
 
 > [!abstract] 
 > A Distributist tract analysing how the great capitalist newspaper press, dependent on advertising subsidy, corrupts news and opinion and lets a few unaccountable proprietors usurp real political power. Belloc contrasts this with the small independent 'Free Press' (The New Age, the New Witness) whose power lies in telling the truth.
@@ -64,11 +64,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Capitalism]], [[Money and Avarice]], [[Power and Corruption]], [[Deception]], [[Truth]], [[Distributism]], [[Freedom and Liberty]], [[Anti-Industrialism]], [[Economics]], [[History]]
-**Motifs:** [[Money and Gold]], [[Machine]], [[Letters and Writing]]
-**Historical References:** [[First World War]], [[Reformation]], [[Renaissance]], [[Industrial Revolution]]
-**Settings:** [[London]]
-**Archetypes:** [[Corrupt Official]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/capitalism|Capitalism]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/deception|Deception]], [[concepts/truth|Truth]], [[concepts/distributism|Distributism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/machine|Machine]], [[motifs/letters-and-writing|Letters and Writing]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/reformation|Reformation]], [[historical-references/renaissance|Renaissance]], [[historical-references/industrial-revolution|Industrial Revolution]]
+**Settings:** [[settings/london|London]]
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]]
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

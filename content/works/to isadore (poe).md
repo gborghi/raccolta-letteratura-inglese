@@ -18,17 +18,17 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
+*by Poe*  ·  **Cluster:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > A musical love lyric celebrating Isadore as a dream-enchantress whose voice and violet eyes wake old memories and turn the speaker's name to melody. Themes of idealized love, beauty, dreams and memory.
 
 ## Connections
 
-**Topoi:** [[Unattainable Beloved]]
-**Motifs:** [[Love]], [[Eyes and Sight]], [[Dreams]], [[Music and Song]], [[Flowers]]
-**Themes & Concepts:** [[Romantic Love]], [[Beauty]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]]
+**Motifs:** [[motifs/love|Love]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/dreams|Dreams]], [[motifs/music-and-song|Music and Song]], [[motifs/flowers|Flowers]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/beauty|Beauty]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

@@ -16,7 +16,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Poe*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A broad dialect comedy narrated in thick Irish brogue by a vain 'Barronitt' courting a widow, who is duped in a hand-holding ruse with a French rival. Themes of farcical satire, vanity and deception.
@@ -26,10 +26,10 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Fool]], [[Trickster]]
-**Motifs:** [[Love]]
-**Themes & Concepts:** [[Deception]], [[Satire of Society]]
-**Forms & Genres:** [[Satire]], [[Short Story]]
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/trickster|Trickster]]
+**Motifs:** [[motifs/love|Love]]
+**Themes & Concepts:** [[concepts/deception|Deception]], [[concepts/satire-of-society|Satire of Society]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]
 
 ## Testo integrale / Full text
 

@@ -73,7 +73,7 @@ tags:
 
 # aquinas
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > Chesterton's popular biography and apologetic study of St. Thomas Aquinas, presenting Thomism as a philosophy that affirms Creation, reconciles faith and reason through the Aristotelian revolution, and stands against both Manichee pessimism and the later Augustinian-Lutheran revolt.
@@ -87,18 +87,18 @@ tags:
 
 ## Connections
 
-**Settings:** [[Italy]], [[Paris]], [[Castle]], [[Court]], [[Europe]]
+**Settings:** [[settings/italy|Italy]], [[settings/paris|Paris]], [[settings/castle|Castle]], [[settings/court|Court]], [[settings/europe|Europe]]
 
-**Motifs:** [[Fire]], [[Imprisonment (2)]], [[Book Reading]], [[Cross]]
+**Motifs:** [[motifs/fire|Fire]], [[motifs/imprisonment-(2)|Imprisonment (2)]], [[motifs/book-reading|Book Reading]], [[motifs/cross|Cross]]
 
-**Topoi:** [[Great Chain of Being]], [[Book of Nature]], [[Contemptus Mundi]]
+**Topoi:** [[topoi/great-chain-of-being|Great Chain of Being]], [[topoi/book-of-nature|Book of Nature]], [[topoi/contemptus-mundi|Contemptus Mundi]]
 
-**Characters:** [[Christ]], [[Thomas Aquinas]], [[St. Francis of Assisi]], [[St. Dominic]], [[Frederick II]], [[Albertus Magnus]], [[St. Bonaventure]], [[Siger of Brabant]], [[St. Louis (King Louis IX of France)]], [[Martin Luther]], [[Aristotle]], [[Plato]]
+**Characters:** [[characters/christ|Christ]], [[historical-references/thomas-aquinas|Thomas Aquinas]], [[characters/st.-francis-of-assisi|St. Francis of Assisi]], [[characters/st.-dominic|St. Dominic]], [[characters/frederick-ii|Frederick II]], [[characters/albertus-magnus|Albertus Magnus]], [[characters/st.-bonaventure|St. Bonaventure]], [[characters/siger-of-brabant|Siger of Brabant]], [[characters/st.-louis-(king-louis-ix-of-france)|St. Louis (King Louis IX of France)]], [[characters/martin-luther|Martin Luther]], [[characters/aristotle|Aristotle]], [[characters/plato|Plato]]
 
-**Archetypes:** [[Wise Old Man Sage]], [[Martyr Saint]], [[Mentor]], [[Prophet]]
-**Themes & Concepts:** [[Faith and Doubt]], [[Faith]], [[Truth]], [[Wonder and Gratitude]], [[Sin and the Fall]], [[Grace and Redemption]], [[Humility]], [[Self-Knowledge]], [[Natural Order]], [[Critique of Progress]], [[Fate and Free Will]], [[Reconciliation]], [[Distributism]], [[Eastern Religion and Asceticism]], [[Poverty]], [[Conversion]], [[Order vs Chaos]], [[Being and Existence]], [[Economics]], [[History]]
-**Forms & Genres:** [[Biography]], [[Apologetics]], [[Essay]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Catholic Church]], [[Reformation]], [[Classical Antiquity]], [[Medieval England]], [[Islam]], [[Inquisition]], [[Eastern Religion Comparative Religion]], [[Crusades]], [[Renaissance]]
+**Archetypes:** [[archetypes/wise-old-man-sage|Wise Old Man Sage]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/mentor|Mentor]], [[archetypes/prophet|Prophet]]
+**Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/faith|Faith]], [[concepts/truth|Truth]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/humility|Humility]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/natural-order|Natural Order]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/reconciliation|Reconciliation]], [[concepts/distributism|Distributism]], [[concepts/eastern-religion-and-asceticism|Eastern Religion and Asceticism]], [[concepts/poverty|Poverty]], [[concepts/conversion|Conversion]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/being-and-existence|Being and Existence]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/biography|Biography]], [[forms/apologetics|Apologetics]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/reformation|Reformation]], [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/medieval-england|Medieval England]], [[historical-references/islam|Islam]], [[historical-references/inquisition|Inquisition]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]], [[historical-references/crusades|Crusades]], [[historical-references/renaissance|Renaissance]]
 
 ## Testo integrale / Full text
 

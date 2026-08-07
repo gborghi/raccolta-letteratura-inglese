@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/brutus-the-tribune"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/coriolanus-(shakespeare)|CORIOLANUS (Shakespeare)]]
+
+</div>
+
 #graph/character

@@ -18,17 +18,17 @@ tags:
   - archetype/outcast_wanderer
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
+*by Coleridge*  ·  **Cluster:** [[clusters/grief-and-loss-·-elegy-·-clothing-and-costume|Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
 > An elegy/monody mourning the suicide of the boy-poet Chatterton, neglected by a hard world; the poet's genius, despair, and dream of an American refuge; themes of grief, the neglected artist, death, and suicide.
 
 ## Connections
 
-**Archetypes:** [[Outsider]]
-**Motifs:** [[Death]], [[Grave]]
-**Themes & Concepts:** [[Grief and Loss]], [[Artist and Society]], [[Mortality]], [[Melancholy]]
-**Forms & Genres:** [[Elegy]], [[Ode]]
+**Archetypes:** [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/death|Death]], [[motifs/grave|Grave]]
+**Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/artist-and-society|Artist and Society]], [[concepts/mortality|Mortality]], [[concepts/melancholy|Melancholy]]
+**Forms & Genres:** [[forms/elegy|Elegy]], [[forms/ode|Ode]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ The Samoan archipelago and surrounding waters where Stevenson settled at Vailima
 
 <div class="concept-works" data-slug="settings/south-seas---pacific-islands"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/robert-louis-stevenson-(chesterton)|Robert Louis Stevenson (Chesterton)]]
+
+</div>
+
 #graph/setting

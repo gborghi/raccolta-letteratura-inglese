@@ -19,7 +19,7 @@ tags:
   - topos/the_open_road
 ---
 
-*by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
+*by Whitman*  ·  **Cluster:** [[clusters/nationalism-and-patriotism-·-democracy-·-liberty-political-freedom|Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
 > Long programmatic chant proclaiming the new American bard of democracy, body and soul, sex, religion and comradeship across the continent; sprawling catalogue free verse.
@@ -48,11 +48,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Poet as Prophet]], [[Open Road Homecoming]]
-**Motifs:** [[Nature]], [[Birds]]
-**Themes & Concepts:** [[Democracy]], [[Identity]], [[Body]], [[Comradeship]]
-**Forms & Genres:** [[Free Verse]]
-**Settings:** [[America]]
+**Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]], [[topoi/open-road-homecoming|Open Road Homecoming]]
+**Motifs:** [[concepts/nature|Nature]], [[motifs/birds|Birds]]
+**Themes & Concepts:** [[concepts/democracy|Democracy]], [[concepts/identity|Identity]], [[concepts/body|Body]], [[concepts/comradeship|Comradeship]]
+**Forms & Genres:** [[forms/free-verse|Free Verse]]
+**Settings:** [[settings/america|America]]
 
 ## Testo integrale / Full text
 

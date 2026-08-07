@@ -112,7 +112,7 @@ Now that it had come to the Kaliph’s turn, one would have said there was nothi
 
 But the Kaliph, with an Arabian look, picked out of his pocket a gossamer scarf from Cashmir, so light that when it was tossed into the air it would hardly fall to the ground, but floated downwards slowly like a mist. This, with a light pass, he severed, and immediately received the prize. For it was deemed more difficult by far to divide such a veil in mid-air, than to cleave lead or even stone.
 
-I knew a man once, Maurice, who was at [[Oxford]] for three years, and after that went down with no degree. At College, while his friends were seeking for Truth in funny brown German Philosophies, Sham Religions, stinking bottles and identical equations, he was lying on his back in Eynsham meadows thinking of Nothing, and got the Truth by this parallel road of his much more quickly than did they by theirs; for the asses are still seeking, mildly disputing, and, in a cultivated manner, following the gleam, so that they have become in their Donnish middleage a nuisance and a pest; while he — that other — with the Truth very fast and firm at the end of a leather thong is dragging her sliding, whining and crouching on her four feet, dragging her reluctant through the world, even into the broad daylight where Truth most hates to be.
+I knew a man once, Maurice, who was at [[settings/oxford|Oxford]] for three years, and after that went down with no degree. At College, while his friends were seeking for Truth in funny brown German Philosophies, Sham Religions, stinking bottles and identical equations, he was lying on his back in Eynsham meadows thinking of Nothing, and got the Truth by this parallel road of his much more quickly than did they by theirs; for the asses are still seeking, mildly disputing, and, in a cultivated manner, following the gleam, so that they have become in their Donnish middleage a nuisance and a pest; while he — that other — with the Truth very fast and firm at the end of a leather thong is dragging her sliding, whining and crouching on her four feet, dragging her reluctant through the world, even into the broad daylight where Truth most hates to be.
 
 He it was who became my master in this creed. For once as we lay under a hedge at the corner of a road near Bagley Wood we heard far off the notes of military music and the distant marching of a column; these notes and that tramp grew louder, till there swung round the turning with a blaze of sound five hundred men in order. They passed, and we were full of the scene and of the memories of the world, when he said to me: “Do you know what is in your heart? It is the music. And do you know the cause and Mover of that music? It is the Nothingness inside the bugle; it is the hollow Nothingness inside the Drum.”
 
@@ -158,7 +158,7 @@ Then the Elder Elohim said, some of them, “Oh, leave well alone! send him to b
 
 So the jolly little fellow took the dirty lump of mud and pushed it this way and that, jabbing with his thumb and scraping with his nail, until at last he had made Picanthropos, who lived in Java and was a fool; who begat Eoanthropos, who begat Meioanthropos, who begat Pleioanthropos, who begat Pleistoanthropos, who is often mixed up with his father, and a great warning against keeping the same names in one family; who begat Paleoanthropos, who begat Neoanthropos, who begat the three Anthropoids, great mumblers and murmurers with their mouths; and the eldest of these begat Him whose son was He, from whom we are all descended.
 
-He was indeed halting and patchy, ill-lettered, passionate and rude; bald of one cheek and blind of one eye, and his legs were of different sizes, nevertheless by process of ascent have we, his descendants, manfully continued to develop and to progress, and to swell in everything, until from Homer we came to Euripides, and from Euripides to Seneca, and from Seneca to Boethius and his peers; and from these to Duns Scotus, and so upwards through James I of [[England]] and the fifth, sixth or seventh of Scotland (for it is impossible to remember these things) and on, on, to my Lord Macaulay, and in the very last reached YOU, the great summits of the human race and last perfection of the ages READERS OF THIS BOOK, and you also Maurice, to whom it is dedicated, and myself, who have written it for gain.
+He was indeed halting and patchy, ill-lettered, passionate and rude; bald of one cheek and blind of one eye, and his legs were of different sizes, nevertheless by process of ascent have we, his descendants, manfully continued to develop and to progress, and to swell in everything, until from Homer we came to Euripides, and from Euripides to Seneca, and from Seneca to Boethius and his peers; and from these to Duns Scotus, and so upwards through James I of [[settings/england|England]] and the fifth, sixth or seventh of Scotland (for it is impossible to remember these things) and on, on, to my Lord Macaulay, and in the very last reached YOU, the great summits of the human race and last perfection of the ages READERS OF THIS BOOK, and you also Maurice, to whom it is dedicated, and myself, who have written it for gain.
 
 Amen.
 
@@ -170,7 +170,7 @@ It has been said by very many people that there is a tangible pleasure in the me
 
 Note what the action means. You are alone. Even if the room is crowded (as was the smoking-room in the G.W.R. Hotel, at Paddington, only the other day, when I wrote my “Statistical Abstract of Christendom”), even if the room is crowded, you must have made yourself alone to be able to write at all. You must have built up some kind of wall and isolated your mind. You are alone, then; and that is the beginning.
 
-If you consider at what pains men are to be alone: how they climb mountains, enter prisons, profess monastic vows, put on eccentric daily habits, and seclude themselves in the garrets of a great town, you will see that this moment of taking up the pen is not least happy in the fact that then, by a mere association of ideas, [[The Writer|the writer]] is alone.
+If you consider at what pains men are to be alone: how they climb mountains, enter prisons, profess monastic vows, put on eccentric daily habits, and seclude themselves in the garrets of a great town, you will see that this moment of taking up the pen is not least happy in the fact that then, by a mere association of ideas, [[archetypes/the-writer|the writer]] is alone.
 
 So much for that. Now not only are you alone, but you are going to “create”.
 
@@ -210,7 +210,7 @@ It is therefore of the first importance, much more important than any question o
 
 Of this Respect which we seek, out of so many human pleasures, a facile, and a very false, interpretation is that it is the privilege of the rich, and I even knew one poor fellow who forged a cheque and went to gaol in his desire to impress the host of the “Spotted Dog,” near Barnard Castle. It was an error in him, as it is in all who so imagine. The rich in their degree fall under this contempt as heavily as any, and there is no wealth that can purchase the true awe which it should be your aim to receive from waiters, serving-wenches, boot-blacks, and publicans.
 
-I knew a man once who set out walking from [[Oxford]] to Stow-in-the-Wold, from Stow-in-the-Wold to Cheltenham, from Cheltenham to Ledbury, from Ledbury to Hereford, from Hereford to New Rhayader (where the Cobbler lives), and from New Rhayader to the end of the world which lies a little west and north of that place, and all the way he slept rough under hedges and in stacks, or by day in open fields, so terrified was he at the thought of the contempt that awaited him should he pay for a bed. And I knew another man who walked from York to Thirsk, and from Thirsk to Darlington, and from Darlington to Durham, and so on up to the border and over it, and all the way he pretended to be extremely poor so that he might be certain the contempt he received was due to nothing of his own, but to his clothes only: but this was an indifferent way of escaping, for it got him into many fights with miners, and he was arrested by the police in Lanchester; and at Jedburgh, where his money did really fail him, he had to walk all through the night, finding that no one would take in such a tatterdemalion. The thing could be done much more cheaply than that, and much more respectably, and you can acquire with but little practice one of many ways of achieving the full respect of the whole house, even of that proud woman who sits behind glass in front of an enormous ledger; and the first way is this: —
+I knew a man once who set out walking from [[settings/oxford|Oxford]] to Stow-in-the-Wold, from Stow-in-the-Wold to Cheltenham, from Cheltenham to Ledbury, from Ledbury to Hereford, from Hereford to New Rhayader (where the Cobbler lives), and from New Rhayader to the end of the world which lies a little west and north of that place, and all the way he slept rough under hedges and in stacks, or by day in open fields, so terrified was he at the thought of the contempt that awaited him should he pay for a bed. And I knew another man who walked from York to Thirsk, and from Thirsk to Darlington, and from Darlington to Durham, and so on up to the border and over it, and all the way he pretended to be extremely poor so that he might be certain the contempt he received was due to nothing of his own, but to his clothes only: but this was an indifferent way of escaping, for it got him into many fights with miners, and he was arrested by the police in Lanchester; and at Jedburgh, where his money did really fail him, he had to walk all through the night, finding that no one would take in such a tatterdemalion. The thing could be done much more cheaply than that, and much more respectably, and you can acquire with but little practice one of many ways of achieving the full respect of the whole house, even of that proud woman who sits behind glass in front of an enormous ledger; and the first way is this: —
 
 As you come into the place go straight for the smoking-room, and begin talking of the local sport: and do not talk humbly and tentatively as so many do, but in a loud authoritative tone. You shall insist and lay down the law and fly into a passion if you are contradicted. There is here an objection which will arise in the mind of every niggler and boggler who has in the past very properly been covered with ridicule and become the butt of the waiters and stable-yard, which is, that if one is ignorant of the local sport, there is an end to the business. The objection is ridiculous. Do you suppose that the people whom you hear talking around you are more learned than yourself in the matter? And if they are do you suppose that they are acquainted with your ignorance? Remember that most of them have read far less than you, and that you can draw upon an experience of travel of which they can know nothing; do but make the plunge, practising first in the villages of the Midlands, I will warrant you that in a very little while bold assertion of this kind will carry you through any tap-room or bar-parlour in Britain.
 
@@ -276,7 +276,7 @@ If, after five minutes of that, Ignoramus cannot get Sapiens floundering about i
 
 But if Sapiens is over-tenacious there is a final method which may not be the most perfect, but which I have often tried myself, and usually with very considerable success:
 
-SAPIENS. [[Nonsense]], man. The Dictionary. The Greek dictionary.
+SAPIENS. [[concepts/nonsense|Nonsense]], man. The Dictionary. The Greek dictionary.
 
 IGNORAMUS. What has Ananti to do with Greek?
 
@@ -296,7 +296,7 @@ HARMONIDES OF EPHESUS says in one of his treatises upon method (I forget which, 
 
 As I was sitting one of these sunny mornings in my little Park, reading an article upon vivisection in the Tablet newspaper, a Domestic [Be seated, be seated, I pray you!] brought me a letter upon a Silver Salver [Be covered!]
 
-Which reminds me, why do people say that silver is the only perfect spondee in the English language? Salver is a perfectly good spondee; so is North-Cape; so is great-coat; so is High-Mass; so is Wenchthorpe; so is forewarp, which is the rope you throw out from the stem to the little man in the boat who comes to moor you along the west gully in the Ramsgate Harbour; so is Longnose, the name of a buoy, and of a reef of rocks just north of the North Foreland; so are a great many other words. But I digress. I only put in these words to show you in case you had any dissolving doubts remaining upon the matter, that the kind of stuff you read is very often all [[Nonsense|nonsense]], and that you must not take things for granted merely because they are printed. I have watched you doing it from time to time, and have been torn between pity and anger. But all that is neither here nor there. This habit of parenthesis is the ruin of good prose. As I was saying, example clearly put down without comment is very often more powerful than analysis for the purpose of conviction.
+Which reminds me, why do people say that silver is the only perfect spondee in the English language? Salver is a perfectly good spondee; so is North-Cape; so is great-coat; so is High-Mass; so is Wenchthorpe; so is forewarp, which is the rope you throw out from the stem to the little man in the boat who comes to moor you along the west gully in the Ramsgate Harbour; so is Longnose, the name of a buoy, and of a reef of rocks just north of the North Foreland; so are a great many other words. But I digress. I only put in these words to show you in case you had any dissolving doubts remaining upon the matter, that the kind of stuff you read is very often all [[concepts/nonsense|nonsense]], and that you must not take things for granted merely because they are printed. I have watched you doing it from time to time, and have been torn between pity and anger. But all that is neither here nor there. This habit of parenthesis is the ruin of good prose. As I was saying, example clearly put down without comment is very often more powerful than analysis for the purpose of conviction.
 
 The Domestic brought me a letter upon a Silver Salver. I took it and carefully examined the outside.
 
@@ -516,7 +516,7 @@ All that They do is venomous, and all that They think is evil, and when I take m
 
 ON RAILWAYS AND THINGS
 
-RAILWAYS HAVE CHANGED the arrangement and distribution of crowds and [[Solitude|solitude]], but have done nothing to disturb the essential contrast between them.
+RAILWAYS HAVE CHANGED the arrangement and distribution of crowds and [[concepts/solitude|solitude]], but have done nothing to disturb the essential contrast between them.
 
 The more behindhand of my friends, among whom I count the weary men of the towns, are ceaselessly bewailing the effect of railways and the spoiling of the country; nor do I fail, when I hear such complaints, to point out their error, courteously to hint at their sheep-like qualities, and with all the delicacy imaginable to let them understand they are no better than machines repeating worn-out formulae through the nose. The railways and those slow lumbering things the steamboats have not spoilt our solitudes, on the contrary they have intensified the quiet of the older haunts, they have created new sanctuaries, and (crowning blessing) they make it easy for us to reach our refuges.
 
@@ -536,9 +536,9 @@ Yet another good we owe to railways occurs to me. They keep the small towns goin
 
 Don’t pester me with “economics” on that point; I know more economics than you, and I say that but for the railways the small towns would have gone to pieces. There never yet was a civilisation growing richer and improving its high roads in which the small towns did not dwindle. The village supplied the local market with bodily necessaries; the intellectual life, the civic necessities had to go into the large towns. It happened in the second and third centuries in Italy; it happened in France between Henri IV and the Revolution; it was happening here before 1830.
 
-Take those little paradises Ludlow and Leominster; consider Arundel, and please your memory with the admirable slopes of Whitchurch; grow contented in a vision of Ledbury, of Rye, or of Abingdon, or of Beccles with its big church over the river, or of Newport in the Isle of Wight, or of King’s Lynn, or of Lymington — you would not have any of these but for the railway, and there are 1800 such in [[England]] — one for every tolerable man.
+Take those little paradises Ludlow and Leominster; consider Arundel, and please your memory with the admirable slopes of Whitchurch; grow contented in a vision of Ledbury, of Rye, or of Abingdon, or of Beccles with its big church over the river, or of Newport in the Isle of Wight, or of King’s Lynn, or of Lymington — you would not have any of these but for the railway, and there are 1800 such in [[settings/england|England]] — one for every tolerable man.
 
-Valognes in the Cotentin, Bourg-d’Oysan down in the Dauphiné in its vast theatre of upright hills, St. Julien in the Limousin, Aubusson-in-the-hole, Puy (who does not connect beauty with the word?), Mansle in the Charente country — they had all been half dead for over a century when the railway came to them and made them jolly, little, trim, decent, self-contained, worthy, satisfactory, genial, comforting and human [Greek: politeiae], with clergy, upper class, middle class, poor, soldiers, yesterday’s news, a college, anti-Congo men, fools, strong riders, old maids, and all that makes a state. In [[England]] the railway brought in that beneficent class, the gentlemen; in France, that still more beneficent class, the Haute Bourgeoisie.
+Valognes in the Cotentin, Bourg-d’Oysan down in the Dauphiné in its vast theatre of upright hills, St. Julien in the Limousin, Aubusson-in-the-hole, Puy (who does not connect beauty with the word?), Mansle in the Charente country — they had all been half dead for over a century when the railway came to them and made them jolly, little, trim, decent, self-contained, worthy, satisfactory, genial, comforting and human [Greek: politeiae], with clergy, upper class, middle class, poor, soldiers, yesterday’s news, a college, anti-Congo men, fools, strong riders, old maids, and all that makes a state. In [[settings/england|England]] the railway brought in that beneficent class, the gentlemen; in France, that still more beneficent class, the Haute Bourgeoisie.
 
 I know what you are going to say; you are going to say that there were squires before the railways in England. Pray have you considered how many squires there were to go round? About half a dozen squires to every town, that is (say) four gentlemen, and of those four gentlemen let us say two took some interest in the place. It wasn’t good enough … and heaven help the country towns now if they had to depend on the great houses! There would be a smart dog-cart once a day with a small (vicious and servile) groom in it, an actor, a foreign money-lender, a popular novelist, or a newspaper owner jumping out to make his purchases and driving back again to his host’s within the hour. No, no; what makes the country town is the Army, the Navy, the Church, and the Law — especially the retired ones.
 
@@ -836,7 +836,7 @@ The three years that he spent at this establishment were among the happiest in t
 
 He was twice upon the point of securing the prize for Biblical studies and did indeed take that for French and arithmetic. Mr. Filbury assured his father that he had the very highest hopes of his career at the University. “Joseph,” he wrote, “is a fine, highly tempered spirit, one to whom continual application is difficult, but who is capable of high flights of imagination not often reached by our sturdy English boyhood…. I regret that I cannot see my way to reducing the charge for meat at breakfast. Joseph’s health is excellent, and his scholarship, though by no means ripe, shows promise of that …” and so forth.
 
-I have no space to give the letter in full; it betrays in every line the effect this gifted youth had produced upon one well acquainted with the marks of future greatness; — for Mr. Filbury had been the tutor and was still the friend of the Duke of Buxton, the sometime form-master of the present Bishop of Lewes and the cousin of the late Joshua Lambkin of [[Oxford]].
+I have no space to give the letter in full; it betrays in every line the effect this gifted youth had produced upon one well acquainted with the marks of future greatness; — for Mr. Filbury had been the tutor and was still the friend of the Duke of Buxton, the sometime form-master of the present Bishop of Lewes and the cousin of the late Joshua Lambkin of [[settings/oxford|Oxford]].
 
 Little Joseph’s entry into college life abundantly fulfilled the expectations held of him. The head of his college wrote to his great-aunt (the wife of the Under Secretary of State) “… he has something in him of what men of Old called prophecy and we term genius …”, old Dr. Biddlecup the Dean asked the boy to dinner, and afterwards assured his father that little Joseph was the image of William Pitt, whom he falsely pretended to have seen in childhood, and to whom the Duggletons were related through Mrs. Duggleton’s grandmother, whose sister had married the first cousin of the Saviour of Europe.
 
@@ -1354,7 +1354,7 @@ I asked him how long ago that was, and he said nearly twenty years. For all that
 
 We were now seated together at table eating and talking so, when I asked him whether he had a reputation for sanctity and whether the people brought him food. He answered with a little hesitation that he had a reputation, he thought, for necromancy rather than anything else, and that upon this account it was not always easy to persuade a messenger to bring him the books in French and English which he ordered from below, though these were innocent enough, being, as a rule, novels written by women or academicians, records of travel, the classics of the Eighteenth Century, or the biographies of aged statesmen. As for food, the people of the place did indeed bring it to him, but not, as in an idyll, for courtesy; contrariwise, they demanded heavy payment, and his chief difficulty was with bread; for stale bread was intolerable to him. In the matter of religion he would not say that he had none, but rather that he had several religions; only at this season of the year, when everything was fresh, pleasant and entertaining, he did not make use of any of them, but laid them all aside. As this last saying of his had no meaning for me I turned to another matter and said to him:
 
-“In any [[Solitude|solitude]] contemplation is the chief business of the soul. How, then, do you, who say you practise no rites, fill up your loneliness here?”
+“In any [[concepts/solitude|solitude]] contemplation is the chief business of the soul. How, then, do you, who say you practise no rites, fill up your loneliness here?”
 
 In answer to this question he became more animated, spoke with a sort of laugh in his voice, and seemed as though he were young again and as though my question had aroused a whole lifetime of good memories.
 
@@ -1798,7 +1798,7 @@ Why, that woman of Etaples who sold such Southern wine for the dissipation of th
 
 It is certain that the hills decay and that rivers as the dusty years proceed run feebly and lose themselves at last in desert sands; and in its aeons the very firmament grows old. But evil also is perishable and bad men meet their judge. Be comforted.
 
-Now of all endings, of all Comings to an End none is so hesitating as the ending of a book which the Publisher will have so long and [[The Writer|the writer]] so short: and the Public (God Bless the Public) will have whatever it is given.
+Now of all endings, of all Comings to an End none is so hesitating as the ending of a book which the Publisher will have so long and [[archetypes/the-writer|the writer]] so short: and the Public (God Bless the Public) will have whatever it is given.
 
 Books, however much their lingering, books also must Come to an End. It is abhorrent to their nature as to the life of man. They must be sharply cut off. Let it be done at once and fixed as by a spell and the power of a Word; the word
 
@@ -1838,7 +1838,7 @@ Then the Elder Elohim said, some of them, “Oh, leave well alone! send him to b
 
 So the jolly little fellow took the dirty lump of mud and pushed it this way and that, jabbing with his thumb and scraping with his nail, until at last he had made Picanthropos, who lived in Java and was a fool; who begat Eoanthropos, who begat Meioanthropos, who begat Pleioanthropos, who begat Pleistoanthropos, who is often mixed up with his father, and a great warning against keeping the same names in one family; who begat Paleoanthropos, who begat Neoanthropos, who begat the three Anthropoids, great mumblers and murmurers with their mouths; and the eldest of these begat Him whose son was He, from whom we are all descended.
 
-He was indeed halting and patchy, ill-lettered, passionate and rude; bald of one cheek and blind of one eye, and his legs were of different sizes, nevertheless by process of ascent have we, his descendants, manfully continued to develop and to progress, and to swell in everything, until from Homer we came to Euripides, and from Euripides to Seneca, and from Seneca to Boethius and his peers; and from these to Duns Scotus, and so upwards through James I of [[England]] and the fifth, sixth or seventh of Scotland (for it is impossible to remember these things) and on, on, to my Lord Macaulay, and in the very last reached YOU, the great summits of the human race and last perfection of the ages READERS OF THIS BOOK, and you also Maurice, to whom it is dedicated, and myself, who have written it for gain.
+He was indeed halting and patchy, ill-lettered, passionate and rude; bald of one cheek and blind of one eye, and his legs were of different sizes, nevertheless by process of ascent have we, his descendants, manfully continued to develop and to progress, and to swell in everything, until from Homer we came to Euripides, and from Euripides to Seneca, and from Seneca to Boethius and his peers; and from these to Duns Scotus, and so upwards through James I of [[settings/england|England]] and the fifth, sixth or seventh of Scotland (for it is impossible to remember these things) and on, on, to my Lord Macaulay, and in the very last reached YOU, the great summits of the human race and last perfection of the ages READERS OF THIS BOOK, and you also Maurice, to whom it is dedicated, and myself, who have written it for gain.
 
 Amen.
 
@@ -1857,11 +1857,11 @@ Caro, tenue materiale, dal quale è stato creato il mondo.
 
 E ancora, nell’Epilogo…
 
-#Principe, disegna questo ritratto del sovrano nel tuo dispero
+Principe, disegna questo ritratto del sovrano nel tuo dispero
 
-# Quando la tua rivolta in quel riposo si placherà…
+Quando la tua rivolta in quel riposo si placherà…
 
-# Sarai fuso con un “Aria Essenziale”: —
+Sarai fuso con un “Aria Essenziale”: —
 
 Caro, tenue elemento, da cui è stato creato il mondo!
 
@@ -1890,7 +1890,7 @@ It has been said by very many people that there is a tangible pleasure in the me
 
 Note what the action means. You are alone. Even if the room is crowded (as was the smoking-room in the G.W.R. Hotel, at Paddington, only the other day, when I wrote my “Statistical Abstract of Christendom”), even if the room is crowded, you must have made yourself alone to be able to write at all. You must have built up some kind of wall and isolated your mind. You are alone, then; and that is the beginning.
 
-If you consider at what pains men are to be alone: how they climb mountains, enter prisons, profess monastic vows, put on eccentric daily habits, and seclude themselves in the garrets of a great town, you will see that this moment of taking up the pen is not least happy in the fact that then, by a mere association of ideas, [[The Writer|the writer]] is alone.
+If you consider at what pains men are to be alone: how they climb mountains, enter prisons, profess monastic vows, put on eccentric daily habits, and seclude themselves in the garrets of a great town, you will see that this moment of taking up the pen is not least happy in the fact that then, by a mere association of ideas, [[archetypes/the-writer|the writer]] is alone.
 
 So much for that. Now not only are you alone, but you are going to “create”.
 
@@ -1925,7 +1925,7 @@ Molte persone hanno affermato che esista un piacere concreto nel semplice atto d
 
 Rifletti su ciò che significa questa azione: sei solo. Anche se la stanza è piena di gente (come era il salone fumatori dell’hotel G.W.R. a Paddington, proprio l’altro giorno, quando stavo scrivendo il mio “Riassunto Statistico del Cristianesimo”), anche in quel caso devi esserti isolato per poter scrivere. Devi aver creato una sorta di barriera per separare la tua mente dal resto del mondo. Quindi, sei solo. E questo è il punto di partenza.
 
-Se considerate con quanta fatica gli uomini cercano di stare da soli: come scalano montagne, entrano in prigioni, prendono i voti monastici, assumono abitudini quotidiane strane e si isolano nei tetti delle grandi città, capirete che anche questo momento in cui si impugna la penna è estremamente felice, perché in quel momento, semplicemente attraverso l’associazione di alcune idee, [[The Writer|lo scrittore]] diventa solo.
+Se considerate con quanta fatica gli uomini cercano di stare da soli: come scalano montagne, entrano in prigioni, prendono i voti monastici, assumono abitudini quotidiane strane e si isolano nei tetti delle grandi città, capirete che anche questo momento in cui si impugna la penna è estremamente felice, perché in quel momento, semplicemente attraverso l’associazione di alcune idee, [[archetypes/the-writer|lo scrittore]] diventa solo.
 
 Ecco fatto. Ora non solo sei solo, ma devi anche “creare”.
 
@@ -1970,7 +1970,7 @@ It is therefore of the first importance, much more important than any question o
 
 Of this Respect which we seek, out of so many human pleasures, a facile, and a very false, interpretation is that it is the privilege of the rich, and I even knew one poor fellow who forged a cheque and went to gaol in his desire to impress the host of the “Spotted Dog,” near Barnard Castle. It was an error in him, as it is in all who so imagine. The rich in their degree fall under this contempt as heavily as any, and there is no wealth that can purchase the true awe which it should be your aim to receive from waiters, serving-wenches, boot-blacks, and publicans.
 
-I knew a man once who set out walking from [[Oxford]] to Stow-in-the-Wold, from Stow-in-the-Wold to Cheltenham, from Cheltenham to Ledbury, from Ledbury to Hereford, from Hereford to New Rhayader (where the Cobbler lives), and from New Rhayader to the end of the world which lies a little west and north of that place, and all the way he slept rough under hedges and in stacks, or by day in open fields, so terrified was he at the thought of the contempt that awaited him should he pay for a bed. And I knew another man who walked from York to Thirsk, and from Thirsk to Darlington, and from Darlington to Durham, and so on up to the border and over it, and all the way he pretended to be extremely poor so that he might be certain the contempt he received was due to nothing of his own, but to his clothes only: but this was an indifferent way of escaping, for it got him into many fights with miners, and he was arrested by the police in Lanchester; and at Jedburgh, where his money did really fail him, he had to walk all through the night, finding that no one would take in such a tatterdemalion. The thing could be done much more cheaply than that, and much more respectably, and you can acquire with but little practice one of many ways of achieving the full respect of the whole house, even of that proud woman who sits behind glass in front of an enormous ledger; and the first way is this: —
+I knew a man once who set out walking from [[settings/oxford|Oxford]] to Stow-in-the-Wold, from Stow-in-the-Wold to Cheltenham, from Cheltenham to Ledbury, from Ledbury to Hereford, from Hereford to New Rhayader (where the Cobbler lives), and from New Rhayader to the end of the world which lies a little west and north of that place, and all the way he slept rough under hedges and in stacks, or by day in open fields, so terrified was he at the thought of the contempt that awaited him should he pay for a bed. And I knew another man who walked from York to Thirsk, and from Thirsk to Darlington, and from Darlington to Durham, and so on up to the border and over it, and all the way he pretended to be extremely poor so that he might be certain the contempt he received was due to nothing of his own, but to his clothes only: but this was an indifferent way of escaping, for it got him into many fights with miners, and he was arrested by the police in Lanchester; and at Jedburgh, where his money did really fail him, he had to walk all through the night, finding that no one would take in such a tatterdemalion. The thing could be done much more cheaply than that, and much more respectably, and you can acquire with but little practice one of many ways of achieving the full respect of the whole house, even of that proud woman who sits behind glass in front of an enormous ledger; and the first way is this: —
 
 As you come into the place go straight for the smoking-room, and begin talking of the local sport: and do not talk humbly and tentatively as so many do, but in a loud authoritative tone. You shall insist and lay down the law and fly into a passion if you are contradicted. There is here an objection which will arise in the mind of every niggler and boggler who has in the past very properly been covered with ridicule and become the butt of the waiters and stable-yard, which is, that if one is ignorant of the local sport, there is an end to the business. The objection is ridiculous. Do you suppose that the people whom you hear talking around you are more learned than yourself in the matter? And if they are do you suppose that they are acquainted with your ignorance? Remember that most of them have read far less than you, and that you can draw upon an experience of travel of which they can know nothing; do but make the plunge, practising first in the villages of the Midlands, I will warrant you that in a very little while bold assertion of this kind will carry you through any tap-room or bar-parlour in Britain.
 
@@ -1989,7 +1989,7 @@ And the fifth way is to be Strong, to Dominate and to Lead. To be one of the Mak
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Ottenere rispetto nelle locande e negli hotel
+Ottenere rispetto nelle locande e negli hotel
 
 Iniziare dal principio è, insieme a concludere alla fine, l’essenza stessa dell’arte di scrivere; quanto al resto del testo, si può riempirlo con qualsiasi materiale si preferisca. Ma l’inizio e la fine, come le solide mura esterne degli edifici medievali, contengono e definiscono l’intero complesso.
 
@@ -2005,7 +2005,7 @@ Ma nonostante tutto ciò, nemmeno i migliori di loro affrontano il vero nucleo m
 
 Di questo rispetto che cerchiamo, tra tanti piaceri umani, esiste un'interpretazione facile e del tutto errata: si crede che sia un privilegio dei ricchi. Conoscevo persino un povero uomo che falsificò un assegno e finì in prigione nel tentativo di impressionare il proprietario del ristorante “Spotted Dog”, vicino a Barnard Castle. Era un errore da parte sua, come lo è per tutti coloro che pensano così. Anche i ricchi, nella loro posizione sociale, sono soggetti allo stesso disprezzo degli altri; nessuna ricchezza può comprare il vero rispetto che dovreste provare nei confronti dei camerieri, delle cameriere, dei lucidatori di scarpe e dei proprietari di pub.
 
-Conoscevo un uomo che partì da [[Oxford]] e camminò fino a Stow-in-the-Wold, da lì fino a Cheltenham, poi a Ledbury, a Hereford, a New Rhayader (dove vive il calzolaio) e infine fino all’estremità del mondo, che si trova un po’ a ovest e a nord di quel luogo. Lungo tutto il cammino dormì all’aperto, sotto siepi o in campi aperti, terrorizzato dall’idea del disprezzo che avrebbe ricevuto se avesse pagato per una brandina. Conoscevo anche un altro uomo che camminò da York a Thirsk, poi a Darlington e a Durham, fino al confine e oltre; fingeva di essere estremamente povero, così da essere certo che il disprezzo che riceveva fosse dovuto soltanto ai suoi vestiti, e non a lui stesso. Ma questo era un modo poco efficace per sfuggire alle difficoltà: finì coinvolto in molte risse con i minatori e fu arrestato dalla polizia a Lanchester; a Jedburgh, dove gli mancarono davvero i soldi, dovette camminare tutta la notte, perché nessuno voleva ospitarlo. Si potrebbero trovare modi molto più semplici ed eleganti per ottenere il rispetto di tutti, anche di quelle donne orgogliose che si chiudono dietro vetri e lavorano davanti a enormi registri contabili. Il primo modo per farlo è questo: —
+Conoscevo un uomo che partì da [[settings/oxford|Oxford]] e camminò fino a Stow-in-the-Wold, da lì fino a Cheltenham, poi a Ledbury, a Hereford, a New Rhayader (dove vive il calzolaio) e infine fino all’estremità del mondo, che si trova un po’ a ovest e a nord di quel luogo. Lungo tutto il cammino dormì all’aperto, sotto siepi o in campi aperti, terrorizzato dall’idea del disprezzo che avrebbe ricevuto se avesse pagato per una brandina. Conoscevo anche un altro uomo che camminò da York a Thirsk, poi a Darlington e a Durham, fino al confine e oltre; fingeva di essere estremamente povero, così da essere certo che il disprezzo che riceveva fosse dovuto soltanto ai suoi vestiti, e non a lui stesso. Ma questo era un modo poco efficace per sfuggire alle difficoltà: finì coinvolto in molte risse con i minatori e fu arrestato dalla polizia a Lanchester; a Jedburgh, dove gli mancarono davvero i soldi, dovette camminare tutta la notte, perché nessuno voleva ospitarlo. Si potrebbero trovare modi molto più semplici ed eleganti per ottenere il rispetto di tutti, anche di quelle donne orgogliose che si chiudono dietro vetri e lavorano davanti a enormi registri contabili. Il primo modo per farlo è questo: —
 
 Non appena entri in quel posto, vai dritto nel salotto fumatori e inizia a parlare dello sport locale: non comportarti in modo umile o esitante, come fanno molti, ma con un tono deciso e autoritario. Insisti sulle tue opinioni, stabilisci le regole e arrabbiati se qualcuno ti contraddice. Esiste infatti un’obiezione che potrebbe venire in mente a chiunque sia stato in passato oggetto di derisione da parte dei camerieri o degli stallieri: si dice cioè che se uno non conosce lo sport locale, non possa svolgere il proprio lavoro. Ma questa obiezione è ridicola. Pensi davvero che le persone intorno a te siano più informate di te in materia? E anche se lo fossero, pensi che sappiano della tua ignoranza? Ricorda che la maggior parte di loro ha letto molto meno di te e che tu possiedi esperienze di viaggio di cui loro non hanno alcuna notizia. Prova semplicemente ad attuare questo approccio, iniziando nelle piccole città delle Midlands. Ti garantisco che in poco tempo una tale presunzione ti permetterà di affrontare qualsiasi sala da bar o locale pubblico in Gran Bretagna.
 
@@ -2076,7 +2076,7 @@ If, after five minutes of that, Ignoramus cannot get Sapiens floundering about i
 
 But if Sapiens is over-tenacious there is a final method which may not be the most perfect, but which I have often tried myself, and usually with very considerable success:
 
-SAPIENS. [[Nonsense]], man. The Dictionary. The Greek dictionary.
+SAPIENS. [[concepts/nonsense|Nonsense]], man. The Dictionary. The Greek dictionary.
 
 IGNORAMUS. What has Ananti to do with Greek?
 
@@ -2143,7 +2143,7 @@ Se, dopo cinque minuti di questo tenore, Ignoramus non riesce a far annaspare Sa
 
 Ma se Sapiens è troppo tenace c'è un metodo finale che forse non è il più perfetto, ma che io stesso ho provato spesso, e di solito con un successo davvero considerevole:
 
-SAPIENS. [[Nonsense|Sciocchezze]], amico mio. Il Dizionario. Il dizionario greco.
+SAPIENS. [[concepts/nonsense|Sciocchezze]], amico mio. Il Dizionario. Il dizionario greco.
 
 IGNORAMUS. Che c'entra Ananti col greco?
 
@@ -2168,7 +2168,7 @@ HARMONIDES OF EPHESUS says in one of his treatises upon method (I forget which, 
 
 As I was sitting one of these sunny mornings in my little Park, reading an article upon vivisection in the Tablet newspaper, a Domestic [Be seated, be seated, I pray you!] brought me a letter upon a Silver Salver [Be covered!]
 
-Which reminds me, why do people say that silver is the only perfect spondee in the English language? Salver is a perfectly good spondee; so is North-Cape; so is great-coat; so is High-Mass; so is Wenchthorpe; so is forewarp, which is the rope you throw out from the stem to the little man in the boat who comes to moor you along the west gully in the Ramsgate Harbour; so is Longnose, the name of a buoy, and of a reef of rocks just north of the North Foreland; so are a great many other words. But I digress. I only put in these words to show you in case you had any dissolving doubts remaining upon the matter, that the kind of stuff you read is very often all [[Nonsense|nonsense]], and that you must not take things for granted merely because they are printed. I have watched you doing it from time to time, and have been torn between pity and anger. But all that is neither here nor there. This habit of parenthesis is the ruin of good prose. As I was saying, example clearly put down without comment is very often more powerful than analysis for the purpose of conviction.
+Which reminds me, why do people say that silver is the only perfect spondee in the English language? Salver is a perfectly good spondee; so is North-Cape; so is great-coat; so is High-Mass; so is Wenchthorpe; so is forewarp, which is the rope you throw out from the stem to the little man in the boat who comes to moor you along the west gully in the Ramsgate Harbour; so is Longnose, the name of a buoy, and of a reef of rocks just north of the North Foreland; so are a great many other words. But I digress. I only put in these words to show you in case you had any dissolving doubts remaining upon the matter, that the kind of stuff you read is very often all [[concepts/nonsense|nonsense]], and that you must not take things for granted merely because they are printed. I have watched you doing it from time to time, and have been torn between pity and anger. But all that is neither here nor there. This habit of parenthesis is the ruin of good prose. As I was saying, example clearly put down without comment is very often more powerful than analysis for the purpose of conviction.
 
 The Domestic brought me a letter upon a Silver Salver. I took it and carefully examined the outside.
 
@@ -2205,7 +2205,7 @@ Armonide di Efeso, in uno dei suoi trattati sui metodi (non ricordo esattamente 
 
 Mentre una di quelle mattine soleggiate sedevo nel mio piccolo parco, leggendo un articolo sulla vivisezione sul giornale “Tablet”, una domestica [Si sieda, si sieda, la prego!] mi portò una lettera su un vassoio d’argento [Si copra!).
 
-Questo mi ricorda. Perché si dice che l’argento sia l’unica parola inglese che rappresenti perfettamente il tipo di dittongo “spondee”? “Salver” è sicuramente un ottimo esempio di dittongo spondee, così come “North-Cape”, “great-coat”, “High-Mass”, “Wenchthorpe”, “forewarp” (la corda che si lancia dal molo verso il barcaiolo che viene ad ancorare la nave lungo il canale ovest del porto di Ramsgate), “Longnose” (il nome di un faro e di un banco di roccia situato a nord della North Foreland), e molte altre parole ancora. Ma sto divagando. Ho menzionato queste esempi solo per dimostrarvi, nel caso aveste ancora dubbi al riguardo, che ciò che leggete spesso non è altro che [[Nonsense|nonsenso]] e che non dovete dare nulla per scontato solo perché le cose sono stampate. Vi ho visto farlo di tanto in tanto. E mi sono sentito sia compassionevole che arrabbiato. Ma tutto questo non c’entra affatto con l’argomento principale. Questa abitudine di inserire commenti a margine è la rovina della buona prosa. Come stavo dicendo, un esempio presentato chiaramente e senza commenti spesso è più efficace dell’analisi nel convincere il lettore.
+Questo mi ricorda. Perché si dice che l’argento sia l’unica parola inglese che rappresenti perfettamente il tipo di dittongo “spondee”? “Salver” è sicuramente un ottimo esempio di dittongo spondee, così come “North-Cape”, “great-coat”, “High-Mass”, “Wenchthorpe”, “forewarp” (la corda che si lancia dal molo verso il barcaiolo che viene ad ancorare la nave lungo il canale ovest del porto di Ramsgate), “Longnose” (il nome di un faro e di un banco di roccia situato a nord della North Foreland), e molte altre parole ancora. Ma sto divagando. Ho menzionato queste esempi solo per dimostrarvi, nel caso aveste ancora dubbi al riguardo, che ciò che leggete spesso non è altro che [[concepts/nonsense|nonsenso]] e che non dovete dare nulla per scontato solo perché le cose sono stampate. Vi ho visto farlo di tanto in tanto. E mi sono sentito sia compassionevole che arrabbiato. Ma tutto questo non c’entra affatto con l’argomento principale. Questa abitudine di inserire commenti a margine è la rovina della buona prosa. Come stavo dicendo, un esempio presentato chiaramente e senza commenti spesso è più efficace dell’analisi nel convincere il lettore.
 
 La domestica mi portò una lettera su un vassoio d’argento. La presi e esaminai attentamente l’esterno.
 
@@ -2223,7 +2223,7 @@ Era scritto così. Era molto cordiale e colpiva direttamente il cuore; l’unico
 
 Numero di telefono: 666.
 
-# The Mercury
+The Mercury
 
 15° Nishan 5567.
 
@@ -2268,7 +2268,7 @@ Due giorni dopo ricevetti una lettera scritta su carta spessa, con una grana tal
 
 Caro Signore, — potrebbe dirmi perché non ha risposto alla nostra lettera riguardante l’“Essenza del Bue”? Il Derby Day si avvicina e il tempo rimanente è molto breve. Abbiamo fatto questa offerta appositamente a Lei e ci saremmo aspettati almeno un ringraziamento. Capirà che le attività di un grande giornale lasciano poco tempo per iniziative di beneficenza, ma siamo disposti ad mantenere aperta l’offerta per altri tre giorni; dopo tale scadenza.
 
-#Che facilità ci sarebbe nel criticare questo inglese… Per continuare…
+Che facilità ci sarebbe nel criticare questo inglese… Per continuare…
 
 — Dopo tale data, il prezzo aumenterà inevitabilmente a Un Scellino. — Restiamo, ecc.
 
@@ -2334,7 +2334,7 @@ Appello con forza alla Musa della Storia (il cui nome ho dimenticato e che voi n
 
 La Musa della tragedia si sforzerebbe troppo nel farlo…
 
-#La Musa della Commedia sarebbe scortese se lo facesse…
+La Musa della Commedia sarebbe scortese se lo facesse…
 
 La Musa della Musica non ne aveva mai sentito parlare.
 
@@ -2408,7 +2408,7 @@ I thought it polite as I took him to the door to ask after some of his more dist
 
 <span class="qlang-split" data-lang="it"></span>
 
-# La malattia della mia musa
+La malattia della mia musa
 
 Un giorno ho notato che la mia Musa, che da tempo soffriva di malattia, era silenziosa e cupa, e mostrava chiaramente i segni di una vera e propria malattia.
 
@@ -2500,7 +2500,7 @@ Then in my heart I prayed that of these two (unless The God would make them both
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Su un cane e un uomo anche
+Su un cane e un uomo anche
 
 Nel cuore della Foresta di Weald, sul margine settentrionale di un piccolo bosco, dove una ripida collina di orti e pascoli scende verso un piccolo fiume, vive un eremita di mezza età che possiede tutte le conoscenze comuni: conosce bene la letteratura francese e inglese, sa comporre da solo, ha studiato il latino classico ed è in grado di decifrare facilmente il greco che gli è stato insegnato da giovane. Non è sposato; di nascita è un gentiluomo e dispone di un reddito sufficiente a procurarsi cibo e vino. Il suo unico compagno è un cane che, secondo gli standard canini, è piuttosto anziano rispetto a lui.
 
@@ -2548,7 +2548,7 @@ Tutto ciò il Recluso me lo disse con un’emozione profonda e contenuta, come s
 
 Quindi fu semplicemente una distrazione da parte mia, oltre all’abitudine non consolidata di pensare ad alta voce, che mi portò a dire quelle parole.
 
-# Che cosa farai quando il cane Argus morirà?
+Che cosa farai quando il cane Argus morirà?
 
 Immediatamente desiderai di non averlo detto, perché capii che il Recluso non poteva sopportare quelle parole. Così guardai un po’ imbarazzato oltre di lui e fui sollevato nel vedere il cane Argus aprire pigramente un occhio e osservarmi con indifferenza e disprezzo. Senza dubbio, era molto meno commosso del suo padrone.
 
@@ -2652,9 +2652,9 @@ Anche loro, più di ogni altra creatura, amano quei suoni odiosi. Alcuni esseri,
 
 Il loro Maestro li protegge anche lui… Hanno una vita davvero fortunata. Io…
 
-#Visto uno gettato da grande altezza in una strada di Londra…
+Visto uno gettato da grande altezza in una strada di Londra…
 
-#Lo raggiunse e se ne andò silenziosamente, con la dignità dei Perduti
+Lo raggiunse e se ne andò silenziosamente, con la dignità dei Perduti
 
 Il mondo a cui apparteneva.
 
@@ -2669,7 +2669,7 @@ Tutto ciò che fanno è velenoso, e tutto ciò che pensano è malvagio; quando p
 
 ON RAILWAYS AND THINGS
 
-RAILWAYS HAVE CHANGED the arrangement and distribution of crowds and [[Solitude|solitude]], but have done nothing to disturb the essential contrast between them.
+RAILWAYS HAVE CHANGED the arrangement and distribution of crowds and [[concepts/solitude|solitude]], but have done nothing to disturb the essential contrast between them.
 
 The more behindhand of my friends, among whom I count the weary men of the towns, are ceaselessly bewailing the effect of railways and the spoiling of the country; nor do I fail, when I hear such complaints, to point out their error, courteously to hint at their sheep-like qualities, and with all the delicacy imaginable to let them understand they are no better than machines repeating worn-out formulae through the nose. The railways and those slow lumbering things the steamboats have not spoilt our solitudes, on the contrary they have intensified the quiet of the older haunts, they have created new sanctuaries, and (crowning blessing) they make it easy for us to reach our refuges.
 
@@ -2690,7 +2690,7 @@ Thanks to my railway I can sit in the garden of an evening and read my paper as 
 
 Su ferrovie e altre cose
 
-I treni hanno modificato l’organizzazione e la distribuzione delle folle e della [[Solitude|solitudine]], ma non hanno affatto alterato il contrasto essenziale che esiste tra di esse.
+I treni hanno modificato l’organizzazione e la distribuzione delle folle e della [[concepts/solitude|solitudine]], ma non hanno affatto alterato il contrasto essenziale che esiste tra di esse.
 
 I miei amici, tra cui anche quegli uomini stanchi delle città, continuano senza sosta a lamentarsi degli effetti negativi delle ferrovie e del degrado del paesaggio; ogni volta che ascolto queste lamentele, non manco di indicare loro l’errore, di suggerire con gentilezza le loro caratteristiche “ovine” e di far loro capire, con tutta la delicatezza possibile, che non sono affatto diversi da macchine che ripetono meccanicamente formule obsolete. Le ferrovie, così come quei lenti mezzi di trasporto rappresentati dai battelli a vapore, non hanno rovinato le nostre solitudini; al contrario, hanno intensificato la tranquillità dei luoghi più antichi, hanno creato nuovi rifugi e, cosa ancora più importante, ci hanno reso molto più facili i viaggi verso questi rifugi.
 
@@ -2715,11 +2715,11 @@ Yet another good we owe to railways occurs to me. They keep the small towns goin
 
 Don’t pester me with “economics” on that point; I know more economics than you, and I say that but for the railways the small towns would have gone to pieces. There never yet was a civilisation growing richer and improving its high roads in which the small towns did not dwindle. The village supplied the local market with bodily necessaries; the intellectual life, the civic necessities had to go into the large towns. It happened in the second and third centuries in Italy; it happened in France between Henri IV and the Revolution; it was happening here before 1830.
 
-Take those little paradises Ludlow and Leominster; consider Arundel, and please your memory with the admirable slopes of Whitchurch; grow contented in a vision of Ledbury, of Rye, or of Abingdon, or of Beccles with its big church over the river, or of Newport in the Isle of Wight, or of King’s Lynn, or of Lymington — you would not have any of these but for the railway, and there are 1800 such in [[England]] — one for every tolerable man.
+Take those little paradises Ludlow and Leominster; consider Arundel, and please your memory with the admirable slopes of Whitchurch; grow contented in a vision of Ledbury, of Rye, or of Abingdon, or of Beccles with its big church over the river, or of Newport in the Isle of Wight, or of King’s Lynn, or of Lymington — you would not have any of these but for the railway, and there are 1800 such in [[settings/england|England]] — one for every tolerable man.
 
-Valognes in the Cotentin, Bourg-d’Oysan down in the Dauphiné in its vast theatre of upright hills, St. Julien in the Limousin, Aubusson-in-the-hole, Puy (who does not connect beauty with the word?), Mansle in the Charente country — they had all been half dead for over a century when the railway came to them and made them jolly, little, trim, decent, self-contained, worthy, satisfactory, genial, comforting and human [Greek: politeiae], with clergy, upper class, middle class, poor, soldiers, yesterday’s news, a college, anti-Congo men, fools, strong riders, old maids, and all that makes a state. In [[England]] the railway brought in that beneficent class, the gentlemen; in France, that still more beneficent class, the Haute Bourgeoisie.
+Valognes in the Cotentin, Bourg-d’Oysan down in the Dauphiné in its vast theatre of upright hills, St. Julien in the Limousin, Aubusson-in-the-hole, Puy (who does not connect beauty with the word?), Mansle in the Charente country — they had all been half dead for over a century when the railway came to them and made them jolly, little, trim, decent, self-contained, worthy, satisfactory, genial, comforting and human [Greek: politeiae], with clergy, upper class, middle class, poor, soldiers, yesterday’s news, a college, anti-Congo men, fools, strong riders, old maids, and all that makes a state. In [[settings/england|England]] the railway brought in that beneficent class, the gentlemen; in France, that still more beneficent class, the Haute Bourgeoisie.
 
-I know what you are going to say; you are going to say that there were squires before the railways in [[England]]. Pray have you considered how many squires there were to go round? About half a dozen squires to every town, that is (say) four gentlemen, and of those four gentlemen let us say two took some interest in the place. It wasn’t good enough … and heaven help the country towns now if they had to depend on the great houses! There would be a smart dog-cart once a day with a small (vicious and servile) groom in it, an actor, a foreign money-lender, a popular novelist, or a newspaper owner jumping out to make his purchases and driving back again to his host’s within the hour. No, no; what makes the country town is the Army, the Navy, the Church, and the Law — especially the retired ones.
+I know what you are going to say; you are going to say that there were squires before the railways in [[settings/england|England]]. Pray have you considered how many squires there were to go round? About half a dozen squires to every town, that is (say) four gentlemen, and of those four gentlemen let us say two took some interest in the place. It wasn’t good enough … and heaven help the country towns now if they had to depend on the great houses! There would be a smart dog-cart once a day with a small (vicious and servile) groom in it, an actor, a foreign money-lender, a popular novelist, or a newspaper owner jumping out to make his purchases and driving back again to his host’s within the hour. No, no; what makes the country town is the Army, the Navy, the Church, and the Law — especially the retired ones.
 
 Then think of the way in which the railways keep a good man’s influence in a place and a bad man’s out of it. Your good man loves a country town, but he must think, and read, and meet people, so in the last century he regretfully took a town house and had his little house in the country as well. Now he lives in the country and runs up to town when he likes.
 
@@ -2740,11 +2740,11 @@ Mi viene in mente un altro grande merito che dobbiamo ai treni: sono loro a mant
 
 Non tormentatemi con discorsi sull’“economia” su questo argomento: so più cose sull’economia di voi, e lo dico perché senza le ferrovie i piccoli centri sarebbero andati in rovina. Non esiste mai stata una civiltà che si sia arricchita e abbia migliorato le sue infrastrutture stradali senza che i piccoli centri diminuissero di importanza. Il villaggio forniva al mercato locale le necessità quotidiane; la vita culturale e le esigenze civiche, invece, dovevano essere soddisfatte nelle città più grandi. Questo è successo nel II e III secolo in Italia; è successo in Francia tra Enrico IV e la Rivoluzione; stava succedendo anche qui prima del 1830.
 
-Prendete quei piccoli paradisi che sono Ludlow e Leominster; considerate Arundel, e lasciatevi deliziare dalle incantevoli colline di Whitchurch; accontentatevi della visione di Ledbury, Rye, Abingdon, o Beccles con la sua grande chiesa sul fiume, o Newport sull’Isola di Wight, o King’s Lynn, o Lymington. Non avreste potuto godere di nessuno di questi luoghi senza i treni; e in [[England|Inghilterra]] ce ne sono 1800: uno per ogni uomo che desideri viaggiare comodamente.
+Prendete quei piccoli paradisi che sono Ludlow e Leominster; considerate Arundel, e lasciatevi deliziare dalle incantevoli colline di Whitchurch; accontentatevi della visione di Ledbury, Rye, Abingdon, o Beccles con la sua grande chiesa sul fiume, o Newport sull’Isola di Wight, o King’s Lynn, o Lymington. Non avreste potuto godere di nessuno di questi luoghi senza i treni; e in [[settings/england|Inghilterra]] ce ne sono 1800: uno per ogni uomo che desideri viaggiare comodamente.
 
-Valognes nel Cotentin, Bourg-d’Oysan nel Dauphiné, con i suoi vasti altopiani eretti, Saint-Julien nel Limousin, Aubusson-in-the-hole, Puy. Tutti questi luoghi erano ormai “semi-morti” da oltre un secolo quando il treno arrivò e li trasformò in comunità vivaci, ordinate, dignitose, autonome, degne, soddisfacenti, accoglienti e umane. Con preti, classe alta, classe media, poveri, soldati, notizie di giornale, un college, persone contrarie al Congo, sciocchi, cavalieri abili, vecchie zitelle, e tutto ciò che costituisce uno stato. In [[England|Inghilterra]] il treno portò con sé quella classe benefica dei gentiluomini; in Francia, una classe ancora più benefica: l’Alta Borghesia.
+Valognes nel Cotentin, Bourg-d’Oysan nel Dauphiné, con i suoi vasti altopiani eretti, Saint-Julien nel Limousin, Aubusson-in-the-hole, Puy. Tutti questi luoghi erano ormai “semi-morti” da oltre un secolo quando il treno arrivò e li trasformò in comunità vivaci, ordinate, dignitose, autonome, degne, soddisfacenti, accoglienti e umane. Con preti, classe alta, classe media, poveri, soldati, notizie di giornale, un college, persone contrarie al Congo, sciocchi, cavalieri abili, vecchie zitelle, e tutto ciò che costituisce uno stato. In [[settings/england|Inghilterra]] il treno portò con sé quella classe benefica dei gentiluomini; in Francia, una classe ancora più benefica: l’Alta Borghesia.
 
-So cosa stai per dire: dirai che in [[England|Inghilterra]] esistevano già scudieri prima dell’avvento delle ferrovie. Ma hai mai pensato a quante fossero realmente queste figure? Circa mezza dozzina di scudieri per ogni città, cioè quattro gentiluomini. E tra questi, diciamo che solo due mostrassero un vero interesse per la comunità locale. Non era certo abbastanza. E che Dio aiuti le città di campagna se dovessero dipendere dalle grandi famiglie! Ci sarebbe soltanto una bella carrozza ogni giorno, con un cocchiere piccolo, meschino e servile a bordo; poi un attore, un usuraio straniero, uno scrittore popolare o il proprietario di un giornale che scendeva per fare le sue compere e tornava subito dal suo ospite entro un’ora. No, no: ciò che rende davvero vivace una città di campagna sono l’Esercito, la Marina, la Chiesa e la Legge – soprattutto quelle persone in pensione.
+So cosa stai per dire: dirai che in [[settings/england|Inghilterra]] esistevano già scudieri prima dell’avvento delle ferrovie. Ma hai mai pensato a quante fossero realmente queste figure? Circa mezza dozzina di scudieri per ogni città, cioè quattro gentiluomini. E tra questi, diciamo che solo due mostrassero un vero interesse per la comunità locale. Non era certo abbastanza. E che Dio aiuti le città di campagna se dovessero dipendere dalle grandi famiglie! Ci sarebbe soltanto una bella carrozza ogni giorno, con un cocchiere piccolo, meschino e servile a bordo; poi un attore, un usuraio straniero, uno scrittore popolare o il proprietario di un giornale che scendeva per fare le sue compere e tornava subito dal suo ospite entro un’ora. No, no: ciò che rende davvero vivace una città di campagna sono l’Esercito, la Marina, la Chiesa e la Legge – soprattutto quelle persone in pensione.
 
 Pensate poi al modo in cui le ferrovie permettono a un uomo onesto di mantenere la propria influenza in una determinata località, mentre impediscono a un uomo malvagio di farlo. Quell’uomo onesto ama una città di provincia, ma deve pensare, leggere e incontrare gente; per questo, nel secolo scorso, ha preso con rammarico una casa in città e si è costruito anche una piccola casa in campagna. Ora vive in campagna e va in città quando ne ha voglia.
 
@@ -2765,13 +2765,13 @@ Per il resto, non posso descrivere in dettaglio le innumerevoli piccole vantaggi
 
 ON CONVERSATIONS IN TRAINS
 
-I MIGHT HAVE added in this list I have just made of the advantages of Railways, that Railways let one mix with one’s fellow-men and hear their continual conversation. Now if you will think of it, Railways are the only institutions that give us that advantage. In other places we avoid all save those who resemble us, and many men become in middle age like cabinet ministers, quite ignorant of their fellow-citizens. But in Trains, if one travels much, one hears every kind of man talking to every other and one perceives all [[England]].
+I MIGHT HAVE added in this list I have just made of the advantages of Railways, that Railways let one mix with one’s fellow-men and hear their continual conversation. Now if you will think of it, Railways are the only institutions that give us that advantage. In other places we avoid all save those who resemble us, and many men become in middle age like cabinet ministers, quite ignorant of their fellow-citizens. But in Trains, if one travels much, one hears every kind of man talking to every other and one perceives all [[settings/england|England]].
 
 It is on this account that I have always been at pains to note what I heard in this way, especially the least expected, most startling, and therefore most revealing dialogues, and as soon as I could to write them down, for in this way one can grow to know men.
 
 Thus I have somewhere preserved a hot discussion among some miners in Derbyshire (voters, good people, voters remember) whether the United States were bound to us as a colony “like Egypt.” And I once heard also a debate as to whether the word were Horizon or Horizon; this ended in a fight; and the Horizon man pushed the Horizon man out at Skipton, and wouldn’t let him get into the carriage again.
 
-Then again I once heard two frightfully rich men near Birmingham arguing why [[England]] was the richest and the Happiest Country in the world. Neither of these men was a gentleman but they argued politely though firmly, for they differed profoundly. One of them, who was almost too rich to walk, said it was because we minded our own affairs, and respected property and were law-abiding. This (he said) was the cause of our prosperity and of the futile envy with which foreigners regarded the homes of our working men. Not so the other: he thought that it was the Plain English sense of Duty that did the trick: he showed how this was ingrained in us and appeared in our Schoolboys and our Police: he contrasted it with Ireland, and he asked what else had made our Criminal Trials the model of the world? All this also I wrote down.
+Then again I once heard two frightfully rich men near Birmingham arguing why [[settings/england|England]] was the richest and the Happiest Country in the world. Neither of these men was a gentleman but they argued politely though firmly, for they differed profoundly. One of them, who was almost too rich to walk, said it was because we minded our own affairs, and respected property and were law-abiding. This (he said) was the cause of our prosperity and of the futile envy with which foreigners regarded the homes of our working men. Not so the other: he thought that it was the Plain English sense of Duty that did the trick: he showed how this was ingrained in us and appeared in our Schoolboys and our Police: he contrasted it with Ireland, and he asked what else had made our Criminal Trials the model of the world? All this also I wrote down.
 
 Then also once on a long ride (yes, “ride”. Why not?) through Lincolnshire I heard two men of the smaller commercial or salaried kind at issue. The first, who had a rather peevish face, was looking gloomily out of window and was saying, “Denmark has it: Greece has it — why shouldn’t we have it? Eh? America has it and so’s Germany — why shouldn’t we have it?” Then after a pause he added, “Even France has it — why haven’t we got it?” He spoke as though he wouldn’t stand it much longer, and as though France were the last straw.
 
@@ -2779,7 +2779,7 @@ The other man was excitable and had an enormous newspaper in his hand, and he an
 
 The other man said, “Ho! Do we?”
 
-The second man answered, “Yes: we do. What made [[England]]?”
+The second man answered, “Yes: we do. What made [[settings/england|England]]?”
 
 “Gord,” said the first man.
 
@@ -2868,15 +2868,15 @@ Mocks holy beauty and our desire returned.”
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Conversazioni sui treni
+Conversazioni sui treni
 
-Avrei potuto aggiungere, in questa lista appena creata sulle vantaggi dei treni, che essi permettono alle persone di interagire con i propri simili e ascoltare le loro conversazioni continue. Se ci pensate bene, i treni sono le uniche istituzioni che ci offrono questo vantaggio. In altri contesti evitiamo tutti tranne coloro che ci assomigliano, e molti uomini, arrivati alla mezza età, diventano come ministri: completamente ignoranti riguardo ai propri concittadini. Ma sui treni, se si viaggia spesso, si ascolta ogni tipo di persona parlare con gli altri e si può comprendere l’intera [[England|Inghilterra]].
+Avrei potuto aggiungere, in questa lista appena creata sulle vantaggi dei treni, che essi permettono alle persone di interagire con i propri simili e ascoltare le loro conversazioni continue. Se ci pensate bene, i treni sono le uniche istituzioni che ci offrono questo vantaggio. In altri contesti evitiamo tutti tranne coloro che ci assomigliano, e molti uomini, arrivati alla mezza età, diventano come ministri: completamente ignoranti riguardo ai propri concittadini. Ma sui treni, se si viaggia spesso, si ascolta ogni tipo di persona parlare con gli altri e si può comprendere l’intera [[settings/england|Inghilterra]].
 
 È per questa ragione che ho sempre fatto del mio meglio per annotare ciò che sentivo in questo modo, soprattutto i dialoghi meno previsti, più sorprendenti e quindi più rivelatori; non appena ne avevo l’opportunità, li trascrivevo, perché solo così si può davvero conoscere meglio le persone.
 
 Quindi, ho conservato da qualche parte una vivace discussione tra alcuni minatori del Derbyshire (elettori, brave persone, gli elettori se ne ricorderanno) su se gli Stati Uniti fossero legati a noi come una colonia “come l’Egitto”. Ho anche sentito una volta un dibattito riguardante il fatto che la parola da usare fosse “Horizon” o qualcos’altro; tutto si è concluso con una rissa: l’uomo che sosteneva la versione “Horizon” ha spinto via l’altro a Skipton e non gli ha permesso di salire di nuovo sul carro.
 
-Una volta, vicino a Birmingham, sentii due uomini terribilmente ricchi discutere su perché l’[[England|Inghilterra]] fosse il paese più ricco e felice del mondo. Nessuno dei due era un gentiluomo, ma discutevano in modo educato, sebbene con fermezza, poiché le loro opinioni erano profondamente diverse. Uno di loro, così ricco da quasi non riuscire a camminare, sosteneva che ciò fosse dovuto al fatto che noi ci occupiamo delle nostre faccende personali, rispettiamo la proprietà e osserviamo la legge. Questo, diceva, era la causa della nostra prosperità e dell’invidia vana che gli stranieri provano nei confronti delle condizioni di vita dei nostri lavoratori. L’altro, invece, riteneva che fosse il senso del dovere tipico dell’inglese comune a essere la vera ragione: spiegava come questo concetto fosse radicato in noi e si manifestasse nei nostri studenti delle scuole elementari e nella nostra polizia; lo contrapponeva all’Irlanda e chiedeva cosa altro potesse aver reso i nostri processi penali un modello per tutto il mondo. Anche di queste cose ho preso appunti.
+Una volta, vicino a Birmingham, sentii due uomini terribilmente ricchi discutere su perché l’[[settings/england|Inghilterra]] fosse il paese più ricco e felice del mondo. Nessuno dei due era un gentiluomo, ma discutevano in modo educato, sebbene con fermezza, poiché le loro opinioni erano profondamente diverse. Uno di loro, così ricco da quasi non riuscire a camminare, sosteneva che ciò fosse dovuto al fatto che noi ci occupiamo delle nostre faccende personali, rispettiamo la proprietà e osserviamo la legge. Questo, diceva, era la causa della nostra prosperità e dell’invidia vana che gli stranieri provano nei confronti delle condizioni di vita dei nostri lavoratori. L’altro, invece, riteneva che fosse il senso del dovere tipico dell’inglese comune a essere la vera ragione: spiegava come questo concetto fosse radicato in noi e si manifestasse nei nostri studenti delle scuole elementari e nella nostra polizia; lo contrapponeva all’Irlanda e chiedeva cosa altro potesse aver reso i nostri processi penali un modello per tutto il mondo. Anche di queste cose ho preso appunti.
 
 Durante un lungo viaggio attraverso il Lincolnshire, sentii due uomini discutere di qualcosa legato al mondo degli affari o alle professioni salariate. Il primo, dall’aspetto piuttosto irritabile, fissava cupamente fuori dalla finestra e diceva: “La Danimarca ce l’ha; la Grecia ce l’ha. Perché non dovremmo averla anche noi? Eh? Anche l’America e la Germania ce l’hanno. Perché non dovremmo averla?” Dopo una pausa aggiunse: “Anche la Francia ce l’ha. Perché non l’abbiamo ancora noi?” Parlava come se non potesse sopportare questa situazione per molto tempo, e come se la Francia fosse stata l’ultima goccia che aveva fatto traboccare il vaso.
 
@@ -2884,7 +2884,7 @@ L’altro uomo era molto eccitabile e teneva in mano un enorme giornale; rispose
 
 L’altro uomo disse: “Ho! Dobbiamo davvero farlo?”
 
-Il secondo uomo rispose: “Sì, lo facciamo. Cosa ha reso possibile l’esistenza di [[England|Inghilterra]]?”
+Il secondo uomo rispose: “Sì, lo facciamo. Cosa ha reso possibile l’esistenza di [[settings/england|Inghilterra]]?”
 
 “Gordo,” disse il primo uomo.
 
@@ -2947,13 +2947,13 @@ BALD (il suo tono divenne improvvisamente molto serio): È un uomo davvero nobil
 
 CAP (con ancora maggiore serietà): Può dirlo, signor Binder. Non fa distinzioni tra le persone: parla con me, con lei o con chiunque altro allo stesso modo.
 
-#Bald (in modo vago): Sì, sono davvero una brava gente! (All’improvviso…)
+Bald (in modo vago): Sì, sono davvero una brava gente! (All’improvviso…)
 
 È proprio Charlie Beresford!
 
 CAP (con più entusiasmo di quanto avesse mostrato fino ad allora): Dico proprio lo stesso, signor Binder! (Pensando per un momento alle caratteristiche di Lord Charles Beresford.) È coraggio, è proprio questo: il tipico coraggio britannico. (Con aria grave) Quel tipo di uomo, senza favoritismi.
 
-#"Bald: Ah! È il caso di dire “Bravo, Condor!”"
+"Bald: Ah! È il caso di dire “Bravo, Condor!”"
 
 CAP: Ah! Eccovi proprio qui, signor Binder.
 
@@ -2967,7 +2967,7 @@ Ricco delle meraviglie di questa conversazione, uscii, entrai nella sala d’att
 
 Ma mi è successo ciò che accade sempre dopo ogni sforzo letterario: l’entusiasmo è svanito, e davanti a me c’era la vita quotidiana. Sono uscito per svolgere il mio lavoro in quel luogo, ho incontrato persone del tutto ordinarie e forse, (il Tempo è così potente, ) ho dimenticato quelle creature fantastiche che avevo incontrato sul treno. In altre parole, per citare le meravigliose parole di Mr. Binyon:
 
-#Il mondo dei torti
+Il mondo dei torti
 
 “Beautà sacra e desiderio umano: un gioco di ironia.”
 
@@ -3025,7 +3025,7 @@ I do not say that Rabelais was not over-hasty both in his appearance and his dep
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Sul ritorno dei morti
+Sul ritorno dei morti
 
 Il motivo per cui i morti oggi non tornano più è la noia.
 
@@ -3055,9 +3055,9 @@ John Bowles, di Lombard Street, lesse quei cartelli e si arrabbiò terribilmente
 
 Peter Grierson, l’avvocato, era così di fretta e sopraffatto dal lavoro a cui si stava dedicando quella mattina (l’erogazione di 1323 sterline a una vedova con un tasso di interesse del 5 e 1/4%, [che chissà se sia davvero ragionevole!] garantito da alcune azioni della London and North-Western Railway) che lesse male l’annuncio e pensò che recitasse “Lezione su Rabelais presso la London School of Economics”. Per un momento si preoccupò all’idea che tanta carta venisse sprecata in tempo di guerra per un annuncio così insignificante, ma presto dimenticò tutta la faccenda e andò al ristorante “The Holborn”, dove pranzò comodamente in piedi al buffet, dopodiché passò due ore a giocare a domino e fumare sigari.
 
-# Sir Judson Pennefather, Ministro del Gabinetto e Segretario di Stato per
+Sir Judson Pennefather, Ministro del Gabinetto e Segretario di Stato per
 
-# Culto pubblico, letteratura e arti belle
+Culto pubblico, letteratura e arti belle
 
 Ma che cosa ho io a che fare con tutte queste persone assurde, sulle quali la notizia del ritorno di Rabelais ha avuto effetti così diversi? Che cosa abbiamo tu e io da spartire con uomini e donne che non contano, non possono contare, non vorranno mai contare, non dovrebbero contare, non hanno mai contato, non hanno mai fatto nulla. E per tutti i Demoni assetati che servono le lampade della caverna della Sibilla, non conteranno mai niente nel disegno delle cose, nemmeno quanto il piccolo polpastrello del mignolo di Rabelais! Che cosa sono loro, da interferire con questa grande, meravigliosa, confortevole e piacevole festa dell’ingegno a cui sto per portarvi? Sapete, vi sto conducendo ora nell’aula di lezione, vi sto ponendo ai piedi del maestro supremo di tutte le arti e delle divinazioni (per non parlare delle artigianalità, delle concordanze e degli integramenti), dell’insegnante dei saggi, del conforto per un mondo sofferente, del sollevatore degli stolti, dell’energizzatore dei pigri, del medico dei malati di gotta, del guida della gioventù, del compagno della mezza età, del vademecum degli anziani, sì, il conforto generale dell’umanità. Oh! Che cosa non starete per ascoltare ora! Se esistono fiumi in prati incantevoli, alture fresche d’estate, belle donne che conversano su prati lisci, o musica eseguita con abilità da artisti delicati all’ombra degli agrumi, se c’è ancora quel vino di Chinon, a quattro franchi la bottiglia (e ce n’è davvero, ne ho bevuto alla vigilia di Capodanno vicino a Saint-Gervais), insomma, se esistono questi conforti per i viventi, troverete il mio maestro Rabelais che vi trasmetterà lo spirito più profondo e vitale di tutte queste cose belle, il loro vero sapore e il loro potere salvifico, attraverso le parole ineguagliabili delle sue labbra regali. E così, ascolterete la vecchia saggezza offerta alla nostra misera generazione, per un’ora felice di vita giusta, e impareremo, almeno in questo caso, che il ritorno dei morti è stato accettato, che i Grandi Spiriti sono stati ricevuti e onorati.
 
@@ -3109,7 +3109,7 @@ Well, what must be must be, and what will be will be, and if the Rich are upon u
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Sulla soglia di una terribile rovina
+Sulla soglia di una terribile rovina
 
 Miei cari piccoli anglo-sassoni, celtiberiani e teutonico-latini strani. È giunto il momento di comunicarvi, trasmettervi e farvi conoscere quelle terribili conclusioni e orribili previsioni che derivano dalle condizioni davvero abominevoli del contesto sociale in cui voi, io e tutti questi poveri esseri siamo costretti a trascorrere la nostra misera esistenza.
 
@@ -3217,7 +3217,7 @@ The unhappy story need not be pursued. Like every misfortune it bred a crop of o
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Su un uomo ricco che soffriva
+Su un uomo ricco che soffriva
 
 Oggi non si può rendere un servizio più grande di quello di distinguere, in tutto ciò che scriviamo, tra il Capitalismo – risultato di uno sviluppo economico cieco – e le persone e i motivi di coloro che per caso possiedono la maggior parte dei mezzi di produzione, quando una pericolosa confusione di idee minaccia di causare un allontanamento tra le classi sociali.
 
@@ -3306,13 +3306,13 @@ Well, then there was once a little boy whose name was Joseph, and now I have lau
 
 When little Joseph was born, his father (who could sketch remarkably well and had rowed some years before in his College boat) was congratulated very warmly by his friends. One lady wrote to him: “Your son cannot fail to add distinction to an already famous name” — for little Joseph’s father’s uncle had been an Under Secretary of State. Then another, the family doctor, said heartily, “Well, well, all doing excellently; another Duggleton” (for little Joseph’s father’s family were Duggletons) “and one that will keep the old flag flying.”
 
-Little Joseph’s father’s aunt whose husband had been the Under Secretary, wrote and said she was longing to see the last Duggleton, and hinted that a Duggleton the more was sheer gain to This [[England]] which Our Fathers Made. His father put his name down that very day for the Club and met there Baron Urscher, who promised every support “if God should spare him to the time when he might welcome another Duggleton to these old rooms.” The baron then recalled the names of Charlie Fox and Beau Rimmel, that was to say, Brummel. He said an abusive word or two about Mr. Gladstone, who was then alive, and went away.
+Little Joseph’s father’s aunt whose husband had been the Under Secretary, wrote and said she was longing to see the last Duggleton, and hinted that a Duggleton the more was sheer gain to This [[settings/england|England]] which Our Fathers Made. His father put his name down that very day for the Club and met there Baron Urscher, who promised every support “if God should spare him to the time when he might welcome another Duggleton to these old rooms.” The baron then recalled the names of Charlie Fox and Beau Rimmel, that was to say, Brummel. He said an abusive word or two about Mr. Gladstone, who was then alive, and went away.
 
 Little Joseph for many long weeks continued to seem much like others, and if he had then died (as some cousins hoped he would, and as, indeed, there seemed to be a good chance on the day that he swallowed the pebble at Bournemouth) I should have no more to write about. There would be an end of little Joseph so far as you and I are concerned; and as for the family of Duggleton, why any one but the man who does Society Notes in the Evening Yankee should write about them I can’t conceive.
 
 Well, but little Joseph did not die — not just then, anyhow. He lived to learn to speak, and to talk, and to put out his tongue at visitors, let alone interrupting his parents with unpleasing remarks and telling lies. It was early observed that he did all these things with a je-ne-scais-quoy and a verve quite different from the manner of his little playmates. When one day he moulded out, flattened and unshaped the waxen nose of a doll of his, it was apparent to all that it had been very skilfully done, and showed a taste for modelling, and the admiration this excited was doubled when it was discovered that he had called the doll “Aunt Garry”. He took also to drawing things with a pencil as early as eight years old, and for this talent his father’s house was very suitable, for Mrs. Duggleton had nice Louis XV furniture, all white and gold, and a quaint new brown-paper medium on her walls. Colour, oddly enough, little Joseph could not pretend to; but he had a remarkably fine ear, and was often heard, before he was ten years old, singing some set of words or other over and over again very loudly upon the staircase to a few single notes.
 
-It seems incredible, but it is certainly true, that he even composed verses at the age of eleven, wherein “land” and “strand”, “more” and “shore” would frequently recur, the latter being commonly associated with [[England]], to which, his beloved country, the intelligent child would add the epithet “old”.
+It seems incredible, but it is certainly true, that he even composed verses at the age of eleven, wherein “land” and “strand”, “more” and “shore” would frequently recur, the latter being commonly associated with [[settings/england|England]], to which, his beloved country, the intelligent child would add the epithet “old”.
 
 He was, a short time after this, discovered playing upon words and would pun upon “rain” and “reign”, as also upon “Wales” the country (or rather province, for no patriot would admit a Divided Crown) and “Whales” — the vast Oceanic or Thalassic mammals that swim in Arctic waters.
 
@@ -3326,7 +3326,7 @@ The three years that he spent at this establishment were among the happiest in t
 
 He was twice upon the point of securing the prize for Biblical studies and did indeed take that for French and arithmetic. Mr. Filbury assured his father that he had the very highest hopes of his career at the University. “Joseph,” he wrote, “is a fine, highly tempered spirit, one to whom continual application is difficult, but who is capable of high flights of imagination not often reached by our sturdy English boyhood…. I regret that I cannot see my way to reducing the charge for meat at breakfast. Joseph’s health is excellent, and his scholarship, though by no means ripe, shows promise of that …” and so forth.
 
-I have no space to give the letter in full; it betrays in every line the effect this gifted youth had produced upon one well acquainted with the marks of future greatness; — for Mr. Filbury had been the tutor and was still the friend of the Duke of Buxton, the sometime form-master of the present Bishop of Lewes and the cousin of the late Joshua Lambkin of [[Oxford]].
+I have no space to give the letter in full; it betrays in every line the effect this gifted youth had produced upon one well acquainted with the marks of future greatness; — for Mr. Filbury had been the tutor and was still the friend of the Duke of Buxton, the sometime form-master of the present Bishop of Lewes and the cousin of the late Joshua Lambkin of [[settings/oxford|Oxford]].
 
 Little Joseph’s entry into college life abundantly fulfilled the expectations held of him. The head of his college wrote to his great-aunt (the wife of the Under Secretary of State) “… he has something in him of what men of Old called prophecy and we term genius …”, old Dr. Biddlecup the Dean asked the boy to dinner, and afterwards assured his father that little Joseph was the image of William Pitt, whom he falsely pretended to have seen in childhood, and to whom the Duggletons were related through Mrs. Duggleton’s grandmother, whose sister had married the first cousin of the Saviour of Europe.
 
@@ -3338,7 +3338,7 @@ After this failure he went home, and on his father’s advice, attempted politic
 
 Sir William Mackle, who had watched the boy with the tenderest interest and listened to his fancied experiences with a father’s patience, ordered complete rest and change, and recommended the South of France; he was sent thither with a worthless friend or rather dependent, who permitted the lad to gamble and even to borrow money, and it was this friend to whom Sir William (in his letter to the Honourable Mr. Duggleton acknowledging receipt of his cheque) attributed the tragedy that followed.
 
-“Had he not,” wrote the distinguished physician, “permitted our poor Joseph to borrow money of him; had he resolutely refused to drink wine at dinner; had he locked Joseph up in his room every evening at the opening hour of the Casino, we should not have to deplore the loss of one of [[England]]’s noblest.” Nor did the false friend make things easier for the bereaved father by suggesting ere twelve short months had elapsed that the sums Joseph had borrowed of him should be repaid.
+“Had he not,” wrote the distinguished physician, “permitted our poor Joseph to borrow money of him; had he resolutely refused to drink wine at dinner; had he locked Joseph up in his room every evening at the opening hour of the Casino, we should not have to deplore the loss of one of [[settings/england|England]]’s noblest.” Nor did the false friend make things easier for the bereaved father by suggesting ere twelve short months had elapsed that the sums Joseph had borrowed of him should be repaid.
 
 Joseph, one fatal night, somewhat heated by wine, had heard a Frenchman say to an Italian at his elbow certain very outrageous things about one Mazzini. The pair were discussing a local bookmaker, but the boy, whose passion for Italian unity is now well known, imagined that the Philosopher and Statesman was in question; he fell into such a passion and attacked these offensive foreigners with such violence as to bring on an attack from which he did not recover: his grave now whitens the hillside of the Monte Resorto (in French Mont-resort).
 
@@ -3363,13 +3363,13 @@ Beh, c'era una volta un bambino di nome Joseph. Ora che l’ho presentato a voi,
 
 Quando nacque il piccolo Joseph, suo padre – che disegnava con grande abilità e aveva remato alcuni anni prima nella barca del proprio college – ricevette calorose congratulazioni dai suoi amici. Una signora gli scrisse: “Vostro figlio sicuramente aggiungerà lustro a un nome già famoso”, poiché lo zio di suo padre era stato Vicesegretario di Stato. Un altro, il medico di famiglia, disse con entusiasmo: “Benissimo, tutto va ottimamente; un altro Duggleton, ” poiché la famiglia di suo padre apparteneva ai Duggleton, “e uno che farà sì che quella vecchia bandiera continui a sventolare”.
 
-La zia del padre di piccolo Joseph, il cui marito era stato Vicesegretario, scrisse dicendo di non vedere l’ora di incontrare l’ultimo membro della famiglia Duggleton, e insinuò che ogni nuovo Duggleton rappresentasse un vero vantaggio per questa [[England|Inghilterra]] che i nostri antenati avevano fondato. Quel stesso giorno, il padre di piccolo Joseph iscrisse il proprio nome al club e lì incontrò il barone Urscher, il quale promise tutto il suo sostegno “se Dio gli avesse concesso la vita fino al momento in cui avrebbe potuto accogliere un altro Duggleton in queste vecchie stanze”. Il barone menzionò poi i nomi di Charlie Fox e Beau Rimmel, ovvero Brummel. Disse anche alcune parole offensive su Mr. Gladstone, che all’epoca era ancora vivo, e se ne andò.
+La zia del padre di piccolo Joseph, il cui marito era stato Vicesegretario, scrisse dicendo di non vedere l’ora di incontrare l’ultimo membro della famiglia Duggleton, e insinuò che ogni nuovo Duggleton rappresentasse un vero vantaggio per questa [[settings/england|Inghilterra]] che i nostri antenati avevano fondato. Quel stesso giorno, il padre di piccolo Joseph iscrisse il proprio nome al club e lì incontrò il barone Urscher, il quale promise tutto il suo sostegno “se Dio gli avesse concesso la vita fino al momento in cui avrebbe potuto accogliere un altro Duggleton in queste vecchie stanze”. Il barone menzionò poi i nomi di Charlie Fox e Beau Rimmel, ovvero Brummel. Disse anche alcune parole offensive su Mr. Gladstone, che all’epoca era ancora vivo, e se ne andò.
 
 Per molte settimane consecutive, il piccolo Joseph sembrò esattamente come tutti gli altri; e se in quel periodo fosse morto (come alcuni cugini speravano che accadesse, e infatti c’erano buone probabilità che ciò avvenisse il giorno in cui ingoiò quella pietra a Bournemouth), non avrei più nulla da scrivere su di lui. Per quanto ci riguarda, la storia del piccolo Joseph si sarebbe conclusa lì; e per quanto riguarda la famiglia Duggleton, beh, non riesco proprio a capire perché qualcuno, tranne l’autore di “Social Notes in the Evening Yankee”, dovrebbe scrivere di loro.
 
 Beh, ma il piccolo Joseph non morì, almeno non in quel momento. Visse abbastanza a lungo da imparare a parlare, a conversare, e persino ad allungare la lingua davanti ai visitatori; per non parlare del fatto che interrompeva spesso i suoi genitori con commenti sgradevoli o raccontando bugie. Fin da piccolo si notò che faceva tutte queste cose con un’aria di sfida e una vivacità completamente diverse rispetto ai suoi coetanei. Un giorno, quando modellò il naso di cera di una sua bambola, tutti notarono che l’opera era stata eseguita con grande abilità, dimostrando così un certo talento nel modellare. E l’ammirazione per lui aumentò ancora di più quando si scoprì che aveva chiamato la bambola “Zia Garry”. Fin dall’età di otto anni iniziò anche a disegnare con la matita; per questo suo talento, la casa di suo padre era davvero l’ambiente ideale: la signora Duggleton possedeva infatti bellissimi mobili in stile Luigi XV, tutti bianchi e dorati, e sulle pareti aveva appese delle cartine da parati color marrone. Stranamente, il piccolo Joseph non riusciva a imitare i colori. Ma aveva un orecchio musicale eccezionale; spesso, prima ancora di compiere dieci anni, si sentiva cantare ad alta voce, ripetendo sempre le stesse parole su poche note soltanto.
 
-Sembra incredibile, ma è certamente vero: all’età di undici anni compose già versi in cui parole come “terra” e “spiaggia”, “di più” e “costa” ricorrevano frequentemente; quest’ultima veniva spesso associata a [[England|Inghilterra]], la sua amata patria, alla quale il bambino intelligente aggiungeva l’epiteto “antica”.
+Sembra incredibile, ma è certamente vero: all’età di undici anni compose già versi in cui parole come “terra” e “spiaggia”, “di più” e “costa” ricorrevano frequentemente; quest’ultima veniva spesso associata a [[settings/england|Inghilterra]], la sua amata patria, alla quale il bambino intelligente aggiungeva l’epiteto “antica”.
 
 Poco dopo, fu scoperto mentre giocava con le parole, facendo battute sulle combinazioni “pioggia” e “regno”, così come su “Galles”, il paese (o meglio la provincia, poiché nessun patriota ammetterebbe una Corona Divisa), e su “balene”, quei vasti mammiferi oceanici che nuotano nelle acque artiche.
 
@@ -3383,7 +3383,7 @@ I tre anni che trascorse in questo luogo furono tra i più felici nella vita del
 
 Fu due volte sul punto di vincere il premio per gli studi biblici; in realtà lo vinse per le materie di francese e aritmetica. Il signor Filbury assicurò a suo padre che aveva grandi aspettative riguardo alla sua carriera all’università. “Joseph,” scrisse, “è un ragazzo nobile e dal carattere equilibrato; per lui è difficile impegnarsi costantemente, ma è capace di raggiungere vette elevate dell’immaginazione, qualcosa che i nostri robusti ragazzi inglesi di solito non riescono a fare. Mi dispiace molto, ma non riesco a trovare un modo per ridurre il prezzo della carne a colazione. La salute di Joseph è eccellente, e le sue capacità accademiche, sebbene ancora immature, promettono molto, ” e così via.
 
-Non ho spazio sufficiente per riportare l’intera lettera; in ogni sua riga si rivela l’influenza che questo giovane dotato ebbe su chi conosceva bene i segni di una futura grandezza. Poiché il signor Filbury era stato l’insegnante e continuava a essere l’amico del Duca di Buxton, un tempo insegnante di musica dell’attuale Vescovo di Lewes, nonché cugino del defunto Joshua Lambkin di [[Oxford]].
+Non ho spazio sufficiente per riportare l’intera lettera; in ogni sua riga si rivela l’influenza che questo giovane dotato ebbe su chi conosceva bene i segni di una futura grandezza. Poiché il signor Filbury era stato l’insegnante e continuava a essere l’amico del Duca di Buxton, un tempo insegnante di musica dell’attuale Vescovo di Lewes, nonché cugino del defunto Joshua Lambkin di [[settings/oxford|Oxford]].
 
 L’ingresso di piccolo Joseph nella vita universitaria soddisfece ampiamente le aspettative riposte in lui. Il rettore del suo college scrisse a sua prozia (la moglie dell’Vice Segretario di Stato): “, in lui c’è qualcosa di ciò che un tempo gli uomini chiamavano ‘profezia’, e noi definiamo genio, ” Il vecchio decano, il dottor Biddlecup, invitò il ragazzo a cena e in seguito assicurò al suo padre che piccolo Joseph era l’immagine stessa di William Pitt, di cui fingeva falsamente di averlo conosciuto da bambino; inoltre, i Duggleton erano imparentati con William Pitt attraverso la nonna di Mrs. Duggleton, la cui sorella aveva sposato il cugino di primo grado del “Salvatore d’Europa”.
 
@@ -3395,7 +3395,7 @@ Dopo questo fallimento tornò a casa e, su consiglio di suo padre, provò ad imp
 
 Sir William Mackle, che aveva osservato il ragazzo con grande interesse e ascoltato le sue fantasiose storie con la pazienza di un padre, ordinò che si prendesse completo riposo e si cambiasse abbigliamento, consigliando il Sud della Francia come luogo adatto. Il ragazzo fu inviato lì insieme a un amico inutile, o meglio, una persona dipendente da lui; quest’ultimo permetteva al giovane di giocare d’azzardo e persino di prendere in prestito denaro. Fu proprio questo amico che Sir William, nella sua lettera all’onorevole signor Duggleton per ringraziarlo della ricezione del suo assegno, attribuì alla tragedia che seguì.
 
-“Se non avesse,” scrisse il rinomato medico, “permesso al nostro povero Joseph di prendere in prestito denaro da lui; se si fosse rifiutato con decisione di bere vino a cena; se avesse rinchiuso Joseph nella sua stanza ogni sera all’apertura del Casino, non dovremmo ora lamentarci della perdita di uno dei più nobili cittadini d’[[England|Inghilterra]]”. Inoltre, quel falso amico non facilitò affatto le cose al padre in lutto, suggerendo addirittura, prima ancora che trascorressero dodici mesi, che i soldi presi in prestito da Joseph dovessero essere restituiti.
+“Se non avesse,” scrisse il rinomato medico, “permesso al nostro povero Joseph di prendere in prestito denaro da lui; se si fosse rifiutato con decisione di bere vino a cena; se avesse rinchiuso Joseph nella sua stanza ogni sera all’apertura del Casino, non dovremmo ora lamentarci della perdita di uno dei più nobili cittadini d’[[settings/england|Inghilterra]]”. Inoltre, quel falso amico non facilitò affatto le cose al padre in lutto, suggerendo addirittura, prima ancora che trascorressero dodici mesi, che i soldi presi in prestito da Joseph dovessero essere restituiti.
 
 Una notte fatale, un po' ebbro di vino, Joseph sentì un francese dire a un italiano, proprio accanto a lui, cose molto offensive su Mazzini. I due stavano discutendo di un bookmaker locale, ma il ragazzo, la cui passione per l’unità italiana è ormai ben nota, pensò che si stesse parlando del filosofo e statista stesso; fu preso da una tale furia che attaccò con violenza quei stranieri offensivi, fino a subire un colpo dal quale non si riprese mai più: la sua tomba ora imbianca il versante della collina di Monte Resorto.
 
@@ -3579,7 +3579,7 @@ Mahmoud was so pleased with this song that he wrote it down, a thing he only did
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Su un uomo protetto da un altro uomo
+Su un uomo protetto da un altro uomo
 
 C'era una volta un uomo di nome Mahmoud. Aveva anche altri nomi, come Ali, Akbar e Shmaeil, ma non vi annoierò con questi, perché nelle storie molto brevi è importante evitare di confondere il lettore. Me ne sono assicurato grazie a molte autorità, alcune delle quali guadagnano molto denaro scrivendo storie brevi, e tutte sanno molto bene come queste dovrebbero essere scritte.
 
@@ -3595,13 +3595,13 @@ Un giorno, in questa parte del mondo arrivò un uomo di nome Smith. Era vestito 
 
 “Sembri essere un uomo molto ricco.”
 
-# E Smith disse:
+E Smith disse:
 
 “Sì,” disse, e aprì la sua borsa mostrando una grande quantità di cose. Mahmoud ne fu molto felice e sorpreso; considerato il clima in cui si trovavano, tirò fuori un gran numero di perle raccolte dal mare e le diede a Smith, che gli concesse una pistola, ma di scarsa qualità; lui stesso, Smith, tenne per sé un fucile migliore. Poi Smith si sedette ad aspettare per circa sei mesi, vivendo delle provviste che aveva portato con sé, fino a quando Mahmoud non gli disse:
 
 “Cosa sei venuto a fare qui?”
 
-# E Smith disse:
+E Smith disse:
 
 “Per essere onesto con te, sono venuto per proteggerti.”
 
@@ -3629,13 +3629,13 @@ Tuttavia, Smith si ricordò che era lì per proteggere Mahmoud; strinse i denti,
 
 Mahmoud rimase così sorpreso che corse verso Smith e lo rotolò più volte a terra. Poi si separarono, entrambi senza fiato, e Smith disse:
 
-# Sarai protetto o no?
+Sarai protetto o no?
 
 Mahmoud disse che avrebbe dovuto essere felice. Inoltre, aggiunse di aver dato la sua parola che sarebbe stato protetto, e che non era il tipo da rompere le promesse fatte.
 
 Dopo di ciò prese Smith per la mano e la scosse su e giù per circa cinque minuti, fino a quando Smith non rimase completamente stordito.
 
-# Quando divennero di nuovo amici… Smith disse a Mahmoud:
+Quando divennero di nuovo amici… Smith disse a Mahmoud:
 
 “Non andrai mai nel mare per portarmi altre perle?”
 
@@ -3717,7 +3717,7 @@ Thus miserably perished Peter and Paul, the one in the thirtieth, the other in t
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Sulle debite nazionali (che sono cose immaginarie e altre realtà dello Stato)
+Sulle debite nazionali (che sono cose immaginarie e altre realtà dello Stato)
 
 Un giorno, Pietro e Paolo. Li conoscevo entrambi, quei cari ragazzi: Pietro forse un po’ selvaggio, Paolo un po’ presuntuoso, ma non importa. Un giorno, insomma, Pietro e Paolo (che vivevano insieme in stanze vicino a Southampton Row, a Bloomsbury, un posto davvero delizioso) stavano parlando delle loro faccende personali.
 
@@ -3778,11 +3778,11 @@ Then there was a nasty drunken chap down Wapping way who had seen better days; h
 
 There is yet another view that to seek after acquaintance with men of position in some way hurts one’s own soul, and that to strain towards our superiors, to mingle our society with their own, is unworthy, because it is destructive of something peculiar to ourselves. But surely there is implanted in man an instinct which leads him to all his noblest efforts and which is, indeed, the motive force of religion, the instinct by which he will ever seek to attain what he sees to be superior to him and more worthy than the things of his common experience. It seems to be proper, therefore, that no man should struggle against the very natural attraction which radiates from superior rank, and I will boldly affirm that he does his country a good service who submits to this force.
 
-The just appetite for rank gives rise to two kinds of duty, one or the other of which each of us in his sphere is bound to regard. There is first for much the greater part of men the duty of showing respect and deference to men of title, by which I do not mean only Lords absolute (which are Barons, Viscounts, Earls, Marquises and Dukes), but also Lords in gross, that is the whole body of lords, including lords by courtesy, ladies, their wives and mothers, honourables and cousins — especially heirs of Lords, and to some extent Baronets as well. Secondly, there is the duty of those few within whose power it lies to become Lords, Lords to become, lest the aristocratic element in our Constitution should decline. The most obvious way of doing one’s duty in this regard if one is wealthy is to purchase a peerage, or a Baronetcy at the least, and when I consider how very numerous are the fortunes to which a sum of twenty or thirty thousand pounds is not really a sacrifice, and how few of their possessors exercise a tenacious effort to acquire rank by the disbursement of money, I cannot but fear for the future of the country! It is no small sign of our times that we should read so continually of large bequests to public charities made by men who have had every opportunity for entering the Upper House but who preferred to remain unnoted in the North of [[England]] and to leave their posterity no more dignified than they were themselves.
+The just appetite for rank gives rise to two kinds of duty, one or the other of which each of us in his sphere is bound to regard. There is first for much the greater part of men the duty of showing respect and deference to men of title, by which I do not mean only Lords absolute (which are Barons, Viscounts, Earls, Marquises and Dukes), but also Lords in gross, that is the whole body of lords, including lords by courtesy, ladies, their wives and mothers, honourables and cousins — especially heirs of Lords, and to some extent Baronets as well. Secondly, there is the duty of those few within whose power it lies to become Lords, Lords to become, lest the aristocratic element in our Constitution should decline. The most obvious way of doing one’s duty in this regard if one is wealthy is to purchase a peerage, or a Baronetcy at the least, and when I consider how very numerous are the fortunes to which a sum of twenty or thirty thousand pounds is not really a sacrifice, and how few of their possessors exercise a tenacious effort to acquire rank by the disbursement of money, I cannot but fear for the future of the country! It is no small sign of our times that we should read so continually of large bequests to public charities made by men who have had every opportunity for entering the Upper House but who preferred to remain unnoted in the North of [[settings/england|England]] and to leave their posterity no more dignified than they were themselves.
 
 There is a yet more restricted class to whom it is open to become Lords by sheer merit. The one by gallant conduct in the field, another by a pretty talent for verse, a third by scientific research. And if any of my readers happen to be a man of this kind and yet hesitate to undertake the effort required of him, I would point out that our Constitution in its wisdom adds certain very material advantages to a peerage of this kind. It is no excuse for a man of military or scientific eminence to say that his income would not enable him to maintain such a dignity. Parliament is always ready to vote a sufficient grant of money, and even were it not so, it is quite possible to be a Lord and yet to be but poorly provided with the perishable goods of this world, as is very clearly seen in the case of no fewer than eighty-two Barons, fourteen Earls, and three dukes, a list of whom I had prepared for printing in these directions but have most unfortunately mislaid.
 
-Again, even if one’s private means be small, and if Parliament by some neglect omit to endow one’s new splendour, the common sense of [[England]] will come to the help of any man so situated if he is worth his salt. He will with the greatest ease obtain positions of responsibility and emolument, notably upon the directorate of public companies, and can often, if he finds his salary insufficient, persuade his fellow-directors to increase it, whether by threatening them with exposure or by some other less drastic and more convivial means.
+Again, even if one’s private means be small, and if Parliament by some neglect omit to endow one’s new splendour, the common sense of [[settings/england|England]] will come to the help of any man so situated if he is worth his salt. He will with the greatest ease obtain positions of responsibility and emolument, notably upon the directorate of public companies, and can often, if he finds his salary insufficient, persuade his fellow-directors to increase it, whether by threatening them with exposure or by some other less drastic and more convivial means.
 
 If after reading these lines there is anyone who still doubts the attitude that an honest man should take upon this matter, it is enough to point out in conclusion how Providence itself appears to have designed the whole hierarchy of Lords with a view to tempting man higher and ever higher. Thus, if some reader of this happens to be a baron, he might think perhaps that it is not worth a further effort to receive another grade of distinction. He would be wrong, for such an advance gives a courtesy title to his daughters; one more step and the same benefit accrues to his sons. After that there is indeed a hiatus, nor have I ever been able to see what advantage is held out to the viscount who desires to become a marquis — unless, indeed, it be marquises that become viscounts. Anyhow, it is the latter title which is the less English and the less manly and which I am glad to hear it is proposed to abolish by a short, one-clause bill in the next Session of Parliament. Above these, the dukes in the titles of their wives and the mode in which they are addressed stand alone. There is, therefore, no stage in a man’s upward progress upon this ancient and glorious ladder where he will not find some great reward for the toil of ascending. In view of these things, I for my part hope, in common with many another, that the foolish pledge given some years ago when the Liberal Party was in opposition, that it would create no more Lords, will be revised now that it has to consider the responsibilities of office; a revision for which there is ample precedent in the case of other pledges which were as rashly made but of which a reconsideration has been found necessary in practice.
 
@@ -3791,7 +3791,7 @@ NOTE. — I find I am wrong upon Viscounts, but as I did not discover this until
 
 <span class="qlang-split" data-lang="it"></span>
 
-# sui signori
+sui signori
 
 “SAEPE MIRATUS SUM, ” Spesso mi sono chiesto perché agli uomini venga rimproverato il desiderio di conoscere persone di alto rango sociale. È certamente giusto che un uomo venga biasimato per aver aderito o condiviso ideali che non sono i suoi; ma chi semplicemente rispetta un nobile non compie nulla di così grave. E non capisco davvero perché non dovrebbe farlo.
 
@@ -3805,11 +3805,11 @@ C'era poi un tipo ubriaco e sgradevole che abitava nella zona di Wapping; aveva 
 
 Esiste un'altra opinione secondo cui cercare di entrare in contatto con persone di rango influente possa in qualche modo danneggiare l’anima stessa dell’individuo; inoltre, sforzarsi di avvicinarsi ai propri superiori e mescolare la propria vita alla loro potrebbe essere considerato indegno, poiché tale comportamento distruggerebbe qualcosa di specifico e prezioso che appartiene a noi stessi. Tuttavia, è certo che nell’uomo esista un istinto che lo spinge verso i più nobili sforzi e che rappresenta effettivamente la forza motrice della religione: quell’istinto che lo spinge costantemente a cercare di raggiungere ciò che ritiene superiore a sé stesso e più degno delle cose comuni della sua esperienza quotidiana. Pertanto, sembra giusto che nessuno si opponga a questa attrazione naturale che deriva dal rango sociale superiore; anzi, affermo con coraggio che chi si sottomette a questa forza sta facendo un bene alla propria nazione.
 
-Un legittimo desiderio di raggiungere posizioni sociali elevate genera due tipi di doveri, e ciascuno di noi, nel proprio ambito, è tenuto a rispettarne almeno uno. Per la stragrande maggioranza delle persone, il primo dovere consiste nel mostrare rispetto e deferenza verso coloro che possiedono titoli nobiliari; con ciò non intendo soltanto i Lord assoluti (baroni, visconti, conti, marchesi e duchi), ma anche l’intera classe nobiliare, inclusi i lord per cortesia, le dame, loro mogli e madri, gli onorabili e i cugini – in particolare gli eredi dei Lord, e fino a un certo punto anche i baronetti. Il secondo dovere riguarda quei pochi che hanno la possibilità di diventare nobili; è necessario che lo facciano, affinché l’elemento aristocratico nella nostra costituzione non declini. Se si è ricchi, il modo più evidente per adempiere a questo dovere consiste nell’acquistare un titolo nobiliare, o almeno quello di baronetto; e quando considero quanto siano numerose le fortune per cui venti o trentamila sterline non rappresentano davvero una perdita, e quanto pochi dei loro possessori si impegnino con determinazione nell’acquistare un titolo attraverso il pagamento di somme di denaro, non posso fare a meno di temere per il futuro del paese. Non è certo un segno positivo dei nostri tempi il fatto che continuiamo a leggere di grandi donazioni effettuate da persone che hanno avuto tutte le opportunità per entrare nell’Alta Camera, ma che hanno preferito rimanere sconosciute nel Nord dell’[[England|Inghilterra]], lasciando che i loro discendenti non godano di una posizione sociale più elevata della loro.
+Un legittimo desiderio di raggiungere posizioni sociali elevate genera due tipi di doveri, e ciascuno di noi, nel proprio ambito, è tenuto a rispettarne almeno uno. Per la stragrande maggioranza delle persone, il primo dovere consiste nel mostrare rispetto e deferenza verso coloro che possiedono titoli nobiliari; con ciò non intendo soltanto i Lord assoluti (baroni, visconti, conti, marchesi e duchi), ma anche l’intera classe nobiliare, inclusi i lord per cortesia, le dame, loro mogli e madri, gli onorabili e i cugini – in particolare gli eredi dei Lord, e fino a un certo punto anche i baronetti. Il secondo dovere riguarda quei pochi che hanno la possibilità di diventare nobili; è necessario che lo facciano, affinché l’elemento aristocratico nella nostra costituzione non declini. Se si è ricchi, il modo più evidente per adempiere a questo dovere consiste nell’acquistare un titolo nobiliare, o almeno quello di baronetto; e quando considero quanto siano numerose le fortune per cui venti o trentamila sterline non rappresentano davvero una perdita, e quanto pochi dei loro possessori si impegnino con determinazione nell’acquistare un titolo attraverso il pagamento di somme di denaro, non posso fare a meno di temere per il futuro del paese. Non è certo un segno positivo dei nostri tempi il fatto che continuiamo a leggere di grandi donazioni effettuate da persone che hanno avuto tutte le opportunità per entrare nell’Alta Camera, ma che hanno preferito rimanere sconosciute nel Nord dell’[[settings/england|Inghilterra]], lasciando che i loro discendenti non godano di una posizione sociale più elevata della loro.
 
 Esiste ancora una classe più ristretta a cui è possibile accedere al titolo di Lord esclusivamente per meriti personali: alcuni lo ottengono grazie a un comportamento valoroso sul campo di battaglia, altri per il loro notevole talento poetico, e altri ancora attraverso la ricerca scientifica. Se tra i miei lettori ci fosse qualcuno che appartiene a questa categoria ma esita ad impegnarsi nello sforzo richiesto, vorrei sottolineare che la nostra Costituzione, nella sua saggezza, prevede alcuni vantaggi concreti per chi raggiunge tale status. Non è certo una scusa per un uomo di spicco nel campo militare o scientifico affermare che il proprio reddito non sia sufficiente a mantenere tale dignità: il Parlamento è sempre pronto ad approvare somme di denaro adeguate, e anche in caso contrario, è del tutto possibile essere Lord pur disponendo di risorse molto limitate, come si può chiaramente osservare nel caso di ben ottantadue baroni, quattordici conti e tre duchi. Una lista che avevo preparato per la pubblicazione, ma purtroppo l’ho persa.
 
-Ancora una volta, anche se i mezzi personali di qualcuno siano scarsi, e anche se il Parlamento, per qualche negligenza, non provveda a finanziare questa nuova fase di prosperità, il buon senso tipico dell’[[England|Inghilterra]] verrà in aiuto di chiunque si trovi in tale situazione, purché sia davvero competente. Con estrema facilità potrà ottenere posizioni di responsabilità e retribuite, soprattutto all’interno di società pubbliche; inoltre, se il proprio stipendio dovesse risultare insufficiente, potrà spesso convincere i colleghi direttori ad aumentarlo, sia minacciandoli di rivelazioni negative, sia utilizzando metodi meno drastici e più cordiali.
+Ancora una volta, anche se i mezzi personali di qualcuno siano scarsi, e anche se il Parlamento, per qualche negligenza, non provveda a finanziare questa nuova fase di prosperità, il buon senso tipico dell’[[settings/england|Inghilterra]] verrà in aiuto di chiunque si trovi in tale situazione, purché sia davvero competente. Con estrema facilità potrà ottenere posizioni di responsabilità e retribuite, soprattutto all’interno di società pubbliche; inoltre, se il proprio stipendio dovesse risultare insufficiente, potrà spesso convincere i colleghi direttori ad aumentarlo, sia minacciandoli di rivelazioni negative, sia utilizzando metodi meno drastici e più cordiali.
 
 Se dopo aver letto queste righe qualcuno ancora dubita dell’atteggiamento che un uomo onesto dovrebbe assumere su questa questione, basta ricordare come sembri proprio che la Provvidenza abbia concepito l’intera gerarchia dei Lord con lo scopo di tentare l’uomo ad avanzare sempre più in alto. Così, se qualche lettore di queste pagine dovesse essere un barone, potrebbe pensare che non valga la pena sforzarsi ulteriormente per ottenere un altro grado di distinzione. Ma si sbaglierebbe: tale promozione infatti conferisce ai suoi figlie titoli onorifici; un passo avanti ancora e lo stesso beneficio arriva anche ai suoi figli maschi. Dopo di ciò, però, sembra esserci una pausa. E non sono mai riuscito a capire quale vantaggio possa offrire il titolo di visconte a colui che desidera diventare marchese. A meno che, forse, siano i marchesi a diventare visconti. Comunque sia, è proprio questo ultimo titolo quello che appare meno “inglese” e meno virile; sono felice quindi di sapere che si sta proponendo di abolirlo con una semplice legge di un solo articolo nella prossima sessione del Parlamento. Al di sopra di questi titoli, i duchi, per quanto riguarda i nomi delle loro mogli e il modo in cui vengono addressati, rimangono un caso a parte. Quindi, non esiste alcun livello nel percorso ascendente di un uomo su questa antica e gloriosa “scala” che non offra qualche grande ricompensa per lo sforzo compiuto. Alla luce di queste considerazioni, anch’io, come molti altri, spero che la sciocca promessa fatta alcuni anni fa quando il Partito Liberale era all’opposizione – secondo cui non sarebbero stati creati nuovi Lord – venga rivista ora che il partito deve prendere in considerazione le responsabilità derivanti da tale incarico. Una revisione che, del resto, ha molti precedenti nel caso di altre promesse fatte altrettanto imprudentemente, ma per le quali si è ritenuto necessario ripensarle in seguito.
 
@@ -3951,15 +3951,15 @@ Ma di come abbia iniziato a vendere piccoli soldatini di piombo al prezzo di un 
 
 ON A WINGED HORSE AND THE EXILE WHO RODE HIM
 
-IT SO HAPPENED that one day I was riding my horse Monster in the Berkshire Hills right up above that White Horse which was dug they say by this man and by that man, but no one knows by whom; for I was seeing [[England]], a delightful pastime, but a somewhat anxious one if one is riding a horse. For if one is alone one can sleep where one chooses and walk at one’s ease, and eat what God sends one and spend what one has; but when one is responsible for any other being (especially a horse) there come in a thousand farradiddles, for of everything that walks on earth, man (not woman — I use the word in the restricted sense) is the freest and the most unhappy.
+IT SO HAPPENED that one day I was riding my horse Monster in the Berkshire Hills right up above that White Horse which was dug they say by this man and by that man, but no one knows by whom; for I was seeing [[settings/england|England]], a delightful pastime, but a somewhat anxious one if one is riding a horse. For if one is alone one can sleep where one chooses and walk at one’s ease, and eat what God sends one and spend what one has; but when one is responsible for any other being (especially a horse) there come in a thousand farradiddles, for of everything that walks on earth, man (not woman — I use the word in the restricted sense) is the freest and the most unhappy.
 
-Well, then, I was riding my horse and exploring the Island of [[England]], going eastward of a summer afternoon, and I had so ridden along the ridge of the hills for some miles when I came, as chance would have it, upon a very extraordinary being.
+Well, then, I was riding my horse and exploring the Island of [[settings/england|England]], going eastward of a summer afternoon, and I had so ridden along the ridge of the hills for some miles when I came, as chance would have it, upon a very extraordinary being.
 
 He was a man like myself, but his horse, which was grazing by his side, and from time to time snorting in a proud manner, was quite unlike my own. This horse had all the strength of the horses of Normandy, all the lightness, grace, and subtlety of the horses of Barbary, all the conscious value of the horses that race for rich men, all the humour of old horses that have seen the world and will be disturbed by nothing, and all the valour of young horses who have their troubles before them, and race round in paddocks attempting to defeat the passing trains. I say all these things were in the horse, and expressed by various movements of his body, but the list of these qualities is but a hint of the way in which he bore himself; for it was quite clearly apparent as I came nearer and nearer to this strange pair that the horse before me was very different (as perhaps was the man) from the beings that inhabit this island.
 
 While he was different in all qualities that I have mentioned — or rather in their combination — he also differed physically from most horses that we know, in this, that from his sides and clapt along them in repose was growing a pair of very fine sedate and noble wings. So habited, with such an expression and with such gestures of his limbs, he browsed upon the grass of Berkshire, which, if you except the grass of Sussex and the grass perhaps of Hampshire, is the sweetest grass in the world. I speak of the chalk-grass; as for the grass of the valleys, I would not eat it in a salad, let alone give it to a beast.
 
-The man who was the companion rather than the master of this charming animal sat upon a lump of turf singing gently to himself and looking over the plain of Central [[England]], the plain of the Upper Thames, which men may see from these hills. He looked at it with a mixture of curiosity, of memory, and of desire which was very interesting but also a little pathetic to watch. And as he looked at it he went on crooning his little song until he saw me, when with great courtesy he ceased and asked me in the English language whether I did not desire companionship.
+The man who was the companion rather than the master of this charming animal sat upon a lump of turf singing gently to himself and looking over the plain of Central [[settings/england|England]], the plain of the Upper Thames, which men may see from these hills. He looked at it with a mixture of curiosity, of memory, and of desire which was very interesting but also a little pathetic to watch. And as he looked at it he went on crooning his little song until he saw me, when with great courtesy he ceased and asked me in the English language whether I did not desire companionship.
 
 I answered him that certainly I did, though not more than was commonly the case with me, for I told him that I had had companionship in several towns and inns during the past few days, and that I had had but a few hours’ bout of silence and of loneliness.
 
@@ -3969,7 +3969,7 @@ When I had said this he nodded gravely, and I in my turn began to wonder of what
 
 “I see you are gazing upon the plain. Have you interests or memories in that view? I ask you without compunction so delicate a question because it is as open to you to lie as it was to me when I lied to them only yesterday morning, a little beyond Wayland’s Cave, telling them that I had come to make sure of the spot where St. George conquered the Dragon, though, in truth, I had come for no such purpose, and telling them that my name was so-and-so, whereas it was nothing of the kind.”
 
-He brightened up at this, and said: “You are quite right in telling me that I am free to lie if I choose, and I would be very happy to lie to you if there were any purpose in so doing, but there is none. I gaze upon this plain with the memories that are common to all men when they gaze upon a landscape in which they have had a part in the years recently gone by. That is, the plain fills me with a sort of longing, and yet I cannot say that the plain has treated me unjustly. I have no complaint against it. God bless the plain!” After thinking a few moments, he added: “I am fond of Wantage; Wallingford has done me no harm; [[Oxford]] gave me many companions; I was not drowned at Dorchester beyond the Little Hills; and the best of men gave me a true farewell in Faringdon yonder. Moreover, Cumnor is my friend. Nevertheless, I like to indulge in a sort of sadness when I look over this plain.”
+He brightened up at this, and said: “You are quite right in telling me that I am free to lie if I choose, and I would be very happy to lie to you if there were any purpose in so doing, but there is none. I gaze upon this plain with the memories that are common to all men when they gaze upon a landscape in which they have had a part in the years recently gone by. That is, the plain fills me with a sort of longing, and yet I cannot say that the plain has treated me unjustly. I have no complaint against it. God bless the plain!” After thinking a few moments, he added: “I am fond of Wantage; Wallingford has done me no harm; [[settings/oxford|Oxford]] gave me many companions; I was not drowned at Dorchester beyond the Little Hills; and the best of men gave me a true farewell in Faringdon yonder. Moreover, Cumnor is my friend. Nevertheless, I like to indulge in a sort of sadness when I look over this plain.”
 
 I then asked him whither he would go next.
 
@@ -4064,9 +4064,9 @@ Some of those to whom I have related this adventure criticise it by the method o
 
 Su un cavallo alato e l’esiliato che lo montava
 
-Accadde che un giorno stessi cavalcando il mio cavallo Monster nelle Berkshire Hills, proprio sopra quella White Horse di cui si dice sia stata scavata da questo uomo e da quell’altro, ma nessuno sa davvero chi l’abbia fatta. Mentre cavalcavo, ammiravo la [[England|Inghilterra]]: un piacere delizioso, anche se un po’ ansioso quando si cavalca un cavallo. Se si è soli, infatti, si può dormire dove si vuole, camminare con tranquillità, mangiare ciò che Dio manda e spendere ciò che si ha. Ma quando si è responsabili di un altro essere vivente (soprattutto di un cavallo), sorgono mille problemi. Di tutte le creature che camminano sulla terra, l’uomo (non la donna, uso questa parola nel senso stretto) è il più libero, e anche il più infelice.
+Accadde che un giorno stessi cavalcando il mio cavallo Monster nelle Berkshire Hills, proprio sopra quella White Horse di cui si dice sia stata scavata da questo uomo e da quell’altro, ma nessuno sa davvero chi l’abbia fatta. Mentre cavalcavo, ammiravo la [[settings/england|Inghilterra]]: un piacere delizioso, anche se un po’ ansioso quando si cavalca un cavallo. Se si è soli, infatti, si può dormire dove si vuole, camminare con tranquillità, mangiare ciò che Dio manda e spendere ciò che si ha. Ma quando si è responsabili di un altro essere vivente (soprattutto di un cavallo), sorgono mille problemi. Di tutte le creature che camminano sulla terra, l’uomo (non la donna, uso questa parola nel senso stretto) è il più libero, e anche il più infelice.
 
-Beh, allora, stavo cavalcando il mio cavallo e esplorando l’Isola di [[England|Inghilterra]], dirigendomi verso est in una serata estiva. Avevo percorso diversi chilometri lungo la cresta delle colline quando, per pura coincidenza, incontrai un essere davvero straordinario.
+Beh, allora, stavo cavalcando il mio cavallo e esplorando l’Isola di [[settings/england|Inghilterra]], dirigendomi verso est in una serata estiva. Avevo percorso diversi chilometri lungo la cresta delle colline quando, per pura coincidenza, incontrai un essere davvero straordinario.
 
 Era un uomo come me, ma il suo cavallo, che pascolava al suo fianco e di tanto in tanto soffiava con aria orgogliosa, era completamente diverso dal mio. Questo cavallo possedeva tutta la forza dei cavalli della Normandia, tutta la leggerezza, la grazia e la delicatezza dei cavalli della Barberia, tutto il prestigio dei cavalli che corrono per i ricchi, tutto l’umorismo dei vecchi cavalli che hanno visto il mondo e non si lasciano turbare da nulla, e tutta la coraggio dei giovani cavalli che hanno ancora molte difficoltà davanti a loro e corrono nei recinti cercando di battere i treni che passano. Dico che tutte queste qualità erano presenti in quel cavallo e si manifestavano attraverso i suoi vari movimenti; ma questa lista non fa che dare un’idea del modo in cui si comportava. Perché, man mano che mi avvicinavo sempre di più a questa strana coppia, diventava evidente che il cavallo davanti a me era molto diverso (forse lo stesso valeva per l’uomo) dagli esseri che abitano quest’isola.
 
@@ -4082,7 +4082,7 @@ Quando dissi questo, annuì seriamente; anch'io iniziai a chiedermi quale fosse 
 
 “Vedo che state fissando quella pianura. Avete qualche interesse o ricordo legati a quel paesaggio? Vi pongo questa domanda senza alcun imbarazzo, perché per voi è altrettanto facile mentire quanto lo era per me quando ho mentito a loro ieri mattina, poco oltre la Grotta di Wayland: ho detto che ero venuto per verificare il luogo in cui San Giorgio sconfisse il Drago, mentre in realtà non avevo alcun motivo preciso per farlo; ho anche detto che il mio nome era questo e quest’altro, quando invece non era affatto così.”
 
-Si illuminò in volto all’udire queste parole e disse: “Hai perfettamente ragione quando dici che posso mentire se lo desidero. E sarei molto felice di farlo con te, se ci fosse qualche motivo per farlo. Ma non ce n’è alcuno. Guardo questa pianura con i ricordi che tutti gli uomini hanno quando osservano un paesaggio in cui hanno avuto parte negli anni trascorsi. Questa pianura suscita in me una sorta di nostalgia. Eppure non posso dire che mi abbia trattato ingiustamente. Non ho alcuna lamentela nei suoi confronti. Che Dio benedica questa pianura!” Dopo aver riflettuto per un momento, aggiunse: “Mi piace Wantage; Wallingford non mi ha fatto del male; [[Oxford]] mi ha dato molti compagni; non sono annegato a Dorchester, oltre le Piccole Colline. E gli uomini migliori mi hanno salutato con affetto a Faringdon. Inoltre, Cumnor è mio amico. Tuttavia, quando guardo questa pianura, mi piace lasciarmi andare a una sorta di tristezza, ”
+Si illuminò in volto all’udire queste parole e disse: “Hai perfettamente ragione quando dici che posso mentire se lo desidero. E sarei molto felice di farlo con te, se ci fosse qualche motivo per farlo. Ma non ce n’è alcuno. Guardo questa pianura con i ricordi che tutti gli uomini hanno quando osservano un paesaggio in cui hanno avuto parte negli anni trascorsi. Questa pianura suscita in me una sorta di nostalgia. Eppure non posso dire che mi abbia trattato ingiustamente. Non ho alcuna lamentela nei suoi confronti. Che Dio benedica questa pianura!” Dopo aver riflettuto per un momento, aggiunse: “Mi piace Wantage; Wallingford non mi ha fatto del male; [[settings/oxford|Oxford]] mi ha dato molti compagni; non sono annegato a Dorchester, oltre le Piccole Colline. E gli uomini migliori mi hanno salutato con affetto a Faringdon. Inoltre, Cumnor è mio amico. Tuttavia, quando guardo questa pianura, mi piace lasciarmi andare a una sorta di tristezza, ”
 
 Gli chiesi poi dove avrebbe intenzione di andare dopo.
 
@@ -4106,19 +4106,19 @@ Oggi fa esattamente dieci anni da quando mi hai cacciato fuori di casa.
 
 Tagliarmi i piedi su terreni di pietra e inciampare lungo le rive.
 
-# E ho pensato… nel complesso…
+E ho pensato… nel complesso…
 
 “Tutto sommato,” dissi, “è debole.”
 
 Era immensamente soddisfatto di questo, e, alzandosi in piedi, mi prese per mano. “Ora ti conosco,” disse, “un uomo che davvero scrive versi. Ho fatto tutto ciò che potevo con quelle tre sillabe, e per grazia del Cielo riuscirò a sistemarle nel modo giusto in tempo. Comunque, per il momento sono soltanto una soluzione provvisoria. Con il tuo permesso le terrò per me, perché non desidero inserire parole del genere, come ‘tumty tum’, nel bel mezzo dei miei versi.”
 
-#Mi inchinai davanti a lui, e poi proseguì…
+Mi inchinai davanti a lui, e poi proseguì…
 
 E poi ho pensato a tutto quanto… più di quanto potessi esprimere a parole.
 
 Ma riuscii a prendere un cavallo su cui montare e lo cavalcai molto bene.
 
-# Fuoco negli occhi e ali ai fianchi
+Fuoco negli occhi e ali ai fianchi
 
 E io cavalco, e continuo a cavalcare!
 
@@ -4128,15 +4128,15 @@ E io cavalco, e continuo a cavalcare!
 
 “Allora dammeli,” dissi, “almeno gli ultimi due.” Perché avevo rapidamente calcolato quanti ne sarebbero rimasti del suo piano.
 
-#Era davvero felice di essere messo alla prova in questo modo, e continuò a cantare.
+Era davvero felice di essere messo alla prova in questo modo, e continuò a cantare.
 
 E una volta raggiunta la cima di Lambourne Down, in direzione della collina di Clere…
 
-#Ho visto le schiere del Cielo e Michele con la sua lancia
+Ho visto le schiere del Cielo e Michele con la sua lancia
 
-# E Turpin, proveniente dalla Guascogna, e Carlo Magno il sovrano…
+E Turpin, proveniente dalla Guascogna, e Carlo Magno il sovrano…
 
-#Roland delle Marche, con la mano sulla spada
+Roland delle Marche, con la mano sulla spada
 
 Per timore che potesse averne bisogno, e altre quaranta in più!
 
@@ -4162,7 +4162,7 @@ Lo cantò con tale intensità e gioia che rimasi colpito più di quanto volessi 
 
 “Sulla bestia non c’erano staffe. Salì in groppa e, mentre lo faceva, disse…”
 
-#"Devo andarmene subito, ora che mi avete messo in questo umore..."
+"Devo andarmene subito, ora che mi avete messo in questo umore..."
 
 E anche se le parole erano brusche, le pronunciò con tale grazia che le ricorderò per sempre.
 
@@ -4299,7 +4299,7 @@ IN THAT PART of the Thames where the river begins to feel its life before it kno
 
 From the surface of the water the whole prospect is sky, bounded by reeds; but sitting up in one’s canoe one sees between the reeds distant hills to the southward, or, on the north, trees in groups, and now and then the roofs of a village; more often the lonely group of a steading with a church close by.
 
-Floating down this stream quite silently, but rather swiftly upon a summer’s day, I saw on the bank to my right a very pleasant man. He was perhaps a hundred yards or two hundred ahead of me when I first caught sight of him, and perceived that he was a clergyman of the Church of [[England]]. He was fishing.
+Floating down this stream quite silently, but rather swiftly upon a summer’s day, I saw on the bank to my right a very pleasant man. He was perhaps a hundred yards or two hundred ahead of me when I first caught sight of him, and perceived that he was a clergyman of the Church of [[settings/england|England]]. He was fishing.
 
 He was dressed in black, even his hat was black (though it was of straw), but his collar was of such a kind as his ancestors had worn, turned down and surrounded by a soft white tie. His face was clear and ruddy, his eyes honest, his hair already grey, and he was gazing intently upon the float; for I will not conceal it that he was fishing in that ancient manner with a float shaped like a sea-buoy and stuck through with a quill. So fish the yeomen to this day in Northern France and in Holland. Upon such immutable customs does an ancient State repose, which, if they are disturbed, there is danger of its dissolution.
 
@@ -4340,13 +4340,13 @@ Had it been a pike or a trout I could have told it, for I am well acquainted wit
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Su un pescatore e la ricerca della pace
+Su un pescatore e la ricerca della pace
 
 In quella parte del Tamigi, dove il fiume inizia a “sentire la vita” prima ancora di conoscere il proprio nome, le contee che si affacciano su entrambi i lati giocano con esso. Ma non costituisce ancora un confine vero e proprio. Le parrocchie sulla riva settentrionale sono a volte altrettanto “veramente” Wiltshire quanto quelle a sud. Gli uomini delle fattorie, che si guardano l’un l’altro dall’altra parte dell’acqua, sono vicini di casa: usano le stesse parole e costruiscono le loro case nello stesso modo. Tra di loro scorre l’inizio del Tamigi.
 
 Dalla superficie dell'acqua, l'intero paesaggio sembra essere solo cielo delimitato dalle canne; ma seduti nella propria canoa, si possono vedere, tra le canne, lontane colline a sud, o, a nord, gruppi di alberi e, di tanto in tanto, i tetti di un villaggio; più spesso, il solitario insediamento di una fattoria con una chiesa nelle vicinanze.
 
-Mentre scivolavo silenziosamente lungo questo ruscello, abbastanza velocemente in una giornata estiva, vidi sulla riva a destra un uomo molto piacevole. Quando lo notai per la prima volta, si trovava forse a cento o duecento metri davanti a me, e capii che era un clero della Chiesa di [[England|Inghilterra]]. Stava pescando.
+Mentre scivolavo silenziosamente lungo questo ruscello, abbastanza velocemente in una giornata estiva, vidi sulla riva a destra un uomo molto piacevole. Quando lo notai per la prima volta, si trovava forse a cento o duecento metri davanti a me, e capii che era un clero della Chiesa di [[settings/england|Inghilterra]]. Stava pescando.
 
 Era vestito di nero; anche il suo cappello era nero (sebbene fosse di paglia), ma il colletto era dello stesso tipo di quello che i suoi antenati indossavano: abbassato e circondato da una morbida cravatta bianca. Il suo viso era chiaro e arrossato, gli occhi onesti; i capelli erano già grigi e fissava con attenzione il galleggiante. Poiché non nasconderò che pescava in quel modo antico, utilizzando un galleggiante a forma di boia da mare e conficcandovi una penna. Ancora oggi, nelle regioni settentrionali della Francia e dell’Olanda, i contadini pescano in questo modo. Su tali costumi immutabili si fonda l’esistenza di uno Stato antico; se questi costumi venissero disturbati, ci sarebbe il pericolo della sua dissoluzione.
 
@@ -4433,7 +4433,7 @@ I asked him how long ago that was, and he said nearly twenty years. For all that
 
 We were now seated together at table eating and talking so, when I asked him whether he had a reputation for sanctity and whether the people brought him food. He answered with a little hesitation that he had a reputation, he thought, for necromancy rather than anything else, and that upon this account it was not always easy to persuade a messenger to bring him the books in French and English which he ordered from below, though these were innocent enough, being, as a rule, novels written by women or academicians, records of travel, the classics of the Eighteenth Century, or the biographies of aged statesmen. As for food, the people of the place did indeed bring it to him, but not, as in an idyll, for courtesy; contrariwise, they demanded heavy payment, and his chief difficulty was with bread; for stale bread was intolerable to him. In the matter of religion he would not say that he had none, but rather that he had several religions; only at this season of the year, when everything was fresh, pleasant and entertaining, he did not make use of any of them, but laid them all aside. As this last saying of his had no meaning for me I turned to another matter and said to him:
 
-“In any [[Solitude|solitude]] contemplation is the chief business of the soul. How, then, do you, who say you practise no rites, fill up your loneliness here?”
+“In any [[concepts/solitude|solitude]] contemplation is the chief business of the soul. How, then, do you, who say you practise no rites, fill up your loneliness here?”
 
 In answer to this question he became more animated, spoke with a sort of laugh in his voice, and seemed as though he were young again and as though my question had aroused a whole lifetime of good memories.
 
@@ -4500,7 +4500,7 @@ Gli chiesi quanto tempo fosse passato, e disse quasi vent'anni. Per tutto quel t
 
 Eravamo ormai seduti insieme a tavola, mangiando e conversando così, quando gli chiesi se avesse fama di santità e se la gente gli portasse da mangiare. Rispose con una lieve esitazione che aveva fama, credeva, di negromanzia più che d'altro, e che per questo motivo non era sempre facile convincere un messo a portargli i libri francesi e inglesi che ordinava giù in città, benché fossero abbastanza innocenti, essendo per lo più romanzi scritti da donne o da accademici, resoconti di viaggio, i classici del Settecento, o le biografie di vecchi uomini di Stato. Quanto al cibo, la gente del luogo glielo portava davvero, ma non, come in un idillio, per cortesia; al contrario, pretendevano un pagamento salato, e la sua difficoltà maggiore era il pane, perché il pane raffermo gli era intollerabile. In materia di religione non avrebbe detto di non averne alcuna, ma piuttosto di averne parecchie; solo che in quella stagione dell'anno, quando tutto è fresco, piacevole e divertente, non ne usava nessuna, ma le metteva tutte da parte. Poiché quest'ultima sua affermazione non aveva alcun senso per me, passai a un altro argomento e gli dissi:
 
-«In qualsiasi [[Solitude|solitudine]] la contemplazione è l'occupazione principale dell'anima. Come dunque tu, che dici di non praticare alcun rito, riempi qui la tua solitudine?»
+«In qualsiasi [[concepts/solitude|solitudine]] la contemplazione è l'occupazione principale dell'anima. Come dunque tu, che dici di non praticare alcun rito, riempi qui la tua solitudine?»
 
 In risposta a questa domanda si fece più animato, parlò con una specie di riso nella voce, e parve tornato giovane, come se la mia domanda avesse risvegliato tutta una vita di bei ricordi.
 
@@ -4759,36 +4759,36 @@ Con i Signori della sua Formazione.
 
 Era quel vecchio Hugh il Fortinbras che era stato signore del padre del Prete; quindi, quando iniziò la battaglia, il Prete lo osservò dal campo avversario e lo vide cadere, lontano da tutti, proprio nel momento in cui le linee di combattimento si spezzarono e prima che gli uomini della regione di Caux potessero caricare. Era facile vederlo: cavalcava un cavallo alto ed era più alto degli altri normanni; e quando il suo cavallo fu ferito.
 
-# Il cerchio della sella spezzato, la sella dondola...
+Il cerchio della sella spezzato, la sella dondola...
 
-#E scese giù;
+E scese giù;
 
-#Non cantò mai più canzoni d’inverno
+Non cantò mai più canzoni d’inverno
 
 Nella sua Città Alta.
 
-#Nella sua città incantata
+Nella sua città incantata
 
-# E sorge su Harcourt Lea;
+E sorge su Harcourt Lea;
 
 Titolo:  
 Chiamarlo fuori dal suo esilio…
 
 La sua autorità si estendeva al di là della montagna.
 
-#Il mio padre era il suo servitore
+Il mio padre era il suo servitore
 
 Anche se la fattoria era libera.
 
-# Prima che iniziassero le guerre furiose
+Prima che iniziassero le guerre furiose
 
 Era un mio amico!
 
-#Nella sua città incantata
+Nella sua città incantata
 
 E sorge sulla baia di Harcourt;
 
-#La Guida di Fisher nella notte
+La Guida di Fisher nella notte
 
 Titolo:  
 Fermarsi alla quota di quel castello
@@ -4799,7 +4799,7 @@ Ma con l’espansione della luce…
 
 Scompare senza lasciare traccia.
 
-#Il Castello delle Fate appare attraverso un’illusione nella Ballata…
+Il Castello delle Fate appare attraverso un’illusione nella Ballata…
 
 Battaglia di Val-des-Dunes.
 
@@ -4969,7 +4969,7 @@ Su un giovane e un uomo più anziano
 
 Un giovane che conosco, avendo compiuto ventotto anni e confondendo erroneamente questa data con il momento del cosiddetto “Grande Climaterico”, andò di notte da un uomo più anziano e gli disse quanto segue:
 
-#"Signore! Ho interrotto la vostra tranquillità per chiedervi il vostro parere su alcune questioni."
+"Signore! Ho interrotto la vostra tranquillità per chiedervi il vostro parere su alcune questioni."
 
 L’Uomo più anziano, il cui pensiero in quel momento era completamente concentrato sul denaro, alzò lo sguardo con sorpresa e cercò di scusarsi, poiché credeva che il Giovane volesse chiedere un prestito. Ma il Giovane, la cui mente era lontana da simili banalità, continuò ad insistere ansiosamente senza nemmeno accorgersi di aver disturbato il suo interlocutore più anziano.
 
@@ -5099,17 +5099,17 @@ Youth (pettishly): I did not say I had lost it! I said I hoped I had not … (fe
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Alla partenza di un ospite
+Alla partenza di un ospite
 
 È la mia giovinezza che se ne va.
 
 Addio, mie care compagnie…
 
-# Mai sono mai stato meno felice per questo
+Mai sono mai stato meno felice per questo
 
-# È la mia giovinezza che se ne va
+È la mia giovinezza che se ne va
 
-# Et lon-lon-laire, et lon-lon-là
+Et lon-lon-laire, et lon-lon-là
 
 Forse si perde; forse si vince.
 
@@ -5225,7 +5225,7 @@ This human debate of ours (and very one-sided it was!) is now resolved, for in t
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Sulla morte
+Sulla morte
 
 Conoscevo un uomo che parlava molto della Morte, affermando di valutare una nazione in base al modo in cui essa considera il concetto di Morte e al rispetto che le riserva. Diceva anche di giudicare gli individui secondo lo stesso criterio, ma di non applicarlo con la stessa severità, poiché (così sosteneva) le grandi masse umane sono maggiormente coinvolte in questioni importanti; mentre i cittadini comuni vengono disturbati da piccole cose che interferiscono con le loro vite quotidiane, allontanandoli così dall’obiettivo generale.
 
@@ -5284,7 +5284,7 @@ Those who solace mankind and are the principal benefactors of it, I mean the poe
 
 The great poets, I say, bring us easily or grandly to the gate: as in that Ode to a Nightingale where it is thought good (in an immortal phrase) to pass painlessly at midnight, or, in the glorious line which Ronsard uses, like a salute with the sword, hailing “la profitable mort.”
 
-The noblest or the most perfect of English elegies leaves, as a sort of savour after the reading of it, no terror at all nor even too much regret, but the landscape of [[England]] at evening, when the smoke of the cottages mixes with autumn vapours among the elms; and even that gloomy modern Ode to the West Wind, unfinished and touched with despair, though it will speak of —
+The noblest or the most perfect of English elegies leaves, as a sort of savour after the reading of it, no terror at all nor even too much regret, but the landscape of [[settings/england|England]] at evening, when the smoke of the cottages mixes with autumn vapours among the elms; and even that gloomy modern Ode to the West Wind, unfinished and touched with despair, though it will speak of —
 
 … that outer place forlorn
 
@@ -5344,7 +5344,7 @@ Why, that woman of Etaples who sold such Southern wine for the dissipation of th
 
 It is certain that the hills decay and that rivers as the dusty years proceed run feebly and lose themselves at last in desert sands; and in its aeons the very firmament grows old. But evil also is perishable and bad men meet their judge. Be comforted.
 
-Now of all endings, of all Comings to an End none is so hesitating as the ending of a book which the Publisher will have so long and [[The Writer|the writer]] so short: and the Public (God Bless the Public) will have whatever it is given.
+Now of all endings, of all Comings to an End none is so hesitating as the ending of a book which the Publisher will have so long and [[archetypes/the-writer|the writer]] so short: and the Public (God Bless the Public) will have whatever it is given.
 
 Books, however much their lingering, books also must Come to an End. It is abhorrent to their nature as to the life of man. They must be sharply cut off. Let it be done at once and fixed as by a spell and the power of a Word; the word
 
@@ -5373,11 +5373,11 @@ Coloro che consolano l’umanità e ne sono i principali benefattori, intendo di
 
 I grandi poeti, dico io, ci portano facilmente o maestosamente alla porta dell’essenza delle cose: come in quell’Ode al Usignolo, dove si ritiene giusto (con una frase immortale) superare indolentemente il dolore a mezzanotte; oppure, come nella splendida riga utilizzata da Ronsard, che saluta “la morte proficua” come un gesto di rispetto fatto con la spada.
 
-Le più nobili o perfette elegie inglesi, dopo la lettura, non lasciano alcun senso di terrore né troppa tristezza, ma piuttosto l’immagine di [[England|Inghilterra]] al tramonto, quando il fumo delle case si mescola con le nebbie autunnali tra gli olmi; e persino quella cupa Ode moderna al Vento d’Ovest, incompleta e segnata dal dispero, anche se parla di.
+Le più nobili o perfette elegie inglesi, dopo la lettura, non lasciano alcun senso di terrore né troppa tristezza, ma piuttosto l’immagine di [[settings/england|Inghilterra]] al tramonto, quando il fumo delle case si mescola con le nebbie autunnali tra gli olmi; e persino quella cupa Ode moderna al Vento d’Ovest, incompleta e segnata dal dispero, anche se parla di.
 
-# Quel luogo desolato e lontano
+Quel luogo desolato e lontano
 
-#Che, come un mare grigio infinito, circonda…
+Che, come un mare grigio infinito, circonda…
 
 Con eterna calma, il regno dei suoni umani…
 
@@ -5385,27 +5385,27 @@ Con eterna calma, il regno dei suoni umani…
 
 Per ora, la Notte racconta la sua storia.
 
-# Di riposo e dissoluzione: radunarsi intorno
+Di riposo e dissoluzione: radunarsi intorno
 
-#La sua nebbia così persuasiva che il suolo…
+La sua nebbia così persuasiva che il suolo…
 
 “Of Home” acconsente a vacillare e a impallidire.
 
 E le stelle si spengono, e gli alberi cadono.
 
-# Nulla rimane se non ciò che ronza…
+Nulla rimane se non ciò che ronza…
 
 Enorme, nel buio.
 
 E ancora, in un altro luogo, dove si prega affinché alla fine si possa essere saziati di bellezza…
 
-# Come vengono nutrite i fiori
+Come vengono nutrite i fiori
 
 “Quei che riempiono il loro tempo di caduta con respiri generosi…”
 
-# Morire in modo naturale
+Morire in modo naturale
 
-# E sul possente petto, come su un letto…
+E sul possente petto, come su un letto…
 
 Finalmente posare una testa assonnata in un luogo dignitoso…
 
@@ -5433,7 +5433,7 @@ Perché, quella donna di Etaples che vendeva quel vino del Sud per dissipare la 
 
 È certo che le colline decadono e che i fiumi, con il passare degli anni, diventano deboli e alla fine si perdono nelle sabbie del deserto; anche il cielo, nel corso dei suoi eoni, invecchia. Ma anche il male è effimero e gli uomini malvagi incontreranno il loro giudice. State tranquilli.
 
-Di tutte le fine possibili, di tutti i modi in cui qualcosa può concludersi, nessuno è più incerto del finale di un libro: per l’Editore quel momento arriva troppo tardi, mentre per lo [[The Writer|scrittore]] è troppo presto. E il Pubblico (che Dio benedica il Pubblico) riceverà semplicemente ciò che gli viene offerto.
+Di tutte le fine possibili, di tutti i modi in cui qualcosa può concludersi, nessuno è più incerto del finale di un libro: per l’Editore quel momento arriva troppo tardi, mentre per lo [[archetypes/the-writer|scrittore]] è troppo presto. E il Pubblico (che Dio benedica il Pubblico) riceverà semplicemente ciò che gli viene offerto.
 
 I libri, per quanto durino nel tempo, devono anch’essi arrivare alla fine. È contrario sia alla loro natura che alla vita umana: devono essere interrotti bruscamente. Che ciò avvenga immediatamente, con la forza di una parola, quella parola.
 

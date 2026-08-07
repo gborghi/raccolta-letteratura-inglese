@@ -14,4 +14,10 @@ The amiable, addled young admirer of Florence Dombey whom Chesterton calls one o
 
 <div class="concept-works" data-slug="characters/toots"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+
+</div>
+
 #graph/character

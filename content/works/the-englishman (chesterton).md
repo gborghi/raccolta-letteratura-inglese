@@ -26,7 +26,7 @@ tags:
 
 # the-englishman
 
-*by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
+*by Chesterton*  ·  **Cluster:** [[clusters/heroism-·-hero-·-last-stand|Heroism · Hero · Last Stand]]
 
 > [!abstract] 
 > A comic patriotic song invoking St George, English ale, beef and chivalry; nationalism, food and drink, the dragon-slaying hero.
@@ -37,17 +37,17 @@ tags:
 
 ## Connections
 
-**Settings:** [[Medieval England (2)]]
+**Settings:** [[settings/medieval-england-(2)|Medieval England (2)]]
 
-**Topoi:** [[Combat Strife]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]]
 
-**Characters:** [[St George]]
+**Characters:** [[characters/st-george|St George]]
 
-**Archetypes:** [[Hero]], [[Damsel]], [[Monster]]
-**Motifs:** [[Wine and Drink]], [[Food and Feasting]], [[Swords and Weapons]], [[Flags and Banners]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Heroism]], [[Masculinity and the Male Code]]
-**Forms & Genres:** [[Comic Verse Song]]
-**Historical References:** [[Christianity]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/damsel|Damsel]], [[archetypes/monster|Monster]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/flags-and-banners|Flags and Banners]]
+**Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/heroism|Heroism]], [[concepts/masculinity-and-the-male-code|Masculinity and the Male Code]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]]
+**Historical References:** [[historical-references/christianity|Christianity]]
 
 ## Testo integrale / Full text
 

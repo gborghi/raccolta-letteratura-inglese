@@ -44,7 +44,7 @@ tags:
   - histref/boer_war
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > A literary-critical review of the letters and poems of the Manx poet T. E. Brown, meditating on friendship, the privacy of private letters, and frivolity as something sacred. Themes: friendship, the artist and his work, and reflection on death and judgment.
@@ -89,15 +89,15 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Puritanism]], [[Reformation]], [[Catholic Church]], [[Bible]], [[Eastern Religion Comparative Religion]], [[Boer War]]
+**Historical References:** [[historical-references/puritanism|Puritanism]], [[historical-references/reformation|Reformation]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/bible|Bible]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]], [[historical-references/boer-war|Boer War]]
 
-**Topoi:** [[Vanitas]], [[Memento Mori]], [[World Upside Down]]
+**Topoi:** [[topoi/vanitas|Vanitas]], [[topoi/memento-mori|Memento Mori]], [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[Christ]], [[Judas Iscariot]], [[Job]]
+**Characters:** [[characters/christ|Christ]], [[characters/judas-iscariot|Judas Iscariot]], [[characters/job|Job]]
 
-**Motifs:** [[Letters and Writing]], [[Clothing and Costume]], [[Ghosts]]
-**Themes & Concepts:** [[Friendship]], [[Artist and Society]], [[Joy]], [[Faith]], [[Melancholy]], [[Nationalism and Patriotism]], [[Mortality]], [[Eastern Religion and Asceticism]], [[Education]], [[Suffering and Pain]], [[Wonder]], [[Paradox]], [[The Woman Question]], [[History]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Sonnet]], [[Fairy Tale Fantasy]], [[Novel]], [[Nonfiction]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/ghosts|Ghosts]]
+**Themes & Concepts:** [[concepts/friendship|Friendship]], [[concepts/artist-and-society|Artist and Society]], [[concepts/joy|Joy]], [[concepts/faith|Faith]], [[concepts/melancholy|Melancholy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/mortality|Mortality]], [[concepts/eastern-religion-and-asceticism|Eastern Religion and Asceticism]], [[concepts/education|Education]], [[concepts/suffering-and-pain|Suffering and Pain]], [[concepts/wonder|Wonder]], [[concepts/paradox|Paradox]], [[concepts/the-woman-question|The Woman Question]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/sonnet|Sonnet]], [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/novel|Novel]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

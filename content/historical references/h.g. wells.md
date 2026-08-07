@@ -14,4 +14,11 @@ Author whose scientific-romance notion of generating a Superman 'out of gases in
 
 <div class="concept-works" data-slug="historical-references/h.g.-wells"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/hifts-(chesterton)|HIFTS (Chesterton)]]
+- [[works/cabman-(chesterton)|cabman (Chesterton)]]
+
+</div>
+
 #graph/histref

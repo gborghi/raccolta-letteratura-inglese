@@ -30,7 +30,7 @@ tags:
   - setting/italy
 ---
 
-*by Dickens*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Dickens*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > Dickens's travel book recording his 1842 journey through the United States (and, in this edition, Pictures from Italy), observing American institutions, prisons, factory life, and above all delivering a sustained indictment of slavery. Central matter: travel writing as social observation and reformist satire of institutions, with a strong moral critique of slavery and social injustice.
@@ -44,12 +44,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Open Road Homecoming]]
-**Archetypes:** [[Pilgrim]]
-**Motifs:** [[Journey]], [[Sea]], [[City]], [[Road]]
-**Themes & Concepts:** [[Social Injustice]], [[Satire of Society]], [[Reform]], [[Justice Right and Wrong]], [[Alienation]], [[Truth]], [[Critique of Progress]], [[Slavery]]
-**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Satire]], [[Nonfiction]]
-**Settings:** [[Ship]], [[Italy]], [[Europe]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/sea|Sea]], [[motifs/city|City]], [[motifs/road|Road]]
+**Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/satire-of-society|Satire of Society]], [[concepts/reform|Reform]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/alienation|Alienation]], [[concepts/truth|Truth]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/slavery|Slavery]]
+**Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
+**Settings:** [[motifs/ship|Ship]], [[settings/italy|Italy]], [[settings/europe|Europe]]
 
 ## Testo integrale / Full text
 
@@ -10055,4 +10055,4 @@ attracted, since these sheets have been passing through the press.  He
 will find some specimens there, by no means remarkable to any man who has
 been in America, but sufficiently striking to one who has not.
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

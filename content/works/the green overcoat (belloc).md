@@ -23,7 +23,7 @@ tags:
   - archetype/trickster
   - topos/temptation_2
 ---
-*by Belloc*  ·  **Cluster:** [[Satirical Novel · Politics and Finance · Edwardian England]]
+*by Belloc*  ·  **Cluster:** [[clusters/satirical-novel-·-politics-and-finance-·-edwardian-england|Satirical Novel · Politics and Finance · Edwardian England]]
 
 > [!abstract] 
 > A comic farce novel in which the timid Professor Higginson, tempted by the Devil, steals a magnificent green overcoat on a rainy night and is promptly swept into a bungled kidnapping. The stolen garment drives an escalating chain of Edwardian mischance and deception across a provincial manufacturing town.
@@ -39,9 +39,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]], [[Comedy]], [[Satire]]
-**Themes & Concepts:** [[Temptation]], [[Deception]], [[Satire of Society]], [[Greed]]
-**Motifs:** [[Clothing and Costume]], [[Machine]], [[Rain]]
-**Settings:** [[Industrial City]], [[Rural England]]
-**Archetypes:** [[Satanic Figure]], [[Trickster]]
-**Topoi:** [[Temptation (2)]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/comedy|Comedy]], [[forms/satire|Satire]]
+**Themes & Concepts:** [[concepts/temptation|Temptation]], [[concepts/deception|Deception]], [[concepts/satire-of-society|Satire of Society]], [[concepts/greed|Greed]]
+**Motifs:** [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/machine|Machine]], [[motifs/rain|Rain]]
+**Settings:** [[settings/industrial-city|Industrial City]], [[settings/rural-england|Rural England]]
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/trickster|Trickster]]
+**Topoi:** [[topoi/temptation-(2)|Temptation (2)]]

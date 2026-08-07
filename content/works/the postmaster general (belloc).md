@@ -23,7 +23,7 @@ tags:
   - archetype/corrupt_official
   - topos/world_upside_down
 ---
-*by Belloc*  ·  **Cluster:** [[Satirical Novel · Politics and Finance · Edwardian England]]
+*by Belloc*  ·  **Cluster:** [[clusters/satirical-novel-·-politics-and-finance-·-edwardian-england|Satirical Novel · Politics and Finance · Edwardian England]]
 
 > [!abstract] 
 > A near-future political satire set in a 1960 of Socialist and Anarchist parties, skewering the corrupt marriage of government and finance. Postmaster-General Wilfrid Halterton nervously signs a rigged television-monopoly contract for the financier James McAuley, trading a public charter for his own promised place in the City.
@@ -97,9 +97,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]], [[Satire]]
-**Themes & Concepts:** [[Power and Corruption]], [[Money and Avarice]], [[Hypocrisy]], [[Democracy]], [[Capitalism]], [[Satire of Society]], [[Economics]]
-**Motifs:** [[Money and Gold]], [[Letters and Writing]], [[Machine]]
-**Settings:** [[London]]
-**Archetypes:** [[Corrupt Official]]
-**Topoi:** [[World Upside Down]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]]
+**Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/hypocrisy|Hypocrisy]], [[concepts/democracy|Democracy]], [[concepts/capitalism|Capitalism]], [[concepts/satire-of-society|Satire of Society]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/machine|Machine]]
+**Settings:** [[settings/london|London]]
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]

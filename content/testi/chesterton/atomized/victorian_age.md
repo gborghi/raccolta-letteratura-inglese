@@ -15,11 +15,11 @@ tags:
 
 
 
-Produced by Karina Aleksandrova, [[Juliet]] Sutherland and the
+Produced by Karina Aleksandrova, [[characters/juliet|Juliet]] Sutherland and the
 
 Online Distributed Proofreading Team at http://www.pgdp.net
 
-[[Home|HOME]] UNIVERSITY LIBRARY
+[[motifs/home|HOME]] UNIVERSITY LIBRARY
 
 OF MODERN KNOWLEDGE
 
@@ -31,11 +31,11 @@ THE RT. HON. H. A. L. FISHER, M.A., F.B.A.
 
 PROF. GILBERT MURRAY, LITT.D., LL.D., F.B.A.
 
-PROF. SIR J. [[arthur|ARTHUR]] THOMSON, M.A.
+PROF. SIR J. [[characters/arthur|ARTHUR]] THOMSON, M.A.
 
 PROF. WILLIAM T. BREWSTER, M.A.
 
-_A complete classified list of the volumes of The [[Home]] University
+_A complete classified list of the volumes of The [[motifs/home|Home]] University
 
 Library already published to be found at the back of this book._
 
@@ -47,11 +47,11 @@ BY
 
 G. K. CHESTERTON
 
-[[New York|NEW YORK]]
+[[settings/new-york|NEW YORK]]
 
 HENRY HOLT AND COMPANY
 
-[[London|LONDON]]
+[[settings/london|LONDON]]
 
 THORNTON BUTTERWORTH LTD.
 
@@ -81,7 +81,7 @@ INDEX                                      255
 
 The Editors wish to explain that this book is not put forward as an
 
-authoritative [[history]] of Victorian literature. It is a free and personal
+authoritative [[concepts/history|history]] of Victorian literature. It is a free and personal
 
 statement of views and impressions about the significance of Victorian
 
@@ -95,13 +95,13 @@ A section of a long and splendid literature can be most conveniently
 
 treated in one of two ways. It can be divided as one cuts a currant cake
 
-or a Gruyère [[cheese]], taking the currants (or the holes) as they come. Or
+or a Gruyère cheese, taking the currants (or the holes) as they come. Or
 
 it can be divided as one cuts wood--along the grain: if one thinks that
 
 there is a grain. But the two are never the same: the names never come
 
-in the same order in actual [[Time|time]] as they come in any serious study of a
+in the same order in actual [[motifs/time|time]] as they come in any serious study of a
 
 spirit or a tendency. The critic who wishes to move onward with the life
 
@@ -109,7 +109,7 @@ of an epoch, must be always running backwards and forwards among its
 
 mere dates; just as a branch bends back and forth continually; yet the
 
-grain in the branch runs true like an unbroken [[River|river]].
+grain in the branch runs true like an unbroken [[motifs/river|river]].
 
 Mere chronological order, indeed, is almost as arbitrary as alphabetical
 
@@ -117,11 +117,11 @@ order. To deal with Darwin, Dickens, Browning, in the sequence of the
 
 birthday book would be to forge about as real a chain as the "Tacitus,
 
-[[tolstoy|Tolstoy]], Tupper" of a biographical dictionary. It might lend itself
+[[characters/tolstoy|Tolstoy]], Tupper" of a biographical dictionary. It might lend itself
 
 more, perhaps, to accuracy: and it might satisfy that school of critics
 
-who hold that every [[artist]] should be treated as a solitary craftsman,
+who hold that every [[archetypes/artist|artist]] should be treated as a solitary craftsman,
 
 indifferent to the commonwealth and unconcerned about moral things. To
 
@@ -143,7 +143,7 @@ individuals. Their views do not, of course, make the brains in their
 
 heads any more than the ink in their pens. But it is equally evident
 
-that mere brain-power, without attributes or aims, a [[Wheel|wheel]] revolving in
+that mere brain-power, without attributes or aims, a [[motifs/wheel|wheel]] revolving in
 
 the void, would be a subject about as entertaining as ink. The moment we
 
@@ -155,7 +155,7 @@ will not make a man a writer like Dickens. But without that sympathy
 
 Dickens would not be a writer like Dickens; and probably not a writer at
 
-all. A mere conviction that Catholic thought is the clearest as [[Well|well]] as
+all. A mere conviction that Catholic thought is the clearest as [[motifs/well|well]] as
 
 the best disciplined, will not make a man a writer like Newman. But
 
@@ -163,11 +163,11 @@ without that conviction Newman would not be a writer like Newman; and
 
 probably not a writer at all. It is useless for the æsthete (or any
 
-other anarchist) to urge the isolated individuality of the [[artist]], apart
+other anarchist) to urge the isolated individuality of the [[archetypes/artist|artist]], apart
 
 from his attitude to his age. His attitude to his age is his
 
-individuality: men are never individual when [[Alone|alone]].
+individuality: men are never individual when alone.
 
 It only remains for me, therefore, to take the more delicate and
 
@@ -179,7 +179,7 @@ for which I feel myself wholly incompetent; but as that applies to every
 
 other literary enterprise I ever went in for, the sensation is not
 
-wholly [[Novel|novel]]: indeed, it is rather reassuring than otherwise to realise
+wholly [[forms/novel|novel]]: indeed, it is rather reassuring than otherwise to realise
 
 that I am now doing something that nobody could do properly. The chief
 
@@ -191,7 +191,7 @@ indulgence if such criticism traces too far back into politics or ethics
 
 the roots of which great books were the blossoms; makes Utilitarianism
 
-more important than _Liberty_ or talks more of the [[Oxford]] Movement than
+more important than _Liberty_ or talks more of the [[settings/oxford|Oxford]] Movement than
 
 of _The Christian Year_. I can only answer in the very temper of the
 
@@ -209,19 +209,19 @@ THE VICTORIAN COMPROMISE AND ITS ENEMIES
 
 The previous literary life of this country had left vigorous many old
 
-forces in the Victorian [[Time|time]], as in our [[Time|time]]. Roman Britain and Mediæval
+forces in the Victorian [[motifs/time|time]], as in our [[motifs/time|time]]. Roman Britain and Mediæval
 
 England are still not only alive but lively; for real development is not
 
-leaving things behind, as on a [[Road|road]], but drawing life from them, as from
+leaving things behind, as on a [[motifs/road|road]], but drawing life from them, as from
 
 a root. Even when we improve we never progress. For progress, the
 
-metaphor from the [[Road|road]], implies a man leaving his [[Home|home]] behind him: but
+metaphor from the [[motifs/road|road]], implies a man leaving his [[motifs/home|home]] behind him: but
 
 improvement means a man exalting the towers or extending the gardens of
 
-his [[Home|home]]. The ancient English literature was like all the several
+his [[motifs/home|home]]. The ancient English literature was like all the several
 
 literatures of Christendom, alike in its likeness, alike in its very
 
@@ -231,23 +231,23 @@ European cultures, it was something more than European. A most marked
 
 and unmanageable national temperament is plain in Chaucer and the
 
-ballads of [[Robin Hood]]; in spite of deep and sometimes disastrous changes
+ballads of [[characters/robin-hood|Robin Hood]]; in spite of deep and sometimes disastrous changes
 
 of national policy, that note is still unmistakable in Shakespeare, in
 
 Johnson and his friends, in Cobbett, in Dickens. It is vain to dream of
 
-defining such vivid things; a national [[Soul|soul]] is as indefinable as a
+defining such vivid things; a national [[motifs/soul|soul]] is as indefinable as a
 
 smell, and as unmistakable. I remember a friend who tried impatiently to
 
 explain the word "mistletoe" to a German, and cried at last, despairing,
 
-"[[Well]], you know holly--mistletoe's the opposite!" I do not commend this
+"[[motifs/well|Well]], you know holly--mistletoe's the opposite!" I do not commend this
 
 logical method in the comparison of plants or nations. But if he had
 
-said to the Teuton, "[[Well]], you know [[Germany]]--England's the
+said to the Teuton, "[[motifs/well|Well]], you know [[settings/germany|Germany]]--England's the
 
 opposite"--the definition, though fallacious, would not have been wholly
 
@@ -259,31 +259,31 @@ Christian countries, it drank its longest literary draughts from the
 
 classic fountains of the ancients: nor was this (as is so often loosely
 
-thought) a matter of the mere "[[Renaissance]]." The English tongue and
+thought) a matter of the mere "[[historical-references/renaissance|Renaissance]]." The English tongue and
 
 talent of speech did not merely flower suddenly into the gargantuan
 
 polysyllables of the great Elizabethans; it had always been full of the
 
-popular Latin of the Middle Ages. But whatever balance of [[Blood|blood]] and
+popular Latin of the Middle Ages. But whatever balance of [[motifs/blood|blood]] and
 
 racial idiom one allows, it is really true that the only suggestion that
 
 gets near the Englishman is to hint how far he is from the German. The
 
-Germans, like the Welsh, can sing perfectly serious [[songs]] perfectly
+Germans, like the Welsh, can sing perfectly serious songs perfectly
 
-seriously in [[Chorus|chorus]]: can with clear eyes and clear voices join together
+seriously in [[characters/chorus|chorus]]: can with clear eyes and clear voices join together
 
-in words of [[Innocent|innocent]] and beautiful personal passion, for a false maiden
+in words of [[archetypes/innocent|innocent]] and beautiful personal passion, for a false maiden
 
-or a dead [[Child|child]]. The nearest one can get to defining the poetic temper
+or a dead [[archetypes/child|child]]. The nearest one can get to defining the poetic temper
 
 of Englishmen is to say that they couldn't do this even for beer. They
 
-can sing in [[Chorus|chorus]], and louder than other Christians: but they must have
+can sing in [[characters/chorus|chorus]], and louder than other Christians: but they must have
 
-in their [[songs]] something, I know not what, that is at once shamefaced
+in their songs something, I know not what, that is at once shamefaced
 
 and rowdy. If the matter be emotional, it must somehow be also broad,
 
@@ -291,15 +291,15 @@ common and comic, as "Wapping Old Stairs" and "Sally in Our Alley." If
 
 it be patriotic, it must somehow be openly bombastic and, as it were,
 
-indefensible, like "Rule Britannia" or like that superb [[Song|song]] (I never
+indefensible, like "Rule Britannia" or like that superb song (I never
 
 knew its name, if it has one) that records the number of leagues from
 
-Ushant to the Scilly Isles. Also there is a tender [[Love|love]]-[[Lyric|lyric]] called "O
+Ushant to the Scilly Isles. Also there is a tender [[motifs/love|love]]-[[forms/lyric|lyric]] called "O
 
 Tarry Trousers" which is even more English than the heart of _The
 
-Midsummer [[Night]]'s Dream_. But our greatest bards and sages have often
+Midsummer [[motifs/night|Night]]'s Dream_. But our greatest bards and sages have often
 
 shown a tendency to rant it and roar it like true British sailors; to
 
@@ -313,7 +313,7 @@ or a serious collapse: one feels the poet is offended at a smile. But
 
 Shakespeare seems rather proud of talking nonsense: I never can read
 
-that rousing and mounting description of the [[Storm|storm]], where it comes to--
+that rousing and mounting description of the [[motifs/storm|storm]], where it comes to--
 
 "Who take the ruffian billows by the top,
 
@@ -331,17 +331,17 @@ general national spirit, which we have now to follow through one brief
 
 and curious but very national episode.
 
-Three years before the young [[Queen|queen]] was crowned, William Cobbett was
+Three years before the young [[characters/queen|queen]] was crowned, William Cobbett was
 
 buried at Farnham. It may seem strange to begin with this great
 
-neglected name, rather than the old age of Wordsworth or the young [[Death|death]]
+neglected name, rather than the old age of Wordsworth or the young [[motifs/death|death]]
 
 of Shelley. But to any one who feels literature as human, the empty
 
 chair of Cobbett is more solemn and significant than the throne. With
 
-him died the sort of [[Democracy|democracy]] that was a return to [[Nature]], and which
+him died the sort of [[concepts/democracy|democracy]] that was a return to [[concepts/nature|Nature]], and which
 
 only poets and mobs can understand. After him Radicalism is urban--and
 
@@ -353,35 +353,35 @@ called Birmingham what Cobbett called it--a hell-hole. Cobbett was one
 
 with after Liberals in the ideal of Man under an equal law, a citizen of
 
-no mean [[City|city]]. He differed from after Liberals in strongly affirming that
+no mean [[motifs/city|city]]. He differed from after Liberals in strongly affirming that
 
 Liverpool and Leeds are mean cities.
 
 It is no idle Hibernianism to say that towards the end of the eighteenth
 
-century the most important event in English [[history]] happened in France.
+century the most important event in English [[concepts/history|history]] happened in France.
 
 It would seem still more perverse, yet it would be still more precise,
 
-to say that the most important event in English [[history]] was the event
+to say that the most important event in English [[concepts/history|history]] was the event
 
 that never happened at all--the English Revolution on the lines of the
 
-[[French Revolution]]. Its failure was not due to any lack of fervour or
+[[historical-references/french-revolution|French Revolution]]. Its failure was not due to any lack of fervour or
 
-even ferocity in those who would have brought it about: from the [[Time|time]]
+even ferocity in those who would have brought it about: from the [[motifs/time|time]]
 
-when the first shout went up for Wilkes to the [[Time|time]] when the last
+when the first shout went up for Wilkes to the [[motifs/time|time]] when the last
 
 Luddite fires were quenched in a cold rain of rationalism, the spirit of
 
-Cobbett, of rural republicanism, of English and patriotic [[Democracy|democracy]],
+Cobbett, of rural republicanism, of English and patriotic [[concepts/democracy|democracy]],
 
 burned like a beacon. The revolution failed because it was foiled by
 
 another revolution; an aristocratic revolution, a victory of the rich
 
-over the poor. It was about this [[Time|time]] that the common lands were finally
+over the poor. It was about this [[motifs/time|time]] that the common lands were finally
 
 enclosed; that the more cruel game laws were first established; that
 
@@ -411,7 +411,7 @@ English are practical and the French merely visionary, that we were
 
 rebels in arts while they were rebels in arms.
 
-It has been [[Well|well]] and wittily said (as illustrating the mildness of
+It has been [[motifs/well|well]] and wittily said (as illustrating the mildness of
 
 English and the violence of French developments) that the same Gospel of
 
@@ -429,7 +429,7 @@ emancipation which in France produced the pictures of David, in England
 
 produced the pictures of Blake. There never were, I think, men who gave
 
-to the [[Imagination|imagination]] so much of the sense of having broken out into the
+to the [[concepts/imagination|imagination]] so much of the sense of having broken out into the
 
 very borderlands of being, as did the great English poets of the
 
@@ -445,7 +445,7 @@ quite as incapable of such imaginative independence as Keats and
 
 Coleridge would have been incapable of winning the battle of Wattignies.
 
-In [[Paris]] the tree of liberty was a [[Garden|garden]] tree, clipped very correctly;
+In [[settings/paris|Paris]] the tree of liberty was a [[motifs/garden|garden]] tree, clipped very correctly;
 
 and Robespierre used the razor more regularly than the guillotine.
 
@@ -453,7 +453,7 @@ Danton, who knew and admired English literature, would have cursed
 
 freely over _Kubla Khan_; and if the Committee of Public Safety had not
 
-already executed Shelley as an [[aristocrat]], they would certainly have
+already executed Shelley as an aristocrat, they would certainly have
 
 locked him up for a madman. Even Hébert (the one really vile
 
@@ -465,11 +465,11 @@ rather the Goddess of Unreason that they set up to be worshipped.
 
 Verbally considered, Carlyle's _French Revolution_ was more
 
-revolutionary than the real [[French Revolution]]: and if Carrier, in an
+revolutionary than the real [[historical-references/french-revolution|French Revolution]]: and if Carrier, in an
 
 exaggerative phrase, empurpled the Loire with carnage, Turner almost
 
-literally set the Thames on [[Fire|fire]].
+literally set the Thames on [[motifs/fire|fire]].
 
 This trend of the English Romantics to carry out the revolutionary idea
 
@@ -481,7 +481,7 @@ literature after the Revolution with a sort of bent towards independence
 
 and eccentricity, which in the brighter wits became individuality, and
 
-in the duller ones, [[Individualism]]. English Romantics, English Liberals,
+in the duller ones, [[concepts/individualism|Individualism]]. English Romantics, English Liberals,
 
 were not public men making a republic, but poets, each seeing a vision.
 
@@ -495,11 +495,11 @@ from that twist a certain odd separation and privacy. England became
 
 much more of an island than she had ever been before. There fell from
 
-her about this [[Time|time]], not only the understanding of France or [[Germany]],
+her about this [[motifs/time|time]], not only the understanding of France or [[settings/germany|Germany]],
 
 but to her own long and yet lingering disaster, the understanding of
 
-Ireland. She had not joined in the attempt to create European [[Democracy|democracy]];
+Ireland. She had not joined in the attempt to create European [[concepts/democracy|democracy]];
 
 nor did she, save in the first glow of Waterloo, join in the
 
@@ -507,25 +507,25 @@ counter-attempt to destroy it. The life in her literature was still, to
 
 a large extent, the romantic liberalism of Rousseau, the free and humane
 
-truisms that had refreshed the other nations, the return to [[Nature]] and
+truisms that had refreshed the other nations, the return to [[concepts/nature|Nature]] and
 
 to natural rights. But that which in Rousseau was a creed, became in
 
-Hazlitt a taste and in [[Lamb]] little more than a whim. These latter and
+Hazlitt a taste and in [[motifs/lamb|Lamb]] little more than a whim. These latter and
 
 their like form a group at the beginning of the nineteenth century of
 
 those we may call the Eccentrics: they gather round Coleridge and his
 
-decaying [[Dreams|dreams]] or linger in the tracks of Keats and Shelley and Godwin;
+decaying [[motifs/dreams|dreams]] or linger in the tracks of Keats and Shelley and Godwin;
 
-[[Lamb]] with his bibliomania and creed of pure caprice, the most unique of
+[[motifs/lamb|Lamb]] with his bibliomania and creed of pure caprice, the most unique of
 
 all geniuses; Leigh Hunt with his Bohemian impecuniosity; Landor with
 
 his tempestuous temper, throwing plates on the floor; Hazlitt with his
 
-bitterness and his low [[Love|love]] affair; even that healthier and happier
+bitterness and his low [[motifs/love|love]] affair; even that healthier and happier
 
 Bohemian, Peacock. With these, in one sense at least, goes De Quincey.
 
@@ -537,7 +537,7 @@ in letters by the virile laughter and leisure of Wilson's _Noctes
 
 Ambrosianæ_. But he had nothing in common with that environment. It
 
-remained for some [[Time|time]] as a Tory tradition, which balanced the cold and
+remained for some [[motifs/time|time]] as a Tory tradition, which balanced the cold and
 
 brilliant aristocracy of the Whigs. It lived on the legend of Trafalgar;
 
@@ -545,7 +545,7 @@ the sense that insularity was independence; the sense that anomalies are
 
 as jolly as family jokes; the general sense that old salts are the salt
 
-of the earth. It still lives in some old [[songs]] about Nelson or Waterloo,
+of the earth. It still lives in some old songs about Nelson or Waterloo,
 
 which are vastly more pompous and vastly more sincere than the cockney
 
@@ -565,15 +565,15 @@ and perspectives of prose, which permit one to call him the first and
 
 most powerful of the decadents: those sentences that lengthen out like
 
-[[nightmare]] corridors, or rise higher and higher like impossible eastern
+nightmare corridors, or rise higher and higher like impossible eastern
 
 pagodas. He was a morbid fellow, and far less moral than Burns; for when
 
 Burns confessed excess he did not defend it. But he has cast a gigantic
 
-[[Shadow|shadow]] on our literature, and was as certainly a genius as Poe. Also he
+[[archetypes/shadow|shadow]] on our literature, and was as certainly a genius as Poe. Also he
 
-had [[Humour|humour]], which Poe had not. And if any one still smarting from the
+had humour, which Poe had not. And if any one still smarting from the
 
 pinpricks of Wilde or Whistler, wants to convict them of plagiarism in
 
@@ -587,9 +587,9 @@ under Victoria; he knew most of the members of it, yet he did not belong
 
 to it in any corporate sense. He was a poor man and an invalid, with
 
-Scotch [[Blood|blood]] and a strong, though perhaps only inherited, quarrel with
+Scotch [[motifs/blood|blood]] and a strong, though perhaps only inherited, quarrel with
 
-the old Calvinism; by name Thomas Hood. [[Poverty]] and illness forced him
+the old Calvinism; by name Thomas Hood. [[concepts/poverty|Poverty]] and illness forced him
 
 to the toils of an incessant jester; and the revolt against gloomy
 
@@ -605,7 +605,7 @@ but the best of them were a strong and fresh form of art. The pun is
 
 said to be a thing of two meanings; but with Hood there were three
 
-meanings, for there was also the abstract [[Truth|truth]] that would have been
+meanings, for there was also the abstract [[concepts/truth|truth]] that would have been
 
 there with no pun at all. The pun of Hood is underrated, like the "wit"
 
@@ -613,25 +613,25 @@ of Voltaire, by those who forget that the words of Voltaire were not
 
 pins, but swords. In Hood at his best the verbal neatness only gives to
 
-the [[Satire|satire]] or the scorn a ring of finality such as is given by rhyme.
+the [[forms/satire|satire]] or the scorn a ring of finality such as is given by rhyme.
 
 For rhyme does go with reason, since the aim of both is to bring things
 
 to an end. The tragic necessity of puns tautened and hardened Hood's
 
-genius; so that there is always a sort of [[Shadow|shadow]] of that sharpness
+genius; so that there is always a sort of [[archetypes/shadow|shadow]] of that sharpness
 
-across all his serious [[Poems|poems]], falling like the [[Shadow|shadow]] of a [[Sword|sword]].
+across all his serious poems, falling like the [[archetypes/shadow|shadow]] of a sword.
 
-"Sewing at once with a [[Double|double]] thread a shroud as [[Well|well]] as a shirt"--"We
+"Sewing at once with a [[topoi/double|double]] thread a shroud as [[motifs/well|well]] as a shirt"--"We
 
 thought her dying when she slept, and sleeping when she died"--"Oh God,
 
-that bread should be so dear and flesh and [[Blood|blood]] so cheap"--none can
+that bread should be so dear and flesh and [[motifs/blood|blood]] so cheap"--none can
 
 fail to note in these a certain fighting discipline of phrase, a
 
-compactness and point which was [[Well|well]] trained in lines like "A
+compactness and point which was [[motifs/well|well]] trained in lines like "A
 
 cannon-ball took off his legs, so he laid down his arms." In France he
 
@@ -653,7 +653,7 @@ were naturally the wits that led the world. But it affected England also
 
 negatively and by reaction; for it associated such men as Byron with
 
-superiority, but not with [[success]]. The English middle classes were led
+superiority, but not with success. The English middle classes were led
 
 to distrust poetry almost as much as they admired it. They could not
 
@@ -671,13 +671,13 @@ because there had been about these great poets a young and splendid
 
 sterility; since the pantheist Shelley was in fact washed under by the
 
-wave of the world, or Byron sank in [[Death|death]] as he drew the [[Sword|sword]] for
+wave of the world, or Byron sank in [[motifs/death|death]] as he drew the sword for
 
 Hellas.
 
-The chief turn of nineteenth-century England was taken about the [[Time|time]]
+The chief turn of nineteenth-century England was taken about the [[motifs/time|time]]
 
-when a footman at Holland [[house|House]] opened a door and announced "Mr.
+when a footman at Holland House opened a door and announced "Mr.
 
 Macaulay." Macaulay's literary popularity was representative and it was
 
@@ -699,7 +699,7 @@ and generation), lifted him into a sphere which was utterly opposite to
 
 that from which he came. This Whig world was exclusive; but it was not
 
-narrow. It was very difficult for an [[Outsider|outsider]] to get into it; but if he
+narrow. It was very difficult for an [[archetypes/outsider|outsider]] to get into it; but if he
 
 did get into it he was in a much freer atmosphere than any other in
 
@@ -717,15 +717,15 @@ Whigs could choose their upstarts. In that world Macaulay found Rogers,
 
 with his phosphorescent and corpse-like brilliancy; there he found
 
-Sydney [[smith|Smith]], bursting with crackers of common sense, an admirable old
+Sydney Smith, bursting with crackers of common sense, an admirable old
 
 heathen; there he found Tom Moore, the romantic of the Regency, a
 
-shortened [[Shadow|shadow]] of Lord Byron. That he reached this platform and
+shortened [[archetypes/shadow|shadow]] of Lord Byron. That he reached this platform and
 
 remained on it is, I say, typical of a turning-point in the century. For
 
-the fundamental fact of early Victorian [[history]] was this: the decision
+the fundamental fact of early Victorian [[concepts/history|history]] was this: the decision
 
 of the middle classes to employ their new wealth in backing up a sort of
 
@@ -743,7 +743,7 @@ These two decisions have made the doubtful England of to-day; and
 
 Macaulay is typical of them; he is the _bourgeois_ in Belgravia. The
 
-alliance is marked by his great speeches for Lord Grey's [[Reform]] Bill: it
+alliance is marked by his great speeches for Lord Grey's [[concepts/reform|Reform]] Bill: it
 
 is marked even more significantly in his speech against the Chartists.
 
@@ -781,7 +781,7 @@ improving, along with clocks, pistols or penknives, by the mere
 
 accumulation of experiment and variety. He was, indeed, far too
 
-strong-minded a man to accept the hazy modern notion that the [[Soul|soul]] in
+strong-minded a man to accept the hazy modern notion that the [[motifs/soul|soul]] in
 
 its highest sense can change: he seems to have held that religion can
 
@@ -789,17 +789,17 @@ never get any better and that poetry rather tends to get worse. But he
 
 did not see the flaw in his political theory; which is that unless the
 
-[[Soul|soul]] improves with [[Time|time]] there is no guarantee that the accumulations of
+[[motifs/soul|soul]] improves with [[motifs/time|time]] there is no guarantee that the accumulations of
 
 experience will be adequately used. Figures do not add themselves up;
 
-[[Birds|birds]] do not label or stuff themselves; comets do not calculate their
+[[motifs/birds|birds]] do not label or stuff themselves; comets do not calculate their
 
-own courses; these things are done by the [[Soul|soul]] of man. And if the [[Soul|soul]]
+own courses; these things are done by the [[motifs/soul|soul]] of man. And if the [[motifs/soul|soul]]
 
-of man is subject to other laws, is liable to sin, to [[Sleep|sleep]], to
+of man is subject to other laws, is liable to sin, to [[motifs/sleep|sleep]], to
 
-anarchism or to [[suicide]], then all sciences including politics may fall
+anarchism or to [[concepts/suicide|suicide]], then all sciences including politics may fall
 
 as sterile and lie as fallow as before man's reason was made. Macaulay
 
@@ -813,7 +813,7 @@ we should get the best butcher whether he was a Baptist or a
 
 Muggletonian, and the best soldier whether he was a Wesleyan or an
 
-Irvingite. The compromise worked [[Well|well]] enough in an England Protestant in
+Irvingite. The compromise worked [[motifs/well|well]] enough in an England Protestant in
 
 bulk; but Macaulay ought to have seen that it has its limitations. A
 
@@ -835,7 +835,7 @@ This was the small conscious Macaulay; the great unconscious Macaulay
 
 was very different. His noble enduring quality in our literature is
 
-this: that he truly had an abstract passion for [[history]]; a warm, poetic
+this: that he truly had an abstract passion for [[concepts/history|history]]; a warm, poetic
 
 and sincere enthusiasm for great things as such; an ardour and appetite
 
@@ -851,13 +851,13 @@ the pillars of Hercules. As with Walter Scott, some of the best things
 
 in his prose and poetry are the surnames that he did not make. And it is
 
-remarkable to notice that this [[Romance|romance]] of [[history]], so far from making
+remarkable to notice that this romance of [[concepts/history|history]], so far from making
 
 him more partial or untrustworthy, was the only thing that made him
 
 moderately just. His reason was entirely one-sided and fanatical. It
 
-was his [[Imagination|imagination]] that was [[Well|well]]-balanced and broad. He was
+was his [[concepts/imagination|imagination]] that was [[motifs/well|well]]-balanced and broad. He was
 
 monotonously certain that only Whigs were right; but it was necessary
 
@@ -867,7 +867,7 @@ worthy of their steel. If there was one thing in the world he hated it
 
 was a High Church Royalist parson; yet when Jeremy Collier the Jacobite
 
-priest raises a real banner, all Macaulay's [[Blood|blood]] warms with the mere
+priest raises a real banner, all Macaulay's [[motifs/blood|blood]] warms with the mere
 
 prospect of a fight. "It is inspiriting to see how gallantly the
 
@@ -891,13 +891,13 @@ mad; one sees the map of England come alive and march and mix under the
 
 eye.
 
-The chief [[Tragedy|tragedy]] in the trend of later literature may be expressed by
+The chief [[forms/tragedy|tragedy]] in the trend of later literature may be expressed by
 
 saying that the smaller Macaulay conquered the larger. Later men had
 
-less and less of that hot [[Love|love]] of [[history]] he had inherited from Scott.
+less and less of that hot [[motifs/love|love]] of [[concepts/history|history]] he had inherited from Scott.
 
-They had more and more of that cold science of [[Self|self]]-interests which he
+They had more and more of that cold science of [[concepts/self|self]]-interests which he
 
 had learnt from Bentham.
 
@@ -907,7 +907,7 @@ Victorian, is, like the name of Cobbett, very important to it. In
 
 substance Macaulay accepted the conclusions of Bentham; though he
 
-offered brilliant objections to all his arguments. In any case the [[Soul|soul]]
+offered brilliant objections to all his arguments. In any case the [[motifs/soul|soul]]
 
 of Bentham (if he had one) went marching on, like John Brown; and in the
 
@@ -919,7 +919,7 @@ and pure; but that is the business of a flower. Though he had to preach
 
 a hard rationalism in religion, a hard competition in economics, a hard
 
-egoism in ethics, his own [[Soul|soul]] had all that silvery sensitiveness that
+egoism in ethics, his own [[motifs/soul|soul]] had all that silvery sensitiveness that
 
 can be seen in his fine portrait by Watts. He boasted none of that
 
@@ -959,11 +959,11 @@ sense is moonshine. Thus Wordsworth shrank back into Toryism, as it
 
 were, from a Shelleyan extreme of pantheism as yet disembodied. Thus
 
-Newman took down the iron [[Sword|sword]] of dogma to parry a blow not yet
+Newman took down the iron sword of dogma to parry a blow not yet
 
 delivered, that was coming from the club of Darwin. For this reason no
 
-one can understand tradition, or even [[history]], who has not some
+one can understand tradition, or even [[concepts/history|history]], who has not some
 
 tenderness for anachronism.
 
@@ -971,7 +971,7 @@ Now for the great part of the Victorian era the utilitarian tradition
 
 which reached its highest in Mill held the centre of the field; it was
 
-the [[philosophy]] in office, so to speak. It sustained its march of
+the philosophy in office, so to speak. It sustained its march of
 
 codification and inquiry until it had made possible the great victories
 
@@ -983,7 +983,7 @@ much in common. They were both square-jawed, simple men, greedy of
 
 controversy but scornful of sophistry, dead to mysticism but very much
 
-alive to [[morality]]; and they were both very much more under the influence
+alive to morality; and they were both very much more under the influence
 
 of their own admirable rhetoric than they knew. Huxley, especially, was
 
@@ -991,9 +991,9 @@ much more a literary than a scientific man. It is amusing to note that
 
 when Huxley was charged with being rhetorical, he expressed his horror
 
-of "plastering the fair face of [[Truth|truth]] with that pestilent cosmetic,
+of "plastering the fair face of [[concepts/truth|truth]] with that pestilent cosmetic,
 
-rhetoric," which is itself about as [[Well|well]]-plastered a piece of rhetoric
+rhetoric," which is itself about as [[motifs/well|well]]-plastered a piece of rhetoric
 
 as Ruskin himself could have managed. The difference that the period had
 
@@ -1015,13 +1015,13 @@ certain sense _was_ the Victorian era, it was assailed on many sides,
 
 and had been assailed even before the beginning of that era. The rest of
 
-the intellectual [[history]] of the [[Time|time]] is a series of reactions against
+the intellectual [[concepts/history|history]] of the [[motifs/time|time]] is a series of reactions against
 
 it, which come wave after wave. They have succeeded in shaking it, but
 
 not in dislodging it from the modern mind. The first of these was the
 
-[[Oxford]] Movement; a bow that broke when it had let loose the flashing
+[[settings/oxford|Oxford]] Movement; a bow that broke when it had let loose the flashing
 
 arrow that was Newman. The second reaction was one man; without teachers
 
@@ -1035,7 +1035,7 @@ also was at once romantic and Puritan; but he belonged to no group, and
 
 worked against materialism in a manner entirely his own. Though as a boy
 
-he bought eagerly Shelley's revolutionary [[Poems|poems]], he did not think of
+he bought eagerly Shelley's revolutionary poems, he did not think of
 
 becoming a revolutionary poet. He concentrated on the special souls of
 
@@ -1047,21 +1047,21 @@ the Victorian poets. From Ruskin, again, descend those who may be called
 
 the Pre-Raphaelites of prose and poetry.
 
-It is really with this rationalism triumphant, and with the [[Romance|romance]] of
+It is really with this rationalism triumphant, and with the romance of
 
 these various attacks on it, that the study of Victorian literature
 
-begins and proceeds. Bentham was already the [[Prophet|prophet]] of a powerful sect;
+begins and proceeds. Bentham was already the [[archetypes/prophet|prophet]] of a powerful sect;
 
 Macaulay was already the historian of an historic party, before the true
 
 Victorian epoch began. The middle classes were emerging in a state of
 
-damaged [[Puritanism]]. The upper classes were utterly pagan. Their clear
+damaged [[historical-references/puritanism|Puritanism]]. The upper classes were utterly pagan. Their clear
 
 and courageous testimony remains in those immortal words of Lord
 
-Melbourne, who had led the young [[Queen|queen]] to the throne and long stood
+Melbourne, who had led the young [[characters/queen|queen]] to the throne and long stood
 
 there as her protector. "No one has more respect for the Christian
 
@@ -1071,7 +1071,7 @@ private life----" What was pure paganism in the politics of Melbourne
 
 became a sort of mystical cynicism in the politics of Disraeli; and is
 
-[[Well|well]] mirrored in his novels--for he was a man who felt at [[Home|home]] in
+[[motifs/well|well]] mirrored in his novels--for he was a man who felt at [[motifs/home|home]] in
 
 mirrors. With every allowance for aliens and eccentrics and all the
 
@@ -1079,7 +1079,7 @@ accidents that must always eat the edges of any systematic
 
 circumference, it may still be said that the Utilitarians held the fort.
 
-Of the [[Oxford]] Movement what remains most strongly in the Victorian Epoch
+Of the [[settings/oxford|Oxford]] Movement what remains most strongly in the Victorian Epoch
 
 centres round the challenge of Newman, its one great literary man. But
 
@@ -1089,13 +1089,13 @@ genesis and make up of the society: yet that significance is not quite
 
 easy immediately to define. It was certainly not æsthetic ritualism;
 
-scarcely one of the [[Oxford]] High Churchmen was what we should call a
+scarcely one of the [[settings/oxford|Oxford]] High Churchmen was what we should call a
 
 Ritualist. It was certainly not a conscious reaching out towards Rome:
 
 except on a Roman Catholic theory which might explain all our unrests by
 
-that dim [[Desire|desire]]. It knew little of Europe, it knew nothing of Ireland,
+that dim [[motifs/desire|desire]]. It knew little of Europe, it knew nothing of Ireland,
 
 to which any merely Roman Catholic revulsion would obviously have
 
@@ -1133,7 +1133,7 @@ French Republic created, when it affirmed property and abolished
 
 peerages; France still stands like a square, four-sided building which
 
-Europe has besieged in vain. The men of the [[Oxford]] Movement would have
+Europe has besieged in vain. The men of the [[settings/oxford|Oxford]] Movement would have
 
 been horrified at being compared either with Moslems or Jacobins. But
 
@@ -1143,11 +1143,11 @@ had and ordinary Anglicans had not: the exalted excitement of
 
 consistency. If you were a Moslem you were not a Bacchanal. If you were
 
-a Republican you were not a peer. And so the [[Oxford]] men, even in their
+a Republican you were not a peer. And so the [[settings/oxford|Oxford]] men, even in their
 
 first and dimmest stages, felt that if you were a Churchman you were not
 
-a Dissenter. The [[Oxford]] Movement was, out of the very roots of its
+a Dissenter. The [[settings/oxford|Oxford]] Movement was, out of the very roots of its
 
 being, a rational movement; almost a rationalist movement. In that it
 
@@ -1161,7 +1161,7 @@ a Christian had a feast day he must have a fast day too. Otherwise, all
 
 days ought to be alike; and this was that very Utilitarianism against
 
-which their [[Oxford]] Movement was the first and most rational assault.
+which their [[settings/oxford|Oxford]] Movement was the first and most rational assault.
 
 This idea, even by reason of its reason, narrowed into a sort of sharp
 
@@ -1177,11 +1177,11 @@ told the rich, almost with taunts, that God sent the poor as eagles to
 
 strip them; Froude, who with Newman announced his return in the arrogant
 
-motto of [[Achilles]]. But the greater part of all this happened before what
+motto of [[characters/achilles|Achilles]]. But the greater part of all this happened before what
 
 is properly our period; and in that period Newman, and perhaps Newman
 
-[[Alone|alone]], is the expression and summary of the whole school. It was
+alone, is the expression and summary of the whole school. It was
 
 certainly in the Victorian Age, and after his passage to Rome, that
 
@@ -1207,7 +1207,7 @@ the _Apologia_. If he sometimes seemed to skin his enemies alive, it was
 
 because he himself lacked a skin. In this sense his _Apologia_ is a
 
-triumph far beyond the [[ephemeral]] charge on which it was founded; in this
+triumph far beyond the ephemeral charge on which it was founded; in this
 
 sense he does indeed (to use his own expression) vanquish not his
 
@@ -1223,7 +1223,7 @@ Catholics_, practically preached against a raging mob, rise not only
 
 higher but happier, as his instant unpopularity increases. There is
 
-something grander than [[Humour|humour]], there is fun, in the very first lecture
+something grander than humour, there is fun, in the very first lecture
 
 about the British Constitution as explained to a meeting of Russians.
 
@@ -1231,11 +1231,11 @@ But always his triumphs are the triumphs of a highly sensitive man: a
 
 man must feel insults before he can so insultingly and splendidly
 
-avenge them. He is a naked man, who carries a naked [[Sword|sword]]. The quality
+avenge them. He is a naked man, who carries a naked sword. The quality
 
 of his literary style is so successful that it succeeds in escaping
 
-definition. The quality of his [[logic]] is that of a long but passionate
+definition. The quality of his logic is that of a long but passionate
 
 patience, which waits until he has fixed all corners of an iron trap.
 
@@ -1271,7 +1271,7 @@ had almost said to spit forth) their fiercest and most extraordinary
 
 enemy. The two primary things in Thomas Carlyle were his early Scotch
 
-[[Education|education]] and his later German culture. The first was in almost all
+[[concepts/education|education]] and his later German culture. The first was in almost all
 
 respects his strength; the latter in some respects his weakness. As an
 
@@ -1283,15 +1283,15 @@ their instinctive philosophic consideration of men merely as men. But he
 
 was not an ordinary peasant. If he had laboured obscurely in his village
 
-till [[Death|death]], he would have been yet locally a marked man; a man with a
+till [[motifs/death|death]], he would have been yet locally a marked man; a man with a
 
 wild eye, a man with an air of silent anger; perhaps a man at whom
 
-stones were sometimes thrown. A strain of disease and [[Suffering|suffering]] ran
+stones were sometimes thrown. A strain of disease and [[concepts/suffering|suffering]] ran
 
-athwart both his [[Body|body]] and his [[Soul|soul]]. In spite of his praise of [[Silence|silence]],
+athwart both his [[concepts/body|body]] and his [[motifs/soul|soul]]. In spite of his praise of [[motifs/silence|silence]],
 
-it was only through his gift of utterance that he escaped [[Madness|madness]]. But
+it was only through his gift of utterance that he escaped [[concepts/madness|madness]]. But
 
 while his fellow-peasants would have seen this in him and perhaps mocked
 
@@ -1303,9 +1303,9 @@ second sight. Like many ungainly or otherwise unattractive Scotchmen, he
 
 was a seer. By which I do not mean to refer so much to his
 
-transcendental rhapsodies about the World-[[Soul|soul]] or the [[Nature]]-garment or
+transcendental rhapsodies about the World-[[motifs/soul|soul]] or the [[concepts/nature|Nature]]-garment or
 
-the Mysteries and [[eternities|Eternities]] generally, these seem to me to belong more
+the Mysteries and Eternities generally, these seem to me to belong more
 
 to his German side and to be less sincere and vital. I mean a real power
 
@@ -1343,7 +1343,7 @@ against poetry. But, as a matter of fact, he himself was much greater
 
 considered as a kind of poet than considered as anything else; and the
 
-central idea of poetry is the idea of guessing right, like a [[Child|child]].
+central idea of poetry is the idea of guessing right, like a [[archetypes/child|child]].
 
 He first emerged, as it were, as a student and disciple of Goethe. The
 
@@ -1371,25 +1371,25 @@ Goethe were of a sort that did not draw the best out of Carlyle. The one
 
 civilised element that the German classicists forgot to put into their
 
-beautiful balance was a sense of [[Humour|humour]]. And great poet as Goethe was,
+beautiful balance was a sense of humour. And great poet as Goethe was,
 
 there is to the last something faintly fatuous about his half
 
-sceptical, half sentimental [[Self|self]]-importance; a Lord Chamberlain of
+sceptical, half sentimental [[concepts/self|self]]-importance; a Lord Chamberlain of
 
 teacup politics; an earnest and elderly flirt; a German of the Germans.
 
-Now Carlyle had [[Humour|humour]]; he had it in his very style, but it never got
+Now Carlyle had humour; he had it in his very style, but it never got
 
-into his [[philosophy]]. His [[philosophy]] largely remained a heavy Teutonic
+into his philosophy. His philosophy largely remained a heavy Teutonic
 
 idealism, absurdly unaware of the complexity of things; as when he
 
 perpetually repeated (as with a kind of flat-footed stamping) that
 
-people ought to tell the [[Truth|truth]]; apparently supposing, to quote
+people ought to tell the [[concepts/truth|truth]]; apparently supposing, to quote
 
-Stevenson's phrase, that telling the [[Truth|truth]] is as easy as blind hookey.
+Stevenson's phrase, that telling the [[concepts/truth|truth]] is as easy as blind hookey.
 
 Yet, though his general honesty is unquestionable, he was by no means
 
@@ -1401,13 +1401,13 @@ admit easily that he had guessed wrong. His version of Cromwell's filthy
 
 cruelties in Ireland, or his impatient slurring over of the most
 
-sinister [[Riddle|riddle]] in the [[morality]] of Frederick the Great--these passages
+sinister [[forms/riddle|riddle]] in the morality of Frederick the Great--these passages
 
 are, one must frankly say, disingenuous. But it is, so to speak, a
 
 generous disingenuousness; the heat and momentum of sincere admirations,
 
-not the shuffling [[Fear|fear]] and flattery of the constitutional or patriotic
+not the shuffling [[concepts/fear|fear]] and flattery of the constitutional or patriotic
 
 historian. It bears most resemblance to the incurable prejudices of a
 
@@ -1417,29 +1417,29 @@ For the rest there hovered behind all this transcendental haze a certain
 
 presence of old northern paganism; he really had some sympathy with the
 
-vast vague gods of that moody but not unmanly [[Nature]]-worship which seems
+vast vague gods of that moody but not unmanly [[concepts/nature|Nature]]-worship which seems
 
 to have filled the darkness of the North before the coming of the Roman
 
-Eagle or the Christian [[Cross]]. This he combined, allowing for certain
+Eagle or the Christian [[motifs/cross|Cross]]. This he combined, allowing for certain
 
 sceptical omissions, with the grisly Old Testament God he had heard
 
-about in the black Sabbaths of his [[Childhood|childhood]]; and so promulgated
+about in the black Sabbaths of his [[motifs/childhood|childhood]]; and so promulgated
 
-(against both Rationalists and Catholics) a sort of heathen [[Puritanism]]:
+(against both Rationalists and Catholics) a sort of heathen [[historical-references/puritanism|Puritanism]]:
 
-Protestantism purged of its evidences of [[Christianity]].
+Protestantism purged of its evidences of [[historical-references/christianity|Christianity]].
 
 His great and real work was the attack on Utilitarianism: which did real
 
 good, though there was much that was muddled and dangerous in the
 
-historical [[philosophy]] which he preached as an alternative. It is his
+historical philosophy which he preached as an alternative. It is his
 
 real glory that he was the first to see clearly and say plainly the
 
-great [[Truth|truth]] of our [[Time|time]]; that the wealth of the state is not the
+great [[concepts/truth|truth]] of our [[motifs/time|time]]; that the wealth of the state is not the
 
 prosperity of the people. Macaulay and the Mills and all the regular run
 
@@ -1447,7 +1447,7 @@ of the Early Victorians, took it for granted that if Manchester was
 
 getting richer, we had got hold of the key to comfort and progress.
 
-Carlyle pointed out (with stronger sagacity and [[Humour|humour]] than he showed on
+Carlyle pointed out (with stronger sagacity and humour than he showed on
 
 any other question) that it was just as true to say that Manchester was
 
@@ -1459,19 +1459,19 @@ pleasing people in Manchester. In this matter he is to be noted in
 
 connection with national developments much later; for he thus became the
 
-first [[Prophet|prophet]] of the Socialists. _Sartor Resartus_ is an admirable
+first [[archetypes/prophet|prophet]] of the Socialists. _Sartor Resartus_ is an admirable
 
 fantasia; _The French Revolution_ is, with all its faults, a really
 
-fine piece of [[history]]; the lectures on Heroes contain some masterly
+fine piece of [[concepts/history|history]]; the lectures on Heroes contain some masterly
 
 sketches of personalities. But I think it is in _Past and Present_, and
 
-the [[Essay|essay]] on _Chartism_, that Carlyle achieves the work he was chosen by
+the [[forms/essay|essay]] on _Chartism_, that Carlyle achieves the work he was chosen by
 
 gods and men to achieve; which possibly might not have been achieved by
 
-a happier or more healthy-minded man. He never [[Rose|rose]] to more deadly irony
+a happier or more healthy-minded man. He never [[motifs/rose|rose]] to more deadly irony
 
 than in such _macabre_ descriptions as that of the poor woman proving
 
@@ -1489,7 +1489,7 @@ at all.... He that accuses us of producing, let him show himself. Let
 
 him say what and when." And he never wrote so sternly and justly as when
 
-he compared the "divine sorrow" of [[Dante]] with the "undivine sorrow" of
+he compared the "divine sorrow" of [[historical-references/dante|Dante]] with the "undivine sorrow" of
 
 Utilitarianism, which had already come down to talking about the
 
@@ -1509,7 +1509,7 @@ cockney cheerfulness of the cheaper economists, they and others
 
 represented him as a pessimist, and reduced all his azure infinities to
 
-a fit of the blues. But Carlyle's [[philosophy]], more carefully considered,
+a fit of the blues. But Carlyle's philosophy, more carefully considered,
 
 will be found to be dangerously optimist rather than pessimist. As a
 
@@ -1519,13 +1519,13 @@ satisfied. For he seems to have held the theory that good could not be
 
 definitely defeated in this world; and that everything in the long run
 
-finds its right level. It began with what we may call the "[[Bible]] of
+finds its right level. It began with what we may call the "[[historical-references/bible|Bible]] of
 
-[[history|History]]" idea: that all affairs and politics were a clouded but unbroken
+[[concepts/history|History]]" idea: that all affairs and politics were a clouded but unbroken
 
 revelation of the divine. Thus any enormous and unaltered human
 
-settlement--as the Norman Conquest or the secession of [[America]]--we must
+settlement--as the Norman Conquest or the secession of [[settings/america|America]]--we must
 
 suppose to be the will of God. It lent itself to picturesque treatment;
 
@@ -1535,7 +1535,7 @@ gave them at first a rhetorical advantage over the Catholic and other
 
 older schools. They could boast that their Creator was still creating;
 
-that he was in Man and [[Nature]], and was not hedged round in a Paradise or
+that he was in Man and [[concepts/nature|Nature]], and was not hedged round in a Paradise or
 
 imprisoned in a pyx. They could say their God had not grown too old for
 
@@ -1549,7 +1549,7 @@ defend their position. But they said things to the same effect: that
 
 what manages finally to happen, happens for a higher purpose. Carlyle
 
-said the [[French Revolution]] was a thing settled in the eternal councils
+said the [[historical-references/french-revolution|French Revolution]] was a thing settled in the eternal councils
 
 to be; and therefore (and not because it was right) attacking it was
 
@@ -1567,9 +1567,9 @@ the side of the big battalions--or at least, of the victorious ones.
 
 Thus a creed which set out to create conquerors would only corrupt
 
-soldiers; corrupt them with a craven and unsoldierly worship of [[success]]:
+soldiers; corrupt them with a craven and unsoldierly worship of success:
 
-and that which began as the [[philosophy]] of [[Courage|courage]] ends as the [[philosophy]]
+and that which began as the philosophy of [[concepts/courage|courage]] ends as the philosophy
 
 of cowardice. If, indeed, Carlyle were right in saying that right is
 
@@ -1583,13 +1583,13 @@ Anti-Utilitarian element, is to be kept in mind in connection with after
 
 developments: for in this Carlyle is the first cry of Imperialism, as
 
-(in the other case) of Socialism: and the two babes [[unborn]] who stir at
+(in the other case) of Socialism: and the two babes unborn who stir at
 
-the trumpet are Mr. Bernard [[Shaw]] and Mr. Rudyard Kipling. Kipling also
+the trumpet are Mr. Bernard [[works/shaw-(chesterton)|Shaw]] and Mr. Rudyard Kipling. Kipling also
 
 carries on from Carlyle the concentration on the purely Hebraic parts of
 
-the [[Bible]]. The fallacy of this whole [[philosophy]] is that if God is indeed
+the [[historical-references/bible|Bible]]. The fallacy of this whole philosophy is that if God is indeed
 
 present at a modern battle, He may be present not as on Gilboa but
 
@@ -1605,7 +1605,7 @@ develops rather the harsher and more impatient moral counsels of his
 
 master than like Ruskin the more romantic and sympathetic. He carries on
 
-the tradition of [[Hero]] Worship: but carries far beyond Carlyle the
+the tradition of [[archetypes/hero|Hero]] Worship: but carries far beyond Carlyle the
 
 practice of worshipping people who cannot rationally be called heroes.
 
@@ -1613,7 +1613,7 @@ In this matter that eccentric eye of the seer certainly helped Carlyle:
 
 in Cromwell and Frederick the Great there was at least something
 
-[[Self|self]]-begotten, original or mystical; if they were not heroes they were
+[[concepts/self|self]]-begotten, original or mystical; if they were not heroes they were
 
 at least demigods or perhaps demons. But Froude set himself to the
 
@@ -1621,25 +1621,25 @@ praise of the Tudors, a much lower class of people; ill-conditioned
 
 prosperous people who merely waxed fat and kicked. Such strength as
 
-[[Henry VIII]] had was the strength of a badly trained [[Horse|horse]] that bolts, not
+[[characters/henry-viii|Henry VIII]] had was the strength of a badly trained [[motifs/horse|horse]] that bolts, not
 
 of any clear or courageous rider who controls him. There is a sort of
 
 strong man mentioned in Scripture who, because he masters himself, is
 
-more than he that takes a [[City|city]]. There is another kind of strong man
+more than he that takes a [[motifs/city|city]]. There is another kind of strong man
 
 (known to the medical profession) who cannot master himself; and whom it
 
-may take half a [[City|city]] to take alive. But for all that he is a low
+may take half a [[motifs/city|city]] to take alive. But for all that he is a low
 
-lunatic, and not a [[Hero|hero]]; and of that sort were too many of the heroes
+lunatic, and not a [[archetypes/hero|hero]]; and of that sort were too many of the heroes
 
 whom Froude attempted to praise. A kind of instinct kept Carlyle from
 
-over-praising [[Henry VIII]]; or that highly cultivated and complicated
+over-praising [[characters/henry-viii|Henry VIII]]; or that highly cultivated and complicated
 
-liar, [[Queen Elizabeth]]. Here, the only importance of this is that one of
+liar, [[characters/queen-elizabeth|Queen Elizabeth]]. Here, the only importance of this is that one of
 
 Carlyle's followers carried further that "strength" which was the real
 
@@ -1655,7 +1655,7 @@ was not ashamed of being partisan or of being picturesque. Such studies
 
 as he wrote on the Elizabethan seamen and adventurers, represent very
 
-triumphantly the sort of [[Romance|romance]] of England that all this school was
+triumphantly the sort of romance of England that all this school was
 
 attempting to establish; and link him up with Kingsley and the rest.
 
@@ -1669,23 +1669,23 @@ English without disordering it. And in the matter of religion (which
 
 was the key of this age as of every other) he did not, like Carlyle, set
 
-up the [[Romance|romance]] of the great Puritans as a rival to the [[Romance|romance]] of the
+up the romance of the great Puritans as a rival to the romance of the
 
-[[Catholic Church]]. Rather he set up and worshipped all the arts and
+[[historical-references/catholic-church|Catholic Church]]. Rather he set up and worshipped all the arts and
 
-trophies of the [[Catholic Church]] as a rival to the Church itself. None
+trophies of the [[historical-references/catholic-church|Catholic Church]] as a rival to the Church itself. None
 
 need dispute that he held a perfectly tenable position if he chose to
 
-associate early Florentine art with a [[Christianity]] still comparatively
+associate early Florentine art with a [[historical-references/christianity|Christianity]] still comparatively
 
-pure, and such sensualities as the [[Renaissance]] bred with the corruption
+pure, and such sensualities as the [[historical-references/renaissance|Renaissance]] bred with the corruption
 
 of a Papacy. But this does not alter, as a merely artistic fact, the
 
 strange air of ill-ease and irritation with which Ruskin seems to tear
 
-down the [[gargoyles]] of Amiens or the marbles of [[Venice]], as things of
+down the gargoyles of Amiens or the marbles of [[settings/venice|Venice]], as things of
 
 which Europe is not worthy; and take them away with him to a really
 
@@ -1697,11 +1697,11 @@ headache which was literally a "splitting headache"; for there was a
 
 schism in the sympathies. When these men looked at some historic
 
-object, like the [[Catholic Church]] or the [[French Revolution]], they did not
+object, like the [[historical-references/catholic-church|Catholic Church]] or the [[historical-references/french-revolution|French Revolution]], they did not
 
 know whether they loved or hated it most. Carlyle's two eyes were out of
 
-focus, as one may say, when he looked at [[Democracy|democracy]]: he had one eye on
+focus, as one may say, when he looked at [[concepts/democracy|democracy]]: he had one eye on
 
 Valmy and the other on Sedan. In the same way, Ruskin had a strong right
 
@@ -1719,7 +1719,7 @@ was troubled under its serene surface. The incessant excitement of
 
 Kingsley, though romantic and attractive in many ways, was a great deal
 
-more like Nervous [[Christianity]] than Muscular [[Christianity]]. It would be
+more like Nervous [[historical-references/christianity|Christianity]] than Muscular [[historical-references/christianity|Christianity]]. It would be
 
 quite unfair to say of Ruskin that there was any major inconsistency
 
@@ -1727,11 +1727,11 @@ between his mediæval tastes and his very unmediæval temper: and minor
 
 inconsistencies do not matter in anybody. But it is not quite unfair to
 
-say of him that he seemed to want all parts of the [[Cathedral]] except the
+say of him that he seemed to want all parts of the [[settings/cathedral|Cathedral]] except the
 
 altar.
 
-As an [[artist]] in prose he is one of the most miraculous products of the
+As an [[archetypes/artist|artist]] in prose he is one of the most miraculous products of the
 
 extremely poetical genius of England. The length of a Ruskin sentence is
 
@@ -1745,9 +1745,9 @@ as a bullet. There is no Victorian writer before him to whom he even
 
 suggests a comparison, technically considered, except perhaps De
 
-Quincey; who also employed the long rich [[rolling]] sentence that, like a
+Quincey; who also employed the long rich rolling sentence that, like a
 
-rocket, bursts into [[Stars|stars]] at the end. But De Quincey's sentences, as I
+rocket, bursts into [[motifs/stars|stars]] at the end. But De Quincey's sentences, as I
 
 have said, have always a dreamy and insecure sense about them, like the
 
@@ -1805,7 +1805,7 @@ least sentimental of his books, _Unto this Last_; but many suggestions
 
 of it are scattered through _Sesame and Lilies_, _The Political Economy
 
-of Art_, and even _Modern Painters_. On this side of his [[Soul|soul]] Ruskin
+of Art_, and even _Modern Painters_. On this side of his [[motifs/soul|soul]] Ruskin
 
 became the second founder of Socialism. The argument was not by any
 
@@ -1821,15 +1821,15 @@ Ruskin was seldom so sensible and logical (right or wrong) as when he
 
 was talking about economics. He constantly talked the most glorious
 
-nonsense about landscape and natural [[history]], which it was his business
+nonsense about landscape and natural [[concepts/history|history]], which it was his business
 
 to understand. Within his own limits, he talked the most cold common
 
 sense about political economy, which was no business of his at all.
 
-On the other side of his literary [[Soul|soul]], his mere unwrapping of the
+On the other side of his literary [[motifs/soul|soul]], his mere unwrapping of the
 
-wealth and [[Wonder|wonder]] of European art, he set going another influence,
+wealth and [[concepts/wonder|wonder]] of European art, he set going another influence,
 
 earlier and vaguer than his influence on Socialism. He represented what
 
@@ -1845,11 +1845,11 @@ They used the mediæval imagery to blaspheme the mediæval religion.
 
 Ruskin's dark and doubtful decision to accept Catholic art but not
 
-Catholic ethics had borne rapid or even flagrant fruit by the [[Time|time]] that
+Catholic ethics had borne rapid or even flagrant fruit by the [[motifs/time|time]] that
 
 Swinburne, writing about a harlot, composed a learned and sympathetic
 
-and indecent [[Parody|parody]] on the [[litany|Litany]] of the Blessed Virgin.
+and indecent [[forms/parody|parody]] on the [[forms/litany|Litany]] of the Blessed Virgin.
 
 With the poets I deal in another part of this book; but the influence of
 
@@ -1873,7 +1873,7 @@ is, without the funny parts. I may be wrong, but I cannot recall at this
 
 moment a single passage in which Pater's style takes a holiday or in
 
-which his wisdom plays the [[Fool|fool]]. Newman and Ruskin were as careful and
+which his wisdom plays the [[archetypes/fool|fool]]. Newman and Ruskin were as careful and
 
 graceful stylists as he. Newman and Ruskin were as serious, elaborate,
 
@@ -1889,7 +1889,7 @@ peroration of _The Renaissance_. The only objection to being where all
 
 the keenest emotions meet is that you feel none of them.
 
-In this sense Pater may [[Well|well]] stand for a substantial summary of the
+In this sense Pater may [[motifs/well|well]] stand for a substantial summary of the
 
 æsthetes, apart from the purely poetical merits of men like Rossetti and
 
@@ -1897,17 +1897,17 @@ Swinburne. Like Swinburne and others he first attempted to use mediæval
 
 tradition without trusting it. These people wanted to see Paganism
 
-_through_ [[Christianity]]: because it involved the incidental amusement of
+_through_ [[historical-references/christianity|Christianity]]: because it involved the incidental amusement of
 
-seeing through [[Christianity]] itself. They not only tried to be in all
+seeing through [[historical-references/christianity|Christianity]] itself. They not only tried to be in all
 
-ages at once (which is a very reasonable [[Ambition|ambition]], though not often
+ages at once (which is a very reasonable [[concepts/ambition|ambition]], though not often
 
 realised), but they wanted to be on all sides at once: which is
 
-nonsense. Swinburne tries to question the [[philosophy]] of [[Christianity]] in
+nonsense. Swinburne tries to question the philosophy of [[historical-references/christianity|Christianity]] in
 
-the metres of a Christmas [[carol]]: and [[Dante]] Rossetti tries to write as if
+the metres of a Christmas carol: and [[historical-references/dante|Dante]] Rossetti tries to write as if
 
 he were Christina Rossetti. Certainly the almost successful summit of
 
@@ -1915,15 +1915,15 @@ all this attempt is Pater's superb passage on the Mona Lisa; in which he
 
 seeks to make her at once a mystery of good and a mystery of evil. The
 
-[[philosophy]] is false; even evidently false, for it bears no fruit to-day.
+philosophy is false; even evidently false, for it bears no fruit to-day.
 
-There never was a woman, not Eve herself in the instant of [[Temptation|temptation]],
+There never was a woman, not Eve herself in the instant of [[concepts/temptation|temptation]],
 
-who could smile the same smile as the mother of [[Helen]] and the mother of
+who could smile the same smile as the mother of [[characters/helen|Helen]] and the mother of
 
-Mary. But it is the high-[[Water|water]] mark of that vast attempt at an
+Mary. But it is the high-[[motifs/water|water]] mark of that vast attempt at an
 
-impartiality reached through art: and no other mere [[artist]] ever [[Rose|rose]] so
+impartiality reached through art: and no other mere [[archetypes/artist|artist]] ever [[motifs/rose|rose]] so
 
 high again.
 
@@ -1939,13 +1939,13 @@ popular preacher; a popular novelist; and (in two cases at least) a very
 
 good novelist. His _Water Babies_ is really a breezy and roaring freak;
 
-like a holiday at the seaside--a holiday where one talks natural [[history]]
+like a holiday at the seaside--a holiday where one talks natural [[concepts/history|history]]
 
-without taking it seriously. Some of the [[songs]] in this and other of his
+without taking it seriously. Some of the songs in this and other of his
 
-works are very real [[songs]]: notably, "When all the World is Young, Lad,"
+works are very real songs: notably, "When all the World is Young, Lad,"
 
-which comes very near to being the only true defence of [[Marriage|marriage]] in the
+which comes very near to being the only true defence of [[motifs/marriage|marriage]] in the
 
 controversies of the nineteenth century. But when all this is allowed,
 
@@ -1981,7 +1981,7 @@ liberal _bourgeois_ England of priggishness and provinciality. I mean,
 
 of course, Matthew Arnold. Against Mill's "liberty" and Carlyle's
 
-"strength" and Ruskin's "[[Nature|nature]]," he set up a new presence and entity
+"strength" and Ruskin's "[[concepts/nature|nature]]," he set up a new presence and entity
 
 which he called "culture," the disinterested play of the mind through
 
@@ -1999,7 +1999,7 @@ only right but highly valuable. If we have said that Carlyle was a man
 
 that saw things, we may add that Arnold was chiefly valuable as a man
 
-who knew things. [[Well]] as he was endowed intellectually, his power came
+who knew things. [[motifs/well|Well]] as he was endowed intellectually, his power came
 
 more from information than intellect. He simply happened to know certain
 
@@ -2013,7 +2013,7 @@ the morning after Waterloo. He knew that England was then (as it is now)
 
 an oligarchical State, and that many great nations are not. He knew
 
-that a real [[Democracy|democracy]] need not live and does not live in that perpetual
+that a real [[concepts/democracy|democracy]] need not live and does not live in that perpetual
 
 panic about using the powers of the State, which possessed men like
 
@@ -2021,7 +2021,7 @@ Spencer and Cobden. He knew a rational minimum of culture and common
 
 courtesy could exist and did exist throughout large democracies. He knew
 
-the [[Catholic Church]] had been in [[history]] "the Church of the multitude":
+the [[historical-references/catholic-church|Catholic Church]] had been in [[concepts/history|history]] "the Church of the multitude":
 
 he knew it was not a sect. He knew that great landlords are no more a
 
@@ -2063,13 +2063,13 @@ and even of the meaning of the words: but he thought a certain need in
 
 man would always be best satisfied by public worship and especially by
 
-the great religious literatures of the past. He would embalm the [[Body|body]]
+the great religious literatures of the past. He would embalm the [[concepts/body|body]]
 
-that it might often be revisited by the [[Soul|soul]]--or souls. Something of the
+that it might often be revisited by the [[motifs/soul|soul]]--or souls. Something of the
 
 sort has been suggested by Dr. Coit and others of the ethical societies
 
-in our own [[Time|time]]. But while Arnold would loosen the theological bonds of
+in our own [[motifs/time|time]]. But while Arnold would loosen the theological bonds of
 
 the Church, he would not loosen the official bonds of the State. You
 
@@ -2109,11 +2109,11 @@ sentence, rather than risk ambiguity by abbreviation. His genius showed
 
 itself in turning this method of a laborious lucidity into a peculiarly
 
-exasperating form of [[Satire|satire]] and controversy. Newman's strength was in a
+exasperating form of [[forms/satire|satire]] and controversy. Newman's strength was in a
 
-sort of stifled passion, a dangerous patience of polite [[logic]] and then:
+sort of stifled passion, a dangerous patience of polite logic and then:
 
-"Cowards! if I advanced a step you would run away: it is not you I [[Fear|fear]].
+"Cowards! if I advanced a step you would run away: it is not you I [[concepts/fear|fear]].
 
 _Di me terrent, et Jupiter hostis._" If Newman seemed suddenly to fly
 
@@ -2121,7 +2121,7 @@ into a temper, Carlyle seemed never to fly out of one. But Arnold kept a
 
 smile of heart-broken forbearance, as of the teacher in an idiot school,
 
-that was enormously insulting. One trick he often tried with [[success]]. If
+that was enormously insulting. One trick he often tried with success. If
 
 his opponent had said something foolish, like "the destiny of England is
 
@@ -2129,11 +2129,11 @@ in the great heart of England," Arnold would repeat the phrase again and
 
 again until it looked more foolish than it really was. Thus he recurs
 
-again and again to "the British College of Health in the New [[Road]]" till
+again and again to "the British College of Health in the New [[motifs/road|Road]]" till
 
 the reader wants to rush out and burn the place down. Arnold's great
 
-error was that he sometimes thus wearied us of his own phrases, as [[Well|well]]
+error was that he sometimes thus wearied us of his own phrases, as [[motifs/well|well]]
 
 as of his enemies'.
 
@@ -2141,11 +2141,11 @@ These names are roughly representative of the long series of protests
 
 against the cold commercial rationalism which held Parliament and the
 
-schools through the earlier Victorian [[Time|time]], in so far as those protests
+schools through the earlier Victorian [[motifs/time|time]], in so far as those protests
 
 were made in the name of neglected intellect, insulted art, forgotten
 
-[[Heroism|heroism]] and desecrated religion. But already the Utilitarian citadel had
+[[concepts/heroism|heroism]] and desecrated religion. But already the Utilitarian citadel had
 
 been more heavily bombarded on the other side by one lonely and
 
@@ -2169,7 +2169,7 @@ the mob do not err as to the fact itself; their error is in not seeing
 
 that just as a crowd is comparatively ignorant, so a crowd is
 
-comparatively [[Innocent|innocent]]. It will have the old and human faults; but it is
+comparatively [[archetypes/innocent|innocent]]. It will have the old and human faults; but it is
 
 not likely to specialise in the special faults of that particular
 
@@ -2177,13 +2177,13 @@ society: because the effort of the strong and successful in all ages is
 
 to keep the poor out of society. If the higher castes have developed
 
-some special moral [[Beauty|beauty]] or grace, as they occasionally do (for
+some special moral [[concepts/beauty|beauty]] or grace, as they occasionally do (for
 
 instance, mediæval chivalry), it is likely enough, of course, that the
 
 mass of men will miss it. But if they have developed some perversion or
 
-over-emphasis, as they much more often do (for instance, the [[Renaissance]]
+over-emphasis, as they much more often do (for instance, the [[historical-references/renaissance|Renaissance]]
 
 poisoning), then it will be the tendency of the mass of men to miss that
 
@@ -2199,7 +2199,7 @@ poor are always nearest to heaven.
 
 Dickens was a mob--and a mob in revolt; he fought by the light of
 
-[[Nature|nature]]; he had not a theory, but a thirst. If any one chooses to offer
+[[concepts/nature|nature]]; he had not a theory, but a thirst. If any one chooses to offer
 
 the cheap sarcasm that his thirst was largely a thirst for milk-punch, I
 
@@ -2209,9 +2209,9 @@ sense this is perfectly true. His thirst was for things as humble, as
 
 human, as laughable as that daily bread for which we cry to God. He had
 
-no particular plan of [[Reform|reform]]; or, when he had, it was startlingly petty
+no particular plan of [[concepts/reform|reform]]; or, when he had, it was startlingly petty
 
-and parochial compared with the deep, confused clamour of [[Comradeship|comradeship]]
+and parochial compared with the deep, confused clamour of [[concepts/comradeship|comradeship]]
 
 and insurrection that fills all his narrative. It would not be gravely
 
@@ -2227,7 +2227,7 @@ the economic laws that were working so faultlessly in Fever Alley; the
 
 wealth that was accumulating so rapidly in Bleeding Heart Yard. But,
 
-above all, he didn't like the _mean_ side of the Manchester [[philosophy]]:
+above all, he didn't like the _mean_ side of the Manchester philosophy:
 
 the preaching of an impossible thrift and an intolerable temperance. He
 
@@ -2263,25 +2263,25 @@ Bethel to which Kit's mother went: he hated it simply as Kit hated it.
 
 Newman could have told him it was hateful, because it had no root in
 
-religious [[history]]; it was not even a sapling sprung of the seed of some
+religious [[concepts/history|history]]; it was not even a sapling sprung of the seed of some
 
 great human and heathen tree: it was a monstrous mushroom that grows in
 
-the moonshine and dies in the [[Dawn|dawn]]. Dickens knew no more of religious
+the moonshine and dies in the [[motifs/dawn|dawn]]. Dickens knew no more of religious
 
-[[history]] than Kit; he simply smelt the fungus, and it stank. Thus, again,
+[[concepts/history|history]] than Kit; he simply smelt the fungus, and it stank. Thus, again,
 
 he hated that insolent luxury of a class counting itself a comfortable
 
-exception to all mankind; he hated it as [[Kate Nickleby]] hated Sir
+exception to all mankind; he hated it as [[characters/kate-nickleby|Kate Nickleby]] hated Sir
 
 Mulberry Hawke--by instinct. Carlyle could have told him that all the
 
 world was full of that anger against the impudent fatness of the few.
 
-But when Dickens wrote about [[Kate Nickleby]], he knew about as much of the
+But when Dickens wrote about [[characters/kate-nickleby|Kate Nickleby]], he knew about as much of the
 
-world--as [[Kate Nickleby]]. He did write _The Tale of Two Cities_ long
+world--as [[characters/kate-nickleby|Kate Nickleby]]. He did write _The Tale of Two Cities_ long
 
 afterwards; but that was when he _had_ been instructed by Carlyle. His
 
@@ -2337,7 +2337,7 @@ appreciating the presence--or the absence--of a particular and positive
 
 pleasure. He had no learning; he was not misled by the label on the
 
-bottle--for that is what learning largely meant in his [[Time|time]]. He opened
+bottle--for that is what learning largely meant in his [[motifs/time|time]]. He opened
 
 his mouth and shut his eyes and saw what the Age of Reason would give
 
@@ -2355,7 +2355,7 @@ not see that Dickens was primarily the most successful of all the
 
 onslaughts on the solid scientific school; because he did not attack
 
-from the standpoint of extraordinary [[Faith|faith]], like Newman; or the
+from the standpoint of extraordinary [[concepts/faith|faith]], like Newman; or the
 
 standpoint of extraordinary inspiration, like Carlyle; or the standpoint
 
@@ -2369,7 +2369,7 @@ educational schemes which he could see spread like a clear railway map
 
 all over the Continent, was much badgered about what he really thought
 
-was _wrong_ with English middle-class [[Education|education]]. Despairing of
+was _wrong_ with English middle-class [[concepts/education|education]]. Despairing of
 
 explaining to the English middle class the idea of high and central
 
@@ -2391,7 +2391,7 @@ sense, Dickens, the great romanticist, is truly the great realist also.
 
 For he had no abstractions: he had nothing except realities out of which
 
-to make a [[Romance|romance]].
+to make a romance.
 
 With Dickens, then, re-arises that reality with which I began and which
 
@@ -2425,11 +2425,11 @@ exaggerations of his enemies or exaggerations of himself. Dickens was
 
 personal in a more godlike sense; he could multiply persons. He could
 
-create all the farce and [[Tragedy|tragedy]] of his age over again, with creatures
+create all the farce and [[forms/tragedy|tragedy]] of his age over again, with creatures
 
-[[unborn]] to sin and creatures [[unborn]] to suffer. That which had not been
+unborn to sin and creatures unborn to suffer. That which had not been
 
-achieved by the fierce facts of Cobbett, the burning [[Dreams|dreams]] of Carlyle,
+achieved by the fierce facts of Cobbett, the burning [[motifs/dreams|dreams]] of Carlyle,
 
 the white-hot proofs of Newman, was really or very nearly achieved by a
 
@@ -2443,17 +2443,17 @@ CHAPTER II
 
 THE GREAT VICTORIAN NOVELISTS
 
-The Victorian [[Novel|novel]] was a thing entirely Victorian; quite unique and
+The Victorian [[forms/novel|novel]] was a thing entirely Victorian; quite unique and
 
-suited to a sort of cosiness in that country and that age. But the [[Novel|novel]]
+suited to a sort of cosiness in that country and that age. But the [[forms/novel|novel]]
 
 itself, though not merely Victorian, is mainly modern. No clear-headed
 
-person wastes his [[Time|time]] over definitions, except where he thinks his own
+person wastes his [[motifs/time|time]] over definitions, except where he thinks his own
 
 definition would probably be in dispute. I merely say, therefore, that
 
-when I say "[[Novel|novel]]," I mean a fictitious narrative (almost invariably,
+when I say "[[forms/novel|novel]]," I mean a fictitious narrative (almost invariably,
 
 but not necessarily, in prose) of which the essential is that the story
 
@@ -2469,11 +2469,11 @@ of the most conspicuous is that it is the art in which the conquests of
 
 woman are quite beyond controversy. The proposition that Victorian women
 
-have done [[Well|well]] in politics and [[philosophy]] is not necessarily an untrue
+have done [[motifs/well|well]] in politics and philosophy is not necessarily an untrue
 
 proposition; but it is a partisan proposition. I never heard that many
 
-women, let [[Alone|alone]] men, shared the views of Mary Wollstonecraft; I never
+women, let alone men, shared the views of Mary Wollstonecraft; I never
 
 heard that millions of believers flocked to the religion tentatively
 
@@ -2509,11 +2509,11 @@ dedicated _Jane Eyre_ to the author of _Vanity Fair_. I should hesitate
 
 to say that Charlotte Brontë's is a better book than Thackeray's, but I
 
-think it might [[Well|well]] be maintained that it is a better story. All sorts
+think it might [[motifs/well|well]] be maintained that it is a better story. All sorts
 
-of inquiring asses (equally ignorant of the old [[Nature|nature]] of woman and the
+of inquiring asses (equally ignorant of the old [[concepts/nature|nature]] of woman and the
 
-new [[Nature|nature]] of the [[Novel|novel]]) whispered wisely that George Eliot's novels
+new [[concepts/nature|nature]] of the [[forms/novel|novel]]) whispered wisely that George Eliot's novels
 
 were really written by George Lewes. I will cheerfully answer for the
 
@@ -2521,23 +2521,23 @@ fact that, if they had been written by George Lewes, no one would ever
 
 have read them. Those who have read his book on Robespierre will have
 
-no [[Doubt|doubt]] about my meaning. I am no idolater of George Eliot; but a man
+no [[concepts/doubt|doubt]] about my meaning. I am no idolater of George Eliot; but a man
 
 who could concoct such a crushing opiate about the most exciting
 
-occasion in [[history]] certainly did not write _The Mill on the Floss_.
+occasion in [[concepts/history|history]] certainly did not write _The Mill on the Floss_.
 
-This is the first fact about the [[Novel|novel]], that it is the introduction of a
+This is the first fact about the [[forms/novel|novel]], that it is the introduction of a
 
 new and rather curious kind of art; and it has been found to be
 
-peculiarly feminine, from the first good [[Novel|novel]] by Fanny Burney to the
+peculiarly feminine, from the first good [[forms/novel|novel]] by Fanny Burney to the
 
-last good [[Novel|novel]] by Miss May Sinclair. The [[Truth|truth]] is, I think, that the
+last good [[forms/novel|novel]] by Miss May Sinclair. The [[concepts/truth|truth]] is, I think, that the
 
-modern [[Novel|novel]] is a new thing; not new in its essence (for that is a
+modern [[forms/novel|novel]] is a new thing; not new in its essence (for that is a
 
-[[philosophy]] for fools), but new in the sense that it lets loose many of
+philosophy for fools), but new in the sense that it lets loose many of
 
 the things that are old. It is a hearty and exhaustive overhauling of
 
@@ -2551,23 +2551,23 @@ specialise in individuals, and be praised for doing so; just as in the
 
 Middle Ages she specialised in dignity and was praised for doing so.
 
-People put the matter wrong when they say that the [[Novel|novel]] is a study of
+People put the matter wrong when they say that the [[forms/novel|novel]] is a study of
 
-human [[Nature|nature]]. Human [[Nature|nature]] is a thing that even men can understand.
+human [[concepts/nature|nature]]. Human [[concepts/nature|nature]] is a thing that even men can understand.
 
-Human [[Nature|nature]] is born of the [[Pain|pain]] of a woman; human [[Nature|nature]] plays at
+Human [[concepts/nature|nature]] is born of the [[motifs/pain|pain]] of a woman; human [[concepts/nature|nature]] plays at
 
-peep-bo when it is two and at cricket when it is twelve; human [[Nature|nature]]
+peep-bo when it is two and at cricket when it is twelve; human [[concepts/nature|nature]]
 
-earns its living and desires the other sex and dies. What the [[Novel|novel]]
+earns its living and desires the other sex and dies. What the [[forms/novel|novel]]
 
 deals with is what women have to deal with; the differentiations, the
 
-twists and turns of this eternal [[River|river]]. The key of this new form of art,
+twists and turns of this eternal [[motifs/river|river]]. The key of this new form of art,
 
 which we call fiction, is sympathy. And sympathy does not mean so much
 
-feeling with all who feel, but rather [[Suffering|suffering]] with all who suffer. And
+feeling with all who feel, but rather [[concepts/suffering|suffering]] with all who suffer. And
 
 it was inevitable, under such an inspiration, that more attention should
 
@@ -2577,7 +2577,7 @@ promising domestic channel dug by the Victorian women, in books like
 
 _Cranford_, by Mrs. Gaskell, would have got to the sea, if they had been
 
-left [[Alone|alone]] to dig it. They might have made domesticity a fairyland.
+left alone to dig it. They might have made domesticity a fairyland.
 
 Unfortunately another idea, the idea of imitating men's cuffs and
 
@@ -2585,7 +2585,7 @@ collars and documents, cut across this purely female discovery and
 
 destroyed it.
 
-It may seem mere praise of the [[Novel|novel]] to say it is the art of sympathy
+It may seem mere praise of the [[forms/novel|novel]] to say it is the art of sympathy
 
 and the study of human variations. But indeed, though this is a good
 
@@ -2597,7 +2597,7 @@ exonerations. Two peasants in the Middle Ages quarrelled about their two
 
 fields. But they went to the same church, served in the same semi-feudal
 
-militia, and had the same [[morality]], which ever might happen to be
+militia, and had the same morality, which ever might happen to be
 
 breaking it at the moment. The very cause of their quarrel was the cause
 
@@ -2605,7 +2605,7 @@ of their fraternity; they both liked land. But suppose one of them a
 
 teetotaler who desired the abolition of hops on both farms; suppose the
 
-other a [[vegetarian]] who desired the abolition of chickens on both farms:
+other a vegetarian who desired the abolition of chickens on both farms:
 
 and it is at once apparent that a quarrel of quite a different kind
 
@@ -2619,15 +2619,15 @@ positive religion. Man is merely man only when he is seen against the
 
 sky. If he is seen against any landscape, he is only a man of that land.
 
-If he is seen against any [[house]], he is only a householder. Only where
+If he is seen against any house, he is only a householder. Only where
 
-[[Death|death]] and [[Eternity|eternity]] are intensely present can human beings fully feel
+[[motifs/death|death]] and [[concepts/eternity|eternity]] are intensely present can human beings fully feel
 
 their fellowship. Once the divine darkness against which we stand is
 
 really dismissed from the mind (as it was very nearly dismissed in the
 
-Victorian [[Time|time]]) the differences between human beings become
+Victorian [[motifs/time|time]]) the differences between human beings become
 
 overpoweringly plain; whether they are expressed in the high caricatures
 
@@ -2635,7 +2635,7 @@ of Dickens or the low lunacies of Zola.
 
 This can be seen in a sort of picture in the Prologue of the _Canterbury
 
-Tales_; which is already pregnant with the promise of the English [[Novel|novel]].
+Tales_; which is already pregnant with the promise of the English [[forms/novel|novel]].
 
 The characters there are at once graphically and delicately
 
@@ -2643,7 +2643,7 @@ differentiated; the Doctor with his rich cloak, his careful meals, his
 
 coldness to religion; the Franklin, whose white beard was so fresh that
 
-it recalled the daisies, and in whose [[house]] it snowed meat and drink;
+it recalled the daisies, and in whose house it snowed meat and drink;
 
 the Summoner, from whose fearful face, like a red cherub's, the children
 
@@ -2651,9 +2651,9 @@ fled, and who wore a garland like a hoop; the Miller with his short red
 
 hair and bagpipes and brutal head, with which he could break down a
 
-door; the [[Lover]] who was as sleepless as a [[Nightingale|nightingale]]; the Knight, the
+door; the [[archetypes/lover|Lover]] who was as sleepless as a [[motifs/nightingale|nightingale]]; the Knight, the
 
-Cook, the Clerk of [[Oxford]]. Pendennis or the Cook, M. Mirabolant, is
+Cook, the Clerk of [[settings/oxford|Oxford]]. Pendennis or the Cook, M. Mirabolant, is
 
 nowhere so vividly varied by a few merely verbal strokes. But the great
 
@@ -2677,7 +2677,7 @@ d'Ivry and Warrington and Captain Blackball and Lady Kew travel,
 
 laughing and telling tales together?
 
-The growth of the [[Novel|novel]], therefore, must not be too easily called an
+The growth of the [[forms/novel|novel]], therefore, must not be too easily called an
 
 increase in the interest in humanity. It is an increase in the interest
 
@@ -2685,15 +2685,15 @@ in the things in which men differ; much fuller and finer work had been
 
 done before about the things in which they agree. And this intense
 
-interest in variety had its bad side as [[Well|well]] as its good; it has rather
+interest in variety had its bad side as [[motifs/well|well]] as its good; it has rather
 
 increased social distinctions in a serious and spiritual sense. Most of
 
-the oblivion of [[Democracy|democracy]] is due to the oblivion of [[Death|death]]. But in its
+the oblivion of [[concepts/democracy|democracy]] is due to the oblivion of [[motifs/death|death]]. But in its
 
 own manner and measure, it was a real advance and experiment of the
 
-European mind, like the public art of the [[Renaissance]] or the fairyland
+European mind, like the public art of the [[historical-references/renaissance|Renaissance]] or the fairyland
 
 of physical science explored in the nineteenth century. It was a more
 
@@ -2709,11 +2709,11 @@ the great women writers that explains another very arresting and
 
 important fact about the emergence of genuinely Victorian fiction. It
 
-had been by this [[Time|time]] decided, by the powers that had influence (and by
+had been by this [[motifs/time|time]] decided, by the powers that had influence (and by
 
 public opinion also, at least in the middle-class sense), that certain
 
-verbal limits must be set to such literature. The [[Novel|novel]] must be what
+verbal limits must be set to such literature. The [[forms/novel|novel]] must be what
 
 some would call pure and others would call prudish; but what is not,
 
@@ -2731,7 +2731,7 @@ very properly the right to deal with shameful passions and suggest their
 
 shameful culminations; Scott sometimes dealt with ideas positively
 
-horrible--as in that grand Glenallan [[Tragedy|tragedy]] which is as appalling as
+horrible--as in that grand Glenallan [[forms/tragedy|tragedy]] which is as appalling as
 
 the _OEdipus_ or _The Cenci_. None of these great men would have
 
@@ -2751,7 +2751,7 @@ claimed in repeating the senile ecstasies of Gride (let us say) over his
 
 purchased bride: but Dickens does not leave the reader in the faintest
 
-[[Doubt|doubt]] about what sort of feelings they were; nor is there any reason why
+[[concepts/doubt|doubt]] about what sort of feelings they were; nor is there any reason why
 
 he should. Thackeray would not have described the toilet details of the
 
@@ -2763,7 +2763,7 @@ But though the great Victorian novelists would not have permitted the
 
 impudence of the suggestion that every part of their problem must be
 
-wholesome and [[Innocent|innocent]] in itself, it is still tenable (I do not say it
+wholesome and [[archetypes/innocent|innocent]] in itself, it is still tenable (I do not say it
 
 is certain) that by yielding to the Philistines on this verbal
 
@@ -2777,7 +2777,7 @@ coarse word is the word that condemns an evil and the refined word the
 
 word that excuses it. A common evasion, for instance, substitutes for
 
-the word that brands [[Self|self]]-sale as the essential sin, a word which weakly
+the word that brands [[concepts/self|self]]-sale as the essential sin, a word which weakly
 
 suggests that it is no more wicked than walking down the street. The
 
@@ -2795,9 +2795,9 @@ purity of the Victorian Age, that the age ended (save for the bursting
 
 of a single scandal) in a thing being everywhere called "Art," "The
 
-Greek Spirit," "The Platonic Ideal" and so on--which any navvy [[mending]]
+Greek Spirit," "The Platonic Ideal" and so on--which any navvy mending
 
-the [[Road|road]] outside would have stamped with a word as vile and as vulgar as
+the [[motifs/road|road]] outside would have stamped with a word as vile and as vulgar as
 
 it deserved.
 
@@ -2823,7 +2823,7 @@ limited. It could be content with nothing less than the whole cosmos:
 
 yet the cosmos with which it was content was small. It is false to say
 
-it was without [[Humour|humour]]: yet there was something by instinct unsmiling in
+it was without humour: yet there was something by instinct unsmiling in
 
 it. It was always saying solidly that things were "enough"; and proving
 
@@ -2841,13 +2841,13 @@ I begin with this great woman of letters for both the two reasons
 
 already mentioned. She represents the rationalism of the old Victorian
 
-Age at its highest. She and Mill are like two great [[Mountains|mountains]] at the end
+Age at its highest. She and Mill are like two great [[settings/mountains|mountains]] at the end
 
 of that long, hard chain which is the watershed of the Early Victorian
 
-[[Time|time]]. They [[Alone|alone]] rise high enough to be confused among the clouds--or
+[[motifs/time|time]]. They alone rise high enough to be confused among the clouds--or
 
-perhaps confused among the [[Stars|stars]]. They certainly were seeking [[Truth|truth]], as
+perhaps confused among the [[motifs/stars|stars]]. They certainly were seeking [[concepts/truth|truth]], as
 
 Newman and Carlyle were; the slow slope of the later Victorian vulgarity
 
@@ -2855,9 +2855,9 @@ does not lower their precipice and pinnacle. But I begin with this name
 
 also because it emphasises the idea of modern fiction as a fresh and
 
-largely a female thing. The [[Novel|novel]] of the nineteenth century was female;
+largely a female thing. The [[forms/novel|novel]] of the nineteenth century was female;
 
-as fully as the [[Novel|novel]] of the eighteenth century was male. It is quite
+as fully as the [[forms/novel|novel]] of the eighteenth century was male. It is quite
 
 certain that no woman could have written _Roderick Random_. It is not
 
@@ -2869,7 +2869,7 @@ George Eliot began to write.
 
 Her originals and even her contemporaries had shown the feminine power
 
-in fiction as [[Well|well]] or better than she. Charlotte Brontë, understood
+in fiction as [[motifs/well|well]] or better than she. Charlotte Brontë, understood
 
 along her own instincts, was as great; Jane Austen was greater. The
 
@@ -2895,7 +2895,7 @@ One of the characteristics of the central Victorian spirit was a
 
 tendency to substitute a certain more or less satisfied seriousness for
 
-the extremes of [[Tragedy|tragedy]] and [[Comedy|comedy]]. This is marked by a certain change
+the extremes of [[forms/tragedy|tragedy]] and [[forms/comedy|comedy]]. This is marked by a certain change
 
 in George Eliot; as it is marked by a certain limitation or moderation
 
@@ -2903,7 +2903,7 @@ in Dickens. Dickens was the People, as it was in the eighteenth century
 
 and still largely is, in spite of all the talk for and against Board
 
-School [[Education]]: comic, tragic, realistic, free-spoken, far looser in
+School [[concepts/education|Education]]: comic, tragic, realistic, free-spoken, far looser in
 
 words than in deeds. It marks the silent strength and pressure of the
 
@@ -2921,7 +2921,7 @@ the same popular realities: and her first books (at least as compared
 
 with her latest) were full of sound fun and bitter pathos. Mr. Max
 
-Beerbohm has remarked (in his glorious [[Essay|essay]] called _Ichabod_, I think),
+Beerbohm has remarked (in his glorious [[forms/essay|essay]] called _Ichabod_, I think),
 
 that Silas Marner would not have forgotten his miserliness if George
 
@@ -2933,7 +2933,7 @@ means anything more than a cold calculation of the chances, if there is
 
 in it, as I believe, any deeper idea of detaching the spirit of life
 
-from the dull obstacles of life, of permitting human [[Nature|nature]] really to
+from the dull obstacles of life, of permitting human [[concepts/nature|nature]] really to
 
 reveal itself as human, if (to put it shortly) literature has anything
 
@@ -2941,9 +2941,9 @@ on earth to do with being _interesting_--then I think we would rather
 
 have a few more Marners than that rich maturity that gave us the
 
-analysed [[Dust|dust]]-heaps of _Daniel Deronda_.
+analysed [[motifs/dust|dust]]-heaps of _Daniel Deronda_.
 
-In her best novels there is real [[Humour|humour]], of a cool sparkling sort; there
+In her best novels there is real humour, of a cool sparkling sort; there
 
 is a strong sense of substantial character that has not yet degenerated
 
@@ -2955,9 +2955,9 @@ indescribable thing called _glamour_; which was the whole stock-in-trade
 
 of the Brontës, which we feel in Dickens when Quilp clambers amid rotten
 
-wood by the desolate [[River|river]]; and even in Thackeray when Esmond with his
+wood by the desolate [[motifs/river|river]]; and even in Thackeray when Esmond with his
 
-[[Melancholy|melancholy]] eyes wanders like some swarthy crow about the dismal avenues
+[[concepts/melancholy|melancholy]] eyes wanders like some swarthy crow about the dismal avenues
 
 of Castlewood. Of this quality (which some have called, but hastily, the
 
@@ -2995,13 +2995,13 @@ can easily be seen by comparing her with a greater woman who died before
 
 the beginning of our present problem. Jane Austen was born before those
 
-bonds which (we are told) protected woman from [[Truth|truth]], were burst by the
+bonds which (we are told) protected woman from [[concepts/truth|truth]], were burst by the
 
 Brontës or elaborately untied by George Eliot. Yet the fact remains that
 
 Jane Austen knew much more about men than either of them. Jane Austen
 
-may have been protected from [[Truth|truth]]: but it was precious little of [[Truth|truth]]
+may have been protected from [[concepts/truth|truth]]: but it was precious little of [[concepts/truth|truth]]
 
 that was protected from her. When Darcy, in finally confessing his
 
@@ -3021,11 +3021,11 @@ nationalities.
 
 The Brontës suggest themselves here; because their superficial
 
-qualities, the qualities that can be seized upon in [[Satire|satire]], were in this
+qualities, the qualities that can be seized upon in [[forms/satire|satire]], were in this
 
 an exaggeration of what was, in George Eliot, hardly more than an
 
-omission. There was perhaps a [[Time|time]] when Mr. Rawjester was more widely
+omission. There was perhaps a [[motifs/time|time]] when Mr. Rawjester was more widely
 
 known than Mr. Rochester. And certainly Mr. Rochester (to adopt the
 
@@ -3047,9 +3047,9 @@ novelists make the men bully the women?" It is, I think, unquestionably
 
 true that the Brontës treated the male as an almost anarchic thing
 
-coming in from outside [[Nature|nature]]; much as people on this planet regard a
+coming in from outside [[concepts/nature|nature]]; much as people on this planet regard a
 
-comet. Even the really delicate and sustained [[Comedy|comedy]] of [[Paul Emanuel]] is
+comet. Even the really delicate and sustained [[forms/comedy|comedy]] of [[characters/paul-emanuel|Paul Emanuel]] is
 
 not quite free from this air of studying something alien. The reply may
 
@@ -3059,9 +3059,9 @@ is probably just.
 
 What the Brontës really brought into fiction was exactly what Carlyle
 
-brought into [[history]]; the blast of the mysticism of the North. They were
+brought into [[concepts/history|history]]; the blast of the mysticism of the North. They were
 
-of Irish [[Blood|blood]] settled on the windy heights of Yorkshire; in that
+of Irish [[motifs/blood|blood]] settled on the windy heights of Yorkshire; in that
 
 country where Catholicism lingered latest, but in a superstitious form;
 
@@ -3087,11 +3087,11 @@ rather as the Late Victorian Imperialism would have been to Mrs. Humphry
 
 Ward in the centre of the empire and to Miss Olive Schreiner at the edge
 
-of it. The real strength there is in characters like [[Robert Moore]], when
+of it. The real strength there is in characters like [[characters/robert-moore|Robert Moore]], when
 
-he is dealing with anything except women, is the [[Romance|romance]] of industry in
+he is dealing with anything except women, is the romance of industry in
 
-its first advance: a [[Romance|romance]] that has not remained. On such fighting
+its first advance: a romance that has not remained. On such fighting
 
 frontiers people always exaggerate the strong qualities the masculine
 
@@ -3115,13 +3115,13 @@ than an original person; perhaps an origin. But so far as her written
 
 works go she enters English letters only as an original person--and
 
-rather a narrow one. Her [[Imagination|imagination]] was sometimes superhuman--always
+rather a narrow one. Her [[concepts/imagination|imagination]] was sometimes superhuman--always
 
 inhuman. _Wuthering Heights_ might have been written by an eagle. She is
 
 the strongest instance of these strong imaginations that made the other
 
-sex a [[Monster|monster]]: for Heathcliffe fails as a man as catastrophically as he
+sex a [[archetypes/monster|monster]]: for Heathcliffe fails as a man as catastrophically as he
 
 succeeds as a demon. I think Emily Brontë was further narrowed by the
 
@@ -3133,9 +3133,9 @@ In any case, it is Charlotte Brontë who enters Victorian literature. The
 
 shortest way of stating her strong contribution is, I think, this: that
 
-she reached the highest [[Romance|romance]] through the lowest realism. She did not
+she reached the highest romance through the lowest realism. She did not
 
-set out with Amadis of Gaul in a forest or with Mr. [[Pickwick]] in a comic
+set out with Amadis of Gaul in a forest or with Mr. [[works/pickwick-(chesterton)|Pickwick]] in a comic
 
 club. She set out with herself, with her own dingy clothes, and
 
@@ -3143,7 +3143,7 @@ accidental ugliness, and flat, coarse, provincial household; and
 
 forcibly fused all such muddy materials into a spirited fairy-tale. If
 
-the first chapters on the [[Home|home]] and school had not proved how heavy and
+the first chapters on the [[motifs/home|home]] and school had not proved how heavy and
 
 hateful _sanity_ can be, there would really be less point in the
 
@@ -3155,15 +3155,15 @@ sensational in the commonplace: and _Jane Eyre_ remains the best of her
 
 books (better even than _Villette_) because while it is a human document
 
-written in [[Blood|blood]], it is also one of the best [[Blood|blood]]-and-thunder [[Detective|detective]]
+written in [[motifs/blood|blood]], it is also one of the best [[motifs/blood|blood]]-and-thunder [[archetypes/detective|detective]]
 
 stories in the world.
 
-But while Emily Brontë was as unsociable as a [[Storm|storm]] at midnight, and
+But while Emily Brontë was as unsociable as a [[motifs/storm|storm]] at midnight, and
 
 while Charlotte Brontë was at best like that warmer and more domestic
 
-thing, a [[house]] on [[Fire|fire]]--they do connect themselves with the calm of
+thing, a house on [[motifs/fire|fire]]--they do connect themselves with the calm of
 
 George Eliot, as the forerunners of many later developments of the
 
@@ -3171,15 +3171,15 @@ feminine advance. Many forerunners (if it comes to that) would have felt
 
 rather ill if they had seen the things they foreran. This notion of a
 
-hazy anticipation of after [[history]] has been absurdly overdone: as when
+hazy anticipation of after [[concepts/history|history]] has been absurdly overdone: as when
 
-men connect Chaucer with the [[Reformation]]; which is like connecting Homer
+men connect Chaucer with the [[historical-references/reformation|Reformation]]; which is like connecting Homer
 
 with the Syracusan Expedition. But it is to some extent true that all
 
 these great Victorian women had a sort of unrest in their souls. And the
 
-proof of it is that (after what I will claim to call the healthier [[Time|time]]
+proof of it is that (after what I will claim to call the healthier [[motifs/time|time]]
 
 of Dickens and Thackeray) it began to be admitted by the great Victorian
 
@@ -3191,7 +3191,7 @@ of _Tess of the D'Urbervilles_. To what this strange and very local sex
 
 war has been due I shall not ask, because I have no answer. That it was
 
-due to votes or even little legal inequalities about [[Marriage|marriage]], I feel
+due to votes or even little legal inequalities about [[motifs/marriage|marriage]], I feel
 
 myself here too close to realities even to discuss. My own guess is that
 
@@ -3209,9 +3209,9 @@ impossible to drop even into the second rank of good authors, whose name
 
 is legion; but it is impossible to leave that considerable female force
 
-in fiction which has so largely made the very [[Nature|nature]] of the modern
+in fiction which has so largely made the very [[concepts/nature|nature]] of the modern
 
-[[Novel|novel]], without mentioning two names which almost brought that second
+[[forms/novel|novel]], without mentioning two names which almost brought that second
 
 rank up to the first rank. They were at utterly opposite poles. The one
 
@@ -3221,13 +3221,13 @@ other succeeded by being a much more mad and unchristian Emily Brontë.
 
 But Mrs. Oliphant and the author calling herself "Ouida" both forced
 
-themselves [[Well|well]] within the frontier of fine literature. _The Beleaguered
+themselves [[motifs/well|well]] within the frontier of fine literature. _The Beleaguered
 
 City_ is literature in its highest sense; the other works of its author
 
 tend to fall into fiction in its best working sense. Mrs. Oliphant was
 
-infinitely saner in that [[City|city]] of [[Ghosts|ghosts]] than the cosmopolitan Ouida ever
+infinitely saner in that [[motifs/city|city]] of [[motifs/ghosts|ghosts]] than the cosmopolitan Ouida ever
 
 was in any of the cities of men. Mrs. Oliphant would never have dared to
 
@@ -3243,7 +3243,7 @@ style; of conveying the very heat of blue skies or the bursting of
 
 palpable pomegranates. And just as Mrs. Oliphant transfused her more
 
-timid Victorian tales with a true and intense [[Faith|faith]] in the Christian
+timid Victorian tales with a true and intense [[concepts/faith|faith]] in the Christian
 
 mystery--so Ouida, with infinite fury and infinite confusion of
 
@@ -3259,7 +3259,7 @@ on. On a general review I do not think I have been wrong in taking the
 
 female novelists first. I think they gave its special shape, its
 
-temporary twist, to the Victorian [[Novel|novel]].
+temporary twist, to the Victorian [[forms/novel|novel]].
 
 Nevertheless it is a shock (I almost dare to call it a relief) to come
 
@@ -3267,7 +3267,7 @@ back to the males. It is the more abrupt because the first name that
 
 must be mentioned derives directly from the mere maleness of the Sterne
 
-and Smollett [[Novel|novel]]. I have already spoken of Dickens as the most homely
+and Smollett [[forms/novel|novel]]. I have already spoken of Dickens as the most homely
 
 and instinctive, and therefore probably the heaviest, of all the
 
@@ -3279,9 +3279,9 @@ novelist; but there is still much more to say than can even conceivably
 
 be said. Dickens, as we have stated, inherited the old comic, rambling
 
-[[Novel|novel]] from Smollett and the rest. Dickens, as we have also stated,
+[[forms/novel|novel]] from Smollett and the rest. Dickens, as we have also stated,
 
-consented to expurgate that [[Novel|novel]]. But when all origins and all
+consented to expurgate that [[forms/novel|novel]]. But when all origins and all
 
 restraints have been defined and allowed for, the creature that came out
 
@@ -3305,15 +3305,15 @@ villains stalking out or cowardly bullies kicked downstairs. But the
 
 villains and the cowards are such delightful people that the reader
 
-always hopes the [[Villain|villain]] will put his head through a side [[Window|window]] and
+always hopes the [[archetypes/villain|villain]] will put his head through a side [[motifs/window|window]] and
 
 make a last remark; or that the bully will say one thing more, even from
 
-the [[Bottom|bottom]] of the stairs. The reader really hopes this; and he cannot
+the [[characters/bottom|bottom]] of the stairs. The reader really hopes this; and he cannot
 
 get rid of the fancy that the author hopes so too. I cannot at the
 
-moment recall that Dickens ever killed a comic [[Villain|villain]], except Quilp,
+moment recall that Dickens ever killed a comic [[archetypes/villain|villain]], except Quilp,
 
 who was deliberately made even more villainous than comic. There can be
 
@@ -3329,29 +3329,29 @@ Pecksniff, or even of catching Mr. Mantalini collecting the washing, if
 
 one always lurked about on Monday mornings. This sentiment (the true
 
-[[artist]] will be relieved to hear) is entirely unmoral. Mrs. Wilfer
+[[archetypes/artist|artist]] will be relieved to hear) is entirely unmoral. Mrs. Wilfer
 
-deserved [[Death|death]] much more than Mr. Quilp, for she had succeeded in
+deserved [[motifs/death|death]] much more than Mr. Quilp, for she had succeeded in
 
 poisoning family life persistently, while he was (to say the least of
 
 it) intermittent in his domesticity. But who can honestly say he does
 
-not [[Hope|hope]] Mrs. Wilfer is still talking like Mrs. Wilfer--especially if it
+not [[concepts/hope|hope]] Mrs. Wilfer is still talking like Mrs. Wilfer--especially if it
 
-is only in a book? This is the artistic [[Greatness|greatness]] of Dickens, before and
+is only in a book? This is the artistic [[concepts/greatness|greatness]] of Dickens, before and
 
 after which there is really nothing to be said. He had the power of
 
 creating people, both possible and impossible, who were simply precious
 
-and priceless people; and anything subtler added to that [[Truth|truth]] really
+and priceless people; and anything subtler added to that [[concepts/truth|truth]] really
 
 only weakens it.
 
 The mention of Mrs. Wilfer (whom the heart is loth to leave) reminds one
 
-of the only elementary ethical [[Truth|truth]] that is essential in the study of
+of the only elementary ethical [[concepts/truth|truth]] that is essential in the study of
 
 Dickens. That is that he had broad or universal sympathies in a sense
 
@@ -3359,11 +3359,11 @@ totally unknown to the social reformers who wallow in such phrases.
 
 Dickens (unlike the social reformers) really did sympathise with every
 
-sort of victim of every sort of [[Tyrant|tyrant]]. He did truly pray for _all_ who
+sort of victim of every sort of [[archetypes/tyrant|tyrant]]. He did truly pray for _all_ who
 
 are desolate and oppressed. If you try to tie him to any cause narrower
 
-than that [[Prayer]] Book definition, you will find you have shut out half
+than that [[motifs/prayer|Prayer]] Book definition, you will find you have shut out half
 
 his best work. If, in your sympathy for Mrs. Quilp, you call Dickens the
 
@@ -3375,15 +3375,15 @@ your sympathy for Mr. Rouncewell you call Dickens the champion of a
 
 manly middle-class Liberalism against Chesney Wold, you will suddenly
 
-remember [[Stephen Blackpool]]--and find yourself unable to deny that Mr.
+remember [[characters/stephen-blackpool|Stephen Blackpool]]--and find yourself unable to deny that Mr.
 
-Rouncewell might be a pretty insupportable cock on his own dung-[[Hill|hill]]. If
+Rouncewell might be a pretty insupportable cock on his own dung-[[motifs/hill|hill]]. If
 
-in your sympathy for [[Stephen Blackpool]] you call Dickens a Socialist (as
+in your sympathy for [[characters/stephen-blackpool|Stephen Blackpool]] you call Dickens a Socialist (as
 
 does Mr. Pugh), and think of him as merely heralding the great
 
-Collectivist revolt against Victorian [[Individualism]] and Capitalism,
+Collectivist revolt against Victorian [[concepts/individualism|Individualism]] and Capitalism,
 
 which seemed so clearly to be the crisis at the end of this epoch--you
 
@@ -3397,7 +3397,7 @@ Dickens did not merely believe in the brotherhood of men in the weak
 
 modern way; he was the brotherhood of men, and knew it was a brotherhood
 
-in sin as [[Well|well]] as in [[Aspiration|aspiration]]. And he was not only larger than the old
+in sin as [[motifs/well|well]] as in [[concepts/aspiration|aspiration]]. And he was not only larger than the old
 
 factions he satirised; he was larger than any of our great social
 
@@ -3405,7 +3405,7 @@ schools that have gone forward since he died.
 
 The seemingly quaint custom of comparing Dickens and Thackeray existed
 
-in their own [[Time|time]], and no one will dismiss it with entire disdain who
+in their own [[motifs/time|time]], and no one will dismiss it with entire disdain who
 
 remembers that the Victorian tradition was domestic and genuine, even
 
@@ -3415,9 +3415,9 @@ for making this imaginary duel between two quite separate and quite
 
 amiable acquaintances. And there is, after all, some reason for it. It
 
-is not, as was once cheaply said, that Thackeray went in for [[Truth|truth]], and
+is not, as was once cheaply said, that Thackeray went in for [[concepts/truth|truth]], and
 
-Dickens for mere caricature. There is a huge accumulation of [[Truth|truth]],
+Dickens for mere caricature. There is a huge accumulation of [[concepts/truth|truth]],
 
 down to the smallest detail, in Dickens: he seems sometimes a mere
 
@@ -3425,19 +3425,19 @@ mountain of facts. Thackeray, in comparison, often seems quite careless
 
 and elusive; almost as if he did not quite know where all his characters
 
-were. There is a [[Truth|truth]] behind the popular distinction; but it lies much
+were. There is a [[concepts/truth|truth]] behind the popular distinction; but it lies much
 
 deeper. Perhaps the best way of stating it is this: that Dickens used
 
-reality, while aiming at an effect of [[Romance|romance]]; while Thackeray used the
+reality, while aiming at an effect of romance; while Thackeray used the
 
-loose language and ordinary approaches of [[Romance|romance]], while aiming at an
+loose language and ordinary approaches of romance, while aiming at an
 
 effect of reality. It was the special and splendid business of Dickens
 
 to introduce us to people who would have been quite incredible if he had
 
-not told us so much [[Truth|truth]] about them. It was the special and not less
+not told us so much [[concepts/truth|truth]] about them. It was the special and not less
 
 splendid task of Thackeray to introduce us to people whom we knew
 
@@ -3449,11 +3449,11 @@ Trotwood, we vividly envisage everything about her, from her gardening
 
 gloves to her seaside residence, from her hard, handsome face to her
 
-tame lunatic laughing at the bedroom [[Window|window]]. It is all so minutely true
+tame lunatic laughing at the bedroom [[motifs/window|window]]. It is all so minutely true
 
 that she must be true also. We only feel inclined to walk round the
 
-English coast until we find that particular [[Garden|garden]] and that particular
+English coast until we find that particular [[motifs/garden|garden]] and that particular
 
 aunt. But when we turn from the aunt of Copperfield to the uncle of
 
@@ -3477,13 +3477,13 @@ make us recognise an old friend. Whether we shall be pleased to meet the
 
 old friend is quite another matter: I think we should be better pleased
 
-to meet Miss Trotwood, and find, as [[David Copperfield]] did, a new friend,
+to meet Miss Trotwood, and find, as [[characters/david-copperfield|David Copperfield]] did, a new friend,
 
 a new world. But we recognise Major Pendennis even when we avoid him.
 
 Henceforth Thackeray can count on our seeing him from his wig to his
 
-[[Well|well]]-blacked boots whenever he chooses to say "Major Pendennis paid a
+[[motifs/well|well]]-blacked boots whenever he chooses to say "Major Pendennis paid a
 
 call." Dickens, on the other hand, had to keep up an incessant
 
@@ -3493,7 +3493,7 @@ kept it up.
 
 It may be said, in approximate summary, that Thackeray is the novelist
 
-of [[Memory|memory]]--of our memories as [[Well|well]] as his own. Dickens seems to expect
+of [[motifs/memory|memory]]--of our memories as [[motifs/well|well]] as his own. Dickens seems to expect
 
 all his characters, like amusing strangers arriving at lunch: as if they
 
@@ -3509,7 +3509,7 @@ in some trivial grimace: we smell the strong smell of social cliques
 
 now quite incongruous to us; and there stir in all the little rooms at
 
-once the hundred [[Ghosts|ghosts]] of oneself.
+once the hundred [[motifs/ghosts|ghosts]] of oneself.
 
 For this purpose Thackeray was equipped with a singularly easy and
 
@@ -3535,7 +3535,7 @@ such men is all the more effective; and there are passages in _Vanity
 
 Fair_ and still more in _The Book of Snobs_, where he does make the
 
-[[Dance|dance]] of wealth and fashion look stiff and monstrous, like a Babylonian
+[[motifs/dance|dance]] of wealth and fashion look stiff and monstrous, like a Babylonian
 
 masquerade. But he never quite did it in such a way as to turn the
 
@@ -3543,9 +3543,9 @@ course of the Victorian Age.
 
 It may seem strange to say that Thackeray did not know enough of the
 
-world; yet this was the [[Truth|truth]] about him in large matters of the
+world; yet this was the [[concepts/truth|truth]] about him in large matters of the
 
-[[philosophy]] of life, and especially of his own [[Time|time]]. He did not know the
+philosophy of life, and especially of his own [[motifs/time|time]]. He did not know the
 
 way things were going: he was too Victorian to understand the Victorian
 
@@ -3555,17 +3555,17 @@ one of his delightful asides he imagines two little clerks commenting
 
 erroneously on the appearance of Lady Kew or Sir Brian Newcome in the
 
-Park, and says: "How should [[Jones]] and Brown, who are not, _vous
+Park, and says: "How should [[characters/jones|Jones]] and Brown, who are not, _vous
 
 comprenez, du monde_, understand these mysteries?" But I think Thackeray
 
-knew quite as little about [[Jones]] and Brown as they knew about Newcome
+knew quite as little about [[characters/jones|Jones]] and Brown as they knew about Newcome
 
 and Kew; his world was _le monde_. Hence he seemed to take it for
 
 granted that the Victorian compromise would last; while Dickens (who
 
-knew his [[Jones]] and Brown) had already guessed that it would not.
+knew his [[characters/jones|Jones]] and Brown) had already guessed that it would not.
 
 Thackeray did not realise that the Victorian platform was a moving
 
@@ -3573,19 +3573,19 @@ platform. To take but one instance, he was a Radical like Dickens; all
 
 really representative Victorians, except perhaps Tennyson, were
 
-Radicals. But he seems to have thought of all [[Reform|reform]] as simple and
+Radicals. But he seems to have thought of all [[concepts/reform|reform]] as simple and
 
 straightforward and all of a piece; as if Catholic Emancipation, the New
 
-Poor Law, Free Trade and the Factory Acts and Popular [[Education]] were all
+Poor Law, Free Trade and the Factory Acts and Popular [[concepts/education|Education]] were all
 
-parts of one almost [[Self|self]]-evident evolution of enlightenment. Dickens,
+parts of one almost [[concepts/self|self]]-evident evolution of enlightenment. Dickens,
 
-being in touch with the [[Democracy|democracy]], had already discovered that the
+being in touch with the [[concepts/democracy|democracy]], had already discovered that the
 
 country had come to a dark place of divided ways and divided counsels.
 
-In _Hard Times_ he realised [[Democracy]] at war with Radicalism; and
+In _Hard Times_ he realised [[concepts/democracy|Democracy]] at war with Radicalism; and
 
 became, with so incompatible an ally as Ruskin, not indeed a Socialist,
 
@@ -3599,7 +3599,7 @@ Veneering had carried off Twemlow in triumph. He very nearly knew what
 
 we all know to-day: that, so far from it being possible to plod along
 
-the progressive [[Road|road]] with more votes and more Free Trade, England must
+the progressive [[motifs/road|road]] with more votes and more Free Trade, England must
 
 either sharply become very much more democratic or as rapidly become
 
@@ -3607,23 +3607,23 @@ very much less so.
 
 There gathers round these two great novelists a considerable group of
 
-good novelists, who more or less [[Mirror|mirror]] their mid-Victorian mood. Wilkie
+good novelists, who more or less [[motifs/mirror|mirror]] their mid-Victorian mood. Wilkie
 
 Collins may be said to be in this way a lesser Dickens and Anthony
 
 Trollope a lesser Thackeray. Wilkie Collins is chiefly typical of his
 
-[[Time|time]] in this respect: that while his moral and religious conceptions
+[[motifs/time|time]] in this respect: that while his moral and religious conceptions
 
 were as mechanical as his carefully constructed fictitious conspiracies,
 
 he nevertheless informed the latter with a sort of involuntary mysticism
 
-which dealt wholly with the darker side of the [[Soul|soul]]. For this was one
+which dealt wholly with the darker side of the [[motifs/soul|soul]]. For this was one
 
 of the most peculiar of the problems of the Victorian mind. The idea of
 
-the [[Supernatural|supernatural]] was perhaps at as low an ebb as it had ever
+the [[motifs/supernatural|supernatural]] was perhaps at as low an ebb as it had ever
 
 been--certainly much lower than it is now. But in spite of this, and in
 
@@ -3633,13 +3633,13 @@ strange fact remains that the only sort of supernaturalism the
 
 Victorians allowed to their imaginations was a sad supernaturalism. They
 
-might have [[Ghost|ghost]] stories, but not saints' stories. They could trifle
+might have [[archetypes/ghost|ghost]] stories, but not saints' stories. They could trifle
 
-with the curse or unpardoning prophecy of a [[Witch|witch]], but not with the
+with the curse or unpardoning prophecy of a [[characters/witch|witch]], but not with the
 
 pardon of a priest. They seem to have held (I believe erroneously) that
 
-the [[Supernatural|supernatural]] was safest when it came from below. When we think (for
+the [[motifs/supernatural|supernatural]] was safest when it came from below. When we think (for
 
 example) of the uncountable riches of religious art, imagery, ritual and
 
@@ -3663,15 +3663,15 @@ is proper and literal to speak of his "plots." He was a plotter; he went
 
 about to slay Godfrey Ablewhite as coldly and craftily as the Indians
 
-did. But he also had a sound though sinister note of true [[Magic|magic]]; as in
+did. But he also had a sound though sinister note of true magic; as in
 
 the repetition of the two white dresses in _The Woman in White_; or of
 
-the [[Dreams|dreams]] with their [[Double|double]] explanations in _Armadale_. His [[Ghosts|ghosts]] do
+the [[motifs/dreams|dreams]] with their [[topoi/double|double]] explanations in _Armadale_. His [[motifs/ghosts|ghosts]] do
 
 walk. They are alive; and walk as softly as Count Fosco, but as solidly.
 
-Finally, _The Moonstone_ is probably the best [[Detective|detective]] tale in the
+Finally, _The Moonstone_ is probably the best [[archetypes/detective|detective]] tale in the
 
 world.
 
@@ -3679,7 +3679,7 @@ Anthony Trollope, a clear and very capable realist, represents rather
 
 another side of the Victorian spirit of comfort; its leisureliness, its
 
-[[Love|love]] of detail, especially of domestic detail; its [[Love|love]] of following
+[[motifs/love|love]] of detail, especially of domestic detail; its [[motifs/love|love]] of following
 
 characters and kindred from book to book and from generation to
 
@@ -3705,7 +3705,7 @@ was a bustling but a quiet world that he described: politics before the
 
 coming of the Irish and the Socialists; the Church in the lull between
 
-the [[Oxford]] Movement and the modern High Anglican energy. And it is
+the [[settings/oxford|Oxford]] Movement and the modern High Anglican energy. And it is
 
 notable in the Victorian spirit once more that though his clergymen are
 
@@ -3741,9 +3741,9 @@ _Hypatia_, and a certain electric atmosphere of sectarian excitement
 
 that Kingsley kept himself in, and did know how to convey. He said he
 
-wrote the book in his heart's [[Blood|blood]]. This is an exaggeration, but there
+wrote the book in his heart's [[motifs/blood|blood]]. This is an exaggeration, but there
 
-is a [[Truth|truth]] in it; and one does feel that he may have relieved his
+is a [[concepts/truth|truth]] in it; and one does feel that he may have relieved his
 
 feelings by writing it in red ink. As for Disraeli, his novels are able
 
@@ -3777,13 +3777,13 @@ without him. And this was not due to wholly superficial things like his
 
 dandyism, his dark, sinister good looks and a great deal of the mere
 
-polished [[Melodrama|melodrama]] that he wrote. There was something in his all-round
+polished [[forms/melodrama|melodrama]] that he wrote. There was something in his all-round
 
 interests; in the variety of things he tried; in his half-aristocratic
 
 swagger as poet and politician, that made him in some ways a real
 
-[[Touchstone|touchstone]] of the [[Time|time]]. It is noticeable about him that he is always
+[[characters/touchstone|touchstone]] of the [[motifs/time|time]]. It is noticeable about him that he is always
 
 turning up everywhere and that he brings other people out, generally in
 
@@ -3795,7 +3795,7 @@ Victorian common sense. His pose as a dilettante satirist inflamed the
 
 execrable temper of Tennyson, and led to those lively comparisons to a
 
-bandbox and a [[Lion|lion]] in curlpapers. He interposed the glove of warning and
+bandbox and a [[motifs/lion|lion]] in curlpapers. He interposed the glove of warning and
 
 the tear of sensibility between us and the proper ending of _Great
 
@@ -3815,7 +3815,7 @@ Lytton, which often is in adventurers; which amounts to a suspicion that
 
 there was something in him after all. It rang out of him when he said to
 
-the hesitating Crimean Parliament: "Destroy your [[government|Government]] and save
+the hesitating Crimean Parliament: "Destroy your Government and save
 
 your army."
 
@@ -3825,9 +3825,9 @@ later, more revolutionary, more continental, freer but in some ways
 
 weaker world in which we live to-day. The subtle and sad change that
 
-was passing like twilight across the English brain at this [[Time|time]] is very
+was passing like twilight across the English brain at this [[motifs/time|time]] is very
 
-[[Well|well]] expressed in the fact that men have come to mention the great name
+[[motifs/well|well]] expressed in the fact that men have come to mention the great name
 
 of Meredith in the same breath as Mr. Thomas Hardy. Both writers,
 
@@ -3845,7 +3845,7 @@ mortal enemies. They were much more opposed to each other than Newman
 
 was to Kingsley; or than Abelard was to St. Bernard. But then they
 
-collided in a sceptical age, which is like colliding in a [[London]] fog.
+collided in a sceptical age, which is like colliding in a [[settings/london|London]] fog.
 
 There can never be any clear controversy in a sceptical age.
 
@@ -3853,19 +3853,19 @@ Nevertheless both Hardy and Meredith did mean something; and they did
 
 mean diametrically opposite things. Meredith was perhaps the only man
 
-in the modern world who has almost had the high [[Honour|honour]] of rising out of
+in the modern world who has almost had the high [[concepts/honour|honour]] of rising out of
 
 the low estate of a Pantheist into the high estate of a Pagan. A Pagan
 
 is a person who can do what hardly any person for the last two thousand
 
-years could do: a person who can take [[Nature]] naturally. It is due to
+years could do: a person who can take [[concepts/nature|Nature]] naturally. It is due to
 
 Meredith to say that no one outside a few of the great Greeks has ever
 
-taken [[Nature]] so naturally as he did. And it is also due to him to say
+taken [[concepts/nature|Nature]] so naturally as he did. And it is also due to him to say
 
-that no one outside Colney Hatch ever took [[Nature]] so unnaturally as it
+that no one outside Colney Hatch ever took [[concepts/nature|Nature]] so unnaturally as it
 
 was taken in what Mr. Hardy has had the blasphemy to call Wessex Tales.
 
@@ -3883,7 +3883,7 @@ Pan is the great god. But there is some sense in it, and the sense is
 
 this: that some people believe that this world is sufficiently good at
 
-[[Bottom|bottom]] for us to trust ourselves to it without very much knowing why. It
+[[characters/bottom|bottom]] for us to trust ourselves to it without very much knowing why. It
 
 is the whole point in most of Meredith's tales that there is something
 
@@ -3899,7 +3899,7 @@ interesting epigrams: like that about passing Seraglio Point, but not
 
 doubling Cape Turk. Those who can see Meredith's mind in that are with
 
-those who can see Dickens' mind in [[Little Nell]]. Both were chivalrous
+those who can see Dickens' mind in [[characters/little-nell|Little Nell]]. Both were chivalrous
 
 pronouncements on behalf of oppressed females: neither has any earthly
 
@@ -3919,7 +3919,7 @@ is the opposite of what he was always attempting to say. So far from
 
 admitting any equality in the sexes, it logically admits that a man may
 
-use against a woman any [[Chains|chains]] or whips he has been in the habit of
+use against a woman any [[motifs/chains|chains]] or whips he has been in the habit of
 
 using against a tiger or a bear. He stood as the special champion of
 
@@ -3943,7 +3943,7 @@ mastery: he, at any rate, has not doubled Cape Turk, nor even passed
 
 Seraglio Point. Now why is it that we all really feel that this
 
-Meredithian passage is not so insolently masculine as in mere [[logic]] it
+Meredithian passage is not so insolently masculine as in mere logic it
 
 would seem? I think it is for this simple reason: that there is
 
@@ -3967,13 +3967,13 @@ Dickens and Carlyle, as we have said, rebelled against the orthodox
 
 compromise: but Meredith has escaped from it. Cosmopolitanism,
 
-Socialism, Feminism are already in the air; and [[Queen]] Victoria has
+Socialism, Feminism are already in the air; and [[characters/queen|Queen]] Victoria has
 
-begun to look like Mrs. Grundy. But to escape from a [[City|city]] is one thing:
+begun to look like Mrs. Grundy. But to escape from a [[motifs/city|city]] is one thing:
 
-to choose a [[Road|road]] is another. The free-thinker who found himself outside
+to choose a [[motifs/road|road]] is another. The free-thinker who found himself outside
 
-the Victorian [[City|city]], found himself also in the fork of two very different
+the Victorian [[motifs/city|city]], found himself also in the fork of two very different
 
 naturalistic paths. One of them went upwards through a tangled but
 
@@ -3989,21 +3989,21 @@ and blaspheming over the village idiot. It is largely because the
 
 free-thinkers, as a school, have hardly made up their minds whether they
 
-want to be more optimist or more pessimist than [[Christianity]] that their
+want to be more optimist or more pessimist than [[historical-references/christianity|Christianity]] that their
 
 small but sincere movement has failed.
 
 For the duel is deadly; and any agnostic who wishes to be anything more
 
-than a Nihilist must sympathise with one version of [[Nature|nature]] or the
+than a Nihilist must sympathise with one version of [[concepts/nature|nature]] or the
 
 other. The God of Meredith is impersonal; but he is often more healthy
 
 and kindly than any of the persons. That of Thomas Hardy is almost made
 
-personal by the intense feeling that he is poisonous. [[Nature]] is always
+personal by the intense feeling that he is poisonous. [[concepts/nature|Nature]] is always
 
-coming in to save Meredith's women; [[Nature]] is always coming in to betray
+coming in to save Meredith's women; [[concepts/nature|Nature]] is always coming in to betray
 
 and ruin Hardy's. It has been said that if God had not existed it would
 
@@ -4025,17 +4025,17 @@ types of sceptic is this: that when these two brilliant novelists break
 
 down or blow up or otherwise lose for a moment their artistic
 
-[[Self|self]]-command, they are both equally wild, but wild in opposite
+[[concepts/self|self]]-command, they are both equally wild, but wild in opposite
 
-directions. Meredith shows an extravagance in [[Comedy|comedy]] which, if it were
+directions. Meredith shows an extravagance in [[forms/comedy|comedy]] which, if it were
 
 not so complicated, every one would call broad farce. But Mr. Hardy has
 
-the [[Honour|honour]] of inventing a new sort of game, which may be called the
+the [[concepts/honour|honour]] of inventing a new sort of game, which may be called the
 
-extravagance of depression. The placing of the weak [[Lover|lover]] and his new
+extravagance of depression. The placing of the weak [[archetypes/lover|lover]] and his new
 
-[[Love|love]] in such a place that they actually see the black [[Flag|flag]] announcing
+[[motifs/love|love]] in such a place that they actually see the black [[motifs/flag|flag]] announcing
 
 that Tess has been hanged is utterly inexcusable in art and probability;
 
@@ -4055,33 +4055,33 @@ outlook who had the crabbed and perverse style; it was the man who had
 
 the crabbed and perverse outlook who had the healthy and manly style.
 
-The reader may [[Well|well]] have complained of [[Paradox|paradox]] when I observed above
+The reader may [[motifs/well|well]] have complained of [[concepts/paradox|paradox]] when I observed above
 
-that Meredith, unlike most neo-Pagans, did in his way take [[Nature]]
+that Meredith, unlike most neo-Pagans, did in his way take [[concepts/nature|Nature]]
 
 naturally. It may be suggested, in tones of some remonstrance, that
 
 things like "though pierced by the cruel acerb," or "thy fleetingness is
 
-bigger in the [[Ghost|ghost]]," or "her gabbling grey she eyes askant," or "sheer
+bigger in the [[archetypes/ghost|ghost]]," or "her gabbling grey she eyes askant," or "sheer
 
-film of the surface awag" are not taking [[Nature]] naturally. And this is
+film of the surface awag" are not taking [[concepts/nature|Nature]] naturally. And this is
 
 true of Meredith's style, but it is not true of his spirit; nor even,
 
-apparently, of his serious opinions. In one of the [[Poems|poems]] I have quoted
+apparently, of his serious opinions. In one of the poems I have quoted
 
-he actually says of those who live nearest to that [[Nature]] he was always
+he actually says of those who live nearest to that [[concepts/nature|Nature]] he was always
 
 praising--
 
-"Have they but held her laws and [[Nature|nature]] dear,
+"Have they but held her laws and [[concepts/nature|nature]] dear,
 
 They mouth no sentence of inverted wit";
 
-which certainly was what Meredith himself was doing most of the [[Time|time]].
+which certainly was what Meredith himself was doing most of the [[motifs/time|time]].
 
-But a similar [[Paradox|paradox]] of the combination of plain tastes with twisted
+But a similar [[concepts/paradox|paradox]] of the combination of plain tastes with twisted
 
 phrases can also be seen in Browning. Something of the same can be seen
 
@@ -4099,9 +4099,9 @@ Certainly Meredith suffers from applying a complex method to men and
 
 things he does not mean to be complex; nay, honestly admires for being
 
-simple. The conversations between [[Diana]] and Redworth fail of their full
+simple. The conversations between [[characters/diana|Diana]] and Redworth fail of their full
 
-contrast because Meredith can afford the twopence for [[Diana]] coloured,
+contrast because Meredith can afford the twopence for [[characters/diana|Diana]] coloured,
 
 but cannot afford the penny for Redworth plain. Meredith's ideals were
 
@@ -4111,17 +4111,17 @@ had, perhaps, over and above his honest Pantheism two convictions
 
 profound enough to be called prejudices. He was probably of Welsh
 
-[[Blood|blood]], certainly of Celtic sympathies, and he set himself more swiftly
+[[motifs/blood|blood]], certainly of Celtic sympathies, and he set himself more swiftly
 
 though more subtly than Ruskin or Swinburne to undermining the enormous
 
-complacency of John Bull. He also had a sincere [[Hope|hope]] in the strength of
+complacency of John Bull. He also had a sincere [[concepts/hope|hope]] in the strength of
 
 womanhood, and may be said, almost without hyperbole, to have begotten
 
 gigantic daughters. He may yet suffer for his chivalric interference as
 
-many champions do. I have little [[Doubt|doubt]] that when St. George had killed
+many champions do. I have little [[concepts/doubt|doubt]] that when St. George had killed
 
 the dragon he was heartily afraid of the princess. But certainly neither
 
@@ -4129,7 +4129,7 @@ of these two vital enthusiasms touched the Victorian trouble. The
 
 disaster of the modern English is not that they are not Celtic, but that
 
-they are not English. The [[Tragedy|tragedy]] of the modern woman is not that she is
+they are not English. The [[forms/tragedy|tragedy]] of the modern woman is not that she is
 
 not allowed to follow man, but that she follows him far too slavishly.
 
@@ -4151,7 +4151,7 @@ he gets the impression of a real richness of thought; and that is what
 
 one really gets from such riots of felicity as _Evan Harrington_ or
 
-_Harry Richmond_. His [[philosophy]] may be barren, but he was not. And the
+_Harry Richmond_. His philosophy may be barren, but he was not. And the
 
 chief feeling among those that enjoy him is a mere wish that more people
 
@@ -4173,7 +4173,7 @@ best novels about cavaliers have been (written by men like Scott or
 
 Stevenson) it is a wonderful thing that the author of _John Inglesant_
 
-could write a cavalier [[Romance|romance]] in which he forgot Cromwell but
+could write a cavalier romance in which he forgot Cromwell but
 
 remembered Hobbes. But Shorthouse is outside the period in fiction in
 
@@ -4193,9 +4193,9 @@ great Victorians who will not fit into any of the obvious categories I
 
 employ; because they will not fit into anything, hardly into the world
 
-itself. Where [[Germany]] or [[Italy]] would relieve the monotony of mankind by
+itself. Where [[settings/germany|Germany]] or [[settings/italy|Italy]] would relieve the monotony of mankind by
 
-paying serious respect to an [[artist]], or a scholar, or a patriotic
+paying serious respect to an [[archetypes/artist|artist]], or a scholar, or a patriotic
 
 warrior, or a priest--it was always the instinct of the English to do it
 
@@ -4207,7 +4207,7 @@ critic, but he survives as a Character. Cobbett is neglected
 
 a Character. Now these people continued to crop up through the Victorian
 
-[[Time|time]]; and each stands so much by himself that I shall end these pages
+[[motifs/time|time]]; and each stands so much by himself that I shall end these pages
 
 with a profound suspicion that I have forgotten to mention a Character
 
@@ -4217,7 +4217,7 @@ George Borrow; who sympathised with unsuccessful nomads like the gipsies
 
 while every one else sympathised with successful nomads like the Jews;
 
-who had a genius like the west [[Wind|wind]] for the awakening of wild and casual
+who had a genius like the west [[motifs/wind|wind]] for the awakening of wild and casual
 
 friendships and the drag and attraction of the roads. But whether George
 
@@ -4255,13 +4255,13 @@ thing; a thing called Nonsense. It may be doubted whether this thing was
 
 really invented to please children. Rather it was invented by old
 
-people trying to prove their first [[Childhood|childhood]], and sometimes succeeding
+people trying to prove their first [[motifs/childhood|childhood]], and sometimes succeeding
 
 only in proving their second. But whatever else the thing was, it was
 
 English and it was individual. Lewis Carroll gave mathematics a holiday:
 
-he carried [[logic]] into the wild lands of illogicality. Edward Lear, a
+he carried logic into the wild lands of illogicality. Edward Lear, a
 
 richer, more romantic and therefore more truly Victorian buffoon,
 
@@ -4271,9 +4271,9 @@ think, conclude that it reposed on something more real and profound in
 
 the Victorians than even their just and exquisite appreciation of
 
-children. It came from the deep Victorian sense of [[Humour|humour]].
+children. It came from the deep Victorian sense of humour.
 
-It may appear, because I have used from [[Time|time]] to [[Time|time]] the only possible
+It may appear, because I have used from [[motifs/time|time]] to [[motifs/time|time]] the only possible
 
 phrases for the case, that I mean the Victorian Englishman to appear as
 
@@ -4287,7 +4287,7 @@ which Goethe had never taught the Germans, Byron did manage to teach the
 
 English--the duty of not taking him seriously. The strong and shrewd
 
-Victorian [[Humour|humour]] appears in every slash of the pencil of Charles Keene;
+Victorian humour appears in every slash of the pencil of Charles Keene;
 
 in every undergraduate inspiration of Calverley or "Q." or J. K. S. They
 
@@ -4337,13 +4337,13 @@ why the society became unequal: I cannot say. They were lame giants; the
 
 strongest of them walked on one leg a little shorter than the other. A
 
-great man in any age must be a [[Common Man|common man]], and also an uncommon man.
+great man in any age must be a [[concepts/common-man|common man]], and also an uncommon man.
 
 Those that are only uncommon men are perverts and sowers of pestilence.
 
 But somehow the great Victorian man was more and less than this. He was
 
-at once a giant and a [[Dwarf|dwarf]]. When he has been sweeping the sky in
+at once a giant and a [[characters/dwarf|dwarf]]. When he has been sweeping the sky in
 
 circles infinitely great, he suddenly shrivels into something
 
@@ -4363,7 +4363,7 @@ in Virgil or in Chaucer or in Shakespeare or in Dryden; such things as
 
 they knew they knew. It is no disgrace to Homer that he had not
 
-discovered Britain; or to Virgil that he had not discovered [[America]]; or
+discovered Britain; or to Virgil that he had not discovered [[settings/america|America]]; or
 
 to Chaucer that he had not discovered the solar system; or to Dryden
 
@@ -4387,7 +4387,7 @@ Ruskin when he says, with a solemn visage, that building in iron is ugly
 
 and unreal, but that the weightiest objection is that there is no
 
-mention of it in the [[Bible]]; we feel as if he had just said he could find
+mention of it in the [[historical-references/bible|Bible]]; we feel as if he had just said he could find
 
 no hair-brushes in Habakkuk. We feel that it _is_ a disgrace to a man
 
@@ -4397,7 +4397,7 @@ from being nuns, merely because he has no fixed intention of becoming a
 
 nun himself. We feel that it _is_ a disgrace to a man like Tennyson,
 
-when he talks of the French revolutions, the huge [[Crusades|crusades]] that had
+when he talks of the French revolutions, the huge [[historical-references/crusades|crusades]] that had
 
 recreated the whole of his civilisation, as being "no graver than a
 
@@ -4407,9 +4407,9 @@ Browning to make spluttering and spiteful puns about the names Newman,
 
 Wiseman, and Manning. We feel that it _is_ a disgrace to a man like
 
-Newman when he confesses that for some [[Time|time]] he felt as if he couldn't
+Newman when he confesses that for some [[motifs/time|time]] he felt as if he couldn't
 
-come in to the [[Catholic Church]], because of that dreadful Mr. Daniel
+come in to the [[historical-references/catholic-church|Catholic Church]], because of that dreadful Mr. Daniel
 
 O'Connell, who had the vulgarity to fight for his own country. We feel
 
@@ -4423,7 +4423,7 @@ Swinburne, when he has a Jingo fit and calls the Boer children in the
 
 concentration camps "Whelps of treacherous dams whom none save we have
 
-spared to starve and slay": we feel that Swinburne, for the first [[Time|time]],
+spared to starve and slay": we feel that Swinburne, for the first [[motifs/time|time]],
 
 really has become an immoral and indecent writer. All this is a certain
 
@@ -4433,11 +4433,11 @@ were in a kind of pocket; they appealed to too narrow a public opinion;
 
 I am certain that no French or German men of the same genius made such
 
-remarks. Renan was the enemy of the [[Catholic Church]]; but who can imagine
+remarks. Renan was the enemy of the [[historical-references/catholic-church|Catholic Church]]; but who can imagine
 
 Renan writing of it as Kingsley or Dickens did? Taine was the enemy of
 
-the [[French Revolution]]; but who can imagine Taine talking about it as
+the [[historical-references/french-revolution|French Revolution]]; but who can imagine Taine talking about it as
 
 Tennyson or Newman talked? Even Matthew Arnold, though he saw this peril
 
@@ -4459,7 +4459,7 @@ real problems about his poetry. Tennyson, of course, owed a great deal
 
 to Virgil. There is no question of plagiarism here; a debt to Virgil is
 
-like a debt to [[Nature]]. But Tennyson was a provincial Virgil. In such
+like a debt to [[concepts/nature|Nature]]. But Tennyson was a provincial Virgil. In such
 
 passages as that about the schoolboy's barring out he might be called a
 
@@ -4475,13 +4475,13 @@ Constitution. It is intensely typical of Tennyson's philosophical temper
 
 that he was almost the only Poet Laureate who was not ludicrous. It is
 
-not absurd to think of Tennyson as tuning his harp in praise of [[Queen]]
+not absurd to think of Tennyson as tuning his harp in praise of [[characters/queen|Queen]]
 
 Victoria: that is, it is not absurd in the same sense as Chaucer's harp
 
-hallowed by dedication to [[Richard II]] or Wordsworth's harp hallowed by
+hallowed by dedication to [[characters/richard-ii|Richard II]] or Wordsworth's harp hallowed by
 
-dedication to George IV is absurd. [[Richard]]'s [[Court|court]] could not properly
+dedication to George IV is absurd. [[characters/richard|Richard]]'s [[settings/court|court]] could not properly
 
 appreciate either Chaucer's daisies or his "devotion." George IV would
 
@@ -4491,23 +4491,23 @@ simple annals of the poor. But Tennyson did sincerely believe in the
 
 Victorian compromise; and sincerity is never undignified. He really did
 
-hold a great many of the same views as [[Queen]] Victoria, though he was
+hold a great many of the same views as [[characters/queen|Queen]] Victoria, though he was
 
 gifted with a more fortunate literary style. If Dickens is Cobbett's
 
-[[Democracy|democracy]] stirring in its [[Grave|grave]], Tennyson is the exquisitely ornamental
+[[concepts/democracy|democracy]] stirring in its [[motifs/grave|grave]], Tennyson is the exquisitely ornamental
 
 extinguisher on the flame of the first revolutionary poets. England has
 
 settled down; England has become Victorian. The compromise was
 
-interesting, it was national and for a long [[Time|time]] it was successful:
+interesting, it was national and for a long [[motifs/time|time]] it was successful:
 
 there is still a great deal to be said for it. But it was as freakish
 
 and unphilosophic, as arbitrary and untranslatable, as a beggar's
 
-patched coat or a [[Child|child]]'s secret language. Now it is here that Browning
+patched coat or a [[archetypes/child|child]]'s secret language. Now it is here that Browning
 
 had a certain odd advantage over Tennyson; which has, perhaps, somewhat
 
@@ -4515,7 +4515,7 @@ exaggerated his intellectual superiority to him. Browning's eccentric
 
 style was more suitable to the poetry of a nation of eccentrics; of
 
-people for the [[Time|time]] being removed far from the centre of intellectual
+people for the [[motifs/time|time]] being removed far from the centre of intellectual
 
 interests. The hearty and pleasant task of expressing one's intense
 
@@ -4523,7 +4523,7 @@ dislike of something one doesn't understand is much more poetically
 
 achieved by saying, in a general way "Grrr--you swine!" than it is by
 
-laboured lines such as "the red [[Fool|fool]]-fury of the Seine." We all feel
+laboured lines such as "the red [[archetypes/fool|fool]]-fury of the Seine." We all feel
 
 that there is more of the man in Browning here; more of Dr. Johnson or
 
@@ -4533,7 +4533,7 @@ his nose like a bull-dog, going by his own likes and dislikes. We cannot
 
 help feeling that Tennyson is the Englishman taking himself
 
-seriously--an awful sight. One's [[Memory|memory]] flutters unhappily over a
+seriously--an awful sight. One's [[motifs/memory|memory]] flutters unhappily over a
 
 certain letter about the Papal Guards written by Sir Willoughby
 
@@ -4543,19 +4543,19 @@ Virgilian loveliness and dignity of diction which he put to the service
 
 of such a small and anomalous national scheme. Virgil had the best news
 
-to tell as [[Well|well]] as the best words to tell it in. His world might be
+to tell as [[motifs/well|well]] as the best words to tell it in. His world might be
 
 sad; but it was the largest world one could live in before the coming of
 
-[[Christianity]]. If he told the Romans to spare the vanquished and to war
+[[historical-references/christianity|Christianity]]. If he told the Romans to spare the vanquished and to war
 
-down the mighty, at least he was more or less [[Well|well]] informed about who
+down the mighty, at least he was more or less [[motifs/well|well]] informed about who
 
 _were_ mighty and who _were_ vanquished. But when Tennyson wrote verses
 
 like--
 
-"Of [[Freedom|freedom]] in her regal seat,
+"Of [[concepts/freedom|freedom]] in her regal seat,
 
 Of England; not the schoolboy heat,
 
@@ -4563,11 +4563,11 @@ The blind hysterics of the Celt"
 
 he quite literally did not know one word of what he was talking about;
 
-he did not know what Celts are, or what hysterics are, or what [[Freedom|freedom]]
+he did not know what Celts are, or what hysterics are, or what [[concepts/freedom|freedom]]
 
 was, or what regal was or even of what England was--in the living Europe
 
-of that [[Time|time]].
+of that [[motifs/time|time]].
 
 His religious range was very much wider and wiser than his political;
 
@@ -4601,29 +4601,29 @@ his case (unlike Browning's) both the poets were good. The first is more
 
 or less like Stevenson in metre; it is a magical luck or skill in the
 
-mere choice of words. "Wet sands marbled with [[Moon|moon]] and cloud"--"Flits by
+mere choice of words. "Wet sands marbled with [[motifs/moon|moon]] and cloud"--"Flits by
 
 the sea-blue bird of March"--"Leafless ribs and iron horns"--"When the
 
-long dun wolds are ribbed with [[Snow|snow]]"--in all these cases one word is the
+long dun wolds are ribbed with [[motifs/snow|snow]]"--in all these cases one word is the
 
 keystone of an arch which would fall into ruin without it. But there are
 
 other strong phrases that recall not Stevenson but rather their common
 
-master, Virgil--"[[Tears]] from the depths of some divine [[Despair|despair]]"--"There
+master, Virgil--"[[motifs/tears|Tears]] from the depths of some divine [[concepts/despair|despair]]"--"There
 
 is fallen a splendid tear from the passion-flower at the gate"--"Was a
 
-great [[Water|water]]; and the [[Moon|moon]] was full"--"God made Himself an awful [[Rose|rose]] of
+great [[motifs/water|water]]; and the [[motifs/moon|moon]] was full"--"God made Himself an awful [[motifs/rose|rose]] of
 
-[[Dawn|dawn]]." These do not depend on a word but on an idea: they might even be
+[[motifs/dawn|dawn]]." These do not depend on a word but on an idea: they might even be
 
-translated. It is also true, I think, that he was first and last a [[Lyric|lyric]]
+translated. It is also true, I think, that he was first and last a [[forms/lyric|lyric]]
 
 poet. He was always best when he expressed himself shortly. In long
 
-[[Poems|poems]] he had an unfortunate habit of eventually saying very nearly the
+poems he had an unfortunate habit of eventually saying very nearly the
 
 opposite of what he meant to say. I will take only two instances of what
 
@@ -4631,9 +4631,9 @@ I mean. In the _Idylls of the King_, and in _In Memoriam_ (his two
 
 sustained and ambitious efforts), particular phrases are always flashing
 
-out the whole [[Fire|fire]] of the [[Truth|truth]]; the [[Truth|truth]] that Tennyson meant. But
+out the whole [[motifs/fire|fire]] of the [[concepts/truth|truth]]; the [[concepts/truth|truth]] that Tennyson meant. But
 
-owing to his English [[Indolence|indolence]], his English aristocratic
+owing to his English [[concepts/indolence|indolence]], his English aristocratic
 
 irresponsibility, his English vagueness in thought, he always managed to
 
@@ -4643,19 +4643,19 @@ lines which simply say that
 
 "Lancelot was the first in tournament,
 
-But [[arthur|Arthur]] mightiest in the battle-field"
+But [[characters/arthur|Arthur]] mightiest in the battle-field"
 
-do really express what he meant to express about [[arthur|Arthur]] being after all
+do really express what he meant to express about [[characters/arthur|Arthur]] being after all
 
 "the highest, yet most human too; not Lancelot, nor another." But as his
 
-[[Hero|hero]] is actually developed, we have exactly the opposite impression;
+[[archetypes/hero|hero]] is actually developed, we have exactly the opposite impression;
 
 that poor old Lancelot, with all his faults, was much more of a man than
 
-[[arthur|Arthur]]. He was a Victorian in the bad as [[Well|well]] as the good sense; he
+[[characters/arthur|Arthur]]. He was a Victorian in the bad as [[motifs/well|well]] as the good sense; he
 
-could not keep priggishness out of long [[Poems|poems]]. Or again, take the case
+could not keep priggishness out of long poems. Or again, take the case
 
 of _In Memoriam_. I will quote one verse (probably incorrectly) which
 
@@ -4663,7 +4663,7 @@ has always seemed to me splendid, and which does express what the whole
 
 poem should express--but hardly does.
 
-"That we may lift from out the [[Dust|dust]],
+"That we may lift from out the [[motifs/dust|dust]],
 
 A voice as unto him that hears
 
@@ -4671,7 +4671,7 @@ A cry above the conquered years
 
 Of one that ever works, and trust."
 
-The poem should have been a cry above the conquered years. It might [[Well|well]]
+The poem should have been a cry above the conquered years. It might [[motifs/well|well]]
 
 have been that if the poet could have said sharply at the end of it, as
 
@@ -4681,13 +4681,13 @@ I know God holds him alive." But under the influence of the mere
 
 leisurely length of the thing, the reader _does_ rather receive the
 
-impression that the wound has been healed only by [[Time|time]]; and that the
+impression that the wound has been healed only by [[motifs/time|time]]; and that the
 
 victor hours _can_ boast that this is the man that loved and lost, but
 
-all he was is overworn. This is not the [[Truth|truth]]; and Tennyson did not
+all he was is overworn. This is not the [[concepts/truth|truth]]; and Tennyson did not
 
-intend it for the [[Truth|truth]]. It is simply the result of the lack of
+intend it for the [[concepts/truth|truth]]. It is simply the result of the lack of
 
 something militant, dogmatic and structural in him: whereby he could not
 
@@ -4713,11 +4713,11 @@ was no anarchist and no mystagogue; and even where he was defective, his
 
 defect has commonly been stated wrongly. The two chief charges against
 
-him were a contempt for form unworthy of an [[artist]], and a poor [[Pride|pride]] in
+him were a contempt for form unworthy of an [[archetypes/artist|artist]], and a poor [[concepts/pride|pride]] in
 
-obscurity. The obscurity is true, though not, I think, the [[Pride|pride]] in it;
+obscurity. The obscurity is true, though not, I think, the [[concepts/pride|pride]] in it;
 
-but the [[Truth|truth]] about this charge rather rises out of the [[Truth|truth]] about the
+but the [[concepts/truth|truth]] about this charge rather rises out of the [[concepts/truth|truth]] about the
 
 other. The other charge is not true. Browning cared very much for form;
 
@@ -4737,21 +4737,21 @@ not care what form he used as long as he expressed his thoughts. He
 
 might be a rather entertaining sort of poet; telling a smoking-room
 
-story in [[Blank Verse|blank verse]] or writing a hunting-[[Song|song]] in the [[Spenserian Stanza|Spenserian stanza]];
+story in [[forms/blank-verse|blank verse]] or writing a hunting-song in the [[forms/spenserian-stanza|Spenserian stanza]];
 
 giving a realistic analysis of infanticide in a series of triolets; or
 
-proving the [[Truth|truth]] of [[Immortality]] in a long string of limericks. Browning
+proving the [[concepts/truth|truth]] of [[concepts/immortality|Immortality]] in a long string of limericks. Browning
 
 certainly had no such indifference. Almost every poem of Browning,
 
 especially the shortest and most successful ones, was moulded or graven
 
-in some special style, generally [[Grotesque|grotesque]], but invariably deliberate.
+in some special style, generally [[concepts/grotesque|grotesque]], but invariably deliberate.
 
-In most cases whenever he wrote a new [[Song|song]] he wrote a new kind of [[Song|song]].
+In most cases whenever he wrote a new song he wrote a new kind of song.
 
-The new [[Lyric|lyric]] is not only of a different metre, but of a different
+The new [[forms/lyric|lyric]] is not only of a different metre, but of a different
 
 shape. No one, not even Browning, ever wrote a poem in the same style as
 
@@ -4771,7 +4771,7 @@ Browning, ever wrote a poem in the same style as _The Flight of the
 
 Duchess_, or in the same style as _The Grammarian's Funeral_, or in the
 
-same style as _A Star_, or in the same style as that astounding [[Lyric|lyric]]
+same style as _A Star_, or in the same style as that astounding [[forms/lyric|lyric]]
 
 which begins abruptly "Some people hang pictures up." These metres and
 
@@ -4779,13 +4779,13 @@ manners were not accidental; they really do suit the sort of spiritual
 
 experiment Browning was making in each case. Browning, then, was not
 
-chaotic; he was deliberately [[Grotesque|grotesque]]. But there certainly was, over
+chaotic; he was deliberately [[concepts/grotesque|grotesque]]. But there certainly was, over
 
 and above this grotesqueness, a perversity and irrationality about the
 
-man which led him to play the [[Fool|fool]] in the middle of his own [[Poems|poems]]; to
+man which led him to play the [[archetypes/fool|fool]] in the middle of his own poems; to
 
-leave off carving [[gargoyles]] and simply begin throwing stones. His
+leave off carving gargoyles and simply begin throwing stones. His
 
 curious complicated puns are an example of this: Hood had used the pun
 
@@ -4807,7 +4807,7 @@ it.
 
 The obscurity, to which he must in a large degree plead guilty, was,
 
-curiously enough, the result rather of the gay [[artist]] in him than the
+curiously enough, the result rather of the gay [[archetypes/artist|artist]] in him than the
 
 deep thinker. It is patience in the Browning students; in Browning it
 
@@ -4827,7 +4827,7 @@ Thus he really did want to say that God had indeed made man and woman
 
 one flesh; that the sex relation was religious in this real sense that
 
-even in our sin and [[Despair|despair]] we take it for granted and expect a sort of
+even in our sin and [[concepts/despair|despair]] we take it for granted and expect a sort of
 
 virtue in it. The feelings of the bad husband about the good wife, for
 
@@ -4837,9 +4837,9 @@ and Browning really had something to say about them. But he said it in
 
 some of the plainest and most unmistakable words in all literature; as
 
-lucid as a flash of [[Lightning|lightning]]. "Pompilia, will you let them murder me?"
+lucid as a flash of [[motifs/lightning|lightning]]. "Pompilia, will you let them murder me?"
 
-Or again, he did really want to say that [[Death|death]] and such moral terrors
+Or again, he did really want to say that [[motifs/death|death]] and such moral terrors
 
 were best taken in a military spirit; he could not have said it more
 
@@ -4847,9 +4847,9 @@ simply than: "I was ever a fighter; one fight more, the best and the
 
 last." He did really wish to say that human life was unworkable unless
 
-[[Immortality|immortality]] were implied in it every other moment; he could not have
+[[concepts/immortality|immortality]] were implied in it every other moment; he could not have
 
-said it more simply: "leave now to [[dogs]] and apes; Man has for ever." The
+said it more simply: "leave now to dogs and apes; Man has for ever." The
 
 obscurities were not merely superficial, but often covered quite
 
@@ -4869,7 +4869,7 @@ disparaged the picture, "while John scorns ale." I could not think what
 
 this sudden teetotalism on the part of John had to do with the affair,
 
-but I forgot to ask at the [[Time|time]] and it was only years afterwards that,
+but I forgot to ask at the [[motifs/time|time]] and it was only years afterwards that,
 
 looking at the book, I found it was "John's corns ail," a very
 
@@ -4897,17 +4897,17 @@ to have serenaded heaven with a guitar, and even, so to speak, tried to
 
 climb there with a rope ladder. Thus his most vivid things are the
 
-red-hot little [[Love|love]] lyrics, or rather, little [[Love|love]] dramas. He did one
+red-hot little [[motifs/love|love]] lyrics, or rather, little [[motifs/love|love]] dramas. He did one
 
 really original and admirable thing: he managed the real details of
 
-modern [[Love|love]] affairs in verse, and [[Love|love]] is the most realistic thing in
+modern [[motifs/love|love]] affairs in verse, and [[motifs/love|love]] is the most realistic thing in
 
 the world. He substituted the street with the green blind for the faded
 
-[[Garden|garden]] of Watteau, and the "blue spirt of a lighted match" for the
+[[motifs/garden|garden]] of Watteau, and the "blue spirt of a lighted match" for the
 
-monotony of the [[Evening Star|evening star]].
+monotony of the evening star.
 
 Before leaving him it should be added that he was fitted to deepen the
 
@@ -4925,29 +4925,29 @@ European politics. She defended Louis Napoleon and Victor Emmanuel; and
 
 intelligently, as one conscious of the case against them both. As to
 
-why it now seems simple to defend the first Italian [[King]], but absurd to
+why it now seems simple to defend the first Italian [[archetypes/king|King]], but absurd to
 
-defend the last French Emperor--[[Well|well]], the reason is sad and simple. It
+defend the last French Emperor--[[motifs/well|well]], the reason is sad and simple. It
 
-is concerned with certain curious things called [[success]] and failure, and
+is concerned with certain curious things called success and failure, and
 
 I ought to have considered it under the heading of _The Book of Snobs_.
 
-But Elizabeth Barrett, at least, was no snob: her political [[Poems|poems]] have
+But Elizabeth Barrett, at least, was no snob: her political poems have
 
 rather an impatient air, as if they were written, and even published,
 
 rather prematurely--just before the fall of her idol. These old
 
-political [[Poems|poems]] of hers are too little read to-day; they are amongst the
+political poems of hers are too little read to-day; they are amongst the
 
-most sincere documents on the [[history]] of the times, and many modern
+most sincere documents on the [[concepts/history|history]] of the times, and many modern
 
 blunders could be corrected by the reading of them. And Elizabeth
 
 Barrett had a strength really rare among women poets; the strength of
 
-the phrase. She excelled in her sex, in [[Epigram|epigram]], almost as much as
+the phrase. She excelled in her sex, in [[forms/epigram|epigram]], almost as much as
 
 Voltaire in his. Pointed phrases like: "Martyrs by the pang without the
 
@@ -4977,9 +4977,9 @@ Madman!"
 
 as if the defeat of an English regiment were a violation of the laws of
 
-[[Nature]]. Mrs. Browning knew no more facts about Napoleon, perhaps, than
+[[concepts/nature|Nature]]. Mrs. Browning knew no more facts about Napoleon, perhaps, than
 
-Tennyson did; but she knew the [[Truth|truth]]. Her [[Epigram|epigram]] on Napoleon's fall is
+Tennyson did; but she knew the [[concepts/truth|truth]]. Her [[forms/epigram|epigram]] on Napoleon's fall is
 
 in one line
 
@@ -5003,7 +5003,7 @@ as I have roughly called it, having one leg shorter than the other. But
 
 her case was, in one sense, extreme. She exaggerated both ways. She was
 
-too strong and too weak, or (as a false sex [[philosophy]] would express it)
+too strong and too weak, or (as a false sex philosophy would express it)
 
 too masculine and too feminine. I mean that she hit the centre of
 
@@ -5015,21 +5015,21 @@ centre of strength. She could write finally of the factory wheels
 
 observation. Unfortunately she could also write of Euripides "with his
 
-droppings of warm [[Tears|tears]]." She could write in _A Drama of Exile_, a
+droppings of warm [[motifs/tears|tears]]." She could write in _A Drama of Exile_, a
 
 really fine exposition, touching the later relation of Adam and the
 
-[[Animals|animals]]: unfortunately the [[Tears|tears]] were again turned on at the wrong
+[[motifs/animals|animals]]: unfortunately the [[motifs/tears|tears]] were again turned on at the wrong
 
-moment at the main; and the stage direction commands a [[Silence|silence]], only
+moment at the main; and the stage direction commands a [[motifs/silence|silence]], only
 
-broken by the dropping of angel's [[Tears|tears]]. How much noise is made by
+broken by the dropping of angel's [[motifs/tears|tears]]. How much noise is made by
 
-angel's [[Tears|tears]]? Is it a sound of emptied buckets, or of [[Garden|garden]] hose, or
+angel's [[motifs/tears|tears]]? Is it a sound of emptied buckets, or of [[motifs/garden|garden]] hose, or
 
 of mountain cataracts? That is the sort of question which Elizabeth
 
-Barrett's extreme [[Love|love]] of the extreme was always tempting people to ask.
+Barrett's extreme [[motifs/love|love]] of the extreme was always tempting people to ask.
 
 Yet the question, as asked, does her a heavy historical injustice; we
 
@@ -5049,7 +5049,7 @@ was her husband, he can go and live in the same hotel with the man who
 
 can believe that George Eliot owed anything to the extravagant
 
-[[Imagination|imagination]] of Mr. George Henry Lewes. So far from Browning inspiring or
+[[concepts/imagination|imagination]] of Mr. George Henry Lewes. So far from Browning inspiring or
 
 interfering, he did not in one sense interfere enough. Her real
 
@@ -5063,7 +5063,7 @@ Swinburne as the next name here. He is the only poet who was also, in
 
 the European sense, on the spot; even if, in the sense of the Gilbertian
 
-[[Song|song]], the spot was barred. He also knew that something rather crucial
+song, the spot was barred. He also knew that something rather crucial
 
 was happening to Christendom; he thought it was getting unchristened. It
 
@@ -5071,9 +5071,9 @@ is even a little amusing, indeed, that these two Pro-Italian poets
 
 almost conducted a political correspondence in rhyme. Mrs. Browning
 
-sternly reproached those who had ever doubted the good [[Faith|faith]] of the [[King]]
+sternly reproached those who had ever doubted the good [[concepts/faith|faith]] of the [[archetypes/king|King]]
 
-of Sardinia, whom she acclaimed as being truly a [[King|king]]. Swinburne,
+of Sardinia, whom she acclaimed as being truly a [[archetypes/king|king]]. Swinburne,
 
 lyrically alluding to her as "Sea-eagle of English feather," broadly
 
@@ -5081,13 +5081,13 @@ hinted that the chief blunder of that wild fowl had been her support of
 
 an autocratic adventurer: "calling a crowned man royal, that was no more
 
-than a [[King|king]]." But it is not fair, even in this important connection, to
+than a [[archetypes/king|king]]." But it is not fair, even in this important connection, to
 
-judge Swinburne by _Songs Before Sunrise_. They were [[songs]] before a
+judge Swinburne by _Songs Before Sunrise_. They were songs before a
 
 sunrise that has never turned up. Their dogmatic assertions have for a
 
-long [[Time|time]] past stared starkly at us as nonsense. As, for instance, the
+long [[motifs/time|time]] past stared starkly at us as nonsense. As, for instance, the
 
 phrase "Glory to Man in the Highest, for man is the master of things";
 
@@ -5095,7 +5095,7 @@ after which there is evidently nothing to be said, except that it is
 
 not true. But even where Swinburne had his greater grip, as in that
 
-[[Grave|grave]] and partly just poem _Before a Crucifix_, Swinburne, the most
+[[motifs/grave|grave]] and partly just poem _Before a Crucifix_, Swinburne, the most
 
 Latin, the most learned, the most largely travelled of the Victorians,
 
@@ -5113,7 +5113,7 @@ Swinburne could have found round about Putney plenty of slaves who had
 
 no crucifixes: but only crucifixions.
 
-When we come to ethics and [[philosophy]], doubtless we find Swinburne in
+When we come to ethics and philosophy, doubtless we find Swinburne in
 
 full revolt, not only against the temperate idealism of Tennyson, but
 
@@ -5127,13 +5127,13 @@ insurrection against priests and kings, Swinburne ought to have
 
 described the natural life of man, free and beautiful, and proved from
 
-this both the noxiousness and the needlessness of such [[Chains|chains]].
+this both the noxiousness and the needlessness of such [[motifs/chains|chains]].
 
-Unfortunately Swinburne rebelled against [[Nature]] first and then tried to
+Unfortunately Swinburne rebelled against [[concepts/nature|Nature]] first and then tried to
 
-[[Rebel|rebel]] against religion for doing exactly the same thing that he had
+[[archetypes/rebel|rebel]] against religion for doing exactly the same thing that he had
 
-done. His [[songs]] of joy are not really immoral; but his [[songs]] of sorrow
+done. His songs of joy are not really immoral; but his songs of sorrow
 
 are. But when he merely hurls at the priest the assertion that flesh is
 
@@ -5145,7 +5145,7 @@ went forth, as it were, as the champion of pagan change and pleasure, he
 
 heard uplifted the grand choruses of his own _Atalanta_, in his rear,
 
-refusing [[Hope|hope]].
+refusing [[concepts/hope|hope]].
 
 The splendid diction that blazes through the whole of that drama, that
 
@@ -5171,19 +5171,19 @@ would gather from both the eulogies and the satires, from the conscious
 
 and the unconscious imitations. On the contrary, it is a sort of
 
-fighting and profane [[Parody|parody]] of the Old Testament; and its lines are made
+fighting and profane [[forms/parody|parody]] of the Old Testament; and its lines are made
 
 of short English words like the short Roman swords. The first line of
 
-one of his finest [[Poems|poems]], for instance, runs, "I have lived long enough
+one of his finest poems, for instance, runs, "I have lived long enough
 
-to have seen one thing, that [[Love|love]] hath an end." In that sentence only
+to have seen one thing, that [[motifs/love|love]] hath an end." In that sentence only
 
 one small "e" gets outside the monosyllable. Through all his
 
 interminable tragedies, he was fondest of lines like--
 
-"If ever I leave off to [[Honour|honour]] you
+"If ever I leave off to [[concepts/honour|honour]] you
 
 God give me shame; I were the worst churl born."
 
@@ -5217,9 +5217,9 @@ That thy lips met with under the statue
 
 Whence a look shot out sharp after thieves
 
-From the eyes of the [[Garden|garden]]-god at you
+From the eyes of the [[motifs/garden|garden]]-god at you
 
-Across the fig-[[Leaves|leaves]]."
+Across the fig-[[motifs/leaves|leaves]]."
 
 Look at the rhymes in that verse, and you will see they are as stiff a
 
@@ -5247,7 +5247,7 @@ on the intellectual. In the section of the painters, it was the allies
 
 or pupils of Ruskin, pious, almost painfully exact, and copying mediæval
 
-details rather for their [[Truth|truth]] than their [[Beauty|beauty]]. In the section of the
+details rather for their [[concepts/truth|truth]] than their [[concepts/beauty|beauty]]. In the section of the
 
 poets it was pretty loose, Swinburne being the leader of the revels. But
 
@@ -5259,17 +5259,17 @@ literal sense true that the name of Rossetti is important here, for the
 
 name implies the nationality. I have loosely called Carlyle and the
 
-Brontës the [[Romance|romance]] from the North; the nearest to a general definition
+Brontës the romance from the North; the nearest to a general definition
 
-of the Æsthetic movement is to call it the [[Romance|romance]] from the South. It is
+of the Æsthetic movement is to call it the romance from the South. It is
 
-that warm [[Wind|wind]] that had never blown so strong since Chaucer, standing in
+that warm [[motifs/wind|wind]] that had never blown so strong since Chaucer, standing in
 
-his cold English April, had smelt the [[spring]] in Provence. The Englishman
+his cold English April, had smelt the [[motifs/spring|spring]] in Provence. The Englishman
 
 has always found it easier to get inspiration from the Italians than
 
-from the French; they call to each other across that unconquered [[Castle|castle]]
+from the French; they call to each other across that unconquered [[settings/castle|castle]]
 
 of reason. Browning's _Englishman in Italy_, Browning's _Italian in
 
@@ -5277,7 +5277,7 @@ England_, were both happier than either would have been in France.
 
 Rossetti was the Italian in England, as Browning was the Englishman in
 
-[[Italy]]; and the first broad fact about the artistic revolution Rossetti
+[[settings/italy|Italy]]; and the first broad fact about the artistic revolution Rossetti
 
 wrought is written when we have written his name. But if the South lets
 
@@ -5299,15 +5299,15 @@ in any art; if he had he would probably never have been heard of. It was
 
 his happy knack of half failing in both the arts that has made him a
 
-[[success]]. If he had been as good a poet as Tennyson, he would have been a
+success. If he had been as good a poet as Tennyson, he would have been a
 
 poet who painted pictures. If he had been as good a painter as
 
-Burne-[[Jones]], he would have been a painter who wrote [[Poems|poems]]. It is odd to
+Burne-[[characters/jones|Jones]], he would have been a painter who wrote poems. It is odd to
 
 note on the very threshold of the extreme art movement that this great
 
-[[artist]] largely succeeded by not defining his art. His [[Poems|poems]] were too
+[[archetypes/artist|artist]] largely succeeded by not defining his art. His poems were too
 
 pictorial. His pictures were too poetical. That is why they really
 
@@ -5321,7 +5321,7 @@ other, in reviving the decorative instinct of the Middle Ages. While
 
 Ruskin, in letters only, praised that decoration Rossetti and his
 
-friends repeated it. They almost made patterns of their [[Poems|poems]]. That
+friends repeated it. They almost made patterns of their poems. That
 
 frequent return of the refrain which was foolishly discussed by
 
@@ -5329,15 +5329,15 @@ Professor Nordau was, in Rossetti's case, of such sadness as sometimes
 
 to amount to sameness. The criticism on him, from a mediæval point of
 
-view, is not that he insisted on a [[Chorus|chorus]], but that he could not insist
+view, is not that he insisted on a [[characters/chorus|chorus]], but that he could not insist
 
-on a jolly [[Chorus|chorus]]. Many of his [[Poems|poems]] were truly mediæval, but they would
+on a jolly [[characters/chorus|chorus]]. Many of his poems were truly mediæval, but they would
 
 have been even more mediæval if he could ever have written such a
 
 refrain as "Tally Ho!" or even "Tooral-ooral" instead of "Tall Troy's on
 
-[[Fire|fire]]." With Rossetti goes, of course, his sister, a real poet, though
+[[motifs/fire|fire]]." With Rossetti goes, of course, his sister, a real poet, though
 
 she also illustrated that Pre-Raphaelite's conflict of views that
 
@@ -5355,13 +5355,13 @@ One poet, or, to speak more strictly, one poem, belongs to the same
 
 general atmosphere and impulse as Swinburne; the free but languid
 
-atmosphere of later Victorian art. But this [[Time|time]] the [[Wind|wind]] blew from
+atmosphere of later Victorian art. But this [[motifs/time|time]] the [[motifs/wind|wind]] blew from
 
-hotter and heavier gardens than the gardens of [[Italy]]. Edward
+hotter and heavier gardens than the gardens of [[settings/italy|Italy]]. Edward
 
 Fitzgerald, a cultured eccentric, a friend of Tennyson, produced what
 
-professed to be a [[Translation|translation]] of the Persian poet Omar, who wrote
+professed to be a [[forms/translation|translation]] of the Persian poet Omar, who wrote
 
 quatrains about wine and roses and things in general. Whether the
 
@@ -5371,11 +5371,11 @@ version I must not discuss here, and could not discuss anywhere. But it
 
 is quite clear that Fitzgerald's work is much too good to be a good
 
-[[Translation|translation]]. It is as personal and creative a thing as ever was written;
+[[forms/translation|translation]]. It is as personal and creative a thing as ever was written;
 
 and the best expression of a bad mood, a mood that may, for all I know,
 
-be permanent in Persia, but was certainly at this [[Time|time]] particularly
+be permanent in Persia, but was certainly at this [[motifs/time|time]] particularly
 
 fashionable in England. In the technical sense of literature it is one
 
@@ -5385,19 +5385,19 @@ Swinburne and far more perfect. In this verbal sense its most arresting
 
 quality is a combination of something haunting and harmonious that flows
 
-by like a [[River|river]] or a [[Song|song]], with something else that is compact and
+by like a [[motifs/river|river]] or a song, with something else that is compact and
 
 pregnant like a pithy saying picked out in rock by the chisel of some
 
-pagan philosopher. It is at once a tune that escapes and an [[Inscription|inscription]]
+pagan philosopher. It is at once a tune that escapes and an [[forms/inscription|inscription]]
 
-that remains. Thus, [[Alone|alone]] among the reckless and romantic verses that
+that remains. Thus, alone among the reckless and romantic verses that
 
-first [[Rose|rose]] in Coleridge or Keats, it preserves something also of the wit
+first [[motifs/rose|rose]] in Coleridge or Keats, it preserves something also of the wit
 
 and civilisation of the eighteenth century. Lines like "a Muezzin from
 
-the tower of darkness cries," or "Their mouths are stopped with [[Dust|dust]]"
+the tower of darkness cries," or "Their mouths are stopped with [[motifs/dust|dust]]"
 
 are successful in the same sense as "Pinnacled dim in the intense inane"
 
@@ -5417,7 +5417,7 @@ It thus earned a right to be considered the complete expression of that
 
 scepticism and sensual sadness into which later Victorian literature was
 
-more and more falling away: a sort of [[Bible|bible]] of unbelief. For a cold fit
+more and more falling away: a sort of [[historical-references/bible|bible]] of unbelief. For a cold fit
 
 had followed the hot fit of Swinburne, which was of a feverish sort: he
 
@@ -5433,7 +5433,7 @@ and minds in looking for the lost syntax of Browning; while Browning
 
 himself was away looking for God, rather in the spirit of a truant boy
 
-from their school looking for [[Birds|birds]]' nests. The nineteenth-century
+from their school looking for [[motifs/birds|birds]]' nests. The nineteenth-century
 
 sceptics did not really shake the respectable world and alter it, as the
 
@@ -5449,15 +5449,15 @@ when ordinary English people listened to it, they came to the conclusion
 
 that it was a frame of mind they would rather hear about than
 
-experience. But these later poets did, so to speak, spread their [[Soul|soul]] in
+experience. But these later poets did, so to speak, spread their [[motifs/soul|soul]] in
 
 all the empty spaces; weaker brethren, disappointed artists, unattached
 
 individuals, very young people, were sapped or swept away by these
 
-[[songs]]; which, so far as any particular sense in them goes, were almost
+songs; which, so far as any particular sense in them goes, were almost
 
-[[songs]] without words. It is because there is something which is after all
+songs without words. It is because there is something which is after all
 
 indescribably manly, intellectual, firm about Fitzgerald's way of
 
@@ -5465,7 +5465,7 @@ phrasing the pessimism that he towers above the slope that was tumbling
 
 down to the decadents. But it is still pessimism, a thing unfit for a
 
-white man; a thing like opium, that may often be a [[Poison|poison]] and sometimes
+white man; a thing like opium, that may often be a [[motifs/poison|poison]] and sometimes
 
 a medicine, but never a food for us, who are driven by an inner command
 
@@ -5475,7 +5475,7 @@ only to grow but to build.
 
 And, indeed, we see the insufficiency of such sad extremes even in the
 
-next name among the major poets; we see the Swinburnian [[Parody|parody]] of
+next name among the major poets; we see the Swinburnian [[forms/parody|parody]] of
 
 mediævalism, the inverted Catholicism of the decadents, struggling to
 
@@ -5489,7 +5489,7 @@ that return to real issues leading up to the real revolts that broke up
 
 Victorianism at last. In the mere art of words, indeed, William Morris
 
-carried much further than Swinburne or Rossetti the mere [[Imitation|imitation]] of
+carried much further than Swinburne or Rossetti the mere imitation of
 
 stiff mediæval ornament. The other mediævalists had their modern
 
@@ -5505,7 +5505,7 @@ One has an uneasy feeling that William Morris would have written
 
 something like--
 
-"And the kin of the ill [[King|king]] Bonaparte
+"And the kin of the ill [[archetypes/king|king]] Bonaparte
 
 Hath a high gallows for all his part."
 
@@ -5525,7 +5525,7 @@ he so often called himself, a craftsman. He had enough masculine
 
 strength to be tidy: that is, after the masculine manner, tidy about his
 
-own trade. If his [[Poems|poems]] were too like wallpapers, it was because he
+own trade. If his poems were too like wallpapers, it was because he
 
 really could make wallpapers. He knew that lines of poetry ought to be
 
@@ -5599,7 +5599,7 @@ happened to-morrow. They named their books by cold titles suggesting
 
 straight corridors of marble--titles like _Looking Backward_. But Morris
 
-was an [[artist]] as [[Well|well]] as an anarchist. _News from Nowhere_ is an
+was an [[archetypes/artist|artist]] as [[motifs/well|well]] as an anarchist. _News from Nowhere_ is an
 
 irresponsible title; and it is an irresponsible book. It does not
 
@@ -5613,7 +5613,7 @@ he could even dream so is his true dignity as a poet. He was the first
 
 of the Æsthetes to smell mediævalism as a smell of the morning; and not
 
-as a mere scent of [[Decay|decay]].
+as a mere scent of [[motifs/decay|decay]].
 
 With him the poetry that had been peculiarly Victorian practically
 
@@ -5623,7 +5623,7 @@ minor names of major importance; but for one reason or other they do not
 
 derive from the schools that had dominated this epoch as such. Thus
 
-Thompson, the author of _The [[City]] of Dreadful Night_, was a fine poet;
+Thompson, the author of _The [[motifs/city|City]] of Dreadful Night_, was a fine poet;
 
 but his pessimism combined with a close pugnacity does not follow any of
 
@@ -5639,7 +5639,7 @@ Elizabethan as Browning; and often in moods and metres that even
 
 Browning was never wild enough to think of. No one will ever forget the
 
-first [[Time|time]] he read Patmore's hint that the cosmos is a thing that God
+first [[motifs/time|time]] he read Patmore's hint that the cosmos is a thing that God
 
 made huge only "to make dirt cheap"; just as nobody will ever forget the
 
@@ -5653,7 +5653,7 @@ Catholic Browning, keeps him out of the Victorian atmosphere as such.
 
 The Victorian English simply thought him an indecent sentimentalist, as
 
-they did all the hot and humble religious diarists of [[Italy]] or Spain.
+they did all the hot and humble religious diarists of [[settings/italy|Italy]] or Spain.
 
 Something of the same fate followed the most powerful of that last
 
@@ -5673,7 +5673,7 @@ Of offering it my baseness as a gift."
 
 But none of them were able even to understand Francis Thompson; his
 
-sky-scraping [[Humility|humility]], his [[Mountains|mountains]] of mystical detail, his occasional
+sky-scraping [[concepts/humility|humility]], his [[settings/mountains|mountains]] of mystical detail, his occasional
 
 and unashamed weakness, his sudden and sacred blasphemies. Perhaps the
 
@@ -5715,7 +5715,7 @@ country. Men like Huxley, men like Kingsley, men like most Victorian
 
 men, were equally driven back on being irreligious; that is, on doubting
 
-things which men's normal [[Imagination|imagination]] does not necessarily [[Doubt|doubt]]. But
+things which men's normal [[concepts/imagination|imagination]] does not necessarily [[concepts/doubt|doubt]]. But
 
 certainly the most final and forcible fact is that this war ended like
 
@@ -5725,7 +5725,7 @@ both did beat, and both did run away. They have left to their
 
 descendants a treaty that has become a dull torture. Men may believe in
 
-[[Immortality|immortality]], and none of the men know why. Men may not believe in
+[[concepts/immortality|immortality]], and none of the men know why. Men may not believe in
 
 miracles, and none of the men know why. The Christian Church had been
 
@@ -5739,23 +5739,23 @@ other; and Victorian England was in a state which some call liberty and
 
 some call lockjaw.
 
-But the situation can be stated another way. There came a [[Time|time]], roughly
+But the situation can be stated another way. There came a [[motifs/time|time]], roughly
 
 somewhere about 1880, when the two great positive enthusiasms of Western
 
-Europe had for the [[Time|time]] exhausted each other--[[Christianity]] and the
+Europe had for the [[motifs/time|time]] exhausted each other--[[historical-references/christianity|Christianity]] and the
 
-[[French Revolution]]. About that [[Time|time]] there used to be a sad and not
+[[historical-references/french-revolution|French Revolution]]. About that [[motifs/time|time]] there used to be a sad and not
 
-unsympathetic jest going about to the effect that [[Queen]] Victoria might
+unsympathetic jest going about to the effect that [[characters/queen|Queen]] Victoria might
 
-very [[Well|well]] live longer than the Prince of Wales. Somewhat in the same
+very [[motifs/well|well]] live longer than the Prince of Wales. Somewhat in the same
 
 way, though the republican impulse was hardly a hundred years old and
 
 the religious impulse nearly two thousand, yet as far as England was
 
-concerned, the old wave and the new seemed to be spent at the same [[Time|time]].
+concerned, the old wave and the new seemed to be spent at the same [[motifs/time|time]].
 
 On the one hand Darwin, especially through the strong journalistic
 
@@ -5779,25 +5779,25 @@ early arrived at, and still remains. It was and is hazily associated
 
 with the negation of religion. But (and this is the important point) it
 
-was also associated with the negation of [[Democracy|democracy]]. The same
+was also associated with the negation of [[concepts/democracy|democracy]]. The same
 
 Mid-Victorian muddle-headedness that made people think that "evolution"
 
 meant that we need not admit the supremacy of God, also made them think
 
-that "[[Survival|survival]]" meant that we must admit the supremacy of men. Huxley
+that "[[concepts/survival|survival]]" meant that we must admit the supremacy of men. Huxley
 
 had no hand in spreading these fallacies; he was a fair fighter; and he
 
 told his own followers, who spoke thus, most emphatically not to play
 
-the [[Fool|fool]]. He said most strongly that his or any theory of evolution left
+the [[archetypes/fool|fool]]. He said most strongly that his or any theory of evolution left
 
 the old philosophical arguments for a creator, right or wrong, exactly
 
 where they were before. He also said most emphatically that any one who
 
-used the argument of [[Nature]] against the ideal of justice or an equal
+used the argument of [[concepts/nature|Nature]] against the ideal of justice or an equal
 
 law, was as senseless as a gardener who should fight on the side of the
 
@@ -5811,7 +5811,7 @@ tongue, which he devoted to the task of keeping Victorian rationalism
 
 rational. He did not succeed. As so often happens when a rather
 
-unhealthy [[Doubt|doubt]] is in the atmosphere, the strongest words of their great
+unhealthy [[concepts/doubt|doubt]] is in the atmosphere, the strongest words of their great
 
 captain could not keep the growing crowds of agnostics back from the
 
@@ -5823,7 +5823,7 @@ to be more and more wildly whispered. Such helpless specimens of
 
 "advanced thought" are, of course, quite as inconsistent with Darwinism
 
-as they are with [[Democracy|democracy]] or with any other intelligent proposition
+as they are with [[concepts/democracy|democracy]] or with any other intelligent proposition
 
 ever offered. But these unintelligent propositions were offered; and the
 
@@ -5831,7 +5831,7 @@ ultimate result was this rather important one: that the harshness of
 
 Utilitarianism began to turn into downright tyranny. That beautiful
 
-[[Faith|faith]] in human [[Nature|nature]] and in [[Freedom|freedom]] which had made delicate the dry air
+[[concepts/faith|faith]] in human [[concepts/nature|nature]] and in [[concepts/freedom|freedom]] which had made delicate the dry air
 
 of John Stuart Mill; that robust, romantic sense of justice which had
 
@@ -5839,7 +5839,7 @@ redeemed even the injustices of Macaulay--all that seemed slowly and
 
 sadly to be drying up. Under the shock of Darwinism all that was good in
 
-the Victorian rationalism shook and dissolved like [[Dust|dust]]. All that was
+the Victorian rationalism shook and dissolved like [[motifs/dust|dust]]. All that was
 
 bad in it abode and clung like clay. The magnificent emancipation
 
@@ -5861,7 +5861,7 @@ experiment of reading solidly through a vast number of their records and
 
 reviews and discussions; and still I do not know. The only third thing I
 
-can think of to balance religion and politics is art; and no one [[Well|well]]
+can think of to balance religion and politics is art; and no one [[motifs/well|well]]
 
 acquainted with the debates at St. Stephen's will imagine that the art
 
@@ -5879,11 +5879,11 @@ they have to do with nothing; they have reached that low and last level
 
 where a man knows as little about his own claim, as he does about his
 
-enemies'. In any case there can be no [[Doubt|doubt]] about the effect of this
+enemies'. In any case there can be no [[concepts/doubt|doubt]] about the effect of this
 
 particular situation on the problem of ethics and science. The duty of
 
-dragging [[Truth|truth]] out by the tail or the hind leg or any other corner one
+dragging [[concepts/truth|truth]] out by the tail or the hind leg or any other corner one
 
 can possibly get hold of, a perfectly sound duty in itself, had somehow
 
@@ -5891,7 +5891,7 @@ come into collision with the older and larger duty of knowing something
 
 about the organism and ends of a creature; or, in the everyday phrase,
 
-being able to make head or tail of it. This [[Paradox|paradox]] pursued and
+being able to make head or tail of it. This [[concepts/paradox|paradox]] pursued and
 
 tormented the Victorians. They could not or would not see that humanity
 
@@ -5911,7 +5911,7 @@ inquiry, of which we have seen the culmination in our own day. There had
 
 begun that easy automatic habit, of science as an oiled and
 
-smooth-running [[Machine|machine]], that habit of treating things as obviously
+smooth-running [[motifs/machine|machine]], that habit of treating things as obviously
 
 unquestionable, when, indeed, they are obviously questionable. This
 
@@ -5919,9 +5919,9 @@ began with vaccination in the Early Victorian Age; it extended to the
 
 early licence of vivisection in its later age; it has found a sort of
 
-fitting foolscap, or [[Crown|crown]] of crime and folly, in the thing called
+fitting foolscap, or [[motifs/crown|crown]] of crime and folly, in the thing called
 
-[[Eugenics]]. In all three cases the point was not so much that the pioneers
+[[concepts/eugenics|Eugenics]]. In all three cases the point was not so much that the pioneers
 
 had not proved their case; it was rather that, by an unexpressed rule of
 
@@ -5935,15 +5935,15 @@ was being weakened by heavy blows from without.
 
 There is a week that is the turn of the year; there was a year that was
 
-the turn of the century. About 1870 the force of the [[French Revolution]]
+the turn of the century. About 1870 the force of the [[historical-references/french-revolution|French Revolution]]
 
-faltered and fell: the year that was everywhere the [[Death|death]] of Liberal
+faltered and fell: the year that was everywhere the [[motifs/death|death]] of Liberal
 
-ideas: the year when [[Paris]] fell: the year when Dickens died. While the
+ideas: the year when [[settings/paris|Paris]] fell: the year when Dickens died. While the
 
-new foes of [[Freedom|freedom]], the sceptics and scientists, were damaging
+new foes of [[concepts/freedom|freedom]], the sceptics and scientists, were damaging
 
-[[Democracy|democracy]] in ideas, the old foes of [[Freedom|freedom]], the emperors and the kings,
+[[concepts/democracy|democracy]] in ideas, the old foes of [[concepts/freedom|freedom]], the emperors and the kings,
 
 were damaging her more heavily in arms. For a moment it almost seemed
 
@@ -5955,7 +5955,7 @@ Alliance was now not arguably, but almost avowedly, an Unholy Alliance.
 
 It was an alliance between those who still thought they could deny the
 
-dignity of man and those who had recently begun to have a bright [[Hope|hope]] of
+dignity of man and those who had recently begun to have a bright [[concepts/hope|hope]] of
 
 denying even the dignity of God. Eighteenth-century Prussia was
 
@@ -5965,13 +5965,13 @@ utterly atheist. Thus the old spirit of liberty felt itself shut up at
 
 both ends, that which was called progressive and that which was called
 
-reactionary: barricaded by Bismarck with [[Blood|blood]] and iron and by Darwin by
+reactionary: barricaded by Bismarck with [[motifs/blood|blood]] and iron and by Darwin by
 
-[[Blood|blood]] and bones. The enormous depression which infects many excellent
+[[motifs/blood|blood]] and bones. The enormous depression which infects many excellent
 
-people born about this [[Time|time]], probably has this cause.
+people born about this [[motifs/time|time]], probably has this cause.
 
-It was a great calamity that the [[Freedom|freedom]] of Wilkes and the [[Faith|faith]] of Dr.
+It was a great calamity that the [[concepts/freedom|freedom]] of Wilkes and the [[concepts/faith|faith]] of Dr.
 
 Johnson fought each other. But it was an even worse calamity that they
 
@@ -5979,11 +5979,11 @@ practically killed each other. They killed each other almost
 
 simultaneously, like Herminius and Mamilius. Liberalism (in Newman's
 
-sense) really did strike [[Christianity]] through headpiece and through
+sense) really did strike [[historical-references/christianity|Christianity]] through headpiece and through
 
 head; that is, it did daze and stun the ignorant and ill-prepared
 
-intellect of the English Christian. And [[Christianity]] did smite
+intellect of the English Christian. And [[historical-references/christianity|Christianity]] did smite
 
 Liberalism through breastplate and through breast; that is, it did
 
@@ -6003,11 +6003,11 @@ This coincident collapse of both religious and political idealism
 
 produced a curious cold air of emptiness and real subconscious
 
-agnosticism such as is extremely unusual in the [[history]] of mankind. It
+agnosticism such as is extremely unusual in the [[concepts/history|history]] of mankind. It
 
 is what Mr. Wells, with his usual verbal delicacy and accuracy, spoke of
 
-as that ironical [[Silence|silence]] that follows a great controversy. It is what
+as that ironical [[motifs/silence|silence]] that follows a great controversy. It is what
 
 people less intelligent than Mr. Wells meant by calling themselves _fin
 
@@ -6015,7 +6015,7 @@ de siècle_; though, of course, rationally speaking, there is no more
 
 reason for being sad towards the end of a hundred years than towards the
 
-end of five hundred fortnights. There was no arithmetical [[Autumn|autumn]], but
+end of five hundred fortnights. There was no arithmetical [[motifs/autumn|autumn]], but
 
 there was a spiritual one. And it came from the fact suggested in the
 
@@ -6027,7 +6027,7 @@ eighteenth century than it was in the nineteenth century. But the
 
 republican enthusiasm was also much more alive. If their scepticism was
 
-cold, and their [[Faith|faith]] even colder, their practical politics were wildly
+cold, and their [[concepts/faith|faith]] even colder, their practical politics were wildly
 
 idealistic; and if they doubted the kingdom of heaven, they were
 
@@ -6045,21 +6045,21 @@ The modern world, in fact, had fallen between two stools. It had fallen
 
 between that austere old three-legged stool which was the tripod of the
 
-cold priestess of [[Apollo]]; and that other mystical and mediæval stool
+cold priestess of [[characters/apollo|Apollo]]; and that other mystical and mediæval stool
 
-that may [[Well|well]] be called the Stool of Repentance. It kept neither of the
+that may [[motifs/well|well]] be called the Stool of Repentance. It kept neither of the
 
 two values as intensely valuable. It could not believe in the bonds that
 
 bound men; but, then, neither could it believe in the men they bound. It
 
-was always restrained in its hatred of [[Slavery|slavery]] by a half remembrance of
+was always restrained in its hatred of [[concepts/slavery|slavery]] by a half remembrance of
 
-its yet greater hatred of liberty. They were almost [[Alone|alone]], I think, in
+its yet greater hatred of liberty. They were almost alone, I think, in
 
 thus carrying to its extreme the negative attitude already noted in Miss
 
-Arabella Allen. Anselm would have despised a civic [[Crown|crown]], but he would
+Arabella Allen. Anselm would have despised a civic [[motifs/crown|crown]], but he would
 
 not have despised a relic. Voltaire would have despised a relic; but he
 
@@ -6067,9 +6067,9 @@ would not have despised a vote. We hardly find them both despised till
 
 we come to the age of Oscar Wilde.
 
-These years that followed on that [[Double|double]] [[Disillusionment|disillusionment]] were like one
+These years that followed on that [[topoi/double|double]] [[concepts/disillusionment|disillusionment]] were like one
 
-long afternoon in a rich [[house]] on a rainy day. It was not merely that
+long afternoon in a rich house on a rainy day. It was not merely that
 
 everybody believed that nothing would happen; it was also that everybody
 
@@ -6079,11 +6079,11 @@ It was in this stale atmosphere that a few flickers of the old
 
 Swinburnian flame survived; and were called Art. The great men of the
 
-older artistic movement did not live in this [[Time|time]]; rather they lived
+older artistic movement did not live in this [[motifs/time|time]]; rather they lived
 
-through it. But this [[Time|time]] did produce an interregnum of art that had a
+through it. But this [[motifs/time|time]] did produce an interregnum of art that had a
 
-[[Truth|truth]] of its own; though that [[Truth|truth]] was near to being only a consistent
+[[concepts/truth|truth]] of its own; though that [[concepts/truth|truth]] was near to being only a consistent
 
 lie.
 
@@ -6105,7 +6105,7 @@ Wilde is also connected with real intellectual influences, largely
 
 negative, indeed, but subtle and influential. The mark in most of the
 
-arts of this [[Time|time]] was a certain quality which those who like it would
+arts of this [[motifs/time|time]] was a certain quality which those who like it would
 
 call "uniqueness of aspect," and those who do not like it "not quite
 
@@ -6115,7 +6115,7 @@ its mark was that the _smallest_ change of standpoint made it unmeaning
 
 and unthinkable--a foolish joke. A beggar painted by Rembrandt is as
 
-solid as a statue, however roughly he is sketched in; the [[Soul|soul]] can walk
+solid as a statue, however roughly he is sketched in; the [[motifs/soul|soul]] can walk
 
 all round him like a public monument. We see he would have other
 
@@ -6129,7 +6129,7 @@ masterpiece it is a man. But a nocturne by Whistler of mist on the
 
 Thames is either a masterpiece or it is nothing; it is either a nocturne
 
-or a [[nightmare]] of childish nonsense. Made in a certain mood, viewed
+or a nightmare of childish nonsense. Made in a certain mood, viewed
 
 through a certain temperament, conceived under certain conventions, it
 
@@ -6137,7 +6137,7 @@ may be, it often is, an unreplaceable poem, a vision that may never be
 
 seen again. But the moment it ceases to be a splendid picture it ceases
 
-to be a picture at all. Or, again, if _Hamlet_ is not a great [[Tragedy|tragedy]] it
+to be a picture at all. Or, again, if _Hamlet_ is not a great [[forms/tragedy|tragedy]] it
 
 is an uncommonly good tale. The people and the posture of affairs would
 
@@ -6145,11 +6145,11 @@ still be there even if one thought that Shakespeare's moral attitude was
 
 wrong. Just as one could imagine all the other sides of Rembrandt's
 
-beggar, so, with the mind's eye ([[Horatio]]), one can see all four sides of
+beggar, so, with the mind's eye ([[characters/horatio|Horatio]]), one can see all four sides of
 
-the [[Castle|castle]] of Elsinore. One might tell the tale from the point of view
+the [[settings/castle|castle]] of Elsinore. One might tell the tale from the point of view
 
-of Laërtes or [[Claudius]] or [[Polonius]] or the gravedigger; and it would
+of Laërtes or [[characters/claudius|Claudius]] or [[characters/polonius|Polonius]] or the gravedigger; and it would
 
 still be a good tale and the same tale. But if we take a play like
 
@@ -6161,11 +6161,11 @@ we cannot grasp anything whatever. Except from one extreme poetic point
 
 of view, the thing is not a play; it is not a bad play, it is a mass of
 
-clotted nonsense. One whole act describes the [[lovers]] going to look for a
+clotted nonsense. One whole act describes the lovers going to look for a
 
-ring in a distant [[Cave|cave]] when they both know they have dropped it down a
+ring in a distant [[motifs/cave|cave]] when they both know they have dropped it down a
 
-[[Well|well]]. Seen from some secret [[Window|window]] on some special side of the [[Soul|soul]]'s
+[[motifs/well|well]]. Seen from some secret [[motifs/window|window]] on some special side of the [[motifs/soul|soul]]'s
 
 turret, this might convey a sense of faerie futility in our human life.
 
@@ -6173,13 +6173,13 @@ But it is quite obvious that unless it called forth that one kind of
 
 sympathy, it would call forth nothing but laughter and rotten eggs. In
 
-the same play the husband chases his wife with a drawn [[Sword|sword]], the wife
+the same play the husband chases his wife with a drawn sword, the wife
 
 remarking at intervals "I am not gay." Now there may really be an idea
 
 in this; the idea of human misfortune coming most cruelly upon the
 
-optimism of [[innocence]]; that the lonely human heart says, like a [[Child|child]] at
+optimism of innocence; that the lonely human heart says, like a [[archetypes/child|child]] at
 
 a party, "I am not enjoying myself as I thought I should." But it is
 
@@ -6195,11 +6195,11 @@ narrow.
 
 This is the spirit of Wilde's work and of most of the literary work done
 
-in that [[Time|time]] and fashion. It is, as Mr. [[arthur|Arthur]] Symons said, an attitude;
+in that [[motifs/time|time]] and fashion. It is, as Mr. [[characters/arthur|Arthur]] Symons said, an attitude;
 
 but it is an attitude in the flat, not in the round; not a statue, but
 
-the cardboard [[King|king]] in a toy-theatre, which can only be looked at from
+the cardboard [[archetypes/king|king]] in a toy-theatre, which can only be looked at from
 
 the front. In Wilde's own poetry we have particularly a perpetually
 
@@ -6217,7 +6217,7 @@ right with this excessive strain on the reader's sympathy (and gravity)
 
 which was the mark of all these men with a "point of view." There is a
 
-very sound [[Sonnet|sonnet]] of his in which he begins by lamenting mere anarchy,
+very sound [[forms/sonnet|sonnet]] of his in which he begins by lamenting mere anarchy,
 
 as hostile to the art and civilisation that were his only gods; but ends
 
@@ -6233,9 +6233,9 @@ Now that is really very true; that is the way a man of wide reading and
 
 worldly experience, but not ungenerous impulses, does feel about the
 
-mere fanatic, who is at once a nuisance to humanity and an [[Honour|honour]] to
+mere fanatic, who is at once a nuisance to humanity and an [[concepts/honour|honour]] to
 
-human [[Nature|nature]]. Yet who can read that last line without feeling that Wilde
+human [[concepts/nature|nature]]. Yet who can read that last line without feeling that Wilde
 
 is poised on the edge of a precipice of bathos; that the phrase comes
 
@@ -6249,11 +6249,11 @@ hostile, unconquerable mirth. Somehow the image of Wilde lolling like an
 
 elegant leviathan on a sofa, and saying between the whiffs of a scented
 
-cigarette that [[Martyrdom|martyrdom]] is [[Martyrdom|martyrdom]] in some respects, has seized on
+cigarette that [[concepts/martyrdom|martyrdom]] is [[concepts/martyrdom|martyrdom]] in some respects, has seized on
 
 and mastered all more delicate considerations in the mind. It is unwise
 
-in a poet to goad the sleeping [[Lion|lion]] of laughter.
+in a poet to goad the sleeping [[motifs/lion|lion]] of laughter.
 
 In less dexterous hands the decadent idea, what there was of it, went
 
@@ -6267,7 +6267,7 @@ subtle and tactful; in the feeling for different art-forms, in the
 
 welding of subject and style, in the appropriateness of the epithet and
 
-the [[unity]] of the mood. Wilde himself wrote some things that were not
+the unity of the mood. Wilde himself wrote some things that were not
 
 immorality, but merely bad taste; not the bad taste of the conservative
 
@@ -6275,7 +6275,7 @@ suburbs, which merely means anything violent or shocking, but real bad
 
 taste; as in a stern subject treated in a florid style; an over-dressed
 
-woman at a supper of old friends; or a bad joke that nobody had [[Time|time]] to
+woman at a supper of old friends; or a bad joke that nobody had [[motifs/time|time]] to
 
 laugh at. This mixture of sensibility and coarseness in the man was very
 
@@ -6283,7 +6283,7 @@ curious; and I for one cannot endure (for example) his sensual way of
 
 speaking of dead substances, satin or marble or velvet, as if he were
 
-stroking a lot of [[dogs]] and cats. But there was a sort of power--or at
+stroking a lot of dogs and cats. But there was a sort of power--or at
 
 least weight--in his coarseness. His lapses were those proper to the one
 
@@ -6291,7 +6291,7 @@ good thing he really was, an Irish swashbuckler--a fighter. Some of the
 
 Roman Emperors might have had the same luxuriousness and yet the same
 
-[[Courage|courage]]. But the later decadents were far worse, especially the decadent
+[[concepts/courage|courage]]. But the later decadents were far worse, especially the decadent
 
 critics, the decadent illustrators--there were even decadent publishers.
 
@@ -6299,13 +6299,13 @@ And they utterly lost the light and reason of their existence: they were
 
 masters of the clumsy and the incongruous. I will take only one example.
 
-Aubrey Beardsley may be admired as an [[artist]] or no; he does not enter
+Aubrey Beardsley may be admired as an [[archetypes/artist|artist]] or no; he does not enter
 
 into the scope of this book. But it is true that there is a certain
 
 brief mood, a certain narrow aspect of life, which he renders to the
 
-[[Imagination|imagination]] rightly. It is mostly felt under white, deathly lights in
+[[concepts/imagination|imagination]] rightly. It is mostly felt under white, deathly lights in
 
 Piccadilly, with the black hollow of heaven behind shiny hats or painted
 
@@ -6315,11 +6315,11 @@ thing Beardsley could express (and the only thing he could express), it
 
 is the solemn and awful fact that he was set down to illustrate Malory's
 
-_Morte d'Arthur_. There is no need to say more; taste, in the [[artist]]'s
+_Morte d'Arthur_. There is no need to say more; taste, in the [[archetypes/artist|artist]]'s
 
-sense, must have been utterly dead. They might as [[Well|well]] have employed
+sense, must have been utterly dead. They might as [[motifs/well|well]] have employed
 
-Burne-[[Jones]] to illustrate _Martin Chuzzlewit_. It would not have been
+Burne-[[characters/jones|Jones]] to illustrate _Martin Chuzzlewit_. It would not have been
 
 more ludicrous than putting this portrayer of evil puppets, with their
 
@@ -6333,7 +6333,7 @@ To return to the chief of the decadents, I will not speak of the end of
 
 the individual story: there was horror and there was expiation. And, as
 
-my [[Conscience|conscience]] goes at least, no man should say one word that could
+my [[concepts/conscience|conscience]] goes at least, no man should say one word that could
 
 weaken the horror--or the pardon. But there is one literary consequence
 
@@ -6353,11 +6353,11 @@ very much deeper, more democratic and more true to the real trend of the
 
 populace to-day, than anything the Socialists ever uttered even in the
 
-boldest pages of Bernard [[Shaw]].
+boldest pages of Bernard [[works/shaw-(chesterton)|Shaw]].
 
 Before we pass on to the two expansive movements in which the Victorian
 
-Age really ended, the accident of a distinguished [[artist]] is available
+Age really ended, the accident of a distinguished [[archetypes/artist|artist]] is available
 
 for estimating this somewhat cool and sad afternoon of the epoch at its
 
@@ -6375,19 +6375,19 @@ both are delicate and indisputable; but we must all have had a feeling
 
 that the characters in Meredith are gods, but that the characters in
 
-Henry James are [[Ghosts|ghosts]]. I do not mean that they are unreal: I believe in
+Henry James are [[motifs/ghosts|ghosts]]. I do not mean that they are unreal: I believe in
 
-[[Ghosts|ghosts]]. So does Mr. Henry James; he has written some of his very finest
+[[motifs/ghosts|ghosts]]. So does Mr. Henry James; he has written some of his very finest
 
 literature about the little habits of these creatures. He is in the deep
 
 sense of a dishonoured word, a Spiritualist if ever there was one. But
 
-Meredith was a materialist as [[Well|well]]. The difference is that a [[Ghost|ghost]] is a
+Meredith was a materialist as [[motifs/well|well]]. The difference is that a [[archetypes/ghost|ghost]] is a
 
 disembodied spirit; while a god (to be worth worrying about) must be an
 
-embodied spirit. The presence of [[Soul|soul]] and substance together involves
+embodied spirit. The presence of [[motifs/soul|soul]] and substance together involves
 
 one of the two or three things which most of the Victorians did not
 
@@ -6407,11 +6407,11 @@ and mind. It is not mystery: it is rather a sort of terror at knowing
 
 too much. He lives in glass houses; he is akin to Maeterlinck in a
 
-feeling of the [[Nakedness|nakedness]] of souls. None of the Meredithian things, [[Wind|wind]]
+feeling of the [[motifs/nakedness|nakedness]] of souls. None of the Meredithian things, [[motifs/wind|wind]]
 
 or wine or sex or stark nonsense, ever gets between Mr. James and his
 
-prey. But the thing is a deficiency as [[Well|well]] as a talent: we cannot but
+prey. But the thing is a deficiency as [[motifs/well|well]] as a talent: we cannot but
 
 admire the figures that walk about in his afternoon drawing-rooms; but
 
@@ -6419,7 +6419,7 @@ we have a certain sense that they are figures that have no faces.
 
 For the rest, he is most widely known, or perhaps only most widely
 
-chaffed, because of a literary style that lends itself to [[Parody|parody]] and is
+chaffed, because of a literary style that lends itself to [[forms/parody|parody]] and is
 
 a glorious feast for Mr. Max Beerbohm. It may be called The Hampered, or
 
@@ -6427,9 +6427,9 @@ Obstacle Race Style, in which one continually trips over commas and
 
 relative clauses; and where the sense has to be perpetually qualified
 
-lest it should mean too much. But such [[Satire|satire]], however friendly, is in
+lest it should mean too much. But such [[forms/satire|satire]], however friendly, is in
 
-some sense unfair to him; because it [[Leaves|leaves]] out his sense of general
+some sense unfair to him; because it [[motifs/leaves|leaves]] out his sense of general
 
 artistic design, which is not only high, but bold. This appears, I
 
@@ -6451,15 +6451,15 @@ ever wrote a story at all like the _Mark of the Beast_; no one ever
 
 wrote a story at all like _A Kink in Space_: and in the same sense no
 
-one ever wrote a story like _The Great Good Place_. It is [[Alone|alone]] in order
+one ever wrote a story like _The Great Good Place_. It is alone in order
 
 and species; and it is masterly. He struck his deepest note in that
 
 terrible story, _The Turn of the Screw_; and though there is in the
 
-heart of that horror a [[Truth|truth]] of repentance and religion, it is again
+heart of that horror a [[concepts/truth|truth]] of repentance and religion, it is again
 
-notable of the Victorian writers that the only [[Supernatural|supernatural]] note they
+notable of the Victorian writers that the only [[motifs/supernatural|supernatural]] note they
 
 can strike assuredly is the tragic and almost the diabolic. Only Mr. Max
 
@@ -6475,11 +6475,11 @@ two positive movements, largely honest though essentially unhistoric and
 
 profane, which were destined to crack up the old Victorian solidity past
 
-repair. The first was Bernard [[Shaw]] and the Socialists: the second was
+repair. The first was Bernard [[works/shaw-(chesterton)|Shaw]] and the Socialists: the second was
 
 Rudyard Kipling and the Imperialists. I take the Socialists first not
 
-because they necessarily came so in order of [[Time|time]], but because they were
+because they necessarily came so in order of [[motifs/time|time]], but because they were
 
 less the note upon which the epoch actually ended.
 
@@ -6505,9 +6505,9 @@ that. In this way, being a full-blooded fellow, he rather repeats the
 
 genial sulkiness of Dickens. And if we take this fact about him first,
 
-we shall find it a key to the whole movement of this [[Time|time]]. For the one
+we shall find it a key to the whole movement of this [[motifs/time|time]]. For the one
 
-dominating [[Truth|truth]] which overshadows everything else at this point is a
+dominating [[concepts/truth|truth]] which overshadows everything else at this point is a
 
 political and economic one. The Industrial System, run by a small class
 
@@ -6517,13 +6517,13 @@ honestly established by the early Victorians and was one of the primary
 
 beliefs of Victorianism. The Industrial System, so run, had become
 
-another name for hell. By Morris's [[Time|time]] and ever since, England has been
+another name for hell. By Morris's [[motifs/time|time]] and ever since, England has been
 
 divided into three classes: Knaves, Fools, and Revolutionists.
 
-[[history|History]] is full of forgotten controversies; and those who speak of
+[[concepts/history|History]] is full of forgotten controversies; and those who speak of
 
-Socialism now have nearly all forgotten that for some [[Time|time]] it was an
+Socialism now have nearly all forgotten that for some [[motifs/time|time]] it was an
 
 almost equal fight between Socialism and Anarchism for the leadership of
 
@@ -6535,7 +6535,7 @@ man, Auberon Herbert. Spencer has no special place as a man of letters;
 
 and a vastly exaggerated place as a philosopher. His real importance was
 
-that he was very nearly an Anarchist. The indefinable [[Greatness|greatness]] there is
+that he was very nearly an Anarchist. The indefinable [[concepts/greatness|greatness]] there is
 
 about him after all, in spite of the silliest and smuggest limitations,
 
@@ -6561,17 +6561,17 @@ thought we might perhaps get out of the mess if everybody did as he
 
 liked.
 
-Thus the Anarchists and Socialists fought a battle over the [[Death|death]]-bed of
+Thus the Anarchists and Socialists fought a battle over the [[motifs/death|death]]-bed of
 
 Victorian Industrialism; in which the Socialists (that is, those who
 
-stood for increasing instead of diminishing the power of [[government|Government]]) won
+stood for increasing instead of diminishing the power of Government) won
 
 a complete victory and have almost exterminated their enemy. The
 
 Anarchist one meets here and there nowadays is a sad sight; he is
 
-disappointed with the future, as [[Well|well]] as with the past.
+disappointed with the future, as [[motifs/well|well]] as with the past.
 
 This victory of the Socialists was largely a literary victory; because
 
@@ -6587,11 +6587,11 @@ to which he had been bred, came out as the champion of Socialism not as
 
 a matter of sentiment, but as a matter of common sense. The primary
 
-position of Bernard [[Shaw]] towards the Victorian Age may be roughly
+position of Bernard [[works/shaw-(chesterton)|Shaw]] towards the Victorian Age may be roughly
 
 summarised thus: the typical Victorian said coolly: "Our system may not
 
-be a perfect system, but it works." Bernard [[Shaw]] replied, even more
+be a perfect system, but it works." Bernard [[works/shaw-(chesterton)|Shaw]] replied, even more
 
 coolly: "It may be a perfect system, for all I know or care. But it does
 
@@ -6605,23 +6605,23 @@ concentrate on its clumsiness, its ludicrous incapacity to do its own
 
 work. This campaign succeeded, in the sense that while (in the educated
 
-world) it was the Socialist who looked the [[Fool|fool]] at the beginning of that
+world) it was the Socialist who looked the [[archetypes/fool|fool]] at the beginning of that
 
-campaign, it is the Anti-Socialist who looks the [[Fool|fool]] at the end of it.
+campaign, it is the Anti-Socialist who looks the [[archetypes/fool|fool]] at the end of it.
 
 But while it won the educated classes it lost the populace for ever. It
 
-dried up those springs of [[Blood|blood]] and [[Tears|tears]] out of which all revolt must
+dried up those springs of [[motifs/blood|blood]] and [[motifs/tears|tears]] out of which all revolt must
 
 come if it is to be anything but bureaucratic readjustment. We began
 
-this book with the fires of the [[French Revolution]] still burning, but
+this book with the fires of the [[historical-references/french-revolution|French Revolution]] still burning, but
 
-burning low. Bernard [[Shaw]] was honestly in revolt in his own way: but it
+burning low. Bernard [[works/shaw-(chesterton)|Shaw]] was honestly in revolt in his own way: but it
 
-was Bernard [[Shaw]] who trod out the last ember of the Great Revolution.
+was Bernard [[works/shaw-(chesterton)|Shaw]] who trod out the last ember of the Great Revolution.
 
-Bernard [[Shaw]] proceeded to apply to many other things the same sort of
+Bernard [[works/shaw-(chesterton)|Shaw]] proceeded to apply to many other things the same sort of
 
 hilarious realism which he thus successfully applied to the industrial
 
@@ -6631,31 +6631,31 @@ of his mind was a more appetising and less raw-looking object than a
 
 piece of Hardy's. There were many modes of revolt growing all around
 
-him; [[Shaw]] supported them--and supplanted them. Many were pitting the
+him; [[works/shaw-(chesterton)|Shaw]] supported them--and supplanted them. Many were pitting the
 
-realism of war against the [[Romance|romance]] of war: they succeeded in making the
+realism of war against the romance of war: they succeeded in making the
 
-fight dreary and repulsive, but the book dreary and repulsive too. [[Shaw]],
+fight dreary and repulsive, but the book dreary and repulsive too. [[works/shaw-(chesterton)|Shaw]],
 
-in _Arms and the Man_, did manage to make war funny as [[Well|well]] as
+in _Arms and the Man_, did manage to make war funny as [[motifs/well|well]] as
 
-frightful. Many were questioning the right of [[Revenge|revenge]] or punishment; but
+frightful. Many were questioning the right of [[concepts/revenge|revenge]] or punishment; but
 
 they wrote their books in such a way that the reader was ready to
 
-release all mankind if he might [[Revenge|revenge]] himself on the author. [[Shaw]], in
+release all mankind if he might [[concepts/revenge|revenge]] himself on the author. [[works/shaw-(chesterton)|Shaw]], in
 
 _Captain Brassbound's Conversion_, really showed at its best the merry
 
-[[Mercy|mercy]] of the pagan; that beautiful human [[Nature|nature]] that can neither rise to
+[[concepts/mercy|mercy]] of the pagan; that beautiful human [[concepts/nature|nature]] that can neither rise to
 
-penance nor sink to [[Revenge|revenge]]. Many had proved that even the most
+penance nor sink to [[concepts/revenge|revenge]]. Many had proved that even the most
 
-independent incomes drank [[Blood|blood]] out of the veins of the oppressed: but
+independent incomes drank [[motifs/blood|blood]] out of the veins of the oppressed: but
 
 they wrote it in such a style that their readers knew more about
 
-depression than oppression. In _Widowers' Houses_ [[Shaw]] very nearly (but
+depression than oppression. In _Widowers' Houses_ [[works/shaw-(chesterton)|Shaw]] very nearly (but
 
 not quite) succeeded in making a farce out of statistics. And the
 
@@ -6667,7 +6667,7 @@ said "widows' houses," it suddenly occurs to him to say "but what about
 
 widowers' houses?" There is a sort of insane equity about it which was
 
-what Bernard [[Shaw]] had the power to give, and gave.
+what Bernard [[works/shaw-(chesterton)|Shaw]] had the power to give, and gave.
 
 Out of the same social ferment arose a man of equally unquestionable
 
@@ -6675,19 +6675,19 @@ genius, Mr. H. G. Wells. His first importance was that he wrote great
 
 adventure stories in the new world the men of science had discovered. He
 
-walked on a round slippery world as boldly as [[Ulysses]] or Tom [[Jones]] had
+walked on a round slippery world as boldly as [[characters/ulysses|Ulysses]] or Tom [[characters/jones|Jones]] had
 
 worked on a flat one. Cyrano de Bergerac or Baron Munchausen, or other
 
-typical men of science, had treated the [[Moon|moon]] as a mere flat silver
+typical men of science, had treated the [[motifs/moon|moon]] as a mere flat silver
 
-[[Mirror|mirror]] in which Man saw his own image--the Man in the [[Moon]]. Wells
+[[motifs/mirror|mirror]] in which Man saw his own image--the Man in the [[motifs/moon|Moon]]. Wells
 
-treated the [[Moon|moon]] as a globe, like our own; bringing forth monsters as
+treated the [[motifs/moon|moon]] as a globe, like our own; bringing forth monsters as
 
 moonish as we are earthy. The exquisitely penetrating political and
 
-social [[Satire|satire]] he afterwards wrote belongs to an age later than the
+social [[forms/satire|satire]] he afterwards wrote belongs to an age later than the
 
 Victorian. But because, even from the beginning, his whole trend was
 
@@ -6695,31 +6695,31 @@ Socialist, it is right to place him here.
 
 While the old Victorian ideas were being disturbed by an increasing
 
-torture at [[Home|home]], they were also intoxicated by a new [[Romance|romance]] from
+torture at [[motifs/home|home]], they were also intoxicated by a new romance from
 
-abroad. It did not come from [[Italy]] with Rossetti and Browning, or from
+abroad. It did not come from [[settings/italy|Italy]] with Rossetti and Browning, or from
 
 Persia with Fitzgerald: but it came from countries as remote, countries
 
 which were (as the simple phrase of that period ran) "painted red" on
 
-the map. It was an attempt to [[Reform|reform]] England through the newer nations;
+the map. It was an attempt to [[concepts/reform|reform]] England through the newer nations;
 
 by the criticism of the forgotten colonies, rather than of the forgotten
 
 classes. Both Socialism and Imperialism were utterly alien to the
 
-Victorian idea. From the point of view of a Victorian [[aristocrat]] like
+Victorian idea. From the point of view of a Victorian aristocrat like
 
 Palmerston, Socialism would be the cheek of gutter snipes; Imperialism
 
-would be the intrusion of cads. But cads are not [[Alone|alone]] concerned.
+would be the intrusion of cads. But cads are not alone concerned.
 
 Broadly, the phase in which the Victorian epoch closed was what can only
 
 be called the Imperialist phase. Between that and us stands a very
 
-individual [[artist]] who must nevertheless be connected with that phase. As
+individual [[archetypes/artist|artist]] who must nevertheless be connected with that phase. As
 
 I said at the beginning, Macaulay (or, rather, the mind Macaulay shared
 
@@ -6729,19 +6729,19 @@ flat foundation under all the Victorians. They discussed the dogmas
 
 rather than denied them. Now one of the dogmas of Macaulay was the dogma
 
-of progress. A fair statement of the [[Truth|truth]] in it is not really so hard.
+of progress. A fair statement of the [[concepts/truth|truth]] in it is not really so hard.
 
-Investigation of anything naturally takes some little [[Time|time]]. It takes
+Investigation of anything naturally takes some little [[motifs/time|time]]. It takes
 
-some [[Time|time]] to sort letters so as to find a letter: it takes some [[Time|time]] to
+some [[motifs/time|time]] to sort letters so as to find a letter: it takes some [[motifs/time|time]] to
 
-test a gas-bracket so as to find the leak; it takes some [[Time|time]] to sift
+test a gas-bracket so as to find the leak; it takes some [[motifs/time|time]] to sift
 
-evidence so as to find the [[Truth|truth]]. Now the curse that fell on the later
+evidence so as to find the [[concepts/truth|truth]]. Now the curse that fell on the later
 
-Victorians was this: that they began to value the [[Time|time]] more than the
+Victorians was this: that they began to value the [[motifs/time|time]] more than the
 
-[[Truth|truth]]. One felt so secretarial when sorting letters that one never found
+[[concepts/truth|truth]]. One felt so secretarial when sorting letters that one never found
 
 the letter; one felt so scientific in explaining gas that one never
 
@@ -6775,13 +6775,13 @@ Nevertheless the fallacy of the "forerunner" has been largely used in
 
 literature. Thus men will call a universal satirist like Langland a
 
-"morning star of the [[Reformation]]," or some such rubbish; whereas the
+"morning star of the [[historical-references/reformation|Reformation]]," or some such rubbish; whereas the
 
-[[Reformation]] was not larger, but much smaller than Langland. It was
+[[historical-references/reformation|Reformation]] was not larger, but much smaller than Langland. It was
 
 simply the victory of one class of his foes, the greedy merchants, over
 
-another class of his foes, the lazy abbots. In real [[history]] this
+another class of his foes, the lazy abbots. In real [[concepts/history|history]] this
 
 constantly occurs; that some small movement happens to favour one of the
 
@@ -6807,9 +6807,9 @@ sense not only on every subject, but, so far as it is logically
 
 possible, in every sense. But the glaring deficiencies of the Victorian
 
-compromise had by that [[Time|time]] begun to gape so wide that he was forced, by
+compromise had by that [[motifs/time|time]] begun to gape so wide that he was forced, by
 
-mere [[Freedom|freedom]] of [[philosophy]] and fancy, to urge the neglected things. And
+mere [[concepts/freedom|freedom]] of philosophy and fancy, to urge the neglected things. And
 
 yet this very urgency certainly brought on an opposite fever, which he
 
@@ -6817,17 +6817,17 @@ would not have liked if he had lived to understand it. He liked Kipling,
 
 though with many healthy hesitations; but he would not have liked the
 
-triumph of Kipling: which was the [[success]] of the politician and the
+triumph of Kipling: which was the success of the politician and the
 
 failure of the poet. Yet when we look back up the false perspective of
 
-[[Time|time]], Stevenson does seem in a sense to have prepared that imperial and
+[[motifs/time|time]], Stevenson does seem in a sense to have prepared that imperial and
 
 downward path.
 
 I shall not talk here, any more than anywhere else in this book, about
 
-the "sedulous ape" business. No man ever wrote as [[Well|well]] as Stevenson who
+the "sedulous ape" business. No man ever wrote as [[motifs/well|well]] as Stevenson who
 
 cared only about writing. Yet there is a sense, though a misleading one,
 
@@ -6837,7 +6837,7 @@ philosophical. To put the point in that curt covenanting way which he
 
 himself could sometimes command, he thought it immoral to neglect
 
-[[Romance|romance]]. The whole of his real position was expressed in that phrase of
+romance. The whole of his real position was expressed in that phrase of
 
 one of his letters "our civilisation is a dingy ungentlemanly business:
 
@@ -6847,23 +6847,23 @@ been dropped out of the man was the boy. He pursued pirates as Defoe
 
 would have fled from them; and summed up his simplest emotions in that
 
-touching _cri de coeur_ "shall we never shed [[Blood|blood]]?" He did for the
+touching _cri de coeur_ "shall we never shed [[motifs/blood|blood]]?" He did for the
 
 penny dreadful what Coleridge had done for the penny ballad. He proved
 
 that, because it was really human, it could really rise as near to
 
-heaven as human [[Nature|nature]] could take it. If Thackeray is our youth,
+heaven as human [[concepts/nature|nature]] could take it. If Thackeray is our youth,
 
 Stevenson is our boyhood: and though this is not the most artistic
 
-thing in him, it is the most important thing in the [[history]] of Victorian
+thing in him, it is the most important thing in the [[concepts/history|history]] of Victorian
 
 art. All the other fine things he did were, for curious reasons, remote
 
-from the current of his age. For instance, he had the good as [[Well|well]] as
+from the current of his age. For instance, he had the good as [[motifs/well|well]] as
 
-the bad of coming from a Scotch Calvinist's [[house]]. No man in that age
+the bad of coming from a Scotch Calvinist's house. No man in that age
 
 had so healthy an instinct for the actuality of positive evil. In _The
 
@@ -6873,15 +6873,15 @@ is a gentleman--but is none the less the Devil. It is also
 
 characteristic of him (and of the revolt from Victorian respectability
 
-in general) that his most [[Blood|blood]]-and-thunder sensational tale is also
+in general) that his most [[motifs/blood|blood]]-and-thunder sensational tale is also
 
-that which contains his most intimate and bitter [[Truth|truth]]. _Dr. Jekyll and
+that which contains his most intimate and bitter [[concepts/truth|truth]]. _Dr. Jekyll and
 
-Mr. Hyde_ is a [[Double|double]] triumph; it has the outside excitement that
+Mr. Hyde_ is a [[topoi/double|double]] triumph; it has the outside excitement that
 
 belongs to Conan Doyle with the inside excitement that belongs to Henry
 
-James. Alas, it is equally characteristic of the Victorian [[Time|time]] that
+James. Alas, it is equally characteristic of the Victorian [[motifs/time|time]] that
 
 while nearly every Englishman has enjoyed the anecdote, hardly one
 
@@ -6921,9 +6921,9 @@ that could be felt; it had a military edge to it, an _acies_; and there
 
 was a kind of swordsmanship about it. Thus all the circumstances led,
 
-not so much to the narrowing of Stevenson to the [[Romance|romance]] of the fighting
+not so much to the narrowing of Stevenson to the romance of the fighting
 
-spirit; but the narrowing of his influence to that [[Romance|romance]]. He had a
+spirit; but the narrowing of his influence to that romance. He had a
 
 great many other things to say; but this was what we were willing to
 
@@ -6939,7 +6939,7 @@ credit to his manhood in preaching a sane levity and pugnacious
 
 optimism. But it also forbade him full familiarity with the actualities
 
-of sport, war, or [[Comradeship|comradeship]]: and here and there his note is false in
+of sport, war, or [[concepts/comradeship|comradeship]]: and here and there his note is false in
 
 these matters, and reminds one (though very remotely) of the mere
 
@@ -6947,7 +6947,7 @@ provincial bully that Henley sometimes sank to be.
 
 For Stevenson had at his elbow a friend, an invalid like himself, a man
 
-of [[Courage|courage]] and stoicism like himself; but a man in whom everything that
+of [[concepts/courage|courage]] and stoicism like himself; but a man in whom everything that
 
 Stevenson made delicate and rational became unbalanced and blind. The
 
@@ -6971,7 +6971,7 @@ seemed to think that on the right side the wronger you were the better.
 
 There was much that was feminine in him; and he is most understandable
 
-when surprised in those little solitary [[Poems|poems]] which speak of emotions
+when surprised in those little solitary poems which speak of emotions
 
 mellowed, of sunset and a quiet end. Henley hurled himself into the new
 
@@ -7011,7 +7011,7 @@ that he is partial. I therefore confess that I think this last turn of
 
 the Victorian Age was an unfortunate turn; much on the other side can be
 
-said, and I [[Hope|hope]] will be said. But about the facts there can be no
+said, and I [[concepts/hope|hope]] will be said. But about the facts there can be no
 
 question. The Imperialism of Kipling was equally remote from the
 
@@ -7021,7 +7021,7 @@ seriously end here. The world was full of the trampling of totally new
 
 forces, gold was sighted from far in a sort of cynical romanticism: the
 
-guns opened across Africa; and the great [[Queen|queen]] died.
+guns opened across Africa; and the great [[characters/queen|queen]] died.
 
 *       *       *       *       *
 
@@ -7039,7 +7039,7 @@ country must extend peace: it has certainly often extended war. They
 
 thought that commerce inside a country must certainly promote
 
-prosperity; it has largely promoted [[Poverty|poverty]]. But for them these were
+prosperity; it has largely promoted [[concepts/poverty|poverty]]. But for them these were
 
 experiments; for us they ought to be lessons. If _we_ continue the
 
@@ -7055,7 +7055,7 @@ After having surveyed the immense field presented in such a volume as
 
 Mr. George Mair's _Modern English Literature_ in this series, or, more
 
-fully, in the _Cambridge [[history|History]] of Modern Literature_, the later volume
+fully, in the _Cambridge [[concepts/history|History]] of Modern Literature_, the later volume
 
 of Chambers' _English Literature_, Mr. Gosse's _History of Modern
 
@@ -7087,11 +7087,11 @@ Browning_, and A. C. Benson's _Fitzgerald_. At least two autobiographies
 
 must be named, those of Herbert Spencer and John Stuart Mill, and, as
 
-antidote to Newman's _Apologia_, the gay [[Self|self]]-revelations of Borrow, and
+antidote to Newman's _Apologia_, the gay [[concepts/self|self]]-revelations of Borrow, and
 
 Jefferies' _Story of My Heart_. Other considerable volumes are W. J.
 
-[[Cross]]'s _George Eliot_, Lionel Johnson's _Art of Thomas Hardy_, Mr. W. M.
+[[motifs/cross|Cross]]'s _George Eliot_, Lionel Johnson's _Art of Thomas Hardy_, Mr. W. M.
 
 Rossetti's _Dante G. Rossetti_, Colvin's _R. L. Stevenson_, J. W.
 
@@ -7127,7 +7127,7 @@ Literature_, etc.), Augustine Birrell (_Obiter Dicta_, _Essays_), W. E.
 
 Henley (_Views and Reviews_), J. Addington Symonds (_Essays_), J.
 
-Churton Collins, [[Richard]] Garnett, Stopford A. Brooke, George E. B.
+Churton Collins, [[characters/richard|Richard]] Garnett, Stopford A. Brooke, George E. B.
 
 Saintsbury (_History of Criticism_), R. H. Hutton (_Contemporary
 
@@ -7135,7 +7135,7 @@ Thought_), J. M. Robertson (_Modern Humanists_, _Buckle_, etc.), Frederic
 
 Harrison (_The Choice of Books_, etc.), Andrew Lang, Walter Bagehot,
 
-[[Edmund]] Gosse, Prof. Dowden, Sir Walter Raleigh, and Sir A. T. Quiller
+[[characters/edmund|Edmund]] Gosse, Prof. Dowden, Sir Walter Raleigh, and Sir A. T. Quiller
 
 Couch.
 
@@ -7187,7 +7187,7 @@ Faber, 46
 
 Fitzgerald, 192-95
 
-[[French Revolution]], Influence of, 18-21
+[[historical-references/french-revolution|French Revolution]], Influence of, 18-21
 
 Froude, 60, 62
 
@@ -7205,7 +7205,7 @@ Hood, Thomas, 25-27
 
 Hughes, Tom, 73
 
-[[Humour]], Victorian, 152-55
+[[works/humour-(chesterton)|Humour]], Victorian, 152-55
 
 Hunt, Leigh, 23
 
@@ -7223,7 +7223,7 @@ Kingsley, 40, 59, 64, 72, 134-35
 
 Kipling, R., 60, 249-50
 
-[[Lamb]], 23
+[[motifs/lamb|Lamb]], 23
 
 Landor, 23
 
@@ -7249,13 +7249,13 @@ Morris, Wm., 196-200, 232
 
 Newman, 38, 40, 45-48, 78, 159
 
-[[Novel]], The Modern, 90-99
+[[forms/novel|Novel]], The Modern, 90-99
 
 Oliphant, Mrs., 116-17
 
 "Ouida," 117
 
-[[Oxford]] Movement, 42-45
+[[settings/oxford|Oxford]] Movement, 42-45
 
 Pater, Walter, 69-71
 
@@ -7271,7 +7271,7 @@ Ruskin, 40, 62-8, 70, 158
 
 Science, Victorian, 208-12
 
-[[Shaw]], G. B., 60, 235-38
+[[works/shaw-(chesterton)|Shaw]], G. B., 60, 235-38
 
 Shelley, 22-23
 
@@ -7313,19 +7313,19 @@ THE VICTORIAN COMPROMISE AND ITS ENEMIES
 
 The previous literary life of this country had left vigorous many old
 
-forces in the Victorian [[Time|time]], as in our [[Time|time]]. Roman Britain and Mediæval
+forces in the Victorian [[motifs/time|time]], as in our [[motifs/time|time]]. Roman Britain and Mediæval
 
 England are still not only alive but lively; for real development is not
 
-leaving things behind, as on a [[Road|road]], but drawing life from them, as from
+leaving things behind, as on a [[motifs/road|road]], but drawing life from them, as from
 
 a root. Even when we improve we never progress. For progress, the
 
-metaphor from the [[Road|road]], implies a man leaving his [[Home|home]] behind him: but
+metaphor from the [[motifs/road|road]], implies a man leaving his [[motifs/home|home]] behind him: but
 
 improvement means a man exalting the towers or extending the gardens of
 
-his [[Home|home]]. The ancient English literature was like all the several
+his [[motifs/home|home]]. The ancient English literature was like all the several
 
 literatures of Christendom, alike in its likeness, alike in its very
 
@@ -7335,23 +7335,23 @@ European cultures, it was something more than European. A most marked
 
 and unmanageable national temperament is plain in Chaucer and the
 
-ballads of [[Robin Hood]]; in spite of deep and sometimes disastrous changes
+ballads of [[characters/robin-hood|Robin Hood]]; in spite of deep and sometimes disastrous changes
 
 of national policy, that note is still unmistakable in Shakespeare, in
 
 Johnson and his friends, in Cobbett, in Dickens. It is vain to dream of
 
-defining such vivid things; a national [[Soul|soul]] is as indefinable as a
+defining such vivid things; a national [[motifs/soul|soul]] is as indefinable as a
 
 smell, and as unmistakable. I remember a friend who tried impatiently to
 
 explain the word "mistletoe" to a German, and cried at last, despairing,
 
-"[[Well]], you know holly--mistletoe's the opposite!" I do not commend this
+"[[motifs/well|Well]], you know holly--mistletoe's the opposite!" I do not commend this
 
 logical method in the comparison of plants or nations. But if he had
 
-said to the Teuton, "[[Well]], you know [[Germany]]--England's the
+said to the Teuton, "[[motifs/well|Well]], you know [[settings/germany|Germany]]--England's the
 
 opposite"--the definition, though fallacious, would not have been wholly
 
@@ -7363,31 +7363,31 @@ Christian countries, it drank its longest literary draughts from the
 
 classic fountains of the ancients: nor was this (as is so often loosely
 
-thought) a matter of the mere "[[Renaissance]]." The English tongue and
+thought) a matter of the mere "[[historical-references/renaissance|Renaissance]]." The English tongue and
 
 talent of speech did not merely flower suddenly into the gargantuan
 
 polysyllables of the great Elizabethans; it had always been full of the
 
-popular Latin of the Middle Ages. But whatever balance of [[Blood|blood]] and
+popular Latin of the Middle Ages. But whatever balance of [[motifs/blood|blood]] and
 
 racial idiom one allows, it is really true that the only suggestion that
 
 gets near the Englishman is to hint how far he is from the German. The
 
-Germans, like the Welsh, can sing perfectly serious [[songs]] perfectly
+Germans, like the Welsh, can sing perfectly serious songs perfectly
 
-seriously in [[Chorus|chorus]]: can with clear eyes and clear voices join together
+seriously in [[characters/chorus|chorus]]: can with clear eyes and clear voices join together
 
-in words of [[Innocent|innocent]] and beautiful personal passion, for a false maiden
+in words of [[archetypes/innocent|innocent]] and beautiful personal passion, for a false maiden
 
-or a dead [[Child|child]]. The nearest one can get to defining the poetic temper
+or a dead [[archetypes/child|child]]. The nearest one can get to defining the poetic temper
 
 of Englishmen is to say that they couldn't do this even for beer. They
 
-can sing in [[Chorus|chorus]], and louder than other Christians: but they must have
+can sing in [[characters/chorus|chorus]], and louder than other Christians: but they must have
 
-in their [[songs]] something, I know not what, that is at once shamefaced
+in their songs something, I know not what, that is at once shamefaced
 
 and rowdy. If the matter be emotional, it must somehow be also broad,
 
@@ -7395,15 +7395,15 @@ common and comic, as "Wapping Old Stairs" and "Sally in Our Alley." If
 
 it be patriotic, it must somehow be openly bombastic and, as it were,
 
-indefensible, like "Rule Britannia" or like that superb [[Song|song]] (I never
+indefensible, like "Rule Britannia" or like that superb song (I never
 
 knew its name, if it has one) that records the number of leagues from
 
-Ushant to the Scilly Isles. Also there is a tender [[Love|love]]-[[Lyric|lyric]] called "O
+Ushant to the Scilly Isles. Also there is a tender [[motifs/love|love]]-[[forms/lyric|lyric]] called "O
 
 Tarry Trousers" which is even more English than the heart of _The
 
-Midsummer [[Night]]'s Dream_. But our greatest bards and sages have often
+Midsummer [[motifs/night|Night]]'s Dream_. But our greatest bards and sages have often
 
 shown a tendency to rant it and roar it like true British sailors; to
 
@@ -7417,7 +7417,7 @@ or a serious collapse: one feels the poet is offended at a smile. But
 
 Shakespeare seems rather proud of talking nonsense: I never can read
 
-that rousing and mounting description of the [[Storm|storm]], where it comes to--
+that rousing and mounting description of the [[motifs/storm|storm]], where it comes to--
 
 "Who take the ruffian billows by the top,
 
@@ -7435,17 +7435,17 @@ general national spirit, which we have now to follow through one brief
 
 and curious but very national episode.
 
-Three years before the young [[Queen|queen]] was crowned, William Cobbett was
+Three years before the young [[characters/queen|queen]] was crowned, William Cobbett was
 
 buried at Farnham. It may seem strange to begin with this great
 
-neglected name, rather than the old age of Wordsworth or the young [[Death|death]]
+neglected name, rather than the old age of Wordsworth or the young [[motifs/death|death]]
 
 of Shelley. But to any one who feels literature as human, the empty
 
 chair of Cobbett is more solemn and significant than the throne. With
 
-him died the sort of [[Democracy|democracy]] that was a return to [[Nature]], and which
+him died the sort of [[concepts/democracy|democracy]] that was a return to [[concepts/nature|Nature]], and which
 
 only poets and mobs can understand. After him Radicalism is urban--and
 
@@ -7457,23 +7457,23 @@ called Birmingham what Cobbett called it--a hell-hole. Cobbett was one
 
 with after Liberals in the ideal of Man under an equal law, a citizen of
 
-no mean [[City|city]]. He differed from after Liberals in strongly affirming that
+no mean [[motifs/city|city]]. He differed from after Liberals in strongly affirming that
 
 Liverpool and Leeds are mean cities.
 
 It is no idle Hibernianism to say that towards the end of the eighteenth
 
-century the most important event in English [[history]] happened in France.
+century the most important event in English [[concepts/history|history]] happened in France.
 
 It would seem still more perverse, yet it would be still more precise,
 
-to say that the most important event in English [[history]] was the event
+to say that the most important event in English [[concepts/history|history]] was the event
 
 that never happened at all--the English Revolution on the lines of the
 
-[[French Revolution]]. Its failure was not due to any lack of fervour or
+[[historical-references/french-revolution|French Revolution]]. Its failure was not due to any lack of fervour or
 
-even ferocity in those who would have brought it about: from the [[Time|time]]
+even ferocity in those who would have brought it about: from the [[motifs/time|time]]
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7484,19 +7484,19 @@ IL COMPROMESSO VITTORIANO E I SUOI NEMICI
 
 La precedente vita letteraria di questo paese aveva lasciato vigorose molte antiche
 
-forze nel [[Time|tempo]] vittoriano, come nel nostro [[Time|tempo]]. La Britannia romana e la medievale
+forze nel [[motifs/time|tempo]] vittoriano, come nel nostro [[motifs/time|tempo]]. La Britannia romana e la medievale
 
 Inghilterra sono tuttora non solo vive, ma vivaci; giacché il vero sviluppo non consiste
 
-nel lasciarsi le cose alle spalle, come lungo una [[Road|strada]], bensì nel trarne vita, come da
+nel lasciarsi le cose alle spalle, come lungo una [[motifs/road|strada]], bensì nel trarne vita, come da
 
 una radice. Anche quando miglioriamo, non progrediamo mai. Poiché il progresso, la
 
-metafora tratta dalla [[Road|strada]], implica un uomo che si lascia la [[Home|casa]] alle spalle: ma
+metafora tratta dalla [[motifs/road|strada]], implica un uomo che si lascia la [[motifs/home|casa]] alle spalle: ma
 
 il miglioramento significa un uomo che innalza le torri o amplia i giardini della
 
-sua [[Home|casa]]. L'antica letteratura inglese era simile a tutte le varie
+sua [[motifs/home|casa]]. L'antica letteratura inglese era simile a tutte le varie
 
 letterature della Cristianità, affini nella loro somiglianza, affini nella loro stessa
 
@@ -7506,23 +7506,23 @@ le culture europee, era qualcosa di più che europea. Un temperamento nazionale 
 
 e indomabile è manifesto in Chaucer e nelle
 
-ballate di [[Robin Hood]]; nonostante mutamenti profondi e talora disastrosi
+ballate di [[characters/robin-hood|Robin Hood]]; nonostante mutamenti profondi e talora disastrosi
 
 della politica nazionale, quella nota è ancora inconfondibile in Shakespeare, in
 
 Johnson e i suoi amici, in Cobbett, in Dickens. È vano sognare di
 
-definire cose così vivide; un'[[Soul|anima]] nazionale è indefinibile quanto un
+definire cose così vivide; un'[[motifs/soul|anima]] nazionale è indefinibile quanto un
 
 odore, e altrettanto inconfondibile. Ricordo un amico che cercò con impazienza di
 
 spiegare la parola «mistletoe» a un tedesco, e alla fine gridò, disperato:
 
-«[[Well|Be']], sai, l'holly... il mistletoe ne è l'opposto!» Non raccomando questo
+«[[motifs/well|Be']], sai, l'holly... il mistletoe ne è l'opposto!» Non raccomando questo
 
 metodo logico nel paragone di piante o nazioni. Ma se egli avesse
 
-detto al Teutone: «[[Well|Be']], conosci la [[Germany|Germania]] — l'Inghilterra ne è
+detto al Teutone: «[[motifs/well|Be']], conosci la [[settings/germany|Germania]] — l'Inghilterra ne è
 
 l'opposto» — la definizione, per quanto fallace, non sarebbe stata del tutto
 
@@ -7534,31 +7534,31 @@ i paesi cristiani, attinse i suoi più lunghi sorsi letterari dalle
 
 classiche fonti degli antichi: né ciò fu (come tanto spesso vagamente
 
-si crede) una faccenda del mero «[[Renaissance|Rinascimento]]». La lingua inglese e il
+si crede) una faccenda del mero «[[historical-references/renaissance|Rinascimento]]». La lingua inglese e il
 
 talento oratorio non sbocciarono d'improvviso soltanto nei gargantueschi
 
 polisillabi dei grandi elisabettiani; era sempre stata colma del
 
-latino popolare del Medioevo. Ma qualunque equilibrio di [[Blood|sangue]] e
+latino popolare del Medioevo. Ma qualunque equilibrio di [[motifs/blood|sangue]] e
 
 idioma razziale si conceda, è davvero vero che l'unico suggerimento che
 
 si avvicini all'inglese è accennare a quanto egli sia lontano dal tedesco. I
 
-Tedeschi, come i Gallesi, sanno cantare [[songs|canti]] perfettamente seri con perfetta
+Tedeschi, come i Gallesi, sanno cantare canti perfettamente seri con perfetta
 
-serietà in [[Chorus|coro]]: sanno con occhi chiari e voci chiare unirsi insieme
+serietà in [[characters/chorus|coro]]: sanno con occhi chiari e voci chiare unirsi insieme
 
-in parole di [[Innocent|innocente]] e bella passione personale, per una falsa fanciulla
+in parole di [[archetypes/innocent|innocente]] e bella passione personale, per una falsa fanciulla
 
-o un [[Child|bambino]] morto. Il più che ci si possa avvicinare a definire il temperamento poetico
+o un [[archetypes/child|bambino]] morto. Il più che ci si possa avvicinare a definire il temperamento poetico
 
 degli inglesi è dire che non saprebbero farlo neppure per la birra. Sanno
 
-cantare in [[Chorus|coro]], e più forte degli altri cristiani: ma devono avere
+cantare in [[characters/chorus|coro]], e più forte degli altri cristiani: ma devono avere
 
-nei loro [[songs|canti]] qualcosa, non so cosa, che è a un tempo vergognoso
+nei loro canti qualcosa, non so cosa, che è a un tempo vergognoso
 
 e chiassoso. Se la materia è emotiva, deve in qualche modo essere anche ampia,
 
@@ -7566,15 +7566,15 @@ comune e comica, come «Wapping Old Stairs» e «Sally in Our Alley». Se
 
 è patriottica, deve in qualche modo essere apertamente ampollosa e, per così dire,
 
-indifendibile, come «Rule Britannia» o come quel superbo [[Song|canto]] (non ne
+indifendibile, come «Rule Britannia» o come quel superbo canto (non ne
 
 seppi mai il nome, se ne ha uno) che registra il numero di leghe da
 
-Ushant alle isole Scilly. Vi è anche una tenera [[Love|amore]]-[[Lyric|lirica]] intitolata «O
+Ushant alle isole Scilly. Vi è anche una tenera [[motifs/love|amore]]-[[forms/lyric|lirica]] intitolata «O
 
 Tarry Trousers», che è persino più inglese del cuore del _Sogno di una
 
-[[Night|notte]] di mezza estate_. Ma i nostri più grandi bardi e saggi hanno spesso
+[[motifs/night|notte]] di mezza estate_. Ma i nostri più grandi bardi e saggi hanno spesso
 
 mostrato una tendenza a declamarlo e a ruggirlo come veri marinai britannici; a
 
@@ -7588,7 +7588,7 @@ o un serio crollo: si sente che il poeta è offeso da un sorriso. Ma
 
 Shakespeare sembra piuttosto fiero di dire sciocchezze: non riesco mai a leggere
 
-quella eccitante e crescente descrizione della [[Storm|tempesta]], quando giunge a—
+quella eccitante e crescente descrizione della [[motifs/storm|tempesta]], quando giunge a—
 
 «che afferrano per la cima i flutti ribaldi,
 
@@ -7606,17 +7606,17 @@ spirito nazionale generale, che ora dobbiamo seguire attraverso un breve
 
 e curioso ma assai nazionale episodio.
 
-Tre anni prima che la giovane [[Queen|regina]] fosse incoronata, William Cobbett fu
+Tre anni prima che la giovane [[characters/queen|regina]] fosse incoronata, William Cobbett fu
 
 sepolto a Farnham. Può sembrare strano cominciare con questo grande
 
-nome trascurato, anziché con la vecchiaia di Wordsworth o la giovane [[Death|morte]]
+nome trascurato, anziché con la vecchiaia di Wordsworth o la giovane [[motifs/death|morte]]
 
 di Shelley. Ma a chiunque senta la letteratura come umana, la vuota
 
 sedia di Cobbett è più solenne e significativa del trono. Con
 
-lui morì quella sorta di [[Democracy|democrazia]] che era un ritorno alla [[Nature|Natura]], e che
+lui morì quella sorta di [[concepts/democracy|democrazia]] che era un ritorno alla [[concepts/nature|Natura]], e che
 
 solo i poeti e le folle possono comprendere. Dopo di lui il Radicalismo è urbano — e
 
@@ -7628,40 +7628,40 @@ chiamato Birmingham come la chiamava Cobbett — un antro infernale. Cobbett era
 
 con i Liberali successivi nell'ideale dell'Uomo sotto una legge uguale, cittadino di
 
-nessuna vile [[City|città]]. Differiva dai Liberali successivi nell'affermare con forza che
+nessuna vile [[motifs/city|città]]. Differiva dai Liberali successivi nell'affermare con forza che
 
 Liverpool e Leeds sono città vili.
 
 Non è un ozioso ibernianismo dire che verso la fine del diciottesimo
 
-secolo l'evento più importante della [[history|storia]] inglese accadde in Francia.
+secolo l'evento più importante della [[concepts/history|storia]] inglese accadde in Francia.
 
 Sembrerebbe ancora più perverso, eppure sarebbe ancora più preciso,
 
-dire che l'evento più importante della [[history|storia]] inglese fu l'evento
+dire che l'evento più importante della [[concepts/history|storia]] inglese fu l'evento
 
 che non accadde mai affatto — la Rivoluzione inglese sul modello della
 
-[[French Revolution|Rivoluzione francese]]. Il suo fallimento non fu dovuto a mancanza di fervore o
+[[historical-references/french-revolution|Rivoluzione francese]]. Il suo fallimento non fu dovuto a mancanza di fervore o
 
-perfino di ferocia in coloro che l'avrebbero attuata: dal [[Time|tempo]]
+perfino di ferocia in coloro che l'avrebbero attuata: dal [[motifs/time|tempo]]
 
 
 
 <span class="atom-split" data-atom="chapter_01--part_02" data-title="Victorian Age — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/dreams,motif/fire,motif/garden,motif/lamb,motif/love,motif/nature,motif/time,motif/well,concept/democracy,concept/imagination,concept/individualism,concept/nature,histref/french_revolution,setting/germany,setting/paris"></span>
 
 
-when the first shout went up for Wilkes to the [[Time|time]] when the last
+when the first shout went up for Wilkes to the [[motifs/time|time]] when the last
 
 Luddite fires were quenched in a cold rain of rationalism, the spirit of
 
-Cobbett, of rural republicanism, of English and patriotic [[Democracy|democracy]],
+Cobbett, of rural republicanism, of English and patriotic [[concepts/democracy|democracy]],
 
 burned like a beacon. The revolution failed because it was foiled by
 
 another revolution; an aristocratic revolution, a victory of the rich
 
-over the poor. It was about this [[Time|time]] that the common lands were finally
+over the poor. It was about this [[motifs/time|time]] that the common lands were finally
 
 enclosed; that the more cruel game laws were first established; that
 
@@ -7691,7 +7691,7 @@ English are practical and the French merely visionary, that we were
 
 rebels in arts while they were rebels in arms.
 
-It has been [[Well|well]] and wittily said (as illustrating the mildness of
+It has been [[motifs/well|well]] and wittily said (as illustrating the mildness of
 
 English and the violence of French developments) that the same Gospel of
 
@@ -7709,7 +7709,7 @@ emancipation which in France produced the pictures of David, in England
 
 produced the pictures of Blake. There never were, I think, men who gave
 
-to the [[Imagination|imagination]] so much of the sense of having broken out into the
+to the [[concepts/imagination|imagination]] so much of the sense of having broken out into the
 
 very borderlands of being, as did the great English poets of the
 
@@ -7725,7 +7725,7 @@ quite as incapable of such imaginative independence as Keats and
 
 Coleridge would have been incapable of winning the battle of Wattignies.
 
-In [[Paris]] the tree of liberty was a [[Garden|garden]] tree, clipped very correctly;
+In [[settings/paris|Paris]] the tree of liberty was a [[motifs/garden|garden]] tree, clipped very correctly;
 
 and Robespierre used the razor more regularly than the guillotine.
 
@@ -7733,7 +7733,7 @@ Danton, who knew and admired English literature, would have cursed
 
 freely over _Kubla Khan_; and if the Committee of Public Safety had not
 
-already executed Shelley as an [[aristocrat]], they would certainly have
+already executed Shelley as an aristocrat, they would certainly have
 
 locked him up for a madman. Even Hébert (the one really vile
 
@@ -7745,11 +7745,11 @@ rather the Goddess of Unreason that they set up to be worshipped.
 
 Verbally considered, Carlyle's _French Revolution_ was more
 
-revolutionary than the real [[French Revolution]]: and if Carrier, in an
+revolutionary than the real [[historical-references/french-revolution|French Revolution]]: and if Carrier, in an
 
 exaggerative phrase, empurpled the Loire with carnage, Turner almost
 
-literally set the Thames on [[Fire|fire]].
+literally set the Thames on [[motifs/fire|fire]].
 
 This trend of the English Romantics to carry out the revolutionary idea
 
@@ -7761,7 +7761,7 @@ literature after the Revolution with a sort of bent towards independence
 
 and eccentricity, which in the brighter wits became individuality, and
 
-in the duller ones, [[Individualism]]. English Romantics, English Liberals,
+in the duller ones, [[concepts/individualism|Individualism]]. English Romantics, English Liberals,
 
 were not public men making a republic, but poets, each seeing a vision.
 
@@ -7775,11 +7775,11 @@ from that twist a certain odd separation and privacy. England became
 
 much more of an island than she had ever been before. There fell from
 
-her about this [[Time|time]], not only the understanding of France or [[Germany]],
+her about this [[motifs/time|time]], not only the understanding of France or [[settings/germany|Germany]],
 
 but to her own long and yet lingering disaster, the understanding of
 
-Ireland. She had not joined in the attempt to create European [[Democracy|democracy]];
+Ireland. She had not joined in the attempt to create European [[concepts/democracy|democracy]];
 
 nor did she, save in the first glow of Waterloo, join in the
 
@@ -7787,25 +7787,25 @@ counter-attempt to destroy it. The life in her literature was still, to
 
 a large extent, the romantic liberalism of Rousseau, the free and humane
 
-truisms that had refreshed the other nations, the return to [[Nature]] and
+truisms that had refreshed the other nations, the return to [[concepts/nature|Nature]] and
 
 to natural rights. But that which in Rousseau was a creed, became in
 
-Hazlitt a taste and in [[Lamb]] little more than a whim. These latter and
+Hazlitt a taste and in [[motifs/lamb|Lamb]] little more than a whim. These latter and
 
 their like form a group at the beginning of the nineteenth century of
 
 those we may call the Eccentrics: they gather round Coleridge and his
 
-decaying [[Dreams|dreams]] or linger in the tracks of Keats and Shelley and Godwin;
+decaying [[motifs/dreams|dreams]] or linger in the tracks of Keats and Shelley and Godwin;
 
-[[Lamb]] with his bibliomania and creed of pure caprice, the most unique of
+[[motifs/lamb|Lamb]] with his bibliomania and creed of pure caprice, the most unique of
 
 all geniuses; Leigh Hunt with his Bohemian impecuniosity; Landor with
 
 his tempestuous temper, throwing plates on the floor; Hazlitt with his
 
-bitterness and his low [[Love|love]] affair; even that healthier and happier
+bitterness and his low [[motifs/love|love]] affair; even that healthier and happier
 
 Bohemian, Peacock. With these, in one sense at least, goes De Quincey.
 
@@ -7817,22 +7817,22 @@ in letters by the virile laughter and leisure of Wilson's _Noctes
 
 Ambrosianæ_. But he had nothing in common with that environment. It
 
-remained for some [[Time|time]] as a Tory tradition, which balanced the cold and
+remained for some [[motifs/time|time]] as a Tory tradition, which balanced the cold and
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-da quando il primo grido si levò per Wilkes fino al [[Time|tempo]] in cui gli ultimi
+da quando il primo grido si levò per Wilkes fino al [[motifs/time|tempo]] in cui gli ultimi
 
 fuochi luddisti furono spenti in una fredda pioggia di razionalismo, lo spirito di
 
-Cobbett, del repubblicanesimo rurale, dell'inglese e patriottica [[Democracy|democrazia]],
+Cobbett, del repubblicanesimo rurale, dell'inglese e patriottica [[concepts/democracy|democrazia]],
 
 arse come un faro. La rivoluzione fallì perché fu sventata da
 
 un'altra rivoluzione; una rivoluzione aristocratica, una vittoria dei ricchi
 
-sui poveri. Fu press'a poco in questo [[Time|tempo]] che le terre comuni furono infine
+sui poveri. Fu press'a poco in questo [[motifs/time|tempo]] che le terre comuni furono infine
 
 recintate; che le più crudeli leggi sulla caccia furono per la prima volta istituite; che
 
@@ -7862,7 +7862,7 @@ inglesi siano pratici e i francesi meri visionari, che noi fossimo
 
 ribelli nelle arti mentre essi erano ribelli nelle armi.
 
-È stato [[Well|ben]] detto e con arguzia (a illustrare la mitezza degli
+È stato [[motifs/well|ben]] detto e con arguzia (a illustrare la mitezza degli
 
 sviluppi inglesi e la violenza di quelli francesi) che lo stesso Vangelo di
 
@@ -7880,7 +7880,7 @@ che in Francia produsse i dipinti di David, in Inghilterra
 
 produsse i dipinti di Blake. Non vi furono mai, io credo, uomini che diedero
 
-all'[[Imagination|immaginazione]] tanto senso di essere irrotti nelle
+all'[[concepts/imagination|immaginazione]] tanto senso di essere irrotti nelle
 
 estreme terre di confine dell'essere, quanto i grandi poeti inglesi del
 
@@ -7896,7 +7896,7 @@ incapaci di tale indipendenza immaginativa quanto Keats e
 
 Coleridge sarebbero stati incapaci di vincere la battaglia di Wattignies.
 
-A [[Paris|Parigi]] l'albero della libertà era un albero da [[Garden|giardino]], potato assai correttamente;
+A [[settings/paris|Parigi]] l'albero della libertà era un albero da [[motifs/garden|giardino]], potato assai correttamente;
 
 e Robespierre usò il rasoio più regolarmente della ghigliottina.
 
@@ -7904,7 +7904,7 @@ Danton, che conosceva e ammirava la letteratura inglese, avrebbe imprecato
 
 liberamente contro _Kubla Khan_; e se il Comitato di Salute Pubblica non avesse
 
-già giustiziato Shelley come [[aristocrat|aristocratico]], di certo l'avrebbe
+già giustiziato Shelley come aristocratico, di certo l'avrebbe
 
 rinchiuso come pazzo. Perfino Hébert (l'unico Rivoluzionario davvero
 
@@ -7916,11 +7916,11 @@ piuttosto la Dea dell'Irragionevolezza quella che essi erigevano ad oggetto d'ad
 
 Considerata sul piano verbale, la _Rivoluzione francese_ di Carlyle era più
 
-rivoluzionaria della vera [[French Revolution|Rivoluzione francese]]: e se Carrier, con una
+rivoluzionaria della vera [[historical-references/french-revolution|Rivoluzione francese]]: e se Carrier, con una
 
 frase esagerata, imporporò la Loira di carneficina, Turner quasi
 
-letteralmente diede fuoco al Tamigi ([[Fire|fuoco]]).
+letteralmente diede fuoco al Tamigi ([[motifs/fire|fuoco]]).
 
 Questa tendenza dei Romantici inglesi ad attuare l'idea rivoluzionaria
 
@@ -7932,7 +7932,7 @@ inglese dopo la Rivoluzione con una sorta di inclinazione all'indipendenza
 
 e all'eccentricità, che negli ingegni più brillanti divenne individualità, e
 
-in quelli più ottusi, [[Individualism|individualismo]]. I Romantici inglesi, i Liberali inglesi,
+in quelli più ottusi, [[concepts/individualism|individualismo]]. I Romantici inglesi, i Liberali inglesi,
 
 non erano uomini pubblici che facevano una repubblica, ma poeti, ciascuno che vedeva una visione.
 
@@ -7946,11 +7946,11 @@ da quella torsione una certa strana separatezza e riservatezza. L'Inghilterra di
 
 molto più un'isola di quanto fosse mai stata prima. Le venne meno
 
-verso questo [[Time|tempo]] non solo la comprensione della Francia o della [[Germany|Germania]],
+verso questo [[motifs/time|tempo]] non solo la comprensione della Francia o della [[settings/germany|Germania]],
 
 ma, a sua lunga e ancor perdurante rovina, la comprensione
 
-dell'Irlanda. Non aveva preso parte al tentativo di creare una [[Democracy|democrazia]] europea;
+dell'Irlanda. Non aveva preso parte al tentativo di creare una [[concepts/democracy|democrazia]] europea;
 
 né prese parte, salvo nel primo bagliore di Waterloo, al
 
@@ -7958,25 +7958,25 @@ contro-tentativo di distruggerla. La vita nella sua letteratura era ancora, in
 
 larga misura, il liberalismo romantico di Rousseau, i liberi e umani
 
-luoghi comuni che avevano ristorato le altre nazioni, il ritorno alla [[Nature|Natura]] e
+luoghi comuni che avevano ristorato le altre nazioni, il ritorno alla [[concepts/nature|Natura]] e
 
 ai diritti naturali. Ma ciò che in Rousseau era un credo, divenne in
 
-Hazlitt un gusto e in [[Lamb]] poco più di un capriccio. Questi ultimi e
+Hazlitt un gusto e in [[motifs/lamb|Lamb]] poco più di un capriccio. Questi ultimi e
 
 i loro simili formano un gruppo, all'inizio del diciannovesimo secolo, di
 
 coloro che possiamo chiamare gli Eccentrici: si raccolgono intorno a Coleridge e ai suoi
 
-[[Dreams|sogni]] in decadenza, o indugiano sulle tracce di Keats e Shelley e Godwin;
+[[motifs/dreams|sogni]] in decadenza, o indugiano sulle tracce di Keats e Shelley e Godwin;
 
-[[Lamb]] con la sua bibliomania e il suo credo di puro capriccio, il più unico di
+[[motifs/lamb|Lamb]] con la sua bibliomania e il suo credo di puro capriccio, il più unico di
 
 tutti i geni; Leigh Hunt con la sua bohémienne impecuniosità; Landor con
 
 il suo temperamento tempestoso, che scagliava piatti sul pavimento; Hazlitt con la sua
 
-amarezza e la sua meschina relazione d'[[Love|amore]]; perfino quel più sano e più felice
+amarezza e la sua meschina relazione d'[[motifs/love|amore]]; perfino quel più sano e più felice
 
 bohémien, Peacock. Con costoro, in un senso almeno, va De Quincey.
 
@@ -7988,7 +7988,7 @@ nelle lettere dal viril riso e dall'ozio delle _Noctes
 
 Ambrosianæ_ di Wilson. Ma nulla aveva in comune con quell'ambiente. Esso
 
-rimase per qualche [[Time|tempo]] come una tradizione tory, che bilanciava il freddo e
+rimase per qualche [[motifs/time|tempo]] come una tradizione tory, che bilanciava il freddo e
 
 
 
@@ -8001,7 +8001,7 @@ the sense that insularity was independence; the sense that anomalies are
 
 as jolly as family jokes; the general sense that old salts are the salt
 
-of the earth. It still lives in some old [[songs]] about Nelson or Waterloo,
+of the earth. It still lives in some old songs about Nelson or Waterloo,
 
 which are vastly more pompous and vastly more sincere than the cockney
 
@@ -8021,15 +8021,15 @@ and perspectives of prose, which permit one to call him the first and
 
 most powerful of the decadents: those sentences that lengthen out like
 
-[[nightmare]] corridors, or rise higher and higher like impossible eastern
+nightmare corridors, or rise higher and higher like impossible eastern
 
 pagodas. He was a morbid fellow, and far less moral than Burns; for when
 
 Burns confessed excess he did not defend it. But he has cast a gigantic
 
-[[Shadow|shadow]] on our literature, and was as certainly a genius as Poe. Also he
+[[archetypes/shadow|shadow]] on our literature, and was as certainly a genius as Poe. Also he
 
-had [[Humour|humour]], which Poe had not. And if any one still smarting from the
+had humour, which Poe had not. And if any one still smarting from the
 
 pinpricks of Wilde or Whistler, wants to convict them of plagiarism in
 
@@ -8043,9 +8043,9 @@ under Victoria; he knew most of the members of it, yet he did not belong
 
 to it in any corporate sense. He was a poor man and an invalid, with
 
-Scotch [[Blood|blood]] and a strong, though perhaps only inherited, quarrel with
+Scotch [[motifs/blood|blood]] and a strong, though perhaps only inherited, quarrel with
 
-the old Calvinism; by name Thomas Hood. [[Poverty]] and illness forced him
+the old Calvinism; by name Thomas Hood. [[concepts/poverty|Poverty]] and illness forced him
 
 to the toils of an incessant jester; and the revolt against gloomy
 
@@ -8061,7 +8061,7 @@ but the best of them were a strong and fresh form of art. The pun is
 
 said to be a thing of two meanings; but with Hood there were three
 
-meanings, for there was also the abstract [[Truth|truth]] that would have been
+meanings, for there was also the abstract [[concepts/truth|truth]] that would have been
 
 there with no pun at all. The pun of Hood is underrated, like the "wit"
 
@@ -8069,25 +8069,25 @@ of Voltaire, by those who forget that the words of Voltaire were not
 
 pins, but swords. In Hood at his best the verbal neatness only gives to
 
-the [[Satire|satire]] or the scorn a ring of finality such as is given by rhyme.
+the [[forms/satire|satire]] or the scorn a ring of finality such as is given by rhyme.
 
 For rhyme does go with reason, since the aim of both is to bring things
 
 to an end. The tragic necessity of puns tautened and hardened Hood's
 
-genius; so that there is always a sort of [[Shadow|shadow]] of that sharpness
+genius; so that there is always a sort of [[archetypes/shadow|shadow]] of that sharpness
 
-across all his serious [[Poems|poems]], falling like the [[Shadow|shadow]] of a [[Sword|sword]].
+across all his serious poems, falling like the [[archetypes/shadow|shadow]] of a sword.
 
-"Sewing at once with a [[Double|double]] thread a shroud as [[Well|well]] as a shirt"--"We
+"Sewing at once with a [[topoi/double|double]] thread a shroud as [[motifs/well|well]] as a shirt"--"We
 
 thought her dying when she slept, and sleeping when she died"--"Oh God,
 
-that bread should be so dear and flesh and [[Blood|blood]] so cheap"--none can
+that bread should be so dear and flesh and [[motifs/blood|blood]] so cheap"--none can
 
 fail to note in these a certain fighting discipline of phrase, a
 
-compactness and point which was [[Well|well]] trained in lines like "A
+compactness and point which was [[motifs/well|well]] trained in lines like "A
 
 cannon-ball took off his legs, so he laid down his arms." In France he
 
@@ -8109,7 +8109,7 @@ were naturally the wits that led the world. But it affected England also
 
 negatively and by reaction; for it associated such men as Byron with
 
-superiority, but not with [[success]]. The English middle classes were led
+superiority, but not with success. The English middle classes were led
 
 to distrust poetry almost as much as they admired it. They could not
 
@@ -8127,13 +8127,13 @@ because there had been about these great poets a young and splendid
 
 sterility; since the pantheist Shelley was in fact washed under by the
 
-wave of the world, or Byron sank in [[Death|death]] as he drew the [[Sword|sword]] for
+wave of the world, or Byron sank in [[motifs/death|death]] as he drew the sword for
 
 Hellas.
 
-The chief turn of nineteenth-century England was taken about the [[Time|time]]
+The chief turn of nineteenth-century England was taken about the [[motifs/time|time]]
 
-when a footman at Holland [[house|House]] opened a door and announced "Mr.
+when a footman at Holland House opened a door and announced "Mr.
 
 Macaulay." Macaulay's literary popularity was representative and it was
 
@@ -8155,7 +8155,7 @@ and generation), lifted him into a sphere which was utterly opposite to
 
 that from which he came. This Whig world was exclusive; but it was not
 
-narrow. It was very difficult for an [[Outsider|outsider]] to get into it; but if he
+narrow. It was very difficult for an [[archetypes/outsider|outsider]] to get into it; but if he
 
 did get into it he was in a much freer atmosphere than any other in
 
@@ -8170,13 +8170,13 @@ L'aristocrazia brillante dei Whig: viveva sulla leggenda di Trafalgar;
 
 La sensazione che l'isolamento fosse indipendenza; la sensazione che le anomalie siano...
 
-# allegri come le barzellette di famiglia; la sensazione generale che i vecchi marinai siano il sale della terra
+allegri come le barzellette di famiglia; la sensazione generale che i vecchi marinai siano il sale della terra
 
-della terra. Vive ancora in alcune vecchie [[songs|canzoni]] su Nelson o Waterloo,
+della terra. Vive ancora in alcune vecchie canzoni su Nelson o Waterloo,
 
 che sono molto più pomposi e molto più sinceri del cockney
 
-# La sicumera delle ultime canzoni jingoistiche. Ma è difficile collegarla a De Quincey
+La sicumera delle ultime canzoni jingoistiche. Ma è difficile collegarla a De Quincey
 
 Con esso; o, per la verità, con qualsiasi altra cosa. Anche De Quincey lo avrebbe sicuramente...
 
@@ -8184,7 +8184,7 @@ Sarei stato un uomo più felice e quasi certamente migliore se fossi riuscito
 
 Ubriachi di toddy con Wilson, invece di diventare calmi e lucidi (come lui
 
-# Descrive se stesso sull'oppio e senza compagnia se non un libro di tedesco
+Descrive se stesso sull'oppio e senza compagnia se non un libro di tedesco
 
 Metafisica. Ma difficilmente avrebbe rivelato quelle meravigliose vedute
 
@@ -8192,15 +8192,15 @@ e prospettive della prosa che gli permettono di essere chiamato il primo e
 
 I più potenti tra i decadenti: quelle frasi che si allungano come...
 
-corridoi da [[nightmare|incubo]], o si innalzano sempre più in alto come impossibili orientali
+corridoi da incubo, o si innalzano sempre più in alto come impossibili orientali
 
 Pagode. Era un tipo morboso e molto meno morale di Burns; infatti, quando
 
-# Burns confessò l'eccesso ma non lo difese. Eppure ha gettato un'ombra gigantesca
+Burns confessò l'eccesso ma non lo difese. Eppure ha gettato un'ombra gigantesca
 
-La [[Shadow|ombra]] sulla nostra letteratura era certamente un genio come Poe. Anche lui
+La [[archetypes/shadow|ombra]] sulla nostra letteratura era certamente un genio come Poe. Anche lui
 
-aveva l'[[Humour|umorismo]], che Poe non aveva. E se qualcuno ancora risentito per il
+aveva l'umorismo, che Poe non aveva. E se qualcuno ancora risentito per il
 
 Punture di spillo di Wilde o Whistler, vuole condannarli per plagio
 
@@ -8214,47 +8214,47 @@ Sotto Vittoria: conosceva la maggior parte dei membri, ma non ne faceva parte
 
 In senso collettivo. Era un uomo povero e malato, con
 
-[[Blood|sangue]] scozzese e una forte, sebbene forse solo ereditata, contesa con
+[[motifs/blood|sangue]] scozzese e una forte, sebbene forse solo ereditata, contesa con
 
-il vecchio calvinismo; di nome Thomas Hood. La [[Poverty|povertà]] e la malattia lo costrinsero
+il vecchio calvinismo; di nome Thomas Hood. La [[concepts/poverty|povertà]] e la malattia lo costrinsero
 
-# alle fatiche di un buffone instancabile e alla rivolta contro la malinconia
+alle fatiche di un buffone instancabile e alla rivolta contro la malinconia
 
 La religione lo spinse a indirizzare il suo ingegno, ogni volta che poteva, nella direzione di...
 
 Una difesa di vedute più felici e umane. Nell'ampia gamma che
 
-# Includeva Omero e Shakespeare: fu l'ultimo grande uomo che davvero...
+Includeva Omero e Shakespeare: fu l'ultimo grande uomo che davvero...
 
-# utilizzò il gioco di parole. I suoi giochi di parole non erano tutti buoni (né lo erano quelli di Shakespeare)
+utilizzò il gioco di parole. I suoi giochi di parole non erano tutti buoni (né lo erano quelli di Shakespeare)
 
 Ma i migliori erano una forma d'arte forte e fresca. Il gioco di parole è
 
 Si dice che abbia due significati, ma con Hood ce ne sono tre
 
-significati, poiché c'era anche la [[Truth|verità]] astratta che sarebbe stata
+significati, poiché c'era anche la [[concepts/truth|verità]] astratta che sarebbe stata
 
 Là senza alcun gioco di parole. Il gioco di parole di Hood è sottovalutato, come l'ingegno
 
 Di Voltaire, da chi dimentica che le parole di Voltaire non erano
 
-# spilli, ma spade. Nella migliore vena di Hood la precisione verbale non fa che conferire
+spilli, ma spade. Nella migliore vena di Hood la precisione verbale non fa che conferire
 
-la [[Satire|satira]] o il disprezzo un alone di definitività come quello conferito dalla rima.
+la [[forms/satire|satira]] o il disprezzo un alone di definitività come quello conferito dalla rima.
 
 La rima va d'accordo con la ragione, poiché lo scopo di entrambe è riunire le cose
 
 Alla fine: la tragica necessità di giochi di parole ha reso rigido e duro Hood
 
-genio; così che c'è sempre una specie di [[Shadow|ombra]] di quella acutezza
+genio; così che c'è sempre una specie di [[archetypes/shadow|ombra]] di quella acutezza
 
-attraverso tutti i suoi seri [[Poems|poemi]], cadendo come l'[[Shadow|ombra]] di una [[Sword|spada]].
+attraverso tutti i suoi seri poemi, cadendo come l'[[archetypes/shadow|ombra]] di una spada.
 
-"Cucire contemporaneamente con un filo [[Double|doppio]] una veste funebre e una camicia" — "Noi
+"Cucire contemporaneamente con un filo [[topoi/double|doppio]] una veste funebre e una camicia" — "Noi
 
 Pensava che stesse morendo quando dormiva e dormisse quando morì» - «Oh Dio,
 
-che il pane sia così caro e la carne e il [[Blood|sangue]] così a buon mercato» - nessuno può
+che il pane sia così caro e la carne e il [[motifs/blood|sangue]] così a buon mercato» - nessuno può
 
 Non notare in questi una certa disciplina combattiva di frase, un
 
@@ -8272,15 +8272,15 @@ Gli eccentrici che disturbano l'idea generale della loro generazione
 
 Parte del tramonto dei grandi poeti rivoluzionari. Questo fascino che svanisce
 
-# influenzò l'Inghilterra in modo sentimentale e, fino a un certo punto, snobistico
+influenzò l'Inghilterra in modo sentimentale e, fino a un certo punto, snobistico
 
 Direzione: far sentire gli uomini che i grandi signori con lunghi riccioli e baffi...
 
-# Erano naturalmente gli spiritosi che guidavano il mondo, ma influenzò anche l'Inghilterra
+Erano naturalmente gli spiritosi che guidavano il mondo, ma influenzò anche l'Inghilterra
 
 Negativamente e per reazione; perché associava uomini come Byron con...
 
-superiorità, ma non con [[success|successo]]. Le classi medie inglesi furono condotte
+superiorità, ma non con successo. Le classi medie inglesi furono condotte
 
 Diffidare della poesia quasi quanto la ammiravano. Non potevano
 
@@ -8288,9 +8288,9 @@ Credere che sia la visione da un lato o la violenza dall'altro possano
 
 Siate sempre pratici. Erano sordi al grande avvertimento di Hugo: "Voi
 
-# Dicono che il poeta sia tra le nuvole, ma anche il fulmine lo è. Ideali
+Dicono che il poeta sia tra le nuvole, ma anche il fulmine lo è. Ideali
 
-# si sono esauriti nel vuoto; l'Inghilterra vittoriana, molto imprudentemente,
+si sono esauriti nel vuoto; l'Inghilterra vittoriana, molto imprudentemente,
 
 Non avrebbe più nulla a che fare con gli idealisti in politica. E questo, principalmente,
 
@@ -8298,19 +8298,19 @@ Perché intorno a questi grandi poeti c'era un giovane e splendido...
 
 Sterilità: poiché lo sciacallo panteista fu infine travolto
 
-onda del mondo, o Byron affondò nella [[Death|morte]] mentre sguainava la [[Sword|spada]] per
+onda del mondo, o Byron affondò nella [[motifs/death|morte]] mentre sguainava la spada per
 
 Ellade.
 
-La svolta principale dell'Inghilterra del diciannovesimo secolo avvenne circa all'[[Time|epoca]]
+La svolta principale dell'Inghilterra del diciannovesimo secolo avvenne circa all'[[motifs/time|epoca]]
 
-quando un valletto alla [[house|Holland House]] aprì una porta e annunciò «Mr.
+quando un valletto alla Holland House aprì una porta e annunciò «Mr.
 
-# Macaulay: la sua popolarità letteraria era rappresentativa e lo era
+Macaulay: la sua popolarità letteraria era rappresentativa e lo era
 
-# meritato; ma la sua presenza tra le grandi famiglie whig segna un...
+meritato; ma la sua presenza tra le grandi famiglie whig segna un...
 
-# Epoca. Era figlio di uno dei primi "amici del negro", il cui
+Epoca. Era figlio di uno dei primi "amici del negro", il cui
 
 L'industria onesta e la filantropia furono offuscate da una religione tetra
 
@@ -8318,7 +8318,7 @@ La sicurezza che quasi fa pensare che amassero il negro per...
 
 Colore, e avrebbe distolto lo sguardo da uomini rossi o gialli come inutili
 
-# Gaudioso. Ma il suo spirito e la sua politica (uniti a quel modo di lasciar cadere le cose)
+Gaudioso. Ma il suo spirito e la sua politica (uniti a quel modo di lasciar cadere le cose)
 
 Principi puritani ma conservazione del tono puritano che caratterizzava la sua classe
 
@@ -8326,9 +8326,9 @@ e generazione), lo elevò in una sfera completamente opposta a
 
 Quello da cui proveniva. Questo mondo whig era esclusivo, ma non lo era
 
-stretto. Era molto difficile per un [[Outsider|esterno]] entrarci, ma se ci riusciva
+stretto. Era molto difficile per un [[archetypes/outsider|esterno]] entrarci, ma se ci riusciva
 
-# Entrò in un'atmosfera molto più libera di qualsiasi altra
+Entrò in un'atmosfera molto più libera di qualsiasi altra
 
 L'Inghilterra degli aristocratici, la Vecchia Guardia del XVIII secolo
 
@@ -8349,15 +8349,15 @@ Whigs could choose their upstarts. In that world Macaulay found Rogers,
 
 with his phosphorescent and corpse-like brilliancy; there he found
 
-Sydney [[smith|Smith]], bursting with crackers of common sense, an admirable old
+Sydney Smith, bursting with crackers of common sense, an admirable old
 
 heathen; there he found Tom Moore, the romantic of the Regency, a
 
-shortened [[Shadow|shadow]] of Lord Byron. That he reached this platform and
+shortened [[archetypes/shadow|shadow]] of Lord Byron. That he reached this platform and
 
 remained on it is, I say, typical of a turning-point in the century. For
 
-the fundamental fact of early Victorian [[history]] was this: the decision
+the fundamental fact of early Victorian [[concepts/history|history]] was this: the decision
 
 of the middle classes to employ their new wealth in backing up a sort of
 
@@ -8375,7 +8375,7 @@ These two decisions have made the doubtful England of to-day; and
 
 Macaulay is typical of them; he is the _bourgeois_ in Belgravia. The
 
-alliance is marked by his great speeches for Lord Grey's [[Reform]] Bill: it
+alliance is marked by his great speeches for Lord Grey's [[concepts/reform|Reform]] Bill: it
 
 is marked even more significantly in his speech against the Chartists.
 
@@ -8413,7 +8413,7 @@ improving, along with clocks, pistols or penknives, by the mere
 
 accumulation of experiment and variety. He was, indeed, far too
 
-strong-minded a man to accept the hazy modern notion that the [[Soul|soul]] in
+strong-minded a man to accept the hazy modern notion that the [[motifs/soul|soul]] in
 
 its highest sense can change: he seems to have held that religion can
 
@@ -8421,17 +8421,17 @@ never get any better and that poetry rather tends to get worse. But he
 
 did not see the flaw in his political theory; which is that unless the
 
-[[Soul|soul]] improves with [[Time|time]] there is no guarantee that the accumulations of
+[[motifs/soul|soul]] improves with [[motifs/time|time]] there is no guarantee that the accumulations of
 
 experience will be adequately used. Figures do not add themselves up;
 
-[[Birds|birds]] do not label or stuff themselves; comets do not calculate their
+[[motifs/birds|birds]] do not label or stuff themselves; comets do not calculate their
 
-own courses; these things are done by the [[Soul|soul]] of man. And if the [[Soul|soul]]
+own courses; these things are done by the [[motifs/soul|soul]] of man. And if the [[motifs/soul|soul]]
 
-of man is subject to other laws, is liable to sin, to [[Sleep|sleep]], to
+of man is subject to other laws, is liable to sin, to [[motifs/sleep|sleep]], to
 
-anarchism or to [[suicide]], then all sciences including politics may fall
+anarchism or to [[concepts/suicide|suicide]], then all sciences including politics may fall
 
 as sterile and lie as fallow as before man's reason was made. Macaulay
 
@@ -8445,7 +8445,7 @@ we should get the best butcher whether he was a Baptist or a
 
 Muggletonian, and the best soldier whether he was a Wesleyan or an
 
-Irvingite. The compromise worked [[Well|well]] enough in an England Protestant in
+Irvingite. The compromise worked [[motifs/well|well]] enough in an England Protestant in
 
 bulk; but Macaulay ought to have seen that it has its limitations. A
 
@@ -8467,7 +8467,7 @@ This was the small conscious Macaulay; the great unconscious Macaulay
 
 was very different. His noble enduring quality in our literature is
 
-this: that he truly had an abstract passion for [[history]]; a warm, poetic
+this: that he truly had an abstract passion for [[concepts/history|history]]; a warm, poetic
 
 and sincere enthusiasm for great things as such; an ardour and appetite
 
@@ -8483,13 +8483,13 @@ the pillars of Hercules. As with Walter Scott, some of the best things
 
 in his prose and poetry are the surnames that he did not make. And it is
 
-remarkable to notice that this [[Romance|romance]] of [[history]], so far from making
+remarkable to notice that this romance of [[concepts/history|history]], so far from making
 
 him more partial or untrustworthy, was the only thing that made him
 
 moderately just. His reason was entirely one-sided and fanatical. It
 
-was his [[Imagination|imagination]] that was [[Well|well]]-balanced and broad. He was
+was his [[concepts/imagination|imagination]] that was [[motifs/well|well]]-balanced and broad. He was
 
 monotonously certain that only Whigs were right; but it was necessary
 
@@ -8499,7 +8499,7 @@ worthy of their steel. If there was one thing in the world he hated it
 
 was a High Church Royalist parson; yet when Jeremy Collier the Jacobite
 
-priest raises a real banner, all Macaulay's [[Blood|blood]] warms with the mere
+priest raises a real banner, all Macaulay's [[motifs/blood|blood]] warms with the mere
 
 prospect of a fight. "It is inspiriting to see how gallantly the
 
@@ -8522,15 +8522,15 @@ Whig potevano scegliersi i loro arrivisti. In quel mondo Macaulay trovò Rogers,
 
 con la sua brillantezza fosforescente e cadaverica; là trovò
 
-Sydney [[smith|Smith]], scoppiettante di petardi di buon senso, un ammirevole vecchio
+Sydney Smith, scoppiettante di petardi di buon senso, un ammirevole vecchio
 
 pagano; là trovò Tom Moore, il romantico della Reggenza, un'
 
-accorciata [[Shadow|ombra]] di Lord Byron. Che egli abbia raggiunto questa piattaforma e
+accorciata [[archetypes/shadow|ombra]] di Lord Byron. Che egli abbia raggiunto questa piattaforma e
 
 vi sia rimasto è, io dico, tipico di una svolta del secolo. Poiché
 
-il fatto fondamentale della prima [[history|storia]] vittoriana fu questo: la decisione
+il fatto fondamentale della prima [[concepts/history|storia]] vittoriana fu questo: la decisione
 
 delle classi medie di impiegare la loro nuova ricchezza per sostenere una sorta di
 
@@ -8548,7 +8548,7 @@ Queste due decisioni hanno fatto l'incerta Inghilterra di oggi; e
 
 Macaulay ne è tipico; egli è il _borghese_ a Belgravia. L'
 
-alleanza è segnata dai suoi grandi discorsi per il Bill di [[Reform|Riforma]] di Lord Grey: è
+alleanza è segnata dai suoi grandi discorsi per il Bill di [[concepts/reform|Riforma]] di Lord Grey: è
 
 segnata ancor più significativamente nel suo discorso contro i Cartisti.
 
@@ -8586,7 +8586,7 @@ migliorare, insieme agli orologi, alle pistole o ai temperini, per il mero
 
 accumulo di esperimenti e varietà. Egli era, in verità, uomo di mente troppo
 
-salda per accettare la nebulosa nozione moderna che l'[[Soul|anima]], nel
+salda per accettare la nebulosa nozione moderna che l'[[motifs/soul|anima]], nel
 
 suo senso più alto, possa mutare: sembra aver ritenuto che la religione non possa
 
@@ -8594,17 +8594,17 @@ mai migliorare e che la poesia tenda piuttosto a peggiorare. Ma egli
 
 non vide la crepa nella sua teoria politica; ossia che, a meno che l'
 
-[[Soul|anima]] non migliori col [[Time|tempo]], non v'è garanzia che gli accumuli di
+[[motifs/soul|anima]] non migliori col [[motifs/time|tempo]], non v'è garanzia che gli accumuli di
 
 esperienza saranno adeguatamente usati. Le cifre non si sommano da sole;
 
-gli [[Birds|uccelli]] non si etichettano né si impagliano da sé; le comete non calcolano i
+gli [[motifs/birds|uccelli]] non si etichettano né si impagliano da sé; le comete non calcolano i
 
-propri corsi; queste cose sono fatte dall'[[Soul|anima]] dell'uomo. E se l'[[Soul|anima]]
+propri corsi; queste cose sono fatte dall'[[motifs/soul|anima]] dell'uomo. E se l'[[motifs/soul|anima]]
 
-dell'uomo è soggetta ad altre leggi, è passibile di peccato, di [[Sleep|sonno]], di
+dell'uomo è soggetta ad altre leggi, è passibile di peccato, di [[motifs/sleep|sonno]], di
 
-anarchia o di [[suicide|suicidio]], allora tutte le scienze compresa la politica possono cadere
+anarchia o di [[concepts/suicide|suicidio]], allora tutte le scienze compresa la politica possono cadere
 
 sterili e giacere incolte come prima che la ragione dell'uomo fosse creata. Macaulay
 
@@ -8618,7 +8618,7 @@ dovremmo avere il miglior macellaio, fosse egli un Battista o un
 
 Muggletoniano, e il miglior soldato, fosse egli un Wesleyano o un
 
-Irvingita. Il compromesso funzionava [[Well|abbastanza]] bene in un'Inghilterra protestante nella
+Irvingita. Il compromesso funzionava [[motifs/well|abbastanza]] bene in un'Inghilterra protestante nella
 
 sua massa; ma Macaulay avrebbe dovuto vedere che ha i suoi limiti. Un
 
@@ -8640,7 +8640,7 @@ Questo era il piccolo Macaulay consapevole; il grande Macaulay inconscio
 
 era assai diverso. La sua nobile e duratura qualità nella nostra letteratura è
 
-questa: che egli ebbe davvero una passione astratta per la [[history|storia]]; un caldo, poetico
+questa: che egli ebbe davvero una passione astratta per la [[concepts/history|storia]]; un caldo, poetico
 
 e sincero entusiasmo per le grandi cose in quanto tali; un ardore e un appetito
 
@@ -8656,13 +8656,13 @@ sulle colonne d'Ercole. Come in Walter Scott, alcune delle cose migliori
 
 nella sua prosa e poesia sono i cognomi che egli non inventò. Ed è
 
-notevole osservare che questo [[Romance|romanzesco]] della [[history|storia]], lungi dal renderlo
+notevole osservare che questo romanzesco della [[concepts/history|storia]], lungi dal renderlo
 
 più parziale o inattendibile, fu l'unica cosa che lo rese
 
 moderatamente giusto. La sua ragione era del tutto unilaterale e fanatica. Era
 
-la sua [[Imagination|immaginazione]] a essere [[Well|ben]] equilibrata e ampia. Egli era
+la sua [[concepts/imagination|immaginazione]] a essere [[motifs/well|ben]] equilibrata e ampia. Egli era
 
 monotonamente certo che solo i Whig avessero ragione; ma era necessario
 
@@ -8672,7 +8672,7 @@ degni del loro acciaio. Se v'era una cosa al mondo che egli odiava era
 
 un parroco realista dell'Alta Chiesa; eppure quando Jeremy Collier, il
 
-prete giacobita, leva un vero vessillo, tutto il [[Blood|sangue]] di Macaulay si riscalda al mero
+prete giacobita, leva un vero vessillo, tutto il [[motifs/blood|sangue]] di Macaulay si riscalda al mero
 
 pronostico di una battaglia. «È esaltante vedere con quanto valore il
 
@@ -8701,13 +8701,13 @@ mad; one sees the map of England come alive and march and mix under the
 
 eye.
 
-The chief [[Tragedy|tragedy]] in the trend of later literature may be expressed by
+The chief [[forms/tragedy|tragedy]] in the trend of later literature may be expressed by
 
 saying that the smaller Macaulay conquered the larger. Later men had
 
-less and less of that hot [[Love|love]] of [[history]] he had inherited from Scott.
+less and less of that hot [[motifs/love|love]] of [[concepts/history|history]] he had inherited from Scott.
 
-They had more and more of that cold science of [[Self|self]]-interests which he
+They had more and more of that cold science of [[concepts/self|self]]-interests which he
 
 had learnt from Bentham.
 
@@ -8717,7 +8717,7 @@ Victorian, is, like the name of Cobbett, very important to it. In
 
 substance Macaulay accepted the conclusions of Bentham; though he
 
-offered brilliant objections to all his arguments. In any case the [[Soul|soul]]
+offered brilliant objections to all his arguments. In any case the [[motifs/soul|soul]]
 
 of Bentham (if he had one) went marching on, like John Brown; and in the
 
@@ -8729,7 +8729,7 @@ and pure; but that is the business of a flower. Though he had to preach
 
 a hard rationalism in religion, a hard competition in economics, a hard
 
-egoism in ethics, his own [[Soul|soul]] had all that silvery sensitiveness that
+egoism in ethics, his own [[motifs/soul|soul]] had all that silvery sensitiveness that
 
 can be seen in his fine portrait by Watts. He boasted none of that
 
@@ -8769,11 +8769,11 @@ sense is moonshine. Thus Wordsworth shrank back into Toryism, as it
 
 were, from a Shelleyan extreme of pantheism as yet disembodied. Thus
 
-Newman took down the iron [[Sword|sword]] of dogma to parry a blow not yet
+Newman took down the iron sword of dogma to parry a blow not yet
 
 delivered, that was coming from the club of Darwin. For this reason no
 
-one can understand tradition, or even [[history]], who has not some
+one can understand tradition, or even [[concepts/history|history]], who has not some
 
 tenderness for anachronism.
 
@@ -8781,7 +8781,7 @@ Now for the great part of the Victorian era the utilitarian tradition
 
 which reached its highest in Mill held the centre of the field; it was
 
-the [[philosophy]] in office, so to speak. It sustained its march of
+the philosophy in office, so to speak. It sustained its march of
 
 codification and inquiry until it had made possible the great victories
 
@@ -8793,7 +8793,7 @@ much in common. They were both square-jawed, simple men, greedy of
 
 controversy but scornful of sophistry, dead to mysticism but very much
 
-alive to [[morality]]; and they were both very much more under the influence
+alive to morality; and they were both very much more under the influence
 
 of their own admirable rhetoric than they knew. Huxley, especially, was
 
@@ -8801,9 +8801,9 @@ much more a literary than a scientific man. It is amusing to note that
 
 when Huxley was charged with being rhetorical, he expressed his horror
 
-of "plastering the fair face of [[Truth|truth]] with that pestilent cosmetic,
+of "plastering the fair face of [[concepts/truth|truth]] with that pestilent cosmetic,
 
-rhetoric," which is itself about as [[Well|well]]-plastered a piece of rhetoric
+rhetoric," which is itself about as [[motifs/well|well]]-plastered a piece of rhetoric
 
 as Ruskin himself could have managed. The difference that the period had
 
@@ -8825,13 +8825,13 @@ certain sense _was_ the Victorian era, it was assailed on many sides,
 
 and had been assailed even before the beginning of that era. The rest of
 
-the intellectual [[history]] of the [[Time|time]] is a series of reactions against
+the intellectual [[concepts/history|history]] of the [[motifs/time|time]] is a series of reactions against
 
 it, which come wave after wave. They have succeeded in shaking it, but
 
 not in dislodging it from the modern mind. The first of these was the
 
-[[Oxford]] Movement; a bow that broke when it had let loose the flashing
+[[settings/oxford|Oxford]] Movement; a bow that broke when it had let loose the flashing
 
 arrow that was Newman. The second reaction was one man; without teachers
 
@@ -8845,7 +8845,7 @@ also was at once romantic and Puritan; but he belonged to no group, and
 
 worked against materialism in a manner entirely his own. Though as a boy
 
-he bought eagerly Shelley's revolutionary [[Poems|poems]], he did not think of
+he bought eagerly Shelley's revolutionary poems, he did not think of
 
 becoming a revolutionary poet. He concentrated on the special souls of
 
@@ -8857,7 +8857,7 @@ the Victorian poets. From Ruskin, again, descend those who may be called
 
 the Pre-Raphaelites of prose and poetry.
 
-It is really with this rationalism triumphant, and with the [[Romance|romance]] of
+It is really with this rationalism triumphant, and with the romance of
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -8876,13 +8876,13 @@ si vede la mappa dell'Inghilterra prendere vita e marciare e mescolarsi sotto l'
 
 occhio.
 
-La principale [[Tragedy|tragedia]] nell'evoluzione della letteratura più tarda può esprimersi
+La principale [[forms/tragedy|tragedia]] nell'evoluzione della letteratura più tarda può esprimersi
 
 dicendo che il Macaulay minore vinse il maggiore. Gli uomini più tardi ebbero
 
-sempre meno di quel caldo [[Love|amore]] della [[history|storia]] che egli aveva ereditato da Scott.
+sempre meno di quel caldo [[motifs/love|amore]] della [[concepts/history|storia]] che egli aveva ereditato da Scott.
 
-Ebbero sempre più di quella fredda scienza dell'interesse di [[Self|sé]] che egli
+Ebbero sempre più di quella fredda scienza dell'interesse di [[concepts/self|sé]] che egli
 
 aveva appreso da Bentham.
 
@@ -8892,7 +8892,7 @@ vittoriano, è, come il nome di Cobbett, assai importante per esso. In
 
 sostanza Macaulay accettò le conclusioni di Bentham; benché
 
-offrisse brillanti obiezioni a tutti i suoi argomenti. In ogni caso l'[[Soul|anima]]
+offrisse brillanti obiezioni a tutti i suoi argomenti. In ogni caso l'[[motifs/soul|anima]]
 
 di Bentham (se ne aveva una) continuò a marciare, come John Brown; e nel
 
@@ -8904,7 +8904,7 @@ e puro; ma questo è il compito di un fiore. Benché dovesse predicare
 
 un duro razionalismo in religione, una dura competizione in economia, un duro
 
-egoismo in etica, la sua stessa [[Soul|anima]] aveva tutta quella argentea sensibilità che
+egoismo in etica, la sua stessa [[motifs/soul|anima]] aveva tutta quella argentea sensibilità che
 
 si può vedere nel suo bel ritratto di Watts. Egli non vantava nulla di quel
 
@@ -8944,11 +8944,11 @@ senso è chiaro di luna. Così Wordsworth si ritrasse nel Torismo, per così
 
 dire, da un estremo shelleyano di panteismo ancora disincarnato. Così
 
-Newman calò la ferrea [[Sword|spada]] del dogma per parare un colpo non ancora
+Newman calò la ferrea spada del dogma per parare un colpo non ancora
 
 vibrato, che veniva dalla clava di Darwin. Per questa ragione nessuno
 
-può comprendere la tradizione, e neppure la [[history|storia]], se non ha qualche
+può comprendere la tradizione, e neppure la [[concepts/history|storia]], se non ha qualche
 
 tenerezza per l'anacronismo.
 
@@ -8956,7 +8956,7 @@ Ora, per gran parte dell'era vittoriana la tradizione utilitaristica
 
 che raggiunse il suo apice in Mill tenne il centro del campo; era
 
-la [[philosophy|filosofia]] al governo, per così dire. Sostenne la sua marcia di
+la filosofia al governo, per così dire. Sostenne la sua marcia di
 
 codificazione e indagine finché non ebbe reso possibili le grandi vittorie
 
@@ -8968,7 +8968,7 @@ molto in comune. Erano entrambi uomini dalla mascella squadrata, semplici, avidi
 
 controversia ma sprezzanti del sofisma, morti al misticismo ma assai
 
-vivi alla [[morality|moralità]]; ed erano entrambi assai più sotto l'influenza
+vivi alla moralità; ed erano entrambi assai più sotto l'influenza
 
 della propria ammirevole retorica di quanto sapessero. Huxley, specialmente, era
 
@@ -8976,9 +8976,9 @@ assai più un uomo di lettere che di scienza. È divertente notare che
 
 quando Huxley fu accusato di essere retorico, egli espresse il proprio orrore
 
-del «impiastricciare il bel volto della [[Truth|verità]] con quel pestilenziale cosmetico,
+del «impiastricciare il bel volto della [[concepts/truth|verità]] con quel pestilenziale cosmetico,
 
-la retorica», che è di per sé un pezzo di retorica altrettanto [[Well|ben]] impiastricciato
+la retorica», che è di per sé un pezzo di retorica altrettanto [[motifs/well|ben]] impiastricciato
 
 di quanto lo stesso Ruskin avrebbe saputo confezionare. La differenza che il periodo aveva
 
@@ -9000,13 +9000,13 @@ certo senso _fosse_ l'era vittoriana, esso fu assalito da molti lati,
 
 ed era stato assalito perfino prima dell'inizio di quell'era. Il resto della
 
-[[history|storia]] intellettuale del [[Time|tempo]] è una serie di reazioni contro
+[[concepts/history|storia]] intellettuale del [[motifs/time|tempo]] è una serie di reazioni contro
 
 di esso, che vengono ondata dopo ondata. Sono riuscite a scuoterlo, ma
 
 non a scalzarlo dalla mente moderna. La prima di queste fu il
 
-Movimento di [[Oxford]]; un arco che si spezzò quando ebbe scoccato la folgorante
+Movimento di [[settings/oxford|Oxford]]; un arco che si spezzò quando ebbe scoccato la folgorante
 
 freccia che fu Newman. La seconda reazione fu un uomo solo; senza maestri
 
@@ -9020,7 +9020,7 @@ fu anch'egli a un tempo romantico e Puritano; ma non apparteneva ad alcun gruppo
 
 operò contro il materialismo in una maniera tutta sua. Benché da ragazzo
 
-comprasse avidamente le rivoluzionarie [[Poems|poesie]] di Shelley, non pensò di
+comprasse avidamente le rivoluzionarie poesie di Shelley, non pensò di
 
 diventare un poeta rivoluzionario. Si concentrò sulle anime particolari degli
 
@@ -9032,7 +9032,7 @@ poeti vittoriani. Da Ruskin, di nuovo, discendono coloro che possono chiamarsi
 
 i Preraffaelliti della prosa e della poesia.
 
-È davvero con questo razionalismo trionfante, e con il [[Romance|romanzesco]] di
+È davvero con questo razionalismo trionfante, e con il romanzesco di
 
 
 
@@ -9041,17 +9041,17 @@ i Preraffaelliti della prosa e della poesia.
 
 these various attacks on it, that the study of Victorian literature
 
-begins and proceeds. Bentham was already the [[Prophet|prophet]] of a powerful sect;
+begins and proceeds. Bentham was already the [[archetypes/prophet|prophet]] of a powerful sect;
 
 Macaulay was already the historian of an historic party, before the true
 
 Victorian epoch began. The middle classes were emerging in a state of
 
-damaged [[Puritanism]]. The upper classes were utterly pagan. Their clear
+damaged [[historical-references/puritanism|Puritanism]]. The upper classes were utterly pagan. Their clear
 
 and courageous testimony remains in those immortal words of Lord
 
-Melbourne, who had led the young [[Queen|queen]] to the throne and long stood
+Melbourne, who had led the young [[characters/queen|queen]] to the throne and long stood
 
 there as her protector. "No one has more respect for the Christian
 
@@ -9061,7 +9061,7 @@ private life----" What was pure paganism in the politics of Melbourne
 
 became a sort of mystical cynicism in the politics of Disraeli; and is
 
-[[Well|well]] mirrored in his novels--for he was a man who felt at [[Home|home]] in
+[[motifs/well|well]] mirrored in his novels--for he was a man who felt at [[motifs/home|home]] in
 
 mirrors. With every allowance for aliens and eccentrics and all the
 
@@ -9069,7 +9069,7 @@ accidents that must always eat the edges of any systematic
 
 circumference, it may still be said that the Utilitarians held the fort.
 
-Of the [[Oxford]] Movement what remains most strongly in the Victorian Epoch
+Of the [[settings/oxford|Oxford]] Movement what remains most strongly in the Victorian Epoch
 
 centres round the challenge of Newman, its one great literary man. But
 
@@ -9079,13 +9079,13 @@ genesis and make up of the society: yet that significance is not quite
 
 easy immediately to define. It was certainly not æsthetic ritualism;
 
-scarcely one of the [[Oxford]] High Churchmen was what we should call a
+scarcely one of the [[settings/oxford|Oxford]] High Churchmen was what we should call a
 
 Ritualist. It was certainly not a conscious reaching out towards Rome:
 
 except on a Roman Catholic theory which might explain all our unrests by
 
-that dim [[Desire|desire]]. It knew little of Europe, it knew nothing of Ireland,
+that dim [[motifs/desire|desire]]. It knew little of Europe, it knew nothing of Ireland,
 
 to which any merely Roman Catholic revulsion would obviously have
 
@@ -9123,7 +9123,7 @@ French Republic created, when it affirmed property and abolished
 
 peerages; France still stands like a square, four-sided building which
 
-Europe has besieged in vain. The men of the [[Oxford]] Movement would have
+Europe has besieged in vain. The men of the [[settings/oxford|Oxford]] Movement would have
 
 been horrified at being compared either with Moslems or Jacobins. But
 
@@ -9133,11 +9133,11 @@ had and ordinary Anglicans had not: the exalted excitement of
 
 consistency. If you were a Moslem you were not a Bacchanal. If you were
 
-a Republican you were not a peer. And so the [[Oxford]] men, even in their
+a Republican you were not a peer. And so the [[settings/oxford|Oxford]] men, even in their
 
 first and dimmest stages, felt that if you were a Churchman you were not
 
-a Dissenter. The [[Oxford]] Movement was, out of the very roots of its
+a Dissenter. The [[settings/oxford|Oxford]] Movement was, out of the very roots of its
 
 being, a rational movement; almost a rationalist movement. In that it
 
@@ -9151,7 +9151,7 @@ a Christian had a feast day he must have a fast day too. Otherwise, all
 
 days ought to be alike; and this was that very Utilitarianism against
 
-which their [[Oxford]] Movement was the first and most rational assault.
+which their [[settings/oxford|Oxford]] Movement was the first and most rational assault.
 
 This idea, even by reason of its reason, narrowed into a sort of sharp
 
@@ -9167,11 +9167,11 @@ told the rich, almost with taunts, that God sent the poor as eagles to
 
 strip them; Froude, who with Newman announced his return in the arrogant
 
-motto of [[Achilles]]. But the greater part of all this happened before what
+motto of [[characters/achilles|Achilles]]. But the greater part of all this happened before what
 
 is properly our period; and in that period Newman, and perhaps Newman
 
-[[Alone|alone]], is the expression and summary of the whole school. It was
+alone, is the expression and summary of the whole school. It was
 
 certainly in the Victorian Age, and after his passage to Rome, that
 
@@ -9197,7 +9197,7 @@ the _Apologia_. If he sometimes seemed to skin his enemies alive, it was
 
 because he himself lacked a skin. In this sense his _Apologia_ is a
 
-triumph far beyond the [[ephemeral]] charge on which it was founded; in this
+triumph far beyond the ephemeral charge on which it was founded; in this
 
 sense he does indeed (to use his own expression) vanquish not his
 
@@ -9214,17 +9214,17 @@ with them for ever. His _Lectures on the Present Position of English
 
 questi vari attacchi ad esso, che lo studio della letteratura vittoriana
 
-comincia e procede. Bentham era già il [[Prophet|profeta]] di una potente setta;
+comincia e procede. Bentham era già il [[archetypes/prophet|profeta]] di una potente setta;
 
 Macaulay era già lo storico di un partito storico, prima che la vera
 
 epoca vittoriana cominciasse. Le classi medie stavano emergendo in uno stato di
 
-[[Puritanism|puritanesimo]] guasto. Le classi alte erano del tutto pagane. La loro chiara
+[[historical-references/puritanism|puritanesimo]] guasto. Le classi alte erano del tutto pagane. La loro chiara
 
 e coraggiosa testimonianza rimane in quelle immortali parole di Lord
 
-Melbourne, che aveva condotto la giovane [[Queen|regina]] al trono e a lungo vi rimase
+Melbourne, che aveva condotto la giovane [[characters/queen|regina]] al trono e a lungo vi rimase
 
 come suo protettore. «Nessuno ha più rispetto di me per la religione
 
@@ -9234,7 +9234,7 @@ vita privata——» Ciò che era puro paganesimo nella politica di Melbourne
 
 divenne una sorta di mistico cinismo nella politica di Disraeli; ed è
 
-[[Well|ben]] rispecchiato nei suoi romanzi — poiché egli era un uomo che si sentiva a [[Home|casa]] tra gli
+[[motifs/well|ben]] rispecchiato nei suoi romanzi — poiché egli era un uomo che si sentiva a [[motifs/home|casa]] tra gli
 
 specchi. Con ogni concessione per estranei ed eccentrici e tutti gli
 
@@ -9242,7 +9242,7 @@ accidenti che devono sempre corrodere i bordi di qualunque sistematica
 
 circonferenza, si può ancora dire che gli Utilitaristi tennero il forte.
 
-Del Movimento di [[Oxford]] ciò che rimane più fortemente nell'Epoca Vittoriana
+Del Movimento di [[settings/oxford|Oxford]] ciò che rimane più fortemente nell'Epoca Vittoriana
 
 si accentra intorno alla sfida di Newman, il suo unico grande letterato. Ma
 
@@ -9252,13 +9252,13 @@ genesi e costituzione della società: eppure quel significato non è del tutto
 
 facile da definire immediatamente. Non era certamente ritualismo estetico;
 
-a stento uno degli uomini dell'Alta Chiesa di [[Oxford]] era ciò che chiameremmo un
+a stento uno degli uomini dell'Alta Chiesa di [[settings/oxford|Oxford]] era ciò che chiameremmo un
 
 Ritualista. Non era certamente un consapevole protendersi verso Roma:
 
 salvo in base a una teoria cattolica romana che potrebbe spiegare tutte le nostre inquietudini con
 
-quel confuso [[Desire|desiderio]]. Sapeva poco dell'Europa, non sapeva nulla dell'Irlanda,
+quel confuso [[motifs/desire|desiderio]]. Sapeva poco dell'Europa, non sapeva nulla dell'Irlanda,
 
 verso la quale qualunque repulsione meramente cattolica romana si sarebbe ovviamente
 
@@ -9296,7 +9296,7 @@ Repubblica francese creò, quando affermò la proprietà e abolì i
 
 titoli nobiliari; la Francia sta ancora come un edificio quadrato, dai quattro lati, che
 
-l'Europa ha assediato invano. Gli uomini del Movimento di [[Oxford]] sarebbero stati
+l'Europa ha assediato invano. Gli uomini del Movimento di [[settings/oxford|Oxford]] sarebbero stati
 
 inorriditi all'essere paragonati sia ai Musulmani sia ai Giacobini. Ma
 
@@ -9306,11 +9306,11 @@ avevano e i comuni Anglicani non avevano: l'esaltata eccitazione della
 
 coerenza. Se eri un Musulmano non eri un Baccante. Se eri
 
-un Repubblicano non eri un pari. E così gli uomini di [[Oxford]], anche nei loro
+un Repubblicano non eri un pari. E così gli uomini di [[settings/oxford|Oxford]], anche nei loro
 
 primi e più fiochi stadi, sentirono che se eri un uomo di Chiesa non eri
 
-un Dissidente. Il Movimento di [[Oxford]] fu, dalle radici stesse del suo
+un Dissidente. Il Movimento di [[settings/oxford|Oxford]] fu, dalle radici stesse del suo
 
 essere, un movimento razionale; quasi un movimento razionalista. In ciò
 
@@ -9324,7 +9324,7 @@ un cristiano aveva un giorno di festa doveva avere anche un giorno di digiuno. A
 
 i giorni sarebbero dovuti essere uguali; e questo era proprio quell'Utilitarismo contro
 
-il quale il loro Movimento di [[Oxford]] fu il primo e più razionale assalto.
+il quale il loro Movimento di [[settings/oxford|Oxford]] fu il primo e più razionale assalto.
 
 Questa idea, proprio in virtù della sua ragione, si assottigliò in una sorta di acuta
 
@@ -9340,11 +9340,11 @@ disse ai ricchi, quasi con scherno, che Dio mandava i poveri come aquile a
 
 spogliarli; Froude, che con Newman annunciò il suo ritorno con l'arrogante
 
-motto di [[Achilles|Achille]]. Ma la maggior parte di tutto questo accadde prima di ciò che
+motto di [[characters/achilles|Achille]]. Ma la maggior parte di tutto questo accadde prima di ciò che
 
 è propriamente il nostro periodo; e in quel periodo Newman, e forse Newman
 
-[[Alone|soltanto]], è l'espressione e il riassunto dell'intera scuola. Fu
+soltanto, è l'espressione e il riassunto dell'intera scuola. Fu
 
 certamente nell'Età Vittoriana, e dopo il suo passaggio a Roma, che
 
@@ -9370,7 +9370,7 @@ l'_Apologia_. Se talvolta sembrava scorticare vivi i suoi nemici, era
 
 perché egli stesso era privo di pelle. In questo senso la sua _Apologia_ è un
 
-trionfo assai al di là dell'[[ephemeral|effimera]] accusa su cui fu fondata; in questo
+trionfo assai al di là dell'effimera accusa su cui fu fondata; in questo
 
 senso egli davvero (per usare la sua stessa espressione) vince non il suo
 
@@ -9391,7 +9391,7 @@ Catholics_, practically preached against a raging mob, rise not only
 
 higher but happier, as his instant unpopularity increases. There is
 
-something grander than [[Humour|humour]], there is fun, in the very first lecture
+something grander than humour, there is fun, in the very first lecture
 
 about the British Constitution as explained to a meeting of Russians.
 
@@ -9399,11 +9399,11 @@ But always his triumphs are the triumphs of a highly sensitive man: a
 
 man must feel insults before he can so insultingly and splendidly
 
-avenge them. He is a naked man, who carries a naked [[Sword|sword]]. The quality
+avenge them. He is a naked man, who carries a naked sword. The quality
 
 of his literary style is so successful that it succeeds in escaping
 
-definition. The quality of his [[logic]] is that of a long but passionate
+definition. The quality of his logic is that of a long but passionate
 
 patience, which waits until he has fixed all corners of an iron trap.
 
@@ -9439,7 +9439,7 @@ had almost said to spit forth) their fiercest and most extraordinary
 
 enemy. The two primary things in Thomas Carlyle were his early Scotch
 
-[[Education|education]] and his later German culture. The first was in almost all
+[[concepts/education|education]] and his later German culture. The first was in almost all
 
 respects his strength; the latter in some respects his weakness. As an
 
@@ -9451,15 +9451,15 @@ their instinctive philosophic consideration of men merely as men. But he
 
 was not an ordinary peasant. If he had laboured obscurely in his village
 
-till [[Death|death]], he would have been yet locally a marked man; a man with a
+till [[motifs/death|death]], he would have been yet locally a marked man; a man with a
 
 wild eye, a man with an air of silent anger; perhaps a man at whom
 
-stones were sometimes thrown. A strain of disease and [[Suffering|suffering]] ran
+stones were sometimes thrown. A strain of disease and [[concepts/suffering|suffering]] ran
 
-athwart both his [[Body|body]] and his [[Soul|soul]]. In spite of his praise of [[Silence|silence]],
+athwart both his [[concepts/body|body]] and his [[motifs/soul|soul]]. In spite of his praise of [[motifs/silence|silence]],
 
-it was only through his gift of utterance that he escaped [[Madness|madness]]. But
+it was only through his gift of utterance that he escaped [[concepts/madness|madness]]. But
 
 while his fellow-peasants would have seen this in him and perhaps mocked
 
@@ -9471,9 +9471,9 @@ second sight. Like many ungainly or otherwise unattractive Scotchmen, he
 
 was a seer. By which I do not mean to refer so much to his
 
-transcendental rhapsodies about the World-[[Soul|soul]] or the [[Nature]]-garment or
+transcendental rhapsodies about the World-[[motifs/soul|soul]] or the [[concepts/nature|Nature]]-garment or
 
-the Mysteries and [[eternities|Eternities]] generally, these seem to me to belong more
+the Mysteries and Eternities generally, these seem to me to belong more
 
 to his German side and to be less sincere and vital. I mean a real power
 
@@ -9511,7 +9511,7 @@ against poetry. But, as a matter of fact, he himself was much greater
 
 considered as a kind of poet than considered as anything else; and the
 
-central idea of poetry is the idea of guessing right, like a [[Child|child]].
+central idea of poetry is the idea of guessing right, like a [[archetypes/child|child]].
 
 He first emerged, as it were, as a student and disciple of Goethe. The
 
@@ -9539,17 +9539,17 @@ Goethe were of a sort that did not draw the best out of Carlyle. The one
 
 civilised element that the German classicists forgot to put into their
 
-beautiful balance was a sense of [[Humour|humour]]. And great poet as Goethe was,
+beautiful balance was a sense of humour. And great poet as Goethe was,
 
 there is to the last something faintly fatuous about his half
 
-sceptical, half sentimental [[Self|self]]-importance; a Lord Chamberlain of
+sceptical, half sentimental [[concepts/self|self]]-importance; a Lord Chamberlain of
 
 teacup politics; an earnest and elderly flirt; a German of the Germans.
 
-Now Carlyle had [[Humour|humour]]; he had it in his very style, but it never got
+Now Carlyle had humour; he had it in his very style, but it never got
 
-into his [[philosophy]]. His [[philosophy]] largely remained a heavy Teutonic
+into his philosophy. His philosophy largely remained a heavy Teutonic
 
 idealism, absurdly unaware of the complexity of things; as when he
 
@@ -9562,7 +9562,7 @@ cattolici_, praticamente predicate contro una folla infuriata, si elevano non so
 
 più in alto ma più felici, man mano che cresce la sua istantanea impopolarità. V'è
 
-qualcosa di più grandioso dell'[[Humour|umorismo]], v'è spasso, nella primissima lezione
+qualcosa di più grandioso dell'umorismo, v'è spasso, nella primissima lezione
 
 sulla Costituzione britannica quale spiegata a un'assemblea di Russi.
 
@@ -9570,11 +9570,11 @@ Ma sempre i suoi trionfi sono i trionfi di un uomo altamente sensibile: un
 
 uomo deve sentire gli insulti prima di poterli vendicare in modo così insolente e
 
-splendido. Egli è un uomo nudo, che porta una nuda [[Sword|spada]]. La qualità
+splendido. Egli è un uomo nudo, che porta una nuda spada. La qualità
 
 del suo stile letterario è così riuscita che riesce a sfuggire alla
 
-definizione. La qualità della sua [[logic|logica]] è quella di una lunga ma appassionata
+definizione. La qualità della sua logica è quella di una lunga ma appassionata
 
 pazienza, che attende finché non ha fissato tutti gli angoli di una trappola di ferro.
 
@@ -9608,7 +9608,7 @@ filosofie dell'Età Vittoriana, era destinata anche a scagliar fuori (avrei
 
 quasi detto a sputar fuori) il loro più feroce e straordinario
 
-nemico. Le due cose primarie in Thomas Carlyle furono la sua prima [[Education|educazione]]
+nemico. Le due cose primarie in Thomas Carlyle furono la sua prima [[concepts/education|educazione]]
 
 scozzese e la sua più tarda cultura tedesca. La prima fu quasi sotto ogni
 
@@ -9622,15 +9622,15 @@ la loro istintiva considerazione filosofica degli uomini meramente come uomini. 
 
 non era un comune contadino. Se avesse faticato oscuramente nel suo villaggio
 
-fino alla [[Death|morte]], sarebbe stato pur sempre localmente un uomo segnato; un uomo con un
+fino alla [[motifs/death|morte]], sarebbe stato pur sempre localmente un uomo segnato; un uomo con un
 
 occhio selvaggio, un uomo con un'aria di silenziosa ira; forse un uomo contro cui
 
-talvolta si scagliavano pietre. Una vena di malattia e [[Suffering|sofferenza]] corse
+talvolta si scagliavano pietre. Una vena di malattia e [[concepts/suffering|sofferenza]] corse
 
-di traverso sia al suo [[Body|corpo]] sia alla sua [[Soul|anima]]. Nonostante la sua lode del [[Silence|silenzio]],
+di traverso sia al suo [[concepts/body|corpo]] sia alla sua [[motifs/soul|anima]]. Nonostante la sua lode del [[motifs/silence|silenzio]],
 
-fu solo attraverso il suo dono della parola che egli sfuggì alla [[Madness|follia]]. Ma
+fu solo attraverso il suo dono della parola che egli sfuggì alla [[concepts/madness|follia]]. Ma
 
 mentre i suoi compaesani contadini avrebbero visto questo in lui e forse l'avrebbero
 
@@ -9642,9 +9642,9 @@ seconda vista. Come molti sgraziati o altrimenti poco attraenti Scozzesi, egli
 
 era un veggente. Con ciò non intendo riferirmi tanto alle sue
 
-rapsodie trascendentali sull'[[Soul|Anima]] del Mondo o sulla veste della [[Nature|Natura]] o
+rapsodie trascendentali sull'[[motifs/soul|Anima]] del Mondo o sulla veste della [[concepts/nature|Natura]] o
 
-sui Misteri e sulle [[eternities|Eternità]] in generale, che mi sembrano appartenere più
+sui Misteri e sulle Eternità in generale, che mi sembrano appartenere più
 
 al suo lato tedesco ed essere meno sincere e vitali. Intendo un vero potere
 
@@ -9682,7 +9682,7 @@ la poesia. Ma, di fatto, egli stesso era assai più grande
 
 considerato come una specie di poeta che considerato come qualsiasi altra cosa; e l'
 
-idea centrale della poesia è l'idea di indovinare giusto, come un [[Child|bambino]].
+idea centrale della poesia è l'idea di indovinare giusto, come un [[archetypes/child|bambino]].
 
 Egli emerse dapprima, per così dire, come studioso e discepolo di Goethe. La
 
@@ -9710,17 +9710,17 @@ Goethe erano di una sorta che non traeva il meglio da Carlyle. L'unico
 
 elemento civile che i classicisti tedeschi dimenticarono di mettere nel loro
 
-bell'equilibrio era il senso dell'[[Humour|umorismo]]. E per grande poeta che Goethe fosse,
+bell'equilibrio era il senso dell'umorismo. E per grande poeta che Goethe fosse,
 
 v'è fino all'ultimo qualcosa di lievemente fatuo nella sua metà
 
-scettica, metà sentimentale importanza di [[Self|sé]]; un Lord Ciambellano di
+scettica, metà sentimentale importanza di [[concepts/self|sé]]; un Lord Ciambellano di
 
 politica da tazza di tè; un serio e attempato cascamorto; un Tedesco dei Tedeschi.
 
-Ora, Carlyle aveva [[Humour|umorismo]]; l'aveva nel suo stesso stile, ma non entrò mai
+Ora, Carlyle aveva umorismo; l'aveva nel suo stesso stile, ma non entrò mai
 
-nella sua [[philosophy|filosofia]]. La sua [[philosophy|filosofia]] rimase in gran parte un pesante idealismo teutonico,
+nella sua filosofia. La sua filosofia rimase in gran parte un pesante idealismo teutonico,
 
 assurdamente inconsapevole della complessità delle cose; come quando egli
 
@@ -9731,9 +9731,9 @@ ripeteva perpetuamente (con una sorta di scalpitio dal piede piatto) che
 <span class="atom-split" data-atom="chapter_01--part_08" data-title="Victorian Age — Chapter 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/prophet,motif/childhood,motif/cross,motif/nature,motif/rose,motif/time,concept/fear,concept/history,concept/nature,concept/truth,form/essay,form/history,form/riddle,histref/america,histref/bible,histref/christianity,histref/dante,histref/french_revolution,histref/puritanism,setting/america"></span>
 
 
-people ought to tell the [[Truth|truth]]; apparently supposing, to quote
+people ought to tell the [[concepts/truth|truth]]; apparently supposing, to quote
 
-Stevenson's phrase, that telling the [[Truth|truth]] is as easy as blind hookey.
+Stevenson's phrase, that telling the [[concepts/truth|truth]] is as easy as blind hookey.
 
 Yet, though his general honesty is unquestionable, he was by no means
 
@@ -9745,13 +9745,13 @@ admit easily that he had guessed wrong. His version of Cromwell's filthy
 
 cruelties in Ireland, or his impatient slurring over of the most
 
-sinister [[Riddle|riddle]] in the [[morality]] of Frederick the Great--these passages
+sinister [[forms/riddle|riddle]] in the morality of Frederick the Great--these passages
 
 are, one must frankly say, disingenuous. But it is, so to speak, a
 
 generous disingenuousness; the heat and momentum of sincere admirations,
 
-not the shuffling [[Fear|fear]] and flattery of the constitutional or patriotic
+not the shuffling [[concepts/fear|fear]] and flattery of the constitutional or patriotic
 
 historian. It bears most resemblance to the incurable prejudices of a
 
@@ -9761,29 +9761,29 @@ For the rest there hovered behind all this transcendental haze a certain
 
 presence of old northern paganism; he really had some sympathy with the
 
-vast vague gods of that moody but not unmanly [[Nature]]-worship which seems
+vast vague gods of that moody but not unmanly [[concepts/nature|Nature]]-worship which seems
 
 to have filled the darkness of the North before the coming of the Roman
 
-Eagle or the Christian [[Cross]]. This he combined, allowing for certain
+Eagle or the Christian [[motifs/cross|Cross]]. This he combined, allowing for certain
 
 sceptical omissions, with the grisly Old Testament God he had heard
 
-about in the black Sabbaths of his [[Childhood|childhood]]; and so promulgated
+about in the black Sabbaths of his [[motifs/childhood|childhood]]; and so promulgated
 
-(against both Rationalists and Catholics) a sort of heathen [[Puritanism]]:
+(against both Rationalists and Catholics) a sort of heathen [[historical-references/puritanism|Puritanism]]:
 
-Protestantism purged of its evidences of [[Christianity]].
+Protestantism purged of its evidences of [[historical-references/christianity|Christianity]].
 
 His great and real work was the attack on Utilitarianism: which did real
 
 good, though there was much that was muddled and dangerous in the
 
-historical [[philosophy]] which he preached as an alternative. It is his
+historical philosophy which he preached as an alternative. It is his
 
 real glory that he was the first to see clearly and say plainly the
 
-great [[Truth|truth]] of our [[Time|time]]; that the wealth of the state is not the
+great [[concepts/truth|truth]] of our [[motifs/time|time]]; that the wealth of the state is not the
 
 prosperity of the people. Macaulay and the Mills and all the regular run
 
@@ -9791,7 +9791,7 @@ of the Early Victorians, took it for granted that if Manchester was
 
 getting richer, we had got hold of the key to comfort and progress.
 
-Carlyle pointed out (with stronger sagacity and [[Humour|humour]] than he showed on
+Carlyle pointed out (with stronger sagacity and humour than he showed on
 
 any other question) that it was just as true to say that Manchester was
 
@@ -9803,19 +9803,19 @@ pleasing people in Manchester. In this matter he is to be noted in
 
 connection with national developments much later; for he thus became the
 
-first [[Prophet|prophet]] of the Socialists. _Sartor Resartus_ is an admirable
+first [[archetypes/prophet|prophet]] of the Socialists. _Sartor Resartus_ is an admirable
 
 fantasia; _The French Revolution_ is, with all its faults, a really
 
-fine piece of [[history]]; the lectures on Heroes contain some masterly
+fine piece of [[concepts/history|history]]; the lectures on Heroes contain some masterly
 
 sketches of personalities. But I think it is in _Past and Present_, and
 
-the [[Essay|essay]] on _Chartism_, that Carlyle achieves the work he was chosen by
+the [[forms/essay|essay]] on _Chartism_, that Carlyle achieves the work he was chosen by
 
 gods and men to achieve; which possibly might not have been achieved by
 
-a happier or more healthy-minded man. He never [[Rose|rose]] to more deadly irony
+a happier or more healthy-minded man. He never [[motifs/rose|rose]] to more deadly irony
 
 than in such _macabre_ descriptions as that of the poor woman proving
 
@@ -9833,7 +9833,7 @@ at all.... He that accuses us of producing, let him show himself. Let
 
 him say what and when." And he never wrote so sternly and justly as when
 
-he compared the "divine sorrow" of [[Dante]] with the "undivine sorrow" of
+he compared the "divine sorrow" of [[historical-references/dante|Dante]] with the "undivine sorrow" of
 
 Utilitarianism, which had already come down to talking about the
 
@@ -9853,7 +9853,7 @@ cockney cheerfulness of the cheaper economists, they and others
 
 represented him as a pessimist, and reduced all his azure infinities to
 
-a fit of the blues. But Carlyle's [[philosophy]], more carefully considered,
+a fit of the blues. But Carlyle's philosophy, more carefully considered,
 
 will be found to be dangerously optimist rather than pessimist. As a
 
@@ -9863,13 +9863,13 @@ satisfied. For he seems to have held the theory that good could not be
 
 definitely defeated in this world; and that everything in the long run
 
-finds its right level. It began with what we may call the "[[Bible]] of
+finds its right level. It began with what we may call the "[[historical-references/bible|Bible]] of
 
-[[history|History]]" idea: that all affairs and politics were a clouded but unbroken
+[[concepts/history|History]]" idea: that all affairs and politics were a clouded but unbroken
 
 revelation of the divine. Thus any enormous and unaltered human
 
-settlement--as the Norman Conquest or the secession of [[America]]--we must
+settlement--as the Norman Conquest or the secession of [[settings/america|America]]--we must
 
 suppose to be the will of God. It lent itself to picturesque treatment;
 
@@ -9879,7 +9879,7 @@ gave them at first a rhetorical advantage over the Catholic and other
 
 older schools. They could boast that their Creator was still creating;
 
-that he was in Man and [[Nature]], and was not hedged round in a Paradise or
+that he was in Man and [[concepts/nature|Nature]], and was not hedged round in a Paradise or
 
 imprisoned in a pyx. They could say their God had not grown too old for
 
@@ -9893,7 +9893,7 @@ defend their position. But they said things to the same effect: that
 
 what manages finally to happen, happens for a higher purpose. Carlyle
 
-said the [[French Revolution]] was a thing settled in the eternal councils
+said the [[historical-references/french-revolution|French Revolution]] was a thing settled in the eternal councils
 
 to be; and therefore (and not because it was right) attacking it was
 
@@ -9902,9 +9902,9 @@ to be; and therefore (and not because it was right) attacking it was
 
 <span class="qlang-split" data-lang="it"></span>
 
-la gente dovrebbe dire la [[Truth|verità]]; supponendo apparentemente, per citare
+la gente dovrebbe dire la [[concepts/truth|verità]]; supponendo apparentemente, per citare
 
-la frase di Stevenson, che dire la [[Truth|verità]] sia facile come il gioco della mosca cieca.
+la frase di Stevenson, che dire la [[concepts/truth|verità]] sia facile come il gioco della mosca cieca.
 
 Eppure, benché la sua onestà generale sia indubitabile, egli non era affatto
 
@@ -9916,13 +9916,13 @@ ammettere facilmente di aver indovinato male. La sua versione delle immonde
 
 crudeltà di Cromwell in Irlanda, o il suo impaziente sorvolare sul più
 
-sinistro [[Riddle|enigma]] nella [[morality|moralità]] di Federico il Grande — questi passi
+sinistro [[forms/riddle|enigma]] nella moralità di Federico il Grande — questi passi
 
 sono, bisogna francamente dirlo, disonesti. Ma è, per così dire, una
 
 generosa disonestà; il calore e lo slancio di sincere ammirazioni,
 
-non la strisciante [[Fear|paura]] e adulazione dello storico costituzionale o
+non la strisciante [[concepts/fear|paura]] e adulazione dello storico costituzionale o
 
 patriottico. Somiglia soprattutto agli inguaribili pregiudizi di una
 
@@ -9932,29 +9932,29 @@ Per il resto aleggiava dietro tutta questa foschia trascendentale una certa
 
 presenza dell'antico paganesimo nordico; egli aveva davvero qualche simpatia per gli
 
-sconfinati vaghi dèi di quel cupo ma non poco virile culto della [[Nature|Natura]] che sembra
+sconfinati vaghi dèi di quel cupo ma non poco virile culto della [[concepts/nature|Natura]] che sembra
 
 aver riempito le tenebre del Nord prima della venuta dell'Aquila
 
-romana o della [[Cross|Croce]] cristiana. Ciò egli combinò, tenuto conto di certe
+romana o della [[motifs/cross|Croce]] cristiana. Ciò egli combinò, tenuto conto di certe
 
 scettiche omissioni, con il macabro Dio dell'Antico Testamento di cui aveva sentito
 
-parlare nei neri Sabbath della sua [[Childhood|infanzia]]; e così promulgò
+parlare nei neri Sabbath della sua [[motifs/childhood|infanzia]]; e così promulgò
 
-(contro sia i Razionalisti sia i Cattolici) una sorta di [[Puritanism|puritanesimo]] pagano:
+(contro sia i Razionalisti sia i Cattolici) una sorta di [[historical-references/puritanism|puritanesimo]] pagano:
 
-il Protestantesimo purgato delle sue prove del [[Christianity|Cristianesimo]].
+il Protestantesimo purgato delle sue prove del [[historical-references/christianity|Cristianesimo]].
 
 La sua grande e reale opera fu l'attacco all'Utilitarismo: che fece un vero
 
 bene, benché vi fosse molto di confuso e pericoloso nella
 
-[[philosophy|filosofia]] storica che egli predicava come alternativa. È sua
+filosofia storica che egli predicava come alternativa. È sua
 
 vera gloria che egli fu il primo a vedere chiaramente e dire apertamente la
 
-grande [[Truth|verità]] del nostro [[Time|tempo]]; che la ricchezza dello Stato non è la
+grande [[concepts/truth|verità]] del nostro [[motifs/time|tempo]]; che la ricchezza dello Stato non è la
 
 prosperità del popolo. Macaulay e i Mill e tutto il consueto corso
 
@@ -9962,7 +9962,7 @@ dei primi Vittoriani, davano per scontato che se Manchester
 
 diventava più ricca, avevamo afferrato la chiave del conforto e del progresso.
 
-Carlyle fece notare (con più forte sagacia e [[Humour|umorismo]] di quanto ne mostrasse su
+Carlyle fece notare (con più forte sagacia e umorismo di quanto ne mostrasse su
 
 qualsiasi altra questione) che era altrettanto vero dire che Manchester
 
@@ -9974,19 +9974,19 @@ gradevoli persone di Manchester. In questa faccenda egli è da notare in
 
 connessione con sviluppi nazionali assai più tardi; poiché così divenne il
 
-primo [[Prophet|profeta]] dei Socialisti. _Sartor Resartus_ è un'ammirevole
+primo [[archetypes/prophet|profeta]] dei Socialisti. _Sartor Resartus_ è un'ammirevole
 
 fantasia; _La Rivoluzione francese_ è, con tutti i suoi difetti, un davvero
 
-bel pezzo di [[history|storia]]; le lezioni sugli Eroi contengono alcuni magistrali
+bel pezzo di [[concepts/history|storia]]; le lezioni sugli Eroi contengono alcuni magistrali
 
 schizzi di personalità. Ma io penso che sia in _Passato e presente_, e
 
-nel [[Essay|saggio]] sul _Cartismo_, che Carlyle compie l'opera per cui fu scelto da
+nel [[forms/essay|saggio]] sul _Cartismo_, che Carlyle compie l'opera per cui fu scelto da
 
 dèi e uomini a compiere; che forse non avrebbe potuto essere compiuta da
 
-un uomo più felice o dalla mente più sana. Egli non si [[Rose|elevò]] mai a più letale ironia
+un uomo più felice o dalla mente più sana. Egli non si [[motifs/rose|elevò]] mai a più letale ironia
 
 che in certe _macabre_ descrizioni come quella della povera donna che prova
 
@@ -10004,7 +10004,7 @@ affatto.... Chi ci accusa di produrre, si mostri. Che
 
 dica cosa e quando.» E non scrisse mai così severamente e giustamente come quando
 
-paragonò la «divina afflizione» di [[Dante]] con l'«indivina afflizione» dell'
+paragonò la «divina afflizione» di [[historical-references/dante|Dante]] con l'«indivina afflizione» dell'
 
 Utilitarismo, che era già sceso a discorrere sulla
 
@@ -10024,7 +10024,7 @@ cockney allegria dei più dozzinali economisti, essi e altri
 
 lo rappresentarono come un pessimista, e ridussero tutte le sue azzurre infinità a
 
-un accesso di malinconia. Ma la [[philosophy|filosofia]] di Carlyle, considerata più attentamente,
+un accesso di malinconia. Ma la filosofia di Carlyle, considerata più attentamente,
 
 si troverà essere pericolosamente ottimista anziché pessimista. Come
 
@@ -10034,13 +10034,13 @@ soddisfatto. Poiché sembra aver sostenuto la teoria che il bene non potesse ess
 
 definitivamente sconfitto in questo mondo; e che ogni cosa alla lunga
 
-trovi il suo giusto livello. Cominciò con ciò che possiamo chiamare l'idea della «[[Bible|Bibbia]] della
+trovi il suo giusto livello. Cominciò con ciò che possiamo chiamare l'idea della «[[historical-references/bible|Bibbia]] della
 
-[[history|Storia]]»: che tutte le vicende e la politica fossero una velata ma ininterrotta
+[[concepts/history|Storia]]»: che tutte le vicende e la politica fossero una velata ma ininterrotta
 
 rivelazione del divino. Così qualunque enorme e immutato
 
-assetto umano — come la Conquista normanna o la secessione dell'[[America]] — dobbiamo
+assetto umano — come la Conquista normanna o la secessione dell'[[settings/america|America]] — dobbiamo
 
 supporre essere la volontà di Dio. Si prestava a un trattamento pittoresco;
 
@@ -10050,7 +10050,7 @@ diede loro dapprima un vantaggio retorico sulle scuole cattoliche e altre
 
 più antiche. Potevano vantarsi che il loro Creatore stesse ancora creando;
 
-che egli fosse nell'Uomo e nella [[Nature|Natura]], e non fosse recintato in un Paradiso o
+che egli fosse nell'Uomo e nella [[concepts/nature|Natura]], e non fosse recintato in un Paradiso o
 
 imprigionato in una pisside. Potevano dire che il loro Dio non era divenuto troppo vecchio per la
 
@@ -10064,7 +10064,7 @@ difendere la loro posizione. Ma dicevano cose dello stesso tenore: che
 
 ciò che riesce infine ad accadere, accade per un fine più alto. Carlyle
 
-diceva che la [[French Revolution|Rivoluzione francese]] era una cosa stabilita negli eterni consigli
+diceva che la [[historical-references/french-revolution|Rivoluzione francese]] era una cosa stabilita negli eterni consigli
 
 perché fosse; e perciò (e non perché fosse giusta) attaccarla era
 
@@ -10087,9 +10087,9 @@ the side of the big battalions--or at least, of the victorious ones.
 
 Thus a creed which set out to create conquerors would only corrupt
 
-soldiers; corrupt them with a craven and unsoldierly worship of [[success]]:
+soldiers; corrupt them with a craven and unsoldierly worship of success:
 
-and that which began as the [[philosophy]] of [[Courage|courage]] ends as the [[philosophy]]
+and that which began as the philosophy of [[concepts/courage|courage]] ends as the philosophy
 
 of cowardice. If, indeed, Carlyle were right in saying that right is
 
@@ -10103,13 +10103,13 @@ Anti-Utilitarian element, is to be kept in mind in connection with after
 
 developments: for in this Carlyle is the first cry of Imperialism, as
 
-(in the other case) of Socialism: and the two babes [[unborn]] who stir at
+(in the other case) of Socialism: and the two babes unborn who stir at
 
-the trumpet are Mr. Bernard [[Shaw]] and Mr. Rudyard Kipling. Kipling also
+the trumpet are Mr. Bernard [[works/shaw-(chesterton)|Shaw]] and Mr. Rudyard Kipling. Kipling also
 
 carries on from Carlyle the concentration on the purely Hebraic parts of
 
-the [[Bible]]. The fallacy of this whole [[philosophy]] is that if God is indeed
+the [[historical-references/bible|Bible]]. The fallacy of this whole philosophy is that if God is indeed
 
 present at a modern battle, He may be present not as on Gilboa but
 
@@ -10125,7 +10125,7 @@ develops rather the harsher and more impatient moral counsels of his
 
 master than like Ruskin the more romantic and sympathetic. He carries on
 
-the tradition of [[Hero]] Worship: but carries far beyond Carlyle the
+the tradition of [[archetypes/hero|Hero]] Worship: but carries far beyond Carlyle the
 
 practice of worshipping people who cannot rationally be called heroes.
 
@@ -10133,7 +10133,7 @@ In this matter that eccentric eye of the seer certainly helped Carlyle:
 
 in Cromwell and Frederick the Great there was at least something
 
-[[Self|self]]-begotten, original or mystical; if they were not heroes they were
+[[concepts/self|self]]-begotten, original or mystical; if they were not heroes they were
 
 at least demigods or perhaps demons. But Froude set himself to the
 
@@ -10141,25 +10141,25 @@ praise of the Tudors, a much lower class of people; ill-conditioned
 
 prosperous people who merely waxed fat and kicked. Such strength as
 
-[[Henry VIII]] had was the strength of a badly trained [[Horse|horse]] that bolts, not
+[[characters/henry-viii|Henry VIII]] had was the strength of a badly trained [[motifs/horse|horse]] that bolts, not
 
 of any clear or courageous rider who controls him. There is a sort of
 
 strong man mentioned in Scripture who, because he masters himself, is
 
-more than he that takes a [[City|city]]. There is another kind of strong man
+more than he that takes a [[motifs/city|city]]. There is another kind of strong man
 
 (known to the medical profession) who cannot master himself; and whom it
 
-may take half a [[City|city]] to take alive. But for all that he is a low
+may take half a [[motifs/city|city]] to take alive. But for all that he is a low
 
-lunatic, and not a [[Hero|hero]]; and of that sort were too many of the heroes
+lunatic, and not a [[archetypes/hero|hero]]; and of that sort were too many of the heroes
 
 whom Froude attempted to praise. A kind of instinct kept Carlyle from
 
-over-praising [[Henry VIII]]; or that highly cultivated and complicated
+over-praising [[characters/henry-viii|Henry VIII]]; or that highly cultivated and complicated
 
-liar, [[Queen Elizabeth]]. Here, the only importance of this is that one of
+liar, [[characters/queen-elizabeth|Queen Elizabeth]]. Here, the only importance of this is that one of
 
 Carlyle's followers carried further that "strength" which was the real
 
@@ -10175,7 +10175,7 @@ was not ashamed of being partisan or of being picturesque. Such studies
 
 as he wrote on the Elizabethan seamen and adventurers, represent very
 
-triumphantly the sort of [[Romance|romance]] of England that all this school was
+triumphantly the sort of romance of England that all this school was
 
 attempting to establish; and link him up with Kingsley and the rest.
 
@@ -10189,23 +10189,23 @@ English without disordering it. And in the matter of religion (which
 
 was the key of this age as of every other) he did not, like Carlyle, set
 
-up the [[Romance|romance]] of the great Puritans as a rival to the [[Romance|romance]] of the
+up the romance of the great Puritans as a rival to the romance of the
 
-[[Catholic Church]]. Rather he set up and worshipped all the arts and
+[[historical-references/catholic-church|Catholic Church]]. Rather he set up and worshipped all the arts and
 
-trophies of the [[Catholic Church]] as a rival to the Church itself. None
+trophies of the [[historical-references/catholic-church|Catholic Church]] as a rival to the Church itself. None
 
 need dispute that he held a perfectly tenable position if he chose to
 
-associate early Florentine art with a [[Christianity]] still comparatively
+associate early Florentine art with a [[historical-references/christianity|Christianity]] still comparatively
 
-pure, and such sensualities as the [[Renaissance]] bred with the corruption
+pure, and such sensualities as the [[historical-references/renaissance|Renaissance]] bred with the corruption
 
 of a Papacy. But this does not alter, as a merely artistic fact, the
 
 strange air of ill-ease and irritation with which Ruskin seems to tear
 
-down the [[gargoyles]] of Amiens or the marbles of [[Venice]], as things of
+down the gargoyles of Amiens or the marbles of [[settings/venice|Venice]], as things of
 
 which Europe is not worthy; and take them away with him to a really
 
@@ -10217,11 +10217,11 @@ headache which was literally a "splitting headache"; for there was a
 
 schism in the sympathies. When these men looked at some historic
 
-object, like the [[Catholic Church]] or the [[French Revolution]], they did not
+object, like the [[historical-references/catholic-church|Catholic Church]] or the [[historical-references/french-revolution|French Revolution]], they did not
 
 know whether they loved or hated it most. Carlyle's two eyes were out of
 
-focus, as one may say, when he looked at [[Democracy|democracy]]: he had one eye on
+focus, as one may say, when he looked at [[concepts/democracy|democracy]]: he had one eye on
 
 Valmy and the other on Sedan. In the same way, Ruskin had a strong right
 
@@ -10239,7 +10239,7 @@ was troubled under its serene surface. The incessant excitement of
 
 Kingsley, though romantic and attractive in many ways, was a great deal
 
-more like Nervous [[Christianity]] than Muscular [[Christianity]]. It would be
+more like Nervous [[historical-references/christianity|Christianity]] than Muscular [[historical-references/christianity|Christianity]]. It would be
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10256,9 +10256,9 @@ dalla parte dei grossi battaglioni—o almeno di quelli vittoriosi.
 
 Così un credo che si proponeva di creare conquistatori non farebbe che corrompere
 
-i soldati; corromperli con un vile e poco soldatesco culto del [[success|successo]]:
+i soldati; corromperli con un vile e poco soldatesco culto del successo:
 
-e ciò che era cominciato come la [[philosophy|filosofia]] del [[Courage|coraggio]] finisce come la [[philosophy|filosofia]]
+e ciò che era cominciato come la filosofia del [[concepts/courage|coraggio]] finisce come la filosofia
 
 della codardia. Se davvero Carlyle avesse ragione nel dire che il diritto è
 
@@ -10272,13 +10272,13 @@ anti-utilitarista, va tenuto a mente in relazione a sviluppi
 
 successivi: poiché in ciò Carlyle è il primo grido dell'Imperialismo, come
 
-(nell'altro caso) del Socialismo: e i due bimbi [[unborn|non nati]] che si agitano al
+(nell'altro caso) del Socialismo: e i due bimbi non nati che si agitano al
 
-suono della tromba sono il signor Bernard [[Shaw]] e il signor Rudyard Kipling. Anche Kipling
+suono della tromba sono il signor Bernard [[works/shaw-(chesterton)|Shaw]] e il signor Rudyard Kipling. Anche Kipling
 
 prosegue da Carlyle la concentrazione sulle parti puramente ebraiche della
 
-[[Bible|Bibbia]]. La fallacia di tutta questa [[philosophy|filosofia]] è che se Dio è davvero
+[[historical-references/bible|Bibbia]]. La fallacia di tutta questa filosofia è che se Dio è davvero
 
 presente a una battaglia moderna, potrebbe esservi presente non come sul Gelboe ma come sul
 
@@ -10294,7 +10294,7 @@ sviluppa piuttosto i più aspri e impazienti consigli morali del suo
 
 maestro, anziché, come Ruskin, quelli più romantici e comprensivi. Egli prosegue
 
-la tradizione del culto dell'[[Hero|Eroe]]: ma spinge assai oltre Carlyle la
+la tradizione del culto dell'[[archetypes/hero|Eroe]]: ma spinge assai oltre Carlyle la
 
 pratica di venerare persone che non possono razionalmente dirsi eroi.
 
@@ -10302,7 +10302,7 @@ In questa faccenda quell'occhio eccentrico del veggente aiutò certamente Carlyl
 
 in Cromwell e in Federico il Grande c'era almeno qualcosa
 
-di generato da [[Self|sé]], di originale o di mistico; se non erano eroi erano
+di generato da [[concepts/self|sé]], di originale o di mistico; se non erano eroi erano
 
 almeno semidei o forse demoni. Ma Froude si dedicò alla
 
@@ -10310,25 +10310,25 @@ lode dei Tudor, una categoria assai più bassa di gente; individui malaccorti,
 
 gente prospera che non fece altro che ingrassare e sparar calci. Tanta forza quanta
 
-[[Henry VIII|Enrico VIII]] aveva era la forza di un [[Horse|cavallo]] mal domato che s'imbizzarrisce, non
+[[characters/henry-viii|Enrico VIII]] aveva era la forza di un [[motifs/horse|cavallo]] mal domato che s'imbizzarrisce, non
 
 quella di un cavaliere lucido o coraggioso che lo governa. C'è una specie di
 
 uomo forte menzionato nella Scrittura che, poiché domina sé stesso, è
 
-più di colui che prende una [[City|città]]. C'è un altro tipo di uomo forte
+più di colui che prende una [[motifs/city|città]]. C'è un altro tipo di uomo forte
 
 (noto alla professione medica) che non sa dominare sé stesso; e che
 
-può richiedere mezza [[City|città]] per essere preso vivo. Ma con tutto ciò è un basso
+può richiedere mezza [[motifs/city|città]] per essere preso vivo. Ma con tutto ciò è un basso
 
-pazzo, e non un [[Hero|eroe]]; e di quella risma erano troppi degli eroi
+pazzo, e non un [[archetypes/hero|eroe]]; e di quella risma erano troppi degli eroi
 
 che Froude tentò di lodare. Una sorta di istinto trattenne Carlyle dal
 
-lodare troppo [[Henry VIII|Enrico VIII]]; o quella coltissima e complicata
+lodare troppo [[characters/henry-viii|Enrico VIII]]; o quella coltissima e complicata
 
-bugiarda, la [[Queen Elizabeth|Regina Elisabetta]]. Qui, l'unica importanza di ciò è che uno dei
+bugiarda, la [[characters/queen-elizabeth|Regina Elisabetta]]. Qui, l'unica importanza di ciò è che uno dei
 
 seguaci di Carlyle spinse oltre quella «forza» che era la vera
 
@@ -10344,7 +10344,7 @@ non si vergognava d'essere partigiano né di essere pittoresco. Studi come quell
 
 che scrisse sui marinai e avventurieri elisabettiani rappresentano assai
 
-trionfalmente quella specie di [[Romance|romanticismo]] dell'Inghilterra che tutta questa scuola
+trionfalmente quella specie di romanticismo dell'Inghilterra che tutta questa scuola
 
 cercava di affermare; e lo collegano a Kingsley e agli altri.
 
@@ -10358,23 +10358,23 @@ l'inglese senza scomporlo. E in fatto di religione (che
 
 fu la chiave di quest'età come di ogni altra) non eresse, come Carlyle,
 
-il [[Romance|romanticismo]] dei grandi Puritani a rivale del [[Romance|romanticismo]] della
+il romanticismo dei grandi Puritani a rivale del romanticismo della
 
-[[Catholic Church|Chiesa cattolica]]. Piuttosto eresse e venerò tutte le arti e i
+[[historical-references/catholic-church|Chiesa cattolica]]. Piuttosto eresse e venerò tutte le arti e i
 
-trofei della [[Catholic Church|Chiesa cattolica]] a rivali della Chiesa stessa. Nessuno
+trofei della [[historical-references/catholic-church|Chiesa cattolica]] a rivali della Chiesa stessa. Nessuno
 
 ha bisogno di contestare che egli tenesse una posizione perfettamente sostenibile se sceglieva di
 
-associare l'arte fiorentina delle origini a un [[Christianity|cristianesimo]] ancora relativamente
+associare l'arte fiorentina delle origini a un [[historical-references/christianity|cristianesimo]] ancora relativamente
 
-puro, e sensualità come quelle che il [[Renaissance|Rinascimento]] generò con la corruzione
+puro, e sensualità come quelle che il [[historical-references/renaissance|Rinascimento]] generò con la corruzione
 
 di un Papato. Ma ciò non muta, come mero fatto artistico, la
 
 strana aria di disagio e d'irritazione con cui Ruskin sembra strappare
 
-le [[gargoyles|gargolle]] di Amiens o i marmi di [[Venice|Venezia]], come cose di
+le gargolle di Amiens o i marmi di [[settings/venice|Venezia]], come cose di
 
 cui l'Europa non è degna; e portarseli via in un museo davvero
 
@@ -10386,11 +10386,11 @@ etica che era letteralmente un'«emicrania che spacca la testa»; poiché c'era 
 
 scisma nelle simpatie. Quando questi uomini guardavano qualche oggetto
 
-storico, come la [[Catholic Church|Chiesa cattolica]] o la [[French Revolution|Rivoluzione francese]], non
+storico, come la [[historical-references/catholic-church|Chiesa cattolica]] o la [[historical-references/french-revolution|Rivoluzione francese]], non
 
 sapevano se lo amassero o l'odiassero di più. I due occhi di Carlyle erano fuori
 
-fuoco, per così dire, quando guardava la [[Democracy|democrazia]]: aveva un occhio su
+fuoco, per così dire, quando guardava la [[concepts/democracy|democrazia]]: aveva un occhio su
 
 Valmy e l'altro su Sedan. Allo stesso modo, Ruskin aveva una forte mano destra
 
@@ -10408,7 +10408,7 @@ era agitato sotto la sua serena superficie. L'incessante eccitazione di
 
 Kingsley, per quanto romantica e attraente per molti versi, somigliava assai
 
-più a un [[Christianity|cristianesimo]] Nervoso che a un [[Christianity|cristianesimo]] Muscolare. Sarebbe
+più a un [[historical-references/christianity|cristianesimo]] Nervoso che a un [[historical-references/christianity|cristianesimo]] Muscolare. Sarebbe
 
 
 
@@ -10421,11 +10421,11 @@ between his mediæval tastes and his very unmediæval temper: and minor
 
 inconsistencies do not matter in anybody. But it is not quite unfair to
 
-say of him that he seemed to want all parts of the [[Cathedral]] except the
+say of him that he seemed to want all parts of the [[settings/cathedral|Cathedral]] except the
 
 altar.
 
-As an [[artist]] in prose he is one of the most miraculous products of the
+As an [[archetypes/artist|artist]] in prose he is one of the most miraculous products of the
 
 extremely poetical genius of England. The length of a Ruskin sentence is
 
@@ -10439,9 +10439,9 @@ as a bullet. There is no Victorian writer before him to whom he even
 
 suggests a comparison, technically considered, except perhaps De
 
-Quincey; who also employed the long rich [[rolling]] sentence that, like a
+Quincey; who also employed the long rich rolling sentence that, like a
 
-rocket, bursts into [[Stars|stars]] at the end. But De Quincey's sentences, as I
+rocket, bursts into [[motifs/stars|stars]] at the end. But De Quincey's sentences, as I
 
 have said, have always a dreamy and insecure sense about them, like the
 
@@ -10499,7 +10499,7 @@ least sentimental of his books, _Unto this Last_; but many suggestions
 
 of it are scattered through _Sesame and Lilies_, _The Political Economy
 
-of Art_, and even _Modern Painters_. On this side of his [[Soul|soul]] Ruskin
+of Art_, and even _Modern Painters_. On this side of his [[motifs/soul|soul]] Ruskin
 
 became the second founder of Socialism. The argument was not by any
 
@@ -10515,15 +10515,15 @@ Ruskin was seldom so sensible and logical (right or wrong) as when he
 
 was talking about economics. He constantly talked the most glorious
 
-nonsense about landscape and natural [[history]], which it was his business
+nonsense about landscape and natural [[concepts/history|history]], which it was his business
 
 to understand. Within his own limits, he talked the most cold common
 
 sense about political economy, which was no business of his at all.
 
-On the other side of his literary [[Soul|soul]], his mere unwrapping of the
+On the other side of his literary [[motifs/soul|soul]], his mere unwrapping of the
 
-wealth and [[Wonder|wonder]] of European art, he set going another influence,
+wealth and [[concepts/wonder|wonder]] of European art, he set going another influence,
 
 earlier and vaguer than his influence on Socialism. He represented what
 
@@ -10539,11 +10539,11 @@ They used the mediæval imagery to blaspheme the mediæval religion.
 
 Ruskin's dark and doubtful decision to accept Catholic art but not
 
-Catholic ethics had borne rapid or even flagrant fruit by the [[Time|time]] that
+Catholic ethics had borne rapid or even flagrant fruit by the [[motifs/time|time]] that
 
 Swinburne, writing about a harlot, composed a learned and sympathetic
 
-and indecent [[Parody|parody]] on the [[litany|Litany]] of the Blessed Virgin.
+and indecent [[forms/parody|parody]] on the [[forms/litany|Litany]] of the Blessed Virgin.
 
 With the poets I deal in another part of this book; but the influence of
 
@@ -10567,7 +10567,7 @@ is, without the funny parts. I may be wrong, but I cannot recall at this
 
 moment a single passage in which Pater's style takes a holiday or in
 
-which his wisdom plays the [[Fool|fool]]. Newman and Ruskin were as careful and
+which his wisdom plays the [[archetypes/fool|fool]]. Newman and Ruskin were as careful and
 
 graceful stylists as he. Newman and Ruskin were as serious, elaborate,
 
@@ -10583,7 +10583,7 @@ peroration of _The Renaissance_. The only objection to being where all
 
 the keenest emotions meet is that you feel none of them.
 
-In this sense Pater may [[Well|well]] stand for a substantial summary of the
+In this sense Pater may [[motifs/well|well]] stand for a substantial summary of the
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -10594,11 +10594,11 @@ tra i suoi gusti medievali e il suo temperamento assai poco medievale: e le mino
 
 incoerenze non contano in nessuno. Ma non è del tutto ingiusto
 
-dire di lui che pareva volere tutte le parti della [[Cathedral|Cattedrale]] tranne l'
+dire di lui che pareva volere tutte le parti della [[settings/cathedral|Cattedrale]] tranne l'
 
 altare.
 
-Come [[artist|artista]] della prosa egli è uno dei più miracolosi prodotti dello
+Come [[archetypes/artist|artista]] della prosa egli è uno dei più miracolosi prodotti dello
 
 straordinariamente poetico genio dell'Inghilterra. La lunghezza di una frase di Ruskin è
 
@@ -10612,9 +10612,9 @@ come una pallottola. Non c'è scrittore vittoriano prima di lui a cui egli anche
 
 suggerisca un paragone, tecnicamente considerato, tranne forse De
 
-Quincey; il quale pure usava la lunga, ricca e [[rolling|ondeggiante]] frase che, come un
+Quincey; il quale pure usava la lunga, ricca e ondeggiante frase che, come un
 
-razzo, esplode in [[Stars|stelle]] alla fine. Ma le frasi di De Quincey, come ho
+razzo, esplode in [[motifs/stars|stelle]] alla fine. Ma le frasi di De Quincey, come ho
 
 detto, hanno sempre un che di sognante e malfermo, come la
 
@@ -10672,7 +10672,7 @@ meno sentimentale dei suoi libri, _Unto this Last_; ma molti spunti
 
 di esso sono sparsi in _Sesame and Lilies_, _The Political Economy
 
-of Art_, e persino in _Modern Painters_. Da questo lato della sua [[Soul|anima]] Ruskin
+of Art_, e persino in _Modern Painters_. Da questo lato della sua [[motifs/soul|anima]] Ruskin
 
 divenne il secondo fondatore del Socialismo. L'argomento non era in alcun
 
@@ -10688,15 +10688,15 @@ Ruskin fu di rado così assennato e logico (a torto o a ragione) come quando
 
 parlava di economia. Diceva di continuo le più gloriose
 
-sciocchezze sul paesaggio e sulla [[history|storia]] naturale, che era suo compito
+sciocchezze sul paesaggio e sulla [[concepts/history|storia]] naturale, che era suo compito
 
 comprendere. Entro i propri limiti, diceva il più freddo buon
 
 senso sull'economia politica, che non era affatto compito suo.
 
-Dall'altro lato della sua [[Soul|anima]] letteraria, il suo semplice dischiudere la
+Dall'altro lato della sua [[motifs/soul|anima]] letteraria, il suo semplice dischiudere la
 
-ricchezza e la [[Wonder|meraviglia]] dell'arte europea, egli avviò un'altra influenza,
+ricchezza e la [[concepts/wonder|meraviglia]] dell'arte europea, egli avviò un'altra influenza,
 
 più precoce e più vaga della sua influenza sul Socialismo. Egli rappresentò ciò che
 
@@ -10712,11 +10712,11 @@ Essi usarono l'immaginario medievale per bestemmiare la religione medievale.
 
 L'oscura e dubbia decisione di Ruskin di accettare l'arte cattolica ma non
 
-l'etica cattolica aveva dato rapido, anzi flagrante, frutto nel [[Time|tempo]] in cui
+l'etica cattolica aveva dato rapido, anzi flagrante, frutto nel [[motifs/time|tempo]] in cui
 
 Swinburne, scrivendo di una meretrice, compose una dotta, benevola
 
-e indecente [[Parody|parodia]] delle [[litany|Litanie]] della Beata Vergine.
+e indecente [[forms/parody|parodia]] delle [[forms/litany|Litanie]] della Beata Vergine.
 
 Dei poeti mi occupo in un'altra parte di questo libro; ma l'influenza della
 
@@ -10740,7 +10740,7 @@ senza le parti buffe. Posso sbagliarmi, ma non riesco a rammentare in questo
 
 momento un solo passo in cui lo stile di Pater si prenda una vacanza o in
 
-cui la sua saggezza faccia il [[Fool|buffone]]. Newman e Ruskin furono stilisti attenti e
+cui la sua saggezza faccia il [[archetypes/fool|buffone]]. Newman e Ruskin furono stilisti attenti e
 
 aggraziati quanto lui. Newman e Ruskin furono pensatori seri, elaborati,
 
@@ -10756,7 +10756,7 @@ perorazione di _The Renaissance_. L'unica obiezione allo stare dove tutte
 
 le più acute emozioni si incontrano è che non se ne prova nessuna.
 
-In questo senso Pater può [[Well|bene]] rappresentare un sostanziale riassunto della
+In questo senso Pater può [[motifs/well|bene]] rappresentare un sostanziale riassunto della
 
 
 
@@ -10769,17 +10769,17 @@ Swinburne. Like Swinburne and others he first attempted to use mediæval
 
 tradition without trusting it. These people wanted to see Paganism
 
-_through_ [[Christianity]]: because it involved the incidental amusement of
+_through_ [[historical-references/christianity|Christianity]]: because it involved the incidental amusement of
 
-seeing through [[Christianity]] itself. They not only tried to be in all
+seeing through [[historical-references/christianity|Christianity]] itself. They not only tried to be in all
 
-ages at once (which is a very reasonable [[Ambition|ambition]], though not often
+ages at once (which is a very reasonable [[concepts/ambition|ambition]], though not often
 
 realised), but they wanted to be on all sides at once: which is
 
-nonsense. Swinburne tries to question the [[philosophy]] of [[Christianity]] in
+nonsense. Swinburne tries to question the philosophy of [[historical-references/christianity|Christianity]] in
 
-the metres of a Christmas [[carol]]: and [[Dante]] Rossetti tries to write as if
+the metres of a Christmas carol: and [[historical-references/dante|Dante]] Rossetti tries to write as if
 
 he were Christina Rossetti. Certainly the almost successful summit of
 
@@ -10787,15 +10787,15 @@ all this attempt is Pater's superb passage on the Mona Lisa; in which he
 
 seeks to make her at once a mystery of good and a mystery of evil. The
 
-[[philosophy]] is false; even evidently false, for it bears no fruit to-day.
+philosophy is false; even evidently false, for it bears no fruit to-day.
 
-There never was a woman, not Eve herself in the instant of [[Temptation|temptation]],
+There never was a woman, not Eve herself in the instant of [[concepts/temptation|temptation]],
 
-who could smile the same smile as the mother of [[Helen]] and the mother of
+who could smile the same smile as the mother of [[characters/helen|Helen]] and the mother of
 
-Mary. But it is the high-[[Water|water]] mark of that vast attempt at an
+Mary. But it is the high-[[motifs/water|water]] mark of that vast attempt at an
 
-impartiality reached through art: and no other mere [[artist]] ever [[Rose|rose]] so
+impartiality reached through art: and no other mere [[archetypes/artist|artist]] ever [[motifs/rose|rose]] so
 
 high again.
 
@@ -10811,13 +10811,13 @@ popular preacher; a popular novelist; and (in two cases at least) a very
 
 good novelist. His _Water Babies_ is really a breezy and roaring freak;
 
-like a holiday at the seaside--a holiday where one talks natural [[history]]
+like a holiday at the seaside--a holiday where one talks natural [[concepts/history|history]]
 
-without taking it seriously. Some of the [[songs]] in this and other of his
+without taking it seriously. Some of the songs in this and other of his
 
-works are very real [[songs]]: notably, "When all the World is Young, Lad,"
+works are very real songs: notably, "When all the World is Young, Lad,"
 
-which comes very near to being the only true defence of [[Marriage|marriage]] in the
+which comes very near to being the only true defence of [[motifs/marriage|marriage]] in the
 
 controversies of the nineteenth century. But when all this is allowed,
 
@@ -10853,7 +10853,7 @@ liberal _bourgeois_ England of priggishness and provinciality. I mean,
 
 of course, Matthew Arnold. Against Mill's "liberty" and Carlyle's
 
-"strength" and Ruskin's "[[Nature|nature]]," he set up a new presence and entity
+"strength" and Ruskin's "[[concepts/nature|nature]]," he set up a new presence and entity
 
 which he called "culture," the disinterested play of the mind through
 
@@ -10871,7 +10871,7 @@ only right but highly valuable. If we have said that Carlyle was a man
 
 that saw things, we may add that Arnold was chiefly valuable as a man
 
-who knew things. [[Well]] as he was endowed intellectually, his power came
+who knew things. [[motifs/well|Well]] as he was endowed intellectually, his power came
 
 more from information than intellect. He simply happened to know certain
 
@@ -10885,7 +10885,7 @@ the morning after Waterloo. He knew that England was then (as it is now)
 
 an oligarchical State, and that many great nations are not. He knew
 
-that a real [[Democracy|democracy]] need not live and does not live in that perpetual
+that a real [[concepts/democracy|democracy]] need not live and does not live in that perpetual
 
 panic about using the powers of the State, which possessed men like
 
@@ -10893,7 +10893,7 @@ Spencer and Cobden. He knew a rational minimum of culture and common
 
 courtesy could exist and did exist throughout large democracies. He knew
 
-the [[Catholic Church]] had been in [[history]] "the Church of the multitude":
+the [[historical-references/catholic-church|Catholic Church]] had been in [[concepts/history|history]] "the Church of the multitude":
 
 he knew it was not a sect. He knew that great landlords are no more a
 
@@ -10942,33 +10942,33 @@ Swinburne: come lui e altri, inizialmente cercò di utilizzare il medievale
 
 La tradizione senza fidarsi di essa. Queste persone volevano vedere il paganesimo
 
-attraverso il [[Christianity|cristianesimo]]: perché comportava l'intrattenimento occasionale di
+attraverso il [[historical-references/christianity|cristianesimo]]: perché comportava l'intrattenimento occasionale di
 
-vedendo attraverso la stessa [[Christianity|cristianità]]. Non solo cercarono di essere in tutti
+vedendo attraverso la stessa [[historical-references/christianity|cristianità]]. Non solo cercarono di essere in tutti
 
-età contemporaneamente (che è un'[[Ambition|aspirazione]] molto ragionevole, sebbene non frequente
+età contemporaneamente (che è un'[[concepts/ambition|aspirazione]] molto ragionevole, sebbene non frequente
 
-# si resero conto), ma volevano essere ovunque contemporaneamente: il che è
+si resero conto), ma volevano essere ovunque contemporaneamente: il che è
 
-assurdità. Swinburne cerca di mettere in discussione la [[philosophy|filosofia]] del [[Christianity|Cristianesimo]] in
+assurdità. Swinburne cerca di mettere in discussione la filosofia del [[historical-references/christianity|Cristianesimo]] in
 
-i metri di un canto natalizio: e [[Dante|Rossetti]] cerca di scrivere come se fosse [[carol|un canto natalizio]].
+i metri di un canto natalizio: e [[historical-references/dante|Rossetti]] cerca di scrivere come se fosse un canto natalizio.
 
-# Se fosse stata Christina Rossetti. Senza dubbio il quasi riuscito apice di
+Se fosse stata Christina Rossetti. Senza dubbio il quasi riuscito apice di
 
-# Questo tentativo è il superbo passaggio di Pater sulla Gioconda; in cui egli
+Questo tentativo è il superbo passaggio di Pater sulla Gioconda; in cui egli
 
 cerca di renderla al contempo un mistero del bene e un mistero del male.
 
-La [[philosophy|filosofia]] è falsa; anzi, evidentemente falsa, perché oggi non porta alcun frutto.
+La filosofia è falsa; anzi, evidentemente falsa, perché oggi non porta alcun frutto.
 
-Non è mai esistita una donna, nemmeno Eva stessa nell'istante della [[Temptation|tentazione]],
+Non è mai esistita una donna, nemmeno Eva stessa nell'istante della [[concepts/temptation|tentazione]],
 
-chi potrebbe sorridere lo stesso sorriso della madre di [[Helen|Elena]] e della madre di
+chi potrebbe sorridere lo stesso sorriso della madre di [[characters/helen|Elena]] e della madre di
 
 Maria. Ma è il punto più alto di quell'enorme tentativo di un
 
-l'imparzialità raggiunta attraverso l'arte: e nessun altro semplice [[artist|artista]] è mai [[Rose|salito]] così in alto.
+l'imparzialità raggiunta attraverso l'arte: e nessun altro semplice [[archetypes/artist|artista]] è mai [[motifs/rose|salito]] così in alto.
 
 alto di nuovo.
 
@@ -10976,23 +10976,23 @@ A parte questo ramo ruskiniano attraverso il pre-raffaellismo in ciò che
 
 Si chiamava Estetismo, i resti dell'ispirazione di Carlyle riempiono un...
 
-# una parte molto grande nella vita vittoriana, ma non così grande rigorosamente
+una parte molto grande nella vita vittoriana, ma non così grande rigorosamente
 
 Nella letteratura vittoriana: Charles Kingsley, un grande pubblicista
 
 Predicatore popolare; un romanziere popolare; e (almeno in due casi) un uomo molto
 
-# Buon romanziere. I suoi "Bambini d'acqua" sono davvero una fresca e fragorosa stravaganza;
+Buon romanziere. I suoi "Bambini d'acqua" sono davvero una fresca e fragorosa stravaganza;
 
-come una vacanza al mare - una vacanza in cui si parla di [[history|storia]] naturale
+come una vacanza al mare - una vacanza in cui si parla di [[concepts/history|storia]] naturale
 
-senza prendere sul serio. Alcune delle [[songs|canzoni]] in questo e altri suoi
+senza prendere sul serio. Alcune delle canzoni in questo e altri suoi
 
 le opere sono canzoni molto vere: in particolare, “Quando il mondo è giovane, ragazzo,”
 
-che si avvicina molto a essere l'unica vera difesa del [[Marriage|matrimonio]] nel
+che si avvicina molto a essere l'unica vera difesa del [[motifs/marriage|matrimonio]] nel
 
-# Controversie del XIX secolo. Ma anche ammettendo tutto ciò,
+Controversie del XIX secolo. Ma anche ammettendo tutto ciò,
 
 Nessuno classificherà seriamente Kingsley, nel vero senso letterario, tra i
 
@@ -11008,7 +11008,7 @@ Il suo profondo e suggestivo amico metafisico Maurice, che galleggia piuttosto
 
 Verso "The Hibbert Journal". L'influenza morale e sociale di queste...
 
-# Cose da non dimenticare: ma escono dal dominio delle lettere.
+Cose da non dimenticare: ma escono dal dominio delle lettere.
 
 La voce di Carlyle non si sente più nelle lettere fino all'arrivo di...
 
@@ -11016,7 +11016,7 @@ Kipling e Henley.
 
 Un altro nome di grande importanza dovrebbe apparire qui, perché non può
 
-# Apparire molto appropriatamente altrove: l'uomo non apparteneva quasi alla
+Apparire molto appropriatamente altrove: l'uomo non apparteneva quasi alla
 
 Stessa scuola di Ruskin e Carlyle, ma combatté molte delle loro battaglie
 
@@ -11026,7 +11026,7 @@ L'Inghilterra liberale borghese di presunzione e provincialismo. Intendo dire,
 
 Naturalmente, Matthew Arnold. Contro la "libertà" di Mill e Carlyle
 
-con "forza" e la "[[Nature|natura]]" di Ruskin, ha creato una nuova presenza ed entità
+con "forza" e la "[[concepts/nature|natura]]" di Ruskin, ha creato una nuova presenza ed entità
 
 Quello che chiamava "cultura", il gioco disinteressato della mente attraverso
 
@@ -11044,7 +11044,7 @@ Non solo giusto ma estremamente prezioso. Se abbiamo detto che Carlyle era un uo
 
 Quello che vedeva le cose; possiamo aggiungere che Arnold era soprattutto prezioso come uomo
 
-chi sapeva le cose. [[Well|Beh]], dato che era dotato intellettualmente, il suo potere proveniva
+chi sapeva le cose. [[motifs/well|Beh]], dato che era dotato intellettualmente, il suo potere proveniva
 
 Più per informazione che per intelligenza. Semplicemente gli è capitato di conoscere certe cose.
 
@@ -11058,21 +11058,21 @@ La mattina dopo Waterloo. Sapeva che l'Inghilterra era allora (come lo è ora)
 
 Uno Stato oligarchico e che molte grandi nazioni non lo sono. Egli sapeva
 
-che una vera [[Democracy|democrazia]] non ha bisogno di vivere e non vive in quel perpetuo
+che una vera [[concepts/democracy|democrazia]] non ha bisogno di vivere e non vive in quel perpetuo
 
 Panicca per l'uso dei poteri dello Stato da parte di persone come
 
-# Spencer e Cobden: conosceva un minimo razionale di cultura e senso comune
+Spencer e Cobden: conosceva un minimo razionale di cultura e senso comune
 
 La cortesia poteva e poteva esistere in grandi democrazie. Egli sapeva
 
-la [[Catholic Church|Chiesa Cattolica]] era stata nella [[history|storia]] «la Chiesa della moltitudine»:
+la [[historical-references/catholic-church|Chiesa Cattolica]] era stata nella [[concepts/history|storia]] «la Chiesa della moltitudine»:
 
 Sapeva che non era una setta. Sapeva che i grandi proprietari terrieri non sono più di...
 
 Parte della legge economica più dei capisquadra: sapeva che i piccoli proprietari...
 
-# Poteva e prosperava. Non era tanto il filosofo quanto l'uomo di...
+Poteva e prosperava. Non era tanto il filosofo quanto l'uomo di...
 
 Il mondo: ci ha ricordato che l'Europa era una società mentre Ruskin era
 
@@ -11082,7 +11082,7 @@ Il suo attacco frontale all'ottimismo volgare e cupo vittoriano
 
 L'utilità può essere riassunta nella splendida frase con cui chiedeva
 
-# L'inglese: qual era l'utilità di un treno che li portava velocemente da...
+L'inglese: qual era l'utilità di un treno che li portava velocemente da...
 
 Da Islington a Camberwell, se li avesse portati solo "da un luogo triste e
 
@@ -11098,7 +11098,7 @@ sembra aver creduto in una «Chiesa storica», cioè qualcosa
 
 Organizzazione consolidata con cerimonie e libri sacri, ecc., potrebbe
 
-# conservato per sempre come un contenitore spirituale
+conservato per sempre come un contenitore spirituale
 
 Le idee dell'epoca, qualunque esse siano. Egli chiaramente
 
@@ -11113,13 +11113,13 @@ e anche del significato delle parole: ma pensava che ci fosse un certo bisogno i
 
 man would always be best satisfied by public worship and especially by
 
-the great religious literatures of the past. He would embalm the [[Body|body]]
+the great religious literatures of the past. He would embalm the [[concepts/body|body]]
 
-that it might often be revisited by the [[Soul|soul]]--or souls. Something of the
+that it might often be revisited by the [[motifs/soul|soul]]--or souls. Something of the
 
 sort has been suggested by Dr. Coit and others of the ethical societies
 
-in our own [[Time|time]]. But while Arnold would loosen the theological bonds of
+in our own [[motifs/time|time]]. But while Arnold would loosen the theological bonds of
 
 the Church, he would not loosen the official bonds of the State. You
 
@@ -11159,11 +11159,11 @@ sentence, rather than risk ambiguity by abbreviation. His genius showed
 
 itself in turning this method of a laborious lucidity into a peculiarly
 
-exasperating form of [[Satire|satire]] and controversy. Newman's strength was in a
+exasperating form of [[forms/satire|satire]] and controversy. Newman's strength was in a
 
-sort of stifled passion, a dangerous patience of polite [[logic]] and then:
+sort of stifled passion, a dangerous patience of polite logic and then:
 
-"Cowards! if I advanced a step you would run away: it is not you I [[Fear|fear]].
+"Cowards! if I advanced a step you would run away: it is not you I [[concepts/fear|fear]].
 
 _Di me terrent, et Jupiter hostis._" If Newman seemed suddenly to fly
 
@@ -11171,7 +11171,7 @@ into a temper, Carlyle seemed never to fly out of one. But Arnold kept a
 
 smile of heart-broken forbearance, as of the teacher in an idiot school,
 
-that was enormously insulting. One trick he often tried with [[success]]. If
+that was enormously insulting. One trick he often tried with success. If
 
 his opponent had said something foolish, like "the destiny of England is
 
@@ -11179,11 +11179,11 @@ in the great heart of England," Arnold would repeat the phrase again and
 
 again until it looked more foolish than it really was. Thus he recurs
 
-again and again to "the British College of Health in the New [[Road]]" till
+again and again to "the British College of Health in the New [[motifs/road|Road]]" till
 
 the reader wants to rush out and burn the place down. Arnold's great
 
-error was that he sometimes thus wearied us of his own phrases, as [[Well|well]]
+error was that he sometimes thus wearied us of his own phrases, as [[motifs/well|well]]
 
 as of his enemies'.
 
@@ -11191,11 +11191,11 @@ These names are roughly representative of the long series of protests
 
 against the cold commercial rationalism which held Parliament and the
 
-schools through the earlier Victorian [[Time|time]], in so far as those protests
+schools through the earlier Victorian [[motifs/time|time]], in so far as those protests
 
 were made in the name of neglected intellect, insulted art, forgotten
 
-[[Heroism|heroism]] and desecrated religion. But already the Utilitarian citadel had
+[[concepts/heroism|heroism]] and desecrated religion. But already the Utilitarian citadel had
 
 been more heavily bombarded on the other side by one lonely and
 
@@ -11219,7 +11219,7 @@ the mob do not err as to the fact itself; their error is in not seeing
 
 that just as a crowd is comparatively ignorant, so a crowd is
 
-comparatively [[Innocent|innocent]]. It will have the old and human faults; but it is
+comparatively [[archetypes/innocent|innocent]]. It will have the old and human faults; but it is
 
 not likely to specialise in the special faults of that particular
 
@@ -11227,13 +11227,13 @@ society: because the effort of the strong and successful in all ages is
 
 to keep the poor out of society. If the higher castes have developed
 
-some special moral [[Beauty|beauty]] or grace, as they occasionally do (for
+some special moral [[concepts/beauty|beauty]] or grace, as they occasionally do (for
 
 instance, mediæval chivalry), it is likely enough, of course, that the
 
 mass of men will miss it. But if they have developed some perversion or
 
-over-emphasis, as they much more often do (for instance, the [[Renaissance]]
+over-emphasis, as they much more often do (for instance, the [[historical-references/renaissance|Renaissance]]
 
 poisoning), then it will be the tendency of the mass of men to miss that
 
@@ -11249,7 +11249,7 @@ poor are always nearest to heaven.
 
 Dickens was a mob--and a mob in revolt; he fought by the light of
 
-[[Nature|nature]]; he had not a theory, but a thirst. If any one chooses to offer
+[[concepts/nature|nature]]; he had not a theory, but a thirst. If any one chooses to offer
 
 the cheap sarcasm that his thirst was largely a thirst for milk-punch, I
 
@@ -11259,9 +11259,9 @@ sense this is perfectly true. His thirst was for things as humble, as
 
 human, as laughable as that daily bread for which we cry to God. He had
 
-no particular plan of [[Reform|reform]]; or, when he had, it was startlingly petty
+no particular plan of [[concepts/reform|reform]]; or, when he had, it was startlingly petty
 
-and parochial compared with the deep, confused clamour of [[Comradeship|comradeship]]
+and parochial compared with the deep, confused clamour of [[concepts/comradeship|comradeship]]
 
 and insurrection that fills all his narrative. It would not be gravely
 
@@ -11277,20 +11277,20 @@ the economic laws that were working so faultlessly in Fever Alley; the
 
 wealth that was accumulating so rapidly in Bleeding Heart Yard. But,
 
-above all, he didn't like the _mean_ side of the Manchester [[philosophy]]:
+above all, he didn't like the _mean_ side of the Manchester philosophy:
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 l'uomo sarebbe sempre appagato al meglio dal culto pubblico e specialmente dalle
 
-grandi letterature religiose del passato. Egli imbalsamerebbe il [[Body|corpo]]
+grandi letterature religiose del passato. Egli imbalsamerebbe il [[concepts/body|corpo]]
 
-affinché potesse essere spesso rivisitato dall'[[Soul|anima]]—o dalle anime. Qualcosa del
+affinché potesse essere spesso rivisitato dall'[[motifs/soul|anima]]—o dalle anime. Qualcosa del
 
 genere è stato suggerito dal Dr. Coit e da altri delle società etiche
 
-del nostro [[Time|tempo]]. Ma mentre Arnold allenterebbe i vincoli teologici della
+del nostro [[motifs/time|tempo]]. Ma mentre Arnold allenterebbe i vincoli teologici della
 
 Chiesa, non allenterebbe i vincoli ufficiali dello Stato. Non si
 
@@ -11330,11 +11330,11 @@ proposizione, piuttosto che rischiare l'ambiguità con l'abbreviazione. Il suo g
 
 manifestava nel trasformare questo metodo di una laboriosa lucidità in una forma
 
-particolarmente esasperante di [[Satire|satira]] e polemica. La forza di Newman era in una
+particolarmente esasperante di [[forms/satire|satira]] e polemica. La forza di Newman era in una
 
-sorta di passione soffocata, una pericolosa pazienza di cortese [[logic|logica]] e poi:
+sorta di passione soffocata, una pericolosa pazienza di cortese logica e poi:
 
-«Codardi! se avanzassi di un passo scappereste via: non siete voi che [[Fear|temo]].
+«Codardi! se avanzassi di un passo scappereste via: non siete voi che [[concepts/fear|temo]].
 
 _Di me terrent, et Jupiter hostis._» Se Newman sembrava andare all'improvviso
 
@@ -11342,7 +11342,7 @@ in collera, Carlyle non sembrava mai uscirne. Ma Arnold serbava un
 
 sorriso di tolleranza accorata, come del maestro in una scuola per idioti,
 
-che era enormemente offensivo. Un trucco che spesso tentava con [[success|successo]]. Se
+che era enormemente offensivo. Un trucco che spesso tentava con successo. Se
 
 il suo avversario aveva detto qualcosa di sciocco, come «il destino dell'Inghilterra è
 
@@ -11350,11 +11350,11 @@ nel gran cuore dell'Inghilterra», Arnold ripeteva la frase ancora e
 
 ancora finché non appariva più sciocca di quanto realmente fosse. Così ritorna
 
-ancora e ancora al «British College of Health in New [[Road]]» finché
+ancora e ancora al «British College of Health in New [[motifs/road|Road]]» finché
 
 il lettore vuole precipitarsi fuori e dar fuoco al posto. Il grande
 
-errore di Arnold fu che talvolta ci stancava così delle sue proprie frasi, non [[Well|meno]]
+errore di Arnold fu che talvolta ci stancava così delle sue proprie frasi, non [[motifs/well|meno]]
 
 che di quelle dei suoi nemici.
 
@@ -11362,11 +11362,11 @@ Questi nomi sono grossolanamente rappresentativi della lunga serie di proteste
 
 contro il freddo razionalismo commerciale che tenne il Parlamento e le
 
-scuole per tutto il primo [[Time|periodo]] vittoriano, in quanto quelle proteste
+scuole per tutto il primo [[motifs/time|periodo]] vittoriano, in quanto quelle proteste
 
 furono fatte in nome dell'intelletto trascurato, dell'arte insultata, dell'
 
-[[Heroism|eroismo]] dimenticato e della religione profanata. Ma già la cittadella utilitarista era
+[[concepts/heroism|eroismo]] dimenticato e della religione profanata. Ma già la cittadella utilitarista era
 
 stata bombardata più pesantemente dall'altro lato da un solitario e
 
@@ -11390,7 +11390,7 @@ folla non errano quanto al fatto in sé; il loro errore sta nel non vedere
 
 che, così come una moltitudine è relativamente ignorante, così una moltitudine è
 
-relativamente [[Innocent|innocente]]. Avrà gli antichi e umani difetti; ma non è
+relativamente [[archetypes/innocent|innocente]]. Avrà gli antichi e umani difetti; ma non è
 
 probabile che si specializzi nei difetti particolari di quella particolare
 
@@ -11398,7 +11398,7 @@ società: perché lo sforzo dei forti e dei fortunati in ogni epoca è
 
 di tenere i poveri fuori dalla società. Se le caste superiori hanno sviluppato
 
-qualche particolare [[Beauty|bellezza]] o grazia morale, come talvolta fanno (per
+qualche particolare [[concepts/beauty|bellezza]] o grazia morale, come talvolta fanno (per
 
 esempio, la cavalleria medievale), è abbastanza probabile, naturalmente, che la
 
@@ -11406,7 +11406,7 @@ massa degli uomini se la lasci sfuggire. Ma se hanno sviluppato qualche perversi
 
 eccesso, come assai più spesso fanno (per esempio, l'avvelenamento del
 
-[[Renaissance|Rinascimento]]), allora sarà la tendenza della massa degli uomini a lasciarsi sfuggire anche
+[[historical-references/renaissance|Rinascimento]]), allora sarà la tendenza della massa degli uomini a lasciarsi sfuggire anche
 
 quello. Il punto si può porre in molti modi; si può dire, se si vuole, che
 
@@ -11420,7 +11420,7 @@ poveri sono sempre i più vicini al cielo.
 
 Dickens era una folla—e una folla in rivolta; combatté alla luce della
 
-[[Nature|natura]]; non aveva una teoria, ma una sete. Se qualcuno vuole offrire
+[[concepts/nature|natura]]; non aveva una teoria, ma una sete. Se qualcuno vuole offrire
 
 il facile sarcasmo che la sua sete fosse in gran parte sete di ponce al latte, io
 
@@ -11430,9 +11430,9 @@ senso ciò è perfettamente vero. La sua sete era di cose umili, umane e
 
 risibili quanto quel pane quotidiano che imploriamo da Dio. Non aveva
 
-alcun piano particolare di [[Reform|riforma]]; o, quando l'aveva, era sorprendentemente meschino
+alcun piano particolare di [[concepts/reform|riforma]]; o, quando l'aveva, era sorprendentemente meschino
 
-e parrocchiale a paragone del profondo, confuso clamore di [[Comradeship|cameratismo]]
+e parrocchiale a paragone del profondo, confuso clamore di [[concepts/comradeship|cameratismo]]
 
 e insurrezione che riempie tutta la sua narrativa. Non sarebbe gravemente
 
@@ -11448,7 +11448,7 @@ le leggi economiche che funzionavano così impeccabilmente in Fever Alley; la
 
 ricchezza che si accumulava così rapidamente in Bleeding Heart Yard. Ma,
 
-soprattutto, non gli piaceva il lato _gretto_ della [[philosophy|filosofia]] di Manchester:
+soprattutto, non gli piaceva il lato _gretto_ della filosofia di Manchester:
 
 
 
@@ -11489,25 +11489,25 @@ Bethel to which Kit's mother went: he hated it simply as Kit hated it.
 
 Newman could have told him it was hateful, because it had no root in
 
-religious [[history]]; it was not even a sapling sprung of the seed of some
+religious [[concepts/history|history]]; it was not even a sapling sprung of the seed of some
 
 great human and heathen tree: it was a monstrous mushroom that grows in
 
-the moonshine and dies in the [[Dawn|dawn]]. Dickens knew no more of religious
+the moonshine and dies in the [[motifs/dawn|dawn]]. Dickens knew no more of religious
 
-[[history]] than Kit; he simply smelt the fungus, and it stank. Thus, again,
+[[concepts/history|history]] than Kit; he simply smelt the fungus, and it stank. Thus, again,
 
 he hated that insolent luxury of a class counting itself a comfortable
 
-exception to all mankind; he hated it as [[Kate Nickleby]] hated Sir
+exception to all mankind; he hated it as [[characters/kate-nickleby|Kate Nickleby]] hated Sir
 
 Mulberry Hawke--by instinct. Carlyle could have told him that all the
 
 world was full of that anger against the impudent fatness of the few.
 
-But when Dickens wrote about [[Kate Nickleby]], he knew about as much of the
+But when Dickens wrote about [[characters/kate-nickleby|Kate Nickleby]], he knew about as much of the
 
-world--as [[Kate Nickleby]]. He did write _The Tale of Two Cities_ long
+world--as [[characters/kate-nickleby|Kate Nickleby]]. He did write _The Tale of Two Cities_ long
 
 afterwards; but that was when he _had_ been instructed by Carlyle. His
 
@@ -11563,7 +11563,7 @@ appreciating the presence--or the absence--of a particular and positive
 
 pleasure. He had no learning; he was not misled by the label on the
 
-bottle--for that is what learning largely meant in his [[Time|time]]. He opened
+bottle--for that is what learning largely meant in his [[motifs/time|time]]. He opened
 
 his mouth and shut his eyes and saw what the Age of Reason would give
 
@@ -11581,7 +11581,7 @@ not see that Dickens was primarily the most successful of all the
 
 onslaughts on the solid scientific school; because he did not attack
 
-from the standpoint of extraordinary [[Faith|faith]], like Newman; or the
+from the standpoint of extraordinary [[concepts/faith|faith]], like Newman; or the
 
 standpoint of extraordinary inspiration, like Carlyle; or the standpoint
 
@@ -11595,7 +11595,7 @@ educational schemes which he could see spread like a clear railway map
 
 all over the Continent, was much badgered about what he really thought
 
-was _wrong_ with English middle-class [[Education|education]]. Despairing of
+was _wrong_ with English middle-class [[concepts/education|education]]. Despairing of
 
 explaining to the English middle class the idea of high and central
 
@@ -11617,7 +11617,7 @@ sense, Dickens, the great romanticist, is truly the great realist also.
 
 For he had no abstractions: he had nothing except realities out of which
 
-to make a [[Romance|romance]].
+to make a romance.
 
 With Dickens, then, re-arises that reality with which I began and which
 
@@ -11651,11 +11651,11 @@ exaggerations of his enemies or exaggerations of himself. Dickens was
 
 personal in a more godlike sense; he could multiply persons. He could
 
-create all the farce and [[Tragedy|tragedy]] of his age over again, with creatures
+create all the farce and [[forms/tragedy|tragedy]] of his age over again, with creatures
 
-[[unborn]] to sin and creatures [[unborn]] to suffer. That which had not been
+unborn to sin and creatures unborn to suffer. That which had not been
 
-achieved by the fierce facts of Cobbett, the burning [[Dreams|dreams]] of Carlyle,
+achieved by the fierce facts of Cobbett, the burning [[motifs/dreams|dreams]] of Carlyle,
 
 the white-hot proofs of Newman, was really or very nearly achieved by a
 
@@ -11702,25 +11702,25 @@ Bethel a cui andava la madre di Kit: la odiava semplicemente come la odiava Kit.
 
 Newman avrebbe potuto dirgli che era odiosa, perché non aveva radice nella
 
-[[history|storia]] religiosa; non era neppure un arboscello spuntato dal seme di qualche
+[[concepts/history|storia]] religiosa; non era neppure un arboscello spuntato dal seme di qualche
 
 grande albero umano e pagano: era un mostruoso fungo che cresce al
 
-chiaro di luna e muore all'[[Dawn|alba]]. Dickens non ne sapeva di
+chiaro di luna e muore all'[[motifs/dawn|alba]]. Dickens non ne sapeva di
 
-[[history|storia]] religiosa più di Kit; egli semplicemente fiutò il fungo, e puzzava. Così, di nuovo,
+[[concepts/history|storia]] religiosa più di Kit; egli semplicemente fiutò il fungo, e puzzava. Così, di nuovo,
 
 egli odiava quell'insolente lusso di una classe che si riteneva una comoda
 
-eccezione a tutto il genere umano; lo odiava come [[Kate Nickleby]] odiava Sir
+eccezione a tutto il genere umano; lo odiava come [[characters/kate-nickleby|Kate Nickleby]] odiava Sir
 
 Mulberry Hawke—per istinto. Carlyle avrebbe potuto dirgli che tutto il
 
 mondo era pieno di quella collera contro l'impudente pinguedine dei pochi.
 
-Ma quando Dickens scriveva di [[Kate Nickleby]], sapeva del mondo press'a poco
+Ma quando Dickens scriveva di [[characters/kate-nickleby|Kate Nickleby]], sapeva del mondo press'a poco
 
-quanto—[[Kate Nickleby]]. Scrisse bensì _The Tale of Two Cities_ molto
+quanto—[[characters/kate-nickleby|Kate Nickleby]]. Scrisse bensì _The Tale of Two Cities_ molto
 
 tempo dopo; ma fu quando _era_ stato istruito da Carlyle. Il suo
 
@@ -11776,7 +11776,7 @@ apprezzare la presenza—o l'assenza—di un particolare e positivo
 
 piacere. Non aveva dottrina; non si lasciava ingannare dall'etichetta sulla
 
-bottiglia—poiché è questo che la dottrina significava in gran parte nel suo [[Time|tempo]]. Aprì
+bottiglia—poiché è questo che la dottrina significava in gran parte nel suo [[motifs/time|tempo]]. Aprì
 
 la bocca e chiuse gli occhi e vide ciò che l'Età della Ragione gli avrebbe
 
@@ -11794,7 +11794,7 @@ vedessimo che Dickens fu anzitutto il più riuscito di tutti gli
 
 assalti alla solida scuola scientifica; perché egli non attaccò
 
-dal punto di vista di una straordinaria [[Faith|fede]], come Newman; o dal
+dal punto di vista di una straordinaria [[concepts/faith|fede]], come Newman; o dal
 
 punto di vista di una straordinaria ispirazione, come Carlyle; o dal punto di vista
 
@@ -11808,7 +11808,7 @@ piani educativi che vedeva estendersi come una limpida mappa ferroviaria
 
 per tutto il Continente, fu molto assillato su ciò che pensava davvero
 
-ci fosse di _sbagliato_ nell'[[Education|istruzione]] della classe media inglese. Disperando di
+ci fosse di _sbagliato_ nell'[[concepts/education|istruzione]] della classe media inglese. Disperando di
 
 spiegare alla classe media inglese l'idea di un'alta e centrale
 
@@ -11830,7 +11830,7 @@ senso, Dickens, il grande romantico, è davvero anche il grande realista.
 
 Poiché non aveva astrazioni: non aveva nulla se non realtà con cui
 
-fare un [[Romance|romanzo]].
+fare un romanzo.
 
 Con Dickens, dunque, risorge quella realtà con cui ho cominciato e che
 
@@ -11864,11 +11864,11 @@ esagerazioni dei suoi nemici o esagerazioni di sé stesso. Dickens era
 
 personale in un senso più divino; sapeva moltiplicare persone. Sapeva
 
-creare da capo tutta la farsa e la [[Tragedy|tragedia]] della sua età, con creature
+creare da capo tutta la farsa e la [[forms/tragedy|tragedia]] della sua età, con creature
 
-[[unborn|non nate]] a peccare e creature [[unborn|non nate]] a soffrire. Ciò che non era stato
+non nate a peccare e creature non nate a soffrire. Ciò che non era stato
 
-conseguito dai feroci fatti di Cobbett, dai brucianti [[Dreams|sogni]] di Carlyle,
+conseguito dai feroci fatti di Cobbett, dai brucianti [[motifs/dreams|sogni]] di Carlyle,
 
 dalle incandescenti prove di Newman, fu davvero o quasi conseguito da una
 
@@ -11887,17 +11887,17 @@ CHAPTER II
 
 THE GREAT VICTORIAN NOVELISTS
 
-The Victorian [[Novel|novel]] was a thing entirely Victorian; quite unique and
+The Victorian [[forms/novel|novel]] was a thing entirely Victorian; quite unique and
 
-suited to a sort of cosiness in that country and that age. But the [[Novel|novel]]
+suited to a sort of cosiness in that country and that age. But the [[forms/novel|novel]]
 
 itself, though not merely Victorian, is mainly modern. No clear-headed
 
-person wastes his [[Time|time]] over definitions, except where he thinks his own
+person wastes his [[motifs/time|time]] over definitions, except where he thinks his own
 
 definition would probably be in dispute. I merely say, therefore, that
 
-when I say "[[Novel|novel]]," I mean a fictitious narrative (almost invariably,
+when I say "[[forms/novel|novel]]," I mean a fictitious narrative (almost invariably,
 
 but not necessarily, in prose) of which the essential is that the story
 
@@ -11913,11 +11913,11 @@ of the most conspicuous is that it is the art in which the conquests of
 
 woman are quite beyond controversy. The proposition that Victorian women
 
-have done [[Well|well]] in politics and [[philosophy]] is not necessarily an untrue
+have done [[motifs/well|well]] in politics and philosophy is not necessarily an untrue
 
 proposition; but it is a partisan proposition. I never heard that many
 
-women, let [[Alone|alone]] men, shared the views of Mary Wollstonecraft; I never
+women, let alone men, shared the views of Mary Wollstonecraft; I never
 
 heard that millions of believers flocked to the religion tentatively
 
@@ -11953,11 +11953,11 @@ dedicated _Jane Eyre_ to the author of _Vanity Fair_. I should hesitate
 
 to say that Charlotte Brontë's is a better book than Thackeray's, but I
 
-think it might [[Well|well]] be maintained that it is a better story. All sorts
+think it might [[motifs/well|well]] be maintained that it is a better story. All sorts
 
-of inquiring asses (equally ignorant of the old [[Nature|nature]] of woman and the
+of inquiring asses (equally ignorant of the old [[concepts/nature|nature]] of woman and the
 
-new [[Nature|nature]] of the [[Novel|novel]]) whispered wisely that George Eliot's novels
+new [[concepts/nature|nature]] of the [[forms/novel|novel]]) whispered wisely that George Eliot's novels
 
 were really written by George Lewes. I will cheerfully answer for the
 
@@ -11965,23 +11965,23 @@ fact that, if they had been written by George Lewes, no one would ever
 
 have read them. Those who have read his book on Robespierre will have
 
-no [[Doubt|doubt]] about my meaning. I am no idolater of George Eliot; but a man
+no [[concepts/doubt|doubt]] about my meaning. I am no idolater of George Eliot; but a man
 
 who could concoct such a crushing opiate about the most exciting
 
-occasion in [[history]] certainly did not write _The Mill on the Floss_.
+occasion in [[concepts/history|history]] certainly did not write _The Mill on the Floss_.
 
-This is the first fact about the [[Novel|novel]], that it is the introduction of a
+This is the first fact about the [[forms/novel|novel]], that it is the introduction of a
 
 new and rather curious kind of art; and it has been found to be
 
-peculiarly feminine, from the first good [[Novel|novel]] by Fanny Burney to the
+peculiarly feminine, from the first good [[forms/novel|novel]] by Fanny Burney to the
 
-last good [[Novel|novel]] by Miss May Sinclair. The [[Truth|truth]] is, I think, that the
+last good [[forms/novel|novel]] by Miss May Sinclair. The [[concepts/truth|truth]] is, I think, that the
 
-modern [[Novel|novel]] is a new thing; not new in its essence (for that is a
+modern [[forms/novel|novel]] is a new thing; not new in its essence (for that is a
 
-[[philosophy]] for fools), but new in the sense that it lets loose many of
+philosophy for fools), but new in the sense that it lets loose many of
 
 the things that are old. It is a hearty and exhaustive overhauling of
 
@@ -11995,23 +11995,23 @@ specialise in individuals, and be praised for doing so; just as in the
 
 Middle Ages she specialised in dignity and was praised for doing so.
 
-People put the matter wrong when they say that the [[Novel|novel]] is a study of
+People put the matter wrong when they say that the [[forms/novel|novel]] is a study of
 
-human [[Nature|nature]]. Human [[Nature|nature]] is a thing that even men can understand.
+human [[concepts/nature|nature]]. Human [[concepts/nature|nature]] is a thing that even men can understand.
 
-Human [[Nature|nature]] is born of the [[Pain|pain]] of a woman; human [[Nature|nature]] plays at
+Human [[concepts/nature|nature]] is born of the [[motifs/pain|pain]] of a woman; human [[concepts/nature|nature]] plays at
 
-peep-bo when it is two and at cricket when it is twelve; human [[Nature|nature]]
+peep-bo when it is two and at cricket when it is twelve; human [[concepts/nature|nature]]
 
-earns its living and desires the other sex and dies. What the [[Novel|novel]]
+earns its living and desires the other sex and dies. What the [[forms/novel|novel]]
 
 deals with is what women have to deal with; the differentiations, the
 
-twists and turns of this eternal [[River|river]]. The key of this new form of art,
+twists and turns of this eternal [[motifs/river|river]]. The key of this new form of art,
 
 which we call fiction, is sympathy. And sympathy does not mean so much
 
-feeling with all who feel, but rather [[Suffering|suffering]] with all who suffer. And
+feeling with all who feel, but rather [[concepts/suffering|suffering]] with all who suffer. And
 
 it was inevitable, under such an inspiration, that more attention should
 
@@ -12021,7 +12021,7 @@ promising domestic channel dug by the Victorian women, in books like
 
 _Cranford_, by Mrs. Gaskell, would have got to the sea, if they had been
 
-left [[Alone|alone]] to dig it. They might have made domesticity a fairyland.
+left alone to dig it. They might have made domesticity a fairyland.
 
 Unfortunately another idea, the idea of imitating men's cuffs and
 
@@ -12029,7 +12029,7 @@ collars and documents, cut across this purely female discovery and
 
 destroyed it.
 
-It may seem mere praise of the [[Novel|novel]] to say it is the art of sympathy
+It may seem mere praise of the [[forms/novel|novel]] to say it is the art of sympathy
 
 and the study of human variations. But indeed, though this is a good
 
@@ -12041,7 +12041,7 @@ exonerations. Two peasants in the Middle Ages quarrelled about their two
 
 fields. But they went to the same church, served in the same semi-feudal
 
-militia, and had the same [[morality]], which ever might happen to be
+militia, and had the same morality, which ever might happen to be
 
 breaking it at the moment. The very cause of their quarrel was the cause
 
@@ -12056,17 +12056,17 @@ CAPITOLO II
 
 I GRANDI ROMANZIERI VITTORIANI
 
-Il [[Novel|romanzo]] vittoriano fu una cosa interamente vittoriana; del tutto unica e
+Il [[forms/novel|romanzo]] vittoriano fu una cosa interamente vittoriana; del tutto unica e
 
-adatta a una sorta d'intimità di quel paese e di quell'età. Ma il [[Novel|romanzo]]
+adatta a una sorta d'intimità di quel paese e di quell'età. Ma il [[forms/novel|romanzo]]
 
 in sé, per quanto non meramente vittoriano, è principalmente moderno. Nessuna persona
 
-assennata spreca il proprio [[Time|tempo]] in definizioni, tranne quando pensa che la propria
+assennata spreca il proprio [[motifs/time|tempo]] in definizioni, tranne quando pensa che la propria
 
 definizione sarebbe probabilmente contestata. Dico dunque soltanto che,
 
-quando dico «[[Novel|romanzo]]», intendo una narrazione fittizia (quasi sempre,
+quando dico «[[forms/novel|romanzo]]», intendo una narrazione fittizia (quasi sempre,
 
 ma non necessariamente, in prosa) di cui l'essenziale è che la storia
 
@@ -12082,11 +12082,11 @@ delle più cospicue è che è l'arte in cui le conquiste della
 
 donna sono del tutto fuori discussione. La proposizione che le donne vittoriane
 
-abbiano fatto [[Well|bene]] in politica e in [[philosophy|filosofia]] non è necessariamente una proposizione
+abbiano fatto [[motifs/well|bene]] in politica e in filosofia non è necessariamente una proposizione
 
 falsa; ma è una proposizione di parte. Non ho mai sentito che molte
 
-donne, [[Alone|figuriamoci]] gli uomini, condividessero le idee di Mary Wollstonecraft; non ho mai
+donne, figuriamoci gli uomini, condividessero le idee di Mary Wollstonecraft; non ho mai
 
 sentito che milioni di fedeli accorressero alla religione tentativamente
 
@@ -12122,11 +12122,11 @@ dedicò _Jane Eyre_ all'autore di _Vanity Fair_. Esiterei
 
 a dire che quello di Charlotte Brontë sia un libro migliore di quello di Thackeray, ma
 
-credo si possa [[Well|bene]] sostenere che sia una storia migliore. Ogni sorta
+credo si possa [[motifs/well|bene]] sostenere che sia una storia migliore. Ogni sorta
 
-di asini indagatori (ugualmente ignari dell'antica [[Nature|natura]] della donna e della
+di asini indagatori (ugualmente ignari dell'antica [[concepts/nature|natura]] della donna e della
 
-nuova [[Nature|natura]] del [[Novel|romanzo]]) sussurravano saggiamente che i romanzi di George Eliot
+nuova [[concepts/nature|natura]] del [[forms/novel|romanzo]]) sussurravano saggiamente che i romanzi di George Eliot
 
 fossero in realtà scritti da George Lewes. Risponderò allegramente del
 
@@ -12134,23 +12134,23 @@ fatto che, se fossero stati scritti da George Lewes, nessuno li avrebbe mai
 
 letti. Coloro che hanno letto il suo libro su Robespierre non avranno
 
-alcun [[Doubt|dubbio]] sul mio significato. Non sono un idolatra di George Eliot; ma un uomo
+alcun [[concepts/doubt|dubbio]] sul mio significato. Non sono un idolatra di George Eliot; ma un uomo
 
 che poté confezionare un oppiaceo tanto schiacciante sulla più eccitante
 
-occasione della [[history|storia]] certamente non scrisse _The Mill on the Floss_.
+occasione della [[concepts/history|storia]] certamente non scrisse _The Mill on the Floss_.
 
-Questo è il primo fatto riguardo al [[Novel|romanzo]], che esso è l'introduzione di un
+Questo è il primo fatto riguardo al [[forms/novel|romanzo]], che esso è l'introduzione di un
 
 nuovo e piuttosto curioso genere d'arte; e si è scoperto che è
 
-peculiarmente femminile, dal primo buon [[Novel|romanzo]] di Fanny Burney all'
+peculiarmente femminile, dal primo buon [[forms/novel|romanzo]] di Fanny Burney all'
 
-ultimo buon [[Novel|romanzo]] di Miss May Sinclair. La [[Truth|verità]] è, credo, che il
+ultimo buon [[forms/novel|romanzo]] di Miss May Sinclair. La [[concepts/truth|verità]] è, credo, che il
 
-[[Novel|romanzo]] moderno è una cosa nuova; non nuova nella sua essenza (poiché quella è una
+[[forms/novel|romanzo]] moderno è una cosa nuova; non nuova nella sua essenza (poiché quella è una
 
-[[philosophy|filosofia]] da sciocchi), ma nuova nel senso che scioglie molte
+filosofia da sciocchi), ma nuova nel senso che scioglie molte
 
 delle cose che sono antiche. È una cordiale ed esauriente revisione di
 
@@ -12164,23 +12164,23 @@ specializzi negli individui, e sia lodata per averlo fatto; proprio come nel
 
 Medioevo si specializzò nella dignità e fu lodata per averlo fatto.
 
-La gente pone male la questione quando dice che il [[Novel|romanzo]] è uno studio della
+La gente pone male la questione quando dice che il [[forms/novel|romanzo]] è uno studio della
 
-[[Nature|natura]] umana. La [[Nature|natura]] umana è una cosa che persino gli uomini possono comprendere.
+[[concepts/nature|natura]] umana. La [[concepts/nature|natura]] umana è una cosa che persino gli uomini possono comprendere.
 
-La [[Nature|natura]] umana nasce dal [[Pain|dolore]] di una donna; la [[Nature|natura]] umana gioca a
+La [[concepts/nature|natura]] umana nasce dal [[motifs/pain|dolore]] di una donna; la [[concepts/nature|natura]] umana gioca a
 
-cucù quando ha due anni e a cricket quando ne ha dodici; la [[Nature|natura]] umana
+cucù quando ha due anni e a cricket quando ne ha dodici; la [[concepts/nature|natura]] umana
 
-si guadagna da vivere e desidera l'altro sesso e muore. Ciò di cui il [[Novel|romanzo]]
+si guadagna da vivere e desidera l'altro sesso e muore. Ciò di cui il [[forms/novel|romanzo]]
 
 si occupa è ciò di cui le donne devono occuparsi; le differenziazioni, le
 
-svolte e i giri di questo eterno [[River|fiume]]. La chiave di questa nuova forma d'arte,
+svolte e i giri di questo eterno [[motifs/river|fiume]]. La chiave di questa nuova forma d'arte,
 
 che chiamiamo narrativa, è la simpatia. E simpatia non significa tanto
 
-sentire con tutti coloro che sentono, quanto piuttosto [[Suffering|soffrire]] con tutti coloro che soffrono. E
+sentire con tutti coloro che sentono, quanto piuttosto [[concepts/suffering|soffrire]] con tutti coloro che soffrono. E
 
 era inevitabile, sotto una tale ispirazione, che maggiore attenzione fosse
 
@@ -12190,7 +12190,7 @@ promettentissimo canale domestico scavato dalle donne vittoriane, in libri come
 
 _Cranford_, di Mrs. Gaskell, sarebbe giunto al mare, se le si fosse
 
-lasciate [[Alone|sole]] a scavarlo. Avrebbero potuto fare della domesticità un paese delle fate.
+lasciate sole a scavarlo. Avrebbero potuto fare della domesticità un paese delle fate.
 
 Sfortunatamente un'altra idea, l'idea di imitare i polsini e i
 
@@ -12198,7 +12198,7 @@ colletti e i documenti degli uomini, tagliò trasversalmente questa scoperta pur
 
 distrusse.
 
-Può sembrare mera lode del [[Novel|romanzo]] dire che è l'arte della simpatia
+Può sembrare mera lode del [[forms/novel|romanzo]] dire che è l'arte della simpatia
 
 e lo studio delle variazioni umane. Ma in verità, per quanto ciò sia una buona
 
@@ -12210,7 +12210,7 @@ assoluzioni. Due contadini nel Medioevo litigavano per i loro due
 
 campi. Ma andavano alla stessa chiesa, servivano nella stessa milizia semi-feudale,
 
-e avevano la stessa [[morality|moralità]], quale che fosse in quel momento a
+e avevano la stessa moralità, quale che fosse in quel momento a
 
 infrangerla. La causa stessa della loro lite era la causa
 
@@ -12223,7 +12223,7 @@ astemio che desiderasse l'abolizione del luppolo in entrambe le fattorie; si sup
 <span class="atom-split" data-atom="chapter_02--part_02" data-title="Victorian Age — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/innocent,archetype/lover,motif/death,motif/nightingale,motif/time,motif/well,concept/democracy,concept/doubt,concept/eternity,form/novel,form/tragedy,histref/renaissance,setting/oxford"></span>
 
 
-other a [[vegetarian]] who desired the abolition of chickens on both farms:
+other a vegetarian who desired the abolition of chickens on both farms:
 
 and it is at once apparent that a quarrel of quite a different kind
 
@@ -12237,15 +12237,15 @@ positive religion. Man is merely man only when he is seen against the
 
 sky. If he is seen against any landscape, he is only a man of that land.
 
-If he is seen against any [[house]], he is only a householder. Only where
+If he is seen against any house, he is only a householder. Only where
 
-[[Death|death]] and [[Eternity|eternity]] are intensely present can human beings fully feel
+[[motifs/death|death]] and [[concepts/eternity|eternity]] are intensely present can human beings fully feel
 
 their fellowship. Once the divine darkness against which we stand is
 
 really dismissed from the mind (as it was very nearly dismissed in the
 
-Victorian [[Time|time]]) the differences between human beings become
+Victorian [[motifs/time|time]]) the differences between human beings become
 
 overpoweringly plain; whether they are expressed in the high caricatures
 
@@ -12253,7 +12253,7 @@ of Dickens or the low lunacies of Zola.
 
 This can be seen in a sort of picture in the Prologue of the _Canterbury
 
-Tales_; which is already pregnant with the promise of the English [[Novel|novel]].
+Tales_; which is already pregnant with the promise of the English [[forms/novel|novel]].
 
 The characters there are at once graphically and delicately
 
@@ -12261,7 +12261,7 @@ differentiated; the Doctor with his rich cloak, his careful meals, his
 
 coldness to religion; the Franklin, whose white beard was so fresh that
 
-it recalled the daisies, and in whose [[house]] it snowed meat and drink;
+it recalled the daisies, and in whose house it snowed meat and drink;
 
 the Summoner, from whose fearful face, like a red cherub's, the children
 
@@ -12269,9 +12269,9 @@ fled, and who wore a garland like a hoop; the Miller with his short red
 
 hair and bagpipes and brutal head, with which he could break down a
 
-door; the [[Lover]] who was as sleepless as a [[Nightingale|nightingale]]; the Knight, the
+door; the [[archetypes/lover|Lover]] who was as sleepless as a [[motifs/nightingale|nightingale]]; the Knight, the
 
-Cook, the Clerk of [[Oxford]]. Pendennis or the Cook, M. Mirabolant, is
+Cook, the Clerk of [[settings/oxford|Oxford]]. Pendennis or the Cook, M. Mirabolant, is
 
 nowhere so vividly varied by a few merely verbal strokes. But the great
 
@@ -12295,7 +12295,7 @@ d'Ivry and Warrington and Captain Blackball and Lady Kew travel,
 
 laughing and telling tales together?
 
-The growth of the [[Novel|novel]], therefore, must not be too easily called an
+The growth of the [[forms/novel|novel]], therefore, must not be too easily called an
 
 increase in the interest in humanity. It is an increase in the interest
 
@@ -12303,15 +12303,15 @@ in the things in which men differ; much fuller and finer work had been
 
 done before about the things in which they agree. And this intense
 
-interest in variety had its bad side as [[Well|well]] as its good; it has rather
+interest in variety had its bad side as [[motifs/well|well]] as its good; it has rather
 
 increased social distinctions in a serious and spiritual sense. Most of
 
-the oblivion of [[Democracy|democracy]] is due to the oblivion of [[Death|death]]. But in its
+the oblivion of [[concepts/democracy|democracy]] is due to the oblivion of [[motifs/death|death]]. But in its
 
 own manner and measure, it was a real advance and experiment of the
 
-European mind, like the public art of the [[Renaissance]] or the fairyland
+European mind, like the public art of the [[historical-references/renaissance|Renaissance]] or the fairyland
 
 of physical science explored in the nineteenth century. It was a more
 
@@ -12327,11 +12327,11 @@ the great women writers that explains another very arresting and
 
 important fact about the emergence of genuinely Victorian fiction. It
 
-had been by this [[Time|time]] decided, by the powers that had influence (and by
+had been by this [[motifs/time|time]] decided, by the powers that had influence (and by
 
 public opinion also, at least in the middle-class sense), that certain
 
-verbal limits must be set to such literature. The [[Novel|novel]] must be what
+verbal limits must be set to such literature. The [[forms/novel|novel]] must be what
 
 some would call pure and others would call prudish; but what is not,
 
@@ -12349,7 +12349,7 @@ very properly the right to deal with shameful passions and suggest their
 
 shameful culminations; Scott sometimes dealt with ideas positively
 
-horrible--as in that grand Glenallan [[Tragedy|tragedy]] which is as appalling as
+horrible--as in that grand Glenallan [[forms/tragedy|tragedy]] which is as appalling as
 
 the _OEdipus_ or _The Cenci_. None of these great men would have
 
@@ -12369,7 +12369,7 @@ claimed in repeating the senile ecstasies of Gride (let us say) over his
 
 purchased bride: but Dickens does not leave the reader in the faintest
 
-[[Doubt|doubt]] about what sort of feelings they were; nor is there any reason why
+[[concepts/doubt|doubt]] about what sort of feelings they were; nor is there any reason why
 
 he should. Thackeray would not have described the toilet details of the
 
@@ -12381,7 +12381,7 @@ But though the great Victorian novelists would not have permitted the
 
 impudence of the suggestion that every part of their problem must be
 
-wholesome and [[Innocent|innocent]] in itself, it is still tenable (I do not say it
+wholesome and [[archetypes/innocent|innocent]] in itself, it is still tenable (I do not say it
 
 is certain) that by yielding to the Philistines on this verbal
 
@@ -12394,7 +12394,7 @@ pure harm. This is the simple point that, nine times out of ten, the
 
 <span class="qlang-split" data-lang="it"></span>
 
-altro un [[vegetarian|vegetariano]] che desiderasse l'abolizione dei polli in entrambe le fattorie:
+altro un vegetariano che desiderasse l'abolizione dei polli in entrambe le fattorie:
 
 ed è subito evidente che comincerebbe una lite di tutt'altro
 
@@ -12408,15 +12408,15 @@ religione positiva. L'uomo è semplicemente uomo solo quando lo si vede contro i
 
 cielo. Se lo si vede contro un qualsiasi paesaggio, è solo un uomo di quella terra.
 
-Se lo si vede contro una qualsiasi [[house|casa]], è solo un capofamiglia. Solo dove
+Se lo si vede contro una qualsiasi casa, è solo un capofamiglia. Solo dove
 
-la [[Death|morte]] e l'[[Eternity|eternità]] sono intensamente presenti gli esseri umani possono sentire appieno
+la [[motifs/death|morte]] e l'[[concepts/eternity|eternità]] sono intensamente presenti gli esseri umani possono sentire appieno
 
 il loro cameratismo. Una volta che l'oscurità divina contro cui ci ergiamo è
 
 davvero scacciata dalla mente (come fu quasi del tutto scacciata nel
 
-[[Time|periodo]] vittoriano) le differenze tra gli esseri umani diventano
+[[motifs/time|periodo]] vittoriano) le differenze tra gli esseri umani diventano
 
 prepotentemente evidenti; siano esse espresse nelle alte caricature
 
@@ -12424,7 +12424,7 @@ di Dickens o nelle basse follie di Zola.
 
 Ciò si può vedere in una sorta di quadro nel Prologo dei _Canterbury
 
-Tales_; che è già gravido della promessa del [[Novel|romanzo]] inglese.
+Tales_; che è già gravido della promessa del [[forms/novel|romanzo]] inglese.
 
 I personaggi vi sono a un tempo graficamente e delicatamente
 
@@ -12432,7 +12432,7 @@ differenziati; il Medico col suo ricco mantello, i suoi pasti accurati, la sua
 
 freddezza verso la religione; il Franklin, la cui barba bianca era così fresca che
 
-richiamava le margherite, e nella cui [[house|casa]] nevicavano carne e bevande;
+richiamava le margherite, e nella cui casa nevicavano carne e bevande;
 
 l'Accusatore, dalla cui faccia spaventosa, come di rosso cherubino, i bambini
 
@@ -12440,9 +12440,9 @@ fuggivano, e che portava una ghirlanda come un cerchio; il Mugnaio coi suoi cort
 
 capelli e la cornamusa e la testa brutale, con cui poteva sfondare una
 
-porta; l'[[Lover|Amante]] insonne come un [[Nightingale|usignolo]]; il Cavaliere, il
+porta; l'[[archetypes/lover|Amante]] insonne come un [[motifs/nightingale|usignolo]]; il Cavaliere, il
 
-Cuoco, il Chierico di [[Oxford]]. Pendennis o il Cuoco, M. Mirabolant, non è
+Cuoco, il Chierico di [[settings/oxford|Oxford]]. Pendennis o il Cuoco, M. Mirabolant, non è
 
 in nessun luogo così vividamente variato da pochi tratti meramente verbali. Ma la grande
 
@@ -12466,7 +12466,7 @@ d'Ivry e Warrington e il capitano Blackball e Lady Kew,
 
 ridendo e raccontandosi storie insieme?
 
-La crescita del [[Novel|romanzo]], perciò, non deve essere troppo facilmente definita un
+La crescita del [[forms/novel|romanzo]], perciò, non deve essere troppo facilmente definita un
 
 accrescimento dell'interesse per l'umanità. È un accrescimento dell'interesse
 
@@ -12474,15 +12474,15 @@ per le cose in cui gli uomini differiscono; un'opera assai più piena e più fin
 
 fatta prima intorno alle cose in cui essi concordano. E questo intenso
 
-interesse per la varietà ebbe il suo lato cattivo [[Well|oltre]] che quello buono; ha piuttosto
+interesse per la varietà ebbe il suo lato cattivo [[motifs/well|oltre]] che quello buono; ha piuttosto
 
 accresciuto le distinzioni sociali in senso serio e spirituale. Gran parte
 
-dell'oblio della [[Democracy|democrazia]] è dovuta all'oblio della [[Death|morte]]. Ma a suo
+dell'oblio della [[concepts/democracy|democrazia]] è dovuta all'oblio della [[motifs/death|morte]]. Ma a suo
 
 modo e nella sua misura, fu un reale progresso ed esperimento della
 
-mente europea, come l'arte pubblica del [[Renaissance|Rinascimento]] o il paese delle fate
+mente europea, come l'arte pubblica del [[historical-references/renaissance|Rinascimento]] o il paese delle fate
 
 della scienza fisica esplorato nell'Ottocento. Fu un beneficio più
 
@@ -12498,11 +12498,11 @@ grandi scrittrici che spiega un altro fatto assai avvincente e
 
 importante circa l'emergere di una narrativa genuinamente vittoriana. Era
 
-stato ormai per quel [[Time|tempo]] deciso, dai poteri che avevano influenza (e dall'
+stato ormai per quel [[motifs/time|tempo]] deciso, dai poteri che avevano influenza (e dall'
 
 opinione pubblica pure, almeno nel senso della classe media), che certi
 
-limiti verbali dovessero essere posti a tale letteratura. Il [[Novel|romanzo]] doveva essere ciò che
+limiti verbali dovessero essere posti a tale letteratura. Il [[forms/novel|romanzo]] doveva essere ciò che
 
 alcuni chiamerebbero puro e altri chiamerebbero pudibondo; ma che non è,
 
@@ -12520,7 +12520,7 @@ assai giustamente il diritto di trattare passioni vergognose e di suggerirne i
 
 vergognosi culmini; Scott talvolta trattò idee positivamente
 
-orribili—come in quella grandiosa [[Tragedy|tragedia]] di Glenallan che è spaventosa quanto
+orribili—come in quella grandiosa [[forms/tragedy|tragedia]] di Glenallan che è spaventosa quanto
 
 l'_Edipo_ o _The Cenci_. Nessuno di questi grandi uomini avrebbe
 
@@ -12540,7 +12540,7 @@ rivendicare nel riferire le estasi senili di Gride (poniamo) sulla sua
 
 sposa comprata: ma Dickens non lascia il lettore nel più tenue
 
-[[Doubt|dubbio]] su quale sorta di sentimenti fossero; né c'è alcuna ragione per cui
+[[concepts/doubt|dubbio]] su quale sorta di sentimenti fossero; né c'è alcuna ragione per cui
 
 dovrebbe esserci. Thackeray non avrebbe descritto i dettagli di toeletta dei
 
@@ -12552,7 +12552,7 @@ Ma benché i grandi romanzieri vittoriani non avrebbero permesso l'
 
 impudenza della pretesa che ogni parte del loro problema dovesse essere
 
-salubre e [[Innocent|innocente]] in sé, è ancora sostenibile (non dico che sia
+salubre e [[archetypes/innocent|innocente]] in sé, è ancora sostenibile (non dico che sia
 
 certo) che, cedendo ai Filistei su questo compromesso
 
@@ -12571,7 +12571,7 @@ coarse word is the word that condemns an evil and the refined word the
 
 word that excuses it. A common evasion, for instance, substitutes for
 
-the word that brands [[Self|self]]-sale as the essential sin, a word which weakly
+the word that brands [[concepts/self|self]]-sale as the essential sin, a word which weakly
 
 suggests that it is no more wicked than walking down the street. The
 
@@ -12589,9 +12589,9 @@ purity of the Victorian Age, that the age ended (save for the bursting
 
 of a single scandal) in a thing being everywhere called "Art," "The
 
-Greek Spirit," "The Platonic Ideal" and so on--which any navvy [[mending]]
+Greek Spirit," "The Platonic Ideal" and so on--which any navvy mending
 
-the [[Road|road]] outside would have stamped with a word as vile and as vulgar as
+the [[motifs/road|road]] outside would have stamped with a word as vile and as vulgar as
 
 it deserved.
 
@@ -12617,7 +12617,7 @@ limited. It could be content with nothing less than the whole cosmos:
 
 yet the cosmos with which it was content was small. It is false to say
 
-it was without [[Humour|humour]]: yet there was something by instinct unsmiling in
+it was without humour: yet there was something by instinct unsmiling in
 
 it. It was always saying solidly that things were "enough"; and proving
 
@@ -12635,13 +12635,13 @@ I begin with this great woman of letters for both the two reasons
 
 already mentioned. She represents the rationalism of the old Victorian
 
-Age at its highest. She and Mill are like two great [[Mountains|mountains]] at the end
+Age at its highest. She and Mill are like two great [[settings/mountains|mountains]] at the end
 
 of that long, hard chain which is the watershed of the Early Victorian
 
-[[Time|time]]. They [[Alone|alone]] rise high enough to be confused among the clouds--or
+[[motifs/time|time]]. They alone rise high enough to be confused among the clouds--or
 
-perhaps confused among the [[Stars|stars]]. They certainly were seeking [[Truth|truth]], as
+perhaps confused among the [[motifs/stars|stars]]. They certainly were seeking [[concepts/truth|truth]], as
 
 Newman and Carlyle were; the slow slope of the later Victorian vulgarity
 
@@ -12649,9 +12649,9 @@ does not lower their precipice and pinnacle. But I begin with this name
 
 also because it emphasises the idea of modern fiction as a fresh and
 
-largely a female thing. The [[Novel|novel]] of the nineteenth century was female;
+largely a female thing. The [[forms/novel|novel]] of the nineteenth century was female;
 
-as fully as the [[Novel|novel]] of the eighteenth century was male. It is quite
+as fully as the [[forms/novel|novel]] of the eighteenth century was male. It is quite
 
 certain that no woman could have written _Roderick Random_. It is not
 
@@ -12663,7 +12663,7 @@ George Eliot began to write.
 
 Her originals and even her contemporaries had shown the feminine power
 
-in fiction as [[Well|well]] or better than she. Charlotte Brontë, understood
+in fiction as [[motifs/well|well]] or better than she. Charlotte Brontë, understood
 
 along her own instincts, was as great; Jane Austen was greater. The
 
@@ -12689,7 +12689,7 @@ One of the characteristics of the central Victorian spirit was a
 
 tendency to substitute a certain more or less satisfied seriousness for
 
-the extremes of [[Tragedy|tragedy]] and [[Comedy|comedy]]. This is marked by a certain change
+the extremes of [[forms/tragedy|tragedy]] and [[forms/comedy|comedy]]. This is marked by a certain change
 
 in George Eliot; as it is marked by a certain limitation or moderation
 
@@ -12697,7 +12697,7 @@ in Dickens. Dickens was the People, as it was in the eighteenth century
 
 and still largely is, in spite of all the talk for and against Board
 
-School [[Education]]: comic, tragic, realistic, free-spoken, far looser in
+School [[concepts/education|Education]]: comic, tragic, realistic, free-spoken, far looser in
 
 words than in deeds. It marks the silent strength and pressure of the
 
@@ -12715,7 +12715,7 @@ the same popular realities: and her first books (at least as compared
 
 with her latest) were full of sound fun and bitter pathos. Mr. Max
 
-Beerbohm has remarked (in his glorious [[Essay|essay]] called _Ichabod_, I think),
+Beerbohm has remarked (in his glorious [[forms/essay|essay]] called _Ichabod_, I think),
 
 that Silas Marner would not have forgotten his miserliness if George
 
@@ -12727,7 +12727,7 @@ means anything more than a cold calculation of the chances, if there is
 
 in it, as I believe, any deeper idea of detaching the spirit of life
 
-from the dull obstacles of life, of permitting human [[Nature|nature]] really to
+from the dull obstacles of life, of permitting human [[concepts/nature|nature]] really to
 
 reveal itself as human, if (to put it shortly) literature has anything
 
@@ -12735,7 +12735,7 @@ on earth to do with being _interesting_--then I think we would rather
 
 have a few more Marners than that rich maturity that gave us the
 
-analysed [[Dust|dust]]-heaps of _Daniel Deronda_.
+analysed [[motifs/dust|dust]]-heaps of _Daniel Deronda_.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -12744,7 +12744,7 @@ parola volgare è la parola che condanna un male e la parola raffinata la
 
 parola che lo scusa. Una comune evasione, per esempio, sostituisce alla
 
-parola che bolla la vendita di [[Self|sé]] come il peccato essenziale, una parola che debolmente
+parola che bolla la vendita di [[concepts/self|sé]] come il peccato essenziale, una parola che debolmente
 
 suggerisce che non è più malvagia che camminare per strada. Il
 
@@ -12762,9 +12762,9 @@ purezza dell'età vittoriana, che l'età si concluse (salvo lo scoppio
 
 di un solo scandalo) col vedere una cosa chiamata ovunque «Arte», «Lo
 
-Spirito greco», «L'Ideale platonico» e così via—che un qualsiasi sterratore che [[mending|riparava]]
+Spirito greco», «L'Ideale platonico» e così via—che un qualsiasi sterratore che riparava
 
-la [[Road|strada]] fuori avrebbe bollato con una parola vile e volgare quanto
+la [[motifs/road|strada]] fuori avrebbe bollato con una parola vile e volgare quanto
 
 meritava.
 
@@ -12790,7 +12790,7 @@ limitato. Non poteva accontentarsi di nulla di meno dell'intero cosmo:
 
 eppure il cosmo di cui si accontentava era piccolo. È falso dire
 
-che fosse privo di [[Humour|umorismo]]: eppure c'era per istinto qualcosa di non sorridente in
+che fosse privo di umorismo: eppure c'era per istinto qualcosa di non sorridente in
 
 esso. Diceva sempre solidamente che le cose erano «sufficienti»; e provava
 
@@ -12808,13 +12808,13 @@ Comincio con questa grande donna di lettere per entrambe le due ragioni
 
 già menzionate. Ella rappresenta il razionalismo della vecchia età
 
-vittoriana al suo culmine. Lei e Mill sono come due grandi [[Mountains|montagne]] all'estremità
+vittoriana al suo culmine. Lei e Mill sono come due grandi [[settings/mountains|montagne]] all'estremità
 
 di quella lunga, dura catena che è lo spartiacque del primo
 
-[[Time|periodo]] vittoriano. Essi [[Alone|soli]] si levano abbastanza alti da confondersi tra le nubi—o
+[[motifs/time|periodo]] vittoriano. Essi soli si levano abbastanza alti da confondersi tra le nubi—o
 
-forse confusi tra le [[Stars|stelle]]. Cercavano certamente la [[Truth|verità]], come
+forse confusi tra le [[motifs/stars|stelle]]. Cercavano certamente la [[concepts/truth|verità]], come
 
 la cercavano Newman e Carlyle; il lento pendio della più tarda volgarità vittoriana
 
@@ -12822,9 +12822,9 @@ non abbassa il loro precipizio e il loro pinnacolo. Ma comincio con questo nome
 
 anche perché sottolinea l'idea della narrativa moderna come cosa fresca e
 
-in gran parte femminile. Il [[Novel|romanzo]] dell'Ottocento fu femminile;
+in gran parte femminile. Il [[forms/novel|romanzo]] dell'Ottocento fu femminile;
 
-tanto pienamente quanto il [[Novel|romanzo]] del Settecento fu maschile. È del tutto
+tanto pienamente quanto il [[forms/novel|romanzo]] del Settecento fu maschile. È del tutto
 
 certo che nessuna donna avrebbe potuto scrivere _Roderick Random_. Non è
 
@@ -12836,7 +12836,7 @@ George Eliot cominciò a scrivere.
 
 Le sue antesignane e persino le sue contemporanee avevano mostrato la potenza femminile
 
-nella narrativa [[Well|tanto]] bene o meglio di lei. Charlotte Brontë, intesa
+nella narrativa [[motifs/well|tanto]] bene o meglio di lei. Charlotte Brontë, intesa
 
 secondo i suoi propri istinti, fu altrettanto grande; Jane Austen fu più grande. La
 
@@ -12862,7 +12862,7 @@ Una delle caratteristiche del centrale spirito vittoriano era una
 
 tendenza a sostituire una certa serietà più o meno soddisfatta agli
 
-estremi della [[Tragedy|tragedia]] e della [[Comedy|commedia]]. Ciò è segnato da un certo mutamento
+estremi della [[forms/tragedy|tragedia]] e della [[forms/comedy|commedia]]. Ciò è segnato da un certo mutamento
 
 in George Eliot; come è segnato da una certa limitazione o moderazione
 
@@ -12870,7 +12870,7 @@ in Dickens. Dickens era il Popolo, quale era nel Settecento
 
 e ancora in gran parte è, malgrado tutte le chiacchiere pro e contro l'istruzione delle Board
 
-School [[Education|pubbliche]]: comico, tragico, realistico, di linguaggio libero, assai più sciolto nelle
+School [[concepts/education|pubbliche]]: comico, tragico, realistico, di linguaggio libero, assai più sciolto nelle
 
 parole che nei fatti. Segna la silenziosa forza e pressione dello
 
@@ -12888,7 +12888,7 @@ delle stesse realtà popolari: e i suoi primi libri (almeno a paragone
 
 con gli ultimi) erano pieni di sano spasso e di amaro pathos. Il signor Max
 
-Beerbohm ha osservato (nel suo glorioso [[Essay|saggio]] intitolato _Ichabod_, credo),
+Beerbohm ha osservato (nel suo glorioso [[forms/essay|saggio]] intitolato _Ichabod_, credo),
 
 che Silas Marner non avrebbe dimenticato la propria avarizia se George
 
@@ -12900,7 +12900,7 @@ significa qualcosa di più di un freddo calcolo delle probabilità, se c'è
 
 in essa, come credo, una qualche più profonda idea di distaccare lo spirito della vita
 
-dai grigi ostacoli della vita, di permettere alla [[Nature|natura]] umana di davvero
+dai grigi ostacoli della vita, di permettere alla [[concepts/nature|natura]] umana di davvero
 
 rivelarsi come umana, se (per dirla in breve) la letteratura ha qualcosa
 
@@ -12908,14 +12908,14 @@ al mondo a che fare con l'essere _interessante_—allora credo che preferiremmo
 
 avere qualche Marner in più di quella ricca maturità che ci diede i
 
-analizzati cumuli di [[Dust|polvere]] di _Daniel Deronda_.
+analizzati cumuli di [[motifs/dust|polvere]] di _Daniel Deronda_.
 
 
 
 <span class="atom-split" data-atom="chapter_02--part_04" data-title="Victorian Age — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/blood,motif/nature,motif/river,motif/time,concept/history,concept/melancholy,concept/nature,concept/truth,form/comedy,form/history,form/satire,character/paul_emanuel,character/robert_moore"></span>
 
 
-In her best novels there is real [[Humour|humour]], of a cool sparkling sort; there
+In her best novels there is real humour, of a cool sparkling sort; there
 
 is a strong sense of substantial character that has not yet degenerated
 
@@ -12927,9 +12927,9 @@ indescribable thing called _glamour_; which was the whole stock-in-trade
 
 of the Brontës, which we feel in Dickens when Quilp clambers amid rotten
 
-wood by the desolate [[River|river]]; and even in Thackeray when Esmond with his
+wood by the desolate [[motifs/river|river]]; and even in Thackeray when Esmond with his
 
-[[Melancholy|melancholy]] eyes wanders like some swarthy crow about the dismal avenues
+[[concepts/melancholy|melancholy]] eyes wanders like some swarthy crow about the dismal avenues
 
 of Castlewood. Of this quality (which some have called, but hastily, the
 
@@ -12967,13 +12967,13 @@ can easily be seen by comparing her with a greater woman who died before
 
 the beginning of our present problem. Jane Austen was born before those
 
-bonds which (we are told) protected woman from [[Truth|truth]], were burst by the
+bonds which (we are told) protected woman from [[concepts/truth|truth]], were burst by the
 
 Brontës or elaborately untied by George Eliot. Yet the fact remains that
 
 Jane Austen knew much more about men than either of them. Jane Austen
 
-may have been protected from [[Truth|truth]]: but it was precious little of [[Truth|truth]]
+may have been protected from [[concepts/truth|truth]]: but it was precious little of [[concepts/truth|truth]]
 
 that was protected from her. When Darcy, in finally confessing his
 
@@ -12993,11 +12993,11 @@ nationalities.
 
 The Brontës suggest themselves here; because their superficial
 
-qualities, the qualities that can be seized upon in [[Satire|satire]], were in this
+qualities, the qualities that can be seized upon in [[forms/satire|satire]], were in this
 
 an exaggeration of what was, in George Eliot, hardly more than an
 
-omission. There was perhaps a [[Time|time]] when Mr. Rawjester was more widely
+omission. There was perhaps a [[motifs/time|time]] when Mr. Rawjester was more widely
 
 known than Mr. Rochester. And certainly Mr. Rochester (to adopt the
 
@@ -13019,9 +13019,9 @@ novelists make the men bully the women?" It is, I think, unquestionably
 
 true that the Brontës treated the male as an almost anarchic thing
 
-coming in from outside [[Nature|nature]]; much as people on this planet regard a
+coming in from outside [[concepts/nature|nature]]; much as people on this planet regard a
 
-comet. Even the really delicate and sustained [[Comedy|comedy]] of [[Paul Emanuel]] is
+comet. Even the really delicate and sustained [[forms/comedy|comedy]] of [[characters/paul-emanuel|Paul Emanuel]] is
 
 not quite free from this air of studying something alien. The reply may
 
@@ -13031,9 +13031,9 @@ is probably just.
 
 What the Brontës really brought into fiction was exactly what Carlyle
 
-brought into [[history]]; the blast of the mysticism of the North. They were
+brought into [[concepts/history|history]]; the blast of the mysticism of the North. They were
 
-of Irish [[Blood|blood]] settled on the windy heights of Yorkshire; in that
+of Irish [[motifs/blood|blood]] settled on the windy heights of Yorkshire; in that
 
 country where Catholicism lingered latest, but in a superstitious form;
 
@@ -13059,11 +13059,11 @@ rather as the Late Victorian Imperialism would have been to Mrs. Humphry
 
 Ward in the centre of the empire and to Miss Olive Schreiner at the edge
 
-of it. The real strength there is in characters like [[Robert Moore]], when
+of it. The real strength there is in characters like [[characters/robert-moore|Robert Moore]], when
 
-he is dealing with anything except women, is the [[Romance|romance]] of industry in
+he is dealing with anything except women, is the romance of industry in
 
-its first advance: a [[Romance|romance]] that has not remained. On such fighting
+its first advance: a romance that has not remained. On such fighting
 
 frontiers people always exaggerate the strong qualities the masculine
 
@@ -13086,7 +13086,7 @@ had known her, apart from her works. She must have been something more
 
 <span class="qlang-split" data-lang="it"></span>
 
-Nei suoi romanzi migliori c'è vero [[Humour|umorismo]], di una specie fresca e scintillante; c'è
+Nei suoi romanzi migliori c'è vero umorismo, di una specie fresca e scintillante; c'è
 
 un forte senso del carattere sostanziale che non è ancora degenerato
 
@@ -13098,9 +13098,9 @@ cosa indescrivibile chiamata _glamour_; che era l'intero capitale
 
 delle Brontë, che avvertiamo in Dickens quando Quilp si arrampica tra il legno marcio
 
-presso il desolato [[River|fiume]]; e perfino in Thackeray quando Esmond con i suoi
+presso il desolato [[motifs/river|fiume]]; e perfino in Thackeray quando Esmond con i suoi
 
-occhi [[Melancholy|malinconici]] vaga come un corvo scuro per i tetri viali
+occhi [[concepts/melancholy|malinconici]] vaga come un corvo scuro per i tetri viali
 
 di Castlewood. Di questa qualità (che alcuni hanno chiamato, ma frettolosamente, l'
 
@@ -13138,13 +13138,13 @@ si può facilmente vedere paragonandola a una donna più grande morta prima
 
 dell'inizio del nostro problema presente. Jane Austen nacque prima che quei
 
-vincoli che (ci si dice) proteggevano la donna dalla [[Truth|verità]], fossero infranti dalle
+vincoli che (ci si dice) proteggevano la donna dalla [[concepts/truth|verità]], fossero infranti dalle
 
 Brontë o elaboratamente sciolti da George Eliot. Eppure resta il fatto che
 
 Jane Austen sapeva molto di più sugli uomini di entrambe. Jane Austen
 
-può essere stata protetta dalla [[Truth|verità]]: ma ben poco della [[Truth|verità]]
+può essere stata protetta dalla [[concepts/truth|verità]]: ma ben poco della [[concepts/truth|verità]]
 
 fu protetto da lei. Quando Darcy, confessando infine i suoi
 
@@ -13164,11 +13164,11 @@ nazionalità.
 
 Le Brontë si suggeriscono qui; perché le loro qualità
 
-superficiali, le qualità che si possono cogliere nella [[Satire|satira]], erano in questo
+superficiali, le qualità che si possono cogliere nella [[forms/satire|satira]], erano in questo
 
 un'esagerazione di ciò che era, in George Eliot, poco più di un'
 
-omissione. Vi fu forse un [[Time|tempo]] in cui il signor Rawjester era più largamente
+omissione. Vi fu forse un [[motifs/time|tempo]] in cui il signor Rawjester era più largamente
 
 conosciuto del signor Rochester. E certamente il signor Rochester (per adottare la
 
@@ -13190,9 +13190,9 @@ romanziere fanno tiranneggiare le donne dagli uomini?» È, credo, indubitabilme
 
 vero che le Brontë trattavano il maschio come una cosa quasi anarchica
 
-che entra da fuori la [[Nature|natura]]; press'a poco come le genti di questo pianeta considerano una
+che entra da fuori la [[concepts/nature|natura]]; press'a poco come le genti di questo pianeta considerano una
 
-cometa. Perfino la [[Comedy|commedia]] davvero delicata e sostenuta di [[Paul Emanuel]] non è
+cometa. Perfino la [[forms/comedy|commedia]] davvero delicata e sostenuta di [[characters/paul-emanuel|Paul Emanuel]] non è
 
 del tutto libera da quest'aria di studiare qualcosa di estraneo. Si può
 
@@ -13202,9 +13202,9 @@ replicare che le donne nei romanzi degli uomini sono ugualmente fallaci. La repl
 
 Ciò che le Brontë portarono davvero nella narrativa fu esattamente ciò che Carlyle
 
-portò nella [[history|storia]]; la folata del misticismo del Nord. Erano
+portò nella [[concepts/history|storia]]; la folata del misticismo del Nord. Erano
 
-di [[Blood|sangue]] irlandese stabilitosi sulle ventose alture dello Yorkshire; in quel
+di [[motifs/blood|sangue]] irlandese stabilitosi sulle ventose alture dello Yorkshire; in quel
 
 paese dove il cattolicesimo indugiò più a lungo, ma in forma superstiziosa;
 
@@ -13230,11 +13230,11 @@ press'a poco come il tardo imperialismo vittoriano sarebbe stato per la signora 
 
 Ward al centro dell'impero e per la signorina Olive Schreiner al suo margine
 
-estremo. La vera forza che vi è in personaggi come [[Robert Moore]], quando
+estremo. La vera forza che vi è in personaggi come [[characters/robert-moore|Robert Moore]], quando
 
-tratta di qualsiasi cosa tranne le donne, è il [[Romance|romanzesco]] dell'industria nel
+tratta di qualsiasi cosa tranne le donne, è il romanzesco dell'industria nel
 
-suo primo avanzare: un [[Romance|romanzesco]] che non è rimasto. Su tali frontiere di
+suo primo avanzare: un romanzesco che non è rimasto. Su tali frontiere di
 
 battaglia le genti esagerano sempre le forti qualità che il sesso maschile
 
@@ -13263,13 +13263,13 @@ than an original person; perhaps an origin. But so far as her written
 
 works go she enters English letters only as an original person--and
 
-rather a narrow one. Her [[Imagination|imagination]] was sometimes superhuman--always
+rather a narrow one. Her [[concepts/imagination|imagination]] was sometimes superhuman--always
 
 inhuman. _Wuthering Heights_ might have been written by an eagle. She is
 
 the strongest instance of these strong imaginations that made the other
 
-sex a [[Monster|monster]]: for Heathcliffe fails as a man as catastrophically as he
+sex a [[archetypes/monster|monster]]: for Heathcliffe fails as a man as catastrophically as he
 
 succeeds as a demon. I think Emily Brontë was further narrowed by the
 
@@ -13281,9 +13281,9 @@ In any case, it is Charlotte Brontë who enters Victorian literature. The
 
 shortest way of stating her strong contribution is, I think, this: that
 
-she reached the highest [[Romance|romance]] through the lowest realism. She did not
+she reached the highest romance through the lowest realism. She did not
 
-set out with Amadis of Gaul in a forest or with Mr. [[Pickwick]] in a comic
+set out with Amadis of Gaul in a forest or with Mr. [[works/pickwick-(chesterton)|Pickwick]] in a comic
 
 club. She set out with herself, with her own dingy clothes, and
 
@@ -13291,7 +13291,7 @@ accidental ugliness, and flat, coarse, provincial household; and
 
 forcibly fused all such muddy materials into a spirited fairy-tale. If
 
-the first chapters on the [[Home|home]] and school had not proved how heavy and
+the first chapters on the [[motifs/home|home]] and school had not proved how heavy and
 
 hateful _sanity_ can be, there would really be less point in the
 
@@ -13303,15 +13303,15 @@ sensational in the commonplace: and _Jane Eyre_ remains the best of her
 
 books (better even than _Villette_) because while it is a human document
 
-written in [[Blood|blood]], it is also one of the best [[Blood|blood]]-and-thunder [[Detective|detective]]
+written in [[motifs/blood|blood]], it is also one of the best [[motifs/blood|blood]]-and-thunder [[archetypes/detective|detective]]
 
 stories in the world.
 
-But while Emily Brontë was as unsociable as a [[Storm|storm]] at midnight, and
+But while Emily Brontë was as unsociable as a [[motifs/storm|storm]] at midnight, and
 
 while Charlotte Brontë was at best like that warmer and more domestic
 
-thing, a [[house]] on [[Fire|fire]]--they do connect themselves with the calm of
+thing, a house on [[motifs/fire|fire]]--they do connect themselves with the calm of
 
 George Eliot, as the forerunners of many later developments of the
 
@@ -13319,15 +13319,15 @@ feminine advance. Many forerunners (if it comes to that) would have felt
 
 rather ill if they had seen the things they foreran. This notion of a
 
-hazy anticipation of after [[history]] has been absurdly overdone: as when
+hazy anticipation of after [[concepts/history|history]] has been absurdly overdone: as when
 
-men connect Chaucer with the [[Reformation]]; which is like connecting Homer
+men connect Chaucer with the [[historical-references/reformation|Reformation]]; which is like connecting Homer
 
 with the Syracusan Expedition. But it is to some extent true that all
 
 these great Victorian women had a sort of unrest in their souls. And the
 
-proof of it is that (after what I will claim to call the healthier [[Time|time]]
+proof of it is that (after what I will claim to call the healthier [[motifs/time|time]]
 
 of Dickens and Thackeray) it began to be admitted by the great Victorian
 
@@ -13339,7 +13339,7 @@ of _Tess of the D'Urbervilles_. To what this strange and very local sex
 
 war has been due I shall not ask, because I have no answer. That it was
 
-due to votes or even little legal inequalities about [[Marriage|marriage]], I feel
+due to votes or even little legal inequalities about [[motifs/marriage|marriage]], I feel
 
 myself here too close to realities even to discuss. My own guess is that
 
@@ -13357,9 +13357,9 @@ impossible to drop even into the second rank of good authors, whose name
 
 is legion; but it is impossible to leave that considerable female force
 
-in fiction which has so largely made the very [[Nature|nature]] of the modern
+in fiction which has so largely made the very [[concepts/nature|nature]] of the modern
 
-[[Novel|novel]], without mentioning two names which almost brought that second
+[[forms/novel|novel]], without mentioning two names which almost brought that second
 
 rank up to the first rank. They were at utterly opposite poles. The one
 
@@ -13369,13 +13369,13 @@ other succeeded by being a much more mad and unchristian Emily Brontë.
 
 But Mrs. Oliphant and the author calling herself "Ouida" both forced
 
-themselves [[Well|well]] within the frontier of fine literature. _The Beleaguered
+themselves [[motifs/well|well]] within the frontier of fine literature. _The Beleaguered
 
 City_ is literature in its highest sense; the other works of its author
 
 tend to fall into fiction in its best working sense. Mrs. Oliphant was
 
-infinitely saner in that [[City|city]] of [[Ghosts|ghosts]] than the cosmopolitan Ouida ever
+infinitely saner in that [[motifs/city|city]] of [[motifs/ghosts|ghosts]] than the cosmopolitan Ouida ever
 
 was in any of the cities of men. Mrs. Oliphant would never have dared to
 
@@ -13391,7 +13391,7 @@ style; of conveying the very heat of blue skies or the bursting of
 
 palpable pomegranates. And just as Mrs. Oliphant transfused her more
 
-timid Victorian tales with a true and intense [[Faith|faith]] in the Christian
+timid Victorian tales with a true and intense [[concepts/faith|faith]] in the Christian
 
 mystery--so Ouida, with infinite fury and infinite confusion of
 
@@ -13407,7 +13407,7 @@ on. On a general review I do not think I have been wrong in taking the
 
 female novelists first. I think they gave its special shape, its
 
-temporary twist, to the Victorian [[Novel|novel]].
+temporary twist, to the Victorian [[forms/novel|novel]].
 
 Nevertheless it is a shock (I almost dare to call it a relief) to come
 
@@ -13415,7 +13415,7 @@ back to the males. It is the more abrupt because the first name that
 
 must be mentioned derives directly from the mere maleness of the Sterne
 
-and Smollett [[Novel|novel]]. I have already spoken of Dickens as the most homely
+and Smollett [[forms/novel|novel]]. I have already spoken of Dickens as the most homely
 
 and instinctive, and therefore probably the heaviest, of all the
 
@@ -13434,13 +13434,13 @@ che una persona originale; forse un'origine. Ma per quanto vanno le sue opere
 
 scritte, ella entra nelle lettere inglesi soltanto come persona originale — e
 
-piuttosto angusta. La sua [[Imagination|immaginazione]] era talvolta sovrumana — sempre
+piuttosto angusta. La sua [[concepts/imagination|immaginazione]] era talvolta sovrumana — sempre
 
 inumana. _Cime tempestose_ potrebbe essere stato scritto da un'aquila. È
 
 l'esempio più forte di queste forti immaginazioni che fecero dell'altro
 
-sesso un [[Monster|mostro]]: poiché Heathcliff fallisce come uomo tanto catastroficamente quanto
+sesso un [[archetypes/monster|mostro]]: poiché Heathcliff fallisce come uomo tanto catastroficamente quanto
 
 riesce come demone. Credo che Emily Brontë fu ulteriormente ristretta dall'
 
@@ -13452,9 +13452,9 @@ In ogni caso, è Charlotte Brontë che entra nella letteratura vittoriana. Il
 
 modo più breve di enunciare il suo forte contributo è, credo, questo: che
 
-ella raggiunse il più alto [[Romance|romanzesco]] attraverso il più basso realismo. Non prese
+ella raggiunse il più alto romanzesco attraverso il più basso realismo. Non prese
 
-le mosse da Amadigi di Gaula in una foresta né dal signor [[Pickwick]] in un comico
+le mosse da Amadigi di Gaula in una foresta né dal signor [[works/pickwick-(chesterton)|Pickwick]] in un comico
 
 circolo. Prese le mosse da se stessa, dai propri abiti squallidi, e
 
@@ -13462,7 +13462,7 @@ dalla bruttezza casuale, e dalla piatta, rozza, provinciale casa; e
 
 fuse a forza tutti quei materiali fangosi in una fiaba animosa. Se
 
-i primi capitoli sulla [[Home|casa]] e sulla scuola non avessero dimostrato quanto pesante e
+i primi capitoli sulla [[motifs/home|casa]] e sulla scuola non avessero dimostrato quanto pesante e
 
 odiosa possa essere la _sanità_ mentale, vi sarebbe davvero meno senso nella
 
@@ -13474,15 +13474,15 @@ sensazionale nell'ordinario: e _Jane Eyre_ resta il migliore dei suoi
 
 libri (migliore perfino di _Villette_) perché, mentre è un documento umano
 
-scritto nel [[Blood|sangue]], è anche una delle migliori storie a [[Blood|sangue]] e tuoni [[Detective|poliziesche]]
+scritto nel [[motifs/blood|sangue]], è anche una delle migliori storie a [[motifs/blood|sangue]] e tuoni [[archetypes/detective|poliziesche]]
 
 del mondo.
 
-Ma mentre Emily Brontë era insocievole come una [[Storm|tempesta]] a mezzanotte, e
+Ma mentre Emily Brontë era insocievole come una [[motifs/storm|tempesta]] a mezzanotte, e
 
 mentre Charlotte Brontë era al meglio come quella cosa più calda e più domestica,
 
-una [[house|casa]] in [[Fire|fiamme]] — esse si collegano davvero alla calma di
+una casa in [[motifs/fire|fiamme]] — esse si collegano davvero alla calma di
 
 George Eliot, come le precorritrici di molti più tardi sviluppi dell'
 
@@ -13490,15 +13490,15 @@ avanzata femminile. Molte precorritrici (se è per questo) si sarebbero sentite
 
 piuttosto male se avessero visto le cose che precorrevano. Questa nozione di una
 
-nebulosa anticipazione della [[history|storia]] successiva è stata assurdamente esagerata: come quando
+nebulosa anticipazione della [[concepts/history|storia]] successiva è stata assurdamente esagerata: come quando
 
-gli uomini collegano Chaucer alla [[Reformation|Riforma]]; il che è come collegare Omero
+gli uomini collegano Chaucer alla [[historical-references/reformation|Riforma]]; il che è come collegare Omero
 
 alla spedizione siracusana. Ma è in qualche misura vero che tutte
 
 queste grandi donne vittoriane avevano una sorta di inquietudine nell'anima. E la
 
-prova di ciò è che (dopo quel che mi arrischierò a chiamare il più sano [[Time|tempo]]
+prova di ciò è che (dopo quel che mi arrischierò a chiamare il più sano [[motifs/time|tempo]]
 
 di Dickens e Thackeray) cominciò a essere ammessa dai grandi uomini
 
@@ -13510,7 +13510,7 @@ di _Tess dei d'Urberville_. A che cosa questa strana e assai locale guerra
 
 dei sessi sia dovuta non chiederò, perché non ho risposta. Che fosse
 
-dovuta ai voti o perfino a piccole ineguaglianze legali intorno al [[Marriage|matrimonio]], mi sento
+dovuta ai voti o perfino a piccole ineguaglianze legali intorno al [[motifs/marriage|matrimonio]], mi sento
 
 qui troppo vicino alle realtà perfino per discuterne. La mia congettura è che
 
@@ -13528,9 +13528,9 @@ impossibile scendere anche solo nel secondo rango dei buoni autori, il cui nome
 
 è legione; ma è impossibile lasciare quella considerevole forza femminile
 
-nella narrativa che ha così largamente fatto la [[Nature|natura]] stessa del moderno
+nella narrativa che ha così largamente fatto la [[concepts/nature|natura]] stessa del moderno
 
-[[Novel|romanzo]], senza menzionare due nomi che quasi portarono quel secondo
+[[forms/novel|romanzo]], senza menzionare due nomi che quasi portarono quel secondo
 
 rango al primo rango. Erano a poli del tutto opposti. L'una
 
@@ -13540,13 +13540,13 @@ altra riuscì con l'essere una Emily Brontë assai più folle e non cristiana.
 
 Ma la signora Oliphant e l'autrice che si faceva chiamare «Ouida» si spinsero entrambe
 
-[[Well|bene]] entro la frontiera della bella letteratura. _The Beleaguered
+[[motifs/well|bene]] entro la frontiera della bella letteratura. _The Beleaguered
 
 City_ è letteratura nel suo senso più alto; le altre opere della sua autrice
 
 tendono a cadere nella narrativa nel suo miglior senso operativo. La signora Oliphant fu
 
-infinitamente più assennata in quella [[City|città]] di [[Ghosts|fantasmi]] di quanto la cosmopolita Ouida sia mai
+infinitamente più assennata in quella [[motifs/city|città]] di [[motifs/ghosts|fantasmi]] di quanto la cosmopolita Ouida sia mai
 
 stata in una qualsiasi delle città degli uomini. La signora Oliphant non avrebbe mai osato
 
@@ -13562,7 +13562,7 @@ stile; di rendere il calore stesso dei cieli azzurri o lo scoppiare di
 
 palpabili melagrane. E proprio come la signora Oliphant infuse i suoi più
 
-timidi racconti vittoriani con una vera e intensa [[Faith|fede]] nel mistero
+timidi racconti vittoriani con una vera e intensa [[concepts/faith|fede]] nel mistero
 
 cristiano — così Ouida, con infinita furia e infinita confusione di
 
@@ -13578,7 +13578,7 @@ via. In una rassegna generale non credo di aver sbagliato nel prendere le
 
 romanziere donne per prime. Credo che diedero la sua speciale forma, la sua
 
-temporanea piega, al [[Novel|romanzo]] vittoriano.
+temporanea piega, al [[forms/novel|romanzo]] vittoriano.
 
 Nondimeno è uno shock (quasi oso chiamarlo un sollievo) tornare
 
@@ -13586,7 +13586,7 @@ ai maschi. È tanto più brusco perché il primo nome che
 
 va menzionato deriva direttamente dalla mera mascolinità di quello di Sterne
 
-e Smollett, il [[Novel|romanzo]]. Ho già parlato di Dickens come del più casalingo
+e Smollett, il [[forms/novel|romanzo]]. Ho già parlato di Dickens come del più casalingo
 
 e istintivo, e perciò probabilmente il più pesante, di tutti gli
 
@@ -13603,9 +13603,9 @@ dire. Dickens, come abbiamo affermato, ereditò il vecchio romanzo comico, divag
 <span class="atom-split" data-atom="chapter_02--part_06" data-title="Victorian Age — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/artist,archetype/tyrant,archetype/villain,motif/death,motif/hill,motif/prayer,motif/time,motif/well,motif/window,concept/aspiration,concept/greatness,concept/hope,concept/individualism,concept/truth,form/novel,character/bottom,character/stephen_blackpool"></span>
 
 
-[[Novel|novel]] from Smollett and the rest. Dickens, as we have also stated,
+[[forms/novel|novel]] from Smollett and the rest. Dickens, as we have also stated,
 
-consented to expurgate that [[Novel|novel]]. But when all origins and all
+consented to expurgate that [[forms/novel|novel]]. But when all origins and all
 
 restraints have been defined and allowed for, the creature that came out
 
@@ -13629,15 +13629,15 @@ villains stalking out or cowardly bullies kicked downstairs. But the
 
 villains and the cowards are such delightful people that the reader
 
-always hopes the [[Villain|villain]] will put his head through a side [[Window|window]] and
+always hopes the [[archetypes/villain|villain]] will put his head through a side [[motifs/window|window]] and
 
 make a last remark; or that the bully will say one thing more, even from
 
-the [[Bottom|bottom]] of the stairs. The reader really hopes this; and he cannot
+the [[characters/bottom|bottom]] of the stairs. The reader really hopes this; and he cannot
 
 get rid of the fancy that the author hopes so too. I cannot at the
 
-moment recall that Dickens ever killed a comic [[Villain|villain]], except Quilp,
+moment recall that Dickens ever killed a comic [[archetypes/villain|villain]], except Quilp,
 
 who was deliberately made even more villainous than comic. There can be
 
@@ -13653,29 +13653,29 @@ Pecksniff, or even of catching Mr. Mantalini collecting the washing, if
 
 one always lurked about on Monday mornings. This sentiment (the true
 
-[[artist]] will be relieved to hear) is entirely unmoral. Mrs. Wilfer
+[[archetypes/artist|artist]] will be relieved to hear) is entirely unmoral. Mrs. Wilfer
 
-deserved [[Death|death]] much more than Mr. Quilp, for she had succeeded in
+deserved [[motifs/death|death]] much more than Mr. Quilp, for she had succeeded in
 
 poisoning family life persistently, while he was (to say the least of
 
 it) intermittent in his domesticity. But who can honestly say he does
 
-not [[Hope|hope]] Mrs. Wilfer is still talking like Mrs. Wilfer--especially if it
+not [[concepts/hope|hope]] Mrs. Wilfer is still talking like Mrs. Wilfer--especially if it
 
-is only in a book? This is the artistic [[Greatness|greatness]] of Dickens, before and
+is only in a book? This is the artistic [[concepts/greatness|greatness]] of Dickens, before and
 
 after which there is really nothing to be said. He had the power of
 
 creating people, both possible and impossible, who were simply precious
 
-and priceless people; and anything subtler added to that [[Truth|truth]] really
+and priceless people; and anything subtler added to that [[concepts/truth|truth]] really
 
 only weakens it.
 
 The mention of Mrs. Wilfer (whom the heart is loth to leave) reminds one
 
-of the only elementary ethical [[Truth|truth]] that is essential in the study of
+of the only elementary ethical [[concepts/truth|truth]] that is essential in the study of
 
 Dickens. That is that he had broad or universal sympathies in a sense
 
@@ -13683,11 +13683,11 @@ totally unknown to the social reformers who wallow in such phrases.
 
 Dickens (unlike the social reformers) really did sympathise with every
 
-sort of victim of every sort of [[Tyrant|tyrant]]. He did truly pray for _all_ who
+sort of victim of every sort of [[archetypes/tyrant|tyrant]]. He did truly pray for _all_ who
 
 are desolate and oppressed. If you try to tie him to any cause narrower
 
-than that [[Prayer]] Book definition, you will find you have shut out half
+than that [[motifs/prayer|Prayer]] Book definition, you will find you have shut out half
 
 his best work. If, in your sympathy for Mrs. Quilp, you call Dickens the
 
@@ -13699,15 +13699,15 @@ your sympathy for Mr. Rouncewell you call Dickens the champion of a
 
 manly middle-class Liberalism against Chesney Wold, you will suddenly
 
-remember [[Stephen Blackpool]]--and find yourself unable to deny that Mr.
+remember [[characters/stephen-blackpool|Stephen Blackpool]]--and find yourself unable to deny that Mr.
 
-Rouncewell might be a pretty insupportable cock on his own dung-[[Hill|hill]]. If
+Rouncewell might be a pretty insupportable cock on his own dung-[[motifs/hill|hill]]. If
 
-in your sympathy for [[Stephen Blackpool]] you call Dickens a Socialist (as
+in your sympathy for [[characters/stephen-blackpool|Stephen Blackpool]] you call Dickens a Socialist (as
 
 does Mr. Pugh), and think of him as merely heralding the great
 
-Collectivist revolt against Victorian [[Individualism]] and Capitalism,
+Collectivist revolt against Victorian [[concepts/individualism|Individualism]] and Capitalism,
 
 which seemed so clearly to be the crisis at the end of this epoch--you
 
@@ -13721,7 +13721,7 @@ Dickens did not merely believe in the brotherhood of men in the weak
 
 modern way; he was the brotherhood of men, and knew it was a brotherhood
 
-in sin as [[Well|well]] as in [[Aspiration|aspiration]]. And he was not only larger than the old
+in sin as [[motifs/well|well]] as in [[concepts/aspiration|aspiration]]. And he was not only larger than the old
 
 factions he satirised; he was larger than any of our great social
 
@@ -13729,7 +13729,7 @@ schools that have gone forward since he died.
 
 The seemingly quaint custom of comparing Dickens and Thackeray existed
 
-in their own [[Time|time]], and no one will dismiss it with entire disdain who
+in their own [[motifs/time|time]], and no one will dismiss it with entire disdain who
 
 remembers that the Victorian tradition was domestic and genuine, even
 
@@ -13739,9 +13739,9 @@ for making this imaginary duel between two quite separate and quite
 
 amiable acquaintances. And there is, after all, some reason for it. It
 
-is not, as was once cheaply said, that Thackeray went in for [[Truth|truth]], and
+is not, as was once cheaply said, that Thackeray went in for [[concepts/truth|truth]], and
 
-Dickens for mere caricature. There is a huge accumulation of [[Truth|truth]],
+Dickens for mere caricature. There is a huge accumulation of [[concepts/truth|truth]],
 
 down to the smallest detail, in Dickens: he seems sometimes a mere
 
@@ -13749,19 +13749,19 @@ mountain of facts. Thackeray, in comparison, often seems quite careless
 
 and elusive; almost as if he did not quite know where all his characters
 
-were. There is a [[Truth|truth]] behind the popular distinction; but it lies much
+were. There is a [[concepts/truth|truth]] behind the popular distinction; but it lies much
 
 deeper. Perhaps the best way of stating it is this: that Dickens used
 
-reality, while aiming at an effect of [[Romance|romance]]; while Thackeray used the
+reality, while aiming at an effect of romance; while Thackeray used the
 
-loose language and ordinary approaches of [[Romance|romance]], while aiming at an
+loose language and ordinary approaches of romance, while aiming at an
 
 effect of reality. It was the special and splendid business of Dickens
 
 to introduce us to people who would have been quite incredible if he had
 
-not told us so much [[Truth|truth]] about them. It was the special and not less
+not told us so much [[concepts/truth|truth]] about them. It was the special and not less
 
 splendid task of Thackeray to introduce us to people whom we knew
 
@@ -13770,9 +13770,9 @@ already. Paradoxically, but very practically, it followed that his
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Novel|romanzo]] da Smollett e dagli altri. Dickens, come pure abbiamo affermato,
+[[forms/novel|romanzo]] da Smollett e dagli altri. Dickens, come pure abbiamo affermato,
 
-acconsentì a espurgare quel [[Novel|romanzo]]. Ma quando tutte le origini e tutte le
+acconsentì a espurgare quel [[forms/novel|romanzo]]. Ma quando tutte le origini e tutte le
 
 restrizioni sono state definite e messe in conto, la creatura che ne uscì
 
@@ -13796,15 +13796,15 @@ sconcertati che escono impettiti o di codardi bulli buttati giù per le scale. M
 
 malvagi e i codardi sono gente così deliziosa che il lettore
 
-spera sempre che il [[Villain|malvagio]] cacci la testa da una [[Window|finestra]] laterale e
+spera sempre che il [[archetypes/villain|malvagio]] cacci la testa da una [[motifs/window|finestra]] laterale e
 
 faccia un'ultima osservazione; o che il bullo dica ancora una cosa, anche dal
 
-[[Bottom|fondo]] delle scale. Il lettore lo spera davvero; e non riesce a
+[[characters/bottom|fondo]] delle scale. Il lettore lo spera davvero; e non riesce a
 
 liberarsi dalla fantasia che anche l'autore lo speri. Non riesco al
 
-momento a ricordare che Dickens abbia mai ucciso un [[Villain|malvagio]] comico, tranne Quilp,
+momento a ricordare che Dickens abbia mai ucciso un [[archetypes/villain|malvagio]] comico, tranne Quilp,
 
 che fu deliberatamente reso ancor più malvagio che comico. Non vi possono
 
@@ -13820,29 +13820,29 @@ Pecksniff, o perfino di sorprendere il signor Mantalini a raccogliere il bucato,
 
 si stesse sempre in agguato al mattino del lunedì. Questo sentimento (il vero
 
-[[artist|artista]] sarà sollevato d'udirlo) è del tutto amorale. La signora Wilfer
+[[archetypes/artist|artista]] sarà sollevato d'udirlo) è del tutto amorale. La signora Wilfer
 
-meritava la [[Death|morte]] assai più del signor Quilp, poiché era riuscita a
+meritava la [[motifs/death|morte]] assai più del signor Quilp, poiché era riuscita a
 
 avvelenare la vita familiare con costanza, mentre lui era (per dire il meno)
 
 intermittente nella sua domesticità. Ma chi può onestamente dire di non
 
-[[Hope|sperare]] che la signora Wilfer parli ancora come la signora Wilfer — specie se ciò
+[[concepts/hope|sperare]] che la signora Wilfer parli ancora come la signora Wilfer — specie se ciò
 
-è soltanto in un libro? Questa è l'artistica [[Greatness|grandezza]] di Dickens, prima e
+è soltanto in un libro? Questa è l'artistica [[concepts/greatness|grandezza]] di Dickens, prima e
 
 dopo la quale non c'è davvero nulla da dire. Egli aveva il potere di
 
 creare persone, tanto possibili quanto impossibili, che erano semplicemente preziose
 
-e inestimabili; e qualsiasi cosa più sottile aggiunta a quella [[Truth|verità]] davvero
+e inestimabili; e qualsiasi cosa più sottile aggiunta a quella [[concepts/truth|verità]] davvero
 
 non fa che indebolirla.
 
 La menzione della signora Wilfer (che il cuore è restio a lasciare) rammenta
 
-l'unica elementare [[Truth|verità]] etica che è essenziale nello studio di
+l'unica elementare [[concepts/truth|verità]] etica che è essenziale nello studio di
 
 Dickens. Ed è che egli ebbe simpatie ampie o universali in un senso
 
@@ -13850,11 +13850,11 @@ del tutto ignoto ai riformatori sociali che si crogiolano in tali frasi.
 
 Dickens (a differenza dei riformatori sociali) davvero simpatizzò con ogni
 
-sorta di vittima di ogni sorta di [[Tyrant|tiranno]]. Egli pregò veramente per _tutti_ coloro che
+sorta di vittima di ogni sorta di [[archetypes/tyrant|tiranno]]. Egli pregò veramente per _tutti_ coloro che
 
 sono desolati e oppressi. Se provi a legarlo a una qualsiasi causa più angusta
 
-di quella definizione del libro di [[Prayer|preghiere]], scoprirai di aver escluso metà
+di quella definizione del libro di [[motifs/prayer|preghiere]], scoprirai di aver escluso metà
 
 della sua opera migliore. Se, nella tua simpatia per la signora Quilp, chiami Dickens il
 
@@ -13866,15 +13866,15 @@ nella tua simpatia per il signor Rouncewell chiami Dickens il campione di un
 
 virile liberalismo borghese contro Chesney Wold, ricorderai d'un tratto
 
-[[Stephen Blackpool]] — e ti troverai incapace di negare che il signor
+[[characters/stephen-blackpool|Stephen Blackpool]] — e ti troverai incapace di negare che il signor
 
-Rouncewell potrebbe essere un gallo assai insopportabile sul proprio [[Hill|letamaio]]. Se
+Rouncewell potrebbe essere un gallo assai insopportabile sul proprio [[motifs/hill|letamaio]]. Se
 
-nella tua simpatia per [[Stephen Blackpool]] chiami Dickens un socialista (come
+nella tua simpatia per [[characters/stephen-blackpool|Stephen Blackpool]] chiami Dickens un socialista (come
 
 fa il signor Pugh), e lo pensi come mero araldo della grande
 
-rivolta collettivista contro l'[[Individualism|individualismo]] e il capitalismo vittoriani,
+rivolta collettivista contro l'[[concepts/individualism|individualismo]] e il capitalismo vittoriani,
 
 che pareva così chiaramente essere la crisi alla fine di quest'epoca — ti
 
@@ -13888,7 +13888,7 @@ Dickens non credette semplicemente nella fratellanza degli uomini alla debole
 
 maniera moderna; egli era la fratellanza degli uomini, e sapeva che era una fratellanza
 
-nel peccato tanto [[Well|quanto]] nell'[[Aspiration|aspirazione]]. E non era soltanto più grande delle vecchie
+nel peccato tanto [[motifs/well|quanto]] nell'[[concepts/aspiration|aspirazione]]. E non era soltanto più grande delle vecchie
 
 fazioni che satireggiava; era più grande di qualsiasi delle nostre grandi scuole
 
@@ -13896,7 +13896,7 @@ sociali che sono andate avanti da quando egli morì.
 
 Il costume apparentemente bizzarro di paragonare Dickens e Thackeray esisteva
 
-al loro proprio [[Time|tempo]], e nessuno lo scarterà con intero disdegno se
+al loro proprio [[motifs/time|tempo]], e nessuno lo scarterà con intero disdegno se
 
 ricorda che la tradizione vittoriana era domestica e genuina, perfino
 
@@ -13906,9 +13906,9 @@ per fare questo duello immaginario tra due conoscenze del tutto separate e del t
 
 amabili. E c'è, dopo tutto, qualche ragione. Non
 
-è, come una volta si disse a buon mercato, che Thackeray puntasse sulla [[Truth|verità]], e
+è, come una volta si disse a buon mercato, che Thackeray puntasse sulla [[concepts/truth|verità]], e
 
-Dickens sulla mera caricatura. C'è un enorme accumulo di [[Truth|verità]],
+Dickens sulla mera caricatura. C'è un enorme accumulo di [[concepts/truth|verità]],
 
 fin nel più piccolo dettaglio, in Dickens: talvolta pare una mera
 
@@ -13916,19 +13916,19 @@ montagna di fatti. Thackeray, in confronto, spesso pare del tutto sbadato
 
 ed elusivo; quasi come se non sapesse bene dove fossero tutti i suoi personaggi.
 
-C'è una [[Truth|verità]] dietro la distinzione popolare; ma essa giace assai
+C'è una [[concepts/truth|verità]] dietro la distinzione popolare; ma essa giace assai
 
 più profonda. Forse il modo migliore di enunciarla è questo: che Dickens usò
 
-la realtà, mirando a un effetto di [[Romance|romanzesco]]; mentre Thackeray usò il
+la realtà, mirando a un effetto di romanzesco; mentre Thackeray usò il
 
-linguaggio sciolto e gli approcci ordinari del [[Romance|romanzesco]], mirando a un
+linguaggio sciolto e gli approcci ordinari del romanzesco, mirando a un
 
 effetto di realtà. Fu lo speciale e splendido compito di Dickens
 
 introdurci a persone che sarebbero state del tutto incredibili se egli non
 
-ci avesse detto tanta [[Truth|verità]] su di loro. Fu lo speciale e non meno
+ci avesse detto tanta [[concepts/truth|verità]] su di loro. Fu lo speciale e non meno
 
 splendido compito di Thackeray introdurci a persone che già
 
@@ -13945,11 +13945,11 @@ Trotwood, we vividly envisage everything about her, from her gardening
 
 gloves to her seaside residence, from her hard, handsome face to her
 
-tame lunatic laughing at the bedroom [[Window|window]]. It is all so minutely true
+tame lunatic laughing at the bedroom [[motifs/window|window]]. It is all so minutely true
 
 that she must be true also. We only feel inclined to walk round the
 
-English coast until we find that particular [[Garden|garden]] and that particular
+English coast until we find that particular [[motifs/garden|garden]] and that particular
 
 aunt. But when we turn from the aunt of Copperfield to the uncle of
 
@@ -13973,13 +13973,13 @@ make us recognise an old friend. Whether we shall be pleased to meet the
 
 old friend is quite another matter: I think we should be better pleased
 
-to meet Miss Trotwood, and find, as [[David Copperfield]] did, a new friend,
+to meet Miss Trotwood, and find, as [[characters/david-copperfield|David Copperfield]] did, a new friend,
 
 a new world. But we recognise Major Pendennis even when we avoid him.
 
 Henceforth Thackeray can count on our seeing him from his wig to his
 
-[[Well|well]]-blacked boots whenever he chooses to say "Major Pendennis paid a
+[[motifs/well|well]]-blacked boots whenever he chooses to say "Major Pendennis paid a
 
 call." Dickens, on the other hand, had to keep up an incessant
 
@@ -13989,7 +13989,7 @@ kept it up.
 
 It may be said, in approximate summary, that Thackeray is the novelist
 
-of [[Memory|memory]]--of our memories as [[Well|well]] as his own. Dickens seems to expect
+of [[motifs/memory|memory]]--of our memories as [[motifs/well|well]] as his own. Dickens seems to expect
 
 all his characters, like amusing strangers arriving at lunch: as if they
 
@@ -14005,7 +14005,7 @@ in some trivial grimace: we smell the strong smell of social cliques
 
 now quite incongruous to us; and there stir in all the little rooms at
 
-once the hundred [[Ghosts|ghosts]] of oneself.
+once the hundred [[motifs/ghosts|ghosts]] of oneself.
 
 For this purpose Thackeray was equipped with a singularly easy and
 
@@ -14031,7 +14031,7 @@ such men is all the more effective; and there are passages in _Vanity
 
 Fair_ and still more in _The Book of Snobs_, where he does make the
 
-[[Dance|dance]] of wealth and fashion look stiff and monstrous, like a Babylonian
+[[motifs/dance|dance]] of wealth and fashion look stiff and monstrous, like a Babylonian
 
 masquerade. But he never quite did it in such a way as to turn the
 
@@ -14039,9 +14039,9 @@ course of the Victorian Age.
 
 It may seem strange to say that Thackeray did not know enough of the
 
-world; yet this was the [[Truth|truth]] about him in large matters of the
+world; yet this was the [[concepts/truth|truth]] about him in large matters of the
 
-[[philosophy]] of life, and especially of his own [[Time|time]]. He did not know the
+philosophy of life, and especially of his own [[motifs/time|time]]. He did not know the
 
 way things were going: he was too Victorian to understand the Victorian
 
@@ -14051,17 +14051,17 @@ one of his delightful asides he imagines two little clerks commenting
 
 erroneously on the appearance of Lady Kew or Sir Brian Newcome in the
 
-Park, and says: "How should [[Jones]] and Brown, who are not, _vous
+Park, and says: "How should [[characters/jones|Jones]] and Brown, who are not, _vous
 
 comprenez, du monde_, understand these mysteries?" But I think Thackeray
 
-knew quite as little about [[Jones]] and Brown as they knew about Newcome
+knew quite as little about [[characters/jones|Jones]] and Brown as they knew about Newcome
 
 and Kew; his world was _le monde_. Hence he seemed to take it for
 
 granted that the Victorian compromise would last; while Dickens (who
 
-knew his [[Jones]] and Brown) had already guessed that it would not.
+knew his [[characters/jones|Jones]] and Brown) had already guessed that it would not.
 
 Thackeray did not realise that the Victorian platform was a moving
 
@@ -14069,19 +14069,19 @@ platform. To take but one instance, he was a Radical like Dickens; all
 
 really representative Victorians, except perhaps Tennyson, were
 
-Radicals. But he seems to have thought of all [[Reform|reform]] as simple and
+Radicals. But he seems to have thought of all [[concepts/reform|reform]] as simple and
 
 straightforward and all of a piece; as if Catholic Emancipation, the New
 
-Poor Law, Free Trade and the Factory Acts and Popular [[Education]] were all
+Poor Law, Free Trade and the Factory Acts and Popular [[concepts/education|Education]] were all
 
-parts of one almost [[Self|self]]-evident evolution of enlightenment. Dickens,
+parts of one almost [[concepts/self|self]]-evident evolution of enlightenment. Dickens,
 
-being in touch with the [[Democracy|democracy]], had already discovered that the
+being in touch with the [[concepts/democracy|democracy]], had already discovered that the
 
 country had come to a dark place of divided ways and divided counsels.
 
-In _Hard Times_ he realised [[Democracy]] at war with Radicalism; and
+In _Hard Times_ he realised [[concepts/democracy|Democracy]] at war with Radicalism; and
 
 became, with so incompatible an ally as Ruskin, not indeed a Socialist,
 
@@ -14095,7 +14095,7 @@ Veneering had carried off Twemlow in triumph. He very nearly knew what
 
 we all know to-day: that, so far from it being possible to plod along
 
-the progressive [[Road|road]] with more votes and more Free Trade, England must
+the progressive [[motifs/road|road]] with more votes and more Free Trade, England must
 
 either sharply become very much more democratic or as rapidly become
 
@@ -14103,7 +14103,7 @@ very much less so.
 
 There gathers round these two great novelists a considerable group of
 
-good novelists, who more or less [[Mirror|mirror]] their mid-Victorian mood. Wilkie
+good novelists, who more or less [[motifs/mirror|mirror]] their mid-Victorian mood. Wilkie
 
 Collins may be said to be in this way a lesser Dickens and Anthony
 
@@ -14118,11 +14118,11 @@ Trotwood, immaginiamo vividamente ogni cosa di lei, dai suoi guanti da
 
 giardinaggio alla sua residenza in riva al mare, dal suo viso duro e avvenente al suo
 
-docile pazzo che ride alla [[Window|finestra]] della camera. È tutto così minuziosamente vero
+docile pazzo che ride alla [[motifs/window|finestra]] della camera. È tutto così minuziosamente vero
 
 che ella dev'essere vera anch'essa. Ci sentiamo soltanto inclini a fare il giro della
 
-costa inglese finché non troviamo quel particolare [[Garden|giardino]] e quella particolare
+costa inglese finché non troviamo quel particolare [[motifs/garden|giardino]] e quella particolare
 
 zia. Ma quando ci volgiamo dalla zia di Copperfield allo zio di
 
@@ -14146,13 +14146,13 @@ farci riconoscere un vecchio amico. Se saremo lieti d'incontrare il
 
 vecchio amico è tutt'altra questione: credo che saremmo più lieti
 
-d'incontrare la signorina Trotwood, e di trovare, come fece [[David Copperfield]], un nuovo amico,
+d'incontrare la signorina Trotwood, e di trovare, come fece [[characters/david-copperfield|David Copperfield]], un nuovo amico,
 
 un nuovo mondo. Ma riconosciamo il Maggiore Pendennis anche quando lo evitiamo.
 
 D'ora in poi Thackeray può contare sul fatto che lo vedremo dalla parrucca ai suoi
 
-stivali [[Well|ben]] lustrati ogni volta che sceglie di dire «Il Maggiore Pendennis ha fatto una
+stivali [[motifs/well|ben]] lustrati ogni volta che sceglie di dire «Il Maggiore Pendennis ha fatto una
 
 visita». Dickens, d'altro canto, doveva mantenere un incessante
 
@@ -14162,7 +14162,7 @@ mantenerlo.
 
 Si può dire, in approssimativo compendio, che Thackeray è il romanziere
 
-della [[Memory|memoria]] — delle nostre memorie tanto [[Well|quanto]] delle sue. Dickens sembra aspettarsi
+della [[motifs/memory|memoria]] — delle nostre memorie tanto [[motifs/well|quanto]] delle sue. Dickens sembra aspettarsi
 
 tutti i suoi personaggi, come divertenti estranei che arrivano a pranzo: come se
 
@@ -14178,7 +14178,7 @@ in qualche banale smorfia: fiutiamo il forte odore di cricche sociali
 
 ormai del tutto incongrue a noi; e si agitano insieme in tutte le stanzette
 
-d'un colpo i cento [[Ghosts|fantasmi]] di se stessi.
+d'un colpo i cento [[motifs/ghosts|fantasmi]] di se stessi.
 
 A questo scopo Thackeray era dotato di uno stile singolarmente facile e
 
@@ -14204,7 +14204,7 @@ tali uomini è tanto più efficace; e ci sono passi in _La fiera
 
 delle vanità_ e ancor più in _The Book of Snobs_, dove egli fa sì che la
 
-[[Dance|danza]] della ricchezza e della moda appaia rigida e mostruosa, come una mascherata
+[[motifs/dance|danza]] della ricchezza e della moda appaia rigida e mostruosa, come una mascherata
 
 babilonese. Ma non lo fece mai del tutto in modo tale da mutare il
 
@@ -14212,9 +14212,9 @@ corso dell'età vittoriana.
 
 Può sembrare strano dire che Thackeray non conoscesse abbastanza del
 
-mondo; eppure questa era la [[Truth|verità]] su di lui nelle grandi questioni della
+mondo; eppure questa era la [[concepts/truth|verità]] su di lui nelle grandi questioni della
 
-[[philosophy|filosofia]] della vita, e specialmente del suo proprio [[Time|tempo]]. Egli non sapeva la
+filosofia della vita, e specialmente del suo proprio [[motifs/time|tempo]]. Egli non sapeva la
 
 direzione in cui le cose stavano andando: era troppo vittoriano per comprendere l'epoca
 
@@ -14224,17 +14224,17 @@ uno dei suoi deliziosi incisi immagina due piccoli impiegati che commentano
 
 erroneamente l'apparizione di Lady Kew o di Sir Brian Newcome nel
 
-Parco, e dice: «Come dovrebbero [[Jones]] e Brown, che non sono, _vous
+Parco, e dice: «Come dovrebbero [[characters/jones|Jones]] e Brown, che non sono, _vous
 
 comprenez, du monde_, comprendere questi misteri?» Ma credo che Thackeray
 
-sapesse tanto poco di [[Jones]] e Brown quanto essi sapevano di Newcome
+sapesse tanto poco di [[characters/jones|Jones]] e Brown quanto essi sapevano di Newcome
 
 e Kew; il suo mondo era _le monde_. Perciò sembrava dare per
 
 scontato che il compromesso vittoriano sarebbe durato; mentre Dickens (che
 
-conosceva i suoi [[Jones]] e Brown) aveva già intuito che non sarebbe durato.
+conosceva i suoi [[characters/jones|Jones]] e Brown) aveva già intuito che non sarebbe durato.
 
 Thackeray non si rendeva conto che la piattaforma vittoriana era una piattaforma
 
@@ -14242,19 +14242,19 @@ in movimento. Per prendere un solo esempio, era un radicale come Dickens; tutti
 
 i vittoriani davvero rappresentativi, tranne forse Tennyson, erano
 
-radicali. Ma pare che avesse pensato a ogni [[Reform|riforma]] come semplice e
+radicali. Ma pare che avesse pensato a ogni [[concepts/reform|riforma]] come semplice e
 
 diretta e tutta d'un pezzo; come se l'emancipazione cattolica, la nuova
 
-legge sui poveri, il libero scambio e le leggi sulle fabbriche e l'[[Education|istruzione]] popolare fossero tutti
+legge sui poveri, il libero scambio e le leggi sulle fabbriche e l'[[concepts/education|istruzione]] popolare fossero tutti
 
-parti di un'evoluzione dell'illuminismo quasi [[Self|auto]]-evidente. Dickens,
+parti di un'evoluzione dell'illuminismo quasi [[concepts/self|auto]]-evidente. Dickens,
 
-essendo in contatto con la [[Democracy|democrazia]], aveva già scoperto che il
+essendo in contatto con la [[concepts/democracy|democrazia]], aveva già scoperto che il
 
 paese era giunto a un luogo oscuro di vie divise e di consigli divisi.
 
-In _Tempi difficili_ egli colse la [[Democracy|democrazia]] in guerra con il radicalismo; e
+In _Tempi difficili_ egli colse la [[concepts/democracy|democrazia]] in guerra con il radicalismo; e
 
 divenne, con un alleato così incompatibile come Ruskin, non certo un socialista,
 
@@ -14268,7 +14268,7 @@ Veneering aveva portato via Twemlow in trionfo. Sapeva quasi ciò che
 
 tutti noi sappiamo oggi: che, lungi dall'essere possibile arrancare lungo
 
-la [[Road|strada]] progressista con più voti e più libero scambio, l'Inghilterra deve
+la [[motifs/road|strada]] progressista con più voti e più libero scambio, l'Inghilterra deve
 
 o bruscamente divenire assai più democratica o altrettanto rapidamente divenire
 
@@ -14276,7 +14276,7 @@ assai meno tale.
 
 Si raccoglie intorno a questi due grandi romanzieri un considerevole gruppo di
 
-buoni romanzieri, che più o meno [[Mirror|rispecchiano]] il loro umore metà-vittoriano. Wilkie
+buoni romanzieri, che più o meno [[motifs/mirror|rispecchiano]] il loro umore metà-vittoriano. Wilkie
 
 Collins si può dire sia in questo modo un Dickens minore e Anthony
 
@@ -14287,17 +14287,17 @@ Trollope un Thackeray minore. Wilkie Collins è principalmente tipico del suo
 <span class="atom-split" data-atom="chapter_02--part_08" data-title="Victorian Age — Chapter 2 (part 8)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,archetype/detective,archetype/ghost,motif/blood,motif/dreams,motif/ghosts,motif/love,motif/soul,motif/supernatural,motif/time,concept/truth,form/melodrama,setting/oxford,character/witch"></span>
 
 
-[[Time|time]] in this respect: that while his moral and religious conceptions
+[[motifs/time|time]] in this respect: that while his moral and religious conceptions
 
 were as mechanical as his carefully constructed fictitious conspiracies,
 
 he nevertheless informed the latter with a sort of involuntary mysticism
 
-which dealt wholly with the darker side of the [[Soul|soul]]. For this was one
+which dealt wholly with the darker side of the [[motifs/soul|soul]]. For this was one
 
 of the most peculiar of the problems of the Victorian mind. The idea of
 
-the [[Supernatural|supernatural]] was perhaps at as low an ebb as it had ever
+the [[motifs/supernatural|supernatural]] was perhaps at as low an ebb as it had ever
 
 been--certainly much lower than it is now. But in spite of this, and in
 
@@ -14307,13 +14307,13 @@ strange fact remains that the only sort of supernaturalism the
 
 Victorians allowed to their imaginations was a sad supernaturalism. They
 
-might have [[Ghost|ghost]] stories, but not saints' stories. They could trifle
+might have [[archetypes/ghost|ghost]] stories, but not saints' stories. They could trifle
 
-with the curse or unpardoning prophecy of a [[Witch|witch]], but not with the
+with the curse or unpardoning prophecy of a [[characters/witch|witch]], but not with the
 
 pardon of a priest. They seem to have held (I believe erroneously) that
 
-the [[Supernatural|supernatural]] was safest when it came from below. When we think (for
+the [[motifs/supernatural|supernatural]] was safest when it came from below. When we think (for
 
 example) of the uncountable riches of religious art, imagery, ritual and
 
@@ -14337,15 +14337,15 @@ is proper and literal to speak of his "plots." He was a plotter; he went
 
 about to slay Godfrey Ablewhite as coldly and craftily as the Indians
 
-did. But he also had a sound though sinister note of true [[Magic|magic]]; as in
+did. But he also had a sound though sinister note of true magic; as in
 
 the repetition of the two white dresses in _The Woman in White_; or of
 
-the [[Dreams|dreams]] with their [[Double|double]] explanations in _Armadale_. His [[Ghosts|ghosts]] do
+the [[motifs/dreams|dreams]] with their [[topoi/double|double]] explanations in _Armadale_. His [[motifs/ghosts|ghosts]] do
 
 walk. They are alive; and walk as softly as Count Fosco, but as solidly.
 
-Finally, _The Moonstone_ is probably the best [[Detective|detective]] tale in the
+Finally, _The Moonstone_ is probably the best [[archetypes/detective|detective]] tale in the
 
 world.
 
@@ -14353,7 +14353,7 @@ Anthony Trollope, a clear and very capable realist, represents rather
 
 another side of the Victorian spirit of comfort; its leisureliness, its
 
-[[Love|love]] of detail, especially of domestic detail; its [[Love|love]] of following
+[[motifs/love|love]] of detail, especially of domestic detail; its [[motifs/love|love]] of following
 
 characters and kindred from book to book and from generation to
 
@@ -14379,7 +14379,7 @@ was a bustling but a quiet world that he described: politics before the
 
 coming of the Irish and the Socialists; the Church in the lull between
 
-the [[Oxford]] Movement and the modern High Anglican energy. And it is
+the [[settings/oxford|Oxford]] Movement and the modern High Anglican energy. And it is
 
 notable in the Victorian spirit once more that though his clergymen are
 
@@ -14415,9 +14415,9 @@ _Hypatia_, and a certain electric atmosphere of sectarian excitement
 
 that Kingsley kept himself in, and did know how to convey. He said he
 
-wrote the book in his heart's [[Blood|blood]]. This is an exaggeration, but there
+wrote the book in his heart's [[motifs/blood|blood]]. This is an exaggeration, but there
 
-is a [[Truth|truth]] in it; and one does feel that he may have relieved his
+is a [[concepts/truth|truth]] in it; and one does feel that he may have relieved his
 
 feelings by writing it in red ink. As for Disraeli, his novels are able
 
@@ -14451,24 +14451,24 @@ without him. And this was not due to wholly superficial things like his
 
 dandyism, his dark, sinister good looks and a great deal of the mere
 
-polished [[Melodrama|melodrama]] that he wrote. There was something in his all-round
+polished [[forms/melodrama|melodrama]] that he wrote. There was something in his all-round
 
 interests; in the variety of things he tried; in his half-aristocratic
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Time|tempo]] in questo rispetto: che, mentre le sue concezioni morali e religiose
+[[motifs/time|tempo]] in questo rispetto: che, mentre le sue concezioni morali e religiose
 
 erano meccaniche quanto le sue accuratamente costruite cospirazioni fittizie,
 
 egli tuttavia informò queste ultime con una sorta d'involontario misticismo
 
-che trattava interamente il lato più oscuro dell'[[Soul|anima]]. Poiché questo era uno
+che trattava interamente il lato più oscuro dell'[[motifs/soul|anima]]. Poiché questo era uno
 
 dei più peculiari dei problemi della mente vittoriana. L'idea del
 
-[[Supernatural|soprannaturale]] era forse a una marea tanto bassa quanto lo fosse mai
+[[motifs/supernatural|soprannaturale]] era forse a una marea tanto bassa quanto lo fosse mai
 
 stata — certo assai più bassa di quanto sia ora. Ma a dispetto di ciò, e a
 
@@ -14478,13 +14478,13 @@ fatto strano resta che l'unica sorta di soprannaturalismo che i
 
 vittoriani concedevano alle loro immaginazioni era un triste soprannaturalismo. Potevano
 
-avere storie di [[Ghost|fantasmi]], ma non storie di santi. Potevano gingillarsi
+avere storie di [[archetypes/ghost|fantasmi]], ma non storie di santi. Potevano gingillarsi
 
-con la maledizione o l'imperdonante profezia di una [[Witch|strega]], ma non con il
+con la maledizione o l'imperdonante profezia di una [[characters/witch|strega]], ma non con il
 
 perdono di un sacerdote. Pare che ritenessero (credo erroneamente) che
 
-il [[Supernatural|soprannaturale]] fosse più sicuro quando veniva dal basso. Quando pensiamo (per
+il [[motifs/supernatural|soprannaturale]] fosse più sicuro quando veniva dal basso. Quando pensiamo (per
 
 esempio) alle incalcolabili ricchezze d'arte religiosa, immaginario, rituale e
 
@@ -14508,15 +14508,15 @@ proprio e letterale parlare dei suoi «intrighi». Era un intrigante; si
 
 adoperò per uccidere Godfrey Ablewhite con la freddezza e l'astuzia con cui gli indiani
 
-lo fecero. Ma ebbe anche una salda benché sinistra nota di vera [[Magic|magia]]; come nella
+lo fecero. Ma ebbe anche una salda benché sinistra nota di vera magia; come nella
 
 ripetizione delle due vesti bianche in _La donna in bianco_; o dei
 
-[[Dreams|sogni]] con le loro [[Double|doppie]] spiegazioni in _Armadale_. I suoi [[Ghosts|fantasmi]]
+[[motifs/dreams|sogni]] con le loro [[topoi/double|doppie]] spiegazioni in _Armadale_. I suoi [[motifs/ghosts|fantasmi]]
 
 camminano davvero. Sono vivi; e camminano tanto lievemente quanto il Conte Fosco, ma tanto solidamente.
 
-Infine, _La pietra di luna_ è probabilmente il miglior racconto [[Detective|poliziesco]] del
+Infine, _La pietra di luna_ è probabilmente il miglior racconto [[archetypes/detective|poliziesco]] del
 
 mondo.
 
@@ -14524,7 +14524,7 @@ Anthony Trollope, un realista chiaro e assai capace, rappresenta piuttosto
 
 un altro lato dello spirito vittoriano di agiatezza; la sua lentezza, il suo
 
-[[Love|amore]] per il dettaglio, specialmente per il dettaglio domestico; il suo [[Love|amore]] di seguire
+[[motifs/love|amore]] per il dettaglio, specialmente per il dettaglio domestico; il suo [[motifs/love|amore]] di seguire
 
 personaggi e parentele da libro a libro e da generazione a
 
@@ -14550,7 +14550,7 @@ un mondo affaccendato ma quieto quello che descrisse: la politica prima
 
 della venuta degli irlandesi e dei socialisti; la Chiesa nella quiete tra
 
-il Movimento di [[Oxford]] e la moderna energia dell'Alta Chiesa anglicana. Ed è
+il Movimento di [[settings/oxford|Oxford]] e la moderna energia dell'Alta Chiesa anglicana. Ed è
 
 notevole nello spirito vittoriano ancora una volta che, benché i suoi ecclesiastici siano
 
@@ -14586,9 +14586,9 @@ _Ipazia_, e una certa elettrica atmosfera di eccitamento settario
 
 in cui Kingsley si mantenne, e che seppe rendere. Disse di aver
 
-scritto il libro nel [[Blood|sangue]] del suo cuore. Questa è un'esagerazione, ma c'è
+scritto il libro nel [[motifs/blood|sangue]] del suo cuore. Questa è un'esagerazione, ma c'è
 
-una [[Truth|verità]] in essa; e si sente davvero che egli può aver sollevato i suoi
+una [[concepts/truth|verità]] in essa; e si sente davvero che egli può aver sollevato i suoi
 
 sentimenti scrivendolo con inchiostro rosso. Quanto a Disraeli, i suoi romanzi sono abili
 
@@ -14622,7 +14622,7 @@ senza di lui. E ciò non era dovuto a cose del tutto superficiali come il suo
 
 dandismo, il suo scuro, sinistro bell'aspetto e gran parte del mero
 
-levigato [[Melodrama|melodramma]] che scrisse. C'era qualcosa nei suoi interessi
+levigato [[forms/melodrama|melodramma]] che scrisse. C'era qualcosa nei suoi interessi
 
 a tutto campo; nella varietà di cose che tentò; nella sua semi-aristocratica
 
@@ -14633,7 +14633,7 @@ a tutto campo; nella varietà di cose che tentò; nella sua semi-aristocratica
 
 swagger as poet and politician, that made him in some ways a real
 
-[[Touchstone|touchstone]] of the [[Time|time]]. It is noticeable about him that he is always
+[[characters/touchstone|touchstone]] of the [[motifs/time|time]]. It is noticeable about him that he is always
 
 turning up everywhere and that he brings other people out, generally in
 
@@ -14645,7 +14645,7 @@ Victorian common sense. His pose as a dilettante satirist inflamed the
 
 execrable temper of Tennyson, and led to those lively comparisons to a
 
-bandbox and a [[Lion|lion]] in curlpapers. He interposed the glove of warning and
+bandbox and a [[motifs/lion|lion]] in curlpapers. He interposed the glove of warning and
 
 the tear of sensibility between us and the proper ending of _Great
 
@@ -14665,7 +14665,7 @@ Lytton, which often is in adventurers; which amounts to a suspicion that
 
 there was something in him after all. It rang out of him when he said to
 
-the hesitating Crimean Parliament: "Destroy your [[government|Government]] and save
+the hesitating Crimean Parliament: "Destroy your Government and save
 
 your army."
 
@@ -14675,9 +14675,9 @@ later, more revolutionary, more continental, freer but in some ways
 
 weaker world in which we live to-day. The subtle and sad change that
 
-was passing like twilight across the English brain at this [[Time|time]] is very
+was passing like twilight across the English brain at this [[motifs/time|time]] is very
 
-[[Well|well]] expressed in the fact that men have come to mention the great name
+[[motifs/well|well]] expressed in the fact that men have come to mention the great name
 
 of Meredith in the same breath as Mr. Thomas Hardy. Both writers,
 
@@ -14695,7 +14695,7 @@ mortal enemies. They were much more opposed to each other than Newman
 
 was to Kingsley; or than Abelard was to St. Bernard. But then they
 
-collided in a sceptical age, which is like colliding in a [[London]] fog.
+collided in a sceptical age, which is like colliding in a [[settings/london|London]] fog.
 
 There can never be any clear controversy in a sceptical age.
 
@@ -14703,19 +14703,19 @@ Nevertheless both Hardy and Meredith did mean something; and they did
 
 mean diametrically opposite things. Meredith was perhaps the only man
 
-in the modern world who has almost had the high [[Honour|honour]] of rising out of
+in the modern world who has almost had the high [[concepts/honour|honour]] of rising out of
 
 the low estate of a Pantheist into the high estate of a Pagan. A Pagan
 
 is a person who can do what hardly any person for the last two thousand
 
-years could do: a person who can take [[Nature]] naturally. It is due to
+years could do: a person who can take [[concepts/nature|Nature]] naturally. It is due to
 
 Meredith to say that no one outside a few of the great Greeks has ever
 
-taken [[Nature]] so naturally as he did. And it is also due to him to say
+taken [[concepts/nature|Nature]] so naturally as he did. And it is also due to him to say
 
-that no one outside Colney Hatch ever took [[Nature]] so unnaturally as it
+that no one outside Colney Hatch ever took [[concepts/nature|Nature]] so unnaturally as it
 
 was taken in what Mr. Hardy has had the blasphemy to call Wessex Tales.
 
@@ -14733,7 +14733,7 @@ Pan is the great god. But there is some sense in it, and the sense is
 
 this: that some people believe that this world is sufficiently good at
 
-[[Bottom|bottom]] for us to trust ourselves to it without very much knowing why. It
+[[characters/bottom|bottom]] for us to trust ourselves to it without very much knowing why. It
 
 is the whole point in most of Meredith's tales that there is something
 
@@ -14749,7 +14749,7 @@ interesting epigrams: like that about passing Seraglio Point, but not
 
 doubling Cape Turk. Those who can see Meredith's mind in that are with
 
-those who can see Dickens' mind in [[Little Nell]]. Both were chivalrous
+those who can see Dickens' mind in [[characters/little-nell|Little Nell]]. Both were chivalrous
 
 pronouncements on behalf of oppressed females: neither has any earthly
 
@@ -14769,7 +14769,7 @@ is the opposite of what he was always attempting to say. So far from
 
 admitting any equality in the sexes, it logically admits that a man may
 
-use against a woman any [[Chains|chains]] or whips he has been in the habit of
+use against a woman any [[motifs/chains|chains]] or whips he has been in the habit of
 
 using against a tiger or a bear. He stood as the special champion of
 
@@ -14793,7 +14793,7 @@ mastery: he, at any rate, has not doubled Cape Turk, nor even passed
 
 Seraglio Point. Now why is it that we all really feel that this
 
-Meredithian passage is not so insolently masculine as in mere [[logic]] it
+Meredithian passage is not so insolently masculine as in mere logic it
 
 would seem? I think it is for this simple reason: that there is
 
@@ -14806,7 +14806,7 @@ disbelieves in, but civilisation. It is a dark undemonstrated feeling
 
 spavalderia come poeta e politico, che lo rese per certi versi una vera
 
-[[Touchstone|pietra di paragone]] del [[Time|tempo]]. È notevole in lui che egli spunta sempre
+[[characters/touchstone|pietra di paragone]] del [[motifs/time|tempo]]. È notevole in lui che egli spunta sempre
 
 dappertutto e che fa emergere le altre persone, generalmente in
 
@@ -14818,7 +14818,7 @@ buon senso vittoriano. La sua posa da satirico dilettante infiammò l'
 
 esecrabile carattere di Tennyson, e condusse a quei vivaci paragoni a una
 
-cappelliera e a un [[Lion|leone]] in bigodini. Egli interpose il guanto dell'avvertimento e
+cappelliera e a un [[motifs/lion|leone]] in bigodini. Egli interpose il guanto dell'avvertimento e
 
 la lacrima della sensibilità tra noi e il proprio finale di _Grandi
 
@@ -14838,7 +14838,7 @@ Lytton, che spesso è negli avventurieri; che equivale al sospetto che
 
 ci fosse in lui qualcosa dopo tutto. Risuonò da lui quando disse al
 
-esitante parlamento crimeano: «Distruggete il vostro [[government|Governo]] e salvate
+esitante parlamento crimeano: «Distruggete il vostro Governo e salvate
 
 il vostro esercito».
 
@@ -14848,9 +14848,9 @@ più tardo, più rivoluzionario, più continentale, più libero ma per certi ver
 
 più debole mondo in cui viviamo oggi. Il sottile e triste mutamento che
 
-passava come un crepuscolo attraverso il cervello inglese a questo [[Time|tempo]] è assai
+passava come un crepuscolo attraverso il cervello inglese a questo [[motifs/time|tempo]] è assai
 
-[[Well|bene]] espresso nel fatto che gli uomini sono giunti a menzionare il grande nome
+[[motifs/well|bene]] espresso nel fatto che gli uomini sono giunti a menzionare il grande nome
 
 di Meredith nello stesso respiro del signor Thomas Hardy. Entrambi gli scrittori,
 
@@ -14868,7 +14868,7 @@ nemici mortali. Erano molto più opposti l'uno all'altro di quanto Newman
 
 lo fosse a Kingsley; o di quanto Abelardo lo fosse a san Bernardo. Ma allora
 
-si scontrarono in un'età scettica, che è come scontrarsi in una nebbia di [[London|Londra]].
+si scontrarono in un'età scettica, che è come scontrarsi in una nebbia di [[settings/london|Londra]].
 
 Non può mai esserci alcuna chiara controversia in un'età scettica.
 
@@ -14876,19 +14876,19 @@ Nondimeno tanto Hardy quanto Meredith significavano davvero qualcosa; e
 
 significavano cose diametralmente opposte. Meredith fu forse l'unico uomo
 
-nel mondo moderno che ha quasi avuto l'alto [[Honour|onore]] di sollevarsi dalla
+nel mondo moderno che ha quasi avuto l'alto [[concepts/honour|onore]] di sollevarsi dalla
 
 bassa condizione di panteista all'alta condizione di pagano. Un pagano
 
 è una persona che può fare ciò che quasi nessuna persona negli ultimi duemila
 
-anni poté fare: una persona che sa prendere la [[Nature|natura]] naturalmente. Si deve a
+anni poté fare: una persona che sa prendere la [[concepts/nature|natura]] naturalmente. Si deve a
 
 Meredith dire che nessuno fuori di alcuni dei grandi greci ha mai
 
-preso la [[Nature|natura]] così naturalmente come lui. Ed è anche dovuto a lui dire
+preso la [[concepts/nature|natura]] così naturalmente come lui. Ed è anche dovuto a lui dire
 
-che nessuno fuori di Colney Hatch ha mai preso la [[Nature|natura]] così innaturalmente come essa
+che nessuno fuori di Colney Hatch ha mai preso la [[concepts/nature|natura]] così innaturalmente come essa
 
 fu presa in ciò che il signor Hardy ha avuto la bestemmia di chiamare Racconti del Wessex.
 
@@ -14906,7 +14906,7 @@ Pan è il grande dio. Ma c'è un qualche senso in ciò, e il senso è
 
 questo: che alcuni credono che questo mondo sia sufficientemente buono in
 
-[[Bottom|fondo]] perché ci affidiamo a esso senza sapere troppo il perché. È
+[[characters/bottom|fondo]] perché ci affidiamo a esso senza sapere troppo il perché. È
 
 l'intero punto nella maggior parte dei racconti di Meredith che c'è qualcosa
 
@@ -14922,7 +14922,7 @@ interessanti epigrammi: come quello sul passare Seraglio Point, ma non
 
 doppiare Cape Turk. Coloro che sanno vedere la mente di Meredith in ciò sono con
 
-coloro che sanno vedere la mente di Dickens in [[Little Nell]]. Entrambe erano cavalleresche
+coloro che sanno vedere la mente di Dickens in [[characters/little-nell|Little Nell]]. Entrambe erano cavalleresche
 
 dichiarazioni a favore delle femmine oppresse: nessuna delle due ha alcun terreno
 
@@ -14942,7 +14942,7 @@ l'opposto di ciò che egli tentava sempre di dire. Lungi
 
 dall'ammettere alcuna eguaglianza nei sessi, ammette logicamente che un uomo possa
 
-usare contro una donna qualsiasi [[Chains|catena]] o frusta abbia avuto l'abitudine di
+usare contro una donna qualsiasi [[motifs/chains|catena]] o frusta abbia avuto l'abitudine di
 
 usare contro una tigre o un orso. Egli si ergeva come speciale campione della
 
@@ -14966,7 +14966,7 @@ sessuale: egli, in ogni caso, non ha doppiato Cape Turk, né perfino passato
 
 Seraglio Point. Ora perché è che tutti noi sentiamo davvero che questo
 
-passo meredithiano non è così insolentemente maschile come in mera [[logic|logica]]
+passo meredithiano non è così insolentemente maschile come in mera logica
 
 sembrerebbe? Credo sia per questa semplice ragione: che c'è
 
@@ -14995,13 +14995,13 @@ Dickens and Carlyle, as we have said, rebelled against the orthodox
 
 compromise: but Meredith has escaped from it. Cosmopolitanism,
 
-Socialism, Feminism are already in the air; and [[Queen]] Victoria has
+Socialism, Feminism are already in the air; and [[characters/queen|Queen]] Victoria has
 
-begun to look like Mrs. Grundy. But to escape from a [[City|city]] is one thing:
+begun to look like Mrs. Grundy. But to escape from a [[motifs/city|city]] is one thing:
 
-to choose a [[Road|road]] is another. The free-thinker who found himself outside
+to choose a [[motifs/road|road]] is another. The free-thinker who found himself outside
 
-the Victorian [[City|city]], found himself also in the fork of two very different
+the Victorian [[motifs/city|city]], found himself also in the fork of two very different
 
 naturalistic paths. One of them went upwards through a tangled but
 
@@ -15017,21 +15017,21 @@ and blaspheming over the village idiot. It is largely because the
 
 free-thinkers, as a school, have hardly made up their minds whether they
 
-want to be more optimist or more pessimist than [[Christianity]] that their
+want to be more optimist or more pessimist than [[historical-references/christianity|Christianity]] that their
 
 small but sincere movement has failed.
 
 For the duel is deadly; and any agnostic who wishes to be anything more
 
-than a Nihilist must sympathise with one version of [[Nature|nature]] or the
+than a Nihilist must sympathise with one version of [[concepts/nature|nature]] or the
 
 other. The God of Meredith is impersonal; but he is often more healthy
 
 and kindly than any of the persons. That of Thomas Hardy is almost made
 
-personal by the intense feeling that he is poisonous. [[Nature]] is always
+personal by the intense feeling that he is poisonous. [[concepts/nature|Nature]] is always
 
-coming in to save Meredith's women; [[Nature]] is always coming in to betray
+coming in to save Meredith's women; [[concepts/nature|Nature]] is always coming in to betray
 
 and ruin Hardy's. It has been said that if God had not existed it would
 
@@ -15053,17 +15053,17 @@ types of sceptic is this: that when these two brilliant novelists break
 
 down or blow up or otherwise lose for a moment their artistic
 
-[[Self|self]]-command, they are both equally wild, but wild in opposite
+[[concepts/self|self]]-command, they are both equally wild, but wild in opposite
 
-directions. Meredith shows an extravagance in [[Comedy|comedy]] which, if it were
+directions. Meredith shows an extravagance in [[forms/comedy|comedy]] which, if it were
 
 not so complicated, every one would call broad farce. But Mr. Hardy has
 
-the [[Honour|honour]] of inventing a new sort of game, which may be called the
+the [[concepts/honour|honour]] of inventing a new sort of game, which may be called the
 
-extravagance of depression. The placing of the weak [[Lover|lover]] and his new
+extravagance of depression. The placing of the weak [[archetypes/lover|lover]] and his new
 
-[[Love|love]] in such a place that they actually see the black [[Flag|flag]] announcing
+[[motifs/love|love]] in such a place that they actually see the black [[motifs/flag|flag]] announcing
 
 that Tess has been hanged is utterly inexcusable in art and probability;
 
@@ -15083,33 +15083,33 @@ outlook who had the crabbed and perverse style; it was the man who had
 
 the crabbed and perverse outlook who had the healthy and manly style.
 
-The reader may [[Well|well]] have complained of [[Paradox|paradox]] when I observed above
+The reader may [[motifs/well|well]] have complained of [[concepts/paradox|paradox]] when I observed above
 
-that Meredith, unlike most neo-Pagans, did in his way take [[Nature]]
+that Meredith, unlike most neo-Pagans, did in his way take [[concepts/nature|Nature]]
 
 naturally. It may be suggested, in tones of some remonstrance, that
 
 things like "though pierced by the cruel acerb," or "thy fleetingness is
 
-bigger in the [[Ghost|ghost]]," or "her gabbling grey she eyes askant," or "sheer
+bigger in the [[archetypes/ghost|ghost]]," or "her gabbling grey she eyes askant," or "sheer
 
-film of the surface awag" are not taking [[Nature]] naturally. And this is
+film of the surface awag" are not taking [[concepts/nature|Nature]] naturally. And this is
 
 true of Meredith's style, but it is not true of his spirit; nor even,
 
-apparently, of his serious opinions. In one of the [[Poems|poems]] I have quoted
+apparently, of his serious opinions. In one of the poems I have quoted
 
-he actually says of those who live nearest to that [[Nature]] he was always
+he actually says of those who live nearest to that [[concepts/nature|Nature]] he was always
 
 praising--
 
-"Have they but held her laws and [[Nature|nature]] dear,
+"Have they but held her laws and [[concepts/nature|nature]] dear,
 
 They mouth no sentence of inverted wit";
 
-which certainly was what Meredith himself was doing most of the [[Time|time]].
+which certainly was what Meredith himself was doing most of the [[motifs/time|time]].
 
-But a similar [[Paradox|paradox]] of the combination of plain tastes with twisted
+But a similar [[concepts/paradox|paradox]] of the combination of plain tastes with twisted
 
 phrases can also be seen in Browning. Something of the same can be seen
 
@@ -15127,9 +15127,9 @@ Certainly Meredith suffers from applying a complex method to men and
 
 things he does not mean to be complex; nay, honestly admires for being
 
-simple. The conversations between [[Diana]] and Redworth fail of their full
+simple. The conversations between [[characters/diana|Diana]] and Redworth fail of their full
 
-contrast because Meredith can afford the twopence for [[Diana]] coloured,
+contrast because Meredith can afford the twopence for [[characters/diana|Diana]] coloured,
 
 but cannot afford the penny for Redworth plain. Meredith's ideals were
 
@@ -15139,11 +15139,11 @@ had, perhaps, over and above his honest Pantheism two convictions
 
 profound enough to be called prejudices. He was probably of Welsh
 
-[[Blood|blood]], certainly of Celtic sympathies, and he set himself more swiftly
+[[motifs/blood|blood]], certainly of Celtic sympathies, and he set himself more swiftly
 
 though more subtly than Ruskin or Swinburne to undermining the enormous
 
-complacency of John Bull. He also had a sincere [[Hope|hope]] in the strength of
+complacency of John Bull. He also had a sincere [[concepts/hope|hope]] in the strength of
 
 womanhood, and may be said, almost without hyperbole, to have begotten
 
@@ -15168,13 +15168,13 @@ Dickens e Carlyle, come abbiamo detto, si ribellarono contro l'ortodosso
 
 compromesso: ma Meredith ne è fuggito. Cosmopolitismo,
 
-socialismo, femminismo sono già nell'aria; e la [[Queen|Regina]] Vittoria ha
+socialismo, femminismo sono già nell'aria; e la [[characters/queen|Regina]] Vittoria ha
 
-cominciato a somigliare alla signora Grundy. Ma fuggire da una [[City|città]] è una cosa:
+cominciato a somigliare alla signora Grundy. Ma fuggire da una [[motifs/city|città]] è una cosa:
 
-scegliere una [[Road|strada]] è un'altra. Il libero pensatore che si trovò fuori dalla
+scegliere una [[motifs/road|strada]] è un'altra. Il libero pensatore che si trovò fuori dalla
 
-[[City|città]] vittoriana, si trovò anche al bivio di due assai diversi
+[[motifs/city|città]] vittoriana, si trovò anche al bivio di due assai diversi
 
 sentieri naturalistici. Uno di essi saliva attraverso una intricata ma
 
@@ -15190,21 +15190,21 @@ e bestemmia sull'idiota del villaggio. È in gran parte perché i
 
 liberi pensatori, come scuola, hanno appena deciso se
 
-vogliono essere più ottimisti o più pessimisti del [[Christianity|cristianesimo]] che il loro
+vogliono essere più ottimisti o più pessimisti del [[historical-references/christianity|cristianesimo]] che il loro
 
 piccolo ma sincero movimento è fallito.
 
 Poiché il duello è mortale; e ogni agnostico che desideri essere qualcosa di più
 
-di un nichilista deve simpatizzare con una versione della [[Nature|natura]] o con l'
+di un nichilista deve simpatizzare con una versione della [[concepts/nature|natura]] o con l'
 
 altra. Il Dio di Meredith è impersonale; ma è spesso più salubre
 
 e benigno di qualsiasi delle persone. Quello di Thomas Hardy è quasi reso
 
-personale dall'intenso sentimento che egli è velenoso. La [[Nature|natura]] viene sempre
+personale dall'intenso sentimento che egli è velenoso. La [[concepts/nature|natura]] viene sempre
 
-a salvare le donne di Meredith; la [[Nature|natura]] viene sempre a tradire
+a salvare le donne di Meredith; la [[concepts/nature|natura]] viene sempre a tradire
 
 e rovinare quelle di Hardy. È stato detto che se Dio non fosse esistito sarebbe
 
@@ -15226,17 +15226,17 @@ tipi di scettico è questo: che quando questi due brillanti romanzieri crollano
 
 o esplodono o altrimenti perdono per un momento il loro artistico
 
-[[Self|auto]]-controllo, sono entrambi ugualmente sfrenati, ma sfrenati in direzioni
+[[concepts/self|auto]]-controllo, sono entrambi ugualmente sfrenati, ma sfrenati in direzioni
 
-opposte. Meredith mostra una stravaganza nella [[Comedy|commedia]] che, se non fosse
+opposte. Meredith mostra una stravaganza nella [[forms/comedy|commedia]] che, se non fosse
 
 così complicata, tutti chiamerebbero larga farsa. Ma il signor Hardy ha
 
-l'[[Honour|onore]] d'inventare una nuova sorta di gioco, che si può chiamare la
+l'[[concepts/honour|onore]] d'inventare una nuova sorta di gioco, che si può chiamare la
 
-stravaganza della depressione. Il collocare il debole [[Lover|amante]] e il suo nuovo
+stravaganza della depressione. Il collocare il debole [[archetypes/lover|amante]] e il suo nuovo
 
-[[Love|amore]] in un tal luogo che essi vedono in effetti la nera [[Flag|bandiera]] che annuncia
+[[motifs/love|amore]] in un tal luogo che essi vedono in effetti la nera [[motifs/flag|bandiera]] che annuncia
 
 che Tess è stata impiccata è del tutto inescusabile nell'arte e nella probabilità;
 
@@ -15256,33 +15256,33 @@ visione ad avere lo stile arcigno e perverso; fu l'uomo che aveva
 
 l'arcigna e perversa visione ad avere lo stile salubre e virile.
 
-Il lettore può [[Well|bene]] essersi lamentato di [[Paradox|paradosso]] quando ho osservato sopra
+Il lettore può [[motifs/well|bene]] essersi lamentato di [[concepts/paradox|paradosso]] quando ho osservato sopra
 
-che Meredith, a differenza della maggior parte dei neopagani, prese a suo modo la [[Nature|natura]]
+che Meredith, a differenza della maggior parte dei neopagani, prese a suo modo la [[concepts/nature|natura]]
 
 naturalmente. Si può suggerire, in toni di qualche rimostranza, che
 
 cose come «though pierced by the cruel acerb», o «thy fleetingness is
 
-bigger in the [[Ghost|ghost]]», o «her gabbling grey she eyes askant», o «sheer
+bigger in the [[archetypes/ghost|ghost]]», o «her gabbling grey she eyes askant», o «sheer
 
-film of the surface awag» non prendono la [[Nature|natura]] naturalmente. E questo è
+film of the surface awag» non prendono la [[concepts/nature|natura]] naturalmente. E questo è
 
 vero dello stile di Meredith, ma non è vero del suo spirito; né perfino,
 
-apparentemente, delle sue serie opinioni. In una delle [[Poems|poesie]] che ho citato
+apparentemente, delle sue serie opinioni. In una delle poesie che ho citato
 
-egli dice in effetti di coloro che vivono più vicini a quella [[Nature|Natura]] che egli sempre
+egli dice in effetti di coloro che vivono più vicini a quella [[concepts/nature|Natura]] che egli sempre
 
 lodava —
 
-«Purché abbiano tenuto care le sue leggi e la [[Nature|natura]],
+«Purché abbiano tenuto care le sue leggi e la [[concepts/nature|natura]],
 
 non pronunciano sentenza alcuna d'arguzia rovesciata»;
 
-il che certamente era ciò che Meredith stesso stava facendo per la maggior parte del [[Time|tempo]].
+il che certamente era ciò che Meredith stesso stava facendo per la maggior parte del [[motifs/time|tempo]].
 
-Ma un simile [[Paradox|paradosso]] della combinazione di gusti semplici con frasi
+Ma un simile [[concepts/paradox|paradosso]] della combinazione di gusti semplici con frasi
 
 contorte si può vedere anche in Browning. Qualcosa di uguale si può vedere
 
@@ -15300,9 +15300,9 @@ Certamente Meredith soffre dell'applicare un metodo complesso a uomini e
 
 cose che non intende siano complesse; anzi, onestamente ammira per essere
 
-semplici. Le conversazioni tra [[Diana]] e Redworth mancano del loro pieno
+semplici. Le conversazioni tra [[characters/diana|Diana]] e Redworth mancano del loro pieno
 
-contrasto perché Meredith può permettersi i due soldi per [[Diana]] a colori,
+contrasto perché Meredith può permettersi i due soldi per [[characters/diana|Diana]] a colori,
 
 ma non può permettersi il soldo per Redworth in bianco. Gli ideali di Meredith non erano
 
@@ -15312,11 +15312,11 @@ aveva, forse, oltre e al di sopra del suo onesto panteismo due convinzioni
 
 abbastanza profonde da chiamarsi pregiudizi. Era probabilmente di gallese
 
-[[Blood|sangue]], certo di simpatie celtiche, e si dispose più rapidamente
+[[motifs/blood|sangue]], certo di simpatie celtiche, e si dispose più rapidamente
 
 benché più sottilmente di Ruskin o Swinburne a minare l'enorme
 
-compiacenza di John Bull. Aveva anche una sincera [[Hope|speranza]] nella forza della
+compiacenza di John Bull. Aveva anche una sincera [[concepts/hope|speranza]] nella forza della
 
 femminilità, e si può dire, quasi senza iperbole, che abbia generato
 
@@ -15327,7 +15327,7 @@ figlie gigantesche. Egli può ancora soffrire per la sua cavalleresca interferen
 <span class="atom-split" data-atom="chapter_02--part_11" data-title="Victorian Age — Chapter 2 (part 11)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/artist,motif/childhood,motif/time,motif/wind,concept/doubt,form/tragedy,setting/germany,setting/italy"></span>
 
 
-many champions do. I have little [[Doubt|doubt]] that when St. George had killed
+many champions do. I have little [[concepts/doubt|doubt]] that when St. George had killed
 
 the dragon he was heartily afraid of the princess. But certainly neither
 
@@ -15335,7 +15335,7 @@ of these two vital enthusiasms touched the Victorian trouble. The
 
 disaster of the modern English is not that they are not Celtic, but that
 
-they are not English. The [[Tragedy|tragedy]] of the modern woman is not that she is
+they are not English. The [[forms/tragedy|tragedy]] of the modern woman is not that she is
 
 not allowed to follow man, but that she follows him far too slavishly.
 
@@ -15357,7 +15357,7 @@ he gets the impression of a real richness of thought; and that is what
 
 one really gets from such riots of felicity as _Evan Harrington_ or
 
-_Harry Richmond_. His [[philosophy]] may be barren, but he was not. And the
+_Harry Richmond_. His philosophy may be barren, but he was not. And the
 
 chief feeling among those that enjoy him is a mere wish that more people
 
@@ -15379,7 +15379,7 @@ best novels about cavaliers have been (written by men like Scott or
 
 Stevenson) it is a wonderful thing that the author of _John Inglesant_
 
-could write a cavalier [[Romance|romance]] in which he forgot Cromwell but
+could write a cavalier romance in which he forgot Cromwell but
 
 remembered Hobbes. But Shorthouse is outside the period in fiction in
 
@@ -15399,9 +15399,9 @@ great Victorians who will not fit into any of the obvious categories I
 
 employ; because they will not fit into anything, hardly into the world
 
-itself. Where [[Germany]] or [[Italy]] would relieve the monotony of mankind by
+itself. Where [[settings/germany|Germany]] or [[settings/italy|Italy]] would relieve the monotony of mankind by
 
-paying serious respect to an [[artist]], or a scholar, or a patriotic
+paying serious respect to an [[archetypes/artist|artist]], or a scholar, or a patriotic
 
 warrior, or a priest--it was always the instinct of the English to do it
 
@@ -15413,7 +15413,7 @@ critic, but he survives as a Character. Cobbett is neglected
 
 a Character. Now these people continued to crop up through the Victorian
 
-[[Time|time]]; and each stands so much by himself that I shall end these pages
+[[motifs/time|time]]; and each stands so much by himself that I shall end these pages
 
 with a profound suspicion that I have forgotten to mention a Character
 
@@ -15423,7 +15423,7 @@ George Borrow; who sympathised with unsuccessful nomads like the gipsies
 
 while every one else sympathised with successful nomads like the Jews;
 
-who had a genius like the west [[Wind|wind]] for the awakening of wild and casual
+who had a genius like the west [[motifs/wind|wind]] for the awakening of wild and casual
 
 friendships and the drag and attraction of the roads. But whether George
 
@@ -15461,13 +15461,13 @@ thing; a thing called Nonsense. It may be doubted whether this thing was
 
 really invented to please children. Rather it was invented by old
 
-people trying to prove their first [[Childhood|childhood]], and sometimes succeeding
+people trying to prove their first [[motifs/childhood|childhood]], and sometimes succeeding
 
 only in proving their second. But whatever else the thing was, it was
 
 English and it was individual. Lewis Carroll gave mathematics a holiday:
 
-he carried [[logic]] into the wild lands of illogicality. Edward Lear, a
+he carried logic into the wild lands of illogicality. Edward Lear, a
 
 richer, more romantic and therefore more truly Victorian buffoon,
 
@@ -15477,9 +15477,9 @@ think, conclude that it reposed on something more real and profound in
 
 the Victorians than even their just and exquisite appreciation of
 
-children. It came from the deep Victorian sense of [[Humour|humour]].
+children. It came from the deep Victorian sense of humour.
 
-It may appear, because I have used from [[Time|time]] to [[Time|time]] the only possible
+It may appear, because I have used from [[motifs/time|time]] to [[motifs/time|time]] the only possible
 
 phrases for the case, that I mean the Victorian Englishman to appear as
 
@@ -15493,7 +15493,7 @@ which Goethe had never taught the Germans, Byron did manage to teach the
 
 English--the duty of not taking him seriously. The strong and shrewd
 
-Victorian [[Humour|humour]] appears in every slash of the pencil of Charles Keene;
+Victorian humour appears in every slash of the pencil of Charles Keene;
 
 in every undergraduate inspiration of Calverley or "Q." or J. K. S. They
 
@@ -15530,7 +15530,7 @@ humorist; and may still be laughing at you.
 
 <span class="qlang-split" data-lang="it"></span>
 
-come fanno molti campioni. Ho pochi [[Doubt|dubbi]] che, quando San Giorgio ebbe ucciso
+come fanno molti campioni. Ho pochi [[concepts/doubt|dubbi]] che, quando San Giorgio ebbe ucciso
 
 il drago, avesse una gran paura della principessa. Ma di certo nessuno
 
@@ -15538,7 +15538,7 @@ di questi due vitali entusiasmi toccava il problema vittoriano. Il
 
 disastro degli inglesi moderni non è che non siano celtici, ma che
 
-non siano inglesi. La [[Tragedy|tragedia]] della donna moderna non è che non le sia
+non siano inglesi. La [[forms/tragedy|tragedia]] della donna moderna non è che non le sia
 
 consentito di seguire l'uomo, ma che lo segua in modo troppo servile.
 
@@ -15560,7 +15560,7 @@ ne ricava l'impressione di una vera ricchezza di pensiero; ed è questo ciò che
 
 si ricava davvero da simili tripudi di felicità come _Evan Harrington_ o
 
-_Harry Richmond_. La sua [[philosophy|filosofia]] può essere sterile, ma egli non lo era. E il
+_Harry Richmond_. La sua filosofia può essere sterile, ma egli non lo era. E il
 
 sentimento principale tra coloro che lo apprezzano è il semplice desiderio che più persone
 
@@ -15582,7 +15582,7 @@ migliori romanzi sui cavalieri (scritti da uomini come Scott o
 
 Stevenson), è una cosa meravigliosa che l'autore di _John Inglesant_
 
-abbia potuto scrivere un [[Romance|romanzo]] cavalleresco in cui dimenticava Cromwell ma
+abbia potuto scrivere un romanzo cavalleresco in cui dimenticava Cromwell ma
 
 ricordava Hobbes. Ma Shorthouse è fuori dal periodo, nella narrativa,
 
@@ -15602,9 +15602,9 @@ grandi vittoriani che non rientrano in nessuna delle ovvie categorie che
 
 impiego; perché non rientrano in nulla, a stento nel mondo
 
-stesso. Là dove la [[Germany|Germania]] o l'[[Italy|Italia]] alleggerirebbero la monotonia dell'umanità
+stesso. Là dove la [[settings/germany|Germania]] o l'[[settings/italy|Italia]] alleggerirebbero la monotonia dell'umanità
 
-tributando serio rispetto a un [[artist|artista]], o a uno studioso, o a un guerriero
+tributando serio rispetto a un [[archetypes/artist|artista]], o a uno studioso, o a un guerriero
 
 patriottico, o a un sacerdote... fu sempre istinto degli inglesi farlo
 
@@ -15616,7 +15616,7 @@ critico, ma sopravvive come Tipo. Cobbett è trascurato
 
 un Tipo. Ora, queste persone continuarono a spuntare per tutto il
 
-[[Time|tempo]] vittoriano; e ciascuno sta talmente per conto proprio che concluderò queste pagine
+[[motifs/time|tempo]] vittoriano; e ciascuno sta talmente per conto proprio che concluderò queste pagine
 
 con il profondo sospetto di aver dimenticato di menzionare un Tipo
 
@@ -15626,7 +15626,7 @@ George Borrow; che simpatizzava con i nomadi senza fortuna come gli zingari
 
 mentre tutti gli altri simpatizzavano con i nomadi di successo come gli ebrei;
 
-che aveva un genio simile al [[Wind|vento]] di ponente per il risveglio di amicizie selvagge e
+che aveva un genio simile al [[motifs/wind|vento]] di ponente per il risveglio di amicizie selvagge e
 
 casuali e per il richiamo e l'attrazione delle strade. Ma se George
 
@@ -15664,13 +15664,13 @@ nuova; una cosa chiamata Nonsense. Si può dubitare che questa cosa sia stata
 
 davvero inventata per dilettare i bambini. Piuttosto fu inventata da persone
 
-anziane che cercavano di provare la loro prima [[Childhood|infanzia]], e talvolta riuscivano
+anziane che cercavano di provare la loro prima [[motifs/childhood|infanzia]], e talvolta riuscivano
 
 solo a provare la seconda. Ma qualunque altra cosa fosse, era
 
 inglese ed era individuale. Lewis Carroll concesse una vacanza alla matematica:
 
-portò la [[logic|logica]] nelle terre selvagge dell'illogicità. Edward Lear, un
+portò la logica nelle terre selvagge dell'illogicità. Edward Lear, un
 
 buffone più ricco, più romantico e perciò più autenticamente vittoriano,
 
@@ -15680,9 +15680,9 @@ concluderemo che esso poggiava su qualcosa di più reale e profondo nei
 
 vittoriani perfino del loro giusto e squisito apprezzamento dei
 
-bambini. Proveniva dal profondo senso dell'[[Humour|umorismo]] vittoriano.
+bambini. Proveniva dal profondo senso dell'umorismo vittoriano.
 
-Può sembrare, poiché di [[Time|tempo]] in [[Time|tempo]] ho usato le uniche possibili
+Può sembrare, poiché di [[motifs/time|tempo]] in [[motifs/time|tempo]] ho usato le uniche possibili
 
 espressioni adatte al caso, che io voglia far apparire l'inglese vittoriano come
 
@@ -15696,7 +15696,7 @@ che Goethe non aveva mai insegnato ai tedeschi, Byron riuscì a insegnarlo agli
 
 inglesi... il dovere di non prenderlo sul serio. Il forte e sagace
 
-[[Humour|umorismo]] vittoriano appare in ogni sferzata di matita di Charles Keene;
+umorismo vittoriano appare in ogni sferzata di matita di Charles Keene;
 
 in ogni ispirazione goliardica di Calverley o di «Q.» o di J. K. S. Essi
 
@@ -15751,13 +15751,13 @@ why the society became unequal: I cannot say. They were lame giants; the
 
 strongest of them walked on one leg a little shorter than the other. A
 
-great man in any age must be a [[Common Man|common man]], and also an uncommon man.
+great man in any age must be a [[concepts/common-man|common man]], and also an uncommon man.
 
 Those that are only uncommon men are perverts and sowers of pestilence.
 
 But somehow the great Victorian man was more and less than this. He was
 
-at once a giant and a [[Dwarf|dwarf]]. When he has been sweeping the sky in
+at once a giant and a [[characters/dwarf|dwarf]]. When he has been sweeping the sky in
 
 circles infinitely great, he suddenly shrivels into something
 
@@ -15777,7 +15777,7 @@ in Virgil or in Chaucer or in Shakespeare or in Dryden; such things as
 
 they knew they knew. It is no disgrace to Homer that he had not
 
-discovered Britain; or to Virgil that he had not discovered [[America]]; or
+discovered Britain; or to Virgil that he had not discovered [[settings/america|America]]; or
 
 to Chaucer that he had not discovered the solar system; or to Dryden
 
@@ -15801,7 +15801,7 @@ Ruskin when he says, with a solemn visage, that building in iron is ugly
 
 and unreal, but that the weightiest objection is that there is no
 
-mention of it in the [[Bible]]; we feel as if he had just said he could find
+mention of it in the [[historical-references/bible|Bible]]; we feel as if he had just said he could find
 
 no hair-brushes in Habakkuk. We feel that it _is_ a disgrace to a man
 
@@ -15811,7 +15811,7 @@ from being nuns, merely because he has no fixed intention of becoming a
 
 nun himself. We feel that it _is_ a disgrace to a man like Tennyson,
 
-when he talks of the French revolutions, the huge [[Crusades|crusades]] that had
+when he talks of the French revolutions, the huge [[historical-references/crusades|crusades]] that had
 
 recreated the whole of his civilisation, as being "no graver than a
 
@@ -15821,9 +15821,9 @@ Browning to make spluttering and spiteful puns about the names Newman,
 
 Wiseman, and Manning. We feel that it _is_ a disgrace to a man like
 
-Newman when he confesses that for some [[Time|time]] he felt as if he couldn't
+Newman when he confesses that for some [[motifs/time|time]] he felt as if he couldn't
 
-come in to the [[Catholic Church]], because of that dreadful Mr. Daniel
+come in to the [[historical-references/catholic-church|Catholic Church]], because of that dreadful Mr. Daniel
 
 O'Connell, who had the vulgarity to fight for his own country. We feel
 
@@ -15837,7 +15837,7 @@ Swinburne, when he has a Jingo fit and calls the Boer children in the
 
 concentration camps "Whelps of treacherous dams whom none save we have
 
-spared to starve and slay": we feel that Swinburne, for the first [[Time|time]],
+spared to starve and slay": we feel that Swinburne, for the first [[motifs/time|time]],
 
 really has become an immoral and indecent writer. All this is a certain
 
@@ -15847,11 +15847,11 @@ were in a kind of pocket; they appealed to too narrow a public opinion;
 
 I am certain that no French or German men of the same genius made such
 
-remarks. Renan was the enemy of the [[Catholic Church]]; but who can imagine
+remarks. Renan was the enemy of the [[historical-references/catholic-church|Catholic Church]]; but who can imagine
 
 Renan writing of it as Kingsley or Dickens did? Taine was the enemy of
 
-the [[French Revolution]]; but who can imagine Taine talking about it as
+the [[historical-references/french-revolution|French Revolution]]; but who can imagine Taine talking about it as
 
 Tennyson or Newman talked? Even Matthew Arnold, though he saw this peril
 
@@ -15873,7 +15873,7 @@ real problems about his poetry. Tennyson, of course, owed a great deal
 
 to Virgil. There is no question of plagiarism here; a debt to Virgil is
 
-like a debt to [[Nature]]. But Tennyson was a provincial Virgil. In such
+like a debt to [[concepts/nature|Nature]]. But Tennyson was a provincial Virgil. In such
 
 passages as that about the schoolboy's barring out he might be called a
 
@@ -15889,13 +15889,13 @@ Constitution. It is intensely typical of Tennyson's philosophical temper
 
 that he was almost the only Poet Laureate who was not ludicrous. It is
 
-not absurd to think of Tennyson as tuning his harp in praise of [[Queen]]
+not absurd to think of Tennyson as tuning his harp in praise of [[characters/queen|Queen]]
 
 Victoria: that is, it is not absurd in the same sense as Chaucer's harp
 
-hallowed by dedication to [[Richard II]] or Wordsworth's harp hallowed by
+hallowed by dedication to [[characters/richard-ii|Richard II]] or Wordsworth's harp hallowed by
 
-dedication to George IV is absurd. [[Richard]]'s [[Court|court]] could not properly
+dedication to George IV is absurd. [[characters/richard|Richard]]'s [[settings/court|court]] could not properly
 
 appreciate either Chaucer's daisies or his "devotion." George IV would
 
@@ -15926,13 +15926,13 @@ giganti zoppi; il più forte di loro camminava su una gamba un poco
 
 più corta dell'altra. Un grande uomo, in qualunque epoca, deve essere
 
-un [[Common Man|uomo comune]], e insieme un uomo non comune.
+un [[concepts/common-man|uomo comune]], e insieme un uomo non comune.
 
 Coloro che sono soltanto uomini non comuni sono pervertiti e seminatori di pestilenza.
 
 Ma in qualche modo il grande uomo vittoriano era più e meno di questo. Era
 
-a un tempo un gigante e un [[Dwarf|nano]]. Quando ha spazzato il cielo in
+a un tempo un gigante e un [[characters/dwarf|nano]]. Quando ha spazzato il cielo in
 
 cerchi infinitamente grandi, d'improvviso si raggrinzisce in qualcosa
 
@@ -15952,7 +15952,7 @@ in Virgilio o in Chaucer o in Shakespeare o in Dryden; le cose che
 
 sapevano, le sapevano. Non è vergogna per Omero non aver
 
-scoperto la Britannia; o per Virgilio non aver scoperto l'[[America]]; o
+scoperto la Britannia; o per Virgilio non aver scoperto l'[[settings/america|America]]; o
 
 per Chaucer non aver scoperto il sistema solare; o per Dryden
 
@@ -15976,7 +15976,7 @@ Ruskin dire, con volto solenne, che costruire in ferro è brutto
 
 e irreale, ma che l'obiezione più grave è che non se ne fa
 
-menzione nella [[Bible|Bibbia]]; sentiamo come se avesse appena detto di non trovare
+menzione nella [[historical-references/bible|Bibbia]]; sentiamo come se avesse appena detto di non trovare
 
 spazzole per capelli in Abacuc. Sentiamo che _è_ una vergogna per un uomo
 
@@ -15986,7 +15986,7 @@ di farsi monaca, solo perché egli non ha alcun fermo proposito di diventare
 
 monaco lui stesso. Sentiamo che _è_ una vergogna per un uomo come Tennyson,
 
-quando parla delle rivoluzioni francesi, le immense [[Crusades|crociate]] che avevano
+quando parla delle rivoluzioni francesi, le immense [[historical-references/crusades|crociate]] che avevano
 
 ricreato l'intera sua civiltà, come «non più gravi
 
@@ -15996,9 +15996,9 @@ Browning fare calembour balbettanti e maligni sui nomi di Newman,
 
 Wiseman e Manning. Sentiamo che _è_ una vergogna per un uomo come
 
-Newman confessare che per qualche [[Time|tempo]] gli parve di non poter
+Newman confessare che per qualche [[motifs/time|tempo]] gli parve di non poter
 
-entrare nella [[Catholic Church|Chiesa cattolica]], a causa di quel terribile signor Daniel
+entrare nella [[historical-references/catholic-church|Chiesa cattolica]], a causa di quel terribile signor Daniel
 
 O'Connell, che aveva la volgarità di battersi per il proprio paese. Sentiamo
 
@@ -16012,7 +16012,7 @@ Swinburne, quando ha un accesso di sciovinismo e chiama i bambini boeri nei
 
 campi di concentramento «cuccioli di madri infide, che nessuno tranne noi ha
 
-risparmiato per lasciarli morir di fame e ucciderli»: sentiamo che Swinburne, per la prima [[Time|volta]],
+risparmiato per lasciarli morir di fame e ucciderli»: sentiamo che Swinburne, per la prima [[motifs/time|volta]],
 
 è davvero diventato uno scrittore immorale e indecente. Tutto ciò è un certo
 
@@ -16022,11 +16022,11 @@ in una sorta di sacca; si appellavano a un'opinione pubblica troppo ristretta;
 
 sono certo che nessun francese o tedesco del medesimo genio fece tali
 
-osservazioni. Renan era il nemico della [[Catholic Church|Chiesa cattolica]]; ma chi può immaginare
+osservazioni. Renan era il nemico della [[historical-references/catholic-church|Chiesa cattolica]]; ma chi può immaginare
 
 Renan scriverne come fecero Kingsley o Dickens? Taine era il nemico della
 
-[[French Revolution|Rivoluzione francese]]; ma chi può immaginare Taine parlarne come
+[[historical-references/french-revolution|Rivoluzione francese]]; ma chi può immaginare Taine parlarne come
 
 ne parlarono Tennyson o Newman? Perfino Matthew Arnold, benché scorgesse questo pericolo
 
@@ -16046,7 +16046,7 @@ reali riguardo alla sua poesia. Tennyson, s'intende, doveva molto
 
 a Virgilio. Qui non è questione di plagio; un debito verso Virgilio è
 
-come un debito verso la [[Nature|Natura]]. Ma Tennyson era un Virgilio provinciale. In
+come un debito verso la [[concepts/nature|Natura]]. Ma Tennyson era un Virgilio provinciale. In
 
 passi come quello sull'ammutinamento dello scolaro potrebbe essere chiamato un
 
@@ -16060,13 +16060,13 @@ come l'universo. Era un equilibrio di capricci; come la Costituzione britannica.
 
 È intensamente tipico del temperamento filosofico di Tennyson che egli fosse quasi l'unico
 
-Poeta Laureato a non essere ridicolo. Non è assurdo pensare a Tennyson mentre accorda la sua arpa in lode della [[Queen|Regina]]
+Poeta Laureato a non essere ridicolo. Non è assurdo pensare a Tennyson mentre accorda la sua arpa in lode della [[characters/queen|Regina]]
 
 Vittoria: cioè, non è assurdo nello stesso senso in cui è assurda l'arpa di Chaucer
 
-consacrata dalla dedica a [[Richard II|Riccardo II]] o l'arpa di Wordsworth consacrata dalla
+consacrata dalla dedica a [[characters/richard-ii|Riccardo II]] o l'arpa di Wordsworth consacrata dalla
 
-dedica a Giorgio IV. [[Richard|Riccardo]] e la sua [[Court|corte]] non potevano apprezzare
+dedica a Giorgio IV. [[characters/richard|Riccardo]] e la sua [[settings/court|corte]] non potevano apprezzare
 
 come si deve né le margherite di Chaucer né la sua «devozione». Giorgio IV
 
@@ -16083,23 +16083,23 @@ davvero
 <span class="atom-split" data-atom="chapter_03--part_02" data-title="Victorian Age — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/hero,motif/dawn,motif/fire,motif/grave,motif/memory,motif/moon,motif/rose,motif/snow,motif/tears,motif/time,motif/water,motif/well,concept/democracy,concept/despair,concept/freedom,concept/indolence,concept/truth,form/lyric,histref/christianity,character/arthur,character/queen"></span>
 
 
-hold a great many of the same views as [[Queen]] Victoria, though he was
+hold a great many of the same views as [[characters/queen|Queen]] Victoria, though he was
 
 gifted with a more fortunate literary style. If Dickens is Cobbett's
 
-[[Democracy|democracy]] stirring in its [[Grave|grave]], Tennyson is the exquisitely ornamental
+[[concepts/democracy|democracy]] stirring in its [[motifs/grave|grave]], Tennyson is the exquisitely ornamental
 
 extinguisher on the flame of the first revolutionary poets. England has
 
 settled down; England has become Victorian. The compromise was
 
-interesting, it was national and for a long [[Time|time]] it was successful:
+interesting, it was national and for a long [[motifs/time|time]] it was successful:
 
 there is still a great deal to be said for it. But it was as freakish
 
 and unphilosophic, as arbitrary and untranslatable, as a beggar's
 
-patched coat or a [[Child|child]]'s secret language. Now it is here that Browning
+patched coat or a [[archetypes/child|child]]'s secret language. Now it is here that Browning
 
 had a certain odd advantage over Tennyson; which has, perhaps, somewhat
 
@@ -16107,7 +16107,7 @@ exaggerated his intellectual superiority to him. Browning's eccentric
 
 style was more suitable to the poetry of a nation of eccentrics; of
 
-people for the [[Time|time]] being removed far from the centre of intellectual
+people for the [[motifs/time|time]] being removed far from the centre of intellectual
 
 interests. The hearty and pleasant task of expressing one's intense
 
@@ -16115,7 +16115,7 @@ dislike of something one doesn't understand is much more poetically
 
 achieved by saying, in a general way "Grrr--you swine!" than it is by
 
-laboured lines such as "the red [[Fool|fool]]-fury of the Seine." We all feel
+laboured lines such as "the red [[archetypes/fool|fool]]-fury of the Seine." We all feel
 
 that there is more of the man in Browning here; more of Dr. Johnson or
 
@@ -16125,7 +16125,7 @@ his nose like a bull-dog, going by his own likes and dislikes. We cannot
 
 help feeling that Tennyson is the Englishman taking himself
 
-seriously--an awful sight. One's [[Memory|memory]] flutters unhappily over a
+seriously--an awful sight. One's [[motifs/memory|memory]] flutters unhappily over a
 
 certain letter about the Papal Guards written by Sir Willoughby
 
@@ -16135,19 +16135,19 @@ Virgilian loveliness and dignity of diction which he put to the service
 
 of such a small and anomalous national scheme. Virgil had the best news
 
-to tell as [[Well|well]] as the best words to tell it in. His world might be
+to tell as [[motifs/well|well]] as the best words to tell it in. His world might be
 
 sad; but it was the largest world one could live in before the coming of
 
-[[Christianity]]. If he told the Romans to spare the vanquished and to war
+[[historical-references/christianity|Christianity]]. If he told the Romans to spare the vanquished and to war
 
-down the mighty, at least he was more or less [[Well|well]] informed about who
+down the mighty, at least he was more or less [[motifs/well|well]] informed about who
 
 _were_ mighty and who _were_ vanquished. But when Tennyson wrote verses
 
 like--
 
-"Of [[Freedom|freedom]] in her regal seat,
+"Of [[concepts/freedom|freedom]] in her regal seat,
 
 Of England; not the schoolboy heat,
 
@@ -16155,11 +16155,11 @@ The blind hysterics of the Celt"
 
 he quite literally did not know one word of what he was talking about;
 
-he did not know what Celts are, or what hysterics are, or what [[Freedom|freedom]]
+he did not know what Celts are, or what hysterics are, or what [[concepts/freedom|freedom]]
 
 was, or what regal was or even of what England was--in the living Europe
 
-of that [[Time|time]].
+of that [[motifs/time|time]].
 
 His religious range was very much wider and wiser than his political;
 
@@ -16193,29 +16193,29 @@ his case (unlike Browning's) both the poets were good. The first is more
 
 or less like Stevenson in metre; it is a magical luck or skill in the
 
-mere choice of words. "Wet sands marbled with [[Moon|moon]] and cloud"--"Flits by
+mere choice of words. "Wet sands marbled with [[motifs/moon|moon]] and cloud"--"Flits by
 
 the sea-blue bird of March"--"Leafless ribs and iron horns"--"When the
 
-long dun wolds are ribbed with [[Snow|snow]]"--in all these cases one word is the
+long dun wolds are ribbed with [[motifs/snow|snow]]"--in all these cases one word is the
 
 keystone of an arch which would fall into ruin without it. But there are
 
 other strong phrases that recall not Stevenson but rather their common
 
-master, Virgil--"[[Tears]] from the depths of some divine [[Despair|despair]]"--"There
+master, Virgil--"[[motifs/tears|Tears]] from the depths of some divine [[concepts/despair|despair]]"--"There
 
 is fallen a splendid tear from the passion-flower at the gate"--"Was a
 
-great [[Water|water]]; and the [[Moon|moon]] was full"--"God made Himself an awful [[Rose|rose]] of
+great [[motifs/water|water]]; and the [[motifs/moon|moon]] was full"--"God made Himself an awful [[motifs/rose|rose]] of
 
-[[Dawn|dawn]]." These do not depend on a word but on an idea: they might even be
+[[motifs/dawn|dawn]]." These do not depend on a word but on an idea: they might even be
 
-translated. It is also true, I think, that he was first and last a [[Lyric|lyric]]
+translated. It is also true, I think, that he was first and last a [[forms/lyric|lyric]]
 
 poet. He was always best when he expressed himself shortly. In long
 
-[[Poems|poems]] he had an unfortunate habit of eventually saying very nearly the
+poems he had an unfortunate habit of eventually saying very nearly the
 
 opposite of what he meant to say. I will take only two instances of what
 
@@ -16223,9 +16223,9 @@ I mean. In the _Idylls of the King_, and in _In Memoriam_ (his two
 
 sustained and ambitious efforts), particular phrases are always flashing
 
-out the whole [[Fire|fire]] of the [[Truth|truth]]; the [[Truth|truth]] that Tennyson meant. But
+out the whole [[motifs/fire|fire]] of the [[concepts/truth|truth]]; the [[concepts/truth|truth]] that Tennyson meant. But
 
-owing to his English [[Indolence|indolence]], his English aristocratic
+owing to his English [[concepts/indolence|indolence]], his English aristocratic
 
 irresponsibility, his English vagueness in thought, he always managed to
 
@@ -16235,19 +16235,19 @@ lines which simply say that
 
 "Lancelot was the first in tournament,
 
-But [[arthur|Arthur]] mightiest in the battle-field"
+But [[characters/arthur|Arthur]] mightiest in the battle-field"
 
-do really express what he meant to express about [[arthur|Arthur]] being after all
+do really express what he meant to express about [[characters/arthur|Arthur]] being after all
 
 "the highest, yet most human too; not Lancelot, nor another." But as his
 
-[[Hero|hero]] is actually developed, we have exactly the opposite impression;
+[[archetypes/hero|hero]] is actually developed, we have exactly the opposite impression;
 
 that poor old Lancelot, with all his faults, was much more of a man than
 
-[[arthur|Arthur]]. He was a Victorian in the bad as [[Well|well]] as the good sense; he
+[[characters/arthur|Arthur]]. He was a Victorian in the bad as [[motifs/well|well]] as the good sense; he
 
-could not keep priggishness out of long [[Poems|poems]]. Or again, take the case
+could not keep priggishness out of long poems. Or again, take the case
 
 of _In Memoriam_. I will quote one verse (probably incorrectly) which
 
@@ -16258,23 +16258,23 @@ poem should express--but hardly does.
 
 <span class="qlang-split" data-lang="it"></span>
 
-condivideva moltissime delle stesse opinioni della [[Queen|Regina]] Vittoria, benché fosse
+condivideva moltissime delle stesse opinioni della [[characters/queen|Regina]] Vittoria, benché fosse
 
 dotato di uno stile letterario più fortunato. Se Dickens è la
 
-[[Democracy|democrazia]] di Cobbett che si agita nella sua [[Grave|tomba]], Tennyson è lo squisitamente ornato
+[[concepts/democracy|democrazia]] di Cobbett che si agita nella sua [[motifs/grave|tomba]], Tennyson è lo squisitamente ornato
 
 spegnitoio sulla fiamma dei primi poeti rivoluzionari. L'Inghilterra si è
 
 assestata; l'Inghilterra è divenuta vittoriana. Il compromesso era
 
-interessante, era nazionale e per lungo [[Time|tempo]] ebbe successo:
+interessante, era nazionale e per lungo [[motifs/time|tempo]] ebbe successo:
 
 c'è ancora molto da dire in suo favore. Ma era tanto bizzarro
 
 e antifilosofico, tanto arbitrario e intraducibile, quanto il
 
-cappotto rattoppato di un mendicante o il linguaggio segreto di un [[Child|bambino]]. Ora è qui che Browning
+cappotto rattoppato di un mendicante o il linguaggio segreto di un [[archetypes/child|bambino]]. Ora è qui che Browning
 
 aveva un certo strano vantaggio su Tennyson; il che ha, forse, in qualche
 
@@ -16282,7 +16282,7 @@ modo esagerato la sua superiorità intellettuale su di lui. L'eccentrico
 
 stile di Browning si addiceva meglio alla poesia di una nazione di eccentrici; di
 
-gente per il [[Time|momento]] rimossa lontano dal centro degli interessi
+gente per il [[motifs/time|momento]] rimossa lontano dal centro degli interessi
 
 intellettuali. Il cordiale e piacevole compito di esprimere il proprio intenso
 
@@ -16290,7 +16290,7 @@ disgusto per qualcosa che non si comprende è assai più poeticamente
 
 raggiunto dicendo, in modo generico «Grrr--porco!» di quanto non lo sia con
 
-versi laboriosi come «la rossa furia [[Fool|folle]] della Senna». Tutti sentiamo
+versi laboriosi come «la rossa furia [[archetypes/fool|folle]] della Senna». Tutti sentiamo
 
 che qui c'è più dell'uomo in Browning; più del Dr. Johnson o di
 
@@ -16300,7 +16300,7 @@ il proprio naso come un bull-dog, andando dietro alle proprie simpatie e antipat
 
 fare a meno di sentire che Tennyson è l'inglese che si prende
 
-sul serio--uno spettacolo terribile. La [[Memory|memoria]] svolazza infelice attorno a una
+sul serio--uno spettacolo terribile. La [[motifs/memory|memoria]] svolazza infelice attorno a una
 
 certa lettera sulle Guardie Papali scritta da Sir Willoughby
 
@@ -16310,19 +16310,19 @@ virgiliana bellezza e dignità di dizione che pose al servizio
 
 di un disegno nazionale così angusto e anomalo. Virgilio aveva la migliore notizia
 
-da raccontare tanto [[Well|bene]] quanto le migliori parole per dirla. Il suo mondo poteva essere
+da raccontare tanto [[motifs/well|bene]] quanto le migliori parole per dirla. Il suo mondo poteva essere
 
 triste; ma era il mondo più vasto in cui si potesse vivere prima dell'avvento del
 
-[[Christianity|Cristianesimo]]. Se diceva ai Romani di risparmiare i vinti e di far guerra
+[[historical-references/christianity|Cristianesimo]]. Se diceva ai Romani di risparmiare i vinti e di far guerra
 
-ai potenti, almeno era più o meno [[Well|bene]] informato su chi
+ai potenti, almeno era più o meno [[motifs/well|bene]] informato su chi
 
 _fosse_ potente e chi _fosse_ vinto. Ma quando Tennyson scrisse versi
 
 come--
 
-«Della [[Freedom|Libertà]] nel suo seggio regale,
+«Della [[concepts/freedom|Libertà]] nel suo seggio regale,
 
 Dell'Inghilterra; non l'ardore da scolaretto,
 
@@ -16330,11 +16330,11 @@ Le cieche isterie del Celta»
 
 egli letteralmente non sapeva una parola di ciò di cui parlava;
 
-non sapeva cosa siano i Celti, o cosa sia l'isteria, o cosa fosse la [[Freedom|Libertà]]
+non sapeva cosa siano i Celti, o cosa sia l'isteria, o cosa fosse la [[concepts/freedom|Libertà]]
 
 , o cosa fosse regale o persino cosa fosse l'Inghilterra--nell'Europa viva
 
-di quel [[Time|tempo]].
+di quel [[motifs/time|tempo]].
 
 La sua portata religiosa era assai più ampia e saggia di quella politica;
 
@@ -16368,29 +16368,29 @@ suo caso (a differenza di Browning) entrambi i poeti erano buoni. Il primo è pi
 
 o meno simile a Stevenson nel metro; è una magica fortuna o abilità nella
 
-mera scelta delle parole. «Umide sabbie marezzate di [[Moon|luna]] e nube»--«Guizza
+mera scelta delle parole. «Umide sabbie marezzate di [[motifs/moon|luna]] e nube»--«Guizza
 
 l'uccello azzurro-mare di Marzo»--«Coste spoglie e corna di ferro»--«Quando i
 
-lunghi bruni colli sono solcati di [[Snow|neve]]»--in tutti questi casi una parola è la
+lunghi bruni colli sono solcati di [[motifs/snow|neve]]»--in tutti questi casi una parola è la
 
 chiave di volta di un arco che senza di essa crollerebbe in rovina. Ma vi sono
 
 altre frasi vigorose che richiamano non Stevenson ma piuttosto il loro comune
 
-maestro, Virgilio--«[[Tears|Lacrime]] dal profondo di qualche divina [[Despair|disperazione]]»--«È
+maestro, Virgilio--«[[motifs/tears|Lacrime]] dal profondo di qualche divina [[concepts/despair|disperazione]]»--«È
 
 caduta una splendida lacrima dalla passiflora presso il cancello»--«Era una
 
-grande [[Water|acqua]]; e la [[Moon|luna]] era piena»--«Dio fece di Sé una terribile [[Rose|rosa]] di
+grande [[motifs/water|acqua]]; e la [[motifs/moon|luna]] era piena»--«Dio fece di Sé una terribile [[motifs/rose|rosa]] di
 
-[[Dawn|alba]]». Queste non dipendono da una parola ma da un'idea: potrebbero persino essere
+[[motifs/dawn|alba]]». Queste non dipendono da una parola ma da un'idea: potrebbero persino essere
 
-tradotte. È pur vero, credo, che egli fu dal principio alla fine un [[Lyric|lirico]]
+tradotte. È pur vero, credo, che egli fu dal principio alla fine un [[forms/lyric|lirico]]
 
 poeta. Dava sempre il meglio quando si esprimeva in breve. Nei lunghi
 
-[[Poems|poemi]] aveva la sfortunata abitudine di finire col dire quasi esattamente l'
+poemi aveva la sfortunata abitudine di finire col dire quasi esattamente l'
 
 opposto di ciò che intendeva dire. Prenderò solo due esempi di ciò che
 
@@ -16398,9 +16398,9 @@ intendo. Negli _Idylls of the King_, e in _In Memoriam_ (i suoi due
 
 sforzi sostenuti e ambiziosi), particolari frasi fanno sempre balenare
 
-l'intero [[Fire|fuoco]] della [[Truth|verità]]; la [[Truth|verità]] che Tennyson intendeva. Ma
+l'intero [[motifs/fire|fuoco]] della [[concepts/truth|verità]]; la [[concepts/truth|verità]] che Tennyson intendeva. Ma
 
-a causa della sua [[Indolence|indolenza]] inglese, della sua aristocratica
+a causa della sua [[concepts/indolence|indolenza]] inglese, della sua aristocratica
 
 irresponsabilità inglese, della sua inglese vaghezza di pensiero, riusciva sempre a
 
@@ -16410,19 +16410,19 @@ versi che dicono semplicemente che
 
 «Lancillotto era il primo nel torneo,
 
-Ma [[arthur|Artù]] il più possente sul campo di battaglia»
+Ma [[characters/arthur|Artù]] il più possente sul campo di battaglia»
 
-esprimono davvero ciò che intendeva esprimere su [[arthur|Artù]] che è dopotutto
+esprimono davvero ciò che intendeva esprimere su [[characters/arthur|Artù]] che è dopotutto
 
 «il più alto, eppure anche il più umano; non Lancillotto, né altri». Ma via via che il suo
 
-[[Hero|eroe]] viene effettivamente sviluppato, abbiamo esattamente l'impressione opposta;
+[[archetypes/hero|eroe]] viene effettivamente sviluppato, abbiamo esattamente l'impressione opposta;
 
 che il povero vecchio Lancillotto, con tutti i suoi difetti, era molto più uomo di
 
-[[arthur|Artù]]. Egli fu un vittoriano nel senso cattivo così [[Well|bene]] come in quello buono; non
+[[characters/arthur|Artù]]. Egli fu un vittoriano nel senso cattivo così [[motifs/well|bene]] come in quello buono; non
 
-riusciva a tenere la pedanteria fuori dai lunghi [[Poems|poemi]]. Oppure, di nuovo, si prenda il caso
+riusciva a tenere la pedanteria fuori dai lunghi poemi. Oppure, di nuovo, si prenda il caso
 
 di _In Memoriam_. Citerò un verso (probabilmente in modo inesatto) che
 
@@ -16435,7 +16435,7 @@ poema dovrebbe esprimere--ma a stento esprime.
 <span class="atom-split" data-atom="chapter_03--part_03" data-title="Victorian Age — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/artist,archetype/fool,motif/dust,motif/time,motif/well,concept/despair,concept/grotesque,concept/immortality,concept/pride,concept/truth,form/blank_verse,form/lyric,form/spenserian_stanza"></span>
 
 
-"That we may lift from out the [[Dust|dust]],
+"That we may lift from out the [[motifs/dust|dust]],
 
 A voice as unto him that hears
 
@@ -16443,7 +16443,7 @@ A cry above the conquered years
 
 Of one that ever works, and trust."
 
-The poem should have been a cry above the conquered years. It might [[Well|well]]
+The poem should have been a cry above the conquered years. It might [[motifs/well|well]]
 
 have been that if the poet could have said sharply at the end of it, as
 
@@ -16453,13 +16453,13 @@ I know God holds him alive." But under the influence of the mere
 
 leisurely length of the thing, the reader _does_ rather receive the
 
-impression that the wound has been healed only by [[Time|time]]; and that the
+impression that the wound has been healed only by [[motifs/time|time]]; and that the
 
 victor hours _can_ boast that this is the man that loved and lost, but
 
-all he was is overworn. This is not the [[Truth|truth]]; and Tennyson did not
+all he was is overworn. This is not the [[concepts/truth|truth]]; and Tennyson did not
 
-intend it for the [[Truth|truth]]. It is simply the result of the lack of
+intend it for the [[concepts/truth|truth]]. It is simply the result of the lack of
 
 something militant, dogmatic and structural in him: whereby he could not
 
@@ -16485,11 +16485,11 @@ was no anarchist and no mystagogue; and even where he was defective, his
 
 defect has commonly been stated wrongly. The two chief charges against
 
-him were a contempt for form unworthy of an [[artist]], and a poor [[Pride|pride]] in
+him were a contempt for form unworthy of an [[archetypes/artist|artist]], and a poor [[concepts/pride|pride]] in
 
-obscurity. The obscurity is true, though not, I think, the [[Pride|pride]] in it;
+obscurity. The obscurity is true, though not, I think, the [[concepts/pride|pride]] in it;
 
-but the [[Truth|truth]] about this charge rather rises out of the [[Truth|truth]] about the
+but the [[concepts/truth|truth]] about this charge rather rises out of the [[concepts/truth|truth]] about the
 
 other. The other charge is not true. Browning cared very much for form;
 
@@ -16509,21 +16509,21 @@ not care what form he used as long as he expressed his thoughts. He
 
 might be a rather entertaining sort of poet; telling a smoking-room
 
-story in [[Blank Verse|blank verse]] or writing a hunting-[[Song|song]] in the [[Spenserian Stanza|Spenserian stanza]];
+story in [[forms/blank-verse|blank verse]] or writing a hunting-song in the [[forms/spenserian-stanza|Spenserian stanza]];
 
 giving a realistic analysis of infanticide in a series of triolets; or
 
-proving the [[Truth|truth]] of [[Immortality]] in a long string of limericks. Browning
+proving the [[concepts/truth|truth]] of [[concepts/immortality|Immortality]] in a long string of limericks. Browning
 
 certainly had no such indifference. Almost every poem of Browning,
 
 especially the shortest and most successful ones, was moulded or graven
 
-in some special style, generally [[Grotesque|grotesque]], but invariably deliberate.
+in some special style, generally [[concepts/grotesque|grotesque]], but invariably deliberate.
 
-In most cases whenever he wrote a new [[Song|song]] he wrote a new kind of [[Song|song]].
+In most cases whenever he wrote a new song he wrote a new kind of song.
 
-The new [[Lyric|lyric]] is not only of a different metre, but of a different
+The new [[forms/lyric|lyric]] is not only of a different metre, but of a different
 
 shape. No one, not even Browning, ever wrote a poem in the same style as
 
@@ -16543,7 +16543,7 @@ Browning, ever wrote a poem in the same style as _The Flight of the
 
 Duchess_, or in the same style as _The Grammarian's Funeral_, or in the
 
-same style as _A Star_, or in the same style as that astounding [[Lyric|lyric]]
+same style as _A Star_, or in the same style as that astounding [[forms/lyric|lyric]]
 
 which begins abruptly "Some people hang pictures up." These metres and
 
@@ -16551,13 +16551,13 @@ manners were not accidental; they really do suit the sort of spiritual
 
 experiment Browning was making in each case. Browning, then, was not
 
-chaotic; he was deliberately [[Grotesque|grotesque]]. But there certainly was, over
+chaotic; he was deliberately [[concepts/grotesque|grotesque]]. But there certainly was, over
 
 and above this grotesqueness, a perversity and irrationality about the
 
-man which led him to play the [[Fool|fool]] in the middle of his own [[Poems|poems]]; to
+man which led him to play the [[archetypes/fool|fool]] in the middle of his own poems; to
 
-leave off carving [[gargoyles]] and simply begin throwing stones. His
+leave off carving gargoyles and simply begin throwing stones. His
 
 curious complicated puns are an example of this: Hood had used the pun
 
@@ -16579,7 +16579,7 @@ it.
 
 The obscurity, to which he must in a large degree plead guilty, was,
 
-curiously enough, the result rather of the gay [[artist]] in him than the
+curiously enough, the result rather of the gay [[archetypes/artist|artist]] in him than the
 
 deep thinker. It is patience in the Browning students; in Browning it
 
@@ -16599,7 +16599,7 @@ Thus he really did want to say that God had indeed made man and woman
 
 one flesh; that the sex relation was religious in this real sense that
 
-even in our sin and [[Despair|despair]] we take it for granted and expect a sort of
+even in our sin and [[concepts/despair|despair]] we take it for granted and expect a sort of
 
 virtue in it. The feelings of the bad husband about the good wife, for
 
@@ -16608,17 +16608,17 @@ instance, are about as subtle and entangled as any matter on this earth;
 
 <span class="qlang-split" data-lang="it"></span>
 
-“Affinché possiamo sollevare ciò che è sepolto nella [[Dust|polvere]],”
+“Affinché possiamo sollevare ciò che è sepolto nella [[motifs/dust|polvere]],”
 
-# Una voce per chi ascolta
+Una voce per chi ascolta
 
-# Un grido al di sopra degli anni conquistati
+Un grido al di sopra degli anni conquistati
 
 Di qualcuno che lavora sempre con fiducia.
 
 Il poema avrebbe dovuto essere un grido che si elevi al di sopra degli anni conquistati. Forse sarebbe stato davvero efficace.
 
-# Se solo il poeta avesse potuto concludere in modo deciso…
+Se solo il poeta avesse potuto concludere in modo deciso…
 
 “Un vero e proprio dogma… Ho dimenticato ogni tratto del viso di quell’uomo.”
 
@@ -16626,13 +16626,13 @@ Il poema avrebbe dovuto essere un grido che si elevi al di sopra degli anni conq
 
 “La lunghezza disinvolta di questo testo permette al lettore di assaporarlo appieno…”
 
-l'impressione che la ferita sia stata guarita soltanto con il passare del [[Time|tempo]]; e che.
+l'impressione che la ferita sia stata guarita soltanto con il passare del [[motifs/time|tempo]]; e che.
 
-# Victor Hours può vantarsi di essere l’uomo che ha amato e perso… ma…
+Victor Hours può vantarsi di essere l’uomo che ha amato e perso… ma…
 
 Tutto ciò che è rimasto è ormai logoro. Questo non è la verità]; e Tennyson non lo ha mai detto.
 
-Intenderlo nella sua [[Truth|verità]]. È semplicemente il risultato della mancanza di.
+Intenderlo nella sua [[concepts/truth|verità]]. È semplicemente il risultato della mancanza di.
 
 Qualcosa di militante, dogmatico e strutturale in lui: il che gli impediva di…
 
@@ -16649,7 +16649,7 @@ Un luogo dove si poteva fare ciò che si voleva… In larga misura, lui lo facev
 
 Fare ciò che gli piaceva; suscitando non poche lamentele, oltre a molte dubbi…
 
-#Ipotesi su perché, per l’amor del cielo, gli piacesse… Molte, in realtà.
+Ipotesi su perché, per l’amor del cielo, gli piacesse… Molte, in realtà.
 
 Persone compassionevoli si chiedevano quale piacere potesse procurare a un uomo…
 
@@ -16659,21 +16659,21 @@ Non era un anarchico né un mistagogo; e anche nei suoi difetti, c’era…
 
 Il difetto è stato spesso descritto in modo errato. Le due principali accuse rivolte contro…
 
-In lui c'era un disprezzo per le formalità indegno di un [[artist|artista]], e una scarsa [[Pride|orgoglio]] nel.
+In lui c'era un disprezzo per le formalità indegno di un [[archetypes/artist|artista]], e una scarsa [[concepts/pride|orgoglio]] nel.
 
-Oscurità. Quell’oscurità è reale, anche se, penso, non c’è alcuna [[Pride|orgoglio]] in essa.
+Oscurità. Quell’oscurità è reale, anche se, penso, non c’è alcuna [[concepts/pride|orgoglio]] in essa.
 
-Ma la [[Truth|verità]] riguardo a questa accusa emerge piuttosto dalla [[Truth|verità]] relativa al.
+Ma la [[concepts/truth|verità]] riguardo a questa accusa emerge piuttosto dalla [[concepts/truth|verità]] relativa al.
 
 “Altro… L’altra accusa non è vera. A Browning importava molto la forma.”
 
-#Gli importava molto lo stile. Forse non vi piacerà il suo stile…
+Gli importava molto lo stile. Forse non vi piacerà il suo stile…
 
-#Non aveva abbastanza padronanza della forma per esprimersi correttamente.
+Non aveva abbastanza padronanza della forma per esprimersi correttamente.
 
 “Un uomo che si assomiglia perfettamente a Tennyson o a Swinburne è come chi critica…”
 
-#Il grifone del garguglio medievale… senza nemmeno saperlo
+Il grifone del garguglio medievale… senza nemmeno saperlo
 
 Griffin: considerato un tentativo infantile e fallito…
 
@@ -16681,60 +16681,60 @@ Angelo classico… Un poeta indifferente alle forme dovrebbe essere colui che…
 
 Non importa quale forma utilizzi, purché esprima i propri pensieri. Lui…
 
-#Potrebbe essere un poeta piuttosto divertente… che racconta storie nelle sale fumatori.
+Potrebbe essere un poeta piuttosto divertente… che racconta storie nelle sale fumatori.
 
-Raccontare una storia in [[Blank Verse|versi liberi]] o comporre una canzone di caccia seguendo la struttura delle [[Spenserian Stanza|stanze spenseriane]];
+Raccontare una storia in [[forms/blank-verse|versi liberi]] o comporre una canzone di caccia seguendo la struttura delle [[forms/spenserian-stanza|stanze spenseriane]];
 
 Un’analisi realistica dell’infanticidio attraverso una serie di trecetti
 
-Dimostrando la [[Truth|.verità]] dell’[[Immortality|immortalità]] attraverso una lunga serie di limerici. Browning
+Dimostrando la [[concepts/truth|.verità]] dell’[[concepts/immortality|immortalità]] attraverso una lunga serie di limerici. Browning
 
 Certamente non c’era alcuna indifferenza del genere. Quasi ogni poesia di Browning…
 
 In particolare quelli più brevi e di maggior successo, furono modellati o incisi.
 
-In uno stile particolare, generalmente [[Grotesque|grottesco]], ma sempre volutamente così.
+In uno stile particolare, generalmente [[concepts/grotesque|grottesco]], ma sempre volutamente così.
 
-Nella maggior parte dei casi, ogni volta che scriveva una nuova [[Song|-canzone]], creava un nuovo genere di [[Song|-canzone]].
+Nella maggior parte dei casi, ogni volta che scriveva una nuova -canzone, creava un nuovo genere di -canzone.
 
-La nuova [[Lyric|lirica]] non solo presenta un metro diverso, ma anche, qualcos’altro di diverso.
+La nuova [[forms/lyric|lirica]] non solo presenta un metro diverso, ma anche, qualcos’altro di diverso.
 
-#Forma. Nessuno, nemmeno Browning, ha mai scritto una poesia nello stesso stile di…
+Forma. Nessuno, nemmeno Browning, ha mai scritto una poesia nello stesso stile di…
 
 Titolo:  
 Quello orribile che inizia con “John, Maestro del Tempio di Dio”…
 
-# Strani cori e inquietanti indicazioni narrative… Nessuno, nemmeno…
+Strani cori e inquietanti indicazioni narrative… Nessuno, nemmeno…
 
 “Browning non scrisse mai una poesia nello stesso stile di _Pisgah-sights_.”
 
-# Nessuno, nemmeno Browning, ha mai scritto una poesia nello stesso stile di “Time’s”.
+Nessuno, nemmeno Browning, ha mai scritto una poesia nello stesso stile di “Time’s”.
 
-#Rivangezze_ – Nessuno, nemmeno Browning, ha mai scritto una poesia allo stesso modo
+Rivangezze_ – Nessuno, nemmeno Browning, ha mai scritto una poesia allo stesso modo
 
 Titolo:  
 “Stile come ‘Incontro di notte’ e ‘Addio al mattino’… Nessuno, nemmeno…”
 
-#Browning, mai scrisse una poesia nello stesso stile di _La fuga di_
+Browning, mai scrisse una poesia nello stesso stile di _La fuga di_
 
 Duchessa..., o nello stesso stile di _Il funerale del grammatico_, o qualcosa del genere...
 
-Lo stesso stile di _A Star_, o nello stesso stile di quella straordinaria [[Lyric|lirica]].
+Lo stesso stile di _A Star_, o nello stesso stile di quella straordinaria [[forms/lyric|lirica]].
 
 Titolo:  
 “Alcune persone appendono quadri alle pareti…”. Questi versi iniziano bruscamente così.
 
-#Maniere non sono casuali: davvero si adattano al tipo di personalità spirituale
+Maniere non sono casuali: davvero si adattano al tipo di personalità spirituale
 
-# L’esperimento che Browning stava conducendo in ciascun caso… Ma Browning, all’epoca, non era ancora…
+L’esperimento che Browning stava conducendo in ciascun caso… Ma Browning, all’epoca, non era ancora…
 
-Caotico; era deliberatamente [[Grotesque|grottesco]]. Ma c'era sicuramente, al di sopra.
+Caotico; era deliberatamente [[concepts/grotesque|grottesco]]. Ma c'era sicuramente, al di sopra.
 
 E al di sopra di tutta questa grotteschezza, c’è una perversione e un irrazionalità che…
 
-L’uomo che lo spinse a comportarsi come un [[Fool|idiota]] nel mezzo delle sue stesse [[Poems|poesie]]; quel.
+L’uomo che lo spinse a comportarsi come un [[archetypes/fool|idiota]] nel mezzo delle sue stesse poesie; quel.
 
-Smetti di scolpire quelle [[gargoyles|gargoyle]] e inizia semplicemente a lanciare pietre. Lui.
+Smetti di scolpire quelle gargoyle e inizia semplicemente a lanciare pietre. Lui.
 
 Esempi di questo sono i curiosi e complessi giochi di parole: Hood aveva utilizzato proprio questo tipo di gioco linguistico.
 
@@ -16744,7 +16744,7 @@ Per rendere una frase o un sentimento particolarmente incisivi e chiari.
 
 Qualsiasi cosa, tranne quella parola con la “uno”. Si applica anche al suo trucco…
 
-#Affrontare rime impossibili… Forse è divertente, ma…
+Affrontare rime impossibili… Forse è divertente, ma…
 
 Non è poesia cercare di far rima con “ranunculus”; ma anche solo il tentativo… ha il suo fascino.
 
@@ -16757,9 +16757,9 @@ it.
 
 L’oscurità di cui, in gran parte, doveva riconoscere la propria colpevolezza…
 
-Curiosamente, il risultato rifletteva di più l’aspetto “gay” dell’[[artist|artista]] che c’era in lui, piuttosto che.
+Curiosamente, il risultato rifletteva di più l’aspetto “gay” dell’[[archetypes/artist|artista]] che c’era in lui, piuttosto che.
 
-# Pensatore profondo… Nella pazienza degli studenti di Browning risiede la vera essenza di Browning stesso.
+Pensatore profondo… Nella pazienza degli studenti di Browning risiede la vera essenza di Browning stesso.
 
 Solo impazienza… Voleva dire qualcosa di divertente e energico.
 
@@ -16767,7 +16767,7 @@ Voleva dirlo velocemente… E, grazie alla sua abilità artistica…
 
 Fantastico… e il suo temperamento impulsivo, che a volte lo spinge ad agire in modo brusco… Quest’idea, a volte…
 
-#È passato in un attimo, inosservato… Ma è un errore credere che queste cose siano semplicemente così.
+È passato in un attimo, inosservato… Ma è un errore credere che queste cose siano semplicemente così.
 
 Le oscure miniere che custodiscono il suo tesoro… Quei due o tre luoghi grandi e veri…
 
@@ -16777,9 +16777,9 @@ Così, voleva davvero dire che Dio aveva effettivamente creato l’uomo e la don
 
 “Una sola carne: il rapporto sessuale, in questo senso concreto, aveva un carattere religioso…”
 
-Anche nel nostro peccato e nella nostra [[Despair|-disperazione]], lo diamo per scontato e ci aspettiamo una sorta di.
+Anche nel nostro peccato e nella nostra [[concepts/despair|-disperazione]], lo diamo per scontato e ci aspettiamo una sorta di.
 
-# Virtù in esso… I sentimenti del cattivo marito verso la buona moglie…
+Virtù in esso… I sentimenti del cattivo marito verso la buona moglie…
 
 Ad esempio, sono altrettanto sottili e complesse quanto qualsiasi altra cosa su questa terra.
 
@@ -16792,9 +16792,9 @@ and Browning really had something to say about them. But he said it in
 
 some of the plainest and most unmistakable words in all literature; as
 
-lucid as a flash of [[Lightning|lightning]]. "Pompilia, will you let them murder me?"
+lucid as a flash of [[motifs/lightning|lightning]]. "Pompilia, will you let them murder me?"
 
-Or again, he did really want to say that [[Death|death]] and such moral terrors
+Or again, he did really want to say that [[motifs/death|death]] and such moral terrors
 
 were best taken in a military spirit; he could not have said it more
 
@@ -16802,9 +16802,9 @@ simply than: "I was ever a fighter; one fight more, the best and the
 
 last." He did really wish to say that human life was unworkable unless
 
-[[Immortality|immortality]] were implied in it every other moment; he could not have
+[[concepts/immortality|immortality]] were implied in it every other moment; he could not have
 
-said it more simply: "leave now to [[dogs]] and apes; Man has for ever." The
+said it more simply: "leave now to dogs and apes; Man has for ever." The
 
 obscurities were not merely superficial, but often covered quite
 
@@ -16824,7 +16824,7 @@ disparaged the picture, "while John scorns ale." I could not think what
 
 this sudden teetotalism on the part of John had to do with the affair,
 
-but I forgot to ask at the [[Time|time]] and it was only years afterwards that,
+but I forgot to ask at the [[motifs/time|time]] and it was only years afterwards that,
 
 looking at the book, I found it was "John's corns ail," a very
 
@@ -16852,17 +16852,17 @@ to have serenaded heaven with a guitar, and even, so to speak, tried to
 
 climb there with a rope ladder. Thus his most vivid things are the
 
-red-hot little [[Love|love]] lyrics, or rather, little [[Love|love]] dramas. He did one
+red-hot little [[motifs/love|love]] lyrics, or rather, little [[motifs/love|love]] dramas. He did one
 
 really original and admirable thing: he managed the real details of
 
-modern [[Love|love]] affairs in verse, and [[Love|love]] is the most realistic thing in
+modern [[motifs/love|love]] affairs in verse, and [[motifs/love|love]] is the most realistic thing in
 
 the world. He substituted the street with the green blind for the faded
 
-[[Garden|garden]] of Watteau, and the "blue spirt of a lighted match" for the
+[[motifs/garden|garden]] of Watteau, and the "blue spirt of a lighted match" for the
 
-monotony of the [[Evening Star|evening star]].
+monotony of the evening star.
 
 Before leaving him it should be added that he was fitted to deepen the
 
@@ -16880,29 +16880,29 @@ European politics. She defended Louis Napoleon and Victor Emmanuel; and
 
 intelligently, as one conscious of the case against them both. As to
 
-why it now seems simple to defend the first Italian [[King]], but absurd to
+why it now seems simple to defend the first Italian [[archetypes/king|King]], but absurd to
 
-defend the last French Emperor--[[Well|well]], the reason is sad and simple. It
+defend the last French Emperor--[[motifs/well|well]], the reason is sad and simple. It
 
-is concerned with certain curious things called [[success]] and failure, and
+is concerned with certain curious things called success and failure, and
 
 I ought to have considered it under the heading of _The Book of Snobs_.
 
-But Elizabeth Barrett, at least, was no snob: her political [[Poems|poems]] have
+But Elizabeth Barrett, at least, was no snob: her political poems have
 
 rather an impatient air, as if they were written, and even published,
 
 rather prematurely--just before the fall of her idol. These old
 
-political [[Poems|poems]] of hers are too little read to-day; they are amongst the
+political poems of hers are too little read to-day; they are amongst the
 
-most sincere documents on the [[history]] of the times, and many modern
+most sincere documents on the [[concepts/history|history]] of the times, and many modern
 
 blunders could be corrected by the reading of them. And Elizabeth
 
 Barrett had a strength really rare among women poets; the strength of
 
-the phrase. She excelled in her sex, in [[Epigram|epigram]], almost as much as
+the phrase. She excelled in her sex, in [[forms/epigram|epigram]], almost as much as
 
 Voltaire in his. Pointed phrases like: "Martyrs by the pang without the
 
@@ -16932,9 +16932,9 @@ Madman!"
 
 as if the defeat of an English regiment were a violation of the laws of
 
-[[Nature]]. Mrs. Browning knew no more facts about Napoleon, perhaps, than
+[[concepts/nature|Nature]]. Mrs. Browning knew no more facts about Napoleon, perhaps, than
 
-Tennyson did; but she knew the [[Truth|truth]]. Her [[Epigram|epigram]] on Napoleon's fall is
+Tennyson did; but she knew the [[concepts/truth|truth]]. Her [[forms/epigram|epigram]] on Napoleon's fall is
 
 in one line
 
@@ -16965,9 +16965,9 @@ e Browning aveva davvero qualcosa da dire su di loro. Ma lo disse con
 
 alcune delle parole più semplici e inequivocabili di tutta la letteratura; così
 
-limpide come un lampo di [[Lightning|folgore]]. «Pompilia, lascerai che mi uccidano?»
+limpide come un lampo di [[motifs/lightning|folgore]]. «Pompilia, lascerai che mi uccidano?»
 
-Oppure ancora, egli voleva davvero dire che la [[Death|morte]] e simili terrori morali
+Oppure ancora, egli voleva davvero dire che la [[motifs/death|morte]] e simili terrori morali
 
 si affrontano meglio con spirito militare; non avrebbe potuto dirlo più
 
@@ -16975,9 +16975,9 @@ semplicemente di così: «Fui sempre un combattente; un'altra battaglia, la migl
 
 l'ultima.» Voleva davvero dire che la vita umana è impraticabile a meno che
 
-l'[[Immortality|immortalità]] non vi sia implicata in ogni istante; non avrebbe potuto
+l'[[concepts/immortality|immortalità]] non vi sia implicata in ogni istante; non avrebbe potuto
 
-dirlo più semplicemente: «lascia l'ora ai [[dogs|cani]] e alle scimmie; l'Uomo ha l'eterno.» Le
+dirlo più semplicemente: «lascia l'ora ai cani e alle scimmie; l'Uomo ha l'eterno.» Le
 
 oscurità non erano meramente superficiali, ma spesso ricoprivano idee del tutto
 
@@ -16997,7 +16997,7 @@ disprezzava il quadro, «while John scorns ale». Non riuscivo a immaginare cosa
 
 avesse a che fare con la faccenda quell'improvviso astinenzismo da parte di John,
 
-ma dimenticai di chiederlo sul [[Time|momento]] e fu solo anni dopo che,
+ma dimenticai di chiederlo sul [[motifs/time|momento]] e fu solo anni dopo che,
 
 guardando il libro, scoprii che era «John's corns ail», un modo assai
 
@@ -17025,17 +17025,17 @@ che abbia dato la serenata al cielo con una chitarra, e persino, per così dire,
 
 arrampicarvisi con una scala di corda. Così le sue cose più vivide sono le
 
-roventi piccole liriche d'[[Love|amore]], o meglio, piccoli drammi d'[[Love|amore]]. Fece una
+roventi piccole liriche d'[[motifs/love|amore]], o meglio, piccoli drammi d'[[motifs/love|amore]]. Fece una
 
 cosa davvero originale e ammirevole: seppe trattare i dettagli reali delle
 
-moderne faccende d'[[Love|amore]] in versi, e l'[[Love|amore]] è la cosa più realistica
+moderne faccende d'[[motifs/love|amore]] in versi, e l'[[motifs/love|amore]] è la cosa più realistica
 
 del mondo. Sostituì la strada dalla persiana verde allo sbiadito
 
-[[Garden|giardino]] di Watteau, e il «getto azzurro di un fiammifero acceso» alla
+[[motifs/garden|giardino]] di Watteau, e il «getto azzurro di un fiammifero acceso» alla
 
-monotonia della [[Evening Star|stella della sera]].
+monotonia della stella della sera.
 
 Prima di lasciarlo va aggiunto che egli era atto ad approfondire la
 
@@ -17053,29 +17053,29 @@ centrale. Difese Luigi Napoleone e Vittorio Emanuele; e
 
 intelligentemente, da persona consapevole delle ragioni contro entrambi. Quanto al
 
-perché oggi paia semplice difendere il primo [[King|Re]] italiano, ma assurdo
+perché oggi paia semplice difendere il primo [[archetypes/king|Re]] italiano, ma assurdo
 
-difendere l'ultimo Imperatore francese — [[Well|ebbene]], la ragione è triste e semplice. Ha
+difendere l'ultimo Imperatore francese — [[motifs/well|ebbene]], la ragione è triste e semplice. Ha
 
-a che fare con certe curiose cose chiamate [[success|successo]] e fallimento, e
+a che fare con certe curiose cose chiamate successo e fallimento, e
 
 avrei dovuto trattarne sotto il titolo di _The Book of Snobs_.
 
-Ma Elizabeth Barrett, almeno, non era una snob: le sue [[Poems|poesie]] politiche hanno
+Ma Elizabeth Barrett, almeno, non era una snob: le sue poesie politiche hanno
 
 un'aria piuttosto impaziente, come se fossero state scritte, e persino pubblicate,
 
 un po' prematuramente — proprio prima della caduta del suo idolo. Queste vecchie
 
-[[Poems|poesie]] politiche sono oggi troppo poco lette; sono tra i
+poesie politiche sono oggi troppo poco lette; sono tra i
 
-documenti più sinceri sulla [[history|storia]] di quei tempi, e molti
+documenti più sinceri sulla [[concepts/history|storia]] di quei tempi, e molti
 
 errori moderni potrebbero essere corretti dalla loro lettura. Ed Elizabeth
 
 Barrett aveva una forza davvero rara tra le poetesse; la forza della
 
-frase. Eccelleva, nel suo sesso, nell'[[Epigram|epigramma]], quasi quanto
+frase. Eccelleva, nel suo sesso, nell'[[forms/epigram|epigramma]], quasi quanto
 
 Voltaire nel proprio. Frasi taglienti come: «Martiri per lo spasimo senza la
 
@@ -17105,9 +17105,9 @@ Folle!»
 
 come se la sconfitta di un reggimento inglese fosse una violazione delle leggi di
 
-[[Nature|Natura]]. La signora Browning conosceva forse su Napoleone non più fatti di
+[[concepts/nature|Natura]]. La signora Browning conosceva forse su Napoleone non più fatti di
 
-quanti ne conoscesse Tennyson; ma conosceva la [[Truth|verità]]. Il suo [[Epigram|epigramma]] sulla caduta di Napoleone è
+quanti ne conoscesse Tennyson; ma conosceva la [[concepts/truth|verità]]. Il suo [[forms/epigram|epigramma]] sulla caduta di Napoleone è
 
 in un solo verso
 
@@ -17136,7 +17136,7 @@ il suo caso era, in un certo senso, estremo. Esagerava in entrambe le direzioni.
 <span class="atom-split" data-atom="chapter_03--part_05" data-title="Victorian Age — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/king,archetype/rebel,motif/animals,motif/chains,motif/garden,motif/grave,motif/love,motif/nature,motif/silence,motif/tears,motif/time,concept/faith,concept/hope,concept/imagination,concept/nature"></span>
 
 
-too strong and too weak, or (as a false sex [[philosophy]] would express it)
+too strong and too weak, or (as a false sex philosophy would express it)
 
 too masculine and too feminine. I mean that she hit the centre of
 
@@ -17148,21 +17148,21 @@ centre of strength. She could write finally of the factory wheels
 
 observation. Unfortunately she could also write of Euripides "with his
 
-droppings of warm [[Tears|tears]]." She could write in _A Drama of Exile_, a
+droppings of warm [[motifs/tears|tears]]." She could write in _A Drama of Exile_, a
 
 really fine exposition, touching the later relation of Adam and the
 
-[[Animals|animals]]: unfortunately the [[Tears|tears]] were again turned on at the wrong
+[[motifs/animals|animals]]: unfortunately the [[motifs/tears|tears]] were again turned on at the wrong
 
-moment at the main; and the stage direction commands a [[Silence|silence]], only
+moment at the main; and the stage direction commands a [[motifs/silence|silence]], only
 
-broken by the dropping of angel's [[Tears|tears]]. How much noise is made by
+broken by the dropping of angel's [[motifs/tears|tears]]. How much noise is made by
 
-angel's [[Tears|tears]]? Is it a sound of emptied buckets, or of [[Garden|garden]] hose, or
+angel's [[motifs/tears|tears]]? Is it a sound of emptied buckets, or of [[motifs/garden|garden]] hose, or
 
 of mountain cataracts? That is the sort of question which Elizabeth
 
-Barrett's extreme [[Love|love]] of the extreme was always tempting people to ask.
+Barrett's extreme [[motifs/love|love]] of the extreme was always tempting people to ask.
 
 Yet the question, as asked, does her a heavy historical injustice; we
 
@@ -17182,7 +17182,7 @@ was her husband, he can go and live in the same hotel with the man who
 
 can believe that George Eliot owed anything to the extravagant
 
-[[Imagination|imagination]] of Mr. George Henry Lewes. So far from Browning inspiring or
+[[concepts/imagination|imagination]] of Mr. George Henry Lewes. So far from Browning inspiring or
 
 interfering, he did not in one sense interfere enough. Her real
 
@@ -17196,7 +17196,7 @@ Swinburne as the next name here. He is the only poet who was also, in
 
 the European sense, on the spot; even if, in the sense of the Gilbertian
 
-[[Song|song]], the spot was barred. He also knew that something rather crucial
+song, the spot was barred. He also knew that something rather crucial
 
 was happening to Christendom; he thought it was getting unchristened. It
 
@@ -17204,9 +17204,9 @@ is even a little amusing, indeed, that these two Pro-Italian poets
 
 almost conducted a political correspondence in rhyme. Mrs. Browning
 
-sternly reproached those who had ever doubted the good [[Faith|faith]] of the [[King]]
+sternly reproached those who had ever doubted the good [[concepts/faith|faith]] of the [[archetypes/king|King]]
 
-of Sardinia, whom she acclaimed as being truly a [[King|king]]. Swinburne,
+of Sardinia, whom she acclaimed as being truly a [[archetypes/king|king]]. Swinburne,
 
 lyrically alluding to her as "Sea-eagle of English feather," broadly
 
@@ -17214,13 +17214,13 @@ hinted that the chief blunder of that wild fowl had been her support of
 
 an autocratic adventurer: "calling a crowned man royal, that was no more
 
-than a [[King|king]]." But it is not fair, even in this important connection, to
+than a [[archetypes/king|king]]." But it is not fair, even in this important connection, to
 
-judge Swinburne by _Songs Before Sunrise_. They were [[songs]] before a
+judge Swinburne by _Songs Before Sunrise_. They were songs before a
 
 sunrise that has never turned up. Their dogmatic assertions have for a
 
-long [[Time|time]] past stared starkly at us as nonsense. As, for instance, the
+long [[motifs/time|time]] past stared starkly at us as nonsense. As, for instance, the
 
 phrase "Glory to Man in the Highest, for man is the master of things";
 
@@ -17228,7 +17228,7 @@ after which there is evidently nothing to be said, except that it is
 
 not true. But even where Swinburne had his greater grip, as in that
 
-[[Grave|grave]] and partly just poem _Before a Crucifix_, Swinburne, the most
+[[motifs/grave|grave]] and partly just poem _Before a Crucifix_, Swinburne, the most
 
 Latin, the most learned, the most largely travelled of the Victorians,
 
@@ -17246,7 +17246,7 @@ Swinburne could have found round about Putney plenty of slaves who had
 
 no crucifixes: but only crucifixions.
 
-When we come to ethics and [[philosophy]], doubtless we find Swinburne in
+When we come to ethics and philosophy, doubtless we find Swinburne in
 
 full revolt, not only against the temperate idealism of Tennyson, but
 
@@ -17260,13 +17260,13 @@ insurrection against priests and kings, Swinburne ought to have
 
 described the natural life of man, free and beautiful, and proved from
 
-this both the noxiousness and the needlessness of such [[Chains|chains]].
+this both the noxiousness and the needlessness of such [[motifs/chains|chains]].
 
-Unfortunately Swinburne rebelled against [[Nature]] first and then tried to
+Unfortunately Swinburne rebelled against [[concepts/nature|Nature]] first and then tried to
 
-[[Rebel|rebel]] against religion for doing exactly the same thing that he had
+[[archetypes/rebel|rebel]] against religion for doing exactly the same thing that he had
 
-done. His [[songs]] of joy are not really immoral; but his [[songs]] of sorrow
+done. His songs of joy are not really immoral; but his songs of sorrow
 
 are. But when he merely hurls at the priest the assertion that flesh is
 
@@ -17278,7 +17278,7 @@ went forth, as it were, as the champion of pagan change and pleasure, he
 
 heard uplifted the grand choruses of his own _Atalanta_, in his rear,
 
-refusing [[Hope|hope]].
+refusing [[concepts/hope|hope]].
 
 The splendid diction that blazes through the whole of that drama, that
 
@@ -17307,7 +17307,7 @@ and the unconscious imitations. On the contrary, it is a sort of
 
 <span class="qlang-split" data-lang="it"></span>
 
-troppo forte e troppo debole, o (come si esprimerebbe una falsa [[philosophy|filosofia]] dei sessi)
+troppo forte e troppo debole, o (come si esprimerebbe una falsa filosofia dei sessi)
 
 troppo maschile e troppo femminile. Intendo dire che colpì il centro della
 
@@ -17319,21 +17319,21 @@ che «macinano la vita riducendola sotto il suo segno», osservazione forte e ri
 
 vera. Purtroppo sapeva anche scrivere di Euripide «con le sue
 
-gocce di calde [[Tears|lacrime]]». Sapeva scrivere, in _A Drama of Exile_, una
+gocce di calde [[motifs/tears|lacrime]]». Sapeva scrivere, in _A Drama of Exile_, una
 
 esposizione davvero pregevole, che tocca la relazione posteriore fra Adamo e gli
 
-[[Animals|animali]]: purtroppo le [[Tears|lacrime]] furono di nuovo aperte al momento
+[[motifs/animals|animali]]: purtroppo le [[motifs/tears|lacrime]] furono di nuovo aperte al momento
 
-sbagliato dalla conduttura; e la didascalia scenica ordina un [[Silence|silenzio]], rotto soltanto
+sbagliato dalla conduttura; e la didascalia scenica ordina un [[motifs/silence|silenzio]], rotto soltanto
 
-dal cadere delle [[Tears|lacrime]] d'angelo. Quanto rumore fanno
+dal cadere delle [[motifs/tears|lacrime]] d'angelo. Quanto rumore fanno
 
-le [[Tears|lacrime]] d'angelo? È un suono di secchi svuotati, o di tubo da [[Garden|giardino]], o
+le [[motifs/tears|lacrime]] d'angelo? È un suono di secchi svuotati, o di tubo da [[motifs/garden|giardino]], o
 
 di cateratte montane? È questo il genere di domanda a cui l'estremo
 
-[[Love|amore]] di Elizabeth Barrett per l'estremo spingeva sempre la gente a chiedere.
+[[motifs/love|amore]] di Elizabeth Barrett per l'estremo spingeva sempre la gente a chiedere.
 
 Eppure la domanda, così posta, le fa una grave ingiustizia storica; noi
 
@@ -17353,7 +17353,7 @@ era suo marito, costui può andare a vivere nello stesso albergo dell'uomo che
 
 può credere che George Eliot dovesse qualcosa alla stravagante
 
-[[Imagination|immaginazione]] del signor George Henry Lewes. Tanto poco Browning la ispirò o
+[[concepts/imagination|immaginazione]] del signor George Henry Lewes. Tanto poco Browning la ispirò o
 
 interferì, che in un certo senso non interferì abbastanza. La sua vera
 
@@ -17367,7 +17367,7 @@ Swinburne come nome successivo. È il solo poeta che fu anche, nel
 
 senso europeo, sul posto; anche se, nel senso della
 
-[[Song|canzone]] gilbertiana, il posto era interdetto. Anch'egli sapeva che qualcosa di piuttosto cruciale
+canzone gilbertiana, il posto era interdetto. Anch'egli sapeva che qualcosa di piuttosto cruciale
 
 stava accadendo alla Cristianità; pensava che si stesse scristianizzando.
 
@@ -17375,9 +17375,9 @@ stava accadendo alla Cristianità; pensava che si stesse scristianizzando.
 
 conducessero quasi una corrispondenza politica in rima. La signora Browning
 
-rimproverava severamente coloro che avessero mai dubitato della buona [[Faith|fede]] del [[King|re]]
+rimproverava severamente coloro che avessero mai dubitato della buona [[concepts/faith|fede]] del [[archetypes/king|re]]
 
-di Sardegna, che ella acclamava come veramente un [[King|re]]. Swinburne,
+di Sardegna, che ella acclamava come veramente un [[archetypes/king|re]]. Swinburne,
 
 alludendo liricamente a lei come «Aquila di mare dalla piuma inglese», lasciò ampiamente
 
@@ -17385,13 +17385,13 @@ intendere che il principale abbaglio di quel selvatico volatile fosse stato il s
 
 un avventuriero autocratico: «chiamare regale un uomo coronato, non era più
 
-che un [[King|re]]». Ma non è giusto, nemmeno in questo importante contesto,
+che un [[archetypes/king|re]]». Ma non è giusto, nemmeno in questo importante contesto,
 
-giudicare Swinburne dai _Songs Before Sunrise_. Erano [[songs|canti]] prima di un'
+giudicare Swinburne dai _Songs Before Sunrise_. Erano canti prima di un'
 
 alba che non è mai spuntata. Le loro dogmatiche asserzioni ci hanno per
 
-lungo [[Time|tempo]] fissati crudamente come pura insensatezza. Come, per esempio, la
+lungo [[motifs/time|tempo]] fissati crudamente come pura insensatezza. Come, per esempio, la
 
 frase «Gloria all'Uomo nell'alto dei cieli, poiché l'uomo è il padrone delle cose»;
 
@@ -17399,7 +17399,7 @@ dopo la quale evidentemente non c'è nulla da dire, se non che
 
 non è vera. Ma perfino là dove Swinburne ebbe la sua presa maggiore, come in quel
 
-[[Grave|grave]] e in parte giusto poema _Before a Crucifix_, Swinburne, il più
+[[motifs/grave|grave]] e in parte giusto poema _Before a Crucifix_, Swinburne, il più
 
 latino, il più dotto, il più largamente viaggiato dei vittoriani,
 
@@ -17417,7 +17417,7 @@ Swinburne avrebbe potuto trovare nei dintorni di Putney schiavi in gran numero c
 
 crocifissi: ma soltanto crocifissioni.
 
-Quando veniamo all'etica e alla [[philosophy|filosofia]], senza dubbio troviamo Swinburne in
+Quando veniamo all'etica e alla filosofia, senza dubbio troviamo Swinburne in
 
 piena rivolta, non solo contro il temperato idealismo di Tennyson, ma
 
@@ -17431,13 +17431,13 @@ insurrezione contro preti e re, Swinburne avrebbe dovuto
 
 descrivere la vita naturale dell'uomo, libera e bella, e provare da
 
-ciò tanto la nocività quanto la superfluità di tali [[Chains|catene]].
+ciò tanto la nocività quanto la superfluità di tali [[motifs/chains|catene]].
 
-Purtroppo Swinburne si ribellò dapprima contro la [[Nature|Natura]] e poi tentò di
+Purtroppo Swinburne si ribellò dapprima contro la [[concepts/nature|Natura]] e poi tentò di
 
-[[Rebel|ribellarsi]] contro la religione per aver fatto esattamente la stessa cosa che egli aveva
+[[archetypes/rebel|ribellarsi]] contro la religione per aver fatto esattamente la stessa cosa che egli aveva
 
-fatto. I suoi [[songs|canti]] di gioia non sono davvero immorali; ma i suoi [[songs|canti]] di dolore
+fatto. I suoi canti di gioia non sono davvero immorali; ma i suoi canti di dolore
 
 lo sono. Ma quando si limita a scagliare contro il prete l'asserzione che la carne è
 
@@ -17449,7 +17449,7 @@ si fece avanti, per così dire, come campione del mutamento e del piacere pagani
 
 udì levarsi i grandi cori della sua stessa _Atalanta_, alle sue spalle,
 
-che rifiutavano la [[Hope|speranza]].
+che rifiutavano la [[concepts/hope|speranza]].
 
 La splendida dizione che divampa attraverso tutto quel dramma, che
 
@@ -17480,19 +17480,19 @@ e inconsapevoli imitazioni. Al contrario, è una sorta di
 <span class="atom-split" data-atom="chapter_03--part_06" data-title="Victorian Age — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/artist,motif/fire,motif/garden,motif/leaves,motif/love,motif/spring,motif/wind,concept/beauty,concept/honour,concept/truth,form/parody,setting/castle,setting/italy,character/chorus,character/jones"></span>
 
 
-fighting and profane [[Parody|parody]] of the Old Testament; and its lines are made
+fighting and profane [[forms/parody|parody]] of the Old Testament; and its lines are made
 
 of short English words like the short Roman swords. The first line of
 
-one of his finest [[Poems|poems]], for instance, runs, "I have lived long enough
+one of his finest poems, for instance, runs, "I have lived long enough
 
-to have seen one thing, that [[Love|love]] hath an end." In that sentence only
+to have seen one thing, that [[motifs/love|love]] hath an end." In that sentence only
 
 one small "e" gets outside the monosyllable. Through all his
 
 interminable tragedies, he was fondest of lines like--
 
-"If ever I leave off to [[Honour|honour]] you
+"If ever I leave off to [[concepts/honour|honour]] you
 
 God give me shame; I were the worst churl born."
 
@@ -17526,9 +17526,9 @@ That thy lips met with under the statue
 
 Whence a look shot out sharp after thieves
 
-From the eyes of the [[Garden|garden]]-god at you
+From the eyes of the [[motifs/garden|garden]]-god at you
 
-Across the fig-[[Leaves|leaves]]."
+Across the fig-[[motifs/leaves|leaves]]."
 
 Look at the rhymes in that verse, and you will see they are as stiff a
 
@@ -17556,7 +17556,7 @@ on the intellectual. In the section of the painters, it was the allies
 
 or pupils of Ruskin, pious, almost painfully exact, and copying mediæval
 
-details rather for their [[Truth|truth]] than their [[Beauty|beauty]]. In the section of the
+details rather for their [[concepts/truth|truth]] than their [[concepts/beauty|beauty]]. In the section of the
 
 poets it was pretty loose, Swinburne being the leader of the revels. But
 
@@ -17568,17 +17568,17 @@ literal sense true that the name of Rossetti is important here, for the
 
 name implies the nationality. I have loosely called Carlyle and the
 
-Brontës the [[Romance|romance]] from the North; the nearest to a general definition
+Brontës the romance from the North; the nearest to a general definition
 
-of the Æsthetic movement is to call it the [[Romance|romance]] from the South. It is
+of the Æsthetic movement is to call it the romance from the South. It is
 
-that warm [[Wind|wind]] that had never blown so strong since Chaucer, standing in
+that warm [[motifs/wind|wind]] that had never blown so strong since Chaucer, standing in
 
-his cold English April, had smelt the [[spring]] in Provence. The Englishman
+his cold English April, had smelt the [[motifs/spring|spring]] in Provence. The Englishman
 
 has always found it easier to get inspiration from the Italians than
 
-from the French; they call to each other across that unconquered [[Castle|castle]]
+from the French; they call to each other across that unconquered [[settings/castle|castle]]
 
 of reason. Browning's _Englishman in Italy_, Browning's _Italian in
 
@@ -17586,7 +17586,7 @@ England_, were both happier than either would have been in France.
 
 Rossetti was the Italian in England, as Browning was the Englishman in
 
-[[Italy]]; and the first broad fact about the artistic revolution Rossetti
+[[settings/italy|Italy]]; and the first broad fact about the artistic revolution Rossetti
 
 wrought is written when we have written his name. But if the South lets
 
@@ -17608,15 +17608,15 @@ in any art; if he had he would probably never have been heard of. It was
 
 his happy knack of half failing in both the arts that has made him a
 
-[[success]]. If he had been as good a poet as Tennyson, he would have been a
+success. If he had been as good a poet as Tennyson, he would have been a
 
 poet who painted pictures. If he had been as good a painter as
 
-Burne-[[Jones]], he would have been a painter who wrote [[Poems|poems]]. It is odd to
+Burne-[[characters/jones|Jones]], he would have been a painter who wrote poems. It is odd to
 
 note on the very threshold of the extreme art movement that this great
 
-[[artist]] largely succeeded by not defining his art. His [[Poems|poems]] were too
+[[archetypes/artist|artist]] largely succeeded by not defining his art. His poems were too
 
 pictorial. His pictures were too poetical. That is why they really
 
@@ -17630,7 +17630,7 @@ other, in reviving the decorative instinct of the Middle Ages. While
 
 Ruskin, in letters only, praised that decoration Rossetti and his
 
-friends repeated it. They almost made patterns of their [[Poems|poems]]. That
+friends repeated it. They almost made patterns of their poems. That
 
 frequent return of the refrain which was foolishly discussed by
 
@@ -17638,15 +17638,15 @@ Professor Nordau was, in Rossetti's case, of such sadness as sometimes
 
 to amount to sameness. The criticism on him, from a mediæval point of
 
-view, is not that he insisted on a [[Chorus|chorus]], but that he could not insist
+view, is not that he insisted on a [[characters/chorus|chorus]], but that he could not insist
 
-on a jolly [[Chorus|chorus]]. Many of his [[Poems|poems]] were truly mediæval, but they would
+on a jolly [[characters/chorus|chorus]]. Many of his poems were truly mediæval, but they would
 
 have been even more mediæval if he could ever have written such a
 
 refrain as "Tally Ho!" or even "Tooral-ooral" instead of "Tall Troy's on
 
-[[Fire|fire]]." With Rossetti goes, of course, his sister, a real poet, though
+[[motifs/fire|fire]]." With Rossetti goes, of course, his sister, a real poet, though
 
 she also illustrated that Pre-Raphaelite's conflict of views that
 
@@ -17657,19 +17657,19 @@ burning transparencies, the fixed but still unfathomable symbols of the
 
 <span class="qlang-split" data-lang="it"></span>
 
-combattiva e profana [[Parody|parodia]] dell'Antico Testamento; e i suoi versi sono fatti
+combattiva e profana [[forms/parody|parodia]] dell'Antico Testamento; e i suoi versi sono fatti
 
 di brevi parole inglesi come le brevi spade romane. Il primo verso di
 
-una delle sue [[Poems|poesie]] più belle, per esempio, recita: «Ho vissuto abbastanza a lungo
+una delle sue poesie più belle, per esempio, recita: «Ho vissuto abbastanza a lungo
 
-da aver visto una cosa: che l'[[Love|amore]] ha una fine». In quella frase soltanto
+da aver visto una cosa: che l'[[motifs/love|amore]] ha una fine». In quella frase soltanto
 
 una piccola «e» esce dal monosillabo. In tutte le sue
 
 interminabili tragedie, egli prediligeva versi come—
 
-«Se mai cessassi di [[Honour|onorarti]]
+«Se mai cessassi di [[concepts/honour|onorarti]]
 
 Dio mi copra di vergogna; sarei il peggior villano mai nato».
 
@@ -17703,9 +17703,9 @@ ciò che le tue labbra incontrarono sotto la statua
 
 donde uno sguardo saettò acuto dietro ai ladri
 
-dagli occhi del dio del [[Garden|giardino]] verso di te
+dagli occhi del dio del [[motifs/garden|giardino]] verso di te
 
-attraverso le [[Leaves|foglie]] di fico».
+attraverso le [[motifs/leaves|foglie]] di fico».
 
 Guardate le rime di quei versi, e vedrete che sono un compito tanto arduo
 
@@ -17733,7 +17733,7 @@ su quello intellettuale. Nella sezione dei pittori, erano gli alleati
 
 o allievi di Ruskin, devoti, quasi penosamente esatti, che copiavano i particolari medievali
 
-più per la loro [[Truth|verità]] che per la loro [[Beauty|bellezza]]. Nella sezione dei
+più per la loro [[concepts/truth|verità]] che per la loro [[concepts/beauty|bellezza]]. Nella sezione dei
 
 poeti era piuttosto sciolta, essendo Swinburne il capofila dei bagordi. Ma
 
@@ -17745,17 +17745,17 @@ letterale vero che il nome di Rossetti è qui importante, poiché il
 
 nome implica la nazionalità. Ho vagamente chiamato Carlyle e le
 
-Brontë il [[Romance|romanticismo]] del Nord; la definizione generale più prossima
+Brontë il romanticismo del Nord; la definizione generale più prossima
 
-del movimento Estetico è chiamarlo il [[Romance|romanticismo]] del Sud. È
+del movimento Estetico è chiamarlo il romanticismo del Sud. È
 
-quel caldo [[Wind|vento]] che non aveva più soffiato così forte da quando Chaucer, ritto nel
+quel caldo [[motifs/wind|vento]] che non aveva più soffiato così forte da quando Chaucer, ritto nel
 
-suo freddo aprile inglese, aveva fiutato la [[spring|primavera]] in Provenza. L'inglese
+suo freddo aprile inglese, aveva fiutato la [[motifs/spring|primavera]] in Provenza. L'inglese
 
 ha sempre trovato più facile trarre ispirazione dagli italiani che
 
-dai francesi; essi si richiamano a vicenda attraverso quell'inespugnato [[Castle|castello]]
+dai francesi; essi si richiamano a vicenda attraverso quell'inespugnato [[settings/castle|castello]]
 
 della ragione. L'_Inglese in Italia_ di Browning, l'_Italiano in
 
@@ -17763,7 +17763,7 @@ Inghilterra_ di Browning, furono entrambi più felici di quanto ciascuno sarebbe
 
 Rossetti era l'italiano in Inghilterra, come Browning era l'inglese in
 
-[[Italy|Italia]]; e il primo grande fatto riguardo alla rivoluzione artistica che Rossetti
+[[settings/italy|Italia]]; e il primo grande fatto riguardo alla rivoluzione artistica che Rossetti
 
 operò è scritto quando abbiamo scritto il suo nome. Ma se il Sud lascia
 
@@ -17785,15 +17785,15 @@ in nessuna arte; se ci fosse riuscito, probabilmente non se ne sarebbe mai senti
 
 il suo felice talento di fallire a metà in entrambe le arti che ne ha fatto un
 
-[[success|successo]]. Se fosse stato un poeta valente quanto Tennyson, sarebbe stato un
+successo. Se fosse stato un poeta valente quanto Tennyson, sarebbe stato un
 
 poeta che dipingeva quadri. Se fosse stato un pittore valente quanto
 
-Burne-[[Jones]], sarebbe stato un pittore che scriveva [[Poems|poesie]]. È curioso
+Burne-[[characters/jones|Jones]], sarebbe stato un pittore che scriveva poesie. È curioso
 
 notare, sulla soglia stessa del movimento artistico estremo, che questo grande
 
-[[artist|artista]] riuscì in gran parte proprio non definendo la sua arte. Le sue [[Poems|poesie]] erano troppo
+[[archetypes/artist|artista]] riuscì in gran parte proprio non definendo la sua arte. Le sue poesie erano troppo
 
 pittoriche. I suoi quadri erano troppo poetici. Ecco perché essi davvero
 
@@ -17807,7 +17807,7 @@ dall'altro, nel far rivivere l'istinto decorativo del Medioevo. Mentre
 
 Ruskin, solo a parole, lodava quella decorazione, Rossetti e i suoi
 
-amici la ripetevano. Facevano quasi delle loro [[Poems|poesie]] dei motivi ornamentali. Quel
+amici la ripetevano. Facevano quasi delle loro poesie dei motivi ornamentali. Quel
 
 frequente ritorno del ritornello che fu scioccamente discusso dal
 
@@ -17815,15 +17815,15 @@ professor Nordau era, nel caso di Rossetti, di una tale tristezza da
 
 sfiorare talora la monotonia. La critica che gli si muove, da un punto di vista
 
-medievale, non è che egli insistesse su un [[Chorus|coro]], ma che non sapeva insistere
+medievale, non è che egli insistesse su un [[characters/chorus|coro]], ma che non sapeva insistere
 
-su un [[Chorus|coro]] gaio. Molte delle sue [[Poems|poesie]] erano davvero medievali, ma lo
+su un [[characters/chorus|coro]] gaio. Molte delle sue poesie erano davvero medievali, ma lo
 
 sarebbero state ancor più se egli avesse mai saputo scrivere un
 
 ritornello come «Tally Ho!» o persino «Tooral-ooral» invece di «L'alta Troia è in
 
-[[Fire|fiamme]]». Con Rossetti va, naturalmente, sua sorella, una vera poetessa, benché
+[[motifs/fire|fiamme]]». Con Rossetti va, naturalmente, sua sorella, una vera poetessa, benché
 
 anch'ella illustrasse quel conflitto di vedute preraffaellita che
 
@@ -17846,13 +17846,13 @@ One poet, or, to speak more strictly, one poem, belongs to the same
 
 general atmosphere and impulse as Swinburne; the free but languid
 
-atmosphere of later Victorian art. But this [[Time|time]] the [[Wind|wind]] blew from
+atmosphere of later Victorian art. But this [[motifs/time|time]] the [[motifs/wind|wind]] blew from
 
-hotter and heavier gardens than the gardens of [[Italy]]. Edward
+hotter and heavier gardens than the gardens of [[settings/italy|Italy]]. Edward
 
 Fitzgerald, a cultured eccentric, a friend of Tennyson, produced what
 
-professed to be a [[Translation|translation]] of the Persian poet Omar, who wrote
+professed to be a [[forms/translation|translation]] of the Persian poet Omar, who wrote
 
 quatrains about wine and roses and things in general. Whether the
 
@@ -17862,11 +17862,11 @@ version I must not discuss here, and could not discuss anywhere. But it
 
 is quite clear that Fitzgerald's work is much too good to be a good
 
-[[Translation|translation]]. It is as personal and creative a thing as ever was written;
+[[forms/translation|translation]]. It is as personal and creative a thing as ever was written;
 
 and the best expression of a bad mood, a mood that may, for all I know,
 
-be permanent in Persia, but was certainly at this [[Time|time]] particularly
+be permanent in Persia, but was certainly at this [[motifs/time|time]] particularly
 
 fashionable in England. In the technical sense of literature it is one
 
@@ -17876,19 +17876,19 @@ Swinburne and far more perfect. In this verbal sense its most arresting
 
 quality is a combination of something haunting and harmonious that flows
 
-by like a [[River|river]] or a [[Song|song]], with something else that is compact and
+by like a [[motifs/river|river]] or a song, with something else that is compact and
 
 pregnant like a pithy saying picked out in rock by the chisel of some
 
-pagan philosopher. It is at once a tune that escapes and an [[Inscription|inscription]]
+pagan philosopher. It is at once a tune that escapes and an [[forms/inscription|inscription]]
 
-that remains. Thus, [[Alone|alone]] among the reckless and romantic verses that
+that remains. Thus, alone among the reckless and romantic verses that
 
-first [[Rose|rose]] in Coleridge or Keats, it preserves something also of the wit
+first [[motifs/rose|rose]] in Coleridge or Keats, it preserves something also of the wit
 
 and civilisation of the eighteenth century. Lines like "a Muezzin from
 
-the tower of darkness cries," or "Their mouths are stopped with [[Dust|dust]]"
+the tower of darkness cries," or "Their mouths are stopped with [[motifs/dust|dust]]"
 
 are successful in the same sense as "Pinnacled dim in the intense inane"
 
@@ -17908,7 +17908,7 @@ It thus earned a right to be considered the complete expression of that
 
 scepticism and sensual sadness into which later Victorian literature was
 
-more and more falling away: a sort of [[Bible|bible]] of unbelief. For a cold fit
+more and more falling away: a sort of [[historical-references/bible|bible]] of unbelief. For a cold fit
 
 had followed the hot fit of Swinburne, which was of a feverish sort: he
 
@@ -17924,7 +17924,7 @@ and minds in looking for the lost syntax of Browning; while Browning
 
 himself was away looking for God, rather in the spirit of a truant boy
 
-from their school looking for [[Birds|birds]]' nests. The nineteenth-century
+from their school looking for [[motifs/birds|birds]]' nests. The nineteenth-century
 
 sceptics did not really shake the respectable world and alter it, as the
 
@@ -17940,15 +17940,15 @@ when ordinary English people listened to it, they came to the conclusion
 
 that it was a frame of mind they would rather hear about than
 
-experience. But these later poets did, so to speak, spread their [[Soul|soul]] in
+experience. But these later poets did, so to speak, spread their [[motifs/soul|soul]] in
 
 all the empty spaces; weaker brethren, disappointed artists, unattached
 
 individuals, very young people, were sapped or swept away by these
 
-[[songs]]; which, so far as any particular sense in them goes, were almost
+songs; which, so far as any particular sense in them goes, were almost
 
-[[songs]] without words. It is because there is something which is after all
+songs without words. It is because there is something which is after all
 
 indescribably manly, intellectual, firm about Fitzgerald's way of
 
@@ -17956,7 +17956,7 @@ phrasing the pessimism that he towers above the slope that was tumbling
 
 down to the decadents. But it is still pessimism, a thing unfit for a
 
-white man; a thing like opium, that may often be a [[Poison|poison]] and sometimes
+white man; a thing like opium, that may often be a [[motifs/poison|poison]] and sometimes
 
 a medicine, but never a food for us, who are driven by an inner command
 
@@ -17966,7 +17966,7 @@ only to grow but to build.
 
 And, indeed, we see the insufficiency of such sad extremes even in the
 
-next name among the major poets; we see the Swinburnian [[Parody|parody]] of
+next name among the major poets; we see the Swinburnian [[forms/parody|parody]] of
 
 mediævalism, the inverted Catholicism of the decadents, struggling to
 
@@ -17980,7 +17980,7 @@ that return to real issues leading up to the real revolts that broke up
 
 Victorianism at last. In the mere art of words, indeed, William Morris
 
-carried much further than Swinburne or Rossetti the mere [[Imitation|imitation]] of
+carried much further than Swinburne or Rossetti the mere imitation of
 
 stiff mediæval ornament. The other mediævalists had their modern
 
@@ -17996,7 +17996,7 @@ One has an uneasy feeling that William Morris would have written
 
 something like--
 
-"And the kin of the ill [[King|king]] Bonaparte
+"And the kin of the ill [[archetypes/king|king]] Bonaparte
 
 Hath a high gallows for all his part."
 
@@ -18025,13 +18025,13 @@ Un poeta, o, per dire con maggior rigore, una poesia, appartiene alla stessa
 
 atmosfera e allo stesso impulso generale di Swinburne; la libera ma languida
 
-atmosfera dell'arte tardo-vittoriana. Ma questa [[Time|volta]] il [[Wind|vento]] soffiava da
+atmosfera dell'arte tardo-vittoriana. Ma questa [[motifs/time|volta]] il [[motifs/wind|vento]] soffiava da
 
-giardini più caldi e più gravi che i giardini d'[[Italy|Italia]]. Edward
+giardini più caldi e più gravi che i giardini d'[[settings/italy|Italia]]. Edward
 
 Fitzgerald, un eccentrico colto, un amico di Tennyson, produsse quello che
 
-professava di essere una [[Translation|traduzione]] del poeta persiano Omar, che scrisse
+professava di essere una [[forms/translation|traduzione]] del poeta persiano Omar, che scrisse
 
 quartine su vino e rose e cose in generale. Se
 
@@ -18041,11 +18041,11 @@ versione non devo discuterlo qui, né potrei discuterlo altrove. Ma è
 
 del tutto chiaro che l'opera di Fitzgerald è troppo buona per essere una buona
 
-[[Translation|traduzione]]. È una cosa personale e creativa quanto mai se ne scrissero;
+[[forms/translation|traduzione]]. È una cosa personale e creativa quanto mai se ne scrissero;
 
 e la migliore espressione di un cattivo umore, un umore che può, per quanto ne so,
 
-essere permanente in Persia, ma era certamente in quel [[Time|tempo]] particolarmente
+essere permanente in Persia, ma era certamente in quel [[motifs/time|tempo]] particolarmente
 
 di moda in Inghilterra. Nel senso tecnico della letteratura è uno
 
@@ -18055,19 +18055,19 @@ Swinburne e assai più perfetto. In questo senso verbale la sua qualità più
 
 avvincente è una combinazione di qualcosa di ossessivo e armonioso che scorre
 
-via come un [[River|fiume]] o una [[Song|canzone]], con qualcos'altro di compatto e
+via come un [[motifs/river|fiume]] o una canzone, con qualcos'altro di compatto e
 
 denso come una sentenza incisiva scavata nella roccia dallo scalpello di qualche
 
-filosofo pagano. È a un tempo una melodia che sfugge e un'[[Inscription|iscrizione]]
+filosofo pagano. È a un tempo una melodia che sfugge e un'[[forms/inscription|iscrizione]]
 
-che rimane. Così, [[Alone|sola]] tra i versi sconsiderati e romantici che
+che rimane. Così, sola tra i versi sconsiderati e romantici che
 
-per primi [[Rose|sorsero]] in Coleridge o Keats, essa conserva anche qualcosa dell'arguzia
+per primi [[motifs/rose|sorsero]] in Coleridge o Keats, essa conserva anche qualcosa dell'arguzia
 
 e della civiltà del Settecento. Versi come «un muezzin dalla
 
-torre delle tenebre grida», o «Le loro bocche sono turate di [[Dust|polvere]]»
+torre delle tenebre grida», o «Le loro bocche sono turate di [[motifs/dust|polvere]]»
 
 riescono nello stesso senso di «Guglia fioca nell'intenso vuoto»
 
@@ -18087,7 +18087,7 @@ Si guadagnò così il diritto di essere considerata la compiuta espressione di q
 
 scetticismo e di quella sensuale tristezza in cui la tarda letteratura vittoriana andava
 
-sempre più decadendo: una sorta di [[Bible|bibbia]] dell'incredulità. Poiché un accesso di freddo
+sempre più decadendo: una sorta di [[historical-references/bible|bibbia]] dell'incredulità. Poiché un accesso di freddo
 
 era seguito all'accesso di caldo di Swinburne, che era di specie febbrile: egli
 
@@ -18103,7 +18103,7 @@ e la mente cercando la perduta sintassi di Browning; mentre Browning
 
 stesso se n'era andato in cerca di Dio, piuttosto nello spirito di un ragazzo scappato
 
-dalla loro scuola in cerca di nidi d'[[Birds|uccelli]]. Gli scettici del diciannovesimo
+dalla loro scuola in cerca di nidi d'[[motifs/birds|uccelli]]. Gli scettici del diciannovesimo
 
 secolo non scossero davvero il rispettabile mondo e non lo mutarono, come avevano
 
@@ -18119,15 +18119,15 @@ quando la gente comune inglese vi prestava orecchio, giungeva alla conclusione
 
 che era uno stato d'animo di cui preferiva sentir parlare piuttosto che
 
-farne esperienza. Ma questi poeti più tardi sparsero, per così dire, la loro [[Soul|anima]] in
+farne esperienza. Ma questi poeti più tardi sparsero, per così dire, la loro [[motifs/soul|anima]] in
 
 tutti gli spazi vuoti; fratelli più deboli, artisti delusi, individui
 
 sciolti, persone giovanissime, venivano scalzati o travolti da queste
 
-[[songs|canzoni]]; le quali, per quanto attiene a un qualche senso particolare in esse, erano quasi
+canzoni; le quali, per quanto attiene a un qualche senso particolare in esse, erano quasi
 
-[[songs|canzoni]] senza parole. È perché c'è qualcosa che è dopo tutto
+canzoni senza parole. È perché c'è qualcosa che è dopo tutto
 
 indescrivibilmente virile, intellettuale, fermo nel modo di Fitzgerald di
 
@@ -18135,7 +18135,7 @@ formulare il pessimismo, che egli torreggia sopra il pendio che precipitava
 
 giù verso i decadenti. Ma è pur sempre pessimismo, cosa non degna di un
 
-uomo bianco; una cosa come l'oppio, che può spesso essere un [[Poison|veleno]] e talvolta
+uomo bianco; una cosa come l'oppio, che può spesso essere un [[motifs/poison|veleno]] e talvolta
 
 una medicina, ma mai un cibo per noi, che siamo spinti da un comando interiore
 
@@ -18145,7 +18145,7 @@ solo a crescere ma a costruire.
 
 E, in verità, vediamo l'insufficienza di simili tristi estremi anche nel
 
-nome successivo tra i maggiori poeti; vediamo la [[Parody|parodia]] swinburniana del
+nome successivo tra i maggiori poeti; vediamo la [[forms/parody|parodia]] swinburniana del
 
 medievalismo, il cattolicesimo rovesciato dei decadenti, che si sforza di
 
@@ -18159,7 +18159,7 @@ quel ritorno a questioni reali che condusse alle vere rivolte che infransero
 
 infine il vittorianesimo. Nella pura arte delle parole, invero, William Morris
 
-spinse assai più oltre di Swinburne o Rossetti la mera [[Imitation|imitazione]] del
+spinse assai più oltre di Swinburne o Rossetti la mera imitazione del
 
 rigido ornamento medievale. Gli altri medievalisti ebbero i loro momenti
 
@@ -18175,7 +18175,7 @@ Si ha l'inquieta sensazione che William Morris avrebbe scritto
 
 qualcosa come--
 
-«E la stirpe del malvagio [[King|re]] Bonaparte
+«E la stirpe del malvagio [[archetypes/king|re]] Bonaparte
 
 ha un'alta forca per tutta la sua parte.»
 
@@ -18200,7 +18200,7 @@ he so often called himself, a craftsman. He had enough masculine
 
 strength to be tidy: that is, after the masculine manner, tidy about his
 
-own trade. If his [[Poems|poems]] were too like wallpapers, it was because he
+own trade. If his poems were too like wallpapers, it was because he
 
 really could make wallpapers. He knew that lines of poetry ought to be
 
@@ -18274,7 +18274,7 @@ happened to-morrow. They named their books by cold titles suggesting
 
 straight corridors of marble--titles like _Looking Backward_. But Morris
 
-was an [[artist]] as [[Well|well]] as an anarchist. _News from Nowhere_ is an
+was an [[archetypes/artist|artist]] as [[motifs/well|well]] as an anarchist. _News from Nowhere_ is an
 
 irresponsible title; and it is an irresponsible book. It does not
 
@@ -18288,7 +18288,7 @@ he could even dream so is his true dignity as a poet. He was the first
 
 of the Æsthetes to smell mediævalism as a smell of the morning; and not
 
-as a mere scent of [[Decay|decay]].
+as a mere scent of [[motifs/decay|decay]].
 
 With him the poetry that had been peculiarly Victorian practically
 
@@ -18298,7 +18298,7 @@ minor names of major importance; but for one reason or other they do not
 
 derive from the schools that had dominated this epoch as such. Thus
 
-Thompson, the author of _The [[City]] of Dreadful Night_, was a fine poet;
+Thompson, the author of _The [[motifs/city|City]] of Dreadful Night_, was a fine poet;
 
 but his pessimism combined with a close pugnacity does not follow any of
 
@@ -18314,7 +18314,7 @@ Elizabethan as Browning; and often in moods and metres that even
 
 Browning was never wild enough to think of. No one will ever forget the
 
-first [[Time|time]] he read Patmore's hint that the cosmos is a thing that God
+first [[motifs/time|time]] he read Patmore's hint that the cosmos is a thing that God
 
 made huge only "to make dirt cheap"; just as nobody will ever forget the
 
@@ -18328,7 +18328,7 @@ Catholic Browning, keeps him out of the Victorian atmosphere as such.
 
 The Victorian English simply thought him an indecent sentimentalist, as
 
-they did all the hot and humble religious diarists of [[Italy]] or Spain.
+they did all the hot and humble religious diarists of [[settings/italy|Italy]] or Spain.
 
 Something of the same fate followed the most powerful of that last
 
@@ -18348,7 +18348,7 @@ Of offering it my baseness as a gift."
 
 But none of them were able even to understand Francis Thompson; his
 
-sky-scraping [[Humility|humility]], his [[Mountains|mountains]] of mystical detail, his occasional
+sky-scraping [[concepts/humility|humility]], his [[settings/mountains|mountains]] of mystical detail, his occasional
 
 and unashamed weakness, his sudden and sacred blasphemies. Perhaps the
 
@@ -18361,7 +18361,7 @@ come così spesso si definiva, un artigiano. Aveva sufficiente forza virile
 
 per essere ordinato: ordinato, cioè, alla maniera maschile, nel proprio
 
-mestiere. Se le sue [[Poems|poesie]] somigliavano troppo a carte da parati, era perché
+mestiere. Se le sue poesie somigliavano troppo a carte da parati, era perché
 
 sapeva davvero fabbricare carte da parati. Sapeva che i versi di una poesia devono stare
 
@@ -18435,7 +18435,7 @@ accaduto domani. Essi intitolavano i loro libri con titoli freddi che evocavano
 
 diritti corridoi di marmo: titoli come _Uno sguardo al passato_. Ma Morris
 
-era un [[artist|artista]] [[Well|oltre]] che un anarchico. _Notizie da Nessun Luogo_ è un
+era un [[archetypes/artist|artista]] [[motifs/well|oltre]] che un anarchico. _Notizie da Nessun Luogo_ è un
 
 titolo irresponsabile; ed è un libro irresponsabile. Non
 
@@ -18449,7 +18449,7 @@ egli potesse anche solo sognare così è la sua vera dignità di poeta. Fu il pr
 
 degli esteti a fiutare il medievalismo come un odore del mattino; e non
 
-come un mero sentore di [[Decay|decadenza]].
+come un mero sentore di [[motifs/decay|decadenza]].
 
 Con lui la poesia che era stata peculiarmente vittoriana praticamente
 
@@ -18459,7 +18459,7 @@ nomi minori di importanza maggiore; ma per una ragione o per l'altra essi non
 
 derivano dalle scuole che avevano dominato questa epoca in quanto tali. Così
 
-Thompson, l'autore di _La [[City|Città]] della Notte Tremenda_, era un fine poeta;
+Thompson, l'autore di _La [[motifs/city|Città]] della Notte Tremenda_, era un fine poeta;
 
 ma il suo pessimismo, unito a una serrata combattività, non segue alcuna delle
 
@@ -18475,7 +18475,7 @@ elisabettiano quanto Browning; e spesso in stati d'animo e metri che perfino
 
 Browning non fu mai tanto ardito da concepire. Nessuno dimenticherà mai la
 
-prima [[Time|volta]] che lesse l'accenno di Patmore secondo cui il cosmo è una cosa che Dio
+prima [[motifs/time|volta]] che lesse l'accenno di Patmore secondo cui il cosmo è una cosa che Dio
 
 fece enorme soltanto «per rendere il fango a buon mercato»; proprio come nessuno dimenticherà mai il
 
@@ -18489,7 +18489,7 @@ Browning cattolico, lo tiene fuori dall'atmosfera vittoriana in quanto tale.
 
 Gli inglesi vittoriani lo giudicarono semplicemente un indecente sentimentale, come
 
-giudicarono tutti gli ardenti e umili diaristi religiosi d'[[Italy|Italia]] o di Spagna.
+giudicarono tutti gli ardenti e umili diaristi religiosi d'[[settings/italy|Italia]] o di Spagna.
 
 Qualcosa della medesima sorte toccò al più potente di quell'ultimo
 
@@ -18509,7 +18509,7 @@ di offrirgli la mia bassezza in dono.»
 
 Ma nessuno di loro riuscì nemmeno a comprendere Francis Thompson; la sua
 
-[[Humility|umiltà]] che sfiora il cielo, le sue [[Mountains|montagne]] di dettaglio mistico, la sua occasionale
+[[concepts/humility|umiltà]] che sfiora il cielo, le sue [[settings/mountains|montagne]] di dettaglio mistico, la sua occasionale
 
 e spudorata debolezza, le sue improvvise e sacre bestemmie. Forse la
 
@@ -18556,7 +18556,7 @@ country. Men like Huxley, men like Kingsley, men like most Victorian
 
 men, were equally driven back on being irreligious; that is, on doubting
 
-things which men's normal [[Imagination|imagination]] does not necessarily [[Doubt|doubt]]. But
+things which men's normal [[concepts/imagination|imagination]] does not necessarily [[concepts/doubt|doubt]]. But
 
 certainly the most final and forcible fact is that this war ended like
 
@@ -18566,7 +18566,7 @@ both did beat, and both did run away. They have left to their
 
 descendants a treaty that has become a dull torture. Men may believe in
 
-[[Immortality|immortality]], and none of the men know why. Men may not believe in
+[[concepts/immortality|immortality]], and none of the men know why. Men may not believe in
 
 miracles, and none of the men know why. The Christian Church had been
 
@@ -18580,23 +18580,23 @@ other; and Victorian England was in a state which some call liberty and
 
 some call lockjaw.
 
-But the situation can be stated another way. There came a [[Time|time]], roughly
+But the situation can be stated another way. There came a [[motifs/time|time]], roughly
 
 somewhere about 1880, when the two great positive enthusiasms of Western
 
-Europe had for the [[Time|time]] exhausted each other--[[Christianity]] and the
+Europe had for the [[motifs/time|time]] exhausted each other--[[historical-references/christianity|Christianity]] and the
 
-[[French Revolution]]. About that [[Time|time]] there used to be a sad and not
+[[historical-references/french-revolution|French Revolution]]. About that [[motifs/time|time]] there used to be a sad and not
 
-unsympathetic jest going about to the effect that [[Queen]] Victoria might
+unsympathetic jest going about to the effect that [[characters/queen|Queen]] Victoria might
 
-very [[Well|well]] live longer than the Prince of Wales. Somewhat in the same
+very [[motifs/well|well]] live longer than the Prince of Wales. Somewhat in the same
 
 way, though the republican impulse was hardly a hundred years old and
 
 the religious impulse nearly two thousand, yet as far as England was
 
-concerned, the old wave and the new seemed to be spent at the same [[Time|time]].
+concerned, the old wave and the new seemed to be spent at the same [[motifs/time|time]].
 
 On the one hand Darwin, especially through the strong journalistic
 
@@ -18620,25 +18620,25 @@ early arrived at, and still remains. It was and is hazily associated
 
 with the negation of religion. But (and this is the important point) it
 
-was also associated with the negation of [[Democracy|democracy]]. The same
+was also associated with the negation of [[concepts/democracy|democracy]]. The same
 
 Mid-Victorian muddle-headedness that made people think that "evolution"
 
 meant that we need not admit the supremacy of God, also made them think
 
-that "[[Survival|survival]]" meant that we must admit the supremacy of men. Huxley
+that "[[concepts/survival|survival]]" meant that we must admit the supremacy of men. Huxley
 
 had no hand in spreading these fallacies; he was a fair fighter; and he
 
 told his own followers, who spoke thus, most emphatically not to play
 
-the [[Fool|fool]]. He said most strongly that his or any theory of evolution left
+the [[archetypes/fool|fool]]. He said most strongly that his or any theory of evolution left
 
 the old philosophical arguments for a creator, right or wrong, exactly
 
 where they were before. He also said most emphatically that any one who
 
-used the argument of [[Nature]] against the ideal of justice or an equal
+used the argument of [[concepts/nature|Nature]] against the ideal of justice or an equal
 
 law, was as senseless as a gardener who should fight on the side of the
 
@@ -18652,7 +18652,7 @@ tongue, which he devoted to the task of keeping Victorian rationalism
 
 rational. He did not succeed. As so often happens when a rather
 
-unhealthy [[Doubt|doubt]] is in the atmosphere, the strongest words of their great
+unhealthy [[concepts/doubt|doubt]] is in the atmosphere, the strongest words of their great
 
 captain could not keep the growing crowds of agnostics back from the
 
@@ -18664,7 +18664,7 @@ to be more and more wildly whispered. Such helpless specimens of
 
 "advanced thought" are, of course, quite as inconsistent with Darwinism
 
-as they are with [[Democracy|democracy]] or with any other intelligent proposition
+as they are with [[concepts/democracy|democracy]] or with any other intelligent proposition
 
 ever offered. But these unintelligent propositions were offered; and the
 
@@ -18672,7 +18672,7 @@ ultimate result was this rather important one: that the harshness of
 
 Utilitarianism began to turn into downright tyranny. That beautiful
 
-[[Faith|faith]] in human [[Nature|nature]] and in [[Freedom|freedom]] which had made delicate the dry air
+[[concepts/faith|faith]] in human [[concepts/nature|nature]] and in [[concepts/freedom|freedom]] which had made delicate the dry air
 
 of John Stuart Mill; that robust, romantic sense of justice which had
 
@@ -18680,7 +18680,7 @@ redeemed even the injustices of Macaulay--all that seemed slowly and
 
 sadly to be drying up. Under the shock of Darwinism all that was good in
 
-the Victorian rationalism shook and dissolved like [[Dust|dust]]. All that was
+the Victorian rationalism shook and dissolved like [[motifs/dust|dust]]. All that was
 
 bad in it abode and clung like clay. The magnificent emancipation
 
@@ -18727,7 +18727,7 @@ religioso. Uomini come Huxley, uomini come Kingsley, uomini come la maggior part
 
 vittoriani, furono parimenti respinti verso l'irreligiosità; cioè verso il
 
-dubitare di cose di cui la normale [[Imagination|immaginazione]] non necessariamente [[Doubt|dubita]]. Ma
+dubitare di cose di cui la normale [[concepts/imagination|immaginazione]] non necessariamente [[concepts/doubt|dubita]]. Ma
 
 di certo il fatto più definitivo e cogente è che questa guerra finì come
 
@@ -18737,7 +18737,7 @@ entrambi vinsero, ed entrambi fuggirono. Hanno lasciato ai loro
 
 discendenti un trattato che è divenuto una sorda tortura. Gli uomini possono credere nell'
 
-[[Immortality|immortalità]], e nessuno di loro sa perché. Gli uomini possono non credere nei
+[[concepts/immortality|immortalità]], e nessuno di loro sa perché. Gli uomini possono non credere nei
 
 miracoli, e nessuno di loro sa perché. La Chiesa cristiana era stata
 
@@ -18751,23 +18751,23 @@ l'altro; e l'Inghilterra vittoriana si trovava in uno stato che alcuni chiamano 
 
 altri chiamano tetano.
 
-Ma la situazione può essere descritta in un altro modo. Venne un [[Time|tempo]], all'incirca
+Ma la situazione può essere descritta in un altro modo. Venne un [[motifs/time|tempo]], all'incirca
 
 intorno al 1880, in cui i due grandi entusiasmi positivi dell'Europa occidentale
 
-si erano per il [[Time|momento]] esauriti a vicenda: il [[Christianity|cristianesimo]] e la
+si erano per il [[motifs/time|momento]] esauriti a vicenda: il [[historical-references/christianity|cristianesimo]] e la
 
-[[French Revolution|Rivoluzione francese]]. Intorno a quel [[Time|tempo]] circolava una battuta triste e non
+[[historical-references/french-revolution|Rivoluzione francese]]. Intorno a quel [[motifs/time|tempo]] circolava una battuta triste e non
 
-priva di simpatia, secondo cui la [[Queen|regina]] Vittoria avrebbe potuto
+priva di simpatia, secondo cui la [[characters/queen|regina]] Vittoria avrebbe potuto
 
-[[Well|benissimo]] vivere più a lungo del Principe di Galles. In modo alquanto simile, nello stesso
+[[motifs/well|benissimo]] vivere più a lungo del Principe di Galles. In modo alquanto simile, nello stesso
 
 modo, sebbene l'impulso repubblicano avesse appena un centinaio d'anni e
 
 quello religioso quasi duemila, tuttavia, per quanto riguardava l'Inghilterra,
 
-la vecchia ondata e la nuova parevano esaurirsi nel medesimo [[Time|tempo]].
+la vecchia ondata e la nuova parevano esaurirsi nel medesimo [[motifs/time|tempo]].
 
 Da un lato Darwin, specialmente attraverso il vigoroso genio giornalistico
 
@@ -18791,25 +18791,25 @@ raggiunta presto, e tuttora permane. Fu ed è confusamente associata
 
 alla negazione della religione. Ma (e questo è il punto importante)
 
-fu anche associata alla negazione della [[Democracy|democrazia]]. La medesima
+fu anche associata alla negazione della [[concepts/democracy|democrazia]]. La medesima
 
 confusione mentale medio-vittoriana che faceva credere alla gente che «evoluzione»
 
 significasse che non dobbiamo ammettere la supremazia di Dio, faceva loro credere anche
 
-che «[[Survival|sopravvivenza]]» significasse che dobbiamo ammettere la supremazia degli uomini. Huxley
+che «[[concepts/survival|sopravvivenza]]» significasse che dobbiamo ammettere la supremazia degli uomini. Huxley
 
 non ebbe parte nel diffondere queste fallacie; era un leale combattente; e
 
 disse ai propri seguaci, che parlavano così, con la massima enfasi di non fare
 
-gli [[Fool|sciocchi]]. Affermò con la massima forza che la sua, o qualsiasi teoria dell'evoluzione, lasciava
+gli [[archetypes/fool|sciocchi]]. Affermò con la massima forza che la sua, o qualsiasi teoria dell'evoluzione, lasciava
 
 i vecchi argomenti filosofici a favore di un creatore, giusti o sbagliati, esattamente
 
 dov'erano prima. Affermò anche con la massima enfasi che chiunque
 
-usasse l'argomento della [[Nature|Natura]] contro l'ideale di giustizia o di una legge uguale,
+usasse l'argomento della [[concepts/nature|Natura]] contro l'ideale di giustizia o di una legge uguale,
 
 era insensato quanto un giardiniere che combattesse dalla parte delle
 
@@ -18823,7 +18823,7 @@ che dedicò al compito di mantenere razionale il razionalismo
 
 vittoriano. Non vi riuscì. Come tanto spesso accade quando un alquanto
 
-malsano [[Doubt|dubbio]] è nell'aria, le parole più forti del loro grande
+malsano [[concepts/doubt|dubbio]] è nell'aria, le parole più forti del loro grande
 
 capitano non poterono trattenere le crescenti folle di agnostici dai
 
@@ -18835,7 +18835,7 @@ a essere sussurrate in modo sempre più sfrenato. Simili impotenti esemplari di
 
 «pensiero avanzato» sono, naturalmente, tanto incoerenti col darwinismo
 
-quanto lo sono con la [[Democracy|democrazia]] o con qualsiasi altra intelligente proposizione
+quanto lo sono con la [[concepts/democracy|democrazia]] o con qualsiasi altra intelligente proposizione
 
 mai offerta. Ma queste proposizioni non intelligenti furono offerte; e il
 
@@ -18843,7 +18843,7 @@ risultato ultimo fu questo, alquanto importante: che l'asprezza
 
 dell'utilitarismo cominciò a mutarsi in vera e propria tirannia. Quella bella
 
-[[Faith|fede]] nella [[Nature|natura]] umana e nella [[Freedom|libertà]] che aveva reso delicata l'aria arida
+[[concepts/faith|fede]] nella [[concepts/nature|natura]] umana e nella [[concepts/freedom|libertà]] che aveva reso delicata l'aria arida
 
 di John Stuart Mill; quel robusto, romantico senso di giustizia che aveva
 
@@ -18851,7 +18851,7 @@ riscattato perfino le ingiustizie di Macaulay: tutto ciò pareva lentamente e
 
 tristemente inaridirsi. Sotto l'urto del darwinismo tutto ciò che vi era di buono nel
 
-razionalismo vittoriano vacillò e si dissolse come [[Dust|polvere]]. Tutto ciò che vi era di
+razionalismo vittoriano vacillò e si dissolse come [[motifs/dust|polvere]]. Tutto ciò che vi era di
 
 cattivo rimase e si attaccò come argilla. La magnifica emancipazione
 
@@ -18878,7 +18878,7 @@ experiment of reading solidly through a vast number of their records and
 
 reviews and discussions; and still I do not know. The only third thing I
 
-can think of to balance religion and politics is art; and no one [[Well|well]]
+can think of to balance religion and politics is art; and no one [[motifs/well|well]]
 
 acquainted with the debates at St. Stephen's will imagine that the art
 
@@ -18896,11 +18896,11 @@ they have to do with nothing; they have reached that low and last level
 
 where a man knows as little about his own claim, as he does about his
 
-enemies'. In any case there can be no [[Doubt|doubt]] about the effect of this
+enemies'. In any case there can be no [[concepts/doubt|doubt]] about the effect of this
 
 particular situation on the problem of ethics and science. The duty of
 
-dragging [[Truth|truth]] out by the tail or the hind leg or any other corner one
+dragging [[concepts/truth|truth]] out by the tail or the hind leg or any other corner one
 
 can possibly get hold of, a perfectly sound duty in itself, had somehow
 
@@ -18908,7 +18908,7 @@ come into collision with the older and larger duty of knowing something
 
 about the organism and ends of a creature; or, in the everyday phrase,
 
-being able to make head or tail of it. This [[Paradox|paradox]] pursued and
+being able to make head or tail of it. This [[concepts/paradox|paradox]] pursued and
 
 tormented the Victorians. They could not or would not see that humanity
 
@@ -18928,7 +18928,7 @@ inquiry, of which we have seen the culmination in our own day. There had
 
 begun that easy automatic habit, of science as an oiled and
 
-smooth-running [[Machine|machine]], that habit of treating things as obviously
+smooth-running [[motifs/machine|machine]], that habit of treating things as obviously
 
 unquestionable, when, indeed, they are obviously questionable. This
 
@@ -18936,9 +18936,9 @@ began with vaccination in the Early Victorian Age; it extended to the
 
 early licence of vivisection in its later age; it has found a sort of
 
-fitting foolscap, or [[Crown|crown]] of crime and folly, in the thing called
+fitting foolscap, or [[motifs/crown|crown]] of crime and folly, in the thing called
 
-[[Eugenics]]. In all three cases the point was not so much that the pioneers
+[[concepts/eugenics|Eugenics]]. In all three cases the point was not so much that the pioneers
 
 had not proved their case; it was rather that, by an unexpressed rule of
 
@@ -18952,15 +18952,15 @@ was being weakened by heavy blows from without.
 
 There is a week that is the turn of the year; there was a year that was
 
-the turn of the century. About 1870 the force of the [[French Revolution]]
+the turn of the century. About 1870 the force of the [[historical-references/french-revolution|French Revolution]]
 
-faltered and fell: the year that was everywhere the [[Death|death]] of Liberal
+faltered and fell: the year that was everywhere the [[motifs/death|death]] of Liberal
 
-ideas: the year when [[Paris]] fell: the year when Dickens died. While the
+ideas: the year when [[settings/paris|Paris]] fell: the year when Dickens died. While the
 
-new foes of [[Freedom|freedom]], the sceptics and scientists, were damaging
+new foes of [[concepts/freedom|freedom]], the sceptics and scientists, were damaging
 
-[[Democracy|democracy]] in ideas, the old foes of [[Freedom|freedom]], the emperors and the kings,
+[[concepts/democracy|democracy]] in ideas, the old foes of [[concepts/freedom|freedom]], the emperors and the kings,
 
 were damaging her more heavily in arms. For a moment it almost seemed
 
@@ -18972,7 +18972,7 @@ Alliance was now not arguably, but almost avowedly, an Unholy Alliance.
 
 It was an alliance between those who still thought they could deny the
 
-dignity of man and those who had recently begun to have a bright [[Hope|hope]] of
+dignity of man and those who had recently begun to have a bright [[concepts/hope|hope]] of
 
 denying even the dignity of God. Eighteenth-century Prussia was
 
@@ -18982,13 +18982,13 @@ utterly atheist. Thus the old spirit of liberty felt itself shut up at
 
 both ends, that which was called progressive and that which was called
 
-reactionary: barricaded by Bismarck with [[Blood|blood]] and iron and by Darwin by
+reactionary: barricaded by Bismarck with [[motifs/blood|blood]] and iron and by Darwin by
 
-[[Blood|blood]] and bones. The enormous depression which infects many excellent
+[[motifs/blood|blood]] and bones. The enormous depression which infects many excellent
 
-people born about this [[Time|time]], probably has this cause.
+people born about this [[motifs/time|time]], probably has this cause.
 
-It was a great calamity that the [[Freedom|freedom]] of Wilkes and the [[Faith|faith]] of Dr.
+It was a great calamity that the [[concepts/freedom|freedom]] of Wilkes and the [[concepts/faith|faith]] of Dr.
 
 Johnson fought each other. But it was an even worse calamity that they
 
@@ -18996,11 +18996,11 @@ practically killed each other. They killed each other almost
 
 simultaneously, like Herminius and Mamilius. Liberalism (in Newman's
 
-sense) really did strike [[Christianity]] through headpiece and through
+sense) really did strike [[historical-references/christianity|Christianity]] through headpiece and through
 
 head; that is, it did daze and stun the ignorant and ill-prepared
 
-intellect of the English Christian. And [[Christianity]] did smite
+intellect of the English Christian. And [[historical-references/christianity|Christianity]] did smite
 
 Liberalism through breastplate and through breast; that is, it did
 
@@ -19020,11 +19020,11 @@ This coincident collapse of both religious and political idealism
 
 produced a curious cold air of emptiness and real subconscious
 
-agnosticism such as is extremely unusual in the [[history]] of mankind. It
+agnosticism such as is extremely unusual in the [[concepts/history|history]] of mankind. It
 
 is what Mr. Wells, with his usual verbal delicacy and accuracy, spoke of
 
-as that ironical [[Silence|silence]] that follows a great controversy. It is what
+as that ironical [[motifs/silence|silence]] that follows a great controversy. It is what
 
 people less intelligent than Mr. Wells meant by calling themselves _fin
 
@@ -19049,7 +19049,7 @@ esperimento di leggere con costanza attraverso un vasto numero dei loro verbali 
 
 riviste e discussioni; e tuttora non lo so. L'unica terza cosa che
 
-riesco a immaginare per bilanciare religione e politica è l'arte; e nessuno [[Well|bene]]
+riesco a immaginare per bilanciare religione e politica è l'arte; e nessuno [[motifs/well|bene]]
 
 al corrente dei dibattiti a St. Stephen immaginerà che l'arte
 
@@ -19067,11 +19067,11 @@ non hanno a che fare con nulla; hanno raggiunto quell'infimo e ultimo livello
 
 in cui un uomo sa altrettanto poco della propria pretesa quanto di quella dei suoi
 
-nemici. In ogni caso non vi può essere alcun [[Doubt|dubbio]] sull'effetto di questa
+nemici. In ogni caso non vi può essere alcun [[concepts/doubt|dubbio]] sull'effetto di questa
 
 particolare situazione sul problema dell'etica e della scienza. Il dovere di
 
-trascinar fuori la [[Truth|verità]] per la coda o per la zampa posteriore o per qualunque altro lembo si
+trascinar fuori la [[concepts/truth|verità]] per la coda o per la zampa posteriore o per qualunque altro lembo si
 
 riesca ad afferrare, dovere di per sé perfettamente sano, era in qualche modo
 
@@ -19079,7 +19079,7 @@ entrato in collisione col più antico e più ampio dovere di sapere qualcosa
 
 dell'organismo e dei fini di una creatura; o, nella frase d'ogni giorno,
 
-di riuscirne a cavare capo o coda. Questo [[Paradox|paradosso]] perseguitò e
+di riuscirne a cavare capo o coda. Questo [[concepts/paradox|paradosso]] perseguitò e
 
 tormentò i vittoriani. Non potevano o non volevano vedere che l'umanità
 
@@ -19099,7 +19099,7 @@ di cui abbiamo visto il culmine ai giorni nostri. Aveva avuto
 
 inizio quell'abitudine facile e automatica, della scienza come una
 
-[[Machine|macchina]] oliata e scorrevole, quell'abitudine a trattare le cose come ovviamente
+[[motifs/machine|macchina]] oliata e scorrevole, quell'abitudine a trattare le cose come ovviamente
 
 indiscutibili, quando, in verità, sono ovviamente discutibili. Ciò
 
@@ -19107,9 +19107,9 @@ cominciò con la vaccinazione nella prima età vittoriana; si estese alla
 
 precoce licenza della vivisezione nella sua età più tarda; ha trovato una sorta di
 
-appropriato berretto d'asino, o [[Crown|corona]] di delitto e follia, nella cosa chiamata
+appropriato berretto d'asino, o [[motifs/crown|corona]] di delitto e follia, nella cosa chiamata
 
-[[Eugenics|Eugenetica]]. In tutti e tre i casi il punto non era tanto che i pionieri
+[[concepts/eugenics|Eugenetica]]. In tutti e tre i casi il punto non era tanto che i pionieri
 
 non avessero provato la loro tesi; era piuttosto che, per una regola inespressa di
 
@@ -19123,15 +19123,15 @@ veniva indebolito da pesanti colpi dall'esterno.
 
 Vi è una settimana che è lo snodo dell'anno; vi fu un anno che fu
 
-lo snodo del secolo. Intorno al 1870 la forza della [[French Revolution|Rivoluzione francese]]
+lo snodo del secolo. Intorno al 1870 la forza della [[historical-references/french-revolution|Rivoluzione francese]]
 
-vacillò e cadde: l'anno che fu ovunque la [[Death|morte]] delle idee liberali:
+vacillò e cadde: l'anno che fu ovunque la [[motifs/death|morte]] delle idee liberali:
 
-l'anno in cui cadde [[Paris|Parigi]]: l'anno in cui morì Dickens. Mentre i
+l'anno in cui cadde [[settings/paris|Parigi]]: l'anno in cui morì Dickens. Mentre i
 
-nuovi nemici della [[Freedom|libertà]], gli scettici e gli scienziati, danneggiavano
+nuovi nemici della [[concepts/freedom|libertà]], gli scettici e gli scienziati, danneggiavano
 
-la [[Democracy|democrazia]] nelle idee, i vecchi nemici della [[Freedom|libertà]], gli imperatori e i re,
+la [[concepts/democracy|democrazia]] nelle idee, i vecchi nemici della [[concepts/freedom|libertà]], gli imperatori e i re,
 
 la danneggiavano più pesantemente nelle armi. Per un momento parve quasi
 
@@ -19143,7 +19143,7 @@ Alleanza era ora non tanto discutibilmente, quanto quasi dichiaratamente, un'Emp
 
 Era un'alleanza tra coloro che ancora credevano di poter negare la
 
-dignità dell'uomo e coloro che di recente avevano cominciato a nutrire una luminosa [[Hope|speranza]] di
+dignità dell'uomo e coloro che di recente avevano cominciato a nutrire una luminosa [[concepts/hope|speranza]] di
 
 negare perfino la dignità di Dio. La Prussia del Settecento era
 
@@ -19153,13 +19153,13 @@ interamente atea. Così il vecchio spirito di libertà si sentì rinchiuso a
 
 entrambe le estremità, quella che si chiamava progressista e quella che si chiamava
 
-reazionaria: barricato da Bismarck col [[Blood|sangue]] e col ferro, e da Darwin col
+reazionaria: barricato da Bismarck col [[motifs/blood|sangue]] e col ferro, e da Darwin col
 
-[[Blood|sangue]] e con le ossa. L'enorme depressione che affligge molte eccellenti
+[[motifs/blood|sangue]] e con le ossa. L'enorme depressione che affligge molte eccellenti
 
-persone nate intorno a questo [[Time|tempo]] ha probabilmente questa causa.
+persone nate intorno a questo [[motifs/time|tempo]] ha probabilmente questa causa.
 
-Fu una grande calamità che la [[Freedom|libertà]] di Wilkes e la [[Faith|fede]] del dottor
+Fu una grande calamità che la [[concepts/freedom|libertà]] di Wilkes e la [[concepts/faith|fede]] del dottor
 
 Johnson si combattessero a vicenda. Ma fu una calamità ancor peggiore che essi
 
@@ -19167,11 +19167,11 @@ si uccidessero praticamente a vicenda. Si uccisero l'un l'altro quasi
 
 simultaneamente, come Erminio e Mamilio. Il liberalismo (nel senso di Newman)
 
-colpì davvero il [[Christianity|cristianesimo]] attraverso l'elmo e attraverso
+colpì davvero il [[historical-references/christianity|cristianesimo]] attraverso l'elmo e attraverso
 
 il capo; cioè stordì e tramortì l'ignorante e impreparato
 
-intelletto del cristiano inglese. E il [[Christianity|cristianesimo]] percosse
+intelletto del cristiano inglese. E il [[historical-references/christianity|cristianesimo]] percosse
 
 il liberalismo attraverso la corazza e attraverso il petto; cioè
 
@@ -19191,11 +19191,11 @@ Questo coincidente crollo dell'idealismo tanto religioso quanto politico
 
 produsse una curiosa fredda aria di vuoto e di reale subconscio
 
-agnosticismo, quale è estremamente insolito nella [[history|storia]] dell'umanità. È
+agnosticismo, quale è estremamente insolito nella [[concepts/history|storia]] dell'umanità. È
 
 ciò che il signor Wells, con la sua consueta delicatezza e precisione verbale, chiamò
 
-quel [[Silence|silenzio]] ironico che segue una grande controversia. È ciò che
+quel [[motifs/silence|silenzio]] ironico che segue una grande controversia. È ciò che
 
 persone meno intelligenti del signor Wells intendevano chiamandosi _fin
 
@@ -19208,7 +19208,7 @@ ragione di essere tristi verso la fine di cento anni che verso la
 <span class="atom-split" data-atom="chapter_04--part_03" data-title="Victorian Age — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/autumn,motif/cave,motif/crown,motif/soul,motif/time,motif/well,motif/window,concept/disillusionment,concept/faith,concept/slavery,concept/truth,form/tragedy,setting/castle,character/apollo,character/claudius,character/horatio,character/polonius"></span>
 
 
-end of five hundred fortnights. There was no arithmetical [[Autumn|autumn]], but
+end of five hundred fortnights. There was no arithmetical [[motifs/autumn|autumn]], but
 
 there was a spiritual one. And it came from the fact suggested in the
 
@@ -19220,7 +19220,7 @@ eighteenth century than it was in the nineteenth century. But the
 
 republican enthusiasm was also much more alive. If their scepticism was
 
-cold, and their [[Faith|faith]] even colder, their practical politics were wildly
+cold, and their [[concepts/faith|faith]] even colder, their practical politics were wildly
 
 idealistic; and if they doubted the kingdom of heaven, they were
 
@@ -19238,21 +19238,21 @@ The modern world, in fact, had fallen between two stools. It had fallen
 
 between that austere old three-legged stool which was the tripod of the
 
-cold priestess of [[Apollo]]; and that other mystical and mediæval stool
+cold priestess of [[characters/apollo|Apollo]]; and that other mystical and mediæval stool
 
-that may [[Well|well]] be called the Stool of Repentance. It kept neither of the
+that may [[motifs/well|well]] be called the Stool of Repentance. It kept neither of the
 
 two values as intensely valuable. It could not believe in the bonds that
 
 bound men; but, then, neither could it believe in the men they bound. It
 
-was always restrained in its hatred of [[Slavery|slavery]] by a half remembrance of
+was always restrained in its hatred of [[concepts/slavery|slavery]] by a half remembrance of
 
-its yet greater hatred of liberty. They were almost [[Alone|alone]], I think, in
+its yet greater hatred of liberty. They were almost alone, I think, in
 
 thus carrying to its extreme the negative attitude already noted in Miss
 
-Arabella Allen. Anselm would have despised a civic [[Crown|crown]], but he would
+Arabella Allen. Anselm would have despised a civic [[motifs/crown|crown]], but he would
 
 not have despised a relic. Voltaire would have despised a relic; but he
 
@@ -19260,9 +19260,9 @@ would not have despised a vote. We hardly find them both despised till
 
 we come to the age of Oscar Wilde.
 
-These years that followed on that [[Double|double]] [[Disillusionment|disillusionment]] were like one
+These years that followed on that [[topoi/double|double]] [[concepts/disillusionment|disillusionment]] were like one
 
-long afternoon in a rich [[house]] on a rainy day. It was not merely that
+long afternoon in a rich house on a rainy day. It was not merely that
 
 everybody believed that nothing would happen; it was also that everybody
 
@@ -19272,11 +19272,11 @@ It was in this stale atmosphere that a few flickers of the old
 
 Swinburnian flame survived; and were called Art. The great men of the
 
-older artistic movement did not live in this [[Time|time]]; rather they lived
+older artistic movement did not live in this [[motifs/time|time]]; rather they lived
 
-through it. But this [[Time|time]] did produce an interregnum of art that had a
+through it. But this [[motifs/time|time]] did produce an interregnum of art that had a
 
-[[Truth|truth]] of its own; though that [[Truth|truth]] was near to being only a consistent
+[[concepts/truth|truth]] of its own; though that [[concepts/truth|truth]] was near to being only a consistent
 
 lie.
 
@@ -19298,7 +19298,7 @@ Wilde is also connected with real intellectual influences, largely
 
 negative, indeed, but subtle and influential. The mark in most of the
 
-arts of this [[Time|time]] was a certain quality which those who like it would
+arts of this [[motifs/time|time]] was a certain quality which those who like it would
 
 call "uniqueness of aspect," and those who do not like it "not quite
 
@@ -19308,7 +19308,7 @@ its mark was that the _smallest_ change of standpoint made it unmeaning
 
 and unthinkable--a foolish joke. A beggar painted by Rembrandt is as
 
-solid as a statue, however roughly he is sketched in; the [[Soul|soul]] can walk
+solid as a statue, however roughly he is sketched in; the [[motifs/soul|soul]] can walk
 
 all round him like a public monument. We see he would have other
 
@@ -19322,7 +19322,7 @@ masterpiece it is a man. But a nocturne by Whistler of mist on the
 
 Thames is either a masterpiece or it is nothing; it is either a nocturne
 
-or a [[nightmare]] of childish nonsense. Made in a certain mood, viewed
+or a nightmare of childish nonsense. Made in a certain mood, viewed
 
 through a certain temperament, conceived under certain conventions, it
 
@@ -19330,7 +19330,7 @@ may be, it often is, an unreplaceable poem, a vision that may never be
 
 seen again. But the moment it ceases to be a splendid picture it ceases
 
-to be a picture at all. Or, again, if _Hamlet_ is not a great [[Tragedy|tragedy]] it
+to be a picture at all. Or, again, if _Hamlet_ is not a great [[forms/tragedy|tragedy]] it
 
 is an uncommonly good tale. The people and the posture of affairs would
 
@@ -19338,11 +19338,11 @@ still be there even if one thought that Shakespeare's moral attitude was
 
 wrong. Just as one could imagine all the other sides of Rembrandt's
 
-beggar, so, with the mind's eye ([[Horatio]]), one can see all four sides of
+beggar, so, with the mind's eye ([[characters/horatio|Horatio]]), one can see all four sides of
 
-the [[Castle|castle]] of Elsinore. One might tell the tale from the point of view
+the [[settings/castle|castle]] of Elsinore. One might tell the tale from the point of view
 
-of Laërtes or [[Claudius]] or [[Polonius]] or the gravedigger; and it would
+of Laërtes or [[characters/claudius|Claudius]] or [[characters/polonius|Polonius]] or the gravedigger; and it would
 
 still be a good tale and the same tale. But if we take a play like
 
@@ -19354,11 +19354,11 @@ we cannot grasp anything whatever. Except from one extreme poetic point
 
 of view, the thing is not a play; it is not a bad play, it is a mass of
 
-clotted nonsense. One whole act describes the [[lovers]] going to look for a
+clotted nonsense. One whole act describes the lovers going to look for a
 
-ring in a distant [[Cave|cave]] when they both know they have dropped it down a
+ring in a distant [[motifs/cave|cave]] when they both know they have dropped it down a
 
-[[Well|well]]. Seen from some secret [[Window|window]] on some special side of the [[Soul|soul]]'s
+[[motifs/well|well]]. Seen from some secret [[motifs/window|window]] on some special side of the [[motifs/soul|soul]]'s
 
 turret, this might convey a sense of faerie futility in our human life.
 
@@ -19366,18 +19366,18 @@ But it is quite obvious that unless it called forth that one kind of
 
 sympathy, it would call forth nothing but laughter and rotten eggs. In
 
-the same play the husband chases his wife with a drawn [[Sword|sword]], the wife
+the same play the husband chases his wife with a drawn sword, the wife
 
 remarking at intervals "I am not gay." Now there may really be an idea
 
 in this; the idea of human misfortune coming most cruelly upon the
 
-optimism of [[innocence]]; that the lonely human heart says, like a [[Child|child]] at
+optimism of innocence; that the lonely human heart says, like a [[archetypes/child|child]] at
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-fine di cinquecento quindicine. Non vi fu alcun [[Autumn|autunno]] aritmetico, ma
+fine di cinquecento quindicine. Non vi fu alcun [[motifs/autumn|autunno]] aritmetico, ma
 
 ve ne fu uno spirituale. Ed esso nacque dal fatto suggerito nei
 
@@ -19389,7 +19389,7 @@ Settecento di quanto lo fosse nell'Ottocento. Ma l'
 
 entusiasmo repubblicano era anche assai più vivo. Se il loro scetticismo era
 
-freddo, e la loro [[Faith|fede]] ancor più fredda, la loro politica pratica era sfrenatamente
+freddo, e la loro [[concepts/faith|fede]] ancor più fredda, la loro politica pratica era sfrenatamente
 
 idealistica; e se dubitavano del regno dei cieli, erano
 
@@ -19407,21 +19407,21 @@ Il mondo moderno, in effetti, era caduto fra due sgabelli. Era caduto
 
 fra quell'austero vecchio sgabello a tre gambe che era il tripode della
 
-fredda sacerdotessa di [[Apollo]]; e quell'altro sgabello mistico e medievale
+fredda sacerdotessa di [[characters/apollo|Apollo]]; e quell'altro sgabello mistico e medievale
 
-che [[Well|ben]] può essere chiamato lo Sgabello del Pentimento. Non tenne nessuno dei
+che [[motifs/well|ben]] può essere chiamato lo Sgabello del Pentimento. Non tenne nessuno dei
 
 due valori come intensamente prezioso. Non poteva credere nei vincoli che
 
 legavano gli uomini; ma, d'altra parte, non poteva credere negli uomini che essi legavano. Era
 
-sempre trattenuto nel suo odio della [[Slavery|schiavitù]] da un mezzo ricordo del
+sempre trattenuto nel suo odio della [[concepts/slavery|schiavitù]] da un mezzo ricordo del
 
-suo odio ancor più grande della libertà. Furono quasi [[Alone|soli]], credo, nel
+suo odio ancor più grande della libertà. Furono quasi soli, credo, nel
 
 portare così all'estremo l'atteggiamento negativo già notato nella signorina
 
-Arabella Allen. Anselmo avrebbe disprezzato una [[Crown|corona]] civica, ma
+Arabella Allen. Anselmo avrebbe disprezzato una [[motifs/crown|corona]] civica, ma
 
 non avrebbe disprezzato una reliquia. Voltaire avrebbe disprezzato una reliquia; ma
 
@@ -19429,9 +19429,9 @@ non avrebbe disprezzato un voto. Difficilmente li troviamo entrambi disprezzati 
 
 non giungiamo all'età di Oscar Wilde.
 
-Quegli anni che seguirono a quella [[Double|duplice]] [[Disillusionment|disillusione]] furono come un
+Quegli anni che seguirono a quella [[topoi/double|duplice]] [[concepts/disillusionment|disillusione]] furono come un
 
-lungo pomeriggio in una ricca [[house|casa]] in un giorno di pioggia. Non era soltanto che
+lungo pomeriggio in una ricca casa in un giorno di pioggia. Non era soltanto che
 
 tutti credevano che nulla sarebbe accaduto; era anche che tutti
 
@@ -19441,13 +19441,13 @@ Fu in questa atmosfera stantia che alcuni bagliori dell'antica
 
 fiamma swinburniana sopravvissero; e furono chiamati Arte. I grandi uomini del
 
-più antico movimento artistico non vissero in questo [[Time|tempo]]; piuttosto lo
+più antico movimento artistico non vissero in questo [[motifs/time|tempo]]; piuttosto lo
 
-attraversarono. Ma questo [[Time|tempo]] produsse davvero un interregno d'arte che ebbe una
+attraversarono. Ma questo [[motifs/time|tempo]] produsse davvero un interregno d'arte che ebbe una
 
-[[Truth|verità]] propria; sebbene quella [[Truth|verità]] fosse vicina a essere soltanto una coerente
+[[concepts/truth|verità]] propria; sebbene quella [[concepts/truth|verità]] fosse vicina a essere soltanto una coerente
 
-Mente.
+menzogna.
 
 Il movimento di coloro che furono detti Esteti (come satireggiati in _Patience_) e
 
@@ -19467,7 +19467,7 @@ Wilde è connessa anche a reali influenze intellettuali, in gran parte
 
 negative, invero, ma sottili e influenti. Il tratto della maggior parte delle
 
-arti di questo [[Time|tempo]] era una certa qualità che coloro cui piace
+arti di questo [[motifs/time|tempo]] era una certa qualità che coloro cui piace
 
 chiamerebbero «unicità d'aspetto», e coloro cui non piace «non del tutto
 
@@ -19477,7 +19477,7 @@ il suo tratto era che il più _piccolo_ mutamento di punto di vista la rendeva p
 
 e impensabile: uno sciocco scherzo. Un mendicante dipinto da Rembrandt è tanto
 
-solido quanto una statua, per quanto rozzamente sia abbozzato; l'[[Soul|anima]] può girare
+solido quanto una statua, per quanto rozzamente sia abbozzato; l'[[motifs/soul|anima]] può girare
 
 tutt'intorno a lui come attorno a un monumento pubblico. Vediamo che avrebbe altri
 
@@ -19491,7 +19491,7 @@ capolavoro, è un uomo. Ma un notturno di Whistler, con la nebbia sul
 
 Tamigi, o è un capolavoro o è nulla; o è un notturno
 
-o un [[nightmare|incubo]] di puerile insensatezza. Realizzato in un certo stato d'animo, visto
+o un incubo di puerile insensatezza. Realizzato in un certo stato d'animo, visto
 
 attraverso un certo temperamento, concepito sotto certe convenzioni, esso
 
@@ -19499,7 +19499,7 @@ può essere, e spesso è, un poema insostituibile, una visione che forse non si
 
 vedrà mai più. Ma nel momento in cui cessa di essere uno splendido quadro, cessa
 
-di essere del tutto un quadro. O, ancora, se l'_Amleto_ non è una grande [[Tragedy|tragedia]],
+di essere del tutto un quadro. O, ancora, se l'_Amleto_ non è una grande [[forms/tragedy|tragedia]],
 
 è un racconto insolitamente buono. I personaggi e la disposizione delle cose
 
@@ -19507,11 +19507,11 @@ sarebbero ancora lì anche se si pensasse che l'atteggiamento morale di Shakespe
 
 errato. Proprio come si potrebbero immaginare tutti gli altri lati del
 
-mendicante di Rembrandt, così, con l'occhio della mente ([[Horatio|Orazio]]), si possono vedere tutti e quattro i lati
+mendicante di Rembrandt, così, con l'occhio della mente ([[characters/horatio|Orazio]]), si possono vedere tutti e quattro i lati
 
-del [[Castle|castello]] di Elsinore. Si potrebbe narrare la storia dal punto di vista
+del [[settings/castle|castello]] di Elsinore. Si potrebbe narrare la storia dal punto di vista
 
-di Laerte o di [[Claudius|Claudio]] o di [[Polonius|Polonio]] o del becchino; e sarebbe
+di Laerte o di [[characters/claudius|Claudio]] o di [[characters/polonius|Polonio]] o del becchino; e sarebbe
 
 pur sempre un buon racconto e il medesimo racconto. Ma se prendiamo un dramma come
 
@@ -19523,11 +19523,11 @@ non possiamo afferrare proprio nulla. Se non da un estremo punto poetico
 
 di vista, la cosa non è un dramma; non è un dramma cattivo, è una massa di
 
-grumosa insensatezza. Un intero atto descrive gli [[lovers|amanti]] che vanno a cercare un
+grumosa insensatezza. Un intero atto descrive gli amanti che vanno a cercare un
 
-anello in una lontana [[Cave|grotta]] pur sapendo entrambi di averlo lasciato cadere in un
+anello in una lontana [[motifs/cave|grotta]] pur sapendo entrambi di averlo lasciato cadere in un
 
-[[Well|pozzo]]. Vista da qualche segreta [[Window|finestra]], da qualche lato speciale della [[Soul|anima]] e della sua
+[[motifs/well|pozzo]]. Vista da qualche segreta [[motifs/window|finestra]], da qualche lato speciale della [[motifs/soul|anima]] e della sua
 
 torretta, ciò potrebbe trasmettere un senso di fatata futilità nella nostra vita umana.
 
@@ -19535,13 +19535,13 @@ Ma è del tutto ovvio che, a meno di suscitare quell'unica specie di
 
 simpatia, non susciterebbe altro che risa e uova marce. Nel
 
-medesimo dramma il marito insegue la moglie con una [[Sword|spada]] sguainata, mentre la moglie
+medesimo dramma il marito insegue la moglie con una spada sguainata, mentre la moglie
 
 osserva a intervalli «Non sono allegra». Ora, può davvero esservi un'idea
 
 in ciò; l'idea della sventura umana che si abbatte più crudelmente sull'
 
-ottimismo dell'[[innocence|innocenza]]; che il solitario cuore umano dice, come un [[Child|bambino]] a
+ottimismo dell'innocenza; che il solitario cuore umano dice, come un [[archetypes/child|bambino]] a
 
 
 
@@ -19562,11 +19562,11 @@ narrow.
 
 This is the spirit of Wilde's work and of most of the literary work done
 
-in that [[Time|time]] and fashion. It is, as Mr. [[arthur|Arthur]] Symons said, an attitude;
+in that [[motifs/time|time]] and fashion. It is, as Mr. [[characters/arthur|Arthur]] Symons said, an attitude;
 
 but it is an attitude in the flat, not in the round; not a statue, but
 
-the cardboard [[King|king]] in a toy-theatre, which can only be looked at from
+the cardboard [[archetypes/king|king]] in a toy-theatre, which can only be looked at from
 
 the front. In Wilde's own poetry we have particularly a perpetually
 
@@ -19584,7 +19584,7 @@ right with this excessive strain on the reader's sympathy (and gravity)
 
 which was the mark of all these men with a "point of view." There is a
 
-very sound [[Sonnet|sonnet]] of his in which he begins by lamenting mere anarchy,
+very sound [[forms/sonnet|sonnet]] of his in which he begins by lamenting mere anarchy,
 
 as hostile to the art and civilisation that were his only gods; but ends
 
@@ -19600,9 +19600,9 @@ Now that is really very true; that is the way a man of wide reading and
 
 worldly experience, but not ungenerous impulses, does feel about the
 
-mere fanatic, who is at once a nuisance to humanity and an [[Honour|honour]] to
+mere fanatic, who is at once a nuisance to humanity and an [[concepts/honour|honour]] to
 
-human [[Nature|nature]]. Yet who can read that last line without feeling that Wilde
+human [[concepts/nature|nature]]. Yet who can read that last line without feeling that Wilde
 
 is poised on the edge of a precipice of bathos; that the phrase comes
 
@@ -19616,11 +19616,11 @@ hostile, unconquerable mirth. Somehow the image of Wilde lolling like an
 
 elegant leviathan on a sofa, and saying between the whiffs of a scented
 
-cigarette that [[Martyrdom|martyrdom]] is [[Martyrdom|martyrdom]] in some respects, has seized on
+cigarette that [[concepts/martyrdom|martyrdom]] is [[concepts/martyrdom|martyrdom]] in some respects, has seized on
 
 and mastered all more delicate considerations in the mind. It is unwise
 
-in a poet to goad the sleeping [[Lion|lion]] of laughter.
+in a poet to goad the sleeping [[motifs/lion|lion]] of laughter.
 
 In less dexterous hands the decadent idea, what there was of it, went
 
@@ -19634,7 +19634,7 @@ subtle and tactful; in the feeling for different art-forms, in the
 
 welding of subject and style, in the appropriateness of the epithet and
 
-the [[unity]] of the mood. Wilde himself wrote some things that were not
+the unity of the mood. Wilde himself wrote some things that were not
 
 immorality, but merely bad taste; not the bad taste of the conservative
 
@@ -19642,7 +19642,7 @@ suburbs, which merely means anything violent or shocking, but real bad
 
 taste; as in a stern subject treated in a florid style; an over-dressed
 
-woman at a supper of old friends; or a bad joke that nobody had [[Time|time]] to
+woman at a supper of old friends; or a bad joke that nobody had [[motifs/time|time]] to
 
 laugh at. This mixture of sensibility and coarseness in the man was very
 
@@ -19650,7 +19650,7 @@ curious; and I for one cannot endure (for example) his sensual way of
 
 speaking of dead substances, satin or marble or velvet, as if he were
 
-stroking a lot of [[dogs]] and cats. But there was a sort of power--or at
+stroking a lot of dogs and cats. But there was a sort of power--or at
 
 least weight--in his coarseness. His lapses were those proper to the one
 
@@ -19658,7 +19658,7 @@ good thing he really was, an Irish swashbuckler--a fighter. Some of the
 
 Roman Emperors might have had the same luxuriousness and yet the same
 
-[[Courage|courage]]. But the later decadents were far worse, especially the decadent
+[[concepts/courage|courage]]. But the later decadents were far worse, especially the decadent
 
 critics, the decadent illustrators--there were even decadent publishers.
 
@@ -19666,13 +19666,13 @@ And they utterly lost the light and reason of their existence: they were
 
 masters of the clumsy and the incongruous. I will take only one example.
 
-Aubrey Beardsley may be admired as an [[artist]] or no; he does not enter
+Aubrey Beardsley may be admired as an [[archetypes/artist|artist]] or no; he does not enter
 
 into the scope of this book. But it is true that there is a certain
 
 brief mood, a certain narrow aspect of life, which he renders to the
 
-[[Imagination|imagination]] rightly. It is mostly felt under white, deathly lights in
+[[concepts/imagination|imagination]] rightly. It is mostly felt under white, deathly lights in
 
 Piccadilly, with the black hollow of heaven behind shiny hats or painted
 
@@ -19682,11 +19682,11 @@ thing Beardsley could express (and the only thing he could express), it
 
 is the solemn and awful fact that he was set down to illustrate Malory's
 
-_Morte d'Arthur_. There is no need to say more; taste, in the [[artist]]'s
+_Morte d'Arthur_. There is no need to say more; taste, in the [[archetypes/artist|artist]]'s
 
-sense, must have been utterly dead. They might as [[Well|well]] have employed
+sense, must have been utterly dead. They might as [[motifs/well|well]] have employed
 
-Burne-[[Jones]] to illustrate _Martin Chuzzlewit_. It would not have been
+Burne-[[characters/jones|Jones]] to illustrate _Martin Chuzzlewit_. It would not have been
 
 more ludicrous than putting this portrayer of evil puppets, with their
 
@@ -19700,7 +19700,7 @@ To return to the chief of the decadents, I will not speak of the end of
 
 the individual story: there was horror and there was expiation. And, as
 
-my [[Conscience|conscience]] goes at least, no man should say one word that could
+my [[concepts/conscience|conscience]] goes at least, no man should say one word that could
 
 weaken the horror--or the pardon. But there is one literary consequence
 
@@ -19737,11 +19737,11 @@ ristretti.
 
 Questo è lo spirito dell'opera di Wilde e della maggior parte del lavoro letterario compiuto
 
-in quel [[Time|tempo]] e in quella foggia. È, come disse il signor [[arthur|Arthur]] Symons, un atteggiamento;
+in quel [[motifs/time|tempo]] e in quella foggia. È, come disse il signor [[characters/arthur|Arthur]] Symons, un atteggiamento;
 
 ma è un atteggiamento in piano, non in tondo; non una statua, ma
 
-il [[King|re]] di cartone in un teatrino di giocattoli, che può essere guardato soltanto di
+il [[archetypes/king|re]] di cartone in un teatrino di giocattoli, che può essere guardato soltanto di
 
 fronte. Nella poesia stessa di Wilde abbiamo particolarmente una perpetuamente
 
@@ -19759,7 +19759,7 @@ nel giusto con questa eccessiva tensione sulla simpatia (e sulla gravità) del l
 
 che era il tratto di tutti questi uomini con un «punto di vista». Vi è un
 
-suo assai valido [[Sonnet|sonetto]] in cui egli comincia deplorando la mera anarchia,
+suo assai valido [[forms/sonnet|sonetto]] in cui egli comincia deplorando la mera anarchia,
 
 come ostile all'arte e alla civiltà che erano i suoi soli dèi; ma finisce
 
@@ -19775,9 +19775,9 @@ Ora questo è davvero verissimo; è così che un uomo di vaste letture ed
 
 esperienza mondana, ma non privo di generosi impulsi, sente il
 
-mero fanatico, che è al tempo stesso un fastidio per l'umanità e un [[Honour|onore]] per la
+mero fanatico, che è al tempo stesso un fastidio per l'umanità e un [[concepts/honour|onore]] per la
 
-[[Nature|natura]] umana. Eppure chi può leggere quell'ultimo verso senza sentire che Wilde
+[[concepts/nature|natura]] umana. Eppure chi può leggere quell'ultimo verso senza sentire che Wilde
 
 è in bilico sull'orlo di un precipizio di bathos; che la frase è
 
@@ -19791,11 +19791,11 @@ ostile, inconquistabile ilarità. In qualche modo l'immagine di Wilde adagiato c
 
 elegante leviatano su un divano, e che dice fra le boccate di una profumata
 
-sigaretta che il [[Martyrdom|martirio]] è [[Martyrdom|martirio]] sotto certi aspetti, ha afferrato
+sigaretta che il [[concepts/martyrdom|martirio]] è [[concepts/martyrdom|martirio]] sotto certi aspetti, ha afferrato
 
 e dominato ogni più delicata considerazione nella mente. È imprudente
 
-in un poeta pungolare il [[Lion|leone]] addormentato del riso.
+in un poeta pungolare il [[motifs/lion|leone]] addormentato del riso.
 
 In mani meno destre l'idea decadente, per quel poco che ve n'era, andò
 
@@ -19809,7 +19809,7 @@ sottile e delicata; nel sentimento delle diverse forme d'arte, nella
 
 fusione di soggetto e stile, nell'appropriatezza dell'epiteto e
 
-nell'[[unity|unità]] dello stato d'animo. Wilde stesso scrisse alcune cose che non erano
+nell'unità dello stato d'animo. Wilde stesso scrisse alcune cose che non erano
 
 immoralità, ma soltanto cattivo gusto; non il cattivo gusto dei conservatori
 
@@ -19817,7 +19817,7 @@ sobborghi, che significa soltanto qualsiasi cosa violenta o scioccante, ma vero 
 
 gusto; come in un austero soggetto trattato in stile florido; una troppo agghindata
 
-donna a una cena di vecchi amici; o una cattiva battuta di cui nessuno ebbe il [[Time|tempo]] di
+donna a una cena di vecchi amici; o una cattiva battuta di cui nessuno ebbe il [[motifs/time|tempo]] di
 
 ridere. Questa mistura di sensibilità e rozzezza nell'uomo era assai
 
@@ -19825,7 +19825,7 @@ curiosa; e io, per parte mia, non posso sopportare (per esempio) il suo modo sen
 
 parlare di sostanze morte, raso o marmo o velluto, come se stesse
 
-accarezzando un mucchio di [[dogs|cani]] e gatti. Ma vi era una sorta di potenza—o almeno
+accarezzando un mucchio di cani e gatti. Ma vi era una sorta di potenza—o almeno
 
 di peso—nella sua rozzezza. Le sue cadute erano quelle proprie all'unica
 
@@ -19833,7 +19833,7 @@ buona cosa che egli davvero era, uno spaccone irlandese—un combattente. Alcuni
 
 imperatori romani avrebbero potuto avere la stessa lussureggiante mollezza e tuttavia lo stesso
 
-[[Courage|coraggio]]. Ma i decadenti più tardi furono assai peggiori, specialmente i decadenti
+[[concepts/courage|coraggio]]. Ma i decadenti più tardi furono assai peggiori, specialmente i decadenti
 
 critici, gli illustratori decadenti—vi furono perfino editori decadenti.
 
@@ -19841,13 +19841,13 @@ Ed essi persero interamente la luce e la ragione della loro esistenza: erano
 
 maestri del goffo e dell'incongruo. Prenderò un solo esempio.
 
-Aubrey Beardsley può essere ammirato come [[artist|artista]] o no; egli non rientra
+Aubrey Beardsley può essere ammirato come [[archetypes/artist|artista]] o no; egli non rientra
 
 nell'ambito di questo libro. Ma è vero che vi è un certo
 
 breve stato d'animo, un certo ristretto aspetto della vita, che egli rende all'
 
-[[Imagination|immaginazione]] rettamente. Lo si avverte per lo più sotto bianche, mortali luci a
+[[concepts/imagination|immaginazione]] rettamente. Lo si avverte per lo più sotto bianche, mortali luci a
 
 Piccadilly, con il nero incavo del cielo dietro cappelli lucidi o volti dipinti:
 
@@ -19857,11 +19857,11 @@ cosa che Beardsley sapeva esprimere (e l'unica cosa che sapesse esprimere),
 
 è il solenne e terribile fatto che egli fu incaricato di illustrare la
 
-_Morte d'Arthur_ di Malory. Non c'è bisogno di dire di più; il gusto, nel senso dell'[[artist|artista]],
+_Morte d'Arthur_ di Malory. Non c'è bisogno di dire di più; il gusto, nel senso dell'[[archetypes/artist|artista]],
 
-doveva essere del tutto morto. Avrebbero fatto altrettanto [[Well|bene]] a impiegare
+doveva essere del tutto morto. Avrebbero fatto altrettanto [[motifs/well|bene]] a impiegare
 
-Burne-[[Jones]] per illustrare _Martin Chuzzlewit_. Non sarebbe stato
+Burne-[[characters/jones|Jones]] per illustrare _Martin Chuzzlewit_. Non sarebbe stato
 
 più ridicolo che mettere questo ritrattista di malvagi burattini, con le loro
 
@@ -19875,7 +19875,7 @@ Per tornare al capo dei decadenti, non parlerò della fine della
 
 vicenda individuale: vi fu orrore e vi fu espiazione. E, almeno per quanto riguarda
 
-la mia [[Conscience|coscienza]], nessuno dovrebbe dire una sola parola che possa
+la mia [[concepts/conscience|coscienza]], nessuno dovrebbe dire una sola parola che possa
 
 indebolire l'orrore—o il perdono. Ma vi è una conseguenza letteraria
 
@@ -19900,11 +19900,11 @@ popolo di oggi, di qualsiasi cosa i socialisti abbiano mai proferito perfino nel
 <span class="atom-split" data-atom="chapter_04--part_05" data-title="Victorian Age — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,motif/ghosts,motif/leaves,motif/nakedness,motif/soul,motif/supernatural,motif/time,motif/well,motif/wind,concept/truth,form/parody,form/satire"></span>
 
 
-boldest pages of Bernard [[Shaw]].
+boldest pages of Bernard [[works/shaw-(chesterton)|Shaw]].
 
 Before we pass on to the two expansive movements in which the Victorian
 
-Age really ended, the accident of a distinguished [[artist]] is available
+Age really ended, the accident of a distinguished [[archetypes/artist|artist]] is available
 
 for estimating this somewhat cool and sad afternoon of the epoch at its
 
@@ -19922,19 +19922,19 @@ both are delicate and indisputable; but we must all have had a feeling
 
 that the characters in Meredith are gods, but that the characters in
 
-Henry James are [[Ghosts|ghosts]]. I do not mean that they are unreal: I believe in
+Henry James are [[motifs/ghosts|ghosts]]. I do not mean that they are unreal: I believe in
 
-[[Ghosts|ghosts]]. So does Mr. Henry James; he has written some of his very finest
+[[motifs/ghosts|ghosts]]. So does Mr. Henry James; he has written some of his very finest
 
 literature about the little habits of these creatures. He is in the deep
 
 sense of a dishonoured word, a Spiritualist if ever there was one. But
 
-Meredith was a materialist as [[Well|well]]. The difference is that a [[Ghost|ghost]] is a
+Meredith was a materialist as [[motifs/well|well]]. The difference is that a [[archetypes/ghost|ghost]] is a
 
 disembodied spirit; while a god (to be worth worrying about) must be an
 
-embodied spirit. The presence of [[Soul|soul]] and substance together involves
+embodied spirit. The presence of [[motifs/soul|soul]] and substance together involves
 
 one of the two or three things which most of the Victorians did not
 
@@ -19954,11 +19954,11 @@ and mind. It is not mystery: it is rather a sort of terror at knowing
 
 too much. He lives in glass houses; he is akin to Maeterlinck in a
 
-feeling of the [[Nakedness|nakedness]] of souls. None of the Meredithian things, [[Wind|wind]]
+feeling of the [[motifs/nakedness|nakedness]] of souls. None of the Meredithian things, [[motifs/wind|wind]]
 
 or wine or sex or stark nonsense, ever gets between Mr. James and his
 
-prey. But the thing is a deficiency as [[Well|well]] as a talent: we cannot but
+prey. But the thing is a deficiency as [[motifs/well|well]] as a talent: we cannot but
 
 admire the figures that walk about in his afternoon drawing-rooms; but
 
@@ -19966,7 +19966,7 @@ we have a certain sense that they are figures that have no faces.
 
 For the rest, he is most widely known, or perhaps only most widely
 
-chaffed, because of a literary style that lends itself to [[Parody|parody]] and is
+chaffed, because of a literary style that lends itself to [[forms/parody|parody]] and is
 
 a glorious feast for Mr. Max Beerbohm. It may be called The Hampered, or
 
@@ -19974,9 +19974,9 @@ Obstacle Race Style, in which one continually trips over commas and
 
 relative clauses; and where the sense has to be perpetually qualified
 
-lest it should mean too much. But such [[Satire|satire]], however friendly, is in
+lest it should mean too much. But such [[forms/satire|satire]], however friendly, is in
 
-some sense unfair to him; because it [[Leaves|leaves]] out his sense of general
+some sense unfair to him; because it [[motifs/leaves|leaves]] out his sense of general
 
 artistic design, which is not only high, but bold. This appears, I
 
@@ -19998,15 +19998,15 @@ ever wrote a story at all like the _Mark of the Beast_; no one ever
 
 wrote a story at all like _A Kink in Space_: and in the same sense no
 
-one ever wrote a story like _The Great Good Place_. It is [[Alone|alone]] in order
+one ever wrote a story like _The Great Good Place_. It is alone in order
 
 and species; and it is masterly. He struck his deepest note in that
 
 terrible story, _The Turn of the Screw_; and though there is in the
 
-heart of that horror a [[Truth|truth]] of repentance and religion, it is again
+heart of that horror a [[concepts/truth|truth]] of repentance and religion, it is again
 
-notable of the Victorian writers that the only [[Supernatural|supernatural]] note they
+notable of the Victorian writers that the only [[motifs/supernatural|supernatural]] note they
 
 can strike assuredly is the tragic and almost the diabolic. Only Mr. Max
 
@@ -20022,11 +20022,11 @@ two positive movements, largely honest though essentially unhistoric and
 
 profane, which were destined to crack up the old Victorian solidity past
 
-repair. The first was Bernard [[Shaw]] and the Socialists: the second was
+repair. The first was Bernard [[works/shaw-(chesterton)|Shaw]] and the Socialists: the second was
 
 Rudyard Kipling and the Imperialists. I take the Socialists first not
 
-because they necessarily came so in order of [[Time|time]], but because they were
+because they necessarily came so in order of [[motifs/time|time]], but because they were
 
 less the note upon which the epoch actually ended.
 
@@ -20052,9 +20052,9 @@ that. In this way, being a full-blooded fellow, he rather repeats the
 
 genial sulkiness of Dickens. And if we take this fact about him first,
 
-we shall find it a key to the whole movement of this [[Time|time]]. For the one
+we shall find it a key to the whole movement of this [[motifs/time|time]]. For the one
 
-dominating [[Truth|truth]] which overshadows everything else at this point is a
+dominating [[concepts/truth|truth]] which overshadows everything else at this point is a
 
 political and economic one. The Industrial System, run by a small class
 
@@ -20064,18 +20064,18 @@ honestly established by the early Victorians and was one of the primary
 
 beliefs of Victorianism. The Industrial System, so run, had become
 
-another name for hell. By Morris's [[Time|time]] and ever since, England has been
+another name for hell. By Morris's [[motifs/time|time]] and ever since, England has been
 
 divided into three classes: Knaves, Fools, and Revolutionists.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-più audaci pagine di Bernard [[Shaw]].
+più audaci pagine di Bernard [[works/shaw-(chesterton)|Shaw]].
 
 Prima di passare ai due espansivi movimenti in cui l'età vittoriana
 
-davvero si concluse, il caso di un insigne [[artist|artista]] è disponibile
+davvero si concluse, il caso di un insigne [[archetypes/artist|artista]] è disponibile
 
 per valutare questo alquanto freddo e triste pomeriggio dell'epoca nella sua
 
@@ -20093,19 +20093,19 @@ entrambi sono delicati e indiscutibili; ma tutti dobbiamo aver avuto la sensazio
 
 che i personaggi di Meredith siano dèi, mentre i personaggi di
 
-Henry James siano [[Ghosts|fantasmi]]. Non intendo che siano irreali: io credo nei
+Henry James siano [[motifs/ghosts|fantasmi]]. Non intendo che siano irreali: io credo nei
 
-[[Ghosts|fantasmi]]. Così pure il signor Henry James; egli ha scritto parte della sua più fine
+[[motifs/ghosts|fantasmi]]. Così pure il signor Henry James; egli ha scritto parte della sua più fine
 
 letteratura intorno alle piccole abitudini di queste creature. Egli è, nel senso profondo
 
 di una parola disonorata, uno Spiritista se mai ve ne fu uno. Ma
 
-Meredith era [[Well|anche]] un materialista. La differenza è che un [[Ghost|fantasma]] è uno
+Meredith era [[motifs/well|anche]] un materialista. La differenza è che un [[archetypes/ghost|fantasma]] è uno
 
 spirito disincarnato; mentre un dio (per meritare che ce ne curiamo) dev'essere uno
 
-spirito incarnato. La presenza dell'[[Soul|anima]] e della sostanza insieme implica
+spirito incarnato. La presenza dell'[[motifs/soul|anima]] e della sostanza insieme implica
 
 una delle due o tre cose che la maggior parte dei vittoriani non
 
@@ -20125,11 +20125,11 @@ e mente. Non è mistero: è piuttosto una sorta di terrore nel sapere
 
 troppo. Egli vive in case di vetro; è affine a Maeterlinck in un
 
-sentimento della [[Nakedness|nudità]] delle anime. Nessuna delle cose meredithiane, [[Wind|vento]]
+sentimento della [[motifs/nakedness|nudità]] delle anime. Nessuna delle cose meredithiane, [[motifs/wind|vento]]
 
 o vino o sesso o pura assurdità, si frappone mai fra il signor James e la sua
 
-preda. Ma la cosa è una deficienza [[Well|oltre]] che un talento: non possiamo che
+preda. Ma la cosa è una deficienza [[motifs/well|oltre]] che un talento: non possiamo che
 
 ammirare le figure che si aggirano nei suoi pomeridiani salotti; ma
 
@@ -20137,7 +20137,7 @@ abbiamo una certa sensazione che siano figure prive di volto.
 
 Per il resto, egli è assai largamente conosciuto, o forse soltanto assai largamente
 
-canzonato, a causa di uno stile letterario che si presta alla [[Parody|parodia]] ed è
+canzonato, a causa di uno stile letterario che si presta alla [[forms/parody|parodia]] ed è
 
 un glorioso banchetto per il signor Max Beerbohm. Lo si può chiamare lo Stile Impacciato, o
 
@@ -20145,9 +20145,9 @@ della Corsa a Ostacoli, in cui si inciampa di continuo in virgole e
 
 proposizioni relative; e dove il senso dev'essere perpetuamente qualificato
 
-per timore che significhi troppo. Ma tale [[Satire|satira]], per quanto amichevole, è in
+per timore che significhi troppo. Ma tale [[forms/satire|satira]], per quanto amichevole, è in
 
-qualche modo ingiusta con lui; perché [[Leaves|tralascia]] il suo senso del disegno artistico generale,
+qualche modo ingiusta con lui; perché [[motifs/leaves|tralascia]] il suo senso del disegno artistico generale,
 
 che non è soltanto alto, ma ardito. Ciò appare, io
 
@@ -20169,21 +20169,21 @@ scrisse mai un racconto per nulla simile al _Marchio della Bestia_; nessuno
 
 scrisse mai un racconto per nulla simile a _Una Piega nello Spazio_: e nello stesso senso
 
-nessuno scrisse mai un racconto come _Il Gran Buon Luogo_. Esso è [[Alone|solo]] nell'ordine
+nessuno scrisse mai un racconto come _Il Gran Buon Luogo_. Esso è solo nell'ordine
 
 e nella specie; ed è magistrale. Egli colpì la sua nota più profonda in quel
 
 terribile racconto, _Il Giro di Vite_; e sebbene vi sia nel
 
-cuore di quell'orrore una [[Truth|verità]] di pentimento e di religione, è ancora
+cuore di quell'orrore una [[concepts/truth|verità]] di pentimento e di religione, è ancora
 
-notevole degli scrittori vittoriani che l'unica nota [[Supernatural|soprannaturale]] che essi
+notevole degli scrittori vittoriani che l'unica nota [[motifs/supernatural|soprannaturale]] che essi
 
 sappiano colpire con sicurezza sia la tragica e quasi la diabolica. Solo il signor Max
 
 Beerbohm è stato capace di immaginare il signor Henry James scrivere del
 
-il Natale.
+Natale.
 
 Ora su questo interregno, questa fredda e brillante sala d'attesa che
 
@@ -20193,11 +20193,11 @@ due movimenti positivi, in gran parte onesti sebbene essenzialmente astorici e
 
 profani, che erano destinati a incrinare la vecchia solidità vittoriana in modo
 
-irrimediabile. Il primo fu Bernard [[Shaw]] e i socialisti: il secondo fu
+irrimediabile. Il primo fu Bernard [[works/shaw-(chesterton)|Shaw]] e i socialisti: il secondo fu
 
 Rudyard Kipling e gli imperialisti. Prendo per primi i socialisti non
 
-perché necessariamente venissero così nell'ordine del [[Time|tempo]], ma perché furono
+perché necessariamente venissero così nell'ordine del [[motifs/time|tempo]], ma perché furono
 
 meno la nota su cui l'epoca davvero si concluse.
 
@@ -20223,9 +20223,9 @@ quello. In tal modo, essendo un uomo di pieno sangue, egli ripete piuttosto la
 
 geniale scontrosità di Dickens. E se prendiamo per primo questo fatto sul suo conto,
 
-lo troveremo una chiave dell'intero movimento di questo [[Time|tempo]]. Poiché l'unica
+lo troveremo una chiave dell'intero movimento di questo [[motifs/time|tempo]]. Poiché l'unica
 
-dominante [[Truth|verità]] che a questo punto adombra ogni altra cosa è
+dominante [[concepts/truth|verità]] che a questo punto adombra ogni altra cosa è
 
 politica ed economica. Il Sistema Industriale, gestito da una piccola classe
 
@@ -20235,7 +20235,7 @@ onestamente istituito dai primi vittoriani ed era una delle credenze primarie
 
 del vittorianesimo. Il Sistema Industriale, così gestito, era divenuto
 
-un altro nome per l'inferno. Al [[Time|tempo]] di Morris e da allora in poi, l'Inghilterra è stata
+un altro nome per l'inferno. Al [[motifs/time|tempo]] di Morris e da allora in poi, l'Inghilterra è stata
 
 divisa in tre classi: Furfanti, Sciocchi e Rivoluzionari.
 
@@ -20244,9 +20244,9 @@ divisa in tre classi: Furfanti, Sciocchi e Rivoluzionari.
 <span class="atom-split" data-atom="chapter_04--part_06" data-title="Victorian Age — Chapter 4 (part 6)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/death,motif/mirror,motif/moon,motif/nature,motif/tears,motif/time,motif/well,concept/greatness,concept/history,concept/mercy,concept/nature,concept/revenge,form/history,histref/french_revolution,character/jones,character/ulysses"></span>
 
 
-[[history|History]] is full of forgotten controversies; and those who speak of
+[[concepts/history|History]] is full of forgotten controversies; and those who speak of
 
-Socialism now have nearly all forgotten that for some [[Time|time]] it was an
+Socialism now have nearly all forgotten that for some [[motifs/time|time]] it was an
 
 almost equal fight between Socialism and Anarchism for the leadership of
 
@@ -20258,7 +20258,7 @@ man, Auberon Herbert. Spencer has no special place as a man of letters;
 
 and a vastly exaggerated place as a philosopher. His real importance was
 
-that he was very nearly an Anarchist. The indefinable [[Greatness|greatness]] there is
+that he was very nearly an Anarchist. The indefinable [[concepts/greatness|greatness]] there is
 
 about him after all, in spite of the silliest and smuggest limitations,
 
@@ -20284,17 +20284,17 @@ thought we might perhaps get out of the mess if everybody did as he
 
 liked.
 
-Thus the Anarchists and Socialists fought a battle over the [[Death|death]]-bed of
+Thus the Anarchists and Socialists fought a battle over the [[motifs/death|death]]-bed of
 
 Victorian Industrialism; in which the Socialists (that is, those who
 
-stood for increasing instead of diminishing the power of [[government|Government]]) won
+stood for increasing instead of diminishing the power of Government) won
 
 a complete victory and have almost exterminated their enemy. The
 
 Anarchist one meets here and there nowadays is a sad sight; he is
 
-disappointed with the future, as [[Well|well]] as with the past.
+disappointed with the future, as [[motifs/well|well]] as with the past.
 
 This victory of the Socialists was largely a literary victory; because
 
@@ -20310,11 +20310,11 @@ to which he had been bred, came out as the champion of Socialism not as
 
 a matter of sentiment, but as a matter of common sense. The primary
 
-position of Bernard [[Shaw]] towards the Victorian Age may be roughly
+position of Bernard [[works/shaw-(chesterton)|Shaw]] towards the Victorian Age may be roughly
 
 summarised thus: the typical Victorian said coolly: "Our system may not
 
-be a perfect system, but it works." Bernard [[Shaw]] replied, even more
+be a perfect system, but it works." Bernard [[works/shaw-(chesterton)|Shaw]] replied, even more
 
 coolly: "It may be a perfect system, for all I know or care. But it does
 
@@ -20328,23 +20328,23 @@ concentrate on its clumsiness, its ludicrous incapacity to do its own
 
 work. This campaign succeeded, in the sense that while (in the educated
 
-world) it was the Socialist who looked the [[Fool|fool]] at the beginning of that
+world) it was the Socialist who looked the [[archetypes/fool|fool]] at the beginning of that
 
-campaign, it is the Anti-Socialist who looks the [[Fool|fool]] at the end of it.
+campaign, it is the Anti-Socialist who looks the [[archetypes/fool|fool]] at the end of it.
 
 But while it won the educated classes it lost the populace for ever. It
 
-dried up those springs of [[Blood|blood]] and [[Tears|tears]] out of which all revolt must
+dried up those springs of [[motifs/blood|blood]] and [[motifs/tears|tears]] out of which all revolt must
 
 come if it is to be anything but bureaucratic readjustment. We began
 
-this book with the fires of the [[French Revolution]] still burning, but
+this book with the fires of the [[historical-references/french-revolution|French Revolution]] still burning, but
 
-burning low. Bernard [[Shaw]] was honestly in revolt in his own way: but it
+burning low. Bernard [[works/shaw-(chesterton)|Shaw]] was honestly in revolt in his own way: but it
 
-was Bernard [[Shaw]] who trod out the last ember of the Great Revolution.
+was Bernard [[works/shaw-(chesterton)|Shaw]] who trod out the last ember of the Great Revolution.
 
-Bernard [[Shaw]] proceeded to apply to many other things the same sort of
+Bernard [[works/shaw-(chesterton)|Shaw]] proceeded to apply to many other things the same sort of
 
 hilarious realism which he thus successfully applied to the industrial
 
@@ -20354,31 +20354,31 @@ of his mind was a more appetising and less raw-looking object than a
 
 piece of Hardy's. There were many modes of revolt growing all around
 
-him; [[Shaw]] supported them--and supplanted them. Many were pitting the
+him; [[works/shaw-(chesterton)|Shaw]] supported them--and supplanted them. Many were pitting the
 
-realism of war against the [[Romance|romance]] of war: they succeeded in making the
+realism of war against the romance of war: they succeeded in making the
 
-fight dreary and repulsive, but the book dreary and repulsive too. [[Shaw]],
+fight dreary and repulsive, but the book dreary and repulsive too. [[works/shaw-(chesterton)|Shaw]],
 
-in _Arms and the Man_, did manage to make war funny as [[Well|well]] as
+in _Arms and the Man_, did manage to make war funny as [[motifs/well|well]] as
 
-frightful. Many were questioning the right of [[Revenge|revenge]] or punishment; but
+frightful. Many were questioning the right of [[concepts/revenge|revenge]] or punishment; but
 
 they wrote their books in such a way that the reader was ready to
 
-release all mankind if he might [[Revenge|revenge]] himself on the author. [[Shaw]], in
+release all mankind if he might [[concepts/revenge|revenge]] himself on the author. [[works/shaw-(chesterton)|Shaw]], in
 
 _Captain Brassbound's Conversion_, really showed at its best the merry
 
-[[Mercy|mercy]] of the pagan; that beautiful human [[Nature|nature]] that can neither rise to
+[[concepts/mercy|mercy]] of the pagan; that beautiful human [[concepts/nature|nature]] that can neither rise to
 
-penance nor sink to [[Revenge|revenge]]. Many had proved that even the most
+penance nor sink to [[concepts/revenge|revenge]]. Many had proved that even the most
 
-independent incomes drank [[Blood|blood]] out of the veins of the oppressed: but
+independent incomes drank [[motifs/blood|blood]] out of the veins of the oppressed: but
 
 they wrote it in such a style that their readers knew more about
 
-depression than oppression. In _Widowers' Houses_ [[Shaw]] very nearly (but
+depression than oppression. In _Widowers' Houses_ [[works/shaw-(chesterton)|Shaw]] very nearly (but
 
 not quite) succeeded in making a farce out of statistics. And the
 
@@ -20390,7 +20390,7 @@ said "widows' houses," it suddenly occurs to him to say "but what about
 
 widowers' houses?" There is a sort of insane equity about it which was
 
-what Bernard [[Shaw]] had the power to give, and gave.
+what Bernard [[works/shaw-(chesterton)|Shaw]] had the power to give, and gave.
 
 Out of the same social ferment arose a man of equally unquestionable
 
@@ -20398,22 +20398,22 @@ genius, Mr. H. G. Wells. His first importance was that he wrote great
 
 adventure stories in the new world the men of science had discovered. He
 
-walked on a round slippery world as boldly as [[Ulysses]] or Tom [[Jones]] had
+walked on a round slippery world as boldly as [[characters/ulysses|Ulysses]] or Tom [[characters/jones|Jones]] had
 
 worked on a flat one. Cyrano de Bergerac or Baron Munchausen, or other
 
-typical men of science, had treated the [[Moon|moon]] as a mere flat silver
+typical men of science, had treated the [[motifs/moon|moon]] as a mere flat silver
 
-[[Mirror|mirror]] in which Man saw his own image--the Man in the [[Moon]]. Wells
+[[motifs/mirror|mirror]] in which Man saw his own image--the Man in the [[motifs/moon|Moon]]. Wells
 
-treated the [[Moon|moon]] as a globe, like our own; bringing forth monsters as
+treated the [[motifs/moon|moon]] as a globe, like our own; bringing forth monsters as
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-La [[history|storia]] è piena di controversie dimenticate; e coloro che parlano di
+La [[concepts/history|storia]] è piena di controversie dimenticate; e coloro che parlano di
 
-socialismo hanno ora quasi tutti dimenticato che per qualche [[Time|tempo]] fu una
+socialismo hanno ora quasi tutti dimenticato che per qualche [[motifs/time|tempo]] fu una
 
 lotta quasi pari tra socialismo e anarchismo per la guida
 
@@ -20425,7 +20425,7 @@ Auberon Herbert. Spencer non ha alcun posto speciale come uomo di lettere;
 
 e un posto enormemente esagerato come filosofo. La sua vera importanza fu
 
-che era quasi un anarchico. L'indefinibile [[Greatness|grandezza]] che vi è
+che era quasi un anarchico. L'indefinibile [[concepts/greatness|grandezza]] che vi è
 
 in lui, dopo tutto, malgrado le più sciocche e compiaciute limitazioni,
 
@@ -20451,17 +20451,17 @@ pensavano che forse potremmo uscire dal pasticcio se ognuno facesse come gli
 
 pare.
 
-Così gli anarchici e i socialisti combatterono una battaglia sul letto di [[Death|morte]] dell'
+Così gli anarchici e i socialisti combatterono una battaglia sul letto di [[motifs/death|morte]] dell'
 
 industrialismo vittoriano; nella quale i socialisti (cioè coloro che
 
-si battevano per accrescere invece che diminuire il potere del [[government|Governo]]) riportarono
+si battevano per accrescere invece che diminuire il potere del Governo) riportarono
 
 una completa vittoria e hanno quasi sterminato il loro nemico. L'
 
 anarchico che s'incontra qua e là oggigiorno è un triste spettacolo; è
 
-deluso del futuro, [[Well|oltre]] che del passato.
+deluso del futuro, [[motifs/well|oltre]] che del passato.
 
 Questa vittoria dei socialisti fu in gran parte una vittoria letteraria; perché
 
@@ -20477,11 +20477,11 @@ in cui era stato allevato, si fece avanti come campione del socialismo non come
 
 questione di sentimento, ma come questione di buon senso. La
 
-posizione primaria di Bernard [[Shaw]] verso l'età vittoriana può essere così
+posizione primaria di Bernard [[works/shaw-(chesterton)|Shaw]] verso l'età vittoriana può essere così
 
 sommariamente riassunta: il tipico vittoriano diceva freddamente: «Il nostro sistema può non
 
-essere un sistema perfetto, ma funziona». Bernard [[Shaw]] replicava, ancor più
+essere un sistema perfetto, ma funziona». Bernard [[works/shaw-(chesterton)|Shaw]] replicava, ancor più
 
 freddamente: «Può essere un sistema perfetto, per quanto ne so o me ne importa. Ma non
 
@@ -20495,23 +20495,23 @@ concentrarsi sulla sua goffaggine, sulla sua ridicola incapacità di svolgere il
 
 lavoro. Questa campagna riuscì, nel senso che mentre (nel mondo
 
-colto) era il socialista a fare la figura dello [[Fool|sciocco]] all'inizio di quella
+colto) era il socialista a fare la figura dello [[archetypes/fool|sciocco]] all'inizio di quella
 
-campagna, è l'antisocialista a fare la figura dello [[Fool|sciocco]] alla fine di essa.
+campagna, è l'antisocialista a fare la figura dello [[archetypes/fool|sciocco]] alla fine di essa.
 
 Ma mentre conquistò le classi colte, perse il popolo per sempre.
 
-Prosciugò quelle sorgenti di [[Blood|sangue]] e di [[Tears|lacrime]] da cui ogni rivolta deve
+Prosciugò quelle sorgenti di [[motifs/blood|sangue]] e di [[motifs/tears|lacrime]] da cui ogni rivolta deve
 
 scaturire se vuol essere qualcosa di più di un riassestamento burocratico. Cominciammo
 
-questo libro coi fuochi della [[French Revolution|Rivoluzione francese]] ancora ardenti, ma
+questo libro coi fuochi della [[historical-references/french-revolution|Rivoluzione francese]] ancora ardenti, ma
 
-ardenti fiocamente. Bernard [[Shaw]] era onestamente in rivolta a modo suo: ma fu
+ardenti fiocamente. Bernard [[works/shaw-(chesterton)|Shaw]] era onestamente in rivolta a modo suo: ma fu
 
-Bernard [[Shaw]] a calpestare l'ultima brace della Grande Rivoluzione.
+Bernard [[works/shaw-(chesterton)|Shaw]] a calpestare l'ultima brace della Grande Rivoluzione.
 
-Bernard [[Shaw]] procedette ad applicare a molte altre cose la stessa sorta di
+Bernard [[works/shaw-(chesterton)|Shaw]] procedette ad applicare a molte altre cose la stessa sorta di
 
 ilare realismo che egli così con successo applicò al problema
 
@@ -20521,31 +20521,31 @@ della sua mente era un oggetto più appetitoso e dall'aspetto meno crudo di un
 
 pezzo di quella di Hardy. Vi erano molti modi di rivolta che crescevano tutt'intorno a
 
-lui; [[Shaw]] li sostenne—e li soppiantò. Molti contrapponevano il
+lui; [[works/shaw-(chesterton)|Shaw]] li sostenne—e li soppiantò. Molti contrapponevano il
 
-realismo della guerra al [[Romance|romanticismo]] della guerra: riuscirono a rendere il
+realismo della guerra al romanticismo della guerra: riuscirono a rendere il
 
-combattimento tetro e ripugnante, ma anche il libro tetro e ripugnante. [[Shaw]],
+combattimento tetro e ripugnante, ma anche il libro tetro e ripugnante. [[works/shaw-(chesterton)|Shaw]],
 
-in _Le armi e l'uomo_, riuscì a rendere la guerra buffa [[Well|oltre]] che
+in _Le armi e l'uomo_, riuscì a rendere la guerra buffa [[motifs/well|oltre]] che
 
-spaventosa. Molti mettevano in dubbio il diritto della [[Revenge|vendetta]] o della punizione; ma
+spaventosa. Molti mettevano in dubbio il diritto della [[concepts/revenge|vendetta]] o della punizione; ma
 
 scrivevano i loro libri in modo tale che il lettore era pronto a
 
-liberare tutta l'umanità purché potesse [[Revenge|vendicarsi]] dell'autore. [[Shaw]], in
+liberare tutta l'umanità purché potesse [[concepts/revenge|vendicarsi]] dell'autore. [[works/shaw-(chesterton)|Shaw]], in
 
 _La conversione del Capitano Brassbound_, mostrò davvero al suo meglio l'allegra
 
-[[Mercy|misericordia]] del pagano; quella bella [[Nature|natura]] umana che non sa né elevarsi alla
+[[concepts/mercy|misericordia]] del pagano; quella bella [[concepts/nature|natura]] umana che non sa né elevarsi alla
 
-penitenza né sprofondare nella [[Revenge|vendetta]]. Molti avevano dimostrato che perfino le più
+penitenza né sprofondare nella [[concepts/revenge|vendetta]]. Molti avevano dimostrato che perfino le più
 
-indipendenti rendite bevevano [[Blood|sangue]] dalle vene degli oppressi: ma
+indipendenti rendite bevevano [[motifs/blood|sangue]] dalle vene degli oppressi: ma
 
 lo scrivevano in uno stile tale che i loro lettori sapevano più della
 
-depressione che dell'oppressione. In _Le case dei vedovi_ [[Shaw]] quasi (ma
+depressione che dell'oppressione. In _Le case dei vedovi_ [[works/shaw-(chesterton)|Shaw]] quasi (ma
 
 non del tutto) riuscì a fare una farsa della statistica. E l'
 
@@ -20557,7 +20557,7 @@ detto «le case delle vedove», gli viene d'un tratto in mente di dire «ma che 
 
 case dei vedovi?». Vi è una sorta di folle equità in ciò, che era
 
-quanto Bernard [[Shaw]] ebbe il potere di dare, e diede.
+quanto Bernard [[works/shaw-(chesterton)|Shaw]] ebbe il potere di dare, e diede.
 
 Dallo stesso fermento sociale sorse un uomo di genio del pari
 
@@ -20565,15 +20565,15 @@ indiscutibile, il signor H. G. Wells. La sua prima importanza fu che scrisse gra
 
 racconti d'avventura nel nuovo mondo che gli uomini di scienza avevano scoperto.
 
-Camminò su un mondo tondo e sdrucciolevole con la stessa audacia con cui [[Ulysses|Ulisse]] o Tom [[Jones]] avevano
+Camminò su un mondo tondo e sdrucciolevole con la stessa audacia con cui [[characters/ulysses|Ulisse]] o Tom [[characters/jones|Jones]] avevano
 
 operato su uno piatto. Cyrano de Bergerac o il barone di Münchhausen, o altri
 
-tipici uomini di scienza, avevano trattato la [[Moon|luna]] come un mero piatto d'argento
+tipici uomini di scienza, avevano trattato la [[motifs/moon|luna]] come un mero piatto d'argento
 
-[[Mirror|specchio]] in cui l'Uomo vedeva la propria immagine—l'Uomo nella [[Moon|Luna]]. Wells
+[[motifs/mirror|specchio]] in cui l'Uomo vedeva la propria immagine—l'Uomo nella [[motifs/moon|Luna]]. Wells
 
-trattò la [[Moon|luna]] come un globo, simile al nostro; facendo sorgere mostri quali
+trattò la [[motifs/moon|luna]] come un globo, simile al nostro; facendo sorgere mostri quali
 
 
 
@@ -20582,7 +20582,7 @@ trattò la [[Moon|luna]] come un globo, simile al nostro; facendo sorgere mostri
 
 moonish as we are earthy. The exquisitely penetrating political and
 
-social [[Satire|satire]] he afterwards wrote belongs to an age later than the
+social [[forms/satire|satire]] he afterwards wrote belongs to an age later than the
 
 Victorian. But because, even from the beginning, his whole trend was
 
@@ -20590,31 +20590,31 @@ Socialist, it is right to place him here.
 
 While the old Victorian ideas were being disturbed by an increasing
 
-torture at [[Home|home]], they were also intoxicated by a new [[Romance|romance]] from
+torture at [[motifs/home|home]], they were also intoxicated by a new romance from
 
-abroad. It did not come from [[Italy]] with Rossetti and Browning, or from
+abroad. It did not come from [[settings/italy|Italy]] with Rossetti and Browning, or from
 
 Persia with Fitzgerald: but it came from countries as remote, countries
 
 which were (as the simple phrase of that period ran) "painted red" on
 
-the map. It was an attempt to [[Reform|reform]] England through the newer nations;
+the map. It was an attempt to [[concepts/reform|reform]] England through the newer nations;
 
 by the criticism of the forgotten colonies, rather than of the forgotten
 
 classes. Both Socialism and Imperialism were utterly alien to the
 
-Victorian idea. From the point of view of a Victorian [[aristocrat]] like
+Victorian idea. From the point of view of a Victorian aristocrat like
 
 Palmerston, Socialism would be the cheek of gutter snipes; Imperialism
 
-would be the intrusion of cads. But cads are not [[Alone|alone]] concerned.
+would be the intrusion of cads. But cads are not alone concerned.
 
 Broadly, the phase in which the Victorian epoch closed was what can only
 
 be called the Imperialist phase. Between that and us stands a very
 
-individual [[artist]] who must nevertheless be connected with that phase. As
+individual [[archetypes/artist|artist]] who must nevertheless be connected with that phase. As
 
 I said at the beginning, Macaulay (or, rather, the mind Macaulay shared
 
@@ -20624,19 +20624,19 @@ flat foundation under all the Victorians. They discussed the dogmas
 
 rather than denied them. Now one of the dogmas of Macaulay was the dogma
 
-of progress. A fair statement of the [[Truth|truth]] in it is not really so hard.
+of progress. A fair statement of the [[concepts/truth|truth]] in it is not really so hard.
 
-Investigation of anything naturally takes some little [[Time|time]]. It takes
+Investigation of anything naturally takes some little [[motifs/time|time]]. It takes
 
-some [[Time|time]] to sort letters so as to find a letter: it takes some [[Time|time]] to
+some [[motifs/time|time]] to sort letters so as to find a letter: it takes some [[motifs/time|time]] to
 
-test a gas-bracket so as to find the leak; it takes some [[Time|time]] to sift
+test a gas-bracket so as to find the leak; it takes some [[motifs/time|time]] to sift
 
-evidence so as to find the [[Truth|truth]]. Now the curse that fell on the later
+evidence so as to find the [[concepts/truth|truth]]. Now the curse that fell on the later
 
-Victorians was this: that they began to value the [[Time|time]] more than the
+Victorians was this: that they began to value the [[motifs/time|time]] more than the
 
-[[Truth|truth]]. One felt so secretarial when sorting letters that one never found
+[[concepts/truth|truth]]. One felt so secretarial when sorting letters that one never found
 
 the letter; one felt so scientific in explaining gas that one never
 
@@ -20670,13 +20670,13 @@ Nevertheless the fallacy of the "forerunner" has been largely used in
 
 literature. Thus men will call a universal satirist like Langland a
 
-"morning star of the [[Reformation]]," or some such rubbish; whereas the
+"morning star of the [[historical-references/reformation|Reformation]]," or some such rubbish; whereas the
 
-[[Reformation]] was not larger, but much smaller than Langland. It was
+[[historical-references/reformation|Reformation]] was not larger, but much smaller than Langland. It was
 
 simply the victory of one class of his foes, the greedy merchants, over
 
-another class of his foes, the lazy abbots. In real [[history]] this
+another class of his foes, the lazy abbots. In real [[concepts/history|history]] this
 
 constantly occurs; that some small movement happens to favour one of the
 
@@ -20702,9 +20702,9 @@ sense not only on every subject, but, so far as it is logically
 
 possible, in every sense. But the glaring deficiencies of the Victorian
 
-compromise had by that [[Time|time]] begun to gape so wide that he was forced, by
+compromise had by that [[motifs/time|time]] begun to gape so wide that he was forced, by
 
-mere [[Freedom|freedom]] of [[philosophy]] and fancy, to urge the neglected things. And
+mere [[concepts/freedom|freedom]] of philosophy and fancy, to urge the neglected things. And
 
 yet this very urgency certainly brought on an opposite fever, which he
 
@@ -20712,17 +20712,17 @@ would not have liked if he had lived to understand it. He liked Kipling,
 
 though with many healthy hesitations; but he would not have liked the
 
-triumph of Kipling: which was the [[success]] of the politician and the
+triumph of Kipling: which was the success of the politician and the
 
 failure of the poet. Yet when we look back up the false perspective of
 
-[[Time|time]], Stevenson does seem in a sense to have prepared that imperial and
+[[motifs/time|time]], Stevenson does seem in a sense to have prepared that imperial and
 
 downward path.
 
 I shall not talk here, any more than anywhere else in this book, about
 
-the "sedulous ape" business. No man ever wrote as [[Well|well]] as Stevenson who
+the "sedulous ape" business. No man ever wrote as [[motifs/well|well]] as Stevenson who
 
 cared only about writing. Yet there is a sense, though a misleading one,
 
@@ -20732,7 +20732,7 @@ philosophical. To put the point in that curt covenanting way which he
 
 himself could sometimes command, he thought it immoral to neglect
 
-[[Romance|romance]]. The whole of his real position was expressed in that phrase of
+romance. The whole of his real position was expressed in that phrase of
 
 one of his letters "our civilisation is a dingy ungentlemanly business:
 
@@ -20742,7 +20742,7 @@ been dropped out of the man was the boy. He pursued pirates as Defoe
 
 would have fled from them; and summed up his simplest emotions in that
 
-touching _cri de coeur_ "shall we never shed [[Blood|blood]]?" He did for the
+touching _cri de coeur_ "shall we never shed [[motifs/blood|blood]]?" He did for the
 
 penny dreadful what Coleridge had done for the penny ballad. He proved
 
@@ -20753,7 +20753,7 @@ that, because it was really human, it could really rise as near to
 
 lunatici quanto noi siamo terreni. La squisitamente penetrante e politica
 
-[[Satire|satira]] sociale che egli scrisse in seguito appartiene a un'età posteriore a quella
+[[forms/satire|satira]] sociale che egli scrisse in seguito appartiene a un'età posteriore a quella
 
 vittoriana. Ma poiché, fin dal principio, tutta la sua inclinazione fu
 
@@ -20761,31 +20761,31 @@ socialista, è giusto collocarlo qui.
 
 Mentre le vecchie idee vittoriane venivano turbate da un crescente
 
-tormento in [[Home|patria]], venivano anche inebriate da un nuovo [[Romance|romanticismo]] proveniente
+tormento in [[motifs/home|patria]], venivano anche inebriate da un nuovo romanticismo proveniente
 
-dall'estero. Non veniva dall'[[Italy|Italia]] con Rossetti e Browning, né dalla
+dall'estero. Non veniva dall'[[settings/italy|Italia]] con Rossetti e Browning, né dalla
 
 Persia con Fitzgerald: ma veniva da paesi altrettanto remoti, paesi
 
 che erano (secondo la semplice espressione di quel periodo) «dipinti di rosso» sulla
 
-carta geografica. Era un tentativo di [[Reform|riformare]] l'Inghilterra attraverso le nazioni più nuove;
+carta geografica. Era un tentativo di [[concepts/reform|riformare]] l'Inghilterra attraverso le nazioni più nuove;
 
 mediante la critica delle colonie dimenticate, piuttosto che delle dimenticate
 
 classi. Tanto il socialismo quanto l'imperialismo erano del tutto estranei all'
 
-idea vittoriana. Dal punto di vista di un [[aristocrat|aristocratico]] vittoriano come
+idea vittoriana. Dal punto di vista di un aristocratico vittoriano come
 
 Palmerston, il socialismo sarebbe la sfrontatezza degli straccioni di strada; l'imperialismo
 
-sarebbe l'intrusione dei villani. Ma non sono i villani i [[Alone|soli]] coinvolti.
+sarebbe l'intrusione dei villani. Ma non sono i villani i soli coinvolti.
 
 In generale, la fase in cui l'epoca vittoriana si chiuse fu ciò che può soltanto
 
 essere chiamata la fase imperialista. Tra quella e noi si erge un
 
-[[artist|artista]] assai singolare che nondimeno va collegato a quella fase. Come
+[[archetypes/artist|artista]] assai singolare che nondimeno va collegato a quella fase. Come
 
 ho detto all'inizio, Macaulay (o, piuttosto, la mente che Macaulay condivideva
 
@@ -20795,19 +20795,19 @@ piatta fondazione sotto tutti i vittoriani. Essi discutevano i dogmi
 
 piuttosto che negarli. Ora, uno dei dogmi di Macaulay era il dogma
 
-del progresso. Un'equa formulazione della [[Truth|verità]] che vi è contenuta non è poi così difficile.
+del progresso. Un'equa formulazione della [[concepts/truth|verità]] che vi è contenuta non è poi così difficile.
 
-Investigare qualsiasi cosa richiede naturalmente un po' di [[Time|tempo]]. Ci vuole
+Investigare qualsiasi cosa richiede naturalmente un po' di [[motifs/time|tempo]]. Ci vuole
 
-un po' di [[Time|tempo]] per ordinare le lettere così da trovarne una: ci vuole un po' di [[Time|tempo]] per
+un po' di [[motifs/time|tempo]] per ordinare le lettere così da trovarne una: ci vuole un po' di [[motifs/time|tempo]] per
 
-provare un braccio a gas così da trovare la perdita; ci vuole un po' di [[Time|tempo]] per vagliare
+provare un braccio a gas così da trovare la perdita; ci vuole un po' di [[motifs/time|tempo]] per vagliare
 
-le prove così da trovare la [[Truth|verità]]. Ora, la maledizione che colpì i più tardi
+le prove così da trovare la [[concepts/truth|verità]]. Ora, la maledizione che colpì i più tardi
 
-vittoriani fu questa: che cominciarono a stimare il [[Time|tempo]] più della
+vittoriani fu questa: che cominciarono a stimare il [[motifs/time|tempo]] più della
 
-[[Truth|verità]]. Ci si sentiva così segretariali nell'ordinare le lettere che non si trovava mai
+[[concepts/truth|verità]]. Ci si sentiva così segretariali nell'ordinare le lettere che non si trovava mai
 
 la lettera; ci si sentiva così scientifici nello spiegare il gas che non si
 
@@ -20841,13 +20841,13 @@ Nondimeno la fallacia del «precursore» è stata largamente usata in
 
 letteratura. Così si chiamerà un satirico universale come Langland una
 
-«stella del mattino della [[Reformation|Riforma]]», o qualche altra simile sciocchezza; mentre la
+«stella del mattino della [[historical-references/reformation|Riforma]]», o qualche altra simile sciocchezza; mentre la
 
-[[Reformation|Riforma]] non fu più grande, ma molto più piccola di Langland. Fu
+[[historical-references/reformation|Riforma]] non fu più grande, ma molto più piccola di Langland. Fu
 
 semplicemente la vittoria di una classe dei suoi nemici, i mercanti avidi, su
 
-un'altra classe dei suoi nemici, gli abati pigri. Nella [[history|storia]] reale ciò
+un'altra classe dei suoi nemici, gli abati pigri. Nella [[concepts/history|storia]] reale ciò
 
 accade di continuo; che qualche piccolo movimento venga a favorire una delle
 
@@ -20873,9 +20873,9 @@ sensate non solo su ogni argomento, ma, per quanto sia logicamente
 
 possibile, in ogni senso. Ma le evidenti carenze del compromesso
 
-vittoriano avevano a quel [[Time|tempo]] cominciato a spalancarsi tanto che egli fu costretto, per
+vittoriano avevano a quel [[motifs/time|tempo]] cominciato a spalancarsi tanto che egli fu costretto, per
 
-mera [[Freedom|libertà]] di [[philosophy|filosofia]] e fantasia, a perorare le cose trascurate. E
+mera [[concepts/freedom|libertà]] di filosofia e fantasia, a perorare le cose trascurate. E
 
 tuttavia questa stessa urgenza portò certamente una febbre opposta, che egli
 
@@ -20883,17 +20883,17 @@ non avrebbe gradito se fosse vissuto per comprenderla. Egli amava Kipling,
 
 sebbene con molte salutari esitazioni; ma non avrebbe gradito il
 
-trionfo di Kipling: che fu il [[success|successo]] del politico e il
+trionfo di Kipling: che fu il successo del politico e il
 
 fallimento del poeta. Eppure, quando volgiamo lo sguardo indietro lungo la falsa prospettiva del
 
-[[Time|tempo]], Stevenson sembra davvero, in un certo senso, aver preparato quel cammino imperiale e
+[[motifs/time|tempo]], Stevenson sembra davvero, in un certo senso, aver preparato quel cammino imperiale e
 
 discendente.
 
 Non parlerò qui, più che altrove in questo libro, della
 
-faccenda della «scimmia solerte». Nessun uomo scrisse mai così [[Well|bene]] come Stevenson
+faccenda della «scimmia solerte». Nessun uomo scrisse mai così [[motifs/well|bene]] come Stevenson
 
 curandosi solo dello scrivere. Eppure vi è un senso, benché fuorviante,
 
@@ -20903,7 +20903,7 @@ filosofiche. Per dirla in quel modo brusco e da Covenanter che egli
 
 stesso sapeva talvolta padroneggiare, riteneva immorale trascurare
 
-il [[Romance|romanticismo]]. Tutta la sua vera posizione era espressa in quella frase di
+il romanticismo. Tutta la sua vera posizione era espressa in quella frase di
 
 una delle sue lettere: «la nostra civiltà è una faccenda squallida e ignobile:
 
@@ -20913,7 +20913,7 @@ stato lasciato cadere dall'uomo era il fanciullo. Inseguiva i pirati come Defoe
 
 sarebbe fuggito da loro; e riassumeva le sue più semplici emozioni in quel
 
-toccante _cri de coeur_: «non verseremo mai [[Blood|sangue]]?». Fece per il
+toccante _cri de coeur_: «non verseremo mai [[motifs/blood|sangue]]?». Fece per il
 
 penny dreadful ciò che Coleridge aveva fatto per la penny ballad. Dimostrò
 
@@ -20924,17 +20924,17 @@ che, essendo davvero umano, poteva davvero elevarsi tanto vicino a
 <span class="atom-split" data-atom="chapter_04--part_08" data-title="Victorian Age — Chapter 4 (part 8)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/nature,motif/time,motif/well,concept/comradeship,concept/courage,concept/history,concept/hope,concept/nature,concept/truth,form/history,character/queen"></span>
 
 
-heaven as human [[Nature|nature]] could take it. If Thackeray is our youth,
+heaven as human [[concepts/nature|nature]] could take it. If Thackeray is our youth,
 
 Stevenson is our boyhood: and though this is not the most artistic
 
-thing in him, it is the most important thing in the [[history]] of Victorian
+thing in him, it is the most important thing in the [[concepts/history|history]] of Victorian
 
 art. All the other fine things he did were, for curious reasons, remote
 
-from the current of his age. For instance, he had the good as [[Well|well]] as
+from the current of his age. For instance, he had the good as [[motifs/well|well]] as
 
-the bad of coming from a Scotch Calvinist's [[house]]. No man in that age
+the bad of coming from a Scotch Calvinist's house. No man in that age
 
 had so healthy an instinct for the actuality of positive evil. In _The
 
@@ -20944,15 +20944,15 @@ is a gentleman--but is none the less the Devil. It is also
 
 characteristic of him (and of the revolt from Victorian respectability
 
-in general) that his most [[Blood|blood]]-and-thunder sensational tale is also
+in general) that his most [[motifs/blood|blood]]-and-thunder sensational tale is also
 
-that which contains his most intimate and bitter [[Truth|truth]]. _Dr. Jekyll and
+that which contains his most intimate and bitter [[concepts/truth|truth]]. _Dr. Jekyll and
 
-Mr. Hyde_ is a [[Double|double]] triumph; it has the outside excitement that
+Mr. Hyde_ is a [[topoi/double|double]] triumph; it has the outside excitement that
 
 belongs to Conan Doyle with the inside excitement that belongs to Henry
 
-James. Alas, it is equally characteristic of the Victorian [[Time|time]] that
+James. Alas, it is equally characteristic of the Victorian [[motifs/time|time]] that
 
 while nearly every Englishman has enjoyed the anecdote, hardly one
 
@@ -20992,9 +20992,9 @@ that could be felt; it had a military edge to it, an _acies_; and there
 
 was a kind of swordsmanship about it. Thus all the circumstances led,
 
-not so much to the narrowing of Stevenson to the [[Romance|romance]] of the fighting
+not so much to the narrowing of Stevenson to the romance of the fighting
 
-spirit; but the narrowing of his influence to that [[Romance|romance]]. He had a
+spirit; but the narrowing of his influence to that romance. He had a
 
 great many other things to say; but this was what we were willing to
 
@@ -21010,7 +21010,7 @@ credit to his manhood in preaching a sane levity and pugnacious
 
 optimism. But it also forbade him full familiarity with the actualities
 
-of sport, war, or [[Comradeship|comradeship]]: and here and there his note is false in
+of sport, war, or [[concepts/comradeship|comradeship]]: and here and there his note is false in
 
 these matters, and reminds one (though very remotely) of the mere
 
@@ -21018,7 +21018,7 @@ provincial bully that Henley sometimes sank to be.
 
 For Stevenson had at his elbow a friend, an invalid like himself, a man
 
-of [[Courage|courage]] and stoicism like himself; but a man in whom everything that
+of [[concepts/courage|courage]] and stoicism like himself; but a man in whom everything that
 
 Stevenson made delicate and rational became unbalanced and blind. The
 
@@ -21042,7 +21042,7 @@ seemed to think that on the right side the wronger you were the better.
 
 There was much that was feminine in him; and he is most understandable
 
-when surprised in those little solitary [[Poems|poems]] which speak of emotions
+when surprised in those little solitary poems which speak of emotions
 
 mellowed, of sunset and a quiet end. Henley hurled himself into the new
 
@@ -21082,7 +21082,7 @@ that he is partial. I therefore confess that I think this last turn of
 
 the Victorian Age was an unfortunate turn; much on the other side can be
 
-said, and I [[Hope|hope]] will be said. But about the facts there can be no
+said, and I [[concepts/hope|hope]] will be said. But about the facts there can be no
 
 question. The Imperialism of Kipling was equally remote from the
 
@@ -21092,22 +21092,22 @@ seriously end here. The world was full of the trampling of totally new
 
 forces, gold was sighted from far in a sort of cynical romanticism: the
 
-guns opened across Africa; and the great [[Queen|queen]] died.
+guns opened across Africa; and the great [[characters/queen|queen]] died.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-il cielo così come la [[Nature|natura]] umana poteva accoglierlo. Se Thackeray è la nostra giovinezza,
+il cielo così come la [[concepts/nature|natura]] umana poteva accoglierlo. Se Thackeray è la nostra giovinezza,
 
 Stevenson è la nostra fanciullezza: e per quanto questa non sia la cosa più artistica
 
-che è in lui, è la cosa più importante nella [[history|storia]] dell'arte
+che è in lui, è la cosa più importante nella [[concepts/history|storia]] dell'arte
 
 vittoriana. Tutte le altre belle cose che fece erano, per curiose ragioni, remote
 
-dalla corrente della sua epoca. Per esempio, ebbe il bene [[Well|tanto]] quanto
+dalla corrente della sua epoca. Per esempio, ebbe il bene [[motifs/well|tanto]] quanto
 
-il male di provenire da una [[house|casa]] calvinista scozzese. Nessun uomo in quell'epoca
+il male di provenire da una casa calvinista scozzese. Nessun uomo in quell'epoca
 
 ebbe un istinto tanto sano per la realtà del male positivo. In _The
 
@@ -21117,15 +21117,15 @@ Master of Ballantrae_ dimostrò, con penna d'acciaio, che il Diavolo
 
 caratteristico di lui (e della rivolta contro la rispettabilità vittoriana
 
-in generale) che il suo racconto sensazionale più di [[Blood|sangue]] e tuoni è anche
+in generale) che il suo racconto sensazionale più di [[motifs/blood|sangue]] e tuoni è anche
 
-quello che contiene la sua [[Truth|verità]] più intima e amara. _Dr. Jekyll and
+quello che contiene la sua [[concepts/truth|verità]] più intima e amara. _Dr. Jekyll and
 
-Mr. Hyde_ è un [[Double|doppio]] trionfo; ha l'eccitazione esteriore che
+Mr. Hyde_ è un [[topoi/double|doppio]] trionfo; ha l'eccitazione esteriore che
 
 appartiene a Conan Doyle unita all'eccitazione interiore che appartiene a Henry
 
-James. Ahimè, è ugualmente caratteristico dell'[[Time|epoca]] vittoriana che
+James. Ahimè, è ugualmente caratteristico dell'[[motifs/time|epoca]] vittoriana che
 
 mentre quasi ogni inglese ha goduto dell'aneddoto, a stento un
 
@@ -21165,9 +21165,9 @@ che si poteva sentire; aveva un taglio militare, un _acies_; e vi
 
 era in esso una sorta di scherma. Così tutte le circostanze condussero,
 
-non tanto al restringimento di Stevenson al [[Romance|romanzo]] dello spirito
+non tanto al restringimento di Stevenson al romanzo dello spirito
 
-combattivo; quanto al restringimento della sua influenza a quel [[Romance|romanzo]]. Aveva
+combattivo; quanto al restringimento della sua influenza a quel romanzo. Aveva
 
 moltissime altre cose da dire; ma questo era ciò che eravamo disposti ad
 
@@ -21183,7 +21183,7 @@ merito della sua virilità nel predicare una sana leggerezza e un combattivo
 
 ottimismo. Ma gli vietò anche una piena familiarità con le realtà
 
-dello sport, della guerra o del [[Comradeship|cameratismo]]: e qua e là la sua nota è falsa in
+dello sport, della guerra o del [[concepts/comradeship|cameratismo]]: e qua e là la sua nota è falsa in
 
 queste materie, e ricorda (per quanto assai remotamente) il mero
 
@@ -21191,7 +21191,7 @@ gradasso provinciale che Henley talvolta si abbassava a essere.
 
 Poiché Stevenson aveva al suo fianco un amico, un invalido come lui, un uomo
 
-di [[Courage|coraggio]] e stoicismo come lui; ma un uomo in cui tutto ciò che
+di [[concepts/courage|coraggio]] e stoicismo come lui; ma un uomo in cui tutto ciò che
 
 Stevenson rendeva delicato e razionale diveniva squilibrato e cieco. La
 
@@ -21215,7 +21215,7 @@ sembrava pensare che, dalla parte giusta, più avevi torto meglio era.
 
 Vi era molto di femminile in lui; ed è più comprensibile
 
-quando lo si sorprende in quelle piccole solitarie [[Poems|poesie]] che parlano di emozioni
+quando lo si sorprende in quelle piccole solitarie poesie che parlano di emozioni
 
 raddolcite, di tramonto e di una fine quieta. Henley si gettò nella nuova
 
@@ -21255,7 +21255,7 @@ di essere parziale. Confesso dunque di ritenere che quest'ultima svolta dell'
 
 Età vittoriana fu una svolta sciagurata; molto si può dire a favore del contrario,
 
-e [[Hope|spero]] sarà detto. Ma sui fatti non vi può essere alcuna
+e [[concepts/hope|spero]] sarà detto. Ma sui fatti non vi può essere alcuna
 
 questione. L'imperialismo di Kipling era ugualmente remoto dalla
 
@@ -21265,7 +21265,7 @@ assai seriamente. Il mondo era pieno del calpestio di forze del tutto nuove,
 
 l'oro fu avvistato da lontano in una sorta di cinico romanticismo: i
 
-cannoni tuonarono attraverso l'Africa; e la grande [[Queen|regina]] morì.
+cannoni tuonarono attraverso l'Africa; e la grande [[characters/queen|regina]] morì.
 
 
 
@@ -21288,7 +21288,7 @@ country must extend peace: it has certainly often extended war. They
 
 thought that commerce inside a country must certainly promote
 
-prosperity; it has largely promoted [[Poverty|poverty]]. But for them these were
+prosperity; it has largely promoted [[concepts/poverty|poverty]]. But for them these were
 
 experiments; for us they ought to be lessons. If _we_ continue the
 
@@ -21304,7 +21304,7 @@ After having surveyed the immense field presented in such a volume as
 
 Mr. George Mair's _Modern English Literature_ in this series, or, more
 
-fully, in the _Cambridge [[history|History]] of Modern Literature_, the later volume
+fully, in the _Cambridge [[concepts/history|History]] of Modern Literature_, the later volume
 
 of Chambers' _English Literature_, Mr. Gosse's _History of Modern
 
@@ -21336,11 +21336,11 @@ Browning_, and A. C. Benson's _Fitzgerald_. At least two autobiographies
 
 must be named, those of Herbert Spencer and John Stuart Mill, and, as
 
-antidote to Newman's _Apologia_, the gay [[Self|self]]-revelations of Borrow, and
+antidote to Newman's _Apologia_, the gay [[concepts/self|self]]-revelations of Borrow, and
 
 Jefferies' _Story of My Heart_. Other considerable volumes are W. J.
 
-[[Cross]]'s _George Eliot_, Lionel Johnson's _Art of Thomas Hardy_, Mr. W. M.
+[[motifs/cross|Cross]]'s _George Eliot_, Lionel Johnson's _Art of Thomas Hardy_, Mr. W. M.
 
 Rossetti's _Dante G. Rossetti_, Colvin's _R. L. Stevenson_, J. W.
 
@@ -21376,7 +21376,7 @@ Literature_, etc.), Augustine Birrell (_Obiter Dicta_, _Essays_), W. E.
 
 Henley (_Views and Reviews_), J. Addington Symonds (_Essays_), J.
 
-Churton Collins, [[Richard]] Garnett, Stopford A. Brooke, George E. B.
+Churton Collins, [[characters/richard|Richard]] Garnett, Stopford A. Brooke, George E. B.
 
 Saintsbury (_History of Criticism_), R. H. Hutton (_Contemporary
 
@@ -21384,7 +21384,7 @@ Thought_), J. M. Robertson (_Modern Humanists_, _Buckle_, etc.), Frederic
 
 Harrison (_The Choice of Books_, etc.), Andrew Lang, Walter Bagehot,
 
-[[Edmund]] Gosse, Prof. Dowden, Sir Walter Raleigh, and Sir A. T. Quiller
+[[characters/edmund|Edmund]] Gosse, Prof. Dowden, Sir Walter Raleigh, and Sir A. T. Quiller
 
 Couch.
 
@@ -21436,7 +21436,7 @@ Faber, 46
 
 Fitzgerald, 192-95
 
-[[French Revolution]], Influence of, 18-21
+[[historical-references/french-revolution|French Revolution]], Influence of, 18-21
 
 Froude, 60, 62
 
@@ -21454,7 +21454,7 @@ Hood, Thomas, 25-27
 
 Hughes, Tom, 73
 
-[[Humour]], Victorian, 152-55
+[[works/humour-(chesterton)|Humour]], Victorian, 152-55
 
 Hunt, Leigh, 23
 
@@ -21472,7 +21472,7 @@ Kingsley, 40, 59, 64, 72, 134-35
 
 Kipling, R., 60, 249-50
 
-[[Lamb]], 23
+[[motifs/lamb|Lamb]], 23
 
 Landor, 23
 
@@ -21498,13 +21498,13 @@ Morris, Wm., 196-200, 232
 
 Newman, 38, 40, 45-48, 78, 159
 
-[[Novel]], The Modern, 90-99
+[[forms/novel|Novel]], The Modern, 90-99
 
 Oliphant, Mrs., 116-17
 
 "Ouida," 117
 
-[[Oxford]] Movement, 42-45
+[[settings/oxford|Oxford]] Movement, 42-45
 
 Pater, Walter, 69-71
 
@@ -21520,7 +21520,7 @@ Ruskin, 40, 62-8, 70, 158
 
 Science, Victorian, 208-12
 
-[[Shaw]], G. B., 60, 235-38
+[[works/shaw-(chesterton)|Shaw]], G. B., 60, 235-38
 
 Shelley, 22-23
 
@@ -21569,7 +21569,7 @@ paese dovesse estendere la pace: di certo ha spesso esteso la guerra. Credettero
 
 che il commercio all'interno di un paese dovesse senz'altro promuovere
 
-la prosperità; ha in larga misura promosso la [[Poverty|povertà]]. Ma per loro questi furono
+la prosperità; ha in larga misura promosso la [[concepts/poverty|povertà]]. Ma per loro questi furono
 
 esperimenti; per noi dovrebbero essere lezioni. Se _noi_ continuiamo l'uso
 
@@ -21585,7 +21585,7 @@ Dopo aver passato in rassegna l'immenso campo presentato in un volume come
 
 _Modern English Literature_ del sig. George Mair in questa collana, o, più
 
-ampiamente, nella _Cambridge [[history|History]] of Modern Literature_, il volume più recente
+ampiamente, nella _Cambridge [[concepts/history|History]] of Modern Literature_, il volume più recente
 
 della _English Literature_ di Chambers, la _History of Modern
 
@@ -21617,11 +21617,11 @@ Browning_ di G. K. Chesterton, e il _Fitzgerald_ di A. C. Benson. Almeno due aut
 
 vanno nominate, quelle di Herbert Spencer e John Stuart Mill, e, come
 
-antidoto all'_Apologia_ di Newman, le gaie [[Self|auto]]-rivelazioni di Borrow, e
+antidoto all'_Apologia_ di Newman, le gaie [[concepts/self|auto]]-rivelazioni di Borrow, e
 
 lo _Story of My Heart_ di Jefferies. Altri volumi considerevoli sono W. J.
 
-[[Cross]] col suo _George Eliot_, l'_Art of Thomas Hardy_ di Lionel Johnson, il sig. W. M.
+[[motifs/cross|Cross]] col suo _George Eliot_, l'_Art of Thomas Hardy_ di Lionel Johnson, il sig. W. M.
 
 Rossetti col _Dante G. Rossetti_, Colvin con _R. L. Stevenson_, J. W.
 
@@ -21657,7 +21657,7 @@ Literature_, ecc.), Augustine Birrell (_Obiter Dicta_, _Essays_), W. E.
 
 Henley (_Views and Reviews_), J. Addington Symonds (_Essays_), J.
 
-Churton Collins, [[Richard]] Garnett, Stopford A. Brooke, George E. B.
+Churton Collins, [[characters/richard|Richard]] Garnett, Stopford A. Brooke, George E. B.
 
 Saintsbury (_History of Criticism_), R. H. Hutton (_Contemporary
 
@@ -21665,7 +21665,7 @@ Thought_), J. M. Robertson (_Modern Humanists_, _Buckle_, ecc.), Frederic
 
 Harrison (_The Choice of Books_, ecc.), Andrew Lang, Walter Bagehot,
 
-[[Edmund]] Gosse, il prof. Dowden, Sir Walter Raleigh, e Sir A. T. Quiller
+[[characters/edmund|Edmund]] Gosse, il prof. Dowden, Sir Walter Raleigh, e Sir A. T. Quiller
 
 Couch.
 
@@ -21717,7 +21717,7 @@ Faber, 46
 
 Fitzgerald, 192-95
 
-[[French Revolution|Rivoluzione francese]], Influenza della, 18-21
+[[historical-references/french-revolution|Rivoluzione francese]], Influenza della, 18-21
 
 Froude, 60, 62
 
@@ -21735,7 +21735,7 @@ Hood, Thomas, 25-27
 
 Hughes, Tom, 73
 
-[[Humour|Umorismo]], vittoriano, 152-55
+Umorismo, vittoriano, 152-55
 
 Hunt, Leigh, 23
 
@@ -21753,7 +21753,7 @@ Kingsley, 40, 59, 64, 72, 134-35
 
 Kipling, R., 60, 249-50
 
-[[Lamb]], 23
+[[motifs/lamb|Lamb]], 23
 
 Landor, 23
 
@@ -21779,13 +21779,13 @@ Morris, Wm., 196-200, 232
 
 Newman, 38, 40, 45-48, 78, 159
 
-[[Novel|Romanzo]], Il moderno, 90-99
+[[forms/novel|Romanzo]], Il moderno, 90-99
 
 Oliphant, sig.ra, 116-17
 
 "Ouida," 117
 
-Movimento di [[Oxford]], 42-45
+Movimento di [[settings/oxford|Oxford]], 42-45
 
 Pater, Walter, 69-71
 
@@ -21801,7 +21801,7 @@ Ruskin, 40, 62-8, 70, 158
 
 Scienza, vittoriana, 208-12
 
-[[Shaw]], G. B., 60, 235-38
+[[works/shaw-(chesterton)|Shaw]], G. B., 60, 235-38
 
 Shelley, 22-23
 

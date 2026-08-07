@@ -19,15 +19,15 @@ tags:
 The Judgment Of England  
 
 "Ill fares the land, to hastening ills a prey  
-Where Wealth accumulates and Men [[Decay|decay]]."  
+Where Wealth accumulates and Men [[motifs/decay|decay]]."  
 So rang of old the noble voice in vain  
 O'er the Last Peasants wandering on the plain,  
-Doom has reversed the [[Riddle|riddle]] and the rhyme,  
+Doom has reversed the [[forms/riddle|riddle]] and the rhyme,  
 While sinks the commerce reared upon that crime,  
 The thriftless towns litter with lives undone,  
-To whom our [[Madness|madness]] left no joy but one;  
+To whom our [[concepts/madness|madness]] left no joy but one;  
 And irony that glares like Judgment Day  
-Sees Men accumulate and Wealth [[Decay|decay]].
+Sees Men accumulate and Wealth [[motifs/decay|decay]].
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -37,15 +37,15 @@ Sees Men accumulate and Wealth [[Decay|decay]].
 Il Giudizio dell'Inghilterra  
 
 "Mal se la cava la terra, preda di mali incalzanti,  
-dove la Ricchezza s'accumula e gli Uomini [[Decay|deperiscono]]."  
+dove la Ricchezza s'accumula e gli Uomini [[motifs/decay|deperiscono]]."  
 Così un tempo invano risuonò la nobile voce  
 sugli Ultimi Contadini erranti per la piana,  
-il Fato ha rovesciato l'[[Riddle|enigma]] e la rima,  
+il Fato ha rovesciato l'[[forms/riddle|enigma]] e la rima,  
 mentre affonda il commercio innalzato su quel delitto,  
 le città sprecone si riempiono di vite disfatte,  
-cui la nostra [[Madness|follia]] non lasciò che una gioia sola;  
+cui la nostra [[concepts/madness|follia]] non lasciò che una gioia sola;  
 e l'ironia che sfolgora come il Giorno del Giudizio  
-vede gli Uomini accumularsi e la Ricchezza [[Decay|deperire]].
+vede gli Uomini accumularsi e la Ricchezza [[motifs/decay|deperire]].
 
 
 
@@ -57,15 +57,15 @@ vede gli Uomini accumularsi e la Ricchezza [[Decay|deperire]].
 The Judgment Of England  
 
 "Ill fares the land, to hastening ills a prey  
-Where Wealth accumulates and Men [[Decay|decay]]."  
+Where Wealth accumulates and Men [[motifs/decay|decay]]."  
 So rang of old the noble voice in vain  
 O'er the Last Peasants wandering on the plain,  
-Doom has reversed the [[Riddle|riddle]] and the rhyme,  
+Doom has reversed the [[forms/riddle|riddle]] and the rhyme,  
 While sinks the commerce reared upon that crime,  
 The thriftless towns litter with lives undone,  
-To whom our [[Madness|madness]] left no joy but one;  
+To whom our [[concepts/madness|madness]] left no joy but one;  
 And irony that glares like Judgment Day  
-Sees Men accumulate and Wealth [[Decay|decay]].
+Sees Men accumulate and Wealth [[motifs/decay|decay]].
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -75,12 +75,12 @@ Sees Men accumulate and Wealth [[Decay|decay]].
 Il Giudizio dell'Inghilterra  
 
 "Mal se la cava la terra, preda di mali incalzanti,  
-dove la Ricchezza s'accumula e gli Uomini [[Decay|deperiscono]]."  
+dove la Ricchezza s'accumula e gli Uomini [[motifs/decay|deperiscono]]."  
 Così un tempo invano risuonò la nobile voce  
 sugli Ultimi Contadini erranti per la piana,  
-il Fato ha rovesciato l'[[Riddle|enigma]] e la rima,  
+il Fato ha rovesciato l'[[forms/riddle|enigma]] e la rima,  
 mentre affonda il commercio innalzato su quel delitto,  
 le città sprecone si riempiono di vite disfatte,  
-cui la nostra [[Madness|follia]] non lasciò che una gioia sola;  
+cui la nostra [[concepts/madness|follia]] non lasciò che una gioia sola;  
 e l'ironia che sfolgora come il Giorno del Giudizio  
-vede gli Uomini accumularsi e la Ricchezza [[Decay|deperire]].
+vede gli Uomini accumularsi e la Ricchezza [[motifs/decay|deperire]].

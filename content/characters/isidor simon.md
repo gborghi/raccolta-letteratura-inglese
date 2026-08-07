@@ -14,4 +14,10 @@ The shrewd Jewish banker of Pavonia whose financial acumen and reflections on gr
 
 <div class="concept-works" data-slug="characters/isidor-simon"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/fourfaultlessfelons-(chesterton)|FourFaultlessFelons (Chesterton)]]
+
+</div>
+
 #graph/character

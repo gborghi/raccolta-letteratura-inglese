@@ -44,7 +44,7 @@ tags:
   - character/the_fool
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Crown · Pride · Fortune's Wheel]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/crown-·-pride-·-fortune's-wheel|Crown · Pride · Fortune's Wheel]]
 
 > [!abstract] 
 > Shakespeare's great tragedy in blank verse on the aged King Lear who divides his kingdom by flattery, descends into madness and the storm, and is broken by filial ingratitude; central are kingship, the natural order, madness, suffering, and the question of justice in a pitiless world.
@@ -77,13 +77,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]], [[Fortune's Wheel]], [[Seven Ages of Man]]
-**Archetypes:** [[King]], [[Tragic Hero]], [[Fool]], [[Villain]], [[Outsider]]
-**Motifs:** [[Storm]], [[Madness (2)]], [[Eyes and Sight]], [[Clothing and Costume]], [[Animals]]
-**Themes & Concepts:** [[Kingship and Legitimacy]], [[Madness]], [[Justice Right and Wrong]], [[Natural Order]], [[Order vs Chaos]], [[Power and Corruption]], [[Pride]], [[Grief and Loss]], [[Good vs Evil]], [[Doubt]]
-**Forms & Genres:** [[Tragedy]], [[Blank Verse]]
-**Settings:** [[Medieval England (2)]]
-**Characters:** [[King Lear]], [[Cordelia]], [[Goneril]], [[Regan]], [[Edmund]], [[Edgar]], [[Gloucester]], [[Kent]], [[Fool (2)]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/seven-ages-of-man|Seven Ages of Man]]
+**Archetypes:** [[archetypes/king|King]], [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/fool|Fool]], [[archetypes/villain|Villain]], [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/storm|Storm]], [[motifs/madness-(2)|Madness (2)]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/animals|Animals]]
+**Themes & Concepts:** [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/madness|Madness]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/natural-order|Natural Order]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/pride|Pride]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/doubt|Doubt]]
+**Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/blank-verse|Blank Verse]]
+**Settings:** [[settings/medieval-england-(2)|Medieval England (2)]]
+**Characters:** [[characters/king-lear|King Lear]], [[characters/cordelia|Cordelia]], [[characters/goneril|Goneril]], [[characters/regan|Regan]], [[characters/edmund|Edmund]], [[characters/edgar|Edgar]], [[characters/gloucester|Gloucester]], [[characters/kent|Kent]], [[characters/fool-(2)|Fool (2)]]
 
 ## Testo integrale / Full text
 

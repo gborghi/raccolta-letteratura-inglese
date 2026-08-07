@@ -14,4 +14,11 @@ Named as the 'literal lunatic' whose imagination conjured the phantom of the Sup
 
 <div class="concept-works" data-slug="characters/nietzsche"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-persecution-of-religion-(chesterton)|The Persecution of Religion (Chesterton)]]
+- [[works/ortho14-(chesterton)|ortho14 (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -29,20 +29,20 @@ tags:
   - character/henry_harcourt_reilly
 ---
 
-*by Eliot*  ·  **Cluster:** [[Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
+*by Eliot*  ·  **Cluster:** [[clusters/spiritual-emptiness-·-waste-land-(sterility)-·-greek-tragedy|Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
 
 > [!abstract] 
 > Eliot's drawing-room comedy with a spiritual core, loosely modelled on Euripides' Alcestis: a psychiatrist-guardian (Reilly) directs the Chamberlaynes toward reconciliation in ordinary marriage and Celia toward a vocation of sanctity and martyrdom.
 
 ## Connections
 
-**Archetypes:** [[Mentor]], [[Martyr Saint]]
-**Motifs:** [[Wine and Drink]], [[Concealment Hidden Identity]]
-**Themes & Concepts:** [[Grace and Redemption]], [[Martyrdom]], [[Spiritual Emptiness]], [[Marriage and Fidelity]], [[Alienation]], [[Identity]], [[Conversion]], [[Common Man]]
-**Forms & Genres:** [[Verse Drama]], [[Comedy]]
-**Historical References:** [[Greek Tragedy]]
-**Settings:** [[London]]
-**Characters:** [[Edward Chamberlayne]], [[Lavinia Chamberlayne]], [[Celia Coplestone]], [[Sir Henry Harcourt-Reilly]]
+**Archetypes:** [[archetypes/mentor|Mentor]], [[archetypes/martyr-saint|Martyr Saint]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]]
+**Themes & Concepts:** [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/martyrdom|Martyrdom]], [[concepts/spiritual-emptiness|Spiritual Emptiness]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/alienation|Alienation]], [[concepts/identity|Identity]], [[concepts/conversion|Conversion]], [[concepts/common-man|Common Man]]
+**Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/comedy|Comedy]]
+**Historical References:** [[historical-references/greek-tragedy|Greek Tragedy]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/edward-chamberlayne|Edward Chamberlayne]], [[characters/lavinia-chamberlayne|Lavinia Chamberlayne]], [[characters/celia-coplestone|Celia Coplestone]], [[characters/sir-henry-harcourt-reilly|Sir Henry Harcourt-Reilly]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ The Danish storyteller whose fairy tales Chesterton holds up as the true, humane
 
 <div class="concept-works" data-slug="characters/hans-andersen"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thecrimesofengland-(chesterton)|TheCrimesOfEngland (Chesterton)]]
+
+</div>
+
 #graph/character

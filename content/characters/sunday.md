@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/sunday"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thursday-(chesterton)|thursday (Chesterton)]]
+
+</div>
+
 #graph/character

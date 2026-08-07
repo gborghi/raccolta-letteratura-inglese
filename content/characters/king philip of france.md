@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/king-philip-of-france"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/king-john-(shakespeare)|KING JOHN (Shakespeare)]]
+
+</div>
+
 #graph/character

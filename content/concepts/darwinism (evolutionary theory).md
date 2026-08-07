@@ -14,4 +14,12 @@ The theory of natural selection itself, whose evidentiary status and rhetorical 
 
 <div class="concept-works" data-slug="concepts/darwinism-(evolutionary-theory)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/doubts-about-darwinism-(chesterton)|Doubts About Darwinism (Chesterton)]]
+- [[works/return-of-the-angels-(chesterton)|Return of the Angels (Chesterton)]]
+- [[works/the-lost-world-(conan-doyle)|The Lost World (Conan Doyle)]]
+
+</div>
+
 #graph/concept

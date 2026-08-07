@@ -25,17 +25,17 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Time · Tempus Fugit · Clock]]
+*by Poe*  ·  **Cluster:** [[clusters/time-·-tempus-fugit-·-clock|Time · Tempus Fugit · Clock]]
 
 > [!abstract] 
 > An onomatopoeic lyric tracing the bells of life from merry sledge-bells through wedding-bells to alarm-bells and finally the funereal iron tolling of death; a sonic meditation on time, mutability and mortality.
 
 ## Connections
 
-**Topoi:** [[Tempus Fugit]], [[Seven Ages of Man]], [[Memento Mori]]
-**Motifs:** [[Bells]], [[Time]], [[Mutability]], [[Death]], [[Music and Song]], [[Marriage]], [[Fire]], [[Moon]], [[Ghosts]]
-**Themes & Concepts:** [[Mortality]], [[Transience]], [[Terror and Horror]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/tempus-fugit|Tempus Fugit]], [[topoi/seven-ages-of-man|Seven Ages of Man]], [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/bells|Bells]], [[motifs/time|Time]], [[motifs/mutability|Mutability]], [[motifs/death|Death]], [[motifs/music-and-song|Music and Song]], [[motifs/marriage|Marriage]], [[motifs/fire|Fire]], [[motifs/moon|Moon]], [[motifs/ghosts|Ghosts]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/transience|Transience]], [[concepts/terror-and-horror|Terror and Horror]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

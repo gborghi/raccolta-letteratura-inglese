@@ -14,4 +14,10 @@ The man convicted as the 'moderate murderer' whose crime is unravelled to reveal
 
 <div class="concept-works" data-slug="characters/john-hume"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/fourfaultlessfelons-(chesterton)|FourFaultlessFelons (Chesterton)]]
+
+</div>
+
 #graph/character

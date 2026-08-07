@@ -47,7 +47,7 @@ tags:
   - character/bianca
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/blood-·-verse-drama-·-revenge|Blood · Verse Drama · Revenge]]
 
 > [!abstract] 
 > A domestic tragedy in which the Moorish general Othello is poisoned by Iago's deception into murderous jealousy of his innocent wife Desdemona; central themes of jealousy, deception, the outsider, and appearance versus reality.
@@ -72,14 +72,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Combat Strife]]
-**Archetypes:** [[Villain]], [[Outsider]], [[Tragic Hero]], [[Innocent]], [[Shadow]]
-**Motifs:** [[Blood]], [[Death]], [[Eyes and Sight]], [[Light and Dark]], [[Clothing and Costume]], [[Animals]]
-**Themes & Concepts:** [[Jealousy]], [[Deception]], [[Appearance vs Reality]], [[Alienation]], [[Romantic Love]], [[Marriage and Fidelity]], [[Revenge]], [[Good vs Evil]], [[Pride]], [[Guilt]], [[Mortality]]
-**Forms & Genres:** [[Tragedy]], [[Verse Drama]], [[Blank Verse]]
-**Historical References:** [[Orient Arabia]]
-**Settings:** [[Venice]], [[Court]], [[Europe]]
-**Characters:** [[Othello]], [[Iago]], [[Desdemona]], [[Cassio]], [[Emilia]], [[Roderigo]], [[Brabantio]], [[Bianca]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]]
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/outsider|Outsider]], [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/innocent|Innocent]], [[archetypes/shadow|Shadow]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/death|Death]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/light-and-dark|Light and Dark]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/animals|Animals]]
+**Themes & Concepts:** [[concepts/jealousy|Jealousy]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/alienation|Alienation]], [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/revenge|Revenge]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/pride|Pride]], [[concepts/guilt|Guilt]], [[concepts/mortality|Mortality]]
+**Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
+**Historical References:** [[historical-references/orient-arabia|Orient Arabia]]
+**Settings:** [[settings/venice|Venice]], [[settings/court|Court]], [[settings/europe|Europe]]
+**Characters:** [[characters/othello|Othello]], [[characters/iago|Iago]], [[characters/desdemona|Desdemona]], [[characters/cassio|Cassio]], [[characters/emilia|Emilia]], [[characters/roderigo|Roderigo]], [[characters/brabantio|Brabantio]], [[characters/bianca|Bianca]]
 
 ## Testo integrale / Full text
 

@@ -59,7 +59,7 @@ tags:
   - archetype/great_mother
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
+*by Chesterton*  ·  **Cluster:** [[clusters/heroism-·-hero-·-last-stand|Heroism · Hero · Last Stand]]
 
 > [!abstract] 
 > Chesterton's epic ballad of King Alfred's last stand against the pagan Danes at Ethandune, framed by a vision of the Virgin; the struggle of Christianity and heathenism, heroism, hope without guarantee.
@@ -78,14 +78,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Last Stand]], [[War as Glory]], [[Quest]]
-**Archetypes:** [[King]], [[Hero]], [[Villain]], [[Great Mother]]
-**Motifs:** [[Horse]], [[Swords and Weapons]], [[Supernatural]], [[Blood]], [[Battlefield (2)]], [[Fire]], [[Sea]], [[Music and Song]], [[Flags and Banners]], [[Concealment Hidden Identity]], [[Sea and Voyage]]
-**Themes & Concepts:** [[Faith]], [[Heroism]], [[War and its Cost]], [[Good vs Evil]], [[Nationalism and Patriotism]], [[Honour]], [[Fate and Free Will]], [[Grace and Redemption]], [[Hope]], [[Conversion]], [[History]]
-**Forms & Genres:** [[Epic]], [[Ballad Ballade]], [[Narrative Poem]]
-**Historical References:** [[King Alfred]], [[Battle of Ethandun]], [[Danish Invasions]], [[Christianity]], [[Norse Pagan Myth]], [[Medieval England]]
-**Settings:** [[Battlefield]], [[Rural England]]
-**Characters:** [[King Alfred (2)]], [[Virgin Mary]], [[Guthrum]], [[Colan]], [[Eldred]], [[Mark of Italy]], [[Elf]], [[Ogier]], [[Harold]], [[Gorlias]]
+**Topoi:** [[topoi/last-stand|Last Stand]], [[topoi/war-as-glory|War as Glory]], [[topoi/quest|Quest]]
+**Archetypes:** [[archetypes/king|King]], [[archetypes/hero|Hero]], [[archetypes/villain|Villain]], [[archetypes/great-mother|Great Mother]]
+**Motifs:** [[motifs/horse|Horse]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/supernatural|Supernatural]], [[motifs/blood|Blood]], [[motifs/battlefield-(2)|Battlefield (2)]], [[motifs/fire|Fire]], [[motifs/sea|Sea]], [[motifs/music-and-song|Music and Song]], [[motifs/flags-and-banners|Flags and Banners]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/heroism|Heroism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/honour|Honour]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/hope|Hope]], [[concepts/conversion|Conversion]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/epic|Epic]], [[forms/ballad-ballade|Ballad Ballade]], [[forms/narrative-poem|Narrative Poem]]
+**Historical References:** [[historical-references/king-alfred|King Alfred]], [[historical-references/battle-of-ethandun|Battle of Ethandun]], [[historical-references/danish-invasions|Danish Invasions]], [[historical-references/christianity|Christianity]], [[historical-references/norse-pagan-myth|Norse Pagan Myth]], [[historical-references/medieval-england|Medieval England]]
+**Settings:** [[settings/battlefield|Battlefield]], [[settings/rural-england|Rural England]]
+**Characters:** [[characters/king-alfred-(2)|King Alfred (2)]], [[characters/virgin-mary|Virgin Mary]], [[characters/guthrum|Guthrum]], [[characters/colan|Colan]], [[characters/eldred|Eldred]], [[characters/mark-of-italy|Mark of Italy]], [[characters/elf|Elf]], [[characters/ogier|Ogier]], [[characters/harold|Harold]], [[characters/gorlias|Gorlias]]
 
 ## Testo integrale / Full text
 

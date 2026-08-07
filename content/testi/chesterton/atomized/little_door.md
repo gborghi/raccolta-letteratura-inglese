@@ -24,12 +24,12 @@ Our gift of finest gold,
 Gold that was never bought nor sold;  
 Myrrh to be strewn about his bed;  
 Incense in clouds about his head;  
-All for the [[Child]] who stirs not in his [[Sleep|sleep]].  
+All for the [[archetypes/child|Child]] who stirs not in his [[motifs/sleep|sleep]].  
 But holy slumber holds with ass and sheep.  
 
 Bend low about his bed, for each he has a gift;  
 See how his eyes awake, lift up your hands, O lift!  
-For gold, he gives a keen-edged [[Sword|sword]]  
+For gold, he gives a keen-edged sword  
 (Defend with it Thy little Lord!),  
 For incense, smoke of battle red.  
 Myrrh for the honoured happy dead;  
@@ -52,12 +52,12 @@ il nostro dono d'oro finissimo,
 oro che mai fu comprato né venduto;  
 mirra da spargere intorno al suo giaciglio;  
 incenso a nuvole intorno al suo capo;  
-tutto per il [[Child|Bambino]] che non si desta nel suo [[Sleep|sonno]],  
+tutto per il [[archetypes/child|Bambino]] che non si desta nel suo [[motifs/sleep|sonno]],  
 ma un sacro sopore lo tiene con l'asino e la pecora.  
 
 Chinàti intorno al suo giaciglio, ché per ciascuno ha un dono;  
 guarda come i suoi occhi si destano, levate le mani, oh levate!  
-Per l'oro, egli dona una [[Sword|spada]] affilata  
+Per l'oro, egli dona una spada affilata  
 (difendi con essa il tuo piccolo Signore!),  
 per l'incenso, il fumo rosso della battaglia.  
 Mirra per gli onorati, felici morti;  
@@ -82,12 +82,12 @@ Our gift of finest gold,
 Gold that was never bought nor sold;  
 Myrrh to be strewn about his bed;  
 Incense in clouds about his head;  
-All for the [[Child]] who stirs not in his [[Sleep|sleep]].  
+All for the [[archetypes/child|Child]] who stirs not in his [[motifs/sleep|sleep]].  
 But holy slumber holds with ass and sheep.  
 
 Bend low about his bed, for each he has a gift;  
 See how his eyes awake, lift up your hands, O lift!  
-For gold, he gives a keen-edged [[Sword|sword]]  
+For gold, he gives a keen-edged sword  
 (Defend with it Thy little Lord!),  
 For incense, smoke of battle red.  
 Myrrh for the honoured happy dead;  
@@ -110,12 +110,12 @@ il nostro dono d'oro finissimo,
 oro che mai fu comprato né venduto;  
 mirra da spargere intorno al suo giaciglio;  
 incenso a nuvole intorno al suo capo;  
-tutto per il [[Child|Bambino]] che non si desta nel suo [[Sleep|sonno]],  
+tutto per il [[archetypes/child|Bambino]] che non si desta nel suo [[motifs/sleep|sonno]],  
 ma un sacro sopore lo tiene con l'asino e la pecora.  
 
 Chinàti intorno al suo giaciglio, ché per ciascuno ha un dono;  
 guarda come i suoi occhi si destano, levate le mani, oh levate!  
-Per l'oro, egli dona una [[Sword|spada]] affilata  
+Per l'oro, egli dona una spada affilata  
 (difendi con essa il tuo piccolo Signore!),  
 per l'incenso, il fumo rosso della battaglia.  
 Mirra per gli onorati, felici morti;  

@@ -40,7 +40,7 @@ tags:
   - character/hastings
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Wars of the Roses]]
+*by Shakespeare*  ·  **Cluster:** [[historical-references/wars-of-the-roses|Wars of the Roses]]
 
 > [!abstract] 
 > History/tragedy charting the deformed Machiavel Richard of Gloucester's murderous rise to the throne and his fall at Bosworth. Central themes: ambition, power and corruption, conscience and guilt, the providential end of the Wars of the Roses.
@@ -77,13 +77,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Fortune's Wheel]], [[Theatrum Mundi]]
-**Archetypes:** [[Villain]], [[Tyrant]], [[Usurper]], [[Ghost]]
-**Motifs:** [[Crown]], [[Dreams]], [[Ghosts]], [[Blood]]
-**Themes & Concepts:** [[Ambition]], [[Power and Corruption]], [[Kingship and Legitimacy]], [[Guilt]], [[Conscience]], [[Deception]], [[Providence]], [[Fate and Free Will]]
-**Forms & Genres:** [[History Play]], [[Tragedy]], [[Blank Verse]]
-**Historical References:** [[Wars of the Roses]], [[Medieval England]]
-**Characters:** [[Richard III]], [[Buckingham]], [[Queen Margaret]], [[Lady Anne]], [[Clarence]], [[Queen Elizabeth]], [[Earl of Richmond]], [[Hastings]]
+**Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/theatrum-mundi|Theatrum Mundi]]
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/tyrant|Tyrant]], [[archetypes/usurper|Usurper]], [[archetypes/ghost|Ghost]]
+**Motifs:** [[motifs/crown|Crown]], [[motifs/dreams|Dreams]], [[motifs/ghosts|Ghosts]], [[motifs/blood|Blood]]
+**Themes & Concepts:** [[concepts/ambition|Ambition]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]], [[concepts/deception|Deception]], [[concepts/providence|Providence]], [[concepts/fate-and-free-will|Fate and Free Will]]
+**Forms & Genres:** [[forms/history-play|History Play]], [[forms/tragedy|Tragedy]], [[forms/blank-verse|Blank Verse]]
+**Historical References:** [[historical-references/wars-of-the-roses|Wars of the Roses]], [[historical-references/medieval-england|Medieval England]]
+**Characters:** [[characters/richard-iii|Richard III]], [[characters/buckingham|Buckingham]], [[characters/queen-margaret|Queen Margaret]], [[characters/lady-anne|Lady Anne]], [[characters/clarence|Clarence]], [[characters/queen-elizabeth|Queen Elizabeth]], [[characters/earl-of-richmond|Earl of Richmond]], [[characters/hastings|Hastings]]
 
 ## Testo integrale / Full text
 

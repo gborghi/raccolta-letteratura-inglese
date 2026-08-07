@@ -33,7 +33,7 @@ tags:
 
 # diabolist
 
-*by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
+*by Chesterton*  ·  **Cluster:** [[clusters/temptation-·-good-vs-evil-·-serpent-snake|Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 
 > Autobiographical essay recounting a terrifying art-school conversation with a devil-worshipper, dramatising the moment Chesterton became orthodox and the abyss between good and evil.
@@ -52,16 +52,16 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]], [[Classical Antiquity]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/classical-antiquity|Classical Antiquity]]
 
-**Settings:** [[London]]
+**Settings:** [[settings/london|London]]
 
-**Topoi:** [[Temptation (2)]]
+**Topoi:** [[topoi/temptation-(2)|Temptation (2)]]
 
-**Archetypes:** [[Satanic Figure]]
-**Motifs:** [[Fire]], [[Light and Dark]], [[Stars]]
-**Themes & Concepts:** [[Good vs Evil]], [[Temptation]], [[Conscience]], [[Conversion]], [[Faith and Doubt]], [[Sin and the Fall]], [[Terror and Horror]], [[Paradox]], [[Despair]], [[Unseen The Hidden]]
-**Forms & Genres:** [[Essay]], [[Fictional Autobiography]], [[Apologetics]], [[Nonfiction]]
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]]
+**Motifs:** [[motifs/fire|Fire]], [[motifs/light-and-dark|Light and Dark]], [[motifs/stars|Stars]]
+**Themes & Concepts:** [[concepts/good-vs-evil|Good vs Evil]], [[concepts/temptation|Temptation]], [[concepts/conscience|Conscience]], [[concepts/conversion|Conversion]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/paradox|Paradox]], [[concepts/despair|Despair]], [[concepts/unseen-the-hidden|Unseen The Hidden]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/fictional-autobiography|Fictional Autobiography]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

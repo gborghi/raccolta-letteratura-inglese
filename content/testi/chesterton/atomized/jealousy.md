@@ -14,20 +14,20 @@ tags:
 <span class="atom-split" data-atom="jealousy" data-title="Jealousy" data-chapter="" data-kind="intro"></span>
 
 
-[[Jealousy|JEALOUSY]]  
+[[concepts/jealousy|JEALOUSY]]  
 
-"The Roman [[Catholic Church]] has never  
-forgiven us for converting Sir [[arthur|Arthur]] Conan  
+"The Roman [[historical-references/catholic-church|Catholic Church]] has never  
+forgiven us for converting Sir [[characters/arthur|Arthur]] Conan  
 Doyle from his Agnosticism; and when Men  
 like Mr. Dennis Bradley can no longer be  
-Content with the old [[Faith]], a Spirit of  
-[[Jealousy]] is naturally roused."  
+Content with the old [[concepts/faith|Faith]], a Spirit of  
+[[concepts/jealousy|Jealousy]] is naturally roused."  
 --A Spiritualist Paper  
 
 She sat upon her Seven Hills  
 She rent the scarlet robes about her,  
 Nor yet in her two thousand years  
-Had ever grieved that men should [[Doubt|doubt]] her;  
+Had ever grieved that men should [[concepts/doubt|doubt]] her;  
 But what new horror shakes the mind  
 Making her moan and mutter madly;  
 Lo! Rome's high heart is broken at last  
@@ -36,16 +36,16 @@ Her foes have borrowed Dennis Bradley.
 If she must lean on lesser props  
 Of earthly fame or ancient art,  
 Make shift with Raphael and Racine  
-Put up with [[Dante]] and Descartes,  
+Put up with [[historical-references/dante|Dante]] and Descartes,  
 Not wholly can she mask her grief  
 But touch the wound and murmur sadly,  
-"These lesser things are theirs to [[Love|love]]  
-Who lose the [[Love|love]] of Mr. Bradley."  
+"These lesser things are theirs to [[motifs/love|love]]  
+Who lose the [[motifs/love|love]] of Mr. Bradley."  
 
 She saw great Origen depart  
 And Photius rend the world asunder,  
 Her cry to all the East rolled back  
-In [[Islam]] its ironic thunder,  
+In [[historical-references/islam|Islam]] its ironic thunder,  
 She lost Jerusalem and the North  
 Accepting these arrangements gladly  
 Until it came to be a case  
@@ -81,20 +81,20 @@ The patronage of Dennis Bradley.
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Jealousy|GELOSIA]]  
+[[concepts/jealousy|GELOSIA]]  
 
-«La [[Catholic Church|Chiesa Cattolica Romana]] non ci ha mai  
-perdonato d'aver convertito Sir [[arthur|Arthur]] Conan  
+«La [[historical-references/catholic-church|Chiesa Cattolica Romana]] non ci ha mai  
+perdonato d'aver convertito Sir [[characters/arthur|Arthur]] Conan  
 Doyle dal suo Agnosticismo; e quando Uomini  
 come il signor Dennis Bradley non sanno più  
-accontentarsi dell'antica [[Faith|Fede]], uno Spirito di  
-[[Jealousy|Gelosia]] naturalmente si desta.»  
+accontentarsi dell'antica [[concepts/faith|Fede]], uno Spirito di  
+[[concepts/jealousy|Gelosia]] naturalmente si desta.»  
 --Un giornale spiritista  
 
 Sedeva sui suoi Sette Colli,  
 si stracciava indosso le vesti scarlatte,  
 né mai nei suoi duemila anni  
-s'era doluta che gli uomini la mettessero in [[Doubt|dubbio]];  
+s'era doluta che gli uomini la mettessero in [[concepts/doubt|dubbio]];  
 ma quale nuovo orrore le scuote la mente  
 e la fa gemere e farneticare da folle;  
 ecco! l'alto cuore di Roma è infine spezzato,  
@@ -103,16 +103,16 @@ i suoi nemici le hanno carpito Dennis Bradley.
 Se deve appoggiarsi a puntelli minori  
 di fama terrena o d'arte antica,  
 arrangiarsi con Raffaello e con Racine,  
-rassegnarsi a [[Dante]] e a Cartesio,  
+rassegnarsi a [[historical-references/dante|Dante]] e a Cartesio,  
 non del tutto sa mascherare il suo dolore,  
 ma tocca la ferita e mormora mesta:  
-«Queste cose minori sono da [[Love|amare]] per coloro  
-che perdono l'[[Love|amore]] del signor Bradley.»  
+«Queste cose minori sono da [[motifs/love|amare]] per coloro  
+che perdono l'[[motifs/love|amore]] del signor Bradley.»  
 
 Vide il grande Origene andarsene  
 e Fozio lacerare il mondo in due,  
 il suo grido a tutto l'Oriente le tornò indietro  
-nell'[[Islam]] come suo ironico tuono,  
+nell'[[historical-references/islam|Islam]] come suo ironico tuono,  
 perdette Gerusalemme e il Nord  
 accettando di buon grado questi accomodamenti  
 finché non si giunse al caso  
@@ -150,20 +150,20 @@ il patrocinio di Dennis Bradley.
 <span class="atom-split" data-atom="part--part_01" data-title="Jealousy (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,concept/doubt,concept/faith,concept/jealousy,histref/catholic_church,histref/dante,histref/islam,character/arthur"></span>
 
 
-[[Jealousy|JEALOUSY]]  
+[[concepts/jealousy|JEALOUSY]]  
 
-"The Roman [[Catholic Church]] has never  
-forgiven us for converting Sir [[arthur|Arthur]] Conan  
+"The Roman [[historical-references/catholic-church|Catholic Church]] has never  
+forgiven us for converting Sir [[characters/arthur|Arthur]] Conan  
 Doyle from his Agnosticism; and when Men  
 like Mr. Dennis Bradley can no longer be  
-Content with the old [[Faith]], a Spirit of  
-[[Jealousy]] is naturally roused."  
+Content with the old [[concepts/faith|Faith]], a Spirit of  
+[[concepts/jealousy|Jealousy]] is naturally roused."  
 --A Spiritualist Paper  
 
 She sat upon her Seven Hills  
 She rent the scarlet robes about her,  
 Nor yet in her two thousand years  
-Had ever grieved that men should [[Doubt|doubt]] her;  
+Had ever grieved that men should [[concepts/doubt|doubt]] her;  
 But what new horror shakes the mind  
 Making her moan and mutter madly;  
 Lo! Rome's high heart is broken at last  
@@ -172,16 +172,16 @@ Her foes have borrowed Dennis Bradley.
 If she must lean on lesser props  
 Of earthly fame or ancient art,  
 Make shift with Raphael and Racine  
-Put up with [[Dante]] and Descartes,  
+Put up with [[historical-references/dante|Dante]] and Descartes,  
 Not wholly can she mask her grief  
 But touch the wound and murmur sadly,  
-"These lesser things are theirs to [[Love|love]]  
-Who lose the [[Love|love]] of Mr. Bradley."  
+"These lesser things are theirs to [[motifs/love|love]]  
+Who lose the [[motifs/love|love]] of Mr. Bradley."  
 
 She saw great Origen depart  
 And Photius rend the world asunder,  
 Her cry to all the East rolled back  
-In [[Islam]] its ironic thunder,  
+In [[historical-references/islam|Islam]] its ironic thunder,  
 She lost Jerusalem and the North  
 Accepting these arrangements gladly  
 Until it came to be a case  
@@ -217,20 +217,20 @@ The patronage of Dennis Bradley.
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Jealousy|GELOSIA]]  
+[[concepts/jealousy|GELOSIA]]  
 
-«La [[Catholic Church|Chiesa Cattolica Romana]] non ci ha mai  
-perdonato d'aver convertito Sir [[arthur|Arthur]] Conan  
+«La [[historical-references/catholic-church|Chiesa Cattolica Romana]] non ci ha mai  
+perdonato d'aver convertito Sir [[characters/arthur|Arthur]] Conan  
 Doyle dal suo Agnosticismo; e quando Uomini  
 come il signor Dennis Bradley non sanno più  
-accontentarsi dell'antica [[Faith|Fede]], uno Spirito di  
-[[Jealousy|Gelosia]] naturalmente si desta.»  
+accontentarsi dell'antica [[concepts/faith|Fede]], uno Spirito di  
+[[concepts/jealousy|Gelosia]] naturalmente si desta.»  
 --Un giornale spiritista  
 
 Sedeva sui suoi Sette Colli,  
 si stracciava indosso le vesti scarlatte,  
 né mai nei suoi duemila anni  
-s'era doluta che gli uomini la mettessero in [[Doubt|dubbio]];  
+s'era doluta che gli uomini la mettessero in [[concepts/doubt|dubbio]];  
 ma quale nuovo orrore le scuote la mente  
 e la fa gemere e farneticare da folle;  
 ecco! l'alto cuore di Roma è infine spezzato,  
@@ -239,16 +239,16 @@ i suoi nemici le hanno carpito Dennis Bradley.
 Se deve appoggiarsi a puntelli minori  
 di fama terrena o d'arte antica,  
 arrangiarsi con Raffaello e con Racine,  
-rassegnarsi a [[Dante]] e a Cartesio,  
+rassegnarsi a [[historical-references/dante|Dante]] e a Cartesio,  
 non del tutto sa mascherare il suo dolore,  
 ma tocca la ferita e mormora mesta:  
-«Queste cose minori sono da [[Love|amare]] per coloro  
-che perdono l'[[Love|amore]] del signor Bradley.»  
+«Queste cose minori sono da [[motifs/love|amare]] per coloro  
+che perdono l'[[motifs/love|amore]] del signor Bradley.»  
 
 Vide il grande Origene andarsene  
 e Fozio lacerare il mondo in due,  
 il suo grido a tutto l'Oriente le tornò indietro  
-nell'[[Islam]] come suo ironico tuono,  
+nell'[[historical-references/islam|Islam]] come suo ironico tuono,  
 perdette Gerusalemme e il Nord  
 accettando di buon grado questi accomodamenti  
 finché non si giunse al caso  

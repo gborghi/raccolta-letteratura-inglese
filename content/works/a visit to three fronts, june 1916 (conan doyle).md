@@ -25,7 +25,7 @@ tags:
   - archetype/hero
   - topos/war_as_glory
 ---
-*by Conan Doyle*  ·  **Cluster:** [[War and Empire · History · Nationalism and Patriotism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/war-and-empire-·-history-·-nationalism-and-patriotism|War and Empire · History · Nationalism and Patriotism]]
 
 > [!abstract] 
 > Conan Doyle's firsthand account of touring the British, Italian, and French front lines in 1916, visiting trenches, artillery observation posts, and the ruins of Ypres. He praises the soldiers of each Allied nation and reflects on strategy, morale, and inter-Allied cooperation.
@@ -38,10 +38,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]], [[Empire and Imperialism]], [[Suffering and Pain]], [[History]]
-**Motifs:** [[Fire]], [[Ruins the Abbey]]
-**Historical References:** [[First World War]]
-**Settings:** [[Battlefield]], [[France]], [[Italy]], [[Europe]]
-**Archetypes:** [[Hero]]
-**Topoi:** [[War as Glory]]
+**Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/suffering-and-pain|Suffering and Pain]], [[concepts/history|History]]
+**Motifs:** [[motifs/fire|Fire]], [[motifs/ruins-the-abbey|Ruins the Abbey]]
+**Historical References:** [[historical-references/first-world-war|First World War]]
+**Settings:** [[settings/battlefield|Battlefield]], [[settings/france|France]], [[settings/italy|Italy]], [[settings/europe|Europe]]
+**Archetypes:** [[archetypes/hero|Hero]]
+**Topoi:** [[topoi/war-as-glory|War as Glory]]

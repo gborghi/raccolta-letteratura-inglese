@@ -14,4 +14,10 @@ Norwegian playwright quoted for the maxim that 'the strongest leg is that which 
 
 <div class="concept-works" data-slug="historical-references/ibsen"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/one-leg-(chesterton)|one leg (Chesterton)]]
+
+</div>
+
 #graph/histref

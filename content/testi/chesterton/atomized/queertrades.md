@@ -25,7 +25,7 @@ Chapter 1
 The Tremendous Adventures of Major Brown
 
 Rabelais, or his wild illustrator Gustave Dore, must have had something to
-do with the designing of the things called flats in England and [[america|America]].
+do with the designing of the things called flats in England and [[settings/america|America]].
 There is something entirely Gargantuan in the idea of economising
 space by piling houses on top of each other, front doors and all.
 And in the chaos and complexity of those perpendicular streets
@@ -34,16 +34,16 @@ that the inquirer may find the offices of the Club of Queer Trades.
 It may be thought at the first glance that the name would attract
 and startle the passer-by, but nothing attracts or startles in
 these dim immense hives.  The passer-by is only looking for his own
-[[Melancholy|melancholy]] destination, the Montenegro Shipping Agency or the [[London]]
+[[concepts/melancholy|melancholy]] destination, the Montenegro Shipping Agency or the [[settings/london|London]]
 office of the Rutland Sentinel, and passes through the twilight
-passages as one passes through the twilight corridors of [[A Dream|a dream]].
+passages as one passes through the twilight corridors of a dream.
 If the Thugs set up a Strangers' Assassination Company in one
 of the great buildings in Norfolk Street, and sent in a mild man
 in spectacles to answer inquiries, no inquiries would be made.
 And the Club of Queer Trades reigns in a great edifice hidden
 like a fossil in a mighty cliff of fossils.
 
-The [[Nature|nature]] of this society, such as we afterwards discovered it to be,
+The [[concepts/nature|nature]] of this society, such as we afterwards discovered it to be,
 is soon and simply told.  It is an eccentric and Bohemian Club,
 of which the absolute condition of membership lies in this, that the
 candidate must have invented the method by which he earns his living.
@@ -52,10 +52,10 @@ requirement is given in the two principal rules.  First, it must
 not be a mere application or variation of an existing trade.
 Thus, for instance, the Club would not admit an insurance agent
 simply because instead of insuring men's furniture against being
-burnt in a [[Fire|fire]], he insured, let us say, their trousers against being
+burnt in a [[motifs/fire|fire]], he insured, let us say, their trousers against being
 torn by a mad dog.  The principle (as Sir Bradcock Burnaby-Bradcock,
 in the extraordinarily eloquent and soaring speech to the club on
-the occasion of the question being raised in the Stormby [[smith|Smith]] affair,
+the occasion of the question being raised in the Stormby Smith affair,
 said wittily and keenly) is the same.  Secondly, the trade must be
 a genuine commercial source of income, the support of its inventor.
 Thus the Club would not receive a man simply because he chose to pass
@@ -66,10 +66,10 @@ one doesn't know whether to laugh or cry.
 
 The discovery of this strange society was a curiously refreshing thing;
 to realize that there were ten new trades in the world was like
-looking at the first [[Ship|ship]] or the first plough.  It made a man feel
-what he should feel, that he was still in the [[Childhood|childhood]] of the world.
-That I should have come at last upon so singular a [[Body|body]] was,
-I may say without [[Vanity|vanity]], not altogether singular, for I
+looking at the first [[motifs/ship|ship]] or the first plough.  It made a man feel
+what he should feel, that he was still in the [[motifs/childhood|childhood]] of the world.
+That I should have come at last upon so singular a [[concepts/body|body]] was,
+I may say without [[concepts/vanity|vanity]], not altogether singular, for I
 have a mania for belonging to as many societies as possible:
 I may be said to collect clubs, and I have accumulated a vast and
 fantastic variety of specimens ever since, in my audacious youth,
@@ -87,7 +87,7 @@ have said, was one of this class, one which I was almost bound
 to come across sooner or later, because of my singular hobby.
 The wild youth of the metropolis call me facetiously ‘The King of Clubs'.
 They also call me ‘The Cherub', in allusion to the roseate and youthful
-appearance I have presented in my declining years.  I only [[Hope|hope]]
+appearance I have presented in my declining years.  I only [[concepts/hope|hope]]
 the spirits in the better world have as good dinners as I have.
 But the finding of the Club of Queer Trades has one very curious thing
 about it.  The most curious thing about it is that it was not discovered
@@ -104,11 +104,11 @@ to parties than he felt the need of altering the sunset clouds.
 He lived in a queer and comfortable garret in the roofs of Lambeth.
 He was surrounded by a chaos of things that were in odd contrast
 to the slums around him; old fantastic books, swords, armour--the whole
-[[Dust|dust]]-hole of romanticism.  But his face, amid all these quixotic relics,
+[[motifs/dust|dust]]-hole of romanticism.  But his face, amid all these quixotic relics,
 appeared curiously keen and modern--a powerful, legal face.
 And no one but I knew who he was.
 
-Long ago as it is, everyone remembers the terrible and [[Grotesque|grotesque]]
+Long ago as it is, everyone remembers the terrible and [[concepts/grotesque|grotesque]]
 scene that occurred in--, when one of the most acute and
 forcible of the English judges suddenly went mad on the bench.
 I had my own view of that occurrence; but about the facts themselves
@@ -120,30 +120,30 @@ in giving personal and moral advice to the people concerned.
 He talked more like a priest or a doctor, and a very outspoken
 one at that.  The first thrill was probably given when he said
 to a man who had attempted a crime of passion:  "I sentence
-you to three years [[Imprisonment|imprisonment]], under the firm, and solemn,
+you to three years [[concepts/imprisonment|imprisonment]], under the firm, and solemn,
 and God-given conviction, that what you require is three months
 at the seaside."  He accused criminals from the bench, not so much
 of their obvious legal crimes, but of things that had never been
-heard of in a [[Court|court]] of justice, monstrous egoism, lack of [[Humour|humour]],
+heard of in a [[settings/court|court]] of justice, monstrous egoism, lack of humour,
 and morbidity deliberately encouraged.  Things came to a head
 in that celebrated diamond case in which the Prime Minister himself,
 that brilliant patrician, had to come forward, gracefully and reluctantly,
 to give evidence against his valet.  After the detailed life
 of the household had been thoroughly exhibited, the judge requested
 the Premier again to step forward, which he did with quiet dignity.
-The judge then said, in a sudden, grating voice:  "Get a new [[Soul|soul]].
-That thing's not fit for a dog.  Get a new [[Soul|soul]]."  All this, of course,
-in the eyes of the sagacious, was premonitory of that [[Melancholy|melancholy]]
-and farcical day when his wits actually deserted him in open [[Court|court]].
+The judge then said, in a sudden, grating voice:  "Get a new [[motifs/soul|soul]].
+That thing's not fit for a dog.  Get a new [[motifs/soul|soul]]."  All this, of course,
+in the eyes of the sagacious, was premonitory of that [[concepts/melancholy|melancholy]]
+and farcical day when his wits actually deserted him in open [[settings/court|court]].
 It was a libel case between two very eminent and powerful financiers,
 against both of whom charges of considerable defalcation were brought.
 The case was long and complex; the advocates were long and eloquent;
-but at last, after weeks of work and rhetoric, the [[Time|time]] came
+but at last, after weeks of work and rhetoric, the [[motifs/time|time]] came
 for the great judge to give a summing-up; and one of his celebrated
-masterpieces of lucidity and pulverizing [[logic]] was eagerly looked for.
+masterpieces of lucidity and pulverizing logic was eagerly looked for.
 He had spoken very little during the prolonged affair, and he looked
 sad and lowering at the end of it.  He was silent for a few moments,
-and then burst into a stentorian [[Song|song]].  His remarks (as reported)
+and then burst into a stentorian song.  His remarks (as reported)
 were as follows:
 
 "O Rowty-owty tiddly-owty Tiddly-owty tiddly-owty Highty-ighty
@@ -151,12 +151,12 @@ tiddly-ighty Tiddly-ighty ow."
 
 He then retired from public life and took the garret in Lambeth.
 
-I was sitting there one evening, about six o'[[Clock|clock]], over a glass of that
+I was sitting there one evening, about six o'[[motifs/clock|clock]], over a glass of that
 gorgeous Burgundy which he kept behind a pile of black-letter folios;
 he was striding about the room, fingering, after a habit of his,
 one of the great swords in his collection; the red glare of the
-strong [[Fire|fire]] struck his square features and his fierce grey hair;
-his blue eyes were even unusually full of [[Dreams|dreams]], and he had
+strong [[motifs/fire|fire]] struck his square features and his fierce grey hair;
+his blue eyes were even unusually full of [[motifs/dreams|dreams]], and he had
 opened his mouth to speak dreamily, when the door was flung open,
 and a pale, fiery man, with red hair and a huge furred overcoat,
 swung himself panting into the room.
@@ -168,12 +168,12 @@ I beg your pardon, sir," and he gave me a bow of apology.
 Basil smiled at me.  "You didn't know," he said, "that I had a
 practical brother.  This is Rupert Grant, Esquire, who can and does
 all there is to be done.  Just as I was a failure at one thing,
-he is a [[success]] at everything.  I remember him as a journalist,
-a [[house]]-agent, a naturalist, an inventor, a publisher,
+he is a success at everything.  I remember him as a journalist,
+a house-agent, a naturalist, an inventor, a publisher,
 a schoolmaster, a--what are you now, Rupert?"
 
-"I am and have been for some [[Time|time]]," said Rupert, with some dignity,
-"a private [[Detective|detective]], and there's my client."
+"I am and have been for some [[motifs/time|time]]," said Rupert, with some dignity,
+"a private [[archetypes/detective|detective]], and there's my client."
 
 A loud rap at the door had cut him short, and, on permission being given,
 the door was thrown sharply open and a stout, dapper man walked swiftly
@@ -203,12 +203,12 @@ men who recovered British India, he was a man with the natural
 beliefs and tastes of an old maid.  In his dress he was dapper
 and yet demure; in his habits he was precise to the point
 of the exact adjustment of a tea-cup. One enthusiasm he had,
-which was of the [[Nature|nature]] of a religion--the cultivation of pansies.
+which was of the [[concepts/nature|nature]] of a religion--the cultivation of pansies.
 And when he talked about his collection, his blue eyes glittered
-like a [[Child|child]]'s at a new toy, the eyes that had remained untroubled
+like a [[archetypes/child|child]]'s at a new toy, the eyes that had remained untroubled
 when the troops were roaring victory round Roberts at Candahar.
 
-"[[Well]], Major," said Rupert Grant, with a lordly heartiness,
+"[[motifs/well|Well]], Major," said Rupert Grant, with a lordly heartiness,
 flinging himself into a chair, "what is the matter with you?"
 
 "Yellow pansies.  Coal-cellar. P. G. Northover," said the Major,
@@ -220,7 +220,7 @@ eyes shut in his abstracted way, said simply:
 "I beg your pardon."
 
 "Fact is.  Street, you know, man, pansies.  On wall.
-[[Death]] to me.  Something.  Preposterous."
+[[motifs/death|Death]] to me.  Something.  Preposterous."
 
 We shook our heads gently.  Bit by bit, and mainly by
 the seemingly sleepy assistance of Basil Grant, we pieced
@@ -236,14 +236,14 @@ sitting bolt upright in his chair and talking like a telegram.
 Major Brown was, I have said, a successful soldier, but by no
 means an enthusiastic one.  So far from regretting his retirement
 on half-pay, it was with delight that he took a small neat villa,
-very like a doll's [[house]], and devoted the rest of his life
+very like a doll's house, and devoted the rest of his life
 to pansies and weak tea.  The thought that battles were over
-when he had once hung up his [[Sword|sword]] in the little front hall
-(along with two patent stew-pots and a bad [[Water|water]]-colour),
+when he had once hung up his sword in the little front hall
+(along with two patent stew-pots and a bad [[motifs/water|water]]-colour),
 and betaken himself instead to wielding the rake in his little
-sunlit [[Garden|garden]], was to him like having come into a harbour in heaven.
+sunlit [[motifs/garden|garden]], was to him like having come into a harbour in heaven.
 He was Dutch-like and precise in his taste in gardening,
-and had, perhaps, some tendency to drill his [[Flowers|flowers]] like soldiers.
+and had, perhaps, some tendency to drill his [[motifs/flowers|flowers]] like soldiers.
 He was one of those men who are capable of putting four umbrellas
 in the stand rather than three, so that two may lean one way and
 two another; he saw life like a pattern in a freehand drawing-book.
@@ -257,7 +257,7 @@ One certain bright and windy afternoon, the Major, attired in his
 usual faultless manner, had set out for his usual constitutional.
 In crossing from one great residential thoroughfare to another,
 he happened to pass along one of those aimless-looking lanes
-which lie along the back-[[Garden|garden]] walls of a row of mansions,
+which lie along the back-[[motifs/garden|garden]] walls of a row of mansions,
 and which in their empty and discoloured appearance give one
 an odd sensation as of being behind the scenes of a theatre.
 But mean and sulky as the scene might be in the eyes of most of us,
@@ -266,7 +266,7 @@ gravel footway was coming a thing which was to him what
 the passing of a religious procession is to a devout person.
 A large, heavy man, with fish-blue eyes and a ring of irradiating
 red beard, was pushing before him a barrow, which was ablaze
-with incomparable [[Flowers|flowers]].  There were splendid specimens of almost
+with incomparable [[motifs/flowers|flowers]].  There were splendid specimens of almost
 every order, but the Major's own favourite pansies predominated.
 The Major stopped and fell into conversation, and then into bargaining.
 He treated the man after the manner of collectors and other
@@ -280,47 +280,47 @@ close to the Major.
 "I'll tell you what, sir," he said.  "If you're interested in them things,
 you just get on to that wall."
 
-"On the wall!" cried the scandalised Major, whose conventional [[Soul|soul]]
+"On the wall!" cried the scandalised Major, whose conventional [[motifs/soul|soul]]
 quailed within him at the thought of such fantastic trespass.
 
-"Finest show of yellow pansies in England in that there [[Garden|garden]], sir,"
+"Finest show of yellow pansies in England in that there [[motifs/garden|garden]], sir,"
 hissed the tempter.  "I'll help you up, sir."
 
 How it happened no one will ever know but that positive enthusiasm
 of the Major's life triumphed over all its negative traditions,
 and with an easy leap and swing that showed that he was in no
 need of physical assistance, he stood on the wall at the end
-of the strange [[Garden|garden]].  The second after, the flapping of
-the frock-coat at his knees made him feel inexpressibly a [[Fool|fool]].
+of the strange [[motifs/garden|garden]].  The second after, the flapping of
+the frock-coat at his knees made him feel inexpressibly a [[archetypes/fool|fool]].
 But the next instant all such trifling sentiments were swallowed up
 by the most appalling shock of surprise the old soldier had ever
 felt in all his bold and wandering existence.  His eyes fell upon
-the [[Garden|garden]], and there across a large bed in the centre of the lawn
-was a vast pattern of pansies; they were splendid [[Flowers|flowers]], but for once
+the [[motifs/garden|garden]], and there across a large bed in the centre of the lawn
+was a vast pattern of pansies; they were splendid [[motifs/flowers|flowers]], but for once
 it was not their horticultural aspects that Major Brown beheld,
 for the pansies were arranged in gigantic capital letters so as to
 form the sentence:
 
-[[Death|DEATH]] TO MAJOR BROWN
+[[motifs/death|DEATH]] TO MAJOR BROWN
 
 A kindly looking old man, with white whiskers, was watering them.
-Brown looked sharply back at the [[Road|road]] behind him; the man with the barrow
+Brown looked sharply back at the [[motifs/road|road]] behind him; the man with the barrow
 had suddenly vanished.  Then he looked again at the lawn with its
-incredible [[Inscription|inscription]].  Another man might have thought he had gone mad,
+incredible [[forms/inscription|inscription]].  Another man might have thought he had gone mad,
 but Brown did not.  When romantic ladies gushed over his V.C. and
 his military exploits, he sometimes felt himself to be a painfully
 prosaic person, but by the same token he knew he was incurably sane.
 Another man, again, might have thought himself a victim of a
 passing practical joke, but Brown could not easily believe this.
-He knew from his own quaint learning that the [[Garden|garden]] arrangement was
+He knew from his own quaint learning that the [[motifs/garden|garden]] arrangement was
 an elaborate and expensive one; he thought it extravagantly improbable
-that any one would pour out money like [[Water|water]] for a joke against him.
+that any one would pour out money like [[motifs/water|water]] for a joke against him.
 Having no explanation whatever to offer, he admitted the fact
 to himself, like a clear-headed man, and waited as he would have
 done in the presence of a man with six legs.
 
 At this moment the stout old man with white whiskers looked up,
-and the watering can fell from his hand, shooting a swirl of [[Water|water]]
+and the watering can fell from his hand, shooting a swirl of [[motifs/water|water]]
 down the gravel path.
 
 "Who on earth are you?" he gasped, trembling violently.
@@ -335,9 +335,9 @@ At last he stammered wildly, "Come down--come down here!"
 the grass beside him, without disarranging his silk hat.
 
 The old man turned his broad back and set off at a sort of waddling
-run towards the [[house]], followed with swift steps by the Major.
+run towards the house, followed with swift steps by the Major.
 His guide led him through the back passages of a gloomy, but gorgeously
-appointed [[house]], until they reached the door of the front room.
+appointed house, until they reached the door of the front room.
 Then the old man turned with a face of apoplectic terror dimly
 showing in the twilight.
 
@@ -350,7 +350,7 @@ The Major stepped into a rich, glowing room, full of red copper,
 and peacock and purple hangings, hat in hand.  He had the finest
 manners in the world, and, though mystified, was not in the least
 embarrassed to see that the only occupant was a lady, sitting by
-the [[Window|window]], looking out.
+the [[motifs/window|window]], looking out.
 
 "Madam," he said, bowing simply, "I am Major Brown."
 
@@ -361,14 +361,14 @@ of Bedford Park.  "You have come, I suppose," she said mournfully,
 "to tax me about the hateful title-deeds."
 
 "I have come, madam," he said, "to know what is the matter.
-To know why my name is written across your [[Garden|garden]].
+To know why my name is written across your [[motifs/garden|garden]].
 Not amicably either."
 
 He spoke grimly, for the thing had hit him.  It is impossible
 to describe the effect produced on the mind by that quiet and sunny
-[[Garden|garden]] scene, the frame for a stunning and brutal personality.
+[[motifs/garden|garden]] scene, the frame for a stunning and brutal personality.
 The evening air was still, and the grass was golden in the place
-where the little [[Flowers|flowers]] he studied cried to heaven for his [[Blood|blood]].
+where the little [[motifs/flowers|flowers]] he studied cried to heaven for his [[motifs/blood|blood]].
 
 "You know I must not turn round," said the lady; "every afternoon
 till the stroke of six I must keep my face turned to the street."
@@ -377,7 +377,7 @@ Some queer and unusual inspiration made the prosaic soldier resolute
 to accept these outrageous riddles without surprise.
 
 "It is almost six," he said; and even as he spoke the barbaric
-copper [[Clock|clock]] upon the wall clanged the first stroke of the hour.
+copper [[motifs/clock|clock]] upon the wall clanged the first stroke of the hour.
 At the sixth the lady sprang up and turned on the Major one
 of the queerest and yet most attractive faces he had ever seen
 in his life; open, and yet tantalising, the face of an elf.
@@ -397,7 +397,7 @@ looked out.  There was no sign of life in the blue gloaming of the street,
 where one or two lamps were beginning to light their lemon sparks.
 On returning, he found the lady in green trembling.
 
-"It is the end," she cried, with shaking lips; "it may be [[Death|death]]
+"It is the end," she cried, with shaking lips; "it may be [[motifs/death|death]]
 for both of us.  Whenever--"
 
 But even as she spoke her speech was cloven by another hoarse
@@ -409,13 +409,13 @@ Brown dashed out of the door and down the steps, but again
 he was frustrated; there was no figure in sight, and the street
 was far too long and empty for the shouter to have run away.
 Even the rational Major was a little shaken as he returned in a
-certain [[Time|time]] to the drawing-room. Scarcely had he done so than
+certain [[motifs/time|time]] to the drawing-room. Scarcely had he done so than
 the terrific voice came:
 
 "Major Brown, Major Brown, where did--"
 
-Brown was in the street almost at a bound, and he was in [[Time|time]]--
-in [[Time|time]] to see something which at first glance froze the [[Blood|blood]].
+Brown was in the street almost at a bound, and he was in [[motifs/time|time]]--
+in [[motifs/time|time]] to see something which at first glance froze the [[motifs/blood|blood]].
 The cries appeared to come from a decapitated head resting
 on the pavement.
 
@@ -425,10 +425,10 @@ again, it had vanished, and Major Brown turned to the lady.
 "Where's your coal-cellar?" he said, and stepped out into the passage.
 
 She looked at him with wild grey eyes.  "You will not go down,"
-she cried, "[[Alone|alone]], into the dark hole, with that beast?"
+she cried, "alone, into the dark hole, with that beast?"
 
 "Is this the way?" replied Brown, and descended the kitchen
-stairs three at a [[Time|time]].  He flung open the door of a black
+stairs three at a [[motifs/time|time]].  He flung open the door of a black
 cavity and stepped in, feeling in his pocket for matches.
 As his right hand was thus occupied, a pair of great slimy hands
 came out of the darkness, hands clearly belonging to a man
@@ -437,13 +437,13 @@ They forced him down, down in the suffocating darkness, a brutal
 image of destiny.  But the Major's head, though upside down,
 was perfectly clear and intellectual.  He gave quietly under
 the pressure until he had slid down almost to his hands and knees.
-Then finding the knees of the invisible [[Monster|monster]] within a foot of him,
+Then finding the knees of the invisible [[archetypes/monster|monster]] within a foot of him,
 he simply put out one of his long, bony, and skilful hands,
 and gripping the leg by a muscle pulled it off the ground
 and laid the huge living man, with a crash, along the floor.
 He strove to rise, but Brown was on top like a cat.
 They rolled over and over.  Big as the man was, he had evidently
-now no [[Desire|desire]] but to escape; he made sprawls hither and thither
+now no [[motifs/desire|desire]] but to escape; he made sprawls hither and thither
 to get past the Major to the door, but that tenacious person had him
 hard by the coat collar and hung with the other hand to a beam.
 At length there came a strain in holding back this human bull, a strain
@@ -452,7 +452,7 @@ But something else rent and parted; and the dim fat figure of the giant
 vanished out of the cellar, leaving the torn coat in the Major's hand;
 the only fruit of his adventure and the only clue to the mystery.
 For when he went up and out at the front door, the lady, the rich
-hangings, and the whole equipment of the [[house]] had disappeared.
+hangings, and the whole equipment of the house had disappeared.
 It had only bare boards and whitewashed walls.
 
 "The lady was in the conspiracy, of course," said Rupert, nodding.
@@ -483,7 +483,7 @@ He cut in:
 "Is it dated from anywhere?"
 
 "No--oh, yes!" replied Brown, glancing upon the paper;
-"14 Tanner's [[Court]], North--"
+"14 Tanner's [[settings/court|Court]], North--"
 
 Rupert sprang up and struck his hands together.
 
@@ -491,12 +491,12 @@ Rupert sprang up and struck his hands together.
 me your revolver."
 
 Basil was staring into the embers like a man in a trance;
-and it was some [[Time|time]] before he answered:
+and it was some [[motifs/time|time]] before he answered:
 
 "I don't think you'll need it."
 
 "Perhaps not," said Rupert, getting into his fur coat.  "One never knows.
-But going down a dark [[Court|court]] to see criminals--"
+But going down a dark [[settings/court|court]] to see criminals--"
 
 "Do you think they are criminals?" asked his brother.
 
@@ -510,20 +510,20 @@ in the same distant and monotonous voice.
 "My dear fellow, you've been asleep.  Look at the letter."
 
 "I am looking at the letter," said the mad judge calmly; though, as a
-matter of fact, he was looking at the [[Fire|fire]].  "I don't think it's
+matter of fact, he was looking at the [[motifs/fire|fire]].  "I don't think it's
 the sort of letter one criminal would write to another."
 
 "My dear boy, you are glorious," cried Rupert, turning round,
 with laughter in his blue bright eyes.  "Your methods amaze me.
 Why, there is the letter.  It is written, and it does give orders
-for a crime.  You might as [[Well|well]] say that the Nelson Column
+for a crime.  You might as [[motifs/well|well]] say that the Nelson Column
 was not at all the sort of thing that was likely to be set up
 in Trafalgar Square."
 
 Basil Grant shook all over with a sort of silent laughter, but did
 not otherwise move.
 
-"That's rather good," he said; "but, of course, [[logic]] like that's
+"That's rather good," he said; "but, of course, logic like that's
 not what is really wanted.  It's a question of spiritual atmosphere.
 It's not a criminal letter."
 
@@ -531,18 +531,18 @@ It's not a criminal letter."
 agony of reasonableness.
 
 "Facts," murmured Basil, like one mentioning some strange,
-far-off [[Animals|animals]], "how facts obscure the [[Truth|truth]].  I may be silly--
+far-off [[motifs/animals|animals]], "how facts obscure the [[concepts/truth|truth]].  I may be silly--
 in fact, I'm off my head--but I never could believe in that man--
 what's his name, in those capital stories?--Sherlock Holmes.
 Every detail points to something, certainly; but generally to
 the wrong thing.  Facts point in all directions, it seems to me,
 like the thousands of twigs on a tree.  It's only the life of the tree
-that has [[unity]] and goes up--only the green [[Blood|blood]] that springs,
-like a fountain, at the [[Stars|stars]]."
+that has unity and goes up--only the green [[motifs/blood|blood]] that springs,
+like a fountain, at the [[motifs/stars|stars]]."
 
 "But what the deuce else can the letter be but criminal?"
 
-"We have [[Eternity|eternity]] to stretch our legs in," replied the mystic.
+"We have [[concepts/eternity|eternity]] to stretch our legs in," replied the mystic.
 "It can be an infinity of things.  I haven't seen any of them--
 I've only seen the letter.  I look at that, and say it's not criminal."
 
@@ -569,27 +569,27 @@ He paused a moment, and went on:
 "You could not adopt the ordinary explanation.  The ordinary
 explanation of putting on singular clothes is that you look
 nice in them; you would not think that Lord Kitchener dressed
-up like a ballet girl out of ordinary personal [[Vanity|vanity]].
+up like a ballet girl out of ordinary personal [[concepts/vanity|vanity]].
 You would think it much more likely that he inherited a dancing
-[[Madness|madness]] from a great grandmother; or had been hypnotised at a seance;
-or threatened by a secret society with [[Death|death]] if he refused the ordeal.
+[[concepts/madness|madness]] from a great grandmother; or had been hypnotised at a seance;
+or threatened by a secret society with [[motifs/death|death]] if he refused the ordeal.
 With Baden-Powell, say, it might be a bet--but not with Kitchener.
-I should know all that, because in my public days I knew him quite [[Well|well]].
-So I know that letter quite [[Well|well]], and criminals quite [[Well|well]].
+I should know all that, because in my public days I knew him quite [[motifs/well|well]].
+So I know that letter quite [[motifs/well|well]], and criminals quite [[motifs/well|well]].
 It's not a criminal's letter.  It's all atmospheres."
 And he closed his eyes and passed his hand over his forehead.
 
 Rupert and the Major were regarding him with a mixture of respect
 and pity.  The former said,
 
-"[[Well]], I'm going, anyhow, and shall continue to think--until your
+"[[motifs/well|Well]], I'm going, anyhow, and shall continue to think--until your
 spiritual mystery turns up--that a man who sends a note recommending
 a crime, that is, actually a crime that is actually carried out,
 at least tentatively, is, in all probability, a little casual
 in his moral tastes.  Can I have that revolver?"
 
 "Certainly," said Basil, getting up.  "But I am coming with you."
-And he flung an old cape or cloak round him, and took a [[Sword|sword]]-stick
+And he flung an old cape or cloak round him, and took a sword-stick
 from the corner.
 
 "You!" said Rupert, with some surprise, "you scarcely ever leave
@@ -601,20 +601,20 @@ Basil fitted on a formidable old white hat.
 "hear of anything on the face of the earth that I do not understand
 at once, without going to see it."
 
-And he led the way out into the purple [[Night|night]].
+And he led the way out into the purple [[motifs/night|night]].
 
 We four swung along the flaring Lambeth streets, across
 Westminster Bridge, and along the Embankment in the direction
-of that part of Fleet Street which contained Tanner's [[Court]].
+of that part of Fleet Street which contained Tanner's [[settings/court|Court]].
 The erect, black figure of Major Brown, seen from behind, was a quaint
 contrast to the hound-like stoop and flapping mantle of young
 Rupert Grant, who adopted, with childlike delight, all the dramatic
-poses of the [[Detective|detective]] of fiction.  The finest among his many fine
-qualities was his boyish appetite for the colour and poetry of [[London]].
-Basil, who walked behind, with his face turned blindly to the [[Stars|stars]],
+poses of the [[archetypes/detective|detective]] of fiction.  The finest among his many fine
+qualities was his boyish appetite for the colour and poetry of [[settings/london|London]].
+Basil, who walked behind, with his face turned blindly to the [[motifs/stars|stars]],
 had the look of a somnambulist.
 
-Rupert paused at the corner of Tanner's [[Court]], with a quiver of delight
+Rupert paused at the corner of Tanner's [[settings/court|Court]], with a quiver of delight
 at danger, and gripped Basil's revolver in his great-coat pocket.
 
 "Shall we go in now?" he asked.
@@ -632,7 +632,7 @@ Rupert glanced at him and stared hard.
 "Basil," he cried, "you're trembling.  What's the matter--
 are you afraid?"
 
-"Cold, perhaps," said the Major, eyeing him.  There was no [[Doubt|doubt]]
+"Cold, perhaps," said the Major, eyeing him.  There was no [[concepts/doubt|doubt]]
 that he was shaking.
 
 At last, after a few moments' scrutiny, Rupert broke into a curse.
@@ -645,7 +645,7 @@ all three of us, within a yard of a den of ruffians--"
 are quite equal to a host," and he continued to quake with
 his mysterious mirth.
 
-Rupert turned with impatience and strode swiftly down the [[Court|court]],
+Rupert turned with impatience and strode swiftly down the [[settings/court|court]],
 the rest of us following.  When he reached the door of No. 14
 he turned abruptly, the revolver glittering in his hand.
 
@@ -885,13 +885,13 @@ Did you ever feel that?"
 "Certainly not," said the Major shortly.
 
 "Then I must explain with more elaboration," said Mr Northover,
-with a sigh.  "The Adventure and [[Romance]] Agency has been started
-to meet a great modern [[Desire|desire]].  On every side, in conversation
-and in literature, we hear of the [[Desire|desire]] for a larger theatre
+with a sigh.  "The Adventure and [[works/romance-(poe)|Romance]] Agency has been started
+to meet a great modern [[motifs/desire|desire]].  On every side, in conversation
+and in literature, we hear of the [[motifs/desire|desire]] for a larger theatre
 of events for something to waylay us and lead us splendidly astray.
-Now the man who feels this [[Desire|desire]] for a varied life pays a yearly
-or a quarterly sum to the Adventure and [[Romance]] Agency; in return,
-the Adventure and [[Romance]] Agency undertakes to surround him with
+Now the man who feels this [[motifs/desire|desire]] for a varied life pays a yearly
+or a quarterly sum to the Adventure and [[works/romance-(poe)|Romance]] Agency; in return,
+the Adventure and [[works/romance-(poe)|Romance]] Agency undertakes to surround him with
 startling and weird events.  As a man is leaving his front door,
 an excited sweep approaches him and assures him of a plot against
 his life; he gets into a cab, and is driven to an opium den;
@@ -902,7 +902,7 @@ at present hard at work in the adjoining room.  Yours, Major Brown
 (designed by our Mr Grigsby), I consider peculiarly forcible
 and pointed; it is almost a pity you did not see the end of it.
 I need scarcely explain further the monstrous mistake.
-Your predecessor in your present [[house]], Mr Gurney-Brown, was a subscriber
+Your predecessor in your present house, Mr Gurney-Brown, was a subscriber
 to our agency, and our foolish clerks, ignoring alike the dignity
 of the hyphen and the glory of military rank, positively imagined
 that Major Brown and Mr Gurney-Brown were the same person.
@@ -919,27 +919,27 @@ If he wishes to float into fairyland, he reads a book;
 if he wishes to dash into the thick of battle, he reads a book;
 if he wishes to soar into heaven, he reads a book; if he wishes to slide
 down the banisters, he reads a book.  We give him these visions,
-but we give him exercise at the same [[Time|time]], the necessity of leaping
+but we give him exercise at the same [[motifs/time|time]], the necessity of leaping
 from wall to wall, of fighting strange gentlemen, of running down
 long streets from pursuers--all healthy and pleasant exercises.
-We give him a glimpse of that great morning world of [[Robin Hood]] or the
+We give him a glimpse of that great morning world of [[characters/robin-hood|Robin Hood]] or the
 Knights Errant, when one great game was played under the splendid sky.
-We give him back his [[Childhood|childhood]], that godlike [[Time|time]] when we can act stories,
-be our own heroes, and at the same instant [[Dance|dance]] and dream."
+We give him back his [[motifs/childhood|childhood]], that godlike [[motifs/time|time]] when we can act stories,
+be our own heroes, and at the same instant [[motifs/dance|dance]] and dream."
 
 Basil gazed at him curiously.  The most singular psychological
 discovery had been reserved to the end, for as the little business
 man ceased speaking he had the blazing eyes of a fanatic.
 
 Major Brown received the explanation with complete simplicity
-and good [[Humour|humour]].
+and good humour.
 
-"Of course; awfully dense, sir," he said.  "No [[Doubt|doubt]] at all,
+"Of course; awfully dense, sir," he said.  "No [[concepts/doubt|doubt]] at all,
 the scheme excellent.  But I don't think--" He paused a moment,
-and looked dreamily out of the [[Window|window]].  "I don't think you will find
+and looked dreamily out of the [[motifs/window|window]].  "I don't think you will find
 me in it.  Somehow, when one's seen--seen the thing itself, you know--
-[[Blood|blood]] and men screaming, one feels about having a little [[house]] and
-a little hobby; in the [[Bible]], you know, ‘There remaineth a rest'."
+[[motifs/blood|blood]] and men screaming, one feels about having a little house and
+a little hobby; in the [[historical-references/bible|Bible]], you know, ‘There remaineth a rest'."
 
 Northover bowed.  Then after a pause he said:
 
@@ -1297,13 +1297,13 @@ language, you have the ‘slight disadvantage' of being off your head.
 You see a total stranger in a public street; you choose to start
 certain theories about his eyebrows.  You then treat him as a burglar
 because he enters an honest man's door.  The thing is too monstrous.
-Admit that it is, Basil, and come [[Home|home]] with me.  Though these
+Admit that it is, Basil, and come [[motifs/home|home]] with me.  Though these
 people are still having tea, yet with the distance we have to go,
 we shall be late for dinner."
 
 Basil's eyes were shining in the twilight like lamps.
 
-"I thought," he said, "that I had outlived [[Vanity|vanity]]."
+"I thought," he said, "that I had outlived [[concepts/vanity|vanity]]."
 
 "What do you want now?"  I cried.
 
@@ -1323,7 +1323,7 @@ up the dark stone steps and rang at the bell.
 
 A severe servant in black and white opened the door to us:
 on receiving my friend's name his manner passed in a flash from
-astonishment to respect.  We were ushered into the [[house]] very quickly,
+astonishment to respect.  We were ushered into the house very quickly,
 but not so quickly but that our host, a white-haired man with a
 fiery face, came out quickly to meet us.
 
@@ -1331,9 +1331,9 @@ fiery face, came out quickly to meet us.
 "I have not seen you for years.  Have you been--er--" he said,
 rather wildly, "have you been in the country?"
 
-"Not for all that [[Time|time]]," answered Basil, smiling.  "I have long
+"Not for all that [[motifs/time|time]]," answered Basil, smiling.  "I have long
 given up my official position, my dear Philip, and have been
-living in a deliberate retirement.  I [[Hope|hope]] I do not come at
+living in a deliberate retirement.  I [[concepts/hope|hope]] I do not come at
 an inopportune moment."
 
 "An inopportune moment," cried the ardent gentleman.
@@ -1348,25 +1348,25 @@ of laughter came from the inner room.
 "And who is Wimpole?"
 
 "Basil," cried the other, "you must have been in the country.
-You must have been in the antipodes.  You must have been in the [[Moon|moon]].
+You must have been in the antipodes.  You must have been in the [[motifs/moon|moon]].
 Who is Wimpole?  Who was Shakespeare?"
 
 "As to who Shakespeare was," answered my friend placidly,
 "my views go no further than thinking that he was not Bacon.
-More probably he was Mary [[Queen]] of Scots.  But as to who Wimpole is--"
+More probably he was Mary [[characters/queen|Queen]] of Scots.  But as to who Wimpole is--"
 and his speech also was cloven with a roar of laughter from within.
 
 "Wimpole!" cried Lord Beaumont, in a sort of ecstasy.
 "Haven't you heard of the great modern wit?  My dear fellow,
 he has turned conversation, I do not say into an art--
 for that, perhaps, it always was but into a great art,
-like the statuary of [[Michael]] [[Angelo]]--an art of masterpieces.
+like the statuary of [[characters/michael|Michael]] [[characters/angelo|Angelo]]--an art of masterpieces.
 His repartees, my good friend, startle one like a man shot dead.
 They are final; they are--"
 
 Again there came the hilarious roar from the room, and almost
 with the very noise of it, a big, panting apoplectic old gentleman
-came out of the inner [[house]] into the hall where we were standing.
+came out of the inner house into the hall where we were standing.
 
 "Now, my dear chap," began Lord Beaumont hastily.
 
@@ -1381,16 +1381,16 @@ have heard of Sir Walter Cholmondeliegh."
 "Who has not?" asked Grant, and bowed to the worthy old baronet,
 eyeing him with some curiosity.  He was hot and heavy in his
 momentary anger, but even that could not conceal the noble though
-opulent outline of his face and [[Body|body]], the florid white hair,
-the Roman nose, the [[Body|body]] stalwart though corpulent, the chin
-aristocratic though [[Double|double]].  He was a magnificent courtly gentleman;
+opulent outline of his face and [[concepts/body|body]], the florid white hair,
+the Roman nose, the [[concepts/body|body]] stalwart though corpulent, the chin
+aristocratic though [[topoi/double|double]].  He was a magnificent courtly gentleman;
 so much of a gentleman that he could show an unquestionable weakness
 of anger without altogether losing dignity; so much of a gentleman
-that even his faux pas were [[Well|well]]-bred.
+that even his faux pas were [[motifs/well|well]]-bred.
 
 "I am distressed beyond expression, Beaumont," he said gruffly,
 "to fail in respect to these gentlemen, and even more especially
-to fail in it in your [[house]].  But it is not you or they that are
+to fail in it in your house.  But it is not you or they that are
 in any way concerned, but that flashy half-caste jackanapes--"
 
 At this moment a young man with a twist of red moustache and a sombre
@@ -1405,7 +1405,7 @@ him as a schoolboy."
 and respectfully, but the cloud was still on his brow.
 Turning to Sir Walter Cholmondeliegh, he said:
 
-"I was sent by Lady Beaumont to express her [[Hope|hope]] that you
+"I was sent by Lady Beaumont to express her [[concepts/hope|hope]] that you
 were not going yet, Sir Walter.  She says she has scarcely seen
 anything of you."
 
@@ -1440,19 +1440,19 @@ and sometimes so reactionary.  Are you a modern, Basil?"
 the crowded drawing-room.
 
 This caused a slight diversion, and some eyes were turned away
-from our slim friend with the Oriental face for the first [[Time|time]]
+from our slim friend with the Oriental face for the first [[motifs/time|time]]
 that afternoon.  Two people, however, still looked at him.
-One was the daughter of the [[house]], Muriel Beaumont, who gazed at
+One was the daughter of the house, Muriel Beaumont, who gazed at
 him with great violet eyes and with the intense and awful thirst
 of the female upper class for verbal amusement and stimulus.
 The other was Sir Walter Cholmondeliegh, who looked at him with a still
-and sullen but unmistakable [[Desire|desire]] to throw him out of the [[Window|window]].
+and sullen but unmistakable [[motifs/desire|desire]] to throw him out of the [[motifs/window|window]].
 
 He sat there, coiled rather than seated on the easy chair;
 everything from the curves of his smooth limbs to the coils
 of his silvered hair suggesting the circles of a serpent more than
 the straight limbs of a man--the unmistakable, splendid serpentine
-gentleman we had seen walking in North [[London]], his eyes shining
+gentleman we had seen walking in North [[settings/london|London]], his eyes shining
 with repeated victory.
 
 "What I can't understand, Mr Wimpole," said Muriel Beaumont
@@ -1481,7 +1481,7 @@ Grant walked across the room and tapped the red-moustached secretary
 on the shoulder.  That gentleman was leaning against the wall
 regarding the whole scene with a great deal of gloom; but, I fancied,
 with very particular gloom when his eyes fell on the young lady
-of the [[house]] rapturously listening to Wimpole.
+of the house rapturously listening to Wimpole.
 
 "May I have a word with you outside, Drummond?" asked Grant.
 "It is about business.  Lady Beaumont will excuse us."
@@ -1536,7 +1536,7 @@ Sir Walter hates him."
 This speech affected me with a genuine sense of esteem and pity for
 the young man; that is, of pity for him because of his obviously hopeless
 worship of Miss Beaumont, and of esteem for him because of the direct
-realistic account of the [[history]] of Wimpole which he had given.
+realistic account of the [[concepts/history|history]] of Wimpole which he had given.
 Still, I was sorry that he seemed so steadily set against the man,
 and could not help referring it to an instinct of his personal relations,
 however nobly disguised from himself.
@@ -1555,13 +1555,13 @@ within a few minutes, in the street outside.
 "What is?"  I asked, baldly enough.
 
 "This affair.  Listen to me, my old friend.  Lord and Lady Beaumont
-have just invited you and me to a grand dinner-party this very [[Night|night]],
-at which Mr Wimpole will be in all his glory.  [[Well]], there is nothing
+have just invited you and me to a grand dinner-party this very [[motifs/night|night]],
+at which Mr Wimpole will be in all his glory.  [[motifs/well|Well]], there is nothing
 very extraordinary about that.  The extraordinary thing is that we
 are not going."
 
-"[[Well]], really," I said, "it is already six o'[[Clock|clock]] and I [[Doubt|doubt]] if we
-could get [[Home|home]] and dress.  I see nothing extraordinary in the fact
+"[[motifs/well|Well]], really," I said, "it is already six o'[[motifs/clock|clock]] and I [[concepts/doubt|doubt]] if we
+could get [[motifs/home|home]] and dress.  I see nothing extraordinary in the fact
 that we are not going."
 
 "Don't you?" said Grant.  "I'll bet you'll see something extraordinary
@@ -1572,29 +1572,29 @@ I looked at him blankly.
 "Doing instead?"  I asked.  "What are we doing instead?"
 
 "Why," said he, "we are waiting for one or two hours outside this
-[[house]] on a [[Winter|winter]] evening.  You must forgive me; it is all my [[Vanity|vanity]].
+house on a [[motifs/winter|winter]] evening.  You must forgive me; it is all my [[concepts/vanity|vanity]].
 It is only to show you that I am right.  Can you, with the assistance
 of this cigar, wait until both Sir Walter Cholmondeliegh and the mystic
-Wimpole have left this [[house]]?"
+Wimpole have left this house?"
 
 "Certainly," I said.  "But I do not know which is likely to leave first.
 Have you any notion?"
 
 "No," he said.  "Sir Walter may leave first in a glow of rage.
 Or again, Mr Wimpole may leave first, feeling that his last
-[[Epigram|epigram]] is a thing to be flung behind him like a firework.
-And Sir Walter may remain some [[Time|time]] to analyse Mr Wimpole's character.
-But they will both have to leave within reasonable [[Time|time]], for they
+[[forms/epigram|epigram]] is a thing to be flung behind him like a firework.
+And Sir Walter may remain some [[motifs/time|time]] to analyse Mr Wimpole's character.
+But they will both have to leave within reasonable [[motifs/time|time]], for they
 will both have to get dressed and come back to dinner here tonight."
 
-As he spoke the shrill [[Double|double]] whistle from the porch
-of the [[Great House|great house]] drew a dark cab to the dark portal.
+As he spoke the shrill [[topoi/double|double]] whistle from the porch
+of the [[motifs/great-house|great house]] drew a dark cab to the dark portal.
 And then a thing happened that we really had not expected.
 Mr Wimpole and Sir Walter Cholmondeliegh came out at the same moment.
 
-They paused for a second or two opposite each other in a natural [[Doubt|doubt]];
+They paused for a second or two opposite each other in a natural [[concepts/doubt|doubt]];
 then a certain geniality, fundamental perhaps in both of them,
-made Sir Walter smile and say:  "The [[Night|night]] is foggy.
+made Sir Walter smile and say:  "The [[motifs/night|night]] is foggy.
 Pray take my cab."
 
 Before I could count twenty the cab had gone rattling up the street
@@ -1607,13 +1607,13 @@ We pelted on steadily, keeping the cab in sight, through dark
 mazy streets.  God only, I thought, knows why we are running at all,
 but we are running hard.  Fortunately we did not run far.
 The cab pulled up at the fork of two streets and Sir Walter paid
-the [[cabman]], who drove away rejoicing, having just come in contact
+the cabman, who drove away rejoicing, having just come in contact
 with the more generous among the rich.  Then the two men talked
 together as men do talk together after giving and receiving
-great insults, the talk which leads either to [[Forgiveness|forgiveness]] or a duel--
+great insults, the talk which leads either to [[concepts/forgiveness|forgiveness]] or a duel--
 at least so it seemed as we watched it from ten yards off.
 Then the two men shook hands heartily, and one went down one fork
-of the [[Road|road]] and one down another.
+of the [[motifs/road|road]] and one down another.
 
 Basil, with one of his rare gestures, flung his arms forward.
 
@@ -1626,7 +1626,7 @@ We dashed across the open space and reached the juncture of two paths.
 He ran on.
 
 "Idiot!"  I howled.  "Sir Walter's gone down there.
-Wimpole has slipped us.  He's half a mile down the other [[Road|road]].
+Wimpole has slipped us.  He's half a mile down the other [[motifs/road|road]].
 You're wrong ... Are you deaf?  You're wrong!"
 
 "I don't think I am," he panted, and ran on.
@@ -1967,12 +1967,12 @@ set me free to do so, I noted them down on a piece of paper.
 I believe I have it here."  He fumbled in his breast-pocket, bringing out
 mild things, note-books, circulars and programmes of village concerts.
 "I heard Miss Mowbray say to Miss James, the following words:
-‘Now's your [[Time|time]], Bill.'"
+‘Now's your [[motifs/time|time]], Bill.'"
 
 He gazed at me for a few moments after making this announcement,
 gravely and unflinchingly, as if conscious that here he was unshaken
 about his facts.  Then he resumed, turning his bald head more
-towards the [[Fire|fire]].
+towards the [[motifs/fire|fire]].
 
 "This appeared to me remarkable.  I could not by any means understand it.
 It seemed to me first of all peculiar that one maiden lady should
@@ -1981,9 +1981,9 @@ may be incomplete; maiden ladies may have among themselves and in
 exclusively spinster circles wilder customs than I am aware of.
 But it seemed to me odd, and I could almost have sworn (if you will
 not misunderstand the phrase), I should have been strongly impelled
-to maintain at the time that the words, ‘Now's your [[Time|time]], Bill', were by
+to maintain at the time that the words, ‘Now's your [[motifs/time|time]], Bill', were by
 no means pronounced with that upper-class intonation which, as I have
-already said, had up to now characterized Miss [[Mowbray]]'s conversation.
+already said, had up to now characterized Miss [[characters/mowbray|Mowbray]]'s conversation.
 In fact, the words, ‘Now's your time, Bill', would have been,
 I fancy, unsuitable if pronounced with that upper-class intonation.
 
@@ -2018,8 +2018,8 @@ I remembered dimly in my classical days (I was a scholar in a small
 way once, but now, alas! rusty), I remembered the mysteries of
 the Bona Dea and their strange female freemasonry.  I remembered
 the witches' Sabbaths.  I was just, in my absurd lightheadedness,
-trying to remember a line of verse about [[Diana]]'s nymphs,
-when Miss [[Mowbray]] threw her arm round me from behind.
+trying to remember a line of verse about [[characters/diana|Diana]]'s nymphs,
+when Miss [[characters/mowbray|Mowbray]] threw her arm round me from behind.
 The moment it held me I knew it was not a woman's arm.
 
 "Miss Brett--or what I had called Miss Brett--was standing in front
@@ -2032,10 +2032,10 @@ I mean he was a wo--no, that is I saw that instead of being
 a woman she--he, I mean--that is, it was a man."
 
 Mr Shorter became indescribably flurried and flapping in endeavouring
-to arrange these genders and his plaid shawl at the same [[Time|time]].
+to arrange these genders and his plaid shawl at the same [[motifs/time|time]].
 He resumed with a higher fever of nervousness:
 
-"As for Miss [[Mowbray]], she--he, held me in a ring of iron.
+"As for Miss [[characters/mowbray|Mowbray]], she--he, held me in a ring of iron.
 He had her arm--that is she had his arm--round her neck--
 my neck I mean--and I could not cry out.  Miss Brett--that is,
 Mr Brett, at least Mr something who was not Miss Brett--
@@ -2051,12 +2051,12 @@ Was it to be Nonconformists?
 "‘Curse 'is eyes,' said Miss Brett--I mean the man with the revolver--‘why
 should we show 'im the game?'
 
-"‘If you take my advice you bloomin' [[Well|well]] will,' said the man at
+"‘If you take my advice you bloomin' [[motifs/well|well]] will,' said the man at
 the door, whom they called Bill.  ‘A man wot knows wet 'e's doin'
 is worth ten wot don't, even if 'e's a potty old parson.'
 
 "‘Bill's right enough,' said the coarse voice of the man who held me
-(it had been Miss [[Mowbray]]'s). ‘Bring out the picture, 'Arry.'
+(it had been Miss [[characters/mowbray|Mowbray]]'s). ‘Bring out the picture, 'Arry.'
 
 "The man with the revolver walked across the room to where
 the other two women--I mean men--were turning over baggage,
@@ -2102,7 +2102,7 @@ to live in these parts, don't you?'
 
 "I nodded.
 
-"‘[[Well]],' said the man 'Arry, pointing to the picture, ‘that's 'is mother.
+"‘[[motifs/well|Well]],' said the man 'Arry, pointing to the picture, ‘that's 'is mother.
 'Oo ran to catch 'im when 'e fell?  She did,' and he flung his
 fingers in a general gesture towards the photograph of the old lady
 who was exactly like me.
@@ -2137,14 +2137,14 @@ in the corner of the room.
 
 "I will not dwell, Mr Swinburne, upon the details of what followed.
 I had no choice.  I could not fight five men, to say nothing of a
-loaded [[Pistol|pistol]].  In five minutes, sir, the Vicar of Chuntsey was
+loaded [[characters/pistol|pistol]].  In five minutes, sir, the Vicar of Chuntsey was
 dressed as an old woman--as somebody else's mother, if you please--
-and was dragged out of the [[house]] to take part in a crime.
+and was dragged out of the house to take part in a crime.
 
-"It was already late in the afternoon, and the nights of [[Winter|winter]]
-were closing in fast.  On a dark [[Road|road]], in a blowing [[Wind|wind]], we set
-out towards the lonely [[house]] of Colonel Hawker, perhaps the queerest
-cortege that ever straggled up that or any other [[Road|road]].  To every
+"It was already late in the afternoon, and the nights of [[motifs/winter|winter]]
+were closing in fast.  On a dark [[motifs/road|road]], in a blowing [[motifs/wind|wind]], we set
+out towards the lonely house of Colonel Hawker, perhaps the queerest
+cortege that ever straggled up that or any other [[motifs/road|road]].  To every
 human eye, in every external, we were six very respectable old ladies
 of small means, in black dresses and refined but antiquated bonnets;
 and we were really five criminals and a clergyman.
@@ -2164,7 +2164,7 @@ was an inspiration; though a very terrible one.  Had it come to this,
 that the Vicar of Chuntsey must pretend to be mad or drunk?
 It had come to this.
 
-"I walked along with the rest up the deserted [[Road|road]],
+"I walked along with the rest up the deserted [[motifs/road|road]],
 imitating and keeping pace, as far as I could, with their rapid
 and yet lady-like step, until at length I saw a lamp-post
 and a policeman standing under it.  I had made up my mind.
@@ -2196,7 +2196,7 @@ I had ever heard of seemed to come pouring out of my open mouth.
 "‘When we get you past,' whispered Bill, ‘you'll howl louder;
 you'll howl louder when we're burning your feet off.'
 
-"I screamed in my terror those awful [[songs]] of joy.  In all
+"I screamed in my terror those awful songs of joy.  In all
 the nightmares that men have ever dreamed, there has never been
 anything so blighting and horrible as the faces of those five men,
 looking out of their poke-bonnets; the figures of district visitors
@@ -2216,7 +2216,7 @@ the Vicar of Chuntsey, in Essex.
 of the neck.
 
 "‘You come along with me,' he began, but Bill cut in with his perfect
-[[Imitation|imitation]] of a lady's finnicking voice.
+imitation of a lady's finnicking voice.
 
 "‘Oh, pray, constable, don't make a disturbance with our poor friend.
 We will get her quietly home.  She does drink too much, but she
@@ -2226,21 +2226,21 @@ is quite a lady--only eccentric.'
 
 "‘Eccentricities of genius,' said Sam earnestly.
 
-"‘Pray let me take her [[Home|home]],' reiterated Bill, in the resumed
+"‘Pray let me take her [[motifs/home|home]],' reiterated Bill, in the resumed
 character of Miss James, ‘she wants looking after.'  ‘She does,'
 said the policeman, ‘but I'll look after her.'
 
 "‘That's no good,' cried Bill feverishly.  ‘She wants her friends.
 She wants a particular medicine we've got.'
 
-"‘Yes,' assented Miss [[Mowbray]], with excitement, ‘no other medicine
+"‘Yes,' assented Miss [[characters/mowbray|Mowbray]], with excitement, ‘no other medicine
 any good, constable.  Complaint quite unique.'
 
 "‘I'm all righ'.  Cutchy, cutchy, coo!' remarked, to his eternal shame,
 the Vicar of Chuntsey.
 
 "‘Look here, ladies,' said the constable sternly, ‘I don't
-like the eccentricity of your friend, and I don't like 'er [[songs]],
+like the eccentricity of your friend, and I don't like 'er songs,
 or 'er 'ead in my stomach.  And now I come to think of it,
 I don't like the looks of you I've seen many as quiet dressed as you
 as was wrong 'uns. Who are you?'
@@ -2249,18 +2249,18 @@ as was wrong 'uns. Who are you?'
 with indescribable dignity.  ‘Nor do we see why we should be insulted
 by any Jack-in-office who chooses to be rude to ladies, when he is paid
 to protect them.  If you choose to take advantage of the weakness of our
-unfortunate friend, no [[Doubt|doubt]] you are legally entitled to take her.
+unfortunate friend, no [[concepts/doubt|doubt]] you are legally entitled to take her.
 But if you fancy you have any legal right to bully us, you will find
 yourself in the wrong box.'
 
-"The [[Truth|truth]] and dignity of this staggered the policeman for a moment.
+"The [[concepts/truth|truth]] and dignity of this staggered the policeman for a moment.
 Under cover of their advantage my five persecutors turned for an
 instant on me faces like faces of the damned and then swished off
 into the darkness.  When the constable first turned his lantern
 and his suspicions on to them, I had seen the telegraphic look flash
 from face to face saying that only retreat was possible now.
 
-"By this [[Time|time]] I was sinking slowly to the pavement, in a state
+"By this [[motifs/time|time]] I was sinking slowly to the pavement, in a state
 of acute reflection.  So long as the ruffians were with me, I dared
 not quit the role of drunkard.  For if I had begun to talk reasonably
 and explain the real case, the officer would merely have thought that I
@@ -2283,15 +2283,15 @@ a limp and slow and reluctant figure.  At the fourth turning, I suddenly
 broke from his hand and tore down the street like a maddened stag.
 He was unprepared, he was heavy, and it was dark.  I ran and ran
 and ran, and in five minutes' running, found I was gaining.
-In half an hour I was out in the fields under the holy and blessed [[Stars|stars]],
+In half an hour I was out in the fields under the holy and blessed [[motifs/stars|stars]],
 where I tore off my accursed shawl and bonnet and buried them
 in clean earth."
 
 The old gentleman had finished his story and leant back in his chair.
-Both the matter and the manner of his narration had, as [[Time|time]] went on,
+Both the matter and the manner of his narration had, as [[motifs/time|time]] went on,
 impressed me favourably.  He was an old duffer and pedant, but behind
 these things he was a country-bred man and gentleman, and had showed
-[[Courage|courage]] and a sporting instinct in the hour of desperation.
+[[concepts/courage|courage]] and a sporting instinct in the hour of desperation.
 He had told his story with many quaint formalities of diction,
 but also with a very convincing realism.
 
@@ -2355,7 +2355,7 @@ to do is to go together to see Captain Fraser."
 
 "Now," said Basil, putting one arm in his fur coat.
 
-The old clergyman [[Rose|rose]] to his feet, quaking all over.
+The old clergyman [[motifs/rose|rose]] to his feet, quaking all over.
 
 "I really do not think that it is necessary," he said.
 
@@ -2367,13 +2367,13 @@ then," and he added the words with great clearness and deliberation,
 "then, Mr Ellis Shorter, I can only say that I would like to see
 you without your whiskers."
 
-And at these words I also [[Rose|rose]] to my feet, for the great [[Tragedy|tragedy]]
+And at these words I also [[motifs/rose|rose]] to my feet, for the great [[forms/tragedy|tragedy]]
 of my life had come.  Splendid and exciting as life was in continual
 contact with an intellect like Basil's, I had always the feeling
-that that splendour and excitement were on the borderland of [[Sanity|sanity]].
+that that splendour and excitement were on the borderland of sanity.
 He lived perpetually near the vision of the reason of things which
 makes men lose their reason.  And I felt of his insanity as men feel
-of the [[Death|death]] of friends with heart disease.  It might come anywhere,
+of the [[motifs/death|death]] of friends with heart disease.  It might come anywhere,
 in a field, in a hansom cab, looking at a sunset, smoking a cigarette.
 It had come now.  At the very moment of delivering a judgement
 for the salvation of a fellow creature, Basil Grant had gone mad.
@@ -2397,7 +2397,7 @@ crockery scattered in smithereens, and still Basil Grant bounded
 and bellowed after the Rev. Ellis Shorter.
 
 And now I began to perceive something else, which added the last
-half-witted touch to my [[Mystification|mystification]].  The Rev. Ellis Shorter,
+half-witted touch to my mystification.  The Rev. Ellis Shorter,
 of Chuntsey, in Essex, was by no means behaving as I had previously
 noticed him to behave, or as, considering his age and station,
 I should have expected him to behave.  His power of dodging, leaping,
@@ -2406,7 +2406,7 @@ doddering old vicar looked like a sort of farcical fairy-tale. Moreover,
 he did not seem to be so much astonished as I had thought.
 There was even a look of something like enjoyment in his eyes;
 so there was in the eye of Basil.  In fact, the unintelligible
-[[Truth|truth]] must be told.  They were both laughing.
+[[concepts/truth|truth]] must be told.  They were both laughing.
 
 At length Shorter was cornered.
 
@@ -2421,7 +2421,7 @@ your whiskers.  And your bald head.  Do they belong to Captain Fraser?"
 They don't belong to Captain Fraser."
 
 "What the deuce does all this mean?"  I almost screamed.
-"Are you all in an infernal [[nightmare]]?  Why should Mr Shorter's bald
+"Are you all in an infernal nightmare?  Why should Mr Shorter's bald
 head belong to Captain Fraser?  How could it?  What the deuce has
 Captain Fraser to do with the affair?  What is the matter with him?
 You dined with him, Basil."
@@ -2431,16 +2431,16 @@ You dined with him, Basil."
 "Didn't you go to Mrs Thornton's dinner-party?"  I asked, staring.
 "Why not?"
 
-"[[Well]]," said Basil, with a slow and singular smile, "the fact
+"[[motifs/well|Well]]," said Basil, with a slow and singular smile, "the fact
 is I was detained by a visitor.  I have him, as a point of fact,
 in my bedroom."
 
-"In your bedroom?"  I repeated; but my [[Imagination|imagination]] had reached that point
+"In your bedroom?"  I repeated; but my [[concepts/imagination|imagination]] had reached that point
 when he might have said in his coal scuttle or his waistcoat pocket.
 
 Grant stepped to the door of an inner room, flung it open and walked in.
 Then he came out again with the last of the bodily wonders of that
-wild [[Night|night]].  He introduced into the sitting-room, in an apologetic manner,
+wild [[motifs/night|night]].  He introduced into the sitting-room, in an apologetic manner,
 and by the nape of the neck, a limp clergyman with a bald head,
 white whiskers and a plaid shawl.
 
@@ -2468,7 +2468,7 @@ are Professional Detainers."
 the Rev. Ellis Shorter, of Chuntsey, in Essex; and it gave me a shock
 indescribable to hear out of that pompous and familiar form come
 no longer its own pompous and familiar voice, but the brisk sharp
-tones of a young [[City|city]] man.  "It is really nothing very important.
+tones of a young [[motifs/city|city]] man.  "It is really nothing very important.
 We are paid by our clients to detain in conversation, on some
 harmless pretext, people whom they want out of the way for a few hours.
 And Captain Fraser--" and with that he hesitated and smiled.
@@ -3452,9 +3452,9 @@ Simply because it was a great blaring, swaggering lie you would
 have believed it."
 
 "Drink your wine, gentlemen," said Keith, laughing, "for this
-confounded [[Wind|wind]] will upset it."
+confounded [[motifs/wind|wind]] will upset it."
 
-We drank, and as we did so, although the hanging [[house]], by a
+We drank, and as we did so, although the hanging house, by a
 cunning mechanism, swung only slightly, we knew that the great head
 of the elm tree swayed in the sky like a stricken thistle.
 
@@ -3464,7 +3464,7 @@ The Noticeable Conduct of Professor Chadd
 
 Basil Grant had comparatively few friends besides myself; yet he was
 the reverse of an unsociable man.  He would talk to any one anywhere,
-and talk not only [[Well|well]] but with perfectly genuine concern and enthusiasm
+and talk not only [[motifs/well|well]] but with perfectly genuine concern and enthusiasm
 for that person's affairs.  He went through the world, as it were,
 as if he were always on the top of an omnibus or waiting for a train.
 Most of these chance acquaintances, of course, vanished into darkness
@@ -3483,7 +3483,7 @@ made his acquaintance over a discussion in a hotel cloak-room about
 the right hat, a discussion which reduced the little major almost
 to a kind of masculine hysterics, the compound of the selfishness
 of an old bachelor and the scrupulosity of an old maid.
-They had gone [[Home|home]] in a cab together and then dined with each
+They had gone [[motifs/home|home]] in a cab together and then dined with each
 other twice a week until they died.  I myself was another.
 I had met Grant while he was still a judge, on the balcony of the
 National Liberal Club, and exchanged a few words about the weather.
@@ -3510,19 +3510,19 @@ There he lived with three sisters, ladies of solid goodness,
 but sinister demeanour.  His life was happy, as are almost all the lives
 of methodical students, but one would not have called it exhilarating.
 His only hours of exhilaration occurred when his friend, Basil Grant,
-came into the [[house]], late at [[Night|night]], a tornado of conversation.
+came into the house, late at [[motifs/night|night]], a tornado of conversation.
 
 Basil, though close on sixty, had moods of boisterous babyishness,
 and these seemed for some reason or other to descend upon him
-particularly in the [[house]] of his studious and almost dingy friend.
+particularly in the house of his studious and almost dingy friend.
 I can remember vividly (for I was acquainted with both parties
 and often dined with them) the gaiety of Grant on that particular
-evening when the strange calamity fell upon [[The Professor|the professor]].
+evening when the strange calamity fell upon the professor.
 Professor Chadd was, like most of his particular class and type
 (the class that is at once academic and middle-class), a Radical
 of a solemn and old-fashioned type.  Grant was a Radical himself,
 but he was that more discriminating and not uncommon type of
-Radical who passes most of his [[Time|time]] in abusing the Radical party.
+Radical who passes most of his [[motifs/time|time]] in abusing the Radical party.
 Chadd had just contributed to a magazine an article called
 "Zulu Interests and the New Makango Frontier', in which a precise
 scientific report of his study of the customs of the people
@@ -3536,22 +3536,22 @@ shaking it with his voice, with his high spirits and his heavy tread.
 "It's not your opinions that I object to, my esteemed Chadd,"
 he was saying, "it's you.  You are quite right to champion
 the Zulus, but for all that you do not sympathize with them.
-No [[Doubt|doubt]] you know the Zulu way of cooking tomatoes and the Zulu [[prayer]]
+No [[concepts/doubt|doubt]] you know the Zulu way of cooking tomatoes and the Zulu [[motifs/prayer|prayer]]
 before blowing one's nose; but for all that you don't understand
-them as [[Well|well]] as I do, who don't know an assegai from an alligator.
+them as [[motifs/well|well]] as I do, who don't know an assegai from an alligator.
 You are more learned, Chadd, but I am more Zulu.  Why is it that the jolly
 old barbarians of this earth are always championed by people who are
 their antithesis?  Why is it?  You are sagacious, you are benevolent,
-you are [[Well|well]] informed, but, Chadd, you are not savage.  Live no longer
+you are [[motifs/well|well]] informed, but, Chadd, you are not savage.  Live no longer
 under that rosy illusion.  Look in the glass.  Ask your sisters.
 Consult the librarian of the British Museum.  Look at this umbrella."
 And he held up that sad but still respectable article.  "Look at it.
 For ten mortal years to my certain knowledge you have carried
-that object under your arm, and I have no sort of [[Doubt|doubt]] that you
+that object under your arm, and I have no sort of [[concepts/doubt|doubt]] that you
 carried it at the age of eight months, and it never occurred to you
 to give one wild yell and hurl it like a javelin--thus--"
 
-And he sent the umbrella whizzing past [[The Professor|the professor]]'s bald head,
+And he sent the umbrella whizzing past the professor's bald head,
 so that it knocked over a pile of books with a crash and left
 a vase rocking.
 
@@ -3560,7 +3560,7 @@ to the lamp and the wrinkle cut in his forehead.
 
 "Your mental processes," he said, "always go a little too fast.
 And they are stated without method.  There is no kind of inconsistency"--
-and no words can convey the [[Time|time]] he took to get to the end of
+and no words can convey the [[motifs/time|time]] he took to get to the end of
 the word--"between valuing the right of the aborigines to adhere
 to their stage in the evolutionary process, so long as they find it
 congenial and requisite to do so.  There is, I say, no inconsistency
@@ -3578,7 +3578,7 @@ Grant was shaking with laughter as he watched him.
 But there is a great deal of incompatibility of temper.
 I am very far from being certain that the Zulu is on an inferior
 evolutionary stage, whatever the blazes that may mean.  I do not think
-there is anything stupid or ignorant about howling at the [[Moon|moon]] or being
+there is anything stupid or ignorant about howling at the [[motifs/moon|moon]] or being
 afraid of devils in the dark.  It seems to me perfectly philosophical.
 Why should a man be thought a sort of idiot because he feels
 the mystery and peril of existence itself?  Suppose, my dear Chadd,
@@ -3594,7 +3594,7 @@ that our civilization is not or may not be an advance upon,
 and indeed (if I apprehend you), is or may be a retrogression
 from states identical with or analogous to the state of the Zulus.
 Moreover, I shall be inclined to concede that such a proposition
-is of the [[Nature|nature]], in some degree at least, of a primary proposition,
+is of the [[concepts/nature|nature]], in some degree at least, of a primary proposition,
 and cannot adequately be argued, in the same sense, I mean,
 that the primary proposition of pessimism, or the primary proposition
 of the non-existence of matter, cannot adequately be argued.
@@ -3619,7 +3619,7 @@ because I have a feeling that that is not the way that things happen.
 If you ask me why I think so I can only answer that I am a Zulu;
 and if you ask me (as you most certainly will) what is my definition
 of a Zulu, I can answer that also.  He is one who has climbed a Sussex
-apple-tree at seven and been afraid of a [[Ghost|ghost]] in an English lane."
+apple-tree at seven and been afraid of a [[archetypes/ghost|ghost]] in an English lane."
 
 "Your process of thought--" began the immovable Chadd, but his speech
 was interrupted.  His sister, with that masculinity which always
@@ -3628,14 +3628,14 @@ with a rigid arm and said:
 
 "James, Mr Bingham of the British Museum wants to see you again."
 
-The philosopher [[Rose|rose]] with a dazed look, which always indicates
-in such men the fact that they regard [[philosophy]] as a familiar thing,
+The philosopher [[motifs/rose|rose]] with a dazed look, which always indicates
+in such men the fact that they regard philosophy as a familiar thing,
 but practical life as a weird and unnerving vision, and walked
 dubiously out of the room.
 
-"I [[Hope|hope]] you do not mind my being aware of it, Miss Chadd,"
+"I [[concepts/hope|hope]] you do not mind my being aware of it, Miss Chadd,"
 said Basil Grant, "but I hear that the British Museum has recognized
-one of the men who have deserved [[Well|well]] of their commonwealth.
+one of the men who have deserved [[motifs/well|well]] of their commonwealth.
 It is true, is it not, that Professor Chadd is likely to be made
 keeper of Asiatic manuscripts?"
 
@@ -3646,21 +3646,21 @@ feel a great deal, but great relief, which they feel more;
 relief from worry from a lot of things.  James' health has never
 been good, and while we are as poor as we are he had to do journalism
 and coaching, in addition to his own dreadful grinding notions
-and discoveries, which he loves more than man, woman, or [[Child|child]].
+and discoveries, which he loves more than man, woman, or [[archetypes/child|child]].
 I have often been afraid that unless something of this kind
 occurred we should really have to be careful of his brain.
 But I believe it is practically settled."
 
 "I am delighted," began Basil, but with a worried face, "but these
 red-tape negotiations are so terribly chancy that I really can't
-advise you to build on [[Hope|hope]], only to be hurled down into bitterness.
+advise you to build on [[concepts/hope|hope]], only to be hurled down into bitterness.
 I've known men, and good men like your brother, come nearer than
 this and be disappointed.  Of course, if it is true--"
 
 "If it is true," said the woman fiercely, "it means that people
 who have never lived may make an attempt at living."
 
-Even as she spoke [[The Professor|the professor]] came into the room still with the dazed
+Even as she spoke the professor came into the room still with the dazed
 look in his eyes.
 
 "Is it true?" asked Basil, with burning eyes.
@@ -3670,30 +3670,30 @@ look in his eyes.
 
 "What do you mean?" demanded Grant.
 
-"[[Well]]," said [[The Professor|the professor]] slowly, "in saying that you could possess
+"[[motifs/well|Well]]," said the professor slowly, "in saying that you could possess
 a knowledge of the essence of Zulu life distinct from--"
 
 "Oh! confound Zulu life," cried Grant, with a burst of laughter.
 "I mean, have you got the post?"
 
 "You mean the post of keeper of the Asiatic manuscripts," he said,
-opening his eye with childlike [[Wonder|wonder]].  "Oh, yes, I got that.
+opening his eye with childlike [[concepts/wonder|wonder]].  "Oh, yes, I got that.
 But the real objection to your argument, which has only, I admit,
 occurred to me since I have been out of the room, is that it does
-not merely presuppose a Zulu [[Truth|truth]] apart from the facts, but infers
+not merely presuppose a Zulu [[concepts/truth|truth]] apart from the facts, but infers
 that the discovery of it is absolutely impeded by the facts."
 
-"I am crushed," said Basil, and sat down to laugh, while [[The Professor|the professor]]'s
+"I am crushed," said Basil, and sat down to laugh, while the professor's
 sister retired to her room, possibly, possibly not.
 
 It was extremely late when we left the Chadds, and it is an extremely
-long and tiresome [[Journey|journey]] from Shepherd's Bush to Lambeth.
+long and tiresome [[motifs/journey|journey]] from Shepherd's Bush to Lambeth.
 This may be our excuse for the fact that we (for I was stopping
-the [[Night|night]] with Grant) got down to breakfast next day at a [[Time|time]]
-inexpressibly criminal, a [[Time|time]], in point of fact, close upon [[Noon|noon]].
+the [[motifs/night|night]] with Grant) got down to breakfast next day at a [[motifs/time|time]]
+inexpressibly criminal, a [[motifs/time|time]], in point of fact, close upon [[motifs/noon|noon]].
 Even to that belated meal we came in a very lounging and
 leisurely fashion.  Grant, in particular, seemed so dreamy at table
-that he scarcely saw the pile of letters by his plate, and I [[Doubt|doubt]]
+that he scarcely saw the pile of letters by his plate, and I [[concepts/doubt|doubt]]
 if he would have opened any of them if there had not lain on the top
 that one thing which has succeeded amid modern carelessness in being
 really urgent and coercive--a telegram.  This he opened with the same
@@ -3702,7 +3702,7 @@ When he read it he did not stir a hair or say a word, but something,
 I know not what, made me feel that the motionless figure had been
 pulled together suddenly as strings are tightened on a slack guitar.
 Though he said nothing and did not move, I knew that he had been
-for an instant cleared and sharpened with a shock of cold [[Water|water]].
+for an instant cleared and sharpened with a shock of cold [[motifs/water|water]].
 It was scarcely any surprise to me when a man who had drifted
 sullenly to his seat and fallen into it, kicked it away like a cur
 from under him and came round to me in two strides.
@@ -3724,7 +3724,7 @@ that grass is green or God all-merciful. These things are truisms,
 and often private ones at that.  If Miss Chadd has written down under
 the eye of a strange woman in a post-office that her brother is off
 his head you may be perfectly certain that she did it because it
-was a matter of life and [[Death|death]], and she can think of no other way
+was a matter of life and [[motifs/death|death]], and she can think of no other way
 of forcing us to come promptly."
 
 "It will force us of course," I said, smiling.
@@ -3732,12 +3732,12 @@ of forcing us to come promptly."
 "Oh, yes," he replied; "there is a cab-rank near."
 
 Basil scarcely said a word as we drove across Westminster Bridge,
-through Trafalgar Square, along Piccadilly, and up the Uxbridge [[Road]].
+through Trafalgar Square, along Piccadilly, and up the Uxbridge [[motifs/road|Road]].
 Only as he was opening the gate he spoke.
 
 "I think you will take my word for it, my friend," he said;
 "this is one of the most queer and complicated and astounding
-incidents that ever happened in [[London]] or, for that matter,
+incidents that ever happened in [[settings/london|London]] or, for that matter,
 in any high civilization."
 
 "I confess with the greatest sympathy and reverence that I don't quite
@@ -3745,13 +3745,13 @@ see it," I said.  "Is it so very extraordinary or complicated that a
 dreamy somnambulant old invalid who has always walked on the borders
 of the inconceivable should go mad under the shock of great joy?
 Is it so very extraordinary that a man with a head like a turnip
-and a [[Soul|soul]] like a spider's web should not find his strength equal
+and a [[motifs/soul|soul]] like a spider's web should not find his strength equal
 to a confounding change of fortunes?  Is it, in short, so very
 extraordinary that James Chadd should lose his wits from excitement?"
 
 "It would not be extraordinary in the least," answered Basil,
 with placidity.  "It would not be extraordinary in the least,"
-he repeated, "if [[The Professor|the professor]] had gone mad.  That was not
+he repeated, "if the professor had gone mad.  That was not
 the extraordinary circumstance to which I referred."
 
 "What," I asked, stamping my foot, "was the extraordinary thing?"
@@ -3765,20 +3765,20 @@ way to be blocking the narrow passage and the little parlour.
 There was a general sense of their keeping something from view.
 They seemed like three black-clad ladies in some strange play
 of Maeterlinck, veiling the catastrophe from the audience in the manner
-of the Greek [[Chorus|chorus]].
+of the Greek [[characters/chorus|chorus]].
 
 "Sit down, won't you?" said one of them, in a voice that was
-somewhat rigid with [[Pain|pain]].  "I think you had better be told first
+somewhat rigid with [[motifs/pain|pain]].  "I think you had better be told first
 what has happened."
 
-Then, with her bleak face looking unmeaningly out of the [[Window|window]],
+Then, with her bleak face looking unmeaningly out of the [[motifs/window|window]],
 she continued, in an even and mechanical voice:
 
 "I had better state everything that occurred just as it occurred.
 This morning I was clearing away the breakfast things,
 my sisters were both somewhat unwell, and had not come down.
 My brother had just gone out of the room, I believe, to fetch a book.
-He came back again, however, without it, and stood for some [[Time|time]]
+He came back again, however, without it, and stood for some [[motifs/time|time]]
 staring at the empty grate.  I said, ‘Were you looking for anything
 I could get?'  He did not answer, but this constantly happens,
 as he is often very abstracted.  I repeated my question,
@@ -3813,21 +3813,21 @@ describe circles with it in the air.  I rushed to the door and shouted
 for Christina.  I will not dwell on the dreadful hours that followed.
 All three of us talked to him, implored him to speak to us with
 appeals that might have brought back the dead, but he has done
-nothing but hop and [[Dance|dance]] and kick with a solemn silent face.
+nothing but hop and [[motifs/dance|dance]] and kick with a solemn silent face.
 It looks as if his legs belonged to some one else or were possessed
-by devils.  He has never spoken to us from that [[Time|time]] to this."
+by devils.  He has never spoken to us from that [[motifs/time|time]] to this."
 
 "Where is he now?"  I said, getting up in some agitation.
-"We ought not to leave him [[Alone|alone]]."
+"We ought not to leave him alone."
 
 "Doctor Colman is with him," said Miss Chadd calmly.  "They are
-in the [[Garden|garden]].  Doctor Colman thought the air would do him good.
+in the [[motifs/garden|garden]].  Doctor Colman thought the air would do him good.
 And he can scarcely go into the street."
 
-Basil and I walked rapidly to the [[Window|window]] which looked out on the [[Garden|garden]].
-It was a small and somewhat smug suburban [[Garden|garden]]; the flower beds
+Basil and I walked rapidly to the [[motifs/window|window]] which looked out on the [[motifs/garden|garden]].
+It was a small and somewhat smug suburban [[motifs/garden|garden]]; the flower beds
 a little too neat and like the pattern of a coloured carpet;
-but on this shining and opulent [[Summer|summer]] day even they had
+but on this shining and opulent [[motifs/summer|summer]] day even they had
 the exuberance of something natural, I had almost said tropical.
 In the middle of a bright and verdant but painfully circular lawn
 stood two figures.  One of them was a small, sharp-looking man
@@ -3836,19 +3836,19 @@ who was talking very quietly and clearly, yet with a nervous twitch,
 as it were, in his face.  The other was our old friend,
 listening with his old forbearing expression and owlish eyes,
 the strong sunlight gleaming on his glasses as the lamplight had
-gleamed the [[Night|night]] before, when the boisterous Basil had rallied
+gleamed the [[motifs/night|night]] before, when the boisterous Basil had rallied
 him on his studious decorum.  But for one thing the figure of this
-morning might have been the identical figure of last [[Night|night]].
+morning might have been the identical figure of last [[motifs/night|night]].
 That one thing was that while the face listened reposefully
 the legs were industriously dancing like the legs of a marionette.
-The neat [[Flowers|flowers]] and the sunny glitter of the [[Garden|garden]] lent
+The neat [[motifs/flowers|flowers]] and the sunny glitter of the [[motifs/garden|garden]] lent
 an indescribable sharpness and incredibility to the prodigy--
 the prodigy of the head of a hermit and the legs of a harlequin.
 For miracles should always happen in broad daylight.
-The [[Night|night]] makes them credible and therefore commonplace.
+The [[motifs/night|night]] makes them credible and therefore commonplace.
 
-The second sister had by this [[Time|time]] entered the room and came somewhat
-drearily to the [[Window|window]].
+The second sister had by this [[motifs/time|time]] entered the room and came somewhat
+drearily to the [[motifs/window|window]].
 
 "You know, Adelaide," she said, "that Mr Bingham from the Museum
 is coming again at three."
@@ -3860,31 +3860,31 @@ come easily to us."
 Grant suddenly turned round.  "What do you mean?" he said.
 "What will you have to tell Mr Bingham?"
 
-"You know what I shall have to tell him," said [[The Professor|the professor]]'s sister,
+"You know what I shall have to tell him," said the professor's sister,
 almost fiercely.  "I don't know that we need give it its wretched name.
 Do you think that the keeper of Asiatic manuscripts will be allowed
 to go on like that?"  And she pointed for an instant at the figure
-in the [[Garden|garden]], the shining, listening face and the unresting feet.
+in the [[motifs/garden|garden]], the shining, listening face and the unresting feet.
 
 Basil Grant took out his watch with an abrupt movement.
 "When did you say the British Museum man was coming?" he said.
 
-"Three o'[[Clock|clock]]," said Miss Chadd briefly.
+"Three o'[[motifs/clock|clock]]," said Miss Chadd briefly.
 
 "Then I have an hour before me," said Grant, and without another word
-threw up the [[Window|window]] and jumped out into the [[Garden|garden]].  He did not walk
-straight up to the doctor and lunatic, but strolling round the [[Garden|garden]]
+threw up the [[motifs/window|window]] and jumped out into the [[motifs/garden|garden]].  He did not walk
+straight up to the doctor and lunatic, but strolling round the [[motifs/garden|garden]]
 path drew near them cautiously and yet apparently carelessly.
 He stood a couple of feet off them, seemingly counting halfpence
 out of his trousers pocket, but, as I could see, looking up steadily
 under the broad brim of his hat.
 
 Suddenly he stepped up to Professor Chadd's elbow, and said,
-in a loud familiar voice, "[[Well]], my boy, do you still think
+in a loud familiar voice, "[[motifs/well|Well]], my boy, do you still think
 the Zulus our inferiors?"
 
 The doctor knitted his brows and looked anxious, seeming to be about
-to speak.  [[The Professor|The professor]] turned his bald and placid head towards
+to speak.  The professor turned his bald and placid head towards
 Grant in a friendly manner, but made no answer, idly flinging his
 left leg about.
 
@@ -3894,17 +3894,17 @@ still in the same loud and lucid tone.
 Chadd only shuffled his feet and kicked a little with the other leg,
 his expression still benevolent and inquiring.  The doctor cut
 in rather sharply.  "Shall we go inside, professor?" he said.
-"Now you have shown me the [[Garden|garden]].  A beautiful [[Garden|garden]].
-A most beautiful [[Garden|garden]].  Let us go in," and he tried to draw
-the kicking ethnologist by the elbow, at the same [[Time|time]] whispering
+"Now you have shown me the [[motifs/garden|garden]].  A beautiful [[motifs/garden|garden]].
+A most beautiful [[motifs/garden|garden]].  Let us go in," and he tried to draw
+the kicking ethnologist by the elbow, at the same [[motifs/time|time]] whispering
 to Grant:  "I must ask you not to trouble him with questions.
 Most risky.  He must be soothed."
 
 Basil answered in the same tone, with great coolness:
 
 "Of course your directions must be followed out, doctor.  I will endeavour
-to do so, but I [[Hope|hope]] it will not be inconsistent with them if you
-will leave me [[Alone|alone]] with my poor friend in this [[Garden|garden]] for an hour.
+to do so, but I [[concepts/hope|hope]] it will not be inconsistent with them if you
+will leave me alone with my poor friend in this [[motifs/garden|garden]] for an hour.
 I want to watch him.  I assure you, Dr Colman, that I shall say very
 little to him, and that little shall be as soothing as--as syrup."
 
@@ -3914,17 +3914,17 @@ The doctor wiped his eyeglass thoughtfully.
 sun without his hat.  With his bald head, too."
 
 "That is soon settled," said Basil composedly, and took off his own
-big hat and clapped it on the egglike skull of [[The Professor|the professor]].
+big hat and clapped it on the egglike skull of the professor.
 The latter did not turn round but danced away with his eyes
 on the horizon.
 
 The doctor put on his glasses again, looked severely at the two
 for some seconds, with his head on one side like a bird's,
-and then saying, shortly, "All right," strutted away into the [[house]],
+and then saying, shortly, "All right," strutted away into the house,
 where the three Misses Chadd were all looking out from the parlour
-[[Window|window]] on to the [[Garden|garden]].  They looked out on it with hungry eyes
+[[motifs/window|window]] on to the [[motifs/garden|garden]].  They looked out on it with hungry eyes
 for a full hour without moving, and they saw a sight which was more
-extraordinary than [[Madness|madness]] itself.
+extraordinary than [[concepts/madness|madness]] itself.
 
 Basil Grant addressed a few questions to the madman, without succeeding
 in making him do anything but continue to caper, and when he had
@@ -3935,7 +3935,7 @@ He began hurriedly to scribble notes.  When the lunatic skipped away from
 him he would walk a few yards in pursuit, stop, and make notes again.
 Thus they followed each other round and round the foolish circle
 of turf, the one writing in pencil with the face of a man working
-out a problem, the other leaping and playing like a [[Child|child]].
+out a problem, the other leaping and playing like a [[archetypes/child|child]].
 
 After about three-quarters of an hour of this imbecile scene,
 Grant put the pencil in his pocket, but kept the note-book open
@@ -3943,15 +3943,15 @@ in his hand, and walking round the mad professor, planted himself
 directly in front of him.
 
 Then occurred something that even those already used to that wild
-morning had not anticipated or dreamed.  [[The Professor|The professor]], on finding
+morning had not anticipated or dreamed.  The professor, on finding
 Basil in front of him, stared with a blank benignity for a few seconds,
 and then drew up his left leg and hung it bent in the attitude
 that his sister had described as being the first of all his antics.
 And the moment he had done it Basil Grant lifted his own leg and held it
 out rigid before him, confronting Chadd with the flat sole of his boot.
-[[The Professor|The professor]] dropped his bent leg, and swinging his weight on to it
+The professor dropped his bent leg, and swinging his weight on to it
 kicked out the other behind, like a man swimming.  Basil crossed
-his feet like a saltire [[Cross|cross]], and then flung them apart again,
+his feet like a saltire [[motifs/cross|cross]], and then flung them apart again,
 giving a leap into the air.  Then before any of the spectators
 could say a word or even entertain a thought about the matter,
 both of them were dancing a sort of jig or hornpipe opposite each other;
@@ -3959,13 +3959,13 @@ and the sun shone down on two madmen instead of one.
 
 They were so stricken with the deafness and blindness of monomania
 that they did not see the eldest Miss Chadd come out feverishly into
-the [[Garden|garden]] with gestures of entreaty, a gentleman following her.
+the [[motifs/garden|garden]] with gestures of entreaty, a gentleman following her.
 Professor Chadd was in the wildest posture of a pas-de-quatre,
-Basil Grant seemed about to turn a cart-[[Wheel|wheel]], when they were frozen
+Basil Grant seemed about to turn a cart-[[motifs/wheel|wheel]], when they were frozen
 in their follies by the steely voice of Adelaide Chadd saying,
 "Mr Bingham of the British Museum."
 
-Mr Bingham was a slim, [[Well|well]]-clad gentleman with a pointed and
+Mr Bingham was a slim, [[motifs/well|well]]-clad gentleman with a pointed and
 slightly effeminate grey beard, unimpeachable gloves, and formal
 but agreeable manners.  He was the type of the over-civilized,
 as Professor Chadd was of the uncivilized pedant.  His formality
@@ -3976,7 +3976,7 @@ of knowledge had accustomed him to the spectacle of two grey-haired
 middle-class gentlemen in modern costume throwing themselves about
 like acrobats as a substitute for an after-dinner nap.
 
-[[The Professor|The professor]] continued his antics with perfect placidity,
+The professor continued his antics with perfect placidity,
 but Grant stopped abruptly.  The doctor had reappeared on the scene,
 and his shiny black eyes, under his shiny black hat, moved restlessly
 from one of them to the other.
@@ -3990,7 +3990,7 @@ Mr Bingham, of the British Museum, bowed in a manner that was
 respectful but a trifle bewildered.
 
 "Miss Chadd will excuse me," continued Basil easily, "if I know
-my way about the [[house]]."  And he led the dazed librarian rapidly
+my way about the house."  And he led the dazed librarian rapidly
 through the back door into the parlour.
 
 "Mr Bingham," said Basil, setting a chair for him, "I imagine
@@ -4013,16 +4013,16 @@ in his chair, drawing it up to the table.
 "I am delighted, of course," said the gentleman from the British Museum,
 coughing and drawing up his chair also.
 
-The [[Clock|clock]] on the mantelpiece ticked for just the moments required
+The [[motifs/clock|clock]] on the mantelpiece ticked for just the moments required
 for Basil to clear his throat and collect his words, and then he said:
 
 "My proposal is this.  I do not know that in the strict use of words
 you could altogether call it a compromise, still it has something of
-that character.  My proposal is that the [[government|Government]] (acting, as I presume,
+that character.  My proposal is that the Government (acting, as I presume,
 through your Museum) should pay Professor Chadd L800 a year until
 he stops dancing."
 
-"Eight hundred a year!" said Mr Bingham, and for the first [[Time|time]] lifted
+"Eight hundred a year!" said Mr Bingham, and for the first [[motifs/time|time]] lifted
 his mild blue eyes to those of his interlocutor--and he raised them
 with a mild blue stare.  "I think I have not quite understood you.
 Did I understand you to say that Professor Chadd ought to be employed,
@@ -4049,17 +4049,17 @@ for life.  Not at all."
 
 "What for, then?" asked the meek Bingham, suppressing an instinct
 meekly to tear his hair.  "How long is this endowment to run?
-Not till his [[Death|death]]?  Till the Judgement day?"
+Not till his [[motifs/death|death]]?  Till the Judgement day?"
 
 "No," said Basil, beaming, "but just what I said.  Till he has
 stopped dancing."  And he lay back with satisfaction and his hands
 in his pockets.
 
-Bingham had by this [[Time|time]] fastened his eyes keenly on Basil Grant
+Bingham had by this [[motifs/time|time]] fastened his eyes keenly on Basil Grant
 and kept them there.
 
 "Come, Mr Grant," he said.  "Do I seriously understand you to suggest
-that the [[government|Government]] pay Professor Chadd an extraordinarily high salary
+that the Government pay Professor Chadd an extraordinarily high salary
 simply on the ground that he has (pardon the phrase) gone mad?
 That he should be paid more than four good clerks solely on the ground
 that he is flinging his boots about in the back yard?"
@@ -4071,7 +4071,7 @@ but actually to stop with the absurd dancing?"
 
 "One must stop somewhere," said Grant.  "Of course."
 
-Bingham [[Rose|rose]] and took up his perfect stick and gloves.
+Bingham [[motifs/rose|rose]] and took up his perfect stick and gloves.
 
 "There is really nothing more to be said, Mr Grant," he said coldly.
 "What you are trying to explain to me may be a joke--
@@ -4087,7 +4087,7 @@ I am sorry to say, with the British Museum Library."
 He was stepping towards the door, but Grant's hand, flung out
 in dramatic warning, arrested him.
 
-"Stop!" said Basil sternly.  "Stop while there is yet [[Time|time]].
+"Stop!" said Basil sternly.  "Stop while there is yet [[motifs/time|time]].
 Do you want to take part in a great work, Mr Bingham?  Do you
 want to help in the glory of Europe--in the glory of science?
 Do you want to carry your head in the air when it is bald or
@@ -4109,7 +4109,7 @@ Dr Colman was coming in.
 "the fact is, Mr Grant, I--er--have made a most disturbing discovery
 about Mr Chadd."
 
-Bingham looked at him with [[Grave|grave]] eyes.
+Bingham looked at him with [[motifs/grave|grave]] eyes.
 
 "I was afraid so," he said.  "Drink, I imagine."
 
@@ -4134,10 +4134,10 @@ is of a different character.  The awful thing about him is--"
 
 "Not mad!"
 
-"There are quite [[Well|well]]-known physical tests of lunacy,"
+"There are quite [[motifs/well|well]]-known physical tests of lunacy,"
 said the doctor shortly; "he hasn't got any of them."
 
-"But why does he [[Dance|dance]]?" cried the despairing Bingham.
+"But why does he [[motifs/dance|dance]]?" cried the despairing Bingham.
 "Why doesn't he answer us?  Why hasn't he spoken to his family?"
 
 "The devil knows," said Dr Colman coolly.  "I'm paid to judge
@@ -4163,7 +4163,7 @@ he began, but Bingham cried:
 
 "Of course, of course," with a sort of frenzy.
 
-"[[Well]]," said Basil, "like this."  And he suddenly sprang a foot
+"[[motifs/well|Well]]," said Basil, "like this."  And he suddenly sprang a foot
 into the air, coming down with crashing boots, and then stood
 on one leg.
 
@@ -4181,13 +4181,13 @@ Basil let his loose foot fall on the carpet with a crash that struck
 them all rigid in their feeble attitudes.
 
 "Idiots!" he cried.  "Have you seen the man?  Have you looked
-at James Chadd going dismally to and fro from his dingy [[house]]
+at James Chadd going dismally to and fro from his dingy house
 to your miserable library, with his futile books and his confounded
 umbrella, and never seen that he has the eyes of a fanatic?
 Have you never noticed, stuck casually behind his spectacles
 and above his seedy old collar, the face of a man who might
 have burned heretics, or died for the philosopher's stone?
-It is all my fault, in a way:  I lit the dynamite of his deadly [[Faith|faith]].
+It is all my fault, in a way:  I lit the dynamite of his deadly [[concepts/faith|faith]].
 I argued against him on the score of his famous theory about language--
 the theory that language was complete in certain individuals and
 was picked up by others simply by watching them.  I also chaffed
@@ -4205,12 +4205,12 @@ It is religious persecution."
 
 Mr Bingham held out his hand cordially.
 
-"I thank you, Mr Grant," he said.  "I [[Hope|hope]] I shall be able
+"I thank you, Mr Grant," he said.  "I [[concepts/hope|hope]] I shall be able
 to answer for the source of the L800 and I fancy that I shall.
 Will you come in my cab?"
 
 "No, thank you very much, Mr Bingham," said Grant heartily.
-"I think I will go and have a chat with [[The Professor|the professor]] in the [[Garden|garden]]."
+"I think I will go and have a chat with the professor in the [[motifs/garden|garden]]."
 
 The conversation between Chadd and Grant appeared to be personal
 and friendly.  They were still dancing when I left.
@@ -4220,9 +4220,9 @@ Chapter 6
 The Eccentric Seclusion of the Old Lady
 
 The conversation of Rupert Grant had two great elements
-of interest--first, the long fantasias of [[Detective|detective]] deduction
+of interest--first, the long fantasias of [[archetypes/detective|detective]] deduction
 in which he was engaged, and, second, his genuine romantic
-interest in the life of [[London]].  His brother Basil said of him:
+interest in the life of [[settings/london|London]].  His brother Basil said of him:
 "His reasoning is particularly cold and clear, and invariably leads
 him wrong.  But his poetry comes in abruptly and leads him right."
 Whether this was true of Rupert as a whole, or no, it was certainly
@@ -4230,16 +4230,16 @@ curiously supported by one story about him which I think worth telling.
 
 We were walking along a lonely terrace in Brompton together.
 The street was full of that bright blue twilight which comes
-about half past eight in [[Summer|summer]], and which seems for the moment
+about half past eight in [[motifs/summer|summer]], and which seems for the moment
 to be not so much a coming of darkness as the turning on of a new
 azure illuminator, as if the earth were lit suddenly by a sapphire sun.
 In the cool blue the lemon tint of the lamps had already begun
 to flame, and as Rupert and I passed them, Rupert talking excitedly,
 one after another the pale sparks sprang out of the dusk.
 Rupert was talking excitedly because he was trying to prove to me
-the nine hundred and ninety-ninth of his amateur [[Detective|detective]] theories.
-He would go about [[London]], with this mad [[logic]] in his brain,
-seeing a conspiracy in a cab accident, and a special [[Providence|providence]]
+the nine hundred and ninety-ninth of his amateur [[archetypes/detective|detective]] theories.
+He would go about [[settings/london|London]], with this mad logic in his brain,
+seeing a conspiracy in a cab accident, and a special [[concepts/providence|providence]]
 in a falling fusee.  His suspicions at the moment were fixed upon
 an unhappy milkman who walked in front of us.  So arresting were
 the incidents which afterwards overtook us that I am really afraid that I
@@ -4258,17 +4258,17 @@ slightly resented my derision.  He endeavoured to take a whiff of
 his cigar, with the placidity which he associated with his profession,
 but the cigar, I think, was nearly bitten through.
 
-"My dear fellow," he said acidly, "I'll bet you half a [[Crown|crown]]
+"My dear fellow," he said acidly, "I'll bet you half a [[motifs/crown|crown]]
 that wherever that milkman comes to a real stop I'll find
 out something curious."
 
 "My resources are equal to that risk," I said, laughing.  "Done."
 
-We walked on for about a quarter of an hour in [[Silence|silence]] in the trail
+We walked on for about a quarter of an hour in [[motifs/silence|silence]] in the trail
 of the mysterious milkman.  He walked quicker and quicker, and we
 had some ado to keep up with him; and every now and then he left
 a splash of milk, silver in the lamplight.  Suddenly, almost before
-we could note it, he disappeared down the area steps of a [[house]].
+we could note it, he disappeared down the area steps of a house.
 I believe Rupert really believed that the milkman was a fairy;
 for a second he seemed to accept him as having vanished.
 Then calling something to me which somehow took no hold on my mind,
@@ -4277,15 +4277,15 @@ into the area.
 
 I waited for at least five minutes, leaning against a lamp-post
 in the lonely street.  Then the milkman came swinging up the steps
-without his can and hurried off clattering down the [[Road|road]].
+without his can and hurried off clattering down the [[motifs/road|road]].
 Two or three minutes more elapsed, and then Rupert came bounding
 up also, his face pale but yet laughing; a not uncommon contradiction
 in him, denoting excitement.
 
 "My friend," he said, rubbing his hands, "so much for all
 your scepticism.  So much for your philistine ignorance
-of the possibilities of a romantic [[City|city]].  Two and sixpence,
-my boy, is the form in which your prosaic good [[Nature|nature]] will have
+of the possibilities of a romantic [[motifs/city|city]].  Two and sixpence,
+my boy, is the form in which your prosaic good [[concepts/nature|nature]] will have
 to express itself."
 
 "What?"  I said incredulously, "do you mean to say that you really
@@ -4294,12 +4294,12 @@ did find anything the matter with the poor milkman?"
 His face fell.
 
 "Oh, the milkman," he said, with a miserable affectation at having
-misunderstood me.  "No, I--I didn't exactly bring anything [[Home|home]]
+misunderstood me.  "No, I--I didn't exactly bring anything [[motifs/home|home]]
 to the milkman himself, I--"
 
 "What did the milkman say and do?"  I said, with inexorable sternness.
 
-"[[Well]], to tell the [[Truth|truth]]," said Rupert, shifting restlessly from one
+"[[motifs/well|Well]], to tell the [[concepts/truth|truth]]," said Rupert, shifting restlessly from one
 foot to another, "the milkman himself, as far as merely physical
 appearances went, just said, ‘Milk, Miss,' and handed in the can.
 That is not to say, of course, that he did not make some secret
@@ -4688,7 +4688,7 @@ or the violin, can only be perfectly understood by specialists.
 Still, the rudiments may be of public use.  Greenwood here,"
 indicating the little man in the blazer, "doesn't know one note
 of music from another.  Still, he knows something.  He knows enough
-to take off his hat when they play ‘God save the [[King]]'.  He doesn't
+to take off his hat when they play ‘God save the [[archetypes/king|King]]'.  He doesn't
 take it off by mistake when they play ‘Oh, dem Golden Slippers'.
 Just in the same way science--"
 
@@ -4721,16 +4721,16 @@ Rupert and Basil were both particularly strong, but so was Mr Burrows;
 how strong, we knew a second afterwards.  His head was held back
 by Rupert's arm, but a convulsive heave went over his whole frame.
 An instant after his head plunged forward like a bull's,
-and Rupert Grant was slung head over heels, a catherine [[Wheel|wheel]] of legs,
+and Rupert Grant was slung head over heels, a catherine [[motifs/wheel|wheel]] of legs,
 on the floor in front of him.  Simultaneously the bull's head butted
 Basil in the chest, bringing him also to the ground with a crash,
-and the [[Monster|monster]], with a Berserker roar, leaped at me and knocked
+and the [[archetypes/monster|monster]], with a Berserker roar, leaped at me and knocked
 me into the corner of the room, smashing the waste-paper basket.
 The bewildered Greenwood sprang furiously to his feet.
 Basil did the same.  But they had the best of it now.
 
 Greenwood dashed to the bell and pulled it violently, sending peals
-through the [[Great House|great house]].  Before I could get panting to my feet,
+through the [[motifs/great-house|great house]].  Before I could get panting to my feet,
 and before Rupert, who had been literally stunned for a few moments,
 could even lift his head from the floor, two footmen were in the room.
 Defeated even when we were in a majority, we were now outnumbered.
@@ -4739,7 +4739,7 @@ crushing me back into the corner upon the wreck of the paper basket.
 The other two flew at Basil, and pinned him against the wall.
 Rupert lifted himself on his elbow, but he was still dazed.
 
-In the strained [[Silence|silence]] of our helplessness I heard the voice
+In the strained [[motifs/silence|silence]] of our helplessness I heard the voice
 of Basil come with a loud incongruous cheerfulness.
 
 "Now this," he said, "is what I call enjoying oneself."
@@ -4747,34 +4747,34 @@ of Basil come with a loud incongruous cheerfulness.
 I caught a glimpse of his face, flushed and forced against
 the bookcase, from between the swaying limbs of my captors and his.
 To my astonishment his eyes were really brilliant with pleasure,
-like those of a [[Child|child]] heated by a favourite game.
+like those of a [[archetypes/child|child]] heated by a favourite game.
 
 I made several apoplectic efforts to rise, but the servant was on top
 of me so heavily that Greenwood could afford to leave me to him.
 He turned quickly to come to reinforce the two who were mastering Basil.
 The latter's head was already sinking lower and lower, like a
-leaking [[Ship|ship]], as his enemies pressed him down.  He flung up one hand
+leaking [[motifs/ship|ship]], as his enemies pressed him down.  He flung up one hand
 just as I thought him falling and hung on to a huge tome in the bookcase,
 a volume, I afterwards discovered, of St Chrysostom's theology.
 Just as Greenwood bounded across the room towards the group,
 Basil plucked the ponderous tome bodily out of the shelf, swung it,
 and sent it spinning through the air, so that it struck Greenwood
-flat in the face and knocked him over like a [[rolling]] ninepin.
+flat in the face and knocked him over like a rolling ninepin.
 At the same instant Basil's stiffness broke, and he sank, his enemies
 closing over him.
 
-Rupert's head was clear, but his [[Body|body]] shaken; he was hanging
+Rupert's head was clear, but his [[concepts/body|body]] shaken; he was hanging
 as best he could on to the half-prostrate Greenwood.
-They were [[rolling]] over each other on the floor, both somewhat
+They were rolling over each other on the floor, both somewhat
 enfeebled by their falls, but Rupert certainly the more so.
 I was still successfully held down.  The floor was a sea of torn
 and trampled papers and magazines, like an immense waste-paper basket.
 Burrows and his companion were almost up to the knees in them,
-as in a drift of dead [[Leaves|leaves]].  And Greenwood had his leg stuck right
+as in a drift of dead [[motifs/leaves|leaves]].  And Greenwood had his leg stuck right
 through a sheet of the Pall Mall Gazette, which clung to it ludicrously,
 like some fantastic trouser frill.
 
-Basil, shut from me in a human [[Prison|prison]], a [[Prison|prison]] of powerful bodies,
+Basil, shut from me in a human [[motifs/prison|prison]], a [[motifs/prison|prison]] of powerful bodies,
 might be dead for all I knew.  I fancied, however, that the broad
 back of Mr Burrows, which was turned towards me, had a certain bend
 of effort in it as if my friend still needed some holding down.
@@ -4783,7 +4783,7 @@ It was swaying on one leg; Basil, somehow, had hold of the other.
 Burrows' huge fists and those of the footman were battering Basil's
 sunken head like an anvil, but nothing could get the giant's ankle out
 of his sudden and savage grip.  While his own head was forced slowly
-down in darkness and great [[Pain|pain]], the right leg of his captor was being
+down in darkness and great [[motifs/pain|pain]], the right leg of his captor was being
 forced in the air.  Burrows swung to and fro with a purple face.
 Then suddenly the floor and the walls and the ceiling shook together,
 as the colossus fell, all his length seeming to fill the floor.
@@ -4795,7 +4795,7 @@ before he knew clearly that his head had struck the floor.
 Then Basil sprang at Greenwood, whom Rupert was struggling
 to hold down, and between them they secured him easily.
 The man who had hold of me let go and turned to his rescue, but I
-leaped up like a [[spring]] released, and, to my infinite satisfaction,
+leaped up like a [[motifs/spring|spring]] released, and, to my infinite satisfaction,
 knocked the fellow down.  The other footman, bleeding at the mouth
 and quite demoralized, was stumbling out of the room.  My late captor,
 without a word, slunk after him, seeing that the battle was won.
@@ -4809,7 +4809,7 @@ spoke in a perfectly calm voice to the man who sat on top of him.
 perhaps you wouldn't mind telling us what the deuce all this is?"
 
 "This," said Basil, with a radiant face, looking down at his captive,
-"this is what we call the [[Survival|survival]] of the fittest."
+"this is what we call the [[concepts/survival|survival]] of the fittest."
 
 Rupert, who had been steadily collecting himself throughout the latter
 phases of the fight, was intellectually altogether himself again
@@ -4818,7 +4818,7 @@ and knotting a handkerchief round his left hand, which was bleeding
 from a blow, he sang out quite coolly:
 
 "Basil, will you mount guard over the captive of your bow and spear
-and antimacassar?  Swinburne and I will clear out the [[Prison|prison]] downstairs."
+and antimacassar?  Swinburne and I will clear out the [[motifs/prison|prison]] downstairs."
 
 "All right," said Basil, rising also and seating himself in a leisured
 way in an armchair.  "Don't hurry for us," he said, glancing round
@@ -4833,28 +4833,28 @@ Basil's voice continuing conversationally:
 "there's no reason why we shouldn't go on with that amusing argument.
 I'm sorry that you have to express yourself lying on your back on
 the floor, and, as I told you before, I've no more notion why you are
-there than the man in the [[Moon|moon]].  A conversationalist like yourself,
+there than the man in the [[motifs/moon|moon]].  A conversationalist like yourself,
 however, can scarcely be seriously handicapped by any bodily posture.
 You were saying, if I remember right, when this incidental
 fracas occurred, that the rudiments of science might with advantage
 be made public."
 
 "Precisely," said the large man on the floor in an easy tone.
-"I hold that nothing more than a rough [[Sketch|sketch]] of the universe
+"I hold that nothing more than a rough [[forms/sketch|sketch]] of the universe
 as seen by science can be..."
 
 And here the voices died away as we descended into the basement.
 I noticed that Mr Greenwood did not join in the amicable controversy.
 Strange as it may appear, I think he looked back upon our proceedings
 with a slight degree of resentment.  Mr Burrows, however, was all
-[[philosophy]] and chattiness.  We left them, as I say, together, and sank
-deeper and deeper into the under-world of that mysterious [[house]],
+philosophy and chattiness.  We left them, as I say, together, and sank
+deeper and deeper into the under-world of that mysterious house,
 which, perhaps, appeared to us somewhat more Tartarean than it
 really was, owing to our knowledge of its semi-criminal mystery
 and of the human secret locked below.
 
 The basement floor had several doors, as is usual in such
-a [[house]]; doors that would naturally lead to the kitchen,
+a house; doors that would naturally lead to the kitchen,
 the scullery, the pantry, the servants' hall, and so on.
 Rupert flung open all the doors with indescribable rapidity.
 Four out of the five opened on entirely empty apartments.
@@ -4870,8 +4870,8 @@ to deliver you.  We have bound your enemies upstairs hand and foot.
 You are free."
 
 For some seconds after he had spoken into the darkness there was a dead
-[[Silence|silence]] in it.  Then there came a kind of muttering and moaning.
-We might easily have taken it for the [[Wind|wind]] or rats if we had not
+[[motifs/silence|silence]] in it.  Then there came a kind of muttering and moaning.
+We might easily have taken it for the [[motifs/wind|wind]] or rats if we had not
 happened to have heard it before.  It was unmistakably the voice
 of the imprisoned woman, drearily demanding liberty, just as we
 had heard her demand it.
@@ -4881,13 +4881,13 @@ come pretty near the end of this business."
 
 I struck a match and held it up.  It revealed a large, bare,
 yellow-papered apartment with a dark-clad figure at the other end
-of it near the [[Window|window]].  An instant after it burned my fingers
+of it near the [[motifs/window|window]].  An instant after it burned my fingers
 and dropped, leaving darkness.  It had, however, revealed something
 more practical--an iron gas bracket just above my head.
 I struck another match and lit the gas.  And we found ourselves
 suddenly and seriously in the presence of the captive.
 
-At a sort of workbox in the [[Window|window]] of this subterranean breakfast-room
+At a sort of workbox in the [[motifs/window|window]] of this subterranean breakfast-room
 sat an elderly lady with a singularly high colour and almost startling
 silver hair.  She had, as if designedly to relieve these effects,
 a pair of Mephistophelian black eyebrows and a very neat black dress.
@@ -4912,7 +4912,7 @@ you had rescued me?"
 "We have very satisfactorily dealt with Mr Greenwood and Mr Burrows.
 We have settled affairs with them very satisfactorily."
 
-The old lady [[Rose|rose]] from her chair and came very quickly towards us.
+The old lady [[motifs/rose|rose]] from her chair and came very quickly towards us.
 
 "What did you say to them?  How did you persuade them?" she cried.
 
@@ -4920,7 +4920,7 @@ The old lady [[Rose|rose]] from her chair and came very quickly towards us.
 them down and tying them up.  But what is the matter?"
 
 To the surprise of every one the old lady walked slowly back to her
-seat by the [[Window|window]].
+seat by the [[motifs/window|window]].
 
 "Do I understand," she said, with the air of a person about
 to begin knitting, "that you have knocked down Mr Burrows and
@@ -4929,13 +4929,13 @@ tied him up?"
 "We have," said Rupert proudly; "we have resisted their oppression
 and conquered it."
 
-"Oh, thanks," answered the old lady, and sat down by the [[Window|window]].
+"Oh, thanks," answered the old lady, and sat down by the [[motifs/window|window]].
 
 A considerable pause followed.
 
-"The [[Road|road]] is quite clear for you, madam," said Rupert pleasantly.
+"The [[motifs/road|road]] is quite clear for you, madam," said Rupert pleasantly.
 
-The old lady [[Rose|rose]], cocking her black eyebrows and her silver crest
+The old lady [[motifs/rose|rose]], cocking her black eyebrows and her silver crest
 at us for an instant.
 
 "But what about Greenwood and Burrows?" she said.  "What did I
@@ -4944,7 +4944,7 @@ understand you to say had become of them?"
 "They are lying on the floor upstairs," said Rupert, chuckling.
 "Tied hand and foot."
 
-"[[Well]], that settles it," said the old lady, coming with a kind
+"[[motifs/well|Well]], that settles it," said the old lady, coming with a kind
 of bang into her seat again, "I must stop where I am."
 
 Rupert looked bewildered.
@@ -4968,14 +4968,14 @@ I certainly shall not go otherwise."
 
 "Eavesdroppers often hear rather misleading things," replied the
 captive grimly.  "I suppose I did break down a bit and lose my temper
-and talk to myself.  But I have some sense of [[Honour|honour]] for all that."
+and talk to myself.  But I have some sense of [[concepts/honour|honour]] for all that."
 
-"Some sense of [[Honour|honour]]?" repeated Rupert, and the last light of
+"Some sense of [[concepts/honour|honour]]?" repeated Rupert, and the last light of
 intelligence died out of his face, leaving it the face of an idiot
-with [[rolling]] eyes.
+with rolling eyes.
 
 He moved vaguely towards the door and I followed.  But I turned
-yet once more in the toils of my [[Conscience|conscience]] and curiosity.
+yet once more in the toils of my [[concepts/conscience|conscience]] and curiosity.
 "Can we do nothing for you, madam?"  I said forlornly.
 
 "Why," said the lady, "if you are particularly anxious to do me
@@ -4985,14 +4985,14 @@ Rupert plunged heavily up the kitchen staircase, shaking it with his
 vague violence.  With mouth open to speak he stumbled to the door
 of the sitting-room and scene of battle.
 
-"Theoretically speaking, that is no [[Doubt|doubt]] true," Mr Burrows
+"Theoretically speaking, that is no [[concepts/doubt|doubt]] true," Mr Burrows
 was saying, lying on his back and arguing easily with Basil;
 "but we must consider the matter as it appears to our sense.
-The origin of [[morality]]..."
+The origin of morality..."
 
 "Basil," cried Rupert, gasping, "she won't come out."
 
-"Who won't come out?" asked Basil, a little [[Cross|cross]] at being interrupted
+"Who won't come out?" asked Basil, a little [[motifs/cross|cross]] at being interrupted
 in an argument.
 
 "The lady downstairs," replied Rupert.  "The lady who was locked up.
@@ -5010,10 +5010,10 @@ the purple jacket, who did not seem to regard any of the proceedings
 as particularly sensible or brilliant.  The gigantic Burrows,
 on the other hand, was heaving with herculean laughter.
 
-"[[Well]]," said Basil, in his cheeriest way, "I think we must be
+"[[motifs/well|Well]]," said Basil, in his cheeriest way, "I think we must be
 getting away.  We've so much enjoyed our evening.  Far too much
 regard for you to stand on ceremony.  If I may so express myself,
-we've made ourselves at [[Home|home]].  Good [[Night|night]].  Thanks so much.
+we've made ourselves at [[motifs/home|home]].  Good [[motifs/night|night]].  Thanks so much.
 Come along, Rupert."
 
 "Basil," said Rupert desperately, "for God's sake come and see what you
@@ -5023,30 +5023,30 @@ But these gentlemen won't mind perhaps..."
 
 "No, no," cried Burrows, with a sort of Rabelaisian uproariousness.
 "No, no, look in the pantry, gentlemen.  Examine the coal-hole.
-Make a tour of the chimneys.  There are corpses all over the [[house]],
+Make a tour of the chimneys.  There are corpses all over the house,
 I assure you."
 
 This adventure of ours was destined to differ in one respect
 from others which I have narrated.  I had been through many wild
 days with Basil Grant, days for the first half of which the sun
-and the [[Moon|moon]] seemed to have gone mad.  But it had almost
+and the [[motifs/moon|moon]] seemed to have gone mad.  But it had almost
 invariably happened that towards the end of the day and its
 adventure things had cleared themselves like the sky after rain,
 and a luminous and quiet meaning had gradually dawned upon me.
 But this day's work was destined to end in confusion worse confounded.
-Before we left that [[house]], ten minutes afterwards, one half-witted
+Before we left that house, ten minutes afterwards, one half-witted
 touch was added which rolled all our minds in cloud.  If Rupert's
 head had suddenly fallen off on the floor, if wings had begun
 to sprout out of Greenwood's shoulders, we could scarcely have been
 more suddenly stricken.  And yet of this we had no explanation.
-We had to go to bed that [[Night|night]] with the prodigy and get up next morning
+We had to go to bed that [[motifs/night|night]] with the prodigy and get up next morning
 with it and let it stand in our memories for weeks and months.
 As will be seen, it was not until months afterwards that by another
 accident and in another way it was explained.  For the present I
 only state what happened.
 
 When all five of us went down the kitchen stairs again, Rupert leading,
-the two hosts bringing up the rear, we found the door of the [[Prison|prison]]
+the two hosts bringing up the rear, we found the door of the [[motifs/prison|prison]]
 again closed.  Throwing it open we found the place again as black
 as pitch.  The old lady, if she was still there, had turned out the gas:
 she seemed to have a weird preference for sitting in the dark.
@@ -5065,14 +5065,14 @@ at the back of the group and had hardly entered the room.
 And then an amazing fact became apparent.  It was Basil Grant
 who stood foremost of the group, the golden gaslight lighting
 up his strong face and figure.  His face wore an expression
-indescribably conscious, with the suspicion of a very [[Grave|grave]] smile.
+indescribably conscious, with the suspicion of a very [[motifs/grave|grave]] smile.
 His head was slightly bent with a restrained bow.  It was he who had
-acknowledged the lady's obeisance.  And it was he, beyond any [[Shadow|shadow]]
-of reasonable [[Doubt|doubt]], to whom it had really been directed.
+acknowledged the lady's obeisance.  And it was he, beyond any [[archetypes/shadow|shadow]]
+of reasonable [[concepts/doubt|doubt]], to whom it had really been directed.
 
 "So I hear," he said, in a kindly yet somehow formal voice,
 "I hear, madam, that my friends have been trying to rescue you.
-But without [[success]]."
+But without success."
 
 "No one, naturally, knows my faults better than you," answered the lady
 with a high colour.  "But you have not found me guilty of treachery."
@@ -5097,7 +5097,7 @@ He turned to Greenwood with a relapse into joviality.
 "Yes, it will," replied that immovable young gentleman with a face
 like a sphinx.
 
-We found ourselves outside in the dark blue [[Night|night]], shaken and dazed
+We found ourselves outside in the dark blue [[motifs/night|night]], shaken and dazed
 as if we had fallen into it from some high tower.
 
 "Basil," said Rupert at last, in a weak voice, "I always thought you
@@ -5113,14 +5113,14 @@ we could speak.
 
 As I said, it was months after that Rupert Grant suddenly entered
 my room, swinging a satchel in his hand and with a general air
-of having jumped over the [[Garden|garden]] wall, and implored me to go with
+of having jumped over the [[motifs/garden|garden]] wall, and implored me to go with
 him upon the latest and wildest of his expeditions.  He proposed
 to himself no less a thing than the discovery of the actual origin,
 whereabouts, and headquarters of the source of all our joys and sorrows--
 the Club of Queer Trades.  I should expand this story for ever if I
 explained how ultimately we ran this strange entity to its lair.
 The process meant a hundred interesting things.  The tracking
-of a member, the bribing of a [[cabman]], the fighting of roughs,
+of a member, the bribing of a cabman, the fighting of roughs,
 the lifting of a paving stone, the finding of a cellar, the finding
 of a cellar below the cellar, the finding of the subterranean passage,
 the finding of the Club of Queer Trades.
@@ -5129,10 +5129,10 @@ I have had many strange experiences in my life, but never a stranger
 one than that I felt when I came out of those rambling, sightless,
 and seemingly hopeless passages into the sudden splendour of a sumptuous
 and hospitable dining-room, surrounded upon almost every side by faces
-that I knew.  There was Mr Montmorency, the Arboreal [[house|House]]-Agent,
+that I knew.  There was Mr Montmorency, the Arboreal House-Agent,
 seated between the two brisk young men who were occasionally vicars,
 and always Professional Detainers.  There was Mr P. G. Northover,
-founder of the Adventure and [[Romance]] Agency.  There was Professor Chadd,
+founder of the Adventure and [[works/romance-(poe)|Romance]] Agency.  There was Professor Chadd,
 who invented the dancing Language.
 
 As we entered, all the members seemed to sink suddenly into their chairs,
@@ -5152,10 +5152,10 @@ An instant after he ran back again, twittering with a timid ecstasy.
 
 "He's there, gentlemen--he's there all right--he's coming in now,"
 he cried, and sat down.  Rupert and I could hardly help feeling
-the beginnings of a sort of [[Wonder|wonder]] as to who this person
+the beginnings of a sort of [[concepts/wonder|wonder]] as to who this person
 might be who was the first member of this insane brotherhood.
 Who, we thought indistinctly, could be maddest in this world of madmen:
-what fantastic was it whose [[Shadow|shadow]] filled all these fantastics
+what fantastic was it whose [[archetypes/shadow|shadow]] filled all these fantastics
 with so loyal an expectation?
 
 Suddenly we were answered.  The door flew open and the room was
@@ -5167,16 +5167,16 @@ particularly prone to enjoy the long luxuriance of the club dinner.
 But on this occasion it seemed a hopeless and endless string
 of courses.  Hors-d'oeuvre sardines seemed as big as herrings,
 soup seemed a sort of ocean, larks were ducks, ducks were ostriches
-until that dinner was over.  The [[cheese]] course was maddening.
-I had often heard of the [[Moon|moon]] being made of green [[cheese]].
-That [[Night|night]] I thought the green [[cheese]] was made of the [[Moon|moon]].
-And all the [[Time|time]] Basil Grant went on laughing and eating and drinking,
+until that dinner was over.  The cheese course was maddening.
+I had often heard of the [[motifs/moon|moon]] being made of green cheese.
+That [[motifs/night|night]] I thought the green cheese was made of the [[motifs/moon|moon]].
+And all the [[motifs/time|time]] Basil Grant went on laughing and eating and drinking,
 and never threw one glance at us to tell us why he was there,
-the [[King|king]] of these capering idiots.
+the [[archetypes/king|king]] of these capering idiots.
 
 At last came the moment which I knew must in some way enlighten us,
-the [[Time|time]] of the club speeches and the club toasts.  Basil Grant
-[[Rose|rose]] to his feet amid a surge of [[songs]] and cheers.
+the [[motifs/time|time]] of the club speeches and the club toasts.  Basil Grant
+[[motifs/rose|rose]] to his feet amid a surge of songs and cheers.
 
 "Gentlemen," he said, "it is a custom in this society that the president
 for the year opens the proceedings not by any general toast of sentiment,
@@ -5192,44 +5192,44 @@ a small and lowly and futile post.  I had to go by a mean rule as much
 as a postman, and my red and gold was worth no more than his.
 Daily there passed before me taut and passionate problems,
 the stringency of which I had to pretend to relieve by silly
-imprisonments or silly damages, while I knew all the [[Time|time]], by the light
+imprisonments or silly damages, while I knew all the [[motifs/time|time]], by the light
 of my living common sense, that they would have been far better
 relieved by a kiss or a thrashing, or a few words of explanation,
 or a duel, or a tour in the West Highlands.  Then, as this grew on me,
 there grew on me continuously the sense of a mountainous frivolity.
-Every word said in the [[Court|court]], a whisper or an oath,
+Every word said in the [[settings/court|court]], a whisper or an oath,
 seemed more connected with life than the words I had to say.
-Then came the [[Time|time]] when I publicly blasphemed the whole bosh,
+Then came the [[motifs/time|time]] when I publicly blasphemed the whole bosh,
 was classed as a madman and melted from public life."
 
 Something in the atmosphere told me that it was not only Rupert
 and I who were listening with intensity to this statement.
 
-"[[Well]], I discovered that I could be of no real use.  I offered myself
+"[[motifs/well|Well]], I discovered that I could be of no real use.  I offered myself
 privately as a purely moral judge to settle purely moral differences.
-Before very long these unofficial courts of [[Honour|honour]] (kept strictly secret)
+Before very long these unofficial courts of [[concepts/honour|honour]] (kept strictly secret)
 had spread over the whole of society.  People were tried before me not
 for the practical trifles for which nobody cares, such as committing
 a murder, or keeping a dog without a licence.  My criminals were
 tried for the faults which really make social life impossible.
-They were tried before me for selfishness, or for an impossible [[Vanity|vanity]],
+They were tried before me for selfishness, or for an impossible [[concepts/vanity|vanity]],
 or for scandalmongering, or for stinginess to guests or dependents.
 Of course these courts had no sort of real coercive powers.
-The fulfilment of their punishments rested entirely on the [[Honour|honour]] of
-the ladies and gentlemen involved, including the [[Honour|honour]] of the culprits.
+The fulfilment of their punishments rested entirely on the [[concepts/honour|honour]] of
+the ladies and gentlemen involved, including the [[concepts/honour|honour]] of the culprits.
 But you would be amazed to know how completely our orders were
 always obeyed.  Only lately I had a most pleasing example.
 A maiden lady in South Kensington whom I had condemned to solitary
 confinement for being the means of breaking off an engagement
-through backbiting, absolutely refused to leave her [[Prison|prison]],
-although some [[Well|well]]-meaning persons had been inopportune enough
+through backbiting, absolutely refused to leave her [[motifs/prison|prison]],
+although some [[motifs/well|well]]-meaning persons had been inopportune enough
 to rescue her."
 
 Rupert Grant was staring at his brother, his mouth fallen agape.
 So, for the matter of that, I expect, was I. This, then, was the
 explanation of the old lady's strange discontent and her still
 stranger content with her lot.  She was one of the culprits
-of his Voluntary Criminal [[Court]].  She was one of the clients
+of his Voluntary Criminal [[settings/court|Court]].  She was one of the clients
 of his Queer Trade.
 
 We were still dazed when we drank, amid a crash of glasses,
@@ -5237,10 +5237,10 @@ the health of Basil's new judiciary.  We had only a confused sense
 of everything having been put right, the sense men will have when they
 come into the presence of God.  We dimly heard Basil say:
 
-"Mr P. G. Northover will now explain the Adventure and [[Romance]] Agency."
+"Mr P. G. Northover will now explain the Adventure and [[works/romance-(poe)|Romance]] Agency."
 
 And we heard equally dimly Northover beginning the statement he had
-made long ago to Major Brown.  Thus our [[Epic|epic]] ended where it had begun,
+made long ago to Major Brown.  Thus our [[forms/epic|epic]] ended where it had begun,
 like a true cycle.
 
 THE END
@@ -5256,7 +5256,7 @@ Chapter 1
 The Tremendous Adventures of Major Brown
 
 Rabelais, or his wild illustrator Gustave Dore, must have had something to
-do with the designing of the things called flats in England and [[america|America]].
+do with the designing of the things called flats in England and [[settings/america|America]].
 There is something entirely Gargantuan in the idea of economising
 space by piling houses on top of each other, front doors and all.
 And in the chaos and complexity of those perpendicular streets
@@ -5265,16 +5265,16 @@ that the inquirer may find the offices of the Club of Queer Trades.
 It may be thought at the first glance that the name would attract
 and startle the passer-by, but nothing attracts or startles in
 these dim immense hives.  The passer-by is only looking for his own
-[[Melancholy|melancholy]] destination, the Montenegro Shipping Agency or the [[London]]
+[[concepts/melancholy|melancholy]] destination, the Montenegro Shipping Agency or the [[settings/london|London]]
 office of the Rutland Sentinel, and passes through the twilight
-passages as one passes through the twilight corridors of [[A Dream|a dream]].
+passages as one passes through the twilight corridors of a dream.
 If the Thugs set up a Strangers' Assassination Company in one
 of the great buildings in Norfolk Street, and sent in a mild man
 in spectacles to answer inquiries, no inquiries would be made.
 And the Club of Queer Trades reigns in a great edifice hidden
 like a fossil in a mighty cliff of fossils.
 
-The [[Nature|nature]] of this society, such as we afterwards discovered it to be,
+The [[concepts/nature|nature]] of this society, such as we afterwards discovered it to be,
 is soon and simply told.  It is an eccentric and Bohemian Club,
 of which the absolute condition of membership lies in this, that the
 candidate must have invented the method by which he earns his living.
@@ -5283,10 +5283,10 @@ requirement is given in the two principal rules.  First, it must
 not be a mere application or variation of an existing trade.
 Thus, for instance, the Club would not admit an insurance agent
 simply because instead of insuring men's furniture against being
-burnt in a [[Fire|fire]], he insured, let us say, their trousers against being
+burnt in a [[motifs/fire|fire]], he insured, let us say, their trousers against being
 torn by a mad dog.  The principle (as Sir Bradcock Burnaby-Bradcock,
 in the extraordinarily eloquent and soaring speech to the club on
-the occasion of the question being raised in the Stormby [[smith|Smith]] affair,
+the occasion of the question being raised in the Stormby Smith affair,
 said wittily and keenly) is the same.  Secondly, the trade must be
 a genuine commercial source of income, the support of its inventor.
 Thus the Club would not receive a man simply because he chose to pass
@@ -5297,10 +5297,10 @@ one doesn't know whether to laugh or cry.
 
 The discovery of this strange society was a curiously refreshing thing;
 to realize that there were ten new trades in the world was like
-looking at the first [[Ship|ship]] or the first plough.  It made a man feel
-what he should feel, that he was still in the [[Childhood|childhood]] of the world.
-That I should have come at last upon so singular a [[Body|body]] was,
-I may say without [[Vanity|vanity]], not altogether singular, for I
+looking at the first [[motifs/ship|ship]] or the first plough.  It made a man feel
+what he should feel, that he was still in the [[motifs/childhood|childhood]] of the world.
+That I should have come at last upon so singular a [[concepts/body|body]] was,
+I may say without [[concepts/vanity|vanity]], not altogether singular, for I
 have a mania for belonging to as many societies as possible:
 I may be said to collect clubs, and I have accumulated a vast and
 fantastic variety of specimens ever since, in my audacious youth,
@@ -5318,7 +5318,7 @@ have said, was one of this class, one which I was almost bound
 to come across sooner or later, because of my singular hobby.
 The wild youth of the metropolis call me facetiously ‘The King of Clubs'.
 They also call me ‘The Cherub', in allusion to the roseate and youthful
-appearance I have presented in my declining years.  I only [[Hope|hope]]
+appearance I have presented in my declining years.  I only [[concepts/hope|hope]]
 the spirits in the better world have as good dinners as I have.
 But the finding of the Club of Queer Trades has one very curious thing
 about it.  The most curious thing about it is that it was not discovered
@@ -5335,11 +5335,11 @@ to parties than he felt the need of altering the sunset clouds.
 He lived in a queer and comfortable garret in the roofs of Lambeth.
 He was surrounded by a chaos of things that were in odd contrast
 to the slums around him; old fantastic books, swords, armour--the whole
-[[Dust|dust]]-hole of romanticism.  But his face, amid all these quixotic relics,
+[[motifs/dust|dust]]-hole of romanticism.  But his face, amid all these quixotic relics,
 appeared curiously keen and modern--a powerful, legal face.
 And no one but I knew who he was.
 
-Long ago as it is, everyone remembers the terrible and [[Grotesque|grotesque]]
+Long ago as it is, everyone remembers the terrible and [[concepts/grotesque|grotesque]]
 scene that occurred in--, when one of the most acute and
 forcible of the English judges suddenly went mad on the bench.
 I had my own view of that occurrence; but about the facts themselves
@@ -5351,30 +5351,30 @@ in giving personal and moral advice to the people concerned.
 He talked more like a priest or a doctor, and a very outspoken
 one at that.  The first thrill was probably given when he said
 to a man who had attempted a crime of passion:  "I sentence
-you to three years [[Imprisonment|imprisonment]], under the firm, and solemn,
+you to three years [[concepts/imprisonment|imprisonment]], under the firm, and solemn,
 and God-given conviction, that what you require is three months
 at the seaside."  He accused criminals from the bench, not so much
 of their obvious legal crimes, but of things that had never been
-heard of in a [[Court|court]] of justice, monstrous egoism, lack of [[Humour|humour]],
+heard of in a [[settings/court|court]] of justice, monstrous egoism, lack of humour,
 and morbidity deliberately encouraged.  Things came to a head
 in that celebrated diamond case in which the Prime Minister himself,
 that brilliant patrician, had to come forward, gracefully and reluctantly,
 to give evidence against his valet.  After the detailed life
 of the household had been thoroughly exhibited, the judge requested
 the Premier again to step forward, which he did with quiet dignity.
-The judge then said, in a sudden, grating voice:  "Get a new [[Soul|soul]].
-That thing's not fit for a dog.  Get a new [[Soul|soul]]."  All this, of course,
-in the eyes of the sagacious, was premonitory of that [[Melancholy|melancholy]]
-and farcical day when his wits actually deserted him in open [[Court|court]].
+The judge then said, in a sudden, grating voice:  "Get a new [[motifs/soul|soul]].
+That thing's not fit for a dog.  Get a new [[motifs/soul|soul]]."  All this, of course,
+in the eyes of the sagacious, was premonitory of that [[concepts/melancholy|melancholy]]
+and farcical day when his wits actually deserted him in open [[settings/court|court]].
 It was a libel case between two very eminent and powerful financiers,
 against both of whom charges of considerable defalcation were brought.
 The case was long and complex; the advocates were long and eloquent;
-but at last, after weeks of work and rhetoric, the [[Time|time]] came
+but at last, after weeks of work and rhetoric, the [[motifs/time|time]] came
 for the great judge to give a summing-up; and one of his celebrated
-masterpieces of lucidity and pulverizing [[logic]] was eagerly looked for.
+masterpieces of lucidity and pulverizing logic was eagerly looked for.
 He had spoken very little during the prolonged affair, and he looked
 sad and lowering at the end of it.  He was silent for a few moments,
-and then burst into a stentorian [[Song|song]].  His remarks (as reported)
+and then burst into a stentorian song.  His remarks (as reported)
 were as follows:
 
 
@@ -5386,7 +5386,7 @@ Le formidabili avventure del maggiore Brown
 
 Rabelais, o il suo selvaggio illustratore Gustave Doré, devono
 aver avuto qualcosa a che fare con l'ideazione di quelle cose
-chiamate case a schiera in Inghilterra e in [[america|America]].
+chiamate case a schiera in Inghilterra e in [[settings/america|America]].
 C'è qualcosa di interamente gargantuesco nell'idea di risparmiare
 spazio ammucchiando le case l'una sull'altra, porte d'ingresso comprese.
 E nel caos e nella complessità di quelle strade perpendicolari
@@ -5395,16 +5395,16 @@ che l'indagatore può trovare gli uffici del Club dei Mestieri Bizzarri.
 Si potrebbe pensare a prima vista che il nome attiri e faccia
 trasalire il passante, ma nulla attira o fa trasalire in questi
 cupi, immensi alveari. Il passante cerca soltanto la propria
-[[Melancholy|malinconica]] destinazione, l'Agenzia di Navigazione del Montenegro o l'ufficio
-[[London|londinese]] del Rutland Sentinel, e attraversa i passaggi crepuscolari
-come si attraversano i corridoi crepuscolari di [[A Dream|un sogno]].
+[[concepts/melancholy|malinconica]] destinazione, l'Agenzia di Navigazione del Montenegro o l'ufficio
+[[settings/london|londinese]] del Rutland Sentinel, e attraversa i passaggi crepuscolari
+come si attraversano i corridoi crepuscolari di un sogno.
 Se i Thug fondassero una Compagnia per l'Assassinio degli Estranei
 in uno dei grandi edifici di Norfolk Street, e vi spedissero un uomo
 mite con gli occhiali a rispondere alle domande, nessuna domanda verrebbe fatta.
 E il Club dei Mestieri Bizzarri regna in un grande edificio nascosto
 come un fossile in una possente rupe di fossili.
 
-La [[Nature|natura]] di questa società, per come poi la scoprimmo,
+La [[concepts/nature|natura]] di questa società, per come poi la scoprimmo,
 è presto e semplicemente detta. È un Club eccentrico e bohémien,
 la cui condizione assoluta di appartenenza sta in questo: che il
 candidato deve aver inventato il metodo con cui si guadagna da vivere.
@@ -5413,10 +5413,10 @@ requisito è data nelle due regole principali. Primo, non deve
 essere una semplice applicazione o variazione di un mestiere esistente.
 Così, per esempio, il Club non ammetterebbe un agente di assicurazioni
 solo perché, invece di assicurare i mobili degli uomini contro l'essere
-bruciati in un [[Fire|incendio]], assicurasse, poniamo, i loro pantaloni contro l'essere
+bruciati in un [[motifs/fire|incendio]], assicurasse, poniamo, i loro pantaloni contro l'essere
 lacerati da un cane rabbioso. Il principio (come Sir Bradcock Burnaby-Bradcock,
 nel discorso straordinariamente eloquente e slanciato tenuto al club
-in occasione della questione sollevata nell'affare Stormby [[smith|Smith]],
+in occasione della questione sollevata nell'affare Stormby Smith,
 disse con arguzia e acume) è lo stesso. Secondo, il mestiere deve essere
 una genuina fonte commerciale di reddito, il sostentamento del suo inventore.
 Così il Club non accoglierebbe un uomo solo perché ha scelto di passare
@@ -5427,10 +5427,10 @@ non si sa se ridere o piangere.
 
 La scoperta di questa strana società fu una cosa curiosamente rinfrescante;
 rendersi conto che nel mondo esistevano dieci nuovi mestieri era come
-guardare la prima [[Ship|nave]] o il primo aratro. Faceva sentire un uomo
-ciò che dovrebbe sentire, cioè che si trovava ancora nell'[[Childhood|infanzia]] del mondo.
-Che io fossi giunto infine a un [[Body|consesso]] così singolare non era,
-posso dirlo senza [[Vanity|vanità]], del tutto singolare, poiché
+guardare la prima [[motifs/ship|nave]] o il primo aratro. Faceva sentire un uomo
+ciò che dovrebbe sentire, cioè che si trovava ancora nell'[[motifs/childhood|infanzia]] del mondo.
+Che io fossi giunto infine a un [[concepts/body|consesso]] così singolare non era,
+posso dirlo senza [[concepts/vanity|vanità]], del tutto singolare, poiché
 ho la mania di appartenere a quante più società possibile:
 si può dire che io collezioni club, e ho accumulato una vasta e
 fantastica varietà di esemplari da quando, nella mia audace giovinezza,
@@ -5448,7 +5448,7 @@ detto, era di questa classe, uno di quelli in cui ero quasi destinato
 a imbattermi prima o poi, a causa del mio singolare passatempo.
 La giovinezza sfrenata della metropoli mi chiama scherzosamente «il Re dei Club».
 Mi chiamano anche «il Cherubino», in allusione all'aspetto roseo e giovanile
-che ho presentato nei miei anni declinanti. [[Hope|Spero]] soltanto
+che ho presentato nei miei anni declinanti. [[concepts/hope|Spero]] soltanto
 che gli spiriti nel mondo migliore facciano cene buone quanto le mie.
 Ma il ritrovamento del Club dei Mestieri Bizzarri ha una cosa molto curiosa
 in sé. La cosa più curiosa a riguardo è che non fu scoperto
@@ -5465,11 +5465,11 @@ alle feste di quanto sentisse il bisogno di alterare le nubi del tramonto.
 Viveva in una bizzarra e comoda soffitta tra i tetti di Lambeth.
 Era circondato da un caos di cose che erano in strano contrasto
 con i tuguri intorno a lui; vecchi libri fantastici, spade, armature—l'intero
-ripostiglio della [[Dust|polvere]] del romanticismo. Ma il suo volto, in mezzo a tutte queste reliquie donchisciottesche,
+ripostiglio della [[motifs/dust|polvere]] del romanticismo. Ma il suo volto, in mezzo a tutte queste reliquie donchisciottesche,
 appariva curiosamente acuto e moderno—un volto potente, da uomo di legge.
 E nessuno tranne me sapeva chi fosse.
 
-Per quanto tempo sia passato, tutti ricordano la terribile e [[Grotesque|grottesca]]
+Per quanto tempo sia passato, tutti ricordano la terribile e [[concepts/grotesque|grottesca]]
 scena che avvenne a—, quando uno dei più acuti e
 vigorosi giudici inglesi impazzì all'improvviso sul banco.
 Io avevo la mia opinione su quell'episodio; ma sui fatti in sé
@@ -5481,30 +5481,30 @@ a dare consigli personali e morali alle persone coinvolte.
 Parlava più come un prete o un medico, e per giunta molto
 schietto. Il primo brivido fu probabilmente suscitato quando disse
 a un uomo che aveva tentato un delitto passionale: «La condanno
-a tre anni di [[Imprisonment|reclusione]], con la ferma, solenne
+a tre anni di [[concepts/imprisonment|reclusione]], con la ferma, solenne
 e divina convinzione che ciò di cui lei ha bisogno sono tre mesi
 al mare». Accusava i criminali dal banco, non tanto
 dei loro evidenti crimini legali, quanto di cose di cui mai si era
-sentito parlare in un [[Court|tribunale]] di giustizia: egoismo mostruoso, mancanza di [[Humour|umorismo]],
+sentito parlare in un [[settings/court|tribunale]] di giustizia: egoismo mostruoso, mancanza di umorismo,
 e morbosità deliberatamente coltivata. Le cose giunsero al culmine
 in quel celebre caso dei diamanti in cui lo stesso Primo Ministro,
 quel brillante patrizio, dovette farsi avanti, con grazia e riluttanza,
 per testimoniare contro il suo cameriere. Dopo che la vita minuziosa
 della casa fu accuratamente esibita, il giudice pregò
 il Premier di farsi di nuovo avanti, cosa che questi fece con quieta dignità.
-Il giudice allora disse, con voce improvvisa e stridula: «Si procuri una nuova [[Soul|anima]].
-Quella cosa non è adatta a un cane. Si procuri una nuova [[Soul|anima]]». Tutto ciò, naturalmente,
-agli occhi dei sagaci, era presago di quel [[Melancholy|malinconico]]
-e farsesco giorno in cui il senno lo abbandonò davvero in pubblico [[Court|tribunale]].
+Il giudice allora disse, con voce improvvisa e stridula: «Si procuri una nuova [[motifs/soul|anima]].
+Quella cosa non è adatta a un cane. Si procuri una nuova [[motifs/soul|anima]]». Tutto ciò, naturalmente,
+agli occhi dei sagaci, era presago di quel [[concepts/melancholy|malinconico]]
+e farsesco giorno in cui il senno lo abbandonò davvero in pubblico [[settings/court|tribunale]].
 Era un caso di diffamazione tra due finanzieri assai eminenti e potenti,
 contro entrambi i quali erano mosse accuse di considerevole appropriazione indebita.
 Il caso era lungo e complesso; gli avvocati erano prolissi ed eloquenti;
-ma alla fine, dopo settimane di lavoro e di retorica, venne il [[Time|momento]]
+ma alla fine, dopo settimane di lavoro e di retorica, venne il [[motifs/time|momento]]
 in cui il grande giudice doveva tirare le somme; e uno dei suoi celebri
-capolavori di lucidità e di [[logic|logica]] polverizzante era atteso con ansia.
+capolavori di lucidità e di logica polverizzante era atteso con ansia.
 Aveva parlato pochissimo durante la prolungata vicenda, e appariva
 triste e cupo al termine di essa. Rimase in silenzio per qualche istante,
-e poi proruppe in un [[Song|canto]] stentoreo. Le sue osservazioni (per come furono riportate)
+e poi proruppe in un canto stentoreo. Le sue osservazioni (per come furono riportate)
 furono le seguenti:
 
 
@@ -5517,12 +5517,12 @@ tiddly-ighty Tiddly-ighty ow."
 
 He then retired from public life and took the garret in Lambeth.
 
-I was sitting there one evening, about six o'[[Clock|clock]], over a glass of that
+I was sitting there one evening, about six o'[[motifs/clock|clock]], over a glass of that
 gorgeous Burgundy which he kept behind a pile of black-letter folios;
 he was striding about the room, fingering, after a habit of his,
 one of the great swords in his collection; the red glare of the
-strong [[Fire|fire]] struck his square features and his fierce grey hair;
-his blue eyes were even unusually full of [[Dreams|dreams]], and he had
+strong [[motifs/fire|fire]] struck his square features and his fierce grey hair;
+his blue eyes were even unusually full of [[motifs/dreams|dreams]], and he had
 opened his mouth to speak dreamily, when the door was flung open,
 and a pale, fiery man, with red hair and a huge furred overcoat,
 swung himself panting into the room.
@@ -5534,12 +5534,12 @@ I beg your pardon, sir," and he gave me a bow of apology.
 Basil smiled at me.  "You didn't know," he said, "that I had a
 practical brother.  This is Rupert Grant, Esquire, who can and does
 all there is to be done.  Just as I was a failure at one thing,
-he is a [[success]] at everything.  I remember him as a journalist,
-a [[house]]-agent, a naturalist, an inventor, a publisher,
+he is a success at everything.  I remember him as a journalist,
+a house-agent, a naturalist, an inventor, a publisher,
 a schoolmaster, a--what are you now, Rupert?"
 
-"I am and have been for some [[Time|time]]," said Rupert, with some dignity,
-"a private [[Detective|detective]], and there's my client."
+"I am and have been for some [[motifs/time|time]]," said Rupert, with some dignity,
+"a private [[archetypes/detective|detective]], and there's my client."
 
 A loud rap at the door had cut him short, and, on permission being given,
 the door was thrown sharply open and a stout, dapper man walked swiftly
@@ -5569,12 +5569,12 @@ men who recovered British India, he was a man with the natural
 beliefs and tastes of an old maid.  In his dress he was dapper
 and yet demure; in his habits he was precise to the point
 of the exact adjustment of a tea-cup. One enthusiasm he had,
-which was of the [[Nature|nature]] of a religion--the cultivation of pansies.
+which was of the [[concepts/nature|nature]] of a religion--the cultivation of pansies.
 And when he talked about his collection, his blue eyes glittered
-like a [[Child|child]]'s at a new toy, the eyes that had remained untroubled
+like a [[archetypes/child|child]]'s at a new toy, the eyes that had remained untroubled
 when the troops were roaring victory round Roberts at Candahar.
 
-"[[Well]], Major," said Rupert Grant, with a lordly heartiness,
+"[[motifs/well|Well]], Major," said Rupert Grant, with a lordly heartiness,
 flinging himself into a chair, "what is the matter with you?"
 
 "Yellow pansies.  Coal-cellar. P. G. Northover," said the Major,
@@ -5586,7 +5586,7 @@ eyes shut in his abstracted way, said simply:
 "I beg your pardon."
 
 "Fact is.  Street, you know, man, pansies.  On wall.
-[[Death]] to me.  Something.  Preposterous."
+[[motifs/death|Death]] to me.  Something.  Preposterous."
 
 We shook our heads gently.  Bit by bit, and mainly by
 the seemingly sleepy assistance of Basil Grant, we pieced
@@ -5602,14 +5602,14 @@ sitting bolt upright in his chair and talking like a telegram.
 Major Brown was, I have said, a successful soldier, but by no
 means an enthusiastic one.  So far from regretting his retirement
 on half-pay, it was with delight that he took a small neat villa,
-very like a doll's [[house]], and devoted the rest of his life
+very like a doll's house, and devoted the rest of his life
 to pansies and weak tea.  The thought that battles were over
-when he had once hung up his [[Sword|sword]] in the little front hall
-(along with two patent stew-pots and a bad [[Water|water]]-colour),
+when he had once hung up his sword in the little front hall
+(along with two patent stew-pots and a bad [[motifs/water|water]]-colour),
 and betaken himself instead to wielding the rake in his little
-sunlit [[Garden|garden]], was to him like having come into a harbour in heaven.
+sunlit [[motifs/garden|garden]], was to him like having come into a harbour in heaven.
 He was Dutch-like and precise in his taste in gardening,
-and had, perhaps, some tendency to drill his [[Flowers|flowers]] like soldiers.
+and had, perhaps, some tendency to drill his [[motifs/flowers|flowers]] like soldiers.
 He was one of those men who are capable of putting four umbrellas
 in the stand rather than three, so that two may lean one way and
 two another; he saw life like a pattern in a freehand drawing-book.
@@ -5623,7 +5623,7 @@ One certain bright and windy afternoon, the Major, attired in his
 usual faultless manner, had set out for his usual constitutional.
 In crossing from one great residential thoroughfare to another,
 he happened to pass along one of those aimless-looking lanes
-which lie along the back-[[Garden|garden]] walls of a row of mansions,
+which lie along the back-[[motifs/garden|garden]] walls of a row of mansions,
 and which in their empty and discoloured appearance give one
 an odd sensation as of being behind the scenes of a theatre.
 But mean and sulky as the scene might be in the eyes of most of us,
@@ -5632,7 +5632,7 @@ gravel footway was coming a thing which was to him what
 the passing of a religious procession is to a devout person.
 A large, heavy man, with fish-blue eyes and a ring of irradiating
 red beard, was pushing before him a barrow, which was ablaze
-with incomparable [[Flowers|flowers]].  There were splendid specimens of almost
+with incomparable [[motifs/flowers|flowers]].  There were splendid specimens of almost
 every order, but the Major's own favourite pansies predominated.
 The Major stopped and fell into conversation, and then into bargaining.
 He treated the man after the manner of collectors and other
@@ -5655,8 +5655,8 @@ Ero seduto lì una sera, verso le sei, davanti a un bicchiere di quel
 magnifico Borgogna che teneva dietro una pila di folianti gotici;
 lui camminava a grandi passi per la stanza, tastando, secondo una sua abitudine,
 una delle grandi spade della sua collezione; il rosso bagliore del
-forte [[Fire|fuoco]] colpiva i suoi lineamenti squadrati e i suoi feroci capelli grigi;
-i suoi occhi azzurri erano persino insolitamente colmi di [[Dreams|sogni]], e aveva
+forte [[motifs/fire|fuoco]] colpiva i suoi lineamenti squadrati e i suoi feroci capelli grigi;
+i suoi occhi azzurri erano persino insolitamente colmi di [[motifs/dreams|sogni]], e aveva
 aperto la bocca per parlare sognante, quando la porta fu spalancata,
 e un uomo pallido, focoso, dai capelli rossi e con un enorme soprabito di pelliccia,
 si precipitò ansimante nella stanza.
@@ -5668,12 +5668,12 @@ Le chiedo scusa, signore», e mi rivolse un inchino di scusa.
 Basil mi sorrise. «Non sapevi», disse, «che avevo un
 fratello pratico. Questi è Rupert Grant, Esquire, che può fare e fa
 tutto ciò che c'è da fare. Proprio come io sono stato un fallimento in una cosa,
-lui è un [[success|successo]] in tutto. Lo ricordo giornalista,
-[[house|agente immobiliare]], naturalista, inventore, editore,
+lui è un successo in tutto. Lo ricordo giornalista,
+agente immobiliare, naturalista, inventore, editore,
 maestro di scuola, un—che cosa sei adesso, Rupert?»
 
-«Sono, e sono stato da qualche [[Time|tempo]]», disse Rupert, con una certa dignità,
-«un [[Detective|investigatore]] privato, ed ecco il mio cliente.»
+«Sono, e sono stato da qualche [[motifs/time|tempo]]», disse Rupert, con una certa dignità,
+«un [[archetypes/detective|investigatore]] privato, ed ecco il mio cliente.»
 
 Un forte colpo alla porta lo interruppe, e, dato il permesso,
 la porta fu spalancata di scatto ed entrò rapidamente nella stanza un uomo
@@ -5703,12 +5703,12 @@ che riconquistarono l'India britannica, era un uomo con le convinzioni
 e i gusti naturali di una zitella. Nel vestire era azzimato
 eppure compìto; nelle sue abitudini era preciso fino al punto
 dell'esatta collocazione di una tazza da tè. Aveva un entusiasmo,
-che era della [[Nature|natura]] di una religione—la coltivazione delle viole del pensiero.
+che era della [[concepts/nature|natura]] di una religione—la coltivazione delle viole del pensiero.
 E quando parlava della sua collezione, i suoi occhi azzurri scintillavano
-come quelli di un [[Child|bambino]] davanti a un giocattolo nuovo, gli occhi che erano rimasti impassibili
+come quelli di un [[archetypes/child|bambino]] davanti a un giocattolo nuovo, gli occhi che erano rimasti impassibili
 quando le truppe ruggivano vittoria intorno a Roberts a Candahar.
 
-«[[Well|Ebbene]], Maggiore», disse Rupert Grant, con una cordialità signorile,
+«[[motifs/well|Ebbene]], Maggiore», disse Rupert Grant, con una cordialità signorile,
 gettandosi su una sedia, «che cosa vi affligge?»
 
 «Viole del pensiero gialle. Carbonaia. P. G. Northover», disse il Maggiore,
@@ -5720,7 +5720,7 @@ occhi chiusi nel suo modo assorto, disse semplicemente:
 «Chiedo scusa.»
 
 «Il fatto è. Strada, sapete, amico mio, viole. Su un muro.
-[[Death|Morte]] a me. Qualcosa. Assurdo.»
+[[motifs/death|Morte]] a me. Qualcosa. Assurdo.»
 
 Scuotemmo dolcemente il capo. A poco a poco, e principalmente grazie
 all'assistenza apparentemente sonnolenta di Basil Grant, mettemmo
@@ -5738,12 +5738,12 @@ entusiasta. Ben lungi dal rimpiangere il suo ritiro
 a mezza paga, fu con gioia che prese una piccola, ordinata villetta,
 del tutto simile a una casa delle bambole, e dedicò il resto della sua vita
 alle viole del pensiero e al tè leggero. Il pensiero che le battaglie fossero finite
-una volta appesa la sua [[Sword|spada]] nel piccolo ingresso
-(insieme a due pentole a pressione e a un brutto [[Water|acquerello]]),
+una volta appesa la sua spada nel piccolo ingresso
+(insieme a due pentole a pressione e a un brutto [[motifs/water|acquerello]]),
 e datosi invece a maneggiare il rastrello nel suo piccolo
-[[Garden|giardino]] soleggiato, era per lui come essere approdato a un porto in paradiso.
+[[motifs/garden|giardino]] soleggiato, era per lui come essere approdato a un porto in paradiso.
 Aveva un gusto olandese e preciso nel giardinaggio,
-e aveva, forse, una certa tendenza ad addestrare i suoi [[Flowers|fiori]] come soldati.
+e aveva, forse, una certa tendenza ad addestrare i suoi [[motifs/flowers|fiori]] come soldati.
 Era uno di quegli uomini capaci di mettere quattro ombrelli
 nel portaombrelli invece di tre, così che due pendano da un lato e
 due dall'altro; vedeva la vita come un disegno su un album a mano libera.
@@ -5757,7 +5757,7 @@ Un certo pomeriggio luminoso e ventoso, il Maggiore, vestito nel suo
 consueto modo impeccabile, era uscito per la sua consueta passeggiata igienica.
 Passando da una grande arteria residenziale a un'altra,
 gli capitò di percorrere uno di quei vicoli dall'aria senza scopo
-che corrono lungo i muri dei [[Garden|giardini]] sul retro di una fila di palazzi,
+che corrono lungo i muri dei [[motifs/garden|giardini]] sul retro di una fila di palazzi,
 e che nel loro aspetto vuoto e scolorito danno una
 strana sensazione, come di stare dietro le quinte di un teatro.
 Ma per quanto squallida e imbronciata potesse apparire la scena agli occhi dei più,
@@ -5766,7 +5766,7 @@ sentiero di ghiaia veniva avanti una cosa che era per lui ciò che
 il passaggio di una processione religiosa è per un devoto.
 Un uomo grande e pesante, con occhi azzurri da pesce e una corona di raggiante
 barba rossa, spingeva davanti a sé una carriola, sfolgorante
-di [[Flowers|fiori]] incomparabili. Vi erano splendidi esemplari di quasi
+di [[motifs/flowers|fiori]] incomparabili. Vi erano splendidi esemplari di quasi
 ogni specie, ma predominavano le viole del pensiero preferite dal Maggiore.
 Il Maggiore si fermò e attaccò conversazione, e poi trattativa.
 Trattò l'uomo alla maniera dei collezionisti e degli altri
@@ -5785,47 +5785,47 @@ al Maggiore.
 "I'll tell you what, sir," he said.  "If you're interested in them things,
 you just get on to that wall."
 
-"On the wall!" cried the scandalised Major, whose conventional [[Soul|soul]]
+"On the wall!" cried the scandalised Major, whose conventional [[motifs/soul|soul]]
 quailed within him at the thought of such fantastic trespass.
 
-"Finest show of yellow pansies in England in that there [[Garden|garden]], sir,"
+"Finest show of yellow pansies in England in that there [[motifs/garden|garden]], sir,"
 hissed the tempter.  "I'll help you up, sir."
 
 How it happened no one will ever know but that positive enthusiasm
 of the Major's life triumphed over all its negative traditions,
 and with an easy leap and swing that showed that he was in no
 need of physical assistance, he stood on the wall at the end
-of the strange [[Garden|garden]].  The second after, the flapping of
-the frock-coat at his knees made him feel inexpressibly a [[Fool|fool]].
+of the strange [[motifs/garden|garden]].  The second after, the flapping of
+the frock-coat at his knees made him feel inexpressibly a [[archetypes/fool|fool]].
 But the next instant all such trifling sentiments were swallowed up
 by the most appalling shock of surprise the old soldier had ever
 felt in all his bold and wandering existence.  His eyes fell upon
-the [[Garden|garden]], and there across a large bed in the centre of the lawn
-was a vast pattern of pansies; they were splendid [[Flowers|flowers]], but for once
+the [[motifs/garden|garden]], and there across a large bed in the centre of the lawn
+was a vast pattern of pansies; they were splendid [[motifs/flowers|flowers]], but for once
 it was not their horticultural aspects that Major Brown beheld,
 for the pansies were arranged in gigantic capital letters so as to
 form the sentence:
 
-[[Death|DEATH]] TO MAJOR BROWN
+[[motifs/death|DEATH]] TO MAJOR BROWN
 
 A kindly looking old man, with white whiskers, was watering them.
-Brown looked sharply back at the [[Road|road]] behind him; the man with the barrow
+Brown looked sharply back at the [[motifs/road|road]] behind him; the man with the barrow
 had suddenly vanished.  Then he looked again at the lawn with its
-incredible [[Inscription|inscription]].  Another man might have thought he had gone mad,
+incredible [[forms/inscription|inscription]].  Another man might have thought he had gone mad,
 but Brown did not.  When romantic ladies gushed over his V.C. and
 his military exploits, he sometimes felt himself to be a painfully
 prosaic person, but by the same token he knew he was incurably sane.
 Another man, again, might have thought himself a victim of a
 passing practical joke, but Brown could not easily believe this.
-He knew from his own quaint learning that the [[Garden|garden]] arrangement was
+He knew from his own quaint learning that the [[motifs/garden|garden]] arrangement was
 an elaborate and expensive one; he thought it extravagantly improbable
-that any one would pour out money like [[Water|water]] for a joke against him.
+that any one would pour out money like [[motifs/water|water]] for a joke against him.
 Having no explanation whatever to offer, he admitted the fact
 to himself, like a clear-headed man, and waited as he would have
 done in the presence of a man with six legs.
 
 At this moment the stout old man with white whiskers looked up,
-and the watering can fell from his hand, shooting a swirl of [[Water|water]]
+and the watering can fell from his hand, shooting a swirl of [[motifs/water|water]]
 down the gravel path.
 
 "Who on earth are you?" he gasped, trembling violently.
@@ -5840,9 +5840,9 @@ At last he stammered wildly, "Come down--come down here!"
 the grass beside him, without disarranging his silk hat.
 
 The old man turned his broad back and set off at a sort of waddling
-run towards the [[house]], followed with swift steps by the Major.
+run towards the house, followed with swift steps by the Major.
 His guide led him through the back passages of a gloomy, but gorgeously
-appointed [[house]], until they reached the door of the front room.
+appointed house, until they reached the door of the front room.
 Then the old man turned with a face of apoplectic terror dimly
 showing in the twilight.
 
@@ -5855,7 +5855,7 @@ The Major stepped into a rich, glowing room, full of red copper,
 and peacock and purple hangings, hat in hand.  He had the finest
 manners in the world, and, though mystified, was not in the least
 embarrassed to see that the only occupant was a lady, sitting by
-the [[Window|window]], looking out.
+the [[motifs/window|window]], looking out.
 
 "Madam," he said, bowing simply, "I am Major Brown."
 
@@ -5866,14 +5866,14 @@ of Bedford Park.  "You have come, I suppose," she said mournfully,
 "to tax me about the hateful title-deeds."
 
 "I have come, madam," he said, "to know what is the matter.
-To know why my name is written across your [[Garden|garden]].
+To know why my name is written across your [[motifs/garden|garden]].
 Not amicably either."
 
 He spoke grimly, for the thing had hit him.  It is impossible
 to describe the effect produced on the mind by that quiet and sunny
-[[Garden|garden]] scene, the frame for a stunning and brutal personality.
+[[motifs/garden|garden]] scene, the frame for a stunning and brutal personality.
 The evening air was still, and the grass was golden in the place
-where the little [[Flowers|flowers]] he studied cried to heaven for his [[Blood|blood]].
+where the little [[motifs/flowers|flowers]] he studied cried to heaven for his [[motifs/blood|blood]].
 
 "You know I must not turn round," said the lady; "every afternoon
 till the stroke of six I must keep my face turned to the street."
@@ -5882,7 +5882,7 @@ Some queer and unusual inspiration made the prosaic soldier resolute
 to accept these outrageous riddles without surprise.
 
 "It is almost six," he said; and even as he spoke the barbaric
-copper [[Clock|clock]] upon the wall clanged the first stroke of the hour.
+copper [[motifs/clock|clock]] upon the wall clanged the first stroke of the hour.
 At the sixth the lady sprang up and turned on the Major one
 of the queerest and yet most attractive faces he had ever seen
 in his life; open, and yet tantalising, the face of an elf.
@@ -5902,7 +5902,7 @@ looked out.  There was no sign of life in the blue gloaming of the street,
 where one or two lamps were beginning to light their lemon sparks.
 On returning, he found the lady in green trembling.
 
-"It is the end," she cried, with shaking lips; "it may be [[Death|death]]
+"It is the end," she cried, with shaking lips; "it may be [[motifs/death|death]]
 for both of us.  Whenever--"
 
 But even as she spoke her speech was cloven by another hoarse
@@ -5914,47 +5914,47 @@ proclamation from the dark street, again horribly articulate.
 «Vi dirò una cosa, signore», disse. «Se vi interessano quelle cose,
 salite su quel muro.»
 
-«Sul muro!» gridò il Maggiore scandalizzato, la cui [[Soul|anima]] convenzionale
+«Sul muro!» gridò il Maggiore scandalizzato, la cui [[motifs/soul|anima]] convenzionale
 si ritraeva sgomenta al pensiero di una sconfinamento così fantastico.
 
-«La più bella esposizione di viole del pensiero gialle d'Inghilterra è in quel [[Garden|giardino]] là, signore»,
+«La più bella esposizione di viole del pensiero gialle d'Inghilterra è in quel [[motifs/garden|giardino]] là, signore»,
 sibilò il tentatore. «Vi aiuto a salire, signore.»
 
 Come sia accaduto nessuno lo saprà mai, ma quel positivo entusiasmo
 della vita del Maggiore trionfò su tutte le sue tradizioni negative,
 e con un balzo e uno slancio agile che dimostravano come non avesse alcun
 bisogno di aiuto fisico, si ritrovò in piedi sul muro in fondo
-allo strano [[Garden|giardino]]. L'istante successivo, lo sventolìo
-della finanziera sulle ginocchia lo fece sentire inesprimibilmente uno [[Fool|sciocco]].
+allo strano [[motifs/garden|giardino]]. L'istante successivo, lo sventolìo
+della finanziera sulle ginocchia lo fece sentire inesprimibilmente uno [[archetypes/fool|sciocco]].
 Ma nell'istante seguente tutti questi sentimenti insignificanti furono inghiottiti
 dallo shock di sorpresa più spaventoso che il vecchio soldato avesse mai
 provato in tutta la sua ardita e girovaga esistenza. Il suo sguardo cadde
-sul [[Garden|giardino]], e là, attraverso una grande aiuola al centro del prato,
-c'era un vasto disegno di viole del pensiero; erano splendidi [[Flowers|fiori]], ma per una volta
+sul [[motifs/garden|giardino]], e là, attraverso una grande aiuola al centro del prato,
+c'era un vasto disegno di viole del pensiero; erano splendidi [[motifs/flowers|fiori]], ma per una volta
 non fu il loro aspetto orticolo che il maggiore Brown contemplò,
 poiché le viole erano disposte in gigantesche lettere maiuscole così da
 formare la frase:
 
-[[Death|MORTE]] AL MAGGIORE BROWN
+[[motifs/death|MORTE]] AL MAGGIORE BROWN
 
 Un vecchio dall'aria gentile, con favoriti bianchi, le stava annaffiando.
-Brown si voltò di scatto a guardare la [[Road|strada]] dietro di sé; l'uomo con la carriola
+Brown si voltò di scatto a guardare la [[motifs/road|strada]] dietro di sé; l'uomo con la carriola
 era improvvisamente svanito. Poi guardò di nuovo il prato con la sua
-incredibile [[Inscription|iscrizione]]. Un altro uomo avrebbe potuto credere di essere impazzito,
+incredibile [[forms/inscription|iscrizione]]. Un altro uomo avrebbe potuto credere di essere impazzito,
 ma Brown no. Quando le romantiche dame si effondevano sulla sua V.C. e
 sulle sue imprese militari, egli talvolta si sentiva un individuo penosamente
 prosaico, ma per la stessa ragione sapeva di essere incurabilmente sano di mente.
 Un altro uomo, ancora, avrebbe potuto credersi vittima di un
 scherzo passeggero, ma Brown non riusciva a crederlo facilmente.
-Sapeva, dalla sua bizzarra erudizione, che la disposizione del [[Garden|giardino]] era
+Sapeva, dalla sua bizzarra erudizione, che la disposizione del [[motifs/garden|giardino]] era
 elaborata e costosa; giudicava stravagantemente improbabile
-che qualcuno versasse denaro come [[Water|acqua]] per uno scherzo ai suoi danni.
+che qualcuno versasse denaro come [[motifs/water|acqua]] per uno scherzo ai suoi danni.
 Non avendo alcuna spiegazione da offrire, ammise il fatto
 a se stesso, da uomo lucido, e attese come avrebbe
 fatto al cospetto di un uomo con sei gambe.
 
 In quel momento il tarchiato vecchio dai favoriti bianchi alzò lo sguardo,
-e l'annaffiatoio gli cadde di mano, scagliando un vortice d'[[Water|acqua]]
+e l'annaffiatoio gli cadde di mano, scagliando un vortice d'[[motifs/water|acqua]]
 lungo il sentiero di ghiaia.
 
 «Chi diamine siete voi?» ansimò, tremando violentemente.
@@ -5969,8 +5969,8 @@ Alla fine balbettò concitato: «Scendete—scendete qui!»
 sull'erba accanto a lui, senza scomporre il cilindro di seta.
 
 Il vecchio volse la sua ampia schiena e si avviò con una specie di corsa
-dondolante verso la [[house|casa]], seguito a passi rapidi dal Maggiore.
-La sua guida lo condusse attraverso i corridoi sul retro di una [[house|casa]]
+dondolante verso la casa, seguito a passi rapidi dal Maggiore.
+La sua guida lo condusse attraverso i corridoi sul retro di una casa
 tetra, ma sfarzosamente arredata, finché non raggiunsero la porta della stanza sul davanti.
 Poi il vecchio si voltò, con un volto di terrore apoplettico che si scorgeva
 appena nella penombra.
@@ -5984,7 +5984,7 @@ Il Maggiore entrò in una ricca, ardente stanza, piena di rame rosso,
 e di tappezzerie color pavone e porpora, il cappello in mano. Aveva le più raffinate
 maniere del mondo e, benché sconcertato, non fu affatto
 imbarazzato nel vedere che l'unica occupante era una dama, seduta accanto
-alla [[Window|finestra]], che guardava fuori.
+alla [[motifs/window|finestra]], che guardava fuori.
 
 «Signora», disse, inchinandosi con semplicità, «sono il maggiore Brown.»
 
@@ -5995,14 +5995,14 @@ di Bedford Park. «Siete venuto, suppongo», disse mestamente,
 «per tormentarmi a proposito degli odiosi atti di proprietà.»
 
 «Sono venuto, signora», disse, «per sapere di che si tratta.
-Per sapere perché il mio nome è scritto attraverso il vostro [[Garden|giardino]].
+Per sapere perché il mio nome è scritto attraverso il vostro [[motifs/garden|giardino]].
 E per giunta non in modo amichevole.»
 
 Parlò severamente, poiché la cosa lo aveva colpito. È impossibile
 descrivere l'effetto prodotto sulla mente da quella quieta e soleggiata
-scena di [[Garden|giardino]], la cornice di una personalità sconvolgente e brutale.
+scena di [[motifs/garden|giardino]], la cornice di una personalità sconvolgente e brutale.
 L'aria della sera era ferma, e l'erba era dorata nel punto
-dove i piccoli [[Flowers|fiori]] che egli studiava gridavano al cielo per il suo [[Blood|sangue]].
+dove i piccoli [[motifs/flowers|fiori]] che egli studiava gridavano al cielo per il suo [[motifs/blood|sangue]].
 
 «Sapete che non devo voltarmi», disse la dama; «ogni pomeriggio
 fino al rintocco delle sei devo tenere il viso rivolto verso la strada.»
@@ -6011,7 +6011,7 @@ Una bizzarra e insolita ispirazione rese il prosaico soldato risoluto
 ad accettare senza sorpresa questi oltraggiosi enigmi.
 
 «Sono quasi le sei», disse; e proprio mentre parlava il barbarico
-[[Clock|orologio]] di rame sulla parete batté il primo rintocco dell'ora.
+[[motifs/clock|orologio]] di rame sulla parete batté il primo rintocco dell'ora.
 Al sesto la dama balzò in piedi e volse verso il Maggiore uno
 dei volti più bizzarri eppure più attraenti che avesse mai visto
 in vita sua; aperto, eppure allettante, il volto di un elfo.
@@ -6031,7 +6031,7 @@ guardò fuori. Non v'era segno di vita nel cupo azzurro crepuscolare della strad
 dove uno o due lampioni cominciavano ad accendere le loro scintille color limone.
 Al ritorno, trovò la dama in verde tremante.
 
-«È la fine», gridò, con le labbra tremanti; «potrebbe essere la [[Death|morte]]
+«È la fine», gridò, con le labbra tremanti; «potrebbe essere la [[motifs/death|morte]]
 per entrambi. Ogni volta che—»
 
 Ma proprio mentre parlava il suo discorso fu spaccato da un'altra rauca
@@ -6048,13 +6048,13 @@ Brown dashed out of the door and down the steps, but again
 he was frustrated; there was no figure in sight, and the street
 was far too long and empty for the shouter to have run away.
 Even the rational Major was a little shaken as he returned in a
-certain [[Time|time]] to the drawing-room. Scarcely had he done so than
+certain [[motifs/time|time]] to the drawing-room. Scarcely had he done so than
 the terrific voice came:
 
 "Major Brown, Major Brown, where did--"
 
-Brown was in the street almost at a bound, and he was in [[Time|time]]--
-in [[Time|time]] to see something which at first glance froze the [[Blood|blood]].
+Brown was in the street almost at a bound, and he was in [[motifs/time|time]]--
+in [[motifs/time|time]] to see something which at first glance froze the [[motifs/blood|blood]].
 The cries appeared to come from a decapitated head resting
 on the pavement.
 
@@ -6064,10 +6064,10 @@ again, it had vanished, and Major Brown turned to the lady.
 "Where's your coal-cellar?" he said, and stepped out into the passage.
 
 She looked at him with wild grey eyes.  "You will not go down,"
-she cried, "[[Alone|alone]], into the dark hole, with that beast?"
+she cried, "alone, into the dark hole, with that beast?"
 
 "Is this the way?" replied Brown, and descended the kitchen
-stairs three at a [[Time|time]].  He flung open the door of a black
+stairs three at a [[motifs/time|time]].  He flung open the door of a black
 cavity and stepped in, feeling in his pocket for matches.
 As his right hand was thus occupied, a pair of great slimy hands
 came out of the darkness, hands clearly belonging to a man
@@ -6076,13 +6076,13 @@ They forced him down, down in the suffocating darkness, a brutal
 image of destiny.  But the Major's head, though upside down,
 was perfectly clear and intellectual.  He gave quietly under
 the pressure until he had slid down almost to his hands and knees.
-Then finding the knees of the invisible [[Monster|monster]] within a foot of him,
+Then finding the knees of the invisible [[archetypes/monster|monster]] within a foot of him,
 he simply put out one of his long, bony, and skilful hands,
 and gripping the leg by a muscle pulled it off the ground
 and laid the huge living man, with a crash, along the floor.
 He strove to rise, but Brown was on top like a cat.
 They rolled over and over.  Big as the man was, he had evidently
-now no [[Desire|desire]] but to escape; he made sprawls hither and thither
+now no [[motifs/desire|desire]] but to escape; he made sprawls hither and thither
 to get past the Major to the door, but that tenacious person had him
 hard by the coat collar and hung with the other hand to a beam.
 At length there came a strain in holding back this human bull, a strain
@@ -6091,7 +6091,7 @@ But something else rent and parted; and the dim fat figure of the giant
 vanished out of the cellar, leaving the torn coat in the Major's hand;
 the only fruit of his adventure and the only clue to the mystery.
 For when he went up and out at the front door, the lady, the rich
-hangings, and the whole equipment of the [[house]] had disappeared.
+hangings, and the whole equipment of the house had disappeared.
 It had only bare boards and whitewashed walls.
 
 "The lady was in the conspiracy, of course," said Rupert, nodding.
@@ -6122,7 +6122,7 @@ He cut in:
 "Is it dated from anywhere?"
 
 "No--oh, yes!" replied Brown, glancing upon the paper;
-"14 Tanner's [[Court]], North--"
+"14 Tanner's [[settings/court|Court]], North--"
 
 Rupert sprang up and struck his hands together.
 
@@ -6130,12 +6130,12 @@ Rupert sprang up and struck his hands together.
 me your revolver."
 
 Basil was staring into the embers like a man in a trance;
-and it was some [[Time|time]] before he answered:
+and it was some [[motifs/time|time]] before he answered:
 
 "I don't think you'll need it."
 
 "Perhaps not," said Rupert, getting into his fur coat.  "One never knows.
-But going down a dark [[Court|court]] to see criminals--"
+But going down a dark [[settings/court|court]] to see criminals--"
 
 "Do you think they are criminals?" asked his brother.
 
@@ -6149,20 +6149,20 @@ in the same distant and monotonous voice.
 "My dear fellow, you've been asleep.  Look at the letter."
 
 "I am looking at the letter," said the mad judge calmly; though, as a
-matter of fact, he was looking at the [[Fire|fire]].  "I don't think it's
+matter of fact, he was looking at the [[motifs/fire|fire]].  "I don't think it's
 the sort of letter one criminal would write to another."
 
 "My dear boy, you are glorious," cried Rupert, turning round,
 with laughter in his blue bright eyes.  "Your methods amaze me.
 Why, there is the letter.  It is written, and it does give orders
-for a crime.  You might as [[Well|well]] say that the Nelson Column
+for a crime.  You might as [[motifs/well|well]] say that the Nelson Column
 was not at all the sort of thing that was likely to be set up
 in Trafalgar Square."
 
 Basil Grant shook all over with a sort of silent laughter, but did
 not otherwise move.
 
-"That's rather good," he said; "but, of course, [[logic]] like that's
+"That's rather good," he said; "but, of course, logic like that's
 not what is really wanted.  It's a question of spiritual atmosphere.
 It's not a criminal letter."
 
@@ -6170,14 +6170,14 @@ It's not a criminal letter."
 agony of reasonableness.
 
 "Facts," murmured Basil, like one mentioning some strange,
-far-off [[Animals|animals]], "how facts obscure the [[Truth|truth]].  I may be silly--
+far-off [[motifs/animals|animals]], "how facts obscure the [[concepts/truth|truth]].  I may be silly--
 in fact, I'm off my head--but I never could believe in that man--
 what's his name, in those capital stories?--Sherlock Holmes.
 Every detail points to something, certainly; but generally to
 the wrong thing.  Facts point in all directions, it seems to me,
 like the thousands of twigs on a tree.  It's only the life of the tree
-that has [[unity]] and goes up--only the green [[Blood|blood]] that springs,
-like a fountain, at the [[Stars|stars]]."
+that has unity and goes up--only the green [[motifs/blood|blood]] that springs,
+like a fountain, at the [[motifs/stars|stars]]."
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6188,13 +6188,13 @@ Brown si precipitò fuori dalla porta e giù per i gradini, ma di nuovo
 fu frustrato; non c'era alcuna figura in vista, e la strada
 era troppo lunga e vuota perché l'urlatore fosse potuto fuggire.
 Persino il razionale Maggiore fu un poco scosso quando tornò dopo un
-certo [[Time|tempo]] nel salotto. Non l'aveva ancora fatto che
+certo [[motifs/time|tempo]] nel salotto. Non l'aveva ancora fatto che
 la terrificante voce giunse:
 
 «Maggiore Brown, maggiore Brown, dove—»
 
-Brown fu in strada quasi con un balzo, e giunse in [[Time|tempo]]—
-in [[Time|tempo]] per vedere qualcosa che a prima vista gelava il [[Blood|sangue]].
+Brown fu in strada quasi con un balzo, e giunse in [[motifs/time|tempo]]—
+in [[motifs/time|tempo]] per vedere qualcosa che a prima vista gelava il [[motifs/blood|sangue]].
 Le grida sembravano provenire da una testa decapitata posata
 sul selciato.
 
@@ -6204,10 +6204,10 @@ ancora, era svanita, e il maggiore Brown si volse verso la dama.
 «Dov'è la vostra carbonaia?» disse, e uscì nel corridoio.
 
 Ella lo guardò con selvaggi occhi grigi. «Non scenderete giù»,
-gridò, «da [[Alone|solo]], in quel buco buio, con quella bestia?»
+gridò, «da solo, in quel buco buio, con quella bestia?»
 
 «È di qui?» rispose Brown, e discese le scale della cucina
-tre gradini [[Time|per volta]]. Spalancò la porta di una nera
+tre gradini [[motifs/time|per volta]]. Spalancò la porta di una nera
 cavità ed entrò, frugando in tasca in cerca di fiammiferi.
 Mentre la mano destra era così occupata, un paio di grandi mani viscide
 uscirono dal buio, mani chiaramente appartenenti a un uomo
@@ -6216,13 +6216,13 @@ Lo spinsero giù, giù nel buio soffocante, brutale
 immagine del destino. Ma la testa del Maggiore, benché capovolta,
 era perfettamente lucida e razionale. Cedette con calma sotto
 la pressione finché non scivolò quasi carponi.
-Poi, trovando le ginocchia dell'invisibile [[Monster|mostro]] a un piede da sé,
+Poi, trovando le ginocchia dell'invisibile [[archetypes/monster|mostro]] a un piede da sé,
 tese semplicemente una delle sue lunghe, ossute e abili mani,
 e afferrando la gamba per un muscolo la sollevò da terra
 e distese l'enorme uomo vivente, con un tonfo, lungo il pavimento.
 Quello si sforzò di rialzarsi, ma Brown gli fu addosso come un gatto.
 Rotolarono più e più volte. Per quanto grosso fosse l'uomo, evidentemente
-non aveva ormai altro [[Desire|desiderio]] che fuggire; si dibatté di qua e di là
+non aveva ormai altro [[motifs/desire|desiderio]] che fuggire; si dibatté di qua e di là
 per superare il Maggiore e raggiungere la porta, ma quel tenace individuo lo teneva
 saldo per il bavero e con l'altra mano si aggrappava a una trave.
 Alla fine venne uno sforzo nel trattenere questo toro umano, uno sforzo
@@ -6231,7 +6231,7 @@ Ma fu qualcos'altro a lacerarsi e staccarsi; e la fosca, grassa figura del gigan
 svanì fuori dalla cantina, lasciando la giacca strappata nella mano del Maggiore;
 l'unico frutto della sua avventura e l'unico indizio del mistero.
 Poiché, quando salì e uscì dalla porta d'ingresso, la dama, le ricche
-tappezzerie, e tutto l'arredo della [[house|casa]] erano scomparsi.
+tappezzerie, e tutto l'arredo della casa erano scomparsi.
 Non v'erano che nude assi e pareti imbiancate a calce.
 
 «La dama era nella cospirazione, naturalmente», disse Rupert, annuendo.
@@ -6262,7 +6262,7 @@ Intervenne:
 «È datata da qualche luogo?»
 
 «No—oh, sì!» rispose Brown, gettando lo sguardo sulla carta;
-«14 Tanner's [[Court]], North—»
+«14 Tanner's [[settings/court|Court]], North—»
 
 Rupert balzò in piedi e batté le mani.
 
@@ -6270,12 +6270,12 @@ Rupert balzò in piedi e batté le mani.
 la tua rivoltella.»
 
 Basil fissava le braci come un uomo in trance;
-e passò un po' di [[Time|tempo]] prima che rispondesse:
+e passò un po' di [[motifs/time|tempo]] prima che rispondesse:
 
 «Non credo che ti servirà.»
 
 «Forse no», disse Rupert, infilandosi la pelliccia. «Non si sa mai.
-Ma scendere in un cupo [[Court|vicolo]] a vedere dei criminali—»
+Ma scendere in un cupo [[settings/court|vicolo]] a vedere dei criminali—»
 
 «Credi che siano criminali?» chiese il fratello.
 
@@ -6289,7 +6289,7 @@ con la stessa voce distante e monotona.
 «Mio caro, hai dormito. Guarda la lettera.»
 
 «Sto guardando la lettera», disse il giudice pazzo con calma; anche se, in
-realtà, guardava il [[Fire|fuoco]]. «Non credo che sia
+realtà, guardava il [[motifs/fire|fuoco]]. «Non credo che sia
 il genere di lettera che un criminale scriverebbe a un altro.»
 
 «Mio caro ragazzo, sei glorioso», gridò Rupert, voltandosi,
@@ -6302,7 +6302,7 @@ in Trafalgar Square.»
 Basil Grant fu scosso tutto da una specie di riso silenzioso, ma per il
 resto non si mosse.
 
-«Non c'è male», disse; «ma, naturalmente, una [[logic|logica]] così
+«Non c'è male», disse; «ma, naturalmente, una logica così
 non è ciò che serve davvero. È una questione di atmosfera spirituale.
 Non è una lettera criminale.»
 
@@ -6310,14 +6310,14 @@ Non è una lettera criminale.»
 agonia di ragionevolezza.
 
 «I fatti», mormorò Basil, come chi menzioni certi strani,
-lontani [[Animals|animali]], «come i fatti oscurano la [[Truth|verità]]. Sarò sciocco—
+lontani [[motifs/animals|animali]], «come i fatti oscurano la [[concepts/truth|verità]]. Sarò sciocco—
 anzi, sono fuori di testa—ma non ho mai potuto credere a quell'uomo—
 come si chiama, in quelle famose storie?—Sherlock Holmes.
 Ogni dettaglio indica qualcosa, certo; ma in genere
 la cosa sbagliata. I fatti indicano in tutte le direzioni, mi pare,
 come le migliaia di ramoscelli su un albero. È solo la vita dell'albero
-che ha [[unity|unità]] e sale—solo il verde [[Blood|sangue]] che zampilla,
-come una fontana, verso le [[Stars|stelle]].»
+che ha unità e sale—solo il verde [[motifs/blood|sangue]] che zampilla,
+come una fontana, verso le [[motifs/stars|stelle]].»
 
 
 
@@ -6326,7 +6326,7 @@ come una fontana, verso le [[Stars|stelle]].»
 
 "But what the deuce else can the letter be but criminal?"
 
-"We have [[Eternity|eternity]] to stretch our legs in," replied the mystic.
+"We have [[concepts/eternity|eternity]] to stretch our legs in," replied the mystic.
 "It can be an infinity of things.  I haven't seen any of them--
 I've only seen the letter.  I look at that, and say it's not criminal."
 
@@ -6353,27 +6353,27 @@ He paused a moment, and went on:
 "You could not adopt the ordinary explanation.  The ordinary
 explanation of putting on singular clothes is that you look
 nice in them; you would not think that Lord Kitchener dressed
-up like a ballet girl out of ordinary personal [[Vanity|vanity]].
+up like a ballet girl out of ordinary personal [[concepts/vanity|vanity]].
 You would think it much more likely that he inherited a dancing
-[[Madness|madness]] from a great grandmother; or had been hypnotised at a seance;
-or threatened by a secret society with [[Death|death]] if he refused the ordeal.
+[[concepts/madness|madness]] from a great grandmother; or had been hypnotised at a seance;
+or threatened by a secret society with [[motifs/death|death]] if he refused the ordeal.
 With Baden-Powell, say, it might be a bet--but not with Kitchener.
-I should know all that, because in my public days I knew him quite [[Well|well]].
-So I know that letter quite [[Well|well]], and criminals quite [[Well|well]].
+I should know all that, because in my public days I knew him quite [[motifs/well|well]].
+So I know that letter quite [[motifs/well|well]], and criminals quite [[motifs/well|well]].
 It's not a criminal's letter.  It's all atmospheres."
 And he closed his eyes and passed his hand over his forehead.
 
 Rupert and the Major were regarding him with a mixture of respect
 and pity.  The former said,
 
-"[[Well]], I'm going, anyhow, and shall continue to think--until your
+"[[motifs/well|Well]], I'm going, anyhow, and shall continue to think--until your
 spiritual mystery turns up--that a man who sends a note recommending
 a crime, that is, actually a crime that is actually carried out,
 at least tentatively, is, in all probability, a little casual
 in his moral tastes.  Can I have that revolver?"
 
 "Certainly," said Basil, getting up.  "But I am coming with you."
-And he flung an old cape or cloak round him, and took a [[Sword|sword]]-stick
+And he flung an old cape or cloak round him, and took a sword-stick
 from the corner.
 
 "You!" said Rupert, with some surprise, "you scarcely ever leave
@@ -6385,20 +6385,20 @@ Basil fitted on a formidable old white hat.
 "hear of anything on the face of the earth that I do not understand
 at once, without going to see it."
 
-And he led the way out into the purple [[Night|night]].
+And he led the way out into the purple [[motifs/night|night]].
 
 We four swung along the flaring Lambeth streets, across
 Westminster Bridge, and along the Embankment in the direction
-of that part of Fleet Street which contained Tanner's [[Court]].
+of that part of Fleet Street which contained Tanner's [[settings/court|Court]].
 The erect, black figure of Major Brown, seen from behind, was a quaint
 contrast to the hound-like stoop and flapping mantle of young
 Rupert Grant, who adopted, with childlike delight, all the dramatic
-poses of the [[Detective|detective]] of fiction.  The finest among his many fine
-qualities was his boyish appetite for the colour and poetry of [[London]].
-Basil, who walked behind, with his face turned blindly to the [[Stars|stars]],
+poses of the [[archetypes/detective|detective]] of fiction.  The finest among his many fine
+qualities was his boyish appetite for the colour and poetry of [[settings/london|London]].
+Basil, who walked behind, with his face turned blindly to the [[motifs/stars|stars]],
 had the look of a somnambulist.
 
-Rupert paused at the corner of Tanner's [[Court]], with a quiver of delight
+Rupert paused at the corner of Tanner's [[settings/court|Court]], with a quiver of delight
 at danger, and gripped Basil's revolver in his great-coat pocket.
 
 "Shall we go in now?" he asked.
@@ -6416,7 +6416,7 @@ Rupert glanced at him and stared hard.
 "Basil," he cried, "you're trembling.  What's the matter--
 are you afraid?"
 
-"Cold, perhaps," said the Major, eyeing him.  There was no [[Doubt|doubt]]
+"Cold, perhaps," said the Major, eyeing him.  There was no [[concepts/doubt|doubt]]
 that he was shaking.
 
 At last, after a few moments' scrutiny, Rupert broke into a curse.
@@ -6429,7 +6429,7 @@ all three of us, within a yard of a den of ruffians--"
 are quite equal to a host," and he continued to quake with
 his mysterious mirth.
 
-Rupert turned with impatience and strode swiftly down the [[Court|court]],
+Rupert turned with impatience and strode swiftly down the [[settings/court|court]],
 the rest of us following.  When he reached the door of No. 14
 he turned abruptly, the revolver glittering in his hand.
 
@@ -6468,7 +6468,7 @@ the Major himself, the victim of the outrage, stepped forward.
 
 «Ma che diamine può essere la lettera, se non criminale?»
 
-«Abbiamo l'[[Eternity|eternità]] per sgranchirci le gambe», rispose il mistico.
+«Abbiamo l'[[concepts/eternity|eternità]] per sgranchirci le gambe», rispose il mistico.
 «Può essere un'infinità di cose. Non ne ho vista nessuna—
 ho visto solo la lettera. Guardo quella, e dico che non è criminale.»
 
@@ -6495,20 +6495,20 @@ Si fermò un momento, e proseguì:
 «Non potresti adottare la spiegazione ordinaria. La spiegazione
 ordinaria del mettersi abiti singolari è che ci si sta
 bene; non penseresti che Lord Kitchener si sia agghindato
-da ballerina per ordinaria [[Vanity|vanità]] personale.
-Penseresti molto più probabile che abbia ereditato una [[Madness|follia]]
+da ballerina per ordinaria [[concepts/vanity|vanità]] personale.
+Penseresti molto più probabile che abbia ereditato una [[concepts/madness|follia]]
 danzante da una bisnonna; o che sia stato ipnotizzato a una seduta spiritica;
-o minacciato da una società segreta di [[Death|morte]] se avesse rifiutato la prova.
+o minacciato da una società segreta di [[motifs/death|morte]] se avesse rifiutato la prova.
 Con Baden-Powell, poniamo, potrebbe essere una scommessa—ma non con Kitchener.
-Tutto questo lo saprei, perché ai tempi della mia vita pubblica lo conoscevo assai [[Well|bene]].
-Così conosco assai [[Well|bene]] quella lettera, e assai [[Well|bene]] i criminali.
+Tutto questo lo saprei, perché ai tempi della mia vita pubblica lo conoscevo assai [[motifs/well|bene]].
+Così conosco assai [[motifs/well|bene]] quella lettera, e assai [[motifs/well|bene]] i criminali.
 Non è la lettera di un criminale. È tutta questione di atmosfere.»
 E chiuse gli occhi e si passò la mano sulla fronte.
 
 Rupert e il Maggiore lo osservavano con un misto di rispetto
 e compassione. Il primo disse:
 
-«[[Well|Ebbene]], io vado comunque, e continuerò a pensare—finché il tuo
+«[[motifs/well|Ebbene]], io vado comunque, e continuerò a pensare—finché il tuo
 mistero spirituale non salti fuori—che un uomo il quale spedisce un biglietto che raccomanda
 un crimine, cioè, addirittura un crimine che viene effettivamente compiuto,
 almeno in via di tentativo, sia, con ogni probabilità, un tantino disinvolto
@@ -6516,7 +6516,7 @@ nei suoi gusti morali. Posso avere quella rivoltella?»
 
 «Certamente», disse Basil, alzandosi. «Ma vengo con te.»
 E si gettò addosso un vecchio mantello o cappa, e prese un bastone
-[[Sword|spada]] dall'angolo.
+spada dall'angolo.
 
 «Tu!» disse Rupert, con una certa sorpresa, «tu non lasci quasi mai
 la tua tana per guardare qualcosa sulla faccia della terra.»
@@ -6527,20 +6527,20 @@ Basil si calcò in testa un formidabile vecchio cappello bianco.
 «di sentir parlare di qualcosa sulla faccia della terra che io non comprenda
 all'istante, senza andare a vederla.»
 
-E aprì la strada, uscendo nella [[Night|notte]] purpurea.
+E aprì la strada, uscendo nella [[motifs/night|notte]] purpurea.
 
 Noi quattro procedemmo lungo le fiammeggianti strade di Lambeth, attraverso
 il Westminster Bridge, e lungo l'Embankment in direzione
-di quella parte di Fleet Street che conteneva Tanner's [[Court]].
+di quella parte di Fleet Street che conteneva Tanner's [[settings/court|Court]].
 La figura eretta e nera del maggiore Brown, vista da dietro, era un bizzarro
 contrasto con la curva da segugio e il mantello svolazzante del giovane
 Rupert Grant, che assumeva, con fanciullesco diletto, tutte le pose
-drammatiche dell'[[Detective|investigatore]] della narrativa. La più bella tra le sue molte belle
-qualità era il suo fanciullesco appetito per il colore e la poesia di [[London|Londra]].
-Basil, che camminava dietro, con il viso rivolto ciecamente alle [[Stars|stelle]],
+drammatiche dell'[[archetypes/detective|investigatore]] della narrativa. La più bella tra le sue molte belle
+qualità era il suo fanciullesco appetito per il colore e la poesia di [[settings/london|Londra]].
+Basil, che camminava dietro, con il viso rivolto ciecamente alle [[motifs/stars|stelle]],
 aveva l'aria di un sonnambulo.
 
-Rupert si fermò all'angolo di Tanner's [[Court]], con un fremito di diletto
+Rupert si fermò all'angolo di Tanner's [[settings/court|Court]], con un fremito di diletto
 davanti al pericolo, e strinse la rivoltella di Basil nella tasca del cappotto.
 
 «Entriamo adesso?» chiese.
@@ -6558,7 +6558,7 @@ Rupert lo guardò e lo fissò intensamente.
 «Basil», gridò, «tu stai tremando. Che cos'hai—
 hai paura?»
 
-«Forse ha freddo», disse il Maggiore, squadrandolo. Non v'era [[Doubt|dubbio]]
+«Forse ha freddo», disse il Maggiore, squadrandolo. Non v'era [[concepts/doubt|dubbio]]
 che stesse tremando.
 
 Alla fine, dopo qualche istante di esame, Rupert proruppe in una bestemmia.
@@ -6571,7 +6571,7 @@ tutti e tre, a un metro da un covo di furfanti—»
 siamo ben all'altezza di un'intera schiera», e continuò a scuotersi
 per la sua misteriosa ilarità.
 
-Rupert si voltò con impazienza e si diresse rapido giù per il [[Court|vicolo]],
+Rupert si voltò con impazienza e si diresse rapido giù per il [[settings/court|vicolo]],
 noialtri lo seguimmo. Quando raggiunse la porta del n. 14
 si voltò di scatto, la rivoltella scintillante in mano.
 
@@ -6963,13 +6963,13 @@ Did you ever feel that?"
 "Certainly not," said the Major shortly.
 
 "Then I must explain with more elaboration," said Mr Northover,
-with a sigh.  "The Adventure and [[Romance]] Agency has been started
-to meet a great modern [[Desire|desire]].  On every side, in conversation
-and in literature, we hear of the [[Desire|desire]] for a larger theatre
+with a sigh.  "The Adventure and [[works/romance-(poe)|Romance]] Agency has been started
+to meet a great modern [[motifs/desire|desire]].  On every side, in conversation
+and in literature, we hear of the [[motifs/desire|desire]] for a larger theatre
 of events for something to waylay us and lead us splendidly astray.
-Now the man who feels this [[Desire|desire]] for a varied life pays a yearly
-or a quarterly sum to the Adventure and [[Romance]] Agency; in return,
-the Adventure and [[Romance]] Agency undertakes to surround him with
+Now the man who feels this [[motifs/desire|desire]] for a varied life pays a yearly
+or a quarterly sum to the Adventure and [[works/romance-(poe)|Romance]] Agency; in return,
+the Adventure and [[works/romance-(poe)|Romance]] Agency undertakes to surround him with
 startling and weird events.  As a man is leaving his front door,
 an excited sweep approaches him and assures him of a plot against
 his life; he gets into a cab, and is driven to an opium den;
@@ -6980,7 +6980,7 @@ at present hard at work in the adjoining room.  Yours, Major Brown
 (designed by our Mr Grigsby), I consider peculiarly forcible
 and pointed; it is almost a pity you did not see the end of it.
 I need scarcely explain further the monstrous mistake.
-Your predecessor in your present [[house]], Mr Gurney-Brown, was a subscriber
+Your predecessor in your present house, Mr Gurney-Brown, was a subscriber
 to our agency, and our foolish clerks, ignoring alike the dignity
 of the hyphen and the glory of military rank, positively imagined
 that Major Brown and Mr Gurney-Brown were the same person.
@@ -6997,27 +6997,27 @@ If he wishes to float into fairyland, he reads a book;
 if he wishes to dash into the thick of battle, he reads a book;
 if he wishes to soar into heaven, he reads a book; if he wishes to slide
 down the banisters, he reads a book.  We give him these visions,
-but we give him exercise at the same [[Time|time]], the necessity of leaping
+but we give him exercise at the same [[motifs/time|time]], the necessity of leaping
 from wall to wall, of fighting strange gentlemen, of running down
 long streets from pursuers--all healthy and pleasant exercises.
-We give him a glimpse of that great morning world of [[Robin Hood]] or the
+We give him a glimpse of that great morning world of [[characters/robin-hood|Robin Hood]] or the
 Knights Errant, when one great game was played under the splendid sky.
-We give him back his [[Childhood|childhood]], that godlike [[Time|time]] when we can act stories,
-be our own heroes, and at the same instant [[Dance|dance]] and dream."
+We give him back his [[motifs/childhood|childhood]], that godlike [[motifs/time|time]] when we can act stories,
+be our own heroes, and at the same instant [[motifs/dance|dance]] and dream."
 
 Basil gazed at him curiously.  The most singular psychological
 discovery had been reserved to the end, for as the little business
 man ceased speaking he had the blazing eyes of a fanatic.
 
 Major Brown received the explanation with complete simplicity
-and good [[Humour|humour]].
+and good humour.
 
-"Of course; awfully dense, sir," he said.  "No [[Doubt|doubt]] at all,
+"Of course; awfully dense, sir," he said.  "No [[concepts/doubt|doubt]] at all,
 the scheme excellent.  But I don't think--" He paused a moment,
-and looked dreamily out of the [[Window|window]].  "I don't think you will find
+and looked dreamily out of the [[motifs/window|window]].  "I don't think you will find
 me in it.  Somehow, when one's seen--seen the thing itself, you know--
-[[Blood|blood]] and men screaming, one feels about having a little [[house]] and
-a little hobby; in the [[Bible]], you know, ‘There remaineth a rest'."
+[[motifs/blood|blood]] and men screaming, one feels about having a little house and
+a little hobby; in the [[historical-references/bible|Bible]], you know, ‘There remaineth a rest'."
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -7089,13 +7089,13 @@ L'avete mai sentito?»
 «Certamente no», disse il Maggiore, seccamente.
 
 «Allora devo spiegare con maggiore elaborazione», disse il signor Northover,
-con un sospiro. «L'Agenzia dell'Avventura e del [[Romance|Romanzesco]] è stata fondata
-per soddisfare un grande [[Desire|desiderio]] moderno. Da ogni parte, nella conversazione
-e nella letteratura, sentiamo parlare del [[Desire|desiderio]] di un teatro
+con un sospiro. «L'Agenzia dell'Avventura e del Romanzesco è stata fondata
+per soddisfare un grande [[motifs/desire|desiderio]] moderno. Da ogni parte, nella conversazione
+e nella letteratura, sentiamo parlare del [[motifs/desire|desiderio]] di un teatro
 di eventi più ampio, di qualcosa che ci tenda un agguato e ci conduca splendidamente fuori strada.
-Ora l'uomo che sente questo [[Desire|desiderio]] di una vita più varia paga una somma
-annuale o trimestrale all'Agenzia dell'Avventura e del [[Romance|Romanzesco]]; in cambio,
-l'Agenzia dell'Avventura e del [[Romance|Romanzesco]] si impegna a circondarlo di
+Ora l'uomo che sente questo [[motifs/desire|desiderio]] di una vita più varia paga una somma
+annuale o trimestrale all'Agenzia dell'Avventura e del Romanzesco; in cambio,
+l'Agenzia dell'Avventura e del Romanzesco si impegna a circondarlo di
 eventi sbalorditivi e bizzarri. Mentre un uomo esce dalla propria porta d'ingresso,
 uno spazzacamino concitato gli si avvicina e lo assicura dell'esistenza di un complotto contro
 la sua vita; sale su una carrozza, e viene condotto in una fumeria d'oppio;
@@ -7106,7 +7106,7 @@ al momento al lavoro alacremente nella stanza attigua. La vostra, maggiore Brown
 (ideata dal nostro signor Grigsby), la giudico particolarmente incisiva
 e pungente; è quasi un peccato che non ne abbiate visto la fine.
 Non ho quasi bisogno di spiegare oltre il mostruoso errore.
-Il vostro predecessore nella vostra attuale [[house|casa]], il signor Gurney-Brown, era abbonato
+Il vostro predecessore nella vostra attuale casa, il signor Gurney-Brown, era abbonato
 alla nostra agenzia, e i nostri sciocchi impiegati, ignorando tanto la dignità
 del trattino quanto la gloria del grado militare, immaginarono senz'altro
 che il maggiore Brown e il signor Gurney-Brown fossero la stessa persona.
@@ -7123,27 +7123,27 @@ Se desidera fluttuare nel paese delle fate, legge un libro;
 se desidera lanciarsi nel folto della battaglia, legge un libro;
 se desidera librarsi in cielo, legge un libro; se desidera scivolare
 giù per la ringhiera, legge un libro. Noi gli diamo queste visioni,
-ma gli diamo esercizio allo stesso [[Time|tempo]], la necessità di saltare
+ma gli diamo esercizio allo stesso [[motifs/time|tempo]], la necessità di saltare
 di muro in muro, di combattere strani gentiluomini, di correre giù per
 lunghe strade inseguiti da qualcuno—tutti esercizi sani e piacevoli.
-Gli diamo uno scorcio di quel grande mondo mattutino di [[Robin Hood]] o dei
+Gli diamo uno scorcio di quel grande mondo mattutino di [[characters/robin-hood|Robin Hood]] o dei
 Cavalieri Erranti, quando un solo grande gioco si giocava sotto lo splendido cielo.
-Gli restituiamo la sua [[Childhood|infanzia]], quel [[Time|tempo]] divino in cui possiamo recitare storie,
-essere eroi di noi stessi, e nello stesso istante [[Dance|danzare]] e sognare.»
+Gli restituiamo la sua [[motifs/childhood|infanzia]], quel [[motifs/time|tempo]] divino in cui possiamo recitare storie,
+essere eroi di noi stessi, e nello stesso istante [[motifs/dance|danzare]] e sognare.»
 
 Basil lo guardava incuriosito. La più singolare scoperta psicologica
 era stata riservata alla fine, poiché mentre il piccolo uomo
 d'affari cessava di parlare aveva gli occhi fiammeggianti di un fanatico.
 
 Il maggiore Brown accolse la spiegazione con completa semplicità
-e buon [[Humour|umore]].
+e buon umore.
 
-«Naturalmente; sono terribilmente ottuso, signore», disse. «Nessun [[Doubt|dubbio]],
+«Naturalmente; sono terribilmente ottuso, signore», disse. «Nessun [[concepts/doubt|dubbio]],
 lo schema è eccellente. Ma non credo—» Fece una pausa,
-e guardò sognante fuori dalla [[Window|finestra]]. «Non credo che mi
+e guardò sognante fuori dalla [[motifs/window|finestra]]. «Non credo che mi
 troverete a parteciparvi. In qualche modo, quando si è vista—vista la cosa in sé, sapete—
-il [[Blood|sangue]] e gli uomini che urlano, si finisce per accontentarsi di una piccola [[house|casa]] e
-di un piccolo passatempo; nella [[Bible|Bibbia]], sapete, "Rimane ancora un riposo".»
+il [[motifs/blood|sangue]] e gli uomini che urlano, si finisce per accontentarsi di una piccola casa e
+di un piccolo passatempo; nella [[historical-references/bible|Bibbia]], sapete, "Rimane ancora un riposo".»
 
 
 
@@ -7881,13 +7881,13 @@ language, you have the ‘slight disadvantage' of being off your head.
 You see a total stranger in a public street; you choose to start
 certain theories about his eyebrows.  You then treat him as a burglar
 because he enters an honest man's door.  The thing is too monstrous.
-Admit that it is, Basil, and come [[Home|home]] with me.  Though these
+Admit that it is, Basil, and come [[motifs/home|home]] with me.  Though these
 people are still having tea, yet with the distance we have to go,
 we shall be late for dinner."
 
 Basil's eyes were shining in the twilight like lamps.
 
-"I thought," he said, "that I had outlived [[Vanity|vanity]]."
+"I thought," he said, "that I had outlived [[concepts/vanity|vanity]]."
 
 "What do you want now?"  I cried.
 
@@ -7907,7 +7907,7 @@ up the dark stone steps and rang at the bell.
 
 A severe servant in black and white opened the door to us:
 on receiving my friend's name his manner passed in a flash from
-astonishment to respect.  We were ushered into the [[house]] very quickly,
+astonishment to respect.  We were ushered into the house very quickly,
 but not so quickly but that our host, a white-haired man with a
 fiery face, came out quickly to meet us.
 
@@ -7915,9 +7915,9 @@ fiery face, came out quickly to meet us.
 "I have not seen you for years.  Have you been--er--" he said,
 rather wildly, "have you been in the country?"
 
-"Not for all that [[Time|time]]," answered Basil, smiling.  "I have long
+"Not for all that [[motifs/time|time]]," answered Basil, smiling.  "I have long
 given up my official position, my dear Philip, and have been
-living in a deliberate retirement.  I [[Hope|hope]] I do not come at
+living in a deliberate retirement.  I [[concepts/hope|hope]] I do not come at
 an inopportune moment."
 
 "An inopportune moment," cried the ardent gentleman.
@@ -7932,25 +7932,25 @@ of laughter came from the inner room.
 "And who is Wimpole?"
 
 "Basil," cried the other, "you must have been in the country.
-You must have been in the antipodes.  You must have been in the [[Moon|moon]].
+You must have been in the antipodes.  You must have been in the [[motifs/moon|moon]].
 Who is Wimpole?  Who was Shakespeare?"
 
 "As to who Shakespeare was," answered my friend placidly,
 "my views go no further than thinking that he was not Bacon.
-More probably he was Mary [[Queen]] of Scots.  But as to who Wimpole is--"
+More probably he was Mary [[characters/queen|Queen]] of Scots.  But as to who Wimpole is--"
 and his speech also was cloven with a roar of laughter from within.
 
 "Wimpole!" cried Lord Beaumont, in a sort of ecstasy.
 "Haven't you heard of the great modern wit?  My dear fellow,
 he has turned conversation, I do not say into an art--
 for that, perhaps, it always was but into a great art,
-like the statuary of [[Michael]] [[Angelo]]--an art of masterpieces.
+like the statuary of [[characters/michael|Michael]] [[characters/angelo|Angelo]]--an art of masterpieces.
 His repartees, my good friend, startle one like a man shot dead.
 They are final; they are--"
 
 Again there came the hilarious roar from the room, and almost
 with the very noise of it, a big, panting apoplectic old gentleman
-came out of the inner [[house]] into the hall where we were standing.
+came out of the inner house into the hall where we were standing.
 
 "Now, my dear chap," began Lord Beaumont hastily.
 
@@ -7965,16 +7965,16 @@ have heard of Sir Walter Cholmondeliegh."
 "Who has not?" asked Grant, and bowed to the worthy old baronet,
 eyeing him with some curiosity.  He was hot and heavy in his
 momentary anger, but even that could not conceal the noble though
-opulent outline of his face and [[Body|body]], the florid white hair,
-the Roman nose, the [[Body|body]] stalwart though corpulent, the chin
-aristocratic though [[Double|double]].  He was a magnificent courtly gentleman;
+opulent outline of his face and [[concepts/body|body]], the florid white hair,
+the Roman nose, the [[concepts/body|body]] stalwart though corpulent, the chin
+aristocratic though [[topoi/double|double]].  He was a magnificent courtly gentleman;
 so much of a gentleman that he could show an unquestionable weakness
 of anger without altogether losing dignity; so much of a gentleman
-that even his faux pas were [[Well|well]]-bred.
+that even his faux pas were [[motifs/well|well]]-bred.
 
 "I am distressed beyond expression, Beaumont," he said gruffly,
 "to fail in respect to these gentlemen, and even more especially
-to fail in it in your [[house]].  But it is not you or they that are
+to fail in it in your house.  But it is not you or they that are
 in any way concerned, but that flashy half-caste jackanapes--"
 
 At this moment a young man with a twist of red moustache and a sombre
@@ -7989,7 +7989,7 @@ him as a schoolboy."
 and respectfully, but the cloud was still on his brow.
 Turning to Sir Walter Cholmondeliegh, he said:
 
-"I was sent by Lady Beaumont to express her [[Hope|hope]] that you
+"I was sent by Lady Beaumont to express her [[concepts/hope|hope]] that you
 were not going yet, Sir Walter.  She says she has scarcely seen
 anything of you."
 
@@ -8020,13 +8020,13 @@ essere matto. Vedete un perfetto sconosciuto in una pubblica via;
 decidete di avviare certe teorie sulle sue sopracciglia. Poi lo
 trattate da scassinatore perché entra nella porta di un uomo onesto.
 La cosa è troppo mostruosa. Ammettete che lo è, Basil, e venite a
-[[Home|casa]] con me. Sebbene questa gente stia ancora prendendo il tè,
+[[motifs/home|casa]] con me. Sebbene questa gente stia ancora prendendo il tè,
 tuttavia, con la distanza che abbiamo da fare, faremo tardi per la
 cena».
 
 Gli occhi di Basil brillavano nel crepuscolo come lampade.
 
-«Credevo», disse, «di aver ormai superato la [[Vanity|vanità]]».
+«Credevo», disse, «di aver ormai superato la [[concepts/vanity|vanità]]».
 
 «Che cosa volete adesso?» gridai.
 
@@ -8046,7 +8046,7 @@ gradini di pietra e suonò il campanello.
 
 Un austero domestico in bianco e nero ci aprì la porta: nell'udire il
 nome del mio amico il suo contegno passò in un lampo dallo stupore al
-rispetto. Fummo introdotti nella [[house|casa]] rapidissimamente, ma
+rispetto. Fummo introdotti nella casa rapidissimamente, ma
 non tanto in fretta che il nostro ospite, un uomo dai capelli bianchi
 e dal volto acceso, non uscisse in fretta a incontrarci.
 
@@ -8054,9 +8054,9 @@ e dal volto acceso, non uscisse in fretta a incontrarci.
 volte, «non vi vedo da anni. Siete stato... ehm...» disse, piuttosto
 concitato, «siete stato in campagna?»
 
-«Per tutto questo [[Time|tempo]] no», rispose Basil, sorridendo. «Ho
+«Per tutto questo [[motifs/time|tempo]] no», rispose Basil, sorridendo. «Ho
 lasciato da tempo la mia carica ufficiale, mio caro Philip, e ho
-vissuto in un ritiro deliberato. [[Hope|Spero]] di non giungere in un
+vissuto in un ritiro deliberato. [[concepts/hope|Spero]] di non giungere in un
 momento inopportuno».
 
 «Un momento inopportuno», esclamò l'ardente gentiluomo. «Giungete nel
@@ -8070,25 +8070,25 @@ scroscio di risate giunse dalla stanza interna.
 «E chi è Wimpole?»
 
 «Basil», gridò l'altro, «dovete essere stato in campagna. Dovete
-essere stato agli antipodi. Dovete essere stato sulla [[Moon|luna]].
+essere stato agli antipodi. Dovete essere stato sulla [[motifs/moon|luna]].
 Chi è Wimpole? Chi era Shakespeare?»
 
 «Quanto a chi fosse Shakespeare», rispose il mio amico placidamente,
 «le mie vedute non vanno oltre il ritenere che non fosse Bacone. Più
-probabilmente era Maria [[Queen|Regina]] di Scozia. Ma quanto a chi sia
+probabilmente era Maria [[characters/queen|Regina]] di Scozia. Ma quanto a chi sia
 Wimpole...» e anche il suo discorso fu spaccato da uno scroscio di
 risate dall'interno.
 
 «Wimpole!» esclamò Lord Beaumont, in una sorta di estasi. «Non avete
 sentito parlare del grande spirito moderno? Mio caro amico, egli ha
 trasformato la conversazione, non dico in un'arte, ché tale forse è
-sempre stata, ma in una grande arte, come la statuaria di [[Michael]]
-[[Angelo]]: un'arte di capolavori. Le sue battute, mio buon amico,
+sempre stata, ma in una grande arte, come la statuaria di [[characters/michael|Michael]]
+[[characters/angelo|Angelo]]: un'arte di capolavori. Le sue battute, mio buon amico,
 folgorano come un uomo colpito a morte. Sono definitive; sono...»
 
 Di nuovo venne l'ilare scroscio dalla stanza, e quasi con il rumore
 stesso di esso, un grosso, ansante, apoplettico vecchio signore uscì
-dalla [[house|casa]] interna nell'atrio dove noi stavamo.
+dalla casa interna nell'atrio dove noi stavamo.
 
 «Ora, mio caro amico», cominciò Lord Beaumont in fretta.
 
@@ -8105,17 +8105,17 @@ Cholmondeliegh».
 «E chi non ne ha sentito parlare?» chiese Grant, e s'inchinò al degno
 vecchio baronetto, squadrandolo con una certa curiosità. Era acceso e
 grave nella sua momentanea collera, ma neppure questo poteva celare il
-nobile benché opulento profilo del suo volto e del suo [[Body|corpo]],
-i floridi capelli bianchi, il naso romano, il [[Body|corpo]] robusto
-benché corpulento, il mento aristocratico benché [[Double|doppio]]. Era
+nobile benché opulento profilo del suo volto e del suo [[concepts/body|corpo]],
+i floridi capelli bianchi, il naso romano, il [[concepts/body|corpo]] robusto
+benché corpulento, il mento aristocratico benché [[topoi/double|doppio]]. Era
 un magnifico e cortese gentiluomo; tanto gentiluomo da poter mostrare
 un'indubitabile debolezza di collera senza perdere del tutto la
 dignità; tanto gentiluomo che persino i suoi passi falsi erano
-[[Well|ben]] educati.
+[[motifs/well|ben]] educati.
 
 «Sono afflitto oltre ogni dire, Beaumont», disse bruscamente, «di
 mancare di rispetto a questi signori, e ancor più di mancarne nella
-vostra [[house|casa]]. Ma non siete voi né loro a essere in alcun modo
+vostra casa. Ma non siete voi né loro a essere in alcun modo
 in causa, bensì quel vistoso meticcio saccente...»
 
 In quel momento un giovane con un ricciolo di baffi rossi e un'aria
@@ -8130,7 +8130,7 @@ come uno scolaretto».
 cordialità e rispetto, ma la nube era ancora sulla sua fronte.
 Volgendosi a Sir Walter Cholmondeliegh, disse:
 
-«Sono stato mandato da Lady Beaumont a esprimere la sua [[Hope|speranza]]
+«Sono stato mandato da Lady Beaumont a esprimere la sua [[concepts/hope|speranza]]
 che non stiate ancora per andarvene, Sir Walter. Dice di avervi visto a
 malapena».
 
@@ -8171,19 +8171,19 @@ and sometimes so reactionary.  Are you a modern, Basil?"
 the crowded drawing-room.
 
 This caused a slight diversion, and some eyes were turned away
-from our slim friend with the Oriental face for the first [[Time|time]]
+from our slim friend with the Oriental face for the first [[motifs/time|time]]
 that afternoon.  Two people, however, still looked at him.
-One was the daughter of the [[house]], Muriel Beaumont, who gazed at
+One was the daughter of the house, Muriel Beaumont, who gazed at
 him with great violet eyes and with the intense and awful thirst
 of the female upper class for verbal amusement and stimulus.
 The other was Sir Walter Cholmondeliegh, who looked at him with a still
-and sullen but unmistakable [[Desire|desire]] to throw him out of the [[Window|window]].
+and sullen but unmistakable [[motifs/desire|desire]] to throw him out of the [[motifs/window|window]].
 
 He sat there, coiled rather than seated on the easy chair;
 everything from the curves of his smooth limbs to the coils
 of his silvered hair suggesting the circles of a serpent more than
 the straight limbs of a man--the unmistakable, splendid serpentine
-gentleman we had seen walking in North [[London]], his eyes shining
+gentleman we had seen walking in North [[settings/london|London]], his eyes shining
 with repeated victory.
 
 "What I can't understand, Mr Wimpole," said Muriel Beaumont
@@ -8212,7 +8212,7 @@ Grant walked across the room and tapped the red-moustached secretary
 on the shoulder.  That gentleman was leaning against the wall
 regarding the whole scene with a great deal of gloom; but, I fancied,
 with very particular gloom when his eyes fell on the young lady
-of the [[house]] rapturously listening to Wimpole.
+of the house rapturously listening to Wimpole.
 
 "May I have a word with you outside, Drummond?" asked Grant.
 "It is about business.  Lady Beaumont will excuse us."
@@ -8267,7 +8267,7 @@ Sir Walter hates him."
 This speech affected me with a genuine sense of esteem and pity for
 the young man; that is, of pity for him because of his obviously hopeless
 worship of Miss Beaumont, and of esteem for him because of the direct
-realistic account of the [[history]] of Wimpole which he had given.
+realistic account of the [[concepts/history|history]] of Wimpole which he had given.
 Still, I was sorry that he seemed so steadily set against the man,
 and could not help referring it to an instinct of his personal relations,
 however nobly disguised from himself.
@@ -8286,8 +8286,8 @@ within a few minutes, in the street outside.
 "What is?"  I asked, baldly enough.
 
 "This affair.  Listen to me, my old friend.  Lord and Lady Beaumont
-have just invited you and me to a grand dinner-party this very [[Night|night]],
-at which Mr Wimpole will be in all his glory.  [[Well]], there is nothing
+have just invited you and me to a grand dinner-party this very [[motifs/night|night]],
+at which Mr Wimpole will be in all his glory.  [[motifs/well|Well]], there is nothing
 very extraordinary about that.  The extraordinary thing is that we
 are not going."
 
@@ -8308,20 +8308,20 @@ liberale e a volte così reazionario. Siete un moderno, Basil?»
 salotto.
 
 Ciò causò un lieve diversivo, e alcuni sguardi si distolsero dal nostro
-snello amico dal volto orientale per la prima [[Time|volta]] quel
+snello amico dal volto orientale per la prima [[motifs/time|volta]] quel
 pomeriggio. Due persone, tuttavia, continuavano a guardarlo. Una era la
-figlia della [[house|casa]], Muriel Beaumont, che lo fissava con grandi
+figlia della casa, Muriel Beaumont, che lo fissava con grandi
 occhi violetti e con l'intensa e terribile sete dell'alta società
 femminile per il divertimento e lo stimolo verbale. L'altro era Sir
 Walter Cholmondeliegh, che lo guardava con un immoto e cupo ma
-inequivocabile [[Desire|desiderio]] di gettarlo fuori dalla
-[[Window|finestra]].
+inequivocabile [[motifs/desire|desiderio]] di gettarlo fuori dalla
+[[motifs/window|finestra]].
 
 Sedeva là, avvolto più che seduto sulla poltrona; tutto, dalle curve
 delle sue lisce membra alle spire dei suoi capelli argentati, suggeriva
 i cerchi di un serpente più che le membra dritte di un uomo:
 l'inequivocabile, splendido gentiluomo serpentino che avevamo visto
-camminare nella Londra del Nord [[London]], gli occhi splendenti di
+camminare nella Londra del Nord [[settings/london|London]], gli occhi splendenti di
 ripetuta vittoria.
 
 «Ciò che non riesco a capire, signor Wimpole», disse Muriel Beaumont
@@ -8350,7 +8350,7 @@ Grant attraversò la stanza e batté una mano sulla spalla del segretario
 dai baffi rossi. Quel gentiluomo era appoggiato al muro e osservava
 l'intera scena con grande cupezza; ma, mi parve, con cupezza del tutto
 particolare quando i suoi occhi caddero sulla giovane signora della
-[[house|casa]] che ascoltava rapita Wimpole.
+casa che ascoltava rapita Wimpole.
 
 «Posso scambiare una parola con voi là fuori, Drummond?» chiese Grant.
 «Si tratta di affari. Lady Beaumont ci scuserà».
@@ -8405,7 +8405,7 @@ questo, odierei quell'uomo perché il vecchio Sir Walter lo odia».
 Questo discorso mi ispirò un genuino senso di stima e di pietà per il
 giovane; cioè, di pietà per lui a causa del suo evidentemente disperato
 culto per la signorina Beaumont, e di stima per lui a causa del diretto
-e realistico resoconto della [[history|storia]] di Wimpole che aveva
+e realistico resoconto della [[concepts/history|storia]] di Wimpole che aveva
 dato. Tuttavia, mi dispiaceva che egli sembrasse così fermamente
 schierato contro l'uomo, e non potevo fare a meno di attribuirlo a un
 istinto delle sue relazioni personali, per quanto nobilmente celato a
@@ -8427,8 +8427,8 @@ nella strada là fuori.
 
 «Questa faccenda. Ascoltatemi, mio vecchio amico. Lord e Lady Beaumont
 hanno appena invitato voi e me a un gran pranzo questa stessa
-[[Night|notte]], al quale il signor Wimpole sarà in tutta la sua gloria.
-[[Well|Ebbene]], non c'è nulla di molto straordinario in questo. La cosa
+[[motifs/night|notte]], al quale il signor Wimpole sarà in tutta la sua gloria.
+[[motifs/well|Ebbene]], non c'è nulla di molto straordinario in questo. La cosa
 straordinaria è che noi non ci andremo».
 
 
@@ -8436,8 +8436,8 @@ straordinaria è che noi non ci andremo».
 <span class="atom-split" data-atom="story_02_chapter_2--part_05" data-title="The Club of Queer Trades — Chapter 2 (part 5)" data-chapter="Chapter 2" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/great_house,motif/home,motif/night,motif/road,motif/time,motif/well,motif/winter,concept/doubt,concept/forgiveness,concept/vanity,form/epigram"></span>
 
 
-"[[Well]], really," I said, "it is already six o'[[Clock|clock]] and I [[Doubt|doubt]] if we
-could get [[Home|home]] and dress.  I see nothing extraordinary in the fact
+"[[motifs/well|Well]], really," I said, "it is already six o'[[motifs/clock|clock]] and I [[concepts/doubt|doubt]] if we
+could get [[motifs/home|home]] and dress.  I see nothing extraordinary in the fact
 that we are not going."
 
 "Don't you?" said Grant.  "I'll bet you'll see something extraordinary
@@ -8448,29 +8448,29 @@ I looked at him blankly.
 "Doing instead?"  I asked.  "What are we doing instead?"
 
 "Why," said he, "we are waiting for one or two hours outside this
-[[house]] on a [[Winter|winter]] evening.  You must forgive me; it is all my [[Vanity|vanity]].
+house on a [[motifs/winter|winter]] evening.  You must forgive me; it is all my [[concepts/vanity|vanity]].
 It is only to show you that I am right.  Can you, with the assistance
 of this cigar, wait until both Sir Walter Cholmondeliegh and the mystic
-Wimpole have left this [[house]]?"
+Wimpole have left this house?"
 
 "Certainly," I said.  "But I do not know which is likely to leave first.
 Have you any notion?"
 
 "No," he said.  "Sir Walter may leave first in a glow of rage.
 Or again, Mr Wimpole may leave first, feeling that his last
-[[Epigram|epigram]] is a thing to be flung behind him like a firework.
-And Sir Walter may remain some [[Time|time]] to analyse Mr Wimpole's character.
-But they will both have to leave within reasonable [[Time|time]], for they
+[[forms/epigram|epigram]] is a thing to be flung behind him like a firework.
+And Sir Walter may remain some [[motifs/time|time]] to analyse Mr Wimpole's character.
+But they will both have to leave within reasonable [[motifs/time|time]], for they
 will both have to get dressed and come back to dinner here tonight."
 
-As he spoke the shrill [[Double|double]] whistle from the porch
-of the [[Great House|great house]] drew a dark cab to the dark portal.
+As he spoke the shrill [[topoi/double|double]] whistle from the porch
+of the [[motifs/great-house|great house]] drew a dark cab to the dark portal.
 And then a thing happened that we really had not expected.
 Mr Wimpole and Sir Walter Cholmondeliegh came out at the same moment.
 
-They paused for a second or two opposite each other in a natural [[Doubt|doubt]];
+They paused for a second or two opposite each other in a natural [[concepts/doubt|doubt]];
 then a certain geniality, fundamental perhaps in both of them,
-made Sir Walter smile and say:  "The [[Night|night]] is foggy.
+made Sir Walter smile and say:  "The [[motifs/night|night]] is foggy.
 Pray take my cab."
 
 Before I could count twenty the cab had gone rattling up the street
@@ -8483,13 +8483,13 @@ We pelted on steadily, keeping the cab in sight, through dark
 mazy streets.  God only, I thought, knows why we are running at all,
 but we are running hard.  Fortunately we did not run far.
 The cab pulled up at the fork of two streets and Sir Walter paid
-the [[cabman]], who drove away rejoicing, having just come in contact
+the cabman, who drove away rejoicing, having just come in contact
 with the more generous among the rich.  Then the two men talked
 together as men do talk together after giving and receiving
-great insults, the talk which leads either to [[Forgiveness|forgiveness]] or a duel--
+great insults, the talk which leads either to [[concepts/forgiveness|forgiveness]] or a duel--
 at least so it seemed as we watched it from ten yards off.
 Then the two men shook hands heartily, and one went down one fork
-of the [[Road|road]] and one down another.
+of the [[motifs/road|road]] and one down another.
 
 Basil, with one of his rare gestures, flung his arms forward.
 
@@ -8502,7 +8502,7 @@ We dashed across the open space and reached the juncture of two paths.
 He ran on.
 
 "Idiot!"  I howled.  "Sir Walter's gone down there.
-Wimpole has slipped us.  He's half a mile down the other [[Road|road]].
+Wimpole has slipped us.  He's half a mile down the other [[motifs/road|road]].
 You're wrong ... Are you deaf?  You're wrong!"
 
 "I don't think I am," he panted, and ran on.
@@ -8640,8 +8640,8 @@ of Queer Trades."
 
 <span class="qlang-split" data-lang="it"></span>
 
-«[[Well|Ebbene]], davvero», dissi, «sono già le sei all'[[Clock|orologio]]
-e [[Doubt|dubito]] che potremmo tornare a [[Home|casa]] e vestirci. Non
+«[[motifs/well|Ebbene]], davvero», dissi, «sono già le sei all'[[motifs/clock|orologio]]
+e [[concepts/doubt|dubito]] che potremmo tornare a [[motifs/home|casa]] e vestirci. Non
 vedo nulla di straordinario nel fatto che non ci andiamo».
 
 «Non lo vedete?» disse Grant. «Scommetto che vedrete qualcosa di
@@ -8652,33 +8652,33 @@ Lo guardai attonito.
 «Facciamo invece?» chiesi. «Che cosa facciamo invece?»
 
 «Ebbene», disse, «aspettiamo per una o due ore fuori da questa
-[[house|casa]] in una sera d'[[Winter|inverno]]. Dovete perdonarmi; è
-tutta mia [[Vanity|vanità]]. È solo per mostrarvi che ho ragione.
+casa in una sera d'[[motifs/winter|inverno]]. Dovete perdonarmi; è
+tutta mia [[concepts/vanity|vanità]]. È solo per mostrarvi che ho ragione.
 Potete, con l'aiuto di questo sigaro, aspettare finché sia Sir Walter
 Cholmondeliegh sia il mistico Wimpole abbiano lasciato questa
-[[house|casa]]?»
+casa?»
 
 «Certamente», dissi. «Ma non so quale dei due sia probabile che se ne
 vada per primo. Ne avete idea?»
 
 «No», disse. «Sir Walter potrebbe andarsene per primo in una vampata di
 rabbia. O ancora, il signor Wimpole potrebbe andarsene per primo,
-sentendo che il suo ultimo [[Epigram|epigramma]] è cosa da lanciarsi
+sentendo che il suo ultimo [[forms/epigram|epigramma]] è cosa da lanciarsi
 dietro le spalle come un fuoco d'artificio. E Sir Walter potrebbe
-restare qualche [[Time|tempo]] ad analizzare il carattere del signor
-Wimpole. Ma dovranno entrambi andarsene entro un [[Time|tempo]]
+restare qualche [[motifs/time|tempo]] ad analizzare il carattere del signor
+Wimpole. Ma dovranno entrambi andarsene entro un [[motifs/time|tempo]]
 ragionevole, perché dovranno entrambi vestirsi e tornare a cena qui
 stasera».
 
-Mentre parlava lo stridulo [[Double|doppio]] fischio dal portico della
-[[Great House|grande casa]] chiamò una scura carrozza al portale scuro.
+Mentre parlava lo stridulo [[topoi/double|doppio]] fischio dal portico della
+[[motifs/great-house|grande casa]] chiamò una scura carrozza al portale scuro.
 E allora accadde una cosa che davvero non ci saremmo aspettati. Il
 signor Wimpole e Sir Walter Cholmondeliegh uscirono nello stesso
 momento.
 
 Si arrestarono un secondo o due l'uno di fronte all'altro in un naturale
-[[Doubt|dubbio]]; poi una certa cordialità, fondamentale forse in
-entrambi, indusse Sir Walter a sorridere e a dire: «La [[Night|notte]]
+[[concepts/doubt|dubbio]]; poi una certa cordialità, fondamentale forse in
+entrambi, indusse Sir Walter a sorridere e a dire: «La [[motifs/night|notte]]
 è nebbiosa. Vi prego, prendete la mia carrozza».
 
 Prima che potessi contare fino a venti la carrozza se n'era andata
@@ -8692,13 +8692,13 @@ Corremmo di gran carriera senza sosta, tenendo d'occhio la carrozza,
 per strade buie e intricate. Solo Dio, pensavo, sa perché mai stiamo
 correndo, ma corriamo a perdifiato. Per fortuna non corremmo a lungo.
 La carrozza si fermò al bivio di due strade e Sir Walter pagò il
-[[cabman|vetturino]], che se ne andò esultante, avendo appena avuto a
+vetturino, che se ne andò esultante, avendo appena avuto a
 che fare con i più generosi tra i ricchi. Poi i due uomini si misero a
 parlare insieme come parlano insieme gli uomini dopo aver dato e
 ricevuto grandi insulti, quel discorso che conduce o al
-[[Forgiveness|perdono]] o a un duello... almeno così pareva mentre lo
+[[concepts/forgiveness|perdono]] o a un duello... almeno così pareva mentre lo
 osservavamo a dieci metri di distanza. Poi i due uomini si strinsero la
-mano cordialmente, e uno prese un ramo della [[Road|strada]] e l'altro
+mano cordialmente, e uno prese un ramo della [[motifs/road|strada]] e l'altro
 prese l'altro.
 
 Basil, con uno dei suoi rari gesti, protese le braccia in avanti.
@@ -8714,7 +8714,7 @@ sbagliata».
 Egli continuò a correre.
 
 «Idiota!» urlai. «Sir Walter è andato di là. Wimpole ci è sfuggito. È a
-mezzo miglio giù per l'altra [[Road|strada]]. Vi sbagliate... Siete
+mezzo miglio giù per l'altra [[motifs/road|strada]]. Vi sbagliate... Siete
 sordo? Vi sbagliate!»
 
 «Non credo di sbagliarmi», ansimò, e continuò a correre.
@@ -9209,12 +9209,12 @@ set me free to do so, I noted them down on a piece of paper.
 I believe I have it here."  He fumbled in his breast-pocket, bringing out
 mild things, note-books, circulars and programmes of village concerts.
 "I heard Miss Mowbray say to Miss James, the following words:
-‘Now's your [[Time|time]], Bill.'"
+‘Now's your [[motifs/time|time]], Bill.'"
 
 He gazed at me for a few moments after making this announcement,
 gravely and unflinchingly, as if conscious that here he was unshaken
 about his facts.  Then he resumed, turning his bald head more
-towards the [[Fire|fire]].
+towards the [[motifs/fire|fire]].
 
 "This appeared to me remarkable.  I could not by any means understand it.
 It seemed to me first of all peculiar that one maiden lady should
@@ -9223,9 +9223,9 @@ may be incomplete; maiden ladies may have among themselves and in
 exclusively spinster circles wilder customs than I am aware of.
 But it seemed to me odd, and I could almost have sworn (if you will
 not misunderstand the phrase), I should have been strongly impelled
-to maintain at the time that the words, ‘Now's your [[Time|time]], Bill', were by
+to maintain at the time that the words, ‘Now's your [[motifs/time|time]], Bill', were by
 no means pronounced with that upper-class intonation which, as I have
-already said, had up to now characterized Miss [[Mowbray]]'s conversation.
+already said, had up to now characterized Miss [[characters/mowbray|Mowbray]]'s conversation.
 In fact, the words, ‘Now's your time, Bill', would have been,
 I fancy, unsuitable if pronounced with that upper-class intonation.
 
@@ -9326,13 +9326,13 @@ alla memoria sul posto, e non appena le circostanze mi lasciarono
 libero di farlo, le annotai su un pezzo di carta. Credo di averlo qui».
 Frugò nel taschino, tirando fuori cose innocue, taccuini, circolari e
 programmi di concerti di paese. «Udii la signorina Mowbray dire alla
-signorina James le seguenti parole: "Adesso è il tuo [[Time|momento]],
+signorina James le seguenti parole: "Adesso è il tuo [[motifs/time|momento]],
 Bill."»
 
 Mi fissò per qualche istante dopo aver fatto questo annuncio,
 gravemente e senza batter ciglio, come conscio di essere qui
 incrollabile sui suoi fatti. Poi riprese, volgendo la testa calva più
-verso il [[Fire|fuoco]].
+verso il [[motifs/fire|fuoco]].
 
 «Ciò mi parve notevole. Non riuscivo in alcun modo a comprenderlo. Mi
 parve anzitutto singolare che una signorina nubile si rivolgesse a
@@ -9344,7 +9344,7 @@ fraintenderete la frase), sarei stato fortemente indotto a sostenere sul
 momento che le parole "Adesso è il tuo momento, Bill" non erano affatto
 pronunciate con quella intonazione dell'alta società che, come ho già
 detto, aveva fino allora caratterizzato la conversazione della signorina
-[[Mowbray]]. Anzi, le parole "Adesso è il tuo momento, Bill" sarebbero
+[[characters/mowbray|Mowbray]]. Anzi, le parole "Adesso è il tuo momento, Bill" sarebbero
 state, credo, inadatte se pronunciate con quella intonazione dell'alta
 società.
 
@@ -9385,8 +9385,8 @@ I remembered dimly in my classical days (I was a scholar in a small
 way once, but now, alas! rusty), I remembered the mysteries of
 the Bona Dea and their strange female freemasonry.  I remembered
 the witches' Sabbaths.  I was just, in my absurd lightheadedness,
-trying to remember a line of verse about [[Diana]]'s nymphs,
-when Miss [[Mowbray]] threw her arm round me from behind.
+trying to remember a line of verse about [[characters/diana|Diana]]'s nymphs,
+when Miss [[characters/mowbray|Mowbray]] threw her arm round me from behind.
 The moment it held me I knew it was not a woman's arm.
 
 "Miss Brett--or what I had called Miss Brett--was standing in front
@@ -9399,10 +9399,10 @@ I mean he was a wo--no, that is I saw that instead of being
 a woman she--he, I mean--that is, it was a man."
 
 Mr Shorter became indescribably flurried and flapping in endeavouring
-to arrange these genders and his plaid shawl at the same [[Time|time]].
+to arrange these genders and his plaid shawl at the same [[motifs/time|time]].
 He resumed with a higher fever of nervousness:
 
-"As for Miss [[Mowbray]], she--he, held me in a ring of iron.
+"As for Miss [[characters/mowbray|Mowbray]], she--he, held me in a ring of iron.
 He had her arm--that is she had his arm--round her neck--
 my neck I mean--and I could not cry out.  Miss Brett--that is,
 Mr Brett, at least Mr something who was not Miss Brett--
@@ -9418,12 +9418,12 @@ Was it to be Nonconformists?
 "‘Curse 'is eyes,' said Miss Brett--I mean the man with the revolver--‘why
 should we show 'im the game?'
 
-"‘If you take my advice you bloomin' [[Well|well]] will,' said the man at
+"‘If you take my advice you bloomin' [[motifs/well|well]] will,' said the man at
 the door, whom they called Bill.  ‘A man wot knows wet 'e's doin'
 is worth ten wot don't, even if 'e's a potty old parson.'
 
 "‘Bill's right enough,' said the coarse voice of the man who held me
-(it had been Miss [[Mowbray]]'s). ‘Bring out the picture, 'Arry.'
+(it had been Miss [[characters/mowbray|Mowbray]]'s). ‘Bring out the picture, 'Arry.'
 
 "The man with the revolver walked across the room to where
 the other two women--I mean men--were turning over baggage,
@@ -9469,7 +9469,7 @@ to live in these parts, don't you?'
 
 "I nodded.
 
-"‘[[Well]],' said the man 'Arry, pointing to the picture, ‘that's 'is mother.
+"‘[[motifs/well|Well]],' said the man 'Arry, pointing to the picture, ‘that's 'is mother.
 'Oo ran to catch 'im when 'e fell?  She did,' and he flung his
 fingers in a general gesture towards the photograph of the old lady
 who was exactly like me.
@@ -9508,8 +9508,8 @@ classici (un tempo ero uno studioso, sia pure in piccolo, ma ora,
 ahimè! arrugginito), ricordavo i misteri della Bona Dea e la loro
 strana massoneria femminile.  Ricordavo i sabba delle streghe.
 Stavo giusto, nella mia assurda leggerezza di testa, cercando di
-ricordare un verso sulle ninfe di [[Diana]], quando la signorina
-[[Mowbray]] mi cinse da dietro con il braccio.  Nell'istante in cui
+ricordare un verso sulle ninfe di [[characters/diana|Diana]], quando la signorina
+[[characters/mowbray|Mowbray]] mi cinse da dietro con il braccio.  Nell'istante in cui
 mi strinse capii che non era il braccio di una donna.
 
 "La signorina Brett—o ciò che avevo chiamato la signorina Brett—era
@@ -9523,10 +9523,10 @@ una donna ella—egli, voglio dire—cioè, era un uomo."
 
 Il signor Shorter si fece indescrivibilmente confuso e agitato nello
 sforzo di ordinare questi generi grammaticali e il suo scialle scozzese
-nel medesimo [[Time|tempo]].  Riprese con una più alta febbre di
+nel medesimo [[motifs/time|tempo]].  Riprese con una più alta febbre di
 nervosismo:
 
-"Quanto alla signorina [[Mowbray]], ella—egli, mi teneva in un cerchio
+"Quanto alla signorina [[characters/mowbray|Mowbray]], ella—egli, mi teneva in un cerchio
 di ferro.  Aveva il braccio di lei—cioè lei aveva il braccio di lui—
 attorno al collo di lei—al mio collo, voglio dire—e io non potevo
 gridare.  La signorina Brett—cioè il signor Brett, o quanto meno il
@@ -9543,13 +9543,13 @@ torno.'
 "‘Che gli venga un accidente,' disse la signorina Brett—voglio dire
 l'uomo col revolver—‘perché mai dovremmo mostrargli la faccenda?'
 
-"‘Se dai retta a me, faresti dannatamente [[Well|bene]] a mostrargliela,'
+"‘Se dai retta a me, faresti dannatamente [[motifs/well|bene]] a mostrargliela,'
 disse l'uomo alla porta, che chiamavano Bill.  ‘Un tale che sa quel
 che fa vale dieci che non lo sanno, foss'anche un vecchio pretaccio
 rimbambito.'
 
 "‘Bill c'ha ragione,' disse la voce ruvida dell'uomo che mi teneva
-(era stata quella della signorina [[Mowbray]]).  ‘Tira fuori il
+(era stata quella della signorina [[characters/mowbray|Mowbray]]).  ‘Tira fuori il
 ritratto, 'Arry.'
 
 "L'uomo col revolver attraversò la stanza fino al punto in cui le
@@ -9597,7 +9597,7 @@ quello venuto a stare da queste parti, no?'
 
 "Annuii.
 
-"‘[[Well|Beh]],' disse l'uomo 'Arry, indicando l'immagine, ‘quella è
+"‘[[motifs/well|Beh]],' disse l'uomo 'Arry, indicando l'immagine, ‘quella è
 sua madre.  Chi accorreva a prenderlo quando cadeva?  Lei,' e agitò
 le dita in un gesto generico verso la fotografia dell'anziana signora
 che era esattamente come me.
@@ -9638,14 +9638,14 @@ in the corner of the room.
 
 "I will not dwell, Mr Swinburne, upon the details of what followed.
 I had no choice.  I could not fight five men, to say nothing of a
-loaded [[Pistol|pistol]].  In five minutes, sir, the Vicar of Chuntsey was
+loaded [[characters/pistol|pistol]].  In five minutes, sir, the Vicar of Chuntsey was
 dressed as an old woman--as somebody else's mother, if you please--
-and was dragged out of the [[house]] to take part in a crime.
+and was dragged out of the house to take part in a crime.
 
-"It was already late in the afternoon, and the nights of [[Winter|winter]]
-were closing in fast.  On a dark [[Road|road]], in a blowing [[Wind|wind]], we set
-out towards the lonely [[house]] of Colonel Hawker, perhaps the queerest
-cortege that ever straggled up that or any other [[Road|road]].  To every
+"It was already late in the afternoon, and the nights of [[motifs/winter|winter]]
+were closing in fast.  On a dark [[motifs/road|road]], in a blowing [[motifs/wind|wind]], we set
+out towards the lonely house of Colonel Hawker, perhaps the queerest
+cortege that ever straggled up that or any other [[motifs/road|road]].  To every
 human eye, in every external, we were six very respectable old ladies
 of small means, in black dresses and refined but antiquated bonnets;
 and we were really five criminals and a clergyman.
@@ -9665,7 +9665,7 @@ was an inspiration; though a very terrible one.  Had it come to this,
 that the Vicar of Chuntsey must pretend to be mad or drunk?
 It had come to this.
 
-"I walked along with the rest up the deserted [[Road|road]],
+"I walked along with the rest up the deserted [[motifs/road|road]],
 imitating and keeping pace, as far as I could, with their rapid
 and yet lady-like step, until at length I saw a lamp-post
 and a policeman standing under it.  I had made up my mind.
@@ -9697,7 +9697,7 @@ I had ever heard of seemed to come pouring out of my open mouth.
 "‘When we get you past,' whispered Bill, ‘you'll howl louder;
 you'll howl louder when we're burning your feet off.'
 
-"I screamed in my terror those awful [[songs]] of joy.  In all
+"I screamed in my terror those awful songs of joy.  In all
 the nightmares that men have ever dreamed, there has never been
 anything so blighting and horrible as the faces of those five men,
 looking out of their poke-bonnets; the figures of district visitors
@@ -9717,7 +9717,7 @@ the Vicar of Chuntsey, in Essex.
 of the neck.
 
 "‘You come along with me,' he began, but Bill cut in with his perfect
-[[Imitation|imitation]] of a lady's finnicking voice.
+imitation of a lady's finnicking voice.
 
 "‘Oh, pray, constable, don't make a disturbance with our poor friend.
 We will get her quietly home.  She does drink too much, but she
@@ -9727,21 +9727,21 @@ is quite a lady--only eccentric.'
 
 "‘Eccentricities of genius,' said Sam earnestly.
 
-"‘Pray let me take her [[Home|home]],' reiterated Bill, in the resumed
+"‘Pray let me take her [[motifs/home|home]],' reiterated Bill, in the resumed
 character of Miss James, ‘she wants looking after.'  ‘She does,'
 said the policeman, ‘but I'll look after her.'
 
 "‘That's no good,' cried Bill feverishly.  ‘She wants her friends.
 She wants a particular medicine we've got.'
 
-"‘Yes,' assented Miss [[Mowbray]], with excitement, ‘no other medicine
+"‘Yes,' assented Miss [[characters/mowbray|Mowbray]], with excitement, ‘no other medicine
 any good, constable.  Complaint quite unique.'
 
 "‘I'm all righ'.  Cutchy, cutchy, coo!' remarked, to his eternal shame,
 the Vicar of Chuntsey.
 
 "‘Look here, ladies,' said the constable sternly, ‘I don't
-like the eccentricity of your friend, and I don't like 'er [[songs]],
+like the eccentricity of your friend, and I don't like 'er songs,
 or 'er 'ead in my stomach.  And now I come to think of it,
 I don't like the looks of you I've seen many as quiet dressed as you
 as was wrong 'uns. Who are you?'
@@ -9750,7 +9750,7 @@ as was wrong 'uns. Who are you?'
 with indescribable dignity.  ‘Nor do we see why we should be insulted
 by any Jack-in-office who chooses to be rude to ladies, when he is paid
 to protect them.  If you choose to take advantage of the weakness of our
-unfortunate friend, no [[Doubt|doubt]] you are legally entitled to take her.
+unfortunate friend, no [[concepts/doubt|doubt]] you are legally entitled to take her.
 But if you fancy you have any legal right to bully us, you will find
 yourself in the wrong box.'
 
@@ -9763,16 +9763,16 @@ tettoia e un mucchio di indumenti femminili nell'angolo della stanza.
 
 "Non mi soffermerò, signor Swinburne, sui particolari di ciò che
 seguì.  Non avevo scelta.  Non potevo battermi contro cinque uomini,
-per non parlare di una [[Pistol|pistola]] carica.  In cinque minuti,
+per non parlare di una [[characters/pistol|pistola]] carica.  In cinque minuti,
 signore, il Vicario di Chuntsey era vestito da vecchia—da madre di
 qualcun altro, se non vi dispiace—e fu trascinato fuori di
-[[house|casa]] per prendere parte a un delitto.
+casa per prendere parte a un delitto.
 
-"Era già tardo pomeriggio, e le notti d'[[Winter|inverno]] calavano
-in fretta.  Su una buia [[Road|strada]], in un [[Wind|vento]] sferzante,
-ci mettemmo in cammino verso la solitaria [[house|casa]] del
+"Era già tardo pomeriggio, e le notti d'[[motifs/winter|inverno]] calavano
+in fretta.  Su una buia [[motifs/road|strada]], in un [[motifs/wind|vento]] sferzante,
+ci mettemmo in cammino verso la solitaria casa del
 Colonnello Hawker, forse il più strambo corteo che mai si sia
-trascinato su quella o su qualsiasi altra [[Road|strada]].  Ad ogni
+trascinato su quella o su qualsiasi altra [[motifs/road|strada]].  Ad ogni
 occhio umano, in ogni apparenza esteriore, eravamo sei rispettabilissime
 vecchie signore di modesti mezzi, in abiti neri e cuffie raffinate ma
 antiquate; ed eravamo in realtà cinque criminali e un ecclesiastico.
@@ -9792,7 +9792,7 @@ tuttavia, fu un'ispirazione; sebbene terribile.  Si era dunque giunti a
 questo, che il Vicario di Chuntsey doveva fingersi pazzo o ubriaco?  Si
 era giunti a questo.
 
-"Camminai insieme agli altri lungo la [[Road|strada]] deserta, imitando
+"Camminai insieme agli altri lungo la [[motifs/road|strada]] deserta, imitando
 e tenendo il passo, per quanto potevo, con la loro andatura rapida e
 tuttavia signorile, finché alla fine scorsi un lampione e un poliziotto
 in piedi sotto di esso.  Avevo preso la mia decisione.  Fino a quando li
@@ -9827,7 +9827,7 @@ aver mai udito parevano sgorgarmi a fiotti dalla bocca spalancata.
 "‘Quando ti avremo portato oltre,' sussurrò Bill, ‘urlerai più forte;
 urlerai più forte quando ti bruceremo via i piedi.'
 
-"Strillai nel mio terrore quegli spaventosi [[songs|canti]] di gioia.
+"Strillai nel mio terrore quegli spaventosi canti di gioia.
 In tutti gli incubi che gli uomini abbiano mai sognato, non c'è mai
 stato nulla di così mortificante e orribile come i volti di quei
 cinque uomini, che occhieggiavano fuori dalle loro cuffie a tettoia;
@@ -9847,7 +9847,7 @@ ricordai con più tenerezza di essere il Vicario di Chuntsey, nell'Essex.
 saldamente per la collottola.
 
 "‘Tu vieni con me,' cominciò, ma Bill lo interruppe con la sua perfetta
-[[Imitation|imitazione]] della lezziosa vocina di una dama.
+imitazione della lezziosa vocina di una dama.
 
 "‘Oh, vi prego, agente, non fate baccano con la nostra povera amica.
 La porteremo a casa tranquillamente.  Beve troppo, è vero, ma è una
@@ -9857,14 +9857,14 @@ vera signora—solo eccentrica.'
 
 "‘Eccentricità del genio,' disse Sam con gravità.
 
-"‘Vi prego, lasciate che la porti a [[Home|casa]],' ribadì Bill,
+"‘Vi prego, lasciate che la porti a [[motifs/home|casa]],' ribadì Bill,
 tornato nel personaggio della signorina James, ‘ha bisogno di essere
 accudita.'  ‘Ne ha bisogno,' disse il poliziotto, ‘ma l'accudirò io.'
 
 "‘Non va bene,' gridò Bill febbrilmente.  ‘Ha bisogno dei suoi amici.
 Ha bisogno di una particolare medicina che abbiamo noi.'
 
-"‘Sì,' assentì la signorina [[Mowbray]], con eccitazione, ‘nessun'altra
+"‘Sì,' assentì la signorina [[characters/mowbray|Mowbray]], con eccitazione, ‘nessun'altra
 medicina serve a nulla, agente.  Male del tutto singolare.'
 
 "‘Sto benissss'.  Cucù, cucù, settete!' osservò, a sua eterna vergogna,
@@ -9872,7 +9872,7 @@ il Vicario di Chuntsey.
 
 "‘Sentite qua, signore,' disse l'agente severamente, ‘non mi piace
 l'eccentricità della vostra amica, e non mi piacciono i suoi
-[[songs|canti]], né la sua testa nel mio stomaco.  E ora che ci penso,
+canti, né la sua testa nel mio stomaco.  E ora che ci penso,
 non mi piace il vostro aspetto; ne ho viste tante vestite sobrie come
 voi che erano gente losca.  Chi siete?'
 
@@ -9881,7 +9881,7 @@ Mowbray, con indescrivibile dignità.  ‘Né vediamo perché dovremmo
 essere insultate da un qualsiasi tirapiedi che sceglie di essere
 scortese con delle signore, quando è pagato per proteggerle.  Se
 scegliete di approfittare della debolezza della nostra sventurata
-amica, senza [[Doubt|dubbio]] avete legalmente diritto di portarla via.
+amica, senza [[concepts/doubt|dubbio]] avete legalmente diritto di portarla via.
 Ma se v'immaginate di avere un qualche diritto legale di angariare noi,
 vi troverete nella casella sbagliata.'
 
@@ -9890,14 +9890,14 @@ vi troverete nella casella sbagliata.'
 <span class="atom-split" data-atom="story_03_chapter_3--part_05" data-title="The Club of Queer Trades — Chapter 3 (part 5)" data-chapter="Chapter 3" data-kind="excerpt" data-tags="motif/death,motif/rose,motif/stars,motif/time,concept/courage,concept/truth,form/tragedy"></span>
 
 
-"The [[Truth|truth]] and dignity of this staggered the policeman for a moment.
+"The [[concepts/truth|truth]] and dignity of this staggered the policeman for a moment.
 Under cover of their advantage my five persecutors turned for an
 instant on me faces like faces of the damned and then swished off
 into the darkness.  When the constable first turned his lantern
 and his suspicions on to them, I had seen the telegraphic look flash
 from face to face saying that only retreat was possible now.
 
-"By this [[Time|time]] I was sinking slowly to the pavement, in a state
+"By this [[motifs/time|time]] I was sinking slowly to the pavement, in a state
 of acute reflection.  So long as the ruffians were with me, I dared
 not quit the role of drunkard.  For if I had begun to talk reasonably
 and explain the real case, the officer would merely have thought that I
@@ -9920,15 +9920,15 @@ a limp and slow and reluctant figure.  At the fourth turning, I suddenly
 broke from his hand and tore down the street like a maddened stag.
 He was unprepared, he was heavy, and it was dark.  I ran and ran
 and ran, and in five minutes' running, found I was gaining.
-In half an hour I was out in the fields under the holy and blessed [[Stars|stars]],
+In half an hour I was out in the fields under the holy and blessed [[motifs/stars|stars]],
 where I tore off my accursed shawl and bonnet and buried them
 in clean earth."
 
 The old gentleman had finished his story and leant back in his chair.
-Both the matter and the manner of his narration had, as [[Time|time]] went on,
+Both the matter and the manner of his narration had, as [[motifs/time|time]] went on,
 impressed me favourably.  He was an old duffer and pedant, but behind
 these things he was a country-bred man and gentleman, and had showed
-[[Courage|courage]] and a sporting instinct in the hour of desperation.
+[[concepts/courage|courage]] and a sporting instinct in the hour of desperation.
 He had told his story with many quaint formalities of diction,
 but also with a very convincing realism.
 
@@ -9992,7 +9992,7 @@ to do is to go together to see Captain Fraser."
 
 "Now," said Basil, putting one arm in his fur coat.
 
-The old clergyman [[Rose|rose]] to his feet, quaking all over.
+The old clergyman [[motifs/rose|rose]] to his feet, quaking all over.
 
 "I really do not think that it is necessary," he said.
 
@@ -10004,13 +10004,13 @@ then," and he added the words with great clearness and deliberation,
 "then, Mr Ellis Shorter, I can only say that I would like to see
 you without your whiskers."
 
-And at these words I also [[Rose|rose]] to my feet, for the great [[Tragedy|tragedy]]
+And at these words I also [[motifs/rose|rose]] to my feet, for the great [[forms/tragedy|tragedy]]
 of my life had come.  Splendid and exciting as life was in continual
 contact with an intellect like Basil's, I had always the feeling
-that that splendour and excitement were on the borderland of [[Sanity|sanity]].
+that that splendour and excitement were on the borderland of sanity.
 He lived perpetually near the vision of the reason of things which
 makes men lose their reason.  And I felt of his insanity as men feel
-of the [[Death|death]] of friends with heart disease.  It might come anywhere,
+of the [[motifs/death|death]] of friends with heart disease.  It might come anywhere,
 in a field, in a hansom cab, looking at a sunset, smoking a cigarette.
 It had come now.  At the very moment of delivering a judgement
 for the salvation of a fellow creature, Basil Grant had gone mad.
@@ -10018,7 +10018,7 @@ for the salvation of a fellow creature, Basil Grant had gone mad.
 
 <span class="qlang-split" data-lang="it"></span>
 
-"La [[Truth|verità]] e la dignità di tutto ciò sconcertarono il
+"La [[concepts/truth|verità]] e la dignità di tutto ciò sconcertarono il
 poliziotto per un momento.  Al riparo del loro vantaggio i miei
 cinque persecutori volsero per un istante verso di me facce come
 facce di dannati e poi guizzarono via nelle tenebre.  Quando l'agente
@@ -10026,7 +10026,7 @@ per la prima volta rivolse la sua lanterna e i suoi sospetti su di
 loro, avevo visto passare da volto a volto lo sguardo telegrafico che
 diceva che ormai era possibile solo la ritirata.
 
-"A quel [[Time|punto]] stavo lentamente sprofondando sul selciato, in
+"A quel [[motifs/time|punto]] stavo lentamente sprofondando sul selciato, in
 uno stato di acuta riflessione.  Finché i mascalzoni erano con me, non
 osavo abbandonare la parte dell'ubriaca.  Perché se avessi cominciato
 a parlare ragionevolmente e a spiegare la vera situazione, l'agente
@@ -10052,14 +10052,14 @@ strappai all'improvviso dalla sua mano e mi lanciai giù per la strada
 come un cervo impazzito.  Egli era impreparato, era pesante, ed era
 buio.  Corsi e corsi e corsi, e in cinque minuti di corsa m'accorsi
 che guadagnavo terreno.  In mezz'ora fui fuori nei campi, sotto le
-sante e benedette [[Stars|stelle]], dove mi strappai di dosso il
+sante e benedette [[motifs/stars|stelle]], dove mi strappai di dosso il
 maledetto scialle e la cuffia e li seppellii nella terra pulita."
 
 Il vecchio gentiluomo aveva finito la sua storia e si era riadagiato
 sulla sedia.  Sia la materia sia il modo della sua narrazione avevano,
-col passare del [[Time|tempo]], destato in me un'impressione favorevole.
+col passare del [[motifs/time|tempo]], destato in me un'impressione favorevole.
 Era un vecchio babbeo e pedante, ma dietro queste cose era un uomo
-cresciuto in campagna e un gentiluomo, e aveva mostrato [[Courage|coraggio]]
+cresciuto in campagna e un gentiluomo, e aveva mostrato [[concepts/courage|coraggio]]
 e istinto sportivo nell'ora della disperazione.  Aveva raccontato la
 sua storia con molte bizzarre solennità di dizione, ma anche con un
 realismo assai convincente.
@@ -10129,7 +10129,7 @@ andare insieme a trovare il Capitano Fraser."
 
 "Ora," disse Basil, infilando un braccio nella pelliccia.
 
-Il vecchio ecclesiastico [[Rose|si alzò]] in piedi, tremando tutto.
+Il vecchio ecclesiastico [[motifs/rose|si alzò]] in piedi, tremando tutto.
 
 "Non credo davvero che sia necessario," disse.
 
@@ -10141,14 +10141,14 @@ e aggiunse le parole con grande chiarezza e lentezza, "allora, signor
 Ellis Shorter, posso solo dire che mi piacerebbe vedervi senza le
 vostre fedine."
 
-E a queste parole anch'io [[Rose|mi alzai]] in piedi, ché la grande
-[[Tragedy|tragedia]] della mia vita era giunta.  Per quanto la vita
+E a queste parole anch'io [[motifs/rose|mi alzai]] in piedi, ché la grande
+[[forms/tragedy|tragedia]] della mia vita era giunta.  Per quanto la vita
 fosse splendida ed eccitante nel continuo contatto con un intelletto
 come quello di Basil, avevo sempre la sensazione che quello splendore e
-quell'eccitazione fossero sul confine della [[Sanity|sanità mentale]].
+quell'eccitazione fossero sul confine della sanità mentale.
 Egli viveva perennemente presso la visione della ragione delle cose
 che fa perdere agli uomini la ragione.  E della sua follia mi sentivo
-come gli uomini si sentono della [[Death|morte]] di amici col cuore
+come gli uomini si sentono della [[motifs/death|morte]] di amici col cuore
 malato.  Poteva venire ovunque, in un campo, in un calessino, guardando
 un tramonto, fumando una sigaretta.  Ora era venuta.  Nel momento
 stesso in cui pronunciava una sentenza per la salvezza di un suo
@@ -10178,7 +10178,7 @@ crockery scattered in smithereens, and still Basil Grant bounded
 and bellowed after the Rev. Ellis Shorter.
 
 And now I began to perceive something else, which added the last
-half-witted touch to my [[Mystification|mystification]].  The Rev. Ellis Shorter,
+half-witted touch to my mystification.  The Rev. Ellis Shorter,
 of Chuntsey, in Essex, was by no means behaving as I had previously
 noticed him to behave, or as, considering his age and station,
 I should have expected him to behave.  His power of dodging, leaping,
@@ -10187,7 +10187,7 @@ doddering old vicar looked like a sort of farcical fairy-tale. Moreover,
 he did not seem to be so much astonished as I had thought.
 There was even a look of something like enjoyment in his eyes;
 so there was in the eye of Basil.  In fact, the unintelligible
-[[Truth|truth]] must be told.  They were both laughing.
+[[concepts/truth|truth]] must be told.  They were both laughing.
 
 At length Shorter was cornered.
 
@@ -10202,7 +10202,7 @@ your whiskers.  And your bald head.  Do they belong to Captain Fraser?"
 They don't belong to Captain Fraser."
 
 "What the deuce does all this mean?"  I almost screamed.
-"Are you all in an infernal [[nightmare]]?  Why should Mr Shorter's bald
+"Are you all in an infernal nightmare?  Why should Mr Shorter's bald
 head belong to Captain Fraser?  How could it?  What the deuce has
 Captain Fraser to do with the affair?  What is the matter with him?
 You dined with him, Basil."
@@ -10212,16 +10212,16 @@ You dined with him, Basil."
 "Didn't you go to Mrs Thornton's dinner-party?"  I asked, staring.
 "Why not?"
 
-"[[Well]]," said Basil, with a slow and singular smile, "the fact
+"[[motifs/well|Well]]," said Basil, with a slow and singular smile, "the fact
 is I was detained by a visitor.  I have him, as a point of fact,
 in my bedroom."
 
-"In your bedroom?"  I repeated; but my [[Imagination|imagination]] had reached that point
+"In your bedroom?"  I repeated; but my [[concepts/imagination|imagination]] had reached that point
 when he might have said in his coal scuttle or his waistcoat pocket.
 
 Grant stepped to the door of an inner room, flung it open and walked in.
 Then he came out again with the last of the bodily wonders of that
-wild [[Night|night]].  He introduced into the sitting-room, in an apologetic manner,
+wild [[motifs/night|night]].  He introduced into the sitting-room, in an apologetic manner,
 and by the nape of the neck, a limp clergyman with a bald head,
 white whiskers and a plaid shawl.
 
@@ -10249,7 +10249,7 @@ are Professional Detainers."
 the Rev. Ellis Shorter, of Chuntsey, in Essex; and it gave me a shock
 indescribable to hear out of that pompous and familiar form come
 no longer its own pompous and familiar voice, but the brisk sharp
-tones of a young [[City|city]] man.  "It is really nothing very important.
+tones of a young [[motifs/city|city]] man.  "It is really nothing very important.
 We are paid by our clients to detain in conversation, on some
 harmless pretext, people whom they want out of the way for a few hours.
 And Captain Fraser--" and with that he hesitated and smiled.
@@ -10325,7 +10325,7 @@ sfondati, le stoviglie ridotte in briciole, e ancora Basil Grant
 balzava e mugghiava dietro al Rev. Ellis Shorter.
 
 E ora cominciai a percepire un'altra cosa, che aggiunse l'ultimo tocco
-mezzo scriteriato al mio [[Mystification|sconcerto]].  Il Rev. Ellis
+mezzo scriteriato al mio sconcerto.  Il Rev. Ellis
 Shorter, di Chuntsey, nell'Essex, non si comportava affatto come lo
 avevo prima visto comportarsi, né come, considerata la sua età e la sua
 condizione, mi sarei aspettato che si comportasse.  La sua capacità di
@@ -10334,7 +10334,7 @@ di diciassette anni, e in quel vecchio vicario traballante pareva una
 sorta di farsesca fiaba.  Per giunta, non sembrava tanto sbalordito
 quanto avevo creduto.  C'era perfino nei suoi occhi uno sguardo simile
 a divertimento; e così pure nell'occhio di Basil.  Anzi, va detta
-l'inintelligibile [[Truth|verità]].  Ridevano entrambi.
+l'inintelligibile [[concepts/truth|verità]].  Ridevano entrambi.
 
 Alla fine Shorter fu messo all'angolo.
 
@@ -10351,7 +10351,7 @@ Fraser?"
 Non appartengono al Capitano Fraser."
 
 "Che diamine significa tutto questo?" quasi urlai.  "Siete tutti in un
-infernale [[nightmare|incubo]]?  Perché mai la testa pelata del signor
+infernale incubo?  Perché mai la testa pelata del signor
 Shorter dovrebbe appartenere al Capitano Fraser?  Come potrebbe?  Che
 diamine ha a che fare il Capitano Fraser con la faccenda?  Che cos'ha?
 Hai pranzato con lui, Basil."
@@ -10361,17 +10361,17 @@ Hai pranzato con lui, Basil."
 "Non sei andato al pranzo della signora Thornton?" chiesi, sgranando
 gli occhi.  "Perché no?"
 
-"[[Well|Beh]]," disse Basil, con un lento e singolare sorriso, "il
+"[[motifs/well|Beh]]," disse Basil, con un lento e singolare sorriso, "il
 fatto è che sono stato trattenuto da un visitatore.  Lo tengo,
 per l'esattezza, nella mia camera da letto."
 
 "Nella tua camera da letto?" ripetei; ma la mia
-[[Imagination|immaginazione]] era giunta a quel punto in cui avrebbe
+[[concepts/imagination|immaginazione]] era giunta a quel punto in cui avrebbe
 potuto dire nel suo secchio del carbone o nel taschino del panciotto.
 
 Grant si portò alla porta di una stanza interna, la spalancò ed entrò.
 Poi ne uscì di nuovo con l'ultima delle meraviglie corporee di quella
-folle [[Night|notte]].  Introdusse nel salotto, con aria di scusa, e
+folle [[motifs/night|notte]].  Introdusse nel salotto, con aria di scusa, e
 per la collottola, un floscio ecclesiastico dalla testa pelata, dalle
 fedine bianche e con uno scialle scozzese.
 
@@ -10400,7 +10400,7 @@ di bere) sono Trattenitori Professionisti."
 tempo era stato il Rev. Ellis Shorter, di Chuntsey, nell'Essex; e mi
 diede un colpo indescrivibile udire uscire da quella forma pomposa e
 familiare non più la sua voce pomposa e familiare, ma le vivaci e acute
-inflessioni di un giovane uomo di [[City|città]].  "Non è davvero nulla
+inflessioni di un giovane uomo di [[motifs/city|città]].  "Non è davvero nulla
 di molto importante.  Siamo pagati dai nostri clienti per trattenere in
 conversazione, con qualche innocuo pretesto, le persone che essi
 vogliono togliersi di torno per qualche ora.  E il Capitano Fraser—" e
@@ -12257,9 +12257,9 @@ Simply because it was a great blaring, swaggering lie you would
 have believed it."
 
 "Drink your wine, gentlemen," said Keith, laughing, "for this
-confounded [[Wind|wind]] will upset it."
+confounded [[motifs/wind|wind]] will upset it."
 
-We drank, and as we did so, although the hanging [[house]], by a
+We drank, and as we did so, although the hanging house, by a
 cunning mechanism, swung only slightly, we knew that the great head
 of the elm tree swayed in the sky like a stricken thistle.
 
@@ -12386,9 +12386,9 @@ Semplicemente perché era una menzogna sfacciata, spavalda e strombazzata voi
 l'avreste creduta».
 
 «Bevete il vostro vino, signori», disse Keith, ridendo, «perché questo
-maledetto [[Wind|vento]] lo rovescerà».
+maledetto [[motifs/wind|vento]] lo rovescerà».
 
-Bevemmo, e mentre lo facevamo, sebbene la [[house|casa]] sospesa, grazie a un
+Bevemmo, e mentre lo facevamo, sebbene la casa sospesa, grazie a un
 ingegnoso meccanismo, oscillasse solo lievemente, sapevamo che la grande cima
 dell'olmo ondeggiava nel cielo come un cardo colpito dal vento.
 
@@ -12403,7 +12403,7 @@ The Noticeable Conduct of Professor Chadd
 
 Basil Grant had comparatively few friends besides myself; yet he was
 the reverse of an unsociable man.  He would talk to any one anywhere,
-and talk not only [[Well|well]] but with perfectly genuine concern and enthusiasm
+and talk not only [[motifs/well|well]] but with perfectly genuine concern and enthusiasm
 for that person's affairs.  He went through the world, as it were,
 as if he were always on the top of an omnibus or waiting for a train.
 Most of these chance acquaintances, of course, vanished into darkness
@@ -12422,7 +12422,7 @@ made his acquaintance over a discussion in a hotel cloak-room about
 the right hat, a discussion which reduced the little major almost
 to a kind of masculine hysterics, the compound of the selfishness
 of an old bachelor and the scrupulosity of an old maid.
-They had gone [[Home|home]] in a cab together and then dined with each
+They had gone [[motifs/home|home]] in a cab together and then dined with each
 other twice a week until they died.  I myself was another.
 I had met Grant while he was still a judge, on the balcony of the
 National Liberal Club, and exchanged a few words about the weather.
@@ -12449,19 +12449,19 @@ There he lived with three sisters, ladies of solid goodness,
 but sinister demeanour.  His life was happy, as are almost all the lives
 of methodical students, but one would not have called it exhilarating.
 His only hours of exhilaration occurred when his friend, Basil Grant,
-came into the [[house]], late at [[Night|night]], a tornado of conversation.
+came into the house, late at [[motifs/night|night]], a tornado of conversation.
 
 Basil, though close on sixty, had moods of boisterous babyishness,
 and these seemed for some reason or other to descend upon him
-particularly in the [[house]] of his studious and almost dingy friend.
+particularly in the house of his studious and almost dingy friend.
 I can remember vividly (for I was acquainted with both parties
 and often dined with them) the gaiety of Grant on that particular
-evening when the strange calamity fell upon [[The Professor|the professor]].
+evening when the strange calamity fell upon the professor.
 Professor Chadd was, like most of his particular class and type
 (the class that is at once academic and middle-class), a Radical
 of a solemn and old-fashioned type.  Grant was a Radical himself,
 but he was that more discriminating and not uncommon type of
-Radical who passes most of his [[Time|time]] in abusing the Radical party.
+Radical who passes most of his [[motifs/time|time]] in abusing the Radical party.
 Chadd had just contributed to a magazine an article called
 "Zulu Interests and the New Makango Frontier', in which a precise
 scientific report of his study of the customs of the people
@@ -12475,22 +12475,22 @@ shaking it with his voice, with his high spirits and his heavy tread.
 "It's not your opinions that I object to, my esteemed Chadd,"
 he was saying, "it's you.  You are quite right to champion
 the Zulus, but for all that you do not sympathize with them.
-No [[Doubt|doubt]] you know the Zulu way of cooking tomatoes and the Zulu [[prayer]]
+No [[concepts/doubt|doubt]] you know the Zulu way of cooking tomatoes and the Zulu [[motifs/prayer|prayer]]
 before blowing one's nose; but for all that you don't understand
-them as [[Well|well]] as I do, who don't know an assegai from an alligator.
+them as [[motifs/well|well]] as I do, who don't know an assegai from an alligator.
 You are more learned, Chadd, but I am more Zulu.  Why is it that the jolly
 old barbarians of this earth are always championed by people who are
 their antithesis?  Why is it?  You are sagacious, you are benevolent,
-you are [[Well|well]] informed, but, Chadd, you are not savage.  Live no longer
+you are [[motifs/well|well]] informed, but, Chadd, you are not savage.  Live no longer
 under that rosy illusion.  Look in the glass.  Ask your sisters.
 Consult the librarian of the British Museum.  Look at this umbrella."
 And he held up that sad but still respectable article.  "Look at it.
 For ten mortal years to my certain knowledge you have carried
-that object under your arm, and I have no sort of [[Doubt|doubt]] that you
+that object under your arm, and I have no sort of [[concepts/doubt|doubt]] that you
 carried it at the age of eight months, and it never occurred to you
 to give one wild yell and hurl it like a javelin--thus--"
 
-And he sent the umbrella whizzing past [[The Professor|the professor]]'s bald head,
+And he sent the umbrella whizzing past the professor's bald head,
 so that it knocked over a pile of books with a crash and left
 a vase rocking.
 
@@ -12499,7 +12499,7 @@ to the lamp and the wrinkle cut in his forehead.
 
 "Your mental processes," he said, "always go a little too fast.
 And they are stated without method.  There is no kind of inconsistency"--
-and no words can convey the [[Time|time]] he took to get to the end of
+and no words can convey the [[motifs/time|time]] he took to get to the end of
 the word--"between valuing the right of the aborigines to adhere
 to their stage in the evolutionary process, so long as they find it
 congenial and requisite to do so.  There is, I say, no inconsistency
@@ -12517,7 +12517,7 @@ La Notevole Condotta del Professor Chadd
 
 Basil Grant aveva relativamente pochi amici oltre a me; eppure era
 tutt'altro che un uomo poco socievole. Parlava con chiunque, in qualsiasi luogo,
-e parlava non solo [[Well|bene]] ma con genuinissima premura ed entusiasmo
+e parlava non solo [[motifs/well|bene]] ma con genuinissima premura ed entusiasmo
 per gli affari di quella persona. Attraversava il mondo, per così dire,
 come se fosse sempre in cima a un omnibus o in attesa di un treno.
 La maggior parte di queste conoscenze occasionali, naturalmente, svaniva nel buio
@@ -12536,7 +12536,7 @@ fatto la sua conoscenza a proposito di una discussione nel guardaroba di un albe
 quale fosse il cappello giusto, una discussione che ridusse il piccolo maggiore quasi
 a una sorta di isteria maschile, un composto dell'egoismo
 di un vecchio scapolo e della scrupolosità di una vecchia zitella.
-Erano tornati [[Home|a casa]] insieme in vettura e poi avevano cenato l'uno con
+Erano tornati [[motifs/home|a casa]] insieme in vettura e poi avevano cenato l'uno con
 l'altro due volte a settimana fino alla morte. Anch'io ero un altro di questi.
 Avevo conosciuto Grant quando era ancora giudice, sul balcone del
 National Liberal Club, e avevamo scambiato qualche parola sul tempo.
@@ -12563,19 +12563,19 @@ Là viveva con tre sorelle, signore di solida bontà,
 ma dal contegno sinistro. La sua vita era felice, come sono quasi tutte le vite
 degli studiosi metodici, ma non la si sarebbe detta esaltante.
 Le sue uniche ore di esaltazione avvenivano quando il suo amico, Basil Grant,
-entrava nella [[house|casa]], a tarda [[Night|notte]], un tornado di conversazione.
+entrava nella casa, a tarda [[motifs/night|notte]], un tornado di conversazione.
 
 Basil, benché prossimo ai sessant'anni, aveva accessi di chiassosa fanciullaggine,
 e questi sembravano, per una ragione o per l'altra, scendere su di lui
-in modo particolare nella [[house|casa]] del suo studioso e quasi squallido amico.
+in modo particolare nella casa del suo studioso e quasi squallido amico.
 Ricordo vividamente (poiché ero in dimestichezza con entrambe le parti
 e spesso cenavo con loro) la gaiezza di Grant in quella particolare
-sera in cui la strana sciagura cadde sul [[The Professor|professore]].
+sera in cui la strana sciagura cadde sul professore.
 Il professor Chadd era, come la maggior parte della sua particolare classe e tipo
 (la classe che è al tempo stesso accademica e borghese), un Radicale
 di stampo solenne e all'antica. Grant era anch'egli un Radicale,
 ma di quel tipo più discriminante e non raro di
-Radicale che passa la maggior parte del suo [[Time|tempo]] a inveire contro il partito radicale.
+Radicale che passa la maggior parte del suo [[motifs/time|tempo]] a inveire contro il partito radicale.
 Chadd aveva appena contribuito a una rivista con un articolo intitolato
 «Interessi zulù e la nuova frontiera del Makango», in cui un preciso
 rapporto scientifico del suo studio sui costumi del popolo
@@ -12589,22 +12589,22 @@ facendola tremare con la sua voce, con la sua allegria e il suo passo pesante.
 «Non sono le tue opinioni a cui obietto, mio stimato Chadd»,
 diceva, «sei tu. Fai benissimo a difendere
 gli zulù, ma nonostante ciò non simpatizzi con loro.
-Senza [[Doubt|dubbio]] conosci il modo zulù di cucinare i pomodori e la [[prayer|preghiera]] zulù
+Senza [[concepts/doubt|dubbio]] conosci il modo zulù di cucinare i pomodori e la [[motifs/prayer|preghiera]] zulù
 prima di soffiarsi il naso; ma nonostante ciò non li comprendi
-così [[Well|bene]] come li comprendo io, che non so distinguere un'assegai da un alligatore.
+così [[motifs/well|bene]] come li comprendo io, che non so distinguere un'assegai da un alligatore.
 Sei più dotto, Chadd, ma io sono più zulù. Perché mai i vecchi
 allegri barbari di questa terra sono sempre difesi da persone che ne sono
 l'antitesi? Perché mai? Sei sagace, sei benevolo,
-sei [[Well|ben]] informato, ma, Chadd, non sei selvaggio. Non vivere più a lungo
+sei [[motifs/well|ben]] informato, ma, Chadd, non sei selvaggio. Non vivere più a lungo
 sotto quella rosea illusione. Guardati allo specchio. Chiedilo alle tue sorelle.
 Consulta il bibliotecario del British Museum. Guarda questo ombrello».
 E sollevò quel triste ma pur sempre rispettabile oggetto. «Guardalo.
 Per dieci mortali anni, a mia sicura conoscenza, hai portato
-quell'oggetto sotto il braccio, e non ho alcun [[Doubt|dubbio]] che tu
+quell'oggetto sotto il braccio, e non ho alcun [[concepts/doubt|dubbio]] che tu
 lo portassi già all'età di otto mesi, e non ti è mai venuto in mente
 di lanciare un urlo selvaggio e scagliarlo come un giavellotto... così...»
 
-E scagliò l'ombrello sibilando accanto alla testa calva del [[The Professor|professore]],
+E scagliò l'ombrello sibilando accanto alla testa calva del professore,
 sicché rovesciò con fracasso una pila di libri e lasciò
 un vaso a dondolare.
 
@@ -12613,7 +12613,7 @@ verso la lampada e la ruga incisa sulla fronte.
 
 «I tuoi processi mentali», disse, «vanno sempre un po' troppo in fretta.
 E sono enunciati senza metodo. Non c'è alcun tipo di incoerenza»...
-e nessuna parola può rendere il [[Time|tempo]] che impiegò per arrivare alla fine
+e nessuna parola può rendere il [[motifs/time|tempo]] che impiegò per arrivare alla fine
 della parola... «tra il valorizzare il diritto degli aborigeni di aderire
 al loro stadio nel processo evolutivo, fintantoché lo trovano
 congeniale e necessario. Non c'è, ripeto, alcuna incoerenza
@@ -12636,7 +12636,7 @@ Grant was shaking with laughter as he watched him.
 But there is a great deal of incompatibility of temper.
 I am very far from being certain that the Zulu is on an inferior
 evolutionary stage, whatever the blazes that may mean.  I do not think
-there is anything stupid or ignorant about howling at the [[Moon|moon]] or being
+there is anything stupid or ignorant about howling at the [[motifs/moon|moon]] or being
 afraid of devils in the dark.  It seems to me perfectly philosophical.
 Why should a man be thought a sort of idiot because he feels
 the mystery and peril of existence itself?  Suppose, my dear Chadd,
@@ -12652,7 +12652,7 @@ that our civilization is not or may not be an advance upon,
 and indeed (if I apprehend you), is or may be a retrogression
 from states identical with or analogous to the state of the Zulus.
 Moreover, I shall be inclined to concede that such a proposition
-is of the [[Nature|nature]], in some degree at least, of a primary proposition,
+is of the [[concepts/nature|nature]], in some degree at least, of a primary proposition,
 and cannot adequately be argued, in the same sense, I mean,
 that the primary proposition of pessimism, or the primary proposition
 of the non-existence of matter, cannot adequately be argued.
@@ -12677,7 +12677,7 @@ because I have a feeling that that is not the way that things happen.
 If you ask me why I think so I can only answer that I am a Zulu;
 and if you ask me (as you most certainly will) what is my definition
 of a Zulu, I can answer that also.  He is one who has climbed a Sussex
-apple-tree at seven and been afraid of a [[Ghost|ghost]] in an English lane."
+apple-tree at seven and been afraid of a [[archetypes/ghost|ghost]] in an English lane."
 
 "Your process of thought--" began the immovable Chadd, but his speech
 was interrupted.  His sister, with that masculinity which always
@@ -12686,14 +12686,14 @@ with a rigid arm and said:
 
 "James, Mr Bingham of the British Museum wants to see you again."
 
-The philosopher [[Rose|rose]] with a dazed look, which always indicates
-in such men the fact that they regard [[philosophy]] as a familiar thing,
+The philosopher [[motifs/rose|rose]] with a dazed look, which always indicates
+in such men the fact that they regard philosophy as a familiar thing,
 but practical life as a weird and unnerving vision, and walked
 dubiously out of the room.
 
-"I [[Hope|hope]] you do not mind my being aware of it, Miss Chadd,"
+"I [[concepts/hope|hope]] you do not mind my being aware of it, Miss Chadd,"
 said Basil Grant, "but I hear that the British Museum has recognized
-one of the men who have deserved [[Well|well]] of their commonwealth.
+one of the men who have deserved [[motifs/well|well]] of their commonwealth.
 It is true, is it not, that Professor Chadd is likely to be made
 keeper of Asiatic manuscripts?"
 
@@ -12704,21 +12704,21 @@ feel a great deal, but great relief, which they feel more;
 relief from worry from a lot of things.  James' health has never
 been good, and while we are as poor as we are he had to do journalism
 and coaching, in addition to his own dreadful grinding notions
-and discoveries, which he loves more than man, woman, or [[Child|child]].
+and discoveries, which he loves more than man, woman, or [[archetypes/child|child]].
 I have often been afraid that unless something of this kind
 occurred we should really have to be careful of his brain.
 But I believe it is practically settled."
 
 "I am delighted," began Basil, but with a worried face, "but these
 red-tape negotiations are so terribly chancy that I really can't
-advise you to build on [[Hope|hope]], only to be hurled down into bitterness.
+advise you to build on [[concepts/hope|hope]], only to be hurled down into bitterness.
 I've known men, and good men like your brother, come nearer than
 this and be disappointed.  Of course, if it is true--"
 
 "If it is true," said the woman fiercely, "it means that people
 who have never lived may make an attempt at living."
 
-Even as she spoke [[The Professor|the professor]] came into the room still with the dazed
+Even as she spoke the professor came into the room still with the dazed
 look in his eyes.
 
 "Is it true?" asked Basil, with burning eyes.
@@ -12728,30 +12728,30 @@ look in his eyes.
 
 "What do you mean?" demanded Grant.
 
-"[[Well]]," said [[The Professor|the professor]] slowly, "in saying that you could possess
+"[[motifs/well|Well]]," said the professor slowly, "in saying that you could possess
 a knowledge of the essence of Zulu life distinct from--"
 
 "Oh! confound Zulu life," cried Grant, with a burst of laughter.
 "I mean, have you got the post?"
 
 "You mean the post of keeper of the Asiatic manuscripts," he said,
-opening his eye with childlike [[Wonder|wonder]].  "Oh, yes, I got that.
+opening his eye with childlike [[concepts/wonder|wonder]].  "Oh, yes, I got that.
 But the real objection to your argument, which has only, I admit,
 occurred to me since I have been out of the room, is that it does
-not merely presuppose a Zulu [[Truth|truth]] apart from the facts, but infers
+not merely presuppose a Zulu [[concepts/truth|truth]] apart from the facts, but infers
 that the discovery of it is absolutely impeded by the facts."
 
-"I am crushed," said Basil, and sat down to laugh, while [[The Professor|the professor]]'s
+"I am crushed," said Basil, and sat down to laugh, while the professor's
 sister retired to her room, possibly, possibly not.
 
 It was extremely late when we left the Chadds, and it is an extremely
-long and tiresome [[Journey|journey]] from Shepherd's Bush to Lambeth.
+long and tiresome [[motifs/journey|journey]] from Shepherd's Bush to Lambeth.
 This may be our excuse for the fact that we (for I was stopping
-the [[Night|night]] with Grant) got down to breakfast next day at a [[Time|time]]
-inexpressibly criminal, a [[Time|time]], in point of fact, close upon [[Noon|noon]].
+the [[motifs/night|night]] with Grant) got down to breakfast next day at a [[motifs/time|time]]
+inexpressibly criminal, a [[motifs/time|time]], in point of fact, close upon [[motifs/noon|noon]].
 Even to that belated meal we came in a very lounging and
 leisurely fashion.  Grant, in particular, seemed so dreamy at table
-that he scarcely saw the pile of letters by his plate, and I [[Doubt|doubt]]
+that he scarcely saw the pile of letters by his plate, and I [[concepts/doubt|doubt]]
 if he would have opened any of them if there had not lain on the top
 that one thing which has succeeded amid modern carelessness in being
 really urgent and coercive--a telegram.  This he opened with the same
@@ -12760,7 +12760,7 @@ When he read it he did not stir a hair or say a word, but something,
 I know not what, made me feel that the motionless figure had been
 pulled together suddenly as strings are tightened on a slack guitar.
 Though he said nothing and did not move, I knew that he had been
-for an instant cleared and sharpened with a shock of cold [[Water|water]].
+for an instant cleared and sharpened with a shock of cold [[motifs/water|water]].
 It was scarcely any surprise to me when a man who had drifted
 sullenly to his seat and fallen into it, kicked it away like a cur
 from under him and came round to me in two strides.
@@ -12777,7 +12777,7 @@ Grant si sganasciava dalle risate mentre lo osservava.
 Ma c'è una gran quantità di incompatibilità di carattere.
 Sono ben lungi dall'essere certo che lo zulù si trovi a uno stadio evolutivo
 inferiore, qualunque diavolo di cosa ciò possa significare. Non credo
-che ci sia nulla di stupido o di ignorante nell'ululare alla [[Moon|luna]] o nell'avere
+che ci sia nulla di stupido o di ignorante nell'ululare alla [[motifs/moon|luna]] o nell'avere
 paura dei diavoli nel buio. Mi pare perfettamente filosofico.
 Perché un uomo dovrebbe essere considerato una specie di idiota perché sente
 il mistero e il pericolo dell'esistenza stessa? Supponi, mio caro Chadd,
@@ -12793,7 +12793,7 @@ ossia che la nostra civiltà non sia, o possa non essere, un progresso rispetto 
 e anzi (se ti afferro), sia o possa essere una regressione
 da stati identici o analoghi allo stato degli zulù.
 Inoltre, sarò propenso a concedere che una tale proposizione
-sia della [[Nature|natura]], almeno in qualche misura, di una proposizione primaria,
+sia della [[concepts/nature|natura]], almeno in qualche misura, di una proposizione primaria,
 e non possa essere adeguatamente argomentata, nello stesso senso, intendo,
 in cui la proposizione primaria del pessimismo, o la proposizione primaria
 della non-esistenza della materia, non può essere adeguatamente argomentata.
@@ -12818,7 +12818,7 @@ perché ho la sensazione che non sia così che accadono le cose.
 Se mi chiedi perché lo penso posso solo rispondere che sono uno zulù;
 e se mi chiedi (come certamente farai) qual è la mia definizione
 di zulù, posso rispondere anche a questo. È uno che si è arrampicato su un melo
-del Sussex a sette anni ed è stato preso dalla paura di un [[Ghost|fantasma]] in un viottolo inglese».
+del Sussex a sette anni ed è stato preso dalla paura di un [[archetypes/ghost|fantasma]] in un viottolo inglese».
 
 «Il tuo processo di pensiero...» cominciò l'immobile Chadd, ma il suo discorso
 fu interrotto. La sorella, con quella mascolinità che sempre
@@ -12827,14 +12827,14 @@ con braccio rigido e disse:
 
 «James, il signor Bingham del British Museum desidera rivederti».
 
-Il filosofo [[Rose|si alzò]] con uno sguardo stordito, che sempre indica
-in tali uomini il fatto che considerano la [[philosophy|filosofia]] una cosa familiare,
+Il filosofo [[motifs/rose|si alzò]] con uno sguardo stordito, che sempre indica
+in tali uomini il fatto che considerano la filosofia una cosa familiare,
 mentre la vita pratica una visione bizzarra e sconcertante, e uscì
 esitante dalla stanza.
 
 «Spero che non vi dispiaccia che io ne sia al corrente, signorina Chadd»,
 disse Basil Grant, «ma sento dire che il British Museum ha riconosciuto
-uno degli uomini che hanno [[Well|bene]] meritato dalla loro comunità.
+uno degli uomini che hanno [[motifs/well|bene]] meritato dalla loro comunità.
 È vero, non è così, che il professor Chadd sarà probabilmente nominato
 conservatore dei manoscritti asiatici?»
 
@@ -12845,21 +12845,21 @@ sentono moltissimo, ma grande sollievo, che sentono ancora di più;
 sollievo dall'affanno per un mucchio di cose. La salute di James non è mai
 stata buona, e finché siamo poveri come siamo egli ha dovuto fare del giornalismo
 e ripetizioni, oltre alle sue tremende, logoranti idee
-e scoperte, che ama più di uomo, donna o [[Child|bambino]].
+e scoperte, che ama più di uomo, donna o [[archetypes/child|bambino]].
 Ho spesso temuto che, a meno che non accadesse qualcosa del genere,
 avremmo dovuto davvero avere cura del suo cervello.
 Ma credo che sia praticamente cosa fatta».
 
 «Ne sono lietissimo», cominciò Basil, ma con volto preoccupato, «però queste
 trattative burocratiche sono così terribilmente incerte che davvero non posso
-consigliarvi di costruire sulla [[Hope|speranza]], solo per essere poi precipitati nell'amarezza.
+consigliarvi di costruire sulla [[concepts/hope|speranza]], solo per essere poi precipitati nell'amarezza.
 Ho conosciuto uomini, e buoni uomini come vostro fratello, arrivare più vicini
 di così ed essere delusi. Naturalmente, se è vero...»
 
 «Se è vero», disse la donna con fierezza, «significa che persone
 che non hanno mai vissuto possono fare un tentativo di vivere».
 
-Proprio mentre parlava il [[The Professor|professore]] entrò nella stanza ancora con lo stordito
+Proprio mentre parlava il professore entrò nella stanza ancora con lo stordito
 sguardo negli occhi.
 
 «È vero?» chiese Basil, con occhi ardenti.
@@ -12869,30 +12869,30 @@ sguardo negli occhi.
 
 «Che cosa intendi?» domandò Grant.
 
-«[[Well|Ebbene]]», disse il [[The Professor|professore]] lentamente, «nel dire che tu potresti possedere
+«[[motifs/well|Ebbene]]», disse il professore lentamente, «nel dire che tu potresti possedere
 una conoscenza dell'essenza della vita zulù distinta da...»
 
 «Oh! al diavolo la vita zulù», gridò Grant, con uno scoppio di risate.
 «Voglio dire, hai ottenuto il posto?»
 
 «Intendi il posto di conservatore dei manoscritti asiatici», disse,
-spalancando l'occhio con puerile [[Wonder|meraviglia]]. «Oh, sì, l'ho ottenuto.
+spalancando l'occhio con puerile [[concepts/wonder|meraviglia]]. «Oh, sì, l'ho ottenuto.
 Ma la vera obiezione al tuo argomento, che soltanto, lo ammetto, mi è
 venuta in mente da quando sono uscito dalla stanza, è che esso non
-si limita a presupporre una [[Truth|verità]] zulù distinta dai fatti, ma deduce
+si limita a presupporre una [[concepts/truth|verità]] zulù distinta dai fatti, ma deduce
 che la scoperta di essa sia assolutamente ostacolata dai fatti».
 
 «Sono annientato», disse Basil, e si sedette a ridere, mentre la sorella
-del [[The Professor|professore]] si ritirava nella sua stanza, forse, forse no.
+del professore si ritirava nella sua stanza, forse, forse no.
 
-Era tardissimo quando lasciammo i Chadd, ed è un [[Journey|viaggio]] estremamente
+Era tardissimo quando lasciammo i Chadd, ed è un [[motifs/journey|viaggio]] estremamente
 lungo e noioso da Shepherd's Bush a Lambeth.
 Questa può essere la nostra scusa per il fatto che (poiché io passavo
-la [[Night|notte]] da Grant) scendemmo a colazione il giorno dopo a un'[[Time|ora]]
-inesprimibilmente criminale, un'[[Time|ora]], di fatto, prossima al [[Noon|mezzogiorno]].
+la [[motifs/night|notte]] da Grant) scendemmo a colazione il giorno dopo a un'[[motifs/time|ora]]
+inesprimibilmente criminale, un'[[motifs/time|ora]], di fatto, prossima al [[motifs/noon|mezzogiorno]].
 Anche a quel pasto tardivo giungemmo in modo assai indolente e
 pigro. Grant, in particolare, sembrava così trasognato a tavola
-da vedere a malapena la pila di lettere accanto al piatto, e [[Doubt|dubito]]
+da vedere a malapena la pila di lettere accanto al piatto, e [[concepts/doubt|dubito]]
 che ne avrebbe aperta alcuna se in cima non fosse stato posato
 quell'unica cosa che è riuscita, tra la moderna noncuranza, a essere
 davvero urgente e coercitiva: un telegramma. Questo lo aprì con la stessa
@@ -12901,7 +12901,7 @@ Quando lo lesse non mosse un capello né disse una parola, ma qualcosa,
 non so cosa, mi fece sentire che quella figura immobile era stata
 d'un tratto ricomposta come si tendono le corde su una chitarra allentata.
 Benché non dicesse nulla e non si muovesse, capii che era stato
-per un istante rischiarato e affilato da uno shock di fredda [[Water|acqua]].
+per un istante rischiarato e affilato da uno shock di fredda [[motifs/water|acqua]].
 Non fu quasi una sorpresa per me quando un uomo che si era trascinato
 imbronciato al suo posto e vi era sprofondato, lo scostò con un calcio come un cane
 da sotto di sé e mi venne accanto in due falcate.
@@ -12928,7 +12928,7 @@ that grass is green or God all-merciful. These things are truisms,
 and often private ones at that.  If Miss Chadd has written down under
 the eye of a strange woman in a post-office that her brother is off
 his head you may be perfectly certain that she did it because it
-was a matter of life and [[Death|death]], and she can think of no other way
+was a matter of life and [[motifs/death|death]], and she can think of no other way
 of forcing us to come promptly."
 
 "It will force us of course," I said, smiling.
@@ -12936,12 +12936,12 @@ of forcing us to come promptly."
 "Oh, yes," he replied; "there is a cab-rank near."
 
 Basil scarcely said a word as we drove across Westminster Bridge,
-through Trafalgar Square, along Piccadilly, and up the Uxbridge [[Road]].
+through Trafalgar Square, along Piccadilly, and up the Uxbridge [[motifs/road|Road]].
 Only as he was opening the gate he spoke.
 
 "I think you will take my word for it, my friend," he said;
 "this is one of the most queer and complicated and astounding
-incidents that ever happened in [[London]] or, for that matter,
+incidents that ever happened in [[settings/london|London]] or, for that matter,
 in any high civilization."
 
 "I confess with the greatest sympathy and reverence that I don't quite
@@ -12949,13 +12949,13 @@ see it," I said.  "Is it so very extraordinary or complicated that a
 dreamy somnambulant old invalid who has always walked on the borders
 of the inconceivable should go mad under the shock of great joy?
 Is it so very extraordinary that a man with a head like a turnip
-and a [[Soul|soul]] like a spider's web should not find his strength equal
+and a [[motifs/soul|soul]] like a spider's web should not find his strength equal
 to a confounding change of fortunes?  Is it, in short, so very
 extraordinary that James Chadd should lose his wits from excitement?"
 
 "It would not be extraordinary in the least," answered Basil,
 with placidity.  "It would not be extraordinary in the least,"
-he repeated, "if [[The Professor|the professor]] had gone mad.  That was not
+he repeated, "if the professor had gone mad.  That was not
 the extraordinary circumstance to which I referred."
 
 "What," I asked, stamping my foot, "was the extraordinary thing?"
@@ -12969,20 +12969,20 @@ way to be blocking the narrow passage and the little parlour.
 There was a general sense of their keeping something from view.
 They seemed like three black-clad ladies in some strange play
 of Maeterlinck, veiling the catastrophe from the audience in the manner
-of the Greek [[Chorus|chorus]].
+of the Greek [[characters/chorus|chorus]].
 
 "Sit down, won't you?" said one of them, in a voice that was
-somewhat rigid with [[Pain|pain]].  "I think you had better be told first
+somewhat rigid with [[motifs/pain|pain]].  "I think you had better be told first
 what has happened."
 
-Then, with her bleak face looking unmeaningly out of the [[Window|window]],
+Then, with her bleak face looking unmeaningly out of the [[motifs/window|window]],
 she continued, in an even and mechanical voice:
 
 "I had better state everything that occurred just as it occurred.
 This morning I was clearing away the breakfast things,
 my sisters were both somewhat unwell, and had not come down.
 My brother had just gone out of the room, I believe, to fetch a book.
-He came back again, however, without it, and stood for some [[Time|time]]
+He came back again, however, without it, and stood for some [[motifs/time|time]]
 staring at the empty grate.  I said, ‘Were you looking for anything
 I could get?'  He did not answer, but this constantly happens,
 as he is often very abstracted.  I repeated my question,
@@ -13017,21 +13017,21 @@ describe circles with it in the air.  I rushed to the door and shouted
 for Christina.  I will not dwell on the dreadful hours that followed.
 All three of us talked to him, implored him to speak to us with
 appeals that might have brought back the dead, but he has done
-nothing but hop and [[Dance|dance]] and kick with a solemn silent face.
+nothing but hop and [[motifs/dance|dance]] and kick with a solemn silent face.
 It looks as if his legs belonged to some one else or were possessed
-by devils.  He has never spoken to us from that [[Time|time]] to this."
+by devils.  He has never spoken to us from that [[motifs/time|time]] to this."
 
 "Where is he now?"  I said, getting up in some agitation.
-"We ought not to leave him [[Alone|alone]]."
+"We ought not to leave him alone."
 
 "Doctor Colman is with him," said Miss Chadd calmly.  "They are
-in the [[Garden|garden]].  Doctor Colman thought the air would do him good.
+in the [[motifs/garden|garden]].  Doctor Colman thought the air would do him good.
 And he can scarcely go into the street."
 
-Basil and I walked rapidly to the [[Window|window]] which looked out on the [[Garden|garden]].
-It was a small and somewhat smug suburban [[Garden|garden]]; the flower beds
+Basil and I walked rapidly to the [[motifs/window|window]] which looked out on the [[motifs/garden|garden]].
+It was a small and somewhat smug suburban [[motifs/garden|garden]]; the flower beds
 a little too neat and like the pattern of a coloured carpet;
-but on this shining and opulent [[Summer|summer]] day even they had
+but on this shining and opulent [[motifs/summer|summer]] day even they had
 the exuberance of something natural, I had almost said tropical.
 In the middle of a bright and verdant but painfully circular lawn
 stood two figures.  One of them was a small, sharp-looking man
@@ -13040,16 +13040,16 @@ who was talking very quietly and clearly, yet with a nervous twitch,
 as it were, in his face.  The other was our old friend,
 listening with his old forbearing expression and owlish eyes,
 the strong sunlight gleaming on his glasses as the lamplight had
-gleamed the [[Night|night]] before, when the boisterous Basil had rallied
+gleamed the [[motifs/night|night]] before, when the boisterous Basil had rallied
 him on his studious decorum.  But for one thing the figure of this
-morning might have been the identical figure of last [[Night|night]].
+morning might have been the identical figure of last [[motifs/night|night]].
 That one thing was that while the face listened reposefully
 the legs were industriously dancing like the legs of a marionette.
-The neat [[Flowers|flowers]] and the sunny glitter of the [[Garden|garden]] lent
+The neat [[motifs/flowers|flowers]] and the sunny glitter of the [[motifs/garden|garden]] lent
 an indescribable sharpness and incredibility to the prodigy--
 the prodigy of the head of a hermit and the legs of a harlequin.
 For miracles should always happen in broad daylight.
-The [[Night|night]] makes them credible and therefore commonplace.
+The [[motifs/night|night]] makes them credible and therefore commonplace.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -13071,7 +13071,7 @@ che l'erba è verde o che Dio è misericordiosissimo. Queste sono banalità,
 e spesso per giunta private. Se la signorina Chadd ha scritto sotto
 lo sguardo di una donna sconosciuta in un ufficio postale che suo fratello ha perso
 la testa, puoi essere assolutamente certo che l'ha fatto perché era
-una questione di vita o di [[Death|morte]], e non riesce a pensare ad altro modo
+una questione di vita o di [[motifs/death|morte]], e non riesce a pensare ad altro modo
 di costringerci a venire senza indugio».
 
 «Ci costringerà di certo», dissi, sorridendo.
@@ -13079,12 +13079,12 @@ di costringerci a venire senza indugio».
 «Oh, sì», rispose; «c'è un posteggio di vetture qui vicino».
 
 Basil disse a malapena una parola mentre attraversavamo in vettura il Westminster Bridge,
-attraverso Trafalgar Square, lungo Piccadilly, e su per la Uxbridge [[Road]].
+attraverso Trafalgar Square, lungo Piccadilly, e su per la Uxbridge [[motifs/road|Road]].
 Solo mentre apriva il cancello parlò.
 
 «Credo che tu mi crederai sulla parola, amico mio», disse;
 «questo è uno degli episodi più bizzarri, complicati e sbalorditivi
-che siano mai accaduti a [[London|Londra]] o, se è per questo,
+che siano mai accaduti a [[settings/london|Londra]] o, se è per questo,
 in una qualsiasi alta civiltà».
 
 «Confesso, con la più grande simpatia e reverenza, che non riesco proprio
@@ -13092,13 +13092,13 @@ a vederlo», dissi. «È forse così straordinario o complicato che un
 trasognato, sonnambulo vecchio invalido che ha sempre camminato ai margini
 dell'inconcepibile impazzisca sotto lo shock di una grande gioia?
 È forse così straordinario che un uomo con una testa come una rapa
-e un'[[Soul|anima]] come una ragnatela non trovi la sua forza pari
+e un'[[motifs/soul|anima]] come una ragnatela non trovi la sua forza pari
 a uno sconvolgente cambiamento di sorte? È, in breve, così
 straordinario che James Chadd perda il senno per l'eccitazione?»
 
 «Non sarebbe affatto straordinario», rispose Basil,
 con placidità. «Non sarebbe affatto straordinario»,
-ripeté, «se il [[The Professor|professore]] fosse impazzito. Non era
+ripeté, «se il professore fosse impazzito. Non era
 quella la circostanza straordinaria a cui alludevo».
 
 «Qual era», chiesi, pestando i piedi, «la cosa straordinaria?»
@@ -13112,20 +13112,20 @@ modo ostruire lo stretto corridoio e il salottino.
 C'era un senso generale che tenessero qualcosa fuori dalla vista.
 Sembravano tre signore vestite di nero in qualche strano dramma
 di Maeterlinck, che velano la catastrofe al pubblico alla maniera
-del [[Chorus|coro]] greco.
+del [[characters/chorus|coro]] greco.
 
 «Prego, accomodatevi», disse una di loro, con una voce che era
-alquanto rigida per il [[Pain|dolore]]. «Credo sia meglio che vi si dica prima
+alquanto rigida per il [[motifs/pain|dolore]]. «Credo sia meglio che vi si dica prima
 che cosa è accaduto».
 
-Poi, con il volto smorto che guardava senza significato fuori dalla [[Window|finestra]],
+Poi, con il volto smorto che guardava senza significato fuori dalla [[motifs/window|finestra]],
 proseguì, con voce uniforme e meccanica:
 
 «È meglio che esponga tutto ciò che è accaduto proprio come è accaduto.
 Stamattina stavo sparecchiando la colazione,
 le mie sorelle erano entrambe un po' indisposte e non erano scese.
 Mio fratello era appena uscito dalla stanza, credo, per prendere un libro.
-Rientrò però senza, e restò per qualche [[Time|tempo]]
+Rientrò però senza, e restò per qualche [[motifs/time|tempo]]
 a fissare il focolare vuoto. Dissi: "Cercavi qualcosa
 che potessi prenderti io?" Non rispose, ma ciò accade di continuo,
 perché è spesso molto distratto. Ripetei la domanda,
@@ -13160,21 +13160,21 @@ descrivere con esso dei cerchi in aria. Mi precipitai alla porta e chiamai a gra
 Christina. Non mi soffermerò sulle terribili ore che seguirono.
 Tutte e tre gli parlammo, lo implorammo di parlarci con
 suppliche che avrebbero potuto richiamare i morti, ma egli non ha fatto
-altro che saltellare e [[Dance|danzare]] e sferrare calci con volto solenne e silenzioso.
+altro che saltellare e [[motifs/dance|danzare]] e sferrare calci con volto solenne e silenzioso.
 Sembra che le sue gambe appartengano a qualcun altro o siano possedute
-dai diavoli. Non ci ha più rivolto la parola da quel [[Time|momento]] a questo».
+dai diavoli. Non ci ha più rivolto la parola da quel [[motifs/time|momento]] a questo».
 
 «Dov'è ora?» dissi, alzandomi in una certa agitazione.
-«Non dovremmo lasciarlo [[Alone|solo]]».
+«Non dovremmo lasciarlo solo».
 
 «Il dottor Colman è con lui», disse la signorina Chadd con calma. «Sono
-nel [[Garden|giardino]]. Il dottor Colman ha pensato che l'aria gli avrebbe fatto bene.
+nel [[motifs/garden|giardino]]. Il dottor Colman ha pensato che l'aria gli avrebbe fatto bene.
 E in strada non può certo andare».
 
-Basil e io ci avviammo rapidamente alla [[Window|finestra]] che dava sul [[Garden|giardino]].
-Era un [[Garden|giardino]] suburbano piccolo e alquanto azzimato; le aiuole
+Basil e io ci avviammo rapidamente alla [[motifs/window|finestra]] che dava sul [[motifs/garden|giardino]].
+Era un [[motifs/garden|giardino]] suburbano piccolo e alquanto azzimato; le aiuole
 un po' troppo ordinate e simili al disegno di un tappeto colorato;
-ma in quella splendente e opulenta giornata [[Summer|estiva]] persino esse avevano
+ma in quella splendente e opulenta giornata [[motifs/summer|estiva]] persino esse avevano
 l'esuberanza di qualcosa di naturale, avrei quasi detto tropicale.
 In mezzo a un prato luminoso e verdeggiante ma dolorosamente circolare
 stavano due figure. Una era un uomo piccolo, dall'aria arguta,
@@ -13183,24 +13183,24 @@ che parlava molto piano e con chiarezza, eppure con un tremito nervoso,
 per così dire, sul volto. L'altra era il nostro vecchio amico,
 che ascoltava con la sua vecchia espressione paziente e gli occhi da gufo,
 la forte luce del sole che gli brillava sugli occhiali come la luce della lampada aveva
-brillato la [[Night|notte]] prima, quando il chiassoso Basil lo aveva punzecchiato
+brillato la [[motifs/night|notte]] prima, quando il chiassoso Basil lo aveva punzecchiato
 sul suo studioso decoro. Ma per una sola cosa la figura di quella
-mattina avrebbe potuto essere l'identica figura della [[Night|notte]] prima.
+mattina avrebbe potuto essere l'identica figura della [[motifs/night|notte]] prima.
 Quell'unica cosa era che, mentre il volto ascoltava in serena quiete,
 le gambe danzavano indefesse come le gambe di una marionetta.
-I graziosi [[Flowers|fiori]] e il soleggiato scintillio del [[Garden|giardino]] conferivano
+I graziosi [[motifs/flowers|fiori]] e il soleggiato scintillio del [[motifs/garden|giardino]] conferivano
 un'indescrivibile nettezza e incredibilità al prodigio...
 il prodigio della testa di un eremita e delle gambe di un arlecchino.
 Perché i miracoli dovrebbero sempre accadere in pieno giorno.
-La [[Night|notte]] li rende credibili e perciò banali.
+La [[motifs/night|notte]] li rende credibili e perciò banali.
 
 
 
 <span class="atom-split" data-atom="story_05_chapter_5--part_04" data-title="The Club of Queer Trades — Chapter 5 (part 4)" data-chapter="Chapter 5" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/cross,motif/garden,motif/time,motif/well,motif/wheel,motif/window,concept/hope,concept/madness"></span>
 
 
-The second sister had by this [[Time|time]] entered the room and came somewhat
-drearily to the [[Window|window]].
+The second sister had by this [[motifs/time|time]] entered the room and came somewhat
+drearily to the [[motifs/window|window]].
 
 "You know, Adelaide," she said, "that Mr Bingham from the Museum
 is coming again at three."
@@ -13212,31 +13212,31 @@ come easily to us."
 Grant suddenly turned round.  "What do you mean?" he said.
 "What will you have to tell Mr Bingham?"
 
-"You know what I shall have to tell him," said [[The Professor|the professor]]'s sister,
+"You know what I shall have to tell him," said the professor's sister,
 almost fiercely.  "I don't know that we need give it its wretched name.
 Do you think that the keeper of Asiatic manuscripts will be allowed
 to go on like that?"  And she pointed for an instant at the figure
-in the [[Garden|garden]], the shining, listening face and the unresting feet.
+in the [[motifs/garden|garden]], the shining, listening face and the unresting feet.
 
 Basil Grant took out his watch with an abrupt movement.
 "When did you say the British Museum man was coming?" he said.
 
-"Three o'[[Clock|clock]]," said Miss Chadd briefly.
+"Three o'[[motifs/clock|clock]]," said Miss Chadd briefly.
 
 "Then I have an hour before me," said Grant, and without another word
-threw up the [[Window|window]] and jumped out into the [[Garden|garden]].  He did not walk
-straight up to the doctor and lunatic, but strolling round the [[Garden|garden]]
+threw up the [[motifs/window|window]] and jumped out into the [[motifs/garden|garden]].  He did not walk
+straight up to the doctor and lunatic, but strolling round the [[motifs/garden|garden]]
 path drew near them cautiously and yet apparently carelessly.
 He stood a couple of feet off them, seemingly counting halfpence
 out of his trousers pocket, but, as I could see, looking up steadily
 under the broad brim of his hat.
 
 Suddenly he stepped up to Professor Chadd's elbow, and said,
-in a loud familiar voice, "[[Well]], my boy, do you still think
+in a loud familiar voice, "[[motifs/well|Well]], my boy, do you still think
 the Zulus our inferiors?"
 
 The doctor knitted his brows and looked anxious, seeming to be about
-to speak.  [[The Professor|The professor]] turned his bald and placid head towards
+to speak.  The professor turned his bald and placid head towards
 Grant in a friendly manner, but made no answer, idly flinging his
 left leg about.
 
@@ -13246,17 +13246,17 @@ still in the same loud and lucid tone.
 Chadd only shuffled his feet and kicked a little with the other leg,
 his expression still benevolent and inquiring.  The doctor cut
 in rather sharply.  "Shall we go inside, professor?" he said.
-"Now you have shown me the [[Garden|garden]].  A beautiful [[Garden|garden]].
-A most beautiful [[Garden|garden]].  Let us go in," and he tried to draw
-the kicking ethnologist by the elbow, at the same [[Time|time]] whispering
+"Now you have shown me the [[motifs/garden|garden]].  A beautiful [[motifs/garden|garden]].
+A most beautiful [[motifs/garden|garden]].  Let us go in," and he tried to draw
+the kicking ethnologist by the elbow, at the same [[motifs/time|time]] whispering
 to Grant:  "I must ask you not to trouble him with questions.
 Most risky.  He must be soothed."
 
 Basil answered in the same tone, with great coolness:
 
 "Of course your directions must be followed out, doctor.  I will endeavour
-to do so, but I [[Hope|hope]] it will not be inconsistent with them if you
-will leave me [[Alone|alone]] with my poor friend in this [[Garden|garden]] for an hour.
+to do so, but I [[concepts/hope|hope]] it will not be inconsistent with them if you
+will leave me alone with my poor friend in this [[motifs/garden|garden]] for an hour.
 I want to watch him.  I assure you, Dr Colman, that I shall say very
 little to him, and that little shall be as soothing as--as syrup."
 
@@ -13266,17 +13266,17 @@ The doctor wiped his eyeglass thoughtfully.
 sun without his hat.  With his bald head, too."
 
 "That is soon settled," said Basil composedly, and took off his own
-big hat and clapped it on the egglike skull of [[The Professor|the professor]].
+big hat and clapped it on the egglike skull of the professor.
 The latter did not turn round but danced away with his eyes
 on the horizon.
 
 The doctor put on his glasses again, looked severely at the two
 for some seconds, with his head on one side like a bird's,
-and then saying, shortly, "All right," strutted away into the [[house]],
+and then saying, shortly, "All right," strutted away into the house,
 where the three Misses Chadd were all looking out from the parlour
-[[Window|window]] on to the [[Garden|garden]].  They looked out on it with hungry eyes
+[[motifs/window|window]] on to the [[motifs/garden|garden]].  They looked out on it with hungry eyes
 for a full hour without moving, and they saw a sight which was more
-extraordinary than [[Madness|madness]] itself.
+extraordinary than [[concepts/madness|madness]] itself.
 
 Basil Grant addressed a few questions to the madman, without succeeding
 in making him do anything but continue to caper, and when he had
@@ -13287,7 +13287,7 @@ He began hurriedly to scribble notes.  When the lunatic skipped away from
 him he would walk a few yards in pursuit, stop, and make notes again.
 Thus they followed each other round and round the foolish circle
 of turf, the one writing in pencil with the face of a man working
-out a problem, the other leaping and playing like a [[Child|child]].
+out a problem, the other leaping and playing like a [[archetypes/child|child]].
 
 After about three-quarters of an hour of this imbecile scene,
 Grant put the pencil in his pocket, but kept the note-book open
@@ -13295,15 +13295,15 @@ in his hand, and walking round the mad professor, planted himself
 directly in front of him.
 
 Then occurred something that even those already used to that wild
-morning had not anticipated or dreamed.  [[The Professor|The professor]], on finding
+morning had not anticipated or dreamed.  The professor, on finding
 Basil in front of him, stared with a blank benignity for a few seconds,
 and then drew up his left leg and hung it bent in the attitude
 that his sister had described as being the first of all his antics.
 And the moment he had done it Basil Grant lifted his own leg and held it
 out rigid before him, confronting Chadd with the flat sole of his boot.
-[[The Professor|The professor]] dropped his bent leg, and swinging his weight on to it
+The professor dropped his bent leg, and swinging his weight on to it
 kicked out the other behind, like a man swimming.  Basil crossed
-his feet like a saltire [[Cross|cross]], and then flung them apart again,
+his feet like a saltire [[motifs/cross|cross]], and then flung them apart again,
 giving a leap into the air.  Then before any of the spectators
 could say a word or even entertain a thought about the matter,
 both of them were dancing a sort of jig or hornpipe opposite each other;
@@ -13311,17 +13311,17 @@ and the sun shone down on two madmen instead of one.
 
 They were so stricken with the deafness and blindness of monomania
 that they did not see the eldest Miss Chadd come out feverishly into
-the [[Garden|garden]] with gestures of entreaty, a gentleman following her.
+the [[motifs/garden|garden]] with gestures of entreaty, a gentleman following her.
 Professor Chadd was in the wildest posture of a pas-de-quatre,
-Basil Grant seemed about to turn a cart-[[Wheel|wheel]], when they were frozen
+Basil Grant seemed about to turn a cart-[[motifs/wheel|wheel]], when they were frozen
 in their follies by the steely voice of Adelaide Chadd saying,
 "Mr Bingham of the British Museum."
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-La seconda sorella era a questo [[Time|momento]] entrata nella stanza e si era
-avvicinata con una certa mestizia alla [[Window|finestra]].
+La seconda sorella era a questo [[motifs/time|momento]] entrata nella stanza e si era
+avvicinata con una certa mestizia alla [[motifs/window|finestra]].
 
 «Sai, Adelaide,» disse, «che il signor Bingham del Museo
 verrà di nuovo alle tre.»
@@ -13333,31 +13333,31 @@ toccata con facilità.»
 Grant si voltò di scatto.  «Che cosa intende?» disse.
 «Che cosa dovrete dire al signor Bingham?»
 
-«Sapete bene che cosa dovrò dirgli,» disse la sorella del [[The Professor|professore]],
+«Sapete bene che cosa dovrò dirgli,» disse la sorella del professore,
 quasi con foga.  «Non credo che occorra darle il suo miserabile nome.
 Pensate che si permetterà al custode dei manoscritti asiatici
 di continuare così?»  E indicò per un istante la figura
-nel [[Garden|giardino]], il volto raggiante e in ascolto e i piedi senza requie.
+nel [[motifs/garden|giardino]], il volto raggiante e in ascolto e i piedi senza requie.
 
 Basil Grant estrasse l'orologio con un gesto brusco.
 «Quando avete detto che sarebbe venuto l'uomo del British Museum?» disse.
 
-«Alle [[Clock|tre]],» disse brevemente Miss Chadd.
+«Alle [[motifs/clock|tre]],» disse brevemente Miss Chadd.
 
 «Allora ho un'ora davanti a me,» disse Grant, e senza aggiungere altro
-spalancò la [[Window|finestra]] e saltò nel [[Garden|giardino]].  Non si diresse
-dritto verso il dottore e il pazzo, ma, passeggiando lungo il vialetto del [[Garden|giardino]],
+spalancò la [[motifs/window|finestra]] e saltò nel [[motifs/garden|giardino]].  Non si diresse
+dritto verso il dottore e il pazzo, ma, passeggiando lungo il vialetto del [[motifs/garden|giardino]],
 si avvicinò a loro con cautela eppure in apparenza con noncuranza.
 Si fermò a un paio di piedi da loro, mostrando di contare monete da mezzo penny
 estratte dalla tasca dei calzoni, ma, come potevo vedere, guardando fisso in su
 di sotto la larga tesa del cappello.
 
 D'un tratto si accostò al gomito del professor Chadd e disse,
-con voce alta e familiare: «[[Well|Ebbene]], ragazzo mio, credi ancora
+con voce alta e familiare: «[[motifs/well|Ebbene]], ragazzo mio, credi ancora
 che gli Zulu ci siano inferiori?»
 
 Il dottore aggrottò le sopracciglia e assunse un'aria ansiosa, come sul punto
-di parlare.  Il [[The Professor|professore]] volse verso Grant il capo calvo e placido
+di parlare.  Il professore volse verso Grant il capo calvo e placido
 con fare amichevole, ma non diede risposta, agitando pigramente la
 gamba sinistra.
 
@@ -13367,17 +13367,17 @@ sempre nello stesso tono alto e limpido.
 Chadd si limitò a strascicare i piedi e a sferrare qualche calcio con l'altra gamba,
 l'espressione sempre benevola e interrogativa.  Il dottore intervenne
 piuttosto seccamente.  «Non entriamo, professore?» disse.
-«Ora mi avete mostrato il [[Garden|giardino]].  Un bel [[Garden|giardino]].
-Un [[Garden|giardino]] bellissimo.  Entriamo,» e tentò di trarre
-per il gomito l'etnologo che scalciava, mormorando nel medesimo [[Time|momento]]
+«Ora mi avete mostrato il [[motifs/garden|giardino]].  Un bel [[motifs/garden|giardino]].
+Un [[motifs/garden|giardino]] bellissimo.  Entriamo,» e tentò di trarre
+per il gomito l'etnologo che scalciava, mormorando nel medesimo [[motifs/time|momento]]
 a Grant: «Devo pregarvi di non tormentarlo con domande.
 Molto rischioso.  Va tenuto calmo.»
 
 Basil rispose sullo stesso tono, con grande freddezza:
 
 «Naturalmente le vostre istruzioni vanno seguite, dottore.  Mi sforzerò
-di farlo, ma [[Hope|spero]] non sia in contrasto con esse se
-mi lascerete [[Alone|solo]] con il mio povero amico in questo [[Garden|giardino]] per un'ora.
+di farlo, ma [[concepts/hope|spero]] non sia in contrasto con esse se
+mi lascerete solo con il mio povero amico in questo [[motifs/garden|giardino]] per un'ora.
 Voglio osservarlo.  Vi assicuro, dottor Colman, che gli dirò
 pochissimo, e quel poco sarà dolce come... come sciroppo.»
 
@@ -13387,17 +13387,17 @@ Il dottore si pulì il monocolo, pensieroso.
 forte senza cappello.  E per giunta con quel capo calvo.»
 
 «Rimediato in un attimo,» disse Basil con compostezza, e si tolse il proprio
-grande cappello e lo calcò sul cranio a uovo del [[The Professor|professore]].
+grande cappello e lo calcò sul cranio a uovo del professore.
 Questi non si voltò, ma si allontanò danzando con gli occhi
 fissi all'orizzonte.
 
 Il dottore si rimise gli occhiali, guardò severamente i due
 per alcuni secondi, la testa piegata da un lato come quella di un uccello,
-e poi, dicendo secco «Va bene,» s'incamminò impettito verso la [[house|casa]],
-dove le tre signorine Chadd stavano tutte affacciate dalla [[Window|finestra]]
-del salotto sul [[Garden|giardino]].  Vi guardarono con occhi affamati
+e poi, dicendo secco «Va bene,» s'incamminò impettito verso la casa,
+dove le tre signorine Chadd stavano tutte affacciate dalla [[motifs/window|finestra]]
+del salotto sul [[motifs/garden|giardino]].  Vi guardarono con occhi affamati
 per un'ora intera senza muoversi, e videro uno spettacolo più
-straordinario della [[Madness|follia]] stessa.
+straordinario della [[concepts/madness|follia]] stessa.
 
 Basil Grant rivolse alcune domande al pazzo, senza riuscire
 a fargli fare altro che continuare a saltellare, e fatto ciò
@@ -13408,7 +13408,7 @@ Cominciò a buttar giù note in fretta.  Quando il pazzo gli sgusciava via,
 lo seguiva per qualche iarda, si fermava e riprendeva a prendere appunti.
 Così si rincorsero l'un l'altro giro dopo giro attorno allo sciocco cerchio
 d'erba, l'uno scrivendo a matita con l'aria di chi risolve
-un problema, l'altro balzando e giocando come un [[Child|bambino]].
+un problema, l'altro balzando e giocando come un [[archetypes/child|bambino]].
 
 Dopo circa tre quarti d'ora di quella scena imbecille,
 Grant si rimise la matita in tasca, ma tenne il taccuino aperto
@@ -13416,15 +13416,15 @@ in mano e, girando attorno al professore folle, si piantò
 proprio davanti a lui.
 
 Allora accadde qualcosa che perfino chi era già avvezzo a quella sfrenata
-mattinata non aveva previsto né sognato.  Il [[The Professor|professore]], trovandosi
+mattinata non aveva previsto né sognato.  Il professore, trovandosi
 Basil di fronte, lo fissò con vacua benevolenza per alcuni secondi,
 poi sollevò la gamba sinistra e la tenne sospesa piegata nell'atteggiamento
 che sua sorella aveva descritto come il primo di tutte le sue bizzarrie.
 E non appena l'ebbe fatto, Basil Grant sollevò a sua volta la gamba e la protese
 rigida davanti a sé, affrontando Chadd con la suola piatta dello stivale.
-Il [[The Professor|professore]] abbassò la gamba piegata e, spostandovi sopra il peso,
+Il professore abbassò la gamba piegata e, spostandovi sopra il peso,
 scagliò l'altra all'indietro, come un uomo che nuota.  Basil incrociò
-i piedi come una [[Cross|croce]] di sant'Andrea, poi li divaricò di nuovo,
+i piedi come una [[motifs/cross|croce]] di sant'Andrea, poi li divaricò di nuovo,
 spiccando un salto in aria.  Poi, prima che alcuno degli spettatori
 potesse dire una parola o anche solo concepire un pensiero sulla faccenda,
 entrambi danzavano una sorta di giga o hornpipe l'uno di fronte all'altro;
@@ -13432,9 +13432,9 @@ e il sole splendeva su due pazzi invece che su uno.
 
 Erano così colpiti dalla sordità e dalla cecità della monomania
 che non videro la maggiore delle signorine Chadd uscire febbrilmente nel
-[[Garden|giardino]] con gesti di supplica, seguita da un gentiluomo.
+[[motifs/garden|giardino]] con gesti di supplica, seguita da un gentiluomo.
 Il professor Chadd era nella più sfrenata posa di un pas-de-quatre,
-Basil Grant pareva sul punto di fare la [[Wheel|ruota]], quando furono gelati
+Basil Grant pareva sul punto di fare la [[motifs/wheel|ruota]], quando furono gelati
 nelle loro follie dalla voce d'acciaio di Adelaide Chadd che diceva:
 «Il signor Bingham del British Museum.»
 
@@ -13443,7 +13443,7 @@ nelle loro follie dalla voce d'acciaio di Adelaide Chadd che diceva:
 <span class="atom-split" data-atom="story_05_chapter_5--part_05" data-title="The Club of Queer Trades — Chapter 5 (part 5)" data-chapter="Chapter 5" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/rose,motif/time,motif/well"></span>
 
 
-Mr Bingham was a slim, [[Well|well]]-clad gentleman with a pointed and
+Mr Bingham was a slim, [[motifs/well|well]]-clad gentleman with a pointed and
 slightly effeminate grey beard, unimpeachable gloves, and formal
 but agreeable manners.  He was the type of the over-civilized,
 as Professor Chadd was of the uncivilized pedant.  His formality
@@ -13454,7 +13454,7 @@ of knowledge had accustomed him to the spectacle of two grey-haired
 middle-class gentlemen in modern costume throwing themselves about
 like acrobats as a substitute for an after-dinner nap.
 
-[[The Professor|The professor]] continued his antics with perfect placidity,
+The professor continued his antics with perfect placidity,
 but Grant stopped abruptly.  The doctor had reappeared on the scene,
 and his shiny black eyes, under his shiny black hat, moved restlessly
 from one of them to the other.
@@ -13468,7 +13468,7 @@ Mr Bingham, of the British Museum, bowed in a manner that was
 respectful but a trifle bewildered.
 
 "Miss Chadd will excuse me," continued Basil easily, "if I know
-my way about the [[house]]."  And he led the dazed librarian rapidly
+my way about the house."  And he led the dazed librarian rapidly
 through the back door into the parlour.
 
 "Mr Bingham," said Basil, setting a chair for him, "I imagine
@@ -13491,16 +13491,16 @@ in his chair, drawing it up to the table.
 "I am delighted, of course," said the gentleman from the British Museum,
 coughing and drawing up his chair also.
 
-The [[Clock|clock]] on the mantelpiece ticked for just the moments required
+The [[motifs/clock|clock]] on the mantelpiece ticked for just the moments required
 for Basil to clear his throat and collect his words, and then he said:
 
 "My proposal is this.  I do not know that in the strict use of words
 you could altogether call it a compromise, still it has something of
-that character.  My proposal is that the [[government|Government]] (acting, as I presume,
+that character.  My proposal is that the Government (acting, as I presume,
 through your Museum) should pay Professor Chadd L800 a year until
 he stops dancing."
 
-"Eight hundred a year!" said Mr Bingham, and for the first [[Time|time]] lifted
+"Eight hundred a year!" said Mr Bingham, and for the first [[motifs/time|time]] lifted
 his mild blue eyes to those of his interlocutor--and he raised them
 with a mild blue stare.  "I think I have not quite understood you.
 Did I understand you to say that Professor Chadd ought to be employed,
@@ -13527,17 +13527,17 @@ for life.  Not at all."
 
 "What for, then?" asked the meek Bingham, suppressing an instinct
 meekly to tear his hair.  "How long is this endowment to run?
-Not till his [[Death|death]]?  Till the Judgement day?"
+Not till his [[motifs/death|death]]?  Till the Judgement day?"
 
 "No," said Basil, beaming, "but just what I said.  Till he has
 stopped dancing."  And he lay back with satisfaction and his hands
 in his pockets.
 
-Bingham had by this [[Time|time]] fastened his eyes keenly on Basil Grant
+Bingham had by this [[motifs/time|time]] fastened his eyes keenly on Basil Grant
 and kept them there.
 
 "Come, Mr Grant," he said.  "Do I seriously understand you to suggest
-that the [[government|Government]] pay Professor Chadd an extraordinarily high salary
+that the Government pay Professor Chadd an extraordinarily high salary
 simply on the ground that he has (pardon the phrase) gone mad?
 That he should be paid more than four good clerks solely on the ground
 that he is flinging his boots about in the back yard?"
@@ -13549,7 +13549,7 @@ but actually to stop with the absurd dancing?"
 
 "One must stop somewhere," said Grant.  "Of course."
 
-Bingham [[Rose|rose]] and took up his perfect stick and gloves.
+Bingham [[motifs/rose|rose]] and took up his perfect stick and gloves.
 
 "There is really nothing more to be said, Mr Grant," he said coldly.
 "What you are trying to explain to me may be a joke--
@@ -13565,7 +13565,7 @@ I am sorry to say, with the British Museum Library."
 He was stepping towards the door, but Grant's hand, flung out
 in dramatic warning, arrested him.
 
-"Stop!" said Basil sternly.  "Stop while there is yet [[Time|time]].
+"Stop!" said Basil sternly.  "Stop while there is yet [[motifs/time|time]].
 Do you want to take part in a great work, Mr Bingham?  Do you
 want to help in the glory of Europe--in the glory of science?
 Do you want to carry your head in the air when it is bald or
@@ -13579,7 +13579,7 @@ Bingham cut in sharply:
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il signor Bingham era un gentiluomo snello e [[Well|ben]] vestito, con una barba grigia
+Il signor Bingham era un gentiluomo snello e [[motifs/well|ben]] vestito, con una barba grigia
 appuntita e lievemente effeminata, guanti irreprensibili e modi formali
 ma affabili.  Era il tipo dell'iper-civilizzato,
 come il professor Chadd lo era del pedante incivile.  La sua formalità
@@ -13590,7 +13590,7 @@ del sapere lo aveva abituato allo spettacolo di due gentiluomini
 borghesi dai capelli grigi, in abito moderno, che si agitavano
 come acrobati in luogo di un sonnellino dopo pranzo.
 
-Il [[The Professor|professore]] proseguiva le sue buffonate con perfetta placidità,
+Il professore proseguiva le sue buffonate con perfetta placidità,
 ma Grant si fermò di colpo.  Il dottore era ricomparso sulla scena,
 e i suoi lucidi occhi neri, sotto il lucido cappello nero, si spostavano
 irrequieti dall'uno all'altro.
@@ -13604,7 +13604,7 @@ Il signor Bingham, del British Museum, s'inchinò in modo che era
 rispettoso ma un tantino perplesso.
 
 «Miss Chadd mi scuserà,» proseguì Basil con disinvoltura, «se conosco
-la strada per la [[house|casa]].»  E condusse rapidamente il bibliotecario stordito
+la strada per la casa.»  E condusse rapidamente il bibliotecario stordito
 attraverso la porta sul retro fin nel salotto.
 
 «Signor Bingham,» disse Basil, accostandogli una sedia, «immagino
@@ -13627,16 +13627,16 @@ sulla sedia, accostandola al tavolo.
 «Ne sono lietissimo, s'intende,» disse il gentiluomo del British Museum,
 tossendo e accostando anch'egli la propria sedia.
 
-L'[[Clock|orologio]] sulla mensola del camino ticchettò giusto il tempo necessario
+L'[[motifs/clock|orologio]] sulla mensola del camino ticchettò giusto il tempo necessario
 a Basil per schiarirsi la gola e raccogliere le parole, poi disse:
 
 «La mia proposta è questa.  Non so se, nel senso stretto delle parole,
 la si possa proprio chiamare un compromesso, eppure ne ha qualcosa
-di quel carattere.  La mia proposta è che il [[government|Governo]] (agendo, presumo,
+di quel carattere.  La mia proposta è che il Governo (agendo, presumo,
 tramite il vostro Museo) versi al professor Chadd 800 sterline l'anno finché
 non smette di danzare.»
 
-«Ottocento l'anno!» disse il signor Bingham, e per la prima [[Time|volta]] alzò
+«Ottocento l'anno!» disse il signor Bingham, e per la prima [[motifs/time|volta]] alzò
 i miti occhi azzurri verso quelli del suo interlocutore — e li sollevò
 con un mite sguardo azzurro.  «Credo di non avervi ben compreso.
 Ho inteso bene che, secondo voi, il professor Chadd dovrebbe essere impiegato,
@@ -13663,17 +13663,17 @@ a vita.  Niente affatto.»
 
 «Per quanto, allora?» chiese il mite Bingham, reprimendo l'istinto
 di strapparsi mitemente i capelli.  «Quanto deve durare questo finanziamento?
-Non fino alla sua [[Death|morte]]?  Fino al giorno del Giudizio?»
+Non fino alla sua [[motifs/death|morte]]?  Fino al giorno del Giudizio?»
 
 «No,» disse Basil, raggiante, «ma proprio quello che ho detto.  Finché non abbia
 smesso di danzare.»  E si adagiò all'indietro con soddisfazione, le mani
 in tasca.
 
-Bingham aveva a questo [[Time|momento]] fissato acutamente gli occhi su Basil Grant
+Bingham aveva a questo [[motifs/time|momento]] fissato acutamente gli occhi su Basil Grant
 e ve li teneva.
 
 «Suvvia, signor Grant,» disse.  «Devo davvero intendere che proponete
-che il [[government|Governo]] paghi al professor Chadd uno stipendio straordinariamente alto
+che il Governo paghi al professor Chadd uno stipendio straordinariamente alto
 per il solo fatto che (perdonate l'espressione) è impazzito?
 Che gli si paghi più di quattro bravi impiegati per la sola ragione
 che scaglia gli stivali qua e là nel cortile sul retro?»
@@ -13685,7 +13685,7 @@ ma addirittura cessare con l'assurda danza?»
 
 «Da qualche parte bisogna pur fermarsi,» disse Grant.  «Naturalmente.»
 
-Bingham si [[Rose|alzò]] e prese il suo impeccabile bastone e i guanti.
+Bingham si [[motifs/rose|alzò]] e prese il suo impeccabile bastone e i guanti.
 
 «Non c'è davvero altro da aggiungere, signor Grant,» disse freddamente.
 «Ciò che cercate di spiegarmi potrebbe essere uno scherzo —
@@ -13701,7 +13701,7 @@ mi spiace dirlo, il suo rapporto con la Biblioteca del British Museum.»
 Si dirigeva verso la porta, ma la mano di Grant, protesa
 in un ammonimento drammatico, lo arrestò.
 
-«Fermatevi!» disse Basil severamente.  «Fermatevi finché c'è ancora [[Time|tempo]].
+«Fermatevi!» disse Basil severamente.  «Fermatevi finché c'è ancora [[motifs/time|tempo]].
 Volete prendere parte a una grande opera, signor Bingham?  Volete
 contribuire alla gloria dell'Europa — alla gloria della scienza?
 Volete portare il capo alto, quando sarà calvo o
@@ -13728,7 +13728,7 @@ Dr Colman was coming in.
 "the fact is, Mr Grant, I--er--have made a most disturbing discovery
 about Mr Chadd."
 
-Bingham looked at him with [[Grave|grave]] eyes.
+Bingham looked at him with [[motifs/grave|grave]] eyes.
 
 "I was afraid so," he said.  "Drink, I imagine."
 
@@ -13753,10 +13753,10 @@ is of a different character.  The awful thing about him is--"
 
 "Not mad!"
 
-"There are quite [[Well|well]]-known physical tests of lunacy,"
+"There are quite [[motifs/well|well]]-known physical tests of lunacy,"
 said the doctor shortly; "he hasn't got any of them."
 
-"But why does he [[Dance|dance]]?" cried the despairing Bingham.
+"But why does he [[motifs/dance|dance]]?" cried the despairing Bingham.
 "Why doesn't he answer us?  Why hasn't he spoken to his family?"
 
 "The devil knows," said Dr Colman coolly.  "I'm paid to judge
@@ -13782,7 +13782,7 @@ he began, but Bingham cried:
 
 "Of course, of course," with a sort of frenzy.
 
-"[[Well]]," said Basil, "like this."  And he suddenly sprang a foot
+"[[motifs/well|Well]]," said Basil, "like this."  And he suddenly sprang a foot
 into the air, coming down with crashing boots, and then stood
 on one leg.
 
@@ -13800,13 +13800,13 @@ Basil let his loose foot fall on the carpet with a crash that struck
 them all rigid in their feeble attitudes.
 
 "Idiots!" he cried.  "Have you seen the man?  Have you looked
-at James Chadd going dismally to and fro from his dingy [[house]]
+at James Chadd going dismally to and fro from his dingy house
 to your miserable library, with his futile books and his confounded
 umbrella, and never seen that he has the eyes of a fanatic?
 Have you never noticed, stuck casually behind his spectacles
 and above his seedy old collar, the face of a man who might
 have burned heretics, or died for the philosopher's stone?
-It is all my fault, in a way:  I lit the dynamite of his deadly [[Faith|faith]].
+It is all my fault, in a way:  I lit the dynamite of his deadly [[concepts/faith|faith]].
 I argued against him on the score of his famous theory about language--
 the theory that language was complete in certain individuals and
 was picked up by others simply by watching them.  I also chaffed
@@ -13824,12 +13824,12 @@ It is religious persecution."
 
 Mr Bingham held out his hand cordially.
 
-"I thank you, Mr Grant," he said.  "I [[Hope|hope]] I shall be able
+"I thank you, Mr Grant," he said.  "I [[concepts/hope|hope]] I shall be able
 to answer for the source of the L800 and I fancy that I shall.
 Will you come in my cab?"
 
 "No, thank you very much, Mr Bingham," said Grant heartily.
-"I think I will go and have a chat with [[The Professor|the professor]] in the [[Garden|garden]]."
+"I think I will go and have a chat with the professor in the [[motifs/garden|garden]]."
 
 The conversation between Chadd and Grant appeared to be personal
 and friendly.  They were still dancing when I left.
@@ -13848,7 +13848,7 @@ Il dottor Colman stava entrando.
 «il fatto è, signor Grant, che io... ehm... ho fatto una scoperta assai inquietante
 riguardo al signor Chadd.»
 
-Bingham lo guardò con occhi [[Grave|gravi]].
+Bingham lo guardò con occhi [[motifs/grave|gravi]].
 
 «Lo temevo,» disse.  «Il bere, immagino.»
 
@@ -13873,10 +13873,10 @@ di essere Dio... o...»
 
 «Non pazzo!»
 
-«Esistono prove fisiche assai [[Well|ben]] note della follia,»
+«Esistono prove fisiche assai [[motifs/well|ben]] note della follia,»
 disse il dottore secco; «lui non ne presenta nessuna.»
 
-«Ma perché [[Dance|danza]]?» esclamò il disperato Bingham.
+«Ma perché [[motifs/dance|danza]]?» esclamò il disperato Bingham.
 «Perché non ci risponde?  Perché non ha parlato alla sua famiglia?»
 
 «Lo sa il diavolo,» disse il dottor Colman con freddezza.  «Sono pagato per giudicare
@@ -13902,7 +13902,7 @@ cominciò, ma Bingham esclamò:
 
 «Certo, certo,» con una sorta di frenesia.
 
-«[[Well|Ebbene]],» disse Basil, «così.»  E d'un tratto balzò di un piede
+«[[motifs/well|Ebbene]],» disse Basil, «così.»  E d'un tratto balzò di un piede
 in aria, ricadendo con gli stivali fragorosi, e poi restò
 su una gamba sola.
 
@@ -13920,13 +13920,13 @@ Basil lasciò cadere il piede libero sul tappeto con uno schianto che li impietr
 tutti nelle loro fiacche pose.
 
 «Idioti!» esclamò.  «Avete guardato quell'uomo?  Avete osservato
-James Chadd andare tristemente avanti e indietro dalla sua squallida [[house|casa]]
+James Chadd andare tristemente avanti e indietro dalla sua squallida casa
 alla vostra miserabile biblioteca, con i suoi libri inutili e il suo maledetto
 ombrello, senza mai accorgervi che ha gli occhi di un fanatico?
 Non avete mai notato, ficcata quasi per caso dietro gli occhiali
 e sopra il suo vecchio colletto liso, la faccia di un uomo che avrebbe potuto
 bruciare eretici, o morire per la pietra filosofale?
-È tutta colpa mia, in un certo senso: sono stato io ad accendere la dinamite della sua mortale [[Faith|fede]].
+È tutta colpa mia, in un certo senso: sono stato io ad accendere la dinamite della sua mortale [[concepts/faith|fede]].
 Discussi con lui a proposito della sua famosa teoria sul linguaggio —
 la teoria secondo cui il linguaggio è completo in certi individui e
 viene appreso dagli altri semplicemente osservandoli.  Lo canzonai anche
@@ -13944,12 +13944,12 @@ Fermarlo adesso è una guerra infame contro una grande idea.
 
 Il signor Bingham tese la mano cordialmente.
 
-«Vi ringrazio, signor Grant,» disse.  «[[Hope|Spero]] di poter
+«Vi ringrazio, signor Grant,» disse.  «[[concepts/hope|Spero]] di poter
 rispondere della provenienza delle 800 sterline, e credo proprio che ci riuscirò.
 Venite nella mia carrozza?»
 
 «No, grazie mille, signor Bingham,» disse Grant di cuore.
-«Credo che andrò a fare due chiacchiere con il [[The Professor|professore]] nel [[Garden|giardino]].»
+«Credo che andrò a fare due chiacchiere con il professore nel [[motifs/garden|giardino]].»
 
 La conversazione tra Chadd e Grant pareva personale
 e amichevole.  Danzavano ancora quando me ne andai.
@@ -13964,9 +13964,9 @@ Chapter 6
 The Eccentric Seclusion of the Old Lady
 
 The conversation of Rupert Grant had two great elements
-of interest--first, the long fantasias of [[Detective|detective]] deduction
+of interest--first, the long fantasias of [[archetypes/detective|detective]] deduction
 in which he was engaged, and, second, his genuine romantic
-interest in the life of [[London]].  His brother Basil said of him:
+interest in the life of [[settings/london|London]].  His brother Basil said of him:
 "His reasoning is particularly cold and clear, and invariably leads
 him wrong.  But his poetry comes in abruptly and leads him right."
 Whether this was true of Rupert as a whole, or no, it was certainly
@@ -13974,16 +13974,16 @@ curiously supported by one story about him which I think worth telling.
 
 We were walking along a lonely terrace in Brompton together.
 The street was full of that bright blue twilight which comes
-about half past eight in [[Summer|summer]], and which seems for the moment
+about half past eight in [[motifs/summer|summer]], and which seems for the moment
 to be not so much a coming of darkness as the turning on of a new
 azure illuminator, as if the earth were lit suddenly by a sapphire sun.
 In the cool blue the lemon tint of the lamps had already begun
 to flame, and as Rupert and I passed them, Rupert talking excitedly,
 one after another the pale sparks sprang out of the dusk.
 Rupert was talking excitedly because he was trying to prove to me
-the nine hundred and ninety-ninth of his amateur [[Detective|detective]] theories.
-He would go about [[London]], with this mad [[logic]] in his brain,
-seeing a conspiracy in a cab accident, and a special [[Providence|providence]]
+the nine hundred and ninety-ninth of his amateur [[archetypes/detective|detective]] theories.
+He would go about [[settings/london|London]], with this mad logic in his brain,
+seeing a conspiracy in a cab accident, and a special [[concepts/providence|providence]]
 in a falling fusee.  His suspicions at the moment were fixed upon
 an unhappy milkman who walked in front of us.  So arresting were
 the incidents which afterwards overtook us that I am really afraid that I
@@ -14002,17 +14002,17 @@ slightly resented my derision.  He endeavoured to take a whiff of
 his cigar, with the placidity which he associated with his profession,
 but the cigar, I think, was nearly bitten through.
 
-"My dear fellow," he said acidly, "I'll bet you half a [[Crown|crown]]
+"My dear fellow," he said acidly, "I'll bet you half a [[motifs/crown|crown]]
 that wherever that milkman comes to a real stop I'll find
 out something curious."
 
 "My resources are equal to that risk," I said, laughing.  "Done."
 
-We walked on for about a quarter of an hour in [[Silence|silence]] in the trail
+We walked on for about a quarter of an hour in [[motifs/silence|silence]] in the trail
 of the mysterious milkman.  He walked quicker and quicker, and we
 had some ado to keep up with him; and every now and then he left
 a splash of milk, silver in the lamplight.  Suddenly, almost before
-we could note it, he disappeared down the area steps of a [[house]].
+we could note it, he disappeared down the area steps of a house.
 I believe Rupert really believed that the milkman was a fairy;
 for a second he seemed to accept him as having vanished.
 Then calling something to me which somehow took no hold on my mind,
@@ -14021,15 +14021,15 @@ into the area.
 
 I waited for at least five minutes, leaning against a lamp-post
 in the lonely street.  Then the milkman came swinging up the steps
-without his can and hurried off clattering down the [[Road|road]].
+without his can and hurried off clattering down the [[motifs/road|road]].
 Two or three minutes more elapsed, and then Rupert came bounding
 up also, his face pale but yet laughing; a not uncommon contradiction
 in him, denoting excitement.
 
 "My friend," he said, rubbing his hands, "so much for all
 your scepticism.  So much for your philistine ignorance
-of the possibilities of a romantic [[City|city]].  Two and sixpence,
-my boy, is the form in which your prosaic good [[Nature|nature]] will have
+of the possibilities of a romantic [[motifs/city|city]].  Two and sixpence,
+my boy, is the form in which your prosaic good [[concepts/nature|nature]] will have
 to express itself."
 
 "What?"  I said incredulously, "do you mean to say that you really
@@ -14038,12 +14038,12 @@ did find anything the matter with the poor milkman?"
 His face fell.
 
 "Oh, the milkman," he said, with a miserable affectation at having
-misunderstood me.  "No, I--I didn't exactly bring anything [[Home|home]]
+misunderstood me.  "No, I--I didn't exactly bring anything [[motifs/home|home]]
 to the milkman himself, I--"
 
 "What did the milkman say and do?"  I said, with inexorable sternness.
 
-"[[Well]], to tell the [[Truth|truth]]," said Rupert, shifting restlessly from one
+"[[motifs/well|Well]], to tell the [[concepts/truth|truth]]," said Rupert, shifting restlessly from one
 foot to another, "the milkman himself, as far as merely physical
 appearances went, just said, ‘Milk, Miss,' and handed in the can.
 That is not to say, of course, that he did not make some secret
@@ -14092,9 +14092,9 @@ Capitolo 6
 Il bizzarro isolamento della vecchia signora
 
 La conversazione di Rupert Grant aveva due grandi elementi
-d'interesse: primo, le lunghe fantasie di deduzione [[Detective|poliziesca]]
+d'interesse: primo, le lunghe fantasie di deduzione [[archetypes/detective|poliziesca]]
 in cui si lanciava, e, secondo, il suo genuino interesse romantico
-per la vita di [[London|Londra]].  Suo fratello Basil diceva di lui:
+per la vita di [[settings/london|Londra]].  Suo fratello Basil diceva di lui:
 "Il suo ragionamento è particolarmente freddo e limpido, e lo conduce
 immancabilmente in errore.  Ma la sua poesia irrompe di colpo e lo porta nel giusto."
 Se questo fosse vero di Rupert nel suo complesso, o no, era di certo
@@ -14102,16 +14102,16 @@ curiosamente confermato da una storia sul suo conto che ritengo valga la pena ra
 
 Camminavamo insieme lungo una solitaria terrazza a Brompton.
 La strada era colma di quel luminoso crepuscolo azzurro che scende
-verso le otto e mezza d'[[Summer|estate]], e che per un momento pare
+verso le otto e mezza d'[[motifs/summer|estate]], e che per un momento pare
 non tanto un sopraggiungere delle tenebre quanto l'accensione di un nuovo
 illuminatore d'azzurro, come se la terra fosse rischiarata d'improvviso da un sole di zaffiro.
 Nell'azzurro freddo la tinta di limone dei lampioni aveva già cominciato
 a fiammeggiare, e mentre Rupert e io li oltrepassavamo, Rupert parlando concitato,
 uno dopo l'altro i pallidi bagliori sprizzavano fuori dalla penombra.
 Rupert parlava concitato perché stava cercando di dimostrarmi
-la novecentonovantanovesima delle sue teorie [[Detective|poliziesche]] da dilettante.
-Se ne andava in giro per [[London|Londra]], con questa folle [[logic|logica]] in testa,
-scorgendo una cospirazione in un incidente di carrozza, e una speciale [[Providence|provvidenza]]
+la novecentonovantanovesima delle sue teorie [[archetypes/detective|poliziesche]] da dilettante.
+Se ne andava in giro per [[settings/london|Londra]], con questa folle logica in testa,
+scorgendo una cospirazione in un incidente di carrozza, e una speciale [[concepts/providence|provvidenza]]
 in un fiammifero che cade.  I suoi sospetti in quel momento erano puntati
 su un infelice lattaio che camminava davanti a noi.  Tanto avvincenti furono
 gli avvenimenti che di lì a poco ci travolsero, che ho davvero paura d'aver
@@ -14130,17 +14130,17 @@ si risentisse un poco della mia derisione.  Tentò di tirare una boccata dal
 suo sigaro, con la placidità che egli associava alla sua professione,
 ma il sigaro, credo, fu quasi morso da parte a parte.
 
-"Mio caro amico," disse acido, "scommetto mezza [[Crown|corona]]
+"Mio caro amico," disse acido, "scommetto mezza [[motifs/crown|corona]]
 che, ovunque quel lattaio si fermi davvero, scoprirò
 qualcosa di curioso."
 
 "Le mie risorse sono all'altezza di quel rischio," dissi, ridendo.  "Affare fatto."
 
-Proseguimmo per circa un quarto d'ora in [[Silence|silenzio]] sulle tracce
+Proseguimmo per circa un quarto d'ora in [[motifs/silence|silenzio]] sulle tracce
 del misterioso lattaio.  Camminava sempre più svelto, e faticavamo
 non poco a stargli dietro; e ogni tanto lasciava
 uno schizzo di latte, argenteo nella luce dei lampioni.  D'un tratto, quasi prima
-che potessimo accorgercene, sparì giù per i gradini del seminterrato di una [[house|casa]].
+che potessimo accorgercene, sparì giù per i gradini del seminterrato di una casa.
 Credo che Rupert davvero credesse che il lattaio fosse una fata;
 per un istante parve accettare che si fosse volatilizzato.
 Poi, gridandomi qualcosa che in qualche modo non fece presa sulla mia mente,
@@ -14149,15 +14149,15 @@ nel seminterrato.
 
 Attesi almeno cinque minuti, appoggiato a un lampione
 nella strada solitaria.  Poi il lattaio risalì dondolando i gradini
-senza il suo bidone e se ne andò in fretta sferragliando giù per la [[Road|strada]].
+senza il suo bidone e se ne andò in fretta sferragliando giù per la [[motifs/road|strada]].
 Trascorsero altri due o tre minuti, e poi anche Rupert venne su
 a grandi balzi, il viso pallido eppure ridente; una contraddizione
 non insolita in lui, che denotava eccitazione.
 
 "Amico mio," disse, fregandosi le mani, "ecco quanto vale tutto
 il tuo scetticismo.  Ecco quanto vale la tua ignoranza filistea
-delle possibilità di una romantica [[City|città]].  Due scellini e sei pence,
-ragazzo mio, è la forma in cui la tua prosaica [[Nature|buona natura]] dovrà
+delle possibilità di una romantica [[motifs/city|città]].  Due scellini e sei pence,
+ragazzo mio, è la forma in cui la tua prosaica [[concepts/nature|buona natura]] dovrà
 esprimersi."
 
 "Cosa?"  dissi incredulo, "vuoi dire davvero che hai
@@ -14166,12 +14166,12 @@ scoperto qualcosa che non andava nel povero lattaio?"
 Gli si allungò il viso.
 
 "Oh, il lattaio," disse, con una misera finzione d'avermi
-frainteso.  "No, io... non ho propriamente ricondotto nulla [[Home|a casa]]
+frainteso.  "No, io... non ho propriamente ricondotto nulla [[motifs/home|a casa]]
 del lattaio in persona, io..."
 
 "Che cosa disse e fece il lattaio?"  dissi, con inesorabile severità.
 
-"[[Well|Beh]], a dire la [[Truth|verità]]," disse Rupert, spostandosi irrequieto da un
+"[[motifs/well|Beh]], a dire la [[concepts/truth|verità]]," disse Rupert, spostandosi irrequieto da un
 piede all'altro, "il lattaio stesso, per quanto riguarda le mere apparenze
 fisiche, disse soltanto, ‘Latte, signorina,' e porse dentro il bidone.
 Il che non vuol dire, naturalmente, che non abbia fatto qualche segno
@@ -14862,7 +14862,7 @@ or the violin, can only be perfectly understood by specialists.
 Still, the rudiments may be of public use.  Greenwood here,"
 indicating the little man in the blazer, "doesn't know one note
 of music from another.  Still, he knows something.  He knows enough
-to take off his hat when they play ‘God save the [[King]]'.  He doesn't
+to take off his hat when they play ‘God save the [[archetypes/king|King]]'.  He doesn't
 take it off by mistake when they play ‘Oh, dem Golden Slippers'.
 Just in the same way science--"
 
@@ -14895,16 +14895,16 @@ Rupert and Basil were both particularly strong, but so was Mr Burrows;
 how strong, we knew a second afterwards.  His head was held back
 by Rupert's arm, but a convulsive heave went over his whole frame.
 An instant after his head plunged forward like a bull's,
-and Rupert Grant was slung head over heels, a catherine [[Wheel|wheel]] of legs,
+and Rupert Grant was slung head over heels, a catherine [[motifs/wheel|wheel]] of legs,
 on the floor in front of him.  Simultaneously the bull's head butted
 Basil in the chest, bringing him also to the ground with a crash,
-and the [[Monster|monster]], with a Berserker roar, leaped at me and knocked
+and the [[archetypes/monster|monster]], with a Berserker roar, leaped at me and knocked
 me into the corner of the room, smashing the waste-paper basket.
 The bewildered Greenwood sprang furiously to his feet.
 Basil did the same.  But they had the best of it now.
 
 Greenwood dashed to the bell and pulled it violently, sending peals
-through the [[Great House|great house]].  Before I could get panting to my feet,
+through the [[motifs/great-house|great house]].  Before I could get panting to my feet,
 and before Rupert, who had been literally stunned for a few moments,
 could even lift his head from the floor, two footmen were in the room.
 Defeated even when we were in a majority, we were now outnumbered.
@@ -14992,7 +14992,7 @@ o il violino, può essere perfettamente compresa soltanto dagli specialisti.
 Eppure i rudimenti possono essere di pubblica utilità. Greenwood, qui,»
 indicando l'ometto in blazer, «non distingue una nota
 di musica dall'altra. Eppure sa qualcosa. Sa abbastanza
-da togliersi il cappello quando suonano ‘God save the [[King|re]]'. Non
+da togliersi il cappello quando suonano ‘God save the [[archetypes/king|re]]'. Non
 se lo toglie per errore quando suonano ‘Oh, dem Golden Slippers'.
 Proprio allo stesso modo la scienza...»
 
@@ -15025,16 +15025,16 @@ Rupert e Basil erano entrambi particolarmente forti, ma lo era anche il signor B
 quanto forte, lo sapemmo un secondo dopo. La sua testa era tenuta indietro
 dal braccio di Rupert, ma un sussulto convulso corse per tutto il suo corpo.
 Un istante dopo la sua testa si gettò in avanti come quella di un toro,
-e Rupert Grant fu scagliato a gambe all'aria, una girandola di gambe come [[Wheel|ruota]] di Caterina,
+e Rupert Grant fu scagliato a gambe all'aria, una girandola di gambe come [[motifs/wheel|ruota]] di Caterina,
 sul pavimento davanti a lui. Simultaneamente la testa taurina cozzò contro
 il petto di Basil, atterrando anche lui con fracasso,
-e il [[Monster|mostro]], con un ruggito da Berserker, mi balzò addosso e mi scaraventò
+e il [[archetypes/monster|mostro]], con un ruggito da Berserker, mi balzò addosso e mi scaraventò
 nell'angolo della stanza, sfasciando il cestino della carta straccia.
 Il frastornato Greenwood scattò furiosamente in piedi.
 Basil fece altrettanto. Ma ora erano loro ad avere la meglio.
 
 Greenwood si precipitò al campanello e lo tirò con violenza, mandando scampanellii
-per tutta la [[Great House|grande casa]]. Prima che potessi rimettermi ansimante in piedi,
+per tutta la [[motifs/great-house|grande casa]]. Prima che potessi rimettermi ansimante in piedi,
 e prima che Rupert, che era rimasto letteralmente tramortito per qualche istante,
 riuscisse anche solo a sollevare la testa dal pavimento, due valletti erano nella stanza.
 Sconfitti persino quando eravamo in maggioranza, adesso eravamo in inferiorità numerica.
@@ -15048,7 +15048,7 @@ Rupert si sollevò su un gomito, ma era ancora stordito.
 <span class="atom-split" data-atom="story_06_chapter_6--part_05" data-title="The Club of Queer Trades — Chapter 6 (part 5)" data-chapter="Chapter 6" data-kind="excerpt" data-tags="archetype/child,motif/leaves,motif/moon,motif/pain,motif/prison,motif/ship,motif/silence,motif/spring,concept/body,concept/survival,form/sketch,setting/ship"></span>
 
 
-In the strained [[Silence|silence]] of our helplessness I heard the voice
+In the strained [[motifs/silence|silence]] of our helplessness I heard the voice
 of Basil come with a loud incongruous cheerfulness.
 
 "Now this," he said, "is what I call enjoying oneself."
@@ -15056,34 +15056,34 @@ of Basil come with a loud incongruous cheerfulness.
 I caught a glimpse of his face, flushed and forced against
 the bookcase, from between the swaying limbs of my captors and his.
 To my astonishment his eyes were really brilliant with pleasure,
-like those of a [[Child|child]] heated by a favourite game.
+like those of a [[archetypes/child|child]] heated by a favourite game.
 
 I made several apoplectic efforts to rise, but the servant was on top
 of me so heavily that Greenwood could afford to leave me to him.
 He turned quickly to come to reinforce the two who were mastering Basil.
 The latter's head was already sinking lower and lower, like a
-leaking [[Ship|ship]], as his enemies pressed him down.  He flung up one hand
+leaking [[motifs/ship|ship]], as his enemies pressed him down.  He flung up one hand
 just as I thought him falling and hung on to a huge tome in the bookcase,
 a volume, I afterwards discovered, of St Chrysostom's theology.
 Just as Greenwood bounded across the room towards the group,
 Basil plucked the ponderous tome bodily out of the shelf, swung it,
 and sent it spinning through the air, so that it struck Greenwood
-flat in the face and knocked him over like a [[rolling]] ninepin.
+flat in the face and knocked him over like a rolling ninepin.
 At the same instant Basil's stiffness broke, and he sank, his enemies
 closing over him.
 
-Rupert's head was clear, but his [[Body|body]] shaken; he was hanging
+Rupert's head was clear, but his [[concepts/body|body]] shaken; he was hanging
 as best he could on to the half-prostrate Greenwood.
-They were [[rolling]] over each other on the floor, both somewhat
+They were rolling over each other on the floor, both somewhat
 enfeebled by their falls, but Rupert certainly the more so.
 I was still successfully held down.  The floor was a sea of torn
 and trampled papers and magazines, like an immense waste-paper basket.
 Burrows and his companion were almost up to the knees in them,
-as in a drift of dead [[Leaves|leaves]].  And Greenwood had his leg stuck right
+as in a drift of dead [[motifs/leaves|leaves]].  And Greenwood had his leg stuck right
 through a sheet of the Pall Mall Gazette, which clung to it ludicrously,
 like some fantastic trouser frill.
 
-Basil, shut from me in a human [[Prison|prison]], a [[Prison|prison]] of powerful bodies,
+Basil, shut from me in a human [[motifs/prison|prison]], a [[motifs/prison|prison]] of powerful bodies,
 might be dead for all I knew.  I fancied, however, that the broad
 back of Mr Burrows, which was turned towards me, had a certain bend
 of effort in it as if my friend still needed some holding down.
@@ -15092,7 +15092,7 @@ It was swaying on one leg; Basil, somehow, had hold of the other.
 Burrows' huge fists and those of the footman were battering Basil's
 sunken head like an anvil, but nothing could get the giant's ankle out
 of his sudden and savage grip.  While his own head was forced slowly
-down in darkness and great [[Pain|pain]], the right leg of his captor was being
+down in darkness and great [[motifs/pain|pain]], the right leg of his captor was being
 forced in the air.  Burrows swung to and fro with a purple face.
 Then suddenly the floor and the walls and the ceiling shook together,
 as the colossus fell, all his length seeming to fill the floor.
@@ -15104,7 +15104,7 @@ before he knew clearly that his head had struck the floor.
 Then Basil sprang at Greenwood, whom Rupert was struggling
 to hold down, and between them they secured him easily.
 The man who had hold of me let go and turned to his rescue, but I
-leaped up like a [[spring]] released, and, to my infinite satisfaction,
+leaped up like a [[motifs/spring|spring]] released, and, to my infinite satisfaction,
 knocked the fellow down.  The other footman, bleeding at the mouth
 and quite demoralized, was stumbling out of the room.  My late captor,
 without a word, slunk after him, seeing that the battle was won.
@@ -15118,7 +15118,7 @@ spoke in a perfectly calm voice to the man who sat on top of him.
 perhaps you wouldn't mind telling us what the deuce all this is?"
 
 "This," said Basil, with a radiant face, looking down at his captive,
-"this is what we call the [[Survival|survival]] of the fittest."
+"this is what we call the [[concepts/survival|survival]] of the fittest."
 
 Rupert, who had been steadily collecting himself throughout the latter
 phases of the fight, was intellectually altogether himself again
@@ -15127,7 +15127,7 @@ and knotting a handkerchief round his left hand, which was bleeding
 from a blow, he sang out quite coolly:
 
 "Basil, will you mount guard over the captive of your bow and spear
-and antimacassar?  Swinburne and I will clear out the [[Prison|prison]] downstairs."
+and antimacassar?  Swinburne and I will clear out the [[motifs/prison|prison]] downstairs."
 
 "All right," said Basil, rising also and seating himself in a leisured
 way in an armchair.  "Don't hurry for us," he said, glancing round
@@ -15142,22 +15142,22 @@ Basil's voice continuing conversationally:
 "there's no reason why we shouldn't go on with that amusing argument.
 I'm sorry that you have to express yourself lying on your back on
 the floor, and, as I told you before, I've no more notion why you are
-there than the man in the [[Moon|moon]].  A conversationalist like yourself,
+there than the man in the [[motifs/moon|moon]].  A conversationalist like yourself,
 however, can scarcely be seriously handicapped by any bodily posture.
 You were saying, if I remember right, when this incidental
 fracas occurred, that the rudiments of science might with advantage
 be made public."
 
 "Precisely," said the large man on the floor in an easy tone.
-"I hold that nothing more than a rough [[Sketch|sketch]] of the universe
+"I hold that nothing more than a rough [[forms/sketch|sketch]] of the universe
 as seen by science can be..."
 
 And here the voices died away as we descended into the basement.
 I noticed that Mr Greenwood did not join in the amicable controversy.
 Strange as it may appear, I think he looked back upon our proceedings
 with a slight degree of resentment.  Mr Burrows, however, was all
-[[philosophy]] and chattiness.  We left them, as I say, together, and sank
-deeper and deeper into the under-world of that mysterious [[house]],
+philosophy and chattiness.  We left them, as I say, together, and sank
+deeper and deeper into the under-world of that mysterious house,
 which, perhaps, appeared to us somewhat more Tartarean than it
 really was, owing to our knowledge of its semi-criminal mystery
 and of the human secret locked below.
@@ -15165,7 +15165,7 @@ and of the human secret locked below.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Nel [[Silence|silenzio]] teso della nostra impotenza udii la voce
+Nel [[motifs/silence|silenzio]] teso della nostra impotenza udii la voce
 di Basil giungere con una rumorosa e incongrua allegria.
 
 «Ecco, questo,» disse, «è ciò che io chiamo divertirsi.»
@@ -15173,34 +15173,34 @@ di Basil giungere con una rumorosa e incongrua allegria.
 Colsi una fugace visione del suo volto, arrossato e schiacciato contro
 la libreria, tra le membra dondolanti dei miei aguzzini e dei suoi.
 Con mio stupore, i suoi occhi erano davvero luminosi di piacere,
-come quelli di un [[Child|bambino]] acceso da un gioco prediletto.
+come quelli di un [[archetypes/child|bambino]] acceso da un gioco prediletto.
 
 Feci parecchi sforzi apoplettici per rialzarmi, ma il domestico mi stava
 sopra così pesantemente che Greenwood poté permettersi di lasciarmi a lui.
 Si voltò svelto per andare a rinforzare i due che stavano sopraffacendo Basil.
 La testa di quest'ultimo affondava già sempre più in basso, come una
-[[Ship|nave]] che imbarca acqua, mentre i suoi nemici lo premevano giù. Levò una mano
+[[motifs/ship|nave]] che imbarca acqua, mentre i suoi nemici lo premevano giù. Levò una mano
 proprio quando lo credetti caduto e si aggrappò a un enorme tomo nella libreria,
 un volume, come scoprii in seguito, della teologia di san Crisostomo.
 Proprio mentre Greenwood balzava attraverso la stanza verso il gruppo,
 Basil estrasse di peso quel tomo ponderoso dallo scaffale, lo fece roteare,
 e lo scagliò turbinante per l'aria, così che colpì Greenwood
-in pieno viso e lo rovesciò come un birillo che [[rolling]] rotola.
+in pieno viso e lo rovesciò come un birillo che rolling rotola.
 Nello stesso istante la rigidità di Basil si spezzò, ed egli affondò, mentre i suoi nemici
 si serravano sopra di lui.
 
-La testa di Rupert era lucida, ma il suo [[Body|corpo]] scosso; si teneva
+La testa di Rupert era lucida, ma il suo [[concepts/body|corpo]] scosso; si teneva
 come meglio poteva al semiprostrato Greenwood.
 Rotolavano l'uno sull'altro sul pavimento, entrambi alquanto
 indeboliti dalle loro cadute, ma Rupert di certo più dell'altro.
 Io ero ancora tenuto giù con successo. Il pavimento era un mare di carte
 e riviste strappate e calpestate, come un immenso cestino della cartastraccia.
 Burrows e il suo compagno vi affondavano quasi fino alle ginocchia,
-come in un cumulo di [[Leaves|foglie]] morte. E Greenwood aveva una gamba infilata
+come in un cumulo di [[motifs/leaves|foglie]] morte. E Greenwood aveva una gamba infilata
 attraverso un foglio della Pall Mall Gazette, che vi si aggrappava in modo ridicolo,
 come una fantastica balza da pantalone.
 
-Basil, sottratto alla mia vista in una [[Prison|prigione]] umana, una [[Prison|prigione]] di corpi possenti,
+Basil, sottratto alla mia vista in una [[motifs/prison|prigione]] umana, una [[motifs/prison|prigione]] di corpi possenti,
 per quel che ne sapevo poteva essere morto. Immaginai, tuttavia, che la larga
 schiena del signor Burrows, che era rivolta verso di me, avesse una certa curva
 di sforzo, come se il mio amico avesse ancora bisogno di essere tenuto giù.
@@ -15209,7 +15209,7 @@ Ondeggiava su una gamba sola; Basil, in qualche modo, aveva afferrato l'altra.
 Gli enormi pugni di Burrows e quelli del valletto martellavano la testa
 affondata di Basil come un'incudine, ma niente riusciva a strappare la caviglia del gigante
 alla sua stretta improvvisa e feroce. Mentre la sua stessa testa veniva forzata lentamente
-in basso, nel buio e in un gran [[Pain|dolore]], la gamba destra del suo aguzzino veniva
+in basso, nel buio e in un gran [[motifs/pain|dolore]], la gamba destra del suo aguzzino veniva
 forzata per aria. Burrows dondolava avanti e indietro col volto paonazzo.
 Poi d'improvviso il pavimento e le pareti e il soffitto tremarono insieme,
 mentre il colosso cadeva, e tutta la sua lunghezza pareva riempire il pavimento.
@@ -15221,7 +15221,7 @@ prima ch'egli comprendesse chiaramente che la sua testa aveva urtato il paviment
 Poi Basil balzò su Greenwood, che Rupert si affannava
 a tenere giù, e fra loro due lo assicurarono con facilità.
 L'uomo che teneva me mollò la presa e si voltò per soccorrerlo, ma io
-scattai in piedi come una [[spring]] molla liberata, e, con mia infinita soddisfazione,
+scattai in piedi come una [[motifs/spring|spring]] molla liberata, e, con mia infinita soddisfazione,
 atterrai il tipo. L'altro valletto, sanguinante dalla bocca
 e del tutto demoralizzato, usciva barcollando dalla stanza. Il mio recente aguzzino,
 senza una parola, sgusciò via dietro di lui, vedendo che la battaglia era vinta.
@@ -15235,7 +15235,7 @@ parlò con voce perfettamente calma all'uomo che gli sedeva sopra.
 forse non vi dispiacerebbe dirci che diamine è tutto questo?»
 
 «Questo,» disse Basil, con volto raggiante, guardando dall'alto il suo prigioniero,
-«questo è ciò che noi chiamiamo la [[Survival|sopravvivenza]] del più adatto.»
+«questo è ciò che noi chiamiamo la [[concepts/survival|sopravvivenza]] del più adatto.»
 
 Rupert, che si era andato via via ricomponendo per tutte le ultime
 fasi della zuffa, era intellettualmente tornato del tutto sé stesso
@@ -15244,7 +15244,7 @@ e annodandosi un fazzoletto attorno alla mano sinistra, che sanguinava
 per un colpo, gridò con tono assai freddo:
 
 «Basil, vuoi montare la guardia sul prigioniero del tuo arco e della tua lancia
-e del tuo copripoltrona? Swinburne e io sgombreremo la [[Prison|prigione]] al piano di sotto.»
+e del tuo copripoltrona? Swinburne e io sgombreremo la [[motifs/prison|prigione]] al piano di sotto.»
 
 «Va bene,» disse Basil, alzandosi anche lui e sistemandosi con agio
 in una poltrona. «Non affrettatevi per noi,» disse, girando lo sguardo
@@ -15259,22 +15259,22 @@ la voce di Basil che proseguiva in tono discorsivo:
 «non c'è ragione perché non si prosegua quel divertente ragionamento.
 Mi dispiace che dobbiate esprimervi disteso supino sul
 pavimento, e, come vi ho già detto, non ho più idea del perché voi siate
-lì di quanta ne abbia l'uomo della [[Moon|luna]]. Un conversatore come voi,
+lì di quanta ne abbia l'uomo della [[motifs/moon|luna]]. Un conversatore come voi,
 tuttavia, non può certo essere seriamente ostacolato da una qualsiasi postura corporea.
 Stavate dicendo, se ben ricordo, quando è sopravvenuta questa
 zuffa incidentale, che i rudimenti della scienza potrebbero con vantaggio
 essere resi pubblici.»
 
 «Esattamente,» disse l'uomo corpulento sul pavimento con tono disinvolto.
-«Sostengo che nulla più di un rozzo [[Sketch|abbozzo]] dell'universo
+«Sostengo che nulla più di un rozzo [[forms/sketch|abbozzo]] dell'universo
 quale è visto dalla scienza possa...»
 
 E qui le voci si spensero mentre scendevamo nel seminterrato.
 Notai che il signor Greenwood non prese parte all'amichevole disputa.
 Per strano che possa sembrare, credo che egli guardasse ai nostri procedimenti
 con un lieve grado di risentimento. Il signor Burrows, invece, era tutto
-[[philosophy]] filosofia e loquacità. Li lasciammo, come dico, insieme, e sprofondammo
-sempre più giù nel sottosuolo di quella misteriosa [[house]] casa,
+philosophy filosofia e loquacità. Li lasciammo, come dico, insieme, e sprofondammo
+sempre più giù nel sottosuolo di quella misteriosa house casa,
 la quale, forse, ci appariva un po' più tartarea di quanto
 realmente fosse, per via della nostra conoscenza del suo mistero
 semicriminale e del segreto umano rinchiuso là sotto.
@@ -15285,7 +15285,7 @@ semicriminale e del segreto umano rinchiuso là sotto.
 
 
 The basement floor had several doors, as is usual in such
-a [[house]]; doors that would naturally lead to the kitchen,
+a house; doors that would naturally lead to the kitchen,
 the scullery, the pantry, the servants' hall, and so on.
 Rupert flung open all the doors with indescribable rapidity.
 Four out of the five opened on entirely empty apartments.
@@ -15301,8 +15301,8 @@ to deliver you.  We have bound your enemies upstairs hand and foot.
 You are free."
 
 For some seconds after he had spoken into the darkness there was a dead
-[[Silence|silence]] in it.  Then there came a kind of muttering and moaning.
-We might easily have taken it for the [[Wind|wind]] or rats if we had not
+[[motifs/silence|silence]] in it.  Then there came a kind of muttering and moaning.
+We might easily have taken it for the [[motifs/wind|wind]] or rats if we had not
 happened to have heard it before.  It was unmistakably the voice
 of the imprisoned woman, drearily demanding liberty, just as we
 had heard her demand it.
@@ -15312,13 +15312,13 @@ come pretty near the end of this business."
 
 I struck a match and held it up.  It revealed a large, bare,
 yellow-papered apartment with a dark-clad figure at the other end
-of it near the [[Window|window]].  An instant after it burned my fingers
+of it near the [[motifs/window|window]].  An instant after it burned my fingers
 and dropped, leaving darkness.  It had, however, revealed something
 more practical--an iron gas bracket just above my head.
 I struck another match and lit the gas.  And we found ourselves
 suddenly and seriously in the presence of the captive.
 
-At a sort of workbox in the [[Window|window]] of this subterranean breakfast-room
+At a sort of workbox in the [[motifs/window|window]] of this subterranean breakfast-room
 sat an elderly lady with a singularly high colour and almost startling
 silver hair.  She had, as if designedly to relieve these effects,
 a pair of Mephistophelian black eyebrows and a very neat black dress.
@@ -15343,7 +15343,7 @@ you had rescued me?"
 "We have very satisfactorily dealt with Mr Greenwood and Mr Burrows.
 We have settled affairs with them very satisfactorily."
 
-The old lady [[Rose|rose]] from her chair and came very quickly towards us.
+The old lady [[motifs/rose|rose]] from her chair and came very quickly towards us.
 
 "What did you say to them?  How did you persuade them?" she cried.
 
@@ -15351,7 +15351,7 @@ The old lady [[Rose|rose]] from her chair and came very quickly towards us.
 them down and tying them up.  But what is the matter?"
 
 To the surprise of every one the old lady walked slowly back to her
-seat by the [[Window|window]].
+seat by the [[motifs/window|window]].
 
 "Do I understand," she said, with the air of a person about
 to begin knitting, "that you have knocked down Mr Burrows and
@@ -15360,13 +15360,13 @@ tied him up?"
 "We have," said Rupert proudly; "we have resisted their oppression
 and conquered it."
 
-"Oh, thanks," answered the old lady, and sat down by the [[Window|window]].
+"Oh, thanks," answered the old lady, and sat down by the [[motifs/window|window]].
 
 A considerable pause followed.
 
-"The [[Road|road]] is quite clear for you, madam," said Rupert pleasantly.
+"The [[motifs/road|road]] is quite clear for you, madam," said Rupert pleasantly.
 
-The old lady [[Rose|rose]], cocking her black eyebrows and her silver crest
+The old lady [[motifs/rose|rose]], cocking her black eyebrows and her silver crest
 at us for an instant.
 
 "But what about Greenwood and Burrows?" she said.  "What did I
@@ -15375,7 +15375,7 @@ understand you to say had become of them?"
 "They are lying on the floor upstairs," said Rupert, chuckling.
 "Tied hand and foot."
 
-"[[Well]], that settles it," said the old lady, coming with a kind
+"[[motifs/well|Well]], that settles it," said the old lady, coming with a kind
 of bang into her seat again, "I must stop where I am."
 
 Rupert looked bewildered.
@@ -15399,14 +15399,14 @@ I certainly shall not go otherwise."
 
 "Eavesdroppers often hear rather misleading things," replied the
 captive grimly.  "I suppose I did break down a bit and lose my temper
-and talk to myself.  But I have some sense of [[Honour|honour]] for all that."
+and talk to myself.  But I have some sense of [[concepts/honour|honour]] for all that."
 
-"Some sense of [[Honour|honour]]?" repeated Rupert, and the last light of
+"Some sense of [[concepts/honour|honour]]?" repeated Rupert, and the last light of
 intelligence died out of his face, leaving it the face of an idiot
-with [[rolling]] eyes.
+with rolling eyes.
 
 He moved vaguely towards the door and I followed.  But I turned
-yet once more in the toils of my [[Conscience|conscience]] and curiosity.
+yet once more in the toils of my [[concepts/conscience|conscience]] and curiosity.
 "Can we do nothing for you, madam?"  I said forlornly.
 
 "Why," said the lady, "if you are particularly anxious to do me
@@ -15416,21 +15416,21 @@ Rupert plunged heavily up the kitchen staircase, shaking it with his
 vague violence.  With mouth open to speak he stumbled to the door
 of the sitting-room and scene of battle.
 
-"Theoretically speaking, that is no [[Doubt|doubt]] true," Mr Burrows
+"Theoretically speaking, that is no [[concepts/doubt|doubt]] true," Mr Burrows
 was saying, lying on his back and arguing easily with Basil;
 "but we must consider the matter as it appears to our sense.
-The origin of [[morality]]..."
+The origin of morality..."
 
 "Basil," cried Rupert, gasping, "she won't come out."
 
-"Who won't come out?" asked Basil, a little [[Cross|cross]] at being interrupted
+"Who won't come out?" asked Basil, a little [[motifs/cross|cross]] at being interrupted
 in an argument.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Il pianterreno del seminterrato aveva parecchie porte, come è consueto in una simile
-[[house]] casa; porte che naturalmente conducevano alla cucina,
+house casa; porte che naturalmente conducevano alla cucina,
 al retrocucina, alla dispensa, alla sala della servitù, e così via.
 Rupert spalancò tutte le porte con indescrivibile rapidità.
 Quattro delle cinque davano su appartamenti del tutto vuoti.
@@ -15445,9 +15445,9 @@ prigioniera sono essi stessi prigionieri. Ti abbiamo udita piangere e siamo venu
 a liberarti. Abbiamo legato mani e piedi i tuoi nemici, di sopra.
 Sei libera.»
 
-Per alcuni secondi dopo che egli ebbe parlato nel buio vi fu un [[Silence|silenzio]]
+Per alcuni secondi dopo che egli ebbe parlato nel buio vi fu un [[motifs/silence|silenzio]]
 mortale. Poi giunse una specie di bofonchiare e gemere.
-Avremmo potuto facilmente scambiarlo per il [[Wind|vento]] o per topi, se non
+Avremmo potuto facilmente scambiarlo per il [[motifs/wind|vento]] o per topi, se non
 ci fosse capitato di udirlo già prima. Era inconfondibilmente la voce
 della donna imprigionata, che tetramente reclamava la libertà, proprio come
 l'avevamo udita reclamarla.
@@ -15457,13 +15457,13 @@ giunti assai vicini alla fine di questa faccenda.»
 
 Accesi un fiammifero e lo levai in alto. Rivelò un appartamento ampio, spoglio,
 tappezzato di giallo, con una figura vestita di scuro all'altra estremità
-di esso, presso la [[Window|finestra]]. Un istante dopo mi bruciò le dita
+di esso, presso la [[motifs/window|finestra]]. Un istante dopo mi bruciò le dita
 e cadde, lasciando il buio. Aveva, tuttavia, rivelato qualcosa
 di più pratico: un braccio del gas in ferro proprio sopra la mia testa.
 Accesi un altro fiammifero e accesi il gas. E ci trovammo
 d'un tratto e sul serio al cospetto della prigioniera.
 
-Presso una specie di cestino da lavoro, alla [[Window|finestra]] di questa sala da colazione
+Presso una specie di cestino da lavoro, alla [[motifs/window|finestra]] di questa sala da colazione
 sotterranea, sedeva un'anziana signora dalla carnagione singolarmente accesa e dai capelli argentei
 quasi impressionanti. Ella aveva, come apposta per attenuare questi effetti,
 un paio di sopracciglia nere mefistofeliche e un abito nero assai lindo.
@@ -15488,7 +15488,7 @@ di avermi salvata?»
 «Ci siamo occupati assai soddisfacentemente del signor Greenwood e del signor Burrows.
 Abbiamo sistemato le faccende con loro assai soddisfacentemente.»
 
-L'anziana signora si [[Rose|alzò]] dalla sedia e venne assai svelta verso di noi.
+L'anziana signora si [[motifs/rose|alzò]] dalla sedia e venne assai svelta verso di noi.
 
 «Che cosa avete detto loro? Come li avete persuasi?» gridò.
 
@@ -15496,7 +15496,7 @@ L'anziana signora si [[Rose|alzò]] dalla sedia e venne assai svelta verso di no
 e legandoli. Ma che cosa c'è che non va?»
 
 Con sorpresa di tutti l'anziana signora tornò lentamente al suo
-posto presso la [[Window|finestra]].
+posto presso la [[motifs/window|finestra]].
 
 «Devo capire,» disse, con l'aria di una persona sul punto
 di mettersi a lavorare a maglia, «che avete atterrato il signor Burrows e
@@ -15505,13 +15505,13 @@ lo avete legato?»
 «L'abbiamo fatto,» disse Rupert con orgoglio; «abbiamo resistito alla loro oppressione
 e l'abbiamo vinta.»
 
-«Oh, grazie,» rispose l'anziana signora, e si sedette presso la [[Window|finestra]].
+«Oh, grazie,» rispose l'anziana signora, e si sedette presso la [[motifs/window|finestra]].
 
 Seguì una pausa considerevole.
 
-«La [[Road|strada]] è del tutto sgombra per voi, signora,» disse Rupert cortesemente.
+«La [[motifs/road|strada]] è del tutto sgombra per voi, signora,» disse Rupert cortesemente.
 
-L'anziana signora si [[Rose|alzò]], drizzando le sopracciglia nere e la sua cresta argentea
+L'anziana signora si [[motifs/rose|alzò]], drizzando le sopracciglia nere e la sua cresta argentea
 verso di noi per un istante.
 
 «Ma che ne è di Greenwood e Burrows?» disse. «Che cosa ho inteso
@@ -15520,7 +15520,7 @@ dire che ne è stato di loro?»
 «Giacciono sul pavimento di sopra,» disse Rupert, ridacchiando.
 «Legati mani e piedi.»
 
-«[[Well]] Bene, allora la cosa è decisa,» disse l'anziana signora, tornando con una specie
+«[[motifs/well|Well]] Bene, allora la cosa è decisa,» disse l'anziana signora, tornando con una specie
 di tonfo a sedersi di nuovo, «devo restare dove sono.»
 
 Rupert parve sconcertato.
@@ -15544,14 +15544,14 @@ Di certo altrimenti non me ne andrò.»
 
 «Chi origlia spesso ode cose piuttosto fuorvianti,» replicò la
 prigioniera cupamente. «Suppongo di aver ceduto un poco e perso le staffe
-e di aver parlato tra me e me. Ma nonostante tutto ho un certo senso dell'[[Honour|onore]].»
+e di aver parlato tra me e me. Ma nonostante tutto ho un certo senso dell'[[concepts/honour|onore]].»
 
-«Un certo senso dell'[[Honour|onore]]?» ripeté Rupert, e l'ultima luce
+«Un certo senso dell'[[concepts/honour|onore]]?» ripeté Rupert, e l'ultima luce
 dell'intelligenza si spense dal suo volto, lasciandolo il volto di un idiota
-dagli occhi [[rolling]] roteanti.
+dagli occhi rolling roteanti.
 
 Si mosse vagamente verso la porta e io lo seguii. Ma mi voltai
-ancora una volta nei lacci della mia [[Conscience|coscienza]] e della mia curiosità.
+ancora una volta nei lacci della mia [[concepts/conscience|coscienza]] e della mia curiosità.
 «Non possiamo far nulla per voi, signora?» dissi sconsolato.
 
 «Ebbene,» disse la signora, «se siete particolarmente ansiosi di farmi
@@ -15561,14 +15561,14 @@ Rupert si lanciò pesantemente su per la scala della cucina, scuotendola con la 
 vaga violenza. Con la bocca aperta per parlare inciampò fino alla porta
 del salotto e teatro della battaglia.
 
-«In teoria, questo è senza [[Doubt|dubbio]] vero,» stava dicendo il signor Burrows,
+«In teoria, questo è senza [[concepts/doubt|dubbio]] vero,» stava dicendo il signor Burrows,
 disteso supino e discutendo con disinvoltura con Basil;
 «ma dobbiamo considerare la faccenda come essa appare al nostro senso.
-L'origine della [[morality]] moralità...»
+L'origine della morality moralità...»
 
 «Basil,» gridò Rupert, ansimando, «non vuole venir fuori.»
 
-«Chi non vuole venir fuori?» chiese Basil, un po' [[Cross|contrariato]] d'essere interrotto
+«Chi non vuole venir fuori?» chiese Basil, un po' [[motifs/cross|contrariato]] d'essere interrotto
 in un ragionamento.
 
 
@@ -15591,10 +15591,10 @@ the purple jacket, who did not seem to regard any of the proceedings
 as particularly sensible or brilliant.  The gigantic Burrows,
 on the other hand, was heaving with herculean laughter.
 
-"[[Well]]," said Basil, in his cheeriest way, "I think we must be
+"[[motifs/well|Well]]," said Basil, in his cheeriest way, "I think we must be
 getting away.  We've so much enjoyed our evening.  Far too much
 regard for you to stand on ceremony.  If I may so express myself,
-we've made ourselves at [[Home|home]].  Good [[Night|night]].  Thanks so much.
+we've made ourselves at [[motifs/home|home]].  Good [[motifs/night|night]].  Thanks so much.
 Come along, Rupert."
 
 "Basil," said Rupert desperately, "for God's sake come and see what you
@@ -15604,30 +15604,30 @@ But these gentlemen won't mind perhaps..."
 
 "No, no," cried Burrows, with a sort of Rabelaisian uproariousness.
 "No, no, look in the pantry, gentlemen.  Examine the coal-hole.
-Make a tour of the chimneys.  There are corpses all over the [[house]],
+Make a tour of the chimneys.  There are corpses all over the house,
 I assure you."
 
 This adventure of ours was destined to differ in one respect
 from others which I have narrated.  I had been through many wild
 days with Basil Grant, days for the first half of which the sun
-and the [[Moon|moon]] seemed to have gone mad.  But it had almost
+and the [[motifs/moon|moon]] seemed to have gone mad.  But it had almost
 invariably happened that towards the end of the day and its
 adventure things had cleared themselves like the sky after rain,
 and a luminous and quiet meaning had gradually dawned upon me.
 But this day's work was destined to end in confusion worse confounded.
-Before we left that [[house]], ten minutes afterwards, one half-witted
+Before we left that house, ten minutes afterwards, one half-witted
 touch was added which rolled all our minds in cloud.  If Rupert's
 head had suddenly fallen off on the floor, if wings had begun
 to sprout out of Greenwood's shoulders, we could scarcely have been
 more suddenly stricken.  And yet of this we had no explanation.
-We had to go to bed that [[Night|night]] with the prodigy and get up next morning
+We had to go to bed that [[motifs/night|night]] with the prodigy and get up next morning
 with it and let it stand in our memories for weeks and months.
 As will be seen, it was not until months afterwards that by another
 accident and in another way it was explained.  For the present I
 only state what happened.
 
 When all five of us went down the kitchen stairs again, Rupert leading,
-the two hosts bringing up the rear, we found the door of the [[Prison|prison]]
+the two hosts bringing up the rear, we found the door of the [[motifs/prison|prison]]
 again closed.  Throwing it open we found the place again as black
 as pitch.  The old lady, if she was still there, had turned out the gas:
 she seemed to have a weird preference for sitting in the dark.
@@ -15646,14 +15646,14 @@ at the back of the group and had hardly entered the room.
 And then an amazing fact became apparent.  It was Basil Grant
 who stood foremost of the group, the golden gaslight lighting
 up his strong face and figure.  His face wore an expression
-indescribably conscious, with the suspicion of a very [[Grave|grave]] smile.
+indescribably conscious, with the suspicion of a very [[motifs/grave|grave]] smile.
 His head was slightly bent with a restrained bow.  It was he who had
-acknowledged the lady's obeisance.  And it was he, beyond any [[Shadow|shadow]]
-of reasonable [[Doubt|doubt]], to whom it had really been directed.
+acknowledged the lady's obeisance.  And it was he, beyond any [[archetypes/shadow|shadow]]
+of reasonable [[concepts/doubt|doubt]], to whom it had really been directed.
 
 "So I hear," he said, in a kindly yet somehow formal voice,
 "I hear, madam, that my friends have been trying to rescue you.
-But without [[success]]."
+But without success."
 
 "No one, naturally, knows my faults better than you," answered the lady
 with a high colour.  "But you have not found me guilty of treachery."
@@ -15678,7 +15678,7 @@ He turned to Greenwood with a relapse into joviality.
 "Yes, it will," replied that immovable young gentleman with a face
 like a sphinx.
 
-We found ourselves outside in the dark blue [[Night|night]], shaken and dazed
+We found ourselves outside in the dark blue [[motifs/night|night]], shaken and dazed
 as if we had fallen into it from some high tower.
 
 "Basil," said Rupert at last, in a weak voice, "I always thought you
@@ -15694,14 +15694,14 @@ we could speak.
 
 As I said, it was months after that Rupert Grant suddenly entered
 my room, swinging a satchel in his hand and with a general air
-of having jumped over the [[Garden|garden]] wall, and implored me to go with
+of having jumped over the [[motifs/garden|garden]] wall, and implored me to go with
 him upon the latest and wildest of his expeditions.  He proposed
 to himself no less a thing than the discovery of the actual origin,
 whereabouts, and headquarters of the source of all our joys and sorrows--
 the Club of Queer Trades.  I should expand this story for ever if I
 explained how ultimately we ran this strange entity to its lair.
 The process meant a hundred interesting things.  The tracking
-of a member, the bribing of a [[cabman]], the fighting of roughs,
+of a member, the bribing of a cabman, the fighting of roughs,
 the lifting of a paving stone, the finding of a cellar, the finding
 of a cellar below the cellar, the finding of the subterranean passage,
 the finding of the Club of Queer Trades.
@@ -15724,10 +15724,10 @@ giacca purpurea, il quale non pareva considerare nessuno dei procedimenti
 particolarmente sensato o brillante. Il gigantesco Burrows,
 d'altra parte, era squassato da un riso erculeo.
 
-«[[Well]] Ebbene,» disse Basil, nel suo modo più gioviale, «penso che dovremmo
+«[[motifs/well|Well]] Ebbene,» disse Basil, nel suo modo più gioviale, «penso che dovremmo
 andarcene. Abbiamo goduto tanto la nostra serata. Troppo
 riguardo verso di voi per stare sulle cerimonie. Se posso esprimermi così,
-ci siamo messi a nostro [[Home|agio]]. Buona [[Night|notte]]. Grazie infinite.
+ci siamo messi a nostro [[motifs/home|agio]]. Buona [[motifs/night|notte]]. Grazie infinite.
 Vieni, Rupert.»
 
 «Basil,» disse Rupert disperatamente, «per amor di Dio vieni a vedere che cosa
@@ -15737,30 +15737,30 @@ Ma questi signori forse non avranno nulla in contrario...»
 
 «No, no,» gridò Burrows, con una sorta di fragore rabelaisiano.
 «No, no, guardate nella dispensa, signori. Esaminate la carbonaia.
-Fate un giro dei camini. Ci sono cadaveri per tutta la [[house]] casa,
+Fate un giro dei camini. Ci sono cadaveri per tutta la house casa,
 ve l'assicuro.»
 
 Questa nostra avventura era destinata a differire in un aspetto
 dalle altre che ho narrato. Ero passato attraverso molte giornate
 folli con Basil Grant, giornate per la prima metà delle quali il sole
-e la [[Moon|luna]] parevano essere impazziti. Ma era quasi
+e la [[motifs/moon|luna]] parevano essere impazziti. Ma era quasi
 invariabilmente accaduto che verso la fine della giornata e della sua
 avventura le cose si fossero rischiarate come il cielo dopo la pioggia,
 e un luminoso e quieto significato mi fosse a poco a poco spuntato dinanzi.
 Ma il lavoro di questa giornata era destinato a finire in una confusione più confusa che mai.
-Prima che lasciassimo quella [[house]] casa, dieci minuti dopo, un tocco
+Prima che lasciassimo quella house casa, dieci minuti dopo, un tocco
 demente si aggiunse, che avvolse tutte le nostre menti nella nube. Se la testa di Rupert
 fosse improvvisamente caduta a terra, se ali avessero cominciato
 a spuntare dalle spalle di Greenwood, difficilmente saremmo potuti restare
 più subitaneamente colpiti. Eppure di questo non avevamo spiegazione.
-Dovemmo andare a letto quella [[Night|notte]] con il prodigio e alzarci il mattino dopo
+Dovemmo andare a letto quella [[motifs/night|notte]] con il prodigio e alzarci il mattino dopo
 con esso e lasciarlo ristare nelle nostre memorie per settimane e mesi.
 Come si vedrà, non fu che mesi dopo che, per un altro
 caso e in un altro modo, esso fu spiegato. Per il presente io
 espongo soltanto ciò che accadde.
 
 Quando tutti e cinque ridiscendemmo le scale della cucina, Rupert in testa,
-i due padroni di casa a chiudere la fila, trovammo la porta della [[Prison|prigione]]
+i due padroni di casa a chiudere la fila, trovammo la porta della [[motifs/prison|prigione]]
 di nuovo chiusa. Spalancandola trovammo il luogo di nuovo nero
 come la pece. L'anziana signora, se era ancora là, aveva spento il gas:
 pareva avere una bizzarra predilezione per il sedere al buio.
@@ -15779,14 +15779,14 @@ sul fondo del gruppo e aveva appena messo piede nella stanza.
 E allora divenne palese un fatto sbalorditivo. Era Basil Grant
 che stava in testa al gruppo, la dorata luce del gas che gli rischiarava
 il forte volto e la figura. Il suo volto portava un'espressione
-indescrivibilmente consapevole, con il sospetto di un sorriso assai [[Grave|grave]].
+indescrivibilmente consapevole, con il sospetto di un sorriso assai [[motifs/grave|grave]].
 La sua testa era lievemente chinata in un inchino trattenuto. Era lui che aveva
-accolto l'ossequio della signora. Ed era a lui, al di là di ogni [[Shadow|ombra]]
-di ragionevole [[Doubt|dubbio]], che esso era stato realmente diretto.
+accolto l'ossequio della signora. Ed era a lui, al di là di ogni [[archetypes/shadow|ombra]]
+di ragionevole [[concepts/doubt|dubbio]], che esso era stato realmente diretto.
 
 «Così ho sentito,» disse egli, con voce cortese eppure in qualche modo formale,
 «ho sentito, signora, che i miei amici hanno tentato di salvarvi.
-Ma senza [[success]] successo.»
+Ma senza success successo.»
 
 «Nessuno, naturalmente, conosce i miei difetti meglio di voi,» rispose la signora
 con la carnagione accesa. «Ma non mi avete trovata colpevole di tradimento.»
@@ -15811,7 +15811,7 @@ Egli si volse a Greenwood con una ricaduta nella giovialità.
 «Sì, lo sarà,» replicò quell'imperturbabile giovane signore con un volto
 come una sfinge.
 
-Ci trovammo fuori nel [[Night|notte]] blu scuro, scossi e storditi
+Ci trovammo fuori nel [[motifs/night|notte]] blu scuro, scossi e storditi
 come se vi fossimo caduti dentro da qualche alta torre.
 
 «Basil,» disse Rupert alla fine, con voce fioca, «ho sempre pensato che tu
@@ -15827,14 +15827,14 @@ che potessimo parlare.
 
 Come ho detto, fu mesi dopo che Rupert Grant entrò d'improvviso
 nella mia stanza, dondolando una borsa in mano e con un'aria generale
-d'aver scavalcato il muro del [[Garden|giardino]], e mi implorò di andare con
+d'aver scavalcato il muro del [[motifs/garden|giardino]], e mi implorò di andare con
 lui nella più recente e più folle delle sue spedizioni. Egli si proponeva
 niente meno che la scoperta della reale origine,
 ubicazione e quartier generale della sorgente di tutte le nostre gioie e i nostri dolori:
 il Club dei Mestieri Bizzarri. Dilaterei questa storia all'infinito se
 spiegassi come alla fine stanammo questa strana entità nel suo covo.
 Il procedimento comportò cento cose interessanti. Il pedinamento
-di un membro, la corruzione di un [[cabman]] vetturino, la lotta con i teppisti,
+di un membro, la corruzione di un cabman vetturino, la lotta con i teppisti,
 il sollevamento di una pietra da lastrico, il trovamento di una cantina, il trovamento
 di una cantina sotto la cantina, il trovamento del passaggio sotterraneo,
 il trovamento del Club dei Mestieri Bizzarri.
@@ -15848,10 +15848,10 @@ I have had many strange experiences in my life, but never a stranger
 one than that I felt when I came out of those rambling, sightless,
 and seemingly hopeless passages into the sudden splendour of a sumptuous
 and hospitable dining-room, surrounded upon almost every side by faces
-that I knew.  There was Mr Montmorency, the Arboreal [[house|House]]-Agent,
+that I knew.  There was Mr Montmorency, the Arboreal House-Agent,
 seated between the two brisk young men who were occasionally vicars,
 and always Professional Detainers.  There was Mr P. G. Northover,
-founder of the Adventure and [[Romance]] Agency.  There was Professor Chadd,
+founder of the Adventure and [[works/romance-(poe)|Romance]] Agency.  There was Professor Chadd,
 who invented the dancing Language.
 
 As we entered, all the members seemed to sink suddenly into their chairs,
@@ -15871,10 +15871,10 @@ An instant after he ran back again, twittering with a timid ecstasy.
 
 "He's there, gentlemen--he's there all right--he's coming in now,"
 he cried, and sat down.  Rupert and I could hardly help feeling
-the beginnings of a sort of [[Wonder|wonder]] as to who this person
+the beginnings of a sort of [[concepts/wonder|wonder]] as to who this person
 might be who was the first member of this insane brotherhood.
 Who, we thought indistinctly, could be maddest in this world of madmen:
-what fantastic was it whose [[Shadow|shadow]] filled all these fantastics
+what fantastic was it whose [[archetypes/shadow|shadow]] filled all these fantastics
 with so loyal an expectation?
 
 Suddenly we were answered.  The door flew open and the room was
@@ -15886,16 +15886,16 @@ particularly prone to enjoy the long luxuriance of the club dinner.
 But on this occasion it seemed a hopeless and endless string
 of courses.  Hors-d'oeuvre sardines seemed as big as herrings,
 soup seemed a sort of ocean, larks were ducks, ducks were ostriches
-until that dinner was over.  The [[cheese]] course was maddening.
-I had often heard of the [[Moon|moon]] being made of green [[cheese]].
-That [[Night|night]] I thought the green [[cheese]] was made of the [[Moon|moon]].
-And all the [[Time|time]] Basil Grant went on laughing and eating and drinking,
+until that dinner was over.  The cheese course was maddening.
+I had often heard of the [[motifs/moon|moon]] being made of green cheese.
+That [[motifs/night|night]] I thought the green cheese was made of the [[motifs/moon|moon]].
+And all the [[motifs/time|time]] Basil Grant went on laughing and eating and drinking,
 and never threw one glance at us to tell us why he was there,
-the [[King|king]] of these capering idiots.
+the [[archetypes/king|king]] of these capering idiots.
 
 At last came the moment which I knew must in some way enlighten us,
-the [[Time|time]] of the club speeches and the club toasts.  Basil Grant
-[[Rose|rose]] to his feet amid a surge of [[songs]] and cheers.
+the [[motifs/time|time]] of the club speeches and the club toasts.  Basil Grant
+[[motifs/rose|rose]] to his feet amid a surge of songs and cheers.
 
 "Gentlemen," he said, "it is a custom in this society that the president
 for the year opens the proceedings not by any general toast of sentiment,
@@ -15911,44 +15911,44 @@ a small and lowly and futile post.  I had to go by a mean rule as much
 as a postman, and my red and gold was worth no more than his.
 Daily there passed before me taut and passionate problems,
 the stringency of which I had to pretend to relieve by silly
-imprisonments or silly damages, while I knew all the [[Time|time]], by the light
+imprisonments or silly damages, while I knew all the [[motifs/time|time]], by the light
 of my living common sense, that they would have been far better
 relieved by a kiss or a thrashing, or a few words of explanation,
 or a duel, or a tour in the West Highlands.  Then, as this grew on me,
 there grew on me continuously the sense of a mountainous frivolity.
-Every word said in the [[Court|court]], a whisper or an oath,
+Every word said in the [[settings/court|court]], a whisper or an oath,
 seemed more connected with life than the words I had to say.
-Then came the [[Time|time]] when I publicly blasphemed the whole bosh,
+Then came the [[motifs/time|time]] when I publicly blasphemed the whole bosh,
 was classed as a madman and melted from public life."
 
 Something in the atmosphere told me that it was not only Rupert
 and I who were listening with intensity to this statement.
 
-"[[Well]], I discovered that I could be of no real use.  I offered myself
+"[[motifs/well|Well]], I discovered that I could be of no real use.  I offered myself
 privately as a purely moral judge to settle purely moral differences.
-Before very long these unofficial courts of [[Honour|honour]] (kept strictly secret)
+Before very long these unofficial courts of [[concepts/honour|honour]] (kept strictly secret)
 had spread over the whole of society.  People were tried before me not
 for the practical trifles for which nobody cares, such as committing
 a murder, or keeping a dog without a licence.  My criminals were
 tried for the faults which really make social life impossible.
-They were tried before me for selfishness, or for an impossible [[Vanity|vanity]],
+They were tried before me for selfishness, or for an impossible [[concepts/vanity|vanity]],
 or for scandalmongering, or for stinginess to guests or dependents.
 Of course these courts had no sort of real coercive powers.
-The fulfilment of their punishments rested entirely on the [[Honour|honour]] of
-the ladies and gentlemen involved, including the [[Honour|honour]] of the culprits.
+The fulfilment of their punishments rested entirely on the [[concepts/honour|honour]] of
+the ladies and gentlemen involved, including the [[concepts/honour|honour]] of the culprits.
 But you would be amazed to know how completely our orders were
 always obeyed.  Only lately I had a most pleasing example.
 A maiden lady in South Kensington whom I had condemned to solitary
 confinement for being the means of breaking off an engagement
-through backbiting, absolutely refused to leave her [[Prison|prison]],
-although some [[Well|well]]-meaning persons had been inopportune enough
+through backbiting, absolutely refused to leave her [[motifs/prison|prison]],
+although some [[motifs/well|well]]-meaning persons had been inopportune enough
 to rescue her."
 
 Rupert Grant was staring at his brother, his mouth fallen agape.
 So, for the matter of that, I expect, was I. This, then, was the
 explanation of the old lady's strange discontent and her still
 stranger content with her lot.  She was one of the culprits
-of his Voluntary Criminal [[Court]].  She was one of the clients
+of his Voluntary Criminal [[settings/court|Court]].  She was one of the clients
 of his Queer Trade.
 
 We were still dazed when we drank, amid a crash of glasses,
@@ -15956,10 +15956,10 @@ the health of Basil's new judiciary.  We had only a confused sense
 of everything having been put right, the sense men will have when they
 come into the presence of God.  We dimly heard Basil say:
 
-"Mr P. G. Northover will now explain the Adventure and [[Romance]] Agency."
+"Mr P. G. Northover will now explain the Adventure and [[works/romance-(poe)|Romance]] Agency."
 
 And we heard equally dimly Northover beginning the statement he had
-made long ago to Major Brown.  Thus our [[Epic|epic]] ended where it had begun,
+made long ago to Major Brown.  Thus our [[forms/epic|epic]] ended where it had begun,
 like a true cycle.
 
 THE END
@@ -15971,10 +15971,10 @@ Ho avuto molte strane esperienze nella mia vita, ma mai una più strana
 di quella che provai quando uscii da quei corridoi tortuosi, ciechi,
 e apparentemente senza speranza, nell'improvviso splendore di una sontuosa
 e ospitale sala da pranzo, circondata quasi da ogni lato da volti
-che conoscevo. C'era il signor Montmorency, l'Agente Arboreo di [[house|Case]],
+che conoscevo. C'era il signor Montmorency, l'Agente Arboreo di Case,
 seduto fra i due arzilli giovani che erano occasionalmente vicari,
 e sempre Trattenitori Professionisti. C'era il signor P. G. Northover,
-fondatore dell'Agenzia dell'Avventura e del [[Romance]] Romanzesco. C'era il professor Chadd,
+fondatore dell'Agenzia dell'Avventura e del [[works/romance-(poe)|Romance]] Romanzesco. C'era il professor Chadd,
 che inventò la Lingua danzante.
 
 Come entrammo, tutti i membri parvero sprofondare d'un tratto nelle loro sedie,
@@ -15994,10 +15994,10 @@ Un istante dopo tornò di corsa, cinguettando in una timida estasi.
 
 «È là, signori... è là, tutto a posto... sta entrando adesso,»
 gridò, e si sedette. Rupert e io non potevamo fare a meno di provare
-gli inizi di una sorta di [[Wonder|meraviglia]] su chi mai potesse essere questa persona
+gli inizi di una sorta di [[concepts/wonder|meraviglia]] su chi mai potesse essere questa persona
 che era il primo membro di questa insana confraternita.
 Chi, pensavamo confusamente, poteva essere il più folle in questo mondo di folli:
-quale fantastico era colui la cui [[Shadow|ombra]] riempiva tutti questi fantastici
+quale fantastico era colui la cui [[archetypes/shadow|ombra]] riempiva tutti questi fantastici
 di un'attesa così fedele?
 
 D'improvviso avemmo risposta. La porta si spalancò e la stanza fu
@@ -16009,16 +16009,16 @@ particolarmente incline a godere la lunga opulenza della cena del club.
 Ma in quell'occasione parve una fila senza speranza e senza fine
 di portate. Le sardine dell'antipasto parevano grandi come aringhe,
 la zuppa pareva una sorta d'oceano, le allodole erano anatre, le anatre struzzi,
-finché quella cena non fu conclusa. La portata del [[cheese]] formaggio fu esasperante.
-Avevo spesso sentito dire che la [[Moon|luna]] è fatta di [[cheese]] formaggio verde.
-Quella [[Night|notte]] pensai che il [[cheese]] formaggio verde fosse fatto della [[Moon|luna]].
-E per tutto il [[Time|tempo]] Basil Grant continuò a ridere e mangiare e bere,
+finché quella cena non fu conclusa. La portata del cheese formaggio fu esasperante.
+Avevo spesso sentito dire che la [[motifs/moon|luna]] è fatta di cheese formaggio verde.
+Quella [[motifs/night|notte]] pensai che il cheese formaggio verde fosse fatto della [[motifs/moon|luna]].
+E per tutto il [[motifs/time|tempo]] Basil Grant continuò a ridere e mangiare e bere,
 e non gettò mai uno sguardo verso di noi per dirci perché fosse là,
-il [[King|re]] di questi caracollanti idioti.
+il [[archetypes/king|re]] di questi caracollanti idioti.
 
 Alla fine giunse il momento che sapevo doverci in qualche modo illuminare,
-il [[Time|tempo]] dei discorsi del club e dei brindisi del club. Basil Grant
-si [[Rose|alzò]] in piedi in mezzo a un'ondata di [[songs]] canti e di applausi.
+il [[motifs/time|tempo]] dei discorsi del club e dei brindisi del club. Basil Grant
+si [[motifs/rose|alzò]] in piedi in mezzo a un'ondata di songs canti e di applausi.
 
 «Signori,» disse, «è consuetudine in questa società che il presidente
 dell'anno apra i lavori non con un qualche brindisi generale di sentimento,
@@ -16034,44 +16034,44 @@ un posto piccolo e umile e futile. Dovevo procedere secondo una regola gretta no
 di un postino, e il mio rosso e oro non valeva più del suo.
 Quotidianamente passavano davanti a me problemi tesi e appassionati,
 la cui stringenza dovevo fingere di alleviare con sciocche
-prigionie o sciocchi risarcimenti, mentre sapevo per tutto il [[Time|tempo]], alla luce
+prigionie o sciocchi risarcimenti, mentre sapevo per tutto il [[motifs/time|tempo]], alla luce
 del mio vivente buon senso, che sarebbero stati assai meglio
 alleviati da un bacio o da una bastonatura, o da qualche parola di spiegazione,
 o da un duello, o da un giro nelle Highlands occidentali. Poi, man mano che questo cresceva in me,
 crebbe in me di continuo il senso di una montuosa frivolezza.
-Ogni parola detta nella [[Court|corte]], un bisbiglio o un'imprecazione,
+Ogni parola detta nella [[settings/court|corte]], un bisbiglio o un'imprecazione,
 pareva più connessa con la vita delle parole che io dovevo dire.
-Poi venne il [[Time|tempo]] in cui bestemmiai pubblicamente tutta quella baggianata,
+Poi venne il [[motifs/time|tempo]] in cui bestemmiai pubblicamente tutta quella baggianata,
 fui classificato come pazzo e mi dileguai dalla vita pubblica.»
 
 Qualcosa nell'atmosfera mi disse che non erano soltanto Rupert
 e io ad ascoltare con intensità questa dichiarazione.
 
-«[[Well]] Ebbene, scoprii che non potevo essere di alcuna reale utilità. Mi offrii
+«[[motifs/well|Well]] Ebbene, scoprii che non potevo essere di alcuna reale utilità. Mi offrii
 privatamente come giudice puramente morale per comporre differenze puramente morali.
-In assai breve tempo queste corti d'[[Honour|onore]] non ufficiali (tenute rigorosamente segrete)
+In assai breve tempo queste corti d'[[concepts/honour|onore]] non ufficiali (tenute rigorosamente segrete)
 si erano diffuse per l'intera società. Le persone venivano processate davanti a me non
 per le inezie pratiche di cui a nessuno importa, come il commettere
 un omicidio, o il tenere un cane senza licenza. I miei criminali venivano
 processati per le colpe che rendono davvero impossibile la vita sociale.
-Venivano processati davanti a me per egoismo, o per un'impossibile [[Vanity|vanità]],
+Venivano processati davanti a me per egoismo, o per un'impossibile [[concepts/vanity|vanità]],
 o per maldicenza, o per spilorceria verso ospiti o dipendenti.
 Naturalmente queste corti non avevano alcuna sorta di reale potere coercitivo.
-L'adempimento delle loro pene poggiava interamente sull'[[Honour|onore]] delle
-signore e dei signori coinvolti, compreso l'[[Honour|onore]] dei colpevoli.
+L'adempimento delle loro pene poggiava interamente sull'[[concepts/honour|onore]] delle
+signore e dei signori coinvolti, compreso l'[[concepts/honour|onore]] dei colpevoli.
 Ma sareste stupiti di sapere quanto completamente i nostri ordini fossero
 sempre obbediti. Solo di recente ho avuto un esempio assai piacevole.
 Una signorina nubile di South Kensington, che avevo condannato alla reclusione
 solitaria per essere stata la causa della rottura di un fidanzamento
-tramite maldicenza, si rifiutò assolutamente di lasciare la sua [[Prison|prigione]],
-sebbene alcune persone [[Well|ben]] intenzionate fossero state tanto inopportune
+tramite maldicenza, si rifiutò assolutamente di lasciare la sua [[motifs/prison|prigione]],
+sebbene alcune persone [[motifs/well|ben]] intenzionate fossero state tanto inopportune
 da salvarla.»
 
 Rupert Grant fissava suo fratello, la bocca spalancata.
 E così, del resto, immagino, fissavo io. Questa, dunque, era la
 spiegazione dello strano scontento dell'anziana signora e del suo ancora
 più strano appagamento della propria sorte. Ella era una dei colpevoli
-della sua Corte Criminale Volontaria [[Court]]. Era una dei clienti
+della sua Corte Criminale Volontaria [[settings/court|Court]]. Era una dei clienti
 del suo Mestiere Bizzarro.
 
 Eravamo ancora storditi quando bevemmo, tra un fragore di bicchieri,
@@ -16079,10 +16079,10 @@ alla salute della nuova magistratura di Basil. Avevamo soltanto un confuso senso
 che ogni cosa fosse stata rimessa a posto, il senso che gli uomini avranno quando
 giungono al cospetto di Dio. Udimmo fiocamente Basil dire:
 
-«Il signor P. G. Northover spiegherà ora l'Agenzia dell'Avventura e del [[Romance]] Romanzesco.»
+«Il signor P. G. Northover spiegherà ora l'Agenzia dell'Avventura e del [[works/romance-(poe)|Romance]] Romanzesco.»
 
 E udimmo ugualmente fiocamente Northover cominciare la dichiarazione che aveva
-fatto tempo addietro al maggiore Brown. Così la nostra [[Epic|epopea]] terminò dove era cominciata,
+fatto tempo addietro al maggiore Brown. Così la nostra [[forms/epic|epopea]] terminò dove era cominciata,
 come un vero ciclo.
 
 FINE

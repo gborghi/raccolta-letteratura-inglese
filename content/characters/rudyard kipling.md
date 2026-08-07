@@ -14,4 +14,10 @@ Poet of empire whom Chesterton profiles as the eponymous subject of the chapter 
 
 <div class="concept-works" data-slug="characters/rudyard-kipling"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/heret12-(chesterton)|heret12 (Chesterton)]]
+
+</div>
+
 #graph/character

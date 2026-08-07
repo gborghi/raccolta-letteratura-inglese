@@ -14,4 +14,10 @@ Aquinas's foundational metaphysical thesis that the mind's recognition of Being 
 
 <div class="concept-works" data-slug="concepts/being-and-existence"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/aquinas-(chesterton)|aquinas (Chesterton)]]
+
+</div>
+
 #graph/concept

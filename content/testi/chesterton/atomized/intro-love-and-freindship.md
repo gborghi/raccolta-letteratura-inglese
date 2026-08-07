@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="intro-love-and-freindship" data-title="intro-love-and-freindship" data-chapter="" data-kind="intro"></span>
 
 
-Introduction to Jane Austen's "[[Love]] and Freindship",
+Introduction to Jane Austen's "[[motifs/love|Love]] and Freindship",
 by G.K. Chesterton
 
 In a recent newspaper controversy about the conventional
@@ -25,19 +25,19 @@ To those who happen to have read any of the works of Jane Austen,
 the connection of ideas will appear slightly comic.  Elizabeth Bennett,
 for instance, received two proposals from two very confident
 and even masterful admirers; and she certainly did not faint.
-It would be nearer the [[Truth|truth]] to say that they did.
+It would be nearer the [[concepts/truth|truth]] to say that they did.
 
 But in any case it may be amusing to those who are thus amused,
 and perhaps even instructive to those who thus need to be instructed,
 to know that the earliest work of Jane Austen, here published for the
-first [[Time|time]], might be called a [[Satire|satire]] on the [[Fable|fable]] of the fainting lady.
+first [[motifs/time|time]], might be called a [[forms/satire|satire]] on the [[forms/fable|fable]] of the fainting lady.
 "Beware of fainting fits ... though at times they may be refreshing
 and agreable yet believe me they will in the end, if too often repeated
-and at improper [[Seasons|seasons]], prove destructive to your Constitution."
+and at improper [[motifs/seasons|seasons]], prove destructive to your Constitution."
 Such were the words of the expiring Sophia to the afflicted Laura;
 and there are modern critics capable of adducing THEM as a proof that all
 society was in a swoon in the first decade of the nineteenth century.
-But in [[Truth|truth]] it is the whole point of this little skit that
+But in [[concepts/truth|truth]] it is the whole point of this little skit that
 the swoon of sensibility is not satirised because it was a fact,
 even in the sense of a fashion, but satirised solely because it
 was fiction.  Laura and Sophia are made ludicrously unlike
@@ -48,31 +48,31 @@ them against Jane Austen.  They are believing, not the people
 of the period but the most nonsensical novels of the period,
 which even the people of the period who read them did not believe.
 They have swallowed all the solemnities of the Mysteries of Udolpho,
-and never even seen the joke of [[Northanger Abbey]].
+and never even seen the joke of [[works/northanger-abbey-(austen)|Northanger Abbey]].
 
 For if these JUVENILIA of Jane Austen anticipate especially any
 of her after works, they certainly anticipate the satiric side
-of [[Northanger Abbey]].  Of their considerable significance on that side
-something may be said presently; but it will be [[Well|well]] to preface it
-by a word about the works themselves as items of literary [[history]].
-Everyone knows that the novelist left an unfinished [[Fragment|fragment]],
+of [[works/northanger-abbey-(austen)|Northanger Abbey]].  Of their considerable significance on that side
+something may be said presently; but it will be [[motifs/well|well]] to preface it
+by a word about the works themselves as items of literary [[concepts/history|history]].
+Everyone knows that the novelist left an unfinished [[forms/fragment|fragment]],
 since published under the name of "The Watsons," and a finished story
-called "[[Lady Susan]]," in letters, which she had herself apparently decided
+called "[[works/lady-susan-(austen)|Lady Susan]]," in letters, which she had herself apparently decided
 not to publish.  These preferences are all prejudices, in the sense
 of matters of unmanageable taste; but I confess I think it a strange
-historical accident that things so comparatively dull as "[[Lady Susan]]"
+historical accident that things so comparatively dull as "[[works/lady-susan-(austen)|Lady Susan]]"
 should have been printed already, while things so comparatively lively
-as "[[Love]] and Freindship" should never have been printed until now.
+as "[[motifs/love|Love]] and Freindship" should never have been printed until now.
 It is at least a curiosity of literature that such curiosities
 of literature should have been almost accidently concealed.
 Doubtless it was very rightly felt that we may go much too far
 in the way of emptying the wastepaper basket of a genius on the head
 of the public; and that there is a sense in which the wastepaper
-basket is as sacred as the [[Grave|grave]].  But without arrogating to myself
+basket is as sacred as the [[motifs/grave|grave]].  But without arrogating to myself
 any more right in the matter than anybody has to his own taste,
-I [[Hope|hope]] I may be allowed to say that I for one would have willingly
-left "[[Lady Susan]]" in the wastepaper basket, if I could have
-pieced together "[[Love]] and Freindship" for a private scrap-book;
+I [[concepts/hope|hope]] I may be allowed to say that I for one would have willingly
+left "[[works/lady-susan-(austen)|Lady Susan]]" in the wastepaper basket, if I could have
+pieced together "[[motifs/love|Love]] and Freindship" for a private scrap-book;
 a thing to laugh over again and again as one laughs over the great
 burlesques of Peacock or Max Beerbohm.
 
@@ -81,18 +81,18 @@ including these and other manuscripts; and the second volume
 of them, containing these, was left by Cassandra to her brother,
 Admiral Sir Francis Austen.  He gave it to his daughter Fanny, who left
 it in turn to her brother Edward, who was the Rector of Barfrestone
-in [[Kent]], and the father of Mrs. Sanders, to whose wise decision
+in [[characters/kent|Kent]], and the father of Mrs. Sanders, to whose wise decision
 we owe the publication of these first fancies of her great-aunt;
 whom it might be misleading here to call her great great-aunt. Everyone
 will judge for himself; but I myself think she added something
-intrinsically important to literature and to literary [[history]];
+intrinsically important to literature and to literary [[concepts/history|history]];
 and that there are cartloads of printed matter, regularly recognised
 and printed with the works of all great authors, which are far less
 characteristic and far less significant than these few nursery jests.
 
-For "[[Love]] and Freindship," with some similar passages in the
+For "[[motifs/love|Love]] and Freindship," with some similar passages in the
 accompanying fragments, is really a rattling burlesque; something much
-better than what the ladies of the [[Time|time]] called an agreeable rattle.
+better than what the ladies of the [[motifs/time|time]] called an agreeable rattle.
 It is one of those things that can be the more readily read with
 enjoyment through being written with enjoyment; in other words,
 it is all the better for being juvenile in the sense of being joyful.
@@ -101,25 +101,25 @@ evidently in much the same spirit in which people conduct
 a family magazine; for the medallions included in the manuscript
 were the work of her sister Cassandra.  The whole thing is full
 of the sort of high spirits that are always higher in private than
-in public; as people laugh louder in the [[house]] than in the street.
+in public; as people laugh louder in the house than in the street.
 Many of her admirers would not expect, perhaps many of her admirers
 would not admire, the sort of fun to be found in the letter of the young
 lady "whose feelings were too strong for her judgment," and who remarks
 incidentally "I murdered my father at a very early period of my life,
 I have since murdered my mother, and I am now going to murder my sister."
 Personally I think it admirable; not the conduct, but the confession.
-But there is much more than hilarity in the [[Humour|humour]], even at this
+But there is much more than hilarity in the humour, even at this
 stage of its growth.  There is almost everywhere a certain neatness
 in the nonsense.  There is not a little of the true Austen irony.
 "The noble Youth informed us that his name was Lindsay... for
 particular reasons, however, I shall conceal it under that of Talbot."
-Did anyone really [[Desire|desire]] that to disappear into the waste-paper basket?
+Did anyone really [[motifs/desire|desire]] that to disappear into the waste-paper basket?
 "She was nothing more than a mere good-tempered, civil and obliging
 young woman; as such we could scarcely dislike her...she was only
 an object of contempt."  Is not that something like the first faint
-line in the figure of [[Fanny Price]]?  When a loud knocking is heard
+line in the figure of [[characters/fanny-price|Fanny Price]]?  When a loud knocking is heard
 on the door of the Rustic Cot by the Uske, the heroine's father
-enquires the [[Nature|nature]] of the noise, and by cautious steps of inference
+enquires the [[concepts/nature|nature]] of the noise, and by cautious steps of inference
 they are enabled to define it as somebody outside striking the door.
 
 "'Yes (exclaimed I) I cannot help thinking it must be somebody
@@ -136,10 +136,10 @@ the unmistakable voice of Mr. Bennett?
 But there is a larger and critical reason for taking pleasure
 in the gaiety of these various travesties and trifles.
 Mr. Austen Leigh seems to have thought them not sufficiently
-serious for the reputation of his great relative; but [[Greatness|greatness]]
+serious for the reputation of his great relative; but [[concepts/greatness|greatness]]
 is not made up of serious things, in the sense of solemn things.
 The reason here, however, is as serious as even he or anyone else
-could [[Desire|desire]]; for it concerns the fundamental quality of one of
+could [[motifs/desire|desire]]; for it concerns the fundamental quality of one of
 the finest talents in letters.
 
 A very real psychological interest, almost amounting to a
@@ -149,35 +149,35 @@ sufficiently emphasised.  Great as she was, nobody was likely
 to maintain that she was a poet.  But she was a marked
 example of what is said of the poet; she was born, not made.
 As compared with her, indeed, some of the poets really were made.
-Many men who had the air of setting the world on [[Fire|fire]] have left
-at least a reasonable discussion about what set them on [[Fire|fire]].
+Many men who had the air of setting the world on [[motifs/fire|fire]] have left
+at least a reasonable discussion about what set them on [[motifs/fire|fire]].
 Men like Coleridge or Carlyle had certainly kindled their first
 torches from the flambeaux of equally fantastic German mystics or
 Platonic speculators; they had gone through furnaces of culture where even
 less creative people might have been inflamed to creation.  Jane Austen
 was not inflamed or inspired or even moved to be a genius; she simply
-was a genius.  Her [[Fire|fire]], what there was of it, began with herself;
-like the [[Fire|fire]] of the first man who rubbed two dry sticks together.
+was a genius.  Her [[motifs/fire|fire]], what there was of it, began with herself;
+like the [[motifs/fire|fire]] of the first man who rubbed two dry sticks together.
 Some would say that they were very dry sticks which she rubbed together.
 It is certain that she by her own artistic talent made interesting
 what thousands of superficially similar people would have made dull.
 There was nothing in her circumstances, or even in her materials,
-that seems obviously meant for the making of such an [[Artist|artist]].
+that seems obviously meant for the making of such an [[archetypes/artist|artist]].
 It might seem a very wild use of the wrong word to say that Jane Austen
 was elemental.  It might even seem even a little wanton to insist
 that she was original.  Yet this objection would come from the critic
 not really considering what is meant by an element or an origin.
-Perhaps it might be as [[Well|well]] expressed in what is really meant
+Perhaps it might be as [[motifs/well|well]] expressed in what is really meant
 by an individual.  Her ability is an absolute; it cannot be
 analysed into influences.  She had been compared to Shakespeare;
 and in this sense she really does recall the joke about the man
 who said he could write like Shakespeare if he had the mind.
 In this case we seem to see a thousand spinsters sitting at
-a thousand tea-tables; and they could all have written "[[Emma]]"
+a thousand tea-tables; and they could all have written "[[works/emma-(austen)|Emma]]"
 if they had had the mind.
 
 There is therefore, in considering even her crudest early experiments,
-the interest of looking at a mind and not at a [[Mirror|mirror]].
+the interest of looking at a mind and not at a [[motifs/mirror|mirror]].
 She may not be conscious of being herself; but she is not, like so
 many more cultivated imitators, conscious of being somebody else.
 The force, at its first and feeblest, is coming from within and not merely
@@ -187,11 +187,11 @@ is the first of the reasons that justify a study of her juvenile works;
 it is an interest in the psychology of the artistic vocation.
 I will not say of the artistic temperament; for nobody ever had less
 of the tiresome thing commonly so described than Jane Austen.
-But while this [[Alone|alone]] would be a reason for finding out how her work began,
+But while this alone would be a reason for finding out how her work began,
 it becomes yet more relevant when we have found out how it did begin.
 This is something more than the discovery of a document;
 it is the discovery of an inspiration.  And that inspiration was
-the inspiration of Gargantua and of [[Pickwick]]; it was the gigantic
+the inspiration of Gargantua and of [[works/pickwick-(chesterton)|Pickwick]]; it was the gigantic
 inspiration of laughter.
 
 If it seemed odd to call her elemental, it may seem equally
@@ -204,7 +204,7 @@ She was the very reverse of a starched or a starved spinster;
 she could have been a buffoon like the Wife of Bath if she chose.
 This is what gives an infallible force to her irony.
 This is what gives a stunning weight to her understatements.
-At the back of this [[Artist|artist]] also, counted as passionless,
+At the back of this [[archetypes/artist|artist]] also, counted as passionless,
 there was passion; but her original passion was a sort of joyous
 scorn and a fighting spirit against all that she regarded
 as morbid and lax and poisonously silly.  The weapons she forged
@@ -217,13 +217,13 @@ the romantics, is very much concerned with rebuking them for the very
 thing for which revolutionary sentiment has so much admired them;
 as for their glorification of ingratitude to parents and their easy
 assumption that the old are always wrong.  "No!" says the noble
-Youth in "[[Love]] and Freindship," "never shall it be said that I
-obliged my father!"  And the other is that there is not a [[Shadow|shadow]]
+Youth in "[[motifs/love|Love]] and Freindship," "never shall it be said that I
+obliged my father!"  And the other is that there is not a [[archetypes/shadow|shadow]]
 of indication anywhere that this independent intellect and laughing
 spirit was other than contented with a narrow domestic routine,
 in which she wrote a story as domestic as a diary in the intervals
-of pies and puddings, without so much as looking out of the [[Window|window]]
-to notice the [[French Revolution]].
+of pies and puddings, without so much as looking out of the [[motifs/window|window]]
+to notice the [[historical-references/french-revolution|French Revolution]].
 
 
 
@@ -231,7 +231,7 @@ to notice the [[French Revolution]].
 <span class="atom-split" data-atom="part--part_01" data-title="intro-love-and-freindship (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/grave,motif/love,motif/seasons,motif/time,motif/well,concept/history,concept/hope,concept/truth,form/fable,form/fragment,form/history,form/satire,character/kent"></span>
 
 
-Introduction to Jane Austen's "[[Love]] and Freindship",
+Introduction to Jane Austen's "[[motifs/love|Love]] and Freindship",
 by G.K. Chesterton
 
 In a recent newspaper controversy about the conventional
@@ -242,19 +242,19 @@ To those who happen to have read any of the works of Jane Austen,
 the connection of ideas will appear slightly comic.  Elizabeth Bennett,
 for instance, received two proposals from two very confident
 and even masterful admirers; and she certainly did not faint.
-It would be nearer the [[Truth|truth]] to say that they did.
+It would be nearer the [[concepts/truth|truth]] to say that they did.
 
 But in any case it may be amusing to those who are thus amused,
 and perhaps even instructive to those who thus need to be instructed,
 to know that the earliest work of Jane Austen, here published for the
-first [[Time|time]], might be called a [[Satire|satire]] on the [[Fable|fable]] of the fainting lady.
+first [[motifs/time|time]], might be called a [[forms/satire|satire]] on the [[forms/fable|fable]] of the fainting lady.
 "Beware of fainting fits ... though at times they may be refreshing
 and agreable yet believe me they will in the end, if too often repeated
-and at improper [[Seasons|seasons]], prove destructive to your Constitution."
+and at improper [[motifs/seasons|seasons]], prove destructive to your Constitution."
 Such were the words of the expiring Sophia to the afflicted Laura;
 and there are modern critics capable of adducing THEM as a proof that all
 society was in a swoon in the first decade of the nineteenth century.
-But in [[Truth|truth]] it is the whole point of this little skit that
+But in [[concepts/truth|truth]] it is the whole point of this little skit that
 the swoon of sensibility is not satirised because it was a fact,
 even in the sense of a fashion, but satirised solely because it
 was fiction.  Laura and Sophia are made ludicrously unlike
@@ -265,31 +265,31 @@ them against Jane Austen.  They are believing, not the people
 of the period but the most nonsensical novels of the period,
 which even the people of the period who read them did not believe.
 They have swallowed all the solemnities of the Mysteries of Udolpho,
-and never even seen the joke of [[Northanger Abbey]].
+and never even seen the joke of [[works/northanger-abbey-(austen)|Northanger Abbey]].
 
 For if these JUVENILIA of Jane Austen anticipate especially any
 of her after works, they certainly anticipate the satiric side
-of [[Northanger Abbey]].  Of their considerable significance on that side
-something may be said presently; but it will be [[Well|well]] to preface it
-by a word about the works themselves as items of literary [[history]].
-Everyone knows that the novelist left an unfinished [[Fragment|fragment]],
+of [[works/northanger-abbey-(austen)|Northanger Abbey]].  Of their considerable significance on that side
+something may be said presently; but it will be [[motifs/well|well]] to preface it
+by a word about the works themselves as items of literary [[concepts/history|history]].
+Everyone knows that the novelist left an unfinished [[forms/fragment|fragment]],
 since published under the name of "The Watsons," and a finished story
-called "[[Lady Susan]]," in letters, which she had herself apparently decided
+called "[[works/lady-susan-(austen)|Lady Susan]]," in letters, which she had herself apparently decided
 not to publish.  These preferences are all prejudices, in the sense
 of matters of unmanageable taste; but I confess I think it a strange
-historical accident that things so comparatively dull as "[[Lady Susan]]"
+historical accident that things so comparatively dull as "[[works/lady-susan-(austen)|Lady Susan]]"
 should have been printed already, while things so comparatively lively
-as "[[Love]] and Freindship" should never have been printed until now.
+as "[[motifs/love|Love]] and Freindship" should never have been printed until now.
 It is at least a curiosity of literature that such curiosities
 of literature should have been almost accidently concealed.
 Doubtless it was very rightly felt that we may go much too far
 in the way of emptying the wastepaper basket of a genius on the head
 of the public; and that there is a sense in which the wastepaper
-basket is as sacred as the [[Grave|grave]].  But without arrogating to myself
+basket is as sacred as the [[motifs/grave|grave]].  But without arrogating to myself
 any more right in the matter than anybody has to his own taste,
-I [[Hope|hope]] I may be allowed to say that I for one would have willingly
-left "[[Lady Susan]]" in the wastepaper basket, if I could have
-pieced together "[[Love]] and Freindship" for a private scrap-book;
+I [[concepts/hope|hope]] I may be allowed to say that I for one would have willingly
+left "[[works/lady-susan-(austen)|Lady Susan]]" in the wastepaper basket, if I could have
+pieced together "[[motifs/love|Love]] and Freindship" for a private scrap-book;
 a thing to laugh over again and again as one laughs over the great
 burlesques of Peacock or Max Beerbohm.
 
@@ -298,11 +298,11 @@ including these and other manuscripts; and the second volume
 of them, containing these, was left by Cassandra to her brother,
 Admiral Sir Francis Austen.  He gave it to his daughter Fanny, who left
 it in turn to her brother Edward, who was the Rector of Barfrestone
-in [[Kent]], and the father of Mrs. Sanders, to whose wise decision
+in [[characters/kent|Kent]], and the father of Mrs. Sanders, to whose wise decision
 we owe the publication of these first fancies of her great-aunt;
 whom it might be misleading here to call her great great-aunt. Everyone
 will judge for himself; but I myself think she added something
-intrinsically important to literature and to literary [[history]];
+intrinsically important to literature and to literary [[concepts/history|history]];
 and that there are cartloads of printed matter, regularly recognised
 and printed with the works of all great authors, which are far less
 characteristic and far less significant than these few nursery jests.
@@ -310,7 +310,7 @@ characteristic and far less significant than these few nursery jests.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Introduzione a «[[Love|Amore]] e amicizia» di Jane Austen,
+Introduzione a «[[motifs/love|Amore]] e amicizia» di Jane Austen,
 di G.K. Chesterton
 
 In una recente polemica giornalistica sulla convenzionale sciocchezza e
@@ -321,20 +321,20 @@ danno il caso di aver letto una qualsiasi delle opere di Jane Austen,
 l'associazione di idee apparirà lievemente comica. Elizabeth Bennett, per
 esempio, ricevette due proposte da due ammiratori assai sicuri di sé e
 persino autoritari; e di certo non svenne. Sarebbe più vicino alla
-[[Truth|verità]] dire che svennero loro.
+[[concepts/truth|verità]] dire che svennero loro.
 
 Ma in ogni caso può essere divertente per coloro che così si divertono, e
 forse persino istruttivo per coloro che così hanno bisogno d'essere
 istruiti, sapere che la primissima opera di Jane Austen, qui pubblicata
-per la prima [[Time|volta]], potrebbe dirsi una [[Satire|satira]] sulla
-[[Fable|favola]] della dama che sviene. "Guardati dagli svenimenti... per
+per la prima [[motifs/time|volta]], potrebbe dirsi una [[forms/satire|satira]] sulla
+[[forms/fable|favola]] della dama che sviene. "Guardati dagli svenimenti... per
 quanto a volte possano riuscire ristoratori e piacevoli, pure credimi
-finiranno, se troppo spesso ripetuti e in [[Seasons|stagioni]] sconvenienti,
+finiranno, se troppo spesso ripetuti e in [[motifs/seasons|stagioni]] sconvenienti,
 per riuscire distruttivi per la tua Costituzione." Tali furono le parole
 della morente Sophia all'afflitta Laura; e vi sono critici moderni capaci
 di addurre PROPRIO QUESTE come prova che tutta la società fosse in
 deliquio nel primo decennio del diciannovesimo secolo. Ma in
-[[Truth|verità]] è tutto il senso di questo piccolo scherzo che il
+[[concepts/truth|verità]] è tutto il senso di questo piccolo scherzo che il
 deliquio della sensibilità non viene satireggiato perché fosse un fatto,
 neppure nel senso di una moda, ma satireggiato unicamente perché era
 finzione. Laura e Sophia sono rese ridicolmente diverse dalla vita
@@ -344,30 +344,30 @@ realtà abbindolare da Laura e Sophia, e credono a loro contro Jane
 Austen. Credono, non alle persone dell'epoca, ma ai più insensati
 romanzi dell'epoca, a cui neppure le persone dell'epoca che li leggevano
 credevano. Hanno mandato giù tutte le solennità dei Misteri di Udolpho, e
-non hanno nemmeno colto la burla di [[Northanger Abbey]].
+non hanno nemmeno colto la burla di [[works/northanger-abbey-(austen)|Northanger Abbey]].
 
 Poiché se questi JUVENILIA di Jane Austen anticipano in modo speciale una
 qualche delle sue opere successive, essi anticipano certo il lato satirico
-di [[Northanger Abbey]]. Del loro considerevole significato su quel lato
-qualcosa si potrà dire fra poco; ma sarà [[Well|bene]] premettervi una
-parola sulle opere stesse in quanto oggetti di [[history|storia]] letteraria.
-Tutti sanno che la romanziera lasciò un [[Fragment|frammento]] incompiuto,
+di [[works/northanger-abbey-(austen)|Northanger Abbey]]. Del loro considerevole significato su quel lato
+qualcosa si potrà dire fra poco; ma sarà [[motifs/well|bene]] premettervi una
+parola sulle opere stesse in quanto oggetti di [[concepts/history|storia]] letteraria.
+Tutti sanno che la romanziera lasciò un [[forms/fragment|frammento]] incompiuto,
 pubblicato in seguito col nome di "The Watsons", e una storia compiuta
-intitolata "[[Lady Susan]]", in forma epistolare, che ella stessa aveva
+intitolata "[[works/lady-susan-(austen)|Lady Susan]]", in forma epistolare, che ella stessa aveva
 apparentemente deciso di non pubblicare. Queste preferenze sono tutte
 pregiudizi, nel senso di questioni di gusto ingovernabile; ma confesso di
 ritenere un ben strano accidente storico che cose relativamente scialbe
-come "[[Lady Susan]]" siano già state stampate, mentre cose relativamente
-vivaci come "[[Love|Amore]] e amicizia" non fossero mai state stampate
+come "[[works/lady-susan-(austen)|Lady Susan]]" siano già state stampate, mentre cose relativamente
+vivaci come "[[motifs/love|Amore]] e amicizia" non fossero mai state stampate
 fino a ora. È quantomeno una curiosità della letteratura che simili
 curiosità della letteratura siano state quasi accidentalmente celate.
 Senza dubbio si sentì assai giustamente che si può andare troppo oltre nel
 rovesciare il cestino della carta straccia di un genio sul capo del
 pubblico; e che vi è un senso in cui il cestino della carta straccia è
-sacro quanto la [[Grave|tomba]]. Ma senza arrogarmi in questa faccenda più
-diritto di quanto chiunque abbia sul proprio gusto, [[Hope|spero]] mi sia
-consentito dire che io, per parte mia, avrei volentieri lasciato "[[Lady Susan]]"
-nel cestino della carta straccia, se avessi potuto ricomporre "[[Love|Amore]]
+sacro quanto la [[motifs/grave|tomba]]. Ma senza arrogarmi in questa faccenda più
+diritto di quanto chiunque abbia sul proprio gusto, [[concepts/hope|spero]] mi sia
+consentito dire che io, per parte mia, avrei volentieri lasciato "[[works/lady-susan-(austen)|Lady Susan]]"
+nel cestino della carta straccia, se avessi potuto ricomporre "[[motifs/love|Amore]]
 e amicizia" per un album privato di ritagli; una cosa su cui ridere di
 nuovo e ancora come si ride sulle grandi parodie di Peacock o di Max
 Beerbohm.
@@ -377,11 +377,11 @@ compresi questi e altri manoscritti; e il secondo volume di essi,
 contenente questi, fu lasciato da Cassandra al fratello, l'ammiraglio Sir
 Francis Austen. Egli lo diede alla figlia Fanny, che a sua volta lo
 lasciò al fratello Edward, il quale era il Rettore di Barfrestone nel
-[[Kent]], e il padre della signora Sanders, alla cui saggia decisione
+[[characters/kent|Kent]], e il padre della signora Sanders, alla cui saggia decisione
 dobbiamo la pubblicazione di queste prime fantasie della sua prozia; che
 qui sarebbe fuorviante chiamare la sua bis-prozia. Ognuno giudicherà da
 sé; ma io stesso penso che ella aggiunse qualcosa di intrinsecamente
-importante alla letteratura e alla [[history|storia]] letteraria; e che vi
+importante alla letteratura e alla [[concepts/history|storia]] letteraria; e che vi
 sono carrettate di materiale stampato, regolarmente riconosciuto e
 stampato tra le opere di tutti i grandi autori, che sono assai meno
 caratteristiche e assai meno significative di queste poche facezie da
@@ -392,9 +392,9 @@ camera dei bambini.
 <span class="atom-split" data-atom="part--part_02" data-title="intro-love-and-freindship (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/artist,motif/desire,motif/fire,motif/love,motif/nature,motif/time,motif/well,concept/greatness,concept/nature,character/fanny_price"></span>
 
 
-For "[[Love]] and Freindship," with some similar passages in the
+For "[[motifs/love|Love]] and Freindship," with some similar passages in the
 accompanying fragments, is really a rattling burlesque; something much
-better than what the ladies of the [[Time|time]] called an agreeable rattle.
+better than what the ladies of the [[motifs/time|time]] called an agreeable rattle.
 It is one of those things that can be the more readily read with
 enjoyment through being written with enjoyment; in other words,
 it is all the better for being juvenile in the sense of being joyful.
@@ -403,25 +403,25 @@ evidently in much the same spirit in which people conduct
 a family magazine; for the medallions included in the manuscript
 were the work of her sister Cassandra.  The whole thing is full
 of the sort of high spirits that are always higher in private than
-in public; as people laugh louder in the [[house]] than in the street.
+in public; as people laugh louder in the house than in the street.
 Many of her admirers would not expect, perhaps many of her admirers
 would not admire, the sort of fun to be found in the letter of the young
 lady "whose feelings were too strong for her judgment," and who remarks
 incidentally "I murdered my father at a very early period of my life,
 I have since murdered my mother, and I am now going to murder my sister."
 Personally I think it admirable; not the conduct, but the confession.
-But there is much more than hilarity in the [[Humour|humour]], even at this
+But there is much more than hilarity in the humour, even at this
 stage of its growth.  There is almost everywhere a certain neatness
 in the nonsense.  There is not a little of the true Austen irony.
 "The noble Youth informed us that his name was Lindsay... for
 particular reasons, however, I shall conceal it under that of Talbot."
-Did anyone really [[Desire|desire]] that to disappear into the waste-paper basket?
+Did anyone really [[motifs/desire|desire]] that to disappear into the waste-paper basket?
 "She was nothing more than a mere good-tempered, civil and obliging
 young woman; as such we could scarcely dislike her...she was only
 an object of contempt."  Is not that something like the first faint
-line in the figure of [[Fanny Price]]?  When a loud knocking is heard
+line in the figure of [[characters/fanny-price|Fanny Price]]?  When a loud knocking is heard
 on the door of the Rustic Cot by the Uske, the heroine's father
-enquires the [[Nature|nature]] of the noise, and by cautious steps of inference
+enquires the [[concepts/nature|nature]] of the noise, and by cautious steps of inference
 they are enabled to define it as somebody outside striking the door.
 
 "'Yes (exclaimed I) I cannot help thinking it must be somebody
@@ -438,10 +438,10 @@ the unmistakable voice of Mr. Bennett?
 But there is a larger and critical reason for taking pleasure
 in the gaiety of these various travesties and trifles.
 Mr. Austen Leigh seems to have thought them not sufficiently
-serious for the reputation of his great relative; but [[Greatness|greatness]]
+serious for the reputation of his great relative; but [[concepts/greatness|greatness]]
 is not made up of serious things, in the sense of solemn things.
 The reason here, however, is as serious as even he or anyone else
-could [[Desire|desire]]; for it concerns the fundamental quality of one of
+could [[motifs/desire|desire]]; for it concerns the fundamental quality of one of
 the finest talents in letters.
 
 A very real psychological interest, almost amounting to a
@@ -451,39 +451,39 @@ sufficiently emphasised.  Great as she was, nobody was likely
 to maintain that she was a poet.  But she was a marked
 example of what is said of the poet; she was born, not made.
 As compared with her, indeed, some of the poets really were made.
-Many men who had the air of setting the world on [[Fire|fire]] have left
-at least a reasonable discussion about what set them on [[Fire|fire]].
+Many men who had the air of setting the world on [[motifs/fire|fire]] have left
+at least a reasonable discussion about what set them on [[motifs/fire|fire]].
 Men like Coleridge or Carlyle had certainly kindled their first
 torches from the flambeaux of equally fantastic German mystics or
 Platonic speculators; they had gone through furnaces of culture where even
 less creative people might have been inflamed to creation.  Jane Austen
 was not inflamed or inspired or even moved to be a genius; she simply
-was a genius.  Her [[Fire|fire]], what there was of it, began with herself;
-like the [[Fire|fire]] of the first man who rubbed two dry sticks together.
+was a genius.  Her [[motifs/fire|fire]], what there was of it, began with herself;
+like the [[motifs/fire|fire]] of the first man who rubbed two dry sticks together.
 Some would say that they were very dry sticks which she rubbed together.
 It is certain that she by her own artistic talent made interesting
 what thousands of superficially similar people would have made dull.
 There was nothing in her circumstances, or even in her materials,
-that seems obviously meant for the making of such an [[Artist|artist]].
+that seems obviously meant for the making of such an [[archetypes/artist|artist]].
 It might seem a very wild use of the wrong word to say that Jane Austen
 was elemental.  It might even seem even a little wanton to insist
 that she was original.  Yet this objection would come from the critic
 not really considering what is meant by an element or an origin.
-Perhaps it might be as [[Well|well]] expressed in what is really meant
+Perhaps it might be as [[motifs/well|well]] expressed in what is really meant
 by an individual.  Her ability is an absolute; it cannot be
 analysed into influences.  She had been compared to Shakespeare;
 and in this sense she really does recall the joke about the man
 who said he could write like Shakespeare if he had the mind.
 In this case we seem to see a thousand spinsters sitting at
-a thousand tea-tables; and they could all have written "[[Emma]]"
+a thousand tea-tables; and they could all have written "[[works/emma-(austen)|Emma]]"
 if they had had the mind.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Poiché "[[Love|Amore]] e amicizia", con alcuni passi analoghi nei
+Poiché "[[motifs/love|Amore]] e amicizia", con alcuni passi analoghi nei
 frammenti che l'accompagnano, è davvero una spassosa parodia; qualcosa di
-assai migliore di ciò che le dame del [[Time|tempo]] chiamavano una gradevole
+assai migliore di ciò che le dame del [[motifs/time|tempo]] chiamavano una gradevole
 chiacchierina. È una di quelle cose che si possono leggere con tanto più
 diletto in quanto furono scritte con diletto; in altre parole, è tanto
 migliore per il fatto d'essere giovanile nel senso d'essere gioiosa. Si
@@ -492,14 +492,14 @@ evidentemente nel medesimo spirito con cui si redige una rivista di
 famiglia; poiché i medaglioni inclusi nel manoscritto erano opera della
 sorella Cassandra. L'intera cosa è piena di quella sorta di allegria che è
 sempre più alta in privato che in pubblico; come la gente ride più forte
-nella [[house|casa]] che nella strada. Molti dei suoi ammiratori non se lo
+nella casa che nella strada. Molti dei suoi ammiratori non se lo
 aspetterebbero, forse molti dei suoi ammiratori non ammirerebbero, la sorta
 di spasso che si trova nella lettera della giovane dama "i cui sentimenti
 erano troppo forti per il suo giudizio", e che osserva incidentalmente "Ho
 assassinato mio padre in un'epoca assai precoce della mia vita, da allora
 ho assassinato mia madre, e ora sto per assassinare mia sorella".
 Personalmente la trovo ammirevole; non la condotta, ma la confessione. Ma
-vi è molto più che ilarità nell'[[Humour|umorismo]], anche in questo stadio
+vi è molto più che ilarità nell'umorismo, anche in questo stadio
 della sua crescita. Vi è quasi dappertutto una certa nitidezza nel
 nonsenso. Vi è non poco della vera ironia austeniana. "Il nobile Giovinetto
 ci informò che il suo nome era Lindsay... per particolari ragioni, tuttavia,
@@ -508,9 +508,9 @@ sparisse nel cestino della carta straccia? "Non era nulla di più che una
 mera giovane donna di buon carattere, cortese e compiacente; come tale a
 malapena potevamo provare antipatia per lei... era soltanto un oggetto di
 disprezzo." Non è forse questo qualcosa come il primo tenue tratto nella
-figura di [[Fanny Price]]? Quando un forte bussare si ode alla porta della
+figura di [[characters/fanny-price|Fanny Price]]? Quando un forte bussare si ode alla porta della
 Casetta Rustica presso l'Uske, il padre dell'eroina domanda la
-[[Nature|natura]] del rumore, e per caute tappe di inferenza essi giungono a
+[[concepts/nature|natura]] del rumore, e per caute tappe di inferenza essi giungono a
 definirlo come qualcuno che dal di fuori percuote la porta.
 
 "'Sì (esclamai io) non posso fare a meno di pensare che debba essere
@@ -527,9 +527,9 @@ Bennett?
 Ma vi è una ragione più ampia e critica per trarre piacere dalla gaiezza
 di questi vari travestimenti e bagattelle. Il signor Austen Leigh pare
 averle giudicate non abbastanza serie per la reputazione della sua grande
-parente; ma la [[Greatness|grandezza]] non è fatta di cose serie, nel senso
+parente; ma la [[concepts/greatness|grandezza]] non è fatta di cose serie, nel senso
 di cose solenni. La ragione qui, tuttavia, è seria quanto egli o chiunque
-altro potrebbe [[Desire|desiderare]]; poiché riguarda la qualità
+altro potrebbe [[motifs/desire|desiderare]]; poiché riguarda la qualità
 fondamentale di uno dei più raffinati talenti delle lettere.
 
 Un interesse psicologico assai reale, che quasi arriva a un mistero
@@ -546,24 +546,24 @@ platonici altrettanto fantastici; erano passati attraverso fornaci di
 cultura in cui persone anche meno creative avrebbero potuto essere
 infiammate alla creazione. Jane Austen non fu infiammata né ispirata né
 persino mossa a essere un genio; ella semplicemente era un genio. Il suo
-[[Fire|fuoco]], per quanto ve ne fosse, cominciava con lei stessa; come il
-[[Fire|fuoco]] del primo uomo che sfregò insieme due bastoncini secchi.
+[[motifs/fire|fuoco]], per quanto ve ne fosse, cominciava con lei stessa; come il
+[[motifs/fire|fuoco]] del primo uomo che sfregò insieme due bastoncini secchi.
 Qualcuno direbbe che erano bastoncini assai secchi quelli che ella sfregò
 insieme. È certo che ella, per proprio talento artistico, rese interessante
 ciò che migliaia di persone superficialmente simili avrebbero reso
 insipido. Non vi era nulla nelle sue circostanze, e neppure nei suoi
 materiali, che sembri manifestamente destinato alla formazione di un simile
-[[Artist|artista]]. Potrebbe sembrare un uso assai avventato della parola
+[[archetypes/artist|artista]]. Potrebbe sembrare un uso assai avventato della parola
 sbagliata dire che Jane Austen fosse elementare. Potrebbe persino sembrare
 un po' arbitrario insistere che ella fosse originale. Eppure questa obiezione
 verrebbe dal critico che non considera realmente cosa si intenda per elemento
-o per origine. Forse la si potrebbe esprimere altrettanto [[Well|bene]] in ciò
+o per origine. Forse la si potrebbe esprimere altrettanto [[motifs/well|bene]] in ciò
 che realmente si intende per individuo. La sua capacità è un assoluto; non
 può essere scomposta in influenze. È stata paragonata a Shakespeare; e in
 questo senso ella richiama davvero la burla dell'uomo che diceva di saper
 scrivere come Shakespeare, se solo ne avesse avuto l'ingegno. In questo caso
 ci sembra di vedere un migliaio di zitelle sedute a un migliaio di tavolini
-da tè; e tutte avrebbero potuto scrivere "[[Emma]]" se solo ne avessero
+da tè; e tutte avrebbero potuto scrivere "[[works/emma-(austen)|Emma]]" se solo ne avessero
 avuto l'ingegno.
 
 
@@ -572,7 +572,7 @@ avuto l'ingegno.
 
 
 There is therefore, in considering even her crudest early experiments,
-the interest of looking at a mind and not at a [[Mirror|mirror]].
+the interest of looking at a mind and not at a [[motifs/mirror|mirror]].
 She may not be conscious of being herself; but she is not, like so
 many more cultivated imitators, conscious of being somebody else.
 The force, at its first and feeblest, is coming from within and not merely
@@ -582,11 +582,11 @@ is the first of the reasons that justify a study of her juvenile works;
 it is an interest in the psychology of the artistic vocation.
 I will not say of the artistic temperament; for nobody ever had less
 of the tiresome thing commonly so described than Jane Austen.
-But while this [[Alone|alone]] would be a reason for finding out how her work began,
+But while this alone would be a reason for finding out how her work began,
 it becomes yet more relevant when we have found out how it did begin.
 This is something more than the discovery of a document;
 it is the discovery of an inspiration.  And that inspiration was
-the inspiration of Gargantua and of [[Pickwick]]; it was the gigantic
+the inspiration of Gargantua and of [[works/pickwick-(chesterton)|Pickwick]]; it was the gigantic
 inspiration of laughter.
 
 If it seemed odd to call her elemental, it may seem equally
@@ -599,7 +599,7 @@ She was the very reverse of a starched or a starved spinster;
 she could have been a buffoon like the Wife of Bath if she chose.
 This is what gives an infallible force to her irony.
 This is what gives a stunning weight to her understatements.
-At the back of this [[Artist|artist]] also, counted as passionless,
+At the back of this [[archetypes/artist|artist]] also, counted as passionless,
 there was passion; but her original passion was a sort of joyous
 scorn and a fighting spirit against all that she regarded
 as morbid and lax and poisonously silly.  The weapons she forged
@@ -612,19 +612,19 @@ the romantics, is very much concerned with rebuking them for the very
 thing for which revolutionary sentiment has so much admired them;
 as for their glorification of ingratitude to parents and their easy
 assumption that the old are always wrong.  "No!" says the noble
-Youth in "[[Love]] and Freindship," "never shall it be said that I
-obliged my father!"  And the other is that there is not a [[Shadow|shadow]]
+Youth in "[[motifs/love|Love]] and Freindship," "never shall it be said that I
+obliged my father!"  And the other is that there is not a [[archetypes/shadow|shadow]]
 of indication anywhere that this independent intellect and laughing
 spirit was other than contented with a narrow domestic routine,
 in which she wrote a story as domestic as a diary in the intervals
-of pies and puddings, without so much as looking out of the [[Window|window]]
-to notice the [[French Revolution]].
+of pies and puddings, without so much as looking out of the [[motifs/window|window]]
+to notice the [[historical-references/french-revolution|French Revolution]].
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Vi è dunque, anche nel considerare i suoi più rozzi esperimenti giovanili,
-l'interesse di guardare una mente e non uno [[Mirror|specchio]].
+l'interesse di guardare una mente e non uno [[motifs/mirror|specchio]].
 Può darsi che non sia consapevole di essere se stessa; ma non è, come tanti
 imitatori più colti, consapevole di essere qualcun altro.
 La forza, al suo primo e più fioco apparire, viene da dentro e non soltanto
@@ -634,11 +634,11 @@ dotato di un istinto superiore per l'intelligente critica della vita,
 è un interesse per la psicologia della vocazione artistica.
 Non dirò del temperamento artistico; perché nessuno ebbe mai meno
 di quella noiosa cosa comunemente così chiamata di quanto ne avesse Jane Austen.
-Ma se questo [[Alone|soltanto]] sarebbe una ragione per scoprire come cominciò il suo lavoro,
+Ma se questo soltanto sarebbe una ragione per scoprire come cominciò il suo lavoro,
 diventa ancor più pertinente quando abbiamo scoperto come cominciò davvero.
 Questa è qualcosa di più della scoperta di un documento;
 è la scoperta di un'ispirazione.  E quell'ispirazione era
-l'ispirazione di Gargantua e di [[Pickwick]]; era la gigantesca
+l'ispirazione di Gargantua e di [[works/pickwick-(chesterton)|Pickwick]]; era la gigantesca
 ispirazione della risata.
 
 Se parve strano chiamarla elementare, potrà parere altrettanto
@@ -651,7 +651,7 @@ Era l'esatto contrario di una zitella inamidata o affamata;
 avrebbe potuto essere una buffona come la Comare di Bath, se avesse scelto.
 È questo che dà una forza infallibile alla sua ironia.
 È questo che dà un peso sbalorditivo alle sue litoti.
-Anche in fondo a questa [[Artist|artista]], reputata senza passioni,
+Anche in fondo a questa [[archetypes/artist|artista]], reputata senza passioni,
 c'era passione; ma la sua passione originaria era una sorta di gioioso
 disprezzo e uno spirito combattivo contro tutto ciò che riteneva
 morboso e lasso e velenosamente sciocco.  Le armi che forgiò
@@ -664,10 +664,10 @@ i romantici, si preoccupa moltissimo di rimproverarli proprio per la cosa
 per cui il sentimento rivoluzionario tanto li ha ammirati;
 cioè per la loro glorificazione dell'ingratitudine verso i genitori e per la loro comoda
 presunzione che i vecchi abbiano sempre torto.  «No!» dice il nobile
-Giovane in «[[Love|Amore]] e Amicizia», «mai si dovrà dire che io
-abbia fatto un favore a mio padre!»  E l'altro è che non v'è [[Shadow|ombra]]
+Giovane in «[[motifs/love|Amore]] e Amicizia», «mai si dovrà dire che io
+abbia fatto un favore a mio padre!»  E l'altro è che non v'è [[archetypes/shadow|ombra]]
 d'indizio in alcun luogo che questo intelletto indipendente e spirito ridente
 fosse altro che appagato di una angusta routine domestica,
 in cui scriveva una storia domestica come un diario negli intervalli
-di torte e budini, senza nemmeno affacciarsi alla [[Window|finestra]]
-per notare la [[French Revolution|Rivoluzione francese]].
+di torte e budini, senza nemmeno affacciarsi alla [[motifs/window|finestra]]
+per notare la [[historical-references/french-revolution|Rivoluzione francese]].

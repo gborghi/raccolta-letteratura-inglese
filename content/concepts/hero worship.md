@@ -14,4 +14,10 @@ Carlyle's doctrine, examined at length, that reverence for great men is a health
 
 <div class="concept-works" data-slug="concepts/hero-worship"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+
+</div>
+
 #graph/concept

@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/brigadier-gerard"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-adventures-of-gerard-(conan-doyle)|The Adventures of Gerard (Conan Doyle)]]
+- [[works/the-exploits-of-brigadier-gerard-(conan-doyle)|The Exploits of Brigadier Gerard (Conan Doyle)]]
+
+</div>
+
 #graph/character

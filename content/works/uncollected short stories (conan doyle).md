@@ -21,7 +21,7 @@ tags:
   - archetype/trickster
   - archetype/fool
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Domestic and Social Fiction · Romantic Love · Class]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/domestic-and-social-fiction-·-romantic-love-·-class|Domestic and Social Fiction · Romantic Love · Class]]
 
 > [!abstract] 
 > A gathering of miscellaneous Doyle short stories spanning comic hoaxes, ghostly and supernatural tales, and crime narratives, including the comic 'The Parish Magazine' and the macabre cabman's-eye mystery 'The Cabman's Story', alongside a chronological list of his early uncollected fiction.
@@ -38,8 +38,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Short Story]], [[Satire]]
-**Themes & Concepts:** [[Deception]], [[Wit]], [[Crime and Punishment]], [[Money and Avarice]], [[Economics]]
-**Motifs:** [[Secrets]], [[Money and Gold]], [[Supernatural]]
-**Settings:** [[London]]
-**Archetypes:** [[Trickster]], [[Fool]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/satire|Satire]]
+**Themes & Concepts:** [[concepts/deception|Deception]], [[concepts/wit|Wit]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/secrets|Secrets]], [[motifs/money-and-gold|Money and Gold]], [[motifs/supernatural|Supernatural]]
+**Settings:** [[settings/london|London]]
+**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/fool|Fool]]

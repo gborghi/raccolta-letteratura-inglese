@@ -14,4 +14,10 @@ The celebrated English general whose long-hidden crime is exposed in 'The Sign o
 
 <div class="concept-works" data-slug="characters/arthur-st.-clare"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/innocence-(chesterton)|innocence (Chesterton)]]
+
+</div>
+
 #graph/character

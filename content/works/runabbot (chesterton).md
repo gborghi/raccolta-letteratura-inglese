@@ -34,7 +34,7 @@ tags:
 
 # runabbot
 
-*by Chesterton*  ·  **Cluster:** [[Grace and Redemption · Humility · Bread and Wine Eucharist]]
+*by Chesterton*  ·  **Cluster:** [[clusters/grace-and-redemption-·-humility-·-bread-and-wine-eucharist|Grace and Redemption · Humility · Bread and Wine Eucharist]]
 
 > [!abstract] 
 > A biographical narrative of the young Thomas Aquinas refusing rank to become a humble Friar, kidnapped by his noble brothers and resisting temptation. Themes of vocation, humility, and the medieval clash of pride and sanctity.
@@ -54,17 +54,17 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Martyr Saint]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]]
 
-**Topoi:** [[Contemptus Mundi]]
+**Topoi:** [[topoi/contemptus-mundi|Contemptus Mundi]]
 
-**Characters:** [[Thomas Aquinas]], [[Count Landulf]]
+**Characters:** [[historical-references/thomas-aquinas|Thomas Aquinas]], [[characters/count-landulf|Count Landulf]]
 
-**Motifs:** [[Fire]], [[Cross]], [[Imprisonment (2)]], [[Journey]]
-**Themes & Concepts:** [[Humility]], [[Temptation]], [[Pride]], [[Renunciation]], [[Poverty]], [[Conformity vs Individualism]], [[Ambition]]
-**Forms & Genres:** [[Biography]], [[Nonfiction]]
-**Historical References:** [[Catholic Church]]
-**Settings:** [[Medieval England (2)]], [[Italy]], [[Castle]], [[Paris]], [[Europe]]
+**Motifs:** [[motifs/fire|Fire]], [[motifs/cross|Cross]], [[motifs/imprisonment-(2)|Imprisonment (2)]], [[motifs/journey|Journey]]
+**Themes & Concepts:** [[concepts/humility|Humility]], [[concepts/temptation|Temptation]], [[concepts/pride|Pride]], [[concepts/renunciation|Renunciation]], [[concepts/poverty|Poverty]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/ambition|Ambition]]
+**Forms & Genres:** [[forms/biography|Biography]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/catholic-church|Catholic Church]]
+**Settings:** [[settings/medieval-england-(2)|Medieval England (2)]], [[settings/italy|Italy]], [[settings/castle|Castle]], [[settings/paris|Paris]], [[settings/europe|Europe]]
 
 ## Testo integrale / Full text
 

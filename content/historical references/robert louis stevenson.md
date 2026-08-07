@@ -14,4 +14,14 @@ tags:
 
 <div class="concept-works" data-slug="historical-references/robert-louis-stevenson"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/nightmare-(chesterton)|nightmare (Chesterton)]]
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+- [[works/all-i-survey-(chesterton)|All I Survey (Chesterton)]]
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+- [[works/the-future-of-canadian-literature-(conan-doyle)|The Future of Canadian Literature (Conan Doyle)]]
+
+</div>
+
 #graph/histref

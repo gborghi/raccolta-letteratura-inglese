@@ -14,13 +14,13 @@ tags:
 <span class="atom-split" data-atom="songs_of_education125" data-title="Songs of Education125" data-chapter="" data-kind="intro"></span>
 
 
-[[songs|SONGS]] OF [[Education|EDUCATION]]  
+SONGS OF [[concepts/education|EDUCATION]]  
 Gilbert Keith Chesterton  
 
-I. [[history|HISTORY]]  
+I. [[concepts/history|HISTORY]]  
 Form 991785, Sub-Section D  
 
-The Roman threw us a [[Road|road]], a [[Road|road]],  
+The Roman threw us a [[motifs/road|road]], a [[motifs/road|road]],  
 And sighed and strolled away:  
 The Saxon gave us a raid, a raid,  
 A raid that came to stay;  
@@ -36,7 +36,7 @@ Though Sussex hills are bare, are bare,
 And Sussex weald is wide,  
 From Chichester to Chester  
 Men saw the Norman ride;  
-He threw his [[Sword|sword]] in the air and sang  
+He threw his sword in the air and sang  
 To a sort of a light guitar;  
 It was all the same, for we all became  
 The identical nobs we are.  
@@ -46,7 +46,7 @@ Unmistakable nobs we are.
 
 The people lived on the land, the land,  
 They pottered about and prayed;  
-They built a [[Cathedral|cathedral]] here and there  
+They built a [[settings/cathedral|cathedral]] here and there  
 Or went on a small crusade:  
 Till the bones of Becket were bundled out  
 For the fun of a fat White Czar,  
@@ -62,7 +62,7 @@ And Birmingham grew so big, so big,
 And Stratford stayed so small.  
 Till the hooter howled to the morning lark  
 That sang to the morning star:  
-And we all became, in [[Freedom|freedom]]'s name,  
+And we all became, in [[concepts/freedom|freedom]]'s name,  
 The fortunate chaps we are.  
 
 The fortunate chaps, felicitous chaps,  
@@ -95,7 +95,7 @@ Where some natives were known as the Knights of St. John.
 
 Then Cyprus, and east to the Suez Canal,  
 That was conquered by Dizzy and Rothschild his pal  
-With the [[Sword]] of the Lord in the old English way:  
+With the [[works/sword-(chesterton)|Sword]] of the Lord in the old English way:  
 And that is the meaning of Empire Day.  
 
 Our principal imports come far as Cape Horn;  
@@ -112,8 +112,8 @@ At the ends of the earth are delivered intact:
 Our soap or our salmon can travel in tins  
 Between the two poles and as like as two pins;  
 So that Lancashire merchants whenever they like  
-Can [[Water|water]] the beer of a man in Klondike  
-Or [[Poison|poison]] the meat of a man in Bombay;  
+Can [[motifs/water|water]] the beer of a man in Klondike  
+Or [[motifs/poison|poison]] the meat of a man in Bombay;  
 And that is the meaning of Empire Day.  
 
 The day of St. George is a musty affair  
@@ -158,19 +158,19 @@ The examiner or his clerks,
 Where you can square the circle or the man that gives the marks.  
 Where you hide in the cellar and then look down  
 On the poets that live in the attics;  
-For the whole of the [[house]] is upside down  
+For the whole of the house is upside down  
 In the Higher Mathematics.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[songs|CANTI]] DELL'[[Education|EDUCAZIONE]]  
+CANTI DELL'[[concepts/education|EDUCAZIONE]]  
 Gilbert Keith Chesterton  
 
-I. [[history|STORIA]]  
+I. [[concepts/history|STORIA]]  
 Modulo 991785, Sottosezione D  
 
-Il Romano ci gettò una [[Road|strada]], una [[Road|strada]],  
+Il Romano ci gettò una [[motifs/road|strada]], una [[motifs/road|strada]],  
 sospirò e se ne andò a spasso:  
 il Sassone ci diede un'incursione, un'incursione,  
 un'incursione venuta per restare;  
@@ -186,7 +186,7 @@ Benché i colli del Sussex siano brulli, siano brulli,
 e ampia sia la boscaglia del Sussex,  
 da Chichester fino a Chester  
 gli uomini videro cavalcare il Normanno;  
-gettò in aria la sua [[Sword|spada]] e cantò  
+gettò in aria la sua spada e cantò  
 al suono d'una specie di lieve chitarra;  
 fu tutto uguale, ché tutti diventammo  
 gli identici signorotti che siamo.  
@@ -196,7 +196,7 @@ gli inconfondibili signorotti che siamo.
 
 Il popolo viveva sulla terra, la terra,  
 gingillandosi e pregando;  
-costruiva una [[Cathedral|cattedrale]] qua e là  
+costruiva una [[settings/cathedral|cattedrale]] qua e là  
 o partiva per una piccola crociata:  
 finché le ossa di Becket furon buttate fuori  
 per lo spasso d'un grasso Zar Bianco,  
@@ -212,7 +212,7 @@ e Birmingham crebbe così grande, così grande,
 e Stratford rimase così piccola.  
 Finché la sirena urlò all'allodola mattutina  
 che cantava alla stella del mattino:  
-e tutti diventammo, in nome della [[Freedom|libertà]],  
+e tutti diventammo, in nome della [[concepts/freedom|libertà]],  
 i fortunati compari che siamo.  
 
 I fortunati compari, i felici compari,  
@@ -245,7 +245,7 @@ dove certi nativi eran detti i Cavalieri di San Giovanni.
 
 Poi Cipro, e a oriente fino al Canale di Suez,  
 conquistato da Dizzy e dal suo compare Rothschild  
-con la [[Sword|Spada]] del Signore alla vecchia maniera inglese:  
+con la Spada del Signore alla vecchia maniera inglese:  
 ed è questo il significato del Giorno dell'Impero.  
 
 Le nostre importazioni principali giungon fino a Capo Horn;  
@@ -262,8 +262,8 @@ ai confini della terra sono consegnate intatte:
 il nostro sapone o il nostro salmone viaggiano in scatola  
 tra i due poli e uguali come due gocce d'acqua;  
 sicché i mercanti del Lancashire, quando vogliono,  
-possono [[Water|annacquare]] la birra d'un uomo nel Klondike  
-o [[Poison|avvelenare]] la carne d'un uomo a Bombay;  
+possono [[motifs/water|annacquare]] la birra d'un uomo nel Klondike  
+o [[motifs/poison|avvelenare]] la carne d'un uomo a Bombay;  
 ed è questo il significato del Giorno dell'Impero.  
 
 Il giorno di San Giorgio è una faccenda ammuffita  
@@ -308,7 +308,7 @@ l'esaminatore o i suoi scrivani,
 dove puoi quadrare il cerchio o l'uomo che assegna i voti.  
 Dove ti nascondi in cantina e poi guardi dall'alto  
 i poeti che vivono nelle soffitte;  
-ché tutta la [[house|casa]] è sottosopra  
+ché tutta la casa è sottosopra  
 nella Matematica Superiore.
 
 
@@ -316,13 +316,13 @@ nella Matematica Superiore.
 <span class="atom-split" data-atom="part--part_01" data-title="songs (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/poison,motif/road,motif/water,concept/education,concept/freedom,concept/history,form/history,setting/cathedral"></span>
 
 
-[[songs|SONGS]] OF [[Education|EDUCATION]]  
+SONGS OF [[concepts/education|EDUCATION]]  
 Gilbert Keith Chesterton  
 
-I. [[history|HISTORY]]  
+I. [[concepts/history|HISTORY]]  
 Form 991785, Sub-Section D  
 
-The Roman threw us a [[Road|road]], a [[Road|road]],  
+The Roman threw us a [[motifs/road|road]], a [[motifs/road|road]],  
 And sighed and strolled away:  
 The Saxon gave us a raid, a raid,  
 A raid that came to stay;  
@@ -338,7 +338,7 @@ Though Sussex hills are bare, are bare,
 And Sussex weald is wide,  
 From Chichester to Chester  
 Men saw the Norman ride;  
-He threw his [[Sword|sword]] in the air and sang  
+He threw his sword in the air and sang  
 To a sort of a light guitar;  
 It was all the same, for we all became  
 The identical nobs we are.  
@@ -348,7 +348,7 @@ Unmistakable nobs we are.
 
 The people lived on the land, the land,  
 They pottered about and prayed;  
-They built a [[Cathedral|cathedral]] here and there  
+They built a [[settings/cathedral|cathedral]] here and there  
 Or went on a small crusade:  
 Till the bones of Becket were bundled out  
 For the fun of a fat White Czar,  
@@ -364,7 +364,7 @@ And Birmingham grew so big, so big,
 And Stratford stayed so small.  
 Till the hooter howled to the morning lark  
 That sang to the morning star:  
-And we all became, in [[Freedom|freedom]]'s name,  
+And we all became, in [[concepts/freedom|freedom]]'s name,  
 The fortunate chaps we are.  
 
 The fortunate chaps, felicitous chaps,  
@@ -397,7 +397,7 @@ Where some natives were known as the Knights of St. John.
 
 Then Cyprus, and east to the Suez Canal,  
 That was conquered by Dizzy and Rothschild his pal  
-With the [[Sword]] of the Lord in the old English way:  
+With the [[works/sword-(chesterton)|Sword]] of the Lord in the old English way:  
 And that is the meaning of Empire Day.  
 
 Our principal imports come far as Cape Horn;  
@@ -414,8 +414,8 @@ At the ends of the earth are delivered intact:
 Our soap or our salmon can travel in tins  
 Between the two poles and as like as two pins;  
 So that Lancashire merchants whenever they like  
-Can [[Water|water]] the beer of a man in Klondike  
-Or [[Poison|poison]] the meat of a man in Bombay;  
+Can [[motifs/water|water]] the beer of a man in Klondike  
+Or [[motifs/poison|poison]] the meat of a man in Bombay;  
 And that is the meaning of Empire Day.  
 
 The day of St. George is a musty affair  
@@ -460,19 +460,19 @@ The examiner or his clerks,
 Where you can square the circle or the man that gives the marks.  
 Where you hide in the cellar and then look down  
 On the poets that live in the attics;  
-For the whole of the [[house]] is upside down  
+For the whole of the house is upside down  
 In the Higher Mathematics.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[songs|CANTI]] DELL'[[Education|EDUCAZIONE]]  
+CANTI DELL'[[concepts/education|EDUCAZIONE]]  
 Gilbert Keith Chesterton  
 
-I. [[history|STORIA]]  
+I. [[concepts/history|STORIA]]  
 Modulo 991785, Sottosezione D  
 
-Il Romano ci gettò una [[Road|strada]], una [[Road|strada]],  
+Il Romano ci gettò una [[motifs/road|strada]], una [[motifs/road|strada]],  
 sospirò e se ne andò a spasso:  
 il Sassone ci diede un'incursione, un'incursione,  
 un'incursione venuta per restare;  
@@ -488,7 +488,7 @@ Benché i colli del Sussex siano brulli, siano brulli,
 e ampia sia la boscaglia del Sussex,  
 da Chichester fino a Chester  
 gli uomini videro cavalcare il Normanno;  
-gettò in aria la sua [[Sword|spada]] e cantò  
+gettò in aria la sua spada e cantò  
 al suono d'una specie di lieve chitarra;  
 fu tutto uguale, ché tutti diventammo  
 gli identici signorotti che siamo.  
@@ -498,7 +498,7 @@ gli inconfondibili signorotti che siamo.
 
 Il popolo viveva sulla terra, la terra,  
 gingillandosi e pregando;  
-costruiva una [[Cathedral|cattedrale]] qua e là  
+costruiva una [[settings/cathedral|cattedrale]] qua e là  
 o partiva per una piccola crociata:  
 finché le ossa di Becket furon buttate fuori  
 per lo spasso d'un grasso Zar Bianco,  
@@ -514,7 +514,7 @@ e Birmingham crebbe così grande, così grande,
 e Stratford rimase così piccola.  
 Finché la sirena urlò all'allodola mattutina  
 che cantava alla stella del mattino:  
-e tutti diventammo, in nome della [[Freedom|libertà]],  
+e tutti diventammo, in nome della [[concepts/freedom|libertà]],  
 i fortunati compari che siamo.  
 
 I fortunati compari, i felici compari,  
@@ -547,7 +547,7 @@ dove certi nativi eran detti i Cavalieri di San Giovanni.
 
 Poi Cipro, e a oriente fino al Canale di Suez,  
 conquistato da Dizzy e dal suo compare Rothschild  
-con la [[Sword|Spada]] del Signore alla vecchia maniera inglese:  
+con la Spada del Signore alla vecchia maniera inglese:  
 ed è questo il significato del Giorno dell'Impero.  
 
 Le nostre importazioni principali giungon fino a Capo Horn;  
@@ -564,8 +564,8 @@ ai confini della terra sono consegnate intatte:
 il nostro sapone o il nostro salmone viaggiano in scatola  
 tra i due poli e uguali come due gocce d'acqua;  
 sicché i mercanti del Lancashire, quando vogliono,  
-possono [[Water|annacquare]] la birra d'un uomo nel Klondike  
-o [[Poison|avvelenare]] la carne d'un uomo a Bombay;  
+possono [[motifs/water|annacquare]] la birra d'un uomo nel Klondike  
+o [[motifs/poison|avvelenare]] la carne d'un uomo a Bombay;  
 ed è questo il significato del Giorno dell'Impero.  
 
 Il giorno di San Giorgio è una faccenda ammuffita  
@@ -610,5 +610,5 @@ l'esaminatore o i suoi scrivani,
 dove puoi quadrare il cerchio o l'uomo che assegna i voti.  
 Dove ti nascondi in cantina e poi guardi dall'alto  
 i poeti che vivono nelle soffitte;  
-ché tutta la [[house|casa]] è sottosopra  
+ché tutta la casa è sottosopra  
 nella Matematica Superiore.

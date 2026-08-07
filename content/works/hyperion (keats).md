@@ -38,7 +38,7 @@ tags:
   - character/apollo
 ---
 
-*by Keats*  ·  **Cluster:** [[Crown · Pride · Fortune's Wheel]]
+*by Keats*  ·  **Cluster:** [[clusters/crown-·-pride-·-fortune's-wheel|Crown · Pride · Fortune's Wheel]]
 
 > [!abstract] 
 > Keats's unfinished blank-verse epic on the fall of the Titans and the rise of the Olympians, dramatizing a cosmic succession of powers where the fallen Saturn and Hyperion give way to a new order whose claim rests on superior beauty, and Apollo dies into godhead through knowledge and sorrow.
@@ -51,13 +51,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Ages of the World]], [[Paradise Lost]], [[Fortune's Wheel]], [[Sic Transit Gloria Mundi]], [[Golden Age]]
-**Archetypes:** [[Tragic Hero]], [[King]]
-**Motifs:** [[Sun]], [[Fire]], [[Light and Dark]], [[Silence]], [[Dreams]], [[Music and Song]]
-**Themes & Concepts:** [[Beauty]], [[Natural Order]], [[Order vs Chaos]], [[Melancholy]], [[Grief and Loss]], [[Sublime]], [[Power and Corruption]]
-**Forms & Genres:** [[Epic]], [[Blank Verse]], [[Fragment]]
-**Historical References:** [[Greek Mythology]], [[Classical Antiquity]]
-**Characters:** [[Prometheus]], [[Hyperion]], [[Saturn]], [[Apollo]]
+**Topoi:** [[topoi/ages-of-the-world|Ages of the World]], [[topoi/paradise-lost|Paradise Lost]], [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/golden-age|Golden Age]]
+**Archetypes:** [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/king|King]]
+**Motifs:** [[motifs/sun|Sun]], [[motifs/fire|Fire]], [[motifs/light-and-dark|Light and Dark]], [[motifs/silence|Silence]], [[motifs/dreams|Dreams]], [[motifs/music-and-song|Music and Song]]
+**Themes & Concepts:** [[concepts/beauty|Beauty]], [[concepts/natural-order|Natural Order]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/melancholy|Melancholy]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/sublime|Sublime]], [[concepts/power-and-corruption|Power and Corruption]]
+**Forms & Genres:** [[forms/epic|Epic]], [[forms/blank-verse|Blank Verse]], [[forms/fragment|Fragment]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/classical-antiquity|Classical Antiquity]]
+**Characters:** [[characters/prometheus|Prometheus]], [[characters/hyperion|Hyperion]], [[characters/saturn|Saturn]], [[characters/apollo|Apollo]]
 
 ## Testo integrale / Full text
 

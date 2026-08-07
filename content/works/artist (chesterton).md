@@ -42,7 +42,7 @@ tags:
 
 # artist
 
-*by Chesterton*  ·  **Cluster:** [[Maturation and Growth · Childhood · Innocence and Experience]]
+*by Chesterton*  ·  **Cluster:** [[clusters/maturation-and-growth-·-childhood-·-innocence-and-experience|Maturation and Growth · Childhood · Innocence and Experience]]
 
 > [!abstract] 
 > A comic narrative poem satirizing the aesthete and the cult of art-for-art's-sake, ending with a dream where Art unmakes the order of nature; defends childlike wonder and the simple love of created things.
@@ -53,15 +53,15 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Romantic Movement (Sensibility)]]
+**Historical References:** [[historical-references/romantic-movement-(sensibility)|Romantic Movement (Sensibility)]]
 
-**Settings:** [[Garden (2)]]
+**Settings:** [[settings/garden-(2)|Garden (2)]]
 
-**Topoi:** [[World Upside Down]], [[Fall from Innocence]], [[Locus Amoenus]]
-**Archetypes:** [[Child]], [[Artist]], [[Fool]], [[Wise Old Man Sage]]
-**Motifs:** [[Dreams]], [[Nature]], [[Childhood]], [[Flowers]], [[Moon]], [[Sun]], [[Sea]], [[Stars]], [[Sea and Voyage]]
-**Themes & Concepts:** [[Artist and Society]], [[Satire of Society]], [[Wonder and Gratitude]], [[Innocence and Experience]], [[Maturation and Growth]], [[Nature vs Civilization]], [[Order vs Chaos]], [[Critique of Progress]], [[Vanity]], [[Indolence]]
-**Forms & Genres:** [[Narrative Poem]], [[Satire]], [[Comic Verse Song]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/locus-amoenus|Locus Amoenus]]
+**Archetypes:** [[archetypes/child|Child]], [[archetypes/artist|Artist]], [[archetypes/fool|Fool]], [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
+**Motifs:** [[motifs/dreams|Dreams]], [[concepts/nature|Nature]], [[motifs/childhood|Childhood]], [[motifs/flowers|Flowers]], [[motifs/moon|Moon]], [[motifs/sun|Sun]], [[motifs/sea|Sea]], [[motifs/stars|Stars]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/satire-of-society|Satire of Society]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/vanity|Vanity]], [[concepts/indolence|Indolence]]
+**Forms & Genres:** [[forms/narrative-poem|Narrative Poem]], [[forms/satire|Satire]], [[forms/comic-verse-song|Comic Verse Song]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,11 @@ French dramatist of Cyrano de Bergerac and L'Aiglon credited with reviving 'hero
 
 <div class="concept-works" data-slug="characters/edmond-rostand"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+
+</div>
+
 #graph/character

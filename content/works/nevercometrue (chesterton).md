@@ -27,7 +27,7 @@ tags:
   - archetype/lover
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Dreams · Moon]]
+*by Chesterton*  ·  **Cluster:** [[clusters/dreams-·-moon|Dreams · Moon]]
 
 > [!abstract] 
 > A lyric song set on the dreamlike island of 'Nevercometrue', where the man and woman that might have been dance and wed; a melancholy meditation on the unlived life, lost love and longing for what never came true.
@@ -38,15 +38,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Lover]]
+**Archetypes:** [[archetypes/lover|Lover]]
 
-**Settings:** [[Island]]
+**Settings:** [[settings/island|Island]]
 
-**Topoi:** [[Unattainable Beloved]], [[Double]]
+**Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/double|Double]]
 
-**Motifs:** [[Dreams]], [[Music and Song]], [[Moon]], [[Flowers]], [[Garden]], [[Dance]], [[Marriage]]
-**Themes & Concepts:** [[Unrequited Frustrated Love]], [[Nostalgia]], [[Melancholy]], [[Romantic Love]], [[Longing]]
-**Forms & Genres:** [[Comic Verse Song]], [[Lyric]]
+**Motifs:** [[motifs/dreams|Dreams]], [[motifs/music-and-song|Music and Song]], [[motifs/moon|Moon]], [[motifs/flowers|Flowers]], [[motifs/garden|Garden]], [[motifs/dance|Dance]], [[motifs/marriage|Marriage]]
+**Themes & Concepts:** [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/nostalgia|Nostalgia]], [[concepts/melancholy|Melancholy]], [[concepts/romantic-love|Romantic Love]], [[concepts/longing|Longing]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

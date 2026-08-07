@@ -39,7 +39,7 @@ tags:
   - character/kate_percy
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Court · Medieval England · History Play]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/court-·-medieval-england-·-history-play|Court · Medieval England · History Play]]
 
 > [!abstract] 
 > A history play of rebellion against Henry IV, balancing the court and battlefield against the Eastcheap tavern world of Falstaff; it traces Prince Hal's education toward kingship, climaxing at Shrewsbury with the defeat of Hotspur.
@@ -69,14 +69,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Theatrum Mundi]], [[Fall from Innocence]]
-**Archetypes:** [[Fool]], [[King]], [[Rebel]]
-**Motifs:** [[Inn Tavern]], [[Wine and Drink]], [[Crown]], [[Honour (2)]]
-**Themes & Concepts:** [[Kingship and Legitimacy]], [[Honour]], [[Maturation and Growth]], [[Power and Corruption]], [[Appearance vs Reality]], [[History]]
-**Forms & Genres:** [[History Play]], [[Blank Verse]], [[Verse Drama]]
-**Historical References:** [[Medieval England]]
-**Settings:** [[Court]], [[Inn]], [[Battlefield]]
-**Characters:** [[Falstaff]], [[Henry IV]], [[Prince Hal]], [[Hotspur]], [[Earl of Worcester]], [[Owen Glendower]], [[Earl of Northumberland]], [[Kate Percy]]
+**Topoi:** [[topoi/theatrum-mundi|Theatrum Mundi]], [[topoi/fall-from-innocence|Fall from Innocence]]
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/king|King]], [[archetypes/rebel|Rebel]]
+**Motifs:** [[motifs/inn-tavern|Inn Tavern]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/crown|Crown]], [[motifs/honour-(2)|Honour (2)]]
+**Themes & Concepts:** [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/honour|Honour]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/history-play|History Play]], [[forms/blank-verse|Blank Verse]], [[forms/verse-drama|Verse Drama]]
+**Historical References:** [[historical-references/medieval-england|Medieval England]]
+**Settings:** [[settings/court|Court]], [[settings/inn|Inn]], [[settings/battlefield|Battlefield]]
+**Characters:** [[characters/falstaff|Falstaff]], [[characters/henry-iv|Henry IV]], [[characters/prince-hal|Prince Hal]], [[characters/hotspur|Hotspur]], [[characters/earl-of-worcester|Earl of Worcester]], [[characters/owen-glendower|Owen Glendower]], [[characters/earl-of-northumberland|Earl of Northumberland]], [[characters/kate-percy|Kate Percy]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ Chesterton's satirical stand-in for the faddish socialist idealist/reformer who 
 
 <div class="concept-works" data-slug="characters/hudge"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/whats-wrong-(chesterton)|whats wrong (Chesterton)]]
+
+</div>
+
 #graph/character

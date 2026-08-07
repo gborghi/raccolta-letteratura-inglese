@@ -24,20 +24,20 @@ tags:
   - setting/ancient_greece
 ---
 
-*by Poe*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
+*by Poe*  ·  **Cluster:** [[clusters/swords-and-weapons-·-power-and-corruption-·-tyrant|Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 
 > Translation from the Greek celebrating the tyrant-slayers of Athens, glorifying liberty, heroism, and the deathless fame of avengers.
 
 ## Connections
 
-**Topoi:** [[Immortality Through Verse]]
-**Archetypes:** [[Rebel]], [[Avenger]]
-**Motifs:** [[Swords and Weapons]], [[Blood]], [[Flowers]]
-**Themes & Concepts:** [[Heroism]], [[Immortality]], [[Honour]], [[Power and Corruption]]
-**Forms & Genres:** [[Hymn]], [[Ode]]
-**Historical References:** [[Ancient Greece]], [[Greek Mythology]]
-**Settings:** [[Ancient Greece (2)]]
+**Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]]
+**Archetypes:** [[archetypes/rebel|Rebel]], [[archetypes/avenger|Avenger]]
+**Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/blood|Blood]], [[motifs/flowers|Flowers]]
+**Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/immortality|Immortality]], [[concepts/honour|Honour]], [[concepts/power-and-corruption|Power and Corruption]]
+**Forms & Genres:** [[forms/hymn|Hymn]], [[forms/ode|Ode]]
+**Historical References:** [[historical-references/ancient-greece|Ancient Greece]], [[historical-references/greek-mythology|Greek Mythology]]
+**Settings:** [[settings/ancient-greece-(2)|Ancient Greece (2)]]
 
 ## Testo integrale / Full text
 

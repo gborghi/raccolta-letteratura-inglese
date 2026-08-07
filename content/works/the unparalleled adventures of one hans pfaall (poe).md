@@ -17,7 +17,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Poe*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A proto-science-fiction hoax-tale: a bankrupt Rotterdam bellows-mender escapes his debts by ballooning to the Moon, narrated with pseudo-scientific detail. Themes of the quest, the journey, satire and wonder.
@@ -57,11 +57,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Quest]]
-**Archetypes:** [[Trickster]]
-**Motifs:** [[Journey]], [[Moon]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Satire of Society]]
-**Forms & Genres:** [[Satire]], [[Short Story]]
+**Topoi:** [[topoi/quest|Quest]]
+**Archetypes:** [[archetypes/trickster|Trickster]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/moon|Moon]]
+**Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/satire-of-society|Satire of Society]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]
 
 ## Testo integrale / Full text
 

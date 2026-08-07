@@ -14,4 +14,10 @@ The charming, guilt-haunted exile whose past sins against his brother catch up w
 
 <div class="concept-works" data-slug="characters/prince-saradine"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/innocence-(chesterton)|innocence (Chesterton)]]
+
+</div>
+
 #graph/character

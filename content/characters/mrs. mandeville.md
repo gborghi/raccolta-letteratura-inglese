@@ -14,4 +14,10 @@ The outwardly saintly, self-pitying actress-wife in 'The Actor and the Alibi' wh
 
 <div class="concept-works" data-slug="characters/mrs.-mandeville"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/secret-fr-brown-(chesterton)|secret Fr Brown (Chesterton)]]
+
+</div>
+
 #graph/character

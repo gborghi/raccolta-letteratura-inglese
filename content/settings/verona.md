@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="settings/verona"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/romeo-and-juliet-(shakespeare)|ROMEO AND JULIET (Shakespeare)]]
+- [[works/the-two-gentlemen-of-verona-(shakespeare)|THE TWO GENTLEMEN OF VERONA (Shakespeare)]]
+
+</div>
+
 #graph/setting

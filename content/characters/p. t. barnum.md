@@ -14,4 +14,10 @@ Circus impresario cited as the archetype of vulgar commercial showmanship the po
 
 <div class="concept-works" data-slug="characters/p.-t.-barnum"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/unknown-warrior-(chesterton)|unknown-warrior (Chesterton)]]
+
+</div>
+
 #graph/character

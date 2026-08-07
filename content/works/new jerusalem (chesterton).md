@@ -71,7 +71,7 @@ tags:
 
 # New Jerusalem
 
-*by Chesterton*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
+*by Chesterton*  ·  **Cluster:** [[clusters/allegory-·-quest-·-pilgrim|Allegory · Quest · Pilgrim]]
 
 > [!abstract] 
 > A 1920 travel book recording Chesterton's journey to Palestine and Jerusalem, weaving impressions of the Holy City with meditations on Christianity, Islam, Judaism, the Crusades, Zionism and the meaning of the pilgrim's quest.
@@ -85,15 +85,15 @@ tags:
 
 ## Connections
 
-**Characters:** [[Christ]], [[Satan]], [[Saladin]], [[Godfrey de Bouillon]], [[Richard the Lionheart]], [[St. George]], [[Judas Iscariot]], [[Dr. Weizmann]]
+**Characters:** [[characters/christ|Christ]], [[characters/satan|Satan]], [[characters/saladin|Saladin]], [[characters/godfrey-de-bouillon|Godfrey de Bouillon]], [[characters/richard-the-lionheart|Richard the Lionheart]], [[characters/st.-george|St. George]], [[characters/judas-iscariot|Judas Iscariot]], [[characters/dr.-weizmann|Dr. Weizmann]]
 
-**Topoi:** [[Quest]], [[World Upside Down]], [[Combat Strife]], [[Last Stand]], [[Open Road Homecoming]]
-**Archetypes:** [[Pilgrim]], [[Prophet]], [[Tyrant]], [[Martyr Saint]]
-**Motifs:** [[Cross]], [[Snow]], [[Lion]], [[Crown]], [[Journey]], [[Dragon]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Nationalism and Patriotism]], [[Exile]], [[Paradox]], [[Slavery]], [[Democracy]], [[Fanaticism]], [[Class Conflict]], [[Supernatural (2)]], [[War and its Cost]], [[Distributism]], [[Money and Avarice]], [[Anti-Industrialism]], [[Zionism]], [[Economics]], [[History]]
-**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Apologetics]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Bible]], [[Crusades]], [[Eastern Religion Comparative Religion]], [[Islam]], [[Orient Arabia]], [[First World War]], [[French Revolution]], [[Ancient Rome]]
-**Settings:** [[Orient]], [[Desert]], [[Egypt]], [[Ancient Rome]], [[Paris]], [[London]], [[Europe]]
+**Topoi:** [[topoi/quest|Quest]], [[topoi/world-upside-down|World Upside Down]], [[topoi/combat-strife|Combat Strife]], [[topoi/last-stand|Last Stand]], [[topoi/open-road-homecoming|Open Road Homecoming]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]], [[archetypes/prophet|Prophet]], [[archetypes/tyrant|Tyrant]], [[archetypes/martyr-saint|Martyr Saint]]
+**Motifs:** [[motifs/cross|Cross]], [[motifs/snow|Snow]], [[motifs/lion|Lion]], [[motifs/crown|Crown]], [[motifs/journey|Journey]], [[motifs/dragon|Dragon]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/exile|Exile]], [[concepts/paradox|Paradox]], [[concepts/slavery|Slavery]], [[concepts/democracy|Democracy]], [[concepts/fanaticism|Fanaticism]], [[concepts/class-conflict|Class Conflict]], [[concepts/supernatural-(2)|Supernatural (2)]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/distributism|Distributism]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/zionism|Zionism]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/crusades|Crusades]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]], [[historical-references/islam|Islam]], [[historical-references/orient-arabia|Orient Arabia]], [[historical-references/first-world-war|First World War]], [[historical-references/french-revolution|French Revolution]], [[settings/ancient-rome|Ancient Rome]]
+**Settings:** [[settings/orient|Orient]], [[motifs/desert|Desert]], [[settings/egypt|Egypt]], [[settings/ancient-rome|Ancient Rome]], [[settings/paris|Paris]], [[settings/london|London]], [[settings/europe|Europe]]
 
 ## Testo integrale / Full text
 

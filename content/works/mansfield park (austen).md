@@ -33,7 +33,7 @@ tags:
   - character/maria_bertram
 ---
 
-*by Austen*  ·  **Cluster:** [[Social Novel (Novel of Manners)]]
+*by Austen*  ·  **Cluster:** [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]]
 
 > [!abstract] 
 > A novel of manners tracing poor relation Fanny Price's moral growth at her wealthy uncle's estate; themes of class, conscience, marriage, the contrast of true principle with worldly charm, and the maturation of an outsider.
@@ -49,12 +49,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Innocent]], [[Lover]]
-**Motifs:** [[Marriage]]
-**Themes & Concepts:** [[Marriage and Fidelity]], [[Class Conflict]], [[Conscience]], [[Temptation]], [[Maturation and Growth]], [[Humility]], [[Appearance vs Reality]], [[Romantic Love]], [[Satire of Society]], [[Economics]]
-**Forms & Genres:** [[Novel]], [[Social Novel (Novel of Manners)]], [[Bildungsroman]]
-**Settings:** [[Rural England]]
-**Characters:** [[Fanny Price]], [[Edmund Bertram]], [[Sir Thomas Bertram]], [[Henry Crawford]], [[Mary Crawford]], [[Mrs Norris]], [[Maria Bertram]]
+**Archetypes:** [[archetypes/innocent|Innocent]], [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/marriage|Marriage]]
+**Themes & Concepts:** [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/class-conflict|Class Conflict]], [[concepts/conscience|Conscience]], [[concepts/temptation|Temptation]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/humility|Humility]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/romantic-love|Romantic Love]], [[concepts/satire-of-society|Satire of Society]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/bildungsroman|Bildungsroman]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Characters:** [[characters/fanny-price|Fanny Price]], [[characters/edmund-bertram|Edmund Bertram]], [[characters/sir-thomas-bertram|Sir Thomas Bertram]], [[characters/henry-crawford|Henry Crawford]], [[characters/mary-crawford|Mary Crawford]], [[characters/mrs-norris|Mrs Norris]], [[characters/maria-bertram|Maria Bertram]]
 
 ## Testo integrale / Full text
 

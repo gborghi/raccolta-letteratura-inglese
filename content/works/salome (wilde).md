@@ -41,7 +41,7 @@ tags:
   - character/the_young_syrian
 ---
 
-*by Wilde*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
+*by Wilde*  ·  **Cluster:** [[clusters/blood-·-verse-drama-·-revenge|Blood · Verse Drama · Revenge]]
 
 > [!abstract] 
 > Wilde's one-act biblical tragedy in lyrical prose, dominated by the moon, the femme fatale's lust for the prophet Iokanaan, the dance of the seven veils, and the severed head, fusing desire and death.
@@ -89,14 +89,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Love as Religion]], [[Unattainable Beloved]], [[Memento Mori]]
-**Archetypes:** [[Femme Fatale]], [[Prophet]], [[Martyr Saint]], [[Tyrant]]
-**Motifs:** [[Moon]], [[Death]], [[Blood]], [[Desire]], [[White and Red]], [[Music and Song]], [[Eyes and Sight]]
-**Themes & Concepts:** [[Lust Sexual Desire]], [[Unrequited Frustrated Love]], [[Martyrdom]], [[Grotesque]], [[Temptation]], [[Revenge]]
-**Forms & Genres:** [[Tragedy]], [[Verse Drama]]
-**Historical References:** [[Bible]], [[Ancient Rome]]
-**Settings:** [[Orient]], [[Court]]
-**Characters:** [[Christ]], [[Salome]], [[Herod Antipas]], [[Iokanaan]], [[Herodias]], [[Young Syrian]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/memento-mori|Memento Mori]]
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/prophet|Prophet]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/tyrant|Tyrant]]
+**Motifs:** [[motifs/moon|Moon]], [[motifs/death|Death]], [[motifs/blood|Blood]], [[motifs/desire|Desire]], [[motifs/white-and-red|White and Red]], [[motifs/music-and-song|Music and Song]], [[motifs/eyes-and-sight|Eyes and Sight]]
+**Themes & Concepts:** [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/martyrdom|Martyrdom]], [[concepts/grotesque|Grotesque]], [[concepts/temptation|Temptation]], [[concepts/revenge|Revenge]]
+**Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/verse-drama|Verse Drama]]
+**Historical References:** [[historical-references/bible|Bible]], [[settings/ancient-rome|Ancient Rome]]
+**Settings:** [[settings/orient|Orient]], [[settings/court|Court]]
+**Characters:** [[characters/christ|Christ]], [[characters/salome|Salome]], [[characters/herod-antipas|Herod Antipas]], [[characters/iokanaan|Iokanaan]], [[characters/herodias|Herodias]], [[characters/young-syrian|Young Syrian]]
 
 ## Testo integrale / Full text
 

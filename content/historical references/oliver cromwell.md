@@ -14,4 +14,13 @@ Cited as proof that Calvinist assurance of salvation, not political events, was 
 
 <div class="concept-works" data-slug="historical-references/oliver-cromwell"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/mormonism-(chesterton)|Mormonism (Chesterton)]]
+- [[works/history-(chesterton)|history (Chesterton)]]
+- [[works/milton-(chesterton)|Milton (Chesterton)]]
+- [[works/micah-clarke-(conan-doyle)|Micah Clarke (Conan Doyle)]]
+
+</div>
+
 #graph/histref

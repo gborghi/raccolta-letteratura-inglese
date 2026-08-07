@@ -14,35 +14,35 @@ tags:
 <span class="atom-split" data-atom="praise_of_dust" data-title="praise_of_dust" data-chapter="" data-kind="intro"></span>
 
 
-# praise of [[Dust|dust]]
+# praise of [[motifs/dust|dust]]
 
-The Praise Of [[Dust]]  
+The Praise Of [[motifs/dust|Dust]]  
 
 G. K. Chesterton  
 
-"What of vile [[Dust|dust]]?" the preacher said.  
+"What of vile [[motifs/dust|dust]]?" the preacher said.  
 Methought the whole world woke,  
 The dead stone lived beneath my foot,  
-And my whole [[Body|body]] spoke.  
+And my whole [[concepts/body|body]] spoke.  
 
-"You, that play [[Tyrant|tyrant]] to the [[Dust|dust]],  
+"You, that play [[archetypes/tyrant|tyrant]] to the [[motifs/dust|dust]],  
 And stamp its wrinkled face,  
 This patient star that flings you not  
 Far into homeless space.  
 
 "Come down out of your dusty shrine  
-The living [[Dust|dust]] to see,  
-The [[Flowers|flowers]] that at your sermon's end  
+The living [[motifs/dust|dust]] to see,  
+The [[motifs/flowers|flowers]] that at your sermon's end  
 Stand blazing silently.  
 
-"Rich white and [[Blood|blood]]-red blossom; stones,  
-Lichens like [[Fire|fire]] encrust;  
+"Rich white and [[motifs/blood|blood]]-red blossom; stones,  
+Lichens like [[motifs/fire|fire]] encrust;  
 A gleam of blue, a glare of gold,  
-The vision of the [[Dust|dust]].  
+The vision of the [[motifs/dust|dust]].  
 
 "Pass them all by: till, as you come  
-Where, at a [[City|city]]'s edge,  
-Under a tree--I know it [[Well|well]]--  
+Where, at a [[motifs/city|city]]'s edge,  
+Under a tree--I know it [[motifs/well|well]]--  
 Under a lattice ledge,  
 
 "The sunshine falls on one brown head.  
@@ -53,40 +53,40 @@ The trumpets of that day
 "When God to all his paladins  
 By his own splendour swore  
 To make a fairer face than heaven,  
-Of [[Dust|dust]] and nothing more."
+Of [[motifs/dust|dust]] and nothing more."
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# lode della [[Dust|polvere]]
+# lode della [[motifs/dust|polvere]]
 
-La Lode Della [[Dust|Polvere]]  
+La Lode Della [[motifs/dust|Polvere]]  
 
 G. K. Chesterton
 
-«Che dire della vile [[Dust|polvere]]?» disse il predicatore.  
+«Che dire della vile [[motifs/dust|polvere]]?» disse il predicatore.  
 E mi parve che il mondo intero si destasse,  
 la pietra morta visse sotto il mio piede,  
-e tutto il mio [[Body|corpo]] parlò.  
+e tutto il mio [[concepts/body|corpo]] parlò.  
 
-«Tu, che fai il [[Tyrant|tiranno]] alla [[Dust|polvere]],  
+«Tu, che fai il [[archetypes/tyrant|tiranno]] alla [[motifs/dust|polvere]],  
 e ne calpesti il volto rugoso,  
 questa stella paziente che non ti scaglia  
 lontano nello spazio senza dimora.  
 
 «Scendi giù dal tuo polveroso santuario  
-a veder la [[Dust|polvere]] viva,  
-i [[Flowers|fiori]] che, finito il tuo sermone,  
+a veder la [[motifs/dust|polvere]] viva,  
+i [[motifs/flowers|fiori]] che, finito il tuo sermone,  
 stanno ardendo in silenzio.  
 
-«Ricchi fiori bianchi e rossi come [[Blood|sangue]]; pietre,  
-licheni che come [[Fire|fuoco]] incrostano;  
+«Ricchi fiori bianchi e rossi come [[motifs/blood|sangue]]; pietre,  
+licheni che come [[motifs/fire|fuoco]] incrostano;  
 un baglior d'azzurro, un lampo d'oro,  
-la visione della [[Dust|polvere]].  
+la visione della [[motifs/dust|polvere]].  
 
 «Passa oltre tutto questo: finché giungi  
-dove, al margine d'una [[City|città]],  
-sotto un albero--lo conosco [[Well|bene]]--  
+dove, al margine d'una [[motifs/city|città]],  
+sotto un albero--lo conosco [[motifs/well|bene]]--  
 sotto la sporgenza d'un graticcio,  
 
 «Il sole cade su un capo bruno.  
@@ -97,42 +97,42 @@ le trombe di quel giorno
 «quando Dio a tutti i suoi paladini  
 per il proprio splendore giurò  
 di fare un volto più bello del cielo,  
-di [[Dust|polvere]] e nulla più.»
+di [[motifs/dust|polvere]] e nulla più.»
 
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="praise_of_dust (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/tyrant,motif/blood,motif/city,motif/dust,motif/fire,motif/flowers,motif/well,concept/body"></span>
 
 
-# praise of [[Dust|dust]]
+# praise of [[motifs/dust|dust]]
 
-The Praise Of [[Dust]]  
+The Praise Of [[motifs/dust|Dust]]  
 
 G. K. Chesterton  
 
-"What of vile [[Dust|dust]]?" the preacher said.  
+"What of vile [[motifs/dust|dust]]?" the preacher said.  
 Methought the whole world woke,  
 The dead stone lived beneath my foot,  
-And my whole [[Body|body]] spoke.  
+And my whole [[concepts/body|body]] spoke.  
 
-"You, that play [[Tyrant|tyrant]] to the [[Dust|dust]],  
+"You, that play [[archetypes/tyrant|tyrant]] to the [[motifs/dust|dust]],  
 And stamp its wrinkled face,  
 This patient star that flings you not  
 Far into homeless space.  
 
 "Come down out of your dusty shrine  
-The living [[Dust|dust]] to see,  
-The [[Flowers|flowers]] that at your sermon's end  
+The living [[motifs/dust|dust]] to see,  
+The [[motifs/flowers|flowers]] that at your sermon's end  
 Stand blazing silently.  
 
-"Rich white and [[Blood|blood]]-red blossom; stones,  
-Lichens like [[Fire|fire]] encrust;  
+"Rich white and [[motifs/blood|blood]]-red blossom; stones,  
+Lichens like [[motifs/fire|fire]] encrust;  
 A gleam of blue, a glare of gold,  
-The vision of the [[Dust|dust]].  
+The vision of the [[motifs/dust|dust]].  
 
 "Pass them all by: till, as you come  
-Where, at a [[City|city]]'s edge,  
-Under a tree--I know it [[Well|well]]--  
+Where, at a [[motifs/city|city]]'s edge,  
+Under a tree--I know it [[motifs/well|well]]--  
 Under a lattice ledge,  
 
 "The sunshine falls on one brown head.  
@@ -143,40 +143,40 @@ The trumpets of that day
 "When God to all his paladins  
 By his own splendour swore  
 To make a fairer face than heaven,  
-Of [[Dust|dust]] and nothing more."
+Of [[motifs/dust|dust]] and nothing more."
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# lode della [[Dust|polvere]]
+# lode della [[motifs/dust|polvere]]
 
-La Lode Della [[Dust|Polvere]]  
+La Lode Della [[motifs/dust|Polvere]]  
 
-G. K. Chesterton
+G. K. Chesterton  
 
-«Che dire della vile [[Dust|polvere]]?» disse il predicatore.  
+«Che dire della vile [[motifs/dust|polvere]]?» disse il predicatore.  
 E mi parve che il mondo intero si destasse,  
 la pietra morta visse sotto il mio piede,  
-e tutto il mio [[Body|corpo]] parlò.  
+e tutto il mio [[concepts/body|corpo]] parlò.  
 
-«Tu, che fai il [[Tyrant|tiranno]] alla [[Dust|polvere]],  
+«Tu, che fai il [[archetypes/tyrant|tiranno]] alla [[motifs/dust|polvere]],  
 e ne calpesti il volto rugoso,  
 questa stella paziente che non ti scaglia  
 lontano nello spazio senza dimora.  
 
 «Scendi giù dal tuo polveroso santuario  
-a veder la [[Dust|polvere]] viva,  
-i [[Flowers|fiori]] che, finito il tuo sermone,  
+a veder la [[motifs/dust|polvere]] viva,  
+i [[motifs/flowers|fiori]] che, finito il tuo sermone,  
 stanno ardendo in silenzio.  
 
-«Ricchi fiori bianchi e rossi come [[Blood|sangue]]; pietre,  
-licheni che come [[Fire|fuoco]] incrostano;  
+«Ricchi fiori bianchi e rossi come [[motifs/blood|sangue]]; pietre,  
+licheni che come [[motifs/fire|fuoco]] incrostano;  
 un baglior d'azzurro, un lampo d'oro,  
-la visione della [[Dust|polvere]].  
+la visione della [[motifs/dust|polvere]].  
 
 «Passa oltre tutto questo: finché giungi  
-dove, al margine d'una [[City|città]],  
-sotto un albero--lo conosco [[Well|bene]]--  
+dove, al margine d'una [[motifs/city|città]],  
+sotto un albero--lo conosco [[motifs/well|bene]]--  
 sotto la sporgenza d'un graticcio,  
 
 «Il sole cade su un capo bruno.  
@@ -187,4 +187,4 @@ le trombe di quel giorno
 «quando Dio a tutti i suoi paladini  
 per il proprio splendore giurò  
 di fare un volto più bello del cielo,  
-di [[Dust|polvere]] e nulla più.»
+di [[motifs/dust|polvere]] e nulla più.»

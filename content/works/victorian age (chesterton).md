@@ -50,7 +50,7 @@ tags:
 
 # Victorian Age
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > A book-length critical survey of Victorian literature, treating the Victorian Compromise, its great novelists and poets, and the breakup of that compromise; argues that a writer's creed and moral attitude are inseparable from his art.
@@ -64,11 +64,11 @@ tags:
 
 ## Connections
 
-**Characters:** [[Thomas Gradgrind]], [[Jane Eyre]], [[Mr Rochester]], [[Heathcliff]], [[Samuel Pickwick]], [[Seth Pecksniff]], [[Little Nell]], [[Daniel Quilp]], [[David Copperfield]], [[Betsey Trotwood]], [[King Arthur]], [[Major Pendennis]], [[Lancelot]], [[Silas Marner]], [[Tess]]
+**Characters:** [[characters/thomas-gradgrind|Thomas Gradgrind]], [[characters/jane-eyre|Jane Eyre]], [[characters/mr-rochester|Mr Rochester]], [[characters/heathcliff|Heathcliff]], [[characters/samuel-pickwick|Samuel Pickwick]], [[characters/seth-pecksniff|Seth Pecksniff]], [[characters/little-nell|Little Nell]], [[characters/daniel-quilp|Daniel Quilp]], [[characters/david-copperfield|David Copperfield]], [[characters/betsey-trotwood|Betsey Trotwood]], [[characters/king-arthur|King Arthur]], [[characters/major-pendennis|Major Pendennis]], [[characters/lancelot|Lancelot]], [[characters/silas-marner|Silas Marner]], [[characters/tess|Tess]]
 
-**Themes & Concepts:** [[Artist and Society]], [[Faith and Doubt]], [[Order vs Chaos]], [[Reform]], [[Democracy]], [[Class Conflict]], [[Satire of Society]], [[Critique of Progress]], [[Economics]], [[History]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Nonfiction]]
-**Historical References:** [[Regency Georgian England]], [[Industrial Revolution]], [[French Revolution]], [[Reformation]], [[Catholic Church]], [[Puritanism]], [[Romantic Movement (Sensibility)]], [[Christianity]], [[Oxford Movement]], [[Utilitarianism]], [[Darwinism (Evolution)]]
+**Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/reform|Reform]], [[concepts/democracy|Democracy]], [[concepts/class-conflict|Class Conflict]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/french-revolution|French Revolution]], [[historical-references/reformation|Reformation]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/puritanism|Puritanism]], [[historical-references/romantic-movement-(sensibility)|Romantic Movement (Sensibility)]], [[historical-references/christianity|Christianity]], [[historical-references/oxford-movement|Oxford Movement]], [[historical-references/utilitarianism|Utilitarianism]], [[historical-references/darwinism-(evolution)|Darwinism (Evolution)]]
 
 ## Testo integrale / Full text
 

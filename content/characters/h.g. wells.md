@@ -14,4 +14,12 @@ Real-life friend (per editor's note) depicted arguing for infinitely open-ended 
 
 <div class="concept-works" data-slug="characters/h.g.-wells"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/cabman-(chesterton)|cabman (Chesterton)]]
+- [[works/hifts-(chesterton)|HIFTS (Chesterton)]]
+- [[works/the-future-of-canadian-literature-(conan-doyle)|The Future of Canadian Literature (Conan Doyle)]]
+
+</div>
+
 #graph/character

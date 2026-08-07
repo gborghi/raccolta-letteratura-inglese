@@ -11,4 +11,11 @@ tags:
 
 <div class="concept-works" data-slug="historical-references/hundred-years'-war"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/sir-nigel-(conan-doyle)|Sir Nigel (Conan Doyle)]]
+- [[works/six-british-battles-(belloc)|Six British Battles (Belloc)]]
+
+</div>
+
 #graph/histref

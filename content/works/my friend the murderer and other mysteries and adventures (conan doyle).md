@@ -28,16 +28,16 @@ tags:
   - archetype/trickster
   - topos/journey_of_life
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Gothic and Supernatural · Terror and Horror · The Unseen]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/gothic-and-supernatural-·-terror-and-horror-·-the-unseen|Gothic and Supernatural · Terror and Horror · The Unseen]]
 
 > [!abstract] 
 > An early Doyle collection of colonial and outback adventure tales, mixing bushranger crime stories (the title story, told by a prison doctor to a confessing convict-turned-informer), frontier mining-camp yarns, and tales of mystery and the uncanny, mostly set in Australia and other far-flung colonial settings.
 
 ## Connections
 
-**Forms & Genres:** [[Short Story]], [[Adventure Fiction]]
-**Themes & Concepts:** [[Crime and Punishment]], [[Empire and Imperialism]], [[Revenge]], [[Deception]], [[Justice Right and Wrong]], [[Terror and Horror]]
-**Motifs:** [[Journey]], [[Ship]], [[Money and Gold]], [[Secrets]], [[Sea and Voyage]]
-**Settings:** [[Australia]], [[American Frontier]]
-**Archetypes:** [[Villain]], [[Outsider]], [[Trickster]]
-**Topoi:** [[Journey of Life]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/adventure-fiction|Adventure Fiction]]
+**Themes & Concepts:** [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/revenge|Revenge]], [[concepts/deception|Deception]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/terror-and-horror|Terror and Horror]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/ship|Ship]], [[motifs/money-and-gold|Money and Gold]], [[motifs/secrets|Secrets]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Settings:** [[settings/australia|Australia]], [[settings/american-frontier|American Frontier]]
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/outsider|Outsider]], [[archetypes/trickster|Trickster]]
+**Topoi:** [[topoi/journey-of-life|Journey of Life]]

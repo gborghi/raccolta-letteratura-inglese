@@ -17,7 +17,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Poe*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A satirical frame-tale extending the Arabian Nights: Scheherazade tells of Sindbad's encounters with modern marvels of science, which the incredulous king finds too improbable, and has her executed. Themes of truth stranger than fiction, satire and wonder.
@@ -40,10 +40,10 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Trickster]]
-**Themes & Concepts:** [[Appearance vs Reality]], [[Satire of Society]], [[Wonder and Gratitude]], [[Critique of Progress]]
-**Forms & Genres:** [[Satire]], [[Short Story]]
-**Historical References:** [[Eastern Religion Comparative Religion]]
+**Archetypes:** [[archetypes/trickster|Trickster]]
+**Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/satire-of-society|Satire of Society]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/critique-of-progress|Critique of Progress]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]
+**Historical References:** [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]]
 
 ## Testo integrale / Full text
 

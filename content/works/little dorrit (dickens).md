@@ -43,7 +43,7 @@ tags:
   - character/daniel_doyce
 ---
 
-*by Dickens*  ·  **Cluster:** [[Money and Gold · Poverty · Imprisonment]]
+*by Dickens*  ·  **Cluster:** [[clusters/money-and-gold-·-poverty-·-imprisonment|Money and Gold · Poverty · Imprisonment]]
 
 > [!abstract] 
 > A social novel centred on the Marshalsea debtors' prison and the child of its long-term inmate, satirising the bureaucratic Circumlocution Office, financial speculation and the imprisoning power of money, pride and respectability; central themes of poverty, social injustice, imprisonment and redemptive humility.
@@ -61,13 +61,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Innocent]], [[Martyr Saint]], [[Corrupt Official]], [[Self-Made Man]]
-**Motifs:** [[Money and Gold]], [[City]], [[Light and Dark]], [[Ruins the Abbey]]
-**Themes & Concepts:** [[Poverty]], [[Social Injustice]], [[Class Conflict]], [[Satire of Society]], [[Pride]], [[Humility]], [[Guilt]], [[Grace and Redemption]], [[Romantic Love]], [[Appearance vs Reality]], [[Imprisonment]], [[Economics]]
-**Forms & Genres:** [[Social Novel (Novel of Manners)]], [[Novel]], [[Satire]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]]
-**Characters:** [[Amy Dorrit]], [[Arthur Clennam]], [[William Dorrit]], [[Mrs Clennam]], [[Rigaud]], [[Mr Merdle]], [[Flora Finching]], [[Mr Pancks]], [[Daniel Doyce]]
+**Archetypes:** [[archetypes/innocent|Innocent]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/self-made-man|Self-Made Man]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/city|City]], [[motifs/light-and-dark|Light and Dark]], [[motifs/ruins-the-abbey|Ruins the Abbey]]
+**Themes & Concepts:** [[concepts/poverty|Poverty]], [[concepts/social-injustice|Social Injustice]], [[concepts/class-conflict|Class Conflict]], [[concepts/satire-of-society|Satire of Society]], [[concepts/pride|Pride]], [[concepts/humility|Humility]], [[concepts/guilt|Guilt]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/romantic-love|Romantic Love]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/imprisonment|Imprisonment]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/novel|Novel]], [[forms/satire|Satire]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/amy-dorrit|Amy Dorrit]], [[characters/arthur-clennam|Arthur Clennam]], [[characters/william-dorrit|William Dorrit]], [[characters/mrs-clennam|Mrs Clennam]], [[characters/rigaud|Rigaud]], [[characters/mr-merdle|Mr Merdle]], [[characters/flora-finching|Flora Finching]], [[characters/mr-pancks|Mr Pancks]], [[characters/daniel-doyce|Daniel Doyce]]
 
 ## Testo integrale / Full text
 
@@ -36952,4 +36952,4 @@ streets, inseparable and blessed; and as they passed along in sunshine
 and shade, the noisy and the eager, and the arrogant and the froward and
 the vain, fretted and chafed, and made their usual uproar.
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

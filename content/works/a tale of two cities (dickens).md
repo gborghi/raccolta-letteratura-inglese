@@ -47,7 +47,7 @@ tags:
   - character/marquis_st_evremonde
 ---
 
-*by Dickens*  ·  **Cluster:** [[Order vs Chaos · Historical Novel · Fanaticism]]
+*by Dickens*  ·  **Cluster:** [[clusters/order-vs-chaos-·-historical-novel-·-fanaticism|Order vs Chaos · Historical Novel · Fanaticism]]
 
 > [!abstract] 
 > Dickens's historical novel of London and Paris before and during the French Revolution, tracing resurrection ('Recalled to Life'), class oppression, mob violence, and the self-sacrificial redemption of Sydney Carton, who dies in another's place. Central themes: revolution and its terror, sacrifice, resurrection, social injustice and the cost of violence.
@@ -72,14 +72,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Sleeper Awakes]], [[Fortune's Wheel]]
-**Archetypes:** [[Martyr Saint]], [[Christ Figure]], [[Avenger]], [[Double Doppelganger]]
-**Motifs:** [[Blood]], [[Wine and Drink]], [[Storm]], [[City]], [[Light and Dark]]
-**Themes & Concepts:** [[Revenge]], [[Social Injustice]], [[Class Conflict]], [[Grace and Redemption]], [[Martyrdom]], [[War and its Cost]], [[Order vs Chaos]], [[Romantic Love]], [[Economics]], [[History]]
-**Forms & Genres:** [[Novel]], [[Historical Novel]], [[Social Novel (Novel of Manners)]]
-**Historical References:** [[French Revolution]]
-**Settings:** [[Paris]], [[London]], [[Europe]]
-**Characters:** [[Sydney Carton]], [[Charles Darnay]], [[Lucie Manette]], [[Doctor Manette]], [[Madame Defarge]], [[Ernest Defarge]], [[Jarvis Lorry]], [[Miss Pross]], [[Jerry Cruncher]], [[Marquis St. Evremonde]]
+**Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]], [[topoi/fortune's-wheel|Fortune's Wheel]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/christ-figure|Christ Figure]], [[archetypes/avenger|Avenger]], [[archetypes/double-doppelganger|Double Doppelganger]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/storm|Storm]], [[motifs/city|City]], [[motifs/light-and-dark|Light and Dark]]
+**Themes & Concepts:** [[concepts/revenge|Revenge]], [[concepts/social-injustice|Social Injustice]], [[concepts/class-conflict|Class Conflict]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/martyrdom|Martyrdom]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/romantic-love|Romantic Love]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/historical-novel|Historical Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]]
+**Settings:** [[settings/paris|Paris]], [[settings/london|London]], [[settings/europe|Europe]]
+**Characters:** [[characters/sydney-carton|Sydney Carton]], [[characters/charles-darnay|Charles Darnay]], [[characters/lucie-manette|Lucie Manette]], [[characters/doctor-manette|Doctor Manette]], [[characters/madame-defarge|Madame Defarge]], [[characters/ernest-defarge|Ernest Defarge]], [[characters/jarvis-lorry|Jarvis Lorry]], [[characters/miss-pross|Miss Pross]], [[characters/jerry-cruncher|Jerry Cruncher]], [[characters/marquis-st.-evremonde|Marquis St. Evremonde]]
 
 ## Testo integrale / Full text
 

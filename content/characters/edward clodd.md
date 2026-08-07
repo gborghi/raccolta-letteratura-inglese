@@ -14,4 +14,10 @@ The folklorist whose question about 'scientific doubt of religion' Chesterton is
 
 <div class="concept-works" data-slug="characters/edward-clodd"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/on-darwinism-and-mystery-(chesterton)|On Darwinism and Mystery (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/mr-bingley"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/pride-and-prejudice-(austen)|Pride and Prejudice (Austen)]]
+
+</div>
+
 #graph/character

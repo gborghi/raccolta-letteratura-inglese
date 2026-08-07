@@ -27,7 +27,7 @@ tags:
   - topos/quest
   - topos/journey_of_life
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Science Fiction · Discovery · Reason vs the Supernatural]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/science-fiction-·-discovery-·-reason-vs-the-supernatural|Science Fiction · Discovery · Reason vs the Supernatural]]
 
 > [!abstract] 
 > Young journalist Edward Malone, seeking heroic deeds to win the woman he loves, joins the irascible Professor Challenger's expedition to a South American plateau where dinosaurs and ape-men still survive. The party must fight both prehistoric monsters and hostile natives to prove Challenger's incredible claims true.
@@ -56,11 +56,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Adventure Fiction]], [[Science Fiction]], [[Novel]]
-**Themes & Concepts:** [[Darwinism (Evolutionary Theory)]], [[Heroism]], [[Ambition]], [[Wonder]], [[Courage]]
-**Motifs:** [[Journey]], [[Nature]], [[Animals]]
-**Historical References:** [[Darwinism (Evolutionary Theory)]]
-**Settings:** [[Mountains]]
-**Characters:** [[Professor Challenger]]
-**Archetypes:** [[Quest Hero]], [[Hero]], [[Mentor]]
-**Topoi:** [[Quest]], [[Journey of Life]]
+**Forms & Genres:** [[forms/adventure-fiction|Adventure Fiction]], [[forms/science-fiction|Science Fiction]], [[forms/novel|Novel]]
+**Themes & Concepts:** [[concepts/darwinism-(evolutionary-theory)|Darwinism (Evolutionary Theory)]], [[concepts/heroism|Heroism]], [[concepts/ambition|Ambition]], [[concepts/wonder|Wonder]], [[concepts/courage|Courage]]
+**Motifs:** [[motifs/journey|Journey]], [[concepts/nature|Nature]], [[motifs/animals|Animals]]
+**Historical References:** [[concepts/darwinism-(evolutionary-theory)|Darwinism (Evolutionary Theory)]]
+**Settings:** [[settings/mountains|Mountains]]
+**Characters:** [[characters/professor-challenger|Professor Challenger]]
+**Archetypes:** [[archetypes/quest-hero|Quest Hero]], [[archetypes/hero|Hero]], [[archetypes/mentor|Mentor]]
+**Topoi:** [[topoi/quest|Quest]], [[topoi/journey-of-life|Journey of Life]]

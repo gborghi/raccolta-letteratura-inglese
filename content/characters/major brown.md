@@ -14,4 +14,10 @@ A retired, punctilious V.C. officer whose obsession with pansies drags him into 
 
 <div class="concept-works" data-slug="characters/major-brown"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/queertrades-(chesterton)|queertrades (Chesterton)]]
+
+</div>
+
 #graph/character

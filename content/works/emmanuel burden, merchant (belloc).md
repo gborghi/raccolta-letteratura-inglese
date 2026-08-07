@@ -32,7 +32,7 @@ tags:
   - archetype/self_made_man
   - topos/sic_transit_gloria_mundi
 ---
-*by Belloc*  ·  **Cluster:** [[History · Catholicism · Europe]]
+*by Belloc*  ·  **Cluster:** [[clusters/history-·-catholicism-·-europe|History · Catholicism · Europe]]
 
 > [!abstract] 
 > A satirical mock-biography (frontispiece by G. K. Chesterton) of Emmanuel Burden, an honest, pious Thames Street ironmonger drawn into and destroyed by the fraudulent M'Korio Delta Development Company and its ring of imperial financiers. Belloc uses a sanctimonious hagiographic narrator to skewer the cant of Empire, speculative company promotion, and the financier Barnett/Lord Lambeth. The book carries antisemitic content in its portrait of the financial villains.
@@ -43,11 +43,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]], [[Satire]], [[Biography]], [[Nonfiction]]
-**Themes & Concepts:** [[Satire of Society]], [[Empire and Imperialism]], [[Money and Avarice]], [[Capitalism]], [[Antisemitism]], [[Hypocrisy]], [[Greed and Money]], [[Economics]], [[History]]
-**Motifs:** [[Money and Gold]], [[Letters and Writing]], [[City]]
-**Historical References:** [[British Empire]], [[Victorian England]]
-**Settings:** [[London]], [[England]]
-**Characters:** [[G. K. Chesterton]]
-**Archetypes:** [[Corrupt Official]], [[Self-Made Man]]
-**Topoi:** [[Sic Transit Gloria Mundi]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]], [[forms/biography|Biography]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/capitalism|Capitalism]], [[concepts/antisemitism|Antisemitism]], [[concepts/hypocrisy|Hypocrisy]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/city|City]]
+**Historical References:** [[historical-references/british-empire|British Empire]], [[historical-references/victorian-england|Victorian England]]
+**Settings:** [[settings/london|London]], [[settings/england|England]]
+**Characters:** [[characters/g.-k.-chesterton|G. K. Chesterton]]
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/self-made-man|Self-Made Man]]
+**Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]

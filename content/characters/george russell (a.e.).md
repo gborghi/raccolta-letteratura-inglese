@@ -14,4 +14,10 @@ The mystic poet, economist, and editor of a peasant co-operative paper, portraye
 
 <div class="concept-works" data-slug="characters/george-russell-(a.e.)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/irish-impressions-(chesterton)|Irish Impressions (Chesterton)]]
+
+</div>
+
 #graph/character

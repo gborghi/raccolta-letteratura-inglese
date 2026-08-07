@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/bradley-headstone"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/our-mutual-friend-(dickens)|Our Mutual Friend (Dickens)]]
+
+</div>
+
 #graph/character

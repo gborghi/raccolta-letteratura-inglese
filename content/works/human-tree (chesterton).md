@@ -34,7 +34,7 @@ tags:
 
 # human-tree
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > A lyric on a man who stands tree-still in a field, a Father-figure to nature, while the grass and worms cry to him as to a silent God; themes of stillness, divine silence, doubt and faith.
@@ -45,11 +45,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Book of Nature]], [[Great Chain of Being]], [[Sublime in Nature]], [[Axis Mundi (World Tree)]]
-**Motifs:** [[Silence]], [[Nature]], [[Stars]], [[Birds]], [[Animals]], [[Prayer]], [[Insects]], [[Grass Leaves of Grass]], [[Stone and Marble]], [[Tree]]
-**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Natural Order]], [[Self-Knowledge]], [[One Life (Pantheism)]], [[Unseen The Hidden]], [[Self and Cosmos]]
-**Forms & Genres:** [[Lyric]]
-**Settings:** [[Rural England]]
+**Topoi:** [[topoi/book-of-nature|Book of Nature]], [[topoi/great-chain-of-being|Great Chain of Being]], [[topoi/sublime-in-nature|Sublime in Nature]], [[topoi/axis-mundi-(world-tree)|Axis Mundi (World Tree)]]
+**Motifs:** [[motifs/silence|Silence]], [[concepts/nature|Nature]], [[motifs/stars|Stars]], [[motifs/birds|Birds]], [[motifs/animals|Animals]], [[motifs/prayer|Prayer]], [[motifs/insects|Insects]], [[motifs/grass-leaves-of-grass|Grass Leaves of Grass]], [[motifs/stone-and-marble|Stone and Marble]], [[motifs/tree|Tree]]
+**Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/doubt|Doubt]], [[concepts/natural-order|Natural Order]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/one-life-(pantheism)|One Life (Pantheism)]], [[concepts/unseen-the-hidden|Unseen The Hidden]], [[concepts/self-and-cosmos|Self and Cosmos]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
+**Settings:** [[settings/rural-england|Rural England]]
 
 ## Testo integrale / Full text
 

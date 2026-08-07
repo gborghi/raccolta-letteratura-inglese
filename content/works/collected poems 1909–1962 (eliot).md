@@ -15,16 +15,16 @@ tags:
   - form/lyric
 ---
 
-*by Eliot*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
+*by Eliot*  ·  **Cluster:** [[clusters/mortality-·-grave-·-memento-mori|Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > Title/dedication page of Eliot's collected verse, opening with the Prufrock dedication to Jean Verdenal (mort aux Dardanelles) and a Dante epigraph; frames the volume's preoccupation with mortality, memory and the elegiac.
 
 ## Connections
 
-**Themes & Concepts:** [[Mortality]], [[Grief and Loss]]
-**Forms & Genres:** [[Elegy]], [[Lyric]]
-**Historical References:** [[First World War]], [[Dante]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/grief-and-loss|Grief and Loss]]
+**Forms & Genres:** [[forms/elegy|Elegy]], [[forms/lyric|Lyric]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/dante|Dante]]
 
 ## Testo integrale / Full text
 

@@ -26,7 +26,7 @@ tags:
   - form/parody
 ---
 
-*by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Poe*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > Comic mock-autobiography satirizing the corruption, puffery and vanity of the American literary marketplace through the rise of a fatuous, self-glorifying editor.
@@ -51,11 +51,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Theatrum Mundi]]
-**Archetypes:** [[Fool]], [[Trickster]]
-**Motifs:** [[Book Reading]], [[Letters and Writing]], [[Money and Gold]]
-**Themes & Concepts:** [[Satire of Society]], [[Artist and Society]], [[Pride]], [[Ambition]], [[Deception]], [[Appearance vs Reality]], [[Power and Corruption]]
-**Forms & Genres:** [[Satire]], [[Fictional Autobiography]], [[Parody]], [[Nonfiction]]
+**Topoi:** [[topoi/theatrum-mundi|Theatrum Mundi]]
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/trickster|Trickster]]
+**Motifs:** [[motifs/book-reading|Book Reading]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/money-and-gold|Money and Gold]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/artist-and-society|Artist and Society]], [[concepts/pride|Pride]], [[concepts/ambition|Ambition]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/power-and-corruption|Power and Corruption]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/fictional-autobiography|Fictional Autobiography]], [[forms/parody|Parody]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

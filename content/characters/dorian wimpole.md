@@ -14,4 +14,10 @@ Ivywood's cousin, a fashionable aesthete poet who returns from world travels to 
 
 <div class="concept-works" data-slug="characters/dorian-wimpole"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-flying-inn-(chesterton)|The Flying Inn (Chesterton)]]
+
+</div>
+
 #graph/character

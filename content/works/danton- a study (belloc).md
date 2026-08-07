@@ -32,7 +32,7 @@ tags:
   - archetype/rebel
   - topos/fortunes_wheel
 ---
-*by Belloc*  ·  **Cluster:** [[History · Catholicism · Europe]]
+*by Belloc*  ·  **Cluster:** [[clusters/history-·-catholicism-·-europe|History · Catholicism · Europe]]
 
 > [!abstract] 
 > Belloc's biographical study of Georges Danton, the man of action who drove the French Revolution through its most critical months. Framed by a preface on historical method, it argues the Revolution was a violent return to the normal and reads Danton's brief, blazing career as the embodiment of the Revolutionary idea, from the fall of the monarchy through the Terror to his execution.
@@ -43,11 +43,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Biography]], [[History]], [[Nonfiction]]
-**Themes & Concepts:** [[Popular Revolution]], [[Reform]], [[Nationalism and Patriotism]], [[War and its Cost]], [[Justice Right and Wrong]], [[Power and Corruption]]
-**Motifs:** [[Blood]], [[Gallows]], [[Prison]], [[Battlefield (2)]]
-**Historical References:** [[French Revolution]], [[Napoleon]]
-**Settings:** [[France]], [[Paris]], [[Europe]]
-**Characters:** [[Robespierre]], [[Napoleon]]
-**Archetypes:** [[Tragic Hero]], [[Rebel]]
-**Topoi:** [[Fortune's Wheel]]
+**Forms & Genres:** [[forms/biography|Biography]], [[concepts/history|History]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/popular-revolution|Popular Revolution]], [[concepts/reform|Reform]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/power-and-corruption|Power and Corruption]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/gallows|Gallows]], [[motifs/prison|Prison]], [[motifs/battlefield-(2)|Battlefield (2)]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/napoleon|Napoleon]]
+**Settings:** [[settings/france|France]], [[settings/paris|Paris]], [[settings/europe|Europe]]
+**Characters:** [[characters/robespierre|Robespierre]], [[historical-references/napoleon|Napoleon]]
+**Archetypes:** [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/rebel|Rebel]]
+**Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]

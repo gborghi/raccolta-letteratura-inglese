@@ -18,18 +18,18 @@ tags:
   - character/madame_sosostris
 ---
 
-*by Eliot*  ·  **Cluster:** [[Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
+*by Eliot*  ·  **Cluster:** [[clusters/spiritual-emptiness-·-waste-land-(sterility)-·-greek-tragedy|Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
 
 > [!abstract] 
 > Title/epigraph page of Eliot's epoch-defining long poem (Sibyl epigraph, dedication to Pound); a fragmentary modernist epic of spiritual desolation, sterility and the ruined post-war city.
 
 ## Connections
 
-**Topoi:** [[Quest]]
-**Themes & Concepts:** [[Waste Land (Sterility)]], [[Spiritual Emptiness]]
-**Forms & Genres:** [[Epic]], [[Fragment]]
-**Historical References:** [[First World War]], [[Grail Legend]]
-**Characters:** [[Tiresias]], [[Madame Sosostris]]
+**Topoi:** [[topoi/quest|Quest]]
+**Themes & Concepts:** [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/spiritual-emptiness|Spiritual Emptiness]]
+**Forms & Genres:** [[forms/epic|Epic]], [[forms/fragment|Fragment]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/grail-legend|Grail Legend]]
+**Characters:** [[characters/tiresias|Tiresias]], [[characters/madame-sosostris|Madame Sosostris]]
 
 ## Testo integrale / Full text
 

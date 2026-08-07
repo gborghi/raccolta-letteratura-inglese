@@ -28,7 +28,7 @@ tags:
   - histref/victorian_england
 ---
 
-*by Wilde*  ·  **Cluster:** [[Money and Gold · Poverty · Imprisonment]]
+*by Wilde*  ·  **Cluster:** [[clusters/money-and-gold-·-poverty-·-imprisonment|Money and Gold · Poverty · Imprisonment]]
 
 > [!abstract] 
 > Short story in which a beggar-model is secretly a millionaire who rewards a poor lover's charity, satirising money, appearance versus reality and the artist's world.
@@ -42,13 +42,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Archetypes:** [[Innocent]], [[Trickster]], [[Lover]]
-**Motifs:** [[Money and Gold]], [[Concealment Hidden Identity]], [[Clothing and Costume]], [[Love]], [[Marriage]]
-**Themes & Concepts:** [[Appearance vs Reality]], [[Poverty]], [[Satire of Society]], [[Romantic Love]], [[Artist and Society]], [[Marriage and Fidelity]]
-**Forms & Genres:** [[Short Story]], [[Satire]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/innocent|Innocent]], [[archetypes/trickster|Trickster]], [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/love|Love]], [[motifs/marriage|Marriage]]
+**Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/poverty|Poverty]], [[concepts/satire-of-society|Satire of Society]], [[concepts/romantic-love|Romantic Love]], [[concepts/artist-and-society|Artist and Society]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/satire|Satire]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/london|London]]
 
 ## Testo integrale / Full text
 

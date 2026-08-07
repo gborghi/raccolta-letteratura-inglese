@@ -26,19 +26,19 @@ tags:
   - character/annabel_lee
 ---
 
-*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Poe*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A musical ballad lamenting the death of a beautiful young beloved in a kingdom by the sea, whose love outlasts death; centers on love, grief, the death of a beautiful woman, and undying devotion.
 
 ## Connections
 
-**Topoi:** [[Love as Religion]], [[Unattainable Beloved]]
-**Archetypes:** [[Lover]], [[Innocent]]
-**Motifs:** [[Sea]], [[Death]], [[Grave]], [[Moon]], [[Stars]], [[Childhood]]
-**Themes & Concepts:** [[Romantic Love]], [[Grief and Loss]], [[Mortality]], [[Immortality]], [[Melancholy]]
-**Forms & Genres:** [[Ballad Ballade]]
-**Characters:** [[Annabel Lee]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/unattainable-beloved|Unattainable Beloved]]
+**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/innocent|Innocent]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/death|Death]], [[motifs/grave|Grave]], [[motifs/moon|Moon]], [[motifs/stars|Stars]], [[motifs/childhood|Childhood]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/mortality|Mortality]], [[concepts/immortality|Immortality]], [[concepts/melancholy|Melancholy]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]
+**Characters:** [[characters/annabel-lee|Annabel Lee]]
 
 ## Testo integrale / Full text
 

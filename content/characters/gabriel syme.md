@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/gabriel-syme"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thursday-(chesterton)|thursday (Chesterton)]]
+
+</div>
+
 #graph/character

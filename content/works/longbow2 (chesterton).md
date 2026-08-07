@@ -63,7 +63,7 @@ tags:
 
 # longbow2
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A collection of comic-fantastic tales in which impossible English idioms come literally true; eccentric Englishmen launch a distributist agrarian revolution, turning the world upside down in defence of the land.
@@ -74,18 +74,18 @@ tags:
 
 ## Connections
 
-**Historical References:** [[First World War]], [[Arthurian Legend]], [[Industrial Revolution]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/arthurian-legend|Arthurian Legend]], [[historical-references/industrial-revolution|Industrial Revolution]]
 
-**Archetypes:** [[Trickster]], [[Rebel]], [[Self-Made Man]]
+**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/rebel|Rebel]], [[archetypes/self-made-man|Self-Made Man]]
 
-**Motifs:** [[Animals]], [[Letters and Writing]], [[River]], [[Garden]], [[Inn Tavern]], [[Fire]]
+**Motifs:** [[motifs/animals|Animals]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/river|River]], [[motifs/garden|Garden]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/fire|Fire]]
 
-**Characters:** [[Colonel Crane]], [[Owen Hood]], [[Hilary Pierce]], [[Wilding White]], [[Enoch Oates]], [[Bellew Blair]], [[Audrey Smith]], [[Elizabeth Seymour]], [[Joan Hardy]], [[Sir Horace Hunter]], [[Lord Normantowers]], [[Earl of Eden]]
+**Characters:** [[characters/colonel-crane|Colonel Crane]], [[characters/owen-hood|Owen Hood]], [[characters/hilary-pierce|Hilary Pierce]], [[characters/wilding-white|Wilding White]], [[characters/enoch-oates|Enoch Oates]], [[characters/bellew-blair|Bellew Blair]], [[characters/audrey-smith|Audrey Smith]], [[characters/elizabeth-seymour|Elizabeth Seymour]], [[characters/joan-hardy|Joan Hardy]], [[characters/sir-horace-hunter|Sir Horace Hunter]], [[characters/lord-normantowers|Lord Normantowers]], [[characters/earl-of-eden|Earl of Eden]]
 
-**Topoi:** [[World Upside Down]], [[Pastoral Retreat]], [[Quest]]
-**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Satire of Society]], [[Nationalism and Patriotism]], [[Joy]], [[Paradox]], [[Class Conflict]], [[Romantic Love]], [[Truth]], [[Critique of Progress]], [[Common Man]], [[Power and Corruption]], [[Economics]], [[History]]
-**Forms & Genres:** [[Short Story]], [[Satire]], [[Allegory]], [[Fairy Tale Fantasy]], [[Mock Epic]]
-**Settings:** [[Rural England]], [[River Thames]], [[Inn]], [[London]], [[Underworld Cave]], [[Garden (2)]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/pastoral-retreat|Pastoral Retreat]], [[topoi/quest|Quest]]
+**Themes & Concepts:** [[concepts/distributism|Distributism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/satire-of-society|Satire of Society]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/joy|Joy]], [[concepts/paradox|Paradox]], [[concepts/class-conflict|Class Conflict]], [[concepts/romantic-love|Romantic Love]], [[concepts/truth|Truth]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/common-man|Common Man]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/satire|Satire]], [[forms/allegory|Allegory]], [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/mock-epic|Mock Epic]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/river-thames|River Thames]], [[settings/inn|Inn]], [[settings/london|London]], [[settings/underworld-cave|Underworld Cave]], [[settings/garden-(2)|Garden (2)]]
 
 ## Testo integrale / Full text
 

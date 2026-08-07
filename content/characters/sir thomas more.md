@@ -12,4 +12,12 @@ tags:
 
 <div class="concept-works" data-slug="characters/sir-thomas-more"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/well-and-shallows-(chesterton)|Well And Shallows (Chesterton)]]
+- [[works/history-(chesterton)|history (Chesterton)]]
+- [[works/sir-thomas-more-(shakespeare)|SIR THOMAS MORE (Shakespeare)]]
+
+</div>
+
 #graph/character

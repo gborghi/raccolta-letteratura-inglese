@@ -211,6 +211,15 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
   render()
 }
 
+// preprocess emits the plain works list after the placeholder, hidden, so the works
+// are linked server-side. Show it whenever the table cannot take its place.
+function showFallback(el: HTMLElement) {
+  const next = el.nextElementSibling
+  if (next instanceof HTMLElement && next.classList.contains("concept-works-fallback")) {
+    next.dataset.shown = "1"
+  }
+}
+
 async function init() {
   const placeholders = Array.from(
     document.querySelectorAll<HTMLElement>("div.concept-works"),
@@ -221,14 +230,20 @@ async function init() {
   try {
     await load(prefix)
   } catch {
+    placeholders.forEach(showFallback)
     return
   }
 
   for (const el of placeholders) {
     el.dataset.rendered = "1"
     const entry = conceptMap![el.dataset.slug || ""]
-    if (!entry) continue
-    const rows = entry.works.map((h) => workIndex!.get(h)).filter(Boolean) as Work[]
+    const rows = entry
+      ? (entry.works.map((h) => workIndex!.get(h)).filter(Boolean) as Work[])
+      : []
+    if (!rows.length) {
+      showFallback(el)
+      continue
+    }
     buildTable(el, rows, prefix)
   }
 }

@@ -32,7 +32,7 @@ tags:
 
 # turnpikes
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A 1933 familiar essay defending the maligned 'medieval' against the cult of modernity, using a turnpike-toll to expose the worship of speed and progress; paradoxical social criticism.
@@ -51,14 +51,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[Pitt]], [[Dundas]]
+**Characters:** [[characters/pitt|Pitt]], [[characters/dundas|Dundas]]
 
-**Motifs:** [[Road]], [[Machine]]
-**Themes & Concepts:** [[Critique of Progress]], [[Anti-Industrialism]], [[Paradox]], [[Satire of Society]], [[Justice Right and Wrong]], [[Reform]], [[Social Injustice]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Aphorism]], [[Nonfiction]]
-**Historical References:** [[Medieval England]], [[Dante]], [[Regency Georgian England]]
+**Motifs:** [[motifs/road|Road]], [[motifs/machine|Machine]]
+**Themes & Concepts:** [[concepts/critique-of-progress|Critique of Progress]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/reform|Reform]], [[concepts/social-injustice|Social Injustice]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/aphorism|Aphorism]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/dante|Dante]], [[historical-references/regency-georgian-england|Regency Georgian England]]
 
 ## Testo integrale / Full text
 

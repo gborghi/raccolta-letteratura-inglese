@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/don-john-of-austria"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lepanto-(chesterton)|lepanto (Chesterton)]]
+- [[works/poems-(chesterton)|Poems (Chesterton)]]
+
+</div>
+
 #graph/character

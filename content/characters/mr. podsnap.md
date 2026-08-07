@@ -14,4 +14,10 @@ A complacent, self-satisfied City man in Our Mutual Friend whom Chesterton treat
 
 <div class="concept-works" data-slug="characters/mr.-podsnap"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+
+</div>
+
 #graph/character

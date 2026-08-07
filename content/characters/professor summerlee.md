@@ -11,4 +11,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/professor-summerlee"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-poison-belt-(conan-doyle)|The Poison Belt (Conan Doyle)]]
+
+</div>
+
 #graph/character

@@ -12,4 +12,12 @@ tags:
 
 <div class="concept-works" data-slug="characters/william-dorrit"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/dickens-britannica-(chesterton)|dickens Britannica (Chesterton)]]
+- [[works/little-dorrit-(dickens)|Little Dorrit (Dickens)]]
+
+</div>
+
 #graph/character

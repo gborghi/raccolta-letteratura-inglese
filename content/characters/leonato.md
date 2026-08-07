@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/leonato"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/much-ado-about-nothing-(shakespeare)|MUCH ADO ABOUT NOTHING (Shakespeare)]]
+
+</div>
+
 #graph/character

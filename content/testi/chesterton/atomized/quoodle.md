@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="quoodle" data-title="quoodle" data-chapter="" data-kind="intro"></span>
 
 
-THE [[Song|SONG]] OF [[quoodle|QUOODLE]]  
+THE SONG OF [[characters/quoodle|QUOODLE]]  
 
 G.K.Chesterton  
 
@@ -32,24 +32,24 @@ The park a Jew encloses,
 Where even the law of Moses  
 Will let you steal a smell.  
 
-The brilliant smell of [[Water|water]],  
+The brilliant smell of [[motifs/water|water]],  
 The brave smell of a stone,  
 The smell of dew and thunder,  
 The old bones buried under,  
 Are things in which they blunder  
-And err, if left [[Alone|alone]].  
+And err, if left alone.  
 
-The [[Wind|wind]] from [[Winter|winter]] forests,  
-The scent of scentless [[Flowers|flowers]],  
+The [[motifs/wind|wind]] from [[motifs/winter|winter]] forests,  
+The scent of scentless [[motifs/flowers|flowers]],  
 The breath of brides' adorning,  
 The smell of snare and warning,  
-The smell of [[Sunday]] morning,  
+The smell of [[characters/sunday|Sunday]] morning,  
 God gave to us for ours  
 
 *    *    *    *    *
 
-And [[quoodle|Quoodle]] here discloses  
-All things that [[quoodle|Quoodle]] can,  
+And [[characters/quoodle|Quoodle]] here discloses  
+All things that [[characters/quoodle|Quoodle]] can,  
 They haven't got no noses,  
 They haven't got no noses,  
 And goodness only knowses  
@@ -58,7 +58,7 @@ The Noselessness of Man.
 
 <span class="qlang-split" data-lang="it"></span>
 
-IL [[Song|CANTO]] DI [[quoodle|QUOODLE]]  
+IL CANTO DI [[characters/quoodle|QUOODLE]]  
 
 G.K.Chesterton
 
@@ -76,24 +76,24 @@ il parco che un Giudeo racchiude,
 dove persino la legge di Mosè  
 ti lascia rubare un odore.  
 
-Il brillante odore dell'[[Water|acqua]],  
+Il brillante odore dell'[[motifs/water|acqua]],  
 il valoroso odore d'una pietra,  
 l'odore di rugiada e tuono,  
 le vecchie ossa sepolte sotto,  
 son cose in cui inciampano  
-ed errano, se lasciati [[Alone|soli]].  
+ed errano, se lasciati soli.  
 
-Il [[Wind|vento]] dai boschi d'[[Winter|inverno]],  
-il profumo di [[Flowers|fiori]] senza profumo,  
+Il [[motifs/wind|vento]] dai boschi d'[[motifs/winter|inverno]],  
+il profumo di [[motifs/flowers|fiori]] senza profumo,  
 il respiro dell'ornamento delle spose,  
 l'odore di trappola e monito,  
-l'odore del mattino di [[Sunday|domenica]],  
+l'odore del mattino di [[characters/sunday|domenica]],  
 Dio ce li donò per nostri  
 
 *    *    *    *    *
 
-E qui [[quoodle|Quoodle]] rivela  
-tutte le cose che [[quoodle|Quoodle]] può,  
+E qui [[characters/quoodle|Quoodle]] rivela  
+tutte le cose che [[characters/quoodle|Quoodle]] può,  
 non hanno naso alcuno,  
 non hanno naso alcuno,  
 e lo sa solo il buon Dio  
@@ -104,7 +104,7 @@ la Senzanasità dell'Uomo.
 <span class="atom-split" data-atom="part--part_01" data-title="quoodle (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/flowers,motif/water,motif/wind,motif/winter,character/quoodle,character/sunday"></span>
 
 
-THE [[Song|SONG]] OF [[quoodle|QUOODLE]]  
+THE SONG OF [[characters/quoodle|QUOODLE]]  
 
 G.K.Chesterton  
 
@@ -122,24 +122,24 @@ The park a Jew encloses,
 Where even the law of Moses  
 Will let you steal a smell.  
 
-The brilliant smell of [[Water|water]],  
+The brilliant smell of [[motifs/water|water]],  
 The brave smell of a stone,  
 The smell of dew and thunder,  
 The old bones buried under,  
 Are things in which they blunder  
-And err, if left [[Alone|alone]].  
+And err, if left alone.  
 
-The [[Wind|wind]] from [[Winter|winter]] forests,  
-The scent of scentless [[Flowers|flowers]],  
+The [[motifs/wind|wind]] from [[motifs/winter|winter]] forests,  
+The scent of scentless [[motifs/flowers|flowers]],  
 The breath of brides' adorning,  
 The smell of snare and warning,  
-The smell of [[Sunday]] morning,  
+The smell of [[characters/sunday|Sunday]] morning,  
 God gave to us for ours  
 
 *    *    *    *    *
 
-And [[quoodle|Quoodle]] here discloses  
-All things that [[quoodle|Quoodle]] can,  
+And [[characters/quoodle|Quoodle]] here discloses  
+All things that [[characters/quoodle|Quoodle]] can,  
 They haven't got no noses,  
 They haven't got no noses,  
 And goodness only knowses  
@@ -148,9 +148,9 @@ The Noselessness of Man.
 
 <span class="qlang-split" data-lang="it"></span>
 
-IL [[Song|CANTO]] DI [[quoodle|QUOODLE]]  
+IL CANTO DI [[characters/quoodle|QUOODLE]]  
 
-G.K.Chesterton
+G.K.Chesterton  
 
 Non hanno naso alcuno,  
 i figli caduti d'Eva;  
@@ -166,24 +166,24 @@ il parco che un Giudeo racchiude,
 dove persino la legge di Mosè  
 ti lascia rubare un odore.  
 
-Il brillante odore dell'[[Water|acqua]],  
+Il brillante odore dell'[[motifs/water|acqua]],  
 il valoroso odore d'una pietra,  
 l'odore di rugiada e tuono,  
 le vecchie ossa sepolte sotto,  
 son cose in cui inciampano  
-ed errano, se lasciati [[Alone|soli]].  
+ed errano, se lasciati soli.  
 
-Il [[Wind|vento]] dai boschi d'[[Winter|inverno]],  
-il profumo di [[Flowers|fiori]] senza profumo,  
+Il [[motifs/wind|vento]] dai boschi d'[[motifs/winter|inverno]],  
+il profumo di [[motifs/flowers|fiori]] senza profumo,  
 il respiro dell'ornamento delle spose,  
 l'odore di trappola e monito,  
-l'odore del mattino di [[Sunday|domenica]],  
+l'odore del mattino di [[characters/sunday|domenica]],  
 Dio ce li donò per nostri  
 
 *    *    *    *    *
 
-E qui [[quoodle|Quoodle]] rivela  
-tutte le cose che [[quoodle|Quoodle]] può,  
+E qui [[characters/quoodle|Quoodle]] rivela  
+tutte le cose che [[characters/quoodle|Quoodle]] può,  
 non hanno naso alcuno,  
 non hanno naso alcuno,  
 e lo sa solo il buon Dio  

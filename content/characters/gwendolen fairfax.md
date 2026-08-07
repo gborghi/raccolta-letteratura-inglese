@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/gwendolen-fairfax"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-importance-of-being-earnest-(wilde)|The Importance of Being Earnest (Wilde)]]
+
+</div>
+
 #graph/character

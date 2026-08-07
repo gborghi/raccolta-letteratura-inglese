@@ -15,16 +15,16 @@ tags:
   - motif/garden
 ---
 
-*by Eliot*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
+*by Eliot*  ·  **Cluster:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > Vision of the silent veiled sister in Mary's blue restoring the fountains and 'redeeming the time' amid yews and jewelled unicorns; the Virgin, grace, redemption of time and exile.
 
 ## Connections
 
-**Motifs:** [[Water]], [[Flowers]], [[Garden]]
-**Themes & Concepts:** [[Grace and Redemption]], [[Exile]]
-**Characters:** [[Virgin Mary]]
+**Motifs:** [[motifs/water|Water]], [[motifs/flowers|Flowers]], [[motifs/garden|Garden]]
+**Themes & Concepts:** [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/exile|Exile]]
+**Characters:** [[characters/virgin-mary|Virgin Mary]]
 
 ## Testo integrale / Full text
 

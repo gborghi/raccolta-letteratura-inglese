@@ -24,7 +24,7 @@ tags:
   - histref/second_boer_war
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > An essay distinguishing true universal sympathy from the cold, partisan 'inhumane humanitarian'; defends warm moderation born of strong feeling against intellectual anger detached from real human life.
@@ -43,12 +43,12 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Irish Question]], [[Second Boer War]]
+**Historical References:** [[historical-references/irish-question|Irish Question]], [[historical-references/second-boer-war|Second Boer War]]
 
-**Motifs:** [[Animals]], [[Birds]]
+**Motifs:** [[motifs/animals|Animals]], [[motifs/birds|Birds]]
 
-**Themes & Concepts:** [[Satire of Society]], [[Reform]], [[Mercy]], [[Common Man]], [[Alienation]], [[Fanaticism]], [[Nationalism and Patriotism]], [[Moderation]], [[Sympathy]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/reform|Reform]], [[concepts/mercy|Mercy]], [[concepts/common-man|Common Man]], [[concepts/alienation|Alienation]], [[concepts/fanaticism|Fanaticism]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/moderation|Moderation]], [[concepts/sympathy|Sympathy]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ The legendary soldier-saint of England whose battle with the Dragon supplies Che
 
 <div class="concept-works" data-slug="characters/st.-george"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/new-jerusalem-(chesterton)|New Jerusalem (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -31,7 +31,7 @@ tags:
 
 # strange-city
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > An essay arguing that the finite, the concrete 'place', is what truly suggests infinity; a meditation on words, poetry, religion and the concentration of the spiritual into the real.
@@ -45,13 +45,13 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]], [[Virgil]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/virgil|Virgil]]
 
-**Archetypes:** [[Poet as Prophet (2)]]
+**Archetypes:** [[archetypes/poet-as-prophet-(2)|Poet as Prophet (2)]]
 
-**Motifs:** [[City]]
-**Themes & Concepts:** [[Truth]], [[Imagination]], [[Faith]], [[Paradox]], [[Wonder and Gratitude]], [[Power of Language]], [[One Life (Pantheism)]], [[Heaven and the Afterlife]], [[Natural Order]], [[Eternity]], [[Beauty]], [[Paganism and Classical Revival]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Nonfiction]]
+**Motifs:** [[motifs/city|City]]
+**Themes & Concepts:** [[concepts/truth|Truth]], [[concepts/imagination|Imagination]], [[concepts/faith|Faith]], [[concepts/paradox|Paradox]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/power-of-language|Power of Language]], [[concepts/one-life-(pantheism)|One Life (Pantheism)]], [[concepts/heaven-and-the-afterlife|Heaven and the Afterlife]], [[concepts/natural-order|Natural Order]], [[concepts/eternity|Eternity]], [[concepts/beauty|Beauty]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

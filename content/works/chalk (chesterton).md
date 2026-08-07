@@ -30,7 +30,7 @@ tags:
 
 # chalk
 
-*by Chesterton*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
+*by Chesterton*  ·  **Cluster:** [[clusters/wonder-and-gratitude-·-sublime-·-storm|Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
 > An essay in which a walk on the Sussex downs to draw with chalk becomes a meditation on wonder, the positive nature of virtue ('white is a color'), and the sacramental quality of created England.
@@ -49,15 +49,15 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Christianity]]
+**Historical References:** [[historical-references/christianity|Christianity]]
 
-**Archetypes:** [[Artist]]
+**Archetypes:** [[archetypes/artist|Artist]]
 
-**Topoi:** [[Book of Nature]], [[Sublime in Nature]], [[Pastoral Retreat]]
-**Motifs:** [[White and Red]], [[Nature]], [[Light and Dark]], [[Hill]], [[Chalk]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Mercy]], [[Faith]], [[Imagination]], [[Paradox]], [[Virtue]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Settings:** [[Rural England]]
+**Topoi:** [[topoi/book-of-nature|Book of Nature]], [[topoi/sublime-in-nature|Sublime in Nature]], [[topoi/pastoral-retreat|Pastoral Retreat]]
+**Motifs:** [[motifs/white-and-red|White and Red]], [[concepts/nature|Nature]], [[motifs/light-and-dark|Light and Dark]], [[motifs/hill|Hill]], [[motifs/chalk|Chalk]]
+**Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/mercy|Mercy]], [[concepts/faith|Faith]], [[concepts/imagination|Imagination]], [[concepts/paradox|Paradox]], [[concepts/virtue|Virtue]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Settings:** [[settings/rural-england|Rural England]]
 
 ## Testo integrale / Full text
 

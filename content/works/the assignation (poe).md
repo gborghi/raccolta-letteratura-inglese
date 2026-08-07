@@ -29,7 +29,7 @@ tags:
   - histref/classical_antiquity
 ---
 
-*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Poe*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A Byronic stranger in Venice and the married Marchesa Aphrodite share a forbidden love that ends in their simultaneous death by poison at the appointed hour; a tale of love-as-religion, doomed passion and aestheticism.
@@ -51,13 +51,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Love as Religion]], [[Unattainable Beloved]]
-**Archetypes:** [[Lover]], [[Outsider]]
-**Motifs:** [[Love]], [[Death]], [[Water]], [[Mirror]], [[Music and Song]], [[Money and Gold]]
-**Themes & Concepts:** [[Romantic Love]], [[Beauty]], [[Grief and Loss]], [[Melancholy]], [[Mortality]]
-**Forms & Genres:** [[Short Story]]
-**Historical References:** [[Classical Antiquity]]
-**Settings:** [[Venice]], [[Italy]], [[Europe]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/unattainable-beloved|Unattainable Beloved]]
+**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/love|Love]], [[motifs/death|Death]], [[motifs/water|Water]], [[motifs/mirror|Mirror]], [[motifs/music-and-song|Music and Song]], [[motifs/money-and-gold|Money and Gold]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/beauty|Beauty]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/melancholy|Melancholy]], [[concepts/mortality|Mortality]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
+**Historical References:** [[historical-references/classical-antiquity|Classical Antiquity]]
+**Settings:** [[settings/venice|Venice]], [[settings/italy|Italy]], [[settings/europe|Europe]]
 
 ## Testo integrale / Full text
 

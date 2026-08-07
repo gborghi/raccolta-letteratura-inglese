@@ -14,4 +14,11 @@ The medieval Persian poet whose Rubaiyat, as rendered by FitzGerald, is directly
 
 <div class="concept-works" data-slug="characters/omar-khayyam"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/new-omar-(chesterton)|new-omar (Chesterton)]]
+- [[works/heret12-(chesterton)|heret12 (Chesterton)]]
+
+</div>
+
 #graph/character

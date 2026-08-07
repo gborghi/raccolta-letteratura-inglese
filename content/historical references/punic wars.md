@@ -14,4 +14,10 @@ Rome's war against Carthage and its Moloch-worship, framed as the historical 'wa
 
 <div class="concept-works" data-slug="historical-references/punic-wars"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/everlasting-man-(chesterton)|everlasting man (Chesterton)]]
+
+</div>
+
 #graph/histref

@@ -17,7 +17,7 @@ tags:
   - histref/john_galsworthy
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Chesterton*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A short comic nursery-rhyme parody (on 'Little Bo-Peep') satirising Galsworthy and the fashionable modern fiction of his day; a light verse squib of literary satire.
@@ -28,10 +28,10 @@ tags:
 
 ## Connections
 
-**Historical References:** [[John Galsworthy]]
+**Historical References:** [[historical-references/john-galsworthy|John Galsworthy]]
 
-**Themes & Concepts:** [[Artist and Society]], [[Satire of Society]], [[Critique of Progress]], [[Literary Criticism (2)]]
-**Forms & Genres:** [[Parody]], [[Satire]], [[Epigram]]
+**Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/literary-criticism-(2)|Literary Criticism (2)]]
+**Forms & Genres:** [[forms/parody|Parody]], [[forms/satire|Satire]], [[forms/epigram|Epigram]]
 
 ## Testo integrale / Full text
 

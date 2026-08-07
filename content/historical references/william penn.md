@@ -14,4 +14,10 @@ The Quaker founder of Pennsylvania whom Chesterton champions, in the essay named
 
 <div class="concept-works" data-slug="historical-references/william-penn"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/wild-ducks-(chesterton)|Wild Ducks (Chesterton)]]
+
+</div>
+
 #graph/histref

@@ -14,14 +14,14 @@ tags:
 <span class="atom-split" data-atom="elegy" data-title="elegy" data-chapter="" data-kind="intro"></span>
 
 
-[[elegy|Elegy]] in a Country Churchyard  
+[[forms/elegy|Elegy]] in a Country Churchyard  
 
 -------------------------------------------------------------  
 
 The men that worked for England  
-They have their graves at [[Home|home]]:  
-And [[Bees|bees]] and [[Birds|birds]] of England  
-About the [[Cross|cross]] can roam.  
+They have their graves at [[motifs/home|home]]:  
+And [[motifs/bees|bees]] and [[motifs/birds|birds]] of England  
+About the [[motifs/cross|cross]] can roam.  
 
 But they that fought for England,  
 Following a falling star,  
@@ -39,14 +39,14 @@ They have no graves as yet.
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[elegy|Elegia]] in un Cimitero di Campagna  
+[[forms/elegy|Elegia]] in un Cimitero di Campagna  
 
 -------------------------------------------------------------  
 
 Gli uomini che lavorarono per l'Inghilterra  
-hanno le loro tombe a [[Home|casa]]:  
-e [[Bees|api]] e [[Birds|uccelli]] d'Inghilterra  
-intorno alla [[Cross|croce]] possono vagare.  
+hanno le loro tombe a [[motifs/home|casa]]:  
+e [[motifs/bees|api]] e [[motifs/birds|uccelli]] d'Inghilterra  
+intorno alla [[motifs/cross|croce]] possono vagare.  
 
 Ma quelli che combatterono per l'Inghilterra,  
 seguendo una stella cadente,  
@@ -66,14 +66,14 @@ non hanno ancora tombe.
 <span class="atom-split" data-atom="part--part_01" data-title="elegy (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/bees,motif/birds,motif/cross,motif/home,form/elegy"></span>
 
 
-[[elegy|Elegy]] in a Country Churchyard  
+[[forms/elegy|Elegy]] in a Country Churchyard  
 
 -------------------------------------------------------------  
 
 The men that worked for England  
-They have their graves at [[Home|home]]:  
-And [[Bees|bees]] and [[Birds|birds]] of England  
-About the [[Cross|cross]] can roam.  
+They have their graves at [[motifs/home|home]]:  
+And [[motifs/bees|bees]] and [[motifs/birds|birds]] of England  
+About the [[motifs/cross|cross]] can roam.  
 
 But they that fought for England,  
 Following a falling star,  
@@ -91,14 +91,14 @@ They have no graves as yet.
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[elegy|Elegia]] in un Cimitero di Campagna  
+[[forms/elegy|Elegia]] in un Cimitero di Campagna  
 
 -------------------------------------------------------------  
 
 Gli uomini che lavorarono per l'Inghilterra  
-hanno le loro tombe a [[Home|casa]]:  
-e [[Bees|api]] e [[Birds|uccelli]] d'Inghilterra  
-intorno alla [[Cross|croce]] possono vagare.  
+hanno le loro tombe a [[motifs/home|casa]]:  
+e [[motifs/bees|api]] e [[motifs/birds|uccelli]] d'Inghilterra  
+intorno alla [[motifs/cross|croce]] possono vagare.  
 
 Ma quelli che combatterono per l'Inghilterra,  
 seguendo una stella cadente,  

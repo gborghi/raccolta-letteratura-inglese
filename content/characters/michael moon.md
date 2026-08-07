@@ -14,4 +14,10 @@ A witty, melancholic Irish lodger who prosecutes then defends Smith and eventual
 
 <div class="concept-works" data-slug="characters/michael-moon"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/manalive-(chesterton)|manalive (Chesterton)]]
+
+</div>
+
 #graph/character

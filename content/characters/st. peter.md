@@ -14,4 +14,10 @@ The Apostle on whose rock-authority ('the Rock and the Gates of Hell') Chesterto
 
 <div class="concept-works" data-slug="characters/st.-peter"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/upon-this-rock-(chesterton)|upon-this-rock (Chesterton)]]
+
+</div>
+
 #graph/character

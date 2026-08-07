@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/thaisa"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/pericles-(shakespeare)|PERICLES (Shakespeare)]]
+
+</div>
+
 #graph/character

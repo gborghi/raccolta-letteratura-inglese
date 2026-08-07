@@ -58,7 +58,7 @@ tags:
   - histref/bible
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
+*by Chesterton*  ·  **Cluster:** [[clusters/wine-and-drink-·-ballad-ballade-·-road|Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 
 > A comic-allegorical novel in which the wild eccentric Innocent Smith is put on mock-trial for crimes (murder, burglary, desertion, polygamy) that prove to be exuberant affirmations of life; a celebration of wonder, innocence, joy and gratitude against grey modern pessimism.
@@ -69,17 +69,17 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]]
+**Historical References:** [[historical-references/bible|Bible]]
 
-**Settings:** [[London]], [[Rural England]]
+**Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
 
-**Characters:** [[Innocent Smith]], [[Michael Moon]], [[Arthur Inglewood]], [[Diana Duke]], [[Rosamund Hunt]], [[Mary Gray]], [[Moses Gould]], [[Dr. Cyrus Pym]], [[Dr. Warner]], [[Emerson Eames]]
+**Characters:** [[characters/innocent-smith|Innocent Smith]], [[characters/michael-moon|Michael Moon]], [[characters/arthur-inglewood|Arthur Inglewood]], [[characters/diana-duke|Diana Duke]], [[characters/rosamund-hunt|Rosamund Hunt]], [[characters/mary-gray|Mary Gray]], [[characters/moses-gould|Moses Gould]], [[characters/dr.-cyrus-pym|Dr. Cyrus Pym]], [[characters/dr.-warner|Dr. Warner]], [[characters/emerson-eames|Emerson Eames]]
 
-**Topoi:** [[World Upside Down]], [[Open Road Homecoming]], [[Sleeper Awakes]], [[Paradise Lost]]
-**Archetypes:** [[Fool]], [[Innocent]], [[Trickster]], [[Outsider]]
-**Motifs:** [[Wind]], [[Madness (2)]], [[Journey]], [[Road]], [[Swords and Weapons]], [[Garden]], [[Home]], [[Marriage]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Joy]], [[Innocence and Experience]], [[Paradox]], [[Appearance vs Reality]], [[Madness]], [[Justice Right and Wrong]], [[Marriage and Fidelity]], [[Romantic Love]], [[Melancholy]], [[Satire of Society]], [[Critique of Progress]], [[Faith]], [[Crime and Punishment]], [[Despair]], [[Conformity vs Individualism]]
-**Forms & Genres:** [[Novel]], [[Allegory]], [[Comedy]], [[Satire]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/sleeper-awakes|Sleeper Awakes]], [[topoi/paradise-lost|Paradise Lost]]
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/innocent|Innocent]], [[archetypes/trickster|Trickster]], [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/wind|Wind]], [[motifs/madness-(2)|Madness (2)]], [[motifs/journey|Journey]], [[motifs/road|Road]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/garden|Garden]], [[motifs/home|Home]], [[motifs/marriage|Marriage]]
+**Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/joy|Joy]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/paradox|Paradox]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/madness|Madness]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/romantic-love|Romantic Love]], [[concepts/melancholy|Melancholy]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/faith|Faith]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/despair|Despair]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/allegory|Allegory]], [[forms/comedy|Comedy]], [[forms/satire|Satire]]
 
 ## Testo integrale / Full text
 

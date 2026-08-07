@@ -30,7 +30,7 @@ tags:
 
 # rash vows
 
-*by Chesterton*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Chesterton*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > An essay defending the great vow (including marriage) as a sane binding of the self against the decadent 'free' man who fears his own mutability; on fidelity, identity and the self.
@@ -49,13 +49,13 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Crusades]]
+**Historical References:** [[historical-references/crusades|Crusades]]
 
-**Motifs:** [[Chains]], [[Ship]]
+**Motifs:** [[motifs/chains|Chains]], [[motifs/ship|Ship]]
 
-**Topoi:** [[Love as Religion]], [[Quest]]
-**Themes & Concepts:** [[Marriage and Fidelity]], [[Identity]], [[Self-Knowledge]], [[Critique of Progress]], [[Disillusionment]], [[Heroism]], [[Romantic Love]], [[Freedom and Liberty]], [[Self-Sacrifice]], [[Paradox]], [[Honour]]
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/quest|Quest]]
+**Themes & Concepts:** [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/identity|Identity]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/disillusionment|Disillusionment]], [[concepts/heroism|Heroism]], [[concepts/romantic-love|Romantic Love]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/self-sacrifice|Self-Sacrifice]], [[concepts/paradox|Paradox]], [[concepts/honour|Honour]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -55,7 +55,7 @@ tags:
   - histref/futurism
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A 1911 collection of whimsical familiar essays built on paradox, defending the ordinary, the English countryside and 'Merry England' against industrialism, plutocracy and the cult of progress, with recurrent imagery of grey weather, gargoyles, and the legend of King Alfred at Ethandune; central concerns are anti-industrialism, paradox, the common man, and the critique of progress.
@@ -70,15 +70,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Common Man (2)]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]], [[Golden Age]], [[Night Journey Vision]]
-**Motifs:** [[Gold and Grey]], [[City]], [[Wheel]], [[Money and Gold]], [[Snow]], [[Dreams]]
-**Themes & Concepts:** [[Paradox]], [[Anti-Industrialism]], [[Critique of Progress]], [[Common Man]], [[Distributism]], [[Wonder and Gratitude]], [[Nature vs Civilization]], [[Nationalism and Patriotism]], [[War and its Cost]], [[Democracy]], [[Satire of Society]], [[Grotesque]], [[Paganism and Classical Revival]], [[Class Conflict]], [[Eugenics and Social Darwinism]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Fable]], [[Satire]], [[Nonfiction]]
-**Historical References:** [[King Alfred]], [[Battle of Ethandun]], [[Industrial Revolution]], [[French Revolution]], [[Danish Invasions]], [[Medieval England]], [[Classical Antiquity]], [[Futurism]]
-**Settings:** [[Rural England]], [[Industrial City]], [[London]]
-**Characters:** [[King Alfred (2)]], [[Ebenezer Scrooge]], [[Robespierre]], [[Duc de Chambertin-Pommard]]
+**Topoi:** [[topoi/beatus-ille-(happy-the-man-rural-retreat)|Beatus Ille (Happy the Man Rural Retreat)]], [[topoi/golden-age|Golden Age]], [[topoi/night-journey-vision|Night Journey Vision]]
+**Motifs:** [[motifs/gold-and-grey|Gold and Grey]], [[motifs/city|City]], [[motifs/wheel|Wheel]], [[motifs/money-and-gold|Money and Gold]], [[motifs/snow|Snow]], [[motifs/dreams|Dreams]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/common-man|Common Man]], [[concepts/distributism|Distributism]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/democracy|Democracy]], [[concepts/satire-of-society|Satire of Society]], [[concepts/grotesque|Grotesque]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/class-conflict|Class Conflict]], [[concepts/eugenics-and-social-darwinism|Eugenics and Social Darwinism]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/fable|Fable]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/king-alfred|King Alfred]], [[historical-references/battle-of-ethandun|Battle of Ethandun]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/french-revolution|French Revolution]], [[historical-references/danish-invasions|Danish Invasions]], [[historical-references/medieval-england|Medieval England]], [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/futurism|Futurism]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/industrial-city|Industrial City]], [[settings/london|London]]
+**Characters:** [[characters/king-alfred-(2)|King Alfred (2)]], [[characters/ebenezer-scrooge|Ebenezer Scrooge]], [[characters/robespierre|Robespierre]], [[characters/duc-de-chambertin-pommard|Duc de Chambertin-Pommard]]
 
 ## Testo integrale / Full text
 

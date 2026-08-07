@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/young-fisherman"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/trees-of-pride-(chesterton)|trees of pride (Chesterton)]]
+- [[works/the-fisherman-and-his-soul-(wilde)|The Fisherman and his Soul (Wilde)]]
+
+</div>
+
 #graph/character

@@ -19,15 +19,15 @@ TO HILAIRE BELLOC
 by G.K. Chesterton  
 
 For every tiny town or place  
-God made the [[Stars|stars]] especially;  
+God made the [[motifs/stars|stars]] especially;  
 Babies look up with owlish face  
 And see them tangled in a tree;  
-You saw a [[Moon|moon]] from Sussex Downs,  
-A Sussex [[Moon|moon]], untravelled still,  
-I saw a [[Moon|moon]] that was the town's,  
-The largest lamp on Campden [[Hill]].  
+You saw a [[motifs/moon|moon]] from Sussex Downs,  
+A Sussex [[motifs/moon|moon]], untravelled still,  
+I saw a [[motifs/moon|moon]] that was the town's,  
+The largest lamp on Campden [[motifs/hill|Hill]].  
 
-Yea; Heaven is everywhere at [[Home|home]]  
+Yea; Heaven is everywhere at [[motifs/home|home]]  
 The big blue cap that always fits,  
 And so it is (be calm; they come  
 To goal at last, my wandering wits),  
@@ -39,7 +39,7 @@ Be you not much afraid, my friend.
 This did not end by Nelson's urn  
 Where an immortal England sits--  
 Nor where your tall young men in turn  
-Drank [[Death|death]] like wine at Austerlitz.  
+Drank [[motifs/death|death]] like wine at Austerlitz.  
 And when the pedants bade us mark  
 What cold mechanic happenings  
 Must come; our souls said in the dark,  
@@ -48,24 +48,24 @@ Must come; our souls said in the dark,
 Likelier across these flats afar  
 These sulky levels smooth and free  
 The drums shall crash a waltz of war  
-And [[Death]] shall [[Dance|dance]] with Liberty;  
+And [[motifs/death|Death]] shall [[motifs/dance|dance]] with Liberty;  
 Likelier the barricades shall blare  
 Slaughter below and smoke above,  
-And [[Death|death]] and hate and hell declare  
-That men have found a thing to [[Love|love]].  
+And [[motifs/death|death]] and hate and hell declare  
+That men have found a thing to [[motifs/love|love]].  
 
 Far from your sunny uplands set  
 I saw the dream; the streets I trod  
 The lit straight streets shot out and met  
 The starry streets that point to God.  
-This legend of an [[Epic|epic]] hour  
-A [[Child|child]] I dreamed, and dream it still,  
-Under the great grey [[Water|water]]-tower  
-That strikes the [[Stars|stars]] on Campden [[Hill]]  
+This legend of an [[forms/epic|epic]] hour  
+A [[archetypes/child|child]] I dreamed, and dream it still,  
+Under the great grey [[motifs/water|water]]-tower  
+That strikes the [[motifs/stars|stars]] on Campden [[motifs/hill|Hill]]  
 
 G.K.C.  
 
-(Preface to Chesterton's "The Napoleon of Notting [[Hill]]").
+(Preface to Chesterton's "The Napoleon of Notting [[motifs/hill|Hill]]").
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -75,15 +75,15 @@ A HILAIRE BELLOC
 di G.K. Chesterton
 
 Per ogni minuscola città o luogo  
-Dio fece le [[Stars|stelle]] apposta;  
+Dio fece le [[motifs/stars|stelle]] apposta;  
 i bimbi guardano in su con faccia da gufo  
 e le vedono impigliate in un albero;  
-tu vedesti una [[Moon|luna]] dai Sussex Downs,  
-una [[Moon|luna]] del Sussex, ancora senza viaggi,  
-io vidi una [[Moon|luna]] che era della città,  
-la più grande lampada su Campden [[Hill]].  
+tu vedesti una [[motifs/moon|luna]] dai Sussex Downs,  
+una [[motifs/moon|luna]] del Sussex, ancora senza viaggi,  
+io vidi una [[motifs/moon|luna]] che era della città,  
+la più grande lampada su Campden [[motifs/hill|Hill]].  
 
-Sì; il Cielo è ovunque a [[Home|casa]] sua,  
+Sì; il Cielo è ovunque a [[motifs/home|casa]] sua,  
 la grande cappa azzurra che sempre calza,  
 e così è (calma; giungono  
 infine alla meta, i miei sensi vaganti),  
@@ -95,7 +95,7 @@ non aver troppa paura, amico mio.
 Questa non finì presso l'urna di Nelson  
 dove siede un'Inghilterra immortale--  
 né dove i tuoi alti giovani, a loro volta,  
-bevvero la [[Death|morte]] come vino ad Austerlitz.  
+bevvero la [[motifs/death|morte]] come vino ad Austerlitz.  
 E quando i pedanti c'imposero di notare  
 quali freddi accadimenti meccanici  
 dovessero venire, le nostre anime dissero nel buio:  
@@ -104,24 +104,24 @@ dovessero venire, le nostre anime dissero nel buio:
 Più probabile che per queste piane lontane,  
 questi tetri livelli lisci e liberi,  
 i tamburi fracassino un valzer di guerra  
-e la [[Death|Morte]] [[Dance|danzi]] con la Libertà;  
+e la [[motifs/death|Morte]] [[motifs/dance|danzi]] con la Libertà;  
 più probabile che le barricate strombazzino  
 strage in basso e fumo in alto,  
-e [[Death|morte]] e odio e inferno proclamino  
-che gli uomini han trovato qualcosa da [[Love|amare]].  
+e [[motifs/death|morte]] e odio e inferno proclamino  
+che gli uomini han trovato qualcosa da [[motifs/love|amare]].  
 
 Lontano dai tuoi soleggiati altipiani  
 vidi il sogno; le strade che calcavo,  
 le diritte strade illuminate si slanciarono e incontrarono  
 le strade stellate che indicano Dio.  
-Questa leggenda di un'ora [[Epic|epica]],  
-da [[Child|bambino]] la sognai, e la sogno ancora,  
-sotto la grande grigia torre dell'[[Water|acqua]]  
-che colpisce le [[Stars|stelle]] su Campden [[Hill]]  
+Questa leggenda di un'ora [[forms/epic|epica]],  
+da [[archetypes/child|bambino]] la sognai, e la sogno ancora,  
+sotto la grande grigia torre dell'[[motifs/water|acqua]]  
+che colpisce le [[motifs/stars|stelle]] su Campden [[motifs/hill|Hill]]  
 
 G.K.C.  
 
-(Prefazione a "The Napoleon of Notting [[Hill]]" di Chesterton).
+(Prefazione a "The Napoleon of Notting [[motifs/hill|Hill]]" di Chesterton).
 
 
 
@@ -133,15 +133,15 @@ TO HILAIRE BELLOC
 by G.K. Chesterton  
 
 For every tiny town or place  
-God made the [[Stars|stars]] especially;  
+God made the [[motifs/stars|stars]] especially;  
 Babies look up with owlish face  
 And see them tangled in a tree;  
-You saw a [[Moon|moon]] from Sussex Downs,  
-A Sussex [[Moon|moon]], untravelled still,  
-I saw a [[Moon|moon]] that was the town's,  
-The largest lamp on Campden [[Hill]].  
+You saw a [[motifs/moon|moon]] from Sussex Downs,  
+A Sussex [[motifs/moon|moon]], untravelled still,  
+I saw a [[motifs/moon|moon]] that was the town's,  
+The largest lamp on Campden [[motifs/hill|Hill]].  
 
-Yea; Heaven is everywhere at [[Home|home]]  
+Yea; Heaven is everywhere at [[motifs/home|home]]  
 The big blue cap that always fits,  
 And so it is (be calm; they come  
 To goal at last, my wandering wits),  
@@ -153,7 +153,7 @@ Be you not much afraid, my friend.
 This did not end by Nelson's urn  
 Where an immortal England sits--  
 Nor where your tall young men in turn  
-Drank [[Death|death]] like wine at Austerlitz.  
+Drank [[motifs/death|death]] like wine at Austerlitz.  
 And when the pedants bade us mark  
 What cold mechanic happenings  
 Must come; our souls said in the dark,  
@@ -162,42 +162,42 @@ Must come; our souls said in the dark,
 Likelier across these flats afar  
 These sulky levels smooth and free  
 The drums shall crash a waltz of war  
-And [[Death]] shall [[Dance|dance]] with Liberty;  
+And [[motifs/death|Death]] shall [[motifs/dance|dance]] with Liberty;  
 Likelier the barricades shall blare  
 Slaughter below and smoke above,  
-And [[Death|death]] and hate and hell declare  
-That men have found a thing to [[Love|love]].  
+And [[motifs/death|death]] and hate and hell declare  
+That men have found a thing to [[motifs/love|love]].  
 
 Far from your sunny uplands set  
 I saw the dream; the streets I trod  
 The lit straight streets shot out and met  
 The starry streets that point to God.  
-This legend of an [[Epic|epic]] hour  
-A [[Child|child]] I dreamed, and dream it still,  
-Under the great grey [[Water|water]]-tower  
-That strikes the [[Stars|stars]] on Campden [[Hill]]  
+This legend of an [[forms/epic|epic]] hour  
+A [[archetypes/child|child]] I dreamed, and dream it still,  
+Under the great grey [[motifs/water|water]]-tower  
+That strikes the [[motifs/stars|stars]] on Campden [[motifs/hill|Hill]]  
 
 G.K.C.  
 
-(Preface to Chesterton's "The Napoleon of Notting [[Hill]]").
+(Preface to Chesterton's "The Napoleon of Notting [[motifs/hill|Hill]]").
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 A HILAIRE BELLOC  
 
-di G.K. Chesterton
+di G.K. Chesterton  
 
 Per ogni minuscola città o luogo  
-Dio fece le [[Stars|stelle]] apposta;  
+Dio fece le [[motifs/stars|stelle]] apposta;  
 i bimbi guardano in su con faccia da gufo  
 e le vedono impigliate in un albero;  
-tu vedesti una [[Moon|luna]] dai Sussex Downs,  
-una [[Moon|luna]] del Sussex, ancora senza viaggi,  
-io vidi una [[Moon|luna]] che era della città,  
-la più grande lampada su Campden [[Hill]].  
+tu vedesti una [[motifs/moon|luna]] dai Sussex Downs,  
+una [[motifs/moon|luna]] del Sussex, ancora senza viaggi,  
+io vidi una [[motifs/moon|luna]] che era della città,  
+la più grande lampada su Campden [[motifs/hill|Hill]].  
 
-Sì; il Cielo è ovunque a [[Home|casa]] sua,  
+Sì; il Cielo è ovunque a [[motifs/home|casa]] sua,  
 la grande cappa azzurra che sempre calza,  
 e così è (calma; giungono  
 infine alla meta, i miei sensi vaganti),  
@@ -209,7 +209,7 @@ non aver troppa paura, amico mio.
 Questa non finì presso l'urna di Nelson  
 dove siede un'Inghilterra immortale--  
 né dove i tuoi alti giovani, a loro volta,  
-bevvero la [[Death|morte]] come vino ad Austerlitz.  
+bevvero la [[motifs/death|morte]] come vino ad Austerlitz.  
 E quando i pedanti c'imposero di notare  
 quali freddi accadimenti meccanici  
 dovessero venire, le nostre anime dissero nel buio:  
@@ -218,21 +218,21 @@ dovessero venire, le nostre anime dissero nel buio:
 Più probabile che per queste piane lontane,  
 questi tetri livelli lisci e liberi,  
 i tamburi fracassino un valzer di guerra  
-e la [[Death|Morte]] [[Dance|danzi]] con la Libertà;  
+e la [[motifs/death|Morte]] [[motifs/dance|danzi]] con la Libertà;  
 più probabile che le barricate strombazzino  
 strage in basso e fumo in alto,  
-e [[Death|morte]] e odio e inferno proclamino  
-che gli uomini han trovato qualcosa da [[Love|amare]].  
+e [[motifs/death|morte]] e odio e inferno proclamino  
+che gli uomini han trovato qualcosa da [[motifs/love|amare]].  
 
 Lontano dai tuoi soleggiati altipiani  
 vidi il sogno; le strade che calcavo,  
 le diritte strade illuminate si slanciarono e incontrarono  
 le strade stellate che indicano Dio.  
-Questa leggenda di un'ora [[Epic|epica]],  
-da [[Child|bambino]] la sognai, e la sogno ancora,  
-sotto la grande grigia torre dell'[[Water|acqua]]  
-che colpisce le [[Stars|stelle]] su Campden [[Hill]]  
+Questa leggenda di un'ora [[forms/epic|epica]],  
+da [[archetypes/child|bambino]] la sognai, e la sogno ancora,  
+sotto la grande grigia torre dell'[[motifs/water|acqua]]  
+che colpisce le [[motifs/stars|stelle]] su Campden [[motifs/hill|Hill]]  
 
 G.K.C.  
 
-(Prefazione a "The Napoleon of Notting [[Hill]]" di Chesterton).
+(Prefazione a "The Napoleon of Notting [[motifs/hill|Hill]]" di Chesterton).

@@ -44,7 +44,7 @@ tags:
 
 # Sword
 
-*by Chesterton*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
+*by Chesterton*  ·  **Cluster:** [[clusters/swords-and-weapons-·-power-and-corruption-·-tyrant|Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 
 > A Restoration-set short story in which a weaponless schoolmaster defeats a magnetic sword with a wooden cross-shaped stick; faith, paradox, chivalry, the cross.
@@ -66,16 +66,16 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Combat Strife]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]]
 
-**Characters:** [[Dennis Tryon]], [[Sir Guy Griffin]], [[Dorothy Hood]], [[Sir Godfrey Skene]], [[Jeremy Bunt]]
+**Characters:** [[characters/dennis-tryon|Dennis Tryon]], [[characters/sir-guy-griffin|Sir Guy Griffin]], [[characters/dorothy-hood|Dorothy Hood]], [[characters/sir-godfrey-skene|Sir Godfrey Skene]], [[characters/jeremy-bunt|Jeremy Bunt]]
 
-**Archetypes:** [[Hero]], [[Child]], [[Damsel]], [[Tyrant]], [[Scapegoat]], [[Witch Enchantress]]
-**Motifs:** [[Swords and Weapons]], [[Cross]], [[Supernatural]], [[Clothing and Costume]], [[Concealment Hidden Identity]], [[River]]
-**Themes & Concepts:** [[Faith]], [[Paradox]], [[Good vs Evil]], [[Honour]], [[Critique of Progress]], [[Heroism]], [[Appearance vs Reality]], [[Courage]], [[Fanaticism]], [[History]]
-**Forms & Genres:** [[Short Story]]
-**Historical References:** [[Medieval England]], [[Puritanism]], [[English Restoration]]
-**Settings:** [[Rural England]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/child|Child]], [[archetypes/damsel|Damsel]], [[archetypes/tyrant|Tyrant]], [[archetypes/scapegoat|Scapegoat]], [[archetypes/witch-enchantress|Witch Enchantress]]
+**Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/cross|Cross]], [[motifs/supernatural|Supernatural]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/river|River]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/paradox|Paradox]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/honour|Honour]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/heroism|Heroism]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/courage|Courage]], [[concepts/fanaticism|Fanaticism]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
+**Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/puritanism|Puritanism]], [[historical-references/english-restoration|English Restoration]]
+**Settings:** [[settings/rural-england|Rural England]]
 
 ## Testo integrale / Full text
 

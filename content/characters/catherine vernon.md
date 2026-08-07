@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/catherine-vernon"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lady-susan-(austen)|Lady Susan (Austen)]]
+
+</div>
+
 #graph/character

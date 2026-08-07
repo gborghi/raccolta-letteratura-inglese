@@ -14,4 +14,10 @@ Edith's worldly, affected mother in Dombey and Son, discussed by Chesterton as a
 
 <div class="concept-works" data-slug="characters/mrs.-skewton"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+
+</div>
+
 #graph/character

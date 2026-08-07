@@ -15,16 +15,16 @@ tags:
   - concept/self_and_soul
 ---
 
-*by Whitman*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Whitman*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > At a feast a spectral vision of a shipwreck at sea (the steamship Arctic) prompts the anguished question whether souls are drowned and matter alone triumphant.
 
 ## Connections
 
-**Motifs:** [[Sea]], [[Death]]
-**Themes & Concepts:** [[Doubt]], [[Faith and Doubt]], [[Self-Knowledge]]
-**Settings:** [[Ship]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/death|Death]]
+**Themes & Concepts:** [[concepts/doubt|Doubt]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/self-knowledge|Self-Knowledge]]
+**Settings:** [[motifs/ship|Ship]]
 
 ## Testo integrale / Full text
 

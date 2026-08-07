@@ -14,4 +14,10 @@ The self-aware 'crack-brained humorist' from Scott's Guy Mannering that Chestert
 
 <div class="concept-works" data-slug="characters/councillor-pleydell"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/humour-(chesterton)|Humour (Chesterton)]]
+
+</div>
+
 #graph/character

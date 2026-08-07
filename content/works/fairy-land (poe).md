@@ -20,16 +20,16 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Stars · Night · Military Camp]]
+*by Poe*  ·  **Cluster:** [[clusters/stars-·-night-·-military-camp|Stars · Night · Military Camp]]
 
 > [!abstract] 
 > Fantastical lyric of waxing and waning moons descending over a dreamlike nocturnal landscape, blending imagination, night, and the supernatural.
 
 ## Connections
 
-**Motifs:** [[Moon]], [[Night]], [[Stars]], [[Supernatural]], [[Sleep]], [[Birds]]
-**Themes & Concepts:** [[Imagination]], [[Sublime]], [[Wonder and Gratitude]], [[Melancholy]]
-**Forms & Genres:** [[Lyric]]
+**Motifs:** [[motifs/moon|Moon]], [[motifs/night|Night]], [[motifs/stars|Stars]], [[motifs/supernatural|Supernatural]], [[motifs/sleep|Sleep]], [[motifs/birds|Birds]]
+**Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/sublime|Sublime]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/melancholy|Melancholy]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

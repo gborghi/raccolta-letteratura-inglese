@@ -11,4 +11,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/colonel-sebastian-moran"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-return-of-sherlock-holmes-(conan-doyle)|The Return of Sherlock Holmes (Conan Doyle)]]
+
+</div>
+
 #graph/character

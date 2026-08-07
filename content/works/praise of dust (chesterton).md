@@ -36,7 +36,7 @@ tags:
 
 # praise of dust
 
-*by Chesterton*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
+*by Chesterton*  ·  **Cluster:** [[clusters/mortality-·-grave-·-memento-mori|Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > A lyric in which despised 'vile dust' speaks back, proclaiming the living glory of the created world and the promise that God will make of dust 'a fairer face than heaven'; on humility, mortality and wonder.
@@ -47,13 +47,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Tyrant]], [[Prophet]], [[Dust Personified]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/prophet|Prophet]], [[archetypes/dust-personified|Dust Personified]]
 
-**Topoi:** [[Memento Mori]], [[World Upside Down]], [[Vanitas]]
-**Motifs:** [[Dust]], [[Flowers]], [[White and Red]], [[Stone and Marble]], [[Sun]], [[Fire]]
-**Themes & Concepts:** [[Humility]], [[Mortality]], [[Wonder and Gratitude]], [[Grace and Redemption]], [[Resurrection]], [[Paradox]], [[Metamorphosis Transformation]], [[Providence]], [[Apocalypse]]
-**Forms & Genres:** [[Lyric]], [[Dramatic Monologue]]
-**Historical References:** [[Bible]], [[Christianity]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]], [[topoi/world-upside-down|World Upside Down]], [[topoi/vanitas|Vanitas]]
+**Motifs:** [[motifs/dust|Dust]], [[motifs/flowers|Flowers]], [[motifs/white-and-red|White and Red]], [[motifs/stone-and-marble|Stone and Marble]], [[motifs/sun|Sun]], [[motifs/fire|Fire]]
+**Themes & Concepts:** [[concepts/humility|Humility]], [[concepts/mortality|Mortality]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/resurrection|Resurrection]], [[concepts/paradox|Paradox]], [[concepts/metamorphosis-transformation|Metamorphosis Transformation]], [[concepts/providence|Providence]], [[concepts/apocalypse|Apocalypse]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/dramatic-monologue|Dramatic Monologue]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ Impoverished gentlewoman whom Owen Hood has loved since a boyhood encounter by t
 
 <div class="concept-works" data-slug="characters/elizabeth-seymour"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/longbow2-(chesterton)|longbow2 (Chesterton)]]
+
+</div>
+
 #graph/character

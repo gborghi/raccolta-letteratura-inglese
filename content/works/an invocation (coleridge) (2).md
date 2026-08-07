@@ -17,17 +17,17 @@ tags:
   - histref/catholic_church
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Death · Silence · Bells]]
+*by Coleridge*  ·  **Cluster:** [[clusters/death-·-silence-·-bells|Death · Silence · Bells]]
 
 > [!abstract] 
 > A spell-song from the play Remorse invoking a spirit, with chapel masses, a tolling knell and a moonlit sea. Themes: the supernatural, death, religion.
 
 ## Connections
 
-**Motifs:** [[Supernatural]], [[Death]], [[Bells]], [[Sea]], [[Moon]]
-**Themes & Concepts:** [[Faith]]
-**Forms & Genres:** [[Comic Verse Song]]
-**Historical References:** [[Catholic Church]]
+**Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/death|Death]], [[motifs/bells|Bells]], [[motifs/sea|Sea]], [[motifs/moon|Moon]]
+**Themes & Concepts:** [[concepts/faith|Faith]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]]
+**Historical References:** [[historical-references/catholic-church|Catholic Church]]
 
 ## Testo integrale / Full text
 

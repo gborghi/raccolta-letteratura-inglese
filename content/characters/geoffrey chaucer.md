@@ -14,4 +14,10 @@ Medieval poet given his own chapter as the model of a genial, practical artist u
 
 <div class="concept-works" data-slug="characters/geoffrey-chaucer"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/all-i-survey-(chesterton)|All I Survey (Chesterton)]]
+
+</div>
+
 #graph/character

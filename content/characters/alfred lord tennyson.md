@@ -14,4 +14,10 @@ Subject of an essay defending his commonplace sentiment, his poeticising of scie
 
 <div class="concept-works" data-slug="characters/alfred-lord-tennyson"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ Chesterton's schoolboy friend at St Paul's, met via a fistfight that turned into
 
 <div class="concept-works" data-slug="characters/edmund-clerihew-bentley"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/to-frances-(chesterton)|to-frances (Chesterton)]]
+
+</div>
+
 #graph/character

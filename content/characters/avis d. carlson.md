@@ -14,4 +14,10 @@ American essayist whose piece 'Wanted: A Substitute for Righteousness' is the di
 
 <div class="concept-works" data-slug="characters/avis-d.-carlson"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/american-morals-(chesterton)|american-morals (Chesterton)]]
+
+</div>
+
 #graph/character

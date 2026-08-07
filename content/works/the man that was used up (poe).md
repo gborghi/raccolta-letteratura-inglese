@@ -26,7 +26,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Poe*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > Grotesque satire in which a celebrated war-hero general proves to be a literal assemblage of manufactured prosthetics, mocking the age's faith in mechanical progress and hollow public reputation.
@@ -47,12 +47,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Archetypes:** [[Hero]]
-**Motifs:** [[Concealment Hidden Identity]], [[Clothing and Costume]], [[Eyes and Sight]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Anti-Industrialism]], [[Appearance vs Reality]], [[Grotesque]], [[Heroism]], [[War and its Cost]], [[Identity]], [[Economics]]
-**Forms & Genres:** [[Satire]], [[Short Story]]
-**Historical References:** [[Industrial Revolution]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/hero|Hero]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/eyes-and-sight|Eyes and Sight]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/grotesque|Grotesque]], [[concepts/heroism|Heroism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/identity|Identity]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]
+**Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]]
 
 ## Testo integrale / Full text
 

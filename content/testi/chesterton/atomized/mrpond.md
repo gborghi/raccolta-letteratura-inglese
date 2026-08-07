@@ -23,7 +23,7 @@ Author:     G. K. Chesterton
 
 CONTENTS
 
-I.  The Three Horsemen of [[Apocalypse]]
+I.  The Three Horsemen of [[concepts/apocalypse|Apocalypse]]
 
 II.  The Crime of Captain Gahagan
 
@@ -33,47 +33,47 @@ IV.  Pond the Pantaloon
 
 V.  The Unmentionable Man
 
-VI.  Ring of [[lovers|Lovers]]
+VI.  Ring of Lovers
 
 VII.  The Terrible Troubadour
 
 VIII.  A Tall Story
 
-THE THREE HORSEMEN OF [[Apocalypse|APOCALYPSE]]
+THE THREE HORSEMEN OF [[concepts/apocalypse|APOCALYPSE]]
 
 The curious and sometimes creepy effect which Mr. Pond produced
 
 upon me, despite his commonplace courtesy and dapper decorum, was
 
-possibly connected with some memories of [[Childhood|childhood]]; and the vague
+possibly connected with some memories of [[motifs/childhood|childhood]]; and the vague
 
-verbal association of his name.  He was a [[government|Government]] official who
+verbal association of his name.  He was a Government official who
 
 was an old friend of my father; and I fancy my infantile
 
-[[Imagination|imagination]] had somehow mixed up the name of Mr. Pond with the pond
+[[concepts/imagination|imagination]] had somehow mixed up the name of Mr. Pond with the pond
 
-in the [[Garden|garden]].  When one came to think of it, he was curiously like
+in the [[motifs/garden|garden]].  When one came to think of it, he was curiously like
 
-the pond in the [[Garden|garden]].  He was so quiet at all normal times, so
+the pond in the [[motifs/garden|garden]].  He was so quiet at all normal times, so
 
 neat in shape and so shiny, so to speak, in his ordinary
 
 reflections of earth and sky and the common daylight.  And yet I
 
-knew there were some queer things in the pond in the [[Garden|garden]].  Once
+knew there were some queer things in the pond in the [[motifs/garden|garden]].  Once
 
 in a hundred times, on one or two days during the whole year, the
 
 pond would look oddly different; or there would come a flitting
 
-[[Shadow|shadow]] or a flash in its flat serenity; and a fish or a frog or
+[[archetypes/shadow|shadow]] or a flash in its flat serenity; and a fish or a frog or
 
-some more [[Grotesque|grotesque]] creature would show itself to the sky.  And I
+some more [[concepts/grotesque|grotesque]] creature would show itself to the sky.  And I
 
 knew there were monsters in Mr. Pond also: monsters in his mind
 
-which [[Rose|rose]] only for a moment to the surface and sank again.  They
+which [[motifs/rose|rose]] only for a moment to the surface and sank again.  They
 
 took the form of monstrous remarks, in the middle of all his mild
 
@@ -113,19 +113,19 @@ suppose, he swallowed the unwelcome proposal of explaining what on
 
 earth he meant.
 
-He was talking quite quietly one day to Sir [[Hubert]] Wotton, the [[Well|well]]-
+He was talking quite quietly one day to Sir [[characters/hubert|Hubert]] Wotton, the [[motifs/well|well]]-
 
 known diplomatist; they were seated under gaily-striped tents or
 
-giant parasols in our own [[Garden|garden]], and gazing towards the pond which
+giant parasols in our own [[motifs/garden|garden]], and gazing towards the pond which
 
 I had perversely associated with him.  They happened to be talking
 
-about a part of the world that both of them knew [[Well|well]], and very few
+about a part of the world that both of them knew [[motifs/well|well]], and very few
 
 people in Western Europe at all: the vast flats fading into fens
 
-and swamps that stretch across Pomerania and Poland and [[Russia]] and
+and swamps that stretch across Pomerania and Poland and [[settings/russia|Russia]] and
 
 the rest; right away, for all I know, into the Siberian deserts.
 
@@ -133,7 +133,7 @@ And Mr. Pond recalled that, across a region where the swamps are
 
 deepest and intersected by pools and sluggish rivers, there runs a
 
-single [[Road|road]] raised on a high causeway with steep and sloping sides:
+single [[motifs/road|road]] raised on a high causeway with steep and sloping sides:
 
 a straight path safe enough for the ordinary pedestrian, but barely
 
@@ -141,7 +141,7 @@ broad enough for two horsemen to ride abreast.  That is the
 
 beginning of the story.
 
-It concerned a [[Time|time]] not very long ago, but a [[Time|time]] in which horsemen
+It concerned a [[motifs/time|time]] not very long ago, but a [[motifs/time|time]] in which horsemen
 
 were still used much more than they are at present, though already
 
@@ -159,7 +159,7 @@ necessary to expound the politics of the matter, or discuss its
 
 rights and wrongs here.  Let us merely say, more lightly, that Mr.
 
-Pond amused the company with a [[Riddle|riddle]].
+Pond amused the company with a [[forms/riddle|riddle]].
 
 "I expect you remember hearing," said Pond, "of all the excitement
 
@@ -185,7 +185,7 @@ in general command; and, as it happened, his own old regiment,
 
 which was still his favourite regiment, the White Hussars, was
 
-posted nearest to the beginning of the great embanked [[Road|road]].  Of
+posted nearest to the beginning of the great embanked [[motifs/road|road]].  Of
 
 course, everything was spick and span, down to every detail of the
 
@@ -199,7 +199,7 @@ them for that; I sometimes feel the old epoch of heraldry was a
 
 finer thing than all that epoch of imitative colouring, that came
 
-in with natural [[history]] and the worship of chameleons and beetles.
+in with natural [[concepts/history|history]] and the worship of chameleons and beetles.
 
 Anyhow, this crack regiment of cavalry in the Prussian service
 
@@ -209,11 +209,11 @@ element in the fiasco.  But it wasn't only the uniforms; it was the
 
 uniformity.  The whole thing went wrong because the discipline was
 
-too good.  Grock's soldiers obeyed him too [[Well|well]]; so he simply
+too good.  Grock's soldiers obeyed him too [[motifs/well|well]]; so he simply
 
 couldn't do a thing he wanted."
 
-"I suppose that's a [[Paradox|paradox]]," said Wotton, heaving a sigh.  "Of
+"I suppose that's a [[concepts/paradox|paradox]]," said Wotton, heaving a sigh.  "Of
 
 course, it's very clever and all that; but really, it's all
 
@@ -285,17 +285,17 @@ sad and even a little anxious.
 
 Mr. Pond, interrupting his monologue, was almost in a twitter of
 
-apologies:  "I'm afraid I'm talking too much, as usual; the [[Truth|truth]]
+apologies:  "I'm afraid I'm talking too much, as usual; the [[concepts/truth|truth]]
 
 is I was talking about that poet, Petrowski, who was nearly
 
-executed in Poznan--quite a long [[Time|time]] ago.  The military
+executed in Poznan--quite a long [[motifs/time|time]] ago.  The military
 
 authorities on the spot hesitated and were going to let him go,
 
 unless they had direct orders from Marshal Von Grock or higher; but
 
-Marshal Von Grock was quite determined on the poet's [[Death|death]]; and
+Marshal Von Grock was quite determined on the poet's [[motifs/death|death]]; and
 
 sent orders for his execution that very evening.  A reprieve was
 
@@ -319,7 +319,7 @@ us another of those stories, Grandpapa."
 
 "It's a perfectly true story," protested Pond, "and it happened
 
-exactly as I say.  It isn't any [[Paradox|paradox]] or anything like that.
+exactly as I say.  It isn't any [[concepts/paradox|paradox]] or anything like that.
 
 Only, of course, you have to know the story to see how simple it
 
@@ -341,9 +341,9 @@ fact that he was a national poet but an international singer.  That
 
 is, he happened to have a very fine and powerful voice, with which
 
-he sang his own patriotic [[songs]] in half the concert halls of the
+he sang his own patriotic songs in half the concert halls of the
 
-world.  At [[Home|home]], of course, he was a torch and trumpet of
+world.  At [[motifs/home|home]], of course, he was a torch and trumpet of
 
 revolutionary hopes, especially then, in the sort of international
 
@@ -351,7 +351,7 @@ crisis in which practical politicians disappear, and their place is
 
 taken by men either more or less practical than themselves.  For
 
-the true idealist and the real realist have at least the [[Love|love]] of
+the true idealist and the real realist have at least the [[motifs/love|love]] of
 
 action in common.  And the practical politician thrives by offering
 
@@ -363,7 +363,7 @@ but in neither trade can a man win a reputation by doing nothing.
 
 It is odd that these two extreme types stood at the two extreme
 
-ends of that one ridge and [[Road|road]] among the marshes--the Polish poet
+ends of that one ridge and [[motifs/road|road]] among the marshes--the Polish poet
 
 a prisoner in the town at one end, the Prussian soldier a commander
 
@@ -373,13 +373,13 @@ For Marshal Von Grock was a true Prussian, not only entirely
 
 practical but entirely prosaic.  He had never read a line of poetry
 
-himself; but he was no [[Fool|fool]].  He had the sense of reality which
+himself; but he was no [[archetypes/fool|fool]].  He had the sense of reality which
 
 belongs to soldiers; and it prevented him from falling into the
 
 asinine error of the practical politician.  He did not scoff at
 
-visions; he only hated them.  He knew that a poet or a [[Prophet|prophet]]
+visions; he only hated them.  He knew that a poet or a [[archetypes/prophet|prophet]]
 
 could be as dangerous as an army.  And he was resolved that the
 
@@ -395,7 +395,7 @@ his massive head looked quite bald, though it was only closely
 
 shaven.  His whole face was also shaven; and had no covering but a
 
-pair of very strong spectacles, which [[Alone|alone]] gave an enigmatic look
+pair of very strong spectacles, which alone gave an enigmatic look
 
 to his heavy and sagging visage.  He turned to a Lieutenant
 
@@ -405,7 +405,7 @@ variety, whose blue saucer-eyes were staring vacantly.
 
 "Lieutenant Von Hocheimer," he said, "did you say His Highness
 
-would reach the camp to-[[Night|night]]?"
+would reach the camp to-[[motifs/night|night]]?"
 
 "Seven forty-five, Marshal," replied the Lieutenant, who seemed
 
@@ -413,7 +413,7 @@ rather reluctant to speak at all, like a large animal learning a
 
 new trick of talking.
 
-"Then there is just [[Time|time]]," said Grock, "to send you with that order
+"Then there is just [[motifs/time|time]]," said Grock, "to send you with that order
 
 for execution, before he arrives.  We must serve His Highness in
 
@@ -441,7 +441,7 @@ eyes of the Lieutenant could have seen anything of the sort, or if
 
 they could have opened any wider even if they had, they might as
 
-[[Well|well]] have opened wide enough at the transformation made by the
+[[motifs/well|well]] have opened wide enough at the transformation made by the
 
 gesture.  It was like the removal of an iron mask.  An instant
 
@@ -449,7 +449,7 @@ before, Marshal Von Grock had looked uncommonly like a rhinoceros,
 
 with his heavy folds of leathery cheek and jaw.  Now he was a new
 
-kind of [[Monster|monster]]: a rhinoceros with the eyes of an eagle.  The bleak
+kind of [[archetypes/monster|monster]]: a rhinoceros with the eyes of an eagle.  The bleak
 
 blaze of his old eyes would have told almost anybody that he had
 
@@ -495,7 +495,7 @@ comfort and safety of feeling that he was reflecting aloud in the
 
 presence of a cow or a cabbage.
 
-"Again and again, in the [[history]] of our Royal [[house|House]], the servant
+"Again and again, in the [[concepts/history|history]] of our Royal House, the servant
 
 has saved the master," went on Grock, "and often got little but
 
@@ -507,13 +507,13 @@ we were successful and we were strong.  They cursed Bismarck for
 
 deceiving even his own master over the Ems telegram; but it made
 
-that master the master of the world.  [[Paris]] was taken; Austria
+that master the master of the world.  [[settings/paris|Paris]] was taken; Austria
 
-dethroned; and we were safe.  To-[[Night|night]] Paul Petrowski will be dead;
+dethroned; and we were safe.  To-[[motifs/night|night]] Paul Petrowski will be dead;
 
 and we shall again be safe.  That is why I am sending you with his
 
-[[Death|death]]-warrant at once.  You understand that you are bearing the
+[[motifs/death|death]]-warrant at once.  You understand that you are bearing the
 
 order for Petrowski's instant execution--and that you must remain
 
@@ -523,31 +523,31 @@ The inarticulate Hocheimer saluted; he could understand that all
 
 right.  And he had some qualities of a dog, after all: he was as
 
-brave as a bulldog; and he could be faithful to the [[Death|death]].
+brave as a bulldog; and he could be faithful to the [[motifs/death|death]].
 
 "You must mount and ride at once," went on Grock, "and see that
 
-nothing delays or thwarts you.  I know for a fact that [[Fool|fool]] Arnheim
+nothing delays or thwarts you.  I know for a fact that [[archetypes/fool|fool]] Arnheim
 
-is going to release Petrowski to-[[Night|night]], if no message comes.  Make
+is going to release Petrowski to-[[motifs/night|night]], if no message comes.  Make
 
-all [[Speed|speed]]."
+all [[characters/speed|speed]]."
 
-And the Lieutenant again saluted and went out into the [[Night|night]]; and
+And the Lieutenant again saluted and went out into the [[motifs/night|night]]; and
 
 mounting one of the superb white chargers that were part of the
 
 splendour of that splendid corps, began to ride along the high,
 
-narrow [[Road|road]] along the ridge, almost like the top of a wall, which
+narrow [[motifs/road|road]] along the ridge, almost like the top of a wall, which
 
 overlooked the dark horizon, the dim patterns and decaying colours
 
 of those mighty marshes.
 
-Almost as the last echoes of his [[Horse|horse]]'s hoofs died away along the
+Almost as the last echoes of his [[motifs/horse|horse]]'s hoofs died away along the
 
-causeway, Von Grock [[Rose|rose]] and put on his helmet and his spectacles
+causeway, Von Grock [[motifs/rose|rose]] and put on his helmet and his spectacles
 
 and came to the door of his tent; but for another reason.  The
 
@@ -587,7 +587,7 @@ abstracted face was consonant with the legend that the one true
 
 passion of his life was music.
 
-In [[Truth|truth]], the grumbling Grock was inclined to connect with that
+In [[concepts/truth|truth]], the grumbling Grock was inclined to connect with that
 
 remote eccentricity the, to him, highly irritating and exasperating
 
@@ -599,13 +599,13 @@ labyrinthine parade of the military etiquette of their nation; but
 
 plunged at once impatiently into the subject which Grock most
 
-desired to see left [[Alone|alone]]: the subject of this infernal Pole, his
+desired to see left alone: the subject of this infernal Pole, his
 
 popularity and his peril; for the Prince had heard some of the
 
-man's [[songs]] sung in half the opera-houses of Europe.
+man's songs sung in half the opera-houses of Europe.
 
-"To talk of executing a man like that is [[Madness|madness]]," said the Prince,
+"To talk of executing a man like that is [[concepts/madness|madness]]," said the Prince,
 
 scowling under his black helmet.  "He is not a common Pole.  He is
 
@@ -621,7 +621,7 @@ be dead.  He would be deified; but he would be dead.  Whatever he
 
 means to do, he would never do it.  Whatever he is doing, he would
 
-do no more.  [[Death]] is the fact of all facts; and I am rather fond
+do no more.  [[motifs/death|Death]] is the fact of all facts; and I am rather fond
 
 of facts."
 
@@ -635,11 +635,11 @@ black and white post of the Fatherland."
 
 for a quarrel with Weimar!"
 
-"For the safety of your Royal [[house|House]]," answered Grock, "without one
+"For the safety of your Royal House," answered Grock, "without one
 
 instant's hesitation."
 
-There was a short [[Silence|silence]] and the Prince said sharply and suddenly:
+There was a short [[motifs/silence|silence]] and the Prince said sharply and suddenly:
 
 "What does this mean?"
 
@@ -649,7 +649,7 @@ Marshal steadily.  "I have already myself sent orders for the
 
 execution of Petrowski."
 
-The Prince [[Rose|rose]] like a great dark eagle, the swirl of his cloak
+The Prince [[motifs/rose|rose]] like a great dark eagle, the swirl of his cloak
 
 like the sweep of mighty wings; and all men knew that a wrath
 
@@ -663,17 +663,17 @@ stocky man with a square head, who had stood in the background as
 
 motionless as a stone.
 
-"Who has the best [[Horse|horse]] in your cavalry division, General?  Who is
+"Who has the best [[motifs/horse|horse]] in your cavalry division, General?  Who is
 
 the best rider?"
 
-"Arnold Von Schacht has a [[Horse|horse]] that might beat a racehorse,"
+"Arnold Von Schacht has a [[motifs/horse|horse]] that might beat a racehorse,"
 
-replied the General promptly.  "And rides it as [[Well|well]] as a jockey.
+replied the General promptly.  "And rides it as [[motifs/well|well]] as a jockey.
 
 He is of the White Hussars."
 
-"Very [[Well|well]]," said the Prince, with the same new ring in his voice.
+"Very [[motifs/well|well]]," said the Prince, with the same new ring in his voice.
 
 "Let him ride at once after the man with this mad message and stop
 
@@ -689,7 +689,7 @@ overriding all other orders, for the reprieve and release of
 
 Petrowski the Pole.
 
-Then amid a dead [[Silence|silence]], in the midst of which old Grock stood
+Then amid a dead [[motifs/silence|silence]], in the midst of which old Grock stood
 
 with an unblinking stare like a stone idol of prehistoric times, he
 
@@ -705,7 +705,7 @@ medal on the white uniform of the Hussars, clicked his heels, and
 
 received the folded paper from the Prince; then, striding out, he
 
-sprang on his [[Horse|horse]] and flew along the high, narrow [[Road|road]] like a
+sprang on his [[motifs/horse|horse]] and flew along the high, narrow [[motifs/road|road]] like a
 
 silver arrow or a shooting star.
 
@@ -725,7 +725,7 @@ and wiry man, with a great scar across his jaw, rather dark for a
 
 German, unless all his colours had been changed by years of smoke
 
-and [[Storm|storm]] and bad weather.  He saluted and stood stiffly at
+and [[motifs/storm|storm]] and bad weather.  He saluted and stood stiffly at
 
 attention, as the Marshal slowly raised his eyes to him.  And vast
 
@@ -735,7 +735,7 @@ him, and that one battered non-commissioned officer, it is true
 
 that of all the men who have talked in this tale, these two men
 
-[[Alone|alone]] looked and understood each other without words.
+alone looked and understood each other without words.
 
 "Sergeant," said the Marshal, curtly, "I have seen you twice
 
@@ -751,7 +751,7 @@ shooting that damned old woman who would not give us information
 
 about the ambush.  The incident caused considerable comment at the
 
-[[Time|time]], even in some of our own circles.  Influence, however, was
+[[motifs/time|time]], even in some of our own circles.  Influence, however, was
 
 exerted on your side.  My influence."
 
@@ -765,15 +765,15 @@ point essential to his own safety and that of the Fatherland.
 
 Under this error, he has rashly sent a reprieve to the Pole
 
-Petrowski, who is to be executed to-[[Night|night]].  I repeat: who is to be
+Petrowski, who is to be executed to-[[motifs/night|night]].  I repeat: who is to be
 
-executed to-[[Night|night]].  You must immediately ride after Von Schacht,
+executed to-[[motifs/night|night]].  You must immediately ride after Von Schacht,
 
 who carried the reprieve, and stop him."
 
-"I can hardly [[Hope|hope]] to overtake him, Marshal," said Sergeant
+"I can hardly [[concepts/hope|hope]] to overtake him, Marshal," said Sergeant
 
-Schwartz.  "He has the swiftest [[Horse|horse]] in the regiment, and is the
+Schwartz.  "He has the swiftest [[motifs/horse|horse]] in the regiment, and is the
 
 finest rider."
 
@@ -787,7 +787,7 @@ dragged still more ponderously, but without a pause.  "The
 
 discharge of a carbine might attract his attention."
 
-And then the dark sergeant saluted for the third [[Time|time]]; and his grim
+And then the dark sergeant saluted for the third [[motifs/time|time]]; and his grim
 
 mouth was again shut tight.
 
@@ -805,7 +805,7 @@ And Sergeant Schwartz smiled still more grimly; and he also,
 
 lifting the flap of the tent, went out into the darkness and
 
-mounted his [[Horse|horse]] and rode.
+mounted his [[motifs/horse|horse]] and rode.
 
 The last of the three riders was even less likely than the first to
 
@@ -813,7 +813,7 @@ indulge in imaginative ideas for their own sake.  But because he
 
 also was in some imperfect manner human, he could not but feel, on
 
-such a [[Night|night]] and such an errand, the oppressiveness of that inhuman
+such a [[motifs/night|night]] and such an errand, the oppressiveness of that inhuman
 
 landscape.  While he rode along that one abrupt ridge, there spread
 
@@ -833,7 +833,7 @@ of all things.
 
 He was atheist, like so many thousands of dull, clever men in
 
-Northern [[Germany]]; but he was not that happier sort of pagan who can
+Northern [[settings/germany|Germany]]; but he was not that happier sort of pagan who can
 
 see in human progress a natural flowering of the earth.  That world
 
@@ -851,7 +851,7 @@ seen from above like a sprawling map, seemed more like the chart of
 
 a disease than a development; and the land-locked pools might have
 
-been of [[Poison|poison]] rather than [[Water|water]].  He remembered some humanitarian
+been of [[motifs/poison|poison]] rather than [[motifs/water|water]].  He remembered some humanitarian
 
 fuss or other about the poisoning of pools.
 
@@ -859,9 +859,9 @@ But the reflections of the sergeant, like most reflections of men
 
 not normally reflective, had a root in some subconscious strain on
 
-his nerves and his practical intelligence.  The [[Truth|truth]] was that the
+his nerves and his practical intelligence.  The [[concepts/truth|truth]] was that the
 
-straight [[Road|road]] before him was not only dreary, but seemed
+straight [[motifs/road|road]] before him was not only dreary, but seemed
 
 interminably long.  He would never have believed he could have
 
@@ -871,13 +871,13 @@ followed.  Von Schacht must indeed have the fleetest of horses to
 
 have got so far ahead already; for, after all, he had only started,
 
-at whatever [[Speed|speed]], within a comparatively short [[Time|time]].  As Schwartz
+at whatever [[characters/speed|speed]], within a comparatively short [[motifs/time|time]].  As Schwartz
 
 had said, he hardly expected to overtake him; but a very realistic
 
 sense of the distances involved had told him that he must very soon
 
-come in sight of him.  And then, just as [[Despair|despair]] was beginning to
+come in sight of him.  And then, just as [[concepts/despair|despair]] was beginning to
 
 descend and spread itself vaguely over the desolate landscape, he
 
@@ -911,9 +911,9 @@ deformed.  He was hanging like a humpback over the saddle; and
 
 Schwartz, with his exact eye and long experience, was certain that
 
-his victim was shot through the [[Body|body]]; and almost certain that he
+his victim was shot through the [[concepts/body|body]]; and almost certain that he
 
-was shot through the heart.  Then he brought the [[Horse|horse]] down with a
+was shot through the heart.  Then he brought the [[motifs/horse|horse]] down with a
 
 second shot; and the whole equestrian group heeled over and slipped
 
@@ -927,7 +927,7 @@ headed men of his sort are generally very precise about what they
 
 are doing; that is why they are so often quite wrong about what
 
-they do.  He had outraged the [[Comradeship|comradeship]] that is the [[Soul|soul]] of
+they do.  He had outraged the [[concepts/comradeship|comradeship]] that is the [[motifs/soul|soul]] of
 
 armies; he had killed a gallant officer who was in the performance
 
@@ -947,7 +947,7 @@ The man carrying the reprieve was certainly dead; and even if by
 
 some miracle he were only dying, he could not conceivably have
 
-ridden his dead or dying [[Horse|horse]] to the town in [[Time|time]] to prevent the
+ridden his dead or dying [[motifs/horse|horse]] to the town in [[motifs/time|time]] to prevent the
 
 execution.  No; on the whole it was much more practical and prudent
 
@@ -957,11 +957,11 @@ desperate project.  With his whole strength he leaned on the
 
 strength of the great Marshal.
 
-And truly the great Marshal had this [[Greatness|greatness]] about him; that
+And truly the great Marshal had this [[concepts/greatness|greatness]] about him; that
 
 after the monstrous thing he had done, or caused to be done, he
 
-disdained to show any [[Fear|fear]] of facing the facts on the spot or the
+disdained to show any [[concepts/fear|fear]] of facing the facts on the spot or the
 
 compromising possibilities of keeping in touch with his tool.  He
 
@@ -979,9 +979,9 @@ remained some danger from popular resentment.
 
 "Is it here, then, Marshal?" asked the sergeant in a low voice.  "I
 
-fancied it was further on; but it's a fact the infernal [[Road|road]] seemed
+fancied it was further on; but it's a fact the infernal [[motifs/road|road]] seemed
 
-to lengthen out like a [[nightmare]]."
+to lengthen out like a nightmare."
 
 "It is here," answered Grock, and swung himself heavily from saddle
 
@@ -989,7 +989,7 @@ and stirrup, and then went to the edge of the long parapet and
 
 looked down.
 
-The [[Moon|moon]] had risen over the marshes and gone up strengthening in
+The [[motifs/moon|moon]] had risen over the marshes and gone up strengthening in
 
 splendour and gleaming on dark waters and green scum; and in the
 
@@ -999,7 +999,7 @@ a sort of luminous and radiant ruin, all that was left of one of
 
 those superb white horses and white horsemen of his old brigade.
 
-Nor was the [[Identity|identity]] doubtful; the [[Moon|moon]] made a sort of aureole of
+Nor was the [[concepts/identity|identity]] doubtful; the [[motifs/moon|moon]] made a sort of aureole of
 
 the curled golden hair of young Arnold, the second rider and the
 
@@ -1015,17 +1015,17 @@ armour of Sir Galahad; and there could scarcely have been a more
 
 horrible contrast than that between such fallen grace and youth
 
-below and the rocky and [[Grotesque|grotesque]] figure looking down from above.
+below and the rocky and [[concepts/grotesque|grotesque]] figure looking down from above.
 
 Grock had taken off his helmet again; and though it is possible
 
-that this was the vague [[Shadow|shadow]] of some funereal form of respect,
+that this was the vague [[archetypes/shadow|shadow]] of some funereal form of respect,
 
 its visible effect was that the queer naked head and neck like that
 
-of a pachyderm glittered stonily in the [[Moon|moon]], like the hairless
+of a pachyderm glittered stonily in the [[motifs/moon|moon]], like the hairless
 
-head and neck of some [[Monster|monster]] of the Age of Stone.  Rops, or some
+head and neck of some [[archetypes/monster|monster]] of the Age of Stone.  Rops, or some
 
 such etcher of the black, fantastic German schools, might have
 
@@ -1035,39 +1035,39 @@ looking down on the broken wings and white and golden armour of
 
 some defeated champion of the Cherubim.
 
-Grock said no [[Prayer|prayer]] and uttered no pity; but in some dark way his
+Grock said no [[motifs/prayer|prayer]] and uttered no pity; but in some dark way his
 
 mind was moved, as even the dark and mighty swamp will sometimes
 
 move like a living thing; and as such men will, when feeling for
 
-the first [[Time|time]] faintly on their defence before they know not what,
+the first [[motifs/time|time]] faintly on their defence before they know not what,
 
-he tried to formulate his only [[Faith|faith]] and confront it with the stark
+he tried to formulate his only [[concepts/faith|faith]] and confront it with the stark
 
-universe and the staring [[Moon|moon]].
+universe and the staring [[motifs/moon|moon]].
 
 "After and before the deed the German Will is the same.  It cannot
 
-be broken by changes and by [[Time|time]], like that of those others who
+be broken by changes and by [[motifs/time|time]], like that of those others who
 
-repent.  It stands outside [[Time|time]] like a thing of stone, looking
+repent.  It stands outside [[motifs/time|time]] like a thing of stone, looking
 
 forward and backward with the same face."
 
-The [[Silence|silence]] that followed lasted long enough to please his cold
+The [[motifs/silence|silence]] that followed lasted long enough to please his cold
 
-[[Vanity|vanity]] with a certain sense of portent; as if a stone figure had
+[[concepts/vanity|vanity]] with a certain sense of portent; as if a stone figure had
 
-spoken in a valley of [[Silence|silence]].  But the [[Silence|silence]] began to thrill
+spoken in a valley of [[motifs/silence|silence]].  But the [[motifs/silence|silence]] began to thrill
 
 once more with a distant whisper which was the faint throb of
 
 horsehoofs; and a moment later the sergeant came galloping, or
 
-rather racing, back along the uplifted [[Road|road]], and his scarred and
+rather racing, back along the uplifted [[motifs/road|road]], and his scarred and
 
-swarthy visage was no longer merely grim but ghastly in the [[Moon|moon]].
+swarthy visage was no longer merely grim but ghastly in the [[motifs/moon|moon]].
 
 "Marshal," he said, saluting with a strange stiffness, "I have seen
 
@@ -1081,7 +1081,7 @@ down and in some abstraction.
 
 risen from the dead."
 
-He stared in front of him at the [[Moon|moon]] and marshes; but, indeed,
+He stared in front of him at the [[motifs/moon|moon]] and marshes; but, indeed,
 
 though he was far from being a visionary character, it was not
 
@@ -1099,11 +1099,11 @@ figured in so many private albums and illustrated magazines.  And
 
 behind him he had seen that Polish town aflame with flags and
 
-firebrands and a population boiling with triumphant [[Hero|hero]]-worship,
+firebrands and a population boiling with triumphant [[archetypes/hero|hero]]-worship,
 
-though perhaps less hostile to the [[government]] than it might have
+though perhaps less hostile to the government than it might have
 
-been, since it was rejoicing at the release of its popular [[Hero|hero]].
+been, since it was rejoicing at the release of its popular [[archetypes/hero|hero]].
 
 "Do you mean," cried Grock with a sudden croaking stridency of
 
@@ -1121,7 +1121,7 @@ messenger came from our camp at all?"
 
 "No messenger at all," said the sergeant.
 
-There was a much longer [[Silence|silence]], and then Grock said, hoarsely:
+There was a much longer [[motifs/silence|silence]], and then Grock said, hoarsely:
 
 "What in the name of hell has happened?  Can you think of anything
 
@@ -1135,11 +1135,11 @@ When Mr. Pond had told the story up to this point, he paused with
 
 an irritating blankness of expression.
 
-"[[Well]]," said Gahagan impatiently, "and do YOU know anything that
+"[[motifs/well|Well]]," said Gahagan impatiently, "and do YOU know anything that
 
 would explain it all?"
 
-"[[Well]], I think I do," said Mr. Pond meekly.  "You see, I had to
+"[[motifs/well|Well]], I think I do," said Mr. Pond meekly.  "You see, I had to
 
 worry it out for myself, when the report came round to my
 
@@ -1157,37 +1157,37 @@ confidently before the cabbage.  He despised stupid men even on his
 
 own staff; and treated Von Hocheimer, the first messenger, as a
 
-piece of furniture merely because he looked like a [[Fool|fool]]; but the
+piece of furniture merely because he looked like a [[archetypes/fool|fool]]; but the
 
-Lieutenant was not such a [[Fool|fool]] as he looked.  He also understood
+Lieutenant was not such a [[archetypes/fool|fool]] as he looked.  He also understood
 
-what the great Marshal meant, quite as [[Well|well]] as the cynical
+what the great Marshal meant, quite as [[motifs/well|well]] as the cynical
 
 sergeant, who had done such dirty work all his life.  Hocheimer
 
-also understood the Marshal's peculiar moral [[philosophy]]: that an
+also understood the Marshal's peculiar moral philosophy: that an
 
 act is unanswerable even when it is indefensible.  He knew that
 
 what his commander wanted was simply the corpse of Petrowski; that
 
-he wanted it anyhow, at the expense of any [[Deception|deception]] of princes or
+he wanted it anyhow, at the expense of any [[concepts/deception|deception]] of princes or
 
 destruction of soldiers.  And when he heard a swifter horseman
 
-behind him, riding to overtake him, he knew as [[Well|well]] as Grock
+behind him, riding to overtake him, he knew as [[motifs/well|well]] as Grock
 
 himself that the new messenger must be carrying with him the
 
-message of the [[Mercy|mercy]] of the Prince.  Von Schacht, that very young
+message of the [[concepts/mercy|mercy]] of the Prince.  Von Schacht, that very young
 
 but gallant officer, looking like the very embodiment of all that
 
-more generous tradition of [[Germany]] that has been too much neglected
+more generous tradition of [[settings/germany|Germany]] that has been too much neglected
 
 in this tale, was worthy of the accident that made him the herald
 
-of a more generous policy.  He came with the [[Speed|speed]] of that noble
+of a more generous policy.  He came with the [[characters/speed|speed]] of that noble
 
 horsemanship that has left behind it in Europe the very name of
 
@@ -1195,21 +1195,21 @@ chivalry, calling out to the other in a tone like a herald's
 
 trumpet to stop and stand and turn.  And Von Hocheimer obeyed.  He
 
-stopped, he reined in his [[Horse|horse]], he turned in his saddle; but his
+stopped, he reined in his [[motifs/horse|horse]], he turned in his saddle; but his
 
-hand held the carbine levelled like a [[Pistol|pistol]], and he shot the boy
+hand held the carbine levelled like a [[characters/pistol|pistol]], and he shot the boy
 
 between the eyes.
 
-"Then he turned again and rode on, carrying the [[Death|death]]-warrant of
+"Then he turned again and rode on, carrying the [[motifs/death|death]]-warrant of
 
-the Pole.  Behind him [[Horse|horse]] and man had crashed over the edge of
+the Pole.  Behind him [[motifs/horse|horse]] and man had crashed over the edge of
 
-the embankment, so that the whole [[Road|road]] was clear.  And along that
+the embankment, so that the whole [[motifs/road|road]] was clear.  And along that
 
-clear and open [[Road|road]] toiled in his turn the third messenger,
+clear and open [[motifs/road|road]] toiled in his turn the third messenger,
 
-marvelling at the interminable length of his [[Journey|journey]]; till he saw
+marvelling at the interminable length of his [[motifs/journey|journey]]; till he saw
 
 at last the unmistakable uniform of a Hussar like a white star
 
@@ -1219,7 +1219,7 @@ kill the second messenger, but the first.
 
 "That was why no messenger came alive to the Polish town that
 
-[[Night|night]].  That was why the prisoner walked out of his [[Prison|prison]] alive.
+[[motifs/night|night]].  That was why the prisoner walked out of his [[motifs/prison|prison]] alive.
 
 Do you think I was quite wrong in saying that Von Grock had two
 
@@ -1229,7 +1229,7 @@ THE CRIME OF CAPTAIN GAHAGAN
 
 It must be confessed that some people thought Mr. Pond a bore.  He
 
-had a weakness for long speeches, not out of [[Self|self]]-importance, but
+had a weakness for long speeches, not out of [[concepts/self|self]]-importance, but
 
 because he had an old-fashioned taste in literature; and had
 
@@ -1247,7 +1247,7 @@ Mr. Pond said (referring, I grieve to say, to the greater part of
 
 the female sex, at least in its most modern phase):  "They go so
 
-fast that they get no farther," he did not mean it as an [[Epigram|epigram]].
+fast that they get no farther," he did not mean it as an [[forms/epigram|epigram]].
 
 And somehow it did not sound epigrammatic; but only odd and
 
@@ -1263,7 +1263,7 @@ therefore and great glory belongs to anyone who could successfully
 
 stop Mr. Pond from making long speeches; and this laurel is for the
 
-brows of Miss Artemis Asa-[[smith|Smith]], of Pentapolis, Pa.  She came to
+brows of Miss Artemis Asa-Smith, of Pentapolis, Pa.  She came to
 
 interview Mr. Pond for The Live Wire, touching his alleged views on
 
@@ -1277,7 +1277,7 @@ murder, but--"
 
 "Forget it," said the young lady briefly.  "It's just too wonderful
 
-for me to be sitting here next to all [[Secrets|secrets]] of your [[government]];
+for me to be sitting here next to all [[motifs/secrets|secrets]] of your government;
 
 why--"
 
@@ -1293,7 +1293,7 @@ ended.
 
 We have all heard of American interviewers who rip up family
 
-[[Secrets|secrets]], break down bedroom doors and collect information in the
+[[motifs/secrets|secrets]], break down bedroom doors and collect information in the
 
 manner of burglars.  There are some; but there are also others.
 
@@ -1301,7 +1301,7 @@ There are, or were, when the writer remembers them, a very large
 
 number of intelligent men ready to discuss intelligent things; and
 
-there was Miss Asa-[[smith|Smith]].  She was small and dark; she was rather
+there was Miss Asa-Smith.  She was small and dark; she was rather
 
 pretty and would have been very pretty if she had not dipped her
 
@@ -1309,15 +1309,15 @@ lipstick in hues of earthquake and eclipse.  Her finger-nails were
 
 painted five different colours, looking like the paints in a
 
-[[Child|child]]'s paintbox; and she was as [[Innocent|innocent]] as a [[Child|child]].  She was also
+[[archetypes/child|child]]'s paintbox; and she was as [[archetypes/innocent|innocent]] as a [[archetypes/child|child]].  She was also
 
-as garrulous as a [[Child|child]].  She felt something paternal about Mr.
+as garrulous as a [[archetypes/child|child]].  She felt something paternal about Mr.
 
 Pond and told him everything.  He did not have to tell her
 
 anything.  No buried tragedies of the Pond family were dug up; no
 
-[[Secrets|secrets]] of the crimes committed behind Mr. Pond's bedroom door.
+[[motifs/secrets|secrets]] of the crimes committed behind Mr. Pond's bedroom door.
 
 Conversation, so to describe it, revolved largely round her early
 
@@ -1335,15 +1335,15 @@ written a play; and she just longed to read it to Mr. Pond.
 
 "I suppose we've all been tempted in desperate moments--"
 
-"[[Well]], I'm just desperate to read you this play, and--you know how
+"[[motifs/well|Well]], I'm just desperate to read you this play, and--you know how
 
 it is.  You see, my play's awfully MODERN.  But even the modernest
 
-people haven't done just that--I mean, beginning in the [[Water|water]] and
+people haven't done just that--I mean, beginning in the [[motifs/water|water]] and
 
 then--"
 
-"Beginning in the [[Water|water]]?" inquired Mr. Pond.
+"Beginning in the [[motifs/water|water]]?" inquired Mr. Pond.
 
 "Yes, isn't it just too--oh, you know.  I suppose they will have
 
@@ -1351,7 +1351,7 @@ all characters in bathing dresses soon--but they'll only just enter
 
 L. or R.; come on at the side, you know--and all the old stuff.  My
 
-characters enter from above, diving, with a splash--[[Well]], that'll
+characters enter from above, diving, with a splash--[[motifs/well|Well]], that'll
 
 be a splash, won't it?  I mean to say, it begins like that."  She
 
@@ -1375,13 +1375,13 @@ is the only splash by your--.'
 
 "She calls him Grandpa, you see, because 'splosh' means money in
 
-that ever-so-old comic [[Song|song]]--they're quite young really, of course,
+that ever-so-old comic song--they're quite young really, of course,
 
 and rather . . . you know.  But--"
 
-Mr. Pond interposed with delicacy and firmness:  "I [[Wonder|wonder]] whether
+Mr. Pond interposed with delicacy and firmness:  "I [[concepts/wonder|wonder]] whether
 
-you would be so very kind, Miss Asa-[[smith|Smith]], as to leave the
+you would be so very kind, Miss Asa-Smith, as to leave the
 
 manuscript with me or send me a copy, so that I can enjoy it at
 
@@ -1395,7 +1395,7 @@ heights into a stage sea?"
 
 "Oh, I dare say some of the old-stagers would be stuffy about it,"
 
-she replied, "because--can't fancy your great tragedienne, [[Olivia]]
+she replied, "because--can't fancy your great tragedienne, [[characters/olivia|Olivia]]
 
 Feversham--though she's not so old really and just lovely still,
 
@@ -1405,7 +1405,7 @@ Varney to PROMISE, and her sister's quite a friend of mine, though
 
 of course not so--and lots of amateurs would do it for fun.  That
 
-Gahagan guy is a good swimmer, and he's acted, too, and--oh, [[Well|well]],
+Gahagan guy is a good swimmer, and he's acted, too, and--oh, [[motifs/well|well]],
 
 he'd click if Joan Varney's in it."
 
@@ -1417,25 +1417,25 @@ silently alert and alive.  He said with a new gravity:
 
 me to Miss Varney.  As to her sister, the one on the stage--"
 
-"Not a patch on Joan, is she?  But--" said Miss Asa-[[smith|Smith]].
+"Not a patch on Joan, is she?  But--" said Miss Asa-Smith.
 
-Mr. Pond had formed an impression.  He liked Miss Asa-[[smith|Smith]].  He
+Mr. Pond had formed an impression.  He liked Miss Asa-Smith.  He
 
 liked her very much.  And the thought of the Honourable Violet
 
-Varney, that English [[aristocrat]], made him like the American even
+Varney, that English aristocrat, made him like the American even
 
 more.  The Honourable Violet was one of those wealthy women who pay
 
 to act badly; and blackleg the poorer people who might have been
 
-paid to act [[Well|well]].  She certainly was quite capable of diving in a
+paid to act [[motifs/well|well]].  She certainly was quite capable of diving in a
 
 bathing dress, or in anything or nothing, if it were the only way
 
 to the stage and the spot-light.  She was quite capable of helping
 
-Miss Asa-[[smith|Smith]] in her absurd play and talking similar nonsense
+Miss Asa-Smith in her absurd play and talking similar nonsense
 
 about being modern and independent of selfish man.  But there was a
 
@@ -1457,7 +1457,7 @@ too tired to finish it; Artemis did so as if she were really too
 
 eager to get on to the next.  There was within her, somehow, a
 
-thing, a spirit of life, which survives every criticism of [[America]].
+thing, a spirit of life, which survives every criticism of [[settings/america|America]].
 
 "Joan Varney's much nicer," continued Artemis, "and you bet your
 
@@ -1475,19 +1475,19 @@ the precise and prosaic Mr. Pond.
 
 "Some say he's a rotter," said the candid American.  "I don't say
 
-that; but I do say he's a dark [[Horse|horse]].  And he does shilly-shally
+that; but I do say he's a dark [[motifs/horse|horse]].  And he does shilly-shally
 
-about Joan Varney, doesn't he?  Some say he's really in [[Love|love]] with
+about Joan Varney, doesn't he?  Some say he's really in [[motifs/love|love]] with
 
-the great [[Olivia]]--your only tragic actress.  Only she's so jolly
+the great [[characters/olivia|Olivia]]--your only tragic actress.  Only she's so jolly
 
 tragic."
 
-"God send she doesn't play in a real [[Tragedy|tragedy]]," said Pond.
+"God send she doesn't play in a real [[forms/tragedy|tragedy]]," said Pond.
 
 He knew what he meant; but he had not the faintest foreshadowing of
 
-the awful [[Tragedy|tragedy]] of real life and [[Death|death]] in which [[Olivia]] Feversham
+the awful [[forms/tragedy|tragedy]] of real life and [[motifs/death|death]] in which [[characters/olivia|Olivia]] Feversham
 
 was to play within the next twenty-four hours.
 
@@ -1499,13 +1499,13 @@ Gahagan lived the modern life, perhaps to excess, was a prop of
 
 nightclubs and a driver of sports cars, still comparatively young;
 
-but, for all that, he was a [[Survival|survival]].  He belonged to the times of
+but, for all that, he was a [[concepts/survival|survival]].  He belonged to the times of
 
 a more Byronic pose.  When Mr. W. B. Yeats wrote:  "Romantic
 
-Ireland's dead and gone; it's with O'Leary in the [[Grave|grave]]," he had
+Ireland's dead and gone; it's with O'Leary in the [[motifs/grave|grave]]," he had
 
-never met Gahagan, who was not yet in the [[Grave|grave]].  He was of that
+never met Gahagan, who was not yet in the [[motifs/grave|grave]].  He was of that
 
 older tradition by a hundred tests; he had been a cavalry soldier
 
@@ -1525,9 +1525,9 @@ eighteenth-century way: the way of Garrick; and that eighteenth
 
 century that he recalled had a pretty pagan side to it.  Pond could
 
-not dismiss the chances of Gahagan having an affair with [[Olivia]] or
+not dismiss the chances of Gahagan having an affair with [[characters/olivia|Olivia]] or
 
-anyone else; and if so a [[Storm|storm]] might be brewing.  For [[Olivia]] was
+anyone else; and if so a [[motifs/storm|storm]] might be brewing.  For [[characters/olivia|Olivia]] was
 
 married; and to no complaisant husband, either.
 
@@ -1551,9 +1551,9 @@ popular in the profession.  But he was much less intimate with his
 
 wife than with his solicitor.
 
-Through [[Court|court]] after [[Court|court]] Feversham passed, pursuing his rights and
+Through [[settings/court|court]] after [[settings/court|court]] Feversham passed, pursuing his rights and
 
-followed like a [[Shadow|shadow]] by his solicitor, Luke, of the firm of
+followed like a [[archetypes/shadow|shadow]] by his solicitor, Luke, of the firm of
 
 Masters, Luke and Masters; a young man with flat, yellow hair and a
 
@@ -1561,7 +1561,7 @@ rather wooden face.  What he thought of his client's feuds and how
 
 far he ventured to restrain them, that wooden face would never
 
-reveal.  But he worked [[Well|well]] for his client; and the two had
+reveal.  But he worked [[motifs/well|well]] for his client; and the two had
 
 necessarily become in a way companions-in-arms.  Of one thing Pond
 
@@ -1583,19 +1583,19 @@ the problem of an ill-drawn will or a dubious signature.  It was
 
 the problem of a stiff and staring corpse, lying just inside a
 
-[[Garden|garden]]-gate and nailed there by a fencing-[[Sword|sword]] with the button
+[[motifs/garden|garden]]-gate and nailed there by a fencing-sword with the button
 
 broken off.  Frederick Feversham, that legalist, had suffered at
 
 least one final and indisputable illegality; he had been stabbed to
 
-[[Death|death]] as he entered his own [[Home|home]].
+[[motifs/death|death]] as he entered his own [[motifs/home|home]].
 
 Long before certain facts, slowly collected, were put before the
 
 police, they were put before Mr. Pond.  This may seem odd, but
 
-there were reasons; indeed Mr. Pond, like many other [[government|Government]]
+there were reasons; indeed Mr. Pond, like many other Government
 
 officials, had rather secret and unsuspected spheres of influence;
 
@@ -1609,9 +1609,9 @@ labyrinth of the most unconstitutional of all constitutions.  In
 
 any case, his first warning of the trouble took the commonplace
 
-form of an ordinary legal letter, with the heading of the [[Well|well]]-
+form of an ordinary legal letter, with the heading of the [[motifs/well|well]]-
 
-known firm of Masters, Luke and Masters, expressing the [[Hope|hope]] that
+known firm of Masters, Luke and Masters, expressing the [[concepts/hope|hope]] that
 
 Mr. Luke might be allowed to discuss certain information with Mr.
 
@@ -1631,11 +1631,11 @@ He had already thought of about two-thirds of what the solicitor
 
 was going to tell him.
 
-"The [[Truth|truth]] is, Mr. Pond," said the solicitor, in a confidential but
+"The [[concepts/truth|truth]] is, Mr. Pond," said the solicitor, in a confidential but
 
 still careful voice, when he was at length deposited on the other
 
-side of Mr. Pond's table next day.  "The [[Truth|truth]] is that the
+side of Mr. Pond's table next day.  "The [[concepts/truth|truth]] is that the
 
 possibilities of this affair, painful in any case, may be specially
 
@@ -1655,7 +1655,7 @@ suppose that anybody had not entertained the idea long ago.  He
 
 knew that words to that effect were common in the more conventional
 
-[[Detective|detective]] stories, which he heartily enjoyed, as a change from
+[[archetypes/detective|detective]] stories, which he heartily enjoyed, as a change from
 
 Burke and Gibbon.  He could see the printed words on a hundred
 
@@ -1697,11 +1697,11 @@ whether men were capable of murder, he was rather inclined to think
 
 that Gahagan WAS capable of murder--more capable of murder than of
 
-meanness to a [[cabman]].
+meanness to a cabman.
 
 Suddenly, with extraordinary vividness, the image of Gahagan
 
-himself sprang up in Pond's [[Memory|memory]]: Gahagan as he had last seen him
+himself sprang up in Pond's [[motifs/memory|memory]]: Gahagan as he had last seen him
 
 lounging with his large shoulders and long stride, and strange dark-
 
@@ -1715,17 +1715,17 @@ himself.  No; the Irishman was a man seventy-and-seven times to be
 
 forgiven; but not a man to be lightly acquitted.
 
-"Mr. Luke," said Pond suddenly, "will it save [[Time|time]] if I tell you,
+"Mr. Luke," said Pond suddenly, "will it save [[motifs/time|time]] if I tell you,
 
 to start with, what I know there is against Gahagan?  He was
 
 hanging round Mrs. Feversham, the great actress; I don't know why
 
-he was; my own belief is that he is really in [[Love|love]] with another
+he was; my own belief is that he is really in [[motifs/love|love]] with another
 
 woman.  Yet he did unquestionably give the actress a huge amount of
 
-his [[Time|time]]: hours and hours and late hours too.  But if Feversham
+his [[motifs/time|time]]: hours and hours and late hours too.  But if Feversham
 
 caught him doing anything unconventional, Feversham was not the man
 
@@ -1747,7 +1747,7 @@ at the start that I don't believe in it."
 
 "Unfortunately it is not the whole case against Captain Gahagan,"
 
-replied Luke smoothly, "and I [[Fear|fear]] the full Statement may make even
+replied Luke smoothly, "and I [[concepts/fear|fear]] the full Statement may make even
 
 you believe it.  Perhaps the most serious result of our
 
@@ -1759,13 +1759,13 @@ of his movements, or proposed movements, on the evening of the
 
 murder.  Allowing him the highest possible marks for truthfulness
 
-in the matter, he must at least have told two lies to one [[Truth|truth]]."
+in the matter, he must at least have told two lies to one [[concepts/truth|truth]]."
 
 "I have always found Gahagan truthful enough," replied Pond,
 
 "except when he was telling lies for amusement; which is really
 
-rather the mark of a man who doesn't prostitute the [[Sublime|sublime]] art of
+rather the mark of a man who doesn't prostitute the [[concepts/sublime|sublime]] art of
 
 lying to the base uses of necessity.  About all ordinary practical
 
@@ -1791,7 +1791,7 @@ had been talking to several ladies."
 
 him?  If one of them happened, for instance, to be that very
 
-charming lady, Miss Asa-[[smith|Smith]] of Pentapolis, I would venture to
+charming lady, Miss Asa-Smith of Pentapolis, I would venture to
 
 guess that it was she who was talking to him."
 
@@ -1799,7 +1799,7 @@ guess that it was she who was talking to him."
 
 not know if it was a guess; but one of them certainly was a Miss
 
-Asa-[[smith|Smith]] of Pentapolis.  The other two were the Hon. Violet Varney
+Asa-Smith of Pentapolis.  The other two were the Hon. Violet Varney
 
 and, last but not least, the Hon. Joan Varney.  As a matter of
 
@@ -1809,15 +1809,15 @@ only natural.  It is notable, on your own suggestion, that he is
 
 really attached to this last lady, that his statement to her was
 
-apparently much the nearest to the [[Truth|truth]]."
+apparently much the nearest to the [[concepts/truth|truth]]."
 
 "Ah," said Mr. Pond, and pulled his beard thoughtfully.
 
 "Joan Varney," observed the lawyer gravely, "stated most
 
-definitely, before she knew that there was any trouble or [[Tragedy|tragedy]]
+definitely, before she knew that there was any trouble or [[forms/tragedy|tragedy]]
 
-in this case, that Captain Gahagan had left the [[house]] saying:  'I
+in this case, that Captain Gahagan had left the house saying:  'I
 
 am going round to the Fevershams'.'"
 
@@ -1825,7 +1825,7 @@ am going round to the Fevershams'.'"
 
 said Mr. Pond.
 
-"Most emphatically," replied Luke.  "The other sister, [[Well|well]] known
+"Most emphatically," replied Luke.  "The other sister, [[motifs/well|well]] known
 
 on the stage as Violet Varney, stopped him as he was going out and
 
@@ -1877,7 +1877,7 @@ she's quite honest."
 
 absolutely honest."
 
-"[[Well]], there it is," said Luke, speaking also not without a decent
+"[[motifs/well|Well]], there it is," said Luke, speaking also not without a decent
 
 gloom.  "It seems to me that the psychology's only too obvious
 
@@ -1887,7 +1887,7 @@ to the girl he was accustomed to confide in; perhaps he didn't
 
 really plan the crime till later; or perhaps it wasn't entirely
 
-planned or premeditated.  But by the [[Time|time]] he talked to less
+planned or premeditated.  But by the [[motifs/time|time]] he talked to less
 
 friendly people he saw how unwise it would be to say he was going
 
@@ -1901,7 +1901,7 @@ sufficiently vague, and says he is going to the club."
 
 "It might be like that," replied Pond, "or it might--"  And Mr.
 
-Pond fell for the first [[Time|time]] into the lax habit of Miss Asa-[[smith|Smith]],
+Pond fell for the first [[motifs/time|time]] into the lax habit of Miss Asa-Smith,
 
 and failed to finish his sentence.  Instead he sat staring at the
 
@@ -1915,11 +1915,11 @@ The bearded fish came to the surface again with a somewhat new
 
 expression, and said with a brisk and almost sharp tone:
 
-"You seem very much bent on bringing the crime [[Home|home]] to poor
+"You seem very much bent on bringing the crime [[motifs/home|home]] to poor
 
 Gahagan."
 
-For the first [[Time|time]] Luke's features stiffened to hardness, or even
+For the first [[motifs/time|time]] Luke's features stiffened to hardness, or even
 
 harshness.  "We naturally wish to bring the murderer of our client
 
@@ -2023,7 +2023,7 @@ gentleman who was my client and friend!"
 
 "You seem a little annoyed," said Mr. Pond.  "Have you tried
 
-reading Dr. Johnson's [[Vanity]] of Human Wishes?  Very soothing.
+reading Dr. Johnson's [[concepts/vanity|Vanity]] of Human Wishes?  Very soothing.
 
 Believe me, those eighteenth-century writers I wanted to quote are
 
@@ -2033,7 +2033,7 @@ very soothing.  Have you read Addison's play about Cato?"
 
 "Or again," continued Mr. Pond in a chatty way, "have you read Miss
 
-Asa-[[smith|Smith]]'s play about the duchess in the bathing-suit?  All the
+Asa-Smith's play about the duchess in the bathing-suit?  All the
 
 sentences curiously cut short--like the bathing-suit."
 
@@ -2041,7 +2041,7 @@ sentences curiously cut short--like the bathing-suit."
 
 "Oh, yes, I mean a great deal," replied Pond.  "But it takes quite
 
-a long [[Time|time]] to explain--like the [[Vanity]] of Human Wishes.  What I
+a long [[motifs/time|time]] to explain--like the [[concepts/vanity|Vanity]] of Human Wishes.  What I
 
 mean is this.  My friend Gahagan is very fond of those old wits and
 
@@ -2055,9 +2055,9 @@ style; balance and antithesis and all that.  Now if you have this
 
 habit and read, say, the hackneyed lines in Cato:  ''Tis not in
 
-mortals to command [[success]]; but we'll do more, [[Sempronius]], we'll
+mortals to command success; but we'll do more, [[characters/sempronius|Sempronius]], we'll
 
-deserve it'--[[Well|well]], it may be good or bad; but you've got to wait
+deserve it'--[[motifs/well|well]], it may be good or bad; but you've got to wait
 
 for the end of the sentence; because it begins with a platitude and
 
@@ -2069,7 +2069,7 @@ nobody waits for it to end.
 
 don't think, they think quicker than we do.  They often talk
 
-better.  But they don't LISTEN so [[Well|well]].  They leap so quickly upon
+better.  But they don't LISTEN so [[motifs/well|well]].  They leap so quickly upon
 
 the first point; they see so much more in it; and go off in a
 
@@ -2103,7 +2103,7 @@ though his next words were that the woman almost certainly wasn't
 
 there.  Stuff about Brighton and the club didn't interest her, and
 
-she didn't even remember it.  Very [[Well|well]], let us go on to the next
+she didn't even remember it.  Very [[motifs/well|well]], let us go on to the next
 
 case.  What Gahagan said to Violet Varney was this:  'It's no good
 
@@ -2113,7 +2113,7 @@ but perhaps I'll look in and see; if they're not back, I shall go
 
 on to the club.'  Violet is much less truthful and careful than
 
-Joan; and she was jealous of [[Olivia]] herself, but in a much
+Joan; and she was jealous of [[characters/olivia|Olivia]] herself, but in a much
 
 shallower way, Violet supposing herself to be an actress.  She also
 
@@ -2127,7 +2127,7 @@ condescend to pay any attention whatever to anything else he said.
 
 "Now for the third case.  What Gahagan said to Miss Artemis Asa-
 
-[[smith|Smith]] on the doorstep was this:  'I'm going to the club; I promised
+Smith on the doorstep was this:  'I'm going to the club; I promised
 
 to look in on some friends of mine on the way, the Fevershams; but
 
@@ -2135,7 +2135,7 @@ I don't believe they're back from Brighton.'  That's what he said.
 
 What Artemis heard, saw and blasted with her blazing eye, was a
 
-typical insolent, selfish, [[Self|self]]-indulgent male brazenly bragging in
+typical insolent, selfish, [[concepts/self|self]]-indulgent male brazenly bragging in
 
 the open street of his intention to go to his infamous club, where
 
@@ -2159,13 +2159,13 @@ especially to these rather jumpy modern girls, accustomed only to
 
 jump at the sentence that comes first--very often because there
 
-isn't any thing at all to come after it.  The Asa-[[smith|Smith]] school of
+isn't any thing at all to come after it.  The Asa-Smith school of
 
 drama, in which every sentence stops as soon as it starts, if it
 
-doesn't strike you as having much to do with the [[Tragedy]] of Cato,
+doesn't strike you as having much to do with the [[forms/tragedy|Tragedy]] of Cato,
 
-has had a very great deal to do with the [[Tragedy]] of Captain
+has had a very great deal to do with the [[forms/tragedy|Tragedy]] of Captain
 
 Gahagan.  They might have hanged my friend between them, with the
 
@@ -2199,9 +2199,9 @@ proved any of this."
 
 guessed it.  But I did ring up Gahagan and hear something of the
 
-[[Truth|truth]] of his words and movements that afternoon."
+[[concepts/truth|truth]] of his words and movements that afternoon."
 
-"[[Truth]]!" cried Luke, with very extraordinary bitterness.
+"[[concepts/truth|Truth]]!" cried Luke, with very extraordinary bitterness.
 
 Pond looked at him curiously.  That woodenness of visage which was
 
@@ -2227,7 +2227,7 @@ came back to him about an actual conspiracy against Gahagan; though
 
 certainly not one worked by Artemis or Joan.  At last he broke the
 
-[[Silence|silence]] very abruptly.
+[[motifs/silence|silence]] very abruptly.
 
 "Mr. Luke," he said, "you are naturally concerned for your late
 
@@ -2237,7 +2237,7 @@ interest.  Since you study his interests so deeply, can you give me
 
 a piece of information about him?  DID Mr. Feversham and his wife
 
-come back from Brighton that day?  Was Mrs. Feversham at the [[house]]
+come back from Brighton that day?  Was Mrs. Feversham at the house
 
 that afternoon, whether Gahagan went there, or not?"
 
@@ -2245,17 +2245,17 @@ that afternoon, whether Gahagan went there, or not?"
 
 return next morning.  I have no idea why Feversham himself did
 
-return that [[Night|night]]."
+return that [[motifs/night|night]]."
 
 "Looks almost as if somebody had sent for him," said Mr. Pond.
 
-Mr. Luke the solicitor [[Rose|rose]] abruptly from his seat and turned away.
+Mr. Luke the solicitor [[motifs/rose|rose]] abruptly from his seat and turned away.
 
 "I cannot see any use in all these speculations of yours," he said,
 
 and, making a stiff salute, he took his top-hat and was gone from
 
-the [[house]] with a swiftness that seemed hardly normal.
+the house with a swiftness that seemed hardly normal.
 
 Next day Mr. Pond clad himself even more conventionally and
 
@@ -2293,17 +2293,17 @@ human personality and stands apart from modes and manners.  For
 
 Joan had very much the same tricks of style; the same rather high,
 
-[[Well|well]]-bred voice, the same sketchy, uncompleted sentences; but,
+[[motifs/well|well]]-bred voice, the same sketchy, uncompleted sentences; but,
 
 fortunately, not the same purple powder and not in the least the
 
-same eyes or gestures or mind or immortal [[Soul|soul]].  Mr. Pond, with all
+same eyes or gestures or mind or immortal [[motifs/soul|soul]].  Mr. Pond, with all
 
 his old-fashioned prejudices, knew at once that in this other girl
 
 the new virtues were virtues, whether or not they were new.  She
 
-really was brave and generous and fond of the [[Truth|truth]], though the
+really was brave and generous and fond of the [[concepts/truth|truth]], though the
 
 Society papers did say so.  "She's all right," said Mr. Pond to
 
@@ -2313,9 +2313,9 @@ And oh, how much better than platinum!"
 
 Stopping at the next stage of his pilgrimage, he visited the
 
-monstrous and ludicrous large hotel which had the [[Honour|honour]] of housing
+monstrous and ludicrous large hotel which had the [[concepts/honour|honour]] of housing
 
-Miss Artemis Asa-[[smith|Smith]] of Pennsylvania.  She received him with the
+Miss Artemis Asa-Smith of Pennsylvania.  She received him with the
 
 rather overwhelming enthusiasm which bore her everywhere through
 
@@ -2331,7 +2331,7 @@ which he always refused to say a word to anybody), the ardent
 
 Artemis continued to earn his approval by her reserves of good
 
-sense and good [[Nature|nature]].  She saw the point about the order of the
+sense and good [[concepts/nature|nature]].  She saw the point about the order of the
 
 topics mentioned, and its probable effect on her own mind; and so
 
@@ -2349,25 +2349,25 @@ himself together, before approaching his last duty--which also took
 
 the form of calling on a lady.  He might be excused; for it also
 
-involved passing through that grim [[Garden|garden]] where a man had lain
+involved passing through that grim [[motifs/garden|garden]] where a man had lain
 
-murdered, to that high and sinister [[house]] where his widow was still
+murdered, to that high and sinister house where his widow was still
 
-living [[Alone|alone]]: the great [[Olivia]], [[Queen|queen]] of [[Tragedy|tragedy]], now tragic by a
+living alone: the great [[characters/olivia|Olivia]], [[characters/queen|queen]] of [[forms/tragedy|tragedy]], now tragic by a
 
-[[Double|double]] claim.
+[[topoi/double|double]] claim.
 
 He stepped, not without repugnance, across that dark corner inside
 
-the gate and under the holly tree where poor [[Fred]] Feversham had
+the gate and under the holly tree where poor [[characters/fred|Fred]] Feversham had
 
-been spiked to the earth by a mere splinter of a [[Sword|sword]]; and as he
+been spiked to the earth by a mere splinter of a sword; and as he
 
 climbed the crooked path to the doorway in the narrow and bare
 
-brick [[house]] that stood above him like a tower, dark against the
+brick house that stood above him like a tower, dark against the
 
-[[Stars|stars]], he revolved difficulties much deeper than had yet troubled
+[[motifs/stars|stars]], he revolved difficulties much deeper than had yet troubled
 
 him in the more trifling matter of the supposed inconsistencies of
 
@@ -2379,7 +2379,7 @@ unfortunate Frederick Feversham; and there were some real reasons
 
 for directing the suspicion upon Gahagan.  After all, he had been
 
-in the habit of spending whole days, or half of the nights as [[Well|well]],
+in the habit of spending whole days, or half of the nights as [[motifs/well|well]],
 
 with this actress; nothing seemed more horribly natural, more
 
@@ -2395,7 +2395,7 @@ was not an advertisement, as it would be for Violet Varney.  She
 
 had really the stronger motive of the two . . . but, good God, this
 
-would never do!  Suppose Gahagan really was [[Innocent|innocent]]--but at that
+would never do!  Suppose Gahagan really was [[archetypes/innocent|innocent]]--but at that
 
 price!  Whatever his weaknesses, he was just the man to be hanged
 
@@ -2411,15 +2411,15 @@ what was there against Gahagan or the widow?  It seemed to him, as
 
 he forced himself to colder considerations, that it really resolved
 
-itself into a matter of [[Time|time]].
+itself into a matter of [[motifs/time|time]].
 
-Gahagan had certainly spent a huge amount of [[Time|TIME]] with [[Olivia]]; that
+Gahagan had certainly spent a huge amount of [[motifs/time|TIME]] with [[characters/olivia|Olivia]]; that
 
 was really the only external proof of his passion for her.  The
 
 proofs of his passion for Joan were very external indeed.  Pond
 
-could have sworn that the Irishman was really in [[Love|love]] with Joan.
+could have sworn that the Irishman was really in [[motifs/love|love]] with Joan.
 
 He threw himself at her head; and she, on the accepted standards of
 
@@ -2427,9 +2427,9 @@ modern youth, threw herself back at him.  But these encounters, one
 
 might say collisions, were as brief as they were brilliant.  Why
 
-did a [[Lover|lover]] full of such triumphs want to go off and spend such a
+did a [[archetypes/lover|lover]] full of such triumphs want to go off and spend such a
 
-lot of [[Time|TIME]] with a much older woman? . . .  These broodings had
+lot of [[motifs/time|TIME]] with a much older woman? . . .  These broodings had
 
 turned him into an automaton and brought him unconsciously past the
 
@@ -2437,11 +2437,11 @@ servants and up the stairs and into the very room where he was
 
 asked to wait for Mrs. Feversham.  He nervously picked up an old
 
-battered book, apparently dating from the [[Time|time]] when the actress was
+battered book, apparently dating from the [[motifs/time|time]] when the actress was
 
 a schoolgirl, for the flyleaf showed in a very schoolgirl hand:
 
-"[[Olivia]] Malone."  Perhaps the great Shakespearian actress claimed
+"[[characters/olivia|Olivia]] Malone."  Perhaps the great Shakespearian actress claimed
 
 descent from the great Shakespearian critic.  But, anyhow, she must
 
@@ -2459,13 +2459,13 @@ it wrote themselves rapidly across his brain with the bewildering
 
 brevity of a hieroglyphic.
 
-"[[Love]] never needs [[Time|time]].  But [[Friendship]] always needs [[Time|time]].  More
+"[[motifs/love|Love]] never needs [[motifs/time|time]].  But [[concepts/friendship|Friendship]] always needs [[motifs/time|time]].  More
 
-and more and more [[Time|time]], up to long past midnight."
+and more and more [[motifs/time|time]], up to long past midnight."
 
 When Gahagan had done those crazy things that blazoned his devotion
 
-to Joan Varney, they had hardly occupied any [[Time|time]].  When he fell on
+to Joan Varney, they had hardly occupied any [[motifs/time|time]].  When he fell on
 
 her from a parachute as she came out of church at Bournemouth, the
 
@@ -2475,17 +2475,17 @@ costing hundreds of pounds to stay with her half an hour longer in
 
 Samoa, it was only half an hour longer.  When he swam the
 
-Hellespont in [[Imitation|imitation]] of Leander, it was only for exactly thirty-
+Hellespont in imitation of Leander, it was only for exactly thirty-
 
-five minutes' conversation with [[Hero]].  But [[Love]] is like that.  It
+five minutes' conversation with [[archetypes/hero|Hero]].  But [[motifs/love|Love]] is like that.  It
 
-is a thing of great moments; and it lives on the [[Memory|memory]] of moments.
+is a thing of great moments; and it lives on the [[motifs/memory|memory]] of moments.
 
 Perhaps it is a fragile illusion; perhaps, on the other hand, it is
 
-eternal and beyond [[Time|time]].  But [[Friendship]] eats up [[Time|time]].  If poor
+eternal and beyond [[motifs/time|time]].  But [[concepts/friendship|Friendship]] eats up [[motifs/time|time]].  If poor
 
-Gahagan had a real intellectual [[Friendship|friendship]], then he would go on
+Gahagan had a real intellectual [[concepts/friendship|friendship]], then he would go on
 
 talking till long past midnight.  And with whom would Gahagan be so
 
@@ -2493,7 +2493,7 @@ likely to have one as with an Irish actress who was chiefly
 
 interested in Shakespeare?  Even as he had the thought, he heard
 
-the rich and faintly Irish voice of [[Olivia]] welcoming him; and he
+the rich and faintly Irish voice of [[characters/olivia|Olivia]] welcoming him; and he
 
 knew he was right.
 
@@ -2507,15 +2507,15 @@ called Poetry; or perhaps I ought to say it's generally called
 
 Recitation.  It's been suppressed by the police in all the English
 
-salons; and that's the worst of the Irish wrongs.  People in [[London]]
+salons; and that's the worst of the Irish wrongs.  People in [[settings/london|London]]
 
-are not allowed to recite [[Poems|poems]] to each other all [[Night|night]], as they do
+are not allowed to recite poems to each other all [[motifs/night|night]], as they do
 
 in Dublin.  Poor Peter used to come to me and talk Shakespeare till
 
 morning; but I had to turn him out at last.  When a man calls on
 
-ME, and tries to recite the whole of [[Romeo]] and [[Juliet]], it gets past
+ME, and tries to recite the whole of [[characters/romeo|Romeo]] and [[characters/juliet|Juliet]], it gets past
 
 a joke.  But you see how it was.  The English won't allow the poor
 
@@ -2531,25 +2531,25 @@ that neither devils nor dynamite will stop them from reciting
 
 verse.  All the black clouds of morbid brooding on the murder which
 
-had oppressed him in the [[Garden|garden]] had rolled away at the first sound
+had oppressed him in the [[motifs/garden|garden]] had rolled away at the first sound
 
 of this strong, good-humoured irishwoman's voice.  But after a
 
 little while they began to gather again, though more remotely.
 
-After all, as he had said before, SOMEBODY had killed poor [[Fred]]
+After all, as he had said before, SOMEBODY had killed poor [[characters/fred|Fred]]
 
 Feversham.
 
 He was quite certain now that it was not Feversham's wife.  He was
 
-practically certain it was not Gahagan.  He went [[Home|home]] that [[Night|night]]
+practically certain it was not Gahagan.  He went [[motifs/home|home]] that [[motifs/night|night]]
 
-turning the question over and over; but he had only one [[Night|night]]'s
+turning the question over and over; but he had only one [[motifs/night|night]]'s
 
 unrest.  For the next day's paper contained the news of the
 
-unexplained [[suicide]] of Mr. Luke, of the [[Well|well]]-known firm of Masters,
+unexplained [[concepts/suicide|suicide]] of Mr. Luke, of the [[motifs/well|well]]-known firm of Masters,
 
 Luke and Masters; and Mr. Pond sat gently chiding himself, because
 
@@ -2561,7 +2561,7 @@ possibly discover one day that he has been swindled by his own
 
 solicitor.  Feversham had summoned Luke to that midnight meeting in
 
-the [[Garden|garden]], in order to tell him so; but Mr. Luke, a man careful of
+the [[motifs/garden|garden]], in order to tell him so; but Mr. Luke, a man careful of
 
 his professional standing, had taken very prompt steps to prevent
 
@@ -2579,11 +2579,11 @@ WHEN DOCTORS AGREE
 
 Mr. Ponds paradoxes were of a very peculiar kind.  They were indeed
 
-paradoxical defiances even of the law of [[Paradox|paradox]].  [[Paradox]] has been
+paradoxical defiances even of the law of [[concepts/paradox|paradox]].  [[concepts/paradox|Paradox]] has been
 
-defined as "[[Truth]] standing on her head to attract attention."
+defined as "[[concepts/truth|Truth]] standing on her head to attract attention."
 
-[[Paradox]] has been defended; on the ground that so many fashionable
+[[concepts/paradox|Paradox]] has been defended; on the ground that so many fashionable
 
 fallacies still stand firmly on their feet, because they have no
 
@@ -2595,11 +2595,11 @@ attention.  They set out conspicuously, in a single line in a play,
 
 or at the head or tail of a paragraph, remarks of this challenging
 
-kind; as when Mr. Bernard [[Shaw]] wrote:  "The Golden Rule is that
+kind; as when Mr. Bernard [[works/shaw-(chesterton)|Shaw]] wrote:  "The Golden Rule is that
 
 there is no Golden Rule"; or Oscar Wilde observed:  "I can resist
 
-everything except [[Temptation|temptation]]"; or a duller scribe (not to be named
+everything except [[concepts/temptation|temptation]]"; or a duller scribe (not to be named
 
 with these and now doing penance for his earlier vices in the
 
@@ -2673,11 +2673,11 @@ got tipsy at once."  Broadly speaking, two kinds of people stopped
 
 him with stares or questions: the very stupid and the very clever.
 
-The stupid because the absurdity [[Alone|alone]] stuck out from a level of
+The stupid because the absurdity alone stuck out from a level of
 
 intelligence that baffled them; it was indeed in itself an example
 
-of the [[Truth|truth]] in [[Paradox|paradox]].  The only part of his conversation they
+of the [[concepts/truth|truth]] in [[concepts/paradox|paradox]].  The only part of his conversation they
 
 could understand was the part they could not understand.  And the
 
@@ -2713,7 +2713,7 @@ It was at a little dinner given by old Wotton to Gahagan and Pond
 
 and others, that we first got a glimpse of the real meaning of
 
-these wild parentheses of so tame a talker.  The [[Truth|truth]] was, to
+these wild parentheses of so tame a talker.  The [[concepts/truth|truth]] was, to
 
 begin with, that Mr. Pond, in spite of his French beard, was very
 
@@ -2735,7 +2735,7 @@ unintelligible.  In trying to explain the eccentricity, it is best
 
 to begin with the simplest example, like a diagram in a primer of
 
-[[logic]].  And I will begin with the [[Short Story|short story]], which was concealed
+logic.  And I will begin with the [[forms/short-story|short story]], which was concealed
 
 in the shorter phrase, which puzzled poor old Wotton so completely
 
@@ -2769,7 +2769,7 @@ do sometimes differ a little from each other, you know.  Even we in
 
 Ireland have been known to differ from each other.  But you see the
 
-Pope denouncing the Bolshevists, or the [[French Revolution]] rending
+Pope denouncing the Bolshevists, or the [[historical-references/french-revolution|French Revolution]] rending
 
 the Holy Roman Empire, and you still say in your hearts, 'What can
 
@@ -2781,7 +2781,7 @@ Tweedledee.  You will remember that it is distinctly recorded that
 
 they agreed.  But remember what they agreed about."
 
-Wotton looked a little baffled and finally grunted:  "[[Well]], if
+Wotton looked a little baffled and finally grunted:  "[[motifs/well|Well]], if
 
 these fellows have agreed, I suppose there will be a little peace."
 
@@ -2823,7 +2823,7 @@ thing was a curious story; to introduce a yet more curious sequel.
 
 Haggis had been a prominent and wealthy citizen, a bailie of the
 
-[[City|city]] and an elder of the kirk.  Nobody denied that even in these
+[[motifs/city|city]] and an elder of the kirk.  Nobody denied that even in these
 
 capacities he had sometimes been rather unpopular; but, to do him
 
@@ -2833,11 +2833,11 @@ unpopular causes.  He was the sort of old Radical who is more rigid
 
 and antiquated than any Tory; and, maintaining in theory the cause
 
-of Retrenchment and [[Reform]], he managed to suggest that almost any
+of Retrenchment and [[concepts/reform|Reform]], he managed to suggest that almost any
 
-[[Reform]] was too expensive for the needs of Retrenchment.  Thus he
+[[concepts/reform|Reform]] was too expensive for the needs of Retrenchment.  Thus he
 
-had stood [[Alone|alone]] in opposition to the universal support given to old
+had stood alone in opposition to the universal support given to old
 
 Dr. Campbell's admirable campaign for fighting the epidemic in the
 
@@ -2849,7 +2849,7 @@ typhoid was perhaps an exaggerated inference.  Similarly, he was
 
 prominent in the Presbyterian councils as refusing all modern
 
-compromise with the [[logic]] of Calvinism; but to infer that he
+compromise with the logic of Calvinism; but to infer that he
 
 actually hoped all his neighbours were damned before they were born
 
@@ -2859,7 +2859,7 @@ On the other side, he was admittedly honest in business and
 
 faithful to his wife and family; so that there was a general
 
-reaction in favour of his [[Memory|memory]] when he was found stabbed to the
+reaction in favour of his [[motifs/memory|memory]] when he was found stabbed to the
 
 heart in the meagre grass of the grim little churchyard that
 
@@ -2877,7 +2877,7 @@ a rather narrow Scottish merchant of the old school.
 
 It happened that Mr. Pond himself had been present at a little
 
-party where there was high [[debate]] about the murder as a mystery.
+party where there was high debate about the murder as a mystery.
 
 His host, Lord Glenorchy, had a hobby of reading books on
 
@@ -2885,13 +2885,13 @@ criminology; his hostess, Lady Glenorchy, had the less harmful
 
 hobby of reading those much more solid and scientific books which
 
-are called [[Detective|detective]] stories.  There were present, as the society
+are called [[archetypes/detective|detective]] stories.  There were present, as the society
 
 papers say, Major MacNabb, the Chief Constable, and Mr. Lancelot
 
-Browne, a brilliant [[London]] barrister who found it much more of a
+Browne, a brilliant [[settings/london|London]] barrister who found it much more of a
 
-bore to be a lawyer than to pretend to be a [[Detective|detective]]; also, among
+bore to be a lawyer than to pretend to be a [[archetypes/detective|detective]]; also, among
 
 those present, was the venerable and venerated Dr. Campbell, whose
 
@@ -2903,7 +2903,7 @@ coaching and instructing generally for his medical examinations and
 
 his scientific career.
 
-Responsible people naturally [[Love|love]] to be irresponsible.  All these
+Responsible people naturally [[motifs/love|love]] to be irresponsible.  All these
 
 persons delighted to throw theories about in private which they
 
@@ -2933,7 +2933,7 @@ and moral deformity are found only among poor people, he suspected
 
 a plot of local Communists (all with the wrong-shaped thumb and
 
-ear) and picked for his fancy a Socialist agitator of the [[City|city]].
+ear) and picked for his fancy a Socialist agitator of the [[motifs/city|city]].
 
 Mr. Angus made bold to differ; his choice was an old lag, or
 
@@ -2945,7 +2945,7 @@ Then it was that the point was referred, not without a certain
 
 reverence, to the white-haired and wise old physician, who had now
 
-behind him a whole lifetime of [[Charity|charity]] and good works.  One of the
+behind him a whole lifetime of [[concepts/charity|charity]] and good works.  One of the
 
 many ways in which Dr. Campbell seemed to have emerged from an
 
@@ -2953,7 +2953,7 @@ elder and perhaps honester world was the fact that he not only
 
 spoke with a Scottish accent but he spoke Scottish.  His speech
 
-will, therefore, be rendered here with difficulty and in [[Doubt|doubt]] and
+will, therefore, be rendered here with difficulty and in [[concepts/doubt|doubt]] and
 
 trembling.
 
@@ -2961,13 +2961,13 @@ trembling.
 
 ye fair at the start that I winna gie a bawbee to ken wha dirked
 
-Jamie Haggis.  Gin I [[Kent|kent]], I wadna' say.  It's a sair thing, na
+Jamie Haggis.  Gin I [[characters/kent|kent]], I wadna' say.  It's a sair thing, na
 
 doot, that the freens and benefactors o' puir humanity should no be
 
 named and fitly celebrated; but like the masons that built our
 
-gran' [[Cathedral|cathedral]] and the gran' poets that wrote our ballads of
+gran' [[settings/cathedral|cathedral]] and the gran' poets that wrote our ballads of
 
 Otterburn and Sir Patrick Spens, the man that achieved the virtuous
 
@@ -2979,7 +2979,7 @@ So ye'll get nae guesses out of me; beyond saying I've lang been
 
 seekin' a man of sic prudence and public spirit."
 
-There followed that sort of [[Silence|silence]] in which people are not certain
+There followed that sort of [[motifs/silence|silence]] in which people are not certain
 
 whether to laugh, at a deliberate stroke of wit; but before they
 
@@ -3019,7 +3019,7 @@ Glenorchy were a little alarmed by the seriousness of the subject,
 
 it was at this point that she struck in.
 
-"[[Well]], if Dr. Campbell won't pronounce for us, I suppose we must
+"[[motifs/well|Well]], if Dr. Campbell won't pronounce for us, I suppose we must
 
 all stick to our own suspicions.  I don't know whether you like
 
@@ -3041,7 +3041,7 @@ himself.
 
 about now?"
 
-"I'm talking about hostesses," said Pond, with an air of [[Pain|pain]].
+"I'm talking about hostesses," said Pond, with an air of [[motifs/pain|pain]].
 
 "Good hostesses.  Really successful hostesses.  They will cut into
 
@@ -3075,7 +3075,7 @@ worse than murder; it's infanticide.  It's like killing a baby
 
 that's trying to come to life.  It can never be restored to life,
 
-though one [[Rose|rose]] from the dead.  A good light conversation can never
+though one [[motifs/rose|rose]] from the dead.  A good light conversation can never
 
 be put together again when it's broken to pieces; because you can't
 
@@ -3083,7 +3083,7 @@ get all the pieces.  I remember a splendid talk at Trefusis's
 
 place, that began because there was a crack of thunder over the
 
-[[house]] and a cat howled in the [[Garden|garden]], and somebody made a rather
+house and a cat howled in the [[motifs/garden|garden]], and somebody made a rather
 
 crude joke about a catastrophe.  And then Gahagan here had a
 
@@ -3095,7 +3095,7 @@ about a political question on the Continent."
 
 "The Catalonian question, I suppose," said Gahagan, laughing, "but
 
-I [[Fear|fear]] I've quite forgotten my lovely theory."
+I [[concepts/fear|fear]] I've quite forgotten my lovely theory."
 
 "That's just what I say," said Pond, gloomily.  "It could only have
 
@@ -3105,21 +3105,21 @@ worth starting again.  The hostess swept it all out of our heads,
 
 and then had the cheek to say afterwards that we could talk about
 
-it some other [[Time|time]].  Could we?  Could we make a contract with a
+it some other [[motifs/time|time]].  Could we?  Could we make a contract with a
 
-cloud to break just over the roof, and tie a cat up in the [[Garden|garden]]
+cloud to break just over the roof, and tie a cat up in the [[motifs/garden|garden]]
 
 and pull its tail at the right moment, and give Gahagan just enough
 
 champagne to inspire him with a theory so silly that he's forgotten
 
-it already?  It was then or never with that [[debate]] being started;
+it already?  It was then or never with that debate being started;
 
 and yet bad results enough followed from it being stopped.  But
 
 that, as they say, is another story."
 
-"You must tell it to us another [[Time|time]]," said Gahagan.  "At present I
+"You must tell it to us another [[motifs/time|time]]," said Gahagan.  "At present I
 
 am still curious about the man who murdered another man because he
 
@@ -3153,11 +3153,11 @@ out of a very entertaining little tiff about the Ten Commandments.
 
 A mere trifle, too light and airy to recur to our minds at any
 
-other [[Time|time]].  But there was another trifle that did recur to my own
+other [[motifs/time|time]].  But there was another trifle that did recur to my own
 
 mind afterwards; and kept my attention on a murder of which I might
 
-have thought little enough at the [[Time|time]], as De Quincey says.  I
+have thought little enough at the [[motifs/time|time]], as De Quincey says.  I
 
 remembered once looking up Glenorchy in Who's Who, and seeing that
 
@@ -3175,13 +3175,13 @@ not Scottish.  If she had introduced the cigarettes at her father's
 
 dinner-table in Suffolk, such trifles as the Ten Commandments would
 
-instantly have been tossed away from everyone's mind and [[Memory|memory]].
+instantly have been tossed away from everyone's mind and [[motifs/memory|memory]].
 
 But I knew I was in Scotland and that the story had only just
 
 begun.  I have told you that old Campbell was tutoring or coaching
 
-young Angus for his medical degree.  It was a great [[Honour|honour]] for a
+young Angus for his medical degree.  It was a great [[concepts/honour|honour]] for a
 
 lad like Angus to have Campbell for a coach; but it must have been
 
@@ -3191,7 +3191,7 @@ for a pupil.  For he had always been a most industrious and
 
 ambitious and intelligent pupil, and one likely to do the old man
 
-credit; and after the [[Time|time]] I speak of, he seemed to grow more
+credit; and after the [[motifs/time|time]] I speak of, he seemed to grow more
 
 industrious and ambitious than ever.  In fact, he shut himself up
 
@@ -3209,11 +3209,11 @@ statement that might seem to some to require expansion."
 
 order to expand it, we must go back for a moment to the mystery of
 
-Mr. Haggis's murder.  It had already spread a sort of [[Detective|detective]]
+Mr. Haggis's murder.  It had already spread a sort of [[archetypes/detective|detective]]
 
-fever in the neighbourhood; for all the Scots [[Love|love]] arguing and it
+fever in the neighbourhood; for all the Scots [[motifs/love|love]] arguing and it
 
-really was rather a fascinating [[Riddle|riddle]].  One great point in the
+really was rather a fascinating [[forms/riddle|riddle]].  One great point in the
 
 mystery was the wound, which seemed at first to have been made by a
 
@@ -3235,7 +3235,7 @@ medical authorities would consent even to guess what it was.
 
 People were perpetually ransacking the churchyard and the church in
 
-search of clues.  And just about this [[Time|time]] young Angus, who had
+search of clues.  And just about this [[motifs/time|time]] young Angus, who had
 
 been a strict supporter of this particular church, and had even
 
@@ -3251,7 +3251,7 @@ the right track."
 
 the right track."
 
-"I [[Fear|fear]] I did not realize that you were on any track," said
+"I [[concepts/fear|fear]] I did not realize that you were on any track," said
 
 Gahagan.  "To speak with candour, my dear Pond, I should say that
 
@@ -3261,7 +3261,7 @@ have ever heard, the most rambling was the narrative we have just
 
 been privileged to hear from you.  First you tell us that two
 
-Scotsmen began a conversation about the [[morality]] of murder and
+Scotsmen began a conversation about the morality of murder and
 
 never finished it; then you go off on a tirade against society
 
@@ -3297,7 +3297,7 @@ pointless by the necessity of telling stories without telling the
 
 story."
 
-"[[Well]], then," said Gahagan, "let us try to get some sense out of
+"[[motifs/well|Well]], then," said Gahagan, "let us try to get some sense out of
 
 all this nonsense, which has not even the excuses of newspaper
 
@@ -3317,11 +3317,11 @@ he spent days and nights with his coach; but they weren't preparing
 
 for any examination."
 
-"[[Well]], what were they doing?" asked Wotton gruffly.
+"[[motifs/well|Well]], what were they doing?" asked Wotton gruffly.
 
 "They were going on with the argument," cried Pond, in a squeak
 
-that was almost shrill.  "They hardly stopped to [[Sleep|sleep]] or eat; but
+that was almost shrill.  "They hardly stopped to [[motifs/sleep|sleep]] or eat; but
 
 they went on with the argument; the argument interrupted at the
 
@@ -3345,9 +3345,9 @@ The tither went hame with the ither again.
 
 "And for hours and weeks and months they never turned aside from
 
-the same interminable [[debate]] on the thesis first propounded by Dr.
+the same interminable debate on the thesis first propounded by Dr.
 
-Campbell: that when a good man is [[Well|well]] and truly convinced that a
+Campbell: that when a good man is [[motifs/well|well]] and truly convinced that a
 
 bad man is actively bad for the community, and is doing evil on a
 
@@ -3375,7 +3375,7 @@ great deal about the stages of that stubborn and forcible
 
 controversy, about which nobody else knew anything at all.  For
 
-Angus was a genuine [[Truth|truth]]-seeker who wished to satisfy his [[Soul|soul]] and
+Angus was a genuine [[concepts/truth|truth]]-seeker who wished to satisfy his [[motifs/soul|soul]] and
 
 not merely to make his name; and Campbell was enough of a great man
 
@@ -3383,7 +3383,7 @@ to be quite as anxious to convince a pupil as to convince a crowd
 
 in a lecture-room.  But I am not going to tell you about those
 
-stages of the controversy at any great length.  To tell the [[Truth|truth]],
+stages of the controversy at any great length.  To tell the [[concepts/truth|truth]],
 
 I am not what people call impartial on this controversy.  How any
 
@@ -3391,7 +3391,7 @@ man can form any conviction, and remain what they call impartial on
 
 any controversy, is more than I have ever understood.  But I
 
-suppose they would say I couldn't describe the [[debate]] fairly;
+suppose they would say I couldn't describe the debate fairly;
 
 because the side I sympathize with was not the side that won.
 
@@ -3437,7 +3437,7 @@ of Voltaire.
 
 Voltaire.  It is not always certain whether philanthropy means a
 
-[[Love|love]] of men, or of man, or of mankind.  There is a difference.  I
+[[motifs/love|love]] of men, or of man, or of mankind.  There is a difference.  I
 
 think he cared less about the individual than about the public or
 
@@ -3455,7 +3455,7 @@ already said, he was a devout worshipper in the same dingy kirk as
 
 the late James Haggis; that is, one of the extreme irreconcilable
 
-sectaries of the seventeenth-century [[Puritanism]].  And so the
+sectaries of the seventeenth-century [[historical-references/puritanism|Puritanism]].  And so the
 
 Scottish atheist and the Scottish Calvinist argued and argued and
 
@@ -3493,7 +3493,7 @@ the twentieth century A.D.," replied the unruffled Pond.  "I made
 
 him up just now; but you know the sort of thing I mean--the
 
-mythical [[Nature|nature]] of Mount Sinai proved from the parallel myth that
+mythical [[concepts/nature|nature]] of Mount Sinai proved from the parallel myth that
 
 the ark rested on Mount Ararat, and the mountain that would not
 
@@ -3505,7 +3505,7 @@ and I knew when it ended.  I knew when Robert Angus left off going
 
 to kirk on the Sabbath."
 
-The end of the [[debate]] may best be described more directly; for,
+The end of the debate may best be described more directly; for,
 
 indeed, Mr. Pond described it himself with a strange sort of
 
@@ -3517,7 +3517,7 @@ of the medical schools was the scene of the final phase of
 
 disagreement and agreement.  They had gone back there very late at
 
-[[Night|night]], when the schools were closed and the theatre deserted,
+[[motifs/night|night]], when the schools were closed and the theatre deserted,
 
 because Angus fancied he had left some of his instruments there,
 
@@ -3539,35 +3539,35 @@ to him casually.
 
 Angus tossed the tool on the table like a man throwing down his
 
-[[Sword|sword]], and turned on his companion with a new and transfigured air
+sword, and turned on his companion with a new and transfigured air
 
 of candour and finality.
 
-"You needn't trouble about hymns any more; I may as [[Well|well]] tell you
+"You needn't trouble about hymns any more; I may as [[motifs/well|well]] tell you
 
 that I've done with them, for one.  You're too strong for me--or,
 
-rather, the [[Truth|truth]] is too strong for me.  I've defended my own
+rather, the [[concepts/truth|truth]] is too strong for me.  I've defended my own
 
-nursery [[nightmare]] as long as I could; but you've woken me up at
+nursery nightmare as long as I could; but you've woken me up at
 
 last.  You are right, you must be right; I don't see any way out of
 
 it."
 
-After a [[Silence|silence]], Campbell answered very softly:  "I'll no mak'
+After a [[motifs/silence|silence]], Campbell answered very softly:  "I'll no mak'
 
-apologies for fighting for the [[Truth|truth]]; but, man, ye made a real
+apologies for fighting for the [[concepts/truth|truth]]; but, man, ye made a real
 
 bonny fight for the falsehood."
 
-It might [[Well|well]] have seemed that the old blasphemer had never spoken
+It might [[motifs/well|well]] have seemed that the old blasphemer had never spoken
 
 on the topic in a tone so delicate and respectful; and it seemed
 
-strange that his new [[convert]] did not respond to the appeal.
+strange that his new convert did not respond to the appeal.
 
-Looking up, Campbell saw that his new [[convert]]'s attention had been
+Looking up, Campbell saw that his new convert's attention had been
 
 abruptly abstracted; he was standing staring at the implement in
 
@@ -3585,31 +3585,31 @@ after a pause, he added, with equal calm:
 
 "Noo that we are agreed, and a' of one mind, aboot the need for sic
 
-social surgery, it's as weel ye should know the hale [[Truth|truth]].  Aye,
+social surgery, it's as weel ye should know the hale [[concepts/truth|truth]].  Aye,
 
 lad, I did it mysel'; and with a blade like yon.  That nicht ye
 
-took me to the kirk--weel, it's the fairst [[Time|time]], I [[Hope|hope]], I've ever
+took me to the kirk--weel, it's the fairst [[motifs/time|time]], I [[concepts/hope|hope]], I've ever
 
 been hypocreetical; but I stayed behind to pray, and I think ye had
 
 hopes of my convairsion.  But I prayed because Jamie prayed; and
 
-when he [[Rose|rose]] from his prayers, I followed him and killed him i' the
+when he [[motifs/rose|rose]] from his prayers, I followed him and killed him i' the
 
 kirkyard."
 
-Angus was still looking at the knife in [[Silence|silence]]; then he said
+Angus was still looking at the knife in [[motifs/silence|silence]]; then he said
 
 suddenly:  "Why did you kill him?"
 
-"Ye needna ask, noo we are agreed in moral [[philosophy]]," replied the
+"Ye needna ask, noo we are agreed in moral philosophy," replied the
 
 old doctor simply.  "It was just plain surgery.  As we sacrifice a
 
-finger to save the [[Body|body]], so we maun sacrifice a man to save the
+finger to save the [[concepts/body|body]], so we maun sacrifice a man to save the
 
-[[Body|body]] politic.  I killed him because he was doing evil, and
+[[concepts/body|body]] politic.  I killed him because he was doing evil, and
 
 inhumanly preventing what was guid for humanity: the scheme for the
 
@@ -3633,11 +3633,11 @@ same experience."
 
 but evil," answered Angus.  "I still think you were doing evil;
 
-even though you were serving [[Truth|truth]].  You have convinced me that my
+even though you were serving [[concepts/truth|truth]].  You have convinced me that my
 
-beliefs were [[Dreams|dreams]]; but not that dreaming is worse than waking up.
+beliefs were [[motifs/dreams|dreams]]; but not that dreaming is worse than waking up.
 
-You brutally broke the [[Dreams|dreams]] of the humble, sneered at the weak
+You brutally broke the [[motifs/dreams|dreams]] of the humble, sneered at the weak
 
 hopes of the bereaved.  You seem cruel and inhuman to me, just as
 
@@ -3669,11 +3669,11 @@ his voice.
 
 held back only by the superstition you have destroyed tonight.  Day
 
-after day, you have been battering down the scruples which [[Alone|alone]]
+after day, you have been battering down the scruples which alone
 
-defended you from [[Death|death]].  You wise thinker; you wary reasoner; you
+defended you from [[motifs/death|death]].  You wise thinker; you wary reasoner; you
 
-[[Fool|fool]]!  It would be better for you to-[[Night|night]] if I still believed in
+[[archetypes/fool|fool]]!  It would be better for you to-[[motifs/night|night]] if I still believed in
 
 God and in his Commandment against murder."
 
@@ -3685,7 +3685,7 @@ table, where he lay as if fainting.  Round them and above them the
 
 empty tiers of concentric seats glimmered in the faint and frigid
 
-moonlight as desolate as the Colosseum under the [[Moon|moon]]; a deserted
+moonlight as desolate as the Colosseum under the [[motifs/moon|moon]]; a deserted
 
 amphitheatre where there was no human voice to cry "Habet!"  The
 
@@ -3693,9 +3693,9 @@ red-haired slayer stood with the knife uplifted, as strange in
 
 shape as the flint knife of some prehistoric sacrifice; and still
 
-he talked on in the high tones of [[Madness|madness]].
+he talked on in the high tones of [[concepts/madness|madness]].
 
-"One thing [[Alone|alone]] protected you and kept the peace between us: that
+"One thing alone protected you and kept the peace between us: that
 
 we disagreed.  Now we agree, now we are at one in thought--and
 
@@ -3705,15 +3705,15 @@ at peace."
 
 And with the sound of that word he struck; and Andrew Campbell
 
-moved for the last [[Time|time]].  In his own cold temple, upon his own
+moved for the last [[motifs/time|time]].  In his own cold temple, upon his own
 
 godless altar . . . he stirred and then lay still; and the murderer
 
-bent and fled from the building and from the [[City|city]] and across the
+bent and fled from the building and from the [[motifs/city|city]] and across the
 
-Highland line at [[Night|night]], to hide himself in the hills.
+Highland line at [[motifs/night|night]], to hide himself in the hills.
 
-When Pond had told this story, Gahagan [[Rose|rose]] slowly to his gigantic
+When Pond had told this story, Gahagan [[motifs/rose|rose]] slowly to his gigantic
 
 height and knocked out his cigar in an ashtray:  "I darkly suspect,
 
@@ -3731,7 +3731,7 @@ Poles or Prussians or other foreigners have agreed.  We don't often
 
 ask what they've agreed on.  But agreement can be rather risky,
 
-unless it's agreement with the [[Truth|truth]]."
+unless it's agreement with the [[concepts/truth|truth]]."
 
 Wotton looked at him with a smouldering suspicion; but finally
 
@@ -3741,7 +3741,7 @@ POND THE PANTALOON
 
 "No, no, no," said Mr. Pond, with a gentle shrillness which he
 
-occasionally showed, when any [[Doubt|doubt]] was thrown on the prosaic
+occasionally showed, when any [[concepts/doubt|doubt]] was thrown on the prosaic
 
 precision of his statements or arguments.  "I did not say it was a
 
@@ -3763,13 +3763,13 @@ reported in that way, may be made to sound almost absurd."
 
 "Almost," said Captain Gahagan, nodding gravely and gazing at the
 
-little man opposite him, rather as if he were a mysterious [[Monster|monster]]
+little man opposite him, rather as if he were a mysterious [[archetypes/monster|monster]]
 
 in a tank.
 
 Mr. Pond was in his private tank, or private office, in a hive of
 
-[[government|Government]] offices, sitting at a desk and busy at the work of blue-
+Government offices, sitting at a desk and busy at the work of blue-
 
 pencilling the proofs of some official report; whence had arisen
 
@@ -3783,27 +3783,27 @@ for him; he was attached to Mr. Pond and even more attached to
 
 watching other people work.
 
-"I may resemble [[Polonius]]," said Pond, modestly; and, indeed, his
+"I may resemble [[characters/polonius|Polonius]]," said Pond, modestly; and, indeed, his
 
 old-fashioned beard, owlish expression and official courtliness
 
-made the comparison almost apt.  "I may be like [[Polonius]]; but I am
+made the comparison almost apt.  "I may be like [[characters/polonius|Polonius]]; but I am
 
-not [[Polonius]]--which is just the point I wish to illustrate.  [[Hamlet]]
+not [[characters/polonius|Polonius]]--which is just the point I wish to illustrate.  [[characters/hamlet|Hamlet]]
 
-told [[Polonius]] that a cloud in the sky was like a camel.  The effect
+told [[characters/polonius|Polonius]] that a cloud in the sky was like a camel.  The effect
 
-would have been somewhat different if [[Hamlet]] had stated, seriously
+would have been somewhat different if [[characters/hamlet|Hamlet]] had stated, seriously
 
 and scientifically, that he had seen a camel in the sky.  In that
 
-case, [[Polonius]] might have been pardoned in regarding the Prince's
+case, [[characters/polonius|Polonius]] might have been pardoned in regarding the Prince's
 
-[[Madness|madness]] as finally proved.  Touchy officials have been known to
+[[concepts/madness|madness]] as finally proved.  Touchy officials have been known to
 
 express the view that you, my dear Gahagan, come into this office
 
-like a buffalo, and there 'lie wallowing through the long [[Summer|summer]]
+like a buffalo, and there 'lie wallowing through the long [[motifs/summer|summer]]
 
 day,' as an outmoded poet puts it.  But if the authorities of the
 
@@ -3813,7 +3813,7 @@ the department would hardly move in the matter without further
 
 inquiries."
 
-"No [[Doubt|doubt]] you have my dossier," said Gahagan, "with official
+"No [[concepts/doubt|doubt]] you have my dossier," said Gahagan, "with official
 
 calculations and statistics about the number of my legs, not to
 
@@ -3821,7 +3821,7 @@ mention my horns; all annotated with blue and red pencil--and most
 
 certainly with some very black marks against my name.  But that
 
-brings me back to the original subject of my simple [[Wonder|wonder]].  You
+brings me back to the original subject of my simple [[concepts/wonder|wonder]].  You
 
 hardly seem to have noticed what was really peculiar in your own
 
@@ -3835,7 +3835,7 @@ faint smile.  "You would say, for instance, that my notes on this
 
 proof are in blue pencil; and yet--"  He held out a pencil with its
 
-red [[chalk]] point towards the other.  It looked like a mild conjuring
+red [[motifs/chalk|chalk]] point towards the other.  It looked like a mild conjuring
 
 trick, until he twiddled it so as to show it was one of those
 
@@ -3859,7 +3859,7 @@ impatience.  "I should say what I said before; that the queer thing
 
 about you is that you are quite blind to what was really mad in
 
-your statement.  You can't see the [[Paradox|paradox]] in your own remark.  You
+your statement.  You can't see the [[concepts/paradox|paradox]] in your own remark.  You
 
 can't see the point of your own remark."
 
@@ -3885,7 +3885,7 @@ breaking a crystal or shattering a perfectly rounded soap-bubble.
 
 To pierce the pure and spherical perfection of your maniacal calm
 
-would be like invading the [[innocence]] of a [[Child|child]].  If you really and
+would be like invading the innocence of a [[archetypes/child|child]].  If you really and
 
 truly do not know when you are talking nonsense, if you do not even
 
@@ -3901,17 +3901,17 @@ And he sauntered out of the room, swinging his stick, in the
 
 direction of the very important department presided over by Sir
 
-[[Hubert]] Wotton; that he might enjoy the inspiriting spectacle of
+[[characters/hubert|Hubert]] Wotton; that he might enjoy the inspiriting spectacle of
 
 another friend doing his day's work and being interrupted by an
 
 idle man.
 
-Sir [[Hubert]] Wotton, however, was of a type somewhat different from
+Sir [[characters/hubert|Hubert]] Wotton, however, was of a type somewhat different from
 
 Mr. Pond; in that, even if he was busy, he was never fussy.  Mr.
 
-Pond was bent over the poised point of his blue pencil; Sir [[Hubert]]
+Pond was bent over the poised point of his blue pencil; Sir [[characters/hubert|Hubert]]
 
 was first visible behind the red end of a cigar, which he was
 
@@ -3971,7 +3971,7 @@ he's really had some very extraordinary experiences.  He doesn't
 
 talk about them; he doesn't want to talk about them; but he does
 
-want to talk about reason and [[philosophy]] and theoretical things in
+want to talk about reason and philosophy and theoretical things in
 
 books; you know he loves reading all the rational eighteenth-
 
@@ -3979,7 +3979,7 @@ century literature.  But when, in the course of talking in the
 
 abstract, he comes on some concrete thing that he has actually DONE--
 
-[[Well|well]], I can only say he crumples it up.  He tries to crush it into
+[[motifs/well|well]], I can only say he crumples it up.  He tries to crush it into
 
 a small space and it simply sounds contradictory.  Almost every one
 
@@ -3993,7 +3993,7 @@ radiant reflection.  "Yes, you're right.  You can't expect me to be
 
 taken in, mind you, by most of your swagger of stoicism in the
 
-English public-school man.  Half the [[Time|time]] they are simply showing
+English public-school man.  Half the [[motifs/time|time]] they are simply showing
 
 off by not showing off.  But in Pond it's genuine.  He really does
 
@@ -4005,7 +4005,7 @@ this particular manner, when he really does want to keep the secret
 
 of his services.  In other words, you mean there is a story behind
 
-every [[Paradox|paradox]] of Pond.  Certainly that is true--of all those cases
+every [[concepts/paradox|paradox]] of Pond.  Certainly that is true--of all those cases
 
 when I have been told the story."
 
@@ -4035,23 +4035,23 @@ he nearly got killed."
 
 reminiscently, "before he turned the sixth shot on himself."
 
-"[[Well]], I'm blowed," said the Captain elegantly.  "I always thought
+"[[motifs/well|Well]], I'm blowed," said the Captain elegantly.  "I always thought
 
 Pond the most charming of tea-table comedies; I never knew he
 
-figured in a [[Melodrama|melodrama]].  I should as soon have thought of his
+figured in a [[forms/melodrama|melodrama]].  I should as soon have thought of his
 
 figuring in a fairy-pantomime.  But he seems somehow associated
 
 with theatrical things at the moment.  He asked me himself if he
 
-was like [[Polonius]]; and I suppose some malicious people would say he
+was like [[characters/polonius|Polonius]]; and I suppose some malicious people would say he
 
 was more like Pantaloon.  I like the notion of you and he magically
 
-transplanted to a Christmas pantomime:  'Harlequin [[Hubert]] and the
+transplanted to a Christmas pantomime:  'Harlequin [[characters/hubert|Hubert]] and the
 
-Fairies' Pond,' all ending with a real Harlequinade, with red [[Fire|fire]]
+Fairies' Pond,' all ending with a real Harlequinade, with red [[motifs/fire|fire]]
 
 and the Pantaloon falling over the Policeman.  Pardon my talking
 
@@ -4059,13 +4059,13 @@ nonsense--you know my unfortunate mind only becomes fertile about
 
 impossible things."
 
-"It's curious you should call it impossible," said Sir [[Hubert]]
+"It's curious you should call it impossible," said Sir [[characters/hubert|Hubert]]
 
 Wotton, knitting his brows, "because that's almost exactly what
 
 really happened to us."
 
-Sir [[Hubert]] Wotton showed a certain reticence and deliberate
+Sir [[characters/hubert|Hubert]] Wotton showed a certain reticence and deliberate
 
 vagueness about the official details of the story; even in telling
 
@@ -4075,9 +4075,9 @@ especially, there are enormous events which never get into the
 
 newspapers, and are apparently intended never to get into the
 
-[[history]]-books.  It may be enough to say here that there was at one
+[[concepts/history|history]]-books.  It may be enough to say here that there was at one
 
-[[Time|time]] under the surface, but very near to the surface, a conspiracy
+[[motifs/time|time]] under the surface, but very near to the surface, a conspiracy
 
 aiming at a coup d'état, which was backed by a Continental Power of
 
@@ -4089,15 +4089,15 @@ certain number of minor officials had been corrupted or converted
 
 by the conspirators.  Hence, when it was a question of sending
 
-certain very private official documents (about the [[Nature|nature]] of which
+certain very private official documents (about the [[concepts/nature|nature]] of which
 
 Wotton remained somewhat hazy to the end) from one of the great
 
-northern ports to a particular [[government|Government]] department in [[London]], the
+northern ports to a particular Government department in [[settings/london|London]], the
 
 first Council was a very small and select one, presided over by Sir
 
-[[Hubert]] and held in the smaller office of Mr. Pond.  Indeed, Mr.
+[[characters/hubert|Hubert]] and held in the smaller office of Mr. Pond.  Indeed, Mr.
 
 Pond was the official in charge of the job.  The only other person
 
@@ -4107,7 +4107,7 @@ Yard; Wotton had brought his clerk with him to arrange and explain
 
 certain matters; but had later made an excuse for sending the man
 
-out on an errand.  Dyer, the [[Detective|detective]] from the Yard, a heavy-
+out on an errand.  Dyer, the [[archetypes/detective|detective]] from the Yard, a heavy-
 
 shouldered, hard-headed person with a toothbrush moustache,
 
@@ -4117,7 +4117,7 @@ and arrangements he would consider necessary for protecting the
 
 transport of the papers to their destination.  He wanted an
 
-armoured car with a [[Machine|machine]]-gun, a certain number of men carrying
+armoured car with a [[motifs/machine|machine]]-gun, a certain number of men carrying
 
 concealed arms, a police search of everybody involved in first
 
@@ -4145,7 +4145,7 @@ nobody of sense would take such particular precautions, any more
 
 than anybody would send an important letter by registered post."
 
-"[[Well]], you must pardon my dullness," said Sir [[Hubert]], "but, as a
+"[[motifs/well|Well]], you must pardon my dullness," said Sir [[characters/hubert|Hubert]], "but, as a
 
 matter of fact, I have heard of people sending an important letter
 
@@ -4165,7 +4165,7 @@ amusement.
 
 to prevent a document from being dropped down a drain, or thrown
 
-into a dustbin, or used to light the [[Fire|fire]] or to make a bird's nest,
+into a dustbin, or used to light the [[motifs/fire|fire]] or to make a bird's nest,
 
 or any other accident of neglect, then it is a good thing to draw
 
@@ -4193,7 +4193,7 @@ and sent along with a thousand others looking exactly the same."
 
 It is a tribute to the essential shrewdness, underlying the
 
-apparent woodenness of Wotton and Dyer, that the [[Paradox|paradox]] of Pond
+apparent woodenness of Wotton and Dyer, that the [[concepts/paradox|paradox]] of Pond
 
 prevailed.  The documents, however, were too bulky to be treated as
 
@@ -4221,9 +4221,9 @@ country.  Now if we were in--"
 
 He shut his mouth rather sharply, as a discreet knock sounded on
 
-the door, and Sir [[Hubert]]'s clerk glided in to say he had discharged
+the door, and Sir [[characters/hubert|Hubert]]'s clerk glided in to say he had discharged
 
-his commission.  Sir [[Hubert]] did not see him at first, his frowning
+his commission.  Sir [[characters/hubert|Hubert]] did not see him at first, his frowning
 
 gaze being fixed on the railway-map of the route to be pursued; and
 
@@ -4241,7 +4241,7 @@ costume; but his wide face had that indescribable look which is
 
 sometimes seen, of which we can only say that it suggests the large
 
-head on the little figure of a [[Dwarf|dwarf]], or perhaps that sunken
+head on the little figure of a [[characters/dwarf|dwarf]], or perhaps that sunken
 
 between the shoulders of a hunchback; the face is not normal, even
 
@@ -4253,7 +4253,7 @@ noticeably ill at ease when he silently handed papers to his
 
 superior; and, last but not least, that he had started visibly when
 
-he saw the [[Detective|detective]] from Scotland Yard.
+he saw the [[archetypes/detective|detective]] from Scotland Yard.
 
 The second Council, if it may be called so, was held in what all
 
@@ -4279,7 +4279,7 @@ enter or leave the station.
 
 "I have told our people they mustn't even let US out of the
 
-station," he said, "without close examination, for [[Fear|fear]] somebody
+station," he said, "without close examination, for [[concepts/fear|fear]] somebody
 
 should have a fancy for dressing up as Mr. Pond."
 
@@ -4289,13 +4289,13 @@ dolefully.  "So I take it that for the present we must stay on the
 
 station; and one can hardly say it looks particularly festive."
 
-Nothing, indeed, can [[Well|well]] look more desolate than one of the
+Nothing, indeed, can [[motifs/well|well]] look more desolate than one of the
 
 numerous side platforms of an empty railway-station on a dreary
 
-[[Winter|winter]] day; unless it is the empty Third Class Waiting-Room which
+[[motifs/winter|winter]] day; unless it is the empty Third Class Waiting-Room which
 
-is provided to be a human refuge from the [[Winter|winter]] blast.  Somehow
+is provided to be a human refuge from the [[motifs/winter|winter]] blast.  Somehow
 
 the waiting-room looks even less human than the platform from which
 
@@ -4315,7 +4315,7 @@ place to be spending any part of Christmas; but Mr. Pond had a
 
 stoical cheerfulness under such circumstances which rather
 
-surprised those who only knew his catlike [[Love|love]] of comfortable
+surprised those who only knew his catlike [[motifs/love|love]] of comfortable
 
 domestic routine.
 
@@ -4325,7 +4325,7 @@ stopping for a moment to stare reflectively at the dried ink and
 
 broken pens on the corner table.
 
-"[[Well]]," he said, turning away, "they couldn't do very much with
+"[[motifs/well|Well]]," he said, turning away, "they couldn't do very much with
 
 those, anyhow; but, of course, they might have pencils or fountain-
 
@@ -4333,9 +4333,9 @@ pens.  I'm rather glad I did it, on the whole."
 
 "Pond," said Wotton gravely, "this is in your department anyhow;
 
-and I'm sure that Dyer will agree that we've done [[Well|well]] to follow
+and I'm sure that Dyer will agree that we've done [[motifs/well|well]] to follow
 
-your advice so far.  But I [[Hope|hope]] you don't mind my having a mild
+your advice so far.  But I [[concepts/hope|hope]] you don't mind my having a mild
 
 curiosity about what it is that you've done."
 
@@ -4371,13 +4371,13 @@ stations like fortresses.  An isolated man or so could do very
 
 little against them.  But what could an isolated man do?"
 
-"[[Well]]," said Wotton rather impatiently.  "What could he do?"
+"[[motifs/well|Well]]," said Wotton rather impatiently.  "What could he do?"
 
 "As I say," continued Mr. Pond calmly, "I sat down and had a good
 
 think about what a spy or stray intruder might do, in a quiet way
 
-without any noise of battle, murder or sudden [[Death|death]], if he did
+without any noise of battle, murder or sudden [[motifs/death|death]], if he did
 
 manage somehow to spot the right box.  So I got on to the private
 
@@ -4389,7 +4389,7 @@ which the address seemed to have been altered; anything crossed out
 
 or anything substituted.  A man might conceivably snatch a moment
 
-to re-direct a box to some of his friends in [[London]]; though he
+to re-direct a box to some of his friends in [[settings/london|London]]; though he
 
 could never take the box out of the station without being searched.
 
@@ -4397,25 +4397,25 @@ That's what I did; and it was these broken-down penholders that
 
 reminded me of it.  It's a pretty broken-down place to spend
 
-Christmas in, as you say; they have given us a sort of a [[Fire|fire]],
+Christmas in, as you say; they have given us a sort of a [[motifs/fire|fire]],
 
 which is more than some waiting-rooms do; but it looks as if it
 
-were dying of depression; and I don't [[Wonder|wonder]]."
+were dying of depression; and I don't [[concepts/wonder|wonder]]."
 
-He stirred up the neglected [[Fire|fire]], making quite a creditable blaze,
+He stirred up the neglected [[motifs/fire|fire]], making quite a creditable blaze,
 
 with his usual instinct for the comforts of life; then he added:
 
-"I [[Hope|hope]] you don't disagree with that second precaution of mine."
+"I [[concepts/hope|hope]] you don't disagree with that second precaution of mine."
 
-"No; I think that also is a very sensible precaution; though I [[Hope|hope]]
+"No; I think that also is a very sensible precaution; though I [[concepts/hope|hope]]
 
 there is no chance of anybody hitting on the right box, even by
 
-accident."  [[Hubert]] Wotton frowned a moment at the renewed flame and
+accident."  [[characters/hubert|Hubert]] Wotton frowned a moment at the renewed flame and
 
-the dancing sparks, and then said gloomily, "This is about the [[Time|time]]
+the dancing sparks, and then said gloomily, "This is about the [[motifs/time|time]]
 
 when people at Christmas are going to the pantomime.  Or, at any
 
@@ -4425,23 +4425,23 @@ Mr. Pond nodded; he seemed to be suddenly smitten with a fit of
 
 abstraction.  At last he said:
 
-"I sometimes [[Wonder|wonder]] whether things weren't better when pictures
+"I sometimes [[concepts/wonder|wonder]] whether things weren't better when pictures
 
-meant the pictures in the [[Fire|fire]], instead of the pictures on the
+meant the pictures in the [[motifs/fire|fire]], instead of the pictures on the
 
 film."
 
-Sir [[Hubert]] Wotton gruffly suggested, in a general way, that the
+Sir [[characters/hubert|Hubert]] Wotton gruffly suggested, in a general way, that the
 
-dingy [[Fire|fire]] in a Third Class Waiting-Room was not one in which he
+dingy [[motifs/fire|fire]] in a Third Class Waiting-Room was not one in which he
 
 would prefer to look for pictures.
 
-"The [[Fire|fire]] pictures, like the cloud pictures," went on Mr. Pond,
+"The [[motifs/fire|fire]] pictures, like the cloud pictures," went on Mr. Pond,
 
-"are just incomplete enough to call out the [[Imagination|imagination]] to complete
+"are just incomplete enough to call out the [[concepts/imagination|imagination]] to complete
 
-them.  Besides," he added, cheerfully poking the [[Fire|fire]], "you can
+them.  Besides," he added, cheerfully poking the [[motifs/fire|fire]], "you can
 
 stick a poker into the coals and break them up into a different
 
@@ -4467,7 +4467,7 @@ three of the officials involved.
 
 "I'll stay on this platform," he said; "in fact I shall stay on
 
-this platform all [[Night|night]] if necessary.  This is my particular job.
+this platform all [[motifs/night|night]] if necessary.  This is my particular job.
 
 But you go and get your lunch first and come back; and I'll see if
 
@@ -4523,23 +4523,23 @@ shack."
 
 "I consider it quite a Christmas triumph," said Mr. Pond, with
 
-undiminished cheerfulness, "that we have managed to keep the [[Fire|fire]]
+undiminished cheerfulness, "that we have managed to keep the [[motifs/fire|fire]]
 
-in, anyhow. . . .  Why, I believe it's begun to [[Snow|snow]]."
+in, anyhow. . . .  Why, I believe it's begun to [[motifs/snow|snow]]."
 
-For some [[Time|time]] they had noted that the afternoon, already darkening
+For some [[motifs/time|time]] they had noted that the afternoon, already darkening
 
-towards the early [[Winter|winter]] evening, had something of that lurid
+towards the early [[motifs/winter|winter]] evening, had something of that lurid
 
-greenish light which often glows under the load of [[Snow|snow]]-clouds; a
+greenish light which often glows under the load of [[motifs/snow|snow]]-clouds; a
 
 sprinkling began to fall as they went along the apparently
 
-interminable platform; and by the [[Time|time]] they reached the austere
+interminable platform; and by the [[motifs/time|time]] they reached the austere
 
 waiting-room, its roof and doorway were powdered with silver.  The
 
-[[Fire|fire]] was burning briskly inside; Dyer had evidently been keeping
+[[motifs/fire|fire]] was burning briskly inside; Dyer had evidently been keeping
 
 himself warm.
 
@@ -4547,11 +4547,11 @@ himself warm.
 
 beginning to look like a Christmas card.  Our dismal salle
 
-d'attente will soon be a [[Parody|parody]] of Father Christmas's cottage in a
+d'attente will soon be a [[forms/parody|parody]] of Father Christmas's cottage in a
 
 pantomime."
 
-"The whole thing is like the [[Parody|parody]] of a pantomime," said Pond in a
+"The whole thing is like the [[forms/parody|parody]] of a pantomime," said Pond in a
 
 lower and more disquieted tone, "and as you say, it is very queer."
 
@@ -4587,15 +4587,15 @@ this."
 
 telephoning as you did."
 
-"[[Well]]," said Pond obstinately, "and what would they do then; if
+"[[motifs/well|Well]]," said Pond obstinately, "and what would they do then; if
 
 they knew I'd telephoned?"
 
-Wotton looked puzzled; and Pond sat down in [[Silence|silence]], stirring the
+Wotton looked puzzled; and Pond sat down in [[motifs/silence|silence]], stirring the
 
-[[Fire|fire]] and staring at it.
+[[motifs/fire|fire]] and staring at it.
 
-After a [[Silence|silence]] he said abruptly:  "I wish Dyer were back."
+After a [[motifs/silence|silence]] he said abruptly:  "I wish Dyer were back."
 
 "What do you want him now for?" asked his friend.  "I should say
 
@@ -4603,11 +4603,11 @@ he'd earned a little late lunch.  As far as I can see, he's
 
 finished the business; and it's all over here."
 
-"I [[Fear|fear]]," said Pond, without taking his head out of the fireplace,
+"I [[concepts/fear|fear]]," said Pond, without taking his head out of the fireplace,
 
 "that it's only just going to begin."
 
-There was another [[Silence|silence]] of growing [[Mystification|mystification]], like the
+There was another [[motifs/silence|silence]] of growing mystification, like the
 
 gathering darkness outside.  And then Pond observed suddenly:
 
@@ -4617,13 +4617,13 @@ Wotton's face only expressed the stolid stupefaction natural under
 
 the circumstances; but in his depths, which were deeper than some
 
-supposed, an unearthly chill touched him for the first [[Time|time]].
+supposed, an unearthly chill touched him for the first [[motifs/time|time]].
 
-[[nightmare|Nightmare]] stirred in its [[Sleep|sleep]]; not the mere practical perplexity
+Nightmare stirred in its [[motifs/sleep|sleep]]; not the mere practical perplexity
 
 of a problem, but all those doubts beyond reason which revolve
 
-round place and [[Time|time]].  Before he could speak, Pond added:
+round place and [[motifs/time|time]].  Before he could speak, Pond added:
 
 "This is a different shaped poker."
 
@@ -4633,7 +4633,7 @@ locked up the station; and there is nobody on it but ourselves;
 
 except that girl in the bar.  You don't imagine she has put a new
 
-set of furniture and [[Fire|fire]]-irons in all the waiting-rooms?"
+set of furniture and [[motifs/fire|fire]]-irons in all the waiting-rooms?"
 
 "No," said Mr. Pond.  "I didn't say a new poker.  I said a new
 
@@ -4641,17 +4641,17 @@ shape of poker."
 
 Almost as he spoke, he leapt away from the fireplace, leaving the
 
-poker in the [[Fire|fire]], and ran to the doorway, craning out his head and
+poker in the [[motifs/fire|fire]], and ran to the doorway, craning out his head and
 
 listening.  His companion listened also; and recognized as an
 
-objective reality, which was no [[nightmare]], a noise of scrambling
+objective reality, which was no nightmare, a noise of scrambling
 
 footsteps somewhere on the platform.  But, when they ran out, the
 
 platform appeared to be perfectly empty, now a blank and solid
 
-table of [[Snow|snow]]; and they began to realize that the noise came from
+table of [[motifs/snow|snow]]; and they began to realize that the noise came from
 
 underneath their feet.  Looking over the railing, they saw that the
 
@@ -4659,7 +4659,7 @@ whole raised woodwork of the station was intercepted at one point
 
 by a belt of grassy embankment, very grey and discoloured with the
 
-smoke; they were just in [[Time|time]] to see a dark lean figure scramble up
+smoke; they were just in [[motifs/time|time]] to see a dark lean figure scramble up
 
 this bank and dive under the platform, in such a manner that he was
 
@@ -4675,13 +4675,13 @@ station, against such very special difficulties, Wotton's mind,
 
 already full of suspicions, decided at a glance that he was very
 
-much of a dark [[Horse|horse]].  Curiously enough, he looked a little like a
+much of a dark [[motifs/horse|horse]].  Curiously enough, he looked a little like a
 
-[[Horse|horse]], having a long equine visage and a strange sort of stoop; he
+[[motifs/horse|horse]], having a long equine visage and a strange sort of stoop; he
 
 was swarthy and haggard and his hollow eyes were such dense patches
 
-of [[Shadow|shadow]] that it was a sort of shock to realize that the eyes
+of [[archetypes/shadow|shadow]] that it was a sort of shock to realize that the eyes
 
 within were glaring.  He was dressed with the last extreme of
 
@@ -4689,11 +4689,11 @@ shabbiness, in a long threadbare and almost ragged waterproof; and
 
 they thought they had never seen before a face and figure so
 
-symbolic of desolation and dreary [[Tragedy|tragedy]].  It seemed to Wotton
+symbolic of desolation and dreary [[forms/tragedy|tragedy]].  It seemed to Wotton
 
 that he himself had his first real glimpse of those depths in which
 
-[[Despair|despair]] manufactures the many revolutionary movements which it had
+[[concepts/despair|despair]] manufactures the many revolutionary movements which it had
 
 been his duty to combat; but, of necessity, his duty prevailed.
 
@@ -4735,13 +4735,13 @@ always noticed that the chief features in the pantomime had nothing
 
 to do with the story."
 
-But Sir [[Hubert]] Wotton was having no more for the moment of Mr.
+But Sir [[characters/hubert|Hubert]] Wotton was having no more for the moment of Mr.
 
 Pond's fanciful mysteries; least of all, of the last and most
 
 mysterious, the mystery of his mirth.  He had already begun to
 
-[[Cross|cross]]-examine the stranger in the style of the police; and the
+[[motifs/cross|cross]]-examine the stranger in the style of the police; and the
 
 stranger stood up to him with gloomy but unshaken lucidity.  His
 
@@ -4761,7 +4761,7 @@ he been cheered by the assurance of the police at the entrance that
 
 regular trains for passengers would be running again in an hour, at
 
-a [[Time|time]] that would make him too late for his appointment; and lose
+a [[motifs/time|time]] that would make him too late for his appointment; and lose
 
 him the first few shillings he had earned in many months.  He had
 
@@ -4781,7 +4781,7 @@ was still smouldering with some suspicions.
 
 "I haven't got my visiting-card," said the sombre Mr. Hankin.  "I
 
-lost it along with my Rolls-Royce and my little [[Castle|castle]] in Scotland.
+lost it along with my Rolls-Royce and my little [[settings/castle|castle]] in Scotland.
 
 But you can see me in my resplendent and fashionable evening-dress,
 
@@ -4809,11 +4809,11 @@ pantomime, such as they had been discussing.
 
 the awestruck Mr. Pond.  "But I feel as if he had fallen out of the
 
-sky like the [[Snow|snow]].  Fate or the fairies have added this final
+sky like the [[motifs/snow|snow]].  Fate or the fairies have added this final
 
 touch; see how they built up gradually round us the whole palace of
 
-pantomime in this wilderness; first the firelight and then the [[Snow|snow]]
+pantomime in this wilderness; first the firelight and then the [[motifs/snow|snow]]
 
 and now the only original 'Here We Are Again!'  Such a cosy happy
 
@@ -4833,7 +4833,7 @@ to complete your costume, Sir."
 
 He suddenly plucked out the poker, from where it was standing in
 
-the [[Fire|fire]], and it emerged already red-hot.  He handed it politely to
+the [[motifs/fire|fire]], and it emerged already red-hot.  He handed it politely to
 
 the Clown.
 
@@ -4845,11 +4845,11 @@ you make the Policeman jump."
 
 Wotton stared at a scene to which he had now entirely lost the
 
-clue; and in the [[Silence|silence]] that followed, the long platform outside
+clue; and in the [[motifs/silence|silence]] that followed, the long platform outside
 
 resounded with a firm and heavy stride coming nearer and nearer.
 
-The large figure of Dyer the [[Detective|detective]] appeared framed in the
+The large figure of Dyer the [[archetypes/detective|detective]] appeared framed in the
 
 doorway; and he stood as if turned to stone by what he saw.
 
@@ -4873,9 +4873,9 @@ astonished.  He was staring only at the poker; and he obviously saw
 
 nothing funny about it.  His face was distorted by almost demoniac
 
-[[Fear|fear]] and fury; and he looked at the red pantomime poker rather as
+[[concepts/fear|fear]] and fury; and he looked at the red pantomime poker rather as
 
-if it had been the flaming [[Sword|sword]] of an accusing angel.
+if it had been the flaming sword of an accusing angel.
 
 "Yes, it's the red-hot poker," said Pond, in a low and almost
 
@@ -4897,17 +4897,17 @@ were struggling with the would-be assassin, and forcing his hand
 
 away.  Finally, he managed to wrench his hand loose again and twist
 
-the [[Pistol|pistol]] inwards upon himself; the [[Body|body]] of the big man stiffened
+the [[characters/pistol|pistol]] inwards upon himself; the [[concepts/body|body]] of the big man stiffened
 
-in their arms; and Dyer of the [[Detective|detective]] service lay dead on the
+in their arms; and Dyer of the [[archetypes/detective|detective]] service lay dead on the
 
-floor before the dancing [[Fire|fire]].
+floor before the dancing [[motifs/fire|fire]].
 
-The explanation of events was given by Mr. Pond some [[Time|time]] later;
+The explanation of events was given by Mr. Pond some [[motifs/time|time]] later;
 
-for his first action after the catastrophe left no [[Time|time]] for
+for his first action after the catastrophe left no [[motifs/time|time]] for
 
-explanations.  He had repeatedly, at intervals, looked at the [[Clock|clock]]
+explanations.  He had repeatedly, at intervals, looked at the [[motifs/clock|clock]]
 
 in the waiting-room, and seemed satisfied; but he was leaving
 
@@ -4919,7 +4919,7 @@ earlier in the day.  He came out wiping his brow, in spite of the
 
 cold; but wearing a smile of relative relief in the midst of the
 
-[[Tragedy|tragedy]].  When asked what he was doing, he answered simply: "I was
+[[forms/tragedy|tragedy]].  When asked what he was doing, he answered simply: "I was
 
 telephoning a description of the package.  It'll be all right now;
 
@@ -4941,7 +4941,7 @@ Wotton was very much the gentleman, in the more generous sense, and
 
 he heartily agreed to this; and, though it was difficult for the
 
-[[Melancholy|melancholy]] man with the [[Horse|horse]]-face to produce anything nearer to a
+[[concepts/melancholy|melancholy]] man with the [[motifs/horse|horse]]-face to produce anything nearer to a
 
 laugh than a neigh, he was manifestly much cheered internally and
 
@@ -4953,7 +4953,7 @@ the two friends adjourned to the one and only refreshment-room and
 
 sat down behind two tall glasses of beer; having no taste for
 
-warming their hands at that rather too [[Blood|blood]]-red [[Fire|fire]] that still
+warming their hands at that rather too [[motifs/blood|blood]]-red [[motifs/fire|fire]] that still
 
 burned in the sinister waiting-room.
 
@@ -4967,11 +4967,11 @@ himself, just as he killed himself.  I fancy many conspirators are
 
 really chasing themselves into corners like that.  Don't you see
 
-that he locked himself into a logical [[Prison|prison]], when he would empty
+that he locked himself into a logical [[motifs/prison|prison]], when he would empty
 
 and close the whole station, to impress us with his efficiency.  By
 
-the way, I ought to have guessed there was a [[Double|double]] meaning in his
+the way, I ought to have guessed there was a [[topoi/double|double]] meaning in his
 
 dictatorial ways and demands to override the Constitution; he was
 
@@ -4983,7 +4983,7 @@ never thought of him at all until I found him wandering about
 
 inside the logical square or enclosure, like a rectangle in
 
-geometry.  I was thinking all the [[Time|time]] about one thing: what would
+geometry.  I was thinking all the [[motifs/time|time]] about one thing: what would
 
 these people probably do to divert or intercept the box, now that
 
@@ -5037,19 +5037,19 @@ different angle; that could only mean it had been red-hot and
 
 hammered half crooked like a horseshoe on the anvil.  And then, of
 
-course, I realized that a red-hot poker would serve as [[Well|well]] as a
+course, I realized that a red-hot poker would serve as [[motifs/well|well]] as a
 
-pen or pencil, or rather better, for altering an [[Inscription|inscription]] on a
+pen or pencil, or rather better, for altering an [[forms/inscription|inscription]] on a
 
-wooden box.  A pen could only [[Cross|cross]] it out; but a poker could burn
+wooden box.  A pen could only [[motifs/cross|cross]] it out; but a poker could burn
 
-it out.  Managed neatly, it might [[Well|well]] remove all trace of there
+it out.  Managed neatly, it might [[motifs/well|well]] remove all trace of there
 
-ever having been any label or previous [[Inscription|inscription]] at all.  But it
+ever having been any label or previous [[forms/inscription|inscription]] at all.  But it
 
 would do a great deal more than that.  The clown is not the only
 
-[[Artist|artist]] who wields a poker; there is the whole elegant craft called
+[[archetypes/artist|artist]] who wields a poker; there is the whole elegant craft called
 
 poker-work.  It would be quite easy to change the whole appearance
 
@@ -5069,7 +5069,7 @@ the post to that address as a separate thing in an ordinary way;
 
 and our scheme for posting it in an ordinary way would have
 
-recoiled on our heads.  As it was, I was just in [[Time|time]] to describe
+recoiled on our heads.  As it was, I was just in [[motifs/time|time]] to describe
 
 the poker-work box and stop it.  I made a silly joke about a red
 
@@ -5079,7 +5079,7 @@ Dyer; I'm ashamed to say the only person I began by suspecting was
 
 your unfortunate clerk Franks, who is rather exceptionally
 
-[[Innocent|innocent]]."
+[[archetypes/innocent|innocent]]."
 
 "Franks!" exclaimed Wotton.  "Why on earth did you suspect him?"
 
@@ -5087,13 +5087,13 @@ your unfortunate clerk Franks, who is rather exceptionally
 
 than you may imagine.  He's a queer-looking fellow; but I ought
 
-to have known that [[Suffering|suffering]] sort of look is more often
+to have known that [[concepts/suffering|suffering]] sort of look is more often
 
 conscientiousness than unconscientiousness.  But where I was a
 
 priceless ass was when I looked at the suspect instead of looking
 
-at the [[Detective|detective]].  At that moment, Dyer was holding the box up,
+at the [[archetypes/detective|detective]].  At that moment, Dyer was holding the box up,
 
 looking at it very closely; and Franks, from the other side, could
 
@@ -5103,7 +5103,7 @@ he would know it again.  Franks knew about the box scheme; and
 
 seeing that very swift and furtive act, he started and stared; and
 
-I don't [[Wonder|wonder]].  In fact, Franks was the real [[Detective|detective]] and was far
+I don't [[concepts/wonder|wonder]].  In fact, Franks was the real [[archetypes/detective|detective]] and was far
 
 ahead of me, for I hadn't suspected Dyer at all.  Not till, so to
 
@@ -5113,7 +5113,7 @@ might say on the logical premises."  He coughed slightly.  "Pray
 
 excuse the pun."
 
-"[[Well]]," said Captain Gahagan, when Wotton had told him the story
+"[[motifs/well|Well]]," said Captain Gahagan, when Wotton had told him the story
 
 long afterwards.  "My favourite character in your drama is the
 
@@ -5121,7 +5121,7 @@ Clown.  He is so irrelevant.  I am like that myself.  I am so
 
 irrelevant."
 
-"You are," said Sir [[Hubert]] Wotton, and resumed the study of his
+"You are," said Sir [[characters/hubert|Hubert]] Wotton, and resumed the study of his
 
 documents.
 
@@ -5129,13 +5129,13 @@ documents.
 
 unchanged buoyancy.  "The Clown in Shakespeare seems to be there by
 
-accident unconnected with the story and yet he is the [[Chorus|chorus]] of the
+accident unconnected with the story and yet he is the [[characters/chorus|chorus]] of the
 
-[[Tragedy|tragedy]].  The [[Fool]] is like a fantastic dancing flame lighting up
+[[forms/tragedy|tragedy]].  The [[archetypes/fool|Fool]] is like a fantastic dancing flame lighting up
 
-the features and furniture of the dark [[house]] of [[Death|death]].  Perhaps we
+the features and furniture of the dark house of [[motifs/death|death]].  Perhaps we
 
-may connect Pond and [[Polonius]] after all."  And he continued to
+may connect Pond and [[characters/polonius|Polonius]] after all."  And he continued to
 
 illustrate his theory of the buffoons in Shakespeare, a dramatic
 
@@ -5161,7 +5161,7 @@ said he could not see the sense of things; and was deaf to the
 
 wistful questions of his friend Gahagan, about whether he might
 
-perhaps see the nonsense.  There was no nonsense about Sir [[Hubert]]
+perhaps see the nonsense.  There was no nonsense about Sir [[characters/hubert|Hubert]]
 
 Wotton; and there was a great deal of nonsense about Captain
 
@@ -5193,15 +5193,15 @@ to give our friend his high and rightful rank in the biological
 
 order.  I need not trouble you with the arguments.  Pond wears a
 
-beard.  He and the oyster [[Alone|alone]] confront the world of modern
+beard.  He and the oyster alone confront the world of modern
 
 fashions with such a decoration.  When he shuts up his head he is
 
-as close as an oyster.  When he persuades us to [[Swallow|swallow]] something,
+as close as an oyster.  When he persuades us to [[motifs/swallow|swallow]] something,
 
 it is only afterwards (as we have often agreed) that we realize
 
-what a [[Monster|monster]] of the deep we have swallowed.  But, above all,
+what a [[archetypes/monster|monster]] of the deep we have swallowed.  But, above all,
 
 within that oyster are the paradoxes; which are pearls of great
 
@@ -5219,7 +5219,7 @@ This question of deporting dangerous characters, even when they are
 
 only suspects, has some curious and baffling problems.  I remember
 
-one rather queer case, in which a [[government]] had to consider the
+one rather queer case, in which a government had to consider the
 
 deporting of a desirable alien--"
 
@@ -5253,27 +5253,27 @@ wanted him to stay, and that was why it seemed obvious that he must
 
 go.  He was something which, without profanity, I trust, I might
 
-call the [[Desire|desire]] of all nations; or what poets have described as the
+call the [[motifs/desire|desire]] of all nations; or what poets have described as the
 
-world's [[Desire|desire]].  And yet he was not deported.  Although he was
+world's [[motifs/desire|desire]].  And yet he was not deported.  Although he was
 
-desired, he was not deported.  That is the only real [[Paradox|paradox]]."
+desired, he was not deported.  That is the only real [[concepts/paradox|paradox]]."
 
-"Oh," said the staring Wotton.  "So that's the real [[Paradox|paradox]]."
+"Oh," said the staring Wotton.  "So that's the real [[concepts/paradox|paradox]]."
 
 "You should remember something of the case, Wotton," went on Mr.
 
-Pond.  "It was about that [[Time|time]] when we went over to [[Paris]] together
+Pond.  "It was about that [[motifs/time|time]] when we went over to [[settings/paris|Paris]] together
 
 about a rather delicate--"
 
-"Pond in [[Paris]]," murmured Gahagan.  "Pond in his Pagan Youth, when
+"Pond in [[settings/paris|Paris]]," murmured Gahagan.  "Pond in his Pagan Youth, when
 
-(as Swinburne says so beautifully) '[[Love]] was the pearl of his
+(as Swinburne says so beautifully) '[[motifs/love|Love]] was the pearl of his
 
-oyster and [[Venus]] [[Rose|rose]] red out of wine.'"
+oyster and [[characters/venus|Venus]] [[motifs/rose|rose]] red out of wine.'"
 
-"[[Paris]] is on the way to many capitals," replied Pond with
+"[[settings/paris|Paris]] is on the way to many capitals," replied Pond with
 
 diplomatic reserve.  "In any case, there is no need to define the
 
@@ -5293,13 +5293,13 @@ equality; in face of a world deeply disturbed about economic
 
 equality.  When I went there, a strike in the transport services
 
-had brought the life of the capital to a deadlock; the [[government|Government]]
+had brought the life of the capital to a deadlock; the Government
 
 was accused of being under the influence of a millionaire named
 
 Kramp, who controlled the lines involved; and the crisis was the
 
-more alarming because it was insisted (on the [[government|Government]] side) that
+more alarming because it was insisted (on the Government side) that
 
 the strike was secretly engineered by the famous terrorist,
 
@@ -5327,7 +5327,7 @@ various ways.  The first case was commonplace enough, it might
 
 seem; consisting merely of talking to a bookseller who was
 
-otherwise a fairly ordinary shopkeeper, but [[Well|well]] acquainted with
+otherwise a fairly ordinary shopkeeper, but [[motifs/well|well]] acquainted with
 
 early eighteenth-century scientific books; and the period was a
 
@@ -5351,13 +5351,13 @@ conversation, in a café, was much more vigorous and vigilant, and
 
 belonged to a younger world.  But he also was very serious; a dark,
 
-strenuous young man who was a [[government|Government]] official actually
+strenuous young man who was a Government official actually
 
-believing in the [[government|Government]]; or at least in the principles of the
+believing in the Government; or at least in the principles of the
 
-[[government|Government]]; and he was the sort of man who thinks first about
+Government; and he was the sort of man who thinks first about
 
-principles.  He denounced the strike and even the trade [[Union|union]]; not
+principles.  He denounced the strike and even the trade [[concepts/union|union]]; not
 
 because he was a snob, for he lived as simply as a workman; but
 
@@ -5365,15 +5365,15 @@ because he really did believe in the old individualistic theory of
 
 what he called free contract.  The type is almost unknown in
 
-England; the theory is more common in [[America]].  But nobody who
+England; the theory is more common in [[settings/america|America]].  But nobody who
 
 looked at the baldish, rather corrugated brow that bulged between
 
 the streaks of black hair, and the anxious, though angry, eyes,
 
-could [[Doubt|doubt]] that he was in fanatical good [[Faith|faith]].  His name was
+could [[concepts/doubt|doubt]] that he was in fanatical good [[concepts/faith|faith]].  His name was
 
-Marcus, and he held a minor [[government|Government]] office, in which he could
+Marcus, and he held a minor Government office, in which he could
 
 survey with satisfaction the principles of the Republic, without
 
@@ -5399,21 +5399,21 @@ some tangle of talk and laughter; they seemed to have stopped by
 
 the table merely for the sake of the talk.  The next moment a
 
-string of gutter-children invaded his [[Solitude|solitude]] and received the
+string of gutter-children invaded his [[concepts/solitude|solitude]] and received the
 
 pieces of sugar not used for his coffee; then a hulking and rather
 
 sulky-looking labourer came up and talked to him, for a much longer
 
-[[Time|time]] than any of the others.  Strangest of all, a lady, of the
+[[motifs/time|time]] than any of the others.  Strangest of all, a lady, of the
 
-stiff aristocratic sort seldom seen outside the [[house]] in such
+stiff aristocratic sort seldom seen outside the house in such
 
 countries, actually got out of a carriage and stood staring at the
 
 strange gentleman; and then got into the carriage again.  These
 
-things [[Alone|alone]] might have led Pond to look at the person in question;
+things alone might have led Pond to look at the person in question;
 
 but in fact, for some reason or other, he had looked at him with
 
@@ -5429,17 +5429,17 @@ a ring with a stone coloured like a kingfisher, the only spot of
 
 luxury on what was otherwise a rather threadbare appearance; and in
 
-the grey [[Shadow|shadow]] of the white hat his eyes shone as blue as the
+the grey [[archetypes/shadow|shadow]] of the white hat his eyes shone as blue as the
 
 stone.  There was nothing in his position that claimed prominence;
 
 he did not sit in the front but up against the wall of the café,
 
-just under a creeper and a [[Fire|fire]]-escape.  Despite the little crowds
+just under a creeper and a [[motifs/fire|fire]]-escape.  Despite the little crowds
 
 that clustered round him, he had in the intervals an odd air of
 
-preferring to be [[Alone|alone]].  Pond made many inquiries, then and
+preferring to be alone.  Pond made many inquiries, then and
 
 afterwards, about his name; but learnt nothing except that he was
 
@@ -5455,7 +5455,7 @@ name, did not very clearly emerge.
 
 "Everybody knows him and nobody knows who he is," replied Marcus in
 
-a rather grating voice.  "But I'm jolly [[Well|well]] going to find out."
+a rather grating voice.  "But I'm jolly [[motifs/well|well]] going to find out."
 
 As he spoke, the hawkers of the revolutionary paper, published by
 
@@ -5465,7 +5465,7 @@ paper, were distributing it among a considerable number of
 
 purchasers in the crowd outside the café; a black block thus
 
-rapidly diversified with blots of [[Blood|blood]]-red colour.  Some, indeed,
+rapidly diversified with blots of [[motifs/blood|blood]]-red colour.  Some, indeed,
 
 looked at the paper only to jeer at it; some with a colder
 
@@ -5477,7 +5477,7 @@ definite disapproval, was the gentleman with the beard and the blue
 
 ring: M. Louis.
 
-"[[Well]]," said Marcus, with a darkening brow.  "Let them.  It's their
+"[[motifs/well|Well]]," said Marcus, with a darkening brow.  "Let them.  It's their
 
 last chance, I suppose."
 
@@ -5503,7 +5503,7 @@ Anyhow, they're going to raid the offices with police to-morrow;
 
 and that's probably the last issue."
 
-M. Marcus proved himself a true [[Prophet|prophet]], so far as concerned the
+M. Marcus proved himself a true [[archetypes/prophet|prophet]], so far as concerned the
 
 general situation next morning.
 
@@ -5515,7 +5515,7 @@ seized all copies of it everywhere; and the black-clad bourgeoisie
 
 sitting outside the café were now blameless and unspotted with any
 
-hues of [[Blood|blood]]; save in one corner under the [[Fire|fire]]-escape and the
+hues of [[motifs/blood|blood]]; save in one corner under the [[motifs/fire|fire]]-escape and the
 
 creeper, where M. Louis was reading his copy of the sanguinary
 
@@ -5543,7 +5543,7 @@ umbrella like a sabre.  This was the eminent and highly militant
 
 Dr. Koch, the Minister of the Interior; he had been presiding over
 
-the police raid, and his [[rolling]] eye instantly spotted the one red
+the police raid, and his rolling eye instantly spotted the one red
 
 spot in the corner of the crowded café.  He planted himself before
 
@@ -5583,7 +5583,7 @@ grinding his teeth.  "Anyhow, you shan't arrest us or hold up the
 
 whole machinery of society by a trick like this.  Do you think we
 
-will let that sort of dirty little red rusty nail in the [[Road|road]] stop
+will let that sort of dirty little red rusty nail in the [[motifs/road|road]] stop
 
 all the wheels of progress?"
 
@@ -5591,9 +5591,9 @@ all the wheels of progress?"
 
 wheels of your sort of progress have ever done anything yet but
 
-grind the faces of the poor?  No; I have not the [[Honour|honour]] of being
+grind the faces of the poor?  No; I have not the [[concepts/honour|honour]] of being
 
-one of the citizens of your State; one of those happy, joyful, [[Well|well]]-
+one of the citizens of your State; one of those happy, joyful, [[motifs/well|well]]-
 
 fed, wealthy citizens one sees standing about in the street, on
 
@@ -5627,11 +5627,11 @@ fancy about who he is."
 
 what he is.  Not a nice fancy."  And he strode abruptly away from
 
-the table and up the street [[Alone|alone]].
+the table and up the street alone.
 
 Mr. Pond remained seated in a condition of profound thought.  After
 
-some minutes he [[Rose|rose]] and made his way towards the table where his
+some minutes he [[motifs/rose|rose]] and made his way towards the table where his
 
 friend the bookseller, the excellent Huss, was still seated in
 
@@ -5663,13 +5663,13 @@ and saluting like an army; and a great shout, seeming to shake the
 
 lamp-posts and little trees, went up for the one man who remained
 
-faithful to the red rag.  M. Louis [[Rose|rose]] and gravely bowed to the
+faithful to the red rag.  M. Louis [[motifs/rose|rose]] and gravely bowed to the
 
 applauding mob.  Mr. Pond sat down opposite his friend the
 
 bookseller and scrutinized his whiskered face with interest.
 
-"[[Well]]," said Mr. Pond, "our friend over there looks as if he might
+"[[motifs/well|Well]]," said Mr. Pond, "our friend over there looks as if he might
 
 soon be the leader of the revolutionary party."
 
@@ -5691,7 +5691,7 @@ with the protest of the proletariat or with the present phase of
 
 capitalism."
 
-"Oh," said Mr. Pond; and an understanding began to [[Dawn|dawn]] in his
+"Oh," said Mr. Pond; and an understanding began to [[motifs/dawn|dawn]] in his
 
 eyes.  After a moment he said:  "I apologize most sincerely, old
 
@@ -5707,7 +5707,7 @@ sect talks its own language.  You could tell a man was a Buddhist
 
 from his way of saying he was not a Buddhist.  It's no business of
 
-mine; and I won't mention it to a [[Soul|soul]], if you prefer not.  I only
+mine; and I won't mention it to a [[motifs/soul|soul]], if you prefer not.  I only
 
 ventured to say that the man over there seems to be very popular
 
@@ -5721,9 +5721,9 @@ a scientific movement.  We are not moral.  We have done with
 
 bourgeois ideologies of right and wrong.  We are Realpolilik.  What
 
-helps the program of Marx is [[Alone|alone]] good.  What hinders the program
+helps the program of Marx is alone good.  What hinders the program
 
-of Marx is [[Alone|alone]] evil.  But there are limits.  There are names so
+of Marx is alone evil.  But there are limits.  There are names so
 
 infamous, there are persons so infamous, that they must always be
 
@@ -5749,7 +5749,7 @@ Tarnowski the Terrorist is now said to be fomenting strikes and
 
 revolutions not only in this country but definitely in this
 
-capital.  [[Well]], our friend in the white hat seems to me to be
+capital.  [[motifs/well|Well]], our friend in the white hat seems to me to be
 
 rather an old hand."
 
@@ -5775,7 +5775,7 @@ Mr. Huss stiffened and sat as still as a stone idol; but the change
 
 in the face of the graven image was appalling.  It suggested some
 
-[[nightmare]] story of a man at a solitary table finding he was dining
+nightmare story of a man at a solitary table finding he was dining
 
 with a devil.
 
@@ -5789,7 +5789,7 @@ laughter, like the dismal noises of an owl, shrill and monotonous
 
 and apparently to be repeated indefinitely without control.
 
-"[[Well]]," interrupted Pond, mildly exasperated, "how can you possibly
+"[[motifs/well|Well]]," interrupted Pond, mildly exasperated, "how can you possibly
 
 know that he is not Tarnowski?"
 
@@ -5815,7 +5815,7 @@ it."
 
 "That," observed the other with guttural slowness, "is what I think
 
-you call a [[Paradox|paradox]]."
+you call a [[concepts/paradox|paradox]]."
 
 "Oh, don't say that," groaned Mr. Pond.  "Everybody in England says
 
@@ -5841,7 +5841,7 @@ black, bloodshot with the glimpses of the Bolshevist journal.  In
 
 the social sense at least, there seemed to be a clearance in the
 
-[[Storm|storm]], of the strikers if not the strike; the threat of riots had
+[[motifs/storm|storm]], of the strikers if not the strike; the threat of riots had
 
 been outmanoeuvred; and the police were picketed at intervals down
 
@@ -5869,17 +5869,17 @@ him in a merely nonsensical manner, as if they had been dolls or
 
 dummies in some delightful puppet-play; their cocked hats carrying
 
-a vague [[Memory|memory]] of the beadle in a Punch-and-Judy show.  Through all
+a vague [[motifs/memory|memory]] of the beadle in a Punch-and-Judy show.  Through all
 
-this coloured [[Comedy|comedy]] there advanced the rigid figure of M. Marcus,
+this coloured [[forms/comedy|comedy]] there advanced the rigid figure of M. Marcus,
 
 with a visage which announced vividly that that political Puritan
 
 did not believe in puppet-shows.
 
-"[[Well]]," he said, glaring at Pond with a sort of controlled rage, "I
+"[[motifs/well|Well]]," he said, glaring at Pond with a sort of controlled rage, "I
 
-fancy I can guess the [[Truth|truth]] about HIM."
+fancy I can guess the [[concepts/truth|truth]] about HIM."
 
 Pond made polite inquiries; and was answered by an unexpectedly
 
@@ -5895,19 +5895,19 @@ What holy Father of the Poor?  Deported!  That sort of fellow ought
 
 to be hanged."
 
-"I [[Fear|fear]] I do not understand anything yet," answered Pond mildly,
+"I [[concepts/fear|fear]] I do not understand anything yet," answered Pond mildly,
 
 "except that for some reason he cannot even be deported."
 
 "Looks very patriarchal, doesn't he, sitting in the sunshine and
 
-playing with the children?  It was darker last [[Night|night]] and I caught
+playing with the children?  It was darker last [[motifs/night|night]] and I caught
 
 him in a darker piece of business. . . .  Listen to this, first of
 
 all.  It was at the end of dusk, yesterday evening; and but for
 
-myself, he was [[Alone|alone]] in the café; I don't think he saw me; but I
+myself, he was alone in the café; I don't think he saw me; but I
 
 don't know if he would care.  There drove up a dark, closely
 
@@ -5935,19 +5935,19 @@ because he's a blackmailer.  You also mean he can't be arrested
 
 because he's a blackmailer."
 
-For the first [[Time|time]] the rage of Marcus seemed mixed with a sort of
+For the first [[motifs/time|time]] the rage of Marcus seemed mixed with a sort of
 
 embarrassment, almost amounting to shame, as he looked down
 
 scowling at the table.
 
-"It has no [[Doubt|doubt]] occurred to you," proceeded Pond placidly, "that
+"It has no [[concepts/doubt|doubt]] occurred to you," proceeded Pond placidly, "that
 
 the second inference involves some suggestions that are rather
 
 delicate; especially if I may say so, for a man in your position."
 
-Marcus remained in a [[Silence|silence]] swollen with anger; then at last he
+Marcus remained in a [[motifs/silence|silence]] swollen with anger; then at last he
 
 broke out abruptly, as if beyond control:  "I'll swear the Prime
 
@@ -5973,9 +5973,9 @@ saying:  "Oh, you don't understand."
 
 "On the contrary," replied Pond.  "I think I do understand."
 
-There was a lengthy [[Silence|silence]] and then Pond resumed:
+There was a lengthy [[motifs/silence|silence]] and then Pond resumed:
 
-"I understand the horrid [[Truth|truth]] that you yourself are a perfectly
+"I understand the horrid [[concepts/truth|truth]] that you yourself are a perfectly
 
 honourable and high-minded person and that your own problem is
 
@@ -6001,7 +6001,7 @@ a man sympathizing with the strikers, or even being a sincere
 
 Socialist?"
 
-"[[Well]]," replied Marcus, after a spasm of concentration, "I suppose
+"[[motifs/well|Well]]," replied Marcus, after a spasm of concentration, "I suppose
 
 one ought to imagine.  I suppose he might hold that, the Republic
 
@@ -6013,7 +6013,7 @@ contracts."
 
 I wanted.  It is an important contribution to Pond's Law of
 
-[[Paradox]], if I may be pardoned for expressing myself so playfully.
+[[concepts/paradox|Paradox]], if I may be pardoned for expressing myself so playfully.
 
 And now let us go and talk to M. Louis."
 
@@ -6025,7 +6025,7 @@ Some vivacious and talkative young men were taking leave of M.
 
 Louis, who courteously invited the newcomers to the empty chairs,
 
-saying something about "my young friends often enliven my [[Solitude|solitude]]
+saying something about "my young friends often enliven my [[concepts/solitude|solitude]]
 
 with their rather Socialistic views."
 
@@ -6043,7 +6043,7 @@ pretend that a bargain between a starving man and a man with all
 
 the food is anything but a leonine contract."  He glanced up at the
 
-[[Fire|fire]]-escape, a ladder leading up to the balcony of a very high
+[[motifs/fire|fire]]-escape, a ladder leading up to the balcony of a very high
 
 attic above.  "I live in that garret; or rather on that balcony.
 
@@ -6059,7 +6059,7 @@ for his hundred million.  Hell, indeed, is not out of the picture;
 
 for it is a sin of injustice to force an advantage against the
 
-desperate.  [[Well]], all those poor men are desperate; they all hang
+desperate.  [[motifs/well|Well]], all those poor men are desperate; they all hang
 
 starving on spikes.  If they must not bargain collectively, they
 
@@ -6073,9 +6073,9 @@ Pond's eye followed it and found the balcony fitted out with what
 
 looked like a bedstead, a screen, and an old looking-glass, all
 
-very shabby.  The only other object was a dusty old [[Cross|cross]]-hilted
+very shabby.  The only other object was a dusty old [[motifs/cross|cross]]-hilted
 
-[[Sword|sword]], such as might have come from a curiosity shop.  Mr. Pond
+sword, such as might have come from a curiosity shop.  Mr. Pond
 
 eyed this last object with considerable curiosity.
 
@@ -6103,15 +6103,15 @@ meant anything, could only mean that the policeman himself had
 
 turned for an instant and fired.
 
-"A little reminder, perhaps, that it is [[Time|time]] to go to bed," said M.
+"A little reminder, perhaps, that it is [[motifs/time|time]] to go to bed," said M.
 
-Louis gaily.  "I go up by the [[Fire|fire]]-escape and I [[Sleep|sleep]] on the
+Louis gaily.  "I go up by the [[motifs/fire|fire]]-escape and I [[motifs/sleep|sleep]] on the
 
-balcony.  Doctors think so much of this open-air treatment.  [[Well]],
+balcony.  Doctors think so much of this open-air treatment.  [[motifs/well|Well]],
 
 my people have always gone to bed in public; so many tramps do,
 
-don't they?  Good [[Night|night]], gentlemen."
+don't they?  Good [[motifs/night|night]], gentlemen."
 
 He lightly scaled the iron ladder and began on the balcony, before
 
@@ -6119,7 +6119,7 @@ their astonished eyes, to assume a capacious dressing-gown and
 
 prepare for slumber.
 
-"Pond," said Marcus, "we are in a [[nightmare]] of nonsense."
+"Pond," said Marcus, "we are in a nightmare of nonsense."
 
 "No," replied Pond, "for the first lime it begins to make sense.  I
 
@@ -6133,7 +6133,7 @@ I think I have discovered a rather useful principle.  It is this.
 
 Men may argue FOR principles not entirely their own, for various
 
-reasons; as a joke in a rag [[debate]], or covered by professional
+reasons; as a joke in a rag debate, or covered by professional
 
 etiquette, like a barrister, or merely exaggerating something
 
@@ -6169,7 +6169,7 @@ Leo XIII.  Therefore, he represents something even older than your
 
 Rousseau and your Revolution.  I knew after five words that he was
 
-not the blackmailing blackguard of [[Romance|romance]]; and yet he is romantic.
+not the blackmailing blackguard of romance; and yet he is romantic.
 
 And he could be legally arrested; but only for a rather curious
 
@@ -6183,7 +6183,7 @@ him in the street.  You argued truly that ladies in your country
 
 think so much of formality and propriety, that they could never do
 
-this except in some extreme of agony and [[Despair|despair]].  It did not occur
+this except in some extreme of agony and [[concepts/despair|despair]].  It did not occur
 
 to you that, perhaps, it might be only an extreme of formality and
 
@@ -6191,19 +6191,19 @@ propriety."
 
 Marcus began slowly:  "What the devil--"  And then Mr. Pond rapped
 
-out quite smartly:  "And then the [[Sword|sword]].  What is a [[Sword|sword]] FOR?
+out quite smartly:  "And then the sword.  What is a sword FOR?
 
-It's absurd to say for fighting; he wouldn't wave a mediæval [[Sword|sword]]
+It's absurd to say for fighting; he wouldn't wave a mediæval sword
 
 against people shooting him with guns.  If it were for duels he
 
-would have a duelling-[[Sword|sword]]; and probably two in a case.  What else
+would have a duelling-sword; and probably two in a case.  What else
 
-can you do with a [[Sword|sword]]?  [[Well]], you can [[Swallow|swallow]] it; and at one [[Time|time]]
+can you do with a sword?  [[motifs/well|Well]], you can [[motifs/swallow|swallow]] it; and at one [[motifs/time|time]]
 
 I really had a fancy he might be a conjurer.  But it's too big a
 
-[[Swallow|swallow]]; so is the notion.  What CAN be done with a [[Sword|sword]], but not
+[[motifs/swallow|swallow]]; so is the notion.  What CAN be done with a sword, but not
 
 with a spear or gun or battle-axe?  Have you heard of the Accolade?
 
@@ -6213,11 +6213,11 @@ custom it can only be done--"
 
 "Only--" began Marcus, beginning to stare.
 
-"Only by a [[King]]," said Pond.  And the young Republican sprang up
+"Only by a [[archetypes/king|King]]," said Pond.  And the young Republican sprang up
 
 rigid at the challenge.
 
-"Yes," continued Pond, "the [[King]] has crept back among you.  It is
+"Yes," continued Pond, "the [[archetypes/king|King]] has crept back among you.  It is
 
 not your fault.  Republics might be all right if Republicans were
 
@@ -6227,7 +6227,7 @@ not . . . and that's what he meant about going to bed in public.
 
 You know the old kings really did.  But he had another reason.  He
 
-had one real [[Fear|fear]]; that they might deport him secretly.  They could
+had one real [[concepts/fear|fear]]; that they might deport him secretly.  They could
 
 deport him technically, of course; all these Republics have laws
 
@@ -6251,15 +6251,15 @@ could they say:  'Yes, he is popular, he is on the side of the
 
 people and the poor; the young men accept his leadership; but he is
 
-the [[King]] and therefore he must go'?  They know how horribly near
+the [[archetypes/king|King]] and therefore he must go'?  They know how horribly near
 
-the world is to answering:  'Yes; he is the [[King]] and, by God, he
+the world is to answering:  'Yes; he is the [[archetypes/king|King]] and, by God, he
 
 shall stay.'"
 
 Mr. Pond had told this story, at somewhat greater length but in far
 
-more classic diction; and by that [[Time|time]] had actually finished the
+more classic diction; and by that [[motifs/time|time]] had actually finished the
 
 oysters.  He gazed pensively at the shells and added:  "You will of
 
@@ -6273,7 +6273,7 @@ case he should have been exiled for being important; but he was so
 
 very important that nobody could be told of his importance."
 
-RING OF [[lovers|LOVERS]]
+RING OF LOVERS
 
 "As I said before," observed Mr. Pond, towards the end of one of
 
@@ -6287,7 +6287,7 @@ Captain Gahagan waved a gloved hand as in courteous acknowledgement
 
 of anything anybody liked to say; he had an especially flamboyant
 
-flower in his coat and looked unusually gay.  But Sir [[Hubert]]
+flower in his coat and looked unusually gay.  But Sir [[characters/hubert|Hubert]]
 
 Wotton, the third party at the little conference, sat up.  For he
 
@@ -6295,7 +6295,7 @@ followed the flow of words with tireless, intelligent attention,
 
 while Gahagan, though radiant, seemed rather abstracted; and these
 
-abrupt absurdities always brought Sir [[Hubert]] up standing.
+abrupt absurdities always brought Sir [[characters/hubert|Hubert]] up standing.
 
 "Say that again," he said, not without sarcasm.
 
@@ -6311,13 +6311,13 @@ larger than the last; still less to inform us that each reptile in
 
 turn swallowed the last one whole; and that the last of all was
 
-opening its mouth to [[Swallow|swallow]] the [[Ship|ship]], when he saw it was only a
+opening its mouth to [[motifs/swallow|swallow]] the [[motifs/ship|ship]], when he saw it was only a
 
-yawn after too heavy a meal, and the [[Monster|monster]] suddenly went to
+yawn after too heavy a meal, and the [[archetypes/monster|monster]] suddenly went to
 
-[[Sleep|sleep]].  I will not dwell on the mathematical symmetry with which
+[[motifs/sleep|sleep]].  I will not dwell on the mathematical symmetry with which
 
-snake within snake yawned, and snake within snake went to [[Sleep|sleep]],
+snake within snake yawned, and snake within snake went to [[motifs/sleep|sleep]],
 
 all except the smallest, which had had no dinner and walked out to
 
@@ -6355,7 +6355,7 @@ latitudinarian clergyman is but little likely to advance him in his
 
 present profession, or to fit him for his present pursuits.  I
 
-suspect the story was partially a [[Parable|parable]] or [[Allegory|allegory]].  But anyhow,
+suspect the story was partially a [[forms/parable|parable]] or [[forms/allegory|allegory]].  But anyhow,
 
 it was quite unnecessary and it was obviously untrue.  And when a
 
@@ -6369,11 +6369,11 @@ story that really is true?"
 
 "You mean you would think I was still romancing.  But why?"
 
-"Because it would be so very like a [[Romance|romance]]," retorted Wotton.
+"Because it would be so very like a romance," retorted Wotton.
 
 "But don't you think," asked the Captain thoughtfully, "that real
 
-life sometimes is like a [[Romance|romance]]?"
+life sometimes is like a romance?"
 
 "I think," replied Wotton, with a certain genuine shrewdness that
 
@@ -6387,7 +6387,7 @@ this.  Life is artistic in parts, but not as a whole; it's like
 
 broken bits of different works of art.  When everything hangs
 
-together, and it all fits in, we [[Doubt|doubt]].  I might even believe that
+together, and it all fits in, we [[concepts/doubt|doubt]].  I might even believe that
 
 Gahagan saw six sea-serpents; but not that each was larger than the
 
@@ -6395,9 +6395,9 @@ last.  If he'd said there was first a large one and then a little
 
 one and then a larger one, he might have taken us in.  We often say
 
-that one social situation is like being in a [[Novel|novel]]; but it doesn't
+that one social situation is like being in a [[forms/novel|novel]]; but it doesn't
 
-finish like the [[Novel|novel]]--at least, not the same [[Novel|novel]]."
+finish like the [[forms/novel|novel]]--at least, not the same [[forms/novel|novel]]."
 
 "Pond," said Gahagan, "I sometimes think you are inspired, or
 
@@ -6405,15 +6405,15 @@ possessed of a devil in a quiet way.  It's queer you should say
 
 that; because my experience was just like that.  With this
 
-difference; each familiar [[Melodrama|melodrama]] broke off; but only turned to
+difference; each familiar [[forms/melodrama|melodrama]] broke off; but only turned to
 
-blacker [[Melodrama|melodrama]]--or [[Tragedy|tragedy]].  Again and again, in this affair, I
+blacker [[forms/melodrama|melodrama]]--or [[forms/tragedy|tragedy]].  Again and again, in this affair, I
 
 thought I was in a magazine story; and then it turned to quite
 
-another story.  Sort of dissolving view, or a [[nightmare]].
+another story.  Sort of dissolving view, or a nightmare.
 
-Especially a [[nightmare]]."
+Especially a nightmare."
 
 "And why especially?" asked Wotton.
 
@@ -6435,11 +6435,11 @@ morning."
 
 face.  "Congratulations, of course, and all that.  But what has it
 
-to do with the [[nightmare]]?"
+to do with the nightmare?"
 
 "There is a connexion," said Gahagan dreamily.  "But you want the
 
-horrible story and not the happy one.  [[Well]], it was a bit of a
+horrible story and not the happy one.  [[motifs/well|Well]], it was a bit of a
 
 mystery, at least to me; but I understood it at last."
 
@@ -6469,7 +6469,7 @@ way, physical and mental, a 'long-headed' person.  You've heard of
 
 a hatchet-face; his was a hatchet that cut off his own head--or
 
-rather his own [[Body|body]], abolishing the slighter and more insignificant
+rather his own [[concepts/body|body]], abolishing the slighter and more insignificant
 
 figure.  He is an economist and he gave one the impression of being
 
@@ -6479,7 +6479,7 @@ wake of his wonderful wife, that darting swan; and perhaps that was
 
 why he wanted the cooler society of his own sex.  Anyhow, he kept
 
-some of his male guests for a little dinner after the at-[[Home|home]] was
+some of his male guests for a little dinner after the at-[[motifs/home|home]] was
 
 over.  I happened to be one of them; but, in spite of that, it was
 
@@ -6487,7 +6487,7 @@ a select company.
 
 "It was a select company; and yet it hardly seemed to have been
 
-selected.  They were mostly [[Well|well]]-known men, and yet it looked as if
+selected.  They were mostly [[motifs/well|well]]-known men, and yet it looked as if
 
 Crome had taken their names out of a hat.  The first person I ran
 
@@ -6497,19 +6497,19 @@ in the British Army, and I should think the stupidest, for any
 
 strategic purposes.  Of course he looks magnificent--like a
 
-chryselephantine statue of Hercules, and about as useful in [[Time|time]] of
+chryselephantine statue of Hercules, and about as useful in [[motifs/time|time]] of
 
 war.  I once used the word 'chryselephantine,' meaning gold and
 
 ivory; and he thought I was calling him elephantine.  Classical
 
-[[Education|education]] of the pukka sahib.  [[Well]], the man he was put next to was
+[[concepts/education|education]] of the pukka sahib.  [[motifs/well|Well]], the man he was put next to was
 
 Count Kranz, the Hungarian scientist and social reformer.  He
 
 speaks twenty-seven languages, including philosophical language.  I
 
-[[Wonder|wonder]] what language he talked to Captain Blande in.  Just beyond
+[[concepts/wonder|wonder]] what language he talked to Captain Blande in.  Just beyond
 
 the Count was another fellow more of Blande's sort; but darker and
 
@@ -6529,13 +6529,13 @@ faintly Eurasian about this man Wooster; he was like a dark-striped
 
 tiger and one could fancy him gliding through a jungle.  That pair
 
-at least looked a little more [[Well|well]]-matched; for Kranz also was dark
+at least looked a little more [[motifs/well|well]]-matched; for Kranz also was dark
 
 and good-looking, with arched, black, Assyrian eyebrows and a long,
 
 dark beard, spreading like a fan or the forked tail of a bird.  I
 
-sat next, and got on with Wooster pretty [[Well|well]]; on the other side of
+sat next, and got on with Wooster pretty [[motifs/well|well]]; on the other side of
 
 me was Sir Oscar Marvell, the great actor-manager, all very fine
 
@@ -6557,7 +6557,7 @@ classics all right; one Italian singer, whose name I could not
 
 remember, and one Polish diplomat, whose name nobody could
 
-remember.  And I was saying to myself all the [[Time|time]]:  'What a funny
+remember.  And I was saying to myself all the [[motifs/time|time]]:  'What a funny
 
 collection!'"
 
@@ -6565,9 +6565,9 @@ collection!'"
 
 collects a lot of incompatible people for the pleasure of hearing
 
-them quarrel.  Done very [[Well|well]] in one of Anthony Berkeley's
+them quarrel.  Done very [[motifs/well|well]] in one of Anthony Berkeley's
 
-[[Detective|detective]] stories."
+[[archetypes/detective|detective]] stories."
 
 "No," replied Gahagan.  "I think their incompatibility was quite
 
@@ -6581,7 +6581,7 @@ it rather cleverly, too, by beginning to talk about heirlooms and
 
 family jewels and so on.  Different as they were, most of them were
 
-[[Well|well]]-off, and what is called of a good family; and it was about as
+[[motifs/well|well]]-off, and what is called of a good family; and it was about as
 
 close to common ground as they could get.  The Pole, who was a
 
@@ -6611,9 +6611,9 @@ tiresome preliminaries about being made Pope; it involves celibacy;
 
 and I--'  And he shrugged his shoulders.
 
-"'Very annoying, no [[Doubt|doubt]],' said Lord Crome, smiling at him grimly.
+"'Very annoying, no [[concepts/doubt|doubt]],' said Lord Crome, smiling at him grimly.
 
-'As for this ring here--[[Well|well]], it is rather interesting in a way, in
+'As for this ring here--[[motifs/well|well]], it is rather interesting in a way, in
 
 that sort of family way, of course.  I don't know the details, but
 
@@ -6625,21 +6625,21 @@ to the Pole, who was silting next to him.  It proved on examination
 
 to be set with a cluster of extremely fine rubies and carved with a
 
-central device of a heart inside a [[Rose|rose]].  I saw it myself, since it
+central device of a heart inside a [[motifs/rose|rose]].  I saw it myself, since it
 
 was handed round the table; and there was some lettering in old
 
-French which meant something like 'From the [[Lover|lover]] only and only to
+French which meant something like 'From the [[archetypes/lover|lover]] only and only to
 
 the beloved.'
 
-"'A [[Romance|romance]] in your family [[history]], I suppose?' suggested the
+"'A romance in your family [[concepts/history|history]], I suppose?' suggested the
 
 Hungarian Count.  'And about the sixteenth century.  But you do not
 
 know the story?"
 
-"'No,' said Crome, 'but I suppose it was, as you say, a [[Romance|romance]] in
+"'No,' said Crome, 'but I suppose it was, as you say, a romance in
 
 the family.'
 
@@ -6673,9 +6673,9 @@ of his chair; after a moment he went on:
 
 "Please don't imagine I didn't feel all you say; that we seemed to
 
-have got inside a [[Novel|novel]]; and not a very [[Novel|novel]] sort of [[Novel|novel]].  But
+have got inside a [[forms/novel|novel]]; and not a very [[forms/novel|novel]] sort of [[forms/novel|novel]].  But
 
-the difference was exactly what Pond says: that the [[Novel|novel]] didn't
+the difference was exactly what Pond says: that the [[forms/novel|novel]] didn't
 
 finish properly, but seemed to go on to something else.  We had
 
@@ -6709,7 +6709,7 @@ reading through a stack of out-of-date magazines and mixing up all
 
 the results?  Of course we know the story about a whole company
 
-laid out with [[Poison|poison]]--"
+laid out with [[motifs/poison|poison]]--"
 
 "The results in this case were rather more extraordinary," said
 
@@ -6717,7 +6717,7 @@ Gahagan calmly.  "Most of us naturally sat like stone statues under
 
 such a thunder-bolt of a threat.  But young Pitt-Palmer, with his
 
-cold, clean-cut, classical face, [[Rose|rose]] to his feet with the coffee
+cold, clean-cut, classical face, [[motifs/rose|rose]] to his feet with the coffee
 
 cup in his hand and said in the coolest way:
 
@@ -6733,7 +6733,7 @@ noises, he fell down as in a fit before our eyes.
 
 scientist had a doctor's degree; and what he reported was confirmed
 
-by the local doctor, who was sent for at once.  There was no [[Doubt|doubt]]
+by the local doctor, who was sent for at once.  There was no [[concepts/doubt|doubt]]
 
 that he was dead."
 
@@ -6751,7 +6751,7 @@ was dead."
 
 his whole powerful frame.
 
-After a [[Silence|silence]] that seemed suddenly imposed by his agitation,
+After a [[motifs/silence|silence]] that seemed suddenly imposed by his agitation,
 
 Wotton said at last:
 
@@ -6767,7 +6767,7 @@ Poor Pitt-Palmer had put in a very large lump of sugar just before;
 
 but the sugar would melt.  Some things do not melt."
 
-Sir [[Hubert]] Wotton stared for some seconds into vacancy; and then
+Sir [[characters/hubert|Hubert]] Wotton stared for some seconds into vacancy; and then
 
 his eyes began to glow with his own very real though not very rapid
 
@@ -6781,7 +6781,7 @@ searched.  In other words, Pitt-Palmer was the thief?"
 
 "Pitt-Palmer is dead," said Gahagan very gravely, "and it is the
 
-more my duty to defend his [[Memory|memory]].  What he did was doubtless
+more my duty to defend his [[motifs/memory|memory]].  What he did was doubtless
 
 wrong, as I have come to see more clearly than I did; but not worse
 
@@ -6801,7 +6801,7 @@ and fatigue.  "Mr. Pond will now oblige."
 
 "Oh, no," answered Gahagan, rather with the air of one about to go
 
-to [[Sleep|sleep]].  "But I can see by his eyebrows that he knows all about
+to [[motifs/sleep|sleep]].  "But I can see by his eyebrows that he knows all about
 
 it.  Besides, it's somebody else's turn."
 
@@ -6815,19 +6815,19 @@ bewildered bull.
 
 he mean by saying that the man who hid the ring wasn't a thief?"
 
-"[[Well]], perhaps I can guess a little," said Mr. Pond modestly.  "But
+"[[motifs/well|Well]], perhaps I can guess a little," said Mr. Pond modestly.  "But
 
 that's only because I've kept in mind what we said at the beginning--
 
 about the misleading way in which things remind us of romantic
 
-things; only they are never rounded off like the [[Romance|romance]].  You see,
+things; only they are never rounded off like the romance.  You see,
 
-the trouble is that, when a real event reminds us of a [[Novel|novel]], we
+the trouble is that, when a real event reminds us of a [[forms/novel|novel]], we
 
 unconsciously think we know all about it, because we know all about
 
-the [[Novel|novel]].  We have got into a groove or rut of familiar fiction;
+the [[forms/novel|novel]].  We have got into a groove or rut of familiar fiction;
 
 and we can't help thinking the groove runs forward and backward as
 
@@ -6847,7 +6847,7 @@ got hold of the wrong mystery."
 
 "Gahagan said you would explain everything," said Wotton, with
 
-controlled [[Satire|satire]].  "May I ask if this is the explanation?  Is this
+controlled [[forms/satire|satire]].  "May I ask if this is the explanation?  Is this
 
 the solution or the mystery?"
 
@@ -6867,7 +6867,7 @@ Palmer was not the thief.  Pitt-Palmer did not steal the ring."
 
 "Lord Crome stole the ring," said Mr. Pond.
 
-There was a [[Silence|silence]] upon the whole group for a brief space; and
+There was a [[motifs/silence|silence]] upon the whole group for a brief space; and
 
 then the somnolent Gahagan stirred and said:  "I knew you would see
 
@@ -6895,7 +6895,7 @@ possession; because that is in all the stories.  But Lord Crome
 
 meant something much blacker and bitterer than that when he said,
 
-with a dreadful irony, that it commemorated a [[Romance|romance]] in his
+with a dreadful irony, that it commemorated a romance in his
 
 family.
 
@@ -6921,7 +6921,7 @@ the evidence.  And indeed the man who did so, though he might be a
 
 blackguard, would certainly not be a thief.  As a matter of fact,
 
-after a heathen fashion, he was a bit of a [[Hero|hero]].  Perhaps it was
+after a heathen fashion, he was a bit of a [[archetypes/hero|hero]].  Perhaps it was
 
 not for nothing that he had that cold, strong face that is the
 
@@ -6941,7 +6941,7 @@ the coffee was poisoned, was only Crome's desperate counterstroke
 
 when he had guessed the trick; to make sure that the coffee should
 
-be left [[Alone|alone]] and the ring recovered.  But that young man with the
+be left alone and the ring recovered.  But that young man with the
 
 cold face preferred to die in that dreadful fashion: by swallowing
 
@@ -6955,7 +6955,7 @@ being his object, it was probably the best he could have taken.  In
 
 any case, I feel that we must all support Gahagan in saying, very
 
-properly, that the poor fellow's [[Memory|memory]] should be protected from
+properly, that the poor fellow's [[motifs/memory|memory]] should be protected from
 
 any baser suggestions, and that a gentleman is certainly not a
 
@@ -6963,9 +6963,9 @@ robber when he prefers to choke himself with his own ring."
 
 Mr. Pond coughed delicately, having brought his argument to a
 
-close; and Sir [[Hubert]] Wotton remained staring at him, rather more
+close; and Sir [[characters/hubert|Hubert]] Wotton remained staring at him, rather more
 
-bewildered by the solution than by the problem.  When he [[Rose|rose]]
+bewildered by the solution than by the problem.  When he [[motifs/rose|rose]]
 
 slowly to his feet, it was with the air of one shaking off
 
@@ -6973,25 +6973,25 @@ something that was still an evil dream, even when he knew that it
 
 had happened.
 
-"[[Well]], I've got to be going, anyhow," he said, with an air of heavy
+"[[motifs/well|Well]], I've got to be going, anyhow," he said, with an air of heavy
 
 relief.  "Got to look in at Whitehall and I fancy I'm late already.
 
 By the way, if what you say is true, this must have happened very
 
-lately.  So far as I know, the news of Pitt-Palmer's [[suicide]] hasn't
+lately.  So far as I know, the news of Pitt-Palmer's [[concepts/suicide|suicide]] hasn't
 
 come through yet--at least it hadn't come through this morning."
 
-"It happened last [[Night|night]]," said Gahagan, and [[Rose|rose]] from the chair
+"It happened last [[motifs/night|night]]," said Gahagan, and [[motifs/rose|rose]] from the chair
 
 where he had been sprawling, to take leave of his friend.
 
-When Wotton had departed, a long [[Silence|silence]] fell upon the two other
+When Wotton had departed, a long [[motifs/silence|silence]] fell upon the two other
 
 friends who remained looking gravely at each other.
 
-"It happened last [[Night|night]]," repeated Gahagan.  "That is why I told
+"It happened last [[motifs/night|night]]," repeated Gahagan.  "That is why I told
 
 you it had something to do with what happened this morning.  I got
 
@@ -7003,25 +7003,25 @@ engaged to Joan Varney this morning."
 
 explain, for all that.  Do you know there was one thing almost more
 
-awful than that poor fellow's [[Death|death]]?  And it only hit me when I was
+awful than that poor fellow's [[motifs/death|death]]?  And it only hit me when I was
 
-half a mile from that accursed [[house]].  I knew why I had been one of
+half a mile from that accursed house.  I knew why I had been one of
 
 the guests."
 
-He was standing and staring out of the [[Window|window]], with his broad back
+He was standing and staring out of the [[motifs/window|window]], with his broad back
 
 turned to Pond; and after the last words he was silent and
 
 continued to stare at the stormy landscape outside.  Perhaps
 
-something in it stirred another [[Memory|memory]], for when he spoke again, it
+something in it stirred another [[motifs/memory|memory]], for when he spoke again, it
 
 was as if he started a new subject, though it was another aspect of
 
 the same one.
 
-"I didn't tell you anything much about the sort of [[Garden|garden]] party,
+"I didn't tell you anything much about the sort of [[motifs/garden|garden]] party,
 
 with cocktails, that they had that afternoon before the dinner,
 
@@ -7031,7 +7031,7 @@ realize anything; it would all sound like vapouring about the
 
 weather.  But it was rather rum sort of weather yesterday, as it
 
-still is; only it was stormier, and I think the [[Storm|storm]] has passed
+still is; only it was stormier, and I think the [[motifs/storm|storm]] has passed
 
 over now.  And it was a rum sort of atmosphere, too; though the
 
@@ -7039,15 +7039,15 @@ weather was only a coincidence, of course, it does sometimes happen
 
 that meteorological conditions make men more conscious of moral
 
-conditions.  There was a queer, lurid sort of sky over the [[Garden|garden]],
+conditions.  There was a queer, lurid sort of sky over the [[motifs/garden|garden]],
 
 though there was a fair amount of fitful sunshine almost as
 
-capricious as [[Lightning|lightning]].  A huge great mountain of cloud, coloured
+capricious as [[motifs/lightning|lightning]].  A huge great mountain of cloud, coloured
 
 like ink and indigo, was coming up behind the pale, pillared façade
 
-of the [[house]], which was still in a wan flush of light; and I
+of the house, which was still in a wan flush of light; and I
 
 remember even then being chilled by a childish fancy that Pitt-
 
@@ -7065,11 +7065,11 @@ and psychical; especially psychical.  It increased when we went
 
 indoors and the dining-room curtains cut us off from any actual
 
-sight of the [[Storm|storm]].  They were old-fashioned, dark-red curtains,
+sight of the [[motifs/storm|storm]].  They were old-fashioned, dark-red curtains,
 
 with heavy, gilded tassels; and it was as if everything was steeped
 
-in the same dye.  You've heard of a man seeing red; [[Well|well]], what I
+in the same dye.  You've heard of a man seeing red; [[motifs/well|well]], what I
 
 saw was dark red.  That's as near as I can get to the feeling; for
 
@@ -7087,15 +7087,15 @@ course, we all had to answer some questions about ourselves; but I
 
 need not tell you about the trail of official fussing that crossed
 
-the track of the [[Tragedy|tragedy]].  It did not take long, since it was so
+the track of the [[forms/tragedy|tragedy]].  It did not take long, since it was so
 
-obviously a case of [[suicide]]; and the party broke up, straggling out
+obviously a case of [[concepts/suicide|suicide]]; and the party broke up, straggling out
 
-into the stormy [[Night|night]] through the [[Garden|garden]].  As they passed out, they
+into the stormy [[motifs/night|night]] through the [[motifs/garden|garden]].  As they passed out, they
 
 seemed to have taken on new shapes, new outlines.  Between the hot
 
-[[Night|night]] and the horrible [[Death|death]] and that foul fog of throttling hatred
+[[motifs/night|night]] and the horrible [[motifs/death|death]] and that foul fog of throttling hatred
 
 in which we had tried to breathe, I began to see something else
 
@@ -7107,7 +7107,7 @@ Of course, this was a mood, and a morbid one; they really had been
 
 different enough; but they had something in common.
 
-"I liked the Pole best; he had a sense of [[Humour|humour]], and admirable
+"I liked the Pole best; he had a sense of humour, and admirable
 
 manners; but I knew what he meant when he so courteously declined
 
@@ -7131,7 +7131,7 @@ worst of them, I should say.  I wouldn't say anything worse of
 
 Blande than that he's probably too stupid to understand anything
 
-but his own [[Body|body]].  He hasn't enough mind to know that he has a
+but his own [[concepts/body|body]].  He hasn't enough mind to know that he has a
 
 mind.  We all know Sir Oscar Marvell; I remember him marching out,
 
@@ -7139,7 +7139,7 @@ his furred cloak flapping as if it trailed behind it infinite
 
 echoes of the harmless applause of flappers--but of more foolish
 
-women as [[Well|well]].  As to the Italian tenor, he was uncommonly like the
+women as [[motifs/well|well]].  As to the Italian tenor, he was uncommonly like the
 
 English actor.  One could not say any worse of him than that.
 
@@ -7147,7 +7147,7 @@ English actor.  One could not say any worse of him than that.
 
 selected by a clever if nearly crazy man as being the six men in
 
-[[London]] most likely to lay a plot to seduce his wife.  Then, with a
+[[settings/london|London]] most likely to lay a plot to seduce his wife.  Then, with a
 
 great shock, I quite literally came to myself.  I actually realized
 
@@ -7165,9 +7165,9 @@ other men's wives. . . .  You know, Pond, that I was not really so
 
 bad as all that; but then, perhaps, neither were they.  We were all
 
-[[Innocent|innocent]] in this case; and yet the thundercloud upon the [[Garden|garden]]
+[[archetypes/innocent|innocent]] in this case; and yet the thundercloud upon the [[motifs/garden|garden]]
 
-rested on us like a judgment.  So was I [[Innocent|innocent]], in that case you
+rested on us like a judgment.  So was I [[archetypes/innocent|innocent]], in that case you
 
 remember, when I nearly got hanged for hanging round a woman I
 
@@ -7179,7 +7179,7 @@ the state of our souls, what the unspeakable bounders in the papers
 
 call sex-appeal.  That was why I nearly got hanged; and why there
 
-was a corpse in the [[house]] behind me.  And there went through my
+was a corpse in the house behind me.  And there went through my
 
 head like the tramp of armies, old lines written long ago, about
 
@@ -7189,31 +7189,31 @@ refusing Lancelot at the last, says in words that had for me a ring
 
 of iron:
 
-"For [[Well|well]] ye wot that of this life
+"For [[motifs/well|well]] ye wot that of this life
 
 There comes but lewd and bitter strife
 
-And [[Death|death]] of men and great travail.
+And [[motifs/death|death]] of men and great travail.
 
 "I had hung round all that sort of thing, and yet never quite
 
 clearly seen myself doing it; till two judgments struck me like the
 
-[[Storm|storm]] out of the sky.  I nearly received a sentence from a judge in
+[[motifs/storm|storm]] out of the sky.  I nearly received a sentence from a judge in
 
-a black cap and [[Blood|blood]]-red robes, that I should be hanged by the
+a black cap and [[motifs/blood|blood]]-red robes, that I should be hanged by the
 
 neck until I was dead.  And, worse still, I received an invitation
 
 from Lord Crome."
 
-He continued to gaze out of the [[Window|window]]; but Pond heard him mutter
+He continued to gaze out of the [[motifs/window|window]]; but Pond heard him mutter
 
-again, like the faint grumbling of the thunder:  "And [[Death|death]] of men
+again, like the faint grumbling of the thunder:  "And [[motifs/death|death]] of men
 
 and great travail."
 
-In the vast [[Silence|silence]] that followed, Mr. Pond said in a very small
+In the vast [[motifs/silence|silence]] that followed, Mr. Pond said in a very small
 
 voice:
 
@@ -7221,7 +7221,7 @@ voice:
 
 Gahagan faced about, almost with the gesture of throwing up his
 
-hands, which seemed to fill the frame of the [[Window|window]] with his own
+hands, which seemed to fill the frame of the [[motifs/window|window]] with his own
 
 gigantic frame; but he was noticeably pale.
 
@@ -7231,19 +7231,19 @@ He smiled at his friend, but with a glassy and rather ghastly
 
 smile, and then went on:
 
-"Yes; I cared more for that dirty rag of [[Vanity|vanity]], worse than any
+"Yes; I cared more for that dirty rag of [[concepts/vanity|vanity]], worse than any
 
 vice, than I did for any vices.  How many men have sold their souls
 
 to be admired by fools?  I nearly did it, merely to be suspected by
 
-fools.  To be the dangerous man, the dark [[Horse|horse]], the man of whom
+fools.  To be the dangerous man, the dark [[motifs/horse|horse]], the man of whom
 
-families should be afraid--that is the sort of abject [[Ambition|ambition]] for
+families should be afraid--that is the sort of abject [[concepts/ambition|ambition]] for
 
 which I wasted so much of my life, and nearly lost the fulfilment
 
-of my [[Love|love]].  I dawdled, I lounged about, because I could not give
+of my [[motifs/love|love]].  I dawdled, I lounged about, because I could not give
 
 up a bad name.  And, by God, it nearly hanged the dog."
 
@@ -7277,7 +7277,7 @@ have diagnosed it exactly right, my dear doctor, if I may call you
 
 so.  I could not give up the secret pleasure of being slandered."
 
-"By this [[Time|time]], however," said Mr. Pond, "other considerations have
+"By this [[motifs/time|time]], however," said Mr. Pond, "other considerations have
 
 come in and induced you to support the insupportable charge of
 
@@ -7293,17 +7293,17 @@ would count his first comment a peculiar extension of the laugh.
 
 confess that I didn't kill the man.  To confess that I never made
 
-[[Love|love]] to the man's wife.  In short, to confess that I was a humbug.
+[[motifs/love|love]] to the man's wife.  In short, to confess that I was a humbug.
 
-To confess that I am not a dangerous man . . . [[Well|well]], anyhow, after
+To confess that I am not a dangerous man . . . [[motifs/well|well]], anyhow, after
 
 I'd done all that, I went on whistling, and as happy as a bird, to--
 
-[[Well|well]], I think you know where I went to.  There's a girl I ought to
+[[motifs/well|well]], I think you know where I went to.  There's a girl I ought to
 
 have fixed things up with long ago; and I always wanted to do it;
 
-that's the [[Paradox|paradox]].  But a damned sight sillier [[Paradox|paradox]] than any of
+that's the [[concepts/paradox|paradox]].  But a damned sight sillier [[concepts/paradox|paradox]] than any of
 
 your paradoxes, Pond."
 
@@ -7315,7 +7315,7 @@ not so old, nor despite his manner so cold, as not to form some
 
 sort of guess about the actual termination of the rather
 
-exasperating [[Romance|romance]] of Captain Gahagan.
+exasperating romance of Captain Gahagan.
 
 This story started with some statements about the way in which
 
@@ -7325,23 +7325,23 @@ another tale, especially when they are true tales.  This story also
 
 started, and ought also presumably to stop, with the very
 
-extraordinary [[Tragedy|tragedy]] and scandal in the [[house]] of Lord Crome, when
+extraordinary [[forms/tragedy|tragedy]] and scandal in the house of Lord Crome, when
 
 that promising young politician, Mr. Pitt-Palmer, unaccountably
 
 tumbled down dead.  It ought really to end with a proper account of
 
-his impressive public funeral; of the [[Chorus|chorus]] of praise devoted to
+his impressive public funeral; of the [[characters/chorus|chorus]] of praise devoted to
 
 him in the Press; and the stately compliments laid on his tomb like
 
-[[Flowers|flowers]] from the leaders of all the parties in Parliament; from
+[[motifs/flowers|flowers]] from the leaders of all the parties in Parliament; from
 
 those eloquent words of the Leader of the Opposition beginning
 
 "Much as we may have differed in politics," to those (if possible)
 
-still more eloquent observations of the Leader of the [[house|House]],
+still more eloquent observations of the Leader of the House,
 
 beginning "Confident as I am that our cause is independent even of
 
@@ -7355,9 +7355,9 @@ wedding of Gahagan.  It will be enough to say that, as already
 
 hinted, the actual effect of this shocking incident on Gahagan was
 
-to drive him back to an old [[Love|love]]; an old [[Love|love]] who was still
+to drive him back to an old [[motifs/love|love]]; an old [[motifs/love|love]] who was still
 
-conveniently young.  A certain Miss Violet Varney was at that [[Time|time]]
+conveniently young.  A certain Miss Violet Varney was at that [[motifs/time|time]]
 
 prominent on the stage; the word "prominent" has been selected with
 
@@ -7379,13 +7379,13 @@ Chronicles of the Kings of Israel?
 
 It is enough to say that on that particular morning, swept clear
 
-and shining after the [[Storm|storm]], Captain Gahagan came out of the church
+and shining after the [[motifs/storm|storm]], Captain Gahagan came out of the church
 
-in the little by-street and very cheerfully took the [[Road|road]] to the
+in the little by-street and very cheerfully took the [[motifs/road|road]] to the
 
-[[house]] of the Varney family, where he found Miss Joan Varney
+house of the Varney family, where he found Miss Joan Varney
 
-pottering about in the [[Garden|garden]] with a spud, and told her several
+pottering about in the [[motifs/garden|garden]] with a spud, and told her several
 
 things of some importance to both of them.  When Miss Violet Varney
 
@@ -7403,7 +7403,7 @@ engagement into the society papers first.
 
 THE TERRIBLE TROUBADOUR
 
-"In [[Nature|nature]] you must go very low to find things that go so high."
+"In [[concepts/nature|nature]] you must go very low to find things that go so high."
 
 This was commonly included by collectors among the Paradoxes of Mr.
 
@@ -7545,7 +7545,7 @@ rope-ladder and ends with a rope."
 
 Mr. Pond, as he heard the unequal step of his lame friend echoing
 
-away down the paved paths of the [[Garden|garden]], relapsed into a gloomy
+away down the paved paths of the [[motifs/garden|garden]], relapsed into a gloomy
 
 mood.  He was quite willing to accept his medical friend merely as
 
@@ -7557,13 +7557,13 @@ Cyprian was going to tell, it was another story against his
 
 unfortunate friend Peter Gahagan.  And Gahagan was so very
 
-unfortunate as to suggest to some a wild [[Doubt|doubt]] about whether he was
+unfortunate as to suggest to some a wild [[concepts/doubt|doubt]] about whether he was
 
 merely unfortunate.  Some had the sudden and horrible thought that,
 
 perhaps, he was fortunate.  Twice before, he had been mixed up in
 
-matters involving a mysterious and violent [[Death|death]]; with, at least, a
+matters involving a mysterious and violent [[motifs/death|death]]; with, at least, a
 
 savour of murder.  In both cases he had been cleared.  But three is
 
@@ -7573,7 +7573,7 @@ Finally, the Rev. Cyprian Whiteways was a shock; a shock because of
 
 his frankness and fair-mindedness.
 
-Mr. Pond would never, at any [[Time|time]], have stooped to the stupid idea
+Mr. Pond would never, at any [[motifs/time|time]], have stooped to the stupid idea
 
 that clergymen are stupid.  He did not take his ideas of real life
 
@@ -7589,11 +7589,11 @@ countryside with him in an indescribable suggestion of depth and
 
 background; he could not talk of common things without, somehow,
 
-suggesting the weather or the turn of [[Night|night]] or day; he was a born
+suggesting the weather or the turn of [[motifs/night|night]] or day; he was a born
 
-descriptive writer who only talked.  But nobody could [[Doubt|doubt]] that it
+descriptive writer who only talked.  But nobody could [[concepts/doubt|doubt]] that it
 
-was [[Truth|truth]]; or, at least, truthfulness.
+was [[concepts/truth|truth]]; or, at least, truthfulness.
 
 It was so substantial a witness who told Mr. Pond in considerable
 
@@ -7625,7 +7625,7 @@ intervention was a solicitor named Luke Little, very much on the
 
 spot.
 
-Mr. Pond's friend, Sir [[Hubert]] Wotton, the [[Well|well]]-known diplomatist,
+Mr. Pond's friend, Sir [[characters/hubert|Hubert]] Wotton, the [[motifs/well|well]]-known diplomatist,
 
 took the chair; but Mr. Little did not mind who took chairs so long
 
@@ -7635,7 +7635,7 @@ as he took charge.
 
 special assurance would have induced me to place my client's case
 
-before it.  Sir [[Hubert]] and Mr. Pond declare, I understand, that an
+before it.  Sir [[characters/hubert|Hubert]] and Mr. Pond declare, I understand, that an
 
 explanation will be demanded here and now."
 
@@ -7653,7 +7653,7 @@ His friend, Wotton, looked at Pond for a moment with a frosty stare
 
 of surprise; but he stared a great deal more when he was startled
 
-by Gahagan himself, speaking, suddenly, for the first and last [[Time|time]]
+by Gahagan himself, speaking, suddenly, for the first and last [[motifs/time|time]]
 
 in all the first hours of the interview.
 
@@ -7679,25 +7679,25 @@ supervision.  But even as he heard it again in more exact form, he
 
 could not get rid of a feeling that the scene described was
 
-unnaturally vivid to him, but with the vividness of a [[nightmare]].
+unnaturally vivid to him, but with the vividness of a nightmare.
 
 There was no particular reason, at that stage, for comparing the
 
-story to a [[nightmare]]; except that the two principal incidents
+story to a nightmare; except that the two principal incidents
 
-happened at [[Night|night]].
+happened at [[motifs/night|night]].
 
-They happened in the vicar's [[Garden|garden]], close to the balcony of the
+They happened in the vicar's [[motifs/garden|garden]], close to the balcony of the
 
-vicar's [[house]]; and perhaps the impression, which was rather like an
+vicar's house; and perhaps the impression, which was rather like an
 
-oppression, was somehow connected with another [[Night|night]] darkening the
+oppression, was somehow connected with another [[motifs/night|night]] darkening the
 
-[[Night|night]]; a living [[Night|night]] of vegetation; for it was suggested,
+[[motifs/night|night]]; a living [[motifs/night|night]] of vegetation; for it was suggested,
 
 throughout, that the balcony was loaded with pots and palms and
 
-clutched by climbing plants with heavy and pendent [[Leaves|leaves]].
+clutched by climbing plants with heavy and pendent [[motifs/leaves|leaves]].
 
 Perhaps, after all, it was only some vague, verbal association with
 
@@ -7711,7 +7711,7 @@ his creed of blind growth and a groping life-force in a godless
 
 dark; for Green developed his view of development with every fancy
 
-from botany as [[Well|well]] as biology.
+from botany as [[motifs/well|well]] as biology.
 
 On the whole, however, Mr. Pond concluded that his own queer mood
 
@@ -7721,47 +7721,47 @@ to describe in detail.  For the vicar had been obliged to explain,
 
 on both occasions, in order to make his tale intelligible, that the
 
-front of the balcony was scaled from below by a [[titanic]], tropical
+front of the balcony was scaled from below by a titanic, tropical
 
 creeper, with ribbed and interlaced limbs and large, fantastic
 
-[[Leaves|leaves]].  It is not altogether an exaggeration to say that the
+[[motifs/leaves|leaves]].  It is not altogether an exaggeration to say that the
 
 creeper was the principal character in the story.
 
 "This business happened during the Great War," explained the
 
-clergyman, "when my daughter and I were living in my [[house]] at
+clergyman, "when my daughter and I were living in my house at
 
 Hanging Burgess.  But the two houses on each side of us were empty,
 
-due to the drainage of human material common at the [[Time|time]].  At
+due to the drainage of human material common at the [[motifs/time|time]].  At
 
 least, they were both empty for a considerable period, though they
 
-were handsome houses with large gardens, sloping down to the [[River|river]].
+were handsome houses with large gardens, sloping down to the [[motifs/river|river]].
 
 Then my friend Dr. Green came down to be my next-door neighbour and
 
 prosecute his scientific researches in a quiet place.  He was
 
-writing a book, you know, on the domestication of [[Animals|animals]]; [[dogs]] and
+writing a book, you know, on the domestication of [[motifs/animals|animals]]; dogs and
 
 cats and pet marmosets and monkeys, and so on; and my daughter, who
 
 is interested in such pets, helped him a little with his work.
 
-"It is a happy [[Time|time]] to look back upon, for us who were old cronies;
+"It is a happy [[motifs/time|time]] to look back upon, for us who were old cronies;
 
-perhaps because it was a quiet [[Time|time]].
+perhaps because it was a quiet [[motifs/time|time]].
 
-"And then our [[Solitude|solitude]] was broken, as it seemed by accident, and
+"And then our [[concepts/solitude|solitude]] was broken, as it seemed by accident, and
 
-all the trouble and [[Tragedy|tragedy]] began.
+all the trouble and [[forms/tragedy|tragedy]] began.
 
-"First of all, a young [[Artist|artist]] of the name of Albert Ayres rented
+"First of all, a young [[archetypes/artist|artist]] of the name of Albert Ayres rented
 
-the [[house]] next door, though he seemed to want it mostly for a base
+the house next door, though he seemed to want it mostly for a base
 
 in which to leave his baggage, for he was wandering over the
 
@@ -7773,11 +7773,11 @@ straight away next morning on one of his sketching tours.  I mean
 
 that we cannot, in any case, actually prove what became of him.
 
-Unfortunately, I know only too [[Well|well]] what became of him.
+Unfortunately, I know only too [[motifs/well|well]] what became of him.
 
 "He was an interesting individual; perhaps a little too like the
 
-old notion of an [[Artist|artist]]; the sort one can hardly call either
+old notion of an [[archetypes/artist|artist]]; the sort one can hardly call either
 
 carelessly or carefully picturesque; with a halo of yellow hair
 
@@ -7791,23 +7791,23 @@ relation to the war.  He had been invalided out, and what he was
 
 doing was a necessary job and not a funk-hole; and, at the moment,
 
-he was enjoying a short and very [[Well|well]]-earned holiday.
+he was enjoying a short and very [[motifs/well|well]]-earned holiday.
 
 "It is only fair to Captain Gahagan to say that, even in their
 
 subsequent quarrel, even in the last, blackest days of hatred, and,
 
-I [[Hope|hope]], of [[Madness|madness]], which ended in murder, the Captain never
+I [[concepts/hope|hope]], of [[concepts/madness|madness]], which ended in murder, the Captain never
 
 sneered at his rival upon that point, or assumed anything like the
 
-swagger of khaki.  But, at the [[Time|time]], Captain Gahagan was still in
+swagger of khaki.  But, at the [[motifs/time|time]], Captain Gahagan was still in
 
 khaki, having a very short leave from the front, which he was
 
 supposed to spend at the neighbouring inn, but did spend mostly in
 
-my [[house]].
+my house.
 
 "You will understand my reluctance in speaking of the matter; the
 
@@ -7825,7 +7825,7 @@ as follows:
 
 "One evening, just after sunset, or about dusk, I was walking in my
 
-[[Garden|garden]] with the doctor, and we were joined, shortly afterwards, by
+[[motifs/garden|garden]] with the doctor, and we were joined, shortly afterwards, by
 
 Albert Ayres.  I had just asked my friend Green to drop in and take
 
@@ -7857,7 +7857,7 @@ tell you what really happened; and you will see that it certainly
 
 had nothing to do with either lameness or Dr. Green.
 
-"In strolling round the [[Garden|garden]] we had paused under the giant
+"In strolling round the [[motifs/garden|garden]] we had paused under the giant
 
 creeper that grows out of the flower-bed and shoots right up to the
 
@@ -7867,7 +7867,7 @@ luxuriousness, when we all had a sort of a shock.  For we saw the
 
 whole creeper move and twist like a monstrous serpent, in that
 
-still [[Garden|garden]]; every limb of it heaved and writhed and the whole
+still [[motifs/garden|garden]]; every limb of it heaved and writhed and the whole
 
 framework of its foliage was shaken as by some impossibly localized
 
@@ -7891,21 +7891,21 @@ to receive visitors, but that they generally came in by the front
 
 door.  He asked me, in a rather brazen way, if I had no poetic
 
-sympathy with [[Romeo]] and the [[Romance|romance]] of climbing balconies.  I
+sympathy with [[characters/romeo|Romeo]] and the romance of climbing balconies.  I
 
 preferred not to reply; but my friend, the doctor, was staring
 
 curiously at the creeper, probably in some freak of his merely
 
-botanical curiosity; and he said, with his faintly acid [[Humour|humour]]:
+botanical curiosity; and he said, with his faintly acid humour:
 
-'Isn't there rather a [[Satire|satire]] on [[Romeo]] in the fact that a weed like
+'Isn't there rather a [[forms/satire|satire]] on [[characters/romeo|Romeo]] in the fact that a weed like
 
 that can climb a balcony?  It isn't quite so common to see a
 
 tropical plant ringing the bell and coming in at the front door.
 
-Climbing doesn't seem a safe way of classifying.  In [[Nature|nature]], you
+Climbing doesn't seem a safe way of classifying.  In [[concepts/nature|nature]], you
 
 must go very low to find things that go so high.'"
 
@@ -7913,11 +7913,11 @@ Mr. Pond sat up abruptly and seemed to exhale a breath; but all he
 
 said was, "I thought so."
 
-"The [[Artist|artist]] named Ayres," continued the vicar, "seemed more annoyed
+"The [[archetypes/artist|artist]] named Ayres," continued the vicar, "seemed more annoyed
 
 than either of us at this absurd adventure; and his comment was
 
-really much more provocative, though he only said, coolly:  '[[Well]],
+really much more provocative, though he only said, coolly:  '[[motifs/well|Well]],
 
 it looks an easy thing to climb; as easy as a great, green ladder.
 
@@ -7931,21 +7931,21 @@ things, that Gahagan was glaring at him, as he answered sharply:
 
 that they were both glaring at each other; and I guessed, for the
 
-first [[Time|time]], why they hated each other; and what was the meaning of
+first [[motifs/time|time]], why they hated each other; and what was the meaning of
 
-that scene in my quiet [[Garden|garden]].
+that scene in my quiet [[motifs/garden|garden]].
 
-"[[Well]], I will get on as quickly as I can to the culmination of
+"[[motifs/well|Well]], I will get on as quickly as I can to the culmination of
 
 these rash boasts, or challenges, of the two tragic rivals.  For,
 
-indeed, I do not know which of them had the worst [[Tragedy|tragedy]].  [[Night]]
+indeed, I do not know which of them had the worst [[forms/tragedy|tragedy]].  [[motifs/night|Night]]
 
-had fallen and the [[Moon|moon]] had risen, though it was not very much
+had fallen and the [[motifs/moon|moon]] had risen, though it was not very much
 
-later, cutting up the shady [[Garden|garden]] into a new pattern of shadows,
+later, cutting up the shady [[motifs/garden|garden]] into a new pattern of shadows,
 
-when I happened to look out of my study [[Window|window]], which is on an
+when I happened to look out of my study [[motifs/window|window]], which is on an
 
 upper floor.
 
@@ -7953,11 +7953,11 @@ upper floor.
 
 or rather howling, made me put my head, more or less carelessly,
 
-out of the [[Window|window]]; I assumed that it was one of Dr. Green's [[dogs]]
+out of the [[motifs/window|window]]; I assumed that it was one of Dr. Green's dogs
 
 and did not think much of the matter; subconsciously, perhaps,
 
-something spectral about the moonstruck [[Garden|garden]] and the mood that it
+something spectral about the moonstruck [[motifs/garden|garden]] and the mood that it
 
 stirred, or some more mysterious premonition of what was to follow,
 
@@ -7965,37 +7965,37 @@ made the howl sound more hollow and even horrible than it really
 
 was.
 
-"A clear [[Moon|moon]] was rising high behind me; most of the shady [[Garden|garden]]
+"A clear [[motifs/moon|moon]] was rising high behind me; most of the shady [[motifs/garden|garden]]
 
 was in all the denser shade; but there were large, pale patches and
 
 squares of moonshine on the paths and the wall in front of me, cut
 
-out as sharply as the pasteboard frame of some [[Shadow|shadow]]-pantomime.
+out as sharply as the pasteboard frame of some [[archetypes/shadow|shadow]]-pantomime.
 
 Perhaps the parallel seized on my fancy, partly because light and
 
-[[Shadow|shadow]] were thus bent or doubled into different planes, vertical or
+[[archetypes/shadow|shadow]] were thus bent or doubled into different planes, vertical or
 
 horizontal, like the black and white paper from which children cut
 
 out the figures for such a play.  Anyhow, I did think, instantly
 
-and very vividly, of a [[Shadow|shadow]]-pantomime; and, the next instant, I
+and very vividly, of a [[archetypes/shadow|shadow]]-pantomime; and, the next instant, I
 
 saw one of the pantomime figures passing in black silhouette across
 
 the wall.
 
-"I knew at once whose [[Shadow|shadow]] it was.  Of course, it was drawn out
+"I knew at once whose [[archetypes/shadow|shadow]] it was.  Of course, it was drawn out
 
 and distorted; you know how deceptive shadows are; but I could see
 
 the straggling tufts that reminded one of Struwwelpeter; and I
 
-think I told you before that Ayres, the [[Artist|artist]], was a little too
+think I told you before that Ayres, the [[archetypes/artist|artist]], was a little too
 
-like the traditional [[Artist|artist]] who hasn't had his hair cut.  Also, he
+like the traditional [[archetypes/artist|artist]] who hasn't had his hair cut.  Also, he
 
 affected that sort of languid stoop that such artists assume; and
 
@@ -8007,7 +8007,7 @@ exaggerate.
 
 the wall; and it was even more unmistakable.  It was also more
 
-active; it was not only a [[Shadow|shadow]]-pantomime but--in a pretty creepy
+active; it was not only a [[archetypes/shadow|shadow]]-pantomime but--in a pretty creepy
 
 sense--a knockabout pantomime."
 
@@ -8017,13 +8017,13 @@ stared at him, not because his intervention was important, but
 
 because it seemed trivial and totally unnecessary.  But before he
 
-relapsed again into [[Silence|silence]], he added:
+relapsed again into [[motifs/silence|silence]], he added:
 
-"The most deceptive thing about a [[Shadow|shadow]] is that it may be quite
+"The most deceptive thing about a [[archetypes/shadow|shadow]] is that it may be quite
 
 accurate."
 
-"[[Well]], really!" exploded Wotton; but his moderately mild explosion
+"[[motifs/well|Well]], really!" exploded Wotton; but his moderately mild explosion
 
 was overshadowed by one of the abrupt movements which once or twice
 
@@ -8039,17 +8039,17 @@ courtliness, and said:
 
 paradoxes.  We are all very proud of our Pond and of his paradoxes.
 
-Try them in your bath.  Pond's paradoxes are in every [[Home|home]].  What
+Try them in your bath.  Pond's paradoxes are in every [[motifs/home|home]].  What
 
 would Mother do without Pond's--"
 
-"Don't be a [[Fool|fool]], Gahagan!" said [[Hubert]] Wotton; and his voice had a
+"Don't be a [[archetypes/fool|fool]], Gahagan!" said [[characters/hubert|Hubert]] Wotton; and his voice had a
 
 ring of steel which his friends had always respected.  There was a
 
-[[Silence|silence]], in which Mr. Pond said simply:
+[[motifs/silence|silence]], in which Mr. Pond said simply:
 
-"I never uttered a [[Paradox|paradox]] in my life.  What I said was a truism."
+"I never uttered a [[concepts/paradox|paradox]] in my life.  What I said was a truism."
 
 The vicar of Hanging Burgess looked considerably baffled, but did
 
@@ -8069,15 +8069,15 @@ flash; but the other I saw plainly enough.
 
 "The first figure, the long-haired figure I had already identified
 
-with the [[Artist|artist]], ran very quickly across the moonlit patch and
+with the [[archetypes/artist|artist]], ran very quickly across the moonlit patch and
 
-vanished into the vast [[Shadow|shadow]] of the creeper that climbed the
+vanished into the vast [[archetypes/shadow|shadow]] of the creeper that climbed the
 
-balcony; but there is no [[Doubt|doubt]] that he began to climb the creeper.
+balcony; but there is no [[concepts/doubt|doubt]] that he began to climb the creeper.
 
 "The second figure stood for a moment, staring, in the full stare
 
-of the [[Moon|moon]]; and there was no [[Doubt|doubt]] about him at all.  It was
+of the [[motifs/moon|moon]]; and there was no [[concepts/doubt|doubt]] about him at all.  It was
 
 Captain Gahagan, in khaki, and he already had his big service
 
@@ -8085,15 +8085,15 @@ revolver in his hand.  In a high, unnatural voice he cried after
 
 and cursed the other unfortunate troubadour, who had climbed his
 
-romantic rope-ladder of [[Leaves|leaves]], exactly as he had climbed it
+romantic rope-ladder of [[motifs/leaves|leaves]], exactly as he had climbed it
 
 himself.
 
 "At that instant the whole situation became finally clear; for I
 
-saw the hairy head of the unfortunate [[Artist|artist]] rising out of the
+saw the hairy head of the unfortunate [[archetypes/artist|artist]] rising out of the
 
-tangle of tropical [[Leaves|leaves]], in [[Shadow|shadow]], but all the more unmistakable
+tangle of tropical [[motifs/leaves|leaves]], in [[archetypes/shadow|shadow]], but all the more unmistakable
 
 for being haloed in the moonshine.  But the same moonshine fell
 
@@ -8143,15 +8143,15 @@ creeper himself, though he had already shown how quickly he could
 
 do it.  Unfortunately, he did something else; which he could do
 
-much more quickly.  I saw the blue flash of the [[Pistol|pistol]]-barrel in
+much more quickly.  I saw the blue flash of the [[characters/pistol|pistol]]-barrel in
 
-the [[Moon|moon]], as he lifted it; and then the red flash; and then a puff
+the [[motifs/moon|moon]], as he lifted it; and then the red flash; and then a puff
 
 of smoke detached itself and climbed the sky, like a cloud; and the
 
 man on the green ladder fell crashing like a stone through the
 
-thrashing great [[Leaves|leaves]] to the dark space below.
+thrashing great [[motifs/leaves|leaves]] to the dark space below.
 
 "I could not see so clearly what was happening in that dark space;
 
@@ -8159,13 +8159,13 @@ but I knew, for all practical purposes, that the man was dead; for
 
 his slayer laid hold of one leg of the corpse and dragged it away
 
-down the darkling and descending paths of the [[Garden|garden]].  And when I
+down the darkling and descending paths of the [[motifs/garden|garden]].  And when I
 
 heard a distant splash, I knew he had thrown the corpse into the
 
-[[River|river]].
+[[motifs/river|river]].
 
-"[[Well]], as I told you before, that is my very serious testimony to
+"[[motifs/well|Well]], as I told you before, that is my very serious testimony to
 
 what I saw and knew; but I give it only from a sense of social duty
 
@@ -8205,29 +8205,29 @@ did not see."
 
 "You have stated it very clearly," said Mr. Pond.  "More clearly
 
-than you know.  But even on the clearest moonlight [[Night|night]], as we
+than you know.  But even on the clearest moonlight [[motifs/night|night]], as we
 
 agreed, shadows can be very deceptive."
 
-"You've said that before," said Sir [[Hubert]] rather irritably.
+"You've said that before," said Sir [[characters/hubert|Hubert]] rather irritably.
 
 "And, as I have also said before," observed the unruffled Mr. Pond,
 
-"a [[Shadow|shadow]] is most misleading when it is precisely correct."
+"a [[archetypes/shadow|shadow]] is most misleading when it is precisely correct."
 
-[[Silence]] suddenly fell on the group; and the [[Silence|silence]] became more and
+[[motifs/silence|Silence]] suddenly fell on the group; and the [[motifs/silence|silence]] became more and
 
 more tense, for, after these random shots, which seemed so very
 
 random, fired by Mr. Pond as he retired from the argument, everyone
 
-felt that nothing could now delay the main action.  For some [[Time|time]]
+felt that nothing could now delay the main action.  For some [[motifs/time|time]]
 
 it looked rather like inaction; for Gahagan, who had been growing
 
 gloomier and gloomier, still sat kicking his heels, as if he had
 
-nothing to say.  And indeed, when sharply called on by Sir [[Hubert]]
+nothing to say.  And indeed, when sharply called on by Sir [[characters/hubert|Hubert]]
 
 for his statement, he was, at first, understood to declare
 
@@ -8283,7 +8283,7 @@ was committed by a lot of poor devils on leave from hell; to whom a
 
 holiday was heaven; only it was a very earthly paradise; a little
 
-too like a Moslem paradise.  I did make [[Love|love]] to your daughter when
+too like a Moslem paradise.  I did make [[motifs/love|love]] to your daughter when
 
 I had no right to, for I didn't really know my own mind.  None of
 
@@ -8297,9 +8297,9 @@ paused, as with a new embarrassment.
 
 "Go on," said Mr. Pond gently.
 
-"Only my rival wasn't the [[Artist|artist]] with the long hair," said Gahagan.
+"Only my rival wasn't the [[archetypes/artist|artist]] with the long hair," said Gahagan.
 
-[[Hubert]] Wotton again looked up sharply, with a frowning stare; but
+[[characters/hubert|Hubert]] Wotton again looked up sharply, with a frowning stare; but
 
 he spoke quietly as he directed Gahagan to tell his story properly
 
@@ -8307,25 +8307,25 @@ from the start.
 
 "I had better start," said Gahagan, "where the other story started:
 
-just about the [[Time|time]] when we both heard the howl of a dog in the
+just about the [[motifs/time|time]] when we both heard the howl of a dog in the
 
-dark [[Garden|garden]].  I may explain that I was actually staying with Ayres,
+dark [[motifs/garden|garden]].  I may explain that I was actually staying with Ayres,
 
-the [[Artist|artist]], for that [[Night|night]]; we had become quite good friends,
+the [[archetypes/artist|artist]], for that [[motifs/night|night]]; we had become quite good friends,
 
 really; though there may have been a bit of romantic swagger about
 
-the troubadour business at an earlier [[Time|time]].
+the troubadour business at an earlier [[motifs/time|time]].
 
 "I was packing up and sorting out some of my light luggage; that is
 
 how I happened to be cleaning my service revolver.  Ayres was
 
-looking through some of his [[Sketch|sketch]]-books; and I left him at it when
+looking through some of his [[forms/sketch|sketch]]-books; and I left him at it when
 
 I went out, just as Mr. Whiteways looked out, in casual curiosity,
 
-over that sudden noise in the [[Night|night]].  Only I heard what he did not
+over that sudden noise in the [[motifs/night|night]].  Only I heard what he did not
 
 hear.  I not only heard what sounded like the howl of a dog, but I
 
@@ -8339,27 +8339,27 @@ the face of Paul Green, that distinguished man of science.  He is
 
 distinguished and he looks distinguished; I remember thinking, at
 
-the [[Time|time]], what a fine head he had, and that the silver moulding of
+the [[motifs/time|time]], what a fine head he had, and that the silver moulding of
 
-his features under the [[Moon|moon]] made them quite beautiful.  I had a
+his features under the [[motifs/moon|moon]] made them quite beautiful.  I had a
 
 reason for having my attention thus arrested by that silvery mask,
 
 for, at that precise moment, it wore a sort of smile of hatred that
 
-turned one's [[Blood|blood]] cold.
+turned one's [[motifs/blood|blood]] cold.
 
 "Then the face vanished; and again my experience was much like the
 
 vicar's, except that I did not see everything which happened just
 
-behind my back.  But I swung round in [[Time|time]] to see that somebody had
+behind my back.  But I swung round in [[motifs/time|time]] to see that somebody had
 
 run across the path, and begun to climb the creeper.  He climbed it
 
 very quickly, much quicker than I had done, but it was not easy to
 
-see him or recognize him in the dark [[Shadow|shadow]] of the [[Leaves|leaves]].
+see him or recognize him in the dark [[archetypes/shadow|shadow]] of the [[motifs/leaves|leaves]].
 
 "I had an idea that he was long in the limbs and had the sort of
 
@@ -8367,13 +8367,13 @@ high-shouldered stoop that has been described; then I saw, as the
 
 vicar did, the head emerge clear of the foliage, only outlined by
 
-the [[Moon|moon]] with a sort of bristly halo of hair.  Only then, for the
+the [[motifs/moon|moon]] with a sort of bristly halo of hair.  Only then, for the
 
-second [[Time|time]] that [[Night|night]], I saw what the vicar did not see.  The
+second [[motifs/time|time]] that [[motifs/night|night]], I saw what the vicar did not see.  The
 
-[[Romeo]], the climbing troubadour, turned his head, and, for a moment,
+[[characters/romeo|Romeo]], the climbing troubadour, turned his head, and, for a moment,
 
-I saw it in profile, a black shape against the [[Moon|moon]].  And I said to
+I saw it in profile, a black shape against the [[motifs/moon|moon]].  And I said to
 
 myself:  'My God!  It's a dog, after all.'"
 
@@ -8397,7 +8397,7 @@ about mandrakes and mermaids; but, in many cases, it has been found
 
 since that their tall tales were true.  Anyhow, this chap said
 
-there were men walking about with the heads of [[dogs]].  Now, if
+there were men walking about with the heads of dogs.  Now, if
 
 you'll look at one of the larger apes, like the baboon, you'll see
 
@@ -8449,11 +8449,11 @@ and began to climb the creeper.'"
 
 "I was quite pedantically correct," said Gahagan, waving his hand,
 
-condescendingly.  "I was careful to state that some [[Body|BODY]] ran and
+condescendingly.  "I was careful to state that some [[concepts/body|BODY]] ran and
 
 climbed.  I attempted no theological or metaphysical speculations
 
-about the [[Soul|soul]] of an ape."
+about the [[motifs/soul|soul]] of an ape."
 
 "But this is perfectly ghastly!" cried the clergyman, who was
 
@@ -8461,13 +8461,13 @@ deeply shaken.  "Are you sure the thing I saw was an ape?"
 
 "I was quite close," said the Captain.  "I saw the shape and you
 
-only saw the [[Shadow|shadow]]."
+only saw the [[archetypes/shadow|shadow]]."
 
 "No," said Pond softly, "he saw the shape and could not believe it
 
-because it was the [[Shadow|shadow]].  That is what I meant by saying a [[Shadow|shadow]]
+because it was the [[archetypes/shadow|shadow]].  That is what I meant by saying a [[archetypes/shadow|shadow]]
 
-can deceive by accuracy.  Nine times out of ten, a [[Shadow|shadow]] is out of
+can deceive by accuracy.  Nine times out of ten, a [[archetypes/shadow|shadow]] is out of
 
 drawing.  But it can happen, in special circumstances, that it is
 
@@ -8477,7 +8477,7 @@ so we are deceived by its not being distorted.  The vicar was not
 
 surprised that the hairy, high-shouldered Mr. Ayres should throw a
 
-[[Shadow|shadow]] looking like a shambling hunchback or a bristly, humped
+[[archetypes/shadow|shadow]] looking like a shambling hunchback or a bristly, humped
 
 figure.  But in reality it WAS a bristly, humped figure.  I guessed
 
@@ -8491,15 +8491,15 @@ other was a mistake?"
 
 knew it was an ape, and I guessed it was from the cages or kennels
 
-of the eminent biologist next door.  I had a wild [[Hope|hope]] it might
+of the eminent biologist next door.  I had a wild [[concepts/hope|hope]] it might
 
 have been meant as some ghastly joke; but I wasn't taking any
 
 risks; I happen to know that sort of anthropoid is no joke.  At the
 
-best, he might easily bite and then--[[Well|well]], there were all sorts of
+best, he might easily bite and then--[[motifs/well|well]], there were all sorts of
 
-[[nightmare]] notions half-formed in one's mind.
+nightmare notions half-formed in one's mind.
 
 "There was another side to your biological friend's interest in
 
@@ -8507,9 +8507,9 @@ pets; vivisection, inoculation, intoxication, drugs--Lord knows
 
 what might be mixed up in it.  So I shot the brute dead, and I'm
 
-afraid I can't apologize.  I threw the [[Body|body]] into the [[River|river]]; as you
+afraid I can't apologize.  I threw the [[concepts/body|body]] into the [[motifs/river|river]]; as you
 
-know, it's a very rapid and rushing [[River|river]], and, so far as I know,
+know, it's a very rapid and rushing [[motifs/river|river]], and, so far as I know,
 
 nothing more was ever heard of it.  Certainly, Dr. Paul Green did
 
@@ -8525,7 +8525,7 @@ an awful business.
 
 to hear an old acquaintance accused of a horrible action.  It was,
 
-also, what I meant by saying that the key to all this [[Riddle|riddle]] is the
+also, what I meant by saying that the key to all this [[forms/riddle|riddle]] is the
 
 fact that Dr. Green is lame."
 
@@ -8539,7 +8539,7 @@ say that the doctor is, in a rather literal sense, a mad doctor.
 
 The point is that I think I know what finally drove him mad.  He
 
-had a remarkable personality; he was in [[Love|love]] with the lady at the
+had a remarkable personality; he was in [[motifs/love|love]] with the lady at the
 
 Vicarage and had got a good deal of influence there; as Gahagan
 
@@ -8549,11 +8549,11 @@ quite active; only everything was conditioned by the accident that
 
 he was lame.
 
-"What put the finishing touch to his [[Madness|madness]], on that terrible
+"What put the finishing touch to his [[concepts/madness|madness]], on that terrible
 
-[[Summer|summer]] [[Night|night]] under the [[Moon|moon]], was something that I think one can
+[[motifs/summer|summer]] [[motifs/night|night]] under the [[motifs/moon|moon]], was something that I think one can
 
-partly understand, with a little [[Imagination|imagination]]; something not
+partly understand, with a little [[concepts/imagination|imagination]]; something not
 
 altogether unnatural, if anything ending in such insanity can be
 
@@ -8579,11 +8579,11 @@ climb better than a man.  'You have to go very low to find things
 
 that go so high.'  Considered as a logical repartee, it was quite a
 
-good one.  But his mind was not running merely on [[logic]] and
+good one.  But his mind was not running merely on logic and
 
-repartee; he was blind and boiling with [[Jealousy|jealousy]] and passion, and
+repartee; he was blind and boiling with [[concepts/jealousy|jealousy]] and passion, and
 
-he was a little cracked.  Let's [[Hope|hope]] he only meant to make a sort
+he was a little cracked.  Let's [[concepts/hope|hope]] he only meant to make a sort
 
 of demonstration; but, anyhow, that was what he was trying to
 
@@ -8607,7 +8607,7 @@ He looked down at his papers, as if consulting them, and then
 
 looked up again, saying, still more sharply, in the style he had
 
-learnt from [[Cross|cross]]-examinations:  "Is it not true, Captain Gahagan,
+learnt from [[motifs/cross|cross]]-examinations:  "Is it not true, Captain Gahagan,
 
 that you are rather famous for telling remarkable stories?  I have
 
@@ -8617,19 +8617,19 @@ had seen six great sea-serpents, each swallowing the last.  You
 
 reported a remarkable little incident of a giant who was buried up
 
-to the eyebrows in Muswell [[Hill]]; and you are supposed to have given
+to the eyebrows in Muswell [[motifs/hill|Hill]]; and you are supposed to have given
 
-a very vivid description of a [[Water|water]]-spout frozen all the way up to
+a very vivid description of a [[motifs/water|water]]-spout frozen all the way up to
 
 the sky.  Your interesting account of the discovery of the ruins of
 
 the Tower of Babel--"
 
-Sir [[Hubert]] Wotton, with all his apparent simplicity, had a quality
+Sir [[characters/hubert|Hubert]] Wotton, with all his apparent simplicity, had a quality
 
 of sense that sometimes struck like a sledge-hammer.  He had
 
-preserved the [[Silence|silence]] of perfect impartiality throughout; but he
+preserved the [[motifs/silence|silence]] of perfect impartiality throughout; but he
 
 suddenly stopped the last splutter of the solicitor's spitefulness,
 
@@ -8647,7 +8647,7 @@ things that nobody alive ever took seriously, least of all Gahagan,
 
 I rule them out."
 
-"Very [[Well|well]]," snapped Mr. Little, "my last question shall be a very
+"Very [[motifs/well|well]]," snapped Mr. Little, "my last question shall be a very
 
 practical one.  If Captain Gahagan only did what he says he did,
 
@@ -8667,7 +8667,7 @@ give it to anybody except Mr. Whiteways."
 
 And, strangely enough perhaps, the moment Mr. Whiteways heard this
 
-refusal he [[Rose|rose]] also and held out his hand to Gahagan.
+refusal he [[motifs/rose|rose]] also and held out his hand to Gahagan.
 
 "I believe you," he said.  "It's just that last sentence that has
 
@@ -8679,7 +8679,7 @@ stuffed his papers back into his little black bag; and the
 
 irregular conference broke up.
 
-Gahagan did tell the [[Truth|truth]] about the last question afterwards, to
+Gahagan did tell the [[concepts/truth|truth]] about the last question afterwards, to
 
 the person to whom he told everything, to Joan Varney, to whom he
 
@@ -8695,7 +8695,7 @@ situation and among a lot of beastly alternatives.  I knew by next
 
 morning that the vicar was saying he had seen me commit murder.
 
-Suppose I contradicted it--[[Well|well]], to begin with, she would have to
+Suppose I contradicted it--[[motifs/well|well]], to begin with, she would have to
 
 know that her old friend, the friend of her pets, was a horrible
 
@@ -8727,9 +8727,9 @@ run she would be--a little proud."
 
 "I think you're right about her," said Joan, in her straight way.
 
-"But, all the same, you ought to have told her the [[Truth|truth]]."
+"But, all the same, you ought to have told her the [[concepts/truth|truth]]."
 
-"Joan," he said, "I simply hadn't the [[Courage|courage]]."
+"Joan," he said, "I simply hadn't the [[concepts/courage|courage]]."
 
 "I know," she said.  "I also know all about your having the D.S.O.;
 
@@ -8739,13 +8739,13 @@ But that's what's the matter with all you fine, fighting
 
 gentlemen."  Her head lifted very slightly.  "You haven't the
 
-[[Courage|courage]]."
+[[concepts/courage|courage]]."
 
 A TALL STORY
 
-They had been discussing the new troubles in [[Germany]]: the three old
+They had been discussing the new troubles in [[settings/germany|Germany]]: the three old
 
-friends, Sir [[Hubert]] Wotton, the famous official; Mr. Pond, the
+friends, Sir [[characters/hubert|Hubert]] Wotton, the famous official; Mr. Pond, the
 
 obscure official; and Captain Gahagan, who never did a stroke of
 
@@ -8765,9 +8765,9 @@ Captain to rather excessive flights of showing-off.
 
 Captain Gahagan looked like a Regency buck; Mr. Pond looked like a
 
-round-eyed fish, with the beard and brow of Socrates; Sir [[Hubert]]
+round-eyed fish, with the beard and brow of Socrates; Sir [[characters/hubert|Hubert]]
 
-Wotton looked like Sir [[Hubert]] Wotton--it summed up a very sound and
+Wotton looked like Sir [[characters/hubert|Hubert]] Wotton--it summed up a very sound and
 
 virile quality in him, for which his friends had a great respect.
 
@@ -8793,7 +8793,7 @@ think it was a damned shame that they should be kicked out or
 
 kicked at all.  But I fancy they must be kicking themselves, for
 
-having been so faithful to [[Germany]] and even, everywhere else,
+having been so faithful to [[settings/germany|Germany]] and even, everywhere else,
 
 pretty generally pro-German."
 
@@ -8805,7 +8805,7 @@ all kept rather quiet, as I have reason to know; for the thing
 
 happened, in some sense, in my department.  I have generally found
 
-spy stories the dullest of all forms of [[Detective Fiction|detective fiction]]; in my
+spy stories the dullest of all forms of [[forms/detective-fiction|detective fiction]]; in my
 
 own modest researches into the light literature of murder, I
 
@@ -8833,7 +8833,7 @@ being extraordinary; one would be too small to be noticed, another
 
 too tall to be seen; one was apparently paralysed in a hospital and
 
-got out of the [[Window|window]] at [[Night|night]]--"
+got out of the [[motifs/window|window]] at [[motifs/night|night]]--"
 
 Joan looked across at him with a troubled expression in her honest
 
@@ -8853,7 +8853,7 @@ a thousand instances that would meet the case.  Take, for example,
 
 the case of my unfortunate friends the Balham-Browns who lived at
 
-Muswell [[Hill]].  Mr. Balham-Brown had just come [[Home|home]] from the office
+Muswell [[motifs/hill|Hill]].  Mr. Balham-Brown had just come [[motifs/home|home]] from the office
 
 (of the Imperial and International Lead-Piping Company) and was
 
@@ -8875,13 +8875,13 @@ spitefulness of the scientific world, Professor Pooter countered
 
 with the theory that Jupiter buried the Titans, one under Etna,
 
-another under Ossa, and a third under Muswell [[Hill]].  Anyhow, the
+another under Ossa, and a third under Muswell [[motifs/hill|Hill]].  Anyhow, the
 
 villa of my ill-fated friends the Balham-Browns was ruined, and the
 
 whole suburb overturned as by an earthquake, in order to excavate
 
-the [[Monster|monster]].  When his head [[Alone|alone]] emerged, it was like a colossal
+the [[archetypes/monster|monster]].  When his head alone emerged, it was like a colossal
 
 sphinx; and Mrs. Balham-Brown complained to the authorities that
 
@@ -8889,7 +8889,7 @@ the face frightened her, because it was too large.  Mr. Pond, who
 
 happened to be passing at the moment, immediately produced a
 
-[[Paradox|paradox]] (of which he always carries a small supply) and said that,
+[[concepts/paradox|paradox]] (of which he always carries a small supply) and said that,
 
 on the contrary, they would soon find that the face was too small.
 
@@ -8909,11 +8909,11 @@ walk across the Atlantic, where even he was apparently submerged.
 
 It is believed that the unfortunate creature was going to give
 
-lectures in [[America]]; driven by that mysterious instinct which leads
+lectures in [[settings/america|America]]; driven by that mysterious instinct which leads
 
 any person who is notorious for any reason to adopt that course."
 
-"[[Well]], have you done?" demanded Joan.  "We know all about you and
+"[[motifs/well|Well]], have you done?" demanded Joan.  "We know all about you and
 
 your yarns; and they don't mean anything.  But when Mr. Pond says
 
@@ -8921,7 +8921,7 @@ that somebody was too tall to be seen, he does mean something.  And
 
 what can he possibly mean?"
 
-"[[Well]]," said Mr. Pond, coughing slightly, "it was really a part of
+"[[motifs/well|Well]]," said Mr. Pond, coughing slightly, "it was really a part of
 
 the story to which I was alluding just now.  I did not notice
 
@@ -8939,11 +8939,11 @@ famous seaport, and, therefore, naturally a place of concentration
 
 for all the vigilance against spies, whether official or amateur.
 
-Sir [[Hubert]] Wotton was in general charge of the district, but Mr.
+Sir [[characters/hubert|Hubert]] Wotton was in general charge of the district, but Mr.
 
 Pond was in more practical though private occupation of the town,
 
-watching events from a narrow [[house]] in a back street, an upper room
+watching events from a narrow house in a back street, an upper room
 
 of which had been unobtrusively turned into an office; and he had
 
@@ -8951,13 +8951,13 @@ two assistants under him; a sturdy and very silent young man named
 
 Butt, bull-necked and broad-shouldered, but quite short; and a much
 
-taller and more talkative and elegant [[government]]-office clerk named
+taller and more talkative and elegant government-office clerk named
 
-Travers, but referred to by nearly everybody as [[arthur|Arthur]].  The
+Travers, but referred to by nearly everybody as [[characters/arthur|Arthur]].  The
 
 stalwart Butt commonly occupied a desk on the ground floor,
 
-watching the door and anyone who entered it; while [[arthur|Arthur]] Travers
+watching the door and anyone who entered it; while [[characters/arthur|Arthur]] Travers
 
 worked in the office upstairs, where there were some very valuable
 
@@ -8973,9 +8973,9 @@ neighbourhood; indeed, it consisted of a few genteel, old-fashioned
 
 houses, now mostly shuttered and empty, standing on the very edge
 
-of a sort of slum of small houses, at that [[Time|time]] riddled with what
+of a sort of slum of small houses, at that [[motifs/time|time]] riddled with what
 
-is called Unrest in a degree very dangerous, especially in [[Time|time]] of
+is called Unrest in a degree very dangerous, especially in [[motifs/time|time]] of
 
 war.  Immediately outside his door, he found but few things that
 
@@ -9001,7 +9001,7 @@ passionately patriotic, not to say militaristic.  And, indeed, it
 
 is often true that those two extremes lend themselves to the same
 
-sort of fluent [[Fanaticism|fanaticism]].  Poor Mr. Pond had reason to remember
+sort of fluent [[concepts/fanaticism|fanaticism]].  Poor Mr. Pond had reason to remember
 
 the woeful day when he first saw her angular and agitated figure
 
@@ -9017,7 +9017,7 @@ removed sufficiently promptly from her path: was, in fact, as she
 
 declared, removed reluctantly and in a grumbling spirit by the
 
-workmen employed on the job; and by the [[Time|time]] she had reached the
+workmen employed on the job; and by the [[motifs/time|time]] she had reached the
 
 responsible official, a theory had fully formed and hardened in her
 
@@ -9027,7 +9027,7 @@ mind.
 
 that unfortunate functionary.  "I heard him with my own ears mutter
 
-something about what his Trade [[Union]] would say.  What is he doing
+something about what his Trade [[concepts/union|Union]] would say.  What is he doing
 
 so near to your office?"
 
@@ -9065,7 +9065,7 @@ was Peterson: it was possible that it was really Petersen.  But
 
 that was not all.  Mr. Pond had learned the last lesson of the wise
 
-man: that the [[Fool|fool]] is sometimes right.
+man: that the [[archetypes/fool|fool]] is sometimes right.
 
 He soon forgot the incident in the details of his work; and next
 
@@ -9073,17 +9073,17 @@ day it was with a start that he looked up from his desk, or rather
 
 from Mr. Butt's desk which he was using at the moment, and saw once
 
-again the patriotic lady hovering like an avenging [[Shadow|shadow]] in the
+again the patriotic lady hovering like an avenging [[archetypes/shadow|shadow]] in the
 
-doorway.  This [[Time|time]] she glided swiftly in, unchecked by any
+doorway.  This [[motifs/time|time]] she glided swiftly in, unchecked by any
 
 Socialist barricade, and warned him that she had news of the most
 
 terrible kind.  She seemed to have forgotten all about her last
 
-suspicions; and, in [[Truth|truth]], her new ones were naturally more
+suspicions; and, in [[concepts/truth|truth]], her new ones were naturally more
 
-important to her.  This [[Time|time]] she had warmed the viper on her own
+important to her.  This [[motifs/time|time]] she had warmed the viper on her own
 
 hearth.  She had suddenly become conscious of the existence of her
 
@@ -9111,13 +9111,13 @@ the lady; and saw no reason to move in the matter.
 
 Mrs. Hartog-Haggard was already breathing hoarsely in his ear.  "Do
 
-you think she is signalling, or does she climb down the [[Fire|fire]]-
+you think she is signalling, or does she climb down the [[motifs/fire|fire]]-
 
 escape?  What do you think it means, Mr. Pond?"
 
 "Hysterics," said Mr. Pond.  "What, do you think the poor lady
 
-cannot be hysterical, because she does not scream the [[house]] down?
+cannot be hysterical, because she does not scream the house down?
 
 But any doctor will tell you that hysteria is mostly secretive and
 
@@ -9127,9 +9127,9 @@ the Germans; it is at the very opposite extreme to the external
 
 excitability of the Latins.  No, madam, I do not think she is
 
-climbing down the [[Fire|fire]]-escape.  I think she is saying that her
+climbing down the [[motifs/fire|fire]]-escape.  I think she is saying that her
 
-pupils do not [[Love|love]] her, and thinking about weltschmerz and [[suicide]].
+pupils do not [[motifs/love|love]] her, and thinking about weltschmerz and [[concepts/suicide|suicide]].
 
 And really, poor woman, she is in a very hard position."
 
@@ -9141,7 +9141,7 @@ victory."
 
 "You had better pray," said Mr. Pond, "for all the unhappy
 
-Englishwomen stranded in [[Germany]] by [[Poverty|poverty]] or duty or dependence.
+Englishwomen stranded in [[settings/germany|Germany]] by [[concepts/poverty|poverty]] or duty or dependence.
 
 If she loves her native land, it only shows she is a human being.
 
@@ -9163,11 +9163,11 @@ if anything she touched could remain trivial.
 
 sometimes recall to you the greatest and noblest work that ever
 
-came out of [[Germany]]."
+came out of [[settings/germany|Germany]]."
 
-"You refer to Goethe's [[Faust]], I presume," she replied.
+"You refer to Goethe's [[characters/faust|Faust]], I presume," she replied.
 
-"I refer to Grimm's Fairy-Tales," said Mr. Pond.  "I [[Fear|fear]] I have
+"I refer to Grimm's Fairy-Tales," said Mr. Pond.  "I [[concepts/fear|fear]] I have
 
 forgotten for the moment whether the story we call Puss-in-Boots
 
@@ -9189,13 +9189,13 @@ Pickles, in lights and various other embellishments, supported by
 
 that world-famed comedian who called himself Alberto Tizzi and was
 
-born in the Blackfriars [[Road]].
+born in the Blackfriars [[motifs/road|Road]].
 
 When he returned to his office at twilight, and, turning, beheld
 
 the figure of Mrs. Hartog-Haggard again hovering without, Mr. Pond
 
-began to think he was in a [[nightmare]].  He wondered wildly whether
+began to think he was in a nightmare.  He wondered wildly whether
 
 she had drawn some dark conclusions from his own meeting with the
 
@@ -9211,9 +9211,9 @@ ever; she ducked under the frame of scaffolding and darted into the
 
 room, crying out as she came:
 
-"Mr. Pond, do you know what is right opposite your own [[house]]?"
+"Mr. Pond, do you know what is right opposite your own house?"
 
-"[[Well]], I think so," said Mr. Pond, doubtfully, "more or less."
+"[[motifs/well|Well]], I think so," said Mr. Pond, doubtfully, "more or less."
 
 "I never read the name over the shop before!" cried the lady.  "You
 
@@ -9231,15 +9231,15 @@ name," said Mr. Pond.
 
 names?  Why, that makes it worse than ever!"
 
-"[[Well]]," said Mr. Pond, rising suddenly, and with a curtness that
+"[[motifs/well|Well]]," said Mr. Pond, rising suddenly, and with a curtness that
 
 cut all his own courtesy, "I'll see what I can do about it."
 
-And for the third [[Time|time]] did Mr. Pond take some steps to verify the
+And for the third [[motifs/time|time]] did Mr. Pond take some steps to verify the
 
 Hartog-Haggard revelations.  He took the ten or twelve steps
 
-necessary to take him across the [[Road|road]] and into the shop of C.
+necessary to take him across the [[motifs/road|road]] and into the shop of C.
 
 Schiller, amid all the shining sabres and yataghans.  It was a very
 
@@ -9255,7 +9255,7 @@ your own fault if there's a row of some kind and a Jingo mob comes
 
 here and breaks your windows for your absurd German name.  I know
 
-very [[Well|well]] this is no quarrel of yours.  I am [[Well|well]] aware," Mr. Pond
+very [[motifs/well|well]] this is no quarrel of yours.  I am [[motifs/well|well]] aware," Mr. Pond
 
 continued with an earnest gaze, "that you never invaded Belgium.  I
 
@@ -9271,7 +9271,7 @@ your fathers who go back to the most ancient priesthood of the
 
 world?  And you'll get into trouble with the Germans, too, some
 
-day, if you go about calling yourself Schiller.  You might as [[Well|well]]
+day, if you go about calling yourself Schiller.  You might as [[motifs/well|well]]
 
 go and live in Stratford-on-Avon and call yourself Shakespeare."
 
@@ -9285,9 +9285,9 @@ with unusual brevity; and left the shop to return to the office.
 
 The square figure of Mr. Butt, who was sitting at the desk looking
 
-towards the doorway, [[Rose|rose]] at his entrance; but Pond waved him to
+towards the doorway, [[motifs/rose|rose]] at his entrance; but Pond waved him to
 
-his seat again and, lighting a cigarette, began to [[Moon|moon]] about the
+his seat again and, lighting a cigarette, began to [[motifs/moon|moon]] about the
 
 room in a rather moody fashion.  He did not believe that there was
 
@@ -9299,7 +9299,7 @@ possibilities about the last.  Mr. Levy was certainly not a German;
 
 and it was very improbable that he was a real enthusiast for
 
-[[Germany]]; but it was not altogether impossible to suppose, in the
+[[settings/germany|Germany]]; but it was not altogether impossible to suppose, in the
 
 tangle and distraction of all the modern international muddle, that
 
@@ -9329,7 +9329,7 @@ suggestion of a cluster or network of lines to confuse the prospect
 
 at that very confusing turn of the twilight.  Once he fancied he
 
-saw something flicker behind them, as if a [[Shadow|shadow]] had shifted; and
+saw something flicker behind them, as if a [[archetypes/shadow|shadow]] had shifted; and
 
 there arose within him the terror of Mrs. Hartog-Haggard, which is
 
@@ -9337,7 +9337,7 @@ the terror of boredom and a sort of paralysed impatience, one of
 
 the worst of the woes of life.
 
-Then he saw that the shifting [[Shadow|shadow]] must have been produced by the
+Then he saw that the shifting [[archetypes/shadow|shadow]] must have been produced by the
 
 fact that the lights had been turned up in the shop opposite; and
 
@@ -9381,7 +9381,7 @@ sharply around, to find that Butt was not working at all; but, like
 
 himself, was staring, not to say glaring, as in a congested
 
-[[Mystification|mystification]], into the twilight.  Butt was commonly the most calm
+mystification, into the twilight.  Butt was commonly the most calm
 
 and prosaic of subordinates; but the look on his face was quite
 
@@ -9397,35 +9397,35 @@ to be a beast or not.  It's a beastly caddish thing to say a word,
 
 or hint a word, against your comrades or anybody connected with
 
-them.  But after all--[[Well|well]], sir, there is the country, isn't
+them.  But after all--[[motifs/well|well]], sir, there is the country, isn't
 
 there?"
 
 "There is certainly the country," said Mr. Pond, very seriously.
 
-"[[Well]]," Butt blurted out at last, "I'm not a bit comfortable about
+"[[motifs/well|Well]]," Butt blurted out at last, "I'm not a bit comfortable about
 
-[[arthur|Arthur]]."
+[[characters/arthur|Arthur]]."
 
 Then, after a sort of gasp, he tried again:  "At least, it isn't so
 
-much [[arthur|Arthur]] as [[arthur|Arthur]]'s . . . what [[arthur|Arthur]]'s doing.  It makes it all
+much [[characters/arthur|Arthur]] as [[characters/arthur|Arthur]]'s . . . what [[characters/arthur|Arthur]]'s doing.  It makes it all
 
 the nastier to have put it like that.  But you know he got engaged
 
 last week.  Have you met his fiancée, sir?"
 
-"I have not yet had the [[Honour|honour]]," replied Pond, in his punctilious
+"I have not yet had the [[concepts/honour|honour]]," replied Pond, in his punctilious
 
 way.
 
-"[[Well]], sir, [[arthur|Arthur]] brought her in here to-day while you were out;
+"[[motifs/well|Well]], sir, [[characters/arthur|Arthur]] brought her in here to-day while you were out;
 
 he'd just taken her to the pantomime of Puss-in-Boots on the pier,
 
 and they were laughing like anything.  Of course, that's quite all
 
-right; it was his off [[Time|time]]; but it seemed to me it wasn't quite all
+right; it was his off [[motifs/time|time]]; but it seemed to me it wasn't quite all
 
 right that she walked straight upstairs without any invitation,
 
@@ -9441,25 +9441,25 @@ door, and you or I are always sitting bang in front of it; and
 
 there's only one staircase, and nobody uses it but we three.  Of
 
-course, she might have done it in all [[innocence]]; that's what made
+course, she might have done it in all innocence; that's what made
 
-it seem quite too ghastly to snub her.  And yet. . . .  [[Well]], she's
+it seem quite too ghastly to snub her.  And yet. . . .  [[motifs/well|Well]], she's
 
-a very nice-looking girl, and no [[Doubt|doubt]] a very nice girl; but
+a very nice-looking girl, and no [[concepts/doubt|doubt]] a very nice girl; but
 
 somehow that's just the one word that wouldn't jump to my mind
 
-about her--[[innocence]]."
+about her--innocence."
 
 "Why, what sort of a girl is she?" asked Pond.
 
-"[[Well]]," said Mr. Butt, gloomily seeking words, "we all know that
+"[[motifs/well|Well]]," said Mr. Butt, gloomily seeking words, "we all know that
 
 making-up and even dyeing your hair doesn't mean what it once did;
 
 lots of women do it who are perfectly decent; but not those who
 
-are--[[Well|well]], utterly inexperienced.  It seemed to me that, while she
+are--[[motifs/well|well]], utterly inexperienced.  It seemed to me that, while she
 
 might be perfectly honest, she WOULD know very decidedly whether a
 
@@ -9469,13 +9469,13 @@ thing is done or not."
 
 severity, "she must know that he is here on highly confidential
 
-work, and she must be as anxious to protect his [[Honour|honour]] as we are.
+work, and she must be as anxious to protect his [[concepts/honour|honour]] as we are.
 
 I'm afraid that I shall have to ask you for some sort of
 
 description."
 
-"[[Well]]," said Butt, "she's very tall and elegant, or . . . no,
+"[[motifs/well|Well]]," said Butt, "she's very tall and elegant, or . . . no,
 
 elegant is exactly the word.  She has beautiful golden hair--very
 
@@ -9495,9 +9495,9 @@ tooth, in any sense, her teeth are just a little to the fore."
 
 did."
 
-Mr. Pond received the news in [[Silence|silence]].
+Mr. Pond received the news in [[motifs/silence|silence]].
 
-"I [[Hope|hope]], sir, you won't assume anything against [[arthur|Arthur]]," said Butt,
+"I [[concepts/hope|hope]], sir, you won't assume anything against [[characters/arthur|Arthur]]," said Butt,
 
 huskily.  "I'm sure I'd do anything to clear him of any--"
 
@@ -9513,11 +9513,11 @@ did just then.
 
 They flung open the door, and they saw all that was to be seen.
 
-All that was to be seen was [[arthur|Arthur]] Travers stretched out face
+All that was to be seen was [[characters/arthur|Arthur]] Travers stretched out face
 
 downwards on the ground, and between his shoulder-blades stood out
 
-the very long hilt of a very strange-looking [[Sword|sword]].  Butt
+the very long hilt of a very strange-looking sword.  Butt
 
 impetuously laid hold of it, and was startled to find that it was
 
@@ -9541,7 +9541,7 @@ added:
 
 certain: that he is quite cleared."
 
-Pond then walked in [[Silence|silence]] to the desk, which contained the secret
+Pond then walked in [[motifs/silence|silence]] to the desk, which contained the secret
 
 drawer and the secret plan of the harbour.  He only compressed his
 
@@ -9553,7 +9553,7 @@ different people.  He did about twenty things, but he did not speak
 
 again for about three-quarters of an hour.  It was only about the
 
-same [[Time|time]] that the stunned and bewildered Butt stumbled into
+same [[motifs/time|time]] that the stunned and bewildered Butt stumbled into
 
 speech.
 
@@ -9567,7 +9567,7 @@ like that."
 
 once more.
 
-And indeed the [[Riddle|riddle]] revolved more and more on the one thing that
+And indeed the [[forms/riddle|riddle]] revolved more and more on the one thing that
 
 thief and murderer had left behind him: the enormous misshapen
 
@@ -9575,15 +9575,15 @@ weapon.  It was not difficult to guess why he had left it behind;
 
 it was so difficult to tug out of the floor that he probably had no
 
-[[Time|time]] to try effectually, hearing Pond clattering up the stairs; he
+[[motifs/time|time]] to try effectually, hearing Pond clattering up the stairs; he
 
-thought it wiser to escape somehow, presumably through the [[Window|window]].
+thought it wiser to escape somehow, presumably through the [[motifs/window|window]].
 
-But about the [[Nature|nature]] of the thing itself it was hard to say
+But about the [[concepts/nature|nature]] of the thing itself it was hard to say
 
 anything, for it seemed quite abnormal.  It was as long as a
 
-claymore; yet it was not upon the pattern of any known [[Sword|sword]].  It
+claymore; yet it was not upon the pattern of any known sword.  It
 
 had no guard or pommel of any kind.  The hilt was as long as the
 
@@ -9597,7 +9597,7 @@ gazed musingly at this uncouth weapon, which was made very rudely
 
 of iron and wood painted with garish colours; and his thoughts
 
-crept slowly back to that shop across the [[Road|road]] that was hung with
+crept slowly back to that shop across the [[motifs/road|road]] that was hung with
 
 strange and savage weapons.  Yet this seemed to be in a somewhat
 
@@ -9613,11 +9613,11 @@ thing before.
 
 Touching many other things, the darkness began to thin away to a
 
-somewhat dreary [[Dawn|dawn]].  It was ascertained that poor [[arthur|Arthur]]'s
+somewhat dreary [[motifs/dawn|dawn]].  It was ascertained that poor [[characters/arthur|Arthur]]'s
 
 equivocal fiancée had indeed fled; very possibly in company with
 
-the missing plan.  She was known by this [[Time|time]] to be a woman quite
+the missing plan.  She was known by this [[motifs/time|time]] to be a woman quite
 
 capable of stealing a document or even stabbing a man.  But it was
 
@@ -9629,9 +9629,9 @@ floor; and quite impossible to imagine why she should select it for
 
 the purpose.
 
-"It would all be as clear as [[Death|death]]," said Mr. Butt, bitterly,
+"It would all be as clear as [[motifs/death|death]]," said Mr. Butt, bitterly,
 
-"except for that lumbering, long-hilted short-[[Sword|sword]], or whatever it
+"except for that lumbering, long-hilted short-sword, or whatever it
 
 is.  It never was in Levy's shop.  It never was in Asia or Africa
 
@@ -9647,7 +9647,7 @@ days.
 
 beginning to understand."
 
-It has been hinted, with every delicacy, we may [[Hope|hope]], that the
+It has been hinted, with every delicacy, we may [[concepts/hope|hope]], that the
 
 attitude of Mr. Pond towards the visits of Mrs. Hartog-Haggard was,
 
@@ -9655,7 +9655,7 @@ perhaps, rather passive than receptive; that he did not look
 
 forward to them as pants the hart for cooling streams; and that for
 
-him they rather resembled getting into hot [[Water|water]].  It is all the
+him they rather resembled getting into hot [[motifs/water|water]].  It is all the
 
 more worthy of record that, on the last occasion of her bringing
 
@@ -9665,7 +9665,7 @@ excitement and even of triumph.  He had been right in his
 
 premonitions about the wisdom of folly; and the triumph was truly
 
-the triumph of the [[Fool|fool]].  Mrs. Hartog-Haggard gave him the clue
+the triumph of the [[archetypes/fool|fool]].  Mrs. Hartog-Haggard gave him the clue
 
 after all.
 
@@ -9683,7 +9683,7 @@ governess.  On the former occasion she had appeared to claim the
 
 fairy-tale used for pantomimes as exclusively English and part of
 
-the healthy [[innocence]] of the stately homes of England.  Now she was
+the healthy innocence of the stately homes of England.  Now she was
 
 denouncing the German woman for taking the children to the
 
@@ -9699,9 +9699,9 @@ our children's nerves and minds.  Could any other nation be such
 
 fiends, Mr. Pond?  She's been poisoning their poor little minds
 
-with horrors about magicians and [[Magic|magic]] cats; and now the worst has
+with horrors about magicians and magic cats; and now the worst has
 
-happened, as I knew it would.  [[Well]]--YOU haven't done anything to
+happened, as I knew it would.  [[motifs/well|Well]]--YOU haven't done anything to
 
 stop it; and my life is simply ruined.  My three girls are all
 
@@ -9737,15 +9737,15 @@ mother.  Your son is not mad."
 
 He looked more judicial, and even severe, when he next sat in
 
-consultation with Mr. Butt, Sir [[Hubert]] Wotton, and Inspector Grote,
+consultation with Mr. Butt, Sir [[characters/hubert|Hubert]] Wotton, and Inspector Grote,
 
-the leading [[Detective|detective]] of the district.
+the leading [[archetypes/detective|detective]] of the district.
 
 "What it comes to is this," said Mr. Pond, very sternly: "that you
 
 do not really know the story of Puss-in-Boots.  And they talk about
 
-this as an epoch of [[Education]]."
+this as an epoch of [[concepts/education|Education]]."
 
 "Oh, I know it's about a clever cat and all the rest of it," said
 
@@ -9761,7 +9761,7 @@ first there was something wrong about that bit of scaffolding round
 
 the door; but I soon saw it was far too low and small for anybody
 
-to climb up to the [[Window|window]] by it.  But, of course, if we're talking
+to climb up to the [[motifs/window|window]] by it.  But, of course, if we're talking
 
 about a really clever cat burglar, there's always some chance that--"
 
@@ -9769,7 +9769,7 @@ about a really clever cat burglar, there's always some chance that--"
 
 any burglar, any more than any cat, load himself with a gigantic
 
-knife rather bigger than a [[Garden|garden]] spade?  Nobody carries a gigantic
+knife rather bigger than a [[motifs/garden|garden]] spade?  Nobody carries a gigantic
 
 knife except a giant.  This crime was committed by a giant."
 
@@ -9779,7 +9779,7 @@ rebuke:
 
 "What I remark upon, what I regret and regard as symptomatic of
 
-serious intellectual [[Decay|decay]], is that you apparently do not know that
+serious intellectual [[motifs/decay|decay]], is that you apparently do not know that
 
 the story of Puss-in-Boots includes a giant.  He is also a
 
@@ -9787,7 +9787,7 @@ magician; but he is always depicted, in pictures and pantomimes, as
 
 an ogre with a large knife.  Signor Alberto Tizzi, that somewhat
 
-dubious foreign [[Artist|artist]], enacts the part on the pier by the usual
+dubious foreign [[archetypes/artist|artist]], enacts the part on the pier by the usual
 
 expedient of walking on very high stilts, covered by very long
 
@@ -9795,21 +9795,21 @@ trousers.  But he sometimes walks about on the stilts and dispenses
 
 with the trousers; taking a walk through the almost entirely
 
-deserted streets at [[Night|night]].  Just round here, especially, the
+deserted streets at [[motifs/night|night]].  Just round here, especially, the
 
 chances are against his being even seen; all the big houses are
 
 shut up, except ours and Mrs. Hartog-Haggard's, which only looks on
 
-the street through a landing [[Window|window]]; through which her little boy
+the street through a landing [[motifs/window|window]]; through which her little boy
 
 (probably in his nightgown) peered and beheld a real ogre, with a
 
 great gory knife, and, perhaps, a great grinning mask, walking
 
-majestically under the [[Moon|moon]]--rather a fine sight to put among the
+majestically under the [[motifs/moon|moon]]--rather a fine sight to put among the
 
-memories of [[Childhood|childhood]].  For the rest, all the poor houses are low
+memories of [[motifs/childhood|childhood]].  For the rest, all the poor houses are low
 
 houses of one storey; and the people would see nothing but his
 
@@ -9833,9 +9833,9 @@ ledge or roof or other upper level.  So he left them standing
 
 outside our doorway, among the poles of the little scaffolding,
 
-while he climbed in at the upper [[Window|window]] and killed poor Travers."
+while he climbed in at the upper [[motifs/window|window]] and killed poor Travers."
 
-"If you are sure of this," cried Sir [[Hubert]] Wotton, starting to his
+"If you are sure of this," cried Sir [[characters/hubert|Hubert]] Wotton, starting to his
 
 feet hastily, "you ought to act on it at once!"
 
@@ -9855,9 +9855,9 @@ But he sighed again.
 
 after, "though we did manage to save the secret plans, the incident
 
-was much more of a [[Tragedy|tragedy]] than a triumph.  And what I most
+was much more of a [[forms/tragedy|tragedy]] than a triumph.  And what I most
 
-intensely disliked about the [[Tragedy|tragedy]] was the irony--what I believe
+intensely disliked about the [[forms/tragedy|tragedy]] was the irony--what I believe
 
 is called the tragic irony, or, alternatively, the Greek irony.  We
 
@@ -9889,41 +9889,41 @@ little laugh, "he was too tall to be seen."
 
 VIII.  A Tall Story
 
-THE THREE HORSEMEN OF [[Apocalypse|APOCALYPSE]]
+THE THREE HORSEMEN OF [[concepts/apocalypse|APOCALYPSE]]
 
 The curious and sometimes creepy effect which Mr. Pond produced
 
 upon me, despite his commonplace courtesy and dapper decorum, was
 
-possibly connected with some memories of [[Childhood|childhood]]; and the vague
+possibly connected with some memories of [[motifs/childhood|childhood]]; and the vague
 
-verbal association of his name.  He was a [[government|Government]] official who
+verbal association of his name.  He was a Government official who
 
 was an old friend of my father; and I fancy my infantile
 
-[[Imagination|imagination]] had somehow mixed up the name of Mr. Pond with the pond
+[[concepts/imagination|imagination]] had somehow mixed up the name of Mr. Pond with the pond
 
-in the [[Garden|garden]].  When one came to think of it, he was curiously like
+in the [[motifs/garden|garden]].  When one came to think of it, he was curiously like
 
-the pond in the [[Garden|garden]].  He was so quiet at all normal times, so
+the pond in the [[motifs/garden|garden]].  He was so quiet at all normal times, so
 
 neat in shape and so shiny, so to speak, in his ordinary
 
 reflections of earth and sky and the common daylight.  And yet I
 
-knew there were some queer things in the pond in the [[Garden|garden]].  Once
+knew there were some queer things in the pond in the [[motifs/garden|garden]].  Once
 
 in a hundred times, on one or two days during the whole year, the
 
 pond would look oddly different; or there would come a flitting
 
-[[Shadow|shadow]] or a flash in its flat serenity; and a fish or a frog or
+[[archetypes/shadow|shadow]] or a flash in its flat serenity; and a fish or a frog or
 
-some more [[Grotesque|grotesque]] creature would show itself to the sky.  And I
+some more [[concepts/grotesque|grotesque]] creature would show itself to the sky.  And I
 
 knew there were monsters in Mr. Pond also: monsters in his mind
 
-which [[Rose|rose]] only for a moment to the surface and sank again.  They
+which [[motifs/rose|rose]] only for a moment to the surface and sank again.  They
 
 took the form of monstrous remarks, in the middle of all his mild
 
@@ -9963,19 +9963,19 @@ suppose, he swallowed the unwelcome proposal of explaining what on
 
 earth he meant.
 
-He was talking quite quietly one day to Sir [[Hubert]] Wotton, the [[Well|well]]-
+He was talking quite quietly one day to Sir [[characters/hubert|Hubert]] Wotton, the [[motifs/well|well]]-
 
 known diplomatist; they were seated under gaily-striped tents or
 
-giant parasols in our own [[Garden|garden]], and gazing towards the pond which
+giant parasols in our own [[motifs/garden|garden]], and gazing towards the pond which
 
 I had perversely associated with him.  They happened to be talking
 
-about a part of the world that both of them knew [[Well|well]], and very few
+about a part of the world that both of them knew [[motifs/well|well]], and very few
 
 people in Western Europe at all: the vast flats fading into fens
 
-and swamps that stretch across Pomerania and Poland and [[Russia]] and
+and swamps that stretch across Pomerania and Poland and [[settings/russia|Russia]] and
 
 the rest; right away, for all I know, into the Siberian deserts.
 
@@ -9983,7 +9983,7 @@ And Mr. Pond recalled that, across a region where the swamps are
 
 deepest and intersected by pools and sluggish rivers, there runs a
 
-single [[Road|road]] raised on a high causeway with steep and sloping sides:
+single [[motifs/road|road]] raised on a high causeway with steep and sloping sides:
 
 a straight path safe enough for the ordinary pedestrian, but barely
 
@@ -9991,7 +9991,7 @@ broad enough for two horsemen to ride abreast.  That is the
 
 beginning of the story.
 
-It concerned a [[Time|time]] not very long ago, but a [[Time|time]] in which horsemen
+It concerned a [[motifs/time|time]] not very long ago, but a [[motifs/time|time]] in which horsemen
 
 were still used much more than they are at present, though already
 
@@ -10009,7 +10009,7 @@ necessary to expound the politics of the matter, or discuss its
 
 rights and wrongs here.  Let us merely say, more lightly, that Mr.
 
-Pond amused the company with a [[Riddle|riddle]].
+Pond amused the company with a [[forms/riddle|riddle]].
 
 "I expect you remember hearing," said Pond, "of all the excitement
 
@@ -10035,7 +10035,7 @@ in general command; and, as it happened, his own old regiment,
 
 which was still his favourite regiment, the White Hussars, was
 
-posted nearest to the beginning of the great embanked [[Road|road]].  Of
+posted nearest to the beginning of the great embanked [[motifs/road|road]].  Of
 
 course, everything was spick and span, down to every detail of the
 
@@ -10049,7 +10049,7 @@ them for that; I sometimes feel the old epoch of heraldry was a
 
 finer thing than all that epoch of imitative colouring, that came
 
-in with natural [[history]] and the worship of chameleons and beetles.
+in with natural [[concepts/history|history]] and the worship of chameleons and beetles.
 
 Anyhow, this crack regiment of cavalry in the Prussian service
 
@@ -10059,11 +10059,11 @@ element in the fiasco.  But it wasn't only the uniforms; it was the
 
 uniformity.  The whole thing went wrong because the discipline was
 
-too good.  Grock's soldiers obeyed him too [[Well|well]]; so he simply
+too good.  Grock's soldiers obeyed him too [[motifs/well|well]]; so he simply
 
 couldn't do a thing he wanted."
 
-"I suppose that's a [[Paradox|paradox]]," said Wotton, heaving a sigh.  "Of
+"I suppose that's a [[concepts/paradox|paradox]]," said Wotton, heaving a sigh.  "Of
 
 course, it's very clever and all that; but really, it's all
 
@@ -10074,41 +10074,41 @@ nonsense, isn't it?  Oh, I know people say in a general way that
 
 VIII.  Una storia incredibile
 
-I TRE CAVALIERI DELL'[[Apocalypse|APOCALISSE]]
+I TRE CAVALIERI DELL'[[concepts/apocalypse|APOCALISSE]]
 
 Il curioso e talvolta inquietante effetto che il signor Pond produceva
 
 su di me, malgrado la sua cortesia banale e il suo decoro azzimato, era
 
-forse legato a certi ricordi d'[[Childhood|infanzia]]; e alla vaga
+forse legato a certi ricordi d'[[motifs/childhood|infanzia]]; e alla vaga
 
-associazione verbale del suo nome.  Era un funzionario del [[government|Governo]] che
+associazione verbale del suo nome.  Era un funzionario del Governo che
 
 era un vecchio amico di mio padre; e immagino che la mia infantile
 
-[[Imagination|immaginazione]] avesse in qualche modo confuso il nome del signor Pond con lo stagno
+[[concepts/imagination|immaginazione]] avesse in qualche modo confuso il nome del signor Pond con lo stagno
 
-del [[Garden|giardino]].  A pensarci bene, somigliava curiosamente
+del [[motifs/garden|giardino]].  A pensarci bene, somigliava curiosamente
 
-allo stagno del [[Garden|giardino]].  Era così quieto in tutti i momenti normali, così
+allo stagno del [[motifs/garden|giardino]].  Era così quieto in tutti i momenti normali, così
 
 netto di forma e così lucente, per così dire, nei suoi ordinari
 
 riflessi di terra e cielo e della comune luce del giorno.  Eppure
 
-sapevo che c'erano cose strane nello stagno del [[Garden|giardino]].  Una volta
+sapevo che c'erano cose strane nello stagno del [[motifs/garden|giardino]].  Una volta
 
 su cento, in uno o due giorni dell'intero anno, lo
 
 stagno appariva stranamente diverso; oppure passava una fuggevole
 
-[[Shadow|ombra]] o un guizzo nella sua piatta serenità; e un pesce o una rana o
+[[archetypes/shadow|ombra]] o un guizzo nella sua piatta serenità; e un pesce o una rana o
 
-qualche creatura più [[Grotesque|grottesca]] si mostrava al cielo.  E
+qualche creatura più [[concepts/grotesque|grottesca]] si mostrava al cielo.  E
 
 sapevo che c'erano mostri anche nel signor Pond: mostri nella sua mente
 
-che [[Rose|salivano]] in superficie solo per un attimo e poi riaffondavano.  Essi
+che [[motifs/rose|salivano]] in superficie solo per un attimo e poi riaffondavano.  Essi
 
 prendevano la forma di osservazioni mostruose, in mezzo a tutte le sue miti
 
@@ -10148,19 +10148,19 @@ suppongo, egli ingoiava la sgradita proposta di spiegare che cosa
 
 diavolo intendesse.
 
-Un giorno stava parlando tranquillamente con Sir [[Hubert]] Wotton, il [[Well|ben]]-
+Un giorno stava parlando tranquillamente con Sir [[characters/hubert|Hubert]] Wotton, il [[motifs/well|ben]]-
 
 noto diplomatico; sedevano sotto tende a righe allegre o
 
-giganteschi parasoli nel nostro [[Garden|giardino]], guardando verso lo stagno che
+giganteschi parasoli nel nostro [[motifs/garden|giardino]], guardando verso lo stagno che
 
 io avevo perversamente associato a lui.  Si trovavano a parlare
 
-di una parte del mondo che entrambi conoscevano [[Well|bene]], e pochissimi
+di una parte del mondo che entrambi conoscevano [[motifs/well|bene]], e pochissimi
 
 in Europa occidentale conoscevano affatto: le vaste distese che sfumano in acquitrini
 
-e paludi che si stendono attraverso la Pomerania e la Polonia e la [[Russia]] e
+e paludi che si stendono attraverso la Pomerania e la Polonia e la [[settings/russia|Russia]] e
 
 tutto il resto; fin dentro, per quanto ne so, i deserti siberiani.
 
@@ -10168,7 +10168,7 @@ E il signor Pond ricordò che, attraverso una regione dove le paludi sono
 
 più profonde e intersecate da stagni e fiumi pigri, corre una
 
-sola [[Road|strada]] rialzata su un alto terrapieno dai fianchi ripidi e in pendenza:
+sola [[motifs/road|strada]] rialzata su un alto terrapieno dai fianchi ripidi e in pendenza:
 
 un sentiero diritto, abbastanza sicuro per il pedone comune, ma appena
 
@@ -10176,7 +10176,7 @@ largo abbastanza perché due cavalieri procedano affiancati.  Questo è l'
 
 inizio della storia.
 
-Riguardava un'[[Time|epoca]] non molto lontana, ma un'[[Time|epoca]] in cui i cavalieri
+Riguardava un'[[motifs/time|epoca]] non molto lontana, ma un'[[motifs/time|epoca]] in cui i cavalieri
 
 erano ancora usati assai più di quanto lo siano oggi, benché già
 
@@ -10194,7 +10194,7 @@ necessario esporre qui la politica della faccenda, né discuterne
 
 i torti e le ragioni.  Diciamo soltanto, più alla leggera, che il signor
 
-Pond divertì la compagnia con un [[Riddle|indovinello]].
+Pond divertì la compagnia con un [[forms/riddle|indovinello]].
 
 «Immagino che ricordiate di aver sentito parlare», disse Pond, «di tutta l'agitazione
 
@@ -10220,7 +10220,7 @@ il comando generale; e, guarda caso, il suo vecchio reggimento,
 
 che era ancora il suo reggimento prediletto, gli Ussari Bianchi, era
 
-appostato più vicino all'inizio della grande [[Road|strada]] in terrapieno.  Di
+appostato più vicino all'inizio della grande [[motifs/road|strada]] in terrapieno.  Di
 
 certo, tutto era lindo e pinto, fin nell'ultimo dettaglio delle
 
@@ -10234,7 +10234,7 @@ biasimo per questo; talvolta sento che la vecchia epoca dell'araldica fu cosa
 
 più bella di tutta quell'epoca di colorazione imitativa, venuta
 
-con la [[history|storia]] naturale e il culto dei camaleonti e degli scarabei.
+con la [[concepts/history|storia]] naturale e il culto dei camaleonti e degli scarabei.
 
 Comunque sia, questo reggimento scelto di cavalleria al servizio prussiano
 
@@ -10244,11 +10244,11 @@ elemento del fiasco.  Ma non furono soltanto le uniformi; fu l'
 
 uniformità.  Tutta la faccenda andò a monte perché la disciplina era
 
-troppo buona.  I soldati di Grock gli obbedivano troppo [[Well|bene]]; e così egli semplicemente
+troppo buona.  I soldati di Grock gli obbedivano troppo [[motifs/well|bene]]; e così egli semplicemente
 
 non poté fare una cosa che voleva.»
 
-«Suppongo che questo sia un [[Paradox|paradosso]]», disse Wotton, con un sospiro.  «Di
+«Suppongo che questo sia un [[concepts/paradox|paradosso]]», disse Wotton, con un sospiro.  «Di
 
 certo, è molto arguto e tutto il resto; ma davvero, è tutta una
 
@@ -10325,17 +10325,17 @@ sad and even a little anxious.
 
 Mr. Pond, interrupting his monologue, was almost in a twitter of
 
-apologies:  "I'm afraid I'm talking too much, as usual; the [[Truth|truth]]
+apologies:  "I'm afraid I'm talking too much, as usual; the [[concepts/truth|truth]]
 
 is I was talking about that poet, Petrowski, who was nearly
 
-executed in Poznan--quite a long [[Time|time]] ago.  The military
+executed in Poznan--quite a long [[motifs/time|time]] ago.  The military
 
 authorities on the spot hesitated and were going to let him go,
 
 unless they had direct orders from Marshal Von Grock or higher; but
 
-Marshal Von Grock was quite determined on the poet's [[Death|death]]; and
+Marshal Von Grock was quite determined on the poet's [[motifs/death|death]]; and
 
 sent orders for his execution that very evening.  A reprieve was
 
@@ -10359,7 +10359,7 @@ us another of those stories, Grandpapa."
 
 "It's a perfectly true story," protested Pond, "and it happened
 
-exactly as I say.  It isn't any [[Paradox|paradox]] or anything like that.
+exactly as I say.  It isn't any [[concepts/paradox|paradox]] or anything like that.
 
 Only, of course, you have to know the story to see how simple it
 
@@ -10381,9 +10381,9 @@ fact that he was a national poet but an international singer.  That
 
 is, he happened to have a very fine and powerful voice, with which
 
-he sang his own patriotic [[songs]] in half the concert halls of the
+he sang his own patriotic songs in half the concert halls of the
 
-world.  At [[Home|home]], of course, he was a torch and trumpet of
+world.  At [[motifs/home|home]], of course, he was a torch and trumpet of
 
 revolutionary hopes, especially then, in the sort of international
 
@@ -10391,7 +10391,7 @@ crisis in which practical politicians disappear, and their place is
 
 taken by men either more or less practical than themselves.  For
 
-the true idealist and the real realist have at least the [[Love|love]] of
+the true idealist and the real realist have at least the [[motifs/love|love]] of
 
 action in common.  And the practical politician thrives by offering
 
@@ -10403,7 +10403,7 @@ but in neither trade can a man win a reputation by doing nothing.
 
 It is odd that these two extreme types stood at the two extreme
 
-ends of that one ridge and [[Road|road]] among the marshes--the Polish poet
+ends of that one ridge and [[motifs/road|road]] among the marshes--the Polish poet
 
 a prisoner in the town at one end, the Prussian soldier a commander
 
@@ -10413,13 +10413,13 @@ For Marshal Von Grock was a true Prussian, not only entirely
 
 practical but entirely prosaic.  He had never read a line of poetry
 
-himself; but he was no [[Fool|fool]].  He had the sense of reality which
+himself; but he was no [[archetypes/fool|fool]].  He had the sense of reality which
 
 belongs to soldiers; and it prevented him from falling into the
 
 asinine error of the practical politician.  He did not scoff at
 
-visions; he only hated them.  He knew that a poet or a [[Prophet|prophet]]
+visions; he only hated them.  He knew that a poet or a [[archetypes/prophet|prophet]]
 
 could be as dangerous as an army.  And he was resolved that the
 
@@ -10435,7 +10435,7 @@ his massive head looked quite bald, though it was only closely
 
 shaven.  His whole face was also shaven; and had no covering but a
 
-pair of very strong spectacles, which [[Alone|alone]] gave an enigmatic look
+pair of very strong spectacles, which alone gave an enigmatic look
 
 to his heavy and sagging visage.  He turned to a Lieutenant
 
@@ -10445,7 +10445,7 @@ variety, whose blue saucer-eyes were staring vacantly.
 
 "Lieutenant Von Hocheimer," he said, "did you say His Highness
 
-would reach the camp to-[[Night|night]]?"
+would reach the camp to-[[motifs/night|night]]?"
 
 "Seven forty-five, Marshal," replied the Lieutenant, who seemed
 
@@ -10453,7 +10453,7 @@ rather reluctant to speak at all, like a large animal learning a
 
 new trick of talking.
 
-"Then there is just [[Time|time]]," said Grock, "to send you with that order
+"Then there is just [[motifs/time|time]]," said Grock, "to send you with that order
 
 for execution, before he arrives.  We must serve His Highness in
 
@@ -10462,13 +10462,13 @@ every way, but especially in saving him needless trouble.  He will
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Troppa disciplina nell’esercito tedesco… Ma non si può proprio fare a meno.
+Troppa disciplina nell’esercito tedesco… Ma non si può proprio fare a meno.
 
 Troppa disciplina in un esercito.
 
 “Ma non lo dico in modo generico,” disse Pond con tono lamentoso. “Io…”
 
-# Dillo in un modo particolare… in questo caso specifico. Grock
+Dillo in un modo particolare… in questo caso specifico. Grock
 
 Titolo:  
 Fallì perché i suoi soldati gli obbedivano… Naturalmente, se solo uno di loro…
@@ -10483,17 +10483,17 @@ Wotton risebbe in una risata rauca. “Sono felice di sentire le tue nuove…
 
 Teoria militare: si permetterebbe a un solo soldato di un reggimento di obbedire…
 
-# Ordini… ma due soldati che obbediscono agli ordini… cosa vi sembra?
+Ordini… ma due soldati che obbediscono agli ordini… cosa vi sembra?
 
 Le discipline prussiane vanno un po' troppo oltre.
 
-#"Non ho alcuna teoria militare… Sto parlando di aspetti pratici della vita militare."
+"Non ho alcuna teoria militare… Sto parlando di aspetti pratici della vita militare."
 
 “È un fatto militare”, rispose tranquillamente il signor Pond. “Un dato indiscutibile in ambito militare.”
 
 "Grock fallì… perché due dei suoi soldati gli obbedirono."
 
-# Un fatto militare: avrebbe potuto avere successo, se uno di loro fosse stato diverso…
+Un fatto militare: avrebbe potuto avere successo, se uno di loro fosse stato diverso…
 
 Lo disobbedì. Potete inventare tutte le teorie che volete al riguardo.
 
@@ -10505,7 +10505,7 @@ In modo rigido, come se fosse stato offeso da un insulto insignificante.
 
 In questo momento si poteva vedere qualcuno camminare con passo deciso attraverso i raggi del sole…
 
-#Il prato, la maestosa e imponente figura del Capitano Gahagan…
+Il prato, la maestosa e imponente figura del Capitano Gahagan…
 
 Un amico e ammiratore assai incompatibile con il piccolo signor Pond… Lui aveva…
 
@@ -10513,13 +10513,13 @@ Fiore fiammeggiante nel suo bottone e un cappello grigio… leggermente inclinat
 
 La testa inclinata sulla sua chioma rossastra; camminava con aria trionfale.
 
-#Quello che sembrava provenire da un’epoca più antica di dandy…
+Quello che sembrava provenire da un’epoca più antica di dandy…
 
 Duellisti… anche se lui stesso era relativamente giovane. Finché…
 
-#La sua alta figura, dalle spalle larghe, era semplicemente incorniciata nel contesto circostante…
+La sua alta figura, dalle spalle larghe, era semplicemente incorniciata nel contesto circostante…
 
-#Sole splendente: sembrava l’incarnazione di tutta l’arroganza. Quando…
+Sole splendente: sembrava l’incarnazione di tutta l’arroganza. Quando…
 
 “Si avvicinò e si sedette, con il sole che gli illuminava il viso… All’improvviso…”
 
@@ -10527,11 +10527,11 @@ Duellisti… anche se lui stesso era relativamente giovane. Finché…
 
 Triste, e anche un po’ ansioso.
 
-#Mr. Pond, interrompendo il suo monologo, era quasi fuori di sé dall’agitazione
+Mr. Pond, interrompendo il suo monologo, era quasi fuori di sé dall’agitazione
 
-Scuse: “Temo di parlare troppo, come al solito. La [[Truth|verità]], ”.
+Scuse: “Temo di parlare troppo, come al solito. La [[concepts/truth|verità]], ”.
 
-# Era di quel poeta, Petrowski, di cui stavo parlando…
+Era di quel poeta, Petrowski, di cui stavo parlando…
 
 Esecutato a Poznań, molto tempo fa. L’esercito.
 
@@ -10539,7 +10539,7 @@ Le autorità presenti esitarono e stavano per lasciarlo andare.
 
 A meno che non ricevessero ordini diretti dal Maresciallo Von Grock o da autorità superiori…
 
-Il maresciallo Von Grock era assolutamente determinato a causare la [[Death|morte]] del poeta; e.
+Il maresciallo Von Grock era assolutamente determinato a causare la [[motifs/death|morte]] del poeta; e.
 
 Quella stessa sera furono emessi ordini per la sua esecuzione… Fu concesso un rinvio.
 
@@ -10563,7 +10563,7 @@ In modo sarcastico.
 
 “È una storia assolutamente vera,” protestò Pond, “ed è davvero successa.”
 
-Esattamente come dico io. Non si tratta di alcun [[Paradox|paradosso]] o nulla del genere.
+Esattamente come dico io. Non si tratta di alcun [[concepts/paradox|paradosso]] o nulla del genere.
 
 Solo, ovviamente, bisogna conoscere la storia per capire quanto sia semplice…
 
@@ -10577,9 +10577,9 @@ Prima ancora di rendersi conto di quanto fosse semplice.
 
 In breve.
 
-# Paul Petrowski era uno di quegli uomini totalmente impratici…
+Paul Petrowski era uno di quegli uomini totalmente impratici…
 
-# Importanza straordinaria nella politica pratica. Il suo potere risiedeva nel…
+Importanza straordinaria nella politica pratica. Il suo potere risiedeva nel…
 
 Il fatto che fosse un poeta nazionale ma anche un cantante di fama internazionale.
 
@@ -10587,15 +10587,15 @@ Aveva, per caso, una voce molto bella e potente, con la quale…
 
 Cantava le proprie canzoni patriottiche in metà delle sale da concerto di.
 
-Il mondo. A [[Home|casa]], naturalmente, era una torcia e un corno che diffondeva la verità.
+Il mondo. A [[motifs/home|casa]], naturalmente, era una torcia e un corno che diffondeva la verità.
 
-# Speranze rivoluzionarie, soprattutto all’epoca, nel contesto internazionale
+Speranze rivoluzionarie, soprattutto all’epoca, nel contesto internazionale
 
-#"Crisi nella quale i politici pratici scompaiono, e il loro posto viene preso da..."
+"Crisi nella quale i politici pratici scompaiono, e il loro posto viene preso da..."
 
 Prenduto da uomini più o meno pratici di loro stessi… Per
 
-Il vero idealista e il vero realista hanno almeno l’[[Love|amore]] per.
+Il vero idealista e il vero realista hanno almeno l’[[motifs/love|amore]] per.
 
 Azione congiunta… E il politico pratico prospera offrendo soluzioni concrete.
 
@@ -10607,57 +10607,57 @@ Ma in nessuna di queste attività un uomo può guadagnarsi una buona reputazione
 
 È strano che questi due tipi estremi si trovino ai due estremi opposti.
 
-Alla fine di quella cresta, e lungo quella [[Road|strada]] tra i pantani, il poeta polacco.
+Alla fine di quella cresta, e lungo quella [[motifs/road|strada]] tra i pantani, il poeta polacco.
 
 Un prigioniero nella città da un lato, il soldato prussiano come comandante dall’altro…
 
 Nel campo dall'altra parte.
 
-#Per il maresciallo von Grock era un vero prussiano, non solo nel profondo…
+Per il maresciallo von Grock era un vero prussiano, non solo nel profondo…
 
 Pratico, ma assolutamente banale… Non aveva mai letto una singola riga di poesia.
 
-Sebbene fosse lui stesso, non era affatto un [[Fool|idiota]]. Possedeva il senso della realtà.
+Sebbene fosse lui stesso, non era affatto un [[archetypes/fool|idiota]]. Possedeva il senso della realtà.
 
-# Appartiene ai soldati; e gli impedì di cadere…
+Appartiene ai soldati; e gli impedì di cadere…
 
-# L’errore stupido del politico pratico… Non si è messo a deriderlo.
+L’errore stupido del politico pratico… Non si è messo a deriderlo.
 
-Visioni. Le odiava soltanto. Sapeva che un poeta o un [[Prophet|profeta]].
+Visioni. Le odiava soltanto. Sapeva che un poeta o un [[archetypes/prophet|profeta]].
 
-#Un esercito pericoloso quanto una armata… E lui era deciso a farlo.
+Un esercito pericoloso quanto una armata… E lui era deciso a farlo.
 
 “Il poeta dovrebbe morire… Questa fu l’unica sua lode per la poesia.”
 
 Sincero.
 
-# Era seduto in quel momento a un tavolo nella sua tenda; con le spade acuminate…
+Era seduto in quel momento a un tavolo nella sua tenda; con le spade acuminate…
 
 Il casco che indossava sempre in pubblico giaceva davanti a lui; e…
 
-# La sua enorme testa sembrava quasi calva, anche se in realtà i capelli erano solo molto fitti...
+La sua enorme testa sembrava quasi calva, anche se in realtà i capelli erano solo molto fitti...
 
-#Rasato a zero. Anche tutto il suo viso era rasato; non portava alcuna barba o copertura.
+Rasato a zero. Anche tutto il suo viso era rasato; non portava alcuna barba o copertura.
 
-Un paio di occhiali molto robusti che, [[Alone|solo]] loro, conferivano uno sguardo enigmatico.
+Un paio di occhiali molto robusti che, solo loro, conferivano uno sguardo enigmatico.
 
 “Al suo volto pesante e cascante… Si rivolse a un tenente.”
 
-#Accanto a lui, un tedesco dai capelli biondi e dal viso piuttosto rotondo
+Accanto a lui, un tedesco dai capelli biondi e dal viso piuttosto rotondo
 
 Varietà, i cui occhi blu, grandi come piattini, fissavano il vuoto senza espressione.
 
 “Tenente von Hocheimer,” disse, “ha detto ‘Sua Altezza’?”
 
-“Raggiungerà il campo entro la [[Night|notte]]?”
+“Raggiungerà il campo entro la [[motifs/night|notte]]?”
 
 “Sette quaranta cinque, Marshal,” rispose il tenente, che sembrava…
 
-#Piuttosto riluttante a parlare del tutto, come un grande animale che sta imparando…
+Piuttosto riluttante a parlare del tutto, come un grande animale che sta imparando…
 
 Un nuovo modo di parlare.
 
-“Allora resta solo il [[Time|tempo]],” disse Grock, “per inviarti con quell’ordine.”
+“Allora resta solo il [[motifs/time|tempo]],” disse Grock, “per inviarti con quell’ordine.”
 
 Per l’esecuzione, prima che arrivi… Dobbiamo servire Sua Altezza.
 
@@ -10690,7 +10690,7 @@ eyes of the Lieutenant could have seen anything of the sort, or if
 
 they could have opened any wider even if they had, they might as
 
-[[Well|well]] have opened wide enough at the transformation made by the
+[[motifs/well|well]] have opened wide enough at the transformation made by the
 
 gesture.  It was like the removal of an iron mask.  An instant
 
@@ -10698,7 +10698,7 @@ before, Marshal Von Grock had looked uncommonly like a rhinoceros,
 
 with his heavy folds of leathery cheek and jaw.  Now he was a new
 
-kind of [[Monster|monster]]: a rhinoceros with the eyes of an eagle.  The bleak
+kind of [[archetypes/monster|monster]]: a rhinoceros with the eyes of an eagle.  The bleak
 
 blaze of his old eyes would have told almost anybody that he had
 
@@ -10744,7 +10744,7 @@ comfort and safety of feeling that he was reflecting aloud in the
 
 presence of a cow or a cabbage.
 
-"Again and again, in the [[history]] of our Royal [[house|House]], the servant
+"Again and again, in the [[concepts/history|history]] of our Royal House, the servant
 
 has saved the master," went on Grock, "and often got little but
 
@@ -10756,13 +10756,13 @@ we were successful and we were strong.  They cursed Bismarck for
 
 deceiving even his own master over the Ems telegram; but it made
 
-that master the master of the world.  [[Paris]] was taken; Austria
+that master the master of the world.  [[settings/paris|Paris]] was taken; Austria
 
-dethroned; and we were safe.  To-[[Night|night]] Paul Petrowski will be dead;
+dethroned; and we were safe.  To-[[motifs/night|night]] Paul Petrowski will be dead;
 
 and we shall again be safe.  That is why I am sending you with his
 
-[[Death|death]]-warrant at once.  You understand that you are bearing the
+[[motifs/death|death]]-warrant at once.  You understand that you are bearing the
 
 order for Petrowski's instant execution--and that you must remain
 
@@ -10772,31 +10772,31 @@ The inarticulate Hocheimer saluted; he could understand that all
 
 right.  And he had some qualities of a dog, after all: he was as
 
-brave as a bulldog; and he could be faithful to the [[Death|death]].
+brave as a bulldog; and he could be faithful to the [[motifs/death|death]].
 
 "You must mount and ride at once," went on Grock, "and see that
 
-nothing delays or thwarts you.  I know for a fact that [[Fool|fool]] Arnheim
+nothing delays or thwarts you.  I know for a fact that [[archetypes/fool|fool]] Arnheim
 
-is going to release Petrowski to-[[Night|night]], if no message comes.  Make
+is going to release Petrowski to-[[motifs/night|night]], if no message comes.  Make
 
-all [[Speed|speed]]."
+all [[characters/speed|speed]]."
 
-And the Lieutenant again saluted and went out into the [[Night|night]]; and
+And the Lieutenant again saluted and went out into the [[motifs/night|night]]; and
 
 mounting one of the superb white chargers that were part of the
 
 splendour of that splendid corps, began to ride along the high,
 
-narrow [[Road|road]] along the ridge, almost like the top of a wall, which
+narrow [[motifs/road|road]] along the ridge, almost like the top of a wall, which
 
 overlooked the dark horizon, the dim patterns and decaying colours
 
 of those mighty marshes.
 
-Almost as the last echoes of his [[Horse|horse]]'s hoofs died away along the
+Almost as the last echoes of his [[motifs/horse|horse]]'s hoofs died away along the
 
-causeway, Von Grock [[Rose|rose]] and put on his helmet and his spectacles
+causeway, Von Grock [[motifs/rose|rose]] and put on his helmet and his spectacles
 
 and came to the door of his tent; but for another reason.  The
 
@@ -10836,7 +10836,7 @@ abstracted face was consonant with the legend that the one true
 
 passion of his life was music.
 
-In [[Truth|truth]], the grumbling Grock was inclined to connect with that
+In [[concepts/truth|truth]], the grumbling Grock was inclined to connect with that
 
 remote eccentricity the, to him, highly irritating and exasperating
 
@@ -10848,13 +10848,13 @@ labyrinthine parade of the military etiquette of their nation; but
 
 plunged at once impatiently into the subject which Grock most
 
-desired to see left [[Alone|alone]]: the subject of this infernal Pole, his
+desired to see left alone: the subject of this infernal Pole, his
 
 popularity and his peril; for the Prince had heard some of the
 
-man's [[songs]] sung in half the opera-houses of Europe.
+man's songs sung in half the opera-houses of Europe.
 
-"To talk of executing a man like that is [[Madness|madness]]," said the Prince,
+"To talk of executing a man like that is [[concepts/madness|madness]]," said the Prince,
 
 scowling under his black helmet.  "He is not a common Pole.  He is
 
@@ -10869,7 +10869,7 @@ A disposizione di Sua Altezza. Lui partirà di nuovo per…
 
 Il prossimo avamposto arriverà tra un’ora.
 
-#Il tenente sembrò quasi rivivere e fece…
+Il tenente sembrò quasi rivivere e fece…
 
 “Saluto oscuro… Certo, Maresciallo, dobbiamo tutti obbedire a Lui.”
 
@@ -10879,21 +10879,21 @@ Altezza.
 
 Con un movimento più rapido del solito, sciolse il gancio che lo teneva fermo…
 
-# Occhiali e li sbatté sul tavolo… Se quegli occhiali di colore blu pallido…
+Occhiali e li sbatté sul tavolo… Se quegli occhiali di colore blu pallido…
 
 Gli occhi del tenente avrebbero potuto vedere qualsiasi cosa del genere… o forse no.
 
-#Avrebbero potuto aprirsi ancora di più… anche se l’avessero fatto, non sarebbe cambiato nulla.
+Avrebbero potuto aprirsi ancora di più… anche se l’avessero fatto, non sarebbe cambiato nulla.
 
-[[Well|Benissimo]] si è aperto abbastanza durante la trasformazione operata da.
+[[motifs/well|Benissimo]] si è aperto abbastanza durante la trasformazione operata da.
 
-# Gesto… Fu come se si rimuovesse una maschera di ferro… In un istante.
+Gesto… Fu come se si rimuovesse una maschera di ferro… In un istante.
 
 Prima d’allora, il maresciallo Von Grock assomigliava in modo insolito a un rinoceronte.
 
 Con le sue pesanti pieghe di guancia e mandibola coriacee… Ora era un nuovo…
 
-Una sorta di [[Monster|mostro]]: un rinoceronte con gli occhi di un'aquila. Un essere desolato e tetro.
+Una sorta di [[archetypes/monster|mostro]]: un rinoceronte con gli occhi di un'aquila. Un essere desolato e tetro.
 
 Il bagliore dei suoi vecchi occhi avrebbe fatto capire a chiunque che lui…
 
@@ -10903,7 +10903,7 @@ Una parte di lui era fatta d’acciaio, non solo di ferro… Per tutti gli uomin
 
 Vivere secondo uno spirito, anche se si tratta di uno spirito malvagio o molto strano…
 
-# A tutti gli uomini cristiani, che a malapena sanno se…
+A tutti gli uomini cristiani, che a malapena sanno se…
 
 Sia buono che cattivo.
 
@@ -10913,7 +10913,7 @@ In altre parole, dobbiamo tutti salvare Sua Altezza. Giusto?
 
 “Non basta che i nostri re siano anche i nostri dèi? Non è forse così?”
 
-#Bastano forse per essere serviti e salvati? Siamo noi quelli che devono agire.
+Bastano forse per essere serviti e salvati? Siamo noi quelli che devono agire.
 
 Servire e salvare.
 
@@ -10924,40 +10924,40 @@ Le persone teoriche considererebbero il pensiero come un’attività importante�
 Titolo:  
 Scoprì che uomini del suo tipo, quando per caso pensano ad alta voce…
 
-#Preferisco di gran lunga parlare con il cane… Hanno persino una certa…
+Preferisco di gran lunga parlare con il cane… Hanno persino una certa…
 
 Un piacere condiscendente nell’uso di parole lunghe e argomentazioni complesse
 
-#Prima del cane… Sarebbe ingiusto paragonare il tenente von…
+Prima del cane… Sarebbe ingiusto paragonare il tenente von…
 
 “Hocheimer… come un cane. Sarebbe ingiusto verso quel cane, che è molto…”
 
 Creatura più sensibile e vigile… Sarebbe più accurato dire…
 
-#In uno dei suoi rari momenti di riflessione, quel Grock…
+In uno dei suoi rari momenti di riflessione, quel Grock…
 
-# Il conforto e la sicurezza di sentirsi come se stesse parlando ad alta voce…
+Il conforto e la sicurezza di sentirsi come se stesse parlando ad alta voce…
 
 La presenza di una mucca o di un cavolo.
 
-“Ancora e ancora, nella [[history|storia]] della nostra Real Casa Reale, il servo, ”
+“Ancora e ancora, nella [[concepts/history|storia]] della nostra Real Casa Reale, il servo, ”
 
 “Ha salvato il padrone,” continuò Grock, “e spesso in cambio riceveva ben poco…”
 
-#Colpi dal mondo esterno, almeno… quel mondo che non smette mai di lamentarsi
+Colpi dal mondo esterno, almeno… quel mondo che non smette mai di lamentarsi
 
-# Sentimentalismo contro i successi e i forti… Ma almeno
+Sentimentalismo contro i successi e i forti… Ma almeno
 
 Titolo:  
 Riuscimmo e fummo forti… Loro maledissero Bismarck per questo.
 
-#Ingannando persino il proprio padrone riguardo al telegrafo di Ems… ma ciò riuscì.
+Ingannando persino il proprio padrone riguardo al telegrafo di Ems… ma ciò riuscì.
 
-Colui che domina il dominatore del mondo. [[Paris|Parigi]] fu presa; l’Austria.
+Colui che domina il dominatore del mondo. [[settings/paris|Parigi]] fu presa; l’Austria.
 
-Deposto dal trono, e noi eravamo al sicuro. Entro la [[Night|notte]] Paolo Petrowski sarà morto.
+Deposto dal trono, e noi eravamo al sicuro. Entro la [[motifs/night|notte]] Paolo Petrowski sarà morto.
 
-#E allora saremo di nuovo al sicuro. Ecco perché ti mando insieme a lui.
+E allora saremo di nuovo al sicuro. Ecco perché ti mando insieme a lui.
 
 Una condanna a morte immediata. Capisci che sei tu a doverne portare le conseguenze.
 
@@ -10969,39 +10969,39 @@ Ordine per l’esecuzione immediata di Petrowski… e che tu debba rimanere qui.
 
 “Giusto… Dopotutto, aveva alcune caratteristiche tipiche di un cane: era proprio come…”
 
-Coraggioso come un bulldog. E avrebbe potuto rimanere fedele fino alla [[Death|morte]].
+Coraggioso come un bulldog. E avrebbe potuto rimanere fedele fino alla [[motifs/death|morte]].
 
 “Devi montare a cavallo immediatamente,” continuò Grock, “e assicurarti che…”
 
-Niente ti ritarda o ti ostacola. So per certo che [[Fool|idiota]] Arnheim.
+Niente ti ritarda o ti ostacola. So per certo che [[archetypes/fool|idiota]] Arnheim.
 
 Libererà Petrowski stasera, se non arriva alcun messaggio. Fai in modo che.
 
-a tutta [[Speed|velocità]].
+a tutta [[characters/speed|velocità]].
 
-E il tenente salutò di nuovo e uscì nella [[Night|notte]]; e.
+E il tenente salutò di nuovo e uscì nella [[motifs/night|notte]]; e.
 
-#Montare uno dei magnifici carri armati bianchi che facevano parte di…
+Montare uno dei magnifici carri armati bianchi che facevano parte di…
 
 “Lo splendore di quel magnifico corpo militare iniziò ad avanzare lungo la cresta…”
 
-Una stretta [[Road|strada]] lungo la cresta, quasi come la sommità di un muro.
+Una stretta [[motifs/road|strada]] lungo la cresta, quasi come la sommità di un muro.
 
 Oltre il cupo orizzonte, i vaghi disegni e i colori che si sfaldavano…
 
 Di quei vasti paludi.
 
-Quasi nel momento in cui gli ultimi echi degli zoccoli del suo [[Horse|cavallo]] si affievolivano lungo la.
+Quasi nel momento in cui gli ultimi echi degli zoccoli del suo [[motifs/horse|cavallo]] si affievolivano lungo la.
 
 La diga di protezione, la rosa di Von Grock, e poi indossò il casco e gli occhiali.
 
-#E arrivò alla porta della sua tenda; ma per un altro motivo.
+E arrivò alla porta della sua tenda; ma per un altro motivo.
 
 I principali membri del suo staff, tutti in abiti formali, stavano già avvicinandosi.
 
-#Lui; e lungo le linee più lontane si udivano i suoni…
+Lui; e lungo le linee più lontane si udivano i suoni…
 
-#Rituali di saluto e l’emissione di ordini: Sua Altezza…
+Rituali di saluto e l’emissione di ordini: Sua Altezza…
 
 Il principe era arrivato.
 
@@ -11009,53 +11009,53 @@ Il principe, Sua Altezza, rappresentava in qualche modo un contrasto, almeno…
 
 Esterni, rispetto alle persone intorno a lui; e anche in altre cose…
 
-#Un’eccezione nel suo mondo… E indossava anche qualcosa con punte acuminate.
+Un’eccezione nel suo mondo… E indossava anche qualcosa con punte acuminate.
 
-# Casco… ma di un altro reggimento: nero, con riflessi blu
+Casco… ma di un altro reggimento: nero, con riflessi blu
 
-#Acciaio… e c’era qualcosa di stranamente incongruente in tutto ciò.
+Acciaio… e c’era qualcosa di stranamente incongruente in tutto ciò.
 
-# Appropriato in modo fantasioso e, in un certo senso, antico…
+Appropriato in modo fantasioso e, in un certo senso, antico…
 
-# La combinazione di quel casco con quella lunga, scura e fluente barba…
+La combinazione di quel casco con quella lunga, scura e fluente barba…
 
 “Tutti quei prussiani rasati… Come se fosse in linea con l’atmosfera lunga e cupa…”
 
 Con una barba lunga e fluente, indossava un mantello scuro e ampio, di colore blu…
 
-#Stella ardente su un ordine reale di massimo rango; e sotto il cielo blu…
+Stella ardente su un ordine reale di massimo rango; e sotto il cielo blu…
 
-#Un’uniforme nera…
+Un’uniforme nera…
 
-#Un tipo di tedesco molto diverso… e qualcosa nel suo orgoglio, ma…
+Un tipo di tedesco molto diverso… e qualcosa nel suo orgoglio, ma…
 
 Il volto privo di espressione corrispondeva alla leggenda secondo cui quella persona era davvero l’unica vera…
 
 La passione della sua vita era la musica.
 
-Nella [[Truth|verità]], il brontolone Grock era incline a collegarsi a quella realtà.
+Nella [[concepts/truth|verità]], il brontolone Grock era incline a collegarsi a quella realtà.
 
-# Una stranezza lontana e irritante per lui
+Una stranezza lontana e irritante per lui
 
 Il fatto che il Principe non abbia immediatamente proceduto con ciò che era dovuto…
 
-#Recensioni e accoglienze da parte delle truppe, già ampiamente descritte in tutto…
+Recensioni e accoglienze da parte delle truppe, già ampiamente descritte in tutto…
 
 Una parata labirintica delle formalità militari della loro nazione… ma
 
-#Si è gettato subito con impazienza nel tema che interessava maggiormente a Grock
+Si è gettato subito con impazienza nel tema che interessava maggiormente a Grock
 
-Desiderava essere lasciato [[Alone|solo]]; l'oggetto di questo infernale Polo, lui.
+Desiderava essere lasciato solo; l'oggetto di questo infernale Polo, lui.
 
 Popolarità e il suo pericolo: poiché il Principe aveva sentito parlare di alcune delle…
 
 Le canzoni di quell’uomo venivano cantate in metà delle opere d’Europa.
 
-“Parlare di giustiziare un uomo in quel modo è pura [[Madness|pazzia]]”, disse il Principe.
+“Parlare di giustiziare un uomo in quel modo è pura [[concepts/madness|pazzia]]”, disse il Principe.
 
 Con il viso cupo sotto il suo elmo nero… “Non è un semplice polacco. Lui è…”
 
-#Un’istituzione europea… Verrà rimpianto e venerato da noi.
+Un’istituzione europea… Verrà rimpianto e venerato da noi.
 
 
 
@@ -11072,7 +11072,7 @@ be dead.  He would be deified; but he would be dead.  Whatever he
 
 means to do, he would never do it.  Whatever he is doing, he would
 
-do no more.  [[Death]] is the fact of all facts; and I am rather fond
+do no more.  [[motifs/death|Death]] is the fact of all facts; and I am rather fond
 
 of facts."
 
@@ -11086,11 +11086,11 @@ black and white post of the Fatherland."
 
 for a quarrel with Weimar!"
 
-"For the safety of your Royal [[house|House]]," answered Grock, "without one
+"For the safety of your Royal House," answered Grock, "without one
 
 instant's hesitation."
 
-There was a short [[Silence|silence]] and the Prince said sharply and suddenly:
+There was a short [[motifs/silence|silence]] and the Prince said sharply and suddenly:
 
 "What does this mean?"
 
@@ -11100,7 +11100,7 @@ Marshal steadily.  "I have already myself sent orders for the
 
 execution of Petrowski."
 
-The Prince [[Rose|rose]] like a great dark eagle, the swirl of his cloak
+The Prince [[motifs/rose|rose]] like a great dark eagle, the swirl of his cloak
 
 like the sweep of mighty wings; and all men knew that a wrath
 
@@ -11114,17 +11114,17 @@ stocky man with a square head, who had stood in the background as
 
 motionless as a stone.
 
-"Who has the best [[Horse|horse]] in your cavalry division, General?  Who is
+"Who has the best [[motifs/horse|horse]] in your cavalry division, General?  Who is
 
 the best rider?"
 
-"Arnold Von Schacht has a [[Horse|horse]] that might beat a racehorse,"
+"Arnold Von Schacht has a [[motifs/horse|horse]] that might beat a racehorse,"
 
-replied the General promptly.  "And rides it as [[Well|well]] as a jockey.
+replied the General promptly.  "And rides it as [[motifs/well|well]] as a jockey.
 
 He is of the White Hussars."
 
-"Very [[Well|well]]," said the Prince, with the same new ring in his voice.
+"Very [[motifs/well|well]]," said the Prince, with the same new ring in his voice.
 
 "Let him ride at once after the man with this mad message and stop
 
@@ -11140,7 +11140,7 @@ overriding all other orders, for the reprieve and release of
 
 Petrowski the Pole.
 
-Then amid a dead [[Silence|silence]], in the midst of which old Grock stood
+Then amid a dead [[motifs/silence|silence]], in the midst of which old Grock stood
 
 with an unblinking stare like a stone idol of prehistoric times, he
 
@@ -11156,7 +11156,7 @@ medal on the white uniform of the Hussars, clicked his heels, and
 
 received the folded paper from the Prince; then, striding out, he
 
-sprang on his [[Horse|horse]] and flew along the high, narrow [[Road|road]] like a
+sprang on his [[motifs/horse|horse]] and flew along the high, narrow [[motifs/road|road]] like a
 
 silver arrow or a shooting star.
 
@@ -11176,7 +11176,7 @@ and wiry man, with a great scar across his jaw, rather dark for a
 
 German, unless all his colours had been changed by years of smoke
 
-and [[Storm|storm]] and bad weather.  He saluted and stood stiffly at
+and [[motifs/storm|storm]] and bad weather.  He saluted and stood stiffly at
 
 attention, as the Marshal slowly raised his eyes to him.  And vast
 
@@ -11186,7 +11186,7 @@ him, and that one battered non-commissioned officer, it is true
 
 that of all the men who have talked in this tale, these two men
 
-[[Alone|alone]] looked and understood each other without words.
+alone looked and understood each other without words.
 
 "Sergeant," said the Marshal, curtly, "I have seen you twice
 
@@ -11202,7 +11202,7 @@ shooting that damned old woman who would not give us information
 
 about the ambush.  The incident caused considerable comment at the
 
-[[Time|time]], even in some of our own circles.  Influence, however, was
+[[motifs/time|time]], even in some of our own circles.  Influence, however, was
 
 exerted on your side.  My influence."
 
@@ -11216,15 +11216,15 @@ point essential to his own safety and that of the Fatherland.
 
 Under this error, he has rashly sent a reprieve to the Pole
 
-Petrowski, who is to be executed to-[[Night|night]].  I repeat: who is to be
+Petrowski, who is to be executed to-[[motifs/night|night]].  I repeat: who is to be
 
-executed to-[[Night|night]].  You must immediately ride after Von Schacht,
+executed to-[[motifs/night|night]].  You must immediately ride after Von Schacht,
 
 who carried the reprieve, and stop him."
 
-"I can hardly [[Hope|hope]] to overtake him, Marshal," said Sergeant
+"I can hardly [[concepts/hope|hope]] to overtake him, Marshal," said Sergeant
 
-Schwartz.  "He has the swiftest [[Horse|horse]] in the regiment, and is the
+Schwartz.  "He has the swiftest [[motifs/horse|horse]] in the regiment, and is the
 
 finest rider."
 
@@ -11238,7 +11238,7 @@ dragged still more ponderously, but without a pause.  "The
 
 discharge of a carbine might attract his attention."
 
-And then the dark sergeant saluted for the third [[Time|time]]; and his grim
+And then the dark sergeant saluted for the third [[motifs/time|time]]; and his grim
 
 mouth was again shut tight.
 
@@ -11256,7 +11256,7 @@ And Sergeant Schwartz smiled still more grimly; and he also,
 
 lifting the flap of the tent, went out into the darkness and
 
-mounted his [[Horse|horse]] and rode.
+mounted his [[motifs/horse|horse]] and rode.
 
 The last of the three riders was even less likely than the first to
 
@@ -11275,7 +11275,7 @@ Alleati… da parte dei nostri amici, persino dai nostri connazionali tedeschi. 
 
 “Non lo farebbe mai. Qualunque cosa stia facendo, lui…”
 
-Non farlo più. La [[Death|Morte]] è il fatto di tutti i fatti. E a me piace abbastanza.
+Non farlo più. La [[motifs/death|Morte]] è il fatto di tutti i fatti. E a me piace abbastanza.
 
 di fatti.
 
@@ -11293,13 +11293,13 @@ A causa di una lite con Weimar!
 
 “Un attimo di esitazione, ”
 
-Ci fu un breve [[Silence|silenzio]], poi il Principe disse bruscamente e all’improvviso:
+Ci fu un breve [[motifs/silence|silenzio]], poi il Principe disse bruscamente e all’improvviso:
 
 “Cosa significa questo?”
 
 “Significa che non ho esitato nemmeno per un istante,” rispose.
 
-#"Avanzare con determinazione. Ho già inviato personalmente gli ordini necessari."
+"Avanzare con determinazione. Ho già inviato personalmente gli ordini necessari."
 
 Esecuzione di Petrowski.
 
@@ -11309,7 +11309,7 @@ Come il battito potente di ali imponenti… E tutti sapevano che si trattava di 
 
 Oltre le semplici parole, ciò lo aveva reso un uomo d’azione… Lui stesso non lo ammetteva nemmeno.
 
-#"Parla con Von Grock… ma parlando sopra la sua testa."
+"Parla con Von Grock… ma parlando sopra la sua testa."
 
 “Voce rivolta al secondo in comando, il generale Von Voglen…”
 
@@ -11317,11 +11317,11 @@ Uomo robusto con la testa quadrata, che era rimasto in piedi in secondo piano…
 
 Immobile come una pietra.
 
-“Chi possiede il miglior [[Horse|cavallo]] nella vostra divisione di cavalleria, Generale? Chi è, ”
+“Chi possiede il miglior [[motifs/horse|cavallo]] nella vostra divisione di cavalleria, Generale? Chi è, ”
 
 “Il miglior cavaliere?”
 
-Arnold Von Schacht possiede un [[Horse|cavallo]] che potrebbe battere un cavallo da corsa.
+Arnold Von Schacht possiede un [[motifs/horse|cavallo]] che potrebbe battere un cavallo da corsa.
 
 Rispose prontamente il Generale: “E lo monta altrettanto bene di un fantino.”
 
@@ -11329,9 +11329,9 @@ Appartiene agli Ussari Bianchi.
 
 “Molto bene,” disse il Principe, con la stessa nuova intonazione nella voce.
 
-#"Che vada subito all’inseguimento di quell’uomo con questo messaggio folle e lo fermi."
+"Che vada subito all’inseguimento di quell’uomo con questo messaggio folle e lo fermi."
 
-#Gli darò l’autorità che ritengo sia necessaria…
+Gli darò l’autorità che ritengo sia necessaria…
 
 Il maresciallo non obietterà. Portatemi penna e inchiostro.
 
@@ -11339,7 +11339,7 @@ Si sedette, scuotendo il mantello, e gli portarono carta e inchiostro per scrive
 
 Materiali… E scrisse l’ordine con fermezza e con un certo slancio.
 
-# Sovrascrivere tutti gli altri ordini: per la sospensione e il rilascio di…
+Sovrascrivere tutti gli altri ordini: per la sospensione e il rilascio di…
 
 Petrowski il Polacco.
 
@@ -11357,15 +11357,15 @@ Giovani attivi, che sembrano più ragazzi, ma indossano più di uno…
 
 “Medaglia sulla divisa bianca degli ussari… batté i tacchi e…”
 
-# Ricevette il foglio piegato dal Principe; poi, uscendo con passo deciso…
+Ricevette il foglio piegato dal Principe; poi, uscendo con passo deciso…
 
-Salì sul suo [[Horse|cavallo]] e si precipitò lungo la stretta e alta [[Road|strada]] come un.
+Salì sul suo [[motifs/horse|cavallo]] e si precipitò lungo la stretta e alta [[motifs/road|strada]] come un.
 
 Una freccia d’argento o una stella cadente.
 
 Il vecchio maresciallo tornò lentamente e con calma alla sua tenda, lentamente…
 
-# Con calma si tolse il elmo decorato di punte e gli occhiali, e li posò da parte
+Con calma si tolse il elmo decorato di punte e gli occhiali, e li posò da parte
 
 “Sul tavolo, come prima… Poi chiamò un inserviente.”
 
@@ -11373,15 +11373,15 @@ Il vecchio maresciallo tornò lentamente e con calma alla sua tenda, lentamente�
 
 Gusarri immediatamente.
 
-#Un minuto dopo, si presentò davanti al Maresciallo un uomo magro e pallido
+Un minuto dopo, si presentò davanti al Maresciallo un uomo magro e pallido
 
-# Un uomo snello e muscoloso, con una grande cicatrice sul mento… piuttosto scuro di pelle per essere…
+Un uomo snello e muscoloso, con una grande cicatrice sul mento… piuttosto scuro di pelle per essere…
 
 “Tedesco… a meno che i suoi colori non siano stati alterati negli anni dal fumo.”
 
-E la [[Storm|tempesta]] e il cattivo tempo. Salutò e rimase fermo in piedi, rigido come una statua.
+E la [[motifs/storm|tempesta]] e il cattivo tempo. Salutò e rimase fermo in piedi, rigido come una statua.
 
-# Attenzione… mentre il Maresciallo alzava lentamente lo sguardo verso di lui. E un mondo immenso…
+Attenzione… mentre il Maresciallo alzava lentamente lo sguardo verso di lui. E un mondo immenso…
 
 Come l’abisso che separava il Maresciallo Imperiale dai generali sotto di lui…
 
@@ -11389,11 +11389,11 @@ Come l’abisso che separava il Maresciallo Imperiale dai generali sotto di lui�
 
 Tra tutti gli uomini che hanno parlato in questa storia, questi due…
 
-[[Alone|Da soli]], si guardarono e si capirono senza bisogno di parole.
+Da soli, si guardarono e si capirono senza bisogno di parole.
 
 “Sergente,” disse il Maresciallo in tono secco, “ti ho visto due volte.”
 
-#Prima… Una volta, credo, quando hai vinto il premio di tutto l’esercito
+Prima… Una volta, credo, quando hai vinto il premio di tutto l’esercito
 
 per la sua abilità nel tiro con il fucile a carabina.
 
@@ -11401,11 +11401,11 @@ Il sergente fece il saluto senza dire nulla.
 
 “E ancora una volta,” proseguì Von Grock, “quando foste interrogati…”
 
-#Uccidere quella maledetta vecchia che non voleva darci informazioni
+Uccidere quella maledetta vecchia che non voleva darci informazioni
 
-#Sull’imboscata. L’incidente suscitò molti commenti.
+Sull’imboscata. L’incidente suscitò molti commenti.
 
-Nel [[Time|tempo]], anche all’interno dei nostri stessi circoli. Tuttavia, l’influenza.
+Nel [[motifs/time|tempo]], anche all’interno dei nostri stessi circoli. Tuttavia, l’influenza.
 
 Esercitato dal tuo lato. La mia influenza.
 
@@ -11417,7 +11417,7 @@ Continuò a parlare in modo monotono, ma stranamente schietto.
 
 Un aspetto essenziale per la sua stessa sicurezza e per quella della Patria.
 
-#Sotto questo errore, ha inviato imprudentemente un provvedimento di sospensione temporanea al Polo.
+Sotto questo errore, ha inviato imprudentemente un provvedimento di sospensione temporanea al Polo.
 
 Petrowski, che sarà giustiziato stasera. Ripeto: che sarà giustiziato stasera.
 
@@ -11437,17 +11437,17 @@ Grock… Poi continuò più lentamente: “Spesso un uomo può essere fermato…
 
 Richiamato da vari segnali: urla o spari. La sua voce
 
-#"Trascinato ancora più pesantemente, ma senza mai fermarsi." "Il"
+"Trascinato ancora più pesantemente, ma senza mai fermarsi." "Il"
 
 Il caricamento di un fucile a carabina potrebbe attirare la sua attenzione.
 
-E poi il sergente scuro salutò per la terza [[Time|volta]]; e il suo volto cupo.
+E poi il sergente scuro salutò per la terza [[motifs/time|volta]]; e il suo volto cupo.
 
 La bocca fu nuovamente chiusa ermeticamente.
 
 “Il mondo cambia,” disse Grock, “non per ciò che si dice, o per…
 
-# È giudicato o lodato in base a ciò che si fa… Il mondo non lo capisce mai.
+È giudicato o lodato in base a ciò che si fa… Il mondo non lo capisce mai.
 
 Recupera da ciò che è stato fatto… In questo momento, l’uccisione di un uomo…
 
@@ -11457,13 +11457,13 @@ Da un lato d'acciaio, e aggiunse: “Voglio dire, naturalmente, Petrowski.”
 
 E il sergente Schwartz sorrise ancora più cupamente; anche lui…
 
-#Aprendo la falda della tenda, uscì nella oscurità…
+Aprendo la falda della tenda, uscì nella oscurità…
 
-Salì sul suo [[Horse|cavallo]] e partì al galoppo.
+Salì sul suo [[motifs/horse|cavallo]] e partì al galoppo.
 
 L’ultimo dei tre cavalieri aveva ancora meno possibilità del primo…
 
-# Abbandonarsi alle idee fantasiose per il puro piacere di farlo… Ma perché lui…
+Abbandonarsi alle idee fantasiose per il puro piacere di farlo… Ma perché lui…
 
 
 
@@ -11472,7 +11472,7 @@ L’ultimo dei tre cavalieri aveva ancora meno possibilità del primo…
 
 also was in some imperfect manner human, he could not but feel, on
 
-such a [[Night|night]] and such an errand, the oppressiveness of that inhuman
+such a [[motifs/night|night]] and such an errand, the oppressiveness of that inhuman
 
 landscape.  While he rode along that one abrupt ridge, there spread
 
@@ -11492,7 +11492,7 @@ of all things.
 
 He was atheist, like so many thousands of dull, clever men in
 
-Northern [[Germany]]; but he was not that happier sort of pagan who can
+Northern [[settings/germany|Germany]]; but he was not that happier sort of pagan who can
 
 see in human progress a natural flowering of the earth.  That world
 
@@ -11510,7 +11510,7 @@ seen from above like a sprawling map, seemed more like the chart of
 
 a disease than a development; and the land-locked pools might have
 
-been of [[Poison|poison]] rather than [[Water|water]].  He remembered some humanitarian
+been of [[motifs/poison|poison]] rather than [[motifs/water|water]].  He remembered some humanitarian
 
 fuss or other about the poisoning of pools.
 
@@ -11518,9 +11518,9 @@ But the reflections of the sergeant, like most reflections of men
 
 not normally reflective, had a root in some subconscious strain on
 
-his nerves and his practical intelligence.  The [[Truth|truth]] was that the
+his nerves and his practical intelligence.  The [[concepts/truth|truth]] was that the
 
-straight [[Road|road]] before him was not only dreary, but seemed
+straight [[motifs/road|road]] before him was not only dreary, but seemed
 
 interminably long.  He would never have believed he could have
 
@@ -11530,13 +11530,13 @@ followed.  Von Schacht must indeed have the fleetest of horses to
 
 have got so far ahead already; for, after all, he had only started,
 
-at whatever [[Speed|speed]], within a comparatively short [[Time|time]].  As Schwartz
+at whatever [[characters/speed|speed]], within a comparatively short [[motifs/time|time]].  As Schwartz
 
 had said, he hardly expected to overtake him; but a very realistic
 
 sense of the distances involved had told him that he must very soon
 
-come in sight of him.  And then, just as [[Despair|despair]] was beginning to
+come in sight of him.  And then, just as [[concepts/despair|despair]] was beginning to
 
 descend and spread itself vaguely over the desolate landscape, he
 
@@ -11570,9 +11570,9 @@ deformed.  He was hanging like a humpback over the saddle; and
 
 Schwartz, with his exact eye and long experience, was certain that
 
-his victim was shot through the [[Body|body]]; and almost certain that he
+his victim was shot through the [[concepts/body|body]]; and almost certain that he
 
-was shot through the heart.  Then he brought the [[Horse|horse]] down with a
+was shot through the heart.  Then he brought the [[motifs/horse|horse]] down with a
 
 second shot; and the whole equestrian group heeled over and slipped
 
@@ -11586,7 +11586,7 @@ headed men of his sort are generally very precise about what they
 
 are doing; that is why they are so often quite wrong about what
 
-they do.  He had outraged the [[Comradeship|comradeship]] that is the [[Soul|soul]] of
+they do.  He had outraged the [[concepts/comradeship|comradeship]] that is the [[motifs/soul|soul]] of
 
 armies; he had killed a gallant officer who was in the performance
 
@@ -11606,7 +11606,7 @@ The man carrying the reprieve was certainly dead; and even if by
 
 some miracle he were only dying, he could not conceivably have
 
-ridden his dead or dying [[Horse|horse]] to the town in [[Time|time]] to prevent the
+ridden his dead or dying [[motifs/horse|horse]] to the town in [[motifs/time|time]] to prevent the
 
 execution.  No; on the whole it was much more practical and prudent
 
@@ -11616,11 +11616,11 @@ desperate project.  With his whole strength he leaned on the
 
 strength of the great Marshal.
 
-And truly the great Marshal had this [[Greatness|greatness]] about him; that
+And truly the great Marshal had this [[concepts/greatness|greatness]] about him; that
 
 after the monstrous thing he had done, or caused to be done, he
 
-disdained to show any [[Fear|fear]] of facing the facts on the spot or the
+disdained to show any [[concepts/fear|fear]] of facing the facts on the spot or the
 
 compromising possibilities of keeping in touch with his tool.  He
 
@@ -11638,9 +11638,9 @@ remained some danger from popular resentment.
 
 "Is it here, then, Marshal?" asked the sergeant in a low voice.  "I
 
-fancied it was further on; but it's a fact the infernal [[Road|road]] seemed
+fancied it was further on; but it's a fact the infernal [[motifs/road|road]] seemed
 
-to lengthen out like a [[nightmare]]."
+to lengthen out like a nightmare."
 
 "It is here," answered Grock, and swung himself heavily from saddle
 
@@ -11648,7 +11648,7 @@ and stirrup, and then went to the edge of the long parapet and
 
 looked down.
 
-The [[Moon|moon]] had risen over the marshes and gone up strengthening in
+The [[motifs/moon|moon]] had risen over the marshes and gone up strengthening in
 
 splendour and gleaming on dark waters and green scum; and in the
 
@@ -11661,7 +11661,7 @@ a sort of luminous and radiant ruin, all that was left of one of
 
 era anche lui in qualche modo imperfetto umano, non poteva non sentire, in
 
-una tale [[Night|notte]] e una tale missione, l'oppressione di quel disumano
+una tale [[motifs/night|notte]] e una tale missione, l'oppressione di quel disumano
 
 paesaggio.  Mentre cavalcava lungo quell'unico brusco crinale, si stendeva
 
@@ -11681,7 +11681,7 @@ di tutte le cose.
 
 Era ateo, come tante migliaia di uomini ottusi e acuti nella
 
-[[Germany|Germania]] settentrionale; ma non era quella specie più felice di pagano che sa
+[[settings/germany|Germania]] settentrionale; ma non era quella specie più felice di pagano che sa
 
 vedere nel progresso umano un naturale fiorire della terra.  Quel mondo
 
@@ -11699,7 +11699,7 @@ viste dall'alto come una mappa distesa, sembravano più la carta di
 
 una malattia che di uno sviluppo; e gli stagni chiusi tra le terre potevano
 
-essere stati di [[Poison|veleno]] anziché d'[[Water|acqua]].  Ricordava qualche polemica umanitaria
+essere stati di [[motifs/poison|veleno]] anziché d'[[motifs/water|acqua]].  Ricordava qualche polemica umanitaria
 
 o altro sull'avvelenamento degli stagni.
 
@@ -11707,9 +11707,9 @@ Ma le riflessioni del sergente, come la maggior parte delle riflessioni di uomin
 
 non normalmente riflessivi, avevano radice in qualche subconscia tensione sui
 
-suoi nervi e sulla sua intelligenza pratica.  La [[Truth|verità]] era che la
+suoi nervi e sulla sua intelligenza pratica.  La [[concepts/truth|verità]] era che la
 
-diritta [[Road|strada]] davanti a lui non era soltanto tetra, ma sembrava
+diritta [[motifs/road|strada]] davanti a lui non era soltanto tetra, ma sembrava
 
 interminabilmente lunga.  Non avrebbe mai creduto di aver potuto
 
@@ -11719,13 +11719,13 @@ seguiva.  Von Schacht doveva davvero avere il più veloce dei cavalli per
 
 aver preso già tanto vantaggio; poiché, dopotutto, era partito soltanto,
 
-a qualunque [[Speed|velocità]], da un [[Time|tempo]] relativamente breve.  Come Schwartz
+a qualunque [[characters/speed|velocità]], da un [[motifs/time|tempo]] relativamente breve.  Come Schwartz
 
 aveva detto, egli a stento si aspettava di raggiungerlo; ma un senso assai
 
 realistico delle distanze in gioco gli aveva detto che doveva assai presto
 
-giungere in vista di lui.  E allora, proprio mentre la [[Despair|disperazione]] cominciava a
+giungere in vista di lui.  E allora, proprio mentre la [[concepts/despair|disperazione]] cominciava a
 
 calare e a spandersi vagamente sul desolato paesaggio, lo
 
@@ -11759,9 +11759,9 @@ deforme.  Pendeva come un gobbo sopra la sella; e
 
 Schwartz, col suo occhio esatto e la lunga esperienza, era certo che
 
-la sua vittima fosse colpita attraverso il [[Body|corpo]]; e quasi certo che
+la sua vittima fosse colpita attraverso il [[concepts/body|corpo]]; e quasi certo che
 
-fosse colpita attraverso il cuore.  Poi abbatté il [[Horse|cavallo]] con un
+fosse colpita attraverso il cuore.  Poi abbatté il [[motifs/horse|cavallo]] con un
 
 secondo colpo; e l'intero gruppo equestre si rovesciò e scivolò
 
@@ -11775,7 +11775,7 @@ dalla testa dura del suo genere sono in generale assai precisi su ciò che
 
 stanno facendo; ecco perché tanto spesso hanno del tutto torto su ciò che
 
-fanno.  Aveva oltraggiato il [[Comradeship|cameratismo]] che è l'[[Soul|anima]] degli
+fanno.  Aveva oltraggiato il [[concepts/comradeship|cameratismo]] che è l'[[motifs/soul|anima]] degli
 
 eserciti; aveva ucciso un valoroso ufficiale che era nell'adempimento
 
@@ -11795,7 +11795,7 @@ L'uomo che portava la grazia era certamente morto; e anche se per
 
 qualche miracolo fosse stato solo morente, non avrebbe concepibilmente potuto
 
-cavalcare il suo [[Horse|cavallo]] morto o morente fino alla città in [[Time|tempo]] per impedire l'
+cavalcare il suo [[motifs/horse|cavallo]] morto o morente fino alla città in [[motifs/time|tempo]] per impedire l'
 
 esecuzione.  No; nel complesso era assai più pratico e prudente
 
@@ -11805,11 +11805,11 @@ disperato progetto.  Con tutta la sua forza si appoggiava alla
 
 forza del grande Maresciallo.
 
-E davvero il grande Maresciallo aveva questa [[Greatness|grandezza]]; che
+E davvero il grande Maresciallo aveva questa [[concepts/greatness|grandezza]]; che
 
 dopo la cosa mostruosa che aveva fatto, o fatto fare, egli
 
-sdegnava di mostrare alcuna [[Fear|paura]] di affrontare i fatti sul posto o le
+sdegnava di mostrare alcuna [[concepts/fear|paura]] di affrontare i fatti sul posto o le
 
 compromettenti eventualità di restare in contatto col suo strumento.  Egli
 
@@ -11827,9 +11827,9 @@ restava qualche pericolo dal risentimento popolare.
 
 "È qui, allora, Maresciallo?" chiese il sergente a bassa voce.  "Mi
 
-era parso fosse più avanti; ma è un fatto che l'infernale [[Road|strada]] sembrava
+era parso fosse più avanti; ma è un fatto che l'infernale [[motifs/road|strada]] sembrava
 
-allungarsi come un [[nightmare|incubo]]."
+allungarsi come un incubo."
 
 "È qui," rispose Grock, e si calò pesantemente da sella e
 
@@ -11837,7 +11837,7 @@ staffa, e poi andò all'orlo del lungo parapetto e
 
 guardò giù.
 
-La [[Moon|luna]] era sorta sulle paludi e si era levata rafforzandosi in
+La [[motifs/moon|luna]] era sorta sulle paludi e si era levata rafforzandosi in
 
 splendore e brillando su acque scure e schiuma verde; e nel
 
@@ -11852,7 +11852,7 @@ una sorta di luminoso e radioso relitto, tutto ciò che restava di uno di
 
 those superb white horses and white horsemen of his old brigade.
 
-Nor was the [[Identity|identity]] doubtful; the [[Moon|moon]] made a sort of aureole of
+Nor was the [[concepts/identity|identity]] doubtful; the [[motifs/moon|moon]] made a sort of aureole of
 
 the curled golden hair of young Arnold, the second rider and the
 
@@ -11868,17 +11868,17 @@ armour of Sir Galahad; and there could scarcely have been a more
 
 horrible contrast than that between such fallen grace and youth
 
-below and the rocky and [[Grotesque|grotesque]] figure looking down from above.
+below and the rocky and [[concepts/grotesque|grotesque]] figure looking down from above.
 
 Grock had taken off his helmet again; and though it is possible
 
-that this was the vague [[Shadow|shadow]] of some funereal form of respect,
+that this was the vague [[archetypes/shadow|shadow]] of some funereal form of respect,
 
 its visible effect was that the queer naked head and neck like that
 
-of a pachyderm glittered stonily in the [[Moon|moon]], like the hairless
+of a pachyderm glittered stonily in the [[motifs/moon|moon]], like the hairless
 
-head and neck of some [[Monster|monster]] of the Age of Stone.  Rops, or some
+head and neck of some [[archetypes/monster|monster]] of the Age of Stone.  Rops, or some
 
 such etcher of the black, fantastic German schools, might have
 
@@ -11888,39 +11888,39 @@ looking down on the broken wings and white and golden armour of
 
 some defeated champion of the Cherubim.
 
-Grock said no [[Prayer|prayer]] and uttered no pity; but in some dark way his
+Grock said no [[motifs/prayer|prayer]] and uttered no pity; but in some dark way his
 
 mind was moved, as even the dark and mighty swamp will sometimes
 
 move like a living thing; and as such men will, when feeling for
 
-the first [[Time|time]] faintly on their defence before they know not what,
+the first [[motifs/time|time]] faintly on their defence before they know not what,
 
-he tried to formulate his only [[Faith|faith]] and confront it with the stark
+he tried to formulate his only [[concepts/faith|faith]] and confront it with the stark
 
-universe and the staring [[Moon|moon]].
+universe and the staring [[motifs/moon|moon]].
 
 "After and before the deed the German Will is the same.  It cannot
 
-be broken by changes and by [[Time|time]], like that of those others who
+be broken by changes and by [[motifs/time|time]], like that of those others who
 
-repent.  It stands outside [[Time|time]] like a thing of stone, looking
+repent.  It stands outside [[motifs/time|time]] like a thing of stone, looking
 
 forward and backward with the same face."
 
-The [[Silence|silence]] that followed lasted long enough to please his cold
+The [[motifs/silence|silence]] that followed lasted long enough to please his cold
 
-[[Vanity|vanity]] with a certain sense of portent; as if a stone figure had
+[[concepts/vanity|vanity]] with a certain sense of portent; as if a stone figure had
 
-spoken in a valley of [[Silence|silence]].  But the [[Silence|silence]] began to thrill
+spoken in a valley of [[motifs/silence|silence]].  But the [[motifs/silence|silence]] began to thrill
 
 once more with a distant whisper which was the faint throb of
 
 horsehoofs; and a moment later the sergeant came galloping, or
 
-rather racing, back along the uplifted [[Road|road]], and his scarred and
+rather racing, back along the uplifted [[motifs/road|road]], and his scarred and
 
-swarthy visage was no longer merely grim but ghastly in the [[Moon|moon]].
+swarthy visage was no longer merely grim but ghastly in the [[motifs/moon|moon]].
 
 "Marshal," he said, saluting with a strange stiffness, "I have seen
 
@@ -11934,7 +11934,7 @@ down and in some abstraction.
 
 risen from the dead."
 
-He stared in front of him at the [[Moon|moon]] and marshes; but, indeed,
+He stared in front of him at the [[motifs/moon|moon]] and marshes; but, indeed,
 
 though he was far from being a visionary character, it was not
 
@@ -11952,11 +11952,11 @@ figured in so many private albums and illustrated magazines.  And
 
 behind him he had seen that Polish town aflame with flags and
 
-firebrands and a population boiling with triumphant [[Hero|hero]]-worship,
+firebrands and a population boiling with triumphant [[archetypes/hero|hero]]-worship,
 
-though perhaps less hostile to the [[government]] than it might have
+though perhaps less hostile to the government than it might have
 
-been, since it was rejoicing at the release of its popular [[Hero|hero]].
+been, since it was rejoicing at the release of its popular [[archetypes/hero|hero]].
 
 "Do you mean," cried Grock with a sudden croaking stridency of
 
@@ -11974,7 +11974,7 @@ messenger came from our camp at all?"
 
 "No messenger at all," said the sergeant.
 
-There was a much longer [[Silence|silence]], and then Grock said, hoarsely:
+There was a much longer [[motifs/silence|silence]], and then Grock said, hoarsely:
 
 "What in the name of hell has happened?  Can you think of anything
 
@@ -11988,11 +11988,11 @@ When Mr. Pond had told the story up to this point, he paused with
 
 an irritating blankness of expression.
 
-"[[Well]]," said Gahagan impatiently, "and do YOU know anything that
+"[[motifs/well|Well]]," said Gahagan impatiently, "and do YOU know anything that
 
 would explain it all?"
 
-"[[Well]], I think I do," said Mr. Pond meekly.  "You see, I had to
+"[[motifs/well|Well]], I think I do," said Mr. Pond meekly.  "You see, I had to
 
 worry it out for myself, when the report came round to my
 
@@ -12010,33 +12010,33 @@ confidently before the cabbage.  He despised stupid men even on his
 
 own staff; and treated Von Hocheimer, the first messenger, as a
 
-piece of furniture merely because he looked like a [[Fool|fool]]; but the
+piece of furniture merely because he looked like a [[archetypes/fool|fool]]; but the
 
-Lieutenant was not such a [[Fool|fool]] as he looked.  He also understood
+Lieutenant was not such a [[archetypes/fool|fool]] as he looked.  He also understood
 
-what the great Marshal meant, quite as [[Well|well]] as the cynical
+what the great Marshal meant, quite as [[motifs/well|well]] as the cynical
 
 sergeant, who had done such dirty work all his life.  Hocheimer
 
-also understood the Marshal's peculiar moral [[philosophy]]: that an
+also understood the Marshal's peculiar moral philosophy: that an
 
 act is unanswerable even when it is indefensible.  He knew that
 
 what his commander wanted was simply the corpse of Petrowski; that
 
-he wanted it anyhow, at the expense of any [[Deception|deception]] of princes or
+he wanted it anyhow, at the expense of any [[concepts/deception|deception]] of princes or
 
 destruction of soldiers.  And when he heard a swifter horseman
 
-behind him, riding to overtake him, he knew as [[Well|well]] as Grock
+behind him, riding to overtake him, he knew as [[motifs/well|well]] as Grock
 
 himself that the new messenger must be carrying with him the
 
-message of the [[Mercy|mercy]] of the Prince.  Von Schacht, that very young
+message of the [[concepts/mercy|mercy]] of the Prince.  Von Schacht, that very young
 
 but gallant officer, looking like the very embodiment of all that
 
-more generous tradition of [[Germany]] that has been too much neglected
+more generous tradition of [[settings/germany|Germany]] that has been too much neglected
 
 in this tale, was worthy of the accident that made him the herald
 
@@ -12045,15 +12045,15 @@ in this tale, was worthy of the accident that made him the herald
 
 Quei magnifici cavalli bianchi e quei cavalieri in bianco della sua vecchia brigata.
 
-Né l’[[Identity|identità]] era dubbia; la [[Moon|luna]] creava una sorta di aureola intorno ad essa.
+Né l’[[concepts/identity|identità]] era dubbia; la [[motifs/moon|luna]] creava una sorta di aureola intorno ad essa.
 
 “Il capello dorato e ondulato del giovane Arnold, il secondo cavaliere…”
 
 Portatore della sospensione… e lo stesso bagliore misterioso della luna brillava ancora.
 
-# Non solo sui cinturoni e sui bottoni, ma anche sulle medaglie speciali…
+Non solo sui cinturoni e sui bottoni, ma anche sulle medaglie speciali…
 
-# Giovane soldato e i simboli della sua qualifica militare
+Giovane soldato e i simboli della sua qualifica militare
 
 “Un velo di luce affascinante… quasi come se fosse avvolto nel bianco.”
 
@@ -12061,7 +12061,7 @@ Armatura di Sir Galahad; e difficilmente si sarebbe potuta trovare una più adat
 
 Un contrasto terribile tra tanta grazia decaduta e la giovinezza…
 
-In basso, la figura rocciosa e [[Grotesque|grottesca]] che guarda verso il basso dall’alto.
+In basso, la figura rocciosa e [[concepts/grotesque|grottesca]] che guarda verso il basso dall’alto.
 
 Grock aveva di nuovo tolto il casco; e anche se è possibile…
 
@@ -12071,17 +12071,17 @@ L’effetto visibile di quella strana testa e collo nudi era…
 
 Di un pachiderma, i peli brillavano freddamente sotto la luna, come se fossero completamente privi di pelo.
 
-Testa e collo di qualche [[Monster|mostro]] dell’Età della Pietra. Corde, o qualcosa del genere.
+Testa e collo di qualche [[archetypes/monster|mostro]] dell’Età della Pietra. Corde, o qualcosa del genere.
 
 Un tale ritrattista delle straordinarie scuole artistiche tedesche avrebbe potuto…
 
-# Una bestia enorme e inumana, simile a un coleottero
+Una bestia enorme e inumana, simile a un coleottero
 
-# Guardando in basso le ali spezzate e l’armatura bianca e dorata…
+Guardando in basso le ali spezzate e l’armatura bianca e dorata…
 
 Un qualche campione sconfitto dei Cherubim.
 
-Grock non pronunciò alcuna [[Prayer|preghiera]] né mostrò alcuna pietà; ma in qualche modo oscuro.
+Grock non pronunciò alcuna [[motifs/prayer|preghiera]] né mostrò alcuna pietà; ma in qualche modo oscuro.
 
 Il cuore si commuove, proprio come talvolta anche le oscure e imponenti paludi…
 
@@ -12089,31 +12089,31 @@ Si muove come una creatura vivente; ed è proprio così che gli uomini agiranno,
 
 La prima volta che hanno cercato debolmente di difendersi, senza nemmeno sapere cosa stesse succedendo.
 
-Cercò di formulare la sua unica [[Faith|fede]] e di confrontarla con la realtà cruda.
+Cercò di formulare la sua unica [[concepts/faith|fede]] e di confrontarla con la realtà cruda.
 
 l’universo e la luna che fissava il vuoto.
 
 "Dopo e prima dell’atto, la volontà tedesca rimane immutata. Non può..."
 
-Viene distrutto dai cambiamenti e dal [[Time|tempo]], proprio come quello degli altri che.
+Viene distrutto dai cambiamenti e dal [[motifs/time|tempo]], proprio come quello degli altri che.
 
-Pentiti. Sta al di fuori del [[Time|tempo]], come una cosa di pietra, immobile e silenziosa.
+Pentiti. Sta al di fuori del [[motifs/time|tempo]], come una cosa di pietra, immobile e silenziosa.
 
 Avanti e indietro, sempre con la stessa faccia.
 
-Il [[Silence|silenzio]] che seguì durò abbastanza a lungo da soddisfare la sua freddezza.
+Il [[motifs/silence|silenzio]] che seguì durò abbastanza a lungo da soddisfare la sua freddezza.
 
-La [[Vanity|vanità]], con un certo senso di presagio; come se una statua di pietra avesse.
+La [[concepts/vanity|vanità]], con un certo senso di presagio; come se una statua di pietra avesse.
 
-Parlato in un valle di [[Silence|silenzio]]. Ma quel [[Silence|silenzio]] iniziò a vibrare.
+Parlato in un valle di [[motifs/silence|silenzio]]. Ma quel [[motifs/silence|silenzio]] iniziò a vibrare.
 
-#Ancora una volta, con un sussurro lontano… che era il debole battito di…
+Ancora una volta, con un sussurro lontano… che era il debole battito di…
 
 “Coppie di cavallo… E un attimo dopo il sergente arrivò al galoppo…”
 
 Piuttosto che correre, tornò indietro lungo la strada in salita, con il suo corpo segnato dalle cicatrici.
 
-Il volto scuro, sotto la luce della [[Moon|luna]], non era più soltanto cupo, ma orribile.
+Il volto scuro, sotto la luce della [[motifs/moon|luna]], non era più soltanto cupo, ma orribile.
 
 “Marshall,” disse, salutando con una strana rigidità, “ho visto…”
 
@@ -12127,29 +12127,29 @@ Giù, in un certo senso astratto.
 
 Risorto dai morti.
 
-Guardava fisso davanti a sé la [[Moon|luna]] e le paludi; ma, in realtà.
+Guardava fisso davanti a sé la [[motifs/moon|luna]] e le paludi; ma, in realtà.
 
-#Nonostante non fosse affatto un personaggio visionario…
+Nonostante non fosse affatto un personaggio visionario…
 
 Queste cose che aveva visto, ma piuttosto quelle che aveva appena visto.
 
-# Aveva davvero visto Paul Petrowski camminare vivo e sveglio…
+Aveva davvero visto Paul Petrowski camminare vivo e sveglio…
 
-#La strada principale di quella città polacca, illuminata in modo splendido…
+La strada principale di quella città polacca, illuminata in modo splendido…
 
-# All'inizio della diga; non si poteva sbagliare riguardo a quella figura snella
+All'inizio della diga; non si poteva sbagliare riguardo a quella figura snella
 
-#Uomo con capelli arricciati e una barba alla francese
+Uomo con capelli arricciati e una barba alla francese
 
 Apparso in molti album personali e riviste illustrate. E…
 
 Dietro di lui, aveva visto quella città polacca illuminata da bandiere e…
 
-Incendiari e una popolazione infuocata dal culto trionfante degli [[Hero|eroi]].
+Incendiari e una popolazione infuocata dal culto trionfante degli [[archetypes/hero|eroi]].
 
-Anche se forse meno ostile verso il [[government|governo]] di quanto avrebbe potuto essere.
+Anche se forse meno ostile verso il governo di quanto avrebbe potuto essere.
 
-Essendo stato così, poiché si stava rallegrando per la liberazione del suo popolare [[Hero|eroe]].
+Essendo stato così, poiché si stava rallegrando per la liberazione del suo popolare [[archetypes/hero|eroe]].
 
 “Intendi dire…”, gridò Grock con una voce improvvisamente stridula e rauca.
 
@@ -12168,9 +12168,9 @@ Titolo:
 
 “Nessun messaggero affatto,” disse il sergente.
 
-Ci fu un [[Silence|silenzio]] molto più lungo, poi Grock disse, con voce rauca:
+Ci fu un [[motifs/silence|silenzio]] molto più lungo, poi Grock disse, con voce rauca:
 
-# Che diavolo è successo? Riesci a pensare a qualcosa…
+Che diavolo è successo? Riesci a pensare a qualcosa…
 
 “Per spiegarlo tutto?”
 
@@ -12188,11 +12188,11 @@ Un'espressione vuota e irritante.
 
 “Beh,” disse il signor Pond in modo umile, “penso di sì. Vede, ho dovuto, ”
 
-#Me ne occuperò da solo quando il rapporto arriverà a me
+Me ne occuperò da solo quando il rapporto arriverà a me
 
-# Dipartimento… Nacque davvero da un eccesso di elementi prussiani.
+Dipartimento… Nacque davvero da un eccesso di elementi prussiani.
 
-#Obbedienza… Nacque anche da un eccesso di un altro prussiano.
+Obbedienza… Nacque anche da un eccesso di un altro prussiano.
 
 Debolezza: disprezzo. E tra tutte le passioni che accecano e folleggiano…
 
@@ -12204,33 +12204,33 @@ E ingannare gli uomini, il peggio di tutto è il disprezzo.
 
 Il proprio personale; e trattava Von Hocheimer, il primo messaggero, con particolare considerazione.
 
-Un pezzo di mobilia, solo perché assomigliava a un [[Fool|idiota]]; ma il.
+Un pezzo di mobilia, solo perché assomigliava a un [[archetypes/fool|idiota]]; ma il.
 
-Il tenente non era così [[Fool|stupido]] come sembrava; anche lui capiva le cose.
+Il tenente non era così [[archetypes/fool|stupido]] come sembrava; anche lui capiva le cose.
 
 Quello che il grande Maresciallo intendeva, proprio come lo capiva il cinico.
 
 Sergente che aveva compiuto opere così spregevoli per tutta la sua vita… Hocheimer
 
-Capì anche la particolare [[philosophy|filosofia]] morale del Maresciallo: che un.
+Capì anche la particolare filosofia morale del Maresciallo: che un.
 
 L’azione è inescusabile anche quando non può essere difesa. Lui lo sapeva.
 
 Quello che il suo comandante voleva era semplicemente il cadavere di Petrowski…
 
-Lo voleva comunque, a scapito di qualsiasi [[Deception|inganno]] da parte dei principi o.
+Lo voleva comunque, a scapito di qualsiasi [[concepts/deception|inganno]] da parte dei principi o.
 
 Distruzione dei soldati… E quando udì un cavaliere più veloce…
 
 Dietro di lui, mentre cercava di superarlo, sapeva tutto quanto Grock sapeva.
 
-#Il nuovo messaggero deve sicuramente portare con sé…
+Il nuovo messaggero deve sicuramente portare con sé…
 
-Un messaggio riguardante la [[Mercy|miseria]] del Principe. Von Schacht, così giovane.
+Un messaggio riguardante la [[concepts/mercy|miseria]] del Principe. Von Schacht, così giovane.
 
 Un ufficiale nobile e coraggioso, che sembrava l’incarnazione stessa di tutto ciò…
 
-Una tradizione più generosa della [[Germany|Germania]], che però è stata troppo trascurata.
+Una tradizione più generosa della [[settings/germany|Germania]], che però è stata troppo trascurata.
 
 In questa storia, egli era davvero degno dell’incidente che lo rese un messaggero importante.
 
@@ -12239,7 +12239,7 @@ In questa storia, egli era davvero degno dell’incidente che lo rese un messagg
 <span class="atom-split" data-atom="story_04_a_tall_story--part_07" data-title="MrPond — A Tall Story (part 7)" data-chapter="A Tall Story" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/death,motif/horse,motif/journey,motif/night,motif/prison,motif/road,motif/secrets,motif/water,motif/well,concept/self,form/epigram,character/pistol,character/speed"></span>
 
 
-of a more generous policy.  He came with the [[Speed|speed]] of that noble
+of a more generous policy.  He came with the [[characters/speed|speed]] of that noble
 
 horsemanship that has left behind it in Europe the very name of
 
@@ -12247,21 +12247,21 @@ chivalry, calling out to the other in a tone like a herald's
 
 trumpet to stop and stand and turn.  And Von Hocheimer obeyed.  He
 
-stopped, he reined in his [[Horse|horse]], he turned in his saddle; but his
+stopped, he reined in his [[motifs/horse|horse]], he turned in his saddle; but his
 
-hand held the carbine levelled like a [[Pistol|pistol]], and he shot the boy
+hand held the carbine levelled like a [[characters/pistol|pistol]], and he shot the boy
 
 between the eyes.
 
-"Then he turned again and rode on, carrying the [[Death|death]]-warrant of
+"Then he turned again and rode on, carrying the [[motifs/death|death]]-warrant of
 
-the Pole.  Behind him [[Horse|horse]] and man had crashed over the edge of
+the Pole.  Behind him [[motifs/horse|horse]] and man had crashed over the edge of
 
-the embankment, so that the whole [[Road|road]] was clear.  And along that
+the embankment, so that the whole [[motifs/road|road]] was clear.  And along that
 
-clear and open [[Road|road]] toiled in his turn the third messenger,
+clear and open [[motifs/road|road]] toiled in his turn the third messenger,
 
-marvelling at the interminable length of his [[Journey|journey]]; till he saw
+marvelling at the interminable length of his [[motifs/journey|journey]]; till he saw
 
 at last the unmistakable uniform of a Hussar like a white star
 
@@ -12271,7 +12271,7 @@ kill the second messenger, but the first.
 
 "That was why no messenger came alive to the Polish town that
 
-[[Night|night]].  That was why the prisoner walked out of his [[Prison|prison]] alive.
+[[motifs/night|night]].  That was why the prisoner walked out of his [[motifs/prison|prison]] alive.
 
 Do you think I was quite wrong in saying that Von Grock had two
 
@@ -12281,7 +12281,7 @@ THE CRIME OF CAPTAIN GAHAGAN
 
 It must be confessed that some people thought Mr. Pond a bore.  He
 
-had a weakness for long speeches, not out of [[Self|self]]-importance, but
+had a weakness for long speeches, not out of [[concepts/self|self]]-importance, but
 
 because he had an old-fashioned taste in literature; and had
 
@@ -12299,7 +12299,7 @@ Mr. Pond said (referring, I grieve to say, to the greater part of
 
 the female sex, at least in its most modern phase):  "They go so
 
-fast that they get no farther," he did not mean it as an [[Epigram|epigram]].
+fast that they get no farther," he did not mean it as an [[forms/epigram|epigram]].
 
 And somehow it did not sound epigrammatic; but only odd and
 
@@ -12315,7 +12315,7 @@ therefore and great glory belongs to anyone who could successfully
 
 stop Mr. Pond from making long speeches; and this laurel is for the
 
-brows of Miss Artemis Asa-[[smith|Smith]], of Pentapolis, Pa.  She came to
+brows of Miss Artemis Asa-Smith, of Pentapolis, Pa.  She came to
 
 interview Mr. Pond for The Live Wire, touching his alleged views on
 
@@ -12329,7 +12329,7 @@ murder, but--"
 
 "Forget it," said the young lady briefly.  "It's just too wonderful
 
-for me to be sitting here next to all [[Secrets|secrets]] of your [[government]];
+for me to be sitting here next to all [[motifs/secrets|secrets]] of your government;
 
 why--"
 
@@ -12345,7 +12345,7 @@ ended.
 
 We have all heard of American interviewers who rip up family
 
-[[Secrets|secrets]], break down bedroom doors and collect information in the
+[[motifs/secrets|secrets]], break down bedroom doors and collect information in the
 
 manner of burglars.  There are some; but there are also others.
 
@@ -12353,7 +12353,7 @@ There are, or were, when the writer remembers them, a very large
 
 number of intelligent men ready to discuss intelligent things; and
 
-there was Miss Asa-[[smith|Smith]].  She was small and dark; she was rather
+there was Miss Asa-Smith.  She was small and dark; she was rather
 
 pretty and would have been very pretty if she had not dipped her
 
@@ -12361,15 +12361,15 @@ lipstick in hues of earthquake and eclipse.  Her finger-nails were
 
 painted five different colours, looking like the paints in a
 
-[[Child|child]]'s paintbox; and she was as [[Innocent|innocent]] as a [[Child|child]].  She was also
+[[archetypes/child|child]]'s paintbox; and she was as [[archetypes/innocent|innocent]] as a [[archetypes/child|child]].  She was also
 
-as garrulous as a [[Child|child]].  She felt something paternal about Mr.
+as garrulous as a [[archetypes/child|child]].  She felt something paternal about Mr.
 
 Pond and told him everything.  He did not have to tell her
 
 anything.  No buried tragedies of the Pond family were dug up; no
 
-[[Secrets|secrets]] of the crimes committed behind Mr. Pond's bedroom door.
+[[motifs/secrets|secrets]] of the crimes committed behind Mr. Pond's bedroom door.
 
 Conversation, so to describe it, revolved largely round her early
 
@@ -12387,15 +12387,15 @@ written a play; and she just longed to read it to Mr. Pond.
 
 "I suppose we've all been tempted in desperate moments--"
 
-"[[Well]], I'm just desperate to read you this play, and--you know how
+"[[motifs/well|Well]], I'm just desperate to read you this play, and--you know how
 
 it is.  You see, my play's awfully MODERN.  But even the modernest
 
-people haven't done just that--I mean, beginning in the [[Water|water]] and
+people haven't done just that--I mean, beginning in the [[motifs/water|water]] and
 
 then--"
 
-"Beginning in the [[Water|water]]?" inquired Mr. Pond.
+"Beginning in the [[motifs/water|water]]?" inquired Mr. Pond.
 
 "Yes, isn't it just too--oh, you know.  I suppose they will have
 
@@ -12403,7 +12403,7 @@ all characters in bathing dresses soon--but they'll only just enter
 
 L. or R.; come on at the side, you know--and all the old stuff.  My
 
-characters enter from above, diving, with a splash--[[Well]], that'll
+characters enter from above, diving, with a splash--[[motifs/well|Well]], that'll
 
 be a splash, won't it?  I mean to say, it begins like that."  She
 
@@ -12427,24 +12427,24 @@ is the only splash by your--.'
 
 "She calls him Grandpa, you see, because 'splosh' means money in
 
-that ever-so-old comic [[Song|song]]--they're quite young really, of course,
+that ever-so-old comic song--they're quite young really, of course,
 
 and rather . . . you know.  But--"
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Di una politica più generosa. Arrivò con la [[Speed|velocità]] tipica di quella nobile persona.
+Di una politica più generosa. Arrivò con la [[characters/speed|velocità]] tipica di quella nobile persona.
 
-#"Equitazione che in Europa ha lasciato solo il nome..."
+"Equitazione che in Europa ha lasciato solo il nome..."
 
-#"Chivalry: un appello rivolto all’altro con tono da araldo"
+"Chivalry: un appello rivolto all’altro con tono da araldo"
 
 “La tromba che ordina di fermarsi, alzarsi in piedi e girare… E Von Hocheimer obbedì.”
 
-Si fermò, trattenne il suo [[Horse|cavallo]], girò sulla sella, ma il suo.
+Si fermò, trattenne il suo [[motifs/horse|cavallo]], girò sulla sella, ma il suo.
 
-Tenne il fucile in posizione orizzontale, come se fosse una [[Pistol|pistola]], e sparò al ragazzo.
+Tenne il fucile in posizione orizzontale, come se fosse una [[characters/pistol|pistola]], e sparò al ragazzo.
 
 Dritto negli occhi.
 
@@ -12452,23 +12452,23 @@ Poi si girò di nuovo e continuò il suo cammino, portando con sé l’ordine di
 
 Il Polo. Dietro di lui, cavallo e uomo erano caduti oltre il bordo.
 
-Il terrapieno fu rimosso, in modo che l’intera [[Road|strada]] fosse libera. E lungo quella strada.
+Il terrapieno fu rimosso, in modo che l’intera [[motifs/road|strada]] fosse libera. E lungo quella strada.
 
 Il terzo messaggero, a sua volta, lavorò sodo su quella strada chiara e aperta.
 
-Meravigliandosi della lunghezza infinita del suo [[Journey|viaggio]], fino a quando non vide.
+Meravigliandosi della lunghezza infinita del suo [[motifs/journey|viaggio]], fino a quando non vide.
 
 Finalmente, l’inconfondibile uniforme di un ussaro… simile a una stella bianca.
 
-#Scomparendo nella distanza, anche lui sparò… Solo che lui non…
+Scomparendo nella distanza, anche lui sparò… Solo che lui non…
 
 Uccidi il secondo messaggero, ma il primo prima di tutto.
 
 “Ecco perché nessun messaggero riuscì a raggiungere viva la città polacca…”
 
-[[Night|di notte]]. Ed è per questo che il prigioniero riuscì a uscire vivo dalla sua [[Prison|prigione]].
+[[motifs/night|di notte]]. Ed è per questo che il prigioniero riuscì a uscire vivo dalla sua [[motifs/prison|prigione]].
 
-# Pensi davvero che io abbia sbagliato dicendo che Von Grock ne aveva due?
+Pensi davvero che io abbia sbagliato dicendo che Von Grock ne aveva due?
 
 Servitori fedeli, ma forse uno di troppo?
 
@@ -12476,27 +12476,27 @@ Il crimine del capitano Gahagan
 
 Deve ammettersi che alcune persone ritenevano il signor Pond noioso… Lui
 
-Aveva una debolezza per i lunghi discorsi, non per un senso di [[Self|autoimportanza]], ma.
+Aveva una debolezza per i lunghi discorsi, non per un senso di [[concepts/self|autoimportanza]], ma.
 
-# Perché aveva un gusto letterario all’antica… e lo manteneva.
+Perché aveva un gusto letterario all’antica… e lo manteneva.
 
 Hanno ereditato inconsciamente l’abitudine di Gibbon, Butler o Burke.
 
 Anche i suoi paradossi non erano quelli che si definiscono “paradossi brillanti”.
 
-# Il termine “brillante” è da tempo considerato l’arma più potente…
+Il termine “brillante” è da tempo considerato l’arma più potente…
 
 Critica… ma il signor Pond non poteva essere distrutto o umiliato in alcun modo.
 
-# Carica di brillantezza. Pertanto, nel caso che ora andremo ad esaminare…
+Carica di brillantezza. Pertanto, nel caso che ora andremo ad esaminare…
 
-#Il signor Pond disse… (si riferisce, con dolore devo dire, alla maggior parte di…)
+Il signor Pond disse… (si riferisce, con dolore devo dire, alla maggior parte di…)
 
 Il sesso femminile, almeno nella sua fase più moderna: “Vanno così…”
 
-“Che non vadano oltre,” disse, ma non lo intendeva come un [[Epigram|epigrafo]].
+“Che non vadano oltre,” disse, ma non lo intendeva come un [[forms/epigram|epigrafo]].
 
-#E in qualche modo non suonava affatto epigrammatico… ma solo strano e bizzarro.
+E in qualche modo non suonava affatto epigrammatico… ma solo strano e bizzarro.
 
 Oscuri. E le signore a cui lo disse, in particolare l’onorevole.
 
@@ -12506,11 +12506,11 @@ Quando non era noioso, era soltanto confondente.
 
 Comunque, a volte il signor Pond si lasciava andare a lunghi discorsi… Trionfo
 
-# Pertanto, grande gloria appartiene a chiunque sia in grado di riuscirci con successo
+Pertanto, grande gloria appartiene a chiunque sia in grado di riuscirci con successo
 
-# Impedisci al signor Pond di tenere discorsi lunghi… e questo alloro è per te.
+Impedisci al signor Pond di tenere discorsi lunghi… e questo alloro è per te.
 
-Le pagine di Miss Artemis Asa-[[smith|Smith]], di Pentapolis, Pennsylvania. Lei venne qui.
+Le pagine di Miss Artemis Asa-Smith, di Pentapolis, Pennsylvania. Lei venne qui.
 
 Intervistare il signor Pond per “The Live Wire”, esaminando le sue presunte opinioni…
 
@@ -12518,15 +12518,15 @@ Il mistero dell’Haggis. E lei non gli permise nemmeno di dire una parola.
 
 “Credo,” iniziò il signor Pond, con una certa nervosità, “che il vostro articolo…”
 
-#Indagando su ciò che alcuni chiamano “Esecuzione Privata”, e io chiamo…
+Indagando su ciò che alcuni chiamano “Esecuzione Privata”, e io chiamo…
 
-#"Assassinio, ma..."
+"Assassinio, ma..."
 
 “Dimenticatelo,” disse la giovane donna in breve. “È semplicemente troppo meraviglioso.”
 
-Perché io possa sedermi qui, accanto a tutti i [[Secrets|segreti]] del vostro [[government|governo]];
+Perché io possa sedermi qui, accanto a tutti i [[motifs/secrets|segreti]] del vostro governo;
 
-# Perché…
+Perché…
 
 Continuò il suo monologo, anche se in uno stile fatto di punti e linee tratteggiate.
 
@@ -12540,40 +12540,40 @@ Finì.
 
 Abbiamo tutti sentito parlare di quegli intervistatori americani che mettono in discussione la vita familiare delle persone interpellate…
 
-[[Secrets|segreti]], forzare le porte delle camere da letto e raccogliere informazioni.
+[[motifs/secrets|segreti]], forzare le porte delle camere da letto e raccogliere informazioni.
 
 Modi tipici dei ladri d’appartamento. Ce ne sono alcuni, ma ce ne sono anche altri.
 
-#Ci sono, o c'erano, quando lo scrittore se ne ricorda, delle quantità molto grandi…
+Ci sono, o c'erano, quando lo scrittore se ne ricorda, delle quantità molto grandi…
 
 Numero di uomini intelligenti pronti a discutere di argomenti intelligenti… e
 
-C'era la signorina Asa-[[smith|Smith]]. Era piccola e scura di pelle; era piuttosto.
+C'era la signorina Asa-Smith. Era piccola e scura di pelle; era piuttosto.
 
-#Bella… e sarebbe stata davvero bellissima se non avesse immerso…
+Bella… e sarebbe stata davvero bellissima se non avesse immerso…
 
-#Rossetto nei toni di terremoto ed eclissi… Le sue unghie erano…
+Rossetto nei toni di terremoto ed eclissi… Le sue unghie erano…
 
-# Colorati di cinque colori diversi, simili alle vernici presenti in…
+Colorati di cinque colori diversi, simili alle vernici presenti in…
 
-La scatola dei colori di quella [[Child|bambina]]; ed era così [[Innocent|innocente]] come una [[Child|bambina]]. Era anche.
+La scatola dei colori di quella [[archetypes/child|bambina]]; ed era così [[archetypes/innocent|innocente]] come una [[archetypes/child|bambina]]. Era anche.
 
-Chiacchierona come un [[Child|bambino]], provava per il signore una sorta di affetto paterno.
+Chiacchierona come un [[archetypes/child|bambino]], provava per il signore una sorta di affetto paterno.
 
-# Le raccontò tutto riguardo al laghetto… Non ebbe bisogno di dirle nulla altro.
+Le raccontò tutto riguardo al laghetto… Non ebbe bisogno di dirle nulla altro.
 
 Qualsiasi cosa… Nessuna tragedia nascosta della famiglia Pond fu rivelata; nulla.
 
-I [[Secrets|segreti]] dei crimini commessi dietro la porta della camera da letto del signor Pond.
+I [[motifs/secrets|segreti]] dei crimini commessi dietro la porta della camera da letto del signor Pond.
 
-# Conversazioni, per così dire, ruotavano principalmente attorno ai suoi primi anni…
+Conversazioni, per così dire, ruotavano principalmente attorno ai suoi primi anni…
 
-#Giorni in Pennsylvania: le sue prime ambizioni e ideali… quali due?
+Giorni in Pennsylvania: le sue prime ambizioni e ideali… quali due?
 
 Titolo:  
 Come molte delle tradizioni locali, sembrava che anche lei le immaginasse…
 
-# La stessa cosa… Era una femminista e aveva preso posizione al fianco di Ada P. Tuke
+La stessa cosa… Era una femminista e aveva preso posizione al fianco di Ada P. Tuke
 
 Contro club e saloon, contro l’egoismo umano… Lei aveva
 
@@ -12587,11 +12587,11 @@ Beh, sono davvero desideroso di leggerti questa pièce. E sai com’è.
 
 “È proprio così… Vede, la mia opera è estremamente moderna… Ma anche le opere più moderne…”
 
-Le persone hanno proprio fatto così. Voglio dire, partendo dall’[[Water|acqua]] e.
+Le persone hanno proprio fatto così. Voglio dire, partendo dall’[[motifs/water|acqua]] e.
 
-# Allora…
+Allora…
 
-“Partendo dall’[[Water|acqua]]?” chiese il signor Pond.
+“Partendo dall’[[motifs/water|acqua]]?” chiese il signor Pond.
 
 “Sì, non è proprio troppo… oh, capisci. Immagino che loro lo faranno.”
 
@@ -12599,7 +12599,7 @@ Tutti i personaggi, vestiti con abiti da bagno… ma entreranno appena in tempo.
 
 “L. o R.; vieni da questa parte, capisci… e tutte quelle vecchie cose.” Mia
 
-I personaggi entrano dall’alto, tuffandosi con un tonfo nell’[[Well|pozzo]]. Bene, così andrà.
+I personaggi entrano dall’alto, tuffandosi con un tonfo nell’[[motifs/well|pozzo]]. Bene, così andrà.
 
 “Sarà senz’altro un successo, no? Voglio dire… inizia proprio così.” Lei
 
@@ -12607,34 +12607,34 @@ Iniziò a leggere molto velocemente:
 
 “Scene, il mare fuori dal Lido.”
 
-#"La voce di Tom Toxin (dall’alto): ‘Vedetemi fare un bel rumore… se–’"
+"La voce di Tom Toxin (dall’alto): ‘Vedetemi fare un bel rumore… se–’"
 
 La tossina si tuffa dall’alto sul palco, indossando un costume da bagno di colore verde pisello.
 
-#"Voce della Duchessa (dall’alto): ‘L’unica sorta di spruzzo che potrete mai…”"
+"Voce della Duchessa (dall’alto): ‘L’unica sorta di spruzzo che potrete mai…”"
 
 “Fai, ”, dice la Duchessa tuffandosi dall’alto in un costume da bagno rosso.
 
-#"Veleno (arriva gorgogliando): ‘Gorgoglia e basta… splash’"
+"Veleno (arriva gorgogliando): ‘Gorgoglia e basta… splash’"
 
 È l’unico spruzzo prodotto dal tuo.
 
 “Duchessa: ‘Oh, nonno!’”
 
-#Lo chiama Nonno, capisci… perché “splosh” significa soldi.
+Lo chiama Nonno, capisci… perché “splosh” significa soldi.
 
 Quella vecchia canzone comica. In realtà, loro sono ancora molto giovani, ovviamente.
 
-# E piuttosto... sai. Ma--
+E piuttosto... sai. Ma--
 
 
 
 <span class="atom-split" data-atom="story_04_a_tall_story--part_08" data-title="MrPond — A Tall Story (part 8)" data-chapter="A Tall Story" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/grave,motif/horse,motif/love,motif/storm,motif/well,concept/survival,concept/wonder,form/tragedy,histref/america,setting/america,setting/court,character/olivia"></span>
 
 
-Mr. Pond interposed with delicacy and firmness:  "I [[Wonder|wonder]] whether
+Mr. Pond interposed with delicacy and firmness:  "I [[concepts/wonder|wonder]] whether
 
-you would be so very kind, Miss Asa-[[smith|Smith]], as to leave the
+you would be so very kind, Miss Asa-Smith, as to leave the
 
 manuscript with me or send me a copy, so that I can enjoy it at
 
@@ -12648,7 +12648,7 @@ heights into a stage sea?"
 
 "Oh, I dare say some of the old-stagers would be stuffy about it,"
 
-she replied, "because--can't fancy your great tragedienne, [[Olivia]]
+she replied, "because--can't fancy your great tragedienne, [[characters/olivia|Olivia]]
 
 Feversham--though she's not so old really and just lovely still,
 
@@ -12658,7 +12658,7 @@ Varney to PROMISE, and her sister's quite a friend of mine, though
 
 of course not so--and lots of amateurs would do it for fun.  That
 
-Gahagan guy is a good swimmer, and he's acted, too, and--oh, [[Well|well]],
+Gahagan guy is a good swimmer, and he's acted, too, and--oh, [[motifs/well|well]],
 
 he'd click if Joan Varney's in it."
 
@@ -12670,25 +12670,25 @@ silently alert and alive.  He said with a new gravity:
 
 me to Miss Varney.  As to her sister, the one on the stage--"
 
-"Not a patch on Joan, is she?  But--" said Miss Asa-[[smith|Smith]].
+"Not a patch on Joan, is she?  But--" said Miss Asa-Smith.
 
-Mr. Pond had formed an impression.  He liked Miss Asa-[[smith|Smith]].  He
+Mr. Pond had formed an impression.  He liked Miss Asa-Smith.  He
 
 liked her very much.  And the thought of the Honourable Violet
 
-Varney, that English [[aristocrat]], made him like the American even
+Varney, that English aristocrat, made him like the American even
 
 more.  The Honourable Violet was one of those wealthy women who pay
 
 to act badly; and blackleg the poorer people who might have been
 
-paid to act [[Well|well]].  She certainly was quite capable of diving in a
+paid to act [[motifs/well|well]].  She certainly was quite capable of diving in a
 
 bathing dress, or in anything or nothing, if it were the only way
 
 to the stage and the spot-light.  She was quite capable of helping
 
-Miss Asa-[[smith|Smith]] in her absurd play and talking similar nonsense
+Miss Asa-Smith in her absurd play and talking similar nonsense
 
 about being modern and independent of selfish man.  But there was a
 
@@ -12710,7 +12710,7 @@ too tired to finish it; Artemis did so as if she were really too
 
 eager to get on to the next.  There was within her, somehow, a
 
-thing, a spirit of life, which survives every criticism of [[America]].
+thing, a spirit of life, which survives every criticism of [[settings/america|America]].
 
 "Joan Varney's much nicer," continued Artemis, "and you bet your
 
@@ -12728,19 +12728,19 @@ the precise and prosaic Mr. Pond.
 
 "Some say he's a rotter," said the candid American.  "I don't say
 
-that; but I do say he's a dark [[Horse|horse]].  And he does shilly-shally
+that; but I do say he's a dark [[motifs/horse|horse]].  And he does shilly-shally
 
-about Joan Varney, doesn't he?  Some say he's really in [[Love|love]] with
+about Joan Varney, doesn't he?  Some say he's really in [[motifs/love|love]] with
 
-the great [[Olivia]]--your only tragic actress.  Only she's so jolly
+the great [[characters/olivia|Olivia]]--your only tragic actress.  Only she's so jolly
 
 tragic."
 
-"God send she doesn't play in a real [[Tragedy|tragedy]]," said Pond.
+"God send she doesn't play in a real [[forms/tragedy|tragedy]]," said Pond.
 
 He knew what he meant; but he had not the faintest foreshadowing of
 
-the awful [[Tragedy|tragedy]] of real life and [[Death|death]] in which [[Olivia]] Feversham
+the awful [[forms/tragedy|tragedy]] of real life and [[motifs/death|death]] in which [[characters/olivia|Olivia]] Feversham
 
 was to play within the next twenty-four hours.
 
@@ -12752,13 +12752,13 @@ Gahagan lived the modern life, perhaps to excess, was a prop of
 
 nightclubs and a driver of sports cars, still comparatively young;
 
-but, for all that, he was a [[Survival|survival]].  He belonged to the times of
+but, for all that, he was a [[concepts/survival|survival]].  He belonged to the times of
 
 a more Byronic pose.  When Mr. W. B. Yeats wrote:  "Romantic
 
-Ireland's dead and gone; it's with O'Leary in the [[Grave|grave]]," he had
+Ireland's dead and gone; it's with O'Leary in the [[motifs/grave|grave]]," he had
 
-never met Gahagan, who was not yet in the [[Grave|grave]].  He was of that
+never met Gahagan, who was not yet in the [[motifs/grave|grave]].  He was of that
 
 older tradition by a hundred tests; he had been a cavalry soldier
 
@@ -12778,9 +12778,9 @@ eighteenth-century way: the way of Garrick; and that eighteenth
 
 century that he recalled had a pretty pagan side to it.  Pond could
 
-not dismiss the chances of Gahagan having an affair with [[Olivia]] or
+not dismiss the chances of Gahagan having an affair with [[characters/olivia|Olivia]] or
 
-anyone else; and if so a [[Storm|storm]] might be brewing.  For [[Olivia]] was
+anyone else; and if so a [[motifs/storm|storm]] might be brewing.  For [[characters/olivia|Olivia]] was
 
 married; and to no complaisant husband, either.
 
@@ -12804,9 +12804,9 @@ popular in the profession.  But he was much less intimate with his
 
 wife than with his solicitor.
 
-Through [[Court|court]] after [[Court|court]] Feversham passed, pursuing his rights and
+Through [[settings/court|court]] after [[settings/court|court]] Feversham passed, pursuing his rights and
 
-followed like a [[Shadow|shadow]] by his solicitor, Luke, of the firm of
+followed like a [[archetypes/shadow|shadow]] by his solicitor, Luke, of the firm of
 
 Masters, Luke and Masters; a young man with flat, yellow hair and a
 
@@ -12814,14 +12814,14 @@ rather wooden face.  What he thought of his client's feuds and how
 
 far he ventured to restrain them, that wooden face would never
 
-reveal.  But he worked [[Well|well]] for his client; and the two had
+reveal.  But he worked [[motifs/well|well]] for his client; and the two had
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Il signor Pond intervenne con delicatezza e fermezza: “Mi chiedo se, ”
 
-Sarebbe molto gentile da parte sua, signorina Asa-[[smith|Smith]], se lasciasse.
+Sarebbe molto gentile da parte sua, signorina Asa-Smith, se lasciasse.
 
 Manoscritto con me… o inviami una copia, così da poterlo leggere quando voglio.
 
@@ -12829,15 +12829,15 @@ Libertà… Si legge abbastanza velocemente per vecchi lettori come me; e…
 
 "Nessuno sembra mai finire una frase... Ma pensi di riuscirci?"
 
-#Convincere i nostri attori e attrici più importanti a tuffarsi nel grande…
+Convincere i nostri attori e attrici più importanti a tuffarsi nel grande…
 
 “Come possono le altezze trasformarsi in un mare scenico?”
 
 “Ah, sì… Immagino che alcuni dei veterani possano trovarlo un po’ noioso o rigido.”
 
-Rispose: “Perché, non riesco proprio a immaginare la tua grande attrice tragica, [[Olivia]]”.
+Rispose: “Perché, non riesco proprio a immaginare la tua grande attrice tragica, [[characters/olivia|Olivia]]”.
 
-# Feversham… anche se in realtà non è così vecchia e rimane ancora davvero adorabile.
+Feversham… anche se in realtà non è così vecchia e rimane ancora davvero adorabile.
 
 Solo… ma così shakespeariano! Ho l’onore di conoscere l’Onorabile Violet.
 
@@ -12857,15 +12857,15 @@ Il volto del signor Pond, fino ad allora paziente e stoico, divenne improvvisame
 
 “Me… a Miss Varney. Per quanto riguarda sua sorella, quella che è sul palco…”
 
-“Niente in confronto a Joan, vero? Ma, ” disse la signorina Asa-[[smith|Smith]].
+“Niente in confronto a Joan, vero? Ma, ” disse la signorina Asa-Smith.
 
-Il signor Pond aveva già formato un'opinione su di lei. Gli piaceva la signorina Asa-[[smith|Smith]]. Lui.
+Il signor Pond aveva già formato un'opinione su di lei. Gli piaceva la signorina Asa-Smith. Lui.
 
 Gli piaceva molto… E il pensiero dell’onorevole Violet…
 
-Varney, quell’[[aristocrat|aristocratico]] inglese, lo rese simile agli americani.
+Varney, quell’aristocratico inglese, lo rese simile agli americani.
 
-#Di più… L’onorevole Violet era una di quelle donne ricche che…
+Di più… L’onorevole Violet era una di quelle donne ricche che…
 
 Agire in modo scorretto e truffare le persone più povere che avrebbero potuto…
 
@@ -12875,21 +12875,21 @@ Vestito da bagno… o nulla del tutto, se fosse l’unico modo possibile.
 
 Sul palco e sotto i riflettori… Era davvero capace di offrire il proprio contributo.
 
-La signorina Asa-[[smith|Smith]], con la sua assurda recita e parlando di sciocchezze del genere.
+La signorina Asa-Smith, con la sua assurda recita e parlando di sciocchezze del genere.
 
-#Sull'essere moderni e indipendenti dagli uomini egoisti… Ma c’era qualcosa in più.
+Sull'essere moderni e indipendenti dagli uomini egoisti… Ma c’era qualcosa in più.
 
 Differenza… e non fu a vantaggio dell’Onorevole.
 
-# Violet. Povera Artemis… seguiva mode stupide solo perché era…
+Violet. Povera Artemis… seguiva mode stupide solo perché era…
 
 Giornalista instancabile che doveva guadagnarsi da vivere… e Violet
 
 Varney rubava soltanto la vita agli altri. Entrambi parlavano…
 
-#Lo stile fatto di frasi incompiute…
+Lo stile fatto di frasi incompiute…
 
-# Una lingua che, secondo il signor Pond, potrebbe davvero essere considerata “rotta”
+Una lingua che, secondo il signor Pond, potrebbe davvero essere considerata “rotta”
 
 Titolo:  
 “Inglese… Ma Violet lasciò in sospeso la fine della frase, come se stesse…”
@@ -12898,7 +12898,7 @@ Troppo stanca per finirlo… Artemis lo fece come se davvero fosse troppo stanca
 
 “Desiderosa di passare immediatamente al successivo… In lei, in qualche modo, c’era…”
 
-Qualcosa, uno “spirito di vita”, che sopravvive a ogni critica rivolta all’[[America]].
+Qualcosa, uno “spirito di vita”, che sopravvive a ogni critica rivolta all’[[settings/america|America]].
 
 “Molto più bella quella di Joan Varney,” continuò Artemis, “e puoi scommetterci…”
 
@@ -12906,7 +12906,7 @@ Il mio amico Gahagan la pensa così. Credi davvero che si metteranno insieme?
 
 È un tipo strano, sai.
 
-#Il signor Pond non lo negò. Il capitano Gahagan, quel tipo arrogante e…
+Il signor Pond non lo negò. Il capitano Gahagan, quel tipo arrogante e…
 
 Un uomo irrequieto e talvolta cupo, che frequentava i salotti della città… strano sotto molti aspetti.
 
@@ -12919,35 +12919,35 @@ Il preciso e banale signor Pond.
 
 Quello, ma devo dire che è un cavallo davvero scuro. E poi si comporta in modo molto ambiguo.
 
-Riguardo a Joan Varney, giusto? Alcuni dicono che sia davvero [[Love|innamorato]] di lei.
+Riguardo a Joan Varney, giusto? Alcuni dicono che sia davvero [[motifs/love|innamorato]] di lei.
 
-La grande [[Olivia]], l’unica attrice tragica che abbiamo avuto. Solo lei sa essere così allegra.
+La grande [[characters/olivia|Olivia]], l’unica attrice tragica che abbiamo avuto. Solo lei sa essere così allegra.
 
 “Tragico.”
 
-“Speriamo che non partecipi davvero a una vera e propria [[Tragedy|tragedia]]”, disse Pond.
+“Speriamo che non partecipi davvero a una vera e propria [[forms/tragedy|tragedia]]”, disse Pond.
 
-# Non ne aveva la minima idea
+Non ne aveva la minima idea
 
-La terribile [[Tragedy|tragedia]] della vita reale e la [[Death|)morte]] di [[Olivia]] Feversham.
+La terribile [[forms/tragedy|tragedia]] della vita reale e la [[motifs/death|)morte]] di [[characters/olivia|Olivia]] Feversham.
 
 Avrebbe dovuto giocare entro le prossime ventiquattro ore.
 
 Pensava soltanto al suo amico irlandese, così com’era realmente.
 
-#Abbastanza vicino da conoscere tutto ciò che non sapeva. Peter Patrick
+Abbastanza vicino da conoscere tutto ciò che non sapeva. Peter Patrick
 
 Gahagan conduceva una vita moderna, forse in modo eccessivo… era un esempio di ciò che la società contemporanea promuove.
 
 Club notturni e un pilota di auto sportive… ancora relativamente giovane.
 
-Ma, nonostante tutto, era un [[Survival|sopravvissuto]]. Apparteneva ai tempi di.
+Ma, nonostante tutto, era un [[concepts/survival|sopravvissuto]]. Apparteneva ai tempi di.
 
 “Una posa più byroniana… Quando il signor W. B. Yeats scrisse: ‘Romantico’…”
 
-L’Irlanda è morta e se n’è andata; ora è con O’Leary nella [[Grave|tomba]], aveva detto.
+L’Irlanda è morta e se n’è andata; ora è con O’Leary nella [[motifs/grave|tomba]], aveva detto.
 
-Non ho mai incontrato Gahagan, che all’epoca non era ancora nella [[Grave|tomba]]. Apparteneva a quel gruppo.
+Non ho mai incontrato Gahagan, che all’epoca non era ancora nella [[motifs/grave|tomba]]. Apparteneva a quel gruppo.
 
 Una tradizione più antica, confermata da centinaia di prove: era stato un soldato di cavalleria.
 
@@ -12955,9 +12955,9 @@ E anche membro del Parlamento; l’ultimo ad attenersi alle antiche usanze irlan
 
 Oratori con le loro pause conclusive… Come tutti questi, per qualcuno.
 
-#Per questo motivo amava Shakespeare. Isaac Butt riempiva i suoi discorsi di…
+Per questo motivo amava Shakespeare. Isaac Butt riempiva i suoi discorsi di…
 
-#Shakespeare: Tim Healy avrebbe potuto citare il poeta in modo così incisivo…
+Shakespeare: Tim Healy avrebbe potuto citare il poeta in modo così incisivo…
 
 Sembrava far parte della conversazione quotidiana a tavola; Russell di Killowen leggeva…
 
@@ -12967,41 +12967,41 @@ Il modo del XVIII secolo: il modo di Garrick… e quel XVIII secolo.
 
 Il secolo che ricordava presentava un lato piuttosto pagano… Pond poteva…
 
-Non si possono escludere le possibilità che Gahagan abbia avuto una relazione con [[Olivia]] o.
+Non si possono escludere le possibilità che Gahagan abbia avuto una relazione con [[characters/olivia|Olivia]] o.
 
-Qualcun altro? E in tal caso, potrebbe essere in arrivo una [[Storm|tempesta]]. Perché [[Olivia]] era.
+Qualcun altro? E in tal caso, potrebbe essere in arrivo una [[motifs/storm|tempesta]]. Perché [[characters/olivia|Olivia]] era.
 
 Sposata, e per di più con un marito tutt’altro che comprensivo.
 
-#Frederick Feversham: qualcosa di peggio di un attore fallito
+Frederick Feversham: qualcosa di peggio di un attore fallito
 
-#Colui che un tempo aveva avuto successo… Ora era stato dimenticato.
+Colui che un tempo aveva avuto successo… Ora era stato dimenticato.
 
 Teatro… e ricordato soltanto nei tribunali. Un ambiente oscuro e complicato.
 
 Uomo ancora piuttosto affascinante nonostante l’aspetto stanco, era diventato famoso… o almeno noto a molti.
 
-# Un litigante perenne… Sempre intentando cause legali
+Un litigante perenne… Sempre intentando cause legali
 
-# Contro persone che accusava di trucchi banali e comportamenti distanti…
+Contro persone che accusava di trucchi banali e comportamenti distanti…
 
-#Errori discutibili: manager, rivali e tutti gli altri. Fino ad ora…
+Errori discutibili: manager, rivali e tutti gli altri. Fino ad ora…
 
-# Nessun dissidio particolare con sua moglie, più giovane di lui e ancora…
+Nessun dissidio particolare con sua moglie, più giovane di lui e ancora…
 
-#Popolare nella sua professione… Ma molto meno intimo con le persone che lo circondavano.
+Popolare nella sua professione… Ma molto meno intimo con le persone che lo circondavano.
 
 Più che con il suo avvocato, parlava con sua moglie.
 
 Attraverso un cortile dopo l’altro, Feversham proseguì nella sua ricerca, difendendo i propri diritti.
 
-Seguito come un’[[Shadow|ombra]] dal suo avvocato, Luke, dello studio legale.
+Seguito come un’[[archetypes/shadow|ombra]] dal suo avvocato, Luke, dello studio legale.
 
-# Maestri, Luke e gli altri… un giovane con i capelli gialli e lisci…
+Maestri, Luke e gli altri… un giovane con i capelli gialli e lisci…
 
 Un volto piuttosto rigido… Cosa pensava delle lotte intestine dei suoi clienti, e come…
 
-# Mai osò cercare di fermarli… Quel volto di legno non avrebbe mai ceduto.
+Mai osò cercare di fermarli… Quel volto di legno non avrebbe mai ceduto.
 
 Revelare. Ma lavorò molto bene per il suo cliente; e i due avevano.
 
@@ -13030,19 +13030,19 @@ the problem of an ill-drawn will or a dubious signature.  It was
 
 the problem of a stiff and staring corpse, lying just inside a
 
-[[Garden|garden]]-gate and nailed there by a fencing-[[Sword|sword]] with the button
+[[motifs/garden|garden]]-gate and nailed there by a fencing-sword with the button
 
 broken off.  Frederick Feversham, that legalist, had suffered at
 
 least one final and indisputable illegality; he had been stabbed to
 
-[[Death|death]] as he entered his own [[Home|home]].
+[[motifs/death|death]] as he entered his own [[motifs/home|home]].
 
 Long before certain facts, slowly collected, were put before the
 
 police, they were put before Mr. Pond.  This may seem odd, but
 
-there were reasons; indeed Mr. Pond, like many other [[government|Government]]
+there were reasons; indeed Mr. Pond, like many other Government
 
 officials, had rather secret and unsuspected spheres of influence;
 
@@ -13056,9 +13056,9 @@ labyrinth of the most unconstitutional of all constitutions.  In
 
 any case, his first warning of the trouble took the commonplace
 
-form of an ordinary legal letter, with the heading of the [[Well|well]]-
+form of an ordinary legal letter, with the heading of the [[motifs/well|well]]-
 
-known firm of Masters, Luke and Masters, expressing the [[Hope|hope]] that
+known firm of Masters, Luke and Masters, expressing the [[concepts/hope|hope]] that
 
 Mr. Luke might be allowed to discuss certain information with Mr.
 
@@ -13078,11 +13078,11 @@ He had already thought of about two-thirds of what the solicitor
 
 was going to tell him.
 
-"The [[Truth|truth]] is, Mr. Pond," said the solicitor, in a confidential but
+"The [[concepts/truth|truth]] is, Mr. Pond," said the solicitor, in a confidential but
 
 still careful voice, when he was at length deposited on the other
 
-side of Mr. Pond's table next day.  "The [[Truth|truth]] is that the
+side of Mr. Pond's table next day.  "The [[concepts/truth|truth]] is that the
 
 possibilities of this affair, painful in any case, may be specially
 
@@ -13102,7 +13102,7 @@ suppose that anybody had not entertained the idea long ago.  He
 
 knew that words to that effect were common in the more conventional
 
-[[Detective|detective]] stories, which he heartily enjoyed, as a change from
+[[archetypes/detective|detective]] stories, which he heartily enjoyed, as a change from
 
 Burke and Gibbon.  He could see the printed words on a hundred
 
@@ -13144,11 +13144,11 @@ whether men were capable of murder, he was rather inclined to think
 
 that Gahagan WAS capable of murder--more capable of murder than of
 
-meanness to a [[cabman]].
+meanness to a cabman.
 
 Suddenly, with extraordinary vividness, the image of Gahagan
 
-himself sprang up in Pond's [[Memory|memory]]: Gahagan as he had last seen him
+himself sprang up in Pond's [[motifs/memory|memory]]: Gahagan as he had last seen him
 
 lounging with his large shoulders and long stride, and strange dark-
 
@@ -13162,17 +13162,17 @@ himself.  No; the Irishman was a man seventy-and-seven times to be
 
 forgiven; but not a man to be lightly acquitted.
 
-"Mr. Luke," said Pond suddenly, "will it save [[Time|time]] if I tell you,
+"Mr. Luke," said Pond suddenly, "will it save [[motifs/time|time]] if I tell you,
 
 to start with, what I know there is against Gahagan?  He was
 
 hanging round Mrs. Feversham, the great actress; I don't know why
 
-he was; my own belief is that he is really in [[Love|love]] with another
+he was; my own belief is that he is really in [[motifs/love|love]] with another
 
 woman.  Yet he did unquestionably give the actress a huge amount of
 
-his [[Time|time]]: hours and hours and late hours too.  But if Feversham
+his [[motifs/time|time]]: hours and hours and late hours too.  But if Feversham
 
 caught him doing anything unconventional, Feversham was not the man
 
@@ -13194,47 +13194,47 @@ at the start that I don't believe in it."
 
 "Unfortunately it is not the whole case against Captain Gahagan,"
 
-replied Luke smoothly, "and I [[Fear|fear]] the full Statement may make even
+replied Luke smoothly, "and I [[concepts/fear|fear]] the full Statement may make even
 
 you believe it.  Perhaps the most serious result of our
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Inevitabilmente diventano compagni d’armi… Di una certa cosa, almeno, Pond lo è sicuramente.
+Inevitabilmente diventano compagni d’armi… Di una certa cosa, almeno, Pond lo è sicuramente.
 
-# Era certo: né Feversham né Luke avrebbero probabilmente risparmiato nessuno.
+Era certo: né Feversham né Luke avrebbero probabilmente risparmiato nessuno.
 
 "Gahagan… se quel signore capriccioso dovesse sbagliare."
 
 Titolo:  
 Questa parte del problema era destinata a trovare una soluzione ancora peggiore di quella prevista…
 
-#Il sogno che aveva sognato… Ventiquattro ore dopo il colloquio di Pond…
+Il sogno che aveva sognato… Ventiquattro ore dopo il colloquio di Pond…
 
 Durante l'intervista, scoprì che Frederick Feversham era morto.
 
 Come altre persone propense a ricorrere a giustizi contenziosi, anche il signor Feversham aveva lasciato disposizioni legali in merito.
 
-#Un problema alle sue spalle… per mantenere molti avvocati con i loro onorari. Ma non era quello il vero problema.
+Un problema alle sue spalle… per mantenere molti avvocati con i loro onorari. Ma non era quello il vero problema.
 
 Il problema di un testamento redatto in modo impreciso o di una firma dubbia. Era…
 
-# Il problema di un cadavere rigido e immobile, disteso proprio all’interno…
+Il problema di un cadavere rigido e immobile, disteso proprio all’interno…
 
-La porta del [[Garden|giardino]] fu fissata lì con una [[Sword|_spada]] da recinzione e il pulsante venne attaccato insieme.
+La porta del [[motifs/garden|giardino]] fu fissata lì con una _spada da recinzione e il pulsante venne attaccato insieme.
 
 Interrutto. Frederick Feversham, quel legale rigido e conservatore, ne aveva sofferto le conseguenze…
 
 Almeno un atto illegale finale e indiscutibile: era stato pugnalato…
 
-[[Death|Morte]] mentre entrava nella sua stessa [[Home|casa]].
+[[motifs/death|Morte]] mentre entrava nella sua stessa [[motifs/home|casa]].
 
-# Molto prima che certi fatti, raccolti lentamente, venissero presentati…
+Molto prima che certi fatti, raccolti lentamente, venissero presentati…
 
 Polizia… furono portati davanti al signor Pond. Può sembrare strano, ma…
 
-C'erano delle ragioni; infatti il signor Pond, come molti altri membri del [[government|Governo]].
+C'erano delle ragioni; infatti il signor Pond, come molti altri membri del Governo.
 
 Funzionari che possedevano ambiti di influenza segreti e inaspettati.
 
@@ -13242,13 +13242,13 @@ Funzionari che possedevano ambiti di influenza segreti e inaspettati.
 
 Si diceva che anche gli uomini provassero per lui un certo timore reverenziale, a causa di…
 
-# Circostanze speciali… Ma spiegarlo tutto significherebbe esplorare…
+Circostanze speciali… Ma spiegarlo tutto significherebbe esplorare…
 
 Labirinto della costituzione più incostituzionale di tutte.
 
 In ogni caso, la sua prima avvertenza riguardo al problema fu… del tutto banale.
 
-In forma di una normale lettera legale, con il titolo della [[Well|,]].
+In forma di una normale lettera legale, con il titolo della [[motifs/well|,]].
 
 La nota azienda Masters, Luke and Masters, esprime la speranza che.
 
@@ -13270,11 +13270,11 @@ Aveva già pensato a circa due terzi di ciò che il procuratore avrebbe dovuto s
 
 Stava per dirglielo.
 
-“La [[Truth|verità]] è questa, signor Pond,” disse l’avvocato, con tono confidenziale ma.
+“La [[concepts/truth|verità]] è questa, signor Pond,” disse l’avvocato, con tono confidenziale ma.
 
 “Voce ancora cauta, quando finalmente fu depositato dall’altra parte…”
 
-Il giorno dopo, al posto del signor Pond al tavolo, “La [[Truth|verità]] è che, ”
+Il giorno dopo, al posto del signor Pond al tavolo, “La [[concepts/truth|verità]] è che, ”
 
 Possibilità di questa situazione, comunque dolorose, potrebbero essere particolarmente…
 
@@ -13290,26 +13290,26 @@ L’avvocato probabilmente pensò che fosse rimasto scioccato dalla prima propos
 
 Il fatto che il suo amico ne fosse influenzato lo sorprese leggermente…
 
-# Supponiamo che qualcuno non avesse mai concepito quell’idea… Lui
+Supponiamo che qualcuno non avesse mai concepito quell’idea… Lui
 
-#Sapeva che frasi del genere fossero comuni nelle forme più convenzionali di espressione
+Sapeva che frasi del genere fossero comuni nelle forme più convenzionali di espressione
 
-Storie di [[Detective|detective]], che amava molto leggere, come diversivo rispetto ad altro.
+Storie di [[archetypes/detective|detective]], che amava molto leggere, come diversivo rispetto ad altro.
 
-# Burke e Gibbon. Riusciva a vedere le parole stampate su centinaia di pagine…
+Burke e Gibbon. Riusciva a vedere le parole stampate su centinaia di pagine…
 
 Titolo:  
 “Nessuno di noi riusciva a credere che quel giovane attraente…”
 
 “Sembrava assurdo collegare quel giocatore di cricket a un crimine”.
 
-#Un omicidio con un personaggio come il Capitano Pickleboy, la figura più popolare
+Un omicidio con un personaggio come il Capitano Pickleboy, la figura più popolare
 
 “Nella società…”. Si era sempre chiesto cosa significassero quelle parole. Per lui…
 
 Per una mente semplice e scettica del XVIII secolo, sembravano voler dire…
 
-#Niente affatto. Perché mai gli uomini piacevoli e alla moda non dovrebbero…
+Niente affatto. Perché mai gli uomini piacevoli e alla moda non dovrebbero…
 
 “Uccisioni… come chiunque altro? Anche lui era molto turbato.”
 
@@ -13334,51 +13334,51 @@ Spiegazione… Ecco proprio il problema con lui… Ma, Signore…
 
 Aveva una grande simpatia per il Capitano Gahagan; ma fino a un certo punto…
 
-# Se gli uomini fossero capaci di commettere omicidi, era piuttosto incline a ritenere che lo fossero
+Se gli uomini fossero capaci di commettere omicidi, era piuttosto incline a ritenere che lo fossero
 
-#Che Gahagan fosse capace di commettere omicidi… più capace di uccidere che di qualsiasi altra cosa.
+Che Gahagan fosse capace di commettere omicidi… più capace di uccidere che di qualsiasi altra cosa.
 
-Cattiveria verso un [[cabman|autista di cabina]].
+Cattiveria verso un autista di cabina.
 
-# Improvvisamente, con una vividezza straordinaria, l’immagine di Gahagan…
+Improvvisamente, con una vividezza straordinaria, l’immagine di Gahagan…
 
 Quell’immagine riemerse improvvisamente nella memoria di Pond: Gahagan, così come lo aveva visto l’ultima volta.
 
 “Con le sue spalle larghe e il passo lungo, e quel suo aspetto strano e scuro…”
 
-# Capelli rossi sotto il cappello grigio inclinato con noncuranza… e dietro…
+Capelli rossi sotto il cappello grigio inclinato con noncuranza… e dietro…
 
-#Un angolo di tramonto dove le nuvole serali si muovevano lentamente…
+Un angolo di tramonto dove le nuvole serali si muovevano lentamente…
 
-#Pompa viola in declino, simile alla pompa del povero Gahagan
+Pompa viola in declino, simile alla pompa del povero Gahagan
 
-#Non si trattava di lui… No: quell’irlandese era un uomo di settantasette anni…
+Non si trattava di lui… No: quell’irlandese era un uomo di settantasette anni…
 
 Perdonato, ma non un uomo che possa essere assolto facilmente.
 
-“Signor Luke,” disse improvvisamente Pond, “risparmierà[[Time|tempo]] se vi dico, ”
+“Signor Luke,” disse improvvisamente Pond, “risparmierà[[motifs/time|tempo]] se vi dico, ”
 
-# Cosa so esattamente contro Gahagan? Lui era…
+Cosa so esattamente contro Gahagan? Lui era…
 
-#In giro dalla signora Feversham, la grande attrice… Non so perché
+In giro dalla signora Feversham, la grande attrice… Non so perché
 
 Era così; la mia convinzione personale è che sia davvero innamorato di un’altra persona.
 
 Donna… Eppure, senza dubbio, le ha concesso molto.
 
-Nel suo [[Time|tempo]]: ore e ore, anche molto oltre l’orario normale. Ma se Feversham.
+Nel suo [[motifs/time|tempo]]: ore e ore, anche molto oltre l’orario normale. Ma se Feversham.
 
-#"Non fu certo il tipo di uomo che avrebbe fatto qualcosa di insolito..."
+"Non fu certo il tipo di uomo che avrebbe fatto qualcosa di insolito..."
 
 Per lasciarlo andare senza processi, scandali e chissà cosa altro.
 
-# Non voglio criticare il tuo cliente… ma, per dirla in modo diretto, lui…
+Non voglio criticare il tuo cliente… ma, per dirla in modo diretto, lui…
 
-#Vissuto quasi interamente tra cause legali e scandali… E se
+Vissuto quasi interamente tra cause legali e scandali… E se
 
 “Feversham era l’uomo giusto per minacciare o ricattare, ve lo dico io.”
 
-# Francamente, quel Gahagan era l’uomo giusto per rispondere a lui con la stessa forza fisica.
+Francamente, quel Gahagan era l’uomo giusto per rispondere a lui con la stessa forza fisica.
 
 Moda… e forse anche ucciderlo, soprattutto se si trattasse del nome di una signora…
 
@@ -13390,7 +13390,7 @@ All’inizio, non credevo che fosse possibile.
 
 “E temo che l’intera dichiarazione possa rendere le cose ancora peggiori,” rispose Luke con calma.
 
-#Credeteci… Forse il risultato più grave delle nostre azioni è proprio questo.
+Credeteci… Forse il risultato più grave delle nostre azioni è proprio questo.
 
 
 
@@ -13405,13 +13405,13 @@ of his movements, or proposed movements, on the evening of the
 
 murder.  Allowing him the highest possible marks for truthfulness
 
-in the matter, he must at least have told two lies to one [[Truth|truth]]."
+in the matter, he must at least have told two lies to one [[concepts/truth|truth]]."
 
 "I have always found Gahagan truthful enough," replied Pond,
 
 "except when he was telling lies for amusement; which is really
 
-rather the mark of a man who doesn't prostitute the [[Sublime|sublime]] art of
+rather the mark of a man who doesn't prostitute the [[concepts/sublime|sublime]] art of
 
 lying to the base uses of necessity.  About all ordinary practical
 
@@ -13437,7 +13437,7 @@ had been talking to several ladies."
 
 him?  If one of them happened, for instance, to be that very
 
-charming lady, Miss Asa-[[smith|Smith]] of Pentapolis, I would venture to
+charming lady, Miss Asa-Smith of Pentapolis, I would venture to
 
 guess that it was she who was talking to him."
 
@@ -13445,7 +13445,7 @@ guess that it was she who was talking to him."
 
 not know if it was a guess; but one of them certainly was a Miss
 
-Asa-[[smith|Smith]] of Pentapolis.  The other two were the Hon. Violet Varney
+Asa-Smith of Pentapolis.  The other two were the Hon. Violet Varney
 
 and, last but not least, the Hon. Joan Varney.  As a matter of
 
@@ -13455,15 +13455,15 @@ only natural.  It is notable, on your own suggestion, that he is
 
 really attached to this last lady, that his statement to her was
 
-apparently much the nearest to the [[Truth|truth]]."
+apparently much the nearest to the [[concepts/truth|truth]]."
 
 "Ah," said Mr. Pond, and pulled his beard thoughtfully.
 
 "Joan Varney," observed the lawyer gravely, "stated most
 
-definitely, before she knew that there was any trouble or [[Tragedy|tragedy]]
+definitely, before she knew that there was any trouble or [[forms/tragedy|tragedy]]
 
-in this case, that Captain Gahagan had left the [[house]] saying:  'I
+in this case, that Captain Gahagan had left the house saying:  'I
 
 am going round to the Fevershams'.'"
 
@@ -13471,7 +13471,7 @@ am going round to the Fevershams'.'"
 
 said Mr. Pond.
 
-"Most emphatically," replied Luke.  "The other sister, [[Well|well]] known
+"Most emphatically," replied Luke.  "The other sister, [[motifs/well|well]] known
 
 on the stage as Violet Varney, stopped him as he was going out and
 
@@ -13523,7 +13523,7 @@ she's quite honest."
 
 absolutely honest."
 
-"[[Well]], there it is," said Luke, speaking also not without a decent
+"[[motifs/well|Well]], there it is," said Luke, speaking also not without a decent
 
 gloom.  "It seems to me that the psychology's only too obvious
 
@@ -13533,7 +13533,7 @@ to the girl he was accustomed to confide in; perhaps he didn't
 
 really plan the crime till later; or perhaps it wasn't entirely
 
-planned or premeditated.  But by the [[Time|time]] he talked to less
+planned or premeditated.  But by the [[motifs/time|time]] he talked to less
 
 friendly people he saw how unwise it would be to say he was going
 
@@ -13547,7 +13547,7 @@ sufficiently vague, and says he is going to the club."
 
 "It might be like that," replied Pond, "or it might--"  And Mr.
 
-Pond fell for the first [[Time|time]] into the lax habit of Miss Asa-[[smith|Smith]],
+Pond fell for the first [[motifs/time|time]] into the lax habit of Miss Asa-Smith,
 
 and failed to finish his sentence.  Instead he sat staring at the
 
@@ -13561,11 +13561,11 @@ The bearded fish came to the surface again with a somewhat new
 
 expression, and said with a brisk and almost sharp tone:
 
-"You seem very much bent on bringing the crime [[Home|home]] to poor
+"You seem very much bent on bringing the crime [[motifs/home|home]] to poor
 
 Gahagan."
 
-For the first [[Time|time]] Luke's features stiffened to hardness, or even
+For the first [[motifs/time|time]] Luke's features stiffened to hardness, or even
 
 harshness.  "We naturally wish to bring the murderer of our client
 
@@ -13598,16 +13598,16 @@ like.  Even Violet Varney likes him.  Joan Varney loves him.  And
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Indagini su questo argomento. È ormai assolutamente chiaro che…
+Indagini su questo argomento. È ormai assolutamente chiaro che…
 
-#Il capitano Gahagan fornì tre resoconti completamente contraddittori e incoerenti
+Il capitano Gahagan fornì tre resoconti completamente contraddittori e incoerenti
 
 Titolo:  
 Dei suoi movimenti, o dei movimenti che aveva intenzione di compiere, nella serata di…
 
-# Omicidio: assegnandogli i punteggi più alti possibili per la veridicità
+Omicidio: assegnandogli i punteggi più alti possibili per la veridicità
 
-In questa faccenda, deve aver detto almeno due bugie per una sola [[Truth|verità]].
+In questa faccenda, deve aver detto almeno due bugie per una sola [[concepts/truth|verità]].
 
 “Ho sempre ritenuto Gahagan abbastanza sincero”, rispose Pond.
 
@@ -13615,13 +13615,13 @@ In questa faccenda, deve aver detto almeno due bugie per una sola [[Truth|verit�
 
 Piuttosto il segno di un uomo che non prostituisce l’arte sublime della.
 
-# Mentire per necessità: sulle pratiche ordinarie e quotidiane
+Mentire per necessità: sulle pratiche ordinarie e quotidiane
 
 Riguardo a queste cose, ho trovato che non solo fosse franco, ma anche abbastanza preciso.
 
 “Anche ammettendo ciò che dici,” rispose il signor Luke con scetticismo, “noi…”
 
-#Deve comunque rispondere: se fosse solitamente franco…
+Deve comunque rispondere: se fosse solitamente franco…
 
 “Veritiero… deve essere stato un momento estremamente difficile e disperato…”
 
@@ -13637,9 +13637,9 @@ Aveva parlato con diverse signore.
 
 “Di solito lo ha,” disse Pond. “O forse erano loro a parlare…”
 
-#Lui? Se per caso uno di loro fosse proprio quello…
+Lui? Se per caso uno di loro fosse proprio quello…
 
-Deliziosa signora, la signorina Asa-[[smith|Smith]] di Pentapolis, oserei dire.
+Deliziosa signora, la signorina Asa-Smith di Pentapolis, oserei dire.
 
 Probabilmente era lei a parlare con lui.
 
@@ -13647,25 +13647,25 @@ Probabilmente era lei a parlare con lui.
 
 Non so se si trattasse di una supposizione… ma uno di loro era sicuramente una signorina.
 
-Asa-[[smith|Smith]] di Pentapolis. Gli altri due erano la signora Violet Varney.
+Asa-Smith di Pentapolis. Gli altri due erano la signora Violet Varney.
 
 E, infine ma non meno importante, l’onorevole Joan Varney. Per quanto riguarda…
 
-# In realtà, fu l’ultima cosa che disse per prima; il che, immagino, fosse…
+In realtà, fu l’ultima cosa che disse per prima; il che, immagino, fosse…
 
 Solo naturale… È degno di nota, su tua stessa proposta, che lui sia così.
 
-#Davvero molto legato a quest’ultima signora, al punto che le sue parole rivolte a lei…
+Davvero molto legato a quest’ultima signora, al punto che le sue parole rivolte a lei…
 
-A quanto pare, molto vicino alla [[Truth|verità]].
+A quanto pare, molto vicino alla [[concepts/truth|verità]].
 
 “Ah,” disse il signor Pond, tirandosi pensierosamente la barba.
 
 “Joan Varney,” osservò seriamente l’avvocato, “ha dichiarato…”
 
-Di certo, prima ancora che scoprisse l'esistenza di qualsiasi problema o [[Tragedy|tragedia]].
+Di certo, prima ancora che scoprisse l'esistenza di qualsiasi problema o [[forms/tragedy|tragedia]].
 
-In questo caso, il Capitano Gahagan aveva lasciato la [[house|casa]] dicendo: “Io, ”
+In questo caso, il Capitano Gahagan aveva lasciato la casa dicendo: “Io, ”
 
 Sto andando dai Feversham.”
 
@@ -13691,9 +13691,9 @@ La trovò sul gradino di casa quando aprì la porta d’ingresso.
 
 “Anche lei era arrivata di fretta,” rispose il signor Luke, sorridendo anch’egli. “In un attimo…”
 
-# Entusiasmo per l’intervista a Violet Varney come “Commediante e Sociale”
+Entusiasmo per l’intervista a Violet Varney come “Commediante e Sociale”
 
-# Leader. Nessuno dei due è il tipo di persona che potrebbe non essere all’altezza…
+Leader. Nessuno dei due è il tipo di persona che potrebbe non essere all’altezza…
 
 Notato… oppure non notarsi a vicenda. Quindi Gahagan aveva un piccolo…
 
@@ -13705,17 +13705,17 @@ Immediatamente al club.
 
 “Ne sei sicuro?” chiese Pond, corrugando la fronte.
 
-#Era certa di ciò; perché era furiosa da morire…
+Era certa di ciò; perché era furiosa da morire…
 
 “Sì,” rispose Luke. “Sembra che abbia qualche moda femminista in voga…”
 
-# Tutti gli uomini che vanno nei club lo fanno per…
+Tutti gli uomini che vanno nei club lo fanno per…
 
-# Racconti calunniosi sulle donne… e poi bere fino all’ubriachezza
+Racconti calunniosi sulle donne… e poi bere fino all’ubriachezza
 
-#Sotto banco… Forse provava un certo senso di professionalità.
+Sotto banco… Forse provava un certo senso di professionalità.
 
-#Anche su questo… forse avrebbe voluto che fosse più lungo.
+Anche su questo… forse avrebbe voluto che fosse più lungo.
 
 Intervista, sia per sé stessa che per The Live Wire… Ma giuro.
 
@@ -13727,11 +13727,11 @@ Assolutamente onesto.
 
 “Beh, eccolo lì,” disse Luke, parlando anche lui senza troppi complimenti.
 
-#"Ombra e malinconia: “Mi sembra che la psicologia di questa situazione sia fin troppo evidente…”"
+"Ombra e malinconia: “Mi sembra che la psicologia di questa situazione sia fin troppo evidente…”"
 
 Nelle circostanze del caso, esclamò dove in realtà stava andando.
 
-# Alla ragazza a cui era abituato a confidarsi… forse no.
+Alla ragazza a cui era abituato a confidarsi… forse no.
 
 Non pianificare mai il crimine con troppa attenzione… o forse non era davvero necessario farlo del tutto.
 
@@ -13741,7 +13741,7 @@ Le persone gentili che incontrava capivano quanto fosse saggio non dire che stav
 
 “Per i Feversham… Il suo primo impulso è dire, in fretta e troppo…”
 
-# Crudeamente, non avrebbe mai visitato i Feversham.
+Crudeamente, non avrebbe mai visitato i Feversham.
 
 Terza intervista: gli viene in mente una bugia davvero convincente… normale e plausibile.
 
@@ -13749,9 +13749,9 @@ A sufficienza vago; dice semplicemente che andrà al club.
 
 “Potrebbe essere così,” rispose Pond, “o forse, ” E il signor.
 
-Per la prima volta, Pond iniziò ad assumere l’abitudine pigra di Miss Asa-[[smith|Smith]].
+Per la prima volta, Pond iniziò ad assumere l’abitudine pigra di Miss Asa-Smith.
 
-#E non riuscì a finire la frase. Invece rimase seduto a fissare…
+E non riuscì a finire la frase. Invece rimase seduto a fissare…
 
 Titolo:  
 Distanza… con quel suo sguardo fisso e acquoso, simile a quello di un pesce; poi lui…
@@ -13768,9 +13768,9 @@ Il pesce barbuto riemergette in superficie, questa volta con un aspetto leggerme
 
 “Gahagan.”
 
-Per la prima [[Time|volta]], i tratti del viso di Luke si irrigidirono completamente, o forse ancora di più.
+Per la prima [[motifs/time|volta]], i tratti del viso di Luke si irrigidirono completamente, o forse ancora di più.
 
-#"Durezza. Desideriamo ardentemente portare in giudizio l’assassino del nostro cliente."
+"Durezza. Desideriamo ardentemente portare in giudizio l’assassino del nostro cliente."
 
 “Per far giustizia.”
 
@@ -13794,7 +13794,7 @@ quei testimoni.
 
 “Non può essere una cospirazione… Il mio piccolo americano è onesto quanto…”
 
-# Un uomo d’onore che non parteciperebbe mai a complotti. Il tipo di uomo che le donne…
+Un uomo d’onore che non parteciperebbe mai a complotti. Il tipo di uomo che le donne…
 
 Anche Violet Varney lo ama… E Joan Varney lo adora. E…
 
@@ -13877,7 +13877,7 @@ gentleman who was my client and friend!"
 
 "You seem a little annoyed," said Mr. Pond.  "Have you tried
 
-reading Dr. Johnson's [[Vanity]] of Human Wishes?  Very soothing.
+reading Dr. Johnson's [[concepts/vanity|Vanity]] of Human Wishes?  Very soothing.
 
 Believe me, those eighteenth-century writers I wanted to quote are
 
@@ -13887,7 +13887,7 @@ very soothing.  Have you read Addison's play about Cato?"
 
 "Or again," continued Mr. Pond in a chatty way, "have you read Miss
 
-Asa-[[smith|Smith]]'s play about the duchess in the bathing-suit?  All the
+Asa-Smith's play about the duchess in the bathing-suit?  All the
 
 sentences curiously cut short--like the bathing-suit."
 
@@ -13895,7 +13895,7 @@ sentences curiously cut short--like the bathing-suit."
 
 "Oh, yes, I mean a great deal," replied Pond.  "But it takes quite
 
-a long [[Time|time]] to explain--like the [[Vanity]] of Human Wishes.  What I
+a long [[motifs/time|time]] to explain--like the [[concepts/vanity|Vanity]] of Human Wishes.  What I
 
 mean is this.  My friend Gahagan is very fond of those old wits and
 
@@ -13909,9 +13909,9 @@ style; balance and antithesis and all that.  Now if you have this
 
 habit and read, say, the hackneyed lines in Cato:  ''Tis not in
 
-mortals to command [[success]]; but we'll do more, [[Sempronius]], we'll
+mortals to command success; but we'll do more, [[characters/sempronius|Sempronius]], we'll
 
-deserve it'--[[Well|well]], it may be good or bad; but you've got to wait
+deserve it'--[[motifs/well|well]], it may be good or bad; but you've got to wait
 
 for the end of the sentence; because it begins with a platitude and
 
@@ -13923,7 +13923,7 @@ nobody waits for it to end.
 
 don't think, they think quicker than we do.  They often talk
 
-better.  But they don't LISTEN so [[Well|well]].  They leap so quickly upon
+better.  But they don't LISTEN so [[motifs/well|well]].  They leap so quickly upon
 
 the first point; they see so much more in it; and go off in a
 
@@ -13957,7 +13957,7 @@ though his next words were that the woman almost certainly wasn't
 
 there.  Stuff about Brighton and the club didn't interest her, and
 
-she didn't even remember it.  Very [[Well|well]], let us go on to the next
+she didn't even remember it.  Very [[motifs/well|well]], let us go on to the next
 
 case.  What Gahagan said to Violet Varney was this:  'It's no good
 
@@ -13967,7 +13967,7 @@ but perhaps I'll look in and see; if they're not back, I shall go
 
 on to the club.'  Violet is much less truthful and careful than
 
-Joan; and she was jealous of [[Olivia]] herself, but in a much
+Joan; and she was jealous of [[characters/olivia|Olivia]] herself, but in a much
 
 shallower way, Violet supposing herself to be an actress.  She also
 
@@ -13981,7 +13981,7 @@ condescend to pay any attention whatever to anything else he said.
 
 "Now for the third case.  What Gahagan said to Miss Artemis Asa-
 
-[[smith|Smith]] on the doorstep was this:  'I'm going to the club; I promised
+Smith on the doorstep was this:  'I'm going to the club; I promised
 
 to look in on some friends of mine on the way, the Fevershams; but
 
@@ -13989,14 +13989,14 @@ I don't believe they're back from Brighton.'  That's what he said.
 
 What Artemis heard, saw and blasted with her blazing eye, was a
 
-typical insolent, selfish, [[Self|self]]-indulgent male brazenly bragging in
+typical insolent, selfish, [[concepts/self|self]]-indulgent male brazenly bragging in
 
 the open street of his intention to go to his infamous club, where
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Tutti quanti forniscono prove che lo contraddicono o, almeno, dimostrano che…
+Tutti quanti forniscono prove che lo contraddicono o, almeno, dimostrano che…
 
 Si è contraddetto. Eppure tutti hanno torto.
 
@@ -14018,15 +14018,15 @@ Correndo per la strada, lasciò una signora furiosa.
 
 “Esattamente,” disse Pond. “Dici che ha detto tre cose diverse.”
 
-# Disse la stessa cosa a tutti e tre… E poi cambiò idea.
+Disse la stessa cosa a tutti e tre… E poi cambiò idea.
 
 Prendendo un percorso diverso, ottenne lo stesso risultato.
 
 “L’ha girato dall’altra parte, va bene,” ribatté Luke quasi…
 
-#"Con violenza. “Ma se sale sul banco dei testimoni, scoprirà la verità…”"
+"Con violenza. “Ma se sale sul banco dei testimoni, scoprirà la verità…”"
 
-#Se la legge sul falso testimonio stabilisca che invertire la posizione di qualcosa ne cambi il significato…
+Se la legge sul falso testimonio stabilisca che invertire la posizione di qualcosa ne cambi il significato…
 
 Lo stesso.
 
@@ -14044,7 +14044,7 @@ Non capiva le donne… soprattutto quelle moderne. Quegli uomini…
 
 Il caro vecchio Gahagan è davvero il tuo bis-bisnonno?
 
-# Mr. Luke fece un gesto di improvvisa e sincera preoccupazione; non era…
+Mr. Luke fece un gesto di improvvisa e sincera preoccupazione; non era…
 
 Il primo uomo che per un momento pensò che il signor Pond fosse pazzo.
 
@@ -14054,9 +14054,9 @@ Il primo uomo che per un momento pensò che il signor Pond fosse pazzo.
 
 Non sapevo assolutamente nulla su di lei… il che rappresentava un notevole aumento delle mie ignoranze al riguardo.
 
-#Il suo potere? Ma come riuscivano a farle tanti complimenti… “Stai vicino a me.”
+Il suo potere? Ma come riuscivano a farle tanti complimenti… “Stai vicino a me.”
 
-#Ma forse… come sembra che tu pensi…
+Ma forse… come sembra che tu pensi…
 
 Titolo:  
 “Credo che non sia del tutto pertinente… Ma capisci cosa intendo.”
@@ -14081,7 +14081,7 @@ Molto rilassante. Hai letto la commedia di Addison su Catone?
 
 “O ancora,” continuò il signor Pond in tono conversazionale, “avete letto i lavori della signorina…”
 
-Lo spettacolo di Asa-[[smith|Smith]] sulla duchessa in costume da bagno. Tutto quanto.
+Lo spettacolo di Asa-Smith sulla duchessa in costume da bagno. Tutto quanto.
 
 Frasi stranamente interrotte a metà, proprio come quel costume da bagno.
 
@@ -14089,9 +14089,9 @@ Frasi stranamente interrotte a metà, proprio come quel costume da bagno.
 
 “Ah sì, intendo davvero molto,” rispose Pond. “Ma ci vuole un po’ di tempo…”
 
-Ci vorrebbe molto tempo per spiegarlo, come l’[[Vanity|VANITÀ]] dei desideri umani. Quello che voglio dire.
+Ci vorrebbe molto tempo per spiegarlo, come l’[[concepts/vanity|VANITÀ]] dei desideri umani. Quello che voglio dire.
 
-# Mai essere meschini… Mio amico Gahagan adora quei vecchi aneddoti e storie divertenti.
+Mai essere meschini… Mio amico Gahagan adora quei vecchi aneddoti e storie divertenti.
 
 Oratori, proprio come me; discorsi in cui bisogna aspettare…
 
@@ -14104,9 +14104,9 @@ Stile, equilibrio e antitesi… E tutto il resto. Ora, se avete questo…
 Titolo:  
 Abituati a leggere frasi banali come quelle contenute in “Cato”: “Non è nella…”
 
-I mortali possono comandare il [[success|successo]]; ma noi faremo di più, [[Sempronius|Sempronio]], faremo di più.
+I mortali possono comandare il successo; ma noi faremo di più, [[characters/sempronius|Sempronio]], faremo di più.
 
-Se lo merita,[[Well|benissimo]]; può essere buono o cattivo, ma devi aspettare.
+Se lo merita,[[motifs/well|benissimo]]; può essere buono o cattivo, ma devi aspettare.
 
 Per la fine della frase… perché inizia con una banalità.
 
@@ -14115,13 +14115,13 @@ Finisce con un punto… Ma il tipo di frase moderna non finisce mai.
 
 Nessuno aspetta che finisca.
 
-#"Ora le donne erano sempre un po’ così… Non è che loro…"
+"Ora le donne erano sempre un po’ così… Non è che loro…"
 
 Non pensare: loro pensano più velocemente di noi… Spesso parlano anche prima che noi abbiamo il tempo di riflettere.
 
 Meglio. Ma non ascoltano molto bene, quindi reagiscono troppo in fretta.
 
-# Il primo punto: ne vedono molto di più… e partono da lì.
+Il primo punto: ne vedono molto di più… e partono da lì.
 
 Una serie di inferenze rapide e affrettate al riguardo… tanto che a volte non se ne accorgono nemmeno.
 
@@ -14129,7 +14129,7 @@ Il resto del discorso, assolutamente no… Ma Gahagan, essendo dell’altra fazi
 
 Il tipo di eloquio tipico degli antichi oratori finiva sempre con una certa formulazione…
 
-#"Correttamente, e facendo attenzione a chiarire cosa intendesse alla fine..."
+"Correttamente, e facendo attenzione a chiarire cosa intendesse alla fine..."
 
 Inizio.
 
@@ -14145,9 +14145,9 @@ Nel primo caso, ciò che fu davvero detto a Joan fu: “Sto andando via”.
 
 Joan Varney sentì parlare di questa visita ai Fevershams…
 
-# Sentì immediatamente di sapere tutto al riguardo… troppo, addirittura.
+Sentì immediatamente di sapere tutto al riguardo… troppo, addirittura.
 
-# Il tono tutt’altro che innaturale di “Andrà a vedere quella donna”; anche…
+Il tono tutt’altro che innaturale di “Andrà a vedere quella donna”; anche…
 
 Nonostante le sue parole successive indicassero che quella donna quasi certamente non lo era…
 
@@ -14155,7 +14155,7 @@ Lì. Le informazioni su Brighton e il club non l’interessavano affatto…
 
 Non se ne ricordava nemmeno. Bene, allora passiamo al prossimo argomento.
 
-# Cosa disse Gahagan a Violet Varney… “Non serve a nulla”.
+Cosa disse Gahagan a Violet Varney… “Non serve a nulla”.
 
 “Andranno davvero dai Feversham… Non sono ancora tornati da Brighton…”
 
@@ -14163,11 +14163,11 @@ Non se ne ricordava nemmeno. Bene, allora passiamo al prossimo argomento.
 
 “Verso il club…” Violet è molto meno sincera e attenta di quanto dovrebbe essere…
 
-Joan. E lei stessa provava gelosia verso [[Olivia]], ma in modo molto diverso.
+Joan. E lei stessa provava gelosia verso [[characters/olivia|Olivia]], ma in modo molto diverso.
 
 Un percorso più superficiale… Violet, che si considerava un’attrice… E anche lei…
 
-#Sentito il nome Feversham, ricordò vagamente che lui lo aveva menzionato…
+Sentito il nome Feversham, ricordò vagamente che lui lo aveva menzionato…
 
 “Non c’è niente da fare in quella direzione… cioè, lui non stava andando lì. Lei invece sì.”
 
@@ -14177,17 +14177,17 @@ Decise di prestare la minima attenzione a qualsiasi altra cosa avesse detto.
 
 “Ora veniamo al terzo caso: cosa disse Gahagan a Miss Artemis Asa-…”
 
-[[smith|Smith]] alla porta d'ingresso disse: “Vado al club; l’ho promesso”.
+Smith alla porta d'ingresso disse: “Vado al club; l’ho promesso”.
 
 Durante il viaggio, ho deciso di fare visita ad alcuni miei amici, i Feversham…
 
 “Non credo che siano tornati da Brighton,” disse lui.
 
-# Ciò che Artemide udì, vide e distrusse con il suo sguardo ardente…
+Ciò che Artemide udì, vide e distrusse con il suo sguardo ardente…
 
 Un tipico uomo insolenzo, egoista e indulgente con se stesso, che si vanta senza alcuna vergogna.
 
-#La strada aperta verso il suo intento di recarsi al suo famigerato club…
+La strada aperta verso il suo intento di recarsi al suo famigerato club…
 
 
 
@@ -14214,13 +14214,13 @@ especially to these rather jumpy modern girls, accustomed only to
 
 jump at the sentence that comes first--very often because there
 
-isn't any thing at all to come after it.  The Asa-[[smith|Smith]] school of
+isn't any thing at all to come after it.  The Asa-Smith school of
 
 drama, in which every sentence stops as soon as it starts, if it
 
-doesn't strike you as having much to do with the [[Tragedy]] of Cato,
+doesn't strike you as having much to do with the [[forms/tragedy|Tragedy]] of Cato,
 
-has had a very great deal to do with the [[Tragedy]] of Captain
+has had a very great deal to do with the [[forms/tragedy|Tragedy]] of Captain
 
 Gahagan.  They might have hanged my friend between them, with the
 
@@ -14254,9 +14254,9 @@ proved any of this."
 
 guessed it.  But I did ring up Gahagan and hear something of the
 
-[[Truth|truth]] of his words and movements that afternoon."
+[[concepts/truth|truth]] of his words and movements that afternoon."
 
-"[[Truth]]!" cried Luke, with very extraordinary bitterness.
+"[[concepts/truth|Truth]]!" cried Luke, with very extraordinary bitterness.
 
 Pond looked at him curiously.  That woodenness of visage which was
 
@@ -14282,7 +14282,7 @@ came back to him about an actual conspiracy against Gahagan; though
 
 certainly not one worked by Artemis or Joan.  At last he broke the
 
-[[Silence|silence]] very abruptly.
+[[motifs/silence|silence]] very abruptly.
 
 "Mr. Luke," he said, "you are naturally concerned for your late
 
@@ -14292,7 +14292,7 @@ interest.  Since you study his interests so deeply, can you give me
 
 a piece of information about him?  DID Mr. Feversham and his wife
 
-come back from Brighton that day?  Was Mrs. Feversham at the [[house]]
+come back from Brighton that day?  Was Mrs. Feversham at the house
 
 that afternoon, whether Gahagan went there, or not?"
 
@@ -14300,17 +14300,17 @@ that afternoon, whether Gahagan went there, or not?"
 
 return next morning.  I have no idea why Feversham himself did
 
-return that [[Night|night]]."
+return that [[motifs/night|night]]."
 
 "Looks almost as if somebody had sent for him," said Mr. Pond.
 
-Mr. Luke the solicitor [[Rose|rose]] abruptly from his seat and turned away.
+Mr. Luke the solicitor [[motifs/rose|rose]] abruptly from his seat and turned away.
 
 "I cannot see any use in all these speculations of yours," he said,
 
 and, making a stiff salute, he took his top-hat and was gone from
 
-the [[house]] with a swiftness that seemed hardly normal.
+the house with a swiftness that seemed hardly normal.
 
 Next day Mr. Pond clad himself even more conventionally and
 
@@ -14348,17 +14348,17 @@ human personality and stands apart from modes and manners.  For
 
 Joan had very much the same tricks of style; the same rather high,
 
-[[Well|well]]-bred voice, the same sketchy, uncompleted sentences; but,
+[[motifs/well|well]]-bred voice, the same sketchy, uncompleted sentences; but,
 
 fortunately, not the same purple powder and not in the least the
 
-same eyes or gestures or mind or immortal [[Soul|soul]].  Mr. Pond, with all
+same eyes or gestures or mind or immortal [[motifs/soul|soul]].  Mr. Pond, with all
 
 his old-fashioned prejudices, knew at once that in this other girl
 
 the new virtues were virtues, whether or not they were new.  She
 
-really was brave and generous and fond of the [[Truth|truth]], though the
+really was brave and generous and fond of the [[concepts/truth|truth]], though the
 
 Society papers did say so.  "She's all right," said Mr. Pond to
 
@@ -14368,9 +14368,9 @@ And oh, how much better than platinum!"
 
 Stopping at the next stage of his pilgrimage, he visited the
 
-monstrous and ludicrous large hotel which had the [[Honour|honour]] of housing
+monstrous and ludicrous large hotel which had the [[concepts/honour|honour]] of housing
 
-Miss Artemis Asa-[[smith|Smith]] of Pennsylvania.  She received him with the
+Miss Artemis Asa-Smith of Pennsylvania.  She received him with the
 
 rather overwhelming enthusiasm which bore her everywhere through
 
@@ -14393,31 +14393,31 @@ Di tale sfacciata ammissione, ovviamente non poteva abbassarsi al punto di prend
 
 L’uomo che andò al club.
 
-#"Ora, tutte e tre quelle dichiarazioni di Gahagan sono esattamente..."
+"Ora, tutte e tre quelle dichiarazioni di Gahagan sono esattamente..."
 
 Lo stesso. Tutti significano la stessa cosa; indicano tutti lo stesso percorso da seguire.
 
-# Azione: fornire le stesse ragioni per gli stessi atti… Ma queste ragioni suonano diverse.
+Azione: fornire le stesse ragioni per gli stessi atti… Ma queste ragioni suonano diverse.
 
 Completamente diverso a seconda di quale frase venga pronunciata per prima…
 
-#Soprattutto per queste ragazze moderne, piuttosto irrequiete, abituate soltanto…
+Soprattutto per queste ragazze moderne, piuttosto irrequiete, abituate soltanto…
 
-# Afferrare al volo la prima frase che si presenta… spesso perché è proprio quella più importante.
+Afferrare al volo la prima frase che si presenta… spesso perché è proprio quella più importante.
 
-Non c’è assolutamente nulla che possa superarlo. La scuola di pensiero di Asa-[[smith|Smith]].
+Non c’è assolutamente nulla che possa superarlo. La scuola di pensiero di Asa-Smith.
 
 Dramma in cui ogni frase finisce non appena inizia…
 
-Non ti sembra che abbia molto a che fare con la [[Tragedy|Tragedia]] di Catone?
+Non ti sembra che abbia molto a che fare con la [[forms/tragedy|Tragedia]] di Catone?
 
-Ha avuto un ruolo molto importante nella [[Tragedy|tragedia]] del Capitano.
+Ha avuto un ruolo molto importante nella [[forms/tragedy|tragedia]] del Capitano.
 
 "Gahagan. Forse avrebbero impiccato mio amico tra loro..."
 
-#"Le migliori intenzioni del mondo… semplicemente perché esistono."
+"Le migliori intenzioni del mondo… semplicemente perché esistono."
 
-# Pensare solo in frasi incomplete… Colli spezzati, cuori infranti…
+Pensare solo in frasi incomplete… Colli spezzati, cuori infranti…
 
 Vivono… e tutto perché non vogliono imparare alcuna lingua, se non quelle “rotte”.
 
@@ -14425,7 +14425,7 @@ Italiano: Non pensi che ci sia qualcosa di valido in quello che dici?
 
 Un sapore antico e stantio, tipico di quel genere di letteratura…
 
-#Ti spinge a leggere tutto ciò che un uomo scrive e ad ascoltare tutto ciò che dice
+Ti spinge a leggere tutto ciò che un uomo scrive e ad ascoltare tutto ciò che dice
 
 Che ne dici di ricevere una dichiarazione importante? Non preferiresti?
 
@@ -14446,9 +14446,9 @@ Sempre più irrequieto e pieno di irritazione nervosa.
 
 Avevo indovinato… Ma ho comunque chiamato Gahagan e ho scoperto qualcosa al riguardo.
 
-La [[Truth|verità]] delle sue parole e dei suoi gesti quel pomeriggio.
+La [[concepts/truth|verità]] delle sue parole e dei suoi gesti quel pomeriggio.
 
-“[[Truth|Verità]]!”, gridò Luke con un dolore estremamente profondo.
+“[[concepts/truth|Verità]]!”, gridò Luke con un dolore estremamente profondo.
 
 Pond lo guardò con curiosità. Quell’espressione rigida, quel volto privo di emozioni…
 
@@ -14475,7 +14475,7 @@ Gli tornò in mente l’esistenza di una vera e propria cospirazione contro Gaha
 
 Certo che nessuno di questi lavori era stato realizzato da Artemis o Joan… Alla fine, ruppe il silenzio.
 
-Il [[Silence|silenzio]] calò improvvisamente.
+Il [[motifs/silence|silenzio]] calò improvvisamente.
 
 “Signor Luke,” disse, “è naturale che lei si preoccupi per il suo defunto…”
 
@@ -14483,9 +14483,9 @@ Client… ma alcuni potrebbero pensare che il tuo atteggiamento fosse più di qu
 
 Interesse… Poiché conosci così bene i suoi interessi, potresti dirmi…
 
-# Una notizia su di lui? Il signor Feversham e sua moglie…
+Una notizia su di lui? Il signor Feversham e sua moglie…
 
-Come tornò a casa da Brighton quel giorno? La signora Feversham era in quella [[house|casa]]?
+Come tornò a casa da Brighton quel giorno? La signora Feversham era in quella casa?
 
 Quel pomeriggio, sia che Gahagan ci fosse andato o meno,?
 
@@ -14494,7 +14494,7 @@ Quel pomeriggio, sia che Gahagan ci fosse andato o meno,?
 Titolo:  
 “Torna la mattina dopo… Non ho idea del perché Feversham abbia fatto così.”
 
-“Torna quella [[Night|notte]].”
+“Torna quella [[motifs/night|notte]].”
 
 “Sembra quasi che qualcuno lo abbia chiamato,” disse il signor Pond.
 
@@ -14502,34 +14502,34 @@ Il signor Luke, l’avvocato, si alzò improvvisamente dalla sua sedia e si allo
 
 “Non vedo alcun senso in tutte queste tue speculazioni,” disse.
 
-# E, dopo aver eseguito un rigido saluto, prese il suo cappello e se ne andò
+E, dopo aver eseguito un rigido saluto, prese il suo cappello e se ne andò
 
-La [[house|casa]] si muoveva con una velocità che sembrava quasi innaturale.
+La casa si muoveva con una velocità che sembrava quasi innaturale.
 
 Il giorno dopo, il signor Pond si vestì ancora in modo più convenzionale…
 
 Con maggiore attenzione del solito, iniziò a fare una serie di telefonate.
 
-#Una serie di signore: una solennità frivola che, per lui, non significava nulla
+Una serie di signore: una solennità frivola che, per lui, non significava nulla
 
 Titolo:  
 La prima signora che servì fu l’onorevole Violet.
 
 Varney, che fino ad allora aveva visto soltanto da lontano…
 
-#Leggermente depressa all’idea di dover vedere da così vicino… Lei era proprio ciò che lui desiderava.
+Leggermente depressa all’idea di dover vedere da così vicino… Lei era proprio ciò che lui desiderava.
 
 Si ritiene che, in questi ultimi tempi, venga descritto come un platino.
 
 “Bionda… Senz’dubbio un grazioso ricordo del suo stesso nome.”
 
-#Il colore che le fece tingere labbra e guance…
+Il colore che le fece tingere labbra e guance…
 
-#Più viola che porpora, un effetto che i suoi amici…
+Più viola che porpora, un effetto che i suoi amici…
 
-#Chiamata spettrale e i suoi nemici orribili… Anche da questa condizione di apatia…
+Chiamata spettrale e i suoi nemici orribili… Anche da questa condizione di apatia…
 
-#Signora… riuscì ad ottenere alcune ammissioni utili per aiutare nella…
+Signora… riuscì ad ottenere alcune ammissioni utili per aiutare nella…
 
 Ricostruzione delle vere parole di Gahagan… anche se appartenevano alla stessa signora.
 
@@ -14541,19 +14541,19 @@ Erano davvero finiti… Poi ebbe un altro incontro con lei.
 
 La personalità umana si distingue nettamente dai modi e dalle maniere comuni. Perché…
 
-# Joan utilizzava esattamente gli stessi trucchi stilistici; lo stesso tono piuttosto elevato…
+Joan utilizzava esattamente gli stessi trucchi stilistici; lo stesso tono piuttosto elevato…
 
 Voce ben educata, le stesse frasi incomplete e lasciate a metà, ma comunque.
 
 Fortunatamente, non era lo stesso polvere viola… e per niente affatto.
 
-Gli stessi occhi, gli stessi gesti, lo stesso modo di pensare, o forse l’immortale [[Soul|'anima]]? Signor Pond, con tutto ciò.
+Gli stessi occhi, gli stessi gesti, lo stesso modo di pensare, o forse l’immortale [[motifs/soul|'anima]]? Signor Pond, con tutto ciò.
 
-# I suoi pregiudizi antiquati gli fecero subito capire che questa ragazza era diversa dalle altre
+I suoi pregiudizi antiquati gli fecero subito capire che questa ragazza era diversa dalle altre
 
 Le nuove virtù erano pur sempre virtù, indipendentemente dal fatto che fossero nuove o meno… Lei.
 
-Era davvero coraggioso, generoso e amante della [[Truth|_verità]], anche se.
+Era davvero coraggioso, generoso e amante della [[concepts/truth|_verità]], anche se.
 
 I giornali di società lo dicevano davvero… “È tutto a posto”, disse il signor Pond.
 
@@ -14564,9 +14564,9 @@ E oh, quanto è meglio del platino!
 Titolo:  
 Fermatosi alla prossima tappa del suo pellegrinaggio, visitò…
 
-Un enorme e assurdo albergo che ebbe l’[[Honour|onore]] di ospitare.
+Un enorme e assurdo albergo che ebbe l’[[concepts/honour|onore]] di ospitare.
 
-Signorina Artemis Asa-[[smith|Smith]] del Pennsylvania. Lo accolse con.
+Signorina Artemis Asa-Smith del Pennsylvania. Lo accolse con.
 
 Un entusiasmo quasi travolgente che la portava ovunque con sé…
 
@@ -14575,7 +14575,7 @@ Il mondo… e il signor Pond non ebbe alcuna difficoltà nel suo caso.
 Titolo:  
 Ottenere una confessione anche da un uomo che frequenta i club…
 
-# Non essere per caso un assassino… Anche se questa spiegazione, naturalmente…
+Non essere per caso un assassino… Anche se questa spiegazione, naturalmente…
 
 Meno personale e intimo di quell’intervista con Joan…
 
@@ -14588,7 +14588,7 @@ which he always refused to say a word to anybody), the ardent
 
 Artemis continued to earn his approval by her reserves of good
 
-sense and good [[Nature|nature]].  She saw the point about the order of the
+sense and good [[concepts/nature|nature]].  She saw the point about the order of the
 
 topics mentioned, and its probable effect on her own mind; and so
 
@@ -14606,25 +14606,25 @@ himself together, before approaching his last duty--which also took
 
 the form of calling on a lady.  He might be excused; for it also
 
-involved passing through that grim [[Garden|garden]] where a man had lain
+involved passing through that grim [[motifs/garden|garden]] where a man had lain
 
-murdered, to that high and sinister [[house]] where his widow was still
+murdered, to that high and sinister house where his widow was still
 
-living [[Alone|alone]]: the great [[Olivia]], [[Queen|queen]] of [[Tragedy|tragedy]], now tragic by a
+living alone: the great [[characters/olivia|Olivia]], [[characters/queen|queen]] of [[forms/tragedy|tragedy]], now tragic by a
 
-[[Double|double]] claim.
+[[topoi/double|double]] claim.
 
 He stepped, not without repugnance, across that dark corner inside
 
-the gate and under the holly tree where poor [[Fred]] Feversham had
+the gate and under the holly tree where poor [[characters/fred|Fred]] Feversham had
 
-been spiked to the earth by a mere splinter of a [[Sword|sword]]; and as he
+been spiked to the earth by a mere splinter of a sword; and as he
 
 climbed the crooked path to the doorway in the narrow and bare
 
-brick [[house]] that stood above him like a tower, dark against the
+brick house that stood above him like a tower, dark against the
 
-[[Stars|stars]], he revolved difficulties much deeper than had yet troubled
+[[motifs/stars|stars]], he revolved difficulties much deeper than had yet troubled
 
 him in the more trifling matter of the supposed inconsistencies of
 
@@ -14636,7 +14636,7 @@ unfortunate Frederick Feversham; and there were some real reasons
 
 for directing the suspicion upon Gahagan.  After all, he had been
 
-in the habit of spending whole days, or half of the nights as [[Well|well]],
+in the habit of spending whole days, or half of the nights as [[motifs/well|well]],
 
 with this actress; nothing seemed more horribly natural, more
 
@@ -14652,7 +14652,7 @@ was not an advertisement, as it would be for Violet Varney.  She
 
 had really the stronger motive of the two . . . but, good God, this
 
-would never do!  Suppose Gahagan really was [[Innocent|innocent]]--but at that
+would never do!  Suppose Gahagan really was [[archetypes/innocent|innocent]]--but at that
 
 price!  Whatever his weaknesses, he was just the man to be hanged
 
@@ -14668,15 +14668,15 @@ what was there against Gahagan or the widow?  It seemed to him, as
 
 he forced himself to colder considerations, that it really resolved
 
-itself into a matter of [[Time|time]].
+itself into a matter of [[motifs/time|time]].
 
-Gahagan had certainly spent a huge amount of [[Time|TIME]] with [[Olivia]]; that
+Gahagan had certainly spent a huge amount of [[motifs/time|TIME]] with [[characters/olivia|Olivia]]; that
 
 was really the only external proof of his passion for her.  The
 
 proofs of his passion for Joan were very external indeed.  Pond
 
-could have sworn that the Irishman was really in [[Love|love]] with Joan.
+could have sworn that the Irishman was really in [[motifs/love|love]] with Joan.
 
 He threw himself at her head; and she, on the accepted standards of
 
@@ -14684,9 +14684,9 @@ modern youth, threw herself back at him.  But these encounters, one
 
 might say collisions, were as brief as they were brilliant.  Why
 
-did a [[Lover|lover]] full of such triumphs want to go off and spend such a
+did a [[archetypes/lover|lover]] full of such triumphs want to go off and spend such a
 
-lot of [[Time|TIME]] with a much older woman? . . .  These broodings had
+lot of [[motifs/time|TIME]] with a much older woman? . . .  These broodings had
 
 turned him into an automaton and brought him unconsciously past the
 
@@ -14694,11 +14694,11 @@ servants and up the stairs and into the very room where he was
 
 asked to wait for Mrs. Feversham.  He nervously picked up an old
 
-battered book, apparently dating from the [[Time|time]] when the actress was
+battered book, apparently dating from the [[motifs/time|time]] when the actress was
 
 a schoolgirl, for the flyleaf showed in a very schoolgirl hand:
 
-"[[Olivia]] Malone."  Perhaps the great Shakespearian actress claimed
+"[[characters/olivia|Olivia]] Malone."  Perhaps the great Shakespearian actress claimed
 
 descent from the great Shakespearian critic.  But, anyhow, she must
 
@@ -14716,13 +14716,13 @@ it wrote themselves rapidly across his brain with the bewildering
 
 brevity of a hieroglyphic.
 
-"[[Love]] never needs [[Time|time]].  But [[Friendship]] always needs [[Time|time]].  More
+"[[motifs/love|Love]] never needs [[motifs/time|time]].  But [[concepts/friendship|Friendship]] always needs [[motifs/time|time]].  More
 
-and more and more [[Time|time]], up to long past midnight."
+and more and more [[motifs/time|time]], up to long past midnight."
 
 When Gahagan had done those crazy things that blazoned his devotion
 
-to Joan Varney, they had hardly occupied any [[Time|time]].  When he fell on
+to Joan Varney, they had hardly occupied any [[motifs/time|time]].  When he fell on
 
 her from a parachute as she came out of church at Bournemouth, the
 
@@ -14732,17 +14732,17 @@ costing hundreds of pounds to stay with her half an hour longer in
 
 Samoa, it was only half an hour longer.  When he swam the
 
-Hellespont in [[Imitation|imitation]] of Leander, it was only for exactly thirty-
+Hellespont in imitation of Leander, it was only for exactly thirty-
 
-five minutes' conversation with [[Hero]].  But [[Love]] is like that.  It
+five minutes' conversation with [[archetypes/hero|Hero]].  But [[motifs/love|Love]] is like that.  It
 
-is a thing of great moments; and it lives on the [[Memory|memory]] of moments.
+is a thing of great moments; and it lives on the [[motifs/memory|memory]] of moments.
 
 Perhaps it is a fragile illusion; perhaps, on the other hand, it is
 
-eternal and beyond [[Time|time]].  But [[Friendship]] eats up [[Time|time]].  If poor
+eternal and beyond [[motifs/time|time]].  But [[concepts/friendship|Friendship]] eats up [[motifs/time|time]].  If poor
 
-Gahagan had a real intellectual [[Friendship|friendship]], then he would go on
+Gahagan had a real intellectual [[concepts/friendship|friendship]], then he would go on
 
 talking till long past midnight.  And with whom would Gahagan be so
 
@@ -14750,7 +14750,7 @@ likely to have one as with an Irish actress who was chiefly
 
 interested in Shakespeare?  Even as he had the thought, he heard
 
-the rich and faintly Irish voice of [[Olivia]] welcoming him; and he
+the rich and faintly Irish voice of [[characters/olivia|Olivia]] welcoming him; and he
 
 knew he was right.
 
@@ -14765,11 +14765,11 @@ called Poetry; or perhaps I ought to say it's generally called
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Il fervente che mai pronunciava una parola con nessuno
+Il fervente che mai pronunciava una parola con nessuno
 
 Artemis continuò ad guadagnarsi la sua approvazione grazie alla sua riservatezza e alle sue buone qualità.
 
-Senso e buona [[Nature|natura]]. Capì l'importanza dell’ordine.
+Senso e buona [[concepts/nature|natura]]. Capì l'importanza dell’ordine.
 
 Argomenti menzionati e il loro probabile effetto sulla sua mente…
 
@@ -14786,38 +14786,38 @@ Dopo aver finito di parlare, il signor Pond fece una breve pausa… e forse anch
 
 Riprendere il controllo di sé stesso, prima di affrontare l’ultima sua responsabilità… che anch’essa richiedeva determinazione.
 
-#Il modo corretto per rivolgersi a una signora… Forse può essere scusato, poiché anche lui…
+Il modo corretto per rivolgersi a una signora… Forse può essere scusato, poiché anche lui…
 
-Doveva attraversare quel cupo [[Garden|giardino]] in cui un uomo era giaceuto morto.
+Doveva attraversare quel cupo [[motifs/garden|giardino]] in cui un uomo era giaceuto morto.
 
-Ucciso, in quella alta e sinistra [[house|casa]] dove sua vedova era ancora.
+Ucciso, in quella alta e sinistra casa dove sua vedova era ancora.
 
-Vivere [[Alone|da solo]]: la grande [[Olivia]], [[Queen|regina]] della [[Tragedy|tragedia]], ora tragica a causa di.
+Vivere da solo: la grande [[characters/olivia|Olivia]], [[characters/queen|regina]] della [[forms/tragedy|tragedia]], ora tragica a causa di.
 
 Una doppia rivendicazione.
 
-# Attraversò con riluttanza quel angolo buio all’interno
+Attraversò con riluttanza quel angolo buio all’interno
 
-Il cancello, e sotto l’albero di vischio, dove il povero [[Fred]] Feversham aveva.
+Il cancello, e sotto l’albero di vischio, dove il povero [[characters/fred|Fred]] Feversham aveva.
 
-È stato trafitto a morte da un semplice frammento di una [[Sword|_spada]]; e mentre.
+È stato trafitto a morte da un semplice frammento di una _spada; e mentre.
 
-#Salì per il sentiero tortuoso fino alla porta d’ingresso, nel corridoio stretto e spoglio
+Salì per il sentiero tortuoso fino alla porta d’ingresso, nel corridoio stretto e spoglio
 
 La casa in mattoni che si ergeva sopra di lui come una torre, scura contro il cielo.
 
-Le [[Stars|stelle]], lui affrontava difficoltà molto più profonde di quelle che avevano mai turbato prima.
+Le [[motifs/stars|stelle]], lui affrontava difficoltà molto più profonde di quelle che avevano mai turbato prima.
 
 Titolo:  
 Nella questione più banale delle presunte incongruenze…
 
-# La conversazione di Gahagan: c’era una domanda vera e propria dietro tutto ciò
+La conversazione di Gahagan: c’era una domanda vera e propria dietro tutto ciò
 
 “Sciocchezze… e richiedeva una risposta. Qualcuno aveva commesso un omicidio…”
 
 Frederick Feversham… e c’erano davvero delle ragioni concrete per tutto ciò che gli accadde.
 
-#Per far ricadere i sospetti su Gahagan… Dopotutto, lui era stato il responsabile.
+Per far ricadere i sospetti su Gahagan… Dopotutto, lui era stato il responsabile.
 
 abituato a trascorrere intere giornate, o metà delle notti, in modo piacevole, ovviamente.
 
@@ -14829,33 +14829,33 @@ Più probabile di quanto possa sembrare… piuttosto che essere stati sorpresi.
 
 Spesso paragonata a Mrs. Siddons… Il suo comportamento esteriore.
 
-#Sempre piena di dignità e discrezione… Un scandalo per lei
+Sempre piena di dignità e discrezione… Un scandalo per lei
 
 Non era un annuncio pubblicitario, come lo sarebbe stato per Violet Varney… Lei.
 
-# Aveva davvero il movente più forte dei due… ma, mio Dio, questo…
+Aveva davvero il movente più forte dei due… ma, mio Dio, questo…
 
-Non lo farei mai! Supponiamo che Gahagan fosse davvero [[Innocent|innocente]], ma anche in quel caso.
+Non lo farei mai! Supponiamo che Gahagan fosse davvero [[archetypes/innocent|innocente]], ma anche in quel caso.
 
-# Il prezzo da pagare… Quali che fossero le sue debolezze, era proprio l’uomo adatto per essere impiccato.
+Il prezzo da pagare… Quali che fossero le sue debolezze, era proprio l’uomo adatto per essere impiccato.
 
 “Come un gentiluomo, piuttosto che lasciare che la signora… Alzò lo sguardo e…”
 
-# Terrore crescente alla torre di mattoni scuri… chiedendosi se dovesse…
+Terrore crescente alla torre di mattoni scuri… chiedendosi se dovesse…
 
-#Incontra l’assassina… Poi la scagliò via con rabbia
+Incontra l’assassina… Poi la scagliò via con rabbia
 
 Morbilità… e tentò di nuovo di concentrarsi sui fatti. Dopotutto…
 
-# Che cosa c’era contro Gahagan o la vedova? A lui sembrava…
+Che cosa c’era contro Gahagan o la vedova? A lui sembrava…
 
 Si costrinse a riflettere in modo più oggettivo, convincendosi che la situazione si potesse davvero risolvere.
 
-trasformarsi in una questione di [[Time|tempo]].
+trasformarsi in una questione di [[motifs/time|tempo]].
 
-Gahagan aveva sicuramente trascorso un sacco di [[Time|tempo]] con [[Olivia]]; quello.
+Gahagan aveva sicuramente trascorso un sacco di [[motifs/time|tempo]] con [[characters/olivia|Olivia]]; quello.
 
-#L’unico segno esterno della sua passione per lei…
+L’unico segno esterno della sua passione per lei…
 
 Le prove della sua passione per Joan erano davvero molto evidenti… Il laghetto.
 
@@ -14867,27 +14867,27 @@ La giovane moderna si gettò di nuovo tra le sue braccia… Ma questi incontri�
 
 Si potrebbe dire che quelle collisioni fossero brevi, ma al contempo straordinarie… Perché?
 
-Un [[Lover|amante]] pieno di tali trionfi, vorrebbe forse andarsene e trascorrere del tempo in modo simile.
+Un [[archetypes/lover|amante]] pieno di tali trionfi, vorrebbe forse andarsene e trascorrere del tempo in modo simile.
 
-Molto [[Time|tempo]] trascorso con una donna molto più anziana. Questi pensieri continuavano a tormentarlo.
+Molto [[motifs/time|tempo]] trascorso con una donna molto più anziana. Questi pensieri continuavano a tormentarlo.
 
 Lo trasformò in un automa e lo fece procedere inconsciamente oltre…
 
 Servitori… e su per le scale, fino alla stanza esatta in cui si trovava lui.
 
-#Chiesto di attendere la signora Feversham. Lui, nervosamente, prese in mano un vecchio…
+Chiesto di attendere la signora Feversham. Lui, nervosamente, prese in mano un vecchio…
 
-Un libro logoro, che apparentemente risale al [[Time|tempo]] in cui l’attrice.
+Un libro logoro, che apparentemente risale al [[motifs/time|tempo]] in cui l’attrice.
 
 “Una studentessa…”, poiché la dedica era scritta con una grafia tipicamente da ragazza adolescente.
 
-“[[Olivia]] Malone.” Forse fu questa grande attrice shakespeariana a dirlo.
+“[[characters/olivia|Olivia]] Malone.” Forse fu questa grande attrice shakespeariana a dirlo.
 
-# Discendenza del grande critico shakespeariano… Ma comunque sia, lei deve…
+Discendenza del grande critico shakespeariano… Ma comunque sia, lei deve…
 
 Essere irlandesi, almeno per tradizione.
 
-# Mentre si chinava su quel libro logoro nella semioscurità dell’anticamera…
+Mentre si chinava su quel libro logoro nella semioscurità dell’anticamera…
 
 Nella sua mente balenò un raggio bianco di serena e completa comprensione: così.
 
@@ -14899,47 +14899,47 @@ Una certezza piena e assoluta… Eppure le uniche parole in grado di esprimerla�
 
 La brevità di un geroglifico.
 
-L’[[Love|Amore]] non ha mai bisogno di [[Time|tempo]]. Ma l’[[Friendship|Amicizia]] ha sempre bisogno di [[Time|tempo]]. Molto di più.
+L’[[motifs/love|Amore]] non ha mai bisogno di [[motifs/time|tempo]]. Ma l’[[concepts/friendship|Amicizia]] ha sempre bisogno di [[motifs/time|tempo]]. Molto di più.
 
 E più e più a lungo, fino a molto dopo mezzanotte.
 
-# Quando Gahagan fece quelle cose folli che dimostravano la sua devozione
+Quando Gahagan fece quelle cose folli che dimostravano la sua devozione
 
-Per Joan Varney, non avevano trascorso quasi nessun [[Time|tempo]] insieme. Quando lui cadde.
+Per Joan Varney, non avevano trascorso quasi nessun [[motifs/time|tempo]] insieme. Quando lui cadde.
 
-#Caduta da paracadute mentre usciva dalla chiesa a Bournemouth
+Caduta da paracadute mentre usciva dalla chiesa a Bournemouth
 
 La caduta fu naturalmente molto rapida… Quando strappò il biglietto di andata e ritorno.
 
-#Costando centinaia di sterline per restare con lei ancora mezz’ora…
+Costando centinaia di sterline per restare con lei ancora mezz’ora…
 
-# Samoa… solo mezz’ora in più. Quando nuotò…
+Samoa… solo mezz’ora in più. Quando nuotò…
 
-L’Ellesponto, nell’[[Imitation|imitazione]] di Leandro, esisteva soltanto per esattamente trenta.
+L’Ellesponto, nell’imitazione di Leandro, esisteva soltanto per esattamente trenta.
 
-Cinque minuti di conversazione con [[Hero|Eroe]]. Ma l’[[Love|Amore]] è proprio così.
+Cinque minuti di conversazione con [[archetypes/hero|Eroe]]. Ma l’[[motifs/love|Amore]] è proprio così.
 
-È qualcosa che riguarda momenti importanti; sopravvive nella [[Memory|memoria]] di quei momenti.
+È qualcosa che riguarda momenti importanti; sopravvive nella [[motifs/memory|memoria]] di quei momenti.
 
 “Forse è solo un’illusione fragile… Forse, d’altra parte, è qualcosa di molto più reale.”
 
-Eterno e al di là del [[Time|tempo]]. Ma l’[[Friendship|Amicizia]] consuma il [[Time|tempo]]. Se solo.
+Eterno e al di là del [[motifs/time|tempo]]. Ma l’[[concepts/friendship|Amicizia]] consuma il [[motifs/time|tempo]]. Se solo.
 
 Gahagan aveva un vero rapporto di amicizia intellettuale; poi proseguiva.
 
 Parlando fino a molto dopo mezzanotte… E con chi mai Gahagan avrebbe potuto farlo?
 
-#Probabilmente lo avrà anche un’attrice irlandese che…
+Probabilmente lo avrà anche un’attrice irlandese che…
 
-#Interessato a Shakespeare? Mentre aveva quel pensiero, sentì…
+Interessato a Shakespeare? Mentre aveva quel pensiero, sentì…
 
-La voce ricca e leggermente irlandese di [[Olivia]] che lo accoglieva. E lui.
+La voce ricca e leggermente irlandese di [[characters/olivia|Olivia]] che lo accoglieva. E lui.
 
 Sapeva di avere ragione.
 
 “Non lo sai forse?”, chiese la vedova con un sorriso triste, quando lui…
 
-# Aveva guidato abilmente la conversazione lontano dai commenti di cordoglio per il Capitano
+Aveva guidato abilmente la conversazione lontano dai commenti di cordoglio per il Capitano
 
 "Gahagan: ‘Non sapete che noi poveri irlandesi abbiamo un vizio segreto?’"
 
@@ -14953,15 +14953,15 @@ Chiamata poesia… o forse dovrei dire che generalmente viene chiamata così.
 
 Recitation.  It's been suppressed by the police in all the English
 
-salons; and that's the worst of the Irish wrongs.  People in [[London]]
+salons; and that's the worst of the Irish wrongs.  People in [[settings/london|London]]
 
-are not allowed to recite [[Poems|poems]] to each other all [[Night|night]], as they do
+are not allowed to recite poems to each other all [[motifs/night|night]], as they do
 
 in Dublin.  Poor Peter used to come to me and talk Shakespeare till
 
 morning; but I had to turn him out at last.  When a man calls on
 
-ME, and tries to recite the whole of [[Romeo]] and [[Juliet]], it gets past
+ME, and tries to recite the whole of [[characters/romeo|Romeo]] and [[characters/juliet|Juliet]], it gets past
 
 a joke.  But you see how it was.  The English won't allow the poor
 
@@ -14977,25 +14977,25 @@ that neither devils nor dynamite will stop them from reciting
 
 verse.  All the black clouds of morbid brooding on the murder which
 
-had oppressed him in the [[Garden|garden]] had rolled away at the first sound
+had oppressed him in the [[motifs/garden|garden]] had rolled away at the first sound
 
 of this strong, good-humoured irishwoman's voice.  But after a
 
 little while they began to gather again, though more remotely.
 
-After all, as he had said before, SOMEBODY had killed poor [[Fred]]
+After all, as he had said before, SOMEBODY had killed poor [[characters/fred|Fred]]
 
 Feversham.
 
 He was quite certain now that it was not Feversham's wife.  He was
 
-practically certain it was not Gahagan.  He went [[Home|home]] that [[Night|night]]
+practically certain it was not Gahagan.  He went [[motifs/home|home]] that [[motifs/night|night]]
 
-turning the question over and over; but he had only one [[Night|night]]'s
+turning the question over and over; but he had only one [[motifs/night|night]]'s
 
 unrest.  For the next day's paper contained the news of the
 
-unexplained [[suicide]] of Mr. Luke, of the [[Well|well]]-known firm of Masters,
+unexplained [[concepts/suicide|suicide]] of Mr. Luke, of the [[motifs/well|well]]-known firm of Masters,
 
 Luke and Masters; and Mr. Pond sat gently chiding himself, because
 
@@ -15007,7 +15007,7 @@ possibly discover one day that he has been swindled by his own
 
 solicitor.  Feversham had summoned Luke to that midnight meeting in
 
-the [[Garden|garden]], in order to tell him so; but Mr. Luke, a man careful of
+the [[motifs/garden|garden]], in order to tell him so; but Mr. Luke, a man careful of
 
 his professional standing, had taken very prompt steps to prevent
 
@@ -15025,11 +15025,11 @@ WHEN DOCTORS AGREE
 
 Mr. Ponds paradoxes were of a very peculiar kind.  They were indeed
 
-paradoxical defiances even of the law of [[Paradox|paradox]].  [[Paradox]] has been
+paradoxical defiances even of the law of [[concepts/paradox|paradox]].  [[concepts/paradox|Paradox]] has been
 
-defined as "[[Truth]] standing on her head to attract attention."
+defined as "[[concepts/truth|Truth]] standing on her head to attract attention."
 
-[[Paradox]] has been defended; on the ground that so many fashionable
+[[concepts/paradox|Paradox]] has been defended; on the ground that so many fashionable
 
 fallacies still stand firmly on their feet, because they have no
 
@@ -15041,11 +15041,11 @@ attention.  They set out conspicuously, in a single line in a play,
 
 or at the head or tail of a paragraph, remarks of this challenging
 
-kind; as when Mr. Bernard [[Shaw]] wrote:  "The Golden Rule is that
+kind; as when Mr. Bernard [[works/shaw-(chesterton)|Shaw]] wrote:  "The Golden Rule is that
 
 there is no Golden Rule"; or Oscar Wilde observed:  "I can resist
 
-everything except [[Temptation|temptation]]"; or a duller scribe (not to be named
+everything except [[concepts/temptation|temptation]]"; or a duller scribe (not to be named
 
 with these and now doing penance for his earlier vices in the
 
@@ -15119,11 +15119,11 @@ got tipsy at once."  Broadly speaking, two kinds of people stopped
 
 him with stares or questions: the very stupid and the very clever.
 
-The stupid because the absurdity [[Alone|alone]] stuck out from a level of
+The stupid because the absurdity alone stuck out from a level of
 
 intelligence that baffled them; it was indeed in itself an example
 
-of the [[Truth|truth]] in [[Paradox|paradox]].  The only part of his conversation they
+of the [[concepts/truth|truth]] in [[concepts/paradox|paradox]].  The only part of his conversation they
 
 could understand was the part they could not understand.  And the
 
@@ -15140,21 +15140,21 @@ His friend Gahagan, that ginger-haired giant and somewhat flippant
 
 Recitazione… È stata soppressa dalla polizia in tutta l’Inghilterra.
 
-I salotti. E questo è il peggiore degli errori commessi dagli irlandesi. Le persone a [[London|Londra]].
+I salotti. E questo è il peggiore degli errori commessi dagli irlandesi. Le persone a [[settings/london|Londra]].
 
-Non è permesso recitarsi a vicenda delle [[Poems|poesie]] per tutta la [[Night|notte]], come fanno di solito.
+Non è permesso recitarsi a vicenda delle poesie per tutta la [[motifs/night|notte]], come fanno di solito.
 
 A Dublino… Povero Peter veniva spesso da me a parlarmi di Shakespeare…
 
 Mattina… ma alla fine ho dovuto cacciarlo via. Quando un uomo viene a far visita…
 
-Io, e provo a recitare l’intero testo di [[Romeo]] e [[Juliet|Giulietta]]; riesco a farcela.
+Io, e provo a recitare l’intero testo di [[characters/romeo|Romeo]] e [[characters/juliet|Giulietta]]; riesco a farcela.
 
 “Una battuta… Ma capite com’è andata. Gli inglesi non permettono ai poveri di…”
 
 Un compagno che potesse recitare Shakespeare.
 
-#Il signor Pond capì davvero com’era la situazione. Conosceva abbastanza gli uomini da…
+Il signor Pond capì davvero com’era la situazione. Conosceva abbastanza gli uomini da…
 
 “Si deve sapere che un uomo ha bisogno di avere un amico, se possibile una donna amica…”
 
@@ -15162,40 +15162,40 @@ Un compagno che potesse recitare Shakespeare.
 
 Che né diavoli né dinamite possano impedire loro di recitare
 
-# Versi. Tutti quei nuvoli neri di cupa preoccupazione riguardo all’omicidio…
+Versi. Tutti quei nuvoli neri di cupa preoccupazione riguardo all’omicidio…
 
-Coloro che lo avevano oppresso nel [[Garden|giardino]] si erano allontanati non appena avevano sentito quel suono.
+Coloro che lo avevano oppresso nel [[motifs/garden|giardino]] si erano allontanati non appena avevano sentito quel suono.
 
 Il suono della voce di questa forte e bonaria donna irlandese… Ma dopo un po’…
 
 Dopo poco iniziarono a radunarsi di nuovo, anche se a distanza maggiore.
 
-Dopo tutto, come aveva detto prima, qualcuno aveva ucciso povero [[Fred]].
+Dopo tutto, come aveva detto prima, qualcuno aveva ucciso povero [[characters/fred|Fred]].
 
 Feversham.
 
 Era assolutamente certo ora che non era la moglie di Feversham. Era…
 
-Era praticamente certo che non fosse Gahagan. Quella [[Night|notte]] tornò a [[Home|casa]].
+Era praticamente certo che non fosse Gahagan. Quella [[motifs/night|notte]] tornò a [[motifs/home|casa]].
 
-Ripensava alla domanda ancora e ancora, ma aveva a disposizione soltanto una [[Night|notte]].
+Ripensava alla domanda ancora e ancora, ma aveva a disposizione soltanto una [[motifs/night|notte]].
 
-#Disordini. Perché il giornale del giorno seguente riportava la notizia…
+Disordini. Perché il giornale del giorno seguente riportava la notizia…
 
-Un inspiegabile [[suicide|suicidio]] del signor Luke, dell’ottima azienda Masters.
+Un inspiegabile [[concepts/suicide|suicidio]] del signor Luke, dell’ottima azienda Masters.
 
-# Luke e i Maestri; e il signor Pond sedeva lì, rimproverandosi dolcemente…
+Luke e i Maestri; e il signor Pond sedeva lì, rimproverandosi dolcemente…
 
 Non aveva considerato il fatto ovvio: che un uomo che è sempre…
 
-# Distruzione e sofferenza per colpa di un truffatore
+Distruzione e sofferenza per colpa di un truffatore
 
 Titolo:  
 Forse un giorno scoprirà di essere stato truffato proprio dalle sue stesse mani…
 
 Solicitore… Feversham aveva convocato Luke per quell’incontro a mezzanotte.
 
-Il [[Garden|giardino]], per poterglielo dire; ma il signor Luke, un uomo attento.
+Il [[motifs/garden|giardino]], per poterglielo dire; ma il signor Luke, un uomo attento.
 
 Il suo prestigio professionale lo aveva spinto ad agire immediatamente per impedirlo.
 
@@ -15203,7 +15203,7 @@ Il signor Feversham non ne parla con nessun altro.
 
 “Mi fa sentire molto male,” disse il signor Pond, in modo umile e quasi…
 
-#"Con tremore… In quell’ultima nostra riunione riuscii a vedere che lui…”
+"Con tremore… In quell’ultima nostra riunione riuscii a vedere che lui…”
 
 Già terribilmente spaventato… E sai una cosa? Ho davvero molta paura.
 
@@ -15214,13 +15214,13 @@ Quando i medici sono d’accordo
 
 I paradossi del signor Ponds erano di una sorta molto particolare… Davvero.
 
-Defezioni paradossali, persino nei confronti della legge del [[Paradox|paradosso]]. Il [[Paradox|paradosso]] è sempre stato.
+Defezioni paradossali, persino nei confronti della legge del [[concepts/paradox|paradosso]]. Il [[concepts/paradox|paradosso]] è sempre stato.
 
-Definito come “la [[Truth|Verità]] che si mette a testa in giù per attirare l’attenzione”.
+Definito come “la [[concepts/truth|Verità]] che si mette a testa in giù per attirare l’attenzione”.
 
-Il [[Paradox|paradosso]] è stato difeso, sostenendo che così tante tendenze alla moda.
+Il [[concepts/paradox|paradosso]] è stato difeso, sostenendo che così tante tendenze alla moda.
 
-# Illusioni che rimangono saldamente in piedi, perché non hanno fondamento reale
+Illusioni che rimangono saldamente in piedi, perché non hanno fondamento reale
 
 Titolo: “Punti su cui basarsi… Ma bisogna ammettere che gli scrittori, proprio come…”
 
@@ -15228,13 +15228,13 @@ Altri mendicanti e ciarlatani cercano spesso di attirare l’attenzione delle pe
 
 Attenzione: appaiono in modo evidente, disposti in una singola fila all’interno di un’opera teatrale.
 
-# All'inizio o alla fine di un paragrafo, osservazioni di questo tipo…
+All'inizio o alla fine di un paragrafo, osservazioni di questo tipo…
 
-Buono. Proprio come scrisse il signor Bernard [[Shaw]]: “La Regola d’Oro è, ”
+Buono. Proprio come scrisse il signor Bernard [[works/shaw-(chesterton)|Shaw]]: “La Regola d’Oro è, ”
 
 “Non esiste una Regola d’Oro”; o come osservò Oscar Wilde: “Posso resisterle”.
 
-Tutto tranne la [[Temptation|tentazione]]; oppure uno scriba più noioso, il cui nome non verrà mai menzionato.
+Tutto tranne la [[concepts/temptation|tentazione]]; oppure uno scriba più noioso, il cui nome non verrà mai menzionato.
 
 Con questi e ora compiendo penitenza per i suoi precedenti vizi…
 
@@ -15255,7 +15255,7 @@ Ma il signor Pond apparteneva a un mondo più raffinato, e i suoi paradossi…
 
 Interamente diverso… Era davvero impossibile immaginare il signor Pond in quel contesto.
 
-# In piedi sulla testa… Ma era altrettanto facile immaginarlo così.
+In piedi sulla testa… Ma era altrettanto facile immaginarlo così.
 
 In piedi sulla testa, si può immaginare che stia cercando di attirare l’attenzione.
 
@@ -15263,7 +15263,7 @@ Era l’uomo più silenzioso del mondo… nonostante fosse un uomo di mondo.
 
 Un piccolo e ordinato funzionario pubblico: nulla di particolare in lui.
 
-# Tranne per una barba che non solo sembrava antiquata, ma anche…
+Tranne per una barba che non solo sembrava antiquata, ma anche…
 
 Straniero… e forse anche un po’ francese, ma era pur sempre tanto inglese quanto…
 
@@ -15275,13 +15275,13 @@ Cosmopolita… assolutamente rispettabile. Un’altra cosa che…
 
 Un leggero accento francese si percepiva nella sua parlata: un tocco distintivo nel suo modo di esprimersi.
 
-# Monotonia inciampante che non inciampa mai su una singola vocale… Per il
+Monotonia inciampante che non inciampa mai su una singola vocale… Per il
 
-# I francesi portano con sé il senso dell’uguaglianza, anche nell’idea di uguaglianza tra…
+I francesi portano con sé il senso dell’uguaglianza, anche nell’idea di uguaglianza tra…
 
 Sillabe… Con questo flusso regolare, pieno di chiacchiere gentili su…
 
-# Vienna: una volta stava intrattenendo una signora… e cinque minuti dopo…
+Vienna: una volta stava intrattenendo una signora… e cinque minuti dopo…
 
 Tornò dai suoi amici con il viso molto pallido e loro gli sussurrarono qualcosa.
 
@@ -15289,13 +15289,13 @@ Il terribile segreto: quell’uomo apparentemente mite era in realtà pazzo.
 
 La particolarità del suo modo di conversare consisteva nel fatto che, a metà di una frase…
 
-# Flusso costante di senso… e all’improvviso apparivano due o tre elementi diversi
+Flusso costante di senso… e all’improvviso apparivano due o tre elementi diversi
 
-# Parole che sembravano semplicemente assurdità… Era come se qualcosa…
+Parole che sembravano semplicemente assurdità… Era come se qualcosa…
 
 Il funzionamento di un grammofono aveva improvvisamente iniziato ad andare storto…
 
-# Sciocchezze di cui lo stesso parlante sembrava non accorgersi nemmeno…
+Sciocchezze di cui lo stesso parlante sembrava non accorgersi nemmeno…
 
 A volte nemmeno i suoi ascoltatori si accorgevano che quel discorso fosse così naturale.
 
@@ -15314,11 +15314,11 @@ La stupidità, perché soltanto l’assurdità spiccava in quel contesto.
 
 Intelligenza che li lasciava perplessi; era davvero un esempio di sé stessa.
 
-Della [[Truth|verità]] contenuta nel [[Paradox|paradosso]]. L’unica parte della sua conversazione che loro.
+Della [[concepts/truth|verità]] contenuta nel [[concepts/paradox|paradosso]]. L’unica parte della sua conversazione che loro.
 
 “Quello che riuscivano a comprendere era proprio ciò che non riuscivano a capire… E il resto…”
 
-#Il cervello astuto lo fermò, perché sapevano che, dietro ognuno di questi…
+Il cervello astuto lo fermò, perché sapevano che, dietro ognuno di questi…
 
 Contraddizioni bizzarre e inquietanti… C’era una storia davvero strana…
 
@@ -15355,7 +15355,7 @@ It was at a little dinner given by old Wotton to Gahagan and Pond
 
 and others, that we first got a glimpse of the real meaning of
 
-these wild parentheses of so tame a talker.  The [[Truth|truth]] was, to
+these wild parentheses of so tame a talker.  The [[concepts/truth|truth]] was, to
 
 begin with, that Mr. Pond, in spite of his French beard, was very
 
@@ -15377,7 +15377,7 @@ unintelligible.  In trying to explain the eccentricity, it is best
 
 to begin with the simplest example, like a diagram in a primer of
 
-[[logic]].  And I will begin with the [[Short Story|short story]], which was concealed
+logic.  And I will begin with the [[forms/short-story|short story]], which was concealed
 
 in the shorter phrase, which puzzled poor old Wotton so completely
 
@@ -15411,7 +15411,7 @@ do sometimes differ a little from each other, you know.  Even we in
 
 Ireland have been known to differ from each other.  But you see the
 
-Pope denouncing the Bolshevists, or the [[French Revolution]] rending
+Pope denouncing the Bolshevists, or the [[historical-references/french-revolution|French Revolution]] rending
 
 the Holy Roman Empire, and you still say in your hearts, 'What can
 
@@ -15423,7 +15423,7 @@ Tweedledee.  You will remember that it is distinctly recorded that
 
 they agreed.  But remember what they agreed about."
 
-Wotton looked a little baffled and finally grunted:  "[[Well]], if
+Wotton looked a little baffled and finally grunted:  "[[motifs/well|Well]], if
 
 these fellows have agreed, I suppose there will be a little peace."
 
@@ -15465,7 +15465,7 @@ thing was a curious story; to introduce a yet more curious sequel.
 
 Haggis had been a prominent and wealthy citizen, a bailie of the
 
-[[City|city]] and an elder of the kirk.  Nobody denied that even in these
+[[motifs/city|city]] and an elder of the kirk.  Nobody denied that even in these
 
 capacities he had sometimes been rather unpopular; but, to do him
 
@@ -15475,11 +15475,11 @@ unpopular causes.  He was the sort of old Radical who is more rigid
 
 and antiquated than any Tory; and, maintaining in theory the cause
 
-of Retrenchment and [[Reform]], he managed to suggest that almost any
+of Retrenchment and [[concepts/reform|Reform]], he managed to suggest that almost any
 
-[[Reform]] was too expensive for the needs of Retrenchment.  Thus he
+[[concepts/reform|Reform]] was too expensive for the needs of Retrenchment.  Thus he
 
-had stood [[Alone|alone]] in opposition to the universal support given to old
+had stood alone in opposition to the universal support given to old
 
 Dr. Campbell's admirable campaign for fighting the epidemic in the
 
@@ -15491,7 +15491,7 @@ typhoid was perhaps an exaggerated inference.  Similarly, he was
 
 prominent in the Presbyterian councils as refusing all modern
 
-compromise with the [[logic]] of Calvinism; but to infer that he
+compromise with the logic of Calvinism; but to infer that he
 
 actually hoped all his neighbours were damned before they were born
 
@@ -15501,7 +15501,7 @@ On the other side, he was admittedly honest in business and
 
 faithful to his wife and family; so that there was a general
 
-reaction in favour of his [[Memory|memory]] when he was found stabbed to the
+reaction in favour of his [[motifs/memory|memory]] when he was found stabbed to the
 
 heart in the meagre grass of the grim little churchyard that
 
@@ -15526,33 +15526,33 @@ Il damerino irlandese dichiarò che Pond utilizzava frasi prive di senso.
 
 Solo per scoprire se i suoi ascoltatori lo stavano davvero ascoltando… Pond
 
-# Mai detto così; e il suo movente rimase piuttosto un mistero. Ma
+Mai detto così; e il suo movente rimase piuttosto un mistero. Ma
 
 "Gahagan dichiarò che esiste un’intera tribù di intellettuali moderni"
 
-#Donne che non hanno imparato nulla se non l’arte di accendere…
+Donne che non hanno imparato nulla se non l’arte di accendere…
 
-#Un volto pieno di passione e attenzione, ma i loro pensieri sono altrove…
+Un volto pieno di passione e attenzione, ma i loro pensieri sono altrove…
 
-#Molto assente… quasi come se mancasse quella piccola frase che dice: “Rendendosi conto di…”
+Molto assente… quasi come se mancasse quella piccola frase che dice: “Rendendosi conto di…”
 
 “India… naturalmente visitò anche Toronto”, passerà inosservato.
 
-# Una orecchio dentro e l’altra fuori… senza disturbare la mente coltivata
+Una orecchio dentro e l’altra fuori… senza disturbare la mente coltivata
 
 all’interno.
 
-# A piccola cena offerta dal vecchio Wotton a Gahagan e Pond
+A piccola cena offerta dal vecchio Wotton a Gahagan e Pond
 
-#E altri ancora… che ci permisero di intravedere per la prima volta il vero significato di
+E altri ancora… che ci permisero di intravedere per la prima volta il vero significato di
 
-Queste strane parentesi in un discorso così tranquillo. La [[Truth|verità]] era, in realtà, che.
+Queste strane parentesi in un discorso così tranquillo. La [[concepts/truth|verità]] era, in realtà, che.
 
-#Che il signor Pond, nonostante la sua barba francese, fosse davvero…
+Che il signor Pond, nonostante la sua barba francese, fosse davvero…
 
 “English, con la sua abitudine di pensare che debba essere un po’ noioso…”
 
-#Per rispetto verso gli altri… Non gli piaceva parlare troppo a lungo e in modo prolisso.
+Per rispetto verso gli altri… Non gli piaceva parlare troppo a lungo e in modo prolisso.
 
 Storie fantastiche su di lui, come quelle che gli raccontava il suo amico Gahagan
 
@@ -15562,23 +15562,23 @@ Lui stesso aveva vissuto alcune esperienze molto strane; ma poiché non ne volev
 
 Trasformarle in storie lunghe: all’inizio erano apparse solo come racconti brevi.
 
-#E le storie brevi erano così brevissime da essere davvero…
+E le storie brevi erano così brevissime da essere davvero…
 
-#Incomprensibile… Nel tentativo di spiegare tale eccentricità, è meglio…
+Incomprensibile… Nel tentativo di spiegare tale eccentricità, è meglio…
 
 Per cominciare con l’esempio più semplice, come un diagramma presente in un manuale introduttivo…
 
-[[logic|logica]]. E inizierò con la [[Short Story|racconto breve]], che era nascosta.
+logica. E inizierò con la [[forms/short-story|racconto breve]], che era nascosta.
 
 In breve, una questione che lasciò il povero vecchio Wotton completamente perplesso
 
-#Quella particolare sera… Wotton era un uomo all’antica.
+Quella particolare sera… Wotton era un uomo all’antica.
 
 Diplomatico… di quel tipo che sembrava diventare sempre più “nazionalista” con il passare del tempo…
 
-#Cercando di essere internazionale… Sebbene lontano dall’essere militarista, lui…
+Cercando di essere internazionale… Sebbene lontano dall’essere militarista, lui…
 
-#Molto militare… Manteneva l’ordine con frasi brevi e secche.
+Molto militare… Manteneva l’ordine con frasi brevi e secche.
 
 Barba grigia rigida. Aveva più mento che fronte.
 
@@ -15593,25 +15593,25 @@ Titolo:
 
 “Sei davvero un vero inglese, Wotton,” disse Gahagan, “e dici…”
 
-# “Il tuo cuore… ‘Tutti questi stranieri sono uguali.’ Hai perfettamente ragione.”
+“Il tuo cuore… ‘Tutti questi stranieri sono uguali.’ Hai perfettamente ragione.”
 
-#Se intendi dire che siamo tutti diversi da te… Gli inglesi sono…
+Se intendi dire che siamo tutti diversi da te… Gli inglesi sono…
 
 "Il popolo pazzo della terra, che sa che tutti gli altri sono pazzi… Ma noi."
 
 A volte questi elementi possono differire leggermente tra loro, sai… Anche noi…
 
-# Irlande: terre di grandi differenze…
+Irlande: terre di grandi differenze…
 
-Il Papa che denuncia i bolscevichi, o la [[French Revolution|Rivoluzione Francese]] che si manifesta.
+Il Papa che denuncia i bolscevichi, o la [[historical-references/french-revolution|Rivoluzione Francese]] che si manifesta.
 
-#L’Impero Romano Santo… e voi continuate ancora a chiedervi: “Cosa può…”
+L’Impero Romano Santo… e voi continuate ancora a chiedervi: “Cosa può…”
 
 Qual è la differenza tra Tweedledum e Tweedledee?"
 
 “Non c’era alcuna differenza,” disse Pond, “tra Tweedledum e…”
 
-# Tweedledee… Ricorderete sicuramente che è stato chiaramente registrato…
+Tweedledee… Ricorderete sicuramente che è stato chiaramente registrato…
 
 Si accordarono. Ma ricorda su cosa si accordarono.
 
@@ -15621,7 +15621,7 @@ Questi ragazzi hanno concordato; suppongo che ora ci sarà un po’ di pace.
 
 “Cose strane, accordi…”, disse Pond. “Fortunatamente, la gente…”
 
-# Continuano a dissentire, fino a quando non muoiono in pace…
+Continuano a dissentire, fino a quando non muoiono in pace…
 
 “Letti… Gli uomini molto raramente riescono a raggiungere un accordo completo e definitivo. Ne conoscevo due…”
 
@@ -15644,21 +15644,21 @@ Ma Wotton, con il suo modo ponderoso, continuava comunque a cercare di definire 
 
 Narratore verso una dichiarazione più responsabile; e il risultato di ciò fu…
 
-#Il signor Pond viene costretto, a malincuore, a spiegare cosa realmente…
+Il signor Pond viene costretto, a malincuore, a spiegare cosa realmente…
 
 Voglio dire, raccontateci tutta la storia.
 
 Il mistero era inizialmente legato a un altro mistero: il comportamento strano…
 
-# L’omicidio di Mr. James Haggis di Glasgow, che scosse la Scozia
+L’omicidio di Mr. James Haggis di Glasgow, che scosse la Scozia
 
 “E i giornali inglesi, non molti anni fa… A prima vista…”
 
 Questa era una storia curiosa, per poi presentarne una sequela ancora più strana.
 
-# Haggis era stato un cittadino prominente e ricco, un balivo della…
+Haggis era stato un cittadino prominente e ricco, un balivo della…
 
-La [[City|città]] e un anziano della chiesa. Nessuno negava che anche in queste circostanze.
+La [[motifs/city|città]] e un anziano della chiesa. Nessuno negava che anche in queste circostanze.
 
 Le capacità che possedeva a volte lo rendevano piuttosto impopolare; ma, per far giustizia a lui…
 
@@ -15668,24 +15668,24 @@ Cause impopolari… Era quel tipo di vecchio radicale che era particolarmente ri
 
 Più arretrato e obsoleto di qualsiasi conservatore; e, pur sostenendo teoricamente quella causa…
 
-Attraverso politiche di tagli e [[Reform|riforme]], riuscì a proporre che quasi qualsiasi cosa fosse possibile fare.
+Attraverso politiche di tagli e [[concepts/reform|riforme]], riuscì a proporre che quasi qualsiasi cosa fosse possibile fare.
 
-La [[Reform|Riforma]] era troppo costosa rispetto alle esigenze del programma di tagli dei costi. Pertanto, lui.
+La [[concepts/reform|Riforma]] era troppo costosa rispetto alle esigenze del programma di tagli dei costi. Pertanto, lui.
 
-Era rimasto [[Alone|solo]] in opposizione al sostegno universale riservato all’anziano.
+Era rimasto solo in opposizione al sostegno universale riservato all’anziano.
 
-#La meritoria campagna del dottor Campbell per combattere l’epidemia
+La meritoria campagna del dottor Campbell per combattere l’epidemia
 
 Titolo:  
 Favelle durante la crisi… Ma trarre conclusioni economiche da ciò…
 
-# Un demone che godeva nel vedere bambini poveri morire di…
+Un demone che godeva nel vedere bambini poveri morire di…
 
-# Una conclusione forse esagerata… Allo stesso modo, anche lui…
+Una conclusione forse esagerata… Allo stesso modo, anche lui…
 
 “Prominente nei consigli presbiteriani per il suo rifiuto di adottare qualsiasi approccio moderno”
 
-Si adattò alla [[logic|logica]] del calvinismo; ma si può dedurre che.
+Si adattò alla logica del calvinismo; ma si può dedurre che.
 
 In realtà sperava che tutti i suoi vicini fossero maledetti prima ancora di nascere.
 
@@ -15695,11 +15695,11 @@ Dall’altra parte, bisogna ammettere che fosse onesto nei suoi affari…
 
 Fedele alla moglie e alla famiglia; tanto che c’era un generale consenso…
 
-Reazione a favore della sua [[Memory|memoria]] quando fu trovato pugnalato.
+Reazione a favore della sua [[motifs/memory|memoria]] quando fu trovato pugnalato.
 
-#Cuore tra l’erba rada del desolato cimitero di quella piccola chiesa…
+Cuore tra l’erba rada del desolato cimitero di quella piccola chiesa…
 
-# Accanto al suo luogo di culto preferito… Era impossibile…
+Accanto al suo luogo di culto preferito… Era impossibile…
 
 Immagina il signor Haggis coinvolto in qualche faida romantica delle Highlands…
 
@@ -15712,14 +15712,14 @@ Il pugnale… e si riteneva generalmente che chi veniva pugnalato e abbandonato 
 
 Un commerciante scozzese piuttosto anziano, di vecchia scuola.
 
-#Accadde che il signor Pond stesso fosse stato presente in quell’occasione…
+Accadde che il signor Pond stesso fosse stato presente in quell’occasione…
 
 
 
 <span class="atom-split" data-atom="story_04_a_tall_story--part_16" data-title="MrPond — A Tall Story (part 16)" data-chapter="A Tall Story" data-kind="excerpt" data-tags="archetype/detective,motif/city,motif/love,motif/pain,motif/silence,motif/well,concept/charity,concept/doubt,setting/cathedral,setting/london,character/kent"></span>
 
 
-party where there was high [[debate]] about the murder as a mystery.
+party where there was high debate about the murder as a mystery.
 
 His host, Lord Glenorchy, had a hobby of reading books on
 
@@ -15727,13 +15727,13 @@ criminology; his hostess, Lady Glenorchy, had the less harmful
 
 hobby of reading those much more solid and scientific books which
 
-are called [[Detective|detective]] stories.  There were present, as the society
+are called [[archetypes/detective|detective]] stories.  There were present, as the society
 
 papers say, Major MacNabb, the Chief Constable, and Mr. Lancelot
 
-Browne, a brilliant [[London]] barrister who found it much more of a
+Browne, a brilliant [[settings/london|London]] barrister who found it much more of a
 
-bore to be a lawyer than to pretend to be a [[Detective|detective]]; also, among
+bore to be a lawyer than to pretend to be a [[archetypes/detective|detective]]; also, among
 
 those present, was the venerable and venerated Dr. Campbell, whose
 
@@ -15745,7 +15745,7 @@ coaching and instructing generally for his medical examinations and
 
 his scientific career.
 
-Responsible people naturally [[Love|love]] to be irresponsible.  All these
+Responsible people naturally [[motifs/love|love]] to be irresponsible.  All these
 
 persons delighted to throw theories about in private which they
 
@@ -15775,7 +15775,7 @@ and moral deformity are found only among poor people, he suspected
 
 a plot of local Communists (all with the wrong-shaped thumb and
 
-ear) and picked for his fancy a Socialist agitator of the [[City|city]].
+ear) and picked for his fancy a Socialist agitator of the [[motifs/city|city]].
 
 Mr. Angus made bold to differ; his choice was an old lag, or
 
@@ -15787,7 +15787,7 @@ Then it was that the point was referred, not without a certain
 
 reverence, to the white-haired and wise old physician, who had now
 
-behind him a whole lifetime of [[Charity|charity]] and good works.  One of the
+behind him a whole lifetime of [[concepts/charity|charity]] and good works.  One of the
 
 many ways in which Dr. Campbell seemed to have emerged from an
 
@@ -15795,7 +15795,7 @@ elder and perhaps honester world was the fact that he not only
 
 spoke with a Scottish accent but he spoke Scottish.  His speech
 
-will, therefore, be rendered here with difficulty and in [[Doubt|doubt]] and
+will, therefore, be rendered here with difficulty and in [[concepts/doubt|doubt]] and
 
 trembling.
 
@@ -15803,13 +15803,13 @@ trembling.
 
 ye fair at the start that I winna gie a bawbee to ken wha dirked
 
-Jamie Haggis.  Gin I [[Kent|kent]], I wadna' say.  It's a sair thing, na
+Jamie Haggis.  Gin I [[characters/kent|kent]], I wadna' say.  It's a sair thing, na
 
 doot, that the freens and benefactors o' puir humanity should no be
 
 named and fitly celebrated; but like the masons that built our
 
-gran' [[Cathedral|cathedral]] and the gran' poets that wrote our ballads of
+gran' [[settings/cathedral|cathedral]] and the gran' poets that wrote our ballads of
 
 Otterburn and Sir Patrick Spens, the man that achieved the virtuous
 
@@ -15821,7 +15821,7 @@ So ye'll get nae guesses out of me; beyond saying I've lang been
 
 seekin' a man of sic prudence and public spirit."
 
-There followed that sort of [[Silence|silence]] in which people are not certain
+There followed that sort of [[motifs/silence|silence]] in which people are not certain
 
 whether to laugh, at a deliberate stroke of wit; but before they
 
@@ -15861,7 +15861,7 @@ Glenorchy were a little alarmed by the seriousness of the subject,
 
 it was at this point that she struck in.
 
-"[[Well]], if Dr. Campbell won't pronounce for us, I suppose we must
+"[[motifs/well|Well]], if Dr. Campbell won't pronounce for us, I suppose we must
 
 all stick to our own suspicions.  I don't know whether you like
 
@@ -15883,7 +15883,7 @@ himself.
 
 about now?"
 
-"I'm talking about hostesses," said Pond, with an air of [[Pain|pain]].
+"I'm talking about hostesses," said Pond, with an air of [[motifs/pain|pain]].
 
 "Good hostesses.  Really successful hostesses.  They will cut into
 
@@ -15916,21 +15916,21 @@ anyhow, so frail and easy to destroy.  Cutting short its life is
 
 <span class="qlang-split" data-lang="it"></span>
 
-Una festa in cui si svolsero intense [[debate|debattiti]] su come interpretare l’omicidio come un mistero.
+Una festa in cui si svolsero intense debattiti su come interpretare l’omicidio come un mistero.
 
 Il suo ospite, Lord Glenorchy, aveva l’abitudine di leggere libri su…
 
 Criminologia: la sua ospite, Lady Glenorchy, aveva un approccio meno dannoso…
 
-# Hobby di leggere quei libri molto più seri e scientifici
+Hobby di leggere quei libri molto più seri e scientifici
 
-Vengono chiamate storie di [[Detective|detective]]. Erano presenti, come nella società.
+Vengono chiamate storie di [[archetypes/detective|detective]]. Erano presenti, come nella società.
 
 I giornali dicono… Maggiore MacNabb, il Capo della Polizia, e signor Lancelot.
 
 Browne, un brillante avvocato londinese che riteneva molto più.
 
-È meglio essere un avvocato che fingere di essere un [[Detective|detektive]]; inoltre, tra.
+È meglio essere un avvocato che fingere di essere un [[archetypes/detective|detektive]]; inoltre, tra.
 
 Tra i presenti c’era il rispettato e ammirato Dottor Campbell…
 
@@ -15938,7 +15938,7 @@ Il lavoro tra i poveri è stato già insufficientemente lodato… e…
 
 Un giovane amico di nome Angus…
 
-# Formazione e istruzione per i suoi esami medici
+Formazione e istruzione per i suoi esami medici
 
 La sua carriera scientifica.
 
@@ -15952,77 +15952,77 @@ Era felice di processare qualcuno che non avrebbe dovuto impiccare.
 
 Il criminologo fu affascinato dall’analizzare la follia di quella persona.
 
-#Non avrebbe mai potuto essere dimostrato pazzo… E Lady Glenorchy era…
+Non avrebbe mai potuto essere dimostrato pazzo… E Lady Glenorchy era…
 
-#Incantato dall’idea di pensare al povero signor Haggis…
+Incantato dall’idea di pensare al povero signor Haggis…
 
-# Una persona… come protagonista di uno shocker. Divertentissimo.
+Una persona… come protagonista di uno shocker. Divertentissimo.
 
 Si sono fatti tentativi per incolpare la Chiesa Presbiteriana Unita dell’omicidio.
 
 Ministro… un noto sostenitore della teoria del “Sublapsarianismo”, naturalmente… anzi, inevitabilmente.
 
-#Spinto a pugnalare un Supralapsarian… Lord Glenorchy era
+Spinto a pugnalare un Supralapsarian… Lord Glenorchy era
 
 Più serio, per non dire monotono… Avendo imparato dai suoi libri.
 
-# La grande scoperta della criminologia: quella relativa alla mente umana
+La grande scoperta della criminologia: quella relativa alla mente umana
 
 “E credeva che deformità fisiche e morali si trovassero soltanto tra le persone povere.”
 
-# Una congiura di comunisti locali… tutti con il pollice dalla forma strana
+Una congiura di comunisti locali… tutti con il pollice dalla forma strana
 
-Un orecchio, e per il proprio capriccio scelse un agitatore socialista della [[City|città]].
+Un orecchio, e per il proprio capriccio scelse un agitatore socialista della [[motifs/city|città]].
 
-#Il signor Angus osò dissentire: la sua scelta fu un vecchio compagno di lotta…
+Il signor Angus osò dissentire: la sua scelta fu un vecchio compagno di lotta…
 
 Criminale professionista, noto per essere presente nella zona, che era stato…
 
 Quasi tutto ciò che è allarmante, tranne un agitatore socialista.
 
-#Allora fu menzionato quel punto, non senza una certa…
+Allora fu menzionato quel punto, non senza una certa…
 
-# Rispetto per il vecchio medico dai capelli bianchi e saggio… che ormai…
+Rispetto per il vecchio medico dai capelli bianchi e saggio… che ormai…
 
-Dietro di lui, un’intera vita dedicata alla [[Charity|carità]] e alle buone azioni. Uno dei.
+Dietro di lui, un’intera vita dedicata alla [[concepts/charity|carità]] e alle buone azioni. Uno dei.
 
-#Molti modi in cui il dottor Campbell sembrava essere emerso da…
+Molti modi in cui il dottor Campbell sembrava essere emerso da…
 
 Il mondo più anziano e forse più onesto era proprio quello in cui lui non solo…
 
 Parlava con un accento scozzese, ma parlava davvero scozzese. Il suo modo di esprimersi…
 
-Pertanto, verrà espresso qui con difficoltà e con[[Doubt|dubbio]].
+Pertanto, verrà espresso qui con difficoltà e con[[concepts/doubt|dubbio]].
 
 Tremando.
 
-#"Beh, sicuramente vi starete chiedendo chi abbia ucciso Jamie Haggis… E ve lo dirò."
+"Beh, sicuramente vi starete chiedendo chi abbia ucciso Jamie Haggis… E ve lo dirò."
 
 Titolo:  
 “Belli come siete all’inizio… ma non vi darò nemmeno un penny per scoprire chi ha combinato questo guaio.”
 
 Jamie Haggis. Il gin che conosco io, beh, non lo direi proprio. È una cosa diversa, sai.
 
-# Mai dimentichiamo che gli amici e i benefattori dell’umanità povera non dovrebbero essere dimenticati
+Mai dimentichiamo che gli amici e i benefattori dell’umanità povera non dovrebbero essere dimenticati
 
 Chiamato e giustamente celebrato; ma come gli scalpellini che hanno costruito il nostro…
 
-La grande [[Cathedral|cattedrale]] e i grandi poeti che hanno scritto le nostre ballate.
+La grande [[settings/cathedral|cattedrale]] e i grandi poeti che hanno scritto le nostre ballate.
 
-# Otterburn e Sir Patrick Spens, l’uomo che realizzò il bene
+Otterburn e Sir Patrick Spens, l’uomo che realizzò il bene
 
 Titolo:  
 L’atto di uccidere Jamie Haggis non porterà a nessun riconoscimento personale per chi lo compirà
 
 In questo mondo, è persino possibile che possa incorrere in qualche piccolo inconveniente.
 
-#Nessuna supposizione da parte mia… Solo che da tempo desidero…
+Nessuna supposizione da parte mia… Solo che da tempo desidero…
 
 Cercando un uomo di tale prudenza e spirito pubblico.
 
-Seguì quel tipo di [[Silence|silenzio]] in cui le persone non sono sicure di nulla.
+Seguì quel tipo di [[motifs/silence|silenzio]] in cui le persone non sono sicure di nulla.
 
-#Se ridere o no… di fronte a un colpo di genio deliberato… ma prima che loro…
+Se ridere o no… di fronte a un colpo di genio deliberato… ma prima che loro…
 
 “Potresti farlo, giovane Angus… che teneva lo sguardo fisso sul suo venerabile…”
 
@@ -16044,7 +16044,7 @@ Con un’espressione piuttosto accesa, accentuata dai suoi capelli rossi, quel�
 
 Si alzò in piedi sulla testa, come fiamme rigide.
 
-#Il santo dai capelli d’argento della sociologia continuava a guardarlo con…
+Il santo dai capelli d’argento della sociologia continuava a guardarlo con…
 
 Un sorriso del tutto benevolo… ma nei suoi occhi c’era un bagliore strano.
 
@@ -16057,7 +16057,7 @@ Iniziò a svolgere un test di intelligenza.
 
 Se si trattasse di un incidente, o se le intuizioni della signora…
 
-# Glenorchy era un po’ allarmato dalla gravità dell’argomento.
+Glenorchy era un po’ allarmato dalla gravità dell’argomento.
 
 Fu in questo momento che intervenne lei.
 
@@ -16071,7 +16071,7 @@ Cigarette durante la cena… una moda a cui non riesco ad abituarmi.
 
 A questo punto della sua narrazione, il signor Pond si abbandonò di nuovo alle sue riflessioni…
 
-#Sedia con un movimento più impaziente del solito
+Sedia con un movimento più impaziente del solito
 
 Se stesso.
 
@@ -16083,15 +16083,15 @@ Se stesso.
 
 “Più o meno adesso?”
 
-“Sto parlando delle hostess,” disse Pond, con un tono di [[Pain|dolore]].
+“Sto parlando delle hostess,” disse Pond, con un tono di [[motifs/pain|dolore]].
 
-#"Hostess eccezionali… davvero di successo. Loro sanno come farsi notare."
+"Hostess eccezionali… davvero di successo. Loro sanno come farsi notare."
 
 Conversazione, sulla base della teoria secondo cui può essere interrotta in qualsiasi momento.
 
 Proprio come è considerata una vera signora di casa quella che prepara due…
 
-# Le persone parlano quando lo odiano, e si dividono quando…
+Le persone parlano quando lo odiano, e si dividono quando…
 
 Inizio ad apprezzarlo… Ma a volte fanno le cose più pericolose e…
 
@@ -16099,7 +16099,7 @@ Danni terribili… Vedi, interrompono le conversazioni che non valgono la pena d
 
 Ricominciare daccapo. E questo è orribile, quasi come un omicidio.
 
-#"Ma se la conversazione non vale la pena di essere ripresa, allora perché..."
+"Ma se la conversazione non vale la pena di essere ripresa, allora perché..."
 
 “È terribile doverlo fermare…”, chiese il coscienzioso Wotton, ancora…
 
@@ -16109,7 +16109,7 @@ Con grande sforzo, lo inseguì.
 
 “Parlare dovrebbe essere qualcosa di sacro… Una persona così gentile, eppure risponde in modo così brusco.”
 
-# Perché è così leggero, così tenue, così insignificante, se vuoi…
+Perché è così leggero, così tenue, così insignificante, se vuoi…
 
 “Comunque… così fragile e facile da distruggere. Interrompere la sua vita…”
 
@@ -16122,7 +16122,7 @@ worse than murder; it's infanticide.  It's like killing a baby
 
 that's trying to come to life.  It can never be restored to life,
 
-though one [[Rose|rose]] from the dead.  A good light conversation can never
+though one [[motifs/rose|rose]] from the dead.  A good light conversation can never
 
 be put together again when it's broken to pieces; because you can't
 
@@ -16130,7 +16130,7 @@ get all the pieces.  I remember a splendid talk at Trefusis's
 
 place, that began because there was a crack of thunder over the
 
-[[house]] and a cat howled in the [[Garden|garden]], and somebody made a rather
+house and a cat howled in the [[motifs/garden|garden]], and somebody made a rather
 
 crude joke about a catastrophe.  And then Gahagan here had a
 
@@ -16142,7 +16142,7 @@ about a political question on the Continent."
 
 "The Catalonian question, I suppose," said Gahagan, laughing, "but
 
-I [[Fear|fear]] I've quite forgotten my lovely theory."
+I [[concepts/fear|fear]] I've quite forgotten my lovely theory."
 
 "That's just what I say," said Pond, gloomily.  "It could only have
 
@@ -16152,21 +16152,21 @@ worth starting again.  The hostess swept it all out of our heads,
 
 and then had the cheek to say afterwards that we could talk about
 
-it some other [[Time|time]].  Could we?  Could we make a contract with a
+it some other [[motifs/time|time]].  Could we?  Could we make a contract with a
 
-cloud to break just over the roof, and tie a cat up in the [[Garden|garden]]
+cloud to break just over the roof, and tie a cat up in the [[motifs/garden|garden]]
 
 and pull its tail at the right moment, and give Gahagan just enough
 
 champagne to inspire him with a theory so silly that he's forgotten
 
-it already?  It was then or never with that [[debate]] being started;
+it already?  It was then or never with that debate being started;
 
 and yet bad results enough followed from it being stopped.  But
 
 that, as they say, is another story."
 
-"You must tell it to us another [[Time|time]]," said Gahagan.  "At present I
+"You must tell it to us another [[motifs/time|time]]," said Gahagan.  "At present I
 
 am still curious about the man who murdered another man because he
 
@@ -16200,11 +16200,11 @@ out of a very entertaining little tiff about the Ten Commandments.
 
 A mere trifle, too light and airy to recur to our minds at any
 
-other [[Time|time]].  But there was another trifle that did recur to my own
+other [[motifs/time|time]].  But there was another trifle that did recur to my own
 
 mind afterwards; and kept my attention on a murder of which I might
 
-have thought little enough at the [[Time|time]], as De Quincey says.  I
+have thought little enough at the [[motifs/time|time]], as De Quincey says.  I
 
 remembered once looking up Glenorchy in Who's Who, and seeing that
 
@@ -16222,13 +16222,13 @@ not Scottish.  If she had introduced the cigarettes at her father's
 
 dinner-table in Suffolk, such trifles as the Ten Commandments would
 
-instantly have been tossed away from everyone's mind and [[Memory|memory]].
+instantly have been tossed away from everyone's mind and [[motifs/memory|memory]].
 
 But I knew I was in Scotland and that the story had only just
 
 begun.  I have told you that old Campbell was tutoring or coaching
 
-young Angus for his medical degree.  It was a great [[Honour|honour]] for a
+young Angus for his medical degree.  It was a great [[concepts/honour|honour]] for a
 
 lad like Angus to have Campbell for a coach; but it must have been
 
@@ -16238,7 +16238,7 @@ for a pupil.  For he had always been a most industrious and
 
 ambitious and intelligent pupil, and one likely to do the old man
 
-credit; and after the [[Time|time]] I speak of, he seemed to grow more
+credit; and after the [[motifs/time|time]] I speak of, he seemed to grow more
 
 industrious and ambitious than ever.  In fact, he shut himself up
 
@@ -16256,11 +16256,11 @@ statement that might seem to some to require expansion."
 
 order to expand it, we must go back for a moment to the mystery of
 
-Mr. Haggis's murder.  It had already spread a sort of [[Detective|detective]]
+Mr. Haggis's murder.  It had already spread a sort of [[archetypes/detective|detective]]
 
-fever in the neighbourhood; for all the Scots [[Love|love]] arguing and it
+fever in the neighbourhood; for all the Scots [[motifs/love|love]] arguing and it
 
-really was rather a fascinating [[Riddle|riddle]].  One great point in the
+really was rather a fascinating [[forms/riddle|riddle]].  One great point in the
 
 mystery was the wound, which seemed at first to have been made by a
 
@@ -16282,7 +16282,7 @@ medical authorities would consent even to guess what it was.
 
 People were perpetually ransacking the churchyard and the church in
 
-search of clues.  And just about this [[Time|time]] young Angus, who had
+search of clues.  And just about this [[motifs/time|time]] young Angus, who had
 
 been a strict supporter of this particular church, and had even
 
@@ -16298,7 +16298,7 @@ the right track."
 
 the right track."
 
-"I [[Fear|fear]] I did not realize that you were on any track," said
+"I [[concepts/fear|fear]] I did not realize that you were on any track," said
 
 Gahagan.  "To speak with candour, my dear Pond, I should say that
 
@@ -16313,7 +16313,7 @@ Peggio del omicidio: è un assassinio di innocenti. È come uccidere un bambino.
 
 “Qualcosa che cerca disperatamente di tornare in vita… Ma non potrà mai essere realmente riportato in vita.”
 
-Anche se una [[Rose|rosa]] risorge dalla morte. Una bella conversazione leggera, invece, non può mai.
+Anche se una [[motifs/rose|rosa]] risorge dalla morte. Una bella conversazione leggera, invece, non può mai.
 
 “Rimettere insieme i pezzi quando sono stati distrutti… perché non è possibile.”
 
@@ -16322,11 +16322,11 @@ Anche se una [[Rose|rosa]] risorge dalla morte. Una bella conversazione leggera,
 Titolo:  
 Un luogo… tutto iniziò perché si udì il rombo di un tuono sopra quel posto.
 
-Una [[house|casa]] e un gatto ulularono nel [[Garden|giardino]]; qualcuno, inoltre, fece qualcosa di piuttosto.
+Una casa e un gatto ulularono nel [[motifs/garden|giardino]]; qualcuno, inoltre, fece qualcosa di piuttosto.
 
-# Una barzelletta grossolana su una catastrofe… E poi c’era Gahagan qui…
+Una barzelletta grossolana su una catastrofe… E poi c’era Gahagan qui…
 
-# Una teoria deliziosamente perfetta… nata direttamente dalle gatti
+Una teoria deliziosamente perfetta… nata direttamente dalle gatti
 
 Catastrofi e tutto il resto… e avrebbe iniziato un discorso meraviglioso.
 
@@ -16338,21 +16338,21 @@ Ho completamente dimenticato quella mia adorabile teoria.
 
 “Ecco esattamente quello che dico io,” disse Pond, con aria cupa. “Non poteva essere altrimenti.”
 
-#È stato avviato allora… Avrebbe dovuto essere considerato sacro, ma non lo è stato.
+È stato avviato allora… Avrebbe dovuto essere considerato sacro, ma non lo è stato.
 
 “Vale la pena ricominciare… La padrona di casa ci ha fatto dimenticare tutto.”
 
 E poi ebbe anche la faccia tosta di dire dopo che potevamo parlarne…
 
-In un altro [[Time|momento]]. Potremmo? Potremmo stipulare un contratto con.
+In un altro [[motifs/time|momento]]. Potremmo? Potremmo stipulare un contratto con.
 
-Una nuvola minacciosa si stava avvicinando al tetto; legarono un gatto nel [[Garden|giardino]].
+Una nuvola minacciosa si stava avvicinando al tetto; legarono un gatto nel [[motifs/garden|giardino]].
 
 “E tirare la coda nel momento giusto, per dare a Gahagan esattamente quanto basta…”
 
-#Champagne per ispirarlo con una teoria così assurda da fargli dimenticare tutto
+Champagne per ispirarlo con una teoria così assurda da fargli dimenticare tutto
 
-Già adesso? Quell’[[debate|debatto]], una volta iniziato, aveva solo quella possibilità, o niente affatto.
+Già adesso? Quell’debatto, una volta iniziato, aveva solo quella possibilità, o niente affatto.
 
 Eppure, anche la sospensione di tale pratica portò a risultati sufficientemente negativi. Ma…
 
@@ -16360,7 +16360,7 @@ Come si suol dire, quella è un'altra storia.
 
 “Dovete raccontarcelo un’altra volta,” disse Gahagan. “Adesso io, ”
 
-# Ancora curioso riguardo all’uomo che ha ucciso un altro uomo solo perché…
+Ancora curioso riguardo all’uomo che ha ucciso un altro uomo solo perché…
 
 “Concordavo con lui.”
 
@@ -16372,7 +16372,7 @@ Come si suol dire, quella è un'altra storia.
 
 Non tutti possono comprendere la sacralità di una conversazione davvero inutile… Ma se…
 
-#Sei davvero interessato all’altra questione… non mi dispiace dirtelo.
+Sei davvero interessato all’altra questione… non mi dispiace dirtelo.
 
 Tutti ne parlano; anche se preferirei non dirvi esattamente come ci sono arrivato.
 
@@ -16384,23 +16384,23 @@ Tutti ne parlano; anche se preferirei non dirvi esattamente come ci sono arrivat
 
 Motivo per cui viene menzionato.
 
-#"Lady Glenorchy cambiò abbastanza tranquillamente argomento, passando dal delitto a..."
+"Lady Glenorchy cambiò abbastanza tranquillamente argomento, passando dal delitto a..."
 
 Cigarette… e la prima sensazione che tutti ebbero fu che eravamo nei guai.
 
 A seguito di una piccola e molto divertente discussione sui Dieci Comandamenti.
 
-# Una banalità… troppo leggera e effimera per tornare mai nella nostra mente
+Una banalità… troppo leggera e effimera per tornare mai nella nostra mente
 
 Un’altra volta. Ma c’era un altro piccolo dettaglio che continuava a tornarmi in mente.
 
-#Più tardi… e mantenni la mia attenzione su un omicidio di cui avrei potuto…
+Più tardi… e mantenni la mia attenzione su un omicidio di cui avrei potuto…
 
 Non ci avevo pensato abbastanza in quel momento, come dice De Quincey. Io.
 
 Una volta, cercando informazioni su Glenorchy nel “Who’s Who”, ho letto qualcosa al riguardo…
 
-#Si era sposato con la figlia di un ricchissimo signore della zona di Lowestoft
+Si era sposato con la figlia di un ricchissimo signore della zona di Lowestoft
 
 nello Suffolk."
 
@@ -16412,7 +16412,7 @@ Questi elementi, di per sé, non fanno forse riferimento a qualche fatto terribi
 
 Non scozzese… Se avesse presentato quelle sigarette a suo padre…
 
-#Tavola da pranzo nel Suffolk… Così banali cose come i Dieci Comandamenti…
+Tavola da pranzo nel Suffolk… Così banali cose come i Dieci Comandamenti…
 
 È stato immediatamente dimenticato dalla mente e dalla memoria di tutti.
 
@@ -16420,7 +16420,7 @@ Ma sapevo di essere in Scozia e che quella storia era appena iniziata…
 
 Iniziato… Vi ho detto che quel vecchio Campbell stava dando lezioni o fornendo consigli.
 
-Il giovane Angus ricevette la sua laurea in medicina. Fu un grande [[Honour|'onore]] per lui.
+Il giovane Angus ricevette la sua laurea in medicina. Fu un grande [[concepts/honour|'onore]] per lui.
 
 Un ragazzo come Angus avrebbe voluto che Campbell fosse il suo allenatore… Ma sicuramente non è andata così.
 
@@ -16430,7 +16430,7 @@ Per uno studente… Poiché era sempre stato estremamente diligente e…
 
 Alunno ambizioso e intelligente… uno che probabilmente riuscirà nel suo intento.
 
-Crediti. E dopo il [[Time|tempo]] di cui parlo, sembrò crescere ancora di più.
+Crediti. E dopo il [[motifs/time|tempo]] di cui parlo, sembrò crescere ancora di più.
 
 Più industrioso e ambizioso che mai… Di fatto, si chiuse in se stesso.
 
@@ -16440,7 +16440,7 @@ Fu proprio questo a convincermi per la prima volta che la mia ipotesi era giusta
 
 “E molto chiaro anche,” disse Gahagan con un sorriso. “L’ha fatto davvero bene…”
 
-#Se la prese troppo con l’insegnante per aver fallito l’esame… Un altro caso simile
+Se la prese troppo con l’insegnante per aver fallito l’esame… Un altro caso simile
 
 Una dichiarazione che, a alcuni potrebbe sembrare necessitare di ulteriori spiegazioni.
 
@@ -16448,11 +16448,11 @@ Una dichiarazione che, a alcuni potrebbe sembrare necessitare di ulteriori spieg
 
 Per espanderlo, dobbiamo tornare per un momento al mistero di…
 
-L'omicidio di Mr. Haggis. Aveva già iniziato a diffondersi come una sorta di storia [[Detective|detektivistica]].
+L'omicidio di Mr. Haggis. Aveva già iniziato a diffondersi come una sorta di storia [[archetypes/detective|detektivistica]].
 
 Febbre nel quartiere. Perché tutti gli scozzesi amano discutere, e molto.
 
-Davvero era un [[Riddle|enigma]] piuttosto affascinante. Un aspetto molto importante.
+Davvero era un [[forms/riddle|enigma]] piuttosto affascinante. Un aspetto molto importante.
 
 Titolo:  
 Il mistero era la ferita… che all’inizio sembrava essere stata causata da…
@@ -16463,11 +16463,11 @@ chiedere uno strumento di forma piuttosto particolare.
 
 Inoltre, nella zona era stata effettuata un’ispezione accurata alla ricerca di coltelli e pugnali; e…
 
-# Sospetto temporaneo nei confronti di giovani selvaggi provenienti da oltre…
+Sospetto temporaneo nei confronti di giovani selvaggi provenienti da oltre…
 
-#Linea delle Highlands: chi potrebbe ancora conservare una tenerezza storica per essa?
+Linea delle Highlands: chi potrebbe ancora conservare una tenerezza storica per essa?
 
-# Possesso di pugnali. Tutti gli esperti medici concordavano sul fatto che…
+Possesso di pugnali. Tutti gli esperti medici concordavano sul fatto che…
 
 L'arma in questione era qualcosa di più sottile di una daga, anche se non…
 
@@ -16475,11 +16475,11 @@ Le autorità mediche sarebbero disposte anche solo a tentare di indovinare di co
 
 La gente saccheggiava costantemente il cimitero e la chiesa…
 
-La ricerca di indizi. Proprio in questo [[Time|momento]], il giovane Angus, che aveva.
+La ricerca di indizi. Proprio in questo [[motifs/time|momento]], il giovane Angus, che aveva.
 
-# Un fedele sostenitore di questa chiesa in particolare…
+Un fedele sostenitore di questa chiesa in particolare…
 
-# Una volta indusse il suo vecchio tutore e amico ad ascoltare le prediche del suo pastore
+Una volta indusse il suo vecchio tutore e amico ad ascoltare le prediche del suo pastore
 
 Un servizio serale… improvvisamente smise di andarci; infatti, se ne andò.
 
@@ -16497,7 +16497,7 @@ La strada giusta.
 
 Di tutte le affermazioni umane senza direzione, prive di scopo e disordinate…
 
-#La narrazione più disordinata che abbiate mai sentito…
+La narrazione più disordinata che abbiate mai sentito…
 
 
 
@@ -16506,7 +16506,7 @@ Di tutte le affermazioni umane senza direzione, prive di scopo e disordinate…
 
 been privileged to hear from you.  First you tell us that two
 
-Scotsmen began a conversation about the [[morality]] of murder and
+Scotsmen began a conversation about the morality of murder and
 
 never finished it; then you go off on a tirade against society
 
@@ -16542,7 +16542,7 @@ pointless by the necessity of telling stories without telling the
 
 story."
 
-"[[Well]], then," said Gahagan, "let us try to get some sense out of
+"[[motifs/well|Well]], then," said Gahagan, "let us try to get some sense out of
 
 all this nonsense, which has not even the excuses of newspaper
 
@@ -16562,11 +16562,11 @@ he spent days and nights with his coach; but they weren't preparing
 
 for any examination."
 
-"[[Well]], what were they doing?" asked Wotton gruffly.
+"[[motifs/well|Well]], what were they doing?" asked Wotton gruffly.
 
 "They were going on with the argument," cried Pond, in a squeak
 
-that was almost shrill.  "They hardly stopped to [[Sleep|sleep]] or eat; but
+that was almost shrill.  "They hardly stopped to [[motifs/sleep|sleep]] or eat; but
 
 they went on with the argument; the argument interrupted at the
 
@@ -16590,9 +16590,9 @@ The tither went hame with the ither again.
 
 "And for hours and weeks and months they never turned aside from
 
-the same interminable [[debate]] on the thesis first propounded by Dr.
+the same interminable debate on the thesis first propounded by Dr.
 
-Campbell: that when a good man is [[Well|well]] and truly convinced that a
+Campbell: that when a good man is [[motifs/well|well]] and truly convinced that a
 
 bad man is actively bad for the community, and is doing evil on a
 
@@ -16620,7 +16620,7 @@ great deal about the stages of that stubborn and forcible
 
 controversy, about which nobody else knew anything at all.  For
 
-Angus was a genuine [[Truth|truth]]-seeker who wished to satisfy his [[Soul|soul]] and
+Angus was a genuine [[concepts/truth|truth]]-seeker who wished to satisfy his [[motifs/soul|soul]] and
 
 not merely to make his name; and Campbell was enough of a great man
 
@@ -16628,7 +16628,7 @@ to be quite as anxious to convince a pupil as to convince a crowd
 
 in a lecture-room.  But I am not going to tell you about those
 
-stages of the controversy at any great length.  To tell the [[Truth|truth]],
+stages of the controversy at any great length.  To tell the [[concepts/truth|truth]],
 
 I am not what people call impartial on this controversy.  How any
 
@@ -16636,7 +16636,7 @@ man can form any conviction, and remain what they call impartial on
 
 any controversy, is more than I have ever understood.  But I
 
-suppose they would say I couldn't describe the [[debate]] fairly;
+suppose they would say I couldn't describe the debate fairly;
 
 because the side I sympathize with was not the side that won.
 
@@ -16682,7 +16682,7 @@ of Voltaire.
 
 Voltaire.  It is not always certain whether philanthropy means a
 
-[[Love|love]] of men, or of man, or of mankind.  There is a difference.  I
+[[motifs/love|love]] of men, or of man, or of mankind.  There is a difference.  I
 
 think he cared less about the individual than about the public or
 
@@ -16701,25 +16701,25 @@ already said, he was a devout worshipper in the same dingy kirk as
 
 <span class="qlang-split" data-lang="it"></span>
 
-#È stato un vero privilegio ricevere vostre notizie. Prima di tutto, ci avete detto che…
+È stato un vero privilegio ricevere vostre notizie. Prima di tutto, ci avete detto che…
 
-Gli scozzesi iniziarono una conversazione sulla [[morality|moralità]] dell’omicidio.
+Gli scozzesi iniziarono una conversazione sulla moralità dell’omicidio.
 
 Non l’hai mai finito; poi inizi a lanciare accuse contro la società.
 
 Hostess… e poi si rivela il terribile fatto che una di loro era…
 
-#Da Lowestoft… poi ti rivolgi a uno di quegli scozzesi e gli dici…
+Da Lowestoft… poi ti rivolgi a uno di quegli scozzesi e gli dici…
 
 Non riuscì a superare l’esame perché si impegnava troppo nello studio…
 
-# Tutor… e poi, per un momento, si sofferma sulla forma particolare di…
+Tutor… e poi, per un momento, si sofferma sulla forma particolare di…
 
-#"Pugnale ancora sconosciuto… ci dite che lo scozzese se n’è andato?"
+"Pugnale ancora sconosciuto… ci dite che lo scozzese se n’è andato?"
 
 “Andare in chiesa… significa essere sulla strada giusta. Onestamente, se lo fai…”
 
-# Trovo davvero qualcosa di sacro nelle conversazioni inutili… Dovrei…
+Trovo davvero qualcosa di sacro nelle conversazioni inutili… Dovrei…
 
 Diciamo che eri sulla pista giusta, va bene.
 
@@ -16731,11 +16731,11 @@ Diciamo che eri sulla pista giusta, va bene.
 
 Omettere ciò che è realmente accaduto. Ecco perché i giornali sono così noiosi.
 
-#Tutte le notizie politiche, e molte delle notizie “gentili”… anche se piuttosto…
+Tutte le notizie politiche, e molte delle notizie “gentili”… anche se piuttosto…
 
-#Più elevato nel tono rispetto all’altro, diventa davvero confuso e…
+Più elevato nel tono rispetto all’altro, diventa davvero confuso e…
 
-#Inutile per la necessità di raccontare storie senza davvero raccontarle
+Inutile per la necessità di raccontare storie senza davvero raccontarle
 
 “Storia.”
 
@@ -16764,19 +16764,19 @@ Per qualsiasi esame.
 
 “Continuavano a discutere,” gridò Pond, con una voce stridula.
 
-Era quasi un grido acuto. “Quasi non si fermavano per [[Sleep|)dormire]] o mangiare; ma, ”
+Era quasi un grido acuto. “Quasi non si fermavano per [[motifs/sleep|)dormire]] o mangiare; ma, ”
 
-# continuarono la discussione; la discussione fu interrotta…
+continuarono la discussione; la discussione fu interrotta…
 
-#Tavola da pranzo… Non hai mai conosciuto degli scozzesi? Pensi davvero…
+Tavola da pranzo… Non hai mai conosciuto degli scozzesi? Pensi davvero…
 
-# Una donna del Suffolk con un pugno di sigarette… e qualcos’altro
+Una donna del Suffolk con un pugno di sigarette… e qualcos’altro
 
-#"Una battuta insignificante può impedire a due scozzesi di continuare..."
+"Una battuta insignificante può impedire a due scozzesi di continuare..."
 
-#Un argomento che è stato appena iniziato… E loro l’hanno ripreso subito.
+Un argomento che è stato appena iniziato… E loro l’hanno ripreso subito.
 
-#Si stavano mettendo cappelli e cappotti; erano impegnati in questo con grande zelo.
+Si stavano mettendo cappelli e cappotti; erano impegnati in questo con grande zelo.
 
 Come uscirono dal cancello… e solo un poeta scozzese potrebbe descriverlo.
 
@@ -16786,15 +16786,15 @@ E poi, tutti tornarono a casa insieme agli altri…
 
 Il contribuente tornò a casa con gli altri.
 
-#E per ore, settimane e mesi non deviarono mai dal loro percorso…
+E per ore, settimane e mesi non deviarono mai dal loro percorso…
 
-Lo stesso interminabile [[debate|debatto]] sulla tesi originariamente proposta dal Dottor.
+Lo stesso interminabile debatto sulla tesi originariamente proposta dal Dottor.
 
 Campbell: Quando un uomo buono è davvero convinto che.
 
 L’uomo malvagio nuoce attivamente alla comunità, compiendo atti malvagi su di essa.
 
-#"Un fenomeno su larga scala che non può essere controllato né dalla legge né da alcun altro mezzo."
+"Un fenomeno su larga scala che non può essere controllato né dalla legge né da alcun altro mezzo."
 
 Un buon uomo ha il diritto morale di uccidere un cattivo uomo, e solo in questo modo…
 
@@ -16802,43 +16802,43 @@ Aumenta la propria bontà.
 
 “Pond rimase in silenzio per un momento, tirandosi la barba e fissando il tavolo.”
 
-#Poi ricominciò…
+Poi ricominciò…
 
 “Per ragioni che ho già menzionato ma non spiegato…”
 
 “Ecco qual è il problema con te, ragazzo mio,” disse Gahagan in tono affabile.
 
-#"Ci sono sempre un maledetto sacco di cose di cui hai parlato..."
+"Ci sono sempre un maledetto sacco di cose di cui hai parlato..."
 
 ma non viene spiegato.
 
 “Per quelle ragioni,” proseguì Pond con calma, “so per caso che…”
 
-# Molto si può dire sulle fasi di quel comportamento ostinato e coercitivo
+Molto si può dire sulle fasi di quel comportamento ostinato e coercitivo
 
 Una controversia di cui nessun altro sapeva nulla.
 
-Angus era un vero cercatore di [[Truth|.verità]], desideroso di soddisfare le esigenze della propria [[Soul|'anima]].
+Angus era un vero cercatore di [[concepts/truth|.verità]], desideroso di soddisfare le esigenze della propria [[motifs/soul|'anima]].
 
 Non solo per farsi un nome… E Campbell era davvero un grande uomo.
 
-#Convinere un allievo con la stessa determinazione con cui si convince una folla
+Convinere un allievo con la stessa determinazione con cui si convince una folla
 
 In una aula di lezione… Ma non intendo parlarvi di quelle cose.
 
-Non è necessario descrivere in dettaglio tutte le fasi della controversia. Per dire la [[Truth|verità]].
+Non è necessario descrivere in dettaglio tutte le fasi della controversia. Per dire la [[concepts/truth|verità]].
 
-#Non sono affatto imparziale in questa controversia…
+Non sono affatto imparziale in questa controversia…
 
-# L’uomo può formarsi qualsiasi convinzione e rimanere ciò che si definisce imparziale
+L’uomo può formarsi qualsiasi convinzione e rimanere ciò che si definisce imparziale
 
 Qualsiasi controversia riguardo a questo argomento è qualcosa che non ho mai davvero capito… Ma io…
 
-Supponiamo che dicessero che non sono in grado di descrivere in modo imparziale quella [[debate|debatte]];
+Supponiamo che dicessero che non sono in grado di descrivere in modo imparziale quella debatte;
 
 Perché la parte per cui provavo simpatia non è stata quella che ha vinto.
 
-#"Hostess di società, soprattutto quelle provenienti dalle vicinanze di Lowestoft..."
+"Hostess di società, soprattutto quelle provenienti dalle vicinanze di Lowestoft..."
 
 Non so verso dove si stia orientando un argomento… Non solo lo abbandoneranno, ma…
 
@@ -16858,11 +16858,11 @@ Oggi l’intelligenza si interroga sui Dieci Comandamenti.
 Titolo:  
 “Che travestimento c’è nei capelli innevati e nella postura affettuosa di un padre…”
 
-# Età… Da qualche parte, Dickens descrive un patriarca che non aveva bisogno di alcuna virtù.
+Età… Da qualche parte, Dickens descrive un patriarca che non aveva bisogno di alcuna virtù.
 
 “Tranne per i suoi capelli bianchi… Mentre il dottor Campbell sorrideva dall’altra parte del tavolo…”
 
-#Angus: nella maggior parte dei casi, quel sorriso veniva visto soltanto come un esempio di autorità patriarcale…
+Angus: nella maggior parte dei casi, quel sorriso veniva visto soltanto come un esempio di autorità patriarcale…
 
 La gentilezza dei genitori. Ma per caso notai anche un luccichio negli occhi di quel bambino.
 
@@ -16878,23 +16878,23 @@ Secolo XVIII… e il volto sorridente che si nascondeva sotto di esso era propri
 
 di Voltaire.
 
-#Il dottor Andrew Glenlyon Campbell era davvero un filantropo; lo stesso valeva per…
+Il dottor Andrew Glenlyon Campbell era davvero un filantropo; lo stesso valeva per…
 
-# Voltaire: Non è sempre certo che la filantropia significhi…
+Voltaire: Non è sempre certo che la filantropia significhi…
 
 L’amore degli uomini, o verso l’uomo, o verso l’umanità. C’è una differenza. Io.
 
 Credo che per lui l’individuo avesse meno importanza del pubblico.
 
-#La corsa; da qui senza dubbio la sua gentile eccentricità nel difendere…
+La corsa; da qui senza dubbio la sua gentile eccentricità nel difendere…
 
-# Atto di esecuzione privata. Comunque sia, sapevo che faceva parte di loro…
+Atto di esecuzione privata. Comunque sia, sapevo che faceva parte di loro…
 
-#La schiera scettica degli scozzesi, da Hume a Ross…
+La schiera scettica degli scozzesi, da Hume a Ross…
 
 Robertson… E, qualunque cosa siano, sono testardi.
 
-#Tenere ferma la propria posizione. Anche Angus era testardo, proprio come me…
+Tenere ferma la propria posizione. Anche Angus era testardo, proprio come me…
 
 Come già detto, era un devoto fedele della stessa chiesa squallida…
 
@@ -16905,7 +16905,7 @@ Come già detto, era un devoto fedele della stessa chiesa squallida…
 
 the late James Haggis; that is, one of the extreme irreconcilable
 
-sectaries of the seventeenth-century [[Puritanism]].  And so the
+sectaries of the seventeenth-century [[historical-references/puritanism|Puritanism]].  And so the
 
 Scottish atheist and the Scottish Calvinist argued and argued and
 
@@ -16943,7 +16943,7 @@ the twentieth century A.D.," replied the unruffled Pond.  "I made
 
 him up just now; but you know the sort of thing I mean--the
 
-mythical [[Nature|nature]] of Mount Sinai proved from the parallel myth that
+mythical [[concepts/nature|nature]] of Mount Sinai proved from the parallel myth that
 
 the ark rested on Mount Ararat, and the mountain that would not
 
@@ -16955,7 +16955,7 @@ and I knew when it ended.  I knew when Robert Angus left off going
 
 to kirk on the Sabbath."
 
-The end of the [[debate]] may best be described more directly; for,
+The end of the debate may best be described more directly; for,
 
 indeed, Mr. Pond described it himself with a strange sort of
 
@@ -16967,7 +16967,7 @@ of the medical schools was the scene of the final phase of
 
 disagreement and agreement.  They had gone back there very late at
 
-[[Night|night]], when the schools were closed and the theatre deserted,
+[[motifs/night|night]], when the schools were closed and the theatre deserted,
 
 because Angus fancied he had left some of his instruments there,
 
@@ -16989,35 +16989,35 @@ to him casually.
 
 Angus tossed the tool on the table like a man throwing down his
 
-[[Sword|sword]], and turned on his companion with a new and transfigured air
+sword, and turned on his companion with a new and transfigured air
 
 of candour and finality.
 
-"You needn't trouble about hymns any more; I may as [[Well|well]] tell you
+"You needn't trouble about hymns any more; I may as [[motifs/well|well]] tell you
 
 that I've done with them, for one.  You're too strong for me--or,
 
-rather, the [[Truth|truth]] is too strong for me.  I've defended my own
+rather, the [[concepts/truth|truth]] is too strong for me.  I've defended my own
 
-nursery [[nightmare]] as long as I could; but you've woken me up at
+nursery nightmare as long as I could; but you've woken me up at
 
 last.  You are right, you must be right; I don't see any way out of
 
 it."
 
-After a [[Silence|silence]], Campbell answered very softly:  "I'll no mak'
+After a [[motifs/silence|silence]], Campbell answered very softly:  "I'll no mak'
 
-apologies for fighting for the [[Truth|truth]]; but, man, ye made a real
+apologies for fighting for the [[concepts/truth|truth]]; but, man, ye made a real
 
 bonny fight for the falsehood."
 
-It might [[Well|well]] have seemed that the old blasphemer had never spoken
+It might [[motifs/well|well]] have seemed that the old blasphemer had never spoken
 
 on the topic in a tone so delicate and respectful; and it seemed
 
-strange that his new [[convert]] did not respond to the appeal.
+strange that his new convert did not respond to the appeal.
 
-Looking up, Campbell saw that his new [[convert]]'s attention had been
+Looking up, Campbell saw that his new convert's attention had been
 
 abruptly abstracted; he was standing staring at the implement in
 
@@ -17035,31 +17035,31 @@ after a pause, he added, with equal calm:
 
 "Noo that we are agreed, and a' of one mind, aboot the need for sic
 
-social surgery, it's as weel ye should know the hale [[Truth|truth]].  Aye,
+social surgery, it's as weel ye should know the hale [[concepts/truth|truth]].  Aye,
 
 lad, I did it mysel'; and with a blade like yon.  That nicht ye
 
-took me to the kirk--weel, it's the fairst [[Time|time]], I [[Hope|hope]], I've ever
+took me to the kirk--weel, it's the fairst [[motifs/time|time]], I [[concepts/hope|hope]], I've ever
 
 been hypocreetical; but I stayed behind to pray, and I think ye had
 
 hopes of my convairsion.  But I prayed because Jamie prayed; and
 
-when he [[Rose|rose]] from his prayers, I followed him and killed him i' the
+when he [[motifs/rose|rose]] from his prayers, I followed him and killed him i' the
 
 kirkyard."
 
-Angus was still looking at the knife in [[Silence|silence]]; then he said
+Angus was still looking at the knife in [[motifs/silence|silence]]; then he said
 
 suddenly:  "Why did you kill him?"
 
-"Ye needna ask, noo we are agreed in moral [[philosophy]]," replied the
+"Ye needna ask, noo we are agreed in moral philosophy," replied the
 
 old doctor simply.  "It was just plain surgery.  As we sacrifice a
 
-finger to save the [[Body|body]], so we maun sacrifice a man to save the
+finger to save the [[concepts/body|body]], so we maun sacrifice a man to save the
 
-[[Body|body]] politic.  I killed him because he was doing evil, and
+[[concepts/body|body]] politic.  I killed him because he was doing evil, and
 
 inhumanly preventing what was guid for humanity: the scheme for the
 
@@ -17083,11 +17083,11 @@ same experience."
 
 but evil," answered Angus.  "I still think you were doing evil;
 
-even though you were serving [[Truth|truth]].  You have convinced me that my
+even though you were serving [[concepts/truth|truth]].  You have convinced me that my
 
-beliefs were [[Dreams|dreams]]; but not that dreaming is worse than waking up.
+beliefs were [[motifs/dreams|dreams]]; but not that dreaming is worse than waking up.
 
-You brutally broke the [[Dreams|dreams]] of the humble, sneered at the weak
+You brutally broke the [[motifs/dreams|dreams]] of the humble, sneered at the weak
 
 hopes of the bereaved.  You seem cruel and inhuman to me, just as
 
@@ -17102,7 +17102,7 @@ pretended to believe in the Ten Commandments.  He was good to
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Il defunto James Haggis: ovvero, uno degli estremi e irrimediabilmente incompatibili…
+Il defunto James Haggis: ovvero, uno degli estremi e irrimediabilmente incompatibili…
 
 I settari del Puritanesimo del diciassettesimo secolo. E così via.
 
@@ -17110,7 +17110,7 @@ L’ateo scozzese e il calvinista scozzese discutevano senza sosta…
 
 Si discuteva senza sosta, fino a quando le razze più gentili avrebbero potuto aspettarsi che smettessero.
 
-#"Morto di stanchezza… Ma la questione non riguardava alcun disaccordo tra loro."
+"Morto di stanchezza… Ma la questione non riguardava alcun disaccordo tra loro."
 
 Morirono.
 
@@ -17120,7 +17120,7 @@ Attacco… e devi ricordare che quell’uomo più giovane aveva soltanto…
 
 Una versione piuttosto ristretta e provinciale della dottrina da difendere… Come io.
 
-#Non vi annoierò con le argomentazioni; devo ammettere che siano piuttosto…
+Non vi annoierò con le argomentazioni; devo ammettere che siano piuttosto…
 
 Mi annoia… Senz’altro il dottor Campbell ha parlato dei Dieci Comandamenti.
 
@@ -17137,7 +17137,7 @@ Il codice di Licurgo.
 
 Un'improvvisa e fervente curiosità si manifestò in lui.
 
-#"Fu un personaggio mitico dell’Età Minoica, scoperto per la prima volta in..."
+"Fu un personaggio mitico dell’Età Minoica, scoperto per la prima volta in..."
 
 “Il ventesimo secolo d.C.” rispose Pond con calma. “L’ho creato io.”
 
@@ -17149,13 +17149,13 @@ L’arca riposava sul Monte Ararat… e quella montagna che non voleva sottomett
 
 “Come a Mahomet… Ma tutta questa critica testuale, in realtà, ha un impatto reale…”
 
-#Religione fondata unicamente sui testi… Conoscevo già come sarebbe andata quella battaglia.
+Religione fondata unicamente sui testi… Conoscevo già come sarebbe andata quella battaglia.
 
-# E io sapevo quando finì… Sapevo esattamente il momento in cui Robert Angus smise di raccontare.
+E io sapevo quando finì… Sapevo esattamente il momento in cui Robert Angus smise di raccontare.
 
 Andare in chiesa il giorno del Sabato.
 
-La fine della [[debate|debatte]] può essere descritta in modo più diretto; infatti.
+La fine della debatte può essere descritta in modo più diretto; infatti.
 
 Infatti, il signor Pond lo ha descritto lui stesso con un modo piuttosto strano…
 
@@ -17167,19 +17167,19 @@ Il luogo in cui si svolgeva la fase finale era una delle scuole di medicina…
 
 Disaccordo e accordo… Erano tornati lì molto tardi quella notte.
 
-Di [[Night|notte]], quando le scuole erano chiuse e il teatro deserto.
+Di [[motifs/night|notte]], quando le scuole erano chiuse e il teatro deserto.
 
-#Perché Angus pensava di aver lasciato alcuni dei suoi strumenti lì
+Perché Angus pensava di aver lasciato alcuni dei suoi strumenti lì
 
 “Che sarebbe stato più ordinato e appropriato chiuderlo a chiave… Non c’era però.”
 
 “Un suono che riecheggia in quel luogo vuoto… ma è solo l’eco dei loro stessi passi.”
 
-#Pochissima luce, tranne un debole bagliore lunare che filtrava attraverso…
+Pochissima luce, tranne un debole bagliore lunare che filtrava attraverso…
 
-#Fessure tra le finestre oscurate. Angus aveva recuperato il suo…
+Fessure tra le finestre oscurate. Angus aveva recuperato il suo…
 
-# Strumento operativo… e si voltò di nuovo verso le ripide scale…
+Strumento operativo… e si voltò di nuovo verso le ripide scale…
 
 “Si è inerpicato tra le file semicircolari di sedie, quando Campbell ha detto…”
 
@@ -17187,27 +17187,27 @@ Glielo disse con noncuranza.
 
 “Troverete i fatti che ho menzionato riguardo ai canti aztechi nel–”
 
-# Angus gettò lo strumento sul tavolo, come se stesse gettando via qualcosa che non gli serviva più.
+Angus gettò lo strumento sul tavolo, come se stesse gettando via qualcosa che non gli serviva più.
 
-La [[Sword|spada]], e con un atteggiamento nuovo e cambiato, si rivolse contro il suo compagno.
+La spada, e con un atteggiamento nuovo e cambiato, si rivolse contro il suo compagno.
 
 Di sincerità e definitività.
 
 “Non c’è bisogno di preoccuparsi più degli inni; posso benissimo dirtelo.”
 
-# Quello che ho fatto con loro… Tu sei troppo forte per me… o forse…
+Quello che ho fatto con loro… Tu sei troppo forte per me… o forse…
 
-Anzi, la [[Truth|_verità]] è troppo forte per me. Ho difeso soltanto le mie convinzioni personali.
+Anzi, la [[concepts/truth|_verità]] è troppo forte per me. Ho difeso soltanto le mie convinzioni personali.
 
-Un vero e proprio [[nightmare|incubo]] in quella notte; ma tu mi hai svegliato proprio ora.
+Un vero e proprio incubo in quella notte; ma tu mi hai svegliato proprio ora.
 
 Ultimo… Hai ragione, devi avere ragione; non vedo alcuna via d’uscita…
 
 it."
 
-Dopo un [[Silence|silenzio]], Campbell rispose molto dolcemente: “Non lo farò.”
+Dopo un [[motifs/silence|silenzio]], Campbell rispose molto dolcemente: “Non lo farò.”
 
-Scuse per aver lottato per la [[Truth|_verità]]; ma, davvero, avete fatto un casino terribile.
+Scuse per aver lottato per la [[concepts/truth|_verità]]; ma, davvero, avete fatto un casino terribile.
 
 Una bella lotta per la menzogna.
 
@@ -17215,13 +17215,13 @@ Sembrava davvero possibile che quel vecchio blasfemo non avesse mai parlato.
 
 Sul tema, con un tono così delicato e rispettoso… sembrava.
 
-È strano che il suo nuovo [[convert|convertito]] non abbia risposto a quell’appello.
+È strano che il suo nuovo convertito non abbia risposto a quell’appello.
 
-Alzando lo sguardo, Campbell vide che l'attenzione del suo nuovo [[convert|convertito]] era stata attirata da qualcos'altro.
+Alzando lo sguardo, Campbell vide che l'attenzione del suo nuovo convertito era stata attirata da qualcos'altro.
 
-# Bruscamente estratto dal contesto; stava lì in piedi a fissare quell’oggetto…
+Bruscamente estratto dal contesto; stava lì in piedi a fissare quell’oggetto…
 
-#La sua mano: un coltello chirurgico realizzato secondo uno schema particolare, per scopi speciali
+La sua mano: un coltello chirurgico realizzato secondo uno schema particolare, per scopi speciali
 
 Finalmente, disse con una voce rauca e quasi inudibile: “Scopi…”.
 
@@ -17233,15 +17233,15 @@ Finalmente, disse con una voce rauca e quasi inudibile: “Scopi…”.
 
 Dopo una pausa, aggiunse con la stessa calma:
 
-#"No, ora che siamo d’accordo e tutti concordi sull’importanza di questo..."
+"No, ora che siamo d’accordo e tutti concordi sull’importanza di questo..."
 
-La “chirurgia sociale”, beh, dovreste conoscere la vera [[Truth|verità]] su di essa. Sì.
+La “chirurgia sociale”, beh, dovreste conoscere la vera [[concepts/truth|verità]] su di essa. Sì.
 
 “Ragazzo, l’ho fatto da solo… e con una lama come quella lì. Quella notte…”
 
 Mi portò in chiesa, beh, spero sia la prima volta che lo faccio.
 
-# Mai essere ipocriti… ma io sono rimasto lì a pregare, e penso che anche voi avreste dovuto farlo.
+Mai essere ipocriti… ma io sono rimasto lì a pregare, e penso che anche voi avreste dovuto farlo.
 
 Speranze della mia conversione… Ma pregavo perché anche Jamie pregava; e
 
@@ -17249,19 +17249,19 @@ Quando finì le sue preghiere, lo seguii e lo uccisi lì.
 
 Il cimitero.
 
-Angus continuava a fissare il coltello in [[Silence|silenzio]]; poi disse.
+Angus continuava a fissare il coltello in [[motifs/silence|silenzio]]; poi disse.
 
 All'improvviso: “Perché l’hai ucciso?”
 
 “Non c’è bisogno di chiedere, siamo d’accordo sulla filosofia morale,” rispose il.
 
-# Vecchio dottore semplicemente… “Era solo una normale operazione chirurgica. Quando sacrificiamo qualcosa…”
+Vecchio dottore semplicemente… “Era solo una normale operazione chirurgica. Quando sacrificiamo qualcosa…”
 
-Un dito per salvare il [[Body|-corpo]]; quindi dobbiamo sacrificare un uomo per salvarlo.
+Un dito per salvare il [[concepts/body|-corpo]]; quindi dobbiamo sacrificare un uomo per salvarlo.
 
 Un corpo politico. L’ho ucciso perché commetteva il male, e.
 
-#Un piano che impediva in modo disumano ciò che era destinato all’umanità: il complotto
+Un piano che impediva in modo disumano ciò che era destinato all’umanità: il complotto
 
 Titolo:  
 Favelas e lava… E capisco che, riflettendoci bene, si possa arrivare a questa conclusione.
@@ -17280,26 +17280,26 @@ In quel teatro oscuro e minaccioso della pratica medica, i medici stessi concord
 
 “E cos’è?” chiese l’altro.
 
-#"Ho avuto rapporti quotidiani con un uomo che pensavo non facesse nulla"...
+"Ho avuto rapporti quotidiani con un uomo che pensavo non facesse nulla"...
 
 “Ma è malvagio,” rispose Angus. “Penso ancora che tu stessi facendo del male.”
 
-Anche se stavi diffondendo la [[Truth|_verità]], sei riuscito a convincermi che la mia.
+Anche se stavi diffondendo la [[concepts/truth|_verità]], sei riuscito a convincermi che la mia.
 
 Le credenze erano solo sogni, ma non significa che sognare sia peggio che svegliarsi.
 
-Hai distrutto brutalmente i [[Dreams|sogni]] delle persone umili, hai deriso i deboli.
+Hai distrutto brutalmente i [[motifs/dreams|sogni]] delle persone umili, hai deriso i deboli.
 
 Speranze dei dolenti… Mi sembri crudele e disumano, proprio come…
 
 “Per te, Haggis sembrava crudele e inumano… Sei davvero un uomo buono.”
 
-#Un codice proprio, ma anche Haggis era un uomo buono secondo il suo codice… Lui non faceva…
+Un codice proprio, ma anche Haggis era un uomo buono secondo il suo codice… Lui non faceva…
 
 Titolo:  
 Fingi di credere nella salvezza attraverso le buone azioni, proprio come fai con tutto il resto…
 
-# fingeva di credere nei Dieci Comandamenti… Era buono con tutti.
+fingeva di credere nei Dieci Comandamenti… Era buono con tutti.
 
 
 
@@ -17326,11 +17326,11 @@ his voice.
 
 held back only by the superstition you have destroyed tonight.  Day
 
-after day, you have been battering down the scruples which [[Alone|alone]]
+after day, you have been battering down the scruples which alone
 
-defended you from [[Death|death]].  You wise thinker; you wary reasoner; you
+defended you from [[motifs/death|death]].  You wise thinker; you wary reasoner; you
 
-[[Fool|fool]]!  It would be better for you to-[[Night|night]] if I still believed in
+[[archetypes/fool|fool]]!  It would be better for you to-[[motifs/night|night]] if I still believed in
 
 God and in his Commandment against murder."
 
@@ -17342,7 +17342,7 @@ table, where he lay as if fainting.  Round them and above them the
 
 empty tiers of concentric seats glimmered in the faint and frigid
 
-moonlight as desolate as the Colosseum under the [[Moon|moon]]; a deserted
+moonlight as desolate as the Colosseum under the [[motifs/moon|moon]]; a deserted
 
 amphitheatre where there was no human voice to cry "Habet!"  The
 
@@ -17350,9 +17350,9 @@ red-haired slayer stood with the knife uplifted, as strange in
 
 shape as the flint knife of some prehistoric sacrifice; and still
 
-he talked on in the high tones of [[Madness|madness]].
+he talked on in the high tones of [[concepts/madness|madness]].
 
-"One thing [[Alone|alone]] protected you and kept the peace between us: that
+"One thing alone protected you and kept the peace between us: that
 
 we disagreed.  Now we agree, now we are at one in thought--and
 
@@ -17362,15 +17362,15 @@ at peace."
 
 And with the sound of that word he struck; and Andrew Campbell
 
-moved for the last [[Time|time]].  In his own cold temple, upon his own
+moved for the last [[motifs/time|time]].  In his own cold temple, upon his own
 
 godless altar . . . he stirred and then lay still; and the murderer
 
-bent and fled from the building and from the [[City|city]] and across the
+bent and fled from the building and from the [[motifs/city|city]] and across the
 
-Highland line at [[Night|night]], to hide himself in the hills.
+Highland line at [[motifs/night|night]], to hide himself in the hills.
 
-When Pond had told this story, Gahagan [[Rose|rose]] slowly to his gigantic
+When Pond had told this story, Gahagan [[motifs/rose|rose]] slowly to his gigantic
 
 height and knocked out his cigar in an ashtray:  "I darkly suspect,
 
@@ -17388,7 +17388,7 @@ Poles or Prussians or other foreigners have agreed.  We don't often
 
 ask what they've agreed on.  But agreement can be rather risky,
 
-unless it's agreement with the [[Truth|truth]]."
+unless it's agreement with the [[concepts/truth|truth]]."
 
 Wotton looked at him with a smouldering suspicion; but finally
 
@@ -17398,7 +17398,7 @@ POND THE PANTALOON
 
 "No, no, no," said Mr. Pond, with a gentle shrillness which he
 
-occasionally showed, when any [[Doubt|doubt]] was thrown on the prosaic
+occasionally showed, when any [[concepts/doubt|doubt]] was thrown on the prosaic
 
 precision of his statements or arguments.  "I did not say it was a
 
@@ -17420,13 +17420,13 @@ reported in that way, may be made to sound almost absurd."
 
 "Almost," said Captain Gahagan, nodding gravely and gazing at the
 
-little man opposite him, rather as if he were a mysterious [[Monster|monster]]
+little man opposite him, rather as if he were a mysterious [[archetypes/monster|monster]]
 
 in a tank.
 
 Mr. Pond was in his private tank, or private office, in a hive of
 
-[[government|Government]] offices, sitting at a desk and busy at the work of blue-
+Government offices, sitting at a desk and busy at the work of blue-
 
 pencilling the proofs of some official report; whence had arisen
 
@@ -17440,27 +17440,27 @@ for him; he was attached to Mr. Pond and even more attached to
 
 watching other people work.
 
-"I may resemble [[Polonius]]," said Pond, modestly; and, indeed, his
+"I may resemble [[characters/polonius|Polonius]]," said Pond, modestly; and, indeed, his
 
 old-fashioned beard, owlish expression and official courtliness
 
-made the comparison almost apt.  "I may be like [[Polonius]]; but I am
+made the comparison almost apt.  "I may be like [[characters/polonius|Polonius]]; but I am
 
-not [[Polonius]]--which is just the point I wish to illustrate.  [[Hamlet]]
+not [[characters/polonius|Polonius]]--which is just the point I wish to illustrate.  [[characters/hamlet|Hamlet]]
 
-told [[Polonius]] that a cloud in the sky was like a camel.  The effect
+told [[characters/polonius|Polonius]] that a cloud in the sky was like a camel.  The effect
 
-would have been somewhat different if [[Hamlet]] had stated, seriously
+would have been somewhat different if [[characters/hamlet|Hamlet]] had stated, seriously
 
 and scientifically, that he had seen a camel in the sky.  In that
 
-case, [[Polonius]] might have been pardoned in regarding the Prince's
+case, [[characters/polonius|Polonius]] might have been pardoned in regarding the Prince's
 
-[[Madness|madness]] as finally proved.  Touchy officials have been known to
+[[concepts/madness|madness]] as finally proved.  Touchy officials have been known to
 
 express the view that you, my dear Gahagan, come into this office
 
-like a buffalo, and there 'lie wallowing through the long [[Summer|summer]]
+like a buffalo, and there 'lie wallowing through the long [[motifs/summer|summer]]
 
 day,' as an outmoded poet puts it.  But if the authorities of the
 
@@ -17470,7 +17470,7 @@ the department would hardly move in the matter without further
 
 inquiries."
 
-"No [[Doubt|doubt]] you have my dossier," said Gahagan, "with official
+"No [[concepts/doubt|doubt]] you have my dossier," said Gahagan, "with official
 
 calculations and statistics about the number of my legs, not to
 
@@ -17478,7 +17478,7 @@ mention my horns; all annotated with blue and red pencil--and most
 
 certainly with some very black marks against my name.  But that
 
-brings me back to the original subject of my simple [[Wonder|wonder]].  You
+brings me back to the original subject of my simple [[concepts/wonder|wonder]].  You
 
 hardly seem to have noticed what was really peculiar in your own
 
@@ -17492,7 +17492,7 @@ faint smile.  "You would say, for instance, that my notes on this
 
 proof are in blue pencil; and yet--"  He held out a pencil with its
 
-red [[chalk]] point towards the other.  It looked like a mild conjuring
+red [[motifs/chalk|chalk]] point towards the other.  It looked like a mild conjuring
 
 trick, until he twiddled it so as to show it was one of those
 
@@ -17507,24 +17507,24 @@ Gli individui forse se la cavano meglio, ma la folla soffre… Tu sei gentile co
 
 Qualcosa nelle ultime parole, pronunciate molto dolcemente, fece sì che…
 
-# Il vecchio dottore si irrigidisce all’improvviso e poi inizia a muoversi all’indietro verso…
+Il vecchio dottore si irrigidisce all’improvviso e poi inizia a muoversi all’indietro verso…
 
-# Dietro di lui… Angus balzò come un gatto selvaggio e lo immobilizzò.
+Dietro di lui… Angus balzò come un gatto selvaggio e lo immobilizzò.
 
 Titolo:  
 Un luogo di violenza soffocante; ancora parlano, ma ora con voce stridula…
 
 La sua voce.
 
-#"Giorno dopo giorno, ho provato un desiderio ardente di ucciderti… e continuo a sentirlo."
+"Giorno dopo giorno, ho provato un desiderio ardente di ucciderti… e continuo a sentirlo."
 
 Bloccato soltanto dalla superstizione che questa notte hai distrutto… Il Giorno
 
 Durante il giorno, hai continuato a superare quelle remore che soltanto tu avevi.
 
-Ti ha protetto dalla [[Death|morte]]. Tu, saggio pensatore; tu, attento ragionatore.
+Ti ha protetto dalla [[motifs/death|morte]]. Tu, saggio pensatore; tu, attento ragionatore.
 
-[[Fool|idiota]]! Sarebbe meglio per te se io ancora credessi in, di [[Night|notte]].
+[[archetypes/fool|idiota]]! Sarebbe meglio per te se io ancora credessi in, di [[motifs/night|notte]].
 
 Dio e il suo comandamento contro l’omicidio.
 
@@ -17532,19 +17532,19 @@ L’uomo anziano si contorceva senza parole nella morsa soffocante, ma…
 
 “Troppo debole… E Angus lo scagliò con forza attraverso l’ambiente operatorio…”
 
-# Sul tavolo, giaceva come se stesse per svenire… Intorno a lui e sopra di lui…
+Sul tavolo, giaceva come se stesse per svenire… Intorno a lui e sopra di lui…
 
-# Strati vuoti di sedili concentrici brillavano nella luce fioca e gelida
+Strati vuoti di sedili concentrici brillavano nella luce fioca e gelida
 
 Una luce lunare desolata, come quella del Colosseo sotto la luna; un luogo abbandonato.
 
-# Anfiteatro dove non risuonava alcuna voce umana che gridasse “Habet!”
+Anfiteatro dove non risuonava alcuna voce umana che gridasse “Habet!”
 
 Il guerriero dai capelli rossi stava lì, con il coltello sollevato… strano davvero.
 
-#Forma come il coltello di pietra di qualche sacrificio preistorico; e ancora…
+Forma come il coltello di pietra di qualche sacrificio preistorico; e ancora…
 
-Continuò a parlare con quelle voci acute tipiche della [[Madness|pazzia]].
+Continuò a parlare con quelle voci acute tipiche della [[concepts/madness|pazzia]].
 
 C’era una sola cosa che ti proteggesse e mantenesse la pace tra di noi: quella.
 
@@ -17560,7 +17560,7 @@ Si mosse per l’ultima volta. Nel suo stesso freddo tempio, su di sé.
 
 Altare senza Dio… Lui si mosse, poi rimase immobile; e il assassino…
 
-Si piegò in due e fuggì dall’edificio, dalla [[City|città]], e oltre.
+Si piegò in due e fuggì dall’edificio, dalla [[motifs/city|città]], e oltre.
 
 La linea Highland, di notte, per nascondersi tra le colline.
 
@@ -17583,31 +17583,31 @@ Titolo:
 
 Chiedi su cosa siano concordati… Ma un accordo può rivelarsi piuttosto rischioso.
 
-A meno che non si tratti di un accordo con la [[Truth|_verità]].
+A meno che non si tratti di un accordo con la [[concepts/truth|_verità]].
 
 Wotton lo guardò con un sospetto ardente; ma alla fine…
 
 Decise, con un sospiro di sollievo, che si trattava soltanto di metafisica.
 
-#Pond il pantalone
+Pond il pantalone
 
 “No, no, no,” disse il signor Pond, con una dolce stridulenza nella voce…
 
-A volte si manifestava quando sorgeva qualche [[Doubt|dubbio]] riguardo alla banalità di quella situazione.
+A volte si manifestava quando sorgeva qualche [[concepts/doubt|dubbio]] riguardo alla banalità di quella situazione.
 
 La precisione delle sue affermazioni o argomentazioni… “Non ho detto che fosse…”
 
 “La matita rossa… ed è per questo che lasciava tracce così scure. L’ho detto.”
 
-# Era relativamente simile a una matita rossa, o almeno ne assomigliava.
+Era relativamente simile a una matita rossa, o almeno ne assomigliava.
 
 Con la visione di Wotton che lo considerava una matita blu… E così fu.
 
-#Perché ha lasciato tracce così scure… La differenza potrebbe sembrare minima
+Perché ha lasciato tracce così scure… La differenza potrebbe sembrare minima
 
 “Uno… ma vi assicuro che da questo derivano gli errori più enormi.”
 
-# Abitudine di estrarre un commento dal suo contesto per poi riprodurlo in modo distorto
+Abitudine di estrarre un commento dal suo contesto per poi riprodurlo in modo distorto
 
 Non del tutto correttamente… Le verità più ordinarie e ovvie, quando vengono considerate in modo superficiale…
 
@@ -17615,15 +17615,15 @@ Se presentato in quel modo, può sembrare quasi assurdo.
 
 “Quasi,” disse il Capitano Gahagan, annuendo seriamente e fissando…
 
-Quel piccolo uomo davanti a lui, quasi come se fosse un misterioso [[Monster|mostro]].
+Quel piccolo uomo davanti a lui, quasi come se fosse un misterioso [[archetypes/monster|mostro]].
 
 In un carro armato.
 
-#Il signor Pond era nel suo ufficio privato, all’interno di un alveare…
+Il signor Pond era nel suo ufficio privato, all’interno di un alveare…
 
-Uffici del [[government|Governo]], dove le persone sedevano alle scrivanie impegnate nel loro lavoro.
+Uffici del Governo, dove le persone sedevano alle scrivanie impegnate nel loro lavoro.
 
-#"Correggendo le bozze di un rapporto ufficiale… da dove era nata questa necessità?"
+"Correggendo le bozze di un rapporto ufficiale… da dove era nata questa necessità?"
 
 Titolo:  
 “La discussione sul colore della matita… In breve, Pond stava facendo…”
@@ -17636,61 +17636,61 @@ Per lui… Era molto legato al signor Pond, e ancora di più a…
 
 Osservare altre persone mentre lavorano.
 
-“Potrei assomigliare a [[Polonius|Polonio]],” disse Pond in modo modesto; e infatti, lui.
+“Potrei assomigliare a [[characters/polonius|Polonio]],” disse Pond in modo modesto; e infatti, lui.
 
 Barba all’antica, espressione da gufo e cortesia ufficiale
 
-Ha fatto un paragone quasi appropriato: “Forse sono come [[Polonius|Polonio]], ma io non lo sono.”
+Ha fatto un paragone quasi appropriato: “Forse sono come [[characters/polonius|Polonio]], ma io non lo sono.”
 
-Non [[Polonius|Polonio]], ed è proprio questo che voglio illustrare. [[Hamlet|Amleto]]
+Non [[characters/polonius|Polonio]], ed è proprio questo che voglio illustrare. [[characters/hamlet|Amleto]]
 
-Disse a [[Polonius|Polonio]] che una nuvola nel cielo assomigliava a un cammello. L’effetto fu sorprendente.
+Disse a [[characters/polonius|Polonio]] che una nuvola nel cielo assomigliava a un cammello. L’effetto fu sorprendente.
 
-Sarebbe stato un po' diverso se [[Hamlet|Amleto]] lo avesse detto seriamente.
+Sarebbe stato un po' diverso se [[characters/hamlet|Amleto]] lo avesse detto seriamente.
 
-# Scientificamente parlando, aveva visto una cammella nel cielo…
+Scientificamente parlando, aveva visto una cammella nel cielo…
 
-In quel caso, forse [[Polonius|Polonio]] sarebbe stato perdonato riguardo alle azioni del Principe.
+In quel caso, forse [[characters/polonius|Polonio]] sarebbe stato perdonato riguardo alle azioni del Principe.
 
-La [[Madness|pazzia]], come alla fine si è dimostrata. È noto che funzionari suscettibili possano reagire in modo eccessivo.
+La [[concepts/madness|pazzia]], come alla fine si è dimostrata. È noto che funzionari suscettibili possano reagire in modo eccessivo.
 
 Titolo:  
 Esprimo l’opinione che tu, mio caro Gahagan, entri in questo ufficio…
 
-Come un bue, si rotola nella lunga [[Summer|estate]].
+Come un bue, si rotola nella lunga [[motifs/summer|estate]].
 
 “Giorno”, come lo definirebbe un poeta ormai obsoleto… Ma se le autorità…
 
-#Un bufalo tra gli uomini
+Un bufalo tra gli uomini
 
-# Il dipartimento difficilmente avrebbe agito in questa materia senza ulteriori indicazioni.
+Il dipartimento difficilmente avrebbe agito in questa materia senza ulteriori indicazioni.
 
 “Indagini.”
 
-“Non c’è alcun [[Doubt|dubbio]] che tu abbia il mio dossier,” disse Gahagan, “con i documenti ufficiali, ”
+“Non c’è alcun [[concepts/doubt|dubbio]] che tu abbia il mio dossier,” disse Gahagan, “con i documenti ufficiali, ”
 
-#Calcoli e statistiche sul numero delle mie gambe… non per altro
+Calcoli e statistiche sul numero delle mie gambe… non per altro
 
 Menziona i miei “corna”; tutti annotati con matita blu e rossa… e la maggior parte di essi…
 
 Certo, ci sono alcuni segni molto negativi nel mio curriculum… Ma comunque…
 
-Mi riporta all’argomento originale della mia semplice [[Wonder|meraviglia]]. Tu.
+Mi riporta all’argomento originale della mia semplice [[concepts/wonder|meraviglia]]. Tu.
 
-#A malapena sembra essersi reso conto di ciò che era davvero strano nel proprio comportamento…
+A malapena sembra essersi reso conto di ciò che era davvero strano nel proprio comportamento…
 
-# Commento… Comunque, non capisco esattamente cosa intendi con “un…”
+Commento… Comunque, non capisco esattamente cosa intendi con “un…”
 
 La matita era relativamente rossa.
 
 “Anche quella frase potrebbe essere difesa,” osservò il signor Pond.
 
-# Debole sorriso. “Potresti dire, ad esempio, che le mie note su questo…”
+Debole sorriso. “Potresti dire, ad esempio, che le mie note su questo…”
 
 Titolo:  
 “Le prove sono scritte in matita blu… Eppure…” Allungò una matita con la punta blu.
 
-Il punto fatto con la [[chalk|gesso]] rosso indicava nella direzione opposta. Sembrava quasi un piccolo trucco magico.
+Il punto fatto con la [[motifs/chalk|gesso]] rosso indicava nella direzione opposta. Sembrava quasi un piccolo trucco magico.
 
 Trucco… finché non lo girò in modo da far vedere che era uno di quei…
 
@@ -17719,7 +17719,7 @@ impatience.  "I should say what I said before; that the queer thing
 
 about you is that you are quite blind to what was really mad in
 
-your statement.  You can't see the [[Paradox|paradox]] in your own remark.  You
+your statement.  You can't see the [[concepts/paradox|paradox]] in your own remark.  You
 
 can't see the point of your own remark."
 
@@ -17745,7 +17745,7 @@ breaking a crystal or shattering a perfectly rounded soap-bubble.
 
 To pierce the pure and spherical perfection of your maniacal calm
 
-would be like invading the [[innocence]] of a [[Child|child]].  If you really and
+would be like invading the innocence of a [[archetypes/child|child]].  If you really and
 
 truly do not know when you are talking nonsense, if you do not even
 
@@ -17761,17 +17761,17 @@ And he sauntered out of the room, swinging his stick, in the
 
 direction of the very important department presided over by Sir
 
-[[Hubert]] Wotton; that he might enjoy the inspiriting spectacle of
+[[characters/hubert|Hubert]] Wotton; that he might enjoy the inspiriting spectacle of
 
 another friend doing his day's work and being interrupted by an
 
 idle man.
 
-Sir [[Hubert]] Wotton, however, was of a type somewhat different from
+Sir [[characters/hubert|Hubert]] Wotton, however, was of a type somewhat different from
 
 Mr. Pond; in that, even if he was busy, he was never fussy.  Mr.
 
-Pond was bent over the poised point of his blue pencil; Sir [[Hubert]]
+Pond was bent over the poised point of his blue pencil; Sir [[characters/hubert|Hubert]]
 
 was first visible behind the red end of a cigar, which he was
 
@@ -17831,7 +17831,7 @@ he's really had some very extraordinary experiences.  He doesn't
 
 talk about them; he doesn't want to talk about them; but he does
 
-want to talk about reason and [[philosophy]] and theoretical things in
+want to talk about reason and philosophy and theoretical things in
 
 books; you know he loves reading all the rational eighteenth-
 
@@ -17839,7 +17839,7 @@ century literature.  But when, in the course of talking in the
 
 abstract, he comes on some concrete thing that he has actually DONE--
 
-[[Well|well]], I can only say he crumples it up.  He tries to crush it into
+[[motifs/well|well]], I can only say he crumples it up.  He tries to crush it into
 
 a small space and it simply sounds contradictory.  Almost every one
 
@@ -17853,7 +17853,7 @@ radiant reflection.  "Yes, you're right.  You can't expect me to be
 
 taken in, mind you, by most of your swagger of stoicism in the
 
-English public-school man.  Half the [[Time|time]] they are simply showing
+English public-school man.  Half the [[motifs/time|time]] they are simply showing
 
 off by not showing off.  But in Pond it's genuine.  He really does
 
@@ -17865,7 +17865,7 @@ this particular manner, when he really does want to keep the secret
 
 of his services.  In other words, you mean there is a story behind
 
-every [[Paradox|paradox]] of Pond.  Certainly that is true--of all those cases
+every [[concepts/paradox|paradox]] of Pond.  Certainly that is true--of all those cases
 
 when I have been told the story."
 
@@ -17896,16 +17896,16 @@ he nearly got killed."
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Matite vendute nella maggior parte delle cartolerie, con la punta rossa da un lato e quella blu dall’altro
+Matite vendute nella maggior parte delle cartolerie, con la punta rossa da un lato e quella blu dall’altro
 
 Titolo:  
 “L’altro… Ora supponiamo che io usi fino ad esaurire quel punto blu…”
 
-#Quasi scomparso… e davvero, che errori di stampa possono commettere su qualcosa di così semplice…
+Quasi scomparso… e davvero, che errori di stampa possono commettere su qualcosa di così semplice…
 
-# Rapporto sul bimetallismo in Belucistan… incredibile!
+Rapporto sul bimetallismo in Belucistan… incredibile!
 
-# La matita era relativamente rossa, anche se forse comunque piuttosto…
+La matita era relativamente rossa, anche se forse comunque piuttosto…
 
 Blue… Se la parte rossa si consumasse, si direbbe che sia prevalentemente blu.
 
@@ -17917,19 +17917,19 @@ Impazienza… “Dovrei ripetere ciò che ho detto prima: quella cosa strana…�
 
 Il titolo è: “Ciò che ti riguarda, in realtà, è che sei completamente cieco di fronte a ciò che veramente è pazzo…”
 
-La tua affermazione. Non riesci nemmeno a notare il [[Paradox|paradosso]] presente nelle tue stesse parole. Tu.
+La tua affermazione. Non riesci nemmeno a notare il [[concepts/paradox|paradosso]] presente nelle tue stesse parole. Tu.
 
 “Non capisco il senso della tua stessa osservazione.”
 
 “Il punto della mia osservazione,” disse il signor Pond con dignità, “è che…”
 
-# Ho pensato di aver spiegato abbastanza chiaramente che le persone sono molto…
+Ho pensato di aver spiegato abbastanza chiaramente che le persone sono molto…
 
-# Impreciso nelle dichiarazioni riportate, come nel caso di un cammello…
+Impreciso nelle dichiarazioni riportate, come nel caso di un cammello…
 
 “Qualcosa come un cammello.”
 
-# Peter Gahagan continuava a fissare il suo amico con gli occhi spalancati.
+Peter Gahagan continuava a fissare il suo amico con gli occhi spalancati.
 
 Come un bue nella fase di ruminazione… e alla fine ha emesso un suono forte.
 
@@ -17941,15 +17941,15 @@ Un tipo di rumore stridulo.
 
 Rompere un cristallo o far esplodere una bolla di sapone perfettamente rotonda.
 
-# Attraversare la pura e sferica perfezione della tua calma folle
+Attraversare la pura e sferica perfezione della tua calma folle
 
-Sarebbe come invadere l’[[innocence|innocenza]] di un [[Child|bambino]]. Se davvero.
+Sarebbe come invadere l’innocenza di un [[archetypes/child|bambino]]. Se davvero.
 
-#Non so proprio quando dici sciocchezze… se non lo fai nemmeno consapevolmente.
+Non so proprio quando dici sciocchezze… se non lo fai nemmeno consapevolmente.
 
-# Nota quale parte di tutto questo è assurda… Credo proprio di dovervi lasciare.
+Nota quale parte di tutto questo è assurda… Credo proprio di dovervi lasciare.
 
-# Intelligenza assurda ma intatta… Andrò a parlarne con lei.
+Intelligenza assurda ma intatta… Andrò a parlarne con lei.
 
 Wotton. Come ha spesso osservato con disinvoltura, non c’è nulla di inutile o superfluo.
 
@@ -17957,19 +17957,19 @@ Wotton. Come ha spesso osservato con disinvoltura, non c’è nulla di inutile o
 
 E uscì dalla stanza con passo disinvolto, dondolando il suo bastone…
 
-# Direzione del dipartimento estremamente importante presieduto da Sir
+Direzione del dipartimento estremamente importante presieduto da Sir
 
-[[Hubert]] Wotton; affinché potesse godere dello spettacolo ispiratore di.
+[[characters/hubert|Hubert]] Wotton; affinché potesse godere dello spettacolo ispiratore di.
 
 Un altro amico che svolge il proprio lavoro quotidiano e viene interrotto…
 
 Uomo ozioso.
 
-Tuttavia, Sir [[Hubert]] Wotton era di un tipo piuttosto diverso.
+Tuttavia, Sir [[characters/hubert|Hubert]] Wotton era di un tipo piuttosto diverso.
 
 Il signor Pond: in questo senso, anche se era impegnato, non era mai schizzinoso. Il signor.
 
-Pond era chino sulla punta del suo pennarello blu; Sir [[Hubert]].
+Pond era chino sulla punta del suo pennarello blu; Sir [[characters/hubert|Hubert]].
 
 Il titolo apparve per la prima volta dietro l’estremità rossa di un sigaro che lui stava fumando.
 
@@ -17979,13 +17979,13 @@ Sul suo tavolo… Riconobbe l’arrivo del capitano sorridente…
 
 Un sorriso cupo, ma non scortese; poi gli fece segno di sedersi.
 
-#Gahagan si sedette con le mani incrociate sul suo bastone e lo batté forte
+Gahagan si sedette con le mani incrociate sul suo bastone e lo batté forte
 
 A terra.
 
 “Wotton,” disse, “ho risolto il problema dei paradossi…”
 
-#Il laghetto. Non sa nemmeno quando abbia detto queste cose folli… C’è…
+Il laghetto. Non sa nemmeno quando abbia detto queste cose folli… C’è…
 
 Un punto cieco nel suo eccellente intelletto… o forse una nuvola oscura che offusca la sua mente?
 
@@ -17995,7 +17995,7 @@ Continua a discutere della parte razionale del suo discorso…
 
 Non si ferma mai per spiegare l’unica cosa che davvero non ha senso.
 
-# Parlò con me in modo piuttosto ragionevole di una matita di un rosso brillante.
+Parlò con me in modo piuttosto ragionevole di una matita di un rosso brillante.
 
 O qualcosa del genere; per questo motivo era stato segnato in modo molto evidente sul foglio.
 
@@ -18025,15 +18025,15 @@ Non è così con Pond: lo fa perché cerca proprio di non farlo vedere.
 
 Come se non avesse mai smesso di stare attaccato a una scrivania o a una macchina da scrivere…
 
-# Ha davvero vissuto alcune esperienze straordinarie… Ma non ne parla mai.
+Ha davvero vissuto alcune esperienze straordinarie… Ma non ne parla mai.
 
 Parlarne non vuole; ma lo fa lo stesso.
 
-Vorrei parlare di ragione, [[philosophy|filosofia]] e argomenti teorici.
+Vorrei parlare di ragione, filosofia e argomenti teorici.
 
 Libri… sai che adora leggere tutti quei testi razionalisti del diciottesimo secolo…
 
-# Letteratura del secolo. Ma quando, nel corso di una conversazione…
+Letteratura del secolo. Ma quando, nel corso di una conversazione…
 
 Titolo:  
 Basandosi su fatti concreti che ha realmente compiuto…
@@ -18054,9 +18054,9 @@ Radiante riflessione. “Sì, hai ragione… Non puoi aspettarti che io sia…�
 
 Un ragazzo che ha frequentato le scuole pubbliche inglesi. La metà delle volte, quello che fanno è semplicemente, mostrare.
 
-#Non ostentare mai… Ma nel caso di Pond, è genuino: lo fa davvero.
+Non ostentare mai… Ma nel caso di Pond, è genuino: lo fa davvero.
 
-#Odia essere al centro dell’attenzione; in un certo senso, si potrebbe dire che fosse fatto per questo.
+Odia essere al centro dell’attenzione; in un certo senso, si potrebbe dire che fosse fatto per questo.
 
 Servizio Segreto… E intendi dire che diventa misterioso soltanto in…
 
@@ -18064,7 +18064,7 @@ In questo modo particolare, quando davvero vuole mantenere il segreto…
 
 Per i suoi servizi… In altre parole, vuoi dire che c’è una storia dietro a tutto questo.
 
-Ogni [[Paradox|paradosso]] di Pond. Certo, questo è vero: in tutti quei casi.
+Ogni [[concepts/paradox|paradosso]] di Pond. Certo, questo è vero: in tutti quei casi.
 
 quando mi hanno raccontato questa storia.
 
@@ -18072,20 +18072,20 @@ quando mi hanno raccontato questa storia.
 
 Le cose più straordinarie che Pond abbia mai fatto… Era una questione di…
 
-# Immensa importanza: un affare pubblico che deve essere attentamente gestito
+Immensa importanza: un affare pubblico che deve essere attentamente gestito
 
 Un affare strettamente privato. Pond fornì due consigli, che alcuni…
 
 Sembrava davvero strano, ma alla fine si rivelò esattamente corretto… E lui concluse così.
 
-# Attraverso una scoperta davvero straordinaria… Non so come abbia fatto.
+Attraverso una scoperta davvero straordinaria… Non so come abbia fatto.
 
 Titolo:  
 L’ho appena menzionato poco fa… ma sono abbastanza sicuro che sia stato scritto da…
 
-# Incidente. Quando apparve, cercò di nasconderlo di nuovo…
+Incidente. Quando apparve, cercò di nasconderlo di nuovo…
 
-#Cambiare argomento in fretta… Ma di certo salvò l’Inghilterra; anche così.
+Cambiare argomento in fretta… Ma di certo salvò l’Inghilterra; anche così.
 
 Quasi veniva ucciso.
 
@@ -18100,23 +18100,23 @@ Quasi veniva ucciso.
 
 reminiscently, "before he turned the sixth shot on himself."
 
-"[[Well]], I'm blowed," said the Captain elegantly.  "I always thought
+"[[motifs/well|Well]], I'm blowed," said the Captain elegantly.  "I always thought
 
 Pond the most charming of tea-table comedies; I never knew he
 
-figured in a [[Melodrama|melodrama]].  I should as soon have thought of his
+figured in a [[forms/melodrama|melodrama]].  I should as soon have thought of his
 
 figuring in a fairy-pantomime.  But he seems somehow associated
 
 with theatrical things at the moment.  He asked me himself if he
 
-was like [[Polonius]]; and I suppose some malicious people would say he
+was like [[characters/polonius|Polonius]]; and I suppose some malicious people would say he
 
 was more like Pantaloon.  I like the notion of you and he magically
 
-transplanted to a Christmas pantomime:  'Harlequin [[Hubert]] and the
+transplanted to a Christmas pantomime:  'Harlequin [[characters/hubert|Hubert]] and the
 
-Fairies' Pond,' all ending with a real Harlequinade, with red [[Fire|fire]]
+Fairies' Pond,' all ending with a real Harlequinade, with red [[motifs/fire|fire]]
 
 and the Pantaloon falling over the Policeman.  Pardon my talking
 
@@ -18124,13 +18124,13 @@ nonsense--you know my unfortunate mind only becomes fertile about
 
 impossible things."
 
-"It's curious you should call it impossible," said Sir [[Hubert]]
+"It's curious you should call it impossible," said Sir [[characters/hubert|Hubert]]
 
 Wotton, knitting his brows, "because that's almost exactly what
 
 really happened to us."
 
-Sir [[Hubert]] Wotton showed a certain reticence and deliberate
+Sir [[characters/hubert|Hubert]] Wotton showed a certain reticence and deliberate
 
 vagueness about the official details of the story; even in telling
 
@@ -18140,9 +18140,9 @@ especially, there are enormous events which never get into the
 
 newspapers, and are apparently intended never to get into the
 
-[[history]]-books.  It may be enough to say here that there was at one
+[[concepts/history|history]]-books.  It may be enough to say here that there was at one
 
-[[Time|time]] under the surface, but very near to the surface, a conspiracy
+[[motifs/time|time]] under the surface, but very near to the surface, a conspiracy
 
 aiming at a coup d'état, which was backed by a Continental Power of
 
@@ -18154,15 +18154,15 @@ certain number of minor officials had been corrupted or converted
 
 by the conspirators.  Hence, when it was a question of sending
 
-certain very private official documents (about the [[Nature|nature]] of which
+certain very private official documents (about the [[concepts/nature|nature]] of which
 
 Wotton remained somewhat hazy to the end) from one of the great
 
-northern ports to a particular [[government|Government]] department in [[London]], the
+northern ports to a particular Government department in [[settings/london|London]], the
 
 first Council was a very small and select one, presided over by Sir
 
-[[Hubert]] and held in the smaller office of Mr. Pond.  Indeed, Mr.
+[[characters/hubert|Hubert]] and held in the smaller office of Mr. Pond.  Indeed, Mr.
 
 Pond was the official in charge of the job.  The only other person
 
@@ -18172,7 +18172,7 @@ Yard; Wotton had brought his clerk with him to arrange and explain
 
 certain matters; but had later made an excuse for sending the man
 
-out on an errand.  Dyer, the [[Detective|detective]] from the Yard, a heavy-
+out on an errand.  Dyer, the [[archetypes/detective|detective]] from the Yard, a heavy-
 
 shouldered, hard-headed person with a toothbrush moustache,
 
@@ -18182,7 +18182,7 @@ and arrangements he would consider necessary for protecting the
 
 transport of the papers to their destination.  He wanted an
 
-armoured car with a [[Machine|machine]]-gun, a certain number of men carrying
+armoured car with a [[motifs/machine|machine]]-gun, a certain number of men carrying
 
 concealed arms, a police search of everybody involved in first
 
@@ -18210,7 +18210,7 @@ nobody of sense would take such particular precautions, any more
 
 than anybody would send an important letter by registered post."
 
-"[[Well]], you must pardon my dullness," said Sir [[Hubert]], "but, as a
+"[[motifs/well|Well]], you must pardon my dullness," said Sir [[characters/hubert|Hubert]], "but, as a
 
 matter of fact, I have heard of people sending an important letter
 
@@ -18230,7 +18230,7 @@ amusement.
 
 to prevent a document from being dropped down a drain, or thrown
 
-into a dustbin, or used to light the [[Fire|fire]] or to make a bird's nest,
+into a dustbin, or used to light the [[motifs/fire|fire]] or to make a bird's nest,
 
 or any other accident of neglect, then it is a good thing to draw
 
@@ -18258,7 +18258,7 @@ and sent along with a thousand others looking exactly the same."
 
 It is a tribute to the essential shrewdness, underlying the
 
-apparent woodenness of Wotton and Dyer, that the [[Paradox|paradox]] of Pond
+apparent woodenness of Wotton and Dyer, that the [[concepts/paradox|paradox]] of Pond
 
 prevailed.  The documents, however, were too bulky to be treated as
 
@@ -18291,23 +18291,23 @@ He shut his mouth rather sharply, as a discreet knock sounded on
 
 con aria nostalgica, "prima di rivolgere il sesto colpo contro se stesso."
 
-"[[Well|Beh]], che mi venga un colpo," disse il Capitano con eleganza. "Ho sempre pensato
+"[[motifs/well|Beh]], che mi venga un colpo," disse il Capitano con eleganza. "Ho sempre pensato
 
 che Pond fosse la più deliziosa delle commedie da salotto; non l'avrei mai creduto
 
-protagonista di un [[Melodrama|melodramma]]. Tanto varrebbe immaginarlo
+protagonista di un [[forms/melodrama|melodramma]]. Tanto varrebbe immaginarlo
 
 nei panni di una pantomima delle fate. Eppure pare in qualche modo legato
 
 alle cose teatrali, di questi tempi. Mi ha chiesto lui stesso se
 
-somigliasse a [[Polonius|Polonio]]; e immagino che qualche malalingua direbbe che
+somigliasse a [[characters/polonius|Polonio]]; e immagino che qualche malalingua direbbe che
 
 somiglia piuttosto a Pantalone. Mi piace l'idea di voi due magicamente
 
-trasportati in una pantomima natalizia: 'Arlecchino [[Hubert]] e lo
+trasportati in una pantomima natalizia: 'Arlecchino [[characters/hubert|Hubert]] e lo
 
-Stagno delle Fate,' il tutto con una vera arlecchinata finale, col [[Fire|fuoco]] rosso
+Stagno delle Fate,' il tutto con una vera arlecchinata finale, col [[motifs/fire|fuoco]] rosso
 
 e Pantalone che ruzzola addosso al Poliziotto. Perdonate le mie
 
@@ -18315,13 +18315,13 @@ sciocchezze — sapete che la mia sventurata mente diventa feconda solo intorno 
 
 cose impossibili."
 
-"È curioso che la definiate impossibile," disse Sir [[Hubert]]
+"È curioso che la definiate impossibile," disse Sir [[characters/hubert|Hubert]]
 
 Wotton, aggrottando le sopracciglia, "perché è quasi esattamente ciò che
 
 ci accadde davvero."
 
-Sir [[Hubert]] Wotton mostrò una certa reticenza e una deliberata
+Sir [[characters/hubert|Hubert]] Wotton mostrò una certa reticenza e una deliberata
 
 vaghezza sui dettagli ufficiali della vicenda; persino nel narrarla
 
@@ -18331,9 +18331,9 @@ soprattutto, vi sono eventi enormi che non finiscono mai sui
 
 giornali, e paiono destinati a non finire mai sui
 
-libri di [[history|storia]]. Basti dire qui che vi fu, a un certo
+libri di [[concepts/history|storia]]. Basti dire qui che vi fu, a un certo
 
-[[Time|tempo]] sotto la superficie, ma assai vicino ad essa, una cospirazione
+[[motifs/time|tempo]] sotto la superficie, ma assai vicino ad essa, una cospirazione
 
 mirante a un colpo di Stato, appoggiata da una Potenza continentale di
 
@@ -18345,15 +18345,15 @@ certo numero di funzionari minori fosse stato corrotto o convertito
 
 dai cospiratori. Perciò, quando si trattò di inviare
 
-certi documenti ufficiali assai riservati (sulla [[Nature|natura]] dei quali
+certi documenti ufficiali assai riservati (sulla [[concepts/nature|natura]] dei quali
 
 Wotton rimase alquanto vago sino alla fine) da uno dei grandi
 
-porti settentrionali a un particolare dicastero del [[government|Governo]] a [[London|Londra]], il
+porti settentrionali a un particolare dicastero del Governo a [[settings/london|Londra]], il
 
 primo Consiglio fu assai ristretto e scelto, presieduto da Sir
 
-[[Hubert]] e tenuto nell'ufficio più piccolo del signor Pond. Anzi, il signor
+[[characters/hubert|Hubert]] e tenuto nell'ufficio più piccolo del signor Pond. Anzi, il signor
 
 Pond era il funzionario incaricato del compito. L'unica altra persona
 
@@ -18363,7 +18363,7 @@ Yard; Wotton aveva portato con sé il proprio impiegato per sistemare e spiegare
 
 certe faccende; ma aveva poi trovato un pretesto per mandarlo
 
-fuori a sbrigare una commissione. Dyer, il [[Detective|detective]] dello Yard, un uomo dalle
+fuori a sbrigare una commissione. Dyer, il [[archetypes/detective|detective]] dello Yard, un uomo dalle
 
 spalle massicce e la testa dura, con baffetti a spazzolino,
 
@@ -18373,7 +18373,7 @@ e le disposizioni che riteneva necessarie per proteggere il
 
 trasporto delle carte fino a destinazione. Voleva un'
 
-auto blindata con una [[Machine|mitragliatrice]], un certo numero di uomini che portavano
+auto blindata con una [[motifs/machine|mitragliatrice]], un certo numero di uomini che portavano
 
 armi nascoste, una perquisizione di polizia su tutti coloro coinvolti nel primo
 
@@ -18401,7 +18401,7 @@ nessuno di buon senso prenderebbe precauzioni tanto particolari, non più
 
 di quanto spedirebbe una lettera importante per posta raccomandata."
 
-"[[Well|Beh]], dovete perdonare la mia ottusità," disse Sir [[Hubert]], "ma, in
+"[[motifs/well|Beh]], dovete perdonare la mia ottusità," disse Sir [[characters/hubert|Hubert]], "ma, in
 
 verità, ho sentito di gente che spedisce una lettera importante
 
@@ -18421,7 +18421,7 @@ divertimento.
 
 impedire che un documento venga gettato in un tombino, o buttato
 
-nella spazzatura, o usato per accendere il [[Fire|fuoco]] o per farne un nido d'uccello,
+nella spazzatura, o usato per accendere il [[motifs/fire|fuoco]] o per farne un nido d'uccello,
 
 o qualsiasi altro incidente di trascuratezza, allora è bene richiamare
 
@@ -18449,7 +18449,7 @@ e spedita insieme ad altre mille dall'aspetto identico."
 
 È un omaggio all'acume di fondo, celato sotto
 
-l'apparente rigidezza di Wotton e Dyer, che il [[Paradox|paradosso]] di Pond
+l'apparente rigidezza di Wotton e Dyer, che il [[concepts/paradox|paradosso]] di Pond
 
 prevalse. I documenti, tuttavia, erano troppo voluminosi per esser trattati come
 
@@ -18482,9 +18482,9 @@ Chiuse la bocca di scatto, mentre un discreto bussare risuonava alla
 <span class="atom-split" data-atom="story_04_a_tall_story--part_23" data-title="MrPond — A Tall Story (part 23)" data-chapter="A Tall Story" data-kind="excerpt" data-tags="archetype/detective,motif/death,motif/fire,motif/love,motif/well,motif/winter,concept/fear,concept/hope,concept/wonder,setting/london,character/dwarf,character/hubert"></span>
 
 
-the door, and Sir [[Hubert]]'s clerk glided in to say he had discharged
+the door, and Sir [[characters/hubert|Hubert]]'s clerk glided in to say he had discharged
 
-his commission.  Sir [[Hubert]] did not see him at first, his frowning
+his commission.  Sir [[characters/hubert|Hubert]] did not see him at first, his frowning
 
 gaze being fixed on the railway-map of the route to be pursued; and
 
@@ -18502,7 +18502,7 @@ costume; but his wide face had that indescribable look which is
 
 sometimes seen, of which we can only say that it suggests the large
 
-head on the little figure of a [[Dwarf|dwarf]], or perhaps that sunken
+head on the little figure of a [[characters/dwarf|dwarf]], or perhaps that sunken
 
 between the shoulders of a hunchback; the face is not normal, even
 
@@ -18514,7 +18514,7 @@ noticeably ill at ease when he silently handed papers to his
 
 superior; and, last but not least, that he had started visibly when
 
-he saw the [[Detective|detective]] from Scotland Yard.
+he saw the [[archetypes/detective|detective]] from Scotland Yard.
 
 The second Council, if it may be called so, was held in what all
 
@@ -18540,7 +18540,7 @@ enter or leave the station.
 
 "I have told our people they mustn't even let US out of the
 
-station," he said, "without close examination, for [[Fear|fear]] somebody
+station," he said, "without close examination, for [[concepts/fear|fear]] somebody
 
 should have a fancy for dressing up as Mr. Pond."
 
@@ -18550,13 +18550,13 @@ dolefully.  "So I take it that for the present we must stay on the
 
 station; and one can hardly say it looks particularly festive."
 
-Nothing, indeed, can [[Well|well]] look more desolate than one of the
+Nothing, indeed, can [[motifs/well|well]] look more desolate than one of the
 
 numerous side platforms of an empty railway-station on a dreary
 
-[[Winter|winter]] day; unless it is the empty Third Class Waiting-Room which
+[[motifs/winter|winter]] day; unless it is the empty Third Class Waiting-Room which
 
-is provided to be a human refuge from the [[Winter|winter]] blast.  Somehow
+is provided to be a human refuge from the [[motifs/winter|winter]] blast.  Somehow
 
 the waiting-room looks even less human than the platform from which
 
@@ -18576,7 +18576,7 @@ place to be spending any part of Christmas; but Mr. Pond had a
 
 stoical cheerfulness under such circumstances which rather
 
-surprised those who only knew his catlike [[Love|love]] of comfortable
+surprised those who only knew his catlike [[motifs/love|love]] of comfortable
 
 domestic routine.
 
@@ -18586,7 +18586,7 @@ stopping for a moment to stare reflectively at the dried ink and
 
 broken pens on the corner table.
 
-"[[Well]]," he said, turning away, "they couldn't do very much with
+"[[motifs/well|Well]]," he said, turning away, "they couldn't do very much with
 
 those, anyhow; but, of course, they might have pencils or fountain-
 
@@ -18594,9 +18594,9 @@ pens.  I'm rather glad I did it, on the whole."
 
 "Pond," said Wotton gravely, "this is in your department anyhow;
 
-and I'm sure that Dyer will agree that we've done [[Well|well]] to follow
+and I'm sure that Dyer will agree that we've done [[motifs/well|well]] to follow
 
-your advice so far.  But I [[Hope|hope]] you don't mind my having a mild
+your advice so far.  But I [[concepts/hope|hope]] you don't mind my having a mild
 
 curiosity about what it is that you've done."
 
@@ -18632,13 +18632,13 @@ stations like fortresses.  An isolated man or so could do very
 
 little against them.  But what could an isolated man do?"
 
-"[[Well]]," said Wotton rather impatiently.  "What could he do?"
+"[[motifs/well|Well]]," said Wotton rather impatiently.  "What could he do?"
 
 "As I say," continued Mr. Pond calmly, "I sat down and had a good
 
 think about what a spy or stray intruder might do, in a quiet way
 
-without any noise of battle, murder or sudden [[Death|death]], if he did
+without any noise of battle, murder or sudden [[motifs/death|death]], if he did
 
 manage somehow to spot the right box.  So I got on to the private
 
@@ -18650,7 +18650,7 @@ which the address seemed to have been altered; anything crossed out
 
 or anything substituted.  A man might conceivably snatch a moment
 
-to re-direct a box to some of his friends in [[London]]; though he
+to re-direct a box to some of his friends in [[settings/london|London]]; though he
 
 could never take the box out of the station without being searched.
 
@@ -18658,22 +18658,22 @@ That's what I did; and it was these broken-down penholders that
 
 reminded me of it.  It's a pretty broken-down place to spend
 
-Christmas in, as you say; they have given us a sort of a [[Fire|fire]],
+Christmas in, as you say; they have given us a sort of a [[motifs/fire|fire]],
 
 which is more than some waiting-rooms do; but it looks as if it
 
-were dying of depression; and I don't [[Wonder|wonder]]."
+were dying of depression; and I don't [[concepts/wonder|wonder]]."
 
-He stirred up the neglected [[Fire|fire]], making quite a creditable blaze,
+He stirred up the neglected [[motifs/fire|fire]], making quite a creditable blaze,
 
 with his usual instinct for the comforts of life; then he added:
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-la porta, e l'impiegato di Sir [[Hubert]] entrò scivolando per riferire di aver assolto
+la porta, e l'impiegato di Sir [[characters/hubert|Hubert]] entrò scivolando per riferire di aver assolto
 
-l'incarico. Sir [[Hubert]] dapprima non lo vide, con lo sguardo corrucciato
+l'incarico. Sir [[characters/hubert|Hubert]] dapprima non lo vide, con lo sguardo corrucciato
 
 fisso sulla mappa ferroviaria del percorso da seguire; e
 
@@ -18691,7 +18691,7 @@ d'abito; ma il suo viso largo aveva quell'aria indescrivibile che
 
 talora si scorge, di cui possiamo dire soltanto che ricorda la grossa
 
-testa sul piccolo corpo di un [[Dwarf|nano]], o forse quella incassata
+testa sul piccolo corpo di un [[characters/dwarf|nano]], o forse quella incassata
 
 tra le spalle di un gobbo; il volto non è normale, nemmeno
 
@@ -18703,7 +18703,7 @@ visibilmente a disagio nel porgere in silenzio le carte al suo
 
 superiore; e, non ultimo, che avesse trasalito visibilmente quando
 
-vide il [[Detective|detective]] di Scotland Yard.
+vide il [[archetypes/detective|detective]] di Scotland Yard.
 
 Il secondo Consiglio, se così lo si può chiamare, si tenne in quello che tutti
 
@@ -18729,7 +18729,7 @@ di entrare o uscire dalla stazione.
 
 "Ho detto ai nostri uomini che non devono lasciar uscire nemmeno NOI dalla
 
-stazione," disse, "senza un attento esame, per [[Fear|paura]] che a qualcuno
+stazione," disse, "senza un attento esame, per [[concepts/fear|paura]] che a qualcuno
 
 venga la fantasia di travestirsi da signor Pond."
 
@@ -18739,13 +18739,13 @@ lugubremente. "Deduco quindi che per ora dobbiamo restare in
 
 stazione; e non si può certo dire che abbia un'aria particolarmente festosa."
 
-Nulla, in verità, può [[Well|ben]] sembrare più desolato di uno dei
+Nulla, in verità, può [[motifs/well|ben]] sembrare più desolato di uno dei
 
 numerosi binari laterali di una stazione ferroviaria deserta in una tetra
 
-giornata d'[[Winter|inverno]]; se non la vuota Sala d'Attesa di Terza Classe
+giornata d'[[motifs/winter|inverno]]; se non la vuota Sala d'Attesa di Terza Classe
 
-allestita per essere un rifugio umano dalla folata d'[[Winter|inverno]]. In qualche modo
+allestita per essere un rifugio umano dalla folata d'[[motifs/winter|inverno]]. In qualche modo
 
 la sala d'attesa appare persino meno umana del binario da cui
 
@@ -18765,7 +18765,7 @@ luogo dimenticato da Dio in cui trascorrere una parte del Natale; ma il signor P
 
 una stoica allegria in tali circostanze, che alquanto
 
-sorprendeva chi conosceva soltanto il suo felino [[Love|amore]] per la comoda
+sorprendeva chi conosceva soltanto il suo felino [[motifs/love|amore]] per la comoda
 
 routine domestica.
 
@@ -18775,7 +18775,7 @@ fermandosi un attimo a fissare pensieroso l'inchiostro secco e
 
 le penne rotte sul tavolino d'angolo.
 
-"[[Well|Beh]]," disse, voltandosi, "con quelle non potevano combinar granché,
+"[[motifs/well|Beh]]," disse, voltandosi, "con quelle non potevano combinar granché,
 
 comunque sia; ma, certo, potevano avere matite o penne
 
@@ -18783,9 +18783,9 @@ stilografiche. Sono piuttosto contento di averlo fatto, tutto sommato."
 
 "Pond," disse Wotton con gravità, "questo rientra comunque nelle vostre competenze;
 
-e sono certo che Dyer converrà che abbiamo fatto [[Well|bene]] a seguire
+e sono certo che Dyer converrà che abbiamo fatto [[motifs/well|bene]] a seguire
 
-il vostro consiglio finora. Ma [[Hope|spero]] non vi dispiaccia che io nutra una lieve
+il vostro consiglio finora. Ma [[concepts/hope|spero]] non vi dispiaccia che io nutra una lieve
 
 curiosità su ciò che avete fatto."
 
@@ -18821,13 +18821,13 @@ stazioni come fortezze. Un uomo isolato o giù di lì potrebbe fare ben
 
 poco contro di loro. Ma cosa potrebbe fare un uomo isolato?"
 
-"[[Well|Beh]]," disse Wotton alquanto spazientito. "Cosa potrebbe fare?"
+"[[motifs/well|Beh]]," disse Wotton alquanto spazientito. "Cosa potrebbe fare?"
 
 "Come dicevo," proseguì il signor Pond con calma, "mi sedetti e riflettei
 
 per bene su cosa potrebbe fare una spia o un intruso di passaggio, senza clamore,
 
-senza alcun fragore di battaglia, di assassinio o di [[Death|morte]] improvvisa, se pur
+senza alcun fragore di battaglia, di assassinio o di [[motifs/death|morte]] improvvisa, se pur
 
 riuscisse in qualche modo a individuare la scatola giusta. Così mi attaccai al
 
@@ -18839,7 +18839,7 @@ cui l'indirizzo sembrasse alterato; qualcosa cancellato
 
 o qualcosa sostituito. Un uomo potrebbe concepibilmente cogliere un attimo
 
-per re-indirizzare una scatola a qualcuno dei suoi amici a [[London|Londra]]; benché
+per re-indirizzare una scatola a qualcuno dei suoi amici a [[settings/london|Londra]]; benché
 
 non possa mai portar fuori la scatola dalla stazione senza esser perquisito.
 
@@ -18847,13 +18847,13 @@ Ecco cosa feci; e furono proprio questi portapenne sfasciati a
 
 ricordarmelo. È un posto piuttosto sfasciato in cui passare
 
-il Natale, come dite voi; ci hanno dato una specie di [[Fire|fuoco]],
+il Natale, come dite voi; ci hanno dato una specie di [[motifs/fire|fuoco]],
 
 il che è più di quel che fanno certe sale d'attesa; ma pare quasi
 
-morente di sconforto; e non me ne [[Wonder|meraviglio]]."
+morente di sconforto; e non me ne [[concepts/wonder|meraviglio]]."
 
-Attizzò il [[Fire|fuoco]] trascurato, ravvivando una fiammata più che decorosa,
+Attizzò il [[motifs/fire|fuoco]] trascurato, ravvivando una fiammata più che decorosa,
 
 col suo consueto istinto per le comodità della vita; poi aggiunse:
 
@@ -18862,15 +18862,15 @@ col suo consueto istinto per le comodità della vita; poi aggiunse:
 <span class="atom-split" data-atom="story_04_a_tall_story--part_24" data-title="MrPond — A Tall Story (part 24)" data-chapter="A Tall Story" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/silence,motif/snow,motif/time,motif/well,motif/winter,concept/fear,concept/hope,concept/imagination,concept/wonder,form/parody,character/hubert"></span>
 
 
-"I [[Hope|hope]] you don't disagree with that second precaution of mine."
+"I [[concepts/hope|hope]] you don't disagree with that second precaution of mine."
 
-"No; I think that also is a very sensible precaution; though I [[Hope|hope]]
+"No; I think that also is a very sensible precaution; though I [[concepts/hope|hope]]
 
 there is no chance of anybody hitting on the right box, even by
 
-accident."  [[Hubert]] Wotton frowned a moment at the renewed flame and
+accident."  [[characters/hubert|Hubert]] Wotton frowned a moment at the renewed flame and
 
-the dancing sparks, and then said gloomily, "This is about the [[Time|time]]
+the dancing sparks, and then said gloomily, "This is about the [[motifs/time|time]]
 
 when people at Christmas are going to the pantomime.  Or, at any
 
@@ -18880,23 +18880,23 @@ Mr. Pond nodded; he seemed to be suddenly smitten with a fit of
 
 abstraction.  At last he said:
 
-"I sometimes [[Wonder|wonder]] whether things weren't better when pictures
+"I sometimes [[concepts/wonder|wonder]] whether things weren't better when pictures
 
-meant the pictures in the [[Fire|fire]], instead of the pictures on the
+meant the pictures in the [[motifs/fire|fire]], instead of the pictures on the
 
 film."
 
-Sir [[Hubert]] Wotton gruffly suggested, in a general way, that the
+Sir [[characters/hubert|Hubert]] Wotton gruffly suggested, in a general way, that the
 
-dingy [[Fire|fire]] in a Third Class Waiting-Room was not one in which he
+dingy [[motifs/fire|fire]] in a Third Class Waiting-Room was not one in which he
 
 would prefer to look for pictures.
 
-"The [[Fire|fire]] pictures, like the cloud pictures," went on Mr. Pond,
+"The [[motifs/fire|fire]] pictures, like the cloud pictures," went on Mr. Pond,
 
-"are just incomplete enough to call out the [[Imagination|imagination]] to complete
+"are just incomplete enough to call out the [[concepts/imagination|imagination]] to complete
 
-them.  Besides," he added, cheerfully poking the [[Fire|fire]], "you can
+them.  Besides," he added, cheerfully poking the [[motifs/fire|fire]], "you can
 
 stick a poker into the coals and break them up into a different
 
@@ -18922,7 +18922,7 @@ three of the officials involved.
 
 "I'll stay on this platform," he said; "in fact I shall stay on
 
-this platform all [[Night|night]] if necessary.  This is my particular job.
+this platform all [[motifs/night|night]] if necessary.  This is my particular job.
 
 But you go and get your lunch first and come back; and I'll see if
 
@@ -18978,23 +18978,23 @@ shack."
 
 "I consider it quite a Christmas triumph," said Mr. Pond, with
 
-undiminished cheerfulness, "that we have managed to keep the [[Fire|fire]]
+undiminished cheerfulness, "that we have managed to keep the [[motifs/fire|fire]]
 
-in, anyhow. . . .  Why, I believe it's begun to [[Snow|snow]]."
+in, anyhow. . . .  Why, I believe it's begun to [[motifs/snow|snow]]."
 
-For some [[Time|time]] they had noted that the afternoon, already darkening
+For some [[motifs/time|time]] they had noted that the afternoon, already darkening
 
-towards the early [[Winter|winter]] evening, had something of that lurid
+towards the early [[motifs/winter|winter]] evening, had something of that lurid
 
-greenish light which often glows under the load of [[Snow|snow]]-clouds; a
+greenish light which often glows under the load of [[motifs/snow|snow]]-clouds; a
 
 sprinkling began to fall as they went along the apparently
 
-interminable platform; and by the [[Time|time]] they reached the austere
+interminable platform; and by the [[motifs/time|time]] they reached the austere
 
 waiting-room, its roof and doorway were powdered with silver.  The
 
-[[Fire|fire]] was burning briskly inside; Dyer had evidently been keeping
+[[motifs/fire|fire]] was burning briskly inside; Dyer had evidently been keeping
 
 himself warm.
 
@@ -19002,11 +19002,11 @@ himself warm.
 
 beginning to look like a Christmas card.  Our dismal salle
 
-d'attente will soon be a [[Parody|parody]] of Father Christmas's cottage in a
+d'attente will soon be a [[forms/parody|parody]] of Father Christmas's cottage in a
 
 pantomime."
 
-"The whole thing is like the [[Parody|parody]] of a pantomime," said Pond in a
+"The whole thing is like the [[forms/parody|parody]] of a pantomime," said Pond in a
 
 lower and more disquieted tone, "and as you say, it is very queer."
 
@@ -19042,15 +19042,15 @@ this."
 
 telephoning as you did."
 
-"[[Well]]," said Pond obstinately, "and what would they do then; if
+"[[motifs/well|Well]]," said Pond obstinately, "and what would they do then; if
 
 they knew I'd telephoned?"
 
-Wotton looked puzzled; and Pond sat down in [[Silence|silence]], stirring the
+Wotton looked puzzled; and Pond sat down in [[motifs/silence|silence]], stirring the
 
-[[Fire|fire]] and staring at it.
+[[motifs/fire|fire]] and staring at it.
 
-After a [[Silence|silence]] he said abruptly:  "I wish Dyer were back."
+After a [[motifs/silence|silence]] he said abruptly:  "I wish Dyer were back."
 
 "What do you want him now for?" asked his friend.  "I should say
 
@@ -19058,24 +19058,24 @@ he'd earned a little late lunch.  As far as I can see, he's
 
 finished the business; and it's all over here."
 
-"I [[Fear|fear]]," said Pond, without taking his head out of the fireplace,
+"I [[concepts/fear|fear]]," said Pond, without taking his head out of the fireplace,
 
 "that it's only just going to begin."
 
-There was another [[Silence|silence]] of growing [[Mystification|mystification]], like the
+There was another [[motifs/silence|silence]] of growing mystification, like the
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-"[[Hope|Spero]] che non siate in disaccordo con questa mia seconda precauzione."
+"[[concepts/hope|Spero]] che non siate in disaccordo con questa mia seconda precauzione."
 
-"No; credo che anche quella sia una precauzione assai sensata; benché [[Hope|speri]]
+"No; credo che anche quella sia una precauzione assai sensata; benché [[concepts/hope|speri]]
 
 che non ci sia alcuna possibilità che qualcuno azzecchi la scatola giusta, foss'anche per
 
-caso." [[Hubert]] Wotton corrugò un attimo la fronte alla fiamma ravvivata e
+caso." [[characters/hubert|Hubert]] Wotton corrugò un attimo la fronte alla fiamma ravvivata e
 
-alle scintille danzanti, poi disse cupamente: "Questo è più o meno il [[Time|momento]]
+alle scintille danzanti, poi disse cupamente: "Questo è più o meno il [[motifs/time|momento]]
 
 in cui, a Natale, la gente va alla pantomima. O, quantomeno,
 
@@ -19085,23 +19085,23 @@ Il signor Pond annuì; parve còlto d'un tratto da un accesso di
 
 astrazione. Alla fine disse:
 
-"Talvolta mi [[Wonder|domando]] se le cose non fossero migliori quando i quadri
+"Talvolta mi [[concepts/wonder|domando]] se le cose non fossero migliori quando i quadri
 
-erano i quadri nel [[Fire|fuoco]], invece dei quadri sulla
+erano i quadri nel [[motifs/fire|fuoco]], invece dei quadri sulla
 
 pellicola."
 
-Sir [[Hubert]] Wotton suggerì burberamente, in modo generico, che il
+Sir [[characters/hubert|Hubert]] Wotton suggerì burberamente, in modo generico, che il
 
-fioco [[Fire|fuoco]] di una Sala d'Attesa di Terza Classe non era di quelli in cui
+fioco [[motifs/fire|fuoco]] di una Sala d'Attesa di Terza Classe non era di quelli in cui
 
 avrebbe preferito cercare quadri.
 
-"I quadri del [[Fire|fuoco]], come i quadri delle nuvole," proseguì il signor Pond,
+"I quadri del [[motifs/fire|fuoco]], come i quadri delle nuvole," proseguì il signor Pond,
 
-"sono incompleti quanto basta per chiamare l'[[Imagination|immaginazione]] a completarli.
+"sono incompleti quanto basta per chiamare l'[[concepts/imagination|immaginazione]] a completarli.
 
-Del resto," aggiunse, attizzando allegramente il [[Fire|fuoco]], "puoi
+Del resto," aggiunse, attizzando allegramente il [[motifs/fire|fuoco]], "puoi
 
 ficcare un attizzatoio tra i carboni e romperli in un quadro
 
@@ -19127,7 +19127,7 @@ tre i funzionari coinvolti.
 
 "Io resto su questo binario," disse; "anzi, resterò su
 
-questo binario tutta la [[Night|notte]] se necessario. È il mio compito preciso.
+questo binario tutta la [[motifs/night|notte]] se necessario. È il mio compito preciso.
 
 Ma voi andate prima a pranzare e tornate; e vedrò se
 
@@ -19183,23 +19183,23 @@ baraccone."
 
 "Lo considero un vero trionfo natalizio," disse il signor Pond, con
 
-immutata allegria, "l'esser riusciti a tener acceso il [[Fire|fuoco]],
+immutata allegria, "l'esser riusciti a tener acceso il [[motifs/fire|fuoco]],
 
-nonostante tutto. . . . Ma guarda, credo abbia cominciato a [[Snow|nevicare]]."
+nonostante tutto. . . . Ma guarda, credo abbia cominciato a [[motifs/snow|nevicare]]."
 
-Da un po' di [[Time|tempo]] avevano notato che il pomeriggio, già oscurandosi
+Da un po' di [[motifs/time|tempo]] avevano notato che il pomeriggio, già oscurandosi
 
-verso la precoce sera d'[[Winter|inverno]], aveva qualcosa di quella livida
+verso la precoce sera d'[[motifs/winter|inverno]], aveva qualcosa di quella livida
 
-luce verdastra che spesso avvampa sotto il carico delle nubi di [[Snow|neve]]; un
+luce verdastra che spesso avvampa sotto il carico delle nubi di [[motifs/snow|neve]]; un
 
 nevischio cominciò a cadere mentre percorrevano il binario apparentemente
 
-interminabile; e nel [[Time|tempo]] in cui raggiunsero l'austera
+interminabile; e nel [[motifs/time|tempo]] in cui raggiunsero l'austera
 
 sala d'attesa, il tetto e la soglia erano spolverati d'argento. Il
 
-[[Fire|fuoco]] ardeva vivace all'interno; Dyer aveva evidentemente tenuto
+[[motifs/fire|fuoco]] ardeva vivace all'interno; Dyer aveva evidentemente tenuto
 
 sé stesso al caldo.
 
@@ -19207,11 +19207,11 @@ sé stesso al caldo.
 
 ad assomigliare a una cartolina di Natale. La nostra tetra salle
 
-d'attente sarà presto una [[Parody|parodia]] della casetta di Babbo Natale in una
+d'attente sarà presto una [[forms/parody|parodia]] della casetta di Babbo Natale in una
 
 pantomima."
 
-"L'intera faccenda è come la [[Parody|parodia]] di una pantomima," disse Pond in tono
+"L'intera faccenda è come la [[forms/parody|parodia]] di una pantomima," disse Pond in tono
 
 più basso e più turbato, "e, come dite voi, è molto strana."
 
@@ -19247,15 +19247,15 @@ questo."
 
 telefonata che avete fatto."
 
-"[[Well|Beh]]," disse Pond ostinato, "e cosa farebbero allora; se
+"[[motifs/well|Beh]]," disse Pond ostinato, "e cosa farebbero allora; se
 
 sapessero che ho telefonato?"
 
-Wotton parve perplesso; e Pond sedette in [[Silence|silenzio]], attizzando il
+Wotton parve perplesso; e Pond sedette in [[motifs/silence|silenzio]], attizzando il
 
-[[Fire|fuoco]] e fissandolo.
+[[motifs/fire|fuoco]] e fissandolo.
 
-Dopo un [[Silence|silenzio]] disse bruscamente: "Vorrei che Dyer fosse tornato."
+Dopo un [[motifs/silence|silenzio]] disse bruscamente: "Vorrei che Dyer fosse tornato."
 
 "A cosa vi serve adesso?" chiese l'amico. "Direi
 
@@ -19263,11 +19263,11 @@ che si è guadagnato un pranzo tardivo. Per quanto vedo, ha
 
 concluso l'affare; e qui è tutto finito."
 
-"[[Fear|Temo]]," disse Pond, senza togliere il capo dal camino,
+"[[concepts/fear|Temo]]," disse Pond, senza togliere il capo dal camino,
 
 "che stia solo per cominciare."
 
-Vi fu un altro [[Silence|silenzio]] di crescente [[Mystification|smarrimento]], come il
+Vi fu un altro [[motifs/silence|silenzio]] di crescente smarrimento, come il
 
 
 
@@ -19282,13 +19282,13 @@ Wotton's face only expressed the stolid stupefaction natural under
 
 the circumstances; but in his depths, which were deeper than some
 
-supposed, an unearthly chill touched him for the first [[Time|time]].
+supposed, an unearthly chill touched him for the first [[motifs/time|time]].
 
-[[nightmare|Nightmare]] stirred in its [[Sleep|sleep]]; not the mere practical perplexity
+Nightmare stirred in its [[motifs/sleep|sleep]]; not the mere practical perplexity
 
 of a problem, but all those doubts beyond reason which revolve
 
-round place and [[Time|time]].  Before he could speak, Pond added:
+round place and [[motifs/time|time]].  Before he could speak, Pond added:
 
 "This is a different shaped poker."
 
@@ -19298,7 +19298,7 @@ locked up the station; and there is nobody on it but ourselves;
 
 except that girl in the bar.  You don't imagine she has put a new
 
-set of furniture and [[Fire|fire]]-irons in all the waiting-rooms?"
+set of furniture and [[motifs/fire|fire]]-irons in all the waiting-rooms?"
 
 "No," said Mr. Pond.  "I didn't say a new poker.  I said a new
 
@@ -19306,17 +19306,17 @@ shape of poker."
 
 Almost as he spoke, he leapt away from the fireplace, leaving the
 
-poker in the [[Fire|fire]], and ran to the doorway, craning out his head and
+poker in the [[motifs/fire|fire]], and ran to the doorway, craning out his head and
 
 listening.  His companion listened also; and recognized as an
 
-objective reality, which was no [[nightmare]], a noise of scrambling
+objective reality, which was no nightmare, a noise of scrambling
 
 footsteps somewhere on the platform.  But, when they ran out, the
 
 platform appeared to be perfectly empty, now a blank and solid
 
-table of [[Snow|snow]]; and they began to realize that the noise came from
+table of [[motifs/snow|snow]]; and they began to realize that the noise came from
 
 underneath their feet.  Looking over the railing, they saw that the
 
@@ -19324,7 +19324,7 @@ whole raised woodwork of the station was intercepted at one point
 
 by a belt of grassy embankment, very grey and discoloured with the
 
-smoke; they were just in [[Time|time]] to see a dark lean figure scramble up
+smoke; they were just in [[motifs/time|time]] to see a dark lean figure scramble up
 
 this bank and dive under the platform, in such a manner that he was
 
@@ -19340,13 +19340,13 @@ station, against such very special difficulties, Wotton's mind,
 
 already full of suspicions, decided at a glance that he was very
 
-much of a dark [[Horse|horse]].  Curiously enough, he looked a little like a
+much of a dark [[motifs/horse|horse]].  Curiously enough, he looked a little like a
 
-[[Horse|horse]], having a long equine visage and a strange sort of stoop; he
+[[motifs/horse|horse]], having a long equine visage and a strange sort of stoop; he
 
 was swarthy and haggard and his hollow eyes were such dense patches
 
-of [[Shadow|shadow]] that it was a sort of shock to realize that the eyes
+of [[archetypes/shadow|shadow]] that it was a sort of shock to realize that the eyes
 
 within were glaring.  He was dressed with the last extreme of
 
@@ -19354,11 +19354,11 @@ shabbiness, in a long threadbare and almost ragged waterproof; and
 
 they thought they had never seen before a face and figure so
 
-symbolic of desolation and dreary [[Tragedy|tragedy]].  It seemed to Wotton
+symbolic of desolation and dreary [[forms/tragedy|tragedy]].  It seemed to Wotton
 
 that he himself had his first real glimpse of those depths in which
 
-[[Despair|despair]] manufactures the many revolutionary movements which it had
+[[concepts/despair|despair]] manufactures the many revolutionary movements which it had
 
 been his duty to combat; but, of necessity, his duty prevailed.
 
@@ -19400,13 +19400,13 @@ always noticed that the chief features in the pantomime had nothing
 
 to do with the story."
 
-But Sir [[Hubert]] Wotton was having no more for the moment of Mr.
+But Sir [[characters/hubert|Hubert]] Wotton was having no more for the moment of Mr.
 
 Pond's fanciful mysteries; least of all, of the last and most
 
 mysterious, the mystery of his mirth.  He had already begun to
 
-[[Cross|cross]]-examine the stranger in the style of the police; and the
+[[motifs/cross|cross]]-examine the stranger in the style of the police; and the
 
 stranger stood up to him with gloomy but unshaken lucidity.  His
 
@@ -19426,7 +19426,7 @@ he been cheered by the assurance of the police at the entrance that
 
 regular trains for passengers would be running again in an hour, at
 
-a [[Time|time]] that would make him too late for his appointment; and lose
+a [[motifs/time|time]] that would make him too late for his appointment; and lose
 
 him the first few shillings he had earned in many months.  He had
 
@@ -19446,7 +19446,7 @@ was still smouldering with some suspicions.
 
 "I haven't got my visiting-card," said the sombre Mr. Hankin.  "I
 
-lost it along with my Rolls-Royce and my little [[Castle|castle]] in Scotland.
+lost it along with my Rolls-Royce and my little [[settings/castle|castle]] in Scotland.
 
 But you can see me in my resplendent and fashionable evening-dress,
 
@@ -19473,13 +19473,13 @@ Il volto di Wotton esprimeva solo lo stolido sbigottimento naturale date le
 
 circostanze; ma nei suoi abissi, più profondi di quanto alcuni
 
-supponessero, un brivido ultraterreno lo sfiorò per la prima [[Time|volta]].
+supponessero, un brivido ultraterreno lo sfiorò per la prima [[motifs/time|volta]].
 
-L'[[nightmare|Incubo]] si agitò nel suo [[Sleep|sonno]]; non la mera perplessità pratica
+L'Incubo si agitò nel suo [[motifs/sleep|sonno]]; non la mera perplessità pratica
 
 di un problema, ma tutti quei dubbi al di là della ragione che ruotano
 
-intorno al luogo e al [[Time|tempo]]. Prima che potesse parlare, Pond aggiunse:
+intorno al luogo e al [[motifs/time|tempo]]. Prima che potesse parlare, Pond aggiunse:
 
 "Questo attizzatoio ha una forma diversa."
 
@@ -19489,7 +19489,7 @@ chiuso a chiave la stazione; e non c'è nessuno tranne noi;
 
 salvo quella ragazza al bancone. Non immaginerete mica che abbia messo un nuovo
 
-corredo di mobili e di ferri da [[Fire|camino]] in tutte le sale d'attesa?"
+corredo di mobili e di ferri da [[motifs/fire|camino]] in tutte le sale d'attesa?"
 
 "No," disse il signor Pond. "Non ho detto un nuovo attizzatoio. Ho detto una nuova
 
@@ -19497,17 +19497,17 @@ forma di attizzatoio."
 
 Quasi mentre parlava, balzò via dal camino, lasciando l'
 
-attizzatoio nel [[Fire|fuoco]], e corse alla soglia, allungando il capo e
+attizzatoio nel [[motifs/fire|fuoco]], e corse alla soglia, allungando il capo e
 
 tendendo l'orecchio. Anche il compagno tese l'orecchio; e riconobbe, come una
 
-realtà oggettiva, che non era alcun [[nightmare]], un rumore di passi
+realtà oggettiva, che non era alcun nightmare, un rumore di passi
 
 trascinati da qualche parte sul binario. Ma, quando corsero fuori, il
 
 binario appariva perfettamente vuoto, ormai una piana e compatta
 
-lastra di [[Snow|neve]]; e cominciarono a rendersi conto che il rumore veniva da
+lastra di [[motifs/snow|neve]]; e cominciarono a rendersi conto che il rumore veniva da
 
 sotto i loro piedi. Guardando oltre la ringhiera, videro che l'
 
@@ -19515,7 +19515,7 @@ intera armatura sopraelevata della stazione era interrotta in un punto
 
 da una fascia d'argine erboso, assai grigio e sporcato dal
 
-fumo; giunsero appena in [[Time|tempo]] a vedere una scura e magra figura arrampicarsi su
+fumo; giunsero appena in [[motifs/time|tempo]] a vedere una scura e magra figura arrampicarsi su
 
 quell'argine e tuffarsi sotto il binario, in modo tale da poter
 
@@ -19531,11 +19531,11 @@ stazione, contro difficoltà tanto particolari, la mente di Wotton,
 
 già piena di sospetti, decise a colpo d'occhio che era proprio un
 
-[[Horse|cavallo]] su cui puntare al buio. Curiosamente, somigliava un po' a un
+[[motifs/horse|cavallo]] su cui puntare al buio. Curiosamente, somigliava un po' a un
 
-[[Horse|cavallo]], avendo un lungo muso equino e una strana specie di curvatura; era
+[[motifs/horse|cavallo]], avendo un lungo muso equino e una strana specie di curvatura; era
 
-fosco e smunto e i suoi occhi infossati erano macchie d'[[Shadow|ombra]]
+fosco e smunto e i suoi occhi infossati erano macchie d'[[archetypes/shadow|ombra]]
 
 tanto dense che era una sorta di sussulto rendersi conto che gli occhi
 
@@ -19545,11 +19545,11 @@ miseria, in un lungo impermeabile logoro e quasi cencioso; e
 
 pensarono di non aver mai visto prima un volto e una figura tanto
 
-simbolici di desolazione e di tetra [[Tragedy|tragedia]]. Parve a Wotton
+simbolici di desolazione e di tetra [[forms/tragedy|tragedia]]. Parve a Wotton
 
 di avere lui stesso il suo primo vero scorcio di quegli abissi in cui
 
-la [[Despair|disperazione]] fabbrica i molti moti rivoluzionari che era
+la [[concepts/despair|disperazione]] fabbrica i molti moti rivoluzionari che era
 
 stato suo dovere combattere; ma, per forza di cose, il dovere prevalse.
 
@@ -19591,13 +19591,13 @@ sempre notato che le parti principali della pantomima non c'entravano nulla
 
 con la storia."
 
-Ma Sir [[Hubert]] Wotton non ne voleva più sapere per il momento dei
+Ma Sir [[characters/hubert|Hubert]] Wotton non ne voleva più sapere per il momento dei
 
 fantasiosi misteri del signor Pond; men che meno dell'ultimo e più
 
 misterioso, il mistero della sua ilarità. Aveva già cominciato a
 
-[[Cross|inter]]rogare lo sconosciuto alla maniera della polizia; e lo
+[[motifs/cross|inter]]rogare lo sconosciuto alla maniera della polizia; e lo
 
 sconosciuto gli tenne testa con cupa ma incrollabile lucidità. Il suo
 
@@ -19617,7 +19617,7 @@ era stato rincuorato dalla rassicurazione della polizia all'ingresso che
 
 i treni regolari per i passeggeri sarebbero ripartiti entro un'ora, a un
 
-[[Time|orario]] che l'avrebbe fatto arrivare troppo tardi all'appuntamento; e gli avrebbe fatto perdere
+[[motifs/time|orario]] che l'avrebbe fatto arrivare troppo tardi all'appuntamento; e gli avrebbe fatto perdere
 
 i primi pochi scellini che avesse guadagnato in molti mesi. Aveva
 
@@ -19637,7 +19637,7 @@ covava ancora qualche sospetto.
 
 "Non ho il mio biglietto da visita," disse il tetro signor Hankin. "L'ho
 
-perso insieme alla mia Rolls-Royce e al mio piccolo [[Castle|castello]] in Scozia.
+perso insieme alla mia Rolls-Royce e al mio piccolo [[settings/castle|castello]] in Scozia.
 
 Ma potete vedermi nel mio splendido e alla moda abito da sera,
 
@@ -19670,11 +19670,11 @@ pantomime, such as they had been discussing.
 
 the awestruck Mr. Pond.  "But I feel as if he had fallen out of the
 
-sky like the [[Snow|snow]].  Fate or the fairies have added this final
+sky like the [[motifs/snow|snow]].  Fate or the fairies have added this final
 
 touch; see how they built up gradually round us the whole palace of
 
-pantomime in this wilderness; first the firelight and then the [[Snow|snow]]
+pantomime in this wilderness; first the firelight and then the [[motifs/snow|snow]]
 
 and now the only original 'Here We Are Again!'  Such a cosy happy
 
@@ -19694,7 +19694,7 @@ to complete your costume, Sir."
 
 He suddenly plucked out the poker, from where it was standing in
 
-the [[Fire|fire]], and it emerged already red-hot.  He handed it politely to
+the [[motifs/fire|fire]], and it emerged already red-hot.  He handed it politely to
 
 the Clown.
 
@@ -19706,11 +19706,11 @@ you make the Policeman jump."
 
 Wotton stared at a scene to which he had now entirely lost the
 
-clue; and in the [[Silence|silence]] that followed, the long platform outside
+clue; and in the [[motifs/silence|silence]] that followed, the long platform outside
 
 resounded with a firm and heavy stride coming nearer and nearer.
 
-The large figure of Dyer the [[Detective|detective]] appeared framed in the
+The large figure of Dyer the [[archetypes/detective|detective]] appeared framed in the
 
 doorway; and he stood as if turned to stone by what he saw.
 
@@ -19734,9 +19734,9 @@ astonished.  He was staring only at the poker; and he obviously saw
 
 nothing funny about it.  His face was distorted by almost demoniac
 
-[[Fear|fear]] and fury; and he looked at the red pantomime poker rather as
+[[concepts/fear|fear]] and fury; and he looked at the red pantomime poker rather as
 
-if it had been the flaming [[Sword|sword]] of an accusing angel.
+if it had been the flaming sword of an accusing angel.
 
 "Yes, it's the red-hot poker," said Pond, in a low and almost
 
@@ -19758,17 +19758,17 @@ were struggling with the would-be assassin, and forcing his hand
 
 away.  Finally, he managed to wrench his hand loose again and twist
 
-the [[Pistol|pistol]] inwards upon himself; the [[Body|body]] of the big man stiffened
+the [[characters/pistol|pistol]] inwards upon himself; the [[concepts/body|body]] of the big man stiffened
 
-in their arms; and Dyer of the [[Detective|detective]] service lay dead on the
+in their arms; and Dyer of the [[archetypes/detective|detective]] service lay dead on the
 
-floor before the dancing [[Fire|fire]].
+floor before the dancing [[motifs/fire|fire]].
 
-The explanation of events was given by Mr. Pond some [[Time|time]] later;
+The explanation of events was given by Mr. Pond some [[motifs/time|time]] later;
 
-for his first action after the catastrophe left no [[Time|time]] for
+for his first action after the catastrophe left no [[motifs/time|time]] for
 
-explanations.  He had repeatedly, at intervals, looked at the [[Clock|clock]]
+explanations.  He had repeatedly, at intervals, looked at the [[motifs/clock|clock]]
 
 in the waiting-room, and seemed satisfied; but he was leaving
 
@@ -19780,7 +19780,7 @@ earlier in the day.  He came out wiping his brow, in spite of the
 
 cold; but wearing a smile of relative relief in the midst of the
 
-[[Tragedy|tragedy]].  When asked what he was doing, he answered simply: "I was
+[[forms/tragedy|tragedy]].  When asked what he was doing, he answered simply: "I was
 
 telephoning a description of the package.  It'll be all right now;
 
@@ -19802,7 +19802,7 @@ Wotton was very much the gentleman, in the more generous sense, and
 
 he heartily agreed to this; and, though it was difficult for the
 
-[[Melancholy|melancholy]] man with the [[Horse|horse]]-face to produce anything nearer to a
+[[concepts/melancholy|melancholy]] man with the [[motifs/horse|horse]]-face to produce anything nearer to a
 
 laugh than a neigh, he was manifestly much cheered internally and
 
@@ -19814,7 +19814,7 @@ the two friends adjourned to the one and only refreshment-room and
 
 sat down behind two tall glasses of beer; having no taste for
 
-warming their hands at that rather too [[Blood|blood]]-red [[Fire|fire]] that still
+warming their hands at that rather too [[motifs/blood|blood]]-red [[motifs/fire|fire]] that still
 
 burned in the sinister waiting-room.
 
@@ -19828,11 +19828,11 @@ himself, just as he killed himself.  I fancy many conspirators are
 
 really chasing themselves into corners like that.  Don't you see
 
-that he locked himself into a logical [[Prison|prison]], when he would empty
+that he locked himself into a logical [[motifs/prison|prison]], when he would empty
 
 and close the whole station, to impress us with his efficiency.  By
 
-the way, I ought to have guessed there was a [[Double|double]] meaning in his
+the way, I ought to have guessed there was a [[topoi/double|double]] meaning in his
 
 dictatorial ways and demands to override the Constitution; he was
 
@@ -19859,11 +19859,11 @@ pantomima, proprio come quella di cui avevano discusso.
 
 il signor Pond attonito. "Ma mi sento come se fosse caduto dal
 
-cielo come la [[Snow|neve]]. Il Fato o le fate hanno aggiunto quest'ultimo
+cielo come la [[motifs/snow|neve]]. Il Fato o le fate hanno aggiunto quest'ultimo
 
 tocco; guardate come ci hanno eretto attorno a poco a poco l'intero palazzo della
 
-pantomima in questo deserto; prima la luce del fuoco e poi la [[Snow|neve]]
+pantomima in questo deserto; prima la luce del fuoco e poi la [[motifs/snow|neve]]
 
 e ora l'unico e originale 'Eccoci di nuovo qua!' Che accogliente e felice
 
@@ -19883,7 +19883,7 @@ completare il vostro costume, Signore."
 
 D'un tratto estrasse l'attizzatoio, da dove stava ritto nel
 
-[[Fire|fuoco]], e ne uscì già rovente. Lo porse cortesemente al
+[[motifs/fire|fuoco]], e ne uscì già rovente. Lo porse cortesemente al
 
 Pagliaccio.
 
@@ -19895,11 +19895,11 @@ fate saltare il Poliziotto."
 
 Wotton fissava una scena di cui aveva ormai del tutto perduto il
 
-filo; e nel [[Silence|silenzio]] che seguì, il lungo binario là fuori
+filo; e nel [[motifs/silence|silenzio]] che seguì, il lungo binario là fuori
 
 risuonò di un passo fermo e pesante che si avvicinava sempre più.
 
-La grande figura di Dyer il [[Detective|detective]] comparve incorniciata nella
+La grande figura di Dyer il [[archetypes/detective|detective]] comparve incorniciata nella
 
 soglia; ed egli si fermò come impietrito da ciò che vedeva.
 
@@ -19921,11 +19921,11 @@ forse la cosa più stupefacente era che non fosse esattamente
 
 stupito. Fissava soltanto l'attizzatoio; ed evidentemente non ci
 
-vedeva nulla di comico. Il volto gli era stravolto da una [[Fear|paura]] e
+vedeva nulla di comico. Il volto gli era stravolto da una [[concepts/fear|paura]] e
 
 da una furia quasi demoniache; e guardava il rosso attizzatoio da pantomima come
 
-se fosse stata la fiammeggiante [[Sword|spada]] di un angelo accusatore.
+se fosse stata la fiammeggiante spada di un angelo accusatore.
 
 "Sì, è l'attizzatoio rovente," disse Pond, con voce bassa e quasi
 
@@ -19947,17 +19947,17 @@ erano alle prese con l'aspirante assassino, e gli forzavano la mano
 
 lontano. Alla fine, egli riuscì a liberare di nuovo la mano con uno strattone e a torcere la
 
-[[Pistol|pistola]] verso di sé; il [[Body|corpo]] del grosso uomo s'irrigidì
+[[characters/pistol|pistola]] verso di sé; il [[concepts/body|corpo]] del grosso uomo s'irrigidì
 
-fra le loro braccia; e Dyer del servizio [[Detective|investigativo]] giacque morto sul
+fra le loro braccia; e Dyer del servizio [[archetypes/detective|investigativo]] giacque morto sul
 
-pavimento davanti al [[Fire|fuoco]] danzante.
+pavimento davanti al [[motifs/fire|fuoco]] danzante.
 
-La spiegazione degli eventi fu data dal signor Pond qualche [[Time|tempo]] dopo;
+La spiegazione degli eventi fu data dal signor Pond qualche [[motifs/time|tempo]] dopo;
 
-poiché la sua prima azione dopo la catastrofe non lasciò [[Time|tempo]] per
+poiché la sua prima azione dopo la catastrofe non lasciò [[motifs/time|tempo]] per
 
-spiegazioni. Aveva ripetutamente, a intervalli, guardato l'[[Clock|orologio]]
+spiegazioni. Aveva ripetutamente, a intervalli, guardato l'[[motifs/clock|orologio]]
 
 nella sala d'attesa, e pareva soddisfatto; ma non lasciava
 
@@ -19969,7 +19969,7 @@ prima quel giorno. Ne uscì tergendosi la fronte, malgrado il
 
 freddo; ma con un sorriso di relativo sollievo in mezzo alla
 
-[[Tragedy|tragedia]]. Quando gli chiesero cosa facesse, rispose semplicemente: "Stavo
+[[forms/tragedy|tragedia]]. Quando gli chiesero cosa facesse, rispose semplicemente: "Stavo
 
 telefonando una descrizione del pacco. Ora andrà tutto bene;
 
@@ -19991,7 +19991,7 @@ Wotton era molto un gentiluomo, nel senso più generoso, e
 
 acconsentì di cuore a questo; e, benché fosse difficile per l'
 
-uomo [[Melancholy|malinconico]] dalla faccia di [[Horse|cavallo]] produrre qualcosa di più simile a un
+uomo [[concepts/melancholy|malinconico]] dalla faccia di [[motifs/horse|cavallo]] produrre qualcosa di più simile a un
 
 riso che a un nitrito, era manifestamente assai rincuorato dentro e
 
@@ -20003,7 +20003,7 @@ i due amici si trasferirono nell'unico e solo buffet e
 
 sedettero dietro due alti bicchieri di birra; non avendo alcuna voglia di
 
-scaldarsi le mani a quel [[Fire|fuoco]] fin troppo rosso [[Blood|sangue]] che ancora
+scaldarsi le mani a quel [[motifs/fire|fuoco]] fin troppo rosso [[motifs/blood|sangue]] che ancora
 
 ardeva nella sinistra sala d'attesa.
 
@@ -20017,11 +20017,11 @@ alle strette da solo, proprio come si è ucciso da solo. Credo che molti cospira
 
 si caccino davvero in angoli così da soli. Non capite
 
-che si è rinchiuso in una [[Prison|prigione]] logica, quando volle svuotare
+che si è rinchiuso in una [[motifs/prison|prigione]] logica, quando volle svuotare
 
 e chiudere l'intera stazione, per impressionarci con la sua efficienza. A
 
-proposito, avrei dovuto intuire che c'era un [[Double|doppio]] senso nei suoi
+proposito, avrei dovuto intuire che c'era un [[topoi/double|doppio]] senso nei suoi
 
 modi dittatoriali e nelle sue pretese di scavalcare la Costituzione; parlava
 
@@ -20038,7 +20038,7 @@ dentro il quadrato o il recinto logico, come un rettangolo in
 <span class="atom-split" data-atom="story_04_a_tall_story--part_27" data-title="MrPond — A Tall Story (part 27)" data-chapter="A Tall Story" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,archetype/fool,archetype/innocent,motif/cross,motif/death,motif/time,motif/well,concept/suffering,concept/wonder,form/inscription,form/tragedy,character/chorus,character/hubert,character/polonius"></span>
 
 
-geometry.  I was thinking all the [[Time|time]] about one thing: what would
+geometry.  I was thinking all the [[motifs/time|time]] about one thing: what would
 
 these people probably do to divert or intercept the box, now that
 
@@ -20092,19 +20092,19 @@ different angle; that could only mean it had been red-hot and
 
 hammered half crooked like a horseshoe on the anvil.  And then, of
 
-course, I realized that a red-hot poker would serve as [[Well|well]] as a
+course, I realized that a red-hot poker would serve as [[motifs/well|well]] as a
 
-pen or pencil, or rather better, for altering an [[Inscription|inscription]] on a
+pen or pencil, or rather better, for altering an [[forms/inscription|inscription]] on a
 
-wooden box.  A pen could only [[Cross|cross]] it out; but a poker could burn
+wooden box.  A pen could only [[motifs/cross|cross]] it out; but a poker could burn
 
-it out.  Managed neatly, it might [[Well|well]] remove all trace of there
+it out.  Managed neatly, it might [[motifs/well|well]] remove all trace of there
 
-ever having been any label or previous [[Inscription|inscription]] at all.  But it
+ever having been any label or previous [[forms/inscription|inscription]] at all.  But it
 
 would do a great deal more than that.  The clown is not the only
 
-[[Artist|artist]] who wields a poker; there is the whole elegant craft called
+[[archetypes/artist|artist]] who wields a poker; there is the whole elegant craft called
 
 poker-work.  It would be quite easy to change the whole appearance
 
@@ -20124,7 +20124,7 @@ the post to that address as a separate thing in an ordinary way;
 
 and our scheme for posting it in an ordinary way would have
 
-recoiled on our heads.  As it was, I was just in [[Time|time]] to describe
+recoiled on our heads.  As it was, I was just in [[motifs/time|time]] to describe
 
 the poker-work box and stop it.  I made a silly joke about a red
 
@@ -20134,7 +20134,7 @@ Dyer; I'm ashamed to say the only person I began by suspecting was
 
 your unfortunate clerk Franks, who is rather exceptionally
 
-[[Innocent|innocent]]."
+[[archetypes/innocent|innocent]]."
 
 "Franks!" exclaimed Wotton.  "Why on earth did you suspect him?"
 
@@ -20142,13 +20142,13 @@ your unfortunate clerk Franks, who is rather exceptionally
 
 than you may imagine.  He's a queer-looking fellow; but I ought
 
-to have known that [[Suffering|suffering]] sort of look is more often
+to have known that [[concepts/suffering|suffering]] sort of look is more often
 
 conscientiousness than unconscientiousness.  But where I was a
 
 priceless ass was when I looked at the suspect instead of looking
 
-at the [[Detective|detective]].  At that moment, Dyer was holding the box up,
+at the [[archetypes/detective|detective]].  At that moment, Dyer was holding the box up,
 
 looking at it very closely; and Franks, from the other side, could
 
@@ -20158,7 +20158,7 @@ he would know it again.  Franks knew about the box scheme; and
 
 seeing that very swift and furtive act, he started and stared; and
 
-I don't [[Wonder|wonder]].  In fact, Franks was the real [[Detective|detective]] and was far
+I don't [[concepts/wonder|wonder]].  In fact, Franks was the real [[archetypes/detective|detective]] and was far
 
 ahead of me, for I hadn't suspected Dyer at all.  Not till, so to
 
@@ -20168,7 +20168,7 @@ might say on the logical premises."  He coughed slightly.  "Pray
 
 excuse the pun."
 
-"[[Well]]," said Captain Gahagan, when Wotton had told him the story
+"[[motifs/well|Well]]," said Captain Gahagan, when Wotton had told him the story
 
 long afterwards.  "My favourite character in your drama is the
 
@@ -20176,7 +20176,7 @@ Clown.  He is so irrelevant.  I am like that myself.  I am so
 
 irrelevant."
 
-"You are," said Sir [[Hubert]] Wotton, and resumed the study of his
+"You are," said Sir [[characters/hubert|Hubert]] Wotton, and resumed the study of his
 
 documents.
 
@@ -20184,13 +20184,13 @@ documents.
 
 unchanged buoyancy.  "The Clown in Shakespeare seems to be there by
 
-accident unconnected with the story and yet he is the [[Chorus|chorus]] of the
+accident unconnected with the story and yet he is the [[characters/chorus|chorus]] of the
 
-[[Tragedy|tragedy]].  The [[Fool]] is like a fantastic dancing flame lighting up
+[[forms/tragedy|tragedy]].  The [[archetypes/fool|Fool]] is like a fantastic dancing flame lighting up
 
-the features and furniture of the dark [[house]] of [[Death|death]].  Perhaps we
+the features and furniture of the dark house of [[motifs/death|death]].  Perhaps we
 
-may connect Pond and [[Polonius]] after all."  And he continued to
+may connect Pond and [[characters/polonius|Polonius]] after all."  And he continued to
 
 illustrate his theory of the buffoons in Shakespeare, a dramatic
 
@@ -20216,7 +20216,7 @@ said he could not see the sense of things; and was deaf to the
 
 wistful questions of his friend Gahagan, about whether he might
 
-perhaps see the nonsense.  There was no nonsense about Sir [[Hubert]]
+perhaps see the nonsense.  There was no nonsense about Sir [[characters/hubert|Hubert]]
 
 Wotton; and there was a great deal of nonsense about Captain
 
@@ -20225,7 +20225,7 @@ Gahagan.  Gahagan enjoyed oysters, yet one could not say he cared
 
 <span class="qlang-split" data-lang="it"></span>
 
-geometria. Pensavo per tutto il [[Time|tempo]] a una cosa sola: cosa avrebbero
+geometria. Pensavo per tutto il [[motifs/time|tempo]] a una cosa sola: cosa avrebbero
 
 probabilmente fatto costoro per dirottare o intercettare la scatola, ora che
 
@@ -20279,19 +20279,19 @@ diverso; il che poteva significare soltanto che era stato reso rovente e
 
 martellato mezzo storto come un ferro di cavallo sull'incudine. E allora, s'intende,
 
-mi resi conto che un attizzatoio rovente sarebbe servito tanto [[Well|bene]] quanto una
+mi resi conto che un attizzatoio rovente sarebbe servito tanto [[motifs/well|bene]] quanto una
 
-penna o una matita, anzi meglio, per alterare un'[[Inscription|iscrizione]] su una
+penna o una matita, anzi meglio, per alterare un'[[forms/inscription|iscrizione]] su una
 
-scatola di legno. Una penna poteva solo [[Cross|cancellar]]la; ma un attizzatoio poteva
+scatola di legno. Una penna poteva solo [[motifs/cross|cancellar]]la; ma un attizzatoio poteva
 
-bruciarla via. Manovrato con destrezza, poteva [[Well|ben]] rimuovere ogni traccia che vi
+bruciarla via. Manovrato con destrezza, poteva [[motifs/well|ben]] rimuovere ogni traccia che vi
 
-fosse mai stata alcuna etichetta o alcuna precedente [[Inscription|iscrizione]]. Ma
+fosse mai stata alcuna etichetta o alcuna precedente [[forms/inscription|iscrizione]]. Ma
 
 avrebbe fatto ben più di questo. Il pagliaccio non è l'unico
 
-[[Artist|artista]] che maneggia un attizzatoio; c'è tutto l'elegante mestiere detto
+[[archetypes/artist|artista]] che maneggia un attizzatoio; c'è tutto l'elegante mestiere detto
 
 pirografia. Sarebbe stato facilissimo mutare l'intero aspetto
 
@@ -20311,7 +20311,7 @@ la posta fino a quell'indirizzo come oggetto a sé stante, nel modo consueto;
 
 e il nostro piano di spedirla nel modo consueto ci
 
-sarebbe ricaduto addosso. Così com'è, giunsi appena in [[Time|tempo]] a descrivere
+sarebbe ricaduto addosso. Così com'è, giunsi appena in [[motifs/time|tempo]] a descrivere
 
 la scatola pirografata e a fermarla. Feci una sciocca battuta su una matita
 
@@ -20321,7 +20321,7 @@ Dyer; mi vergogno a dire che l'unica persona che cominciai col sospettare fu
 
 il vostro sventurato impiegato Franks, che è invece eccezionalmente
 
-[[Innocent|innocente]]."
+[[archetypes/innocent|innocente]]."
 
 "Franks!" esclamò Wotton. "Perché diavolo lo sospettavate?"
 
@@ -20329,13 +20329,13 @@ il vostro sventurato impiegato Franks, che è invece eccezionalmente
 
 di quanto immaginiate. È un tipo dall'aria strana; ma avrei
 
-dovuto sapere che quella specie di aria [[Suffering|sofferente]] è più spesso
+dovuto sapere che quella specie di aria [[concepts/suffering|sofferente]] è più spesso
 
 scrupolosità che mancanza di scrupolo. Ma dove fui un asino
 
 impagabile fu quando guardai il sospettato invece di guardare
 
-il [[Detective|detective]]. In quel momento, Dyer teneva alzata la scatola,
+il [[archetypes/detective|detective]]. In quel momento, Dyer teneva alzata la scatola,
 
 esaminandola molto da vicino; e Franks, dall'altro lato, poteva
 
@@ -20345,7 +20345,7 @@ poterla riconoscere di nuovo. Franks sapeva del piano delle scatole; e
 
 vedendo quell'atto tanto rapido e furtivo, trasalì e restò a fissare; e
 
-non me ne [[Wonder|meraviglio]]. In effetti, Franks era il vero [[Detective|detective]] ed era assai
+non me ne [[concepts/wonder|meraviglio]]. In effetti, Franks era il vero [[archetypes/detective|detective]] ed era assai
 
 più avanti di me, perché io non avevo sospettato affatto di Dyer. Non finché, per così
 
@@ -20355,7 +20355,7 @@ dire sul luogo logico." Tossì lievemente. "Vi
 
 prego di scusare il gioco di parole."
 
-"[[Well|Beh]]," disse il Capitano Gahagan, quando Wotton gli ebbe raccontato la storia
+"[[motifs/well|Beh]]," disse il Capitano Gahagan, quando Wotton gli ebbe raccontato la storia
 
 molto tempo dopo. "Il mio personaggio preferito nel vostro dramma è il
 
@@ -20363,7 +20363,7 @@ Pagliaccio. È così irrilevante. Io sono così anch'io. Sono così
 
 irrilevante."
 
-"Lo siete," disse Sir [[Hubert]] Wotton, e riprese lo studio delle sue
+"Lo siete," disse Sir [[characters/hubert|Hubert]] Wotton, e riprese lo studio delle sue
 
 carte.
 
@@ -20371,13 +20371,13 @@ carte.
 
 immutato brio. "Il Buffone in Shakespeare pare esser lì per
 
-caso, senza connessione con la storia, eppure è il [[Chorus|coro]] della
+caso, senza connessione con la storia, eppure è il [[characters/chorus|coro]] della
 
-[[Tragedy|tragedia]]. Il [[Fool|Matto]] è come una fantastica fiamma danzante che illumina
+[[forms/tragedy|tragedia]]. Il [[archetypes/fool|Matto]] è come una fantastica fiamma danzante che illumina
 
-i tratti e le suppellettili della buia [[house|casa]] della [[Death|Morte]]. Forse
+i tratti e le suppellettili della buia casa della [[motifs/death|Morte]]. Forse
 
-possiamo collegare Pond e [[Polonius|Polonio]], dopotutto." E continuò a
+possiamo collegare Pond e [[characters/polonius|Polonio]], dopotutto." E continuò a
 
 illustrare la sua teoria dei buffoni in Shakespeare, poeta drammatico
 
@@ -20403,7 +20403,7 @@ di non vedere il senso delle cose; ed era sordo alle
 
 struggenti domande dell'amico Gahagan, se magari non potesse per caso
 
-vedere il nonsenso. Non c'era nulla di nonsenso in Sir [[Hubert]]
+vedere il nonsenso. Non c'era nulla di nonsenso in Sir [[characters/hubert|Hubert]]
 
 Wotton; e c'era una gran quantità di nonsenso nel Capitano
 
@@ -20440,15 +20440,15 @@ to give our friend his high and rightful rank in the biological
 
 order.  I need not trouble you with the arguments.  Pond wears a
 
-beard.  He and the oyster [[Alone|alone]] confront the world of modern
+beard.  He and the oyster alone confront the world of modern
 
 fashions with such a decoration.  When he shuts up his head he is
 
-as close as an oyster.  When he persuades us to [[Swallow|swallow]] something,
+as close as an oyster.  When he persuades us to [[motifs/swallow|swallow]] something,
 
 it is only afterwards (as we have often agreed) that we realize
 
-what a [[Monster|monster]] of the deep we have swallowed.  But, above all,
+what a [[archetypes/monster|monster]] of the deep we have swallowed.  But, above all,
 
 within that oyster are the paradoxes; which are pearls of great
 
@@ -20466,7 +20466,7 @@ This question of deporting dangerous characters, even when they are
 
 only suspects, has some curious and baffling problems.  I remember
 
-one rather queer case, in which a [[government]] had to consider the
+one rather queer case, in which a government had to consider the
 
 deporting of a desirable alien--"
 
@@ -20500,27 +20500,27 @@ wanted him to stay, and that was why it seemed obvious that he must
 
 go.  He was something which, without profanity, I trust, I might
 
-call the [[Desire|desire]] of all nations; or what poets have described as the
+call the [[motifs/desire|desire]] of all nations; or what poets have described as the
 
-world's [[Desire|desire]].  And yet he was not deported.  Although he was
+world's [[motifs/desire|desire]].  And yet he was not deported.  Although he was
 
-desired, he was not deported.  That is the only real [[Paradox|paradox]]."
+desired, he was not deported.  That is the only real [[concepts/paradox|paradox]]."
 
-"Oh," said the staring Wotton.  "So that's the real [[Paradox|paradox]]."
+"Oh," said the staring Wotton.  "So that's the real [[concepts/paradox|paradox]]."
 
 "You should remember something of the case, Wotton," went on Mr.
 
-Pond.  "It was about that [[Time|time]] when we went over to [[Paris]] together
+Pond.  "It was about that [[motifs/time|time]] when we went over to [[settings/paris|Paris]] together
 
 about a rather delicate--"
 
-"Pond in [[Paris]]," murmured Gahagan.  "Pond in his Pagan Youth, when
+"Pond in [[settings/paris|Paris]]," murmured Gahagan.  "Pond in his Pagan Youth, when
 
-(as Swinburne says so beautifully) '[[Love]] was the pearl of his
+(as Swinburne says so beautifully) '[[motifs/love|Love]] was the pearl of his
 
-oyster and [[Venus]] [[Rose|rose]] red out of wine.'"
+oyster and [[characters/venus|Venus]] [[motifs/rose|rose]] red out of wine.'"
 
-"[[Paris]] is on the way to many capitals," replied Pond with
+"[[settings/paris|Paris]] is on the way to many capitals," replied Pond with
 
 diplomatic reserve.  "In any case, there is no need to define the
 
@@ -20540,13 +20540,13 @@ equality; in face of a world deeply disturbed about economic
 
 equality.  When I went there, a strike in the transport services
 
-had brought the life of the capital to a deadlock; the [[government|Government]]
+had brought the life of the capital to a deadlock; the Government
 
 was accused of being under the influence of a millionaire named
 
 Kramp, who controlled the lines involved; and the crisis was the
 
-more alarming because it was insisted (on the [[government|Government]] side) that
+more alarming because it was insisted (on the Government side) that
 
 the strike was secretly engineered by the famous terrorist,
 
@@ -20574,7 +20574,7 @@ various ways.  The first case was commonplace enough, it might
 
 seem; consisting merely of talking to a bookseller who was
 
-otherwise a fairly ordinary shopkeeper, but [[Well|well]] acquainted with
+otherwise a fairly ordinary shopkeeper, but [[motifs/well|well]] acquainted with
 
 early eighteenth-century scientific books; and the period was a
 
@@ -20598,7 +20598,7 @@ conversation, in a café, was much more vigorous and vigilant, and
 
 belonged to a younger world.  But he also was very serious; a dark,
 
-strenuous young man who was a [[government|Government]] official actually
+strenuous young man who was a Government official actually
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -20629,15 +20629,15 @@ conferire al nostro amico il suo alto e legittimo rango nell'ordine
 
 biologico. Non starò a tediarvi con gli argomenti. Pond porta la
 
-barba. Egli e l'ostrica [[Alone|soli]] affrontano il mondo delle mode
+barba. Egli e l'ostrica soli affrontano il mondo delle mode
 
 moderne con simile ornamento. Quando chiude il capo è
 
-serrato come un'ostrica. Quando ci persuade a [[Swallow|inghiottire]] qualcosa,
+serrato come un'ostrica. Quando ci persuade a [[motifs/swallow|inghiottire]] qualcosa,
 
 è solo dopo (come spesso abbiamo convenuto) che ci accorgiamo
 
-di quale [[Monster|mostro]] degli abissi abbiamo inghiottito. Ma, soprattutto,
+di quale [[archetypes/monster|mostro]] degli abissi abbiamo inghiottito. Ma, soprattutto,
 
 dentro quell'ostrica ci sono i paradossi; che sono perle di gran
 
@@ -20655,7 +20655,7 @@ Questa questione dell'espulsione di elementi pericolosi, anche quando sono
 
 solo sospetti, presenta problemi curiosi e sconcertanti. Ricordo
 
-un caso piuttosto strano, in cui un [[government|governo]] dovette considerare l'
+un caso piuttosto strano, in cui un governo dovette considerare l'
 
 espulsione di uno straniero desiderabile—"
 
@@ -20689,27 +20689,27 @@ volevano che restasse, e per questo pareva ovvio che dovesse
 
 andarsene. Era qualcosa che, senza empietà, spero, potrei
 
-chiamare il [[Desire|Desiderio]] di tutte le nazioni; o ciò che i poeti hanno descritto come il
+chiamare il [[motifs/desire|Desiderio]] di tutte le nazioni; o ciò che i poeti hanno descritto come il
 
-[[Desire|Desiderio]] del mondo. Eppure non fu espulso. Benché fosse
+[[motifs/desire|Desiderio]] del mondo. Eppure non fu espulso. Benché fosse
 
-desiderato, non fu espulso. Questo è l'unico vero [[Paradox|paradosso]]."
+desiderato, non fu espulso. Questo è l'unico vero [[concepts/paradox|paradosso]]."
 
-"Oh," disse Wotton fissandolo. "Così quello è il vero [[Paradox|paradosso]]."
+"Oh," disse Wotton fissandolo. "Così quello è il vero [[concepts/paradox|paradosso]]."
 
 "Dovreste ricordare qualcosa del caso, Wotton," proseguì il signor
 
-Pond. "Fu più o meno all'[[Time|epoca]] in cui andammo a [[Paris|Parigi]] insieme
+Pond. "Fu più o meno all'[[motifs/time|epoca]] in cui andammo a [[settings/paris|Parigi]] insieme
 
 per una faccenda piuttosto delicata—"
 
-"Pond a [[Paris|Parigi]]," mormorò Gahagan. "Pond nella sua Pagana Giovinezza, quando
+"Pond a [[settings/paris|Parigi]]," mormorò Gahagan. "Pond nella sua Pagana Giovinezza, quando
 
-(come dice Swinburne così mirabilmente) 'l'[[Love|Amore]] era la perla della sua
+(come dice Swinburne così mirabilmente) 'l'[[motifs/love|Amore]] era la perla della sua
 
-ostrica e [[Venus|Venere]] [[Rose|sorse]] rossa dal vino.'"
+ostrica e [[characters/venus|Venere]] [[motifs/rose|sorse]] rossa dal vino.'"
 
-"[[Paris|Parigi]] è sulla strada per molte capitali," rispose Pond con
+"[[settings/paris|Parigi]] è sulla strada per molte capitali," rispose Pond con
 
 diplomatica riservatezza. "In ogni caso, non c'è bisogno di definire la
 
@@ -20729,13 +20729,13 @@ fronte di un mondo profondamente turbato dall'uguaglianza economica.
 
 Quando vi andai, uno sciopero nei servizi di trasporto
 
-aveva bloccato la vita della capitale in un vicolo cieco; il [[government|Governo]]
+aveva bloccato la vita della capitale in un vicolo cieco; il Governo
 
 era accusato di essere sotto l'influenza di un milionario di nome
 
 Kramp, che controllava le linee coinvolte; e la crisi era tanto
 
-più allarmante perché si insisteva (dal lato del [[government|Governo]]) che
+più allarmante perché si insisteva (dal lato del Governo) che
 
 lo sciopero fosse segretamente orchestrato dal famoso terrorista,
 
@@ -20763,7 +20763,7 @@ vari modi. Il primo caso era abbastanza banale, a quanto
 
 pareva; consistente solo nel parlare con un libraio che era
 
-per il resto un negoziante piuttosto ordinario, ma [[Well|ben]] versato in
+per il resto un negoziante piuttosto ordinario, ma [[motifs/well|ben]] versato in
 
 libri scientifici del primo Settecento; e il periodo era una
 
@@ -20787,18 +20787,18 @@ conversazione, in un caffè, era assai più vigoroso e vigile, e
 
 apparteneva a un mondo più giovane. Ma anch'egli era molto serio; un
 
-giovane bruno e scattante che era un funzionario del [[government|Governo]], in verità
+giovane bruno e scattante che era un funzionario del Governo, in verità
 
 
 
 <span class="atom-split" data-atom="story_04_a_tall_story--part_29" data-title="MrPond — A Tall Story (part 29)" data-chapter="A Tall Story" data-kind="excerpt" data-tags="archetype/prophet,archetype/shadow,motif/blood,motif/fire,motif/time,motif/well,concept/doubt,concept/faith,concept/solitude,concept/union,histref/america,setting/america"></span>
 
 
-believing in the [[government|Government]]; or at least in the principles of the
+believing in the Government; or at least in the principles of the
 
-[[government|Government]]; and he was the sort of man who thinks first about
+Government; and he was the sort of man who thinks first about
 
-principles.  He denounced the strike and even the trade [[Union|union]]; not
+principles.  He denounced the strike and even the trade [[concepts/union|union]]; not
 
 because he was a snob, for he lived as simply as a workman; but
 
@@ -20806,15 +20806,15 @@ because he really did believe in the old individualistic theory of
 
 what he called free contract.  The type is almost unknown in
 
-England; the theory is more common in [[America]].  But nobody who
+England; the theory is more common in [[settings/america|America]].  But nobody who
 
 looked at the baldish, rather corrugated brow that bulged between
 
 the streaks of black hair, and the anxious, though angry, eyes,
 
-could [[Doubt|doubt]] that he was in fanatical good [[Faith|faith]].  His name was
+could [[concepts/doubt|doubt]] that he was in fanatical good [[concepts/faith|faith]].  His name was
 
-Marcus, and he held a minor [[government|Government]] office, in which he could
+Marcus, and he held a minor Government office, in which he could
 
 survey with satisfaction the principles of the Republic, without
 
@@ -20840,21 +20840,21 @@ some tangle of talk and laughter; they seemed to have stopped by
 
 the table merely for the sake of the talk.  The next moment a
 
-string of gutter-children invaded his [[Solitude|solitude]] and received the
+string of gutter-children invaded his [[concepts/solitude|solitude]] and received the
 
 pieces of sugar not used for his coffee; then a hulking and rather
 
 sulky-looking labourer came up and talked to him, for a much longer
 
-[[Time|time]] than any of the others.  Strangest of all, a lady, of the
+[[motifs/time|time]] than any of the others.  Strangest of all, a lady, of the
 
-stiff aristocratic sort seldom seen outside the [[house]] in such
+stiff aristocratic sort seldom seen outside the house in such
 
 countries, actually got out of a carriage and stood staring at the
 
 strange gentleman; and then got into the carriage again.  These
 
-things [[Alone|alone]] might have led Pond to look at the person in question;
+things alone might have led Pond to look at the person in question;
 
 but in fact, for some reason or other, he had looked at him with
 
@@ -20870,17 +20870,17 @@ a ring with a stone coloured like a kingfisher, the only spot of
 
 luxury on what was otherwise a rather threadbare appearance; and in
 
-the grey [[Shadow|shadow]] of the white hat his eyes shone as blue as the
+the grey [[archetypes/shadow|shadow]] of the white hat his eyes shone as blue as the
 
 stone.  There was nothing in his position that claimed prominence;
 
 he did not sit in the front but up against the wall of the café,
 
-just under a creeper and a [[Fire|fire]]-escape.  Despite the little crowds
+just under a creeper and a [[motifs/fire|fire]]-escape.  Despite the little crowds
 
 that clustered round him, he had in the intervals an odd air of
 
-preferring to be [[Alone|alone]].  Pond made many inquiries, then and
+preferring to be alone.  Pond made many inquiries, then and
 
 afterwards, about his name; but learnt nothing except that he was
 
@@ -20896,7 +20896,7 @@ name, did not very clearly emerge.
 
 "Everybody knows him and nobody knows who he is," replied Marcus in
 
-a rather grating voice.  "But I'm jolly [[Well|well]] going to find out."
+a rather grating voice.  "But I'm jolly [[motifs/well|well]] going to find out."
 
 As he spoke, the hawkers of the revolutionary paper, published by
 
@@ -20906,7 +20906,7 @@ paper, were distributing it among a considerable number of
 
 purchasers in the crowd outside the café; a black block thus
 
-rapidly diversified with blots of [[Blood|blood]]-red colour.  Some, indeed,
+rapidly diversified with blots of [[motifs/blood|blood]]-red colour.  Some, indeed,
 
 looked at the paper only to jeer at it; some with a colder
 
@@ -20918,7 +20918,7 @@ definite disapproval, was the gentleman with the beard and the blue
 
 ring: M. Louis.
 
-"[[Well]]," said Marcus, with a darkening brow.  "Let them.  It's their
+"[[motifs/well|Well]]," said Marcus, with a darkening brow.  "Let them.  It's their
 
 last chance, I suppose."
 
@@ -20944,7 +20944,7 @@ Anyhow, they're going to raid the offices with police to-morrow;
 
 and that's probably the last issue."
 
-M. Marcus proved himself a true [[Prophet|prophet]], so far as concerned the
+M. Marcus proved himself a true [[archetypes/prophet|prophet]], so far as concerned the
 
 general situation next morning.
 
@@ -20956,7 +20956,7 @@ seized all copies of it everywhere; and the black-clad bourgeoisie
 
 sitting outside the café were now blameless and unspotted with any
 
-hues of [[Blood|blood]]; save in one corner under the [[Fire|fire]]-escape and the
+hues of [[motifs/blood|blood]]; save in one corner under the [[motifs/fire|fire]]-escape and the
 
 creeper, where M. Louis was reading his copy of the sanguinary
 
@@ -20984,41 +20984,41 @@ umbrella like a sabre.  This was the eminent and highly militant
 
 Dr. Koch, the Minister of the Interior; he had been presiding over
 
-the police raid, and his [[rolling]] eye instantly spotted the one red
+the police raid, and his rolling eye instantly spotted the one red
 
 spot in the corner of the crowded café.  He planted himself before
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Credere nel [[government|Governo]]; o almeno nei suoi principi.
+Credere nel Governo; o almeno nei suoi principi.
 
-Il [[government|Governo]]; ed era il tipo di uomo che pensava prima a.
+Il Governo; ed era il tipo di uomo che pensava prima a.
 
 Principi. Denunciò lo sciopero, e anche il sindacato; non.
 
-#Perché era un snob… perché viveva in modo semplice come un lavoratore; ma…
+Perché era un snob… perché viveva in modo semplice come un lavoratore; ma…
 
-#Perché credeva davvero nella vecchia teoria individualista
+Perché credeva davvero nella vecchia teoria individualista
 
 Titolo:  
 Quello che lui chiamava “contratto libero”. Un tipo di accordo quasi sconosciuto…
 
-In Inghilterra questa teoria è più diffusa in [[America]]. Ma nessuno che.
+In Inghilterra questa teoria è più diffusa in [[settings/america|America]]. Ma nessuno che.
 
-# Guardò quella fronte quasi calva, leggermente rugosa, che sporgeva in mezzo…
+Guardò quella fronte quasi calva, leggermente rugosa, che sporgeva in mezzo…
 
 I ciuffi di capelli neri e gli occhi ansiosi, sebbene arrabbiati…
 
-Non si poteva [[Doubt|dubitare]] che fosse animato da una fede fanatica e sincera. Il suo nome era.
+Non si poteva [[concepts/doubt|dubitare]] che fosse animato da una fede fanatica e sincera. Il suo nome era.
 
-Marcus ricopriva un incarico minore nel [[government|Governo]], attraverso il quale poteva.
+Marcus ricopriva un incarico minore nel Governo, attraverso il quale poteva.
 
 Esaminare con soddisfazione i principi della Repubblica, senza…
 
-# Ammesso ai suoi consigli… Fu mentre parlavano all’esterno di…
+Ammesso ai suoi consigli… Fu mentre parlavano all’esterno di…
 
-# Café con questo secondo conoscente: quando il signor Pond prese coscienza
+Café con questo secondo conoscente: quando il signor Pond prese coscienza
 
 Del terzo, che era di gran lunga il più straordinario dei tre.
 
@@ -21028,27 +21028,27 @@ Che ciò fosse vero per gli occhi di tutti, e non soltanto per i suoi. Uno
 
 In un modo o nell’altro, sembrava sempre esistere una corrente di comunicazione.
 
-#In cerchio intorno al piccolo tavolo dove l’uomo sedeva fumando…
+In cerchio intorno al piccolo tavolo dove l’uomo sedeva fumando…
 
 Cigaretta, caffè nero e Benedictine… In questo momento.
 
 Quando Pond lo vide per la prima volta, un gruppo di giovani si stava separando dopo…
 
-# Un intreccio di chiacchiere e risate; sembrava che fossero passati da lì per caso
+Un intreccio di chiacchiere e risate; sembrava che fossero passati da lì per caso
 
 La tavola esiste soltanto a scopo di conversazione… Nel momento successivo…
 
-Una serie di bambini malfamati invase la sua [[Solitude|solitudine]] e, ricevettero qualcosa.
+Una serie di bambini malfamati invase la sua [[concepts/solitude|solitudine]] e, ricevettero qualcosa.
 
-# Pezzi di zucchero che non sono stati usati per il suo caffè… poi, qualcosa di enorme e piuttosto…
+Pezzi di zucchero che non sono stati usati per il suo caffè… poi, qualcosa di enorme e piuttosto…
 
 Un lavoratore dall’aspetto cupo si avvicinò e parlò con lui per molto tempo.
 
 Più veloce di qualsiasi altro. La cosa più strana è che, una signora, appartenente alla.
 
-Quel rigido tipo aristocratico era raramente visto al di fuori della [[house|casa]].
+Quel rigido tipo aristocratico era raramente visto al di fuori della casa.
 
-# Paesi… in realtà scese da una carrozza e rimase lì a fissare…
+Paesi… in realtà scese da una carrozza e rimase lì a fissare…
 
 Il gentiluomo strano… e poi tornò dentro la carrozza. Questi…
 
@@ -21060,25 +21060,25 @@ Grande curiosità fin dal principio.
 
 L’uomo indossava un ampio cappello bianco e un abito blu scuro piuttosto logoro.
 
-# Un naso ad arco alto e una barba giallo pallido ben curata…
+Un naso ad arco alto e una barba giallo pallido ben curata…
 
-# Mani lunghe, ossute, ma eleganti… su una delle quali c’era…
+Mani lunghe, ossute, ma eleganti… su una delle quali c’era…
 
-# Un anello con una pietra colorata come un martin pescatore, l’unica macchia di colore in tutto l’oggetto…
+Un anello con una pietra colorata come un martin pescatore, l’unica macchia di colore in tutto l’oggetto…
 
 Lusso su ciò che altrimenti appariva piuttosto logoro… e dentro.
 
 L’ombra grigia del cappello bianco, i suoi occhi brillavano di un blu intenso come il.
 
-#Pietra. Nella sua posizione, nulla lo rendeva particolarmente evidente o rilevante.
+Pietra. Nella sua posizione, nulla lo rendeva particolarmente evidente o rilevante.
 
 Non si sedette davanti, ma appoggiato al muro del caffè.
 
-Proprio sotto un rampicante e vicino a una via di fuga dal [[Fire|fuoco]]. Nonostante le piccole folle.
+Proprio sotto un rampicante e vicino a una via di fuga dal [[motifs/fire|fuoco]]. Nonostante le piccole folle.
 
 Quelli che si radunavano intorno a lui mostravano, di tanto in tanto, un’aria strana…
 
-Preferendo essere [[Alone|solo]], Pond fece molte domande, in quel momento e in seguito.
+Preferendo essere solo, Pond fece molte domande, in quel momento e in seguito.
 
 In seguito, si cercò di sapere il suo nome, ma non si scoprì nulla se non che…
 
@@ -21086,7 +21086,7 @@ Titolo: comunemente chiamato M. Louis; ma se quel fosse davvero il suo vero cogn
 
 “Forse si tratta dell’adattamento di un cognome straniero… o forse qualcos’altro…”
 
-# Una popolarità bizzarra ed eccentrica spinse tutti a utilizzare il suo nome cristiano
+Una popolarità bizzarra ed eccentrica spinse tutti a utilizzare il suo nome cristiano
 
 Il nome non emerse con molta chiarezza.
 
@@ -21100,19 +21100,19 @@ Mentre parlava, i venditori del giornale rivoluzionario, pubblicato da…
 
 I lavoratori in sciopero, evidenti per essere stampati su un vivido rosso scuro…
 
-#Carta… che veniva distribuita a un numero considerevole di persone
+Carta… che veniva distribuita a un numero considerevole di persone
 
 I compratori nella folla fuori dal caffè; un blocco nero, dunque…
 
 Si diversificò rapidamente, con macchie di colore rosso sangue. Alcune, infatti.
 
-# Lo hanno guardato solo per prenderlo in giro; alcuni con ancora più freddezza…
+Lo hanno guardato solo per prenderlo in giro; alcuni con ancora più freddezza…
 
 Curiosità. Forse solo pochi, tra coloro che provano vera simpatia per lui.
 
 Tra coloro che lo leggono con distacco, ma apparentemente non con…
 
-# Deciso disapprovamento… il gentiluomo con la barba e i vestiti blu
+Deciso disapprovamento… il gentiluomo con la barba e i vestiti blu
 
 Ring: Signor Louis.
 
@@ -21129,13 +21129,13 @@ Titolo:
 
 Per non dire che personalmente non lo approvo… Non riesco proprio a capire come possa funzionare questa Repubblica.
 
-# Non è possibile conciliare questo con i propri principi liberali…
+Non è possibile conciliare questo con i propri principi liberali…
 
 I giornali… Ma proveranno a soffocare quella pubblicazione. L’hanno già fatto.
 
 “Essere stati spinti a farlo è stato un vero errore… Non credo affatto che il Primo Ministro abbia agito correttamente.”
 
-#A lui stesso piace davvero questa repressione; ma il Ministro…
+A lui stesso piace davvero questa repressione; ma il Ministro…
 
 Interiore è un piccolo diavolo irrequieto che, in generale, ottiene sempre ciò che vuole.
 
@@ -21143,7 +21143,7 @@ Comunque, domani andranno a perquisire gli uffici con la polizia.
 
 E probabilmente questo è l’ultimo problema.
 
-Il signor Marcus si dimostrò un vero [[Prophet|profeta]], per quanto riguardava questo argomento.
+Il signor Marcus si dimostrò un vero [[archetypes/prophet|profeta]], per quanto riguardava questo argomento.
 
 Situazione generale la mattina seguente.
 
@@ -21155,9 +21155,9 @@ Il titolo indicava chiaramente che la distribuzione non era avvenuta con success
 
 Fuori dal caffè, ora erano tutti innocenti e senza alcuna macchia…
 
-Colori di [[Blood|sangue]]; conservati in un angolo, sotto la via di fuga dal [[Fire|fuoco]].
+Colori di [[motifs/blood|sangue]]; conservati in un angolo, sotto la via di fuga dal [[motifs/fire|fuoco]].
 
-# Il rampicante, dove il signor Louis leggeva la sua copia di quel testo cruento
+Il rampicante, dove il signor Louis leggeva la sua copia di quel testo cruento
 
 Titolo:  
 Alcuni di coloro che erano intorno a lui mostravano una totale indifferenza verso quel cambiamento.
@@ -21166,23 +21166,23 @@ Lo guardò con un certo sospetto; e Pond notò in particolare il signor Huss.
 
 Il libraio, con il suo cappello nero e le sue basette bianche
 
-# Seduto a un tavolo vicino, osserva attentamente il lettore di quel foglio rosso
+Seduto a un tavolo vicino, osserva attentamente il lettore di quel foglio rosso
 
 con sospetto palpabile.
 
-# Marcus e Pond si sedettero al loro solito tavolo; e
+Marcus e Pond si sedettero al loro solito tavolo; e
 
 Mentre facevano ciò, arrivò un gruppo di poliziotti che marciava con passo deciso…
 
-#In fretta, pulendo le strade… Marchavano insieme a loro.
+In fretta, pulendo le strade… Marchavano insieme a loro.
 
-# Una velocità ancora più furiosa… un uomo basso e robusto, con un’aria arrogante
+Una velocità ancora più furiosa… un uomo basso e robusto, con un’aria arrogante
 
-# Mustache, decorazione ufficiale e…
+Mustache, decorazione ufficiale e…
 
-#Ombrello come una spada… Questo era l’eminente e estremamente militante…
+Ombrello come una spada… Questo era l’eminente e estremamente militante…
 
-# Il dottor Koch, il Ministro dell’Interno: era lui a presiedere
+Il dottor Koch, il Ministro dell’Interno: era lui a presiedere
 
 La polizia fece irruzione, e il suo occhio che si muoveva continuamente notò immediatamente quel rosso.
 
@@ -21229,7 +21229,7 @@ grinding his teeth.  "Anyhow, you shan't arrest us or hold up the
 
 whole machinery of society by a trick like this.  Do you think we
 
-will let that sort of dirty little red rusty nail in the [[Road|road]] stop
+will let that sort of dirty little red rusty nail in the [[motifs/road|road]] stop
 
 all the wheels of progress?"
 
@@ -21237,9 +21237,9 @@ all the wheels of progress?"
 
 wheels of your sort of progress have ever done anything yet but
 
-grind the faces of the poor?  No; I have not the [[Honour|honour]] of being
+grind the faces of the poor?  No; I have not the [[concepts/honour|honour]] of being
 
-one of the citizens of your State; one of those happy, joyful, [[Well|well]]-
+one of the citizens of your State; one of those happy, joyful, [[motifs/well|well]]-
 
 fed, wealthy citizens one sees standing about in the street, on
 
@@ -21273,11 +21273,11 @@ fancy about who he is."
 
 what he is.  Not a nice fancy."  And he strode abruptly away from
 
-the table and up the street [[Alone|alone]].
+the table and up the street alone.
 
 Mr. Pond remained seated in a condition of profound thought.  After
 
-some minutes he [[Rose|rose]] and made his way towards the table where his
+some minutes he [[motifs/rose|rose]] and made his way towards the table where his
 
 friend the bookseller, the excellent Huss, was still seated in
 
@@ -21309,13 +21309,13 @@ and saluting like an army; and a great shout, seeming to shake the
 
 lamp-posts and little trees, went up for the one man who remained
 
-faithful to the red rag.  M. Louis [[Rose|rose]] and gravely bowed to the
+faithful to the red rag.  M. Louis [[motifs/rose|rose]] and gravely bowed to the
 
 applauding mob.  Mr. Pond sat down opposite his friend the
 
 bookseller and scrutinized his whiskered face with interest.
 
-"[[Well]]," said Mr. Pond, "our friend over there looks as if he might
+"[[motifs/well|Well]]," said Mr. Pond, "our friend over there looks as if he might
 
 soon be the leader of the revolutionary party."
 
@@ -21337,7 +21337,7 @@ with the protest of the proletariat or with the present phase of
 
 capitalism."
 
-"Oh," said Mr. Pond; and an understanding began to [[Dawn|dawn]] in his
+"Oh," said Mr. Pond; and an understanding began to [[motifs/dawn|dawn]] in his
 
 eyes.  After a moment he said:  "I apologize most sincerely, old
 
@@ -21353,7 +21353,7 @@ sect talks its own language.  You could tell a man was a Buddhist
 
 from his way of saying he was not a Buddhist.  It's no business of
 
-mine; and I won't mention it to a [[Soul|soul]], if you prefer not.  I only
+mine; and I won't mention it to a [[motifs/soul|soul]], if you prefer not.  I only
 
 ventured to say that the man over there seems to be very popular
 
@@ -21367,9 +21367,9 @@ a scientific movement.  We are not moral.  We have done with
 
 bourgeois ideologies of right and wrong.  We are Realpolilik.  What
 
-helps the program of Marx is [[Alone|alone]] good.  What hinders the program
+helps the program of Marx is alone good.  What hinders the program
 
-of Marx is [[Alone|alone]] evil.  But there are limits.  There are names so
+of Marx is alone evil.  But there are limits.  There are names so
 
 infamous, there are persons so infamous, that they must always be
 
@@ -21434,7 +21434,7 @@ digrignando i denti. «Comunque, lei non arresterà noi né bloccherà
 
 l'intero meccanismo della società con un trucco simile. Crede che
 
-lasceremo che quella specie di sudicio chiodino rosso arrugginito sulla [[Road|strada]] fermi
+lasceremo che quella specie di sudicio chiodino rosso arrugginito sulla [[motifs/road|strada]] fermi
 
 tutte le ruote del progresso?»
 
@@ -21442,9 +21442,9 @@ tutte le ruote del progresso?»
 
 ruote del suo genere di progresso abbiano mai fatto altro che
 
-schiacciare i volti dei poveri? No; non ho l'[[Honour|onore]] di essere
+schiacciare i volti dei poveri? No; non ho l'[[concepts/honour|onore]] di essere
 
-uno dei cittadini del suo Stato; uno di quei cittadini felici, gioiosi, [[Well|ben]]
+uno dei cittadini del suo Stato; uno di quei cittadini felici, gioiosi, [[motifs/well|ben]]
 
 nutriti e ricchi che si vedono starsene in piedi per la strada, ai
 
@@ -21478,11 +21478,11 @@ idea su chi egli sia».
 
 che cosa egli sia. Non una bella idea». E si allontanò bruscamente dal
 
-tavolo, risalendo la strada da [[Alone|solo]].
+tavolo, risalendo la strada da solo.
 
 Mr. Pond rimase seduto in uno stato di profonda riflessione. Dopo
 
-qualche minuto si [[Rose|alzò]] e si diresse verso il tavolo dove il suo
+qualche minuto si [[motifs/rose|alzò]] e si diresse verso il tavolo dove il suo
 
 amico libraio, l'eccellente Huss, sedeva ancora in
 
@@ -21514,13 +21514,13 @@ e salutando come un esercito; e un grande grido, che pareva scuotere i
 
 lampioni e gli alberelli, si levò per l'unico uomo rimasto
 
-fedele allo straccio rosso. M. Louis si [[Rose|alzò]] e s'inchinò gravemente alla
+fedele allo straccio rosso. M. Louis si [[motifs/rose|alzò]] e s'inchinò gravemente alla
 
 folla che applaudiva. Mr. Pond si sedette di fronte al suo amico
 
 libraio e ne scrutò con interesse il volto baffuto.
 
-«[[Well|Bene]]», disse Mr. Pond, «il nostro amico laggiù sembra poter
+«[[motifs/well|Bene]]», disse Mr. Pond, «il nostro amico laggiù sembra poter
 
 diventare presto il capo del partito rivoluzionario».
 
@@ -21542,7 +21542,7 @@ con la protesta del proletariato né con l'attuale fase del
 
 capitalismo».
 
-«Oh», disse Mr. Pond; e una comprensione cominciò ad [[Dawn|albeggiare]] nei suoi
+«Oh», disse Mr. Pond; e una comprensione cominciò ad [[motifs/dawn|albeggiare]] nei suoi
 
 occhi. Dopo un momento disse: «Mi scuso sinceramente, vecchio
 
@@ -21558,7 +21558,7 @@ setta parla la propria lingua. Si capisce che un uomo è buddista
 
 dal modo in cui dice di non essere buddista. Non sono affari
 
-miei; e non ne farò parola con [[Soul|anima]] viva, se preferisce. Mi sono soltanto
+miei; e non ne farò parola con [[motifs/soul|anima]] viva, se preferisce. Mi sono soltanto
 
 permesso di dire che l'uomo laggiù sembra essere molto popolare
 
@@ -21572,9 +21572,9 @@ un movimento scientifico. Non siamo morali. Abbiamo chiuso con le
 
 ideologie borghesi del bene e del male. Noi siamo Realpolitik. Ciò che
 
-aiuta il programma di Marx è [[Alone|solo]] bene. Ciò che ostacola il programma
+aiuta il programma di Marx è solo bene. Ciò che ostacola il programma
 
-di Marx è [[Alone|solo]] male. Ma ci sono limiti. Ci sono nomi così
+di Marx è solo male. Ma ci sono limiti. Ci sono nomi così
 
 infami, ci sono persone così infami, che devono sempre essere
 
@@ -21605,7 +21605,7 @@ rivoluzioni non solo in questo paese ma decisamente in questa
 <span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_02" data-title="MrPond — Louis; and shouted as if on parade: (part 2)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt" data-tags="motif/memory,motif/night,motif/storm,motif/time,motif/well,concept/doubt,concept/fear,concept/paradox,concept/truth,form/comedy"></span>
 
 
-capital.  [[Well]], our friend in the white hat seems to me to be
+capital.  [[motifs/well|Well]], our friend in the white hat seems to me to be
 
 rather an old hand."
 
@@ -21631,7 +21631,7 @@ Mr. Huss stiffened and sat as still as a stone idol; but the change
 
 in the face of the graven image was appalling.  It suggested some
 
-[[nightmare]] story of a man at a solitary table finding he was dining
+nightmare story of a man at a solitary table finding he was dining
 
 with a devil.
 
@@ -21645,7 +21645,7 @@ laughter, like the dismal noises of an owl, shrill and monotonous
 
 and apparently to be repeated indefinitely without control.
 
-"[[Well]]," interrupted Pond, mildly exasperated, "how can you possibly
+"[[motifs/well|Well]]," interrupted Pond, mildly exasperated, "how can you possibly
 
 know that he is not Tarnowski?"
 
@@ -21671,7 +21671,7 @@ it."
 
 "That," observed the other with guttural slowness, "is what I think
 
-you call a [[Paradox|paradox]]."
+you call a [[concepts/paradox|paradox]]."
 
 "Oh, don't say that," groaned Mr. Pond.  "Everybody in England says
 
@@ -21697,7 +21697,7 @@ black, bloodshot with the glimpses of the Bolshevist journal.  In
 
 the social sense at least, there seemed to be a clearance in the
 
-[[Storm|storm]], of the strikers if not the strike; the threat of riots had
+[[motifs/storm|storm]], of the strikers if not the strike; the threat of riots had
 
 been outmanoeuvred; and the police were picketed at intervals down
 
@@ -21725,17 +21725,17 @@ him in a merely nonsensical manner, as if they had been dolls or
 
 dummies in some delightful puppet-play; their cocked hats carrying
 
-a vague [[Memory|memory]] of the beadle in a Punch-and-Judy show.  Through all
+a vague [[motifs/memory|memory]] of the beadle in a Punch-and-Judy show.  Through all
 
-this coloured [[Comedy|comedy]] there advanced the rigid figure of M. Marcus,
+this coloured [[forms/comedy|comedy]] there advanced the rigid figure of M. Marcus,
 
 with a visage which announced vividly that that political Puritan
 
 did not believe in puppet-shows.
 
-"[[Well]]," he said, glaring at Pond with a sort of controlled rage, "I
+"[[motifs/well|Well]]," he said, glaring at Pond with a sort of controlled rage, "I
 
-fancy I can guess the [[Truth|truth]] about HIM."
+fancy I can guess the [[concepts/truth|truth]] about HIM."
 
 Pond made polite inquiries; and was answered by an unexpectedly
 
@@ -21751,19 +21751,19 @@ What holy Father of the Poor?  Deported!  That sort of fellow ought
 
 to be hanged."
 
-"I [[Fear|fear]] I do not understand anything yet," answered Pond mildly,
+"I [[concepts/fear|fear]] I do not understand anything yet," answered Pond mildly,
 
 "except that for some reason he cannot even be deported."
 
 "Looks very patriarchal, doesn't he, sitting in the sunshine and
 
-playing with the children?  It was darker last [[Night|night]] and I caught
+playing with the children?  It was darker last [[motifs/night|night]] and I caught
 
 him in a darker piece of business. . . .  Listen to this, first of
 
 all.  It was at the end of dusk, yesterday evening; and but for
 
-myself, he was [[Alone|alone]] in the café; I don't think he saw me; but I
+myself, he was alone in the café; I don't think he saw me; but I
 
 don't know if he would care.  There drove up a dark, closely
 
@@ -21791,13 +21791,13 @@ because he's a blackmailer.  You also mean he can't be arrested
 
 because he's a blackmailer."
 
-For the first [[Time|time]] the rage of Marcus seemed mixed with a sort of
+For the first [[motifs/time|time]] the rage of Marcus seemed mixed with a sort of
 
 embarrassment, almost amounting to shame, as he looked down
 
 scowling at the table.
 
-"It has no [[Doubt|doubt]] occurred to you," proceeded Pond placidly, "that
+"It has no [[concepts/doubt|doubt]] occurred to you," proceeded Pond placidly, "that
 
 the second inference involves some suggestions that are rather
 
@@ -21816,21 +21816,21 @@ Mormorando: “Mai, mai diventerà il capo.”
 
 Una sorta di abitudine tipica della vecchia leadership… una sorta di gesto che rifletteva quella mentalità.
 
-# Autorità… Non sta forse agendo esattamente come Tarnowski il Tigre?
+Autorità… Non sta forse agendo esattamente come Tarnowski il Tigre?
 
 “Probabilmente continuerebbe, ”
 
-#Il signor Pond forse sperava di sorprendere il libraio; ma…
+Il signor Pond forse sperava di sorprendere il libraio; ma…
 
-#Il signor Pond che ricevette la sorpresa… L’effetto su quel libraio
+Il signor Pond che ricevette la sorpresa… L’effetto su quel libraio
 
 Talmente che “sorpresa” sarebbe una descrizione comicamente inadeguata.
 
 Il signor Huss si irrigidì e rimase seduto immobile come una statua di pietra; ma quel cambiamento…
 
-# Davanti all’immagine scolpita, la scena era agghiacciante… suggeriva qualcosa di terribile.
+Davanti all’immagine scolpita, la scena era agghiacciante… suggeriva qualcosa di terribile.
 
-Una storia da [[nightmare|incubo]] di un uomo seduto a un tavolo solitario che si rende conto di essere a cena.
+Una storia da incubo di un uomo seduto a un tavolo solitario che si rende conto di essere a cena.
 
 Con grande sforzo.
 
@@ -21840,7 +21840,7 @@ Con grande sforzo.
 
 Il libraio con il cappello a cilindro all’improvviso scoppiò in risate vuote e stridule.
 
-# Risate, simili ai cupi suoni di una civetta: stridule e monotone
+Risate, simili ai cupi suoni di una civetta: stridule e monotone
 
 E apparentemente tale processo può ripetersi all’infinito, senza alcun controllo.
 
@@ -21860,7 +21860,7 @@ Sobrietà. “Dici di non essere una spia… Ma potresti comunque tradirmi.”
 
 Chiacchierone e viaggiatore… ma che non racconta storie da viaggio. Inoltre…
 
-#Devo un debito alla Vostra Eccellenza, per aver illuminato la mia mente
+Devo un debito alla Vostra Eccellenza, per aver illuminato la mia mente
 
 Con un principio importante… Non l’avevo mai visto così chiaramente prima d’ora. A
 
@@ -21870,7 +21870,7 @@ it."
 
 “Quello,” osservò l’altro con una voce rauca e lenta, “è esattamente ciò che penso.”
 
-Lo chiami un [[Paradox|paradosso]].
+Lo chiami un [[concepts/paradox|paradosso]].
 
 “Oh, non dite così,” gemette il signor Pond. “Tutti in Inghilterra lo dicono…”
 
@@ -21878,45 +21878,45 @@ Quello. Onestamente, non ho la minima idea di cosa significhi.
 
 “Ma in quel caso,” si disse il signor Pond, “chi diavolo è allora…”
 
-#L’uomo col cappello bianco… Quale crimine ha commesso? Qual è il crimine che…
+L’uomo col cappello bianco… Quale crimine ha commesso? Qual è il crimine che…
 
 Per quale reato potrebbe essere arrestato o deportato? O ancora, quale crimine…
 
 È per questo che non può essere arrestato o deportato?
 
-#In una splendida giornata di sole, la mattina seguente…
+In una splendida giornata di sole, la mattina seguente…
 
 “Quel laghetto… seduto al suo piccolo tavolo nel caffè, rifletteva…”
 
-#Rinnovate difficoltà del problema… Il sole emanava una sorta di luce dorata.
+Rinnovate difficoltà del problema… Il sole emanava una sorta di luce dorata.
 
 Una nota di allegria in una scena che poco prima sembrava piuttosto cupa… e anche di più.
 
 “Negro, con gli occhi rossi per aver letto quei giornali bolscevichi…”.
 
-#Il senso sociale, almeno… sembrava esserci una chiarezza in questo ambito.
+Il senso sociale, almeno… sembrava esserci una chiarezza in questo ambito.
 
-La [[Storm|tempesta]] dei lavoratori, se non lo stesso sciopero; la minaccia di rivolte era reale.
+La [[motifs/storm|tempesta]] dei lavoratori, se non lo stesso sciopero; la minaccia di rivolte era reale.
 
-#Sconfitti in un gioco di strategie; e la polizia veniva bloccata a intervalli lungo il percorso
+Sconfitti in un gioco di strategie; e la polizia veniva bloccata a intervalli lungo il percorso
 
-#La strada; ma sotto il tranquillo sole sembrava innocua quanto…
+La strada; ma sotto il tranquillo sole sembrava innocua quanto…
 
 “Alberelli di plastica e lampioni dipinti… Il signor Pond provava un sentimento irrazionale.”
 
-#Il ritorno di quella vaga eccitazione che talvolta prova un inglese
+Il ritorno di quella vaga eccitazione che talvolta prova un inglese
 
 Il semplice fatto di trovarsi all’estero già suscita certe sensazioni… Il profumo della Francia, in particolare.
 
 Il caffè lo influenzava, proprio come alcuni sono colpiti dall’odore dei campi di fieno.
 
-# O il mare… Monsieur Louis aveva ripreso il suo piacevole passatempo di distribuire…
+O il mare… Monsieur Louis aveva ripreso il suo piacevole passatempo di distribuire…
 
 “Zucchero per i bambini… e la forma stessa di quei blocchi oblunghi…”
 
 “La zucchera di barbabietola soddisfece il signor Pond nello stesso modo… Lui aveva una visione un po’ vaga…”
 
-#Sentendo di essere lì a osservare quella scena con gli occhi di uno di loro
+Sentendo di essere lì a osservare quella scena con gli occhi di uno di loro
 
 I bambini… Anche i gendarmi di guardia lungo il marciapiede si divertivano.
 
@@ -21925,9 +21925,9 @@ Lo trattavano in modo del tutto assurdo, come se fossero stati delle bambole…
 Titolo:  
 “Bambocci in una deliziosa commedia di marionette; i loro cappelli inclinati…”
 
-Un vago [[Memory|ricordo]] del chierichino in uno spettacolo di “Punch and Judy”. Attraverso tutto.
+Un vago [[motifs/memory|ricordo]] del chierichino in uno spettacolo di “Punch and Judy”. Attraverso tutto.
 
-Quest’[[Comedy|commedia]] a colori metteva in risalto la figura rigida del signor Marcus.
+Quest’[[forms/comedy|commedia]] a colori metteva in risalto la figura rigida del signor Marcus.
 
 Titolo:  
 Con un volto che dichiarava chiaramente che quel puritano politico…
@@ -21936,19 +21936,19 @@ Non credeva nelle marionette.
 
 “Beh,” disse, fissando Pond con una rabbia controllata, “io, ”
 
-Immagino di poter indovinare la [[Truth|verità]] su DI LUI.
+Immagino di poter indovinare la [[concepts/truth|verità]] su DI LUI.
 
-#Domande educate… e risposte inaspettate
+Domande educate… e risposte inaspettate
 
 Una risata brutta e derisoria.
 
 “Che tipo di uomo è,” chiese Marcus, “quello che viene accolto ovunque…”
 
-#Con inchini e sorrisi… A chi è che tutti sono sempre così gentili?
+Con inchini e sorrisi… A chi è che tutti sono sempre così gentili?
 
 Cortese e lusinghiero. Che generoso Amico del Popolo!
 
-#Che santo Padre dei Poveri… Deportato! Un tipo del genere meriterebbe davvero…
+Che santo Padre dei Poveri… Deportato! Un tipo del genere meriterebbe davvero…
 
 “Per essere impiccato.”
 
@@ -21958,44 +21958,44 @@ Cortese e lusinghiero. Che generoso Amico del Popolo!
 
 “Sembra davvero un ambiente patriarcale, non trovi? Lui, lì seduto al sole…”
 
-Giocare con i bambini? La scorsa [[Night|notte]] faceva più buio e io l’ho visto.
+Giocare con i bambini? La scorsa [[motifs/night|notte]] faceva più buio e io l’ho visto.
 
-#In un affare ancora più oscuro… Ascolta prima di tutto questo.
+In un affare ancora più oscuro… Ascolta prima di tutto questo.
 
 Titolo:  
 Tutto accadde alla fine del crepuscolo, ieri sera… se non fosse stato per…
 
-Io stesso. Lui era [[Alone|sicuro]] da solo nel caffè; non credo che mi abbia visto. Ma io.
+Io stesso. Lui era sicuro da solo nel caffè; non credo che mi abbia visto. Ma io.
 
-# Non so se gli importerebbe… Arrivò una macchina scura, dall’aspetto insolito…
+Non so se gli importerebbe… Arrivò una macchina scura, dall’aspetto insolito…
 
 Carrozza con tende; e quella signora che avevamo visto una volta prima ne scese…
 
 “Una signora davvero nobile, ne sono sicuro… anche se immagino che non sia così ricca come lei.”
 
-#Incontrata. Ha avuto un colloquio con quest’uomo, durante il quale…
+Incontrata. Ha avuto un colloquio con quest’uomo, durante il quale…
 
-# Si inginocchiò davanti a lui sul selciato fangoso, pregandolo di…
+Si inginocchiò davanti a lui sul selciato fangoso, pregandolo di…
 
 Qual tipo di uomo è… che se ne stava semplicemente lì seduto e sorrideva?
 
-#Colui che vede le donne prosternarsi davanti a sé e si limita a sorridere…
+Colui che vede le donne prosternarsi davanti a sé e si limita a sorridere…
 
-#Un uomo che non si toglie nemmeno il cappello… Che tipo di persona è?
+Un uomo che non si toglie nemmeno il cappello… Che tipo di persona è?
 
-#Chi può interpretare il ruolo del Sultano nella società e essere certo che tutti lo accettino senza obiezioni?
+Chi può interpretare il ruolo del Sultano nella società e essere certo che tutti lo accettino senza obiezioni?
 
 Sorridere e essere gentili? Solo i tipi di criminali più meschini lo fanno.
 
 “In parole povere,” disse il signor Pond, “volete dire che dovrebbe essere arrestato.”
 
-# Perché è un estorsore… E significa anche che non può essere arrestato.
+Perché è un estorsore… E significa anche che non può essere arrestato.
 
 Perché è un estorsore.
 
-Per la prima [[Time|volta]], la rabbia di Marcus sembrava mescolarsi con una sorta di.
+Per la prima [[motifs/time|volta]], la rabbia di Marcus sembrava mescolarsi con una sorta di.
 
-# Imbarazzo, quasi vergogna, mentre guardava in basso
+Imbarazzo, quasi vergogna, mentre guardava in basso
 
 Con il viso corrugato, seduto al tavolo.
 
@@ -22010,7 +22010,7 @@ La seconda inferenza contiene alcune suggerimenti piuttosto…
 
 delicate; especially if I may say so, for a man in your position."
 
-Marcus remained in a [[Silence|silence]] swollen with anger; then at last he
+Marcus remained in a [[motifs/silence|silence]] swollen with anger; then at last he
 
 broke out abruptly, as if beyond control:  "I'll swear the Prime
 
@@ -22036,9 +22036,9 @@ saying:  "Oh, you don't understand."
 
 "On the contrary," replied Pond.  "I think I do understand."
 
-There was a lengthy [[Silence|silence]] and then Pond resumed:
+There was a lengthy [[motifs/silence|silence]] and then Pond resumed:
 
-"I understand the horrid [[Truth|truth]] that you yourself are a perfectly
+"I understand the horrid [[concepts/truth|truth]] that you yourself are a perfectly
 
 honourable and high-minded person and that your own problem is
 
@@ -22064,7 +22064,7 @@ a man sympathizing with the strikers, or even being a sincere
 
 Socialist?"
 
-"[[Well]]," replied Marcus, after a spasm of concentration, "I suppose
+"[[motifs/well|Well]]," replied Marcus, after a spasm of concentration, "I suppose
 
 one ought to imagine.  I suppose he might hold that, the Republic
 
@@ -22076,7 +22076,7 @@ contracts."
 
 I wanted.  It is an important contribution to Pond's Law of
 
-[[Paradox]], if I may be pardoned for expressing myself so playfully.
+[[concepts/paradox|Paradox]], if I may be pardoned for expressing myself so playfully.
 
 And now let us go and talk to M. Louis."
 
@@ -22088,7 +22088,7 @@ Some vivacious and talkative young men were taking leave of M.
 
 Louis, who courteously invited the newcomers to the empty chairs,
 
-saying something about "my young friends often enliven my [[Solitude|solitude]]
+saying something about "my young friends often enliven my [[concepts/solitude|solitude]]
 
 with their rather Socialistic views."
 
@@ -22106,7 +22106,7 @@ pretend that a bargain between a starving man and a man with all
 
 the food is anything but a leonine contract."  He glanced up at the
 
-[[Fire|fire]]-escape, a ladder leading up to the balcony of a very high
+[[motifs/fire|fire]]-escape, a ladder leading up to the balcony of a very high
 
 attic above.  "I live in that garret; or rather on that balcony.
 
@@ -22122,7 +22122,7 @@ for his hundred million.  Hell, indeed, is not out of the picture;
 
 for it is a sin of injustice to force an advantage against the
 
-desperate.  [[Well]], all those poor men are desperate; they all hang
+desperate.  [[motifs/well|Well]], all those poor men are desperate; they all hang
 
 starving on spikes.  If they must not bargain collectively, they
 
@@ -22136,9 +22136,9 @@ Pond's eye followed it and found the balcony fitted out with what
 
 looked like a bedstead, a screen, and an old looking-glass, all
 
-very shabby.  The only other object was a dusty old [[Cross|cross]]-hilted
+very shabby.  The only other object was a dusty old [[motifs/cross|cross]]-hilted
 
-[[Sword|sword]], such as might have come from a curiosity shop.  Mr. Pond
+sword, such as might have come from a curiosity shop.  Mr. Pond
 
 eyed this last object with considerable curiosity.
 
@@ -22166,15 +22166,15 @@ meant anything, could only mean that the policeman himself had
 
 turned for an instant and fired.
 
-"A little reminder, perhaps, that it is [[Time|time]] to go to bed," said M.
+"A little reminder, perhaps, that it is [[motifs/time|time]] to go to bed," said M.
 
-Louis gaily.  "I go up by the [[Fire|fire]]-escape and I [[Sleep|sleep]] on the
+Louis gaily.  "I go up by the [[motifs/fire|fire]]-escape and I [[motifs/sleep|sleep]] on the
 
-balcony.  Doctors think so much of this open-air treatment.  [[Well]],
+balcony.  Doctors think so much of this open-air treatment.  [[motifs/well|Well]],
 
 my people have always gone to bed in public; so many tramps do,
 
-don't they?  Good [[Night|night]], gentlemen."
+don't they?  Good [[motifs/night|night]], gentlemen."
 
 He lightly scaled the iron ladder and began on the balcony, before
 
@@ -22182,7 +22182,7 @@ their astonished eyes, to assume a capacious dressing-gown and
 
 prepare for slumber.
 
-"Pond," said Marcus, "we are in a [[nightmare]] of nonsense."
+"Pond," said Marcus, "we are in a nightmare of nonsense."
 
 "No," replied Pond, "for the first lime it begins to make sense.  I
 
@@ -22196,7 +22196,7 @@ I think I have discovered a rather useful principle.  It is this.
 
 Men may argue FOR principles not entirely their own, for various
 
-reasons; as a joke in a rag [[debate]], or covered by professional
+reasons; as a joke in a rag debate, or covered by professional
 
 etiquette, like a barrister, or merely exaggerating something
 
@@ -22209,7 +22209,7 @@ it hypocritically or for hire.  A man can argue FOR principles not
 
 Delicate. Soprattutto, se posso permettermi di dirlo, per un uomo nella tua posizione.
 
-Marco rimase in un [[Silence|silenzio]] pieno di rabbia; poi, finalmente, disse.
+Marco rimase in un [[motifs/silence|silenzio]] pieno di rabbia; poi, finalmente, disse.
 
 Scattò all’improvviso, come se fosse fuori controllo: “Giuro sulla vita del Primo…”
 
@@ -22229,21 +22229,21 @@ Proprio in mezzo a tutto questo…
 
 “Tutto questo, cosa significa?” chiese il signor Pond.
 
-# Marcus ruotò sulla sedia con un gesto brusco del gomito.
+Marcus ruotò sulla sedia con un gesto brusco del gomito.
 
 dicendo: “Oh, non capisci.”
 
 “Al contrario,” rispose Pond. “Penso di capire.”
 
-Ci fu un lungo [[Silence|silenzio]], poi Pond riprese a parlare:
+Ci fu un lungo [[motifs/silence|silenzio]], poi Pond riprese a parlare:
 
-“Capisco quella terribile [[Truth|verità]] secondo cui tu stesso sei perfettamente, ”
+“Capisco quella terribile [[concepts/truth|verità]] secondo cui tu stesso sei perfettamente, ”
 
-# Persona onorabile e di nobili principi… e il tuo stesso problema è…
+Persona onorabile e di nobili principi… e il tuo stesso problema è…
 
-# Estremamente difficile da risolvere… Vi assicuro che sono davvero molto preoccupato.
+Estremamente difficile da risolvere… Vi assicuro che sono davvero molto preoccupato.
 
-# Incapace di prenderti in giro con quella cosa… Era rivolto alla Repubblica, alla…
+Incapace di prenderti in giro con quella cosa… Era rivolto alla Repubblica, alla…
 
 L’ideale di uguaglianza e giustizia, verso cui hai giurato lealtà… e per quel principio.
 
@@ -22251,7 +22251,7 @@ Sei stato leale.
 
 “Meglio che dici quello che pensi,” disse Marcus con tono cupo. “Tu…”
 
-# Servo solo una banda di furfanti…
+Servo solo una banda di furfanti…
 
 Quel farabutto può ricattare.
 
@@ -22273,13 +22273,13 @@ Basandosi sul Contratto Sociale, potrebbe persino sostituire la libertà stessa.
 
 “Grazie,” disse il signor Pond con soddisfazione, “esattamente quello che volevo.”
 
-#Volevo… Un importante contributo alla legge di Pond
+Volevo… Un importante contributo alla legge di Pond
 
-[[Paradox|Paradosso]], se mi si perdona di esprimermi in questo modo scherzoso.
+[[concepts/paradox|Paradosso]], se mi si perdona di esprimermi in questo modo scherzoso.
 
 E ora andiamo a parlare con il signor Louis.
 
-#Si alzò di fronte all’ufficiale stupito, che non sembrava comprendere nulla
+Si alzò di fronte all’ufficiale stupito, che non sembrava comprendere nulla
 
 Un'altra opzione sarebbe stata seguirlo mentre attraversava rapidamente il caffè.
 
@@ -22287,7 +22287,7 @@ Alcuni giovani vivaci e loquaci stavano salutando il signor.
 
 “Louis, che con gentilezza invitò i nuovi arrivati ad accomodarsi sulle sedie vuote…”
 
-Dicendo qualcosa del tipo: “I miei giovani amici spesso rendono più vivace la mia [[Solitude|solitudine]]”.
+Dicendo qualcosa del tipo: “I miei giovani amici spesso rendono più vivace la mia [[concepts/solitude|solitudine]]”.
 
 Con le loro idee piuttosto socialiste.
 
@@ -22301,15 +22301,15 @@ Sono così all’antica da credere nel contratto libero.
 
 “Un contratto ‘leonino’ non è un contratto libero… E rappresenta una forma di ipocrisia.”
 
-#Fingi che ci sia una trattativa tra un uomo affamato e uno che ha tutto
+Fingi che ci sia una trattativa tra un uomo affamato e uno che ha tutto
 
 “Il cibo non ha nulla a che vedere con un contratto oneroso…” Alzò lo sguardo verso…
 
-Una scala per la fuga dal [[Fire|fuoco]], che conduceva al balcone di un edificio molto alto.
+Una scala per la fuga dal [[motifs/fire|fuoco]], che conduceva al balcone di un edificio molto alto.
 
 Attico sopra. “Vivo in quel seminterrato, o meglio, su quel balcone.”
 
-# Se cadessi dal balcone e mi aggrappassi a una spina, così lontano…
+Se cadessi dal balcone e mi aggrappassi a una spina, così lontano…
 
 Titolo:  
 “Passi che qualcuno munito di scala potrebbe intraprendere per salvarmi, se…”
@@ -22320,7 +22320,7 @@ Giustificato nell’uso della sua scala… e poi mandarlo all’inferno.
 
 “Per i suoi cento milioni… Davvero, l’inferno non è ancora fuori dalla scena.”
 
-#Un peccato di ingiustizia è costringere qualcuno ad avere un vantaggio a scapito degli altri
+Un peccato di ingiustizia è costringere qualcuno ad avere un vantaggio a scapito degli altri
 
 Disperati. Beh, tutti quegli uomini poveri sono disperati; tutti si impiccano.
 
@@ -22338,7 +22338,7 @@ Sembrava un letto, una tenda e uno specchio vecchio… tutto insieme.
 
 Molto logoro. L’unico altro oggetto presente era un vecchio e polveroso pomo di croce.
 
-Una [[Sword|spada]], del tipo che si potrebbe trovare in una bottega di curiosità. Il signor Pond.
+Una spada, del tipo che si potrebbe trovare in una bottega di curiosità. Il signor Pond.
 
 Guardò quest’ultimo oggetto con notevole curiosità.
 
@@ -22348,7 +22348,7 @@ Guardò quest’ultimo oggetto con notevole curiosità.
 
 “Piccola benedettina.”
 
-# Quando si girò sulla sedia verso il cameriere, risuonò un colpo di arma da fuoco
+Quando si girò sulla sedia verso il cameriere, risuonò un colpo di arma da fuoco
 
 Il caffè e il piccolo bicchiere davanti a lui formavano una sorta di “stella”.
 
@@ -22356,25 +22356,25 @@ Schegge… La pallottola che aveva rovesciato il liquido aveva mancato la person
 
 Di mezzo metro… Marcus guardò intorno disperatamente; il caffè era deserto.
 
-# Ormai era tardi; non si vedeva nessuna figura, solo la schiena solida…
+Ormai era tardi; non si vedeva nessuna figura, solo la schiena solida…
 
 Il gendarme fermo fuori… Ma Marcus impallidì.
 
-# Orrore… perché il signor Louis fece un gesto strano e curioso che, se…
+Orrore… perché il signor Louis fece un gesto strano e curioso che, se…
 
-# Non aveva alcun significato… Poteva significare soltanto che il poliziotto stesso…
+Non aveva alcun significato… Poteva significare soltanto che il poliziotto stesso…
 
 Si girò per un istante e sparò.
 
-“Forse è il caso di ricordare che è già [[Time|ora]] di andare a letto,” disse il signore.
+“Forse è il caso di ricordare che è già [[motifs/time|ora]] di andare a letto,” disse il signore.
 
 Louis disse allegramente: “Salgo dalla scala di emergenza e poi dormo lì sopra.”
 
-Balcone. I medici apprezzano molto questo tipo di trattamento all’aperto. [[Well|Beh]].
+Balcone. I medici apprezzano molto questo tipo di trattamento all’aperto. [[motifs/well|Beh]].
 
 “Il mio popolo ha sempre dormito in pubblico… Lo fanno molti senzatetto.”
 
-Non è così? Buona [[Night|notte]], signori.”
+Non è così? Buona [[motifs/night|notte]], signori.”
 
 Salì con facilità la scala di ferro e si avviò verso il balcone…
 
@@ -22382,11 +22382,11 @@ Con gli occhi sbalorditi di tutti, indossò un ampio pigiama…
 
 Prepararsi per il sonno.
 
-“Pond,” disse Marcus, “siamo immersi in un [[nightmare|incubo]] di assurdità.”
+“Pond,” disse Marcus, “siamo immersi in un incubo di assurdità.”
 
 “No,” rispose Pond, “per la prima volta ha iniziato ad avere senso.”
 
-#Ho commesso degli errori; ma finalmente inizio a capire cosa significhi tutto questo.
+Ho commesso degli errori; ma finalmente inizio a capire cosa significhi tutto questo.
 
 “Significa…” Dopo aver riflettuto per un momento, riprese parlando con una certa scusa:
 
@@ -22396,13 +22396,13 @@ Credo di aver scoperto un principio piuttosto utile. Ed è questo.
 
 Uomini possono sostenere principi che non sono del tutto i loro, per motivi diversi…
 
-Motivi vari: come scherzo durante una [[debate|debatte]], o per motivi professionali.
+Motivi vari: come scherzo durante una debatte, o per motivi professionali.
 
-# Etichetta: come un avvocato… o forse solo un’esagerazione?
+Etichetta: come un avvocato… o forse solo un’esagerazione?
 
 Titolo: Tralasciato e che richiede attenzione… molto prima di parlare di coloro che lo fanno davvero.
 
-# In modo ipocrita o per denaro… Un uomo può difendere i propri principi, ma non sempre con sincerità.
+In modo ipocrita o per denaro… Un uomo può difendere i propri principi, ma non sempre con sincerità.
 
 
 
@@ -22437,7 +22437,7 @@ Leo XIII.  Therefore, he represents something even older than your
 
 Rousseau and your Revolution.  I knew after five words that he was
 
-not the blackmailing blackguard of [[Romance|romance]]; and yet he is romantic.
+not the blackmailing blackguard of romance; and yet he is romantic.
 
 And he could be legally arrested; but only for a rather curious
 
@@ -22451,7 +22451,7 @@ him in the street.  You argued truly that ladies in your country
 
 think so much of formality and propriety, that they could never do
 
-this except in some extreme of agony and [[Despair|despair]].  It did not occur
+this except in some extreme of agony and [[concepts/despair|despair]].  It did not occur
 
 to you that, perhaps, it might be only an extreme of formality and
 
@@ -22459,19 +22459,19 @@ propriety."
 
 Marcus began slowly:  "What the devil--"  And then Mr. Pond rapped
 
-out quite smartly:  "And then the [[Sword|sword]].  What is a [[Sword|sword]] FOR?
+out quite smartly:  "And then the sword.  What is a sword FOR?
 
-It's absurd to say for fighting; he wouldn't wave a mediæval [[Sword|sword]]
+It's absurd to say for fighting; he wouldn't wave a mediæval sword
 
 against people shooting him with guns.  If it were for duels he
 
-would have a duelling-[[Sword|sword]]; and probably two in a case.  What else
+would have a duelling-sword; and probably two in a case.  What else
 
-can you do with a [[Sword|sword]]?  [[Well]], you can [[Swallow|swallow]] it; and at one [[Time|time]]
+can you do with a sword?  [[motifs/well|Well]], you can [[motifs/swallow|swallow]] it; and at one [[motifs/time|time]]
 
 I really had a fancy he might be a conjurer.  But it's too big a
 
-[[Swallow|swallow]]; so is the notion.  What CAN be done with a [[Sword|sword]], but not
+[[motifs/swallow|swallow]]; so is the notion.  What CAN be done with a sword, but not
 
 with a spear or gun or battle-axe?  Have you heard of the Accolade?
 
@@ -22481,11 +22481,11 @@ custom it can only be done--"
 
 "Only--" began Marcus, beginning to stare.
 
-"Only by a [[King]]," said Pond.  And the young Republican sprang up
+"Only by a [[archetypes/king|King]]," said Pond.  And the young Republican sprang up
 
 rigid at the challenge.
 
-"Yes," continued Pond, "the [[King]] has crept back among you.  It is
+"Yes," continued Pond, "the [[archetypes/king|King]] has crept back among you.  It is
 
 not your fault.  Republics might be all right if Republicans were
 
@@ -22495,7 +22495,7 @@ not . . . and that's what he meant about going to bed in public.
 
 You know the old kings really did.  But he had another reason.  He
 
-had one real [[Fear|fear]]; that they might deport him secretly.  They could
+had one real [[concepts/fear|fear]]; that they might deport him secretly.  They could
 
 deport him technically, of course; all these Republics have laws
 
@@ -22519,15 +22519,15 @@ could they say:  'Yes, he is popular, he is on the side of the
 
 people and the poor; the young men accept his leadership; but he is
 
-the [[King]] and therefore he must go'?  They know how horribly near
+the [[archetypes/king|King]] and therefore he must go'?  They know how horribly near
 
-the world is to answering:  'Yes; he is the [[King]] and, by God, he
+the world is to answering:  'Yes; he is the [[archetypes/king|King]] and, by God, he
 
 shall stay.'"
 
 Mr. Pond had told this story, at somewhat greater length but in far
 
-more classic diction; and by that [[Time|time]] had actually finished the
+more classic diction; and by that [[motifs/time|time]] had actually finished the
 
 oysters.  He gazed pensively at the shells and added:  "You will of
 
@@ -22541,7 +22541,7 @@ case he should have been exiled for being important; but he was so
 
 very important that nobody could be told of his importance."
 
-RING OF [[lovers|LOVERS]]
+RING OF LOVERS
 
 "As I said before," observed Mr. Pond, towards the end of one of
 
@@ -22555,7 +22555,7 @@ Captain Gahagan waved a gloved hand as in courteous acknowledgement
 
 of anything anybody liked to say; he had an especially flamboyant
 
-flower in his coat and looked unusually gay.  But Sir [[Hubert]]
+flower in his coat and looked unusually gay.  But Sir [[characters/hubert|Hubert]]
 
 Wotton, the third party at the little conference, sat up.  For he
 
@@ -22563,7 +22563,7 @@ followed the flow of words with tireless, intelligent attention,
 
 while Gahagan, though radiant, seemed rather abstracted; and these
 
-abrupt absurdities always brought Sir [[Hubert]] up standing.
+abrupt absurdities always brought Sir [[characters/hubert|Hubert]] up standing.
 
 "Say that again," he said, not without sarcasm.
 
@@ -22579,13 +22579,13 @@ larger than the last; still less to inform us that each reptile in
 
 turn swallowed the last one whole; and that the last of all was
 
-opening its mouth to [[Swallow|swallow]] the [[Ship|ship]], when he saw it was only a
+opening its mouth to [[motifs/swallow|swallow]] the [[motifs/ship|ship]], when he saw it was only a
 
-yawn after too heavy a meal, and the [[Monster|monster]] suddenly went to
+yawn after too heavy a meal, and the [[archetypes/monster|monster]] suddenly went to
 
-[[Sleep|sleep]].  I will not dwell on the mathematical symmetry with which
+[[motifs/sleep|sleep]].  I will not dwell on the mathematical symmetry with which
 
-snake within snake yawned, and snake within snake went to [[Sleep|sleep]],
+snake within snake yawned, and snake within snake went to [[motifs/sleep|sleep]],
 
 all except the smallest, which had had no dinner and walked out to
 
@@ -22610,7 +22610,7 @@ Si professava borghese, ma parlava come un bolscevico…
 
 Un borghese… Parlava di sfruttamento e di guerra di classe. Quindi…
 
-# Hai provato ad immaginarti un socialista… ma non ne hai mai parlato.
+Hai provato ad immaginarti un socialista… ma non ne hai mai parlato.
 
 Come un socialista… Hai parlato del Contratto Sociale, proprio come gli antichi…
 
@@ -22622,15 +22622,15 @@ Argomento tradizionale fin dai tempi antichi, più antico ancora del Diritto Rom
 
 Il concetto di contratto leonino è antico quanto il stesso Leone… e molto più vecchio ancora.
 
-#Leo XIII: Pertanto, rappresenta qualcosa di ancora più antico del vostro…
+Leo XIII: Pertanto, rappresenta qualcosa di ancora più antico del vostro…
 
-# Rousseau e la tua rivoluzione. Ho capito dopo cinque parole che lui…
+Rousseau e la tua rivoluzione. Ho capito dopo cinque parole che lui…
 
 Non quel farabutto che ricatta nelle storie d’amore. Eppure è romantico.
 
-#E avrebbe potuto essere arrestato legalmente… ma solo per una ragione piuttosto curiosa.
+E avrebbe potuto essere arrestato legalmente… ma solo per una ragione piuttosto curiosa.
 
-#Il criminale che non può essere arrestato
+Il criminale che non può essere arrestato
 
 Assassinato.
 
@@ -22639,9 +22639,9 @@ Titolo:
 
 “Lo hai incontrato per strada… Hai ragionato davvero, riguardo alle donne nel tuo paese…”
 
-# Si preoccupano troppo di formalità e convenzioni, al punto di non riuscire mai a…
+Si preoccupano troppo di formalità e convenzioni, al punto di non riuscire mai a…
 
-Questo, tranne che in alcuni momenti estremi di agonia e [[Despair|disperazione]]; non è mai successo.
+Questo, tranne che in alcuni momenti estremi di agonia e [[concepts/despair|disperazione]]; non è mai successo.
 
 “Per voi, forse, potrebbe trattarsi soltanto di un estremo esempio di formalità…”
 
@@ -22650,35 +22650,35 @@ Questo, tranne che in alcuni momenti estremi di agonia e [[Despair|disperazione]
 Titolo:  
 “Che diavolo…” iniziò lentamente Marcus; poi il signor Pond bussò.
 
-Rispose abbastanza astutamente: “E poi la [[Sword|_spada]]. A cosa serve una [[Sword|_spada]]?”
+Rispose abbastanza astutamente: “E poi la _spada. A cosa serve una _spada?”
 
-È assurdo parlare di combattimento in questo contesto; lui non avrebbe mai brandito una [[Sword|_spada]] medievale.
+È assurdo parlare di combattimento in questo contesto; lui non avrebbe mai brandito una _spada medievale.
 
 “Contro le persone che lo sparano con le armi… Se si trattasse di duelli, invece…”
 
 Avrebbe avuto una spada da duello; e probabilmente anche due, nel peggiore dei casi. Cosa altro.
 
-Puoi fare qualcosa con una [[Sword|_spada]]? Beh, puoi [[Swallow|inghiottirla]]; e in un certo [[Time|momento]].
+Puoi fare qualcosa con una _spada? Beh, puoi [[motifs/swallow|inghiottirla]]; e in un certo [[motifs/time|momento]].
 
-# Pensavo davvero che potesse essere un mago… Ma è troppo grande.
+Pensavo davvero che potesse essere un mago… Ma è troppo grande.
 
-[[Swallow|inghiottire]]; lo stesso vale per questo concetto. Cosa si può fare con una [[Sword|_spada]], ma non.
+[[motifs/swallow|inghiottire]]; lo stesso vale per questo concetto. Cosa si può fare con una _spada, ma non.
 
 Con una lancia, un fucile o un’ascia da battaglia? Hai mai sentito parlare dell’Accolade?
 
-# Molto tempo fa, qualsiasi cavaliere poteva investire un altro uomo nel titolo di cavaliere; ma ai tempi moderni…
+Molto tempo fa, qualsiasi cavaliere poteva investire un altro uomo nel titolo di cavaliere; ma ai tempi moderni…
 
 Personalizzarlo… è l’unica possibilità.
 
 “Solo, ” iniziò a dire Marcus, fissando qualcosa davanti a sé.
 
-“Solo un [[King|Re]] può farlo,” disse Pond. E il giovane repubblicano si alzò in piedi all’istante.
+“Solo un [[archetypes/king|Re]] può farlo,” disse Pond. E il giovane repubblicano si alzò in piedi all’istante.
 
 Rigido di fronte a questa sfida.
 
-“Sì,” continuò Pond, “il [[King|Re]] si è nuovamente insinuato tra di voi. È, ”
+“Sì,” continuò Pond, “il [[archetypes/king|Re]] si è nuovamente insinuato tra di voi. È, ”
 
-# Non è colpa tua… Le repubbliche potrebbero andare bene, se solo i repubblicani fossero…
+Non è colpa tua… Le repubbliche potrebbero andare bene, se solo i repubblicani fossero…
 
 “Per quanto onorevole siate, avete ammesso che lo sono…”
 
@@ -22686,7 +22686,7 @@ No, ed è proprio questo che intendeva quando parlava di andare a letto in pubbl
 
 “Conosci bene quei vecchi re… Ma lui aveva un altro motivo.”
 
-Aveva un vero e proprio [[Fear|timore]]: temeva che potessero deportarlo di nascosto. Avrebbero potuto farlo.
+Aveva un vero e proprio [[concepts/fear|timore]]: temeva che potessero deportarlo di nascosto. Avrebbero potuto farlo.
 
 “Deportarlo, tecnicamente sì… Ovviamente; tutte queste repubbliche hanno leggi in merito.”
 
@@ -22696,43 +22696,43 @@ Contro i pretendenti realisti rimasti nel regno… Ma se lo avessero fatto…
 
 “Perché non lo fanno pubblicamente?” chiese il repubblicano in tono esplosivo.
 
-#"I politici non capiscono molto; ma ciò che capiscono lo sanno utilizzare."
+"I politici non capiscono molto; ma ciò che capiscono lo sanno utilizzare."
 
 “Politica…”, disse Pond in tono pensieroso. “Voglio dire, loro capiscono davvero…”
 
 Effetto immediato sulle folle e sui loro movimenti… In qualche modo, era riuscito a infiltrarsi lì dentro.
 
-#Iniziò una campagna per guadagnarsi popolarità tra il pubblico, prima ancora di rendersene conto
+Iniziò una campagna per guadagnarsi popolarità tra il pubblico, prima ancora di rendersene conto
 
 Chi era… Quando un tempo era popolare, loro erano impotenti. Come…
 
 “Potrebbero davvero dire: ‘Sì, è popolare, sta dalla parte dei…’”
 
-#Gente e poveri: i giovani accettano la sua guida; ma lui…
+Gente e poveri: i giovani accettano la sua guida; ma lui…
 
-Il [[King|Re]], quindi deve andare? Sanno quanto sia terribilmente vicino.
+Il [[archetypes/king|Re]], quindi deve andare? Sanno quanto sia terribilmente vicino.
 
-Il mondo deve rispondere: “Sì; lui è il [[King|Re]] e, per Dio, lo è davvero.”
+Il mondo deve rispondere: “Sì; lui è il [[archetypes/king|Re]] e, per Dio, lo è davvero.”
 
 “Dovrà rimanere.”
 
-#Il signor Pond aveva raccontato questa storia, in modo leggermente più dettagliato… ma comunque…
+Il signor Pond aveva raccontato questa storia, in modo leggermente più dettagliato… ma comunque…
 
-Un lessico più classico; e entro quella [[Time|epoca]] aveva effettivamente terminato il lavoro.
+Un lessico più classico; e entro quella [[motifs/time|epoca]] aveva effettivamente terminato il lavoro.
 
 Ostriche. Le guardò pensierosamente e aggiunse: “Le conserverete, vero?”
 
 Il termine “ostracismo” indica l’atto di escludere qualcuno da una comunità o da un gruppo, spesso attraverso votazioni pubbliche. In antichità, questo sistema ven
 
-#Antica Atene: un uomo veniva talvolta esiliato semplicemente per…
+Antica Atene: un uomo veniva talvolta esiliato semplicemente per…
 
 Importante… e i voti venivano registrati con gusci d’ostrica. In questo…
 
-#In caso fosse stato esiliato per la sua importanza… ma non lo fu.
+In caso fosse stato esiliato per la sua importanza… ma non lo fu.
 
 Era molto importante che nessuno potesse venire a sapere della sua importanza.
 
-Anello degli [[lovers|amanti]]
+Anello degli amanti
 
 “Come ho detto prima,” osservò il signor Pond, verso la fine di uno dei…
 
@@ -22742,19 +22742,19 @@ Un uomo estremamente onesto… ma che racconta bugie inutili e senza motivo. Ma�
 
 Questa stessa onestà…
 
-# Capitano Gahagan agitò una mano guantata in segno di cortese ringraziamento
+Capitano Gahagan agitò una mano guantata in segno di cortese ringraziamento
 
-# Qualsiasi cosa piacesse dire alle persone… Lui era particolarmente esplosivo nel suo modo di esprimersi.
+Qualsiasi cosa piacesse dire alle persone… Lui era particolarmente esplosivo nel suo modo di esprimersi.
 
-Aveva un fiore nel cappotto e sembrava insolitamente felice. Ma Sir [[Hubert]].
+Aveva un fiore nel cappotto e sembrava insolitamente felice. Ma Sir [[characters/hubert|Hubert]].
 
 Wotton, la terza parte presente alla piccola conferenza, si alzò in piedi. Perché…
 
 Seguì il flusso delle parole con un’attenzione instancabile e intelligente.
 
-#Mentre Gahagan, sebbene radioso, sembrava piuttosto assente… e questi…
+Mentre Gahagan, sebbene radioso, sembrava piuttosto assente… e questi…
 
-Le assurdità improvvisate facevano sempre alzare in piedi Sir [[Hubert]].
+Le assurdità improvvisate facevano sempre alzare in piedi Sir [[characters/hubert|Hubert]].
 
 “Ripeti quello che hai detto,” disse lui, non senza sarcasmo.
 
@@ -22764,28 +22764,28 @@ Non racconta mai bugie sciocche e inutili; racconta solo storie sagge e signific
 
 Menti necessarie… Non era affatto necessario che Gahagan ce lo dicesse una volta.
 
-#Che aveva visto non una, ma sei serpenti marini, ognuno di loro…
+Che aveva visto non una, ma sei serpenti marini, ognuno di loro…
 
 Titolo:  
 Più grande del precedente… e ancora meno indicazioni su quale specie di rettile si tratti.
 
 “Turn swallowed the last one whole; and that the last of all was…”
 
-Aprì la bocca per [[Swallow|ingoiare]] la [[Ship|nave]], ma poi vide che in realtà era solo.
+Aprì la bocca per [[motifs/swallow|ingoiare]] la [[motifs/ship|nave]], ma poi vide che in realtà era solo.
 
-Si addormentò dopo un pasto troppo abbondante, e il [[Monster|mostro]] all’improvviso.
+Si addormentò dopo un pasto troppo abbondante, e il [[archetypes/monster|mostro]] all’improvviso.
 
-[[Sleep|dormire]]. Non mi soffermerò sulla simmetria matematica che caratterizza questo fenomeno.
+[[motifs/sleep|dormire]]. Non mi soffermerò sulla simmetria matematica che caratterizza questo fenomeno.
 
-Un serpente dentro un altro serpente sbadigliò, e quel serpente dentro l’altro andò a [[Sleep|)dormire]].
+Un serpente dentro un altro serpente sbadigliò, e quel serpente dentro l’altro andò a [[motifs/sleep|)dormire]].
 
 “Tutti tranne i più piccoli, che non avevano cenato e erano usciti…”
 
-#Cerca qualcosa… Non era necessario, dico, che Gahagan lo spiegasse.
+Cerca qualcosa… Non era necessario, dico, che Gahagan lo spiegasse.
 
-#Questa storia… Non era nemmeno saggio farlo. È molto improbabile che…
+Questa storia… Non era nemmeno saggio farlo. È molto improbabile che…
 
-# Qualcosa che avrebbe potenziato le sue opportunità nel mondo materiale, o gli avrebbe portato qualche recompensa…
+Qualcosa che avrebbe potenziato le sue opportunità nel mondo materiale, o gli avrebbe portato qualche recompensa…
 
 
 
@@ -22820,7 +22820,7 @@ latitudinarian clergyman is but little likely to advance him in his
 
 present profession, or to fit him for his present pursuits.  I
 
-suspect the story was partially a [[Parable|parable]] or [[Allegory|allegory]].  But anyhow,
+suspect the story was partially a [[forms/parable|parable]] or [[forms/allegory|allegory]].  But anyhow,
 
 it was quite unnecessary and it was obviously untrue.  And when a
 
@@ -22834,11 +22834,11 @@ story that really is true?"
 
 "You mean you would think I was still romancing.  But why?"
 
-"Because it would be so very like a [[Romance|romance]]," retorted Wotton.
+"Because it would be so very like a romance," retorted Wotton.
 
 "But don't you think," asked the Captain thoughtfully, "that real
 
-life sometimes is like a [[Romance|romance]]?"
+life sometimes is like a romance?"
 
 "I think," replied Wotton, with a certain genuine shrewdness that
 
@@ -22852,7 +22852,7 @@ this.  Life is artistic in parts, but not as a whole; it's like
 
 broken bits of different works of art.  When everything hangs
 
-together, and it all fits in, we [[Doubt|doubt]].  I might even believe that
+together, and it all fits in, we [[concepts/doubt|doubt]].  I might even believe that
 
 Gahagan saw six sea-serpents; but not that each was larger than the
 
@@ -22860,9 +22860,9 @@ last.  If he'd said there was first a large one and then a little
 
 one and then a larger one, he might have taken us in.  We often say
 
-that one social situation is like being in a [[Novel|novel]]; but it doesn't
+that one social situation is like being in a [[forms/novel|novel]]; but it doesn't
 
-finish like the [[Novel|novel]]--at least, not the same [[Novel|novel]]."
+finish like the [[forms/novel|novel]]--at least, not the same [[forms/novel|novel]]."
 
 "Pond," said Gahagan, "I sometimes think you are inspired, or
 
@@ -22870,15 +22870,15 @@ possessed of a devil in a quiet way.  It's queer you should say
 
 that; because my experience was just like that.  With this
 
-difference; each familiar [[Melodrama|melodrama]] broke off; but only turned to
+difference; each familiar [[forms/melodrama|melodrama]] broke off; but only turned to
 
-blacker [[Melodrama|melodrama]]--or [[Tragedy|tragedy]].  Again and again, in this affair, I
+blacker [[forms/melodrama|melodrama]]--or [[forms/tragedy|tragedy]].  Again and again, in this affair, I
 
 thought I was in a magazine story; and then it turned to quite
 
-another story.  Sort of dissolving view, or a [[nightmare]].
+another story.  Sort of dissolving view, or a nightmare.
 
-Especially a [[nightmare]]."
+Especially a nightmare."
 
 "And why especially?" asked Wotton.
 
@@ -22900,11 +22900,11 @@ morning."
 
 face.  "Congratulations, of course, and all that.  But what has it
 
-to do with the [[nightmare]]?"
+to do with the nightmare?"
 
 "There is a connexion," said Gahagan dreamily.  "But you want the
 
-horrible story and not the happy one.  [[Well]], it was a bit of a
+horrible story and not the happy one.  [[motifs/well|Well]], it was a bit of a
 
 mystery, at least to me; but I understood it at last."
 
@@ -22934,7 +22934,7 @@ way, physical and mental, a 'long-headed' person.  You've heard of
 
 a hatchet-face; his was a hatchet that cut off his own head--or
 
-rather his own [[Body|body]], abolishing the slighter and more insignificant
+rather his own [[concepts/body|body]], abolishing the slighter and more insignificant
 
 figure.  He is an economist and he gave one the impression of being
 
@@ -22944,7 +22944,7 @@ wake of his wonderful wife, that darting swan; and perhaps that was
 
 why he wanted the cooler society of his own sex.  Anyhow, he kept
 
-some of his male guests for a little dinner after the at-[[Home|home]] was
+some of his male guests for a little dinner after the at-[[motifs/home|home]] was
 
 over.  I happened to be one of them; but, in spite of that, it was
 
@@ -22952,7 +22952,7 @@ a select company.
 
 "It was a select company; and yet it hardly seemed to have been
 
-selected.  They were mostly [[Well|well]]-known men, and yet it looked as if
+selected.  They were mostly [[motifs/well|well]]-known men, and yet it looked as if
 
 Crome had taken their names out of a hat.  The first person I ran
 
@@ -22962,19 +22962,19 @@ in the British Army, and I should think the stupidest, for any
 
 strategic purposes.  Of course he looks magnificent--like a
 
-chryselephantine statue of Hercules, and about as useful in [[Time|time]] of
+chryselephantine statue of Hercules, and about as useful in [[motifs/time|time]] of
 
 war.  I once used the word 'chryselephantine,' meaning gold and
 
 ivory; and he thought I was calling him elephantine.  Classical
 
-[[Education|education]] of the pukka sahib.  [[Well]], the man he was put next to was
+[[concepts/education|education]] of the pukka sahib.  [[motifs/well|Well]], the man he was put next to was
 
 Count Kranz, the Hungarian scientist and social reformer.  He
 
 speaks twenty-seven languages, including philosophical language.  I
 
-[[Wonder|wonder]] what language he talked to Captain Blande in.  Just beyond
+[[concepts/wonder|wonder]] what language he talked to Captain Blande in.  Just beyond
 
 the Count was another fellow more of Blande's sort; but darker and
 
@@ -22991,12 +22991,12 @@ itself was an Asiatic game, and can be traced through the gilded
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Decorazioni per la ricerca scientifica. L’ufficialità della scienza
+Decorazioni per la ricerca scientifica. L’ufficialità della scienza
 
 Titolo:  
 Il mondo, per qualche motivo che non so spiegare, ha pregiudizi contro qualsiasi storia… anche quella di una sola persona.
 
-#"Serpente marino… e quindi ancora meno propenso ad accettare quella narrazione."
+"Serpente marino… e quindi ancora meno propenso ad accettare quella narrazione."
 
 Nella sua forma attuale.
 
@@ -23006,21 +23006,21 @@ Chierico missionario che predicava con entusiasmo nei pulpiti…
 
 “Nonconformisti… nelle moschee dei musulmani…”
 
-#I monasteri del Tibet, ma fu accolto con particolare calore da un ambiente mistico
+I monasteri del Tibet, ma fu accolto con particolare calore da un ambiente mistico
 
-# Setta dei Teisti in quelle regioni: persone in uno stato di supremo…
+Setta dei Teisti in quelle regioni: persone in uno stato di supremo…
 
-# Esaltazione spirituale: colui che lo adorava come un dio, fino a quando…
+Esaltazione spirituale: colui che lo adorava come un dio, fino a quando…
 
 Erano appassionati di sacrifici umani e lui ne fu la vittima.
 
-#Inutile anche questa dichiarazione…
+Inutile anche questa dichiarazione…
 
 Un clérigo di indole tollerante e poco rigorosa difficilmente lo aiuterà ad avanzare nella sua carriera…
 
 La professione attuale, o ciò che lo rende adatto alle sue attività attuali.
 
-Si sospetta che la storia sia in parte una [[Parable|parabola]] o un’[[Allegory|allegoria]]. Comunque sia.
+Si sospetta che la storia sia in parte una [[forms/parable|parabola]] o un’[[forms/allegory|allegoria]]. Comunque sia.
 
 “Era del tutto inutile e ovviamente falso.” E quando…
 
@@ -23034,51 +23034,51 @@ Questa cosa è ovviamente falsa, non è affatto una bugia.
 
 “Voi pensate che io stia ancora frequentando qualcuno. Ma perché?”
 
-“Perché sarebbe proprio come un [[Romance|romanzo]],” ribatté Wotton.
+“Perché sarebbe proprio come un romanzo,” ribatté Wotton.
 
 “Ma non pensi,” chiese il Capitano con aria pensierosa, “che la vera…”
 
-A volte la vita è come un [[Romance|romanzo]], non credi?
+A volte la vita è come un romanzo, non credi?
 
 “Credo,” rispose Wotton, con una certa genuina astuzia…
 
 “Qualcosa che era profondamente radicato in lui… mi permetteva sempre di riconoscerlo con certezza.”
 
-differenza».
+“Differenza.”
 
 “Hai ragione,” disse Pond; “e a mio parere la differenza sta…”
 
-# La vita, in alcuni aspetti, è artistica, ma nel suo insieme no… È come…
+La vita, in alcuni aspetti, è artistica, ma nel suo insieme no… È come…
 
 “Fragmenti spezzati di diverse opere d’arte… Quando tutto viene appeso insieme.”
 
 Tutto insieme, tutto quadra. Non ne dubito affatto. Anzi, potrei persino crederci.
 
-# Gahagan vide sei serpenti marini… ma non che ciascuno fosse più grande dell’altro
+Gahagan vide sei serpenti marini… ma non che ciascuno fosse più grande dell’altro
 
 Ultimo… Se avesse detto che prima c’era uno grande e poi uno piccolo…
 
 “Uno, e poi uno ancora più grande… forse avrebbe potuto accoglierci.” Spesso diciamo così.
 
-Quella situazione sociale è come trovarsi dentro un [[Novel|romanzo]]; ma non lo è davvero.
+Quella situazione sociale è come trovarsi dentro un [[forms/novel|romanzo]]; ma non lo è davvero.
 
-Finire come quel [[Novel|romanzo]], almeno, non proprio lo stesso [[Novel|romanzo]].
+Finire come quel [[forms/novel|romanzo]], almeno, non proprio lo stesso [[forms/novel|romanzo]].
 
 “Pond,” disse Gahagan, “a volte penso che tu sia ispirato…”
 
 “Possed of a devil in a quiet way… È strano che tu l’abbia detto.”
 
-#Proprio perché la mia esperienza è stata esattamente così…
+Proprio perché la mia esperienza è stata esattamente così…
 
-Differenza: ogni familiare [[Melodrama|melodramma]] si interruppe, ma solo per poi riprendere.
+Differenza: ogni familiare [[forms/melodrama|melodramma]] si interruppe, ma solo per poi riprendere.
 
-Un [[Melodrama|melodramma]] ancora più cupo, o forse una [[Tragedy|tragedia]]. Ancora e ancora, in questa faccenda, io.
+Un [[forms/melodrama|melodramma]] ancora più cupo, o forse una [[forms/tragedy|tragedia]]. Ancora e ancora, in questa faccenda, io.
 
-# Pensavo di essere nella trama di una rivista… e poi tutto è cambiato completamente.
+Pensavo di essere nella trama di una rivista… e poi tutto è cambiato completamente.
 
-Un'altra storia. Una sorta di visione sfocata, o forse un [[nightmare|incubo]].
+Un'altra storia. Una sorta di visione sfocata, o forse un incubo.
 
-Soprattutto un [[nightmare|incubo]].
+Soprattutto un incubo.
 
 “E perché proprio?” chiese Wotton.
 
@@ -23101,7 +23101,7 @@ Ora non è più così terribile.
 Titolo:  
 “Congratulazioni, ovviamente… Ma cosa significa davvero tutto questo?”
 
-A che cosa ha a che fare con quel [[nightmare|incubo]]?
+A che cosa ha a che fare con quel incubo?
 
 “C’è un legame”, disse Gahagan con aria sognante. “Ma voi volete…”
 
@@ -23109,15 +23109,15 @@ Storia orribile, e non certo una felice. Beh, insomma, era piuttosto.
 
 Un mistero, almeno per me; ma alla fine l’ho capito.
 
-#E quando avrete finito di confonderci, ci racconterete…
+E quando avrete finito di confonderci, ci racconterete…
 
 “Soluzione?”
 
 “No; Pond ti dirà la soluzione,” disse Gahagan con malizia.
 
-#"Già si è gonfiato d’orgoglio perché ha indovinato di che genere sia la storia..."
+"Già si è gonfiato d’orgoglio perché ha indovinato di che genere sia la storia..."
 
-#Prima ancora che potesse sentirlo… Se non riesce a concludere la storia, quando ormai l’ha iniziata…
+Prima ancora che potesse sentirlo… Se non riesce a concludere la storia, quando ormai l’ha iniziata…
 
 L'ho sentito...
 
@@ -23128,31 +23128,31 @@ Interruppe per un attimo, poi riprese con maggiore fermezza:
 Titolo:  
 di Lord Crome, che segue un cocktail party organizzato principalmente da Lady…
 
-# Crome. La signora Crome era una donna alta, agile e graziosa…
+Crome. La signora Crome era una donna alta, agile e graziosa…
 
-# Testa scura e piccola… Lord Crome, invece, era tutto il contrario: era…
+Testa scura e piccola… Lord Crome, invece, era tutto il contrario: era…
 
-#"Una persona con la testa sulle spalle: sia fisicamente che mentalmente", l'avrete sicuramente sentito dire."
+"Una persona con la testa sulle spalle: sia fisicamente che mentalmente", l'avrete sicuramente sentito dire."
 
-# Un volto da guerriero; il suo viso era come un’ascia pronta a tagliargli via la testa… o forse qualcosa di ancora più terribile.
+Un volto da guerriero; il suo viso era come un’ascia pronta a tagliargli via la testa… o forse qualcosa di ancora più terribile.
 
-Piuttosto il proprio [[Body|corpo]], eliminando ciò che è più lieve e insignificante.
+Piuttosto il proprio [[concepts/body|corpo]], eliminando ciò che è più lieve e insignificante.
 
-# Economista e imprenditore…
+Economista e imprenditore…
 
 Distraito e piuttosto annoiato da tutte quelle signore che nuotavano intorno…
 
 Il ricordo di sua meravigliosa moglie, quella colomba bianca che sfrecciava via… E forse fu proprio questo a…
 
-#Perché desiderava la compagnia di persone del proprio sesso… Comunque sia, continuò così.
+Perché desiderava la compagnia di persone del proprio sesso… Comunque sia, continuò così.
 
-Ha invitato alcuni dei suoi ospiti maschi a una piccola cena dopo essere stato a [[Home|casa]].
+Ha invitato alcuni dei suoi ospiti maschi a una piccola cena dopo essere stato a [[motifs/home|casa]].
 
-# Uno di loro… ma nonostante ciò…
+Uno di loro… ma nonostante ciò…
 
 Un gruppo ristretto di persone.
 
-#Un gruppo ristretto… eppure sembrava quasi che non lo fosse affatto
+Un gruppo ristretto… eppure sembrava quasi che non lo fosse affatto
 
 Selezionati. Erano per lo più uomini ben noti, eppure sembrava che.
 
@@ -23160,9 +23160,9 @@ Selezionati. Erano per lo più uomini ben noti, eppure sembrava che.
 
 Il capitano Blande era considerato uno degli ufficiali più importanti.
 
-#Nell’esercito britannico… e devo dire il più stupido di tutti.
+Nell’esercito britannico… e devo dire il più stupido di tutti.
 
-#Finali strategici. Certo, ha un aspetto magnifico… come se…
+Finali strategici. Certo, ha un aspetto magnifico… come se…
 
 La statua di Ercole in cristallo di rocca, e praticamente altrettanto utile ai tempi di.
 
@@ -23170,7 +23170,7 @@ War… Una volta ho usato la parola “chryselephantine”, che significa oro e�
 
 “Avorio… e lui pensò che lo stessi chiamando ‘elefantino’.” Classico.
 
-L’[[Education|educazione]] del vero signore. Beh, l’uomo che gli fu messo accanto era.
+L’[[concepts/education|educazione]] del vero signore. Beh, l’uomo che gli fu messo accanto era.
 
 Il conte Kranz, lo scienziato e riformatore sociale ungherese. Lui
 
@@ -23180,13 +23180,13 @@ Mi chiedevo in quale lingua parlasse con il Capitano Blande. Proprio poco dopo.
 
 Il conte era un altro tipo, simile a Blande… ma più cupo e scuro.
 
-#Più snello e vivace: un certo Wooster, proveniente dal Bengala
+Più snello e vivace: un certo Wooster, proveniente dal Bengala
 
-#Reggimento. Anche il suo linguaggio sarebbe stato limitato: il verbo latino “polo”.
+Reggimento. Anche il suo linguaggio sarebbe stato limitato: il verbo latino “polo”.
 
 Polos, polos: io gioco a polo, tu giochi a polo, lui gioca a polo…
 
-#Non gioca a polo… Ma proprio come il polo…
+Non gioca a polo… Ma proprio come il polo…
 
 Il titolo stesso faceva riferimento a un gioco asiatico, il cui origine si poteva rintracciare attraverso…
 
@@ -23201,13 +23201,13 @@ faintly Eurasian about this man Wooster; he was like a dark-striped
 
 tiger and one could fancy him gliding through a jungle.  That pair
 
-at least looked a little more [[Well|well]]-matched; for Kranz also was dark
+at least looked a little more [[motifs/well|well]]-matched; for Kranz also was dark
 
 and good-looking, with arched, black, Assyrian eyebrows and a long,
 
 dark beard, spreading like a fan or the forked tail of a bird.  I
 
-sat next, and got on with Wooster pretty [[Well|well]]; on the other side of
+sat next, and got on with Wooster pretty [[motifs/well|well]]; on the other side of
 
 me was Sir Oscar Marvell, the great actor-manager, all very fine
 
@@ -23229,7 +23229,7 @@ classics all right; one Italian singer, whose name I could not
 
 remember, and one Polish diplomat, whose name nobody could
 
-remember.  And I was saying to myself all the [[Time|time]]:  'What a funny
+remember.  And I was saying to myself all the [[motifs/time|time]]:  'What a funny
 
 collection!'"
 
@@ -23237,9 +23237,9 @@ collection!'"
 
 collects a lot of incompatible people for the pleasure of hearing
 
-them quarrel.  Done very [[Well|well]] in one of Anthony Berkeley's
+them quarrel.  Done very [[motifs/well|well]] in one of Anthony Berkeley's
 
-[[Detective|detective]] stories."
+[[archetypes/detective|detective]] stories."
 
 "No," replied Gahagan.  "I think their incompatibility was quite
 
@@ -23253,7 +23253,7 @@ it rather cleverly, too, by beginning to talk about heirlooms and
 
 family jewels and so on.  Different as they were, most of them were
 
-[[Well|well]]-off, and what is called of a good family; and it was about as
+[[motifs/well|well]]-off, and what is called of a good family; and it was about as
 
 close to common ground as they could get.  The Pole, who was a
 
@@ -23283,9 +23283,9 @@ tiresome preliminaries about being made Pope; it involves celibacy;
 
 and I--'  And he shrugged his shoulders.
 
-"'Very annoying, no [[Doubt|doubt]],' said Lord Crome, smiling at him grimly.
+"'Very annoying, no [[concepts/doubt|doubt]],' said Lord Crome, smiling at him grimly.
 
-'As for this ring here--[[Well|well]], it is rather interesting in a way, in
+'As for this ring here--[[motifs/well|well]], it is rather interesting in a way, in
 
 that sort of family way, of course.  I don't know the details, but
 
@@ -23297,21 +23297,21 @@ to the Pole, who was silting next to him.  It proved on examination
 
 to be set with a cluster of extremely fine rubies and carved with a
 
-central device of a heart inside a [[Rose|rose]].  I saw it myself, since it
+central device of a heart inside a [[motifs/rose|rose]].  I saw it myself, since it
 
 was handed round the table; and there was some lettering in old
 
-French which meant something like 'From the [[Lover|lover]] only and only to
+French which meant something like 'From the [[archetypes/lover|lover]] only and only to
 
 the beloved.'
 
-"'A [[Romance|romance]] in your family [[history]], I suppose?' suggested the
+"'A romance in your family [[concepts/history|history]], I suppose?' suggested the
 
 Hungarian Count.  'And about the sixteenth century.  But you do not
 
 know the story?"
 
-"'No,' said Crome, 'but I suppose it was, as you say, a [[Romance|romance]] in
+"'No,' said Crome, 'but I suppose it was, as you say, a romance in
 
 the family.'
 
@@ -23345,9 +23345,9 @@ of his chair; after a moment he went on:
 
 "Please don't imagine I didn't feel all you say; that we seemed to
 
-have got inside a [[Novel|novel]]; and not a very [[Novel|novel]] sort of [[Novel|novel]].  But
+have got inside a [[forms/novel|novel]]; and not a very [[forms/novel|novel]] sort of [[forms/novel|novel]].  But
 
-the difference was exactly what Pond says: that the [[Novel|novel]] didn't
+the difference was exactly what Pond says: that the [[forms/novel|novel]] didn't
 
 finish properly, but seemed to go on to something else.  We had
 
@@ -23381,7 +23381,7 @@ reading through a stack of out-of-date magazines and mixing up all
 
 the results?  Of course we know the story about a whole company
 
-laid out with [[Poison|poison]]--"
+laid out with [[motifs/poison|poison]]--"
 
 "The results in this case were rather more extraordinary," said
 
@@ -23404,11 +23404,11 @@ Barba scura, che si dispiega come un ventaglio… o la coda a forchetta di un uc
 
 Si sedette accanto a lui e continuò la lettura di “Wooster” piuttosto bene; dall’altra parte.
 
-# Io ero Sir Oscar Marvell, il grande attore e regista… tutto davvero eccezionale.
+Io ero Sir Oscar Marvell, il grande attore e regista… tutto davvero eccezionale.
 
 E alto, con quei riccioli tipici degli atleti olimpici e quel naso romano… Anche qui.
 
-#C’era una certa mancanza di sintonia… Sir Oscar Marvell non voleva.
+C’era una certa mancanza di sintonia… Sir Oscar Marvell non voleva.
 
 Parlare di qualsiasi cosa tranne che di Sir Oscar Marvell… e gli altri uomini non lo facevano.
 
@@ -23418,11 +23418,11 @@ Il nuovo Sottosegretario agli Affari Esteri era Pitt-Palmer.
 
 Un giovane dall’aspetto estremamente freddo, simile alla statua di Augusto Cesare…
 
-#E infatti era abbastanza classico da poter citare…
+E infatti era abbastanza classico da poter citare…
 
 Classici, va bene… ma un cantante italiano il cui nome non ricordo…
 
-# Ricorda… e un diplomatico polacco il cui nome nessuno riusciva a ricordare
+Ricorda… e un diplomatico polacco il cui nome nessuno riusciva a ricordare
 
 Ricordatelo. E tutto il tempo mi dicevo: “Che cosa strana, ”
 
@@ -23430,17 +23430,17 @@ Collezione!”.
 
 “Conosco questa storia,” disse Wotton con certezza. “Un anfitrione umoristico…”
 
-# Riunisce molte persone incompatibili, solo per il piacere di ascoltarle
+Riunisce molte persone incompatibili, solo per il piacere di ascoltarle
 
 Si scontrarono. Fu fatto molto bene, in uno dei lavori di Anthony Berkeley.
 
-Storie di [[Detective|detectivi]].
+Storie di [[archetypes/detective|detectivi]].
 
 “No,” rispose Gahagan. “Penso che la loro incompatibilità fosse davvero evidente…”
 
 Casuale… e so che Crome non l’ha utilizzato per crearli.
 
-#Una disputa inaspettata… In realtà, era un ospite davvero molto abile nel gestire le situazioni.
+Una disputa inaspettata… In realtà, era un ospite davvero molto abile nel gestire le situazioni.
 
 Si potrebbe dire più correttamente che impedì loro di litigare. Lo fece davvero.
 
@@ -23470,15 +23470,15 @@ Capelli.
 
 “Crome,” disse educatamente il Polacco. “Quei pesanti anelli, di solito…”
 
-#Storico… Penso che mi piacerebbe davvero indossare un anello vescovile.
+Storico… Penso che mi piacerebbe davvero indossare un anello vescovile.
 
 O, meglio ancora, un anello papale… Ma poi ci sono tutte quelle altre possibilità…
 
-# Preliminari noiosi per diventare Papa… che includono il celibato.
+Preliminari noiosi per diventare Papa… che includono il celibato.
 
 E io. Lui scrollò le spalle.
 
-“Molto fastidioso, senza alcun [[Doubt|dubbio]],” disse Lord Crome, sorridendogli in modo cupo.
+“Molto fastidioso, senza alcun [[concepts/doubt|dubbio]],” disse Lord Crome, sorridendogli in modo cupo.
 
 Per quanto riguarda questo anello qui – beh, in un certo senso è piuttosto interessante.
 
@@ -23486,32 +23486,32 @@ Per quanto riguarda questo anello qui – beh, in un certo senso è piuttosto in
 
 “È chiaramente del XVI secolo… Vuoi darci un’occhiata?” E lui…
 
-# Ha fatto scivolare un pesante anello con una pietra rossa dal dito e l’ha passato...
+Ha fatto scivolare un pesante anello con una pietra rossa dal dito e l’ha passato...
 
 “Verso il Polo… che si trovava accanto a lui e stava accumulando sabbia intorno a sé. Come si è scoperto in seguito…”
 
 Titolo:  
 Decorato con un insieme di rubini estremamente fini e intagliato con…
 
-Il dispositivo centrale di un cuore all’interno di una [[Rose|rosa]]. L’ho visto con i miei occhi.
+Il dispositivo centrale di un cuore all’interno di una [[motifs/rose|rosa]]. L’ho visto con i miei occhi.
 
 Il foglio fu passato intorno al tavolo; c’erano alcune scritte in caratteri antichi…
 
-Francese, il che significava qualcosa del genere: “Solo e esclusivamente dal [[Lover|amante]], e solo per lui”.
+Francese, il che significava qualcosa del genere: “Solo e esclusivamente dal [[archetypes/lover|amante]], e solo per lui”.
 
 Il benamato.
 
-“Una [[Romance|storia d’amore]] nella storia della tua famiglia, immagino?” suggerì il.
+“Una storia d’amore nella storia della tua famiglia, immagino?” suggerì il.
 
 Conte ungherese… E intorno al XVI secolo… Ma voi non…
 
 “Conosci questa storia?”
 
-“‘No,’ disse Crome, ‘ma suppongo che fosse, come dici tu, una [[Romance|storia d’amore]], ’”
+“‘No,’ disse Crome, ‘ma suppongo che fosse, come dici tu, una storia d’amore, ’”
 
 La famiglia.
 
-#Parlarono di romanzi del XVI secolo…
+Parlarono di romanzi del XVI secolo…
 
 Titolo:  
 “La lunghezza… e infine Crome chiese molto cortesemente se tutti fossero d’accordo…”
@@ -23520,7 +23520,7 @@ Titolo:
 
 “Oh,” esclamò Wotton, con un profondo respiro, proprio come un ragazzo alle scuole…
 
-#"La performance di un mago". "Comunque, conosco questa storia... Questa è..."
+"La performance di un mago". "Comunque, conosco questa storia... Questa è..."
 
 Storia per una rivista, se vi piace… L’anello non è stato restituito.
 
@@ -23536,21 +23536,21 @@ Non fu restituito. Tutti fummo perquisiti. Tutti insistemmo nel voler…
 
 Fu effettuata un'ispezione. Nessuno si rifiutò di essere controllato. Ma l'anello era scomparso.
 
-#Gahagan si agitò in modo piuttosto irrequieto e spinse il gomito contro lo schienale
+Gahagan si agitò in modo piuttosto irrequieto e spinse il gomito contro lo schienale
 
-# Dalla sua sedia; dopo un momento continuò:
+Dalla sua sedia; dopo un momento continuò:
 
-#"Per favore, non pensate che non abbia provato tutto ciò che dite; che noi sembrassimo..."
+"Per favore, non pensate che non abbia provato tutto ciò che dite; che noi sembrassimo..."
 
-Ho iniziato a leggere un [[Novel|romanzo]]; e non è proprio un tipo di [[Novel|romanzo]] molto “tradizionale”. Ma.
+Ho iniziato a leggere un [[forms/novel|romanzo]]; e non è proprio un tipo di [[forms/novel|romanzo]] molto “tradizionale”. Ma.
 
-La differenza era proprio quella che dice Pond: che il [[Novel|romanzo]] non lo faceva.
+La differenza era proprio quella che dice Pond: che il [[forms/novel|romanzo]] non lo faceva.
 
 Finì nel modo giusto, ma sembrava che continuasse in qualcos’altro… Noi avevamo…
 
 Appena siamo arrivati alla fase del caffè durante la cena, quando è iniziato tutto questo trambusto…
 
-#Si discuteva della prima scoperta della perdita… Ma tutto ciò…
+Si discuteva della prima scoperta della perdita… Ma tutto ciò…
 
 La procedura di ricerca era davvero molto rapida e semplice…
 
@@ -23560,9 +23560,9 @@ Il caffè non era ancora raffreddato quando…
 
 Non aveva importanza… ma Crome chiamò il maggiordomo che lo stava consegnando.
 
-#Rondi; e sussurravano tra loro di qualcosa che chiaramente era piuttosto…
+Rondi; e sussurravano tra loro di qualcosa che chiaramente era piuttosto…
 
-# Conversazione agitata. Poi, proprio mentre Pitt-Palmer stava alzando…
+Conversazione agitata. Poi, proprio mentre Pitt-Palmer stava alzando…
 
 Con la tazza di caffè alle labbra, Lord Crome si alzò di scatto, rigido e teso.
 
@@ -23574,11 +23574,11 @@ Con la tazza di caffè alle labbra, Lord Crome si alzò di scatto, rigido e teso
 
 "Dico io, Gahagan… sei sicuro di non aver sognato tutto questo? Dopo…"
 
-# Scorrendo una pila di riviste scadute e confondendole tutte
+Scorrendo una pila di riviste scadute e confondendole tutte
 
 I risultati? Certo che conosciamo quella storia riguardante un’intera azienda…
 
-Disposto con [[Poison|veleno]].
+Disposto con [[motifs/poison|veleno]].
 
 “Nei casi come questo, i risultati sono stati davvero straordinari,” disse
 
@@ -23591,7 +23591,7 @@ Disposto con [[Poison|veleno]].
 
 such a thunder-bolt of a threat.  But young Pitt-Palmer, with his
 
-cold, clean-cut, classical face, [[Rose|rose]] to his feet with the coffee
+cold, clean-cut, classical face, [[motifs/rose|rose]] to his feet with the coffee
 
 cup in his hand and said in the coolest way:
 
@@ -23607,7 +23607,7 @@ noises, he fell down as in a fit before our eyes.
 
 scientist had a doctor's degree; and what he reported was confirmed
 
-by the local doctor, who was sent for at once.  There was no [[Doubt|doubt]]
+by the local doctor, who was sent for at once.  There was no [[concepts/doubt|doubt]]
 
 that he was dead."
 
@@ -23625,7 +23625,7 @@ was dead."
 
 his whole powerful frame.
 
-After a [[Silence|silence]] that seemed suddenly imposed by his agitation,
+After a [[motifs/silence|silence]] that seemed suddenly imposed by his agitation,
 
 Wotton said at last:
 
@@ -23641,7 +23641,7 @@ Poor Pitt-Palmer had put in a very large lump of sugar just before;
 
 but the sugar would melt.  Some things do not melt."
 
-Sir [[Hubert]] Wotton stared for some seconds into vacancy; and then
+Sir [[characters/hubert|Hubert]] Wotton stared for some seconds into vacancy; and then
 
 his eyes began to glow with his own very real though not very rapid
 
@@ -23655,7 +23655,7 @@ searched.  In other words, Pitt-Palmer was the thief?"
 
 "Pitt-Palmer is dead," said Gahagan very gravely, "and it is the
 
-more my duty to defend his [[Memory|memory]].  What he did was doubtless
+more my duty to defend his [[motifs/memory|memory]].  What he did was doubtless
 
 wrong, as I have come to see more clearly than I did; but not worse
 
@@ -23675,7 +23675,7 @@ and fatigue.  "Mr. Pond will now oblige."
 
 "Oh, no," answered Gahagan, rather with the air of one about to go
 
-to [[Sleep|sleep]].  "But I can see by his eyebrows that he knows all about
+to [[motifs/sleep|sleep]].  "But I can see by his eyebrows that he knows all about
 
 it.  Besides, it's somebody else's turn."
 
@@ -23689,19 +23689,19 @@ bewildered bull.
 
 he mean by saying that the man who hid the ring wasn't a thief?"
 
-"[[Well]], perhaps I can guess a little," said Mr. Pond modestly.  "But
+"[[motifs/well|Well]], perhaps I can guess a little," said Mr. Pond modestly.  "But
 
 that's only because I've kept in mind what we said at the beginning--
 
 about the misleading way in which things remind us of romantic
 
-things; only they are never rounded off like the [[Romance|romance]].  You see,
+things; only they are never rounded off like the romance.  You see,
 
-the trouble is that, when a real event reminds us of a [[Novel|novel]], we
+the trouble is that, when a real event reminds us of a [[forms/novel|novel]], we
 
 unconsciously think we know all about it, because we know all about
 
-the [[Novel|novel]].  We have got into a groove or rut of familiar fiction;
+the [[forms/novel|novel]].  We have got into a groove or rut of familiar fiction;
 
 and we can't help thinking the groove runs forward and backward as
 
@@ -23721,7 +23721,7 @@ got hold of the wrong mystery."
 
 "Gahagan said you would explain everything," said Wotton, with
 
-controlled [[Satire|satire]].  "May I ask if this is the explanation?  Is this
+controlled [[forms/satire|satire]].  "May I ask if this is the explanation?  Is this
 
 the solution or the mystery?"
 
@@ -23741,7 +23741,7 @@ Palmer was not the thief.  Pitt-Palmer did not steal the ring."
 
 "Lord Crome stole the ring," said Mr. Pond.
 
-There was a [[Silence|silence]] upon the whole group for a brief space; and
+There was a [[motifs/silence|silence]] upon the whole group for a brief space; and
 
 then the somnolent Gahagan stirred and said:  "I knew you would see
 
@@ -23769,7 +23769,7 @@ possession; because that is in all the stories.  But Lord Crome
 
 meant something much blacker and bitterer than that when he said,
 
-with a dreadful irony, that it commemorated a [[Romance|romance]] in his
+with a dreadful irony, that it commemorated a romance in his
 
 family.
 
@@ -23800,7 +23800,7 @@ blackguard, would certainly not be a thief.  As a matter of fact,
 
 una minaccia simile a un fulmine. Ma il giovane Pitt-Palmer, col suo
 
-volto freddo, netto, classico, [[Rose|si alzò]] in piedi con la tazza di
+volto freddo, netto, classico, [[motifs/rose|si alzò]] in piedi con la tazza di
 
 caffè in mano e disse nel modo più tranquillo del mondo:
 
@@ -23816,7 +23816,7 @@ cadde a terra come in preda a un attacco, sotto i nostri occhi.
 
 ungherese aveva una laurea in medicina; e ciò che riferì fu confermato
 
-dal medico locale, che venne chiamato all'istante. Non c'era [[Doubt|dubbio]]
+dal medico locale, che venne chiamato all'istante. Non c'era [[concepts/doubt|dubbio]]
 
 che fosse morto."
 
@@ -23834,7 +23834,7 @@ fosse morto."
 
 tutta la sua possente corporatura.
 
-Dopo un [[Silence|silenzio]] che parve imposto d'improvviso dalla sua agitazione,
+Dopo un [[motifs/silence|silenzio]] che parve imposto d'improvviso dalla sua agitazione,
 
 Wotton disse infine:
 
@@ -23850,7 +23850,7 @@ Il povero Pitt-Palmer vi aveva messo una grossissima zolletta di zucchero poco p
 
 ma lo zucchero si sarebbe sciolto. Certe cose non si sciolgono."
 
-Sir [[Hubert]] Wotton fissò per alcuni secondi il vuoto; e poi
+Sir [[characters/hubert|Hubert]] Wotton fissò per alcuni secondi il vuoto; e poi
 
 i suoi occhi cominciarono a brillare della sua intelligenza autentica
 
@@ -23864,7 +23864,7 @@ perquisito. In altre parole, Pitt-Palmer era il ladro?"
 
 "Pitt-Palmer è morto," disse Gahagan con grande gravità, "ed è
 
-tanto più mio dovere difenderne la [[Memory|memoria]]. Ciò che fece fu senza dubbio
+tanto più mio dovere difenderne la [[motifs/memory|memoria]]. Ciò che fece fu senza dubbio
 
 sbagliato, come ho finito per vedere più chiaramente di prima; ma non peggio
 
@@ -23884,7 +23884,7 @@ e nella stanchezza. "Ora ci penserà il signor Pond."
 
 "Oh, no," rispose Gahagan, piuttosto con l'aria di chi sta per
 
-[[Sleep|addormentarsi]]. "Ma vedo dalle sue sopracciglia che sa tutto
+[[motifs/sleep|addormentarsi]]. "Ma vedo dalle sue sopracciglia che sa tutto
 
 della faccenda. E poi, è il turno di qualcun altro."
 
@@ -23898,19 +23898,19 @@ toro smarrito.
 
 intende dire quando afferma che l'uomo che nascose l'anello non era un ladro?"
 
-"[[Well|Beh]], forse posso indovinare qualcosa," disse modestamente il signor Pond. "Ma
+"[[motifs/well|Beh]], forse posso indovinare qualcosa," disse modestamente il signor Pond. "Ma
 
 solo perché ho tenuto a mente ciò che abbiamo detto all'inizio—
 
 sul modo ingannevole in cui le cose ci rammentano cose
 
-romanzesche; solo che non si concludono mai rotonde come nel [[Romance|romanzo]]. Vedete,
+romanzesche; solo che non si concludono mai rotonde come nel romanzo. Vedete,
 
-il guaio è che, quando un fatto reale ci ricorda un [[Novel|romanzo]], noi
+il guaio è che, quando un fatto reale ci ricorda un [[forms/novel|romanzo]], noi
 
 inconsciamente crediamo di saperne tutto, perché sappiamo tutto
 
-del [[Novel|romanzo]]. Siamo entrati in un solco o in un binario di finzione familiare;
+del [[forms/novel|romanzo]]. Siamo entrati in un solco o in un binario di finzione familiare;
 
 e non possiamo fare a meno di pensare che il solco corra avanti e indietro come
 
@@ -23930,7 +23930,7 @@ afferrato il mistero sbagliato."
 
 "Gahagan ha detto che avreste spiegato tutto," disse Wotton, con
 
-[[Satire|ironia]] controllata. "Posso chiedere se questa è la spiegazione? È questa
+[[forms/satire|ironia]] controllata. "Posso chiedere se questa è la spiegazione? È questa
 
 la soluzione o il mistero?"
 
@@ -23950,7 +23950,7 @@ Palmer non era il ladro. Pitt-Palmer non rubò l'anello."
 
 "Lord Crome rubò l'anello," disse il signor Pond.
 
-Ci fu un [[Silence|silenzio]] su tutto il gruppo per un breve spazio; e
+Ci fu un [[motifs/silence|silenzio]] su tutto il gruppo per un breve spazio; e
 
 poi il sonnolento Gahagan si mosse e disse: "Sapevo che avresti colto
 
@@ -23978,7 +23978,7 @@ bene di famiglia; perché così è in tutte le storie. Ma Lord Crome
 
 intendeva qualcosa di ben più nero e amaro di questo quando disse,
 
-con una spaventosa ironia, che commemorava un [[Romance|romanzo]] della sua
+con una spaventosa ironia, che commemorava un romanzo della sua
 
 famiglia.
 
@@ -24009,7 +24009,7 @@ mascalzone, non sarebbe certo stato un ladro. In verità,
 <span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_08" data-title="MrPond — Louis; and shouted as if on parade: (part 8)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt" data-tags="archetype/hero,motif/death,motif/garden,motif/lightning,motif/memory,motif/night,motif/rose,motif/silence,motif/storm,motif/well,motif/window,concept/suicide,form/tragedy,character/hubert"></span>
 
 
-after a heathen fashion, he was a bit of a [[Hero|hero]].  Perhaps it was
+after a heathen fashion, he was a bit of a [[archetypes/hero|hero]].  Perhaps it was
 
 not for nothing that he had that cold, strong face that is the
 
@@ -24029,7 +24029,7 @@ the coffee was poisoned, was only Crome's desperate counterstroke
 
 when he had guessed the trick; to make sure that the coffee should
 
-be left [[Alone|alone]] and the ring recovered.  But that young man with the
+be left alone and the ring recovered.  But that young man with the
 
 cold face preferred to die in that dreadful fashion: by swallowing
 
@@ -24043,7 +24043,7 @@ being his object, it was probably the best he could have taken.  In
 
 any case, I feel that we must all support Gahagan in saying, very
 
-properly, that the poor fellow's [[Memory|memory]] should be protected from
+properly, that the poor fellow's [[motifs/memory|memory]] should be protected from
 
 any baser suggestions, and that a gentleman is certainly not a
 
@@ -24051,9 +24051,9 @@ robber when he prefers to choke himself with his own ring."
 
 Mr. Pond coughed delicately, having brought his argument to a
 
-close; and Sir [[Hubert]] Wotton remained staring at him, rather more
+close; and Sir [[characters/hubert|Hubert]] Wotton remained staring at him, rather more
 
-bewildered by the solution than by the problem.  When he [[Rose|rose]]
+bewildered by the solution than by the problem.  When he [[motifs/rose|rose]]
 
 slowly to his feet, it was with the air of one shaking off
 
@@ -24061,25 +24061,25 @@ something that was still an evil dream, even when he knew that it
 
 had happened.
 
-"[[Well]], I've got to be going, anyhow," he said, with an air of heavy
+"[[motifs/well|Well]], I've got to be going, anyhow," he said, with an air of heavy
 
 relief.  "Got to look in at Whitehall and I fancy I'm late already.
 
 By the way, if what you say is true, this must have happened very
 
-lately.  So far as I know, the news of Pitt-Palmer's [[suicide]] hasn't
+lately.  So far as I know, the news of Pitt-Palmer's [[concepts/suicide|suicide]] hasn't
 
 come through yet--at least it hadn't come through this morning."
 
-"It happened last [[Night|night]]," said Gahagan, and [[Rose|rose]] from the chair
+"It happened last [[motifs/night|night]]," said Gahagan, and [[motifs/rose|rose]] from the chair
 
 where he had been sprawling, to take leave of his friend.
 
-When Wotton had departed, a long [[Silence|silence]] fell upon the two other
+When Wotton had departed, a long [[motifs/silence|silence]] fell upon the two other
 
 friends who remained looking gravely at each other.
 
-"It happened last [[Night|night]]," repeated Gahagan.  "That is why I told
+"It happened last [[motifs/night|night]]," repeated Gahagan.  "That is why I told
 
 you it had something to do with what happened this morning.  I got
 
@@ -24091,25 +24091,25 @@ engaged to Joan Varney this morning."
 
 explain, for all that.  Do you know there was one thing almost more
 
-awful than that poor fellow's [[Death|death]]?  And it only hit me when I was
+awful than that poor fellow's [[motifs/death|death]]?  And it only hit me when I was
 
-half a mile from that accursed [[house]].  I knew why I had been one of
+half a mile from that accursed house.  I knew why I had been one of
 
 the guests."
 
-He was standing and staring out of the [[Window|window]], with his broad back
+He was standing and staring out of the [[motifs/window|window]], with his broad back
 
 turned to Pond; and after the last words he was silent and
 
 continued to stare at the stormy landscape outside.  Perhaps
 
-something in it stirred another [[Memory|memory]], for when he spoke again, it
+something in it stirred another [[motifs/memory|memory]], for when he spoke again, it
 
 was as if he started a new subject, though it was another aspect of
 
 the same one.
 
-"I didn't tell you anything much about the sort of [[Garden|garden]] party,
+"I didn't tell you anything much about the sort of [[motifs/garden|garden]] party,
 
 with cocktails, that they had that afternoon before the dinner,
 
@@ -24119,7 +24119,7 @@ realize anything; it would all sound like vapouring about the
 
 weather.  But it was rather rum sort of weather yesterday, as it
 
-still is; only it was stormier, and I think the [[Storm|storm]] has passed
+still is; only it was stormier, and I think the [[motifs/storm|storm]] has passed
 
 over now.  And it was a rum sort of atmosphere, too; though the
 
@@ -24127,15 +24127,15 @@ weather was only a coincidence, of course, it does sometimes happen
 
 that meteorological conditions make men more conscious of moral
 
-conditions.  There was a queer, lurid sort of sky over the [[Garden|garden]],
+conditions.  There was a queer, lurid sort of sky over the [[motifs/garden|garden]],
 
 though there was a fair amount of fitful sunshine almost as
 
-capricious as [[Lightning|lightning]].  A huge great mountain of cloud, coloured
+capricious as [[motifs/lightning|lightning]].  A huge great mountain of cloud, coloured
 
 like ink and indigo, was coming up behind the pale, pillared façade
 
-of the [[house]], which was still in a wan flush of light; and I
+of the house, which was still in a wan flush of light; and I
 
 remember even then being chilled by a childish fancy that Pitt-
 
@@ -24153,11 +24153,11 @@ and psychical; especially psychical.  It increased when we went
 
 indoors and the dining-room curtains cut us off from any actual
 
-sight of the [[Storm|storm]].  They were old-fashioned, dark-red curtains,
+sight of the [[motifs/storm|storm]].  They were old-fashioned, dark-red curtains,
 
 with heavy, gilded tassels; and it was as if everything was steeped
 
-in the same dye.  You've heard of a man seeing red; [[Well|well]], what I
+in the same dye.  You've heard of a man seeing red; [[motifs/well|well]], what I
 
 saw was dark red.  That's as near as I can get to the feeling; for
 
@@ -24175,15 +24175,15 @@ course, we all had to answer some questions about ourselves; but I
 
 need not tell you about the trail of official fussing that crossed
 
-the track of the [[Tragedy|tragedy]].  It did not take long, since it was so
+the track of the [[forms/tragedy|tragedy]].  It did not take long, since it was so
 
-obviously a case of [[suicide]]; and the party broke up, straggling out
+obviously a case of [[concepts/suicide|suicide]]; and the party broke up, straggling out
 
-into the stormy [[Night|night]] through the [[Garden|garden]].  As they passed out, they
+into the stormy [[motifs/night|night]] through the [[motifs/garden|garden]].  As they passed out, they
 
 seemed to have taken on new shapes, new outlines.  Between the hot
 
-[[Night|night]] and the horrible [[Death|death]] and that foul fog of throttling hatred
+[[motifs/night|night]] and the horrible [[motifs/death|death]] and that foul fog of throttling hatred
 
 in which we had tried to breathe, I began to see something else
 
@@ -24194,33 +24194,33 @@ incongruous but grotesquely congruous; as in a hideous camaraderie.
 
 <span class="qlang-split" data-lang="it"></span>
 
-A modo pagano, era in un certo senso un [[Hero|eroe]]. Forse era proprio così.
+A modo pagano, era in un certo senso un [[archetypes/hero|eroe]]. Forse era proprio così.
 
 Non a caso aveva quel volto freddo e deciso…
 
 Maschera di pietra di Augusto. Prima di tutto, scelse quella semplice ma…
 
-#Un modo sensato per infilare l’anello nel suo caffè nero…
+Un modo sensato per infilare l’anello nel suo caffè nero…
 
-# Un gesto per aggiungere zucchero… Lì non sarebbe stato visto.
+Un gesto per aggiungere zucchero… Lì non sarebbe stato visto.
 
 Per il momento, comunque… e poteva tranquillamente offrirsi volontario per farlo.
 
-#Cercato… Quel momento folle, che sembrò davvero cambiare tutto.
+Cercato… Quel momento folle, che sembrò davvero cambiare tutto.
 
 “Tutto si trasformò in un terribile incubo, quando Crome gridò…”
 
 Il caffè era avvelenato… Era soltanto il disperato contrattacco di Crome.
 
-# Quando capì il trucco… per assicurarsi che il caffè venisse preparato correttamente
+Quando capì il trucco… per assicurarsi che il caffè venisse preparato correttamente
 
-Essere lasciato [[Alone|solo]] significava che l'anello sarebbe stato recuperato. Ma quel giovane con il.
+Essere lasciato solo significava che l'anello sarebbe stato recuperato. Ma quel giovane con il.
 
 “Meglio una faccia fredda che morire in quel modo terribile… ingoiando.”
 
-#Il pesante anello e l’asfissio… nella speranza che il suo segreto…
+Il pesante anello e l’asfissio… nella speranza che il suo segreto…
 
-# Il segreto di Lady Crome potrebbe ancora rimanere ignorato…
+Il segreto di Lady Crome potrebbe ancora rimanere ignorato…
 
 Una speranza disperata, comunque… Ma tra tutte le possibilità che gli si offrivano, quella…
 
@@ -24235,15 +24235,15 @@ Qualsiasi suggerimento più banale… e che un gentiluomo certamente non sia…
 
 Un ladro che preferisce soffocarsi con il proprio anello.
 
-#Il signor Pond tossì delicatamente, avendo concluso il suo argomento…
+Il signor Pond tossì delicatamente, avendo concluso il suo argomento…
 
-Chiuso. E Sir [[Hubert]] Wotton continuò a fissarlo, ancora più intensamente.
+Chiuso. E Sir [[characters/hubert|Hubert]] Wotton continuò a fissarlo, ancora più intensamente.
 
-Confuso dalla soluzione tanto quanto dal problema. Quando si [[Rose|alzò]] in piedi.
+Confuso dalla soluzione tanto quanto dal problema. Quando si [[motifs/rose|alzò]] in piedi.
 
 Si alzò lentamente in piedi, con l’aria di chi si stesse scuotendo di dosso qualcosa…
 
-#Qualcosa che rimaneva comunque un incubo malvagio, anche quando ne era consapevole…
+Qualcosa che rimaneva comunque un incubo malvagio, anche quando ne era consapevole…
 
 Si era verificato.
 
@@ -24251,23 +24251,23 @@ Si era verificato.
 
 Sollievo, “Devo andare a Whitehall, e temo di essere già in ritardo.”
 
-# Per inciso, se quello che dici è vero, questo deve essere successo molto tempo fa…
+Per inciso, se quello che dici è vero, questo deve essere successo molto tempo fa…
 
-Di recente. Per quanto ne so, la notizia del [[suicide|suicidio]] di Pitt-Palmer non è ancora stata diffusa.
+Di recente. Per quanto ne so, la notizia del [[concepts/suicide|suicidio]] di Pitt-Palmer non è ancora stata diffusa.
 
 Non è ancora arrivato, almeno non stamattina.
 
-“È successo la scorsa [[Night|notte]],” disse Gahagan, alzandosi dalla sedia.
+“È successo la scorsa [[motifs/night|notte]],” disse Gahagan, alzandosi dalla sedia.
 
 lì dove si era sdraiato, per salutare il suo amico.
 
-Quando Wotton se ne fu andato, un lungo [[Silence|silenzio]] calò sugli altri due.
+Quando Wotton se ne fu andato, un lungo [[motifs/silence|silenzio]] calò sugli altri due.
 
 Amici che rimasero a guardarsi l’un l’altro con espressione grave.
 
-“È successo la scorsa [[Night|notte]]”, ripeté Gahagan. “Ecco perché te l’ho detto, ”
+“È successo la scorsa [[motifs/night|notte]]”, ripeté Gahagan. “Ecco perché te l’ho detto, ”
 
-# C’entra qualcosa con quello che è successo stamattina… Ho capito.
+C’entra qualcosa con quello che è successo stamattina… Ho capito.
 
 “Sposato con Joan Varney stamattina.”
 
@@ -24275,21 +24275,21 @@ Amici che rimasero a guardarsi l’un l’altro con espressione grave.
 
 “Sì, penso che tu lo faccia,” disse Gahagan, “ma proverò comunque.”
 
-#Spiegalo, per l’amor del cielo… Sai che c’era una cosa ancora più importante?
+Spiegalo, per l’amor del cielo… Sai che c’era una cosa ancora più importante?
 
-Peggio della [[Death|morte]] di quel povero ragazzo? Me ne sono reso conto solo quando.
+Peggio della [[motifs/death|morte]] di quel povero ragazzo? Me ne sono reso conto solo quando.
 
-A mezzo miglio da quella maledetta [[house|casa]]. Ora capivo perché ero stato uno di loro.
+A mezzo miglio da quella maledetta casa. Ora capivo perché ero stato uno di loro.
 
 Gli ospiti.
 
-Stava in piedi, a fissare fuori dalla [[Window|finestra]], con la sua larga schiena rivolta verso l’esterno.
+Stava in piedi, a fissare fuori dalla [[motifs/window|finestra]], con la sua larga schiena rivolta verso l’esterno.
 
 Si voltò verso il laghetto; e dopo quelle ultime parole rimase in silenzio.
 
 Continuava a fissare il paesaggio tempestoso fuori dalla finestra… Forse.
 
-Qualcosa al suo interno risvegliò un'altra [[Memory|memoria]]; perché quando parlò di nuovo, fu.
+Qualcosa al suo interno risvegliò un'altra [[motifs/memory|memoria]]; perché quando parlò di nuovo, fu.
 
 Era come se avesse iniziato un nuovo argomento, anche se si trattava in realtà di un altro aspetto della stessa questione.
 
@@ -24299,13 +24299,13 @@ Lo stesso.
 
 “Con i cocktail che hanno bevuto quel pomeriggio prima di cena…”
 
-# Perché ritenevo che solo comprendendo il culmine si potesse davvero…
+Perché ritenevo che solo comprendendo il culmine si potesse davvero…
 
-#Riuscire a realizzare qualcosa? Sembra solo un vano discorrere…
+Riuscire a realizzare qualcosa? Sembra solo un vano discorrere…
 
 Ma ieri il tempo era davvero strano…
 
-È ancora così; solo che allora c'era più tempesta, e penso che la [[Storm|tempesta]] sia ormai passata.
+È ancora così; solo che allora c'era più tempesta, e penso che la [[motifs/storm|tempesta]] sia ormai passata.
 
 “Ora è finito… E l’atmosfera in quel momento era davvero strana…”
 
@@ -24313,17 +24313,17 @@ Il tempo era solo una coincidenza, ovviamente… A volte succede proprio così.
 
 “Le condizioni meteorologiche fanno sì che gli uomini si rendano più consapevoli dei valori morali”
 
-Condizioni strane. C'era un cielo strano, cupo e pallido sopra il [[Garden|giardino]].
+Condizioni strane. C'era un cielo strano, cupo e pallido sopra il [[motifs/garden|giardino]].
 
 Nonostante ci fosse una discreta quantità di sole intermittente… quasi come…
 
-Capriccioso come la [[Lightning|luce fulminante]]. Un enorme cumulo di nuvole, colorato.
+Capriccioso come la [[motifs/lightning|luce fulminante]]. Un enorme cumulo di nuvole, colorato.
 
 Come inchiostro e indaco, emergeva alle spalle della pallida facciata ornata di colonne…
 
-Della [[house|casa]], che era ancora illuminata da una debole luce; e io.
+Della casa, che era ancora illuminata da una debole luce; e io.
 
-# Ricordo ancora di essere stato turbato da quell’idea infantile riguardo a Pitt…
+Ricordo ancora di essere stato turbato da quell’idea infantile riguardo a Pitt…
 
 Palmer era una statua di marmo pallido, parte integrante dell’edificio stesso. Ma…
 
@@ -24333,13 +24333,13 @@ Si diceva che Lady Crome fosse come una statua; perché, in un attimo, volò via
 
 “Si pavoneggia come un uccello del paradiso… Ma, che ci crediate o no…”
 
-# Oppressione fisica e mentale
+Oppressione fisica e mentale
 
-# E soprattutto psichico… aumentò quando lo facemmo.
+E soprattutto psichico… aumentò quando lo facemmo.
 
-#All’interno e le tende del salotto ci isolano da qualsiasi vista reale…
+All’interno e le tende del salotto ci isolano da qualsiasi vista reale…
 
-La vista della [[Storm|tempesta]]. Erano tende vecchio stile, di un rosso scuro.
+La vista della [[motifs/storm|tempesta]]. Erano tende vecchio stile, di un rosso scuro.
 
 Con pesanti frange dorate; e sembrava che tutto fosse immerso in un’atmosfera di lusso e splendore.
 
@@ -24351,9 +24351,9 @@ Il colore era un rosso scuro. È il meglio che riesca a descrivere quella sensaz
 
 "#E poi quella cosa sinistra e disgustosa accadde davanti ai miei occhi"
 
-# Alla tavola; vedo il vino rosso scuro nei decanter…
+Alla tavola; vedo il vino rosso scuro nei decanter…
 
-# La luce fioca delle lampade… Eppure sembrava ancora che io fossi…
+La luce fioca delle lampade… Eppure sembrava ancora che io fossi…
 
 Invisibile e impersonale… A malapena mi rendevo conto di esistere.
 
@@ -24361,19 +24361,19 @@ Naturalmente, tutti noi abbiamo dovuto rispondere a alcune domande su di noi ste
 
 Non c’è bisogno di raccontarvi dell’intero trambusto ufficiale che ne è seguito…
 
-Le tracce della [[Tragedy|tragedia]]. Non ci volle molto tempo, poiché erano così evidenti.
+Le tracce della [[forms/tragedy|tragedia]]. Non ci volle molto tempo, poiché erano così evidenti.
 
-Ovviamente si trattava di un caso di [[suicide|suicidio]]; e la festa finì, con tutti che se ne andavano ognuno per conto proprio.
+Ovviamente si trattava di un caso di [[concepts/suicide|suicidio]]; e la festa finì, con tutti che se ne andavano ognuno per conto proprio.
 
-Nella tempestosa [[Night|notte]], attraverso il [[Garden|giardino]].] Mentre si allontanavano, loro.
+Nella tempestosa [[motifs/night|notte]], attraverso il [[motifs/garden|giardino]].] Mentre si allontanavano, loro.
 
 Sembrava aver assunto nuove forme, nuovi contorni… Tra il calore…
 
-Di [[Night|notte]], la terribile [[Death|morte]] e quella densa nebbia di odio assassino.
+Di [[motifs/night|notte]], la terribile [[motifs/death|morte]] e quella densa nebbia di odio assassino.
 
 In cui avevamo cercato di respirare, iniziai a vedere qualcos’altro
 
-#Su di loro; forse per vederli così come erano realmente. Non erano più…
+Su di loro; forse per vederli così come erano realmente. Non erano più…
 
 Incongruo, ma in modo grottescamente coerente, come in una orribile forma di “camaraderia”.
 
@@ -24386,7 +24386,7 @@ Of course, this was a mood, and a morbid one; they really had been
 
 different enough; but they had something in common.
 
-"I liked the Pole best; he had a sense of [[Humour|humour]], and admirable
+"I liked the Pole best; he had a sense of humour, and admirable
 
 manners; but I knew what he meant when he so courteously declined
 
@@ -24410,7 +24410,7 @@ worst of them, I should say.  I wouldn't say anything worse of
 
 Blande than that he's probably too stupid to understand anything
 
-but his own [[Body|body]].  He hasn't enough mind to know that he has a
+but his own [[concepts/body|body]].  He hasn't enough mind to know that he has a
 
 mind.  We all know Sir Oscar Marvell; I remember him marching out,
 
@@ -24418,7 +24418,7 @@ his furred cloak flapping as if it trailed behind it infinite
 
 echoes of the harmless applause of flappers--but of more foolish
 
-women as [[Well|well]].  As to the Italian tenor, he was uncommonly like the
+women as [[motifs/well|well]].  As to the Italian tenor, he was uncommonly like the
 
 English actor.  One could not say any worse of him than that.
 
@@ -24426,7 +24426,7 @@ English actor.  One could not say any worse of him than that.
 
 selected by a clever if nearly crazy man as being the six men in
 
-[[London]] most likely to lay a plot to seduce his wife.  Then, with a
+[[settings/london|London]] most likely to lay a plot to seduce his wife.  Then, with a
 
 great shock, I quite literally came to myself.  I actually realized
 
@@ -24444,9 +24444,9 @@ other men's wives. . . .  You know, Pond, that I was not really so
 
 bad as all that; but then, perhaps, neither were they.  We were all
 
-[[Innocent|innocent]] in this case; and yet the thundercloud upon the [[Garden|garden]]
+[[archetypes/innocent|innocent]] in this case; and yet the thundercloud upon the [[motifs/garden|garden]]
 
-rested on us like a judgment.  So was I [[Innocent|innocent]], in that case you
+rested on us like a judgment.  So was I [[archetypes/innocent|innocent]], in that case you
 
 remember, when I nearly got hanged for hanging round a woman I
 
@@ -24458,7 +24458,7 @@ the state of our souls, what the unspeakable bounders in the papers
 
 call sex-appeal.  That was why I nearly got hanged; and why there
 
-was a corpse in the [[house]] behind me.  And there went through my
+was a corpse in the house behind me.  And there went through my
 
 head like the tramp of armies, old lines written long ago, about
 
@@ -24468,31 +24468,31 @@ refusing Lancelot at the last, says in words that had for me a ring
 
 of iron:
 
-"For [[Well|well]] ye wot that of this life
+"For [[motifs/well|well]] ye wot that of this life
 
 There comes but lewd and bitter strife
 
-And [[Death|death]] of men and great travail.
+And [[motifs/death|death]] of men and great travail.
 
 "I had hung round all that sort of thing, and yet never quite
 
 clearly seen myself doing it; till two judgments struck me like the
 
-[[Storm|storm]] out of the sky.  I nearly received a sentence from a judge in
+[[motifs/storm|storm]] out of the sky.  I nearly received a sentence from a judge in
 
-a black cap and [[Blood|blood]]-red robes, that I should be hanged by the
+a black cap and [[motifs/blood|blood]]-red robes, that I should be hanged by the
 
 neck until I was dead.  And, worse still, I received an invitation
 
 from Lord Crome."
 
-He continued to gaze out of the [[Window|window]]; but Pond heard him mutter
+He continued to gaze out of the [[motifs/window|window]]; but Pond heard him mutter
 
-again, like the faint grumbling of the thunder:  "And [[Death|death]] of men
+again, like the faint grumbling of the thunder:  "And [[motifs/death|death]] of men
 
 and great travail."
 
-In the vast [[Silence|silence]] that followed, Mr. Pond said in a very small
+In the vast [[motifs/silence|silence]] that followed, Mr. Pond said in a very small
 
 voice:
 
@@ -24500,7 +24500,7 @@ voice:
 
 Gahagan faced about, almost with the gesture of throwing up his
 
-hands, which seemed to fill the frame of the [[Window|window]] with his own
+hands, which seemed to fill the frame of the [[motifs/window|window]] with his own
 
 gigantic frame; but he was noticeably pale.
 
@@ -24510,19 +24510,19 @@ He smiled at his friend, but with a glassy and rather ghastly
 
 smile, and then went on:
 
-"Yes; I cared more for that dirty rag of [[Vanity|vanity]], worse than any
+"Yes; I cared more for that dirty rag of [[concepts/vanity|vanity]], worse than any
 
 vice, than I did for any vices.  How many men have sold their souls
 
 to be admired by fools?  I nearly did it, merely to be suspected by
 
-fools.  To be the dangerous man, the dark [[Horse|horse]], the man of whom
+fools.  To be the dangerous man, the dark [[motifs/horse|horse]], the man of whom
 
-families should be afraid--that is the sort of abject [[Ambition|ambition]] for
+families should be afraid--that is the sort of abject [[concepts/ambition|ambition]] for
 
 which I wasted so much of my life, and nearly lost the fulfilment
 
-of my [[Love|love]].  I dawdled, I lounged about, because I could not give
+of my [[motifs/love|love]].  I dawdled, I lounged about, because I could not give
 
 up a bad name.  And, by God, it nearly hanged the dog."
 
@@ -24556,7 +24556,7 @@ have diagnosed it exactly right, my dear doctor, if I may call you
 
 so.  I could not give up the secret pleasure of being slandered."
 
-"By this [[Time|time]], however," said Mr. Pond, "other considerations have
+"By this [[motifs/time|time]], however," said Mr. Pond, "other considerations have
 
 come in and induced you to support the insupportable charge of
 
@@ -24572,7 +24572,7 @@ would count his first comment a peculiar extension of the laugh.
 
 confess that I didn't kill the man.  To confess that I never made
 
-[[Love|love]] to the man's wife.  In short, to confess that I was a humbug.
+[[motifs/love|love]] to the man's wife.  In short, to confess that I was a humbug.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -24581,7 +24581,7 @@ Certo, era un umore, e per giunta morboso; erano davvero stati
 
 abbastanza diversi; ma avevano qualcosa in comune.
 
-"Il polacco era quello che mi piaceva di più; aveva senso dell'[[Humour|umorismo]], e modi
+"Il polacco era quello che mi piaceva di più; aveva senso dell'umorismo, e modi
 
 ammirevoli; ma capii che cosa intendesse quando declinò così
 
@@ -24605,7 +24605,7 @@ peggiori di loro, direi. Di Blande non saprei dire di peggio
 
 se non che è probabilmente troppo stupido per capire qualcosa che non sia
 
-il suo stesso [[Body|corpo]]. Non ha mente abbastanza per sapere di avere una
+il suo stesso [[concepts/body|corpo]]. Non ha mente abbastanza per sapere di avere una
 
 mente. Conosciamo tutti Sir Oscar Marvell; lo ricordo mentre usciva a passo di marcia,
 
@@ -24613,7 +24613,7 @@ il mantello foderato che sventolava come se si trascinasse dietro infiniti
 
 echi degli innocui applausi delle svampite—ma di donne più sciocche
 
-[[Well|del pari]]. Quanto al tenore italiano, somigliava straordinariamente all'attore
+[[motifs/well|del pari]]. Quanto al tenore italiano, somigliava straordinariamente all'attore
 
 inglese. Non si potrebbe dire nulla di peggio di lui.
 
@@ -24621,7 +24621,7 @@ inglese. Non si potrebbe dire nulla di peggio di lui.
 
 stati scelti da un uomo abile benché quasi pazzo come i sei uomini di
 
-[[London|Londra]] più propensi a ordire un intrigo per sedurgli la moglie. Poi, con
+[[settings/london|Londra]] più propensi a ordire un intrigo per sedurgli la moglie. Poi, con
 
 un grande sussulto, tornai letteralmente in me. Mi resi davvero conto
 
@@ -24639,9 +24639,9 @@ alle mogli altrui. . . . Sai, Pond, che non ero davvero così
 
 malvagio come tutto ciò; ma allora, forse, non lo erano neanche loro. Eravamo tutti
 
-[[Innocent|innocenti]] in quel caso; eppure il nembo temporalesco sul [[Garden|giardino]]
+[[archetypes/innocent|innocenti]] in quel caso; eppure il nembo temporalesco sul [[motifs/garden|giardino]]
 
-gravava su di noi come un giudizio. Così ero [[Innocent|innocente]], in quel caso che tu
+gravava su di noi come un giudizio. Così ero [[archetypes/innocent|innocente]], in quel caso che tu
 
 ricordi, quando per poco non fui impiccato per aver gironzolato attorno a una donna che
 
@@ -24653,7 +24653,7 @@ lo stato delle nostre anime, ciò che gli indicibili cafoni dei giornali
 
 chiamano attrazione sessuale. Ecco perché per poco non fui impiccato; e perché c'era
 
-un cadavere nella [[house|casa]] alle mie spalle. E mi passarono per
+un cadavere nella casa alle mie spalle. E mi passarono per
 
 la testa come il calpestio di eserciti, vecchi versi scritti tanto tempo fa, su
 
@@ -24663,31 +24663,31 @@ rifiutando Lancillotto all'ultimo, dice in parole che per me avevano un tintinni
 
 di ferro:
 
-"Ché [[Well|ben]] tu sai che di questa vita
+"Ché [[motifs/well|ben]] tu sai che di questa vita
 
 null'altro viene che rissa turpe e amara
 
-e [[Death|morte]] d'uomini e grande travaglio.
+e [[motifs/death|morte]] d'uomini e grande travaglio.
 
 "Avevo gironzolato attorno a tutte quelle cose, e pure non mi ero mai
 
 visto chiaramente farlo; finché due giudizi mi colpirono come la
 
-[[Storm|tempesta]] scesa dal cielo. Per poco non ricevetti una sentenza da un giudice in
+[[motifs/storm|tempesta]] scesa dal cielo. Per poco non ricevetti una sentenza da un giudice in
 
-berretto nero e vesti rosso [[Blood|sangue]], che dovessi essere impiccato per il
+berretto nero e vesti rosso [[motifs/blood|sangue]], che dovessi essere impiccato per il
 
 collo fino alla morte. E, peggio ancora, ricevetti un invito
 
 da Lord Crome."
 
-Continuò a guardare fuori dalla [[Window|finestra]]; ma Pond lo udì mormorare
+Continuò a guardare fuori dalla [[motifs/window|finestra]]; ma Pond lo udì mormorare
 
-di nuovo, come il fioco brontolio del tuono: "E [[Death|morte]] d'uomini
+di nuovo, come il fioco brontolio del tuono: "E [[motifs/death|morte]] d'uomini
 
 e grande travaglio."
 
-Nel vasto [[Silence|silenzio]] che seguì, il signor Pond disse con una vocina
+Nel vasto [[motifs/silence|silenzio]] che seguì, il signor Pond disse con una vocina
 
 piccolissima:
 
@@ -24695,7 +24695,7 @@ piccolissima:
 
 Gahagan si voltò, quasi col gesto di gettare in aria le
 
-mani, che parvero riempire il vano della [[Window|finestra]] con la sua stessa
+mani, che parvero riempire il vano della [[motifs/window|finestra]] con la sua stessa
 
 gigantesca corporatura; ma era notevolmente pallido.
 
@@ -24705,19 +24705,19 @@ Sorrise all'amico, ma con un sorriso vitreo e piuttosto
 
 spettrale, e poi proseguì:
 
-"Sì; tenevo di più a quel lercio straccio di [[Vanity|vanità]], peggiore di ogni
+"Sì; tenevo di più a quel lercio straccio di [[concepts/vanity|vanità]], peggiore di ogni
 
 vizio, di quanto tenessi a qualsiasi vizio. Quanti uomini hanno venduto l'anima
 
 per essere ammirati dagli sciocchi? Io per poco non lo feci, solo per essere sospettato dagli
 
-sciocchi. Essere l'uomo pericoloso, il cavallo [[Horse|nero]], l'uomo di cui
+sciocchi. Essere l'uomo pericoloso, il cavallo [[motifs/horse|nero]], l'uomo di cui
 
-le famiglie dovrebbero avere paura—ecco la specie di abietta [[Ambition|ambizione]] per
+le famiglie dovrebbero avere paura—ecco la specie di abietta [[concepts/ambition|ambizione]] per
 
 la quale sprecai tanta parte della mia vita, e per poco non persi il compimento
 
-del mio [[Love|amore]]. Bighellonai, gironzolai, perché non riuscivo a rinunciare
+del mio [[motifs/love|amore]]. Bighellonai, gironzolai, perché non riuscivo a rinunciare
 
 a una cattiva fama. E, per Dio, quel cane per poco non finì impiccato."
 
@@ -24751,7 +24751,7 @@ diagnosticato esattamente, mio caro dottore, se posso chiamarti
 
 così. Non riuscivo a rinunciare al segreto piacere di essere calunniato."
 
-"A quest'[[Time|ora]], tuttavia," disse il signor Pond, "altre considerazioni sono
+"A quest'[[motifs/time|ora]], tuttavia," disse il signor Pond, "altre considerazioni sono
 
 entrate in gioco e ti hanno indotto a sostenere l'insostenibile accusa di
 
@@ -24767,22 +24767,22 @@ giudicherebbero il suo primo commento una peculiare estensione della risata.
 
 confessare che non uccisi l'uomo. A confessare che non feci mai la
 
-[[Love|corte]] alla moglie dell'uomo. Insomma, a confessare che ero un impostore.
+[[motifs/love|corte]] alla moglie dell'uomo. Insomma, a confessare che ero un impostore.
 
 
 
 <span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_10" data-title="MrPond — Louis; and shouted as if on parade: (part 10)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/love,motif/nature,motif/road,motif/storm,motif/time,motif/well,concept/nature,concept/paradox,form/tragedy,character/chorus"></span>
 
 
-To confess that I am not a dangerous man . . . [[Well|well]], anyhow, after
+To confess that I am not a dangerous man . . . [[motifs/well|well]], anyhow, after
 
 I'd done all that, I went on whistling, and as happy as a bird, to--
 
-[[Well|well]], I think you know where I went to.  There's a girl I ought to
+[[motifs/well|well]], I think you know where I went to.  There's a girl I ought to
 
 have fixed things up with long ago; and I always wanted to do it;
 
-that's the [[Paradox|paradox]].  But a damned sight sillier [[Paradox|paradox]] than any of
+that's the [[concepts/paradox|paradox]].  But a damned sight sillier [[concepts/paradox|paradox]] than any of
 
 your paradoxes, Pond."
 
@@ -24794,7 +24794,7 @@ not so old, nor despite his manner so cold, as not to form some
 
 sort of guess about the actual termination of the rather
 
-exasperating [[Romance|romance]] of Captain Gahagan.
+exasperating romance of Captain Gahagan.
 
 This story started with some statements about the way in which
 
@@ -24804,23 +24804,23 @@ another tale, especially when they are true tales.  This story also
 
 started, and ought also presumably to stop, with the very
 
-extraordinary [[Tragedy|tragedy]] and scandal in the [[house]] of Lord Crome, when
+extraordinary [[forms/tragedy|tragedy]] and scandal in the house of Lord Crome, when
 
 that promising young politician, Mr. Pitt-Palmer, unaccountably
 
 tumbled down dead.  It ought really to end with a proper account of
 
-his impressive public funeral; of the [[Chorus|chorus]] of praise devoted to
+his impressive public funeral; of the [[characters/chorus|chorus]] of praise devoted to
 
 him in the Press; and the stately compliments laid on his tomb like
 
-[[Flowers|flowers]] from the leaders of all the parties in Parliament; from
+[[motifs/flowers|flowers]] from the leaders of all the parties in Parliament; from
 
 those eloquent words of the Leader of the Opposition beginning
 
 "Much as we may have differed in politics," to those (if possible)
 
-still more eloquent observations of the Leader of the [[house|House]],
+still more eloquent observations of the Leader of the House,
 
 beginning "Confident as I am that our cause is independent even of
 
@@ -24834,9 +24834,9 @@ wedding of Gahagan.  It will be enough to say that, as already
 
 hinted, the actual effect of this shocking incident on Gahagan was
 
-to drive him back to an old [[Love|love]]; an old [[Love|love]] who was still
+to drive him back to an old [[motifs/love|love]]; an old [[motifs/love|love]] who was still
 
-conveniently young.  A certain Miss Violet Varney was at that [[Time|time]]
+conveniently young.  A certain Miss Violet Varney was at that [[motifs/time|time]]
 
 prominent on the stage; the word "prominent" has been selected with
 
@@ -24858,13 +24858,13 @@ Chronicles of the Kings of Israel?
 
 It is enough to say that on that particular morning, swept clear
 
-and shining after the [[Storm|storm]], Captain Gahagan came out of the church
+and shining after the [[motifs/storm|storm]], Captain Gahagan came out of the church
 
-in the little by-street and very cheerfully took the [[Road|road]] to the
+in the little by-street and very cheerfully took the [[motifs/road|road]] to the
 
-[[house]] of the Varney family, where he found Miss Joan Varney
+house of the Varney family, where he found Miss Joan Varney
 
-pottering about in the [[Garden|garden]] with a spud, and told her several
+pottering about in the [[motifs/garden|garden]] with a spud, and told her several
 
 things of some importance to both of them.  When Miss Violet Varney
 
@@ -24882,7 +24882,7 @@ engagement into the society papers first.
 
 THE TERRIBLE TROUBADOUR
 
-"In [[Nature|nature]] you must go very low to find things that go so high."
+"In [[concepts/nature|nature]] you must go very low to find things that go so high."
 
 This was commonly included by collectors among the Paradoxes of Mr.
 
@@ -24965,15 +24965,15 @@ But, at least, he was far too tactful to apologize, or even too
 
 <span class="qlang-split" data-lang="it"></span>
 
-Confessare che non sono un uomo pericoloso . . . [[Well|Beh]], comunque, dopo
+Confessare che non sono un uomo pericoloso . . . [[motifs/well|Beh]], comunque, dopo
 
 aver fatto tutto ciò, me ne andai fischiettando, e felice come un uccellino, verso—
 
-[[Well|beh]], credo che tu sappia dove andai. C'è una ragazza con cui avrei
+[[motifs/well|beh]], credo che tu sappia dove andai. C'è una ragazza con cui avrei
 
 dovuto sistemare le cose molto tempo fa; e ho sempre voluto farlo;
 
-questo è il [[Paradox|paradosso]]. Ma un [[Paradox|paradosso]] dannatamente più sciocco di qualunque
+questo è il [[concepts/paradox|paradosso]]. Ma un [[concepts/paradox|paradosso]] dannatamente più sciocco di qualunque
 
 dei tuoi paradossi, Pond."
 
@@ -24985,7 +24985,7 @@ così vecchio, né malgrado i suoi modi così freddo, da non farsi qualche
 
 sorta di congettura sull'effettiva conclusione del piuttosto
 
-esasperante [[Romance|romanzo]] del capitano Gahagan.
+esasperante romanzo del capitano Gahagan.
 
 Questa storia cominciò con alcune affermazioni sul modo in cui
 
@@ -24995,23 +24995,23 @@ un altro racconto, specialmente quando sono racconti veri. Questa storia cominci
 
 anche, e dovrebbe presumibilmente anche fermarsi, con la
 
-straordinarissima [[Tragedy|tragedia]] e lo scandalo nella [[house|casa]] di Lord Crome, quando
+straordinarissima [[forms/tragedy|tragedia]] e lo scandalo nella casa di Lord Crome, quando
 
 quel promettente giovane politico, il signor Pitt-Palmer, cadde giù
 
 morto in modo inspiegabile. Dovrebbe davvero terminare con un debito resoconto
 
-del suo imponente funerale pubblico; del [[Chorus|coro]] di lodi a lui
+del suo imponente funerale pubblico; del [[characters/chorus|coro]] di lodi a lui
 
 dedicate dalla stampa; e dei solenni complimenti deposti sulla sua tomba come
 
-[[Flowers|fiori]] dai capi di tutti i partiti in Parlamento; da
+[[motifs/flowers|fiori]] dai capi di tutti i partiti in Parlamento; da
 
 quelle eloquenti parole del capo dell'opposizione che cominciavano
 
 "Per quanto possiamo aver dissentito in politica," fino a quelle (se possibile)
 
-ancor più eloquenti osservazioni del capo della [[house|Camera]],
+ancor più eloquenti osservazioni del capo della Camera,
 
 che cominciavano "Certo come sono che la nostra causa è indipendente perfino
 
@@ -25025,9 +25025,9 @@ nozze di Gahagan. Basterà dire che, come già
 
 accennato, l'effetto reale di questo sconvolgente incidente su Gahagan fu
 
-di ricacciarlo verso un vecchio [[Love|amore]]; un vecchio [[Love|amore]] che era ancora
+di ricacciarlo verso un vecchio [[motifs/love|amore]]; un vecchio [[motifs/love|amore]] che era ancora
 
-convenientemente giovane. Una certa signorina Violet Varney era a quel [[Time|tempo]]
+convenientemente giovane. Una certa signorina Violet Varney era a quel [[motifs/time|tempo]]
 
 di spicco sulla scena; la parola "di spicco" è stata scelta con
 
@@ -25049,13 +25049,13 @@ Cronache dei Re d'Israele?
 
 Basti dire che quella particolare mattina, spazzata limpida
 
-e splendente dopo la [[Storm|tempesta]], il capitano Gahagan uscì dalla chiesa
+e splendente dopo la [[motifs/storm|tempesta]], il capitano Gahagan uscì dalla chiesa
 
-nella stradina laterale e, molto allegramente, prese la [[Road|strada]] verso la
+nella stradina laterale e, molto allegramente, prese la [[motifs/road|strada]] verso la
 
-[[house|casa]] della famiglia Varney, dove trovò la signorina Joan Varney
+casa della famiglia Varney, dove trovò la signorina Joan Varney
 
-che gironzolava nel [[Garden|giardino]] con una zappetta, e le disse parecchie
+che gironzolava nel [[motifs/garden|giardino]] con una zappetta, e le disse parecchie
 
 cose di una certa importanza per entrambi. Quando la signorina Violet Varney
 
@@ -25073,7 +25073,7 @@ fidanzamento sui giornali mondani.
 
 IL TERRIBILE TROVATORE
 
-"In [[Nature|natura]] devi scendere molto in basso per trovare cose che salgono così in alto."
+"In [[concepts/nature|natura]] devi scendere molto in basso per trovare cose che salgono così in alto."
 
 Questa era comunemente inclusa dai collezionisti tra i Paradossi del signor
 
@@ -25220,7 +25220,7 @@ rope-ladder and ends with a rope."
 
 Mr. Pond, as he heard the unequal step of his lame friend echoing
 
-away down the paved paths of the [[Garden|garden]], relapsed into a gloomy
+away down the paved paths of the [[motifs/garden|garden]], relapsed into a gloomy
 
 mood.  He was quite willing to accept his medical friend merely as
 
@@ -25232,13 +25232,13 @@ Cyprian was going to tell, it was another story against his
 
 unfortunate friend Peter Gahagan.  And Gahagan was so very
 
-unfortunate as to suggest to some a wild [[Doubt|doubt]] about whether he was
+unfortunate as to suggest to some a wild [[concepts/doubt|doubt]] about whether he was
 
 merely unfortunate.  Some had the sudden and horrible thought that,
 
 perhaps, he was fortunate.  Twice before, he had been mixed up in
 
-matters involving a mysterious and violent [[Death|death]]; with, at least, a
+matters involving a mysterious and violent [[motifs/death|death]]; with, at least, a
 
 savour of murder.  In both cases he had been cleared.  But three is
 
@@ -25248,7 +25248,7 @@ Finally, the Rev. Cyprian Whiteways was a shock; a shock because of
 
 his frankness and fair-mindedness.
 
-Mr. Pond would never, at any [[Time|time]], have stooped to the stupid idea
+Mr. Pond would never, at any [[motifs/time|time]], have stooped to the stupid idea
 
 that clergymen are stupid.  He did not take his ideas of real life
 
@@ -25264,11 +25264,11 @@ countryside with him in an indescribable suggestion of depth and
 
 background; he could not talk of common things without, somehow,
 
-suggesting the weather or the turn of [[Night|night]] or day; he was a born
+suggesting the weather or the turn of [[motifs/night|night]] or day; he was a born
 
-descriptive writer who only talked.  But nobody could [[Doubt|doubt]] that it
+descriptive writer who only talked.  But nobody could [[concepts/doubt|doubt]] that it
 
-was [[Truth|truth]]; or, at least, truthfulness.
+was [[concepts/truth|truth]]; or, at least, truthfulness.
 
 It was so substantial a witness who told Mr. Pond in considerable
 
@@ -25300,7 +25300,7 @@ intervention was a solicitor named Luke Little, very much on the
 
 spot.
 
-Mr. Pond's friend, Sir [[Hubert]] Wotton, the [[Well|well]]-known diplomatist,
+Mr. Pond's friend, Sir [[characters/hubert|Hubert]] Wotton, the [[motifs/well|well]]-known diplomatist,
 
 took the chair; but Mr. Little did not mind who took chairs so long
 
@@ -25310,7 +25310,7 @@ as he took charge.
 
 special assurance would have induced me to place my client's case
 
-before it.  Sir [[Hubert]] and Mr. Pond declare, I understand, that an
+before it.  Sir [[characters/hubert|Hubert]] and Mr. Pond declare, I understand, that an
 
 explanation will be demanded here and now."
 
@@ -25328,7 +25328,7 @@ His friend, Wotton, looked at Pond for a moment with a frosty stare
 
 of surprise; but he stared a great deal more when he was startled
 
-by Gahagan himself, speaking, suddenly, for the first and last [[Time|time]]
+by Gahagan himself, speaking, suddenly, for the first and last [[motifs/time|time]]
 
 in all the first hours of the interview.
 
@@ -25354,13 +25354,13 @@ supervision.  But even as he heard it again in more exact form, he
 
 could not get rid of a feeling that the scene described was
 
-unnaturally vivid to him, but with the vividness of a [[nightmare]].
+unnaturally vivid to him, but with the vividness of a nightmare.
 
 There was no particular reason, at that stage, for comparing the
 
-story to a [[nightmare]]; except that the two principal incidents
+story to a nightmare; except that the two principal incidents
 
-happened at [[Night|night]].
+happened at [[motifs/night|night]].
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -25427,7 +25427,7 @@ scala di corda e finisce con una corda."
 
 Il signor Pond, mentre udiva il passo ineguale del suo amico zoppo echeggiare
 
-lungo i sentieri lastricati del [[Garden|giardino]], ricadde in un umore
+lungo i sentieri lastricati del [[motifs/garden|giardino]], ricadde in un umore
 
 cupo. Era del tutto disposto ad accettare l'amico medico come semplice
 
@@ -25439,13 +25439,13 @@ Cyprian stesse per raccontare, era un'altra storia contro il suo
 
 sventurato amico Peter Gahagan. E Gahagan era così
 
-sfortunato da suggerire ad alcuni un selvaggio [[Doubt|dubbio]] sul fatto che fosse
+sfortunato da suggerire ad alcuni un selvaggio [[concepts/doubt|dubbio]] sul fatto che fosse
 
 soltanto sfortunato. Alcuni ebbero l'improvviso e orribile pensiero che,
 
 forse, fosse fortunato. Due volte prima era stato immischiato in
 
-faccende che comportavano una misteriosa e violenta [[Death|morte]]; con, almeno, un
+faccende che comportavano una misteriosa e violenta [[motifs/death|morte]]; con, almeno, un
 
 sentore di omicidio. In entrambi i casi era stato scagionato. Ma tre è
 
@@ -25455,7 +25455,7 @@ Infine, il rev. Cyprian Whiteways fu una sorpresa; una sorpresa per la
 
 sua franchezza e imparzialità.
 
-Il signor Pond non si sarebbe mai, in nessun [[Time|momento]], abbassato alla stupida idea
+Il signor Pond non si sarebbe mai, in nessun [[motifs/time|momento]], abbassato alla stupida idea
 
 che gli ecclesiastici siano stupidi. Non traeva le sue idee sulla vita reale
 
@@ -25471,11 +25471,11 @@ campagna inglese in un'indescrivibile suggestione di profondità e
 
 sfondo; non poteva parlare di cose comuni senza, in qualche modo,
 
-evocare il tempo o il volgere della [[Night|notte]] o del giorno; era uno
+evocare il tempo o il volgere della [[motifs/night|notte]] o del giorno; era uno
 
-scrittore descrittivo nato che si limitava a parlare. Ma nessuno poteva [[Doubt|dubitare]] che fosse
+scrittore descrittivo nato che si limitava a parlare. Ma nessuno poteva [[concepts/doubt|dubitare]] che fosse
 
-[[Truth|verità]]; o, almeno, veridicità.
+[[concepts/truth|verità]]; o, almeno, veridicità.
 
 Fu un testimone tanto solido a raccontare al signor Pond con notevole
 
@@ -25507,7 +25507,7 @@ intervento era un procuratore di nome Luke Little, molto sul
 
 posto.
 
-L'amico del signor Pond, Sir [[Hubert]] Wotton, il [[Well|noto]] diplomatico,
+L'amico del signor Pond, Sir [[characters/hubert|Hubert]] Wotton, il [[motifs/well|noto]] diplomatico,
 
 assunse la presidenza; ma al signor Little non importava chi presiedesse, purché
 
@@ -25517,7 +25517,7 @@ fosse lui a prendere le redini.
 
 speciale assicurazione mi avrebbe indotto a esporre il caso del mio cliente
 
-davanti a essa. Sir [[Hubert]] e il signor Pond dichiarano, se ho ben capito, che una
+davanti a essa. Sir [[characters/hubert|Hubert]] e il signor Pond dichiarano, se ho ben capito, che una
 
 spiegazione sarà richiesta qui e ora."
 
@@ -25535,7 +25535,7 @@ Il suo amico, Wotton, guardò Pond per un momento con uno sguardo gelido
 
 di sorpresa; ma sgranò molto di più gli occhi quando fu colto di sorpresa
 
-da Gahagan stesso, che parlava, d'improvviso, per la prima e ultima [[Time|volta]]
+da Gahagan stesso, che parlava, d'improvviso, per la prima e ultima [[motifs/time|volta]]
 
 in tutte le prime ore del colloquio.
 
@@ -25561,30 +25561,30 @@ sorveglianza legale. Ma persino nel riudirla in forma più esatta,
 
 non poteva liberarsi della sensazione che la scena descritta gli fosse
 
-innaturalmente vivida, ma con la vividezza di un [[nightmare|incubo]].
+innaturalmente vivida, ma con la vividezza di un incubo.
 
 Non c'era una ragione particolare, a quel punto, per paragonare la
 
-storia a un [[nightmare|incubo]]; se non che i due incidenti principali
+storia a un incubo; se non che i due incidenti principali
 
-accaddero di [[Night|notte]].
+accaddero di [[motifs/night|notte]].
 
 
 
 <span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_12" data-title="MrPond — Louis; and shouted as if on parade: (part 12)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt" data-tags="archetype/artist,motif/animals,motif/garden,motif/leaves,motif/night,motif/river,motif/time,motif/well,concept/hope,concept/madness,concept/solitude,form/tragedy"></span>
 
 
-They happened in the vicar's [[Garden|garden]], close to the balcony of the
+They happened in the vicar's [[motifs/garden|garden]], close to the balcony of the
 
-vicar's [[house]]; and perhaps the impression, which was rather like an
+vicar's house; and perhaps the impression, which was rather like an
 
-oppression, was somehow connected with another [[Night|night]] darkening the
+oppression, was somehow connected with another [[motifs/night|night]] darkening the
 
-[[Night|night]]; a living [[Night|night]] of vegetation; for it was suggested,
+[[motifs/night|night]]; a living [[motifs/night|night]] of vegetation; for it was suggested,
 
 throughout, that the balcony was loaded with pots and palms and
 
-clutched by climbing plants with heavy and pendent [[Leaves|leaves]].
+clutched by climbing plants with heavy and pendent [[motifs/leaves|leaves]].
 
 Perhaps, after all, it was only some vague, verbal association with
 
@@ -25598,7 +25598,7 @@ his creed of blind growth and a groping life-force in a godless
 
 dark; for Green developed his view of development with every fancy
 
-from botany as [[Well|well]] as biology.
+from botany as [[motifs/well|well]] as biology.
 
 On the whole, however, Mr. Pond concluded that his own queer mood
 
@@ -25608,47 +25608,47 @@ to describe in detail.  For the vicar had been obliged to explain,
 
 on both occasions, in order to make his tale intelligible, that the
 
-front of the balcony was scaled from below by a [[titanic]], tropical
+front of the balcony was scaled from below by a titanic, tropical
 
 creeper, with ribbed and interlaced limbs and large, fantastic
 
-[[Leaves|leaves]].  It is not altogether an exaggeration to say that the
+[[motifs/leaves|leaves]].  It is not altogether an exaggeration to say that the
 
 creeper was the principal character in the story.
 
 "This business happened during the Great War," explained the
 
-clergyman, "when my daughter and I were living in my [[house]] at
+clergyman, "when my daughter and I were living in my house at
 
 Hanging Burgess.  But the two houses on each side of us were empty,
 
-due to the drainage of human material common at the [[Time|time]].  At
+due to the drainage of human material common at the [[motifs/time|time]].  At
 
 least, they were both empty for a considerable period, though they
 
-were handsome houses with large gardens, sloping down to the [[River|river]].
+were handsome houses with large gardens, sloping down to the [[motifs/river|river]].
 
 Then my friend Dr. Green came down to be my next-door neighbour and
 
 prosecute his scientific researches in a quiet place.  He was
 
-writing a book, you know, on the domestication of [[Animals|animals]]; [[dogs]] and
+writing a book, you know, on the domestication of [[motifs/animals|animals]]; dogs and
 
 cats and pet marmosets and monkeys, and so on; and my daughter, who
 
 is interested in such pets, helped him a little with his work.
 
-"It is a happy [[Time|time]] to look back upon, for us who were old cronies;
+"It is a happy [[motifs/time|time]] to look back upon, for us who were old cronies;
 
-perhaps because it was a quiet [[Time|time]].
+perhaps because it was a quiet [[motifs/time|time]].
 
-"And then our [[Solitude|solitude]] was broken, as it seemed by accident, and
+"And then our [[concepts/solitude|solitude]] was broken, as it seemed by accident, and
 
-all the trouble and [[Tragedy|tragedy]] began.
+all the trouble and [[forms/tragedy|tragedy]] began.
 
-"First of all, a young [[Artist|artist]] of the name of Albert Ayres rented
+"First of all, a young [[archetypes/artist|artist]] of the name of Albert Ayres rented
 
-the [[house]] next door, though he seemed to want it mostly for a base
+the house next door, though he seemed to want it mostly for a base
 
 in which to leave his baggage, for he was wandering over the
 
@@ -25660,11 +25660,11 @@ straight away next morning on one of his sketching tours.  I mean
 
 that we cannot, in any case, actually prove what became of him.
 
-Unfortunately, I know only too [[Well|well]] what became of him.
+Unfortunately, I know only too [[motifs/well|well]] what became of him.
 
 "He was an interesting individual; perhaps a little too like the
 
-old notion of an [[Artist|artist]]; the sort one can hardly call either
+old notion of an [[archetypes/artist|artist]]; the sort one can hardly call either
 
 carelessly or carefully picturesque; with a halo of yellow hair
 
@@ -25678,23 +25678,23 @@ relation to the war.  He had been invalided out, and what he was
 
 doing was a necessary job and not a funk-hole; and, at the moment,
 
-he was enjoying a short and very [[Well|well]]-earned holiday.
+he was enjoying a short and very [[motifs/well|well]]-earned holiday.
 
 "It is only fair to Captain Gahagan to say that, even in their
 
 subsequent quarrel, even in the last, blackest days of hatred, and,
 
-I [[Hope|hope]], of [[Madness|madness]], which ended in murder, the Captain never
+I [[concepts/hope|hope]], of [[concepts/madness|madness]], which ended in murder, the Captain never
 
 sneered at his rival upon that point, or assumed anything like the
 
-swagger of khaki.  But, at the [[Time|time]], Captain Gahagan was still in
+swagger of khaki.  But, at the [[motifs/time|time]], Captain Gahagan was still in
 
 khaki, having a very short leave from the front, which he was
 
 supposed to spend at the neighbouring inn, but did spend mostly in
 
-my [[house]].
+my house.
 
 "You will understand my reluctance in speaking of the matter; the
 
@@ -25712,7 +25712,7 @@ as follows:
 
 "One evening, just after sunset, or about dusk, I was walking in my
 
-[[Garden|garden]] with the doctor, and we were joined, shortly afterwards, by
+[[motifs/garden|garden]] with the doctor, and we were joined, shortly afterwards, by
 
 Albert Ayres.  I had just asked my friend Green to drop in and take
 
@@ -25744,7 +25744,7 @@ tell you what really happened; and you will see that it certainly
 
 had nothing to do with either lameness or Dr. Green.
 
-"In strolling round the [[Garden|garden]] we had paused under the giant
+"In strolling round the [[motifs/garden|garden]] we had paused under the giant
 
 creeper that grows out of the flower-bed and shoots right up to the
 
@@ -25754,24 +25754,24 @@ luxuriousness, when we all had a sort of a shock.  For we saw the
 
 whole creeper move and twist like a monstrous serpent, in that
 
-still [[Garden|garden]]; every limb of it heaved and writhed and the whole
+still [[motifs/garden|garden]]; every limb of it heaved and writhed and the whole
 
 framework of its foliage was shaken as by some impossibly localized
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Accaddero nel [[Garden|giardino]] del vicario, vicino al balcone della
+Accaddero nel [[motifs/garden|giardino]] del vicario, vicino al balcone della
 
-[[house|casa]] del vicario; e forse l'impressione, che era piuttosto simile a un'
+casa del vicario; e forse l'impressione, che era piuttosto simile a un'
 
-oppressione, era in qualche modo legata a un'altra [[Night|notte]] che oscurava la
+oppressione, era in qualche modo legata a un'altra [[motifs/night|notte]] che oscurava la
 
-[[Night|notte]]; una vivente [[Night|notte]] di vegetazione; poiché si suggeriva,
+[[motifs/night|notte]]; una vivente [[motifs/night|notte]] di vegetazione; poiché si suggeriva,
 
 per tutto il tempo, che il balcone fosse carico di vasi e palme e
 
-stretto da piante rampicanti dalle [[Leaves|foglie]] pesanti e pendenti.
+stretto da piante rampicanti dalle [[motifs/leaves|foglie]] pesanti e pendenti.
 
 Forse, dopo tutto, non era che una vaga associazione verbale con
 
@@ -25785,7 +25785,7 @@ suo credo di crescita cieca e di una brancolante forza vitale in un buio
 
 senza Dio; poiché Green sviluppava la sua visione dello sviluppo con ogni fantasia
 
-tratta dalla botanica come [[Well|pure]] dalla biologia.
+tratta dalla botanica come [[motifs/well|pure]] dalla biologia.
 
 Nel complesso, tuttavia, il signor Pond concluse che il proprio strano umore
 
@@ -25795,47 +25795,47 @@ descrivere in dettaglio. Poiché il vicario era stato costretto a spiegare,
 
 in entrambe le occasioni, per rendere intelligibile il suo racconto, che il
 
-fronte del balcone era scalato dal basso da un [[titanic|titanico]], tropicale
+fronte del balcone era scalato dal basso da un titanico, tropicale
 
 rampicante, dalle membra nervate e intrecciate e dalle grandi, fantastiche
 
-[[Leaves|foglie]]. Non è del tutto un'esagerazione dire che il
+[[motifs/leaves|foglie]]. Non è del tutto un'esagerazione dire che il
 
 rampicante era il personaggio principale della storia.
 
 "Questa faccenda accadde durante la Grande Guerra," spiegò il
 
-sacerdote, "quando io e mia figlia vivevamo nella mia [[house|casa]] a
+sacerdote, "quando io e mia figlia vivevamo nella mia casa a
 
 Hanging Burgess. Ma le due case ai nostri fianchi erano vuote,
 
-per via del prosciugamento di materiale umano comune a quel [[Time|tempo]]. Per
+per via del prosciugamento di materiale umano comune a quel [[motifs/time|tempo]]. Per
 
 lo meno, erano entrambe vuote da un considerevole periodo, benché fossero
 
-belle case con grandi giardini, che digradavano fino al [[River|fiume]].
+belle case con grandi giardini, che digradavano fino al [[motifs/river|fiume]].
 
 Poi il mio amico dottor Green venne a stabilirsi come mio vicino di casa e
 
 a proseguire le sue ricerche scientifiche in un luogo tranquillo. Stava
 
-scrivendo un libro, sai, sulla domesticazione degli [[Animals|animali]]; [[dogs|cani]] e
+scrivendo un libro, sai, sulla domesticazione degli [[motifs/animals|animali]]; cani e
 
 gatti e uistitì domestici e scimmie, e così via; e mia figlia, che
 
 s'interessa di tali animaletti, lo aiutò un poco nel suo lavoro.
 
-"È un [[Time|tempo]] felice a cui ripensare, per noi che eravamo vecchi compari;
+"È un [[motifs/time|tempo]] felice a cui ripensare, per noi che eravamo vecchi compari;
 
-forse perché era un [[Time|tempo]] tranquillo.
+forse perché era un [[motifs/time|tempo]] tranquillo.
 
-"E poi la nostra [[Solitude|solitudine]] fu spezzata, come parve per caso, e
+"E poi la nostra [[concepts/solitude|solitudine]] fu spezzata, come parve per caso, e
 
-cominciarono tutti i guai e la [[Tragedy|tragedia]].
+cominciarono tutti i guai e la [[forms/tragedy|tragedia]].
 
-"Prima di tutto, un giovane [[Artist|artista]] di nome Albert Ayres prese in affitto la
+"Prima di tutto, un giovane [[archetypes/artist|artista]] di nome Albert Ayres prese in affitto la
 
-[[house|casa]] accanto, benché sembrasse volerla soprattutto come base
+casa accanto, benché sembrasse volerla soprattutto come base
 
 in cui lasciare i bagagli, poiché andava vagando per la
 
@@ -25847,11 +25847,11 @@ subito la mattina dopo per uno dei suoi giri di schizzi. Voglio dire
 
 che non possiamo, in ogni caso, provare davvero che ne fu di lui.
 
-Purtroppo, so fin troppo [[Well|bene]] che ne fu di lui.
+Purtroppo, so fin troppo [[motifs/well|bene]] che ne fu di lui.
 
 "Era un individuo interessante; forse un po' troppo simile alla
 
-vecchia idea di un [[Artist|artista]]; il tipo che si può a stento definire
+vecchia idea di un [[archetypes/artist|artista]]; il tipo che si può a stento definire
 
 pittoresco per trascuratezza o per studio; con un'aureola di capelli gialli
 
@@ -25865,23 +25865,23 @@ riguardo alla guerra. Era stato congedato per invalidità, e ciò che
 
 faceva era un lavoro necessario e non un imboscamento; e, al momento,
 
-si stava godendo una breve e molto [[Well|meritata]] vacanza.
+si stava godendo una breve e molto [[motifs/well|meritata]] vacanza.
 
 "È giusto verso il capitano Gahagan dire che, persino nella loro
 
 successiva lite, persino negli ultimi, più neri giorni di odio, e,
 
-lo [[Hope|spero]], di [[Madness|follia]], che finì in omicidio, il capitano non
+lo [[concepts/hope|spero]], di [[concepts/madness|follia]], che finì in omicidio, il capitano non
 
 sogghignò mai al rivale su quel punto, né assunse mai qualcosa come la
 
-spavalderia del kaki. Ma, a quel [[Time|tempo]], il capitano Gahagan era ancora in
+spavalderia del kaki. Ma, a quel [[motifs/time|tempo]], il capitano Gahagan era ancora in
 
 kaki, con una brevissima licenza dal fronte, che avrebbe dovuto
 
 trascorrere alla vicina locanda, ma trascorreva per lo più nella
 
-mia [[house|casa]].
+mia casa.
 
 "Capirai la mia riluttanza a parlare della faccenda; il
 
@@ -25899,7 +25899,7 @@ i seguenti:
 
 "Una sera, subito dopo il tramonto, o all'incirca all'imbrunire, stavo passeggiando nel mio
 
-[[Garden|giardino]] col dottore, e ci raggiunse, poco dopo,
+[[motifs/garden|giardino]] col dottore, e ci raggiunse, poco dopo,
 
 Albert Ayres. Avevo appena chiesto al mio amico Green di fare un salto a prendere
 
@@ -25931,7 +25931,7 @@ dirvi che cosa accadde davvero; e vedrete che di certo
 
 non ebbe nulla a che fare né con la zoppìa né col dottor Green.
 
-"Passeggiando attorno al [[Garden|giardino]] ci eravamo fermati sotto il gigantesco
+"Passeggiando attorno al [[motifs/garden|giardino]] ci eravamo fermati sotto il gigantesco
 
 rampicante che cresce dall'aiuola e schizza dritto fino al
 
@@ -25941,7 +25941,7 @@ rigoglio, quando avemmo tutti una specie di sussulto. Poiché vedemmo l'
 
 intero rampicante muoversi e attorcigliarsi come un mostruoso serpente, in quel
 
-[[Garden|giardino]] immobile; ogni suo tralcio si sollevava e si contorceva e l'intera
+[[motifs/garden|giardino]] immobile; ogni suo tralcio si sollevava e si contorceva e l'intera
 
 impalcatura del suo fogliame era scossa come da un impossibilmente localizzato
 
@@ -25970,21 +25970,21 @@ to receive visitors, but that they generally came in by the front
 
 door.  He asked me, in a rather brazen way, if I had no poetic
 
-sympathy with [[Romeo]] and the [[Romance|romance]] of climbing balconies.  I
+sympathy with [[characters/romeo|Romeo]] and the romance of climbing balconies.  I
 
 preferred not to reply; but my friend, the doctor, was staring
 
 curiously at the creeper, probably in some freak of his merely
 
-botanical curiosity; and he said, with his faintly acid [[Humour|humour]]:
+botanical curiosity; and he said, with his faintly acid humour:
 
-'Isn't there rather a [[Satire|satire]] on [[Romeo]] in the fact that a weed like
+'Isn't there rather a [[forms/satire|satire]] on [[characters/romeo|Romeo]] in the fact that a weed like
 
 that can climb a balcony?  It isn't quite so common to see a
 
 tropical plant ringing the bell and coming in at the front door.
 
-Climbing doesn't seem a safe way of classifying.  In [[Nature|nature]], you
+Climbing doesn't seem a safe way of classifying.  In [[concepts/nature|nature]], you
 
 must go very low to find things that go so high.'"
 
@@ -25992,11 +25992,11 @@ Mr. Pond sat up abruptly and seemed to exhale a breath; but all he
 
 said was, "I thought so."
 
-"The [[Artist|artist]] named Ayres," continued the vicar, "seemed more annoyed
+"The [[archetypes/artist|artist]] named Ayres," continued the vicar, "seemed more annoyed
 
 than either of us at this absurd adventure; and his comment was
 
-really much more provocative, though he only said, coolly:  '[[Well]],
+really much more provocative, though he only said, coolly:  '[[motifs/well|Well]],
 
 it looks an easy thing to climb; as easy as a great, green ladder.
 
@@ -26010,21 +26010,21 @@ things, that Gahagan was glaring at him, as he answered sharply:
 
 that they were both glaring at each other; and I guessed, for the
 
-first [[Time|time]], why they hated each other; and what was the meaning of
+first [[motifs/time|time]], why they hated each other; and what was the meaning of
 
-that scene in my quiet [[Garden|garden]].
+that scene in my quiet [[motifs/garden|garden]].
 
-"[[Well]], I will get on as quickly as I can to the culmination of
+"[[motifs/well|Well]], I will get on as quickly as I can to the culmination of
 
 these rash boasts, or challenges, of the two tragic rivals.  For,
 
-indeed, I do not know which of them had the worst [[Tragedy|tragedy]].  [[Night]]
+indeed, I do not know which of them had the worst [[forms/tragedy|tragedy]].  [[motifs/night|Night]]
 
-had fallen and the [[Moon|moon]] had risen, though it was not very much
+had fallen and the [[motifs/moon|moon]] had risen, though it was not very much
 
-later, cutting up the shady [[Garden|garden]] into a new pattern of shadows,
+later, cutting up the shady [[motifs/garden|garden]] into a new pattern of shadows,
 
-when I happened to look out of my study [[Window|window]], which is on an
+when I happened to look out of my study [[motifs/window|window]], which is on an
 
 upper floor.
 
@@ -26032,11 +26032,11 @@ upper floor.
 
 or rather howling, made me put my head, more or less carelessly,
 
-out of the [[Window|window]]; I assumed that it was one of Dr. Green's [[dogs]]
+out of the [[motifs/window|window]]; I assumed that it was one of Dr. Green's dogs
 
 and did not think much of the matter; subconsciously, perhaps,
 
-something spectral about the moonstruck [[Garden|garden]] and the mood that it
+something spectral about the moonstruck [[motifs/garden|garden]] and the mood that it
 
 stirred, or some more mysterious premonition of what was to follow,
 
@@ -26044,37 +26044,37 @@ made the howl sound more hollow and even horrible than it really
 
 was.
 
-"A clear [[Moon|moon]] was rising high behind me; most of the shady [[Garden|garden]]
+"A clear [[motifs/moon|moon]] was rising high behind me; most of the shady [[motifs/garden|garden]]
 
 was in all the denser shade; but there were large, pale patches and
 
 squares of moonshine on the paths and the wall in front of me, cut
 
-out as sharply as the pasteboard frame of some [[Shadow|shadow]]-pantomime.
+out as sharply as the pasteboard frame of some [[archetypes/shadow|shadow]]-pantomime.
 
 Perhaps the parallel seized on my fancy, partly because light and
 
-[[Shadow|shadow]] were thus bent or doubled into different planes, vertical or
+[[archetypes/shadow|shadow]] were thus bent or doubled into different planes, vertical or
 
 horizontal, like the black and white paper from which children cut
 
 out the figures for such a play.  Anyhow, I did think, instantly
 
-and very vividly, of a [[Shadow|shadow]]-pantomime; and, the next instant, I
+and very vividly, of a [[archetypes/shadow|shadow]]-pantomime; and, the next instant, I
 
 saw one of the pantomime figures passing in black silhouette across
 
 the wall.
 
-"I knew at once whose [[Shadow|shadow]] it was.  Of course, it was drawn out
+"I knew at once whose [[archetypes/shadow|shadow]] it was.  Of course, it was drawn out
 
 and distorted; you know how deceptive shadows are; but I could see
 
 the straggling tufts that reminded one of Struwwelpeter; and I
 
-think I told you before that Ayres, the [[Artist|artist]], was a little too
+think I told you before that Ayres, the [[archetypes/artist|artist]], was a little too
 
-like the traditional [[Artist|artist]] who hasn't had his hair cut.  Also, he
+like the traditional [[archetypes/artist|artist]] who hasn't had his hair cut.  Also, he
 
 affected that sort of languid stoop that such artists assume; and
 
@@ -26086,7 +26086,7 @@ exaggerate.
 
 the wall; and it was even more unmistakable.  It was also more
 
-active; it was not only a [[Shadow|shadow]]-pantomime but--in a pretty creepy
+active; it was not only a [[archetypes/shadow|shadow]]-pantomime but--in a pretty creepy
 
 sense--a knockabout pantomime."
 
@@ -26096,13 +26096,13 @@ stared at him, not because his intervention was important, but
 
 because it seemed trivial and totally unnecessary.  But before he
 
-relapsed again into [[Silence|silence]], he added:
+relapsed again into [[motifs/silence|silence]], he added:
 
-"The most deceptive thing about a [[Shadow|shadow]] is that it may be quite
+"The most deceptive thing about a [[archetypes/shadow|shadow]] is that it may be quite
 
 accurate."
 
-"[[Well]], really!" exploded Wotton; but his moderately mild explosion
+"[[motifs/well|Well]], really!" exploded Wotton; but his moderately mild explosion
 
 was overshadowed by one of the abrupt movements which once or twice
 
@@ -26118,17 +26118,17 @@ courtliness, and said:
 
 paradoxes.  We are all very proud of our Pond and of his paradoxes.
 
-Try them in your bath.  Pond's paradoxes are in every [[Home|home]].  What
+Try them in your bath.  Pond's paradoxes are in every [[motifs/home|home]].  What
 
 would Mother do without Pond's--"
 
-"Don't be a [[Fool|fool]], Gahagan!" said [[Hubert]] Wotton; and his voice had a
+"Don't be a [[archetypes/fool|fool]], Gahagan!" said [[characters/hubert|Hubert]] Wotton; and his voice had a
 
 ring of steel which his friends had always respected.  There was a
 
-[[Silence|silence]], in which Mr. Pond said simply:
+[[motifs/silence|silence]], in which Mr. Pond said simply:
 
-"I never uttered a [[Paradox|paradox]] in my life.  What I said was a truism."
+"I never uttered a [[concepts/paradox|paradox]] in my life.  What I said was a truism."
 
 The vicar of Hanging Burgess looked considerably baffled, but did
 
@@ -26163,21 +26163,21 @@ di ricevere ospiti, ma che essi in genere entravano dalla porta
 
 principale. Mi chiese, in modo piuttosto sfrontato, se non avessi alcuna
 
-simpatia poetica per [[Romeo]] e il [[Romance|romanticismo]] dell'arrampicarsi sui balconi.
+simpatia poetica per [[characters/romeo|Romeo]] e il romanticismo dell'arrampicarsi sui balconi.
 
 Preferii non rispondere; ma il mio amico, il dottore, fissava
 
 incuriosito il rampicante, probabilmente in qualche ghiribizzo della sua mera
 
-curiosità botanica; e disse, col suo umorismo [[Humour|leggermente acido]]:
+curiosità botanica; e disse, col suo umorismo leggermente acido:
 
-'Non c'è piuttosto una [[Satire|satira]] su [[Romeo]] nel fatto che un'erbaccia come
+'Non c'è piuttosto una [[forms/satire|satira]] su [[characters/romeo|Romeo]] nel fatto che un'erbaccia come
 
 quella può arrampicarsi su un balcone? Non è poi così comune vedere una
 
 pianta tropicale suonare il campanello ed entrare dalla porta principale.
 
-Arrampicarsi non sembra un modo sicuro di classificarsi. In [[Nature|natura]], devi
+Arrampicarsi non sembra un modo sicuro di classificarsi. In [[concepts/nature|natura]], devi
 
 scendere molto in basso per trovare cose che salgono così in alto.'"
 
@@ -26185,11 +26185,11 @@ Il signor Pond si raddrizzò di scatto e parve esalare un respiro; ma tutto ciò
 
 che disse fu: "Lo pensavo."
 
-"L'[[Artist|artista]] di nome Ayres," continuò il vicario, "sembrò più infastidito
+"L'[[archetypes/artist|artista]] di nome Ayres," continuò il vicario, "sembrò più infastidito
 
 di entrambi noi da quell'assurda avventura; e il suo commento fu
 
-davvero molto più provocatorio, benché dicesse soltanto, freddamente: '[[Well|Beh]],
+davvero molto più provocatorio, benché dicesse soltanto, freddamente: '[[motifs/well|Beh]],
 
 sembra una cosa facile da scalare; facile come una grande, verde scala.
 
@@ -26203,21 +26203,21 @@ cose, che Gahagan lo fissava torvo, mentre rispondeva secco:
 
 che si fissavano torvi l'un l'altro; e indovinai, per la
 
-prima [[Time|volta]], perché si odiassero; e quale fosse il significato di
+prima [[motifs/time|volta]], perché si odiassero; e quale fosse il significato di
 
-quella scena nel mio quieto [[Garden|giardino]].
+quella scena nel mio quieto [[motifs/garden|giardino]].
 
-"[[Well|Beh]], arriverò il più in fretta possibile al culmine di
+"[[motifs/well|Beh]], arriverò il più in fretta possibile al culmine di
 
 questi avventati vanti, o sfide, dei due tragici rivali. Poiché,
 
-in verità, non so quale dei due avesse la peggior [[Tragedy|tragedia]]. [[Night|La notte]]
+in verità, non so quale dei due avesse la peggior [[forms/tragedy|tragedia]]. [[motifs/night|La notte]]
 
-era scesa e la [[Moon|luna]] era sorta, benché non fosse molto più
+era scesa e la [[motifs/moon|luna]] era sorta, benché non fosse molto più
 
-tardi, tagliando l'ombroso [[Garden|giardino]] in un nuovo disegno di ombre,
+tardi, tagliando l'ombroso [[motifs/garden|giardino]] in un nuovo disegno di ombre,
 
-quando mi capitò di guardare fuori dalla [[Window|finestra]] del mio studio, che è a un
+quando mi capitò di guardare fuori dalla [[motifs/window|finestra]] del mio studio, che è a un
 
 piano superiore.
 
@@ -26225,11 +26225,11 @@ piano superiore.
 
 o piuttosto ulula, mi fece sporgere la testa, più o meno distrattamente,
 
-fuori dalla [[Window|finestra]]; supposi che fosse uno dei [[dogs|cani]] del dottor Green
+fuori dalla [[motifs/window|finestra]]; supposi che fosse uno dei cani del dottor Green
 
 e non ci feci molto caso; forse, inconsciamente,
 
-qualcosa di spettrale nel [[Garden|giardino]] illune di luna e l'umore che esso
+qualcosa di spettrale nel [[motifs/garden|giardino]] illune di luna e l'umore che esso
 
 destava, o qualche più misteriosa premonizione di ciò che stava per seguire,
 
@@ -26237,37 +26237,37 @@ fecero suonare l'ululato più cupo e persino più orribile di quanto
 
 fosse davvero.
 
-"Una limpida [[Moon|luna]] sorgeva alta dietro di me; gran parte dell'ombroso [[Garden|giardino]]
+"Una limpida [[motifs/moon|luna]] sorgeva alta dietro di me; gran parte dell'ombroso [[motifs/garden|giardino]]
 
 era nell'ombra più densa; ma c'erano larghe, pallide chiazze e
 
 quadrati di chiaro di luna sui sentieri e sul muro davanti a me, ritagliati
 
-nettamente come la cornice di cartone di un teatro d'[[Shadow|ombre]]. 
+nettamente come la cornice di cartone di un teatro d'[[archetypes/shadow|ombre]]. 
 
 Forse il paragone s'impadronì della mia fantasia, in parte perché luce e
 
-[[Shadow|ombra]] erano così piegate o raddoppiate in piani diversi, verticali o
+[[archetypes/shadow|ombra]] erano così piegate o raddoppiate in piani diversi, verticali o
 
 orizzontali, come la carta bianca e nera da cui i bambini ritagliano
 
 le figure per un tale spettacolo. Comunque, pensai, all'istante
 
-e assai vividamente, a un teatro d'[[Shadow|ombre]]; e, l'istante dopo,
+e assai vividamente, a un teatro d'[[archetypes/shadow|ombre]]; e, l'istante dopo,
 
 vidi una delle figure del teatro passare in nera silhouette attraverso
 
 il muro.
 
-"Riconobbi subito di chi fosse quell'[[Shadow|ombra]]. Certo, era allungata
+"Riconobbi subito di chi fosse quell'[[archetypes/shadow|ombra]]. Certo, era allungata
 
 e distorta; sai quanto siano ingannevoli le ombre; ma potevo vedere
 
 i ciuffi arruffati che ricordavano Pierino Porcospino; e
 
-credo di averti detto prima che Ayres, l'[[Artist|artista]], era un po' troppo
+credo di averti detto prima che Ayres, l'[[archetypes/artist|artista]], era un po' troppo
 
-simile al tradizionale [[Artist|artista]] che non si è tagliato i capelli. Inoltre,
+simile al tradizionale [[archetypes/artist|artista]] che non si è tagliato i capelli. Inoltre,
 
 ostentava quella specie di curvatura languida che tali artisti assumono; e
 
@@ -26279,7 +26279,7 @@ esagerano.
 
 muro; ed era ancor più inconfondibile. Era anche più
 
-attiva; non era solo un teatro d'[[Shadow|ombre]] ma—in un senso piuttosto
+attiva; non era solo un teatro d'[[archetypes/shadow|ombre]] ma—in un senso piuttosto
 
 inquietante—un teatro di percosse."
 
@@ -26289,13 +26289,13 @@ lo fissarono, non perché il suo intervento fosse importante, ma
 
 perché sembrava banale e del tutto superfluo. Ma prima di
 
-ricadere di nuovo nel [[Silence|silenzio]], aggiunse:
+ricadere di nuovo nel [[motifs/silence|silenzio]], aggiunse:
 
-"La cosa più ingannevole di un'[[Shadow|ombra]] è che può essere del tutto
+"La cosa più ingannevole di un'[[archetypes/shadow|ombra]] è che può essere del tutto
 
 esatta."
 
-"[[Well|Beh]], davvero!" esplose Wotton; ma la sua esplosione moderatamente mite
+"[[motifs/well|Beh]], davvero!" esplose Wotton; ma la sua esplosione moderatamente mite
 
 fu oscurata da uno di quei bruschi movimenti che una o due volte
 
@@ -26311,17 +26311,17 @@ di garbo cortigiano, e disse:
 
 Siamo tutti molto orgogliosi del nostro Pond e dei suoi paradossi.
 
-Provateli nel vostro bagno. I paradossi di Pond sono in ogni [[Home|casa]]. Che
+Provateli nel vostro bagno. I paradossi di Pond sono in ogni [[motifs/home|casa]]. Che
 
 cosa farebbe la mamma senza i paradossi di Pond—"
 
-"Non fare lo [[Fool|sciocco]], Gahagan!" disse [[Hubert]] Wotton; e la sua voce aveva un
+"Non fare lo [[archetypes/fool|sciocco]], Gahagan!" disse [[characters/hubert|Hubert]] Wotton; e la sua voce aveva un
 
 tintinnio d'acciaio che i suoi amici avevano sempre rispettato. Ci fu un
 
-[[Silence|silenzio]], nel quale il signor Pond disse semplicemente:
+[[motifs/silence|silenzio]], nel quale il signor Pond disse semplicemente:
 
-"Non ho mai pronunciato un [[Paradox|paradosso]] in vita mia. Ciò che ho detto era un truismo."
+"Non ho mai pronunciato un [[concepts/paradox|paradosso]] in vita mia. Ciò che ho detto era un truismo."
 
 Il vicario di Hanging Burgess appariva considerevolmente sconcertato, ma non
 
@@ -26346,15 +26346,15 @@ flash; but the other I saw plainly enough.
 
 "The first figure, the long-haired figure I had already identified
 
-with the [[Artist|artist]], ran very quickly across the moonlit patch and
+with the [[archetypes/artist|artist]], ran very quickly across the moonlit patch and
 
-vanished into the vast [[Shadow|shadow]] of the creeper that climbed the
+vanished into the vast [[archetypes/shadow|shadow]] of the creeper that climbed the
 
-balcony; but there is no [[Doubt|doubt]] that he began to climb the creeper.
+balcony; but there is no [[concepts/doubt|doubt]] that he began to climb the creeper.
 
 "The second figure stood for a moment, staring, in the full stare
 
-of the [[Moon|moon]]; and there was no [[Doubt|doubt]] about him at all.  It was
+of the [[motifs/moon|moon]]; and there was no [[concepts/doubt|doubt]] about him at all.  It was
 
 Captain Gahagan, in khaki, and he already had his big service
 
@@ -26362,15 +26362,15 @@ revolver in his hand.  In a high, unnatural voice he cried after
 
 and cursed the other unfortunate troubadour, who had climbed his
 
-romantic rope-ladder of [[Leaves|leaves]], exactly as he had climbed it
+romantic rope-ladder of [[motifs/leaves|leaves]], exactly as he had climbed it
 
 himself.
 
 "At that instant the whole situation became finally clear; for I
 
-saw the hairy head of the unfortunate [[Artist|artist]] rising out of the
+saw the hairy head of the unfortunate [[archetypes/artist|artist]] rising out of the
 
-tangle of tropical [[Leaves|leaves]], in [[Shadow|shadow]], but all the more unmistakable
+tangle of tropical [[motifs/leaves|leaves]], in [[archetypes/shadow|shadow]], but all the more unmistakable
 
 for being haloed in the moonshine.  But the same moonshine fell
 
@@ -26420,15 +26420,15 @@ creeper himself, though he had already shown how quickly he could
 
 do it.  Unfortunately, he did something else; which he could do
 
-much more quickly.  I saw the blue flash of the [[Pistol|pistol]]-barrel in
+much more quickly.  I saw the blue flash of the [[characters/pistol|pistol]]-barrel in
 
-the [[Moon|moon]], as he lifted it; and then the red flash; and then a puff
+the [[motifs/moon|moon]], as he lifted it; and then the red flash; and then a puff
 
 of smoke detached itself and climbed the sky, like a cloud; and the
 
 man on the green ladder fell crashing like a stone through the
 
-thrashing great [[Leaves|leaves]] to the dark space below.
+thrashing great [[motifs/leaves|leaves]] to the dark space below.
 
 "I could not see so clearly what was happening in that dark space;
 
@@ -26436,13 +26436,13 @@ but I knew, for all practical purposes, that the man was dead; for
 
 his slayer laid hold of one leg of the corpse and dragged it away
 
-down the darkling and descending paths of the [[Garden|garden]].  And when I
+down the darkling and descending paths of the [[motifs/garden|garden]].  And when I
 
 heard a distant splash, I knew he had thrown the corpse into the
 
-[[River|river]].
+[[motifs/river|river]].
 
-"[[Well]], as I told you before, that is my very serious testimony to
+"[[motifs/well|Well]], as I told you before, that is my very serious testimony to
 
 what I saw and knew; but I give it only from a sense of social duty
 
@@ -26482,29 +26482,29 @@ did not see."
 
 "You have stated it very clearly," said Mr. Pond.  "More clearly
 
-than you know.  But even on the clearest moonlight [[Night|night]], as we
+than you know.  But even on the clearest moonlight [[motifs/night|night]], as we
 
 agreed, shadows can be very deceptive."
 
-"You've said that before," said Sir [[Hubert]] rather irritably.
+"You've said that before," said Sir [[characters/hubert|Hubert]] rather irritably.
 
 "And, as I have also said before," observed the unruffled Mr. Pond,
 
-"a [[Shadow|shadow]] is most misleading when it is precisely correct."
+"a [[archetypes/shadow|shadow]] is most misleading when it is precisely correct."
 
-[[Silence]] suddenly fell on the group; and the [[Silence|silence]] became more and
+[[motifs/silence|Silence]] suddenly fell on the group; and the [[motifs/silence|silence]] became more and
 
 more tense, for, after these random shots, which seemed so very
 
 random, fired by Mr. Pond as he retired from the argument, everyone
 
-felt that nothing could now delay the main action.  For some [[Time|time]]
+felt that nothing could now delay the main action.  For some [[motifs/time|time]]
 
 it looked rather like inaction; for Gahagan, who had been growing
 
 gloomier and gloomier, still sat kicking his heels, as if he had
 
-nothing to say.  And indeed, when sharply called on by Sir [[Hubert]]
+nothing to say.  And indeed, when sharply called on by Sir [[characters/hubert|Hubert]]
 
 for his statement, he was, at first, understood to declare
 
@@ -26543,15 +26543,15 @@ lampo; ma l'altro lo vidi abbastanza chiaramente.
 
 «La prima figura, quella dai capelli lunghi che avevo già identificato
 
-con l'[[Artist|artista]], corse rapidissima attraverso la chiazza illuminata dalla luna e
+con l'[[archetypes/artist|artista]], corse rapidissima attraverso la chiazza illuminata dalla luna e
 
-scomparve nella vasta [[Shadow|ombra]] del rampicante che saliva lungo il
+scomparve nella vasta [[archetypes/shadow|ombra]] del rampicante che saliva lungo il
 
-balcone; ma non c'è [[Doubt|dubbio]] che cominciò ad arrampicarsi sul rampicante.
+balcone; ma non c'è [[concepts/doubt|dubbio]] che cominciò ad arrampicarsi sul rampicante.
 
 «La seconda figura restò un momento, fissa, in pieno sguardo
 
-della [[Moon|luna]]; e su di lui non c'era alcun [[Doubt|dubbio]].  Era
+della [[motifs/moon|luna]]; e su di lui non c'era alcun [[concepts/doubt|dubbio]].  Era
 
 il capitano Gahagan, in kaki, e teneva già la sua grande
 
@@ -26559,15 +26559,15 @@ rivoltella d'ordinanza in mano.  Con voce acuta, innaturale, gridò dietro
 
 e maledisse l'altro sventurato trovatore, che aveva scalato la sua
 
-romantica scala di corda di [[Leaves|foglie]], esattamente come l'aveva scalata
+romantica scala di corda di [[motifs/leaves|foglie]], esattamente come l'aveva scalata
 
-Se stesso.
+lui stesso.
 
 «In quell'istante l'intera situazione divenne finalmente chiara; perché
 
-vidi la testa irsuta dello sventurato [[Artist|artista]] emergere dal
+vidi la testa irsuta dello sventurato [[archetypes/artist|artista]] emergere dal
 
-groviglio di [[Leaves|foglie]] tropicali, in [[Shadow|ombra]], ma tanto più inconfondibile
+groviglio di [[motifs/leaves|foglie]] tropicali, in [[archetypes/shadow|ombra]], ma tanto più inconfondibile
 
 per essere aureolata dal chiaro di luna.  Ma lo stesso chiaro di luna cadde
 
@@ -26617,15 +26617,15 @@ rampicante lui stesso, benché avesse già mostrato con quanta rapidità sapesse
 
 farlo.  Purtroppo, fece qualcos'altro; che poteva fare
 
-molto più rapidamente.  Vidi il lampo azzurro della canna della [[Pistol|pistola]] nella
+molto più rapidamente.  Vidi il lampo azzurro della canna della [[characters/pistol|pistola]] nella
 
-[[Moon|luna]], mentre la sollevava; e poi il lampo rosso; e poi uno sbuffo
+[[motifs/moon|luna]], mentre la sollevava; e poi il lampo rosso; e poi uno sbuffo
 
 di fumo si staccò e salì nel cielo, come una nube; e
 
 l'uomo sulla verde scala precipitò fragorosamente come una pietra tra le
 
-grandi [[Leaves|foglie]] sferzanti fino allo spazio buio sottostante.
+grandi [[motifs/leaves|foglie]] sferzanti fino allo spazio buio sottostante.
 
 «Non riuscivo a vedere così chiaramente cosa stesse accadendo in quello spazio buio;
 
@@ -26633,13 +26633,13 @@ ma sapevo, a tutti gli effetti pratici, che l'uomo era morto; perché
 
 il suo uccisore afferrò una gamba del cadavere e lo trascinò via
 
-giù per i sentieri oscuri e digradanti del [[Garden|giardino]].  E quando
+giù per i sentieri oscuri e digradanti del [[motifs/garden|giardino]].  E quando
 
 udii un tonfo lontano, seppi che aveva gettato il cadavere nel
 
-[[River|fiume]].
+[[motifs/river|fiume]].
 
-«[[Well|Ebbene]], come vi ho detto prima, questa è la mia assai seria testimonianza su
+«[[motifs/well|Ebbene]], come vi ho detto prima, questa è la mia assai seria testimonianza su
 
 ciò che vidi e seppi; ma la rendo solo per un senso di dovere sociale
 
@@ -26679,29 +26679,29 @@ non abbia visto.»
 
 «L'ha affermato assai chiaramente,» disse il signor Pond.  «Più chiaramente
 
-di quanto lei sappia.  Ma anche nella più limpida [[Night|notte]] di luna, come
+di quanto lei sappia.  Ma anche nella più limpida [[motifs/night|notte]] di luna, come
 
 convenimmo, le ombre possono essere assai ingannevoli.»
 
-«L'ha già detto,» disse Sir [[Hubert]] piuttosto irritato.
+«L'ha già detto,» disse Sir [[characters/hubert|Hubert]] piuttosto irritato.
 
 «E, come ho pure già detto,» osservò l'imperturbabile signor Pond,
 
-«un'[[Shadow|ombra]] è più fuorviante quando è esattamente corretta.»
+«un'[[archetypes/shadow|ombra]] è più fuorviante quando è esattamente corretta.»
 
-Il [[Silence|Silenzio]] cadde d'improvviso sul gruppo; e il [[Silence|silenzio]] si fece sempre più
+Il [[motifs/silence|Silenzio]] cadde d'improvviso sul gruppo; e il [[motifs/silence|silenzio]] si fece sempre più
 
 teso, perché, dopo questi colpi a caso, che parevano così del tutto
 
 casuali, sparati dal signor Pond mentre si ritirava dalla discussione, ognuno
 
-sentì che nulla poteva ormai ritardare l'azione principale.  Per qualche [[Time|tempo]]
+sentì che nulla poteva ormai ritardare l'azione principale.  Per qualche [[motifs/time|tempo]]
 
 parve piuttosto inazione; perché Gahagan, che si era fatto
 
 sempre più cupo, stava ancora seduto a battere i tacchi, come se non avesse
 
-nulla da dire.  E in effetti, quando fu bruscamente sollecitato da Sir [[Hubert]]
+nulla da dire.  E in effetti, quando fu bruscamente sollecitato da Sir [[characters/hubert|Hubert]]
 
 a rendere la sua dichiarazione, si comprese, dapprima, che dichiarava
 
@@ -26762,7 +26762,7 @@ was committed by a lot of poor devils on leave from hell; to whom a
 
 holiday was heaven; only it was a very earthly paradise; a little
 
-too like a Moslem paradise.  I did make [[Love|love]] to your daughter when
+too like a Moslem paradise.  I did make [[motifs/love|love]] to your daughter when
 
 I had no right to, for I didn't really know my own mind.  None of
 
@@ -26776,9 +26776,9 @@ paused, as with a new embarrassment.
 
 "Go on," said Mr. Pond gently.
 
-"Only my rival wasn't the [[Artist|artist]] with the long hair," said Gahagan.
+"Only my rival wasn't the [[archetypes/artist|artist]] with the long hair," said Gahagan.
 
-[[Hubert]] Wotton again looked up sharply, with a frowning stare; but
+[[characters/hubert|Hubert]] Wotton again looked up sharply, with a frowning stare; but
 
 he spoke quietly as he directed Gahagan to tell his story properly
 
@@ -26786,25 +26786,25 @@ from the start.
 
 "I had better start," said Gahagan, "where the other story started:
 
-just about the [[Time|time]] when we both heard the howl of a dog in the
+just about the [[motifs/time|time]] when we both heard the howl of a dog in the
 
-dark [[Garden|garden]].  I may explain that I was actually staying with Ayres,
+dark [[motifs/garden|garden]].  I may explain that I was actually staying with Ayres,
 
-the [[Artist|artist]], for that [[Night|night]]; we had become quite good friends,
+the [[archetypes/artist|artist]], for that [[motifs/night|night]]; we had become quite good friends,
 
 really; though there may have been a bit of romantic swagger about
 
-the troubadour business at an earlier [[Time|time]].
+the troubadour business at an earlier [[motifs/time|time]].
 
 "I was packing up and sorting out some of my light luggage; that is
 
 how I happened to be cleaning my service revolver.  Ayres was
 
-looking through some of his [[Sketch|sketch]]-books; and I left him at it when
+looking through some of his [[forms/sketch|sketch]]-books; and I left him at it when
 
 I went out, just as Mr. Whiteways looked out, in casual curiosity,
 
-over that sudden noise in the [[Night|night]].  Only I heard what he did not
+over that sudden noise in the [[motifs/night|night]].  Only I heard what he did not
 
 hear.  I not only heard what sounded like the howl of a dog, but I
 
@@ -26818,27 +26818,27 @@ the face of Paul Green, that distinguished man of science.  He is
 
 distinguished and he looks distinguished; I remember thinking, at
 
-the [[Time|time]], what a fine head he had, and that the silver moulding of
+the [[motifs/time|time]], what a fine head he had, and that the silver moulding of
 
-his features under the [[Moon|moon]] made them quite beautiful.  I had a
+his features under the [[motifs/moon|moon]] made them quite beautiful.  I had a
 
 reason for having my attention thus arrested by that silvery mask,
 
 for, at that precise moment, it wore a sort of smile of hatred that
 
-turned one's [[Blood|blood]] cold.
+turned one's [[motifs/blood|blood]] cold.
 
 "Then the face vanished; and again my experience was much like the
 
 vicar's, except that I did not see everything which happened just
 
-behind my back.  But I swung round in [[Time|time]] to see that somebody had
+behind my back.  But I swung round in [[motifs/time|time]] to see that somebody had
 
 run across the path, and begun to climb the creeper.  He climbed it
 
 very quickly, much quicker than I had done, but it was not easy to
 
-see him or recognize him in the dark [[Shadow|shadow]] of the [[Leaves|leaves]].
+see him or recognize him in the dark [[archetypes/shadow|shadow]] of the [[motifs/leaves|leaves]].
 
 "I had an idea that he was long in the limbs and had the sort of
 
@@ -26846,13 +26846,13 @@ high-shouldered stoop that has been described; then I saw, as the
 
 vicar did, the head emerge clear of the foliage, only outlined by
 
-the [[Moon|moon]] with a sort of bristly halo of hair.  Only then, for the
+the [[motifs/moon|moon]] with a sort of bristly halo of hair.  Only then, for the
 
-second [[Time|time]] that [[Night|night]], I saw what the vicar did not see.  The
+second [[motifs/time|time]] that [[motifs/night|night]], I saw what the vicar did not see.  The
 
-[[Romeo]], the climbing troubadour, turned his head, and, for a moment,
+[[characters/romeo|Romeo]], the climbing troubadour, turned his head, and, for a moment,
 
-I saw it in profile, a black shape against the [[Moon|moon]].  And I said to
+I saw it in profile, a black shape against the [[motifs/moon|moon]].  And I said to
 
 myself:  'My God!  It's a dog, after all.'"
 
@@ -26876,7 +26876,7 @@ about mandrakes and mermaids; but, in many cases, it has been found
 
 since that their tall tales were true.  Anyhow, this chap said
 
-there were men walking about with the heads of [[dogs]].  Now, if
+there were men walking about with the heads of dogs.  Now, if
 
 you'll look at one of the larger apes, like the baboon, you'll see
 
@@ -26955,7 +26955,7 @@ cose.  Non serve a nulla nascondersi in una folla; o dire che il delitto
 
 vacanza era il paradiso; solo che era un paradiso assai terreno; un po'
 
-troppo simile a un paradiso musulmano.  Ho fatto la [[Love|corte]] a sua figlia quando
+troppo simile a un paradiso musulmano.  Ho fatto la [[motifs/love|corte]] a sua figlia quando
 
 non ne avevo il diritto, perché non conoscevo davvero il mio stesso animo.  Nessuno di
 
@@ -26969,9 +26969,9 @@ fermò, come per un nuovo imbarazzo.
 
 «Continui,» disse il signor Pond con dolcezza.
 
-«Solo che il mio rivale non era l'[[Artist|artista]] dai capelli lunghi,» disse Gahagan.
+«Solo che il mio rivale non era l'[[archetypes/artist|artista]] dai capelli lunghi,» disse Gahagan.
 
-[[Hubert]] Wotton alzò di nuovo lo sguardo di scatto, con un cipiglio corrucciato; ma
+[[characters/hubert|Hubert]] Wotton alzò di nuovo lo sguardo di scatto, con un cipiglio corrucciato; ma
 
 parlò con calma mentre invitava Gahagan a raccontare la sua storia come si deve
 
@@ -26979,25 +26979,25 @@ dall'inizio.
 
 «Farei meglio a cominciare,» disse Gahagan, «da dove è cominciata l'altra storia:
 
-proprio verso il [[Time|momento]] in cui entrambi udimmo l'ululato d'un cane nel
+proprio verso il [[motifs/time|momento]] in cui entrambi udimmo l'ululato d'un cane nel
 
-buio [[Garden|giardino]].  Devo spiegare che quella [[Night|notte]] stavo effettivamente presso Ayres,
+buio [[motifs/garden|giardino]].  Devo spiegare che quella [[motifs/night|notte]] stavo effettivamente presso Ayres,
 
-l'[[Artist|artista]]; eravamo diventati davvero buoni amici,
+l'[[archetypes/artist|artista]]; eravamo diventati davvero buoni amici,
 
 per davvero; benché forse ci fosse stata un po' di romantica spavalderia intorno
 
-alla faccenda del trovatore in un [[Time|tempo]] anteriore.
+alla faccenda del trovatore in un [[motifs/time|tempo]] anteriore.
 
 «Stavo facendo i bagagli e mettendo in ordine parte dei miei leggeri effetti; ecco
 
 come mi capitò di star pulendo la mia rivoltella d'ordinanza.  Ayres
 
-sfogliava alcuni dei suoi [[Sketch|album da disegno]]; e lo lasciai lì
+sfogliava alcuni dei suoi [[forms/sketch|album da disegno]]; e lo lasciai lì
 
 quando uscii, proprio mentre il signor Whiteways si affacciava, con casuale curiosità,
 
-per quell'improvviso rumore nella [[Night|notte]].  Solo che io udii ciò che lui non
+per quell'improvviso rumore nella [[motifs/night|notte]].  Solo che io udii ciò che lui non
 
 udì.  Non solo udii ciò che pareva l'ululato d'un cane, ma
 
@@ -27011,27 +27011,27 @@ il volto di Paul Green, quell'insigne uomo di scienza.  È
 
 insigne e ha l'aria insigne; ricordo di aver pensato, in quel
 
-[[Time|momento]], che bella testa avesse, e che il modellato argenteo dei
+[[motifs/time|momento]], che bella testa avesse, e che il modellato argenteo dei
 
-suoi lineamenti sotto la [[Moon|luna]] li rendeva del tutto belli.  Avevo una
+suoi lineamenti sotto la [[motifs/moon|luna]] li rendeva del tutto belli.  Avevo una
 
 ragione perché la mia attenzione fosse così arrestata da quella maschera argentea,
 
 perché, in quel preciso istante, portava una sorta di sorriso d'odio che
 
-gelava il [[Blood|sangue]].
+gelava il [[motifs/blood|sangue]].
 
 «Poi il volto svanì; e di nuovo la mia esperienza fu assai simile a quella
 
 del vicario, salvo che io non vidi tutto ciò che accadde proprio
 
-alle mie spalle.  Ma mi voltai in [[Time|tempo]] per vedere che qualcuno aveva
+alle mie spalle.  Ma mi voltai in [[motifs/time|tempo]] per vedere che qualcuno aveva
 
 attraversato di corsa il sentiero, e aveva cominciato ad arrampicarsi sul rampicante.  Vi si arrampicò
 
 assai rapidamente, molto più in fretta di quanto avessi fatto io, ma non era facile
 
-vederlo o riconoscerlo nella buia [[Shadow|ombra]] delle [[Leaves|foglie]].
+vederlo o riconoscerlo nella buia [[archetypes/shadow|ombra]] delle [[motifs/leaves|foglie]].
 
 «Mi parve che fosse lungo di membra e avesse quella specie di
 
@@ -27039,13 +27039,13 @@ curva dalle spalle alte che è stata descritta; poi vidi, come
 
 il vicario, la testa emergere netta dal fogliame, solo delineata dalla
 
-[[Moon|luna]] con una sorta di irta aureola di capelli.  Solo allora, per la
+[[motifs/moon|luna]] con una sorta di irta aureola di capelli.  Solo allora, per la
 
-seconda [[Time|volta]] quella [[Night|notte]], vidi ciò che il vicario non vide.  Il
+seconda [[motifs/time|volta]] quella [[motifs/night|notte]], vidi ciò che il vicario non vide.  Il
 
-[[Romeo]], il trovatore rampicante, voltò la testa, e, per un momento,
+[[characters/romeo|Romeo]], il trovatore rampicante, voltò la testa, e, per un momento,
 
-la vidi di profilo, una sagoma nera contro la [[Moon|luna]].  E dissi tra
+la vidi di profilo, una sagoma nera contro la [[motifs/moon|luna]].  E dissi tra
 
 me:  'Mio Dio!  È un cane, dopotutto.'»
 
@@ -27069,7 +27069,7 @@ su mandragole e sirene; ma, in molti casi, si è scoperto
 
 da allora che le loro frottole erano vere.  Comunque, questo tale disse
 
-che c'erano uomini che andavano in giro con le teste di [[dogs|cane]].  Ora, se
+che c'erano uomini che andavano in giro con le teste di cane.  Ora, se
 
 guardate una delle scimmie più grandi, come il babbuino, vedrete
 
@@ -27126,11 +27126,11 @@ and began to climb the creeper.'"
 
 "I was quite pedantically correct," said Gahagan, waving his hand,
 
-condescendingly.  "I was careful to state that some [[Body|BODY]] ran and
+condescendingly.  "I was careful to state that some [[concepts/body|BODY]] ran and
 
 climbed.  I attempted no theological or metaphysical speculations
 
-about the [[Soul|soul]] of an ape."
+about the [[motifs/soul|soul]] of an ape."
 
 "But this is perfectly ghastly!" cried the clergyman, who was
 
@@ -27138,13 +27138,13 @@ deeply shaken.  "Are you sure the thing I saw was an ape?"
 
 "I was quite close," said the Captain.  "I saw the shape and you
 
-only saw the [[Shadow|shadow]]."
+only saw the [[archetypes/shadow|shadow]]."
 
 "No," said Pond softly, "he saw the shape and could not believe it
 
-because it was the [[Shadow|shadow]].  That is what I meant by saying a [[Shadow|shadow]]
+because it was the [[archetypes/shadow|shadow]].  That is what I meant by saying a [[archetypes/shadow|shadow]]
 
-can deceive by accuracy.  Nine times out of ten, a [[Shadow|shadow]] is out of
+can deceive by accuracy.  Nine times out of ten, a [[archetypes/shadow|shadow]] is out of
 
 drawing.  But it can happen, in special circumstances, that it is
 
@@ -27154,7 +27154,7 @@ so we are deceived by its not being distorted.  The vicar was not
 
 surprised that the hairy, high-shouldered Mr. Ayres should throw a
 
-[[Shadow|shadow]] looking like a shambling hunchback or a bristly, humped
+[[archetypes/shadow|shadow]] looking like a shambling hunchback or a bristly, humped
 
 figure.  But in reality it WAS a bristly, humped figure.  I guessed
 
@@ -27168,15 +27168,15 @@ other was a mistake?"
 
 knew it was an ape, and I guessed it was from the cages or kennels
 
-of the eminent biologist next door.  I had a wild [[Hope|hope]] it might
+of the eminent biologist next door.  I had a wild [[concepts/hope|hope]] it might
 
 have been meant as some ghastly joke; but I wasn't taking any
 
 risks; I happen to know that sort of anthropoid is no joke.  At the
 
-best, he might easily bite and then--[[Well|well]], there were all sorts of
+best, he might easily bite and then--[[motifs/well|well]], there were all sorts of
 
-[[nightmare]] notions half-formed in one's mind.
+nightmare notions half-formed in one's mind.
 
 "There was another side to your biological friend's interest in
 
@@ -27184,9 +27184,9 @@ pets; vivisection, inoculation, intoxication, drugs--Lord knows
 
 what might be mixed up in it.  So I shot the brute dead, and I'm
 
-afraid I can't apologize.  I threw the [[Body|body]] into the [[River|river]]; as you
+afraid I can't apologize.  I threw the [[concepts/body|body]] into the [[motifs/river|river]]; as you
 
-know, it's a very rapid and rushing [[River|river]], and, so far as I know,
+know, it's a very rapid and rushing [[motifs/river|river]], and, so far as I know,
 
 nothing more was ever heard of it.  Certainly, Dr. Paul Green did
 
@@ -27202,7 +27202,7 @@ an awful business.
 
 to hear an old acquaintance accused of a horrible action.  It was,
 
-also, what I meant by saying that the key to all this [[Riddle|riddle]] is the
+also, what I meant by saying that the key to all this [[forms/riddle|riddle]] is the
 
 fact that Dr. Green is lame."
 
@@ -27216,7 +27216,7 @@ say that the doctor is, in a rather literal sense, a mad doctor.
 
 The point is that I think I know what finally drove him mad.  He
 
-had a remarkable personality; he was in [[Love|love]] with the lady at the
+had a remarkable personality; he was in [[motifs/love|love]] with the lady at the
 
 Vicarage and had got a good deal of influence there; as Gahagan
 
@@ -27226,11 +27226,11 @@ quite active; only everything was conditioned by the accident that
 
 he was lame.
 
-"What put the finishing touch to his [[Madness|madness]], on that terrible
+"What put the finishing touch to his [[concepts/madness|madness]], on that terrible
 
-[[Summer|summer]] [[Night|night]] under the [[Moon|moon]], was something that I think one can
+[[motifs/summer|summer]] [[motifs/night|night]] under the [[motifs/moon|moon]], was something that I think one can
 
-partly understand, with a little [[Imagination|imagination]]; something not
+partly understand, with a little [[concepts/imagination|imagination]]; something not
 
 altogether unnatural, if anything ending in such insanity can be
 
@@ -27256,11 +27256,11 @@ climb better than a man.  'You have to go very low to find things
 
 that go so high.'  Considered as a logical repartee, it was quite a
 
-good one.  But his mind was not running merely on [[logic]] and
+good one.  But his mind was not running merely on logic and
 
-repartee; he was blind and boiling with [[Jealousy|jealousy]] and passion, and
+repartee; he was blind and boiling with [[concepts/jealousy|jealousy]] and passion, and
 
-he was a little cracked.  Let's [[Hope|hope]] he only meant to make a sort
+he was a little cracked.  Let's [[concepts/hope|hope]] he only meant to make a sort
 
 of demonstration; but, anyhow, that was what he was trying to
 
@@ -27284,7 +27284,7 @@ He looked down at his papers, as if consulting them, and then
 
 looked up again, saying, still more sharply, in the style he had
 
-learnt from [[Cross|cross]]-examinations:  "Is it not true, Captain Gahagan,
+learnt from [[motifs/cross|cross]]-examinations:  "Is it not true, Captain Gahagan,
 
 that you are rather famous for telling remarkable stories?  I have
 
@@ -27294,19 +27294,19 @@ had seen six great sea-serpents, each swallowing the last.  You
 
 reported a remarkable little incident of a giant who was buried up
 
-to the eyebrows in Muswell [[Hill]]; and you are supposed to have given
+to the eyebrows in Muswell [[motifs/hill|Hill]]; and you are supposed to have given
 
-a very vivid description of a [[Water|water]]-spout frozen all the way up to
+a very vivid description of a [[motifs/water|water]]-spout frozen all the way up to
 
 the sky.  Your interesting account of the discovery of the ruins of
 
 the Tower of Babel--"
 
-Sir [[Hubert]] Wotton, with all his apparent simplicity, had a quality
+Sir [[characters/hubert|Hubert]] Wotton, with all his apparent simplicity, had a quality
 
 of sense that sometimes struck like a sledge-hammer.  He had
 
-preserved the [[Silence|silence]] of perfect impartiality throughout; but he
+preserved the [[motifs/silence|silence]] of perfect impartiality throughout; but he
 
 suddenly stopped the last splutter of the solicitor's spitefulness,
 
@@ -27321,11 +27321,11 @@ e cominciò ad arrampicarsi sul rampicante.'»
 
 «Fui perfettamente pedante nell'esattezza,» disse Gahagan, agitando la mano,
 
-con condiscendenza.  «Fui attento a dichiarare che un qualche [[Body|CORPO]] corse e
+con condiscendenza.  «Fui attento a dichiarare che un qualche [[concepts/body|CORPO]] corse e
 
 si arrampicò.  Non tentai alcuna speculazione teologica o metafisica
 
-sull'[[Soul|anima]] d'una scimmia.»
+sull'[[motifs/soul|anima]] d'una scimmia.»
 
 «Ma questo è assolutamente spaventoso!» esclamò il pastore, che era
 
@@ -27333,13 +27333,13 @@ profondamente scosso.  «È sicuro che la cosa che vidi fosse una scimmia?»
 
 «Ero abbastanza vicino,» disse il capitano.  «Io vidi la forma e lei
 
-vide soltanto l'[[Shadow|ombra]].»
+vide soltanto l'[[archetypes/shadow|ombra]].»
 
 «No,» disse Pond sommessamente, «lui vide la forma e non poté crederci
 
-perché era l'[[Shadow|ombra]].  Questo è ciò che intendevo dicendo che un'[[Shadow|ombra]]
+perché era l'[[archetypes/shadow|ombra]].  Questo è ciò che intendevo dicendo che un'[[archetypes/shadow|ombra]]
 
-può ingannare per esattezza.  Nove volte su dieci, un'[[Shadow|ombra]] è mal
+può ingannare per esattezza.  Nove volte su dieci, un'[[archetypes/shadow|ombra]] è mal
 
 tracciata.  Ma può accadere, in circostanze particolari, che sia
 
@@ -27349,7 +27349,7 @@ così siamo ingannati dal suo non esserlo.  Il vicario non fu
 
 sorpreso che il peloso Ayres, dalle spalle alte, gettasse un'
 
-[[Shadow|ombra]] simile a un gobbo dinoccolato o a una figura irta e ingobbita.
+[[archetypes/shadow|ombra]] simile a un gobbo dinoccolato o a una figura irta e ingobbita.
 
 Ma in realtà ERA una figura irta e ingobbita.  L'indovinai
 
@@ -27363,15 +27363,15 @@ l'altra era un equivoco?»
 
 che era una scimmia, e indovinai che veniva dalle gabbie o dai canili
 
-dell'eminente biologo della porta accanto.  Ebbi una folle [[Hope|speranza]] che potesse
+dell'eminente biologo della porta accanto.  Ebbi una folle [[concepts/hope|speranza]] che potesse
 
 essere stata concepita come qualche macabro scherzo; ma non correvo
 
 rischi; si dà il caso che io sappia che quel genere di antropoide non è uno scherzo.  Nel
 
-migliore dei casi, poteva facilmente mordere e poi — [[Well|beh]], c'erano ogni sorta di
+migliore dei casi, poteva facilmente mordere e poi — [[motifs/well|beh]], c'erano ogni sorta di
 
-nozioni da [[nightmare|incubo]] mezzo formate nella mente.
+nozioni da incubo mezzo formate nella mente.
 
 «C'era un altro aspetto dell'interesse del vostro amico biologo per gli
 
@@ -27379,9 +27379,9 @@ animali; vivisezione, inoculazione, intossicazione, droghe — Dio sa
 
 cosa vi potesse essere mescolato dentro.  Così abbattei la bestia, e
 
-temo di non potermene scusare.  Gettai il [[Body|corpo]] nel [[River|fiume]]; come
+temo di non potermene scusare.  Gettai il [[concepts/body|corpo]] nel [[motifs/river|fiume]]; come
 
-sapete, è un [[River|fiume]] assai rapido e impetuoso, e, per quel che so,
+sapete, è un [[motifs/river|fiume]] assai rapido e impetuoso, e, per quel che so,
 
 non se ne udì mai più nulla.  Certamente, il dottor Paul Green non
 
@@ -27397,7 +27397,7 @@ una faccenda tremenda.
 
 udire un vecchio conoscente accusato d'un'azione orribile.  Era,
 
-anche, ciò che intendevo dicendo che la chiave di tutto questo [[Riddle|enigma]] è il
+anche, ciò che intendevo dicendo che la chiave di tutto questo [[forms/riddle|enigma]] è il
 
 fatto che il dottor Green è zoppo.»
 
@@ -27411,7 +27411,7 @@ dire che il dottore è, in un senso piuttosto letterale, un medico pazzo.
 
 Il punto è che credo di sapere cosa infine lo spinse alla pazzia.  Aveva
 
-una personalità notevole; era [[Love|innamorato]] della signorina della
+una personalità notevole; era [[motifs/love|innamorato]] della signorina della
 
 canonica e vi aveva acquistato una buona dose d'influenza; come Gahagan
 
@@ -27421,11 +27421,11 @@ del tutto attivo; solo che tutto era condizionato dall'accidente che
 
 era zoppo.
 
-«Ciò che diede il tocco finale alla sua [[Madness|follia]], in quella terribile
+«Ciò che diede il tocco finale alla sua [[concepts/madness|follia]], in quella terribile
 
-[[Night|notte]] d'[[Summer|estate]] sotto la [[Moon|luna]], fu qualcosa che credo si possa
+[[motifs/night|notte]] d'[[motifs/summer|estate]] sotto la [[motifs/moon|luna]], fu qualcosa che credo si possa
 
-in parte comprendere, con un po' di [[Imagination|immaginazione]]; qualcosa di non
+in parte comprendere, con un po' di [[concepts/imagination|immaginazione]]; qualcosa di non
 
 del tutto innaturale, se qualcosa che finisce in tale insania può
 
@@ -27451,11 +27451,11 @@ arrampicarsi meglio di un uomo.  'Bisogna andare assai in basso per trovare cose
 
 che vanno così in alto.'  Considerata come battuta logica, era una
 
-replica proprio buona.  Ma la sua mente non correva soltanto sulla [[logic|logica]] e
+replica proprio buona.  Ma la sua mente non correva soltanto sulla logica e
 
-sulla battuta; era cieco e ribolliva di [[Jealousy|gelosia]] e passione, ed
+sulla battuta; era cieco e ribolliva di [[concepts/jealousy|gelosia]] e passione, ed
 
-era un po' toccato.  [[Hope|Speriamo]] intendesse solo fare una sorta
+era un po' toccato.  [[concepts/hope|Speriamo]] intendesse solo fare una sorta
 
 di dimostrazione; ma, comunque, era ciò che stava cercando di
 
@@ -27479,7 +27479,7 @@ Abbassò lo sguardo sulle sue carte, come consultandole, e poi
 
 rialzò gli occhi, dicendo, ancor più bruscamente, nello stile che aveva
 
-appreso dai [[Cross|contro]]interrogatori:  «Non è vero, capitano Gahagan,
+appreso dai [[motifs/cross|contro]]interrogatori:  «Non è vero, capitano Gahagan,
 
 che lei è piuttosto famoso per raccontare storie straordinarie?  Ho
 
@@ -27489,19 +27489,19 @@ visto sei grandi serpenti marini, ciascuno che inghiottiva il precedente.
 
 Lei riferì un notevole piccolo episodio d'un gigante sepolto fino
 
-alle sopracciglia a Muswell [[Hill]]; e si suppone che lei abbia fornito
+alle sopracciglia a Muswell [[motifs/hill|Hill]]; e si suppone che lei abbia fornito
 
-una descrizione assai vivida d'una [[Water|tromba]] d'acqua gelata fino su
+una descrizione assai vivida d'una [[motifs/water|tromba]] d'acqua gelata fino su
 
 nel cielo.  Il suo interessante resoconto della scoperta delle rovine della
 
 Torre di Babele —»
 
-Sir [[Hubert]] Wotton, con tutta la sua apparente semplicità, aveva una qualità
+Sir [[characters/hubert|Hubert]] Wotton, con tutta la sua apparente semplicità, aveva una qualità
 
 di buon senso che a volte colpiva come una mazza.  Aveva
 
-conservato il [[Silence|silenzio]] della perfetta imparzialità per tutto il tempo; ma
+conservato il [[motifs/silence|silenzio]] della perfetta imparzialità per tutto il tempo; ma
 
 d'improvviso arrestò l'ultimo schizzo della malevolenza del legale,
 
@@ -27524,7 +27524,7 @@ things that nobody alive ever took seriously, least of all Gahagan,
 
 I rule them out."
 
-"Very [[Well|well]]," snapped Mr. Little, "my last question shall be a very
+"Very [[motifs/well|well]]," snapped Mr. Little, "my last question shall be a very
 
 practical one.  If Captain Gahagan only did what he says he did,
 
@@ -27544,7 +27544,7 @@ give it to anybody except Mr. Whiteways."
 
 And, strangely enough perhaps, the moment Mr. Whiteways heard this
 
-refusal he [[Rose|rose]] also and held out his hand to Gahagan.
+refusal he [[motifs/rose|rose]] also and held out his hand to Gahagan.
 
 "I believe you," he said.  "It's just that last sentence that has
 
@@ -27556,7 +27556,7 @@ stuffed his papers back into his little black bag; and the
 
 irregular conference broke up.
 
-Gahagan did tell the [[Truth|truth]] about the last question afterwards, to
+Gahagan did tell the [[concepts/truth|truth]] about the last question afterwards, to
 
 the person to whom he told everything, to Joan Varney, to whom he
 
@@ -27572,7 +27572,7 @@ situation and among a lot of beastly alternatives.  I knew by next
 
 morning that the vicar was saying he had seen me commit murder.
 
-Suppose I contradicted it--[[Well|well]], to begin with, she would have to
+Suppose I contradicted it--[[motifs/well|well]], to begin with, she would have to
 
 know that her old friend, the friend of her pets, was a horrible
 
@@ -27604,9 +27604,9 @@ run she would be--a little proud."
 
 "I think you're right about her," said Joan, in her straight way.
 
-"But, all the same, you ought to have told her the [[Truth|truth]]."
+"But, all the same, you ought to have told her the [[concepts/truth|truth]]."
 
-"Joan," he said, "I simply hadn't the [[Courage|courage]]."
+"Joan," he said, "I simply hadn't the [[concepts/courage|courage]]."
 
 "I know," she said.  "I also know all about your having the D.S.O.;
 
@@ -27616,13 +27616,13 @@ But that's what's the matter with all you fine, fighting
 
 gentlemen."  Her head lifted very slightly.  "You haven't the
 
-[[Courage|courage]]."
+[[concepts/courage|courage]]."
 
 A TALL STORY
 
-They had been discussing the new troubles in [[Germany]]: the three old
+They had been discussing the new troubles in [[settings/germany|Germany]]: the three old
 
-friends, Sir [[Hubert]] Wotton, the famous official; Mr. Pond, the
+friends, Sir [[characters/hubert|Hubert]] Wotton, the famous official; Mr. Pond, the
 
 obscure official; and Captain Gahagan, who never did a stroke of
 
@@ -27642,9 +27642,9 @@ Captain to rather excessive flights of showing-off.
 
 Captain Gahagan looked like a Regency buck; Mr. Pond looked like a
 
-round-eyed fish, with the beard and brow of Socrates; Sir [[Hubert]]
+round-eyed fish, with the beard and brow of Socrates; Sir [[characters/hubert|Hubert]]
 
-Wotton looked like Sir [[Hubert]] Wotton--it summed up a very sound and
+Wotton looked like Sir [[characters/hubert|Hubert]] Wotton--it summed up a very sound and
 
 virile quality in him, for which his friends had a great respect.
 
@@ -27670,7 +27670,7 @@ think it was a damned shame that they should be kicked out or
 
 kicked at all.  But I fancy they must be kicking themselves, for
 
-having been so faithful to [[Germany]] and even, everywhere else,
+having been so faithful to [[settings/germany|Germany]] and even, everywhere else,
 
 pretty generally pro-German."
 
@@ -27682,7 +27682,7 @@ all kept rather quiet, as I have reason to know; for the thing
 
 happened, in some sense, in my department.  I have generally found
 
-spy stories the dullest of all forms of [[Detective Fiction|detective fiction]]; in my
+spy stories the dullest of all forms of [[forms/detective-fiction|detective fiction]]; in my
 
 own modest researches into the light literature of murder, I
 
@@ -27721,7 +27721,7 @@ cose che nessun vivente ha mai preso sul serio, tanto meno Gahagan,
 
 le escludo.»
 
-«Molto [[Well|bene]],» sbottò il signor Little, «la mia ultima domanda sarà assai
+«Molto [[motifs/well|bene]],» sbottò il signor Little, «la mia ultima domanda sarà assai
 
 pratica.  Se il capitano Gahagan ha fatto solo ciò che dice di aver fatto,
 
@@ -27741,7 +27741,7 @@ darla a chiunque tranne che al signor Whiteways.»
 
 E, per quanto strano possa parere, nel momento in cui il signor Whiteways udì questo
 
-rifiuto, si [[Rose|alzò]] anch'egli e tese la mano a Gahagan.
+rifiuto, si [[motifs/rose|alzò]] anch'egli e tese la mano a Gahagan.
 
 «Le credo,» disse.  «È proprio quest'ultima frase che
 
@@ -27753,7 +27753,7 @@ ricacciò le carte nella sua piccola borsa nera; e la
 
 irregolare conferenza si sciolse.
 
-Gahagan raccontò poi la [[Truth|verità]] sull'ultima domanda, alla
+Gahagan raccontò poi la [[concepts/truth|verità]] sull'ultima domanda, alla
 
 persona a cui raccontava tutto, a Joan Varney, con la quale era
 
@@ -27769,7 +27769,7 @@ situazione e tra un mucchio di laide alternative.  Sapevo che l'indomani
 
 mattina il vicario stava dicendo di avermi visto commettere un omicidio.
 
-Supponi che lo avessi smentito — [[Well|beh]], tanto per cominciare, avrebbe dovuto
+Supponi che lo avessi smentito — [[motifs/well|beh]], tanto per cominciare, avrebbe dovuto
 
 sapere che il suo vecchio amico, l'amico dei suoi animali, era un orribile
 
@@ -27801,9 +27801,9 @@ lei sarebbe stata — un pochino fiera.»
 
 «Credo che tu abbia ragione riguardo a lei,» disse Joan, col suo modo schietto.
 
-«Ma, comunque, avresti dovuto dirle la [[Truth|verità]].»
+«Ma, comunque, avresti dovuto dirle la [[concepts/truth|verità]].»
 
-«Joan,» disse, «semplicemente non ne avevo il [[Courage|coraggio]].»
+«Joan,» disse, «semplicemente non ne avevo il [[concepts/courage|coraggio]].»
 
 «Lo so,» disse.  «So anche tutto della tua D.S.O.;
 
@@ -27813,13 +27813,13 @@ Ma è proprio questo il guaio di tutti voi bei signori
 
 combattenti.»  La sua testa si sollevò appena.  «Non avete il
 
-[[Courage|coraggio]].»
+[[concepts/courage|coraggio]].»
 
 UNA STORIA ALTA
 
-Stavano discutendo dei nuovi guai in [[Germany|Germania]]: i tre vecchi
+Stavano discutendo dei nuovi guai in [[settings/germany|Germania]]: i tre vecchi
 
-amici, Sir [[Hubert]] Wotton, il celebre funzionario; il signor Pond, l'
+amici, Sir [[characters/hubert|Hubert]] Wotton, il celebre funzionario; il signor Pond, l'
 
 oscuro funzionario; e il capitano Gahagan, che non fece mai un colpo di
 
@@ -27839,9 +27839,9 @@ capitano a slanci di esibizionismo piuttosto eccessivi.
 
 Il capitano Gahagan pareva un bellimbusto della Reggenza; il signor Pond pareva un
 
-pesce dagli occhi tondi, con la barba e la fronte di Socrate; Sir [[Hubert]]
+pesce dagli occhi tondi, con la barba e la fronte di Socrate; Sir [[characters/hubert|Hubert]]
 
-Wotton pareva Sir [[Hubert]] Wotton — il che riassumeva una qualità assai solida e
+Wotton pareva Sir [[characters/hubert|Hubert]] Wotton — il che riassumeva una qualità assai solida e
 
 virile in lui, per la quale i suoi amici nutrivano un grande rispetto.
 
@@ -27867,7 +27867,7 @@ penso che sia stata una vergogna maledetta che fossero cacciati o
 
 presi a calci in qualsiasi modo.  Ma immagino che debbano prendersi a calci da soli, per
 
-essere stati così fedeli alla [[Germany|Germania]] e persino, ovunque altrove,
+essere stati così fedeli alla [[settings/germany|Germania]] e persino, ovunque altrove,
 
 piuttosto generalmente filotedeschi.»
 
@@ -27879,7 +27879,7 @@ tutto tenuto piuttosto sotto silenzio, come ho ragione di sapere; perché la cos
 
 accadde, in un certo senso, nel mio ufficio.  In genere ho trovato
 
-le storie di spionaggio la più noiosa di tutte le forme di [[Detective Fiction|narrativa poliziesca]]; nelle mie
+le storie di spionaggio la più noiosa di tutte le forme di [[forms/detective-fiction|narrativa poliziesca]]; nelle mie
 
 modeste ricerche nella letteratura leggera dell'omicidio,
 
@@ -27912,7 +27912,7 @@ straordinario; uno era troppo piccolo per essere notato, un altro
 
 too tall to be seen; one was apparently paralysed in a hospital and
 
-got out of the [[Window|window]] at [[Night|night]]--"
+got out of the [[motifs/window|window]] at [[motifs/night|night]]--"
 
 Joan looked across at him with a troubled expression in her honest
 
@@ -27932,7 +27932,7 @@ a thousand instances that would meet the case.  Take, for example,
 
 the case of my unfortunate friends the Balham-Browns who lived at
 
-Muswell [[Hill]].  Mr. Balham-Brown had just come [[Home|home]] from the office
+Muswell [[motifs/hill|Hill]].  Mr. Balham-Brown had just come [[motifs/home|home]] from the office
 
 (of the Imperial and International Lead-Piping Company) and was
 
@@ -27954,13 +27954,13 @@ spitefulness of the scientific world, Professor Pooter countered
 
 with the theory that Jupiter buried the Titans, one under Etna,
 
-another under Ossa, and a third under Muswell [[Hill]].  Anyhow, the
+another under Ossa, and a third under Muswell [[motifs/hill|Hill]].  Anyhow, the
 
 villa of my ill-fated friends the Balham-Browns was ruined, and the
 
 whole suburb overturned as by an earthquake, in order to excavate
 
-the [[Monster|monster]].  When his head [[Alone|alone]] emerged, it was like a colossal
+the [[archetypes/monster|monster]].  When his head alone emerged, it was like a colossal
 
 sphinx; and Mrs. Balham-Brown complained to the authorities that
 
@@ -27968,7 +27968,7 @@ the face frightened her, because it was too large.  Mr. Pond, who
 
 happened to be passing at the moment, immediately produced a
 
-[[Paradox|paradox]] (of which he always carries a small supply) and said that,
+[[concepts/paradox|paradox]] (of which he always carries a small supply) and said that,
 
 on the contrary, they would soon find that the face was too small.
 
@@ -27988,11 +27988,11 @@ walk across the Atlantic, where even he was apparently submerged.
 
 It is believed that the unfortunate creature was going to give
 
-lectures in [[America]]; driven by that mysterious instinct which leads
+lectures in [[settings/america|America]]; driven by that mysterious instinct which leads
 
 any person who is notorious for any reason to adopt that course."
 
-"[[Well]], have you done?" demanded Joan.  "We know all about you and
+"[[motifs/well|Well]], have you done?" demanded Joan.  "We know all about you and
 
 your yarns; and they don't mean anything.  But when Mr. Pond says
 
@@ -28000,7 +28000,7 @@ that somebody was too tall to be seen, he does mean something.  And
 
 what can he possibly mean?"
 
-"[[Well]]," said Mr. Pond, coughing slightly, "it was really a part of
+"[[motifs/well|Well]]," said Mr. Pond, coughing slightly, "it was really a part of
 
 the story to which I was alluding just now.  I did not notice
 
@@ -28018,11 +28018,11 @@ famous seaport, and, therefore, naturally a place of concentration
 
 for all the vigilance against spies, whether official or amateur.
 
-Sir [[Hubert]] Wotton was in general charge of the district, but Mr.
+Sir [[characters/hubert|Hubert]] Wotton was in general charge of the district, but Mr.
 
 Pond was in more practical though private occupation of the town,
 
-watching events from a narrow [[house]] in a back street, an upper room
+watching events from a narrow house in a back street, an upper room
 
 of which had been unobtrusively turned into an office; and he had
 
@@ -28030,13 +28030,13 @@ two assistants under him; a sturdy and very silent young man named
 
 Butt, bull-necked and broad-shouldered, but quite short; and a much
 
-taller and more talkative and elegant [[government]]-office clerk named
+taller and more talkative and elegant government-office clerk named
 
-Travers, but referred to by nearly everybody as [[arthur|Arthur]].  The
+Travers, but referred to by nearly everybody as [[characters/arthur|Arthur]].  The
 
 stalwart Butt commonly occupied a desk on the ground floor,
 
-watching the door and anyone who entered it; while [[arthur|Arthur]] Travers
+watching the door and anyone who entered it; while [[characters/arthur|Arthur]] Travers
 
 worked in the office upstairs, where there were some very valuable
 
@@ -28052,9 +28052,9 @@ neighbourhood; indeed, it consisted of a few genteel, old-fashioned
 
 houses, now mostly shuttered and empty, standing on the very edge
 
-of a sort of slum of small houses, at that [[Time|time]] riddled with what
+of a sort of slum of small houses, at that [[motifs/time|time]] riddled with what
 
-is called Unrest in a degree very dangerous, especially in [[Time|time]] of
+is called Unrest in a degree very dangerous, especially in [[motifs/time|time]] of
 
 war.  Immediately outside his door, he found but few things that
 
@@ -28080,7 +28080,7 @@ passionately patriotic, not to say militaristic.  And, indeed, it
 
 is often true that those two extremes lend themselves to the same
 
-sort of fluent [[Fanaticism|fanaticism]].  Poor Mr. Pond had reason to remember
+sort of fluent [[concepts/fanaticism|fanaticism]].  Poor Mr. Pond had reason to remember
 
 the woeful day when he first saw her angular and agitated figure
 
@@ -28101,7 +28101,7 @@ declared, removed reluctantly and in a grumbling spirit by the
 
 troppo alto per essere visto; uno era in apparenza paralizzato in ospedale e
 
-usciva dalla [[Window|finestra]] di [[Night|notte]] —»
+usciva dalla [[motifs/window|finestra]] di [[motifs/night|notte]] —»
 
 Joan lo guardò con un'espressione turbata nei suoi onesti
 
@@ -28121,7 +28121,7 @@ mille esempi che calzerebbero al caso.  Prendi, per esempio,
 
 il caso dei miei sventurati amici i Balham-Brown che vivevano a
 
-Muswell [[Hill]].  Il signor Balham-Brown era appena tornato a [[Home|casa]] dall'ufficio
+Muswell [[motifs/hill|Hill]].  Il signor Balham-Brown era appena tornato a [[motifs/home|casa]] dall'ufficio
 
 (della Imperial and International Lead-Piping Company) e stava
 
@@ -28143,13 +28143,13 @@ malevolenza del mondo scientifico, il professor Pooter controbatté
 
 con la teoria che Giove seppellì i Titani, uno sotto l'Etna,
 
-un altro sotto l'Ossa, e un terzo sotto Muswell [[Hill]].  Comunque, la
+un altro sotto l'Ossa, e un terzo sotto Muswell [[motifs/hill|Hill]].  Comunque, la
 
 villa dei miei malaugurati amici i Balham-Brown fu distrutta, e l'
 
 intero sobborgo sconvolto come da un terremoto, al fine di scavare
 
-il [[Monster|mostro]].  Quando la sua testa [[Alone|soltanto]] emerse, era come una colossale
+il [[archetypes/monster|mostro]].  Quando la sua testa soltanto emerse, era come una colossale
 
 sfinge; e la signora Balham-Brown si lamentò con le autorità che
 
@@ -28157,7 +28157,7 @@ il volto la spaventava, perché era troppo grande.  Il signor Pond, che
 
 per caso passava in quel momento, produsse immediatamente un
 
-[[Paradox|paradosso]] (di cui porta sempre una piccola scorta) e disse che,
+[[concepts/paradox|paradosso]] (di cui porta sempre una piccola scorta) e disse che,
 
 al contrario, presto avrebbero scoperto che il volto era troppo piccolo.
 
@@ -28177,11 +28177,11 @@ attraversare a piedi l'Atlantico, dove persino lui parve sommerso.
 
 Si ritiene che la sventurata creatura stesse andando a tenere
 
-conferenze in [[America]]; spinta da quel misterioso istinto che induce
+conferenze in [[settings/america|America]]; spinta da quel misterioso istinto che induce
 
 chiunque sia noto per una qualsiasi ragione ad adottare quel corso.»
 
-«[[Well|Ebbene]], hai finito?» chiese Joan.  «Sappiamo tutto di te e
+«[[motifs/well|Ebbene]], hai finito?» chiese Joan.  «Sappiamo tutto di te e
 
 delle tue frottole; e non significano nulla.  Ma quando il signor Pond dice
 
@@ -28189,7 +28189,7 @@ che qualcuno era troppo alto per essere visto, egli intende qualcosa.  E
 
 cosa può mai intendere?»
 
-«[[Well|Ebbene]],» disse il signor Pond, tossicchiando lievemente, «era in realtà una parte
+«[[motifs/well|Ebbene]],» disse il signor Pond, tossicchiando lievemente, «era in realtà una parte
 
 della storia a cui alludevo poc'anzi.  Non notai
 
@@ -28207,11 +28207,11 @@ famoso porto di mare, e, perciò, naturalmente un luogo di concentrazione
 
 per tutta la vigilanza contro le spie, tanto ufficiale quanto dilettantesca.
 
-Sir [[Hubert]] Wotton aveva la responsabilità generale del distretto, ma il signor
+Sir [[characters/hubert|Hubert]] Wotton aveva la responsabilità generale del distretto, ma il signor
 
 Pond aveva un più pratico benché privato presidio della cittadina,
 
-osservando gli eventi da una stretta [[house|casa]] in una via secondaria, una stanza superiore
+osservando gli eventi da una stretta casa in una via secondaria, una stanza superiore
 
 della quale era stata discretamente trasformata in ufficio; e aveva
 
@@ -28219,13 +28219,13 @@ due assistenti sotto di sé; un giovane robusto e assai silenzioso di nome
 
 Butt, dal collo taurino e dalle spalle larghe, ma piuttosto basso; e un
 
-impiegato d'un ufficio [[government|governativo]] assai più alto, loquace ed elegante, di nome
+impiegato d'un ufficio governativo assai più alto, loquace ed elegante, di nome
 
-Travers, ma da quasi tutti chiamato [[arthur|Arthur]].  Il
+Travers, ma da quasi tutti chiamato [[characters/arthur|Arthur]].  Il
 
 gagliardo Butt occupava comunemente una scrivania al pianterreno,
 
-sorvegliando la porta e chiunque vi entrasse; mentre [[arthur|Arthur]] Travers
+sorvegliando la porta e chiunque vi entrasse; mentre [[characters/arthur|Arthur]] Travers
 
 lavorava nell'ufficio di sopra, dove c'erano certe assai preziose
 
@@ -28241,9 +28241,9 @@ malandato; anzi, consisteva di poche case eleganti, all'antica,
 
 ora per lo più con le imposte chiuse e vuote, poste sull'orlo stesso
 
-d'una specie di catapecchie di casupole, a quel [[Time|tempo]] rose da ciò
+d'una specie di catapecchie di casupole, a quel [[motifs/time|tempo]] rose da ciò
 
-che si chiama Malcontento in un grado assai pericoloso, specie in [[Time|tempo]] di
+che si chiama Malcontento in un grado assai pericoloso, specie in [[motifs/time|tempo]] di
 
 guerra.  Immediatamente fuori dalla sua porta, trovava ben poche cose che
 
@@ -28269,7 +28269,7 @@ appassionatamente patriottica, per non dire militarista.  E, in effetti,
 
 è spesso vero che quei due estremi si prestano allo stesso
 
-genere di fluente [[Fanaticism|fanatismo]].  Il povero signor Pond aveva ragione di ricordare
+genere di fluente [[concepts/fanaticism|fanatismo]].  Il povero signor Pond aveva ragione di ricordare
 
 il giorno doloroso in cui vide per la prima volta la sua figura angolosa e agitata
 
@@ -28290,7 +28290,7 @@ dichiarò, rimosso con riluttanza e in spirito brontolone dagli
 <span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_19" data-title="MrPond — Louis; and shouted as if on parade: (part 19)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,motif/fire,motif/love,motif/road,motif/time,concept/fear,concept/poverty,concept/suicide,concept/truth,concept/union,setting/germany,character/faust"></span>
 
 
-workmen employed on the job; and by the [[Time|time]] she had reached the
+workmen employed on the job; and by the [[motifs/time|time]] she had reached the
 
 responsible official, a theory had fully formed and hardened in her
 
@@ -28300,7 +28300,7 @@ mind.
 
 that unfortunate functionary.  "I heard him with my own ears mutter
 
-something about what his Trade [[Union]] would say.  What is he doing
+something about what his Trade [[concepts/union|Union]] would say.  What is he doing
 
 so near to your office?"
 
@@ -28338,7 +28338,7 @@ was Peterson: it was possible that it was really Petersen.  But
 
 that was not all.  Mr. Pond had learned the last lesson of the wise
 
-man: that the [[Fool|fool]] is sometimes right.
+man: that the [[archetypes/fool|fool]] is sometimes right.
 
 He soon forgot the incident in the details of his work; and next
 
@@ -28346,17 +28346,17 @@ day it was with a start that he looked up from his desk, or rather
 
 from Mr. Butt's desk which he was using at the moment, and saw once
 
-again the patriotic lady hovering like an avenging [[Shadow|shadow]] in the
+again the patriotic lady hovering like an avenging [[archetypes/shadow|shadow]] in the
 
-doorway.  This [[Time|time]] she glided swiftly in, unchecked by any
+doorway.  This [[motifs/time|time]] she glided swiftly in, unchecked by any
 
 Socialist barricade, and warned him that she had news of the most
 
 terrible kind.  She seemed to have forgotten all about her last
 
-suspicions; and, in [[Truth|truth]], her new ones were naturally more
+suspicions; and, in [[concepts/truth|truth]], her new ones were naturally more
 
-important to her.  This [[Time|time]] she had warmed the viper on her own
+important to her.  This [[motifs/time|time]] she had warmed the viper on her own
 
 hearth.  She had suddenly become conscious of the existence of her
 
@@ -28384,13 +28384,13 @@ the lady; and saw no reason to move in the matter.
 
 Mrs. Hartog-Haggard was already breathing hoarsely in his ear.  "Do
 
-you think she is signalling, or does she climb down the [[Fire|fire]]-
+you think she is signalling, or does she climb down the [[motifs/fire|fire]]-
 
 escape?  What do you think it means, Mr. Pond?"
 
 "Hysterics," said Mr. Pond.  "What, do you think the poor lady
 
-cannot be hysterical, because she does not scream the [[house]] down?
+cannot be hysterical, because she does not scream the house down?
 
 But any doctor will tell you that hysteria is mostly secretive and
 
@@ -28400,9 +28400,9 @@ the Germans; it is at the very opposite extreme to the external
 
 excitability of the Latins.  No, madam, I do not think she is
 
-climbing down the [[Fire|fire]]-escape.  I think she is saying that her
+climbing down the [[motifs/fire|fire]]-escape.  I think she is saying that her
 
-pupils do not [[Love|love]] her, and thinking about weltschmerz and [[suicide]].
+pupils do not [[motifs/love|love]] her, and thinking about weltschmerz and [[concepts/suicide|suicide]].
 
 And really, poor woman, she is in a very hard position."
 
@@ -28414,7 +28414,7 @@ victory."
 
 "You had better pray," said Mr. Pond, "for all the unhappy
 
-Englishwomen stranded in [[Germany]] by [[Poverty|poverty]] or duty or dependence.
+Englishwomen stranded in [[settings/germany|Germany]] by [[concepts/poverty|poverty]] or duty or dependence.
 
 If she loves her native land, it only shows she is a human being.
 
@@ -28436,11 +28436,11 @@ if anything she touched could remain trivial.
 
 sometimes recall to you the greatest and noblest work that ever
 
-came out of [[Germany]]."
+came out of [[settings/germany|Germany]]."
 
-"You refer to Goethe's [[Faust]], I presume," she replied.
+"You refer to Goethe's [[characters/faust|Faust]], I presume," she replied.
 
-"I refer to Grimm's Fairy-Tales," said Mr. Pond.  "I [[Fear|fear]] I have
+"I refer to Grimm's Fairy-Tales," said Mr. Pond.  "I [[concepts/fear|fear]] I have
 
 forgotten for the moment whether the story we call Puss-in-Boots
 
@@ -28462,13 +28462,13 @@ Pickles, in lights and various other embellishments, supported by
 
 that world-famed comedian who called himself Alberto Tizzi and was
 
-born in the Blackfriars [[Road]].
+born in the Blackfriars [[motifs/road|Road]].
 
 When he returned to his office at twilight, and, turning, beheld
 
 the figure of Mrs. Hartog-Haggard again hovering without, Mr. Pond
 
-began to think he was in a [[nightmare]].  He wondered wildly whether
+began to think he was in a nightmare.  He wondered wildly whether
 
 she had drawn some dark conclusions from his own meeting with the
 
@@ -28485,7 +28485,7 @@ ever; she ducked under the frame of scaffolding and darted into the
 
 <span class="qlang-split" data-lang="it"></span>
 
-operai impiegati nel lavoro; e quando ebbe [[Time|tempo]] di raggiungere il
+operai impiegati nel lavoro; e quando ebbe [[motifs/time|tempo]] di raggiungere il
 
 funzionario responsabile, una teoria si era pienamente formata e indurita nella sua
 
@@ -28495,7 +28495,7 @@ mente.
 
 quello sventurato funzionario.  «L'ho sentito con le mie stesse orecchie borbottare
 
-qualcosa su cosa avrebbe detto il suo [[Union|Sindacato]].  Cosa fa
+qualcosa su cosa avrebbe detto il suo [[concepts/union|Sindacato]].  Cosa fa
 
 così vicino al suo ufficio?»
 
@@ -28533,7 +28533,7 @@ era Peterson: era possibile che fosse in realtà Petersen.  Ma
 
 non era tutto.  Il signor Pond aveva appreso l'ultima lezione del saggio:
 
-che lo [[Fool|sciocco]] a volte ha ragione.
+che lo [[archetypes/fool|sciocco]] a volte ha ragione.
 
 Presto dimenticò l'incidente nei dettagli del suo lavoro; e il giorno
 
@@ -28541,17 +28541,17 @@ dopo fu con un sussulto che alzò lo sguardo dalla sua scrivania, o piuttosto
 
 dalla scrivania del signor Butt che stava usando in quel momento, e vide di
 
-nuovo la patriottica signora aleggiare come un'[[Shadow|ombra]] vendicatrice nel
+nuovo la patriottica signora aleggiare come un'[[archetypes/shadow|ombra]] vendicatrice nel
 
-vano della porta.  Questa [[Time|volta]] scivolò dentro rapida, non fermata da alcuna
+vano della porta.  Questa [[motifs/time|volta]] scivolò dentro rapida, non fermata da alcuna
 
 barricata socialista, e lo avvertì che aveva notizie del genere
 
 più terribile.  Pareva aver dimenticato tutto delle sue ultime
 
-sospettosità; e, in [[Truth|verità]], le sue nuove erano naturalmente più
+sospettosità; e, in [[concepts/truth|verità]], le sue nuove erano naturalmente più
 
-importanti per lei.  Questa [[Time|volta]] aveva scaldato la vipera sul proprio
+importanti per lei.  Questa [[motifs/time|volta]] aveva scaldato la vipera sul proprio
 
 focolare.  Si era d'improvviso resa conto dell'esistenza della
 
@@ -28579,13 +28579,13 @@ signora; e non vedeva ragione di muoversi nella faccenda.
 
 la signora Hartog-Haggard gli stava già ansimando roca all'orecchio.  «Crede
 
-che stia facendo segnali, o scende per la [[Fire|scala antincendio]]?
+che stia facendo segnali, o scende per la [[motifs/fire|scala antincendio]]?
 
 Cosa crede che significhi, signor Pond?»
 
 «Isteria,» disse il signor Pond.  «Come, crede che la povera signora
 
-non possa essere isterica, perché non urla facendo tremare la [[house|casa]]?
+non possa essere isterica, perché non urla facendo tremare la casa?
 
 Ma qualsiasi medico le dirà che l'isteria è per lo più segreta e
 
@@ -28595,9 +28595,9 @@ tedeschi; è all'estremo opposto dell'eccitabilità esteriore
 
 dei latini.  No, signora, non credo che stia
 
-scendendo per la [[Fire|scala antincendio]].  Credo che stia dicendo che i suoi
+scendendo per la [[motifs/fire|scala antincendio]].  Credo che stia dicendo che i suoi
 
-allievi non l'[[Love|amano]], e pensando al weltschmerz e al [[suicide|suicidio]].
+allievi non l'[[motifs/love|amano]], e pensando al weltschmerz e al [[concepts/suicide|suicidio]].
 
 E davvero, povera donna, si trova in una posizione assai difficile.»
 
@@ -28609,7 +28609,7 @@ britannica.»
 
 «Farebbe meglio a pregare,» disse il signor Pond, «per tutte le infelici
 
-inglesi bloccate in [[Germany|Germania]] dalla [[Poverty|povertà]] o dal dovere o dalla dipendenza.
+inglesi bloccate in [[settings/germany|Germania]] dalla [[concepts/poverty|povertà]] o dal dovere o dalla dipendenza.
 
 Se ella ama la sua terra natia, ciò mostra soltanto che è un essere umano.
 
@@ -28631,11 +28631,11 @@ ammesso che qualcosa da lei toccato potesse restare banale.
 
 talvolta richiamarle alla mente la più grande e nobile opera mai
 
-uscita dalla [[Germany|Germania]].»
+uscita dalla [[settings/germany|Germania]].»
 
-«Lei allude al [[Faust]] di Goethe, presumo,» ella replicò.
+«Lei allude al [[characters/faust|Faust]] di Goethe, presumo,» ella replicò.
 
-«Alludo alle Fiabe di Grimm,» disse il signor Pond.  «[[Fear|Temo]] di aver
+«Alludo alle Fiabe di Grimm,» disse il signor Pond.  «[[concepts/fear|Temo]] di aver
 
 dimenticato per il momento se la storia che chiamiamo Gatto con gli Stivali
 
@@ -28657,13 +28657,13 @@ Pickles, in luci e vari altri ornamenti, sostenuta da
 
 quel comico di fama mondiale che si faceva chiamare Alberto Tizzi ed era
 
-nato nella Blackfriars [[Road]].
+nato nella Blackfriars [[motifs/road|Road]].
 
 Quando tornò al suo ufficio all'imbrunire, e, voltandosi, scorse
 
 la figura della signora Hartog-Haggard di nuovo aleggiare fuori, il signor Pond
 
-cominciò a credere di essere in un [[nightmare|incubo]].  Si chiese follemente se
+cominciò a credere di essere in un incubo.  Si chiese follemente se
 
 ella avesse tratto qualche oscura conclusione dal suo stesso incontro con la
 
@@ -28684,9 +28684,9 @@ mai; si chinò sotto l'intelaiatura dell'impalcatura e si precipitò nella
 
 room, crying out as she came:
 
-"Mr. Pond, do you know what is right opposite your own [[house]]?"
+"Mr. Pond, do you know what is right opposite your own house?"
 
-"[[Well]], I think so," said Mr. Pond, doubtfully, "more or less."
+"[[motifs/well|Well]], I think so," said Mr. Pond, doubtfully, "more or less."
 
 "I never read the name over the shop before!" cried the lady.  "You
 
@@ -28704,15 +28704,15 @@ name," said Mr. Pond.
 
 names?  Why, that makes it worse than ever!"
 
-"[[Well]]," said Mr. Pond, rising suddenly, and with a curtness that
+"[[motifs/well|Well]]," said Mr. Pond, rising suddenly, and with a curtness that
 
 cut all his own courtesy, "I'll see what I can do about it."
 
-And for the third [[Time|time]] did Mr. Pond take some steps to verify the
+And for the third [[motifs/time|time]] did Mr. Pond take some steps to verify the
 
 Hartog-Haggard revelations.  He took the ten or twelve steps
 
-necessary to take him across the [[Road|road]] and into the shop of C.
+necessary to take him across the [[motifs/road|road]] and into the shop of C.
 
 Schiller, amid all the shining sabres and yataghans.  It was a very
 
@@ -28728,7 +28728,7 @@ your own fault if there's a row of some kind and a Jingo mob comes
 
 here and breaks your windows for your absurd German name.  I know
 
-very [[Well|well]] this is no quarrel of yours.  I am [[Well|well]] aware," Mr. Pond
+very [[motifs/well|well]] this is no quarrel of yours.  I am [[motifs/well|well]] aware," Mr. Pond
 
 continued with an earnest gaze, "that you never invaded Belgium.  I
 
@@ -28744,7 +28744,7 @@ your fathers who go back to the most ancient priesthood of the
 
 world?  And you'll get into trouble with the Germans, too, some
 
-day, if you go about calling yourself Schiller.  You might as [[Well|well]]
+day, if you go about calling yourself Schiller.  You might as [[motifs/well|well]]
 
 go and live in Stratford-on-Avon and call yourself Shakespeare."
 
@@ -28758,9 +28758,9 @@ with unusual brevity; and left the shop to return to the office.
 
 The square figure of Mr. Butt, who was sitting at the desk looking
 
-towards the doorway, [[Rose|rose]] at his entrance; but Pond waved him to
+towards the doorway, [[motifs/rose|rose]] at his entrance; but Pond waved him to
 
-his seat again and, lighting a cigarette, began to [[Moon|moon]] about the
+his seat again and, lighting a cigarette, began to [[motifs/moon|moon]] about the
 
 room in a rather moody fashion.  He did not believe that there was
 
@@ -28772,7 +28772,7 @@ possibilities about the last.  Mr. Levy was certainly not a German;
 
 and it was very improbable that he was a real enthusiast for
 
-[[Germany]]; but it was not altogether impossible to suppose, in the
+[[settings/germany|Germany]]; but it was not altogether impossible to suppose, in the
 
 tangle and distraction of all the modern international muddle, that
 
@@ -28802,7 +28802,7 @@ suggestion of a cluster or network of lines to confuse the prospect
 
 at that very confusing turn of the twilight.  Once he fancied he
 
-saw something flicker behind them, as if a [[Shadow|shadow]] had shifted; and
+saw something flicker behind them, as if a [[archetypes/shadow|shadow]] had shifted; and
 
 there arose within him the terror of Mrs. Hartog-Haggard, which is
 
@@ -28810,7 +28810,7 @@ the terror of boredom and a sort of paralysed impatience, one of
 
 the worst of the woes of life.
 
-Then he saw that the shifting [[Shadow|shadow]] must have been produced by the
+Then he saw that the shifting [[archetypes/shadow|shadow]] must have been produced by the
 
 fact that the lights had been turned up in the shop opposite; and
 
@@ -28854,7 +28854,7 @@ sharply around, to find that Butt was not working at all; but, like
 
 himself, was staring, not to say glaring, as in a congested
 
-[[Mystification|mystification]], into the twilight.  Butt was commonly the most calm
+mystification, into the twilight.  Butt was commonly the most calm
 
 and prosaic of subordinates; but the look on his face was quite
 
@@ -28875,9 +28875,9 @@ or hint a word, against your comrades or anybody connected with
 
 stanza, esclamando mentre entrava:
 
-«Signor Pond, sa cosa c'è proprio di fronte alla sua stessa [[house|casa]]?»
+«Signor Pond, sa cosa c'è proprio di fronte alla sua stessa casa?»
 
-«[[Well|Ebbene]], credo di sì,» disse il signor Pond, con esitazione, «più o meno.»
+«[[motifs/well|Ebbene]], credo di sì,» disse il signor Pond, con esitazione, «più o meno.»
 
 «Non avevo mai letto prima il nome sopra la bottega!» esclamò la signora.  «Lo
 
@@ -28895,15 +28895,15 @@ nome,» disse il signor Pond.
 
 nomi?  Ma questo lo rende peggiore che mai!»
 
-«[[Well|Ebbene]],» disse il signor Pond, alzandosi d'improvviso, e con una secchezza che
+«[[motifs/well|Ebbene]],» disse il signor Pond, alzandosi d'improvviso, e con una secchezza che
 
 tagliò corto a tutta la sua cortesia, «vedrò cosa posso farci.»
 
-E per la terza [[Time|volta]] il signor Pond mosse qualche passo per verificare le
+E per la terza [[motifs/time|volta]] il signor Pond mosse qualche passo per verificare le
 
 rivelazioni Hartog-Haggard.  Fece i dieci o dodici passi
 
-necessari a portarlo dall'altra parte della [[Road|strada]] e dentro la bottega di C.
+necessari a portarlo dall'altra parte della [[motifs/road|strada]] e dentro la bottega di C.
 
 Schiller, in mezzo a tutte le lucenti sciabole e yatagan.  Era una persona
 
@@ -28919,7 +28919,7 @@ colpa vostra se ci sarà una qualche zuffa e una plebaglia sciovinista verrà
 
 qui a rompervi i vetri per il vostro assurdo nome tedesco.  So
 
-benissimo [[Well|bene]] che questa non è una vostra querela.  Sono ben [[Well|consapevole]],» proseguì il signor Pond
+benissimo [[motifs/well|bene]] che questa non è una vostra querela.  Sono ben [[motifs/well|consapevole]],» proseguì il signor Pond
 
 con uno sguardo intenso, «che voi non avete mai invaso il Belgio.  Sono
 
@@ -28935,7 +28935,7 @@ i vostri padri che risalgono al più antico sacerdozio del
 
 mondo?  E vi metterete nei guai anche coi tedeschi, un
 
-giorno, se andate in giro a chiamarvi Schiller.  Tanto varrebbe [[Well|allora]]
+giorno, se andate in giro a chiamarvi Schiller.  Tanto varrebbe [[motifs/well|allora]]
 
 andare a vivere a Stratford-on-Avon e chiamarvi Shakespeare.»
 
@@ -28949,9 +28949,9 @@ con insolita brevità; e lasciò la bottega per tornare all'ufficio.
 
 La figura squadrata del signor Butt, che sedeva alla scrivania guardando
 
-verso il vano della porta, si [[Rose|alzò]] al suo ingresso; ma Pond gli fece cenno di
+verso il vano della porta, si [[motifs/rose|alzò]] al suo ingresso; ma Pond gli fece cenno di
 
-tornare al suo posto e, accendendo una sigaretta, cominciò a [[Moon|gironzolare]] per la
+tornare al suo posto e, accendendo una sigaretta, cominciò a [[motifs/moon|gironzolare]] per la
 
 stanza in un modo piuttosto tetro.  Non credeva che ci fosse
 
@@ -28963,7 +28963,7 @@ possibilità riguardo all'ultima.  Il signor Levy non era certamente un tedesco;
 
 ed era assai improbabile che fosse un vero entusiasta della
 
-[[Germany|Germania]]; ma non era del tutto impossibile supporre, nell'
+[[settings/germany|Germania]]; ma non era del tutto impossibile supporre, nell'
 
 intrico e nella distrazione di tutto il moderno guazzabuglio internazionale, che
 
@@ -28993,7 +28993,7 @@ suggerimento d'un intrico o d'una rete di linee da confondere la prospettiva
 
 in quella confondentissima svolta del crepuscolo.  Una volta gli parve di
 
-vedere qualcosa guizzare dietro di esse, come se un'[[Shadow|ombra]] si fosse spostata; e
+vedere qualcosa guizzare dietro di esse, come se un'[[archetypes/shadow|ombra]] si fosse spostata; e
 
 sorse in lui il terrore della signora Hartog-Haggard, che è
 
@@ -29001,7 +29001,7 @@ il terrore della noia e una sorta di paralizzata impazienza, uno dei
 
 peggiori mali della vita.
 
-Poi vide che l'[[Shadow|ombra]] mobile doveva essere stata prodotta dal
+Poi vide che l'[[archetypes/shadow|ombra]] mobile doveva essere stata prodotta dal
 
 fatto che nella bottega di fronte erano state accese le luci; e
 
@@ -29045,7 +29045,7 @@ di scatto, di trovare che Butt non lavorava affatto; ma, come
 
 lui stesso, fissava, per non dire sbarrava gli occhi, come in un congesto
 
-[[Mystification|smarrimento]], nel crepuscolo.  Butt era comunemente il più calmo
+smarrimento, nel crepuscolo.  Butt era comunemente il più calmo
 
 e prosaico dei subordinati; ma l'espressione sul suo volto era proprio
 
@@ -29066,35 +29066,35 @@ o insinuare una parola, contro i vostri compagni o chiunque sia legato a
 <span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_21" data-title="MrPond — Louis; and shouted as if on parade: (part 21)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt" data-tags="motif/nature,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/honour,concept/hope,concept/nature,form/riddle,character/arthur"></span>
 
 
-them.  But after all--[[Well|well]], sir, there is the country, isn't
+them.  But after all--[[motifs/well|well]], sir, there is the country, isn't
 
 there?"
 
 "There is certainly the country," said Mr. Pond, very seriously.
 
-"[[Well]]," Butt blurted out at last, "I'm not a bit comfortable about
+"[[motifs/well|Well]]," Butt blurted out at last, "I'm not a bit comfortable about
 
-[[arthur|Arthur]]."
+[[characters/arthur|Arthur]]."
 
 Then, after a sort of gasp, he tried again:  "At least, it isn't so
 
-much [[arthur|Arthur]] as [[arthur|Arthur]]'s . . . what [[arthur|Arthur]]'s doing.  It makes it all
+much [[characters/arthur|Arthur]] as [[characters/arthur|Arthur]]'s . . . what [[characters/arthur|Arthur]]'s doing.  It makes it all
 
 the nastier to have put it like that.  But you know he got engaged
 
 last week.  Have you met his fiancée, sir?"
 
-"I have not yet had the [[Honour|honour]]," replied Pond, in his punctilious
+"I have not yet had the [[concepts/honour|honour]]," replied Pond, in his punctilious
 
 way.
 
-"[[Well]], sir, [[arthur|Arthur]] brought her in here to-day while you were out;
+"[[motifs/well|Well]], sir, [[characters/arthur|Arthur]] brought her in here to-day while you were out;
 
 he'd just taken her to the pantomime of Puss-in-Boots on the pier,
 
 and they were laughing like anything.  Of course, that's quite all
 
-right; it was his off [[Time|time]]; but it seemed to me it wasn't quite all
+right; it was his off [[motifs/time|time]]; but it seemed to me it wasn't quite all
 
 right that she walked straight upstairs without any invitation,
 
@@ -29110,25 +29110,25 @@ door, and you or I are always sitting bang in front of it; and
 
 there's only one staircase, and nobody uses it but we three.  Of
 
-course, she might have done it in all [[innocence]]; that's what made
+course, she might have done it in all innocence; that's what made
 
-it seem quite too ghastly to snub her.  And yet. . . .  [[Well]], she's
+it seem quite too ghastly to snub her.  And yet. . . .  [[motifs/well|Well]], she's
 
-a very nice-looking girl, and no [[Doubt|doubt]] a very nice girl; but
+a very nice-looking girl, and no [[concepts/doubt|doubt]] a very nice girl; but
 
 somehow that's just the one word that wouldn't jump to my mind
 
-about her--[[innocence]]."
+about her--innocence."
 
 "Why, what sort of a girl is she?" asked Pond.
 
-"[[Well]]," said Mr. Butt, gloomily seeking words, "we all know that
+"[[motifs/well|Well]]," said Mr. Butt, gloomily seeking words, "we all know that
 
 making-up and even dyeing your hair doesn't mean what it once did;
 
 lots of women do it who are perfectly decent; but not those who
 
-are--[[Well|well]], utterly inexperienced.  It seemed to me that, while she
+are--[[motifs/well|well]], utterly inexperienced.  It seemed to me that, while she
 
 might be perfectly honest, she WOULD know very decidedly whether a
 
@@ -29138,13 +29138,13 @@ thing is done or not."
 
 severity, "she must know that he is here on highly confidential
 
-work, and she must be as anxious to protect his [[Honour|honour]] as we are.
+work, and she must be as anxious to protect his [[concepts/honour|honour]] as we are.
 
 I'm afraid that I shall have to ask you for some sort of
 
 description."
 
-"[[Well]]," said Butt, "she's very tall and elegant, or . . . no,
+"[[motifs/well|Well]]," said Butt, "she's very tall and elegant, or . . . no,
 
 elegant is exactly the word.  She has beautiful golden hair--very
 
@@ -29164,9 +29164,9 @@ tooth, in any sense, her teeth are just a little to the fore."
 
 did."
 
-Mr. Pond received the news in [[Silence|silence]].
+Mr. Pond received the news in [[motifs/silence|silence]].
 
-"I [[Hope|hope]], sir, you won't assume anything against [[arthur|Arthur]]," said Butt,
+"I [[concepts/hope|hope]], sir, you won't assume anything against [[characters/arthur|Arthur]]," said Butt,
 
 huskily.  "I'm sure I'd do anything to clear him of any--"
 
@@ -29182,11 +29182,11 @@ did just then.
 
 They flung open the door, and they saw all that was to be seen.
 
-All that was to be seen was [[arthur|Arthur]] Travers stretched out face
+All that was to be seen was [[characters/arthur|Arthur]] Travers stretched out face
 
 downwards on the ground, and between his shoulder-blades stood out
 
-the very long hilt of a very strange-looking [[Sword|sword]].  Butt
+the very long hilt of a very strange-looking sword.  Butt
 
 impetuously laid hold of it, and was startled to find that it was
 
@@ -29210,7 +29210,7 @@ added:
 
 certain: that he is quite cleared."
 
-Pond then walked in [[Silence|silence]] to the desk, which contained the secret
+Pond then walked in [[motifs/silence|silence]] to the desk, which contained the secret
 
 drawer and the secret plan of the harbour.  He only compressed his
 
@@ -29222,7 +29222,7 @@ different people.  He did about twenty things, but he did not speak
 
 again for about three-quarters of an hour.  It was only about the
 
-same [[Time|time]] that the stunned and bewildered Butt stumbled into
+same [[motifs/time|time]] that the stunned and bewildered Butt stumbled into
 
 speech.
 
@@ -29236,7 +29236,7 @@ like that."
 
 once more.
 
-And indeed the [[Riddle|riddle]] revolved more and more on the one thing that
+And indeed the [[forms/riddle|riddle]] revolved more and more on the one thing that
 
 thief and murderer had left behind him: the enormous misshapen
 
@@ -29244,15 +29244,15 @@ weapon.  It was not difficult to guess why he had left it behind;
 
 it was so difficult to tug out of the floor that he probably had no
 
-[[Time|time]] to try effectually, hearing Pond clattering up the stairs; he
+[[motifs/time|time]] to try effectually, hearing Pond clattering up the stairs; he
 
-thought it wiser to escape somehow, presumably through the [[Window|window]].
+thought it wiser to escape somehow, presumably through the [[motifs/window|window]].
 
-But about the [[Nature|nature]] of the thing itself it was hard to say
+But about the [[concepts/nature|nature]] of the thing itself it was hard to say
 
 anything, for it seemed quite abnormal.  It was as long as a
 
-claymore; yet it was not upon the pattern of any known [[Sword|sword]].  It
+claymore; yet it was not upon the pattern of any known sword.  It
 
 had no guard or pommel of any kind.  The hilt was as long as the
 
@@ -29269,35 +29269,35 @@ of iron and wood painted with garish colours; and his thoughts
 
 <span class="qlang-split" data-lang="it"></span>
 
-loro. Ma in fondo... [[Well|beh]], signore, c'è la campagna, no,
+loro. Ma in fondo... [[motifs/well|beh]], signore, c'è la campagna, no,
 
 non è vero?"
 
 "C'è certamente la campagna," disse il signor Pond, molto seriamente.
 
-"[[Well|Beh]]," sbottò infine Butt, "non sono per niente tranquillo riguardo ad
+"[[motifs/well|Beh]]," sbottò infine Butt, "non sono per niente tranquillo riguardo ad
 
-[[arthur|Arthur]]."
+[[characters/arthur|Arthur]]."
 
 Poi, dopo una specie di rantolo, riprovò: "Almeno, non è tanto
 
-[[arthur|Arthur]] quanto ciò che è di [[arthur|Arthur]]... ciò che [[arthur|Arthur]] sta facendo. Rende tutto
+[[characters/arthur|Arthur]] quanto ciò che è di [[characters/arthur|Arthur]]... ciò che [[characters/arthur|Arthur]] sta facendo. Rende tutto
 
 più sgradevole averlo detto così. Ma sa che si è fidanzato
 
 la settimana scorsa. Ha conosciuto la sua promessa sposa, signore?"
 
-"Non ne ho ancora avuto l'[[Honour|onore]]," rispose Pond, nel suo modo
+"Non ne ho ancora avuto l'[[concepts/honour|onore]]," rispose Pond, nel suo modo
 
 puntiglioso.
 
-"[[Well|Beh]], signore, [[arthur|Arthur]] l'ha portata qui oggi mentre lei era fuori;
+"[[motifs/well|Beh]], signore, [[characters/arthur|Arthur]] l'ha portata qui oggi mentre lei era fuori;
 
 l'aveva appena accompagnata alla pantomima del Gatto con gli Stivali sul molo,
 
 e ridevano a più non posso. Certo, va benissimo
 
-così; era il suo [[Time|tempo]] libero; ma mi è parso non fosse del tutto
+così; era il suo [[motifs/time|tempo]] libero; ma mi è parso non fosse del tutto
 
 opportuno che salisse dritta di sopra senza alcun invito,
 
@@ -29313,25 +29313,25 @@ porta, e lei o io siamo sempre seduti proprio davanti ad essa; e
 
 c'è una sola scala, e nessuno la usa tranne noi tre. Certo,
 
-potrebbe averlo fatto in tutta [[innocence|innocenza]]; è questo che rendeva
+potrebbe averlo fatto in tutta innocenza; è questo che rendeva
 
-troppo orribile rimbeccarla. Eppure... [[Well|beh]], è
+troppo orribile rimbeccarla. Eppure... [[motifs/well|beh]], è
 
-una ragazza di bell'aspetto, e senza [[Doubt|dubbio]] una brava ragazza; ma
+una ragazza di bell'aspetto, e senza [[concepts/doubt|dubbio]] una brava ragazza; ma
 
 chissà perché è proprio l'unica parola che non mi verrebbe in mente
 
-sul suo conto... [[innocence|innocenza]]."
+sul suo conto... innocenza."
 
 "Ma che tipo di ragazza è?" chiese Pond.
 
-"[[Well|Beh]]," disse il signor Butt, cercando cupo le parole, "sappiamo tutti che
+"[[motifs/well|Beh]]," disse il signor Butt, cercando cupo le parole, "sappiamo tutti che
 
 truccarsi e persino tingersi i capelli non significa più ciò che significava un tempo;
 
 lo fanno molte donne perfettamente per bene; ma non quelle che
 
-sono... [[Well|beh]], del tutto inesperte. Mi è parso che, per quanto lei
+sono... [[motifs/well|beh]], del tutto inesperte. Mi è parso che, per quanto lei
 
 potesse essere perfettamente onesta, sapesse molto bene se una
 
@@ -29341,13 +29341,13 @@ cosa si fa o non si fa."
 
 insolita, "deve sapere che è qui per un lavoro altamente confidenziale,
 
-e deve essere ansiosa di proteggerne l'[[Honour|onore]] quanto lo siamo noi.
+e deve essere ansiosa di proteggerne l'[[concepts/honour|onore]] quanto lo siamo noi.
 
 Temo che dovrò chiederle una qualche
 
 descrizione."
 
-"[[Well|Beh]]," disse Butt, "è molto alta ed elegante, o... no,
+"[[motifs/well|Beh]]," disse Butt, "è molto alta ed elegante, o... no,
 
 elegante è esattamente la parola. Ha bellissimi capelli d'oro... bellissimi
 
@@ -29367,9 +29367,9 @@ lunghi, in nessun senso, i suoi denti sporgono appena un poco."
 
 così."
 
-Il signor Pond ricevette la notizia in [[Silence|silenzio]].
+Il signor Pond ricevette la notizia in [[motifs/silence|silenzio]].
 
-"[[Hope|Spero]], signore, che non presuma nulla contro [[arthur|Arthur]]," disse Butt,
+"[[concepts/hope|Spero]], signore, che non presuma nulla contro [[characters/arthur|Arthur]]," disse Butt,
 
 con voce rauca. "Sono certo che farei di tutto per scagionarlo da qualsiasi..."
 
@@ -29385,11 +29385,11 @@ fece in quel momento.
 
 Spalancarono la porta, e videro tutto ciò che c'era da vedere.
 
-Tutto ciò che c'era da vedere era [[arthur|Arthur]] Travers steso a faccia
+Tutto ciò che c'era da vedere era [[characters/arthur|Arthur]] Travers steso a faccia
 
 in giù sul pavimento, e tra le scapole sporgeva
 
-l'elsa lunghissima di una [[Sword|spada]] dall'aspetto quanto mai strano. Butt
+l'elsa lunghissima di una spada dall'aspetto quanto mai strano. Butt
 
 vi mise mano impetuosamente, e si stupì di scoprire che era
 
@@ -29413,7 +29413,7 @@ aggiunse:
 
 certa: che è del tutto scagionato."
 
-Pond si diresse quindi in [[Silence|silenzio]] alla scrivania, che conteneva il cassetto
+Pond si diresse quindi in [[motifs/silence|silenzio]] alla scrivania, che conteneva il cassetto
 
 segreto e la pianta segreta del porto. Si limitò a serrare le
 
@@ -29425,7 +29425,7 @@ persone diverse. Fece una ventina di cose, ma non parlò
 
 più per circa tre quarti d'ora. Fu solo verso lo stesso
 
-[[Time|momento]] che lo stordito e sconcertato Butt inciampò nelle
+[[motifs/time|momento]] che lo stordito e sconcertato Butt inciampò nelle
 
 parole.
 
@@ -29439,7 +29439,7 @@ in quel modo."
 
 di nuovo.
 
-E in effetti l'[[Riddle|enigma]] ruotava sempre più intorno all'unica cosa che
+E in effetti l'[[forms/riddle|enigma]] ruotava sempre più intorno all'unica cosa che
 
 ladro e assassino si era lasciato dietro: l'enorme, deforme
 
@@ -29447,15 +29447,15 @@ arma. Non era difficile indovinare perché l'avesse abbandonata;
 
 era così difficile da svellere dal pavimento che probabilmente non ebbe
 
-[[Time|tempo]] di provarci davvero, sentendo Pond salire fragorosamente le scale;
+[[motifs/time|tempo]] di provarci davvero, sentendo Pond salire fragorosamente le scale;
 
-ritenne più saggio fuggire in qualche modo, presumibilmente dalla [[Window|finestra]].
+ritenne più saggio fuggire in qualche modo, presumibilmente dalla [[motifs/window|finestra]].
 
-Ma sulla [[Nature|natura]] stessa dell'oggetto era difficile dire
+Ma sulla [[concepts/nature|natura]] stessa dell'oggetto era difficile dire
 
 alcunché, perché sembrava del tutto anomalo. Era lunga quanto uno
 
-spadone; eppure non seguiva il modello di alcuna [[Sword|spada]] nota. Non
+spadone; eppure non seguiva il modello di alcuna spada nota. Non
 
 aveva né guardia né pomo di alcun tipo. L'elsa era lunga quanto la
 
@@ -29474,7 +29474,7 @@ di ferro e legno dipinto di colori sgargianti; e i suoi pensieri
 <span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_22" data-title="MrPond — Louis; and shouted as if on parade: (part 22)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,archetype/fool,motif/dawn,motif/death,motif/decay,motif/garden,motif/road,motif/time,motif/water,motif/well,motif/window,concept/education,concept/hope,character/arthur,character/hubert"></span>
 
 
-crept slowly back to that shop across the [[Road|road]] that was hung with
+crept slowly back to that shop across the [[motifs/road|road]] that was hung with
 
 strange and savage weapons.  Yet this seemed to be in a somewhat
 
@@ -29490,11 +29490,11 @@ thing before.
 
 Touching many other things, the darkness began to thin away to a
 
-somewhat dreary [[Dawn|dawn]].  It was ascertained that poor [[arthur|Arthur]]'s
+somewhat dreary [[motifs/dawn|dawn]].  It was ascertained that poor [[characters/arthur|Arthur]]'s
 
 equivocal fiancée had indeed fled; very possibly in company with
 
-the missing plan.  She was known by this [[Time|time]] to be a woman quite
+the missing plan.  She was known by this [[motifs/time|time]] to be a woman quite
 
 capable of stealing a document or even stabbing a man.  But it was
 
@@ -29506,9 +29506,9 @@ floor; and quite impossible to imagine why she should select it for
 
 the purpose.
 
-"It would all be as clear as [[Death|death]]," said Mr. Butt, bitterly,
+"It would all be as clear as [[motifs/death|death]]," said Mr. Butt, bitterly,
 
-"except for that lumbering, long-hilted short-[[Sword|sword]], or whatever it
+"except for that lumbering, long-hilted short-sword, or whatever it
 
 is.  It never was in Levy's shop.  It never was in Asia or Africa
 
@@ -29524,7 +29524,7 @@ days.
 
 beginning to understand."
 
-It has been hinted, with every delicacy, we may [[Hope|hope]], that the
+It has been hinted, with every delicacy, we may [[concepts/hope|hope]], that the
 
 attitude of Mr. Pond towards the visits of Mrs. Hartog-Haggard was,
 
@@ -29532,7 +29532,7 @@ perhaps, rather passive than receptive; that he did not look
 
 forward to them as pants the hart for cooling streams; and that for
 
-him they rather resembled getting into hot [[Water|water]].  It is all the
+him they rather resembled getting into hot [[motifs/water|water]].  It is all the
 
 more worthy of record that, on the last occasion of her bringing
 
@@ -29542,7 +29542,7 @@ excitement and even of triumph.  He had been right in his
 
 premonitions about the wisdom of folly; and the triumph was truly
 
-the triumph of the [[Fool|fool]].  Mrs. Hartog-Haggard gave him the clue
+the triumph of the [[archetypes/fool|fool]].  Mrs. Hartog-Haggard gave him the clue
 
 after all.
 
@@ -29560,7 +29560,7 @@ governess.  On the former occasion she had appeared to claim the
 
 fairy-tale used for pantomimes as exclusively English and part of
 
-the healthy [[innocence]] of the stately homes of England.  Now she was
+the healthy innocence of the stately homes of England.  Now she was
 
 denouncing the German woman for taking the children to the
 
@@ -29576,9 +29576,9 @@ our children's nerves and minds.  Could any other nation be such
 
 fiends, Mr. Pond?  She's been poisoning their poor little minds
 
-with horrors about magicians and [[Magic|magic]] cats; and now the worst has
+with horrors about magicians and magic cats; and now the worst has
 
-happened, as I knew it would.  [[Well]]--YOU haven't done anything to
+happened, as I knew it would.  [[motifs/well|Well]]--YOU haven't done anything to
 
 stop it; and my life is simply ruined.  My three girls are all
 
@@ -29614,15 +29614,15 @@ mother.  Your son is not mad."
 
 He looked more judicial, and even severe, when he next sat in
 
-consultation with Mr. Butt, Sir [[Hubert]] Wotton, and Inspector Grote,
+consultation with Mr. Butt, Sir [[characters/hubert|Hubert]] Wotton, and Inspector Grote,
 
-the leading [[Detective|detective]] of the district.
+the leading [[archetypes/detective|detective]] of the district.
 
 "What it comes to is this," said Mr. Pond, very sternly: "that you
 
 do not really know the story of Puss-in-Boots.  And they talk about
 
-this as an epoch of [[Education]]."
+this as an epoch of [[concepts/education|Education]]."
 
 "Oh, I know it's about a clever cat and all the rest of it," said
 
@@ -29638,7 +29638,7 @@ first there was something wrong about that bit of scaffolding round
 
 the door; but I soon saw it was far too low and small for anybody
 
-to climb up to the [[Window|window]] by it.  But, of course, if we're talking
+to climb up to the [[motifs/window|window]] by it.  But, of course, if we're talking
 
 about a really clever cat burglar, there's always some chance that--"
 
@@ -29646,7 +29646,7 @@ about a really clever cat burglar, there's always some chance that--"
 
 any burglar, any more than any cat, load himself with a gigantic
 
-knife rather bigger than a [[Garden|garden]] spade?  Nobody carries a gigantic
+knife rather bigger than a [[motifs/garden|garden]] spade?  Nobody carries a gigantic
 
 knife except a giant.  This crime was committed by a giant."
 
@@ -29656,7 +29656,7 @@ rebuke:
 
 "What I remark upon, what I regret and regard as symptomatic of
 
-serious intellectual [[Decay|decay]], is that you apparently do not know that
+serious intellectual [[motifs/decay|decay]], is that you apparently do not know that
 
 the story of Puss-in-Boots includes a giant.  He is also a
 
@@ -29664,7 +29664,7 @@ magician; but he is always depicted, in pictures and pantomimes, as
 
 an ogre with a large knife.  Signor Alberto Tizzi, that somewhat
 
-dubious foreign [[Artist|artist]], enacts the part on the pier by the usual
+dubious foreign [[archetypes/artist|artist]], enacts the part on the pier by the usual
 
 expedient of walking on very high stilts, covered by very long
 
@@ -29675,7 +29675,7 @@ with the trousers; taking a walk through the almost entirely
 
 <span class="qlang-split" data-lang="it"></span>
 
-tornavano lentamente a quella bottega dall'altra parte della [[Road|strada]], addobbata con
+tornavano lentamente a quella bottega dall'altra parte della [[motifs/road|strada]], addobbata con
 
 armi strane e selvagge. Eppure questa sembrava di uno stile alquanto
 
@@ -29691,11 +29691,11 @@ cosa simile prima d'ora.
 
 Toccando molte altre cose, l'oscurità cominciò a diradarsi in una
 
-alba piuttosto tetra, un mesto [[Dawn|albeggiare]]. Si accertò che l'equivoca
+alba piuttosto tetra, un mesto [[motifs/dawn|albeggiare]]. Si accertò che l'equivoca
 
-fidanzata del povero [[arthur|Arthur]] era davvero fuggita; molto probabilmente in compagnia
+fidanzata del povero [[characters/arthur|Arthur]] era davvero fuggita; molto probabilmente in compagnia
 
-della pianta scomparsa. A questo [[Time|punto]] la si sapeva una donna del tutto
+della pianta scomparsa. A questo [[motifs/time|punto]] la si sapeva una donna del tutto
 
 capace di rubare un documento o persino di pugnalare un uomo. Ma era
 
@@ -29707,11 +29707,11 @@ pavimento; e del tutto impossibile immaginare perché avrebbe dovuto sceglierlo
 
 allo scopo.
 
-"Sarebbe tutto chiaro come la [[Death|morte]]," disse il signor Butt, amaramente,
+"Sarebbe tutto chiaro come la [[motifs/death|morte]]," disse il signor Butt, amaramente,
 
 "se non fosse per quella pesante spadaccia dall'elsa lunga, o quel che è,
 
-quella corta-[[Sword|spada]]. Non è mai stata nella bottega di Levy. Non è mai stata in Asia o in Africa
+quella corta-spada. Non è mai stata nella bottega di Levy. Non è mai stata in Asia o in Africa
 
 né presso alcuna delle tribù di cui ci parlano i dotti sapientoni. È il
 
@@ -29725,7 +29725,7 @@ di giorni.
 
 davvero a capire."
 
-È stato accennato, con ogni delicatezza, possiamo [[Hope|sperare]], che l'atteggiamento
+È stato accennato, con ogni delicatezza, possiamo [[concepts/hope|sperare]], che l'atteggiamento
 
 del signor Pond verso le visite della signora Hartog-Haggard fosse,
 
@@ -29733,7 +29733,7 @@ forse, più passivo che ricettivo; che non le attendesse
 
 con la brama con cui il cervo anela ai freschi ruscelli; e che per
 
-lui somigliassero piuttosto a un cacciarsi nei guai, in acqua [[Water|bollente]].
+lui somigliassero piuttosto a un cacciarsi nei guai, in acqua [[motifs/water|bollente]].
 
 Tanto più merita di essere annotato che, all'ultima occasione in cui gli portò
 
@@ -29743,7 +29743,7 @@ eccitazione e persino di trionfo. Aveva avuto ragione nei suoi
 
 presentimenti sulla saggezza della follia; e il trionfo era davvero
 
-il trionfo dello [[Fool|sciocco]]. La signora Hartog-Haggard gli fornì la chiave
+il trionfo dello [[archetypes/fool|sciocco]]. La signora Hartog-Haggard gli fornì la chiave
 
 dopo tutto.
 
@@ -29761,7 +29761,7 @@ governante. Nell'occasione precedente era parsa reclamare
 
 la fiaba usata per le pantomime come esclusivamente inglese e parte della
 
-sana [[innocence|innocenza]] delle nobili dimore d'Inghilterra. Ora
+sana innocenza delle nobili dimore d'Inghilterra. Ora
 
 denunciava la donna tedesca per aver portato affatto i bambini alla
 
@@ -29777,9 +29777,9 @@ menti di tutti i nostri figli. Potrebbe un'altra nazione essere così
 
 demoniaca, signor Pond? Ha avvelenato le loro povere piccole menti
 
-con storie di orrore su maghi e gatti [[Magic|magici]]; e ora è accaduto il peggio,
+con storie di orrore su maghi e gatti magici; e ora è accaduto il peggio,
 
-come sapevo che sarebbe accaduto. [[Well|Beh]]... LEI non ha fatto nulla per
+come sapevo che sarebbe accaduto. [[motifs/well|Beh]]... LEI non ha fatto nulla per
 
 impedirlo; e la mia vita è semplicemente rovinata. Le mie tre bambine
 
@@ -29815,15 +29815,15 @@ madre. Suo figlio non è pazzo."
 
 Aveva un'aria più giudiziosa, e persino severa, quando poco dopo sedette
 
-in consulto con il signor Butt, Sir [[Hubert]] Wotton e l'ispettore Grote,
+in consulto con il signor Butt, Sir [[characters/hubert|Hubert]] Wotton e l'ispettore Grote,
 
-il principale [[Detective|investigatore]] del distretto.
+il principale [[archetypes/detective|investigatore]] del distretto.
 
 "Il punto è questo," disse il signor Pond, molto severamente: "che lei
 
 non conosce davvero la storia del Gatto con gli Stivali. E si parla di
 
-questa come di un'epoca di [[Education|Istruzione]]."
+questa come di un'epoca di [[concepts/education|Istruzione]]."
 
 "Oh, so che parla di un gatto astuto e tutto il resto," disse
 
@@ -29839,7 +29839,7 @@ immaginato che ci fosse qualcosa di sbagliato in quel pezzo d'impalcatura intorn
 
 alla porta; ma vidi presto che era troppo bassa e piccola perché qualcuno
 
-vi si arrampicasse fino alla [[Window|finestra]]. Ma, certo, se parliamo
+vi si arrampicasse fino alla [[motifs/window|finestra]]. Ma, certo, se parliamo
 
 di un gatto scassinatore davvero abile, c'è sempre qualche possibilità che..."
 
@@ -29847,7 +29847,7 @@ di un gatto scassinatore davvero abile, c'è sempre qualche possibilità che..."
 
 un qualsiasi scassinatore, più di un qualsiasi gatto, si carica di un gigantesco
 
-coltello piuttosto più grande di una vanga da [[Garden|giardino]]? Nessuno porta un gigantesco
+coltello piuttosto più grande di una vanga da [[motifs/garden|giardino]]? Nessuno porta un gigantesco
 
 coltello tranne un gigante. Questo delitto è stato commesso da un gigante."
 
@@ -29857,7 +29857,7 @@ rimprovero:
 
 "Ciò che rilevo, ciò che deploro e considero sintomatico di un
 
-grave [[Decay|decadimento]] intellettuale, è che voi apparentemente non sapete che
+grave [[motifs/decay|decadimento]] intellettuale, è che voi apparentemente non sapete che
 
 la storia del Gatto con gli Stivali comprende un gigante. Egli è anche un
 
@@ -29865,7 +29865,7 @@ mago; ma è sempre raffigurato, nelle illustrazioni e nelle pantomime, come
 
 un orco con un grande coltello. Il signor Alberto Tizzi, quell'artista straniero
 
-alquanto dubbio, l'[[Artist|artista]], interpreta la parte sul molo col solito
+alquanto dubbio, l'[[archetypes/artist|artista]], interpreta la parte sul molo col solito
 
 espediente di camminare su altissimi trampoli, coperti da lunghissimi
 
@@ -29878,21 +29878,21 @@ dei pantaloni; concedendosi una passeggiata per le strade quasi interamente
 <span class="atom-split" data-atom="story_05_louis_and_shouted_as_if_on_parade--part_23" data-title="MrPond — Louis; and shouted as if on parade: (part 23)" data-chapter="Louis and shouted as if on parade" data-kind="excerpt" data-tags="motif/childhood,motif/moon,motif/night,motif/window,form/tragedy,character/hubert"></span>
 
 
-deserted streets at [[Night|night]].  Just round here, especially, the
+deserted streets at [[motifs/night|night]].  Just round here, especially, the
 
 chances are against his being even seen; all the big houses are
 
 shut up, except ours and Mrs. Hartog-Haggard's, which only looks on
 
-the street through a landing [[Window|window]]; through which her little boy
+the street through a landing [[motifs/window|window]]; through which her little boy
 
 (probably in his nightgown) peered and beheld a real ogre, with a
 
 great gory knife, and, perhaps, a great grinning mask, walking
 
-majestically under the [[Moon|moon]]--rather a fine sight to put among the
+majestically under the [[motifs/moon|moon]]--rather a fine sight to put among the
 
-memories of [[Childhood|childhood]].  For the rest, all the poor houses are low
+memories of [[motifs/childhood|childhood]].  For the rest, all the poor houses are low
 
 houses of one storey; and the people would see nothing but his
 
@@ -29916,9 +29916,9 @@ ledge or roof or other upper level.  So he left them standing
 
 outside our doorway, among the poles of the little scaffolding,
 
-while he climbed in at the upper [[Window|window]] and killed poor Travers."
+while he climbed in at the upper [[motifs/window|window]] and killed poor Travers."
 
-"If you are sure of this," cried Sir [[Hubert]] Wotton, starting to his
+"If you are sure of this," cried Sir [[characters/hubert|Hubert]] Wotton, starting to his
 
 feet hastily, "you ought to act on it at once!"
 
@@ -29938,9 +29938,9 @@ But he sighed again.
 
 after, "though we did manage to save the secret plans, the incident
 
-was much more of a [[Tragedy|tragedy]] than a triumph.  And what I most
+was much more of a [[forms/tragedy|tragedy]] than a triumph.  And what I most
 
-intensely disliked about the [[Tragedy|tragedy]] was the irony--what I believe
+intensely disliked about the [[forms/tragedy|tragedy]] was the irony--what I believe
 
 is called the tragic irony, or, alternatively, the Greek irony.  We
 
@@ -29967,21 +29967,21 @@ little laugh, "he was too tall to be seen."
 
 <span class="qlang-split" data-lang="it"></span>
 
-deserte di [[Night|notte]]. Proprio da queste parti, in particolare, le
+deserte di [[motifs/night|notte]]. Proprio da queste parti, in particolare, le
 
 probabilità sono contro il fatto che venga anche solo visto; tutte le grandi case sono
 
 chiuse, tranne la nostra e quella della signora Hartog-Haggard, che affaccia sulla
 
-strada soltanto attraverso una [[Window|finestra]] del pianerottolo; dalla quale il suo bambino
+strada soltanto attraverso una [[motifs/window|finestra]] del pianerottolo; dalla quale il suo bambino
 
 (probabilmente in camicia da notte) sbirciò e scorse un vero orco, con un
 
 grande coltello insanguinato e, forse, una grande maschera ghignante, che camminava
 
-maestosamente sotto la [[Moon|Luna]]... uno spettacolo piuttosto bello da collocare tra i
+maestosamente sotto la [[motifs/moon|Luna]]... uno spettacolo piuttosto bello da collocare tra i
 
-ricordi dell'[[Childhood|infanzia]]. Per il resto, tutte le case dei poveri sono case
+ricordi dell'[[motifs/childhood|infanzia]]. Per il resto, tutte le case dei poveri sono case
 
 basse di un solo piano; e la gente non vedrebbe altro che le sue
 
@@ -30005,9 +30005,9 @@ qualsiasi cornicione o tetto o altro livello superiore. Così li lasciò in pied
 
 fuori dalla nostra soglia, tra i pali della piccola impalcatura,
 
-mentre si arrampicava dentro dalla [[Window|finestra]] superiore e uccideva il povero Travers."
+mentre si arrampicava dentro dalla [[motifs/window|finestra]] superiore e uccideva il povero Travers."
 
-"Se ne è certo," gridò Sir [[Hubert]] Wotton, balzando in
+"Se ne è certo," gridò Sir [[characters/hubert|Hubert]] Wotton, balzando in
 
 piedi in fretta, "dovrebbe agire subito!"
 
@@ -30027,9 +30027,9 @@ Ma sospirò di nuovo.
 
 tempo dopo, "benché siamo riusciti a salvare le piante segrete, l'episodio
 
-fu assai più una [[Tragedy|tragedia]] che un trionfo. E ciò che più
+fu assai più una [[forms/tragedy|tragedia]] che un trionfo. E ciò che più
 
-intensamente mi dispiacque della [[Tragedy|tragedia]] fu l'ironia... quella che credo
+intensamente mi dispiacque della [[forms/tragedy|tragedia]] fu l'ironia... quella che credo
 
 si chiami ironia tragica, o, in alternativa, ironia greca. Ci
 

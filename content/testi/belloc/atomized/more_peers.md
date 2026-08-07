@@ -655,17 +655,17 @@ Gets it beforehand; and in gold.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Lord Roehampton
+Lord Roehampton
 
 Durante le elezioni serali, Lord…
 
-#Roehampton si strappò un cordone vocale
+Roehampton si strappò un cordone vocale
 
-# Da grida molto forti e alte
+Da grida molto forti e alte
 
 Per molte, molte persone… perché?
 
-#Il bilancio secondo la sua opinione
+Il bilancio secondo la sua opinione
 
 -A Ion non dovrebbe essere permesso di vincere.
 
@@ -675,7 +675,7 @@ Cercò uno specialista, il quale disse:
 
 “Hai un gonfiore alla testa…”
 
-# Il tuo laringe è un pensiero rilassato
+Il tuo laringe è un pensiero rilassato
 
 “E si vi fa pagare una tassa eccessivamente alta.”
 
@@ -693,9 +693,9 @@ Si è rotto il nobile Specialista.
 
 A letto! A letto! E state zitti.
 
-# Una parola sola fino a mercoledì
+Una parola sola fino a mercoledì
 
-# Quando verrò a liberarvi
+Quando verrò a liberarvi
 
 “Se vi guarite, prendete pure la mia tariffa.”
 
@@ -717,29 +717,29 @@ Galleggiano nei recinti sul retro!
 
 Passeggiate nel Gay Parterre.
 
-# Un scudo appeso a forma di rombo
+Un scudo appeso a forma di rombo
 
 E avvolto nel lutto, i suoi occhi erano pieni di dolore.
 
-#Sul vasto portone della dimora…
+Sul vasto portone della dimora…
 
-#Attraverso ciò
+Attraverso ciò
 
-#"Mucchi di paglia,"[A]"
+"Mucchi di paglia,"[A]"
 
-# E quale un maggiordomo
+E quale un maggiordomo
 
 [A] Questa è la prima e unica volta che ho utilizzato questo tipo di rima.
 
 Sommerso in lacrime
 
-# Confirma i suoi timori…
+Confirma i suoi timori…
 
 “Oh! Signore! — Si prepari ad ascoltare la cosa peggiore.
 
 Ieri sera il mio gentile vecchio padrone è morto.
 
-#E inoltre, dubito che lui…
+E inoltre, dubito che lui…
 
 Ha lasciato abbastanza denaro per pagare la tua tariffa.
 
@@ -749,7 +749,7 @@ Con un terribile giuramento…
 
 Il specialista
 
-# Denunciando entrambi
+Denunciando entrambi
 
 Il bilancio e la Camera dei Lord
 
@@ -831,11 +831,11 @@ He gave them to a Hospital.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Lord Henry Chase
+Lord Henry Chase
 
 Che fine ha fatto Lord Henry Chase?
 
-#Finì nei guai
+Finì nei guai
 
 Caso di diffamazione!
 
@@ -845,7 +845,7 @@ Ma non riuscì a provarlo in modo perfetto
 
 A soddisfazione del giudice e della giuria:
 
-#Sua Signoria, pertanto…
+Sua Signoria, pertanto…
 
 Vinse l’azione.
 
@@ -883,9 +883,9 @@ About Lord Epsom and his horse.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Lord Heygate
+Lord Heygate
 
-#Un volto preoccupato
+Un volto preoccupato
 
 “I suoi mobili erano ordinari…”
 
@@ -896,7 +896,7 @@ Per qualcuno della classe media.
 
 Non credo che tu voglia sentirlo.
 
-#Su questo insignificante nobile…
+Su questo insignificante nobile…
 
 Allora lasciamolo che parli…
 
@@ -952,7 +952,7 @@ He had the Hunter led away.
 
 Lord Epsom
 
-# Un cavallo… su cui Lord Epsom montò
+Un cavallo… su cui Lord Epsom montò
 
 Con maestria e un silenzioso orgoglio.
 
@@ -960,7 +960,7 @@ Conficcò le sue staffe nella sua pelle.
 
 Il cavallo
 
-# Notando che era stato pungolato…
+Notando che era stato pungolato…
 
 Incontrollabilmente
 
@@ -968,7 +968,7 @@ Bucked e kickato
 
 Qualcosa che nessuno avrebbe potuto prevedere!
 
-# Lord Epsom capiva chiaramente
+Lord Epsom capiva chiaramente
 
 L’umore nervoso della creatura di alta razza
 
@@ -978,7 +978,7 @@ Scendere da cavallo
 
 Si dice che abbia detto…
 
-# Meglio ritardare…
+Meglio ritardare…
 
 Il suo piacere per un giorno futuro
 
@@ -1012,13 +1012,13 @@ To give employment to the artisan.
 
 Lord Finchley
 
-#Lord Finchley cercò di riparare la luce elettrica
+Lord Finchley cercò di riparare la luce elettrica
 
 Lui stesso.
 
 Gli fu fatale. E così si merita!
 
-# Affari del ricco
+Affari del ricco
 
 Per fornire lavoro all’artigiano.
 
@@ -1070,31 +1070,31 @@ Lord Ali-Baba
 
 Lord Ali-Baba era un turco
 
-# Chi odiava ogni tipo di lavoro
+Chi odiava ogni tipo di lavoro
 
 E riposerebbe per ore in tranquillità.
 
-#Con
+Con
 
 Uniche donne ad essere sedute sulle sue ginocchia, le Houris.
 
 Una vita felice… Fino a quando, un giorno…
 
-# Mossoo Alphonse Effendi Bey
+Mossoo Alphonse Effendi Bey
 
-#Un giovane outsider: l’élite tra gli elitari
+Un giovane outsider: l’élite tra gli elitari
 
-# L’essenza del nuovo regime
+L’essenza del nuovo regime
 
 Scacciato questo sogno orientale
 
 Concedendogli un posto alla Corte…
 
-# Macinacaffè potente alla Porta
+Macinacaffè potente alla Porta
 
 Non pagato: —
 
-# In quale nobile posizione
+In quale nobile posizione
 
 Sua Signoria era morto.
 
@@ -1200,9 +1200,9 @@ that he had backed the Winner!
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Lord Hippo
+Lord Hippo
 
-#Lord Hippo subì una terribile perdita
+Lord Hippo subì una terribile perdita
 
 Scommettere su un cavallo
 
@@ -1210,7 +1210,7 @@ Scommettere su un cavallo
 
 Si muoverebbe molto più velocemente degli altri.
 
-#Per
+Per
 
 Qualcuno che era a conoscenza dei fatti
 
@@ -1220,7 +1220,7 @@ Ma, davvero
 
 La mattina della gara
 
-# Solo ci volle…
+Solo ci volle…
 
 Il settimo posto!
 
@@ -1228,9 +1228,9 @@ Immaginate la grande sorpresa del Visconte!
 
 A malapena riusciva a credere ai propri occhi!
 
-# Cercò l’Individuo che…
+Cercò l’Individuo che…
 
-# Avevo scommesso 9 a 2 su di lui
+Avevo scommesso 9 a 2 su di lui
 
 Consiglio utile da seguire
 
@@ -1242,27 +1242,27 @@ Nacque a seguito della sua stupida scommessa.
 
 Ma quando il bookmaker… oh, mio Dio!
 
-# Vorrei solo che tu potessi aver sentito
+Vorrei solo che tu potessi aver sentito
 
-# Con quel ruggito, non pensava affatto…
+Con quel ruggito, non pensava affatto…
 
 E sperava che potessero fargli prendere un colpo di freddo, o qualcosa del genere!
 
-# Lord Hippo semplicemente si girò e fuggì
+Lord Hippo semplicemente si girò e fuggì
 
 Da quest’uomo furioso.
 
 Disperato, folle e sconvolto
 
-# Crollò completamente e cercò rifugio
+Crollò completamente e cercò rifugio
 
-#Il suo padre
+Il suo padre
 
 Il Conte di Potamus
 
 E gli parlò con voce rotta, dicendo così:
 
-# Terrore, Signore… Oggi, ad Ascot… io…
+Terrore, Signore… Oggi, ad Ascot… io…
 
 Il suo affabile genitore rispose:
 
@@ -1274,17 +1274,17 @@ Cosa?
 
 . Quindicicentomila?. Hmm!
 
-#Mettiti in sesto, imbecille!
+Mettiti in sesto, imbecille!
 
 I ragazzi sono sempre stati ragazzi. Ecco quindi il assegno!
 
-#Lord Hippo, provando un profondo…
+Lord Hippo, provando un profondo…
 
 Più grato di quanto fosse disposto ad ammettere…
 
-# Scommesso tutto su Piccola Nell: —
+Scommesso tutto su Piccola Nell: —
 
-# Ricevette un telegramma a cena
+Ricevette un telegramma a cena
 
 Titolo:  
 Per dire…
@@ -1340,7 +1340,7 @@ He sickened, paled, and died.
 Titolo:  
 Zio Tom
 
-#Lord Uncle Tom era diverso dagli altri
+Lord Uncle Tom era diverso dagli altri
 
 Quali altri nobili ci sono.
 
@@ -1348,7 +1348,7 @@ Perché sono gialli o rosa, penso…
 
 Ma era nero come il catrame.
 
-#Il fascino disinvolto di suo padre
+Il fascino disinvolto di suo padre
 
 E una vanità piuttosto facile da nutrire…
 
@@ -1356,19 +1356,19 @@ Ma il suo colorito e i suoi capelli…
 
 Provenivano dal lato materno.
 
-#Si mescolava spesso alle discussioni
+Si mescolava spesso alle discussioni
 
 E successivamente mostrato
 
-# Esperienza di un peso particolare
+Esperienza di un peso particolare
 
 Sulla commerciazione del cacao.
 
 Ma ora non parla più… Il conto.
 
-# Qualcosa che non riusciva proprio a sopportare
+Qualcosa che non riusciva proprio a sopportare
 
-# Lo tormentava costantemente nella sua mente fino a…
+Lo tormentava costantemente nella sua mente fino a…
 
 Si ammalò, impallidì e morì.
 
@@ -1464,13 +1464,13 @@ Of asking Meyer to lunch with him.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Lord Lucky
+Lord Lucky
 
-# Lord Lucky, per una curiosa coincidenza
+Lord Lucky, per una curiosa coincidenza
 
 Diventò un duca molto importante.
 
-# Da una vita in un orribile hotel
+Da una vita in un orribile hotel
 
 Titolo:  
 Lontano a est di Camberwell
@@ -1479,7 +1479,7 @@ Si alzò, in meno di mezz’ora.
 
 Verso la ricchezza, la dignità e il potere.
 
-# Accadde nel seguente modo: —
+Accadde nel seguente modo: —
 
 Il vero duca uscì un giorno
 
@@ -1489,15 +1489,15 @@ Di coloro che non avevano mai usato un fucile.
 
 Questo gentiluomo… il signor Meyer
 
-# dell’Abbazia di Rabley, nel Rutlandshire
+dell’Abbazia di Rabley, nel Rutlandshire
 
-# Mentre si affannava ad armeggiare con il freno…
+Mentre si affannava ad armeggiare con il freno…
 
 Scaricò l’arma per errore.
 
-# E inserita circa un'oncia di piombo
+E inserita circa un'oncia di piombo
 
-# Piff-bang nella testa della sua Grazia
+Piff-bang nella testa della sua Grazia
 
 Che naturalmente cadde a terra morto.
 
@@ -1505,19 +1505,19 @@ Il suo erede, Lord Ugly, gridò: “Tu bruto!”
 
 “Prendi questo come lezione su come sparare!”
 
-#Colpì da tutte le parti;
+Colpì da tutte le parti;
 
 Ma essendo un po’ miopio…
 
-#Solo il suo cannone destro…
+Solo il suo cannone destro…
 
 Il secondo erede, Lord Poddleplot;
 
-#La carica dal lato sinistro
+La carica dal lato sinistro
 
 “Spiegato anche per un altro tizio…”
 
-# Chi rimase sbalordito
+Chi rimase sbalordito
 
 Confuso da tutta questa situazione
 
@@ -1527,7 +1527,7 @@ Dopo…
 
 Esecuzione
 
-# Qualcosa di raro tra i ricchi
+Qualcosa di raro tra i ricchi
 
 Lord Lucky… beh, ovviamente aveva bisogno…
 
@@ -1541,7 +1541,7 @@ Riuscì nel suo intento.
 
 Tutto questo è accaduto molti anni fa.
 
-# Solo una volta si concesse quel capriccio
+Solo una volta si concesse quel capriccio
 
 Di chiedere a Meyer di pranzare con lui.
 
@@ -1573,16 +1573,16 @@ Appears to be the reason that he died.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Lord Canton
+Lord Canton
 
-#Il motivo per cui
+Il motivo per cui
 
 Il presente signore di Canton
 
 Titolo:  
 Recentemente succeduto a suo fratello John
 
-# Era forse suo fratello John, il figlio maggiore?
+Era forse suo fratello John, il figlio maggiore?
 
 Morì piuttosto improvvisamente all’età di quarantuno anni.
 
@@ -1622,7 +1622,7 @@ Così piccolo, che mentre camminava tranquillamente per White Hall…
 
 Anche la giovane classe proletaria
 
-# Ciò che probabilmente fu scambiato per un cappello
+Ciò che probabilmente fu scambiato per un cappello
 
 Si è fatto riferimento alla sua estensione esigua.
 

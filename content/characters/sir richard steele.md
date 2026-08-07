@@ -14,4 +14,10 @@ A ghost in Queen Anne-era dress who recalls that Father Christmas was already dy
 
 <div class="concept-works" data-slug="characters/sir-richard-steele"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/shop-of-ghosts-(chesterton)|shop-of-ghosts (Chesterton)]]
+
+</div>
+
 #graph/character

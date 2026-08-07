@@ -14,4 +14,10 @@ A devotional form built on repeated invocations or titles, here modeling the Vir
 
 <div class="concept-works" data-slug="forms/litany"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/litany-(chesterton)|litany (Chesterton)]]
+
+</div>
+
 #graph/form

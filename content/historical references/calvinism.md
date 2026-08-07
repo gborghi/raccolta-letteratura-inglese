@@ -14,4 +14,10 @@ The theological doctrine of predestination and election whose paradoxical relati
 
 <div class="concept-works" data-slug="historical-references/calvinism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/milton-(chesterton)|Milton (Chesterton)]]
+
+</div>
+
 #graph/histref

@@ -17,17 +17,17 @@ tags:
   - character/christ
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Bible · Sin and the Fall · Fall from Innocence]]
+*by Coleridge*  ·  **Cluster:** [[clusters/bible-·-sin-and-the-fall-·-fall-from-innocence|Bible · Sin and the Fall · Fall from Innocence]]
 
 > [!abstract] 
 > Variorum notes and verse-fragments to 'Religious Musings' on the Nativity vision, the despised Galilaean, the apocalyptic fall of Babylon and union of religion with power; themes of faith, apocalypse, original sin, and critique of established churches.
 
 ## Connections
 
-**Themes & Concepts:** [[Faith]], [[Apocalypse and Millennium]], [[Sin and the Fall]], [[Power and Corruption]]
-**Forms & Genres:** [[Fragment]]
-**Historical References:** [[Bible]], [[French Revolution]]
-**Characters:** [[Christ]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/apocalypse-and-millennium|Apocalypse and Millennium]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/power-and-corruption|Power and Corruption]]
+**Forms & Genres:** [[forms/fragment|Fragment]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/french-revolution|French Revolution]]
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

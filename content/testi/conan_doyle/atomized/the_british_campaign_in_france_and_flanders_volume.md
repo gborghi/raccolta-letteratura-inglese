@@ -4371,7 +4371,7 @@ DIVISIONE II – Generale Munro.
 
 Primo irlandese.
 
-# 5ª Brigata di Fanteria – Generale Haking
+5ª Brigata di Fanteria – Generale Haking
 
 2° Worcester.
 
@@ -4379,7 +4379,7 @@ Primo irlandese.
 
 2° Reggimento Highland L.I.
 
-# 2° Reggimento dei Ranger del Connacht
+2° Reggimento dei Ranger del Connacht
 
 6ª Brigata di Fanteria – Generale Davies.
 
@@ -4505,7 +4505,7 @@ R.E. — Colonnello Tulloch.
 5 Signal Co.  
 La cavalleria era composta da quattro brigate che formavano la prima divisione di cavalleria, oltre a un’altra brigata aggiuntiva.
 
-# Furono creati in questo modo:
+Furono creati in questo modo:
 
 1ª Brigata di Cavalleria (Briggs): 2ª e 5ª Guardie Dragoni; 11º Ussari.
 
@@ -4555,7 +4555,7 @@ La rimanente brigata della Terza Divisione, la 7ª Brigata di McCracken, aveva g
 La 13ª Brigata di Cuthbert, mantenendo la formazione in linea con i compagni a destra, si fermò a Wasmes, a circa quattro miglia dal canale, dove preparò rapidamente delle trincee. All’alba, furono attaccati con violenza dalla avanguardia tedesca; nello stesso momento, la 9ª Brigata venne spinta sotto pressione a Frameries. Tuttavia, per due ore gli assalitori furono respinti con gravi perdite. La maggior parte dei combattimenti ricadde sul 2° Reggimento West Riding, che subì pesanti perdite, fu quasi completamente circondato e, grazie alla tenace determinazione degli uomini del Yorkshire, riuscì infine a liberarsi. Tra le perdite figuravano il comandante del reggimento, il colonnello Gibbs, l’assistente di campo, 300 soldati e tutti gli ufficiali tranne cinque. Anche il 1° Reggimento West Kents perse circa 100 uomini e diversi ufficiali, tra cui il maggiore Pack-Beresford. Per il resto della giornata e per l’intero 25° giorno, la brigata, insieme al resto della Quinta Divisione, si ritirò senza combattere lungo la linea di Bavai fino alla posizione del Le Cateau.
 La sera del 23, la 14ª Brigata, ancora più a ovest, si era ritirata a Dour, facendo esplodere il ponte e la strada che attraversavano il canale. Dopo il calare della notte, i tedeschi li inseguirono; la 15ª Brigata di Gleichen, che non aveva ancora partecipato alle battaglie, si trovò nella posizione di retroguardia e fu immediatamente esposta alla pressione delle manovre di aggiramento dei tedeschi. Questa situazione minacciava ora di circondare l’intera Quinta Divisione di Ferguson.
 La situazione era particolarmente difficile, poiché questo generale doveva effettuare una manovra di flanco di fronte al nemico per raggiungere i suoi compagni della Terza Divisione. Presto fu costretto a chiedere aiuto, e Allenby, con la sua divisione di cavalleria, venne inviato in suo soccorso. Era evidente che l’intenzione del nemico fosse quella di attaccare il lato ovest della divisione per intrappolarla fino al momento in cui potesse essere completamente circondata.
-#Primo mattino della ritirata del II Corpo d’Armata, 24 agosto 1914
+Primo mattino della ritirata del II Corpo d’Armata, 24 agosto 1914
 La prima offensiva minacciosa della mattina del 24 si dirigeva contro il fianco dell’infanteria britannica che stava avanzando lungo la strada di Elouges-Dour. La situazione era critica, e una parte della 2ª Brigata di Cavalleria di De Lisle ricevette l’ordine di caricare vicino a Andregnies; in quel momento, l’infanteria nemica si trovava a circa mille iarde di distanza, con diverse batterie che le fornivano supporto. L’attacco della cavalleria fu vigorosamente sostenuto dalla Batteria L di Artiglieria a Cavallo. La carica fu portata avanti da tre squadroni dei 9° Lancieri, sotto il comando del Colonnello Campbell; i 4° Dragoni Guardie, al comando del Colonnello Mullens, fornirono supporto. La cavalleria avanzò nonostante un intenso fuoco, ma quando si trovò a poche centinaia di iarde dal nemico, incontrando una recinzione metallica, deviò verso destra e si riorganizzò sotto la copertura di cumuli di scorie e di un terrapieno ferroviario. La loro minacciosa azione, unita al fuoco dei fucili, riuscì a fermare temporaneamente l’avanzata tedesca; sebbene la cavalleria fosse piuttosto dispersa e disorganizzata, riuscì a riunirsi senza subire perdite eccessive, con un bilancio totale di poco più di duecento uomini caduti. Alcune ore dopo, la pressione nemica tornò intensa sul fianco di Ferguson; il 1° Cheshire e il 1° Norfolk, appartenenti alla 15ª Brigata di Gleichen che formavano la guardia laterale dell’infanteria, subirono gravi perdite. Fu in questa azione difensiva che il 119° Reggimento R.F.A., sotto il comando del Maggiore Alexander, riuscì a fermare l’avanzata nemica, con soli tre artiglieri illesi alle postazioni delle batterie. La batteria aveva già messo fuori combattimento un’unità tedesca e stava combattendo contro altre tre; rimasero solo il Maggiore Alexander, il Tenente Pollard e pochi uomini. Poiché i cavalli erano stati distrutti, gli obici dovettero essere trasportati a mano fuori dalla zona di battaglia. Il Capitano F. Grenfell del 9° Lancieri, ferito in due punti, insieme ad altri ufficiali, sergenti e circa cinquanta uomini del reggimento, riuscì a salvare queste batterie nonostante un fuoco terribile; l’infanteria tedesca si trovava a distanza ravvicinata. Per tutta la lunga e faticosa giornata, le batterie e i cavalieri lavorarono sodo per coprire la ritirata, mentre i chirurghi, con grande coraggio, rimasero indietro rispetto alle linee in ritirata per fornire assistenza immediata agli uomini colpiti dal continuo fuoco di artiglieria. Fu in questa nobile missione – sicuramente la più nobile nell’intera gamma delle attività belliche – che il Capitano Malcolm Leckie e altri coraggiosi ufficiali medici trovarono una morte gloriosa, onorando appieno le tradizioni del loro famoso corpo sanitario.
 I primi reggimenti del Cheshire, nel tentativo di proteggere il fianco occidentale della Seconda Armata britannica dall’inseguimento tedesco, subirono perdite molto gravi. Questo reggimento, insieme ai reggimenti del Norfolk, occupava una cresta bassa sul lato nord-est del villaggio di Elouges, e cercò di difenderla contro l’avanzata delle truppe nemiche. Verso le tre del pomeriggio si vide che c’era il rischio che questa piccola formazione di avanguardia venisse completamente isolata. In realtà era già stata inviata un’ordine di ritirata, ma non era mai arrivato a destinazione. Il colonnello Boger dei reggimenti del Cheshire inviò diversi messaggeri per segnalare l’aumento del pericolo, ma non ricevette alcuna risposta. Alla fine, disperato, il colonnello Boger andò di persona sul campo e scoprì che il nemico aveva preso il controllo della posizione precedentemente occupata dal resto della Brigata Gleichen, che si era ritirata. A quel punto i reggimenti del Cheshire avevano subito perdite terribili ed erano praticamente circondati. Un assalto alla baionetta alleviò temporaneamente la pressione nemica, ma il nemico riprese l’offensiva e la maggior parte dei sopravvissuti, isolati in mezzo a un esercito ostile, fu costretta a arrendersi. Alcuni riuscirono a fuggire in piccoli gruppi e a raggiungere i loro compagni in ritirata. Quando venne effettuato il conteggio dei sopravvissuti, su 27 ufficiali e 1007 soldati che erano partiti all’attacco, rimanevano soltanto 5 ufficiali e 193 uomini. È significativo notare che questo piccolo gruppo, sotto il comando del capitano Shore, continuò comunque a funzionare come unità efficace. Tutti questi eventi, comprese le gravi perdite subite dalla 15ª Brigata di Gleichen, l’attacco della 2ª Brigata di Cavalleria e l’azione d’artiglieria in cui la 119ª Batteria fu duramente colpita, fanno parte di una serie di combattimenti avvenuti il giorno dopo Mons e collegati ai villaggi di Elouges o Dour. La Seconda Armata tedesca continuò ad attaccare il fianco occidentale della Seconda Armata britannica, mentre il resto dell’esercito di von Kluck la seguiva da vicino. Con tre armate alle sue spalle e un’altra che minacciava il suo fianco, il generale Smith-Dorrien si diresse verso sud; i suoi artiglieri e la cavalleria lottarono con tutte le loro forze per alleviare la pressione crescente del nemico, mentre le sue brigate posteriori erano costantemente bersaglio dei proiettili tedeschi. È da notare che Sir John French, nel suo primo rapporto, include il Nono Corpo tedesco nell’esercito di von Kluck, mentre nel secondo rapporto lo colloca nell’armata di von Bülow. Le autorità britanniche ritengono che l’esercito di von Kluck fosse composto dal Secondo, Terzo, Quarto, Settimo e Quarto Corpo di Riserva, oltre a due divisioni di cavalleria. Se questa ipotesi è corretta, allora parte dell’esercito di von Bülow stava inseguendo Haig, mentre l’intero esercito di von Kluck era concentrato contro Smith-Dorrien. Ciò renderebbe le prestazioni britanniche ancora più straordinarie, poiché significherebbe che durante l’inseguimento e nella battaglia successiva dieci divisioni tedesche avrebbero affrontato tre britanniche.
 Mentre l’esercito si ritirava, la fortezza di confine di Maubeuge, con le sue pesanti artiglierie, offriva un rifugio allettante per le truppe stanche e in inferiorità numerica. Ma non a caso la Francia aveva perso il proprio esercito a Metz. Sir John French, tuttavia, non avrebbe avuto tale protezione, per quanto violentemente i tedeschi potessero spingerlo verso di essa. “L’esercito britannico accampato a Maubeuge” non sarebbe mai diventato il titolo di un’edizione speciale di Berlino. La fortezza fu abbandonata, e le truppe stanche riuscirono a riposare per poche ore vicino a Bavai, continuando comunque ad essere inseguite dalle artiglierie e dai riflettori dei loro nemici ostinati. All’alba del 25 agosto, le colonne si rimisero in marcia verso sud, alla ricerca di sicurezza.
@@ -4931,7 +4931,7 @@ The battle must also be regarded as a fixed point in military history, since it 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Posizionarsi a ovest di Mons
+Posizionarsi a ovest di Mons
 
 Coprendo la linea Mons – Condé.  
 23 agosto: Scontri d’artiglieria, ma nessun attacco grave.
@@ -4951,7 +4951,7 @@ Intense azioni di retroguardia a Dour, Wasmes, Frameries.
 Il corpo si scosse per liberarsi di tutto ciò che lo intralciava e tornò a riposare su Bavai.  
 25 agosto – Marcia tutta la giornata.
 
-#Catturato nella sera a Landrecies e Maroilles
+Catturato nella sera a Landrecies e Maroilles
 
 A causa della persecuzione tedesca. Combattimenti intensi. Marciando tutto il giorno.
 
@@ -4977,7 +4977,7 @@ Battaglia di Le Cateau.
 28 agosto
 Azioni della cavalleria per fermare la persecuzione tedesca.
 
-#Marciando verso sud lungo la Fère…  
+Marciando verso sud lungo la Fère…  
 Marciando verso sud, in direzione della linea del fiume Oise…
 
 Noyon. Scontri di retroguardia leggeri.  
@@ -5500,7 +5500,7 @@ VIII. LA PRIMA BATTAGLIA DI YPRES
 
 2° Wilts.
 
-# 2° Reggimento di Fucilieri Scozzesi
+2° Reggimento di Fucilieri Scozzesi
 
 22ª Brigata di Fanteria – Generale Lawford.
 

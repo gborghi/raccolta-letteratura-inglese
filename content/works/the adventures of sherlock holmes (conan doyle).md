@@ -26,7 +26,7 @@ tags:
   - archetype/detective
   - archetype/villain
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Detective Fiction · Ratiocination Detection · Crime and Punishment]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/detective-fiction-·-ratiocination-detection-·-crime-and-punishment|Detective Fiction · Ratiocination Detection · Crime and Punishment]]
 
 > [!abstract] 
 > The first collection of twelve Holmes short stories (1892), including 'A Scandal in Bohemia,' 'The Speckled Band,' and 'The Red-Headed League.' Holmes and Watson solve mysteries of blackmail, theft, and murder through observation and deduction, establishing the classic detective-and-companion formula.
@@ -51,12 +51,12 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Deception]], [[Secrecy and Concealment]]
-**Motifs:** [[Letters and Writing]], [[Concealment Hidden Identity]], [[Disease and Contagion]]
-**Historical References:** [[Victorian England]]
-**Settings:** [[London]]
-**Characters:** [[Sherlock Holmes]], [[Doctor Watson]], [[Irene Adler]]
-**Archetypes:** [[Detective]], [[Villain]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/deception|Deception]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/disease-and-contagion|Disease and Contagion]]
+**Historical References:** [[historical-references/victorian-england|Victorian England]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]], [[characters/irene-adler|Irene Adler]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]
 
-**Also relevant to:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
+**Also relevant to:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]

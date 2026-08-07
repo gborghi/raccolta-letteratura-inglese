@@ -16,17 +16,17 @@ tags:
   - archetype/child
 ---
 
-*by Coleridge*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
+*by Coleridge*  ·  **Cluster:** [[clusters/war-and-its-cost-·-american-civil-war-·-battlefield|War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 
 > Stolberg's 'Song of a German Boy': a youth begs his father for a sword, dreams only of war and danger, and longs to die proudly for the fatherland; martial lyric of youthful heroism and patriotism.
 
 ## Connections
 
-**Topoi:** [[War as Glory]]
-**Archetypes:** [[Child]]
-**Motifs:** [[Swords and Weapons]], [[Blood]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Heroism]], [[War and its Cost]]
+**Topoi:** [[topoi/war-as-glory|War as Glory]]
+**Archetypes:** [[archetypes/child|Child]]
+**Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/blood|Blood]]
+**Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/heroism|Heroism]], [[concepts/war-and-its-cost|War and its Cost]]
 
 ## Testo integrale / Full text
 

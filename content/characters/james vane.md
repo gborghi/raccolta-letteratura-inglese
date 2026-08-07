@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/james-vane"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-picture-of-dorian-gray-(wilde)|The Picture of Dorian Gray (Wilde)]]
+
+</div>
+
 #graph/character

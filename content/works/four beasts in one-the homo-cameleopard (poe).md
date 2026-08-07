@@ -26,7 +26,7 @@ tags:
   - setting/the_court
 ---
 
-*by Poe*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
+*by Poe*  ·  **Cluster:** [[clusters/swords-and-weapons-·-power-and-corruption-·-tyrant|Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 
 > Satirical sketch of the tyrant Antiochus Epiphanes parading as a beast in ancient Antioch, mocking flattery, tyranny, and mob folly.
@@ -36,13 +36,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Archetypes:** [[Tyrant]]
-**Motifs:** [[Animals]], [[Blood]], [[City]], [[Crown]], [[Wine and Drink]]
-**Themes & Concepts:** [[Power and Corruption]], [[Satire of Society]], [[Pride]], [[Grotesque]]
-**Forms & Genres:** [[Satire]], [[Short Story]]
-**Historical References:** [[Classical Antiquity]], [[Bible]]
-**Settings:** [[Orient]], [[Court]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
+**Motifs:** [[motifs/animals|Animals]], [[motifs/blood|Blood]], [[motifs/city|City]], [[motifs/crown|Crown]], [[motifs/wine-and-drink|Wine and Drink]]
+**Themes & Concepts:** [[concepts/power-and-corruption|Power and Corruption]], [[concepts/satire-of-society|Satire of Society]], [[concepts/pride|Pride]], [[concepts/grotesque|Grotesque]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]
+**Historical References:** [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/bible|Bible]]
+**Settings:** [[settings/orient|Orient]], [[settings/court|Court]]
 
 ## Testo integrale / Full text
 

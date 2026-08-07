@@ -17,7 +17,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
+*by Poe*  ·  **Cluster:** [[clusters/mortality-·-grave-·-memento-mori|Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > A short tale set during a cholera epidemic in which the narrator, sick with dread, mistakes a tiny death's-head moth on a windowpane for a monstrous distant apparition; a parable of misjudged proximity and the mind's terror. Themes of terror, omens, appearance vs reality.
@@ -27,10 +27,10 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Memento Mori]]
-**Motifs:** [[Death]], [[Eyes and Sight]]
-**Themes & Concepts:** [[Terror and Horror]], [[Appearance vs Reality]], [[Uncanny]], [[Mortality]]
-**Forms & Genres:** [[Short Story]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/death|Death]], [[motifs/eyes-and-sight|Eyes and Sight]]
+**Themes & Concepts:** [[concepts/terror-and-horror|Terror and Horror]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/uncanny|Uncanny]], [[concepts/mortality|Mortality]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
 
 ## Testo integrale / Full text
 

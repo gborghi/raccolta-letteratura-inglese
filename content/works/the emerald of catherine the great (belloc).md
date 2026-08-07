@@ -26,7 +26,7 @@ tags:
   - setting/rural_england
   - archetype/self_made_man
 ---
-*by Belloc*  ·  **Cluster:** [[Satirical Novel · Politics and Finance · Edwardian England]]
+*by Belloc*  ·  **Cluster:** [[clusters/satirical-novel-·-politics-and-finance-·-edwardian-england|Satirical Novel · Politics and Finance · Edwardian England]]
 
 > [!abstract] 
 > A comic anti-detective novel (dedicated to Maurice Baring) tracing a great emerald, gift of Catherine the Great to an English sea-captain, down through the rising fortunes of the de Bohun family to its loss at a Hertfordshire country house. Belloc promised a detective story 'with nothing to find out', using the mystery frame to satirize social climbing, political careers, and the mania for talismans and pedigrees.
@@ -41,9 +41,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]], [[Detective Fiction]], [[Satire]]
-**Themes & Concepts:** [[Satire of Society]], [[Money and Avarice]], [[Family and Lineage]], [[Class Conflict]], [[Superstition and Omen]], [[Economics]]
-**Motifs:** [[Gems Jewels]], [[Great House]], [[Money and Gold]]
-**Historical References:** [[Victorian England]]
-**Settings:** [[England]], [[Russia]], [[Rural England]], [[Europe]]
-**Archetypes:** [[Self-Made Man]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/detective-fiction|Detective Fiction]], [[forms/satire|Satire]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/family-and-lineage|Family and Lineage]], [[concepts/class-conflict|Class Conflict]], [[concepts/superstition-and-omen|Superstition and Omen]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/gems-jewels|Gems Jewels]], [[motifs/great-house|Great House]], [[motifs/money-and-gold|Money and Gold]]
+**Historical References:** [[historical-references/victorian-england|Victorian England]]
+**Settings:** [[settings/england|England]], [[settings/russia|Russia]], [[settings/rural-england|Rural England]], [[settings/europe|Europe]]
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]

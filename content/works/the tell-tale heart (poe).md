@@ -21,7 +21,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Terror and Horror · Madness]]
+*by Poe*  ·  **Cluster:** [[clusters/terror-and-horror-·-madness|Terror and Horror · Madness]]
 
 > [!abstract] 
 > A first-person tale of a mad narrator who murders an old man over his 'vulture eye', dismembers the body, then is undone by the imagined beating of the dead man's heart. Themes of madness, guilt, conscience and terror.
@@ -31,11 +31,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Memento Mori]]
-**Motifs:** [[Madness (2)]], [[Death]], [[Eyes and Sight]], [[Clock]], [[Night]]
-**Themes & Concepts:** [[Madness]], [[Guilt]], [[Conscience]], [[Terror and Horror]]
-**Forms & Genres:** [[Short Story]]
-**Characters:** [[Death Personified]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/death|Death]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/clock|Clock]], [[motifs/night|Night]]
+**Themes & Concepts:** [[concepts/madness|Madness]], [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]], [[concepts/terror-and-horror|Terror and Horror]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
+**Characters:** [[characters/death-personified|Death Personified]]
 
 ## Testo integrale / Full text
 

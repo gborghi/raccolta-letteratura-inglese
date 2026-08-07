@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/hotspur"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/1-henry-iv-(shakespeare)|1 HENRY IV (Shakespeare)]]
+
+</div>
+
 #graph/character

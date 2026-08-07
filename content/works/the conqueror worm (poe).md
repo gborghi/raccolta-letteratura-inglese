@@ -17,17 +17,17 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Death · Silence · Bells]]
+*by Poe*  ·  **Cluster:** [[clusters/death-·-silence-·-bells|Death · Silence · Bells]]
 
 > [!abstract] 
 > A theatrum-mundi lyric in which human life is staged as a tragedy watched by weeping angels, its hero the devouring Worm; a despairing allegory of mortality, sin, and madness.
 
 ## Connections
 
-**Topoi:** [[Theatrum Mundi]], [[Eternal Return]]
-**Motifs:** [[Death]]
-**Themes & Concepts:** [[Mortality]], [[Madness]], [[Sin and the Fall]], [[Disillusionment]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/theatrum-mundi|Theatrum Mundi]], [[topoi/eternal-return|Eternal Return]]
+**Motifs:** [[motifs/death|Death]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/madness|Madness]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/disillusionment|Disillusionment]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

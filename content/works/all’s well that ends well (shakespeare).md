@@ -32,7 +32,7 @@ tags:
   - character/diana
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Problem Play]]
+*by Shakespeare*  ·  **Cluster:** [[forms/problem-play|Problem Play]]
 
 > [!abstract] 
 > A Jacobean 'problem play' comedy in which Helen, a physician's daughter, wins the reluctant aristocrat Bertram through a cure, an enforced marriage and the bed-trick; central themes are unrequited love, class disparity, virtue versus rank, and an uneasily happy resolution.
@@ -65,13 +65,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Archetypes:** [[Lover]], [[Orphan]]
-**Motifs:** [[Marriage]], [[Concealment Hidden Identity]]
-**Themes & Concepts:** [[Romantic Love]], [[Unrequited Frustrated Love]], [[Marriage and Fidelity]], [[Deception]], [[Class Conflict]], [[Appearance vs Reality]], [[Economics]]
-**Forms & Genres:** [[Comedy]], [[Problem Play]], [[Blank Verse]]
-**Settings:** [[Court]]
-**Characters:** [[Helen]], [[Bertram]], [[Countess of Rossillion]], [[Parolles]], [[King of France]], [[Lafew]], [[Diana]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/orphan|Orphan]]
+**Motifs:** [[motifs/marriage|Marriage]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/deception|Deception]], [[concepts/class-conflict|Class Conflict]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/comedy|Comedy]], [[forms/problem-play|Problem Play]], [[forms/blank-verse|Blank Verse]]
+**Settings:** [[settings/court|Court]]
+**Characters:** [[characters/helen|Helen]], [[characters/bertram|Bertram]], [[characters/countess-of-rossillion|Countess of Rossillion]], [[characters/parolles|Parolles]], [[characters/king-of-france|King of France]], [[characters/lafew|Lafew]], [[characters/diana|Diana]]
 
 ## Testo integrale / Full text
 

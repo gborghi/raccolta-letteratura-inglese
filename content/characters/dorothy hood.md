@@ -14,4 +14,10 @@ The parson's pale, sensitive daughter who warns Tryon of the swordsman's danger 
 
 <div class="concept-works" data-slug="characters/dorothy-hood"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/sword-(chesterton)|Sword (Chesterton)]]
+
+</div>
+
 #graph/character

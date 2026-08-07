@@ -60,7 +60,7 @@ tags:
 
 # Well And Shallows
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > A late collection of controversial Catholic essays (1935) defending the Church against modern materialism, sex reform, and the Reformation legacy; argues conversion is a return to the deep well of tradition rather than the modern shallows.
@@ -97,15 +97,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Martyr Saint]], [[Tyrant]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/tyrant|Tyrant]]
 
-**Settings:** [[London]], [[Russia]], [[Germany]], [[Italy]], [[Spain]], [[Austria]], [[Ireland]], [[Europe]]
+**Settings:** [[settings/london|London]], [[settings/russia|Russia]], [[settings/germany|Germany]], [[settings/italy|Italy]], [[settings/spain|Spain]], [[settings/austria|Austria]], [[settings/ireland|Ireland]], [[settings/europe|Europe]]
 
-**Motifs:** [[Well]], [[Fog and Smoke]]
-**Themes & Concepts:** [[Faith]], [[Conversion]], [[Critique of Progress]], [[Faith and Doubt]], [[Paradox]], [[Marriage and Fidelity]], [[Distributism]], [[Solitude]], [[Conformity vs Individualism]], [[Eastern Religion and Asceticism]], [[Democracy]], [[Power and Corruption]], [[Nationalism and Patriotism]], [[Grace and Redemption]], [[Materialism]], [[Fascism]], [[Communism]], [[Economics]], [[History]]
-**Forms & Genres:** [[Apologetics]], [[Essay]], [[Nonfiction]]
-**Historical References:** [[Catholic Church]], [[Reformation]], [[Christianity]], [[Puritanism]], [[First World War]], [[Irish Question]], [[Russian Revolution]]
-**Characters:** [[Virgin Mary]], [[Sir Thomas More]], [[Henry VIII]], [[Martin Luther]], [[Karl Marx]], [[Paul Claudel]], [[Charles Darwin]], [[Engelbert Dollfuss]]
+**Motifs:** [[motifs/well|Well]], [[motifs/fog-and-smoke|Fog and Smoke]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/conversion|Conversion]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/paradox|Paradox]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/distributism|Distributism]], [[concepts/solitude|Solitude]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/eastern-religion-and-asceticism|Eastern Religion and Asceticism]], [[concepts/democracy|Democracy]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/materialism|Materialism]], [[concepts/fascism|Fascism]], [[concepts/communism|Communism]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/apologetics|Apologetics]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/reformation|Reformation]], [[historical-references/christianity|Christianity]], [[historical-references/puritanism|Puritanism]], [[historical-references/first-world-war|First World War]], [[historical-references/irish-question|Irish Question]], [[historical-references/russian-revolution|Russian Revolution]]
+**Characters:** [[characters/virgin-mary|Virgin Mary]], [[characters/sir-thomas-more|Sir Thomas More]], [[characters/henry-viii|Henry VIII]], [[characters/martin-luther|Martin Luther]], [[characters/karl-marx|Karl Marx]], [[characters/paul-claudel|Paul Claudel]], [[characters/charles-darwin|Charles Darwin]], [[characters/engelbert-dollfuss|Engelbert Dollfuss]]
 
 ## Testo integrale / Full text
 

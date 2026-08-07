@@ -14,4 +14,10 @@ The novelist whose youthful, exuberant burlesques Chesterton examines in 'Jane A
 
 <div class="concept-works" data-slug="historical-references/jane-austen"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/wild-ducks-(chesterton)|Wild Ducks (Chesterton)]]
+
+</div>
+
 #graph/histref

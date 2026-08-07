@@ -37,7 +37,7 @@ tags:
   - topos/carpe_diem
   - topos/memento_mori
 ---
-*by Belloc*  ·  **Cluster:** [[Verse · Faith · Nature]]
+*by Belloc*  ·  **Cluster:** [[clusters/verse-·-faith-·-nature|Verse · Faith · Nature]]
 
 > [!abstract] 
 > Belloc's collected poetry, gathering his sonnets alongside lyrical, didactic and grotesque pieces, drinking songs, ballades and religious verse. Recurrent notes are the Catholic faith, the South Country and Sussex, comradeship over wine, mortality and the open road.
@@ -117,13 +117,13 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Sonnet]], [[Poem Sequence]], [[Ballad Ballade]], [[Comic Verse Song]], [[Lyric]]
-**Themes & Concepts:** [[Faith]], [[Nostalgia]], [[Mortality]], [[Comradeship]], [[Nature]], [[Transience]]
-**Motifs:** [[Wine and Drink]], [[Road]], [[Hill]], [[Bells]], [[Sea]], [[Prayer]], [[Sea and Voyage]]
-**Historical References:** [[Catholic Church]], [[Boer War]]
-**Settings:** [[Rural England]], [[France]], [[Europe]]
-**Characters:** [[Virgin Mary]]
-**Archetypes:** [[Pilgrim]], [[Poet as Prophet (2)]]
-**Topoi:** [[Open Road Homecoming]], [[Carpe Diem]], [[Memento Mori]]
+**Forms & Genres:** [[forms/sonnet|Sonnet]], [[forms/poem-sequence|Poem Sequence]], [[forms/ballad-ballade|Ballad Ballade]], [[forms/comic-verse-song|Comic Verse Song]], [[forms/lyric|Lyric]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/nostalgia|Nostalgia]], [[concepts/mortality|Mortality]], [[concepts/comradeship|Comradeship]], [[concepts/nature|Nature]], [[concepts/transience|Transience]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/road|Road]], [[motifs/hill|Hill]], [[motifs/bells|Bells]], [[motifs/sea|Sea]], [[motifs/prayer|Prayer]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/boer-war|Boer War]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/france|France]], [[settings/europe|Europe]]
+**Characters:** [[characters/virgin-mary|Virgin Mary]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]], [[archetypes/poet-as-prophet-(2)|Poet as Prophet (2)]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/carpe-diem|Carpe Diem]], [[topoi/memento-mori|Memento Mori]]
 
-**Also relevant to:** [[Faith · Providence · Divine Love]]
+**Also relevant to:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

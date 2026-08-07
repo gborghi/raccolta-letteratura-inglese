@@ -20,7 +20,7 @@ tags:
   - concept/the_sublime
 ---
 
-*by Keats*  ·  **Cluster:** [[Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
+*by Keats*  ·  **Cluster:** [[clusters/poet-as-prophet-·-prophet-·-romantic-movement-(sensibility)|Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
 
 > [!abstract] 
 > An unfinished blank-verse dream-vision in which the poet, guided by the priestess Moneta, beholds fallen Saturn's titanic ruin and is interrogated on the difference between poet and dreamer; meditation on poetry, suffering and the fall of the gods.
@@ -32,11 +32,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Poet as Prophet]], [[Ages of the World]], [[Paradise Lost]]
-**Motifs:** [[Dreams]]
-**Themes & Concepts:** [[Imagination]], [[Artist and Society]], [[Grief and Loss]], [[Sublime]]
-**Forms & Genres:** [[Blank Verse]], [[Fragment]]
-**Historical References:** [[Greek Mythology]]
+**Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]], [[topoi/ages-of-the-world|Ages of the World]], [[topoi/paradise-lost|Paradise Lost]]
+**Motifs:** [[motifs/dreams|Dreams]]
+**Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/artist-and-society|Artist and Society]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/sublime|Sublime]]
+**Forms & Genres:** [[forms/blank-verse|Blank Verse]], [[forms/fragment|Fragment]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
 
 ## Testo integrale / Full text
 

@@ -20,17 +20,17 @@ tags:
   - form/sonnet
 ---
 
-*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Poe*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A sonnet attacking science as a vulture that preys on the poet's heart, banishing the mythological imagination (Diana, the Naiad, the Hamadryad) and dull realities against poetic vision.
 
 ## Connections
 
-**Motifs:** [[Time]], [[Nature]], [[Stars]], [[Dreams]]
-**Themes & Concepts:** [[Imagination]], [[Critique of Progress]], [[Artist and Society]], [[Nature vs Civilization]], [[Beauty]]
-**Forms & Genres:** [[Sonnet]]
-**Historical References:** [[Greek Mythology]]
+**Motifs:** [[motifs/time|Time]], [[concepts/nature|Nature]], [[motifs/stars|Stars]], [[motifs/dreams|Dreams]]
+**Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/artist-and-society|Artist and Society]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/beauty|Beauty]]
+**Forms & Genres:** [[forms/sonnet|Sonnet]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
 
 ## Testo integrale / Full text
 

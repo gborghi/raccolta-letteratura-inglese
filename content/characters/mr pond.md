@@ -14,4 +14,10 @@ The mild, bearded Government official protagonist whose seemingly self-contradic
 
 <div class="concept-works" data-slug="characters/mr-pond"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/mrpond-(chesterton)|MrPond (Chesterton)]]
+
+</div>
+
 #graph/character

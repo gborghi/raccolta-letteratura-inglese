@@ -14,4 +14,10 @@ Inanimate dust is given voice and moral authority, rising up to rebuke and instr
 
 <div class="concept-works" data-slug="archetypes/dust-personified"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/praise-of-dust-(chesterton)|praise of dust (Chesterton)]]
+
+</div>
+
 #graph/archetype

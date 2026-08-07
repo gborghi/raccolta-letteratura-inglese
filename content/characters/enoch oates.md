@@ -14,4 +14,10 @@ Blunt American pork-and-cosmetics millionaire who is adopted by the League as a 
 
 <div class="concept-works" data-slug="characters/enoch-oates"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/longbow2-(chesterton)|longbow2 (Chesterton)]]
+
+</div>
+
 #graph/character

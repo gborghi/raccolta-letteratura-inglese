@@ -16,17 +16,17 @@ tags:
   - concept/melancholy
 ---
 
-*by Poe*  ·  **Cluster:** [[Nature · Book of Nature · Natural Order]]
+*by Poe*  ·  **Cluster:** [[clusters/nature-·-book-of-nature-·-natural-order|Nature · Book of Nature · Natural Order]]
 
 > [!abstract] 
 > A lyric likening the felling of a primeval wood to the wasting of love, from whose grief spring 'the rare and radiant flowers of song'; nature imagery turned to loss redeemed by poetry.
 
 ## Connections
 
-**Topoi:** [[Immortality Through Verse]]
-**Motifs:** [[Nature]], [[Flowers]], [[River]]
-**Themes & Concepts:** [[Grief and Loss]], [[Melancholy]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]]
+**Motifs:** [[concepts/nature|Nature]], [[motifs/flowers|Flowers]], [[motifs/river|River]]
+**Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/melancholy|Melancholy]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

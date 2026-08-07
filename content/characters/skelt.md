@@ -14,4 +14,10 @@ The maker of the Juvenile Drama toy theatre whose stiff, brightly coloured cardb
 
 <div class="concept-works" data-slug="characters/skelt"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/robert-louis-stevenson-(chesterton)|Robert Louis Stevenson (Chesterton)]]
+
+</div>
+
 #graph/character

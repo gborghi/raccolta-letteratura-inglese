@@ -14,4 +14,11 @@ GKC's younger brother and lifelong debating partner, whose journalism triggered 
 
 <div class="concept-works" data-slug="characters/cecil-chesterton"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/gkc-autobiography-(chesterton)|GKC-Autobiography (Chesterton)]]
+- [[works/united-states-(chesterton)|United States (Chesterton)]]
+
+</div>
+
 #graph/character

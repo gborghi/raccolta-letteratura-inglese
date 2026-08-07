@@ -29,7 +29,7 @@ tags:
 
 # femina
 
-*by Chesterton*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
+*by Chesterton*  ·  **Cluster:** [[clusters/wonder-and-gratitude-·-sublime-·-storm|Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
 > A short lyric of apocalyptic imagery (black sun, blood moon, thunder) in which a man's stubborn gratitude for the green grass and the love of birds wins a divine commendation; a poem of wonder, faith and gratitude for creation.
@@ -40,17 +40,17 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]]
+**Historical References:** [[historical-references/bible|Bible]]
 
-**Archetypes:** [[Common Man (2)]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Topoi:** [[Sublime in Nature]]
+**Topoi:** [[topoi/sublime-in-nature|Sublime in Nature]]
 
-**Characters:** [[God]]
+**Characters:** [[characters/god|God]]
 
-**Motifs:** [[Light and Dark]], [[Sun]], [[Moon]], [[Birds]], [[Storm]], [[Grass Leaves of Grass]], [[Blood]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Faith]], [[Humility]], [[Apocalypse]], [[Self and Cosmos]], [[Sublime]]
-**Forms & Genres:** [[Lyric]]
+**Motifs:** [[motifs/light-and-dark|Light and Dark]], [[motifs/sun|Sun]], [[motifs/moon|Moon]], [[motifs/birds|Birds]], [[motifs/storm|Storm]], [[motifs/grass-leaves-of-grass|Grass Leaves of Grass]], [[motifs/blood|Blood]]
+**Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/faith|Faith]], [[concepts/humility|Humility]], [[concepts/apocalypse|Apocalypse]], [[concepts/self-and-cosmos|Self and Cosmos]], [[concepts/sublime|Sublime]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

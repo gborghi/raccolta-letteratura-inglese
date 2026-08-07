@@ -14,4 +14,10 @@ The overwrought epistolary heroine of Austen's juvenile burlesque, quoted confes
 
 <div class="concept-works" data-slug="characters/laura"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/intro-love-and-freindship-(chesterton)|intro-love-and-freindship (Chesterton)]]
+
+</div>
+
 #graph/character

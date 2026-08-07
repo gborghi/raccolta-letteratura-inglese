@@ -14,4 +14,10 @@ The impoverished squire's sister who falls for Gale during the flood at the Risi
 
 <div class="concept-works" data-slug="characters/lady-diana-westermaine"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/poet-and-lunatics-(chesterton)|Poet and Lunatics (Chesterton)]]
+
+</div>
+
 #graph/character

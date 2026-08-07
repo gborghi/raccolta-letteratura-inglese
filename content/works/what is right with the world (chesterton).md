@@ -41,7 +41,7 @@ tags:
   - histref/thomas_aquinas
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A philosophical essay arguing that existence is fundamentally good at its origin (not merely at some progressive end), attacking facile optimism, Meliorism, and the modern cult of unity; celebrates wonder, variety and the dignity of the common life.
@@ -62,16 +62,16 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Dante]], [[Bible]], [[Christianity]], [[Eastern Religion Comparative Religion]], [[Thomas Aquinas]]
+**Historical References:** [[historical-references/dante|Dante]], [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]], [[historical-references/thomas-aquinas|Thomas Aquinas]]
 
-**Archetypes:** [[Common Man (2)]], [[Prophet]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/prophet|Prophet]]
 
-**Motifs:** [[Nature]], [[Prayer]]
+**Motifs:** [[concepts/nature|Nature]], [[motifs/prayer|Prayer]]
 
-**Characters:** [[Beatrice]]
+**Characters:** [[characters/beatrice|Beatrice]]
 
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Critique of Progress]], [[Paradox]], [[Joy]], [[Common Man]], [[Sin and the Fall]], [[Faith]], [[Natural Order]], [[Union]], [[Democracy]], [[Eastern Religion and Asceticism]], [[Paganism and Classical Revival]], [[Justice Right and Wrong]], [[Reform]], [[Order vs Chaos]], [[Labor and Work]], [[Distributism]], [[Conformity vs Individualism]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/paradox|Paradox]], [[concepts/joy|Joy]], [[concepts/common-man|Common Man]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/faith|Faith]], [[concepts/natural-order|Natural Order]], [[concepts/union|Union]], [[concepts/democracy|Democracy]], [[concepts/eastern-religion-and-asceticism|Eastern Religion and Asceticism]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/reform|Reform]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/labor-and-work|Labor and Work]], [[concepts/distributism|Distributism]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -26,7 +26,7 @@ tags:
   - topos/war_as_glory
   - topos/last_stand
 ---
-*by Conan Doyle*  ·  **Cluster:** [[War and Empire · History · Nationalism and Patriotism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/war-and-empire-·-history-·-nationalism-and-patriotism|War and Empire · History · Nationalism and Patriotism]]
 
 > [!abstract] 
 > A war-correspondent sketch of Conan Doyle's week with the British army during the Boer War, following the advance on Brandfort and the Vet River. It juxtaposes the exhilaration of campaign life with unflinching glimpses of looting, civilian suffering, and battlefield death.
@@ -37,10 +37,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Travel Writing]], [[Sketch]], [[Nonfiction]]
-**Themes & Concepts:** [[War and its Cost]], [[Empire and Imperialism]], [[Suffering and Pain]], [[Mortality]], [[History]]
-**Motifs:** [[Fire]], [[Blood]]
-**Historical References:** [[Boer War (Second South African War)]], [[British Empire]]
-**Settings:** [[South Africa]], [[Battlefield]], [[Military Camp]]
-**Archetypes:** [[Hero]]
-**Topoi:** [[War as Glory]], [[Last Stand]]
+**Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[forms/sketch|Sketch]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/suffering-and-pain|Suffering and Pain]], [[concepts/mortality|Mortality]], [[concepts/history|History]]
+**Motifs:** [[motifs/fire|Fire]], [[motifs/blood|Blood]]
+**Historical References:** [[historical-references/boer-war-(second-south-african-war)|Boer War (Second South African War)]], [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/south-africa|South Africa]], [[settings/battlefield|Battlefield]], [[settings/military-camp|Military Camp]]
+**Archetypes:** [[archetypes/hero|Hero]]
+**Topoi:** [[topoi/war-as-glory|War as Glory]], [[topoi/last-stand|Last Stand]]

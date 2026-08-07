@@ -16,16 +16,16 @@ tags:
   - form/fragment
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Supernatural · Uncanny · Double]]
+*by Coleridge*  ·  **Cluster:** [[clusters/supernatural-·-uncanny-·-double|Supernatural · Uncanny · Double]]
 
 > [!abstract] 
 > A ballad-tale of a mother who, enamoured of her daughter's suitor, lays a curse that blights the marriage; a psychological study of jealousy, guilt and a mother's malediction; themes of jealousy, guilt and the supernatural.
 
 ## Connections
 
-**Motifs:** [[Supernatural]], [[Grave]]
-**Themes & Concepts:** [[Jealousy]], [[Guilt]], [[Marriage and Fidelity]]
-**Forms & Genres:** [[Ballad Ballade]], [[Fragment]]
+**Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/grave|Grave]]
+**Themes & Concepts:** [[concepts/jealousy|Jealousy]], [[concepts/guilt|Guilt]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/fragment|Fragment]]
 
 ## Testo integrale / Full text
 

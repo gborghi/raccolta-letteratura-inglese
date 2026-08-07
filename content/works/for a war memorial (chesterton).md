@@ -31,7 +31,7 @@ tags:
   - histref/carthage
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/ruins-the-abbey-·-sic-transit-gloria-mundi-·-ubi-sunt|Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt]]
 
 > [!abstract] 
 > A short epigrammatic war-memorial inscription; the English dead 'died to prove they were not dead', set against the decay of usury and the fall of empires like Carthage. A meditation on heroism, sacrifice and immortality through memory.
@@ -42,13 +42,13 @@ tags:
 
 ## Connections
 
-**Settings:** [[Grave (2)]]
+**Settings:** [[settings/grave-(2)|Grave (2)]]
 
-**Topoi:** [[Sic Transit Gloria Mundi]], [[Ubi Sunt]], [[Memento Mori]]
-**Motifs:** [[Ruins the Abbey]], [[Storm]], [[Grave]], [[Stone and Marble]], [[Lightning]]
-**Themes & Concepts:** [[Heroism]], [[War and its Cost]], [[Immortality]], [[Nationalism and Patriotism]], [[Money and Avarice]], [[Vanity of Worldly Things]], [[Transience]], [[Memory and Time]], [[Economics]]
-**Forms & Genres:** [[Epigram]], [[Inscription]]
-**Historical References:** [[Ancient Rome]], [[Carthage]]
+**Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/ubi-sunt|Ubi Sunt]], [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/storm|Storm]], [[motifs/grave|Grave]], [[motifs/stone-and-marble|Stone and Marble]], [[motifs/lightning|Lightning]]
+**Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/immortality|Immortality]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/vanity-of-worldly-things|Vanity of Worldly Things]], [[concepts/transience|Transience]], [[concepts/memory-and-time|Memory and Time]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/epigram|Epigram]], [[forms/inscription|Inscription]]
+**Historical References:** [[settings/ancient-rome|Ancient Rome]], [[historical-references/carthage|Carthage]]
 
 ## Testo integrale / Full text
 

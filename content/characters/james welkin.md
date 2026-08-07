@@ -14,4 +14,10 @@ The disfigured 'invisible' postman-lover who commits the murder in 'The Invisibl
 
 <div class="concept-works" data-slug="characters/james-welkin"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/innocence-(chesterton)|innocence (Chesterton)]]
+
+</div>
+
 #graph/character

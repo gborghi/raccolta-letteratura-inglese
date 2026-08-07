@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/edward-murdstone"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/charlesdickens-(chesterton)|CharlesDickens (Chesterton)]]
+- [[works/david-copperfield-(dickens)|David Copperfield (Dickens)]]
+
+</div>
+
 #graph/character

@@ -21,18 +21,18 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
+*by Poe*  ·  **Cluster:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > A longer blank-verse love lyric recalling a single moonlit vision of Helen in an enchanted rose-garden, whose haunting eyes guide and enslave the speaker ever after. Themes of idealized love, beauty, eyes and memory.
 
 ## Connections
 
-**Topoi:** [[Love as Religion]], [[Unattainable Beloved]]
-**Motifs:** [[Moon]], [[Eyes and Sight]], [[Rose]], [[Stars]], [[Memory]]
-**Themes & Concepts:** [[Romantic Love]], [[Beauty]]
-**Forms & Genres:** [[Blank Verse]], [[Lyric]]
-**Settings:** [[Garden (2)]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/unattainable-beloved|Unattainable Beloved]]
+**Motifs:** [[motifs/moon|Moon]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/rose|Rose]], [[motifs/stars|Stars]], [[motifs/memory|Memory]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/beauty|Beauty]]
+**Forms & Genres:** [[forms/blank-verse|Blank Verse]], [[forms/lyric|Lyric]]
+**Settings:** [[settings/garden-(2)|Garden (2)]]
 
 ## Testo integrale / Full text
 

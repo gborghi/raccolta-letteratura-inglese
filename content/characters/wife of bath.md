@@ -14,4 +14,10 @@ Chaucer's boisterous, appetitive pilgrim, cited by Chesterton as an early instan
 
 <div class="concept-works" data-slug="characters/wife-of-bath"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/pickwick-(chesterton)|Pickwick (Chesterton)]]
+
+</div>
+
 #graph/character

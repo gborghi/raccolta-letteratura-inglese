@@ -14,10 +14,10 @@ tags:
 <span class="atom-split" data-atom="005_julia" data-title="JULIA" data-chapter="" data-kind="intro" data-tags="motif/animals,concept/love_romantic,concept/marriage_and_fidelity,concept/grief_and_loss,form/mock_epic,form/heroic_couplet,form/satire,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
 
 
-IN [[Christ|CHRIST]]’S HOSPITAL BOOK  
+IN [[characters/christ|CHRIST]]’S HOSPITAL BOOK  
 Medio de fonte leporum  
 Surgit amari aliquid.  
-[[Julia]] was blest with [[Beauty|beauty]], wit, and grace:  
+[[characters/julia|Julia]] was blest with [[concepts/beauty|beauty]], wit, and grace:  
 Small poets lov’d to sing her blooming face.  
 Before her altars, lo! a numerous train  
 Preferr’d their vows; yet all preferr’d in vain,  
@@ -26,38 +26,38 @@ And touch’d the fair one with an equal flame.
 The flame she felt, and ill could she conceal  
 What every look and action would reveal.  
 With boldness then, which seldom fails to move,  
-He pleads the cause of [[Marriage]] and of [[Love]]:   10  
+He pleads the cause of [[motifs/marriage|Marriage]] and of [[motifs/love|Love]]:   10  
 The course of Hymeneal joys he rounds,  
 The fair one’s eyes danc’d pleasure at the sounds.  
 Nought now remain’d but ‘Noes’ — how little meant!  
 And the sweet coyness that endears consent.  
 The youth upon his knees enraptur’d fell:   15  
 The strange misfortune, oh! what words can tell?  
-Tell! ye neglected sylphs! who lap-[[dogs]] guard,  
+Tell! ye neglected sylphs! who lap-dogs guard,  
 Why snatch’d ye not away your precious ward?  
-Why suffer’d ye the [[Lover|lover]]’s weight to fall  
+Why suffer’d ye the [[archetypes/lover|lover]]’s weight to fall  
 On the ill-fated neck of much-lov’d Ball?   20  
 The favourite on his mistress casts his eyes,  
-Gives a short [[Melancholy|melancholy]] howl, and — dies.  
+Gives a short [[concepts/melancholy|melancholy]] howl, and — dies.  
 Sacred his ashes lie, and long his rest!  
-Anger and grief divide poor [[Julia]]’s breast.  
+Anger and grief divide poor [[characters/julia|Julia]]’s breast.  
 Her eyes she fixt on guilty Florio first:   25  
-On him the [[Storm|storm]] of angry grief must burst.  
-That [[Storm|storm]] he fled: he wooes a kinder fair,  
+On him the [[motifs/storm|storm]] of angry grief must burst.  
+That [[motifs/storm|storm]] he fled: he wooes a kinder fair,  
 Whose fond affections no dear puppies share.  
-‘Twere vain to tell, how [[Julia]] pin’d away:  
+‘Twere vain to tell, how [[characters/julia|Julia]] pin’d away:  
 Unhappy Fair! that in one luckless day — 30  
 From future Almanacks the day be crost! —  
-At once her [[Lover]] and her Lap-dog lost.  
+At once her [[archetypes/lover|Lover]] and her Lap-dog lost.  
 1789.  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-NEL LIBRO DEL [[Christ|CHRIST]]’S HOSPITAL  
+NEL LIBRO DEL [[characters/christ|CHRIST]]’S HOSPITAL  
 Medio de fonte leporum  
 Surgit amari aliquid.  
-[[Julia]] fu benedetta di [[Beauty|bellezza]], spirito e grazia:  
+[[characters/julia|Julia]] fu benedetta di [[concepts/beauty|bellezza]], spirito e grazia:  
 i poeti minori amavano cantare il suo volto in fiore.  
 Ai suoi altari, ecco!, una folta schiera  
 porse i suoi voti; ma tutti li porsero invano,  
@@ -66,29 +66,29 @@ e toccò la bella d’una fiamma uguale.
 La fiamma ella sentì, e male poteva celare  
 ciò che ogni sguardo e ogni atto rivelava.  
 Con audacia allora, che di rado manca di commuovere,  
-egli perora la causa del [[Marriage|Matrimonio]] e dell’[[Love|Amore]]:   10  
+egli perora la causa del [[motifs/marriage|Matrimonio]] e dell’[[motifs/love|Amore]]:   10  
 percorre il giro delle gioie imenee,  
 gli occhi della bella danzarono di piacere a quei suoni.  
 Nulla restava ormai che dei ‘No’ — quanto poco sentiti!  
 e la dolce ritrosia che rende caro il consenso.  
 Il giovane cadde in ginocchio, rapito:   15  
 la strana sventura, oh!, quali parole possono dirla?  
-Ditelo, o silfidi trascurate!, che i [[dogs|cagnolini]] da grembo custodite,  
+Ditelo, o silfidi trascurate!, che i cagnolini da grembo custodite,  
 perché non rapiste via il vostro prezioso protetto?  
-Perché lasciaste che il peso dell’[[Lover|amante]] cadesse  
+Perché lasciaste che il peso dell’[[archetypes/lover|amante]] cadesse  
 sul collo sventurato dell’amatissimo Ball?   20  
 Il favorito volge gli occhi alla sua padrona,  
-dà un breve [[Melancholy|malinconico]] ululato, e — muore.  
+dà un breve [[concepts/melancholy|malinconico]] ululato, e — muore.  
 Sacre giacciano le sue ceneri, e lungo il suo riposo!  
-Ira e dolore si dividono il petto della povera [[Julia]].  
+Ira e dolore si dividono il petto della povera [[characters/julia|Julia]].  
 Gli occhi fissò dapprima sul colpevole Florio:   25  
-su di lui deve scoppiare la [[Storm|tempesta]] dell’irato dolore.  
-Quella [[Storm|tempesta]] egli fuggì: corteggia una bella più mite,  
+su di lui deve scoppiare la [[motifs/storm|tempesta]] dell’irato dolore.  
+Quella [[motifs/storm|tempesta]] egli fuggì: corteggia una bella più mite,  
 i cui teneri affetti nessun caro cucciolo divide.  
-Vano sarebbe dire come [[Julia]] si consumasse:  
+Vano sarebbe dire come [[characters/julia|Julia]] si consumasse:  
 Infelice Bella! che in un solo giorno sciagurato — 30  
 — sia cancellato dagli Almanacchi futuri! —  
-perse a un tempo l’[[Lover|Amante]] e il Cagnolino.  
+perse a un tempo l’[[archetypes/lover|Amante]] e il Cagnolino.  
 1789.
 
 
@@ -97,22 +97,22 @@ perse a un tempo l’[[Lover|Amante]] e il Cagnolino.
 
 
 The indignant Bard composed this furious ode,  
-As tired he dragg’d his way thro’ Plimtree [[Road|road]]!  
+As tired he dragg’d his way thro’ Plimtree [[motifs/road|road]]!  
 Crusted with filth and stuck in mire  
 Dull sounds the Bard’s bemudded lyre;  
-Nathless [[Revenge]] and Ire the Poet goad   5  
-To pour his imprecations on the [[Road|road]].  
-Curst [[Road|road]]! whose execrable way  
-Was darkly [[Shadow|shadow]]’d out in [[Milton]]’s lay,  
+Nathless [[concepts/revenge|Revenge]] and Ire the Poet goad   5  
+To pour his imprecations on the [[motifs/road|road]].  
+Curst [[motifs/road|road]]! whose execrable way  
+Was darkly [[archetypes/shadow|shadow]]’d out in [[historical-references/milton|Milton]]’s lay,  
 When the sad fiends thro’ Hell’s sulphureous roads  
 Took the first survey of their new abodes;   10  
 Or when the fall’n Archangel fierce  
-Dar’d through the realms of [[Night]] to pierce,  
-What [[Time|time]] the Bloodhound lur’d by Human scent  
+Dar’d through the realms of [[motifs/night|Night]] to pierce,  
+What [[motifs/time|time]] the Bloodhound lur’d by Human scent  
 Thro’ all Confusion’s quagmires floundering went.  
 Nor cheering pipe, nor Bird’s shrill note   15  
 Around thy dreary paths shall float;  
-Their boding [[songs]] shall scritch-owls pour  
+Their boding songs shall scritch-owls pour  
 To fright the guilty shepherds sore,  
 Led by the wandering fires astray  
 Thro’ the dank horrors of thy way!   20  
@@ -126,22 +126,22 @@ Alight upon thee, damnéd Bog!
 <span class="qlang-split" data-lang="it"></span>
 
 L’indignato Vate compose quest’ode furiosa,  
-mentre stanco si trascinava per la [[Road|strada]] di Plimtree!  
+mentre stanco si trascinava per la [[motifs/road|strada]] di Plimtree!  
 Incrostata di lordura e impantanata nel fango  
 sorda suona la lira infangata del Vate;  
-nondimeno [[Revenge|Vendetta]] e Ira pungolano il Poeta   5  
-a versare le sue imprecazioni sulla [[Road|strada]].  
-Maledetta [[Road|strada]]! il cui esecrabile tracciato  
-fu oscuramente [[Shadow|adombrato]] nel canto di [[Milton]],  
+nondimeno [[concepts/revenge|Vendetta]] e Ira pungolano il Poeta   5  
+a versare le sue imprecazioni sulla [[motifs/road|strada]].  
+Maledetta [[motifs/road|strada]]! il cui esecrabile tracciato  
+fu oscuramente [[archetypes/shadow|adombrato]] nel canto di [[historical-references/milton|Milton]],  
 quando i tristi demoni per le vie sulfuree dell’Inferno  
 presero la prima rassegna delle loro nuove dimore;   10  
 o quando il caduto Arcangelo, fiero,  
-osò trafiggere i regni della [[Night|Notte]],  
-nel [[Time|tempo]] in cui il Segugio, attratto da odore Umano,  
+osò trafiggere i regni della [[motifs/night|Notte]],  
+nel [[motifs/time|tempo]] in cui il Segugio, attratto da odore Umano,  
 andava arrancando per tutti i pantani della Confusione.  
 Né zufolo festoso, né acuta nota d’Uccello   15  
 aleggerà intorno ai tuoi tetri sentieri;  
-i loro [[songs|canti]] funesti verseranno le civette  
+i loro canti funesti verseranno le civette  
 a spaventare aspramente i pastori colpevoli,  
 sviati dai fuochi erranti  
 per gli umidi orrori del tuo cammino!   20  
@@ -162,15 +162,15 @@ May Domestic Peace be found?
 Halcyon daughter of the skies,  
 Far on fearful wings she flies,  
 From the pomp of Sceptered State,   5  
-From the [[Rebel]]’s noisy hate.  
+From the [[archetypes/rebel|Rebel]]’s noisy hate.  
 In a cottag’d vale She dwells,  
-Listening to the Sabbath [[Bells|bells]]!  
+Listening to the Sabbath [[motifs/bells|bells]]!  
 Still around her steps are seen  
-Spotless [[Honour]]’s meeker mien,   10  
-[[Love]], the sire of pleasing fears,  
-Sorrow smiling through her [[Tears|tears]],  
+Spotless [[concepts/honour|Honour]]’s meeker mien,   10  
+[[motifs/love|Love]], the sire of pleasing fears,  
+Sorrow smiling through her [[motifs/tears|tears]],  
 And conscious of the past employ  
-[[Memory]], bosom-[[Spring|spring]] of joy.  
+[[motifs/memory|Memory]], bosom-[[motifs/spring|spring]] of joy.  
 1794.  
 
 
@@ -182,15 +182,15 @@ si può trovare la Pace Domestica?
 Alcione figlia dei cieli,  
 lontano su ali timorose ella vola,  
 dalla pompa dello Stato scettrato,   5  
-dal chiassoso odio del [[Rebel|Ribelle]].  
+dal chiassoso odio del [[archetypes/rebel|Ribelle]].  
 In una valle di capanne Ella dimora,  
-ascoltando le [[Bells|campane]] del giorno festivo!  
+ascoltando le [[motifs/bells|campane]] del giorno festivo!  
 Sempre intorno ai suoi passi si vedono  
-il più mite aspetto dell’[[Honour|Onore]] immacolato,   10  
-l’[[Love|Amore]], padre di gradevoli paure,  
-il Dolore che sorride tra le sue [[Tears|lacrime]],  
+il più mite aspetto dell’[[concepts/honour|Onore]] immacolato,   10  
+l’[[motifs/love|Amore]], padre di gradevoli paure,  
+il Dolore che sorride tra le sue [[motifs/tears|lacrime]],  
 e, consapevole della passata opera,  
-la [[Memory|Memoria]], [[Spring|fonte]] intima di gioia.  
+la [[motifs/memory|Memoria]], [[motifs/spring|fonte]] intima di gioia.  
 1794.
 
 
@@ -205,23 +205,23 @@ But sweet is pity to an agéd breast.
 This voice did falter with old age before;   5  
 Sad recollections make it falter more.  
 Beside the torrent and beneath a wood,  
-High in these Alps my [[Summer|summer]] cottage stood;  
+High in these Alps my [[motifs/summer|summer]] cottage stood;  
 One daughter still remain’d to cheer my way,  
 The evening-star of life’s declining day:   10  
 Duly she hied to fill her milking-pail,  
 Ere shout of herdsmen rang from cliff or vale;  
-When she return’d, before the [[Summer|summer]] shiel,  
+When she return’d, before the [[motifs/summer|summer]] shiel,  
 On the fresh grass she spread the dairy meal;  
 Just as the snowy peaks began to lose   15  
 In glittering silver lights their rosy hues.  
 Singing in woods or bounding o’er the lawn,  
-No blither creature hail’d the early [[Dawn|dawn]];  
-And if I spoke of hearts by [[Pain|pain]] oppress’d.  
+No blither creature hail’d the early [[motifs/dawn|dawn]];  
+And if I spoke of hearts by [[motifs/pain|pain]] oppress’d.  
 When every friend is gone to them that rest;   20  
 Or of old men that leave, when they expire,  
 Daughters, that should have perish’d with their sire —  
 Leave them to toil all day through paths unknown,  
-And [[house]] at [[Night|night]] behind some sheltering stone;  
+And house at [[motifs/night|night]] behind some sheltering stone;  
 Impatient of the thought, with lively cheer   25  
 She broke half-closed the tasteless tale severe.  
 She play’d with fancies of a gayer hue,  
@@ -232,34 +232,34 @@ Till with her tearless eyes so bright and fair,
 She seem’d to see them realis’d in air!  
 In fancy oft, within some sunny dell,  
 Where never wolf should howl or tempest yell,  
-She built a little [[Home|home]] of joy and rest,   35  
+She built a little [[motifs/home|home]] of joy and rest,   35  
 And fill’d it with the friends whom she lov’d best:  
 She named the inmates of her fancied cot,  
 And gave to each his own peculiar lot;  
 Which with our little herd abroad should roam,  
-And which should tend the dairy’s toil at [[Home|home]],   40  
+And which should tend the dairy’s toil at [[motifs/home|home]],   40  
 And now the hour approach’d which should restore  
-Her [[Lover|lover]] from the wars, to part no more.  
+Her [[archetypes/lover|lover]] from the wars, to part no more.  
 Her whole frame fluttered with uneasy joy;  
 I long’d myself to clasp the valiant boy;  
 And though I strove to calm her eager mood,   45  
-It was my own sole thought in [[Solitude|solitude]].  
+It was my own sole thought in [[concepts/solitude|solitude]].  
 I told it to the Saints amid my hymns —  
 For O! you know not, on an old man’s limbs  
 How thrillingly the pleasant sun-beams play,  
 That shine upon his daughter’s wedding-day.   50  
 I hoped, that those fierce tempests, soon to rave  
-Unheard, unfelt, around my mountain [[Grave|grave]],  
+Unheard, unfelt, around my mountain [[motifs/grave|grave]],  
 Not undelightfully would break her rest,  
-While she lay pillow’d on her [[Lover|lover]]’s breast;  
-Or join’d his pious [[prayer]] for pilgrims driven   55  
-Out to the [[Mercy|mercy]] of the winds of heaven.  
+While she lay pillow’d on her [[archetypes/lover|lover]]’s breast;  
+Or join’d his pious [[motifs/prayer|prayer]] for pilgrims driven   55  
+Out to the [[concepts/mercy|mercy]] of the winds of heaven.  
 Yes! now the hour approach’d that should restore  
-Her [[Lover|lover]] from the wars to part no more.  
-Her thoughts were wild, her [[Soul|soul]] was in her eye,  
+Her [[archetypes/lover|lover]] from the wars to part no more.  
+Her thoughts were wild, her [[motifs/soul|soul]] was in her eye,  
 She wept and laugh’d as if she knew not why;   60  
-And she had made a [[Song|song]] about the wars,  
-And sang it to the sun and to the [[Stars|stars]]!  
+And she had made a song about the wars,  
+And sang it to the sun and to the [[motifs/stars|stars]]!  
 But while she look’d and listen’d, stood and ran,  
 And saw him plain in every distant man,  
 By treachery stabbed, on NANSY’S murderous day,   65  
@@ -274,34 +274,34 @@ Again he ask’d her if she knew my name,
 And instantly an anguish wrench’d her frame,  
 And left her mind imperfect. No delight   75  
 Thenceforth she found in any cheerful sight,  
-Not ev’n in those [[Time|time]]-haunted wells and groves,  
+Not ev’n in those [[motifs/time|time]]-haunted wells and groves,  
 Scenes of past joy, and birth-place of her loves.  
 If to her spirit any sound was dear,  
 ‘Twas the deep moan that spoke the tempest near;   80  
 Or sighs which chasms of icy vales outbreathe,  
 Sent from the dark, imprison’d floods beneath.  
 She wander’d up the crag and down the slope,  
-But not, as in her happy days of [[Hope|hope]],  
+But not, as in her happy days of [[concepts/hope|hope]],  
 To seek the churning-plant of sovereign power,   85  
 That grew in clefts and bore a scarlet flower!  
-She roam’d, without a purpose, all [[Alone|alone]],  
+She roam’d, without a purpose, all alone,  
 Thro’ high grey vales unknowing and unknown.  
 Kind-hearted stranger! patiently you hear  
 A tedious tale: I thank you for that tear.   90  
-May never other [[Tears|tears]] o’ercloud your eye,  
+May never other [[motifs/tears|tears]] o’ercloud your eye,  
 Than those which gentle Pity can supply!  
 Did you not mark a towering convent hang,  
 Where the huge rocks with sounds of torrents rang?  
 Ev’n yet, methinks, its spiry turrets swim   95  
 Amid yon purple gloom ascending dim!  
-For thither oft would my poor [[Child|child]] repair,  
-To ease her [[Soul|soul]] by penitence and [[prayer]].  
+For thither oft would my poor [[archetypes/child|child]] repair,  
+To ease her [[motifs/soul|soul]] by penitence and [[motifs/prayer|prayer]].  
 I knew that peace at good men’s prayers returns  
-[[Home]] to the contrite heart of him that mourns,   100  
+[[motifs/home|Home]] to the contrite heart of him that mourns,   100  
 And check’d her not; and often there she found  
 A timely pallet when the evening frown’d.  
-And there I trusted that my [[Child|child]] would light  
-On shelter and on food, one dreadful [[Night|night]],  
+And there I trusted that my [[archetypes/child|child]] would light  
+On shelter and on food, one dreadful [[motifs/night|night]],  
 When there was uproar in the element,   105  
 And she was absent. To my rest I went:  
 I thought her safe, yet often did I wake  
@@ -313,28 +313,28 @@ And down the cliffs the heavy vapour sail’d.
 Up by the wide-spread waves in fury torn,  
 Homestalls and pines along the vale were borne.  
 The Dalesmen in thick crowds appear’d below   115  
-Clearing the [[Road|road]], o’erwhelm’d with hills of [[Snow|snow]].  
+Clearing the [[motifs/road|road]], o’erwhelm’d with hills of [[motifs/snow|snow]].  
 At times to the proud gust’s ascending swell,  
-A pack of [[Blood|blood]]-hounds flung their doleful yell:  
-For after nights of [[Storm|storm]], that dismal train  
-The pious convent sends, with [[Hope|hope]] humane,   120  
+A pack of [[motifs/blood|blood]]-hounds flung their doleful yell:  
+For after nights of [[motifs/storm|storm]], that dismal train  
+The pious convent sends, with [[concepts/hope|hope]] humane,   120  
 To find some out-stretch’d man — perchance to save,  
-Or give, at least, that last good gift, a [[Grave|grave]]!  
+Or give, at least, that last good gift, a [[motifs/grave|grave]]!  
 But now a gathering crowd did I survey,  
 That slowly up the pasture bent their way;  
-Nor could I [[Doubt|doubt]] but that their care had found   125  
-Some [[Pilgrim|pilgrim]] in th’ unchannel’d torrent drown’d.  
+Nor could I [[concepts/doubt|doubt]] but that their care had found   125  
+Some [[archetypes/pilgrim|pilgrim]] in th’ unchannel’d torrent drown’d.  
 And down the lawn I hasten’d to implore  
-That they would bring the [[Body|body]] to my door;  
+That they would bring the [[concepts/body|body]] to my door;  
 But soon exclaim’d a boy, who ran before,  
-‘Thrown by the last [[Night|night]]’s waters from their bed,   130  
+‘Thrown by the last [[motifs/night|night]]’s waters from their bed,   130  
 Your daughter has been found, and she is dead!’  
 The old man paused — May he who, sternly just,  
-Lays at his will his creatures in the [[Dust|dust]];  
-Some ere the earliest buds of [[Hope|hope]] be blown,  
+Lays at his will his creatures in the [[motifs/dust|dust]];  
+Some ere the earliest buds of [[concepts/hope|hope]] be blown,  
 And some, when every bloom of joy is flown;   135  
-May he the parent to his [[Child|child]] restore  
-In that unchanging realm, where [[Love]] reigns evermore!  
+May he the parent to his [[archetypes/child|child]] restore  
+In that unchanging realm, where [[motifs/love|Love]] reigns evermore!  
 March 8, 1798.  
 NICIAS ERYTHRAEUS.  
 
@@ -348,23 +348,23 @@ ma dolce è la pietà a un petto invecchiato.
 Questa voce già tremava per la vecchiaia;   5  
 tristi ricordi la fanno tremare di più.  
 Presso il torrente e sotto un bosco,  
-alta in queste Alpi stava la mia capanna d’[[Summer|estate]];  
+alta in queste Alpi stava la mia capanna d’[[motifs/summer|estate]];  
 una sola figlia restava a rallegrare il mio cammino,  
 stella della sera nel giorno declinante della vita:   10  
 Puntuale correva a riempire il secchio del latte,  
 prima che il grido dei mandriani sonasse da rupe o valle;  
-quando tornava, davanti alla capanna d’[[Summer|estate]],  
+quando tornava, davanti alla capanna d’[[motifs/summer|estate]],  
 sull’erba fresca stendeva il pasto di latticini;  
 proprio quando le vette nevose cominciavano a perdere   15  
 nelle scintillanti luci d’argento le loro tinte rosate.  
 Cantando nei boschi o balzando sul prato,  
-nessuna creatura più lieta salutava la prima [[Dawn|alba]];  
-e se parlavo di cuori oppressi dal [[Pain|dolore]],  
+nessuna creatura più lieta salutava la prima [[motifs/dawn|alba]];  
+e se parlavo di cuori oppressi dal [[motifs/pain|dolore]],  
 quando ogni amico se n’è andato a quelli che riposano;   20  
 o di vecchi che lasciano, spirando,  
 figlie che avrebbero dovuto perire col padre —  
 le lasciano a faticare tutto il giorno per sentieri ignoti,  
-e a far [[house|casa]] di [[Night|notte]] dietro qualche pietra riparatrice;  
+e a far casa di [[motifs/night|notte]] dietro qualche pietra riparatrice;  
 impaziente del pensiero, con vivace allegria   25  
 ella troncava a metà l’insipido racconto severo.  
 Giocava con fantasie di tinta più gaia,  
@@ -375,34 +375,34 @@ finché con quegli occhi senza lacrime, così lucenti e belli,
 sembrava vederle avverate nell’aria!  
 Spesso col pensiero, in qualche valletta assolata,  
 dove mai lupo ululasse né tempesta urlasse,  
-costruiva una piccola [[Home|casa]] di gioia e riposo,   35  
+costruiva una piccola [[motifs/home|casa]] di gioia e riposo,   35  
 e la riempiva degli amici che più amava:  
 dava un nome agli abitanti della sua capanna immaginata,  
 e a ciascuno assegnava la sua parte particolare;  
 chi con la nostra piccola mandria dovesse errare fuori,  
-e chi attendere in [[Home|casa]] al lavoro del latte,   40  
+e chi attendere in [[motifs/home|casa]] al lavoro del latte,   40  
 E ormai s’avvicinava l’ora che doveva ridarle  
-il suo [[Lover|amato]] dalle guerre, per non separarsi mai più.  
+il suo [[archetypes/lover|amato]] dalle guerre, per non separarsi mai più.  
 Tutta la sua persona fremeva d’inquieta gioia;  
 io stesso bramavo stringere il valoroso ragazzo;  
 e benché cercassi di calmare il suo umore impaziente,   45  
-era il mio unico pensiero nella [[Solitude|solitudine]].  
+era il mio unico pensiero nella [[concepts/solitude|solitudine]].  
 Lo dicevo ai Santi fra i miei inni —  
 ché oh! tu non sai, sulle membra d’un vecchio  
 con che brivido giocano i raggi piacevoli del sole  
 che splendono nel giorno delle nozze di sua figlia.   50  
 Speravo che quelle fiere tempeste, presto a infuriare  
-non udite, non sentite, intorno alla mia [[Grave|tomba]] montana,  
+non udite, non sentite, intorno alla mia [[motifs/grave|tomba]] montana,  
 non senza dolcezza avrebbero rotto il suo riposo,  
-mentre giaceva col capo sul petto del suo [[Lover|amato]];  
-o s’univa alla sua pia [[prayer|preghiera]] per i pellegrini sospinti   55  
-fuori, alla [[Mercy|mercé]] dei venti del cielo.  
+mentre giaceva col capo sul petto del suo [[archetypes/lover|amato]];  
+o s’univa alla sua pia [[motifs/prayer|preghiera]] per i pellegrini sospinti   55  
+fuori, alla [[concepts/mercy|mercé]] dei venti del cielo.  
 Sì! ormai s’avvicinava l’ora che doveva ridarle  
-il suo [[Lover|amato]] dalle guerre, per non separarsi mai più.  
-I suoi pensieri erano folli, la sua [[Soul|anima]] era nei suoi occhi,  
+il suo [[archetypes/lover|amato]] dalle guerre, per non separarsi mai più.  
+I suoi pensieri erano folli, la sua [[motifs/soul|anima]] era nei suoi occhi,  
 piangeva e rideva come se non sapesse perché;   60  
-e aveva composto una [[Song|canzone]] sulle guerre,  
-e la cantava al sole e alle [[Stars|stelle]]!  
+e aveva composto una canzone sulle guerre,  
+e la cantava al sole e alle [[motifs/stars|stelle]]!  
 Ma mentre guardava e ascoltava, si fermava e correva,  
 e lo vedeva chiaro in ogni uomo lontano,  
 pugnalato a tradimento, nel giorno omicida di NANSY,   65  
@@ -417,34 +417,34 @@ Di nuovo le chiese se conoscesse il mio nome,
 e all’istante un’angoscia le torse le membra,  
 e le lasciò la mente imperfetta. Nessuna gioia   75  
 trovò da allora in alcuna vista lieta,  
-neppure in quelle fonti e in quei boschetti abitati dal [[Time|tempo]],  
+neppure in quelle fonti e in quei boschetti abitati dal [[motifs/time|tempo]],  
 scene di gioia passata, e luogo natale dei suoi amori.  
 Se al suo spirito qualche suono era caro,  
 era il gemito profondo che annunciava vicina la tempesta;   80  
 o i sospiri che gli abissi delle valli gelate esalano,  
 mandati dalle acque oscure, imprigionate là sotto.  
 Errava su per la rupe e giù per il pendio,  
-ma non, come nei suoi giorni felici di [[Hope|speranza]],  
+ma non, come nei suoi giorni felici di [[concepts/hope|speranza]],  
 a cercare l’erba da zangola di sovrana virtù,   85  
 che cresceva nelle fenditure e portava un fiore scarlatto!  
-Vagava, senza scopo, tutta [[Alone|sola]],  
+Vagava, senza scopo, tutta sola,  
 per alte valli grigie, ignara e ignota.  
 Straniero dal cuore gentile! pazientemente ascolti  
 un racconto tedioso: ti ringrazio di quella lacrima.   90  
-Mai altre [[Tears|lacrime]] t’offuschino l’occhio,  
+Mai altre [[motifs/tears|lacrime]] t’offuschino l’occhio,  
 se non quelle che la gentile Pietà sa dare!  
 Non hai notato un convento torreggiante sospeso  
 dove le rocce immani risonavano di torrenti?  
 Ancora, mi pare, le sue guglie nuotano   95  
 in quella caligine purpurea, salendo fioche!  
-Ché là spesso si recava la mia povera [[Child|figlia]],  
-a sollevare la sua [[Soul|anima]] con penitenza e [[prayer|preghiera]].  
+Ché là spesso si recava la mia povera [[archetypes/child|figlia]],  
+a sollevare la sua [[motifs/soul|anima]] con penitenza e [[motifs/prayer|preghiera]].  
 Sapevo che la pace, alle preghiere dei buoni, torna  
-a [[Home|casa]], nel cuore contrito di chi piange,   100  
+a [[motifs/home|casa]], nel cuore contrito di chi piange,   100  
 e non la trattenni; e spesso vi trovò  
 un giaciglio opportuno quando la sera s’incupiva.  
-E là confidavo che la mia [[Child|figlia]] trovasse  
-riparo e cibo, una terribile [[Night|notte]],  
+E là confidavo che la mia [[archetypes/child|figlia]] trovasse  
+riparo e cibo, una terribile [[motifs/night|notte]],  
 quando c’era tumulto nell’elemento,   105  
 ed ella era assente. Andai a riposare:  
 la credevo al sicuro, pure spesso mi svegliavo  
@@ -456,28 +456,28 @@ e giù per le rupi il vapore greve veleggiava.
 Strappati in furia dalle onde dilagate,  
 casolari e pini erano trascinati lungo la valle.  
 Gli uomini della valle apparvero in folte schiere in basso   115  
-a sgombrare la [[Road|strada]], sommersa da colline di [[Snow|neve]].  
+a sgombrare la [[motifs/road|strada]], sommersa da colline di [[motifs/snow|neve]].  
 A tratti, al gonfiarsi ascendente della raffica superba,  
-una muta di segugi da [[Blood|sangue]] lanciava il suo ululato dolente:  
-ché dopo notti di [[Storm|tempesta]] quella squadra lugubre  
-il pio convento la manda, con umana [[Hope|speranza]],   120  
+una muta di segugi da [[motifs/blood|sangue]] lanciava il suo ululato dolente:  
+ché dopo notti di [[motifs/storm|tempesta]] quella squadra lugubre  
+il pio convento la manda, con umana [[concepts/hope|speranza]],   120  
 a trovare qualche uomo disteso — forse a salvarlo,  
-o a dargli almeno quell’ultimo buon dono, una [[Grave|tomba]]!  
+o a dargli almeno quell’ultimo buon dono, una [[motifs/grave|tomba]]!  
 Ma ora scorsi una folla che s’adunava,  
 che lenta su per il pascolo volgeva il cammino;  
-né potei [[Doubt|dubitare]] che la loro cura avesse trovato   125  
-qualche [[Pilgrim|pellegrino]] annegato nel torrente straripato.  
+né potei [[concepts/doubt|dubitare]] che la loro cura avesse trovato   125  
+qualche [[archetypes/pilgrim|pellegrino]] annegato nel torrente straripato.  
 E giù per il prato m’affrettai a implorare  
-che portassero il [[Body|corpo]] alla mia porta;  
+che portassero il [[concepts/body|corpo]] alla mia porta;  
 ma presto esclamò un ragazzo che correva avanti:  
-‘Gettata dalle acque della scorsa [[Night|notte]] fuori dal loro letto,   130  
+‘Gettata dalle acque della scorsa [[motifs/night|notte]] fuori dal loro letto,   130  
 tua figlia è stata trovata, ed è morta!’  
 Il vecchio tacque — Colui che, severamente giusto,  
-depone a suo volere le sue creature nella [[Dust|polvere]];  
-alcune prima che sboccino i primi germogli di [[Hope|speranza]],  
+depone a suo volere le sue creature nella [[motifs/dust|polvere]];  
+alcune prima che sboccino i primi germogli di [[concepts/hope|speranza]],  
 altre quando ogni fiore di gioia è volato via;   135  
-possa Egli rendere il padre alla sua [[Child|figlia]]  
-in quel regno immutabile, dove l’[[Love|Amore]] regna in eterno!  
+possa Egli rendere il padre alla sua [[archetypes/child|figlia]]  
+in quel regno immutabile, dove l’[[motifs/love|Amore]] regna in eterno!  
 8 marzo 1798.  
 NICIAS ERYTHRAEUS.
 
@@ -486,14 +486,14 @@ NICIAS ERYTHRAEUS.
 <span class="atom-split" data-atom="151_to_a_young_lady" data-title="TO A YOUNG LADY" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/birds,concept/joy,concept/mortality,concept/faith,form/lyric,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
 
 
-[MISS [[Lavinia|LAVINIA]] POOLE] ON HER RECOVERY FROM A FEVER  
+[MISS [[characters/lavinia|LAVINIA]] POOLE] ON HER RECOVERY FROM A FEVER  
 Why need I say, Louisa dear!  
 How glad I am to see you here,  
 A lovely convalescent;  
-Risen from the bed of [[Pain|pain]] and [[Fear|fear]],  
+Risen from the bed of [[motifs/pain|pain]] and [[concepts/fear|fear]],  
 And feverish heat incessant.   5  
 The sunny showers, the dappled sky,  
-The little [[Birds|birds]] that warble high,  
+The little [[motifs/birds|birds]] that warble high,  
 Their vernal loves commencing,  
 Will better welcome you than I  
 With their sweet influencing.   10  
@@ -512,14 +512,14 @@ March 31, 1798.
 
 <span class="qlang-split" data-lang="it"></span>
 
-[MISS [[Lavinia|LAVINIA]] POOLE] PER LA SUA GUARIGIONE DA UNA FEBBRE  
+[MISS [[characters/lavinia|LAVINIA]] POOLE] PER LA SUA GUARIGIONE DA UNA FEBBRE  
 Che bisogno ho di dire, Louisa cara!,  
 quanto son lieto di vederti qui,  
 amabile convalescente;  
-risorta dal letto di [[Pain|dolore]] e [[Fear|paura]],  
+risorta dal letto di [[motifs/pain|dolore]] e [[concepts/fear|paura]],  
 e d’incessante calore febbrile.   5  
 Gli acquazzoni solatii, il cielo screziato,  
-i piccoli [[Birds|uccelli]] che gorgheggiano in alto,  
+i piccoli [[motifs/birds|uccelli]] che gorgheggiano in alto,  
 cominciando i loro amori di primavera,  
 ti daranno il benvenuto meglio di me  
 col loro dolce influsso.   10  
@@ -550,8 +550,8 @@ And growing grasses sparkle gay   5
 At once with Sun and rain.
 II
 The grass was fine, the Sun was bright —
-With [[Truth|truth]] I may aver it;
-The ox was glad, as [[Well|well]], he might,
+With [[concepts/truth|truth]] I may aver it;
+The ox was glad, as [[motifs/well|well]], he might,
 Thought a green meadow no bad sight,   10
 And frisk’d, — to shew his huge delight,
 Much like a beast of spirit.
@@ -596,7 +596,7 @@ Stood trembling in his shoes;
 The ox was his — what cou’d he say?
 His legs were stiffen’d with dismay,   45
 The ox ran o’er him mid the fray,
-And gave him his [[Death|death]]’s bruise.
+And gave him his [[motifs/death|death]]’s bruise.
 IX
 The frighted beast ran on — (but here,
 No tale, (tho’ in print, more true is)   50
@@ -608,14 +608,14 @@ X
 The frighted beast ran through the town,   55
 All follow’d, boy and dad,
 Bull-dog, parson, shopman, clown:
-The publicans rush’d from the [[Crown]],
+The publicans rush’d from the [[motifs/crown|Crown]],
 ‘Halloo! hamstring him! cut him down!’
 THEY DROVE THE POOR OX MAD.   60
 XI
-Should you a Rat to [[Madness|madness]] tease
+Should you a Rat to [[concepts/madness|madness]] tease
 Why ev’n a Rat may plague you:
 There’s no Philosopher but sees
-That Rage and [[Fear]] are one disease —
+That Rage and [[concepts/fear|Fear]] are one disease —
 Though that may burn, and this may freeze,   65
 They’re both alike the Ague.
 XII
@@ -633,7 +633,7 @@ Would but the Parson venture near,
 And through his teeth, right o’er the steer,
 Squirt out some fasting-spittle.
 XIV
-[[Achilles]] was a warrior fleet,
+[[characters/achilles|Achilles]] was a warrior fleet,
 The Trojans he could worry:   80
 Our Parson too was swift of feet,
 But shew’d it chiefly in retreat:
@@ -643,15 +643,15 @@ XV
 Through gardens, lanes and fields new-plough’d,   85
 Through his hedge, and through her hedge,
 He plung’d and toss’d and bellow’d loud —
-Till in his [[Madness|madness]] he grew proud
+Till in his [[concepts/madness|madness]] he grew proud
 To see this helter-skelter crowd
-That had more wrath than [[Courage|courage]]!   90
+That had more wrath than [[concepts/courage|courage]]!   90
 XVI
 Alas! to mend the breaches wide
 He made for these poor ninnies,
 They all must work, whate’er betide,
 Both days and months, and pay beside
-(Sad news for Av’rice and for [[Pride]]),   95
+(Sad news for Av’rice and for [[concepts/pride|Pride]]),   95
 A sight of golden guineas!
 XVII
 But here once more to view did pop
@@ -679,12 +679,12 @@ As thus I sat, in careless chat,   115
 With the morning’s wet newspaper,
 In eager haste, without his hat,
 As blind and blund’ring as a bat,
-In came that fierce [[aristocrat|Aristocrat]],
+In came that fierce Aristocrat,
 Our pursy woollen-draper.   120
 XXI
 And so my Muse per force drew bit;
 And in he rush’d and panted!
-‘[[Well]], have you heard?’ No, not a whit.
+‘[[motifs/well|Well]], have you heard?’ No, not a whit.
 ‘What, ha’nt you heard?’ Come, out with it!
 ‘That Tierney votes for Mister PITT,   125
 And Sheridan’s recanted!’
@@ -703,8 +703,8 @@ e le erbe che crescono scintillano gaie   5
 a un tempo di Sole e di pioggia.
 II
 L’erba era bella, il Sole era chiaro —
-in [[Truth|verità]] posso affermarlo;
-il bue era contento, e [[Well|ben]] poteva esserlo,
+in [[concepts/truth|verità]] posso affermarlo;
+il bue era contento, e [[motifs/well|ben]] poteva esserlo,
 stimò un verde prato vista non cattiva,   10
 e saltellò, — a mostrare la sua enorme gioia,
 proprio come bestia di spirito.
@@ -749,7 +749,7 @@ stava tremando nelle sue scarpe;
 il bue era suo — che poteva dire?
 Le gambe gli s’irrigidirono di sgomento,   45
 il bue gli passò sopra nella mischia,
-e gli diede la contusione della [[Death|morte]].
+e gli diede la contusione della [[motifs/death|morte]].
 IX
 La bestia atterrita corse via — (ma qui,
 nessun racconto (per stampato che sia) è più vero)   50
@@ -761,14 +761,14 @@ X
 La bestia atterrita corse per la città,   55
 tutti la seguirono, ragazzo e babbo,
 mastino, parroco, bottegaio, villano:
-gli osti si precipitarono fuori dalla [[Crown|Corona]],
+gli osti si precipitarono fuori dalla [[motifs/crown|Corona]],
 ‘Ohilà! tagliategli i garretti! abbattetelo!’
 FECERO IMPAZZIRE IL POVERO BUE.   60
 XI
-Se stuzzicate un Ratto fino alla [[Madness|follia]]
+Se stuzzicate un Ratto fino alla [[concepts/madness|follia]]
 ebbene, anche un Ratto può tormentarvi:
 non c’è Filosofo che non veda
-che Rabbia e [[Fear|Paura]] sono una sola malattia —
+che Rabbia e [[concepts/fear|Paura]] sono una sola malattia —
 benché quella bruci e questa geli,   65
 sono entrambe ugualmente la Febbre.
 XII
@@ -786,7 +786,7 @@ se solo il Parroco osasse avvicinarsi,
 e fra i denti, proprio sopra il manzo,
 sputasse un po’ di saliva di digiuno.
 XIV
-[[Achilles|Achille]] era un guerriero veloce,
+[[characters/achilles|Achille]] era un guerriero veloce,
 sapeva tormentare i Troiani:   80
 anche il nostro Parroco era rapido di piede,
 ma lo mostrò soprattutto in ritirata:
@@ -796,15 +796,15 @@ XV
 Per giardini, viottoli e campi appena arati,   85
 per la siepe di lui, e per la siepe di lei,
 si tuffò e cozzò e muggì forte —
-finché nella sua [[Madness|follia]] divenne fiero
+finché nella sua [[concepts/madness|follia]] divenne fiero
 di vedere questa folla a precipizio
-che aveva più ira che [[Courage|coraggio]]!   90
+che aveva più ira che [[concepts/courage|coraggio]]!   90
 XVI
 Ahimè! per riparare le larghe brecce
 che aprì per questi poveri sciocchi,
 tutti dovranno lavorare, checché accada,
 giorni e mesi, e per giunta pagare
-(triste notizia per l’Avarizia e per l’[[Pride|Orgoglio]]),   95
+(triste notizia per l’Avarizia e per l’[[concepts/pride|Orgoglio]]),   95
 un mucchio di ghinee d’oro!
 XVII
 Ma qui una volta ancora fece capolino
@@ -832,12 +832,12 @@ Mentre così sedevo, in chiacchiera oziosa,   115
 col giornale bagnato del mattino,
 in fretta impaziente, senza cappello,
 cieco e goffo come un pipistrello,
-entrò quel fiero [[aristocrat|Aristocratico]],
+entrò quel fiero Aristocratico,
 il nostro panciuto mercante di lane.   120
 XXI
 E così la mia Musa per forza tirò la briglia;
 ed egli irruppe e ansimò!
-‘[[Well|Ebbene]], avete sentito?’ No, niente affatto.
+‘[[motifs/well|Ebbene]], avete sentito?’ No, niente affatto.
 ‘Come, non avete sentito?’ Su, sputate!
 ‘Che Tierney vota per il signor PITT,   125
 e Sheridan ha ritrattato!’
@@ -853,37 +853,37 @@ A walking the Devil is gone,
 To visit his snug little farm the earth,  
 And see how his stock goes on.  
 II  
-Over the [[Hill|hill]] and over the dale,   5  
+Over the [[motifs/hill|hill]] and over the dale,   5  
 And he went over the plain,  
 And backward and forward he switched his long tail  
 As a gentleman switches his cane.  
 III  
 And how then was the Devil drest?  
-Oh! he was in his [[Sunday]]’s best:   10  
+Oh! he was in his [[characters/sunday|Sunday]]’s best:   10  
 His jacket was red and his breeches were blue,  
 And there was a hole where the tail came through.  
 IV  
 He saw a Lawyer killing a Viper  
 On a dunghill hard by his own stable;  
 And the Devil smiled, for it put him in mind   15  
-Of [[Cain]] and his brother, Abel.  
+Of [[characters/cain|Cain]] and his brother, Abel.  
 V  
-He saw an Apothecary on a white [[Horse|horse]]  
+He saw an Apothecary on a white [[motifs/horse|horse]]  
 Ride by on his vocations,  
 And the Devil thought of his old Friend  
-[[Death]] in the Revelations.   20  
+[[motifs/death|Death]] in the Revelations.   20  
 VI  
-He saw a cottage with a [[Double|double]] coach-[[house]],  
+He saw a cottage with a [[topoi/double|double]] coach-house,  
 A cottage of gentility;  
 And the Devil did grin, for his darling sin  
-Is [[Pride|pride]] that apes [[Humility|humility]].  
+Is [[concepts/pride|pride]] that apes [[concepts/humility|humility]].  
 VII  
 He peep’d into a rich bookseller’s shop,   25  
 Quoth he! we are both of one college!  
 For I sate myself, like a cormorant, once  
 Hard by the tree of knowledge.  
 VIII  
-Down the [[River|river]] did glide, with [[Wind|wind]] and tide,  
+Down the [[motifs/river|river]] did glide, with [[motifs/wind|wind]] and tide,  
 A pig with vast celerity;   30  
 And the Devil look’d wise as he saw how the while,  
 It cut its own throat. ‘There!’ quoth he with a smile,  
@@ -901,7 +901,7 @@ If a man be but used to his trade.’
 XI  
 He saw the same Turnkey unfetter a man,  
 With but little expedition,  
-Which put him in mind of the long [[debate]]  
+Which put him in mind of the long debate  
 On the Slave-trade abolition.   45  
 XII  
 He saw an old acquaintance  
@@ -912,11 +912,11 @@ XIII
 She turned up her nose, and said,   50  
 ‘Avaunt! my name’s Religion,’  
 And she looked to Mr. ——  
-And leered like a [[Love|love]]-sick pigeon.  
+And leered like a [[motifs/love|love]]-sick pigeon.  
 XIV  
 He saw a certain minister  
 (A minister to his mind)    55  
-Go up into a certain [[house|House]],  
+Go up into a certain House,  
 With a majority behind.  
 XV  
 The Devil quoted Genesis  
@@ -944,37 +944,37 @@ il Diavolo è andato a passeggio,
 a visitare la sua comoda fattoriola, la terra,  
 e vedere come va il suo bestiame.  
 II  
-Sopra la [[Hill|collina]] e sopra la valle,   5  
+Sopra la [[motifs/hill|collina]] e sopra la valle,   5  
 e andò sopra la pianura,  
 e avanti e indietro sferzava la lunga coda  
 come un gentiluomo agita il bastone.  
 III  
 E com’era vestito allora il Diavolo?  
-Oh! era nel suo abito della [[Sunday|Domenica]]:   10  
+Oh! era nel suo abito della [[characters/sunday|Domenica]]:   10  
 la giacca era rossa e i calzoni azzurri,  
 e c’era un buco da cui passava la coda.  
 IV  
 Vide un Avvocato che uccideva una Vipera  
 su un letamaio proprio accanto alla sua stalla;  
 e il Diavolo sorrise, perché gli ricordò   15  
-[[Cain|Caino]] e suo fratello Abele.  
+[[characters/cain|Caino]] e suo fratello Abele.  
 V  
-Vide uno Speziale su un [[Horse|cavallo]] bianco  
+Vide uno Speziale su un [[motifs/horse|cavallo]] bianco  
 passare a cavallo per le sue faccende,  
 e il Diavolo pensò al suo vecchio Amico  
-la [[Death|Morte]] nell’Apocalisse.   20  
+la [[motifs/death|Morte]] nell’Apocalisse.   20  
 VI  
-Vide un villino con [[house|rimessa]] a [[Double|due]] carrozze,  
+Vide un villino con rimessa a [[topoi/double|due]] carrozze,  
 un villino di gentilezza;  
 e il Diavolo ghignò, ché il suo peccato prediletto  
-è l’[[Pride|orgoglio]] che scimmiotta l’[[Humility|umiltà]].  
+è l’[[concepts/pride|orgoglio]] che scimmiotta l’[[concepts/humility|umiltà]].  
 VII  
 Sbirciò nella bottega d’un ricco libraio,   25  
 disse lui!, siamo entrambi dello stesso collegio!  
 ché anch’io sedetti, come un cormorano, un tempo  
 proprio accanto all’albero della conoscenza.  
 VIII  
-Giù per il [[River|fiume]] scivolava, con [[Wind|vento]] e marea,  
+Giù per il [[motifs/river|fiume]] scivolava, con [[motifs/wind|vento]] e marea,  
 un porco con vasta celerità;   30  
 e il Diavolo assunse aria saggia vedendo come intanto  
 si tagliava la gola da sé. ‘Ecco!’ disse con un sorriso,  
@@ -992,7 +992,7 @@ quando uno è avvezzo al suo mestiere.’
 XI  
 Vide lo stesso Secondino sferrare un uomo,  
 con ben poca spedizione,  
-il che gli ricordò il lungo [[debate|dibattito]]  
+il che gli ricordò il lungo dibattito  
 sull’abolizione della tratta degli schiavi.   45  
 XII  
 Vide una vecchia conoscenza  
@@ -1003,11 +1003,11 @@ XIII
 Ella arricciò il naso e disse:   50  
 ‘Indietro! il mio nome è Religione’,  
 e guardò verso il signor ——  
-e ammiccò come un piccione malato d’[[Love|amore]].  
+e ammiccò come un piccione malato d’[[motifs/love|amore]].  
 XIV  
 Vide un certo ministro  
 (un ministro di suo gusto)    55  
-salire in una certa [[house|Camera]],  
+salire in una certa Camera,  
 con una maggioranza dietro.  
 XV  
 Il Diavolo citò la Genesi  
@@ -1032,16 +1032,16 @@ che fosse la conflagrazione generale.   70
 <span class="atom-split" data-atom="206_letter_july_19_1802" data-title="LETTER, JULY 19, 1802." data-chapter="" data-kind="intro" data-tags="topos/poet_as_prophet,concept/joy,concept/friendship,concept/self_and_soul,form/fragment,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
 
 
-And sing his lofty [[Song|song]] and teach me to rejoice!  
-O [[Edmund]], friend of my devoutest choice,  
+And sing his lofty song and teach me to rejoice!  
+O [[characters/edmund|Edmund]], friend of my devoutest choice,  
 O rais’d from anxious dread and busy care,  
 By the immenseness of the good and fair  
 Which thou see’st everywhere,   5  
 Joy lifts thy spirit, joy attunes thy voice,  
 To thee do all things live from pole to pole,  
-Their life the eddying of thy living [[Soul|soul]]!  
+Their life the eddying of thy living [[motifs/soul|soul]]!  
 O simple Spirit, guided from above,  
-O lofty Poet, full of life and [[Love|love]],   10  
+O lofty Poet, full of life and [[motifs/love|love]],   10  
 Brother and Friend of my devoutest choice,  
 Thus may’st thou ever, evermore rejoice!  
 •£¤—£•.  
@@ -1052,16 +1052,16 @@ of lines 75 foll.]
 
 <span class="qlang-split" data-lang="it"></span>
 
-E canti il suo alto [[Song|canto]] e m’insegni a gioire!  
-O [[Edmund]], amico della mia più devota scelta,  
+E canti il suo alto canto e m’insegni a gioire!  
+O [[characters/edmund|Edmund]], amico della mia più devota scelta,  
 o sollevato da ansioso timore e affannosa cura  
 dall’immensità del bene e del bello  
 che tu vedi dappertutto,   5  
 la Gioia leva il tuo spirito, la gioia accorda la tua voce,  
 per te ogni cosa vive da polo a polo,  
-la loro vita è il vorticare della tua [[Soul|anima]] viva!  
+la loro vita è il vorticare della tua [[motifs/soul|anima]] viva!  
 O Spirito semplice, guidato dall’alto,  
-o alto Poeta, pieno di vita e d’[[Love|amore]],   10  
+o alto Poeta, pieno di vita e d’[[motifs/love|amore]],   10  
 Fratello e Amico della mia più devota scelta,  
 così possa tu sempre, sempre gioire!  
 •£¤—£•.  
@@ -1074,31 +1074,31 @@ dei versi 75 sgg.]
 <span class="atom-split" data-atom="215_answer_to_a_childs_question" data-title="ANSWER TO A CHILD’S QUESTION" data-chapter="" data-kind="intro" data-tags="motif/birds,motif/spring,motif/seasons,concept/love_romantic,concept/joy,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
 
 
-Do you ask what the [[Birds|birds]] say? The Sparrow, the Dove,  
-The Linnet and Thrush say, ‘I [[Love|love]] and I [[Love|love]]!’  
-In the [[Winter|winter]] they’re silent — the [[Wind|wind]] is so strong;  
-What it says, I don’t know, but it sings a loud [[Song|song]].  
-But green [[Leaves|leaves]], and blossoms, and sunny warm weather,   5  
+Do you ask what the [[motifs/birds|birds]] say? The Sparrow, the Dove,  
+The Linnet and Thrush say, ‘I [[motifs/love|love]] and I [[motifs/love|love]]!’  
+In the [[motifs/winter|winter]] they’re silent — the [[motifs/wind|wind]] is so strong;  
+What it says, I don’t know, but it sings a loud song.  
+But green [[motifs/leaves|leaves]], and blossoms, and sunny warm weather,   5  
 And singing, and loving — all come back together.  
-But the Lark is so brimful of gladness and [[Love|love]],  
+But the Lark is so brimful of gladness and [[motifs/love|love]],  
 The green fields below him, the blue sky above,  
 That he sings, and he sings; and for ever sings he —  
-‘I [[Love|love]] my [[Love]], and my [[Love]] loves me!’   10  
+‘I [[motifs/love|love]] my [[motifs/love|Love]], and my [[motifs/love|Love]] loves me!’   10  
 1802.  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Chiedi che cosa dicono gli [[Birds|uccelli]]? Il Passero, la Colomba,  
-il Fanello e il Tordo dicono: ‘[[Love|Amo]] e [[Love|amo]]!’  
-D’[[Winter|inverno]] tacciono — il [[Wind|vento]] è così forte;  
-che cosa dica non so, ma canta un [[Song|canto]] sonoro.  
-Ma verdi [[Leaves|foglie]], e fiori, e tempo caldo e soleggiato,   5  
+Chiedi che cosa dicono gli [[motifs/birds|uccelli]]? Il Passero, la Colomba,  
+il Fanello e il Tordo dicono: ‘[[motifs/love|Amo]] e [[motifs/love|amo]]!’  
+D’[[motifs/winter|inverno]] tacciono — il [[motifs/wind|vento]] è così forte;  
+che cosa dica non so, ma canta un canto sonoro.  
+Ma verdi [[motifs/leaves|foglie]], e fiori, e tempo caldo e soleggiato,   5  
 e il cantare, e l’amare — tornano tutti insieme.  
-Ma l’Allodola è così ricolma di letizia e d’[[Love|amore]],  
+Ma l’Allodola è così ricolma di letizia e d’[[motifs/love|amore]],  
 i verdi campi sotto di lei, il cielo azzurro sopra,  
 che canta, e canta; e per sempre canta —  
-‘[[Love|Amo]] il mio [[Love|Amore]], e il mio [[Love|Amore]] ama me!’   10  
+‘[[motifs/love|Amo]] il mio [[motifs/love|Amore]], e il mio [[motifs/love|Amore]] ama me!’   10  
 1802.
 
 
@@ -1108,9 +1108,9 @@ che canta, e canta; e per sempre canta —
 
 Within these circling hollies woodbine-clad —  
 Beneath this small blue roof of vernal sky —  
-How warm, how still! Tho’ [[Tears|tears]] should dim mine eye,  
+How warm, how still! Tho’ [[motifs/tears|tears]] should dim mine eye,  
 Yet will my heart for days continue glad,  
-For here, my [[Love|love]], thou art, and here am I!  
+For here, my [[motifs/love|love]], thou art, and here am I!  
 ? 1801.  
 
 
@@ -1118,9 +1118,9 @@ For here, my [[Love|love]], thou art, and here am I!
 
 Fra questi agrifogli in cerchio, vestiti di caprifoglio —  
 sotto questo piccolo tetto azzurro di cielo primaverile —  
-che tepore, che quiete! Benché le [[Tears|lacrime]] m’appannino l’occhio,  
+che tepore, che quiete! Benché le [[motifs/tears|lacrime]] m’appannino l’occhio,  
 pure il mio cuore per giorni resterà lieto,  
-ché qui, [[Love|amore]] mio, sei tu, e qui son io!  
+ché qui, [[motifs/love|amore]] mio, sei tu, e qui son io!  
 ? 1801.
 
 
@@ -1132,16 +1132,16 @@ FROM ZAPOLYA
 Up, up! ye dames, and lasses gay!  
 To the meadows trip away.  
 ‘Tis you must tend the flocks this morn,  
-And scare the small [[Birds|birds]] from the corn.  
-Not a [[Soul|soul]] at [[Home|home]] may stay:   5  
+And scare the small [[motifs/birds|birds]] from the corn.  
+Not a [[motifs/soul|soul]] at [[motifs/home|home]] may stay:   5  
 For the shepherds must go  
 With lance and bow  
 To hunt the wolf in the woods to-day.  
-Leave the hearth and leave the [[house]]  
+Leave the hearth and leave the house  
 To the cricket and the mouse:   10  
 Find grannam out a sunny seat.  
 With babe and lambkin at her feet.  
-Not a [[Soul|soul]] at [[Home|home]] may stay:  
+Not a [[motifs/soul|soul]] at [[motifs/home|home]] may stay:  
 For the shepherds must go  
 With lance and bow   15  
 To hunt the wolf in the woods to-day.  
@@ -1154,16 +1154,16 @@ DA ZAPOLYA
 Su, su! o dame e ragazze allegre!  
 Ai prati, via, con passo lieve.  
 Tocca a voi badare alle greggi stamane,  
-e scacciare i piccoli [[Birds|uccelli]] dal grano.  
-Non un’[[Soul|anima]] può restare a [[Home|casa]]:   5  
+e scacciare i piccoli [[motifs/birds|uccelli]] dal grano.  
+Non un’[[motifs/soul|anima]] può restare a [[motifs/home|casa]]:   5  
 ché i pastori devono andare  
 con lancia e arco  
 a cacciare il lupo nei boschi quest’oggi.  
-Lasciate il focolare e lasciate la [[house|casa]]  
+Lasciate il focolare e lasciate la casa  
 al grillo e al topo:   10  
 Trovate alla nonna un posto al sole,  
 col bimbo e l’agnellino ai suoi piedi.  
-Non un’[[Soul|anima]] può restare a [[Home|casa]]:  
+Non un’[[motifs/soul|anima]] può restare a [[motifs/home|casa]]:  
 ché i pastori devono andare  
 con lancia e arco   15  
 a cacciare il lupo nei boschi quest’oggi.  
@@ -1174,12 +1174,12 @@ a cacciare il lupo nei boschi quest’oggi.
 <span class="atom-split" data-atom="267_the_delinquent_travellers" data-title="THE DELINQUENT TRAVELLERS" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/the_journey,motif/the_road,motif/money_gold,motif/the_sea,concept/satire_of_society,concept/critique_of_progress,form/satire,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
 
 
-Some are [[Home|home]]-sick — some two or three,  
+Some are [[motifs/home|home]]-sick — some two or three,  
 Their third year on the Arctic Sea —  
 Brave Captain Lyon tells us so —  
 Spite of those charming Esquimaux.  
-But O, what scores are sick of [[Home]],    5  
-Agog for [[Paris]] or for Rome!  
+But O, what scores are sick of [[motifs/home|Home]],    5  
+Agog for [[settings/paris|Paris]] or for Rome!  
 Nay! tho’ contented to abide,  
 You should prefer your own fireside;  
 Yet since grim War has ceas’d its madding,  
@@ -1191,8 +1191,8 @@ The folks will swear, for lack of bail,
 You’ve spent your last five years in jail!’   15  
 Keep moving! Steam, or Gas, or Stage,  
 Hold, cabin, steerage, hencoop’s cage —  
-Tour, [[Journey]], Voyage, Lounge, Ride, Walk,  
-Skim, [[Sketch]], Excursion, Travel-talk —  
+Tour, [[motifs/journey|Journey]], Voyage, Lounge, Ride, Walk,  
+Skim, [[forms/sketch|Sketch]], Excursion, Travel-talk —  
 For move you must! ‘Tis now the rage,   20  
 The law and fashion of the Age.  
 If you but perch, where Dover tallies,  
@@ -1200,12 +1200,12 @@ So strangely with the coast of Calais,
 With a good glass and knowing look,  
 You’ll soon get matter for a book!   25  
 Or else, in Gas-car, take your chance  
-Like that adventurous [[King of France|king of France]],  
+Like that adventurous [[characters/king-of-france|king of France]],  
 Who, once, with twenty thousand men  
 Went up — and then came down again;  
 At least, he moved if nothing more:    30  
 And if there’s nought left to explore,  
-Yet while your [[Well|well]]-greased wheels keep spinning,  
+Yet while your [[motifs/well|well]]-greased wheels keep spinning,  
 The traveller’s honoured name you’re winning,  
 And, snug as Jonas in the Whale,  
 You may loll back and dream a tale.    35  
@@ -1223,9 +1223,9 @@ Bilks turn-pike gates, for no one cares,
 And gives herself a thousand airs —  
 While streams and shopkeepers, we see,  
 Will have their run toward the sea —  
-And if, meantime, like old [[King]] Log,   50  
+And if, meantime, like old [[archetypes/king|King]] Log,   50  
 Or ass with tether and a clog,  
-Must graze at [[Home|home]]! to yawn and bray  
+Must graze at [[motifs/home|home]]! to yawn and bray  
 ‘I guess we shall have rain to-day!’  
 Nor clog nor tether can be worse  
 Than the dead palsy of the purse.   55  
@@ -1235,7 +1235,7 @@ Ah! would She take it in her head
 To make a pair for me instead!  
 At all events, the Fancy’s free,   60  
 No traveller so bold as she.  
-From [[Fear]] and [[Poverty]] released  
+From [[concepts/fear|Fear]] and [[concepts/poverty|Poverty]] released  
 I’ll saddle Pegasus, at least,  
 And when she’s seated to her mind,  
 I within I can mount behind:   65  
@@ -1251,15 +1251,15 @@ All whom Law thwarted, Arms or Arts,
 Compel to visit foreign parts,   75  
 All hail! No compliments, I pray,  
 I’ll follow where you lead the way!  
-But ere we [[Cross|cross]] the main once more,  
+But ere we [[motifs/cross|cross]] the main once more,  
 Methinks, along my native shore,  
 Dismounting from my steed I’ll stray   80  
 Beneath the cliffs of Dumpton Bay.  
 Where, Ramsgate and Broadstairs between,  
 Rude caves and grated doors are seen:  
 And here I’ll watch till break of day,  
-(For Fancy in her [[Magic|magic]] might   85  
-Can turn broad [[Noon|noon]] to starless [[Night|night]]!)  
+(For Fancy in her magic might   85  
+Can turn broad [[motifs/noon|noon]] to starless [[motifs/night|night]]!)  
 When lo! methinks a sudden band  
 Of smock-clad smugglers round me stand.  
 Denials, oaths, in vain I try,  
@@ -1268,7 +1268,7 @@ And stow me in the boat hard by.
 Suppose us fairly now afloat,  
 Till Boulogne mouth receives our Boat.  
 But, bless us! what a numerous band  
-Of [[cockneys]] anglicise the strand!   95  
+Of cockneys anglicise the strand!   95  
 Delinquent bankrupts, leg-bail’d debtors,  
 Some for the news, and some for letters —  
 With hungry look and tarnished dress,  
@@ -1277,7 +1277,7 @@ Sick of the country for their sake    100
 Of them and France French leave I take —  
 And lo! a transport comes in view  
 I hear the merry motley crew,  
-[[Well]] skill’d in pocket to make entry,  
+[[motifs/well|Well]] skill’d in pocket to make entry,  
 Of Dieman’s Land the elected Gentry,   105  
 And founders of Australian Races. —  
 The Rogues! I see it in their faces!  
@@ -1285,10 +1285,10 @@ Receive me, Lads! I’ll go with you,
 Hunt the black swan and kangaroo,  
 And that New Holland we’ll presume    110  
 Old England with some elbow-room.  
-Across the [[Mountains|mountains]] we will roam,  
-And each man make himself a [[Home|home]]:  
+Across the [[settings/mountains|mountains]] we will roam,  
+And each man make himself a [[motifs/home|home]]:  
 Or, if old habits ne’er forsaking,  
-Like [[Clock|clock]]-work of the Devil’s making,   115  
+Like [[motifs/clock|clock]]-work of the Devil’s making,   115  
 Ourselves inveterate rogues should be,  
 We’ll have a virtuous progeny;  
 And on the dunghill of our vices  
@@ -1306,12 +1306,12 @@ Are your Delinquent Travellers!
 
 <span class="qlang-split" data-lang="it"></span>
 
-Alcuni hanno nostalgia di [[Home|casa]] — due o tre,  
+Alcuni hanno nostalgia di [[motifs/home|casa]] — due o tre,  
 al terzo anno sul Mare Artico —  
 così ci dice il prode capitano Lyon —  
 a dispetto di quegli affascinanti Esquimesi.  
-Ma oh, quante decine sono stufe di [[Home|Casa]],    5  
-smaniose di [[Paris|Parigi]] o di Roma!  
+Ma oh, quante decine sono stufe di [[motifs/home|Casa]],    5  
+smaniose di [[settings/paris|Parigi]] o di Roma!  
 Anzi! benché contenti di restare,  
 dovreste preferire il vostro focolare;  
 pure, da che la torva Guerra ha cessato il suo infuriare,  
@@ -1323,8 +1323,8 @@ La gente giurerà che, per mancanza di cauzione,
 avete passato in carcere gli ultimi cinque anni!’   15  
 Muovetevi! Vapore, o Gas, o Diligenza,  
 stiva, cabina, terza classe, gabbia da pollaio —  
-Tour, [[Journey|Viaggio]], Traversata, Ozio, Cavalcata, Passeggiata,  
-Scorsa, [[Sketch|Schizzo]], Escursione, Chiacchiera di viaggio —  
+Tour, [[motifs/journey|Viaggio]], Traversata, Ozio, Cavalcata, Passeggiata,  
+Scorsa, [[forms/sketch|Schizzo]], Escursione, Chiacchiera di viaggio —  
 ché muovervi dovete! È ormai la mania,   20  
 la legge e la moda del Secolo.  
 Basta che vi appollaiate dove Dover si accorda  
@@ -1332,12 +1332,12 @@ così stranamente con la costa di Calais,
 con un buon cannocchiale e un’aria da intenditore,  
 e avrete presto materia per un libro!   25  
 Oppure, in pallone a gas, tentate la sorte  
-come quell’avventuroso [[King of France|re di Francia]],  
+come quell’avventuroso [[characters/king-of-france|re di Francia]],  
 che, una volta, con ventimila uomini  
 salì — e poi ridiscese;  
 almeno si mosse, se non altro:    30  
 e se non resta nulla da esplorare,  
-pure, finché le vostre ruote [[Well|ben]] unte girano,  
+pure, finché le vostre ruote [[motifs/well|ben]] unte girano,  
 vi state guadagnando l’onorato nome di viaggiatore,  
 e, comodi come Giona nella Balena,  
 potete adagiarvi e sognare un racconto.    35  
@@ -1355,9 +1355,9 @@ truffa le barriere di pedaggio, ché a nessuno importa,
 e si dà mille arie —  
 mentre i ruscelli e i bottegai, si vede,  
 faranno la loro corsa verso il mare —  
-e se, intanto, come il vecchio [[King|Re]] Ceppo,   50  
+e se, intanto, come il vecchio [[archetypes/king|Re]] Ceppo,   50  
 o asino con cavezza e pastoia,  
-dovete pascolare a [[Home|casa]]! sbadigliare e ragliare  
+dovete pascolare a [[motifs/home|casa]]! sbadigliare e ragliare  
 ‘credo che oggi avremo pioggia!’  
 Né pastoia né cavezza può esser peggio  
 della paralisi mortale della borsa.   55  
@@ -1367,7 +1367,7 @@ ah!, se le venisse in testa
 di farne invece un paio per me!  
 A ogni modo, la Fantasia è libera,   60  
 nessun viaggiatore è audace quanto lei.  
-Liberato da [[Fear|Paura]] e [[Poverty|Povertà]]  
+Liberato da [[concepts/fear|Paura]] e [[concepts/poverty|Povertà]]  
 sellerò almeno Pegaso,  
 e quando lei sarà seduta a suo piacere,  
 l’io di dentro potrà montare dietro:   65  
@@ -1383,15 +1383,15 @@ tutti coloro che la Legge contrariata, le Armi o le Arti
 costringono a visitare terre straniere,   75  
 salve a tutti! Niente complimenti, vi prego,  
 vi seguirò dove aprirete la via!  
-Ma prima di [[Cross|attraversare]] ancora il mare,  
+Ma prima di [[motifs/cross|attraversare]] ancora il mare,  
 mi pare che, lungo la mia riva natia,  
 smontando dal destriero andrò vagando   80  
 sotto le scogliere di Dumpton Bay.  
 Dove, fra Ramsgate e Broadstairs,  
 si vedono rozze grotte e porte inferriate:  
 e qui veglierò fino allo spuntar del giorno,  
-(ché la Fantasia, nella sua [[Magic|magica]] potenza,   85  
-sa mutare il pieno [[Noon|meriggio]] in [[Night|notte]] senza stelle!)  
+(ché la Fantasia, nella sua magica potenza,   85  
+sa mutare il pieno [[motifs/noon|meriggio]] in [[motifs/night|notte]] senza stelle!)  
 quand’ecco!, mi pare, un’improvvisa banda  
 di contrabbandieri in camiciotto mi sta intorno.  
 Dinieghi, giuramenti, invano tento,  
@@ -1400,7 +1400,7 @@ e mi stivano nella barca lì accanto.
 Supponeteci ormai bell’e a galla,  
 finché la foce di Boulogne accoglie la nostra Barca.  
 Ma, santo cielo!, che numerosa schiera  
-di [[cockneys|cockney]] anglicizza la spiaggia!   95  
+di cockney anglicizza la spiaggia!   95  
 Falliti delinquenti, debitori datisi alla fuga,  
 chi per le notizie, chi per le lettere —  
 con sguardo affamato e abito sbiadito,  
@@ -1409,7 +1409,7 @@ Stufo del paese per causa loro,    100
 di loro e della Francia me la svigno alla francese —  
 ed ecco!, un veliero da trasporto appare in vista,  
 odo l’allegra ciurma variopinta,  
-[[Well|ben]] esperta a far breccia nelle tasche,  
+[[motifs/well|ben]] esperta a far breccia nelle tasche,  
 eletta Nobiltà della Terra di Diemen,   105  
 e fondatrice delle Razze Australiane. —  
 I furfanti! lo vedo dalle loro facce!  
@@ -1417,10 +1417,10 @@ Accoglietemi, ragazzi! verrò con voi,
 a cacciare il cigno nero e il canguro,  
 e quella Nuova Olanda la presumeremo    110  
 la vecchia Inghilterra con un po’ di spazio per i gomiti.  
-Per le [[Mountains|montagne]] andremo errando,  
-e ognuno si farà una [[Home|casa]]:  
+Per le [[settings/mountains|montagne]] andremo errando,  
+e ognuno si farà una [[motifs/home|casa]]:  
 oppure, se mai abbandonando le vecchie abitudini,  
-come [[Clock|orologeria]] di fattura diabolica,   115  
+come [[motifs/clock|orologeria]] di fattura diabolica,   115  
 noi stessi dovessimo essere furfanti inveterati,  
 avremo una progenie virtuosa;  
 e sul letamaio dei nostri vizi  
@@ -1440,7 +1440,7 @@ sono i vostri Viaggiatori Delinquenti!
 <span class="atom-split" data-atom="364_to_t_poole_an_invitation" data-title="TO T. POOLE: AN INVITATION" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,concept/friendship,concept/joy,concept/the_common_man,form/song,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
 
 
-Plucking [[Flowers|flowers]] from the Galaxy  
+Plucking [[motifs/flowers|flowers]] from the Galaxy  
 On the pinions of Abstraction,  
 I did quite forget to ax ‘e,  
 Whether you have an objaction,  
@@ -1455,7 +1455,7 @@ Of the subterrene apple
 By the erudite ‘clep’d taties —  
 With which, if you’ld wish to grapple,  
 As sure as I’m a sloven,  
-The [[Clock|clock]] will not strike twice one,  
+The [[motifs/clock|clock]] will not strike twice one,  
 When the said dish will be out of the oven,  
 And the dinner will be a nice one.  
 P.S.  
@@ -1470,7 +1470,7 @@ Friends, 1888, i. 211.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Cogliendo [[Flowers|fiori]] dalla Galassia  
+Cogliendo [[motifs/flowers|fiori]] dalla Galassia  
 sulle penne dell’Astrazione,  
 mi scordai proprio di dumandarti  
 se ci avessi qualche objezione  
@@ -1485,7 +1485,7 @@ del pomo sotterraneo
 dagli eruditi appellato patate —  
 con cui, se volessi azzuffarti,  
 com’è vero che sono uno sciattone,  
-l’[[Clock|orologio]] non batterà due volte l’una  
+l’[[motifs/clock|orologio]] non batterà due volte l’una  
 che il detto piatto sarà fuori dal forno,  
 e il pranzo sarà una bella cosa.  
 P.S.  
@@ -1513,7 +1513,7 @@ But what if Nectar, in their lingo,
 Is but another name for Stingo?  
 B.  
 Why, then we and the Gods are equally blest,  
-And Olympus an Ale-[[house]] as good as the best!  
+And Olympus an Ale-house as good as the best!  
 First published in Morning Post, September 18, 1801. Included in  
 Essays, &c., iii. 995-6. First collected P. and D. W., 1877, ii.  
 167.  
@@ -1532,7 +1532,7 @@ Ma e se il Nettare, nel loro gergo,
 non fosse che un altro nome per lo Stingo?  
 B.  
 Ebbene, allora noi e gli Dèi siamo ugualmente beati,  
-e l’Olimpo una [[house|birreria]] buona quanto la migliore!  
+e l’Olimpo una birreria buona quanto la migliore!  
 Pubblicata per la prima volta nel Morning Post, 18 sett. 1801. Inclusa in  
 Essays, &c., iii. 995-6. Prima raccolta P. and D. W., 1877, ii.  
 167.
@@ -1542,24 +1542,24 @@ Essays, &c., iii. 995-6. Prima raccolta P. and D. W., 1877, ii.
 <span class="atom-split" data-atom="366_drinking_versus_thinking" data-title="DRINKING VERSUS THINKING" data-chapter="" data-kind="intro" data-tags="topos/carpe_diem,motif/wine_and_drink,concept/satire_of_society,concept/joy,form/song,histref/greek_mythology,cluster/joy,cluster/animals,cluster/comic_verse_song"></span>
 
 
-OR, A [[Song|SONG]] AGAINST THE NEW [[philosophy|PHILOSOPHY]]  
+OR, A SONG AGAINST THE NEW PHILOSOPHY  
 My Merry men all, that drink with glee  
-This fanciful [[philosophy|Philosophy]],  
+This fanciful Philosophy,  
 Pray tell me what good is it?  
 If antient Nick should come and take,  
 The same across the Stygian Lake,  
 I guess we ne’er should miss it.  
-Away, each pale, [[Self|self]]-brooding spark  
-That goes [[Truth|truth]]-hunting in the dark,  
+Away, each pale, [[concepts/self|self]]-brooding spark  
+That goes [[concepts/truth|truth]]-hunting in the dark,  
 Away from our carousing!  
 To Pallas we resign such fowls —  
-[[Grave]] [[Birds|birds]] of wisdom! ye’re but owls,  
+[[motifs/grave|Grave]] [[motifs/birds|birds]] of wisdom! ye’re but owls,  
 And all your trade but mousing!  
 My merry men all, here’s punch and wine,  
 And spicy bishop, drink divine!  
 Let’s live while we are able.  
 While Mirth and Sense sit, hand in glove,  
-This Don [[philosophy|Philosophy]] we’ll shove  
+This Don Philosophy we’ll shove  
 Dead drunk beneath the table!  
 First published in Morning Post, September 25, 1801. Included in  
 Essays, &c., iii. 966-7. First collected P. and D. W., 1877, ii.  
@@ -1568,24 +1568,24 @@ Essays, &c., iii. 966-7. First collected P. and D. W., 1877, ii.
 
 <span class="qlang-split" data-lang="it"></span>
 
-OVVERO, UNA [[Song|CANZONE]] CONTRO LA NUOVA [[philosophy|FILOSOFIA]]  
+OVVERO, UNA CANZONE CONTRO LA NUOVA FILOSOFIA  
 O miei allegri compagni, che bevete con giubilo  
-questa fantasiosa [[philosophy|Filosofia]],  
+questa fantasiosa Filosofia,  
 ditemi, di grazia, a che serve?  
 Se il vecchio Satanasso venisse a portarsela  
 di là dal Lago Stigio,  
 credo che non ci mancherebbe mai.  
-Via, ogni pallido spirito rimuginante su di [[Self|sé]]  
-che va a caccia di [[Truth|verità]] nel buio,  
+Via, ogni pallido spirito rimuginante su di [[concepts/self|sé]]  
+che va a caccia di [[concepts/truth|verità]] nel buio,  
 via dalla nostra gozzoviglia!  
 A Pallade rimettiamo simili volatili —  
-[[Birds|Uccelli]] [[Grave|gravi]] di saggezza! non siete che gufi,  
+[[motifs/birds|Uccelli]] [[motifs/grave|gravi]] di saggezza! non siete che gufi,  
 e tutto il vostro mestiere non è che acchiappar topi!  
 O miei allegri compagni, ecco punch e vino,  
 e speziato bishop, bevanda divina!  
 Viviamo finché ne siamo capaci.  
 Mentre Allegria e Senno stanno a braccetto,  
-questo Don [[philosophy|Filosofia]] lo spingeremo  
+questo Don Filosofia lo spingeremo  
 ubriaco fradicio sotto il tavolo!  
 Pubblicata per la prima volta nel Morning Post, 25 sett. 1801. Inclusa in  
 Essays, &c., iii. 966-7. Prima raccolta P. and D. W., 1877, ii.  

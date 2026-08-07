@@ -38,7 +38,7 @@ tags:
 
 # anti religious thought
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > Historical essay on the rise and short-lived 'Age of Reason' rationalism between the Reformation and the Romantic movement (Voltaire, Montaigne, Rousseau). Themes: faith and doubt, history of ideas, the Reformation and rationalism.
@@ -59,15 +59,15 @@ tags:
 
 ## Connections
 
-**Settings:** [[Paris]], [[Europe]]
+**Settings:** [[settings/paris|Paris]], [[settings/europe|Europe]]
 
-**Topoi:** [[Golden Age]]
+**Topoi:** [[topoi/golden-age|Golden Age]]
 
-**Characters:** [[Voltaire]], [[Rousseau]], [[Montaigne]]
+**Characters:** [[historical-references/voltaire|Voltaire]], [[characters/rousseau|Rousseau]], [[characters/montaigne|Montaigne]]
 
-**Themes & Concepts:** [[Faith and Doubt]], [[Doubt]], [[Critique of Progress]], [[Reform]], [[Fanaticism]], [[War and its Cost]], [[History]]
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
-**Historical References:** [[Reformation]], [[French Revolution]], [[Romantic Movement (Sensibility)]], [[Christianity]], [[Catholic Church]], [[Renaissance]], [[Spanish Inquisition]], [[Thirty Years' War]], [[Islam]], [[Puritanism]], [[Ancient Rome]]
+**Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/doubt|Doubt]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/reform|Reform]], [[concepts/fanaticism|Fanaticism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/reformation|Reformation]], [[historical-references/french-revolution|French Revolution]], [[historical-references/romantic-movement-(sensibility)|Romantic Movement (Sensibility)]], [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/renaissance|Renaissance]], [[historical-references/spanish-inquisition|Spanish Inquisition]], [[historical-references/thirty-years'-war|Thirty Years' War]], [[historical-references/islam|Islam]], [[historical-references/puritanism|Puritanism]], [[settings/ancient-rome|Ancient Rome]]
 
 ## Testo integrale / Full text
 

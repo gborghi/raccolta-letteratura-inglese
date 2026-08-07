@@ -23,17 +23,17 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Melancholy · Suffering · Pain and Suffering]]
+*by Poe*  ·  **Cluster:** [[clusters/melancholy-·-suffering-·-pain-and-suffering|Melancholy · Suffering · Pain and Suffering]]
 
 > [!abstract] 
 > An incantatory, hauntingly musical ballad: the speaker, wandering a ghoul-haunted October woodland with his Soul (Psyche), is led to the tomb of his lost beloved Ulalume, exactly a year after burying her. Themes of grief, death, memory and the supernatural night-journey.
 
 ## Connections
 
-**Topoi:** [[Night Journey Vision]], [[Memento Mori]]
-**Motifs:** [[Death]], [[Grave]], [[Autumn]], [[Stars]], [[Memory]], [[Supernatural]]
-**Themes & Concepts:** [[Grief and Loss]], [[Mortality]], [[Melancholy]], [[Memory and Time]]
-**Forms & Genres:** [[Ballad Ballade]], [[Lyric]]
+**Topoi:** [[topoi/night-journey-vision|Night Journey Vision]], [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/death|Death]], [[motifs/grave|Grave]], [[motifs/autumn|Autumn]], [[motifs/stars|Stars]], [[motifs/memory|Memory]], [[motifs/supernatural|Supernatural]]
+**Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/mortality|Mortality]], [[concepts/melancholy|Melancholy]], [[concepts/memory-and-time|Memory and Time]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

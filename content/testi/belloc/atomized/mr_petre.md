@@ -50,19 +50,19 @@ IT WAS THE 3rd of April, 1953. As the big rotor came up through the Sound at the
 
 It was nearly two years since he had seen his own country, and he felt the eagerness of his return almost as though he were a boy again. He was a short, rather stout man in later middle age, with grey curling hair, clean shaven and in his gesture and expression most unmistakably English. His clothes and his boots were American, and his hat; and what was more, when he spoke there was just that trace of American accent and that habitual use of American locutions which so often marks the man who has lived, though for no more than a few months, in wholly American surroundings.
 
-Everything was ready for his landing. He would not be troubled with so much as a handbag. The blessed abolition of passports in 1933 as for Englishmen landing in England saved him the trouble of even that small encumbrance; and as he hated his pockets bulging with papers, he had locked all, down to the least important notes, in a little dispatch box and handed it to his steward. He had nothing on him but one of the tickets under the new system, the ordinary railway ticket for [[London]] which they exchange on board against the steamship receipt; and a good wad of £63 in English notes, with a handful of change; he had not even kept a nickel for remembrance. He could recover what he required by the time he had taken his seat in the train; and all this disembarrassment, coupled with the long vacuity of the sea voyage, gave him an odd sense of freedom.
+Everything was ready for his landing. He would not be troubled with so much as a handbag. The blessed abolition of passports in 1933 as for Englishmen landing in England saved him the trouble of even that small encumbrance; and as he hated his pockets bulging with papers, he had locked all, down to the least important notes, in a little dispatch box and handed it to his steward. He had nothing on him but one of the tickets under the new system, the ordinary railway ticket for [[settings/london|London]] which they exchange on board against the steamship receipt; and a good wad of £63 in English notes, with a handful of change; he had not even kept a nickel for remembrance. He could recover what he required by the time he had taken his seat in the train; and all this disembarrassment, coupled with the long vacuity of the sea voyage, gave him an odd sense of freedom.
 
 Odd... and he knew that it was odd. It was a little too complete. His mind seemed to be holding nothing but the scene before him: the vigorous sky, the leaping water and the green above the grey of the rocks with their white fringe of foam.
 
 He felt unnaturally careless. And when his thoughts turned to his luggage and its arrangement, to the petty incidents of that same morning, they were blurred and faded. Nor did he concern himself with their increasing faintness... he enjoyed relief in it. But he knew that the relief was strange.
 
-His daily life in America had been too much preoccupied, and that for a long time past. He had gone over to judge and help direct an investment in land, which had not turned out too brilliantly. He had not even been able to sell out as he wished; he was still held to it and its mortgage. He had not put things right. He had found it of no purpose to remain. He had turned back homewards — and yet he suffered an uneasy fear that in his absence things might go worse. Too much of his small fortune had been locked up in that venture, and the prospect before him, when he should reach his rooms in [[London]], was not over bright. He was not sure that he could keep up the modest scale of living on which he had arranged his life for the last ten years before this voyage to the States. The place he had inherited in Dorsetshire, and which had been at his disposal since his mother’s death fifteen years earlier, he had let; but there were heavy charges upon it, and he could see little income in what remained of its revenue.
+His daily life in America had been too much preoccupied, and that for a long time past. He had gone over to judge and help direct an investment in land, which had not turned out too brilliantly. He had not even been able to sell out as he wished; he was still held to it and its mortgage. He had not put things right. He had found it of no purpose to remain. He had turned back homewards — and yet he suffered an uneasy fear that in his absence things might go worse. Too much of his small fortune had been locked up in that venture, and the prospect before him, when he should reach his rooms in [[settings/london|London]], was not over bright. He was not sure that he could keep up the modest scale of living on which he had arranged his life for the last ten years before this voyage to the States. The place he had inherited in Dorsetshire, and which had been at his disposal since his mother’s death fifteen years earlier, he had let; but there were heavy charges upon it, and he could see little income in what remained of its revenue.
 
 Nevertheless, he did now feel that furious sense of lightness and of carelessness. It was not connected with the returning home: it seemed a new mood of a kind by itself. It came in deep successive waves, each washing out, while it lasted, all responsibility and care; and twice, as they neared the breakwater, he went through an abnormal moment or two of complete freedom, like that of a man who has just wakened from a profound sleep, and has not yet remembered the burdens and details of life.
 
 * * * * *
 
-When he had landed with the other passengers that unknown mood returned upon him with greatly increased force and with more permanence. It enveloped him like a mist. It made him neglectful of all appointment and watch. He forgot his steward altogether; and his luggage, as though it had never been. He found himself doing only that which he could do without any effort of recollection. His empty-handedness, his neglect, made him the first to walk up the platform along the train for [[London]]. He took no heed of the reserved places. He chose out an empty seat in a first-class carriage at the head of the train and took a corner looking forward. There he sat in the same continued mood of content and vacuity.
+When he had landed with the other passengers that unknown mood returned upon him with greatly increased force and with more permanence. It enveloped him like a mist. It made him neglectful of all appointment and watch. He forgot his steward altogether; and his luggage, as though it had never been. He found himself doing only that which he could do without any effort of recollection. His empty-handedness, his neglect, made him the first to walk up the platform along the train for [[settings/london|London]]. He took no heed of the reserved places. He chose out an empty seat in a first-class carriage at the head of the train and took a corner looking forward. There he sat in the same continued mood of content and vacuity.
 
 The train filled, and the crush of porters hurrying and crossing each other upon the platform made confusion all along its line. One in particular, badly chivied by an anxious steward, who had implored leave to land in search of a missing client, was asking what he should do. That porter had put a dispatch box, a rug and a small strapped packet upon a reserved place. He had noted the name. But no one had come to claim them. The porter and the steward, looking back to where a couple of belated men were running, saw no sign of the expected figure. The glorious official to whom a clamorous appeal was made refused to delay the train. The whistle sounded, the rotor buzzed, the train drew out. The porter and the steward felt each in his own degree that agony of loss which greater men know when they open their paper of a morning and read of a slump. The one was widowed of a sovereign. The other of half a crown.
 
@@ -80,7 +80,7 @@ Then overwhelmingly, in a flash, the truth broke upon him. He had lost all conce
 
 He passed his hand across his forehead, and stared at the empty cushions opposite him, waiting for this very unpleasant mental gap to close up, and for his normal self to return. It did not return. What was worse, he felt a sort of certitude within him that it had gone for ever — that it was no good looking for it. It was as though he had died.
 
-Through all the remaining hour of the run into Paddington he was seeking, seeking, seeking. The Thames, distant Windsor, Slough went past, the first houses of London: he knew them all as well as he knew his own voice; but of any link between these and himself, of any action or emotion of his past [[Identity|identity]], there was no trace at all. It was not even blank. It was nothingness.
+Through all the remaining hour of the run into Paddington he was seeking, seeking, seeking. The Thames, distant Windsor, Slough went past, the first houses of London: he knew them all as well as he knew his own voice; but of any link between these and himself, of any action or emotion of his past [[concepts/identity|identity]], there was no trace at all. It was not even blank. It was nothingness.
 
 The train drew up, the herd of passengers bundled MR. PETRE out, and he, at the head of the train, among the first. He went uncertainly sauntering down the platform. He was half inclined to ask someone where the train had come from. He even found himself listening to one or two groups of people in the hope that he should hear its name; but he was ashamed to listen too long, and still more ashamed to put the question which had at first occurred to him. It was a pity. If he had acted there and then he would have saved himself a great deal of coming trouble. But he had already begun to feel a mixture of shame and fear lest his humiliation should be discovered. That dangerous mood was to grow.
 
@@ -350,7 +350,7 @@ Charlie Terrard and his Catch were at the door of the Splendide. He looked over 
 
 “I’ll get you fifty thousand. Round about 2½ one ought to”; and was gone.
 
-Charlie Terrard hastened; he was in the [[City]] just at a quarter past three, and he had said behind closed doors, and to his partner alone, what he had to say. Only after hours was the thing released.
+Charlie Terrard hastened; he was in the [[motifs/city|City]] just at a quarter past three, and he had said behind closed doors, and to his partner alone, what he had to say. Only after hours was the thing released.
 
 With the next morning everyone — that is, all the fifty or sixty who count — was full of it. John K. Petre was buying Touaregs.
 
@@ -610,7 +610,7 @@ MR. PETRE, SETTLED in that country inn, felt for the first time in those days a 
 
 He enjoyed a deep night’s rest, and by the next morning had already determined to look up a train for Southampton and the hours of the boats, when the morning paper, which waited upon his table, turned his mind suddenly into another channel. For on the last page, where he had casually opened it, he saw a violent headline: “BLAZING TOUAREGS,” and read the astonishing series of prices soaring up, in the course of the day before, the morrow of his leaving town:
 
-He read the comment of the [[City]] Editor — the comment of a man ignorant, puzzled, and pretending in his style omniscience. Someone had got early news of a new French surrender; a new pocket of the deposits had been found — it was said. It was better to await confirmation. The sudden rise seemed hardly justified — and so on. The [[City]] Editor was groping. Yet what had happened was simple enough. First had come a few little heaves. Everyone in that luncheon-room — except the banker — had given their orders. Even the kind old Cabinet Minister, who, driving away with his niece, the banker’s wife, had with difficulty grasped what was toward, was dragged in. — For that excellent woman had bawled at him as they span away from Mrs. Cyril’s door, “Uncle Tom, buy Touaregs!” — and Uncle Tom, with his gentle, futile smile had said, “Eh, what?” The lady had repeated in a scream, “Buy Touaregs!” and the word “buy” had penetrated the passage of that senile ear. A younger gleam had illumined the statesman’s eye; he had said almost briskly, “Eh, what? Buy what?” His niece sinking back pettishly on the cushion had muttered, “Silly old ass!” Then, remembering a common interest, she had braced herself to a supreme effort and roared, “TOUAREGS!” and seeing ineptitude spreading once more over her uncle’s finely inherited features, had taken a little gold pencil and a diary from her bag, had scribbled in shaky letters to the bumping of the [[Machine|machine]], “TOUAREGS” — torn off the page, and thrust it into his hand. He nodded. At last he understood. And she dropped him at his door just in time to get the order through.
+He read the comment of the [[motifs/city|City]] Editor — the comment of a man ignorant, puzzled, and pretending in his style omniscience. Someone had got early news of a new French surrender; a new pocket of the deposits had been found — it was said. It was better to await confirmation. The sudden rise seemed hardly justified — and so on. The [[motifs/city|City]] Editor was groping. Yet what had happened was simple enough. First had come a few little heaves. Everyone in that luncheon-room — except the banker — had given their orders. Even the kind old Cabinet Minister, who, driving away with his niece, the banker’s wife, had with difficulty grasped what was toward, was dragged in. — For that excellent woman had bawled at him as they span away from Mrs. Cyril’s door, “Uncle Tom, buy Touaregs!” — and Uncle Tom, with his gentle, futile smile had said, “Eh, what?” The lady had repeated in a scream, “Buy Touaregs!” and the word “buy” had penetrated the passage of that senile ear. A younger gleam had illumined the statesman’s eye; he had said almost briskly, “Eh, what? Buy what?” His niece sinking back pettishly on the cushion had muttered, “Silly old ass!” Then, remembering a common interest, she had braced herself to a supreme effort and roared, “TOUAREGS!” and seeing ineptitude spreading once more over her uncle’s finely inherited features, had taken a little gold pencil and a diary from her bag, had scribbled in shaky letters to the bumping of the [[motifs/machine|machine]], “TOUAREGS” — torn off the page, and thrust it into his hand. He nodded. At last he understood. And she dropped him at his door just in time to get the order through.
 
 Charlie Terrard had done better. Better than the banker’s wife, better than the kindly old Cabinet Minister, better than the two ex-Lord Chancellors, better than Mrs. Cyril herself; better even than Marjorie Kayle; better, far better, than the solid banker himself, who as he trudged manfully back to his office, had turned the thing over in his mind and had determined with sound business sense that when a man like John K. Petre said publicly that he was buying it meant quite certainly that he was unloading. Therefore had that banker shrewdly refrained from touching the affair and thereby missed a pile.
 
@@ -628,7 +628,7 @@ There was only one letter, in the business envelope of Blake and Blake, upon his
 
 The importance of any sum of money differs with the habits of the recipient. It is possible that Mr. Petre in the full knowledge of what and who he was would have found that sum sufficient, but nothing overwhelming. It is possible that it might have seemed to him an incredible fortune. If he were what all indications made him out to be, it was but one fairly successful minor transaction. If he were what a very vague, very confused, but permanent profound sense warned him that he was, it was a miracle, changing all his prospects.
 
-But neither the one attitude nor the other was that of Mr. Petre as he spread out the cheque before him and stared rather stupidly at the figures. His preoccupation was not with the magnitude of the sum, nor with its comparative insignificance. His preoccupation was with a much simpler question — of what he should do with that little bit of pink paper. He knew, just as he knew the Strand, and the map of England, and Bradshaw and the rest of it — though he did not know himself — that there were such things as banks and banking accounts, and that pieces of paper of this kind went through that [[Machine|machine]]. But he stood like a child in the matter of how to begin.
+But neither the one attitude nor the other was that of Mr. Petre as he spread out the cheque before him and stared rather stupidly at the figures. His preoccupation was not with the magnitude of the sum, nor with its comparative insignificance. His preoccupation was with a much simpler question — of what he should do with that little bit of pink paper. He knew, just as he knew the Strand, and the map of England, and Bradshaw and the rest of it — though he did not know himself — that there were such things as banks and banking accounts, and that pieces of paper of this kind went through that [[motifs/machine|machine]]. But he stood like a child in the matter of how to begin.
 
 Here again the simplest course would have been to have looked up Terrard in the book, met him and consulted him. But that would have been to give himself away, and to open that series of questions the starting of which he had come to dread as a man dreads an operation. He did what all men do when they are quite at a loss. He plunged. He put that cheque into an hotel envelope, put the envelope in his pocket, walked aimlessly through half a dozen turnings, and entered the doors of the first bank he saw. It was a branch, neither small nor great, doing business briskly in a quarter of large shops; one of a score of such branches in central London, nothing more.
 
@@ -2034,7 +2034,7 @@ The Great Specialist turned upon him a face of stone.
 
 “No doubt,” said Mr. Petre. “No doubt. Well, yes, if that’s the name. My memory failed completely and suddenly about noon on April 3rd, 1953 — this year. I remember nothing of myself before that moment.” He had got it all in by rapid speaking.
 
-“Pray don’t interrupt me,” said the Great Specialist, in the tone of a governess, only a little more pettishly. “It is a case of loss of memory, or rather, let us call it loss of [[Identity|identity]].” He twisted his head sideways and murmured to himself: “What Pfungst has named ‘loss of the time-space continuum in its subjective aspect.” Then he got his head into the normal position again and murmured in a still lower tone, which Mr. Petre could only just catch: “Paranoia penipsissimisma, some people call it.” He added a little louder, looking up at Mr. Petre and presenting the title with a touch of affection, “Also called Bantam’s Complex, from Bantam, Sir George Bantam.”
+“Pray don’t interrupt me,” said the Great Specialist, in the tone of a governess, only a little more pettishly. “It is a case of loss of memory, or rather, let us call it loss of [[concepts/identity|identity]].” He twisted his head sideways and murmured to himself: “What Pfungst has named ‘loss of the time-space continuum in its subjective aspect.” Then he got his head into the normal position again and murmured in a still lower tone, which Mr. Petre could only just catch: “Paranoia penipsissimisma, some people call it.” He added a little louder, looking up at Mr. Petre and presenting the title with a touch of affection, “Also called Bantam’s Complex, from Bantam, Sir George Bantam.”
 
 “Indeed,” said Mr. Petre, slightly interested, but with too much gnawing at his heart to be really gripped by the thing.
 
@@ -2536,11 +2536,11 @@ Then he bethought him of the dear old family lawyer, Mr. Wilkins.
 
 Everything belonging to that real life of his — better, for all its troubles than the mad episode of fortune — was to Mr. Blagden now at once very distinct and very small, like a picture looked at through one of these diminishing glasses which the block makers use to decide on the effect of a wash drawing when it shall be reduced to scale. The image of Mr. Wilkins stood out thus exceedingly sharp and yet still remote. It was Mr. Wilkins who had presided over the steady decline of his mother’s income and his own. It was Mr. Wilkins who had drawn a substantial income from loyal work performed for a dozen such families of the declining gentry — clients inherited from his worthy father and grandfather; for it was a fine old firm. It was Mr. Wilkins who had given him every possible piece of advice — on legal technicalities always accurate, on policy always bad — since he had come of age. To Mr. Wilkins he now turned. He remembered the telephone number well enough, and considered curiously within himself what a strange thing this faculty of memory must be, that not only faded, but could be wholly exiled, and then could present the past again with all the violent reality of immediate things.
 
-As he waited for the answer on the [[Machine|machine]] it struck him that Mr. Wilkins might be dead. He was twelve years older than Mr. Blagden, and an absence of twenty-eight months is a gap. To his joy he heard the same clerk’s familiar voice answering with the same irritability it had invariably answered with in the old days, he heard the familiar formula when he had given his name, that he would be put through to Mr. Wilkins; and at last he heard once more the familiar tones of the principal, still clear in his sober age. They wasted very little time in greetings. Mr. Wilkins was free? Mr. Blagden would go round now, at once.
+As he waited for the answer on the [[motifs/machine|machine]] it struck him that Mr. Wilkins might be dead. He was twelve years older than Mr. Blagden, and an absence of twenty-eight months is a gap. To his joy he heard the same clerk’s familiar voice answering with the same irritability it had invariably answered with in the old days, he heard the familiar formula when he had given his name, that he would be put through to Mr. Wilkins; and at last he heard once more the familiar tones of the principal, still clear in his sober age. They wasted very little time in greetings. Mr. Wilkins was free? Mr. Blagden would go round now, at once.
 
 An old association of more than thirty years endeared the two men to each other; money lost upon the one side and gained upon the other was a further bond.
 
-Mr. Wilkins heard patiently the details; of the sudden loss of memory, the name Petre, the financial dealings, the writ. He showed not the faintest surprise at any part of the extraordinary story of lost [[Identity|identity]] (which he entirely disbelieved), he jotted down dates and then gave tongue.
+Mr. Wilkins heard patiently the details; of the sudden loss of memory, the name Petre, the financial dealings, the writ. He showed not the faintest surprise at any part of the extraordinary story of lost [[concepts/identity|identity]] (which he entirely disbelieved), he jotted down dates and then gave tongue.
 
 He used the customary string of technicalities, to each of which was attached a customary payment. He took for granted, in that clear-cut professional manner which was part of his job, that his client had done something quite amazingly astute; that he had been running very close to the wind. He felt a strong professional admiration for so much daring and skill. Who would have expected it of Peter Blagden? He changed his tone to one of conversation and said:
 
@@ -2754,19 +2754,19 @@ IT WAS THE 3rd of April, 1953. As the big rotor came up through the Sound at the
 
 It was nearly two years since he had seen his own country, and he felt the eagerness of his return almost as though he were a boy again. He was a short, rather stout man in later middle age, with grey curling hair, clean shaven and in his gesture and expression most unmistakably English. His clothes and his boots were American, and his hat; and what was more, when he spoke there was just that trace of American accent and that habitual use of American locutions which so often marks the man who has lived, though for no more than a few months, in wholly American surroundings.
 
-Everything was ready for his landing. He would not be troubled with so much as a handbag. The blessed abolition of passports in 1933 as for Englishmen landing in England saved him the trouble of even that small encumbrance; and as he hated his pockets bulging with papers, he had locked all, down to the least important notes, in a little dispatch box and handed it to his steward. He had nothing on him but one of the tickets under the new system, the ordinary railway ticket for [[London]] which they exchange on board against the steamship receipt; and a good wad of £63 in English notes, with a handful of change; he had not even kept a nickel for remembrance. He could recover what he required by the time he had taken his seat in the train; and all this disembarrassment, coupled with the long vacuity of the sea voyage, gave him an odd sense of freedom.
+Everything was ready for his landing. He would not be troubled with so much as a handbag. The blessed abolition of passports in 1933 as for Englishmen landing in England saved him the trouble of even that small encumbrance; and as he hated his pockets bulging with papers, he had locked all, down to the least important notes, in a little dispatch box and handed it to his steward. He had nothing on him but one of the tickets under the new system, the ordinary railway ticket for [[settings/london|London]] which they exchange on board against the steamship receipt; and a good wad of £63 in English notes, with a handful of change; he had not even kept a nickel for remembrance. He could recover what he required by the time he had taken his seat in the train; and all this disembarrassment, coupled with the long vacuity of the sea voyage, gave him an odd sense of freedom.
 
 Odd... and he knew that it was odd. It was a little too complete. His mind seemed to be holding nothing but the scene before him: the vigorous sky, the leaping water and the green above the grey of the rocks with their white fringe of foam.
 
 He felt unnaturally careless. And when his thoughts turned to his luggage and its arrangement, to the petty incidents of that same morning, they were blurred and faded. Nor did he concern himself with their increasing faintness... he enjoyed relief in it. But he knew that the relief was strange.
 
-His daily life in America had been too much preoccupied, and that for a long time past. He had gone over to judge and help direct an investment in land, which had not turned out too brilliantly. He had not even been able to sell out as he wished; he was still held to it and its mortgage. He had not put things right. He had found it of no purpose to remain. He had turned back homewards — and yet he suffered an uneasy fear that in his absence things might go worse. Too much of his small fortune had been locked up in that venture, and the prospect before him, when he should reach his rooms in [[London]], was not over bright. He was not sure that he could keep up the modest scale of living on which he had arranged his life for the last ten years before this voyage to the States. The place he had inherited in Dorsetshire, and which had been at his disposal since his mother’s death fifteen years earlier, he had let; but there were heavy charges upon it, and he could see little income in what remained of its revenue.
+His daily life in America had been too much preoccupied, and that for a long time past. He had gone over to judge and help direct an investment in land, which had not turned out too brilliantly. He had not even been able to sell out as he wished; he was still held to it and its mortgage. He had not put things right. He had found it of no purpose to remain. He had turned back homewards — and yet he suffered an uneasy fear that in his absence things might go worse. Too much of his small fortune had been locked up in that venture, and the prospect before him, when he should reach his rooms in [[settings/london|London]], was not over bright. He was not sure that he could keep up the modest scale of living on which he had arranged his life for the last ten years before this voyage to the States. The place he had inherited in Dorsetshire, and which had been at his disposal since his mother’s death fifteen years earlier, he had let; but there were heavy charges upon it, and he could see little income in what remained of its revenue.
 
 Nevertheless, he did now feel that furious sense of lightness and of carelessness. It was not connected with the returning home: it seemed a new mood of a kind by itself. It came in deep successive waves, each washing out, while it lasted, all responsibility and care; and twice, as they neared the breakwater, he went through an abnormal moment or two of complete freedom, like that of a man who has just wakened from a profound sleep, and has not yet remembered the burdens and details of life.
 
 * * * * *
 
-When he had landed with the other passengers that unknown mood returned upon him with greatly increased force and with more permanence. It enveloped him like a mist. It made him neglectful of all appointment and watch. He forgot his steward altogether; and his luggage, as though it had never been. He found himself doing only that which he could do without any effort of recollection. His empty-handedness, his neglect, made him the first to walk up the platform along the train for [[London]]. He took no heed of the reserved places. He chose out an empty seat in a first-class carriage at the head of the train and took a corner looking forward. There he sat in the same continued mood of content and vacuity.
+When he had landed with the other passengers that unknown mood returned upon him with greatly increased force and with more permanence. It enveloped him like a mist. It made him neglectful of all appointment and watch. He forgot his steward altogether; and his luggage, as though it had never been. He found himself doing only that which he could do without any effort of recollection. His empty-handedness, his neglect, made him the first to walk up the platform along the train for [[settings/london|London]]. He took no heed of the reserved places. He chose out an empty seat in a first-class carriage at the head of the train and took a corner looking forward. There he sat in the same continued mood of content and vacuity.
 
 The train filled, and the crush of porters hurrying and crossing each other upon the platform made confusion all along its line. One in particular, badly chivied by an anxious steward, who had implored leave to land in search of a missing client, was asking what he should do. That porter had put a dispatch box, a rug and a small strapped packet upon a reserved place. He had noted the name. But no one had come to claim them. The porter and the steward, looking back to where a couple of belated men were running, saw no sign of the expected figure. The glorious official to whom a clamorous appeal was made refused to delay the train. The whistle sounded, the rotor buzzed, the train drew out. The porter and the steward felt each in his own degree that agony of loss which greater men know when they open their paper of a morning and read of a slump. The one was widowed of a sovereign. The other of half a crown.
 
@@ -2777,25 +2777,25 @@ When he woke it was but slowly, for evidently he had been more fatigued than he 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO I
+CAPITOLO I
 
 Era il 3 aprile 1953. Mentre l’enorme rotore emergeva dal Sound alla fine dei suoi dieci giorni di viaggio da New York, un passeggero seduto da solo nella parte anteriore del ponte osservava le rive del Devon, così vicine su entrambi i lati, e si godeva della primavera.
 
 Erano passati quasi due anni da quando aveva visto il suo paese natale, e provava un desiderio ardente di tornarci, come se fosse di nuovo un ragazzo. Era un uomo di statura media, piuttosto robusto, di mezza età; i suoi capelli erano grigi e ricci, era rasato di fresco, e nei suoi gesti e nell’espressione del viso si riconosceva chiaramente l’essere inglese. I suoi vestiti e le sue scarpe erano americani, così come il suo cappello; inoltre, quando parlava, si percepiva quel leggero accento americano e quell’uso abituale di espressioni tipiche degli Stati Uniti, caratteristici di chi ha vissuto, anche se solo per pochi mesi, in un ambiente completamente americano.
 
-Tutto era pronto per il suo sbarco. Non avrebbe dovuto portare con sé nemmeno una borsa a mano. La benedetta abolizione dei passaporti nel 1933, per quanto riguardava gli inglesi che sbarcavano in Inghilterra, gli aveva risparmiato anche quel piccolo incomodo; e poiché odiava che le sue tasche fossero piene di documenti, aveva messo tutto, comprese le note meno importanti, in una piccola valigetta e l’aveva affidata al suo steward. Non aveva con sé nulla se non un biglietto del nuovo sistema: il normale biglietto ferroviario per [[London|Londra]], che veniva scambiato a bordo del treno contro il ricevuto della nave; e una buona somma di 63 sterline in banconote, con qualche moneta di resto. Non aveva nemmeno tenuto un centesimo come ricordo. Avrebbe potuto recuperare tutto ciò di cui aveva bisogno non appena si fosse seduto sul treno; e tutta questa libertà, unita alla lunga monotonia del viaggio in mare, gli dava una strana sensazione di liberazione.
+Tutto era pronto per il suo sbarco. Non avrebbe dovuto portare con sé nemmeno una borsa a mano. La benedetta abolizione dei passaporti nel 1933, per quanto riguardava gli inglesi che sbarcavano in Inghilterra, gli aveva risparmiato anche quel piccolo incomodo; e poiché odiava che le sue tasche fossero piene di documenti, aveva messo tutto, comprese le note meno importanti, in una piccola valigetta e l’aveva affidata al suo steward. Non aveva con sé nulla se non un biglietto del nuovo sistema: il normale biglietto ferroviario per [[settings/london|Londra]], che veniva scambiato a bordo del treno contro il ricevuto della nave; e una buona somma di 63 sterline in banconote, con qualche moneta di resto. Non aveva nemmeno tenuto un centesimo come ricordo. Avrebbe potuto recuperare tutto ciò di cui aveva bisogno non appena si fosse seduto sul treno; e tutta questa libertà, unita alla lunga monotonia del viaggio in mare, gli dava una strana sensazione di liberazione.
 
 Strano, e lui sapeva che era strano. Era tutto troppo perfetto. La sua mente sembrava contenere soltanto quella scena davanti a lui: il cielo vivace, l’acqua che schizzava in aria e il verde che si sovrapponeva al grigio delle rocce, con i loro bordi bianchi di schiuma.
 
 Si sentiva in modo innaturale spensierato. E quando i suoi pensieri tornavano al suo bagaglio e alla sua disposizione, ai piccoli incidenti di quella stessa mattina, tutto diventava vago e sfumato. Non si preoccupava nemmeno del fatto che quei ricordi diventassero sempre più deboli, anzi, ne provava sollievo. Ma sapeva che quel sollievo era strano.
 
-La sua vita quotidiana in America era stata troppo assorbita da molte responsabilità, e questo per un lungo periodo. Aveva cercato di valutare e gestire un investimento immobiliare, ma i risultati non erano stati molto positivi. Non era nemmeno riuscito a vendere l’immobile come avrebbe voluto; rimaneva ancora legato ad esso e al relativo mutuo. Non era riuscito a risolvere i problemi legati a quell’investimento. Aveva deciso che non aveva senso continuare a restare laggiù, quindi era tornato a casa, ma provava un timore insopprimibile che, in sua assenza, le cose potessero peggiorare. Troppa della sua piccola fortuna era stata investita in quell’impresa, e la prospettiva al suo ritorno a [[London|Londra]] non sembrava affatto incoraggiante. Non era sicuro di riuscire a mantenere lo stesso tenore di vita modesto a cui si era abituato negli ultimi dieci anni, prima di partire per gli Stati Uniti. La proprietà che aveva ereditato nel Dorsetshire, e che era stata a sua disposizione dal momento della morte di sua madre quindici anni prima, l’aveva affittata; tuttavia le spese legate ad essa erano molto elevate, e gli introiti rimanenti sembravano insufficienti.
+La sua vita quotidiana in America era stata troppo assorbita da molte responsabilità, e questo per un lungo periodo. Aveva cercato di valutare e gestire un investimento immobiliare, ma i risultati non erano stati molto positivi. Non era nemmeno riuscito a vendere l’immobile come avrebbe voluto; rimaneva ancora legato ad esso e al relativo mutuo. Non era riuscito a risolvere i problemi legati a quell’investimento. Aveva deciso che non aveva senso continuare a restare laggiù, quindi era tornato a casa, ma provava un timore insopprimibile che, in sua assenza, le cose potessero peggiorare. Troppa della sua piccola fortuna era stata investita in quell’impresa, e la prospettiva al suo ritorno a [[settings/london|Londra]] non sembrava affatto incoraggiante. Non era sicuro di riuscire a mantenere lo stesso tenore di vita modesto a cui si era abituato negli ultimi dieci anni, prima di partire per gli Stati Uniti. La proprietà che aveva ereditato nel Dorsetshire, e che era stata a sua disposizione dal momento della morte di sua madre quindici anni prima, l’aveva affittata; tuttavia le spese legate ad essa erano molto elevate, e gli introiti rimanenti sembravano insufficienti.
 
 Tuttavia, ora provava davvero quella furiosa sensazione di leggerezza e di spensieratezza. Non era legata al ritorno a casa: sembrava piuttosto un nuovo stato d’animo a sé stante. Arrivava in ondate successive e profonde, ognuna delle quali, per tutto il tempo che durava, cancellava ogni responsabilità e preoccupazione; e due volte, mentre si avvicinavano al frangiflutti, provò momenti di completa libertà, come quelli di una persona appena risvegliata da un sonno profondo, che ancora non ricorda i pesi e i dettagli della vita.
 
 * * * * *
 
-Quando sbarcò insieme agli altri passeggeri, quell’umore misterioso tornò su di lui con molta più intensità e permanenza. Lo avvolse come una nebbia; lo fece dimenticare ogni appuntamento e ogni responsabilità. Dimenticò completamente il proprio bagaglio, come se non esistesse affatto. Si ritrovò a fare soltanto ciò che poteva fare senza alcuno sforzo di memoria. La sua negligenza lo fece essere il primo ad avvicinarsi al treno per [[London|Londra]]. Non prestò attenzione ai posti riservati; scelse un posto vuoto in una carrozza di prima classe, all’inizio del treno, e si sedette guardando davanti a sé. Lì rimase, immerso nello stesso stato di soddisfazione e distacco.
+Quando sbarcò insieme agli altri passeggeri, quell’umore misterioso tornò su di lui con molta più intensità e permanenza. Lo avvolse come una nebbia; lo fece dimenticare ogni appuntamento e ogni responsabilità. Dimenticò completamente il proprio bagaglio, come se non esistesse affatto. Si ritrovò a fare soltanto ciò che poteva fare senza alcuno sforzo di memoria. La sua negligenza lo fece essere il primo ad avvicinarsi al treno per [[settings/london|Londra]]. Non prestò attenzione ai posti riservati; scelse un posto vuoto in una carrozza di prima classe, all’inizio del treno, e si sedette guardando davanti a sé. Lì rimase, immerso nello stesso stato di soddisfazione e distacco.
 
 Il treno si riempì, e il caos causato dai facchini che si affrettavano avanti e indietro sul marciapiede creò confusione lungo tutta la sua linea. In particolare, un facchino veniva pressato con insistenza da un impaziente addetto al servizio passeggeri, il quale aveva chiesto di scendere dal treno per cercare un cliente scomparso. Quel facchino aveva posizionato una scatola da viaggio, un tappeto e un piccolo pacco legato su un posto riservato; aveva anche annotato il nome del destinatario. Ma nessuno era venuto a ritirare i bagagli. Il facchino e l’addetto al servizio passeggeri, guardando indietro verso due uomini che arrivavano in ritardo, non videro traccia della persona attesa. L’autorità competente, a cui era stata rivolta una supplica disperata, rifiutò di far ritardare il treno. Il fischio suonò, il treno si mise in movimento. Il facchino e l’addetto al servizio passeggeri provavano entrambi quella stessa angoscia della perdita che anche persone più importanti sperimentano quando, la mattina, leggono di un fallimento. Uno aveva perso una moneta da dieci sterline; l’altro, mezza corona.
 
@@ -2818,7 +2818,7 @@ Then overwhelmingly, in a flash, the truth broke upon him. He had lost all conce
 
 He passed his hand across his forehead, and stared at the empty cushions opposite him, waiting for this very unpleasant mental gap to close up, and for his normal self to return. It did not return. What was worse, he felt a sort of certitude within him that it had gone for ever — that it was no good looking for it. It was as though he had died.
 
-Through all the remaining hour of the run into Paddington he was seeking, seeking, seeking. The Thames, distant Windsor, Slough went past, the first houses of [[London]]: he knew them all as well as he knew his own voice; but of any link between these and himself, of any action or emotion of his past [[Identity|identity]], there was no trace at all. It was not even blank. It was nothingness.
+Through all the remaining hour of the run into Paddington he was seeking, seeking, seeking. The Thames, distant Windsor, Slough went past, the first houses of [[settings/london|London]]: he knew them all as well as he knew his own voice; but of any link between these and himself, of any action or emotion of his past [[concepts/identity|identity]], there was no trace at all. It was not even blank. It was nothingness.
 
 The train drew up, the herd of passengers bundled MR. PETRE out, and he, at the head of the train, among the first. He went uncertainly sauntering down the platform. He was half inclined to ask someone where the train had come from. He even found himself listening to one or two groups of people in the hope that he should hear its name; but he was ashamed to listen too long, and still more ashamed to put the question which had at first occurred to him. It was a pity. If he had acted there and then he would have saved himself a great deal of coming trouble. But he had already begun to feel a mixture of shame and fear lest his humiliation should be discovered. That dangerous mood was to grow.
 
@@ -2826,7 +2826,7 @@ Mechanically he hailed one of the new rotor taxis — he recognised them, though
 
 Now the man who drove the taxi judged tips by wealth and wealth by external signs. So he said, with simple judgment, “The Splendide?”
 
-His fare nodded hastily and got in. Anywhere would do. Here again the name was perfectly familiar to him. The picture of the big hotel in his mind was quite clear. He could have told you exactly where it was in [[London]]. But for the soul of him he couldn’t have told you how he knew. He nodded, and the rotor cab jerked and plunged and pulled up sharp and jerked forward again for its half-hour to the Splendide, with the stricken man inside concentrating away for dear life and getting nowhere.
+His fare nodded hastily and got in. Anywhere would do. Here again the name was perfectly familiar to him. The picture of the big hotel in his mind was quite clear. He could have told you exactly where it was in [[settings/london|London]]. But for the soul of him he couldn’t have told you how he knew. He nodded, and the rotor cab jerked and plunged and pulled up sharp and jerked forward again for its half-hour to the Splendide, with the stricken man inside concentrating away for dear life and getting nowhere.
 
 During the Berkeley Street block, and to the whirring of the mighty little engine and the shaking of the cab, he suddenly shouted PETRE at the top of his voice. The driver opened the door sharply and barked at him, “What say?”
 
@@ -2851,7 +2851,7 @@ Poi, improvvisamente e con grande chiarezza, la verità gli si rivelò. Aveva co
 
 Si passò la mano sulla fronte e fissò i cuscini vuoti di fronte a sé, aspettando che quel fastidioso vuoto mentale si colmasse e che il suo normale io tornasse. Ma non tornò. Peggio ancora, sentì dentro di sé una sorta di certezza: era perduto per sempre, non c’era più nulla da fare per recuperarlo. Era come se fosse morto.
 
-Per tutta l’ora rimanente del viaggio verso Paddington, continuò a cercare, cercare, cercare. Il Tamigi, Windsor in lontananza, Slough. Le prime case di [[London|Londra]]: le conosceva tutte quanto conoscesse la propria voce; ma di qualsiasi legame tra queste cose e lui stesso, di qualsiasi azione o emozione appartenente alla sua precedente [[Identity|identità]], non c’era traccia alcuna. Non era nemmeno un vuoto. Era il nulla assoluto.
+Per tutta l’ora rimanente del viaggio verso Paddington, continuò a cercare, cercare, cercare. Il Tamigi, Windsor in lontananza, Slough. Le prime case di [[settings/london|Londra]]: le conosceva tutte quanto conoscesse la propria voce; ma di qualsiasi legame tra queste cose e lui stesso, di qualsiasi azione o emozione appartenente alla sua precedente [[concepts/identity|identità]], non c’era traccia alcuna. Non era nemmeno un vuoto. Era il nulla assoluto.
 
 Il treno si fermò; un gruppo di passeggeri spinse fuori il signor PETRE, che si trovava tra i primi ad scendere. Camminava incerto lungo la banchina, quasi tentato di chiedere a qualcuno da dove provenisse quel treno. Ascoltò persino alcune conversazioni nel tentativo di scoprirne il nome, ma si vergognava di indagare troppo a lungo. E ancora di più si vergognava di porre quella domanda che gli era venuta in mente all’inizio. Che peccato: se l’avesse fatto subito, si sarebbe risparmiato molti problemi in seguito. Ma ormai provava già un misto di vergogna e paura, temendo che la sua umiliazione venisse scoperta. Quel pericoloso stato d’animo avrebbe continuato ad intensificarsi.
 
@@ -2859,7 +2859,7 @@ Meccanicamente, chiamò uno di quei nuovi taxi a rotore: li riconobbe, anche se 
 
 Ora, l’uomo che guidava il taxi valutava le mance in base alla ricchezza delle persone e la ricchezza stessa in base ai segni esteriori. Così, con una valutazione semplice, disse: “Quel ‘Maestoso’?”
 
-Annuì in fretta e salì a bordo. Qualsiasi posto andava bene. Ancora una volta, quel nome gli risultò perfettamente familiare; l’immagine di quell’hotel enorme nella sua mente era molto chiara. Avrebbe potuto indicarvi esattamente dove si trovava a [[London|Londra]]. Ma, per quanto ci pensasse, non riusciva a spiegare come facesse a saperlo. Annuì di nuovo, e la cabina del rotore partì bruscamente, scese in picchiata, poi si sollevò di colpo e ripartì verso l’hotel Splendide. Mentre quell’uomo nel suo interno cercava disperatamente di concentrarsi, senza però riuscire a raggiungere alcun risultato.
+Annuì in fretta e salì a bordo. Qualsiasi posto andava bene. Ancora una volta, quel nome gli risultò perfettamente familiare; l’immagine di quell’hotel enorme nella sua mente era molto chiara. Avrebbe potuto indicarvi esattamente dove si trovava a [[settings/london|Londra]]. Ma, per quanto ci pensasse, non riusciva a spiegare come facesse a saperlo. Annuì di nuovo, e la cabina del rotore partì bruscamente, scese in picchiata, poi si sollevò di colpo e ripartì verso l’hotel Splendide. Mentre quell’uomo nel suo interno cercava disperatamente di concentrarsi, senza però riuscire a raggiungere alcun risultato.
 
 Durante il percorso su Berkeley Street, con il ronzio del potente motore e il tremolio della cabina, all'improvviso gridò “PETRE” a tutta voce. Il conducente aprì la porta di scatto e gli urlò: “Che c'è?”
 
@@ -2876,7 +2876,7 @@ Aveva raggiunto il “Splendide”. Il signor Petre (poiché ora poteva chiamars
 <span class="atom-split" data-atom="chapter_01--part_03" data-title="Mr. Petre — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="setting/london"></span>
 
 
-Now and then he would hesitate over a detail. He had puzzled a minute before getting the name of Oxford Street as they crossed it. But the run of [[London]] life was as common to him as to any of the myriads around. It was only the bond between them and his past self that had snapped.
+Now and then he would hesitate over a detail. He had puzzled a minute before getting the name of Oxford Street as they crossed it. But the run of [[settings/london|London]] life was as common to him as to any of the myriads around. It was only the bond between them and his past self that had snapped.
 
 He knew the Splendide. He knew the ritual of registration. He even knew the liveries with their absurd gold crowns. He knew it was strange to take a room without luggage. He feared resentment. Yet he rightly judged such eccentricity stood a better chance at the more expensive hotels than the less.
 
@@ -2929,7 +2929,7 @@ The young man himself was tall, just an inch or two overdressed, with black hair
 
 <span class="qlang-split" data-lang="it"></span>
 
-Di tanto in tanto esitava su qualche dettaglio; aveva impiegato un po’ di tempo per ricordare il nome di Oxford Street mentre la attraversavano. Ma la routine della vita a [[London|Londra]] gli era altrettanto familiare quanto a chiunque altro. Era soltanto il legame tra quella vita e il suo passato ad essere andato distrutto.
+Di tanto in tanto esitava su qualche dettaglio; aveva impiegato un po’ di tempo per ricordare il nome di Oxford Street mentre la attraversavano. Ma la routine della vita a [[settings/london|Londra]] gli era altrettanto familiare quanto a chiunque altro. Era soltanto il legame tra quella vita e il suo passato ad essere andato distrutto.
 
 Conosceva bene tutto ciò che riguardava l’aspetto esteriore degli hotel; conosceva il rituale di registrazione, e anche le divise dei dipendenti con quelle assurde corone dorate. Sapeva che era strano prenotare una stanza senza bagagli. Temeva che qualcuno potesse offendersi. Eppure, giustamente, ritenne che un comportamento così eccentrico avrebbe avuto maggiori possibilità di successo negli hotel più costosi rispetto a quelli meno prestigiosi.
 
@@ -2943,7 +2943,7 @@ Il signor Petre annuì rapidamente. Non aveva senso cercare i veri nomi cristian
 
 Si rasserenò vedendo che la grafia corretta veniva scritta dalla penna del commesso nel registro: “John K. Petre”. Non seguiva alcun indirizzo di residenza; il commesso sapeva troppo per quello. Fece un gesto simile a un inchino e chiamò il ragazzo con i bottoni, pregando il signor Petre a bassa voce di fargli sapere se l’appartamento che aveva scelto fosse adatto: diceva che ne aveva solo tre stanze, ma era il migliore disponibile e si trovava sopra il giardino. 200 dollari, quaranta sterline.
 
-# Il signor Petre
+Il signor Petre
 
 Il signor Petre ricordò i 63 sterline che aveva con sé e le strane circostanze in cui si trovava mentre attaccava questa fortezza. Rifiutò categoricamente qualsiasi altra sistemazione se non una semplice camera da letto e un bagno; non voleva nemmeno una sala da pranzo. Questa volta, l’impiegato si inchinò davvero, come un devoto potrebbe inchinarsi di fronte a un santo che trascende i limiti della natura umana. Sussurrò il numero “44” invece di parlarlo ad alta voce, e il signor Petre, prima di andare all’ascensore, disse:
 
@@ -2996,7 +2996,7 @@ His companion was of no such exalted station. He was squat, round-headed, double
 
 “It was I tracked him to that boat on my own risk,” said Batterby doggedly. “I paid the clerk at this end out of my own pocket, and he said John K. would be on it, as sure as one can be of him. He’d booked as Carroll, so’s not to be pestered on board. If I liked to take the trouble I could find out that he’d landed and what train he took. It’s a cruel shame if I can’t make a story for the Messenger out of it! His Grace’ll want it too,” he added plaintively. “It’s for him to print or not as he likes. He knows his way about does the Duke.”
 
-Arthur shrugged his shoulders. “You can tell your gang if you like, Batterby, but it’s at your own risk. He’ll ferret you out and he’ll never let go of you. He bites to the bone: specially newspaper men. That’s what he hates most. You know what he is. If they print they’ll get hell, and even if they only talk you’ll get hell. I’ve told you all I know about him. He comes to [[London]], Paris, Naples, anywhere. Nobody to know when he passed, except his men. And what’s more, he’ll get plenty of people to swear to his being somewhere else. If he makes a row, it isn’t my fault. At any rate, he’s here.... I’ve got to be off. Will you wait while I get my hat and coat?”
+Arthur shrugged his shoulders. “You can tell your gang if you like, Batterby, but it’s at your own risk. He’ll ferret you out and he’ll never let go of you. He bites to the bone: specially newspaper men. That’s what he hates most. You know what he is. If they print they’ll get hell, and even if they only talk you’ll get hell. I’ve told you all I know about him. He comes to [[settings/london|London]], Paris, Naples, anywhere. Nobody to know when he passed, except his men. And what’s more, he’ll get plenty of people to swear to his being somewhere else. If he makes a row, it isn’t my fault. At any rate, he’s here.... I’ve got to be off. Will you wait while I get my hat and coat?”
 
 Batterby, who had his hat in his hand and his coat on his back, looked uneasy and said, “Yes, if you like.” Arthur sauntered off at his slow pace, and the older, heavier, less consequent man watched him slyly well round the corner, and then lumbered up to the Registration Desk. The book was shut. He leaned with a foolish grin of cunning over the desk, winked, and said to the clerk: “Anyone o’ the name o’ Petre registered to-day?”
 
@@ -3022,7 +3022,7 @@ No, he couldn’t risk it.... At least, not unless Arthur would guarantee him, a
 
 * * * * *
 
-Mr. Petre was a full two hours in making his purchases. One very good reason for such delay was that he had no idea of his measurements. Another, that his recent, his overwhelming misfortune had made him mistrustful of himself. He kept on wondering whether he had filled up a sufficient list. At last he had fully packed his newly-purchased bag; he had brought it back to the hotel; he had followed it up to No. 44. He sat down beside it, counted out what remained of his capital and found fifty-two pounds and a few shillings left. He plunged again into that depth of thought wherein he groped like a diver in dim water to find some recollection or some clue — and he found none. The enormous loneliness of the position was upon him: it appalled him even more than the approaching end of his resources. He felt all the millions of [[London]] round about him, aloof and hostile: dumb. — . — . when the telephone on the table in his room rang suddenly, and he took it up.
+Mr. Petre was a full two hours in making his purchases. One very good reason for such delay was that he had no idea of his measurements. Another, that his recent, his overwhelming misfortune had made him mistrustful of himself. He kept on wondering whether he had filled up a sufficient list. At last he had fully packed his newly-purchased bag; he had brought it back to the hotel; he had followed it up to No. 44. He sat down beside it, counted out what remained of his capital and found fifty-two pounds and a few shillings left. He plunged again into that depth of thought wherein he groped like a diver in dim water to find some recollection or some clue — and he found none. The enormous loneliness of the position was upon him: it appalled him even more than the approaching end of his resources. He felt all the millions of [[settings/london|London]] round about him, aloof and hostile: dumb. — . — . when the telephone on the table in his room rang suddenly, and he took it up.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3039,7 +3039,7 @@ Il suo compagno non apparteneva a una classe sociale così elevata. Era di statu
 
 “È stato io ad inseguirlo fino a quella barca, a mio rischio personale,” disse Batterby con ostinazione. “Ho pagato di tasca mia il commesso qui, e lui mi ha assicurato che John K. sarebbe su quella barca, ne ero certo al cento per cento. Si era registrato con il nome di Carroll, così non avrebbero potuto importunarlo a bordo. Se volessi prendermi la briga, potrei anche scoprire dove è sbarcato e su quale treno è salito. Sarebbe davvero un peccato se non riuscissi a creare una storia interessante da pubblicare sul ‘Messenger’! Sua Grazia ne vorrà sicuramente anche lei,” aggiunse con tono lamentoso. “È a lui decidere se pubblicarla o meno. Lui conosce bene il modo per gestire le cose, il Duca.”
 
-Arthur alzò le spalle. “Puoi dirlo alla tua banda se vuoi, Batterby, ma a tuo rischio. Lui ti troverà e non ti lascerà mai in pace. È determinato: soprattutto con i giornalisti. Li odia più di tutto. Sai chi è veramente. Se pubblicano qualcosa, avranno dei grossi problemi; anche se si limitano a parlarne, tu ne subirai le conseguenze. Ti ho detto tutto quello che so su di lui. Viene a [[London|Londra]], Parigi, Napoli, ovunque. Nessuno sa quando arriva, tranne i suoi uomini. E inoltre, troverà sicuramente molte persone disposte a giurare che si trovi da un’altra parte. Se scatena dei problemi, non è colpa mia. Comunque, lui è qui. Devo andare ora. Aspetterai mentre prendo cappello e cappotto?”
+Arthur alzò le spalle. “Puoi dirlo alla tua banda se vuoi, Batterby, ma a tuo rischio. Lui ti troverà e non ti lascerà mai in pace. È determinato: soprattutto con i giornalisti. Li odia più di tutto. Sai chi è veramente. Se pubblicano qualcosa, avranno dei grossi problemi; anche se si limitano a parlarne, tu ne subirai le conseguenze. Ti ho detto tutto quello che so su di lui. Viene a [[settings/london|Londra]], Parigi, Napoli, ovunque. Nessuno sa quando arriva, tranne i suoi uomini. E inoltre, troverà sicuramente molte persone disposte a giurare che si trovi da un’altra parte. Se scatena dei problemi, non è colpa mia. Comunque, lui è qui. Devo andare ora. Aspetterai mentre prendo cappello e cappotto?”
 
 Batterby, con il cappello in mano e il cappotto addosso, sembrava a disagio e disse: “Sì, se vi piace.” Arthur si allontanò con il suo passo lento, mentre quell’uomo più anziano, più pesante e meno deciso lo osservò di nascosto fino a quando non girò l’angolo, per poi avvicinarsi lentamente al banco dell’iscrizione. Il libro era chiuso. Si chinò sopra il banco con un sorriso astuto e disse all’impiegato: “C’è qualcuno di nome Petre iscritto oggi?”
 
@@ -3082,11 +3082,11 @@ Now at this moment — I write it down without comment, for all that follows is 
 
 But the recitation of such names suggested to him rather suddenly a book the name of which he perfectly remembered, and he telephoned down at once for the year’s Who’s Who. Now he would make a serious search. He was on a clue.
 
-The first thing he did was to look out Cyril. He found nobody, and in good time it was to be made very clear why he had found nobody of that name. Leonard Cyril was dead. Then he looked out Petre — brilliant thought, and he found many Petres, and read all that was to be read of them closely; but not one suggested anything to his knowledge. He was certainly John K. The clerk had made that clear. There was no John K. in Who’s Who. He sighed. It was a heart-breaking business. Then, the processes of his mind working more fully, but his sense of personality as blank as ever, he tried the telephone book of [[London]]. There was a Mrs. Cyril right enough, and she seemed to be well-to-do, for what she had said about her car corresponded with her address. But when he turned to the Petres he was baulked again: there were too many, and not a John K. in the bunch... and after all, why hadn’t he thought of it? The States!... Was he not an American?. — ..
+The first thing he did was to look out Cyril. He found nobody, and in good time it was to be made very clear why he had found nobody of that name. Leonard Cyril was dead. Then he looked out Petre — brilliant thought, and he found many Petres, and read all that was to be read of them closely; but not one suggested anything to his knowledge. He was certainly John K. The clerk had made that clear. There was no John K. in Who’s Who. He sighed. It was a heart-breaking business. Then, the processes of his mind working more fully, but his sense of personality as blank as ever, he tried the telephone book of [[settings/london|London]]. There was a Mrs. Cyril right enough, and she seemed to be well-to-do, for what she had said about her car corresponded with her address. But when he turned to the Petres he was baulked again: there were too many, and not a John K. in the bunch... and after all, why hadn’t he thought of it? The States!... Was he not an American?. — ..
 
 There was evidence that he had been in America.
 
-That would make it less incomprehensible — but more difficult to trace through [[London]].... And he didn’t feel American somehow.... What a business!
+That would make it less incomprehensible — but more difficult to trace through [[settings/london|London]].... And he didn’t feel American somehow.... What a business!
 
 Then came the note. A young child, dressed in yet another uniform and with bright, active eyes brought it in. It was but an expansion of the telephone message he had had before. Mrs. Cyril had only just heard of him from a friend who had caught sight of him (he trembled!) in the hotel. She was taking a great liberty, but her late husband had spoken so warmly of him and of the kindness Mr. Petre had shown him when he visited the United States, that she presumed upon that acquaintance and asked him whether he could not lunch with her next Wednesday?
 
@@ -3098,7 +3098,7 @@ Evidently he had been — whatever he was — not only a courteous man, but a ma
 
 He could not tell. But I know and I will tell the reader. It was holiday in heaven and a Daemon, genial, ironic, had been given Mr. Petre for a toy to play with a little while.
 
-He glanced again at the letter, turned over the sheet and found a postscript. “You know how discreet I shall be and how familiar I am with your rules. The Press shall not hear a word of it. It was by the merest accident that I heard of your presence in [[London]] myself, and even if you send an answer that you are not there at all, I shall quite understand. — C.C.”
+He glanced again at the letter, turned over the sheet and found a postscript. “You know how discreet I shall be and how familiar I am with your rules. The Press shall not hear a word of it. It was by the merest accident that I heard of your presence in [[settings/london|London]] myself, and even if you send an answer that you are not there at all, I shall quite understand. — C.C.”
 
 Mr. Petre held those words before him, and stared. Then he began to put everything together in a sort of summary. He had been in the States; perhaps he was a native of the States. He didn’t think so; he felt it in his bones that he was not an American. Yet... at any rate, he had been in the States.
 
@@ -3125,11 +3125,11 @@ In questo preciso momento – lo scrivo senza commenti, perché tutto ciò che s
 
 Ma la lettura di quei nomi gli fece improvvisamente venire in mente un libro il cui titolo ricordava perfettamente; chiamò subito per ordinare l’edizione annuale di “Who’s Who”. Ora avrebbe cercato seriamente. Aveva trovato una pista.
 
-La prima cosa che fece fu cercare Cyril. Non trovò nessuno, e presto divenne molto chiaro perché non aveva trovato nessuno con quel nome: Leonard Cyril era morto. Poi cercò Petre. Ottima idea: trovò molti Petres e lesse attentamente tutto ciò che riguardava loro; ma nessuno di loro gli fornì alcuna informazione utile. Era sicuramente John K.: l’impiegato aveva chiarito bene questo punto. Non esisteva alcun John K. nell’“Who’s Who”. Sospirò. Era davvero una situazione frustrante. Poi, lasciando che i suoi pensieri lavorassero più a fondo, anche se la sua identità personale rimaneva del tutto oscura, provò a consultare l’elenco telefonico di [[London|Londra]]. C’era davvero una signora Cyril, e sembrava essere piuttosto benestante, visto che quanto aveva detto riguardo alla sua auto corrispondeva all’indirizzo indicato. Ma quando passò ai Petre, si trovò di fronte a un altro ostacolo: ce n’erano troppi, e nessuno di loro si chiamava John K. E poi, perché non ci aveva pensato prima? Gli Stati Uniti. Non era forse americano?
+La prima cosa che fece fu cercare Cyril. Non trovò nessuno, e presto divenne molto chiaro perché non aveva trovato nessuno con quel nome: Leonard Cyril era morto. Poi cercò Petre. Ottima idea: trovò molti Petres e lesse attentamente tutto ciò che riguardava loro; ma nessuno di loro gli fornì alcuna informazione utile. Era sicuramente John K.: l’impiegato aveva chiarito bene questo punto. Non esisteva alcun John K. nell’“Who’s Who”. Sospirò. Era davvero una situazione frustrante. Poi, lasciando che i suoi pensieri lavorassero più a fondo, anche se la sua identità personale rimaneva del tutto oscura, provò a consultare l’elenco telefonico di [[settings/london|Londra]]. C’era davvero una signora Cyril, e sembrava essere piuttosto benestante, visto che quanto aveva detto riguardo alla sua auto corrispondeva all’indirizzo indicato. Ma quando passò ai Petre, si trovò di fronte a un altro ostacolo: ce n’erano troppi, e nessuno di loro si chiamava John K. E poi, perché non ci aveva pensato prima? Gli Stati Uniti. Non era forse americano?
 
 C'erano prove che fosse stato in America.
 
-Ciò lo renderebbe meno incomprensibile, ma più difficile da rintracciare attraverso [[London|Londra]]. E in qualche modo non si sentiva americano. Che affare!
+Ciò lo renderebbe meno incomprensibile, ma più difficile da rintracciare attraverso [[settings/london|Londra]]. E in qualche modo non si sentiva americano. Che affare!
 
 Poi arrivò la nota. Una bambina piccola, vestita con un’altra uniforme e con occhi luminosi e vivaci, la portò dentro. Si trattava semplicemente di un’espansione del messaggio telefonico che aveva ricevuto in precedenza. La signora Cyril aveva appena saputo di lui da un’amica che lo aveva visto (tremava!) nell’hotel. Stava prendendo una grande libertà, ma suo marito defunto ne aveva parlato con tale calore, e anche del bene che il signor Petre gli aveva fatto quando era stato negli Stati Uniti, che si era permessa di chiedergli se potesse pranzare con lei il prossimo mercoledì.
 
@@ -3141,7 +3141,7 @@ Evidentemente, qualunque cosa fosse, non era solo un uomo cortese, ma anche una 
 
 Non riusciva a capirlo. Ma io lo so e lo dirò al lettore: era una festa in cielo, e un Demone, gentile e ironico, aveva ricevuto il signor Petre come giocattolo per divertirsi per un po’.
 
-Guardò di nuovo la lettera, girò la pagina e trovò una postfazione: “Sai quanto sia discreto e quanto conosca bene le tue regole. La stampa non saprà nulla al riguardo. È stato puramente per caso che ho scoperto della tua presenza a [[London|Londra]]; anche se mi invierai una risposta dicendo di non esserci affatto, capirò perfettamente. — C.C.”
+Guardò di nuovo la lettera, girò la pagina e trovò una postfazione: “Sai quanto sia discreto e quanto conosca bene le tue regole. La stampa non saprà nulla al riguardo. È stato puramente per caso che ho scoperto della tua presenza a [[settings/london|Londra]]; anche se mi invierai una risposta dicendo di non esserci affatto, capirò perfettamente. — C.C.”
 
 Il signor Petre fissava quelle parole davanti a sé, poi cominciò a collegarle tutte insieme in una sorta di riassunto. Aveva vissuto negli Stati Uniti; forse era originario degli Stati Uniti. Ma non lo pensava; sentiva dentro di sé che non era americano. Eppure, comunque fosse, aveva vissuto negli Stati Uniti.
 
@@ -3206,12 +3206,12 @@ MR. PETRE
 
 “Evidently,” thought Mr. Petre, remembering the hotel, “I was right. I am somebody — or I was somebody.”
 
-They sat at table, sneered at by six enormous portraits, in another room as large as the first, and having a view through its windows of a mews; and as they so sat the wine loosened their tongues and they talked of things and people, of which Mr. Petre knew some by repute, others not at all. He answered gently such questions as his hostess put to him (he sat upon her right); he assured her that he had had an excellent crossing (for she asked him what kind of crossing it had been); but he was careful not to risk any details, as he had not the slightest idea that he had crossed anything from anywhere. He assured her that he was familiar with [[London]]; he told her that he had not yet been to any other house — and all this while he was in terror lest some question more searching than the rest might challenge him and make him flounder past recovery.
+They sat at table, sneered at by six enormous portraits, in another room as large as the first, and having a view through its windows of a mews; and as they so sat the wine loosened their tongues and they talked of things and people, of which Mr. Petre knew some by repute, others not at all. He answered gently such questions as his hostess put to him (he sat upon her right); he assured her that he had had an excellent crossing (for she asked him what kind of crossing it had been); but he was careful not to risk any details, as he had not the slightest idea that he had crossed anything from anywhere. He assured her that he was familiar with [[settings/london|London]]; he told her that he had not yet been to any other house — and all this while he was in terror lest some question more searching than the rest might challenge him and make him flounder past recovery.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO II
+CAPITOLO II
 
 La signora Cyril aveva accolto i suoi ospiti.
 
@@ -3253,11 +3253,11 @@ Tutti gli ospiti stavano lì in piedi, imbarazzati, come notabili di provincia i
 
 Nessun uomo fu mai così profondamente colpito come il signor Petre dall’umile rispetto che ricevette. Uno dopo l’altro, uomini e donne si inginocchiarono davanti a lui con sincera devozione; nei loro occhi e nei loro gesti si leggeva tutto lo spirito della religione. Quello che mostrò meno di tutti fu il giovane Terrard; tuttavia anche lui dimostrò una profonda devotà, mentre Marjorie Kayle superò tutti in questo senso.
 
-# Il signor Petre
+Il signor Petre
 
 “Evidentemente,” pensò il signor Petre, ricordando l’hotel, “avevo ragione. Sono qualcuno, o almeno lo ero.”
 
-Si sedettero a tavola, soggetti allo sguardo beffardo di sei enormi ritratti, in un’altra stanza altrettanto grande della prima; attraverso le sue finestre si poteva vedere un vicolo stretto. Mentre mangiavano, il vino li rese più loquaci e iniziarono a parlare di cose e persone: alcune di queste Mr. Petre ne conosceva solo il nome, altre invece non le aveva mai sentite nemmeno menzionare. Rispondeva gentilmente alle domande poste dalla sua ospite (sedeva alla sua destra); le assicurava che il viaggio in nave era stato eccellente (poiché lei gli aveva chiesto di quale tipo fosse stato), ma faceva attenzione a non rivelare alcun dettaglio, poiché non aveva la minima idea di cosa avesse effettivamente attraversato durante quel viaggio. Le disse inoltre di conoscere bene [[London|Londra]] e che non era mai stato in altre città. Ma tutto il tempo temeva che qualche domanda più approfondita potesse metterlo in imbarazzo, costringendolo a balbettare senza riuscire a rispondere correttamente.
+Si sedettero a tavola, soggetti allo sguardo beffardo di sei enormi ritratti, in un’altra stanza altrettanto grande della prima; attraverso le sue finestre si poteva vedere un vicolo stretto. Mentre mangiavano, il vino li rese più loquaci e iniziarono a parlare di cose e persone: alcune di queste Mr. Petre ne conosceva solo il nome, altre invece non le aveva mai sentite nemmeno menzionare. Rispondeva gentilmente alle domande poste dalla sua ospite (sedeva alla sua destra); le assicurava che il viaggio in nave era stato eccellente (poiché lei gli aveva chiesto di quale tipo fosse stato), ma faceva attenzione a non rivelare alcun dettaglio, poiché non aveva la minima idea di cosa avesse effettivamente attraversato durante quel viaggio. Le disse inoltre di conoscere bene [[settings/london|Londra]] e che non era mai stato in altre città. Ma tutto il tempo temeva che qualche domanda più approfondita potesse metterlo in imbarazzo, costringendolo a balbettare senza riuscire a rispondere correttamente.
 
 
 
@@ -3378,7 +3378,7 @@ Charlie Terrard and his Catch were at the door of the Splendide. He looked over 
 
 “I’ll get you fifty thousand. Round about 2½ one ought to”; and was gone.
 
-Charlie Terrard hastened; he was in the [[City]] just at a quarter past three, and he had said behind closed doors, and to his partner alone, what he had to say. Only after hours was the thing released.
+Charlie Terrard hastened; he was in the [[motifs/city|City]] just at a quarter past three, and he had said behind closed doors, and to his partner alone, what he had to say. Only after hours was the thing released.
 
 With the next morning everyone — that is, all the fifty or sixty who count — was full of it. John K. Petre was buying Touaregs.
 
@@ -3401,7 +3401,7 @@ Lei pregò gli uomini di restare indietro, e il banchiere sarebbe stato più che
 
 Per quanto riguarda il signor Petre, egli colse questa opportunità generale come un sollievo e fu tra i primi ad scusarsi in fretta. Del resto, quando il gruppo si disperse e tutti ebbero salutato la loro ospite (che desiderava ardentemente parlare al telefono, proprio come un cuore puro anela al cielo), il giovane Terrard, con la sua solita audacia (era così franco e affascinante), disse mentre uscivano insieme:
 
-# “Signor Petre, sta andando nella mia stessa direzione?”
+“Signor Petre, sta andando nella mia stessa direzione?”
 
 “Sto andando al ‘Splendide’”, disse il signor Petre, quando fu sorpreso.
 
@@ -3429,7 +3429,7 @@ Charlie Terrard e il suo compagno si trovavano alla porta del ristorante “Sple
 
 “Ti darò cinquantamila. Circa 2½ milioni dovrebbero bastare”; e se ne andò.
 
-Charlie Terrard si affrettò; era nella [[City|>Città]] alle tre e un quarto del pomeriggio, e aveva detto, a porte chiuse e solo al suo socio, ciò che doveva dire. Solo dopo molte ore quella informazione venne resa pubblica.
+Charlie Terrard si affrettò; era nella [[motifs/city|>Città]] alle tre e un quarto del pomeriggio, e aveva detto, a porte chiuse e solo al suo socio, ciò che doveva dire. Solo dopo molte ore quella informazione venne resa pubblica.
 
 La mattina seguente, tutti quanti – cioè i cinquanta o sessanta persone che contavano – ne erano pieni. John K. Petre stava comprando Touareg.
 
@@ -3528,7 +3528,7 @@ He had begun life at what is called “the bottom of the ladder” — selling m
 
 Between those early years and his appearance as an agent, humble enough, put on to bully the smaller fry and to watch the larger fry at Marogavatcho’s place in Cairo, there is a gap. It is presumed that even as a boy his strength of will, his grasp of opportunity, had served him. He had perhaps made a beginning by some rapid piece of minor acquisition — we have no particulars — that had set him upon the status of possible clothes and possible grooming; from that, no doubt, he had gone on. At any rate, he had got somehow to know William Carter when William Carter meant so much in Australia, and yet William Carter wished him away. It was William Carter who had casually dropped his name as a pushing, energetic young fellow for whom some little job might be found, and from the Australian Branch they had sent him to Cairo; again because William Carter said he would do as well as another. It was in Cairo that he worked what is still known there as “Higgs’ Great Double Cross,” the details of which he never himself explained. I have had them given me by those who understood them (and they were usually given with a good deal of chuckling admiration not unmixed with fear) but they were quite beyond my comprehension.
 
-At any rate, it was a quick rise, and he was in [[London]] with a fortune before three more years were out — in 1936; he was then thirty-five years old. This idea of buying the Messenger came to him late. He had gone through the usual mill, first in Parliament, then a baronetcy, keeping himself to himself, never speaking, but doing many a generous deed of which the public heard nothing, especially among the politicians of his own group. He had even (it was said) paid a regular subsidy to one of the most worthy and the most needy of them. His first peerage was startling; but it would not have been if his private activities had been more publicly known. He had preferred to avoid publicity.
+At any rate, it was a quick rise, and he was in [[settings/london|London]] with a fortune before three more years were out — in 1936; he was then thirty-five years old. This idea of buying the Messenger came to him late. He had gone through the usual mill, first in Parliament, then a baronetcy, keeping himself to himself, never speaking, but doing many a generous deed of which the public heard nothing, especially among the politicians of his own group. He had even (it was said) paid a regular subsidy to one of the most worthy and the most needy of them. His first peerage was startling; but it would not have been if his private activities had been more publicly known. He had preferred to avoid publicity.
 
 He enjoyed no increase of rank until, his fortieth year long passed, he had purchased the great daily, and there, as in everything he did, he succeeded. It was after the negotiations which established Mrs. Fossilton in office that the last step was taken and that a new ducal title, an honour which had been for so long unknown — longer than men could remember — was suddenly given him.
 
@@ -3552,14 +3552,14 @@ There was a pause during which the Duke frowned thoughtfully. Then he took the c
 
 “Well, let ’em rip. I’m not touching the blamed things, anyway,” and having said that, he stopped frowning.
 
-“He’s here in [[London]],” went on the secretary, smiling slightly and watching his master.
+“He’s here in [[settings/london|London]],” went on the secretary, smiling slightly and watching his master.
 
-“Here!” shouted the Duke suddenly. “Here? In [[London]]? Have they got it?” He jumped up in his excitement. “Have they got it upstairs?” He had his hand out for the bell.
+“Here!” shouted the Duke suddenly. “Here? In [[settings/london|London]]? Have they got it?” He jumped up in his excitement. “Have they got it upstairs?” He had his hand out for the bell.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO III
+CAPITOLO III
 
 JOHN K. PETRE stava comprando Touareg.
 
@@ -3575,7 +3575,7 @@ Aveva cominciato la vita a quello che si chiama «il fondo della scala» — ven
 
 Tra quei primi anni e la sua comparsa come agente, assai modesto, incaricato di tiranneggiare i pesci piccoli e di sorvegliare quelli grossi alla ditta di Marogavatcho al Cairo, c'è un vuoto. Si presume che già da ragazzo la sua forza di volontà, la sua presa sulle occasioni, gli avessero giovato. Aveva forse cominciato con qualche rapido colpetto di piccola acquisizione — non ne abbiamo i particolari — che l'aveva messo nella condizione di possedere abiti decorosi e una cura decorosa della persona; di lì, senza dubbio, era andato avanti. Comunque sia, era riuscito in qualche modo a conoscere William Carter quando William Carter contava tanto in Australia, e tuttavia William Carter lo desiderava lontano. Fu William Carter a lasciar cadere per caso il suo nome come quello di un giovanotto intraprendente ed energico per cui si sarebbe potuto trovare qualche piccolo impiego, e dalla Filiale Australiana lo mandarono al Cairo; di nuovo perché William Carter disse che sarebbe andato bene quanto un altro. Fu al Cairo che mise in atto ciò che laggiù è ancora noto come «il Gran Doppio Gioco di Higgs», i cui particolari lui stesso non spiegò mai. Me li hanno esposti persone che li capivano (e di solito venivano esposti con una buona dose di ammirazione ridacchiante non scevra di timore), ma erano del tutto al di là della mia comprensione.
 
-Comunque sia, fu un'ascesa rapida, ed era a [[London|Londra]] con una fortuna prima che passassero altri tre anni — nel 1936; aveva allora trentacinque anni. L'idea di comprare il Messenger gli venne tardi. Era passato per il solito tirocinio, prima in Parlamento, poi il titolo di baronetto, tenendosi per sé, senza mai parlare, ma compiendo molte azioni generose di cui il pubblico non seppe nulla, specialmente tra i politici del suo gruppo. Aveva perfino (si diceva) versato un sussidio regolare a uno dei più meritevoli e dei più bisognosi tra loro. Il suo primo titolo nobiliare fu sorprendente; ma non lo sarebbe stato se le sue attività private fossero state più note al pubblico. Aveva preferito evitare la pubblicità.
+Comunque sia, fu un'ascesa rapida, ed era a [[settings/london|Londra]] con una fortuna prima che passassero altri tre anni — nel 1936; aveva allora trentacinque anni. L'idea di comprare il Messenger gli venne tardi. Era passato per il solito tirocinio, prima in Parlamento, poi il titolo di baronetto, tenendosi per sé, senza mai parlare, ma compiendo molte azioni generose di cui il pubblico non seppe nulla, specialmente tra i politici del suo gruppo. Aveva perfino (si diceva) versato un sussidio regolare a uno dei più meritevoli e dei più bisognosi tra loro. Il suo primo titolo nobiliare fu sorprendente; ma non lo sarebbe stato se le sue attività private fossero state più note al pubblico. Aveva preferito evitare la pubblicità.
 
 Non godette di alcun aumento di rango finché, passato da un pezzo il quarantesimo anno, non ebbe acquistato il grande quotidiano, e lì, come in tutto ciò che faceva, riuscì. Fu dopo le trattative che insediarono al governo la signora Fossilton che venne compiuto l'ultimo passo e che gli fu improvvisamente conferito un nuovo titolo ducale, un onore rimasto sconosciuto per tanto tempo — più a lungo di quanto gli uomini ricordassero.
 
@@ -3599,9 +3599,9 @@ Ci fu una pausa durante la quale il Duca aggrottò la fronte pensieroso. Poi si 
 
 «Be', lasciateli correre. Io comunque non li tocco, quei maledetti affari», e detto questo smise di aggrottare la fronte.
 
-«È qui a [[London|Londra]]», proseguì il segretario, sorridendo appena e osservando il suo padrone.
+«È qui a [[settings/london|Londra]]», proseguì il segretario, sorridendo appena e osservando il suo padrone.
 
-«Qui!» gridò il Duca all'improvviso. «Qui? A [[London|Londra]]? Ce l'hanno?» Balzò in piedi per l'eccitazione. «Ce l'hanno di sopra?» Aveva già la mano tesa verso il campanello.
+«Qui!» gridò il Duca all'improvviso. «Qui? A [[settings/london|Londra]]? Ce l'hanno?» Balzò in piedi per l'eccitazione. «Ce l'hanno di sopra?» Aveva già la mano tesa verso il campanello.
 
 
 
@@ -3640,7 +3640,7 @@ Then did his Grace’s secretary gently, evenly and without embroidery tell him 
 
 “It’s a scoop,” he said bitterly.
 
-The secretary shook his head: “It’s ruin and damnation!” Then he explained himself. “Where’s the scoop? He wouldn’t give an interview; and just to say he’s in [[London]] — what’s the good of that?”
+The secretary shook his head: “It’s ruin and damnation!” Then he explained himself. “Where’s the scoop? He wouldn’t give an interview; and just to say he’s in [[settings/london|London]] — what’s the good of that?”
 
 “Lord, man!” shouted the Duke suddenly, “doesn’t he ever want a write up?”
 
@@ -3729,7 +3729,7 @@ Allora la segretaria di Sua Grazia gli raccontò con dolcezza, chiaramente e sen
 
 “È una notizia eccezionale,” disse amaramente.
 
-Il segretario scosse la testa: “È rovina e dannazione!” Poi si spiegò: “Dove è l’aspetto interessante della notizia? Non ha voluto rilasciare alcuna intervista; e dire semplicemente che si trova a [[London|Londra]], a cosa serve?”
+Il segretario scosse la testa: “È rovina e dannazione!” Poi si spiegò: “Dove è l’aspetto interessante della notizia? Non ha voluto rilasciare alcuna intervista; e dire semplicemente che si trova a [[settings/london|Londra]], a cosa serve?”
 
 “Signore, mio Dio!”, esclamò all’improvviso il Duca. “Non vuole mai che gli venga fatta una descrizione dettagliata di ciò che fa?”
 
@@ -3820,7 +3820,7 @@ During this long speech Sir Jeremiah Walton had put his head more and more on on
 
 “Don’t want that,” said Sir Jeremiah, shaking his head, but this time laughing openly. “ Dog don’t eat dog.”
 
-“I’ve got the story they ‘re sending to Paris to-night, which was to have come out first in Paris and then in [[London]] next day. They’ve squared the Messenger, Sir Jeremiah. If you like it you can have it.”
+“I’ve got the story they ‘re sending to Paris to-night, which was to have come out first in Paris and then in [[settings/london|London]] next day. They’ve squared the Messenger, Sir Jeremiah. If you like it you can have it.”
 
 “Eh?” snapped that politician eagerly. “Not the Foreign Office Note?” Batterby nodded. “By Go — Gum! That’s the style!” The knight was radiant. He was so moved that he opened a bottle of ginger ale, filled a glass and offered it to his guest. “That’s the style! Ye ‘re a trump, Batterby! Ye ‘re a trump!”
 
@@ -3907,7 +3907,7 @@ Durante questo lungo discorso, Sir Jeremiah Walton inclinava sempre di più la t
 
 “Non lo voglio,” disse Sir Jeremiah scuotendo la testa, ma questa volta ridendo apertamente. “I cani non mangiano i cani.”
 
-“Ho la storia che stanno inviando a Parigi stasera; originariamente doveva essere pubblicata prima a Parigi e poi l’indomani a [[London|Londra]]. Hanno già sistemato tutto, Sir Jeremiah. Se vi piace, potete prenderla.”
+“Ho la storia che stanno inviando a Parigi stasera; originariamente doveva essere pubblicata prima a Parigi e poi l’indomani a [[settings/london|Londra]]. Hanno già sistemato tutto, Sir Jeremiah. Se vi piace, potete prenderla.”
 
 “Eh?” esclamò quel politico con impazienza. “Non la nota del Ministero degli Esteri?” Batterby annuì. “Per Giove. Che stile! Davvero eccezionale!” Il cavaliere era radioso; era così commosso che aprì una bottiglia di ginger ale, ne versò un bicchiere e lo offrì al suo ospite. “Che stile! Sei davvero eccezionale, Batterby. Sei davvero un genio!”
 
@@ -3970,7 +3970,7 @@ MR. PETRE, SETTLED in that country inn, felt for the first time in those days a 
 
 He enjoyed a deep night’s rest, and by the next morning had already determined to look up a train for Southampton and the hours of the boats, when the morning paper, which waited upon his table, turned his mind suddenly into another channel. For on the last page, where he had casually opened it, he saw a violent headline: “BLAZING TOUAREGS,” and read the astonishing series of prices soaring up, in the course of the day before, the morrow of his leaving town:
 
-He read the comment of the [[City]] Editor — the comment of a man ignorant, puzzled, and pretending in his style omniscience. Someone had got early news of a new French surrender; a new pocket of the deposits had been found — it was said. It was better to await confirmation. The sudden rise seemed hardly justified — and so on. The [[City]] Editor was groping. Yet what had happened was simple enough. First had come a few little heaves. Everyone in that luncheon-room — except the banker — had given their orders. Even the kind old Cabinet Minister, who, driving away with his niece, the banker’s wife, had with difficulty grasped what was toward, was dragged in. — For that excellent woman had bawled at him as they span away from Mrs. Cyril’s door, “Uncle Tom, buy Touaregs!” — and Uncle Tom, with his gentle, futile smile had said, “Eh, what?” The lady had repeated in a scream, “Buy Touaregs!” and the word “buy” had penetrated the passage of that senile ear. A younger gleam had illumined the statesman’s eye; he had said almost briskly, “Eh, what? Buy what?” His niece sinking back pettishly on the cushion had muttered, “Silly old ass!” Then, remembering a common interest, she had braced herself to a supreme effort and roared, “TOUAREGS!” and seeing ineptitude spreading once more over her uncle’s finely inherited features, had taken a little gold pencil and a diary from her bag, had scribbled in shaky letters to the bumping of the [[Machine|machine]], “TOUAREGS” — torn off the page, and thrust it into his hand. He nodded. At last he understood. And she dropped him at his door just in time to get the order through.
+He read the comment of the [[motifs/city|City]] Editor — the comment of a man ignorant, puzzled, and pretending in his style omniscience. Someone had got early news of a new French surrender; a new pocket of the deposits had been found — it was said. It was better to await confirmation. The sudden rise seemed hardly justified — and so on. The [[motifs/city|City]] Editor was groping. Yet what had happened was simple enough. First had come a few little heaves. Everyone in that luncheon-room — except the banker — had given their orders. Even the kind old Cabinet Minister, who, driving away with his niece, the banker’s wife, had with difficulty grasped what was toward, was dragged in. — For that excellent woman had bawled at him as they span away from Mrs. Cyril’s door, “Uncle Tom, buy Touaregs!” — and Uncle Tom, with his gentle, futile smile had said, “Eh, what?” The lady had repeated in a scream, “Buy Touaregs!” and the word “buy” had penetrated the passage of that senile ear. A younger gleam had illumined the statesman’s eye; he had said almost briskly, “Eh, what? Buy what?” His niece sinking back pettishly on the cushion had muttered, “Silly old ass!” Then, remembering a common interest, she had braced herself to a supreme effort and roared, “TOUAREGS!” and seeing ineptitude spreading once more over her uncle’s finely inherited features, had taken a little gold pencil and a diary from her bag, had scribbled in shaky letters to the bumping of the [[motifs/machine|machine]], “TOUAREGS” — torn off the page, and thrust it into his hand. He nodded. At last he understood. And she dropped him at his door just in time to get the order through.
 
 Charlie Terrard had done better. Better than the banker’s wife, better than the kindly old Cabinet Minister, better than the two ex-Lord Chancellors, better than Mrs. Cyril herself; better even than Marjorie Kayle; better, far better, than the solid banker himself, who as he trudged manfully back to his office, had turned the thing over in his mind and had determined with sound business sense that when a man like John K. Petre said publicly that he was buying it meant quite certainly that he was unloading. Therefore had that banker shrewdly refrained from touching the affair and thereby missed a pile.
 
@@ -3980,20 +3980,20 @@ Charlie Terrard before that Monday’s business closed was alarmed. They got qui
 
 Away down in Hampshire Mr. Petre watched those figures with a vague, imperfect comprehension of their meaning; but he had at least a general impression that he was safe. Of when settling day might be, of what settling day might mean, he knew nothing; but he saw that something had happened which — unless Terrard was hopeless — made him secure. His first wild thought of flight left him altogether. He determined to return; and only when he had made that determination did it occur to him that if he had fled he would have come in a very few weeks to the end of his tether.
 
-He made no haste to get back to [[London]], though the hotel was again his goal. The freedom from haunting terrors of publicity and pursuit was grateful. He stopped at one place and another, drinking in the spring. And when he got back to the Savoy he was refreshed and strengthened to meet whatever might be awaiting him, though his nervousness returned as he got back into his room and looked for his correspondence.
+He made no haste to get back to [[settings/london|London]], though the hotel was again his goal. The freedom from haunting terrors of publicity and pursuit was grateful. He stopped at one place and another, drinking in the spring. And when he got back to the Savoy he was refreshed and strengthened to meet whatever might be awaiting him, though his nervousness returned as he got back into his room and looked for his correspondence.
 
 There was only one letter, in the business envelope of Blake and Blake, upon his table; and within it a very few formal lines, and a cheque for £73.729 16s. 3d.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO IV
+CAPITOLO IV
 
 Il signor Petre, che soggiornava in quella locanda nel paese, provò per la prima volta in quei giorni un senso di sollievo dalla tensione che lo opprimeva. Cominciò a rendersi conto di quanto fosse insopportabile quella situazione, e nella sua mente prese forma l’idea di nascondersi completamente; forse addirittura di andare all’estero, cambiare nome e liberarsi da quelle preoccupazioni sempre più insostenibili, nonché da un problema che sembrava impossibile risolvere. Gli dava persino conforto credere, come ormai aveva iniziato a pensare, di non poter mai recuperare il proprio nome né il proprio passato. Un’abitudine profondamente radicata, ma ormai inconscia, lo portava a dare per scontato che il suo sostentamento sarebbe stato comunque garantito. Fu una fortuna per lui che non dovesse mettere alla prova quell’illusione.
 
 Riposò profondamente tutta la notte, e già la mattina seguente aveva deciso di cercare informazioni su un treno per Southampton e sulle orari dei traghetti. Ma il giornale del mattino, che gli era stato messo davanti al tavolo, deviò improvvisamente i suoi pensieri in una direzione diversa. Sulla pagina finale, lì dove lo aveva aperto casualmente, lesse un titolo sensazionale: “I TAUAREGHI IN FURIA”, e vide quella straordinaria serie di prezzi che avevano registrato un aumento vertiginoso nel corso della giornata precedente, proprio il giorno prima della sua partenza dalla città.
 
-Lesse il commento dell’editore della [[City|>Città]]: un commento di un uomo ignorante, perplesso e che fingeva di possedere una saggezza onnicomprensiva. Qualcuno aveva ricevuto notizie anticipate riguardo a una nuova resa della Francia; si diceva che fosse stata scoperta un’altra zona dove si trovavano i depositi. Era meglio aspettare conferme. Quel repentino aumento sembrava davvero inspiegabile. E così via. L’editore della [[City|>Città]] cercava disperatamente di capire cosa stesse succedendo. In realtà, però, tutto era abbastanza semplice: prima ci erano stati alcuni piccoli segnali. Tutti presenti in quella sala da pranzo – tranne il banchiere – avevano già dato le loro istruzioni. Anche quel gentile vecchio ministro del gabinetto, che si stava allontanando con sua nipote, la moglie del banchiere, faticava a comprendere cosa stesse accadendo. Ma quella eccellente donna gli aveva gridato mentre uscivano dalla porta di Mrs. Cyril: “Zio Tom, compra i Touareg!” E zio Tom, con il suo sorriso gentile ma inefficace, aveva chiesto: “Eh? Cosa?” La donna aveva ripetuto urlando: “Compra i Touareg!” E quella parola era finalmente arrivata alle orecchie di quel vecchio. Un barlume di intuizione gli illuminò lo sguardo; disse quasi con decisione: “Eh? Comprare cosa?” Sua nipote, delusa, si appoggiò di nuovo allo schienale della poltrona e mormorò: “Stupido vecchio, ” Poi, ricordando un interesse comune, fece uno sforzo supremo e gridò ancora: “I Touareg!” Vedendo che l’incompetenza tornava ad apparire sul volto di suo zio, prese una penna d’oro e un diario dalla borsa, scrisse con mano tremante “I Touareg” mentre la [[Machine|macchina]] continuava a funzionare rumorosamente, strappò il foglio e glielo mise in mano. Lui annuì. Finalmente capiva. E lei lo lasciò davanti alla sua porta giusto in tempo perché potesse dare l’ordine.
+Lesse il commento dell’editore della [[motifs/city|>Città]]: un commento di un uomo ignorante, perplesso e che fingeva di possedere una saggezza onnicomprensiva. Qualcuno aveva ricevuto notizie anticipate riguardo a una nuova resa della Francia; si diceva che fosse stata scoperta un’altra zona dove si trovavano i depositi. Era meglio aspettare conferme. Quel repentino aumento sembrava davvero inspiegabile. E così via. L’editore della [[motifs/city|>Città]] cercava disperatamente di capire cosa stesse succedendo. In realtà, però, tutto era abbastanza semplice: prima ci erano stati alcuni piccoli segnali. Tutti presenti in quella sala da pranzo – tranne il banchiere – avevano già dato le loro istruzioni. Anche quel gentile vecchio ministro del gabinetto, che si stava allontanando con sua nipote, la moglie del banchiere, faticava a comprendere cosa stesse accadendo. Ma quella eccellente donna gli aveva gridato mentre uscivano dalla porta di Mrs. Cyril: “Zio Tom, compra i Touareg!” E zio Tom, con il suo sorriso gentile ma inefficace, aveva chiesto: “Eh? Cosa?” La donna aveva ripetuto urlando: “Compra i Touareg!” E quella parola era finalmente arrivata alle orecchie di quel vecchio. Un barlume di intuizione gli illuminò lo sguardo; disse quasi con decisione: “Eh? Comprare cosa?” Sua nipote, delusa, si appoggiò di nuovo allo schienale della poltrona e mormorò: “Stupido vecchio, ” Poi, ricordando un interesse comune, fece uno sforzo supremo e gridò ancora: “I Touareg!” Vedendo che l’incompetenza tornava ad apparire sul volto di suo zio, prese una penna d’oro e un diario dalla borsa, scrisse con mano tremante “I Touareg” mentre la [[motifs/machine|macchina]] continuava a funzionare rumorosamente, strappò il foglio e glielo mise in mano. Lui annuì. Finalmente capiva. E lei lo lasciò davanti alla sua porta giusto in tempo perché potesse dare l’ordine.
 
 Charlie Terrard aveva fatto meglio. Meglio della moglie del banchiere, meglio dell’anziano e gentile Ministro del Gabinetto, meglio dei due ex Cancellieri Lord, persino meglio di Mrs. Cyril stessa; meglio ancora di Marjorie Kayle. Molto meglio, decisamente molto meglio del solido stesso banchiere, il quale, mentre tornava con determinazione in ufficio, aveva riflettuto attentamente sulla situazione e, con un sano senso degli affari, aveva concluso che quando una persona come John K. Petre dichiarava pubblicamente di voler acquistare qualcosa, ciò significava sicuramente che intendeva venderlo. Per questo motivo, quel banchiere aveva saggiamente deciso di non intervenire in quella transazione, perdendo così un’ottima opportunità.
 
@@ -4003,7 +4003,7 @@ Prima che terminasse l’operazione di quel lunedì, Charlie Terrard era preoccu
 
 Lontano, nel Hampshire, il signor Petre osservava quelle figure con una comprensione vaga e imperfetta del loro significato; ma almeno aveva l’impressione generale di essere al sicuro. Non sapeva quando sarebbe arrivata la “giornata della sistemazione”, né cosa essa potesse significare; tuttavia capiva che era accaduto qualcosa che, a meno che Terrard non fosse irrimediabilmente perduto, lo rendeva al sicuro. Il suo primo impulso folle di fuggire svanì del tutto; decise quindi di tornare indietro. Solo quando prese questa decisione gli venne in mente che, se avesse fugito, in poche settimane sarebbe arrivato alla fine dei suoi mezzi.
 
-Non si affrettò a tornare a [[London|Londra]], anche se l’hotel era di nuovo la sua meta. Era grato per quella libertà, lontana dalle angosce derivanti dalla pubblicità e dalle persecuzioni. Si fermò in diversi luoghi, godendosi il clima primaverile. Quando tornò al Savoy, si sentiva rinfrescato e più preparato ad affrontare qualsiasi cosa lo aspettasse, anche se la sua nervosità ritornò non appena entrò in camera e iniziò a cercare la sua corrispondenza.
+Non si affrettò a tornare a [[settings/london|Londra]], anche se l’hotel era di nuovo la sua meta. Era grato per quella libertà, lontana dalle angosce derivanti dalla pubblicità e dalle persecuzioni. Si fermò in diversi luoghi, godendosi il clima primaverile. Quando tornò al Savoy, si sentiva rinfrescato e più preparato ad affrontare qualsiasi cosa lo aspettasse, anche se la sua nervosità ritornò non appena entrò in camera e iniziò a cercare la sua corrispondenza.
 
 C'era solo una lettera, nell'involucro da lavoro della ditta Blake e Blake, posata sul suo tavolo; al suo interno c'erano poche righe formali e un assegno da 73,729 sterline, 16 scellini e 3 pence.
 
@@ -4016,9 +4016,9 @@ C'era solo una lettera, nell'involucro da lavoro della ditta Blake e Blake, posa
 
 The importance of any sum of money differs with the habits of the recipient. It is possible that Mr. Petre in the full knowledge of what and who he was would have found that sum sufficient, but nothing overwhelming. It is possible that it might have seemed to him an incredible fortune. If he were what all indications made him out to be, it was but one fairly successful minor transaction. If he were what a very vague, very confused, but permanent profound sense warned him that he was, it was a miracle, changing all his prospects.
 
-But neither the one attitude nor the other was that of Mr. Petre as he spread out the cheque before him and stared rather stupidly at the figures. His preoccupation was not with the magnitude of the sum, nor with its comparative insignificance. His preoccupation was with a much simpler question — of what he should do with that little bit of pink paper. He knew, just as he knew the Strand, and the map of England, and Bradshaw and the rest of it — though he did not know himself — that there were such things as banks and banking accounts, and that pieces of paper of this kind went through that [[Machine|machine]]. But he stood like a child in the matter of how to begin.
+But neither the one attitude nor the other was that of Mr. Petre as he spread out the cheque before him and stared rather stupidly at the figures. His preoccupation was not with the magnitude of the sum, nor with its comparative insignificance. His preoccupation was with a much simpler question — of what he should do with that little bit of pink paper. He knew, just as he knew the Strand, and the map of England, and Bradshaw and the rest of it — though he did not know himself — that there were such things as banks and banking accounts, and that pieces of paper of this kind went through that [[motifs/machine|machine]]. But he stood like a child in the matter of how to begin.
 
-Here again the simplest course would have been to have looked up Terrard in the book, met him and consulted him. But that would have been to give himself away, and to open that series of questions the starting of which he had come to dread as a man dreads an operation. He did what all men do when they are quite at a loss. He plunged. He put that cheque into an hotel envelope, put the envelope in his pocket, walked aimlessly through half a dozen turnings, and entered the doors of the first bank he saw. It was a branch, neither small nor great, doing business briskly in a quarter of large shops; one of a score of such branches in central [[London]], nothing more.
+Here again the simplest course would have been to have looked up Terrard in the book, met him and consulted him. But that would have been to give himself away, and to open that series of questions the starting of which he had come to dread as a man dreads an operation. He did what all men do when they are quite at a loss. He plunged. He put that cheque into an hotel envelope, put the envelope in his pocket, walked aimlessly through half a dozen turnings, and entered the doors of the first bank he saw. It was a branch, neither small nor great, doing business briskly in a quarter of large shops; one of a score of such branches in central [[settings/london|London]], nothing more.
 
 The furniture was familiar to him, for banks are all upon a pattern; and the brass railings and the mahogany desks and the glass swing doors and the little army of clerks all scribbling in huge leather-bound books, gave him, he knew not why, an odd association of discomfort and dread: of irritation and humiliation: of worries. But the feeling was slight, a long and far-off thing stirring in the depths of his mind. He went straight up to a worthy young gentleman in round spectacles adorning a face like the full moon, who was rapidly counting slips with a dampened finger behind the railings. He simply pushed over the cheque.
 
@@ -4062,7 +4062,7 @@ A wild dread pierced like a lance through Mr. Petre’s inmost soul. He had an i
 
 “Oh, Mr. Petre? Mr. Petre, I presume? I wonder whether you could be so kind — whether you could spare a moment! The manager would really be very much honoured...”
 
-Mr. Petre followed him mechanically through a door, down a deeply carpeted passage on the walls of which were three engravings of the Mother Bank in the [[City]] of [[London]]; one dated 1815, one 1852, and the last 1930; they displayed a progressive decay in the architectural sense of bankers. The charming man pushed open a further door with grace, with decision, with reverence, and Mr. Petre found himself in the presence of a very fine old English gentleman, solid, rubicund, who stood up solemnly at his entry and welcomed him with a sensible apology for taking up his time. His high forehead witnessed to a lifetime of profound thought, his white beard to careful grooming.
+Mr. Petre followed him mechanically through a door, down a deeply carpeted passage on the walls of which were three engravings of the Mother Bank in the [[motifs/city|City]] of [[settings/london|London]]; one dated 1815, one 1852, and the last 1930; they displayed a progressive decay in the architectural sense of bankers. The charming man pushed open a further door with grace, with decision, with reverence, and Mr. Petre found himself in the presence of a very fine old English gentleman, solid, rubicund, who stood up solemnly at his entry and welcomed him with a sensible apology for taking up his time. His high forehead witnessed to a lifetime of profound thought, his white beard to careful grooming.
 
 “It is very good of you indeed, Mr. Petre; very good of you, I am sure. Pray take this chair.”
 
@@ -4077,7 +4077,7 @@ L’importanza di qualsiasi somma di denaro varia in base alle abitudini della p
 
 Ma né quell'atteggiamento né l'altro erano tipici del signor Petre quando dispiegò il assegno davanti a sé e fissò, con un'espressione piuttosto stupida, le cifre riportate su di esso. La sua preoccupazione non riguardava l’entità della somma, né la sua relativa insignificanza. La sua preoccupazione era legata a una questione molto più semplice: cosa dovesse fare con quel pezzetto di carta rosa. Sapeva, proprio come conosceva il Strand, la mappa d’Inghilterra, Bradshaw e tutto il resto – anche se non lo sapeva lui stesso – che esistevano banche e conti bancari, e che pezzi di carta del genere venivano inseriti in quella particolare “macchina”. Ma, in merito a come procedere, si comportava come un bambino.
 
-Ancora una volta, la soluzione più semplice sarebbe stata cercare informazioni su Terrard nel libro, incontrarlo e consultarlo. Ma ciò avrebbe significato rivelare la propria posizione e innescare quella serie di problemi che, ormai, lui temeva quanto un uomo teme un intervento chirurgico. Fece quindi ciò che fanno tutti quando sono completamente disperati: agì d’impulso. Mette il assegno in una busta dell’albergo, se la infila in tasca, gira a caso per diverse strade e entra nella prima banca che vede. Era una filiale, né piccola né grande, che svolgeva le proprie attività con discreta efficienza in un quartiere pieno di negozi; una delle tante filiali presenti nel centro di [[London|Londra]], nient’altro.
+Ancora una volta, la soluzione più semplice sarebbe stata cercare informazioni su Terrard nel libro, incontrarlo e consultarlo. Ma ciò avrebbe significato rivelare la propria posizione e innescare quella serie di problemi che, ormai, lui temeva quanto un uomo teme un intervento chirurgico. Fece quindi ciò che fanno tutti quando sono completamente disperati: agì d’impulso. Mette il assegno in una busta dell’albergo, se la infila in tasca, gira a caso per diverse strade e entra nella prima banca che vede. Era una filiale, né piccola né grande, che svolgeva le proprie attività con discreta efficienza in un quartiere pieno di negozi; una delle tante filiali presenti nel centro di [[settings/london|Londra]], nient’altro.
 
 I mobili gli erano familiari, perché tutti i banchi seguono lo stesso schema; le ringhiere di ottone, i banchi in mogano, le porte a vetri e quella piccola schiera di impiegati che scrivevano tutti in enormi libri rilegati in pelle gli suscitavano, chissà perché, una strana sensazione di disagio e terrore: di irritazione e umiliazione, di preoccupazioni. Ma quel sentimento era debole, qualcosa che si agitava lontano nelle profondità della sua mente. Andò dritto da un giovane gentiluomo dall’aspetto dignitoso, con occhiali rotondi e un viso simile alla luna piena; quest’ultimo stava rapidamente contando dei fogli di carta con un dito umido, dietro la ringhiera. Lui gli porse semplicemente il assegno.
 
@@ -4089,11 +4089,11 @@ Il signor Petre lo guardò con un'espressione vuota, piena di perplessità e int
 
 “È lei il destinatario del pagamento?”, chiese l’umile collaboratore del settore finanziario internazionale, con la stessa impazienza di sempre. Ma il signor Petre non capì il significato della parola “destinatario del pagamento”.
 
-# Sei tu la persona a cui è intestato questo assegno?
+Sei tu la persona a cui è intestato questo assegno?
 
 Capì perfettamente! “Sì,” disse il signor Petre.
 
-# Vuoi pagarlo subito?
+Vuoi pagarlo subito?
 
 “Credo di sì,” disse il signor Petre.
 
@@ -4121,7 +4121,7 @@ Un terrore selvaggio penetrò come una lancia nell’anima più profonda del sig
 
 “Oh, signor Petre. Immagino sia lei, vero? Mi chiedevo se potesse essere così gentile da dedicarmi un momento. Il direttore ne sarebbe davvero molto grato, ”
 
-Il signor Petre lo seguì meccanicamente attraverso una porta, lungo un corridoio profondamente rivestito di tappeti; sulle pareti vi erano tre incisioni raffiguranti la Banca Madre nella [[City|>Città]] di [[London|>Londra]]: una risalente al 1815, un'altra al 1852 e l'ultima al 1930. Queste incisioni mostravano chiaramente il progressivo declino delle concezioni architettoniche dei banchieri nel corso del tempo. L’uomo affascinante aprì un’altra porta con grazia, decisione e rispetto; il signor Petre si trovò di fronte a un vero e proprio gentiluomo inglese anziano, robusto e dal viso rossastro, che si alzò solennemente al suo ingresso per accoglierlo scusandosi sinceramente per avergli occupato del tempo. La sua alta fronte testimoniava una vita trascorsa nella profonda riflessione, mentre la sua barba bianca indicava un’attenta cura di sé.
+Il signor Petre lo seguì meccanicamente attraverso una porta, lungo un corridoio profondamente rivestito di tappeti; sulle pareti vi erano tre incisioni raffiguranti la Banca Madre nella [[motifs/city|>Città]] di [[settings/london|>Londra]]: una risalente al 1815, un'altra al 1852 e l'ultima al 1930. Queste incisioni mostravano chiaramente il progressivo declino delle concezioni architettoniche dei banchieri nel corso del tempo. L’uomo affascinante aprì un’altra porta con grazia, decisione e rispetto; il signor Petre si trovò di fronte a un vero e proprio gentiluomo inglese anziano, robusto e dal viso rossastro, che si alzò solennemente al suo ingresso per accoglierlo scusandosi sinceramente per avergli occupato del tempo. La sua alta fronte testimoniava una vita trascorsa nella profonda riflessione, mentre la sua barba bianca indicava un’attenta cura di sé.
 
 “È davvero molto gentile da parte sua, signor Petre; ne sono sicuro. Per favore, si sieda su questa sedia.”
 
@@ -4134,7 +4134,7 @@ E pose un pezzo di arredamento sacro, conservato fin dai primi tempi della Casa 
 
 The two men sat down, and the manager opened genially.
 
-“Well, Mr. Petre, we had no idea you were in [[London]].”
+“Well, Mr. Petre, we had no idea you were in [[settings/london|London]].”
 
 “No,” answered Mr. Petre, after a pause; then quite idiotically. “I mean yes.” He was on the point of adding the day of his arrival, when the terror of inquisition leapt up before him, and he was silent.
 
@@ -4158,7 +4158,7 @@ For Mr. Petre had not the least idea what he should reply, nor whether he was be
 
 “Fifty crossed to order.” Then he fell silent again.
 
-“Of course, Mr. Petre,” continued the great man, with a touch of nervousness strange in such a voice and so well poised a mouth, “we shall be happy to do anything you may require during your stay in [[London]]. Any transaction or — ah — I won’t say advice,” and here he smiled with dignity, “but any — well — anything you may require.”
+“Of course, Mr. Petre,” continued the great man, with a touch of nervousness strange in such a voice and so well poised a mouth, “we shall be happy to do anything you may require during your stay in [[settings/london|London]]. Any transaction or — ah — I won’t say advice,” and here he smiled with dignity, “but any — well — anything you may require.”
 
 “Yes, certainly,” said Mr. Petre. “Certainly. By all means.” He could hardly say less.
 
@@ -4177,7 +4177,7 @@ Yes, it was perfectly familiar. That was where you signed, and those little blan
 
 I due uomini si sedettero, e il manager iniziò la conversazione con cordialità.
 
-“Beh, signor Petre, non sapevamo affatto che si trovasse a [[London|Londra]].”
+“Beh, signor Petre, non sapevamo affatto che si trovasse a [[settings/london|Londra]].”
 
 “No,” rispose il signor Petre dopo una pausa; poi, in modo piuttosto stupido, aggiunse: “Voglio dire sì.” Stava per indicare anche la data del suo arrivo, quando il terrore dell’interrogatorio gli balenò davanti agli occhi e rimase in silenzio.
 
@@ -4201,7 +4201,7 @@ Perché il signor Petre non aveva la minima idea di cosa dovesse rispondere, né
 
 “Cinquanta unità consegnate su ordine.” Poi rimase di nuovo in silenzio.
 
-“Certo, signor Petre,” continuò l’uomo importante, con un leggero nervosismo insolito in una voce così calma e in una bocca così ben controllata, “sarà un piacere per noi fare qualsiasi cosa possiate richiedere durante il vostro soggiorno a [[London|Londra]]. Qualsiasi transazione o, ah, non dirò consiglio,” e qui sorrise con dignità, “ma qualsiasi cosa possiate aver bisogno.”
+“Certo, signor Petre,” continuò l’uomo importante, con un leggero nervosismo insolito in una voce così calma e in una bocca così ben controllata, “sarà un piacere per noi fare qualsiasi cosa possiate richiedere durante il vostro soggiorno a [[settings/london|Londra]]. Qualsiasi transazione o, ah, non dirò consiglio,” e qui sorrise con dignità, “ma qualsiasi cosa possiate aver bisogno.”
 
 “Sì, certamente,” disse il signor Petre. “Certo, senza dubbio.” Non avrebbe potuto dire di meno.
 
@@ -4220,13 +4220,13 @@ Sì, era tutto perfettamente familiare. Era lì che si firmava; quei piccoli spa
 <span class="atom-split" data-atom="chapter_04--part_04" data-title="Mr. Petre — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="setting/london"></span>
 
 
-He put down a little list of what he already knew. He had been in the States, he had been there some little time at least, and perhaps for a lifetime. If he was an American citizen, at any rate he knew [[London]] well. Perhaps if he went back to the States he would discover there what he was; it might all return to him in the familiar sounds and sights and smells. But it was a big effort to make for finding out something that might be discovered much more easily or that might return to him at any moment. He had in the States befriended a certain Mr. Cyril, now dead. A Mr. Leonard Cyril. Plenty of people must have known this Mr. Cyril, for by his widow the man was rich and her acquaintance nobby. If he went about it quite carefully, in some company where his name was not known, he might hear what kind of man this Mr. Petre was who had thus befriended Mr. Leonard Cyril, a man so wealthy that his very widow rolled in it — to judge by her house and guests. Then there was the other main clue, he had been in a train arriving at a certain hour at Paddington. Now that he had collected his wits it would be a simple matter to find out where that train had started from. Yes, there were quite a number of clues. It ought not to take long. He turned to the Bradshaw. A train from Cardiff came into Paddington at one. He did not know that his own train, the boat train from Plymouth, had been half an hour late. He noted that Cardiff train and its stops. He had come from Cardiff or beyond, or joined at Swindon. It wasn’t much of a help but it limited the field.
+He put down a little list of what he already knew. He had been in the States, he had been there some little time at least, and perhaps for a lifetime. If he was an American citizen, at any rate he knew [[settings/london|London]] well. Perhaps if he went back to the States he would discover there what he was; it might all return to him in the familiar sounds and sights and smells. But it was a big effort to make for finding out something that might be discovered much more easily or that might return to him at any moment. He had in the States befriended a certain Mr. Cyril, now dead. A Mr. Leonard Cyril. Plenty of people must have known this Mr. Cyril, for by his widow the man was rich and her acquaintance nobby. If he went about it quite carefully, in some company where his name was not known, he might hear what kind of man this Mr. Petre was who had thus befriended Mr. Leonard Cyril, a man so wealthy that his very widow rolled in it — to judge by her house and guests. Then there was the other main clue, he had been in a train arriving at a certain hour at Paddington. Now that he had collected his wits it would be a simple matter to find out where that train had started from. Yes, there were quite a number of clues. It ought not to take long. He turned to the Bradshaw. A train from Cardiff came into Paddington at one. He did not know that his own train, the boat train from Plymouth, had been half an hour late. He noted that Cardiff train and its stops. He had come from Cardiff or beyond, or joined at Swindon. It wasn’t much of a help but it limited the field.
 
 Then his mind passed again to those questions he had to frame. But it must be done with tact. He saw himself again in Mrs. Cyril’s house trying to shepherd her words into his fold. He might begin in a tone of gentle and respectful condolence: “When I met Mr. Cyril...” and then hope that she would interrupt with, “Ah, yes! How good you were to him in New York” — or Topeka, or wherever the damned place was. But then again, she might meet him with a counter question, and say, “Oh, do tell me, please, how Miriam is?” Then he would get it between wind and water, and if he had shuddered a moment ago, now he trembled. It was not so easy as it looked.
 
 A brilliant thought leapt into his brain. And as it leapt his guardian Daemon laughed.
 
-He rang the bell, he unbolted the door. He asked if they had in the hotel any American books of reference. They had a New York telephone book, and a very strange, short, fat volume in which were the names of the American great who still survived in this sad world to the end of November, 1952. For there was a brutal note on the title-page, “The Editor cannot guarantee that none of the names mentioned in this annual, which went through the press at the end of November last, may not since have died.” There was no John K. Petre. He was ashamed to ask for more books of this library. He went down to the ground floor and consulted the [[London]] Directory. There was no John K. Petre. He made a note that he would look, as a last and desperate chance, at the New York Directory, and would guarantee it to say if he had ever lived in New York. They had one — of two years before. There was no John K. Petre.
+He rang the bell, he unbolted the door. He asked if they had in the hotel any American books of reference. They had a New York telephone book, and a very strange, short, fat volume in which were the names of the American great who still survived in this sad world to the end of November, 1952. For there was a brutal note on the title-page, “The Editor cannot guarantee that none of the names mentioned in this annual, which went through the press at the end of November last, may not since have died.” There was no John K. Petre. He was ashamed to ask for more books of this library. He went down to the ground floor and consulted the [[settings/london|London]] Directory. There was no John K. Petre. He made a note that he would look, as a last and desperate chance, at the New York Directory, and would guarantee it to say if he had ever lived in New York. They had one — of two years before. There was no John K. Petre.
 
 Then another ruse suggested itself to him. He would with infinite pains secure the services of a man — perhaps there were those who did it for a living — of some man who would find out for him all about Mr. John K. Petre.
 
@@ -4234,7 +4234,7 @@ He went down by the great stairs turning over in his mind the strange dearth of 
 
 Petre did, somewhere, dominate the world; but where? He formed the plan of consulting his one friend at the Registration counter.
 
-He made his effort. He went to the clerk standing at the great book of registry, and asked him in a low voice (after looking about to make sure that no one could hear) whether he might be told the name of some agency or person who could look up a small obscure private point for him while he was in [[London]]. It was confidential. The clerk, who made an honest penny, among many dozen other honest pennies, by recommending the right people, wrote out at once upon his own card a name and an address: “Jos. Daniels, 27 Birkham Street, Soho.”
+He made his effort. He went to the clerk standing at the great book of registry, and asked him in a low voice (after looking about to make sure that no one could hear) whether he might be told the name of some agency or person who could look up a small obscure private point for him while he was in [[settings/london|London]]. It was confidential. The clerk, who made an honest penny, among many dozen other honest pennies, by recommending the right people, wrote out at once upon his own card a name and an address: “Jos. Daniels, 27 Birkham Street, Soho.”
 
 “Mr. Petre,” he said, with his usual respect, which seemed so exaggerated to the unfortunate man to whom it was addressed, “if you will just go and give that personally, I think you will get all you want. There is no proper office, and no name put up. Mr. Daniels is too careful for that. He has worked wonders, to my knowledge. Never mind the look of the house. Don’t write. He has no telephone, either. Just go there; and when you find him in, give him this card of mine.”
 
@@ -4253,13 +4253,13 @@ There were, as Mr. Petre had been warned, no marks of an office, nothing to betr
 
 <span class="qlang-split" data-lang="it"></span>
 
-Preparò una breve lista di ciò che già sapeva. Aveva vissuto negli Stati Uniti, almeno per un certo periodo di tempo, forse per tutta la vita. Se era cittadino americano, comunque conosceva bene [[London|Londra]]. Forse tornando negli Stati Uniti avrebbe scoperto chi fosse veramente; forse tutto gli sarebbe stato rivelato attraverso suoni, luoghi e odori familiari. Ma cercare di scoprire la verità in quel modo rappresentava uno sforzo notevole, quando invece quella verità avrebbe potuto essere scoperta molto più facilmente. O forse gli sarebbe stata rivelata in qualsiasi momento. Negli Stati Uniti aveva fatto amicizia con un certo signor Cyril, ora defunto: il signor Leonard Cyril. Molte persone dovevano aver conosciuto quel signor Cyril, perché dalla sua vedova si evinceva che fosse una persona molto ricca e influente. Se avesse agito con cautela, in compagnia di persone che non lo conoscevano, forse avrebbe potuto scoprire chi fosse veramente quel signor Petre che aveva stretto amicizia con il signor Leonard Cyril. Un uomo così ricco che persino la sua vedova viveva nel lusso, a giudicare dalla sua casa e dai suoi ospiti. C’era anche un altro indizio importante: aveva viaggiato su un treno che arrivava a Paddington alle una di notte. Ora che aveva ripreso il controllo delle proprie idee, sarebbe stato facile scoprire da dove provenisse quel treno. Sì, c’erano abbastanza indizi. Non avrebbe dovuto impiegare molto tempo. Prese lo “Bradshaw” e scoprì che un treno proveniente da Cardiff arrivava a Paddington alle una di notte. Non sapeva però che il suo stesso treno, quello in partenza da Plymouth, era in ritardo di mezz’ora. Segnò i dettagli di quel treno e delle sue fermate. Era arrivato da Cardiff o da qualche luogo ancora più lontano. O forse si era unito al treno a Swindon. Non era un indizio molto utile, ma almeno restringeva le possibilità.
+Preparò una breve lista di ciò che già sapeva. Aveva vissuto negli Stati Uniti, almeno per un certo periodo di tempo, forse per tutta la vita. Se era cittadino americano, comunque conosceva bene [[settings/london|Londra]]. Forse tornando negli Stati Uniti avrebbe scoperto chi fosse veramente; forse tutto gli sarebbe stato rivelato attraverso suoni, luoghi e odori familiari. Ma cercare di scoprire la verità in quel modo rappresentava uno sforzo notevole, quando invece quella verità avrebbe potuto essere scoperta molto più facilmente. O forse gli sarebbe stata rivelata in qualsiasi momento. Negli Stati Uniti aveva fatto amicizia con un certo signor Cyril, ora defunto: il signor Leonard Cyril. Molte persone dovevano aver conosciuto quel signor Cyril, perché dalla sua vedova si evinceva che fosse una persona molto ricca e influente. Se avesse agito con cautela, in compagnia di persone che non lo conoscevano, forse avrebbe potuto scoprire chi fosse veramente quel signor Petre che aveva stretto amicizia con il signor Leonard Cyril. Un uomo così ricco che persino la sua vedova viveva nel lusso, a giudicare dalla sua casa e dai suoi ospiti. C’era anche un altro indizio importante: aveva viaggiato su un treno che arrivava a Paddington alle una di notte. Ora che aveva ripreso il controllo delle proprie idee, sarebbe stato facile scoprire da dove provenisse quel treno. Sì, c’erano abbastanza indizi. Non avrebbe dovuto impiegare molto tempo. Prese lo “Bradshaw” e scoprì che un treno proveniente da Cardiff arrivava a Paddington alle una di notte. Non sapeva però che il suo stesso treno, quello in partenza da Plymouth, era in ritardo di mezz’ora. Segnò i dettagli di quel treno e delle sue fermate. Era arrivato da Cardiff o da qualche luogo ancora più lontano. O forse si era unito al treno a Swindon. Non era un indizio molto utile, ma almeno restringeva le possibilità.
 
 Poi i suoi pensieri tornarono di nuovo su quelle domande che doveva formulare. Ma doveva farlo con delicatezza. Si rivedeva nella casa della signora Cyril, cercando di indirizzare le sue parole verso il proprio scopo. Avrebbe potuto iniziare con un tono gentile e rispettoso: “Quando ho incontrato il signor Cyril, ”, sperando poi che lei interrompesse dicendo: “Ah, sì! Quanto siete stato buono con lui a New York” – o a Topeka, o ovunque fosse quel maledetto posto. Ma d’altra parte, lei avrebbe potuto anche porre una domanda a sua volta, chiedendo: “Oh, per favore, ditemi come sta Miriam”. Allora si sarebbe trovato in una situazione molto difficile; se un attimo prima aveva provato timore, ora tremava davvero. Non era affatto così semplice come sembrava.
 
 Un’idea geniale gli balenò nella mente. E mentre gli veniva in mente, il suo guardiano Daemon rise.
 
-Suonò il campanello, aprì la porta. Chiese se nell’hotel ci fossero libri di riferimento americani. Avevano un elenco telefonico di New York e un volume molto strano, corto e grosso, in cui erano elencati i nomi dei grandi americani ancora viventi in questo triste mondo entro la fine di novembre 1952. Sulla pagina del titolo c’era una nota crudele: “L’editore non può garantire che nessuno dei nomi menzionati in quest’annuario, pubblicato alla fine di novembre dello scorso anno, non sia deceduto da allora.” Non c’era alcun John K. Petre. Si vergognò di chiedere altri libri della biblioteca. Scese al piano terra e consultò l’[[London|Elenco telefonico di Londra]]. Non c’era alcun John K. Petre. Decise che, come ultima speranza disperata, avrebbe controllato l’elenco telefonico di New York per verificare se quel nome esistesse davvero. Ne avevano uno, risalente a due anni prima. Ma non c’era alcun John K. Petre.
+Suonò il campanello, aprì la porta. Chiese se nell’hotel ci fossero libri di riferimento americani. Avevano un elenco telefonico di New York e un volume molto strano, corto e grosso, in cui erano elencati i nomi dei grandi americani ancora viventi in questo triste mondo entro la fine di novembre 1952. Sulla pagina del titolo c’era una nota crudele: “L’editore non può garantire che nessuno dei nomi menzionati in quest’annuario, pubblicato alla fine di novembre dello scorso anno, non sia deceduto da allora.” Non c’era alcun John K. Petre. Si vergognò di chiedere altri libri della biblioteca. Scese al piano terra e consultò l’[[settings/london|Elenco telefonico di Londra]]. Non c’era alcun John K. Petre. Decise che, come ultima speranza disperata, avrebbe controllato l’elenco telefonico di New York per verificare se quel nome esistesse davvero. Ne avevano uno, risalente a due anni prima. Ma non c’era alcun John K. Petre.
 
 Allora gli venne in mente un altro trucco. Avrebbe fatto di tutto per assicurarsi i servizi di una persona – forse c'erano persone che lo facevano come lavoro – qualcuno che potesse scoprire per lui tutto su Mr. John K. Petre.
 
@@ -4267,7 +4267,7 @@ Discese le grandi scale, riflettendo su quella strana assenza di John K. Petres 
 
 Petre, da qualche parte, avrebbe potuto dominare il mondo. Ma dove? Decise di consultarsi con l’unico suo amico al banco dell’iscrizione.
 
-Fece del suo meglio. Si avvicinò al impiegato che stava dietro il grande registro e, dopo essersi assicurato che nessuno potesse sentire, gli chiese a voce bassa se fosse possibile conoscere il nome di un’agenzia o di una persona in grado di aiutarlo a risolvere una piccola questione privata mentre si trovava a [[London|Londra]]. Si trattava di informazioni confidenziali. L’impiegato, che guadagnava onestamente il proprio denaro consigliando le persone giuste, scrisse immediatamente su un biglietto il nome e l’indirizzo: “Jos. Daniels, 27 Birkham Street, Soho.”
+Fece del suo meglio. Si avvicinò al impiegato che stava dietro il grande registro e, dopo essersi assicurato che nessuno potesse sentire, gli chiese a voce bassa se fosse possibile conoscere il nome di un’agenzia o di una persona in grado di aiutarlo a risolvere una piccola questione privata mentre si trovava a [[settings/london|Londra]]. Si trattava di informazioni confidenziali. L’impiegato, che guadagnava onestamente il proprio denaro consigliando le persone giuste, scrisse immediatamente su un biglietto il nome e l’indirizzo: “Jos. Daniels, 27 Birkham Street, Soho.”
 
 “Signor Petre,” disse lui, con il solito rispetto che, però, sembrava eccessivo a quell’uomo sfortunato a cui era rivolto, “se volesse semplicemente andare personalmente a consegnarlo, credo che otterrebbe tutto ciò che desidera. Non c’è alcun ufficio ufficiale, né alcun nome esposto. Il signor Daniels è troppo attento per queste cose. Secondo quanto so, ha compiuto davvero miracoli. Lasci stare l’aspetto della casa. Non scriva nemmeno: non ha nemmeno il telefono. Vada semplicemente lì e, quando lo troverà dentro, gli dia questa mia carta.”
 
@@ -4444,15 +4444,15 @@ CHAPTER V
 
 DEEP IN THE heart of Surrey, on the edge of Walton Heath, and at the gate of that wild loneliness which is the joy of the millions who defile it, stands a house of no great age. It is called “Marengo.” Round about it lie grounds, some twenty acres in extent (of which two at least are gardens and shrubberies) wherein the speckled laurel luxuriantly grows, and from the depths of which the copper beech and other ornamental trees not infrequently protrude. To the doors of “Marengo” (which is set back some yards from the road, but not so far as to shut off the cheerful prospect of modern traffic and the enlivening sound of horns) sweeps an avenue or approach of gravel large enough to admit two motor-cars abreast; and there are two gates, but no lodges. The house itself, to be perfectly honest, is of redbrick tile-healed on the upper story; the roof, however, has been tamed and verges upon brown. Moreover, that roof has dormer windows — but the woodwork is of Norwegian pine.
 
-Now this mansion was (and is) the residence of John Charlbury, Esquire, J.P., the partner of the Honourable Charles Terrard in the firm of Blake and Blake, Brokers, on the [[London]] Stock Exchange. He was unmarried, just on fifty years of age, and bald. He was short, he was square, he was stout; he was decided, and somewhat lethargic. He was not ill-natured; he had cunning little pig’s eyes, which would have warned off the most innocent of men at fifty yards, but which were evidence of a very useful talent when they could work behind the screen of correspondence, so that the victim could be caught unawares.
+Now this mansion was (and is) the residence of John Charlbury, Esquire, J.P., the partner of the Honourable Charles Terrard in the firm of Blake and Blake, Brokers, on the [[settings/london|London]] Stock Exchange. He was unmarried, just on fifty years of age, and bald. He was short, he was square, he was stout; he was decided, and somewhat lethargic. He was not ill-natured; he had cunning little pig’s eyes, which would have warned off the most innocent of men at fifty yards, but which were evidence of a very useful talent when they could work behind the screen of correspondence, so that the victim could be caught unawares.
 
 It is related by travellers that the great tawny lion of the Atlas, though the vainest and therefore the stupidest of beasts, has at least the sense to associate with creatures very different from himself. The jackal discovers his prey, and a small bird hunts the parasites on those parts of his integument which he cannot easily reach with his muzzle or paws; the sword-fish is accompanied by a very different friend, small and bearing a lamp wherewith to guide him through the dark depths of the sea; and the very rich, themselves innocent of letters, will furnish their households with poets, dramatists and even philosophers of whatever calibre they can retain in bondage.
 
 Now so it is with the best of businesses, with the most successful houses of affairs.
 
-He does not advance the farthest who attempts to advance alone. Rather do they go farthest who associate with some other, utterly different from themselves, so that each may bring into play activities of which the other is incapable. Of such a sort was the alliance between John Charlbury, Justice of the Peace, and the Hon. Charles Terrard, nothing — not even B.A. The latter might be compared to the delicate rod line and fly; the former to the gaff and net. Terrard could go where Charlbury could never go; Charlbury could discover in the market, opportunities which Terrard would not have dreamed of. The supplemental character of their faces and their friends was paralleled in their souls. For just as Charlbury was short, bald, fat, square, elderly, and pig-eyed, while Terrard was tall, lithe, young, and marrying such innocent blue eyes to such an innocent mass of happy curls; so Charlbury knew most approaches to the soul by avarice or fear, while Terrard was familiar only with those attached to vanity, debauchery, and the customs of the rich. Charlbury conducted from the base in the [[City]], while Terrard skirmished in the West — and between them they were doing very well: were the firm of Blake and Blake, known to the gods as Char he Terrard but to men as Old Charlbury.
+He does not advance the farthest who attempts to advance alone. Rather do they go farthest who associate with some other, utterly different from themselves, so that each may bring into play activities of which the other is incapable. Of such a sort was the alliance between John Charlbury, Justice of the Peace, and the Hon. Charles Terrard, nothing — not even B.A. The latter might be compared to the delicate rod line and fly; the former to the gaff and net. Terrard could go where Charlbury could never go; Charlbury could discover in the market, opportunities which Terrard would not have dreamed of. The supplemental character of their faces and their friends was paralleled in their souls. For just as Charlbury was short, bald, fat, square, elderly, and pig-eyed, while Terrard was tall, lithe, young, and marrying such innocent blue eyes to such an innocent mass of happy curls; so Charlbury knew most approaches to the soul by avarice or fear, while Terrard was familiar only with those attached to vanity, debauchery, and the customs of the rich. Charlbury conducted from the base in the [[motifs/city|City]], while Terrard skirmished in the West — and between them they were doing very well: were the firm of Blake and Blake, known to the gods as Char he Terrard but to men as Old Charlbury.
 
-Deep in the heart of [[London]] on the edge of that Square Mile of the Very Rich who are the delight of the millions they defile, stands a wild patch of loneliness known as “The Paddenham Site.” It is some acres of abandoned ground worth — it should be — sums untold: but none will buy.
+Deep in the heart of [[settings/london|London]] on the edge of that Square Mile of the Very Rich who are the delight of the millions they defile, stands a wild patch of loneliness known as “The Paddenham Site.” It is some acres of abandoned ground worth — it should be — sums untold: but none will buy.
 
 A Hospital had stood there once. It had gone to the country. Its former site should have been snapped up. It was not. For a year, and another year, and another its weeds grew, and grasses covered its uneven hollows.
 
@@ -4477,7 +4477,7 @@ Now, here, to hand, in John K. Petre, was the chance; the heaven-sent eccentric 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO V
+CAPITOLO V
 
 Nel profondo cuore del Surrey, ai confini di Walton Heath, e all’ingresso di quella solitudine selvaggia che rappresenta la gioia di milioni di persone che la frequentano, sorge una casa non molto antica. Si chiama “Marengo”. Intorno ad essa si estendono terreni per circa venti acri, di cui almeno due sono giardini e aiuole dove cresce rigogliosamente il alloro; dalle profondità di questi terreni spesso spuntano faggi rossi e altri alberi ornamentali. Davanti alle porte di “Marengo” (che si trovano a qualche metro dalla strada, ma non abbastanza lontane da impedire la vista dei veicoli moderni e il suono vivace delle loro trombe) si estende un viale lastricato abbastanza largo da permettere il passaggio di due automobili affiancate; ci sono due porte d’ingresso, ma nessuna guardiola. Per essere del tutto onesti, la casa stessa è fatta di mattoni rossi con tegole posate sul piano superiore; tuttavia, il tetto è stato riparato e ora ha una tonalità marrone. Inoltre, quel tetto presenta delle finestre a timpano, ma i telai sono in pino norvegese.
 
@@ -4487,9 +4487,9 @@ Secondo quanto riferito dai viaggiatori, il grande leone bruno dell’Atlante, s
 
 Anche le migliori imprese, anche le più avvanzate organizzazioni affrontano situazioni del genere.
 
-Colui che tenta di avanzare da solo non raggiunge mai le distanze maggiori; al contrario, i più grandi risultati si ottengono collaborando con persone completamente diverse da sé, in modo che ciascuno possa sfruttare le proprie capacità e quelle dell’altro. Fu proprio questo il caso dell’alleanza tra John Charlbury, giudice di pace, e l’onorevole Charles Terrard: il primo poteva essere paragonato a una sottile canna da pesca e a una mosca; il secondo, invece, a un gancio e a una rete. Terrard riusciva ad arrivare dove Charlbury non avrebbe mai potuto; Charlbury, dal canto suo, scopriva sul mercato opportunità di cui Terrard nemmeno avrebbe sognato. Le caratteristiche fisiche e personali dei due si riflettevano anche nelle loro anime: mentre Charlbury era basso, calvo, grasso, di corporatura tozza, anziano e con gli occhi sporgenti, Terrard era alto, snello, giovane, con occhi azzurri innocenti e riccioli felici. Charlbury conosceva meglio i modi per influenzare l’anima umana attraverso l’avidità o la paura; Terrard, invece, aveva dimestichezza soltanto con quelli legati alla vanità, al vizio e alle abitudini dei ricchi. Charlbury operava nella parte bassa della [[City|Città]], mentre Terrard agiva nelle zone occidentali; insieme riuscivano a ottenere grandi risultati: la loro azienda era conosciuta come “Blake and Blake”, ma agli occhi degli uomini veniva chiamata semplicemente “Old Charlbury”.
+Colui che tenta di avanzare da solo non raggiunge mai le distanze maggiori; al contrario, i più grandi risultati si ottengono collaborando con persone completamente diverse da sé, in modo che ciascuno possa sfruttare le proprie capacità e quelle dell’altro. Fu proprio questo il caso dell’alleanza tra John Charlbury, giudice di pace, e l’onorevole Charles Terrard: il primo poteva essere paragonato a una sottile canna da pesca e a una mosca; il secondo, invece, a un gancio e a una rete. Terrard riusciva ad arrivare dove Charlbury non avrebbe mai potuto; Charlbury, dal canto suo, scopriva sul mercato opportunità di cui Terrard nemmeno avrebbe sognato. Le caratteristiche fisiche e personali dei due si riflettevano anche nelle loro anime: mentre Charlbury era basso, calvo, grasso, di corporatura tozza, anziano e con gli occhi sporgenti, Terrard era alto, snello, giovane, con occhi azzurri innocenti e riccioli felici. Charlbury conosceva meglio i modi per influenzare l’anima umana attraverso l’avidità o la paura; Terrard, invece, aveva dimestichezza soltanto con quelli legati alla vanità, al vizio e alle abitudini dei ricchi. Charlbury operava nella parte bassa della [[motifs/city|Città]], mentre Terrard agiva nelle zone occidentali; insieme riuscivano a ottenere grandi risultati: la loro azienda era conosciuta come “Blake and Blake”, ma agli occhi degli uomini veniva chiamata semplicemente “Old Charlbury”.
 
-Nel profondo cuore di [[London|Londra]], ai confini di quella zona chiamata “Square Mile”, dove vivono i milionari che rappresentano una fonte di gioia per le masse ma al contempo ne contaminano l’ambiente, sorge un luogo desolato e solitario noto come “The Paddenham Site”. Si tratta di alcune acri di terreno abbandonato il cui valore dovrebbe essere inestimabile, ma nessuno è disposto ad acquistarlo.
+Nel profondo cuore di [[settings/london|Londra]], ai confini di quella zona chiamata “Square Mile”, dove vivono i milionari che rappresentano una fonte di gioia per le masse ma al contempo ne contaminano l’ambiente, sorge un luogo desolato e solitario noto come “The Paddenham Site”. Si tratta di alcune acri di terreno abbandonato il cui valore dovrebbe essere inestimabile, ma nessuno è disposto ad acquistarlo.
 
 Un tempo lì c'era un ospedale. Ora era stato trasferito in campagna. Il suo vecchio sito avrebbe dovuto essere acquistato immediatamente. Ma non fu così. Per un anno, poi un altro ancora, le erbacce crescerono e l’erba coprì le sue superfici irregolari.
 
@@ -4548,7 +4548,7 @@ Charlbury spoke again:
 
 Charlbury was all decision.
 
-“I tell you it’s straightforward. Put it that it’s a lock-up: that it’s a lock-up for one that can afford it, but precious few can. Tell him it’s not a lock-up for a lot of them together, because it’s got to be kept close and tight, and that one man’s got to bide his time and take his opportunity. Don’t ‘ide anything from ’im. Tell him it’s been empty the best part o’ twenty years — right in the ‘eart o’ [[London]] — and tell ’im plain it may be five more — that there’s Gawd knows ’ow much in it — at least, that’s my judgment, honest. I’d do it myself if I could...” and he sighed. “I did try to persuade old Vere,” he shook his head sadly. “But he died — the old fool died.”
+“I tell you it’s straightforward. Put it that it’s a lock-up: that it’s a lock-up for one that can afford it, but precious few can. Tell him it’s not a lock-up for a lot of them together, because it’s got to be kept close and tight, and that one man’s got to bide his time and take his opportunity. Don’t ‘ide anything from ’im. Tell him it’s been empty the best part o’ twenty years — right in the ‘eart o’ [[settings/london|London]] — and tell ’im plain it may be five more — that there’s Gawd knows ’ow much in it — at least, that’s my judgment, honest. I’d do it myself if I could...” and he sighed. “I did try to persuade old Vere,” he shook his head sadly. “But he died — the old fool died.”
 
 “Shall we say we ‘re in it?” asked Terrard.
 
@@ -4586,7 +4586,7 @@ The note was written. Charlie took it up to town that night and got it into the 
 
 * * * * *
 
-At about twelve o’clock in the morning of the next day Mr. Petre was walking slowly along the Embankment, looking at the tide that rushed past and communing with his own soul. It was a breezy, sunny, spring day. The water was alive, and [[London]] had half forgotten its native misery.
+At about twelve o’clock in the morning of the next day Mr. Petre was walking slowly along the Embankment, looking at the tide that rushed past and communing with his own soul. It was a breezy, sunny, spring day. The water was alive, and [[settings/london|London]] had half forgotten its native misery.
 
 It was an air in which new thoughts and clear ones should naturally come to a man; but none came to Mr. Petre. He was pondering upon that interview which he had to face, and went round it in his thoughts, coming no nearer to a centre, but still remaining as he had been since the blow fell upon him, attendant upon Fate. It was to be about some horrid business called the Paddenham Site. It might be — he dared to hope! — that some words would be used which he should understand. It might be that those inimitable talents of his, which all seemed to accept, would return to him — but at the bottom of his heart he doubted it. It was in no very happy mood that he returned to his rooms and awaited his guest.
 
@@ -4599,7 +4599,7 @@ It was an air in which new thoughts and clear ones should naturally come to a ma
 
 “Sì,” rispose Terrard in tono brusco, “Non l’ho visto fino ad ora, e solo una volta. Tutti abbiamo sentito parlare di lui e delle sue follie. È capace di scomparire in qualsiasi momento, senza dire niente a nessuno.”
 
-# Il signor Petre
+Il signor Petre
 
 “Charlbury annuì di nuovo, e disse in tono più sommesso e meditabondo…”
 
@@ -4613,9 +4613,9 @@ Di nuovo, Charlbury annuì. Aveva già sentito quella voce.
 
 Poi ci fu una breve pausa.
 
-# Charlbury parlò di nuovo:
+Charlbury parlò di nuovo:
 
-#Come affrontarlo riguardo al sito di Paddenham?
+Come affrontarlo riguardo al sito di Paddenham?
 
 “Dovrei essere chiaro fin dall’inizio,” disse Charlie. “Una volta che avremo definito tutto tra di noi, dovrei chiamarlo stasera stessa e fissare un appuntamento per domani.”
 
@@ -4625,7 +4625,7 @@ Poi ci fu una breve pausa.
 
 A Charlbury, tutte le decisioni spettavano a lui.
 
-“Glielo dico chiaramente: si tratta di una prigione, ma solo per coloro che se la possono permettere. E pochi lo possono davvero. Dicagli che non è adatta a contenere molte persone insieme, perché deve essere tenuta sotto stretta sorveglianza; inoltre, quella persona dovrà aspettare il momento giusto per approfittarne. Non nasconda nulla. Dicagli che è stata vuota per la maggior parte degli ultimi vent’anni, proprio nel cuore di [[London|Londra]]. E dicagli chiaramente che potrebbe rimanere vuota ancora per altri cinque anni. Ci sono chissà quante ricchezze lì dentro. Almeno, è quello che penso io, onestamente. Lo farei io stesso se potessi, ” Sospirò. “Ho provato a convincere quel vecchio Vere. Ma è morto. Quel povero sciocco è morto.”
+“Glielo dico chiaramente: si tratta di una prigione, ma solo per coloro che se la possono permettere. E pochi lo possono davvero. Dicagli che non è adatta a contenere molte persone insieme, perché deve essere tenuta sotto stretta sorveglianza; inoltre, quella persona dovrà aspettare il momento giusto per approfittarne. Non nasconda nulla. Dicagli che è stata vuota per la maggior parte degli ultimi vent’anni, proprio nel cuore di [[settings/london|Londra]]. E dicagli chiaramente che potrebbe rimanere vuota ancora per altri cinque anni. Ci sono chissà quante ricchezze lì dentro. Almeno, è quello che penso io, onestamente. Lo farei io stesso se potessi, ” Sospirò. “Ho provato a convincere quel vecchio Vere. Ma è morto. Quel povero sciocco è morto.”
 
 “Diciamo che siamo coinvolti in questa faccenda, va bene?” chiese Terrard.
 
@@ -4663,7 +4663,7 @@ La nota era stata scritta. Quella sera, Charlie la portò in città e la consegn
 
 * * * * *
 
-Intorno alle dodici del mattino del giorno seguente, il signor Petre camminava lentamente lungo l’Embankment, osservando la marea che scorreva via e dialogando con la propria anima. Era una giornata di primavera, soleggiata e ventilata; l’acqua sembrava viva, e [[London|Londra]] aveva quasi dimenticato le sue miserie innate.
+Intorno alle dodici del mattino del giorno seguente, il signor Petre camminava lentamente lungo l’Embankment, osservando la marea che scorreva via e dialogando con la propria anima. Era una giornata di primavera, soleggiata e ventilata; l’acqua sembrava viva, e [[settings/london|Londra]] aveva quasi dimenticato le sue miserie innate.
 
 Era un'atmosfera nella quale nuovi e chiari pensieri avrebbero dovuto naturalmente affiorare nell'uomo; ma il signor Petre non ne ebbe alcuno. Era immerso in riflessioni su quell'incontro che lo aspettava, ripensandoci senza riuscire a giungere a una conclusione, rimanendo esattamente nello stesso stato d’animo da quando aveva ricevuto quella notizia sconvolgente. Si trattava di qualche questione orribile legata al progetto Paddenham Site. Forse – osava sperarlo! – sarebbero state usate parole che lui avrebbe potuto comprendere. Forse i suoi straordinari talenti, che sembravano essere riconosciuti da tutti, gli sarebbero tornati. Ma nel profondo del cuore ne dubitava. Non era affatto di buon umore quando tornò nelle sue stanze in attesa dell’ospite.
 
@@ -4686,13 +4686,13 @@ What drawback, or why, or what it was all about Mr. Petre could not have told yo
 
 “You know it’s been standing like that for more than twenty years?” Here, as in a special effort of heroic falsehood, Mr. Petre quite distinctly nodded, and Terrard was relieved.
 
-“I’m glad you know that,” he said, “because it’s the very first thing to get hold of. Why a site like that should stand empty in the heart of [[London]] all the time it would take a very long time to explain to you. It began with a quarrel between the two estates, or rather between the Trustees of the Paddenham Estate and a claimant who had bought up an option on the addition; or rather, we won’t say a quarrel, but what each called obstinacy. And then there was the bankruptcy, you know: old Elmer’s bankruptcy — the Elmers are Paddenhams. A lot of small people were rather badly hit, because there was a syndicate.”
+“I’m glad you know that,” he said, “because it’s the very first thing to get hold of. Why a site like that should stand empty in the heart of [[settings/london|London]] all the time it would take a very long time to explain to you. It began with a quarrel between the two estates, or rather between the Trustees of the Paddenham Estate and a claimant who had bought up an option on the addition; or rather, we won’t say a quarrel, but what each called obstinacy. And then there was the bankruptcy, you know: old Elmer’s bankruptcy — the Elmers are Paddenhams. A lot of small people were rather badly hit, because there was a syndicate.”
 
 Mr. Petre was in up to his middle, and as the meaningless words flowed on he began to nod more vigorously than ever.
 
 “Exactly,” he said. “Exactly. I quite understand.”
 
-“Then, when the second syndicate took it over, they got the option of a price which seemed nothing at the time — but that was just before the [[London]] Traffic Bill. The fight over that held it up, of course, and then after the compromise...”
+“Then, when the second syndicate took it over, they got the option of a price which seemed nothing at the time — but that was just before the [[settings/london|London]] Traffic Bill. The fight over that held it up, of course, and then after the compromise...”
 
 “Yes,” said Mr. Petre, “of course,” as though that explained it all. (What compromise? his dear heart asked of him — and an inward voice replied, “God knows!”)
 
@@ -4745,13 +4745,13 @@ Quale svantaggio, o perché, o di cosa si trattasse esattamente, il signor Petre
 
 “Sai che è rimasto lì in piedi così da più di vent’anni?” Qui, come in un vero e proprio sforzo eroico per mentire, il signor Petre annuì con decisione, e Terrard si rasserenò.
 
-“Sono contento che tu lo sappia,” disse, “perché è proprio la prima cosa da capire. Perché un posto del genere dovrebbe rimanere vuoto nel cuore di [[London|Londra]]. Ci vorrebbe molto tempo per spiegartelo. Tutto è iniziato con una lite tra le due parti interessate, o meglio, tra i fiduciari della Paddenham Estate e un pretendente che aveva acquistato il diritto di costruire l’aggiunta; o forse non dovremmo parlare di lite, ma piuttosto di ostinazione da parte di entrambe le parti. Poi c’è stata la bancarotta, quella dell’ex Elmer: i familiari Elmer appartengono alla Paddenham Estate. Molte persone comuni ne sono state gravemente colpite, perché c’era di mezzo un sindacato.”
+“Sono contento che tu lo sappia,” disse, “perché è proprio la prima cosa da capire. Perché un posto del genere dovrebbe rimanere vuoto nel cuore di [[settings/london|Londra]]. Ci vorrebbe molto tempo per spiegartelo. Tutto è iniziato con una lite tra le due parti interessate, o meglio, tra i fiduciari della Paddenham Estate e un pretendente che aveva acquistato il diritto di costruire l’aggiunta; o forse non dovremmo parlare di lite, ma piuttosto di ostinazione da parte di entrambe le parti. Poi c’è stata la bancarotta, quella dell’ex Elmer: i familiari Elmer appartengono alla Paddenham Estate. Molte persone comuni ne sono state gravemente colpite, perché c’era di mezzo un sindacato.”
 
 Il signor Petre era completamente coinvolto nella situazione; man mano che quelle parole prive di senso continuavano a uscire dalla sua bocca, iniziò ad annuire con ancora più vigore del solito.
 
 “Esattamente,” disse. “Esattamente. Capisco perfettamente.”
 
-“Allora, quando il secondo sindacato ne prese il controllo, ottenne l’opzione di un prezzo che all’epoca sembrava irrisorio. Ma questo avvenne poco prima dell’approvazione della legge sul traffico di [[London|Londra]]. La battaglia politica legata a questa legge ne ritardò l’attuazione, e poi, dopo il compromesso, ”
+“Allora, quando il secondo sindacato ne prese il controllo, ottenne l’opzione di un prezzo che all’epoca sembrava irrisorio. Ma questo avvenne poco prima dell’approvazione della legge sul traffico di [[settings/london|Londra]]. La battaglia politica legata a questa legge ne ritardò l’attuazione, e poi, dopo il compromesso, ”
 
 “Sì,” disse il signor Petre, “certamente,” come se questo spiegasse tutto. (Qual compromesso? Il suo cuore glielo chiedeva, e una voce interiore rispondeva: “Dio lo sa!”)
 
@@ -4792,7 +4792,7 @@ Lì, almeno, si trovava su terreno solido. Molte cose erano chiare: se qualcuno 
 <span class="atom-split" data-atom="chapter_05--part_04" data-title="Mr. Petre — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
-“Besides which,” said Terrard, “you don’t want to be bothered with other people. I know you’ll take it or leave it, and I wanted to put it before you now and at once. I don’t know if you ‘re following our [[London]] site-values, Mr. Petre? No doubt you’ve handled such things in your time?”
+“Besides which,” said Terrard, “you don’t want to be bothered with other people. I know you’ll take it or leave it, and I wanted to put it before you now and at once. I don’t know if you ‘re following our [[settings/london|London]] site-values, Mr. Petre? No doubt you’ve handled such things in your time?”
 
 “It is very good of you,” said Mr. Petre. He was miserable within; he felt himself being led on, but what he dreaded most was an agony of doubt and delay; for he saw himself arguing and reapproached and his other ventures quoted. If once he allowed the series to accumulate upon him one pressure and question after another, suggestion following suggestion, in the end he would be corralled and find himself right up against that fatal day when his awful riddle should be published to others before he had solved it himself. A man’s judgment in such suffering is that of a thing hunted, unbased, perhaps instinctive, at any rate precipitate; and Charlie was astonished to hear the words solemnly and simply pronounced by the standing figure at the window, who looked at him with a sort of forensic severity.
 
@@ -4814,9 +4814,9 @@ Quite so,” as if it were the smallest matter in the world.
 
 Terrard excused himself a moment, to buy a paper he said. And so he did buy a paper; but he also telephoned to Broad Street. Then he returned to his millionaire in the Louis Quinze grill room of the Splendide.
 
-They lunched. They proceeded. And Mr. Petre gazed for a good ten minutes on sodden grasses waving in the wind, tall weeds and dirty stalks, and broken palings; the poor abandoned acres of bare land lying there doing nothing, with the enormous wealth of [[London]] all around. It was like seeing a hole in the middle of the sea, and wondering why the water did not pour in and flood it; wondering why the huge appetite of [[London]] did not snap up such a morsel, why the jostle of London didn’t crowd that vacancy with London once again.
+They lunched. They proceeded. And Mr. Petre gazed for a good ten minutes on sodden grasses waving in the wind, tall weeds and dirty stalks, and broken palings; the poor abandoned acres of bare land lying there doing nothing, with the enormous wealth of [[settings/london|London]] all around. It was like seeing a hole in the middle of the sea, and wondering why the water did not pour in and flood it; wondering why the huge appetite of [[settings/london|London]] did not snap up such a morsel, why the jostle of London didn’t crowd that vacancy with London once again.
 
-It was an odd ritual, this looking at the nothingness of the Paddenham Site. It might just as well have been foregone. But Terrard was not wrong in his psychology. Looking at a purchase discussed is the beginning of possession, and as they walked away and Terrard explained, amid the dodging of the traffic and the crowds, the importance of a rapid decision, Mr. Petre was prepared for the next step. They picked up a rotor taxi and were crawling towards the [[City]].
+It was an odd ritual, this looking at the nothingness of the Paddenham Site. It might just as well have been foregone. But Terrard was not wrong in his psychology. Looking at a purchase discussed is the beginning of possession, and as they walked away and Terrard explained, amid the dodging of the traffic and the crowds, the importance of a rapid decision, Mr. Petre was prepared for the next step. They picked up a rotor taxi and were crawling towards the [[motifs/city|City]].
 
 As they went Charlie explained their goal. In the office they were bound for they would meet the man who could treat for Williams — for the Vendor: and he had full powers.
 
@@ -4835,7 +4835,7 @@ He sat for the best part of an hour in his room, turning over in his mind the ma
 
 <span class="qlang-split" data-lang="it"></span>
 
-“Oltre a questo,” disse Terrard, “non vuoi certo essere disturbato da altre persone. So che potresti accettare o rifiutare questa proposta, e volevo presentartela subito, senza indugi. Non so se segui i nostri valori fondamentali legati al sito di [[London|Londra]], signor Petre. Senza dubbio hai già affrontato situazioni del genere in passato, vero?”
+“Oltre a questo,” disse Terrard, “non vuoi certo essere disturbato da altre persone. So che potresti accettare o rifiutare questa proposta, e volevo presentartela subito, senza indugi. Non so se segui i nostri valori fondamentali legati al sito di [[settings/london|Londra]], signor Petre. Senza dubbio hai già affrontato situazioni del genere in passato, vero?”
 
 “È molto gentile da parte tua,” disse il signor Petre. Dentro di sé si sentiva infelice; avvertiva che qualcuno lo stava guidando verso una certa direzione, ma ciò che temeva di più era l’agonia derivante dal dubbio e dai ritardi. Perché sapeva che se avesse permesso a quelle pressioni e a quei dubbi di accumularsi su di lui, una dopo l’altra, con suggerimenti che si susseguivano senza sosta, alla fine sarebbe stato costretto ad affrontare quel giorno fatale in cui il suo terribile enigma sarebbe stato rivelato agli altri prima ancora che lui riuscisse a risolverlo. In momenti del genere, il giudizio di un uomo diventa quello di una creatura braccata, priva di fondamenti razionali. Forse istintivo, comunque affrettato. E Charlie rimase sorpreso quando quelle parole furono pronunciate con serietà e semplicità da quella figura immobile alla finestra, che lo guardava con una sorta di severità giudiziaria.
 
@@ -4857,9 +4857,9 @@ He sat for the best part of an hour in his room, turning over in his mind the ma
 
 Terrard si scusò per un momento, dicendo che voleva comprare un giornale. E infatti comprò un giornale; ma telefonò anche a Broad Street. Poi tornò dal suo milionario nella sala da pranzo in stile Louis Quinze del ristorante Splendide.
 
-Pranzarono. Poi continuarono il loro cammino. E il signor Petre fissò per ben dieci minuti l’erba bagnata che ondeggiava al vento, le erbacce alte e i gambi sporchi, i recinti rotti; quelle povere acri di terra desolata, inutilizzate, mentre intorno a loro si estendeva la enorme ricchezza di [[London|Londra]]. Era come vedere un buco nel mezzo del mare e chiedersi perché l’acqua non vi si riversasse dentro per sommergerlo; chiedersi perché l’enorme appetito di [[London|Londra]] non si impadronisse di quella terra, perché il caos di Londra non riempisse nuovamente quel vuoto.
+Pranzarono. Poi continuarono il loro cammino. E il signor Petre fissò per ben dieci minuti l’erba bagnata che ondeggiava al vento, le erbacce alte e i gambi sporchi, i recinti rotti; quelle povere acri di terra desolata, inutilizzate, mentre intorno a loro si estendeva la enorme ricchezza di [[settings/london|Londra]]. Era come vedere un buco nel mezzo del mare e chiedersi perché l’acqua non vi si riversasse dentro per sommergerlo; chiedersi perché l’enorme appetito di [[settings/london|Londra]] non si impadronisse di quella terra, perché il caos di Londra non riempisse nuovamente quel vuoto.
 
-Era un rituale strano, quello di fissare il nulla del sito Paddenham. Avrebbe potuto anche non essere fatto affatto. Ma Terrard aveva ragione riguardo alla psicologia umana: contemplare un’acquisto in discussione è già l’inizio della sua possesso. Mentre si allontanavano, tra il traffico e la folla, Terrard spiegava l’importanza di una decisione rapida. E il signor Petre era ormai pronto per il passo successivo. Presero un taxi a rotore e iniziarono ad avvicinarsi alla [[City|Città]].
+Era un rituale strano, quello di fissare il nulla del sito Paddenham. Avrebbe potuto anche non essere fatto affatto. Ma Terrard aveva ragione riguardo alla psicologia umana: contemplare un’acquisto in discussione è già l’inizio della sua possesso. Mentre si allontanavano, tra il traffico e la folla, Terrard spiegava l’importanza di una decisione rapida. E il signor Petre era ormai pronto per il passo successivo. Presero un taxi a rotore e iniziarono ad avvicinarsi alla [[motifs/city|Città]].
 
 Mentre viaggiavano, Charlie spiegò loro l’obiettivo della loro missione. Erano diretti in ufficio, dove avrebbero incontrato l’uomo che poteva curare Williams – il responsabile del progetto: e lui aveva tutti i poteri necessari per farlo.
 
@@ -4888,7 +4888,7 @@ It meant the revelation which he dreaded, at the worst; but that at the worst wo
 
 At the best (and, after all, it was one chance in two), his fate would be postponed.
 
-His disturbed and blinded heart was the lighter for this confusion of thought so ending, and he exercised what power he had over his own thoughts to drive from them all anxiety. He knew one way in which it could be done. He had tried it already. He left an abrupt message, as he had left one those few days before; he noted the date when he was pledged to return to the [[City|city]], and he departed by the very next train he could catch for his retreat in Hampshire.
+His disturbed and blinded heart was the lighter for this confusion of thought so ending, and he exercised what power he had over his own thoughts to drive from them all anxiety. He knew one way in which it could be done. He had tried it already. He left an abrupt message, as he had left one those few days before; he noted the date when he was pledged to return to the [[motifs/city|city]], and he departed by the very next train he could catch for his retreat in Hampshire.
 
 The playful Demon attached to Mr. Petre’s fortunes grinned to himself and acted. He it was that thrust a spear into the heart of a certain minor official of the Education Department.
 
@@ -4896,11 +4896,11 @@ He was a poet in the truest sense of the word; a creator, was that minor officia
 
 Long ago this minor official of the Education Department had been inspired to save England.
 
-It was a vision; a revelation; it had struck him in one blinding flash that what Elementary Education lacked in all our great towns and especially in [[London]] was a Central Physical and Civic Training Ground and Development Premises; what was soon briefly known under his energetic propaganda as a C.P.C.T.G.D.P.
+It was a vision; a revelation; it had struck him in one blinding flash that what Elementary Education lacked in all our great towns and especially in [[settings/london|London]] was a Central Physical and Civic Training Ground and Development Premises; what was soon briefly known under his energetic propaganda as a C.P.C.T.G.D.P.
 
 That was three years ago; all that time the great idea had grown. Lady Gwryth had taken it up with all her might and so had her sister. What an ideal to realise! Miniature ranges, swimming baths, large airy gymnasiums, acoustic theatres, Greek plays and, above all, Dromes!
 
-A new life open (in relays) to the children of the poor, and that in the very core of [[London]]!
+A new life open (in relays) to the children of the poor, and that in the very core of [[settings/london|London]]!
 
 Only the Treasury blocked the way. It did not definitely oppose, but it looked askance at the proposed expenditure. For the County Council could not add more than 2d.
 
@@ -4927,7 +4927,7 @@ Significava la rivelazione che temeva di più, ma che, in ogni caso, sarebbe arr
 
 Nel migliore dei casi (e dopotutto, era una possibilità su due), il suo destino sarebbe stato rinviato.
 
-Il suo cuore turbato e accecato si sentì sollevato da questa confusione di pensieri che così si concludeva; egli utilizzò tutto il potere che aveva sui propri pensieri per scacciarne via ogni ansia. Conosceva un modo per farlo. L’aveva già provato in precedenza. Lasciò un messaggio breve, proprio come ne aveva lasciati alcuni quei giorni prima; indicò la data in cui si era impegnato a tornare nella [[City|città]] e partì con il primo treno disponibile per recarsi nel suo rifugio nello Hampshire.
+Il suo cuore turbato e accecato si sentì sollevato da questa confusione di pensieri che così si concludeva; egli utilizzò tutto il potere che aveva sui propri pensieri per scacciarne via ogni ansia. Conosceva un modo per farlo. L’aveva già provato in precedenza. Lasciò un messaggio breve, proprio come ne aveva lasciati alcuni quei giorni prima; indicò la data in cui si era impegnato a tornare nella [[motifs/city|città]] e partì con il primo treno disponibile per recarsi nel suo rifugio nello Hampshire.
 
 Il demonio giocoso legato alla fortuna del signor Petre sorrise tra sé e agì: fu lui ad infilzare una lancia nel cuore di un certo funzionario minore del Dipartimento dell’Istruzione.
 
@@ -4935,11 +4935,11 @@ Era un poeta nel senso più vero del termine; un creatore. Anche se era solo un 
 
 Molto tempo fa, questo piccolo funzionario del Dipartimento dell’Istruzione ebbe l’ispirazione di salvare l’Inghilterra.
 
-Era una visione; una rivelazione: gli era balenata davanti agli occhi in un istante che ciò di cui la Scuola Elementare mancava in tutte le nostre grandi città, e soprattutto a [[London|Londra]], era un centro dedicato all’educazione fisica e civica, nonché alle attività di sviluppo personale; questo centro, ben presto conosciuto grazie alla sua energica propaganda come C.P.C.T.G.D.P., avrebbe rappresentato la soluzione al problema.
+Era una visione; una rivelazione: gli era balenata davanti agli occhi in un istante che ciò di cui la Scuola Elementare mancava in tutte le nostre grandi città, e soprattutto a [[settings/london|Londra]], era un centro dedicato all’educazione fisica e civica, nonché alle attività di sviluppo personale; questo centro, ben presto conosciuto grazie alla sua energica propaganda come C.P.C.T.G.D.P., avrebbe rappresentato la soluzione al problema.
 
 È stato tre anni fa; in tutto questo tempo quell’idea meravigliosa è cresciuta sempre di più. Lady Gwryth si era impegnata con tutte le sue forze nel realizzarla, così come sua sorella. Che ideale straordinario da realizzare! Serie di prodotti in miniatura, vasche da bagno, ampi e ariosi palestre, teatri acustici, rappresentazioni teatrali greche. E soprattutto, i Dromes!
 
-Una nuova vita si apre, in forma di aiuti concreti, per i bambini poveri, e tutto questo nel cuore stesso di [[London|Londra]]!
+Una nuova vita si apre, in forma di aiuti concreti, per i bambini poveri, e tutto questo nel cuore stesso di [[settings/london|Londra]]!
 
 Solo il Ministero delle Finanze ostacolava la realizzazione del progetto. Non si opponeva categoricamente, ma guardava con scetticismo alle spese proposte. Infatti, il Consiglio della Contea non poteva aumentare la somma stanziata di più di 2 penny.
 
@@ -4966,7 +4966,7 @@ ANYONE WHO HAS engaged in the sale and purchase of land knows what a long busine
 
 What did push things forward a little was the appearance in the market of an Anonymous Benefactor.
 
-This excellent man proposed in a letter to the Public Press to purchase the Paddenham Site as an Open Space for the People, a new Lung for [[London]]. And he would stand the racket.
+This excellent man proposed in a letter to the Public Press to purchase the Paddenham Site as an Open Space for the People, a new Lung for [[settings/london|London]]. And he would stand the racket.
 
 It was astonishing — considering he was anonymous — what a lot the papers had to say about him, and how loudly they praised his truly British generosity. From my own insufficient experience in these matters I should say that, counting one thing with another, the noise need not have cost more than £500; but it had the effect of thousands. There was opposition too. There were angry letters of protest against the object of the proposed benefaction, a sheer waste of land; but there were warm letters of approval from the public also, and there was even one very solemn communication, in which the Anonymous Benefactor gave it to be understood that the sum asked by the Paddenham Estate (for under that guise did Mr. Petre move, or rather Mr. Petre’s kindly friends) was satisfactory; and though it came to far more than another site which had been suggested, the central position was essential to it.
 
@@ -4978,7 +4978,7 @@ The Department was not slow in discovering the sum which the Anonymous Benefacto
 
 Now another adviser of His Majesty — no less a person than the Secretary of State who looks after expenditure, the Chancellor of the Exchequer (or to be strictly accurate, the young man who did all the hard work for the third of the Permanent Officials in the Treasury) — had marked one and a half millions as the very limit. There was a difference of one hundred per cent., and it did look for a moment as though the Anonymous Benefactor would have a walk-over. For he was evidently a man determined on his object, and apparently one of those sudden modern apparitions with visions in their heads and quite incredible sums in their pockets.
 
-That £750 poet in the Education Department, who was keenest on the whole affair, the man who years before had started the idea of the C.P.C.T.G.D.P., the man who had already erected in his imagination all that mass of acoustic theatres, baths, miniature ranges, and above all, Dromes, through which the children of [[London]] should be passed in myriad relays (there also on great screens the ravages of alcohol upon the human body should be depicted in novel and more striking form), the man whom Providence had raised up to save our little ones and do Mr. Petre that exceedingly good turn, was distracted at the sudden peril of losing the Paddenham Site. It would be a cruel thing if his great dream were never to be realised!
+That £750 poet in the Education Department, who was keenest on the whole affair, the man who years before had started the idea of the C.P.C.T.G.D.P., the man who had already erected in his imagination all that mass of acoustic theatres, baths, miniature ranges, and above all, Dromes, through which the children of [[settings/london|London]] should be passed in myriad relays (there also on great screens the ravages of alcohol upon the human body should be depicted in novel and more striking form), the man whom Providence had raised up to save our little ones and do Mr. Petre that exceedingly good turn, was distracted at the sudden peril of losing the Paddenham Site. It would be a cruel thing if his great dream were never to be realised!
 
 Now this same humble individual had come, through Lady Gwryth, to know everybody — an excellent form of knowledge even in an educationalist. In the serious drawing-rooms a counter-offensive developed against the Anonymous Benefactor.
 
@@ -4989,13 +4989,13 @@ There was a very fine leader indeed in the Messenger, which I have myself cut ou
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VI
+CAPITOLO VI
 
 Chiunque si sia occupato di compravendita terreni sa quanto sia un processo lungo e complesso; ma nessuno aveva alcuna fretta riguardo alla questione del sito Paddenham. Da parte venditrice c’era la convinzione che il ritardo potesse aumentare l’interesse per l’acquisto, oltre a una grande fiducia nelle capacità di John K. Petre. Per quanto riguarda l’acquirente, anche se Sua Maestà avesse avuto la fortuna di acquistare il sito Paddenham (su consiglio del Segretario all’Istruzione che in quel momento presiedeva il Consiglio di Amministrazione), non c’era alcun bisogno di agire con fretta: per quanto grande potesse essere l’entusiasmo del Dipartimento, non sarebbe aumentato nemmeno di un centesimo lo stipendio dei suoi dipendenti, per quanto vantaggiosa potesse risultare la transazione. Dopotutto, si trattava di soldi altrui.
 
 Quello che contribuì a far avanzare le cose un po’ fu l’apparizione sul mercato di un benefattore anonimo.
 
-Quest'uomo eccezionale propose, in una lettera pubblicata sul “Public Press”, di acquistare il sito di Paddenham per trasformarlo in uno spazio aperto al pubblico, un nuovo polmone verde per [[London|Londra]]. E fu lui stesso ad occuparsi dei costi necessari.
+Quest'uomo eccezionale propose, in una lettera pubblicata sul “Public Press”, di acquistare il sito di Paddenham per trasformarlo in uno spazio aperto al pubblico, un nuovo polmone verde per [[settings/london|Londra]]. E fu lui stesso ad occuparsi dei costi necessari.
 
 Era sorprendente – considerando che si trattava di una persona anonima – quante cose scrivessero i giornali su di lui e quanto lodassero apertamente la sua generosità tipicamente britannica. Basandomi sulla mia scarsa esperienza in queste materie, direi che, sommando tutto, quegli sforzi non dovrebbero essere costati più di 500 sterline; tuttavia ebbero l’effetto di migliaia di sterline. Ci furono anche opposizioni: lettere arrabbiate di protesta contro lo scopo della proposta benefica, considerata un semplice spreco di terreno; ma ci furono anche lettere di approvazione da parte del pubblico, e persino una comunicazione molto solenne nella quale il Benefattore Anonimo precisava che l’importo richiesto dalla Paddenham Estate era soddisfacente. E sebbene fosse molto superiore a un altro sito proposto in precedenza, la posizione centrale di quel terreno risultava essenziale per i progetti previsti.
 
@@ -5007,7 +5007,7 @@ Il Dipartimento non ebbe difficoltà a scoprire l’importo che il Benefattore A
 
 Ora, un altro consigliere di Sua Maestà – nientemeno che il Segretario di Stato incaricato delle spese pubbliche, ovvero il Cancelliere dello Scacchiere (o, per essere precisi, il giovane che svolgeva tutto il lavoro duro al posto dei due terzi degli ufficiali permanenti del Tesoro) – aveva indicato un importo di un milione e mezzo come limite massimo. C’era una differenza del cento percento, e per un momento sembrò che il Benefattore Anonimo avesse la vittoria in pugno. Poiché era evidente che fosse un uomo determinato nel raggiungere il suo obiettivo, e probabilmente uno di quei personaggi moderni improvvisi, pieni di idee geniali e con somme incredibili in tasca.
 
-Quel poeta di 750 sterline del Dipartimento dell’Istruzione, che era il più entusiasta di tutta questa iniziativa; l’uomo che anni prima aveva concepito l’idea del C.P.C.T.G.D.P.; l’uomo che aveva già immaginato nella sua mente tutti quei teatri acustici, bagni, strutture didattiche in miniatura, e soprattutto quei “Dromes” attraverso i quali i bambini di [[London|Londra]] avrebbero potuto viaggiare in infinite tappe (e su grandi schermi sarebbero state mostrate, in modi innovativi e particolarmente efficaci, le conseguenze negative dell’alcol sul corpo umano); quell’uomo che la Provvidenza aveva messo al mondo per salvare i nostri piccoli e fare un favore così grande a Mr. Petre, era distratto dal pericolo improvviso di perdere il sito di Paddenham. Sarebbe stato terribile se il suo grande sogno non dovesse mai realizzarsi!
+Quel poeta di 750 sterline del Dipartimento dell’Istruzione, che era il più entusiasta di tutta questa iniziativa; l’uomo che anni prima aveva concepito l’idea del C.P.C.T.G.D.P.; l’uomo che aveva già immaginato nella sua mente tutti quei teatri acustici, bagni, strutture didattiche in miniatura, e soprattutto quei “Dromes” attraverso i quali i bambini di [[settings/london|Londra]] avrebbero potuto viaggiare in infinite tappe (e su grandi schermi sarebbero state mostrate, in modi innovativi e particolarmente efficaci, le conseguenze negative dell’alcol sul corpo umano); quell’uomo che la Provvidenza aveva messo al mondo per salvare i nostri piccoli e fare un favore così grande a Mr. Petre, era distratto dal pericolo improvviso di perdere il sito di Paddenham. Sarebbe stato terribile se il suo grande sogno non dovesse mai realizzarsi!
 
 Ora questo stesso individuo umile, grazie a Lady Gwryth, aveva avuto modo di conoscere tutti. Un ottimo modo per acquisire informazioni, anche dal punto di vista educativo. Nei salotti seri iniziò una controffensiva contro il Benefattore Anonimo.
 
@@ -5272,7 +5272,7 @@ When a little later one of his innumerable hostesses had taken Charlie Terrard a
 
 * * * * *
 
-The summer and its [[London]] season rose to their climax through June and into July. The end of the session approached. Mr. Petre was less and less to be seen. Three splendid attacks by Mrs. Cyril failed; the third with heavy loss. A forlorn hope led by a First Secretary’s wife, issuing from the American Embassy, was cut off and wiped out to the last woman.
+The summer and its [[settings/london|London]] season rose to their climax through June and into July. The end of the session approached. Mr. Petre was less and less to be seen. Three splendid attacks by Mrs. Cyril failed; the third with heavy loss. A forlorn hope led by a First Secretary’s wife, issuing from the American Embassy, was cut off and wiped out to the last woman.
 
 Mr. Petre grew a shell. He was the despair of Terrard.
 
@@ -5297,7 +5297,7 @@ Poco dopo, una delle sue innumerevoli assistenti prese Charlie Terrard da parte 
 
 * * * * *
 
-L’estate e la sua stagione a [[London|Londra]] raggiunsero il loro apice tra giugno e luglio. La fine di quella sessione si avvicinava. Il signor Petre veniva visto sempre meno spesso. Tre tentativi straordinari da parte della signora Cyril fallirono; il terzo, in particolare, causò gravi perdite. Un’ultima speranza, nata dall’iniziativa di una moglie di un primo segretario presso l’Ambasciata Americana, venne interrotta e distrutta completamente, fino all’ultima donna coinvolta.
+L’estate e la sua stagione a [[settings/london|Londra]] raggiunsero il loro apice tra giugno e luglio. La fine di quella sessione si avvicinava. Il signor Petre veniva visto sempre meno spesso. Tre tentativi straordinari da parte della signora Cyril fallirono; il terzo, in particolare, causò gravi perdite. Un’ultima speranza, nata dall’iniziativa di una moglie di un primo segretario presso l’Ambasciata Americana, venne interrotta e distrutta completamente, fino all’ultima donna coinvolta.
 
 Il signor Petre aveva sviluppato un guscio esterno; era la disperazione di Terrard.
 
@@ -5326,13 +5326,13 @@ July had not long to live (nor the Home Secretary either for that matter, though
 
 * * * *
 
-The Rotor has come to enter into nearly everything that a man sees, and does, to-day. The last generation, that of the Great War, never dreamt of it. Ours will remember how it came, first in the modest form of a toy with an outlandish name, and put upon the market in [[London]] and Paris by the Japanese. Then there were two or three years of experiment, with occasional newspaper paragraphs, and Lord Winnipeg’s unfortunate venture in which Saillant and his crowd were mixed up — I am afraid the Frenchman got the better of it. But, anyhow, it was wound up within eighteen months. Then there were two years in which the only advertisement the new thing got was a crop of popular jeers.
+The Rotor has come to enter into nearly everything that a man sees, and does, to-day. The last generation, that of the Great War, never dreamt of it. Ours will remember how it came, first in the modest form of a toy with an outlandish name, and put upon the market in [[settings/london|London]] and Paris by the Japanese. Then there were two or three years of experiment, with occasional newspaper paragraphs, and Lord Winnipeg’s unfortunate venture in which Saillant and his crowd were mixed up — I am afraid the Frenchman got the better of it. But, anyhow, it was wound up within eighteen months. Then there were two years in which the only advertisement the new thing got was a crop of popular jeers.
 
 The Rotor was already driving our heavy vehicles and pretty well all our large merchant vessels. The Navy had taken it up before anybody else. It was beginning to do part of the domestic work, especially in the new underground flats, where it could be fitted in the first digging without the change over that is necessary in the old-fashioned over-ground houses. It was beginning to be used for private cars, though no one had yet started a fleet of taxis with it in those days. I am speaking of 1948.
 
 Somehow or other none of the many companies connected with the new discovery could make good. The work was there all right; it was the profit that seemed to misfire.
 
-For one thing the theorists and the busybodies had tinkered with it. Those people (prominent everywhere in local government) who have read too many books and have not seen enough of life, talked of “reserving for the community” the “future possibilities of the Rotor.” That frightened off investors. Then the [[London]] County Council made most absurd regulations, hampering the commercial development of what already ought to have been a universal form of power.
+For one thing the theorists and the busybodies had tinkered with it. Those people (prominent everywhere in local government) who have read too many books and have not seen enough of life, talked of “reserving for the community” the “future possibilities of the Rotor.” That frightened off investors. Then the [[settings/london|London]] County Council made most absurd regulations, hampering the commercial development of what already ought to have been a universal form of power.
 
 The provincial towns were hopeless. Birmingham coolly went into the Rotor business on the rates, and even hall-marked a particular type of Rotor which it thrust upon all domestic users and manufacturers in the town. It did worse. It let out the smaller machines at a price which barely earned 4 per cent, on the cost and quite killed commercial competition. Manchester was nearly as bad. Glasgow and Liverpool were not far behind in their half-socialist absurdities. The only northern community of any size which acted with common sense in the matter was Pudsey, which had the distinction of being the first English town to leave private enterprise completely free in this matter. But the southern residential towns, and especially the watering-places, are, as everyone knows, in a much better tradition; and the Rotor companies paid fair dividends in these sections: especially Brighton, where Sir Charles Waldschwein was the presiding genius of the enterprise.
 
@@ -5351,7 +5351,7 @@ What still hindered the final successful establishment of Rotors under a Nationa
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VII
+CAPITOLO VII
 
 La sessione stava per concludersi. L’accordo di Paddenham – che Gowle, nel suo articolo fanatico, aveva definito “Lo scandalo di Paddenham” – era stato approvato. Molti avevano pensato di opporsi a esso nella Camera dei Comuni, ma alla fine tutti si erano arresi, per il bene dei bambini, mi assicura la signora Fossilton.
 
@@ -5361,13 +5361,13 @@ A luglio non mancava molto alla fine (e allo stesso modo nemmeno al Segretario d
 
 * * * *
 
-Il Rotor è ormai entrato in quasi tutto ciò che un uomo vede e fa oggi. L’ultima generazione, quella della Grande Guerra, non se ne era mai immaginata l’esistenza. La nostra generazione ricorderà come sia apparso: dapprima sotto forma di un giocattolo dal nome bizzarro, messo in vendita a [[London|Londra]] e Parigi dai giapponesi. Seguirono due o tre anni di sperimentazioni, accompagnati da occasionali articoli sui giornali, nonché l’infortunata avventura di Lord Winnipeg, nella quale erano coinvolti Saillant e il suo gruppo. Temo che i francesi ne siano usciti vincitori. Comunque sia, tutto si concluse in diciotto mesi. Poi vennero altri due anni durante i quali l’unica pubblicità di questo nuovo prodotto fu costituita da una serie di commenti sarcastici da parte del pubblico.
+Il Rotor è ormai entrato in quasi tutto ciò che un uomo vede e fa oggi. L’ultima generazione, quella della Grande Guerra, non se ne era mai immaginata l’esistenza. La nostra generazione ricorderà come sia apparso: dapprima sotto forma di un giocattolo dal nome bizzarro, messo in vendita a [[settings/london|Londra]] e Parigi dai giapponesi. Seguirono due o tre anni di sperimentazioni, accompagnati da occasionali articoli sui giornali, nonché l’infortunata avventura di Lord Winnipeg, nella quale erano coinvolti Saillant e il suo gruppo. Temo che i francesi ne siano usciti vincitori. Comunque sia, tutto si concluse in diciotto mesi. Poi vennero altri due anni durante i quali l’unica pubblicità di questo nuovo prodotto fu costituita da una serie di commenti sarcastici da parte del pubblico.
 
 Il Rotor era già utilizzato per guidare i nostri veicoli pesanti e quasi tutti i nostri grandi mercantili. La Marina l’aveva adottato prima di chiunque altro. Iniziava anche a essere impiegato per lavori domestici, soprattutto nei nuovi appartamenti sotterranei, dove poteva essere installato fin dalle prime fasi di scavo, senza la necessità di modifiche rispetto alle case tradizionali in superficie. Veniva anche utilizzato per automobili private, anche se all’epoca nessuno aveva ancora creato flotte di taxi a base di questo sistema. Sto parlando del 1948.
 
 In qualche modo, nessuna delle molte aziende coinvolte nella nuova scoperta riuscì a trarne profitto. Il lavoro di ricerca c'era sicuramente; era il guadagno che sembrava non andare come previsto.
 
-Da un lato, i teorici e gli impiccioni si erano già immischiati nella questione. Quelle persone (molto presenti nei governi locali), che avevano letto troppi libri ma non conoscevano abbastanza la realtà della vita, parlavano di “riservare alla comunità” le “possibilità future del Rotor”. Questo spaventò gli investitori. Inoltre, il Consiglio della Contea di [[London|Londra]] stabilì regolamenti assurdi che ostacolarono lo sviluppo commerciale di quella che avrebbe dovuto essere una forma universale di energia.
+Da un lato, i teorici e gli impiccioni si erano già immischiati nella questione. Quelle persone (molto presenti nei governi locali), che avevano letto troppi libri ma non conoscevano abbastanza la realtà della vita, parlavano di “riservare alla comunità” le “possibilità future del Rotor”. Questo spaventò gli investitori. Inoltre, il Consiglio della Contea di [[settings/london|Londra]] stabilì regolamenti assurdi che ostacolarono lo sviluppo commerciale di quella che avrebbe dovuto essere una forma universale di energia.
 
 Le città provinciali erano senza speranza. Birmingham si impegnò con freddezza nel settore dei rotori, applicando determinate tariffe e addirittura marchiando un particolare tipo di rotore da imporre a tutti gli utenti domestici e i produttori della città. Fece persino di peggio: vendette le macchine più piccole a un prezzo che a malapena copriva il 4% dei costi, eliminando così ogni concorrenza commerciale. Manchester non era molto meglio. Glasgow e Liverpool non erano da meno nelle loro assurdità semisocialiste. L’unica comunità settentrionale di una certa dimensione che agì con buon senso in questa materia fu Pudsey, che ebbe il merito di essere la prima città inglese a lasciare completamente libera l’iniziativa privata in questo settore. Ma le città residenziali del sud, e soprattutto le località balneari, seguivano tradizioni molto diverse; le aziende produttrici di rotori ottennero quindi ottimi risultati in queste aree, soprattutto a Brighton, dove Sir Charles Waldschwein fu il principale promotore dell’iniziativa.
 
@@ -5788,7 +5788,7 @@ Mr. Petre pulled out a note-book and a pencil. “Yes,” he said. “Please giv
 
 It was an astonishing way to deal with a huge commercial affair covering two continents; but Terrard knew his man too well by this time to spin out the interview. He was content to take his leave.
 
-A few days later there was a large public indignation meeting against the B.A.R. Bill in Leeds. That same week half a dozen in the north and Midlands, and one, not very successful, in [[London]].
+A few days later there was a large public indignation meeting against the B.A.R. Bill in Leeds. That same week half a dozen in the north and Midlands, and one, not very successful, in [[settings/london|London]].
 
 Two papers timidly admitted letters. Gowle’s wretched fanatical sheet (what a Godsend!) began a regular attack.
 
@@ -5863,7 +5863,7 @@ Il signor Petre tirò fuori un taccuino e una matita. “Sì,” disse, “per f
 
 Era un modo davvero sorprendente per gestire una questione commerciale di tale entità che coinvolgeva due continenti; ma a quel punto Terrard conosceva troppo bene la sua interlocutrice per prolungare l’intervista. Si accontentò di congedarsi.
 
-Qualche giorno dopo si tenne un grande incontro di indignazione pubblica contro il B.A.R. Bill a Leeds. Nella stessa settimana ci furono altri incontri simili in sei città del nord e delle Midlands, oltre a uno, non molto riuscito, a [[London|Londra]].
+Qualche giorno dopo si tenne un grande incontro di indignazione pubblica contro il B.A.R. Bill a Leeds. Nella stessa settimana ci furono altri incontri simili in sei città del nord e delle Midlands, oltre a uno, non molto riuscito, a [[settings/london|Londra]].
 
 Due giornali, con timidezza, iniziarono ad pubblicare quelle lettere. Il miserabile e fanatico giornale di Gowle (che vero dono del cielo!) iniziò allora un attacco sistematico contro di esse.
 
@@ -5881,7 +5881,7 @@ Ma Cassleton aveva bluffato. La resa non sarebbe stata così facile come Terrard
 
 “Ah, se si tratta solo di questo,” disse Charlie Terrard con improvvisa energia, “allora è facile risolvere. Chiamò un messaggero, si sedette e scrisse il più velocemente possibile, ”
 
-# Caro signor Petre,
+Caro signor Petre,
 
 “Ricorderete sicuramente le nostre recenti conversazioni. Ora ve le ripeto davanti a loro. Mi chiedo, potreste concedermi una riga semplice in cui si dica: ‘Un accordo con la presente Compagnia, se loro lo desiderano, dopo un incontro con il signor Trefusis; lui discuterà la questione con me. In caso contrario, una proposta indipendente.’ Sarebbe più che sufficiente.”
 
@@ -5891,7 +5891,7 @@ Ma Cassleton aveva bluffato. La resa non sarebbe stata così facile come Terrard
 
 Al messaggero fu detto di attendere una risposta. Il signor Petre era ancora uno di quei persone che, ricevuta una lettera, la rispondevano immediatamente; tale era la sua semplicità, tale la sua felice ignoranza del mondo. Dopo aver letto quella innocente nota – la cui grafia apparteneva a Terrard, ma il cui contenuto rifletteva i pensieri di Charlbury – scrisse subito la sua risposta, con schiettezza, come avrebbe fatto un uomo onesto.
 
-# Caro signor Terrard,
+Caro signor Terrard,
 
 “Sì, è esattamente così che l’abbiamo formulato: un accordo con la presente Compagnia, se loro lo desiderano, dopo un incontro con il signor Trefusis, che potrà discutere la questione con me. In caso contrario, proporremo un’alternativa indipendente.”
 
@@ -5916,7 +5916,7 @@ Cassleton assunse un’aria di preoccupazione.
 
 Cassleton nodded. “Oh, yes,” he said, “everybody knows that.”
 
-“Perhaps everybody does not know it as I know it,” said Charlie. “It is the amazing everyday sort of way that he does these things. He moves the price of a [[City]] like a man taking off his hat; he decides in five minutes.”
+“Perhaps everybody does not know it as I know it,” said Charlie. “It is the amazing everyday sort of way that he does these things. He moves the price of a [[motifs/city|City]] like a man taking off his hat; he decides in five minutes.”
 
 “They ‘re all supposed to do that,” said Cassleton wearily.
 
@@ -5981,7 +5981,7 @@ There was the less ground for delay when Terrard protested that he had no power 
 
 “Cassleton annuì. ‘Oh, sì,’ disse, ‘tutti lo sanno.’”
 
-“Forse nessuno lo sa come lo so io,” disse Charlie. “È quel modo straordinario, quotidiano, con cui fa queste cose. Lui influenza il prezzo di una [[City|Città]] con la stessa facilità con cui un uomo si toglie il cappello; prende decisioni in soli cinque minuti.”
+“Forse nessuno lo sa come lo so io,” disse Charlie. “È quel modo straordinario, quotidiano, con cui fa queste cose. Lui influenza il prezzo di una [[motifs/city|Città]] con la stessa facilità con cui un uomo si toglie il cappello; prende decisioni in soli cinque minuti.”
 
 “Dovrebbero farlo tutti,” disse Cassleton, con aria stanca.
 
@@ -6118,7 +6118,7 @@ THE PUBLIC CAME after those debentures very kindly, very willingly; as kindly an
 
 The critics were voluble, as they always are; diverse, as they always are; variously ill-informed — and, in the issue, proved quite wrong.
 
-Those who had said that there would be opposition in the House were obviously wrong; they didn’t know what they were talking about; they were thinking in terms of an imaginary House of Commons long ago: old-fashioned academic fools like the editor (and owner) of The [[City]], who had run in their groove for forty years and still talked of the “Constitution,” “the Watchdog at the Treasury,” “the great spending departments,” “the power of the Purse.”
+Those who had said that there would be opposition in the House were obviously wrong; they didn’t know what they were talking about; they were thinking in terms of an imaginary House of Commons long ago: old-fashioned academic fools like the editor (and owner) of The [[motifs/city|City]], who had run in their groove for forty years and still talked of the “Constitution,” “the Watchdog at the Treasury,” “the great spending departments,” “the power of the Purse.”
 
 Those who said the new purchase would be voted down at the General Meeting were ridiculously wrong. They hadn’t even analysed the nominal holdings, let alone the real ones. The Locals got one hundred of the new fully-paid-up shilling shares for their old 4¾-⅞ sagging pound shares (with a 2s. 6d. call on them), and the new stuff was quoted at 112 within a fortnight. But after all, who were the Locals? When you dug out realities from under such names as the Imperial Adjustment Corporation, and Percival and Co., and Benezra Bros., who were they? Trefusis. There were a few hundred investors with tufts of fifty to five hundred, a few dozen larger insignificants, a handful of real investors (every one of them come in through the Trefusis crowd), a dust of little gamblers; all the rest were Trefusis — with Cassleton for his little necessary tail.
 
@@ -6155,7 +6155,7 @@ He had looked up Mr. Petre once or twice as the summer dragged on, first before 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO VIII
+CAPITOLO VIII
 
 Il pubblico accolse quelle obbligazioni con grande gentilezza e disponibilità; proprio come mucche che corrono verso un nuovo pascolo. I contratti governativi erano sufficienti a garantire tutto ciò. La Camera aveva deciso di non intervenire, considerandolo del tutto naturale, e i dipartimenti incaricati della gestione erano completamente rassicurati; ora che – come sapevano i loro responsabili – i due grandi nomi del mondo di Rotor collaboravano insieme.
 
@@ -6275,7 +6275,7 @@ Non disturbò quell’uomo importante. Pensò che fosse il momento giusto per an
 
 In quel stato d'animo, ricevette improvvisamente una chiamata. Non al telefono, ma un breve biglietto portato di persona nel suo ufficio proprio mentre stava per andarsene. Era indirizzato alle stanze del Tempio e recitava:
 
-# Caro signor Terrard,
+Caro signor Terrard,
 
 “Non potresti venire da me il prima possibile? Mi dispiace disturbarvi a quest’ora tarda degli orari di lavoro, ma mi considererei fortunata se riuscissi a trovarvi. Credetemi, la vostra presenza è estremamente necessaria per la mia tranquillità mentale.”
 
@@ -6433,9 +6433,9 @@ Il signor Petre minacciava disastri, e Terrard aggiunse rapidamente: “Ma se fo
 
 “Temo che cercherà di approfittare al massimo di questa differenza nel prezzo”, disse Charlie.
 
-# Il signor Petre
+Il signor Petre
 
-#Qual è la differenza tra queste due forme di crescita?
+Qual è la differenza tra queste due forme di crescita?
 
 “Perché questo aumento dopo, dopo l’accordo? Vorrebbe riavere quei venti percento, il sovrapprezzo, signor Petre.”
 
@@ -6447,7 +6447,7 @@ Terrard scriveva velocemente, sorpreso. “Non lascia più di due virgole e un q
 
 “Milioni,” disse Terrard con voce piena di ammirazione.
 
-#"Digli che ne prenderò due."
+"Digli che ne prenderò due."
 
 “Signor Petre, signor Petre!” gridò Terrard con sincera preoccupazione. “Oh, signor Petre. È impossibile. Per l’amor del cielo, ”
 
@@ -6579,7 +6579,7 @@ Charlie Terrard si avvicinò all’enorme ostacolo con una determinazione febbri
 
 “Che cos'è?” disse l'altro con un tono altrettanto immobile quanto il suo viso.
 
-# Il signor Petre
+Il signor Petre
 
 Poi Terrard presentò quell’oggetto straordinario.
 
@@ -6636,7 +6636,7 @@ And there it lay piled on its original foundation — the most original Current 
 
 * * * * *
 
-Mr. Petre — well over three million in cash — went down to Hampshire already half restored. He took a long and complete repose. He returned to [[London]] reluctantly, lest there should be some message waiting for him there, found none, and determined once and for all that he must get loose and free.
+Mr. Petre — well over three million in cash — went down to Hampshire already half restored. He took a long and complete repose. He returned to [[settings/london|London]] reluctantly, lest there should be some message waiting for him there, found none, and determined once and for all that he must get loose and free.
 
 The one good thing about his amazing adventure was that he could go whither he willed and had full command of his own life.
 
@@ -6697,7 +6697,7 @@ E lì giaceva, accumulata sulla sua base originale: il conto corrente più “or
 
 * * * * *
 
-Il signor Petre – con ben oltre tre milioni in contanti – si recò nell’Hampshire, dove il suo corpo era già stato parzialmente ripristinato. Si concesse un lungo e completo periodo di riposo. Tornò a [[London|Londra]] a malincuore, temendo che ci potesse essere qualche messaggio ad aspettarlo lì; non ne trovò alcuno e decise una volta per tutte di liberarsi da ogni vincolo e diventare finalmente libero.
+Il signor Petre – con ben oltre tre milioni in contanti – si recò nell’Hampshire, dove il suo corpo era già stato parzialmente ripristinato. Si concesse un lungo e completo periodo di riposo. Tornò a [[settings/london|Londra]] a malincuore, temendo che ci potesse essere qualche messaggio ad aspettarlo lì; non ne trovò alcuno e decise una volta per tutte di liberarsi da ogni vincolo e diventare finalmente libero.
 
 L’unica cosa positiva di quell’avventura straordinaria era che poteva andare dove voleva e aveva il pieno controllo sulla propria vita.
 
@@ -6807,7 +6807,7 @@ The Inquisitor leant forward.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO IX
+CAPITOLO IX
 
 Il signor Petre si avvicinò alla porta di Harley Street con un po' di paura nel cuore.
 
@@ -6853,7 +6853,7 @@ Poiché esseri del genere possono esprimere sorpresa, anche il Grande Specialist
 
 Il Grande Specialista tossì delicatamente ma con decisione, sospirò, riprese la penna e iniziò di nuovo, con lo stesso sguardo curioso e rivolto verso l’alto.
 
-# “Il nome di mia madre?”
+“Il nome di mia madre?”
 
 “Non lo so,” disse il signor Petre.
 
@@ -6964,7 +6964,7 @@ The Great Specialist turned upon him a face of stone.
 
 “No doubt,” said Mr. Petre. “No doubt. Well, yes, if that’s the name. My memory failed completely and suddenly about noon on April 3rd, 1953 — this year. I remember nothing of myself before that moment.” He had got it all in by rapid speaking.
 
-“Pray don’t interrupt me,” said the Great Specialist, in the tone of a governess, only a little more pettishly. “It is a case of loss of memory, or rather, let us call it loss of [[Identity|identity]].” He twisted his head sideways and murmured to himself: “What Pfungst has named ‘loss of the time-space continuum in its subjective aspect.” Then he got his head into the normal position again and murmured in a still lower tone, which Mr. Petre could only just catch: “Paranoia penipsissimisma, some people call it.” He added a little louder, looking up at Mr. Petre and presenting the title with a touch of affection, “Also called Bantam’s Complex, from Bantam, Sir George Bantam.”
+“Pray don’t interrupt me,” said the Great Specialist, in the tone of a governess, only a little more pettishly. “It is a case of loss of memory, or rather, let us call it loss of [[concepts/identity|identity]].” He twisted his head sideways and murmured to himself: “What Pfungst has named ‘loss of the time-space continuum in its subjective aspect.” Then he got his head into the normal position again and murmured in a still lower tone, which Mr. Petre could only just catch: “Paranoia penipsissimisma, some people call it.” He added a little louder, looking up at Mr. Petre and presenting the title with a touch of affection, “Also called Bantam’s Complex, from Bantam, Sir George Bantam.”
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6997,7 +6997,7 @@ Il signor Petre annuì e accettò. Capì che nessuno gli credeva.
 
 “A pranzo di solito vino rosso, o birra. A cena birra o vino rosso. Liquore con il caffè, ”
 
-#"Aspetta un attimo, per favore… Sì, il caffè… Quanto costa?"
+"Aspetta un attimo, per favore… Sì, il caffè… Quanto costa?"
 
 “Ah… una tazza.”
 
@@ -7011,7 +7011,7 @@ La penna scriveva freneticamente.
 
 “Per quanto tempo?”, chiese lo scrittore.
 
-# Dal 3 aprile, subito dopo mezzogiorno.
+Dal 3 aprile, subito dopo mezzogiorno.
 
 “E prima di tutto…?”
 
@@ -7061,7 +7061,7 @@ Il Grande Specialista gli rivolse un viso di pietra.
 
 “Senza dubbio,” disse il signor Petre. “Senza dubbio. Beh, sì, se è davvero quel nome. La mia memoria mi ha abbandonato completamente e all’improvviso, verso mezzogiorno del 3 aprile 1953, quest’anno. Non ricordo nulla di ciò che è accaduto prima di quel momento.” Aveva raccontato tutto velocemente, parlando in fretta.
 
-“Per favore, non interrompetemi,” disse il Grande Specialista con tono da governante, solo un po’ più petulante. “Si tratta di una perdita di memoria, o meglio, possiamo definirla una perdita dell’[[Identity|identità]].” Girò la testa di lato e mormorò tra sé: “Quello che Pfungst ha chiamato ‘perdita del continuum spazio-temporale nel suo aspetto soggettivo’, ” Poi riportò la testa nella posizione normale e mormorò ancora, a un tono ancora più basso, che il signor Petre riuscì appena a captare: “Paranoia penipsissimisma, alcuni lo chiamano così.” Alzò leggermente la voce, guardando il signor Petre e pronunciando quel nome con un certo affetto: “È anche conosciuto come ‘Complesso di Bantam’, da Sir George Bantam.”
+“Per favore, non interrompetemi,” disse il Grande Specialista con tono da governante, solo un po’ più petulante. “Si tratta di una perdita di memoria, o meglio, possiamo definirla una perdita dell’[[concepts/identity|identità]].” Girò la testa di lato e mormorò tra sé: “Quello che Pfungst ha chiamato ‘perdita del continuum spazio-temporale nel suo aspetto soggettivo’, ” Poi riportò la testa nella posizione normale e mormorò ancora, a un tono ancora più basso, che il signor Petre riuscì appena a captare: “Paranoia penipsissimisma, alcuni lo chiamano così.” Alzò leggermente la voce, guardando il signor Petre e pronunciando quel nome con un certo affetto: “È anche conosciuto come ‘Complesso di Bantam’, da Sir George Bantam.”
 
 
 
@@ -7267,7 +7267,7 @@ Ma il signor Petre ne aveva abbastanza. Che la sua nuova ricchezza gli avesse do
 
 “Sì,” disse il signor Petre, “sì.” Aveva già preso cappello e bastone.
 
-#Devo consigliare Sir Christopher ora? Devo scrivergli una nota?
+Devo consigliare Sir Christopher ora? Devo scrivergli una nota?
 
 “Grazie,” disse il signor Petre. “Ci penserò. Se mi permettete, vi contatterò di nuovo.” Ma ahimè, per l’integrità di un uomo onesto, aveva deciso con fermezza di non toccare più nulla legato alla facoltà fino a quando la disperazione non lo avrebbe costretto a farlo. Ne aveva abbastanza, fino alle ossa.
 
@@ -7284,7 +7284,7 @@ Mentre il signor Petre se ne andava, pieno di disperazione, lungo la strada vers
 <span class="atom-split" data-atom="chapter_09--part_05" data-title="Mr. Petre — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="setting/london"></span>
 
 
-Mr. Petre, bearing that inward burden of his, despairing, hopeless of rediscovering a knowledge without which life was not life, still paced southward, choosing the squares and the less occupied streets, until he found himself upon the top of St. James’s Hill. There he halted a moment at the corner of Piccadilly gazing down towards the Palace; the Clubs, the old brick towers, the Guardsmen on sentry-go at the door, the crowd of cars, even the [[London]] sky under a fresh autumnal breeze — all was as familiar to him as familiar could be. All was part of some home furniture in his mind; but of the home itself, nothing. A complete blank. The soul had lost its habitation.
+Mr. Petre, bearing that inward burden of his, despairing, hopeless of rediscovering a knowledge without which life was not life, still paced southward, choosing the squares and the less occupied streets, until he found himself upon the top of St. James’s Hill. There he halted a moment at the corner of Piccadilly gazing down towards the Palace; the Clubs, the old brick towers, the Guardsmen on sentry-go at the door, the crowd of cars, even the [[settings/london|London]] sky under a fresh autumnal breeze — all was as familiar to him as familiar could be. All was part of some home furniture in his mind; but of the home itself, nothing. A complete blank. The soul had lost its habitation.
 
 Mr. Petre went out from this last of his ordeals profoundly depressed. By all our standards he was greatly to be envied. He was untroubled by any great responsibility. He had drunk the water of Lethe; he was in health, he was rich.
 
@@ -7349,7 +7349,7 @@ Thompson, looking at him queerly for a moment, (but most concernedly, for he lov
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il signor Petre, portando con sé quel peso interiore, disperato e senza speranza di riscoprire quella conoscenza senza la quale la vita non avrebbe avuto senso, continuava a camminare verso sud, scegliendo piazze e strade meno affollate, fino a quando non si trovò in cima a St. James’s Hill. Lì si fermò per un momento all’angolo di Piccadilly, guardando giù verso il Palazzo: i club, le vecchie torri di mattoni, i soldati di guardia alla porta, la folla di automobili, persino il cielo di [[London|Londra]] sotto una fresca brezza autunnale. Tutto gli era familiare al massimo grado. Tutto faceva parte di quella “casa” nella sua mente; ma della casa stessa, nulla. Un vuoto assoluto. L’anima aveva perso la propria dimora.
+Il signor Petre, portando con sé quel peso interiore, disperato e senza speranza di riscoprire quella conoscenza senza la quale la vita non avrebbe avuto senso, continuava a camminare verso sud, scegliendo piazze e strade meno affollate, fino a quando non si trovò in cima a St. James’s Hill. Lì si fermò per un momento all’angolo di Piccadilly, guardando giù verso il Palazzo: i club, le vecchie torri di mattoni, i soldati di guardia alla porta, la folla di automobili, persino il cielo di [[settings/london|Londra]] sotto una fresca brezza autunnale. Tutto gli era familiare al massimo grado. Tutto faceva parte di quella “casa” nella sua mente; ma della casa stessa, nulla. Un vuoto assoluto. L’anima aveva perso la propria dimora.
 
 Il signor Petre uscì da quest’ultima prova attraversata con uno stato di profonda depressione. Secondo tutti i nostri standard, avrebbe dovuto essere molto invidiato: non era gravato da alcuna grande responsabilità, aveva bevuto l’acqua della Lete, era sano e ricco.
 
@@ -7860,7 +7860,7 @@ Her employer turned to go, and then suddenly remembered.
 
 Mrs. Malton, returning to her task, mused on the common madness of the wealthy, and humbly thanked Heaven for her good fortune.
 
-Peter Blagden took Thompson with him as he settled for the rent, gave the order for the moving of the furniture, and the address, went back to his rooms; sent Martin down to meet the furniture at Harrington, bade him be back on Thursday without fail, and then disappeared into that happy inn of his, with Thompson attendant. By ten of the Friday he was back in [[London]]; by eleven precisely, after a heavy struggle with his nerves, he was at the door of the Bank, in a good roomy motor, hired from Rimington’s over the river.
+Peter Blagden took Thompson with him as he settled for the rent, gave the order for the moving of the furniture, and the address, went back to his rooms; sent Martin down to meet the furniture at Harrington, bade him be back on Thursday without fail, and then disappeared into that happy inn of his, with Thompson attendant. By ten of the Friday he was back in [[settings/london|London]]; by eleven precisely, after a heavy struggle with his nerves, he was at the door of the Bank, in a good roomy motor, hired from Rimington’s over the river.
 
 A box of steel, burnished, about two feet and a half by two, lined with some dull bronze metal, and having a curious set of three fastenings of a sort he had never seen before, was awaiting him. There was a swing handle at either end. A man could lift it easily enough. The printed securities it contained, each batch just like the last, were handed out with the reverent care which a superstitious age might have shown to the body of a saint; they were in three thin flat bundles of 100 each, tied and docketed; and twenty over.
 
@@ -7909,7 +7909,7 @@ Il suo datore di lavoro stava per andarsene, quando all’improvviso se ne ricor
 
 La signora Malton, riprendendo il suo lavoro, rifletté sulla comune follia dei ricchi e ringraziò umilmente il Cielo per la sua fortuna.
 
-Peter Blagden portò con sé Thompson mentre andava a pagare l’affitto, dava ordine di trasportare i mobili e forniva l’indirizzo; poi tornò nelle sue stanze, mandò Martin ad aspettare i mobili a Harrington e gli ordinò di tornare giovedì senza fallo. Infine scomparve nella sua felice locanda, con Thompson al seguito. Venerdì alle dieci era già di ritorno a [[London|Londra]]; esattamente alle undici, dopo una dura battaglia contro i suoi nervi, si presentò davanti all’ingresso della banca, salendo su un comodo e spazioso autoveicolo noleggiato da Rimington dall’altra parte del fiume.
+Peter Blagden portò con sé Thompson mentre andava a pagare l’affitto, dava ordine di trasportare i mobili e forniva l’indirizzo; poi tornò nelle sue stanze, mandò Martin ad aspettare i mobili a Harrington e gli ordinò di tornare giovedì senza fallo. Infine scomparve nella sua felice locanda, con Thompson al seguito. Venerdì alle dieci era già di ritorno a [[settings/london|Londra]]; esattamente alle undici, dopo una dura battaglia contro i suoi nervi, si presentò davanti all’ingresso della banca, salendo su un comodo e spazioso autoveicolo noleggiato da Rimington dall’altra parte del fiume.
 
 Una scatola di acciaio lucidato, delle dimensioni di circa due piedi e mezzo per due piedi, rivestita all’interno con un metallo bronzo opaco, e munita di tre tipi di fermagli mai visti prima da lui, lo aspettava. Ai due estremi c’erano maniglie per sollevarla facilmente; un uomo avrebbe potuto trasportarla senza problemi. I titoli finanziari stampati al suo interno, ognuno identico agli altri, erano stati distribuiti con la stessa reverenza che un’epoca superstiziosa avrebbe riservato al corpo di un santo; erano raggruppati in tre pacchetti sottili, ciascuno contenente 100 pezzi, legati e contrassegnati con apposite etichette; in totale, ce n’erano venti.
 
@@ -7942,7 +7942,7 @@ But the gigantic sum in the locked cupboard of his bedroom above less affected h
 
 It did not take him ten days to put the simple trials of his earlier life to rights. The small sums — to him now small — very large to the recipients, which were needed to give him an immediate occupation of the old place, to give the mortgagees compensation for his haste, he had sacrificed, as he would have sacrificed a sixpence. And only the clerks in the Patcham Branch of the Empire Bank knew about it. Mr. Blagden, of Harrington Hall, had done famously in America. He had made a deal with the great John K. Petre, and netted close on £50,000.
 
-As for the American land, Mr. Blagden had cabled to [[London]] that power was following by mail to let it go. His agent there could sell or let ’em foreclose, just as he willed. He was indifferent; he only desired to hear no more of it. He had visited the old place and strolled round its gardens, pleased with everything, except to note this or that slight disorder, this or that slight mark of an alien presence now vanished. He had recalled in a flood the years of his childhood and of his early manhood. He had made friends of every chair and table and picture and book. He was bathed in content.
+As for the American land, Mr. Blagden had cabled to [[settings/london|London]] that power was following by mail to let it go. His agent there could sell or let ’em foreclose, just as he willed. He was indifferent; he only desired to hear no more of it. He had visited the old place and strolled round its gardens, pleased with everything, except to note this or that slight disorder, this or that slight mark of an alien presence now vanished. He had recalled in a flood the years of his childhood and of his early manhood. He had made friends of every chair and table and picture and book. He was bathed in content.
 
 He retained his rooms in St. James’s Place. He was used to them, they suited him, he wanted no more. Here was a good end to life. What would he do with the inordinate excess? He should put it somewhere apart from him so that he should not be troubled by the violence of men, or even by their needs beyond reason.
 
@@ -7961,7 +7961,7 @@ Ma quella enorme somma nascosta nell’armadio chiuso a chiave nella sua camera 
 
 Non gli ci vollero dieci giorni per sistemare le semplici questioni legate alle sue precedenti esperienze di vita. Le piccole somme di denaro – che per lui ora erano insignificanti, ma molto importanti per coloro che le ricevevano – necessarie per permettergli di occuparsi immediatamente della vecchia casa e per compensare i mutuari per la sua fretta, le aveva sacrificate, proprio come avrebbe sacrificato sei pence. E solo i impiegati della filiale di Patcham della Banca Imperiale ne erano a conoscenza. Il signor Blagden, di Harrington Hall, aveva ottenuto grandi successi in America: aveva stretto un accordo con il famoso John K. Petre e aveva guadagnato quasi 50.000 sterline.
 
-Per quanto riguarda quella terra americana, il signor Blagden aveva telegrafato a [[London|Londra]] che i documenti relativi al potere su di essa stavano arrivando per posta, pronti per essere utilizzati. Il suo agente lì poteva venderla o farla sequestrare, come avesse voluto lui. A lui non importava nulla; desiderava soltanto non sentirne più parlare. Aveva visitato quel luogo e passeggiato nei suoi giardini, soddisfatto di tutto, tranne che per qualche piccolo disordine o segno della presenza di estranei ormai scomparsi. Gli erano tornati in mente tutti gli anni della sua infanzia e della sua giovinezza; aveva “fatto amicizia” con ogni sedia, ogni tavolo, ogni quadro, ogni libro. Era immerso nella felicità.
+Per quanto riguarda quella terra americana, il signor Blagden aveva telegrafato a [[settings/london|Londra]] che i documenti relativi al potere su di essa stavano arrivando per posta, pronti per essere utilizzati. Il suo agente lì poteva venderla o farla sequestrare, come avesse voluto lui. A lui non importava nulla; desiderava soltanto non sentirne più parlare. Aveva visitato quel luogo e passeggiato nei suoi giardini, soddisfatto di tutto, tranne che per qualche piccolo disordine o segno della presenza di estranei ormai scomparsi. Gli erano tornati in mente tutti gli anni della sua infanzia e della sua giovinezza; aveva “fatto amicizia” con ogni sedia, ogni tavolo, ogni quadro, ogni libro. Era immerso nella felicità.
 
 Rimase ad abitare nelle sue stanze in St. James’s Place. Ci era abituato, gli piacevano, non ne voleva altre. Questa era una bella fine per la sua vita. Cosa avrebbe fatto con tutto quel lusso eccessivo? Avrebbe dovuto metterlo da parte, lontano da sé, in modo che non lo disturbasse più la violenza umana, né nemmeno le loro esigenze irragionevoli.
 
@@ -8003,7 +8003,7 @@ So did John Kosciusko arrange his life. And the Daemon had even arranged that Jo
 
 <span class="qlang-split" data-lang="it"></span>
 
-# CAPITOLO X
+CAPITOLO X
 
 E forse la grande pace avrebbe nuovamente spiegato le sue ali su un mondo nuovo e beato?
 
@@ -8042,15 +8042,15 @@ It was his glory that in these vacations (though he lost not a moment and contin
 
 The weather was torrid, as September in France can be, the same weather in which, half a lifetime before, and more, the German armies had marched upon Paris; and John Kosciusko, reading yesterday’s Matin in the town of Angers (where he found himself in his progress north to the coast), read a paragraph which he would certainly not have read in any English paper; and, reading it, wondered whether he were alive or dead.
 
-It was plain French, and he could read plain French well enough. There would have seemed, to anyone else, nothing very startling in the news. It was a commonplace story of modern speculation, and described in the light French manner how a big Rotor merger had taken place in [[London]] that summer and how its monopoly was virtually established by the Government decision to adopt the Combine system in the ports and on board the King’s ships as well as in the Postal System; and how the Dominions had followed suit.
+It was plain French, and he could read plain French well enough. There would have seemed, to anyone else, nothing very startling in the news. It was a commonplace story of modern speculation, and described in the light French manner how a big Rotor merger had taken place in [[settings/london|London]] that summer and how its monopoly was virtually established by the Government decision to adopt the Combine system in the ports and on board the King’s ships as well as in the Postal System; and how the Dominions had followed suit.
 
 But it was not these first few lines which had knocked John Kosciusko sideways; it was the last three. They ran:
 
-“It is the secret of Punchinello that the soul of this affair, of one so large envergure, is but that John K. Petre, the man of fantastic millions, who is of passage at [[London]], seems it, and of whom one talks currently in the best clubs of the Bond Street and of the Strand. — ..”
+“It is the secret of Punchinello that the soul of this affair, of one so large envergure, is but that John K. Petre, the man of fantastic millions, who is of passage at [[settings/london|London]], seems it, and of whom one talks currently in the best clubs of the Bond Street and of the Strand. — ..”
 
 John Kosciusko Petre put the paper down on the little marble table on the café where he sat, spread it out with two large bony hands, and fixed upon the ill-conditioned print of the French journal those steel spectacles, that firm and concentrated gaze, which were his marks.
 
-He registered every word. He felt a duty to take some immediate decision, but he could not decide what the decision was to be. He could not decide decisively, as decisions should be decided. For once in his life he was flummoxed. Then — for our millionaires are men of rapid conclusions, that is why they now and then die poor — the corners of his mouth drew down; he had solved the problem. During that long vacuity of his in France he had been impersonated in [[London]]. His clurk should have known of this!
+He registered every word. He felt a duty to take some immediate decision, but he could not decide what the decision was to be. He could not decide decisively, as decisions should be decided. For once in his life he was flummoxed. Then — for our millionaires are men of rapid conclusions, that is why they now and then die poor — the corners of his mouth drew down; he had solved the problem. During that long vacuity of his in France he had been impersonated in [[settings/london|London]]. His clurk should have known of this!
 
 He pulled forth a little knife, rather blunt, and slowly cut out the offending paragraph. He unscrewed his big black Waterman pen and wrote on it in the bold American hand “7/10/53.” He blotted it with the vile French blotting paper, frowned to see it blurred, folded it carefully, and put it into a cheap leather wallet which he had carried for over forty years. He was still angry against the clurk. But he was a just man, and reflected under what difficulties of a foreign language and of slow communication that very efficient young man had kept up communications during all these months of travel; and he acquitted him. But he must consult with him, and he went back to the hotel.
 
@@ -8064,7 +8064,7 @@ Then with no deliberation, at once, the wires were set to work. The agencies whi
 
 And upon the morning of the third day John Kosciusko, who had kept strictly to himself all the time, never so much as leaving his rooms, receiving the reports, co-ordinating them, mastering the thing like a man of thirty-five, and a genius in staff work at that — on the morning of the third day, I say, the whole thing was before him, shaken into shape, and presented as lucidly as a good diagram. He had got it all.
 
-Five months ago, on the 3rd of April (the very day, by gosh! that he himself had looked on Plymouth before he had landed at Cherbourg!) a man of such and such appearance, perhaps twenty years younger than himself, utterly different from himself, stout, grey, in the early fifties (some said he might be American, and some said he might be English) had impersonated him in that very hotel, the Splendide. He had crossed the tracks of those very agencies, apparently to find out what the real John K. was doing and where he might be. He had moved to rooms in the Temple. He had lunched and dined at such and such a house; he had been the constant associate of one Terrard, of Blake and Blake, Brokers on ’Change in the [[City]] of London, and he had had the gall to make good!
+Five months ago, on the 3rd of April (the very day, by gosh! that he himself had looked on Plymouth before he had landed at Cherbourg!) a man of such and such appearance, perhaps twenty years younger than himself, utterly different from himself, stout, grey, in the early fifties (some said he might be American, and some said he might be English) had impersonated him in that very hotel, the Splendide. He had crossed the tracks of those very agencies, apparently to find out what the real John K. was doing and where he might be. He had moved to rooms in the Temple. He had lunched and dined at such and such a house; he had been the constant associate of one Terrard, of Blake and Blake, Brokers on ’Change in the [[motifs/city|City]] of London, and he had had the gall to make good!
 
 It was said that he had begun with a deal in some stock. One line of inquiries made sure it was French African stock, but another that it was a Bear account in the External Loan. Anyhow, immediately after, he had bought the Paddenham Site and then sold it to the Government for some ten million dollars. Then he had gone in with the Trefusis crowd at fifty-fifty; but about three weeks after the Contract had gone through with the Commons he had sold out. What he had done after this it was too soon to know, as it was only a few days before; but he had gone out with half the capital. He had not been frozen out, or anything of that kind. He had it good and tight, mayhap in National Bonds.
 
@@ -8077,15 +8077,15 @@ Era la sua gloria il fatto che, durante queste vacanze (sebbene non perdesse un 
 
 Il tempo era torrido, come può essere a settembre in Francia: lo stesso tempo in cui, mezzo secolo prima o più, le armate tedesche avevano marciato su Parigi. John Kosciusko, leggendo i giornali di Angers (dove si trovava mentre viaggiava verso nord, verso la costa), lesse un paragrafo che sicuramente non avrebbe mai trovato in nessun giornale inglese; e, leggendolo, si chiese se fosse ancora vivo o morto.
 
-Era francese semplice, e lui riusciva a leggerlo abbastanza bene. Per chiunque altro, quelle notizie non avrebbero rappresentato nulla di particolarmente sorprendente: si trattava di una storia banale riguardante le speculazioni moderne, descritta nel tipico stile francese. Vi si raccontava come quell’estate a [[London|Londra]] fosse avvenuta una grande fusione tra aziende del settore e come il monopolio creato da questa fusione fosse stato praticamente consolidato dalla decisione del governo di adottare il sistema “Combine” nei porti, a bordo delle navi reali e nel servizio postale; inoltre, si spiegava anche come i dominion avessero seguito l’esempio.
+Era francese semplice, e lui riusciva a leggerlo abbastanza bene. Per chiunque altro, quelle notizie non avrebbero rappresentato nulla di particolarmente sorprendente: si trattava di una storia banale riguardante le speculazioni moderne, descritta nel tipico stile francese. Vi si raccontava come quell’estate a [[settings/london|Londra]] fosse avvenuta una grande fusione tra aziende del settore e come il monopolio creato da questa fusione fosse stato praticamente consolidato dalla decisione del governo di adottare il sistema “Combine” nei porti, a bordo delle navi reali e nel servizio postale; inoltre, si spiegava anche come i dominion avessero seguito l’esempio.
 
 Ma non furono queste prime poche righe a sconvolgere John Kosciusko; furono le ultime tre. Dicevano:
 
-“Il segreto di Punchinello sta nel fatto che l’elemento principale di questa vicenda, di una portata così vasta, è proprio John K. Petre, quell’uomo che possiede milioni fantastici e che sembra trovarsi attualmente a [[London|Londra]], di cui si parla molto nelle migliori club della Bond Street e dello Strand, ”
+“Il segreto di Punchinello sta nel fatto che l’elemento principale di questa vicenda, di una portata così vasta, è proprio John K. Petre, quell’uomo che possiede milioni fantastici e che sembra trovarsi attualmente a [[settings/london|Londra]], di cui si parla molto nelle migliori club della Bond Street e dello Strand, ”
 
 John Kosciusko Petre posò il foglio di carta sul piccolo tavolino di marmo del caffè dove sedeva, lo aprì con due grandi mani ossute e fissò quella stampa di scarsa qualità del giornale francese con quegli occhiali d'acciaio, con quello sguardo deciso e concentrato che erano le sue caratteristiche.
 
-Registrò ogni parola. Sentiva il dovere di prendere una decisione immediata, ma non riusciva a capire quale fosse quella decisione. Non era in grado di decidere con certezza, perché le decisioni dovrebbero essere prese con sicurezza. Per la prima volta in vita sua si trovava imbarazzato. Poi – poiché i nostri milionari sono persone che prendono decisioni rapidamente, ed è proprio per questo che a volte muoiono poveri – gli angoli della sua bocca si abbassarono: aveva risolto il problema. Durante quel lungo periodo trascorso in Francia, qualcuno aveva assunto le sue sembianze a [[London|Londra]]. Il suo segretario avrebbe dovuto saperlo!
+Registrò ogni parola. Sentiva il dovere di prendere una decisione immediata, ma non riusciva a capire quale fosse quella decisione. Non era in grado di decidere con certezza, perché le decisioni dovrebbero essere prese con sicurezza. Per la prima volta in vita sua si trovava imbarazzato. Poi – poiché i nostri milionari sono persone che prendono decisioni rapidamente, ed è proprio per questo che a volte muoiono poveri – gli angoli della sua bocca si abbassarono: aveva risolto il problema. Durante quel lungo periodo trascorso in Francia, qualcuno aveva assunto le sue sembianze a [[settings/london|Londra]]. Il suo segretario avrebbe dovuto saperlo!
 
 Tirò fuori un piccolo coltello, piuttosto smussato, e tagliò lentamente quel paragrafo indesiderato. Svitò la sua grande penna Waterman nera e scrisse sopra, con caratteri grossolani tipici americani: “7/10/53”. Lo asciugò con quel disgustoso carta assorbente francese, aggrottò la fronte vedendolo diventare sfocato, lo piegò con cura e lo mise in una banconota di pelle economica che portava con sé da oltre quarant’anni. Era ancora arrabbiato con quel giovane incompetente. Ma era un uomo giusto, e rifletté su quali difficoltà – dovute alla lingua straniera e alle lente comunicazioni – quel ragazzo così efficiente avesse dovuto affrontare durante tutti quei mesi di viaggio; quindi lo scagionò. Tuttavia, doveva ancora parlargli con lui, quindi tornò in albergo.
 
@@ -8099,7 +8099,7 @@ Poi, senza alcuna esitazione, immediatamente, i fili si attivarono. Gli strument
 
 E la mattina del terzo giorno, John Kosciusko – che per tutto quel tempo si era tenuto rigorosamente in disparte, senza nemmeno lasciare le sue stanze – ricevette i rapporti, li coordinò e gestì tutta la situazione con l’efficienza di un uomo di trentacinque anni, un vero genio nel lavoro di squadra. La mattina del terzo giorno, insomma, tutto era sotto controllo: le cose erano state organizzate in modo chiaro e comprensibile, come in un buon diagramma. Lui aveva risolto ogni problema.
 
-Cinque mesi fa, il 3 aprile (esattamente lo stesso giorno in cui lui stesso aveva osservato Plymouth prima di sbarcare a Cherbourg!), un uomo dall’aspetto particolare, forse vent’anni più giovane di lui, completamente diverso da lui – robusto, con i capelli grigi, sulla cinquantina – aveva assunto il suo identità proprio in quell’hotel, lo Splendide. Aveva seguito le stesse tracce delle agenzie che lui stesso aveva utilizzato, apparentemente per scoprire cosa facesse davvero John K. e dove potesse trovarsi. Si era trasferito in stanze nel quartiere di Temple; pranzava e cenava in determinati ristoranti; frequentava assiduamente un certo Terrard, nonché la ditta Blake and Blake, agenti di cambio nella [[City|>Città]] di Londra. E aveva avuto il coraggio di farla franca!
+Cinque mesi fa, il 3 aprile (esattamente lo stesso giorno in cui lui stesso aveva osservato Plymouth prima di sbarcare a Cherbourg!), un uomo dall’aspetto particolare, forse vent’anni più giovane di lui, completamente diverso da lui – robusto, con i capelli grigi, sulla cinquantina – aveva assunto il suo identità proprio in quell’hotel, lo Splendide. Aveva seguito le stesse tracce delle agenzie che lui stesso aveva utilizzato, apparentemente per scoprire cosa facesse davvero John K. e dove potesse trovarsi. Si era trasferito in stanze nel quartiere di Temple; pranzava e cenava in determinati ristoranti; frequentava assiduamente un certo Terrard, nonché la ditta Blake and Blake, agenti di cambio nella [[motifs/city|>Città]] di Londra. E aveva avuto il coraggio di farla franca!
 
 Si diceva che avesse iniziato con un investimento in azioni. Un’indagine ha confermato che si trattava di azioni dell’Africa francese, mentre un’altra rivelazione ha indicato che si trattava di un conto speculativo legato a prestiti esteri. Comunque sia, subito dopo aveva acquistato il sito Paddenham per poi venderlo al governo per circa dieci milioni di dollari. Successivamente aveva partecipato a un progetto con il gruppo Trefusis in parti uguali; ma circa tre settimane dopo la firma dell’accordo con il Parlamento, aveva venduto tutte le sue quote. Cosa avesse fatto dopo, era ancora troppo presto per saperlo, visto che erano passati solo pochi giorni; comunque, aveva perso metà del proprio capitale. Non era stato escluso dal progetto, né nulla del genere: probabilmente aveva investito in obbligazioni statali.
 
@@ -8128,11 +8128,11 @@ Then he bethought him of the dear old family lawyer, Mr. Wilkins.
 
 Everything belonging to that real life of his — better, for all its troubles than the mad episode of fortune — was to Mr. Blagden now at once very distinct and very small, like a picture looked at through one of these diminishing glasses which the block makers use to decide on the effect of a wash drawing when it shall be reduced to scale. The image of Mr. Wilkins stood out thus exceedingly sharp and yet still remote. It was Mr. Wilkins who had presided over the steady decline of his mother’s income and his own. It was Mr. Wilkins who had drawn a substantial income from loyal work performed for a dozen such families of the declining gentry — clients inherited from his worthy father and grandfather; for it was a fine old firm. It was Mr. Wilkins who had given him every possible piece of advice — on legal technicalities always accurate, on policy always bad — since he had come of age. To Mr. Wilkins he now turned. He remembered the telephone number well enough, and considered curiously within himself what a strange thing this faculty of memory must be, that not only faded, but could be wholly exiled, and then could present the past again with all the violent reality of immediate things.
 
-As he waited for the answer on the [[Machine|machine]] it struck him that Mr. Wilkins might be dead. He was twelve years older than Mr. Blagden, and an absence of twenty-eight months is a gap. To his joy he heard the same clerk’s familiar voice answering with the same irritability it had invariably answered with in the old days, he heard the familiar formula when he had given his name, that he would be put through to Mr. Wilkins; and at last he heard once more the familiar tones of the principal, still clear in his sober age. They wasted very little time in greetings. Mr. Wilkins was free? Mr. Blagden would go round now, at once.
+As he waited for the answer on the [[motifs/machine|machine]] it struck him that Mr. Wilkins might be dead. He was twelve years older than Mr. Blagden, and an absence of twenty-eight months is a gap. To his joy he heard the same clerk’s familiar voice answering with the same irritability it had invariably answered with in the old days, he heard the familiar formula when he had given his name, that he would be put through to Mr. Wilkins; and at last he heard once more the familiar tones of the principal, still clear in his sober age. They wasted very little time in greetings. Mr. Wilkins was free? Mr. Blagden would go round now, at once.
 
 An old association of more than thirty years endeared the two men to each other; money lost upon the one side and gained upon the other was a further bond.
 
-Mr. Wilkins heard patiently the details; of the sudden loss of memory, the name Petre, the financial dealings, the writ. He showed not the faintest surprise at any part of the extraordinary story of lost [[Identity|identity]] (which he entirely disbelieved), he jotted down dates and then gave tongue.
+Mr. Wilkins heard patiently the details; of the sudden loss of memory, the name Petre, the financial dealings, the writ. He showed not the faintest surprise at any part of the extraordinary story of lost [[concepts/identity|identity]] (which he entirely disbelieved), he jotted down dates and then gave tongue.
 
 He used the customary string of technicalities, to each of which was attached a customary payment. He took for granted, in that clear-cut professional manner which was part of his job, that his client had done something quite amazingly astute; that he had been running very close to the wind. He felt a strong professional admiration for so much daring and skill. Who would have expected it of Peter Blagden? He changed his tone to one of conversation and said:
 
@@ -8161,7 +8161,7 @@ Poi gli venne in mente l’amato vecchio avvocato di famiglia, il signor Wilkins
 
 Tutto ciò che apparteneva a quella sua vita reale – anzi, nonostante tutti i suoi problemi, molto meglio di quell’episodio folle della fortuna – ora sembrava al signor Blagden qualcosa di estremamente distinto e allo stesso tempo insignificante, come un’immagine vista attraverso uno di quegli occhiali di ingrandimento che i falegnami usano per valutare l’effetto di un disegno quando deve essere ridotto alle dimensioni reali. L’immagine del signor Wilkins emergeva così nitidamente, eppure rimaneva distante. Era stato il signor Wilkins ad aver causato il costante calo dei redditi sia di sua madre che suoi; era stato lui a trarre un notevole guadagno dal lavoro onesto svolto per una dozzina di famiglie appartenenti alla nobiltà in declino – clienti ereditati da suo padre e suo nonno, poiché si trattava di un’antica e rispettabile azienda. Era stato ancora lui a dargli tutti i consigli possibili: sempre precisi sul piano legale, ma spesso errati in termini politici. Da quando aveva raggiunto l’età adulta. Ora si rivolgeva proprio a lui. Ricordava bene quel numero di telefono e si chiedeva, con curiosità, quale strana capacità fosse quella della memoria: non solo poteva svanire completamente, ma anche riportare il passato con tutta la sua realtà intensa, come se fosse presente nel momento attuale.
 
-Mentre aspettava la risposta dalla [[Machine|macchina]], gli venne in mente che il signor Wilkins potesse essere morto. Era di dodici anni più vecchio del signor Blagden, e ventotto mesi di assenza rappresentavano davvero un lungo periodo. Con sua grande gioia, sentì la voce familiare dello stesso impiegato rispondere con lo stesso tono irritabile di sempre; udì anche la solita formula quando dichiarò il proprio nome: sarebbe stato messo in contatto con il signor Wilkins. E finalmente, ascoltò nuovamente le voci familiari del direttore, ancora chiare nonostante la sua età avanzata. Non persero molto tempo in saluti: il signor Wilkins era libero? Il signor Blagden sarebbe andato da lui immediatamente.
+Mentre aspettava la risposta dalla [[motifs/machine|macchina]], gli venne in mente che il signor Wilkins potesse essere morto. Era di dodici anni più vecchio del signor Blagden, e ventotto mesi di assenza rappresentavano davvero un lungo periodo. Con sua grande gioia, sentì la voce familiare dello stesso impiegato rispondere con lo stesso tono irritabile di sempre; udì anche la solita formula quando dichiarò il proprio nome: sarebbe stato messo in contatto con il signor Wilkins. E finalmente, ascoltò nuovamente le voci familiari del direttore, ancora chiare nonostante la sua età avanzata. Non persero molto tempo in saluti: il signor Wilkins era libero? Il signor Blagden sarebbe andato da lui immediatamente.
 
 Un'antica amicizia che durava da più di trent'anni aveva reso i due uomini particolarmente legati l'uno all'altro; il denaro perso da uno e guadagnato dall'altro rappresentava un ulteriore legame tra loro.
 

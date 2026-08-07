@@ -14,4 +14,11 @@ The pseudo-scientific 'Neo-Individualist Eugenics' explicitly named as the paren
 
 <div class="concept-works" data-slug="concepts/eugenics"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/hifts-(chesterton)|HIFTS (Chesterton)]]
+- [[works/utopiausurers-(chesterton)|UtopiaUsurers (Chesterton)]]
+
+</div>
+
 #graph/concept

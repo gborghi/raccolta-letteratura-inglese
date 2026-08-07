@@ -20,17 +20,17 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Sleep · Sleeper Awakes · Resurrection]]
+*by Poe*  ·  **Cluster:** [[clusters/sleep-·-sleeper-awakes-·-resurrection|Sleep · Sleeper Awakes · Resurrection]]
 
 > [!abstract] 
 > A nocturnal lyric meditating on a beautiful dead (or deathly sleeping) woman, Irene, beneath the mystic moon; her sleep merges with the grave. Themes of death, the dead beloved, sleep and melancholy.
 
 ## Connections
 
-**Topoi:** [[Memento Mori]], [[Unattainable Beloved]]
-**Motifs:** [[Death]], [[Sleep]], [[Grave]], [[Moon]], [[Night]]
-**Themes & Concepts:** [[Mortality]], [[Melancholy]], [[Grief and Loss]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]], [[topoi/unattainable-beloved|Unattainable Beloved]]
+**Motifs:** [[motifs/death|Death]], [[motifs/sleep|Sleep]], [[motifs/grave|Grave]], [[motifs/moon|Moon]], [[motifs/night|Night]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/melancholy|Melancholy]], [[concepts/grief-and-loss|Grief and Loss]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

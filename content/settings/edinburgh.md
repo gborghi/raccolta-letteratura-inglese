@@ -14,4 +14,11 @@ Stevenson's native city of crags, castle and Puritan respectability, whose 'east
 
 <div class="concept-works" data-slug="settings/edinburgh"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/robert-louis-stevenson-(chesterton)|Robert Louis Stevenson (Chesterton)]]
+- [[works/memories-and-adventures-(conan-doyle)|Memories and Adventures (Conan Doyle)]]
+
+</div>
+
 #graph/setting

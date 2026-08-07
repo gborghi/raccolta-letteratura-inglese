@@ -14,4 +14,10 @@ The recurring conceit of twelve ordinary men chosen for a grave task, explicitly
 
 <div class="concept-works" data-slug="motifs/the-twelve"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/twelve-men-(chesterton)|twelve-men (Chesterton)]]
+
+</div>
+
 #graph/motif

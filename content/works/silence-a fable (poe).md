@@ -24,7 +24,7 @@ tags:
   - histref/ancient_rome
 ---
 
-*by Poe*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
+*by Poe*  ·  **Cluster:** [[clusters/temptation-·-good-vs-evil-·-serpent-snake|Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 
 > A Demon recounts how he cursed a desolate Libyan landscape first with tumult then with silence, driving a solitary Roman figure to flight; a parable of desolation, the supernatural and the terror of silence.
@@ -34,11 +34,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Satanic Figure]], [[Outsider]]
-**Motifs:** [[Silence]], [[Supernatural]], [[Storm]], [[River]], [[Moon]], [[Blood]], [[Nature]]
-**Themes & Concepts:** [[Terror and Horror]], [[Uncanny]], [[Melancholy]]
-**Forms & Genres:** [[Fable]], [[Allegory]]
-**Historical References:** [[Ancient Rome]]
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/silence|Silence]], [[motifs/supernatural|Supernatural]], [[motifs/storm|Storm]], [[motifs/river|River]], [[motifs/moon|Moon]], [[motifs/blood|Blood]], [[concepts/nature|Nature]]
+**Themes & Concepts:** [[concepts/terror-and-horror|Terror and Horror]], [[concepts/uncanny|Uncanny]], [[concepts/melancholy|Melancholy]]
+**Forms & Genres:** [[forms/fable|Fable]], [[forms/allegory|Allegory]]
+**Historical References:** [[settings/ancient-rome|Ancient Rome]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ The just, legal mediaeval king who developed Parliament, expelled the Jews, and 
 
 <div class="concept-works" data-slug="characters/edward-i"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/history-(chesterton)|history (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ The tormented Anglican clergyman whose secret hatred drives him to murder in 'Th
 
 <div class="concept-works" data-slug="characters/wilfred-bohun"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/innocence-(chesterton)|innocence (Chesterton)]]
+
+</div>
+
 #graph/character

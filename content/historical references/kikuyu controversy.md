@@ -14,4 +14,10 @@ The 1913 Anglican ecumenical dispute over the Kikuyu missionary conference, sati
 
 <div class="concept-works" data-slug="historical-references/kikuyu-controversy"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/unity-(chesterton)|unity (Chesterton)]]
+
+</div>
+
 #graph/histref

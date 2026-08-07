@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/mrs-bardell"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/the-pickwick-papers-(dickens)|The Pickwick Papers (Dickens)]]
+
+</div>
+
 #graph/character

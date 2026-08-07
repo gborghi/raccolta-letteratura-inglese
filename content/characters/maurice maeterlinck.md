@@ -14,4 +14,10 @@ Subject of an essay praising him as a champion of the 'inside' of things, the sp
 
 <div class="concept-works" data-slug="characters/maurice-maeterlinck"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+
+</div>
+
 #graph/character

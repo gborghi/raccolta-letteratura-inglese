@@ -14,4 +14,10 @@ Real-life Spiritualist medium repeatedly invoked as the Church's rival suitor, t
 
 <div class="concept-works" data-slug="characters/dennis-bradley"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/jealousy-(chesterton)|Jealousy (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ The essay repeatedly plays on the title of Wells's utopian/scientific-romance no
 
 <div class="concept-works" data-slug="historical-references/h.g.-wells's-the-world-set-free"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/leisure-state-(chesterton)|leisure-state (Chesterton)]]
+
+</div>
+
 #graph/histref

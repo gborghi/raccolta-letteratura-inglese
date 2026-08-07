@@ -14,4 +14,10 @@ Laura's fainting companion in Love and Freindship, quoted warning against fainti
 
 <div class="concept-works" data-slug="characters/sophia"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/intro-love-and-freindship-(chesterton)|intro-love-and-freindship (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ Early Christian virgin martyr broken on a spiked wheel, invoked at the Rotarian 
 
 <div class="concept-works" data-slug="characters/st.-catherine-of-alexandria"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/rotarians-(chesterton)|rotarians (Chesterton)]]
+
+</div>
+
 #graph/character

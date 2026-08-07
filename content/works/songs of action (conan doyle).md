@@ -27,17 +27,17 @@ tags:
   - topos/war_as_glory
   - topos/last_stand
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Verse · Action · Heroism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/verse-·-action-·-heroism|Verse · Action · Heroism]]
 
 > [!abstract] 
 > A collection of narrative and ballad-style verse (1898) celebrating martial heroism, sport, and adventure, including poems on English archery, historical battles such as Cremona, storming parties, and hunting and sporting life.
 
 ## Connections
 
-**Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]], [[Comic Verse Song]]
-**Themes & Concepts:** [[Heroism]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Courage]], [[Endurance]]
-**Motifs:** [[Swords and Weapons]], [[Horse]], [[Music and Song]]
-**Historical References:** [[Napoleonic Wars the Navy]], [[British Empire]]
-**Settings:** [[Battlefield]], [[Continental Europe (Brussels)]]
-**Archetypes:** [[Hero]], [[Avenger]]
-**Topoi:** [[War as Glory]], [[Last Stand]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/narrative-poem|Narrative Poem]], [[forms/comic-verse-song|Comic Verse Song]]
+**Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/courage|Courage]], [[concepts/endurance|Endurance]]
+**Motifs:** [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/horse|Horse]], [[motifs/music-and-song|Music and Song]]
+**Historical References:** [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/battlefield|Battlefield]], [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/avenger|Avenger]]
+**Topoi:** [[topoi/war-as-glory|War as Glory]], [[topoi/last-stand|Last Stand]]

@@ -14,4 +14,10 @@ Gale's recurring rationalist physician friend, who narrates, investigates, and o
 
 <div class="concept-works" data-slug="characters/dr.-garth"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/poet-and-lunatics-(chesterton)|Poet and Lunatics (Chesterton)]]
+
+</div>
+
 #graph/character

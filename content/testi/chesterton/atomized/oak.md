@@ -16,7 +16,7 @@ tags:
 
 # oak
 
-The [[Song]] of the Oak  
+The [[works/song-(poe)|Song]] of the Oak  
 
 The Druids waved their golden knives  
 And danced around the Oak  
@@ -26,14 +26,14 @@ No single modern person can
 Entirely see the joke.  
 But though they cut the throats of men  
 They cut not down the tree,  
-And from the [[Blood|blood]] the saplings [[spring]]  
+And from the [[motifs/blood|blood]] the saplings [[motifs/spring|spring]]  
 Of oak-woods yet to be.  
 But Ivywood, Lord Ivywood,  
 He rots the tree as ivy would,  
 He clings and crawls as ivy would  
 About the sacred tree.  
 
-[[King]] Charles he fled from Worcester fight  
+[[archetypes/king|King]] Charles he fled from Worcester fight  
 And hid him in the Oak;  
 In convent schools no man of tact  
 Would trace and praise his every act,  
@@ -52,8 +52,8 @@ Great Collingwood walked down the glade
 And flung the acorns free,  
 That oaks might still be in the grove  
 As oaken as the beams above,  
-When the great [[Lover]] sailors [[Love|love]]  
-Was kissed by [[Death]] at aea.  
+When the great [[archetypes/lover|Lover]] sailors [[motifs/love|love]]  
+Was kissed by [[motifs/death|Death]] at aea.  
 But though for him the oak-trees fell  
 To build the oaken ships,  
 The woodman worshipped what he smote  
@@ -70,7 +70,7 @@ G. K. Chesterton
 
 # quercia
 
-La [[Song|Canzone]] della Quercia  
+La Canzone della Quercia  
 
 I Druidi agitavano i loro coltelli d'oro  
 e danzavano attorno alla Quercia  
@@ -80,14 +80,14 @@ nessuna persona moderna riesce
 a cogliere del tutto lo scherzo.  
 Ma sebbene tagliassero la gola agli uomini  
 non tagliavano l'albero,  
-e dal [[Blood|sangue]] [[spring|germogliano]] i virgulti  
+e dal [[motifs/blood|sangue]] [[motifs/spring|germogliano]] i virgulti  
 dei querceti che ancora saranno.  
 Ma Ivywood, Lord Ivywood,  
 marcisce l'albero come farebbe l'edera,  
 s'aggrappa e striscia come farebbe l'edera  
 attorno all'albero sacro.  
 
-Il [[King|Re]] Carlo fuggì dalla battaglia di Worcester  
+Il [[archetypes/king|Re]] Carlo fuggì dalla battaglia di Worcester  
 e si nascose nella Quercia;  
 nelle scuole dei conventi nessun uomo di tatto  
 vorrebbe seguirne e lodarne ogni atto,  
@@ -106,8 +106,8 @@ Il grande Collingwood scese per la radura
 e sparse liberamente le ghiande,  
 perché querce fossero ancora nel bosco  
 querciose come le travi lassù,  
-quando il grande [[Lover|Amato]] che i marinai [[Love|amano]]  
-fu baciato dalla [[Death|Morte]] in mare.  
+quando il grande [[archetypes/lover|Amato]] che i marinai [[motifs/love|amano]]  
+fu baciato dalla [[motifs/death|Morte]] in mare.  
 Ma sebbene per lui le querce cadessero  
 per costruire le navi di quercia,  
 il boscaiolo venerava ciò che abbatteva  
@@ -126,7 +126,7 @@ G. K. Chesterton
 
 # oak
 
-The [[Song]] of the Oak  
+The [[works/song-(poe)|Song]] of the Oak  
 
 The Druids waved their golden knives  
 And danced around the Oak  
@@ -136,14 +136,14 @@ No single modern person can
 Entirely see the joke.  
 But though they cut the throats of men  
 They cut not down the tree,  
-And from the [[Blood|blood]] the saplings [[spring]]  
+And from the [[motifs/blood|blood]] the saplings [[motifs/spring|spring]]  
 Of oak-woods yet to be.  
 But Ivywood, Lord Ivywood,  
 He rots the tree as ivy would,  
 He clings and crawls as ivy would  
 About the sacred tree.  
 
-[[King]] Charles he fled from Worcester fight  
+[[archetypes/king|King]] Charles he fled from Worcester fight  
 And hid him in the Oak;  
 In convent schools no man of tact  
 Would trace and praise his every act,  
@@ -162,8 +162,8 @@ Great Collingwood walked down the glade
 And flung the acorns free,  
 That oaks might still be in the grove  
 As oaken as the beams above,  
-When the great [[Lover]] sailors [[Love|love]]  
-Was kissed by [[Death]] at aea.  
+When the great [[archetypes/lover|Lover]] sailors [[motifs/love|love]]  
+Was kissed by [[motifs/death|Death]] at aea.  
 But though for him the oak-trees fell  
 To build the oaken ships,  
 The woodman worshipped what he smote  
@@ -180,7 +180,7 @@ G. K. Chesterton
 
 # quercia
 
-La [[Song|Canzone]] della Quercia  
+La Canzone della Quercia  
 
 I Druidi agitavano i loro coltelli d'oro  
 e danzavano attorno alla Quercia  
@@ -190,14 +190,14 @@ nessuna persona moderna riesce
 a cogliere del tutto lo scherzo.  
 Ma sebbene tagliassero la gola agli uomini  
 non tagliavano l'albero,  
-e dal [[Blood|sangue]] [[spring|germogliano]] i virgulti  
+e dal [[motifs/blood|sangue]] [[motifs/spring|germogliano]] i virgulti  
 dei querceti che ancora saranno.  
 Ma Ivywood, Lord Ivywood,  
 marcisce l'albero come farebbe l'edera,  
 s'aggrappa e striscia come farebbe l'edera  
 attorno all'albero sacro.  
 
-Il [[King|Re]] Carlo fuggì dalla battaglia di Worcester  
+Il [[archetypes/king|Re]] Carlo fuggì dalla battaglia di Worcester  
 e si nascose nella Quercia;  
 nelle scuole dei conventi nessun uomo di tatto  
 vorrebbe seguirne e lodarne ogni atto,  
@@ -216,8 +216,8 @@ Il grande Collingwood scese per la radura
 e sparse liberamente le ghiande,  
 perché querce fossero ancora nel bosco  
 querciose come le travi lassù,  
-quando il grande [[Lover|Amato]] che i marinai [[Love|amano]]  
-fu baciato dalla [[Death|Morte]] in mare.  
+quando il grande [[archetypes/lover|Amato]] che i marinai [[motifs/love|amano]]  
+fu baciato dalla [[motifs/death|Morte]] in mare.  
 Ma sebbene per lui le querce cadessero  
 per costruire le navi di quercia,  
 il boscaiolo venerava ciò che abbatteva  

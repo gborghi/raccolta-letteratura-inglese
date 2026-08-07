@@ -16,17 +16,17 @@ tags:
   - concept/providence
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
+*by Coleridge*  ·  **Cluster:** [[clusters/nationalism-and-patriotism-·-democracy-·-liberty-political-freedom|Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
 > A blank-verse meditation written during invasion fears, moving from a peaceful dell to a jeremiad on England's guilt in war and empire and a chastened patriotism rooted in love of native ground; themes of war's cost, patriotism and nature.
 
 ## Connections
 
-**Topoi:** [[Pastoral Retreat]]
-**Motifs:** [[Nature]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[War and its Cost]], [[Social Injustice]], [[Providence]]
-**Forms & Genres:** [[Blank Verse]]
+**Topoi:** [[topoi/pastoral-retreat|Pastoral Retreat]]
+**Motifs:** [[concepts/nature|Nature]]
+**Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/social-injustice|Social Injustice]], [[concepts/providence|Providence]]
+**Forms & Genres:** [[forms/blank-verse|Blank Verse]]
 
 ## Testo integrale / Full text
 

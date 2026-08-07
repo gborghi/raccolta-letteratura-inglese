@@ -14,4 +14,10 @@ The silent, literal-minded servant whose bizarre inventory of hoarded objects dr
 
 <div class="concept-works" data-slug="characters/israel-gow"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/innocence-(chesterton)|innocence (Chesterton)]]
+
+</div>
+
 #graph/character

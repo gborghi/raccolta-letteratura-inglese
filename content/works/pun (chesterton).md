@@ -26,7 +26,7 @@ tags:
 
 # pun
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > An essay arguing the pun, like rhyme and metaphor, makes completeness of form confirm completeness of idea; a defence of wit and the literary craft against the 'spirit of the age'.
@@ -42,12 +42,12 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Puritanism]]
+**Historical References:** [[historical-references/puritanism|Puritanism]]
 
-**Motifs:** [[Letters and Writing]], [[Wordplay]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/wordplay|Wordplay]]
 
-**Themes & Concepts:** [[Artist and Society]], [[Critique of Progress]], [[Beauty]], [[Joy]], [[Power of Language]], [[Paradox]], [[Wit]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Epigram]], [[Heroic Couplet]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/beauty|Beauty]], [[concepts/joy|Joy]], [[concepts/power-of-language|Power of Language]], [[concepts/paradox|Paradox]], [[concepts/wit|Wit]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/epigram|Epigram]], [[forms/heroic-couplet|Heroic Couplet]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -22,18 +22,18 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Sleep · Sleeper Awakes · Resurrection]]
+*by Poe*  ·  **Cluster:** [[clusters/sleep-·-sleeper-awakes-·-resurrection|Sleep · Sleeper Awakes · Resurrection]]
 
 > [!abstract] 
 > Lyric spoken from a deathlike repose, the fever of 'Living' conquered, soothed by the love of Annie and the peace of the grave.
 
 ## Connections
 
-**Topoi:** [[Memento Mori]]
-**Archetypes:** [[Lover]]
-**Motifs:** [[Death]], [[Sleep]], [[Grave]], [[Love]], [[Flowers]], [[Water]]
-**Themes & Concepts:** [[Mortality]], [[Grief and Loss]], [[Romantic Love]], [[Melancholy]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]
+**Archetypes:** [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/death|Death]], [[motifs/sleep|Sleep]], [[motifs/grave|Grave]], [[motifs/love|Love]], [[motifs/flowers|Flowers]], [[motifs/water|Water]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/romantic-love|Romantic Love]], [[concepts/melancholy|Melancholy]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

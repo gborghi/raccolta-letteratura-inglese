@@ -15,16 +15,16 @@ tags:
   - form/hymn
 ---
 
-*by Eliot*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Eliot*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > Renunciatory penitential lyric of the converting soul giving up worldly striving and praying for mercy; conversion, humility, transience and faith sought amid doubt.
 
 ## Connections
 
-**Motifs:** [[Birds]]
-**Themes & Concepts:** [[Conversion]], [[Humility]], [[Faith and Doubt]], [[Transience]]
-**Forms & Genres:** [[Hymn]]
+**Motifs:** [[motifs/birds|Birds]]
+**Themes & Concepts:** [[concepts/conversion|Conversion]], [[concepts/humility|Humility]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/transience|Transience]]
+**Forms & Genres:** [[forms/hymn|Hymn]]
 
 ## Testo integrale / Full text
 

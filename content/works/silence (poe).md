@@ -19,17 +19,17 @@ tags:
   - form/sonnet
 ---
 
-*by Poe*  ·  **Cluster:** [[Death · Silence · Bells]]
+*by Poe*  ·  **Cluster:** [[clusters/death-·-silence-·-bells|Death · Silence · Bells]]
 
 > [!abstract] 
 > A sonnet on the two-fold silence of body and soul, personifying the corporate silence of the grave ('No More') and warning of its nameless, dreadful counterpart.
 
 ## Connections
 
-**Topoi:** [[Memento Mori]]
-**Motifs:** [[Silence]], [[Grave]], [[Death]], [[Sea]], [[Memory]]
-**Themes & Concepts:** [[Mortality]], [[Terror and Horror]], [[Uncanny]]
-**Forms & Genres:** [[Sonnet]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/silence|Silence]], [[motifs/grave|Grave]], [[motifs/death|Death]], [[motifs/sea|Sea]], [[motifs/memory|Memory]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/uncanny|Uncanny]]
+**Forms & Genres:** [[forms/sonnet|Sonnet]]
 
 ## Testo integrale / Full text
 

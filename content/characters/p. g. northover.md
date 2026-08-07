@@ -14,4 +14,10 @@ Founder of the Adventure and Romance Agency, which manufactures scripted thrilli
 
 <div class="concept-works" data-slug="characters/p.-g.-northover"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/queertrades-(chesterton)|queertrades (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -12,4 +12,12 @@ tags:
 
 <div class="concept-works" data-slug="characters/barnaby-rudge"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/dickens-britannica-(chesterton)|dickens Britannica (Chesterton)]]
+- [[works/barnaby-rudge-(dickens)|Barnaby Rudge (Dickens)]]
+
+</div>
+
 #graph/character

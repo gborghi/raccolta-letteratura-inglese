@@ -23,19 +23,19 @@ tags:
   - motif/blood
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Bible · Sin and the Fall · Fall from Innocence]]
+*by Coleridge*  ·  **Cluster:** [[clusters/bible-·-sin-and-the-fall-·-fall-from-innocence|Bible · Sin and the Fall · Fall from Innocence]]
 
 > [!abstract] 
 > A long Miltonic blank-verse meditation written Christmas Eve 1794: the Nativity, divine Love and the 'one Mind', apocalyptic judgement of oppression and the French Revolution, millennial redemption; themes of faith, providence, the One Life, war and its cost, and social injustice.
 
 ## Connections
 
-**Topoi:** [[Poet as Prophet]]
-**Motifs:** [[Blood]]
-**Themes & Concepts:** [[Faith]], [[Providence]], [[One Life (Pantheism)]], [[Apocalypse and Millennium]], [[War and its Cost]], [[Social Injustice]], [[Grace and Redemption]], [[Sin and the Fall]]
-**Forms & Genres:** [[Blank Verse]]
-**Historical References:** [[French Revolution]], [[Bible]]
-**Characters:** [[Christ]]
+**Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]]
+**Motifs:** [[motifs/blood|Blood]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/providence|Providence]], [[concepts/one-life-(pantheism)|One Life (Pantheism)]], [[concepts/apocalypse-and-millennium|Apocalypse and Millennium]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/social-injustice|Social Injustice]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/sin-and-the-fall|Sin and the Fall]]
+**Forms & Genres:** [[forms/blank-verse|Blank Verse]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/bible|Bible]]
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

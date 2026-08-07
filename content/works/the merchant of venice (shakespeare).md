@@ -38,7 +38,7 @@ tags:
   - character/launcelot_gobbo
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/blood-·-verse-drama-·-revenge|Blood · Verse Drama · Revenge]]
 
 > [!abstract] 
 > A tragicomedy in which the merchant Antonio borrows from the Jewish moneylender Shylock on a bond of a pound of flesh; it turns on the conflict of justice and mercy, the casket-test courtship of Portia, and the trial scene resolved by Portia disguised as a lawyer.
@@ -68,14 +68,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Love as Religion]]
-**Archetypes:** [[Outsider]], [[Villain]], [[Scapegoat]]
-**Motifs:** [[Money and Gold]], [[Blood]], [[Concealment Hidden Identity]]
-**Themes & Concepts:** [[Justice Right and Wrong]], [[Mercy]], [[Revenge]], [[Alienation]], [[Romantic Love]], [[Friendship]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Tragicomedy]], [[Comedy]], [[Verse Drama]]
-**Historical References:** [[Bible]]
-**Settings:** [[Venice]], [[Europe]]
-**Characters:** [[Shylock]], [[Portia]], [[Antonio]], [[Bassanio]], [[Jessica]], [[Lorenzo]], [[Gratiano]], [[Nerissa]], [[Launcelot Gobbo]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]]
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/villain|Villain]], [[archetypes/scapegoat|Scapegoat]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/blood|Blood]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]]
+**Themes & Concepts:** [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/mercy|Mercy]], [[concepts/revenge|Revenge]], [[concepts/alienation|Alienation]], [[concepts/romantic-love|Romantic Love]], [[concepts/friendship|Friendship]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
+**Forms & Genres:** [[forms/tragicomedy|Tragicomedy]], [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]]
+**Historical References:** [[historical-references/bible|Bible]]
+**Settings:** [[settings/venice|Venice]], [[settings/europe|Europe]]
+**Characters:** [[characters/shylock|Shylock]], [[characters/portia|Portia]], [[characters/antonio|Antonio]], [[characters/bassanio|Bassanio]], [[characters/jessica|Jessica]], [[characters/lorenzo|Lorenzo]], [[characters/gratiano|Gratiano]], [[characters/nerissa|Nerissa]], [[characters/launcelot-gobbo|Launcelot Gobbo]]
 
 ## Testo integrale / Full text
 

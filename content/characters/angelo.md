@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/angelo"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/measure-for-measure-(shakespeare)|MEASURE FOR MEASURE (Shakespeare)]]
+
+</div>
+
 #graph/character

@@ -31,7 +31,7 @@ tags:
   - archetype/detective
   - archetype/villain
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Detective Fiction · Ratiocination Detection · Crime and Punishment]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/detective-fiction-·-ratiocination-detection-·-crime-and-punishment|Detective Fiction · Ratiocination Detection · Crime and Punishment]]
 
 > [!abstract] 
 > Sherlock Holmes and Watson investigate the death of Sir Charles Baskerville, apparently from fright, amid an old family legend of a diabolical hound haunting the moor. As the new heir Sir Henry arrives at Baskerville Hall, Holmes uncovers a very human plot hiding behind the supernatural terror.
@@ -59,12 +59,12 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Detective Fiction]], [[Novel]], [[Gothic Novel]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Fear]], [[Family and Lineage]], [[Guilt]]
-**Motifs:** [[Supernatural]], [[Fog and Smoke]], [[Uncanny]], [[Secrets]], [[Night]], [[Animals]]
-**Historical References:** [[Victorian England]]
-**Settings:** [[London]], [[Rural England]]
-**Characters:** [[Sherlock Holmes]], [[Doctor Watson]]
-**Archetypes:** [[Detective]], [[Villain]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/novel|Novel]], [[forms/gothic-novel|Gothic Novel]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/fear|Fear]], [[concepts/family-and-lineage|Family and Lineage]], [[concepts/guilt|Guilt]]
+**Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/fog-and-smoke|Fog and Smoke]], [[concepts/uncanny|Uncanny]], [[motifs/secrets|Secrets]], [[motifs/night|Night]], [[motifs/animals|Animals]]
+**Historical References:** [[historical-references/victorian-england|Victorian England]]
+**Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]
 
-**Also relevant to:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
+**Also relevant to:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]

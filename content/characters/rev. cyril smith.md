@@ -14,4 +14,10 @@ The young High Church rector whose reasoned defense of faith and the supernatura
 
 <div class="concept-works" data-slug="characters/rev.-cyril-smith"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/magic-(chesterton)|Magic (Chesterton)]]
+
+</div>
+
 #graph/character

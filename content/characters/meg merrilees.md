@@ -14,4 +14,10 @@ Scott's gypsy prophetess from Guy Mannering, whose curse upon Ellangowan Chester
 
 <div class="concept-works" data-slug="characters/meg-merrilees"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+
+</div>
+
 #graph/character

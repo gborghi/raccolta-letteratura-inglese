@@ -14,4 +14,11 @@ German reformer discussed at length (whole chapter 'The New Luther') as the orig
 
 <div class="concept-works" data-slug="characters/martin-luther"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/well-and-shallows-(chesterton)|Well And Shallows (Chesterton)]]
+- [[works/aquinas-(chesterton)|aquinas (Chesterton)]]
+
+</div>
+
 #graph/character

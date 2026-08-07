@@ -28,7 +28,7 @@ tags:
   - setting/pastoral_countryside
 ---
 
-*by Poe*  ·  **Cluster:** [[Ode · Nature vs Civilization · Pastoral Retreat]]
+*by Poe*  ·  **Cluster:** [[clusters/ode-·-nature-vs-civilization-·-pastoral-retreat|Ode · Nature vs Civilization · Pastoral Retreat]]
 
 > [!abstract] 
 > Descriptive prose pendant to Arnheim, a wanderer's discovery of an exquisitely composed valley, cottage, and landscape-as-art.
@@ -50,11 +50,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Locus Amoenus]], [[Beatus Ille (Happy the Man Rural Retreat)]]
-**Motifs:** [[Nature]], [[Garden]], [[Flowers]], [[Water]], [[River]], [[Fog and Smoke]], [[Journey]]
-**Themes & Concepts:** [[Beauty]], [[Artist and Society]], [[Imagination]], [[Nature vs Civilization]], [[Wonder and Gratitude]]
-**Forms & Genres:** [[Short Story]], [[Travel Writing]], [[Nonfiction]]
-**Settings:** [[New England America]], [[Pastoral Countryside]]
+**Topoi:** [[topoi/locus-amoenus|Locus Amoenus]], [[topoi/beatus-ille-(happy-the-man-rural-retreat)|Beatus Ille (Happy the Man Rural Retreat)]]
+**Motifs:** [[concepts/nature|Nature]], [[motifs/garden|Garden]], [[motifs/flowers|Flowers]], [[motifs/water|Water]], [[motifs/river|River]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/journey|Journey]]
+**Themes & Concepts:** [[concepts/beauty|Beauty]], [[concepts/artist-and-society|Artist and Society]], [[concepts/imagination|Imagination]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/travel-writing|Travel Writing]], [[forms/nonfiction|Nonfiction]]
+**Settings:** [[settings/new-england-america|New England America]], [[settings/pastoral-countryside|Pastoral Countryside]]
 
 ## Testo integrale / Full text
 

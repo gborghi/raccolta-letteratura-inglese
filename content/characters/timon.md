@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/timon"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/timon-of-athens-(shakespeare)|TIMON OF ATHENS (Shakespeare)]]
+
+</div>
+
 #graph/character

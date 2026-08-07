@@ -264,9 +264,9 @@ II
 
 AS WILFRID HALTERTON once more sat by himself in front of his wireless heater, he was filled with that powerful impression men receive but once or twice in the course of a lifetime; the impression that a whole tide about them has changed; that they have passed out of one long phase, during which the current has carried them in one direction, and that now they have come to a second phase, in which the current is to carry them the opposite way. He felt that he had achieved — or, as the phrase goes among statesmen, “made good.”
 
-His own position in the negotiation just concluded was but one out of many such. The deal about his future salary was of a commonplace sort, something we have all come to expect in political arrangements. But it was the first one he had made in all his years of Parliament, and it impressed him accordingly. He had always been far too timid a man, in a profession where timidity is sometimes fatal, and always a handicap. Some women (and men) had blamed Mrs. Boulger for giving him Cabinet rank at all. But we know that if a man attains such a position it cannot be without high talent, which his eminent colleagues have recognized. Such talents he had abundantly shown during his tenure of office. He himself had now been for more than six months at the head of a vast [[Machine|machine]]; he had delivered daily 264,748,942 letters; 968,477,321 postcards; 7,263,402 telegrams; stamps of all denominations to the value of £6,923,410 6s. 3d. — more than the entire yearly revenue of Guatemala — and at the same time carried parcels and issued licenses for armorial bearings, dogs, and male servants.
+His own position in the negotiation just concluded was but one out of many such. The deal about his future salary was of a commonplace sort, something we have all come to expect in political arrangements. But it was the first one he had made in all his years of Parliament, and it impressed him accordingly. He had always been far too timid a man, in a profession where timidity is sometimes fatal, and always a handicap. Some women (and men) had blamed Mrs. Boulger for giving him Cabinet rank at all. But we know that if a man attains such a position it cannot be without high talent, which his eminent colleagues have recognized. Such talents he had abundantly shown during his tenure of office. He himself had now been for more than six months at the head of a vast [[motifs/machine|machine]]; he had delivered daily 264,748,942 letters; 968,477,321 postcards; 7,263,402 telegrams; stamps of all denominations to the value of £6,923,410 6s. 3d. — more than the entire yearly revenue of Guatemala — and at the same time carried parcels and issued licenses for armorial bearings, dogs, and male servants.
 
-Wilfrid Halterton had managed all this for now over half a year, and there had been no hitch. It should have given him a better opinion of himself. Besides which, he should have remembered that a man is not given powers of this exalted kind unless he be also competent to deal with many other activities. Having shown his capacity for handling this huge, intricate business of the Post Office, he would be naturally chosen to direct in turn the finances of the nation, its Foreign Affairs, its Navy, its immense Police [[Machine|machine]], public and secret, and perhaps its Museums, or even the [[London]] Parks. For it is a presumption in our constitution, and a wise one, that the talents sufficing for a Cabinet Minister in one Department will suffice for him in any other and a statesman must shift around.
+Wilfrid Halterton had managed all this for now over half a year, and there had been no hitch. It should have given him a better opinion of himself. Besides which, he should have remembered that a man is not given powers of this exalted kind unless he be also competent to deal with many other activities. Having shown his capacity for handling this huge, intricate business of the Post Office, he would be naturally chosen to direct in turn the finances of the nation, its Foreign Affairs, its Navy, its immense Police [[motifs/machine|machine]], public and secret, and perhaps its Museums, or even the [[settings/london|London]] Parks. For it is a presumption in our constitution, and a wise one, that the talents sufficing for a Cabinet Minister in one Department will suffice for him in any other and a statesman must shift around.
 
 Wilfrid Halterton should, I say, therefore have been less modest in the first months of high office. None the less, his original mood remained with him, and he was glad to think that his first considerable political success, this negotiation of his with James McAuley, would enable him to re-enter private life. He was content to leave to others the glory of public fame, and to take in its place a largely increased income.
 
@@ -366,7 +366,7 @@ There are situations which act marvellously as a spur to the intelligence, and W
 
 “Hullo, I thought you were dining with McAuley?”
 
-And so on; with such phrases he traced McAuley to his lair. He heard at last that the financier was dining with the Balcombes. At that time of night which Victor Hugo so finely calls the desert hour when lions gather to drink, that is, at a quarter to nine, when the lions lift the first cup of champagne to their lips in the houses of our great [[Democracy|democracy]], Wilfrid Halterton caused J. to be summoned to the telephone: he used a ruse: he summoned J. in the name of his secretary— “Say Miss Fairweather wants him — urgently.” James McAuley, who had but just sat down and exchanged his first words with his hostess, Lady Caroline, in the very ugly grand new house of the Balcombes in Hill Street, cursed under his breath, left the dinner, went out and sat down to the telephone in Balcombe’s private room; with the thick door carefully shut. He lifted the receiver and said, rather testily:
+And so on; with such phrases he traced McAuley to his lair. He heard at last that the financier was dining with the Balcombes. At that time of night which Victor Hugo so finely calls the desert hour when lions gather to drink, that is, at a quarter to nine, when the lions lift the first cup of champagne to their lips in the houses of our great [[concepts/democracy|democracy]], Wilfrid Halterton caused J. to be summoned to the telephone: he used a ruse: he summoned J. in the name of his secretary— “Say Miss Fairweather wants him — urgently.” James McAuley, who had but just sat down and exchanged his first words with his hostess, Lady Caroline, in the very ugly grand new house of the Balcombes in Hill Street, cursed under his breath, left the dinner, went out and sat down to the telephone in Balcombe’s private room; with the thick door carefully shut. He lifted the receiver and said, rather testily:
 
 “Well, Miss Fairweather?”
 
@@ -446,7 +446,7 @@ There had been ups and downs, though he had told her frankly of certain misjudge
 
 In these few moments of concentration during which he interrupted that conversation with his wife, which he was very careful to maintain, Jack Williams had captured with his bright sharp eyes one point after another in the financial news before him. He had seen that the Indian Loan was steady, he had been a little annoyed at the head-lines on the Third Central Bank; there had been a half-smile on his face for half a second at an absurd puff of the New Guaranty Loan, which he had heavily sold forward upon good official knowledge, shared by not more than half-a-dozen other men. Then his expression changed again and became arrested and almost excited. His wife noticed the expression, but she could not tell what caused it.
 
-What had caused it had been something very small but very significant. It was a line in the middle of the industrial shares, the line concerning Billies on the New York Exchange after [[London]] had closed the evening before. That line said simply:
+What had caused it had been something very small but very significant. It was a line in the middle of the industrial shares, the line concerning Billies on the New York Exchange after [[settings/london|London]] had closed the evening before. That line said simply:
 
 “Durr. Imp. Tel. Ord. 29s. 6d. — 31s. 6d.”
 
@@ -502,7 +502,7 @@ First, McAuley and his crowd, the Durrant crowd, might have had an assurance; th
 
 That was one possibility. The second possibility was that James Haggismuir McAuley, having got his assurance solidly in writing, had deliberately released the knowledge of it indirectly, having already bought at the lowest during the little slump of yesterday, Wednesday morning, and desiring to catch a profit in passing before the big business began.
 
-The third possibility was that there was no assurance at all, and that James, in a laudable effort to catch the same quick profit, had let it be thought that he had an assurance, though he had it not. In that case the shares would slump badly sooner or later, and must be watched. For the moment they were bound to be blazing, because all [[London]] would be reading the quotation from New York in the paper this morning.
+The third possibility was that there was no assurance at all, and that James, in a laudable effort to catch the same quick profit, had let it be thought that he had an assurance, though he had it not. In that case the shares would slump badly sooner or later, and must be watched. For the moment they were bound to be blazing, because all [[settings/london|London]] would be reading the quotation from New York in the paper this morning.
 
 The fourth possibility was that someone in New York had lied brazenly for his own purposes, and that there was as yet no assurance given to Durrant’s at all, or, if there was, no leakage of the assurance voluntary or involuntary, no funny business on this side at any rate.
 
@@ -1648,7 +1648,7 @@ He would not write, he would not even telephone. He walked, slowly, disconsolate
 
 It was only his nerves, of course, but he thought that even the liveried man at the door looked at him as he knew well the world was looking. He went in, still miserable enough, was announced, and entered the familiar room. She was there.
 
-She was indeed! His face had just appeared in the doorway, his two hands were but just outstretched, when he was met by that which may be compared, as you will, to a jet of boiling water, a [[Machine|machine]]-gun nest, or a railway accident. With her strong lissom body taut, just leaning forward, her arms straight and at attention, her fists clenched, each slightly behind the line of her body, with all the energy of well-moulded limbs about to spring, Joan Papworthy gave tongue. “Gave teeth” would be a better phrase; and her gambit struck the unmistakable note of what was to follow.
+She was indeed! His face had just appeared in the doorway, his two hands were but just outstretched, when he was met by that which may be compared, as you will, to a jet of boiling water, a [[motifs/machine|machine]]-gun nest, or a railway accident. With her strong lissom body taut, just leaning forward, her arms straight and at attention, her fists clenched, each slightly behind the line of her body, with all the energy of well-moulded limbs about to spring, Joan Papworthy gave tongue. “Gave teeth” would be a better phrase; and her gambit struck the unmistakable note of what was to follow.
 
 “You stinking fool!” she said. Oh! That ever from those lips. . . . “Stinking! Stinking! Stinking fool! Do you know what you’ve done? Had you the least idea what you were doing?” She put about five “s’s” into “least.” “Cretin!” And on that emphatic word she shot lightning from her eyes. “Oh! Get out! Do you hear? Get out! You make me sick!”
 
@@ -2555,13 +2555,13 @@ Durrant’s and Reynier’s were the popular names of the two competing groups. 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Indice
+Indice
 
 I
 
 II
 
-# III
+III
 
 IV
 
@@ -2569,9 +2569,9 @@ V
 
 VI
 
-# VII
+VII
 
-# VIII
+VIII
 
 IX
 
@@ -2579,19 +2579,19 @@ X
 
 XI
 
-# XII
+XII
 
-# XIII
+XIII
 
-# XIV
+XIV
 
 XV
 
-# XVI
+XVI
 
-# XVII
+XVII
 
-# XVIII
+XVIII
 
 Il frontespizio originale: Il Nobile Onorevole Wilfrid Delescue Halterton, membro del Parlamento, nato il 14 gennaio 1905. Padre: John Halterton di Reldwell Hall, Essex. Madre: L’onorevole Sarah Woolley. Studiò a Eton e al Merrion College di Cambridge, conseguendo un 3° posto con lode in Botanica nel 1936. Fu Postmaster-General durante il secondo mandato della signora Boulger (1960). Hobby: il golf. Single. Nessun nome né cognome noti.
 
@@ -2933,13 +2933,13 @@ Il signor James McAuley, finanziere, si occupa di rendere tutto regolare per il 
 
 “Bene,” sospirò Halterton, e ricominciò a leggere.
 
-# Mio caro Halterton,
+Mio caro Halterton,
 
 Vorrei propormi qualcosa che spero sinceramente possiate accettare con favore. So quanto modestamente valutiate le vostre capacità, soprattutto nel campo degli affari; ma siete l’unico uomo in Inghilterra a farlo. Inoltre, il vostro incarico presso l’Ufficio Postale non solo vi ha fornito l’esperienza di cui abbiamo bisogno, ma vi ha anche valso il rispetto e l’ammirazione di tutti. Quindi quello che voglio chiedervi è semplicemente questo: “Ora che siete fuori dalla vita pubblica e, presumo, disponete di molto tempo libero, accettereste di assumere la carica di Amministratore della nostra società?” Da quando sono stato nominato Commissario Permanente, il consiglio di amministrazione ha discusso a lungo su chi dovesse essere scelto; ma non mi piacciono queste lunghe discussioni, né che ci sia una posizione vacante. Meno ancora mi piace dover svolgere due lavori contemporaneamente. Non c’è bisogno di dirvi che, quando è stato menzionato il vostro nome, siamo stati tutti d’accordo. L’unica questione era se foste disposti ad accettare. Sappiamo quanto apprezziate il vostro tempo libero. Ma vi prego, dite sì! Sarebbe un grande favore personale per me; e, cosa che temo sia ancora più importante, fareste davvero la differenza per questo servizio pubblico di fondamentale importanza. Sto mettendo tutto il mio impegno in questa proposta. Vi supplico, non rifiutate.
 
-# Per sempre
+Per sempre
 
-# Jas. Haggismuir McAuley
+Jas. Haggismuir McAuley
 
 Era una firma chiara e bella, degna dell’uomo il cui padre era nato nella famiglia Haggismuir di Haggismuir.
 
@@ -2973,7 +2973,7 @@ Wilfrid Halterton tirò fuori la sua piccola penna stilografica montata in oro e
 
 Halterton, sempre influenzato dagli esempi altrui, accettò lentamente l’offerta generosa ma ancora senza data di James McAuley. Tuttavia aggiunse qualcosa di suo, guidato da una vaga sensazione che ciò lo rendesse più sicuro. Prese una penna e scrisse, con la sua grafia piuttosto incerta, in cima al foglio che James McAuley gli aveva dato: —
 
-# La lettera di James McAuley. Ricevuta il 3 marzo 1960. W.H.
+La lettera di James McAuley. Ricevuta il 3 marzo 1960. W.H.
 
 Poteva sempre cancellarlo quando fosse arrivato il momento di usarlo, ma intanto rimaneva lì come una sorta di registrazione. McAuley lo osservò mentre lo scriveva e lo piegava con estrema attenzione, poi lo infilava nell’indirizzo corrispondente, facendo solo un’unica busta. Infine, leccando la linguetta della busta e premendola bene, per nascondere i segreti di stato agli occhi di tutti, Wilfrid Halterton, Ministro Postale Generale, mise la busta nella tasca del suo abito da mattina, la tasca laterale, lontana da Mr. McAuley.
 
@@ -3000,9 +3000,9 @@ II
 
 AS WILFRID HALTERTON once more sat by himself in front of his wireless heater, he was filled with that powerful impression men receive but once or twice in the course of a lifetime; the impression that a whole tide about them has changed; that they have passed out of one long phase, during which the current has carried them in one direction, and that now they have come to a second phase, in which the current is to carry them the opposite way. He felt that he had achieved — or, as the phrase goes among statesmen, “made good.”
 
-His own position in the negotiation just concluded was but one out of many such. The deal about his future salary was of a commonplace sort, something we have all come to expect in political arrangements. But it was the first one he had made in all his years of Parliament, and it impressed him accordingly. He had always been far too timid a man, in a profession where timidity is sometimes fatal, and always a handicap. Some women (and men) had blamed Mrs. Boulger for giving him Cabinet rank at all. But we know that if a man attains such a position it cannot be without high talent, which his eminent colleagues have recognized. Such talents he had abundantly shown during his tenure of office. He himself had now been for more than six months at the head of a vast [[Machine|machine]]; he had delivered daily 264,748,942 letters; 968,477,321 postcards; 7,263,402 telegrams; stamps of all denominations to the value of £6,923,410 6s. 3d. — more than the entire yearly revenue of Guatemala — and at the same time carried parcels and issued licenses for armorial bearings, dogs, and male servants.
+His own position in the negotiation just concluded was but one out of many such. The deal about his future salary was of a commonplace sort, something we have all come to expect in political arrangements. But it was the first one he had made in all his years of Parliament, and it impressed him accordingly. He had always been far too timid a man, in a profession where timidity is sometimes fatal, and always a handicap. Some women (and men) had blamed Mrs. Boulger for giving him Cabinet rank at all. But we know that if a man attains such a position it cannot be without high talent, which his eminent colleagues have recognized. Such talents he had abundantly shown during his tenure of office. He himself had now been for more than six months at the head of a vast [[motifs/machine|machine]]; he had delivered daily 264,748,942 letters; 968,477,321 postcards; 7,263,402 telegrams; stamps of all denominations to the value of £6,923,410 6s. 3d. — more than the entire yearly revenue of Guatemala — and at the same time carried parcels and issued licenses for armorial bearings, dogs, and male servants.
 
-Wilfrid Halterton had managed all this for now over half a year, and there had been no hitch. It should have given him a better opinion of himself. Besides which, he should have remembered that a man is not given powers of this exalted kind unless he be also competent to deal with many other activities. Having shown his capacity for handling this huge, intricate business of the Post Office, he would be naturally chosen to direct in turn the finances of the nation, its Foreign Affairs, its Navy, its immense Police [[Machine|machine]], public and secret, and perhaps its Museums, or even the [[London]] Parks. For it is a presumption in our constitution, and a wise one, that the talents sufficing for a Cabinet Minister in one Department will suffice for him in any other and a statesman must shift around.
+Wilfrid Halterton had managed all this for now over half a year, and there had been no hitch. It should have given him a better opinion of himself. Besides which, he should have remembered that a man is not given powers of this exalted kind unless he be also competent to deal with many other activities. Having shown his capacity for handling this huge, intricate business of the Post Office, he would be naturally chosen to direct in turn the finances of the nation, its Foreign Affairs, its Navy, its immense Police [[motifs/machine|machine]], public and secret, and perhaps its Museums, or even the [[settings/london|London]] Parks. For it is a presumption in our constitution, and a wise one, that the talents sufficing for a Cabinet Minister in one Department will suffice for him in any other and a statesman must shift around.
 
 Wilfrid Halterton should, I say, therefore have been less modest in the first months of high office. None the less, his original mood remained with him, and he was glad to think that his first considerable political success, this negotiation of his with James McAuley, would enable him to re-enter private life. He was content to leave to others the glory of public fame, and to take in its place a largely increased income.
 
@@ -3033,7 +3033,7 @@ Quando Wilfrid Halterton si sedette di nuovo da solo davanti al suo riscaldatore
 
 La sua posizione negli accordi appena conclusi non era che una delle tante simili. L’accordo riguardante il suo futuro stipendio era di tipo molto comune, qualcosa che ormai ci aspettiamo in ambito politico. Ma era la prima volta che ne concludeva uno in tutti gli anni trascorsi al Parlamento, e per questo ne fu particolarmente colpito. Era sempre stato un uomo troppo timido, in una professione in cui la timidezza a volte è fatale e rappresenta sempre un ostacolo. Alcune donne (e uomini) avevano incolpato la signora Boulger per avergli concesso una posizione così importante nel Gabinetto. Ma sappiamo che, se un uomo raggiunge tale livello, è sicuramente perché possiede grandi capacità, qualcosa che anche i suoi colleghi più illustri hanno riconosciuto. Tali capacità lui stesso le aveva ampiamente dimostrate durante il suo incarico. Ora da oltre sei mesi era alla guida di un vasto apparato amministrativo: ogni giorno gestiva 264.748.942 lettere, 968.477.321 cartoline, 7.263.402 telegrammi, nonché francobolli di tutte le denominazioni per un valore complessivo di 6.923.410 sterline e 6 scellini e 3 pence: una somma superiore al reddito annuo intero del Guatemala. Allo stesso tempo si occupava anche della consegna di pacchi e dell’emissione di licenze per stemmi araldici, cani e servitori maschi.
 
-Wilfrid Halterton aveva gestito tutto ciò per oltre sei mesi senza alcun intoppo. Questo avrebbe dovuto fargli acquisire una maggiore stima di sé stesso. Inoltre, avrebbe dovuto ricordare che a un uomo non vengono conferiti poteri di tale rilievo se non è anche in grado di gestire molte altre attività. Dopo aver dimostrato la propria capacità nel gestire questa vasta e complessa organizzazione come l’Ufficio Postale, sarebbe stato naturalmente scelto per sovrintendere anche alle finanze del paese, agli Affari Esteri, alla Marina, all’enorme “macchina” della polizia, sia pubblica che segreta, e forse anche ai musei o persino ai parchi di [[London|Londra]]. Infatti, nella nostra costituzione c’è la presunzione – e una presunzione saggia – che i talenti sufficienti per ricoprire una carica ministeriale in un settore siano sufficienti anche per qualsiasi altro; quindi, un statista deve essere in grado di adattarsi a diversi compiti.
+Wilfrid Halterton aveva gestito tutto ciò per oltre sei mesi senza alcun intoppo. Questo avrebbe dovuto fargli acquisire una maggiore stima di sé stesso. Inoltre, avrebbe dovuto ricordare che a un uomo non vengono conferiti poteri di tale rilievo se non è anche in grado di gestire molte altre attività. Dopo aver dimostrato la propria capacità nel gestire questa vasta e complessa organizzazione come l’Ufficio Postale, sarebbe stato naturalmente scelto per sovrintendere anche alle finanze del paese, agli Affari Esteri, alla Marina, all’enorme “macchina” della polizia, sia pubblica che segreta, e forse anche ai musei o persino ai parchi di [[settings/london|Londra]]. Infatti, nella nostra costituzione c’è la presunzione – e una presunzione saggia – che i talenti sufficienti per ricoprire una carica ministeriale in un settore siano sufficienti anche per qualsiasi altro; quindi, un statista deve essere in grado di adattarsi a diversi compiti.
 
 Dico quindi che Wilfrid Halterton avrebbe dovuto essere meno modesto nei primi mesi del suo alto incarico. Tuttavia, il suo atteggiamento originale rimase immutato, e fu felice di pensare che il suo primo grande successo politico, questa negoziazione con James McAuley, gli avrebbe permesso di tornare alla vita privata. Era soddisfatto di lasciare ad altri la gloria della fama pubblica, in cambio di un reddito notevolmente aumentato.
 
@@ -3171,7 +3171,7 @@ Once more did the sorely harassed Wilfrid Halterton challenge the gods — once 
 
 Lo fece in soltanto poche righe.
 
-# Mio caro J.
+Mio caro J.
 
 È successo qualcosa di straordinario: quella tua lettera è scomparsa. Senza dubbio verrà ritrovata, ma poiché potrebbe accadere tra molto tempo o forse mai, l’unica cosa da fare è che tu mi scriva un’altra lettera. Ricorderai sicuramente le condizioni stabilite. Non so quando la riceverai, ma la tua segretaria mi ha detto che tornerai stasera, e sono certo che mi manderai un messaggio domani mattina presto – se possibile, di persona. Sarò a casa fino alle dieci.
 
@@ -3226,7 +3226,7 @@ There are situations which act marvellously as a spur to the intelligence, and W
 
 “Hullo, I thought you were dining with McAuley?”
 
-And so on; with such phrases he traced McAuley to his lair. He heard at last that the financier was dining with the Balcombes. At that time of night which Victor Hugo so finely calls the desert hour when lions gather to drink, that is, at a quarter to nine, when the lions lift the first cup of champagne to their lips in the houses of our great [[Democracy|democracy]], Wilfrid Halterton caused J. to be summoned to the telephone: he used a ruse: he summoned J. in the name of his secretary— “Say Miss Fairweather wants him — urgently.” James McAuley, who had but just sat down and exchanged his first words with his hostess, Lady Caroline, in the very ugly grand new house of the Balcombes in Hill Street, cursed under his breath, left the dinner, went out and sat down to the telephone in Balcombe’s private room; with the thick door carefully shut. He lifted the receiver and said, rather testily:
+And so on; with such phrases he traced McAuley to his lair. He heard at last that the financier was dining with the Balcombes. At that time of night which Victor Hugo so finely calls the desert hour when lions gather to drink, that is, at a quarter to nine, when the lions lift the first cup of champagne to their lips in the houses of our great [[concepts/democracy|democracy]], Wilfrid Halterton caused J. to be summoned to the telephone: he used a ruse: he summoned J. in the name of his secretary— “Say Miss Fairweather wants him — urgently.” James McAuley, who had but just sat down and exchanged his first words with his hostess, Lady Caroline, in the very ugly grand new house of the Balcombes in Hill Street, cursed under his breath, left the dinner, went out and sat down to the telephone in Balcombe’s private room; with the thick door carefully shut. He lifted the receiver and said, rather testily:
 
 “Well, Miss Fairweather?”
 
@@ -3277,11 +3277,11 @@ Ci sono situazioni che agiscono meravigliosamente come stimolo per l’intellige
 
 “Chi cena da Mary stasera?”
 
-# “Sai se stasera Johnny è da Angela?”
+“Sai se stasera Johnny è da Angela?”
 
 “Ehi, pensavo stessi cenando con McAuley…”
 
-E così via; con frasi del genere riuscì a localizzare McAuley nel suo nascondiglio. Alla fine seppe che il finanziere stava cenando con i Balcombe. In quell’ora di notte, che Victor Hugo definisce “l’ora desolata” in cui i leoni si radunano per bere, cioè alle nove meno un quarto, quando nei palazzi della nostra grande [[Democracy|democrazia]] i leoni sollevano la prima coppa di champagne alle labbra. Wilfrid Halterton fece chiamare J. al telefono: usò un trucco; lo chiamò in nome della sua segretaria: “Dica che Miss Fairweather lo vuole, urgentemente”. James McAuley, che aveva appena iniziato a parlare con la padrona di casa, Lady Caroline, nella brutta e grandiosa nuova residenza dei Balcombe in Hill Street, imprecò sottovoce, lasciò la cena, uscì e andò a rispondere al telefono nella stanza privata di Balcombe, chiudendo bene la porta. Sollevò il ricevitore e disse, con tono piuttosto irritato:
+E così via; con frasi del genere riuscì a localizzare McAuley nel suo nascondiglio. Alla fine seppe che il finanziere stava cenando con i Balcombe. In quell’ora di notte, che Victor Hugo definisce “l’ora desolata” in cui i leoni si radunano per bere, cioè alle nove meno un quarto, quando nei palazzi della nostra grande [[concepts/democracy|democrazia]] i leoni sollevano la prima coppa di champagne alle labbra. Wilfrid Halterton fece chiamare J. al telefono: usò un trucco; lo chiamò in nome della sua segretaria: “Dica che Miss Fairweather lo vuole, urgentemente”. James McAuley, che aveva appena iniziato a parlare con la padrona di casa, Lady Caroline, nella brutta e grandiosa nuova residenza dei Balcombe in Hill Street, imprecò sottovoce, lasciò la cena, uscì e andò a rispondere al telefono nella stanza privata di Balcombe, chiudendo bene la porta. Sollevò il ricevitore e disse, con tono piuttosto irritato:
 
 “Beh, signorina Fairweather…”
 
@@ -3295,7 +3295,7 @@ Ma non fu la voce di Miss Rose Fairweather quella che sentì in risposta. Fu la 
 
 “Sì, riesco a sentire… E allora? Cosa volete?”
 
-#Hai ricevuto la mia lettera?
+Hai ricevuto la mia lettera?
 
 “Sì, ho ricevuto la tua lettera. Ma non l’ho capita. Penso che sia meglio se me la spieghi di persona quando ci incontriamo.”
 
@@ -3307,7 +3307,7 @@ Ci fu una pausa, e Wilfrid Halterton all’altro capo del filo si chiese perché
 
 E il filo smise di funzionare.
 
-# III
+III
 
 Nel sobborgo di Streatham c’è una fila di villette semi-indipendenti conosciute (non so per quale motivo) come Eliza Grove. Tra queste villette, una – ufficialmente denominata “Numero 5”, ma sui cartelli bianchi su sfondo verde all’ingresso principale chiamata “Myrtle View” – è la cara dimora di un piccolo costruttore edile di nome Nicholas Clarke. Poiché non ha alcun legame con questa storia e, nonostante i suoi sforzi, non gli sarà permesso comparire nuovamente in queste pagine, possiamo lasciarlo qui. L’altra villetta, anch’essa parte integrante di questo complesso residenziale – il “Numero 7” con la sua porta verde – non ha un nome specifico: il suo proprietario, infatti, si è reso conto che assegnare nomi alle piccole case dei sobborghi non è una pratica comune. Per gli dèi e per gli uomini, è semplicemente “Numero 7”.
 
@@ -3412,7 +3412,7 @@ There had been ups and downs, though he had told her frankly of certain misjudge
 
 In these few moments of concentration during which he interrupted that conversation with his wife, which he was very careful to maintain, Jack Williams had captured with his bright sharp eyes one point after another in the financial news before him. He had seen that the Indian Loan was steady, he had been a little annoyed at the head-lines on the Third Central Bank; there had been a half-smile on his face for half a second at an absurd puff of the New Guaranty Loan, which he had heavily sold forward upon good official knowledge, shared by not more than half-a-dozen other men. Then his expression changed again and became arrested and almost excited. His wife noticed the expression, but she could not tell what caused it.
 
-What had caused it had been something very small but very significant. It was a line in the middle of the industrial shares, the line concerning Billies on the New York Exchange after [[London]] had closed the evening before. That line said simply:
+What had caused it had been something very small but very significant. It was a line in the middle of the industrial shares, the line concerning Billies on the New York Exchange after [[settings/london|London]] had closed the evening before. That line said simply:
 
 “Durr. Imp. Tel. Ord. 29s. 6d. — 31s. 6d.”
 
@@ -3526,7 +3526,7 @@ First, McAuley and his crowd, the Durrant crowd, might have had an assurance; th
 
 That was one possibility. The second possibility was that James Haggismuir McAuley, having got his assurance solidly in writing, had deliberately released the knowledge of it indirectly, having already bought at the lowest during the little slump of yesterday, Wednesday morning, and desiring to catch a profit in passing before the big business began.
 
-The third possibility was that there was no assurance at all, and that James, in a laudable effort to catch the same quick profit, had let it be thought that he had an assurance, though he had it not. In that case the shares would slump badly sooner or later, and must be watched. For the moment they were bound to be blazing, because all [[London]] would be reading the quotation from New York in the paper this morning.
+The third possibility was that there was no assurance at all, and that James, in a laudable effort to catch the same quick profit, had let it be thought that he had an assurance, though he had it not. In that case the shares would slump badly sooner or later, and must be watched. For the moment they were bound to be blazing, because all [[settings/london|London]] would be reading the quotation from New York in the paper this morning.
 
 The fourth possibility was that someone in New York had lied brazenly for his own purposes, and that there was as yet no assurance given to Durrant’s at all, or, if there was, no leakage of the assurance voluntary or involuntary, no funny business on this side at any rate.
 
@@ -3567,7 +3567,7 @@ Innanzitutto, McAuley e il suo gruppo, il gruppo di Durrant, avrebbero potuto di
 
 Quella era una possibilità. La seconda possibilità era che James Haggismuir McAuley, avendo ottenuto l’assicurazione per iscritto, avesse deliberatamente divulgato quella informazione in modo indiretto: aveva già acquistato al prezzo più basso durante il piccolo calo di ieri, mercoledì mattina, e desiderava trarne un profitto prima che iniziasse la vera e propria fase degli affari.
 
-La terza possibilità era che non ci fosse alcuna garanzia, e che James, nel tentativo encomiabile di ottenere lo stesso rapido profitto, avesse fatto credere di disporre di una garanzia, quando in realtà non ne aveva. In quel caso, le azioni sarebbero sicuramente crollate prima o poi, e quindi bisognava tenerle d’occhio. Per il momento, il loro valore era destinato ad aumentare drasticamente, perché tutta [[London|Londra]] avrebbe letto questa mattina la quotazione proveniente da New York sui giornali.
+La terza possibilità era che non ci fosse alcuna garanzia, e che James, nel tentativo encomiabile di ottenere lo stesso rapido profitto, avesse fatto credere di disporre di una garanzia, quando in realtà non ne aveva. In quel caso, le azioni sarebbero sicuramente crollate prima o poi, e quindi bisognava tenerle d’occhio. Per il momento, il loro valore era destinato ad aumentare drasticamente, perché tutta [[settings/london|Londra]] avrebbe letto questa mattina la quotazione proveniente da New York sui giornali.
 
 La quarta possibilità era che qualcuno a New York avesse mentito spudoratamente per i propri scopi, e che fino ad allora non fosse stata data alcuna garanzia a Durrant; oppure, anche se ne fossero state date, nessuna informazione fosse trapelata, sia intenzionalmente che no, quindi in questo senso non c’era nulla di sospetto.
 
@@ -3681,7 +3681,7 @@ Lo trovò seduto comodamente da solo al suo tavolo da colazione. J. non si prese
 
 Il Capo Postale si alzò improvvisamente e si diresse verso la porta con passi molto più rapidi del solito. La aprì, guardò fuori per assicurarsi che non ci fosse nessuno nei paraggi, la richiuse, tornò indietro e disse:
 
-#"Guarda qui, nemmeno io capisco... Devo assolutamente avere una copia di quella lettera."
+"Guarda qui, nemmeno io capisco... Devo assolutamente avere una copia di quella lettera."
 
 “James McAuley posò una mano stretta sul tavolo, ai lati del suo piatto, e gridò…”
 
@@ -4212,7 +4212,7 @@ Yes, Lady Papworthy was Lord Papworthy’s wife; this affirmation (for which I m
 
 Then again, everybody knew who Lord Papworthy was. He was old Papworthy, to be sure, the man who had pottered about with pictures ever since he could potter, and he had begun to potter fifty years ago, before he had come of age. But no one really knew who Lady Papworthy was. And, what was really surprising, nobody cared. They were married. That I know on the word — and, much better, by the attitude — of Harry O’More, his young cousin and heir, who rather foolishly trembled lest another heir should be born. But beyond that I myself know nothing of her — and I don’t care to know more than do others.
 
-There are three men about [[London]], all three bachelors, all three well-to-do, and each witty and vital in his own way, who may be trusted to tell you all there is to know about anyone, however dark; but of Lady Papworthy they told three different stories.
+There are three men about [[settings/london|London]], all three bachelors, all three well-to-do, and each witty and vital in his own way, who may be trusted to tell you all there is to know about anyone, however dark; but of Lady Papworthy they told three different stories.
 
 Limpey said she was a waitress who had caught old Papworthy when he went over to the World Art Conference, when it had been held at Toronto as the most suitable centre for the Art of the whole world to meet in, rather more than two years before.
 
@@ -4285,7 +4285,7 @@ Sì, Lady Papworthy era la moglie di Lord Papworthy; questa affermazione (per la
 
 D'altra parte, tutti sapevano chi fosse Lord Papworthy. Era il vecchio Papworthy, senza dubbio: l’uomo che aveva sempre occupato il suo tempo a lavorare con le immagini fin da quando ne era stato in grado, e aveva iniziato a farlo cinquant’anni prima, ancora prima di raggiungere la maggiore età. Ma nessuno sapeva davvero chi fosse Lady Papworthy. E, cosa sorprendente, a nessuno importava. Erano sposati. Lo so per certo, e anche meglio ancora lo si può dedurre dall’atteggiamento di Harry O’More, suo giovane cugino ed erede: lui, infatti, temeva stupidamente che potesse nascere un altro erede. Ma oltre a questo, io stesso non so nulla di lei. E non ho alcun desiderio di saperne di più rispetto agli altri.
 
-Ci sono tre uomini a [[London|Londra]], tutti e tre scapoli, tutti e tre benestanti, e ognuno di loro arguto e vivace a modo suo; si può fidare di loro per sapere tutto su chiunque, per quanto oscuro possa essere il caso. Ma riguardo a Lady Papworthy, raccontarono tre storie diverse.
+Ci sono tre uomini a [[settings/london|Londra]], tutti e tre scapoli, tutti e tre benestanti, e ognuno di loro arguto e vivace a modo suo; si può fidare di loro per sapere tutto su chiunque, per quanto oscuro possa essere il caso. Ma riguardo a Lady Papworthy, raccontarono tre storie diverse.
 
 Limpey disse di essere una cameriera che aveva incontrato il vecchio Papworthy quando questi era andato alla Conferenza Mondiale d’Arte, tenutasi a Toronto più di due anni prima, poiché considerata il luogo più adatto per l’incontro di artisti da tutto il mondo.
 
@@ -4302,7 +4302,7 @@ Officially she was his secretary whom he had married, but she could not have bee
 
 She was thoroughly up in things, especially in things literary, so long as they were modern, though she made no profession of knowledge to any language but her own — which by the way was English, spoken without any accent save what those who were perhaps her compatriots could call the “English” accent; and her voice when speaking it was low, restrained and sonorous.
 
-Her husband called her Joan: so did the greater part of the coterie, a large one, which she ruled almost from the moment that she came to [[London]]. For as you may imagine, with such antecedents, or rather, lack of them, she was exactly suited to play her part in the position to which it had pleased herself to call her.
+Her husband called her Joan: so did the greater part of the coterie, a large one, which she ruled almost from the moment that she came to [[settings/london|London]]. For as you may imagine, with such antecedents, or rather, lack of them, she was exactly suited to play her part in the position to which it had pleased herself to call her.
 
 She did not give big dinners; she did not often give small ones, for that matter. Papworthy had to entertain, on account of his position, but he rarely entertained at his own house except at lunch. Joan Papworthy gave it to be understood that her health forbade her staying up late. She hardly ever went out in the evening herself, and the eccentricity added to her position.
 
@@ -4314,7 +4314,7 @@ When I say that he was Minister for Fine Arts in Mrs. Boulger’s second adminis
 
 His complete mastery of the subject was best proved by his equal admiration for all modern painters whatsoever; and his almost equal admiration for all those of the past who were for the moment in the fashion. He had inherited pictures, he had bought pictures, pictures of every sort and kind, pictures that told stories and pictures that merely lied, pictures which were only patterns and pictures which were not even that. It was his delight to stand in front of these pictures, the more recent ones especially, with his head slightly on one side, making movements with his thumb in the air to illustrate his delight in their lines, their values, their planes, their purpose, their colour, their Ubesmachtheit.
 
-Among Lady Papworthy’s more intimate dozen or so was a certain young man who combined an uncertain literary position in [[London]] with a small political one. Butler was his name, but not his nature; for he was tall, thin, black haired, with an unkempt romantic lock falling over his forehead, dreamy, gazing from large, dark, very deep eyes, not without fire in them; he stooped, he occasionally stammered: he sometimes exploded with indignation at this or that; as often he would remain silent when another had spoken to him, not from discourtesy but from abstraction. He would also sometimes interrupt the conversation of others, for he was full of zeal. Though his political position was a minor one, and certain to remain so (for his few friends could securely prophesy that he would never have office of any kind), and though he himself clearly never took any steps towards a career in the House, all that was of his own choice. He felt safe to remain a Member of Parliament as long as he liked — and he always swore that he hated it; his safety lay in his enormous popularity with his constituents in an artisan quarter of a northern industrial town.
+Among Lady Papworthy’s more intimate dozen or so was a certain young man who combined an uncertain literary position in [[settings/london|London]] with a small political one. Butler was his name, but not his nature; for he was tall, thin, black haired, with an unkempt romantic lock falling over his forehead, dreamy, gazing from large, dark, very deep eyes, not without fire in them; he stooped, he occasionally stammered: he sometimes exploded with indignation at this or that; as often he would remain silent when another had spoken to him, not from discourtesy but from abstraction. He would also sometimes interrupt the conversation of others, for he was full of zeal. Though his political position was a minor one, and certain to remain so (for his few friends could securely prophesy that he would never have office of any kind), and though he himself clearly never took any steps towards a career in the House, all that was of his own choice. He felt safe to remain a Member of Parliament as long as he liked — and he always swore that he hated it; his safety lay in his enormous popularity with his constituents in an artisan quarter of a northern industrial town.
 
 When he emphasized with fervour his devotion to the Anarchist ideal they believed him, and they did right to believe him. They felt certain in their simplicity that they were right to disbelieve the mass of the politicians about him. To him they would never apply what working men now say of pretty well all other politicians: that there is no difference between this party and that — Anarchist or Socialist — it’s all one — they’re all on the make.
 
@@ -4327,7 +4327,7 @@ Ufficialmente lei era la sua segretaria, con cui si era sposato, ma non poteva e
 
 Era davvero molto versata in molte cose, soprattutto in quelle letterarie, purché fossero moderne. Tuttavia, non si vantava di conoscere alcuna lingua diversa dalla sua propria, che era l'inglese, parlato senza alcun accento, tranne quello che forse i suoi connazionali avrebbero potuto definire “accento inglese”. La sua voce, quando lo parlava, era bassa, controllata e sonora.
 
-Suo marito la chiamava Joan; lo faceva anche la maggior parte del suo circolo, un gruppo piuttosto numeroso che lei dominava quasi fin dal momento del suo arrivo a [[London|Londra]]. Come potete immaginare, data quella sua origine, o meglio, l’assenza di qualsiasi origine riconosciuta, lei era perfettamente adatta al ruolo che aveva scelto per sé.
+Suo marito la chiamava Joan; lo faceva anche la maggior parte del suo circolo, un gruppo piuttosto numeroso che lei dominava quasi fin dal momento del suo arrivo a [[settings/london|Londra]]. Come potete immaginare, data quella sua origine, o meglio, l’assenza di qualsiasi origine riconosciuta, lei era perfettamente adatta al ruolo che aveva scelto per sé.
 
 Non organizzava grandi cene; in realtà, nemmeno piccole cene spesso. A causa della sua posizione, Papworthy doveva intrattenere gli ospiti, ma raramente lo faceva a casa sua, tranne a pranzo. Joan Papworthy lasciava intendere che la sua salute le impedisse di stare sveglia fino a tardi. Raramente usciva di sera, e questa eccentricità contribuiva ulteriormente alla sua immagine.
 
@@ -4339,7 +4339,7 @@ Quando dico che è stato Ministro delle Belle Arti nel secondo governo della sig
 
 La sua completa padronanza dell'argomento si dimostrava meglio nel suo ugual apprezzamento per tutti i pittori moderni, senza distinzioni; e nell'apprezzamento quasi altrettanto grande per quelli del passato che, in quel momento, erano di moda. Aveva ereditato quadri, ne aveva comprati molti, di ogni tipo: quadri che raccontavano storie, quadri che semplicemente “mentivano”, quadri che rappresentavano soltanto modelli, e anche quadri che non erano nemmeno questo. Gli piaceva molto stare davanti a questi quadri, soprattutto quelli più recenti: inclinava leggermente la testa da un lato e muoveva il pollice nell’aria per esprimere la sua ammirazione per le loro linee, i loro valori cromatici, le loro strutture, il loro significato complessivo e i loro colori.
 
-Tra i dodici o più amici intimi di Lady Papworthy c'era un certo giovane che combinava una posizione letteraria poco certa a [[London|Londra]] con una piccola influenza politica. Il suo nome era Butler, ma questo non rifletteva affatto la sua vera natura: era alto, magro, con i capelli neri e una ciocca romantica che gli cadeva sulla fronte; aveva lo sguardo sognante e fissava il mondo con occhi grandi, scuri e profondi, nei quali si poteva percepire un certo fuoco interno. A volte balbettava, altre volte esplodeva in indignazione per qualche motivo; spesso, invece, rimaneva in silenzio quando gli veniva rivolta la parola, non per mancanza di cortesia, ma perché era assorto nei suoi pensieri. Talvolta interrompeva anche le conversazioni altrui, poiché era pieno di entusiasmo. Anche se la sua posizione politica era secondaria e probabilmente lo sarebbe rimasta per sempre (poiché i suoi pochi amici erano certi che non avrebbe mai ricoperto alcuna carica ufficiale), e anche se lui stesso non prendeva mai iniziative per intraprendere una carriera politica, questo era frutto della sua scelta personale. Si sentiva tranquillo nell’essere un membro del Parlamento finché voleva, e giurava sempre di odiare quel ruolo; la sua “sicurezza” derivava dalla enorme popolarità che godeva tra i suoi elettori, in un quartiere artigianale di una città industriale del nord.
+Tra i dodici o più amici intimi di Lady Papworthy c'era un certo giovane che combinava una posizione letteraria poco certa a [[settings/london|Londra]] con una piccola influenza politica. Il suo nome era Butler, ma questo non rifletteva affatto la sua vera natura: era alto, magro, con i capelli neri e una ciocca romantica che gli cadeva sulla fronte; aveva lo sguardo sognante e fissava il mondo con occhi grandi, scuri e profondi, nei quali si poteva percepire un certo fuoco interno. A volte balbettava, altre volte esplodeva in indignazione per qualche motivo; spesso, invece, rimaneva in silenzio quando gli veniva rivolta la parola, non per mancanza di cortesia, ma perché era assorto nei suoi pensieri. Talvolta interrompeva anche le conversazioni altrui, poiché era pieno di entusiasmo. Anche se la sua posizione politica era secondaria e probabilmente lo sarebbe rimasta per sempre (poiché i suoi pochi amici erano certi che non avrebbe mai ricoperto alcuna carica ufficiale), e anche se lui stesso non prendeva mai iniziative per intraprendere una carriera politica, questo era frutto della sua scelta personale. Si sentiva tranquillo nell’essere un membro del Parlamento finché voleva, e giurava sempre di odiare quel ruolo; la sua “sicurezza” derivava dalla enorme popolarità che godeva tra i suoi elettori, in un quartiere artigianale di una città industriale del nord.
 
 Quando esprimeva con fervore la sua devozione all’ideale anarchico, gli credevano, e avevano ragione a credergli. Con la loro semplicità, erano certi di avere ragione nel non credere alle parole della maggior parte dei politici su di lui. A lui non avrebbero mai applicato ciò che oggi i lavoratori dicono di quasi tutti gli altri politici: che non c’è differenza tra questo o quel partito – anarchico o socialista – è tutto lo stesso; sono tutti alla ricerca del potere.
 
@@ -4360,7 +4360,7 @@ Yet, if ever a hunter of mares’-nests seemed earnest for the purity of public 
 
 It was inept, but it had a tinsel of romance about it, and Joan Papworthy was devoted to him. Of all the literary crowd which she sampled week by week and sometimes for two or three days following, in her drawing-room, Reginald Butler was the one she seemed to have known the longest. She already felt as though she had known him all her life. And he for his part certainly wished to know her all his life.
 
-His verse, she had been told by some, was exceptional. She tried to read it, so as to be able to quote bits of it to him, but she got the words wrong. He forgave her — but her only — for such slips. His political excitements she was the only hostess in [[London]] of standing to sympathize with — for women are less tolerant of folly than men — and he was grateful for that sympathy. He found in her the one soul who understood his abortive indignations. All through the Crude Oil affair when, for once, he really did feel himself isolated, she stuck to him: and what is more, she spurred him on. Then, after the Committee had reported and the two men whom he had most vigorously attacked had been given, the one a first-class Embassy and the other the Exchequer, she consoled him during the grey days when he was creeping back to his half-tolerated position.
+His verse, she had been told by some, was exceptional. She tried to read it, so as to be able to quote bits of it to him, but she got the words wrong. He forgave her — but her only — for such slips. His political excitements she was the only hostess in [[settings/london|London]] of standing to sympathize with — for women are less tolerant of folly than men — and he was grateful for that sympathy. He found in her the one soul who understood his abortive indignations. All through the Crude Oil affair when, for once, he really did feel himself isolated, she stuck to him: and what is more, she spurred him on. Then, after the Committee had reported and the two men whom he had most vigorously attacked had been given, the one a first-class Embassy and the other the Exchequer, she consoled him during the grey days when he was creeping back to his half-tolerated position.
 
 There is a common error here which I take this opportunity to correct. The “Scandal,” as fools call it, should not be “The Crude Oil-Affair” but “The Crude-Oil affair.” Carltonhurst, who got out of them at 118, asks me to put in this note.
 
@@ -4397,7 +4397,7 @@ Eppure, se mai esistette qualcuno che desiderasse sinceramente la purezza della 
 
 Era inadeguato, ma c'era un pizzico di romanticismo in tutto ciò; inoltre, Joan Papworthy era devota a lui. Tra tutta la gente letteraria che incontrava settimana dopo settimana, e a volte anche per due o tre giorni consecutivi nel suo salotto, Reginald Butler sembrava essere la persona che conoscesse da più tempo. Lei già aveva l'impressione di averlo conosciuto tutta la vita; e lui, dal canto suo, desiderava certamente conoscerla per tutta la vita.
 
-A quanto le avevano detto alcuni, i suoi versi erano eccezionali. Provò a leggerli per potergli citare alcune parti, ma sbagliava le parole. Lui la perdonava, ma solo per errori del genere. Le sue passioni politiche erano l’unica cosa in cui lei, tra tutte le donne di [[London|Londra]], era disposta a comprenderlo: le donne, infatti, sono meno tolleranti verso le follie degli uomini. E lui ne era grato per quella comprensione. In lei trovava l’unica persona che riuscisse a comprendere le sue indignazioni inutili. Durante tutta la vicenda del petrolio greggio, quando per una volta si sentì davvero isolato, lei rimase al suo fianco, e anzi lo incoraggiò ancora di più. Poi, dopo che il comitato presentò i suoi risultati e quei due uomini contro cui aveva attaccato con tanta fermezza ottennero rispettivamente un incarico all’Ambasciata e una posizione nel Ministero delle Finanze, lei lo consolò nei giorni tristi in cui iniziava lentamente a tornare alla sua posizione, seppur tollerata.
+A quanto le avevano detto alcuni, i suoi versi erano eccezionali. Provò a leggerli per potergli citare alcune parti, ma sbagliava le parole. Lui la perdonava, ma solo per errori del genere. Le sue passioni politiche erano l’unica cosa in cui lei, tra tutte le donne di [[settings/london|Londra]], era disposta a comprenderlo: le donne, infatti, sono meno tolleranti verso le follie degli uomini. E lui ne era grato per quella comprensione. In lei trovava l’unica persona che riuscisse a comprendere le sue indignazioni inutili. Durante tutta la vicenda del petrolio greggio, quando per una volta si sentì davvero isolato, lei rimase al suo fianco, e anzi lo incoraggiò ancora di più. Poi, dopo che il comitato presentò i suoi risultati e quei due uomini contro cui aveva attaccato con tanta fermezza ottennero rispettivamente un incarico all’Ambasciata e una posizione nel Ministero delle Finanze, lei lo consolò nei giorni tristi in cui iniziava lentamente a tornare alla sua posizione, seppur tollerata.
 
 C'è un errore comune qui che approfitto dell’occasione per correggere: quel “Scandalo”, come lo chiamano gli sciocchi, non dovrebbe essere “The Crude Oil-Affair” ma “The Crude-Oil affair”. Carltonhurst, che ne è uscito al punto 118, mi ha chiesto di inserire questa nota.
 
@@ -4477,7 +4477,7 @@ Quando arrivò il momento che Lord Mandon cambiasse posizione e consegnasse di n
 
 Sembrava necessario, in questo momento critico, che Lord Papworthy riconsiderasse nuovamente i suoi principi e rimanesse in carica tornando a essere socialista. Dopotutto, solo quattro anni prima apparteneva a questa corrente politica, e per lui sarebbe stato facile riprendere in mano i fili dei propri ideali socialisti.
 
-# Lord Papworthy, un altro ritratto dai “Grandi Inglesi del Nostro Tempo”
+Lord Papworthy, un altro ritratto dai “Grandi Inglesi del Nostro Tempo”
 
 Ma ormai era evidente che, con ogni nuovo cambio di governo, finché Lord Papworthy fosse sopravvissuto – e quel vecchio uomo rosso in viso era davvero un individuo sano e robusto – sarebbe stato necessario trovare un modo per assicurargli un posto stabile e permanente al Ministero delle Belle Arti.
 
@@ -4795,7 +4795,7 @@ That, I may further inform any one of my readers who may be considering entering
 
 “Sì, signore, è appena uscito un minuto fa.”
 
-#Cercava qualcuno?
+Cercava qualcuno?
 
 “Per quel che ne so, signore”, rispose il portiere a McAuley; poi disse al paggio:
 
@@ -4817,7 +4817,7 @@ Era comunque Halterton ad avere quelle lettere! Proprio come previsto. Chi altro
 
 Beh, non c’era più nulla da fare. Se fosse rimasto lì, avrebbero notato la sua presenza ancora di più di quanto già fosse successo. Doveva andarsene. Scese le scale, disse qualche parola al portiere uscendo, prese un taxi e tornò a casa, per restare sveglio per ore.
 
-# VII
+VII
 
 Onest Jack Williams era costretto, in quanto democratico professionista e chiaramente etichettato come “membro di un sindacato”, a viaggiare sempre in terza classe. Per lo stesso motivo doveva vivere in una piccola casa, cosa che gli piaceva, e con soltanto una domestica, il che non gli dispiaceva affatto. Quello che era davvero difficile per lui era non potersi permettere un’auto grande e comoda, anzi, nessuna auto del tutto. D’altra parte, gli era permesso frequentare i ricchi, i quali apprezzavano le sue partite a biliardo, le sue storie divertenti o i suoi consigli finanziari, anche se aveva la reputazione di essere piuttosto spietato con alcuni di loro. Poteva bere tutto lo champagne che voleva, ovunque desiderasse, purché non fosse nella sua casa; e quanto alla sua reputazione – ormai diffusa – di aver accumulato una somma di denaro misteriosa, questa lo rendeva ancora più rispettato dai suoi compagni di sindacato. Questi non si definivano anarchici o socialisti, ma semplicemente “Amalgamated Transformers”, con uno stipendio minimo di 83 penny a settimana per quarantotto ore di lavoro. Ma insomma, la terza classe era davvero l’unica opzione disponibile per lui.
 
@@ -4895,7 +4895,7 @@ Onesto Jack Williams gestisce con maestria l’accordo televisivo.
 
 Aveva già detto molto chiaramente al Capo Postale che per lui non c’era più modo di tornare indietro, Wilfrid Halterton. Che avesse o meno la promessa in tasca. Quell’appoggio c’era davvero, e il sorriso di Jack Williams era ampio e cordiale mentre leggeva quelle parole scritte a penna dalla mano inconfondibile di Halterton.
 
-# La lettera di James McAuley. Ricevuta il 3 marzo 1960. W.H.
+La lettera di James McAuley. Ricevuta il 3 marzo 1960. W.H.
 
 La questione era già stata inserita nell’ordine del giorno; anche se il Capo Postale avesse voluto intervenire ora, non oserebbe farlo, finché pensasse che McAuley avesse ancora quella lettera in suo possesso.
 
@@ -4973,7 +4973,7 @@ Ma c'era ancora una cosa che il Segretario dell’Interno doveva fare prima di d
 
 Jack Williams oscurò la stanza e prese dal mobile due telai di medie dimensioni per stampare le fotografie. Inserì della carta fotografica in ciascuno di essi, posizionò con cura su ciascuna una delle carte originali, con il lato scritto rivolto verso il basso, chiuse i telai e li fissò accuratamente. Per un tempo ben calcolato, tenendo il cronometro in mano, espose le carte a una luce intensa che aveva a disposizione; una volta spenta la luce, non restò altro da fare se non incollare le stampe ottenute. Ora disponeva di copie permanenti del manoscritto, della firma di Halterton e della nota olografica di McAuley. Lavò e fissò le stampe, le asciugò con uno dei nuovi essiccatori rapidi, le mise in una busta e il suo lavoro era terminato. Inserì le due stampe insieme alla trascrizione di Gunter nella stessa busta, ripose l’attrezzatura nel mobile e lo chiuse a chiave. Poi andò in ufficio, sentendosi un uomo sereno e soddisfatto.
 
-# VIII
+VIII
 
 Nell’appartamento di Clarence del Capo Postale Generale, situato a nord del Parco, e nell’appartamento di McAuley vicino all’Arco di Marmo, a meno di un miglio di distanza. In ogni appartamento c’era un uomo confuso, arrabbiato e deluso, deciso a recuperare le proprie proprietà. Ognuno di loro rimase sveglio per gran parte di quella notte di giovedì. Ognuno, con capacità molto diverse, arrivò alla stessa conclusione: doveva osservare con estrema cautela e discrezione i movimenti dell’altro, senza farsi notare, per cogliere l’occasione giusta e recuperare quel documento che, per ciascuno di loro, rappresentava una questione di vita o di morte.
 
@@ -5004,7 +5004,7 @@ Financier keeping a cautious eye on a statesman.
 
 The Postmaster-General with unaccustomed rapidity of decision popped down the steps of an open area until his eyes were just on a level with the pavement as he stood tiptoe on the steps, craning his head backward and playing the observant submarine over the level sea of the roadway. In that attitude he watched the further movements of the foe.
 
-James Haggismuir McAuley stood by the railings with his back turned, stock still in the cold for an unconscionable time; then, very cautiously, he peeped round over his shoulders; it was with much the same gesture as is adopted by the domestic cat when it desires to observe without being observed. To his immense astonishment, Wilfrid Halterton had disappeared — for the two and a half inches of top head (the hat had been removed) which Wilfrid Halterton was showing like a periscope above the vast level of the [[London]] pavement did not catch McAuley’s eye. He said to himself: “The man’s gone home — but what was he here for?” For the moment the financier had half a mind to return and watch that flat again; but he bethought him of the policeman, and also of the coffee that waited him in his flat near the Marble Arch. “I’ll even let it bide,” he said to himself. “It’ll keep.”
+James Haggismuir McAuley stood by the railings with his back turned, stock still in the cold for an unconscionable time; then, very cautiously, he peeped round over his shoulders; it was with much the same gesture as is adopted by the domestic cat when it desires to observe without being observed. To his immense astonishment, Wilfrid Halterton had disappeared — for the two and a half inches of top head (the hat had been removed) which Wilfrid Halterton was showing like a periscope above the vast level of the [[settings/london|London]] pavement did not catch McAuley’s eye. He said to himself: “The man’s gone home — but what was he here for?” For the moment the financier had half a mind to return and watch that flat again; but he bethought him of the policeman, and also of the coffee that waited him in his flat near the Marble Arch. “I’ll even let it bide,” he said to himself. “It’ll keep.”
 
 Then he stepped out boldly and briskly westward in no further fear of being followed.
 
@@ -5037,7 +5037,7 @@ Un finanziere che osserva con attenzione un statista.
 
 Il Capo Postale, con una rapidità di decisione insolita per lui, scese i gradini fino a quando i suoi occhi non furono allo stesso livello del marciapiede; stando in punta di piedi sui gradini e inclinando la testa all’indietro, osservava attentamente i movimenti del nemico lungo la strada.
 
-James Haggismuir McAuley stava appoggiato alle ringhiere, con le spalle voltate, il naso ancora esposto al freddo per un tempo insopportabilmente lungo; poi, molto cautamente, sbirciò oltre le proprie spalle. Con lo stesso gesto che usa un gatto domestico quando vuole osservare senza essere visto. Con sua enorme sorpresa, Wilfrid Halterton era scomparso: i due pollici di testa visibili sopra il vasto livello della strada di [[London|Londra]] (poiché il cappello era stato tolto) non erano stati notati da McAuley. Si disse: “Quell’uomo è tornato a casa. Ma che cosa voleva qui?” Per un momento, l’uomo d’affari pensò di tornare e controllare di nuovo quell’appartamento; ma poi ricordò il poliziotto, e anche il caffè che lo aspettava nel suo appartamento vicino a Marble Arch. “Lasciamo perdere”, si disse. “Ormai non importa più.”
+James Haggismuir McAuley stava appoggiato alle ringhiere, con le spalle voltate, il naso ancora esposto al freddo per un tempo insopportabilmente lungo; poi, molto cautamente, sbirciò oltre le proprie spalle. Con lo stesso gesto che usa un gatto domestico quando vuole osservare senza essere visto. Con sua enorme sorpresa, Wilfrid Halterton era scomparso: i due pollici di testa visibili sopra il vasto livello della strada di [[settings/london|Londra]] (poiché il cappello era stato tolto) non erano stati notati da McAuley. Si disse: “Quell’uomo è tornato a casa. Ma che cosa voleva qui?” Per un momento, l’uomo d’affari pensò di tornare e controllare di nuovo quell’appartamento; ma poi ricordò il poliziotto, e anche il caffè che lo aspettava nel suo appartamento vicino a Marble Arch. “Lasciamo perdere”, si disse. “Ormai non importa più.”
 
 Poi uscì con decisione e si diresse rapidamente verso ovest, senza più temere di essere seguito.
 
@@ -5088,7 +5088,7 @@ You may, or you may not believe it, but it is perfectly true, that there came at
 
 It would have been futile to deny it. Jack Williams, hooking his hand into the arm of his victim, bore him away. But even as he did so his unfailing eye had caught, sideways and to the right, a face which he also knew very well — the face of the gentleman with whom Jack Williams had played billiards last night; and at that sight the active genius of Jack Williams — a genius which I frankly confess to be far superior even to that of Wilfrid Halterton or James McAuley — began to work like a turbine.
 
-By the time the two, arm in arm, had got half-way down the Buckingham Palace Road opposite that sculpture of the horses on the Royal Stables which is one of the best things in [[London]], Jack Williams, cheerfully chatting all the way, had thoroughly solved the problem.
+By the time the two, arm in arm, had got half-way down the Buckingham Palace Road opposite that sculpture of the horses on the Royal Stables which is one of the best things in [[settings/london|London]], Jack Williams, cheerfully chatting all the way, had thoroughly solved the problem.
 
 These two Johnnies were watching each other! He was tempted to laugh out aloud! “And why were they watching each other?” asked Jack Williams inwardly, of Jack Williams. “Why,” answered Jack Williams to Jack Williams, “because each of them thought the other had the letters.” And as that final solution disclosed itself in all its radiance it was impossible for the Home Secretary to restrain a loud bellow of open laughter. He stopped in the street, with his arm still linked in his colleague’s, and laughed his fill.
 
@@ -5129,7 +5129,7 @@ Potete crederci o no, ma è assolutamente vero: in quel momento apparve sulla sc
 
 Sarebbe stato inutile negarlo. Jack Williams, afferrando il braccio della sua vittima, la portò via con sé. Ma anche mentre lo faceva, il suo occhio attento notò, di lato e a destra, un volto che conosceva molto bene: il volto dell’uomo con cui aveva giocato a biliardo la sera precedente. Alla vista di quel volto, l’intelligenza pronta e astuta di Jack Williams – un’intelligenza che, francamente, ritengo sia ben superiore anche a quella di Wilfrid Halterton o James McAuley – iniziò a lavorare con la velocità di una turbina.
 
-Quando i due, mano nella mano, avevano percorso metà del tragitto lungo la Buckingham Palace Road, di fronte a quella scultura dei cavalli presso gli Stabili Reali – che è una delle cose più belle di [[London|Londra]] – Jack Williams, chiacchierando allegramente tutto il tempo, aveva già risolto completamente il problema.
+Quando i due, mano nella mano, avevano percorso metà del tragitto lungo la Buckingham Palace Road, di fronte a quella scultura dei cavalli presso gli Stabili Reali – che è una delle cose più belle di [[settings/london|Londra]] – Jack Williams, chiacchierando allegramente tutto il tempo, aveva già risolto completamente il problema.
 
 Quei due Jack si stavano guardando a vicenda! Era tentato di ridere ad alta voce, “E perché si guardavano a vicenda?” si chiese Jack Williams dentro di sé. “Perché,” rispose Jack Williams a se stesso, “perché ognuno dei due pensava che l’altro avesse le lettere.” E quando quella soluzione finale si rivelò in tutta la sua chiarezza, fu impossibile per il Ministro dell’Interno trattenersi dal ridere ad alta voce. Si fermò in strada, con il braccio ancora intrecciato a quello del suo collega, e rise fino a quando non si sentì soddisfatto.
 
@@ -5230,7 +5230,7 @@ ON THE WAY down in the car on that Friday afternoon Lady Caroline made herself p
 
 It was not difficult to make herself pleasant, for he was most obviously suffering, and all that he wanted was sympathy; a little love at large. Indeed, the suffering had been obvious to everyone who had watched him on the front bench during the last three days. Lady Caroline’s task was the easier because, unlike her husband and unlike James McAuley, he also had been born in the purple: his father the owner of no small area of Essex clay in the days when this sort of thing was more valuable than it is now, and before it had become encumbered so much beyond its present power to pay.
 
-All the way down — Sandlings is only thirty-two miles from the House itself and not fifteen from the last northern suburbs of [[London]] — she attempted to discover, as discreetly as she could, what truth there might be in the news that Williams had given her of the P.M.G.’s quarrel with McAuley of Billies. And when I say discreetly, I mean discreetly. I cannot describe the process, because I have never myself been a wealthy hostess advanced in years; but I have watched it from the outside.
+All the way down — Sandlings is only thirty-two miles from the House itself and not fifteen from the last northern suburbs of [[settings/london|London]] — she attempted to discover, as discreetly as she could, what truth there might be in the news that Williams had given her of the P.M.G.’s quarrel with McAuley of Billies. And when I say discreetly, I mean discreetly. I cannot describe the process, because I have never myself been a wealthy hostess advanced in years; but I have watched it from the outside.
 
 There is a kind of bird the name of which would be familiar to bird-bores (there again I am at a loss to give you a description, but a bird it is, and I have seen it), and this kind of bird flies round and round, making wide circles in the air, to reconnoitre its prey swimming in the waters below. It does so at such a height that the victim does not suspect anything. Such was the manœuvre of Lady Caroline Balcombe during that brief hour in her enormous car.
 
@@ -5267,7 +5267,7 @@ Quel pomeriggio di venerdì, mentre scendevano in macchina, Lady Caroline cercò
 
 Non fu difficile fargli sentire meglio, perché era evidente che stesse soffrendo molto e tutto ciò di cui aveva bisogno era comprensione, un po’ d’amore, in fondo. Del resto, il suo dolore era visibile a chiunque lo avesse osservato durante quei tre giorni al banco dei deputati. Il compito di Lady Caroline fu quindi più semplice: a differenza di suo marito e di James McAuley, lui era nato nella nobiltà; suo padre possedeva vaste estensioni di terreno argilloso nell’Essex, in un’epoca in cui simili proprietà avevano molto più valore di oggi, prima che il debito li gravasse così pesantemente da rendere impossibile il loro mantenimento.
 
-Per tutto il tragitto – Sandlings dista soltanto trentadue miglia dalla residenza principale e non quindici miglia dagli ultimi sobborghi settentrionali di [[London|Londra]] – cercò di scoprire, nel modo più discreto possibile, se ci fosse verità nelle notizie che Williams le aveva riferito riguardo alla lite tra i P.M.G. e McAuley di Billies. E quando dico “discretamente”, intendo davvero in modo molto discreto. Non posso descrivere esattamente il procedimento, perché personalmente non sono mai stata una ricca signora anziana; ma l’ho osservato da fuori.
+Per tutto il tragitto – Sandlings dista soltanto trentadue miglia dalla residenza principale e non quindici miglia dagli ultimi sobborghi settentrionali di [[settings/london|Londra]] – cercò di scoprire, nel modo più discreto possibile, se ci fosse verità nelle notizie che Williams le aveva riferito riguardo alla lite tra i P.M.G. e McAuley di Billies. E quando dico “discretamente”, intendo davvero in modo molto discreto. Non posso descrivere esattamente il procedimento, perché personalmente non sono mai stata una ricca signora anziana; ma l’ho osservato da fuori.
 
 Esiste un tipo di uccello il cui nome dovrebbe essere familiare a coloro che si interessano agli uccelli (anche in questo caso non so come descriverlo, ma è sicuramente un uccello, e l’ho visto con i miei occhi). Questo tipo di uccello vola in cerchio, disegnando ampi archi nell’aria, per osservare la sua preda che nuota nelle acque sottostanti. Lo fa a tale altezza che la vittima non sospetta nulla. Proprio così agì Lady Caroline Balcombe durante quel breve lasso di tempo, nella sua enorme auto.
 
@@ -5328,7 +5328,7 @@ It would be no good ringing up the brokers until just before ten. Even so Lady C
 
 The Saturday and Sunday lay rather heavy on Lady Caroline’s mind. They yielded no fruit, not even the fun of open rough-and-tumble between the two men. She longed to know more. She was too wise to attempt further knowledge. She had the pleasure of seeing the Postmaster-General behaving rather oddly so far as the mind behind Durrant’s was concerned, and the man behind Durrant’s behaving rather oddly so far as the Postmaster-General was concerned. It amused her, still more it informed her, to notice the way in which they watched each other. What they were after she did not know, but so much was clear; each was attempting to come upon the other by surprise, for the trick was repeated half-a-dozen times in the course of the day. She had the further pleasure of seeing from a distance, when she and a few of the others were out together in the Park, something that looked very like a quarrel between the two, and then a sudden separation between them — but that was all.
 
-They went back separately on the Monday morning: Halterton rather ostentatiously by a train which left before anyone was up, as he had warned his hostess he must do on account of the work that awaited him in Town in the department; McAuley as ostentatiously waited on to show that there was no hurry at all for him to get to [[London]].
+They went back separately on the Monday morning: Halterton rather ostentatiously by a train which left before anyone was up, as he had warned his hostess he must do on account of the work that awaited him in Town in the department; McAuley as ostentatiously waited on to show that there was no hurry at all for him to get to [[settings/london|London]].
 
 Lady Caroline even kept him to lunch, seeing that he was willing to stop. She had him almost to herself, and as they sat together she was not averse to saying a few unkind things about Mr. Halterton. She only regretted she had not forced herself to come down early enough to say a few unkind things to Halterton about Mr. McAuley. However, she had learned pretty well all she wanted to learn; or at least all that she could learn under the circumstances.
 
@@ -5365,7 +5365,7 @@ Non sarebbe stato utile chiamare gli agenti di borsa fino a poco prima delle die
 
 Il sabato e la domenica pesavano piuttosto sull’animo di Lady Caroline. Non portarono a nulla, nemmeno al divertimento di una qualche lite aperta tra i due uomini. Lei avrebbe voluto sapere di più. Ma era troppo saggia per cercare di scoprirlo. Le faceva piacere osservare come il Postmaster-General si comportasse in modo piuttosto strano, soprattutto riguardo alle intenzioni di Durrant; allo stesso modo, anche l’uomo dietro le azioni di Durrant si comportava in modo insolito. Le divertiva molto notare il modo in cui si osservavano a vicenda. Non sapeva esattamente cosa cercassero, ma una cosa era chiara: entrambi tentavano di cogliere l’altro di sorpresa; quel comportamento si ripeté diverse volte nel corso della giornata. Le fece ancora più piacere notare, da lontano, mentre lei e alcune altre persone erano nel parco, qualcosa che sembrava proprio una lite tra i due. Poi, improvvisamente, si separarono. Ma era tutto ciò che accadeva.
 
-Tornarono indietro separatamente lunedì mattina: Halterton, in modo piuttosto ostentato, su un treno che partiva prima che chiunque si alzasse, poiché aveva avvertito la sua ospite che doveva farlo a causa del lavoro che lo aspettava in città nel suo ufficio; McAuley, invece, aspettò con altrettanta ostentazione per dimostrare che non aveva affatto fretta di arrivare a [[London|Londra]].
+Tornarono indietro separatamente lunedì mattina: Halterton, in modo piuttosto ostentato, su un treno che partiva prima che chiunque si alzasse, poiché aveva avvertito la sua ospite che doveva farlo a causa del lavoro che lo aspettava in città nel suo ufficio; McAuley, invece, aspettò con altrettanta ostentazione per dimostrare che non aveva affatto fretta di arrivare a [[settings/london|Londra]].
 
 Lady Caroline lo invitò persino a pranzo, visto che era disposto ad aspettare. Lo aveva quasi tutto per sé, e mentre sedevano insieme non esitò a dire alcune cose spiacevoli su Mr. Halterton. Si pentì soltanto di non essere venuta prima per dire qualcosa di negativo su Halterton riguardo a Mr. McAuley. Tuttavia, aveva appreso abbastanza bene tutto ciò che voleva sapere; o almeno tutto ciò che poteva apprendere in quelle circostanze.
 
@@ -5380,7 +5380,7 @@ She was in a happy mood, therefore, when she came into the House, rather late on
 
 X
 
-THERE STANDS IN [[London]] in a backwater of Mayfair an excellent house of the 18th century. Between it and the street is a wide courtyard, built for the sweep of great coaches coming up to the Portico, and behind the house is a discreet garden, large enough to be shared by a couple of ancient trees. A man lived there who was to play a great part in the adventures of the Postmaster-General; a friend, an intimate friend, but a loyal friend and a friend of his own age. This friend bore to the world the name of Arthur Lawson; he was by birth a Jew from the eastern boundaries of Lithuania, and this was his story.
+THERE STANDS IN [[settings/london|London]] in a backwater of Mayfair an excellent house of the 18th century. Between it and the street is a wide courtyard, built for the sweep of great coaches coming up to the Portico, and behind the house is a discreet garden, large enough to be shared by a couple of ancient trees. A man lived there who was to play a great part in the adventures of the Postmaster-General; a friend, an intimate friend, but a loyal friend and a friend of his own age. This friend bore to the world the name of Arthur Lawson; he was by birth a Jew from the eastern boundaries of Lithuania, and this was his story.
 
 A lifetime ago, when he was still a delicate and nervous child, shrinking from the hostile townsmen of the Russian city in which the close-bound Jewry of his people huddled, his father had died. His mother had already died in giving birth to his only brother, a child seven years younger than himself. The family had been miserably poor — miserably poor even according to the standards of that place and time — where poverty was appalling. The father’s whole being had been concentrated upon one thing; the study and exposition of the sacred books of his people. He had lived on the gifts of others almost as poor as himself, who revered his learning and still more his reputation for holiness, which was indeed well deserved, for the old scholar, in so far as he could out of the mist of manuscript and print which wrapped his soul all about — in so far as he could out of the past in which he lived and the problems which absorbed him — said and did good, saying and doing good in that ritual fashion and with that wealth of traditional phrase and exact ceremony which his people loved and demanded. But he was dead, and the two boys, the little child Jacob and the older boy Aaron Levina, had been taken over by an old sharp, duty-doing woman, of whose origin nothing was known, whom the boys had been taught to call “Aunt Reba,” who had kept their father’s house for years, and who lived for him and for his children.
 
@@ -5388,7 +5388,7 @@ She had produced in this crisis of their wretched fortunes a little sacred hoard
 
 Aaron at thirteen years old already showed aptitudes excelling even in that keen, restricted, intelligent, fearful world of his, surrounded everywhere by hatred, anger and contempt. His master praised him, comparing his youth to that of the elders of story. It seemed, as the lad grew in repute and stature, as though something had been saved. All crashed: a mob rose, murderous against the Jews. It had risen, at first, in a moment of blind passion and popular rising against the only few well-to-do in that ghetto, money-lenders to whom too many of the Gentiles of that town were bound. They escaped unhurt, but the wretched community was laid waste. The poor houses were sacked, the Synagogue looted of its pathetic treasured ornaments, and its building burned, while the flames lit the torrent of a hurried, driven, terrified exodus, as they lit the maimed and the dead of that blind and cruel fury.
 
-In that dreadful night Aunt Reba had saved the boys. She got them to Riga, by the offices of one of her people whom she there knew; she found some cranny for her and for them in an outgoing ship. A good part of the little hoard had to go, for the refugees were bled white by the Swedish captain of the craft. After three days of slow steaming through the calm Baltic (it was still bitterly cold, though the ice had gone) and three more days of tossing in the fury of the North Sea gales, this human wreckage of three, the child, the boy, and the old woman, had come to [[London]], and had there found, as such will always find through the intense patriotism of that people, shelter at least, and the first necessities of food. But Aunt Reba still paid, and owed no man a penny.
+In that dreadful night Aunt Reba had saved the boys. She got them to Riga, by the offices of one of her people whom she there knew; she found some cranny for her and for them in an outgoing ship. A good part of the little hoard had to go, for the refugees were bled white by the Swedish captain of the craft. After three days of slow steaming through the calm Baltic (it was still bitterly cold, though the ice had gone) and three more days of tossing in the fury of the North Sea gales, this human wreckage of three, the child, the boy, and the old woman, had come to [[settings/london|London]], and had there found, as such will always find through the intense patriotism of that people, shelter at least, and the first necessities of food. But Aunt Reba still paid, and owed no man a penny.
 
 Through such gates had it been that Aaron Levina in his fourteenth year entered manhood.
 
@@ -5403,7 +5403,7 @@ Era di umore felice; quindi, quando entrò nella Casa, piuttosto tardi lunedì p
 
 X
 
-A [[London|Londra]], in un angolo remoto di Mayfair, sorge una splendida casa del XVIII secolo. Tra essa e la strada c’è un ampio cortile costruito appositamente per accogliere le grandi carrozze che si dirigevano verso il portico d’ingresso; dietro la casa c’è un giardino discreto, abbastanza grande da essere condiviso da alcuni alberi secolari. Lì viveva un uomo che avrebbe svolto un ruolo fondamentale nelle avventure del Postmaster-General: un amico, un amico intimo, ma anche un amico leale e della sua stessa età. Questo amico si chiamava Arthur Lawson; di origine ebrea, proveniva dai confini orientali della Lituania. E questa è la sua storia.
+A [[settings/london|Londra]], in un angolo remoto di Mayfair, sorge una splendida casa del XVIII secolo. Tra essa e la strada c’è un ampio cortile costruito appositamente per accogliere le grandi carrozze che si dirigevano verso il portico d’ingresso; dietro la casa c’è un giardino discreto, abbastanza grande da essere condiviso da alcuni alberi secolari. Lì viveva un uomo che avrebbe svolto un ruolo fondamentale nelle avventure del Postmaster-General: un amico, un amico intimo, ma anche un amico leale e della sua stessa età. Questo amico si chiamava Arthur Lawson; di origine ebrea, proveniva dai confini orientali della Lituania. E questa è la sua storia.
 
 Un tempo, quando era ancora un bambino delicato e nervoso, che si ritraeva di fronte agli ostili abitanti della città russa in cui viveva la comunità ebraica stretta tra le mura, suo padre era morto. Sua madre era già deceduta durante il parto del suo unico fratello, un bambino sette anni più giovane di lui. La famiglia era terribilmente povera – poverissima anche secondo gli standard di quel luogo e di quel tempo, dove la povertà era estrema. L’intera esistenza del padre era concentrata su una sola cosa: lo studio e l’esposizione dei sacri testi della sua gente. Viveva grazie alle donazioni altrui, pur essendo lui stesso quasi povero quanto loro; le persone rispettavano la sua erudizione e ancora di più la sua reputazione di santità, che era davvero meritata. Quell’anziano studioso, infatti, nel limitato ambito delle conoscenze disponibili – tra i manoscritti e le pubblicazioni che circondavano la sua vita, nel contesto del passato in cui viveva e dei problemi che lo assorbivano – diceva e faceva il bene, seguendo quelle forme rituali e utilizzando quella ricchezza di frasi tradizionali e cerimonie precise che la sua gente amava e richiedeva. Ma ora lui era morto, e i due ragazzi, il piccolo Jacob e l’altro ragazzo Aaron Levina, erano stati affidati a una donna anziana, severa e diligente, le cui origini erano sconosciute; ai ragazzi era stato insegnato a chiamarla “Zia Reba”. Quella donna aveva curato la casa di loro padre per molti anni, vivendo soltanto per lui e per i suoi figli.
 
@@ -5411,7 +5411,7 @@ In questa crisi delle loro misere condizioni, lei aveva accumulato un piccolo te
 
 Aaron, all’età di tredici anni, mostrava già doti eccezionali, anche in quel mondo ostile, ristretto, intellettualmente stimolante ma pieno di paura, circondato ovunque dall’odio, dalla rabbia e dal disprezzo. Il suo maestro lo lodava, paragonando la sua giovinezza a quella degli anziani delle storie. Sembrava che, man mano che il ragazzo guadagnava reputazione e prestigio, qualcosa venisse salvato. Ma tutto andò in frantumi: una folla si sollevò, assetata di sangue contro gli ebrei. All’inizio, quella furia era nata da un impulso cieco e da un’insurrezione popolare contro i pochi ricchi di quel ghetto, quei prestatori di denaro ai quali troppi gentili della città erano legati in debiti. Loro riuscirono a fuggire illesi, ma quella povera comunità fu distrutta: le case misere furono saccheggiate, la Sinagoga privata dei suoi preziosi ornamenti e bruciata; le fiamme illuminarono anche il corso di un esodo affrettato, disperato e terrorizzato. In quel furore cieco e crudele, morirono sia i vivi che i morti.
 
-In quella terribile notte, zia Reba salvò i ragazzi. Riuscì a portarli a Riga grazie all’aiuto di una persona che conosceva lì; trovò un posto su una nave in partenza per loro e per sé. Una buona parte del loro misero tesoro dovette essere sacrificata, poiché il capitano svedese della nave li sfruttò senza pietà. Dopo tre giorni di viaggio lento attraverso il calmo Mar Baltico (faceva ancora un freddo terribile, anche se il ghiaccio era scomparso) e altri tre giorni di tempeste nel Nord Mare, questi tre esseri umani – il bambino, il ragazzo e la vecchia donna – arrivarono a [[London|Londra]], dove, grazie all’intenso patriottismo della gente lì residente, trovarono almeno rifugio e i primi necessari per vivere. Ma zia Reba continuò comunque a pagare, senza mai dover debito un centesimo a nessuno.
+In quella terribile notte, zia Reba salvò i ragazzi. Riuscì a portarli a Riga grazie all’aiuto di una persona che conosceva lì; trovò un posto su una nave in partenza per loro e per sé. Una buona parte del loro misero tesoro dovette essere sacrificata, poiché il capitano svedese della nave li sfruttò senza pietà. Dopo tre giorni di viaggio lento attraverso il calmo Mar Baltico (faceva ancora un freddo terribile, anche se il ghiaccio era scomparso) e altri tre giorni di tempeste nel Nord Mare, questi tre esseri umani – il bambino, il ragazzo e la vecchia donna – arrivarono a [[settings/london|Londra]], dove, grazie all’intenso patriottismo della gente lì residente, trovarono almeno rifugio e i primi necessari per vivere. Ma zia Reba continuò comunque a pagare, senza mai dover debito un centesimo a nessuno.
 
 Attraverso tali porte, all’età di quattordici anni, Aaron Levina era entrato nell’età adulta.
 
@@ -5422,7 +5422,7 @@ Iniziò la sua nuova vita quando un datore di lavoro del suo stesso popolo lo as
 <span class="atom-split" data-atom="part--part_32" data-title="The Postmaster General (part 32)" data-chapter="part 32" data-kind="excerpt" data-tags="setting/london"></span>
 
 
-From very early morning till very late at night the boy Aaron slaved silently — but always with a hidden anger in his heart against the outer world. He picked up English rapidly, reading in every moment of time he could snatch from the very brief free hours of his nights, and he earned unaided from such efforts as he deserved to earn, deserving as had his father before him through an unswerving tenacity. For the childless man whom he served, finding it more and more necessary, took him in to the petty business, until at last, when he had been but four years in [[London]], he was already holding his own among his comrades, and could almost pass as one who had been born in the security of that haven which his people find among the English. The business began to prosper in its tiny way, as it could not but prosper in such tireless hands as were young Aaron Levina’s, even in his ‘teens. Aunt Reba, very old when she had suffered that dreadful trial, and now beginning to fail, could be looked after. Aaron could now provide her with small luxuries. He could pay for a little help from neighbours.
+From very early morning till very late at night the boy Aaron slaved silently — but always with a hidden anger in his heart against the outer world. He picked up English rapidly, reading in every moment of time he could snatch from the very brief free hours of his nights, and he earned unaided from such efforts as he deserved to earn, deserving as had his father before him through an unswerving tenacity. For the childless man whom he served, finding it more and more necessary, took him in to the petty business, until at last, when he had been but four years in [[settings/london|London]], he was already holding his own among his comrades, and could almost pass as one who had been born in the security of that haven which his people find among the English. The business began to prosper in its tiny way, as it could not but prosper in such tireless hands as were young Aaron Levina’s, even in his ‘teens. Aunt Reba, very old when she had suffered that dreadful trial, and now beginning to fail, could be looked after. Aaron could now provide her with small luxuries. He could pay for a little help from neighbours.
 
 But what was a dearer thing to Aaron’s heart, what was his only consolation and his one joy in those beginnings of a most humble prosperity, after such bitter memories, was the nurturing of the child of his brother.
 
@@ -5430,7 +5430,7 @@ That dreadful day and night of the Pogrom had both seared and branded him. It ha
 
 The horrid cruelty which had stabbed his soul in its first youth was more vivid but not less effective than the continual sneers, the frequent insults, which even when not directed at himself were the lot of his people. If such feelings were concealed among the wealthier companions of his later life it was from cowardice — he could swear — not from charity.
 
-Even here in [[London]], safe, he never forgot what a burden some inexplicable enmity against his people laid upon him and his.
+Even here in [[settings/london|London]], safe, he never forgot what a burden some inexplicable enmity against his people laid upon him and his.
 
 So formed, so he remained, cast in that mould; and all his high talents — they were, in their way, genius — all his iron tenacity, were conditioned by this mood. The vast fortune which he was to acquire changed him not a whit. He owed it to himself and to his blood to keep that spirit unswerving; in the agony of his isolated soul all its affection, all its intensity, was focused upon the little brother.
 
@@ -5450,12 +5450,12 @@ Young Jacob’s school was the big County School building on the westward side o
 
 The brakes shrieked, the door of the car was impulsively flung open, and there leaped out a young man, very tall, eager in manner, most anxious and alarmed and disturbed, who rushed forward in his fine evening clothes and big fur coat, into the cold and through the mud. He went down on one knee beside the boy, still lying motionless, while a crowd gathered, and two policemen forced their way through it.
 
-The young man who had thus jumped out in his solicitude had been Wilfrid Halterton, the Wilfrid Halterton of all those years ago, those years when his family was at its wealthiest. He was not yet dreaming of politics, still up at the University, and going back in his car on that Friday night to rejoin his father in Essex after a dinner with his friends in [[London]].
+The young man who had thus jumped out in his solicitude had been Wilfrid Halterton, the Wilfrid Halterton of all those years ago, those years when his family was at its wealthiest. He was not yet dreaming of politics, still up at the University, and going back in his car on that Friday night to rejoin his father in Essex after a dinner with his friends in [[settings/london|London]].
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Dall’alba molto presto fino a tarda notte, il ragazzo Aaron lavorava silenziosamente, ma nel suo cuore c’era sempre un’ira nascosta verso il mondo esterno. Imparò rapidamente l’inglese, leggendo in ogni momento libero che riusciva a trovare nelle brevi ore serali libere; grazie a questi sforzi, guadagnò abbastanza da meritarselo, proprio come suo padre aveva fatto prima di lui, grazie a una tenacia incrollabile. L’uomo senza figli per cui lavorava, rendendosi conto che aveva sempre più bisogno di lui, lo assunse nel proprio piccolo commercio; e dopo soli quattro anni a [[London|Londra]], Aaron riusciva già a stare al passo con i suoi colleghi, quasi poteva essere scambiato per qualcuno nato in quel rifugio sicuro che la sua gente trovava tra gli inglesi. L’attività commerciale iniziò a prosperare, naturalmente, visto che non poteva fare altro che crescere nelle mani instancabili di un ragazzo giovane come Aaron Levina, anche quando aveva appena raggiunto l’adolescenza. Zia Reba, ormai molto anziana dopo aver subito quella terribile prova e ora in declino di salute, poteva finalmente essere curata. Aaron le poteva offrire piccoli lussi e pagare il aiuto dei vicini.
+Dall’alba molto presto fino a tarda notte, il ragazzo Aaron lavorava silenziosamente, ma nel suo cuore c’era sempre un’ira nascosta verso il mondo esterno. Imparò rapidamente l’inglese, leggendo in ogni momento libero che riusciva a trovare nelle brevi ore serali libere; grazie a questi sforzi, guadagnò abbastanza da meritarselo, proprio come suo padre aveva fatto prima di lui, grazie a una tenacia incrollabile. L’uomo senza figli per cui lavorava, rendendosi conto che aveva sempre più bisogno di lui, lo assunse nel proprio piccolo commercio; e dopo soli quattro anni a [[settings/london|Londra]], Aaron riusciva già a stare al passo con i suoi colleghi, quasi poteva essere scambiato per qualcuno nato in quel rifugio sicuro che la sua gente trovava tra gli inglesi. L’attività commerciale iniziò a prosperare, naturalmente, visto che non poteva fare altro che crescere nelle mani instancabili di un ragazzo giovane come Aaron Levina, anche quando aveva appena raggiunto l’adolescenza. Zia Reba, ormai molto anziana dopo aver subito quella terribile prova e ora in declino di salute, poteva finalmente essere curata. Aaron le poteva offrire piccoli lussi e pagare il aiuto dei vicini.
 
 Ma ciò che era più caro al cuore di Aaron, ciò che costituiva la sua unica consolazione e la sua unica gioia in quei primi momenti di una prosperità molto umile, dopo tali ricordi amari, era l’educazione del figlio di suo fratello.
 
@@ -5463,7 +5463,7 @@ Quel terribile giorno e quella terribile notte del pogrom lo avevano segnato pro
 
 La terribile crudeltà che aveva ferito la sua anima fin da quando era giovane era ancora più vivida, sebbene meno evidente, di quegli sberri continui e di quelle offese frequenti che, anche quando non erano diretti a lui personalmente, costituivano la sorte della sua gente. Se tali sentimenti venivano nascosti tra i compagni più ricchi della sua vita successiva, era per codardia. Lo giurava, e non per compassione.
 
-Anche qui a [[London|Londra]], al sicuro, non dimenticò mai quanto un'ostilità inspiegabile verso il suo popolo avesse rappresentato un fardello per lui e per i suoi.
+Anche qui a [[settings/london|Londra]], al sicuro, non dimenticò mai quanto un'ostilità inspiegabile verso il suo popolo avesse rappresentato un fardello per lui e per i suoi.
 
 Così formato, così rimase, plasmato in quel modello; e tutti i suoi grandi talenti – che, a modo loro, erano genio – tutta la sua ferrea tenacia, erano condizionati da questo atteggiamento mentale. La vasta fortuna che avrebbe ottenuto non lo cambiò affatto. La doveva a se stesso e al proprio sangue per mantenere quel spirito inalterato; nell’agonia della sua anima isolata, tutta la sua affezione, tutta la sua intensità, erano concentrate sul fratellino minore.
 
@@ -5483,14 +5483,14 @@ La scuola di giovane Jacob era l’edificio della grande Scuola Distrettuale sit
 
 I freni stridettero, la porta dell’auto si aprì con impeto e ne saltò fuori un giovane molto alto, dall’aspetto ansioso e preoccupato. Corse avanti indossando i suoi bei abiti da sera e il grande cappotto di pelliccia, attraverso il fango e nel freddo. Si inginocchiò accanto al ragazzo, ancora immobile, mentre intorno si radunava una folla; due poliziotti fecero strada tra la gente.
 
-Quel giovane che si era precipitato fuori con tanta premura era Wilfrid Halterton, lo stesso Wilfrid Halterton di quegli anni lontani, quando la sua famiglia era al culmine della ricchezza. Allora non pensava ancora alla politica; studiava ancora all’università e, quella sera di venerdì, tornava in auto nell’Essex per riunirsi a suo padre, dopo aver cenato con gli amici a [[London|Londra]].
+Quel giovane che si era precipitato fuori con tanta premura era Wilfrid Halterton, lo stesso Wilfrid Halterton di quegli anni lontani, quando la sua famiglia era al culmine della ricchezza. Allora non pensava ancora alla politica; studiava ancora all’università e, quella sera di venerdì, tornava in auto nell’Essex per riunirsi a suo padre, dopo aver cenato con gli amici a [[settings/london|Londra]].
 
 
 
 <span class="atom-split" data-atom="part--part_33" data-title="The Postmaster General (part 33)" data-chapter="part 33" data-kind="excerpt" data-tags="setting/london"></span>
 
 
-The policemen were taking notes, the boy’s comrades, many of them of his own kind, were eagerly volunteering information. Young Halterton, uncertain, bewildered, full of compassion, wondering what to do, was told by the policemen that an ambulance was coming; they told him also whither the maimed child would be taken, to the [[London]] Hospital. At the same time he heard from one of the scholars who was more voluble than the rest in his eagerness to inform where the child’s brother, Aaron Levina, lived.
+The policemen were taking notes, the boy’s comrades, many of them of his own kind, were eagerly volunteering information. Young Halterton, uncertain, bewildered, full of compassion, wondering what to do, was told by the policemen that an ambulance was coming; they told him also whither the maimed child would be taken, to the [[settings/london|London]] Hospital. At the same time he heard from one of the scholars who was more voluble than the rest in his eagerness to inform where the child’s brother, Aaron Levina, lived.
 
 Young Halterton was shocked and pitiful beyond words. He could not dream of going on that night at all. He had felt a wave of relief on hearing that this lad lived; but at the first low groan his heart was torn. I must excuse him. His emotion may sound exaggerated; but remember that Halterton was then very young, and had a generous feeling of shame, as though his wealth were in some way to blame for the tragedy his car had caused among these poor people.
 
@@ -5535,7 +5535,7 @@ They had got him into a little bare room of the hospital, a little waiting-room,
 
 <span class="qlang-split" data-lang="it"></span>
 
-Gli agenti di polizia prendevano appunti; i compagni del ragazzo, molti dei quali della sua stessa età, offrivano volontariamente informazioni con grande entusiasmo. Il giovane Halterton, incerto e confuso, ma pieno di compassione e senza sapere cosa fare, venne informato dagli agenti che un’ambulanza stava arrivando; gli dissero anche dove sarebbe stato portato il bambino ferito: all’Ospedale di [[London|Londra]]. Nello stesso momento, uno degli studiosi, più loquace degli altri nell’evidente desiderio di fornire informazioni, gli disse dove viveva il fratello del ragazzo, Aaron Levina.
+Gli agenti di polizia prendevano appunti; i compagni del ragazzo, molti dei quali della sua stessa età, offrivano volontariamente informazioni con grande entusiasmo. Il giovane Halterton, incerto e confuso, ma pieno di compassione e senza sapere cosa fare, venne informato dagli agenti che un’ambulanza stava arrivando; gli dissero anche dove sarebbe stato portato il bambino ferito: all’Ospedale di [[settings/london|Londra]]. Nello stesso momento, uno degli studiosi, più loquace degli altri nell’evidente desiderio di fornire informazioni, gli disse dove viveva il fratello del ragazzo, Aaron Levina.
 
 Il giovane Halterton era sconvolto e provava un dolore indescrivibile. Non avrebbe mai potuto immaginare di dover affrontare quella situazione quella notte. Aveva provato un senso di sollievo nell’apprendere che quel ragazzo fosse vivo; ma non appena aveva sentito il suo primo gemito sommesso, il suo cuore si era spezzato. Devo scusarlo: le sue emozioni possono sembrare esagerate; ma ricordate che all’epoca Halterton era molto giovane e provava un profondo senso di vergogna, come se la sua ricchezza fosse in qualche modo responsabile della tragedia causata dalla sua auto tra quelle persone povere.
 
@@ -5563,7 +5563,7 @@ Ma non c’era alcuna necessità. Altri erano già stati prima di lui. Un piccol
 
 Chi fosse quel cliente di Levina, nessuno lo sapeva. Halterton aspettò e aspettò. Alla fine chiese un foglio di carta e una busta, e scrisse queste parole con tutto il cuore:
 
-# Mio caro signore,
+Mio caro signore,
 
 Mi dispiace enormemente dovervi comunicare che questa sera, mentre il mio automobile passava davanti alla Council School in Mile End Road, ha investito un giovane signore, che, a quanto ho appreso, è vostro fratello. Sono qui ad aspettarvi e desidero farlo con molta urgenza. Volevo che foste voi i primi a saperlo da me, e voglio assicurarvi personalmente che non corre alcun pericolo. Me lo hanno garantito. Tuttavia, temo che l’incidente sia grave.
 
@@ -5734,7 +5734,7 @@ There could be no question of money relations, which Halterton by this time woul
 
 But he was his own father by this time; the old man had gone, he himself was a man of some position, not very wealthy indeed, but of some position. He had just got into Parliament, the family fortune (though lessened) was still large; his old College would listen to him, it was beholden to the name of Halterton. It was through Wilfrid, then, that young Jacob was accepted, and went up to Cambridge.
 
-Aaron had insisted that he should go up as Lawson, for Aaron still prospered, and much more through that little office of his than through the shop; and Aaron was Arthur Lawson by this time — at least in the West End of [[London]], where he had taken a house. Jacob, who was of another view in these things, stood out, but at last compromised. He would not be James, he would still be Jacob; but as for Lawson — well, let it go at that. So it was Arthur Lawson, rapidly growing wealthy, and Jacob Lawson, his brother, who in the vacation lived at Arthur’s side under his roof and was more and more his pride and his idol.
+Aaron had insisted that he should go up as Lawson, for Aaron still prospered, and much more through that little office of his than through the shop; and Aaron was Arthur Lawson by this time — at least in the West End of [[settings/london|London]], where he had taken a house. Jacob, who was of another view in these things, stood out, but at last compromised. He would not be James, he would still be Jacob; but as for Lawson — well, let it go at that. So it was Arthur Lawson, rapidly growing wealthy, and Jacob Lawson, his brother, who in the vacation lived at Arthur’s side under his roof and was more and more his pride and his idol.
 
 Of greater importance still to the relations of Wilfrid Halterton with Lawson was what happened four years later. The young physicist was brilliant enough — but Fellowships do not go by talent. There was another candidate besides himself, a young Englishman of some standing and a Blue — not without private means and good relations. Halterton made just the difference. And Jacob Lawson became Fellow of Merrion College; and, as you may imagine, the Blue and the friends of the Blue put it down to a Jewish conspiracy.
 
@@ -5769,7 +5769,7 @@ Non poteva esserci alcun discorso su questioni finanziarie, di cui ormai Haltert
 
 Ma a quel punto era già diventato come suo padre; l’uomo anziano era morto, e lui stesso occupava una posizione di rilievo, sebbene non particolarmente ricco. Aveva appena iniziato a fare parte del Parlamento; la fortuna familiare, sebbene ridotta, era ancora considerevole. Il suo vecchio college lo ascoltava, poiché doveva il proprio status al nome Halterton. Fu quindi grazie a Wilfrid che il giovane Jacob venne ammesso e poté andare a Cambridge.
 
-Aaron aveva insistito affinché lui continuasse a usare il nome di Lawson: poiché Aaron prosperava ancora, e molto di più grazie a quell’ufficio che possedeva piuttosto che al negozio stesso; ormai Aaron era Arthur Lawson, almeno nel West End di [[London|Londra]], dove si era comprato una casa. Jacob, che aveva un punto di vista diverso su queste cose, si oppose inizialmente, ma alla fine acconsentì a scendere a compromessi. Non voleva essere chiamato James; sarebbe sempre stato Jacob. Ma per quanto riguardava il nome Lawson, beh, lasciasse stare così. Così fu: Arthur Lawson divenne rapidamente molto ricco, mentre Jacob Lawson, suo fratello, trascorreva le vacanze sotto lo stesso tetto di Arthur, diventando sempre di più la sua fonte di orgoglio e il suo idolo.
+Aaron aveva insistito affinché lui continuasse a usare il nome di Lawson: poiché Aaron prosperava ancora, e molto di più grazie a quell’ufficio che possedeva piuttosto che al negozio stesso; ormai Aaron era Arthur Lawson, almeno nel West End di [[settings/london|Londra]], dove si era comprato una casa. Jacob, che aveva un punto di vista diverso su queste cose, si oppose inizialmente, ma alla fine acconsentì a scendere a compromessi. Non voleva essere chiamato James; sarebbe sempre stato Jacob. Ma per quanto riguardava il nome Lawson, beh, lasciasse stare così. Così fu: Arthur Lawson divenne rapidamente molto ricco, mentre Jacob Lawson, suo fratello, trascorreva le vacanze sotto lo stesso tetto di Arthur, diventando sempre di più la sua fonte di orgoglio e il suo idolo.
 
 Ancora più importante delle relazioni tra Wilfrid Halterton e Lawson fu ciò che accadde quattro anni dopo. Il giovane fisico era abbastanza brillante, ma le borse di studio non si assegnano in base al talento. C’era un altro candidato, oltre a lui: un giovane inglese di certo rilievo e appartenente a una determinata cerchia sociale; quest’ultimo disponeva di risorse personali e di buone relazioni. Fu Halterton ad avere la meglio. E Jacob Lawson divenne membro del Merrion College. E, come potete immaginare, coloro che appartenevano a quella cerchia sociale attribuirono tutto questo a una “congiura ebraica”.
 
@@ -5936,7 +5936,7 @@ Upon the afternoon of Wednesday, March the 11th, 1960, after question time, the 
 
 For two full days and the better half of a third the rumours had had time to grow. Reginald Butler’s now famous letter had sprouted like those quick-motion vegetables in the cinema films designed for the instruction of youth. It was Lord Desportes’ papers the day before yesterday, the Monday, that had done the trick. But later orders had gone out on that same Monday which forbade one word of further allusion in any of the morning papers the next day. The Television Contract, the Postmaster-General, James McAuley, the whole bag of tricks, might have disappeared into nothingness for all the English people at large were allowed to hear of them. But under the free political conditions which we alone of all nations enjoy you cannot prevent people talking. All the people in the know were talking, and Billies were nominally at 14s., but now quite unsaleable.
 
-Among things exaggerated or merely absurd (and there was a vast group of these, involving every name in [[London]]) lurked here and there hard little lumps of fact, like the dear little pebbles that nestle in any pound of currants you may buy. And as these dear little pebbles announce themselves unmistakably to the teeth, especially the teeth of the aged, so did the bits of solid fact announce themselves for truth to those in the know, and especially to the older and more experienced of the same. One of these undoubted truths was that there would be a public statement made now, immediately after questions; another undoubted truth was that the authorities had determined to prosecute, not the wretched editor of the wretched Oriflamme, nor the wretched printer, but that ill-famed, self-appointed censor of public morals, the now highly unpopular Reginald Butler.
+Among things exaggerated or merely absurd (and there was a vast group of these, involving every name in [[settings/london|London]]) lurked here and there hard little lumps of fact, like the dear little pebbles that nestle in any pound of currants you may buy. And as these dear little pebbles announce themselves unmistakably to the teeth, especially the teeth of the aged, so did the bits of solid fact announce themselves for truth to those in the know, and especially to the older and more experienced of the same. One of these undoubted truths was that there would be a public statement made now, immediately after questions; another undoubted truth was that the authorities had determined to prosecute, not the wretched editor of the wretched Oriflamme, nor the wretched printer, but that ill-famed, self-appointed censor of public morals, the now highly unpopular Reginald Butler.
 
 Some said it was the Postmaster-General himself who had written to the Prime Minister urging this course upon Mrs. Boulger as a public duty, others that it was a disinterested action on the part of the Rt. Honourable John Williams, Secretary of State for Home Affairs — and the latter were right.
 
@@ -5959,7 +5959,7 @@ Se fino ad allora Billies avevano continuato a perdere valore, ora il loro decli
 
 Onesto Jack Williams dimostra la sua importanza nell’Aula Esterna in un importante giorno parlamentare.
 
-# XII
+XII
 
 Coloro che vivono in campagna, e che si trovano abbastanza lontani dalle strade da poter sentire il rumore degli animali viventi, devono essere familiari con quel mormorio incessante prodotto dall’ disturbo di un nido di vespe. È completamente diverso dal chiacchiericcio delle scimmie nei tropici, così come dal particolare miagolio dei skunk nelle zone dove questi animali vivono. Si tratta di un suono energico, ansioso e incessante, pieno di presagi infausti. Ecco perché, come recita un proverbio orientale, “Un nido di vespe deve essere disturbato con un bastone lungo”.
 
@@ -5967,7 +5967,7 @@ Nel pomeriggio di mercoledì 11 marzo 1960, dopo l’ora delle domande, il corri
 
 Per due interi giorni e per la maggior parte di un terzo di giorno, le voci avevano avuto il tempo di diffondersi. La famosa lettera di Reginald Butler era diventata rapidamente nota, come quei vegetali che crescono velocemente nei film cinematografici destinati all’educazione dei giovani. Fu la pubblicazione degli articoli di Lord Desportes, il lunedì precedente, a scatenare tutto. Tuttavia, lo stesso lunedì furono emessi ordini che vietavano qualsiasi ulteriore menzione in tutti i giornali del mattino del giorno seguente. Il Contratto per la Televisione, il Capo Postale Generale James McAuley, tutte quelle strategie potevano anche essere state dimenticate, ma l’intera popolazione inglese ne era a conoscenza. Ma sotto le condizioni politiche libere di cui solo noi godiamo tra tutte le nazioni, non si può impedire alle persone di parlare. Tutti coloro che erano a conoscenza dei fatti ne discutevano. E i “Billies”, che inizialmente sembravano una soluzione promettente, ora risultavano del tutto inutili.
 
-Tra le cose esagerate o semplicemente assurde (e ne esisteva un gran numero, che riguardava ogni nome presente a [[London|Londra]]), si nascondevano qua e là piccoli frammenti di verità, come quei deliziosi sassolini che si trovano in qualsiasi pacco di uvetta si possa comprare. E proprio come questi sassolini sono facilmente riconoscibili dai denti, soprattutto da quelli degli anziani, così anche questi frammenti di verità venivano immediatamente individuati da coloro che ne erano a conoscenza, specialmente dagli individui più anziani e più esperti. Una di queste verità indubitabili era che sarebbe stata fatta una dichiarazione pubblica subito dopo le domande; un’altra verità indubitabile era che le autorità avevano deciso di procedere legalmente non contro il misero editore della malaventurata rivista “Oriflamme”, né contro il misero tipografo, ma contro quel famigerato e autoproclamatosi censore dei costumi pubblici: il molto impopolare Reginald Butler.
+Tra le cose esagerate o semplicemente assurde (e ne esisteva un gran numero, che riguardava ogni nome presente a [[settings/london|Londra]]), si nascondevano qua e là piccoli frammenti di verità, come quei deliziosi sassolini che si trovano in qualsiasi pacco di uvetta si possa comprare. E proprio come questi sassolini sono facilmente riconoscibili dai denti, soprattutto da quelli degli anziani, così anche questi frammenti di verità venivano immediatamente individuati da coloro che ne erano a conoscenza, specialmente dagli individui più anziani e più esperti. Una di queste verità indubitabili era che sarebbe stata fatta una dichiarazione pubblica subito dopo le domande; un’altra verità indubitabile era che le autorità avevano deciso di procedere legalmente non contro il misero editore della malaventurata rivista “Oriflamme”, né contro il misero tipografo, ma contro quel famigerato e autoproclamatosi censore dei costumi pubblici: il molto impopolare Reginald Butler.
 
 Alcuni dicevano che fosse stato lo stesso Capo Postale a scrivere al Primo Ministro esortandolo ad incoraggiare la signora Boulger ad agire in questo modo come un dovere pubblico; altri sostenevano che si trattasse di un atto imparziale da parte del molto onorevole John Williams, Segretario di Stato per gli Affari Interni. E questi ultimi avevano ragione.
 
@@ -6052,7 +6052,7 @@ He would not write, he would not even telephone. He walked, slowly, disconsolate
 
 It was only his nerves, of course, but he thought that even the liveried man at the door looked at him as he knew well the world was looking. He went in, still miserable enough, was announced, and entered the familiar room. She was there.
 
-She was indeed! His face had just appeared in the doorway, his two hands were but just outstretched, when he was met by that which may be compared, as you will, to a jet of boiling water, a [[Machine|machine]]-gun nest, or a railway accident. With her strong lissom body taut, just leaning forward, her arms straight and at attention, her fists clenched, each slightly behind the line of her body, with all the energy of well-moulded limbs about to spring, Joan Papworthy gave tongue. “Gave teeth” would be a better phrase; and her gambit struck the unmistakable note of what was to follow.
+She was indeed! His face had just appeared in the doorway, his two hands were but just outstretched, when he was met by that which may be compared, as you will, to a jet of boiling water, a [[motifs/machine|machine]]-gun nest, or a railway accident. With her strong lissom body taut, just leaning forward, her arms straight and at attention, her fists clenched, each slightly behind the line of her body, with all the energy of well-moulded limbs about to spring, Joan Papworthy gave tongue. “Gave teeth” would be a better phrase; and her gambit struck the unmistakable note of what was to follow.
 
 “You stinking fool!” she said. Oh! That ever from those lips. . . . “Stinking! Stinking! Stinking fool! Do you know what you’ve done? Had you the least idea what you were doing?” She put about five “s’s” into “least.” “Cretin!” And on that emphatic word she shot lightning from her eyes. “Oh! Get out! Do you hear? Get out! You make me sick!”
 
@@ -6115,7 +6115,7 @@ Se lo meritava tutto. Era troppo tardi per redimere il proprio carattere. Si tro
 
 Per quanto riguarda Joan Papworthy, quando sentì la porta d’ingresso chiudersi sotto di lei e capì che il suo amante non sarebbe tornato, si accasciò sul divano e iniziò a piangere ad alta voce. Poi chiamò i suoi agenti finanziari e scoprì che le cose stavano andando molto peggio di quanto temesse. Molto peggio.
 
-# XIII
+XIII
 
 WILFRID HALTERTON, nei giorni in cui quel comitato si riuniva per ribadire ancora una volta la “incomparabile brillantezza” della sua stessa onorabilità, era più infelice di quanto lo fosse mai stato prima.
 
@@ -6299,7 +6299,7 @@ E così i due continuarono il loro cammino, sotto un cielo aperto.
 
 Quella sera, le fotografie furono riposte con cura nel armadio chiuso a chiave a Streatham.
 
-# XIV
+XIV
 
 Il processo di quel sfortunato idiota, Reginald Butler, non occupò molto tempo del pubblico, e non ne occuperà nemmeno molto il nostro. Tutto finì in due giorni, e possiamo riassumerlo in poche pagine.
 
@@ -6592,7 +6592,7 @@ XV
 
 ARTHUR LAWSON TOOK very little interest in the stock market. There was a time, years before, when he had speculated. He had liked the excitement while he was still young, he had liked to win on the game — as indeed he had. He might have remained at it, as do many of his fellows, all his life, had not three convergent pieces of success, only one of which was on a gamble in shares, the other two being on an accidental piece of early information and an unexpectedly large commission on an unexpectedly large order with which he had been entrusted, put him into the possession of a lump of money upon a different scale from the increasing fortune he had hitherto enjoyed. He had moved up at once on to that plane, the leaders of which can be counted in two figures; and then on to that highest group of all in which less than a score of men act as the basis of finance. He was behind national loans, great underwriting, and solid issues of the largest kind; and was also the chief in the very great banking house of Schwartz.
 
-This was the moment of transition in which he had bought that isolated house in Mayfair which had not its like in [[London]], and with which he was everywhere now associated.
+This was the moment of transition in which he had bought that isolated house in Mayfair which had not its like in [[settings/london|London]], and with which he was everywhere now associated.
 
 But in the very great position which he now held, and which amplified, as these things do, year after year, automatically, his distaste for the uncertain things of the market grew. He had no hobby. He was the sort of man who, if he had had a hobby, would have made it take up all his life in the place of his business.
 
@@ -6627,7 +6627,7 @@ XV
 
 Arthur Lawson mostrava molto poco interesse per il mercato azionario. C'era stato un periodo, molti anni prima, in cui aveva fatto speculazioni finanziarie. Gli piaceva l’emozione che quel tipo di attività comportava quando era ancora giovane; gli piaceva vincere, e infatti ci riusciva spesso. Avrebbe potuto continuare a farlo per tutta la vita, come molti dei suoi colleghi, se non fosse stato per tre fattori diversi che avevano contribuito al suo successo: uno legato alle speculazioni azionarie, altri due dovuti a informazioni ottenute casualmente e a una commissione particolarmente elevata derivante da un ordine di grandi dimensioni. Questi fattori gli permisero di disporre di una somma di denaro molto più consistente rispetto a quella che aveva guadagnato fino ad allora. Riuscì immediatamente a entrare in quel ristretto gruppo di persone che detengono il controllo del settore finanziario; successivamente raggiunse anche il livello più alto, quello dei pochi individui che influenzano davvero le dinamiche economiche. Era coinvolto in importanti operazioni di indebitamento nazionale, grandi accordi di sottoscrizione e emissioni di titoli di grande valore; inoltre ricopriva la carica di dirigente principale nella prestigiosa banca Schwartz.
 
-Questo fu il momento di transizione: acquistò quella casa isolata a Mayfair, unica della sua sorta nella [[London|Londra]] di allora, e da quel momento essa divenne associata a ogni aspetto della sua vita.
+Questo fu il momento di transizione: acquistò quella casa isolata a Mayfair, unica della sua sorta nella [[settings/london|Londra]] di allora, e da quel momento essa divenne associata a ogni aspetto della sua vita.
 
 Ma nella posizione estremamente importante che ora occupava – una posizione che, come spesso accade, anno dopo anno ampliava automaticamente il suo disprezzo per le incertezze del mercato – il suo disgusto per queste cose aumentava sempre di più. Non aveva hobby. Era il tipo di persona che, se ne avesse avuto uno, lo avrebbe dedicato interamente alla sua vita, al posto del proprio lavoro.
 
@@ -6848,7 +6848,7 @@ The man whom Arthur Lawson wanted, the man whom he wanted immediately, because t
 
 The des Cuoyes were Channel Islanders, and very proud of their lineage. You might guess that from their insistence upon the little “d” in the des; and Cuoyes, let me tell you, is a real place, or rather two real places, Cuoye le Grand and Cuoye le Petit, in a wild part of the Cotentin. But property in these villages the des Cuoyes had had none for generations past. They had left France for Jersey in the religious troubles of two and a half centuries ago.
 
-Young Guy des Cuoyes’ father, the General, had done the right thing by him. He had put him into his own old school, and sent him to the University. As his only income was the recognition of his services made to him by his grateful country for special work in India, it died with him. And as he had died just after Guy had come down from Oxford, more than seven years before, the young man found himself in [[London]] with all those excellent habits which the University teaches its more successful sons, but without the income which such habits demand.
+Young Guy des Cuoyes’ father, the General, had done the right thing by him. He had put him into his own old school, and sent him to the University. As his only income was the recognition of his services made to him by his grateful country for special work in India, it died with him. And as he had died just after Guy had come down from Oxford, more than seven years before, the young man found himself in [[settings/london|London]] with all those excellent habits which the University teaches its more successful sons, but without the income which such habits demand.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -6871,7 +6871,7 @@ Questa volta Arthur Lawson fece qualcosa di così insolito che segnò una sorta 
 
 Aaron Levina stava per compiere qualcosa che potesse essere estremamente proficuo per il suo cuore solitario. La sua isolazione non era stata rotta; rimaneva ancora ciò che era stato prima di quell’ breve incontro. Ma sentiva che, almeno con uno di quei “Goyim”, l’unico tra loro verso cui avesse mai provato vera devozione, aveva stabilito un legame. Non importava. Non ne avrebbe stabiliti altri. Apparteneva al suo popolo. Cosa aveva da fare con quelle folle esterne? Ma avrebbe salvato Wilfrid Halterton.
 
-# XVI
+XVI
 
 La prima cosa che Arthur Lawson fece quando tornò a casa fu riprendere a interrogare suo fratello riguardo a Dow’s. Il suo piano era già pronto e stava preparando il primo passo per attuarlo. Ma Jacob non riuscì a dirgli ciò che voleva sapere. Lo scienziato ribadì ancora una volta l’assoluta necessità del brevetto di Dow’s, ma non aveva nulla di nuovo da aggiungere, se non enfatizzare ulteriormente il concetto. Non esisteva nessun rivale: c'erano molti altri dispositivi in grado di funzionare bene a breve distanza, ma la questione non riguardava l’aumento della potenza né lo sviluppo su larga scala. Per le lunghe distanze era necessario un principio completamente diverso; e solo Dow’s aveva risolto quel problema.
 
@@ -6895,7 +6895,7 @@ L’uomo che Arthur Lawson voleva, l’uomo che desiderava assolutamente subito,
 
 I des Cuoyes erano isolani del Canale della Manica e molto orgogliosi delle loro origini. Ci si può fare un’idea di questo dal loro insistere nell’utilizzare la piccola “d” nel cognome; e Cuoyes, vi assicuro, è davvero un luogo esistente, anzi due luoghi: Cuoye le Grand e Cuoye le Petit, situati in una zona selvaggia della regione del Cotentin. Tuttavia, per generazioni i des Cuoyes non hanno posseduto alcuna proprietà in questi villaggi. Avevano lasciato la Francia per Jersey a causa delle turbolenze religiose di due secoli e mezzo fa.
 
-Il padre di Young Guy des Cuoyes, il generale, aveva fatto la cosa giusta per lui: lo aveva iscritto alla propria vecchia scuola e poi l’aveva mandato all’università. Poiché l’unica sua fonte di reddito era il riconoscimento dei suoi meriti da parte del suo paese grato per il lavoro svolto in India, tale reddito cessò con la sua morte. E poiché egli era deceduto poco dopo che Guy aveva lasciato Oxford, più di sette anni prima, il giovane si trovò a [[London|Londra]] con tutte quelle eccellenti abitudini che l’università insegna ai suoi studenti più promettenti, ma senza i mezzi finanziari necessari per mantenerle.
+Il padre di Young Guy des Cuoyes, il generale, aveva fatto la cosa giusta per lui: lo aveva iscritto alla propria vecchia scuola e poi l’aveva mandato all’università. Poiché l’unica sua fonte di reddito era il riconoscimento dei suoi meriti da parte del suo paese grato per il lavoro svolto in India, tale reddito cessò con la sua morte. E poiché egli era deceduto poco dopo che Guy aveva lasciato Oxford, più di sette anni prima, il giovane si trovò a [[settings/london|Londra]] con tutte quelle eccellenti abitudini che l’università insegna ai suoi studenti più promettenti, ma senza i mezzi finanziari necessari per mantenerle.
 
 
 
@@ -6959,7 +6959,7 @@ Una battaglia stava per iniziare, e tempo, tempo, tempo. Il tempo e l’accurate
 
 “Le persone del settore televisivo?”, disse Guy. “Sì.”
 
-# “Lo sai cosa sono?”
+“Lo sai cosa sono?”
 
 “No.”
 
@@ -7111,7 +7111,7 @@ Lawson aggrottò la fronte, cercando di decifrare la firma presente sul promemor
 
 “Niente di ciò che ti aspetteresti”, disse Guy. “Il nome è Murphy… F. X. Murphy.”
 
-# “A cosa serve X?”
+“A cosa serve X?”
 
 “Xavier,” disse brevemente Guy.
 
@@ -7184,7 +7184,7 @@ It was Arthur Lawson’s turn to pause.
 
 McAuley smiled again, because he did not like it. They went together into the next room, and Lawson listened carefully. McAuley rang up the Home Office.
 
-“Is Mr. Williams in? . . . He is? . . . Will you ask him to come to the telephone to speak to Mr. McAuley a minute — Mr. James McAuley.” J. waited patiently, smiling up once again at the stern face above him, but got no answering smile, nor any word. Then the [[Machine|machine]] went on again. “Eh? Is that you, Jack? There’s Mr. Arthur Lawson — ye know Mr. Arthur Lawson — he’s wanting to come and see ye about that matter of ours. . . . No, no . . . he’ll not be waiting, he’s on his way now — he asked me to let you know. . . . No, no, ye must be there. . . . I tell ye, man, it’s necessary, absolutely necessary. . . . Well, yes, that’s it — ye’ll understand when ye see him, and ye won’t be sorry ye’ve done as I bid ye. He’ll be with you now. . . . No, he’s not with me — he’ll be on his way to you.” He put up the receiver.
+“Is Mr. Williams in? . . . He is? . . . Will you ask him to come to the telephone to speak to Mr. McAuley a minute — Mr. James McAuley.” J. waited patiently, smiling up once again at the stern face above him, but got no answering smile, nor any word. Then the [[motifs/machine|machine]] went on again. “Eh? Is that you, Jack? There’s Mr. Arthur Lawson — ye know Mr. Arthur Lawson — he’s wanting to come and see ye about that matter of ours. . . . No, no . . . he’ll not be waiting, he’s on his way now — he asked me to let you know. . . . No, no, ye must be there. . . . I tell ye, man, it’s necessary, absolutely necessary. . . . Well, yes, that’s it — ye’ll understand when ye see him, and ye won’t be sorry ye’ve done as I bid ye. He’ll be with you now. . . . No, he’s not with me — he’ll be on his way to you.” He put up the receiver.
 
 How even a financier may become an anti-Semite.
 
@@ -7203,7 +7203,7 @@ A lesser man might have expected that McAuley would forewarn and arm his partner
 
 <span class="qlang-split" data-lang="it"></span>
 
-# XVII
+XVII
 
 All’ora prestabilita, le dieci di quella mattina di martedì, Arthur Lawson apparve nell’appartamento di James McAuley e fu accompagnato nel suo studio. Fu un momento importante per J.: lui era una figura importante nel suo ambiente, ma Lawson era come una montagna rispetto a lui; e secondo gli standard che per McAuley rappresentavano l’unico criterio valido nell’universo – standard che per Lawson non valevano più della polvere, e che egli disprezzava tanto quanto tutti coloro che li seguivano – Lawson era, agli occhi di McAuley, un uomo da venerare, un uomo che necessariamente possedeva poteri quasi illimitati.
 
@@ -7233,7 +7233,7 @@ Fu il turno di Arthur Lawson di fare una pausa.
 
 McAuley sorrise di nuovo, perché non gli piaceva quella situazione. Entrarono insieme nella stanza accanto, e Lawson ascoltò attentamente mentre McAuley chiamava il Ministero dell’Interno.
 
-“Il signor Williams è in casa?. Sì, è qui? Potrebbe chiedergli di venire al telefono per parlare un attimo con il signor McAuley. Il signor James McAuley.” J. aspettò pazientemente, sorridendo ancora una volta verso quel volto serio sopra di lui, ma non ricevette né un sorriso in risposta né una parola. Poi la [[Machine|macchina]] ricominciò a funzionare. “Eh? Sei tu, Jack? C’è il signor Arthur Lawson, sai, il signor Arthur Lawson, vuole parlarti di quella questione nostra. No, non aspetterà, è già in viaggio. Mi ha chiesto di avvisarti. Devi essere lì. Te lo dico, è assolutamente necessario. Bene, sì, è tutto. Capirai quando lo incontrerai e non rimpiangerai di aver fatto come ti ho detto. Sarà con te adesso. No, non è con me. Sta venendo da te.” Riattaccò il ricevitore.
+“Il signor Williams è in casa?. Sì, è qui? Potrebbe chiedergli di venire al telefono per parlare un attimo con il signor McAuley. Il signor James McAuley.” J. aspettò pazientemente, sorridendo ancora una volta verso quel volto serio sopra di lui, ma non ricevette né un sorriso in risposta né una parola. Poi la [[motifs/machine|macchina]] ricominciò a funzionare. “Eh? Sei tu, Jack? C’è il signor Arthur Lawson, sai, il signor Arthur Lawson, vuole parlarti di quella questione nostra. No, non aspetterà, è già in viaggio. Mi ha chiesto di avvisarti. Devi essere lì. Te lo dico, è assolutamente necessario. Bene, sì, è tutto. Capirai quando lo incontrerai e non rimpiangerai di aver fatto come ti ho detto. Sarà con te adesso. No, non è con me. Sta venendo da te.” Riattaccò il ricevitore.
 
 Come anche un finanziere possa diventare antisemita.
 
@@ -7613,7 +7613,7 @@ Arthur Lawson estrasse lentamente e con cura il contenuto di entrambe le buste, 
 
 Onesto Jack Williams non tornò a casa quella notte fino a molto dopo le due. Lungo il tragitto, in un taxi che lo portava con ritardo, ripeteva continuamente tra sé le parole di Arthur Lawson: “Ho prove”. Mentre entrava in casa in punta di piedi per non svegliare sua moglie e chiudeva la porta molto silenziosamente, gli balenò nella mente un terribile dubbio. La prima cosa che fece fu andare subito nella stanza accanto, dove si trovava il piccolo armadietto con le fotografie e le copie autentiche. Accese la luce. L’armadietto sul muro di fronte era completamente aperto, ed era vuoto.
 
-# XVIII
+XVIII
 
 Intorno alle nove e quindici del mattino seguente, venerdì, Arthur Lawson stava scrivendo un promemoria su una cartolina, suddividendolo in due o tre sottocapitoli.
 
@@ -7638,7 +7638,7 @@ Arthur Lawson trascorse quei pochi minuti in attesa dell’arrivo di Halterton c
 <span class="atom-split" data-atom="part--part_56" data-title="The Postmaster General (part 56)" data-chapter="part 56" data-kind="excerpt" data-tags="setting/london"></span>
 
 
-“Thank you,” said Lawson. And as though he had not the best memory in [[London]], he solemnly pulled out his card again and jotted down “10.30, or as soon after as possible,” after the word “villain.” Five minutes later Mr. Halterton, who had whizzed through the Park, was announced.
+“Thank you,” said Lawson. And as though he had not the best memory in [[settings/london|London]], he solemnly pulled out his card again and jotted down “10.30, or as soon after as possible,” after the word “villain.” Five minutes later Mr. Halterton, who had whizzed through the Park, was announced.
 
 * * *
 
@@ -7687,7 +7687,7 @@ The messenger went out, and Honest Jack Williams with his strict regard for trut
 
 <span class="qlang-split" data-lang="it"></span>
 
-“Grazie,” disse Lawson. E come se non avesse la memoria migliore di [[London|Londra]], tirò fuori di nuovo la sua carta e scrisse seriamente “10:30, o il prima possibile”, dopo la parola “villano”. Cinque minuti dopo fu annunciato il signor Halterton, che era appena passato veloce attraverso il Parco.
+“Grazie,” disse Lawson. E come se non avesse la memoria migliore di [[settings/london|Londra]], tirò fuori di nuovo la sua carta e scrisse seriamente “10:30, o il prima possibile”, dopo la parola “villano”. Cinque minuti dopo fu annunciato il signor Halterton, che era appena passato veloce attraverso il Parco.
 
 * * *
 

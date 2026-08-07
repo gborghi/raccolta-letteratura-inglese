@@ -27,7 +27,7 @@ tags:
   - setting/the_court
 ---
 
-*by Poe*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
+*by Poe*  ·  **Cluster:** [[clusters/blood-·-verse-drama-·-revenge|Blood · Verse Drama · Revenge]]
 
 > [!abstract] 
 > Tale of an abused dwarf jester who exacts fiery revenge on a cruel king and his courtiers at a masquerade.
@@ -48,12 +48,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Archetypes:** [[Tyrant]], [[Fool]], [[Trickster]], [[Avenger]]
-**Motifs:** [[Fire]], [[Concealment Hidden Identity]], [[Wine and Drink]], [[Animals]], [[Madness (2)]]
-**Themes & Concepts:** [[Revenge]], [[Power and Corruption]], [[Justice Right and Wrong]], [[Terror and Horror]], [[Alienation]], [[Grotesque]]
-**Forms & Genres:** [[Short Story]]
-**Settings:** [[Court]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]], [[archetypes/fool|Fool]], [[archetypes/trickster|Trickster]], [[archetypes/avenger|Avenger]]
+**Motifs:** [[motifs/fire|Fire]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/animals|Animals]], [[motifs/madness-(2)|Madness (2)]]
+**Themes & Concepts:** [[concepts/revenge|Revenge]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/alienation|Alienation]], [[concepts/grotesque|Grotesque]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
+**Settings:** [[settings/court|Court]]
 
 ## Testo integrale / Full text
 

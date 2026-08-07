@@ -21,18 +21,18 @@ tags:
   - form/free_verse
 ---
 
-*by Eliot*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
+*by Eliot*  ·  **Cluster:** [[clusters/identity-·-free-verse-·-eternal-return|Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > Second Quartet: 'In my beginning is my end', houses rise and fall, rustic dancers long under earth, humility and the dark; mutability, faith, eternal return.
 
 ## Connections
 
-**Topoi:** [[Eternal Return]], [[Memento Mori]]
-**Motifs:** [[Death]], [[Decay]], [[Dust]], [[Marriage]]
-**Themes & Concepts:** [[Memory and Time]], [[Transience]], [[Humility]], [[Faith]]
-**Forms & Genres:** [[Free Verse]]
-**Settings:** [[Rural England]]
+**Topoi:** [[topoi/eternal-return|Eternal Return]], [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/death|Death]], [[motifs/decay|Decay]], [[motifs/dust|Dust]], [[motifs/marriage|Marriage]]
+**Themes & Concepts:** [[concepts/memory-and-time|Memory and Time]], [[concepts/transience|Transience]], [[concepts/humility|Humility]], [[concepts/faith|Faith]]
+**Forms & Genres:** [[forms/free-verse|Free Verse]]
+**Settings:** [[settings/rural-england|Rural England]]
 
 ## Testo integrale / Full text
 

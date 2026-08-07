@@ -32,7 +32,7 @@ tags:
   - setting/industrial_city
 ---
 
-*by Dickens*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Dickens*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > Despite the filename, this Markdown contains Dickens's 'The Mudfog and Other Sketches' — comic satirical sketches (Mr. Tulrumble of Mudfog, the Mudfog Association for the Advancement of Everything, The Pantomime of Life). Central matter: satire of provincial officialdom, pseudo-scientific learned societies, and the new railway age, in a parodic-journalistic prose form.
@@ -48,13 +48,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]], [[Theatrum Mundi]]
-**Archetypes:** [[Fool]], [[Corrupt Official]]
-**Motifs:** [[Concealment Hidden Identity]], [[Road]], [[Horse]], [[Inn Tavern]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Anti-Industrialism]], [[Nostalgia]], [[Pride]], [[Appearance vs Reality]], [[Grotesque]], [[Common Man]], [[Economics]]
-**Forms & Genres:** [[Satire]], [[Parody]], [[Short Story]]
-**Historical References:** [[Industrial Revolution]], [[Regency Georgian England]]
-**Settings:** [[Industrial City]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/theatrum-mundi|Theatrum Mundi]]
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/corrupt-official|Corrupt Official]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/road|Road]], [[motifs/horse|Horse]], [[motifs/inn-tavern|Inn Tavern]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/nostalgia|Nostalgia]], [[concepts/pride|Pride]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/grotesque|Grotesque]], [[concepts/common-man|Common Man]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/parody|Parody]], [[forms/short-story|Short Story]]
+**Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/industrial-city|Industrial City]]
 
 ## Testo integrale / Full text
 

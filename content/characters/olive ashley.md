@@ -14,4 +14,10 @@ A young medievalist painter and playwright whose amateur pageant of 'Blondel the
 
 <div class="concept-works" data-slug="characters/olive-ashley"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/don-quixote-(chesterton)|Don Quixote (Chesterton)]]
+
+</div>
+
 #graph/character

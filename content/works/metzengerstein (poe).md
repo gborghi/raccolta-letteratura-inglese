@@ -27,7 +27,7 @@ tags:
   - setting/the_castle
 ---
 
-*by Poe*  ·  **Cluster:** [[Supernatural · Uncanny · Double]]
+*by Poe*  ·  **Cluster:** [[clusters/supernatural-·-uncanny-·-double|Supernatural · Uncanny · Double]]
 
 > [!abstract] 
 > Gothic horror tale of feuding Hungarian houses and metempsychosis: a demonic horse embodying a dead rival drives the dissolute young Baron to a fiery, fated doom.
@@ -48,12 +48,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Eternal Return]], [[Double]]
-**Archetypes:** [[Satanic Figure]], [[Double Doppelganger]], [[Avenger]]
-**Motifs:** [[Horse]], [[Fire]], [[Death]], [[Supernatural]], [[Eyes and Sight]]
-**Themes & Concepts:** [[Fate and Free Will]], [[Terror and Horror]], [[Uncanny]], [[Pride]], [[Power and Corruption]]
-**Forms & Genres:** [[Gothic Novel]], [[Short Story]]
-**Settings:** [[Castle]]
+**Topoi:** [[topoi/eternal-return|Eternal Return]], [[topoi/double|Double]]
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/avenger|Avenger]]
+**Motifs:** [[motifs/horse|Horse]], [[motifs/fire|Fire]], [[motifs/death|Death]], [[motifs/supernatural|Supernatural]], [[motifs/eyes-and-sight|Eyes and Sight]]
+**Themes & Concepts:** [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/uncanny|Uncanny]], [[concepts/pride|Pride]], [[concepts/power-and-corruption|Power and Corruption]]
+**Forms & Genres:** [[forms/gothic-novel|Gothic Novel]], [[forms/short-story|Short Story]]
+**Settings:** [[settings/castle|Castle]]
 
 ## Testo integrale / Full text
 

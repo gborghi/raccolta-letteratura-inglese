@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/geoffrey-haredale"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/barnaby-rudge-(dickens)|Barnaby Rudge (Dickens)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ The essay's closing argument that true, unprejudiced agnosticism -- as opposed t
 
 <div class="concept-works" data-slug="concepts/agnosticism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/on-darwinism-and-mystery-(chesterton)|On Darwinism and Mystery (Chesterton)]]
+
+</div>
+
 #graph/concept

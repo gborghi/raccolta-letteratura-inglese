@@ -27,16 +27,16 @@ tags:
   - archetype/villain
   - archetype/damsel
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Detective Fiction · Ratiocination Detection · Crime and Punishment]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/detective-fiction-·-ratiocination-detection-·-crime-and-punishment|Detective Fiction · Ratiocination Detection · Crime and Punishment]]
 
 > [!abstract] 
 > Doyle's own 1910 stage adaptation of his celebrated short story: an inquest into the terrified death of Violet Stonor opens the play, and Holmes and Watson must save her sister Enid from their menacing stepfather Dr. Rylott, whose greed for a dwindling inheritance has armed him with a deadly trained snake.
 
 ## Connections
 
-**Forms & Genres:** [[Detective Fiction]], [[Melodrama]]
-**Themes & Concepts:** [[Crime and Punishment]], [[Justice Right and Wrong]], [[Greed and Money]], [[Fear]], [[Power and Corruption]], [[Economics]]
-**Motifs:** [[Serpent Snake]], [[Great House]], [[Night]]
-**Settings:** [[Rural England]]
-**Characters:** [[Sherlock Holmes]], [[Doctor Watson]], [[Dr. Rylott]], [[Enid Stonor]]
-**Archetypes:** [[Detective]], [[Villain]], [[Damsel]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/melodrama|Melodrama]]
+**Themes & Concepts:** [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/greed-and-money|Greed and Money]], [[concepts/fear|Fear]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/serpent-snake|Serpent Snake]], [[motifs/great-house|Great House]], [[motifs/night|Night]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]], [[characters/dr.-rylott|Dr. Rylott]], [[characters/enid-stonor|Enid Stonor]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]], [[archetypes/damsel|Damsel]]

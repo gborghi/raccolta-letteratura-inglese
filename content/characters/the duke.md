@@ -14,4 +14,10 @@ The wealthy, amiably absent-minded aristocrat and guardian of Patricia and Morri
 
 <div class="concept-works" data-slug="characters/the-duke"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/magic-(chesterton)|Magic (Chesterton)]]
+
+</div>
+
 #graph/character

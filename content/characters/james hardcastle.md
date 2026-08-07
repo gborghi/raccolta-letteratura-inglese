@@ -14,4 +14,10 @@ The polished politician in 'The Red Moon of Meru' who stages a mystical vanishin
 
 <div class="concept-works" data-slug="characters/james-hardcastle"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/secret-fr-brown-(chesterton)|secret Fr Brown (Chesterton)]]
+
+</div>
+
 #graph/character

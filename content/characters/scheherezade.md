@@ -14,4 +14,10 @@ The storyteller of the Arabian Nights who nightly postpones her execution with a
 
 <div class="concept-works" data-slug="characters/scheherezade"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/spice-of-life-(chesterton)|Spice Of Life (Chesterton)]]
+
+</div>
+
 #graph/character

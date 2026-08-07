@@ -14,4 +14,10 @@ Analyzed at length (legitimacy vs power) across 'The Return of Caesar', 'The Cas
 
 <div class="concept-works" data-slug="concepts/fascism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/well-and-shallows-(chesterton)|Well And Shallows (Chesterton)]]
+
+</div>
+
 #graph/concept

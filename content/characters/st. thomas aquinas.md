@@ -14,4 +14,10 @@ Medieval scholastic theologian invoked by name as the mocked symbol of the syllo
 
 <div class="concept-works" data-slug="characters/st.-thomas-aquinas"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/logic-(chesterton)|logic (Chesterton)]]
+
+</div>
+
 #graph/character

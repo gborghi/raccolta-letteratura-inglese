@@ -30,7 +30,7 @@ tags:
 
 # logic
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A witty essay defending medieval scholastic logic against modern muddled journalism, arguing that thought means disentangling means from ends ('Tennis was made for Man, not Man for Tennis').
@@ -49,13 +49,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Common Man (2)]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Characters:** [[Tilden]], [[St. Thomas Aquinas]]
+**Characters:** [[characters/tilden|Tilden]], [[characters/st.-thomas-aquinas|St. Thomas Aquinas]]
 
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Truth]], [[Paradox]], [[Common Man]], [[Nationalism and Patriotism]], [[Power of Language]], [[History]]
-**Forms & Genres:** [[Essay]], [[Aphorism]], [[Apologetics]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Bible]], [[Ancient Greece]], [[Scholasticism]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/truth|Truth]], [[concepts/paradox|Paradox]], [[concepts/common-man|Common Man]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/power-of-language|Power of Language]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/aphorism|Aphorism]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/ancient-greece|Ancient Greece]], [[historical-references/scholasticism|Scholasticism]]
 
 ## Testo integrale / Full text
 

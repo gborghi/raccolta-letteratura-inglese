@@ -18,18 +18,18 @@ tags:
   - motif/storm
 ---
 
-*by Eliot*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
+*by Eliot*  ·  **Cluster:** [[clusters/allegory-·-quest-·-pilgrim|Allegory · Quest · Pilgrim]]
 
 > [!abstract] 
 > Final section: the waterless rock journey, the hooded figure on the road to Emmaus, the empty chapel, falling cities and the thunder's Datta/Dayadhvam/Damyata; quest, redemption sought, drought and fragments shored against ruin.
 
 ## Connections
 
-**Topoi:** [[Quest]]
-**Motifs:** [[Water]], [[Road]], [[Storm]]
-**Themes & Concepts:** [[Waste Land (Sterility)]], [[Grace and Redemption]]
-**Historical References:** [[Eastern Religion Comparative Religion]], [[Grail Legend]]
-**Characters:** [[Christ]]
+**Topoi:** [[topoi/quest|Quest]]
+**Motifs:** [[motifs/water|Water]], [[motifs/road|Road]], [[motifs/storm|Storm]]
+**Themes & Concepts:** [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/grace-and-redemption|Grace and Redemption]]
+**Historical References:** [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]], [[historical-references/grail-legend|Grail Legend]]
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

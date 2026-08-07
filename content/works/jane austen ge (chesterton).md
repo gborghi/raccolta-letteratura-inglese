@@ -33,7 +33,7 @@ tags:
   - histref/mussolini_and_italian_fascism
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > A satirical essay defending Jane Austen as a shrewd psychologist, using Wickham's plausible lying to skewer modern professional politicians and journalism.
@@ -52,15 +52,15 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Regency Georgian England]], [[Mussolini and Italian Fascism]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/mussolini-and-italian-fascism|Mussolini and Italian Fascism]]
 
-**Motifs:** [[Marriage]]
+**Motifs:** [[motifs/marriage|Marriage]]
 
-**Characters:** [[Mr Wickham]], [[Elizabeth Bennet]], [[Mr Darcy]], [[Jane Bennet]], [[Lydia Bennet]], [[Emma Woodhouse]]
+**Characters:** [[characters/mr-wickham|Mr Wickham]], [[characters/elizabeth-bennet|Elizabeth Bennet]], [[characters/mr-darcy|Mr Darcy]], [[characters/jane-bennet|Jane Bennet]], [[characters/lydia-bennet|Lydia Bennet]], [[characters/emma-woodhouse|Emma Woodhouse]]
 
-**Archetypes:** [[Corrupt Official]], [[Trickster]], [[Tyrant]]
-**Themes & Concepts:** [[Satire of Society]], [[Deception]], [[Appearance vs Reality]], [[Power and Corruption]], [[Truth]], [[Democracy]], [[Power of Language]], [[Feminism and the New Woman]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Satire]], [[Nonfiction]]
+**Archetypes:** [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/trickster|Trickster]], [[archetypes/tyrant|Tyrant]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/truth|Truth]], [[concepts/democracy|Democracy]], [[concepts/power-of-language|Power of Language]], [[concepts/feminism-and-the-new-woman|Feminism and the New Woman]]
+**Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

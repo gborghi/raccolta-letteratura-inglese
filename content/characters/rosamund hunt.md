@@ -14,4 +14,10 @@ A wealthy, high-spirited widow lodger courted and eventually won by Michael Moon
 
 <div class="concept-works" data-slug="characters/rosamund-hunt"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/manalive-(chesterton)|manalive (Chesterton)]]
+
+</div>
+
 #graph/character

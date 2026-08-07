@@ -38,16 +38,16 @@ tags:
 
 Raccolta tematica di 10 componimenti di Samuel Taylor Coleridge.
 
-- [[ARGUMENT. (Coleridge)|ARGUMENT.]]
-- [[KOSKIUSKO (Coleridge)|KOSKIUSKO]]
-- [[LITERAL TRANSLATION. (Coleridge)|LITERAL TRANSLATION.]]
-- [[MOTTO FOR A TRANSPARENCY (Coleridge)|MOTTO FOR A TRANSPARENCY]]
-- [[ORIGINAL POETRY. (Coleridge)|ORIGINAL POETRY.]]
-- [[THE BRITISH STRIPLING’S WAR-SONG IMITATED FROM STOLBERG (Coleridge)|THE BRITISH STRIPLING’S WAR-SONG IMITATED FROM STOLBERG]]
-- [[TO EARL STANHOPE (Coleridge)|TO EARL STANHOPE]]
-- [[TO LORD STANHOPE (Coleridge)|TO LORD STANHOPE]]
-- [[TO THE HONOURABLE MR. ERSKINE (Coleridge)|TO THE HONOURABLE MR. ERSKINE]]
-- [[VERSES ADDRESSED TO J. HORNE TOOKE AND THE COMPANY WHO MET ON JUNE 28TH, 1796, (Coleridge)|VERSES: ADDRESSED TO J. HORNE TOOKE AND THE COMPANY WHO MET ON JUNE 28TH, 1796,]]
+- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#149_argument_1|ARGUMENT.]]
+- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#086_koskiusko|KOSKIUSKO]]
+- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#112_literal_translation|LITERAL TRANSLATION.]]
+- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#352_motto_for_a_transparency|MOTTO FOR A TRANSPARENCY]]
+- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#148_original_poetry|ORIGINAL POETRY.]]
+- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#176_the_british_striplings_war-song_imitated_from_stolberg|THE BRITISH STRIPLING’S WAR-SONG IMITATED FROM STOLBERG]]
+- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#094_to_earl_stanhope|TO EARL STANHOPE]]
+- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#093_to_lord_stanhope|TO LORD STANHOPE]]
+- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#082_to_the_honourable_mr_erskine|TO THE HONOURABLE MR. ERSKINE]]
+- [[testi/coleridge/atomized/nationalism-and-patriotism-democracy-liberty-political#116_verses_addressed_to_j_horne_tooke_and_the_company_who_met_on_june_28th_1796|VERSES: ADDRESSED TO J. HORNE TOOKE AND THE COMPANY WHO MET ON JUNE 28TH, 1796,]]
 
 ## Testo / Text
 

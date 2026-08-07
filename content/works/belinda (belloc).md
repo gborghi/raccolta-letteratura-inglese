@@ -30,7 +30,7 @@ tags:
   - topos/unattainable_beloved
   - topos/love_as_religion
 ---
-*by Belloc*  ·  **Cluster:** [[Satirical Novel · Politics and Finance · Edwardian England]]
+*by Belloc*  ·  **Cluster:** [[clusters/satirical-novel-·-politics-and-finance-·-edwardian-england|Satirical Novel · Politics and Finance · Edwardian England]]
 
 > [!abstract] 
 > A deliberate pastiche of the early-Victorian sentimental romance, telling of Belinda Montgomery, heiress of The Towers, and her love for the impoverished neighbour Horatio Maltravers, thwarted when her father presses a wealthier suitor. Belloc mimics the archaic diction, moral tableaux and mannered pathos of the genre with affectionate irony.
@@ -72,10 +72,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]], [[Parody]], [[Satire]]
-**Themes & Concepts:** [[Romantic Love]], [[Marriage and Fidelity]], [[Class Conflict]], [[Sentimentality]], [[Appearance vs Reality]], [[Faith]], [[Economics]]
-**Motifs:** [[Garden]], [[River]], [[Love]], [[Marriage]], [[Great House]]
-**Historical References:** [[Victorian England]], [[Regency Georgian England]]
-**Settings:** [[Rural England]]
-**Archetypes:** [[Lover]], [[Damsel]]
-**Topoi:** [[Unattainable Beloved]], [[Love as Religion]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/parody|Parody]], [[forms/satire|Satire]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/class-conflict|Class Conflict]], [[concepts/sentimentality|Sentimentality]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/faith|Faith]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/garden|Garden]], [[motifs/river|River]], [[motifs/love|Love]], [[motifs/marriage|Marriage]], [[motifs/great-house|Great House]]
+**Historical References:** [[historical-references/victorian-england|Victorian England]], [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/damsel|Damsel]]
+**Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/love-as-religion|Love as Religion]]

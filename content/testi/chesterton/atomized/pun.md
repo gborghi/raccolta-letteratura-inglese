@@ -29,7 +29,7 @@ still further something that is grossly exaggerated already.
 The spirit of the age always means taking the crinolines that are
 already inconvenient and widening them till they become impossible.
 But if anyone wants a good minor example he could hardly find
-a better one than the ancient and often barbaric kind of [[Humour|humour]]
+a better one than the ancient and often barbaric kind of humour
 that goes by the name of the pun.
 
 For the pun has two distinct functions; a rare function,
@@ -42,14 +42,14 @@ people something like what sport is to simpler people;
 it was a permanent open competition, free but yet formal lists
 in which young men could win their spurs.
 
-Wit, which is in this sense warlike (as compared with [[Humour|humour]],
+Wit, which is in this sense warlike (as compared with humour,
 which may be accidental or even partly unconscious), must
 of necessity tend to fixed and perhaps even pedantic forms
 of flippancy.  Capping verses, retorting in rhymed couplets,
 making anagrams or acrostics on any chance word or phrase,
-fill all the social chronicles of that [[Time|time]].  Two eminent lawyers
+fill all the social chronicles of that [[motifs/time|time]].  Two eminent lawyers
 exchange rhymed epigrams instantaneously at a dinner table;
-[[Lamb]] is proud of having written impromptu a preposterous conceit
+[[motifs/lamb|Lamb]] is proud of having written impromptu a preposterous conceit
 about pink stockings; Douglas Jerrold goes about like some
 notorious duellist, always ready to impale somebody on a point.
 In this atmosphere it is not surprising that one of the most
@@ -57,21 +57,21 @@ popular entertainments should have been the fantastic yet
 precise one of punning.
 
 But though the wit was formal the fellowship was frank and uproarious.
-Many such men, from [[Lamb]] to Dickens, or from Sydney [[smith|Smith]] to Leigh Hunt,
-were men whose ingenuity had in it a certain poetry and elemental [[Humour|humour]].
+Many such men, from [[motifs/lamb|Lamb]] to Dickens, or from Sydney Smith to Leigh Hunt,
+were men whose ingenuity had in it a certain poetry and elemental humour.
 Hence followed what must always follow when high spirited people
 are playing a game with rules.  The limitations are enjoyed,
 but the limitations are strained to their utmost, each player is
 proud of getting a preposterous exception just inside the rule.
 The laughter was highest when the shot was wildest; and in this
-atmosphere arose the cardinal maxim of Charles [[Lamb]], "that the worst pun
+atmosphere arose the cardinal maxim of Charles [[motifs/lamb|Lamb]], "that the worst pun
 is the best". It was the aim of the ideal punster that people should
 admire his ingenuity but in the same breath somewhat damn his impudence.
 This first sort of punning in pure high spirits was indeed a fashion,
-like singing at the dinner table.  We may be permitted a partial [[Fear|fear]]
+like singing at the dinner table.  We may be permitted a partial [[concepts/fear|fear]]
 that in ceasing to sing at the dinner table too many people have
 ceased to sing altogether, and we may be disposed to warn ourselves
-and each other against losing the good spirits as [[Well|well]] as the bad
+and each other against losing the good spirits as [[motifs/well|well]] as the bad
 puns of our fathers.
 
 In a primary sense puns are a perfect type of literary art.
@@ -85,7 +85,7 @@ and the third is the pun.  Let us take, for the sake of argument,
 the simile first.
 
 Suppose a man criticising the current journalistic system wrote
-as follows:  "When we speak of the [[Freedom|freedom]] of the Press we should remember
+as follows:  "When we speak of the [[concepts/freedom|freedom]] of the Press we should remember
 that the individual Pressman writes under considerable restrictions in
 the form of his work, and still more in the bias he is bound to assume."
 That expresses a very vivid fact, but it does not, perhaps, express it
@@ -102,7 +102,7 @@ But it would not have the special sort of ringing energy and emphasis
 of a couplet to the same effect:
 
 Yet let me flap this bug with gilded wings,
-This painted [[Child|child]] of dirt that stinks and stings.
+This painted [[archetypes/child|child]] of dirt that stinks and stings.
 
 This is in one way a specially good example, because it shows
 the proximity of assonance to other verbal tricks.  If wings and stings
@@ -112,8 +112,8 @@ we note first of all this use of the pun in sharpening and clinching
 a thought.  Suppose (to adopt the same method) that Hood,
 writing a journalistic report of one of the last duels, had written:
 "Both principals fired in the air; and we cannot too strongly
-express our [[Hope|hope]] that those who think it incumbent on them to use
-this old form of [[Self|self]]-vindication, may imitate such a sensible
+express our [[concepts/hope|hope]] that those who think it incumbent on them to use
+this old form of [[concepts/self|self]]-vindication, may imitate such a sensible
 and humane interpretation of it."  That is sound enough;
 but it is a little laborious, and does not express either
 the detachment or the decision of such a critic of duelling.
@@ -128,22 +128,22 @@ Here the verbal jest, falling so ridiculously right,
 does express, not merely the humanity of the critic, but also his
 humorous impartiality and unruffled readiness of intellect.
 Or again, on the proposal to shut the Zoological Gardens
-on [[Sunday]], Hood might [[Well|well]] have written in some newspaper:
+on [[characters/sunday|Sunday]], Hood might [[motifs/well|well]] have written in some newspaper:
 "It is difficult to see where our Puritan legislators draw the line
 in natural pleasures; they forbid the sight of God's works when they
 are animal, yet they cannot forbid them when they are vegetable
 or mineral."  That is rational but it has the note of plea.
 What is wanted for such fanatacisms is the note of scorn;
-and you get it with the [[Double|double]] ring of a real argument and
+and you get it with the [[topoi/double|double]] ring of a real argument and
 a verbal gibe:
 
 Once let the sect triumphant to their text
 Shut Nero up from Saturday till Monday;
 And sure as fate they will deny us next
-To see the dandelions on a [[Sunday]].
+To see the dandelions on a [[characters/sunday|Sunday]].
 
-That is the literary use of the trick, and is poetic as [[Well|well]] as pointed:
-a landscape as [[Well|well]] as a trap.
+That is the literary use of the trick, and is poetic as [[motifs/well|well]] as pointed:
+a landscape as [[motifs/well|well]] as a trap.
 
 (from The Daily News, 1911 reprinted in Lunacy + Letters.)
 
@@ -168,7 +168,7 @@ still further something that is grossly exaggerated already.
 The spirit of the age always means taking the crinolines that are
 already inconvenient and widening them till they become impossible.
 But if anyone wants a good minor example he could hardly find
-a better one than the ancient and often barbaric kind of [[Humour|humour]]
+a better one than the ancient and often barbaric kind of humour
 that goes by the name of the pun.
 
 For the pun has two distinct functions; a rare function,
@@ -181,14 +181,14 @@ people something like what sport is to simpler people;
 it was a permanent open competition, free but yet formal lists
 in which young men could win their spurs.
 
-Wit, which is in this sense warlike (as compared with [[Humour|humour]],
+Wit, which is in this sense warlike (as compared with humour,
 which may be accidental or even partly unconscious), must
 of necessity tend to fixed and perhaps even pedantic forms
 of flippancy.  Capping verses, retorting in rhymed couplets,
 making anagrams or acrostics on any chance word or phrase,
-fill all the social chronicles of that [[Time|time]].  Two eminent lawyers
+fill all the social chronicles of that [[motifs/time|time]].  Two eminent lawyers
 exchange rhymed epigrams instantaneously at a dinner table;
-[[Lamb]] is proud of having written impromptu a preposterous conceit
+[[motifs/lamb|Lamb]] is proud of having written impromptu a preposterous conceit
 about pink stockings; Douglas Jerrold goes about like some
 notorious duellist, always ready to impale somebody on a point.
 In this atmosphere it is not surprising that one of the most
@@ -196,21 +196,21 @@ popular entertainments should have been the fantastic yet
 precise one of punning.
 
 But though the wit was formal the fellowship was frank and uproarious.
-Many such men, from [[Lamb]] to Dickens, or from Sydney [[smith|Smith]] to Leigh Hunt,
-were men whose ingenuity had in it a certain poetry and elemental [[Humour|humour]].
+Many such men, from [[motifs/lamb|Lamb]] to Dickens, or from Sydney Smith to Leigh Hunt,
+were men whose ingenuity had in it a certain poetry and elemental humour.
 Hence followed what must always follow when high spirited people
 are playing a game with rules.  The limitations are enjoyed,
 but the limitations are strained to their utmost, each player is
 proud of getting a preposterous exception just inside the rule.
 The laughter was highest when the shot was wildest; and in this
-atmosphere arose the cardinal maxim of Charles [[Lamb]], "that the worst pun
+atmosphere arose the cardinal maxim of Charles [[motifs/lamb|Lamb]], "that the worst pun
 is the best". It was the aim of the ideal punster that people should
 admire his ingenuity but in the same breath somewhat damn his impudence.
 This first sort of punning in pure high spirits was indeed a fashion,
-like singing at the dinner table.  We may be permitted a partial [[Fear|fear]]
+like singing at the dinner table.  We may be permitted a partial [[concepts/fear|fear]]
 that in ceasing to sing at the dinner table too many people have
 ceased to sing altogether, and we may be disposed to warn ourselves
-and each other against losing the good spirits as [[Well|well]] as the bad
+and each other against losing the good spirits as [[motifs/well|well]] as the bad
 puns of our fathers.
 
 In a primary sense puns are a perfect type of literary art.
@@ -224,7 +224,7 @@ and the third is the pun.  Let us take, for the sake of argument,
 the simile first.
 
 Suppose a man criticising the current journalistic system wrote
-as follows:  "When we speak of the [[Freedom|freedom]] of the Press we should remember
+as follows:  "When we speak of the [[concepts/freedom|freedom]] of the Press we should remember
 that the individual Pressman writes under considerable restrictions in
 the form of his work, and still more in the bias he is bound to assume."
 That expresses a very vivid fact, but it does not, perhaps, express it
@@ -241,7 +241,7 @@ But it would not have the special sort of ringing energy and emphasis
 of a couplet to the same effect:
 
 Yet let me flap this bug with gilded wings,
-This painted [[Child|child]] of dirt that stinks and stings.
+This painted [[archetypes/child|child]] of dirt that stinks and stings.
 
 This is in one way a specially good example, because it shows
 the proximity of assonance to other verbal tricks.  If wings and stings
@@ -251,8 +251,8 @@ we note first of all this use of the pun in sharpening and clinching
 a thought.  Suppose (to adopt the same method) that Hood,
 writing a journalistic report of one of the last duels, had written:
 "Both principals fired in the air; and we cannot too strongly
-express our [[Hope|hope]] that those who think it incumbent on them to use
-this old form of [[Self|self]]-vindication, may imitate such a sensible
+express our [[concepts/hope|hope]] that those who think it incumbent on them to use
+this old form of [[concepts/self|self]]-vindication, may imitate such a sensible
 and humane interpretation of it."  That is sound enough;
 but it is a little laborious, and does not express either
 the detachment or the decision of such a critic of duelling.
@@ -281,7 +281,7 @@ ancor di più qualcosa che è già grossolanamente esagerato.
 Lo spirito del tempo significa sempre prendere le crinoline che sono
 già scomode e allargarle finché diventino impossibili.
 Ma se qualcuno vuole un buon esempio minore, difficilmente ne potrebbe trovare
-uno migliore di quell'antica e spesso barbara specie di [[Humour|umorismo]]
+uno migliore di quell'antica e spesso barbara specie di umorismo
 che va sotto il nome di bisticcio.
 
 Poiché il bisticcio ha due funzioni distinte; una funzione rara,
@@ -294,14 +294,14 @@ intellettuali qualcosa di simile a ciò che lo sport è per la gente più sempli
 era una permanente competizione aperta, uno steccato libero eppure formale
 in cui i giovani potevano guadagnarsi gli speroni.
 
-L'arguzia, che è in questo senso guerresca (a paragone dell'[[Humour|umorismo]],
+L'arguzia, che è in questo senso guerresca (a paragone dell'umorismo,
 che può essere accidentale o persino in parte inconsapevole), deve
 per necessità tendere a forme fisse e forse persino pedantesche
 di leggerezza.  Il completare versi, il ribattere in distici rimati,
 il fare anagrammi o acrostici su una qualsiasi parola o frase casuale,
-riempiono tutte le cronache mondane di quel [[Time|tempo]].  Due eminenti giuristi
+riempiono tutte le cronache mondane di quel [[motifs/time|tempo]].  Due eminenti giuristi
 si scambiano epigrammi rimati all'istante a un tavolo da pranzo;
-[[Lamb]] è fiero d'aver scritto d'improvviso una preposterosa arguzia
+[[motifs/lamb|Lamb]] è fiero d'aver scritto d'improvviso una preposterosa arguzia
 sulle calze rosa; Douglas Jerrold va in giro come un
 noto duellante, sempre pronto a trafiggere qualcuno con una punta.
 In quest'atmosfera non sorprende che uno dei più
@@ -309,21 +309,21 @@ popolari intrattenimenti sia stato quello fantastico eppure
 preciso del bisticciare.
 
 Ma benché l'arguzia fosse formale, la cameratesca era franca e chiassosa.
-Molti di questi uomini, da [[Lamb]] a Dickens, o da Sydney [[smith|Smith]] a Leigh Hunt,
-erano uomini il cui ingegno recava in sé una certa poesia e un elementare [[Humour|umorismo]].
+Molti di questi uomini, da [[motifs/lamb|Lamb]] a Dickens, o da Sydney Smith a Leigh Hunt,
+erano uomini il cui ingegno recava in sé una certa poesia e un elementare umorismo.
 Di qui seguì ciò che deve sempre seguire quando persone di alto spirito
 giocano a un gioco con regole.  Le limitazioni sono godute,
 ma le limitazioni sono spinte al loro estremo, ciascun giocatore è
 fiero di ottenere una preposterosa eccezione appena entro la regola.
 La risata era più alta quando il tiro era più temerario; e in quest'
-atmosfera sorse la massima cardinale di Charles [[Lamb]], "che il peggior bisticcio
+atmosfera sorse la massima cardinale di Charles [[motifs/lamb|Lamb]], "che il peggior bisticcio
 è il migliore". Era la mira dell'ideale bisticciatore che la gente
 ammirasse il suo ingegno ma nel medesimo respiro alquanto maledicesse la sua sfrontatezza.
 Questa prima specie di bisticcio in puro alto spirito era in verità una moda,
-come il cantare a tavola.  Ci sia permesso un parziale [[Fear|timore]]
+come il cantare a tavola.  Ci sia permesso un parziale [[concepts/fear|timore]]
 che nel cessare di cantare a tavola troppa gente abbia
 cessato di cantare del tutto, e possiamo essere inclini a metterci in guardia
-l'un l'altro dal perdere i buoni umori così [[Well|come]] i cattivi
+l'un l'altro dal perdere i buoni umori così [[motifs/well|come]] i cattivi
 bisticci dei nostri padri.
 
 In un senso primario i bisticci sono un tipo perfetto di arte letteraria.
@@ -337,7 +337,7 @@ e la terza è il bisticcio.  Prendiamo, per amor di ragionamento,
 la similitudine per prima.
 
 Supponiamo che un uomo, criticando l'attuale sistema giornalistico, scrivesse
-così:  "Quando parliamo della [[Freedom|libertà]] della Stampa dovremmo ricordare
+così:  "Quando parliamo della [[concepts/freedom|libertà]] della Stampa dovremmo ricordare
 che il singolo giornalista scrive sotto notevoli restrizioni nella
 forma del suo lavoro, e ancor più nella parzialità che è costretto ad assumere."
 Ciò esprime un fatto assai vivido, ma non lo esprime, forse,
@@ -354,7 +354,7 @@ Ma ciò non avrebbe la speciale sorta di sonora energia ed enfasi
 di un distico dallo stesso effetto:
 
 Pur lasciate ch'io scacci questo insetto dalle ali dorate,
-questo dipinto [[Child|figlio]] del fango che fetido punge.
+questo dipinto [[archetypes/child|figlio]] del fango che fetido punge.
 
 Questo è per un verso un esempio particolarmente buono, perché mostra
 la prossimità dell'assonanza ad altri artifici verbali.  Se «wings» e «stings»
@@ -364,8 +364,8 @@ notiamo anzitutto quest'uso del bisticcio nell'aguzzare e inchiodare
 un pensiero.  Supponiamo (adottando il medesimo metodo) che Hood,
 scrivendo un resoconto giornalistico di uno degli ultimi duelli, avesse scritto:
 "Entrambi i contendenti spararono in aria; e non possiamo esprimere con troppa forza
-la nostra [[Hope|speranza]] che coloro i quali ritengano loro dovere ricorrere
-a questa vecchia forma di [[Self|auto]]difesa, possano imitare una così sensata
+la nostra [[concepts/hope|speranza]] che coloro i quali ritengano loro dovere ricorrere
+a questa vecchia forma di [[concepts/self|auto]]difesa, possano imitare una così sensata
 e umana interpretazione di essa."  Ciò è abbastanza fondato;
 ma è un po' laborioso, e non esprime né
 il distacco né la decisione di un simile critico del duello.
@@ -385,22 +385,22 @@ Here the verbal jest, falling so ridiculously right,
 does express, not merely the humanity of the critic, but also his
 humorous impartiality and unruffled readiness of intellect.
 Or again, on the proposal to shut the Zoological Gardens
-on [[Sunday]], Hood might [[Well|well]] have written in some newspaper:
+on [[characters/sunday|Sunday]], Hood might [[motifs/well|well]] have written in some newspaper:
 "It is difficult to see where our Puritan legislators draw the line
 in natural pleasures; they forbid the sight of God's works when they
 are animal, yet they cannot forbid them when they are vegetable
 or mineral."  That is rational but it has the note of plea.
 What is wanted for such fanatacisms is the note of scorn;
-and you get it with the [[Double|double]] ring of a real argument and
+and you get it with the [[topoi/double|double]] ring of a real argument and
 a verbal gibe:
 
 Once let the sect triumphant to their text
 Shut Nero up from Saturday till Monday;
 And sure as fate they will deny us next
-To see the dandelions on a [[Sunday]].
+To see the dandelions on a [[characters/sunday|Sunday]].
 
-That is the literary use of the trick, and is poetic as [[Well|well]] as pointed:
-a landscape as [[Well|well]] as a trap.
+That is the literary use of the trick, and is poetic as [[motifs/well|well]] as pointed:
+a landscape as [[motifs/well|well]] as a trap.
 
 (from The Daily News, 1911 reprinted in Lunacy + Letters.)
 
@@ -411,21 +411,21 @@ Qui il gioco di parole, cadendo così ridicolmente a proposito,
 esprime non soltanto l'umanità del critico, ma anche la sua
 umoristica imparzialità e l'imperturbabile prontezza d'ingegno.
 Oppure ancora, sulla proposta di chiudere i Giardini Zoologici
-di [[Sunday|domenica]], Hood avrebbe [[Well|ben]] potuto scrivere su qualche giornale:
+di [[characters/sunday|domenica]], Hood avrebbe [[motifs/well|ben]] potuto scrivere su qualche giornale:
 "È difficile vedere dove i nostri legislatori puritani traccino il confine
 nei piaceri naturali; vietano la vista delle opere di Dio quando esse
 sono animali, eppure non possono vietarle quando sono vegetali
 o minerali."  Ciò è razionale, ma ha il tono della supplica.
 Ciò che occorre per simili fanatismi è il tono dello scherno;
-e lo si ottiene con il [[Double|doppio]] rintocco d'un vero argomento e
+e lo si ottiene con il [[topoi/double|doppio]] rintocco d'un vero argomento e
 d'una frecciata verbale:
 
 Una volta che la setta trionfante al proprio testo
 rinchiuda Nerone dal sabato al lunedì;
 e certo come il destino ci negheranno poi
-di vedere i denti di leone di [[Sunday|domenica]].
+di vedere i denti di leone di [[characters/sunday|domenica]].
 
-Questo è l'uso letterario del trucco, ed è poetico tanto [[Well|quanto]] acuto:
-un paesaggio non [[Well|meno]] che una trappola.
+Questo è l'uso letterario del trucco, ed è poetico tanto [[motifs/well|quanto]] acuto:
+un paesaggio non [[motifs/well|meno]] che una trappola.
 
 (da The Daily News, 1911, ristampato in Lunacy + Letters.)

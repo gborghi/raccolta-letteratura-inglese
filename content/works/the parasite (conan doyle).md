@@ -26,7 +26,7 @@ tags:
   - archetype/femme_fatale
   - archetype/antihero
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Gothic and Supernatural · Terror and Horror · The Unseen]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/gothic-and-supernatural-·-terror-and-horror-·-the-unseen|Gothic and Supernatural · Terror and Horror · The Unseen]]
 
 > [!abstract] 
 > Physiologist Austin Gilroy, a confirmed materialist, is drawn into a mesmeric relationship with Miss Penclosa, a crippled psychic who first proves her powers on his fiancée Agatha and then enslaves his own will, forcing him toward betrayal and violence against everyone he loves. Written as Gilroy's diary, the story tracks his terrified loss of self-control until Penclosa's illness momentarily frees him.
@@ -44,10 +44,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Epistolary Diary Novel]], [[Gothic Novel]]
-**Themes & Concepts:** [[Mesmerism]], [[Madness]], [[Power and Corruption]], [[Self-Deception]], [[Terror and Horror]], [[Lust Sexual Desire]], [[Reason and Rationalism]]
-**Motifs:** [[Eyes and Sight]], [[Uncanny]], [[Chains]]
-**Characters:** [[Austin Gilroy]], [[Miss Penclosa]], [[Agatha Marden]]
-**Archetypes:** [[Femme Fatale]], [[Antihero]]
+**Forms & Genres:** [[forms/epistolary-diary-novel|Epistolary Diary Novel]], [[forms/gothic-novel|Gothic Novel]]
+**Themes & Concepts:** [[concepts/mesmerism|Mesmerism]], [[concepts/madness|Madness]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/self-deception|Self-Deception]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/reason-and-rationalism|Reason and Rationalism]]
+**Motifs:** [[motifs/eyes-and-sight|Eyes and Sight]], [[concepts/uncanny|Uncanny]], [[motifs/chains|Chains]]
+**Characters:** [[characters/austin-gilroy|Austin Gilroy]], [[characters/miss-penclosa|Miss Penclosa]], [[characters/agatha-marden|Agatha Marden]]
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/antihero|Antihero]]
 
-**Also relevant to:** [[Greek Mythology · Lust Sexual Desire · Desire]]
+**Also relevant to:** [[clusters/greek-mythology-·-lust-sexual-desire-·-desire|Greek Mythology · Lust Sexual Desire · Desire]]

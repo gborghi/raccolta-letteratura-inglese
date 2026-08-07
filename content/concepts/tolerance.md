@@ -14,4 +14,12 @@ Chesterton's central thesis that the true English national virtue is not stoic e
 
 <div class="concept-works" data-slug="concepts/tolerance"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/pickwick-(chesterton)|Pickwick (Chesterton)]]
+- [[works/micah-clarke-(conan-doyle)|Micah Clarke (Conan Doyle)]]
+- [[works/the-jews-(belloc)|The Jews (Belloc)]]
+
+</div>
+
 #graph/concept

@@ -14,4 +14,11 @@ Victorian sage praised as founder of modern irrationalism and hero-worship, whos
 
 <div class="concept-works" data-slug="characters/thomas-carlyle"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+
+</div>
+
 #graph/character

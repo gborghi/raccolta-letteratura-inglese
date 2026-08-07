@@ -14,4 +14,10 @@ The king who, alarmed by rumour of a rival, orders the massacre of the infants a
 
 <div class="concept-works" data-slug="characters/herod"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/god-in-the-cave-(chesterton)|God in the Cave (Chesterton)]]
+
+</div>
+
 #graph/character

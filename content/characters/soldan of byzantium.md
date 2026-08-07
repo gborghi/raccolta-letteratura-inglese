@@ -14,4 +14,10 @@ The laughing Ottoman ruler whose fleet threatens Christendom in the poem's openi
 
 <div class="concept-works" data-slug="characters/soldan-of-byzantium"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lepanto-(chesterton)|lepanto (Chesterton)]]
+
+</div>
+
 #graph/character

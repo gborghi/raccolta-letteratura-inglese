@@ -12,4 +12,12 @@ tags:
 
 <div class="concept-works" data-slug="historical-references/orient-arabia"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/abou-ben-adhem-(chesterton)|Abou ben Adhem (Chesterton)]]
+- [[works/new-jerusalem-(chesterton)|New Jerusalem (Chesterton)]]
+- [[works/othello-(shakespeare)|OTHELLO (Shakespeare)]]
+
+</div>
+
 #graph/histref

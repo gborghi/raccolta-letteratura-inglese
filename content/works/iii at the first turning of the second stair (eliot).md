@@ -15,17 +15,17 @@ tags:
   - histref/dante
 ---
 
-*by Eliot*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
+*by Eliot*  ·  **Cluster:** [[clusters/temptation-·-good-vs-evil-·-serpent-snake|Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 
 > Purgatorial ascent of a winding stair past the devil of hope and despair toward a sensuous distraction, ending 'Lord, I am not worthy'; penitence, temptation, the climb of the soul and grace.
 
 ## Connections
 
-**Topoi:** [[Katabasis Descent]]
-**Motifs:** [[Music and Song]]
-**Themes & Concepts:** [[Temptation]], [[Grace and Redemption]], [[Humility]]
-**Historical References:** [[Dante]]
+**Topoi:** [[topoi/katabasis-descent|Katabasis Descent]]
+**Motifs:** [[motifs/music-and-song|Music and Song]]
+**Themes & Concepts:** [[concepts/temptation|Temptation]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/humility|Humility]]
+**Historical References:** [[historical-references/dante|Dante]]
 
 ## Testo integrale / Full text
 

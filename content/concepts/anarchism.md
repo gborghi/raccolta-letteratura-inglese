@@ -14,4 +14,10 @@ The philosophical and political creed of destruction-as-liberation that drives t
 
 <div class="concept-works" data-slug="concepts/anarchism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thursday-(chesterton)|thursday (Chesterton)]]
+
+</div>
+
 #graph/concept

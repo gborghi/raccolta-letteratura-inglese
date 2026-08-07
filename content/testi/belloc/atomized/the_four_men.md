@@ -46,7 +46,7 @@ They blow such gladness into me,
 
 That when I get to Burton Sands
 
-And smell the smell of the [[Home]] Lands,
+And smell the smell of the [[motifs/home|Home]] Lands,
 
 My heart is all renewed and fills
 
@@ -64,13 +64,13 @@ MY COUNTY, IT has been proved in the life of every man that though his loves are
 
 On this account, Dear Sussex, are those women chiefly dear to men who, as the seasons pass, do but continue to be more and more themselves, attain balance, and abandon or forget vicissitude. And on this account, Sussex, does a man love an old house, which was his father’s, and on this account does a man come to love with all his heart, that part of earth which nourished his boyhood. For it does not change, or if it changes, it changes very little, and he finds in it the character of enduring things.
 
-In this love he remains content until, perhaps, some sort of warning reaches him, that even his own County is approaching its doom. Then, believe me, Sussex, he is anxious in a very different way; he would, if he could, preserve his land in the flesh, and keep it there as it is, forever. But since he knows he cannot do that, “at least,” he says, “I will keep her image, and that shall remain.” And as a man will paint with a peculiar passion a face which he is only permitted to see for a little time, so will one passionately set down one’s own horizon and one’s fields before they are forgotten and have become a different thing. Therefore it is that I have put down in writing what happened to me now so many years ago, when I met first one man and then another, and we four bound ourselves together and walked through all your land, Sussex, from end to end. For many years I have meant to write it down and have not; nor would I write it down now, or issue this book at all, Sussex, did I not know that you, who must like all created things decay, might with the rest of us be very near your ending. For I know very well in my mind that a day will come when the holy place shall perish and all the people of it and never more be what they were. But before that day comes, Sussex, may your earth cover me, and may some loud-voiced priest from Arundel, or Grinstead, or Crawley, or Storrington, but best of all from [[Home|home]], have sung Do Mi Fa Sol above my bones.
+In this love he remains content until, perhaps, some sort of warning reaches him, that even his own County is approaching its doom. Then, believe me, Sussex, he is anxious in a very different way; he would, if he could, preserve his land in the flesh, and keep it there as it is, forever. But since he knows he cannot do that, “at least,” he says, “I will keep her image, and that shall remain.” And as a man will paint with a peculiar passion a face which he is only permitted to see for a little time, so will one passionately set down one’s own horizon and one’s fields before they are forgotten and have become a different thing. Therefore it is that I have put down in writing what happened to me now so many years ago, when I met first one man and then another, and we four bound ourselves together and walked through all your land, Sussex, from end to end. For many years I have meant to write it down and have not; nor would I write it down now, or issue this book at all, Sussex, did I not know that you, who must like all created things decay, might with the rest of us be very near your ending. For I know very well in my mind that a day will come when the holy place shall perish and all the people of it and never more be what they were. But before that day comes, Sussex, may your earth cover me, and may some loud-voiced priest from Arundel, or Grinstead, or Crawley, or Storrington, but best of all from [[motifs/home|home]], have sung Do Mi Fa Sol above my bones.
 
 THE FOUR MEN
 
 THE TWENTY NINTH OF OCTOBER 1902
 
-NINE YEARS AGO as I was sitting in the “George” at Robertsbridge drinking that port of theirs and staring at the fire, there arose in me a multitude of thoughts through which at last came floating a vision of the woods of [[Home|home]] and of another place — the lake where the Arun rises.
+NINE YEARS AGO as I was sitting in the “George” at Robertsbridge drinking that port of theirs and staring at the fire, there arose in me a multitude of thoughts through which at last came floating a vision of the woods of [[motifs/home|home]] and of another place — the lake where the Arun rises.
 
 And I said to myself, inside my own mind: What are you doing? You are upon some business that takes you far, not even for ambition or for adventure, but only to earn. And you will cross the sea and earn your money, and you will come back and spend more than you have earned. But all the while your life runs past you like a river, and the things that are of moment to men you do not heed at all.”
 
@@ -90,7 +90,7 @@ Then I hit the table there with my hand, and as though there were no duty nor no
 
 When I had said this the deeper voice of an older man answered:
 
-“And since I am going to that same place, let us [[Journey|journey]] there together.”
+“And since I am going to that same place, let us [[motifs/journey|journey]] there together.”
 
 I turned round, and I was angry, for there had been no one with me when I had entered upon this reverie, and I had thought myself alone.
 
@@ -118,11 +118,11 @@ He put on the little smile which is worn by men who have talked to very many dif
 
 “My name,” I said to him, “is of importance only to those who need to know it; it might be of importance to my masters had I such, but I have none. It is not of importance to my equals. And since you will not tell me yours, and we must call each other something, I shall call you Grizzlebeard, which fixes you very well in my mind.”
 
-“And what shall I call you,” he said, “during so short a [[Journey|journey]]?”
+“And what shall I call you,” he said, “during so short a [[motifs/journey|journey]]?”
 
 “You may call me Myself,” I answered, “for that is the name I shall give to my own person and my own soul, as you will find when I first begin speaking of them as occasion serves.”
 
-It was agreed thus between us that we should walk through the whole county to the place we knew, and recover, while yet they could be recovered, the principal joys of the soul, and gather, if we could gather it, some further company; and it was agreed that, as our [[Friendship|friendship]] was chance, so chance it should remain, and that these foolish titles should be enough for us to know each other by.
+It was agreed thus between us that we should walk through the whole county to the place we knew, and recover, while yet they could be recovered, the principal joys of the soul, and gather, if we could gather it, some further company; and it was agreed that, as our [[concepts/friendship|friendship]] was chance, so chance it should remain, and that these foolish titles should be enough for us to know each other by.
 
 When, therefore, we had made a kind of pact (but not before) I poured out a great deal of my port for him into a silver mug which he habitually kept in his pocket, and drinking the rest from my own glass, agreed with him that we would start the next day at dawn, with our faces westward along the Brightling road — that is, up into the woods and to the high sandy land from which first, a long way off, one sees the Downs.
 
@@ -254,7 +254,7 @@ Grizzlebeard. “Yes, and what afterwards?” The Poet (a little pained). “Not
 
 The Sailor. “I never yet thanked my parents for anything in my life, but now I thank them for that which hitherto has most distressed me, that they set me to the hard calling of the sea. For if I had not been apprenticed, Bristol fashion, when I was a child to a surly beast from Holderness, I might have been a Poet, by the wrath of God.”
 
-Grizzlebeard. “Do not listen to him, Poet, but see! We have come into Heathfield. I think it is time either to eat or drink or do both, and to consider our companionship joined, and the first stage of our [[Journey|journey]] toward the West accomplished.”
+Grizzlebeard. “Do not listen to him, Poet, but see! We have come into Heathfield. I think it is time either to eat or drink or do both, and to consider our companionship joined, and the first stage of our [[motifs/journey|journey]] toward the West accomplished.”
 
 Now in those days Heathfield was a good place for men, and will be again, for this land of Sussex orders all things towards itself, and will never long permit any degradation.
 
@@ -368,7 +368,7 @@ He stopped and looked for some little time into the rising fire. Outside the win
 
 Then Grizzlebeard went on:
 
-“When [[Friendship|friendship]] disappears then there is a space left open to that awful loneliness of the outside which is like the cold of space between the planets. It is an air in which men perish utterly. Absolute dereliction is the death of the soul; and the end of living is a great love abandoned.”
+“When [[concepts/friendship|friendship]] disappears then there is a space left open to that awful loneliness of the outside which is like the cold of space between the planets. It is an air in which men perish utterly. Absolute dereliction is the death of the soul; and the end of living is a great love abandoned.”
 
 Myself. “But the place heals, Grizzlebeard.” Grizzlebeard (still more solemnly). “All wounds heal in those who are condemned to live, but in the very process of healing they harden and forbid renewal. The thing is over and done.”
 
@@ -1682,7 +1682,7 @@ When we had all four come in out of the rain into Mr. Duke’s parlour at the Br
 
 “She had one brother, who lived away in some great palace or other in the north, and one sister who was married far off in Italy. She herself had inherited an ancient house of stone set in her own valley, which was that of the river Brede, and most dear to her; for it was there that she had lived as a child, and there would she pass her womanhood.
 
-“Into this house I was received, for she was much older than I, and when I first knew her I was not yet a man. Thither perpetually in the intervals of study I returned. Insensibly my visits grew most natural; I passed the gates which are the beginning of a full life, and constantly I found myself, in spite of a more active bearing and a now complete possession of my youth, alone in her companionship. Her many servants knew me as a part of their household: her grooms who first had taught me to ride, her keepers with whom I had first shot, her old nurse, a pensioner, who favoured this early [[Friendship|friendship]]. The priest also called me by my name.
+“Into this house I was received, for she was much older than I, and when I first knew her I was not yet a man. Thither perpetually in the intervals of study I returned. Insensibly my visits grew most natural; I passed the gates which are the beginning of a full life, and constantly I found myself, in spite of a more active bearing and a now complete possession of my youth, alone in her companionship. Her many servants knew me as a part of their household: her grooms who first had taught me to ride, her keepers with whom I had first shot, her old nurse, a pensioner, who favoured this early [[concepts/friendship|friendship]]. The priest also called me by my name.
 
 “We walked together in long avenues; the lawns of four hundred years were a carpet for us. We paced her woods slowly together and often watched together in the frosty season of the year the early setting of the sun behind bare trees. At evening by her vast and regal fires we sat side by side, speaking in that light alone to each other of dead poets and of the wars and of things seen and of small domestic memories grown to be pictures clear and lovable.
 
@@ -2568,7 +2568,7 @@ When he had said this, I was confused to wonder from his voice and from the larg
 
 But Grizzlebeard would not even linger. He looked at me with a dreadful solemnity and said: “No; we are all three called to other things. But do you go back to your home, for the journey is done.”
 
-Then he added (but in another voice); “There is nothing at all that remains: nor any house; nor any castle, however strong; nor any love, however tender and sound; nor any [[Comradeship|comradeship]] among men, however hardy. Nothing remains but the things of which I will not speak, because we have spoken enough of them already during these four days. But I who am old will give you advice, which is this — to consider chiefly from now onward those permanent things which are, as it were, the shores of this age and the harbours of our glittering and pleasant but dangerous and wholly changeful sea.”
+Then he added (but in another voice); “There is nothing at all that remains: nor any house; nor any castle, however strong; nor any love, however tender and sound; nor any [[concepts/comradeship|comradeship]] among men, however hardy. Nothing remains but the things of which I will not speak, because we have spoken enough of them already during these four days. But I who am old will give you advice, which is this — to consider chiefly from now onward those permanent things which are, as it were, the shores of this age and the harbours of our glittering and pleasant but dangerous and wholly changeful sea.”
 
 When he had said this (by which he meant Death), the other two, looking sadly at me, stood silent also for about the time in which a man can say good-bye with reverence. Then they all three turned about and went rapidly and with a purpose up the village street.
 
@@ -2580,7 +2580,7 @@ I went up in gloom, by the nearest spur, on to the grass and into the loneliness
 
 I still went on, through little spinnies here and there, and across the great wave tops and rolls of the hills, and as the day proceeded and the light declined about me I still went on, now dipping into the gaps where tracks and roads ran over the chain, now passing for a little space into tall and silent woods wherever these might stand. And all the while I came nearer and nearer to an appointed spot of which a memory had been fixed for years in my mind. But as I strode, with such a goal in view, an increasing loneliness oppressed me, and the air of loss and the echo of those profound thoughts which had filled the last words we four had exchanged together.
 
-It was in the grove above Lavington, near the mounds where they say old kings are buried, that I, still following the crest of my hills, felt the full culmination of all the twenty tides of mutability which had thus run together to make a skerry in my soul. I saw and apprehended, as a man sees or touches a physical thing, that nothing of our sort remains, and that even before my county should cease to be itself I should have left it. I recognised that I was (and I confessed) in that attitude of the mind wherein men admit [[Mortality|mortality]]; something had already passed from me — I mean that fresh and vigorous morning of the eyes wherein the beauty of this land had been reflected as in a tiny mirror of burnished silver. Youth was gone out apart; it was loved and regretted, and therefore no longer possessed.
+It was in the grove above Lavington, near the mounds where they say old kings are buried, that I, still following the crest of my hills, felt the full culmination of all the twenty tides of mutability which had thus run together to make a skerry in my soul. I saw and apprehended, as a man sees or touches a physical thing, that nothing of our sort remains, and that even before my county should cease to be itself I should have left it. I recognised that I was (and I confessed) in that attitude of the mind wherein men admit [[concepts/mortality|mortality]]; something had already passed from me — I mean that fresh and vigorous morning of the eyes wherein the beauty of this land had been reflected as in a tiny mirror of burnished silver. Youth was gone out apart; it was loved and regretted, and therefore no longer possessed.
 
 Then, as I walked through this wood more slowly, pushing before me great billows of dead leaves, as the bows of a ship push the dark water before them, this side and that, when the wind blows full on the middle of the sail and the water answers loudly as the ship sails on, so I went till suddenly I remembered with the pang that catches men at the clang of bells what this time was in November; it was the Day of the Dead. All that day I had so moved and thought alone and fasting, and now the light was falling. I had consumed the day in that deep wandering on the heights alone, and now it was evening. Just at that moment of memory I looked up and saw that I was there. I had come upon that lawn which I had fixed for all these hours to be my goal.
 
@@ -2718,7 +2718,7 @@ They blow such gladness into me,
 
 That when I get to Burton Sands
 
-And smell the smell of the [[Home]] Lands,
+And smell the smell of the [[motifs/home|Home]] Lands,
 
 My heart is all renewed and fills
 
@@ -2736,13 +2736,13 @@ MY COUNTY, IT has been proved in the life of every man that though his loves are
 
 On this account, Dear Sussex, are those women chiefly dear to men who, as the seasons pass, do but continue to be more and more themselves, attain balance, and abandon or forget vicissitude. And on this account, Sussex, does a man love an old house, which was his father’s, and on this account does a man come to love with all his heart, that part of earth which nourished his boyhood. For it does not change, or if it changes, it changes very little, and he finds in it the character of enduring things.
 
-In this love he remains content until, perhaps, some sort of warning reaches him, that even his own County is approaching its doom. Then, believe me, Sussex, he is anxious in a very different way; he would, if he could, preserve his land in the flesh, and keep it there as it is, forever. But since he knows he cannot do that, “at least,” he says, “I will keep her image, and that shall remain.” And as a man will paint with a peculiar passion a face which he is only permitted to see for a little time, so will one passionately set down one’s own horizon and one’s fields before they are forgotten and have become a different thing. Therefore it is that I have put down in writing what happened to me now so many years ago, when I met first one man and then another, and we four bound ourselves together and walked through all your land, Sussex, from end to end. For many years I have meant to write it down and have not; nor would I write it down now, or issue this book at all, Sussex, did I not know that you, who must like all created things decay, might with the rest of us be very near your ending. For I know very well in my mind that a day will come when the holy place shall perish and all the people of it and never more be what they were. But before that day comes, Sussex, may your earth cover me, and may some loud-voiced priest from Arundel, or Grinstead, or Crawley, or Storrington, but best of all from [[Home|home]], have sung Do Mi Fa Sol above my bones.
+In this love he remains content until, perhaps, some sort of warning reaches him, that even his own County is approaching its doom. Then, believe me, Sussex, he is anxious in a very different way; he would, if he could, preserve his land in the flesh, and keep it there as it is, forever. But since he knows he cannot do that, “at least,” he says, “I will keep her image, and that shall remain.” And as a man will paint with a peculiar passion a face which he is only permitted to see for a little time, so will one passionately set down one’s own horizon and one’s fields before they are forgotten and have become a different thing. Therefore it is that I have put down in writing what happened to me now so many years ago, when I met first one man and then another, and we four bound ourselves together and walked through all your land, Sussex, from end to end. For many years I have meant to write it down and have not; nor would I write it down now, or issue this book at all, Sussex, did I not know that you, who must like all created things decay, might with the rest of us be very near your ending. For I know very well in my mind that a day will come when the holy place shall perish and all the people of it and never more be what they were. But before that day comes, Sussex, may your earth cover me, and may some loud-voiced priest from Arundel, or Grinstead, or Crawley, or Storrington, but best of all from [[motifs/home|home]], have sung Do Mi Fa Sol above my bones.
 
 THE FOUR MEN
 
 THE TWENTY NINTH OF OCTOBER 1902
 
-NINE YEARS AGO as I was sitting in the “George” at Robertsbridge drinking that port of theirs and staring at the fire, there arose in me a multitude of thoughts through which at last came floating a vision of the woods of [[Home|home]] and of another place — the lake where the Arun rises.
+NINE YEARS AGO as I was sitting in the “George” at Robertsbridge drinking that port of theirs and staring at the fire, there arose in me a multitude of thoughts through which at last came floating a vision of the woods of [[motifs/home|home]] and of another place — the lake where the Arun rises.
 
 And I said to myself, inside my own mind: What are you doing? You are upon some business that takes you far, not even for ambition or for adventure, but only to earn. And you will cross the sea and earn your money, and you will come back and spend more than you have earned. But all the while your life runs past you like a river, and the things that are of moment to men you do not heed at all.”
 
@@ -2762,7 +2762,7 @@ Then I hit the table there with my hand, and as though there were no duty nor no
 
 When I had said this the deeper voice of an older man answered:
 
-“And since I am going to that same place, let us [[Journey|journey]] there together.”
+“And since I am going to that same place, let us [[motifs/journey|journey]] there together.”
 
 I turned round, and I was angry, for there had been no one with me when I had entered upon this reverie, and I had thought myself alone.
 
@@ -2773,7 +2773,7 @@ I saw then, sitting beyond the table, a tall man and spare, well on in years, vi
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Indice
+Indice
 
 Prefazione
 
@@ -2781,17 +2781,17 @@ I QUATTRO UOMINI
 
 Il ventinovesimo ottobre 1902
 
-#Il trentesimo ottobre 1902
+Il trentesimo ottobre 1902
 
-#Il trentunesimo ottobre 1902
+Il trentunesimo ottobre 1902
 
-# Il primo di novembre 1902
+Il primo di novembre 1902
 
-#Il 2 novembre 1902
+Il 2 novembre 1902
 
 Frontespizio della prima edizione
 
-# Prima pagina della prima edizione, riccamente illustrata
+Prima pagina della prima edizione, riccamente illustrata
 
 I QUATTRO UOMINI
 
@@ -2799,16 +2799,16 @@ Un disastro totale
 
 Di H. Belloc
 
-# Le colline del sud e il mare meridionale
+Le colline del sud e il mare meridionale
 
-# Donano loro gioia alla mia vita
+Donano loro gioia alla mia vita
 
 Titolo:  
 Quando arriverò a Burton Sands…
 
 E sentite l’odore delle Terre d’Origine.
 
-# Cuore rinnovato e colmo di speranza
+Cuore rinnovato e colmo di speranza
 
 Con il Mare del Sud e le Colline del Sud.
 
@@ -2816,7 +2816,7 @@ TO
 
 Signora Wright-Biddulph
 
-# Di Burton nella contea del Sussex, sotto il cui tetto è stata scritta gran parte di questo libro
+Di Burton nella contea del Sussex, sotto il cui tetto è stata scritta gran parte di questo libro
 
 Prefazione
 
@@ -2830,7 +2830,7 @@ I QUATTRO UOMINI
 
 Il ventinovesimo ottobre 1902
 
-Nove anni fa, mentre sedevo al “George” a Robertsbridge, bevendo quel loro porto e fissando il fuoco, nella mia mente affiorarono molte idee; alla fine emerse l’immagine dei boschi della mia [[Home|>casa]] e di un altro luogo: il lago da cui nasce l’Arun.
+Nove anni fa, mentre sedevo al “George” a Robertsbridge, bevendo quel loro porto e fissando il fuoco, nella mia mente affiorarono molte idee; alla fine emerse l’immagine dei boschi della mia [[motifs/home|>casa]] e di un altro luogo: il lago da cui nasce l’Arun.
 
 E mi dissi dentro di me: “Cosa stai facendo? Stai intraprendendo un viaggio lungo e lontano, non per ambizione né per avventura, ma solo per guadagnare denaro. Attraverserai il mare per ottenere i tuoi soldi, e poi tornerai indietro per spendere più di quanto hai guadagnato. Ma nel frattempo la tua vita scorre via come un fiume, e le cose che sono davvero importanti per gli uomini tu non le consideri affatto.”
 
@@ -2883,11 +2883,11 @@ He put on the little smile which is worn by men who have talked to very many dif
 
 “My name,” I said to him, “is of importance only to those who need to know it; it might be of importance to my masters had I such, but I have none. It is not of importance to my equals. And since you will not tell me yours, and we must call each other something, I shall call you Grizzlebeard, which fixes you very well in my mind.”
 
-“And what shall I call you,” he said, “during so short a [[Journey|journey]]?”
+“And what shall I call you,” he said, “during so short a [[motifs/journey|journey]]?”
 
 “You may call me Myself,” I answered, “for that is the name I shall give to my own person and my own soul, as you will find when I first begin speaking of them as occasion serves.”
 
-It was agreed thus between us that we should walk through the whole county to the place we knew, and recover, while yet they could be recovered, the principal joys of the soul, and gather, if we could gather it, some further company; and it was agreed that, as our [[Friendship|friendship]] was chance, so chance it should remain, and that these foolish titles should be enough for us to know each other by.
+It was agreed thus between us that we should walk through the whole county to the place we knew, and recover, while yet they could be recovered, the principal joys of the soul, and gather, if we could gather it, some further company; and it was agreed that, as our [[concepts/friendship|friendship]] was chance, so chance it should remain, and that these foolish titles should be enough for us to know each other by.
 
 When, therefore, we had made a kind of pact (but not before) I poured out a great deal of my port for him into a silver mug which he habitually kept in his pocket, and drinking the rest from my own glass, agreed with him that we would start the next day at dawn, with our faces westward along the Brightling road — that is, up into the woods and to the high sandy land from which first, a long way off, one sees the Downs.
 
@@ -2952,7 +2952,7 @@ Sorrise leggermente, quel tipo di sorriso che hanno gli uomini che hanno parlato
 
 “Potete chiamarmi ‘Me Stesso’”, risposi, “poiché questo è il nome che darò a me stesso e alla mia anima, come scoprirete quando inizierò a parlare di loro, a seconda delle circostanze.”
 
-Fu così concordato tra di noi: avremmo attraversato l'intero distretto fino al luogo che conoscevamo, per recuperare, finché ancora era possibile, le principali gioie dell'anima e, se ci fosse riuscito, anche qualche altro compagno; inoltre fu deciso che, poiché la nostra [[Friendship|amicizia]] era nata per caso, così doveva rimanere, e che quei titoli banali fossero sufficienti perché potessimo riconoscerci a vicenda.
+Fu così concordato tra di noi: avremmo attraversato l'intero distretto fino al luogo che conoscevamo, per recuperare, finché ancora era possibile, le principali gioie dell'anima e, se ci fosse riuscito, anche qualche altro compagno; inoltre fu deciso che, poiché la nostra [[concepts/friendship|amicizia]] era nata per caso, così doveva rimanere, e che quei titoli banali fossero sufficienti perché potessimo riconoscerci a vicenda.
 
 Quindi, quando avevamo stipulato una sorta di patto (ma non prima), versai per lui una grande quantità del mio vino in una coppa d’argento che lui teneva abitualmente in tasca; bevendo il resto dalla mia stessa coppa, concordammo sul fatto che avremmo iniziato il giorno seguente all’alba, con la faccia rivolta verso ovest lungo la strada di Brightling – cioè, addentrandoci nella foresta e dirigendoci verso quella vasta area sabbiosa da cui, molto lontano, si possono vedere per la prima volta le colline delle Downs.
 
@@ -2960,7 +2960,7 @@ Tutto ciò accadde nella serata del 29 ottobre 1902; l’aria era fresca, ma non
 
 La mattina seguente, dopo aver dormito profondamente, senza dare alcuna notifica a coloro che ci avevano assunto o a noi che avevamo accettato l’incarico, e mettendoci completamente al di fuori delle preoccupazioni e del mondo esterno, partimmo con la direzione ovest, decisi a raggiungere infine la valle dell’Arun e le cose che conoscevamo.
 
-#Il trentesimo ottobre 1902
+Il trentesimo ottobre 1902
 
 C'era ancora vento nel cielo, e nuvole che prendevano la sua forma, spinte avanti da esso in quella fredda mattina mentre percorrevamo il sentiero vicino alla Scalands Gate, tra i boschi spogli; la strada continuava a salire fino a quando non arrivammo al villaggio di Brightling. Lì pensammo di entrare in una locanda per fare colazione, perché avevamo camminato per quattro miglia, e per tutto quel tratto in salita quasi non ci eravamo scambiati una parola.
 
@@ -2972,7 +2972,7 @@ Non appena siamo entrati, abbiamo salutato quest’uomo e lui ha salutato noi. C
 
 Il marinaio. “Ah, mi andrà benissimo.”
 
-# Grizzlebeard: “Come fai a dire che ti si addatterà perfettamente?”
+Grizzlebeard: “Come fai a dire che ti si addatterà perfettamente?”
 
 Il marinaio disse: “Beh, intendo dire che anch'io ho l'intenzione di dirigermi verso ovest, perché ho del denaro in tasca e penso che mi durerà per alcuni giorni.”
 
@@ -2980,7 +2980,7 @@ Io stesso. “Senza dubbio avete una nave a Portsmouth o a Southampton; se venit
 
 Il marinaio: “No, nemmeno a Bosham. Di cui canta la canzone: ‘Bosham, che si trova vicino a Selsea’. Non c’è alcuna piccola nave ad aspettarmi nel porto di Bosham. Ma me la caverò. Così ho vissuto da quando ho iniziato questa vita. E così intendo finirla.”
 
-# Grizzledbeard: “Non andrà come vuoi tu.”
+Grizzledbeard: “Non andrà come vuoi tu.”
 
 Quando avevo chiesto la colazione per noi due e anche per lui, dissi al Marinai: “Se vuoi venire con noi, con quale nome dobbiamo chiamarti?”
 
@@ -3030,13 +3030,13 @@ Myself. “That is so, and, God willing, as he went he sang the song ‘Golier! 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Grizzledbeard: “Vedo che sarai un ottimo compagno.”
+Grizzledbeard: “Vedo che sarai un ottimo compagno.”
 
 Il marinaio: “Sì, per tutto il tempo che deciderò io; ma non dovete sorprendervi se parto in questa o in quell’altra direzione, in qualsiasi momento, senza il vostro permesso o quello di nessun altro; finché avrò denaro in tasca, sono deciso a vedere il mondo.”
 
 Io stesso. “Siamo davvero ben messi insieme, Marinai: tu, Grizzlebeard e io in questa parrocchia di Brightling. Che, anche se si trova così lontana dalle zone migliori e più importanti della nostra contea, è in un certo senso un suo santuario.”
 
-# GrizzlediBarba. “Di questo non ho mai sentito parlare a Brightling, ma solo a Hurstmonceaux.”
+GrizzlediBarba. “Di questo non ho mai sentito parlare a Brightling, ma solo a Hurstmonceaux.”
 
 Io stesso. “In qualsiasi terra possano esistere templi e luoghi sacri di ogni tipo.”
 
@@ -3142,7 +3142,7 @@ Grizzlebeard: “Beh, prendi il mio e scrivi velocemente ciò che devi scrivere;
 
 Il estraneo lo fissò per un momento e poi disse:
 
-# Ho dimenticato cosa volevo dire… Voglio dire, scrivere.
+Ho dimenticato cosa volevo dire… Voglio dire, scrivere.
 
 Il marinaio (con un gemito): “Ha dimenticato il proprio nome!” — Poi, più ad alta voce: “Poeta! Chiamiamoti Poeta e seguiamo te. Ci prenderemo cura di te, e in cambio tu scriverai versi per noi. Versi brutti, versi difficili da comprendere, ma forti, intensi. Versi che i poeti scrivono quando vengono ispirati dalle passioni profonde degli altri uomini, ma che loro stessi non riescono a comporre con facilità.”
 
@@ -3175,7 +3175,7 @@ Grizzlebeard. “Yes, and what afterwards?” The Poet (a little pained). “Not
 
 The Sailor. “I never yet thanked my parents for anything in my life, but now I thank them for that which hitherto has most distressed me, that they set me to the hard calling of the sea. For if I had not been apprenticed, Bristol fashion, when I was a child to a surly beast from Holderness, I might have been a Poet, by the wrath of God.”
 
-Grizzlebeard. “Do not listen to him, Poet, but see! We have come into Heathfield. I think it is time either to eat or drink or do both, and to consider our companionship joined, and the first stage of our [[Journey|journey]] toward the West accomplished.”
+Grizzlebeard. “Do not listen to him, Poet, but see! We have come into Heathfield. I think it is time either to eat or drink or do both, and to consider our companionship joined, and the first stage of our [[motifs/journey|journey]] toward the West accomplished.”
 
 Now in those days Heathfield was a good place for men, and will be again, for this land of Sussex orders all things towards itself, and will never long permit any degradation.
 
@@ -3214,7 +3214,7 @@ Io stesso. “Poeta! Questo dovrà essere chiaro tra noi. E potrai ordinare ciò
 
 Il Marinaio. “Non voglio sentirlo.”
 
-#Il Poeta. “Era…”
+Il Poeta. “Era…”
 
 “Chissà se queste piccole colline appuntite…”
 
@@ -3222,7 +3222,7 @@ Grizzlebeard: “Sì, e poi cosa succede?” Il Poeta (con un po’ di dolore): 
 
 Il Marinaio: “Nella mia vita non ho mai ringraziato i miei genitori per nulla, ma ora li ringrazio per ciò che fino ad ora mi ha causato più dolore: per avermi destinato alla dura professione di marinaio. Perché se non fossi stato affidato in apprendistato, come è consuetudine a Bristol, da bambino a un individuo scontroso proveniente dal Holderness, forse sarei diventato un Poeta, per la collera di Dio.”
 
-Grizzlebeard: “Non ascoltarlo, Poeta. Ma guarda! Siamo arrivati a Heathfield. Penso sia giunto il momento di mangiare, bere, o entrambi. E di considerare la nostra compagnia ormai unita, e il primo stadio del nostro [[Journey|viaggio]] verso Ovest completato.”
+Grizzlebeard: “Non ascoltarlo, Poeta. Ma guarda! Siamo arrivati a Heathfield. Penso sia giunto il momento di mangiare, bere, o entrambi. E di considerare la nostra compagnia ormai unita, e il primo stadio del nostro [[motifs/journey|viaggio]] verso Ovest completato.”
 
 All’epoca, Heathfield era un ottimo posto per gli uomini, e lo sarà di nuovo: questa terra del Sussex tende sempre verso il meglio e non permetterà mai che si verifichino degradazioni.
 
@@ -3419,7 +3419,7 @@ He stopped and looked for some little time into the rising fire. Outside the win
 
 Then Grizzlebeard went on:
 
-“When [[Friendship|friendship]] disappears then there is a space left open to that awful loneliness of the outside which is like the cold of space between the planets. It is an air in which men perish utterly. Absolute dereliction is the death of the soul; and the end of living is a great love abandoned.”
+“When [[concepts/friendship|friendship]] disappears then there is a space left open to that awful loneliness of the outside which is like the cold of space between the planets. It is an air in which men perish utterly. Absolute dereliction is the death of the soul; and the end of living is a great love abandoned.”
 
 Myself. “But the place heals, Grizzlebeard.” Grizzlebeard (still more solemnly). “All wounds heal in those who are condemned to live, but in the very process of healing they harden and forbid renewal. The thing is over and done.”
 
@@ -3462,7 +3462,7 @@ Si fermò e fissò per un po’ il fuoco che si alzava. Fuori, il vento soffiava
 
 “Poi Grizzlebeard continuò…”
 
-“Quando l’[[Friendship|amicizia]] scompare, rimane uno spazio vuoto che lascia entrare quella terribile solitudine esterna, simile al freddo dello spazio tra i pianeti. È un ambiente in cui gli uomini periscono completamente. L’abbandono assoluto è la morte dell’anima; e la fine della vita è rappresentata da un grande amore abbandonato.”
+“Quando l’[[concepts/friendship|amicizia]] scompare, rimane uno spazio vuoto che lascia entrare quella terribile solitudine esterna, simile al freddo dello spazio tra i pianeti. È un ambiente in cui gli uomini periscono completamente. L’abbandono assoluto è la morte dell’anima; e la fine della vita è rappresentata da un grande amore abbandonato.”
 
 Io stesso. “Ma quel luogo guarisce, Grizzled beard, ” Grizzled beard (ancora più solennemente): “Tutte le ferite guariscono in coloro che sono condannati a vivere, ma nel processo stesso di guarigione si induriscono e impediscono il rinnovamento. La cosa è finita.”
 
@@ -3551,7 +3551,7 @@ Io stesso, “Una volta lessi in un libro di un uomo che attraversava una brughi
 <span class="atom-split" data-atom="part--part_10" data-title="The Four Men (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="motif/journey"></span>
 
 
-“This story which I read went on to say that the man went on his [[Journey|journey]] under that new and unhappy light of a stormy winter dawn, on over the heath in the wild country. But though he had made just such a [[Journey|journey]] the day before, yet his mind was changed. In the interlude he had lost something great; therefore the world was worth much less to him than it had been the day before, though if he had heard no singing in between, nor had seen no lights at evening, the [[Journey|journey]] would have seemed the same. This advantage first, and then that loss succeeding, had utterly impoverished him, and his journey meant nothing to him any more. This is the story which I read, and I take it you mean something of the kind.”
+“This story which I read went on to say that the man went on his [[motifs/journey|journey]] under that new and unhappy light of a stormy winter dawn, on over the heath in the wild country. But though he had made just such a [[motifs/journey|journey]] the day before, yet his mind was changed. In the interlude he had lost something great; therefore the world was worth much less to him than it had been the day before, though if he had heard no singing in between, nor had seen no lights at evening, the [[motifs/journey|journey]] would have seemed the same. This advantage first, and then that loss succeeding, had utterly impoverished him, and his journey meant nothing to him any more. This is the story which I read, and I take it you mean something of the kind.”
 
 “Yes, I meant something of the kind,” said Grizzlebeard in answer, sighing. “I was thinking of the light that shines through the horn, and how when the light is extinguished the horn thickens cold and dull. I was thinking of irrevocable things.”
 
@@ -3582,7 +3582,7 @@ The Sailor. “You are right! I had forgotten that! It is indeed an admirable pa
 
 <span class="qlang-split" data-lang="it"></span>
 
-“Questa storia che ho letto raccontava che quell’uomo intraprese il suo [[Journey|viaggio]] sotto quella luce nuova e triste di un alba invernale tempestosa, attraverso le brughiere di quella landa selvaggia. Eppure, nonostante avesse già fatto un viaggio simile il giorno prima, la sua mente era cambiata: nel breve intervallo tra i due viaggi aveva perso qualcosa di molto importante; per questo il mondo gli sembrava molto meno prezioso di quanto lo fosse stato il giorno precedente. Anche se non avesse sentito alcuna canzone né visto luci al tramonto, il viaggio sarebbe comunque risultato lo stesso. Questo cambiamento positivo, seguito poi da quella perdita, lo aveva completamente impoverito; ormai quel viaggio non significava più nulla per lui. Questa è la storia che ho letto. E credo che tu intenda dire qualcosa del genere.”
+“Questa storia che ho letto raccontava che quell’uomo intraprese il suo [[motifs/journey|viaggio]] sotto quella luce nuova e triste di un alba invernale tempestosa, attraverso le brughiere di quella landa selvaggia. Eppure, nonostante avesse già fatto un viaggio simile il giorno prima, la sua mente era cambiata: nel breve intervallo tra i due viaggi aveva perso qualcosa di molto importante; per questo il mondo gli sembrava molto meno prezioso di quanto lo fosse stato il giorno precedente. Anche se non avesse sentito alcuna canzone né visto luci al tramonto, il viaggio sarebbe comunque risultato lo stesso. Questo cambiamento positivo, seguito poi da quella perdita, lo aveva completamente impoverito; ormai quel viaggio non significava più nulla per lui. Questa è la storia che ho letto. E credo che tu intenda dire qualcosa del genere.”
 
 “Sì, intendevo qualcosa del genere,” rispose Grizzlebeard sospirando. “Stavo pensando a quella luce che filtra attraverso il corno, e a come, quando quella luce si spegne, il corno diventi freddo e opaco. Stavo pensando a cose irrevocabili.”
 
@@ -3615,7 +3615,7 @@ Il marinaio: “Hai ragione! Me n’ero dimenticato. È davvero un passatempo am
 <span class="atom-split" data-atom="part--part_11" data-title="The Four Men (part 11)" data-chapter="part 11" data-kind="excerpt" data-tags="motif/home,motif/journey"></span>
 
 
-Myself. “Yes, indeed, for consider how we drink to thirst again, and eat to hunger again, and love for disappointment, and [[Journey|journey]] in order to return. And consider with what elaborate care we cut, clip, shave, remove and prune our hair and beard, which none the less will steadfastly re-grow, and how we earn money to spend it, and black boots before walking in the mire, and do penance before sinning, and sleep to wake, and wake to sleep; and very elaborately do pin, button, tie, hook, hang, lace, draw, pull up, be-tighten, and in diverse ways fasten about ourselves our very complicated clothes of a morning, only to unbutton, unpin, untie, unhook, let down, be-loosen, and in a thousand operations put them off again when midnight comes. Then there is the soiling of things for their cleansing, and the building of houses to pull them down again, and the making of wars for defeat or for barren victories, and the painting of pictures for the rich blind, and the singing of songs for the wealthy deaf, and the living of all life to the profit of others, and the begetting of children who may perpetuate all that same round. The more I think of it the more I see that the digging of holes and the filling of them up again is the true end of man and his felicity.”
+Myself. “Yes, indeed, for consider how we drink to thirst again, and eat to hunger again, and love for disappointment, and [[motifs/journey|journey]] in order to return. And consider with what elaborate care we cut, clip, shave, remove and prune our hair and beard, which none the less will steadfastly re-grow, and how we earn money to spend it, and black boots before walking in the mire, and do penance before sinning, and sleep to wake, and wake to sleep; and very elaborately do pin, button, tie, hook, hang, lace, draw, pull up, be-tighten, and in diverse ways fasten about ourselves our very complicated clothes of a morning, only to unbutton, unpin, untie, unhook, let down, be-loosen, and in a thousand operations put them off again when midnight comes. Then there is the soiling of things for their cleansing, and the building of houses to pull them down again, and the making of wars for defeat or for barren victories, and the painting of pictures for the rich blind, and the singing of songs for the wealthy deaf, and the living of all life to the profit of others, and the begetting of children who may perpetuate all that same round. The more I think of it the more I see that the digging of holes and the filling of them up again is the true end of man and his felicity.”
 
 The Poet. “I think you must be wrong.” Myself. “Well then, since you know, what is the best thing in the world?”
 
@@ -3627,7 +3627,7 @@ Grizzlebeard. “All you young men talk folly. The best thing in the world is sl
 
 THE THIRTY-FIRST OF OCTOBER 1902
 
-I WOKE NEXT morning to the noise, the pleasant noise, of water boiling in a kettle. May God bless that noise and grant it to be the most sacred noise in the world. For it is the noise that babes hear at birth and that old men hear as they die in their beds, and it is the noise of our households all our long lives long; and throughout the world, wherever men have hearths, that purring and that singing, and that humming and that talking to itself of warm companionable water to our great ally, the fire, is [[Home|home]].
+I WOKE NEXT morning to the noise, the pleasant noise, of water boiling in a kettle. May God bless that noise and grant it to be the most sacred noise in the world. For it is the noise that babes hear at birth and that old men hear as they die in their beds, and it is the noise of our households all our long lives long; and throughout the world, wherever men have hearths, that purring and that singing, and that humming and that talking to itself of warm companionable water to our great ally, the fire, is [[motifs/home|home]].
 
 So thought I, half awake, and half asleep upon the hard dry earth of that floor. Yet, as I woke, my mind, not yet in Sussex, thought I was sleeping in an open field, and that there were round me comrades of the regiment, and that the embers that warmed my feet were a bivouac fire. Then I sat up, broad awake, and stiff after such a lodging, to find the Sailor crouching over the renewed flames of two stout logs on which he had established a kettle and water from a spring. He had also with him a packet of tea and some sugar, a loaf, and a little milk.
 
@@ -3645,7 +3645,7 @@ To which the Sailor answered:
 
 I yawned as I said it, and then I stretched my hands, which sleep had numbed, towards the rising life of the fire. The Sailor was still crouching at the kettle as he answered me slowly and with care:
 
-“Why, you must know that near this house there lives a Troll, who many many years ago when he was young was ensnared by the love of a Fairy, upon that heath called Over-the-world. And he brought her [[Home|home]] to be his bride, and lives close by here in a hut that is not of this world. He is my landlord, as it were, and he it was that gave me this tea, this milk, this sugar, and this loaf, but it is no good your asking where, for no one can find that warlock house of theirs but me.”
+“Why, you must know that near this house there lives a Troll, who many many years ago when he was young was ensnared by the love of a Fairy, upon that heath called Over-the-world. And he brought her [[motifs/home|home]] to be his bride, and lives close by here in a hut that is not of this world. He is my landlord, as it were, and he it was that gave me this tea, this milk, this sugar, and this loaf, but it is no good your asking where, for no one can find that warlock house of theirs but me.”
 
 “That was a long lie to tell,” said I, “for I certainly should not have bothered myself to find out where the things came from, so only that I can get them free.”
 
@@ -3680,7 +3680,7 @@ Il Marinaio: “Oh, ascoltatelo mentre racconta di quelle vecchie storie d’amo
 
 Grizzlebeard: “Voi giovani parlate solo sciocchezze. La cosa migliore al mondo è dormire.” Detto questo, si sdraiò sul banco accanto al fuoco, si coprì con la coperta e non ci parlò più. Anche noi, dopo un po’, rannicchiati nei nostri cappotti davanti al calore del fuoco, ci addormentammo profondamente. Così trascorremmo le ore fino all’alba: ci svegliavamo nel freddo per aggiungere legna al fuoco, poi riprendevamo a dormire. Per tutta la notte il vento soffiava tra gli alberi.
 
-#Il trentunesimo ottobre 1902
+Il trentunesimo ottobre 1902
 
 La mattina seguente mi svegliai al suono, un suono piacevole: quello dell’acqua che bolliva in una pentola. Che Dio benedica quel suono e lo renda il suono più sacro del mondo. È il suono che i bambini sentono alla nascita e gli anziani ascoltano mentre muoiono nel loro letto; è il suono delle nostre case per tutta la nostra vita. In tutto il mondo, ovunque ci siano camini, quel ronfare, quel canto, quel mormorio, quel “dialogo” tra l’acqua calda e il nostro grande alleato: il fuoco, è il simbolo del [**focolare domestico**].
 
@@ -3694,13 +3694,13 @@ Scossi il mantello e mi alzai in piedi.
 
 “A cui il marinaio rispose:”
 
-#Da quando sono nato… sfortuna continua! Non riesco mai a dormire.
+Da quando sono nato… sfortuna continua! Non riesco mai a dormire.
 
 “Dove hai preso tutte queste cose?”, dissi, “quel tè, quel latte, quegli zuccheri e quel pane?”
 
 Mentre lo dicevo, sbadigliai e poi allungai le mani, intorpidite dal sonno, verso la luce che iniziava a diffondersi nel fuoco. Il Marinaio era ancora accovacciato vicino alla pentola e mi rispose lentamente e con attenzione:
 
-“Dovete sapere che vicino a questa casa vive un Troll. Molti anni fa, quando era giovane, fu incantato dall’amore di una Fata in quella brughiera chiamata ‘Oltre-il-mondo’. La portò [[Home|a casa]] per farne sua moglie e ora vive qui vicino, in una capanna che non appartiene a questo mondo. In un certo senso, è il mio padrone di casa: è stato lui a darmi questo tè, questo latte, questo zucchero e questo pane. Ma non servirà chiedere dove si trovi, perché nessuno può trovare quella loro dimora magica tranne me.”
+“Dovete sapere che vicino a questa casa vive un Troll. Molti anni fa, quando era giovane, fu incantato dall’amore di una Fata in quella brughiera chiamata ‘Oltre-il-mondo’. La portò [[motifs/home|a casa]] per farne sua moglie e ora vive qui vicino, in una capanna che non appartiene a questo mondo. In un certo senso, è il mio padrone di casa: è stato lui a darmi questo tè, questo latte, questo zucchero e questo pane. Ma non servirà chiedere dove si trovi, perché nessuno può trovare quella loro dimora magica tranne me.”
 
 “È stata una bugia davvero lunga da raccontare,” dissi, “perché di certo non mi sarei preso la briga di scoprire da dove provenissero quelle cose, se non per poterle liberare.”
 
@@ -3731,9 +3731,9 @@ La nostra conversazione aveva svegliato Grizzlebeard. Quell’uomo anziano si al
 
 “For others, perhaps,” said he, as he locked the door and put the key in his pocket, “but not for myself; and yet that is the only thing that matters!”
 
-By this time we were all upon the forest path again, turning this way and that as the Sailor might lead us. Sometimes we crossed a great ride without turning down it, and once the broad high road. But we went straight across that, and we passed many signs where it said that any common man found in these woods would be imprisoned, and some where it said that any one not rich and yet wandering here might find themselves killed by engines. But the Sailor dodged his way nimbly about, making westward through it all, but so cunningly that even I, who know my County well, grew puzzled. I could not guess in what part of the wood we were until we came to a bottom through which a stream ran, and then I knew that this stream was the rising of the Mole, and that we were in Tilgate. Then I said to my companions: “Now the woods smell of [[Home|home]]!”
+By this time we were all upon the forest path again, turning this way and that as the Sailor might lead us. Sometimes we crossed a great ride without turning down it, and once the broad high road. But we went straight across that, and we passed many signs where it said that any common man found in these woods would be imprisoned, and some where it said that any one not rich and yet wandering here might find themselves killed by engines. But the Sailor dodged his way nimbly about, making westward through it all, but so cunningly that even I, who know my County well, grew puzzled. I could not guess in what part of the wood we were until we came to a bottom through which a stream ran, and then I knew that this stream was the rising of the Mole, and that we were in Tilgate. Then I said to my companions: “Now the woods smell of [[motifs/home|home]]!”
 
-But Grizzlebeard said that, considering what the world was like outside the County, all the County was [[Home|home]]. And the Poet said that here were homing bits in the forest, and there were homing bits, and others that were stranger to him, and had not the spirit of our land.
+But Grizzlebeard said that, considering what the world was like outside the County, all the County was [[motifs/home|home]]. And the Poet said that here were homing bits in the forest, and there were homing bits, and others that were stranger to him, and had not the spirit of our land.
 
 But the Sailor said nothing, only leading us forward by clever paths so that the servants of the rich could not do us any hurt, and then he got us into an open glade, and there we sat and rested for a moment, with our breath drawing in the morning.
 
@@ -3761,7 +3761,7 @@ For when we had gone about a mile by the road I knew, we came to that place wher
 
 There, a day’s march away to the south, stood the rank of the Downs.
 
-No exiles who have seen them thus, coming back after many years, and following the road from London to the sea, hungry for [[Home|home]], were struck more suddenly or more suddenly uplifted by that vision of their hills than we four men so coming upon it that morning, and I was for the moment their leader; for this was a place I had cherished ever since I was a boy.
+No exiles who have seen them thus, coming back after many years, and following the road from London to the sea, hungry for [[motifs/home|home]], were struck more suddenly or more suddenly uplifted by that vision of their hills than we four men so coming upon it that morning, and I was for the moment their leader; for this was a place I had cherished ever since I was a boy.
 
 “Look,” said I to Grizzlebeard, “how true it is that in this very spot a man might set his seat whence-from to worship all that he saw, and God that must have made it.”
 
@@ -3782,7 +3782,7 @@ No exiles who have seen them thus, coming back after many years, and following t
 
 A quel punto eravamo tutti di nuovo sul sentiero nel bosco, svoltando da una parte e dall’altra seguendo le indicazioni del Marinaio. A volte attraversavamo vaste distanze senza deviare mai dal percorso, e una volta anche la strada principale. Ma noi proseguimmo dritti lungo di essa, passando accanto a molte cartelli che avvertivano che chiunque venisse trovato in questi boschi sarebbe stato imprigionato; altri cartelli minacciavano che coloro che non fossero ricchi e si aggirassero lì potessero essere uccisi dalle macchine. Tuttavia il Marinaio procedeva con agilità, dirigendosi verso ovest attraverso tutto ciò che ci trovavamo davanti, in modo così astuto che anche io, che conosco bene la mia contea, finii per confondermi. Non riuscivo a capire in quale parte del bosco ci trovassimo fino a quando non arrivammo in una radura attraversata da un ruscello; allora capii che quel ruscello era il corso superiore del fiume Mole, e che eravamo a Tilgate. Allora dissi ai miei compagni: “Ora il bosco profuma di, ” [continua con la parola che rappresenta “casa” nella tua lingua].
 
-Ma Grizzlebeard disse che, considerando com'era il mondo al di fuori della Contea, tutta la Contea era [[Home|>casa]]. E il Poeta disse che qui nella foresta c'erano elementi che lo riportavano a casa, e altri invece gli erano estranei e non possedevano lo spirito della nostra terra.
+Ma Grizzlebeard disse che, considerando com'era il mondo al di fuori della Contea, tutta la Contea era [[motifs/home|>casa]]. E il Poeta disse che qui nella foresta c'erano elementi che lo riportavano a casa, e altri invece gli erano estranei e non possedevano lo spirito della nostra terra.
 
 Ma il Marinai non disse nulla; ci guidò semplicemente lungo sentieri nascosti, in modo che i servitori dei ricchi non potessero farci del male. Poi ci portò in una radura aperta, e lì ci sedemmo per riposare un attimo, respirando l’aria fresca della mattina.
 
@@ -3810,7 +3810,7 @@ Dopo aver percorso circa un miglio lungo la strada, capii che eravamo arrivati i
 
 Lì, a un giorno di marcia a sud, si estendeva la catena dei Downs.
 
-Nessun esiliato che li avesse visti tornare dopo molti anni, seguendo quel percorso da Londra verso il mare, affamati di [[Home|>casa]], fu colpito o commosso in modo più improvviso da quella visione delle loro colline di quanto lo fossimo noi quattro uomini quella mattina; per un momento fui il loro leader, perché quel luogo era qualcosa che avevo sempre amato fin da quando ero ragazzo.
+Nessun esiliato che li avesse visti tornare dopo molti anni, seguendo quel percorso da Londra verso il mare, affamati di [[motifs/home|>casa]], fu colpito o commosso in modo più improvviso da quella visione delle loro colline di quanto lo fossimo noi quattro uomini quella mattina; per un momento fui il loro leader, perché quel luogo era qualcosa che avevo sempre amato fin da quando ero ragazzo.
 
 “Guarda,” dissi a Grizzlebeard, “quanto sia vero che proprio in questo luogo un uomo potrebbe stabilirsi per adorare tutto ciò che vede, e soprattutto Dio che deve averlo creato.”
 
@@ -3927,7 +3927,7 @@ When we had all done singing and were near the Crabtree, the Sailor said:
 
 “Yes,” said I, “and well suited to this morning and to this air, and to that broad sight of the lower land which now spreads out before us.”
 
-For even as I spoke we had come to that little shelf on which the Crabtree stands, and from which one may see the Downs all stretched before one, and Bramber Gap, and in the notch of it the high roof of Lancing; and then onwards, much further away, Arundel Gap and the hills and woods of [[Home|home]]. It was certainly in the land beneath us, and along the Weald, which we overlooked, that once, many years ago, a young man must have written this song.
+For even as I spoke we had come to that little shelf on which the Crabtree stands, and from which one may see the Downs all stretched before one, and Bramber Gap, and in the notch of it the high roof of Lancing; and then onwards, much further away, Arundel Gap and the hills and woods of [[motifs/home|home]]. It was certainly in the land beneath us, and along the Weald, which we overlooked, that once, many years ago, a young man must have written this song.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3960,21 +3960,21 @@ Noi quattro eravamo passati di lì; affamati e camminando con passo veloce, poic
 
 I
 
-#"Nei colli del Sussex dove sono cresciuto..."
+"Nei colli del Sussex dove sono cresciuto..."
 
-# Quando i marciapiedi diventano rossi con la pioggia autunnale
+Quando i marciapiedi diventano rossi con la pioggia autunnale
 
-# Quando Arun cade nel suo letto
+Quando Arun cade nel suo letto
 
-# Forti raffiche di vento passano veloci…
+Forti raffiche di vento passano veloci…
 
-# Quando i rami sono spogli a Burton Glen
+Quando i rami sono spogli a Burton Glen
 
 E così, Bury Hill diventa sempre più bianca…
 
-#Bevo birra forte in compagnia di gentiluomini;
+Bevo birra forte in compagnia di gentiluomini;
 
-# Nessuno può negarlo.
+Nessuno può negarlo.
 
 Negare, negare, negare, negare…
 
@@ -3982,31 +3982,31 @@ Qualcosa che nessuno può negare!
 
 II
 
-#"A metà di novembre me ne vado,"
+"A metà di novembre me ne vado,"
 
-# Premere il viso contro la neve
+Premere il viso contro la neve
 
 E osserva i venti, ovunque soffino…
 
-# Perché il mio cuore è pieno di speranza
+Perché il mio cuore è pieno di speranza
 
-#Fino a quando non mi stabilirò a Steyning per cantare
+Fino a quando non mi stabilirò a Steyning per cantare
 
-# Di quelle donne che ho incontrato nel mio vagabondare
+Di quelle donne che ho incontrato nel mio vagabondare
 
 E queste sono tutte le cose che intendo fare in primavera.
 
-# Nessuno può negarlo.
+Nessuno può negarlo.
 
 Negare, negare, negare, negare…
 
 Qualcosa che nessuno può negare!
 
-# III
+III
 
 "#Tempi duri e clima ostile..."
 
-# Strade oscure e destino avverso
+Strade oscure e destino avverso
 
 Titolo:  
 Siamo gente robusta del Sud…
@@ -4021,19 +4021,19 @@ Da Hurstpierpoint ad Arundel Town
 
 Le ragazze sono paffute e la birra è marrone…
 
-# Nessuno può negarlo.
+Nessuno può negarlo.
 
 Negare, negare, negare, negare!
 
 “Se lo fa, sta mentendo!”
 
-# Quando tutti ebbero finito di cantare e ci trovammo vicino al Crabtree, il Marinaio disse:
+Quando tutti ebbero finito di cantare e ci trovammo vicino al Crabtree, il Marinaio disse:
 
 “Ora, non era forse una bella canzone?”
 
 “Sì,” dissi, “e si abbina perfettamente a questa mattina, a quest’aria, e a quella vasta vista delle terre più basse che ora si estende davanti a noi.”
 
-Mentre parlavo, eravamo già arrivati a quel piccolo ripiano su cui si trova il Crabtree; da lì si potevano vedere le colline che si estendevano davanti a noi, Bramber Gap, e nella sua conca il tetto alto di Lancing; più in lontananza, poi, Arundel Gap e le colline e i boschi della nostra [[Home|>casa]]. Era certamente nella terra sotto di noi, lungo la regione del Weald che avevamo davanti agli occhi, che molti anni fa un giovane doveva aver scritto questa canzone.
+Mentre parlavo, eravamo già arrivati a quel piccolo ripiano su cui si trova il Crabtree; da lì si potevano vedere le colline che si estendevano davanti a noi, Bramber Gap, e nella sua conca il tetto alto di Lancing; più in lontananza, poi, Arundel Gap e le colline e i boschi della nostra [[motifs/home|>casa]]. Era certamente nella terra sotto di noi, lungo la regione del Weald che avevamo davanti agli occhi, che molti anni fa un giovane doveva aver scritto questa canzone.
 
 
 
@@ -4143,7 +4143,7 @@ At the end of this second verse the crowd had grown greater, and not a few of th
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Grizzlebeard: "In quali luoghi, secondo te, si può cantare?"
+Grizzlebeard: "In quali luoghi, secondo te, si può cantare?"
 
 Me stesso… “In qualsiasi luogo possa esserci.”
 
@@ -4173,9 +4173,9 @@ Il Marinai: “Non essere così sicuro. Aspetta di averla ascoltata. Questa canz
 
 Dopo aver detto tutto ciò, il Marinairo, appoggiandosi allo schienale, iniziò a cantare con grande fervore e decisione questa CANZONE DELL’ERESIA PELAGIANA, al fine di rafforzare la determinazione delle persone e di respingere decisamente dottrine dubbiose e opinioni intellettuali incerte.
 
-# Pelagio visse a Kardanoel
+Pelagio visse a Kardanoel
 
-# Insegnò una dottrina laggiù
+Insegnò una dottrina laggiù
 
 Che tu andassi in Cielo o all’Inferno, era una questione che riguardava solo te.
 
@@ -4207,23 +4207,23 @@ In questo semichorus ci unimmo tutti, seguendo il ritmo che lui impostava; poi i
 
 [Coro.]
 
-#Con il mio remo-ti-tiro, ti-o-dio-ay…
+Con il mio remo-ti-tiro, ti-o-dio-ay…
 
 Rise dell’peccato originale!
 
 Quando arrivammo a questo punto, che rappresentava la fine del primo verso e definiva chiaramente l’argomento in discussione, il rumore assai fragoroso prodotto da tutto ciò attirò fuori dalle loro tane diversi abitanti dei dintorni, i quali ascoltarono attentamente, in attesa di vedere cosa sarebbe successo. Ma il Marinario, del tutto senza imbarazzo, continuò procedendo con il secondo verso.
 
-# Dove il vescovo di Auxerre d’antica memoria…
+Dove il vescovo di Auxerre d’antica memoria…
 
-# Germanus era il suo nome
+Germanus era il suo nome
 
-# Si strappò grosse manciate di capelli.
+Si strappò grosse manciate di capelli.
 
-#Pelagio la vergogna
+Pelagio la vergogna
 
 E poi, con il suo robusto bastone episcopale…
 
-# Schiantato e distrutto completamente
+Schiantato e distrutto completamente
 
 Gli eretici, tutti quanti, grandi e piccoli…
 
@@ -4235,9 +4235,9 @@ Oh, li colpiva con forza, e li sbatteva a lungo, in ogni occasione possibile.
 
 Fino a quando non gridarono tutti insieme, ad alta voce e con forza, le loro convinzioni ortodosse!
 
-# Coro
+Coro
 
-#Con il mio remo-ti-tiro, ti-o-dio-ay…
+Con il mio remo-ti-tiro, ti-o-dio-ay…
 
 Le loro convinzioni ortodosse.
 
@@ -4315,7 +4315,7 @@ The Sailor. “Then you were lucky! For it is well known that those who come upo
 
 Ora la fede è vecchia e il diavolo è audace.
 
-# Estremamente audace davvero;
+Estremamente audace davvero;
 
 E le miriadi di dubbi che aleggiano nell’aria…
 
@@ -4329,23 +4329,23 @@ E ancora può bere birra forte…
 
 Che sempre dovrà prevalere!
 
-# Semi-coro
+Semi-coro
 
 E ringraziate il Signore.
 
-# Per la spada del tempo
+Per la spada del tempo
 
 E anche gli eretici che urlano…
 
 E qualsiasi altra cosa buona…
 
-#Il nostro cristianesimo porta…
+Il nostro cristianesimo porta…
 
 Ma soprattutto la birra alla orzo!
 
 [Coro.]
 
-#Con il mio remo-ti-tiro, ti-o-dio-ay…
+Con il mio remo-ti-tiro, ti-o-dio-ay…
 
 Soprattutto la birra prodotta con orzo!
 
@@ -4394,7 +4394,7 @@ Grizzlebeard. “And you, Myself, have you ever seen the Fairies?”
 
 Myself. “I do not think so. I do not think I have ever seen them: alas for me! But I think I have heard them once or twice, murmuring and chattering, and pattering and clattering, and flattering and mocking at me, and alluring me onwards towards the perilous edges and the water-ledges where the torrent tumbles and cascades in the high hills.”
 
-The Sailor. “What did they say to you?” Myself. “They told me I should never get [[Home|home]], and I never have.”
+The Sailor. “What did they say to you?” Myself. “They told me I should never get [[motifs/home|home]], and I never have.”
 
 As we so talked the darkness began to gather, for we had waited once or twice by the way, and especially at that little lift in the road where one passes through a glen of oaks and sees before one great flat water meadows, and beyond them the high Downs quite near.
 
@@ -4427,11 +4427,11 @@ Il Poeta. “Mi hanno dato il dono di creare versi belli, e questo dono lo conse
 
 Il Marinai: “Ora sì, Poeta, credo davvero che tu abbia visto i Piccoli Esseri. Quello che hai appena detto me lo dimostra. Hai anche toccato l’oro fatato. E ce ne sono molti come te. I Piccoli Esseri ti hanno dato versi che sembravano autentici, puri e validi; li hai messi nella tua borsa e te li sei portati via. Ma quando sei uscito nel mondo degli uomini e hai respirato l’aria umana, quei versi si sono rivelati nient’altro che foglie morte, prive di valore. Oh, non scuotere la testa! Noi conosciamo bene quei versi che le fate ci danno in scherzo. Solo noi, crescendo, diventiamo abbastanza saggi da non curarci più di quelle cose vane. Le lasciamo al vento per farle volare via. Sono soltanto foglie morte. Voi poeti, invece, vi attaccate a quelle borse piene di versi inutili, facendovi prendere in giro per tutta la vita. Mentre noi, uomini veri, ci dedichiamo alle cose che davvero contano nel mondo umano: legge, costruzioni, prestiti. Ogni attività degna di un uomo.”
 
-# Grizzledbeard. “E tu, io stesso, hai mai visto le fate?”
+Grizzledbeard. “E tu, io stesso, hai mai visto le fate?”
 
 Io stesso. “Non credo proprio. Non penso di averli mai visti: ahimè per me! Ma credo di averli sentiti una o due volte, mormorare e chiacchierare, frusciare e rumoreggiare, lusingarmi e deridermi, tentandomi ad avvicinarmi ai bordi pericolosi e alle rive dove il torrente si getta giù dalle alte colline.”
 
-Il Marinaiere: “Cosa ti hanno detto?” Io: “Mi hanno detto che non dovevo mai tornare a [[Home|casa]], e così non ho mai fatto.”
+Il Marinaiere: “Cosa ti hanno detto?” Io: “Mi hanno detto che non dovevo mai tornare a [[motifs/home|casa]], e così non ho mai fatto.”
 
 Mentre parlavamo, l’oscurità iniziò ad avvolgerci; avevamo aspettato un paio di volte lungo la strada, soprattutto in quel piccolo tratto in salita dove si attraversa una valle di querce e si vedono davanti a sé vaste praterie allagate, e oltre di esse le alte colline, piuttosto vicine.
 
@@ -4593,7 +4593,7 @@ Gli Elementi della Giurisprudenza.
 
 Un piccolo baule da viaggio per medicinali.
 
-# Una raccolta di semi, con
+Una raccolta di semi, con
 
 Un opuscolo che dovrebbe accompagnare questi materiali…
 
@@ -4641,9 +4641,9 @@ Che la sua pelle sia coperta di peli.
 
 “Oh, ringrazio Dio almeno per questo.”
 
-# In Occidente sono stato “cornuto”, non in Oriente…
+In Occidente sono stato “cornuto”, non in Oriente…
 
-# E mi trasformò in un essere umano, invece che in una bestia
+E mi trasformò in un essere umano, invece che in una bestia
 
 “Di chi è la pelle coperta di peli?”
 
@@ -4673,11 +4673,11 @@ Può sopravvivere senza bere per diversi giorni.
 
 “Ma la sua pelle è coperta di peli.”
 
-#Grizzlebeard: “Quante strofe contiene questa poesia?”
+Grizzlebeard: “Quante strofe contiene questa poesia?”
 
 Io stesso. “Sono moltissimi. Tutti gli animali del campo, le creature striscianti e i mammiferi marini partecipano a questa canzone; alla fine vi compare persino lo stesso Hairy Ainu. Ci sono centinaia e centinaia di versi.”
 
-#La tigre della foresta che vive in una buca
+La tigre della foresta che vive in una buca
 
 La sua pelle è coperta di peli;
 
@@ -4687,7 +4687,7 @@ La sua pelle è coperta di peli!
 
 "The Barbary ape and the chimpanzee"
 
-#Il leone d’Africa, davvero lui…
+Il leone d’Africa, davvero lui…
 
 Con la testa simile a una parrucca e il ciuffo sulle ginocchia…
 
@@ -4741,7 +4741,7 @@ Il poeta. “Ma…!”
 
 Il marinaio: “State zitti!. Non tornerò più. Quell’ostello era davvero il migliore di tutti. Parlate dell’ostello di Saint Girons, dove il vino era ottimo ai tempi di Arthur Young e lo è ancora oggi. Anche se non lo stesso vino, ma comunque il “nipote” di quello stesso vino. E lodate anche quell’ostello situato sotto il passo che porta da Val Carlos. Parlate giustamente dell’illustre ostello di Urgel, conosciuto come l’Ostello Universale, da dove, sotto la luna piena, si può ammirare tutta l’altezza della Sierra del Cadi. E ripetete continuamente le lodi di quell’ostello situato sotto il “Segno della Catena d’Oro”, accanto a un grande castello in rovina, lungo un fiume ampio e molto tranquillo in Normandia. Fate bene ad elogiarli. Ma tutti questi ostelli insieme non potrebbero nemmeno avvicinarsi al livello di quello che un tempo era l’ostello di Bramber.”
 
-#Me stesso: “Non ho mai menzionato nessuna di queste locande!”
+Me stesso: “Non ho mai menzionato nessuna di queste locande!”
 
 Il marinaio disse: “Non esiste al mondo nulla di meglio di una locanda; ma anche tra le cose buone deve esserci una gerarchia. Si dice che gli angeli salgano i gradini, e sono molto disposto a crederci. Lo stesso vale per le locande. Non spetta certo a un viandante stabilire l’ordine giusto tra di esse; ma nella mia giovinezza, la migliore locanda del mondo era una locanda dimenticata tra gli alberi di Bramber. Per questo motivo non tornerò mai più lì. Le famose locande toscane hanno indotto molti a lodarle. Alcuni, credo, in modo eccessivo. E per quanto riguarda le locande minori dei porti marittimi, i marinai (sebbene non le lodino mai in prosa o in poesia) conoscono bene la “Stella di Yarmouth” – intendo quella di Great Yarmouth – e la “County Inn” dell’altra Yarmouth. In particolare, lodano molto il “Dolphin” di Southampton: una locanda davvero nobile, con finestre ad arco. Seconda solo a poche altre al mondo per l’opportunità che offre di comporre versi meravigliosi e prosa fluida. E poi, situata a un giorno di marcia dall’oceano, quante locande i marinai non conoscono! Ci sono la “Bridge Inn” di Amberley, la “White Hart” di Storrington, la “Spread Eagle” di Midhurst, quella più antica e rispettata tra tutte le locande del mondo. La “White Hart” di Steyning, il “White Horse” di Storrington, il “Swan” di Petworth. Tutte queste meritano sicuramente di essere visitate. Erano locande ordinarie, umane, piene di una bontà comune e ragionevole. Ma intorno alla locanda di Bramber, compagni miei, aleggia un’atmosfera molto diversa. La memoria la avvolge, il passare del tempo, l’ossessione perpetua della gioventù. Lasciamo quindi che rimanga lì. Metterò insieme i ricordi di un amore d’infanzia. Ascolterò con sentimenti misti di tristezza e gioia le canzoni che hanno riempito la mia infanzia. Ma non guarderò deliberatamente ciò che, attraverso il processo della santificazione del tempo, è ormai diventato quasi “non di questo mondo”. Non andrò a dormire nella locanda di Bramber. I dei me lo vietino.
 
@@ -4770,7 +4770,7 @@ We will go, then, to this little house of mine, for it is not a mile across the 
 
 This we did, and as we passed the wooden bridge we saw below us my little river, the river Adur, slipping at low tide towards the sea.
 
-So we went on over the water-meadows. It was very cold, and the moon rode over Chanctonbury in a clear heaven. We did not speak. We plodded on all four, in single file, myself leading, along the narrow path by the bare hedge-side. The frost had touched the grass, and the twigs of quickset were sharp in the moonlight like things engraved upon metal. We came out upon the Ashurst road. The mill was all sound in those days, and the arms of it stood against the sky. We walked abreast, but still in silence: the Poet slouched and Grizzlebeard let his stick trail along the ground, and even the Sailor had a melancholy air, though his strong legs carried him well. As for me I still pressed onwards a little ahead of the line, for I knew my goal near at hand, while for my three companions it was but an aimless trudge through the darkness after a long day’s [[Journey|journey]]. So did we near that little house which God knows I love as well as any six or seven little houses in the world.
+So we went on over the water-meadows. It was very cold, and the moon rode over Chanctonbury in a clear heaven. We did not speak. We plodded on all four, in single file, myself leading, along the narrow path by the bare hedge-side. The frost had touched the grass, and the twigs of quickset were sharp in the moonlight like things engraved upon metal. We came out upon the Ashurst road. The mill was all sound in those days, and the arms of it stood against the sky. We walked abreast, but still in silence: the Poet slouched and Grizzlebeard let his stick trail along the ground, and even the Sailor had a melancholy air, though his strong legs carried him well. As for me I still pressed onwards a little ahead of the line, for I knew my goal near at hand, while for my three companions it was but an aimless trudge through the darkness after a long day’s [[motifs/journey|journey]]. So did we near that little house which God knows I love as well as any six or seven little houses in the world.
 
 We came to the foot of a short hill: tall elms stood out against the sky a short way back from the road and beyond a little green. Beneath them shone the thatch of a vast barn, and next it a sight which I knew very well... the roof and chimney. I turned from the road to cross the green, and I took from my pocket a great key, and when my companions saw this their merriment returned to them, for they knew that I had found the shelter.
 
@@ -5001,7 +5001,7 @@ Il poeta. “Non è ancora del tutto completo.”
 
 Il Marinaio (seduto vicino al fuoco e versando la birra): “È meglio così! Non dobbiamo cercare di riempire i vuoti. Fate attenzione alla perfezione: è come un fantasma errante, che ha rovinato molte persone.”
 
-# Grizzledbeard. "C’è una canzone?"
+Grizzledbeard. "C’è una canzone?"
 
 Il Poeta. “C’è una sorta di lamento… Inizia a cantare.”
 
@@ -5009,11 +5009,11 @@ Il poeta
 
 "#Ascoltate, miei gentili fratelli della Foresta..."
 
-# Chi ora nel campo gelato…
+Chi ora nel campo gelato…
 
-# Rifiuta il tuo lavoro sotto quella sua corazza dura e impenetrabile?
+Rifiuta il tuo lavoro sotto quella sua corazza dura e impenetrabile?
 
-# E rivolgete le vostre azioni…
+E rivolgete le vostre azioni…
 
 “Il tuo bestiame torna pigramente alle stalle…”
 
@@ -5025,15 +5025,15 @@ Il Poeta, dopo aver guardato con rimprovero il Marinaio, riempì i polmoni un po
 
 “Mentre il bestiame torna pigramente alle stalle…”
 
-# Oh! radunatevi intorno ai nostri fuochi
+Oh! radunatevi intorno ai nostri fuochi
 
-# E puntare una bacchetta, o scaldare un compagno pulito…
+E puntare una bacchetta, o scaldare un compagno pulito…
 
-# Mentre
+Mentre
 
 Con un rigoroso e attento rispetto dei riti tradizionali…
 
-# Intrecciando rime dignitose
+Intrecciando rime dignitose
 
 “Una threnodia per l’anno che si congeda”.
 
@@ -5043,11 +5043,11 @@ Il poeta (continuazione)
 
 “E tu, che da quando esiste questo mondo stanco…”
 
-# L’essenza dell’uomo
+L’essenza dell’uomo
 
 “Hanno creato un continuo rumore intorno alle nostre case…”
 
-#"Voi mucche, oche, maiali, pecore e tutto il resto..."
+"Voi mucche, oche, maiali, pecore e tutto il resto..."
 
 Titolo:  
 Anche dei topi e dei conigli…
@@ -5058,11 +5058,11 @@ Dalla località di Harting fino al punto in cui il percorso descrive una curva a
 
 Aspettate!
 
-# Un momento solenne
+Un momento solenne
 
 E ci siamo riuniti qui.
 
-# Progresso in rima onorabile
+Progresso in rima onorabile
 
 Con un rigido e attento rispetto dei riti tradizionali
 
@@ -5070,7 +5070,7 @@ La nostra “Trenodia per l’anno che si congeda”.
 
 Il tempo passerà, e ancora una volta arriverà un nuovo anno…
 
-# Torneremo sulle nostre canne
+Torneremo sulle nostre canne
 
 “Le canne rigogliose accanto al fiume Arun che scorre veloce…”
 
@@ -5092,7 +5092,7 @@ Il poeta
 
 “Con un velo di tristezza, lei pone fine al nostro piccolo ciclo.”
 
-# Grizzlebeard. “Chi lo fa?”
+Grizzlebeard. “Chi lo fa?”
 
 Il Poeta: “Ma sì, quella dea sua. La farò partecipare e le farò comporre qualcosa sul momento. Il marinaio non è l’unico qui che sia capace di creare cose all’istante. Te lo prometto, ”
 
@@ -5100,12 +5100,12 @@ Il Poeta: “Ma sì, quella dea sua. La farò partecipare e le farò comporre qu
 
 La neve invernale… la neve invernale cade con rispetto.
 
-#Nelle nostre amate terre
+Nelle nostre amate terre
 
 Titolo:  
 Come su Marana, un lenzuolo avvolgente…
 
-# Nascondeva la piccolezza delle sue mani
+Nascondeva la piccolezza delle sue mani
 
 E le sue labbra vergini…
 
@@ -5163,7 +5163,7 @@ The Sailor. “What all this may have to do with the Body I know not. But this I
 
 Dopo aver visto tutto questo, tornai dentro casa silenziosamente come ero uscito, raggiunsi il mio letto e mi avvolsi nel mio mantello davanti al fuoco. Alla fine anche a me venne il sonno; ma quella notte, in sogno, dei miei amici defunti vennero a trovarmi.
 
-# Il primo di novembre 1902
+Il primo di novembre 1902
 
 La mattina seguente, quando mi svegliai, fu perché il Poeta stava camminando timidamente per la stanza, facendo il più rumore possibile, ma riluttante a rimanere solo ancora a lungo.
 
@@ -5510,7 +5510,7 @@ Io stesso, “Ecco che mostri davvero chi sei: un uomo che segue il mare. Qui su
 
 “Se ottieni il prete, arriverai in paradiso.”
 
-# Grizzledbeard: “È una pura follia… L’assoluzione è riservata agli uomini vivi.”
+Grizzledbeard: “È una pura follia… L’assoluzione è riservata agli uomini vivi.”
 
 Io stesso, “Ecco fatto, Grizzlebeard: parli senza pensare, confondi le cose e distruggi ogni logica, proprio come quel Maligno! Discorsi esegetici, neoscolastici, ipografi. La fine della vera religione. Vecchio mio, sii gentile: benedire un cadavere non fa mai del male a nessuno, anzi è un grande conforto per gli spiriti angosciati. Con le tue decisioni, continui ad andare dritto verso l’eresia. Sei caduto in uno stato terribile e febbrile. Riparati ancora in tempo! Altrimenti, forse quando morirai, non ci saranno candele intorno al tuo feretro, né un grande drappo nero decorato con lacrime d’argento, né un vescovo per benedirti. Chissà. Forse nemmeno un monaco, un parroco, o anche solo un umile curato del castello, ”
 
@@ -5528,11 +5528,11 @@ Ed è proprio così che è stato. A nostro vantaggio, e anche perché abbiamo ca
 
 Per tutto il cammino sotto Chanctonbury, su quella collina alta, proseguimmo man mano che l’alba si diffondeva: lungo una strada molto più antica di qualsiasi altra al mondo; una strada che parte dal vecchio porto di Pevensey, attraversa la Valle di Glynde, Cuckmere e il fiume Ouse, per poi raggiungere l’altopiano di Lewes, costeggiare il bordo della Combe e scendere fino alla cresta sottostante le colline delle Downs, passando per Court House, Plumpton Corner, West Meston, Clinton e Hollow Pie Combe (sebbene tra queste due località la strada si dirami e poi si ricongiunga, formando un’isola con il Wolstonbury Hill); quindi proseguiamo attraverso Poynings, Fulking ed Edburton, fino al punto in cui il fiume viene attraversato e al Forte di Bramber; e così via, sempre sotto le colline delle Downs, fino ad arrivare ad Arun, presso Houghton Bridge, per poi passare per Bury, Westburton, Sutton, Duncton, Graffham, Cocking, Diddling e Harting, tutti nomi tipici del Sussex, luoghi in cui l’acqua pura, filtrata attraverso la calcarea delle alte colline, zampilla fuori in fontane, alimentando quelle terre e quegli insediamenti umani. Lungo quel percorso, tra muri e alberi che sembravano altrettanto antichi della strada stessa, parlammo di tutte le cose di cui gli uomini parlano, perché gli uomini sono fatti per parlare e per condividere la vita. Fino a quando non arrivammo all’incrocio di Washington; e lì, dissi ai miei compagni:
 
-#Me stesso. “Hai mai sentito parlare di Washington Inn?”
+Me stesso. “Hai mai sentito parlare di Washington Inn?”
 
 Grizzlebeard. “Sì, certo, tutto il mondo ne ha sentito parlare; e quando Washington del Virginia, un generale in terre lontane, radunava il suo esercito molto tempo fa, le persone che udivano il suo nome dicevano: ‘Washington?. Washington?. Conosco quel nome.’ Poi ricordavano l’osteria di Washington e sorridevano. Perché la fama è proprio così: si diffonde attraverso i nomi.”
 
-#Il poeta. “Allora, per quale motivo è famosa l’osteria di Washington?”
+Il poeta. “Allora, per quale motivo è famosa l’osteria di Washington?”
 
 
 
@@ -5616,7 +5616,7 @@ Anche San Offa, di Swinestead in Mercia, che svenne al solo pensiero di quella b
 
 È davvero una buona birra; e quando lasceremo le nostre valli, la berremo tutti insieme in Paradiso.
 
-# Grizzlebeard. “Hai ragione.”
+Grizzlebeard. “Hai ragione.”
 
 Il poeta. “Sì, lo sei.”
 
@@ -5687,7 +5687,7 @@ Will blarst un to the de-e-vil.’
 
 “Which corruption and degradation of so great a strain they very frequently repeated over their cups at evening in the security of their inland homes.
 
-“Now, when news of this came into Sussex and reached the king, where he sat in his castle of Lewes, considering his own greatness and the immensity of the world, he could scarcely believe his ears. For that the Kentish men should sing songs of their own and even put on airs when it so suited them, nay, timorously raid over Rother to pinch a pig when the good-man was from [[Home|home]], he thought tolerable enough; but that they should take the song which was, as it were, the very heart of Sussex, and turn it to their own uses, was, he thought, quite past bearing, and, indeed, as I have said, he could hardly credit it.
+“Now, when news of this came into Sussex and reached the king, where he sat in his castle of Lewes, considering his own greatness and the immensity of the world, he could scarcely believe his ears. For that the Kentish men should sing songs of their own and even put on airs when it so suited them, nay, timorously raid over Rother to pinch a pig when the good-man was from [[motifs/home|home]], he thought tolerable enough; but that they should take the song which was, as it were, the very heart of Sussex, and turn it to their own uses, was, he thought, quite past bearing, and, indeed, as I have said, he could hardly credit it.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5709,7 +5709,7 @@ Con questa sua barba grigiastra, Grizzlebeard si schiarì la voce e intonò con 
 
 "#Se Bonaparte..."
 
-# Shud Zummon d’Eart
+Shud Zummon d’Eart
 
 "To land on Pevensey Level,"
 
@@ -5729,13 +5729,13 @@ Con le nostre tre pistole
 
 “Se Bonaparte…”
 
-# Shud Zummon d’Eart
+Shud Zummon d’Eart
 
 "To land on Pevensey Level,"
 
 Ci sono tre uomini
 
-# In Horsemonden
+In Horsemonden
 
 “Gridirà contro il diavolo.”
 
@@ -5860,7 +5860,7 @@ Nel frattempo, il loro re e il suo seguito, essendo circondati in quell’ostell
 <span class="atom-split" data-atom="part--part_29" data-title="The Four Men (part 29)" data-chapter="part 29" data-kind="excerpt" data-tags="motif/home"></span>
 
 
-“When the King of Sussex had done all these things he went back [[Home|home]] to his castle of Lewes, but not before he had most royally dined and entertained his army in the inn at Battle, and caused to be broached for them 1732 barrels of that exceedingly old ale, called Audit Ale, the memory of which is preserved in those parts most wonderfully.
+“When the King of Sussex had done all these things he went back [[motifs/home|home]] to his castle of Lewes, but not before he had most royally dined and entertained his army in the inn at Battle, and caused to be broached for them 1732 barrels of that exceedingly old ale, called Audit Ale, the memory of which is preserved in those parts most wonderfully.
 
 “This is the story of how the men of Kent were conquered by the men of Sussex and Guildford Level and the marsh were annexed and made a bastion, as it were, of our kingdom. And on account of this great fight it is that Battle is called Battle, and not at all on account of that other skirmish with the Normans, in which we so thoroughly defeated them also, that they turned their backs to the Weald, and ran off as best they could to Dover and the mean places of the East.
 
@@ -5907,7 +5907,7 @@ He sat down again and thought considerably about the horse. There was a sort of 
 
 <span class="qlang-split" data-lang="it"></span>
 
-“Quando il Re del Sussex ebbe fatto tutte queste cose, tornò [[Home|a casa]] nel suo castello di Lewes, ma non prima di aver mangiato e intrattenuto con grande magnanimità il proprio esercito nell’osteria di Battle, facendo servire loro 1732 barili di quella birra estremamente vecchia, chiamata Audit Ale; il ricordo di essa è ancora oggi conservato in quelle zone in modo meraviglioso.”
+“Quando il Re del Sussex ebbe fatto tutte queste cose, tornò [[motifs/home|a casa]] nel suo castello di Lewes, ma non prima di aver mangiato e intrattenuto con grande magnanimità il proprio esercito nell’osteria di Battle, facendo servire loro 1732 barili di quella birra estremamente vecchia, chiamata Audit Ale; il ricordo di essa è ancora oggi conservato in quelle zone in modo meraviglioso.”
 
 “Questa è la storia di come gli uomini del Kent furono conquistati dagli uomini del Sussex e di Guildford Level; le paludi furono annesse e trasformate, in un certo senso, in un baluardo del nostro regno. Ed è proprio a causa di questa grande battaglia che questo luogo viene chiamato ‘Battle’, e non affatto per quella piccola scaramuccia con i Normanni, nella quale li sconfiggemmo completamente, tanto che dovettero fuggire verso il Weald, dirigendosi verso Dover e altre zone dell’Est.”
 
@@ -5917,7 +5917,7 @@ Il poeta. “È possibile che gli uomini del Kent raccontino una storia diversa�
 
 “Me stesso. Ma questo non ci spiega come mai siamo riusciti a prendere sotto controllo questa zona della contea di Crawley, nonché quella fascia di terra che chiaramente appartiene ai popoli del Surrey.” Grizzlebeard rispose: “Beh, era proprio quello che chiamavano ‘strategia’. Quando i baroni del Surrey – il cui capo viveva in una grotta sotto la collina di Reigate – vennero a sapere della battaglia e conoscerono le qualità del re di Sussex e dei suoi uomini, decisero spontaneamente di chiedergli di controllare quella fascia di terra dove nascevano i loro fiumi, al fine di ottenere una maggiore protezione. Lui acconsentì molto volentieri, ed è così che fu tracciato il confine settentrionale del Sussex.”
 
-#Me stesso. “E ha smesso di piovere.”
+Me stesso. “E ha smesso di piovere.”
 
 Il Marinaio: “E che non piova mai più, perché quando piove noi stiamo qui nelle taverne e ascoltiamo solo storie interminabili.”
 
@@ -5966,7 +5966,7 @@ This tall, lean young man again thought that he had exceeded, but our sympatheti
 
 “Now, when you want to pull up a horse that’s got too Frenchy, if you take me,” he continued, looking extremely intelligent, and prepared to detail the whole process, “there’re lots of dodges. Some men’ll give a sharp jerk sideways, and try to wrench his head off, and I knew a man (he’s dead now... kind o’ soldier) who just pulled and pulled and then suddenly let go. He said that was the way. But what I do is to saw backwards and forwards right and left ‘til he’s reg’lar bored and can’t stand it. Then he’ll stop to see what’s the matter. Any horse will. Even if he’d a mouth like an old conscience.’Least I thought any horse would ‘til to-day; but old Benjamin’s horse didn’t. Never thought an animal could go so straight! Got quite close to the turf and tucked his shins under him somehow, Tirri Pat, Tirri Pat, Tirri Pat, Tirri Pat, Tirri Pat, so quick, you couldn’t tell hardly when he touched and when he didn’t. I wasn’t able to turn round and look at his tail ‘cause I was so anxious, but it must have been standing straight out... his neck was, anyway; and I knew the Rother was gettin’ closer all the time. He didn’t take a lep exactly when he got to the hedges, but he just went on gallopin’ and they went by from under him. Thought I never saw the old roofs long way off look so quiet! When I came to Mr. Churton’s field, the one where the cows are, I thought all of a sudden, ‘Sposin’ there’s wire?’ It’s a measly sort of crinkled hedge, but enough to hide wire. Well, long ‘fore I’d remembered, he was past it; and that was the only place you’d have known you were passin’ anything. He missed somethin’ with one of his hind feet, damn him, but he was off again. Then I saw the Rother, and I thought to myself quite clearly, ‘Either he’ll jump right over this river, and then it’ll be a sort o’ miracle because it’s eight times as far as any horse has jumped before, and it’s just as easy to sit that as anything, because it will be just sailing through the air; or else he’ll go into the water, and then he won’t play the fool any more.’ For I’d always heard that when a wild, common, mad horse got into cold water it cured him, same as ‘t would anybody else.
 
-But there! That’s just what didn’t happen! Neither of ‘em! You’ll believe me... when he got to the brink of that water — wow! — he swerved round like a swallow and made for the high road and Petworth again! An’ when he got on the high road he began dancing slowly [[Home|home]] and puffing as though he’d done a day’s work, and every now and then he’d sneeze.... My word, what a day!”
+But there! That’s just what didn’t happen! Neither of ‘em! You’ll believe me... when he got to the brink of that water — wow! — he swerved round like a swallow and made for the high road and Petworth again! An’ when he got on the high road he began dancing slowly [[motifs/home|home]] and puffing as though he’d done a day’s work, and every now and then he’d sneeze.... My word, what a day!”
 
 “It can’t have taken you a day; it’s only lunch time yet,” said Grizzlebeard gently.
 
@@ -5974,7 +5974,7 @@ But there! That’s just what didn’t happen! Neither of ‘em! You’ll believ
 
 “‘You’ve been takin’ it out of ‘im!’
 
-“I was so angry I didn’t know what to say; anyhow, I said: ‘Take your Beelzebub.’ And the stable boy said quite fiercely: “E ain’t Beelzebub, and you’ve no right to call ‘im so out of his name!’ So there might have been a scrap, but I was too tired, and I said I’d take something ladylike to ride [[Home|home]] with, and I’ve got it in the stable now, an’ I must be getting on. It’s late, and I’m very tired.”
+“I was so angry I didn’t know what to say; anyhow, I said: ‘Take your Beelzebub.’ And the stable boy said quite fiercely: “E ain’t Beelzebub, and you’ve no right to call ‘im so out of his name!’ So there might have been a scrap, but I was too tired, and I said I’d take something ladylike to ride [[motifs/home|home]] with, and I’ve got it in the stable now, an’ I must be getting on. It’s late, and I’m very tired.”
 
 We told him one after the other, and then all in chorus, that we were enchanted beyond measure with the description of his day. Grizzlebeard asked him whether he had heard anything of the run, but he shook his head, and the Poet, who had little imagined that such things were possible in English fields, watched them both with some alarm.
 
@@ -6036,9 +6036,9 @@ The Poet. “We do not speak of it so from any common affection, no, nor from an
 
 Myself. “What the Sailor says is true. When we get over that lift of land upon the Amberley road before us we shall see Arun a long way off between his reeds, and the tide tumbling in Arun down towards the sea. We shall see Houghton and Westburton Hill, and Duncton further along, and all the wall of them, Graffham and Barlton, and so to Harting, which is the end where the county ceases and where you come to shapeless things. All this is our own country, and it is to see; it at last that we have travelled so steadfastly during these long days.”
 
-The Poet. “Whatever you read in all the writings of men, and whatever you hear in all the speech of men, and whatever you notice in the eyes of men, of expression or reminiscence or desire, you will see nothing in any man’s speech or writing or expression to match that which marks his hunger for [[Home|home]]. Those who seem to lack it are rather men satiated, who have never left their villages for a time long enough to let them know the craving and the necessity. Those who have despaired of it are the exiles, and the curse upon them is harder than any other curse that can fall upon men. It is said that the first murder done in this world was punished so, by loss of [[Home|home]]; and it is said also that the greatest and the worst of the murders men ever did has also been punished in the same way, by the general exile of its doers and all their children. They say that you can see that exile in their gestures and in the tortured lines of their faces and in the unlaughing sadness of their eyes.”
+The Poet. “Whatever you read in all the writings of men, and whatever you hear in all the speech of men, and whatever you notice in the eyes of men, of expression or reminiscence or desire, you will see nothing in any man’s speech or writing or expression to match that which marks his hunger for [[motifs/home|home]]. Those who seem to lack it are rather men satiated, who have never left their villages for a time long enough to let them know the craving and the necessity. Those who have despaired of it are the exiles, and the curse upon them is harder than any other curse that can fall upon men. It is said that the first murder done in this world was punished so, by loss of [[motifs/home|home]]; and it is said also that the greatest and the worst of the murders men ever did has also been punished in the same way, by the general exile of its doers and all their children. They say that you can see that exile in their gestures and in the tortured lines of their faces and in the unlaughing sadness of their eyes.”
 
-Grizzlebeard. “Tell me, Sailor, when you say that thus, coming [[Home|home]], you will be satisfied, are you so sure? For my part, I have travelled very widely, especially in Eastern places (which are the most different from our own), and, one time and another — altogether forty times — I have come back to the flats of my own country, eastward of the Vale of Glynde. I have seen once more the heavy clouds of home fresh before the wind over the Level, and I have smelt, from the saltings and the innings behind Pevensey, the nearness of the sea. Then indeed I have each time remembered my boyhood, and each time I have been glad to come home. But I never found it to be a final gladness. After a little time I must be off again, and find new places. And that is also why in this short [[Journey|journey]] of ours I came along with you all, westward into those parts of the county which are not ray own.”
+Grizzlebeard. “Tell me, Sailor, when you say that thus, coming [[motifs/home|home]], you will be satisfied, are you so sure? For my part, I have travelled very widely, especially in Eastern places (which are the most different from our own), and, one time and another — altogether forty times — I have come back to the flats of my own country, eastward of the Vale of Glynde. I have seen once more the heavy clouds of home fresh before the wind over the Level, and I have smelt, from the saltings and the innings behind Pevensey, the nearness of the sea. Then indeed I have each time remembered my boyhood, and each time I have been glad to come home. But I never found it to be a final gladness. After a little time I must be off again, and find new places. And that is also why in this short [[motifs/journey|journey]] of ours I came along with you all, westward into those parts of the county which are not ray own.”
 
 The Sailor. “I cannot tell you, Grizzlebeard, whether a man can find completion in his home or no. You are a rich man, and you have travelled as rich men do, for pleasure — which rich men never find.” Grizzlebeard. “Nor poor men either!”
 
@@ -6067,7 +6067,7 @@ Quindi siamo usciti e abbiamo preso la strada di Amberley; abbiamo attraversato 
 
 “E io dissi: ‘Sì, ed è anche più alta per me.’”
 
-# “E il poeta disse: ‘Lo so.’”
+“E il poeta disse: ‘Lo so.’”
 
 E il Marinai disse: “Lo so anch’io.” Anch’io stesso. “Sì, tutti conosciamo questo luogo famoso, e conosciamo anche questi alti e bassi della vita. Rackham Mount, il monastero dietro di noi, Parham, quella grande casa. Perché ci troviamo ai confini di ciò che conosciamo, in una sorta di terra di frontiera. Presto parleremo con la nostra gente, sotto le nostre stesse colline.”
 
@@ -6077,7 +6077,7 @@ Il Poeta: “Non ne parliamo per un affetto comune, no, né per un affetto sempl
 
 Io stesso. “Quello che dice il marinaio è vero. Quando avremo superato quella altura di terreno sulla strada di Amberley, vedremo Arun in lontananza, tra i suoi canneti, e la marea che scorre verso il mare attraverso Arun. Vedremo anche Houghton e Westburton Hill, e Duncton più avanti, insieme a tutte le altre località: Graffham, Barlton, fino a Harting, dove il contea finisce e iniziano quelle terre senza forma. Tutto questo è la nostra patria; è proprio per vederlo che abbiamo viaggiato con tanta determinazione in questi lunghi giorni.”
 
-Il Poeta: “Qualunque cosa leggiate nelle scritture degli uomini, qualunque cosa ascoltiate nei loro discorsi, e qualunque cosa notiate negli occhi degli uomini – nell’espressione, nel ricordo o nel desiderio – non troverete nulla, in nessun discorso, scrittura o espressione umana, che possa eguagliare ciò che segna la loro fame di [[Home|>casa]]. Coloro che sembrano privi di essa sono in realtà uomini saziati, che non hanno mai lasciato i loro villaggi per un periodo sufficientemente lungo da comprendere veramente quel desiderio e quella necessità. Quelli che ne hanno perso ogni speranza sono gli esiliati; la maledizione che li colpisce è più dura di qualsiasi altra maledizione possa abbattersi sugli uomini. Si dice che il primo omicidio commesso in questo mondo sia stato punito proprio con l’espulsione dalla propria casa; si dice anche che i crimini più gravi e orribili mai compiuti dagli uomini siano stati puniti allo stesso modo: con l’esilio generale dei colpevoli e di tutti i loro figli. Si dice infine che si possa vedere quell’esilio nei loro gesti, nelle linee tormentate dei loro volti, nella tristezza senza sorriso nei loro occhi.”
+Il Poeta: “Qualunque cosa leggiate nelle scritture degli uomini, qualunque cosa ascoltiate nei loro discorsi, e qualunque cosa notiate negli occhi degli uomini – nell’espressione, nel ricordo o nel desiderio – non troverete nulla, in nessun discorso, scrittura o espressione umana, che possa eguagliare ciò che segna la loro fame di [[motifs/home|>casa]]. Coloro che sembrano privi di essa sono in realtà uomini saziati, che non hanno mai lasciato i loro villaggi per un periodo sufficientemente lungo da comprendere veramente quel desiderio e quella necessità. Quelli che ne hanno perso ogni speranza sono gli esiliati; la maledizione che li colpisce è più dura di qualsiasi altra maledizione possa abbattersi sugli uomini. Si dice che il primo omicidio commesso in questo mondo sia stato punito proprio con l’espulsione dalla propria casa; si dice anche che i crimini più gravi e orribili mai compiuti dagli uomini siano stati puniti allo stesso modo: con l’esilio generale dei colpevoli e di tutti i loro figli. Si dice infine che si possa vedere quell’esilio nei loro gesti, nelle linee tormentate dei loro volti, nella tristezza senza sorriso nei loro occhi.”
 
 Grizzlebeard: “Dimmi, Marinai. Quando dici che, tornando a casa in questo modo, sarai soddisfatto, ne sei davvero sicuro? Per quanto mi riguarda, ho viaggiato molto, soprattutto nelle regioni orientali (quelle più diverse dalle nostre), e in totale quaranta volte sono tornato nelle pianure della mia patria, a est della Valle di Glynde. Ho rivisto ancora una volta quelle nuvole dense tipiche del mio paese, che si muovono al vento sopra le pianure. E ho sentito, dall’odore delle saline e dalle zone dietro Pevensey, la vicinanza del mare. Ogni volta ricordavo la mia infanzia e mi rallegravo di essere tornato a casa. Ma quella gioia non era mai definitiva. Dopo un po’ dovevo ripartire, alla ricerca di nuovi luoghi. Ed è anche per questo che, in questo breve viaggio, sono venuto con voi verso quelle parti della contea che non appartengono a noi.”
 
@@ -6096,7 +6096,7 @@ Io stesso. “Andremo avanti senza mai accontentarci, senza mai essere soddisfat
 <span class="atom-split" data-atom="part--part_32" data-title="The Four Men (part 32)" data-chapter="part 32" data-kind="excerpt" data-tags="motif/home"></span>
 
 
-The Poet. “Nevertheless we know it in dreams. There are dreams in which men do attain to a complete satisfaction, reaching the [[Home|home]] within the [[Home|home]] and the place inside the mind. And such a man it was, remembering such dreams, who wrote that he had forgotten the name of his own country and could not find his way to it. But this man had in him a sense that soon the name of his own country would be revealed to him, and he knew that when he heard the name he should find the place well enough; it would come back at once to him, as the memory of his love and of the Dovrefjeld came to that man who had brought [[Home|home]] the master-maid in the story. He had brought her home from over seas; but later he had forgotten her, from eating human food.
+The Poet. “Nevertheless we know it in dreams. There are dreams in which men do attain to a complete satisfaction, reaching the [[motifs/home|home]] within the [[motifs/home|home]] and the place inside the mind. And such a man it was, remembering such dreams, who wrote that he had forgotten the name of his own country and could not find his way to it. But this man had in him a sense that soon the name of his own country would be revealed to him, and he knew that when he heard the name he should find the place well enough; it would come back at once to him, as the memory of his love and of the Dovrefjeld came to that man who had brought [[motifs/home|home]] the master-maid in the story. He had brought her home from over seas; but later he had forgotten her, from eating human food.
 
 “This man said he foresaw a fateful moment coming, and that he had it like a picture within. He would be in a tavern sitting by himself and two others would be there talking low together, so that he should not hear. Yet one of these talking low would speak the name of his own country, and when he heard the name of his own country (he said) then he knew that he would rise up, and take his staff and go.
 
@@ -6175,7 +6175,7 @@ Then we looked at that river a little while, and blessed it, and felt each of us
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il Poeta: “Tuttavia lo sappiamo nei sogni. Ci sono sogni in cui gli uomini raggiungono una completa soddisfazione, trovando la [[Home|>casa]] all’interno della stessa casa e il luogo dentro la mente. Ed è stato proprio un uomo che, ricordando tali sogni, scrisse di aver dimenticato il nome del proprio paese e di non riuscire a trovarvi la strada. Ma quell’uomo aveva in sé la sensazione che presto il nome del suo paese gli sarebbe stato rivelato; sapeva che, non appena l’avesse sentito, avrebbe trovato facilmente quel luogo. Gli sarebbe tornato subito in mente, proprio come il ricordo del suo amore e di Dovrefjeld era tornato a quell’uomo che aveva riportato a casa la fanciulla nella storia. L’aveva portata a casa dall’altra parte del mare; ma poi l’aveva dimenticata, a causa del cibo umano che mangiava, ”
+Il Poeta: “Tuttavia lo sappiamo nei sogni. Ci sono sogni in cui gli uomini raggiungono una completa soddisfazione, trovando la [[motifs/home|>casa]] all’interno della stessa casa e il luogo dentro la mente. Ed è stato proprio un uomo che, ricordando tali sogni, scrisse di aver dimenticato il nome del proprio paese e di non riuscire a trovarvi la strada. Ma quell’uomo aveva in sé la sensazione che presto il nome del suo paese gli sarebbe stato rivelato; sapeva che, non appena l’avesse sentito, avrebbe trovato facilmente quel luogo. Gli sarebbe tornato subito in mente, proprio come il ricordo del suo amore e di Dovrefjeld era tornato a quell’uomo che aveva riportato a casa la fanciulla nella storia. L’aveva portata a casa dall’altra parte del mare; ma poi l’aveva dimenticata, a causa del cibo umano che mangiava, ”
 
 “Quest’uomo disse di aver previsto l’avvicinarsi di un momento fatale, e che lo aveva chiaramente immaginato nella sua mente. Si sarebbe trovato in una taverna, seduto da solo, mentre altre due persone avrebbero parlato sottovoce l’una con l’altra, in modo che lui non potesse sentire. Tuttavia, uno di loro avrebbe menzionato il nome del suo paese natale; e quando avesse sentito quel nome (disse), avrebbe saputo che doveva alzarsi, prendere il proprio bastone e andarsene.”
 
@@ -6187,17 +6187,17 @@ Io stesso. “È un errore. Se ha un bastone in mano, allora deve avere qualcosa
 
 Il Marinai: “Non interrompete il Poeta, altrimenti non riuscirà a continuare la sua poesia; inoltre, nella poesia non si è obbligati a seguire regole precise come avviene in aritmetica; l’umanità lo ha dimostrato migliaia di volte.”
 
-# Grizzledbeard. “Vai avanti, Poeta.”
+Grizzledbeard. “Vai avanti, Poeta.”
 
 Il poeta
 
-#"Andrò senza compagni."
+"Andrò senza compagni."
 
 E senza nulla in mano…
 
-# Attraverserò molti luoghi
+Attraverserò molti luoghi
 
-# Ciò che non riesco a comprendere
+Ciò che non riesco a comprendere
 
 Fino a quando non tornerò nel mio paese natale.
 
@@ -6205,7 +6205,7 @@ Che paese piacevole!
 
 Gli alberi che crescono nel mio paese natale
 
-# Il faggio e il tasso
+Il faggio e il tasso
 
 Molti stanno insieme.
 
@@ -6217,7 +6217,7 @@ Il Marinai: “Credo di sapere dove si trovi questo posto di cui parla il Poeta.
 
 Il Poeta (con rabbia): “Non è affatto così. È un luogo dove nessun uomo è mai stato, e non ci andrà mai, almeno non uomini come voi!”
 
-# Grizzledbeard: “Non arrabbiarti, Poeta… ma dimmi se ne sono rimasti ancora.”
+Grizzledbeard: “Non arrabbiarti, Poeta… ma dimmi se ne sono rimasti ancora.”
 
 Il Poeta. “Non c’è molto di più da aggiungere; è così che va…”
 
@@ -6225,7 +6225,7 @@ Il Poeta. “Non c’è molto di più da aggiungere; è così che va…”
 
 Mi sdraierò e dormirò.
 
-# Osserverò nelle valli
+Osserverò nelle valli
 
 Le lunghe mandrie di pecore.
 
@@ -6241,7 +6241,7 @@ Grizzlebeard: “Beh, allora. Poiché tieni così tanto alla tua patria, in che 
 
 “Me stesso… ‘Diamo vita a un sorteggio per decidere chi si annegherà in sacrificio al fiume.’”
 
-#Il poeta. “Contiamo i nostri soldi… devono essere quasi finiti, e io non ne ho affatto.”
+Il poeta. “Contiamo i nostri soldi… devono essere quasi finiti, e io non ne ho affatto.”
 
 Il Marinai: “No, lasciateci raccontare (dopo tanti anni, a nessuno importa più) la storia del primo amore che ognuno di noi ha avuto, coloro di noi che se ne ricordano.” Ognuno di noi, nel proprio cuore, concordava.
 
@@ -6270,7 +6270,7 @@ When we had all four come in out of the rain into Mr. Duke’s parlour at the Br
 
 “She had one brother, who lived away in some great palace or other in the north, and one sister who was married far off in Italy. She herself had inherited an ancient house of stone set in her own valley, which was that of the river Brede, and most dear to her; for it was there that she had lived as a child, and there would she pass her womanhood.
 
-“Into this house I was received, for she was much older than I, and when I first knew her I was not yet a man. Thither perpetually in the intervals of study I returned. Insensibly my visits grew most natural; I passed the gates which are the beginning of a full life, and constantly I found myself, in spite of a more active bearing and a now complete possession of my youth, alone in her companionship. Her many servants knew me as a part of their household: her grooms who first had taught me to ride, her keepers with whom I had first shot, her old nurse, a pensioner, who favoured this early [[Friendship|friendship]]. The priest also called me by my name.
+“Into this house I was received, for she was much older than I, and when I first knew her I was not yet a man. Thither perpetually in the intervals of study I returned. Insensibly my visits grew most natural; I passed the gates which are the beginning of a full life, and constantly I found myself, in spite of a more active bearing and a now complete possession of my youth, alone in her companionship. Her many servants knew me as a part of their household: her grooms who first had taught me to ride, her keepers with whom I had first shot, her old nurse, a pensioner, who favoured this early [[concepts/friendship|friendship]]. The priest also called me by my name.
 
 “We walked together in long avenues; the lawns of four hundred years were a carpet for us. We paced her woods slowly together and often watched together in the frosty season of the year the early setting of the sun behind bare trees. At evening by her vast and regal fires we sat side by side, speaking in that light alone to each other of dead poets and of the wars and of things seen and of small domestic memories grown to be pictures clear and lovable.
 
@@ -6288,11 +6288,11 @@ An enthusiasm came into Grizzlebeard’s eyes, something at once brilliant and d
 
 “Do not ask me whether I contemplated this or that, union or marriage, or the mere continuance of what I knew, for I was up in a world where no such things are considered. There was no time. No future threatened me, no past could be remembered. I was high above all these things.
 
-“By an accident of fortune I was called away, and in a distant town over seas had alien work put before me, and I mixed with working men. I faithfully curry-combed lean horses, and very carefully greased the axles of heavy wheels, till, after nineteen months, I could come [[Home|home]], and returning I made at once for the Valley.
+“By an accident of fortune I was called away, and in a distant town over seas had alien work put before me, and I mixed with working men. I faithfully curry-combed lean horses, and very carefully greased the axles of heavy wheels, till, after nineteen months, I could come [[motifs/home|home]], and returning I made at once for the Valley.
 
 “As I approached the house I was conscious of no change. The interval had vanished, and I was once again to see and to hear.
 
-“The man that opened the door to me knew me well. I asked for her by her title and her name — for she was noble. He answered me, using her title but not her name. He told me that she would be [[Home|home]] that evening late, and he gave me a note to read from her. The writing on that little square of paper renewed in me with a power I knew too well the magic of a sacred place to which I had deliberately returned. As I held it in my hand I breathed unsteadily, and I walked in a fever towards the great gates of iron; nor did I open the letter till I had taken refuge for the next few hours of evening in the inn of her village, where also I was known and had been loved by all in my boyhood.
+“The man that opened the door to me knew me well. I asked for her by her title and her name — for she was noble. He answered me, using her title but not her name. He told me that she would be [[motifs/home|home]] that evening late, and he gave me a note to read from her. The writing on that little square of paper renewed in me with a power I knew too well the magic of a sacred place to which I had deliberately returned. As I held it in my hand I breathed unsteadily, and I walked in a fever towards the great gates of iron; nor did I open the letter till I had taken refuge for the next few hours of evening in the inn of her village, where also I was known and had been loved by all in my boyhood.
 
 “There, underneath a little lamp, alone and with food before me, I read the invitation from her hand.
 
@@ -6317,7 +6317,7 @@ Quando noi quattro entrammo nella sala del signor Duke al Bridge Inn, dopo esser
 
 “Aveva un fratello che viveva lontano, in qualche grande palazzo nel nord, e una sorella sposata in Italia. Lei stessa aveva ereditato una vecchia casa di pietra situata nella sua valle, quella del fiume Brede; era il luogo che le era più caro: lì aveva trascorso l’infanzia e lì avrebbe passato anche la sua giovinezza.”
 
-“In questa casa fui accolto, poiché lei era molto più anziana di me; quando la conobbi per la prima volta, non ero ancora un uomo. Continuavo a tornarvi nei momenti liberi dagli studi. In modo insensibile, le mie visite divennero sempre più naturali; superai i confini che segnano l’inizio di una vita vera e, nonostante un comportamento più attivo e la piena padronanza della mia giovinezza, mi ritrovavo sempre da solo in sua compagnia. I suoi numerosi servitori mi conoscevano come parte della loro famiglia: i suoi cavalieri che mi avevano insegnato a montare a cavallo, le sue guardie con cui avevo imparato a sparare, la sua vecchia nutrice. Tutti favorivano questa precoce [[Friendship|amicizia]] tra noi. Anche il prete mi chiamava per nome.”
+“In questa casa fui accolto, poiché lei era molto più anziana di me; quando la conobbi per la prima volta, non ero ancora un uomo. Continuavo a tornarvi nei momenti liberi dagli studi. In modo insensibile, le mie visite divennero sempre più naturali; superai i confini che segnano l’inizio di una vita vera e, nonostante un comportamento più attivo e la piena padronanza della mia giovinezza, mi ritrovavo sempre da solo in sua compagnia. I suoi numerosi servitori mi conoscevano come parte della loro famiglia: i suoi cavalieri che mi avevano insegnato a montare a cavallo, le sue guardie con cui avevo imparato a sparare, la sua vecchia nutrice. Tutti favorivano questa precoce [[concepts/friendship|amicizia]] tra noi. Anche il prete mi chiamava per nome.”
 
 “Camminammo insieme lungo viali lunghi; i prati di quattrocento anni ci facevano da tappeto. Percorremmo lentamente i suoi boschi insieme, e spesso, nella stagione gelida dell’anno, osservavamo insieme il tramonto del sole dietro gli alberi nudi. Alla sera, accanto ai suoi grandi e maestosi falò, sedevamo uno accanto all’altro, parlando soltanto di poeti defunti, di guerre, di cose viste, e di piccoli ricordi domestici che erano diventati immagini chiare e adorabili.”
 
@@ -6335,11 +6335,11 @@ Negli occhi di Grizzlebeard apparve un entusiasmo, qualcosa di al tempo stesso b
 
 “Non chiedetemi se abbia considerato questa o quell’opzione, un’unione o un matrimonio, o semplicemente la continuazione di ciò che conoscevo. Perché mi trovavo in un mondo dove cose del genere non venivano nemmeno prese in considerazione. Non esisteva il tempo. Nessun futuro mi minacciava, nessun passato poteva essere ricordato. Ero al di sopra di tutte queste cose.”
 
-“Per un caso fortunato fui chiamato via e in una lontana città, oltre mare, mi venne offerto un lavoro diverso da quello che facevo prima; vi trascorsi il tempo tra gli operai. Lavoravo con diligenza sui cavalli magri e ungevo con cura gli assi delle ruote pesanti. Fino a quando, dopo diciannove mesi, riuscii a tornare [[Home|>a casa]]; non appena arrivato, mi diressi subito verso la Valle.”
+“Per un caso fortunato fui chiamato via e in una lontana città, oltre mare, mi venne offerto un lavoro diverso da quello che facevo prima; vi trascorsi il tempo tra gli operai. Lavoravo con diligenza sui cavalli magri e ungevo con cura gli assi delle ruote pesanti. Fino a quando, dopo diciannove mesi, riuscii a tornare [[motifs/home|>a casa]]; non appena arrivato, mi diressi subito verso la Valle.”
 
 “Mentre mi avvicinavo alla casa, non notai alcun cambiamento. Quel periodo di oscurità era svanito, e io potevo vedere e sentire di nuovo.”
 
-“L’uomo che mi aprì la porta mi conosceva bene. Chiesi di lei usando il suo titolo e il suo nome, perché era nobile. Mi rispose utilizzando soltanto il suo titolo, ma non il suo nome. Mi disse che sarebbe tornata a [[Home|>casa]] quella sera tardi, e mi diede una lettera da leggere. Le parole scritte su quel piccolo pezzo di carta rinnovarono in me, con una forza che conoscevo troppo bene, la magia di un luogo sacro al quale ero tornata apposta. Mentre la tenevo in mano, respiravo affannosamente e camminavo con febbre verso le grandi porte di ferro; non aprii la lettera fino a quando non mi rifugiai, per le ore successive della sera, nell’osteria del suo villaggio, dove anch’io ero conosciuta e amata da tutti da quando ero bambina.”
+“L’uomo che mi aprì la porta mi conosceva bene. Chiesi di lei usando il suo titolo e il suo nome, perché era nobile. Mi rispose utilizzando soltanto il suo titolo, ma non il suo nome. Mi disse che sarebbe tornata a [[motifs/home|>casa]] quella sera tardi, e mi diede una lettera da leggere. Le parole scritte su quel piccolo pezzo di carta rinnovarono in me, con una forza che conoscevo troppo bene, la magia di un luogo sacro al quale ero tornata apposta. Mentre la tenevo in mano, respiravo affannosamente e camminavo con febbre verso le grandi porte di ferro; non aprii la lettera fino a quando non mi rifugiai, per le ore successive della sera, nell’osteria del suo villaggio, dove anch’io ero conosciuta e amata da tutti da quando ero bambina.”
 
 “Ecco, sotto una piccola lampada, solo, con il cibo davanti a me, leggo l’invito che lei mi ha dato.”
 
@@ -6500,7 +6500,7 @@ Myself. “I was only waiting my turn, and I shall be very happy to tell you tho
 
 At this point I put on such gravity as the circumstance demanded, and looking at my companions in a sober fashion, so that they might expect a worthy revelation, I took from the ticket-pocket of my coat a sovereign, new minted, yellow red, stamped in the effigy of the King, full-weighted, excellently clean and sound. And holding this up between my finger and my thumb, I said:
 
-“Here is my first love! Whom I met when first I came out from the warmth of [[Home|home]] into the deserts of this world, and who has ever been absolutely sure and true, and has never changed in the minutest way, but has ever been sterling and fixed and secure. And in the service of this first love of mine I, in my turn, have been absolutely faithful, and from that loyalty I have never for one moment swerved. Gentlemen, to be faithful in that sort is a rare and a worthy thing!”
+“Here is my first love! Whom I met when first I came out from the warmth of [[motifs/home|home]] into the deserts of this world, and who has ever been absolutely sure and true, and has never changed in the minutest way, but has ever been sterling and fixed and secure. And in the service of this first love of mine I, in my turn, have been absolutely faithful, and from that loyalty I have never for one moment swerved. Gentlemen, to be faithful in that sort is a rare and a worthy thing!”
 
 Then I put back the sovereign in my pocket, gently and reverently, and taking up the pewter I drank what was left in it, and said to them in more solemn tones:
 
@@ -6531,9 +6531,9 @@ Il Marinaio: “Per tutti i cieli, che bugia!” Il Poeta rispose arrabbiato che
 
 E mentre le recitava, il Marinai alzò prima il pollice e poi, uno dopo l’altro, gli altri dita, per indicare la fine di ogni verso e l’allineamento delle rime.
 
-#Il colore del cielo al mattino
+Il colore del cielo al mattino
 
-# Come uno scudo di bronzo
+Come uno scudo di bronzo
 
 “Quell’altro qualcosa era proprio quell’altro qualcosa.”
 
@@ -6541,7 +6541,7 @@ E mentre le recitava, il Marinai alzò prima il pollice e poi, uno dopo l’altr
 
 “Non riesco a ricordare le parole esatte,” disse il Poeta, “e non sono mai riuscito a completare quella riga correttamente, ma ho ben presente il suo ritmo nella mia testa,” e continuò.
 
-# I suoi piccoli piedi si aggiravano lì intorno
+I suoi piccoli piedi si aggiravano lì intorno
 
 “Le rive degli stagni”.
 
@@ -6571,7 +6571,7 @@ Io stesso. “Stavo solo aspettando il mio turno, e sarò molto felice di raccon
 
 A questo punto assunsi un'aria di gravità tale da essere adeguata alle circostanze, e guardai i miei compagni con serietà, affinché si aspettassero una rivelazione importante. Presi quindi dalla tasca del mio cappotto una sovrana appena coniata: di colore giallo-rosso, recante l'effigie del Re, di peso pieno, estremamente pulita e integra. Tenendola tra il dito indice e il pollice, dissi:
 
-“Ecco il mio primo amore! Quello che ho incontrato quando sono uscito per la prima volta dal calore di [[Home|>casa]] e mi sono ritrovato nei deserti di questo mondo; una persona sempre assolutamente fedele e sincera, mai cambiata nemmeno in minima parte, sempre costante e affidabile. E al servizio di questo mio primo amore, anch'io sono stato assolutamente fedele, senza mai deviare neanche per un istante da quella lealtà. Signori, essere fedeli in questo modo è davvero qualcosa di raro e prezioso!”
+“Ecco il mio primo amore! Quello che ho incontrato quando sono uscito per la prima volta dal calore di [[motifs/home|>casa]] e mi sono ritrovato nei deserti di questo mondo; una persona sempre assolutamente fedele e sincera, mai cambiata nemmeno in minima parte, sempre costante e affidabile. E al servizio di questo mio primo amore, anch'io sono stato assolutamente fedele, senza mai deviare neanche per un istante da quella lealtà. Signori, essere fedeli in questo modo è davvero qualcosa di raro e prezioso!”
 
 Poi riposi il sovrano nel mio taschino, con delicatezza e rispetto; presi quindi la coppa di piombo e bevvi ciò che vi era rimasto, dopodiché dissi loro con toni ancora più solenni:
 
@@ -6683,7 +6683,7 @@ Il sole mi renderà felice per tutto il giorno.
 
 E andremo a raccogliere fiori a maggio, mia cara…
 
-# E andremo a raccogliere fiori a maggio…
+E andremo a raccogliere fiori a maggio…
 
 Perché i cieli sono vasti e il cuculo è qui.
 
@@ -6847,25 +6847,25 @@ They sat down not very well pleased, but I assured them that when they had heard
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Grizzledibarba. “Sì, ma non hai ancora accettato la sfida.”
+Grizzledibarba. “Sì, ma non hai ancora accettato la sfida.”
 
 Il Marinaio (“Subito, lo farò immediatamente”). E così disse velocemente:
 
 "#Quando il cielo aperto rinnova l’anno..."
 
-# E chiacchierano sotto le grida di Gumber
+E chiacchierano sotto le grida di Gumber
 
-# Perché i giorni sono vicini
+Perché i giorni sono vicini
 
-# Quando il cielo aperto rinnova l’anno
+Quando il cielo aperto rinnova l’anno
 
-#Sotto le cascate di Burton
+Sotto le cascate di Burton
 
 Le piccole pozze sono di un colore ambra trasparente.
 
 “E blatera, blatera, blatera sotto le grida di Gumber.”
 
-# Poi continuò molto rapidamente:
+Poi continuò molto rapidamente:
 
 “Ecco davvero versi, se vi piacciono! Versi ben confezionati, uniti senza bisogno di colla. Signore, potrei scrivere versi del genere all’infinito senza stancarmi! Ma non mi interessa molto la fama; in questo momento, ciò che desidero è semplicemente pane e formaggio. Stiamo infatti per arrivare al Cricketers’ Arms di Duncton, una locanda famosa proprio per questo: le persone vi vanno a mangiare per raccogliere le energie necessarie per scalare la collina di Duncton. O, se invece scendono dalla collina, vi vanno a mangiare dopo averla discesa.”
 
@@ -6891,7 +6891,7 @@ Arriva all’inizio della primavera e depone le sue uova.
 
 “Se tutto il danno che le donne causano…”
 
-# Messi in un barile
+Messi in un barile
 
 E portato via per essere annegato a Looe
 
@@ -6901,11 +6901,11 @@ Io stesso. “Come possa un uomo parlare male delle donne nello stesso momento i
 
 “Il vento forte, quel vento costante che soffia al di là degli Overs…”
 
-#Oltre i confini… per te e per me
+Oltre i confini… per te e per me
 
 Il Poeta: “Mi sembra che tu non sia del mestiere; i tuoi versi sono incerti, molto brevi e interrotti. Penso che tu abbia paura.” Il Marinai: “Ma come! Ho cantato le canzoni più lunghe di tutti voi! E poiché mi sfidi, ti canterò una canzone davvero completa e ben strutturata. Ma ti avverto: i tuoi capelli si rizzeranno in piedi!”
 
-# Grizzledibarba. “Temo quel marinaio… È blasfemo e licenzioso.”
+Grizzledibarba. “Temo quel marinaio… È blasfemo e licenzioso.”
 
 Il Marinaio. “Giudicate dopo aver ascoltato… È una canzone natalizia.”
 
@@ -6913,7 +6913,7 @@ Il poeta. “Ma non è Natale.”
 
 Il Marinai: “Non è ancora primavera, eppure con il permesso di qualcuno abbiamo cantato le canzoni della primavera. E per questo. Beh, lasciate che vi arresti tutti.”
 
-# “Noël”
+“Noël”
 
 Io stesso (in modo piacevole). “E ti congratulo, Marinai, per la tua fantasia originale e per le belle idee che hai avuto riguardo ai titoli.”
 
@@ -6923,21 +6923,21 @@ Il marinaio
 
 Devo raccontarvi una storia cattolica.
 
-#Una canzone cristiana devo cantare
+Una canzone cristiana devo cantare
 
 Mentre tutti i campanelli di Arundel suonano.
 
 “Prego per buon manzo e prego per buona birra”
 
-#Questa sacra notte di tutto l’anno…
+Questa sacra notte di tutto l’anno…
 
-# Una bevanda disgustosa per loro…
+Una bevanda disgustosa per loro…
 
 Questo non rende onore a Betlemme.
 
-#"Che tutti i bravi compagni qui presenti..."
+"Che tutti i bravi compagni qui presenti..."
 
-# Bevi con me l’Ale dell’Audit in cielo…
+Bevi con me l’Ale dell’Audit in cielo…
 
 E che tutti i miei nemici vadano all’inferno!
 
@@ -7253,7 +7253,7 @@ Il poeta. “Credo sia qualcosa di tedesco…”
 
 Ma Grizzlebeard, senza prestare affatto attenzione a noi, disse al suo compagno serio: “Non è teleologico; non devi pensarlo così; anzi, se vuoi, nemmeno antiteleologico.”
 
-#Me stesso… “Bene, e spero anche che non sia ontologico, perché quello sarebbe davvero il Diavolo.”
+Me stesso… “Bene, e spero anche che non sia ontologico, perché quello sarebbe davvero il Diavolo.”
 
 “Lo Straniero, ignorandoci deliberatamente, rispose soltanto a Grizzledbeard.”
 
@@ -7287,15 +7287,15 @@ Poi noi tre uscimmo di nuovo e sentimmo, dal bar del villaggio, una canzone che 
 
 Suo nonno era un conciatore!
 
-# Bevve il suo sidro direttamente dalla botte
+Bevve il suo sidro direttamente dalla botte
 
 Qual è il modo normanno…
 
 Il suo trono era fatto di quercia e oro.
 
-# Il suo fusto di arco fatto di tasso
+Il suo fusto di arco fatto di tasso
 
-# Così si racconta la storia
+Così si racconta la storia
 
 Dubito che sia vero!
 
@@ -7303,21 +7303,21 @@ Dubito che sia vero!
 
 Il mio boccale è pieno fino all’orlo.
 
-# E canterò di Elizabeth, Dorothy…
+E canterò di Elizabeth, Dorothy…
 
-# Margaret, Mary, Dorinda, Persefone, Miriam
+Margaret, Mary, Dorinda, Persefone, Miriam
 
 Pegotty era snella e ben proporzionata.
 
-#Gli uomini che salparono per la Normandia
+Gli uomini che salparono per la Normandia
 
 Maltempo possano trovarsi ad affrontare…
 
-#Per agitarsi senza sosta nella parte centrale di una nave
+Per agitarsi senza sosta nella parte centrale di una nave
 
 Non mi era mai passato per la mente.
 
-# Bevono il loro rum nel “foro della gloria”
+Bevono il loro rum nel “foro della gloria”
 
 Con tremore e paura…
 
@@ -7329,9 +7329,9 @@ E lui se ne sta seduto a bere birra.
 
 Non sono mai stati miei compagni!
 
-# E canterò di Elizabeth, Dorothy…
+E canterò di Elizabeth, Dorothy…
 
-# Margaret, Mary, Dorinda
+Margaret, Mary, Dorinda
 
 Persefone, Miriam, Pegotty
 
@@ -7419,7 +7419,7 @@ Grizzlebeard: “Quello che i nostri padri chiamavano ‘vendere l’anima’. S
 
 Il marinaio: “Forse è la cosa peggiore, anche se non ne sono del tutto sicuro, ma allo stesso tempo è anche la più facile. Oh no! E dico che non sono proprio certo che sia davvero la peggiore. Perché nessuno vende nulla, a meno di essere in difficoltà economiche, e le persone in difficoltà non sono mai veramente malvagie; sono i ricchi quelli che sono malvagi. Almeno così mi hanno sempre detto i poveri, che non solo rappresentano la stragrande maggioranza delle persone e quindi probabilmente hanno ragione, ma non hanno nemmeno alcun interesse a mentire quando parlano. Ma facile? No! Non ditemi che sia facile, soprattutto considerando l’esempio terribile di Pietro il Politico, una storia che tutti dovrebbero ascoltare.”
 
-# Grizzledbeard. “E tutto il mondo l’ha sentito.”
+Grizzledbeard. “E tutto il mondo l’ha sentito.”
 
 Il Marinaiere (dolcemente): “Ma non tu, Grizzled beard. Quindi devo raccontare la storia con calma, per renderti un onore speciale.” Grizzled beard (con tono più mite): “Fallo pure. Anche la tua storia potrebbe essere meno noiosa di camminare in silenzio nell’ultima ora della giornata, ”
 
@@ -7537,7 +7537,7 @@ Io stesso. “Non arrabbiarti, Sailor, hai fatto del tuo meglio e ho imparato mo
 
 Il Marinaio (un po' placato): “Beh, ora lo sai. E sai anche che se vuoi vendere la tua anima, dovrai produrre un camion pieno di roba prima di poter ottenere prezzi ragionevoli.”
 
-#Grizzlebeard: “Penso che la storia del marinaio sia immorale”.
+Grizzlebeard: “Penso che la storia del marinaio sia immorale”.
 
 Il Poeta: “Anch'io lo penso, perché parla in modo superficiale di cose che dovrebbero essere trattate con rispetto.”
 
@@ -7560,7 +7560,7 @@ Myself. “Very well, by all means, but not Trent I hope, which is a very import
 
 Then we fell silent again. The grey evening had advanced as we listened to the Sailor’s story, and it was growing cold. We went through the half light and the gloaming until it was upon the edge of darkness, time for the evening meal. And we were so weary with the many, many miles of that day that we agreed together to sleep if it were possible in the same place we might eat at, that is, in the next inn. For we were now near the end of all the road we had to go, being but a mile or two from the County border. And as we went we debated our last feast and our last conversation, our last songs, and our necessary farewells.
 
-“My friends,” said I, “all men before death make a feast if they can. It is an ancient custom, and one well approved by time. Feast before battle if you can, and before death which may come in battle. All such death as comes to men in health, it is well to feast before it. Now, with to-morrow morning we shall come to the end of this little [[Journey|journey]] of ours, all along the County, all the way from end to end. Thus we shall attain, as you may say, the death of our good time. For it is agreed between us that when we come to the Hampshire border we shall separate and see each other no more.”
+“My friends,” said I, “all men before death make a feast if they can. It is an ancient custom, and one well approved by time. Feast before battle if you can, and before death which may come in battle. All such death as comes to men in health, it is well to feast before it. Now, with to-morrow morning we shall come to the end of this little [[motifs/journey|journey]] of ours, all along the County, all the way from end to end. Thus we shall attain, as you may say, the death of our good time. For it is agreed between us that when we come to the Hampshire border we shall separate and see each other no more.”
 
 The Sailor, “Yes, that is agreed.”
 
@@ -7607,7 +7607,7 @@ Myself. “After that every man shall call for his own, and the Poet shall drink
 
 Il Marinaio: “Sì, ma non nei primi quattro Concili, e tantomeno a Nicea. Quindi questo ti lascia senza parole, vero?”
 
-# Grizzlebeard (con solennità). “Che vada al diavolo Nicea!”
+Grizzlebeard (con solennità). “Che vada al diavolo Nicea!”
 
 Io stesso. “Molto bene, certamente, ma spero non sia Trent. Lui è molto importante, e litigare con lui comporterebbe troppi rischi.”
 
@@ -7617,17 +7617,17 @@ Io stesso. “Molto bene, certamente, ma spero non sia Trent. Lui è molto impor
 
 Poi rimanemmo di nuovo in silenzio. La sera grigia si era fatta più scura mentre ascoltavamo la storia del marinaio, e faceva sempre più freddo. Proseguimmo nel buio crepuscolare fino a quando non arrivò il momento di cena. Eravamo così stanchi dopo quelle molte miglia percorse quel giorno che decidemmo tutti insieme di dormire, se possibile, nello stesso posto dove avremmo mangiato, cioè nell’osteria successiva. Ormai eravamo vicini alla fine del nostro viaggio: mancavano soltanto un miglio o due dal confine della contea. Mentre camminavamo, discutevamo su quale fosse il nostro ultimo pasto, l’ultima conversazione, l’ultima canzone, e le nostre ultime parole d’addio.
 
-“Amici miei,” dissi, “tutti gli uomini, prima di morire, fanno un banchetto se ne hanno la possibilità. È una vecchia usanza, e una che il tempo ha pienamente approvato. Fate un banchetto prima della battaglia, se potete, e anche prima della morte che potrebbe verificarsi in battaglia. Tutte quelle morti che colpiscono gli uomini quando sono in salute, è giusto fare un banchetto prima di esse. Ora, domani mattina, concluderemo questo nostro piccolo [[Journey|viaggio]], attraversando l’intera contea, da un capo all’altro. In questo modo, potremmo dire, raggiungeremo la ‘morte dei nostri bei tempi’. Perché abbiamo concordato che, una volta arrivati al confine con il Hampshire, ci separeremo e non ci vedremo più.”
+“Amici miei,” dissi, “tutti gli uomini, prima di morire, fanno un banchetto se ne hanno la possibilità. È una vecchia usanza, e una che il tempo ha pienamente approvato. Fate un banchetto prima della battaglia, se potete, e anche prima della morte che potrebbe verificarsi in battaglia. Tutte quelle morti che colpiscono gli uomini quando sono in salute, è giusto fare un banchetto prima di esse. Ora, domani mattina, concluderemo questo nostro piccolo [[motifs/journey|viaggio]], attraversando l’intera contea, da un capo all’altro. In questo modo, potremmo dire, raggiungeremo la ‘morte dei nostri bei tempi’. Perché abbiamo concordato che, una volta arrivati al confine con il Hampshire, ci separeremo e non ci vedremo più.”
 
 Il marinaio: “Sì, siamo d’accordo.”
 
-#Me stesso. “Bene, allora organizziamo una festa.”
+Me stesso. “Bene, allora organizziamo una festa.”
 
-#Il poeta. E chi pagherà?
+Il poeta. E chi pagherà?
 
 Grizzlebeard: “In generale, dovrei essere io a pagare, perché sono il più ricco. Non abbiamo organizzato nessuna festa in questi giorni, ma poiché questa sarà una festa solenne, una sorta di Pasqua (poiché presto attraverseremo il confine per entrare in Hampshire), ognuno dovrà contribuire con la propria parte.”
 
-#Me stesso. “Sono molto disposto, ma se lo faccio, devo chiamare qualcuno per portare cibo e bevande.”
+Me stesso. “Sono molto disposto, ma se lo faccio, devo chiamare qualcuno per portare cibo e bevande.”
 
 Il Marinaio: “Per niente al mondo lo vorrei fare, ma anche se non lo voglio, di certo non mangerò né berò nulla che non mi piaccia.”
 
@@ -7777,7 +7777,7 @@ Poi accendemmo le nostre pipe e ognuno chiese il proprio drink: io il mio porto 
 
 Goliere, Goliere, Goliere, Goliere
 
-# E canterò di Golier!
+E canterò di Golier!
 
 Quando questo verso (che costituisce l’intero poema) fu ripetuto circa sei volte, capii con certezza di trovarmi ancora nella mia contea natale, e ne fui felice nel profondo del cuore, come un uomo che sente la tempesta battere contro le finestre, ma che è al sicuro all’interno della propria casa, protetto dal fuoco. Così capii anche che Hampshire si estendeva desolata per un miglio o due oltre, ma io ero al sicuro tra la mia gente, e questo lo dimostrava il fatto che stavano cantando quella antica canzone “Golier”.
 
@@ -7793,19 +7793,19 @@ Ma non riuscì a finirla, perché tutti iniziarono ad esclamare molto ad alta vo
 
 “Signor Charles, Signor Charles, ”, fino a quando il silenzio fu nuovamente ristabilito dal pugno del presidente che, con grande solennità, chiamò ancora una volta il signor Charles. Il signor Charles, con voce tremante, ci recitò allora quella antica lamentela.
 
-#Navigo verso l’America
+Navigo verso l’America
 
 Quella riva così lontana e straniera…
 
-# E io spero di poter mettere piede…
+E io spero di poter mettere piede…
 
 “In una terra fertile e rigogliosa…”
 
 Ma nel mezzo dell’oceano…
 
-# Cresca pure il melo verde
+Cresca pure il melo verde
 
-# Prima di dimostrare che è falso
+Prima di dimostrare che è falso
 
 Per la ragazza che mi ama.
 
@@ -7823,7 +7823,7 @@ E nel mezzo dell’oceano
 
 Qui, sopraffatta dalla malinconia di simili eventi, l’intera compagnia si unì in un grande lamento.
 
-#Prima che dimostri di essere falso
+Prima che dimostri di essere falso
 
 “Per la ragazza che mi ama.”
 
@@ -7837,11 +7837,11 @@ Un giovane uomo protestò allora:
 
 “Nient'altro che quello che possiamo fare insieme per cantarlo dopo”, ed era questa l’opinione generale. Così, quando quel pugno posto all’estremità del tavolo ebbe eseguito il suo rituale abituale, e quando fu portata ancora più birra, come richiesto dall’occasione, il Marinai iniziò a gridare a squarciagola, senza alcuna melodia particolare, quella nobile canzone; enfatizzava in modo particolare il ritornello, così che tutti i nostri amici potessero ripeterlo facilmente.
 
-#"La brutta, meschina e traditrice regina"...
+"La brutta, meschina e traditrice regina"...
 
 Penso che tu sia il Diavolo!
 
-# Per abbattere i ricchi e gli egoisti
+Per abbattere i ricchi e gli egoisti
 
 E portarle allo stesso livello.
 
@@ -7849,7 +7849,7 @@ Di tutti i miei amici che hanno trovato la loro fine…
 
 Seguendoti soltanto.
 
-# Quanti ne ho già raccontati all’inferno…
+Quanti ne ho già raccontati all’inferno…
 
 “Così sarà anche per me…”
 
@@ -7857,7 +7857,7 @@ Sentendo quest'ultima frase, tutti cominciarono a battere le mani e a gridare co
 
 "#Non sarà mai così."
 
-#Non sarà mai così
+Non sarà mai così
 
 
 
@@ -7976,7 +7976,7 @@ I woke and shuddered. For in my dream I had come to a good place, the place insi
 
 Grizzlebeard, who had woken me, said gravely:
 
-“We must be up early. Let us waken the others also, and take the road, for we are near the end of our [[Journey|journey]]. We have come to the term and boundary of this short passage of ours, and of our brief companionship, for we must reach the County border in these early hours. So awake, and waken the others.”
+“We must be up early. Let us waken the others also, and take the road, for we are near the end of our [[motifs/journey|journey]]. We have come to the term and boundary of this short passage of ours, and of our brief companionship, for we must reach the County border in these early hours. So awake, and waken the others.”
 
 Then I woke the other two, who also stirred and looked wearily at the thin, grey light, but rose in their turn, and then I said to Grizzlebeard:
 
@@ -8003,9 +8003,9 @@ Che, attraverso ripetizioni appassionate, trasformarono in un canto corale; e un
 
 “Sì,” disse brevemente il Marinaiolo, “ma lasciate che vi dica: nelle città esagerano davvero. Non biasimo il vostro modo di fare, e comunque, la canzone deve andare avanti,” e così iniziò il secondo verso.
 
-#"Conoscevo tre individui che erano sotto il tuo controllo..."
+"Conoscevo tre individui che erano sotto il tuo controllo..."
 
-# Troppo da portare
+Troppo da portare
 
 Il primo potrebbe non bere affatto vino.
 
@@ -8023,25 +8023,25 @@ E tutti gridarono di nuovo come prima:
 
 "#Non sarà mai così."
 
-#Non sarà mai così
+Non sarà mai così
 
 “Non sarai mai con me.”
 
 “Allora il marinaio ricominciò…”
 
-# “C’era Peter Bell di North Chappel…”
+“C’era Peter Bell di North Chappel…”
 
-# Fu troppo duro e spietato
+Fu troppo duro e spietato
 
-#Non spese nemmeno un centesimo di tutti i suoi molti…
+Non spese nemmeno un centesimo di tutti i suoi molti…
 
-#Morì per aver curato troppo…
+Morì per aver curato troppo…
 
-# Salvò più di due sterline e mezza
+Salvò più di due sterline e mezza
 
 Ma sua vedova lo spendette senza risparmio.
 
-# Capovolse letteralmente la città
+Capovolse letteralmente la città
 
 “Così sarà anche per me…”
 
@@ -8060,21 +8060,21 @@ Ma ottenne ciò che desiderava con tutto il cuore.
 
 Oh, la maledizione dei creditori
 
-#Seguirebbe il suo feretro
+Seguirebbe il suo feretro
 
 Per tutto ciò che aveva importanza per lui!
 
-# Facili da ingannare
+Facili da ingannare
 
-# Dall’adorare Mammon…
+Dall’adorare Mammon…
 
 “Così sarà anche per me…”
 
 “E tutti insieme, con un unico e potente coro, lo applaudirono e lo accolsero come amico, gridando…”
 
-#"Non lo dirò mai"
+"Non lo dirò mai"
 
-#Non lo dirò mai
+Non lo dirò mai
 
 “Non sarai mai con me.”
 
@@ -8082,11 +8082,11 @@ Per tutto ciò che aveva importanza per lui!
 
 "#And Absalom..."
 
-# Un figlio di re
+Un figlio di re
 
-# Impiccato a un albero
+Impiccato a un albero
 
-# Quando avrebbe potuto conquistare il regno
+Quando avrebbe potuto conquistare il regno
 
 “Così sarà anche per me…”
 
@@ -8098,7 +8098,7 @@ TT
 
 E quando l’ultimo uomo se ne andò a letto o nel fienile, ci rimase solo una candela; così ci sistemammo il più meglio possibile intorno al fuoco e dormimmo l’ultima notte di quel meraviglioso viaggio.
 
-#Il 2 novembre 1902
+Il 2 novembre 1902
 
 Mi svegliai di colpo, uscendo bruscamente da quel sogno in quella stanza vuota. Era Grizzlebeard ad aver messo la sua mano sulla mia spalla. L’alba tardi invernale appena iniziava a illuminare il cielo; c’era nebbia sulle lande circostanti e brina sui vetri delle finestre.
 
@@ -8106,7 +8106,7 @@ Mi svegliai e rabbrividii. Nel sogno ero giunto in un luogo meraviglioso, quel l
 
 “Grizzlebeard, che mi aveva svegliato, disse seriamente…”
 
-“Dobbiamo alzarci presto. Svegliamo anche gli altri e partiamo, perché siamo vicini alla fine del nostro [[Journey|viaggio]]. Siamo arrivati alla fine di questo breve tratto del nostro percorso, e della nostra breve compagnia, poiché dobbiamo raggiungere il confine della contea in queste prime ore del giorno. Quindi, svegliatevi e svegliate anche gli altri.”
+“Dobbiamo alzarci presto. Svegliamo anche gli altri e partiamo, perché siamo vicini alla fine del nostro [[motifs/journey|viaggio]]. Siamo arrivati alla fine di questo breve tratto del nostro percorso, e della nostra breve compagnia, poiché dobbiamo raggiungere il confine della contea in queste prime ore del giorno. Quindi, svegliatevi e svegliate anche gli altri.”
 
 Poi svegliai gli altri due, che anch'essi si mossero e guardarono con stanchezza quella debole luce grigiastra, ma si alzarono a loro volta. Allora dissi a Grizzledbeard:
 
@@ -8133,7 +8133,7 @@ I said to them, a little afraid, “Do you make for our parting now? We are not 
 
 But Grizzlebeard said (the others keeping silent): —
 
-“Yes. As we met upon this side of the county border, so shall we part before we cross it. Nor shall you cross it with us. But these my companions and I, when we have crossed it must go each to our own place: but you are perhaps more fortunate, for you are not far from your [[Home|home]].”
+“Yes. As we met upon this side of the county border, so shall we part before we cross it. Nor shall you cross it with us. But these my companions and I, when we have crossed it must go each to our own place: but you are perhaps more fortunate, for you are not far from your [[motifs/home|home]].”
 
 When he had said this, I was confused to wonder from his voice and from the larger aspect of himself and his companions, whether indeed they were men.
 
@@ -8141,9 +8141,9 @@ When he had said this, I was confused to wonder from his voice and from the larg
 
 “Come back with me,” I said, “along the crest of the Downs; we will overlook together the groves at Lavington and the steep at Bury Combe, and then we will turn south and reach a house I know of upon the shingle, upon the tide, near where the Roman palaces are drowned beneath the Owers; and to-night once more, and if you will for the last time, by another fire we will sing yet louder songs, and mix them with the noise of the sea.”
 
-But Grizzlebeard would not even linger. He looked at me with a dreadful solemnity and said: “No; we are all three called to other things. But do you go back to your [[Home|home]], for the [[Journey|journey]] is done.”
+But Grizzlebeard would not even linger. He looked at me with a dreadful solemnity and said: “No; we are all three called to other things. But do you go back to your [[motifs/home|home]], for the [[motifs/journey|journey]] is done.”
 
-Then he added (but in another voice); “There is nothing at all that remains: nor any house; nor any castle, however strong; nor any love, however tender and sound; nor any [[Comradeship|comradeship]] among men, however hardy. Nothing remains but the things of which I will not speak, because we have spoken enough of them already during these four days. But I who am old will give you advice, which is this — to consider chiefly from now onward those permanent things which are, as it were, the shores of this age and the harbours of our glittering and pleasant but dangerous and wholly changeful sea.”
+Then he added (but in another voice); “There is nothing at all that remains: nor any house; nor any castle, however strong; nor any love, however tender and sound; nor any [[concepts/comradeship|comradeship]] among men, however hardy. Nothing remains but the things of which I will not speak, because we have spoken enough of them already during these four days. But I who am old will give you advice, which is this — to consider chiefly from now onward those permanent things which are, as it were, the shores of this age and the harbours of our glittering and pleasant but dangerous and wholly changeful sea.”
 
 When he had said this (by which he meant Death), the other two, looking sadly at me, stood silent also for about the time in which a man can say good-bye with reverence. Then they all three turned about and went rapidly and with a purpose up the village street.
 
@@ -8155,7 +8155,7 @@ I went up in gloom, by the nearest spur, on to the grass and into the loneliness
 
 I still went on, through little spinnies here and there, and across the great wave tops and rolls of the hills, and as the day proceeded and the light declined about me I still went on, now dipping into the gaps where tracks and roads ran over the chain, now passing for a little space into tall and silent woods wherever these might stand. And all the while I came nearer and nearer to an appointed spot of which a memory had been fixed for years in my mind. But as I strode, with such a goal in view, an increasing loneliness oppressed me, and the air of loss and the echo of those profound thoughts which had filled the last words we four had exchanged together.
 
-It was in the grove above Lavington, near the mounds where they say old kings are buried, that I, still following the crest of my hills, felt the full culmination of all the twenty tides of mutability which had thus run together to make a skerry in my soul. I saw and apprehended, as a man sees or touches a physical thing, that nothing of our sort remains, and that even before my county should cease to be itself I should have left it. I recognised that I was (and I confessed) in that attitude of the mind wherein men admit [[Mortality|mortality]]; something had already passed from me — I mean that fresh and vigorous morning of the eyes wherein the beauty of this land had been reflected as in a tiny mirror of burnished silver. Youth was gone out apart; it was loved and regretted, and therefore no longer possessed.
+It was in the grove above Lavington, near the mounds where they say old kings are buried, that I, still following the crest of my hills, felt the full culmination of all the twenty tides of mutability which had thus run together to make a skerry in my soul. I saw and apprehended, as a man sees or touches a physical thing, that nothing of our sort remains, and that even before my county should cease to be itself I should have left it. I recognised that I was (and I confessed) in that attitude of the mind wherein men admit [[concepts/mortality|mortality]]; something had already passed from me — I mean that fresh and vigorous morning of the eyes wherein the beauty of this land had been reflected as in a tiny mirror of burnished silver. Youth was gone out apart; it was loved and regretted, and therefore no longer possessed.
 
 Then, as I walked through this wood more slowly, pushing before me great billows of dead leaves, as the bows of a ship push the dark water before them, this side and that, when the wind blows full on the middle of the sail and the water answers loudly as the ship sails on, so I went till suddenly I remembered with the pang that catches men at the clang of bells what this time was in November; it was the Day of the Dead. All that day I had so moved and thought alone and fasting, and now the light was falling. I had consumed the day in that deep wandering on the heights alone, and now it was evening. Just at that moment of memory I looked up and saw that I was there. I had come upon that lawn which I had fixed for all these hours to be my goal.
 
@@ -8172,7 +8172,7 @@ Dissero loro, un po' spaventati: “State per lasciarci ora? Non siamo ancora ar
 
 “Ma GrizzlediBarba disse (gli altri rimasero in silenzio):…”
 
-“Sì. Proprio come ci siamo incontrati da questa parte del confine della contea, così ci separeremo prima di attraversarlo. E nemmeno tu lo attraverserai con noi. Ma io e questi miei compagni, una volta superato il confine, dovremo andare ognuno per la propria strada; mentre tu, forse, sei più fortunato, perché non sei lontano dalla tua [[Home|>casa]].”
+“Sì. Proprio come ci siamo incontrati da questa parte del confine della contea, così ci separeremo prima di attraversarlo. E nemmeno tu lo attraverserai con noi. Ma io e questi miei compagni, una volta superato il confine, dovremo andare ognuno per la propria strada; mentre tu, forse, sei più fortunato, perché non sei lontano dalla tua [[motifs/home|>casa]].”
 
 Quando lo disse, rimasi confuso e mi chiesi, dalla sua voce e dal comportamento di lui e dei suoi compagni nel complesso, se davvero fossero uomini.
 
@@ -8180,9 +8180,9 @@ Quando lo disse, rimasi confuso e mi chiesi, dalla sua voce e dal comportamento 
 
 “Torna con me,” dissi, “lungo la cresta delle Downs; vedremo insieme i boschi di Lavington e il pendio ripido di Bury Combe, poi gireremo a sud e raggiungeremo una casa che conosco, costruita su ciottoli, vicino alla riva del mare, non lontano da dove gli antichi palazzi romani sono sommersi dall’Owers; stasera ancora, e se vorrai per l’ultima volta, accanto a un altro fuoco canteremo ancora più forte, mescolando le nostre voci al rumore del mare.”
 
-Ma Grizzlebeard non volle nemmeno indugiare. Mi guardò con una terribile solennità e disse: “No; tutti e tre siamo chiamati ad altre cose. Ma torni pure a casa tua, perché il [[Journey|viaggio]] è finito.”
+Ma Grizzlebeard non volle nemmeno indugiare. Mi guardò con una terribile solennità e disse: “No; tutti e tre siamo chiamati ad altre cose. Ma torni pure a casa tua, perché il [[motifs/journey|viaggio]] è finito.”
 
-Poi aggiunse (ma con un altro tono di voce): “Non rimane assolutamente nulla: né case, né castelli, per quanto forti; né amori, per quanto teneri e sinceri; né [[Comradeship|amicizie]] tra gli uomini, per quanto solide. Non resta che ciò di cui non parlerò, perché ne abbiamo già parlato abbastanza in questi quattro giorni. Ma io, che sono vecchio, vi darò un consiglio: da ora in poi dovete considerare soprattutto quelle cose permanenti che rappresentano, per così dire, le rive di quest’epoca e i porti del nostro mare scintillante e piacevole, ma anche pericoloso e completamente mutevole.”
+Poi aggiunse (ma con un altro tono di voce): “Non rimane assolutamente nulla: né case, né castelli, per quanto forti; né amori, per quanto teneri e sinceri; né [[concepts/comradeship|amicizie]] tra gli uomini, per quanto solide. Non resta che ciò di cui non parlerò, perché ne abbiamo già parlato abbastanza in questi quattro giorni. Ma io, che sono vecchio, vi darò un consiglio: da ora in poi dovete considerare soprattutto quelle cose permanenti che rappresentano, per così dire, le rive di quest’epoca e i porti del nostro mare scintillante e piacevole, ma anche pericoloso e completamente mutevole.”
 
 Quando ebbe detto queste parole – intendendo con esse la Morte – gli altri due, guardandomi tristemente, rimasero in silenzio per il tempo necessario perché un uomo possa dire addio con rispetto. Poi tutti e tre si girarono e se ne andarono rapidamente, con uno scopo preciso, lungo la strada del villaggio.
 
@@ -8194,7 +8194,7 @@ Salii nella penombra, lungo il sentiero più vicino, fino al prato e nella solit
 
 Continuavo ad avanzare, attraverso piccoli sentieri tortuosi e le grandi creste ondulate delle colline; man mano che il giorno proseguiva e la luce intorno a me diminuiva, continuavo comunque ad andare avanti, ora inoltrandomi nelle zone dove sentieri e strade attraversavano la catena montuosa, ora entrando per un breve tratto in alte e silenziose foreste. E tutto il tempo mi avvicinavo sempre di più a un luogo preciso, del quale ricordi erano rimasti impressi nella mia mente da anni. Ma mentre camminavo verso quell’obiettivo, una crescente solitudine mi opprimeva; l’atmosfera di perdita e il ricordo di quelle profonde riflessioni scambiate in passato dai quattro di noi continuavano a tormentarmi.
 
-Era nel bosco sopra Lavington, vicino alle colline dove si dice siano sepolti gli antichi re, che io, continuando ancora a seguire il profilo delle colline circostanti, provai l’apice totale di tutte quelle venti “marea” di mutabilità che si erano accumulate nel corso del tempo, formando così un insieme complesso nella mia anima. Vidi e compresi, proprio come si vede o si tocca una cosa fisica, che nulla di ciò che appartiene a noi umani rimane; anzi, anche prima che la mia contea smettesse di essere se stessa, io l’avrei già lasciata. Riconobbi di trovarmi in quella condizione mentale in cui gli uomini ammettono la propria [[Mortality|mortalità]]: qualcosa era già svanito da me. Intendo dire quel “mattino fresco e vigoroso” della mia vita, in cui la bellezza di questa terra si rifletteva come in uno specchio d’argento lucido. La giovinezza se n’era andata. Era stata amata e rimpianta, ma ormai non mi apparteneva più.
+Era nel bosco sopra Lavington, vicino alle colline dove si dice siano sepolti gli antichi re, che io, continuando ancora a seguire il profilo delle colline circostanti, provai l’apice totale di tutte quelle venti “marea” di mutabilità che si erano accumulate nel corso del tempo, formando così un insieme complesso nella mia anima. Vidi e compresi, proprio come si vede o si tocca una cosa fisica, che nulla di ciò che appartiene a noi umani rimane; anzi, anche prima che la mia contea smettesse di essere se stessa, io l’avrei già lasciata. Riconobbi di trovarmi in quella condizione mentale in cui gli uomini ammettono la propria [[concepts/mortality|mortalità]]: qualcosa era già svanito da me. Intendo dire quel “mattino fresco e vigoroso” della mia vita, in cui la bellezza di questa terra si rifletteva come in uno specchio d’argento lucido. La giovinezza se n’era andata. Era stata amata e rimpianta, ma ormai non mi apparteneva più.
 
 Poi, mentre camminavo più lentamente attraverso quel bosco, spingendo davanti a me grandi ondate di foglie secche – proprio come le vele di una nave spingono l’acqua scura al loro passaggio – da un lato all’altro. Quando il vento soffia forte sul centro della vela e l’acqua risponde con un suono potente mentre la nave procede, così anch’io continuai a camminare. Finché, all’improvviso, ricordai con quel dolore che colpisce gli uomini al suono delle campane: quella volta era novembre. Era il Giorno dei Morti. Per tutto quel giorno ero stato immerso nei miei pensieri, in solitudine e digiuno. Ora stava calando la sera. Avevo trascorso l’intera giornata in quella profonda solitudine tra le montagne. E ora era già sera. Proprio in quell’istante di ricordo alzai lo sguardo. E vidi che ero arrivato laggiù. Ero giunto su quel prato che, per tutto quel tempo, avevo immaginato fosse la mia meta.
 
@@ -8289,7 +8289,7 @@ Perfect the mystery in the trees.
 
 The shuddering of that dreadful day
 
-When friend and fire and [[Home|home]] are lost
+When friend and fire and [[motifs/home|home]] are lost
 
 And even children drawn away —
 
@@ -8297,7 +8297,7 @@ The passer-by shall hear me still,
 
 A boy that sings on Duncton Hill.”
 
-Full of these thoughts and greatly relieved by their metrical expression, I went, through the gathering darkness, southward across the Downs to my [[Home|home]].
+Full of these thoughts and greatly relieved by their metrical expression, I went, through the gathering darkness, southward across the Downs to my [[motifs/home|home]].
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -8350,9 +8350,9 @@ Ah! Ma se un uomo fa parte di una terra ferma e solida che lo ha nutrito e dato 
 
 Un certo influenzo sulla terra che conosce…
 
-#Osa, perseverante, intrecciarsi
+Osa, perseverante, intrecciarsi
 
-#Amore eterno tra i cespugli selvatici
+Amore eterno tra i cespugli selvatici
 
 Non muore, ma rimane comunque lì.
 
@@ -8361,33 +8361,33 @@ Confermare con le sue adorate pianure.
 Titolo:  
 “L’avventura meravigliosa della primavera chiama…”
 
-#La sua polvere divampa tra gli alberi;
+La sua polvere divampa tra gli alberi;
 
 Il segreto delle cascate del fiume che delimita il suo territorio
 
 Ricordate e ripetete il suo nome.
 
-# Cavalca nel cielo rumoroso di ottobre
+Cavalca nel cielo rumoroso di ottobre
 
 Non muore. Non muore.
 
 “Le querce conoscono quella testa familiare…”
 
-# Chi li amava, e un cielo popolato di esseri viventi
+Chi li amava, e un cielo popolato di esseri viventi
 
-# Sotto la loro benedizione… si estendeva…
+Sotto la loro benedizione… si estendeva…
 
-#Consola il silenzio ovunque
+Consola il silenzio ovunque
 
-#Per gli spiriti nativi… tornate e restate qui
+Per gli spiriti nativi… tornate e restate qui
 
 Perfeziona il mistero che si nasconde tra gli alberi.
 
 “Quindi, anche se io stesso sono… “
 
-# Il tremore di quel terribile giorno
+Il tremore di quel terribile giorno
 
-Quando amici, fuoco e [[Home|>casa]] vengono persi.
+Quando amici, fuoco e [[motifs/home|>casa]] vengono persi.
 
 E anche i bambini, che vengono portati via…
 
@@ -8395,4 +8395,4 @@ Il passante mi sentirà ancora.
 
 “Un ragazzo che canta sulla collina di Duncton”.
 
-Ricco di questi pensieri e profondamente sollevato dalla loro espressione in versi, attraversai l’oscurità circostante, dirigendomi verso sud, attraverso le colline, fino alla mia [[Home|>casa]].
+Ricco di questi pensieri e profondamente sollevato dalla loro espressione in versi, attraversai l’oscurità circostante, dirigendomi verso sud, attraverso le colline, fino alla mia [[motifs/home|>casa]].

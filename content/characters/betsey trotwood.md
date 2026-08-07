@@ -12,4 +12,12 @@ tags:
 
 <div class="concept-works" data-slug="characters/betsey-trotwood"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/victorian-age-(chesterton)|Victorian Age (Chesterton)]]
+- [[works/david-copperfield-(dickens)|David Copperfield (Dickens)]]
+
+</div>
+
 #graph/character

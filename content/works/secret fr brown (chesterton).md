@@ -58,7 +58,7 @@ tags:
 
 # secret Fr Brown
 
-*by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
+*by Chesterton*  ·  **Cluster:** [[clusters/short-story-·-concealment-hidden-identity-·-justice-right-and-wrong|Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 
 > A framed collection of Father Brown stories in which the priest reveals his 'secret' method: solving crime by imaginative empathy with the criminal's soul rather than scientific deduction. Detective fiction with theological depth.
@@ -72,18 +72,18 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Catholic Church]], [[Christianity]], [[Bible]]
+**Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
 
-**Settings:** [[Castle]], [[Rural England]], [[Spain]], [[Europe]]
+**Settings:** [[settings/castle|Castle]], [[settings/rural-england|Rural England]], [[settings/spain|Spain]], [[settings/europe|Europe]]
 
-**Motifs:** [[Concealment Hidden Identity]], [[Mirror]], [[Gems Jewels]], [[Secrets]], [[Storm]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/mirror|Mirror]], [[motifs/gems-jewels|Gems Jewels]], [[motifs/secrets|Secrets]], [[motifs/storm|Storm]]
 
-**Topoi:** [[Double]]
+**Topoi:** [[topoi/double|Double]]
 
-**Archetypes:** [[Detective]], [[Villain]], [[Double Doppelganger]], [[Avenger]], [[Trickster]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Sin and the Fall]], [[Grace and Redemption]], [[Conscience]], [[Imagination]], [[Secrecy and Concealment]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Deception]], [[Identity]], [[Revenge]], [[Forgiveness]], [[Self-Deception]], [[Mesmerism]], [[History]]
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Characters:** [[Father Brown]], [[Sherlock Holmes Homage]], [[Flambeau]], [[Grandison Chace]], [[Michael Moonshine]], [[John Bankes]], [[Sir Arthur Travers]], [[Mrs. Mandeville]], [[Marquis of Marne]], [[Hugo Romaine]], [[James Hardcastle]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]], [[archetypes/double-doppelganger|Double Doppelganger]], [[archetypes/avenger|Avenger]], [[archetypes/trickster|Trickster]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/conscience|Conscience]], [[concepts/imagination|Imagination]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/deception|Deception]], [[concepts/identity|Identity]], [[concepts/revenge|Revenge]], [[concepts/forgiveness|Forgiveness]], [[concepts/self-deception|Self-Deception]], [[concepts/mesmerism|Mesmerism]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
+**Characters:** [[characters/father-brown|Father Brown]], [[characters/sherlock-holmes-homage|Sherlock Holmes Homage]], [[characters/flambeau|Flambeau]], [[characters/grandison-chace|Grandison Chace]], [[characters/michael-moonshine|Michael Moonshine]], [[characters/john-bankes|John Bankes]], [[characters/sir-arthur-travers|Sir Arthur Travers]], [[characters/mrs.-mandeville|Mrs. Mandeville]], [[characters/marquis-of-marne|Marquis of Marne]], [[characters/hugo-romaine|Hugo Romaine]], [[characters/james-hardcastle|James Hardcastle]]
 
 ## Testo integrale / Full text
 

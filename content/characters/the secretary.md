@@ -14,4 +14,10 @@ The lame-smiling anarchist Council member called Monday, Syme's first guide to S
 
 <div class="concept-works" data-slug="characters/the-secretary"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thursday-(chesterton)|thursday (Chesterton)]]
+
+</div>
+
 #graph/character

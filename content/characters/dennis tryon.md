@@ -14,4 +14,10 @@ The unarmed, bookish young schoolmaster-fencer whose purely defensive stick-and-
 
 <div class="concept-works" data-slug="characters/dennis-tryon"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/sword-(chesterton)|Sword (Chesterton)]]
+
+</div>
+
 #graph/character

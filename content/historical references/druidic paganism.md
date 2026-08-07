@@ -14,4 +14,10 @@ The pre-Christian Celtic religion of the Druids, evoked through their ritual oak
 
 <div class="concept-works" data-slug="historical-references/druidic-paganism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/oak-(chesterton)|oak (Chesterton)]]
+
+</div>
+
 #graph/histref

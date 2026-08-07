@@ -25,7 +25,7 @@ tags:
   - setting/rural_england
   - topos/sic_transit_gloria_mundi
 ---
-*by Belloc*  ·  **Cluster:** [[Satirical Novel · Politics and Finance · Edwardian England]]
+*by Belloc*  ·  **Cluster:** [[clusters/satirical-novel-·-politics-and-finance-·-edwardian-england|Satirical Novel · Politics and Finance · Edwardian England]]
 
 > [!abstract] 
 > A satirical novel following Rackham, an old Sussex squire's house, as the amiable, improvident Henry Maple slides into debt and his methodical solicitor brother William, prodded by an ambitious wife, quietly engineers its transfer through mortgages and interest. Belloc anatomizes the decline of the landed gentleman and the cold arithmetic of modern finance devouring inherited land.
@@ -36,9 +36,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]], [[Satire]]
-**Themes & Concepts:** [[Money and Avarice]], [[Greed]], [[Family and Lineage]], [[Class Conflict]], [[Tradition]], [[Capitalism]], [[Economics]]
-**Motifs:** [[Great House]], [[House Mansion]], [[Money and Gold]], [[Decay]], [[Ghosts]]
-**Historical References:** [[Boer War]]
-**Settings:** [[Rural England]]
-**Topoi:** [[Sic Transit Gloria Mundi]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]]
+**Themes & Concepts:** [[concepts/money-and-avarice|Money and Avarice]], [[concepts/greed|Greed]], [[concepts/family-and-lineage|Family and Lineage]], [[concepts/class-conflict|Class Conflict]], [[concepts/tradition|Tradition]], [[concepts/capitalism|Capitalism]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/great-house|Great House]], [[motifs/house-mansion|House Mansion]], [[motifs/money-and-gold|Money and Gold]], [[motifs/decay|Decay]], [[motifs/ghosts|Ghosts]]
+**Historical References:** [[historical-references/boer-war|Boer War]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]

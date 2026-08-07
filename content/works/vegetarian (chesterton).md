@@ -24,7 +24,7 @@ tags:
 
 # vegetarian
 
-*by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
+*by Chesterton*  ·  **Cluster:** [[clusters/wine-and-drink-·-ballad-ballade-·-road|Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 
 > A comic nonsense song (from The Flying Inn) mocking faddish vegetarianism and abstract logic through a drunkard who calls himself a rigid vegetarian; light satire built on wine, the inn, and paradox.
@@ -35,15 +35,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Fool]]
+**Archetypes:** [[archetypes/fool|Fool]]
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[Dalroy]]
+**Characters:** [[characters/dalroy|Dalroy]]
 
-**Motifs:** [[Wine and Drink]], [[Inn Tavern]], [[Food and Feasting]]
-**Themes & Concepts:** [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Fanaticism]], [[Self-Deception]]
-**Forms & Genres:** [[Comic Verse Song]], [[Satire]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/food-and-feasting|Food and Feasting]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/fanaticism|Fanaticism]], [[concepts/self-deception|Self-Deception]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/satire|Satire]]
 
 ## Testo integrale / Full text
 

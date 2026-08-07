@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/prince-prospero"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-masque-of-the-red-death-(poe)|The Masque of the Red Death (Poe)]]
+- [[works/the-tempest-(shakespeare)|THE TEMPEST (Shakespeare)]]
+
+</div>
+
 #graph/character

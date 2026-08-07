@@ -19,8 +19,8 @@ A Ballade of Theatricals
 By G.K. Chesterton  
 
 [From a souvenir programme produced for a fund raising benefit  
-in [[London]] on 14th May 1912, for those affected by the sinking  
-of the [[titanic|Titanic]] just a month previously.  It includes [[Poems|poems]]  
+in [[settings/london|London]] on 14th May 1912, for those affected by the sinking  
+of the Titanic just a month previously.  It includes poems  
 and prose by many famous and lesser known authors of the day,  
 at least one of which, (Thomas Hardy's "The Convergence of the Twain")  
 is a first published appearance, in an early form.]  
@@ -35,7 +35,7 @@ Though all the mechanism's known--
 Believe me, there are real things.  
 
 Yes, real people--even so--  
-Even in a theatre, [[Truth|truth]] is known,  
+Even in a theatre, [[concepts/truth|truth]] is known,  
 Though the agnostic will not know,  
 And though the gnostic will not own,  
 There is a thing called skin and bone,  
@@ -44,11 +44,11 @@ Has been as stony-broke as stone . . .
 Believe me, there are real things  
 
 There is an hour when all men go;  
-An hour when man is all [[Alone|alone]].  
+An hour when man is all alone.  
 When idle minstrels in a row  
 Went down with all the bugles blown--  
-When brass and [[Hymn|hymn]] and drum went down,  
-Down in [[Death|death]]'s throat with thunderings--  
+When brass and [[forms/hymn|hymn]] and drum went down,  
+Down in [[motifs/death|death]]'s throat with thunderings--  
 Ah, though the unreal things have grown,  
 Believe me, there are real things.  
 
@@ -67,8 +67,8 @@ Una Ballata di Cose Teatrali
 Di G.K. Chesterton 
 
 [Da un programma-ricordo prodotto per un evento benefico  
-a [[London|Londra]] il 14 maggio 1912, a favore di chi fu colpito dall'affondamento  
-del [[titanic|Titanic]], avvenuto appena un mese prima.  Comprende [[Poems|poesie]]  
+a [[settings/london|Londra]] il 14 maggio 1912, a favore di chi fu colpito dall'affondamento  
+del Titanic, avvenuto appena un mese prima.  Comprende poesie  
 e prose di molti autori dell'epoca, celebri e meno noti,  
 almeno una delle quali, ("The Convergence of the Twain" di Thomas Hardy)  
 è qui alla prima apparizione a stampa, in forma primitiva.]  
@@ -83,7 +83,7 @@ per quanto tutto il meccanismo sia noto--
 credetemi, esistono cose reali.  
 
 Sì, gente reale--anche così--  
-persino in un teatro si conosce la [[Truth|verità]],  
+persino in un teatro si conosce la [[concepts/truth|verità]],  
 per quanto l'agnostico non voglia saperla,  
 e per quanto il gnostico non voglia ammetterla,  
 c'è una cosa fatta di pelle e ossa,  
@@ -92,11 +92,11 @@ e più d'un uomo che si pavoneggia e canta
 credetemi, esistono cose reali  
 
 C'è un'ora in cui tutti gli uomini se ne vanno;  
-un'ora in cui l'uomo è del tutto [[Alone|solo]].  
+un'ora in cui l'uomo è del tutto solo.  
 Quando oziosi menestrelli in fila  
 sprofondarono con tutte le trombe squillanti--  
-quando ottoni e [[Hymn|inno]] e tamburo sprofondarono,  
-giù nella gola della [[Death|morte]] tra i tuoni--  
+quando ottoni e [[forms/hymn|inno]] e tamburo sprofondarono,  
+giù nella gola della [[motifs/death|morte]] tra i tuoni--  
 ah, per quanto le cose irreali siano cresciute,  
 credetemi, esistono cose reali.  
 
@@ -117,8 +117,8 @@ A Ballade of Theatricals
 By G.K. Chesterton  
 
 [From a souvenir programme produced for a fund raising benefit  
-in [[London]] on 14th May 1912, for those affected by the sinking  
-of the [[titanic|Titanic]] just a month previously.  It includes [[Poems|poems]]  
+in [[settings/london|London]] on 14th May 1912, for those affected by the sinking  
+of the Titanic just a month previously.  It includes poems  
 and prose by many famous and lesser known authors of the day,  
 at least one of which, (Thomas Hardy's "The Convergence of the Twain")  
 is a first published appearance, in an early form.]  
@@ -133,7 +133,7 @@ Though all the mechanism's known--
 Believe me, there are real things.  
 
 Yes, real people--even so--  
-Even in a theatre, [[Truth|truth]] is known,  
+Even in a theatre, [[concepts/truth|truth]] is known,  
 Though the agnostic will not know,  
 And though the gnostic will not own,  
 There is a thing called skin and bone,  
@@ -142,11 +142,11 @@ Has been as stony-broke as stone . . .
 Believe me, there are real things  
 
 There is an hour when all men go;  
-An hour when man is all [[Alone|alone]].  
+An hour when man is all alone.  
 When idle minstrels in a row  
 Went down with all the bugles blown--  
-When brass and [[Hymn|hymn]] and drum went down,  
-Down in [[Death|death]]'s throat with thunderings--  
+When brass and [[forms/hymn|hymn]] and drum went down,  
+Down in [[motifs/death|death]]'s throat with thunderings--  
 Ah, though the unreal things have grown,  
 Believe me, there are real things.  
 
@@ -162,11 +162,11 @@ And if you sat, you'd smash your throne--
 
 Una Ballata di Cose Teatrali  
 
-Di G.K. Chesterton 
+Di G.K. Chesterton  
 
 [Da un programma-ricordo prodotto per un evento benefico  
-a [[London|Londra]] il 14 maggio 1912, a favore di chi fu colpito dall'affondamento  
-del [[titanic|Titanic]], avvenuto appena un mese prima.  Comprende [[Poems|poesie]]  
+a [[settings/london|Londra]] il 14 maggio 1912, a favore di chi fu colpito dall'affondamento  
+del Titanic, avvenuto appena un mese prima.  Comprende poesie  
 e prose di molti autori dell'epoca, celebri e meno noti,  
 almeno una delle quali, ("The Convergence of the Twain" di Thomas Hardy)  
 è qui alla prima apparizione a stampa, in forma primitiva.]  
@@ -181,7 +181,7 @@ per quanto tutto il meccanismo sia noto--
 credetemi, esistono cose reali.  
 
 Sì, gente reale--anche così--  
-persino in un teatro si conosce la [[Truth|verità]],  
+persino in un teatro si conosce la [[concepts/truth|verità]],  
 per quanto l'agnostico non voglia saperla,  
 e per quanto il gnostico non voglia ammetterla,  
 c'è una cosa fatta di pelle e ossa,  
@@ -190,11 +190,11 @@ e più d'un uomo che si pavoneggia e canta
 credetemi, esistono cose reali  
 
 C'è un'ora in cui tutti gli uomini se ne vanno;  
-un'ora in cui l'uomo è del tutto [[Alone|solo]].  
+un'ora in cui l'uomo è del tutto solo.  
 Quando oziosi menestrelli in fila  
 sprofondarono con tutte le trombe squillanti--  
-quando ottoni e [[Hymn|inno]] e tamburo sprofondarono,  
-giù nella gola della [[Death|morte]] tra i tuoni--  
+quando ottoni e [[forms/hymn|inno]] e tamburo sprofondarono,  
+giù nella gola della [[motifs/death|morte]] tra i tuoni--  
 ah, per quanto le cose irreali siano cresciute,  
 credetemi, esistono cose reali.  
 

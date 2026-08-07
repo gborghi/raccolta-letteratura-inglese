@@ -24,7 +24,7 @@ tags:
   - histref/ancient_rome
 ---
 
-*by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Poe*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A short satirical biblical burlesque in which Jewish priests besieged by Pompey's Romans haul up an unclean hog instead of a sacrificial lamb; a comic clash of religion and mockery during the Roman siege of Jerusalem.
@@ -34,11 +34,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Motifs:** [[Lamb]], [[Money and Gold]], [[Fog and Smoke]]
-**Themes & Concepts:** [[Satire of Society]], [[Faith]], [[Appearance vs Reality]], [[Deception]], [[Grotesque]], [[History]]
-**Forms & Genres:** [[Satire]], [[Short Story]]
-**Historical References:** [[Bible]], [[Roman History]], [[Ancient Rome]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Motifs:** [[motifs/lamb|Lamb]], [[motifs/money-and-gold|Money and Gold]], [[motifs/fog-and-smoke|Fog and Smoke]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/faith|Faith]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/grotesque|Grotesque]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/roman-history|Roman History]], [[settings/ancient-rome|Ancient Rome]]
 
 ## Testo integrale / Full text
 

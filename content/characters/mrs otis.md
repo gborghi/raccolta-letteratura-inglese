@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/mrs-otis"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-canterville-ghost-(wilde)|The Canterville Ghost (Wilde)]]
+
+</div>
+
 #graph/character

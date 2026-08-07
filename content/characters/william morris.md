@@ -14,4 +14,12 @@ Victorian designer-poet-socialist praised for democratizing beauty in everyday c
 
 <div class="concept-works" data-slug="characters/william-morris"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+- [[works/as-i-was-saying-(chesterton)|As I Was Saying (Chesterton)]]
+
+</div>
+
 #graph/character

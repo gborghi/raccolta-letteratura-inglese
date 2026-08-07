@@ -14,4 +14,10 @@ An eccentric poet-painter who guards a strange sacred tree in his London garden 
 
 <div class="concept-works" data-slug="characters/walter-windrush"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/fourfaultlessfelons-(chesterton)|FourFaultlessFelons (Chesterton)]]
+
+</div>
+
 #graph/character

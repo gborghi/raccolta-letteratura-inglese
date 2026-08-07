@@ -14,4 +14,10 @@ tags:
 
 <div class="concept-works" data-slug="historical-references/oliver-goldsmith"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-judgment-of-england-(chesterton)|The Judgment of England (Chesterton)]]
+
+</div>
+
 #graph/histref

@@ -42,7 +42,7 @@ tags:
 
 # divorce
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > Book-length polemic defending the permanence of the marriage vow as the foundation of the free family and a bulwark against slavery, attacking divorce as a plutocratic superstition.
@@ -58,16 +58,16 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Tyrant]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
 
-**Topoi:** [[Life as a Battle]]
+**Topoi:** [[topoi/life-as-a-battle|Life as a Battle]]
 
-**Characters:** [[Orlando]], [[Valentine]], [[Cain]], [[King Lear]], [[Henry VIII]]
+**Characters:** [[characters/orlando|Orlando]], [[characters/valentine|Valentine]], [[characters/cain|Cain]], [[characters/king-lear|King Lear]], [[characters/henry-viii|Henry VIII]]
 
-**Motifs:** [[Marriage]], [[Window]], [[Flag]], [[Chains]], [[Home]], [[Vow]]
-**Themes & Concepts:** [[Marriage and Fidelity]], [[Distributism]], [[Class Conflict]], [[Critique of Progress]], [[Faith]], [[Slavery]], [[Individualism]], [[Nationalism and Patriotism]], [[Honour]], [[Freedom and Liberty]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Historical References:** [[Catholic Church]], [[Reformation]], [[First World War]], [[Irish Question]]
+**Motifs:** [[motifs/marriage|Marriage]], [[motifs/window|Window]], [[motifs/flag|Flag]], [[motifs/chains|Chains]], [[motifs/home|Home]], [[motifs/vow|Vow]]
+**Themes & Concepts:** [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/distributism|Distributism]], [[concepts/class-conflict|Class Conflict]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/faith|Faith]], [[concepts/slavery|Slavery]], [[concepts/individualism|Individualism]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/honour|Honour]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/reformation|Reformation]], [[historical-references/first-world-war|First World War]], [[historical-references/irish-question|Irish Question]]
 
 ## Testo integrale / Full text
 

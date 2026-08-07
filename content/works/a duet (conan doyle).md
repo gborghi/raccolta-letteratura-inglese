@@ -24,7 +24,7 @@ tags:
   - character/maude_selby
   - archetype/lover
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Domestic and Social Fiction · Romantic Love · Class]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/domestic-and-social-fiction-·-romantic-love-·-class|Domestic and Social Fiction · Romantic Love · Class]]
 
 > [!abstract] 
 > An epistolary novel told through the courtship and early-married letters of Frank Crosse and Maude Selby, drawing on Conan Doyle's own first marriage. It traces their engagement, money worries, and the small comic frictions of domestic settling-in.
@@ -60,10 +60,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Epistolary Diary Novel]], [[Novel]]
-**Themes & Concepts:** [[Romantic Love]], [[Marriage and Fidelity]], [[Money and Avarice]], [[Class Conflict]], [[Economics]]
-**Motifs:** [[Letters and Writing]], [[Love]], [[Marriage]]
-**Historical References:** [[Victorian England]]
-**Settings:** [[London]], [[Rural England]]
-**Characters:** [[Frank Crosse]], [[Maude Selby]]
-**Archetypes:** [[Lover]]
+**Forms & Genres:** [[forms/epistolary-diary-novel|Epistolary Diary Novel]], [[forms/novel|Novel]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/class-conflict|Class Conflict]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/love|Love]], [[motifs/marriage|Marriage]]
+**Historical References:** [[historical-references/victorian-england|Victorian England]]
+**Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
+**Characters:** [[characters/frank-crosse|Frank Crosse]], [[characters/maude-selby|Maude Selby]]
+**Archetypes:** [[archetypes/lover|Lover]]

@@ -33,17 +33,17 @@ tags:
   - topos/sic_transit_gloria_mundi
   - topos/fortunes_wheel
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Historical Novel · War and its Cost · Honour and Chivalry]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/historical-novel-·-war-and-its-cost-·-honour-and-chivalry|Historical Novel · War and its Cost · Honour and Chivalry]]
 
 > [!abstract] 
 > A companion historical collection opening with the title story, in which the Roman viceroy of Britain must withdraw every legion, dooming his British petitioners to the chaos of invasion; it then regathers 'The Last Galley' and other Doyle historical tales under a new arrangement. The stories together meditate on empires that rise, overreach, and inevitably fall.
 
 ## Connections
 
-**Forms & Genres:** [[Short Story]], [[Historical Novel]]
-**Themes & Concepts:** [[Empire and Imperialism]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Fate and Free Will]], [[Freedom and Liberty]], [[History]]
-**Motifs:** [[Ship]], [[Sea]], [[Fire]], [[Blood]], [[Time]], [[Sea and Voyage]]
-**Historical References:** [[Roman History]], [[Ancient Rome]], [[British Empire]]
-**Settings:** [[Ancient Rome]]
-**Archetypes:** [[Hero]], [[Tyrant]], [[Outsider]], [[Martyr Saint]]
-**Topoi:** [[Sic Transit Gloria Mundi]], [[Fortune's Wheel]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/historical-novel|Historical Novel]]
+**Themes & Concepts:** [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/history|History]]
+**Motifs:** [[motifs/ship|Ship]], [[motifs/sea|Sea]], [[motifs/fire|Fire]], [[motifs/blood|Blood]], [[motifs/time|Time]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/roman-history|Roman History]], [[settings/ancient-rome|Ancient Rome]], [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/ancient-rome|Ancient Rome]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/tyrant|Tyrant]], [[archetypes/outsider|Outsider]], [[archetypes/martyr-saint|Martyr Saint]]
+**Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/fortune's-wheel|Fortune's Wheel]]

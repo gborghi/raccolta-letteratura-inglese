@@ -32,7 +32,7 @@ tags:
   - character/lilian_fern
 ---
 
-*by Dickens*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
+*by Dickens*  ·  **Cluster:** [[clusters/allegory-·-quest-·-pilgrim|Allegory · Quest · Pilgrim]]
 
 > [!abstract] 
 > Dickens's Christmas 'Goblin Story' in which a poor ticket-porter, Trotty Veck, is shown by the spirits of the bells visions of despair and degradation among the poor; central themes are social injustice, poverty, the dignity of the common man, and redemption from despair into hope.
@@ -46,13 +46,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Ghost]]
-**Motifs:** [[Bells]], [[Time]], [[Supernatural]], [[Dreams]], [[Wind]]
-**Themes & Concepts:** [[Social Injustice]], [[Poverty]], [[Common Man]], [[Satire of Society]], [[Disillusionment]], [[Grace and Redemption]], [[Memory and Time]]
-**Forms & Genres:** [[Fairy Tale Fantasy]], [[Allegory]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]]
-**Characters:** [[Trotty Veck]], [[Meg Veck]], [[Richard]], [[Alderman Cute]], [[Will Fern]], [[Lilian Fern]]
+**Archetypes:** [[archetypes/ghost|Ghost]]
+**Motifs:** [[motifs/bells|Bells]], [[motifs/time|Time]], [[motifs/supernatural|Supernatural]], [[motifs/dreams|Dreams]], [[motifs/wind|Wind]]
+**Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/poverty|Poverty]], [[concepts/common-man|Common Man]], [[concepts/satire-of-society|Satire of Society]], [[concepts/disillusionment|Disillusionment]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/memory-and-time|Memory and Time]]
+**Forms & Genres:** [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/allegory|Allegory]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/trotty-veck|Trotty Veck]], [[characters/meg-veck|Meg Veck]], [[characters/richard|Richard]], [[characters/alderman-cute|Alderman Cute]], [[characters/will-fern|Will Fern]], [[characters/lilian-fern|Lilian Fern]]
 
 ## Testo integrale / Full text
 

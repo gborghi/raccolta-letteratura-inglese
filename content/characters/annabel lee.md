@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/annabel-lee"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/annabel-lee-(poe)|Annabel Lee (Poe)]]
+
+</div>
+
 #graph/character

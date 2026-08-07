@@ -14,4 +14,14 @@ The 1899-1902 South African war discussed across several reviews (Conan Doyle's 
 
 <div class="concept-works" data-slug="historical-references/boer-war"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-speaker-(chesterton)|The Speaker (Chesterton)]]
+- [[works/caliban's-guide-to-letters-(belloc)|Caliban's Guide to Letters (Belloc)]]
+- [[works/sonnets-and-verse-(belloc)|Sonnets and Verse (Belloc)]]
+- [[works/the-haunted-house-(belloc)|The Haunted House (Belloc)]]
+- [[works/verses-(belloc)|Verses (Belloc)]]
+
+</div>
+
 #graph/histref

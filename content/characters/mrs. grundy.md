@@ -14,4 +14,10 @@ The stock personification of conventional public opinion and prudish propriety w
 
 <div class="concept-works" data-slug="characters/mrs.-grundy"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/whats-wrong-(chesterton)|whats wrong (Chesterton)]]
+
+</div>
+
 #graph/character

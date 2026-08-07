@@ -14,4 +14,14 @@ Historical conqueror used as a foil to Shaw's Caesar and the subject of Shaw's s
 
 <div class="concept-works" data-slug="characters/napoleon-bonaparte"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/shaw-(chesterton)|Shaw (Chesterton)]]
+- [[works/the-adventures-of-gerard-(conan-doyle)|The Adventures of Gerard (Conan Doyle)]]
+- [[works/the-exploits-of-brigadier-gerard-(conan-doyle)|The Exploits of Brigadier Gerard (Conan Doyle)]]
+- [[works/the-great-shadow-(conan-doyle)|The Great Shadow (Conan Doyle)]]
+- [[works/uncle-bernac-(conan-doyle)|Uncle Bernac (Conan Doyle)]]
+
+</div>
+
 #graph/character

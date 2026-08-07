@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/old-martin-chuzzlewit"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/martin-chuzzlewit-(dickens)|Martin Chuzzlewit (Dickens)]]
+
+</div>
+
 #graph/character

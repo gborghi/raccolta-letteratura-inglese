@@ -24,7 +24,7 @@ tags:
 
 # mending
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A short essay arguing that mending (restoring a good thing to its ideal) and ending (destroying a bad thing) are opposite acts, illustrated with the Platonic archetype of the perfect armchair; a meditation on reform and ideal philosophy.
@@ -38,13 +38,13 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Inn Tavern]]
+**Motifs:** [[motifs/inn-tavern|Inn Tavern]]
 
-**Characters:** [[Plato]], [[Bernard Shaw]], [[Major Barbara]]
+**Characters:** [[characters/plato|Plato]], [[historical-references/bernard-shaw|Bernard Shaw]], [[characters/major-barbara|Major Barbara]]
 
-**Topoi:** [[Great Chain of Being]]
-**Themes & Concepts:** [[Reform]], [[Paradox]], [[Critique of Progress]], [[Charity]], [[Justice Right and Wrong]]
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
+**Topoi:** [[topoi/great-chain-of-being|Great Chain of Being]]
+**Themes & Concepts:** [[concepts/reform|Reform]], [[concepts/paradox|Paradox]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/charity|Charity]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

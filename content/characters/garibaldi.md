@@ -14,4 +14,10 @@ The Italian revolutionary hero admired by the English people though not by the E
 
 <div class="concept-works" data-slug="characters/garibaldi"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thecrimesofengland-(chesterton)|TheCrimesOfEngland (Chesterton)]]
+
+</div>
+
 #graph/character

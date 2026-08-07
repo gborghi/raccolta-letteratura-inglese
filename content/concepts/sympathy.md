@@ -14,4 +14,10 @@ Universal fellow-feeling that refuses to exclude either the sportsman or the par
 
 <div class="concept-works" data-slug="concepts/sympathy"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/humanitarianism-(chesterton)|Humanitarianism (Chesterton)]]
+
+</div>
+
 #graph/concept

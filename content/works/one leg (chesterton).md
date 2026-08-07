@@ -26,7 +26,7 @@ tags:
 
 # one leg
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > An essay on finding gratitude and wonder in limitation, drawn from a sprained foot; the optimism hidden in all surrender, isolating a thing to enjoy it perfectly.
@@ -45,13 +45,13 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Ibsen]], [[William III]]
+**Historical References:** [[historical-references/ibsen|Ibsen]], [[historical-references/william-iii|William III]]
 
-**Characters:** [[Mrs. Mountstuart Jenkinson]], [[Sir Willoughby Patterne]]
+**Characters:** [[characters/mrs.-mountstuart-jenkinson|Mrs. Mountstuart Jenkinson]], [[characters/sir-willoughby-patterne|Sir Willoughby Patterne]]
 
-**Topoi:** [[Book of Nature]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Paradox]], [[Joy]], [[Humility]], [[Solitude]], [[Renunciation]], [[Body]]
-**Forms & Genres:** [[Essay]], [[Aphorism]], [[Nonfiction]]
+**Topoi:** [[topoi/book-of-nature|Book of Nature]]
+**Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/paradox|Paradox]], [[concepts/joy|Joy]], [[concepts/humility|Humility]], [[concepts/solitude|Solitude]], [[concepts/renunciation|Renunciation]], [[concepts/body|Body]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/aphorism|Aphorism]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ The disowned Nadoway son who reappears as a self-declared burglar, ultimately re
 
 <div class="concept-works" data-slug="characters/alan-nadoway"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/fourfaultlessfelons-(chesterton)|FourFaultlessFelons (Chesterton)]]
+
+</div>
+
 #graph/character

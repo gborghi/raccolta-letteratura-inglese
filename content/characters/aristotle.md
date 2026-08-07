@@ -14,4 +14,11 @@ Invoked as the source of the 'measure of all things' — the fixed human ideal t
 
 <div class="concept-works" data-slug="characters/aristotle"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-persecution-of-religion-(chesterton)|The Persecution of Religion (Chesterton)]]
+- [[works/aquinas-(chesterton)|aquinas (Chesterton)]]
+
+</div>
+
 #graph/character

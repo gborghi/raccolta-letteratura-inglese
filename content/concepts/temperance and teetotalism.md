@@ -14,4 +14,11 @@ Central satirical target of the poem: mocks the teetotal/temperance crusade agai
 
 <div class="concept-works" data-slug="concepts/temperance-and-teetotalism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/right-and-wrong-(chesterton)|right-and-wrong (Chesterton)]]
+- [[works/the-hedge-and-the-horse-(belloc)|The Hedge and the Horse (Belloc)]]
+
+</div>
+
 #graph/concept

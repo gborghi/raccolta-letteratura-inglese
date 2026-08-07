@@ -14,4 +14,10 @@ Subject of an essay depicting him as a sincere 'minor poet' on the throne rather
 
 <div class="concept-works" data-slug="characters/kaiser-wilhelm-ii-(the-german-emperor)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+
+</div>
+
 #graph/character

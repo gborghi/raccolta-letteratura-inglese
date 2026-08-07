@@ -30,7 +30,7 @@ tags:
   - archetype/hero
   - archetype/villain
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Historical Novel · War and its Cost · Honour and Chivalry]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/historical-novel-·-war-and-its-cost-·-honour-and-chivalry|Historical Novel · War and its Cost · Honour and Chivalry]]
 
 > [!abstract] 
 > A young French emigre, Louis de Laval, returns to Napoleonic France at his uncle's invitation, only to be drawn into intrigue, an assassination plot against Napoleon, and family treachery centred on his ancestral estate of Grosbois.
@@ -60,12 +60,12 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Historical Novel]]
-**Themes & Concepts:** [[Exile]], [[Family and Lineage]], [[Deception]], [[Secrecy and Concealment]], [[Empire and Imperialism]], [[History]]
-**Motifs:** [[Journey]], [[Sea]], [[Storm]], [[Letters and Writing]], [[Sea and Voyage]]
-**Historical References:** [[Napoleon]], [[Napoleonic Wars the Navy]], [[French Revolution]]
-**Settings:** [[France]], [[Ship]], [[Europe]]
-**Characters:** [[Napoleon Bonaparte]]
-**Archetypes:** [[Hero]], [[Villain]]
+**Forms & Genres:** [[forms/historical-novel|Historical Novel]]
+**Themes & Concepts:** [[concepts/exile|Exile]], [[concepts/family-and-lineage|Family and Lineage]], [[concepts/deception|Deception]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/history|History]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/sea|Sea]], [[motifs/storm|Storm]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/napoleon|Napoleon]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/french-revolution|French Revolution]]
+**Settings:** [[settings/france|France]], [[motifs/ship|Ship]], [[settings/europe|Europe]]
+**Characters:** [[characters/napoleon-bonaparte|Napoleon Bonaparte]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/villain|Villain]]
 
-**Also relevant to:** [[Alienation · Outsider · Exile]]
+**Also relevant to:** [[clusters/alienation-·-outsider-·-exile|Alienation · Outsider · Exile]]

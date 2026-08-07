@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/claudio"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/measure-for-measure-(shakespeare)|MEASURE FOR MEASURE (Shakespeare)]]
+- [[works/much-ado-about-nothing-(shakespeare)|MUCH ADO ABOUT NOTHING (Shakespeare)]]
+
+</div>
+
 #graph/character

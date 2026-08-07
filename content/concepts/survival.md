@@ -12,4 +12,12 @@ tags:
 
 <div class="concept-works" data-slug="concepts/survival"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/methuselahite-(chesterton)|methuselahite (Chesterton)]]
+- [[works/the-narrative-of-a.-gordon-pym-(raven-edition)-(poe)|The Narrative of A. Gordon Pym (Raven Edition) (Poe)]]
+- [[works/the-narrative-of-arthur-gordon-pym-of-nantucket-(poe)|The Narrative of Arthur Gordon Pym of Nantucket (Poe)]]
+
+</div>
+
 #graph/concept

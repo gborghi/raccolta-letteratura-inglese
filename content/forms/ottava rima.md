@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="forms/ottava-rima"></div>
 
+<div class="concept-works-fallback">
+
+- [[testi/eliot/atomized/joy-animals-comic-verse-song#102_a_fable_for_feasters|A Fable for Feasters (Eliot)]]
+- [[testi/keats/atomized/joy-animals-comic-verse-song#030_isabella|ISABELLA (Keats)]]
+
+</div>
+
 #graph/form

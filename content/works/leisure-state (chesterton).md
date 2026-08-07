@@ -29,7 +29,7 @@ tags:
 
 # leisure-state
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A social-critical essay rejecting the mechanized 'Leisure State' utopia; argues that men who do no work become servile parts of a machine, defending the free peasant who controls the means of production.
@@ -48,13 +48,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Common Man (2)]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Motifs:** [[Machine]]
+**Motifs:** [[motifs/machine|Machine]]
 
-**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Critique of Progress]], [[Common Man]], [[Satire of Society]], [[Labor and Work]], [[Freedom and Liberty]], [[Class Conflict]], [[Democracy]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Historical References:** [[Industrial Revolution]], [[Bolshevism and the Russian Revolution]], [[H.G. Wells's The World Set Free]]
+**Themes & Concepts:** [[concepts/distributism|Distributism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/common-man|Common Man]], [[concepts/satire-of-society|Satire of Society]], [[concepts/labor-and-work|Labor and Work]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/class-conflict|Class Conflict]], [[concepts/democracy|Democracy]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/bolshevism-and-the-russian-revolution|Bolshevism and the Russian Revolution]], [[historical-references/h.g.-wells's-the-world-set-free|H.G. Wells's The World Set Free]]
 
 ## Testo integrale / Full text
 

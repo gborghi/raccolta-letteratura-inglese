@@ -14,4 +14,10 @@ Eighteenth-century Tory philosopher-statesman who championed a "Patriot King" ag
 
 <div class="concept-works" data-slug="characters/bolingbroke-(henry-st.-john)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/history-(chesterton)|history (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -44,7 +44,7 @@ tags:
 
 # to-frances
 
-*by Chesterton*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
+*by Chesterton*  ·  **Cluster:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Whimsical love-letters and a mock-autobiography addressed to his fiancee Frances Blogg; turns ordinary domestic objects sacramental, treats love and death as kindred transformations.
@@ -65,20 +65,20 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]], [[Christianity]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]]
 
-**Forms & Genres:** [[Biography]], [[Nonfiction]]
+**Forms & Genres:** [[forms/biography|Biography]], [[forms/nonfiction|Nonfiction]]
 
-**Archetypes:** [[Death Personified (2)]], [[Lover]], [[Fool]]
+**Archetypes:** [[archetypes/death-personified-(2)|Death Personified (2)]], [[archetypes/lover|Lover]], [[archetypes/fool|Fool]]
 
-**Settings:** [[Sea (2)]], [[London]]
+**Settings:** [[settings/sea-(2)|Sea (2)]], [[settings/london|London]]
 
-**Topoi:** [[Love as Religion]], [[Journey of Life]], [[Memento Mori]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/journey-of-life|Journey of Life]], [[topoi/memento-mori|Memento Mori]]
 
-**Characters:** [[Death Personified]], [[Frances Blogg]], [[Edmund Clerihew Bentley]], [[Lucian Oldershaw]], [[Mrs. Blogg]]
+**Characters:** [[characters/death-personified|Death Personified]], [[characters/frances-blogg|Frances Blogg]], [[characters/edmund-clerihew-bentley|Edmund Clerihew Bentley]], [[characters/lucian-oldershaw|Lucian Oldershaw]], [[characters/mrs.-blogg|Mrs. Blogg]]
 
-**Motifs:** [[Letters and Writing]], [[Marriage]], [[Home]], [[Clothing and Costume]], [[Book Reading]], [[Fire]], [[Sea]], [[Sea and Voyage]]
-**Themes & Concepts:** [[Romantic Love]], [[Wonder and Gratitude]], [[Mortality]], [[Marriage and Fidelity]], [[Death and Love]], [[Metamorphosis Transformation]], [[Imagination]], [[Friendship]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/marriage|Marriage]], [[motifs/home|Home]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/book-reading|Book Reading]], [[motifs/fire|Fire]], [[motifs/sea|Sea]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/mortality|Mortality]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/death-and-love|Death and Love]], [[concepts/metamorphosis-transformation|Metamorphosis Transformation]], [[concepts/imagination|Imagination]], [[concepts/friendship|Friendship]]
 
 ## Testo integrale / Full text
 

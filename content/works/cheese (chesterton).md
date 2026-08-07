@@ -34,7 +34,7 @@ tags:
   - histref/eastern_religion_comparative_religion
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
+*by Chesterton*  ·  **Cluster:** [[clusters/paradox-·-food-and-feasting-·-aphorism|Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 
 > A whimsical essay using the 'neglect of cheese' in poetry to praise local, varied, living tradition over uniform mechanized modern civilization; defends rootedness and the sacramental joy of common food.
@@ -53,15 +53,15 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]], [[Greek Mythology]], [[Ancient Rome]], [[Industrial Revolution]], [[Eastern Religion Comparative Religion]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/greek-mythology|Greek Mythology]], [[settings/ancient-rome|Ancient Rome]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]]
 
-**Archetypes:** [[Pilgrim]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
 
-**Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]], [[Paradise Lost]]
-**Motifs:** [[Food and Feasting]], [[Inn Tavern]], [[Bread and Wine Eucharist]], [[Journey]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Critique of Progress]], [[Wonder and Gratitude]], [[Nature vs Civilization]], [[Distributism]], [[Paradox]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
-**Settings:** [[Rural England]], [[Industrial City]]
+**Topoi:** [[topoi/beatus-ille-(happy-the-man-rural-retreat)|Beatus Ille (Happy the Man Rural Retreat)]], [[topoi/paradise-lost|Paradise Lost]]
+**Motifs:** [[motifs/food-and-feasting|Food and Feasting]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/bread-and-wine-eucharist|Bread and Wine Eucharist]], [[motifs/journey|Journey]]
+**Themes & Concepts:** [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/distributism|Distributism]], [[concepts/paradox|Paradox]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/industrial-city|Industrial City]]
 
 ## Testo integrale / Full text
 

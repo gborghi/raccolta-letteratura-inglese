@@ -14,4 +14,10 @@ The Prussian statesman who seizes Denmark and engineers Sedan through calculated
 
 <div class="concept-works" data-slug="characters/bismarck"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thecrimesofengland-(chesterton)|TheCrimesOfEngland (Chesterton)]]
+
+</div>
+
 #graph/character

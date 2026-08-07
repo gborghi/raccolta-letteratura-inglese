@@ -34,7 +34,7 @@ tags:
 
 # HIFTS
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A satirical short story mocking the Shavian/Wellsian cult of the Superman and the eugenic ideal; the much-heralded Superman of Croydon turns out monstrous and dies of a draught. Satire of progressivism and eugenics.
@@ -53,16 +53,16 @@ tags:
 
 ## Connections
 
-**Historical References:** [[George Bernard Shaw]], [[H.G. Wells]]
+**Historical References:** [[historical-references/george-bernard-shaw|George Bernard Shaw]], [[historical-references/h.g.-wells|H.G. Wells]]
 
-**Characters:** [[Lady Hypatia Hagg]], [[Dr. Hagg]]
+**Characters:** [[characters/lady-hypatia-hagg|Lady Hypatia Hagg]], [[characters/dr.-hagg|Dr. Hagg]]
 
-**Topoi:** [[World Upside Down]]
-**Archetypes:** [[Monster]]
-**Motifs:** [[Madness (2)]], [[Wind]], [[Grave]], [[Eyes and Sight]], [[Light and Dark]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Grotesque]], [[Terror and Horror]], [[Appearance vs Reality]], [[Deception]], [[Vanity]], [[Eugenics]]
-**Forms & Genres:** [[Short Story]], [[Satire]], [[Parody]]
-**Settings:** [[London]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/monster|Monster]]
+**Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/wind|Wind]], [[motifs/grave|Grave]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/light-and-dark|Light and Dark]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/grotesque|Grotesque]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/vanity|Vanity]], [[concepts/eugenics|Eugenics]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/satire|Satire]], [[forms/parody|Parody]]
+**Settings:** [[settings/london|London]]
 
 ## Testo integrale / Full text
 

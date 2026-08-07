@@ -14,4 +14,10 @@ The hard-headed, unromantic realist of Shaw's Arms and the Man, cited by Chester
 
 <div class="concept-works" data-slug="characters/bluntzschli"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-polish-ideal-(chesterton)|The Polish Ideal (Chesterton)]]
+
+</div>
+
 #graph/character

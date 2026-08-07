@@ -14,4 +14,10 @@ The tyrant of the Nativity narrative, presented as the menace of worldly power a
 
 <div class="concept-works" data-slug="characters/herod-the-great"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/everlasting-man-(chesterton)|everlasting man (Chesterton)]]
+
+</div>
+
 #graph/character

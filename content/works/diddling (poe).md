@@ -21,7 +21,7 @@ tags:
   - form/satire
 ---
 
-*by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Poe*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A mock-scientific satirical essay defining man as 'an animal that diddles' and cataloguing petty swindles; a comic anatomy of deception, the trickster, and social satire.
@@ -42,11 +42,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Archetypes:** [[Trickster]]
-**Motifs:** [[Money and Gold]], [[Concealment Hidden Identity]], [[City]]
-**Themes & Concepts:** [[Deception]], [[Satire of Society]], [[Appearance vs Reality]], [[Common Man]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/trickster|Trickster]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/city|City]]
+**Themes & Concepts:** [[concepts/deception|Deception]], [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/common-man|Common Man]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

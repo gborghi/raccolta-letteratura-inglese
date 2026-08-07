@@ -14,4 +14,10 @@ The dark-spectacled, boyishly cheerful anarchist called Saturday, unmasked as a 
 
 <div class="concept-works" data-slug="characters/dr.-bull"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thursday-(chesterton)|thursday (Chesterton)]]
+
+</div>
+
 #graph/character

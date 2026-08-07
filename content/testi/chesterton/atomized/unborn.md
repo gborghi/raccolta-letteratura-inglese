@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="unborn" data-title="unborn" data-chapter="" data-kind="intro"></span>
 
 
-"By the Babe [[unborn|Unborn]]"  
+"By the Babe Unborn"  
 
 by G.K. Chesterton  
 
@@ -23,7 +23,7 @@ As in some crazy tale,
 If here and there a sea were blue  
 Beyond the breaking pale,  
 
-If a fixed [[Fire|fire]] hung in the air  
+If a fixed [[motifs/fire|fire]] hung in the air  
 To warm me one day through,  
 If deep green hair grew on great hills,  
 I know what I should do.  
@@ -33,10 +33,10 @@ Are great eyes cold or kind,
 And twisted streets and silent doors,  
 And living men behind.  
 
-Let [[Storm|storm]] clouds come: better an hour,  
+Let [[motifs/storm|storm]] clouds come: better an hour,  
 And leave to weep and fight,  
 Than all the ages I have ruled  
-The empires of the [[Night|night]].  
+The empires of the [[motifs/night|night]].  
 
 I think that if they gave me leave  
 Within the world to stand,  
@@ -51,7 +51,7 @@ If only I were born.
 
 <span class="qlang-split" data-lang="it"></span>
 
-"Per il Bimbo [[unborn|Non Nato]]"  
+"Per il Bimbo Non Nato"  
 
 di G.K. Chesterton
 
@@ -60,7 +60,7 @@ come in qualche folle fiaba,
 se qua e là un mare fosse azzurro  
 oltre il pallido frangente,  
 
-Se un [[Fire|fuoco]] fisso pendesse nell'aria  
+Se un [[motifs/fire|fuoco]] fisso pendesse nell'aria  
 a scaldarmi per un giorno intero,  
 se folte chiome verdi crescessero su grandi colli,  
 io so cosa farei.  
@@ -70,10 +70,10 @@ vi siano grandi occhi freddi o gentili,
 e vie contorte e porte silenziose,  
 e uomini vivi dietro di esse.  
 
-Vengano le nubi di [[Storm|tempesta]]: meglio un'ora,  
+Vengano le nubi di [[motifs/storm|tempesta]]: meglio un'ora,  
 e il permesso di piangere e lottare,  
 che tutte le età in cui ho regnato  
-sugli imperi della [[Night|notte]].  
+sugli imperi della [[motifs/night|notte]].  
 
 Penso che se mi concedessero  
 di stare dentro il mondo,  
@@ -90,7 +90,7 @@ se solo fossi nato.
 <span class="atom-split" data-atom="part--part_01" data-title="unborn (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/storm"></span>
 
 
-"By the Babe [[unborn|Unborn]]"  
+"By the Babe Unborn"  
 
 by G.K. Chesterton  
 
@@ -99,7 +99,7 @@ As in some crazy tale,
 If here and there a sea were blue  
 Beyond the breaking pale,  
 
-If a fixed [[Fire|fire]] hung in the air  
+If a fixed [[motifs/fire|fire]] hung in the air  
 To warm me one day through,  
 If deep green hair grew on great hills,  
 I know what I should do.  
@@ -109,10 +109,10 @@ Are great eyes cold or kind,
 And twisted streets and silent doors,  
 And living men behind.  
 
-Let [[Storm|storm]] clouds come: better an hour,  
+Let [[motifs/storm|storm]] clouds come: better an hour,  
 And leave to weep and fight,  
 Than all the ages I have ruled  
-The empires of the [[Night|night]].  
+The empires of the [[motifs/night|night]].  
 
 I think that if they gave me leave  
 Within the world to stand,  
@@ -127,16 +127,16 @@ If only I were born.
 
 <span class="qlang-split" data-lang="it"></span>
 
-"Per il Bimbo [[unborn|Non Nato]]"  
+"Per il Bimbo Non Nato"  
 
-di G.K. Chesterton
+di G.K. Chesterton  
 
 Se gli alberi fossero alti e corte le erbe,  
 come in qualche folle fiaba,  
 se qua e là un mare fosse azzurro  
 oltre il pallido frangente,  
 
-Se un [[Fire|fuoco]] fisso pendesse nell'aria  
+Se un [[motifs/fire|fuoco]] fisso pendesse nell'aria  
 a scaldarmi per un giorno intero,  
 se folte chiome verdi crescessero su grandi colli,  
 io so cosa farei.  
@@ -146,10 +146,10 @@ vi siano grandi occhi freddi o gentili,
 e vie contorte e porte silenziose,  
 e uomini vivi dietro di esse.  
 
-Vengano le nubi di [[Storm|tempesta]]: meglio un'ora,  
+Vengano le nubi di [[motifs/storm|tempesta]]: meglio un'ora,  
 e il permesso di piangere e lottare,  
 che tutte le età in cui ho regnato  
-sugli imperi della [[Night|notte]].  
+sugli imperi della [[motifs/night|notte]].  
 
 Penso che se mi concedessero  
 di stare dentro il mondo,  

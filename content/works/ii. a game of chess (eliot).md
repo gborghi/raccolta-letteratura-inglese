@@ -16,16 +16,16 @@ tags:
   - histref/greek_mythology
 ---
 
-*by Eliot*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Eliot*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Second section: the gilded boudoir and Philomel, the neurotic dialogue, and the pub talk of Lil and abortion; sterile marriage, frustrated desire, violation and barren love high and low.
 
 ## Connections
 
-**Motifs:** [[Nightingale]], [[Marriage]], [[Fire]]
-**Themes & Concepts:** [[Waste Land (Sterility)]], [[Marriage and Fidelity]], [[Lust Sexual Desire]]
-**Historical References:** [[Greek Mythology]]
+**Motifs:** [[motifs/nightingale|Nightingale]], [[motifs/marriage|Marriage]], [[motifs/fire|Fire]]
+**Themes & Concepts:** [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/lust-sexual-desire|Lust Sexual Desire]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
 
 ## Testo integrale / Full text
 

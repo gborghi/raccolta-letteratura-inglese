@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/sydney-carton"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/a-tale-of-two-cities-(dickens)|A Tale of Two Cities (Dickens)]]
+
+</div>
+
 #graph/character

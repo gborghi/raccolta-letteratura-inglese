@@ -14,4 +14,10 @@ The self-possessed young Englishwoman MacIan meets and falls for near the story'
 
 <div class="concept-works" data-slug="characters/beatrice-drake"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ball-and-cross-(chesterton)|ball and cross (Chesterton)]]
+
+</div>
+
 #graph/character

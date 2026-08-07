@@ -34,7 +34,7 @@ tags:
   - archetype/outsider
   - topos/open_road_homecoming
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Historical Novel · War and its Cost · Honour and Chivalry]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/historical-novel-·-war-and-its-cost-·-honour-and-chivalry|Historical Novel · War and its Cost · Honour and Chivalry]]
 
 > [!abstract] 
 > Set at the court of Louis XIV, this historical novel follows Huguenot guardsman Amory de Catinat and his cousin Adele as royal favor turns against Protestants with the Revocation of the Edict of Nantes, driving the Catinat family into exile. Aided by the American frontiersman Amos Green, the refugees flee across the Atlantic into the wilderness of New France.
@@ -86,12 +86,12 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Historical Novel]], [[Adventure Fiction]]
-**Themes & Concepts:** [[Religious Persecution]], [[Exile]], [[Empire and Imperialism]], [[Kingship and Legitimacy]], [[Family and Lineage]], [[Honour]], [[History]]
-**Motifs:** [[Journey]], [[Swords and Weapons]], [[Letters and Writing]]
-**Settings:** [[France]], [[Court]], [[American Frontier]], [[Canada]], [[Europe]]
-**Characters:** [[Amory de Catinat]], [[Adele Catinat]], [[Amos Green]], [[Louis XIV]]
-**Archetypes:** [[King]], [[Hero]], [[Outsider]]
-**Topoi:** [[Open Road Homecoming]]
+**Forms & Genres:** [[forms/historical-novel|Historical Novel]], [[forms/adventure-fiction|Adventure Fiction]]
+**Themes & Concepts:** [[concepts/religious-persecution|Religious Persecution]], [[concepts/exile|Exile]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/family-and-lineage|Family and Lineage]], [[concepts/honour|Honour]], [[concepts/history|History]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/letters-and-writing|Letters and Writing]]
+**Settings:** [[settings/france|France]], [[settings/court|Court]], [[settings/american-frontier|American Frontier]], [[settings/canada|Canada]], [[settings/europe|Europe]]
+**Characters:** [[characters/amory-de-catinat|Amory de Catinat]], [[characters/adele-catinat|Adele Catinat]], [[characters/amos-green|Amos Green]], [[characters/louis-xiv|Louis XIV]]
+**Archetypes:** [[archetypes/king|King]], [[archetypes/hero|Hero]], [[archetypes/outsider|Outsider]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]]
 
-**Also relevant to:** [[Alienation · Outsider · Exile]]
+**Also relevant to:** [[clusters/alienation-·-outsider-·-exile|Alienation · Outsider · Exile]]

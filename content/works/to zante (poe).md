@@ -18,19 +18,19 @@ tags:
   - form/sonnet
 ---
 
-*by Poe*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
+*by Poe*  ·  **Cluster:** [[clusters/grief-and-loss-·-elegy-·-clothing-and-costume|Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
 > A sonnet on the Greek isle of Zante, whose flowery shores now wake only memories of a vanished maiden and entombed hopes; the place is cursed by the refrain 'no more'. Themes of grief, lost love, transience and the classical Mediterranean.
 
 ## Connections
 
-**Topoi:** [[Memento Mori]]
-**Motifs:** [[Flowers]], [[Memory]]
-**Themes & Concepts:** [[Grief and Loss]], [[Unrequited Frustrated Love]], [[Transience]]
-**Forms & Genres:** [[Sonnet]]
-**Historical References:** [[Classical Antiquity]]
-**Settings:** [[Ancient Greece (2)]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]
+**Motifs:** [[motifs/flowers|Flowers]], [[motifs/memory|Memory]]
+**Themes & Concepts:** [[concepts/grief-and-loss|Grief and Loss]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/transience|Transience]]
+**Forms & Genres:** [[forms/sonnet|Sonnet]]
+**Historical References:** [[historical-references/classical-antiquity|Classical Antiquity]]
+**Settings:** [[settings/ancient-greece-(2)|Ancient Greece (2)]]
 
 ## Testo integrale / Full text
 

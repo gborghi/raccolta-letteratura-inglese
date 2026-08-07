@@ -10,7 +10,7 @@ tags:
   - character/auguste_dupin
 ---
 
-*by Poe*  ·  **Cluster:** [[Unclustered]]
+*by Poe*  ·  **Cluster:** [[clusters/unclustered|Unclustered]]
 
 ## Testo / Text
 
@@ -31,7 +31,7 @@ tags:
 
 ## Connections
 
-**Characters:** [[C. Auguste Dupin]]
+**Characters:** [[characters/c.-auguste-dupin|C. Auguste Dupin]]
 
 ## Testo integrale / Full text
 

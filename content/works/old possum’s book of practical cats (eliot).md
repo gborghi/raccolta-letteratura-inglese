@@ -14,17 +14,17 @@ tags:
   - topos/inexpressibility
 ---
 
-*by Eliot*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
+*by Eliot*  ·  **Cluster:** [[clusters/joy-·-animals-·-comic-verse-song|Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 
 > Collection header for Eliot's light comic verse about cats; opens with The Naming of Cats on the inscrutable third name each cat keeps secret.
 
 ## Connections
 
-**Topoi:** [[Inexpressibility]]
-**Motifs:** [[Animals]]
-**Themes & Concepts:** [[Joy]], [[Identity]]
-**Forms & Genres:** [[Comic Verse Song]]
+**Topoi:** [[topoi/inexpressibility|Inexpressibility]]
+**Motifs:** [[motifs/animals|Animals]]
+**Themes & Concepts:** [[concepts/joy|Joy]], [[concepts/identity|Identity]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]]
 
 ## Testo integrale / Full text
 

@@ -19,17 +19,17 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Memory and Time · Memory · Nostalgia]]
+*by Poe*  ·  **Cluster:** [[clusters/memory-and-time-·-memory-·-nostalgia|Memory and Time · Memory · Nostalgia]]
 
 > [!abstract] 
 > Early lyric figuring the speaker's life as a proud, dreamlike tide of vanished hope and visionary thought now passed away.
 
 ## Connections
 
-**Topoi:** [[Tempus Fugit]]
-**Motifs:** [[Dreams]], [[Memory]], [[Eyes and Sight]]
-**Themes & Concepts:** [[Transience]], [[Melancholy]], [[Pride]], [[Nostalgia]], [[Imagination]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/tempus-fugit|Tempus Fugit]]
+**Motifs:** [[motifs/dreams|Dreams]], [[motifs/memory|Memory]], [[motifs/eyes-and-sight|Eyes and Sight]]
+**Themes & Concepts:** [[concepts/transience|Transience]], [[concepts/melancholy|Melancholy]], [[concepts/pride|Pride]], [[concepts/nostalgia|Nostalgia]], [[concepts/imagination|Imagination]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

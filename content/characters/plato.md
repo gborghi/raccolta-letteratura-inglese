@@ -14,4 +14,11 @@ The rival Greek philosopher whose transcendentalism, inherited through Augustine
 
 <div class="concept-works" data-slug="characters/plato"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/aquinas-(chesterton)|aquinas (Chesterton)]]
+- [[works/mending-(chesterton)|mending (Chesterton)]]
+
+</div>
+
 #graph/character

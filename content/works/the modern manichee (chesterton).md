@@ -34,7 +34,7 @@ tags:
   - form/apologetics
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
+*by Chesterton*  ·  **Cluster:** [[clusters/temptation-·-good-vs-evil-·-serpent-snake|Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 
 > A dense lyric portraying the modern man who denies sin and so turns the whole green world merciless and obscene; an attack on a pessimistic, life-hating heresy. Themes: sin and the fall, the denial of guilt, and a corrupted vision of nature.
@@ -45,12 +45,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Paradise Lost]], [[Fall from Innocence]]
+**Topoi:** [[topoi/paradise-lost|Paradise Lost]], [[topoi/fall-from-innocence|Fall from Innocence]]
 
-**Motifs:** [[Garden]], [[Serpent Snake]], [[Blood]], [[Nature]], [[Poison]], [[Water]], [[Bees]], [[Flowers]]
-**Themes & Concepts:** [[Sin and the Fall]], [[Original Sin]], [[Guilt]], [[Good vs Evil]], [[Nature vs Civilization]], [[Melancholy]], [[Pride]], [[Paganism and Classical Revival]], [[Grotesque]], [[Lust Sexual Desire]], [[Self-Deception]], [[Spiritual Emptiness]]
-**Forms & Genres:** [[Lyric]], [[Apologetics]]
-**Historical References:** [[Bible]]
+**Motifs:** [[motifs/garden|Garden]], [[motifs/serpent-snake|Serpent Snake]], [[motifs/blood|Blood]], [[concepts/nature|Nature]], [[motifs/poison|Poison]], [[motifs/water|Water]], [[motifs/bees|Bees]], [[motifs/flowers|Flowers]]
+**Themes & Concepts:** [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/original-sin|Original Sin]], [[concepts/guilt|Guilt]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/melancholy|Melancholy]], [[concepts/pride|Pride]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/grotesque|Grotesque]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/self-deception|Self-Deception]], [[concepts/spiritual-emptiness|Spiritual Emptiness]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/apologetics|Apologetics]]
+**Historical References:** [[historical-references/bible|Bible]]
 
 ## Testo integrale / Full text
 

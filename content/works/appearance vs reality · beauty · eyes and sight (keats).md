@@ -37,13 +37,13 @@ tags:
 
 Raccolta tematica di 7 componimenti di John Keats.
 
-- [[Oh, I am frighten’d with most hateful thoughts! (Keats)|Oh, I am frighten’d with most hateful thoughts!]]
-- [[Sharing Eve’s Apple (Keats)|Sharing Eve’s Apple]]
-- [[Sonnet Written in Answer to a Sonnet Ending thus (Keats)|Sonnet Written in Answer to a Sonnet Ending thus:]]
-- [[Sonnet to Sleep (Keats)|Sonnet to Sleep]]
-- [[TO (Keats)|TO * * * *]]
-- [[To G. A. W (Keats)|To G. A. W]]
-- [[To the Ladies who Saw Me Crown’d (Keats)|To the Ladies who Saw Me Crown’d]]
+- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#087_oh_i_am_frightend_with_most_hateful_thoughts|Oh, I am frighten’d with most hateful thoughts!]]
+- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#076_sharing_eves_apple|Sharing Eve’s Apple]]
+- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#080_sonnet_written_in_answer_to_a_sonnet_ending_thus|Sonnet Written in Answer to a Sonnet Ending thus:]]
+- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#116_sonnet_to_sleep|Sonnet to Sleep]]
+- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#005_to|TO * * * *]]
+- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#017_to_g_a_w|To G. A. W]]
+- [[testi/keats/atomized/appearance-vs-reality-beauty-eyes-and-sight#051_to_the_ladies_who_saw_me_crownd|To the Ladies who Saw Me Crown’d]]
 
 ## Testo / Text
 

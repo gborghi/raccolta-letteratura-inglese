@@ -25,7 +25,7 @@ tags:
   - character/apollonius
 ---
 
-*by Keats*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
+*by Keats*  ·  **Cluster:** [[clusters/greek-mythology-·-lust-sexual-desire-·-desire|Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 
 > A narrative poem in heroic couplets in which the serpent-woman Lamia, restored to female form, weds Lycius until the sage Apollonius's cold gaze dissolves her and kills him; enchantment, illusion versus philosophy, and destructive supernatural love from Greek myth.
@@ -37,14 +37,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Love as Religion]]
-**Archetypes:** [[Femme Fatale]], [[Temptress]]
-**Motifs:** [[Serpent Snake]], [[Supernatural]]
-**Themes & Concepts:** [[Appearance vs Reality]], [[Beauty]], [[Imagination]], [[Critique of Progress]]
-**Forms & Genres:** [[Narrative Poem]], [[Heroic Couplet]]
-**Historical References:** [[Greek Mythology]]
-**Settings:** [[Ancient Greece (2)]]
-**Characters:** [[Lamia]], [[Lycius]], [[Apollonius]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]]
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/temptress|Temptress]]
+**Motifs:** [[motifs/serpent-snake|Serpent Snake]], [[motifs/supernatural|Supernatural]]
+**Themes & Concepts:** [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/beauty|Beauty]], [[concepts/imagination|Imagination]], [[concepts/critique-of-progress|Critique of Progress]]
+**Forms & Genres:** [[forms/narrative-poem|Narrative Poem]], [[forms/heroic-couplet|Heroic Couplet]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
+**Settings:** [[settings/ancient-greece-(2)|Ancient Greece (2)]]
+**Characters:** [[characters/lamia|Lamia]], [[characters/lycius|Lycius]], [[characters/apollonius|Apollonius]]
 
 ## Testo integrale / Full text
 

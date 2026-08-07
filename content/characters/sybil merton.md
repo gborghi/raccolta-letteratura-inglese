@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/sybil-merton"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lord-arthur-savile's-crime-(wilde)|Lord Arthur Savile's Crime (Wilde)]]
+
+</div>
+
 #graph/character

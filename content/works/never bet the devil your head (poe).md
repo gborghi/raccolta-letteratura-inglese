@@ -22,7 +22,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
+*by Poe*  ·  **Cluster:** [[clusters/temptation-·-good-vs-evil-·-serpent-snake|Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 
 > A satirical moral tale mocking the demand that fiction carry a moral: the reprobate Toby Dammit literally loses his head to a diabolical old gentleman after wagering it once too often. Satire of transcendentalism.
@@ -43,11 +43,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Satanic Figure]], [[Fool]]
-**Motifs:** [[Death]], [[Grave]]
-**Themes & Concepts:** [[Satire of Society]], [[Temptation]], [[Sin and the Fall]], [[Grotesque]], [[Artist and Society]]
-**Forms & Genres:** [[Satire]], [[Fable]], [[Short Story]]
-**Characters:** [[Satan]]
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/fool|Fool]]
+**Motifs:** [[motifs/death|Death]], [[motifs/grave|Grave]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/temptation|Temptation]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grotesque|Grotesque]], [[concepts/artist-and-society|Artist and Society]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/fable|Fable]], [[forms/short-story|Short Story]]
+**Characters:** [[characters/satan|Satan]]
 
 ## Testo integrale / Full text
 

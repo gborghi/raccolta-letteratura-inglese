@@ -14,4 +14,10 @@ The Crusader-medieval Jerusalem and the cavern-shrine of Bethlehem that Chestert
 
 <div class="concept-works" data-slug="settings/holy-land-(jerusalem-and-bethlehem)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/spice-of-life-(chesterton)|Spice Of Life (Chesterton)]]
+
+</div>
+
 #graph/setting

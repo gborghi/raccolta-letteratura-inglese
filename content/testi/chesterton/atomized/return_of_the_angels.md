@@ -20,7 +20,7 @@ THE RETURN OF THE ANGELS
 
 Daily News, March 14th, 1903
 
-I write these remarks with one great [[Hope|hope]], that of arousing controversy.
+I write these remarks with one great [[concepts/hope|hope]], that of arousing controversy.
 It is really a singular matter that amid all the talk of the great work
 of physical science and its alleged victory over religious dogmatism,
 no one has noticed what the greatest of all the triumphs of science
@@ -52,19 +52,19 @@ that this is the method on which we base all our real beliefs
 and that on this, above all, we base our belief in evolution.
 Of the thousands of brilliant and elegant persons like ourselves
 who believe roughly in the Darwinian doctrine, how many are there
-who know which fossil or [[skeleton]], which parrot's tail or which
+who know which fossil or skeleton, which parrot's tail or which
 cuttle-fish's stomach, is really believed to be the conclusive example
 and absolute datum of natural selection?  We know scarcely anything
-of the Darwinian facts that lead to [[conversion]].  What we know is much
-more important:  the Darwinian facts that come after [[conversion]].
+of the Darwinian facts that lead to [[concepts/conversion|conversion]].  What we know is much
+more important:  the Darwinian facts that come after [[concepts/conversion|conversion]].
 What we know, to use a higher language, are the fruits of the spirit.
 We know that with this idea once inside our heads a million
 things become transparent as if a lamp were lit behind them:
 we see the thing in the dog in the street, in the pear on the wall,
-in the book of [[history]] we are reading, in the baby in the perambulator
+in the book of [[concepts/history|history]] we are reading, in the baby in the perambulator
 and in the last news from Borneo.  And the fulfilments pour in upon
 us in so natural and continual a cataract that at last is reached
-that [[Paradox|paradox]] of the condition which is called belief.  We have seen
+that [[concepts/paradox|paradox]] of the condition which is called belief.  We have seen
 so many evidences of the theory that we have forgotten them all.
 The theory is so clear to us that we can scarcely even defend it,
 If we walked up to the nearest rationalist we know and asked
@@ -92,8 +92,8 @@ doctrine on a few desperate quibbles; in so far as they fancy,
 as they do, that we are hanging on to religion by sticks and straws....
 The return to the spiritual theory rests on none of these things.
 It rests, like the movement towards evolution, on the fact
-that the thing works out.  We put on the theory like a [[Magic|magic]] hat
-and [[history]] becomes translucent like a [[house]] of glass.
+that the thing works out.  We put on the theory like a magic hat
+and [[concepts/history|history]] becomes translucent like a house of glass.
 
 Let us begin at the beginning.  A startling and sensational event
 occurred recently; I allude to the emergence of the creature
@@ -103,7 +103,7 @@ headlined in the evening papers.  The newness, suddenness and utter
 uniqueness of the rise of man reminds one of Japan in the East;
 only it is more so.... There may be a hundred explanations of this.
 No sane man would say that it involved a spiritual deduction.
-But it fits in with it, and fits in with it very [[Well|well]], to suppose that
+But it fits in with it, and fits in with it very [[motifs/well|well]], to suppose that
 there is another atmosphere of life besides the animal and that this
 spiritual world irrupted in some way into that creature at the moment.
 The phenomenon does not prove Religion, but religion explains
@@ -117,7 +117,7 @@ fathers have had dealings with a darker or more wonderful being.
 If human evidence means anything at all, this is perhaps the only
 thing on which we have overwhelming evidence.
 
-We have nearly overwhelming human witness to the necessity of [[morality]];
+We have nearly overwhelming human witness to the necessity of morality;
 we have quite overwhelming human witness to the reality of the
 spiritual life.  We are ready enough to quote the evidence of all
 mankind in support of police regulations or the data of ethics;
@@ -151,7 +151,7 @@ THE RETURN OF THE ANGELS
 
 Daily News, March 14th, 1903
 
-I write these remarks with one great [[Hope|hope]], that of arousing controversy.
+I write these remarks with one great [[concepts/hope|hope]], that of arousing controversy.
 It is really a singular matter that amid all the talk of the great work
 of physical science and its alleged victory over religious dogmatism,
 no one has noticed what the greatest of all the triumphs of science
@@ -183,19 +183,19 @@ that this is the method on which we base all our real beliefs
 and that on this, above all, we base our belief in evolution.
 Of the thousands of brilliant and elegant persons like ourselves
 who believe roughly in the Darwinian doctrine, how many are there
-who know which fossil or [[skeleton]], which parrot's tail or which
+who know which fossil or skeleton, which parrot's tail or which
 cuttle-fish's stomach, is really believed to be the conclusive example
 and absolute datum of natural selection?  We know scarcely anything
-of the Darwinian facts that lead to [[conversion]].  What we know is much
-more important:  the Darwinian facts that come after [[conversion]].
+of the Darwinian facts that lead to [[concepts/conversion|conversion]].  What we know is much
+more important:  the Darwinian facts that come after [[concepts/conversion|conversion]].
 What we know, to use a higher language, are the fruits of the spirit.
 We know that with this idea once inside our heads a million
 things become transparent as if a lamp were lit behind them:
 we see the thing in the dog in the street, in the pear on the wall,
-in the book of [[history]] we are reading, in the baby in the perambulator
+in the book of [[concepts/history|history]] we are reading, in the baby in the perambulator
 and in the last news from Borneo.  And the fulfilments pour in upon
 us in so natural and continual a cataract that at last is reached
-that [[Paradox|paradox]] of the condition which is called belief.  We have seen
+that [[concepts/paradox|paradox]] of the condition which is called belief.  We have seen
 so many evidences of the theory that we have forgotten them all.
 The theory is so clear to us that we can scarcely even defend it,
 If we walked up to the nearest rationalist we know and asked
@@ -223,8 +223,8 @@ doctrine on a few desperate quibbles; in so far as they fancy,
 as they do, that we are hanging on to religion by sticks and straws....
 The return to the spiritual theory rests on none of these things.
 It rests, like the movement towards evolution, on the fact
-that the thing works out.  We put on the theory like a [[Magic|magic]] hat
-and [[history]] becomes translucent like a [[house]] of glass.
+that the thing works out.  We put on the theory like a magic hat
+and [[concepts/history|history]] becomes translucent like a house of glass.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -235,7 +235,7 @@ IL RITORNO DEGLI ANGELI
 
 Daily News, 14 marzo 1903
 
-Scrivo queste osservazioni con una grande [[Hope|speranza]], quella di suscitare polemiche.
+Scrivo queste osservazioni con una grande [[concepts/hope|speranza]], quella di suscitare polemiche.
 È davvero una cosa singolare che, in mezzo a tutto il gran parlare della grande opera
 della scienza fisica e della sua presunta vittoria sul dogmatismo religioso,
 nessuno abbia notato quale sia stato realmente il più grande di tutti i trionfi della scienza.
@@ -267,19 +267,19 @@ che questo è il metodo su cui basiamo tutte le nostre credenze reali
 e che su questo, soprattutto, basiamo la nostra credenza nell'evoluzione.
 Delle migliaia di persone brillanti ed eleganti come noi
 che credono grosso modo nella dottrina darwiniana, quanti sono
-coloro che sanno quale fossile o quale [[skeleton|scheletro]], quale coda di pappagallo o quale
+coloro che sanno quale fossile o quale scheletro, quale coda di pappagallo o quale
 stomaco di seppia sia realmente ritenuto l'esempio conclusivo
 e il dato assoluto della selezione naturale? Non sappiamo quasi nulla
-dei fatti darwiniani che conducono alla [[conversion|conversione]]. Ciò che sappiamo è molto
-più importante: i fatti darwiniani che vengono dopo la [[conversion|conversione]].
+dei fatti darwiniani che conducono alla [[concepts/conversion|conversione]]. Ciò che sappiamo è molto
+più importante: i fatti darwiniani che vengono dopo la [[concepts/conversion|conversione]].
 Ciò che sappiamo, per usare un linguaggio più alto, sono i frutti dello spirito.
 Sappiamo che, con questa idea una volta entrata nella nostra testa, un milione
 di cose diventano trasparenti come se dietro di esse fosse accesa una lampada:
 vediamo la cosa nel cane per la strada, nella pera sul muro,
-nel libro di [[history|storia]] che stiamo leggendo, nel bambino nella carrozzina
+nel libro di [[concepts/history|storia]] che stiamo leggendo, nel bambino nella carrozzina
 e nelle ultime notizie dal Borneo. E gli adempimenti si riversano su
 di noi in una cateratta così naturale e continua che alla fine si raggiunge
-quel [[Paradox|paradosso]] della condizione che è chiamata fede. Abbiamo visto
+quel [[concepts/paradox|paradosso]] della condizione che è chiamata fede. Abbiamo visto
 tante prove della teoria da averle dimenticate tutte.
 La teoria ci è così chiara che a stento riusciamo persino a difenderla.
 Se ci avvicinassimo al razionalista più vicino che conosciamo e gli chiedessimo
@@ -307,8 +307,8 @@ tremenda su qualche disperato cavillo; nella misura in cui immaginano,
 come fanno, che ci aggrappiamo alla religione con fuscelli e pagliuzze...
 Il ritorno alla teoria spirituale non poggia su nessuna di queste cose.
 Poggia, come il movimento verso l'evoluzione, sul fatto
-che la cosa torna. Ci mettiamo la teoria come un cappello [[Magic|magico]]
-e la [[history|storia]] diventa translucida come una [[house|casa]] di vetro.
+che la cosa torna. Ci mettiamo la teoria come un cappello magico
+e la [[concepts/history|storia]] diventa translucida come una casa di vetro.
 
 
 
@@ -323,7 +323,7 @@ headlined in the evening papers.  The newness, suddenness and utter
 uniqueness of the rise of man reminds one of Japan in the East;
 only it is more so.... There may be a hundred explanations of this.
 No sane man would say that it involved a spiritual deduction.
-But it fits in with it, and fits in with it very [[Well|well]], to suppose that
+But it fits in with it, and fits in with it very [[motifs/well|well]], to suppose that
 there is another atmosphere of life besides the animal and that this
 spiritual world irrupted in some way into that creature at the moment.
 The phenomenon does not prove Religion, but religion explains
@@ -337,7 +337,7 @@ fathers have had dealings with a darker or more wonderful being.
 If human evidence means anything at all, this is perhaps the only
 thing on which we have overwhelming evidence.
 
-We have nearly overwhelming human witness to the necessity of [[morality]];
+We have nearly overwhelming human witness to the necessity of morality;
 we have quite overwhelming human witness to the reality of the
 spiritual life.  We are ready enough to quote the evidence of all
 mankind in support of police regulations or the data of ethics;
@@ -370,7 +370,7 @@ finito nei titoli dei giornali della sera.  La novità, la subitaneità e l'asso
 unicità dell'ascesa dell'uomo ricordano il Giappone in Oriente;
 solo che qui vale ancor di più.... Vi potranno essere cento spiegazioni di questo.
 Nessun uomo assennato direbbe che ciò comporti una deduzione spirituale.
-Ma vi si accorda, e vi si accorda assai [[Well|bene]], il supporre che
+Ma vi si accorda, e vi si accorda assai [[motifs/well|bene]], il supporre che
 esista un'altra atmosfera di vita oltre a quella animale, e che questo
 mondo spirituale sia irrotto in qualche modo in quella creatura in quel momento.
 Il fenomeno non prova la Religione, ma la religione spiega
@@ -384,7 +384,7 @@ padri hanno avuto a che fare con un essere più oscuro o più meraviglioso.
 Se la testimonianza umana significa qualcosa, questa è forse l'unica
 cosa sulla quale abbiamo una prova schiacciante.
 
-Abbiamo una testimonianza umana quasi schiacciante della necessità della [[morality|moralità]];
+Abbiamo una testimonianza umana quasi schiacciante della necessità della moralità;
 abbiamo una testimonianza umana del tutto schiacciante della realtà della
 vita spirituale.  Siamo abbastanza pronti a citare la testimonianza di tutta
 l'umanità a sostegno dei regolamenti di polizia o dei dati dell'etica;

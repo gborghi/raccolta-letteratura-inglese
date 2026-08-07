@@ -26,7 +26,7 @@ tags:
   - character/auguste_dupin
 ---
 
-*by Poe*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
+*by Poe*  ·  **Cluster:** [[clusters/short-story-·-concealment-hidden-identity-·-justice-right-and-wrong|Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 
 > The foundational tale of ratiocination in which C. Auguste Dupin solves a baffling Parisian double murder through analytical deduction, inaugurating modern detective fiction.
@@ -58,12 +58,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Detective]]
-**Motifs:** [[Blood]], [[City]], [[Night]], [[Eyes and Sight]], [[Animals]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Terror and Horror]], [[Identity]], [[Imagination]], [[Justice Right and Wrong]]
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Settings:** [[Paris]], [[Europe]]
-**Characters:** [[C. Auguste Dupin]]
+**Archetypes:** [[archetypes/detective|Detective]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/city|City]], [[motifs/night|Night]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/animals|Animals]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/identity|Identity]], [[concepts/imagination|Imagination]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
+**Settings:** [[settings/paris|Paris]], [[settings/europe|Europe]]
+**Characters:** [[characters/c.-auguste-dupin|C. Auguste Dupin]]
 
 ## Testo integrale / Full text
 

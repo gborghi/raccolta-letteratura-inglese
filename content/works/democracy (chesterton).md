@@ -30,7 +30,7 @@ tags:
 
 # democracy
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > Essay defending the democratic ideal against the inhuman, indirect machinery of industrial capitalism, blaming original sin rather than the people for political evils.
@@ -40,14 +40,14 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Renaissance]], [[Industrial Revolution]]
+**Historical References:** [[historical-references/renaissance|Renaissance]], [[historical-references/industrial-revolution|Industrial Revolution]]
 
-**Motifs:** [[Machine]]
+**Motifs:** [[motifs/machine|Machine]]
 
-**Characters:** [[Thomas Jefferson]], [[Jean-Jacques Rousseau]]
+**Characters:** [[characters/thomas-jefferson|Thomas Jefferson]], [[characters/jean-jacques-rousseau|Jean-Jacques Rousseau]]
 
-**Themes & Concepts:** [[Anti-Industrialism]], [[Common Man]], [[Critique of Progress]], [[Original Sin]], [[Power and Corruption]], [[Distributism]], [[Satire of Society]], [[Democracy]], [[Social Injustice]], [[Class Conflict]], [[Indirection and Impersonal Systems]], [[Economics]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/common-man|Common Man]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/original-sin|Original Sin]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/distributism|Distributism]], [[concepts/satire-of-society|Satire of Society]], [[concepts/democracy|Democracy]], [[concepts/social-injustice|Social Injustice]], [[concepts/class-conflict|Class Conflict]], [[concepts/indirection-and-impersonal-systems|Indirection and Impersonal Systems]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

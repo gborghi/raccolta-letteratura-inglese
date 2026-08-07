@@ -14,4 +14,10 @@ The self-proclaimed 'Prophet of Apollo,' a charlatan sun-priest whose cult conce
 
 <div class="concept-works" data-slug="characters/kalon"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/innocence-(chesterton)|innocence (Chesterton)]]
+
+</div>
+
 #graph/character

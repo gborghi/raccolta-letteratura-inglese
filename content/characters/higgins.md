@@ -14,4 +14,10 @@ The bloodless modern 'Heathen' - a joyless teetotaler and usurious moneylender w
 
 <div class="concept-works" data-slug="characters/higgins"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ascetic-(chesterton)|ascetic (Chesterton)]]
+
+</div>
+
 #graph/character

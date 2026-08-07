@@ -32,7 +32,7 @@ tags:
   - setting/sea_2
   - topos/beatus_ille_happy_the_man_rural_retreat
 ---
-*by Belloc*  ·  **Cluster:** [[Travel Writing · Pilgrimage · Landscape]]
+*by Belloc*  ·  **Cluster:** [[clusters/travel-writing-·-pilgrimage-·-landscape|Travel Writing · Pilgrimage · Landscape]]
 
 > [!abstract] 
 > A topographical and historical portrait of the county of Sussex, tracing how its geography — the South Downs, the Weald, the coastal harbours and marshes — shaped its settlement and history from prehistoric trackways through Roman, Saxon and Norman times. Belloc blends geology, history and affectionate landscape description into a study of local English character.
@@ -43,9 +43,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Travel Writing]], [[History]], [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Nature]], [[Tradition]], [[Nationalism and Patriotism]], [[Anti-Industrialism]], [[Natural Order]], [[Economics]]
-**Motifs:** [[Sea]], [[Hill]], [[Road]], [[River]], [[Ruins the Abbey]], [[Sea and Voyage]]
-**Historical References:** [[Medieval England]], [[King Alfred]], [[William the Conqueror]], [[Danish Invasions]]
-**Settings:** [[Rural England]], [[Sea (2)]]
-**Topoi:** [[Beatus Ille (Happy the Man Rural Retreat)]]
+**Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[concepts/history|History]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/nature|Nature]], [[concepts/tradition|Tradition]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/natural-order|Natural Order]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/hill|Hill]], [[motifs/road|Road]], [[motifs/river|River]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/king-alfred|King Alfred]], [[historical-references/william-the-conqueror|William the Conqueror]], [[historical-references/danish-invasions|Danish Invasions]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/sea-(2)|Sea (2)]]
+**Topoi:** [[topoi/beatus-ille-(happy-the-man-rural-retreat)|Beatus Ille (Happy the Man Rural Retreat)]]

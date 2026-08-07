@@ -42,21 +42,21 @@ tags:
   - character/thomas_becket
 ---
 
-*by Eliot*  ·  **Cluster:** [[Guilt · Conscience · Fate and Free Will]]
+*by Eliot*  ·  **Cluster:** [[clusters/guilt-·-conscience-·-fate-and-free-will|Guilt · Conscience · Fate and Free Will]]
 
 > [!abstract] 
 > Verse drama of the martyrdom of Thomas Becket: the four tempters, the conflict of spiritual and temporal power, and his death in Canterbury Cathedral as a Christian martyr and christ-figure.
 
 ## Connections
 
-**Topoi:** [[Fortune's Wheel]]
-**Archetypes:** [[Martyr Saint]], [[Christ Figure]]
-**Motifs:** [[Wheel]], [[Blood]], [[Cross]], [[Bread and Wine Eucharist]], [[Seasons]], [[Swords and Weapons]], [[Death]]
-**Themes & Concepts:** [[Martyrdom]], [[Temptation]], [[Faith]], [[Conscience]], [[Power and Corruption]], [[Pride]], [[Humility]], [[Providence]], [[Kingship and Legitimacy]], [[Common Man]], [[Good vs Evil]], [[Fate and Free Will]], [[History]]
-**Forms & Genres:** [[Verse Drama]], [[Tragedy]]
-**Historical References:** [[Medieval England]], [[Catholic Church]], [[Christianity]], [[Bible]]
-**Settings:** [[Cathedral]], [[Medieval England (2)]]
-**Characters:** [[Christ]], [[Thomas Becket]]
+**Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/christ-figure|Christ Figure]]
+**Motifs:** [[motifs/wheel|Wheel]], [[motifs/blood|Blood]], [[motifs/cross|Cross]], [[motifs/bread-and-wine-eucharist|Bread and Wine Eucharist]], [[motifs/seasons|Seasons]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/death|Death]]
+**Themes & Concepts:** [[concepts/martyrdom|Martyrdom]], [[concepts/temptation|Temptation]], [[concepts/faith|Faith]], [[concepts/conscience|Conscience]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/pride|Pride]], [[concepts/humility|Humility]], [[concepts/providence|Providence]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/common-man|Common Man]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/tragedy|Tragedy]]
+**Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
+**Settings:** [[settings/cathedral|Cathedral]], [[settings/medieval-england-(2)|Medieval England (2)]]
+**Characters:** [[characters/christ|Christ]], [[characters/thomas-becket|Thomas Becket]]
 
 ## Testo integrale / Full text
 

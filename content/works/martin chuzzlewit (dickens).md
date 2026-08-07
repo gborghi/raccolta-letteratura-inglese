@@ -43,7 +43,7 @@ tags:
   - character/montague_tigg
 ---
 
-*by Dickens*  ·  **Cluster:** [[Education · Self-Made Man · Wheel]]
+*by Dickens*  ·  **Cluster:** [[clusters/education-·-self-made-man-·-wheel|Education · Self-Made Man · Wheel]]
 
 > [!abstract] 
 > A satirical novel anatomising selfishness and hypocrisy through the avaricious Chuzzlewit family, the arch-hypocrite Pecksniff and the murderous Jonas, with a sharp comic satire of America; central themes of greed, deception, pride and moral self-knowledge versus self-interest.
@@ -57,13 +57,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Villain]], [[Trickster]], [[Self-Made Man]], [[Fool]]
-**Motifs:** [[Money and Gold]], [[Concealment Hidden Identity]], [[Blood]], [[Journey]], [[Inn Tavern]]
-**Themes & Concepts:** [[Satire of Society]], [[Pride]], [[Ambition]], [[Deception]], [[Appearance vs Reality]], [[Greed]], [[Guilt]], [[Conscience]], [[Grace and Redemption]], [[Maturation and Growth]], [[Nature vs Civilization]]
-**Forms & Genres:** [[Novel]], [[Satire]], [[Bildungsroman]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]]
-**Characters:** [[Martin Chuzzlewit]], [[Seth Pecksniff]], [[Tom Pinch]], [[Jonas Chuzzlewit]], [[Mark Tapley]], [[Sairey Gamp]], [[Mary Graham]], [[Old Martin Chuzzlewit]], [[Montague Tigg]]
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/trickster|Trickster]], [[archetypes/self-made-man|Self-Made Man]], [[archetypes/fool|Fool]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/blood|Blood]], [[motifs/journey|Journey]], [[motifs/inn-tavern|Inn Tavern]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/pride|Pride]], [[concepts/ambition|Ambition]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/greed|Greed]], [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/nature-vs-civilization|Nature vs Civilization]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]], [[forms/bildungsroman|Bildungsroman]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/martin-chuzzlewit|Martin Chuzzlewit]], [[characters/seth-pecksniff|Seth Pecksniff]], [[characters/tom-pinch|Tom Pinch]], [[characters/jonas-chuzzlewit|Jonas Chuzzlewit]], [[characters/mark-tapley|Mark Tapley]], [[characters/sairey-gamp|Sairey Gamp]], [[characters/mary-graham|Mary Graham]], [[characters/old-martin-chuzzlewit|Old Martin Chuzzlewit]], [[characters/montague-tigg|Montague Tigg]]
 
 ## Testo integrale / Full text
 

@@ -20,7 +20,7 @@ tags:
   - setting/the_sea
 ---
 
-*by Poe*  ·  **Cluster:** [[Journey · Ship]]
+*by Poe*  ·  **Cluster:** [[clusters/journey-·-ship|Journey · Ship]]
 
 > [!abstract] 
 > A fabricated newspaper account of the first transatlantic balloon crossing, presented as fact; a hoax celebrating science, technology and the credulity of the age.
@@ -43,11 +43,11 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Sea]], [[Journey]], [[Wind]]
-**Themes & Concepts:** [[Critique of Progress]], [[Deception]], [[Appearance vs Reality]], [[Wonder and Gratitude]], [[Satire of Society]]
-**Forms & Genres:** [[Short Story]]
-**Historical References:** [[Industrial Revolution]]
-**Settings:** [[Sea (2)]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/journey|Journey]], [[motifs/wind|Wind]]
+**Themes & Concepts:** [[concepts/critique-of-progress|Critique of Progress]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/satire-of-society|Satire of Society]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
+**Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]]
+**Settings:** [[settings/sea-(2)|Sea (2)]]
 
 ## Testo integrale / Full text
 

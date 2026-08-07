@@ -14,4 +14,10 @@ The brutal stockbroker who murders Michael Moonshine and stages his corpse as a 
 
 <div class="concept-works" data-slug="characters/john-bankes"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/secret-fr-brown-(chesterton)|secret Fr Brown (Chesterton)]]
+
+</div>
+
 #graph/character

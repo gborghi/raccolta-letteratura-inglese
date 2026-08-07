@@ -21,7 +21,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Money and Gold · Poverty · Imprisonment]]
+*by Poe*  ·  **Cluster:** [[clusters/money-and-gold-·-poverty-·-imprisonment|Money and Gold · Poverty · Imprisonment]]
 
 > [!abstract] 
 > A self-styled methodical 'man of business' satirizes commercial society by pursuing a series of petty, swindling 'methodical' trades; a satire of money-grubbing and bourgeois respectability.
@@ -42,10 +42,10 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Self-Made Man]], [[Trickster]], [[Fool]]
-**Motifs:** [[Money and Gold]], [[City]]
-**Themes & Concepts:** [[Satire of Society]], [[Deception]], [[Appearance vs Reality]], [[Anti-Industrialism]], [[Economics]]
-**Forms & Genres:** [[Satire]], [[Short Story]]
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]], [[archetypes/trickster|Trickster]], [[archetypes/fool|Fool]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/city|City]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/deception|Deception]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]
 
 ## Testo integrale / Full text
 

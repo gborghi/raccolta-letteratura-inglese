@@ -37,19 +37,19 @@ tags:
 
 Raccolta tematica di 13 componimenti di T. S. Eliot.
 
-- [[A Song for Simeon (Eliot)|A Song for Simeon]]
-- [[II Thus your fathers were made (Eliot)|II Thus your fathers were made]]
-- [[III The Word of the lord came unto me, saying (Eliot)|III The Word of the lord came unto me, saying]]
-- [[IV There are those who would build the Temple (Eliot)|IV There are those who would build the Temple]]
-- [[IX Son of Man, behold with thine eyes, and hear with thine ears (Eliot)|IX Son of Man, behold with thine eyes, and hear with thine ears]]
-- [[Journey of the Magi (Eliot)|Journey of the Magi]]
-- [[Mr. Eliot’s Sunday Morning Service (Eliot)|Mr. Eliot’s Sunday Morning Service]]
-- [[The Death of Saint Narcissus (Eliot)|The Death of Saint Narcissus]]
-- [[V O Lord, deliver me from the man of excellent intention and impure heart (Eliot)|V O Lord, deliver me from the man of excellent intention and impure heart]]
-- [[VI It is hard for those who have never known persecution (Eliot)|VI It is hard for those who have never known persecution]]
-- [[VII In the beginning god created the world (Eliot)|VII In the beginning god created the world]]
-- [[VIII O Father we welcome your words (Eliot)|VIII O Father we welcome your words]]
-- [[X You have seen the house built, you have seen it adorned (Eliot)|X You have seen the house built, you have seen it adorned]]
+- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#044_a_song_for_simeon|A Song for Simeon]]
+- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#059_ii_thus_your_fathers_were_made|II Thus your fathers were made]]
+- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#060_iii_the_word_of_the_lord_came_unto_me_saying|III The Word of the lord came unto me, saying]]
+- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#061_iv_there_are_those_who_would_build_the_temple|IV There are those who would build the Temple]]
+- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#066_ix_son_of_man_behold_with_thine_eyes_and_hear_with_thine_ears|IX Son of Man, behold with thine eyes, and hear with thine ears]]
+- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#043_journey_of_the_magi|Journey of the Magi]]
+- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#025_mr_eliots_sunday_morning_service|Mr. Eliot’s Sunday Morning Service]]
+- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#115_the_death_of_saint_narcissus|The Death of Saint Narcissus]]
+- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#062_v_o_lord_deliver_me_from_the_man_of_excellent_intention_and_impure_heart|V O Lord, deliver me from the man of excellent intention and impure heart]]
+- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#063_vi_it_is_hard_for_those_who_have_never_known_persecution|VI It is hard for those who have never known persecution]]
+- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#064_vii_in_the_beginning_god_created_the_world|VII In the beginning god created the world]]
+- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#065_viii_o_father_we_welcome_your_words|VIII O Father we welcome your words]]
+- [[testi/eliot/atomized/christianity-faith-and-doubt-doubt#067_x_you_have_seen_the_house_built_you_have_seen_it_adorned|X You have seen the house built, you have seen it adorned]]
 
 ## Testo / Text
 

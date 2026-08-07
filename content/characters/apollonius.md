@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/apollonius"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lamia-(keats)|Lamia (Keats)]]
+
+</div>
+
 #graph/character

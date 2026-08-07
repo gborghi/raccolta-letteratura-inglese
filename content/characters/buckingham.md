@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/buckingham"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/richard-iii-(shakespeare)|RICHARD III (Shakespeare)]]
+
+</div>
+
 #graph/character

@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/ancient-mariner"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-rime-of-the-ancient-mariner-(coleridge)|THE RIME OF THE ANCIENT MARINER (Coleridge)]]
+
+</div>
+
 #graph/character

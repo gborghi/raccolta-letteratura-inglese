@@ -65,7 +65,7 @@ tags:
 
 # Shaw
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > Chesterton's critical biography of George Bernard Shaw, examining him as Irishman, Puritan, progressive, critic, dramatist and philosopher; a witty study of ideas, drama and modern thought through a friendly antagonist.
@@ -77,19 +77,19 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Orphan]], [[Prophet]], [[Rebel]]
+**Archetypes:** [[archetypes/orphan|Orphan]], [[archetypes/prophet|Prophet]], [[archetypes/rebel|Rebel]]
 
-**Settings:** [[London]], [[Ancient Rome]], [[Egypt]], [[Germany]], [[Ireland]], [[Europe]]
+**Settings:** [[settings/london|London]], [[settings/ancient-rome|Ancient Rome]], [[settings/egypt|Egypt]], [[settings/germany|Germany]], [[settings/ireland|Ireland]], [[settings/europe|Europe]]
 
-**Motifs:** [[Wine and Drink]], [[Music and Song]], [[Animals]], [[Home]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/music-and-song|Music and Song]], [[motifs/animals|Animals]], [[motifs/home|Home]]
 
-**Topoi:** [[All the World's a Stage]], [[World Upside Down]], [[Vanitas]], [[Poet as Prophet]]
+**Topoi:** [[topoi/all-the-world's-a-stage|All the World's a Stage]], [[topoi/world-upside-down|World Upside Down]], [[topoi/vanitas|Vanitas]], [[topoi/poet-as-prophet|Poet as Prophet]]
 
-**Characters:** [[Julius Caesar]], [[Cleopatra]], [[Hamlet]], [[George Bernard Shaw]], [[William Shakespeare]], [[Henrik Ibsen]], [[Friedrich Nietzsche]], [[Oscar Wilde]], [[Jonathan Swift]], [[Napoleon Bonaparte]], [[Charles Stewart Parnell]], [[Candida]], [[Mrs. Warren]]
+**Characters:** [[characters/julius-caesar|Julius Caesar]], [[characters/cleopatra|Cleopatra]], [[characters/hamlet|Hamlet]], [[historical-references/george-bernard-shaw|George Bernard Shaw]], [[characters/william-shakespeare|William Shakespeare]], [[historical-references/henrik-ibsen|Henrik Ibsen]], [[historical-references/friedrich-nietzsche|Friedrich Nietzsche]], [[historical-references/oscar-wilde|Oscar Wilde]], [[historical-references/jonathan-swift|Jonathan Swift]], [[characters/napoleon-bonaparte|Napoleon Bonaparte]], [[characters/charles-stewart-parnell|Charles Stewart Parnell]], [[characters/candida|Candida]], [[characters/mrs.-warren|Mrs. Warren]]
 
-**Themes & Concepts:** [[Artist and Society]], [[Paradox]], [[Critique of Progress]], [[Doubt]], [[Marriage and Fidelity]], [[Nationalism and Patriotism]], [[Democracy]], [[Poverty]], [[War and its Cost]], [[Resurrection]], [[Fanaticism]], [[Vanity]], [[Creative Evolution and the Superman]], [[History]]
-**Forms & Genres:** [[Biography]], [[Literary Criticism]], [[Verse Drama]], [[Epigram]], [[Satire]], [[Problem Play]], [[Nonfiction]]
-**Historical References:** [[Puritanism]], [[Irish Question]], [[First World War]]
+**Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]], [[concepts/paradox|Paradox]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/doubt|Doubt]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/democracy|Democracy]], [[concepts/poverty|Poverty]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/resurrection|Resurrection]], [[concepts/fanaticism|Fanaticism]], [[concepts/vanity|Vanity]], [[concepts/creative-evolution-and-the-superman|Creative Evolution and the Superman]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/biography|Biography]], [[forms/literary-criticism|Literary Criticism]], [[forms/verse-drama|Verse Drama]], [[forms/epigram|Epigram]], [[forms/satire|Satire]], [[forms/problem-play|Problem Play]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/puritanism|Puritanism]], [[historical-references/irish-question|Irish Question]], [[historical-references/first-world-war|First World War]]
 
 ## Testo integrale / Full text
 

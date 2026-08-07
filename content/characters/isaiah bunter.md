@@ -14,4 +14,10 @@ The Rev. Isaiah Bunter is the missionary protagonist who is literally devoured b
 
 <div class="concept-works" data-slug="characters/isaiah-bunter"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/unity-(chesterton)|unity (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -25,7 +25,7 @@ tags:
   - histref/first_world_war
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > Essay marshalling common-sense objections to natural selection, arguing Darwinism has become a defensive dogma appealing to authority rather than explanation.
@@ -44,12 +44,12 @@ tags:
 
 ## Connections
 
-**Characters:** [[Charles Darwin]], [[Thomas Henry Huxley]], [[H. G. Wells]]
+**Characters:** [[characters/charles-darwin|Charles Darwin]], [[characters/thomas-henry-huxley|Thomas Henry Huxley]], [[characters/h.-g.-wells|H. G. Wells]]
 
-**Motifs:** [[Animals]]
-**Themes & Concepts:** [[Critique of Progress]], [[Doubt]], [[Faith and Doubt]], [[Natural Order]], [[Common Man]], [[Darwinism (Evolutionary Theory)]], [[Argument from Authority]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
-**Historical References:** [[Bible]], [[First World War]]
+**Motifs:** [[motifs/animals|Animals]]
+**Themes & Concepts:** [[concepts/critique-of-progress|Critique of Progress]], [[concepts/doubt|Doubt]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/natural-order|Natural Order]], [[concepts/common-man|Common Man]], [[concepts/darwinism-(evolutionary-theory)|Darwinism (Evolutionary Theory)]], [[concepts/argument-from-authority|Argument from Authority]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/first-world-war|First World War]]
 
 ## Testo integrale / Full text
 

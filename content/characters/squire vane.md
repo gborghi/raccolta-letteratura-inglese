@@ -14,4 +14,10 @@ Blustering rationalist Cornish landowner who fakes his own death in a wager agai
 
 <div class="concept-works" data-slug="characters/squire-vane"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/trees-of-pride-(chesterton)|trees of pride (Chesterton)]]
+
+</div>
+
 #graph/character

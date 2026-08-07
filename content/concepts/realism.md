@@ -14,4 +14,10 @@ Tolstoy's uncompromising artistic truthfulness that refuses to idealize or roman
 
 <div class="concept-works" data-slug="concepts/realism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/tolstoy-(chesterton)|tolstoy (Chesterton)]]
+
+</div>
+
 #graph/concept

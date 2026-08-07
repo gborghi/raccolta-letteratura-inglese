@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/stephen-blackpool"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/hard-times-(dickens)|Hard Times (Dickens)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ Francis's prosperous cloth-merchant father, who imprisons and legally disowns hi
 
 <div class="concept-works" data-slug="characters/pietro-bernadone"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/st-francis-(chesterton)|St Francis (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ The medieval saint famed for pardoning even the flea out of universal charity, i
 
 <div class="concept-works" data-slug="characters/st.-francis"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/broad-minded-bishop-(chesterton)|Broad Minded Bishop (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -77,7 +77,7 @@ tags:
 
 # dickens Britannica
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > Biographical-critical appreciation of Charles Dickens written for the Encyclopaedia Britannica, praising his comic, superhuman imagination and his roots in the insecure Victorian middle class.
@@ -101,16 +101,16 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Fool]], [[Self-Made Man]]
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/self-made-man|Self-Made Man]]
 
-**Motifs:** [[Fog and Smoke]], [[Prison]], [[Home]]
+**Motifs:** [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/prison|Prison]], [[motifs/home|Home]]
 
-**Characters:** [[Wilkins Micawber]], [[William Dorrit]], [[Samuel Pickwick]], [[Sam Weller]], [[Nathaniel Winkle]], [[Oliver Twist]], [[Mr Bumble]], [[Ralph Nickleby]], [[Vincent Crummles]], [[Barnaby Rudge]], [[Dick Swiveller]], [[Sampson Brass]], [[Little Nell]], [[Marchioness]], [[Martin Chuzzlewit]], [[Seth Pecksniff]], [[Sairey Gamp]], [[Nicodemus Boffin]], [[Paul Dombey]], [[David Copperfield]], [[James Steerforth]], [[Dora Spenlow]], [[Richard Carstone]], [[Mrs Jellyby]], [[Thomas Gradgrind]], [[Mr Merdle]], [[Edwin Drood]], [[John Dickens]], [[Catherine Dickens]], [[Mr Chadband]]
+**Characters:** [[characters/wilkins-micawber|Wilkins Micawber]], [[characters/william-dorrit|William Dorrit]], [[characters/samuel-pickwick|Samuel Pickwick]], [[characters/sam-weller|Sam Weller]], [[characters/nathaniel-winkle|Nathaniel Winkle]], [[characters/oliver-twist|Oliver Twist]], [[characters/mr-bumble|Mr Bumble]], [[characters/ralph-nickleby|Ralph Nickleby]], [[characters/vincent-crummles|Vincent Crummles]], [[characters/barnaby-rudge|Barnaby Rudge]], [[characters/dick-swiveller|Dick Swiveller]], [[characters/sampson-brass|Sampson Brass]], [[characters/little-nell|Little Nell]], [[characters/marchioness|Marchioness]], [[characters/martin-chuzzlewit|Martin Chuzzlewit]], [[characters/seth-pecksniff|Seth Pecksniff]], [[characters/sairey-gamp|Sairey Gamp]], [[characters/nicodemus-boffin|Nicodemus Boffin]], [[characters/paul-dombey|Paul Dombey]], [[characters/david-copperfield|David Copperfield]], [[characters/james-steerforth|James Steerforth]], [[characters/dora-spenlow|Dora Spenlow]], [[characters/richard-carstone|Richard Carstone]], [[characters/mrs-jellyby|Mrs Jellyby]], [[characters/thomas-gradgrind|Thomas Gradgrind]], [[characters/mr-merdle|Mr Merdle]], [[characters/edwin-drood|Edwin Drood]], [[characters/john-dickens|John Dickens]], [[characters/catherine-dickens|Catherine Dickens]], [[characters/mr-chadband|Mr Chadband]]
 
-**Themes & Concepts:** [[Imagination]], [[Artist and Society]], [[Common Man]], [[Poverty]], [[Satire of Society]], [[Reform]], [[Imprisonment]], [[Greed and Money]], [[Democracy]], [[Grotesque]], [[Exaggeration]], [[Economics]], [[History]]
-**Forms & Genres:** [[Literary Criticism]], [[Biography]], [[Sketch]], [[Christmas Story Novella]], [[Detective Fiction]], [[Historical Novel]], [[Bildungsroman]], [[Social Novel (Novel of Manners)]], [[Nonfiction]]
-**Historical References:** [[Regency Georgian England]], [[Industrial Revolution]], [[French Revolution]], [[Puritanism]]
-**Settings:** [[London]], [[America]], [[Italy]], [[Rural England]], [[Europe]]
+**Themes & Concepts:** [[concepts/imagination|Imagination]], [[concepts/artist-and-society|Artist and Society]], [[concepts/common-man|Common Man]], [[concepts/poverty|Poverty]], [[concepts/satire-of-society|Satire of Society]], [[concepts/reform|Reform]], [[concepts/imprisonment|Imprisonment]], [[concepts/greed-and-money|Greed and Money]], [[concepts/democracy|Democracy]], [[concepts/grotesque|Grotesque]], [[concepts/exaggeration|Exaggeration]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/biography|Biography]], [[forms/sketch|Sketch]], [[forms/christmas-story-novella|Christmas Story Novella]], [[forms/detective-fiction|Detective Fiction]], [[forms/historical-novel|Historical Novel]], [[forms/bildungsroman|Bildungsroman]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/french-revolution|French Revolution]], [[historical-references/puritanism|Puritanism]]
+**Settings:** [[settings/london|London]], [[settings/america|America]], [[settings/italy|Italy]], [[settings/rural-england|Rural England]], [[settings/europe|Europe]]
 
 ## Testo integrale / Full text
 

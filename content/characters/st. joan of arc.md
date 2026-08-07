@@ -14,4 +14,10 @@ French warrior-saint whose swift ecclesiastical rehabilitation, contrasted with 
 
 <div class="concept-works" data-slug="characters/st.-joan-of-arc"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-thing-(chesterton)|The Thing (Chesterton)]]
+
+</div>
+
 #graph/character

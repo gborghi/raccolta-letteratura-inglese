@@ -14,4 +14,10 @@ The essay 'On the Laureateship' centers on Petrarch's coronation with laurel as 
 
 <div class="concept-works" data-slug="historical-references/petrarch"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/gkc-all-is-grist-(chesterton)|GKC All is Grist (Chesterton)]]
+
+</div>
+
 #graph/histref

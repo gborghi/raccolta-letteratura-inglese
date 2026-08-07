@@ -14,4 +14,11 @@ Irish-born general who defeated Napoleon at Waterloo and epitomized the limits o
 
 <div class="concept-works" data-slug="characters/wellington"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/history-(chesterton)|history (Chesterton)]]
+- [[works/the-great-shadow-(conan-doyle)|The Great Shadow (Conan Doyle)]]
+
+</div>
+
 #graph/character

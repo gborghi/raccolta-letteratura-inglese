@@ -39,7 +39,7 @@ tags:
   - character/honorius
 ---
 
-*by Wilde*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
+*by Wilde*  ·  **Cluster:** [[clusters/martyrdom-·-martyr-saint-·-cross|Martyrdom · Martyr Saint · Cross]]
 
 > [!abstract] 
 > Unfinished verse-drama in which the courtesan Myrrhina and the hermit Honorius exchange fates: she converts in the desert while he turns toward sin, dramatizing faith versus desire.
@@ -60,14 +60,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Contemptus Mundi]], [[Love as Religion]], [[World Upside Down]]
-**Archetypes:** [[Femme Fatale]], [[(Reputed) Fallen Woman]], [[Temptress]], [[Pilgrim]]
-**Motifs:** [[Cross]], [[Desire]], [[Death]], [[Clothing and Costume]], [[Money and Gold]], [[Eyes and Sight]]
-**Themes & Concepts:** [[Conversion]], [[Faith and Doubt]], [[Temptation]], [[Lust Sexual Desire]], [[Sin and the Fall]], [[Grace and Redemption]], [[Martyrdom]], [[History]]
-**Forms & Genres:** [[Verse Drama]], [[Fragment]]
-**Historical References:** [[Christianity]], [[Bible]], [[Classical Antiquity]]
-**Settings:** [[Egypt]]
-**Characters:** [[Christ]], [[Myrrhina]], [[Honorius]]
+**Topoi:** [[topoi/contemptus-mundi|Contemptus Mundi]], [[topoi/love-as-religion|Love as Religion]], [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/temptress|Temptress]], [[archetypes/pilgrim|Pilgrim]]
+**Motifs:** [[motifs/cross|Cross]], [[motifs/desire|Desire]], [[motifs/death|Death]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/money-and-gold|Money and Gold]], [[motifs/eyes-and-sight|Eyes and Sight]]
+**Themes & Concepts:** [[concepts/conversion|Conversion]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/temptation|Temptation]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/martyrdom|Martyrdom]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/verse-drama|Verse Drama]], [[forms/fragment|Fragment]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/classical-antiquity|Classical Antiquity]]
+**Settings:** [[settings/egypt|Egypt]]
+**Characters:** [[characters/christ|Christ]], [[characters/myrrhina|Myrrhina]], [[characters/honorius|Honorius]]
 
 ## Testo integrale / Full text
 

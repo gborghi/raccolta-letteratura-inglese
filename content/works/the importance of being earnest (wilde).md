@@ -40,7 +40,7 @@ tags:
   - character/canon_chasuble
 ---
 
-*by Wilde*  ·  **Cluster:** [[World Upside Down · Comedy]]
+*by Wilde*  ·  **Cluster:** [[clusters/world-upside-down-·-comedy|World Upside Down · Comedy]]
 
 > [!abstract] 
 > Farcical comedy of manners turning on Bunburying/double identities, courtship and marriage, and a sustained satire of late-Victorian London society.
@@ -101,14 +101,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]], [[Theatrum Mundi]], [[Double]]
-**Archetypes:** [[Fool]], [[Trickster]], [[Lover]]
-**Motifs:** [[Marriage]], [[Concealment Hidden Identity]], [[Food and Feasting]], [[Letters and Writing]], [[Garden]]
-**Themes & Concepts:** [[Satire of Society]], [[Marriage and Fidelity]], [[Appearance vs Reality]], [[Deception]], [[Identity]], [[Class Conflict]], [[Economics]]
-**Forms & Genres:** [[Comedy]], [[Satire]], [[Epigram]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]], [[Rural England]]
-**Characters:** [[Jack Worthing]], [[Algernon Moncrieff]], [[Lady Bracknell]], [[Gwendolen Fairfax]], [[Cecily Cardew]], [[Miss Prism]], [[Canon Chasuble]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/theatrum-mundi|Theatrum Mundi]], [[topoi/double|Double]]
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/trickster|Trickster]], [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/marriage|Marriage]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/garden|Garden]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/identity|Identity]], [[concepts/class-conflict|Class Conflict]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/comedy|Comedy]], [[forms/satire|Satire]], [[forms/epigram|Epigram]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
+**Characters:** [[characters/jack-worthing|Jack Worthing]], [[characters/algernon-moncrieff|Algernon Moncrieff]], [[characters/lady-bracknell|Lady Bracknell]], [[characters/gwendolen-fairfax|Gwendolen Fairfax]], [[characters/cecily-cardew|Cecily Cardew]], [[characters/miss-prism|Miss Prism]], [[characters/canon-chasuble|Canon Chasuble]]
 
 ## Testo integrale / Full text
 

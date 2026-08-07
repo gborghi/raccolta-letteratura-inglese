@@ -39,7 +39,7 @@ tags:
 
 # gargoyles
 
-*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Chesterton*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > An introductory essay using a parable of the priest of the sun and his three temples to allegorize Paganism, Christianity and modern Realism; a defence of the grotesque and Gothic, with 'man is the ape upside down'.
@@ -58,16 +58,16 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Artist]], [[Monster]], [[Wise Old Man Sage]]
+**Archetypes:** [[archetypes/artist|Artist]], [[archetypes/monster|Monster]], [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
 
-**Settings:** [[Cathedral]]
+**Settings:** [[settings/cathedral|Cathedral]]
 
-**Topoi:** [[World Upside Down]], [[Great Chain of Being]], [[Golden Age]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/great-chain-of-being|Great Chain of Being]], [[topoi/golden-age|Golden Age]]
 
-**Motifs:** [[Animals]], [[Sun]], [[Water]], [[Stone and Marble]], [[Ruins the Abbey]], [[Jewel]]
-**Themes & Concepts:** [[Grotesque]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Paradox]], [[Artist and Society]], [[Paganism and Classical Revival]], [[Order vs Chaos]], [[History]]
-**Forms & Genres:** [[Essay]], [[Allegory]], [[Parable]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Ancient Greece]], [[Medieval England]]
+**Motifs:** [[motifs/animals|Animals]], [[motifs/sun|Sun]], [[motifs/water|Water]], [[motifs/stone-and-marble|Stone and Marble]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/jewel|Jewel]]
+**Themes & Concepts:** [[concepts/grotesque|Grotesque]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/paradox|Paradox]], [[concepts/artist-and-society|Artist and Society]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/allegory|Allegory]], [[forms/parable|Parable]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/ancient-greece|Ancient Greece]], [[historical-references/medieval-england|Medieval England]]
 
 ## Testo integrale / Full text
 

@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/celia-coplestone"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-cocktail-party-(eliot)|THE COCKTAIL PARTY (Eliot)]]
+
+</div>
+
 #graph/character

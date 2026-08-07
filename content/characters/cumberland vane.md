@@ -14,4 +14,10 @@ The blustering, eye-glassed London magistrate who dismisses MacIan and Turnbull 
 
 <div class="concept-works" data-slug="characters/cumberland-vane"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ball-and-cross-(chesterton)|ball and cross (Chesterton)]]
+
+</div>
+
 #graph/character

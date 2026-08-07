@@ -34,7 +34,7 @@ tags:
   - character/prospero
 ---
 
-*by Poe*  ·  **Cluster:** [[Time · Tempus Fugit · Clock]]
+*by Poe*  ·  **Cluster:** [[clusters/time-·-tempus-fugit-·-clock|Time · Tempus Fugit · Clock]]
 
 > [!abstract] 
 > Allegory in which Prince Prospero's sealed revel cannot escape the plague: the masked Red Death enters the seven chambers as the ebony clock tolls, asserting Death's illimitable dominion.
@@ -44,13 +44,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Dance of Death]], [[Memento Mori]], [[Tempus Fugit]], [[Vanitas]], [[Sic Transit Gloria Mundi]]
-**Archetypes:** [[Death Personified (2)]], [[Tyrant]]
-**Motifs:** [[Death]], [[Clock]], [[Blood]], [[Concealment Hidden Identity]], [[Light and Dark]], [[Time]], [[Wine and Drink]], [[Dreams]]
-**Themes & Concepts:** [[Mortality]], [[Terror and Horror]], [[Fate and Free Will]], [[Pride]], [[Power and Corruption]]
-**Forms & Genres:** [[Allegory]], [[Short Story]]
-**Settings:** [[Castle]]
-**Characters:** [[Death Personified]], [[Prince Prospero]]
+**Topoi:** [[topoi/dance-of-death|Dance of Death]], [[topoi/memento-mori|Memento Mori]], [[topoi/tempus-fugit|Tempus Fugit]], [[topoi/vanitas|Vanitas]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]
+**Archetypes:** [[archetypes/death-personified-(2)|Death Personified (2)]], [[archetypes/tyrant|Tyrant]]
+**Motifs:** [[motifs/death|Death]], [[motifs/clock|Clock]], [[motifs/blood|Blood]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/light-and-dark|Light and Dark]], [[motifs/time|Time]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/dreams|Dreams]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/pride|Pride]], [[concepts/power-and-corruption|Power and Corruption]]
+**Forms & Genres:** [[forms/allegory|Allegory]], [[forms/short-story|Short Story]]
+**Settings:** [[settings/castle|Castle]]
+**Characters:** [[characters/death-personified|Death Personified]], [[characters/prince-prospero|Prince Prospero]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ Nicholas's garrulous, irrelevant mother, held up by Chesterton as a free, purpos
 
 <div class="concept-works" data-slug="characters/mrs.-nickleby"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+
+</div>
+
 #graph/character

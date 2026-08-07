@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/william-wilson"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/william-wilson-(poe)|William Wilson (Poe)]]
+
+</div>
+
 #graph/character

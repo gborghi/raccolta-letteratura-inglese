@@ -28,18 +28,18 @@ tags:
   - form/narrative_poem
 ---
 
-*by Poe*  ·  **Cluster:** [[Crown · Pride · Fortune's Wheel]]
+*by Poe*  ·  **Cluster:** [[clusters/crown-·-pride-·-fortune's-wheel|Crown · Pride · Fortune's Wheel]]
 
 > [!abstract] 
 > A dying conqueror's deathbed confession to a friar, lamenting how ambition and pride for the throne of Samarcand cost him his youthful love; a meditation on ambition, lost love and worldly glory's emptiness.
 
 ## Connections
 
-**Topoi:** [[Sic Transit Gloria Mundi]], [[Vanitas]], [[Fortune's Wheel]], [[Paradise Lost]]
-**Archetypes:** [[Tragic Hero]], [[Tyrant]], [[Usurper]], [[King]]
-**Motifs:** [[Crown]], [[Death]], [[Fire]], [[Childhood]]
-**Themes & Concepts:** [[Ambition]], [[Pride]], [[Grief and Loss]], [[Romantic Love]], [[Sin and the Fall]]
-**Forms & Genres:** [[Dramatic Monologue]], [[Narrative Poem]]
+**Topoi:** [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/vanitas|Vanitas]], [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/paradise-lost|Paradise Lost]]
+**Archetypes:** [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/tyrant|Tyrant]], [[archetypes/usurper|Usurper]], [[archetypes/king|King]]
+**Motifs:** [[motifs/crown|Crown]], [[motifs/death|Death]], [[motifs/fire|Fire]], [[motifs/childhood|Childhood]]
+**Themes & Concepts:** [[concepts/ambition|Ambition]], [[concepts/pride|Pride]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/romantic-love|Romantic Love]], [[concepts/sin-and-the-fall|Sin and the Fall]]
+**Forms & Genres:** [[forms/dramatic-monologue|Dramatic Monologue]], [[forms/narrative-poem|Narrative Poem]]
 
 ## Testo integrale / Full text
 

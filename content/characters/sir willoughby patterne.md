@@ -14,4 +14,10 @@ Protagonist of Meredith's The Egoist, invoked as the man reduced to 'a leg' — 
 
 <div class="concept-works" data-slug="characters/sir-willoughby-patterne"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/one-leg-(chesterton)|one leg (Chesterton)]]
+
+</div>
+
 #graph/character

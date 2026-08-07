@@ -26,7 +26,7 @@ tags:
   - archetype/villain
   - archetype/tyrant
 ---
-*by Conan Doyle*  ·  **Cluster:** [[War and Empire · History · Nationalism and Patriotism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/war-and-empire-·-history-·-nationalism-and-patriotism|War and Empire · History · Nationalism and Patriotism]]
 
 > [!abstract] 
 > A polemical expose of the atrocities committed under King Leopold II's Congo Free State, cataloguing forced labour, mutilation, and mass killing of Congolese people for rubber profits, and calling on the international community to intervene.
@@ -53,10 +53,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Empire and Imperialism]], [[Crime and Punishment]], [[Slavery]], [[Greed and Money]], [[Power and Corruption]], [[Social Injustice]], [[Economics]], [[History]]
-**Motifs:** [[Blood]], [[Money and Gold]]
-**Historical References:** [[Roger Casement]], [[British Empire]]
-**Settings:** [[Africa]]
-**Characters:** [[Sir Arthur Conan Doyle]]
-**Archetypes:** [[Villain]], [[Tyrant]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/slavery|Slavery]], [[concepts/greed-and-money|Greed and Money]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/social-injustice|Social Injustice]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/money-and-gold|Money and Gold]]
+**Historical References:** [[historical-references/roger-casement|Roger Casement]], [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/africa|Africa]]
+**Characters:** [[characters/sir-arthur-conan-doyle|Sir Arthur Conan Doyle]]
+**Archetypes:** [[archetypes/villain|Villain]], [[archetypes/tyrant|Tyrant]]

@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="concepts/the-trivium"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-lost-tools-of-learning-(sayers)|The Lost Tools of Learning (Sayers)]]
+
+</div>
+
 #graph/concept

@@ -33,19 +33,19 @@ tags:
   - histref/american_civil_war
 ---
 
-*by Whitman*  ·  **Cluster:** [[Nature · Book of Nature · Natural Order]]
+*by Whitman*  ·  **Cluster:** [[clusters/nature-·-book-of-nature-·-natural-order|Nature · Book of Nature · Natural Order]]
 
 > [!abstract] 
 > Whitman's master book: a sprawling free-verse epic of self and soul, body and democracy, America, nature, the sea, the open road, comradeship, sex, death and the cosmos. Includes Song of Myself and the Inscriptions; sampling confirms identity, the common man, joy, the sublime, immortality and the book-of-nature stance of the poet-prophet.
 
 ## Connections
 
-**Topoi:** [[Open Road Homecoming]], [[Book of Nature]], [[Poet as Prophet]]
-**Motifs:** [[Death]], [[Grass Leaves of Grass]], [[Nature]], [[Sea]], [[Comradeship (2)]]
-**Themes & Concepts:** [[Self-Knowledge]], [[Identity]], [[Democracy]], [[Nationalism and Patriotism]], [[Common Man]], [[Immortality]], [[Joy]], [[Sublime]], [[Lust Sexual Desire]], [[Self and Cosmos]], [[Wonder and Gratitude]]
-**Forms & Genres:** [[Free Verse]], [[Epic]], [[Lyric]]
-**Historical References:** [[American Civil War]]
-**Settings:** [[America]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/book-of-nature|Book of Nature]], [[topoi/poet-as-prophet|Poet as Prophet]]
+**Motifs:** [[motifs/death|Death]], [[motifs/grass-leaves-of-grass|Grass Leaves of Grass]], [[concepts/nature|Nature]], [[motifs/sea|Sea]], [[motifs/comradeship-(2)|Comradeship (2)]]
+**Themes & Concepts:** [[concepts/self-knowledge|Self-Knowledge]], [[concepts/identity|Identity]], [[concepts/democracy|Democracy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/common-man|Common Man]], [[concepts/immortality|Immortality]], [[concepts/joy|Joy]], [[concepts/sublime|Sublime]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/self-and-cosmos|Self and Cosmos]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]]
+**Forms & Genres:** [[forms/free-verse|Free Verse]], [[forms/epic|Epic]], [[forms/lyric|Lyric]]
+**Historical References:** [[historical-references/american-civil-war|American Civil War]]
+**Settings:** [[settings/america|America]]
 
 ## Testo integrale / Full text
 

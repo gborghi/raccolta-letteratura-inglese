@@ -37,17 +37,17 @@ tags:
 
 Raccolta tematica di 11 componimenti di Samuel Taylor Coleridge.
 
-- [[ALCAEUS TO SAPPHO (Coleridge)|ALCAEUS TO SAPPHO]]
-- [[AN EXPERIMENT FOR A METRE (Coleridge)|AN EXPERIMENT FOR A METRE]]
-- [[BURKE (Coleridge)|BURKE]]
-- [[GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY (Coleridge)|GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY]]
-- [[SPOTS IN THE SUN (Coleridge)|SPOTS IN THE SUN]]
-- [[THE BALLAD OF THE DARK LADIÉ (Coleridge)|THE BALLAD OF THE DARK LADIÉ]]
-- [[THE TWO FOUNTS (Coleridge)|THE TWO FOUNTS]]
-- [[TO AN UNFORTUNATE WOMAN AT THE THEATRE (Coleridge)|TO AN UNFORTUNATE WOMAN AT THE THEATRE]]
-- [[TO AN UNFORTUNATE WOMAN WHOM THE AUTHOR HAD KNOWN IN THE DAYS OF HER INNOCENCE (Coleridge)|TO AN UNFORTUNATE WOMAN WHOM THE AUTHOR HAD KNOWN IN THE DAYS OF HER INNOCENCE]]
-- [[TO ONE WHO PUBLISHED IN PRINT (Coleridge)|TO ONE WHO PUBLISHED IN PRINT]]
-- [[TRANSLATION OF WRANGHAM’S ‘HENDECASYLLABI AD BRUNTONAM E GRANTA EXITURAM’ KAL. OCT.MDCCXC (Coleridge)|TRANSLATION OF WRANGHAM’S ‘HENDECASYLLABI AD BRUNTONAM E GRANTA EXITURAM’ (KAL. OCT.MDCCXC)]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#196_alcaeus_to_sappho|ALCAEUS TO SAPPHO]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#406_an_experiment_for_a_metre|AN EXPERIMENT FOR A METRE]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#083_burke|BURKE]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#290_grove_highgate_song_on_hearing_a_song_in_praise_of_a_ladys_beauty|GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#345_spots_in_the_sun|SPOTS IN THE SUN]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#158_the_ballad_of_the_dark_ladié|THE BALLAD OF THE DARK LADIÉ]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#271_the_two_founts|THE TWO FOUNTS]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#129_to_an_unfortunate_woman_at_the_theatre|TO AN UNFORTUNATE WOMAN AT THE THEATRE]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#130_to_an_unfortunate_woman_whom_the_author_had_known_in_the_days_of_her_innocence|TO AN UNFORTUNATE WOMAN WHOM THE AUTHOR HAD KNOWN IN THE DAYS OF HER INNOCENCE]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#337_to_one_who_published_in_print|TO ONE WHO PUBLISHED IN PRINT]]
+- [[testi/coleridge/atomized/appearance-vs-reality-beauty-eyes-and-sight#065_translation_of_wranghams_hendecasyllabi_ad_bruntonam_e_granta_exituram_kal_octmd|TRANSLATION OF WRANGHAM’S ‘HENDECASYLLABI AD BRUNTONAM E GRANTA EXITURAM’ (KAL. OCT.MDCCXC)]]
 
 ## Testo / Text
 

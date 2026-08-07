@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/evan-macian"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ball-and-cross-(chesterton)|ball and cross (Chesterton)]]
+
+</div>
+
 #graph/character

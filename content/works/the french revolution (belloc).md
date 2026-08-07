@@ -38,7 +38,7 @@ tags:
   - archetype/martyr_saint
   - topos/fortunes_wheel
 ---
-*by Belloc*  ·  **Cluster:** [[History · Catholicism · Europe]]
+*by Belloc*  ·  **Cluster:** [[clusters/history-·-catholicism-·-europe|History · Catholicism · Europe]]
 
 > [!abstract] 
 > An interpretive history that expounds the Revolution not as chronicle but as thesis — its sovereign-community political theory, its leading characters, its phases, its military aspect, and above all its quarrel with the Catholic Church. Belloc, an avowed Catholic sympathetic to Republican theory, argues the religious conflict is the key to understanding the whole event. Character studies of the King, Queen, Mirabeau, Danton, Marat and Robespierre anchor the analysis.
@@ -63,11 +63,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[History]], [[Biography]], [[Nonfiction]]
-**Themes & Concepts:** [[Popular Revolution]], [[Democracy]], [[Liberty Political Freedom]], [[Faith]], [[Authority]], [[War and its Cost]], [[Nationalism and Patriotism]], [[Religious Persecution]]
-**Motifs:** [[Blood]], [[Gallows]], [[Crown]]
-**Historical References:** [[French Revolution]], [[Catholic Church]], [[Napoleonic Wars the Navy]]
-**Settings:** [[France]], [[Paris]], [[Europe]]
-**Characters:** [[Robespierre]], [[Jean-Jacques Rousseau]], [[Louis XVI]], [[Marie Antoinette]], [[Danton]]
-**Archetypes:** [[Fanatic]], [[Tyrant]], [[Martyr Saint]]
-**Topoi:** [[Fortune's Wheel]]
+**Forms & Genres:** [[concepts/history|History]], [[forms/biography|Biography]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/popular-revolution|Popular Revolution]], [[concepts/democracy|Democracy]], [[concepts/liberty-political-freedom|Liberty Political Freedom]], [[concepts/faith|Faith]], [[concepts/authority|Authority]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/religious-persecution|Religious Persecution]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/gallows|Gallows]], [[motifs/crown|Crown]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]]
+**Settings:** [[settings/france|France]], [[settings/paris|Paris]], [[settings/europe|Europe]]
+**Characters:** [[characters/robespierre|Robespierre]], [[characters/jean-jacques-rousseau|Jean-Jacques Rousseau]], [[characters/louis-xvi|Louis XVI]], [[characters/marie-antoinette|Marie Antoinette]], [[characters/danton|Danton]]
+**Archetypes:** [[archetypes/fanatic|Fanatic]], [[archetypes/tyrant|Tyrant]], [[archetypes/martyr-saint|Martyr Saint]]
+**Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]

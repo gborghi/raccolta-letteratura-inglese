@@ -14,4 +14,10 @@ King George IV / the Prince Regent is defended against a long tradition of Whig 
 
 <div class="concept-works" data-slug="characters/george-iv"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-glass-walking-stick-(chesterton)|The Glass Walking Stick (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ The valiant French officer confronted at Fashoda, whose courteous rivalry with K
 
 <div class="concept-works" data-slug="characters/marchand"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lordkitchener-(chesterton)|LordKitchener (Chesterton)]]
+
+</div>
+
 #graph/character

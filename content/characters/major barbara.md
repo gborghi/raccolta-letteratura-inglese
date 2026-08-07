@@ -14,4 +14,10 @@ Title character of Shaw's play, cited by Chesterton as rejecting charitable dona
 
 <div class="concept-works" data-slug="characters/major-barbara"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/mending-(chesterton)|mending (Chesterton)]]
+
+</div>
+
 #graph/character

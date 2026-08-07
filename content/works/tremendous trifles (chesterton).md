@@ -49,7 +49,7 @@ tags:
   - histref/boer_war_second_south_african_war
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A 1909 collection of familiar essays finding the marvellous in commonplace objects and events; teaches wonder, gratitude and the renewing of perception against habitual blindness.
@@ -102,18 +102,18 @@ tags:
 
 ## Connections
 
-**Historical References:** [[French Revolution]], [[Crusades]], [[Napoleonic Wars the Navy]], [[Boer War (Second South African War)]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/crusades|Crusades]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/boer-war-(second-south-african-war)|Boer War (Second South African War)]]
 
-**Archetypes:** [[Satanic Figure]], [[Ghost]]
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/ghost|Ghost]]
 
-**Topoi:** [[World Upside Down]], [[Temptation (2)]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/temptation-(2)|Temptation (2)]]
 
-**Characters:** [[Robin Hood]], [[Parkinson]], [[Father Christmas]], [[President Kruger]], [[Charles Dickens]]
+**Characters:** [[characters/robin-hood|Robin Hood]], [[characters/parkinson|Parkinson]], [[characters/father-christmas|Father Christmas]], [[characters/president-kruger|President Kruger]], [[historical-references/charles-dickens|Charles Dickens]]
 
-**Motifs:** [[Eyes and Sight]], [[Journey]], [[Fire]], [[Ghosts]], [[Wind]]
-**Themes & Concepts:** [[Wonder and Gratitude]], [[Imagination]], [[Paradox]], [[Common Man]], [[Joy]], [[Humility]], [[Satire of Society]], [[Democracy]], [[Good vs Evil]], [[Critique of Progress]], [[Paganism and Classical Revival]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Travel Writing]], [[Ballad Ballade]], [[Sketch]], [[Nonfiction]]
-**Settings:** [[London]], [[Paris]], [[Continental Europe (Brussels)]], [[Europe]]
+**Motifs:** [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/journey|Journey]], [[motifs/fire|Fire]], [[motifs/ghosts|Ghosts]], [[motifs/wind|Wind]]
+**Themes & Concepts:** [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/imagination|Imagination]], [[concepts/paradox|Paradox]], [[concepts/common-man|Common Man]], [[concepts/joy|Joy]], [[concepts/humility|Humility]], [[concepts/satire-of-society|Satire of Society]], [[concepts/democracy|Democracy]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/travel-writing|Travel Writing]], [[forms/ballad-ballade|Ballad Ballade]], [[forms/sketch|Sketch]], [[forms/nonfiction|Nonfiction]]
+**Settings:** [[settings/london|London]], [[settings/paris|Paris]], [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]], [[settings/europe|Europe]]
 
 ## Testo integrale / Full text
 

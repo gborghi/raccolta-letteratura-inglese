@@ -30,7 +30,7 @@ tags:
   - setting/a_ship
 ---
 
-*by Poe*  ·  **Cluster:** [[Night Journey Vision · Katabasis Descent · Quest Hero]]
+*by Poe*  ·  **Cluster:** [[clusters/night-journey-vision-·-katabasis-descent-·-quest-hero|Night Journey Vision · Katabasis Descent · Quest Hero]]
 
 > [!abstract] 
 > Poe's only completed novel: a frame-tale sea adventure of stowaway, mutiny, shipwreck, starvation, cannibalism and a hallucinatory voyage to a mysterious all-white Antarctic region. Central themes are terror, the quest into the unknown, and the dissolution of identity at the white limit of the world.
@@ -50,12 +50,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Quest]], [[Night Journey Vision]], [[Katabasis Descent]]
-**Archetypes:** [[Outsider]], [[Quest Hero]]
-**Motifs:** [[Sea]], [[Storm]], [[Journey]], [[White and Red]], [[Blood]], [[Death]]
-**Themes & Concepts:** [[Terror and Horror]], [[Sublime]], [[Appearance vs Reality]], [[Survival]], [[Uncanny]]
-**Forms & Genres:** [[Novel]], [[Travel Writing]], [[Nonfiction]]
-**Settings:** [[Sea (2)]], [[Ship]]
+**Topoi:** [[topoi/quest|Quest]], [[topoi/night-journey-vision|Night Journey Vision]], [[topoi/katabasis-descent|Katabasis Descent]]
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/quest-hero|Quest Hero]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/storm|Storm]], [[motifs/journey|Journey]], [[motifs/white-and-red|White and Red]], [[motifs/blood|Blood]], [[motifs/death|Death]]
+**Themes & Concepts:** [[concepts/terror-and-horror|Terror and Horror]], [[concepts/sublime|Sublime]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/survival|Survival]], [[concepts/uncanny|Uncanny]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/travel-writing|Travel Writing]], [[forms/nonfiction|Nonfiction]]
+**Settings:** [[settings/sea-(2)|Sea (2)]], [[motifs/ship|Ship]]
 
 ## Testo integrale / Full text
 

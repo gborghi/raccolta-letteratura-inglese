@@ -15,7 +15,7 @@ tags:
 
 
 Conversation Galante  
-I observe: ‘Our sentimental friend the [[Moon|moon]]!  
+I observe: ‘Our sentimental friend the [[motifs/moon|moon]]!  
 Or possibly (fantastic, I confess)  
 It may be Prester John’s balloon  
 Or an old battered lantern hung aloft  
@@ -23,8 +23,8 @@ To light poor travellers to their distress.’
     She then: ‘How you digress!’  
 And I then: ‘Someone frames upon the keys  
 That exquisite nocturne, with which we explain  
-The [[Night|night]] and moonshine; music which we seize  
-To [[Body|body]] forth our own vacuity.’  
+The [[motifs/night|night]] and moonshine; music which we seize  
+To [[concepts/body|body]] forth our own vacuity.’  
     She then: ‘Does this refer to me?’  
     ‘Oh no, it is I who am inane.  
 ‘You, madam, are the eternal humorist,  
@@ -39,35 +39,35 @@ O quam te memorem virgo …
 
 
 Stand on the highest pavement of the stair —  
-Lean on a [[Garden|garden]] urn —  
+Lean on a [[motifs/garden|garden]] urn —  
 Weave, weave the sunlight in your hair —  
-Clasp your [[Flowers|flowers]] to you with a pained surprise —  
+Clasp your [[motifs/flowers|flowers]] to you with a pained surprise —  
 Fling them to the ground and turn  
 With a fugitive resentment in your eyes:  
 But weave, weave the sunlight in your hair.  
 So I would have had him leave.  
 So I would have had her stand and grieve,  
 So he would have left  
-As the [[Soul|soul]] [[Leaves|leaves]] the [[Body|body]] torn and bruised,  
-As the mind deserts the [[Body|body]] it has used.  
+As the [[motifs/soul|soul]] [[motifs/leaves|leaves]] the [[concepts/body|body]] torn and bruised,  
+As the mind deserts the [[concepts/body|body]] it has used.  
 I should find  
 Some way incomparably light and deft,  
 Some way we both should understand,  
 Simple and faithless as a smile and shake of the hand.  
-She turned away, but with the [[Autumn|autumn]] weather  
-Compelled my [[Imagination|imagination]] many days,  
+She turned away, but with the [[motifs/autumn|autumn]] weather  
+Compelled my [[concepts/imagination|imagination]] many days,  
 Many days and many hours:  
-Her hair over her arms and her arms full of [[Flowers|flowers]].  
-And I [[Wonder|wonder]] how they should have been together!  
+Her hair over her arms and her arms full of [[motifs/flowers|flowers]].  
+And I [[concepts/wonder|wonder]] how they should have been together!  
 I should have lost a gesture and a pose.  
 Sometimes these cogitations still amaze  
-The troubled midnight and the [[Noon|noon]]’s repose.  
+The troubled midnight and the [[motifs/noon|noon]]’s repose.  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Conversation Galante  
-Osservo: ‘La nostra sentimentale amica la [[Moon|luna]]!  
+Osservo: ‘La nostra sentimentale amica la [[motifs/moon|luna]]!  
 O forse (fantastico, lo confesso)  
 potrebbe essere il pallone del Prete Gianni,  
 o una vecchia lanterna ammaccata appesa in alto  
@@ -75,8 +75,8 @@ a far luce ai poveri viandanti verso la loro sventura.’
 E lei allora: ‘Come divagate!’  
 E io allora: ‘Qualcuno compone sui tasti  
 quel notturno squisito, col quale spieghiamo  
-la [[Night|notte]] e il chiaro di luna; musica di cui c’impadroniamo  
-per dar [[Body|corpo]] alla nostra vacuità.’  
+la [[motifs/night|notte]] e il chiaro di luna; musica di cui c’impadroniamo  
+per dar [[concepts/body|corpo]] alla nostra vacuità.’  
 E lei allora: ‘Vi riferite forse a me?’  
 ‘Oh no, sono io a essere inane.  
 ‘Voi, signora, siete l’eterna umorista,  
@@ -91,29 +91,29 @@ O quam te memorem virgo …
 
 
 Sta’ sul gradino più alto della scala —  
-appoggiati a un’urna da [[Garden|giardino]] —  
+appoggiati a un’urna da [[motifs/garden|giardino]] —  
 intreccia, intreccia la luce del sole nei tuoi capelli —  
-stringi a te i tuoi [[Flowers|fiori]] con dolorosa sorpresa —  
+stringi a te i tuoi [[motifs/flowers|fiori]] con dolorosa sorpresa —  
 gettali a terra e voltati  
 con un fuggitivo risentimento negli occhi:  
 ma intreccia, intreccia la luce del sole nei tuoi capelli.  
 Così avrei voluto che lui partisse.  
 Così avrei voluto che lei stesse in piedi e soffrisse,  
 così lui sarebbe partito  
-come l’[[Soul|anima]] [[Leaves|lascia]] il [[Body|corpo]] lacero e contuso,  
-come la mente abbandona il [[Body|corpo]] che ha usato.  
+come l’[[motifs/soul|anima]] [[motifs/leaves|lascia]] il [[concepts/body|corpo]] lacero e contuso,  
+come la mente abbandona il [[concepts/body|corpo]] che ha usato.  
 Dovrei trovare  
 un modo incomparabilmente lieve e destro,  
 un modo che entrambi comprendessimo,  
 semplice e infido come un sorriso e una stretta di mano.  
-Ella si voltò, ma col tempo d’[[Autumn|autunno]]  
-costrinse la mia [[Imagination|immaginazione]] per molti giorni,  
+Ella si voltò, ma col tempo d’[[motifs/autumn|autunno]]  
+costrinse la mia [[concepts/imagination|immaginazione]] per molti giorni,  
 molti giorni e molte ore:  
-i capelli sulle braccia e le braccia piene di [[Flowers|fiori]].  
-E mi [[Wonder|chiedo]] come sarebbero stati insieme!  
+i capelli sulle braccia e le braccia piene di [[motifs/flowers|fiori]].  
+E mi [[concepts/wonder|chiedo]] come sarebbero stati insieme!  
 Avrei perduto un gesto e una posa.  
 A volte queste elucubrazioni ancora stupiscono  
-la mezzanotte turbata e il riposo del [[Noon|meriggio]].
+la mezzanotte turbata e il riposo del [[motifs/noon|meriggio]].
 
 
 
@@ -125,31 +125,31 @@ O quam te memorem virgo …
 
 
 Stand on the highest pavement of the stair —  
-Lean on a [[Garden|garden]] urn —  
+Lean on a [[motifs/garden|garden]] urn —  
 Weave, weave the sunlight in your hair —  
-Clasp your [[Flowers|flowers]] to you with a pained surprise —  
+Clasp your [[motifs/flowers|flowers]] to you with a pained surprise —  
 Fling them to the ground and turn  
 With a fugitive resentment in your eyes:  
 But weave, weave the sunlight in your hair.  
 So I would have had him leave.  
 So I would have had her stand and grieve,  
 So he would have left  
-As the [[Soul|soul]] [[Leaves|leaves]] the [[Body|body]] torn and bruised,  
-As the mind deserts the [[Body|body]] it has used.  
+As the [[motifs/soul|soul]] [[motifs/leaves|leaves]] the [[concepts/body|body]] torn and bruised,  
+As the mind deserts the [[concepts/body|body]] it has used.  
 I should find  
 Some way incomparably light and deft,  
 Some way we both should understand,  
 Simple and faithless as a smile and shake of the hand.  
-She turned away, but with the [[Autumn|autumn]] weather  
-Compelled my [[Imagination|imagination]] many days,  
+She turned away, but with the [[motifs/autumn|autumn]] weather  
+Compelled my [[concepts/imagination|imagination]] many days,  
 Many days and many hours:  
-Her hair over her arms and her arms full of [[Flowers|flowers]].  
-And I [[Wonder|wonder]] how they should have been together!  
+Her hair over her arms and her arms full of [[motifs/flowers|flowers]].  
+And I [[concepts/wonder|wonder]] how they should have been together!  
 I should have lost a gesture and a pose.  
 Sometimes these cogitations still amaze  
-The troubled midnight and the [[Noon|noon]]’s repose.  
+The troubled midnight and the [[motifs/noon|noon]]’s repose.  
 
-[[Poems|POEMS]]  
+POEMS  
 1920  
 
 
@@ -160,31 +160,31 @@ O quam te memorem virgo …
 
 
 Sta’ sul gradino più alto della scala —  
-appoggiati a un’urna da [[Garden|giardino]] —  
+appoggiati a un’urna da [[motifs/garden|giardino]] —  
 intreccia, intreccia la luce del sole nei tuoi capelli —  
-stringi a te i tuoi [[Flowers|fiori]] con dolorosa sorpresa —  
+stringi a te i tuoi [[motifs/flowers|fiori]] con dolorosa sorpresa —  
 gettali a terra e voltati  
 con un fuggitivo risentimento negli occhi:  
 ma intreccia, intreccia la luce del sole nei tuoi capelli.  
 Così avrei voluto che lui partisse.  
 Così avrei voluto che lei stesse in piedi e soffrisse,  
 così lui sarebbe partito  
-come l’[[Soul|anima]] [[Leaves|lascia]] il [[Body|corpo]] lacero e contuso,  
-come la mente abbandona il [[Body|corpo]] che ha usato.  
+come l’[[motifs/soul|anima]] [[motifs/leaves|lascia]] il [[concepts/body|corpo]] lacero e contuso,  
+come la mente abbandona il [[concepts/body|corpo]] che ha usato.  
 Dovrei trovare  
 un modo incomparabilmente lieve e destro,  
 un modo che entrambi comprendessimo,  
 semplice e infido come un sorriso e una stretta di mano.  
-Ella si voltò, ma col tempo d’[[Autumn|autunno]]  
-costrinse la mia [[Imagination|immaginazione]] per molti giorni,  
+Ella si voltò, ma col tempo d’[[motifs/autumn|autunno]]  
+costrinse la mia [[concepts/imagination|immaginazione]] per molti giorni,  
 molti giorni e molte ore:  
-i capelli sulle braccia e le braccia piene di [[Flowers|fiori]].  
-E mi [[Wonder|chiedo]] come sarebbero stati insieme!  
+i capelli sulle braccia e le braccia piene di [[motifs/flowers|fiori]].  
+E mi [[concepts/wonder|chiedo]] come sarebbero stati insieme!  
 Avrei perduto un gesto e una posa.  
 A volte queste elucubrazioni ancora stupiscono  
-la mezzanotte turbata e il riposo del [[Noon|meriggio]].  
+la mezzanotte turbata e il riposo del [[motifs/noon|meriggio]].  
 
-[[Poems|POESIE]]  
+POESIE  
 1920
 
 
@@ -192,7 +192,7 @@ la mezzanotte turbata e il riposo del [[Noon|meriggio]].
 <span class="atom-split" data-atom="017_sweeney_erect" data-title="Sweeney Erect" data-chapter="" data-kind="intro" data-tags="archetype/antihero,motif/madness,motif/the_sea,concept/the_grotesque,concept/lust,histref/greek_mythology,character/sweeney,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
-[[Sweeney]] Erect  
+[[characters/sweeney|Sweeney]] Erect  
 And the trees about me,  
 Let them be dry and leafless; let the rocks  
 Groan with continual surges; and behind me  
@@ -219,14 +219,14 @@ Jackknifes upward at the knees
     Then straightens out from heel to hip  
 Pushing the framework of the bed  
     And clawing at the pillow slip.  
-[[Sweeney]] addressed full length to shave  
+[[characters/sweeney|Sweeney]] addressed full length to shave  
     Broadbottomed, pink from nape to base,  
 Knows the female temperament  
     And wipes the suds around his face.  
-(The lengthened [[Shadow|shadow]] of a man  
-    Is [[history]], said Emerson  
+(The lengthened [[archetypes/shadow|shadow]] of a man  
+    Is [[concepts/history|history]], said Emerson  
 Who had not seen the silhouette  
-    Of [[Sweeney]] straddled in the sun.)  
+    Of [[characters/sweeney|Sweeney]] straddled in the sun.)  
 Tests the razor on his leg  
     Waiting until the shriek subsides.  
 The epileptic on the bed  
@@ -238,7 +238,7 @@ Call witness to their principles
 Observing that hysteria  
     Might easily be misunderstood;  
 Mrs. Turner intimates  
-    It does the [[house]] no sort of good.  
+    It does the house no sort of good.  
 But Doris, towelled from the bath,  
     Enters padding on broad feet,  
 Bringing sal volatile  
@@ -251,18 +251,18 @@ Que toutes mes hontes j’ay beues …
 
 Pipit sate upright in her chair  
     Some distance from where I was sitting;  
-Views of [[Oxford]] Colleges  
+Views of [[settings/oxford|Oxford]] Colleges  
     Lay on the table, with the knitting.  
 Daguerreotypes and silhouettes,  
     Her grandfather and great great aunts,  
 Supported on the mantelpiece  
-    An Invitation to the [[Dance]].  
+    An Invitation to the [[motifs/dance|Dance]].  
 
 
                  .    .    .    .    .  
-I shall not want [[Honour]] in Heaven  
+I shall not want [[concepts/honour|Honour]] in Heaven  
     For I shall meet Sir Philip Sidney  
-And have talk with [[Coriolanus]]  
+And have talk with [[characters/coriolanus|Coriolanus]]  
     And other heroes of that kidney.  
 I shall not want Capital in Heaven  
     For I shall meet Sir Alfred Mond.  
@@ -282,7 +282,7 @@ But where is the penny world I bought
 The red-eyed scavengers are creeping  
     From Kentish Town and Golder’s Green;  
 Where are the eagles and the trumpets?  
-    Buried beneath some [[Snow|snow]]-deep Alps.  
+    Buried beneath some [[motifs/snow|snow]]-deep Alps.  
 Over buttered scones and crumpets  
     Weeping, weeping multitudes  
 Droop in a hundred A.B.C.’s.  
@@ -290,7 +290,7 @@ Droop in a hundred A.B.C.’s.
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Sweeney]] Eretto  
+[[characters/sweeney|Sweeney]] Eretto  
 E gli alberi intorno a me,  
 siano secchi e senza foglie; le rocce  
 gemano di flutti incessanti; e dietro di me  
@@ -317,14 +317,14 @@ scatta in su come un coltello alle ginocchia
 poi si distende dal tallone all’anca  
 spingendo l’intelaiatura del letto  
 e artigliando la federa.  
-[[Sweeney]] disteso in tutta la sua lunghezza per radersi,  
+[[characters/sweeney|Sweeney]] disteso in tutta la sua lunghezza per radersi,  
 largo di deretano, roseo dalla nuca alla base,  
 conosce il temperamento femminile  
 e si terge la schiuma intorno al viso.  
-(L’[[Shadow|ombra]] allungata d’un uomo  
-è la [[history|storia]], disse Emerson,  
+(L’[[archetypes/shadow|ombra]] allungata d’un uomo  
+è la [[concepts/history|storia]], disse Emerson,  
 che non aveva visto la sagoma  
-di [[Sweeney]] a gambe larghe nel sole.)  
+di [[characters/sweeney|Sweeney]] a gambe larghe nel sole.)  
 Prova il rasoio sulla gamba  
 aspettando che lo strillo si plachi.  
 L’epilettica sul letto  
@@ -336,7 +336,7 @@ e deprecano la mancanza di gusto
 osservando che l’isterismo  
 potrebbe facilmente esser frainteso;  
 la signora Turner lascia intendere  
-che non fa alla [[house|casa]] nessun bene.  
+che non fa alla casa nessun bene.  
 Ma Doris, uscita dal bagno nell’asciugamano,  
 entra padellando sui piedi larghi,  
 portando sale volatile  
@@ -349,18 +349,18 @@ Que toutes mes hontes j’ay beues …
 
 Pipit sedeva eretta sulla sua sedia  
 a qualche distanza da dove sedevo io;  
-vedute dei Collegi d’[[Oxford]]  
+vedute dei Collegi d’[[settings/oxford|Oxford]]  
 stavano sul tavolo, con il lavoro a maglia.  
 Dagherrotipi e sagome,  
 suo nonno e le prozie,  
 reggevano sulla mensola del camino  
-un Invito alla [[Dance|Danza]].  
+un Invito alla [[motifs/dance|Danza]].  
 
 
                  .    .    .    .    .  
-Non mi mancherà l’[[Honour|Onore]] in Cielo,  
+Non mi mancherà l’[[concepts/honour|Onore]] in Cielo,  
 ché incontrerò Sir Philip Sidney  
-e converserò con [[Coriolanus|Coriolano]]  
+e converserò con [[characters/coriolanus|Coriolano]]  
 e altri eroi di quello stampo.  
 Non mi mancherà il Capitale in Cielo,  
 ché incontrerò Sir Alfred Mond.  
@@ -380,7 +380,7 @@ per mangiare con Pipit dietro il paravento?
 Gli spazzini dagli occhi rossi strisciano  
 da Kentish Town e Golder’s Green;  
 dove sono le aquile e le trombe?  
-Sepolte sotto Alpi profonde di [[Snow|neve]].  
+Sepolte sotto Alpi profonde di [[motifs/snow|neve]].  
 Su focaccine imburrate e crumpets  
 piangendo, piangendo, moltitudini  
 si accasciano in cento A.B.C.
@@ -390,18 +390,18 @@ si accasciano in cento A.B.C.
 <span class="atom-split" data-atom="053_the_wind_sprang_up_at_four_oclock" data-title="The wind sprang up at four o’clock" data-chapter="" data-kind="intro" data-tags="motif/death,motif/wind,motif/river,motif/bells,motif/dreams,motif/swords_weapons,concept/terror_and_horror,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
-The [[Wind|wind]] sprang up at four o’[[Clock|clock]]  
-The [[Wind|wind]] sprang up at four o’[[Clock|clock]]  
-The [[Wind|wind]] sprang up and broke [[The Bells|the bells]]  
-Swinging between life and [[Death|death]]  
-Here, in [[Death|death]]’s dream kingdom  
+The [[motifs/wind|wind]] sprang up at four o’[[motifs/clock|clock]]  
+The [[motifs/wind|wind]] sprang up at four o’[[motifs/clock|clock]]  
+The [[motifs/wind|wind]] sprang up and broke the bells  
+Swinging between life and [[motifs/death|death]]  
+Here, in [[motifs/death|death]]’s dream kingdom  
 The waking echo of confusing strife  
-Is it [[A Dream|a dream]] or something else  
-When the surface of the blackened [[River|river]]  
-Is a face that sweats with [[Tears|tears]]?  
-I saw across the blackened [[River|river]]  
-The camp [[Fire|fire]] shake with alien spears.  
-Here, across [[Death|death]]’s other [[River|river]]  
+Is it a dream or something else  
+When the surface of the blackened [[motifs/river|river]]  
+Is a face that sweats with [[motifs/tears|tears]]?  
+I saw across the blackened [[motifs/river|river]]  
+The camp [[motifs/fire|fire]] shake with alien spears.  
+Here, across [[motifs/death|death]]’s other [[motifs/river|river]]  
 The Tartar horsemen shake their spears.  
 
 Five-Finger Exercises  
@@ -414,8 +414,8 @@ And the quick eyes of Woolly Bear.
 There is no relief but in grief.  
 O when will the creaking heart cease?  
 When will the broken chair give ease?  
-Why will the [[Summer|summer]] day delay?  
-When will [[Time]] flow away?  
+Why will the [[motifs/summer|summer]] day delay?  
+When will [[motifs/time|Time]] flow away?  
 
 
 II. Lines to a Yorkshire Terrier  
@@ -428,16 +428,16 @@ Little dog was safe and warm
 Under a cretonne eiderdown,  
 Yet the field was cracked and brown  
 And the tree was cramped and dry.  
-Pollicle [[dogs]] and cats all must  
-Jellicle cats and [[dogs]] all must  
-Like undertakers, come to [[Dust|dust]].  
+Pollicle dogs and cats all must  
+Jellicle cats and dogs all must  
+Like undertakers, come to [[motifs/dust|dust]].  
 Here a little dog I pause  
 Heaving up my prior paws,  
-Pause, and [[Sleep|sleep]] endlessly.  
+Pause, and [[motifs/sleep|sleep]] endlessly.  
 III. Lines to a Duck in the Park  
 The long light shakes across the lake,  
 The forces of the morning quake,  
-The [[Dawn|dawn]] is slant across the lawn,  
+The [[motifs/dawn|dawn]] is slant across the lawn,  
 Here is no eft or mortal snake  
 But only sluggish duck and drake.  
 I have seen the morning shine,  
@@ -448,7 +448,7 @@ Pinching bread and finger too.
 Easier had than squirming worm;  
 For I know, and so should you  
 That soon the enquiring worm shall try  
-Our [[Well|well]]-preserved complacency.  
+Our [[motifs/well|well]]-preserved complacency.  
 IV. Lines to Ralph Hodgson Esqre.  
 How delightful to meet Mr. Hodgson!  
 (Everyone wants to know him)  
@@ -492,18 +492,18 @@ How unpleasant to meet Mr. Eliot!
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il [[Wind|vento]] si levò alle quattro in [[Clock|punto]]  
-il [[Wind|vento]] si levò alle quattro in [[Clock|punto]]  
-il [[Wind|vento]] si levò e spezzò [[The Bells|le campane]]  
-oscillanti fra la vita e la [[Death|morte]]  
-qui, nel regno di sogno della [[Death|morte]]  
+Il [[motifs/wind|vento]] si levò alle quattro in [[motifs/clock|punto]]  
+il [[motifs/wind|vento]] si levò alle quattro in [[motifs/clock|punto]]  
+il [[motifs/wind|vento]] si levò e spezzò le campane  
+oscillanti fra la vita e la [[motifs/death|morte]]  
+qui, nel regno di sogno della [[motifs/death|morte]]  
 l’eco desta della contesa confusa  
-è [[A Dream|un sogno]] o qualcos’altro  
-quando la superficie del [[River|fiume]] annerito  
-è un volto che suda [[Tears|lacrime]]?  
-Vidi al di là del [[River|fiume]] annerito  
-il [[Fire|fuoco]] del campo tremare di lance straniere.  
-Qui, al di là dell’altro [[River|fiume]] della [[Death|morte]]  
+è un sogno o qualcos’altro  
+quando la superficie del [[motifs/river|fiume]] annerito  
+è un volto che suda [[motifs/tears|lacrime]]?  
+Vidi al di là del [[motifs/river|fiume]] annerito  
+il [[motifs/fire|fuoco]] del campo tremare di lance straniere.  
+Qui, al di là dell’altro [[motifs/river|fiume]] della [[motifs/death|morte]]  
 i cavalieri tartari scuotono le lance.  
 
 Esercizi per cinque dita  
@@ -516,8 +516,8 @@ e gli occhi rapidi di Woolly Bear.
 Non c’è sollievo se non nel dolore.  
 Oh quando cesserà il cuore che cigola?  
 Quando la sedia rotta darà agio?  
-Perché il giorno d’[[Summer|estate]] indugerà?  
-Quando scorrerà via il [[Time|Tempo]]?  
+Perché il giorno d’[[motifs/summer|estate]] indugerà?  
+Quando scorrerà via il [[motifs/time|Tempo]]?  
 
 
 II. Versi a un terrier dello Yorkshire  
@@ -530,16 +530,16 @@ Il cagnolino era al sicuro e al caldo
 sotto un piumino di cretonne,  
 pure il campo era screpolato e bruno  
 e l’albero era rattrappito e secco.  
-[[dogs|Cani]] pollicli e gatti tutti devono  
-gatti gellicli e [[dogs|cani]] tutti devono,  
-come i becchini, tornare [[Dust|polvere]].  
+Cani pollicli e gatti tutti devono  
+gatti gellicli e cani tutti devono,  
+come i becchini, tornare [[motifs/dust|polvere]].  
 Qui, cagnolino, io mi fermo  
 sollevando le mie zampe anteriori,  
-mi fermo, e [[Sleep|dormo]] senza fine.  
+mi fermo, e [[motifs/sleep|dormo]] senza fine.  
 III. Versi a un’anatra nel parco  
 La lunga luce tremola sul lago,  
 le forze del mattino tremano,  
-l’[[Dawn|alba]] è obliqua sul prato,  
+l’[[motifs/dawn|alba]] è obliqua sul prato,  
 qui non c’è tritone né serpe mortale  
 ma solo pigra anatra e maschio d’anatra.  
 Ho visto il mattino splendere,  
@@ -550,7 +550,7 @@ pizzicando il pane e anche il dito.
 Più facile da avere che il verme che si contorce;  
 ché io so, e dovresti saperlo anche tu,  
 che presto il verme indagatore metterà alla prova  
-la nostra compiacenza [[Well|ben]] conservata.  
+la nostra compiacenza [[motifs/well|ben]] conservata.  
 IV. Versi a Ralph Hodgson Esq.  
 Che delizia incontrare il signor Hodgson!  
 (Tutti vogliono conoscerlo)  
@@ -601,9 +601,9 @@ To Walter de la Mare was written for inclusion in Tribute to Walter de la Mare (
 
 
 The children who explored the brook and found  
-A [[Desert|desert]] island with a sandy cove  
+A [[motifs/desert|desert]] island with a sandy cove  
 (A hiding place, but very dangerous ground,  
-For here the [[Water|water]] buffalo may rove,  
+For here the [[motifs/water|water]] buffalo may rove,  
 The kinkajou, the mangabey, abound  
 In the dark jungle of a mango grove‚  
 And shadowy lemurs glide from tree to tree —  
@@ -611,20 +611,20 @@ The guardians of some long-lost treasure-trove)
 Recount their exploits at the nursery tea  
 And when the lamps are lit and curtains drawn  
 Demand some poetry, please. Whose shall it be,  
-At not quite [[Time|time]] for bed? …  
+At not quite [[motifs/time|time]] for bed? …  
                                           Or when the lawn  
-Is pressed by unseen feet, and [[Ghosts|ghosts]] return  
-Gently at twilight, gently go at [[Dawn|dawn]],  
+Is pressed by unseen feet, and [[motifs/ghosts|ghosts]] return  
+Gently at twilight, gently go at [[motifs/dawn|dawn]],  
 The sad intangible who grieve and yearn;  
 When the familiar scene is suddenly strange  
-Or the [[Well|well]] known is what we have yet to learn,  
+Or the [[motifs/well|well]] known is what we have yet to learn,  
 And two worlds meet, and intersect, and change;  
-When cats are maddened in the moonlight [[Dance|dance]],  
-[[dogs|Dogs]] cower, flitter bats, and owls range  
+When cats are maddened in the moonlight [[motifs/dance|dance]],  
+Dogs cower, flitter bats, and owls range  
 At witches’ sabbath of the maiden aunts;  
 When the nocturnal traveller can arouse  
 No sleeper by his call; or when by chance  
-An empty face peers from an empty [[house]];  
+An empty face peers from an empty house;  
 By whom, and by what means, was this designed?  
 The whispered incantation which allows  
 Free passage to the phantoms of the mind?  
@@ -639,12 +639,12 @@ To whom I owe the leaping delight
 That quickens my senses in our wakingtime  
 And the rhythm that governs the repose of our sleepingtime,  
       The breathing in unison  
-Of [[lovers]] whose bodies smell of each other  
+Of lovers whose bodies smell of each other  
 Who think the same thoughts without need of speech  
 And babble the same speech without need of meaning.  
-No peevish [[Winter|winter]] [[Wind|wind]] shall chill  
+No peevish [[motifs/winter|winter]] [[motifs/wind|wind]] shall chill  
 No sullen tropic sun shall wither  
-The roses in the [[Rose|rose]]-[[Garden|garden]] which is ours and ours only  
+The roses in the [[motifs/rose|rose]]-[[motifs/garden|garden]] which is ours and ours only  
 But this dedication is for others to read:  
 These are private words addressed to you in public.  
 
@@ -656,9 +656,9 @@ A Walter de la Mare fu scritta per essere inclusa in Tribute to Walter de la Mar
 
 
 I bambini che esplorarono il ruscello e trovarono  
-un’isola [[Desert|deserta]] con una cala sabbiosa  
+un’isola [[motifs/desert|deserta]] con una cala sabbiosa  
 (un nascondiglio, ma terreno assai pericoloso,  
-ché qui può vagare il bufalo d’[[Water|acqua]],  
+ché qui può vagare il bufalo d’[[motifs/water|acqua]],  
 il cercoletto, il mangabey abbondano  
 nella giungla buia d’un boschetto di manghi,  
 e lemuri ombrosi scivolano d’albero in albero —  
@@ -666,20 +666,20 @@ i guardiani di qualche tesoro perduto da gran tempo)
 raccontano le loro imprese al tè dei bambini  
 e quando le lampade sono accese e le tende tirate  
 chiedono un po’ di poesia, per favore. Di chi sarà,  
-quando non è proprio ancora [[Time|ora]] d’andare a letto? …  
+quando non è proprio ancora [[motifs/time|ora]] d’andare a letto? …  
 O quando il prato  
-è calpestato da piedi invisibili, e i [[Ghosts|fantasmi]] tornano  
-dolcemente al crepuscolo, dolcemente vanno all’[[Dawn|alba]],  
+è calpestato da piedi invisibili, e i [[motifs/ghosts|fantasmi]] tornano  
+dolcemente al crepuscolo, dolcemente vanno all’[[motifs/dawn|alba]],  
 i tristi intangibili che si dolgono e anelano;  
 quando la scena familiare è d’un tratto strana  
-o il [[Well|ben]] noto è ciò che ancora dobbiamo apprendere,  
+o il [[motifs/well|ben]] noto è ciò che ancora dobbiamo apprendere,  
 e due mondi s’incontrano, e s’intersecano, e mutano;  
-quando i gatti impazziscono nella [[Dance|danza]] del chiaro di luna,  
-i [[dogs|cani]] s’acquattano, i pipistrelli guizzano, e i gufi vagano  
+quando i gatti impazziscono nella [[motifs/dance|danza]] del chiaro di luna,  
+i cani s’acquattano, i pipistrelli guizzano, e i gufi vagano  
 al sabba delle zie zitelle;  
 quando il viandante notturno non riesce a destare  
 nessun dormiente col suo richiamo; o quando per caso  
-un volto vuoto s’affaccia da una [[house|casa]] vuota;  
+un volto vuoto s’affaccia da una casa vuota;  
 da chi, e con quali mezzi, fu ideato tutto questo?  
 La sussurrata incantazione che concede  
 libero passaggio ai fantasmi della mente?  
@@ -694,12 +694,12 @@ A colei cui devo il balzante diletto
 che ravviva i miei sensi nel nostro tempo di veglia  
 e il ritmo che governa il riposo del nostro tempo di sonno,  
 il respirare all’unisono  
-di [[lovers|amanti]] i cui corpi odorano l’uno dell’altro,  
+di amanti i cui corpi odorano l’uno dell’altro,  
 che pensano gli stessi pensieri senza bisogno di parole  
 e cinguettano le stesse parole senza bisogno di senso.  
-Nessun stizzoso [[Wind|vento]] d’[[Winter|inverno]] agghiaccerà,  
+Nessun stizzoso [[motifs/wind|vento]] d’[[motifs/winter|inverno]] agghiaccerà,  
 nessun cupo sole dei tropici inaridirà  
-le rose nel [[Garden|giardino]] di [[Rose|rose]] che è nostro e nostro soltanto:  
+le rose nel [[motifs/garden|giardino]] di [[motifs/rose|rose]] che è nostro e nostro soltanto:  
 ma questa dedica è perché altri la leggano:  
 queste sono parole private rivolte a te in pubblico.
 
@@ -713,12 +713,12 @@ To whom I owe the leaping delight
 That quickens my senses in our wakingtime  
 And the rhythm that governs the repose of our sleepingtime,  
       The breathing in unison  
-Of [[lovers]] whose bodies smell of each other  
+Of lovers whose bodies smell of each other  
 Who think the same thoughts without need of speech  
 And babble the same speech without need of meaning.  
-No peevish [[Winter|winter]] [[Wind|wind]] shall chill  
+No peevish [[motifs/winter|winter]] [[motifs/wind|wind]] shall chill  
 No sullen tropic sun shall wither  
-The roses in the [[Rose|rose]]-[[Garden|garden]] which is ours and ours only  
+The roses in the [[motifs/rose|rose]]-[[motifs/garden|garden]] which is ours and ours only  
 But this dedication is for others to read:  
 These are private words addressed to you in public.  
 
@@ -733,12 +733,12 @@ A colei cui devo il balzante diletto
 che ravviva i miei sensi nel nostro tempo di veglia  
 e il ritmo che governa il riposo del nostro tempo di sonno,  
 il respirare all’unisono  
-di [[lovers|amanti]] i cui corpi odorano l’uno dell’altro,  
+di amanti i cui corpi odorano l’uno dell’altro,  
 che pensano gli stessi pensieri senza bisogno di parole  
 e cinguettano le stesse parole senza bisogno di senso.  
-Nessun stizzoso [[Wind|vento]] d’[[Winter|inverno]] agghiaccerà,  
+Nessun stizzoso [[motifs/wind|vento]] d’[[motifs/winter|inverno]] agghiaccerà,  
 nessun cupo sole dei tropici inaridirà  
-le rose nel [[Garden|giardino]] di [[Rose|rose]] che è nostro e nostro soltanto:  
+le rose nel [[motifs/garden|giardino]] di [[motifs/rose|rose]] che è nostro e nostro soltanto:  
 ma questa dedica è perché altri la leggano:  
 queste sono parole private rivolte a te in pubblico.  
 
@@ -752,32 +752,32 @@ SUI GATTI TUTTOFARE
 
 Circe’s Palace  
 Around her fountain which flows  
-With the voice of men in [[Pain|pain]]‚  
-Are [[Flowers|flowers]] that no man knows.  
+With the voice of men in [[motifs/pain|pain]]‚  
+Are [[motifs/flowers|flowers]] that no man knows.  
 Their petals are fanged and red  
 With hideous streak and stain;  
 They sprang from the limbs of the dead. —  
 We shall not come here again.  
 Panthers rise from their lairs  
 In the forest which thickens below,  
-Along the [[Garden|garden]] stairs  
+Along the [[motifs/garden|garden]] stairs  
 The sluggish python lies;  
 The peacocks walk, stately and slow,  
 And they look at us with the eyes  
 Of men whom we knew long ago.  
 
 On a Portrait  
-Among a crowd of tenuous [[Dreams|dreams]], unknown  
+Among a crowd of tenuous [[motifs/dreams|dreams]], unknown  
 To us of restless brain and weary feet,  
 Forever hurrying, up and down the street,  
-She stands at evening in the room [[Alone|alone]].  
+She stands at evening in the room alone.  
 Not like a tranquil goddess carved of stone  
 But evanescent, as if one should meet  
-A pensive [[Lamia|lamia]] in some wood-retreat,  
+A pensive [[characters/lamia|lamia]] in some wood-retreat,  
 An immaterial fancy of one’s own.  
 No meditations glad or ominous  
 Disturb her lips, or move the slender hands;  
-Her dark eyes keep their [[Secrets|secrets]] hid from us,  
+Her dark eyes keep their [[motifs/secrets|secrets]] hid from us,  
 Beyond the circle of our thought she stands.  
 The parrot on his bar, a silent spy,  
 Regards her with a patient curious eye.  
@@ -787,32 +787,32 @@ Regards her with a patient curious eye.
 
 Il Palazzo di Circe  
 Intorno alla sua fontana che scorre  
-con la voce d’uomini nel [[Pain|dolore]],  
-stanno [[Flowers|fiori]] che nessuno conosce.  
+con la voce d’uomini nel [[motifs/pain|dolore]],  
+stanno [[motifs/flowers|fiori]] che nessuno conosce.  
 I loro petali sono zannuti e rossi  
 di striature e macchie orrende;  
 sono spuntati dalle membra dei morti. —  
 Non torneremo qui mai più.  
 Pantere si levano dalle tane  
 nella foresta che s’infittisce più sotto,  
-lungo le scale del [[Garden|giardino]]  
+lungo le scale del [[motifs/garden|giardino]]  
 giace il pitone pigro;  
 i pavoni camminano, solenni e lenti,  
 e ci guardano con gli occhi  
 di uomini che conoscemmo molto tempo fa.  
 
 Sopra un ritratto  
-Fra una folla di tenui [[Dreams|sogni]], ignota  
+Fra una folla di tenui [[motifs/dreams|sogni]], ignota  
 a noi dal cervello inquieto e dai piedi stanchi,  
 sempre in fretta, su e giù per la strada,  
-ella sta la sera nella stanza [[Alone|sola]].  
+ella sta la sera nella stanza sola.  
 Non come una dea tranquilla scolpita in pietra,  
 ma evanescente, come s’incontrassimo  
-una [[Lamia|lamia]] pensosa in qualche ritiro boschivo,  
+una [[characters/lamia|lamia]] pensosa in qualche ritiro boschivo,  
 una fantasia immateriale tutta nostra.  
 Nessuna meditazione lieta o sinistra  
 turba le sue labbra, o muove le mani sottili;  
-i suoi occhi scuri tengono i loro [[Secrets|segreti]] nascosti a noi,  
+i suoi occhi scuri tengono i loro [[motifs/secrets|segreti]] nascosti a noi,  
 oltre il cerchio del nostro pensiero ella sta.  
 Il pappagallo sul suo trespolo, spia silenziosa,  
 la osserva con occhio paziente e curioso.
@@ -823,58 +823,58 @@ la osserva con occhio paziente e curioso.
 
 
 On a Portrait  
-Among a crowd of tenuous [[Dreams|dreams]], unknown  
+Among a crowd of tenuous [[motifs/dreams|dreams]], unknown  
 To us of restless brain and weary feet,  
 Forever hurrying, up and down the street,  
-She stands at evening in the room [[Alone|alone]].  
+She stands at evening in the room alone.  
 Not like a tranquil goddess carved of stone  
 But evanescent, as if one should meet  
-A pensive [[Lamia|lamia]] in some wood-retreat,  
+A pensive [[characters/lamia|lamia]] in some wood-retreat,  
 An immaterial fancy of one’s own.  
 No meditations glad or ominous  
 Disturb her lips, or move the slender hands;  
-Her dark eyes keep their [[Secrets|secrets]] hid from us,  
+Her dark eyes keep their [[motifs/secrets|secrets]] hid from us,  
 Beyond the circle of our thought she stands.  
 The parrot on his bar, a silent spy,  
 Regards her with a patient curious eye.  
 
-[[Song]]: ‘The moonflower opens to the moth’  
+[[works/song-(poe)|Song]]: ‘The moonflower opens to the moth’  
 The moonflower opens to the moth,  
    The mist crawls in from sea;  
 A great white bird, a snowy owl,  
    Slips from the alder tree.  
-Whiter the [[Flowers|flowers]], [[Love]], you hold,  
+Whiter the [[motifs/flowers|flowers]], [[motifs/love|Love]], you hold,  
    Than the white mist on the sea;  
-Have you no brighter tropic [[Flowers|flowers]]  
+Have you no brighter tropic [[motifs/flowers|flowers]]  
    With scarlet life, for me?  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Sopra un ritratto  
-Fra una folla di tenui [[Dreams|sogni]], ignota  
+Fra una folla di tenui [[motifs/dreams|sogni]], ignota  
 a noi dal cervello inquieto e dai piedi stanchi,  
 sempre in fretta, su e giù per la strada,  
-ella sta la sera nella stanza [[Alone|sola]].  
+ella sta la sera nella stanza sola.  
 Non come una dea tranquilla scolpita in pietra,  
 ma evanescente, come s’incontrassimo  
-una [[Lamia|lamia]] pensosa in qualche ritiro boschivo,  
+una [[characters/lamia|lamia]] pensosa in qualche ritiro boschivo,  
 una fantasia immateriale tutta nostra.  
 Nessuna meditazione lieta o sinistra  
 turba le sue labbra, o muove le mani sottili;  
-i suoi occhi scuri tengono i loro [[Secrets|segreti]] nascosti a noi,  
+i suoi occhi scuri tengono i loro [[motifs/secrets|segreti]] nascosti a noi,  
 oltre il cerchio del nostro pensiero ella sta.  
 Il pappagallo sul suo trespolo, spia silenziosa,  
 la osserva con occhio paziente e curioso.  
 
-[[Song|Canzone]]: ‘Il fiore di luna s’apre alla falena’  
+Canzone: ‘Il fiore di luna s’apre alla falena’  
 Il fiore di luna s’apre alla falena,  
 la nebbia striscia dentro dal mare;  
 un grande uccello bianco, una civetta delle nevi,  
 scivola via dall’ontano.  
-Più bianchi i [[Flowers|fiori]], [[Love|Amore]], che tu tieni,  
+Più bianchi i [[motifs/flowers|fiori]], [[motifs/love|Amore]], che tu tieni,  
 della bianca nebbia sul mare;  
-non hai [[Flowers|fiori]] tropicali più lucenti,  
+non hai [[motifs/flowers|fiori]] tropicali più lucenti,  
 di vita scarlatta, per me?
 
 
@@ -883,22 +883,22 @@ di vita scarlatta, per me?
 
 
 Nocturne  
-[[Romeo]], grand sérieux, to importune  
+[[characters/romeo|Romeo]], grand sérieux, to importune  
 
 
 Guitar and hat in hand, beside the gate  
-With [[Juliet]], in the usual [[debate]]  
-Of [[Love|love]], beneath a bored but courteous [[Moon|moon]];  
+With [[characters/juliet|Juliet]], in the usual debate  
+Of [[motifs/love|love]], beneath a bored but courteous [[motifs/moon|moon]];  
 The conversation failing, strikes some tune  
 Banal, and out of pity for their fate  
 Behind the wall I have some servant wait,  
 Stab, and the lady sinks into a swoon.  
-[[Blood]] looks effective on the moonlit ground —  
-The [[Hero|hero]] smiles; in my best mode oblique  
-Rolls toward the [[Moon|moon]] a frenzied eye profound,  
-(No need of ‘[[Love]] forever?’ — ‘[[Love]] next week?’)  
-While female readers all in [[Tears|tears]] are drowned: —  
-‘The perfect climax all true [[lovers]] seek!’  
+[[motifs/blood|Blood]] looks effective on the moonlit ground —  
+The [[archetypes/hero|hero]] smiles; in my best mode oblique  
+Rolls toward the [[motifs/moon|moon]] a frenzied eye profound,  
+(No need of ‘[[motifs/love|Love]] forever?’ — ‘[[motifs/love|Love]] next week?’)  
+While female readers all in [[motifs/tears|tears]] are drowned: —  
+‘The perfect climax all true lovers seek!’  
 
 Humouresque  
 (AFTER J. LAFORGUE)  
@@ -906,7 +906,7 @@ Humouresque
 
 One of my marionettes is dead,  
 Though not yet tired of the game —  
-But weak in [[Body|body]] as in head,  
+But weak in [[concepts/body|body]] as in head,  
 (A jumping-jack has such a frame).  
 But this deceasèd marionette  
 I rather liked: a common face,  
@@ -915,40 +915,40 @@ Pinched in a comic, dull grimace;
 Half bullying, half imploring air,  
 Mouth twisted to the latest tune;  
 His who-the-devil-are-you stare;  
-Translated, maybe, to the [[Moon|moon]].  
+Translated, maybe, to the [[motifs/moon|moon]].  
 With Limbo’s other useless things  
 Haranguing spectres, set him there;  
-‘The snappiest fashion since last [[Spring|spring]]’s,  
+‘The snappiest fashion since last [[motifs/spring|spring]]’s,  
 ‘The newest style, on Earth, I swear.  
 ‘Why don’t you people get some class?  
 (Feebly contemptuous of nose),  
 ‘Your damned thin moonlight, worse than gas —  
-‘Now in [[New York]]’ — and so it goes.  
-[[logic|Logic]] a marionette’s, all wrong  
+‘Now in [[settings/new-york|New York]]’ — and so it goes.  
+Logic a marionette’s, all wrong  
 Of premises; yet in some star  
-A [[Hero|hero]]! — Where would he belong?  
+A [[archetypes/hero|hero]]! — Where would he belong?  
 But, even at that, what mask bizarre!  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Notturno  
-[[Romeo]], grand sérieux, a importunare  
+[[characters/romeo|Romeo]], grand sérieux, a importunare  
 
 
 chitarra e cappello in mano, presso il cancello  
-[[Juliet|Giulietta]], nel solito [[debate|dibattito]]  
-d’[[Love|amore]], sotto una [[Moon|luna]] annoiata ma cortese;  
+[[characters/juliet|Giulietta]], nel solito dibattito  
+d’[[motifs/love|amore]], sotto una [[motifs/moon|luna]] annoiata ma cortese;  
 venendo meno la conversazione, attacca qualche aria  
 banale, e per pietà del loro destino  
 dietro il muro faccio attendere un servo,  
 una pugnalata, e la dama sviene.  
-Il [[Blood|sangue]] fa un buon effetto sul suolo illuminato dalla luna —  
-l’[[Hero|eroe]] sorride; nel mio miglior modo obliquo  
-volge verso la [[Moon|luna]] un occhio frenetico e profondo,  
-(nessun bisogno di ‘[[Love|Amore]] per sempre?’ — ‘[[Love|Amore]] la settimana prossima?’)  
-mentre le lettrici sono tutte annegate in [[Tears|lacrime]]: —  
-‘Il climax perfetto che tutti i veri [[lovers|amanti]] cercano!’  
+Il [[motifs/blood|sangue]] fa un buon effetto sul suolo illuminato dalla luna —  
+l’[[archetypes/hero|eroe]] sorride; nel mio miglior modo obliquo  
+volge verso la [[motifs/moon|luna]] un occhio frenetico e profondo,  
+(nessun bisogno di ‘[[motifs/love|Amore]] per sempre?’ — ‘[[motifs/love|Amore]] la settimana prossima?’)  
+mentre le lettrici sono tutte annegate in [[motifs/tears|lacrime]]: —  
+‘Il climax perfetto che tutti i veri amanti cercano!’  
 
 Humouresque  
 (DA J. LAFORGUE)  
@@ -956,7 +956,7 @@ Humouresque
 
 Una delle mie marionette è morta,  
 benché non ancora stanca del gioco —  
-ma debole di [[Body|corpo]] come di testa,  
+ma debole di [[concepts/body|corpo]] come di testa,  
 (un saltimbanco a molla ha un tale telaio).  
 Ma questa marionetta defunta  
 mi piaceva abbastanza: un volto comune,  
@@ -965,18 +965,18 @@ contratto in una smorfia comica e ottusa;
 aria mezzo prepotente, mezzo implorante,  
 bocca storta all’ultima moda;  
 il suo sguardo di chi-diavolo-siete-voi;  
-traslato, forse, sulla [[Moon|luna]].  
+traslato, forse, sulla [[motifs/moon|luna]].  
 Con le altre cose inutili del Limbo,  
 spettri che arringano, mettetelo là;  
-‘La moda più scattante dalla scorsa [[Spring|primavera]],  
+‘La moda più scattante dalla scorsa [[motifs/spring|primavera]],  
 ‘l’ultimo stile, sulla Terra, ve lo giuro.  
 ‘Perché voialtri non vi date un po’ di classe?  
 (fiaccamente sprezzante di naso),  
 ‘Il vostro maledetto chiaro di luna sottile, peggio del gas —  
-‘Ora a [[New York]]’ — e via così.  
-[[logic|Logica]] da marionetta, tutta sbagliata  
+‘Ora a [[settings/new-york|New York]]’ — e via così.  
+Logica da marionetta, tutta sbagliata  
 nelle premesse; eppure in qualche stella  
-un [[Hero|eroe]]! — Dove sarebbe il suo posto?  
+un [[archetypes/hero|eroe]]! — Dove sarebbe il suo posto?  
 Ma, anche così, che maschera bizzarra!
 
 
@@ -990,7 +990,7 @@ Humouresque
 
 One of my marionettes is dead,  
 Though not yet tired of the game —  
-But weak in [[Body|body]] as in head,  
+But weak in [[concepts/body|body]] as in head,  
 (A jumping-jack has such a frame).  
 But this deceasèd marionette  
 I rather liked: a common face,  
@@ -999,26 +999,26 @@ Pinched in a comic, dull grimace;
 Half bullying, half imploring air,  
 Mouth twisted to the latest tune;  
 His who-the-devil-are-you stare;  
-Translated, maybe, to the [[Moon|moon]].  
+Translated, maybe, to the [[motifs/moon|moon]].  
 With Limbo’s other useless things  
 Haranguing spectres, set him there;  
-‘The snappiest fashion since last [[Spring|spring]]’s,  
+‘The snappiest fashion since last [[motifs/spring|spring]]’s,  
 ‘The newest style, on Earth, I swear.  
 ‘Why don’t you people get some class?  
 (Feebly contemptuous of nose),  
 ‘Your damned thin moonlight, worse than gas —  
-‘Now in [[New York]]’ — and so it goes.  
-[[logic|Logic]] a marionette’s, all wrong  
+‘Now in [[settings/new-york|New York]]’ — and so it goes.  
+Logic a marionette’s, all wrong  
 Of premises; yet in some star  
-A [[Hero|hero]]! — Where would he belong?  
+A [[archetypes/hero|hero]]! — Where would he belong?  
 But, even at that, what mask bizarre!  
 
 Spleen  
-[[Sunday]]: this satisfied procession  
-Of definite [[Sunday]] faces;  
+[[characters/sunday|Sunday]]: this satisfied procession  
+Of definite [[characters/sunday|Sunday]] faces;  
 Bonnets, silk hats, and conscious graces  
 In repetition that displaces  
-Your mental [[Self|self]]-possession  
+Your mental [[concepts/self|self]]-possession  
 By this unwarranted digression.  
 Evening, lights, and tea!  
 Children and cats in the alley;  
@@ -1040,7 +1040,7 @@ Humouresque
 
 Una delle mie marionette è morta,  
 benché non ancora stanca del gioco —  
-ma debole di [[Body|corpo]] come di testa,  
+ma debole di [[concepts/body|corpo]] come di testa,  
 (un saltimbanco a molla ha un tale telaio).  
 Ma questa marionetta defunta  
 mi piaceva abbastanza: un volto comune,  
@@ -1049,26 +1049,26 @@ contratto in una smorfia comica e ottusa;
 aria mezzo prepotente, mezzo implorante,  
 bocca storta all’ultima moda;  
 il suo sguardo di chi-diavolo-siete-voi;  
-traslato, forse, sulla [[Moon|luna]].  
+traslato, forse, sulla [[motifs/moon|luna]].  
 Con le altre cose inutili del Limbo,  
 spettri che arringano, mettetelo là;  
-‘La moda più scattante dalla scorsa [[Spring|primavera]],  
+‘La moda più scattante dalla scorsa [[motifs/spring|primavera]],  
 ‘l’ultimo stile, sulla Terra, ve lo giuro.  
 ‘Perché voialtri non vi date un po’ di classe?  
 (fiaccamente sprezzante di naso),  
 ‘Il vostro maledetto chiaro di luna sottile, peggio del gas —  
-‘Ora a [[New York]]’ — e via così.  
-[[logic|Logica]] da marionetta, tutta sbagliata  
+‘Ora a [[settings/new-york|New York]]’ — e via così.  
+Logica da marionetta, tutta sbagliata  
 nelle premesse; eppure in qualche stella  
-un [[Hero|eroe]]! — Dove sarebbe il suo posto?  
+un [[archetypes/hero|eroe]]! — Dove sarebbe il suo posto?  
 Ma, anche così, che maschera bizzarra!  
 
 Spleen  
-[[Sunday|Domenica]]: questa processione soddisfatta  
-di ben definiti volti [[Sunday|domenicali]];  
+[[characters/sunday|Domenica]]: questa processione soddisfatta  
+di ben definiti volti [[characters/sunday|domenicali]];  
 cuffie, cappelli di seta, e grazie consapevoli  
 in una ripetizione che spodesta  
-la vostra mentale [[Self|padronanza]] di sé  
+la vostra mentale [[concepts/self|padronanza]] di sé  
 con questa ingiustificata digressione.  
 Sera, luci, e tè!  
 Bambini e gatti nel vicolo;  

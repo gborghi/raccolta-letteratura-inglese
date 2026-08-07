@@ -14,4 +14,10 @@ The swaggering Jacobite swordsman of Kidnapped and Catriona, prized by Chesterto
 
 <div class="concept-works" data-slug="characters/alan-breck-stewart"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/robert-louis-stevenson-(chesterton)|Robert Louis Stevenson (Chesterton)]]
+
+</div>
+
 #graph/character

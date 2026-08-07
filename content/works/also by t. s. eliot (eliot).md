@@ -15,17 +15,17 @@ tags:
   - histref/christianity
 ---
 
-*by Eliot*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Eliot*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > Back-matter bibliography listing Eliot's collected poems, Four Quartets, the plays, literary and social criticism, plus the ebook copyright page; an editorial/bibliographic apparatus to the corpus.
 
 ## Connections
 
-**Motifs:** [[Book Reading]]
-**Themes & Concepts:** [[Artist and Society]]
-**Forms & Genres:** [[Literary Criticism]], [[Verse Drama]], [[Nonfiction]]
-**Historical References:** [[Christianity]]
+**Motifs:** [[motifs/book-reading|Book Reading]]
+**Themes & Concepts:** [[concepts/artist-and-society|Artist and Society]]
+**Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/verse-drama|Verse Drama]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]]
 
 ## Testo integrale / Full text
 

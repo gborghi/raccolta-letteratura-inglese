@@ -29,7 +29,7 @@ tags:
 
 # sexlessness
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A polemical essay from GK's Weekly attacking modern notions of sex-equality as a flight from motherhood and the family into wage-slavery, satirising progressive 'fraternity' of the sexes. Social criticism defending the home.
@@ -43,13 +43,13 @@ tags:
 
 ## Connections
 
-**Historical References:** [[French Revolution]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]]
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Motifs:** [[Marriage]], [[Home]]
-**Themes & Concepts:** [[Satire of Society]], [[Marriage and Fidelity]], [[Critique of Progress]], [[Identity]], [[Reform]], [[Procreation]], [[Waste Land (Sterility)]], [[Slavery]], [[Labor and Work]], [[Natural Order]], [[Freedom]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
+**Motifs:** [[motifs/marriage|Marriage]], [[motifs/home|Home]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/identity|Identity]], [[concepts/reform|Reform]], [[concepts/procreation|Procreation]], [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/slavery|Slavery]], [[concepts/labor-and-work|Labor and Work]], [[concepts/natural-order|Natural Order]], [[concepts/freedom|Freedom]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

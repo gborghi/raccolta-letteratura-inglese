@@ -14,4 +14,12 @@ Author of the Declaration of Independence whose creed of human equality Chestert
 
 <div class="concept-works" data-slug="characters/thomas-jefferson"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/whatisawinamerica-(chesterton)|WhatISawInAmerica (Chesterton)]]
+- [[works/america-(chesterton)|america (Chesterton)]]
+- [[works/democracy-(chesterton)|democracy (Chesterton)]]
+
+</div>
+
 #graph/character

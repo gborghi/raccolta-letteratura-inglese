@@ -25,7 +25,7 @@ tags:
   - archetype/ghost
   - archetype/outsider
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Gothic and Supernatural · Terror and Horror · The Unseen]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/gothic-and-supernatural-·-terror-and-horror-·-the-unseen|Gothic and Supernatural · Terror and Horror · The Unseen]]
 
 > [!abstract] 
 > An early collection of supernatural and macabre tales, headed by the title story of a whaling captain haunted (or driven mad) by a ghostly visitant on the Arctic ice, and including 'J. Habakuk Jephson's Statement,' Doyle's fictional solution to the Mary Celeste mystery, and 'The Great Keinplatz Experiment' on mesmeric soul-transfer.
@@ -47,11 +47,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Short Story]]
-**Themes & Concepts:** [[Uncanny]], [[Terror and Horror]], [[Madness]], [[Mesmerism]], [[Death and Love]]
-**Motifs:** [[Ghosts]], [[Supernatural]], [[Ship]], [[Snow]], [[Sea and Voyage]]
-**Historical References:** [[American Civil War]]
-**Settings:** [[Ship]], [[America]]
-**Archetypes:** [[Ghost]], [[Outsider]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
+**Themes & Concepts:** [[concepts/uncanny|Uncanny]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/madness|Madness]], [[concepts/mesmerism|Mesmerism]], [[concepts/death-and-love|Death and Love]]
+**Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[motifs/ship|Ship]], [[motifs/snow|Snow]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/american-civil-war|American Civil War]]
+**Settings:** [[motifs/ship|Ship]], [[settings/america|America]]
+**Archetypes:** [[archetypes/ghost|Ghost]], [[archetypes/outsider|Outsider]]
 
-**Also relevant to:** [[Alienation · Outsider · Exile]]
+**Also relevant to:** [[clusters/alienation-·-outsider-·-exile|Alienation · Outsider · Exile]]

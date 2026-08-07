@@ -38,16 +38,16 @@ tags:
 
 Raccolta tematica di 10 componimenti di T. S. Eliot.
 
-- [[A Dedication to my Wife (Eliot)|A Dedication to my Wife]]
-- [[Circe’s Palace (Eliot)|Circe’s Palace]]
-- [[Conversation Galante (Eliot)|Conversation Galante]]
-- [[Humouresque (Eliot)|Humouresque]]
-- [[La Figlia Che Piange (Eliot)|La Figlia Che Piange]]
-- [[Nocturne (Eliot)|Nocturne]]
-- [[On a Portrait (Eliot)|On a Portrait]]
-- [[Sweeney Erect (Eliot)|Sweeney Erect]]
-- [[The wind sprang up at four o’clock (Eliot)|The wind sprang up at four o’clock]]
-- [[To Walter de la Mare (Eliot)|To Walter de la Mare]]
+- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#078_a_dedication_to_my_wife|A Dedication to my Wife]]
+- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#108_circes_palace|Circe’s Palace]]
+- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#012_conversation_galante|Conversation Galante]]
+- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#112_humouresque|Humouresque]]
+- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#013_la_figlia_che_piange|La Figlia Che Piange]]
+- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#111_nocturne|Nocturne]]
+- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#109_on_a_portrait|On a Portrait]]
+- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#017_sweeney_erect|Sweeney Erect]]
+- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#053_the_wind_sprang_up_at_four_oclock|The wind sprang up at four o’clock]]
+- [[testi/eliot/atomized/unrequited-frustrated-love-unattainable-beloved-petrarchan#077_to_walter_de_la_mare|To Walter de la Mare]]
 
 ## Testo / Text
 

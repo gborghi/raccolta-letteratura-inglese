@@ -16,17 +16,17 @@ tags:
   - concept/melancholy
 ---
 
-*by Eliot*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
+*by Eliot*  ·  **Cluster:** [[clusters/transience-·-decay-·-carpe-diem|Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
 > Appendix gathering Eliot's juvenilia (A Fable for Feasters, carpe-diem lyrics, school odes, Laforgue-influenced poems); ranges from mock-heroic comic narrative to wistful lyrics on time, love and mutability.
 
 ## Connections
 
-**Topoi:** [[Carpe Diem]]
-**Motifs:** [[Time]], [[Flowers]]
-**Themes & Concepts:** [[Transience]], [[Melancholy]]
-**Forms & Genres:** [[Lyric]], [[Mock Epic]]
+**Topoi:** [[topoi/carpe-diem|Carpe Diem]]
+**Motifs:** [[motifs/time|Time]], [[motifs/flowers|Flowers]]
+**Themes & Concepts:** [[concepts/transience|Transience]], [[concepts/melancholy|Melancholy]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/mock-epic|Mock Epic]]
 
 ## Testo integrale / Full text
 

@@ -18,16 +18,16 @@ tags:
   - motif/rose
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Coleridge*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A verse-letter to the absent beloved mingling sea-storm imagery, past melancholy soothed by love, and the electric flash of passion; themes of love, nature, storm, and consolation.
 
 ## Connections
 
-**Motifs:** [[Sea]], [[Storm]], [[Rose]]
-**Themes & Concepts:** [[Romantic Love]], [[Melancholy]]
-**Forms & Genres:** [[Lyric]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/storm|Storm]], [[motifs/rose|Rose]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/melancholy|Melancholy]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

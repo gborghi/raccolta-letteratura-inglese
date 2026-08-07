@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="songs" data-title="songs" data-chapter="" data-kind="intro"></span>
 
 
-[[songs|Songs]] of [[Education]]  
+Songs of [[concepts/education|Education]]  
 
 III. For the Creche  
 
@@ -34,26 +34,26 @@ With diagrams used in the Idiot School,
 And Books for the Blind that will teach us to see;  
 But mother is happy, for mother is free.  
 For mother is dancing up forty-eight floors,  
-For [[Love|love]] of the Leeds International Stores,  
-And the flame of that [[Faith|faith]] might perhaps have grown cold,  
+For [[motifs/love|love]] of the Leeds International Stores,  
+And the flame of that [[concepts/faith|faith]] might perhaps have grown cold,  
 With the care of a baby of seven weeks old.  
 
-For mother is happy in greasing a [[Wheel|wheel]]  
+For mother is happy in greasing a [[motifs/wheel|wheel]]  
 For somebody else, who is cornering Steel;  
 And though our one meeting was not very long,  
-She took the occasion to sing me this [[Song|song]]:  
-"O, hush thee, my baby, the [[Time|time]] will soon come  
-When thy [[Sleep|sleep]] will be broken with hooting and hum;  
+She took the occasion to sing me this song:  
+"O, hush thee, my baby, the [[motifs/time|time]] will soon come  
+When thy [[motifs/sleep|sleep]] will be broken with hooting and hum;  
 There are handles want turning and turning all day,  
 And knobs to be pressed in the usual way;  
 
 O, hush thee, my baby, take rest while I croon,  
-For Progress comes early, and [[Freedom]] too soon."
+For Progress comes early, and [[concepts/freedom|Freedom]] too soon."
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[songs|Canti]] dell'[[Education|Educazione]]  
+Canti dell'[[concepts/education|Educazione]]  
 
 III. Per l'Asilo Nido  
 
@@ -73,28 +73,28 @@ con diagrammi usati nella Scuola per Idioti,
 e Libri per i Ciechi che c'insegneranno a vedere;  
 ma la madre è felice, perché la madre è libera.  
 Perché la madre danza su per quarantotto piani,  
-per [[Love|amore]] dei Magazzini Internazionali di Leeds,  
-e la fiamma di quella [[Faith|fede]] forse si sarebbe fatta fredda,  
+per [[motifs/love|amore]] dei Magazzini Internazionali di Leeds,  
+e la fiamma di quella [[concepts/faith|fede]] forse si sarebbe fatta fredda,  
 con la cura di un bimbo di sette settimane.  
 
-Perché la madre è felice a ungere una [[Wheel|ruota]]  
+Perché la madre è felice a ungere una [[motifs/wheel|ruota]]  
 per qualcun altro, che accaparra l'Acciaio;  
 e benché il nostro unico incontro non sia stato lungo,  
-colse l'occasione per cantarmi questo [[Song|canto]]:  
-"Oh, taci, mio bimbo, presto verrà il [[Time|tempo]]  
-in cui il tuo [[Sleep|sonno]] sarà rotto da fischi e ronzii;  
+colse l'occasione per cantarmi questo canto:  
+"Oh, taci, mio bimbo, presto verrà il [[motifs/time|tempo]]  
+in cui il tuo [[motifs/sleep|sonno]] sarà rotto da fischi e ronzii;  
 ci sono leve da girare e girare tutto il giorno,  
 e manopole da premere alla solita maniera;  
 
 Oh, taci, mio bimbo, riposa mentre canto,  
-ché il Progresso viene presto, e la [[Freedom|Libertà]] troppo presto."
+ché il Progresso viene presto, e la [[concepts/freedom|Libertà]] troppo presto."
 
 
 
 <span class="atom-split" data-atom="part--part_01" data-title="songs (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,motif/sleep,motif/time,motif/wheel,concept/education,concept/faith,concept/freedom"></span>
 
 
-[[songs|Songs]] of [[Education]]  
+Songs of [[concepts/education|Education]]  
 
 III. For the Creche  
 
@@ -114,26 +114,26 @@ With diagrams used in the Idiot School,
 And Books for the Blind that will teach us to see;  
 But mother is happy, for mother is free.  
 For mother is dancing up forty-eight floors,  
-For [[Love|love]] of the Leeds International Stores,  
-And the flame of that [[Faith|faith]] might perhaps have grown cold,  
+For [[motifs/love|love]] of the Leeds International Stores,  
+And the flame of that [[concepts/faith|faith]] might perhaps have grown cold,  
 With the care of a baby of seven weeks old.  
 
-For mother is happy in greasing a [[Wheel|wheel]]  
+For mother is happy in greasing a [[motifs/wheel|wheel]]  
 For somebody else, who is cornering Steel;  
 And though our one meeting was not very long,  
-She took the occasion to sing me this [[Song|song]]:  
-"O, hush thee, my baby, the [[Time|time]] will soon come  
-When thy [[Sleep|sleep]] will be broken with hooting and hum;  
+She took the occasion to sing me this song:  
+"O, hush thee, my baby, the [[motifs/time|time]] will soon come  
+When thy [[motifs/sleep|sleep]] will be broken with hooting and hum;  
 There are handles want turning and turning all day,  
 And knobs to be pressed in the usual way;  
 
 O, hush thee, my baby, take rest while I croon,  
-For Progress comes early, and [[Freedom]] too soon."
+For Progress comes early, and [[concepts/freedom|Freedom]] too soon."
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[songs|Canti]] dell'[[Education|Educazione]]  
+Canti dell'[[concepts/education|Educazione]]  
 
 III. Per l'Asilo Nido  
 
@@ -153,18 +153,18 @@ con diagrammi usati nella Scuola per Idioti,
 e Libri per i Ciechi che c'insegneranno a vedere;  
 ma la madre è felice, perché la madre è libera.  
 Perché la madre danza su per quarantotto piani,  
-per [[Love|amore]] dei Magazzini Internazionali di Leeds,  
-e la fiamma di quella [[Faith|fede]] forse si sarebbe fatta fredda,  
+per [[motifs/love|amore]] dei Magazzini Internazionali di Leeds,  
+e la fiamma di quella [[concepts/faith|fede]] forse si sarebbe fatta fredda,  
 con la cura di un bimbo di sette settimane.  
 
-Perché la madre è felice a ungere una [[Wheel|ruota]]  
+Perché la madre è felice a ungere una [[motifs/wheel|ruota]]  
 per qualcun altro, che accaparra l'Acciaio;  
 e benché il nostro unico incontro non sia stato lungo,  
-colse l'occasione per cantarmi questo [[Song|canto]]:  
-"Oh, taci, mio bimbo, presto verrà il [[Time|tempo]]  
-in cui il tuo [[Sleep|sonno]] sarà rotto da fischi e ronzii;  
+colse l'occasione per cantarmi questo canto:  
+"Oh, taci, mio bimbo, presto verrà il [[motifs/time|tempo]]  
+in cui il tuo [[motifs/sleep|sonno]] sarà rotto da fischi e ronzii;  
 ci sono leve da girare e girare tutto il giorno,  
 e manopole da premere alla solita maniera;  
 
 Oh, taci, mio bimbo, riposa mentre canto,  
-ché il Progresso viene presto, e la [[Freedom|Libertà]] troppo presto."
+ché il Progresso viene presto, e la [[concepts/freedom|Libertà]] troppo presto."

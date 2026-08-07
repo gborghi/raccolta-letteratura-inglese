@@ -14,4 +14,11 @@ The essay's third proof-case: the popular caricature of the ugly, bicycle-fallin
 
 <div class="concept-works" data-slug="historical-references/suffragette-movement"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/cockneys-(chesterton)|cockneys (Chesterton)]]
+- [[works/titanic-(chesterton)|titanic (Chesterton)]]
+
+</div>
+
 #graph/histref

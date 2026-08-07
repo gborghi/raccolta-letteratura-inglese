@@ -20,17 +20,17 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Vanitas · Contemptus Mundi · Vanity of Worldly Things]]
+*by Poe*  ·  **Cluster:** [[clusters/vanitas-·-contemptus-mundi-·-vanity-of-worldly-things|Vanitas · Contemptus Mundi · Vanity of Worldly Things]]
 
 > [!abstract] 
 > Early lyric of disillusionment in which the speaker renounces past hopes of pride and power, dwelling on the transience of youth and the soul-destroying alloy hidden in joy.
 
 ## Connections
 
-**Topoi:** [[Tempus Fugit]], [[Vanitas]]
-**Motifs:** [[Memory]], [[Time]]
-**Themes & Concepts:** [[Disillusionment]], [[Transience]], [[Pride]], [[Melancholy]], [[Ambition]], [[Nostalgia]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/tempus-fugit|Tempus Fugit]], [[topoi/vanitas|Vanitas]]
+**Motifs:** [[motifs/memory|Memory]], [[motifs/time|Time]]
+**Themes & Concepts:** [[concepts/disillusionment|Disillusionment]], [[concepts/transience|Transience]], [[concepts/pride|Pride]], [[concepts/melancholy|Melancholy]], [[concepts/ambition|Ambition]], [[concepts/nostalgia|Nostalgia]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

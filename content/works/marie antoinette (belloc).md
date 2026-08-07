@@ -36,7 +36,7 @@ tags:
   - topos/fortunes_wheel
   - topos/sic_transit_gloria_mundi
 ---
-*by Belloc*  ·  **Cluster:** [[History · Catholicism · Europe]]
+*by Belloc*  ·  **Cluster:** [[clusters/history-·-catholicism-·-europe|History · Catholicism · Europe]]
 
 > [!abstract] 
 > Belloc's life of the Queen of France, cast as a tragedy of destiny: while the great men around her recreated the state by will, she alone suffered a fixed doom. Opening from the Diplomatic Revolution that betrothed Austria to France, it traces her marriage, her fall, and her death against the machinery of the Revolution.
@@ -47,11 +47,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Biography]], [[History]], [[Nonfiction]]
-**Themes & Concepts:** [[Fate and Free Will]], [[Kingship and Legitimacy]], [[Popular Revolution]], [[Martyrdom]], [[Providence]], [[Faith]]
-**Motifs:** [[Crown]], [[Blood]], [[Prison]], [[Gallows]]
-**Historical References:** [[French Revolution]], [[Reformation]], [[Frederick the Great]]
-**Settings:** [[France]], [[Paris]], [[Austria]], [[Europe]]
-**Characters:** [[Maria Theresa]], [[Frederick the Great]], [[Louis XIV]]
-**Archetypes:** [[Tragic Hero]], [[Martyr Saint]]
-**Topoi:** [[Fortune's Wheel]], [[Sic Transit Gloria Mundi]]
+**Forms & Genres:** [[forms/biography|Biography]], [[concepts/history|History]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/popular-revolution|Popular Revolution]], [[concepts/martyrdom|Martyrdom]], [[concepts/providence|Providence]], [[concepts/faith|Faith]]
+**Motifs:** [[motifs/crown|Crown]], [[motifs/blood|Blood]], [[motifs/prison|Prison]], [[motifs/gallows|Gallows]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]], [[historical-references/reformation|Reformation]], [[historical-references/frederick-the-great|Frederick the Great]]
+**Settings:** [[settings/france|France]], [[settings/paris|Paris]], [[settings/austria|Austria]], [[settings/europe|Europe]]
+**Characters:** [[characters/maria-theresa|Maria Theresa]], [[historical-references/frederick-the-great|Frederick the Great]], [[characters/louis-xiv|Louis XIV]]
+**Archetypes:** [[archetypes/tragic-hero|Tragic Hero]], [[archetypes/martyr-saint|Martyr Saint]]
+**Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]]

@@ -29,7 +29,7 @@ tags:
 
 # penny-dreadfuls
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > An essay defending cheap popular fiction as the healthy, life-affirming romance of the common man, against the morbid pessimism of educated literature.
@@ -48,18 +48,18 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Romantic Movement (Sensibility)]]
+**Historical References:** [[historical-references/romantic-movement-(sensibility)|Romantic Movement (Sensibility)]]
 
-**Settings:** [[London]]
+**Settings:** [[settings/london|London]]
 
-**Motifs:** [[Book Reading]]
+**Motifs:** [[motifs/book-reading|Book Reading]]
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[Robin Hood]], [[Dick Deadshot]]
+**Characters:** [[characters/robin-hood|Robin Hood]], [[characters/dick-deadshot|Dick Deadshot]]
 
-**Themes & Concepts:** [[Common Man]], [[Heroism]], [[Imagination]], [[Satire of Society]], [[Artist and Society]], [[Class Conflict]], [[Crime and Punishment]], [[Truth]], [[Economics]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/common-man|Common Man]], [[concepts/heroism|Heroism]], [[concepts/imagination|Imagination]], [[concepts/satire-of-society|Satire of Society]], [[concepts/artist-and-society|Artist and Society]], [[concepts/class-conflict|Class Conflict]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/truth|Truth]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

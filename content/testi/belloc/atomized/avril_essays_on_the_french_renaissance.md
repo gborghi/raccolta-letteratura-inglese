@@ -24,9 +24,9 @@ THE COMPLAINT.
 
 THE COMPLAINT.
 
-THE TWO ROUNDELS OF [[Spring|SPRING]].
+THE TWO ROUNDELS OF [[motifs/spring|SPRING]].
 
-THE TWO ROUNDELS OF [[Spring|SPRING]].
+THE TWO ROUNDELS OF [[motifs/spring|SPRING]].
 
 HIS LOVE AT MORNING.
 
@@ -86,11 +86,11 @@ DIALOGUE WITH THE NINE SISTERS.
 
 DIALOGUE WITH THE NINE SISTERS.
 
-THE EPITAPH ON [[Rabelais|RABELAIS]].
+THE EPITAPH ON [[historical-references/rabelais|RABELAIS]].
 
-THE EPITAPH ON [[Rabelais|RABELAIS]].
+THE EPITAPH ON [[historical-references/rabelais|RABELAIS]].
 
-“MIGNONNE ALLONS VOIR SI LA [[Rose|ROSE]].”
+“MIGNONNE ALLONS VOIR SI LA [[motifs/rose|ROSE]].”
 
 THE “SONNETS FOR HÉLÈNE”
 
@@ -122,7 +122,7 @@ EXTRACTS.
 
 ODE TO LOUIS XIII.
 
-SONNET ON HIS SON’S [[Death|DEATH]].
+SONNET ON HIS SON’S [[motifs/death|DEATH]].
 
 EXTRACTS FROM THE “CONSOLATION OF DU PERRIER.”
 
@@ -148,17 +148,17 @@ With the motives of their appearance you are familiar.
 
 We have wondered together that a society so avid of experience and enlargement as is ours, should ignore the chief expression of its closest neighbour, its highest rival and its coheir in Europe: should ignore, I mean, the literature of the French.
 
-We have laughed together, not without despair, to see the mind of England, for all its majesty and breadth, informed at the most critical moments in the policy of [[France]] by such residents of [[Paris]] as were at the best fanatical, at the worst (and most ordinary) corrupt.
+We have laughed together, not without despair, to see the mind of England, for all its majesty and breadth, informed at the most critical moments in the policy of [[settings/france|France]] by such residents of [[settings/paris|Paris]] as were at the best fanatical, at the worst (and most ordinary) corrupt.
 
-Seeing around us here a philosophy and method drawn from northern Germany, a true and subtle sympathy with the Italians, and a perpetual, just and accurate comment upon the minor nationalities of Europe, a mass of recorded travel superior by far to that of other countries, we marvelled that [[France]] in particular should have remained unknown.
+Seeing around us here a philosophy and method drawn from northern Germany, a true and subtle sympathy with the Italians, and a perpetual, just and accurate comment upon the minor nationalities of Europe, a mass of recorded travel superior by far to that of other countries, we marvelled that [[settings/france|France]] in particular should have remained unknown.
 
-We were willing, in an earlier youth, to read this riddle in somewhat crude solutions. I think we have each of us arrived, and in a final manner, at the sounder conclusion that historical accident is principally to blame. The chance concurrence of this defeat with that dynastic influence, the slip by which the common sense of political simplicity missed footing in England and fell a generation behind, the marvellous industrial activities of this country, protected by a [[Tradition|tradition]] of political discipline which will remain unique in History; the contemporaneous settling down of [[France]] into the equilibrium of power — an equilibrium not established without five hearty civil wars and perhaps a hundred campaigns — all these so separated the two worlds of thought as to leave France excusable for her blindness towards the destinies and nature of England, and England excusable for her continued emptiness of knowledge upon the energy and genius of France: though these were increasing daily, immensely, at our very side.
+We were willing, in an earlier youth, to read this riddle in somewhat crude solutions. I think we have each of us arrived, and in a final manner, at the sounder conclusion that historical accident is principally to blame. The chance concurrence of this defeat with that dynastic influence, the slip by which the common sense of political simplicity missed footing in England and fell a generation behind, the marvellous industrial activities of this country, protected by a [[concepts/tradition|tradition]] of political discipline which will remain unique in History; the contemporaneous settling down of [[settings/france|France]] into the equilibrium of power — an equilibrium not established without five hearty civil wars and perhaps a hundred campaigns — all these so separated the two worlds of thought as to leave France excusable for her blindness towards the destinies and nature of England, and England excusable for her continued emptiness of knowledge upon the energy and genius of France: though these were increasing daily, immensely, at our very side.
 
-We have assisted at some straining of such barriers. A long peace, the sterility of Germany, the interesting activities of the [[Catholic Church]], have perhaps not yet changed, but have at least disturbed the mind of the north, and ours, a northern people’s, with it. The unity, the passionate patriotism, the close oligarchic polity, the very silence of the English has arrested the eyes of France. By a law which is universal where bodies are bound in one system, an extreme of separation has wrought its own remedy and the return towards a closer union is begun. I do not refer to such ephemeral and artificial manifestations as a special and somewhat humiliating need may demand; I consider rather that large sweep of tendency which was already apparent fifteen years after the Franco-Prussian War. An approach in taste, manners and expression well defined during our undergraduate years, has now introduced much of our inmost life to the French, to us already a hint of their philosophy.
+We have assisted at some straining of such barriers. A long peace, the sterility of Germany, the interesting activities of the [[historical-references/catholic-church|Catholic Church]], have perhaps not yet changed, but have at least disturbed the mind of the north, and ours, a northern people’s, with it. The unity, the passionate patriotism, the close oligarchic polity, the very silence of the English has arrested the eyes of France. By a law which is universal where bodies are bound in one system, an extreme of separation has wrought its own remedy and the return towards a closer union is begun. I do not refer to such ephemeral and artificial manifestations as a special and somewhat humiliating need may demand; I consider rather that large sweep of tendency which was already apparent fifteen years after the Franco-Prussian War. An approach in taste, manners and expression well defined during our undergraduate years, has now introduced much of our inmost life to the French, to us already a hint of their philosophy.
 
 I think you believe, as I do, that the return has begun.
 
-We shall not live to see that fine unity of the west which lent the latter seventeenth and eighteenth centuries their classical repose. No common rule of verse or prose will satisfy men’s permanent desire for harmony: no common rule of manners, of honour, of international ethics, of war. We shall not live to see, though we are young now, a [[Paris]] reading some new Locke or Hume, a London moved to attentive delight in some latter trinity of Dramatists, some future [[Voltaire]].... The high, protected class, which moved at ease between the Capitals of the World, has disappeared; that which should take its place is not yet formed. We are both of that one [[Faith]] which can but regard our Christendom as the front of mankind and which, therefore, looks forward, as to a necessary goal, to the re-establishment of its common comprehension. But the reversion to such stability is slow. We shall not live to see it.
+We shall not live to see that fine unity of the west which lent the latter seventeenth and eighteenth centuries their classical repose. No common rule of verse or prose will satisfy men’s permanent desire for harmony: no common rule of manners, of honour, of international ethics, of war. We shall not live to see, though we are young now, a [[settings/paris|Paris]] reading some new Locke or Hume, a London moved to attentive delight in some latter trinity of Dramatists, some future [[historical-references/voltaire|Voltaire]].... The high, protected class, which moved at ease between the Capitals of the World, has disappeared; that which should take its place is not yet formed. We are both of that one [[concepts/faith|Faith]] which can but regard our Christendom as the front of mankind and which, therefore, looks forward, as to a necessary goal, to the re-establishment of its common comprehension. But the reversion to such stability is slow. We shall not live to see it.
 
 It is none the less our duty (if I may use a word of so unsavoury a connotation) to advance the accomplishment of this good fatality.
 
@@ -168,13 +168,13 @@ With us, I fear, that endeavour must take a literary form, but such a channel is
 
 We have observed together that the balance in this matter is heavily against the English. M. Jusserand is easily the first authority upon popular life in England at the close of the middle ages. M. Boutmy has produced an analysis of our political development which our Universities have justly recognized. Our friend M. Angellier of the École Normale has written what is acknowledged by the more learned Scotch to be the principal existing monograph upon Robert Burns; Mr. Kipling himself has snatched the attention of M. Chevrillon. You know how many names might be added to this list to prove the close, applied and penetrating manner in which French scholars have latterly presented our English writers to their fellow-citizens.
 
-We have both believed that something of the sort might be attempted in the converse; that a view could be given — a glimpse at least — of that vast organism whose foundations are in Rome, Coeval with the [[Spring|spring]] of Christianity, and whose last growth seems as vigorous and as fecund as though it were exempt from any laws of age.
+We have both believed that something of the sort might be attempted in the converse; that a view could be given — a glimpse at least — of that vast organism whose foundations are in Rome, Coeval with the [[motifs/spring|spring]] of Christianity, and whose last growth seems as vigorous and as fecund as though it were exempt from any laws of age.
 
 But, I say, we know how heavy is the balance against us.
 
 The Gallic ritual is unrecognized, even by our over-numerous class of clerical antiquarians. The Carolingian cycle is neglected, save perhaps for a dozen men who have seen the Song of Roland. The Complaints of Rusteboeuf, the Fabliaux, all the local legendary poetry, all the chroniclers (save Froissart — for he wrote of us), the tender simplicity of Joinville, the hard steel of Villehardouin, no one has handled.
 
-The fifteenth century, the storm of the [[Renaissance]], are not taught. Why, [[Rabelais]] himself might be but an unfamiliar name had not a northern squire of genius rendered to the life three quarters of his work.
+The fifteenth century, the storm of the [[historical-references/renaissance|Renaissance]], are not taught. Why, [[historical-references/rabelais|Rabelais]] himself might be but an unfamiliar name had not a northern squire of genius rendered to the life three quarters of his work.
 
 The list is interminable. Even the great Drama of the great century is but a text for our schools leaving no sort of trace upon the mind: and as for the French moderns (I have heard it from men of liberal education) they are denied to have written any poetry at all: so exact, so subtle, so readily to be missed, are the proportions of their speech.
 
@@ -184,7 +184,7 @@ Your learning, my singular adventure, have increased in us, it must be confessed
 
 Indeed, if anything of France is to be explained in English and to people reading English, I could not desire a better alliance than yours and mine.
 
-But if you ask me why the [[Renaissance]] especially — or why in the [[Renaissance]] these six poets alone — should have formed the subject of my first endeavour, I can only tell you that in so vast a province, whereof the most ample leisure could not in a lifetime exhaust a tithe, Chance, that happy Goddess, led me at random to their groves.
+But if you ask me why the [[historical-references/renaissance|Renaissance]] especially — or why in the [[historical-references/renaissance|Renaissance]] these six poets alone — should have formed the subject of my first endeavour, I can only tell you that in so vast a province, whereof the most ample leisure could not in a lifetime exhaust a tithe, Chance, that happy Goddess, led me at random to their groves.
 
 Whether it will be possible to continue such interpretation I do not know, but if it be so possible, I know still less what next may be put into my hands: Racine, perhaps, may call me, or those forgotten men who urged the Revolution with phrases of fire.
 
@@ -196,7 +196,7 @@ CHARLES OF ORLEANS.
 
 I PUT DOWN Charles of Orleans here as the first representative of that long glory which it is the business of this little book to recall: but to give him such a place at the threshold requires some apology.
 
-The origins of a literary epoch differ according as that epoch is primal or derivative. There are those edifices of letters which start up, not indeed out of nothing, but out of things wholly different. Produced by a shock or a revelation, as two gases lit will, in a sharp explosion, unite to form a liquid wholly unlike either, so after a great conquest, a battle, the sudden preaching of a creed, these primal literatures appear in an epic or a dithyrambic code of awful law. Their first effort is their mightiest. They come mature. They are allied to that element of the catastrophic which the modern world (taking its general philosophy from its social condition) denies, but which is yet at the limits of all things separate and themselves; accompanies every birth, and strikes agony into every transition of [[Death|death]].
+The origins of a literary epoch differ according as that epoch is primal or derivative. There are those edifices of letters which start up, not indeed out of nothing, but out of things wholly different. Produced by a shock or a revelation, as two gases lit will, in a sharp explosion, unite to form a liquid wholly unlike either, so after a great conquest, a battle, the sudden preaching of a creed, these primal literatures appear in an epic or a dithyrambic code of awful law. Their first effort is their mightiest. They come mature. They are allied to that element of the catastrophic which the modern world (taking its general philosophy from its social condition) denies, but which is yet at the limits of all things separate and themselves; accompanies every birth, and strikes agony into every transition of [[motifs/death|death]].
 
 Those other much commoner epochs in the history of letters, which may be called derivative, have this current and obvious quality, that their beginnings merge into the soil that bred them, also (very often) their decay will lapse imperceptibly into newer things. They are quite definite, but also definitely parented. We know their special stuff and harmony, but we can point out clearly enough the elements which formed that stuff, the tones which unite in that harmony. We can show with dates and citations the parts meeting and blending; our difficulty is not to determine the influences which have mixed to make the general school, but rather to fix the beginning and the end of its effect upon men.
 
@@ -210,13 +210,13 @@ It was derivative in that the shock, the revelation, which produced it, was the 
 
 On this account you will find one mind indeed at the very beginning of the change in letters, but not a dominating mind. There is but one man who is certainly an origin, but he is not a master. You see an unique and single personality, distinct but without force, founding no school — the grave, abiding, kind but covert face of Charles of Orleans. He, linked to the French Renaissance, is like the figure of a gentle friend playing in some garden with a child whose manners are new and pleasing to him, but of whose great destiny he makes no guess. That child was to be Du Bellay, Brantome, Montaigne a hundred-sided, huge Rabelais, Ronsard. Or perhaps this metaphor will put it better. To say that Charles of Orleans’s equal and persistent music was like a string harped on distinctly in a chorus of flutes and hautboys, till one by one harps from here and there caught up the similar tang of chords and at last the whole body of sound was harping only.
 
-His life was suited to such difference and such origination. Italy, still living, filled him. An Italian secretary wrote from his mouth the most sumptuous of his manuscripts. He banded on Italy as a goal and his Italian land as a legacy to the French crown — to his own son; till (years after his [[Death|death]]) the soldiers roared through Briançon and broke the crusted snow of Mont Genèvre. An Italian mother, the most beautiful of the Viscontis, come out of Italy, rich in her land of Asti and her half million of pure gold, had borne him in her youth to the King of France’s brother: a man luxurious, over fine, exact in taste, a lover of magnificence in stories and words, decadent in a dying time, very brave. Through that father the Valois blood, unjustly hated or still more unjustly despised according to the varied ignorance of modern times, ran in him nobly.
+His life was suited to such difference and such origination. Italy, still living, filled him. An Italian secretary wrote from his mouth the most sumptuous of his manuscripts. He banded on Italy as a goal and his Italian land as a legacy to the French crown — to his own son; till (years after his [[motifs/death|death]]) the soldiers roared through Briançon and broke the crusted snow of Mont Genèvre. An Italian mother, the most beautiful of the Viscontis, come out of Italy, rich in her land of Asti and her half million of pure gold, had borne him in her youth to the King of France’s brother: a man luxurious, over fine, exact in taste, a lover of magnificence in stories and words, decadent in a dying time, very brave. Through that father the Valois blood, unjustly hated or still more unjustly despised according to the varied ignorance of modern times, ran in him nobly.
 
 Take the Valois strain entire and you will find the pomp or rather the fantasy of their great palace of St. Paul; turrets and steep blue roofs of slate, carved woodwork, heavy curtains, and incense and shining bronze. The Valois were, indeed, the end of the middle ages. Some cruelty, a fury in battle, intelligence and madness alternately, and always a sort of keenness which becomes now revenge, now foresight, now intrigue, now strict and terrible government: at last a wild adventure out beyond the hills: Fornovo, Pavia.
 
 Their story is like the manuscripts, which beyond all other things they loved and collected, and which they were the last to possess or to have made; for while it contains in vivid pictures the noblest and the basest subjects: (Joan of Arc and also her betrayal, their country dominant and almost engulfed, Marigano, and then again Pavia) it always glitters with hard enamelled colours against skies of gold, and is drawn and sharp and clean as a thing can be.
 
-Such is the whole line, but look at this one Valois and you see all the qualities of his race toned by a permanent sadness down to a good and even temper, not hopeful but still delighting in [[Beauty|beauty]] and possessed as no other Valois had been of charity. Less passionate and therefore much less eager and useful than most of his race, yet the taint of madness never showed in him, nor the corresponding evil of cruelty, nor the uncreative luxury of his immediate ancestry. All the Valois were poets in their kind; his life by its every accident caused him to write. At fifteen they wedded him to that lovely child whom Richard II had lifted in his arms at Windsor as he rode out in fatal pomp for Ireland. Three years later, when their marriage was real, she died in childbirth, and it is to her I think that he wrote in his prison the ballad which ends:
+Such is the whole line, but look at this one Valois and you see all the qualities of his race toned by a permanent sadness down to a good and even temper, not hopeful but still delighting in [[concepts/beauty|beauty]] and possessed as no other Valois had been of charity. Less passionate and therefore much less eager and useful than most of his race, yet the taint of madness never showed in him, nor the corresponding evil of cruelty, nor the uncreative luxury of his immediate ancestry. All the Valois were poets in their kind; his life by its every accident caused him to write. At fifteen they wedded him to that lovely child whom Richard II had lifted in his arms at Windsor as he rode out in fatal pomp for Ireland. Three years later, when their marriage was real, she died in childbirth, and it is to her I think that he wrote in his prison the ballad which ends:
 
 Dieu sur tout souverain seigneur
 
@@ -234,7 +234,7 @@ Mon très bon hôte et ma très douce hôtesse.
 
 For his life as a prisoner, though melancholy, was not undignified; he paid no allegiance, he met the men of his own rank, nor was he of a kind to whom poverty, the chief thorn of his misfortune, brought dishonour.
 
-Henry V had left it strictly in his will that Orleans the general and the head of the French nationals should not return. For twenty-five years, therefore — all his manhood — he lived under this sky, rhyming and rhyming: in English a little, in French continually, and during that isolation there swept past him far off in his own land the defence, the renewal, the triumph of his own blood: his town relieved, his cousin crowned at Rheims. His river of Loire, and then the Eure, and then the Seine, and even the field where he had fallen were reconquered. Willoughby had lost [[Paris]] to Richemont four years before Charles of Orleans was freed on a ransom of half his mother’s fortune. It was not until the November of 1440 that he saw his country-side again.
+Henry V had left it strictly in his will that Orleans the general and the head of the French nationals should not return. For twenty-five years, therefore — all his manhood — he lived under this sky, rhyming and rhyming: in English a little, in French continually, and during that isolation there swept past him far off in his own land the defence, the renewal, the triumph of his own blood: his town relieved, his cousin crowned at Rheims. His river of Loire, and then the Eure, and then the Seine, and even the field where he had fallen were reconquered. Willoughby had lost [[settings/paris|Paris]] to Richemont four years before Charles of Orleans was freed on a ransom of half his mother’s fortune. It was not until the November of 1440 that he saw his country-side again.
 
 The verse formed in that long endurance (a style which he preserved to the end in the many poems after his release) may seem at a first reading merely mediæval. There is wholly lacking in it the riot of creation, nor can one see at first the Renaissance coming in with Charles of Orleans.
 
@@ -530,7 +530,7 @@ He was poor; he was amative; he was unsatisfied. This vigour, therefore, led in 
 
 Associated also with this wildness is a curious imperfection in our knowledge of him. His very name is not his own — or any other man’s. His father, if it were his father, took his name from Mont-Corbier — half noble. Villon is but a little village over beyond the upper Yonne, near the division, within a day of the water-parting where the land falls southward to Burgundy and the sun in what they call “The Slope of Gold.” From this village a priest, William, had come to Paris in 1423. They gave him a canonry in that little church called “St. Bennets Askew,” which stood in the midst of the University, near Sorbonne, where the Rue des Écoles crosses the Rue St. Jacques to-day. Hither, to his house in the cloister, he brought the boy, a waif whom he had found much at the time when Willoughby capitulated and the French recaptured the city. He had him taught, he designed him for the University, he sheltered him in his vagaries, he gave him asylum. The young man took his name and called him “more than father.” His anxious life led on to 1468, long after the poet had disappeared.
 
-For it is in 1461, in his thirtieth year, that Villon last writes down a verse. It is in 1463 that his signature is last discovered. Then not by death or, if by death, then by some death unrecorded, he leaves history abruptly — a most astonishing exit!... You may pursue fantastic legends, you will not find the man himself again. Some say a final quarrel got him hanged at last — it is improbable: no record or even [[Tradition|tradition]] of it remains. Rabelais thought him a wanderer in England. Poitou preserves a story of his later passage through her fields, of how still he drank and sang with boon companions, and of how, again, he killed a man.... Maybe, he only ceased to write; took to teaching soberly in the University, and lived in a decent inheritance to see new splendours growing upon Europe. It may very well be, for it is in such characters to desire in early manhood decency, honour, and repose. But for us the man ends with his last line. His body that was so very real, his personal voice, his jargon — tangible and audible things — spread outward suddenly a vast shadow upon nothingness. It was the end, also, of a world. The first Presses were creaking, Constantinople had fallen, Greek was in Italy, Leonardo lived, the stepping stones of the Azores were held — in that new light he disappears.
+For it is in 1461, in his thirtieth year, that Villon last writes down a verse. It is in 1463 that his signature is last discovered. Then not by death or, if by death, then by some death unrecorded, he leaves history abruptly — a most astonishing exit!... You may pursue fantastic legends, you will not find the man himself again. Some say a final quarrel got him hanged at last — it is improbable: no record or even [[concepts/tradition|tradition]] of it remains. Rabelais thought him a wanderer in England. Poitou preserves a story of his later passage through her fields, of how still he drank and sang with boon companions, and of how, again, he killed a man.... Maybe, he only ceased to write; took to teaching soberly in the University, and lived in a decent inheritance to see new splendours growing upon Europe. It may very well be, for it is in such characters to desire in early manhood decency, honour, and repose. But for us the man ends with his last line. His body that was so very real, his personal voice, his jargon — tangible and audible things — spread outward suddenly a vast shadow upon nothingness. It was the end, also, of a world. The first Presses were creaking, Constantinople had fallen, Greek was in Italy, Leonardo lived, the stepping stones of the Azores were held — in that new light he disappears.
 
 * * *
 
@@ -542,7 +542,7 @@ Her local spirit and her special quality had shone fitfully here and there for a
 
 It was not only the metropolitan, it was the Parisian spirit which Villon found and fixed. That spirit which is bright over the whole city, but which is not known in the first village outside; the influence that makes Paris Athenian.
 
-The ironical Parisian soul has depths in it. It is so lucid that its luminous profundity escapes one — so with Villon. Religion hangs there. Humility — fatally divorced from simplicity — pervades it. It laughs at itself. There are ardent passions of sincerity, repressed and reacting upon themselves. The virtues, little practised, are commonly comprehended, always appreciated, for the [[Faith]] is there permanent. All this you will find in Villon, but it is too great a matter for so short an essay as this.
+The ironical Parisian soul has depths in it. It is so lucid that its luminous profundity escapes one — so with Villon. Religion hangs there. Humility — fatally divorced from simplicity — pervades it. It laughs at itself. There are ardent passions of sincerity, repressed and reacting upon themselves. The virtues, little practised, are commonly comprehended, always appreciated, for the [[concepts/faith|Faith]] is there permanent. All this you will find in Villon, but it is too great a matter for so short an essay as this.
 
 THE DEAD LADIES.
 
@@ -898,7 +898,7 @@ THE DIRGE.
 
 THIS IS THE best ending for any set of verses one may choose out of Villon. It follows and completes the epitaph which in his will he orders to be written in charcoal — or scratched — above his tomb: the sad, sardonic octave of “the little scholar and poor.” It is a kind of added dirge to be read by those who pass and to be hummed or chaunted over him dead. But it is a rondeau.
 
-See how sharp it is with the salt and vinegar of his pressed courageous smile — and how he cannot run away from his religion or from his power over sudden and vivid [[Beauty|beauty]].
+See how sharp it is with the salt and vinegar of his pressed courageous smile — and how he cannot run away from his religion or from his power over sudden and vivid [[concepts/beauty|beauty]].
 
 “Sire — et clarté perpétuelle” — which last are the best two words that ever stood in the vulgar for lux perpetua.
 
@@ -1088,7 +1088,7 @@ TWO EPIGRAMS.
 
 (THE 41ST OF the First Book and the 46th of the Second.)
 
-These two epigrams are again but examples of the readiness, the wit, the hard surface of Marot, and they needed no more poetry than was in [[Voltaire]] or Swift, but they needed style. It was this absolute and standard style which his contemporaries chiefly remarked in him: the marvel was, that being mainly such an epigrammatist and scholar, and praised and supported only in that guise, he should have carried in him any, or rather so much, fire.
+These two epigrams are again but examples of the readiness, the wit, the hard surface of Marot, and they needed no more poetry than was in [[historical-references/voltaire|Voltaire]] or Swift, but they needed style. It was this absolute and standard style which his contemporaries chiefly remarked in him: the marvel was, that being mainly such an epigrammatist and scholar, and praised and supported only in that guise, he should have carried in him any, or rather so much, fire.
 
 The first was his reply to a Dixaine the king’s sister had sent him. The second explains itself.
 
@@ -1258,7 +1258,7 @@ A group of men to which allusion will be made in connection with Du Bellay set o
 
 More than that; in their earnest, and, as it seemed at first, artificial work, they formed the French language. Some of its most famous and most familiar words proceed from them — for instance, the word Patrie. Some few of their exotic Greek and Latin adaptations were dropped; the greater part remained. They have excluded from French — as some think to the impoverishment of that language — most elements of the Gothic — the inversion of the adjective, the frequent suppression of the relative, the irregularity of form, which had survived from the Middle Ages, and which make the older French poetry so much more sympathetic to the Englishman than is the new — all these were destroyed by the group of men of whom I speak. They were called by their contemporaries the Pleiade, for they were seven stars.
 
-Now, of these, Ronsard was easily the master. He had that power which our anaemic age can hardly comprehend, of writing, writing, writing, without fear of exhaustion, without irritability or self-criticism, without danger of comparing the better with the worse. Five great volumes of small print, all good — men of that facility never write the really paltry things — all good, and most of it glorious; some of it on the level which only the great poets reach here and there. It is in reading this man who rhymed unceasingly for forty years, who made of poetry an occupation as well as a glory, and who let it fill the whole of his life, that one feels how much such creative power has to do with the value of verse. There is a kind of good humility about it, the humility of a man who does not look too closely at himself, and the health of a soul at full stride, going forward. You may open Ronsard at any page, and find a [[Beauty|beauty]]; you may open any one of the sonnets at random, and in translating it discover that you are compelled to a fine English, because he is saying, plainly, great things. And of these sonnets, note you, he would write thirty at a stretch, and then twenty, and then a second book, with seventy more. So that as one reads one cannot help understanding that Italian who said a man was no poet unless he could rap out a century of sonnets from time to time; and one is reminded of the general vigour of the age and of the way in which art of all sorts was mingled up together, when one remembers the tags of verses, just such verses as these, which are yet to be seen in our galleries set down doubtfully on the margin of their sketches by the great artists of Italy.
+Now, of these, Ronsard was easily the master. He had that power which our anaemic age can hardly comprehend, of writing, writing, writing, without fear of exhaustion, without irritability or self-criticism, without danger of comparing the better with the worse. Five great volumes of small print, all good — men of that facility never write the really paltry things — all good, and most of it glorious; some of it on the level which only the great poets reach here and there. It is in reading this man who rhymed unceasingly for forty years, who made of poetry an occupation as well as a glory, and who let it fill the whole of his life, that one feels how much such creative power has to do with the value of verse. There is a kind of good humility about it, the humility of a man who does not look too closely at himself, and the health of a soul at full stride, going forward. You may open Ronsard at any page, and find a [[concepts/beauty|beauty]]; you may open any one of the sonnets at random, and in translating it discover that you are compelled to a fine English, because he is saying, plainly, great things. And of these sonnets, note you, he would write thirty at a stretch, and then twenty, and then a second book, with seventy more. So that as one reads one cannot help understanding that Italian who said a man was no poet unless he could rap out a century of sonnets from time to time; and one is reminded of the general vigour of the age and of the way in which art of all sorts was mingled up together, when one remembers the tags of verses, just such verses as these, which are yet to be seen in our galleries set down doubtfully on the margin of their sketches by the great artists of Italy.
 
 Ronsard, with these qualities of a leader, unconscious, as all true leaders are, of the causes of his leadership, and caring, as all true leaders do, for nothing in leadership save the glory it brings with it, had also, as have all leaders, chiefly the power of drawing in a multitude of friends. The peculiar head of his own group, he very soon became the head of all the movement of his day. He had made letters really great in the minds of his contemporaries, and having so made them, appeared before them as a master of those letters. Certainly, as I shall quote him in a moment when I come to his dying speech, he was “satiated with glory.”
 
@@ -1276,7 +1276,7 @@ But death troubled him, and he could not remain. Within a fortnight he ordered t
 
 It was upon the 17th of November that he reached the walls wherein he was Superior; six weeks later, on the second day after Christmas, he died.
 
-Were I to describe that scene to which he called the monks, all men of his own birth and training, were I to dwell upon the appearance and the character of the oldest and the wisest, who was also the most famous there, I should extend this essay beyond its true limit, as I should also do were I to write down, even briefly, the account of his just, resigned, and holy death. It must suffice that I transcribe the chief of his last deeds; I mean, that declaration wherein he made his last profession of [[Faith|faith]].
+Were I to describe that scene to which he called the monks, all men of his own birth and training, were I to dwell upon the appearance and the character of the oldest and the wisest, who was also the most famous there, I should extend this essay beyond its true limit, as I should also do were I to write down, even briefly, the account of his just, resigned, and holy death. It must suffice that I transcribe the chief of his last deeds; I mean, that declaration wherein he made his last profession of [[concepts/faith|faith]].
 
 The old monk had said to him: “In what resolution do you die?”
 
@@ -1284,7 +1284,7 @@ He answered, somewhat angrily: “In what did you think? In the religion which w
 
 Then he called all the community round him, as though the monastic simplicity had returned (so vital is the Faith, so simple its primal energies), and as though he had been the true prior of some early and fervent house, he told them these things which I will faithfully translate on account of their beauty. They are printed here, I think, for the first time in English, and must stand for the end of this essay:
 
-He said: “That he had sinned like other men, and, perhaps, more than most; that his senses had led him away by their charm, and that he had not repressed or constrained them as he should; but none the less, he had always held that Faith which the men of his line had left him, he had always clasped close the Creed and the unity of the [[Catholic Church]]; that, in fine, he had laid a sure foundation, but he had built thereon with wood, with hay, with straw. As for that foundation, he was sure it would stand; as for the light and worthless things he had built upon it he had trust in the mercy of the Saviour that they would be burnt in the fire of His love. And now he begged them all to believe hard, as he had believed; but not to live as he had lived; they must understand that he had never attempted or plotted against the life or goods of another, nor ever against any man’s honour, but, after all, there was nothing therein wherewith to glorify one’s self before God.” When he had wept a little, he continued, saying, “that the world was a ceaseless turmoil and torment, and shipwreck after shipwreck all the while, and a whirlpool of sins, and tears and pain, and that to all these misfortunes there was but one port, and this port was Death. But, as for him, he carried with him into that port no desire and no regret for life. That he had tried every one of its pretended joys, that he had left nothing undone which could give him the least shadow of pleasure or content, but that at the end he had found everywhere the oracle of Wisdom, vanity of vanities.”
+He said: “That he had sinned like other men, and, perhaps, more than most; that his senses had led him away by their charm, and that he had not repressed or constrained them as he should; but none the less, he had always held that Faith which the men of his line had left him, he had always clasped close the Creed and the unity of the [[historical-references/catholic-church|Catholic Church]]; that, in fine, he had laid a sure foundation, but he had built thereon with wood, with hay, with straw. As for that foundation, he was sure it would stand; as for the light and worthless things he had built upon it he had trust in the mercy of the Saviour that they would be burnt in the fire of His love. And now he begged them all to believe hard, as he had believed; but not to live as he had lived; they must understand that he had never attempted or plotted against the life or goods of another, nor ever against any man’s honour, but, after all, there was nothing therein wherewith to glorify one’s self before God.” When he had wept a little, he continued, saying, “that the world was a ceaseless turmoil and torment, and shipwreck after shipwreck all the while, and a whirlpool of sins, and tears and pain, and that to all these misfortunes there was but one port, and this port was Death. But, as for him, he carried with him into that port no desire and no regret for life. That he had tried every one of its pretended joys, that he had left nothing undone which could give him the least shadow of pleasure or content, but that at the end he had found everywhere the oracle of Wisdom, vanity of vanities.”
 
 He ended with this magnificent thing, which is, perhaps, the last his human power conceived, and I will put it down in his own words: —
 
@@ -1418,7 +1418,7 @@ Et ores le fait boire de l’onde
 
 Du large fleuve d’Achéron.
 
-“MIGNONNE ALLONS VOIR SI LA [[Rose|ROSE]].”
+“MIGNONNE ALLONS VOIR SI LA [[motifs/rose|ROSE]].”
 
 (THE 17TH ODE of the First Book.)
 
@@ -1430,7 +1430,7 @@ Certainly those who are so unfamiliar with French poetry as not to know that its
 
 If the limits of a page permitted it, I would also show how worthy the thing was of fame from its pure and careful choice of verb— “Tandis que vostre age fleuronne” — but space prevents me, luckily, for all this is like splitting a diamond.
 
-“MIGNONNE ALLONS VOIR SI LA [[Rose|ROSE]].”
+“MIGNONNE ALLONS VOIR SI LA [[motifs/rose|ROSE]].”
 
 Mignonne, allons voir si la rose
 
@@ -1562,7 +1562,7 @@ In its vigour, at least, the Renaissance was a glorious youth — he, Du Bellay,
 
 Moreover, the Renaissance had in France its seat where, between rolling lands whose woods are the walls of gardens, the broad and shallow inland Loire runs from Orleans, past Blois and Tours and Saumur, and Ancenis, until near Nantes at last it feels the tide: salt and adventures and the barbaric sea. This varied sheltered land of aged vineyards and great wealth has, for the French Renaissance, the one special quality of beginnings and Edens, namely, that it preserves on to a later time the outward evidences of an original perfection. This place, the nest or seed-plot of the new civilisation, still shows its castles — Blois, Amboise, Chambord. Here Leonardo died, Rabelais, Ronsard himself was born. Here the kings of the Change built in their fantastic pride, and founded a France that still endures. It is as truly the soil of the modern thing as are the provinces north of it (the Isle de France, Normandy, Picardy and Champagne), the soil of the earlier mediaeval flower, and of the Gothic which they preserve unique to our own time.
 
-Now, of this district, Du Bellay was more than a native; he was part of it; he pined away from it; he regretted, as no other man of the time regretted, his father’s land: Anjou and the fields of home. He may be said, with some exaggeration, to have died in the misfortune of his separation from the security and sober [[Tradition|tradition]] of his own walls. That great early experience of his, which I have already written down — his meeting with Ronsard — had come to him not far from his own hill, south of the great river. His name, unlike Ronsard’s, recalled the gentry of that countryside up to and beyond the beginning of its history; alone of the Pleiade he translated the valley of the Loire, its depth, its delicacy, its rich and subtle loneliness.
+Now, of this district, Du Bellay was more than a native; he was part of it; he pined away from it; he regretted, as no other man of the time regretted, his father’s land: Anjou and the fields of home. He may be said, with some exaggeration, to have died in the misfortune of his separation from the security and sober [[concepts/tradition|tradition]] of his own walls. That great early experience of his, which I have already written down — his meeting with Ronsard — had come to him not far from his own hill, south of the great river. His name, unlike Ronsard’s, recalled the gentry of that countryside up to and beyond the beginning of its history; alone of the Pleiade he translated the valley of the Loire, its depth, its delicacy, its rich and subtle loneliness.
 
 Again, the Renaissance lived in France an inspired and an exalted life, so that there necessarily ran through it a fore-knowledge of sudden ending. This tragedy repeated itself in the career of Du Bellay.
 
@@ -2332,17 +2332,17 @@ With the motives of their appearance you are familiar.
 
 We have wondered together that a society so avid of experience and enlargement as is ours, should ignore the chief expression of its closest neighbour, its highest rival and its coheir in Europe: should ignore, I mean, the literature of the French.
 
-We have laughed together, not without despair, to see the mind of England, for all its majesty and breadth, informed at the most critical moments in the policy of [[France]] by such residents of [[Paris]] as were at the best fanatical, at the worst (and most ordinary) corrupt.
+We have laughed together, not without despair, to see the mind of England, for all its majesty and breadth, informed at the most critical moments in the policy of [[settings/france|France]] by such residents of [[settings/paris|Paris]] as were at the best fanatical, at the worst (and most ordinary) corrupt.
 
-Seeing around us here a philosophy and method drawn from northern Germany, a true and subtle sympathy with the Italians, and a perpetual, just and accurate comment upon the minor nationalities of Europe, a mass of recorded travel superior by far to that of other countries, we marvelled that [[France]] in particular should have remained unknown.
+Seeing around us here a philosophy and method drawn from northern Germany, a true and subtle sympathy with the Italians, and a perpetual, just and accurate comment upon the minor nationalities of Europe, a mass of recorded travel superior by far to that of other countries, we marvelled that [[settings/france|France]] in particular should have remained unknown.
 
-We were willing, in an earlier youth, to read this riddle in somewhat crude solutions. I think we have each of us arrived, and in a final manner, at the sounder conclusion that historical accident is principally to blame. The chance concurrence of this defeat with that dynastic influence, the slip by which the common sense of political simplicity missed footing in England and fell a generation behind, the marvellous industrial activities of this country, protected by a [[Tradition|tradition]] of political discipline which will remain unique in History; the contemporaneous settling down of [[France]] into the equilibrium of power — an equilibrium not established without five hearty civil wars and perhaps a hundred campaigns — all these so separated the two worlds of thought as to leave France excusable for her blindness towards the destinies and nature of England, and England excusable for her continued emptiness of knowledge upon the energy and genius of France: though these were increasing daily, immensely, at our very side.
+We were willing, in an earlier youth, to read this riddle in somewhat crude solutions. I think we have each of us arrived, and in a final manner, at the sounder conclusion that historical accident is principally to blame. The chance concurrence of this defeat with that dynastic influence, the slip by which the common sense of political simplicity missed footing in England and fell a generation behind, the marvellous industrial activities of this country, protected by a [[concepts/tradition|tradition]] of political discipline which will remain unique in History; the contemporaneous settling down of [[settings/france|France]] into the equilibrium of power — an equilibrium not established without five hearty civil wars and perhaps a hundred campaigns — all these so separated the two worlds of thought as to leave France excusable for her blindness towards the destinies and nature of England, and England excusable for her continued emptiness of knowledge upon the energy and genius of France: though these were increasing daily, immensely, at our very side.
 
-We have assisted at some straining of such barriers. A long peace, the sterility of Germany, the interesting activities of the [[Catholic Church]], have perhaps not yet changed, but have at least disturbed the mind of the north, and ours, a northern people’s, with it. The unity, the passionate patriotism, the close oligarchic polity, the very silence of the English has arrested the eyes of France. By a law which is universal where bodies are bound in one system, an extreme of separation has wrought its own remedy and the return towards a closer union is begun. I do not refer to such ephemeral and artificial manifestations as a special and somewhat humiliating need may demand; I consider rather that large sweep of tendency which was already apparent fifteen years after the Franco-Prussian War. An approach in taste, manners and expression well defined during our undergraduate years, has now introduced much of our inmost life to the French, to us already a hint of their philosophy.
+We have assisted at some straining of such barriers. A long peace, the sterility of Germany, the interesting activities of the [[historical-references/catholic-church|Catholic Church]], have perhaps not yet changed, but have at least disturbed the mind of the north, and ours, a northern people’s, with it. The unity, the passionate patriotism, the close oligarchic polity, the very silence of the English has arrested the eyes of France. By a law which is universal where bodies are bound in one system, an extreme of separation has wrought its own remedy and the return towards a closer union is begun. I do not refer to such ephemeral and artificial manifestations as a special and somewhat humiliating need may demand; I consider rather that large sweep of tendency which was already apparent fifteen years after the Franco-Prussian War. An approach in taste, manners and expression well defined during our undergraduate years, has now introduced much of our inmost life to the French, to us already a hint of their philosophy.
 
 I think you believe, as I do, that the return has begun.
 
-We shall not live to see that fine unity of the west which lent the latter seventeenth and eighteenth centuries their classical repose. No common rule of verse or prose will satisfy men’s permanent desire for harmony: no common rule of manners, of honour, of international ethics, of war. We shall not live to see, though we are young now, a [[Paris]] reading some new Locke or Hume, a London moved to attentive delight in some latter trinity of Dramatists, some future [[Voltaire]].... The high, protected class, which moved at ease between the Capitals of the World, has disappeared; that which should take its place is not yet formed. We are both of that one [[Faith]] which can but regard our Christendom as the front of mankind and which, therefore, looks forward, as to a necessary goal, to the re-establishment of its common comprehension. But the reversion to such stability is slow. We shall not live to see it.
+We shall not live to see that fine unity of the west which lent the latter seventeenth and eighteenth centuries their classical repose. No common rule of verse or prose will satisfy men’s permanent desire for harmony: no common rule of manners, of honour, of international ethics, of war. We shall not live to see, though we are young now, a [[settings/paris|Paris]] reading some new Locke or Hume, a London moved to attentive delight in some latter trinity of Dramatists, some future [[historical-references/voltaire|Voltaire]].... The high, protected class, which moved at ease between the Capitals of the World, has disappeared; that which should take its place is not yet formed. We are both of that one [[concepts/faith|Faith]] which can but regard our Christendom as the front of mankind and which, therefore, looks forward, as to a necessary goal, to the re-establishment of its common comprehension. But the reversion to such stability is slow. We shall not live to see it.
 
 It is none the less our duty (if I may use a word of so unsavoury a connotation) to advance the accomplishment of this good fatality.
 
@@ -2352,13 +2352,13 @@ With us, I fear, that endeavour must take a literary form, but such a channel is
 
 We have observed together that the balance in this matter is heavily against the English. M. Jusserand is easily the first authority upon popular life in England at the close of the middle ages. M. Boutmy has produced an analysis of our political development which our Universities have justly recognized. Our friend M. Angellier of the École Normale has written what is acknowledged by the more learned Scotch to be the principal existing monograph upon Robert Burns; Mr. Kipling himself has snatched the attention of M. Chevrillon. You know how many names might be added to this list to prove the close, applied and penetrating manner in which French scholars have latterly presented our English writers to their fellow-citizens.
 
-We have both believed that something of the sort might be attempted in the converse; that a view could be given — a glimpse at least — of that vast organism whose foundations are in Rome, Coeval with the [[Spring|spring]] of Christianity, and whose last growth seems as vigorous and as fecund as though it were exempt from any laws of age.
+We have both believed that something of the sort might be attempted in the converse; that a view could be given — a glimpse at least — of that vast organism whose foundations are in Rome, Coeval with the [[motifs/spring|spring]] of Christianity, and whose last growth seems as vigorous and as fecund as though it were exempt from any laws of age.
 
 But, I say, we know how heavy is the balance against us.
 
 The Gallic ritual is unrecognized, even by our over-numerous class of clerical antiquarians. The Carolingian cycle is neglected, save perhaps for a dozen men who have seen the Song of Roland. The Complaints of Rusteboeuf, the Fabliaux, all the local legendary poetry, all the chroniclers (save Froissart — for he wrote of us), the tender simplicity of Joinville, the hard steel of Villehardouin, no one has handled.
 
-The fifteenth century, the storm of the [[Renaissance]], are not taught. Why, [[Rabelais]] himself might be but an unfamiliar name had not a northern squire of genius rendered to the life three quarters of his work.
+The fifteenth century, the storm of the [[historical-references/renaissance|Renaissance]], are not taught. Why, [[historical-references/rabelais|Rabelais]] himself might be but an unfamiliar name had not a northern squire of genius rendered to the life three quarters of his work.
 
 The list is interminable. Even the great Drama of the great century is but a text for our schools leaving no sort of trace upon the mind: and as for the French moderns (I have heard it from men of liberal education) they are denied to have written any poetry at all: so exact, so subtle, so readily to be missed, are the proportions of their speech.
 
@@ -2368,7 +2368,7 @@ Your learning, my singular adventure, have increased in us, it must be confessed
 
 Indeed, if anything of France is to be explained in English and to people reading English, I could not desire a better alliance than yours and mine.
 
-But if you ask me why the [[Renaissance]] especially — or why in the [[Renaissance]] these six poets alone — should have formed the subject of my first endeavour, I can only tell you that in so vast a province, whereof the most ample leisure could not in a lifetime exhaust a tithe, Chance, that happy Goddess, led me at random to their groves.
+But if you ask me why the [[historical-references/renaissance|Renaissance]] especially — or why in the [[historical-references/renaissance|Renaissance]] these six poets alone — should have formed the subject of my first endeavour, I can only tell you that in so vast a province, whereof the most ample leisure could not in a lifetime exhaust a tithe, Chance, that happy Goddess, led me at random to their groves.
 
 Whether it will be possible to continue such interpretation I do not know, but if it be so possible, I know still less what next may be put into my hands: Racine, perhaps, may call me, or those forgotten men who urged the Revolution with phrases of fire.
 
@@ -2383,9 +2383,9 @@ Dedica
 
 TO
 
-# F.Y. Eccles
+F.Y. Eccles
 
-#Mio caro Eccles
+Mio caro Eccles
 
 So che mi permetterete di rivolgervi questi saggi, i quali rappresentano piuttosto il frutto della vostra erudizione che del mio entusiasmo.
 
@@ -2393,17 +2393,17 @@ Con i motivi che stanno alla base della loro apparizione, siete già familiari.
 
 Abbiamo riflettuto insieme su come una società così desiderosa di esperienze e di crescita come la nostra possa ignorare l’espressione principale del suo vicino più stretto, del suo principale rivale e del suo coerede in Europa: intendo dire, la letteratura francese.
 
-Abbiamo riso insieme, non senza disperazione, vedendo come la mente dell’Inghilterra, per tutta la sua maestosità e ampiezza, nei momenti più critici della politica della [[France|Francia]] fosse influenzata da residenti di [[Paris|Parigi]] che, nel migliore dei casi, erano fanatici; nel peggiore (e più comune) erano corrotti.
+Abbiamo riso insieme, non senza disperazione, vedendo come la mente dell’Inghilterra, per tutta la sua maestosità e ampiezza, nei momenti più critici della politica della [[settings/france|Francia]] fosse influenzata da residenti di [[settings/paris|Parigi]] che, nel migliore dei casi, erano fanatici; nel peggiore (e più comune) erano corrotti.
 
-Vedendo intorno a noi una filosofia e un metodo tratti dalla Germania settentrionale, una vera e sottile simpatia verso gli italiani, nonché un commento costante, giusto e accurato sulle minoranze nazionali d’Europa, insieme a un’enorme quantità di resoconti di viaggio di gran lunga superiori a quelli di altri paesi, ci meravigliavamo che proprio la [[France|Francia]] fosse rimasta sconosciuta.
+Vedendo intorno a noi una filosofia e un metodo tratti dalla Germania settentrionale, una vera e sottile simpatia verso gli italiani, nonché un commento costante, giusto e accurato sulle minoranze nazionali d’Europa, insieme a un’enorme quantità di resoconti di viaggio di gran lunga superiori a quelli di altri paesi, ci meravigliavamo che proprio la [[settings/france|Francia]] fosse rimasta sconosciuta.
 
-Nella nostra giovinezza, eravamo disposti a interpretare questo enigma con soluzioni piuttosto semplicistiche. Penso che ora ognuno di noi sia giunto, in modo definitivo, alla conclusione più ragionevole: il responsabile principale di quanto è accaduto è l’incidente storico. La coincidenza casuale tra questa sconfitta e quell’influenza dinastica, l’errore commesso dal buon senso politico in Inghilterra che lo fece perdere l’equilibrio, le straordinarie attività industriali di questo paese, protette da una [[Tradition|tradizione]] di disciplina politica unica nella storia; il contemporaneo raggiungimento da parte della [[France|Francia]] di un equilibrio di potere – un equilibrio ottenuto a prezzo di cinque feroci guerre civili e forse centinaia di campagne militari – tutto ciò ha reso impossibile che Francia comprendesse appieno i destini e la natura dell’Inghilterra, così come è stato impossibile per l’Inghilterra riconoscere l’enorme energia e il genio della Francia: nonostante queste qualità stessero crescendo giorno dopo giorno, proprio accanto a noi.
+Nella nostra giovinezza, eravamo disposti a interpretare questo enigma con soluzioni piuttosto semplicistiche. Penso che ora ognuno di noi sia giunto, in modo definitivo, alla conclusione più ragionevole: il responsabile principale di quanto è accaduto è l’incidente storico. La coincidenza casuale tra questa sconfitta e quell’influenza dinastica, l’errore commesso dal buon senso politico in Inghilterra che lo fece perdere l’equilibrio, le straordinarie attività industriali di questo paese, protette da una [[concepts/tradition|tradizione]] di disciplina politica unica nella storia; il contemporaneo raggiungimento da parte della [[settings/france|Francia]] di un equilibrio di potere – un equilibrio ottenuto a prezzo di cinque feroci guerre civili e forse centinaia di campagne militari – tutto ciò ha reso impossibile che Francia comprendesse appieno i destini e la natura dell’Inghilterra, così come è stato impossibile per l’Inghilterra riconoscere l’enorme energia e il genio della Francia: nonostante queste qualità stessero crescendo giorno dopo giorno, proprio accanto a noi.
 
-Abbiamo assistito ad alcuni tentativi di superare tali barriere. Un lungo periodo di pace, la sterilità della Germania, le attività significative della [[Catholic Church|Chiesa Cattolica]] forse non hanno ancora modificato la situazione, ma hanno almeno turbato il pensiero del Nord, e anche il nostro, essendo noi un popolo settentrionale. L’unità, il patriottismo appassionato, la struttura oligarchica stretta, persino il silenzio degli inglesi hanno attirato l’attenzione della Francia. Secondo una legge universale che lega i vari elementi in un unico sistema, un’estrema separazione ha finito per generare il proprio rimedio: è iniziato quindi un ritorno verso un’unione più stretta. Non mi riferisco a manifestazioni effimere e artificiali, richieste da esigenze particolari o talvolta umilianti; piuttosto, parlo di quella vasta tendenza che era già evidente quindici anni dopo la guerra franco-prussiana. Un avvicinamento nei gusti, nei modi e nell’espressione, emerso durante i nostri anni universitari, ha ormai introdotto gran parte della nostra vita più intima nel mondo francese; per noi, questo rappresenta già un indizio della loro filosofia.
+Abbiamo assistito ad alcuni tentativi di superare tali barriere. Un lungo periodo di pace, la sterilità della Germania, le attività significative della [[historical-references/catholic-church|Chiesa Cattolica]] forse non hanno ancora modificato la situazione, ma hanno almeno turbato il pensiero del Nord, e anche il nostro, essendo noi un popolo settentrionale. L’unità, il patriottismo appassionato, la struttura oligarchica stretta, persino il silenzio degli inglesi hanno attirato l’attenzione della Francia. Secondo una legge universale che lega i vari elementi in un unico sistema, un’estrema separazione ha finito per generare il proprio rimedio: è iniziato quindi un ritorno verso un’unione più stretta. Non mi riferisco a manifestazioni effimere e artificiali, richieste da esigenze particolari o talvolta umilianti; piuttosto, parlo di quella vasta tendenza che era già evidente quindici anni dopo la guerra franco-prussiana. Un avvicinamento nei gusti, nei modi e nell’espressione, emerso durante i nostri anni universitari, ha ormai introdotto gran parte della nostra vita più intima nel mondo francese; per noi, questo rappresenta già un indizio della loro filosofia.
 
 Penso che tu creda, proprio come me, che il ritorno sia già iniziato.
 
-Non vivremo abbastanza a lungo per assistere a quella grande unità dell’Occidente che ha conferito ai secoli XVII e XVIII il loro carattere classico e armonioso. Nessuna regola comune per la poesia o la prosa potrà soddisfare il desiderio permanente degli esseri umani di armonia; né alcuna regola comune per i comportamenti, l’onore, l’etica internazionale o le guerre. Non vivremo abbastanza a lungo, anche se siamo ancora giovani, per vedere una [[Paris|Parigi]] che legge nuovi scritti di Locke o Hume, una Londra commossa e incantata da qualche nuova opera di drammaturghi, o un futuro [[Voltaire]]. Quella classe elevata e protetta che un tempo si spostava liberamente tra le capitali del mondo è scomparsa; ciò che dovrebbe prendere il suo posto non è ancora stato formato. Entrambi apparteniamo a quella fede che considera la nostra cristianità come l’avanguardia dell’umanità e che, pertanto, aspira al ripristino di un’unione comune tra tutti i popoli del mondo. Ma il ritorno a tale stabilità è lento. Non vivremo abbastanza a lungo per vederlo realizzarsi.
+Non vivremo abbastanza a lungo per assistere a quella grande unità dell’Occidente che ha conferito ai secoli XVII e XVIII il loro carattere classico e armonioso. Nessuna regola comune per la poesia o la prosa potrà soddisfare il desiderio permanente degli esseri umani di armonia; né alcuna regola comune per i comportamenti, l’onore, l’etica internazionale o le guerre. Non vivremo abbastanza a lungo, anche se siamo ancora giovani, per vedere una [[settings/paris|Parigi]] che legge nuovi scritti di Locke o Hume, una Londra commossa e incantata da qualche nuova opera di drammaturghi, o un futuro [[historical-references/voltaire|Voltaire]]. Quella classe elevata e protetta che un tempo si spostava liberamente tra le capitali del mondo è scomparsa; ciò che dovrebbe prendere il suo posto non è ancora stato formato. Entrambi apparteniamo a quella fede che considera la nostra cristianità come l’avanguardia dell’umanità e che, pertanto, aspira al ripristino di un’unione comune tra tutti i popoli del mondo. Ma il ritorno a tale stabilità è lento. Non vivremo abbastanza a lungo per vederlo realizzarsi.
 
 Tuttavia, è nostro dovere (se posso usare una parola con una connotazione così poco piacevole) promuovere la realizzazione di questo “buon destino”.
 
@@ -2413,13 +2413,13 @@ Temo che, con noi, tale sforzo debba assumere una forma letteraria; tuttavia, un
 
 Abbiamo osservato insieme che l’equilibrio in questa questione è decisamente a sfavore degli inglesi. Il signor Jusserand rappresenta senza dubbio la principale autorità riguardo alla vita popolare in Inghilterra alla fine del Medioevo. Il signor Boutmy ha fornito un’analisi dello sviluppo politico del nostro paese, riconosciuta giustamente dalle nostre università. Il nostro amico, il signor Angellier dell’École Normale, ha scritto quella che i più eruditi scozzesi considerano la principale monografia esistente su Robert Burns; lo stesso signor Kipling ha attirato l’attenzione del signor Chevrillon. Sapete bene quanti altri nomi si potrebbero aggiungere a questa lista per dimostrare in che modo gli studiosi francesi abbiano presentato i nostri scrittori inglesi ai loro connazionali, con un approccio attento e approfondito.
 
-Entrambi abbiamo creduto che si potesse tentare qualcosa del genere anche al contrario; che fosse possibile ottenere almeno un’idea, una visione fugace di quell’enorme organismo il cui fondamento risale a Roma, coeva alla [[Spring|origine]] del Cristianesimo, e la cui crescita ultima sembra essere altrettanto vigorosa e feconda, come se fosse esente da ogni legge dell’invecchiamento.
+Entrambi abbiamo creduto che si potesse tentare qualcosa del genere anche al contrario; che fosse possibile ottenere almeno un’idea, una visione fugace di quell’enorme organismo il cui fondamento risale a Roma, coeva alla [[motifs/spring|origine]] del Cristianesimo, e la cui crescita ultima sembra essere altrettanto vigorosa e feconda, come se fosse esente da ogni legge dell’invecchiamento.
 
 Ma, dico io, sappiamo quanto sia sfavorevole la situazione per noi.
 
 Il rituale gallico non è riconosciuto nemmeno dalla nostra numerosa classe di antiquari clericali. Il ciclo carolingio viene trascurato, tranne forse da una dozzina di persone che hanno letto il Canto di Rolando. Le Lamentazioni di Rusteboeuf, i Fabliaux, tutta la poesia leggendaria locale, tutti gli storici (tranne Froissart – poiché scrisse di noi), la tenera semplicità di Joinville, la ferrea determinazione di Villehardouin: nessuno si è mai occupato di questi materiali.
 
-Il XV secolo, la tempesta della [[Renaissance|>Rinascita]], non vengono insegnati. Perché, anche il nome di [[Rabelais]] potrebbe risultare sconosciuto, se non fosse stato per un nobile del nord dal grande talento che ha reso vivi tre quarti delle sue opere.
+Il XV secolo, la tempesta della [[historical-references/renaissance|>Rinascita]], non vengono insegnati. Perché, anche il nome di [[historical-references/rabelais|Rabelais]] potrebbe risultare sconosciuto, se non fosse stato per un nobile del nord dal grande talento che ha reso vivi tre quarti delle sue opere.
 
 L’elenco è interminabile. Anche il grande Dramma del grande secolo non è altro che un testo utilizzato nelle nostre scuole, che non lascia alcuna traccia nella mente degli studenti; quanto ai moderni francesi (l’ho sentito dire da persone con una cultura liberale), si nega addirittura che abbiano scritto poesie: le proporzioni del loro linguaggio sono così precise, così sottili, e quindi così facilmente trascurabili.
 
@@ -2429,7 +2429,7 @@ Il vostro apprendimento, la mia singolare avventura, hanno suscitato in noi, bis
 
 Infatti, se c'è qualcosa della Francia che debba essere spiegato in inglese e alle persone che leggono in inglese, non potrei desiderare un'alleanza migliore della vostra.
 
-Ma se mi chiedete perché proprio la [[Renaissance|Rinascita]] – o perché proprio in quella epoca questi sei poeti in particolare – siano diventati l’oggetto del mio primo tentativo di studio, posso solo dirvi che in una sfera così vasta, dove nemmeno il massimo impegno potrebbe esaurirne in una vita un decimo, la Fortuna, quella felice dea, mi ha guidato casualmente verso i loro scritti.
+Ma se mi chiedete perché proprio la [[historical-references/renaissance|Rinascita]] – o perché proprio in quella epoca questi sei poeti in particolare – siano diventati l’oggetto del mio primo tentativo di studio, posso solo dirvi che in una sfera così vasta, dove nemmeno il massimo impegno potrebbe esaurirne in una vita un decimo, la Fortuna, quella felice dea, mi ha guidato casualmente verso i loro scritti.
 
 Non so se sarà possibile continuare con tale interpretazione, ma anche nel caso fosse possibile, non ho la minima idea di cosa potrebbe essere messo poi nelle mie mani: forse Racine mi chiamerà, o quegli uomini dimenticati che hanno spinto la Rivoluzione con frasi appassionate.
 
@@ -2446,27 +2446,27 @@ CHARLES OF ORLEANS.
 
 I PUT DOWN Charles of Orleans here as the first representative of that long glory which it is the business of this little book to recall: but to give him such a place at the threshold requires some apology.
 
-The origins of a literary epoch differ according as that epoch is primal or derivative. There are those edifices of letters which start up, not indeed out of nothing, but out of things wholly different. Produced by a shock or a revelation, as two gases lit will, in a sharp explosion, unite to form a liquid wholly unlike either, so after a great conquest, a battle, the sudden preaching of a creed, these primal literatures appear in an epic or a dithyrambic code of awful law. Their first effort is their mightiest. They come mature. They are allied to that element of the catastrophic which the modern world (taking its general philosophy from its social condition) denies, but which is yet at the limits of all things separate and themselves; accompanies every birth, and strikes agony into every transition of [[Death|death]].
+The origins of a literary epoch differ according as that epoch is primal or derivative. There are those edifices of letters which start up, not indeed out of nothing, but out of things wholly different. Produced by a shock or a revelation, as two gases lit will, in a sharp explosion, unite to form a liquid wholly unlike either, so after a great conquest, a battle, the sudden preaching of a creed, these primal literatures appear in an epic or a dithyrambic code of awful law. Their first effort is their mightiest. They come mature. They are allied to that element of the catastrophic which the modern world (taking its general philosophy from its social condition) denies, but which is yet at the limits of all things separate and themselves; accompanies every birth, and strikes agony into every transition of [[motifs/death|death]].
 
 Those other much commoner epochs in the history of letters, which may be called derivative, have this current and obvious quality, that their beginnings merge into the soil that bred them, also (very often) their decay will lapse imperceptibly into newer things. They are quite definite, but also definitely parented. We know their special stuff and harmony, but we can point out clearly enough the elements which formed that stuff, the tones which unite in that harmony. We can show with dates and citations the parts meeting and blending; our difficulty is not to determine the influences which have mixed to make the general school, but rather to fix the beginning and the end of its effect upon men.
 
 In the first of these the leader, sometimes the unique example of the school, stands out great, but particular and clear, on a background vague or dark. He is as stupendous, yet as sharp and certain, as a mountain facing the morning, with only sky behind. In the second the originator, if there be one, is vague, tentative, perhaps unknown. More often many minor men together introduce a slow and general transition.
 
-Now the French [[Renaissance]] has this peculiar mark, that it holds quite plainly by one side of it to the first by the other to the second of these spirits.
+Now the French [[historical-references/renaissance|Renaissance]] has this peculiar mark, that it holds quite plainly by one side of it to the first by the other to the second of these spirits.
 
 It was primal and catastrophic in that it made something completely new. A new architecture, new cities, a new poetry, almost a new language, a new kind of government — ultimately the modern world.
 
-It was derivative in that the shock, the revelation, which produced it, was the return of something allied to the French blood, something rooted in the French memory. Rome surviving or risen had made that Italy, which was now beginning to trouble the Alps, and would surely creep in by every channel of influence, and at last pervade all Europe. Rome, also, in her full vigour, had once framed and ordered Gaul. The French of the [[Renaissance]] were woken suddenly, but as they started they recognized the face and the hand of the awakener.
+It was derivative in that the shock, the revelation, which produced it, was the return of something allied to the French blood, something rooted in the French memory. Rome surviving or risen had made that Italy, which was now beginning to trouble the Alps, and would surely creep in by every channel of influence, and at last pervade all Europe. Rome, also, in her full vigour, had once framed and ordered Gaul. The French of the [[historical-references/renaissance|Renaissance]] were woken suddenly, but as they started they recognized the face and the hand of the awakener.
 
-On this account you will find one mind indeed at the very beginning of the change in letters, but not a dominating mind. There is but one man who is certainly an origin, but he is not a master. You see an unique and single personality, distinct but without force, founding no school — the grave, abiding, kind but covert face of Charles of Orleans. He, linked to the French [[Renaissance]], is like the figure of a gentle friend playing in some garden with a child whose manners are new and pleasing to him, but of whose great destiny he makes no guess. That child was to be Du Bellay, Brantome, Montaigne a hundred-sided, huge [[Rabelais]], Ronsard. Or perhaps this metaphor will put it better. To say that Charles of Orleans’s equal and persistent music was like a string harped on distinctly in a chorus of flutes and hautboys, till one by one harps from here and there caught up the similar tang of chords and at last the whole body of sound was harping only.
+On this account you will find one mind indeed at the very beginning of the change in letters, but not a dominating mind. There is but one man who is certainly an origin, but he is not a master. You see an unique and single personality, distinct but without force, founding no school — the grave, abiding, kind but covert face of Charles of Orleans. He, linked to the French [[historical-references/renaissance|Renaissance]], is like the figure of a gentle friend playing in some garden with a child whose manners are new and pleasing to him, but of whose great destiny he makes no guess. That child was to be Du Bellay, Brantome, Montaigne a hundred-sided, huge [[historical-references/rabelais|Rabelais]], Ronsard. Or perhaps this metaphor will put it better. To say that Charles of Orleans’s equal and persistent music was like a string harped on distinctly in a chorus of flutes and hautboys, till one by one harps from here and there caught up the similar tang of chords and at last the whole body of sound was harping only.
 
-His life was suited to such difference and such origination. Italy, still living, filled him. An Italian secretary wrote from his mouth the most sumptuous of his manuscripts. He banded on Italy as a goal and his Italian land as a legacy to the French crown — to his own son; till (years after his [[Death|death]]) the soldiers roared through Briançon and broke the crusted snow of Mont Genèvre. An Italian mother, the most beautiful of the Viscontis, come out of Italy, rich in her land of Asti and her half million of pure gold, had borne him in her youth to the King of [[France]]’s brother: a man luxurious, over fine, exact in taste, a lover of magnificence in stories and words, decadent in a dying time, very brave. Through that father the Valois blood, unjustly hated or still more unjustly despised according to the varied ignorance of modern times, ran in him nobly.
+His life was suited to such difference and such origination. Italy, still living, filled him. An Italian secretary wrote from his mouth the most sumptuous of his manuscripts. He banded on Italy as a goal and his Italian land as a legacy to the French crown — to his own son; till (years after his [[motifs/death|death]]) the soldiers roared through Briançon and broke the crusted snow of Mont Genèvre. An Italian mother, the most beautiful of the Viscontis, come out of Italy, rich in her land of Asti and her half million of pure gold, had borne him in her youth to the King of [[settings/france|France]]’s brother: a man luxurious, over fine, exact in taste, a lover of magnificence in stories and words, decadent in a dying time, very brave. Through that father the Valois blood, unjustly hated or still more unjustly despised according to the varied ignorance of modern times, ran in him nobly.
 
 Take the Valois strain entire and you will find the pomp or rather the fantasy of their great palace of St. Paul; turrets and steep blue roofs of slate, carved woodwork, heavy curtains, and incense and shining bronze. The Valois were, indeed, the end of the middle ages. Some cruelty, a fury in battle, intelligence and madness alternately, and always a sort of keenness which becomes now revenge, now foresight, now intrigue, now strict and terrible government: at last a wild adventure out beyond the hills: Fornovo, Pavia.
 
 Their story is like the manuscripts, which beyond all other things they loved and collected, and which they were the last to possess or to have made; for while it contains in vivid pictures the noblest and the basest subjects: (Joan of Arc and also her betrayal, their country dominant and almost engulfed, Marigano, and then again Pavia) it always glitters with hard enamelled colours against skies of gold, and is drawn and sharp and clean as a thing can be.
 
-Such is the whole line, but look at this one Valois and you see all the qualities of his race toned by a permanent sadness down to a good and even temper, not hopeful but still delighting in [[Beauty|beauty]] and possessed as no other Valois had been of charity. Less passionate and therefore much less eager and useful than most of his race, yet the taint of madness never showed in him, nor the corresponding evil of cruelty, nor the uncreative luxury of his immediate ancestry. All the Valois were poets in their kind; his life by its every accident caused him to write. At fifteen they wedded him to that lovely child whom Richard II had lifted in his arms at Windsor as he rode out in fatal pomp for Ireland. Three years later, when their marriage was real, she died in childbirth, and it is to her I think that he wrote in his prison the ballad which ends:
+Such is the whole line, but look at this one Valois and you see all the qualities of his race toned by a permanent sadness down to a good and even temper, not hopeful but still delighting in [[concepts/beauty|beauty]] and possessed as no other Valois had been of charity. Less passionate and therefore much less eager and useful than most of his race, yet the taint of madness never showed in him, nor the corresponding evil of cruelty, nor the uncreative luxury of his immediate ancestry. All the Valois were poets in their kind; his life by its every accident caused him to write. At fifteen they wedded him to that lovely child whom Richard II had lifted in his arms at Windsor as he rode out in fatal pomp for Ireland. Three years later, when their marriage was real, she died in childbirth, and it is to her I think that he wrote in his prison the ballad which ends:
 
 Dieu sur tout souverain seigneur
 
@@ -2484,7 +2484,7 @@ Mon très bon hôte et ma très douce hôtesse.
 
 For his life as a prisoner, though melancholy, was not undignified; he paid no allegiance, he met the men of his own rank, nor was he of a kind to whom poverty, the chief thorn of his misfortune, brought dishonour.
 
-Henry V had left it strictly in his will that Orleans the general and the head of the French nationals should not return. For twenty-five years, therefore — all his manhood — he lived under this sky, rhyming and rhyming: in English a little, in French continually, and during that isolation there swept past him far off in his own land the defence, the renewal, the triumph of his own blood: his town relieved, his cousin crowned at Rheims. His river of Loire, and then the Eure, and then the Seine, and even the field where he had fallen were reconquered. Willoughby had lost [[Paris]] to Richemont four years before Charles of Orleans was freed on a ransom of half his mother’s fortune. It was not until the November of 1440 that he saw his country-side again.
+Henry V had left it strictly in his will that Orleans the general and the head of the French nationals should not return. For twenty-five years, therefore — all his manhood — he lived under this sky, rhyming and rhyming: in English a little, in French continually, and during that isolation there swept past him far off in his own land the defence, the renewal, the triumph of his own blood: his town relieved, his cousin crowned at Rheims. His river of Loire, and then the Eure, and then the Seine, and even the field where he had fallen were reconquered. Willoughby had lost [[settings/paris|Paris]] to Richemont four years before Charles of Orleans was freed on a ransom of half his mother’s fortune. It was not until the November of 1440 that he saw his country-side again.
 
 The verse formed in that long endurance (a style which he preserved to the end in the many poems after his release) may seem at a first reading merely mediæval. There is wholly lacking in it the riot of creation, nor can one see at first the Renaissance coming in with Charles of Orleans.
 
@@ -2504,7 +2504,7 @@ Tirez, tirez bombardes, serpentines, Canons!
 
 Whatever the cause, this spontaneity and freshness run through all the mass of short and similar work which he wrote down.
 
-The [[Spring|spring]] and sureness, the poise of these light nothings make them a flight of birds.
+The [[motifs/spring|spring]] and sureness, the poise of these light nothings make them a flight of birds.
 
 See how direct is this:
 
@@ -2522,7 +2522,7 @@ Au point du jour advint que je sonjeay.
 
 Everywhere his words make tunes for themselves and everywhere he himself appears in his own verses, simple, charming, slight, but with memories of government and of arms.
 
-This style well formed, half his verse written, he returned to his own place. He was in middle age — a man of fifty. He married soberly enough Mary of Cleves, ugly and young: he married her in order to cement the understanding with Burgundy. She did not love him with his shy florid face, long neck and features and mild eyes. His age for twenty-five years passed easily, he had reached his “castle of No Care.” As late as 1462 his son (Louis XII) was born; his two daughters at long intervals before. His famous library moved with him as he went from town to town, and perpetually from himself and round him from his retinue ran the continual stream of verse which only ended with his [[Death|death]]. His very doctor he compelled to rhyme.
+This style well formed, half his verse written, he returned to his own place. He was in middle age — a man of fifty. He married soberly enough Mary of Cleves, ugly and young: he married her in order to cement the understanding with Burgundy. She did not love him with his shy florid face, long neck and features and mild eyes. His age for twenty-five years passed easily, he had reached his “castle of No Care.” As late as 1462 his son (Louis XII) was born; his two daughters at long intervals before. His famous library moved with him as he went from town to town, and perpetually from himself and round him from his retinue ran the continual stream of verse which only ended with his [[motifs/death|death]]. His very doctor he compelled to rhyme.
 
 All the singers of the time visited or remained with him — wild Villon for a moment, and after Villon a crowd of minor men. It was in such a company that he recited the last ironical but tender song wherein he talks of his lost youth and vigour and ends by bidding all present a salute in the name of his old age.
 
@@ -2535,35 +2535,35 @@ Carlo d’Orléans.
 
 Qui presento Carlo d’Orléans come il primo rappresentante di quella lunga gloria che questo piccolo libro ha lo scopo di ricordare; tuttavia, assegnargli un posto così importante all’inizio del racconto richiede qualche spiegazione.
 
-Le origini di un'epoca letteraria variano a seconda che tale epoca sia primordiale o derivata. Esistono opere letterarie che nascono, se non proprio dal nulla, almeno da elementi del tutto diversi. generate da uno shock o da una rivelazione – come due gas che, in un’esplosione improvvisa, si uniscono per formare un liquido completamente nuovo – queste opere primordiali emergono sotto forma di poemi epici o inni lirici che rappresentano leggi terribili e definitive. Il loro primo tentativo è anche il più potente; nascono mature, collegate a quell’aspetto “catastrofico” della realtà che il mondo moderno (che trae la sua filosofia generale dalla propria condizione sociale) nega, ma che in realtà accompagna ogni nascita e provoca angoscia in ogni transizione verso la [[Death|morte]].
+Le origini di un'epoca letteraria variano a seconda che tale epoca sia primordiale o derivata. Esistono opere letterarie che nascono, se non proprio dal nulla, almeno da elementi del tutto diversi. generate da uno shock o da una rivelazione – come due gas che, in un’esplosione improvvisa, si uniscono per formare un liquido completamente nuovo – queste opere primordiali emergono sotto forma di poemi epici o inni lirici che rappresentano leggi terribili e definitive. Il loro primo tentativo è anche il più potente; nascono mature, collegate a quell’aspetto “catastrofico” della realtà che il mondo moderno (che trae la sua filosofia generale dalla propria condizione sociale) nega, ma che in realtà accompagna ogni nascita e provoca angoscia in ogni transizione verso la [[motifs/death|morte]].
 
 Quegli altri periodi, molto più comuni nella storia della letteratura e che potrebbero essere definiti “derivati”, presentano questa caratteristica evidente e immediata: le loro origini si fondono con il terreno che li ha generati, e allo stesso modo (molto spesso) la loro decadenza si inserisce in modo impercettibile nel flusso delle cose nuove. Sono periodi ben definiti, ma anche chiaramente legati a quelli precedenti. Conosciamo le loro caratteristiche specifiche e l’armonia che le contraddistingue, e possiamo individuare con chiarezza gli elementi che ne hanno formato la struttura, i toni che contribuiscono a quella armonia. Possiamo dimostrare, attraverso date e citazioni, quali parti si sono incontrate e fuse tra loro; la nostra difficoltà non consiste nel individuare le influenze che hanno contribuito a formare quel movimento culturale, ma piuttosto nel stabilire con precisione l’inizio e la fine del suo impatto sugli esseri umani.
 
 Nel primo di questi casi, il leader – a volte l’esempio unico della sua epoca – emerge in modo evidente e chiaro su uno sfondo vago o oscuro; è tanto straordinario quanto deciso e sicuro, come una montagna rivolta verso l’alba, con soltanto il cielo alle sue spalle. Nel secondo caso, l’autore di quel cambiamento – se esiste davvero – rimane indefinito, incerto, forse addirittura sconosciuto; più spesso, sono molte persone di rilievo minore a contribuire insieme a un processo di transizione lento e graduale.
 
-Ora la [[Renaissance|Rinascita]] francese presenta questa caratteristica particolare: da un lato è strettamente legata al primo di questi spiriti, dall’altro al secondo.
+Ora la [[historical-references/renaissance|Rinascita]] francese presenta questa caratteristica particolare: da un lato è strettamente legata al primo di questi spiriti, dall’altro al secondo.
 
 Era qualcosa di primordiale e catastrofico, poiché creava qualcosa di completamente nuovo: una nuova architettura, nuove città, una nuova poesia, quasi un nuovo linguaggio, un nuovo tipo di governo. In definitiva, il mondo moderno.
 
-Era un fenomeno derivato: lo shock, la rivelazione che lo aveva scatenato, derivavano dal ritorno di qualcosa legato al sangue francese, di qualcosa radicato nella memoria francese. La sopravvivenza o il risorgere di Roma avevano reso l’Italia un pericolo per le Alpi; sicuramente avrebbe invaso ogni canale di influenza e, alla fine, avrebbe pervaso tutta Europa. Anche Roma, nel suo pieno vigore, un tempo aveva plasmato e ordinato la Gallia. I francesi del [[Renaissance|Rinascimento]] furono improvvisamente risvegliati, ma riconobbero subito il volto e la mano di colui che li aveva destati.
+Era un fenomeno derivato: lo shock, la rivelazione che lo aveva scatenato, derivavano dal ritorno di qualcosa legato al sangue francese, di qualcosa radicato nella memoria francese. La sopravvivenza o il risorgere di Roma avevano reso l’Italia un pericolo per le Alpi; sicuramente avrebbe invaso ogni canale di influenza e, alla fine, avrebbe pervaso tutta Europa. Anche Roma, nel suo pieno vigore, un tempo aveva plasmato e ordinato la Gallia. I francesi del [[historical-references/renaissance|Rinascimento]] furono improvvisamente risvegliati, ma riconobbero subito il volto e la mano di colui che li aveva destati.
 
-Per questo motivo, all’inizio stesso di quel cambiamento nelle lettere, si riscontra un’unica volontà, ma non una volontà dominante. C’è soltanto una persona che rappresenta sicuramente l’origine di tutto ciò, ma non ne è il padrone. Si vede una personalità unica e indivisibile, distinta ma priva di forza, che non fonda alcuna scuola di pensiero: il volto serio, mite e discreto di Carlo d’Orléans. Lui, legato al [[Renaissance|Rinascimento]] francese, è come l’immagine di un amico gentile che gioca in un giardino con un bambino i cui modi sono nuovi e piacevoli per lui, ma del quale non indovina alcun grande destino. Quel bambino sarebbe diventato Du Bellay, Brantôme, Montaigne, il poliedrico e imponente [[Rabelais]], Ronsard. O forse questa metafora lo esprime meglio ancora: dire che la musica costante e uniforme di Carlo d’Orléans era come una corda suonata chiaramente in un coro di flauti e oboi, finché uno dopo l’altro altri strumenti non presero a ripetere lo stesso ritmo delle note, fino a quando l’intero insieme sonoro divenne un’unica armonia.
+Per questo motivo, all’inizio stesso di quel cambiamento nelle lettere, si riscontra un’unica volontà, ma non una volontà dominante. C’è soltanto una persona che rappresenta sicuramente l’origine di tutto ciò, ma non ne è il padrone. Si vede una personalità unica e indivisibile, distinta ma priva di forza, che non fonda alcuna scuola di pensiero: il volto serio, mite e discreto di Carlo d’Orléans. Lui, legato al [[historical-references/renaissance|Rinascimento]] francese, è come l’immagine di un amico gentile che gioca in un giardino con un bambino i cui modi sono nuovi e piacevoli per lui, ma del quale non indovina alcun grande destino. Quel bambino sarebbe diventato Du Bellay, Brantôme, Montaigne, il poliedrico e imponente [[historical-references/rabelais|Rabelais]], Ronsard. O forse questa metafora lo esprime meglio ancora: dire che la musica costante e uniforme di Carlo d’Orléans era come una corda suonata chiaramente in un coro di flauti e oboi, finché uno dopo l’altro altri strumenti non presero a ripetere lo stesso ritmo delle note, fino a quando l’intero insieme sonoro divenne un’unica armonia.
 
-La sua vita era adatta a una tale diversità e a un tale origine. L’Italia, ancora viva, lo riempiva interamente. Un segretario italiano scriveva, attraverso le sue parole, i manoscritti più sontuosi che egli avesse mai prodotto. Poneva l’Italia come obiettivo della sua vita e considerava la sua terra italiana un lascito per la corona francese, per suo figlio stesso; fino a quando (anni dopo la sua [[Death|morte]]), i soldati irruppero a Briançon, spezzando lo strato di neve che ricopriva il Monte Genèvre. Una madre italiana, la più bella tra le Viscontesse, proveniente dall’Italia – ricca della sua terra di Asti e dei suoi mezzo milione di monete d’oro puro – lo aveva dato in sposo, nella sua giovinezza, al fratello del Re di [[France|Francia]]: un uomo lussuoso, raffinato, con un gusto squisito, amante della magnificenza nelle parole e nelle storie, decadente in un’epoca che moriva, ma molto coraggioso. Attraverso quel padre, il sangue dei Valois – odiato ingiustamente, o ancora più ingiustamente disprezzato a seconda dell’ignoranza dei tempi moderni – scorreva in lui in modo nobile.
+La sua vita era adatta a una tale diversità e a un tale origine. L’Italia, ancora viva, lo riempiva interamente. Un segretario italiano scriveva, attraverso le sue parole, i manoscritti più sontuosi che egli avesse mai prodotto. Poneva l’Italia come obiettivo della sua vita e considerava la sua terra italiana un lascito per la corona francese, per suo figlio stesso; fino a quando (anni dopo la sua [[motifs/death|morte]]), i soldati irruppero a Briançon, spezzando lo strato di neve che ricopriva il Monte Genèvre. Una madre italiana, la più bella tra le Viscontesse, proveniente dall’Italia – ricca della sua terra di Asti e dei suoi mezzo milione di monete d’oro puro – lo aveva dato in sposo, nella sua giovinezza, al fratello del Re di [[settings/france|Francia]]: un uomo lussuoso, raffinato, con un gusto squisito, amante della magnificenza nelle parole e nelle storie, decadente in un’epoca che moriva, ma molto coraggioso. Attraverso quel padre, il sangue dei Valois – odiato ingiustamente, o ancora più ingiustamente disprezzato a seconda dell’ignoranza dei tempi moderni – scorreva in lui in modo nobile.
 
 Prendete l’intera dinastia Valois e troverete tutta la pompa, o meglio, tutta la fantasia del loro grandioso palazzo di San Paolo: torri, tetti blu scuri in lastre di ardesia, intagli in legno, tende pesanti, incenso e bronzo lucido. I Valois furono davvero la fine del Medioevo: un po’ di crudeltà, una furia nei combattimenti, intelligenza e follia che si alternavano, e sempre una sorta di acume che a volte diventava vendetta, altre volta preveggenza, altre ancora intrighi, altre ancora un governo severo e terribile. Infine, un’avventura selvaggia al di là delle colline: Fornovo, Pavia.
 
 La loro storia è come quei manoscritti che, più di ogni altra cosa, amavano e collezionavano, e dei quali furono gli ultimi ad essere in possesso o ad averli creati; perché sebbene racconti, attraverso immagini vivide, i soggetti più nobili e quelli più bassi (Giovanna d’Arco e anche la sua tradizione, il loro paese dominante ma quasi sommerso, Marigano, e poi ancora Pavia), essa risplende sempre di colori intensi su fondali dorati, ed è disegnata in modo nitido, preciso e pulito, come solo una cosa del genere può essere.
 
-Ecco l’intera linea di discendenza; ma guardate questo Valois: in lui si riscontrano tutte le qualità della sua razza, temperate da una tristezza permanente che lo rende mite e gentile, non pieno di speranza, ma ancora capace di apprezzare la [[Beauty|bellezza]]; inoltre, possedeva una carità che nessun altro Valois aveva mai avuto. Meno appassionato, quindi molto meno ansioso e efficace della maggior parte dei suoi simili, tuttavia in lui non si manifestò mai il segno della follia, né la crudeltà che ne consegue, né quella forma di lusso sterile tipica dei suoi antenati. Tutti i Valois erano poeti nel loro genere; la sua vita, con ogni suo evento, lo spingeva a scrivere. A quindici anni fu unito in matrimonio a quella adorabile fanciulla che Riccardo II aveva tenuto tra le braccia a Windsor, mentre partiva con tutto lo sfarzo per l’Irlanda. Tre anni dopo, quando il loro matrimonio divenne effettivo, lei morì durante il parto. E credo proprio che sia a lei che scrisse in prigione quella ballata la cui conclusione suona così.
+Ecco l’intera linea di discendenza; ma guardate questo Valois: in lui si riscontrano tutte le qualità della sua razza, temperate da una tristezza permanente che lo rende mite e gentile, non pieno di speranza, ma ancora capace di apprezzare la [[concepts/beauty|bellezza]]; inoltre, possedeva una carità che nessun altro Valois aveva mai avuto. Meno appassionato, quindi molto meno ansioso e efficace della maggior parte dei suoi simili, tuttavia in lui non si manifestò mai il segno della follia, né la crudeltà che ne consegue, né quella forma di lusso sterile tipica dei suoi antenati. Tutti i Valois erano poeti nel loro genere; la sua vita, con ogni suo evento, lo spingeva a scrivere. A quindici anni fu unito in matrimonio a quella adorabile fanciulla che Riccardo II aveva tenuto tra le braccia a Windsor, mentre partiva con tutto lo sfarzo per l’Irlanda. Tre anni dopo, quando il loro matrimonio divenne effettivo, lei morì durante il parto. E credo proprio che sia a lei che scrisse in prigione quella ballata la cui conclusione suona così.
 
-# Dio sopra ogni sovrano signore
+Dio sopra ogni sovrano signore
 
 Ordinatemi con grazia e dolcezza
 
-# De l'âme d'elle, tantôt...
+De l'âme d'elle, tantôt...
 
-# Non sia troppo lunga
+Non sia troppo lunga
 
 In preda solo a preoccupazioni e dolore.
 
@@ -2573,7 +2573,7 @@ Mio molto buon ospite e mia molto dolce ospite.
 
 La sua vita da prigioniero, sebbene melanconica, non fu disonorevole; non giurò fedeltà a nessuno, incontrava persone della sua stessa condizione sociale, e non era il tipo di persona per cui la povertà, principale causa della sua sfortuna, avrebbe potuto portare disonore.
 
-Enrico V aveva stabilito con chiarezza nel suo testamento che il generale Orléans, capo dei nazionali francesi, non dovesse tornare in patria. Pertanto, per ventiquattro anni – per tutta la sua vita adulta – visse sotto questo cielo, compponendo poesie: un po’ in inglese, continuamente in francese. Durante quell’isolamento, nella sua stessa terra avvenivano la difesa, il rinnovamento e il trionfo del suo popolo: la sua città veniva liberata, suo cugino incoronato a Reims. Il fiume Loira, poi l’Eure, quindi la Senna, persino il campo dove era caduto venivano riconquistati. Willoughby aveva perso [[Paris|Parigi]] in mano a Richemont quattro anni prima che Carlo d’Orléans fosse liberato in cambio di metà della fortuna di sua madre. Fu solo nel novembre del 1440 che poté rivedere nuovamente la sua terra natale.
+Enrico V aveva stabilito con chiarezza nel suo testamento che il generale Orléans, capo dei nazionali francesi, non dovesse tornare in patria. Pertanto, per ventiquattro anni – per tutta la sua vita adulta – visse sotto questo cielo, compponendo poesie: un po’ in inglese, continuamente in francese. Durante quell’isolamento, nella sua stessa terra avvenivano la difesa, il rinnovamento e il trionfo del suo popolo: la sua città veniva liberata, suo cugino incoronato a Reims. Il fiume Loira, poi l’Eure, quindi la Senna, persino il campo dove era caduto venivano riconquistati. Willoughby aveva perso [[settings/paris|Parigi]] in mano a Richemont quattro anni prima che Carlo d’Orléans fosse liberato in cambio di metà della fortuna di sua madre. Fu solo nel novembre del 1440 che poté rivedere nuovamente la sua terra natale.
 
 Il verso, formato attraverso quella lunga attesa e perseveranza (uno stile che egli mantenne fino alla fine nelle molte poesie scritte dopo la sua liberazione), può sembrare, a prima vista, semplicemente medievale. Vi manca completamente quell’energia creativa esplosiva, e non si riesce subito a percepire l’influenza del Rinascimento che emerge con Carlo d’Orléans.
 
@@ -2581,11 +2581,11 @@ Infatti, fu considerato un testo medievale e completamente dimenticato per trece
 
 Il verso è pieno di allegorie; è ripetitivo; potrebbe stancare chi si sofferma sul sapore di quel triste quindicesimo secolo, quando la mente umana era oppressa e solo i ricchi potevano esprimersi con le loro parole insignificanti; un estraneo, in particolare, potrebbe trovarlo privo di significato, ma il suo giudizio sarebbe errato. Carlo d’Orléans possedeva una nota completamente nuova e originale che, dopo di lui, non ha mai più perso di efficacia, anzi è cresciuta in intensità e maestosità fino a riempire l’intero coro della Pleiade: quella nota lirica dell’espressione personale diretta. Forse furono le guerre a farla nascere in lui; il ritmo delle canzoni militari era ancora spontaneo.
 
-# Nobile Duca di Lorena, avete grande fama
+Nobile Duca di Lorena, avete grande fama
 
-# La vostra fama si diffonde oltre le montagne
+La vostra fama si diffonde oltre le montagne
 
-# Et voi e i vostri uomini d’armi, e tutti i vostri compagni
+Et voi e i vostri uomini d’armi, e tutti i vostri compagni
 
 Al primo colpo che sferrano, abbattono i castelli.
 
@@ -2595,23 +2595,23 @@ Qualunque ne fosse la causa, questa spontaneità e freschezza caratterizzano l�
 
 La primavera e la sicurezza, l’equilibrio di queste cose leggere le trasformano in uno stormo di uccelli.
 
-# Che direttamente è…
+Che direttamente è…
 
 Dio, che bel modo ha di guardarla!
 
 Aggraziata, gentile e bella.
 
-#O questo…
+O questo…
 
 Il giorno dopo il primo maggio
 
-#"Nel mio letto, mentre dormivo..."
+"Nel mio letto, mentre dormivo..."
 
 Al sorgere del giorno iniziai a sognare.
 
 Ovunque le sue parole creino melodie da sole, e ovunque lui stesso appaia nelle proprie poesie – semplici, incantevoli, leggere, ma piene di ricordi di governo e di armi.
 
-Questo stile ben formato, metà del suo verso già scritto, lo riportò al suo luogo d’origine. Era di mezza età: un uomo di cinquant’anni. Sposò, con una certa sobrietà, Maria di Cleves: una donna brutta e giovane; la sposò per rafforzare l’accordo con il Borgogna. Lei non lo amava, non per quel suo viso timido e pallido, quel collo lungo, quei tratti del viso e quegli occhi dolci. Gli venticinque anni successivi passarono facilmente; aveva raggiunto il “castello della serenità”. Fino al 1462 nacque suo figlio (Luigi XII); le sue due figlie arrivarono molto più tardi. La sua famosa biblioteca lo seguì da una città all’altra; intorno a lui, e continuamente proveniente dalla sua cerchia, scorreva quel flusso costante di versi che si interruppe soltanto con la sua [[Death|morte]]. Riuscì persino a far comporre versi al proprio medico.
+Questo stile ben formato, metà del suo verso già scritto, lo riportò al suo luogo d’origine. Era di mezza età: un uomo di cinquant’anni. Sposò, con una certa sobrietà, Maria di Cleves: una donna brutta e giovane; la sposò per rafforzare l’accordo con il Borgogna. Lei non lo amava, non per quel suo viso timido e pallido, quel collo lungo, quei tratti del viso e quegli occhi dolci. Gli venticinque anni successivi passarono facilmente; aveva raggiunto il “castello della serenità”. Fino al 1462 nacque suo figlio (Luigi XII); le sue due figlie arrivarono molto più tardi. La sua famosa biblioteca lo seguì da una città all’altra; intorno a lui, e continuamente proveniente dalla sua cerchia, scorreva quel flusso costante di versi che si interruppe soltanto con la sua [[motifs/death|morte]]. Riuscì persino a far comporre versi al proprio medico.
 
 Tutti i cantanti dell’epoca lo visitavano o rimanevano con lui: per un momento c’era il selvaggio Villon, e dopo Villon, una folla di persone meno importanti. Fu in compagnia di queste persone che recitò l’ultima canzone ironica ma tenera, nella quale parlava della sua giovinezza e della sua forza perdute, concludendo invitando tutti i presenti a salutarlo in nome della sua vecchiaia.
 
@@ -2700,7 +2700,7 @@ Qu’elle ne soit pas longuement
 
 En paine, soussi et doleur.
 
-THE TWO ROUNDELS OF [[Spring|SPRING]].
+THE TWO ROUNDELS OF [[motifs/spring|SPRING]].
 
 (THE 41ST AND 43rd of the “Rondeaux.”)
 
@@ -2710,9 +2710,9 @@ First, they are exact specimens of their style. The Roundel should interweave, r
 
 Secondly: they were evidently written in a moment of that unknown power when words suggest something fuller than their own meaning, and in which simplicity itself broadens the mind of the reader. So that it is impossible to put one’s finger upon this or that and say this adjective, that order of the words has given the touch of vividness.
 
-Thirdly: they have in them still a living spirit of reality; read them to-day in Winter, and you feel the [[Spring]]. It is this quality perhaps which most men have seized in them, and which have deservedly made them immortal.
+Thirdly: they have in them still a living spirit of reality; read them to-day in Winter, and you feel the [[motifs/spring|Spring]]. It is this quality perhaps which most men have seized in them, and which have deservedly made them immortal.
 
-A further character which has added to their fame, is that, being perfect lyrics, they are also specimens of an old-fashioned manner and metre peculiar to the time. They are the resurrection not only of the [[Spring]], but of a Spring of the fifteenth century. Nor is it too fantastic to say that one sees in them the last miniatures and the very dress of a time that was intensely beautiful, and in which Charles of Orleans alone did not feel [[Death|death]] coming.
+A further character which has added to their fame, is that, being perfect lyrics, they are also specimens of an old-fashioned manner and metre peculiar to the time. They are the resurrection not only of the [[motifs/spring|Spring]], but of a Spring of the fifteenth century. Nor is it too fantastic to say that one sees in them the last miniatures and the very dress of a time that was intensely beautiful, and in which Charles of Orleans alone did not feel [[motifs/death|death]] coming.
 
 THE TWO ROUNDELS OF SPRING.
 
@@ -2774,7 +2774,7 @@ HIS LOVE AT MORNING.
 
 In this delightful little song the spontaneity and freshness which saved his work, its vigour and its clarity are best preserved.
 
-It does indeed defy [[Death|death]] and leaps four centuries: it is young and perpetual. It thrills with something the failing middle ages had forgotten: it reaches what they never reached, a climax, for one cannot put too vividly the flash of the penultimate line, “I am granted a vision when I think of her.”
+It does indeed defy [[motifs/death|death]] and leaps four centuries: it is young and perpetual. It thrills with something the failing middle ages had forgotten: it reaches what they never reached, a climax, for one cannot put too vividly the flash of the penultimate line, “I am granted a vision when I think of her.”
 
 Yet it was written in later life, and who she was, or whether she lived at all, no one knows.
 
@@ -2829,20 +2829,20 @@ Quella malinconia si rivelerà presto una qualità permanente nella poesia, prop
 
 La lamentela.
 
-#"Las! Mort chi ti ha reso così audace..."
+"Las! Mort chi ti ha reso così audace..."
 
 Titolo:  
 Prendere in sposa la nobile principessa
 
-# Qui era il mio rifugio, oh vita mia…
+Qui era il mio rifugio, oh vita mia…
 
 Il mio bene, il mio piacere, la mia ricchezza!
 
 “Poiché hai preso la mia padrona…”
 
-# Il mio principe è anche il mio servo
+Il mio principe è anche il mio servo
 
-# Car j'ayme mieulx prouchainement
+Car j'ayme mieulx prouchainement
 
 Titolo:  
 Morire piuttosto che soffrire in eterno tormento
@@ -2854,17 +2854,17 @@ Era completamente priva di ogni bene.
 
 E in pieno fiore della giovinezza!
 
-# Che Dio ti maledica
+Che Dio ti maledica
 
 Morte falsa, terra di crudeltà!
 
-# Se le avessi prese in vecchiaia
+Se le avessi prese in vecchiaia
 
 Non ci fu mai troppa severità…
 
-# Prendila in fretta
+Prendila in fretta
 
-# Et m’as laissié piteusement
+Et m’as laissié piteusement
 
 In dolore, sofferenza e angoscia.
 
@@ -2872,36 +2872,36 @@ Ahimè, sono solo, senza compagnia!
 
 Addio, mia signora, addio per sempre!
 
-# O è il nostro amore che se n’è andato…
+O è il nostro amore che se n’è andato…
 
 Titolo:  
 "Non versare troppo, te lo prometto."
 
-# Molti sono i modi per pregare
+Molti sono i modi per pregare
 
 "Morte vous serviray de cueur"
 
 Senza dimenticare assolutamente nessuno.
 
-# Spesso ve ne pentirete
+Spesso ve ne pentirete
 
 In dolore, sofferenza e angoscia.
 
 CONCLUSIONE.
 
-# Dio, sovrano Signore su ogni cosa
+Dio, sovrano Signore su ogni cosa
 
 Ordinatemi, per grazia e dolcezza…
 
-# De l’âme d’elle, tant…
+De l’âme d’elle, tant…
 
-# Non sia troppo lunga
+Non sia troppo lunga
 
 In dolore, sofferenza e angoscia.
 
-I due rondelli della [[Spring|Primavera]].
+I due rondelli della [[motifs/spring|Primavera]].
 
-# Il 41° e il 43° dei “Rondò”
+Il 41° e il 43° dei “Rondò”
 
 Questi due poemi in forma di rondeau, dei quali possiamo anche presumere, sebbene molto vagamente, che siano stati scritti in Inghilterra (poiché seguono lo stile delle sue opere precedenti), sono di gran lunga i più famosi tra le molte cose che ha scritto; e a ragione, poiché possiedono tutte queste qualità.
 
@@ -2909,24 +2909,24 @@ Innanzitutto, sono esempi perfetti del loro stile. Il rondello dovrebbe intrecci
 
 In secondo luogo: queste parole sono evidentemente state scritte in un momento di quel potere sconosciuto in cui le parole suggeriscono qualcosa di più del loro significato letterale, e in cui la semplicità stessa amplia la mente del lettore. Per questo è impossibile individuare con precisione quale sia il motivo per cui questo aggettivo o quest’ordine delle parole conferiscano vitalità al testo.
 
-In terzo luogo: contengono ancora uno spirito vitale della realtà; leggeteli oggi d’inverno e sentirete la presenza della [[Spring|primavera]]. Forse è proprio questa qualità che la maggior parte delle persone ha riconosciuto in essi, ed è ciò che li ha resi immortali.
+In terzo luogo: contengono ancora uno spirito vitale della realtà; leggeteli oggi d’inverno e sentirete la presenza della [[motifs/spring|primavera]]. Forse è proprio questa qualità che la maggior parte delle persone ha riconosciuto in essi, ed è ciò che li ha resi immortali.
 
-Un altro elemento che ha contribuito alla loro fama è il fatto che, essendo testi musicali perfetti, rappresentano anche esempi di uno stile e di una metrica d’epoca, tipici di quel periodo. Sono non solo la rinascita della [[Spring|Primavera]], ma anche della Primavera del XV secolo. Non è affatto fantasioso affermare che in essi si possano vedere gli ultimi esempi di quell’epoca intensamente bella, e che proprio Carlo d’Orléans fu l’unico ad non percepire l’avvicinarsi della [[Death|morte]].
+Un altro elemento che ha contribuito alla loro fama è il fatto che, essendo testi musicali perfetti, rappresentano anche esempi di uno stile e di una metrica d’epoca, tipici di quel periodo. Sono non solo la rinascita della [[motifs/spring|Primavera]], ma anche della Primavera del XV secolo. Non è affatto fantasioso affermare che in essi si possano vedere gli ultimi esempi di quell’epoca intensamente bella, e che proprio Carlo d’Orléans fu l’unico ad non percepire l’avvicinarsi della [[motifs/death|morte]].
 
 I due rondelli della primavera.
 
 Titolo:  
 Sono arrivati i quattro guardiani dell’estate
 
-#"Arredare la propria dimora"
+"Arredare la propria dimora"
 
 “E hanno fatto tendere i loro tappeti…”
 
 Tessuti fatti di fiori e verdure.
 
-# In piedi su un tappeto velluto
+In piedi su un tappeto velluto
 
-# Erba verde che copre la campagna
+Erba verde che copre la campagna
 
 Titolo:  
 Sono arrivati i fornitori di Esté
@@ -2935,27 +2935,27 @@ Per arredare la sua dimora.
 
 Cuori di noia, pensieri malinconici…
 
-# Grazie al cielo, sono sani e belli;
+Grazie al cielo, sono sani e belli;
 
-#"Andatevene, prendetevi il vostro tempo..."
+"Andatevene, prendetevi il vostro tempo..."
 
-# Non rimarrete più qui
+Non rimarrete più qui
 
 I furiere di Esté sono arrivati.
 
-# I tempi hanno lasciato il loro mantello
+I tempi hanno lasciato il loro mantello
 
-# Di vento, di freddo e di pioggia
+Di vento, di freddo e di pioggia
 
-# Si è vestito di nebbia
+Si è vestito di nebbia
 
 Di sole splendente, chiaro e bello.
 
 Non c’è bestia né uccello…
 
-# Cosa canta o grida nel suo gergo…
+Cosa canta o grida nel suo gergo…
 
-# I tempi hanno lasciato il loro mantello
+I tempi hanno lasciato il loro mantello
 
 Vento freddo e pioggia.
 
@@ -2976,13 +2976,13 @@ Il suo amore al mattino.
 
 In questa deliziosa canzoncina, la spontaneità e la freschezza che hanno reso il suo lavoro così valido, insieme alla sua vitalità e chiarezza, sono perfettamente conservate.
 
-Resiste davvero alla [[Death|morte]] e attraversa quattro secoli: è giovane ed eterna. Esprime qualcosa che il declinante Medioevo aveva dimenticato; raggiunge ciò che esso non riuscì mai a ottenere, un apice. Poiché non si può descrivere in modo abbastanza vivido l’effetto della penultima riga: “Mi viene concessa una visione quando penso a lei”.
+Resiste davvero alla [[motifs/death|morte]] e attraversa quattro secoli: è giovane ed eterna. Esprime qualcosa che il declinante Medioevo aveva dimenticato; raggiunge ciò che esso non riuscì mai a ottenere, un apice. Poiché non si può descrivere in modo abbastanza vivido l’effetto della penultima riga: “Mi viene concessa una visione quando penso a lei”.
 
 Tuttavia, fu scritto in un momento successivo della sua vita; chi fosse lei, o se davvero vivesse ancora, nessuno lo sa.
 
 Il suo amore al mattino.
 
-# Che bello da guardare
+Che bello da guardare
 
 La graziosa, buona e bella ragazza!
 
@@ -2995,16 +2995,16 @@ Qui si potrebbe smettere di parlarne.
 
 La sua bellezza si rinnova sempre.
 
-# Che bella donna da guardare…
+Che bella donna da guardare…
 
 Quella gentile, buona e bella.
 
-#"Da una parte o dall'altra del mare..."
+"Da una parte o dall'altra del mare..."
 
 Titolo:  
 Né signora né damigella
 
-# Che sia in tutti i beni perfetta così…
+Che sia in tutti i beni perfetta così…
 
 Pensarci è solo un sogno.
 
@@ -3057,7 +3057,7 @@ Et leur dictes que voulentiers seroye.
 
 Amoureux fus, or ne le suis je mye,
 
-Et en [[Paris]] menoye bonne vie;
+Et en [[settings/paris|Paris]] menoye bonne vie;
 
 Adieu Bon temps ravoir ne vous saroye,
 
@@ -3069,19 +3069,19 @@ Saluez moy toute la compaignie.
 
 VILLON.
 
-I HAVE SAID that in Charles of Orleans the middle ages are at first more apparent than the advent of the [[Renaissance]]. His forms are inherited from an earlier time, his terminology is that of the long allegories which had wearied three generations, his themes recall whatever was theatrical in the empty pageantry of the great war. It is a spirit deeper and more fundamental than the mere framework of his writing which attaches him to the coming time. His clarity is new; it proceeds from natural things; it marks that return to reality which is the beginning of all beneficent revolutions. But this spirit in him needs examination and discovery, and the reader is confused between the mediaeval phrases and the something new and troubling in the voice that utters them.
+I HAVE SAID that in Charles of Orleans the middle ages are at first more apparent than the advent of the [[historical-references/renaissance|Renaissance]]. His forms are inherited from an earlier time, his terminology is that of the long allegories which had wearied three generations, his themes recall whatever was theatrical in the empty pageantry of the great war. It is a spirit deeper and more fundamental than the mere framework of his writing which attaches him to the coming time. His clarity is new; it proceeds from natural things; it marks that return to reality which is the beginning of all beneficent revolutions. But this spirit in him needs examination and discovery, and the reader is confused between the mediaeval phrases and the something new and troubling in the voice that utters them.
 
 With Villon, the next in order, a similar confusion might arise. All about him as he wrote were the middle ages: their grotesque, their contrast, their disorder. His youth and his activity of blood forbad him any contact with other than immediate influences. He was wholly Northern; he had not so much as guessed at what Italy might be. The decrepit University had given him, as best she could, the dregs of her palsied philosophy and something of Latin. He grew learned as do those men who grasp quickly the major lines of their study, but who, in details, will only be moved by curiosity or by some special affection. There was nothing patient in him, and nothing applied, and in all this, in the matter of his scholarship as in his acquirement of it, he is of the dying middle ages entirely.
 
-His laughter also was theirs: the kind of laughter that saluted the first Dance of [[Death]] which as a boy he had seen in new frescoes round the waste graveyard of the Innocents. His friends and enemies and heroes and buffoons were the youth of the narrow tortuous streets, his visions of height were the turrets of the palaces and the precipitate roofs of the town. Distance had never inspired him, for in that age its effect was forgotten. No one straight street displayed the greatness of the city, no wide and ordered spaces enhanced it. He crossed his native river upon bridges all shut in with houses, and houses hid the banks also. The sweep of the Seine no longer existed for his generation, and largeness of all kinds was hidden under the dust and rubble of decay. The majestic, which in sharp separate lines of his verse he certainly possessed, he discovered within his own mind, for no great arch or cornice, nor no colonnade had lifted him with its splendour.
+His laughter also was theirs: the kind of laughter that saluted the first Dance of [[motifs/death|Death]] which as a boy he had seen in new frescoes round the waste graveyard of the Innocents. His friends and enemies and heroes and buffoons were the youth of the narrow tortuous streets, his visions of height were the turrets of the palaces and the precipitate roofs of the town. Distance had never inspired him, for in that age its effect was forgotten. No one straight street displayed the greatness of the city, no wide and ordered spaces enhanced it. He crossed his native river upon bridges all shut in with houses, and houses hid the banks also. The sweep of the Seine no longer existed for his generation, and largeness of all kinds was hidden under the dust and rubble of decay. The majestic, which in sharp separate lines of his verse he certainly possessed, he discovered within his own mind, for no great arch or cornice, nor no colonnade had lifted him with its splendour.
 
 That he could so discover it, that a solemnity and order should be apparent in the midst of his raillery whenever he desires to produce an effect of the grand, leads me to speak of that major quality of his by which he stands up out of his own time, and is clearly an originator of the great renewal. I mean his vigour.
 
 It is all round about him, and through him, like a storm in a wood. It creates, it perceives. It possesses the man himself, and us also as we read him. By it he launches his influence forward and outward rather than receives it from the past. To it his successors turn, as to an ancestry, when they had long despised and thrown aside everything else that savoured of the Gothic dead. By it he increased in reputation and meaning from his boyhood on for four hundred years, till now he is secure among the first lyric poets of Christendom. It led to no excess of matter, but to an exuberance of attitude and manner, to an inexhaustibility of special words, to a brilliancy of impression unique even among his own people.
 
-He was poor; he was amative; he was unsatisfied. This vigour, therefore, led in his actions to a mere wildness; clothed in this wildness the rare fragments of his life have descended to us. He professed to teach, but he haunted taverns, and loved the roaring of songs. He lived at random from his twentieth year in one den or another along the waterside. Affection brought him now to his mother, now to his old guardian priest, but not for long; he returned to adventure — such as it was. He killed a man, was arrested, condemned, pardoned, exiled; he wandered and again found [[Paris]], and again — it seems — stumbled down his old lane of violence and dishonour.
+He was poor; he was amative; he was unsatisfied. This vigour, therefore, led in his actions to a mere wildness; clothed in this wildness the rare fragments of his life have descended to us. He professed to teach, but he haunted taverns, and loved the roaring of songs. He lived at random from his twentieth year in one den or another along the waterside. Affection brought him now to his mother, now to his old guardian priest, but not for long; he returned to adventure — such as it was. He killed a man, was arrested, condemned, pardoned, exiled; he wandered and again found [[settings/paris|Paris]], and again — it seems — stumbled down his old lane of violence and dishonour.
 
-Associated also with this wildness is a curious imperfection in our knowledge of him. His very name is not his own — or any other man’s. His father, if it were his father, took his name from Mont-Corbier — half noble. Villon is but a little village over beyond the upper Yonne, near the division, within a day of the water-parting where the land falls southward to Burgundy and the sun in what they call “The Slope of Gold.” From this village a priest, William, had come to [[Paris]] in 1423. They gave him a canonry in that little church called “St. Bennets Askew,” which stood in the midst of the University, near Sorbonne, where the Rue des Écoles crosses the Rue St. Jacques to-day. Hither, to his house in the cloister, he brought the boy, a waif whom he had found much at the time when Willoughby capitulated and the French recaptured the city. He had him taught, he designed him for the University, he sheltered him in his vagaries, he gave him asylum. The young man took his name and called him “more than father.” His anxious life led on to 1468, long after the poet had disappeared.
+Associated also with this wildness is a curious imperfection in our knowledge of him. His very name is not his own — or any other man’s. His father, if it were his father, took his name from Mont-Corbier — half noble. Villon is but a little village over beyond the upper Yonne, near the division, within a day of the water-parting where the land falls southward to Burgundy and the sun in what they call “The Slope of Gold.” From this village a priest, William, had come to [[settings/paris|Paris]] in 1423. They gave him a canonry in that little church called “St. Bennets Askew,” which stood in the midst of the University, near Sorbonne, where the Rue des Écoles crosses the Rue St. Jacques to-day. Hither, to his house in the cloister, he brought the boy, a waif whom he had found much at the time when Willoughby capitulated and the French recaptured the city. He had him taught, he designed him for the University, he sheltered him in his vagaries, he gave him asylum. The young man took his name and called him “more than father.” His anxious life led on to 1468, long after the poet had disappeared.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3099,33 +3099,33 @@ L’addio.
 Titolo:  
 Salve, compagni tutti!
 
-# Dove sono ora queste povere anime
+Dove sono ora queste povere anime
 
 Titolo:  
 "Dite loro che con piacere lo farò"
 
-#"Con te, ma non posso esserci."
+"Con te, ma non posso esserci."
 
 A Vecchiaia, che mi ha affidato questa responsabilità.
 
 Titolo:  
 Nei tempi passati, una gioventù così bella
 
-# Me governoit; las! o n’y suis-je moi-même
+Me governoit; las! o n’y suis-je moi-même
 
-# Per Dio, che io possa essere perdonato…
+Per Dio, che io possa essere perdonato…
 
 Titolo: Salutate tutta la compagnia per me
 
-# Dove sono ora queste povere anime
+Dove sono ora queste povere anime
 
 E dì loro che con piacere lo farei.
 
-# Amanti fummo, o forse ancora lo siamo…
+Amanti fummo, o forse ancora lo siamo…
 
-E a [[Paris|Parigi]] si conduce una vita molto piacevole.
+E a [[settings/paris|Parigi]] si conduce una vita molto piacevole.
 
-# Addio, bei tempi… non vi rivedrò più.
+Addio, bei tempi… non vi rivedrò più.
 
 Ben legato con una stretta cintura di cuoio.
 
@@ -3135,38 +3135,38 @@ Salutate tutta la compagnia per me.
 
 VILLON.
 
-Ho detto che in Carlo d’Orléans il Medioevo è, in un primo momento, più evidente dell’avvento della [[Renaissance|Rinascita]]. Le sue forme derivano da un’epoca precedente; la sua terminologia appartiene a quelle lunghe allegorie che avevano stancato tre generazioni; i suoi temi richiamano ciò che aveva di teatrale nella pompa vuota delle grandi guerre. È uno spirito più profondo e fondamentale del semplice contesto formale della sua scrittura, ed è proprio questo spirito a legarlo al futuro. La sua chiarezza è nuova; deriva da cose naturali; segna quel ritorno alla realtà che rappresenta l’inizio di tutte le rivoluzioni benefiche. Tuttavia, questo spirito in lui richiede ulteriori analisi e scoperte; il lettore si confonde tra le espressioni medievali e quella novità inquietante presente nella voce che le pronuncia.
+Ho detto che in Carlo d’Orléans il Medioevo è, in un primo momento, più evidente dell’avvento della [[historical-references/renaissance|Rinascita]]. Le sue forme derivano da un’epoca precedente; la sua terminologia appartiene a quelle lunghe allegorie che avevano stancato tre generazioni; i suoi temi richiamano ciò che aveva di teatrale nella pompa vuota delle grandi guerre. È uno spirito più profondo e fondamentale del semplice contesto formale della sua scrittura, ed è proprio questo spirito a legarlo al futuro. La sua chiarezza è nuova; deriva da cose naturali; segna quel ritorno alla realtà che rappresenta l’inizio di tutte le rivoluzioni benefiche. Tuttavia, questo spirito in lui richiede ulteriori analisi e scoperte; il lettore si confonde tra le espressioni medievali e quella novità inquietante presente nella voce che le pronuncia.
 
 Con Villon, il successivo nella serie, potrebbe sorgere una confusione simile. Tutto ciò che lo circondava quando scriveva era legato al Medioevo: le sue caratteristiche grottesche, i suoi contrasti, il suo disordine. La sua giovane età e la sua natura appassionata gli impedivano qualsiasi contatto con altre influenze se non quelle immediate. Era completamente “settentrionale”; non aveva nemmeno idea di ciò che potesse essere l’Italia. L’università, ormai in declino, gli aveva fornito, nel miglior modo possibile, i resti della sua filosofia decaduta e un po’ di conoscenze di latino. Diventò erudito proprio come quegli uomini che afferrano rapidamente le linee principali dello studio loro affidato, ma che, nei dettagli, sono spinti soltanto dalla curiosità o da qualche affetto particolare. Non possedeva né pazienza né metodo; in tutto ciò, sia nella sua formazione accademica che nel modo in cui la acquisiva, apparteneva interamente al Medioevo morente.
 
-Anche la sua risata era quella di loro: quel tipo di risata che salutava il primo “Danza della [[Death|Morte]]” che da ragazzo aveva visto nei nuovi affreschi intorno al desolato cimitero degli Innocenti. I suoi amici, i suoi nemici, gli eroi e i buffoni erano i giovani delle strette e tortuose strade; le sue visioni di grandezza erano rappresentate dalle torri dei palazzi e dai ripidi tetti della città. La distanza non lo aveva mai ispirato, perché in quell’epoca il suo effetto era ormai dimenticato. Nessuna strada dritta rivelava la grandezza della città, nessuno spazio ampio e ordinato ne esaltava la bellezza. Attraversava il fiume natale su ponti completamente circondati da case; anche le rive erano nascoste dagli edifici. La maestosità del Sena non esisteva più per la sua generazione; ogni forma di grandezza era sepolta sotto la polvere e i detriti del decadimento. Quella maestosità che, con linee nette e distinte nelle sue poesie, lui stesso possedeva, la scopriva dentro la propria mente, perché nessun grande arco, nessuna cornice, nessuna colonnata l’aveva mai elevato con il proprio splendore.
+Anche la sua risata era quella di loro: quel tipo di risata che salutava il primo “Danza della [[motifs/death|Morte]]” che da ragazzo aveva visto nei nuovi affreschi intorno al desolato cimitero degli Innocenti. I suoi amici, i suoi nemici, gli eroi e i buffoni erano i giovani delle strette e tortuose strade; le sue visioni di grandezza erano rappresentate dalle torri dei palazzi e dai ripidi tetti della città. La distanza non lo aveva mai ispirato, perché in quell’epoca il suo effetto era ormai dimenticato. Nessuna strada dritta rivelava la grandezza della città, nessuno spazio ampio e ordinato ne esaltava la bellezza. Attraversava il fiume natale su ponti completamente circondati da case; anche le rive erano nascoste dagli edifici. La maestosità del Sena non esisteva più per la sua generazione; ogni forma di grandezza era sepolta sotto la polvere e i detriti del decadimento. Quella maestosità che, con linee nette e distinte nelle sue poesie, lui stesso possedeva, la scopriva dentro la propria mente, perché nessun grande arco, nessuna cornice, nessuna colonnata l’aveva mai elevato con il proprio splendore.
 
 Il fatto che sia riuscito a scoprirlo, che in mezzo alle sue battute scherzose ci fosse sempre una certa solennità e ordine ogni volta che desiderava creare un effetto grandioso, mi spinge a parlare di quella qualità fondamentale che lo distingue dal suo tempo e che lo rende chiaramente un precursore di quel grande rinnovamento. Intendo dire la sua energia vitale.
 
 È tutto intorno a lui e attraverso di lui, come una tempesta in un bosco: crea, percepisce; possiede l’uomo stesso, e anche noi mentre lo leggiamo. Attraverso di esso egli diffonde la propria influenza verso l’esterno, piuttosto che riceverla dal passato. I suoi successori si rivolgono a esso come a un’origine, dopo aver a lungo disprezzato e gettato via tutto ciò che aveva un legame con il passato gotico. Grazie ad esso la sua reputazione e il suo significato sono cresciuti sin dall’infanzia per quattrocento anni; oggi è considerato tra i primi poeti lirici del Cristianesimo. Questo influsso non ha portato a un eccesso di forma o di contenuto, ma piuttosto a un’esuberanza nell’espressione e nel modo di scrivere, a un’infinità di parole originali, e a una brillantezza nell’impatto emotivo che è unica persino tra i suoi connazionali.
 
-Era povero; era appassionato; non era mai soddisfatto. Questa passione, pertanto, si traduceva nelle sue azioni in una sorta di follia; avvolti in questa follia, i rari frammenti della sua vita ci sono giunti fino ad oggi. Si professava insegnante, ma frequentava le taverne e amava il rumore delle canzoni. Dall’età di vent’anni in poi visse alla rinfusa, da un rifugio all’altro lungo le rive del fiume. L’affetto lo portava ora a sua madre, ora al suo vecchio prete tutore, ma per poco tempo; poi tornava alle sue avventure, per quanto strane e disoneste potessero essere. Uccise un uomo, fu arrestato, condannato, graziato, esiliato; vagabondò per il mondo, fino a quando non ritrovò [[Paris|Parigi]], e sembra che ancora una volta ricadesse nei suoi vecchi vizi di violenza e disonore.
+Era povero; era appassionato; non era mai soddisfatto. Questa passione, pertanto, si traduceva nelle sue azioni in una sorta di follia; avvolti in questa follia, i rari frammenti della sua vita ci sono giunti fino ad oggi. Si professava insegnante, ma frequentava le taverne e amava il rumore delle canzoni. Dall’età di vent’anni in poi visse alla rinfusa, da un rifugio all’altro lungo le rive del fiume. L’affetto lo portava ora a sua madre, ora al suo vecchio prete tutore, ma per poco tempo; poi tornava alle sue avventure, per quanto strane e disoneste potessero essere. Uccise un uomo, fu arrestato, condannato, graziato, esiliato; vagabondò per il mondo, fino a quando non ritrovò [[settings/paris|Parigi]], e sembra che ancora una volta ricadesse nei suoi vecchi vizi di violenza e disonore.
 
-Legata anche a questa natura selvaggia c’è una curiosa imperfezione nella nostra conoscenza di lui. Il suo stesso nome non è il suo vero nome – né quello di alcun altro uomo. Suo padre, se davvero lo era, prese il nome da Mont-Corbier: un titolo seminobile. Villon era in realtà un piccolo villaggio situato oltre l’alto corso del fiume Yonne, vicino al confine tra le regioni; distava appena un giorno di viaggio dal punto in cui il territorio si dirama verso sud, verso la Borgogna, e dove il sole splende su quella che viene chiamata “La Pendenza d’Oro”. Da questo villaggio, un prete di nome William giunse a [[Paris|Parigi]] nel 1423. Gli fu assegnato un canonicato nella piccola chiesa di “St. Bennets Askew”, situata nel cuore dell’Università, vicino alla Sorbona, dove oggi la Rue des Écoles incrocia la Rue St. Jacques. Qui, nella sua casa situata all’interno del convento, portò il ragazzo: un orfano che aveva trovato in quel periodo in cui Willoughby si arrese e i francesi riconquistarono la città. Gli fece ricevere un’educazione, intendeva fargli frequentare l’Università, lo protesse durante le sue avventure e gli offrì rifugio. Il giovane prese il nome di William come proprio e lo chiamava “più che padre”. La vita intensa e piena di difficoltà di William proseguì fino al 1468, molto tempo dopo la scomparsa del poeta stesso.
+Legata anche a questa natura selvaggia c’è una curiosa imperfezione nella nostra conoscenza di lui. Il suo stesso nome non è il suo vero nome – né quello di alcun altro uomo. Suo padre, se davvero lo era, prese il nome da Mont-Corbier: un titolo seminobile. Villon era in realtà un piccolo villaggio situato oltre l’alto corso del fiume Yonne, vicino al confine tra le regioni; distava appena un giorno di viaggio dal punto in cui il territorio si dirama verso sud, verso la Borgogna, e dove il sole splende su quella che viene chiamata “La Pendenza d’Oro”. Da questo villaggio, un prete di nome William giunse a [[settings/paris|Parigi]] nel 1423. Gli fu assegnato un canonicato nella piccola chiesa di “St. Bennets Askew”, situata nel cuore dell’Università, vicino alla Sorbona, dove oggi la Rue des Écoles incrocia la Rue St. Jacques. Qui, nella sua casa situata all’interno del convento, portò il ragazzo: un orfano che aveva trovato in quel periodo in cui Willoughby si arrese e i francesi riconquistarono la città. Gli fece ricevere un’educazione, intendeva fargli frequentare l’Università, lo protesse durante le sue avventure e gli offrì rifugio. Il giovane prese il nome di William come proprio e lo chiamava “più che padre”. La vita intensa e piena di difficoltà di William proseguì fino al 1468, molto tempo dopo la scomparsa del poeta stesso.
 
 
 
 <span class="atom-split" data-atom="story_03_the_complaint--part_03" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 3)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death,concept/faith,concept/tradition,histref/rabelais,setting/paris"></span>
 
 
-For it is in 1461, in his thirtieth year, that Villon last writes down a verse. It is in 1463 that his signature is last discovered. Then not by [[Death|death]] or, if by [[Death|death]], then by some [[Death|death]] unrecorded, he leaves history abruptly — a most astonishing exit!... You may pursue fantastic legends, you will not find the man himself again. Some say a final quarrel got him hanged at last — it is improbable: no record or even [[Tradition|tradition]] of it remains. [[Rabelais]] thought him a wanderer in England. Poitou preserves a story of his later passage through her fields, of how still he drank and sang with boon companions, and of how, again, he killed a man.... Maybe, he only ceased to write; took to teaching soberly in the University, and lived in a decent inheritance to see new splendours growing upon Europe. It may very well be, for it is in such characters to desire in early manhood decency, honour, and repose. But for us the man ends with his last line. His body that was so very real, his personal voice, his jargon — tangible and audible things — spread outward suddenly a vast shadow upon nothingness. It was the end, also, of a world. The first Presses were creaking, Constantinople had fallen, Greek was in Italy, Leonardo lived, the stepping stones of the Azores were held — in that new light he disappears.
+For it is in 1461, in his thirtieth year, that Villon last writes down a verse. It is in 1463 that his signature is last discovered. Then not by [[motifs/death|death]] or, if by [[motifs/death|death]], then by some [[motifs/death|death]] unrecorded, he leaves history abruptly — a most astonishing exit!... You may pursue fantastic legends, you will not find the man himself again. Some say a final quarrel got him hanged at last — it is improbable: no record or even [[concepts/tradition|tradition]] of it remains. [[historical-references/rabelais|Rabelais]] thought him a wanderer in England. Poitou preserves a story of his later passage through her fields, of how still he drank and sang with boon companions, and of how, again, he killed a man.... Maybe, he only ceased to write; took to teaching soberly in the University, and lived in a decent inheritance to see new splendours growing upon Europe. It may very well be, for it is in such characters to desire in early manhood decency, honour, and repose. But for us the man ends with his last line. His body that was so very real, his personal voice, his jargon — tangible and audible things — spread outward suddenly a vast shadow upon nothingness. It was the end, also, of a world. The first Presses were creaking, Constantinople had fallen, Greek was in Italy, Leonardo lived, the stepping stones of the Azores were held — in that new light he disappears.
 
 * * *
 
 Of his greatness nothing can be said; it is like the greatness of all the chief poets, a thing too individual to seize in words. It is superior and exterior to the man. Genius of that astounding kind has all the qualities of an extraneous thing. A man is not answerable for it. It is nothing to his salvation; it is little even to his general character. It has been known to come and go, to be put off and on like a garment, to be lent by Heaven and taken away, a capricious gift.
 
-But of the manner of that genius it may be noted that, as his vigour prepared the flood of new verse, so in another matter his genius made him an origin. Through him first, the great town — and especially [[Paris]] — appeared and became permanent in letters.
+But of the manner of that genius it may be noted that, as his vigour prepared the flood of new verse, so in another matter his genius made him an origin. Through him first, the great town — and especially [[settings/paris|Paris]] — appeared and became permanent in letters.
 
 Her local spirit and her special quality had shone fitfully here and there for a thousand years — you may find it in Julian, in Abbo, in Joinville. But now, in the fifteenth century, it had been not only a town but a great town for more than a century — a town, that is, in which men live entirely, almost ignorant of the fields, observing only other men, and forgetting the sky. The keen edge of such a life, its bitterness, the mockery and challenge whereby its evils are borne, its extended knowledge, the intensity of its spirit — all these are reflected in Villon, and first reflected in him. Since his pen first wrote, a shining acerbity like the glint of a sword-edge has never deserted the literature of the capital.
 
-It was not only the metropolitan, it was the Parisian spirit which Villon found and fixed. That spirit which is bright over the whole city, but which is not known in the first village outside; the influence that makes [[Paris]] Athenian.
+It was not only the metropolitan, it was the Parisian spirit which Villon found and fixed. That spirit which is bright over the whole city, but which is not known in the first village outside; the influence that makes [[settings/paris|Paris]] Athenian.
 
-The ironical Parisian soul has depths in it. It is so lucid that its luminous profundity escapes one — so with Villon. Religion hangs there. Humility — fatally divorced from simplicity — pervades it. It laughs at itself. There are ardent passions of sincerity, repressed and reacting upon themselves. The virtues, little practised, are commonly comprehended, always appreciated, for the [[Faith]] is there permanent. All this you will find in Villon, but it is too great a matter for so short an essay as this.
+The ironical Parisian soul has depths in it. It is so lucid that its luminous profundity escapes one — so with Villon. Religion hangs there. Humility — fatally divorced from simplicity — pervades it. It laughs at itself. There are ardent passions of sincerity, repressed and reacting upon themselves. The virtues, little practised, are commonly comprehended, always appreciated, for the [[concepts/faith|Faith]] is there permanent. All this you will find in Villon, but it is too great a matter for so short an essay as this.
 
 THE DEAD LADIES.
 
@@ -3251,19 +3251,19 @@ Villon’s whole surviving work is in the form of two rhymed wills — one short
 
 <span class="qlang-split" data-lang="it"></span>
 
-Nel 1461, all’età di trent’anni, Villon scrisse per l’ultima volta una poesia; nel 1463 la sua firma fu scoperta per l’ultima volta. Poi, non a causa della [[Death|morte]], o almeno non di una morte documentata, egli lasciò improvvisamente la storia. Una uscita davvero sorprendente! Potreste cercare leggende fantastiche, ma non riuscirete mai più a ritrovare quell’uomo. Alcuni dicono che un ultimo litigio lo abbia portato alla forca. Ma è improbabile: non esistono alcun resoconto né alcuna [[Tradition|tradizione]] al riguardo. [[Rabelais]] lo considerava un viaggiatore in Inghilterra; il Poitou conserva la storia del suo passaggio attraverso quelle terre, di come bevesse e cantasse con compagni allegri. E di come, ancora una volta, uccidesse qualcuno. Forse semplicemente smise di scrivere, iniziò a insegnare seriamente all’università e visse grazie a un’eredità decente, osservando i nuovi splendori che nascevano in Europa. È molto probabile. Infatti, persone del genere spesso desiderano onore, decenza e tranquillità nella giovinezza. Ma per noi quell’uomo finisce con l’ultima sua riga scritta. Il suo corpo, così concreto; la sua voce, il suo linguaggio. Cose tangibili, udibili. Improvvisamente, tutto ciò gettò un’immensa ombra nel nulla. Fu anche la fine di un intero mondo. Le prime stampe iniziarono a funzionare; Costantinopoli era caduta; il greco si diffondeva in Italia; Leonardo viveva ancora. In quella nuova luce, Villon scomparve per sempre.
+Nel 1461, all’età di trent’anni, Villon scrisse per l’ultima volta una poesia; nel 1463 la sua firma fu scoperta per l’ultima volta. Poi, non a causa della [[motifs/death|morte]], o almeno non di una morte documentata, egli lasciò improvvisamente la storia. Una uscita davvero sorprendente! Potreste cercare leggende fantastiche, ma non riuscirete mai più a ritrovare quell’uomo. Alcuni dicono che un ultimo litigio lo abbia portato alla forca. Ma è improbabile: non esistono alcun resoconto né alcuna [[concepts/tradition|tradizione]] al riguardo. [[historical-references/rabelais|Rabelais]] lo considerava un viaggiatore in Inghilterra; il Poitou conserva la storia del suo passaggio attraverso quelle terre, di come bevesse e cantasse con compagni allegri. E di come, ancora una volta, uccidesse qualcuno. Forse semplicemente smise di scrivere, iniziò a insegnare seriamente all’università e visse grazie a un’eredità decente, osservando i nuovi splendori che nascevano in Europa. È molto probabile. Infatti, persone del genere spesso desiderano onore, decenza e tranquillità nella giovinezza. Ma per noi quell’uomo finisce con l’ultima sua riga scritta. Il suo corpo, così concreto; la sua voce, il suo linguaggio. Cose tangibili, udibili. Improvvisamente, tutto ciò gettò un’immensa ombra nel nulla. Fu anche la fine di un intero mondo. Le prime stampe iniziarono a funzionare; Costantinopoli era caduta; il greco si diffondeva in Italia; Leonardo viveva ancora. In quella nuova luce, Villon scomparve per sempre.
 
 * * *
 
 Del suo genio non si può dire nulla; è simile al genio di tutti i grandi poeti: qualcosa di troppo individuale per essere espresso a parole. È qualcosa che va oltre l’uomo stesso. Un genio di quel tipo ha tutte le caratteristiche di qualcosa di esterno all’individuo. L’uomo non ne è responsabile; esso non contribuisce alla sua salvezza, e influisce ben poco sul suo carattere generale. Si è visto che questo genio può apparire e scomparire, essere “metto via” o “tirato fuori” come un indumento, prestato dal Cielo e poi ritirato, un dono capriccioso.
 
-Ma riguardo al modo di operare di quel genio, si può notare che, proprio come la sua energia generò un flusso continuo di nuove poesie, in altri ambiti il suo talento lo rese una vera fonte di ispirazione. Fu attraverso di lui che quella grande città – e soprattutto [[Paris|Parigi]] – emerse e divenne un centro permanente dell’arte letteraria.
+Ma riguardo al modo di operare di quel genio, si può notare che, proprio come la sua energia generò un flusso continuo di nuove poesie, in altri ambiti il suo talento lo rese una vera fonte di ispirazione. Fu attraverso di lui che quella grande città – e soprattutto [[settings/paris|Parigi]] – emerse e divenne un centro permanente dell’arte letteraria.
 
 Lo spirito caratteristico di quella regione e le sue qualità uniche si sono manifestate qua e là per mille anni: si possono trovare in Julian, in Abbo, in Joinville. Ma ora, nel XV secolo, quella città non era più soltanto una piccola località; era diventata una grande città da oltre un secolo: una città in cui le persone vivevano interamente all’interno delle mura cittadine, quasi ignorando la campagna, osservando soltanto gli altri esseri umani e dimenticando il cielo. L’acuità di questa vita, la sua amarezza, le derisioni e le sfide con cui i suoi aspetti negativi venivano affrontati, la vastità delle conoscenze che si accumulavano in essa, l’intensità dello spirito che vi regnava, tutto ciò si riflette in Villon, e per la prima volta in lui. Da quando la sua penna ha iniziato a scrivere, un’acuità brillante, simile al bagliore della lama di una spada, non ha mai abbandonato la letteratura di quella capitale.
 
-Non era solo lo spirito metropolitano, ma lo spirito specifico di Parigi che Villon ha ritrovato e catturato nella sua poesia. Quello spirito che illumina l’intera città, ma che non si trova nelle prime frazioni che la circondano; quell’influenza che rende [[Paris|Parigi]] simile ad Atene.
+Non era solo lo spirito metropolitano, ma lo spirito specifico di Parigi che Villon ha ritrovato e catturato nella sua poesia. Quello spirito che illumina l’intera città, ma che non si trova nelle prime frazioni che la circondano; quell’influenza che rende [[settings/paris|Parigi]] simile ad Atene.
 
-L’anima ironica parigina nasconde profondità interiori: è così lucida che la sua intensa profondità sfugge alla comprensione di chi la osserva – proprio come nel caso di Villon. La religione vi ha un ruolo importante; l’umiltà, fatalmente separata dalla semplicità, pervade tutta questa essenza. Quell’anima ride di se stessa. Ci sono passioni ardenti di sincerità, represse e che reagiscono su se stesse. Le virtù, pur poco praticate, vengono comunque comprese e apprezzate, perché la [[Faith|Fede]] è lì, costante e fondamentale. Tutto questo si trova in Villon. Ma è un argomento troppo vasto per essere trattato in un saggio così breve come questo.
+L’anima ironica parigina nasconde profondità interiori: è così lucida che la sua intensa profondità sfugge alla comprensione di chi la osserva – proprio come nel caso di Villon. La religione vi ha un ruolo importante; l’umiltà, fatalmente separata dalla semplicità, pervade tutta questa essenza. Quell’anima ride di se stessa. Ci sono passioni ardenti di sincerità, represse e che reagiscono su se stesse. Le virtù, pur poco praticate, vengono comunque comprese e apprezzate, perché la [[concepts/faith|Fede]] è lì, costante e fondamentale. Tutto questo si trova in Villon. Ma è un argomento troppo vasto per essere trattato in un saggio così breve come questo.
 
 Le donne morte.
 
@@ -3284,11 +3284,11 @@ Le donne morte.
 Titolo:  
 "Dìci a me, in quale paese..."
 
-# La bella flora della Roma antica
+La bella flora della Roma antica
 
 Archipiada, ne Thaïs
 
-# Qui fu la sua cugina germana
+Qui fu la sua cugina germana
 
 Titolo:  
 “Echo, che risuona quando si batte sulla mano”
@@ -3299,9 +3299,9 @@ Qui la bellezza è qualcosa di più che umano?
 
 Ma dove sono finite le nevi di un tempo?
 
-# Dove si trova la molto saggia Hellois?
+Dove si trova la molto saggia Hellois?
 
-# Per chi fu castrato e poi monaco
+Per chi fu castrato e poi monaco
 
 Pierre Esbaillart a Saint-Denis?
 
@@ -3317,17 +3317,17 @@ Qui comanda quel Buridan
 
 Ma dove sono finite le nevi di un tempo,!
 
-# La Regina Bianca come un giglio
+La Regina Bianca come un giglio
 
-# Qui cantava a voce di serena;
+Qui cantava a voce di serena;
 
-# Berte con il grande piede, Bietris, Allis
+Berte con il grande piede, Bietris, Allis
 
-# Haremburgis qui tint le Maine
+Haremburgis qui tint le Maine
 
-# Et Jehanne, la bonne Lorraine
+Et Jehanne, la bonne Lorraine
 
-#In Rouen gli Inglesi appiccarono il fuoco;
+In Rouen gli Inglesi appiccarono il fuoco;
 
 Dove sono, O Vergine Sovrana?
 
@@ -3338,7 +3338,7 @@ CONCLUSIONE.
 Titolo:  
 Principe, non indagare mai…
 
-# Dove sono, quest’anno…
+Dove sono, quest’anno…
 
 “Che rimanga questo precetto nella vostra memoria…”
 
@@ -3355,7 +3355,7 @@ L’intera opera sopravvissuta di Villon è composta da due testamenti in versi:
 <span class="atom-split" data-atom="story_03_the_complaint--part_04" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 4)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death"></span>
 
 
-Thus the last Ballade, that of the “Dead Ladies,” comes after a couple of strong stanzas upon the necessity of [[Death|death]] — and so forth.
+Thus the last Ballade, that of the “Dead Ladies,” comes after a couple of strong stanzas upon the necessity of [[motifs/death|death]] — and so forth.
 
 One might choose any passage, almost, out of the mass to illustrate the character of this “Testament” in which the separate poems are imbedded. I have picked those round about the 800th line, the verses in which he is perhaps least brilliant and most tender.
 
@@ -3614,7 +3614,7 @@ Lancelot, le roy de Behaigne,
 
 <span class="qlang-split" data-lang="it"></span>
 
-Pertanto, l’ultima ballata, quella delle “Donne Morte”, segue alcune strofe molto forti che parlano della necessità della [[Death|morte]] – e così via.
+Pertanto, l’ultima ballata, quella delle “Donne Morte”, segue alcune strofe molto forti che parlano della necessità della [[motifs/death|morte]] – e così via.
 
 Si potrebbe scegliere quasi qualsiasi passaggio da tutto questo insieme per illustrare il carattere di questo “Testamento” nel quale i singoli poemi sono inseriti. Ho scelto quelli che si trovano intorno alla 800ª riga, quei versi in cui forse l’autore appare meno brillante e più tenero.
 
@@ -3625,15 +3625,15 @@ LXXV.
 Titolo:  
 Primo amore… ma un amore povero
 
-# A la benoiste Trinité
+A la benoiste Trinité
 
-# Et la commande à Nostre Dame
+Et la commande à Nostre Dame
 
-# Camera della Divinità
+Camera della Divinità
 
-# Priante tutta la carità
+Priante tutta la carità
 
-# I nove degni ordini del cielo
+I nove degni ordini del cielo
 
 Titolo:  
 Che cosa possa significare questo dono ricevuto
@@ -3645,13 +3645,13 @@ LXXVI.
 Titolo:  
 “Dono e lascio il mio corpo”
 
-# Alla nostra grande madre, la Terra;
+Alla nostra grande madre, la Terra;
 
-# I vers non troveranno molta sostanza in questo testo…
+I vers non troveranno molta sostanza in questo testo…
 
 La lunga guerra gli ha fatto molto soffrire la fame.
 
-# O che possa essere liberato da grandi errori…
+O che possa essere liberato da grandi errori…
 
 Dove si è vinto in terra, si torna in terra.
 
@@ -3661,19 +3661,19 @@ Volontieri tornano al loro posto…
 
 LXXVII.
 
-# Item, et à mon plus que père
+Item, et à mon plus que père
 
 Maestro Guillaume de Villon
 
-# Qui m’esté a plus doulx que mere
+Qui m’esté a plus doulx que mere
 
-# Bambino cresciuto nella catena
+Bambino cresciuto nella catena
 
-# Degeté m’a de maint boullon
+Degeté m’a de maint boullon
 
-# Et di cestuy pas ne s’esjoye
+Et di cestuy pas ne s’esjoye
 
-# Et lui lo chiede in ginocchio
+Et lui lo chiede in ginocchio
 
 Non lascia che rimanga tutta quella gioia.
 
@@ -3682,18 +3682,18 @@ LXXVIII.
 Titolo:  
 Gli dono la mia libreria
 
-# Et le Roman du Pet au Diable
+Et le Roman du Pet au Diable
 
-# Quale maestro Guy Tabarie
+Quale maestro Guy Tabarie
 
 Qui ci sono uomini davvero grandi.
 
-# Sotto un tavolo
+Sotto un tavolo
 
 Titolo:  
 Per quanto sia fatto in modo rude…
 
-# La materia esterna è molto notevole
+La materia esterna è molto notevole
 
 Quella cosa rimedia a tutti i mali causati.
 
@@ -3702,14 +3702,14 @@ LXXIX.
 Titolo:  
 Donne per mia povera madre
 
-# Per salutare la nostra Signora
+Per salutare la nostra Signora
 
 Titolo:  
 Per me, solo dolore amaro
 
-# Dio lo sa, e molta tristezza…
+Dio lo sa, e molta tristezza…
 
-# Un altro castello non ha fortezze
+Un altro castello non ha fortezze
 
 Titolo:  
 Dove il corpo e l’anima si ritrovano
@@ -3741,18 +3741,18 @@ In secondo luogo, l’effetto processionale e curioso derivante dal metro e dall
 
 La ballata della nostra signora.
 
-# Dame des Cieux, regina della terra
+Dame des Cieux, regina della terra
 
-# Imperatrice delle paludi infernali
+Imperatrice delle paludi infernali
 
 Titolo:  
 Ricevete me, la vostra umile cristiana…
 
-# Que cosa nasconde il vostro silenzio
+Que cosa nasconde il vostro silenzio
 
 Nonostante nulla abbia mai valore.
 
-# I vostri beni, mia signora e mia padrona
+I vostri beni, mia signora e mia padrona
 
 “Sono troppo grandi per essere così peccaminosa…”
 
@@ -3764,13 +3764,13 @@ In queste terre ho voluto vivere e morire
 
 “Vostro figlio dice che io appartengo a lui…”
 
-# De luy soyent mes pechiez aboluz
+De luy soyent mes pechiez aboluz
 
 Perdona me, come per l’egiziana…
 
 O come fece con il chierico Teofilo
 
-# Quale di queste fu per te considerata definitiva e irrevocabile?
+Quale di queste fu per te considerata definitiva e irrevocabile?
 
 Per quanto grandi fossero le promesse fatte al Diavolo.
 
@@ -3782,41 +3782,41 @@ I sacramenti che vengono celebrati durante la messa.
 
 In queste condizioni, ho voluto vivere e morire.
 
-# Donna, sono una misera e anziana
+Donna, sono una misera e anziana
 
-# Nessuno lo sa; nessuna lettera è stata letta.
+Nessuno lo sa; nessuna lettera è stata letta.
 
 Titolo:  
 Nel monastero di cui faccio parte della parrocchia
 
-# Paradiso sfumato, dove risuonano arpe e luci
+Paradiso sfumato, dove risuonano arpe e luci
 
-# Un inferno dove i corpi vengono bruciati
+Un inferno dove i corpi vengono bruciati
 
 Uno mi fa paura, l’altro mi dà gioia e felicità.
 
 Titolo:  
 La gioia che mi hai dato, o alta Dea…
 
-# Il rifugio dove tutti i peccatori devono ricorrere
+Il rifugio dove tutti i peccatori devono ricorrere
 
 Comblez de Foy non sembrava mai perdere le forze.
 
 In queste condizioni, ho voluto vivere e morire.
 
-# Addio
+Addio
 
-# Voi che foste, nobile vergine, principessa…
+Voi che foste, nobile vergine, principessa…
 
 Gesù regnante. Qui non c’è mai fine né sosta.
 
-# Le Tout Puissant, approfittando della nostra debolezza
+Le Tout Puissant, approfittando della nostra debolezza
 
-#"Venne dal cielo per salvarci."
+"Venne dal cielo per salvarci."
 
 Dedicò la sua adorabile giovinezza alla morte.
 
-# Il nostro Signore è così come lo confessiamo
+Il nostro Signore è così come lo confessiamo
 
 In queste condizioni, ho voluto vivere e morire.
 
@@ -3850,7 +3850,7 @@ Alfonce, re d’Aragona
 
 Il nobile Duca di Bourbon
 
-# Et Artus, il Duca di Bretagna
+Et Artus, il Duca di Bretagna
 
 E Carlo Settimo, il Buono?.
 
@@ -3885,7 +3885,7 @@ Chi resiste alla morte non può essere sconfitto
 
 Trovò delle provviste.
 
-# Ancora una domanda…
+Ancora una domanda…
 
 Lancelot, il re della bellezza
 
@@ -3912,7 +3912,7 @@ THE DIRGE.
 
 THIS IS THE best ending for any set of verses one may choose out of Villon. It follows and completes the epitaph which in his will he orders to be written in charcoal — or scratched — above his tomb: the sad, sardonic octave of “the little scholar and poor.” It is a kind of added dirge to be read by those who pass and to be hummed or chaunted over him dead. But it is a rondeau.
 
-See how sharp it is with the salt and vinegar of his pressed courageous smile — and how he cannot run away from his religion or from his power over sudden and vivid [[Beauty|beauty]].
+See how sharp it is with the salt and vinegar of his pressed courageous smile — and how he cannot run away from his religion or from his power over sudden and vivid [[concepts/beauty|beauty]].
 
 “Sire — et clarté perpétuelle” — which last are the best two words that ever stood in the vulgar for lux perpetua.
 
@@ -3946,13 +3946,13 @@ Repos éternel donne à cil.
 
 CLEMENT MAROT.
 
-IF IN CHARLES of Orleans the first note of the French [[Renaissance]] is heard, if in Villon you find first its energy appearing above ground, yet both are forerunners only.
+IF IN CHARLES of Orleans the first note of the French [[historical-references/renaissance|Renaissance]] is heard, if in Villon you find first its energy appearing above ground, yet both are forerunners only.
 
-With Marot one is in the full tide of the movement. The discovery of America had preceded his birth by three or perhaps four years. His early manhood was filled with all that ferment, all that enormous branching out of human life, which was connected with the expansion of Spain; he was in the midst of the scarlet and the gold. A man just of age when Luther was first condemned, living his active manhood through the experience of the great battlefields in Italy, wounded (a valet rather than a soldier) at Pavia, the perpetual chorus of Francis I., privileged to witness the first stroke of the pickaxe against the mediaeval Louvre, and to see the first Italian dignity of the great stone houses on the Loire — being all this, the [[Renaissance]] was the stuff on which his life was worked.
+With Marot one is in the full tide of the movement. The discovery of America had preceded his birth by three or perhaps four years. His early manhood was filled with all that ferment, all that enormous branching out of human life, which was connected with the expansion of Spain; he was in the midst of the scarlet and the gold. A man just of age when Luther was first condemned, living his active manhood through the experience of the great battlefields in Italy, wounded (a valet rather than a soldier) at Pavia, the perpetual chorus of Francis I., privileged to witness the first stroke of the pickaxe against the mediaeval Louvre, and to see the first Italian dignity of the great stone houses on the Loire — being all this, the [[historical-references/renaissance|Renaissance]] was the stuff on which his life was worked.
 
-His blood and descent were typical enough of the work he had to do. His own father was one of the last set rhymers of the dying Middle Ages. All his boyhood was passed among that multitude of little dry “writers-down of verse” with which, in [[Paris]], the Middle Ages died; they were not a swarm, for they were not living; they were a heap of dust. All his early work is touched with the learned, tedious, unbeautiful industry which was all that the elder men round Louis XII could bring to letters. By a happy accident there were mixed in him, however, two vigorous springs of inspiration, each ready to receive the new forces that were working in Europe, each destined to take the fullest advantage of the new time. These springs were first, learned Normandy, quiet, legal, well-founded, deep in grass, wealthy; and secondly, the arid brilliancy of the South: Quency and the country round Cahors. His father was a Norman pure bred, who had come down and married into that sharp land where the summer is the note of the whole year, and where the traveller chiefly remembers vineyards, lizards on the walls, short shadows, sleep at noon, and blinding roads of dust. The first years of his childhood were spent in the southern town, so that the south entered into him thoroughly. The language that he never wrote, the Languedoc, was that, perhaps, in which he thought during all his life. It was his mother’s.
+His blood and descent were typical enough of the work he had to do. His own father was one of the last set rhymers of the dying Middle Ages. All his boyhood was passed among that multitude of little dry “writers-down of verse” with which, in [[settings/paris|Paris]], the Middle Ages died; they were not a swarm, for they were not living; they were a heap of dust. All his early work is touched with the learned, tedious, unbeautiful industry which was all that the elder men round Louis XII could bring to letters. By a happy accident there were mixed in him, however, two vigorous springs of inspiration, each ready to receive the new forces that were working in Europe, each destined to take the fullest advantage of the new time. These springs were first, learned Normandy, quiet, legal, well-founded, deep in grass, wealthy; and secondly, the arid brilliancy of the South: Quency and the country round Cahors. His father was a Norman pure bred, who had come down and married into that sharp land where the summer is the note of the whole year, and where the traveller chiefly remembers vineyards, lizards on the walls, short shadows, sleep at noon, and blinding roads of dust. The first years of his childhood were spent in the southern town, so that the south entered into him thoroughly. The language that he never wrote, the Languedoc, was that, perhaps, in which he thought during all his life. It was his mother’s.
 
-It has been noticed by all his modern readers, it will be noticed probably with peculiar force by English readers, that the fame of Marot during his lifetime and his historical position as the leader of the [[Renaissance]] has in it something exaggerated and false. One cannot help a perpetual doubt as to whether the religious quarrel, the influence of the Court, the strong personal friendships and enmities which surrounded him had not had more to do with his reputation than his faculty, or even his genius, for rhyme. Whenever he wanted £100 he asked it of the King with the grave promise that he would bestow upon him immortality.
+It has been noticed by all his modern readers, it will be noticed probably with peculiar force by English readers, that the fame of Marot during his lifetime and his historical position as the leader of the [[historical-references/renaissance|Renaissance]] has in it something exaggerated and false. One cannot help a perpetual doubt as to whether the religious quarrel, the influence of the Court, the strong personal friendships and enmities which surrounded him had not had more to do with his reputation than his faculty, or even his genius, for rhyme. Whenever he wanted £100 he asked it of the King with the grave promise that he would bestow upon him immortality.
 
 From Ronsard, or from Du Bellay, we, here in the north, could understand that phrase; from Marot it carries a flavour of the grotesque. Ready song, indeed, and a great power over the material one uses in singing last indefinitely; they last as long as the sublime or the terrible in literature, but we forbear to associate with them — perhaps unjustly — the conception of greatness. If indeed anyone were to maintain that Marot was not an excellent and admirable poet he would prove himself ignorant of the language in which Marot wrote, but let the most sympathetic turn to what is best in his verse, let them turn for instance to that charming lyric: “A sa Dame Malade” or to “The Ballad of Old Time,” or even to that really large and riotous chorus of the vine, and they will see that it is the kind of thing which is amplified by music, and which sometimes demands the aid of music to appear at all. They will see quite plainly that Marot took pleasure in playing with words and arranged them well, felt keenly and happily, played a full lyre, but they will doubt whether poetry was necessarily for him the most serious business of life.
 
@@ -3993,24 +3993,24 @@ Non c’è da meravigliarsi che, con il passare del tempo, sempre più persone i
 
 RONDONE.
 
-# Riposo eterno, dona alle donne…
+Riposo eterno, dona alle donne…
 
-# Luce e chiarezza eterna
+Luce e chiarezza eterna
 
 Titolo:  
 Né piatti né ciotole valorosi qui…
 
 Non ne ebbe mai, nessun cervello capace di comprenderlo.
 
-# Il futuro, capo, barba e sopracciglio
+Il futuro, capo, barba e sopracciglio
 
 Come un cetriolo che si raccoglie o si pela.
 
 Riposo eterno, donne dai capelli neri.
 
-# Rigore lo manda in esilio
+Rigore lo manda in esilio
 
-# Lo colpì sul sedere con una pelle…
+Lo colpì sul sedere con una pelle…
 
 Nonostante dica “Chiamo in aiuto!”
 
@@ -4022,11 +4022,11 @@ Clement Marot.
 
 Se in Carlo d’Orléans si percepisce la prima nota del Rinascimento francese, se in Villon si osserva per la prima volta l’espressione di quell’energia, entrambi rappresentano tuttavia soltanto precursori di quel movimento culturale.
 
-Con Marot ci si trovava nel pieno vortice di quel movimento. La scoperta dell’America era avvenuta tre o forse quattro anni prima della sua nascita. I primi anni della sua vita adulta furono segnati da tutto quel fermento, da quella enorme espansione della vita umana legata all’espansione spagnola; egli visse in mezzo a colori sgargianti e alla ricchezza materiale. Fu un uomo giunto appena all’età adulta quando Lutero fu condannato per la prima volta; trascorse la sua vita attiva tra i grandi campi di battaglia d’Italia, fu ferito a Pavia (in qualità di attendente e non di soldato), ebbe l’onore di assistere al primo attacco contro il Louvre medievale e vide nascere quella dignità tipica delle grandi dimore in pietra lungo la Loira. Tutto ciò fece sì che la [[Renaissance|Rinascita]] fosse lo spirito stesso che guidava la sua esistenza.
+Con Marot ci si trovava nel pieno vortice di quel movimento. La scoperta dell’America era avvenuta tre o forse quattro anni prima della sua nascita. I primi anni della sua vita adulta furono segnati da tutto quel fermento, da quella enorme espansione della vita umana legata all’espansione spagnola; egli visse in mezzo a colori sgargianti e alla ricchezza materiale. Fu un uomo giunto appena all’età adulta quando Lutero fu condannato per la prima volta; trascorse la sua vita attiva tra i grandi campi di battaglia d’Italia, fu ferito a Pavia (in qualità di attendente e non di soldato), ebbe l’onore di assistere al primo attacco contro il Louvre medievale e vide nascere quella dignità tipica delle grandi dimore in pietra lungo la Loira. Tutto ciò fece sì che la [[historical-references/renaissance|Rinascita]] fosse lo spirito stesso che guidava la sua esistenza.
 
-Il suo sangue e le sue origini erano sufficientemente tipici del lavoro che doveva svolgere. Suo padre stesso era uno degli ultimi poeti rimasti dell’Medioevo morente. Tutta la sua infanzia trascorse tra quella moltitudine di giovani “scrittori di versi” che, a [[Paris|Parigi]], rappresentavano l’ultima espressione culturale del Medioevo; ma non erano certo una vera e propria comunità creativa, poiché in realtà non vivevano davvero: erano soltanto un mucchio di polvere. Tutti i suoi primi lavori sono caratterizzati da quella cultura erudita, noiosa e priva di bellezza che rappresentava tutto ciò che gli anziani intorno a Luigi XII potevano offrire alla letteratura. Tuttavia, per fortuna, in lui si mescolavano due forti fonti di ispirazione: da un lato, la cultura erudita della Normandia – tranquilla, legale, solida e rigogliosa; dall’altro, la brillantezza asciutta del Sud, con le regioni di Quency e dintorni di Cahors. Suo padre era un normanno puro sangue che si era trasferito in quella terra dove l’estate domina tutto l’anno, dove i viaggiatori ricordano soprattutto vigneti, lucertole sulle pareti, ombre corte, il sonno a mezzogiorno e strade coperte di polvere. I primi anni della sua infanzia trascorsero in quella città del Sud, quindi il carattere meridionale si impresse profondamente in lui. La lingua che non scrisse mai, il linguaggio del Languedoc, fu probabilmente quella con cui pensò per tutta la vita: era la lingua di sua madre.
+Il suo sangue e le sue origini erano sufficientemente tipici del lavoro che doveva svolgere. Suo padre stesso era uno degli ultimi poeti rimasti dell’Medioevo morente. Tutta la sua infanzia trascorse tra quella moltitudine di giovani “scrittori di versi” che, a [[settings/paris|Parigi]], rappresentavano l’ultima espressione culturale del Medioevo; ma non erano certo una vera e propria comunità creativa, poiché in realtà non vivevano davvero: erano soltanto un mucchio di polvere. Tutti i suoi primi lavori sono caratterizzati da quella cultura erudita, noiosa e priva di bellezza che rappresentava tutto ciò che gli anziani intorno a Luigi XII potevano offrire alla letteratura. Tuttavia, per fortuna, in lui si mescolavano due forti fonti di ispirazione: da un lato, la cultura erudita della Normandia – tranquilla, legale, solida e rigogliosa; dall’altro, la brillantezza asciutta del Sud, con le regioni di Quency e dintorni di Cahors. Suo padre era un normanno puro sangue che si era trasferito in quella terra dove l’estate domina tutto l’anno, dove i viaggiatori ricordano soprattutto vigneti, lucertole sulle pareti, ombre corte, il sonno a mezzogiorno e strade coperte di polvere. I primi anni della sua infanzia trascorsero in quella città del Sud, quindi il carattere meridionale si impresse profondamente in lui. La lingua che non scrisse mai, il linguaggio del Languedoc, fu probabilmente quella con cui pensò per tutta la vita: era la lingua di sua madre.
 
-È stato notato da tutti i suoi lettori moderni, e probabilmente con particolare intensità dai lettori inglesi, che la fama di Marot durante la sua vita, nonché la sua posizione storica come leader del [[Renaissance|Rinascimento]], presentano elementi esagerati e falsi. Non si può fare a meno di dubitare costantemente se le controversie religiose, l’influenza della Corte, le forti amicizie e inimicizie personali che lo circondavano abbiano avuto un ruolo più importante nella sua reputazione rispetto alle sue capacità, o addirittura al suo genio, nel campo della poesia. Ogni volta che aveva bisogno di 100 sterline, le chiedeva al Re con la solenne promessa di donargli l’immortalità in cambio.
+È stato notato da tutti i suoi lettori moderni, e probabilmente con particolare intensità dai lettori inglesi, che la fama di Marot durante la sua vita, nonché la sua posizione storica come leader del [[historical-references/renaissance|Rinascimento]], presentano elementi esagerati e falsi. Non si può fare a meno di dubitare costantemente se le controversie religiose, l’influenza della Corte, le forti amicizie e inimicizie personali che lo circondavano abbiano avuto un ruolo più importante nella sua reputazione rispetto alle sue capacità, o addirittura al suo genio, nel campo della poesia. Ogni volta che aveva bisogno di 100 sterline, le chiedeva al Re con la solenne promessa di donargli l’immortalità in cambio.
 
 Tratto da Ronsard o da Du Bellay, noi qui nel nord potremmo comprendere quel verso; tratto da Marot, invece, assume un tono grottesco. Davvero, le sue canzoni sono pronte per essere cantate e possiedono un grande potere sul materiale utilizzato nella loro esecuzione; durano tanto quanto ciò che è sublime o terribile nella letteratura. Ma noi evitiamo di associarvi – forse ingiustamente – l’idea di grandezza. Se qualcuno dovesse sostenere che Marot non fosse un poeta eccellente e ammirevole, dimostrerebbe di ignorare la lingua in cui scriveva. Ma chiunque abbia simpatia per il suo lavoro possa rivolgersi a ciò che c’è di meglio nelle sue poesie: ad esempio, a quella incantevole lirica “A Sa Dame Malade”, alla “Ballata del Tempo Antico”, o persino a quel coro vivace e ricco di immagini riguardanti la vite. Scoprirà che si tratta di testi che vengono arricchiti dalla musica, e che talvolta necessitano proprio della musica per essere pienamente compresi. Vedrà chiaramente che Marot si divertiva a giocare con le parole, a disporle in modo armonioso. Provava emozioni intense e gioiose nel creare le sue poesie. Ma dubiterà che la poesia fosse necessariamente l’occupazione più importante della sua vita.
 
@@ -4049,7 +4049,7 @@ See how French was the whole career!
 
 Whatever is new attracts him. The reformation attracts him. It was chic to have to do with these new things. He had the French ignorance of what was foreign and alien; the French curiosity to meddle with it because it had come from abroad; the French passion for opposing, for struggling; — and beneath it all the large French indifference to the problem of evil (or whatever you like to call it), the changeless French content in certitude, upon which ease, indeed, as upon a rock, the Church of Gaul has permanently stood and will continuously repose.
 
-He has been a sore puzzle to the men who have never heard of these things. Calvin (that appalling exception who had nothing in him of [[France]] except lucidity) could make neither head nor tail of him. Geneva was glad enough to chaunt through the nose his translations of the Psalms, but it was woefully puzzled at his salacity, and the town was very soon too hot to hold him in his exile. And as for the common, partial, and ignorant histories of [[France]], written in our tongue, they generally make him a kind of backslider, who might have been a Huguenot (and — who knows? — have thrown the Sacrament to beasts with the best of them) save that, unhappily, he did not persevere. Whatever they say of him (and some have hardly heard of him) one thing is quite certain: that they do not understand him, and that if they did they would like him still less than they do.
+He has been a sore puzzle to the men who have never heard of these things. Calvin (that appalling exception who had nothing in him of [[settings/france|France]] except lucidity) could make neither head nor tail of him. Geneva was glad enough to chaunt through the nose his translations of the Psalms, but it was woefully puzzled at his salacity, and the town was very soon too hot to hold him in his exile. And as for the common, partial, and ignorant histories of [[settings/france|France]], written in our tongue, they generally make him a kind of backslider, who might have been a Huguenot (and — who knows? — have thrown the Sacrament to beasts with the best of them) save that, unhappily, he did not persevere. Whatever they say of him (and some have hardly heard of him) one thing is quite certain: that they do not understand him, and that if they did they would like him still less than they do.
 
 He was national in the rapidity of the gesture of his mind as in that of his body: in his being attracted here and there, watching this and that suddenly, like a bird.
 
@@ -4130,7 +4130,7 @@ Vedete come il francese abbia dominato tutta la sua carriera!
 
 Quello che è nuovo lo attira. La riforma lo attira. Era considerato “alla moda” essere coinvolti in queste cose nuove. Aveva quell’ignoranza tipica dei francesi riguardo a ciò che era straniero e diverso; ma anche quella curiosità francese di mettersi alla prova con ciò che proveniva dall’estero; e poi, sotto tutto questo, quell’indifferenza profonda dei francesi nei confronti del problema del male (o come lo si voglia chiamare). Quella certezza incrollabile dei francesi, su cui, infatti, come su una roccia solida, la Chiesa di Gallia è sempre stata ed è destinata a rimanere saldamente stabilita.
 
-È stato davvero un enigma per coloro che non avevano mai sentito parlare di queste cose. Calvin – quell’orribile eccezione che in lui non c’era nulla dell’essenza della [[France|Francia]] se non la lucidità – non riusciva affatto a comprenderlo. Ginevra era più che felice di ascoltare le sue traduzioni dei Salmi, ma rimaneva profondamente perplessa dalla sua volgarità; in breve, la città divenne troppo “calda” per poterlo ospitare nel suo esilio. Quanto alle storie comuni, parziali e ignoranti della [[France|Francia]] scritte nella nostra lingua, queste di solito lo dipingono come un traditore che avrebbe potuto essere un Ugonotto, (e chissà? forse avrebbe gettato il Sacramento ai animali insieme agli altri migliori, ) se solo, sfortunatamente, non avesse cambiato idea. Qualunque cosa si dica di lui (e alcuni nemmeno hanno mai sentito parlare di lui), una cosa è certa: non lo capiscono affatto. E se lo capissero, probabilmente lo detesterebbero ancora di più.
+È stato davvero un enigma per coloro che non avevano mai sentito parlare di queste cose. Calvin – quell’orribile eccezione che in lui non c’era nulla dell’essenza della [[settings/france|Francia]] se non la lucidità – non riusciva affatto a comprenderlo. Ginevra era più che felice di ascoltare le sue traduzioni dei Salmi, ma rimaneva profondamente perplessa dalla sua volgarità; in breve, la città divenne troppo “calda” per poterlo ospitare nel suo esilio. Quanto alle storie comuni, parziali e ignoranti della [[settings/france|Francia]] scritte nella nostra lingua, queste di solito lo dipingono come un traditore che avrebbe potuto essere un Ugonotto, (e chissà? forse avrebbe gettato il Sacramento ai animali insieme agli altri migliori, ) se solo, sfortunatamente, non avesse cambiato idea. Qualunque cosa si dica di lui (e alcuni nemmeno hanno mai sentito parlare di lui), una cosa è certa: non lo capiscono affatto. E se lo capissero, probabilmente lo detesterebbero ancora di più.
 
 Era eccezionale sia per la velocità dei suoi pensieri che per quella dei suoi movimenti; era come un uccello, attratto da un luogo all’altro, osservando improvvisamente questo o quell’altro.
 
@@ -4166,15 +4166,15 @@ Aveva iniziato a corteggiarla molto tempo fa.
 
 In tempi lontani, un treno d’amore dominava…
 
-#"Qui sans grand art et dons se démenoit,""
+"Qui sans grand art et dons se démenoit,""
 
-# Se un mazzo di fiori rappresentasse un amore profondo
+Se un mazzo di fiori rappresentasse un amore profondo
 
 Si era dato tutta la terra rotonda…
 
 Perché si prendeva solo il cuore.
 
-# Et se, per caso, ci fosse modo di godere…
+Et se, per caso, ci fosse modo di godere…
 
 Sapete davvero bene come ci si comportava all’epoca?
 
@@ -4182,15 +4182,15 @@ Venti anni, trent’anni… il tempo passa lentamente.
 
 Ai bei tempi antichi.
 
-# Perduto ciò che l’amore comandava
+Perduto ciò che l’amore comandava
 
 Si sentivano solo lacrime false, solo cambiamenti apparenti.
 
-#"Qui voudrait donc que pour aimer je m'abandonne?"
+"Qui voudrait donc que pour aimer je m'abandonne?"
 
-# Il difetto sta nel fatto che l’amore venga sempre ricostruito
+Il difetto sta nel fatto che l’amore venga sempre ricostruito
 
-# Et qu’on la meine ainsi qu’on la menait
+Et qu’on la meine ainsi qu’on la menait
 
 Ai bei tempi antichi.
 
@@ -4267,7 +4267,7 @@ TWO EPIGRAMS.
 
 (THE 41ST OF the First Book and the 46th of the Second.)
 
-These two epigrams are again but examples of the readiness, the wit, the hard surface of Marot, and they needed no more poetry than was in [[Voltaire]] or Swift, but they needed style. It was this absolute and standard style which his contemporaries chiefly remarked in him: the marvel was, that being mainly such an epigrammatist and scholar, and praised and supported only in that guise, he should have carried in him any, or rather so much, fire.
+These two epigrams are again but examples of the readiness, the wit, the hard surface of Marot, and they needed no more poetry than was in [[historical-references/voltaire|Voltaire]] or Swift, but they needed style. It was this absolute and standard style which his contemporaries chiefly remarked in him: the marvel was, that being mainly such an epigrammatist and scholar, and praised and supported only in that guise, he should have carried in him any, or rather so much, fire.
 
 The first was his reply to a Dixaine the king’s sister had sent him. The second explains itself.
 
@@ -4293,7 +4293,7 @@ Mais d’en prester, foy de marchant, encor,
 
 Et j’ay promis, foy de Clément, d’en prendre.
 
-[[Paris]], tu m’as faict maints alarmes,
+[[settings/paris|Paris]], tu m’as faict maints alarmes,
 
 Jusque à me poursuivre à la mort:
 
@@ -4381,7 +4381,7 @@ THE VINEYARD SONG.
 
 Here is Marot’s best — even though many of his native critics will not admit it so; but to feel it in full one must be exiled from the vines.
 
-It is a tapestry of the [[Renaissance]]; the jolly gods of the [[Renaissance]], the old gods grown Catholic moving across a happier stage. Bacchus in long robes and with solemnity blessing the vine, Silenus and the hobbling smith who smithied the Serpe, the Holy Vineyard Knife in heaven, all these by their diction and their flavour recall the Autumn in Herault and the grapes under a pure sky, pale at the horizon, and labourers and their carts in the vineyard, and these set in the frame of that great time when Saturn did return.
+It is a tapestry of the [[historical-references/renaissance|Renaissance]]; the jolly gods of the [[historical-references/renaissance|Renaissance]], the old gods grown Catholic moving across a happier stage. Bacchus in long robes and with solemnity blessing the vine, Silenus and the hobbling smith who smithied the Serpe, the Holy Vineyard Knife in heaven, all these by their diction and their flavour recall the Autumn in Herault and the grapes under a pure sky, pale at the horizon, and labourers and their carts in the vineyard, and these set in the frame of that great time when Saturn did return.
 
 All the poem is wine. It catches its rhymes and weaves them in and in, and moves rapid and careless in a fugue, like the march from Asia when the Panthers went before and drew the car. The internal rhythm and pulse is the clapping of hands in barns at evening and the peasants’ feet dancing freely on the beaten earth. It is a very good song; it remembers the treading of the grapes and is refreshed by the mists that rise at evening when the labour is done.
 
@@ -4438,11 +4438,11 @@ IF IT BE true that words create for themselves a special atmosphere, and that th
 
 Il fatto che pensasse “come un sudista”, come ho sempre sostenuto e come dimostrerò con un altro esempio, diventa ancora più probabile considerando il valore che attribuisce alla vocale “e” femminile. Il meraviglioso ritmo di questo poema si ottiene soltanto dando alla vocale “e” femminile il valore di una sillaba prolungata.
 
-# L'effetto
+L'effetto
 
-# Est faict
+Est faict
 
-# La bella
+La bella
 
 “Pucel-le”, ecc.
 
@@ -4454,15 +4454,15 @@ Natale.
 
 Una pastorella gentile
 
-# Un taglialegna nel giardino
+Un taglialegna nel giardino
 
 Il giocatore di bili
 
 Si scambiavano parole, per farla breve…
 
-# Roger
+Roger
 
-# Bergier
+Bergier
 
 Legière
 
@@ -4474,21 +4474,21 @@ Cantiamo Noè, Noè, Noè.
 
 Ti ricordi ancora del profeta?
 
-# Qui nous dit cas de si hault faict
+Qui nous dit cas de si hault faict
 
-# Una vergine perfetta
+Una vergine perfetta
 
 Un bambino perfetto,?
 
-# L’effetto
+L’effetto
 
-# Est faict
+Est faict
 
 La bella
 
 Pucelle
 
-# Un figlio del cielo promesso…
+Un figlio del cielo promesso…
 
 Cantiamo Noè, Noè, Noè.
 
@@ -4496,7 +4496,7 @@ DUE EPIGRAFI.
 
 (The 41st chapter of the First Book and the 46th chapter of the Second.)
 
-Questi due epigrammi sono ancora una volta esempi della prontezza di spirito, dell’ingegno e della “durezza” stilistica di Marot; non avevano bisogno di una poesia più ricca di quella di [[Voltaire]] o Swift, ma necessitavano di uno stile particolare. Fu proprio questo stile assoluto e standard che i suoi contemporanei notarono soprattutto in lui: la meraviglia sta nel fatto che, essendo principalmente un epigrammista e uno studioso, e lodato e apprezzato soltanto per queste sue qualità, riuscisse comunque a trasmettere tanta passione e creatività nelle sue opere.
+Questi due epigrammi sono ancora una volta esempi della prontezza di spirito, dell’ingegno e della “durezza” stilistica di Marot; non avevano bisogno di una poesia più ricca di quella di [[historical-references/voltaire|Voltaire]] o Swift, ma necessitavano di uno stile particolare. Fu proprio questo stile assoluto e standard che i suoi contemporanei notarono soprattutto in lui: la meraviglia sta nel fatto che, essendo principalmente un epigrammista e uno studioso, e lodato e apprezzato soltanto per queste sue qualità, riuscisse comunque a trasmettere tanta passione e creatività nelle sue opere.
 
 Il primo era la sua risposta a una lettera inviatagli da Dixaine, la sorella del re. Il secondo è piuttosto ovvio.
 
@@ -4511,7 +4511,7 @@ I nostri creditori, che non si curano delle poesie…
 
 “La sorella del Re ha fatto questo per me.”
 
-# Quando credevano che fossi in grande debito
+Quando credevano che fossi in grande debito
 
 Mi hanno chiamato signore a gran voce…
 
@@ -4519,21 +4519,21 @@ Mi hanno chiamato signore a gran voce…
 
 Mi hanno promesso che non solo mi aspetteranno…
 
-#"Ancora in prestito, giuro come mercante, ancora..."
+"Ancora in prestito, giuro come mercante, ancora..."
 
 E ho promesso, lo giuro su Clément, di prenderla.
 
-[[Paris|Parigi]], mi hai causato molte preoccupazioni.
+[[settings/paris|Parigi]], mi hai causato molte preoccupazioni.
 
 Fino a inseguirmi fino alla morte…
 
-# Ho solo descritto le tue armi…
+Ho solo descritto le tue armi…
 
 Un vero, quando lo prendi, morde forte!
 
 Ancora oggi il rimorso per quel crimine mi tormenta.
 
-# Che cosa ne penserai tu?
+Che cosa ne penserai tu?
 
 Titolo:  
 "Mais de nous deux, le diable emport..."
@@ -4557,30 +4557,30 @@ Vi do…
 
 Buongiorno.
 
-# Le Séjour
+Le Séjour
 
 È prigione.
 
 Guérison
 
-# Recopritevi
+Recopritevi
 
 Titolo:  
 Poi aprite…
 
 Vostre porte
 
-# Et qu'on sorte
+Et qu'on sorte
 
-# Abbigliamento
+Abbigliamento
 
-# Car Clément
+Car Clément
 
 Ve le manda.
 
 Va, friande
 
-# De ta bouche
+De ta bouche
 
 Titolo:  
 Qui si dorme
@@ -4592,20 +4592,20 @@ Per mangiare
 
 Confetture;
 
-# Se tu resisti
+Se tu resisti
 
 Troppo malato
 
 Titolo:  
 Colore sbiadito
 
-# Tu prenderai
+Tu prenderai
 
-# Et perdras
+Et perdras
 
 L’embonpoint.
 
-# Dieu te doint
+Dieu te doint
 
 "Santé bonne"
 
@@ -4617,7 +4617,7 @@ La canzone del vigneto.
 
 Ecco il meglio di Marot, anche se molti dei suoi critici non lo ammetteranno; ma per apprezzarlo appieno, bisogna essere esiliati lontano dalle viti.
 
-È un arazzo del [[Renaissance|Rinascimento]]; gli allegri dei dell’[[Renaissance|Rinascimento]], gli antichi dei diventati cattolici che si muovono su un palcoscenico più felice. Bacco, in abiti lunghi e con solennità, benedice la vite; Sileno e il fabbro zoppo che ha forgiato il Serpente Sacro; il Coltello del Vigneto Santo in cielo. Tutti questi personaggi, con il loro modo di esprimersi e il loro carattere distintivo, ricordano l’autunno nel dipartimento dell’Herault, i grappoli sotto un cielo sereno, pallidi all’orizzonte, i lavoratori e le loro carri nei vigneti. E tutto questo inserito nel contesto di quel grande periodo in cui Saturno tornò a regnare.
+È un arazzo del [[historical-references/renaissance|Rinascimento]]; gli allegri dei dell’[[historical-references/renaissance|Rinascimento]], gli antichi dei diventati cattolici che si muovono su un palcoscenico più felice. Bacco, in abiti lunghi e con solennità, benedice la vite; Sileno e il fabbro zoppo che ha forgiato il Serpente Sacro; il Coltello del Vigneto Santo in cielo. Tutti questi personaggi, con il loro modo di esprimersi e il loro carattere distintivo, ricordano l’autunno nel dipartimento dell’Herault, i grappoli sotto un cielo sereno, pallidi all’orizzonte, i lavoratori e le loro carri nei vigneti. E tutto questo inserito nel contesto di quel grande periodo in cui Saturno tornò a regnare.
 
 L'intero poema è come il vino: trova le sue rime e le intreccia continuamente, muovendosi con rapidità e disinvoltura in una sorta di fuga musicale, simile alla marcia proveniente dall’Asia quando i leopardi guidavano il carro. Il ritmo interno e il pulsare del poema sono come il battito delle mani nelle stalle al tramonto, o i passi liberi dei contadini sulla terra battuta. È davvero una bella canzone: ricorda il processo di spremitura dell’uva e si rinfresca con le nebbie che si levano alla sera, quando il lavoro è terminato.
 
@@ -4635,13 +4635,13 @@ Sono grida e canti della Serpetta…
 
 O serpillette, o la serpillonnette…
 
-#"La vignaletta è piantata proprio accanto a te."
+"La vignaletta è piantata proprio accanto a te."
 
 I buoni vini, ogni anno, ci sono sempre!
 
-# Il dio Vulcano, fabbro degli dei supremi
+Il dio Vulcano, fabbro degli dei supremi
 
-#"Forgia per il cielo quella lancia affilata..."
+"Forgia per il cielo quella lancia affilata..."
 
 Titolo:  
 Di acciaio temprato nel buon vino invecchiato
@@ -4650,20 +4650,20 @@ Per poter tagliare meglio e essere più coraggiosa.
 
 "Bacchus la loda e dice che è bellissima"
 
-# Et convenante à Noé le bonhomme
+Et convenante à Noé le bonhomme
 
 Taglia la vigna nella stagione giusta.
 
 "Bacchus, allora, indossava un cappello di vite..."
 
-#E arrivò per benedire la vigna;
+E arrivò per benedire la vigna;
 
 Titolo:  
 Con i suoi flaconi, Silénus mi seguiva.
 
-#Chi bevve dritto come una linea
+Chi bevve dritto come una linea
 
-# Poi inizia a saltellare su e giù, facendosi una grossa palla di fango…
+Poi inizia a saltellare su e giù, facendosi una grossa palla di fango…
 
 Il suo naso era rosso come il fuoco.
 
@@ -4678,11 +4678,11 @@ Se è vero che le parole creano per sé un’atmosfera speciale, e che il loro s
 <span class="atom-split" data-atom="story_03_the_complaint--part_08" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 8)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death,concept/beauty,histref/renaissance,setting/france"></span>
 
 
-A group of men to which allusion will be made in connection with Du Bellay set out with a programme, developed a determined school, and fixed the literary [[Renaissance|renaissance]] of [[France]] at its highest point. They steeped themselves in antiquity, and they put to the greatest value it has ever received the name of poet; they demanded that the poet should be a kind of king, or seer. Half seriously, half as a product of mere scholarship, the pagan conception of the muse and of inspiration filled them.
+A group of men to which allusion will be made in connection with Du Bellay set out with a programme, developed a determined school, and fixed the literary [[historical-references/renaissance|renaissance]] of [[settings/france|France]] at its highest point. They steeped themselves in antiquity, and they put to the greatest value it has ever received the name of poet; they demanded that the poet should be a kind of king, or seer. Half seriously, half as a product of mere scholarship, the pagan conception of the muse and of inspiration filled them.
 
 More than that; in their earnest, and, as it seemed at first, artificial work, they formed the French language. Some of its most famous and most familiar words proceed from them — for instance, the word Patrie. Some few of their exotic Greek and Latin adaptations were dropped; the greater part remained. They have excluded from French — as some think to the impoverishment of that language — most elements of the Gothic — the inversion of the adjective, the frequent suppression of the relative, the irregularity of form, which had survived from the Middle Ages, and which make the older French poetry so much more sympathetic to the Englishman than is the new — all these were destroyed by the group of men of whom I speak. They were called by their contemporaries the Pleiade, for they were seven stars.
 
-Now, of these, Ronsard was easily the master. He had that power which our anaemic age can hardly comprehend, of writing, writing, writing, without fear of exhaustion, without irritability or self-criticism, without danger of comparing the better with the worse. Five great volumes of small print, all good — men of that facility never write the really paltry things — all good, and most of it glorious; some of it on the level which only the great poets reach here and there. It is in reading this man who rhymed unceasingly for forty years, who made of poetry an occupation as well as a glory, and who let it fill the whole of his life, that one feels how much such creative power has to do with the value of verse. There is a kind of good humility about it, the humility of a man who does not look too closely at himself, and the health of a soul at full stride, going forward. You may open Ronsard at any page, and find a [[Beauty|beauty]]; you may open any one of the sonnets at random, and in translating it discover that you are compelled to a fine English, because he is saying, plainly, great things. And of these sonnets, note you, he would write thirty at a stretch, and then twenty, and then a second book, with seventy more. So that as one reads one cannot help understanding that Italian who said a man was no poet unless he could rap out a century of sonnets from time to time; and one is reminded of the general vigour of the age and of the way in which art of all sorts was mingled up together, when one remembers the tags of verses, just such verses as these, which are yet to be seen in our galleries set down doubtfully on the margin of their sketches by the great artists of Italy.
+Now, of these, Ronsard was easily the master. He had that power which our anaemic age can hardly comprehend, of writing, writing, writing, without fear of exhaustion, without irritability or self-criticism, without danger of comparing the better with the worse. Five great volumes of small print, all good — men of that facility never write the really paltry things — all good, and most of it glorious; some of it on the level which only the great poets reach here and there. It is in reading this man who rhymed unceasingly for forty years, who made of poetry an occupation as well as a glory, and who let it fill the whole of his life, that one feels how much such creative power has to do with the value of verse. There is a kind of good humility about it, the humility of a man who does not look too closely at himself, and the health of a soul at full stride, going forward. You may open Ronsard at any page, and find a [[concepts/beauty|beauty]]; you may open any one of the sonnets at random, and in translating it discover that you are compelled to a fine English, because he is saying, plainly, great things. And of these sonnets, note you, he would write thirty at a stretch, and then twenty, and then a second book, with seventy more. So that as one reads one cannot help understanding that Italian who said a man was no poet unless he could rap out a century of sonnets from time to time; and one is reminded of the general vigour of the age and of the way in which art of all sorts was mingled up together, when one remembers the tags of verses, just such verses as these, which are yet to be seen in our galleries set down doubtfully on the margin of their sketches by the great artists of Italy.
 
 Ronsard, with these qualities of a leader, unconscious, as all true leaders are, of the causes of his leadership, and caring, as all true leaders do, for nothing in leadership save the glory it brings with it, had also, as have all leaders, chiefly the power of drawing in a multitude of friends. The peculiar head of his own group, he very soon became the head of all the movement of his day. He had made letters really great in the minds of his contemporaries, and having so made them, appeared before them as a master of those letters. Certainly, as I shall quote him in a moment when I come to his dying speech, he was “satiated with glory.”
 
@@ -4690,16 +4690,16 @@ Yet this man did not in his personality convey that largeness which was his prin
 
 In yet another matter he was a leader, and a leader of the utmost weight, not the cause, perhaps, but certainly the principal example of the trend which the mind of the nation was taking as the sixteenth century drew to a close. I mean in the matter of religion, upon whose colour every society depends, which is the note even of a national language, and which seems to be the ultimate influence beyond which no historical analysis can carry a thinking man.
 
-But even those who will not admit the truth of this should watch the theory closely, for with the religious trend of [[France]] is certainly bound up, and, as I would maintain, on such an influence is dependent, that ultimate setting of the French classic, that winding up of the [[Renaissance]], with which I shall deal in the essay upon Malherbe.
+But even those who will not admit the truth of this should watch the theory closely, for with the religious trend of [[settings/france|France]] is certainly bound up, and, as I would maintain, on such an influence is dependent, that ultimate setting of the French classic, that winding up of the [[historical-references/renaissance|Renaissance]], with which I shall deal in the essay upon Malherbe.
 
-The stream of Catholicism was running true. The nation was tumbling back after a high and turbulent flood into the channel it had scoured for itself by the unbroken energies of a thousand years. It is no accident that Ronsard, that Du Bellay, were churchmen. It is a type. It is a type of the truth that the cloth admitted poets; of the truth that in the great battle whose results yet trouble Europe, here, on the soil where the great questions are fought out, Puritanism was already killed. The epicurean in them both, glad and ready in Ronsard, sombre and Lucretian in Du Bellay, jarred indeed in youth against their vows; but that it should have been tolerated, that it should have led to no excess or angry revolt, was typical of their moment. It was typical, finally, of their generation that all this mixture of the [[Renaissance]] with the Church matured at last into its natural fruit, for in the case of Ronsard we have a noble expression of perfect Christianity at the end.
+The stream of Catholicism was running true. The nation was tumbling back after a high and turbulent flood into the channel it had scoured for itself by the unbroken energies of a thousand years. It is no accident that Ronsard, that Du Bellay, were churchmen. It is a type. It is a type of the truth that the cloth admitted poets; of the truth that in the great battle whose results yet trouble Europe, here, on the soil where the great questions are fought out, Puritanism was already killed. The epicurean in them both, glad and ready in Ronsard, sombre and Lucretian in Du Bellay, jarred indeed in youth against their vows; but that it should have been tolerated, that it should have led to no excess or angry revolt, was typical of their moment. It was typical, finally, of their generation that all this mixture of the [[historical-references/renaissance|Renaissance]] with the Church matured at last into its natural fruit, for in the case of Ronsard we have a noble expression of perfect Christianity at the end.
 
-In the November of 1585 he felt [[Death|death]] upon him; he had himself borne to his home as soon as the Huguenot bands had left it, ravaged and devastated as it was. He found it burnt and looted, but it reminded him of childhood and of the first springs of his great river of verse. A profound sadness took him. He was but in his sixty-second year, his mind had not felt any chill of age. He could not sleep; poppies and soporifics failed him. He went now in his coach, now on a litter from place to place in that country side which he had rendered famous, and saw the Vendomois for the last time; its cornfields all stubble under a cold and dreary sky. And in each place he waited for a while.
+In the November of 1585 he felt [[motifs/death|death]] upon him; he had himself borne to his home as soon as the Huguenot bands had left it, ravaged and devastated as it was. He found it burnt and looted, but it reminded him of childhood and of the first springs of his great river of verse. A profound sadness took him. He was but in his sixty-second year, his mind had not felt any chill of age. He could not sleep; poppies and soporifics failed him. He went now in his coach, now on a litter from place to place in that country side which he had rendered famous, and saw the Vendomois for the last time; its cornfields all stubble under a cold and dreary sky. And in each place he waited for a while.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Un gruppo di uomini, di cui si farà riferimento in relazione a Du Bellay, partì con un preciso programma, sviluppò una scuola letteraria coerente e portò la rinascita culturale della [[France|Francia]] al suo apice. Si immersero profondamente nell’antichità e attribuirono al nome di poeta il massimo valore che esso abbia mai avuto; ritenevano che il poeta dovesse essere una sorta di re o di veggente. In parte seriamente, in parte come conseguenza di semplici studi accademici, la concezione pagana della musa e dell’ispirazione dominava nel loro modo di pensare.
+Un gruppo di uomini, di cui si farà riferimento in relazione a Du Bellay, partì con un preciso programma, sviluppò una scuola letteraria coerente e portò la rinascita culturale della [[settings/france|Francia]] al suo apice. Si immersero profondamente nell’antichità e attribuirono al nome di poeta il massimo valore che esso abbia mai avuto; ritenevano che il poeta dovesse essere una sorta di re o di veggente. In parte seriamente, in parte come conseguenza di semplici studi accademici, la concezione pagana della musa e dell’ispirazione dominava nel loro modo di pensare.
 
 Più di questo: nel loro impegno sincero, e che in un primo momento sembrava artificioso, crearono la lingua francese. Alcune delle sue parole più famose e conosciute derivano da loro – ad esempio, la parola “Patrie”. Alcune delle loro adattazioni dal greco e dal latino furono eliminate; la maggior parte rimase. Esclusero dalla lingua francese – e alcuni ritengono che ciò abbia impoverito quella lingua – la maggior parte degli elementi derivanti dal gotico: l’inversione dell’aggettivo, la frequente omissione del relativo, le irregolarità di forma che erano sopravvissute dal Medioevo e che rendevano la poesia francese antica molto più accessibile agli inglesi rispetto a quella moderna. Tutti questi elementi furono eliminati da quel gruppo di uomini di cui parlo. I loro contemporanei li chiamarono “La Pleiade”, perché erano sette persone.
 
@@ -4711,30 +4711,30 @@ Eppure quest’uomo, nella sua personalità, non trasmetteva quella grandezza ch
 
 In un altro ambito, egli era un leader, e un leader di grande rilievo: forse non la causa principale di quel movimento, ma certamente l’esempio più rappresentativo della tendenza che stava prendendo il pensiero della nazione verso la fine del XVI secolo. Intendo parlare dell’aspetto religioso, su cui dipende lo sviluppo di ogni società, che costituisce addirittura il carattere distintivo di una lingua nazionale e che sembra rappresentare l’influenza ultima a cui nessuna analisi storica può portare un uomo pensante.
 
-Ma anche coloro che non ammettono la verità di ciò dovrebbero osservare attentamente questa teoria, poiché essa è certamente legata alla tendenza religiosa della [[France|Francia]] e, a mio parere, dipende proprio da tale influenza il definitivo consolidamento del classicismo francese, nonché la conclusione del [[Renaissance|Rinascimento]], di cui parlerò nell’articolo su Malherbe.
+Ma anche coloro che non ammettono la verità di ciò dovrebbero osservare attentamente questa teoria, poiché essa è certamente legata alla tendenza religiosa della [[settings/france|Francia]] e, a mio parere, dipende proprio da tale influenza il definitivo consolidamento del classicismo francese, nonché la conclusione del [[historical-references/renaissance|Rinascimento]], di cui parlerò nell’articolo su Malherbe.
 
-Il flusso del cattolicesimo scorreva nel suo corso naturale. La nazione tornava gradualmente al sentiero che aveva tracciato per sé grazie alle energie ininterrotte di mille anni. Non è un caso che Ronsard e Du Bellay fossero ecclesiastici: questo rappresenta una caratteristica tipica del loro tempo. Era tipico della verità che quel contesto permettesse ai poeti di esprimersi; era tipico anche del fatto che, nella grande battaglia i cui risultati ancora turbano l’Europa, proprio in questo suolo dove si decidevano le questioni fondamentali, il puritanesimo fosse già stato sconfitto. In entrambi c’era un lato epicureo: gioioso e aperto in Ronsard, cupo e influenzato da Lucrezio in Du Bellay; queste caratteristiche, sebbene in giovinezza si scontrassero con i loro voti religiosi, non portarono né a eccessi né a rivolte violente. Questo rappresentava appunto la natura del loro tempo. In definitiva, era tipico della loro generazione il fatto che tutta questa miscela tra il [[Renaissance|Rinascimento]] e la Chiesa maturasse infine nel suo frutto naturale: nel caso di Ronsard, abbiamo dunque l’espressione nobile di un cristianesimo perfetto.
+Il flusso del cattolicesimo scorreva nel suo corso naturale. La nazione tornava gradualmente al sentiero che aveva tracciato per sé grazie alle energie ininterrotte di mille anni. Non è un caso che Ronsard e Du Bellay fossero ecclesiastici: questo rappresenta una caratteristica tipica del loro tempo. Era tipico della verità che quel contesto permettesse ai poeti di esprimersi; era tipico anche del fatto che, nella grande battaglia i cui risultati ancora turbano l’Europa, proprio in questo suolo dove si decidevano le questioni fondamentali, il puritanesimo fosse già stato sconfitto. In entrambi c’era un lato epicureo: gioioso e aperto in Ronsard, cupo e influenzato da Lucrezio in Du Bellay; queste caratteristiche, sebbene in giovinezza si scontrassero con i loro voti religiosi, non portarono né a eccessi né a rivolte violente. Questo rappresentava appunto la natura del loro tempo. In definitiva, era tipico della loro generazione il fatto che tutta questa miscela tra il [[historical-references/renaissance|Rinascimento]] e la Chiesa maturasse infine nel suo frutto naturale: nel caso di Ronsard, abbiamo dunque l’espressione nobile di un cristianesimo perfetto.
 
-Nel novembre del 1585 sentì la [[Death|morte]] avvicinarsi; fece portare se stesso a casa non appena le bande degli Ugonotti l’abbandonarono, devastata com’era. La trovò bruciata e saccheggiata, ma essa gli ricordava l’infanzia e i primi anni della sua grande carriera poetica. Un profondo dolore lo invase. Aveva appena sessantadue anni; la sua mente non aveva ancora sentito il peso dell’invecchiamento. Non riusciva a dormire; né i papaveri né i sonniferi gli davano sollievo. Viaggiava ora in carrozza, ora su una lettiga, da un luogo all’altro di quella campagna che aveva reso famosa. Vide per l’ultima volta il Vendomois: i suoi campi di grano erano tutti bruciati sotto un cielo freddo e cupo. In ogni posto si fermava per un po’.
+Nel novembre del 1585 sentì la [[motifs/death|morte]] avvicinarsi; fece portare se stesso a casa non appena le bande degli Ugonotti l’abbandonarono, devastata com’era. La trovò bruciata e saccheggiata, ma essa gli ricordava l’infanzia e i primi anni della sua grande carriera poetica. Un profondo dolore lo invase. Aveva appena sessantadue anni; la sua mente non aveva ancora sentito il peso dell’invecchiamento. Non riusciva a dormire; né i papaveri né i sonniferi gli davano sollievo. Viaggiava ora in carrozza, ora su una lettiga, da un luogo all’altro di quella campagna che aveva reso famosa. Vide per l’ultima volta il Vendomois: i suoi campi di grano erano tutti bruciati sotto un cielo freddo e cupo. In ogni posto si fermava per un po’.
 
 
 
 <span class="atom-split" data-atom="story_03_the_complaint--part_09" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 9)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death,concept/beauty,concept/faith,histref/catholic_church"></span>
 
 
-But [[Death|death]] troubled him, and he could not remain. Within a fortnight he ordered that they should carry him southward to the Loire, to that priory of which — by a custom of privilege, nobility and royal favour — he was the nominal head, the priory which is “the eye and delight of Touraine”, — the Isle of St. Cosmo. He sickened as he went. The thirty miles or so took him three painful days; twice, all his strength failed him, and he lay half fainting in his carriage; to so much energy and to so much power of creation these episodes were an awful introduction of [[Death|death]].
+But [[motifs/death|death]] troubled him, and he could not remain. Within a fortnight he ordered that they should carry him southward to the Loire, to that priory of which — by a custom of privilege, nobility and royal favour — he was the nominal head, the priory which is “the eye and delight of Touraine”, — the Isle of St. Cosmo. He sickened as he went. The thirty miles or so took him three painful days; twice, all his strength failed him, and he lay half fainting in his carriage; to so much energy and to so much power of creation these episodes were an awful introduction of [[motifs/death|death]].
 
 It was upon the 17th of November that he reached the walls wherein he was Superior; six weeks later, on the second day after Christmas, he died.
 
-Were I to describe that scene to which he called the monks, all men of his own birth and training, were I to dwell upon the appearance and the character of the oldest and the wisest, who was also the most famous there, I should extend this essay beyond its true limit, as I should also do were I to write down, even briefly, the account of his just, resigned, and holy [[Death|death]]. It must suffice that I transcribe the chief of his last deeds; I mean, that declaration wherein he made his last profession of [[Faith|faith]].
+Were I to describe that scene to which he called the monks, all men of his own birth and training, were I to dwell upon the appearance and the character of the oldest and the wisest, who was also the most famous there, I should extend this essay beyond its true limit, as I should also do were I to write down, even briefly, the account of his just, resigned, and holy [[motifs/death|death]]. It must suffice that I transcribe the chief of his last deeds; I mean, that declaration wherein he made his last profession of [[concepts/faith|faith]].
 
 The old monk had said to him: “In what resolution do you die?”
 
 He answered, somewhat angrily: “In what did you think? In the religion which was my father’s and his father’s, and his father’s and his father’s before him — for I am of that kind.”
 
-Then he called all the community round him, as though the monastic simplicity had returned (so vital is the [[Faith]], so simple its primal energies), and as though he had been the true prior of some early and fervent house, he told them these things which I will faithfully translate on account of their [[Beauty|beauty]]. They are printed here, I think, for the first time in English, and must stand for the end of this essay:
+Then he called all the community round him, as though the monastic simplicity had returned (so vital is the [[concepts/faith|Faith]], so simple its primal energies), and as though he had been the true prior of some early and fervent house, he told them these things which I will faithfully translate on account of their [[concepts/beauty|beauty]]. They are printed here, I think, for the first time in English, and must stand for the end of this essay:
 
-He said: “That he had sinned like other men, and, perhaps, more than most; that his senses had led him away by their charm, and that he had not repressed or constrained them as he should; but none the less, he had always held that [[Faith]] which the men of his line had left him, he had always clasped close the Creed and the unity of the [[Catholic Church]]; that, in fine, he had laid a sure foundation, but he had built thereon with wood, with hay, with straw. As for that foundation, he was sure it would stand; as for the light and worthless things he had built upon it he had trust in the mercy of the Saviour that they would be burnt in the fire of His love. And now he begged them all to believe hard, as he had believed; but not to live as he had lived; they must understand that he had never attempted or plotted against the life or goods of another, nor ever against any man’s honour, but, after all, there was nothing therein wherewith to glorify one’s self before God.” When he had wept a little, he continued, saying, “that the world was a ceaseless turmoil and torment, and shipwreck after shipwreck all the while, and a whirlpool of sins, and tears and pain, and that to all these misfortunes there was but one port, and this port was Death. But, as for him, he carried with him into that port no desire and no regret for life. That he had tried every one of its pretended joys, that he had left nothing undone which could give him the least shadow of pleasure or content, but that at the end he had found everywhere the oracle of Wisdom, vanity of vanities.”
+He said: “That he had sinned like other men, and, perhaps, more than most; that his senses had led him away by their charm, and that he had not repressed or constrained them as he should; but none the less, he had always held that [[concepts/faith|Faith]] which the men of his line had left him, he had always clasped close the Creed and the unity of the [[historical-references/catholic-church|Catholic Church]]; that, in fine, he had laid a sure foundation, but he had built thereon with wood, with hay, with straw. As for that foundation, he was sure it would stand; as for the light and worthless things he had built upon it he had trust in the mercy of the Saviour that they would be burnt in the fire of His love. And now he begged them all to believe hard, as he had believed; but not to live as he had lived; they must understand that he had never attempted or plotted against the life or goods of another, nor ever against any man’s honour, but, after all, there was nothing therein wherewith to glorify one’s self before God.” When he had wept a little, he continued, saying, “that the world was a ceaseless turmoil and torment, and shipwreck after shipwreck all the while, and a whirlpool of sins, and tears and pain, and that to all these misfortunes there was but one port, and this port was Death. But, as for him, he carried with him into that port no desire and no regret for life. That he had tried every one of its pretended joys, that he had left nothing undone which could give him the least shadow of pleasure or content, but that at the end he had found everywhere the oracle of Wisdom, vanity of vanities.”
 
 He ended with this magnificent thing, which is, perhaps, the last his human power conceived, and I will put it down in his own words: —
 
@@ -4809,7 +4809,7 @@ Muses. Vela saigement dit, ceux dont la fantaisie
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ma la [[Death|morte]] lo tormentava, e non riusciva a rimanere. In meno di quindici giorni ordinò che lo portassero verso sud, fino al fiume Loira, fino a quel monastero del quale – per un privilegio, per nobiltà e per la favore reale – era il capo nominale; quel monastero che è “l’occhio e la gioia della Touraine”, l’Isola di San Cosimo. Mentre viaggiava, peggiorò rapidamente. I trenta chilometri circa richiesero tre giorni dolorosi: in due occasioni perse completamente le forze e rimase semincosciente nella sua carrozza. Per un uomo così pieno di energia e di capacità creativa, questi episodi rappresentarono un terribile preludio alla [[Death|morte]].
+Ma la [[motifs/death|morte]] lo tormentava, e non riusciva a rimanere. In meno di quindici giorni ordinò che lo portassero verso sud, fino al fiume Loira, fino a quel monastero del quale – per un privilegio, per nobiltà e per la favore reale – era il capo nominale; quel monastero che è “l’occhio e la gioia della Touraine”, l’Isola di San Cosimo. Mentre viaggiava, peggiorò rapidamente. I trenta chilometri circa richiesero tre giorni dolorosi: in due occasioni perse completamente le forze e rimase semincosciente nella sua carrozza. Per un uomo così pieno di energia e di capacità creativa, questi episodi rappresentarono un terribile preludio alla [[motifs/death|morte]].
 
 Fu il 17 novembre che raggiunse le mura dove ricopriva la carica di Superiore; sei settimane dopo, il secondo giorno dopo Natale, morì.
 
@@ -4819,9 +4819,9 @@ Il vecchio monaco gli aveva detto: “Con quale determinazione morirai?”
 
 Rispose, con una certa rabbia: “A cosa pensavi? Alla religione che era di mio padre e di suo padre, e di suo padre ancora prima, perché io appartengo a quella tradizione.”
 
-Allora chiamò tutta la comunità intorno a lui, come se la semplicità monastica fosse tornata (poiché la [[Faith|Fede]] è così vitale, e le sue energie primordiali sono così semplici), e come se fosse stato il vero priore di un antico e fervente ordine, raccontò loro queste cose che tradurrò fedelmente per la loro [[Beauty|bellezza]]. Penso siano stampate qui per la prima volta in inglese, e dovrebbero costituire la conclusione di questo saggio.
+Allora chiamò tutta la comunità intorno a lui, come se la semplicità monastica fosse tornata (poiché la [[concepts/faith|Fede]] è così vitale, e le sue energie primordiali sono così semplici), e come se fosse stato il vero priore di un antico e fervente ordine, raccontò loro queste cose che tradurrò fedelmente per la loro [[concepts/beauty|bellezza]]. Penso siano stampate qui per la prima volta in inglese, e dovrebbero costituire la conclusione di questo saggio.
 
-Disse: “Ho peccato come gli altri uomini, forse anche più di molti; i miei sensi mi hanno sedotto con il loro fascino, e non sono riuscito a reprimerli o controllarli come avrei dovuto; tuttavia, ho sempre conservato quella [[Faith|Fede]] che gli uomini della mia stirpe mi avevano trasmesso, ho sempre tenuto saldamente alla Dottrina e all’unità della [[Catholic Church|Chiesa Cattolica]]; in definitiva, ho gettato le basi solide su cui costruire, ma ho utilizzato materiali fragili: legno, paglia. Per quanto riguarda quelle fondamenta, sono certo che resisteranno; per quanto riguarda le cose vane e senza valore su cui ho costruito sopra di esse, confido nella misericordia del Salvatore affinché vengano distrutte nel fuoco del Suo amore. Ora vi supplico tutti di credere con fervore, come ho creduto io; ma non di vivere come ho vissuto io. Dovete capire che non ho mai cercato di nuocere alla vita o ai beni altrui, né alla reputazione di nessuno. Non c’è nulla in ciò che ho fatto che possa servire a glorificare se stessi davanti a Dio.” Dopo aver pianto un po’, continuò: “Il mondo è un caos incessante di sofferenze e disastri, un vortice di peccati, lacrime e dolore. Per tutte queste sfortune, c’è solo una meta: la Morte. Ma io non porto con me, verso quella meta, alcun desiderio né rimpianto per la vita. Ho provato tutti i cosiddetti piaceri del mondo; non ho tralasciato nulla che potesse darmi anche solo un minimo di felicità o soddisfazione. Alla fine, però, ho scoperto ovunque l’oracolo della Saggezza: la vanità delle cose umane.”
+Disse: “Ho peccato come gli altri uomini, forse anche più di molti; i miei sensi mi hanno sedotto con il loro fascino, e non sono riuscito a reprimerli o controllarli come avrei dovuto; tuttavia, ho sempre conservato quella [[concepts/faith|Fede]] che gli uomini della mia stirpe mi avevano trasmesso, ho sempre tenuto saldamente alla Dottrina e all’unità della [[historical-references/catholic-church|Chiesa Cattolica]]; in definitiva, ho gettato le basi solide su cui costruire, ma ho utilizzato materiali fragili: legno, paglia. Per quanto riguarda quelle fondamenta, sono certo che resisteranno; per quanto riguarda le cose vane e senza valore su cui ho costruito sopra di esse, confido nella misericordia del Salvatore affinché vengano distrutte nel fuoco del Suo amore. Ora vi supplico tutti di credere con fervore, come ho creduto io; ma non di vivere come ho vissuto io. Dovete capire che non ho mai cercato di nuocere alla vita o ai beni altrui, né alla reputazione di nessuno. Non c’è nulla in ciò che ho fatto che possa servire a glorificare se stessi davanti a Dio.” Dopo aver pianto un po’, continuò: “Il mondo è un caos incessante di sofferenze e disastri, un vortice di peccati, lacrime e dolore. Per tutte queste sfortune, c’è solo una meta: la Morte. Ma io non porto con me, verso quella meta, alcun desiderio né rimpianto per la vita. Ho provato tutti i cosiddetti piaceri del mondo; non ho tralasciato nulla che potesse darmi anche solo un minimo di felicità o soddisfazione. Alla fine, però, ho scoperto ovunque l’oracolo della Saggezza: la vanità delle cose umane.”
 
 Si concluse con questa cosa magnifica, che forse rappresenta l’ultima cosa che la sua forza umana fu in grado di realizzare; la riporterò con le sue stesse parole: —
 
@@ -4835,17 +4835,17 @@ Il suo modo di esprimersi è ammirevole: la sua gentilezza, perseveranza e cresc
 
 Dialogo con le nove sorelle.
 
-# Ronsard: Per aver amato troppo la vostra banda disuguale…
+Ronsard: Per aver amato troppo la vostra banda disuguale…
 
-# Muse, qui sfidate il tempo…
+Muse, qui sfidate il tempo…
 
-# Occhi pieni di lacrime, viso pallido e stanco
+Occhi pieni di lacrime, viso pallido e stanco
 
 Le chef sono grigie e calve, eppure ho solo trent’anni.
 
 Muse… Nel cuore della notte, che incessantemente vaga sul mare.
 
-# Le Teint Noir Appartient… Il Soldato Non È Bello
+Le Teint Noir Appartient… Il Soldato Non È Bello
 
 "Nessuno è completamente polvere; chi piega il petto..."
 
@@ -4863,35 +4863,35 @@ Muse… Vivendo, godrete di una gloria immensa.
 
 "Poi, quando sarai morto, il tuo nome fiorirà"
 
-# Il tempo, secolo dopo secolo, ricorderà di voi.
+Il tempo, secolo dopo secolo, ricorderà di voi.
 
 Solo i vostri corpi andranno in decomposizione nella tomba.
 
-# Ronsard. O i nobili amanti! Che servizio resero all’antico Omero
+Ronsard. O i nobili amanti! Che servizio resero all’antico Omero
 
-# Quando non resta più nulla, sotto quella tomba, laggiù…
+Quando non resta più nulla, sotto quella tomba, laggiù…
 
-# Senza più testa, né braccia, né gambe intere
+Senza più testa, né braccia, né gambe intere
 
 O diventa un fiorista, o non lo sarà affatto!
 
-# Muse… Siete stato ingannato. Il corpo sotto la lama
+Muse… Siete stato ingannato. Il corpo sotto la lama
 
 Pourry non sente più nulla, né gliene importa più.
 
-# Un tale incidente non può mai ferire davvero l’anima
+Un tale incidente non può mai ferire davvero l’anima
 
 Qui, senza materia, si vedono cose immortali lassù in alto.
 
-# Ronsard. Bene! Allora vi seguirò con un approccio piacevole…
+Ronsard. Bene! Allora vi seguirò con un approccio piacevole…
 
-# Sconfitto nell’intrusione nello studio
+Sconfitto nell’intrusione nello studio
 
-# E fu solo al termine della successiva generazione…
+E fu solo al termine della successiva generazione…
 
 Non mi rimproverare affatto per aver vissuto.
 
-# Muse: coloro la cui fantasia…
+Muse: coloro la cui fantasia…
 
 
 
@@ -4904,9 +4904,9 @@ Tousjours achèveront quelque grand poésie,
 
 Et dessus leur renom la Parque n’aura lieu.
 
-THE EPITAPH ON [[Rabelais|RABELAIS]].
+THE EPITAPH ON [[historical-references/rabelais|RABELAIS]].
 
-SEVEN YEARS AFTER [[Rabelais]] died, Ronsard wrote this off-hand. I give it, not for its value, but because it connects these two great names. The man who wrote it had seen that large and honorable mouth worshipping wine: he had reverenced that head of laughter which has corrected all our philosophy. It would be a shame to pass such a name as Ronsard’s signed to an epitaph on such a work as that of [[Rabelais]], poetry or no poetry.
+SEVEN YEARS AFTER [[historical-references/rabelais|Rabelais]] died, Ronsard wrote this off-hand. I give it, not for its value, but because it connects these two great names. The man who wrote it had seen that large and honorable mouth worshipping wine: he had reverenced that head of laughter which has corrected all our philosophy. It would be a shame to pass such a name as Ronsard’s signed to an epitaph on such a work as that of [[historical-references/rabelais|Rabelais]], poetry or no poetry.
 
 Ronsard also from a tower at Meudon used to creep out at night and drink with that fellow-priest, vicar of the Parish, Rabelais: a greater man than he.
 
@@ -4960,7 +4960,7 @@ Et ores le fait boire de l’onde
 
 Du large fleuve d’Achéron.
 
-“MIGNONNE ALLONS VOIR SI LA [[Rose|ROSE]].”
+“MIGNONNE ALLONS VOIR SI LA [[motifs/rose|ROSE]].”
 
 (THE 17TH ODE of the First Book.)
 
@@ -4972,9 +4972,9 @@ Certainly those who are so unfamiliar with French poetry as not to know that its
 
 If the limits of a page permitted it, I would also show how worthy the thing was of fame from its pure and careful choice of verb— “Tandis que vostre age fleuronne” — but space prevents me, luckily, for all this is like splitting a diamond.
 
-“MIGNONNE ALLONS VOIR SI LA [[Rose|ROSE]].”
+“MIGNONNE ALLONS VOIR SI LA [[motifs/rose|ROSE]].”
 
-Mignonne, allons voir si la [[Rose|rose]]
+Mignonne, allons voir si la [[motifs/rose|rose]]
 
 Qui ce matin avoit desclose
 
@@ -5014,9 +5014,9 @@ THE “SONNETS FOR HÉLÈNE”
 
 (THE 42ND AND 43rd Sonnets of the Second Book.)
 
-Hélène was very real. A young Maid of Honour to Catherine de Medicis; Spanish by blood, Italian by breeding, called in [[France]] “de Sugères,” she was the gravest and the wisest, and, for those who loved serenity, the most beautiful of that high and brilliant school.
+Hélène was very real. A young Maid of Honour to Catherine de Medicis; Spanish by blood, Italian by breeding, called in [[settings/france|France]] “de Sugères,” she was the gravest and the wisest, and, for those who loved serenity, the most beautiful of that high and brilliant school.
 
-The Sonnets began as a task; a task the Queen had set Ronsard, with Hélène for theme: they ended in the last strong love of Ronsard’s life. A sincere lover of many women, he had come to the turn of his age when he saw her, like a memory of his own youth. He has permitted to run through this series, therefore, something of the unique illusion which distance in time or space can lend to the aspect of [[Beauty|beauty]]. An emotion so tenuous does not appear in any other part of his work: here alone you find the chastity or weakness which made something in his mind come near to the sadder Du Bellay’s: his soul is regardant all the while as he writes: visions rise from her such as never rose from Cassandra; as this great picture at the opening of the 58th Sonnet of the Second Book:
+The Sonnets began as a task; a task the Queen had set Ronsard, with Hélène for theme: they ended in the last strong love of Ronsard’s life. A sincere lover of many women, he had come to the turn of his age when he saw her, like a memory of his own youth. He has permitted to run through this series, therefore, something of the unique illusion which distance in time or space can lend to the aspect of [[concepts/beauty|beauty]]. An emotion so tenuous does not appear in any other part of his work: here alone you find the chastity or weakness which made something in his mind come near to the sadder Du Bellay’s: his soul is regardant all the while as he writes: visions rise from her such as never rose from Cassandra; as this great picture at the opening of the 58th Sonnet of the Second Book:
 
 Seule sans compagnie en une grande salle
 
@@ -5034,9 +5034,9 @@ Sempre completeranno qualche grande poesia…
 
 E sopra il loro nome non avrà luogo la Parca.
 
-L’epitaffio su [[Rabelais]].
+L’epitaffio su [[historical-references/rabelais|Rabelais]].
 
-Sette anni dopo la morte di [[Rabelais]], Ronsard scrisse queste parole su due piedi. Le presento non per il loro valore, ma perché collegano questi due grandi nomi. L’uomo che le scrisse aveva visto quella bocca grande e nobile che venerava il vino; aveva rispettato quel capo di risate che ha corretto tutta la nostra filosofia. Sarebbe un peccato lasciare che un nome come quello di Ronsard fosse associato a un epitaffio dedicato a un’opera come quella di [[Rabelais]], sia essa poesia o meno.
+Sette anni dopo la morte di [[historical-references/rabelais|Rabelais]], Ronsard scrisse queste parole su due piedi. Le presento non per il loro valore, ma perché collegano questi due grandi nomi. L’uomo che le scrisse aveva visto quella bocca grande e nobile che venerava il vino; aveva rispettato quel capo di risate che ha corretto tutta la nostra filosofia. Sarebbe un peccato lasciare che un nome come quello di Ronsard fosse associato a un epitaffio dedicato a un’opera come quella di [[historical-references/rabelais|Rabelais]], sia essa poesia o meno.
 
 Anche Ronsard, dalla torre di Meudon, usciva di notte per bere con quel prete, vescovo della parrocchia. Rabelais: un uomo molto più grande di lui.
 
@@ -5046,52 +5046,52 @@ Non c’è bisogno di appunti, poiché questi grandi nomi: Gargantua, Panurgo e 
 
 L’epitaffio su Rabelais.
 
-# Qui riposa un morto in decomposizione
+Qui riposa un morto in decomposizione
 
-# La natura genera qualcosa
+La natura genera qualcosa
 
-# Et se la génération...
+Et se la génération...
 
-# Corruzione e potere
+Corruzione e potere
 
-# Una vigna prenderà vita
+Una vigna prenderà vita
 
-# Il buon Rabelais che beveva
+Il buon Rabelais che beveva
 
 Sempre, durante la sua vita…
 
-# Si mette le braccia nelle maniche di me stesso
+Si mette le braccia nelle maniche di me stesso
 
-# Et se couchoit tout plat à bas
+Et se couchoit tout plat à bas
 
 Titolo:  
 Sul limoio tra le tazze
 
-# Tra le ciotole unte
+Tra le ciotole unte
 
-# Cantava la grande mazza
+Cantava la grande mazza
 
-# La giumenta di Gargantua
+La giumenta di Gargantua
 
-# Le Grand Panurge e il Gioco
+Le Grand Panurge e il Gioco
 
-# I pappagalli sbalorditi
+I pappagalli sbalorditi
 
-# Le loro leggi, i loro costumi e le loro dimore
+Le loro leggi, i loro costumi e le loro dimore
 
 E Fratello Jean delle Antonneure.
 
 E dalle battaglie di Espisteme.
 
-#"Ma la morte che non beveva"
+"Ma la morte che non beveva"
 
-# Tira i bevitori di questo mondo
+Tira i bevitori di questo mondo
 
-# Et ora fa bere dalle onde
+Et ora fa bere dalle onde
 
 Lungo il grande fiume Acheronte.
 
-“Mignonne, andiamo a vedere quella [[Rose|rosa]].”
+“Mignonne, andiamo a vedere quella [[motifs/rose|rosa]].”
 
 (L’Odea XVII del Primo Libro.)
 
@@ -5103,9 +5103,9 @@ Certamente coloro che conoscono così poco la poesia francese da non rendersi co
 
 Se i limiti di una pagina lo permettessero, mostrerei anche quanto tale opera meriti la fama, grazie alla scelta pura e attenta dei verbi utilizzati – “Tandis que vostre age fleuronne” – ma purtroppo lo spazio me lo impedisce; tutto ciò, in fondo, è come cercare di dividere un diamante.
 
-“Mignonne, andiamo a vedere quella [[Rose|rosa]].”
+“Mignonne, andiamo a vedere quella [[motifs/rose|rosa]].”
 
-Mignonna, andiamo a vedere se quella [[Rose|rosa]].
+Mignonna, andiamo a vedere se quella [[motifs/rose|rosa]].
 
 Titolo:  
 Stamattina qui era tutto aperto…
@@ -5113,19 +5113,19 @@ Stamattina qui era tutto aperto…
 Titolo:  
 Veste di porpora al sole
 
-# Un punto perso in questa serata
+Un punto perso in questa serata
 
-# I pieghe del suo abito porpora
+I pieghe del suo abito porpora
 
-# Il suo incarnato è simile al vostro
+Il suo incarnato è simile al vostro
 
-#"Ahimè! Guardate come in così poco spazio..."
+"Ahimè! Guardate come in così poco spazio..."
 
 "Mignonne, ella ha la posizione migliore."
 
 Ahimè! Ahimè, le tue bellezze sono andate perdute.
 
-# O visione terribile della natura
+O visione terribile della natura
 
 Poiché un tale fiore non dura a lungo…
 
@@ -5134,9 +5134,9 @@ Dalla mattina fino alla sera.
 Titolo:  
 Se mi credi, cara…
 
-# Mentre la vostra età fiorisce
+Mentre la vostra età fiorisce
 
-# Una novità ancora più verde
+Una novità ancora più verde
 
 "Cuillez, Cuillez vostre jeunesse":
 
@@ -5149,9 +5149,9 @@ Fa sì che la vostra bellezza risplenda ancora di più.
 
 (Il 42° e il 43° sonetto del secondo libro.)
 
-Hélène era molto reale. Una giovane dama di onore di Caterina de’ Medici; di sangue spagnolo, di educazione italiana, chiamata in [[France|Francia]] “de Sugères”, era la più seria e la più saggia, e per coloro che amavano la serenità, la più bella di quella nobile e brillante scuola.
+Hélène era molto reale. Una giovane dama di onore di Caterina de’ Medici; di sangue spagnolo, di educazione italiana, chiamata in [[settings/france|Francia]] “de Sugères”, era la più seria e la più saggia, e per coloro che amavano la serenità, la più bella di quella nobile e brillante scuola.
 
-I Sonetti nacquero inizialmente come un compito assegnato dalla Regina a Ronsard, con Hélène come tema principale; si conclusero invece con l’ultimo grande amore della vita di Ronsard. Essendo stato un amante sincero di molte donne, all’età matura egli vide in lei il ricordo della propria giovinezza. Per questo motivo, in questa serie di poesie è possibile percepire quell’unica illusione che la distanza nel tempo o nello spazio può conferire all’aspetto della [[Beauty|bellezza]]. Un’emozione così delicata non si trova in nessun altro suo lavoro: solo qui si riscontra quella purezza o fragilità che, nella sua mente, portò qualcosa delle sue opere ad avvicinarsi a quelle più malinconiche di Du Bellay. Mentre scrive, la sua anima è sempre piena di riflessione; emergono da essa visioni uniche, come quelle descritte nella 58ª poesia del Secondo Libro dei Sonetti.
+I Sonetti nacquero inizialmente come un compito assegnato dalla Regina a Ronsard, con Hélène come tema principale; si conclusero invece con l’ultimo grande amore della vita di Ronsard. Essendo stato un amante sincero di molte donne, all’età matura egli vide in lei il ricordo della propria giovinezza. Per questo motivo, in questa serie di poesie è possibile percepire quell’unica illusione che la distanza nel tempo o nello spazio può conferire all’aspetto della [[concepts/beauty|bellezza]]. Un’emozione così delicata non si trova in nessun altro suo lavoro: solo qui si riscontra quella purezza o fragilità che, nella sua mente, portò qualcosa delle sue opere ad avvicinarsi a quelle più malinconiche di Du Bellay. Mentre scrive, la sua anima è sempre piena di riflessione; emergono da essa visioni uniche, come quelle descritte nella 58ª poesia del Secondo Libro dei Sonetti.
 
 Senza compagnia in una grande sala
 
@@ -5238,17 +5238,17 @@ Cueillez des aujourdhuy les roses de la vie.
 
 JOACHIM DU BELLAY.
 
-IN DU BELLAY the literary [[Renaissance]], French but transfigured by Italy, middle-north of the plains but looking southward to the Mediterranean, came to one soul and concentrated upon it, as the plastic expression of the same influence concentrated in Goujon. Very central in time, half soldier, half priest, all student; traveller and almost adventurer, a pilgrim throughout of the Idea, everything about him is symbolic of the generation he adorned.
+IN DU BELLAY the literary [[historical-references/renaissance|Renaissance]], French but transfigured by Italy, middle-north of the plains but looking southward to the Mediterranean, came to one soul and concentrated upon it, as the plastic expression of the same influence concentrated in Goujon. Very central in time, half soldier, half priest, all student; traveller and almost adventurer, a pilgrim throughout of the Idea, everything about him is symbolic of the generation he adorned.
 
-In its vigour, at least, the [[Renaissance]] was a glorious youth — he, Du Bellay, died at thirty-five. Its leap and soaring were taken from the firm platform of strong scholarship — he was a scholar beyond the rest. It fixed special forms — he the French sonnet. It felt the lives of all things running through it as a young man feels them in the [[Spring|spring]] woods — he gathered in the cup of his verse, and retains for us, the nerve of all that life which is still exultant in the forest beyond his river. His breeding, his high name, his leisured poverty, his passionate friendship, his looking forward always to a new thing, a creation — all this, was the [[Renaissance]] in person.
+In its vigour, at least, the [[historical-references/renaissance|Renaissance]] was a glorious youth — he, Du Bellay, died at thirty-five. Its leap and soaring were taken from the firm platform of strong scholarship — he was a scholar beyond the rest. It fixed special forms — he the French sonnet. It felt the lives of all things running through it as a young man feels them in the [[motifs/spring|spring]] woods — he gathered in the cup of his verse, and retains for us, the nerve of all that life which is still exultant in the forest beyond his river. His breeding, his high name, his leisured poverty, his passionate friendship, his looking forward always to a new thing, a creation — all this, was the [[historical-references/renaissance|Renaissance]] in person.
 
-Moreover, the Renaissance had in [[France]] its seat where, between rolling lands whose woods are the walls of gardens, the broad and shallow inland Loire runs from Orleans, past Blois and Tours and Saumur, and Ancenis, until near Nantes at last it feels the tide: salt and adventures and the barbaric sea. This varied sheltered land of aged vineyards and great wealth has, for the French Renaissance, the one special quality of beginnings and Edens, namely, that it preserves on to a later time the outward evidences of an original perfection. This place, the nest or seed-plot of the new civilisation, still shows its castles — Blois, Amboise, Chambord. Here Leonardo died, [[Rabelais]], Ronsard himself was born. Here the kings of the Change built in their fantastic pride, and founded a [[France]] that still endures. It is as truly the soil of the modern thing as are the provinces north of it (the Isle de [[France]], Normandy, Picardy and Champagne), the soil of the earlier mediaeval flower, and of the Gothic which they preserve unique to our own time.
+Moreover, the Renaissance had in [[settings/france|France]] its seat where, between rolling lands whose woods are the walls of gardens, the broad and shallow inland Loire runs from Orleans, past Blois and Tours and Saumur, and Ancenis, until near Nantes at last it feels the tide: salt and adventures and the barbaric sea. This varied sheltered land of aged vineyards and great wealth has, for the French Renaissance, the one special quality of beginnings and Edens, namely, that it preserves on to a later time the outward evidences of an original perfection. This place, the nest or seed-plot of the new civilisation, still shows its castles — Blois, Amboise, Chambord. Here Leonardo died, [[historical-references/rabelais|Rabelais]], Ronsard himself was born. Here the kings of the Change built in their fantastic pride, and founded a [[settings/france|France]] that still endures. It is as truly the soil of the modern thing as are the provinces north of it (the Isle de [[settings/france|France]], Normandy, Picardy and Champagne), the soil of the earlier mediaeval flower, and of the Gothic which they preserve unique to our own time.
 
-Now, of this district, Du Bellay was more than a native; he was part of it; he pined away from it; he regretted, as no other man of the time regretted, his father’s land: Anjou and the fields of home. He may be said, with some exaggeration, to have died in the misfortune of his separation from the security and sober [[Tradition|tradition]] of his own walls. That great early experience of his, which I have already written down — his meeting with Ronsard — had come to him not far from his own hill, south of the great river. His name, unlike Ronsard’s, recalled the gentry of that countryside up to and beyond the beginning of its history; alone of the Pleiade he translated the valley of the Loire, its depth, its delicacy, its rich and subtle loneliness.
+Now, of this district, Du Bellay was more than a native; he was part of it; he pined away from it; he regretted, as no other man of the time regretted, his father’s land: Anjou and the fields of home. He may be said, with some exaggeration, to have died in the misfortune of his separation from the security and sober [[concepts/tradition|tradition]] of his own walls. That great early experience of his, which I have already written down — his meeting with Ronsard — had come to him not far from his own hill, south of the great river. His name, unlike Ronsard’s, recalled the gentry of that countryside up to and beyond the beginning of its history; alone of the Pleiade he translated the valley of the Loire, its depth, its delicacy, its rich and subtle loneliness.
 
 Again, the Renaissance lived in France an inspired and an exalted life, so that there necessarily ran through it a fore-knowledge of sudden ending. This tragedy repeated itself in the career of Du Bellay.
 
-His name was famous. The three Du Bellays, the councillor, the soldier, the great Cardinal, were in the first rank of the early sixteenth century. [[Rabelais]] had loved them. Francis I had leaned upon and rewarded their service. His father (their first-cousin and Governor of Brest) was a poor noble, who, as is the fashion of nobles, had married a wife to consolidate a fortune. This wife, the mother of Joachim, was heiress to the house of Tourmélière in Liré, just by the Loire on the brow that looks northward over the river to the bridge and Ancenis. In this house he was born. On his parents’ early [[Death|death]] he inherited the place, not to enjoy it, but to wander. An early illness had made him forsake the career of arms for that of the Church; but Orders were hardly so much as a cloak to him; it is difficult to remember, as one reads the few evidences of his life, that he wore the cloth at all: in his verse all trace of it is entirely absent. He lived still in that lineage which the reform had not touched. The passionate defence of the Catholic [[Faith]], the Assault converging on the church throughout Europe, the raising of the Siege, the Triumph which developed, at last, on the political side the League, and on the literary the final rigidity of Malherbe, the noise of all these had not reached his circle, kind, or family.
+His name was famous. The three Du Bellays, the councillor, the soldier, the great Cardinal, were in the first rank of the early sixteenth century. [[historical-references/rabelais|Rabelais]] had loved them. Francis I had leaned upon and rewarded their service. His father (their first-cousin and Governor of Brest) was a poor noble, who, as is the fashion of nobles, had married a wife to consolidate a fortune. This wife, the mother of Joachim, was heiress to the house of Tourmélière in Liré, just by the Loire on the brow that looks northward over the river to the bridge and Ancenis. In this house he was born. On his parents’ early [[motifs/death|death]] he inherited the place, not to enjoy it, but to wander. An early illness had made him forsake the career of arms for that of the Church; but Orders were hardly so much as a cloak to him; it is difficult to remember, as one reads the few evidences of his life, that he wore the cloth at all: in his verse all trace of it is entirely absent. He lived still in that lineage which the reform had not touched. The passionate defence of the Catholic [[concepts/faith|Faith]], the Assault converging on the church throughout Europe, the raising of the Siege, the Triumph which developed, at last, on the political side the League, and on the literary the final rigidity of Malherbe, the noise of all these had not reached his circle, kind, or family.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -5259,28 +5259,28 @@ Ecco due di loro. Uno, il secondo, il più famoso; l’altro, il primo, quasi sc
 
 A questo personaggio, il secondo verso aggiunge un vivido elemento emotivo che gli ha conferito una fama particolare. Anche la gente comune ha sentito parlare di questo sonetto, che viene cantato su una melodia incantevole. Possiede inoltre quella semplicità formale che spesso porta a una reputazione duratura nella poesia: il sestetto è ben separato dall’ottava, e il culmine del testo è chiaramente evidenziato. Ronsard, però, era troppo accademico (e questo gli causava spesso difficoltà) per raggiungere tale semplicità; solo quando, sotto l’influenza di una passione intensa o di un’allegria spontanea, riusciva a ottenerla, scriveva versi che sarebbero rimasti per sempre nella storia della letteratura.
 
-# Per sempre, di secolo in secolo… vive.
+Per sempre, di secolo in secolo… vive.
 
 L’amicizia perfetta che Ronsard provava.
 
 "I Sonetti per Helène."
 
-# XLII
+XLII
 
-#"Le lunghe notti invernali, quando la Luna è silenziosa"...
+"Le lunghe notti invernali, quando la Luna è silenziosa"...
 
-#Gira lentamente il suo carro intorno a tutto
+Gira lentamente il suo carro intorno a tutto
 
-# Dove il gallo canta tardi, annuncia l’arrivo del giorno
+Dove il gallo canta tardi, annuncia l’arrivo del giorno
 
-# Dove la notte sembra un anno per l’anima preoccupata:
+Dove la notte sembra un anno per l’anima preoccupata:
 
 Titolo:  
 Morirei di noia senza la tua forma incerta…
 
-# Qui vient par une feinte alleger mon amour
+Qui vient par une feinte alleger mon amour
 
-# Nuda tra le mie braccia
+Nuda tra le mie braccia
 
 Mi fuma dolcemente una sigaretta, con un sorriso ingannevole.
 
@@ -5288,7 +5288,7 @@ Mi fuma dolcemente una sigaretta, con un sorriso ingannevole.
 
 Di giocare si tratta, per divertirsi in totale privacy.
 
-#"Accanto alla sua morte mi addormento, vicino a lui riposo."
+"Accanto alla sua morte mi addormento, vicino a lui riposo."
 
 "Niente mi è stato rifiutato… Così, il buon sonno."
 
@@ -5296,29 +5296,29 @@ Abusi per il falso amore, preoccupazioni inutili.
 
 Abusare dell’amore non è affatto una cosa negativa.
 
-# XLIII
+XLIII
 
-# Quando sarai molto vecchia, alla luce di una candela...
+Quando sarai molto vecchia, alla luce di una candela...
 
-# Seduta accanto al fuoco, a districare e filare…
+Seduta accanto al fuoco, a districare e filare…
 
-#"Cantando le mie parole, meravigliandoti di me"...
+"Cantando le mie parole, meravigliandoti di me"...
 
 Ronsard mi celebrava quando ero bella.
 
-# Quando nessuna serva ascolterà tale notizia
+Quando nessuna serva ascolterà tale notizia
 
-# Desiderio sotto il lavoro, a metà sonno
+Desiderio sotto il lavoro, a metà sonno
 
-#"Qui au bruit de mon nom ne s’aille resveillant..."
+"Qui au bruit de mon nom ne s’aille resveillant..."
 
 Benedicendo il vostro nome, fonte di lode eterna.
 
-# Sarò sotto terra e un fantasma senza ossa
+Sarò sotto terra e un fantasma senza ossa
 
 Nelle ombre oscure troverò il mio riposo.
 
-# Seduta in un angolo della casa una sera…
+Seduta in un angolo della casa una sera…
 
 Rimpiango il mio amore e il vostro orgoglioso disprezzo.
 
@@ -5328,30 +5328,30 @@ Raccogliete oggi le rose della vita.
 
 Joachim du Bellay.
 
-In Du Bellay, l’epoca letteraria del [[Renaissance|Rinascimento]] francese – ma trasfigurata dall’influenza italiana – rappresenta un periodo situato nella regione centro-settentrionale delle pianure francesi, ma con lo sguardo rivolto verso sud, verso il Mediterraneo. Quest’epoca si è concentrata in una sola anima, esprimendosi attraverso opere come quelle di Goujon. Du Bellay stesso incarnava perfettamente questi tratti: metà soldato, metà prete, ma soprattutto uno studioso; un viaggiatore e quasi un avventuriero, un pellegrino alla ricerca dell’Idea stessa. Tutto in lui rappresenta simbolicamente l’epoca che ha adornato con la sua arte.
+In Du Bellay, l’epoca letteraria del [[historical-references/renaissance|Rinascimento]] francese – ma trasfigurata dall’influenza italiana – rappresenta un periodo situato nella regione centro-settentrionale delle pianure francesi, ma con lo sguardo rivolto verso sud, verso il Mediterraneo. Quest’epoca si è concentrata in una sola anima, esprimendosi attraverso opere come quelle di Goujon. Du Bellay stesso incarnava perfettamente questi tratti: metà soldato, metà prete, ma soprattutto uno studioso; un viaggiatore e quasi un avventuriero, un pellegrino alla ricerca dell’Idea stessa. Tutto in lui rappresenta simbolicamente l’epoca che ha adornato con la sua arte.
 
-Nel suo pieno vigore, almeno, la [[Renaissance|>Rinascita]] fu una giovinezza gloriosa; lui, Du Bellay, morì a trentacinque anni. I suoi balzi e le sue ascese si basavano su una solida base di erudizione profonda: era uno studioso senza pari. La [[Renaissance|Rinascita]] definì forme artistiche specifiche; lui creò il sonetto francese. Percepiva la vita di tutte le cose che scorrevano attraverso di essa, proprio come un giovane le percepisce nei boschi primaverili; raccoglieva tutto ciò in versi e ce lo tramandava, conservando così l’essenza di quella vita ancora vibrante nelle foreste al di là del suo fiume. La sua nascita aristocratica, il suo alto nome, la sua povertà senza preoccupazioni, la sua amicizia appassionata, la sua costante attesa di qualcosa di nuovo, di una creazione artistica. Tutto ciò rappresentava, in persona, la [[Renaissance|Rinascita]].
+Nel suo pieno vigore, almeno, la [[historical-references/renaissance|>Rinascita]] fu una giovinezza gloriosa; lui, Du Bellay, morì a trentacinque anni. I suoi balzi e le sue ascese si basavano su una solida base di erudizione profonda: era uno studioso senza pari. La [[historical-references/renaissance|Rinascita]] definì forme artistiche specifiche; lui creò il sonetto francese. Percepiva la vita di tutte le cose che scorrevano attraverso di essa, proprio come un giovane le percepisce nei boschi primaverili; raccoglieva tutto ciò in versi e ce lo tramandava, conservando così l’essenza di quella vita ancora vibrante nelle foreste al di là del suo fiume. La sua nascita aristocratica, il suo alto nome, la sua povertà senza preoccupazioni, la sua amicizia appassionata, la sua costante attesa di qualcosa di nuovo, di una creazione artistica. Tutto ciò rappresentava, in persona, la [[historical-references/renaissance|Rinascita]].
 
-Inoltre, il Rinascimento ebbe la sua sede in [[France|Francia]], dove, tra terre ondulate le cui foreste fungono da mura di giardini, il largo e poco profondo fiume Loira scorre da Orléans, passando per Blois, Tours e Saumur, fino ad Ancenis; vicino a Nantes infine incontra l’effetto delle maree: sale, avventure e il “mare barbarico”. Questa terra variegata e protetta, ricca di antichi vigneti e immense ricchezze, possiede per il Rinascimento francese una qualità particolare: quella di conservare fino a tempi successivi le tracce di una perfezione originale. Questo luogo, covo o semenzaio della nuova civiltà, mostra ancora oggi i suoi castelli – Blois, Amboise, Chambord. Qui morì Leonardo da Vinci, qui nacque [[Rabelais]] e lo stesso Ronsard. Qui i re del Rinascimento costruirono con il loro orgoglio fantastico una [[France|Francia]] che sopravvive ancora oggi. È davvero il suolo della modernità, proprio come le province a nord di essa (l’Isola de Francia, la Normandia, la Piccardia e la Champagne) sono il suolo del fiore medievale precedente e del Gotico, che esse conservano in modo unico per i nostri tempi.
+Inoltre, il Rinascimento ebbe la sua sede in [[settings/france|Francia]], dove, tra terre ondulate le cui foreste fungono da mura di giardini, il largo e poco profondo fiume Loira scorre da Orléans, passando per Blois, Tours e Saumur, fino ad Ancenis; vicino a Nantes infine incontra l’effetto delle maree: sale, avventure e il “mare barbarico”. Questa terra variegata e protetta, ricca di antichi vigneti e immense ricchezze, possiede per il Rinascimento francese una qualità particolare: quella di conservare fino a tempi successivi le tracce di una perfezione originale. Questo luogo, covo o semenzaio della nuova civiltà, mostra ancora oggi i suoi castelli – Blois, Amboise, Chambord. Qui morì Leonardo da Vinci, qui nacque [[historical-references/rabelais|Rabelais]] e lo stesso Ronsard. Qui i re del Rinascimento costruirono con il loro orgoglio fantastico una [[settings/france|Francia]] che sopravvive ancora oggi. È davvero il suolo della modernità, proprio come le province a nord di essa (l’Isola de Francia, la Normandia, la Piccardia e la Champagne) sono il suolo del fiore medievale precedente e del Gotico, che esse conservano in modo unico per i nostri tempi.
 
-Ora, per quanto riguarda questa regione, Du Bellay non era semplicemente un suo abitante: ne faceva parte integrante; soffriva per essa; rimpiangeva, più di qualsiasi altro uomo del suo tempo, la terra di suo padre: l’Angiò e i campi della sua patria. Si potrebbe dire, con qualche esagerazione, che morì a causa della separazione dalla sicurezza e dalle solide [[Tradition|tradizioni]] delle proprie radici. Quell’importante esperienza iniziale della sua vita, di cui ho già parlato – il suo incontro con Ronsard – ebbe luogo non lontano dal suo paese natale, a sud del grande fiume Loira. Il suo nome, a differenza di quello di Ronsard, ricordava la nobiltà di quella regione, fin dalle sue origini; tra i membri della Pléiade, fu lui l’unico ad aver tradotto in versi la bellezza del valle del Loira: la sua profondità, la sua delicatezza, la sua solitudine ricca e sottile.
+Ora, per quanto riguarda questa regione, Du Bellay non era semplicemente un suo abitante: ne faceva parte integrante; soffriva per essa; rimpiangeva, più di qualsiasi altro uomo del suo tempo, la terra di suo padre: l’Angiò e i campi della sua patria. Si potrebbe dire, con qualche esagerazione, che morì a causa della separazione dalla sicurezza e dalle solide [[concepts/tradition|tradizioni]] delle proprie radici. Quell’importante esperienza iniziale della sua vita, di cui ho già parlato – il suo incontro con Ronsard – ebbe luogo non lontano dal suo paese natale, a sud del grande fiume Loira. Il suo nome, a differenza di quello di Ronsard, ricordava la nobiltà di quella regione, fin dalle sue origini; tra i membri della Pléiade, fu lui l’unico ad aver tradotto in versi la bellezza del valle del Loira: la sua profondità, la sua delicatezza, la sua solitudine ricca e sottile.
 
 Ancora una volta, il Rinascimento in Francia visse una vita ispirata ed elevata; per questo motivo, era inevitabile che vi fosse la consapevolezza di un imminente termine. Questa tragedia si ripeté nella carriera di Du Bellay.
 
-Il suo nome era famoso. I tre Du Bellay, il consigliere, il soldato, il grande Cardinale, appartenevano alla prima schiera del XVI secolo. [[Rabelais]] li aveva amati; Francesco I si era appoggiato al loro servizio e li aveva ricompensati. Suo padre (loro cugino di primo grado e Governatore di Brest) era un nobile povero che, come è consuetudine tra i nobili, aveva sposato una donna per consolidare la propria fortuna. Questa donna, madre di Joachim, era erede della famiglia Tourmélière a Liré, proprio sulle rive della Loira, da dove si può vedere verso nord il ponte e Ancenis. Lui nacque in quella casa. Alla morte prematura dei suoi genitori, ereditò la proprietà, ma non per godersela, bensì per vagabondare. Una malattia precoce lo costrinse ad abbandonare la carriera militare per quella ecclesiastica; tuttavia gli ordini religiosi rappresentavano per lui poco più di un pretesto. Leggendo le poche notizie riguardanti la sua vita, è difficile ricordare che abbia mai realmente portato quegli abiti, nei suoi versi, infatti, non vi è alcuna traccia di questo aspetto della sua esistenza. Viveva ancora all’interno di quella linea familiare che la Riforma non aveva toccato. La appassionata difesa della fede cattolica, le offensive contro la Chiesa in tutta Europa, il sollevamento delle ostilità, tutto ciò non aveva raggiunto il suo ambiente né la sua famiglia.
+Il suo nome era famoso. I tre Du Bellay, il consigliere, il soldato, il grande Cardinale, appartenevano alla prima schiera del XVI secolo. [[historical-references/rabelais|Rabelais]] li aveva amati; Francesco I si era appoggiato al loro servizio e li aveva ricompensati. Suo padre (loro cugino di primo grado e Governatore di Brest) era un nobile povero che, come è consuetudine tra i nobili, aveva sposato una donna per consolidare la propria fortuna. Questa donna, madre di Joachim, era erede della famiglia Tourmélière a Liré, proprio sulle rive della Loira, da dove si può vedere verso nord il ponte e Ancenis. Lui nacque in quella casa. Alla morte prematura dei suoi genitori, ereditò la proprietà, ma non per godersela, bensì per vagabondare. Una malattia precoce lo costrinse ad abbandonare la carriera militare per quella ecclesiastica; tuttavia gli ordini religiosi rappresentavano per lui poco più di un pretesto. Leggendo le poche notizie riguardanti la sua vita, è difficile ricordare che abbia mai realmente portato quegli abiti, nei suoi versi, infatti, non vi è alcuna traccia di questo aspetto della sua esistenza. Viveva ancora all’interno di quella linea familiare che la Riforma non aveva toccato. La appassionata difesa della fede cattolica, le offensive contro la Chiesa in tutta Europa, il sollevamento delle ostilità, tutto ciò non aveva raggiunto il suo ambiente né la sua famiglia.
 
 
 
 <span class="atom-split" data-atom="story_03_the_complaint--part_12" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 12)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death,histref/renaissance,setting/paris"></span>
 
 
-Of that family the Cardinal seems to have regarded him as the principal survivor. He had determined to make of the young poet the heir of its glory. It came to nothing. He accompanied his relative to Rome: but the diplomacy of the mission ill-suited him. Of the Royal ladies at court who befriended him, the marriage of one, the [[Death|death]] of another, increased his insecurity. He had inherited, to his bane, another estate — Gonor — from his elder brother. It was encumbered, the cause litigious, and he had inherited with it the tutelage of a sickly child. He never shook off the burden. A tragic error marked his end. He died, certainly broken-hearted, just when his powerful cousin, by a conversion perhaps unknown to the poet himself, had rejected calumnies, and had determined to resign to him the great Archbishopric of Bordeaux.
+Of that family the Cardinal seems to have regarded him as the principal survivor. He had determined to make of the young poet the heir of its glory. It came to nothing. He accompanied his relative to Rome: but the diplomacy of the mission ill-suited him. Of the Royal ladies at court who befriended him, the marriage of one, the [[motifs/death|death]] of another, increased his insecurity. He had inherited, to his bane, another estate — Gonor — from his elder brother. It was encumbered, the cause litigious, and he had inherited with it the tutelage of a sickly child. He never shook off the burden. A tragic error marked his end. He died, certainly broken-hearted, just when his powerful cousin, by a conversion perhaps unknown to the poet himself, had rejected calumnies, and had determined to resign to him the great Archbishopric of Bordeaux.
 
-Eustache Du Bellay, yet another cousin, was Bishop of [[Paris]]. He had made Joachim, on his return from Rome, a Canon of Notre Dame, and in that capacity the poet, dying in [[Paris]], was buried in the cathedral. The action of the Chapter in the eighteenth century, when they replaced the old tombstones by the present pavement, has destroyed the record of his grave; I believe it to lie in the southern part of the ambulatory.
+Eustache Du Bellay, yet another cousin, was Bishop of [[settings/paris|Paris]]. He had made Joachim, on his return from Rome, a Canon of Notre Dame, and in that capacity the poet, dying in [[settings/paris|Paris]], was buried in the cathedral. The action of the Chapter in the eighteenth century, when they replaced the old tombstones by the present pavement, has destroyed the record of his grave; I believe it to lie in the southern part of the ambulatory.
 
-In this abrupt descent, following upon so fierce an activity of thought, he prefigured, I say, the close of the [[Renaissance]] as his genius typified its living spirit; for all the while, as you read him, you see the cloud about his head, and the profound, though proud and constant, sadness of his eyes.
+In this abrupt descent, following upon so fierce an activity of thought, he prefigured, I say, the close of the [[historical-references/renaissance|Renaissance]] as his genius typified its living spirit; for all the while, as you read him, you see the cloud about his head, and the profound, though proud and constant, sadness of his eyes.
 
-This, also, was pure [[Renaissance]] in him, that the fields in which he wandered, and which he loved to sing — a man of elegies — were dominated by the awful ruins of Rome. These it was that lent him his gravity, and perhaps oppressed him. He sang them also with a comprehension of the superb.
+This, also, was pure [[historical-references/renaissance|Renaissance]] in him, that the fields in which he wandered, and which he loved to sing — a man of elegies — were dominated by the awful ruins of Rome. These it was that lent him his gravity, and perhaps oppressed him. He sang them also with a comprehension of the superb.
 
 He was second to Ronsard. Though he was the sharp voice of the Pleiade, though it was he who published their famous manifesto, though his scholarship was harder, though his energy could run more fiercely to one point and shine there more brilliantly in one small climax; yet he was second. He himself thought it of himself, and called himself a disciple. All up and down his works you find an astonished admiration directed towards his greater friend —
 
@@ -5403,18 +5403,18 @@ Fit onc en matière de chats.
 
 All that delicate side of him we understand very well.
 
-Nor is it to modern Englishmen alone that he will appeal. He powerfully affected, it may be presumed, the English [[Renaissance]] which succeeded him. Spenser — thirty years after his [[Death|death]] — was moved to the translation of his famous lament for Rome, and no one can read the sonnets to which he gave their final form without catching the same note in the great English cycle of the generation after him — the close of the sixteenth and the opening of the seventeenth centuries.
+Nor is it to modern Englishmen alone that he will appeal. He powerfully affected, it may be presumed, the English [[historical-references/renaissance|Renaissance]] which succeeded him. Spenser — thirty years after his [[motifs/death|death]] — was moved to the translation of his famous lament for Rome, and no one can read the sonnets to which he gave their final form without catching the same note in the great English cycle of the generation after him — the close of the sixteenth and the opening of the seventeenth centuries.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Di quella famiglia, il Cardinale sembrava considerarlo l’unico sopravvissuto. Aveva deciso di farne l’erede della sua gloria come giovane poeta. Ma nulla di ciò si realizzò. Lo accompagnò a Roma; tuttavia, la diplomazia richiesta per quella missione non faceva al caso suo. Tra le dame reali di corte che lo aiutarono, il matrimonio di una e la morte di un’altra aumentarono ancora di più la sua insicurezza. Inoltre, aveva ereditato da suo fratello maggiore un altro patrimonio. Gonor. Ma questo era gravato da obblighi legali e controversie; in più, gli era toccata anche la tutela di un bambino malaticcio. Non riuscì mai a liberarsi di quel fardello. Un errore tragico segnò la fine della sua vita. Morì, certamente con il cuore spezzato, proprio nel momento in cui suo potente cugino, forse senza che lo stesso poeta ne fosse a conoscenza, aveva rifiutato le calunnie e deciso di affidargli l’importantissima arcivescovado di Bordeaux.
 
-Eustache Du Bellay, un altro cugino, fu Vescovo di [[Paris|Parigi]]. Al suo ritorno da Roma, fece nominare Joachim Canon della Cattedrale di Notre Dame; per questo motivo, il poeta, morendo a [[Paris|Parigi]], fu sepolto nella stessa cattedrale. L’azione del Capitolo nel XVIII secolo, quando sostituirono le vecchie lapidi con la pavimentazione attuale, distrusse ogni traccia della sua tomba; credo che si trovi nella parte meridionale dell’ambulato.
+Eustache Du Bellay, un altro cugino, fu Vescovo di [[settings/paris|Parigi]]. Al suo ritorno da Roma, fece nominare Joachim Canon della Cattedrale di Notre Dame; per questo motivo, il poeta, morendo a [[settings/paris|Parigi]], fu sepolto nella stessa cattedrale. L’azione del Capitolo nel XVIII secolo, quando sostituirono le vecchie lapidi con la pavimentazione attuale, distrusse ogni traccia della sua tomba; credo che si trovi nella parte meridionale dell’ambulato.
 
-In questa brusca caduta, che seguiva un'intensa attività di pensiero, egli prefigurò, direi, la fine della [[Renaissance|Rinascita]], poiché il suo genio rappresentava lo spirito vitale di quell'epoca; infatti, mentre si leggono le sue opere, si percepisce sempre quella nuvola sopra la sua testa, e quella profonda tristezza nei suoi occhi, sia orgogliosa che costante.
+In questa brusca caduta, che seguiva un'intensa attività di pensiero, egli prefigurò, direi, la fine della [[historical-references/renaissance|Rinascita]], poiché il suo genio rappresentava lo spirito vitale di quell'epoca; infatti, mentre si leggono le sue opere, si percepisce sempre quella nuvola sopra la sua testa, e quella profonda tristezza nei suoi occhi, sia orgogliosa che costante.
 
-Anche questo rappresentava, in lui, un autentico esempio di [[Renaissance|Rinascimento]]: i campi nei quali vagabondava e che amava cantare – un uomo di elegie – erano dominati dalle terribili rovine di Roma. Erano proprio queste rovine a conferirgli quella gravità, e forse anche a opprimerlo. Tuttavia, le cantava con una profonda comprensione della loro maestosità.
+Anche questo rappresentava, in lui, un autentico esempio di [[historical-references/renaissance|Rinascimento]]: i campi nei quali vagabondava e che amava cantare – un uomo di elegie – erano dominati dalle terribili rovine di Roma. Erano proprio queste rovine a conferirgli quella gravità, e forse anche a opprimerlo. Tuttavia, le cantava con una profonda comprensione della loro maestosità.
 
 Era secondo solo a Ronsard. Anche se era la voce più acuta della Pleiade, anche se fu lui ad pubblicare il loro famoso manifesto, anche se la sua erudizione era più profonda e la sua energia riusciva a concentrarsi con maggiore intensità in un singolo momento, raggiungendo picchi di brillantezza straordinaria; tuttavia, era secondo. Lo stesso lo considerava così, definendosi suo discepolo. In tutte le sue opere si percepisce un'ammirazione sincera e sorpresa rivolta verso il suo grande amico.
 
@@ -5424,9 +5424,9 @@ Guydent segue il sentiero dei più anziani.
 
 O ancora…
 
-# Divin Ronsard, con il suo arco a sette corde
+Divin Ronsard, con il suo arco a sette corde
 
-# Tira per primo verso il bersaglio della memoria
+Tira per primo verso il bersaglio della memoria
 
 Le ali piegate della gloria francese.
 
@@ -5438,27 +5438,27 @@ Du Bellay era secondo; tuttavia, quando diventerà ben conosciuto in questo paes
 
 Pertanto, con uno spirito che tutti gli inglesi comprenderanno, una leggerezza quasi sarcastica si celava dietro le profondità del suo dolore; la tenerezza che provava per il proprio ambiente domestico si manifestava nelle cose legate alla tranquillità: i suoi libri e gli animali. Citerò in seguito gli epitaffi che scrisse per il suo cane e per il suo gatto, quel cantore di cose sublimi e perdute.
 
-#Del cane che…
+Del cane che…
 
-# Sempre seguendo tutti
+Sempre seguendo tutti
 
 A volte andava avanti.
 
-# Fai sapere quali feste si terranno
+Fai sapere quali feste si terranno
 
 Di un allegro movimento di testa.
 
-#E di colui dice, imitando abilmente Catullo, che egli…
+E di colui dice, imitando abilmente Catullo, che egli…
 
-# Ora per me…
+Ora per me…
 
-# Parmi queste pianure ombrose
+Parmi queste pianure ombrose
 
 Niente ritorna mai verso di noi.
 
-#O della gatta che era…
+O della gatta che era…
 
-# Per caso
+Per caso
 
 Il più bello capolavoro della natura
 
@@ -5466,7 +5466,7 @@ Sono molto esperto in materia di gatti.
 
 Quel lato delicato di lui lo comprendiamo molto bene.
 
-Non è soltanto agli uomini d’oggi che egli si rivolge; si può presumere che abbia avuto un profondo influenzo anche sul [[Renaissance|Rinascimento]] inglese che seguì la sua epoca. Spenser, trent’anni dopo la sua [[Death|morte]], fu ispirato a tradurre il suo famoso lamento per Roma; e nessuno può leggere i sonetti a cui diede forma definitiva senza percepire lo stesso spirito in quel grande ciclo letterario inglese che segnò la fine del XVI e l’inizio del XVII secolo.
+Non è soltanto agli uomini d’oggi che egli si rivolge; si può presumere che abbia avuto un profondo influenzo anche sul [[historical-references/renaissance|Rinascimento]] inglese che seguì la sua epoca. Spenser, trent’anni dopo la sua [[motifs/death|morte]], fu ispirato a tradurre il suo famoso lamento per Roma; e nessuno può leggere i sonetti a cui diede forma definitiva senza percepire lo stesso spirito in quel grande ciclo letterario inglese che segnò la fine del XVI e l’inizio del XVII secolo.
 
 
 
@@ -5573,11 +5573,11 @@ Sa puissance à la terre, et son courage au cieux.
 
 THE SONNET OF EXILE.
 
-THIS SONNET DATES from the same period at Rome, or possibly from his return. It has a different note. It is the most personal and passionate of all his writings, in which so much was inspired by personal regret. On this account it has a special literary interest as the most modern thing of the [[Renaissance]]. It would be far less surprising to find this written by one of the young republicans under the Second Empire (for instance) than to find a couplet of Malherbe’s straying into our time.
+THIS SONNET DATES from the same period at Rome, or possibly from his return. It has a different note. It is the most personal and passionate of all his writings, in which so much was inspired by personal regret. On this account it has a special literary interest as the most modern thing of the [[historical-references/renaissance|Renaissance]]. It would be far less surprising to find this written by one of the young republicans under the Second Empire (for instance) than to find a couplet of Malherbe’s straying into our time.
 
 THE SONNET OF EXILE.
 
-[[France|FRANCE]], MÈRE DES arts, des armes, et des loix,
+[[settings/france|FRANCE]], MÈRE DES arts, des armes, et des loix,
 
 Tu m’as nourry long temps du laict de ta mamelle:
 
@@ -5589,7 +5589,7 @@ Si tu m’as pour enfant advoué quelquefois
 
 Que ne me respons-tu maintenant, ô cruelle?
 
-[[France]], [[France]], respons à ma triste querelle:
+[[settings/france|France]], [[settings/france|France]], respons à ma triste querelle:
 
 Mais nul, sinon Echo, ne respond à ma voix.
 
@@ -5622,27 +5622,27 @@ Estratti dall’“Antichità di Roma”.
 
 Della serie “OF THE HIGH” che Roma chiese a Du Bellay durante quel amaro esilio diplomatico, ho scelto questi tre sonetti, perché sembrano i più adatti a esprimere la maestosità e il cupore che lo assediavano. È difficile scegliere in una serie di versi così armoniosi ed elevati, ma forse l’ultimo, “Telle que dans son char la Berecynthienne”, è davvero il più meraviglioso. Solo l’immagine di Roma, raffigurata come madre degli Dei nel suo carro, avrebbe reso questo sonetto immortale. Du Bellay aggiunge, a questa semplice rappresentazione visiva, un susseguirsi di parole che sembrano tuoni in lontane colline nelle serate estive: quelle parole si accumulano e si intensificano fino alla fine. Mentre le scriveva, probabilmente non immaginava quanto fosse grande ciò che stava creando. Questo sonetto possiede tutte le caratteristiche di una poesia che diventa ancora più significativa con il passare del tempo, e sembra superare persino le intenzioni dell’autore stesso.
 
-# L'antichità di Roma
+L'antichità di Roma
 
 III.
 
 Nuovo venuto che cerca Roma… dentro Roma stessa.
 
-# Niente di Roma si vede a Roma
+Niente di Roma si vede a Roma
 
-# Quei vecchi palazzi, quei vecchi archi che vedi...
+Quei vecchi palazzi, quei vecchi archi che vedi...
 
 E questi vecchi muri, è ciò che Roma viene chiamata.
 
-# Quell’orgoglio, quella rovina… e come
+Quell’orgoglio, quella rovina… e come
 
-# Le Mondo Governato dalle Sue Leggi
+Le Mondo Governato dalle Sue Leggi
 
-# Dare tutto, a volte anche se stesso
+Dare tutto, a volte anche se stesso
 
 E divenne preda del tempo, che tutto consuma.
 
-# Il solo monumento di Roma è…
+Il solo monumento di Roma è…
 
 E solo Roma ha vinto davvero.
 
@@ -5658,26 +5658,26 @@ IV.
 
 “Le stelle brillavano sopra la sua testa…”
 
-# Con un pied su Teti, l’altro sotto l’Aurora
+Con un pied su Teti, l’altro sotto l’Aurora
 
-# Con una mano sulla Scure, e l’altra sul More
+Con una mano sulla Scure, e l’altra sul More
 
-# La circonferenza della terra e del cielo
+La circonferenza della terra e del cielo
 
-#Juppiter, spaventato… se solo continuasse ad avvicinarsi
+Juppiter, spaventato… se solo continuasse ad avvicinarsi
 
-# Che l’orgoglio dei Ganesi si rialzi ancora
+Che l’orgoglio dei Ganesi si rialzi ancora
 
-# L’assalto sotto queste montagne, queste sette montagne che formano un cerchio…
+L’assalto sotto queste montagne, queste sette montagne che formano un cerchio…
 
 Tomba della grandezza che il cielo minaccia di distruggere.
 
-# Il lutto più grande è quello che si porta sul capo durante le feste di Saturno
+Il lutto più grande è quello che si porta sul capo durante le feste di Saturno
 
 Titolo:  
 Sopra lo stomaco si trova il Quirinale
 
-# Sul ventre piantò l’antico Palatino
+Sul ventre piantò l’antico Palatino
 
 Titolo:  
 La nebbia sulla mano destra raggiunge l’altezza celeste…
@@ -5695,7 +5695,7 @@ Come nella sua Carriera la Berecintia
 Titolo:  
 Circondata da torri, e felice di possederle
 
-# Tanti dèi sono stati generati… E così si manifestava
+Tanti dèi sono stati generati… E così si manifestava
 
 In tempi più felici, questa antica città…
 
@@ -5705,7 +5705,7 @@ Queste città un tempo erano più grandi della Frigia…
 Titolo:  
 Ricco di bambini e dal quale deriva il potere
 
-# Sopprimi i poteri del Mondo, e non si potrà più tornare indietro
+Sopprimi i poteri del Mondo, e non si potrà più tornare indietro
 
 Simile alla sua grandezza, sebbene non proprio la stessa.
 
@@ -5715,7 +5715,7 @@ Solo Roma poteva far tremare Roma…
 
 “Anche l’ordinanza fatale non lo aveva permesso…”
 
-# Un altro potere umano, così audace…
+Un altro potere umano, così audace…
 
 Titolo:  
 Se ti vanti di poter eguagliare colei che un tempo fu sua pari…
@@ -5724,35 +5724,35 @@ La sua forza è sulla terra, e il suo coraggio nei cieli.
 
 Il sonetto dell'esilio.
 
-Questo sonetto risale allo stesso periodo trascorso a Roma, o forse al suo ritorno. Ha un tono diverso; è il più personale e appassionato di tutti i suoi scritti, ispirato in gran parte da rimpianti personali. Per questo motivo possiede un particolare interesse letterario, essendo rappresentativo dell’aspetto più moderno del [[Renaissance|Rinascimento]]. Sarebbe molto meno sorprendente trovare quest’opera scritta da uno dei giovani repubblicani del Secondo Impero, piuttosto che un verso di Malherbe finito nel nostro tempo.
+Questo sonetto risale allo stesso periodo trascorso a Roma, o forse al suo ritorno. Ha un tono diverso; è il più personale e appassionato di tutti i suoi scritti, ispirato in gran parte da rimpianti personali. Per questo motivo possiede un particolare interesse letterario, essendo rappresentativo dell’aspetto più moderno del [[historical-references/renaissance|Rinascimento]]. Sarebbe molto meno sorprendente trovare quest’opera scritta da uno dei giovani repubblicani del Secondo Impero, piuttosto che un verso di Malherbe finito nel nostro tempo.
 
 Il sonetto dell'esilio.
 
-[[France|Francia]], MADRE delle arti, delle armi e delle leggi.
+[[settings/france|Francia]], MADRE delle arti, delle armi e delle leggi.
 
 “Mi hai nutrito a lungo con il latte della tua mammella…”
 
 Oro, come un agnello che chiama la sua nutrice…
 
-# Riempio di tuo nome le caverne e i boschi
+Riempio di tuo nome le caverne e i boschi
 
 Titolo:  
 Se mai mi hai considerato tuo figlio…
 
 O crudele, ora dimmi cosa ne farai di me.
 
-[[France|Francia]], [[France|Francia]], rispondi alla mia triste questione.
+[[settings/france|Francia]], [[settings/france|Francia]], rispondi alla mia triste questione.
 
 Ma nessuno, tranne Echo, risponde alla mia voce.
 
-# Tra i lupi crudeli vago nella pianura
+Tra i lupi crudeli vago nella pianura
 
 Titolo:  
 Percepisco arrivare l’inverno… e con esso il suo freddo respiro.
 
 Un terribile brivido fa rizzare la mia pelle.
 
-#"Altri tuoi agnelli non mancano certo di pascolo..."
+"Altri tuoi agnelli non mancano certo di pascolo..."
 
 Non temono il lupo, il vento, né il freddo;
 
@@ -5760,7 +5760,7 @@ Eppure, sono forse il peggiore di tutti.
 
 Il sonetto “Felici coloro che sono come Odisseo”.
 
-#Il trentunesimo dei “rimpianti”.
+Il trentunesimo dei “rimpianti”.
 
 Era una grande casa grigia, circondata da un fossato; accanto ad essa c'era una città, ma non lontano si estendevano i boschi, e la casa sorgeva su terreni accidentati. La dimora signorile di Liré, la sua casa. Fu lì che Du Bellay scrisse questo sonetto, il più nobile e forse anche l’ultimo dei suoi sonetti. Quel dolore che era sempre presente nella sua vita – sebbene a volte inosservato –, che aveva segnato le sue ultime sfortune e lo aveva tormentato fino al punto di farlo gridare. Lì quel dolore assunse una forma finale, estremamente nobile: qualcosa di molto più alto della semplice malinconia, di molto più maestoso del rimpianto. Du Bellay si rivolse alla sua proprietà. Al simbolo della sua famiglia. A un tetto che, in origine, era stato una fonte di responsabilità per lui e che alla fine lo aveva schiacciato. Ma lo fece con affetto. Se si può usare una parola così semplice per parlare di un grande poeta. Il lato “gentiluomo” in lui ricordava il riposo ancestrale.
 
@@ -6077,14 +6077,14 @@ Quando rivedrò, ahimè, il mio piccolo villaggio…
 
 "Fumer la cheminée: et en quelle saison"
 
-#Rivedrò mai il cortile della mia povera casa?
+Rivedrò mai il cortile della mia povera casa?
 
 Qui ho una provincia, e molti vantaggi in più?
 
 Titolo:  
 Mi piace di più il soggiorno che hanno creato i miei antenati
 
-# Quei maestosi palazzi romani…
+Quei maestosi palazzi romani…
 
 “Più della dura pietra mi piace la sottile ardesia…”
 
@@ -6108,35 +6108,35 @@ Troppo leggere per voi
 Titolo:  
 Qui di queste antiche viaggiatrici
 
-# Volate per il mondo
+Volate per il mondo
 
-# Et d’un sifflant murmure
+Et d’un sifflant murmure
 
 L’ombra delle piante verdi
 
-# Dolcemente spezzati
+Dolcemente spezzati
 
 Offro queste violette.
 
-# Ces lis e queste fioriture
+Ces lis e queste fioriture
 
-# E queste rose qui…
+E queste rose qui…
 
-# Ces vermeillettes roses
+Ces vermeillettes roses
 
 Appena sbocciato…
 
 E anche questi boccioli.
 
-# De vostre doulce haleine
+De vostre doulce haleine
 
-# Eventi imprevisti in questa pianura
+Eventi imprevisti in questa pianura
 
-# Eventualità di questo soggiorno
+Eventualità di questo soggiorno
 
-# Mentre io mi affanno…
+Mentre io mi affanno…
 
-# Il mio grano che andrà via
+Il mio grano che andrà via
 
 Al calore del giorno.
 
@@ -6150,13 +6150,13 @@ Vorrei avere abbastanza spazio per stampare entrambi questi “threnodie” nell
 
 Il cane.
 
-# Dessous ceste motte verte
+Dessous ceste motte verte
 
-# De Lis et Roses Couverte
+De Lis et Roses Couverte
 
-# Gist le petit Peloton
+Gist le petit Peloton
 
-# De qui la folle peluria
+De qui la folle peluria
 
 Titolo:  
 Scalpato da una piuma bianca
@@ -6166,15 +6166,15 @@ Le cosce, i fianchi e il sedere.
 Titolo:  
 Esercizio ordinario
 
-#"Abbaia e muggisce senza sosta"...
+"Abbaia e muggisce senza sosta"...
 
 Correre su e giù
 
-# Centomila esbasi
+Centomila esbasi
 
 "Tutti stranieri e feroci",
 
-# Solo guerra contro le mosche
+Solo guerra contro le mosche
 
 Qui gli infliggevano molti tormenti.
 
@@ -6183,105 +6183,105 @@ Il gruppo di destra
 
 Li rispondevano allo stesso modo…
 
-# Sulle orecchie…
+Sulle orecchie…
 
-# Finemente il aguignoit
+Finemente il aguignoit
 
-# Quando qualcuno mi afferrasse per il polso…
+Quando qualcuno mi afferrasse per il polso…
 
 Con agilità consumata
 
-#"La mosca infelice"...
+"La mosca infelice"...
 
-# Chiudi bene a chiave dentro
+Chiudi bene a chiave dentro
 
-#Far concordare le sue densità
+Far concordare le sue densità
 
-# Peloton lo accarezzava
+Peloton lo accarezzava
 
-# Coloro che conosceva
+Coloro che conosceva
 
-# Non avrebbe voluto farsi vedere
+Non avrebbe voluto farsi vedere
 
 Con un’altra mano che non quella del suo maestro…
 
-# Seguendo sempre la stessa strada…
+Seguendo sempre la stessa strada…
 
 A volte camminava avanti.
 
-# Fai sì che si conoscano quelle feste
+Fai sì che si conoscano quelle feste
 
 Con un semplice movimento della testa.
 
-# Mon Dieu, che piacere era…
+Mon Dieu, che piacere era…
 
-# Quando Peloton si grattava
+Quando Peloton si grattava
 
-# Fai tintinnare la sua campanella
+Fai tintinnare la sua campanella
 
 Con quella testa a foglia!
 
-# Quel piacere, quando Peloton
+Quel piacere, quando Peloton
 
-# Cammino su un bastone
+Cammino su un bastone
 
-# Avvolta in un piccolo panno
+Avvolta in un piccolo panno
 
-# Seduto come un piccolo scimmione
+Seduto come un piccolo scimmione
 
-# Se avesse un piccolo amante…
+Se avesse un piccolo amante…
 
 Con l’aria di una giovane dama.
 
-#"Ma che dolce tempo trascorriamo..."
+"Ma che dolce tempo trascorriamo..."
 
 Non dura molto…
 
-# Car la mort ayant déjà...
+Car la mort ayant déjà...
 
 Sul filo della nostra vita
 
-# Inviato verso Plutone
+Inviato verso Plutone
 
 Nostro piccolo pelotone
 
 Titolo:  
 Ora qui si compie…
 
-# Tra queste ombrose pianure
+Tra queste ombrose pianure
 
 Niente ritorna mai verso di noi.
 
 Il gatto
 
-#Perché sono così confuso
+Perché sono così confuso
 
 Titolo:  
 Non è per aver perso…
 
 I miei anelli, il mio argento, la mia ricchezza…
 
-# Perché mai è così?
+Perché mai è così?
 
 Titolo:  
 Quello che ho perso da tre giorni
 
 I miei tesori, il mio piacere, i miei amori…
 
-# Et quoy? ô Souvenance greve
+Et quoy? ô Souvenance greve
 
 Titolo:  
 “Per un soffio il mio cuore esplode…”
 
-# Quando ne parlo o quando ne scrivo:
+Quando ne parlo o quando ne scrivo:
 
 “È Belaud, il mio piccolo gatto grigio…”
 
-# Elogiati ora, ma chissà cosa accadrà in futuro…
+Elogiati ora, ma chissà cosa accadrà in futuro…
 
 Il più bello capolavoro della natura
 
-# Mai parlare di gatti…
+Mai parlare di gatti…
 
 Titolo:  
 Era Belaud… la morte tra i ratti
@@ -6294,31 +6294,31 @@ Non lodare mai una bellezza così grande…
 Titolo:  
 Mio Dio, che noia…
 
-# Quando quel Belaud si girava e rigirava
+Quando quel Belaud si girava e rigirava
 
 Stupidi che girano intorno a una palla!
 
-# Quell’immensa soddisfazione, quando quella testa sciocca…
+Quell’immensa soddisfazione, quando quella testa sciocca…
 
-#"La coda di Suyvant in mille giri"
+"La coda di Suyvant in mille giri"
 
 Di un volano che imitava il movimento della corsa.
 
-# O quando seduti sul dorso
+O quando seduti sul dorso
 
-# Si faceva una giarrettiera
+Si faceva una giarrettiera
 
-# Et mostrant l’estomaco velu
+Et mostrant l’estomaco velu
 
-# De panne blanche crespelu
+De panne blanche crespelu
 
 “Sembra proprio che quel viso fosse molto bello…”
 
 Qualche dottore della Sorbona!
 
-# O quando allora che lo animavamo…
+O quando allora che lo animavamo…
 
-# Con un paio di colpi di zampe combatteva
+Con un paio di colpi di zampe combatteva
 
 E poi sfogò la sua rabbia
 
@@ -6326,19 +6326,19 @@ All'improvviso, tutto ciò che gli veniva offerto divenne prezioso per lui.
 
 “Belaud estoit mon cher mignon”
 
-# Il mio compagno era ammirato da tutti
+Il mio compagno era ammirato da tutti
 
-# In camera da letto, sul letto, alla tavola
+In camera da letto, sul letto, alla tavola
 
-# Più facile da apprezzare
+Più facile da apprezzare
 
-# Un piccolo cane goloso
+Un piccolo cane goloso
 
-# Non gridava mai di notte
+Non gridava mai di notte
 
 Come quei terribili grossi marcioni…
 
-# Urla terribili e lunghi miagolii
+Urla terribili e lunghi miagolii
 
 Aussi le petit mitouard
 
@@ -6348,19 +6348,19 @@ E a Belaud, che sfortuna.
 
 De Belaud ha perso la gara.
 
-# Que plaise à Dieu, petit Belon
+Que plaise à Dieu, petit Belon
 
-# Qui j’eusse l’esprit assez bon
+Qui j’eusse l’esprit assez bon
 
-# Potere in un bel modo
+Potere in un bel modo
 
-# Descrivere la tua grazia gentile
+Descrivere la tua grazia gentile
 
-# Un verso tanto grazioso quanto te…
+Un verso tanto grazioso quanto te…
 
-#"Belaud, je te promets ma foy,""
+"Belaud, je te promets ma foy,""
 
-# Finché vivrai sulla terra
+Finché vivrai sulla terra
 
 I gatti faranno guerra ai topi.
 
@@ -6371,9 +6371,9 @@ I gatti faranno guerra ai topi.
 
 MALHERBE.
 
-THE FRENCH [[Renaissance|RENAISSANCE]] ended in the Classic. The fate of all that exuberance was to find order, and that chaos of generation settled down to the obedience of unchanging laws. This transition, which fixed, perhaps for ever, the nature of the French tongue, is bound up with the name of Malherbe.
+THE FRENCH [[historical-references/renaissance|RENAISSANCE]] ended in the Classic. The fate of all that exuberance was to find order, and that chaos of generation settled down to the obedience of unchanging laws. This transition, which fixed, perhaps for ever, the nature of the French tongue, is bound up with the name of Malherbe.
 
-When what the French have entitled “the great time,” when the generation of Louis XIV looked back to find an origin for its majestic security in letters, it was in Malherbe that such an origin was discovered; he had tamed the wildness of the [[Renaissance]], he had bent its vigour to an arrangement and a frame; by him first were explicitly declared those rules within which all his successors were content to be narrowed. The devotion to his memory is nowhere more exalted or more typically presented than in the famous cry — enfin Malherbe vint. His name carried with it a note of completion and of an end.
+When what the French have entitled “the great time,” when the generation of Louis XIV looked back to find an origin for its majestic security in letters, it was in Malherbe that such an origin was discovered; he had tamed the wildness of the [[historical-references/renaissance|Renaissance]], he had bent its vigour to an arrangement and a frame; by him first were explicitly declared those rules within which all his successors were content to be narrowed. The devotion to his memory is nowhere more exalted or more typically presented than in the famous cry — enfin Malherbe vint. His name carried with it a note of completion and of an end.
 
 When the romantic revival of our own time sought for one mind on which to lay the burden of its anger, one hard master or pedant who could be made responsible for the drying up of the wells, Malherbe again was found. He became the butt of Hugo’s splendid ridicule. He was the god of plaster that could not hear or speak or feel, but which fools had worshipped; a god easy to break to pieces. His austerity — for them without fullness — his meagre output, his solemn reiterated code of “perfect taste,” moved them to a facile but intense aggression. He it was that had turned to fossil stone the living matter of the sixteenth century: He that had stifled and killed the spirit they attempted to recall.
 
@@ -6383,22 +6383,22 @@ The Romantics, I say, believed that they had destroyed Malherbe and left the Cla
 
 Consider what the Classic is and why all mighty civilisations have demanded and obtained some such hard, permanent and, as it were, sacred vehicle for the expression of their maturity.
 
-Nations that have a long continuous memory of their own past, nations especially whose gods have suffered transformation, but never [[Death|death]], develop the somewhat unelastic wisdom of men in old age. They mistrust the taste of the moment. They know that things quite fresh and violent seem at first greater than they are: that such enthusiasm forms no lasting legacy for posterity. Their very ancient [[Tradition|tradition]] gives them a thirst for whatever shall certainly remain. The rigid Classic satisfies that need.
+Nations that have a long continuous memory of their own past, nations especially whose gods have suffered transformation, but never [[motifs/death|death]], develop the somewhat unelastic wisdom of men in old age. They mistrust the taste of the moment. They know that things quite fresh and violent seem at first greater than they are: that such enthusiasm forms no lasting legacy for posterity. Their very ancient [[concepts/tradition|tradition]] gives them a thirst for whatever shall certainly remain. The rigid Classic satisfies that need.
 
-Again, you will discover that those whose energy is too abundant seek for themselves by an instinct the necessary confines without which such energy is wasted — and wasted the more from its excess. They canalise for their own security a torrent which, undisciplined, would serve but to destroy. Such an instinct is apparent in every department of French life. To their jurisprudence the French have ever attempted to attach a code, to their politics the stone walls of a Constitution, or, at the least, of a fundamental theory. Their theology from Athanasius through St. Germanus to the modern strict defence against all “liberals” has glorified the unchanging. Every outburst of the interior fires in the history of Gaul has been followed by a rapid, plastic action which reduced to human use what might otherwise have crystallised into an amorphous lava. So the wild freedom of the twelfth century was captured to form the Monarchy, the University, the full Gothic of the thirteenth: so the Revolution permitted Napoleon and produced, not the visionary unstable grandeur of the Gironde, but the schools and laws and roads and set government we see to-day. So the [[Spring|spring]] storms of the [[Renaissance]] settled, I say, into that steady summer of stable form which has now for three hundred years dominated the literature of the country.
+Again, you will discover that those whose energy is too abundant seek for themselves by an instinct the necessary confines without which such energy is wasted — and wasted the more from its excess. They canalise for their own security a torrent which, undisciplined, would serve but to destroy. Such an instinct is apparent in every department of French life. To their jurisprudence the French have ever attempted to attach a code, to their politics the stone walls of a Constitution, or, at the least, of a fundamental theory. Their theology from Athanasius through St. Germanus to the modern strict defence against all “liberals” has glorified the unchanging. Every outburst of the interior fires in the history of Gaul has been followed by a rapid, plastic action which reduced to human use what might otherwise have crystallised into an amorphous lava. So the wild freedom of the twelfth century was captured to form the Monarchy, the University, the full Gothic of the thirteenth: so the Revolution permitted Napoleon and produced, not the visionary unstable grandeur of the Gironde, but the schools and laws and roads and set government we see to-day. So the [[motifs/spring|spring]] storms of the [[historical-references/renaissance|Renaissance]] settled, I say, into that steady summer of stable form which has now for three hundred years dominated the literature of the country.
 
 Caught on with this aspect of energy producing the Classic is the truth that energy alone can dare to be classical. Where the great currents of the soul run feebly a perpetual acceleration, whether by novelty or by extravagance, will be demanded; where they run full and heavy, then, under the restraint of form, they will but run more proudly and more strong. It is the flickering of life that fears hard rules in verse and may not feel the level classics of our Europe. Their rigidity is not that of marble; they are not dead. A human acquaintance with their sobriety soon fills us as we read. If we lie in the way of the giants who conceived them (let me say Corneille or the great Dryden), re-reading and further knowledge — especially a deeper experience of common life about us — reveal to us the steadfast life of these images; the eyes open, the lips might almost move; the statue descends and lives.
 
-The man who imposed design and authority and unity upon the letters of his country, and who so closed the epoch with which I have been dealing, was singularly suited to his task. Observant, something of a stoic, uninspired; courageous, witty, a soldier; lucid, critical of method only, he corresponded to the movement which, all around him, was ushering in the Bourbons: the hardening of Goujon’s and de l’Orme’s luxuriance into the conventions of the great colonnades and the sombre immensity of the new palaces; the return of one national [[Faith|faith]] to a people weary of so many random quarrels; the mistrust of an ill-ordered squirearchy; the firm founding of a central government.
+The man who imposed design and authority and unity upon the letters of his country, and who so closed the epoch with which I have been dealing, was singularly suited to his task. Observant, something of a stoic, uninspired; courageous, witty, a soldier; lucid, critical of method only, he corresponded to the movement which, all around him, was ushering in the Bourbons: the hardening of Goujon’s and de l’Orme’s luxuriance into the conventions of the great colonnades and the sombre immensity of the new palaces; the return of one national [[concepts/faith|faith]] to a people weary of so many random quarrels; the mistrust of an ill-ordered squirearchy; the firm founding of a central government.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Malherbe.
 
-Il [[Renaissance|Rinascimento]] francese terminò nell’epoca classica. Il destino di tutta quell’esuberanza fu quello di trovare ordine; quel caos creativo si placò, sottomettendosi alle leggi immutabili della natura. Questo passaggio, che forse per sempre fissò la natura della lingua francese, è strettamente legato al nome di Malherbe.
+Il [[historical-references/renaissance|Rinascimento]] francese terminò nell’epoca classica. Il destino di tutta quell’esuberanza fu quello di trovare ordine; quel caos creativo si placò, sottomettendosi alle leggi immutabili della natura. Questo passaggio, che forse per sempre fissò la natura della lingua francese, è strettamente legato al nome di Malherbe.
 
-Quando ciò che i francesi hanno definito “il grande periodo”, quando la generazione di Luigi XIV guardava indietro alla ricerca delle origini della propria maestosa sicurezza nel mondo letterario, fu in Malherbe che tali origini furono scoperte. Egli aveva domato la selvaggia natura del [[Renaissance|Rinascimento]], aveva plasmato la sua forza creativa in strutture e schemi ben definiti; fu lui il primo a enunciare esplicitamente quelle regole entro cui tutti i suoi successori si accontentarono di muoversi. Il culto della sua memoria non è mai stato più elevato né rappresentato in modo più tipico di quel famoso grido: “Finalmente, Malherbe ha vinto”. Il suo nome portava con sé il senso di una conclusione, di una fine definitiva.
+Quando ciò che i francesi hanno definito “il grande periodo”, quando la generazione di Luigi XIV guardava indietro alla ricerca delle origini della propria maestosa sicurezza nel mondo letterario, fu in Malherbe che tali origini furono scoperte. Egli aveva domato la selvaggia natura del [[historical-references/renaissance|Rinascimento]], aveva plasmato la sua forza creativa in strutture e schemi ben definiti; fu lui il primo a enunciare esplicitamente quelle regole entro cui tutti i suoi successori si accontentarono di muoversi. Il culto della sua memoria non è mai stato più elevato né rappresentato in modo più tipico di quel famoso grido: “Finalmente, Malherbe ha vinto”. Il suo nome portava con sé il senso di una conclusione, di una fine definitiva.
 
 Quando il rinascimento romantico del nostro tempo cercò un’autorità su cui far ricadere il peso della propria rabbia, un maestro o pedante rigido che potesse essere ritenuto responsabile dell’asciugarsi delle sorgenti d’acqua, fu di nuovo Malherbe a venire in mente. Divenne bersaglio del magnifico sarcasmo di Hugo: il dio dello stucco che non poteva ascoltare, parlare né sentire, ma che gli sciocchi avevano adorato; un dio facile da frantumare in mille pezzi. La sua austerità – per loro priva di ogni pienezza – la sua scarsa produzione letteraria, il suo solenne e ripetitivo codice di “buon gusto perfetto” suscitarono in loro un’aggressività facile ma intensa. Fu lui ad aver trasformato in pietra fossile la materia viva del XVI secolo; fu lui a soffocare e uccidere lo spirito che essi cercavano di ricordare.
 
@@ -6408,7 +6408,7 @@ I Romantici, dico io, credevano di aver distrutto Malherbe e di aver lasciato il
 
 Considerate cosa sia il “Classico” e perché tutte le grandi civiltà abbiano sempre cercato e ottenuto un mezzo di espressione così solido, permanente e, in qualche modo, sacro per manifestare la propria maturità.
 
-Le nazioni che possiedono un ricordo continuo e lungo del proprio passato, soprattutto quelle le cui divinità hanno subito trasformazioni ma mai la [[Death|morte]], sviluppano una saggezza piuttosto rigida e poco flessibile. Non fidano nel gusto del momento; sanno che ciò che è fresco e intenso può sembrare più grande di quanto in realtà sia, e che un tale entusiasmo non lascia eredità durature per le generazioni future. Le loro antichissime [[Tradition|tradizioni]] suscitano in loro il desiderio di ciò che sicuramente sopravviverà nel tempo; la rigida tradizione classica soddisfa tale bisogno.
+Le nazioni che possiedono un ricordo continuo e lungo del proprio passato, soprattutto quelle le cui divinità hanno subito trasformazioni ma mai la [[motifs/death|morte]], sviluppano una saggezza piuttosto rigida e poco flessibile. Non fidano nel gusto del momento; sanno che ciò che è fresco e intenso può sembrare più grande di quanto in realtà sia, e che un tale entusiasmo non lascia eredità durature per le generazioni future. Le loro antichissime [[concepts/tradition|tradizioni]] suscitano in loro il desiderio di ciò che sicuramente sopravviverà nel tempo; la rigida tradizione classica soddisfa tale bisogno.
 
 Ancora una volta, si scopre che coloro la cui energia è eccessivamente abbondante cercano, per istinto, i limiti necessari affinché tale energia non venga sprecata – e lo viene ancora di più a causa del suo eccesso. Canalizzano, per la propria sicurezza, un flusso che, se lasciato incontrollato, porterebbe solo distruzione. Un simile istinto è evidente in ogni aspetto della vita francese: nella loro giurisprudenza hanno sempre cercato di fissare regole precise; nella politica, mura di pietra costituzionali o, almeno, teorie fondamentali; nella teologia, da Atanasio a San Germano fino alle moderne difese contro ogni forma di “liberalismo”, hanno sempre esaltato ciò che è immutabile. Ogni esplosione delle forze interne nella storia della Gallia è stata seguita da azioni rapide e mirate che hanno trasformato in risorse utili ciò che, altrimenti, sarebbe diventato lava informe. Così la selvaggia libertà del XII secolo fu incanalata per dare vita alla Monarchia, all’Università, allo stile architettonico gotico del XIII secolo; così la Rivoluzione permise a Napoleone di creare le scuole, le leggi, le strade e il sistema governativo che vediamo oggi. Le tempeste creative del Rinascimento si trasformarono, insomma, in una forma stabile e duratura che, da trecento anni, domina la letteratura francese.
 
@@ -6421,11 +6421,11 @@ L’uomo che impose design, autorità e unità alle lettere della sua nazione, e
 <span class="atom-split" data-atom="story_03_the_complaint--part_16" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 16)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death,concept/faith,histref/renaissance,setting/paris"></span>
 
 
-He was Norman. Right of that north whence the vigour, though not the inspiration, of the [[Renaissance]] had proceeded, and into which it returned. Caen gave him birth, and still remembers him. Normans still edit his works — and dedicate these books to the town which also bred Corneille. Norman, learned with that restrained but vigorous learning of the province, he was also of the province in his blood, for he came of one of those fixed families whose heads held great estates all round Falaise, and whose cadets branched off into chances abroad: one of the Boughtons, in Kent, is still “Boughton Malherbe.”
+He was Norman. Right of that north whence the vigour, though not the inspiration, of the [[historical-references/renaissance|Renaissance]] had proceeded, and into which it returned. Caen gave him birth, and still remembers him. Normans still edit his works — and dedicate these books to the town which also bred Corneille. Norman, learned with that restrained but vigorous learning of the province, he was also of the province in his blood, for he came of one of those fixed families whose heads held great estates all round Falaise, and whose cadets branched off into chances abroad: one of the Boughtons, in Kent, is still “Boughton Malherbe.”
 
 [Footnote 1: Not from the Conquest. It is near Charing, originally de Braose land, but an heiress married a Malherbe in the early twelfth century.]
 
-He was poor. His father, who held one of those magistracies which the smaller nobility bought or inherited, had not known where to turn in the turmoil of the central century. In a moment of distress he called himself Huguenot when that party seemed to triumph, and Malherbe in anger against the apostasy went down south, a boy of nineteen, and fought as a soldier — but chiefly duels; for he loved that sport. He lay under a kind of protection from the great Catholic houses, though still poor, till in 1601 — he was a man of forty-six — Henri IV heard of him. In all these years he had worked at the rule of poetry like an artisan, thinking of nothing else, not even of fame. Those who surrounded him took it for granted that he was a master critic — a sort of judge without appeal, but it was a very little provincial circle surrounding a very unimportant house in Provence. Thus, careless it seems of everything except that “form of language” which was with him a passion, like the academic or theological passions, he was astonished on coming to [[Paris]] in 1605 to discover how suited such a pre-occupation was to such a time, and how rapidly he became the first name in contemporary letters. Of men who poured out verse the age was satiated; of men who could seize the language at this turn in its fortune, fix it and give it rules, the age had no knowledge till he came: the age fastened upon him, and insisted upon making him a master.
+He was poor. His father, who held one of those magistracies which the smaller nobility bought or inherited, had not known where to turn in the turmoil of the central century. In a moment of distress he called himself Huguenot when that party seemed to triumph, and Malherbe in anger against the apostasy went down south, a boy of nineteen, and fought as a soldier — but chiefly duels; for he loved that sport. He lay under a kind of protection from the great Catholic houses, though still poor, till in 1601 — he was a man of forty-six — Henri IV heard of him. In all these years he had worked at the rule of poetry like an artisan, thinking of nothing else, not even of fame. Those who surrounded him took it for granted that he was a master critic — a sort of judge without appeal, but it was a very little provincial circle surrounding a very unimportant house in Provence. Thus, careless it seems of everything except that “form of language” which was with him a passion, like the academic or theological passions, he was astonished on coming to [[settings/paris|Paris]] in 1605 to discover how suited such a pre-occupation was to such a time, and how rapidly he became the first name in contemporary letters. Of men who poured out verse the age was satiated; of men who could seize the language at this turn in its fortune, fix it and give it rules, the age had no knowledge till he came: the age fastened upon him, and insisted upon making him a master.
 
 A full twenty years from 1607 he governed the transformation, not of thought, for that he little changed, but of method and of expression. He decided what should be called the typical metres, the alternative of feminine and masculine in verse, the order of emphasis, the proportion of inversion tolerable, the propriety, the modernity, the archaism of words. It is a function to our time meaningless and futile: to such a period as that, indispensable and even noble. He interpreted and published the national sentiment upon this major thing, the architecture of letters. The power of his mind, tortured and insufficient in actual production, was supreme in putting forth clearly and finally that criticism which ran as an unspoken and obscure current of opinion in the mind of his age. This was his glory, and it was true.
 
@@ -6433,7 +6433,7 @@ His dryness was extraordinary. In a life of seventy-two years, during which he w
 
 No one will understand Malherbe who only hears of how, like a dusty workman, he cut and polished, and so fixed the new jewel of letters. In our less happy age the academic spirit is necessarily associated with a lethargic stupidity. In his it was not so. His force, by which this work was carried through, lay in a character of penetration. His face expresses it. His very keen and ready eyes, his high lifted brow, his sharp nose, and the few active lines of his cheek and forehead, the poise of his head, the disdain of his firm mouth, all build him back alive for us. His talk, which stammered in its volubility, was incessant and varied; his temper ready; his bodily command of gesture and definition perfect in old age: he was of good metal all those years.
 
-Of his intense Toryism, his vivacity, his love of arms, his tenacity of perception, Racan gives us in his biography an admirable picture. Just before he died his son was killed in a duel — he, at seventy-two, desired passionately to kill the adversary. “Gambling,” he said, “my pence of life against the gold of his twenty-five years.” He had wit, and he hated well — hating men after [[Death|death]]:
+Of his intense Toryism, his vivacity, his love of arms, his tenacity of perception, Racan gives us in his biography an admirable picture. Just before he died his son was killed in a duel — he, at seventy-two, desired passionately to kill the adversary. “Gambling,” he said, “my pence of life against the gold of his twenty-five years.” He had wit, and he hated well — hating men after [[motifs/death|death]]:
 
 Here richly with ridiculous display
 
@@ -6443,18 +6443,18 @@ While all of his acquaintance sneered and slanged,
 
 I wept: for I had longed to see him hanged.
 
-His zeal for his tongue was real. As he lay upon his [[Death|death]]-bed making his confession after so vigorous a life, he heard his nurse say something to herself which sounded ungrammatical and, turning round from the priest, he put her right in a manner most violent and sudden. His confessor, startled, said: “The time is not relevant.” “All times are relevant!” he answered, sinking back. “I will defend with my last breath the purity and grandeur of the French tongue.”
+His zeal for his tongue was real. As he lay upon his [[motifs/death|death]]-bed making his confession after so vigorous a life, he heard his nurse say something to herself which sounded ungrammatical and, turning round from the priest, he put her right in a manner most violent and sudden. His confessor, startled, said: “The time is not relevant.” “All times are relevant!” he answered, sinking back. “I will defend with my last breath the purity and grandeur of the French tongue.”
 
-To such a man the meaning of the solution at which his people had arrived after a century of civil war lay, above all, in their ancient religion. On that converged those deeper and more permanent things in his soul of which even his patriotism and his literary zeal were but the surface. In the expression of that final solution his verse, which was hardly that of a poet, rises high into poetry; under the heat and pressure of his [[Faith|faith]], single lines here and there have crystallized into diamonds. By far the most vigorous of so many frigid odes is the battle cry addressed by him in old age to Louis XIII setting out against La Rochelle. He visited that siege, but had the misfortune to die a bare week before the fall of the city. The most powerful of his sonnets, or rather the only powerful one, is that in which he calls to Our Lord for vengeance against the men who killed his son. Catholicism in its every effect, political and personal, as it were literary too, possessed the man, so that in ending the types of the French [[Renaissance]] with him you see how the terms in which ultimately the French express themselves are and will remain religious. The last two lines of his most famous and most Catholic poem have about them just that sound which saves them, in spite of their too simple words, from falling into the vulgar commonplace of vague and creedless men. In writing them down one seems to be writing down the fate of the great century now tamed, alas! and ordered, as must be the violence of over-human things: —
+To such a man the meaning of the solution at which his people had arrived after a century of civil war lay, above all, in their ancient religion. On that converged those deeper and more permanent things in his soul of which even his patriotism and his literary zeal were but the surface. In the expression of that final solution his verse, which was hardly that of a poet, rises high into poetry; under the heat and pressure of his [[concepts/faith|faith]], single lines here and there have crystallized into diamonds. By far the most vigorous of so many frigid odes is the battle cry addressed by him in old age to Louis XIII setting out against La Rochelle. He visited that siege, but had the misfortune to die a bare week before the fall of the city. The most powerful of his sonnets, or rather the only powerful one, is that in which he calls to Our Lord for vengeance against the men who killed his son. Catholicism in its every effect, political and personal, as it were literary too, possessed the man, so that in ending the types of the French [[historical-references/renaissance|Renaissance]] with him you see how the terms in which ultimately the French express themselves are and will remain religious. The last two lines of his most famous and most Catholic poem have about them just that sound which saves them, in spite of their too simple words, from falling into the vulgar commonplace of vague and creedless men. In writing them down one seems to be writing down the fate of the great century now tamed, alas! and ordered, as must be the violence of over-human things: —
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Era normanno. Proveniva da quella regione del nord da cui era sorta, se non l’ispirazione, almeno la forza vitale della [[Renaissance|Rinascita]]; e là essa tornò in seguito. Caen lo vide nascere e ancora oggi lo ricorda. I normanni continuano a pubblicare le sue opere – e le dedicano alla città che ha dato i natali anche a Corneille. Normanno per cultura, con quella conoscenza sobria ma profonda tipica della regione; normanno anche nel sangue, poiché proveniva da una di quelle famiglie antiche il cui capo possedeva vasti territori intorno a Falaise, mentre i suoi discendenti si spargevano in varie parti del mondo: uno dei Boughton del Kent è ancora oggi chiamato “Boughton Malherbe”.
+Era normanno. Proveniva da quella regione del nord da cui era sorta, se non l’ispirazione, almeno la forza vitale della [[historical-references/renaissance|Rinascita]]; e là essa tornò in seguito. Caen lo vide nascere e ancora oggi lo ricorda. I normanni continuano a pubblicare le sue opere – e le dedicano alla città che ha dato i natali anche a Corneille. Normanno per cultura, con quella conoscenza sobria ma profonda tipica della regione; normanno anche nel sangue, poiché proveniva da una di quelle famiglie antiche il cui capo possedeva vasti territori intorno a Falaise, mentre i suoi discendenti si spargevano in varie parti del mondo: uno dei Boughton del Kent è ancora oggi chiamato “Boughton Malherbe”.
 
 [Nota a piè di pagina 1: Non appartiene al periodo della Conquista. Si trova vicino a Charing; originariamente era terra dei de Braose, ma all’inizio del XII secolo un’ereditiera sposò un Malherbe.]
 
-Era povero. Suo padre, che ricopriva una di quelle cariche pubbliche che la piccola nobiltà acquistava o ereditava, non aveva saputo dove rivolgersi nel caos del secolo centrale. In un momento di difficoltà si dichiarò ugonotto quando quel partito sembrava trionfare; Malherbe, invece, arrabbiato per quella apostasia, all’età di diciannove anni si recò nel sud e combatté come soldato – ma soprattutto in duelli, poiché amava quel genere di sport. Era sotto una sorta di protezione da parte delle grandi famiglie cattoliche, anche se rimaneva povero, fino a quando, nel 1601 – aveva quarantasei anni – Enrico IV venne a sapere della sua esistenza. In tutti quegli anni aveva lavorato sull’arte della poesia con diligenza, come un artigiano, senza pensare ad altro, nemmeno alla fama. Coloro che lo circondavano davano per scontato che fosse un critico esperto, una sorta di giudice insindacabile; ma si trattava soltanto di un piccolo circolo provinciale attorno a una famiglia poco importante della Provenza. Così, ignaro di tutto tranne che di quella “forma linguistica” che rappresentava per lui una passione intensa, simile alle passioni accademiche o teologiche, rimase sorpreso quando nel 1605 arrivò a [[Paris|Parigi]] e scoprì quanto tale attenzione fosse adatta a quel momento storico, e con quanta rapidità divenne il nome più noto nella letteratura contemporanea. L’epoca era sazia di poeti che producevano versi in abbondanza; ma non conosceva nessuno che fosse in grado di afferrare la lingua in quel momento cruciale della sua evoluzione, di fissarne le regole e di darle una struttura definita. Fino al suo arrivo. L’epoca si attaccò a lui con determinazione, insistendo affinché diventasse un maestro.
+Era povero. Suo padre, che ricopriva una di quelle cariche pubbliche che la piccola nobiltà acquistava o ereditava, non aveva saputo dove rivolgersi nel caos del secolo centrale. In un momento di difficoltà si dichiarò ugonotto quando quel partito sembrava trionfare; Malherbe, invece, arrabbiato per quella apostasia, all’età di diciannove anni si recò nel sud e combatté come soldato – ma soprattutto in duelli, poiché amava quel genere di sport. Era sotto una sorta di protezione da parte delle grandi famiglie cattoliche, anche se rimaneva povero, fino a quando, nel 1601 – aveva quarantasei anni – Enrico IV venne a sapere della sua esistenza. In tutti quegli anni aveva lavorato sull’arte della poesia con diligenza, come un artigiano, senza pensare ad altro, nemmeno alla fama. Coloro che lo circondavano davano per scontato che fosse un critico esperto, una sorta di giudice insindacabile; ma si trattava soltanto di un piccolo circolo provinciale attorno a una famiglia poco importante della Provenza. Così, ignaro di tutto tranne che di quella “forma linguistica” che rappresentava per lui una passione intensa, simile alle passioni accademiche o teologiche, rimase sorpreso quando nel 1605 arrivò a [[settings/paris|Parigi]] e scoprì quanto tale attenzione fosse adatta a quel momento storico, e con quanta rapidità divenne il nome più noto nella letteratura contemporanea. L’epoca era sazia di poeti che producevano versi in abbondanza; ma non conosceva nessuno che fosse in grado di afferrare la lingua in quel momento cruciale della sua evoluzione, di fissarne le regole e di darle una struttura definita. Fino al suo arrivo. L’epoca si attaccò a lui con determinazione, insistendo affinché diventasse un maestro.
 
 Venti anni dopo il 1607, egli guidò quella trasformazione non dei concetti – poiché questi cambiarono ben poco – ma dei metodi e delle modalità di espressione. Fu lui a stabilire quali fossero i metri tipici da utilizzare nella poesia, quale l’alternanza tra versi femminili e maschili, quale l’ordine degli accenti, quale la misura tollerabile di inversioni grammaticali, nonché quale fosse il modo corretto, moderno o arcaico di utilizzare le parole. Questa funzione, oggi priva di significato e futile, all’epoca in cui visse risultò indispensabile e persino nobile. Egli interpretò e diffuse il sentimento nazionale riguardo a questo aspetto fondamentale della cultura letteraria: l’architettura del linguaggio scritto. La potenza del suo intelletto, sebbene tormentato e insufficiente nella produzione concreta, fu decisiva nel formulare in modo chiaro e definitivo quella critica che, nell’animo del suo tempo, esisteva solo come un flusso di opinioni non espresse apertamente. Questa fu la sua gloria, e lo era davvero.
 
@@ -6462,17 +6462,17 @@ La sua secchezza era straordinaria. In una vita di settantadue anni, durante la 
 
 Nessuno riuscirà a comprendere Malherbe, se si limita ad ascoltare parlare di come, con la meticolosità di un artigiano instancabile, tagliasse e lucidasse le parole, creando così nuovi “gioielli” della letteratura. Nella nostra epoca meno fortunata, lo spirito accademico è inevitabilmente associato a una sorta di stupidità letargica; ma in lui non era così. La forza che gli permise di portare a termine questo lavoro risiedeva nella sua capacità di penetrazione nel significato delle cose. Il suo volto ne era l’espressione: i suoi occhi acuti e pronti all’osservazione, la fronte alta, il naso affilato, le linee marcate delle guance e della fronte, l’equilibrio con cui teneva la testa, il disprezzo che trasmetteva con le sue parole, tutto ciò lo rendeva vivido davanti a noi. Il suo modo di parlare, fluente ma talvolta incerto, era incessante e vario; il suo temperamento era pronto all’azione; il controllo che esercitava sui gesti e sulle espressioni del viso rimaneva perfetto anche in età avanzata: per tutti quegli anni, era davvero un uomo di grande valore.
 
-Del suo intenso conservatorismo, della sua vivacità, del suo amore per le armi e della sua tenacia nel percepire la realtà, Racan ci offre nella sua biografia un ritratto ammirevole. Poco prima di morire, suo figlio fu ucciso in un duello; lui, all’età di settantadue anni, desiderava ardentemente uccidere il proprio avversario. “Giocare d’azzardo”, disse, “i miei pochi anni di vita contro l’oro dei suoi venticinque anni”. Aveva spirito e odiava profondamente, odiava gli uomini anche dopo la [[Death|morte]].
+Del suo intenso conservatorismo, della sua vivacità, del suo amore per le armi e della sua tenacia nel percepire la realtà, Racan ci offre nella sua biografia un ritratto ammirevole. Poco prima di morire, suo figlio fu ucciso in un duello; lui, all’età di settantadue anni, desiderava ardentemente uccidere il proprio avversario. “Giocare d’azzardo”, disse, “i miei pochi anni di vita contro l’oro dei suoi venticinque anni”. Aveva spirito e odiava profondamente, odiava gli uomini anche dopo la [[motifs/death|morte]].
 
-# Qui, con una spettacolare e ridicola ostentazione
+Qui, con una spettacolare e ridicola ostentazione
 
-# Sepolto dall’eccesso
+Sepolto dall’eccesso
 
 Mentre tutti i suoi conoscenti lo deridevano e lo insultavano…
 
 Piansi: perché desideravo ardentemente vederlo impiccato.
 
-Il suo zelo per la propria lingua era sincero. Mentre giaceva sul suo letto di [[Death|morte]] e confessava dopo una vita così intensa, sentì la sua infermiera mormorare qualcosa tra sé che suonava scorretto dal punto di vista grammaticale; girandosi verso il prete, la corresse in modo molto brusco e improvviso. Il suo confessore, sorpreso, disse: “Questo non è il momento adatto.” “Tutti i momenti sono adatti!”, rispose lui, ricadendo all’indietro sul letto. “Difenderò fino all’ultimo respiro la purezza e la grandezza della lingua francese.”
+Il suo zelo per la propria lingua era sincero. Mentre giaceva sul suo letto di [[motifs/death|morte]] e confessava dopo una vita così intensa, sentì la sua infermiera mormorare qualcosa tra sé che suonava scorretto dal punto di vista grammaticale; girandosi verso il prete, la corresse in modo molto brusco e improvviso. Il suo confessore, sorpreso, disse: “Questo non è il momento adatto.” “Tutti i momenti sono adatti!”, rispose lui, ricadendo all’indietro sul letto. “Difenderò fino all’ultimo respiro la purezza e la grandezza della lingua francese.”
 
 Per un uomo del genere, il significato della soluzione a cui il suo popolo era giunto dopo un secolo di guerre civili risiedeva, soprattutto, nella loro antica religione. In essa convergevano quelle cose più profonde e permanenti della sua anima; persino il suo patriottismo e il suo zelo letterario non erano che la superficie di esse. Nell’espressione di quella soluzione finale, i suoi versi – che a malapena potevano essere considerati quelli di un poeta – raggiungevano vette elevate; sotto l’effetto della sua fede intensa, alcune frasi si cristallizzavano in vere e proprie perle letterarie. Di tutte le odi scritte in quel periodo, quella più vibrante è senza dubbio il grido di battaglia che indirizzò in vecchiaia a Luigi XIII prima della sua spedizione contro La Rochelle. Visitò personalmente quell’assedio, ma ebbe la sfortuna di morire soltanto una settimana prima della caduta della città. Il suo sonetto più potente – o forse l’unico davvero potente – è quello in cui chiede a Dio vendetta contro coloro che avevano ucciso suo figlio. Il cattolicesimo, con tutti i suoi aspetti – politici, personali e persino letterari – possedeva interamente quell’uomo; per questo, con la sua scomparsa, si concludeva il periodo più significativo del Rinascimento francese, e si dimostrava come le parole con cui i francesi esprimono se stessi siano, e rimarranno sempre, di natura religiosa. Le ultime due righe della sua poesia più famosa e più cattolica possiedono proprio quella qualità che le salva, nonostante le loro parole semplici, dal cadere nel banalismo volgare delle persone prive di fede. Scrivendole, si ha l’impressione di stenografare il destino di quel grande secolo che oggi, purtroppo, è stato domato e ordinato, proprio come deve accadere alla violenza delle forze sovrumane.
 
@@ -6487,21 +6487,21 @@ Qui nous met en repos.
 
 EXTRACTS.
 
-(FROM THE “ODE to Louis XIII setting out against La Rochelle,” and the “Sonnet on his son’s [[Death|death]].”)
+(FROM THE “ODE to Louis XIII setting out against La Rochelle,” and the “Sonnet on his son’s [[motifs/death|death]].”)
 
 It has been remarked that Malherbe in his most vigorous years deliberately employed the strength of his mind to the repression of emotion in his verse, and used it only to fashion, guide, control, and at last fix permanently the rules of the language. It is certainly true that as his bodily vigour declined, a certain unexpected anger and violence enters into his verse, to the great relief of us moderns: not to that of his contemporaries.
 
 Of this feature in him, the two following extracts are sufficient proof. They were written, the first at the close of his seventy-second, the other at the entry of his seventy-third year. In each, something close to his heart was at issue, and in each he gives some vent — far more than had been his wont — to passion.
 
-The first is a cry to Louis XIII to have done with the Huguenot. It was written to the camp before La Rochelle. I know of nothing in French literature which more expresses the intense current of national feeling against the nobility and rich townsmen who had attempted to warp the national [[Tradition|tradition]] and who had re-introduced into French life the element which [[France]] works perpetually to throw out as un-European, ill-cultured and evil. Indeed, the reading of it is of more value to the comprehension of the national attitude than any set history you may read.
+The first is a cry to Louis XIII to have done with the Huguenot. It was written to the camp before La Rochelle. I know of nothing in French literature which more expresses the intense current of national feeling against the nobility and rich townsmen who had attempted to warp the national [[concepts/tradition|tradition]] and who had re-introduced into French life the element which [[settings/france|France]] works perpetually to throw out as un-European, ill-cultured and evil. Indeed, the reading of it is of more value to the comprehension of the national attitude than any set history you may read.
 
-The second is in its way a thing equally religious and equally catholic. This call for vengeance to God was not only an expression of anger called forth by his son’s [[Death|death]], it was also, and very largely, the effect of a reaction against the ethics of Geneva: an attack on the idolatry at once of meekness and of fatality which was to him so intolerable a corruption of the Christian religion.
+The second is in its way a thing equally religious and equally catholic. This call for vengeance to God was not only an expression of anger called forth by his son’s [[motifs/death|death]], it was also, and very largely, the effect of a reaction against the ethics of Geneva: an attack on the idolatry at once of meekness and of fatality which was to him so intolerable a corruption of the Christian religion.
 
 There is some doubt as to whether it is his last work. I believe it to be so; but Blaise, in his excellent edition, prints the dull and unreadable ode to Lagade later, and ascribes it to the same year.
 
 ODE TO LOUIS XIII.
 
-FAIS CHOIR EN sacrifice au démon de la [[France]]
+FAIS CHOIR EN sacrifice au démon de la [[settings/france|France]]
 
 Les fronts trop élevés de ces ames d’enfer;
 
@@ -6557,7 +6557,7 @@ Qui fait revivre l’homme, et le met de la barque
 
 A la table des dieux.
 
-SONNET ON HIS SON’S [[Death|DEATH]].
+SONNET ON HIS SON’S [[motifs/death|DEATH]].
 
 QUE MON FILS ait perdu sa dépouille mortelle,
 
@@ -6593,7 +6593,7 @@ THESE STANZAS, WHICH are among the best-known as they are, in the opinion of man
 
 One verse at least (the fourth) is most legitimately famous, though it is hackneyed from the constant repetition of fools. For the rest a certain simplicity, a great precision, may or may not atone for their deliberate coldness.
 
-What is certain is that, poetry or not, they admirably express the spirit of his pen and its prodigious effect. They express the classical end of the French [[Renaissance]] with as much weight and hardness as the great blank walls of stone that were beginning to show in the rebuilding of [[Paris]]. It is for this quality that I have printed them here, using them as the definite term of that long, glorious, and uncertain phase in European letters.
+What is certain is that, poetry or not, they admirably express the spirit of his pen and its prodigious effect. They express the classical end of the French [[historical-references/renaissance|Renaissance]] with as much weight and hardness as the great blank walls of stone that were beginning to show in the rebuilding of [[settings/paris|Paris]]. It is for this quality that I have printed them here, using them as the definite term of that long, glorious, and uncertain phase in European letters.
 
 THE “CONSOLATION OF DU PERRIER.”
 
@@ -6625,7 +6625,7 @@ Mais elle étoit du monde, où les plus belles choses
 
 Ont le pire destin;
 
-Et [[Rose|rose]] elle a vécu ce que vivent les roses
+Et [[motifs/rose|rose]] elle a vécu ce que vivent les roses
 
 L’espace d’un matin.
 
@@ -6699,40 +6699,40 @@ Qui ci riposiamo.
 
 Estratti.
 
-(Dalla “Ode a Luigi XIII in partenza per La Rochelle” e dal “Sonetto sulla [[Death|morte]] di suo figlio”).
+(Dalla “Ode a Luigi XIII in partenza per La Rochelle” e dal “Sonetto sulla [[motifs/death|morte]] di suo figlio”).
 
 Si è osservato che Malherbe, nei suoi anni più vigorosi, utilizzò deliberatamente la forza della sua mente per reprimere le emozioni nelle sue poesie, impiegandola soltanto per formulare, guidare, controllare e, infine, fissare in modo permanente le regole della lingua. È certamente vero che, con il declino delle sue forze fisiche, una certa rabbia e violenza inaspettate entrarono nelle sue poesie, con grande sollievo per noi moderni, ma non per i suoi contemporanei.
 
 A proposito di questa caratteristica sua, i due estratti seguenti costituiscono prove sufficienti. Il primo fu scritto alla fine del suo settantaduesimo anno, l’altro all’inizio del suo settantatreesimo anno. In entrambi si tratta di argomenti molto cari a lui, e in entrambi egli dà sfogo alle proprie emozioni — in modo molto più intenso del solito.
 
-Il primo è un appello a Luigi XIII affinché ponga fine agli Ugonotti. Fu scritto davanti al campo di La Rochelle. Non conosco nulla nella letteratura francese che esprima meglio questo intenso sentimento nazionale contro la nobiltà e i ricchi cittadini che avevano cercato di distorcere le [[Tradition|tradizioni]] nazionali e che avevano rintrodotto nella vita francese elementi che [[France|la Francia]] si sforza costantemente di eliminare, considerandoli non europei, poco colti e malvagi. Infatti, la lettura di questo testo è più utile per comprendere l’atteggiamento nazionale di qualsiasi libro di storia possiate leggere.
+Il primo è un appello a Luigi XIII affinché ponga fine agli Ugonotti. Fu scritto davanti al campo di La Rochelle. Non conosco nulla nella letteratura francese che esprima meglio questo intenso sentimento nazionale contro la nobiltà e i ricchi cittadini che avevano cercato di distorcere le [[concepts/tradition|tradizioni]] nazionali e che avevano rintrodotto nella vita francese elementi che [[settings/france|la Francia]] si sforza costantemente di eliminare, considerandoli non europei, poco colti e malvagi. Infatti, la lettura di questo testo è più utile per comprendere l’atteggiamento nazionale di qualsiasi libro di storia possiate leggere.
 
-Il secondo, in un certo senso, è qualcosa di altrettanto religioso e altrettanto “cattolico”. Questo appello alla vendetta rivolta a Dio non era soltanto un’espressione di rabbia scatenata dalla [[Death|morte]] di suo figlio, ma rappresentava anche, in gran parte, una reazione contro l’etica di Ginevra: un attacco all’idolatria della sottomissione e del fatalismo, che per lui costituiva una corruzione intollerabile della religione cristiana.
+Il secondo, in un certo senso, è qualcosa di altrettanto religioso e altrettanto “cattolico”. Questo appello alla vendetta rivolta a Dio non era soltanto un’espressione di rabbia scatenata dalla [[motifs/death|morte]] di suo figlio, ma rappresentava anche, in gran parte, una reazione contro l’etica di Ginevra: un attacco all’idolatria della sottomissione e del fatalismo, che per lui costituiva una corruzione intollerabile della religione cristiana.
 
 Esistono alcune dubbi riguardo al fatto che si tratti della sua ultima opera. Io credo di sì; ma Blaise, nella sua eccellente edizione, pubblica più avanti quella oda noiosa e incomprensibile dedicata a Lagade, attribuendola allo stesso anno.
 
 ODE A LUIGI XIII.
 
-Fai cantare in sacrificio al demone della [[France|Francia]]
+Fai cantare in sacrificio al demone della [[settings/france|Francia]]
 
-# Fronti troppo elevati di queste anime dell’inferno
+Fronti troppo elevati di queste anime dell’inferno
 
-#Non risparmia nulla contro di loro, per la nostra liberazione
+Non risparmia nulla contro di loro, per la nostra liberazione
 
 Né fuoco né ferro.
 
-# A sufficienza dei loro complotti, la malizia infida
+A sufficienza dei loro complotti, la malizia infida
 
-# Nutre il disordine e la sedizione
+Nutre il disordine e la sedizione
 
 Titolo:  
 Lascia da parte il nome di Giusto, o dimostra la tua giustizia
 
 Come punizione per loro.
 
-# Le centième décembre a les plaines ternies
+Le centième décembre a les plaines ternies
 
-# Et il centesimo aprile le ha dipinte di fiori
+Et il centesimo aprile le ha dipinte di fiori
 
 Da quando tra di noi sono comparse le loro crudeli abitudini…
 
@@ -6740,9 +6740,9 @@ Causano solo lacrime.
 
 "Nelle furie di tutti i secoli dei tuoi antenati..."
 
-#I mostri più oscuri hanno mai compiuto qualcosa?
+I mostri più oscuri hanno mai compiuto qualcosa?
 
-# L’indifferenza di questi cuori velenosi
+L’indifferenza di questi cuori velenosi
 
 Lo rinnovi ogni volta che lo usi?
 
@@ -6754,33 +6754,33 @@ Qui oggi sono tante città deserte…
 
 Perché tanta rabbia?
 
-#"Marcha, distruggili, annienta la loro progenie."
+"Marcha, distruggili, annienta la loro progenie."
 
-# Fino alla loro fine, il tuo grande sdegno…
+Fino alla loro fine, il tuo grande sdegno…
 
 Senza mai ascoltare né pietà né clemenza
 
 Qui ti parla per loro.
 
-# Tutte le altre morti non meritano né onore né ricordo.
+Tutte le altre morti non meritano né onore né ricordo.
 
-# Queste sole irradiano una luce splendente
+Queste sole irradiano una luce splendente
 
-# Qui faits revivre l’homme, et le met de la barque
+Qui faits revivre l’homme, et le met de la barque
 
 Al tavolo degli dei.
 
-Sonetto sulla [[Death|morte]] di suo figlio.
+Sonetto sulla [[motifs/death|morte]] di suo figlio.
 
-#"Che mio figlio abbia perso il suo corpo mortale..."
+"Che mio figlio abbia perso il suo corpo mortale..."
 
-# Quel figlio così coraggioso… che amavo tanto
+Quel figlio così coraggioso… che amavo tanto
 
-# Non lo attribuisco mai alle ingiustizie del destino
+Non lo attribuisco mai alle ingiustizie del destino
 
 Poiché terminare nella condizione umana è qualcosa di naturale.
 
-#"Più di due predoni... l'infaida sorpresa"
+"Più di due predoni... l'infaida sorpresa"
 
 Morì in modo tragico.
 
@@ -6790,13 +6790,13 @@ E tutti i miei sentimenti sono in accordo con lei.
 
 “O mon Dieu, mon Sauveur, puisque, par la raison…”
 
-# I tormenti del mio cuore, senza rimedio…
+I tormenti del mio cuore, senza rimedio…
 
 Il desiderio di vendetta è un desiderio legittimo.
 
-# Rafforza la mia forza con il tuo sostegno
+Rafforza la mia forza con il tuo sostegno
 
-# Per favore, giustizia… e anche i colpevoli
+Per favore, giustizia… e anche i colpevoli
 
 Siamo figli di quei carnefici che ti hanno crocifisso.
 
@@ -6806,21 +6806,21 @@ Queste stanze, che sono tra le più conosciute, ma che secondo molti rappresenta
 
 Almeno un verso (il quarto) è davvero famoso, anche se la sua ripetizione continua da parte degli sciocchi lo ha reso banale. Per il resto, una certa semplicità e una grande precisione possono, o meno, compensare la loro deliberata freddezza.
 
-Quello che è certo è che, sia poesia o meno, esse esprimono in modo ammirevole lo spirito della sua penna e il suo effetto straordinario. Esse rappresentano la fase classica del [[Renaissance|Rinascimento]] francese con la stessa forza e rigore delle grandi mura di pietra che iniziavano a sorgere durante la ricostruzione di [[Paris|Parigi]]. È proprio per questa qualità che le ho pubblicate qui, utilizzandole come espressione definitiva di quella lunga, gloriosa e incerta fase nella storia della letteratura europea.
+Quello che è certo è che, sia poesia o meno, esse esprimono in modo ammirevole lo spirito della sua penna e il suo effetto straordinario. Esse rappresentano la fase classica del [[historical-references/renaissance|Rinascimento]] francese con la stessa forza e rigore delle grandi mura di pietra che iniziavano a sorgere durante la ricostruzione di [[settings/paris|Parigi]]. È proprio per questa qualità che le ho pubblicate qui, utilizzandole come espressione definitiva di quella lunga, gloriosa e incerta fase nella storia della letteratura europea.
 
-#La consolazione di Du Perrier
+La consolazione di Du Perrier
 
 Il tuo dolore, Du Perrier, sarà quindi eterno?
 
 E i discorsi tristi
 
-# Che cosa ti fa pensare all’amicizia paterna
+Che cosa ti fa pensare all’amicizia paterna
 
 Si continuerà sempre ad aumentarli?
 
-# Le sfortuna di tua figlia nella tomba
+Le sfortuna di tua figlia nella tomba
 
-# Per una morte comune
+Per una morte comune
 
 Titolo:  
 “È forse un labirinto in cui la tua ragione si perde?”
@@ -6830,7 +6830,7 @@ Non si trova più?
 Titolo:  
 So quali delizie riempivano la sua infanzia…
 
-# Non ho mai iniziato…
+Non ho mai iniziato…
 
 Amico offensivo, lascia che ti allevi il dolore…
 
@@ -6838,15 +6838,15 @@ Con il suo disprezzo.
 
 Ma era di quel mondo in cui esistono le cose più belle…
 
-# Destini più tragici ancora
+Destini più tragici ancora
 
-E la [[Rose|rosa]] ha vissuto ciò che vivono le rose.
+E la [[motifs/rose|rosa]] ha vissuto ciò che vivono le rose.
 
 Lo spazio di una mattina.
 
-# Quando così fosse, secondo la tua preghiera…
+Quando così fosse, secondo la tua preghiera…
 
-# Avrebbe potuto ottenere
+Avrebbe potuto ottenere
 
 Con i capelli bianchi, ha concluso la sua carriera.
 
@@ -6855,7 +6855,7 @@ Cosa sarebbe potuto accadere?
 Titolo:  
 "Pensi che, diventata più anziana, in quel regno celeste..."
 
-# Lei avrebbe ricevuto un’accoglienza più calorosa…
+Lei avrebbe ricevuto un’accoglienza più calorosa…
 
 O forse avesse percepito meno quella polvere funesta…
 
@@ -6864,39 +6864,39 @@ E i versi sulla bara?
 Titolo:  
 Di me, già due volte colpito da un simile fulmine
 
-#Imprigionato da me stesso
+Imprigionato da me stesso
 
-# Et deux fois la raison m’a si bien fait résoudre
+Et deux fois la raison m’a si bien fait résoudre
 
 Non me lo ricordo più.
 
-# Non che mi dispiaccia che la tomba esista
+Non che mi dispiaccia che la tomba esista
 
 Ciò che mi fu così caro…
 
-# Un incidente senza rimedio
+Un incidente senza rimedio
 
 Non c’è bisogno di cercare altrove.
 
 La Morte con rigore senza eguali:
 
-# Che un bel giovane la preghi…
+Che un bel giovane la preghi…
 
-# Si è così crudele da tapparsi le orecchie
+Si è così crudele da tapparsi le orecchie
 
 E lascia che gridino.
 
-# Le povero nella sua capanna, coperta di paglia
+Le povero nella sua capanna, coperta di paglia
 
 Soggetto alle sue leggi.
 
-# La guardia che veglia alle porte del Louvre
+La guardia che veglia alle porte del Louvre
 
 Non difendiamo affatto i nostri re.
 
-# Mormorare contro di lei e perdere la pazienza
+Mormorare contro di lei e perdere la pazienza
 
-# Non è il momento giusto;
+Non è il momento giusto;
 
 Titolo:  
 Volere ciò che Dio vuole è l’unica vera scienza

@@ -286,7 +286,7 @@ When somebody descried
 
 The enemy. Sin gave a shout,
 
-The Helmsmen put the [[Ship|ship]] about;
+The Helmsmen put the [[motifs/ship|ship]] about;
 
 For, upon either side,
 
@@ -718,7 +718,7 @@ A document affirms that he
 
 Was born in 1853
 
-Upon a German [[Ship|ship]] at sea,
+Upon a German [[motifs/ship|ship]] at sea,
 
 Just off the Grand Canary.
 
@@ -856,7 +856,7 @@ Was but the sign of nature’s aristocracy.
 
 IV.
 
-The [[Ship|ship]] was dropping down the stream,
+The [[motifs/ship|ship]] was dropping down the stream,
 
 The Isle of Dogs was just abeam,
 
@@ -1076,7 +1076,7 @@ Exactly as it does in books.
 
 V.
 
-Oh! [[Africa]], mysterious Land!
+Oh! [[settings/africa|Africa]], mysterious Land!
 
 Surrounded by a lot of sand
 
@@ -1184,7 +1184,7 @@ To thee, dear goal, so long deferred
 
 Like old Æneas — in a word
 
-To [[Africa]] we came.
+To [[settings/africa|Africa]] we came.
 
 We beached upon a rising tide
 
@@ -1532,7 +1532,7 @@ The kind of thing that (by the way)
 
 Men in our cold agnostic day
 
-Must come from [[Africa]] to say,
+Must come from [[settings/africa|Africa]] to say,
 
 From England to believe.
 
@@ -2826,7 +2826,7 @@ When somebody descried
 
 The enemy. Sin gave a shout,
 
-The Helmsmen put the [[Ship|ship]] about;
+The Helmsmen put the [[motifs/ship|ship]] about;
 
 For, upon either side,
 
@@ -2963,7 +2963,7 @@ And paid for by an Anglo-Saxon
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Indice
+Indice
 
 I.
 
@@ -3003,19 +3003,19 @@ Perdonate la sporcizia nella stanza.
 
 Non riesco a spiegartelo.
 
-# Come può un uomo come me stare fuori posto…
+Come può un uomo come me stare fuori posto…
 
-# Senza le cose che vedi…
+Senza le cose che vedi…
 
-# Scudi, lance e probabilità
+Scudi, lance e probabilità
 
 E i fini dei piccoli dèi selvaggi.
 
 Sedetevi pure, scegliete un posto dove sedervi.
 
-# Scusa l’espressione… Sono piuttosto diretto.
+Scusa l’espressione… Sono piuttosto diretto.
 
-# E… scusate, ma l’avete?
+E… scusate, ma l’avete?
 
 “Una penna stilografica? Ne ho un’altra qui…”
 
@@ -3026,13 +3026,13 @@ Non sarà abbastanza lungo.)
 
 E così il pubblico vuole sentirlo dire
 
-# Sulla spedizione
+Sulla spedizione
 
 Da dove sono appena tornato…
 
 Di come l’Albero Fetish fu bruciato;
 
-# Di come abbiamo lottato per raggiungere la costa
+Di come abbiamo lottato per raggiungere la costa
 
 E abbiamo perso le munizioni…
 
@@ -3046,15 +3046,15 @@ E, per di più, non riesco proprio a sopportarlo.
 
 Una posizione molto popolare.
 
-# Ho detto al Duca l’altro giorno
+Ho detto al Duca l’altro giorno
 
 Il modo in cui la provavo io.
 
 Rispose con cortesia: “Oh!”
 
-# Un editore… con un certo stile
+Un editore… con un certo stile
 
-# Di ciò che i olandesi chiamano “savoir faire”
+Di ciò che i olandesi chiamano “savoir faire”
 
 “Disse: ‘Signor Rooter, ha ragione.’”
 
@@ -3071,11 +3071,11 @@ Comunque, rappresentando come fai tu…
 
 Una prospettiva pubblica e personale
 
-# Ti do il permesso di prendere appunti
+Ti do il permesso di prendere appunti
 
 Alcune osservazioni… pochissime soltanto.
 
-# Ma comprendi che questo non è…
+Ma comprendi che questo non è…
 
 Un colloquio formale.
 
@@ -3085,25 +3085,25 @@ Parlando del Comandante Sin.
 
 II.
 
-#Povero Henry Sin… fin da piccolo
+Povero Henry Sin… fin da piccolo
 
-#Temo che sia sempre stato piuttosto selvaggio…
+Temo che sia sempre stato piuttosto selvaggio…
 
 Ma tutti i suoi difetti derivavano…
 
 Verso qualcosa di libero e senza restrizioni…
 
-# Un po’ soddisfacente, un po’ doloroso
+Un po’ soddisfacente, un po’ doloroso
 
 Le persone che conosceva.
 
-# Ineducato… per ciò che i nostri tempi richiedono
+Ineducato… per ciò che i nostri tempi richiedono
 
 Lento e un po’ bugiardo…
 
-# Aveva un modo stupido di fare
+Aveva un modo stupido di fare
 
-# Sempre imprecare… più o meno.
+Sempre imprecare… più o meno.
 
 E, infine, diciamo…
 
@@ -3149,9 +3149,9 @@ Il ritratto a pagina tredici.
 Titolo:  
 Prega, fai una pausa e osserva…
 
-# Le membra snelle, l’aspetto vigoroso
+Le membra snelle, l’aspetto vigoroso
 
-#Capelli arruffati e scuri…
+Capelli arruffati e scuri…
 
 Lo sguardo imperativo e ardente
 
@@ -3159,9 +3159,9 @@ Che fa il giro del mondo in un attimo…
 
 Tutto questo è nella scodella… ma cosa?
 
-# Si dovrebbe principalmente osservare…
+Si dovrebbe principalmente osservare…
 
-#La sua uniforme…
+La sua uniforme…
 
 Tradito un servizio diplomatico?
 
@@ -3173,15 +3173,15 @@ Oltre il Capo, oltre il Promontorio…
 
 Oltre Fernando Po
 
-#In un lontano isola vide la luce
+In un lontano isola vide la luce
 
-#Che brucia la zona torrida
+Che brucia la zona torrida
 
 Ma il luogo in cui si trovava non fu mai del tutto…
 
 Indubbiamente conosciuto.
 
-#Tendente verso la Martinica
+Tendente verso la Martinica
 
 I suoi amici andarono da Farralone.
 
@@ -3193,25 +3193,25 @@ Oh! certamente, in un simile momento di nascita…
 
 Nessuna bandiera insignificante viene sventolata!
 
-#Un cittadino della terra
+Un cittadino della terra
 
 Un soggetto del mondo.
 
 Per quanto riguarda l’uniforme che indossava…
 
-#Lo vinse nella guerra recente
+Lo vinse nella guerra recente
 
 Tra Perù ed Ecuador
 
 E se l’è meritato davvero.
 
-# Solo tra tutti coloro che in quel momento…
+Solo tra tutti coloro che in quel momento…
 
-# Stavano scontando pene per reati commessi
+Stavano scontando pene per reati commessi
 
 Sin, durante la sua reclusione
 
-# Aveva studiato opere sulla navigazione;
+Aveva studiato opere sulla navigazione;
 
 E quando la gente lo seppe…
 
@@ -3219,9 +3219,9 @@ Lo liberarono immediatamente dalla prigione.
 
 Ma a condizione che partisse per mare.
 
-#Un momento decisivo
+Un momento decisivo
 
-# Ricorda l’azione in...
+Ricorda l’azione in...
 
 Un posto chiamato baia di Quaxipotle?
 
@@ -3229,44 +3229,44 @@ Sì, entrambe le marine sono fuggite.
 
 Eppure, se l’Ecuador può dire…
 
-# Vinse la partita nel complesso
+Vinse la partita nel complesso
 
 Il fatto è dovuto al Peccato.
 
 La partenza della flotta era prevista per meno di dieci settimane.
 
-# Quando qualcuno lo descriveva
+Quando qualcuno lo descriveva
 
 L’ nemico… Sin gridò.
 
-I timonieri girarono la [[Ship|nave]];
+I timonieri girarono la [[motifs/ship|nave]];
 
 Titolo:  
 Perché, da entrambi i lati…
 
 Le tattiche richiedevano un ritiro.
 
-# A ovest della flotta straniera si ritirò
+A ovest della flotta straniera si ritirò
 
-# Ma verso est diretto andò il peccato…
+Ma verso est diretto andò il peccato…
 
 “Mormorò: ‘Non si incontreranno mai.’”
 
-#E quando, verso la fine del giorno…
+E quando, verso la fine del giorno…
 
 I nemici erano almeno…
 
 A quindici o venti miglia di distanza…
 
-#"Chiamò il suo assistente di cabina."
+"Chiamò il suo assistente di cabina."
 
 Il più coraggioso dei suoi uomini;
 
 Li prese per mano e rise.
 
-# Una risata senza paura, e poi…
+Una risata senza paura, e poi…
 
-#"Che il cielo aiuti i giusti! Avanti a tutta velocità!"
+"Che il cielo aiuti i giusti! Avanti a tutta velocità!"
 
 “Combattere solo per il gusto di combattere,” disse.
 
@@ -3274,11 +3274,11 @@ A due miglia a ovest il nemico; a due miglia a est dirigeva la sua rotta.
 
 Ah, me! esultarono tutti quanti.
 
-# E i volti diventano neri di carbone
+E i volti diventano neri di carbone
 
-#Barba incolta di cinque giorni
+Barba incolta di cinque giorni
 
-# Apparso all’improvviso, ha urlato e poi è scomparso
+Apparso all’improvviso, ha urlato e poi è scomparso
 
 Ognuno nel proprio piccolo buco.
 
@@ -3300,9 +3300,9 @@ Salì sul ponte di coperta.
 
 Lo abbracciò venti volte o più.
 
-# E gli diede strisce e molte altre cose…
+E gli diede strisce e molte altre cose…
 
-# Medaglie e onorificenze in abbondanza
+Medaglie e onorificenze in abbondanza
 
 E gli porse un assegno…
 
@@ -3318,17 +3318,17 @@ E poi lesse un breve discorso.
 
 "In riconoscimento del vostro coraggio..."
 
-#Mi dà piacere osservare
+Mi dà piacere osservare
 
-#"Il tempo che ti restava da servire"
+"Il tempo che ti restava da servire"
 
 È stato completamente rimesso in sesto.
 
 “ invece questi miei amici…”
 
-#E qui indicò una riga
+E qui indicò una riga
 
-# I colonnelli sul molo
+I colonnelli sul molo
 
 Titolo: “Hai cambiato la tua frase in qualcosa di bello”
 
@@ -3338,7 +3338,7 @@ Titolo: “Hai cambiato la tua frase in qualcosa di bello”
 
 “Sono molto felice di dire…”
 
-#“Questo piccolo assegno rappresenta davvero un terzo…”
+“Questo piccolo assegno rappresenta davvero un terzo…”
 
 “Di ciò che devi pagare.”
 
@@ -3346,18 +3346,18 @@ L’equipaggio fu acclamato ancora e ancora.
 
 Quegli uomini semplici e leali.
 
-#Tali imprese non potevano mai fallire…
+Tali imprese non potevano mai fallire…
 
 Conosciuto in tutto l’Occidente.
 
 Titolo:  
 Erano i nostri cugini dall’altra parte del mare
 
-#Chi amava di più il marinaio—
+Chi amava di più il marinaio—
 
-# I nostri parenti anglo-sassoni
+I nostri parenti anglo-sassoni
 
-# Amavano profondamente il Comandante Sin
+Amavano profondamente il Comandante Sin
 
 E gli organizzò un banchetto magnifico.
 
@@ -3369,7 +3369,7 @@ E Nicolazzi, e gli altri…
 
 Erano semplicemente distrutti dal dolore.
 
-# Vennero, mangiarono e dissero: “Che Dio vi accompagni!”
+Vennero, mangiarono e dissero: “Che Dio vi accompagni!”
 
 Il conto era davvero molto alto.
 
@@ -3678,7 +3678,7 @@ A document affirms that he
 
 Was born in 1853
 
-Upon a German [[Ship|ship]] at sea,
+Upon a German [[motifs/ship|ship]] at sea,
 
 Just off the Grand Canary.
 
@@ -3775,7 +3775,7 @@ Il discorso era noioso, ma nessuno se ne accorse.
 
 Nemmeno lo champagne era asciutto.
 
-# Osserva il volto di William Jackson
+Osserva il volto di William Jackson
 
 Che tipico anglo-sassone!
 
@@ -3785,18 +3785,18 @@ Ora William Blood, o, come ancora lo chiamo…
 
 Chiamatelo affettuosamente Bill.
 
-#Di un tipo diverso
+Di un tipo diverso
 
 Titolo:  
 Colui che, in altre epoche nato…
 
-# Era stato creato per rafforzare e abbellire
+Era stato creato per rafforzare e abbellire
 
 Il Senato o il Campo.
 
 Ma la Fortuna, gelosa e severa…
 
-#Lo avevano destinato a una grande carriera
+Lo avevano destinato a una grande carriera
 
 Di genere più congeniale…
 
@@ -3810,7 +3810,7 @@ Compravano azioni e vendevano quote.
 
 Si occupò la mente con qualcos’altro
 
-# Acquistandoli di giorno dagli uomini
+Acquistandoli di giorno dagli uomini
 
 Chi aveva bisogno di contanti immediatamente… e poi?
 
@@ -3834,23 +3834,23 @@ La sua commissione del due percento.
 
 Il suo animo era colmo di elementi più nobile.
 
-# Il amore per la patria, così come dovrebbe essere
+Il amore per la patria, così come dovrebbe essere
 
 Lo perseguitava in ogni suo atto e pensiero.
 
-# Con le sue immense forze
+Con le sue immense forze
 
-# A ciò dedicava le sue ore di veglia
+A ciò dedicava le sue ore di veglia
 
 Di ciò che sognò nelle sue notti agitate…
 
-#Dopo molti anni, nel profondo…
+Dopo molti anni, nel profondo…
 
-# Emozione imperiale
+Emozione imperiale
 
-# Una melodia che ci commuove profondamente
+Una melodia che ci commuove profondamente
 
-# Utilizzò il suo ingegno tipico di Napoleone
+Utilizzò il suo ingegno tipico di Napoleone
 
 Per promuovere la compagnia.
 
@@ -3868,36 +3868,36 @@ E dovrei prestargli mezzo scellino?
 
 Ho fatto, ma a condizione che…
 
-# Redatto nella forma legale appropriata
+Redatto nella forma legale appropriata
 
 Testimoniato e sigillato, e legato con nastro adesivo.
 
 “E costando due sterline e due pence…”
 
-# Se entro quest’anno…
+Se entro quest’anno…
 
 “Ha guadagnato centomila sterline nette.”
 
-# Dovrebbe accompagnarmi
+Dovrebbe accompagnarmi
 
-# Un progetto che avevo avviato con Sin
+Un progetto che avevo avviato con Sin
 
 Andare a Timbuctù.
 
 Più tardi, abbiamo avuto un piccolo litigio perché…
 
-# Ho introdotto un’altra clausola
+Ho introdotto un’altra clausola
 
 Titolo:  
 Il cui significato generale è…
 
-# Quel sangue… nel caso improbabile che accada
+Quel sangue… nel caso improbabile che accada
 
 Di questa avventura che si svolge…
 
 Dovrebbe pagare tutte le spese.
 
-# Mai ha detto di averlo letto
+Mai ha detto di averlo letto
 
 O forse ho visto quella clausola. Ma Blood è morto.
 
@@ -3905,7 +3905,7 @@ Beh, grazie a una strana coincidenza…
 
 Quel pomeriggio stesso colpì.
 
-# Una nuova preoccupazione…
+Una nuova preoccupazione…
 
 Con onestà e impegno nel proprio lavoro
 
@@ -3915,37 +3915,37 @@ In meno di sessanta giorni
 
 Incredibilmente ricco.
 
-# Descrivi cosa divenne
+Descrivi cosa divenne
 
 Il giorno in cui riuscì…
 
-#Nonostante la luce incisiva della fama…
+Nonostante la luce incisiva della fama…
 
-# Ha gettato ombra su quel nome immortale
+Ha gettato ombra su quel nome immortale
 
 Quella attività è quasi del tutto inutile.
 
 Il mondo ha molto raramente visto…
 
-# Un abisso più profondo di quanto si credesse
+Un abisso più profondo di quanto si credesse
 
 Gli uomini che erano miei amici.
 
 E, parlando francamente, confesso…
 
-#Non ebbero mai la curiosità di incontrarsi, a meno che…
+Non ebbero mai la curiosità di incontrarsi, a meno che…
 
 Serviva i loro scopi personali.
 
-# Sin amava la bottiglia, William Gold
+Sin amava la bottiglia, William Gold
 
 “Fu il sangue a comprare, e il peccato a vendere…”
 
 In tutte le loro interazioni reciproche.
 
-# Sangue non ha mai infranto le leggi penali;
+Sangue non ha mai infranto le leggi penali;
 
-# Sin era sempre stato la causa di tutto…
+Sin era sempre stato la causa di tutto…
 
 Aveva i sentimenti più nobili.
 
@@ -3955,18 +3955,18 @@ Mentre il peccato era stupido, il sangue era malvagio.
 
 Anche se lo dico, Sin era un farabutto.
 
-#E se quella parola suscita…
+E se quella parola suscita…
 
 Titolo:  
 Per favore, riflettete su queste critiche.
 
-# Quanto contorto fosse il suo intelletto
+Quanto contorto fosse il suo intelletto
 
 E che passato aveva, )
 
-# Ma il Sangue era di nobile origine…
+Ma il Sangue era di nobile origine…
 
-#Sempre al passo con i tempi
+Sempre al passo con i tempi
 
 E la gente era estremamente felice
 
@@ -3978,7 +3978,7 @@ Non fu lui ad inseguirli.
 
 Ma quelli che lo inseguivano.
 
-# In questo bel mondo della cultura creata
+In questo bel mondo della cultura creata
 
 Per gli uomini del suo particolare mestiere…
 
@@ -3998,7 +3998,7 @@ Ovunque i gentiluomini investano…
 
 Da Chelsea a Mayfair.
 
-# Dalla porta in legno e stucco, a sud-ovest
+Dalla porta in legno e stucco, a sud-ovest
 
 Viale Berkeley 90.
 
@@ -4008,17 +4008,17 @@ Il grande sindaco provinciale
 
 L’uomo che possiede una rivista
 
-# L’autrice che avrebbe potuto essere
+L’autrice che avrebbe potuto essere
 
-# Inviano sempre una cartolina a Blood
+Inviano sempre una cartolina a Blood
 
 E il sangue era sempre lì.
 
-#In ogni cena, vittoria schiacciante o sconfitta totale…
+In ogni cena, vittoria schiacciante o sconfitta totale…
 
-# Un piccolo vortice si formò
+Un piccolo vortice si formò
 
-#La figura immobile e robusta
+La figura immobile e robusta
 
 Quello fu il segno che lo identificava come il Milionario.
 
@@ -4027,11 +4027,11 @@ Sin (te ne ricordi?) non poté restare
 
 Nel corso di mezza giornata in qualsiasi club…
 
-# Quando una volta il suo nome fu elencato…
+Quando una volta il suo nome fu elencato…
 
-# Ma il sangue apparteneva a novantquattro…
+Ma il sangue apparteneva a novantquattro…
 
-#E avrebbero aderito ancora in molti altri
+E avrebbero aderito ancora in molti altri
 
 Se ne fossero esistiti altri ancora.
 
@@ -4042,31 +4042,31 @@ Un piccolo mucchio di cambiali…
 
 E spesso pronunciava giuramenti assurdi
 
-# Rompere le aspettative dei scommettitori o mantenere la parola data
+Rompere le aspettative dei scommettitori o mantenere la parola data
 
 Prima che fosse completato.
 
-# Sangue era un altro paio di scarpe
+Sangue era un altro paio di scarpe
 
 Un uomo d’acciaio, freddo e duro.
 
-# Raramente toccava le carte
+Raramente toccava le carte
 
 Ma quando lo fece, tradì.
 
-# Mercanti di bestiame e investitori avversari
+Mercanti di bestiame e investitori avversari
 
 Il loro club ha delle sedie molto particolari.
 
 Di nuovo l’origine del peccato
 
-# Incerto e oscuro
+Incerto e oscuro
 
-# Dove invece ha origine il Capitano
+Dove invece ha origine il Capitano
 
 Ero assolutamente sicuro.
 
-# Un documento afferma che lui
+Un documento afferma che lui
 
 Nato nel 1853
 
@@ -4083,9 +4083,9 @@ Conosciamo il tempo alla perfezione.
 
 La longitudine fino a un grado
 
-# La latitudine esatta
+La latitudine esatta
 
-# Ogni dettaglio è lo stesso;
+Ogni dettaglio è lo stesso;
 
 Sappiamo persino il nome di sua madre.
 
@@ -4093,7 +4093,7 @@ Per quanto riguarda la professione di suo padre…
 
 Crede, colore, carattere o nazione…
 
-#Su cui variano le voci
+Su cui variano le voci
 
 Lo stesso lui lo disse in merito.
 
@@ -4108,26 +4108,26 @@ Il contrasto, stranamente intenso
 
 I loro personaggi potrebbero rivelare molto di sé
 
-#Si notava con maggiore evidenza
+Si notava con maggiore evidenza
 
 Sul Campo delle Tende.
 
-# C’era per caso una tribù indigena?
+C’era per caso una tribù indigena?
 
-#Che ingannare, persuadere con l’inganno, corrompere o comprare con denaro?—
+Che ingannare, persuadere con l’inganno, corrompere o comprare con denaro?—
 
 Titolo:  
 In tali condizioni, il peccato brucerebbe…
 
-# Tuffare nella mischia
+Tuffare nella mischia
 
-# Mentre il sangue regolava tutto…
+Mentre il sangue regolava tutto…
 
 Da cinquanta miglia di distanza.
 
-# Doveva aver ottenuto onori vane…
+Doveva aver ottenuto onori vane…
 
-# Confrontati con il guadagno materiale
+Confrontati con il guadagno materiale
 
 Una decisione pratica e sana.
 
@@ -4141,13 +4141,13 @@ Non è generalmente conosciuto.
 
 Prima di salpare, forse avrebbe potuto…
 
-# Se avesse pensato che ne valesse la pena
+Se avesse pensato che ne valesse la pena
 
 Un militare di spicco.
 
-#Sua Maestà la Regina
+Sua Maestà la Regina
 
-#Certamente lo avrebbe reso tale…
+Certamente lo avrebbe reso tale…
 
 Nonostante gli anni che avanzavano…
 
@@ -4155,7 +4155,7 @@ Un Capitano dei Volontari.
 
 Una certa persona di quel genere
 
-# Una grande influenza alla Corte
+Una grande influenza alla Corte
 
 
 
@@ -4216,7 +4216,7 @@ Was but the sign of nature’s aristocracy.
 
 IV.
 
-The [[Ship|ship]] was dropping down the stream,
+The [[motifs/ship|ship]] was dropping down the stream,
 
 The Isle of Dogs was just abeam,
 
@@ -4436,7 +4436,7 @@ Exactly as it does in books.
 
 V.
 
-Oh! [[Africa]], mysterious Land!
+Oh! [[settings/africa|Africa]], mysterious Land!
 
 Surrounded by a lot of sand
 
@@ -4565,7 +4565,7 @@ Paghi una serie di piccole tariffe.
 
 Una recensione intelligente… (chissà se lo è davvero).
 
-#In cui dovrei dimostrare…
+In cui dovrei dimostrare…
 
 Abilità strategica:
 
@@ -4575,7 +4575,7 @@ E dormire all’aperto nelle notti di pioggia…
 
 E molta responsabilità.
 
-# Grazie: ho già la mia posizione
+Grazie: ho già la mia posizione
 
 Non ho bisogno di pergamena né incarichi ufficiali.
 
@@ -4601,13 +4601,13 @@ Era soltanto il segno dell’aristocrazia della natura.
 
 IV.
 
-La [[Ship|nave]] scendeva lungo il corso d'acqua.
+La [[motifs/ship|nave]] scendeva lungo il corso d'acqua.
 
 L’Isola dei Cani era appena visibile all’orizzonte.
 
-# E peccato, sangue e me
+E peccato, sangue e me
 
-#Il passaggio dell’Ospedale di Greenwich
+Il passaggio dell’Ospedale di Greenwich
 
 E diede un’occhiata… (l’ultima per loro).
 
@@ -4622,7 +4622,7 @@ Forse, alla fine, abbiamo provato rimorso…
 
 La nostra strana e avventurosa sorte?
 
-# E se i nostri occhi fossero leggermente umidi…
+E se i nostri occhi fossero leggermente umidi…
 
 Con lacrime che abbiamo trattenuto, eppure…
 
@@ -4630,17 +4630,17 @@ Che è iniziato con un calore intenso?
 
 Forse… eppure, non lo so.
 
-#Quando arrivò il momento di scendere sotto…
+Quando arrivò il momento di scendere sotto…
 
-# Con entusiasmo abbiamo accettato
+Con entusiasmo abbiamo accettato
 
-# Un odore di vernice...
+Un odore di vernice...
 
-# E sebbene si tratti di un lamento del tutto giustificato…
+E sebbene si tratti di un lamento del tutto giustificato…
 
-# Doveva essere posizionato accanto al cibo)
+Doveva essere posizionato accanto al cibo)
 
-# Mobili della cabina erano di buona qualità
+Mobili della cabina erano di buona qualità
 
 E si adatta comodamente.
 
@@ -4654,7 +4654,7 @@ Ho detto poco fa…
 
 Il cibo era davvero di scarsa qualità.
 
-# Il criterio necessario per prepararsi
+Il criterio necessario per prepararsi
 
 Esploratori al prezzo speciale
 
@@ -4673,9 +4673,9 @@ Gli ice sono caldi, le uova strapazzate vecchie…
 
 Il caffè… peggio di quanto possa descrivere.
 
-# E il Peccato (che aveva un talento davvero felice…)
+E il Peccato (che aveva un talento davvero felice…)
 
-# In rima rapida e fluida
+In rima rapida e fluida
 
 Come Cyrano de Bergerac
 
@@ -4688,17 +4688,17 @@ Ma questo gusto così raffinato…
 
 Riuscito in modo sorprendente;
 
-# A cena il giorno seguente
+A cena il giorno seguente
 
 Ci hanno dato la Pasta al Merluzzo.
 
-# Coraggiosi pionieri e terre selvagge
+Coraggiosi pionieri e terre selvagge
 
 Non dovrebbe essere troppo gentile…
 
-# Penso che queste righe siano più che sufficienti.
+Penso che queste righe siano più che sufficienti.
 
-# E speriamo che siano sufficienti
+E speriamo che siano sufficienti
 
 Titolo: Far sì che i catering rispettino le regole
 
@@ -4712,7 +4712,7 @@ Il vino più costoso di tutti
 
 "In Inghilterra è una questione"
 
-# Di orgoglio o abitudine quando ceniamo
+Di orgoglio o abitudine quando ceniamo
 
 (Supponibilmente quest'ultimo).
 
@@ -4728,15 +4728,15 @@ Mi avete detto, ancora e ancora…
 
 “La pura necessità del ‘fizz’…”
 
-# La negligenza…
+La negligenza…
 
 La mancanza di cura e attenzione ai dettagli
 
 La malvagità in breve…
 
-# Di servire ciò che gli esploratori ritengono necessario
+Di servire ciò che gli esploratori ritengono necessario
 
-# Una bevanda essenziale
+Una bevanda essenziale
 
 In bottiglie che contengono qualcosa di meno…
 
@@ -4756,9 +4756,9 @@ Un viaggio come tanti altri
 
 Diventava sempre più alto e più ardente.
 
-# Ci sdraiammo, bevemmo, giurammo e giocammo
+Ci sdraiammo, bevemmo, giurammo e giocammo
 
-#All'ombra di "Trick-my-neighbour"...
+All'ombra di "Trick-my-neighbour"...
 
 E potete immaginare come ogni scena…
 
@@ -4766,11 +4766,11 @@ Qualunque sia la sua banalità o insignificanza…
 
 È stato annotato nel mio diario.
 
-# Ho tutto qui: le solite cose…
+Ho tutto qui: le solite cose…
 
 Una serpente (non di quelle con le ali)
 
-#Emerse dal mare…
+Emerse dal mare…
 
 In lunghezza (per quanto siamo riusciti a indovinare)
 
@@ -4782,7 +4782,7 @@ La creatura pericolosamente vicina
 
 Eppure, così semplice come potesse essere.
 
-# Una coda divisa in due
+Una coda divisa in due
 
 E nella sua bocca teneva una balena.
 
@@ -4793,7 +4793,7 @@ Abbiamo catturato un uccello molto curioso
 
 Con corna sulla testa;
 
-#E non… come si potrebbe facilmente pensare
+E non… come si potrebbe facilmente pensare
 
 Piedi adatti al movimento su reti o dita articolate…
 
@@ -4803,58 +4803,58 @@ Poiché nessuno presente sembrava saperlo…
 
 Il suo uso o il suo nome, li ho lasciati andare.
 
-# Il 7 giugno, dopo il calare della notte
+Il 7 giugno, dopo il calare della notte
 
 Un giovane squalo molto affamato
 
 Arrivò arrampicandosi lungo il lato.
 
-# Lo mangiò il cappellano e l’uomo di bordo
+Lo mangiò il cappellano e l’uomo di bordo
 
 Ma perché questi incidenti sono collegati tra loro?
 
 Il pubblico deve decidere.
 
-# Che nulla nel viaggio verso l’esterno…
+Che nulla nel viaggio verso l’esterno…
 
-#Valeva la pena il disturbo…
+Valeva la pena il disturbo…
 
-#Fino a quando non abbiamo visto la costa… che sembra…
+Fino a quando non abbiamo visto la costa… che sembra…
 
 Esattamente come avviene nei libri.
 
 V.
 
-Oh! [[Africa]], terra misteriosa!
+Oh! [[settings/africa|Africa]], terra misteriosa!
 
 Circondato da molta sabbia
 
 E pieno di erba e alberi,
 
-# Elefanti e afrikaner
+Elefanti e afrikaner
 
-# Politica e salamandre
+Politica e salamandre
 
-#E i tedeschi che cercano di infastidire…
+E i tedeschi che cercano di infastidire…
 
-# E terribili rinoceronti
+E terribili rinoceronti
 
-# Rum locale in piccoli barili
+Rum locale in piccoli barili
 
 Titolo:  
 E i selvaggi chiamati Tuareg
 
 (Un po’ come si parla in Sudan).
 
-# E tantissimi diamanti… e molto altro ancora
+E tantissimi diamanti… e molto altro ancora
 
-# Di quei brutti e sporchi Hottentot…
+Di quei brutti e sporchi Hottentot…
 
 E i lavoratori provenienti dall’Oriente…
 
 E i serpenti… almeno sette metri di lunghezza
 
-#E i leoni, che conservano…
+E i leoni, che conservano…
 
 La loro forza, il loro appetito e la loro rabbia
 
@@ -4864,13 +4864,13 @@ E mai perdano la loro criniera.
 
 Terra lontana di Ofir… dove si estrae l’oro
 
-# Da quel nobile Salomone d’antichità
+Da quel nobile Salomone d’antichità
 
-# Chi naviga verso nord verso Perim
+Chi naviga verso nord verso Perim
 
 Portò via tutto l’oro con sé.
 
-# Molte lacune rimasero…
+Molte lacune rimasero…
 
 Vuoti che portano disperazione
 
@@ -4891,7 +4891,7 @@ Di Mr. Joseph Chamberlain.
 
 Penisola! Quali battaglie fumanti…
 
-#Tenere Salisbury sveglia di notte;
+Tenere Salisbury sveglia di notte;
 
 E attrezzato per circa un anno
 
@@ -4899,39 +4899,39 @@ Un vero sport per il signor Hanotaux.
 
 Vasto continente… Di chi è quella forma ingombrante?
 
-# Corre da Biserta al Capo
+Corre da Biserta al Capo
 
-# Bizerta sulla costa settentrionale
+Bizerta sulla costa settentrionale
 
 In merito a ciò, i francesi giurarono…
 
-# Non dovrebbe mai essere fortificato
+Non dovrebbe mai essere fortificato
 
 Lì dove quella gente allegra mentiva.
 
-# Nido di sultani pieni di inganno
+Nido di sultani pieni di inganno
 
-#Abbracciando Zanzibar il vile
+Abbracciando Zanzibar il vile
 
 E l’Egitto, irrigato dal Nilo
 
-#Egitto, che è, come credo…
+Egitto, che è, come credo…
 
-# La proprietà del Khedive)
+La proprietà del Khedive)
 
-#Nel corso dei tuoi numerosi stati d’animo
+Nel corso dei tuoi numerosi stati d’animo
 
 Due potenti sovrani indipendenti
 
 E uno che forse non posso nominare.
 
-#Guarda attentamente il numero tre…
+Guarda attentamente il numero tre…
 
-#Non del tutto indipendente, ma…
+Non del tutto indipendente, ma…
 
 È molto più di ciò che era un tempo.
 
-# A te, caro obiettivo, così a lungo atteso
+A te, caro obiettivo, così a lungo atteso
 
 Come l’antico Enea… in una parola
 
@@ -4940,7 +4940,7 @@ Come l’antico Enea… in una parola
 <span class="atom-split" data-atom="part--part_04" data-title="The Modern Traveller (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="setting/africa"></span>
 
 
-To [[Africa]] we came.
+To [[settings/africa|Africa]] we came.
 
 We beached upon a rising tide
 
@@ -5288,7 +5288,7 @@ The kind of thing that (by the way)
 
 Men in our cold agnostic day
 
-Must come from [[Africa]] to say,
+Must come from [[settings/africa|Africa]] to say,
 
 From England to believe.
 
@@ -5335,15 +5335,15 @@ We could afford with perfect ease
 
 <span class="qlang-split" data-lang="it"></span>
 
-Siamo venuti in [[Africa]].
+Siamo venuti in [[settings/africa|Africa]].
 
-# Siamo approdati con la marea in aumento
+Siamo approdati con la marea in aumento
 
-#A Sasstown, sul lato occidentale…
+A Sasstown, sul lato occidentale…
 
 E mentre toccavamo la riva…
 
-# Pensavo… (forse mi sono sbagliato)
+Pensavo… (forse mi sono sbagliato)
 
 Titolo:  
 Pensai che la terra tremasse per il terrore
@@ -5358,11 +5358,11 @@ Abbiamo incontrato un uomo davvero molto disponibile.
 
 Il Presidente della Corte Suprema della Liberia
 
-# Ministro dell’Interno
+Ministro dell’Interno
 
-# Caino, abolizionista, Beecher e Boz
+Caino, abolizionista, Beecher e Boz
 
-# Lavorava come un negro… e infatti lo era.
+Lavorava come un negro… e infatti lo era.
 
 E in un solo giorno
 
@@ -5376,17 +5376,17 @@ Ma quando ce ne andammo, scoprimmo…
 
 Un deficit di diverse sterline.
 
-#Come faceva questo tizio a...
+Come faceva questo tizio a...
 
-#Obbedito così prontamente da lui stesso
+Obbedito così prontamente da lui stesso
 
 E perché i nativi fossero così umili…
 
-#Fino a quando, per caso, lo sentimmo parlare
+Fino a quando, per caso, lo sentimmo parlare
 
-# E poi abbiamo capito chiaramente
+E poi abbiamo capito chiaramente
 
-# Una potenza immensa per il bene sociale
+Una potenza immensa per il bene sociale
 
 L’africano può essere così.
 
@@ -5410,7 +5410,7 @@ Riguardo al Lavoro e al suo Prezzo.
 
 Non puoi scegliere a piacimento…
 
-# Devi promettergli una somma di denaro
+Devi promettergli una somma di denaro
 
 Salari pagati in tessuti e rum.
 
@@ -5421,11 +5421,11 @@ Ti divertirai un mondo in questa avventura…
 
 “E modificare i salari in contratti di lavoro.”
 
-# Abbiamo fatto ciò che lui aveva previsto
+Abbiamo fatto ciò che lui aveva previsto
 
 Il Caravano iniziò ad essere insoddisfatto…
 
-# E io e il Peccato ne abbiamo discusso…
+E io e il Peccato ne abbiamo discusso…
 
 Blood comprendeva la mentalità dei nativi.
 
@@ -5433,19 +5433,19 @@ Disse: “Dobbiamo essere fermi, ma gentili”.
 
 Ne seguì una ribellione.
 
-# Non dimenticherò mai quel modo
+Non dimenticherò mai quel modo
 
-# Quel sangue in quel terribile giorno
+Quel sangue in quel terribile giorno
 
 Ci ha salvati tutti dalla morte.
 
-# In piedi su una piccola collina
+In piedi su una piccola collina
 
 “Lanciò uno sguardo apatico intorno a sé…”
 
 E mormorò tra sé:
 
-#"Qualunque cosa accada, siamo pronti..."
+"Qualunque cosa accada, siamo pronti..."
 
 “La mitragliatrice… e loro no.”
 
@@ -5457,23 +5457,23 @@ Con uno sguardo estremamente volgare
 
 Ruppe i ribelli.
 
-#Una foto nel mio libro
+Una foto nel mio libro
 
 Di come li placò con uno sguardo.
 
-# Abbiamo sparato e impiccato alcuni, e poi…
+Abbiamo sparato e impiccato alcuni, e poi…
 
 Gli altri divennero uomini devoti.
 
 E qui vorrei dire una parola…
 
-# Lungo il cammino, il mio cuore si commosse
+Lungo il cammino, il mio cuore si commosse
 
 Da quei volti patetici.
 
 Certamente il nostro semplice dovere qui…
 
-# Decisivo e chiaro
+Decisivo e chiaro
 
 Mentre ci sostengono, dovremmo prestar loro qualcosa in cambio.
 
@@ -5481,11 +5481,11 @@ Ogni nostro sforzo per difendere…
 
 E da un punto di vista più elevato
 
-# Dare la giusta direzione
+Dare la giusta direzione
 
 A tutte le razze indigene.
 
-#E io, per tutta la durata dell’esplorazione…
+E io, per tutta la durata dell’esplorazione…
 
 Insistito su
 
@@ -5497,66 +5497,66 @@ Beh, dopo di ciò abbiamo continuato a lavorare sodo…
 
 Nel disegnare mappe, giorno dopo giorno…
 
-# Sangue: un’indagine accurata
+Sangue: un’indagine accurata
 
-#"Di tutto ciò che sembrava contribuire..."
+"Di tutto ciò che sembrava contribuire..."
 
 Una possibilità, per remota che sia…
 
-# Lasciare che il nostro finanziatore “vada alla deriva”
+Lasciare che il nostro finanziatore “vada alla deriva”
 
-# Quel trionfo dell’immaginazione
+Quel trionfo dell’immaginazione
 
 “L'Associazione Libica”.
 
 "In questo il ‘amico dei neri’"
 
-# Molto preoccupato di mostrare la strada
+Molto preoccupato di mostrare la strada
 
 Far pagare i missionari.
 
-#"Di notte, il nostro leader e il nostro amico"
+"Di notte, il nostro leader e il nostro amico"
 
-# Discorsi lunghi e prolissi
+Discorsi lunghi e prolissi
 
-# Su questa degna conclusione
+Su questa degna conclusione
 
 E come avrebbe organizzato tutto ciò.
 
-#Il metodo attuale è un abuso
+Il metodo attuale è un abuso
 
-# Forze economiche
+Forze economiche
 
 Predicano, ma non agiscono concretamente.
 
 Guardate come l'avrei modificato io.
 
-# Il missionario in prestito
+Il missionario in prestito
 
 Su un pezzo di terra…
 
 Un interesse del venticinque percento.
 
-# E (se ho capito bene)
+E (se ho capito bene)
 
-# Le persone che dovrei frequentare
+Le persone che dovrei frequentare
 
-# Una paura costante del debito
+Una paura costante del debito
 
 Li farebbe lavorare come cavalli.
 
-# E costituisce la spinta motrice…
+E costituisce la spinta motrice…
 
-#Nel processo che chiamo “sviluppo”
+Nel processo che chiamo “sviluppo”
 
-# Risorse naturali
+Risorse naturali
 
 Titolo:  
 Mentre coloro che si iscrivono troveranno…
 
 “Profitti e pietà unite”.
 
-# Immagina come il Potente Piano…
+Immagina come il Potente Piano…
 
 L'obiettivo, la visione e il sogno
 
@@ -5570,49 +5570,49 @@ Per utilizzare le terre peggiori in assoluto.
 
 Così, una volta che lo trovammo fermo immobile…
 
-# Incantato su una collina rocciosa
+Incantato su una collina rocciosa
 
 Sotto i suoi piedi c’era un odore terribile.
 
 Una palude immensamente vasta…
 
-# Dove si manifesta una sorta di marea fetida
+Dove si manifesta una sorta di marea fetida
 
-#Il ritmo di Rose si abbassò lentamente…
+Il ritmo di Rose si abbassò lentamente…
 
 "#Acquatico e infestato dalle erbacce"
 
 E canne assolutamente inutili…
 
-#Giaceva… ma nulla lo intimidiva
+Giaceva… ma nulla lo intimidiva
 
-# Al vedere come si sollevava e emetteva vapore…
+Al vedere come si sollevava e emetteva vapore…
 
-# Trionfante, sembrava…
+Trionfante, sembrava…
 
 Come se fosse posseduto o perseguitato da qualcosa.
 
 Con braccia che accolgono e gioiscono
 
-# Lo sentimmo ansimare, con una voce…
+Lo sentimmo ansimare, con una voce…
 
 Trasformato da forti emozioni in qualcosa di aspro…
 
 “Quel pantano… quel meraviglioso pantano!”
 
-#Le lacrime dell’avidità che si levano
+Le lacrime dell’avidità che si levano
 
 "In purely visionary eyes..."
 
 Gli scivolavano giù dal naso.
 
-# Non era più il Coraggioso Sangue
+Non era più il Coraggioso Sangue
 
 Il terrore dei suoi nemici;
 
 Ma il sangue era infiammato dalla sete d’oro.
 
-#Ci vide e immediatamente…
+Ci vide e immediatamente…
 
 Il sangue che conoscevamo… esattamente lo stesso
 
@@ -5624,7 +5624,7 @@ E disse: “Forse vi chiedete perché…”
 
 I miei sentimenti sono così intensi.
 
-# Solo tu vedi una palude, ma io…
+Solo tu vedi una palude, ma io…
 
 Amici miei, vi spiegherò.
 
@@ -5636,7 +5636,7 @@ Mi daranno cinquantamila in acconto.
 
 Un po’ più tardi ci trovammo…
 
-# Un pezzo di terra dolcemente ondulata
+Un pezzo di terra dolcemente ondulata
 
 Quello era visibile sopra il piano.
 
@@ -5647,13 +5647,13 @@ Come gli occhi stanchi degli europei.
 Titolo:  
 Per gli uomini comuni, come Sin e me
 
-#L'Eminenza sembrava…
+L'Eminenza sembrava…
 
 Altrettanto senza senso.
 
-# Sangue aveva un altro significato lì.
+Sangue aveva un altro significato lì.
 
-# Si girò con uno sguardo minaccioso.
+Si girò con uno sguardo minaccioso.
 
 E gridò il nome nativo.
 
@@ -5688,30 +5688,30 @@ Per fornire una rassegna che dimostri…
 
 Che cosa può realizzare la previdenza…
 
-# La sorta di cose che…
+La sorta di cose che…
 
 Titolo:  
 Uomini nei nostri giorni freddi e agnostici
 
-Deve venire dall’[[Africa]] per poter dire questo.
+Deve venire dall’[[settings/africa|Africa]] per poter dire questo.
 
 Dall’Inghilterra, per credere.
 
-# Sangue… mentre eravamo ancora in città
+Sangue… mentre eravamo ancora in città
 
 “Detto con quella sua espressione pensierosa…”
 
-# "Supponiamo che un rinoceronte ti faccia cadere..."
+"Supponiamo che un rinoceronte ti faccia cadere..."
 
-# E ti calpesta come un tappeto…
+E ti calpesta come un tappeto…
 
-# La frustrazione del pubblico
+La frustrazione del pubblico
 
-# Se con un incidente del genere…
+Se con un incidente del genere…
 
 “Non possiamo fornire alcuna spiegazione o esempio concreto.”
 
-# Senza sapere cosa fare
+Senza sapere cosa fare
 
 Per riprodurre la scena…
 
@@ -5719,13 +5719,13 @@ Abbiamo comprato un rinoceronte di pezza.
 
 Una Kodak, e uno schermo.
 
-# Abbiamo sistemato un quadro. William ha premuto…
+Abbiamo sistemato un quadro. William ha premuto…
 
 Un pulsante, e il resto l’ho fatto io.
 
-# A quei carnivori che…
+A quei carnivori che…
 
-# Una persona ordinaria trema
+Una persona ordinaria trema
 
 Non ci importava affatto.
 
@@ -5735,7 +5735,7 @@ Un Bianco, se riesce ad ottenere un Nero.
 
 E ce n’erano davvero tantissimi di questi.
 
-# Avremmo potuto permettercelo senza alcun problema
+Avremmo potuto permettercelo senza alcun problema
 
 
 
@@ -6123,7 +6123,7 @@ It saved the situation.
 
 Per risparmiare qualcuno qua e là.
 
-#Ci rese più compatti… e poi…
+Ci rese più compatti… e poi…
 
 È giusto risparmiare le persone che ci circondano.
 
@@ -6133,29 +6133,29 @@ E molto più degno di attirare la nostra attenzione…
 
 La stessa creatura che temevamo
 
-#Il rinoceronte bianco
+Il rinoceronte bianco
 
 “Siste Viator Africanus”
 
 Con tutta la sua maestosità, apparve.
 
-# Questo grande e irritabile pachiderma
+Questo grande e irritabile pachiderma
 
-# In termini scientifici…
+In termini scientifici…
 
 Sebbene siano comunemente erbivori…
 
 È estremamente pericoloso.
 
-#Forse è solo un gioco della creatura…
+Forse è solo un gioco della creatura…
 
 Ma coloro che l’hanno provato dicono…
 
-#Quando ti punge con il suo corno
+Quando ti punge con il suo corno
 
 Vorresti non essere mai nato.
 
-# Ascoltando il rumore del sole…
+Ascoltando il rumore del sole…
 
 Senza una cartuccia per la mia pistola…
 
@@ -6171,9 +6171,9 @@ Il mio unico rifugio era volare.
 
 Ma volare non fa per me!
 
-# Sangue era lì a portata di mano…
+Sangue era lì a portata di mano…
 
-# Si arrampicò velocemente su un albero
+Si arrampicò velocemente su un albero
 
 E gridò: “Fai del tuo meglio per provare”.
 
@@ -6183,9 +6183,9 @@ Inoltre, mi sono ritrovato con il piede incastrato…
 
 Nelle radici contorte che la tenevano saldamente attaccata.
 
-# Tra una persona e una bestia
+Tra una persona e una bestia
 
-# Solo per l’occhio umano
+Solo per l’occhio umano
 
 Il problema deve essere chiaro.
 
@@ -6195,17 +6195,17 @@ Eppure non provavo alcuna paura.
 
 No, non lodatemi affatto…
 
-# Coraggio è soltanto fisico
+Coraggio è soltanto fisico
 
 E diverse altre persone di cui potrei menzionare i nomi
 
 Probabilmente avrei fatto lo stesso.
 
-# Fissavo lo sguardo con determinazione.
+Fissavo lo sguardo con determinazione.
 
-#Ho visto quella creatura miserabile contorcersi…
+Ho visto quella creatura miserabile contorcersi…
 
-# Un’espressione di terrore si diffuse su tutto il viso
+Un’espressione di terrore si diffuse su tutto il viso
 
 Le sue caratteristiche, e poi è caduto morto.
 
@@ -6216,27 +6216,27 @@ E stupidamente distolsi lo sguardo.
 Titolo:  
 Quando scoprì che era stato liberato…
 
-# Di quei misteriosi raggi penetranti
+Di quei misteriosi raggi penetranti
 
 Riprese vita di nuovo.
 
-# Saltò in aria e poi atterrò…
+Saltò in aria e poi atterrò…
 
 Con tutta la sua forza, si abbatté su di me.
 
 (Osservate la posizione dello zoccolo.)
 
-#Il filo e il sostegno nero che sembrano…
+Il filo e il sostegno nero che sembrano…
 
-# Così artificiale nella dimostrazione
+Così artificiale nella dimostrazione
 
 Verrà cancellato nel libro.
 
 Lo fece trenta volte diverse.
 
-# Quando, fortunatamente per tutte queste rime…
+Quando, fortunatamente per tutte queste rime…
 
-# Sangue schizzò dal bruto… cioè…
+Sangue schizzò dal bruto… cioè…
 
 Inseguito dal sangue che sgorgava, fuggì via.
 
@@ -6248,25 +6248,25 @@ La marcia proseguì per miglia e miglia.
 
 Noioso e solitario,
 
-#Abbiamo visto… (se ricordo bene)
+Abbiamo visto… (se ricordo bene)
 
-# Le caratteristiche positive di un bianco
+Le caratteristiche positive di un bianco
 
 Solo in due occasioni.
 
 Il primo episodio risale al momento in cui la nostra spedizione…
 
-# Improvvisa commissione
+Improvvisa commissione
 
-# Incaricato di determinare
+Incaricato di determinare
 
-# Se il tredicesimo parallelo…
+Se il tredicesimo parallelo…
 
-# Attraversò dritto sopra un certo pozzo
+Attraversò dritto sopra un certo pozzo
 
-#O toccò un albero vicinissimo;
+O toccò un albero vicinissimo;
 
-#E se gli elefanti dovrebbero…
+E se gli elefanti dovrebbero…
 
 Eliminati tutti come “prede”.
 
@@ -6274,7 +6274,7 @@ O, ciò che è del tutto diverso…
 
 Distrutto come un semplice parassita.
 
-# Inviato per questa commissione
+Inviato per questa commissione
 
 Grandi personaggi del Continente
 
@@ -6282,13 +6282,13 @@ E dal lato inglese
 
 Uomini di tale antica discendenza
 
-# Con gioia che riempie l’anima…
+Con gioia che riempie l’anima…
 
 “Si alzò in piedi e gridò…”
 
-#"Andrò da loro immediatamente e mi occuperò della questione."
+"Andrò da loro immediatamente e mi occuperò della questione."
 
-# Questi giovani spiriti avventurosi…
+Questi giovani spiriti avventurosi…
 
 Una dimostrazione del mio desiderio
 
@@ -6298,9 +6298,9 @@ Le loro insospettate capacità imprenditoriali.
 
 I portatori di nomi storici
 
-# Si eleverà verso qualcosa di più alto
+Si eleverà verso qualcosa di più alto
 
-# Meglio che discutere di rivendicazioni territoriali…
+Meglio che discutere di rivendicazioni territoriali…
 
 E troveranno la loro ultima dimora
 
@@ -6326,16 +6326,16 @@ E tenne un discorso stupido in una lingua straniera
 
 Il che suonava come “No Bless Ableech”.
 
-# Conosco molti tipi di uomini
+Conosco molti tipi di uomini
 
 E lo sopportò molto bene… ma poi, quando…
 
 Titolo:  
 Nacque attraverso i tweet
 
-# Sulla mia storica maglia da sportivo
+Sulla mia storica maglia da sportivo
 
-# Mi sono sentito un po’ ferito…
+Mi sono sentito un po’ ferito…
 
 Me ne andai e me ne andai.
 
@@ -6345,7 +6345,7 @@ Senza alcuna intenzione di pregiudicare
 
 La versione del nostro leader
 
-# Devo forse dare un indizio…
+Devo forse dare un indizio…
 
 Di ciò che sarò costretto a pubblicare
 
@@ -6355,13 +6355,13 @@ Li ho seguiti, tenendomi nascosto alla loro vista.
 
 E lo fece in questo modo ingegnoso
 
-# Un schizzo che getta una luce particolare
+Un schizzo che getta una luce particolare
 
 Perché il maestro se n'è andato.
 
 Senza dubbio si sentì un po’ ferito…
 
-# Potrebbe anche essere vero dire…
+Potrebbe anche essere vero dire…
 
 Gli fecero dei commenti sarcastici riguardo alla sua camicia.
 
@@ -6371,7 +6371,7 @@ Parlare di scherzi fatti con un bastone?
 
 Beh, lasciamo perdere. Si è comportato bene.
 
-# Questo tipo di arroganza ufficiale
+Questo tipo di arroganza ufficiale
 
 In particolare il pari…
 
@@ -6381,15 +6381,15 @@ Con qualsiasi nazione europea
 
 È destinato a scomparire.
 
-# Sangue disse: “Si perdono nella notte.”
+Sangue disse: “Si perdono nella notte.”
 
 Uomini come Blood hanno sempre ragione.
 
-#Il secondo mostra l’effetto completo
+Il secondo mostra l’effetto completo
 
-# Di un’ignoranza ministeriale
+Di un’ignoranza ministeriale
 
-# Sin, che cammina da solo in questa ricerca…
+Sin, che cammina da solo in questa ricerca…
 
 Titolo:  
 Dei serpenti boa che infestano…
@@ -6398,21 +6398,21 @@ Il hinterland di Lagos
 
 Separato dagli altri…
 
-# E si scontrò con un gruppo di persone
+E si scontrò con un gruppo di persone
 
-# Di soldati nativi guidati da tre…
+Di soldati nativi guidati da tre…
 
 Un francese, un ufficiale prussiano
 
-# E ciò che abbiamo scambiato per un russo…
+E ciò che abbiamo scambiato per un russo…
 
 La stessa coalizione
 
 Chi minaccia il potere di Inghilterra in mare
 
-# E se non ci fossero uomini come Blood e me…
+E se non ci fossero uomini come Blood e me…
 
-#Le avrebbe scacciate dalle acque…
+Le avrebbe scacciate dalle acque…
 
 E gettarla nell'inferno.
 
@@ -6441,16 +6441,16 @@ Chiedere il disarmo
 
 Di tutta la nostra spedizione.
 
-#Le miserie della guerra
+Le miserie della guerra
 
 “Lo aveva toccato nel profondo del cuore…”
 
-# Era estremamente irritante
+Era estremamente irritante
 
 Titolo:  
 “Non riusciva proprio a sopportarlo…”
 
-# Questa passione per l’acquisizione di terre…
+Questa passione per l’acquisizione di terre…
 
 “Sperava che non stessimo facendo annessioni.”
 
@@ -6458,19 +6458,19 @@ Il tedesco chiese con una certa brutalità
 
 Per avere i nostri nomi e la nostra nazionalità.
 
-# Una ispirazione improvvisa
+Una ispirazione improvvisa
 
 In parole meticolose e lente
 
 Gli ho inferto questo colpo decisivo:
 
-#"Non ho una nazione."
+"Non ho una nazione."
 
 “Forse quell’escapata è stata un po’ troppo banale…”
 
 Eppure non mi sbagliavo…
 
-#Scappare dalle conseguenze…
+Scappare dalle conseguenze…
 
 Titolo:  
 Perché, sulla mia anima, non lo sapevo.
@@ -6485,15 +6485,15 @@ Il tedesco lanciò uno sguardo attento.
 
 Forse è un feniano…
 
-#Forse è maltese, ma molto di più...
+Forse è maltese, ma molto di più...
 
 “Più probabilmente armeno.”
 
-# Sangue ci ha donato ognuno una piccola somma
+Sangue ci ha donato ognuno una piccola somma
 
 Per dire che era sordo e muto…
 
-# E con essa si confermò l'affermazione
+E con essa si confermò l'affermazione
 
 Con gesti estremamente strani…
 
@@ -6905,25 +6905,25 @@ Ma pericoli ancora maggiori
 
 Invece, ostacolavano il nostro cammino.
 
-# In ogni libro che abbia mai letto
+In ogni libro che abbia mai letto
 
-# Viaggi sull’equatore
+Viaggi sull’equatore
 
 Una piaga, misteriosa e terribile…
 
 Pericoli per il narratore;
 
-# Sempre quasi muore…
+Sempre quasi muore…
 
 Ma non lo fa, il che è segno di calma e saggezza.
 
-# Il peccato di chi è pigro e vago
+Il peccato di chi è pigro e vago
 
 “Pensi che finiremo per essere colpiti dalla peste?”
 
 Seguì tragicamente poco dopo…
 
-#Attraversando un’immensa laguna
+Attraversando un’immensa laguna
 
 Abbiamo lasciato che i nostri piedi si bagnassero.
 
@@ -6937,13 +6937,13 @@ Con il sangue si trasmetteva la malattia…
 
 Una forma allotropa
 
-# Dolore addominale intermittente
+Dolore addominale intermittente
 
-# Mentre il peccato cresceva nel calore…
+Mentre il peccato cresceva nel calore…
 
 Si lamentava di debolezza alle ginocchia.
 
-# Incapacità di pensare
+Incapacità di pensare
 
 Un forte desiderio di assumere sostanze e berle…
 
@@ -6965,7 +6965,7 @@ La Peste era scomparsa.
 
 Non si udiva alcun suono.
 
-# E ci chiedevamo, mentre giacevamo…
+E ci chiedevamo, mentre giacevamo…
 
 “Forse il Bosco Cinturale è già stato superato…”
 
@@ -6976,19 +6976,19 @@ Mentre i nostri fedeli portatori continuano a lavorare…
 
 “Perché ancora lasciano dormire i loro padroni…”
 
-# Sangue povero… e io ero troppo debole
+Sangue povero… e io ero troppo debole
 
-# Alzarsi da soli, o anche solo parlare…
+Alzarsi da soli, o anche solo parlare…
 
 Giacevamo lì, soddisfatti di lasciarci andare in declino.
 
-# Quando il peccato, per rendere tutto ancora più certo…
+Quando il peccato, per rendere tutto ancora più certo…
 
-# Mettere fuori la testa oltre la tenda
+Mettere fuori la testa oltre la tenda
 
 E gridò nel più profondo dolore:
 
-#"Questo non è affatto Timbuctù..."
+"Questo non è affatto Timbuctù..."
 
 Ma solo un nativo Kraal o Crawl…
 
@@ -7001,7 +7001,7 @@ Al tramonto tornarono per portare…
 
 “Prigionieri consegnati al loro crudele re”
 
-#Chi sembrava, nel complesso…
+Chi sembrava, nel complesso…
 
 Un uomo raffinato e di buone intenzioni;
 
@@ -7009,21 +7009,21 @@ Disse: “Non sarai confinato.”
 
 “Ma lasciato in libertà su cauzione.”
 
-# Sangue, quando ci trovò entrambi soli
+Sangue, quando ci trovò entrambi soli
 
 Tenuto con un tono pedante…
 
 Eppure, con una grazia e una perfezione uniche…
 
-# Sui sistemi carcerari che conosco
+Sui sistemi carcerari che conosco
 
 In questo contesto, egli disse: —
 
-#Il processo primordiale è quello di trascinare…
+Il processo primordiale è quello di trascinare…
 
 Johnny, in cella, o in prigione.
 
-# Cara Henri, non penserai che io sia scortese…
+Cara Henri, non penserai che io sia scortese…
 
 Titolo:  
 Se – solo di passaggio – menzionassi…
@@ -7035,9 +7035,9 @@ Di ogni forma, le parole che scelgo
 
 “È quello più facile da rompere.”
 
-# Corremmo non appena lo sentimmo
+Corremmo non appena lo sentimmo
 
-#Per ottenere le armi, e poi ci siamo messi all’opera
+Per ottenere le armi, e poi ci siamo messi all’opera
 
 Un’imboscata ammirevole.
 
@@ -7045,9 +7045,9 @@ In modo da catturare il nostro uomo.
 
 Ci nascondemmo dietro una piccola collina.
 
-# E aspettò la nostra preda
+E aspettò la nostra preda
 
-# Fare la sua solita passeggiata mattutina
+Fare la sua solita passeggiata mattutina
 
 lungo quel percorso fatale.
 
@@ -7057,7 +7057,7 @@ Entrò nella zona di pericolo.
 
 Il raggio delle sue possibilità che conoscevamo
 
-# Tre quarti di miglio
+Tre quarti di miglio
 
 E poi… accadde un incidente.
 
@@ -7065,35 +7065,35 @@ E poi… accadde un incidente.
 
 È assolutamente vero.
 
-# Sangue prese la mira con estrema attenzione
+Sangue prese la mira con estrema attenzione
 
-# E io e il Peccato facemmo esattamente la stessa cosa
+E io e il Peccato facemmo esattamente la stessa cosa
 
-# Con un qualche strano e potente incanto
+Con un qualche strano e potente incanto
 
 Il Re non subì alcun danno!
 
-# Indossava…
+Indossava…
 
-# Un piccolo feticismo per un filo…
+Un piccolo feticismo per un filo…
 
-# Un gergo incomprensibile, dipinto di rosso
+Un gergo incomprensibile, dipinto di rosso
 
-# disgustoso e ripugnante nella mente
+disgustoso e ripugnante nella mente
 
 Soprattutto le orecchie.
 
 L’anno scorso avrei dovuto riderne…
 
-#Ora con reverenza ammetto…
+Ora con reverenza ammetto…
 
 "Niente al mondo è più comune di questo..."
 
 Più di “Occult Phenomena” di Andrew Lang.
 
-#Tornato in Inghilterra, io…
+Tornato in Inghilterra, io…
 
-# Descritto l’argomento al Psy-
+Descritto l’argomento al Psy-
 
 Comitato Chologico.
 
@@ -7101,9 +7101,9 @@ Certo che mi ringraziarono molto.
 
 “Ma abbiamo mille di questi”, disse.
 
-# E sarebbe un peccato
+E sarebbe un peccato
 
-# Per infrangere la nostra risoluzione ferma…
+Per infrangere la nostra risoluzione ferma…
 
 “E pagare per ogni contributo.”
 
@@ -7113,42 +7113,42 @@ Il Re era terribilmente arrabbiato.
 
 “Ascoltare lui chiamare la guardia e gridare…”
 
-# Impronte, maledizioni e furie
+Impronte, maledizioni e furie
 
 Titolo:  
 “Era… come dicono i missionari”
 
-# Una lezione nel modo degli atei
+Una lezione nel modo degli atei
 
 Gli infedeli si comporteranno bene.
 
 Ci ha mandati in prigione…
 
-#"Di pali appuntiti nella difesa"...
+"Di pali appuntiti nella difesa"...
 
 E lì, per diverse ore…
 
 Il nostro leader era davvero un disastro.
 
-# Uova, noci di cocco e bastoncini
+Uova, noci di cocco e bastoncini
 
 E gattini nei docci.
 
-#I nostri ex facchini sembravano portare…
+I nostri ex facchini sembravano portare…
 
 Un rancore verso quel milionario.
 
 Eppure ciò che mi dava più fastidio…
 
-#Non era forse quel continuo prendersi in giro…
+Non era forse quel continuo prendersi in giro…
 
-#Con cui il Capitano era assorto
+Con cui il Capitano era assorto
 
 Non essendo fissato a un palo
 
-#Nonostante non fosse affatto piacevole…
+Nonostante non fosse affatto piacevole…
 
-# Ma sentendoli dire che…
+Ma sentendoli dire che…
 
 “Aspettavo con impazienza il giorno seguente.”
 
@@ -7156,7 +7156,7 @@ XIII.
 
 Finalmente, quando rimanemmo soli…
 
-# Un gemito vuoto e distorto…
+Un gemito vuoto e distorto…
 
 E ordinò al Maestro di salvare
 
@@ -7172,18 +7172,18 @@ Dobbiamo mantenere la porta aperta.
 
 “Sì, anche a costo di guerra!”
 
-# Si spostò.
+Si spostò.
 
 E dopo poco fu completato.
 
-# Una nota in stile diplomatico
+Una nota in stile diplomatico
 
 Che contiene una condizione.
 
 Titolo:  
 “Coloro che desiderano essere informati…”
 
-# Come se esistesse un sacco d’oro…
+Come se esistesse un sacco d’oro…
 
 E dove un gruppo di persone lo nascose…
 
@@ -7196,21 +7196,21 @@ Qualcos’altro ancora… e poi ci sono quelle altre cose.
 
 Il monarca lo lesse attentamente e poi lo scrisse.
 
-# Una frase molto enfatica
+Una frase molto enfatica
 
 "#Penso che il linguaggio di quel biglietto..."
 
 “Se si parla in termini strettamente grammaticali, non è corretto.”
 
-# Alla vista della nostra profonda angoscia
+Alla vista della nostra profonda angoscia
 
-#Il Re – Devo davvero ammetterlo…
+Il Re – Devo davvero ammetterlo…
 
 Ben comportato e piuttosto attraente…
 
 Disse che avrebbe rilasciato i tre.
 
-#Se solo il Capitano Blood e lui…
+Se solo il Capitano Blood e lui…
 
 Si potrebbe accordarsi su un riscatto.
 
@@ -7224,17 +7224,17 @@ Per ascoltare la sua valutazione personale.
 
 Credo di essere l’uomo più spregevole che esista.
 
-#Coloro che calpestano questa terra…
+Coloro che calpestano questa terra…
 
-# La mia mente è debole, il mio cuore è freddo
+La mia mente è debole, il mio cuore è freddo
 
-# Sono brutto, crudele, volgare, vecchio…
+Sono brutto, crudele, volgare, vecchio…
 
 Malato, basso e grasso.
 
 Non posso parlare, non posso lavorare.
 
-# Ho il temperamento di un turco
+Ho il temperamento di un turco
 
 E per di più codardo.
 
@@ -7270,7 +7270,7 @@ Comandante Sin e io
 Titolo:
 "Il re fu informato..."
 
-#Di una certa borsa d’oro
+Di una certa borsa d’oro
 
 Se ci permettete di provare…
 

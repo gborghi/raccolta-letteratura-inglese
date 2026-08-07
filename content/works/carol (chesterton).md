@@ -29,7 +29,7 @@ tags:
 
 # carol
 
-*by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
+*by Chesterton*  ·  **Cluster:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > A tender devotional lyric on the Christ-child in Mary's arms, contrasting the weary world with the divine peace of the Nativity.
@@ -40,12 +40,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Innocent]], [[Great Mother]]
-**Motifs:** [[Stars]], [[Crown]], [[Fire]], [[Light and Dark]], [[Flowers]]
-**Themes & Concepts:** [[Divine Love]], [[Grace and Redemption]], [[Joy]], [[Wonder and Gratitude]], [[Kingship and Legitimacy]], [[Natural Order]]
-**Forms & Genres:** [[Hymn]], [[Lyric]]
-**Historical References:** [[Bible]]
-**Characters:** [[Virgin Mary]], [[Christ]]
+**Archetypes:** [[archetypes/innocent|Innocent]], [[archetypes/great-mother|Great Mother]]
+**Motifs:** [[motifs/stars|Stars]], [[motifs/crown|Crown]], [[motifs/fire|Fire]], [[motifs/light-and-dark|Light and Dark]], [[motifs/flowers|Flowers]]
+**Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/joy|Joy]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/natural-order|Natural Order]]
+**Forms & Genres:** [[forms/hymn|Hymn]], [[forms/lyric|Lyric]]
+**Historical References:** [[historical-references/bible|Bible]]
+**Characters:** [[characters/virgin-mary|Virgin Mary]], [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

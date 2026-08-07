@@ -29,7 +29,7 @@ tags:
   - histref/industrial_revolution
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A militant ballad in which industrial machines stand silent in protest and the dispossessed workmen confront 'King Dives' in his iron garden. Themes: class conflict, the dehumanizing tyranny of the machine, and social revolt.
@@ -40,14 +40,14 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]], [[Industrial Revolution]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/industrial-revolution|Industrial Revolution]]
 
-**Characters:** [[King Dives]]
+**Characters:** [[characters/king-dives|King Dives]]
 
-**Archetypes:** [[Rebel]], [[Tyrant]], [[Common Man (2)]], [[Satanic Figure]]
-**Motifs:** [[Wheel]], [[Money and Gold]], [[Garden]], [[Machine]]
-**Themes & Concepts:** [[Class Conflict]], [[Anti-Industrialism]], [[Social Injustice]], [[Poverty]], [[Power and Corruption]], [[Labor and Work]], [[Greed and Money]], [[Economics]]
-**Forms & Genres:** [[Ballad Ballade]]
+**Archetypes:** [[archetypes/rebel|Rebel]], [[archetypes/tyrant|Tyrant]], [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/satanic-figure|Satanic Figure]]
+**Motifs:** [[motifs/wheel|Wheel]], [[motifs/money-and-gold|Money and Gold]], [[motifs/garden|Garden]], [[motifs/machine|Machine]]
+**Themes & Concepts:** [[concepts/class-conflict|Class Conflict]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/social-injustice|Social Injustice]], [[concepts/poverty|Poverty]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/labor-and-work|Labor and Work]], [[concepts/greed-and-money|Greed and Money]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]
 
 ## Testo integrale / Full text
 
@@ -141,4 +141,4 @@ If a man grow faint, master, take him ere he kneels,
 Take him, break him, rend him, end him, roll him, crush him  
    with the wheels.
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

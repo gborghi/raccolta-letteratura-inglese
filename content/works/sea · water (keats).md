@@ -37,14 +37,14 @@ tags:
 
 Raccolta tematica di 8 componimenti di John Keats.
 
-- [[ODE TO A NIGHTINGALE (Keats)|ODE TO A NIGHTINGALE]]
-- [[ON FIRST LOOKING INTO CHAPMAN’S HOMER (Keats)|ON FIRST LOOKING INTO CHAPMAN’S HOMER]]
-- [[Sonnet on a Picture of Leander (Keats)|Sonnet on a Picture of Leander]]
-- [[Sonnet on the Sea (Keats)|Sonnet on the Sea]]
-- [[Sonnet to Ailsa Rock (Keats)|Sonnet to Ailsa Rock]]
-- [[Sonnet to Byron (Keats)|Sonnet to Byron]]
-- [[Sonnet to Spenser (Keats)|Sonnet to Spenser]]
-- [[To Haydon (Keats)|To Haydon]]
+- [[testi/keats/atomized/sea-water#032_ode_to_a_nightingale|ODE TO A NIGHTINGALE]]
+- [[testi/keats/atomized/sea-water#022_on_first_looking_into_chapmans_homer|ON FIRST LOOKING INTO CHAPMAN’S HOMER]]
+- [[testi/keats/atomized/sea-water#062_sonnet_on_a_picture_of_leander|Sonnet on a Picture of Leander]]
+- [[testi/keats/atomized/sea-water#065_sonnet_on_the_sea|Sonnet on the Sea]]
+- [[testi/keats/atomized/sea-water#102_sonnet_to_ailsa_rock|Sonnet to Ailsa Rock]]
+- [[testi/keats/atomized/sea-water#045_sonnet_to_byron|Sonnet to Byron]]
+- [[testi/keats/atomized/sea-water#047_sonnet_to_spenser|Sonnet to Spenser]]
+- [[testi/keats/atomized/sea-water#060_to_haydon|To Haydon]]
 
 ## Testo / Text
 

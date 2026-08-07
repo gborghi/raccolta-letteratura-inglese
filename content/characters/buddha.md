@@ -14,4 +14,10 @@ Repeatedly analysed as the great sage of renunciation whose impersonal cosmic re
 
 <div class="concept-works" data-slug="characters/buddha"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/everlasting-man-(chesterton)|everlasting man (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ Taciturn Scottish engineer and 'Commander,' the League's scientific genius, who 
 
 <div class="concept-works" data-slug="characters/bellew-blair"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/longbow2-(chesterton)|longbow2 (Chesterton)]]
+
+</div>
+
 #graph/character

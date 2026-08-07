@@ -37,18 +37,18 @@ tags:
 
 Raccolta tematica di 12 componimenti di Samuel Taylor Coleridge.
 
-- [[A DAY-DREAM (Coleridge)|A DAY-DREAM]]
-- [[DES KNABEN WUNDERHORN (Coleridge)|DES KNABEN WUNDERHORN]]
-- [[EPITAPH ON HIMSELF (Coleridge)|EPITAPH: ON HIMSELF]]
-- [[ON THE CURIOUS CIRCUMSTANCE (Coleridge)|ON THE CURIOUS CIRCUMSTANCE]]
-- [[OVER MY COTTAGE (Coleridge)|OVER MY COTTAGE]]
-- [[PHANTOM (Coleridge)|PHANTOM]]
-- [[PHANTOM OR FACT A DIALOGUE IN VERSE (Coleridge)|PHANTOM OR FACT: A DIALOGUE IN VERSE]]
-- [[SOMETHING CHILDISH, BUT VERY NATURAL (Coleridge)|SOMETHING CHILDISH, BUT VERY NATURAL]]
-- [[SONNET TO THE AUTUMNAL MOON (Coleridge)|SONNET: TO THE AUTUMNAL MOON]]
-- [[THE DAY-DREAM FROM AN EMIGRANT TO HIS ABSENT WIFE (Coleridge)|THE DAY-DREAM FROM AN EMIGRANT TO HIS ABSENT WIFE]]
-- [[THE NIGHT-SCENE (Coleridge)|THE NIGHT-SCENE]]
-- [[TO THE EVENING STAR (Coleridge)|TO THE EVENING STAR]]
+- [[testi/coleridge/atomized/dreams-moon#214_a_day-dream|A DAY-DREAM]]
+- [[testi/coleridge/atomized/dreams-moon#441_des_knaben_wunderhorn|DES KNABEN WUNDERHORN]]
+- [[testi/coleridge/atomized/dreams-moon#347_epitaph_on_himself|EPITAPH: ON HIMSELF]]
+- [[testi/coleridge/atomized/dreams-moon#344_on_the_curious_circumstance|ON THE CURIOUS CIRCUMSTANCE]]
+- [[testi/coleridge/atomized/dreams-moon#382_over_my_cottage|OVER MY COTTAGE]]
+- [[testi/coleridge/atomized/dreams-moon#223_phantom|PHANTOM]]
+- [[testi/coleridge/atomized/dreams-moon#293_phantom_or_fact_a_dialogue_in_verse|PHANTOM OR FACT: A DIALOGUE IN VERSE]]
+- [[testi/coleridge/atomized/dreams-moon#173_something_childish_but_very_natural|SOMETHING CHILDISH, BUT VERY NATURAL]]
+- [[testi/coleridge/atomized/dreams-moon#003_sonnet_to_the_autumnal_moon|SONNET: TO THE AUTUMNAL MOON]]
+- [[testi/coleridge/atomized/dreams-moon#216_the_day-dream_from_an_emigrant_to_his_absent_wife|THE DAY-DREAM FROM AN EMIGRANT TO HIS ABSENT WIFE]]
+- [[testi/coleridge/atomized/dreams-moon#250_the_night-scene|THE NIGHT-SCENE]]
+- [[testi/coleridge/atomized/dreams-moon#015_to_the_evening_star|TO THE EVENING STAR]]
 
 ## Testo / Text
 

@@ -32,7 +32,7 @@ tags:
   - histref/truce_of_god
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > An essay defending the universal human need for a sabbath rhythm against Bolshevist abolition; critique of dehumanised progressive ideology and the rhythm of creation.
@@ -51,13 +51,13 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Sleep]], [[Machine]], [[Time]], [[Dreams]]
+**Motifs:** [[motifs/sleep|Sleep]], [[motifs/machine|Machine]], [[motifs/time|Time]], [[motifs/dreams|Dreams]]
 
-**Characters:** [[Henry Ford]]
+**Characters:** [[characters/henry-ford|Henry Ford]]
 
-**Themes & Concepts:** [[Critique of Progress]], [[Natural Order]], [[Satire of Society]], [[Individualism]], [[Conformity vs Individualism]], [[Labor and Work]], [[Distributism]], [[Anti-Industrialism]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Apologetics]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Bible]], [[Islam]], [[Truce of God]]
+**Themes & Concepts:** [[concepts/critique-of-progress|Critique of Progress]], [[concepts/natural-order|Natural Order]], [[concepts/satire-of-society|Satire of Society]], [[concepts/individualism|Individualism]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/labor-and-work|Labor and Work]], [[concepts/distributism|Distributism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/islam|Islam]], [[historical-references/truce-of-god|Truce of God]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ A Cornish fisher among Mark's soldiers who fights and bears the raven-flag in th
 
 <div class="concept-works" data-slug="characters/gorlias"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-ballad-of-the-white-horse-(chesterton)|The Ballad of the White Horse (Chesterton)]]
+
+</div>
+
 #graph/character

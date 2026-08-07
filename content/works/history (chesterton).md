@@ -97,7 +97,7 @@ tags:
 
 # history
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A polemical popular history of England from Roman Britain through the Crusades, the medieval guilds, the Reformation and beyond, defending the common man, medieval Christendom and distributist property against Whig and aristocratic narratives.
@@ -112,16 +112,16 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[King]], [[Tyrant]], [[Usurper]], [[Martyr Saint]], [[Common Man (2)]]
+**Archetypes:** [[archetypes/king|King]], [[archetypes/tyrant|Tyrant]], [[archetypes/usurper|Usurper]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Characters:** [[King Arthur]], [[King Alfred (2)]], [[Thomas Becket]], [[Sir Thomas More]], [[Henry V]], [[Henry VI]], [[Henry VIII]], [[Richard II]], [[Richard III]], [[King John]], [[Julius Caesar]], [[Cardinal Wolsey]], [[Henry Bolingbroke]], [[Edward III]], [[William the Conqueror]], [[Henry II]], [[Edward I]], [[Charles I]], [[Oliver Cromwell]], [[Napoleon]], [[Joan of Arc]], [[Wat Tyler]], [[Nelson]], [[Wellington]], [[Simon de Montfort]], [[Bolingbroke (Henry St. John)]]
+**Characters:** [[characters/king-arthur|King Arthur]], [[characters/king-alfred-(2)|King Alfred (2)]], [[characters/thomas-becket|Thomas Becket]], [[characters/sir-thomas-more|Sir Thomas More]], [[characters/henry-v|Henry V]], [[characters/henry-vi|Henry VI]], [[characters/henry-viii|Henry VIII]], [[characters/richard-ii|Richard II]], [[characters/richard-iii|Richard III]], [[characters/king-john|King John]], [[characters/julius-caesar|Julius Caesar]], [[characters/cardinal-wolsey|Cardinal Wolsey]], [[characters/henry-bolingbroke|Henry Bolingbroke]], [[characters/edward-iii|Edward III]], [[historical-references/william-the-conqueror|William the Conqueror]], [[characters/henry-ii|Henry II]], [[characters/edward-i|Edward I]], [[characters/charles-i|Charles I]], [[historical-references/oliver-cromwell|Oliver Cromwell]], [[historical-references/napoleon|Napoleon]], [[characters/joan-of-arc|Joan of Arc]], [[characters/wat-tyler|Wat Tyler]], [[historical-references/nelson|Nelson]], [[characters/wellington|Wellington]], [[characters/simon-de-montfort|Simon de Montfort]], [[characters/bolingbroke-(henry-st.-john)|Bolingbroke (Henry St. John)]]
 
-**Topoi:** [[Ages of the World]], [[Golden Age]], [[Fortune's Wheel]], [[War as Glory]]
-**Motifs:** [[Crown]], [[Swords and Weapons]], [[Money and Gold]], [[Ruins the Abbey]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Common Man]], [[Distributism]], [[Anti-Industrialism]], [[Class Conflict]], [[Social Injustice]], [[Kingship and Legitimacy]], [[Power and Corruption]], [[Critique of Progress]], [[Heroism]], [[Democracy]], [[Freedom and Liberty]], [[Slavery]], [[Greed and Money]], [[Labor and Work]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Historical References:** [[Medieval England]], [[Crusades]], [[Reformation]], [[Industrial Revolution]], [[Christianity]], [[Catholic Church]], [[Wars of the Roses]], [[Ancient Rome]], [[French Revolution]], [[Renaissance]], [[Puritanism]], [[Elizabethan England]], [[Napoleonic Wars the Navy]], [[First World War]], [[Islam]], [[Grail Legend]], [[Arthurian Legend]], [[Danish Invasions]], [[Battle of Ethandun]], [[Regency Georgian England]], [[Irish Question]], [[Thirty Years' War]]
-**Settings:** [[Medieval England (2)]], [[Rural England]], [[Scotland the Highlands]], [[Germany]], [[London]], [[Europe]]
+**Topoi:** [[topoi/ages-of-the-world|Ages of the World]], [[topoi/golden-age|Golden Age]], [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/war-as-glory|War as Glory]]
+**Motifs:** [[motifs/crown|Crown]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/money-and-gold|Money and Gold]], [[motifs/ruins-the-abbey|Ruins the Abbey]]
+**Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/common-man|Common Man]], [[concepts/distributism|Distributism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/class-conflict|Class Conflict]], [[concepts/social-injustice|Social Injustice]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/heroism|Heroism]], [[concepts/democracy|Democracy]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/slavery|Slavery]], [[concepts/greed-and-money|Greed and Money]], [[concepts/labor-and-work|Labor and Work]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/crusades|Crusades]], [[historical-references/reformation|Reformation]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/wars-of-the-roses|Wars of the Roses]], [[settings/ancient-rome|Ancient Rome]], [[historical-references/french-revolution|French Revolution]], [[historical-references/renaissance|Renaissance]], [[historical-references/puritanism|Puritanism]], [[historical-references/elizabethan-england|Elizabethan England]], [[historical-references/napoleonic-wars-the-navy|Napoleonic Wars the Navy]], [[historical-references/first-world-war|First World War]], [[historical-references/islam|Islam]], [[historical-references/grail-legend|Grail Legend]], [[historical-references/arthurian-legend|Arthurian Legend]], [[historical-references/danish-invasions|Danish Invasions]], [[historical-references/battle-of-ethandun|Battle of Ethandun]], [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/irish-question|Irish Question]], [[historical-references/thirty-years'-war|Thirty Years' War]]
+**Settings:** [[settings/medieval-england-(2)|Medieval England (2)]], [[settings/rural-england|Rural England]], [[settings/scotland-the-highlands|Scotland the Highlands]], [[settings/germany|Germany]], [[settings/london|London]], [[settings/europe|Europe]]
 
 ## Testo integrale / Full text
 

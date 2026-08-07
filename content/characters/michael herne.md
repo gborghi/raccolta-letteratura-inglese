@@ -14,4 +14,10 @@ The eccentric antiquarian librarian of Seawood Abbey who, having played a mediev
 
 <div class="concept-works" data-slug="characters/michael-herne"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/don-quixote-(chesterton)|Don Quixote (Chesterton)]]
+
+</div>
+
 #graph/character

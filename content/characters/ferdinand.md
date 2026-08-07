@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/ferdinand"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-tempest-(shakespeare)|THE TEMPEST (Shakespeare)]]
+
+</div>
+
 #graph/character

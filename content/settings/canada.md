@@ -14,4 +14,12 @@ Chesterton's travel essays describe a startling voyage up the St Lawrence and re
 
 <div class="concept-works" data-slug="settings/canada"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/gkc-all-is-grist-(chesterton)|GKC All is Grist (Chesterton)]]
+- [[works/the-future-of-canadian-literature-(conan-doyle)|The Future of Canadian Literature (Conan Doyle)]]
+- [[works/the-refugees-(conan-doyle)|The Refugees (Conan Doyle)]]
+
+</div>
+
 #graph/setting

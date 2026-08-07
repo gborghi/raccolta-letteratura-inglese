@@ -14,4 +14,10 @@ The priest who rescues Pompilia from her husband in The Ring and the Book, whose
 
 <div class="concept-works" data-slug="characters/giuseppe-caponsacchi"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/robert-browning-(chesterton)|Robert Browning (Chesterton)]]
+
+</div>
+
 #graph/character

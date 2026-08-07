@@ -29,7 +29,7 @@ tags:
 
 # deluge
 
-*by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
+*by Chesterton*  ·  **Cluster:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > Ballad-like lyric of a lone tattered man standing up amid the biblical flood to drink defiantly to God — gratitude, defiance and faith against cosmic catastrophe.
@@ -40,14 +40,14 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Common Man (2)]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Topoi:** [[Last Stand]], [[Sublime in Nature]]
+**Topoi:** [[topoi/last-stand|Last Stand]], [[topoi/sublime-in-nature|Sublime in Nature]]
 
-**Motifs:** [[Storm]], [[Water]], [[Wine and Drink]], [[Swords and Weapons]]
-**Themes & Concepts:** [[Faith]], [[Wonder and Gratitude]], [[Humility]], [[Courage]], [[Apocalypse]], [[Sublime]], [[Providence]], [[Wonder and Terror]]
-**Forms & Genres:** [[Lyric]], [[Ballad Ballade]]
-**Historical References:** [[Bible]]
+**Motifs:** [[motifs/storm|Storm]], [[motifs/water|Water]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/swords-and-weapons|Swords and Weapons]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/humility|Humility]], [[concepts/courage|Courage]], [[concepts/apocalypse|Apocalypse]], [[concepts/sublime|Sublime]], [[concepts/providence|Providence]], [[concepts/wonder-and-terror|Wonder and Terror]]
+**Forms & Genres:** [[forms/lyric|Lyric]], [[forms/ballad-ballade|Ballad Ballade]]
+**Historical References:** [[historical-references/bible|Bible]]
 
 ## Testo integrale / Full text
 

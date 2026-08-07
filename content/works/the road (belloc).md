@@ -25,7 +25,7 @@ tags:
   - setting/rural_england
   - topos/journey_of_life
 ---
-*by Belloc*  ·  **Cluster:** [[History · Catholicism · Europe]]
+*by Belloc*  ·  **Cluster:** [[clusters/history-·-catholicism-·-europe|History · Catholicism · Europe]]
 
 > [!abstract] 
 > A historical and theoretical essay (commissioned by a concrete engineering firm) on the road as a fundamental human institution. Belloc argues that roads should be consciously designed rather than left to haphazard growth, and traces the five great phases of the English road from the British trackway and Roman military road through the Dark Ages to the turnpikes, warning that a sixth transformation is now upon motor-age Britain.
@@ -53,9 +53,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[History]], [[Nonfiction]]
-**Themes & Concepts:** [[Critique of Progress]], [[Nature vs Civilization]], [[Tradition]], [[Labor and Work]], [[Order vs Chaos]]
-**Motifs:** [[Road]], [[Journey]], [[River]]
-**Historical References:** [[Ancient Rome]], [[Roman History]], [[Industrial Revolution]]
-**Settings:** [[Rural England]]
-**Topoi:** [[Journey of Life]]
+**Forms & Genres:** [[forms/essay|Essay]], [[concepts/history|History]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/critique-of-progress|Critique of Progress]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/tradition|Tradition]], [[concepts/labor-and-work|Labor and Work]], [[concepts/order-vs-chaos|Order vs Chaos]]
+**Motifs:** [[motifs/road|Road]], [[motifs/journey|Journey]], [[motifs/river|River]]
+**Historical References:** [[settings/ancient-rome|Ancient Rome]], [[historical-references/roman-history|Roman History]], [[historical-references/industrial-revolution|Industrial Revolution]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Topoi:** [[topoi/journey-of-life|Journey of Life]]

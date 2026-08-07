@@ -21,19 +21,19 @@ tags:
   - histref/the_french_revolution
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Blank Verse · Tragicomedy · Romance Play]]
+*by Coleridge*  ·  **Cluster:** [[clusters/blank-verse-·-tragicomedy-·-romance-play|Blank Verse · Tragicomedy · Romance Play]]
 
 > [!abstract] 
 > A long visionary blank-verse poem on Freedom, the symbolic Book of Nature, polar legends, and Joan of Arc's prophetic vision of war, peace, and revolution; themes of providence, freedom, war and its cost, imagination, and the warrior-maid.
 
 ## Connections
 
-**Topoi:** [[Book of Nature]], [[Night Journey Vision]]
-**Archetypes:** [[Hero]], [[Prophet]]
-**Motifs:** [[Supernatural]]
-**Themes & Concepts:** [[Liberty Political Freedom]], [[Providence]], [[War and its Cost]], [[Imagination]], [[Faith]]
-**Forms & Genres:** [[Blank Verse]]
-**Historical References:** [[French Revolution]]
+**Topoi:** [[topoi/book-of-nature|Book of Nature]], [[topoi/night-journey-vision|Night Journey Vision]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/prophet|Prophet]]
+**Motifs:** [[motifs/supernatural|Supernatural]]
+**Themes & Concepts:** [[concepts/liberty-political-freedom|Liberty Political Freedom]], [[concepts/providence|Providence]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/imagination|Imagination]], [[concepts/faith|Faith]]
+**Forms & Genres:** [[forms/blank-verse|Blank Verse]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]]
 
 ## Testo integrale / Full text
 

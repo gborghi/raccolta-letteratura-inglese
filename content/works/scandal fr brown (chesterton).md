@@ -41,7 +41,7 @@ tags:
 
 # scandal Fr Brown
 
-*by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
+*by Chesterton*  ·  **Cluster:** [[clusters/short-story-·-concealment-hidden-identity-·-justice-right-and-wrong|Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 
 > A collection of Father Brown detective stories in which the humble priest-detective solves crimes through moral and psychological insight rather than mere ratiocination, exposing deception and defending sin's penitents.
@@ -55,15 +55,15 @@ tags:
 
 ## Connections
 
-**Settings:** [[Rural England]], [[Oxford]], [[London]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/oxford|Oxford]], [[settings/london|London]]
 
-**Motifs:** [[Concealment Hidden Identity]], [[Clothing and Costume]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/clothing-and-costume|Clothing and Costume]]
 
-**Archetypes:** [[Detective]], [[Corrupt Official]], [[Avenger]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Appearance vs Reality]], [[Deception]], [[Guilt]], [[Sin and the Fall]], [[Grace and Redemption]], [[Justice Right and Wrong]], [[Mercy]], [[Class Conflict]], [[Money and Avarice]], [[Power and Corruption]], [[Satire of Society]], [[Labor and Work]], [[Identity]], [[Fanaticism]], [[Economics]]
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Historical References:** [[Catholic Church]], [[Puritanism]]
-**Characters:** [[Father Brown]], [[Flambeau]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/corrupt-official|Corrupt Official]], [[archetypes/avenger|Avenger]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/guilt|Guilt]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/mercy|Mercy]], [[concepts/class-conflict|Class Conflict]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/satire-of-society|Satire of Society]], [[concepts/labor-and-work|Labor and Work]], [[concepts/identity|Identity]], [[concepts/fanaticism|Fanaticism]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
+**Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/puritanism|Puritanism]]
+**Characters:** [[characters/father-brown|Father Brown]], [[characters/flambeau|Flambeau]]
 
 ## Testo integrale / Full text
 

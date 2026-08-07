@@ -14,4 +14,11 @@ The great Irish nationalist leader repeatedly invoked as a name meaning utterly 
 
 <div class="concept-works" data-slug="characters/charles-stewart-parnell"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/irish-impressions-(chesterton)|Irish Impressions (Chesterton)]]
+- [[works/shaw-(chesterton)|Shaw (Chesterton)]]
+
+</div>
+
 #graph/character

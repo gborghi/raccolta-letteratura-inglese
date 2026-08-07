@@ -14,4 +14,10 @@ The eccentric inventor of mechanical servants who is murdered by his own automat
 
 <div class="concept-works" data-slug="characters/isidore-smythe"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/innocence-(chesterton)|innocence (Chesterton)]]
+
+</div>
+
 #graph/character

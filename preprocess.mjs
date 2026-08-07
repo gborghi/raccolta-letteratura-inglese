@@ -12,6 +12,7 @@ import { fileURLToPath } from "node:url"
 import { execSync } from "node:child_process"
 import zlib from "node:zlib"
 import { classifyUnit } from "./preprocess-classify.mjs"
+import { buildLinkIndex, resolveWikilinks, stripDeadLinks } from "./preprocess-links.mjs"
 
 // ---- per-work readability (prose only) ----------------------------------------
 const POETRY_FORMS = new Set(["ballad","narrative_poem","lyric","sonnet","shakespearean_sonnet","petrarchan_sonnet","ode","pindaric_ode","elegy","epic","mock_epic","free_verse","blank_verse","heroic_couplet","hexameter_verse","conversation_poem","comic_verse_song","dirge","hymn","litany","inscription","ottava_rima","rhyme_royal","spenserian_stanza","terza_rima","verse_epistle","poem_sequence","riddle","epigram","fragment","dramatic_monologue"])
@@ -554,9 +555,13 @@ function plainForSearch(md) {
 //
 // The EN side has done this since the plays were added. The IT side needs it too, and did
 // not have it: while every translation was prose there were no tables to break.
+//
+// Idempotent: an already-escaped `[[X\|y]]` (the form resolveWikilinks emits when it
+// adds an alias inside a table row) matches too and comes back unchanged, instead of
+// growing a second backslash.
 function escapeTableAliasPipes(s) {
   return s.replace(/^\|.*$/gm, (row) =>
-    row.replace(/\[\[([^\]|]+)\|([^\]]*)\]\]/g, "[[$1\\|$2]]"),
+    row.replace(/\[\[([^\]|]+?)\\?\|([^\]]*)\]\]/g, "[[$1\\|$2]]"),
   )
 }
 
@@ -587,7 +592,14 @@ function bilingualBody(en, it) {
   )
 }
 
-async function publishUnits(rawSourceToWork, translations = new Map(), sourceTagAxes = new Map()) {
+// resolveLinks(md, ctx) rewrites bare wikilinks to full slugs (see preprocess-links.mjs);
+// it is built in main() from the PASS-1 note scan, so it arrives as a parameter.
+async function publishUnits(
+  rawSourceToWork,
+  translations = new Map(),
+  sourceTagAxes = new Map(),
+  resolveLinks = (md) => md,
+) {
   const unitHref = new Map()
   const excerpts = []
   const excerptsKw = {}
@@ -738,16 +750,17 @@ async function publishUnits(rawSourceToWork, translations = new Map(), sourceTag
               : isIntro
                 ? ""
                 : chapterLabel(it.fileName)
-            let enBody = normalizeProse(
-              stripLeadingSelfH1(stripLeadingH1IfMatchesTitle(stripJunkSeparators(body), title)),
+            let enBody = resolveLinks(
+              normalizeProse(
+                stripLeadingSelfH1(stripLeadingH1IfMatchesTitle(stripJunkSeparators(body), title)),
+              ),
+              { author: authorName },
             )
             // plays: EN-only dialogue → English table header (source vault bakes Italian)
             enBody = enBody.replace(/^\|\s*Chi parla\s*\|\s*Battuta\s*\|$/gm, "| Speaker | Line |")
             // plays: escape the alias-pipe of wikilinks inside dialogue-table rows so the GFM
             // table tokenizer does not read it as a column divider (wikilinkRegex allows \| — target intact)
-            enBody = enBody.replace(/^\|.*$/gm, (row) =>
-              row.replace(/\[\[([^\]|]+)\|([^\]]*)\]\]/g, "[[$1\\|$2]]"),
-            )
+            enBody = escapeTableAliasPipes(enBody)
             const atomText = plainForSearch(enBody)
 
             // ---- Phase-2 leaf-tag join: leaf's own frontmatter tags (source #2,
@@ -794,7 +807,7 @@ async function publishUnits(rawSourceToWork, translations = new Map(), sourceTag
             const tr = translations.get(unitRel)
             if (tr) {
               const itBody = escapeTableAliasPipes(
-                normalizeProse(stripUnitChrome(tr.body_it || "")),
+                resolveLinks(normalizeProse(stripUnitChrome(tr.body_it || "")), { author: authorName }),
               )
               block += `\n\n<span class="qlang-split" data-lang="it"></span>\n\n` + itBody
             }
@@ -946,7 +959,7 @@ async function publishUnits(rawSourceToWork, translations = new Map(), sourceTag
           // Remove junk separators, strip the leading H1 (Quartz renders the
           // frontmatter title as a page heading automatically; keeping the body
           // H1 produces a double-title), then prepend the nav block.
-          let outBody = stripJunkSeparators(body)
+          let outBody = resolveLinks(stripJunkSeparators(body), { author: authorName })
           outBody = stripLeadingH1IfMatchesTitle(outBody, title)
 
           // The full-text aggregate page (unitType "work") has no slug-children, so
@@ -988,7 +1001,11 @@ async function publishUnits(rawSourceToWork, translations = new Map(), sourceTag
             // page, no navigation).
             await fs.writeFile(
               dest,
-              fm + bilingualBody(outBody, escapeTableAliasPipes(tr.body_it || outBody)),
+              fm +
+                bilingualBody(
+                  outBody,
+                  escapeTableAliasPipes(resolveLinks(tr.body_it || outBody, { author: authorName })),
+                ),
             )
           } else {
             await fs.writeFile(dest, fm + outBody)
@@ -1058,14 +1075,24 @@ async function main() {
       // note written win and every other poet's cluster page breadcrumbs to it.
       // Register an author-qualified key too; the bare one stays as the fallback.
       const wAuthor = typeof data.author === "string" ? data.author.toLowerCase() : ""
+      // A sub-work never owns a work directory — its source is one atom inside another
+      // work's — so it must not take a key a real work answers to. Whitman's poem "The
+      // Wound-Dresser" (atom 162 of a cluster) was claiming "the_wound_dresser", the
+      // directory of his prose book of the same name, whose reading page then
+      // breadcrumbed to a page-less node.
+      const isSub = data.subwork === true || data.subwork === "true"
+      const put = (key, val) => {
+        if (isSub && rawSourceToWork.has(key)) return
+        rawSourceToWork.set(key, val)
+      }
       const addKey = (k) => {
         if (!k) return
         if (wAuthor) {
-          rawSourceToWork.set(`${wAuthor}|${k}`, href)
-          rawSourceToWork.set(`${wAuthor}|${normWorkKey(k)}`, href)
+          put(`${wAuthor}|${k}`, href)
+          put(`${wAuthor}|${normWorkKey(k)}`, href)
         }
-        rawSourceToWork.set(k, href)
-        rawSourceToWork.set(normWorkKey(k), href)
+        put(k, href)
+        put(normWorkKey(k), href)
       }
       if (typeof data.source === "string") {
         const srcBase = data.source.split("/").pop().replace(/\.md$/, "")
@@ -1128,6 +1155,59 @@ async function main() {
     }
   }
 
+  // ---- wikilink -> full-slug resolver (see preprocess-links.mjs) ----
+  // Vault notes link by bare basename; Quartz's "shortest" resolution 404s whenever
+  // that basename is ambiguous or missing. Resolve every link here instead, using the
+  // node's own weight (how many works it aggregates) to pick between namesakes — so
+  // "[[Nature]]" lands on the 337-work motif, not on the empty concept of the same
+  // name. Sub-work notes emit no page (see PASS 2), so they are not link targets.
+  const linkNotes = []
+  {
+    const linkRe = /\[\[([^\]|#]+?)(?:\|[^\]]+)?\]\]/g
+    for (const { rel, data, content } of parsed) {
+      if (data.subwork === true || data.subwork === "true") continue
+      const seen = new Set()
+      let m
+      while ((m = linkRe.exec(content))) {
+        const href = titleToHref.get(m[1].trim())
+        if (href) seen.add(href)
+      }
+      linkNotes.push({ slug: slugFromRel(rel), weight: seen.size, author: data.author || "" })
+    }
+  }
+  const linkIndex = buildLinkIndex(linkNotes, sluggify)
+  // Tally what the resolver does, so a regression shows up as a number rather than as
+  // a silently different page.
+  const linkStats = { resolved: 0, subwork: 0, left: 0 }
+  // Sub-work notes emit no page, so the index above cannot answer for them; their
+  // reading target is a fragment of the cluster page, and that is only known once
+  // publishUnits() has run. The map is filled in right after (see `_subwork` below)
+  // and read here at emit time, when PASS 2 copies the notes that cite them.
+  const subworkFrag = new Map() // sluggified title/filename -> "workSlug#atomId"
+  const countingResolve = (target, ctx) => {
+    const r = linkIndex.resolve(target, ctx)
+    if (r) {
+      linkStats.resolved++
+      return r
+    }
+    const frag = subworkFrag.get(sluggify(String(target).trim()))
+    // Same guard as the work titles: a poem called "Life" or "The Child" is cited by
+    // name, not by the word in the sentence. The rendered text has to be one of that
+    // poem's own names, capitalised — which lets a cluster note's
+    // "[[X (Whitman)|X]]" through and stops "[[Life|life]]".
+    if (frag) {
+      const shown = String(ctx && ctx.alias != null ? ctx.alias : target).trim()
+      if (/^\p{Lu}/u.test(shown) && subworkFrag.get(sluggify(shown)) === frag) {
+        linkStats.subwork++
+        return frag
+      }
+    }
+    linkStats.left++
+    return null
+  }
+  const resolveLinks = (md, ctx) => resolveWikilinks(md, countingResolve, ctx)
+  console.log(`link index: ${linkIndex.size} note slugs`)
+
   // ---- source -> tags join map (Phase-2 leaf-tag plumbing) ----
   // publishUnits() below runs AFTER this PASS-1 scan (works[] is already fully built
   // here), so its atom loop can join straight off `works` — no separate re-scan of the
@@ -1163,7 +1243,7 @@ async function main() {
   }
 
   // ---- Publish atomized excerpts / play scenes / long-poem sections ----
-  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits, workContainers, workParts, atomMeta, readHrefByWork, atomSourceToFrag, atomSearch, unitPlainText, leafFragRows } = await publishUnits(rawSourceToWork, translations, sourceTagAxes)
+  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits, workContainers, workParts, atomMeta, readHrefByWork, atomSourceToFrag, atomSearch, unitPlainText, leafFragRows } = await publishUnits(rawSourceToWork, translations, sourceTagAxes, resolveLinks)
 
   // Page-less sub-work nodes: their href is the SPA fragment of their source atom, and
   // they emit NO content/works page (see PASS 2). Resolve href from source now, so the
@@ -1185,6 +1265,14 @@ async function main() {
     // of the stale pre-subwork href.
     titleToHref.set(rec._base, frag)
     if (rec.title !== rec._base) titleToHref.set(rec.title, frag)
+    // Same two keys for the wikilink resolver. A cluster note lists its poems as
+    // "[[The Wound-Dresser (Whitman)|The Wound-Dresser]]" — filename form as target,
+    // bare title as alias — so both spellings have to reach the fragment, and so does
+    // the title with its "(Author)" suffix stripped, which is how prose cites them.
+    for (const k of [rec._base, rec.title, String(rec.title).replace(/[-\s]*\([^()]*\)$/, "")]) {
+      const s = sluggify(String(k || "").trim())
+      if (s && !subworkFrag.has(s)) subworkFrag.set(s, frag)
+    }
   }
 
   // Leaf-atom fragment rows: atoms that resolved tags (join or own frontmatter) but
@@ -1239,6 +1327,9 @@ async function main() {
     // renders the title from frontmatter as a page heading automatically, so
     // leaving the body H1 produces a visible double-title).
     newContent = stripLeadingH1IfMatchesTitle(newContent, data.title)
+    // After the H1 strip: resolving a link inside the H1 would change the text the
+    // title comparison matches on.
+    newContent = resolveLinks(newContent, { author: data.author })
     const topFolder = relU.split("/")[0]
     const axis = AXIS_FOLDERS[topFolder]
 
@@ -1247,6 +1338,7 @@ async function main() {
       const linkRe = /\[\[([^\]|#]+?)(?:\|[^\]]+)?\]\]/g
       const seen = new Set()
       const found = []
+      const labels = []
       let m
       while ((m = linkRe.exec(content))) {
         const target = m[1].trim()
@@ -1254,6 +1346,7 @@ async function main() {
         if (href && !seen.has(href)) {
           seen.add(href)
           found.push(href)
+          labels.push(target)
         }
       }
       if (found.length) {
@@ -1265,9 +1358,25 @@ async function main() {
         }
         // Replace the "## Works" section (heading + the bullet list that follows)
         // with a placeholder div; the client renders a searchable/paginated table.
+        // A plain list of the same works is kept after the placeholder rather than
+        // discarded: it is the only server-side node -> work link there is, and
+        // dropping it left every work reachable only from a node orphaned in the
+        // link graph. It is rebuilt from the hrefs resolved above, not from the
+        // vault's own bullets, so a list entry with no work page cannot come back
+        // as a broken link. Hidden by default (the table shows the same works);
+        // conceptWorks reveals it if the table fails to render. The blank lines
+        // around it matter: they close the HTML block so the wikilinks inside are
+        // still parsed as markdown.
+        const fallback = found
+          .map((href, i) => `- [[${href}|${labels[i]}]]`)
+          .join("\n")
+        // Replacement as a function, not a string: a work title containing "$" would
+        // otherwise be read as a substitution pattern.
         newContent = newContent.replace(
           /(^|\n)##\s+Works\s*\n[\s\S]*?(?=\n##\s|\n#[^#]|\n#graph|$)/,
-          `$1## Works\n\n<div class="concept-works" data-slug="${slug}"></div>\n`,
+          (_all, lead) =>
+            `${lead}## Works\n\n<div class="concept-works" data-slug="${slug}"></div>\n\n` +
+            `<div class="concept-works-fallback">\n\n${fallback}\n\n</div>\n`,
         )
       }
     }
@@ -1354,7 +1463,9 @@ async function main() {
     await fs.mkdir(path.dirname(dest), { recursive: true })
     const trPage = translations.get(relU.toLowerCase())
     if (trPage) {
-      let itBody = escapeTableAliasPipes(trPage.body_it || newContent)
+      let itBody = escapeTableAliasPipes(
+        resolveLinks(trPage.body_it || newContent, { author: data.author }),
+      )
       if (workTocMd) {
         itBody = itBody.replace(/\n##\s+Chapters \/ scenes \/ sections[\s\S]*?(?=\n##\s|$)/, "")
         itBody = /\n##\s+Connections/.test(itBody)
@@ -2079,6 +2190,66 @@ Se trovi una traduzione sbagliata o un errore in una pagina, [segnalalo](/feedba
   console.log(
     `copied ${written} notes, ${unitsCopied} unit pages; indexed ${works.length} works, ` +
       `${excerpts.length} excerpts, ${authors.length} authors, ${clusters.length} clusters`,
+  )
+
+  // ---- final pass: unlink what leads nowhere ----
+  // The vault's tagger linked every bare occurrence of a word that also happens to be a
+  // work title. Where nothing answers to the name that is a plain 404 ("[[Alone|alone]]");
+  // where something does ("[[house]]" -> Chesterton's essay page) the link lands, but it
+  // still does not mean the essay. Both come from the same defect, so both are degraded
+  // to plain text: a genuine reference is written as a title ("see [[House]]") and keeps
+  // resolving. The same pass drops links to a name the vault never carried at all
+  // ("[[Cardenio]]", "[[Pastoral]]"), which is only decidable here, once every page is
+  // emitted. The counters keep the two halves apart in the log.
+  const SPARE_LINKED_SURFACE_FORMS = false
+  const emitted = []
+  const walkOut = async (dir) => {
+    for (const e of await fs.readdir(dir, { withFileTypes: true })) {
+      const p = path.join(dir, e.name)
+      if (e.isDirectory()) await walkOut(p)
+      else if (e.name.endsWith(".md")) emitted.push(p)
+    }
+  }
+  await walkOut(CONTENT)
+  const pageSlugs = new Set()
+  const pageBasenames = new Set()
+  for (const p of emitted) {
+    const rel = path.relative(CONTENT, p).slice(0, -3).split(path.sep).join("/")
+    pageSlugs.add(sluggify(rel))
+    pageBasenames.add(sluggify(path.basename(p, ".md")))
+  }
+  // Quartz resolves a single-segment target against page basenames, a multi-segment one
+  // against the whole slug — so "lands somewhere" has to be tested the same way.
+  const lands = (t) => {
+    const s = sluggify(String(t).trim())
+    return pageSlugs.has(s) || (!s.includes("/") && pageBasenames.has(s))
+  }
+  const keepLink = (target, alias) =>
+    linkIndex.isSurfaceForm(target, alias)
+      ? SPARE_LINKED_SURFACE_FORMS && lands(target)
+      : lands(target)
+  const deadStripped = new Map()
+  let noisyTotal = 0
+  for (const p of emitted) {
+    const before = await fs.readFile(p, "utf8")
+    const { md, stripped } = stripDeadLinks(before, keepLink)
+    if (!stripped.length) continue
+    for (const t of stripped) {
+      deadStripped.set(t, (deadStripped.get(t) || 0) + 1)
+      if (lands(t)) noisyTotal++
+    }
+    await fs.writeFile(p, md)
+  }
+  const deadTotal = [...deadStripped.values()].reduce((a, b) => a + b, 0)
+  const topDead = [...deadStripped.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 8)
+    .map(([t, n]) => `${t}=${n}`)
+    .join(" ")
+  console.log(
+    `wikilinks: ${linkStats.resolved} resolved, ${linkStats.subwork} to sub-work fragments, ` +
+      `${linkStats.left} left as-is; ${deadTotal} unlinked over ${deadStripped.size} targets ` +
+      `(${deadTotal - noisyTotal} leading nowhere, ${noisyTotal} noisy-but-live) [${topDead}]`,
   )
 }
 main()

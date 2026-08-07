@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/biddy"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/great-expectations-(dickens)|Great Expectations (Dickens)]]
+
+</div>
+
 #graph/character

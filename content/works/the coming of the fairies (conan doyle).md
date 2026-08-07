@@ -20,7 +20,7 @@ tags:
   - character/sir_arthur_conan_doyle
   - archetype/innocent
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Spiritualism · Faith and Doubt · The Afterlife]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/spiritualism-·-faith-and-doubt-·-the-afterlife|Spiritualism · Faith and Doubt · The Afterlife]]
 
 > [!abstract] 
 > Doyle assembles correspondence and expert testimony defending the authenticity of the Cottingley fairy photographs taken by two Yorkshire girls, arguing they offer photographic proof of a hidden spirit world and situating the case within Theosophist and Spiritualist belief.
@@ -49,9 +49,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Spiritualism]], [[Faith and Doubt]], [[Wonder]], [[Deception]]
-**Motifs:** [[Supernatural]], [[Uncanny]], [[Nature]]
-**Settings:** [[Rural England]]
-**Characters:** [[Sir Arthur Conan Doyle]]
-**Archetypes:** [[Innocent]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/spiritualism|Spiritualism]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/wonder|Wonder]], [[concepts/deception|Deception]]
+**Motifs:** [[motifs/supernatural|Supernatural]], [[concepts/uncanny|Uncanny]], [[concepts/nature|Nature]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Characters:** [[characters/sir-arthur-conan-doyle|Sir Arthur Conan Doyle]]
+**Archetypes:** [[archetypes/innocent|Innocent]]

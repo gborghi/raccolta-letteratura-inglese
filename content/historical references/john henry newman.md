@@ -14,4 +14,10 @@ The Oxford Movement leader and famous convert whom Chesterton repeatedly invokes
 
 <div class="concept-works" data-slug="historical-references/john-henry-newman"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/conversion-(chesterton)|conversion (Chesterton)]]
+
+</div>
+
 #graph/histref

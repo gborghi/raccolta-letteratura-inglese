@@ -23,7 +23,7 @@ tags:
   - setting/battlefield
   - topos/combat_strife
 ---
-*by Conan Doyle*  ·  **Cluster:** [[War and Empire · History · Nationalism and Patriotism]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/war-and-empire-·-history-·-nationalism-and-patriotism|War and Empire · History · Nationalism and Patriotism]]
 
 > [!abstract] 
 > A 1902 polemical pamphlet defending British conduct in the Boer War against international accusations of atrocity, tracing the history of Anglo-Boer relations from the seventeenth century and answering charges over farm-burning and the concentration camps.
@@ -48,9 +48,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Empire and Imperialism]], [[Justice Right and Wrong]], [[War and its Cost]], [[Nationalism and Patriotism]], [[History]]
-**Motifs:** [[Flag]], [[Fire]]
-**Historical References:** [[Boer War (Second South African War)]], [[Second Boer War]], [[British Empire]]
-**Settings:** [[South Africa]], [[Battlefield]]
-**Topoi:** [[Combat Strife]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/history|History]]
+**Motifs:** [[motifs/flag|Flag]], [[motifs/fire|Fire]]
+**Historical References:** [[historical-references/boer-war-(second-south-african-war)|Boer War (Second South African War)]], [[historical-references/second-boer-war|Second Boer War]], [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/south-africa|South Africa]], [[settings/battlefield|Battlefield]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]]

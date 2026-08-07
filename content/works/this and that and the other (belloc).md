@@ -35,7 +35,7 @@ tags:
   - character/william_shakespeare
   - archetype/fanatic
 ---
-*by Belloc*  ·  **Cluster:** [[History · Catholicism · Europe]]
+*by Belloc*  ·  **Cluster:** [[clusters/history-·-catholicism-·-europe|History · Catholicism · Europe]]
 
 > [!abstract] 
 > A miscellany of Belloc's essays, sketches, histories and jests — from an ironic open letter to a young diplomatist and satires of pedants, spies and journalism, to reconstructions of Ethandune and the death of Robert the Strong, and lyrical evocations of England, France and Spain. The unifying air is Belloc's blend of wit, historical imagination and love of Christendom.
@@ -87,10 +87,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[History]], [[Satire]], [[Nonfiction]]
-**Themes & Concepts:** [[Satire of Society]], [[Nationalism and Patriotism]], [[Faith]], [[Tradition]], [[Truth]], [[Wit]]
-**Motifs:** [[Road]], [[Sea]], [[River]], [[Storm]], [[Book Reading]], [[Sea and Voyage]]
-**Historical References:** [[Battle of Ethandun]], [[King Alfred]], [[Medieval England]]
-**Settings:** [[Rural England]], [[France]], [[Spain]], [[Europe]]
-**Characters:** [[Hilaire Belloc]], [[William Shakespeare]]
-**Archetypes:** [[Fanatic]]
+**Forms & Genres:** [[forms/essay|Essay]], [[concepts/history|History]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/faith|Faith]], [[concepts/tradition|Tradition]], [[concepts/truth|Truth]], [[concepts/wit|Wit]]
+**Motifs:** [[motifs/road|Road]], [[motifs/sea|Sea]], [[motifs/river|River]], [[motifs/storm|Storm]], [[motifs/book-reading|Book Reading]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/battle-of-ethandun|Battle of Ethandun]], [[historical-references/king-alfred|King Alfred]], [[historical-references/medieval-england|Medieval England]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/france|France]], [[settings/spain|Spain]], [[settings/europe|Europe]]
+**Characters:** [[characters/hilaire-belloc|Hilaire Belloc]], [[characters/william-shakespeare|William Shakespeare]]
+**Archetypes:** [[archetypes/fanatic|Fanatic]]

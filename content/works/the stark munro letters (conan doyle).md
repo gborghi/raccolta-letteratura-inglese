@@ -24,7 +24,7 @@ tags:
   - archetype/self_made_man
   - topos/journey_of_life
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Domestic and Social Fiction · Romantic Love · Class]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/domestic-and-social-fiction-·-romantic-love-·-class|Domestic and Social Fiction · Romantic Love · Class]]
 
 > [!abstract] 
 > In letters to an American friend, young doctor Stark Munro recounts his stormy partnership with the brilliant, unscrupulous, and bankrupt James Cullingworth, and his own struggle to establish an independent medical practice while wrestling openly with religious doubt and rationalist conviction. Semi-autobiographical, the novel traces Doyle's own early years as a struggling physician.
@@ -57,9 +57,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Epistolary Diary Novel]], [[Fictional Autobiography]], [[Bildungsroman]]
-**Themes & Concepts:** [[Faith and Doubt]], [[Ambition]], [[Friendship]], [[Poverty]], [[Self-Reliance]], [[Reason and Rationalism]]
-**Motifs:** [[Letters and Writing]], [[Money and Gold]]
-**Characters:** [[Stark Munro]], [[James Cullingworth]]
-**Archetypes:** [[Trickster]], [[Self-Made Man]]
-**Topoi:** [[Journey of Life]]
+**Forms & Genres:** [[forms/epistolary-diary-novel|Epistolary Diary Novel]], [[forms/fictional-autobiography|Fictional Autobiography]], [[forms/bildungsroman|Bildungsroman]]
+**Themes & Concepts:** [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/ambition|Ambition]], [[concepts/friendship|Friendship]], [[concepts/poverty|Poverty]], [[concepts/self-reliance|Self-Reliance]], [[concepts/reason-and-rationalism|Reason and Rationalism]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/money-and-gold|Money and Gold]]
+**Characters:** [[characters/stark-munro|Stark Munro]], [[characters/james-cullingworth|James Cullingworth]]
+**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/self-made-man|Self-Made Man]]
+**Topoi:** [[topoi/journey-of-life|Journey of Life]]

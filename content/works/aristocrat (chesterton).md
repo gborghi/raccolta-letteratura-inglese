@@ -35,7 +35,7 @@ tags:
 
 # aristocrat
 
-*by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
+*by Chesterton*  ·  **Cluster:** [[clusters/temptation-·-good-vs-evil-·-serpent-snake|Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 
 > A ballad-like lyric in which the Devil is figured as a charming gentleman whose golden house breeds endless ennui and damnation; a satirical-theological warning about pleasure, pride and the emptiness of worldly luxury.
@@ -46,14 +46,14 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]]
+**Historical References:** [[historical-references/bible|Bible]]
 
-**Topoi:** [[Paradise Lost]], [[Contemptus Mundi]]
-**Archetypes:** [[Satanic Figure]], [[Trickster]]
-**Motifs:** [[Concealment Hidden Identity]], [[Money and Gold]], [[Great House]], [[Serpent Snake]], [[Birds]]
-**Themes & Concepts:** [[Temptation]], [[Good vs Evil]], [[Pride]], [[Disillusionment]], [[Appearance vs Reality]], [[Vanity of Worldly Things]], [[Spiritual Emptiness]], [[Deception]], [[Satire of Society]], [[Sin and the Fall]]
-**Forms & Genres:** [[Ballad Ballade]], [[Lyric]], [[Satire]]
-**Characters:** [[Satan]]
+**Topoi:** [[topoi/paradise-lost|Paradise Lost]], [[topoi/contemptus-mundi|Contemptus Mundi]]
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]], [[archetypes/trickster|Trickster]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/money-and-gold|Money and Gold]], [[motifs/great-house|Great House]], [[motifs/serpent-snake|Serpent Snake]], [[motifs/birds|Birds]]
+**Themes & Concepts:** [[concepts/temptation|Temptation]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/pride|Pride]], [[concepts/disillusionment|Disillusionment]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/vanity-of-worldly-things|Vanity of Worldly Things]], [[concepts/spiritual-emptiness|Spiritual Emptiness]], [[concepts/deception|Deception]], [[concepts/satire-of-society|Satire of Society]], [[concepts/sin-and-the-fall|Sin and the Fall]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/lyric|Lyric]], [[forms/satire|Satire]]
+**Characters:** [[characters/satan|Satan]]
 
 ## Testo integrale / Full text
 

@@ -25,7 +25,7 @@ It would but match the may in flower;
 And skies be underneath the seas  
 No topsyturvier than a shower.  
 
-If [[Mountains|mountains]] [[Rose|rose]] on wings to wander  
+If [[settings/mountains|mountains]] [[motifs/rose|rose]] on wings to wander  
 They were no wilder than a cloud;  
 Yet all my praise is mean as slander,  
 Mean as these mean words spoken aloud.  
@@ -33,12 +33,12 @@ Mean as these mean words spoken aloud.
 And never more than now I know  
 That man's first heaven is far behind;  
 Unless the blazing seraph's blow  
-Has left him in the [[Garden|garden]] blind.  
+Has left him in the [[motifs/garden|garden]] blind.  
 
 Witness, O Sun that blinds our eyes,  
-Unthinkable and unthankable [[King]],  
-That though all other [[Wonder|wonder]] dies  
-I [[Wonder|wonder]] at not wondering.
+Unthinkable and unthankable [[archetypes/king|King]],  
+That though all other [[concepts/wonder|wonder]] dies  
+I [[concepts/wonder|wonder]] at not wondering.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -54,7 +54,7 @@ non farebbero che eguagliare il biancospino in fiore;
 e cieli sotto i mari  
 non sarebbero più sottosopra d'un acquazzone.  
 
-Se i [[Mountains|monti]] si [[Rose|levassero]] su ali a vagare  
+Se i [[settings/mountains|monti]] si [[motifs/rose|levassero]] su ali a vagare  
 non sarebbero più selvaggi d'una nube;  
 eppure ogni mia lode è vile come calunnia,  
 vile come queste vili parole dette a voce alta.  
@@ -62,12 +62,12 @@ vile come queste vili parole dette a voce alta.
 E mai più di adesso io so  
 che il primo cielo dell'uomo è lontano alle spalle;  
 a meno che il colpo del serafino avvampante  
-non l'abbia lasciato cieco nel [[Garden|giardino]].  
+non l'abbia lasciato cieco nel [[motifs/garden|giardino]].  
 
 Testimone, o Sole che accechi i nostri occhi,  
-impensabile e improrabile [[King|Re]],  
-che per quanto ogni altra [[Wonder|meraviglia]] muoia  
-io mi [[Wonder|meraviglio]] di non meravigliarmi.
+impensabile e improrabile [[archetypes/king|Re]],  
+che per quanto ogni altra [[concepts/wonder|meraviglia]] muoia  
+io mi [[concepts/wonder|meraviglio]] di non meravigliarmi.
 
 
 
@@ -85,7 +85,7 @@ It would but match the may in flower;
 And skies be underneath the seas  
 No topsyturvier than a shower.  
 
-If [[Mountains|mountains]] [[Rose|rose]] on wings to wander  
+If [[settings/mountains|mountains]] [[motifs/rose|rose]] on wings to wander  
 They were no wilder than a cloud;  
 Yet all my praise is mean as slander,  
 Mean as these mean words spoken aloud.  
@@ -93,12 +93,12 @@ Mean as these mean words spoken aloud.
 And never more than now I know  
 That man's first heaven is far behind;  
 Unless the blazing seraph's blow  
-Has left him in the [[Garden|garden]] blind.  
+Has left him in the [[motifs/garden|garden]] blind.  
 
 Witness, O Sun that blinds our eyes,  
-Unthinkable and unthankable [[King]],  
-That though all other [[Wonder|wonder]] dies  
-I [[Wonder|wonder]] at not wondering.
+Unthinkable and unthankable [[archetypes/king|King]],  
+That though all other [[concepts/wonder|wonder]] dies  
+I [[concepts/wonder|wonder]] at not wondering.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -107,14 +107,14 @@ I [[Wonder|wonder]] at not wondering.
 
 Il Mistero  
 
-G. K. Chesterton
+G. K. Chesterton  
 
 Se nuvole di tramonto crescessero sugli alberi  
 non farebbero che eguagliare il biancospino in fiore;  
 e cieli sotto i mari  
 non sarebbero più sottosopra d'un acquazzone.  
 
-Se i [[Mountains|monti]] si [[Rose|levassero]] su ali a vagare  
+Se i [[settings/mountains|monti]] si [[motifs/rose|levassero]] su ali a vagare  
 non sarebbero più selvaggi d'una nube;  
 eppure ogni mia lode è vile come calunnia,  
 vile come queste vili parole dette a voce alta.  
@@ -122,9 +122,9 @@ vile come queste vili parole dette a voce alta.
 E mai più di adesso io so  
 che il primo cielo dell'uomo è lontano alle spalle;  
 a meno che il colpo del serafino avvampante  
-non l'abbia lasciato cieco nel [[Garden|giardino]].  
+non l'abbia lasciato cieco nel [[motifs/garden|giardino]].  
 
 Testimone, o Sole che accechi i nostri occhi,  
-impensabile e improrabile [[King|Re]],  
-che per quanto ogni altra [[Wonder|meraviglia]] muoia  
-io mi [[Wonder|meraviglio]] di non meravigliarmi.
+impensabile e improrabile [[archetypes/king|Re]],  
+che per quanto ogni altra [[concepts/wonder|meraviglia]] muoia  
+io mi [[concepts/wonder|meraviglio]] di non meravigliarmi.

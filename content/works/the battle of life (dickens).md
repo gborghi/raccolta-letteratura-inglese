@@ -30,7 +30,7 @@ tags:
   - character/benjamin_britain
 ---
 
-*by Dickens*  ·  **Cluster:** [[Self-Sacrifice · Life as a Battle]]
+*by Dickens*  ·  **Cluster:** [[clusters/self-sacrifice-·-life-as-a-battle|Self-Sacrifice · Life as a Battle]]
 
 > [!abstract] 
 > Dickens's Christmas Book, a love story set on an old battlefield in rural England; central themes are self-sacrificing love, the metaphor of life as a daily battle, sisterly devotion, and the contrast of war's bloodshed with nature's recovery.
@@ -44,14 +44,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Life as a Battle]]
-**Archetypes:** [[Lover]]
-**Motifs:** [[Blood]], [[Nature]], [[Seasons]]
-**Themes & Concepts:** [[Romantic Love]], [[Self-Sacrifice]], [[War and its Cost]], [[Grief and Loss]], [[Humility]]
-**Forms & Genres:** [[Novel]], [[Allegory]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[Rural England]]
-**Characters:** [[Marion Jeddler]], [[Grace Jeddler]], [[Doctor Jeddler]], [[Alfred Heathfield]], [[Michael Warden]], [[Clemency Newcome]], [[Benjamin Britain]]
+**Topoi:** [[topoi/life-as-a-battle|Life as a Battle]]
+**Archetypes:** [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/blood|Blood]], [[concepts/nature|Nature]], [[motifs/seasons|Seasons]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/self-sacrifice|Self-Sacrifice]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/humility|Humility]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/allegory|Allegory]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Characters:** [[characters/marion-jeddler|Marion Jeddler]], [[characters/grace-jeddler|Grace Jeddler]], [[characters/doctor-jeddler|Doctor Jeddler]], [[characters/alfred-heathfield|Alfred Heathfield]], [[characters/michael-warden|Michael Warden]], [[characters/clemency-newcome|Clemency Newcome]], [[characters/benjamin-britain|Benjamin Britain]]
 
 ## Testo integrale / Full text
 

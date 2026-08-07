@@ -32,7 +32,7 @@ tags:
   - character/lucius
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/blood-·-verse-drama-·-revenge|Blood · Verse Drama · Revenge]]
 
 > [!abstract] 
 > Bloody Senecan revenge tragedy set in late Rome: the cycle of mutilation, rape and cannibalistic vengeance between Titus and Tamora. Central themes: revenge, the grotesque and horror, justice and barbarism.
@@ -56,13 +56,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Fortune's Wheel]]
-**Archetypes:** [[Avenger]], [[Villain]], [[Femme Fatale]]
-**Motifs:** [[Blood]], [[Swords and Weapons]]
-**Themes & Concepts:** [[Revenge]], [[Grotesque]], [[Terror and Horror]], [[Justice Right and Wrong]], [[Madness]], [[War and its Cost]]
-**Forms & Genres:** [[Tragedy]], [[Blank Verse]]
-**Settings:** [[Ancient Rome]]
-**Characters:** [[Titus Andronicus]], [[Tamora]], [[Aaron]], [[Lavinia]], [[Saturninus]], [[Bassianus]], [[Marcus Andronicus]], [[Lucius]]
+**Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]
+**Archetypes:** [[archetypes/avenger|Avenger]], [[archetypes/villain|Villain]], [[archetypes/femme-fatale|Femme Fatale]]
+**Motifs:** [[motifs/blood|Blood]], [[motifs/swords-and-weapons|Swords and Weapons]]
+**Themes & Concepts:** [[concepts/revenge|Revenge]], [[concepts/grotesque|Grotesque]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/madness|Madness]], [[concepts/war-and-its-cost|War and its Cost]]
+**Forms & Genres:** [[forms/tragedy|Tragedy]], [[forms/blank-verse|Blank Verse]]
+**Settings:** [[settings/ancient-rome|Ancient Rome]]
+**Characters:** [[characters/titus-andronicus|Titus Andronicus]], [[characters/tamora|Tamora]], [[characters/aaron|Aaron]], [[characters/lavinia|Lavinia]], [[characters/saturninus|Saturninus]], [[characters/bassianus|Bassianus]], [[characters/marcus-andronicus|Marcus Andronicus]], [[characters/lucius|Lucius]]
 
 ## Testo integrale / Full text
 

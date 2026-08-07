@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="motifs/sleeper-awakes-(2)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-facts-in-the-case-of-m.-valdemar-(poe)|The Facts in the Case of M. Valdemar (Poe)]]
+
+</div>
+
 #graph/motif

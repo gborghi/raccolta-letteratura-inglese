@@ -14,4 +14,10 @@ Subject of an essay distinguishing his sympathetic, reverent humour and parody f
 
 <div class="concept-works" data-slug="characters/bret-harte"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+
+</div>
+
 #graph/character

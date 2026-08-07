@@ -14,4 +14,13 @@ Discussed as the Puritan leader whose real triumph was suppressing popular democ
 
 <div class="concept-works" data-slug="characters/oliver-cromwell"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/milton-(chesterton)|Milton (Chesterton)]]
+- [[works/history-(chesterton)|history (Chesterton)]]
+- [[works/mormonism-(chesterton)|Mormonism (Chesterton)]]
+- [[works/micah-clarke-(conan-doyle)|Micah Clarke (Conan Doyle)]]
+
+</div>
+
 #graph/character

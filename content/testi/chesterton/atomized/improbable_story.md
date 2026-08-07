@@ -40,13 +40,13 @@ I incline to the opinion that it happened to me before I was born.
 At any rate, let us tell the story now with all the advantages
 of the atmosphere that has clung to it.  You may suppose me,
 for the sake of argument, sitting at lunch in one of those quick-lunch
-restaurants in the [[City]] where men take their food so fast that it
+restaurants in the [[motifs/city|City]] where men take their food so fast that it
 has none of the quality of food, and take their half-hour's
 vacation so fast that it has none of the qualities of leisure;
 to hurry through one's leisure is the most unbusiness-like of actions.
 They all wore tall shiny hats as if they could not lose an instant
 even to hang them on a peg, and they all had one eye a little off,
-hypnotized by the huge eye of the [[Clock|clock]].  In short, they were the slaves
+hypnotized by the huge eye of the [[motifs/clock|clock]].  In short, they were the slaves
 of the modern bondage, you could hear their fetters clanking.
 Each was, in fact, bound by a chain; the heaviest chain ever tied
 to a man--it is called a watch-chain.
@@ -82,7 +82,7 @@ a clatter with their forks, and a murmur with their conversation.
 But the man's face was the face of a maniac.
 
 "Did you mean anything particular by that remark?" he asked at least,
-and the [[Blood|blood]] crawled back slowly into his face.
+and the [[motifs/blood|blood]] crawled back slowly into his face.
 
 "Nothing whatever," I answered.  "one does not mean anything here;
 it spoils people's digestions."
@@ -107,9 +107,9 @@ me an umbrella in the right hand an a bag in the left hand.
 For forty years two months and four days I passed out of the side
 office door, walked down the street on the left-hand side,
 took the first turning to the left and the third to the right,
-from where I bought and evening paper, followed the [[Road|road]] on
+from where I bought and evening paper, followed the [[motifs/road|road]] on
 the right-hand side round two obtuse angles, and came out just
-outside a Metropolitan station, where I took a train [[Home|home]].
+outside a Metropolitan station, where I took a train [[motifs/home|home]].
 For forty years two months and four days I fulfilled this course
 by accumulated habit:  it was not a long street that I traversed,
 and it took me about for and a half minutes to do it.
@@ -119,7 +119,7 @@ and my bag in the left, and I began to notice that walking along
 the familiar street tired me somewhat more than usual; and when I
 turned it I was convinced that I had turned down the wrong one.
 For now the street shot up quite a steep slant, such as one
-only sees in the hilly parts of [[London]], and in this part
+only sees in the hilly parts of [[settings/london|London]], and in this part
 there were no hills at all.  yet it was not the wrong street;
 the name written on it was the same; the shuttered shops were
 the same; the lamp-posts and the whole look of the perspective
@@ -131,33 +131,33 @@ And as I turned that corner I nearly fell on the pavement.
 For now the street went up straight in front of my face
 like a steep staircase or the side of a pyramid.
 There was not for miles round that place so much as a slope
-like that of Ludgate [[Hill]].  And this was a slope like that of
+like that of Ludgate [[motifs/hill|Hill]].  And this was a slope like that of
 the Matterhorn.  The whole street had lifted itself like a
 single wave, and yet every speck and detail of it was the same,
 and I saw in the high distance, as at the top of an Alpine pass,
 picked out in pink letters the name over my paper shop.
 
 "I ran on and on blindly now, passing all the shops and coming to a
-part of the [[Road|road]] where there was a long grey row of private houses.
+part of the [[motifs/road|road]] where there was a long grey row of private houses.
 I had, I know not why, and irrational feeling that I was a long
 iron bridge in empty space.  An impulse seized me, and I pulled up
 the iron trap of a coal-hole. Looking down through it I saw empty
 space and the stairs.
 
 "When I looked up again a man was standing in his
-front [[Garden|garden]], having apparently come out of his [[house]];
+front [[motifs/garden|garden]], having apparently come out of his house;
 he was leaning over the railings and gazing at me.
-We were all [[Alone|alone]] on that [[nightmare]] [[Road|road]]; his face was in [[Shadow|shadow]];
+We were all alone on that nightmare [[motifs/road|road]]; his face was in [[archetypes/shadow|shadow]];
 his dress was dark and ordinary; but when I saw him standing
 so perfectly still I knew somehow that he was not of this world.
-And the [[Stars|stars]] behind his head were larger and fiercer than ought
+And the [[motifs/stars|stars]] behind his head were larger and fiercer than ought
 to be endured by the eyes of men.
 
 "‘If you are a kind angel,' I said, ‘or a wise devil, or have
 anything in common with mankind, tell me what is this street
 possessed of devils.'
 
-"After a long [[Silence|silence]] he said, ‘What do you say that it is?'
+"After a long [[motifs/silence|silence]] he said, ‘What do you say that it is?'
 
 "‘It is Bumpton Street, of course,' I snapped.  ‘It goes
 to Oldgate Station.'
@@ -172,22 +172,22 @@ Just now, however, it is going to heaven.'
 is one thing that cannot be endured by anybody or anything.
 That one unendurable thing is to be overworked and also neglected.
 For instance, you can overwork women--everybody does.
-But you can't neglect women--I defy you to.  At the same [[Time|time]],
+But you can't neglect women--I defy you to.  At the same [[motifs/time|time]],
 you can neglect tramps and gypsies and all the apparent
 refuse of the State so long as you do not overwork it.
-But no beast of the field, no [[Horse|horse]], no dog can endure long to be
-asked to do more than his work and yet have less than his [[Honour|honour]].
+But no beast of the field, no [[motifs/horse|horse]], no dog can endure long to be
+asked to do more than his work and yet have less than his [[concepts/honour|honour]].
 It is the same with streets.  You have worked this street
-to [[Death|death]], and yet you have never remembered its existence.
-If you had a healthy [[democracy]], even of pagans, they would have
+to [[motifs/death|death]], and yet you have never remembered its existence.
+If you had a healthy [[concepts/democracy|democracy]], even of pagans, they would have
 hung this street with garlands and given it the name of a god.
 Then it would have gone quietly.  but at least the street has grown
 tired of your tireless insolence; and it is bucking and rearing
-its head to heaven.  Have you never sat on a bucking [[Horse|horse]]?'
+its head to heaven.  Have you never sat on a bucking [[motifs/horse|horse]]?'
 
 "I looked at the long grey street, and for a moment it seemed to me
-to be exactly like the long grey neck of a [[Horse|horse]] flung up to heaven.
-But in a moment my [[Sanity|sanity]] returned, and I said, ‘But this
+to be exactly like the long grey neck of a [[motifs/horse|horse]] flung up to heaven.
+But in a moment my sanity returned, and I said, ‘But this
 is all nonsense.  Streets go to the place they have to go.
 A street must always go to its end.'
 
@@ -198,10 +198,10 @@ in reasonable anger.  ‘Day after day, year after year, it has
 always gone to Oldgate Station; day after . . .'
 
 "I stopped, for he had flung up his head with the fury of
-the [[Road|road]] in revolt.
+the [[motifs/road|road]] in revolt.
 
-"‘And you?' he cried terribly.  ‘What do you think the [[Road|road]]
-thinks of you?  Does the [[Road|road]] think you are alive?
+"‘And you?' he cried terribly.  ‘What do you think the [[motifs/road|road]]
+thinks of you?  Does the [[motifs/road|road]] think you are alive?
 Are you alive?  Day after day, year after year, you have
 gone to Oldgate Station . . .' Since then I have respected
 the things called inanimate."
@@ -243,13 +243,13 @@ I incline to the opinion that it happened to me before I was born.
 At any rate, let us tell the story now with all the advantages
 of the atmosphere that has clung to it.  You may suppose me,
 for the sake of argument, sitting at lunch in one of those quick-lunch
-restaurants in the [[City]] where men take their food so fast that it
+restaurants in the [[motifs/city|City]] where men take their food so fast that it
 has none of the quality of food, and take their half-hour's
 vacation so fast that it has none of the qualities of leisure;
 to hurry through one's leisure is the most unbusiness-like of actions.
 They all wore tall shiny hats as if they could not lose an instant
 even to hang them on a peg, and they all had one eye a little off,
-hypnotized by the huge eye of the [[Clock|clock]].  In short, they were the slaves
+hypnotized by the huge eye of the [[motifs/clock|clock]].  In short, they were the slaves
 of the modern bondage, you could hear their fetters clanking.
 Each was, in fact, bound by a chain; the heaviest chain ever tied
 to a man--it is called a watch-chain.
@@ -285,7 +285,7 @@ a clatter with their forks, and a murmur with their conversation.
 But the man's face was the face of a maniac.
 
 "Did you mean anything particular by that remark?" he asked at least,
-and the [[Blood|blood]] crawled back slowly into his face.
+and the [[motifs/blood|blood]] crawled back slowly into his face.
 
 "Nothing whatever," I answered.  "one does not mean anything here;
 it spoils people's digestions."
@@ -329,13 +329,13 @@ propendo per l'opinione che mi sia accaduto prima di nascere.
 A ogni modo, raccontiamo ora la storia con tutti i vantaggi
 dell'atmosfera che le è rimasta attaccata.  Potete immaginarmi,
 per amor di discussione, seduto a pranzo in uno di quei ristoranti
-a pasto rapido nella [[City|Città]] dove gli uomini consumano il cibo così in fretta che esso
+a pasto rapido nella [[motifs/city|Città]] dove gli uomini consumano il cibo così in fretta che esso
 perde ogni qualità di cibo, e si prendono la loro mezz'ora
 di svago così in fretta che essa perde ogni qualità di svago;
 affrettarsi durante il proprio svago è la più poco pratica delle azioni.
 Portavano tutti alti cilindri lucenti, come se non potessero perdere un istante
 nemmeno per appenderli a un gancio, e avevano tutti un occhio un po' sviato,
-ipnotizzato dall'enorme occhio dell'[[Clock|orologio]].  Insomma, erano gli schiavi
+ipnotizzato dall'enorme occhio dell'[[motifs/clock|orologio]].  Insomma, erano gli schiavi
 della schiavitù moderna, se ne udivano tintinnare le catene.
 Ciascuno era, di fatto, legato da una catena; la catena più pesante mai legata
 a un uomo — si chiama catena da orologio.
@@ -371,7 +371,7 @@ un fracasso con le forchette, e un mormorio con la loro conversazione.
 Ma il volto dell'uomo era il volto di un maniaco.
 
 "Intendeva qualcosa di particolare con quell'osservazione?" chiese infine,
-e il [[Blood|sangue]] rifluì lentamente nel suo volto.
+e il [[motifs/blood|sangue]] rifluì lentamente nel suo volto.
 
 "Assolutamente nulla," risposi.  "Qui non si intende mai nulla;
 rovina la digestione alla gente."
@@ -401,9 +401,9 @@ me an umbrella in the right hand an a bag in the left hand.
 For forty years two months and four days I passed out of the side
 office door, walked down the street on the left-hand side,
 took the first turning to the left and the third to the right,
-from where I bought and evening paper, followed the [[Road|road]] on
+from where I bought and evening paper, followed the [[motifs/road|road]] on
 the right-hand side round two obtuse angles, and came out just
-outside a Metropolitan station, where I took a train [[Home|home]].
+outside a Metropolitan station, where I took a train [[motifs/home|home]].
 For forty years two months and four days I fulfilled this course
 by accumulated habit:  it was not a long street that I traversed,
 and it took me about for and a half minutes to do it.
@@ -413,7 +413,7 @@ and my bag in the left, and I began to notice that walking along
 the familiar street tired me somewhat more than usual; and when I
 turned it I was convinced that I had turned down the wrong one.
 For now the street shot up quite a steep slant, such as one
-only sees in the hilly parts of [[London]], and in this part
+only sees in the hilly parts of [[settings/london|London]], and in this part
 there were no hills at all.  yet it was not the wrong street;
 the name written on it was the same; the shuttered shops were
 the same; the lamp-posts and the whole look of the perspective
@@ -425,33 +425,33 @@ And as I turned that corner I nearly fell on the pavement.
 For now the street went up straight in front of my face
 like a steep staircase or the side of a pyramid.
 There was not for miles round that place so much as a slope
-like that of Ludgate [[Hill]].  And this was a slope like that of
+like that of Ludgate [[motifs/hill|Hill]].  And this was a slope like that of
 the Matterhorn.  The whole street had lifted itself like a
 single wave, and yet every speck and detail of it was the same,
 and I saw in the high distance, as at the top of an Alpine pass,
 picked out in pink letters the name over my paper shop.
 
 "I ran on and on blindly now, passing all the shops and coming to a
-part of the [[Road|road]] where there was a long grey row of private houses.
+part of the [[motifs/road|road]] where there was a long grey row of private houses.
 I had, I know not why, and irrational feeling that I was a long
 iron bridge in empty space.  An impulse seized me, and I pulled up
 the iron trap of a coal-hole. Looking down through it I saw empty
 space and the stairs.
 
 "When I looked up again a man was standing in his
-front [[Garden|garden]], having apparently come out of his [[house]];
+front [[motifs/garden|garden]], having apparently come out of his house;
 he was leaning over the railings and gazing at me.
-We were all [[Alone|alone]] on that [[nightmare]] [[Road|road]]; his face was in [[Shadow|shadow]];
+We were all alone on that nightmare [[motifs/road|road]]; his face was in [[archetypes/shadow|shadow]];
 his dress was dark and ordinary; but when I saw him standing
 so perfectly still I knew somehow that he was not of this world.
-And the [[Stars|stars]] behind his head were larger and fiercer than ought
+And the [[motifs/stars|stars]] behind his head were larger and fiercer than ought
 to be endured by the eyes of men.
 
 "‘If you are a kind angel,' I said, ‘or a wise devil, or have
 anything in common with mankind, tell me what is this street
 possessed of devils.'
 
-"After a long [[Silence|silence]] he said, ‘What do you say that it is?'
+"After a long [[motifs/silence|silence]] he said, ‘What do you say that it is?'
 
 "‘It is Bumpton Street, of course,' I snapped.  ‘It goes
 to Oldgate Station.'
@@ -466,22 +466,22 @@ Just now, however, it is going to heaven.'
 is one thing that cannot be endured by anybody or anything.
 That one unendurable thing is to be overworked and also neglected.
 For instance, you can overwork women--everybody does.
-But you can't neglect women--I defy you to.  At the same [[Time|time]],
+But you can't neglect women--I defy you to.  At the same [[motifs/time|time]],
 you can neglect tramps and gypsies and all the apparent
 refuse of the State so long as you do not overwork it.
-But no beast of the field, no [[Horse|horse]], no dog can endure long to be
-asked to do more than his work and yet have less than his [[Honour|honour]].
+But no beast of the field, no [[motifs/horse|horse]], no dog can endure long to be
+asked to do more than his work and yet have less than his [[concepts/honour|honour]].
 It is the same with streets.  You have worked this street
-to [[Death|death]], and yet you have never remembered its existence.
-If you had a healthy [[democracy]], even of pagans, they would have
+to [[motifs/death|death]], and yet you have never remembered its existence.
+If you had a healthy [[concepts/democracy|democracy]], even of pagans, they would have
 hung this street with garlands and given it the name of a god.
 Then it would have gone quietly.  but at least the street has grown
 tired of your tireless insolence; and it is bucking and rearing
-its head to heaven.  Have you never sat on a bucking [[Horse|horse]]?'
+its head to heaven.  Have you never sat on a bucking [[motifs/horse|horse]]?'
 
 "I looked at the long grey street, and for a moment it seemed to me
-to be exactly like the long grey neck of a [[Horse|horse]] flung up to heaven.
-But in a moment my [[Sanity|sanity]] returned, and I said, ‘But this
+to be exactly like the long grey neck of a [[motifs/horse|horse]] flung up to heaven.
+But in a moment my sanity returned, and I said, ‘But this
 is all nonsense.  Streets go to the place they have to go.
 A street must always go to its end.'
 
@@ -492,10 +492,10 @@ in reasonable anger.  ‘Day after day, year after year, it has
 always gone to Oldgate Station; day after . . .'
 
 "I stopped, for he had flung up his head with the fury of
-the [[Road|road]] in revolt.
+the [[motifs/road|road]] in revolt.
 
-"‘And you?' he cried terribly.  ‘What do you think the [[Road|road]]
-thinks of you?  Does the [[Road|road]] think you are alive?
+"‘And you?' he cried terribly.  ‘What do you think the [[motifs/road|road]]
+thinks of you?  Does the [[motifs/road|road]] think you are alive?
 Are you alive?  Day after day, year after year, you have
 gone to Oldgate Station . . .' Since then I have respected
 the things called inanimate."
@@ -508,15 +508,15 @@ the restaurant withdrew.
 
 <span class="qlang-split" data-lang="it"></span>
 
-«No, intendo un'altra strada andata a male», e disse, pesante e tranquillo, «ma poiché suppongo che ciò non vi spieghi gran che, credo che dovrò raccontarvi la storia. Lo faccio con tanta minore responsabilità in quanto so che non mi crederete. Per quarant'anni della mia vita ho invariabilmente lasciato il mio ufficio, che è in Leadenhall Street, alle cinque e mezza del pomeriggio, portando con me un ombrello nella mano destra e una borsa nella sinistra. Per quarant'anni, due mesi e quattro giorni sono uscito dalla porta laterale dell'ufficio, ho percorso la strada sul lato sinistro, ho preso la prima svolta a sinistra e la terza a destra, di là dove compravo un giornale della sera, ho seguito la [[Road|via]] sul lato destro attorno a due angoli ottusi, e sono sbucato proprio fuori da una stazione della Metropolitana, dove prendevo un treno per [[Home|casa]]. Per quarant'anni, due mesi e quattro giorni ho compiuto questo tragitto per abitudine accumulata: non era una strada lunga quella che percorrevo, e mi ci volevano circa quattro minuti e mezzo a farla. Dopo quarant'anni, due mesi e quattro giorni, il quinto giorno uscii nel medesimo modo, con l'ombrello nella mano destra e la borsa nella sinistra, e cominciai ad accorgermi che il camminare lungo la strada familiare mi stancava un po' più del solito; e quando la svoltai fui convinto d'aver imboccato quella sbagliata. Poiché ora la strada saliva con una pendenza assai ripida, come se ne vedono soltanto nelle parti collinose di [[London|Londra]], e in quel quartiere non v'erano colline affatto. Eppure non era la strada sbagliata; il nome scritto su di essa era il medesimo; le botteghe con le imposte chiuse erano le medesime; i lampioni e l'intero aspetto della prospettiva erano i medesimi; solo che era inclinata all'insù come un coperchio sollevato. Dimenticando ogni fastidio d'affanno o di fatica corsi furiosamente in avanti, e raggiunsi la seconda delle mie svolte consuete, che avrebbe dovuto portarmi quasi in vista della stazione. E come svoltai quell'angolo per poco non caddi sul marciapiede. Poiché ora la strada saliva dritta davanti alla mia faccia come una ripida scalinata o il fianco di una piramide. Non v'era, per miglia all'intorno di quel luogo, tanto quanto una salita simile a quella di Ludgate [[Hill]]. E questa era una salita come quella del Cervino. L'intera strada si era sollevata come una singola onda, eppure ogni granello e ogni particolare di essa era il medesimo, e vidi in alto, in lontananza, come alla sommità di un passo alpino, spiccare in lettere rosa il nome sopra la mia edicola.
+«No, intendo un'altra strada andata a male», e disse, pesante e tranquillo, «ma poiché suppongo che ciò non vi spieghi gran che, credo che dovrò raccontarvi la storia. Lo faccio con tanta minore responsabilità in quanto so che non mi crederete. Per quarant'anni della mia vita ho invariabilmente lasciato il mio ufficio, che è in Leadenhall Street, alle cinque e mezza del pomeriggio, portando con me un ombrello nella mano destra e una borsa nella sinistra. Per quarant'anni, due mesi e quattro giorni sono uscito dalla porta laterale dell'ufficio, ho percorso la strada sul lato sinistro, ho preso la prima svolta a sinistra e la terza a destra, di là dove compravo un giornale della sera, ho seguito la [[motifs/road|via]] sul lato destro attorno a due angoli ottusi, e sono sbucato proprio fuori da una stazione della Metropolitana, dove prendevo un treno per [[motifs/home|casa]]. Per quarant'anni, due mesi e quattro giorni ho compiuto questo tragitto per abitudine accumulata: non era una strada lunga quella che percorrevo, e mi ci volevano circa quattro minuti e mezzo a farla. Dopo quarant'anni, due mesi e quattro giorni, il quinto giorno uscii nel medesimo modo, con l'ombrello nella mano destra e la borsa nella sinistra, e cominciai ad accorgermi che il camminare lungo la strada familiare mi stancava un po' più del solito; e quando la svoltai fui convinto d'aver imboccato quella sbagliata. Poiché ora la strada saliva con una pendenza assai ripida, come se ne vedono soltanto nelle parti collinose di [[settings/london|Londra]], e in quel quartiere non v'erano colline affatto. Eppure non era la strada sbagliata; il nome scritto su di essa era il medesimo; le botteghe con le imposte chiuse erano le medesime; i lampioni e l'intero aspetto della prospettiva erano i medesimi; solo che era inclinata all'insù come un coperchio sollevato. Dimenticando ogni fastidio d'affanno o di fatica corsi furiosamente in avanti, e raggiunsi la seconda delle mie svolte consuete, che avrebbe dovuto portarmi quasi in vista della stazione. E come svoltai quell'angolo per poco non caddi sul marciapiede. Poiché ora la strada saliva dritta davanti alla mia faccia come una ripida scalinata o il fianco di una piramide. Non v'era, per miglia all'intorno di quel luogo, tanto quanto una salita simile a quella di Ludgate [[motifs/hill|Hill]]. E questa era una salita come quella del Cervino. L'intera strada si era sollevata come una singola onda, eppure ogni granello e ogni particolare di essa era il medesimo, e vidi in alto, in lontananza, come alla sommità di un passo alpino, spiccare in lettere rosa il nome sopra la mia edicola.
 
-«Corsi avanti e avanti, ormai alla cieca, oltrepassando tutte le botteghe e giungendo a un tratto della [[Road|via]] dove v'era una lunga fila grigia di case private. Avevo, non so perché, l'irrazionale sensazione d'essere su un lungo ponte di ferro nello spazio vuoto. Un impulso mi afferrò, e sollevai la botola di ferro di una carbonaia. Guardando giù attraverso di essa vidi lo spazio vuoto e le stelle.
+«Corsi avanti e avanti, ormai alla cieca, oltrepassando tutte le botteghe e giungendo a un tratto della [[motifs/road|via]] dove v'era una lunga fila grigia di case private. Avevo, non so perché, l'irrazionale sensazione d'essere su un lungo ponte di ferro nello spazio vuoto. Un impulso mi afferrò, e sollevai la botola di ferro di una carbonaia. Guardando giù attraverso di essa vidi lo spazio vuoto e le stelle.
 
-«Quando alzai di nuovo lo sguardo, un uomo se ne stava nel suo [[Garden|giardino]] antistante, essendo a quanto pareva uscito dalla sua [[house|casa]]; era appoggiato alla ringhiera e mi fissava. Eravamo tutti [[Alone|soli]] su quella [[Road|strada]] da [[nightmare|incubo]]; il suo volto era nell'[[Shadow|ombra]]; il suo abito era scuro e comune; ma quando lo vidi star fermo così perfettamente, seppi in qualche modo che egli non era di questo mondo. E le [[Stars|stelle]] dietro il suo capo erano più grandi e più fiere di quanto possano sopportare gli occhi degli uomini.
+«Quando alzai di nuovo lo sguardo, un uomo se ne stava nel suo [[motifs/garden|giardino]] antistante, essendo a quanto pareva uscito dalla sua casa; era appoggiato alla ringhiera e mi fissava. Eravamo tutti soli su quella [[motifs/road|strada]] da incubo; il suo volto era nell'[[archetypes/shadow|ombra]]; il suo abito era scuro e comune; ma quando lo vidi star fermo così perfettamente, seppi in qualche modo che egli non era di questo mondo. E le [[motifs/stars|stelle]] dietro il suo capo erano più grandi e più fiere di quanto possano sopportare gli occhi degli uomini.
 
 «"Se sei un angelo benigno", dissi, "o un diavolo saggio, o hai qualcosa in comune col genere umano, dimmi che cos'è questa strada posseduta dai demoni".
 
-«Dopo un lungo [[Silence|silenzio]] disse: "Che cosa dici tu che sia?".
+«Dopo un lungo [[motifs/silence|silenzio]] disse: "Che cosa dici tu che sia?".
 
 «"È Bumpton Street, naturalmente", scattai. "Va alla stazione di Oldgate".
 
@@ -524,17 +524,17 @@ the restaurant withdrew.
 
 «"In cielo?", dissi. "Perché?".
 
-«"Sta andando in cielo per ottenere giustizia", rispose. «Devi averla trattata male. Ricòrdati sempre che c'è una cosa che nessuno e niente può sopportare. Quell'unica cosa insopportabile è essere sovraccaricati di lavoro e insieme trascurati. Per esempio, puoi sovraccaricare le donne di lavoro: lo fanno tutti. Ma non puoi trascurare le donne: ti sfido a farlo. Al [[Time|tempo]] stesso, puoi trascurare i vagabondi e gli zingari e tutto l'apparente rifiuto dello Stato, purché non lo sovraccarichi di lavoro. Ma nessuna bestia dei campi, nessun [[Horse|cavallo]], nessun cane può sopportare a lungo che gli si chieda di fare più del suo lavoro e insieme di avere meno del suo [[Honour|onore]]. Lo stesso vale per le strade. Tu hai sfruttato questa strada fino alla [[Death|morte]], eppure non ti sei mai ricordato della sua esistenza. Se tu avessi una sana [[democracy|democrazia]], anche solo di pagani, avrebbero adornato questa strada di ghirlande e le avrebbero dato il nome di un dio. Allora sarebbe andata via quieta. Ma almeno la strada si è stancata della tua instancabile insolenza; e s'impenna e leva il capo verso il cielo. Non sei mai stato in sella a un [[Horse|cavallo]] che s'impenna?".
+«"Sta andando in cielo per ottenere giustizia", rispose. «Devi averla trattata male. Ricòrdati sempre che c'è una cosa che nessuno e niente può sopportare. Quell'unica cosa insopportabile è essere sovraccaricati di lavoro e insieme trascurati. Per esempio, puoi sovraccaricare le donne di lavoro: lo fanno tutti. Ma non puoi trascurare le donne: ti sfido a farlo. Al [[motifs/time|tempo]] stesso, puoi trascurare i vagabondi e gli zingari e tutto l'apparente rifiuto dello Stato, purché non lo sovraccarichi di lavoro. Ma nessuna bestia dei campi, nessun [[motifs/horse|cavallo]], nessun cane può sopportare a lungo che gli si chieda di fare più del suo lavoro e insieme di avere meno del suo [[concepts/honour|onore]]. Lo stesso vale per le strade. Tu hai sfruttato questa strada fino alla [[motifs/death|morte]], eppure non ti sei mai ricordato della sua esistenza. Se tu avessi una sana [[concepts/democracy|democrazia]], anche solo di pagani, avrebbero adornato questa strada di ghirlande e le avrebbero dato il nome di un dio. Allora sarebbe andata via quieta. Ma almeno la strada si è stancata della tua instancabile insolenza; e s'impenna e leva il capo verso il cielo. Non sei mai stato in sella a un [[motifs/horse|cavallo]] che s'impenna?".
 
-«Guardai la lunga strada grigia, e per un momento mi parve esattamente simile al lungo collo grigio di un [[Horse|cavallo]] lanciato verso il cielo. Ma in un attimo la mia [[Sanity|ragione]] ritornò, e dissi: "Ma questa è tutta un'assurdità. Le strade vanno al luogo dove devono andare. Una strada deve sempre giungere alla sua fine".
+«Guardai la lunga strada grigia, e per un momento mi parve esattamente simile al lungo collo grigio di un [[motifs/horse|cavallo]] lanciato verso il cielo. Ma in un attimo la mia ragione ritornò, e dissi: "Ma questa è tutta un'assurdità. Le strade vanno al luogo dove devono andare. Una strada deve sempre giungere alla sua fine".
 
 «"Perché la pensi così di una strada?", chiese, restando immobilissimo.
 
 «"Perché l'ho sempre vista fare la medesima cosa", risposi, in ragionevole collera. "Giorno dopo giorno, anno dopo anno, è sempre andata alla stazione di Oldgate; giorno dopo...".
 
-«Mi fermai, perché egli aveva levato il capo con la furia della [[Road|strada]] in rivolta.
+«Mi fermai, perché egli aveva levato il capo con la furia della [[motifs/road|strada]] in rivolta.
 
-«"E tu?", gridò terribilmente. "Che cosa pensi che la [[Road|strada]] pensi di te? Pensa forse la [[Road|strada]] che tu sia vivo? Sei tu vivo? Giorno dopo giorno, anno dopo anno, sei andato alla stazione di Oldgate...". Da allora ho rispettato le cose dette inanimate».
+«"E tu?", gridò terribilmente. "Che cosa pensi che la [[motifs/road|strada]] pensi di te? Pensa forse la [[motifs/road|strada]] che tu sia vivo? Sei tu vivo? Giorno dopo giorno, anno dopo anno, sei andato alla stazione di Oldgate...". Da allora ho rispettato le cose dette inanimate».
 
 E inchinandosi leggermente al vasetto della senape, l'uomo nel ristorante si ritirò.
 

@@ -29,7 +29,7 @@ tags:
   - archetype/martyr_saint
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > A biographical memoir-preface honouring his brother Cecil, tracing his conversion to Catholicism and Distributism, his exposure of the Marconi corruption, and his death in the First World War fighting Prussianism.
@@ -50,17 +50,17 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Hero]], [[Martyr Saint]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/martyr-saint|Martyr Saint]]
 
-**Settings:** [[Battlefield]]
+**Settings:** [[settings/battlefield|Battlefield]]
 
-**Topoi:** [[Life as a Battle]]
+**Topoi:** [[topoi/life-as-a-battle|Life as a Battle]]
 
-**Characters:** [[Cecil Chesterton]], [[Hilaire Belloc]]
+**Characters:** [[characters/cecil-chesterton|Cecil Chesterton]], [[characters/hilaire-belloc|Hilaire Belloc]]
 
-**Themes & Concepts:** [[Conversion]], [[Distributism]], [[Power and Corruption]], [[War and its Cost]], [[Democracy]], [[Courage]], [[Truth]], [[Nationalism and Patriotism]], [[Reform]], [[Economics]]
-**Forms & Genres:** [[Biography]], [[Nonfiction]]
-**Historical References:** [[First World War]], [[Catholic Church]]
+**Themes & Concepts:** [[concepts/conversion|Conversion]], [[concepts/distributism|Distributism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/democracy|Democracy]], [[concepts/courage|Courage]], [[concepts/truth|Truth]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/reform|Reform]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/biography|Biography]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/catholic-church|Catholic Church]]
 
 ## Testo integrale / Full text
 

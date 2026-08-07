@@ -14,4 +14,10 @@ The amateur detective who investigates the vanishing of Isidore Smythe in 'The I
 
 <div class="concept-works" data-slug="characters/john-turnbull-angus"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/innocence-(chesterton)|innocence (Chesterton)]]
+
+</div>
+
 #graph/character

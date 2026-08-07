@@ -28,7 +28,7 @@ tags:
   - archetype/trickster
   - topos/world_upside_down
 ---
-*by Belloc*  ·  **Cluster:** [[Satirical Novel · Politics and Finance · Edwardian England]]
+*by Belloc*  ·  **Cluster:** [[clusters/satirical-novel-·-politics-and-finance-·-edwardian-england|Satirical Novel · Politics and Finance · Edwardian England]]
 
 > [!abstract] 
 > A comic satirical novel in which an English squire's crippled son, a preternaturally exact copyist, becomes entangled with a bohemian Paris artist and a forged 'masterpiece', driving a farce of art, publicity and money. The narrative carries antisemitic caricature in its depiction of landlords and financiers.
@@ -44,11 +44,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]], [[Satire]], [[Comedy]]
-**Themes & Concepts:** [[Satire of Society]], [[Appearance vs Reality]], [[Artist and Society]], [[Deception]], [[Money and Avarice]], [[Fame and Publicity]], [[Antisemitism]], [[Economics]]
-**Motifs:** [[Money and Gold]], [[Book Reading]]
-**Settings:** [[Paris]], [[France]], [[Rural England]], [[Europe]]
-**Archetypes:** [[Artist]], [[Trickster]]
-**Topoi:** [[World Upside Down]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]], [[forms/comedy|Comedy]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/artist-and-society|Artist and Society]], [[concepts/deception|Deception]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/fame-and-publicity|Fame and Publicity]], [[concepts/antisemitism|Antisemitism]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/book-reading|Book Reading]]
+**Settings:** [[settings/paris|Paris]], [[settings/france|France]], [[settings/rural-england|Rural England]], [[settings/europe|Europe]]
+**Archetypes:** [[archetypes/artist|Artist]], [[archetypes/trickster|Trickster]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Also relevant to:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
+**Also relevant to:** [[clusters/appearance-vs-reality-·-beauty-·-eyes-and-sight|Appearance vs Reality · Beauty · Eyes and Sight]]

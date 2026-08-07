@@ -14,4 +14,10 @@ Irish sea-captain who roams England with an inn-sign and a keg of rum, the novel
 
 <div class="concept-works" data-slug="characters/patrick-dalroy"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-flying-inn-(chesterton)|The Flying Inn (Chesterton)]]
+
+</div>
+
 #graph/character

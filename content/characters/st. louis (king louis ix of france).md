@@ -14,4 +14,10 @@ The sainted king at whose banquet table Aquinas famously bangs his fist crying '
 
 <div class="concept-works" data-slug="characters/st.-louis-(king-louis-ix-of-france)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/aquinas-(chesterton)|aquinas (Chesterton)]]
+
+</div>
+
 #graph/character

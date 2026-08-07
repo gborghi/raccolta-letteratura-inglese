@@ -32,7 +32,7 @@ tags:
   - character/costard
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Love's Labour's Lost]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/love's-labour's-lost|Love's Labour's Lost]]
 
 > [!abstract] 
 > Witty courtly comedy in which the King of Navarre and his lords forswear women for study, then fall in love with the visiting Princess of France and her ladies; ends unconventionally with deferred marriage and the song of spring and winter. Central themes: love vs learning, wit and language, the play of appearance and vow-breaking.
@@ -51,13 +51,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Love as Religion]]
-**Archetypes:** [[Lover]], [[Fool]]
-**Motifs:** [[Concealment Hidden Identity]], [[Letters and Writing]], [[Seasons]]
-**Themes & Concepts:** [[Romantic Love]], [[Education]], [[Satire of Society]], [[Appearance vs Reality]], [[Deception]], [[Marriage and Fidelity]]
-**Forms & Genres:** [[Comedy]], [[Comic Verse Song]]
-**Settings:** [[Court]]
-**Characters:** [[Ferdinand King of Navarre]], [[Berowne]], [[Princess of France]], [[Rosaline]], [[Longueville]], [[Dumaine]], [[Don Armado]], [[Costard]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]]
+**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/fool|Fool]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/seasons|Seasons]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/education|Education]], [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/deception|Deception]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]]
+**Forms & Genres:** [[forms/comedy|Comedy]], [[forms/comic-verse-song|Comic Verse Song]]
+**Settings:** [[settings/court|Court]]
+**Characters:** [[characters/ferdinand-king-of-navarre|Ferdinand King of Navarre]], [[characters/berowne|Berowne]], [[characters/princess-of-france|Princess of France]], [[characters/rosaline|Rosaline]], [[characters/longueville|Longueville]], [[characters/dumaine|Dumaine]], [[characters/don-armado|Don Armado]], [[characters/costard|Costard]]
 
 ## Testo integrale / Full text
 

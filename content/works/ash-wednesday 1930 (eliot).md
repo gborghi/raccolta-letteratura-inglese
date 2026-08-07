@@ -15,16 +15,16 @@ tags:
   - concept/transience
 ---
 
-*by Eliot*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Eliot*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > Opening of Eliot's first overtly Christian sequence ('Because I do not hope to turn again'); renunciation, penitence, the will to faith and the prayer to learn to care and not to care.
 
 ## Connections
 
-**Themes & Concepts:** [[Conversion]], [[Faith]], [[Humility]], [[Transience]]
-**Forms & Genres:** [[Hymn]]
-**Historical References:** [[Christianity]]
+**Themes & Concepts:** [[concepts/conversion|Conversion]], [[concepts/faith|Faith]], [[concepts/humility|Humility]], [[concepts/transience|Transience]]
+**Forms & Genres:** [[forms/hymn|Hymn]]
+**Historical References:** [[historical-references/christianity|Christianity]]
 
 ## Testo integrale / Full text
 

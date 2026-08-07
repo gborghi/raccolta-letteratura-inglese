@@ -14,4 +14,10 @@ The wealthy, credulous heiress devoted to the sun-cult in 'The Eye of Apollo.'
 
 <div class="concept-works" data-slug="characters/pauline-stacey"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/innocence-(chesterton)|innocence (Chesterton)]]
+
+</div>
+
 #graph/character

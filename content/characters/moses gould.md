@@ -14,4 +14,10 @@ A jovial, sharp-witted lodger who acts as one of Smith's mock-prosecutors on the
 
 <div class="concept-works" data-slug="characters/moses-gould"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/manalive-(chesterton)|manalive (Chesterton)]]
+
+</div>
+
 #graph/character

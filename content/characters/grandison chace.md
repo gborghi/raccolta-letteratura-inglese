@@ -14,4 +14,10 @@ The American traveller and criminologist to whom Father Brown narrates the frame
 
 <div class="concept-works" data-slug="characters/grandison-chace"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/secret-fr-brown-(chesterton)|secret Fr Brown (Chesterton)]]
+
+</div>
+
 #graph/character

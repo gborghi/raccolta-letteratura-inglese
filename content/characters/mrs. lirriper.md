@@ -14,4 +14,10 @@ The good-humoured London landlady of the Christmas stories, whom Chesterton call
 
 <div class="concept-works" data-slug="characters/mrs.-lirriper"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+
+</div>
+
 #graph/character

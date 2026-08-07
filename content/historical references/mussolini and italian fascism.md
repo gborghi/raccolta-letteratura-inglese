@@ -14,4 +14,10 @@ Chesterton invokes Mussolini as the demagogic dictator-type against which he con
 
 <div class="concept-works" data-slug="historical-references/mussolini-and-italian-fascism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/jane-austen-ge-(chesterton)|Jane Austen GE (Chesterton)]]
+
+</div>
+
 #graph/histref

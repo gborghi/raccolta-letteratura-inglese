@@ -29,7 +29,7 @@ tags:
 
 # telegraph-poles
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > An essay-dialogue in a pine forest contrasting the living crookedness of nature with the deadening straightness of industrial modernity and 'commercial anarchy'.
@@ -48,14 +48,14 @@ tags:
 
 ## Connections
 
-**Settings:** [[Enchanted Wood (2)]]
+**Settings:** [[settings/enchanted-wood-(2)|Enchanted Wood (2)]]
 
-**Topoi:** [[Sublime in Nature]]
+**Topoi:** [[topoi/sublime-in-nature|Sublime in Nature]]
 
-**Motifs:** [[Nature]], [[Machine]], [[Light and Dark]], [[Uncanny]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Critique of Progress]], [[Nature vs Civilization]], [[Wonder and Gratitude]], [[Democracy]], [[Order vs Chaos]], [[Money and Avarice]], [[Common Man]], [[Economics]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Historical References:** [[Industrial Revolution]]
+**Motifs:** [[concepts/nature|Nature]], [[motifs/machine|Machine]], [[motifs/light-and-dark|Light and Dark]], [[concepts/uncanny|Uncanny]]
+**Themes & Concepts:** [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/democracy|Democracy]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/common-man|Common Man]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]]
 
 ## Testo integrale / Full text
 

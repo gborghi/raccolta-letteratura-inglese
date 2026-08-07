@@ -480,6 +480,15 @@ table.lt-table td.lt-num:last-child {
 .concept-works {
   margin: 1rem 0;
 }
+// The server-rendered works list behind the table: present so the works are linked
+// in the HTML (and in the link graph), hidden because the table shows the same
+// thing. conceptWorks unhides it when it cannot render.
+.concept-works-fallback {
+  display: none;
+}
+.concept-works-fallback[data-shown="1"] {
+  display: block;
+}
 .qtable-searchrow .cw-search {
   flex: 1 1 16rem;
   margin: 0;
@@ -2082,8 +2091,32 @@ footer ul {
   row-gap: 0.35rem;
 }
 
+// The plugin dims the whole colophon with footer{opacity:.7}, and an opacity on the
+// parent is a ceiling no child can climb back out of — so carry the dimming on the
+// items instead, and leave the disclosure at full strength.
+footer {
+  opacity: 1;
+}
+
+footer > p,
+footer li {
+  opacity: 0.7;
+}
+
+// Measured on a 390px viewport, the disclosure rendered at 10.9px, grey, at .7: present
+// but unreadable on a phone. It states that the translations are machine-made, so it
+// leads the list, on its own line, at a size a reader can actually take in.
 footer li:has(> a[href="/intelligenza-artificiale"]) {
   flex-basis: 100%;
+  order: -1;
+  opacity: 1;
+  font-size: 0.82rem;
+}
+
+footer li:has(> a[href="/intelligenza-artificiale"]) > a {
+  color: var(--darkgray);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
 }
 
 // ---- axis-grouped tag chips (axisTags.inline.ts) ----

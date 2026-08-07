@@ -14,4 +14,12 @@ The "Merry Monarch" analysed in his own chapter as a shrewd, underrated politica
 
 <div class="concept-works" data-slug="characters/charles-ii"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/all-i-survey-(chesterton)|All I Survey (Chesterton)]]
+- [[works/twelve-types-(chesterton)|Twelve Types (Chesterton)]]
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+
+</div>
+
 #graph/character

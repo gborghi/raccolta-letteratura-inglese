@@ -14,4 +14,10 @@ Thomas's feudal father, who tries to smooth the family scandal by making his son
 
 <div class="concept-works" data-slug="characters/count-landulf"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/runabbot-(chesterton)|runabbot (Chesterton)]]
+
+</div>
+
 #graph/character

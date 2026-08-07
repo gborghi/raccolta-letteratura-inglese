@@ -14,4 +14,10 @@ Tolstoy's governing principle that all ethics, art, and daily habits must be red
 
 <div class="concept-works" data-slug="concepts/simplification-of-life"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/tolstoy-(chesterton)|tolstoy (Chesterton)]]
+
+</div>
+
 #graph/concept

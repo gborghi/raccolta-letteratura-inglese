@@ -14,4 +14,10 @@ A noblewoman of Assisi who flees her family at seventeen to follow Francis and f
 
 <div class="concept-works" data-slug="characters/st.-clare-of-assisi"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/st-francis-(chesterton)|St Francis (Chesterton)]]
+
+</div>
+
 #graph/character

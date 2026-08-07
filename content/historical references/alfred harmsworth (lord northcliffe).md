@@ -14,4 +14,10 @@ The press baron dissected in 'Northcliffe' as a man without ideas whose wealth a
 
 <div class="concept-works" data-slug="historical-references/alfred-harmsworth-(lord-northcliffe)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/man-orthodox-(chesterton)|Man Orthodox (Chesterton)]]
+
+</div>
+
 #graph/histref

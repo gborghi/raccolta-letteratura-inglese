@@ -12,4 +12,12 @@ tags:
 
 <div class="concept-works" data-slug="characters/nicodemus-boffin"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/dickens-britannica-(chesterton)|dickens Britannica (Chesterton)]]
+- [[works/our-mutual-friend-(dickens)|Our Mutual Friend (Dickens)]]
+
+</div>
+
 #graph/character

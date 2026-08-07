@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/tarquin"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-rape-of-lucrece-(shakespeare)|THE RAPE OF LUCRECE (Shakespeare)]]
+
+</div>
+
 #graph/character

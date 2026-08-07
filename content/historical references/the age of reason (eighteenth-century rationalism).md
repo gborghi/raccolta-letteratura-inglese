@@ -14,4 +14,10 @@ The eighteenth-century rationalist eclipse of Christian theology, traced from Mo
 
 <div class="concept-works" data-slug="historical-references/the-age-of-reason-(eighteenth-century-rationalism)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/spice-of-life-(chesterton)|Spice Of Life (Chesterton)]]
+
+</div>
+
 #graph/histref

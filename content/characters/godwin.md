@@ -14,4 +14,10 @@ Radical philosopher and friend of Shelley whose optimistic hopes for social just
 
 <div class="concept-works" data-slug="characters/godwin"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/social-reform-b.c-(chesterton)|Social Reform B.C (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/prince-paul-maraloffski"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/vera,-or-the-nihilists-(wilde)|Vera, or The Nihilists (Wilde)]]
+
+</div>
+
 #graph/character

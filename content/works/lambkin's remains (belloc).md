@@ -25,7 +25,7 @@ tags:
   - archetype/pharisee
   - archetype/the_teacher
 ---
-*by Belloc*  ·  **Cluster:** [[Familiar Essay · Paradox · The Common Man]]
+*by Belloc*  ·  **Cluster:** [[clusters/familiar-essay-·-paradox-·-the-common-man|Familiar Essay · Paradox · The Common Man]]
 
 > [!abstract] 
 > A satirical collection presenting the fictitious Oxford don Mr. Lambkin through his prose pieces, sermons, lectures and correspondence, mercilessly parodying the pompous, hollow academic style of the university establishment. Framed by a Rabelaisian dedicatory ode to the Republican Club, it mocks progressivism, cant and donnish self-importance.
@@ -65,10 +65,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Satire]], [[Parody]], [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Satire of Society]], [[Classical Education]], [[Hypocrisy]], [[Vanity]], [[Critique of Progress]], [[Conformity vs Individualism]]
-**Motifs:** [[Book Reading]], [[Letters and Writing]], [[Wine and Drink]]
-**Settings:** [[Oxford]]
-**Archetypes:** [[Pharisee]], [[The Teacher]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/parody|Parody]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/classical-education|Classical Education]], [[concepts/hypocrisy|Hypocrisy]], [[concepts/vanity|Vanity]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]]
+**Motifs:** [[motifs/book-reading|Book Reading]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/wine-and-drink|Wine and Drink]]
+**Settings:** [[settings/oxford|Oxford]]
+**Archetypes:** [[archetypes/pharisee|Pharisee]], [[archetypes/the-teacher|The Teacher]]
 
-**Also relevant to:** [[Self-Knowledge · Immortality · Self-Reliance]]
+**Also relevant to:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]

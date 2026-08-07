@@ -14,4 +14,12 @@ Real-life English secularist journalist and author, named directly in the essay'
 
 <div class="concept-works" data-slug="historical-references/robert-blatchford"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/roots-of-the-world-(chesterton)|Roots of the World (Chesterton)]]
+- [[works/christianity-and-rationalism-(chesterton)|Christianity and Rationalism (Chesterton)]]
+- [[works/preface-to-'kai-lung's-golden-hours'-(belloc)|Preface to 'Kai Lung's Golden Hours' (Belloc)]]
+
+</div>
+
 #graph/histref

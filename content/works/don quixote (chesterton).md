@@ -56,7 +56,7 @@ tags:
 
 # Don Quixote
 
-*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Chesterton*  ·  **Cluster:** [[clusters/satire-of-society-·-epigram-·-satire|Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > Satirical novel and 'parable for social reformers' in which a librarian reenacts the Middle Ages and becomes a quixotic knight-errant, blending medievalist romance, distributist politics, and conversion.
@@ -70,15 +70,15 @@ tags:
 
 ## Connections
 
-**Settings:** [[Industrial City]], [[Rural England]]
+**Settings:** [[settings/industrial-city|Industrial City]], [[settings/rural-england|Rural England]]
 
-**Topoi:** [[Quest]], [[World Upside Down]], [[Open Road Homecoming]]
-**Archetypes:** [[Quest Hero]], [[Fool]], [[King]], [[Rebel]]
-**Motifs:** [[Concealment Hidden Identity]], [[Clothing and Costume]], [[Ruins the Abbey]], [[Lion]]
-**Themes & Concepts:** [[Madness]], [[Appearance vs Reality]], [[Distributism]], [[Nostalgia]], [[Satire of Society]], [[Conversion]], [[Romantic Love]], [[Class Conflict]], [[Kingship and Legitimacy]], [[Labor and Work]], [[Identity]], [[Democracy]], [[Economics]], [[History]]
-**Forms & Genres:** [[Novel]], [[Satire]], [[Parable]]
-**Historical References:** [[Medieval England]], [[Catholic Church]], [[Arthurian Legend]], [[Crusades]], [[French Revolution]], [[Industrial Revolution]]
-**Characters:** [[Don Quixote]], [[Michael Herne]], [[John Braintree]], [[Douglas Murrel]], [[Olive Ashley]], [[Rosamund Severne]], [[Julian Archer]], [[Lord Seawood]], [[Lord Eden]]
+**Topoi:** [[topoi/quest|Quest]], [[topoi/world-upside-down|World Upside Down]], [[topoi/open-road-homecoming|Open Road Homecoming]]
+**Archetypes:** [[archetypes/quest-hero|Quest Hero]], [[archetypes/fool|Fool]], [[archetypes/king|King]], [[archetypes/rebel|Rebel]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/lion|Lion]]
+**Themes & Concepts:** [[concepts/madness|Madness]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/distributism|Distributism]], [[concepts/nostalgia|Nostalgia]], [[concepts/satire-of-society|Satire of Society]], [[concepts/conversion|Conversion]], [[concepts/romantic-love|Romantic Love]], [[concepts/class-conflict|Class Conflict]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/labor-and-work|Labor and Work]], [[concepts/identity|Identity]], [[concepts/democracy|Democracy]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]], [[forms/parable|Parable]]
+**Historical References:** [[historical-references/medieval-england|Medieval England]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/arthurian-legend|Arthurian Legend]], [[historical-references/crusades|Crusades]], [[historical-references/french-revolution|French Revolution]], [[historical-references/industrial-revolution|Industrial Revolution]]
+**Characters:** [[characters/don-quixote|Don Quixote]], [[characters/michael-herne|Michael Herne]], [[characters/john-braintree|John Braintree]], [[characters/douglas-murrel|Douglas Murrel]], [[characters/olive-ashley|Olive Ashley]], [[characters/rosamund-severne|Rosamund Severne]], [[characters/julian-archer|Julian Archer]], [[characters/lord-seawood|Lord Seawood]], [[characters/lord-eden|Lord Eden]]
 
 ## Testo integrale / Full text
 

@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/horatio"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/hamlet-(shakespeare)|HAMLET (Shakespeare)]]
+
+</div>
+
 #graph/character

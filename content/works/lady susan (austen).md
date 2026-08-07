@@ -29,7 +29,7 @@ tags:
   - character/mrs_johnson
 ---
 
-*by Austen*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
+*by Austen*  ·  **Cluster:** [[clusters/greek-mythology-·-lust-sexual-desire-·-desire|Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 
 > An early epistolary novella whose anti-heroine, the beautiful, scheming widow Lady Susan, manipulates suitors and her own daughter; themes of deception, seduction, marriage as strategy, and feminine cunning.
@@ -75,13 +75,13 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Femme Fatale]], [[Temptress]]
-**Motifs:** [[Letters and Writing]], [[Marriage]]
-**Themes & Concepts:** [[Deception]], [[Marriage and Fidelity]], [[Appearance vs Reality]], [[Lust Sexual Desire]], [[Satire of Society]], [[Romantic Love]]
-**Forms & Genres:** [[Novel]], [[Social Novel (Novel of Manners)]], [[Satire]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[Rural England]]
-**Characters:** [[Lady Susan Vernon]], [[Reginald De Courcy]], [[Catherine Vernon]], [[Frederica Vernon]], [[Mrs Johnson]]
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]], [[archetypes/temptress|Temptress]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]], [[motifs/marriage|Marriage]]
+**Themes & Concepts:** [[concepts/deception|Deception]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/satire-of-society|Satire of Society]], [[concepts/romantic-love|Romantic Love]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/satire|Satire]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Characters:** [[characters/lady-susan-vernon|Lady Susan Vernon]], [[characters/reginald-de-courcy|Reginald De Courcy]], [[characters/catherine-vernon|Catherine Vernon]], [[characters/frederica-vernon|Frederica Vernon]], [[characters/mrs-johnson|Mrs Johnson]]
 
 ## Testo integrale / Full text
 

@@ -14,4 +14,10 @@ The pessimistic Warden of Brakespeare College whom Smith is accused of having mu
 
 <div class="concept-works" data-slug="characters/emerson-eames"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/manalive-(chesterton)|manalive (Chesterton)]]
+
+</div>
+
 #graph/character

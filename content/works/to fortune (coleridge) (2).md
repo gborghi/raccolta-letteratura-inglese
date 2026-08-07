@@ -17,17 +17,17 @@ tags:
   - concept/fate_and_free_will
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Money and Gold · Poverty · Imprisonment]]
+*by Coleridge*  ·  **Cluster:** [[clusters/money-and-gold-·-poverty-·-imprisonment|Money and Gold · Poverty · Imprisonment]]
 
 > [!abstract] 
 > Mock-serious ode addressing blindfold Fortune on buying a lottery ticket; gold, hope, poverty and the flower of hope. Satirical occasional lyric.
 
 ## Connections
 
-**Topoi:** [[Fortune's Wheel]]
-**Motifs:** [[Money and Gold]], [[Flowers]]
-**Themes & Concepts:** [[Hope]], [[Poverty]], [[Satire of Society]], [[Fate and Free Will]]
-**Forms & Genres:** [[Ode]]
+**Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/flowers|Flowers]]
+**Themes & Concepts:** [[concepts/hope|Hope]], [[concepts/poverty|Poverty]], [[concepts/satire-of-society|Satire of Society]], [[concepts/fate-and-free-will|Fate and Free Will]]
+**Forms & Genres:** [[forms/ode|Ode]]
 
 ## Testo integrale / Full text
 

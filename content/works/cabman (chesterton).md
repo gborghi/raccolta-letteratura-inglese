@@ -28,7 +28,7 @@ tags:
 
 # cabman
 
-*by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
+*by Chesterton*  ·  **Cluster:** [[clusters/artist-and-society-·-truth-·-regency-georgian-england|Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > A 'tremendous trifle' essay-parable in which an honest but mistaken cabman becomes the occasion for reflecting on certainty, scepticism and the defence of common-sense reality against philosophical doubt.
@@ -47,15 +47,15 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Common Man (2)]], [[Satanic Figure]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/satanic-figure|Satanic Figure]]
 
-**Motifs:** [[Light and Dark]]
+**Motifs:** [[motifs/light-and-dark|Light and Dark]]
 
-**Characters:** [[The Extraordinary Cabman]], [[H.G. Wells]]
+**Characters:** [[characters/the-extraordinary-cabman|The Extraordinary Cabman]], [[historical-references/h.g.-wells|H.G. Wells]]
 
-**Themes & Concepts:** [[Doubt]], [[Truth]], [[Appearance vs Reality]], [[Common Man]], [[Temptation]], [[Democracy]], [[Fate and Free Will]], [[Paradox]]
-**Forms & Genres:** [[Essay]], [[Parable]], [[Nonfiction]]
-**Settings:** [[London]]
+**Themes & Concepts:** [[concepts/doubt|Doubt]], [[concepts/truth|Truth]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/common-man|Common Man]], [[concepts/temptation|Temptation]], [[concepts/democracy|Democracy]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/paradox|Paradox]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/parable|Parable]], [[forms/nonfiction|Nonfiction]]
+**Settings:** [[settings/london|London]]
 
 ## Testo integrale / Full text
 

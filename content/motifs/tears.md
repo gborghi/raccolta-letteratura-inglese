@@ -12,4 +12,12 @@ tags:
 
 <div class="concept-works" data-slug="motifs/tears"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/prayer-(chesterton)|prayer (Chesterton)]]
+- [[testi/coleridge/atomized/friendship-tears#017_on_a_lady_weeping|ON A LADY WEEPING (Coleridge)]]
+- [[works/a-lover’s-complaint-(shakespeare)|A Lover’s Complaint (Shakespeare)]]
+
+</div>
+
 #graph/motif

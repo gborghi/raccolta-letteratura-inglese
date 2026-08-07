@@ -19,18 +19,18 @@ tags:
   - archetype/prophetess_seer
 ---
 
-*by Eliot*  ·  **Cluster:** [[Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
+*by Eliot*  ·  **Cluster:** [[clusters/spiritual-emptiness-·-waste-land-(sterility)-·-greek-tragedy|Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
 
 > [!abstract] 
 > First section of The Waste Land: 'April is the cruellest month', the hyacinth garden, Madame Sosostris's tarot and the Unreal City crossing London Bridge; memory, desire, sterility and death-in-life.
 
 ## Connections
 
-**Archetypes:** [[Prophetess Seer]]
-**Motifs:** [[Seasons]], [[Spring]], [[Dust]], [[Supernatural]], [[City]]
-**Themes & Concepts:** [[Waste Land (Sterility)]], [[Memory and Time]]
-**Historical References:** [[Dante]]
-**Settings:** [[London]]
+**Archetypes:** [[archetypes/prophetess-seer|Prophetess Seer]]
+**Motifs:** [[motifs/seasons|Seasons]], [[motifs/spring|Spring]], [[motifs/dust|Dust]], [[motifs/supernatural|Supernatural]], [[motifs/city|City]]
+**Themes & Concepts:** [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/memory-and-time|Memory and Time]]
+**Historical References:** [[historical-references/dante|Dante]]
+**Settings:** [[settings/london|London]]
 
 ## Testo integrale / Full text
 

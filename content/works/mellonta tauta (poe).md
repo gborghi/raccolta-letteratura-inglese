@@ -25,7 +25,7 @@ tags:
   - setting/a_ship
 ---
 
-*by Poe*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Poe*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > Satirical epistolary science-fiction set in 2848, a balloon-borne letter mocking democracy, scientific method and human progress; a manuscript-in-a-bottle frame satirizing the future's contempt for the past.
@@ -48,13 +48,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]], [[Eternal Return]]
-**Archetypes:** [[Tyrant]]
-**Motifs:** [[Time]], [[Journey]], [[Letters and Writing]], [[Ruins the Abbey]], [[Stars]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Transience]], [[Imagination]]
-**Forms & Genres:** [[Satire]], [[Short Story]]
-**Historical References:** [[Industrial Revolution]]
-**Settings:** [[Ship]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/eternal-return|Eternal Return]]
+**Archetypes:** [[archetypes/tyrant|Tyrant]]
+**Motifs:** [[motifs/time|Time]], [[motifs/journey|Journey]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/ruins-the-abbey|Ruins the Abbey]], [[motifs/stars|Stars]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/transience|Transience]], [[concepts/imagination|Imagination]]
+**Forms & Genres:** [[forms/satire|Satire]], [[forms/short-story|Short Story]]
+**Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]]
+**Settings:** [[motifs/ship|Ship]]
 
 ## Testo integrale / Full text
 

@@ -52,7 +52,7 @@ tags:
   - character/mrs_allonby
 ---
 
-*by Wilde*  ·  **Cluster:** [[World Upside Down · Comedy]]
+*by Wilde*  ·  **Cluster:** [[clusters/world-upside-down-·-comedy|World Upside Down · Comedy]]
 
 > [!abstract] 
 > Wilde's 1893 society comedy turning on the dandy Lord Illingworth, his abandoned former lover Mrs. Arbuthnot and their illegitimate son; an epigram-laden satire of the English aristocracy that exposes the double standard punishing the fallen woman while the man goes free.
@@ -121,14 +121,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Fall from Innocence]], [[World Upside Down]], [[Paradise Lost]]
-**Archetypes:** [[(Reputed) Fallen Woman]], [[Great Mother]], [[Martyr Saint]], [[Temptress]], [[Innocent]], [[Outsider]]
-**Motifs:** [[Marriage]], [[Childhood]], [[Letters and Writing]], [[Mirror]], [[Clothing and Costume]], [[Garden]], [[Memory]]
-**Themes & Concepts:** [[Satire of Society]], [[Social Injustice]], [[Sin and the Fall]], [[Martyrdom]], [[Marriage and Fidelity]], [[Guilt]], [[Grief and Loss]], [[Revenge]], [[Innocence and Experience]], [[Temptation]], [[Class Conflict]], [[Grace and Redemption]], [[Economics]]
-**Forms & Genres:** [[Comedy]], [[Satire]], [[Epigram]], [[Problem Play]]
-**Historical References:** [[Regency Georgian England]], [[Bible]]
-**Settings:** [[Rural England]], [[Court]]
-**Characters:** [[Lord Illingworth]], [[Mrs Arbuthnot]], [[Gerald Arbuthnot]], [[Hester Worsley]], [[Lady Hunstanton]], [[Mrs Allonby]]
+**Topoi:** [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/world-upside-down|World Upside Down]], [[topoi/paradise-lost|Paradise Lost]]
+**Archetypes:** [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/great-mother|Great Mother]], [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/temptress|Temptress]], [[archetypes/innocent|Innocent]], [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/marriage|Marriage]], [[motifs/childhood|Childhood]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/mirror|Mirror]], [[motifs/clothing-and-costume|Clothing and Costume]], [[motifs/garden|Garden]], [[motifs/memory|Memory]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/social-injustice|Social Injustice]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/martyrdom|Martyrdom]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/guilt|Guilt]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/revenge|Revenge]], [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/temptation|Temptation]], [[concepts/class-conflict|Class Conflict]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/comedy|Comedy]], [[forms/satire|Satire]], [[forms/epigram|Epigram]], [[forms/problem-play|Problem Play]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]], [[historical-references/bible|Bible]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/court|Court]]
+**Characters:** [[characters/lord-illingworth|Lord Illingworth]], [[characters/mrs-arbuthnot|Mrs Arbuthnot]], [[characters/gerald-arbuthnot|Gerald Arbuthnot]], [[characters/hester-worsley|Hester Worsley]], [[characters/lady-hunstanton|Lady Hunstanton]], [[characters/mrs-allonby|Mrs Allonby]]
 
 ## Testo integrale / Full text
 

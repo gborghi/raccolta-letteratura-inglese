@@ -14,4 +14,10 @@ Real politician directly addressed and mocked throughout the satirical ode Antic
 
 <div class="concept-works" data-slug="characters/f.e.-smith"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/poems-(chesterton)|Poems (Chesterton)]]
+
+</div>
+
 #graph/character

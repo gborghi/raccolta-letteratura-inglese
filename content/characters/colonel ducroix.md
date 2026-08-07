@@ -14,4 +14,10 @@ The French Legion of Honour officer who seconds the duel with the Marquis and lo
 
 <div class="concept-works" data-slug="characters/colonel-ducroix"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thursday-(chesterton)|thursday (Chesterton)]]
+
+</div>
+
 #graph/character

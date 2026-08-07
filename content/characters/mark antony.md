@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/mark-antony"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/antony-and-cleopatra-(shakespeare)|ANTONY AND CLEOPATRA (Shakespeare)]]
+- [[works/julius-caesar-(shakespeare)|JULIUS CAESAR (Shakespeare)]]
+
+</div>
+
 #graph/character

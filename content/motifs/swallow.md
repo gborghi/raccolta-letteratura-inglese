@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="motifs/swallow"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-happy-prince-(wilde)|The Happy Prince (Wilde)]]
+
+</div>
+
 #graph/motif

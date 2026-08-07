@@ -68,7 +68,7 @@ OF PHILADELPHIA.
 
 INTRODUCTION
 
-The parents of the learned [[Child|child]]
+The parents of the learned [[archetypes/child|child]]
 
 (His father and his mother)
 
@@ -80,7 +80,7 @@ On creatures curious, rare and wild;
 
 And wondering, asked each other:
 
-“An idle little [[Child|child]] like this,
+“An idle little [[archetypes/child|child]] like this,
 
 How is it that he knows
 
@@ -178,7 +178,7 @@ The Porcupine
 
 What! would you slap the Porcupine?
 
-Unhappy [[Child|child]] — desist!
+Unhappy [[archetypes/child|child]] — desist!
 
 Alas! that any friend of mine
 
@@ -436,7 +436,7 @@ Di Filadelfia.
 
 INTRODUCTION
 
-The parents of the learned [[Child|child]]
+The parents of the learned [[archetypes/child|child]]
 
 (His father and his mother)
 
@@ -448,7 +448,7 @@ On creatures curious, rare and wild;
 
 And wondering, asked each other:
 
-“An idle little [[Child|child]] like this,
+“An idle little [[archetypes/child|child]] like this,
 
 How is it that he knows
 
@@ -501,9 +501,9 @@ But for this little book.”
 
 Introduzione
 
-I genitori del dotto [[Child|>bambino]]
+I genitori del dotto [[archetypes/child|>bambino]]
 
-#Suo padre e sua madre
+Suo padre e sua madre
 
 Titolo:  
 Fummo profondamente sconvolti nel constatare…
@@ -514,7 +514,7 @@ Su creature curiose, rare e selvagge;
 
 E chiedendosi l’un l’altro…
 
-“Un piccolo [[Child|bambino]] inutile come questo, ”
+“Un piccolo [[archetypes/child|bambino]] inutile come questo, ”
 
 Come fa ad saperlo?
 
@@ -534,7 +534,7 @@ O perché il Wanderoo dovrebbe lamentarsi
 
 "In selvagge e senza senso rime..."
 
-# Dove si trova l’elefante indiano
+Dove si trova l’elefante indiano
 
 Leggerò solo il “The Times”.
 
@@ -542,7 +542,7 @@ Forse trovò un modo per sfuggire.
 
 Nel parco zoologico, inosservato…
 
-# Diede un suggerimento al Pachiderma
+Diede un suggerimento al Pachiderma
 
 Oppure pompava il “Wanderoo”.
 
@@ -550,7 +550,7 @@ O forse grazie a un piano astuto
 
 Ingannò i nostri occhi attenti.
 
-# E ha intervistato il Pelicano
+E ha intervistato il Pelicano
 
 “Chi è estremamente saggio.”
 
@@ -604,11 +604,11 @@ The Snake is living yet.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Il Pitone
+Il Pitone
 
-# Una Python che non dovrei consigliare…
+Una Python che non dovrei consigliare…
 
-#Ha bisogno di un dottore per i suoi occhi
+Ha bisogno di un dottore per i suoi occhi
 
 E ogni anno contrae il morbillo.
 
@@ -630,9 +630,9 @@ Chi ha comprato un pitone da un uomo
 
 E lo tenne come animale domestico.
 
-# Morì, perché non lo seppe mai
+Morì, perché non lo seppe mai
 
-# Queste semplici regole…
+Queste semplici regole…
 
 La Serpente è ancora viva.
 
@@ -660,9 +660,9 @@ But then — observe his face!
 
 Il montone gallese
 
-# La pecora gallese del periodo Cambriano
+La pecora gallese del periodo Cambriano
 
-# Appartiene alla razza ovina
+Appartiene alla razza ovina
 
 La sua conversazione non è profonda.
 
@@ -679,7 +679,7 @@ The Porcupine
 
 What! would you slap the Porcupine?
 
-Unhappy [[Child|child]] — desist!
+Unhappy [[archetypes/child|child]] — desist!
 
 Alas! that any friend of mine
 
@@ -696,7 +696,7 @@ With prickles on its skin.
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Il porcospino
+Il porcospino
 
 Cosa! Vorresti schiaffeggiare il Porcospino?
 
@@ -704,13 +704,13 @@ Un bambino infelice, smettila!
 
 Ahimè… che qualcuno dei miei amici…
 
-# Dovrebbe diventare un filisteo.
+Dovrebbe diventare un filisteo.
 
 Colpire i più meschini e i meno importanti
 
-# Di creature è un peccato
+Di creature è un peccato
 
-# Quanto più grave è battere una bestia
+Quanto più grave è battere una bestia
 
 Con delle spine sulla sua pelle.
 
@@ -738,9 +738,9 @@ Il Scorpione
 
 Il Scorpione è nero come la fuliggine.
 
-#Gli piace mordere molto…
+Gli piace mordere molto…
 
-# Un individuo davvero spiacevole
+Un individuo davvero spiacevole
 
 Trovarlo a letto, di notte.
 
@@ -810,32 +810,32 @@ Questa creatura così maestosa e imponente nella sua età…
 
 Nella sua giovinezza, nasce da un uovo.
 
-#Spesso, in qualche remota città copta…
+Spesso, in qualche remota città copta…
 
-#Il missionario lo fa sedere
+Il missionario lo fa sedere
 
 A colazione sul Nilo:
 
 Il cuore sotto la sua veste sacerdotale
 
-# Incensato d’innocenza
+Incensato d’innocenza
 
-# Quando improvvisamente la severa fronte…
+Quando improvvisamente la severa fronte…
 
 Titolo:  
 Si osserva che il panico può soffocare.
 
 Il suo solito sorriso.
 
-# Perché inizia a correre e a saltare all’improvviso?
+Perché inizia a correre e a saltare all’improvviso?
 
-# E percorri le pianure sabbiose della Libia
+E percorri le pianure sabbiose della Libia
 
 Come chi vuole prendere un treno…
 
 O lotta con il dolore interno?
 
-#Perché trova che il suo uovo contenga…
+Perché trova che il suo uovo contenga…
 
 Verde, affamato, orribile e semplice…
 
@@ -877,15 +877,15 @@ Il Buefalo mangia tra un pasto e l’altro.
 
 E questa è la ragione per cui…
 
-# Raramente prova qualcosa
+Raramente prova qualcosa
 
 Anche tu e io.
 
-# Occhio spento, testa calva
+Occhio spento, testa calva
 
 Il suo collo sta diventando sempre più sottile.
 
-# Oh! Che lezione per tutti noi
+Oh! Che lezione per tutti noi
 
 Mangiare solo a cena!
 
@@ -921,7 +921,7 @@ Il tappetino da porta che vedi sulla sua testa
 
 Non è, come sostengono alcuni professori eruditi…
 
-# La rigogliosa crescita del cervello di un genio
+La rigogliosa crescita del cervello di un genio
 
 Ma viene cucito usando ago e filo.
 
@@ -957,7 +957,7 @@ Un’altra grande verità che registro nelle mie poesie…
 
 Alcune vipere sono velenose, altre no…
 
-# Un fatto che puoi verificare se ci provi
+Un fatto che puoi verificare se ci provi
 
 Ottenendo due vipere e facendole mordere…
 
@@ -1015,9 +1015,9 @@ Con un’espressione pigra e una gola ondulata
 
 Come un letterato fallito.
 
-# E conosco il posto dove vive
+E conosco il posto dove vive
 
-# Ecuador, Brasile o Cile… forse anche il Perù.
+Ecuador, Brasile o Cile… forse anche il Perù.
 
 Dovete trovarlo nell’Atlante, se possibile.
 
@@ -1031,9 +1031,9 @@ Per il primo si tratta di una creatura bella e preziosa…
 
 Ma quest’ultimo non è affatto amabile né utile in alcun modo.
 
-# Il ruminante è certamente preferibile al sacerdote
+Il ruminante è certamente preferibile al sacerdote
 
-# Chi si attacca alle orribili superstizioni dell’Oriente
+Chi si attacca alle orribili superstizioni dell’Oriente
 
 Il mongolo del monastero di Shan.
 
@@ -1069,9 +1069,9 @@ Il camoscio abita nelle zone montuose.
 
 Lucerna, dove le sue abitudini…
 
-# Mai sapere il perché…
+Mai sapere il perché…
 
-# Contrazioni improvvise e brevi
+Contrazioni improvvise e brevi
 
 Sul bordo di profonde voragini
 
@@ -1111,21 +1111,21 @@ The dainty is nearly unknown.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Il mammut congelato
+Il mammut congelato
 
-#Questa creatura, sebbene rara, si trova ancora nelle regioni orientali
+Questa creatura, sebbene rara, si trova ancora nelle regioni orientali
 
 Della Zona del Nord della Siberia.
 
-#È noto a tutto quel gruppo primitivo
+È noto a tutto quel gruppo primitivo
 
 Che la carcassa possa fornire una ottima zuppa.
 
 Sebbene il metodo di cottura offra almeno un svantaggio…
 
-# Un argomento di natura seria…
+Un argomento di natura seria…
 
-# Se la pelle viene solo perforata prima di essere bollita…
+Se la pelle viene solo perforata prima di essere bollita…
 
 La tua preparazione è completamente rovinata.
 
@@ -1187,11 +1187,11 @@ Ma molte persone ottimiste sperano
 
 Vederlo attraverso un microscopio.
 
-# La sua lingua articolata che giace sotto…
+La sua lingua articolata che giace sotto…
 
-# Cento file curiose di denti
+Cento file curiose di denti
 
-#Le sue sette code pennute e i loro numerosi elementi
+Le sue sette code pennute e i loro numerosi elementi
 
 Di adorabili macchie rosa e viola
 
@@ -1199,7 +1199,7 @@ Su ciascuno di essi è raffigurato un disegno.
 
 Composto da quaranta bande distinte;
 
-# Le sue sopracciglia di un tenero verde
+Le sue sopracciglia di un tenero verde
 
 Tutti questi elementi non sono mai stati visti prima…
 
@@ -1207,6 +1207,6 @@ Ma gli scienziati, che dovrebbero saperlo…
 
 Assicuraci che debbano essere proprio così.
 
-# Oh! Mai dubitare mai…
+Oh! Mai dubitare mai…
 
 Di cosa nessuno è sicuro.

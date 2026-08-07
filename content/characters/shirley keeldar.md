@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/shirley-keeldar"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/shirley-(bronte)|Shirley (Bronte)]]
+
+</div>
+
 #graph/character

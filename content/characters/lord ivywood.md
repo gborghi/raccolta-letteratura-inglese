@@ -14,4 +14,11 @@ The allegorical villain of the poem, an ivy-like aristocrat who clings to and ro
 
 <div class="concept-works" data-slug="characters/lord-ivywood"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/oak-(chesterton)|oak (Chesterton)]]
+- [[works/the-flying-inn-(chesterton)|The Flying Inn (Chesterton)]]
+
+</div>
+
 #graph/character

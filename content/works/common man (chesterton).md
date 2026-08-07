@@ -25,7 +25,7 @@ tags:
 
 # Common Man
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A posthumous collection of essays whose title piece argues that modern emancipation has actually persecuted the common man and common sense; ranges over literary criticism (Dickens, Tolstoi, Henry James, Browning), faith, philosophy and democracy.
@@ -61,9 +61,9 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Common Man]], [[Critique of Progress]], [[Satire of Society]], [[Distributism]], [[Faith]], [[Paradox]], [[Artist and Society]], [[Economics]]
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Apologetics]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Catholic Church]]
+**Themes & Concepts:** [[concepts/common-man|Common Man]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/satire-of-society|Satire of Society]], [[concepts/distributism|Distributism]], [[concepts/faith|Faith]], [[concepts/paradox|Paradox]], [[concepts/artist-and-society|Artist and Society]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]]
 
 ## Testo integrale / Full text
 

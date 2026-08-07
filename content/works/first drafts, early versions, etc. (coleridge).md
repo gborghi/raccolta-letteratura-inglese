@@ -26,19 +26,19 @@ tags:
   - character/christ
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Ship · Endurance]]
+*by Coleridge*  ·  **Cluster:** [[clusters/ship-·-endurance|Ship · Endurance]]
 
 > [!abstract] 
 > Early drafts of major poems — the Eolian Harp effusion, The Destiny of Nations, the 1798 Ancient Mariner, The Raven, Lewti, Dejection, Hymn before Sunrise, To Wordsworth, Youth and Age; supernatural, nature, imagination and grief across canonical works.
 
 ## Connections
 
-**Archetypes:** [[Outsider]]
-**Motifs:** [[Supernatural]], [[Sea]], [[Ship]], [[Ghosts]], [[Memory]]
-**Themes & Concepts:** [[Guilt]], [[Grace and Redemption]], [[Imagination]], [[Grief and Loss]], [[Romantic Love]], [[Sublime]]
-**Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]], [[Ode]]
-**Settings:** [[Ship]]
-**Characters:** [[Christ]]
+**Archetypes:** [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/sea|Sea]], [[motifs/ship|Ship]], [[motifs/ghosts|Ghosts]], [[motifs/memory|Memory]]
+**Themes & Concepts:** [[concepts/guilt|Guilt]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/imagination|Imagination]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/romantic-love|Romantic Love]], [[concepts/sublime|Sublime]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/narrative-poem|Narrative Poem]], [[forms/ode|Ode]]
+**Settings:** [[motifs/ship|Ship]]
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

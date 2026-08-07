@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/mr-sapsea"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/charlesdickens-(chesterton)|CharlesDickens (Chesterton)]]
+- [[works/the-mystery-of-edwin-drood-(dickens)|The Mystery of Edwin Drood (Dickens)]]
+
+</div>
+
 #graph/character

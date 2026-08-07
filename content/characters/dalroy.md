@@ -14,4 +14,10 @@ Patrick Dalroy, the swaggering roistering hero of Chesterton's novel The Flying 
 
 <div class="concept-works" data-slug="characters/dalroy"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/vegetarian-(chesterton)|vegetarian (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -18,16 +18,16 @@ tags:
   - histref/christianity
 ---
 
-*by Eliot*  ·  **Cluster:** [[Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
+*by Eliot*  ·  **Cluster:** [[clusters/spiritual-emptiness-·-waste-land-(sterility)-·-greek-tragedy|Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
 
 > [!abstract] 
 > Litany of straw-stuffed paralysed men in a dead cactus land where 'the Shadow' falls between idea and act; spiritual emptiness, paralysis, despair, fading prayer and the famous whimpering end of the world.
 
 ## Connections
 
-**Motifs:** [[Eyes and Sight]], [[Light and Dark]], [[Stars]], [[Rose]], [[Dreams]]
-**Themes & Concepts:** [[Spiritual Emptiness]], [[Waste Land (Sterility)]], [[Faith and Doubt]]
-**Historical References:** [[Christianity]]
+**Motifs:** [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/light-and-dark|Light and Dark]], [[motifs/stars|Stars]], [[motifs/rose|Rose]], [[motifs/dreams|Dreams]]
+**Themes & Concepts:** [[concepts/spiritual-emptiness|Spiritual Emptiness]], [[concepts/waste-land-(sterility)|Waste Land (Sterility)]], [[concepts/faith-and-doubt|Faith and Doubt]]
+**Historical References:** [[historical-references/christianity|Christianity]]
 
 ## Testo integrale / Full text
 

@@ -21,7 +21,7 @@ tags:
   - character/william_wilson
 ---
 
-*by Poe*  ·  **Cluster:** [[Supernatural · Uncanny · Double]]
+*by Poe*  ·  **Cluster:** [[clusters/supernatural-·-uncanny-·-double|Supernatural · Uncanny · Double]]
 
 > [!abstract] 
 > A doppelganger tale: the dissolute narrator is shadowed all his life by a double bearing his own name who thwarts his every vice, until he kills him and destroys himself; the double is his conscience. Themes of the double, conscience, guilt and identity.
@@ -46,12 +46,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Double]]
-**Archetypes:** [[Double Doppelganger]]
-**Motifs:** [[Mirror]], [[Ghosts]]
-**Themes & Concepts:** [[Conscience]], [[Guilt]], [[Identity]], [[Good vs Evil]], [[Terror and Horror]], [[Uncanny]]
-**Forms & Genres:** [[Short Story]]
-**Characters:** [[William Wilson]]
+**Topoi:** [[topoi/double|Double]]
+**Archetypes:** [[archetypes/double-doppelganger|Double Doppelganger]]
+**Motifs:** [[motifs/mirror|Mirror]], [[motifs/ghosts|Ghosts]]
+**Themes & Concepts:** [[concepts/conscience|Conscience]], [[concepts/guilt|Guilt]], [[concepts/identity|Identity]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/uncanny|Uncanny]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
+**Characters:** [[characters/william-wilson|William Wilson]]
 
 ## Testo integrale / Full text
 

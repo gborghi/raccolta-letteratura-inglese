@@ -25,7 +25,7 @@ tags:
   - setting/london
   - archetype/self_made_man
 ---
-*by Belloc*  ·  **Cluster:** [[Satirical Novel · Politics and Finance · Edwardian England]]
+*by Belloc*  ·  **Cluster:** [[clusters/satirical-novel-·-politics-and-finance-·-edwardian-england|Satirical Novel · Politics and Finance · Edwardian England]]
 
 > [!abstract] 
 > A satirical novel built on the proverb that one man may steal a horse while another may not look over a hedge — a fable of Fate's injustice in money and reputation. It opens with the tale of the reclusive New York usurer John Scott Guthrie, who amasses a fortune and settles a watched, teetotal-conditioned allowance on his feckless English nephew Wilfred Straddle.
@@ -36,9 +36,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]], [[Satire]]
-**Themes & Concepts:** [[Money and Avarice]], [[Greed and Money]], [[Hypocrisy]], [[Justice Right and Wrong]], [[Temperance and Teetotalism]], [[Capitalism]], [[Economics]]
-**Motifs:** [[Money and Gold]], [[Wine and Drink]], [[Great House]], [[Letters and Writing]]
-**Historical References:** [[America]]
-**Settings:** [[New York]], [[London]]
-**Archetypes:** [[Self-Made Man]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]]
+**Themes & Concepts:** [[concepts/money-and-avarice|Money and Avarice]], [[concepts/greed-and-money|Greed and Money]], [[concepts/hypocrisy|Hypocrisy]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/temperance-and-teetotalism|Temperance and Teetotalism]], [[concepts/capitalism|Capitalism]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/great-house|Great House]], [[motifs/letters-and-writing|Letters and Writing]]
+**Historical References:** [[settings/america|America]]
+**Settings:** [[settings/new-york|New York]], [[settings/london|London]]
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]]

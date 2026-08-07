@@ -14,4 +14,10 @@ The Irish-land-reforming statesman and poet whom Chesterton eulogizes as a domes
 
 <div class="concept-works" data-slug="characters/george-wyndham"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-uses-of-diversity-(chesterton)|The Uses of Diversity (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ Chesterton's parodied philanthropist who boasts of loving his fellow-men while s
 
 <div class="concept-works" data-slug="characters/abou-ben-adhem"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/abou-ben-adhem-(chesterton)|Abou ben Adhem (Chesterton)]]
+
+</div>
+
 #graph/character

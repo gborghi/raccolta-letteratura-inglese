@@ -23,7 +23,7 @@ Short-haired, all angles, looking like a man.
 
 But let the wine be unfermented, Pale,  
 Of chemicals compounded, God knows how--  
-This were indeed the [[Prophet]]'s Paradise,  
+This were indeed the [[archetypes/prophet|Prophet]]'s Paradise,  
 O Paradise were Wilderness enow.
 
 
@@ -38,7 +38,7 @@ dai capelli corti, tutta spigoli, con l'aria d'un uomo.
 
 Ma che il vino sia non fermentato, Pallido,  
 di sostanze chimiche composto, Dio sa come--  
-questo sarebbe davvero il Paradiso del [[Prophet|Profeta]],  
+questo sarebbe davvero il Paradiso del [[archetypes/prophet|Profeta]],  
 oh, il Paradiso sarebbe Deserto a sufficienza.
 
 
@@ -55,7 +55,7 @@ Short-haired, all angles, looking like a man.
 
 But let the wine be unfermented, Pale,  
 Of chemicals compounded, God knows how--  
-This were indeed the [[Prophet]]'s Paradise,  
+This were indeed the [[archetypes/prophet|Prophet]]'s Paradise,  
 O Paradise were Wilderness enow.
 
 
@@ -70,5 +70,5 @@ dai capelli corti, tutta spigoli, con l'aria d'un uomo.
 
 Ma che il vino sia non fermentato, Pallido,  
 di sostanze chimiche composto, Dio sa come--  
-questo sarebbe davvero il Paradiso del [[Prophet|Profeta]],  
+questo sarebbe davvero il Paradiso del [[archetypes/prophet|Profeta]],  
 oh, il Paradiso sarebbe Deserto a sufficienza.

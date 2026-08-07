@@ -37,7 +37,7 @@ tags:
   - character/yorke_hunsden
 ---
 
-*by Bronte*  ·  **Cluster:** [[Education · Self-Made Man · Wheel]]
+*by Bronte*  ·  **Cluster:** [[clusters/education-·-self-made-man-·-wheel|Education · Self-Made Man · Wheel]]
 
 > [!abstract] 
 > Charlotte Bronte's first novel (written before Jane Eyre, published 1857), the first-person account of William Crimsworth who works his way from trade through teaching in Brussels, falling in love with his pupil-teacher Frances; a sober realist Bildungsroman on self-reliance, work earned by merit, love and self-discipline.
@@ -54,12 +54,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Self-Made Man]], [[Lover]], [[Outsider]]
-**Motifs:** [[Money and Gold]], [[Letters and Writing]]
-**Themes & Concepts:** [[Self-Reliance and Earned Success]], [[Romantic Love]], [[Marriage and Fidelity]], [[Education]], [[Identity]], [[Class Conflict]], [[Self-Knowledge]], [[Maturation and Growth]], [[Faith]], [[Common Man]], [[Economics]]
-**Forms & Genres:** [[Novel]], [[Bildungsroman]], [[Fictional Autobiography]], [[Nonfiction]]
-**Settings:** [[Industrial City]], [[Continental Europe (Brussels)]]
-**Characters:** [[William Crimsworth]], [[Frances Henri]], [[Edward Crimsworth]], [[Monsieur Pelet]], [[Zoraide Reuter]], [[Yorke Hunsden]]
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]], [[archetypes/lover|Lover]], [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/letters-and-writing|Letters and Writing]]
+**Themes & Concepts:** [[concepts/self-reliance-and-earned-success|Self-Reliance and Earned Success]], [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/education|Education]], [[concepts/identity|Identity]], [[concepts/class-conflict|Class Conflict]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/faith|Faith]], [[concepts/common-man|Common Man]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/bildungsroman|Bildungsroman]], [[forms/fictional-autobiography|Fictional Autobiography]], [[forms/nonfiction|Nonfiction]]
+**Settings:** [[settings/industrial-city|Industrial City]], [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]]
+**Characters:** [[characters/william-crimsworth|William Crimsworth]], [[characters/frances-henri|Frances Henri]], [[characters/edward-crimsworth|Edward Crimsworth]], [[characters/monsieur-pelet|Monsieur Pelet]], [[characters/zoraide-reuter|Zoraide Reuter]], [[characters/yorke-hunsden|Yorke Hunsden]]
 
 ## Testo integrale / Full text
 

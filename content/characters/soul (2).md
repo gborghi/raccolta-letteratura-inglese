@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/soul-(2)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-fisherman-and-his-soul-(wilde)|The Fisherman and his Soul (Wilde)]]
+
+</div>
+
 #graph/character

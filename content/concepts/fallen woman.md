@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="concepts/fallen-woman"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/david-copperfield-(dickens)|David Copperfield (Dickens)]]
+
+</div>
+
 #graph/concept

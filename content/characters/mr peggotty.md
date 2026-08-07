@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/mr-peggotty"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/david-copperfield-(dickens)|David Copperfield (Dickens)]]
+
+</div>
+
 #graph/character

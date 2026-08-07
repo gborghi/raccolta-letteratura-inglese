@@ -56,7 +56,7 @@ tags:
   - archetype/prophet
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
+*by Chesterton*  ·  **Cluster:** [[clusters/wine-and-drink-·-ballad-ballade-·-road|Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 
 > A comic satirical novel in which a fashionable English elite imposes a quasi-Islamic prohibition, and an innkeeper and an Irish soldier roam England with a keg and an inn-sign defending old liberties, ale and the common man; satire, anti-progressivism, English patriotism.
@@ -72,15 +72,15 @@ tags:
 
 ## Connections
 
-**Characters:** [[Patrick Dalroy]], [[Humphrey Pump]], [[Lord Ivywood]], [[Lady Joan Brett]], [[Misysra Ammon]], [[Dorian Wimpole]], [[Quoodle]]
+**Characters:** [[characters/patrick-dalroy|Patrick Dalroy]], [[characters/humphrey-pump|Humphrey Pump]], [[characters/lord-ivywood|Lord Ivywood]], [[characters/lady-joan-brett|Lady Joan Brett]], [[characters/misysra-ammon|Misysra Ammon]], [[characters/dorian-wimpole|Dorian Wimpole]], [[characters/quoodle|Quoodle]]
 
-**Topoi:** [[Open Road Homecoming]], [[World Upside Down]], [[Carpe Diem]]
-**Archetypes:** [[Rebel]], [[Outsider]], [[Trickster]], [[Prophet]]
-**Motifs:** [[Wine and Drink]], [[Inn Tavern]], [[Road]], [[Journey]], [[Sea]], [[Music and Song]], [[Cross]], [[Food and Feasting]], [[Machine]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Nationalism and Patriotism]], [[Common Man]], [[Distributism]], [[Joy]], [[Faith and Doubt]], [[Good vs Evil]], [[Heroism]], [[Romantic Love]], [[Deception]], [[Fanaticism]], [[Power and Corruption]], [[Economics]], [[History]]
-**Forms & Genres:** [[Novel]], [[Satire]], [[Comic Verse Song]]
-**Historical References:** [[Christianity]], [[Islam and the East]], [[Crusades]]
-**Settings:** [[Rural England]], [[Sea (2)]], [[Inn]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/world-upside-down|World Upside Down]], [[topoi/carpe-diem|Carpe Diem]]
+**Archetypes:** [[archetypes/rebel|Rebel]], [[archetypes/outsider|Outsider]], [[archetypes/trickster|Trickster]], [[archetypes/prophet|Prophet]]
+**Motifs:** [[motifs/wine-and-drink|Wine and Drink]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/road|Road]], [[motifs/journey|Journey]], [[motifs/sea|Sea]], [[motifs/music-and-song|Music and Song]], [[motifs/cross|Cross]], [[motifs/food-and-feasting|Food and Feasting]], [[motifs/machine|Machine]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/common-man|Common Man]], [[concepts/distributism|Distributism]], [[concepts/joy|Joy]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/heroism|Heroism]], [[concepts/romantic-love|Romantic Love]], [[concepts/deception|Deception]], [[concepts/fanaticism|Fanaticism]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]], [[forms/comic-verse-song|Comic Verse Song]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/islam-and-the-east|Islam and the East]], [[historical-references/crusades|Crusades]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/sea-(2)|Sea (2)]], [[settings/inn|Inn]]
 
 ## Testo integrale / Full text
 

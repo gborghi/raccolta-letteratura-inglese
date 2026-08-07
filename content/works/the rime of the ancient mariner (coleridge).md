@@ -22,7 +22,7 @@ tags:
   - character/ancient_mariner
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Bible · Sin and the Fall · Fall from Innocence]]
+*by Coleridge*  ·  **Cluster:** [[clusters/bible-·-sin-and-the-fall-·-fall-from-innocence|Bible · Sin and the Fall · Fall from Innocence]]
 
 > [!abstract] 
 > A long supernatural ballad in which a mariner who kills an albatross suffers a spectral voyage of guilt, penance and reluctant redemption; themes of sin, guilt, the supernatural, providence and the sea.
@@ -40,13 +40,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Quest]]
-**Archetypes:** [[Outsider]]
-**Motifs:** [[Supernatural]], [[Sea]], [[Birds]]
-**Themes & Concepts:** [[Sin and the Fall]], [[Guilt]], [[Grace and Redemption]], [[Providence]]
-**Forms & Genres:** [[Ballad Ballade]]
-**Settings:** [[Ship]]
-**Characters:** [[Death Personified]], [[Ancient Mariner]]
+**Topoi:** [[topoi/quest|Quest]]
+**Archetypes:** [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/sea|Sea]], [[motifs/birds|Birds]]
+**Themes & Concepts:** [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/guilt|Guilt]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/providence|Providence]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]
+**Settings:** [[motifs/ship|Ship]]
+**Characters:** [[characters/death-personified|Death Personified]], [[characters/ancient-mariner|Ancient Mariner]]
 
 ## Testo integrale / Full text
 

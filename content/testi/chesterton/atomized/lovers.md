@@ -14,13 +14,13 @@ tags:
 <span class="atom-split" data-atom="lovers" data-title="lovers" data-chapter="" data-kind="intro"></span>
 
 
-For [[lovers|Lovers]] Only
+For Lovers Only
 
 An Impetuous Painter and A Discerning Critic
 _________________________________________________________________
 
 Gabriel Gale was energetically painting a new sign for the Rising Sun Inn
-when his attention was engaged by a new arrival, [[Diana]] Westermaine.
+when his attention was engaged by a new arrival, [[characters/diana|Diana]] Westermaine.
 
 The lady was tall and dark, and Gale looked at her steadily and rather
 longer than is strictly polite--but painters are absent-minded.
@@ -37,8 +37,8 @@ When angels hang head downwards, we know they come from above.
 It's only those that come from below that always have their noses
 in the air."
 
-She laughed.  But then a [[Shadow|shadow]] came between them in the shape
-of the [[Artist|artist]]'s friend, Hurrel.  [[Diana]] explained to herself that
+She laughed.  But then a [[archetypes/shadow|shadow]] came between them in the shape
+of the [[archetypes/artist|artist]]'s friend, Hurrel.  [[characters/diana|Diana]] explained to herself that
 she had no reason to be angry, but she was exceedingly angry.
 The increase of the group from two to three had the painful effect
 of an intrusion.  But the two men were inseparable companions.
@@ -60,7 +60,7 @@ right to be tied to a lunatic by a few words."
 "Because, I want you to make a rash vow.  I want you to tie yourself
 to a lunatic with a few words."
 
-There was a [[Silence|silence]], at the end of which she smiled suddenly
+There was a [[motifs/silence|silence]], at the end of which she smiled suddenly
 and put her hand on his arm.
 
 "I don't think my vow will be so very rash--oh, for heavens sake!"
@@ -77,13 +77,13 @@ From Chesterton's The Poet and the Lunatics
 <span class="atom-split" data-atom="part--part_01" data-title="lovers (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/silence,character/diana"></span>
 
 
-For [[lovers|Lovers]] Only
+For Lovers Only
 
 An Impetuous Painter and A Discerning Critic
 _________________________________________________________________
 
 Gabriel Gale was energetically painting a new sign for the Rising Sun Inn
-when his attention was engaged by a new arrival, [[Diana]] Westermaine.
+when his attention was engaged by a new arrival, [[characters/diana|Diana]] Westermaine.
 
 The lady was tall and dark, and Gale looked at her steadily and rather
 longer than is strictly polite--but painters are absent-minded.
@@ -100,8 +100,8 @@ When angels hang head downwards, we know they come from above.
 It's only those that come from below that always have their noses
 in the air."
 
-She laughed.  But then a [[Shadow|shadow]] came between them in the shape
-of the [[Artist|artist]]'s friend, Hurrel.  [[Diana]] explained to herself that
+She laughed.  But then a [[archetypes/shadow|shadow]] came between them in the shape
+of the [[archetypes/artist|artist]]'s friend, Hurrel.  [[characters/diana|Diana]] explained to herself that
 she had no reason to be angry, but she was exceedingly angry.
 The increase of the group from two to three had the painful effect
 of an intrusion.  But the two men were inseparable companions.
@@ -123,7 +123,7 @@ right to be tied to a lunatic by a few words."
 "Because, I want you to make a rash vow.  I want you to tie yourself
 to a lunatic with a few words."
 
-There was a [[Silence|silence]], at the end of which she smiled suddenly
+There was a [[motifs/silence|silence]], at the end of which she smiled suddenly
 and put her hand on his arm.
 
 "I don't think my vow will be so very rash--oh, for heavens sake!"
@@ -137,13 +137,13 @@ From Chesterton's The Poet and the Lunatics
 
 <span class="qlang-split" data-lang="it"></span>
 
-Solo per [[lovers|Innamorati]]
+Solo per Innamorati
 
 Un pittore impetuoso e una critica perspicace
 _________________________________________________________________
 
 Gabriel Gale stava dipingendo con energia una nuova insegna per la locanda del Sole Nascente
-quando la sua attenzione fu attratta da una nuova venuta, [[Diana]] Westermaine.
+quando la sua attenzione fu attratta da una nuova venuta, [[characters/diana|Diana]] Westermaine.
 
 La dama era alta e bruna, e Gale la guardò fisso e piuttosto
 più a lungo di quanto sia strettamente educato--ma i pittori sono distratti.
@@ -160,8 +160,8 @@ Quando gli angeli pendono a testa in giù, sappiamo che vengono dall'alto.
 Sono solo quelli che vengono dal basso ad avere sempre il naso
 per aria.»
 
-Lei rise.  Ma poi un'[[Shadow|ombra]] si frappose tra loro nella forma
-dell'amico dell'[[Artist|artista]], Hurrel.  [[Diana]] si spiegò da sé che
+Lei rise.  Ma poi un'[[archetypes/shadow|ombra]] si frappose tra loro nella forma
+dell'amico dell'[[archetypes/artist|artista]], Hurrel.  [[characters/diana|Diana]] si spiegò da sé che
 non aveva motivo d'essere in collera, ma era in collera oltremodo.
 L'accrescimento del gruppo da due a tre ebbe il penoso effetto
 di un'intrusione.  Ma i due uomini erano compagni inseparabili.
@@ -183,7 +183,7 @@ giusto essere legati a un folle da poche parole.»
 «Perché voglio che tu faccia un voto avventato.  Voglio che tu ti leghi
 a un folle con poche parole.»
 
-Vi fu un [[Silence|silenzio]], al termine del quale lei sorrise all'improvviso
+Vi fu un [[motifs/silence|silenzio]], al termine del quale lei sorrise all'improvviso
 e gli posò la mano sul braccio.
 
 «Non credo che il mio voto sarà poi così avventato--oh, per l'amor del cielo!»

@@ -29,15 +29,15 @@ tags:
   - character/hilaire_belloc
   - character/lord_salisbury
 ---
-*by Belloc*  ·  **Cluster:** [[Familiar Essay · Paradox · The Common Man]]
+*by Belloc*  ·  **Cluster:** [[clusters/familiar-essay-·-paradox-·-the-common-man|Familiar Essay · Paradox · The Common Man]]
 
 > [!abstract] 
 > A polemical rejoinder to H. G. Wells's reply in their public quarrel over the 'Outline of History'. Belloc defends the Catholic faith against Wells's materialism, attacks his ignorance of the Church and of Christian doctrine, and hammers his outdated reliance on Darwinian Natural Selection as the agent of evolution.
 
 ## Connections
 
-**Forms & Genres:** [[Apologetics]], [[Essay]], [[Literary Criticism]], [[Nonfiction]]
-**Themes & Concepts:** [[Faith]], [[Darwinism (Evolutionary Theory)]], [[Rationalism]], [[Heresy and Schism]], [[Truth]], [[Development of Doctrine]], [[Argument from Authority]], [[History]]
-**Motifs:** [[Book Reading]], [[Letters and Writing]]
-**Historical References:** [[H.G. Wells]], [[Darwinism]], [[Catholic Church]], [[Christianity]]
-**Characters:** [[H. G. Wells]], [[Hilaire Belloc]], [[Lord Salisbury]]
+**Forms & Genres:** [[forms/apologetics|Apologetics]], [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/darwinism-(evolutionary-theory)|Darwinism (Evolutionary Theory)]], [[concepts/rationalism|Rationalism]], [[concepts/heresy-and-schism|Heresy and Schism]], [[concepts/truth|Truth]], [[concepts/development-of-doctrine|Development of Doctrine]], [[concepts/argument-from-authority|Argument from Authority]], [[concepts/history|History]]
+**Motifs:** [[motifs/book-reading|Book Reading]], [[motifs/letters-and-writing|Letters and Writing]]
+**Historical References:** [[historical-references/h.g.-wells|H.G. Wells]], [[historical-references/darwinism|Darwinism]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/christianity|Christianity]]
+**Characters:** [[characters/h.-g.-wells|H. G. Wells]], [[characters/hilaire-belloc|Hilaire Belloc]], [[characters/lord-salisbury|Lord Salisbury]]

@@ -14,4 +14,10 @@ The charming, demonic elder brother of The Master of Ballantrae, whom Chesterton
 
 <div class="concept-works" data-slug="characters/james-durie-(master-of-ballantrae)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/robert-louis-stevenson-(chesterton)|Robert Louis Stevenson (Chesterton)]]
+
+</div>
+
 #graph/character

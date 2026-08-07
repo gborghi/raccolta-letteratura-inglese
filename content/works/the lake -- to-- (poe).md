@@ -23,18 +23,18 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Ode · Nature vs Civilization · Pastoral Retreat]]
+*by Poe*  ·  **Cluster:** [[clusters/ode-·-nature-vs-civilization-·-pastoral-retreat|Ode · Nature vs Civilization · Pastoral Retreat]]
 
 > [!abstract] 
 > Lyric of youthful solitude at a wild lake whose nocturnal terror becomes a tremulous delight, mingling death, imagination and a private Eden of the lone soul.
 
 ## Connections
 
-**Topoi:** [[Locus Amoenus]]
-**Archetypes:** [[Outsider]]
-**Motifs:** [[Water]], [[Death]], [[Grave]], [[Night]], [[Nature]], [[Wind]]
-**Themes & Concepts:** [[Melancholy]], [[Imagination]], [[Alienation]], [[Sublime]], [[Mortality]]
-**Forms & Genres:** [[Lyric]]
+**Topoi:** [[topoi/locus-amoenus|Locus Amoenus]]
+**Archetypes:** [[archetypes/outsider|Outsider]]
+**Motifs:** [[motifs/water|Water]], [[motifs/death|Death]], [[motifs/grave|Grave]], [[motifs/night|Night]], [[concepts/nature|Nature]], [[motifs/wind|Wind]]
+**Themes & Concepts:** [[concepts/melancholy|Melancholy]], [[concepts/imagination|Imagination]], [[concepts/alienation|Alienation]], [[concepts/sublime|Sublime]], [[concepts/mortality|Mortality]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

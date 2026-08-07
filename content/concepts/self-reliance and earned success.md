@@ -12,4 +12,12 @@ tags:
 
 <div class="concept-works" data-slug="concepts/self-reliance-and-earned-success"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/on-abraham-lincoln-(chesterton)|On Abraham Lincoln (Chesterton)]]
+- [[works/success-(chesterton)|success (Chesterton)]]
+- [[works/the-professor-(bronte)|The Professor (Bronte)]]
+
+</div>
+
 #graph/concept

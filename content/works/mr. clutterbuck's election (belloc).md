@@ -32,7 +32,7 @@ tags:
   - archetype/corrupt_official
   - topos/world_upside_down
 ---
-*by Belloc*  ·  **Cluster:** [[Satirical Novel · Politics and Finance · Edwardian England]]
+*by Belloc*  ·  **Cluster:** [[clusters/satirical-novel-·-politics-and-finance-·-edwardian-england|Satirical Novel · Politics and Finance · Edwardian England]]
 
 > [!abstract] 
 > A satirical novel of Edwardian finance and public life in which a modest Croydon speculator, Mr. Clutterbuck, is swept from suburban ease to affluence and Parliament through the shady dealings of company-promotion and the corruptions of the electoral machine. Set against the imperial afterglow of the Boer War, it lampoons the plutocracy, the party system and the venality binding money to power. Dedicated to G. K. Chesterton, it is a Chesterbelloc broadside against political finance.
@@ -43,11 +43,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]], [[Satire]]
-**Themes & Concepts:** [[Satire of Society]], [[Money and Avarice]], [[Capitalism]], [[Empire and Imperialism]], [[Democracy]], [[Hypocrisy]], [[Power and Corruption]], [[Class Conflict]], [[Economics]], [[History]]
-**Motifs:** [[Money and Gold]], [[City]], [[Wine and Drink]]
-**Historical References:** [[Boer War (Second South African War)]], [[Marconi Scandal]], [[British Empire]]
-**Settings:** [[London]], [[Rural England]]
-**Characters:** [[G. K. Chesterton]]
-**Archetypes:** [[Self-Made Man]], [[Corrupt Official]]
-**Topoi:** [[World Upside Down]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/satire|Satire]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/capitalism|Capitalism]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/democracy|Democracy]], [[concepts/hypocrisy|Hypocrisy]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/class-conflict|Class Conflict]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/city|City]], [[motifs/wine-and-drink|Wine and Drink]]
+**Historical References:** [[historical-references/boer-war-(second-south-african-war)|Boer War (Second South African War)]], [[historical-references/marconi-scandal|Marconi Scandal]], [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
+**Characters:** [[characters/g.-k.-chesterton|G. K. Chesterton]]
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]], [[archetypes/corrupt-official|Corrupt Official]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]

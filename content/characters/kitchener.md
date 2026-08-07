@@ -14,4 +14,10 @@ The Anglo-Irish soldier-engineer whose silent, mathematical career from Sudan to
 
 <div class="concept-works" data-slug="characters/kitchener"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lordkitchener-(chesterton)|LordKitchener (Chesterton)]]
+
+</div>
+
 #graph/character

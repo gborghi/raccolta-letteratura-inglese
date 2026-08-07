@@ -38,7 +38,7 @@ tags:
   - character/christ
 ---
 
-*by Wilde*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
+*by Wilde*  ·  **Cluster:** [[clusters/allegory-·-quest-·-pilgrim|Allegory · Quest · Pilgrim]]
 
 > [!abstract] 
 > Fairy-tale allegory of charity and self-sacrifice: a gilded statue and a swallow give away gold and jewels to the city's poor and are redeemed as the two most precious things by God.
@@ -52,14 +52,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Love as Religion]], [[Contemptus Mundi]]
-**Archetypes:** [[Martyr Saint]], [[Christ Figure]], [[King]]
-**Motifs:** [[Money and Gold]], [[Birds]], [[Swallow]], [[City]], [[Death]], [[Winter]], [[Eyes and Sight]], [[Gold and Grey]]
-**Themes & Concepts:** [[Social Injustice]], [[Poverty]], [[Grace and Redemption]], [[Divine Love]], [[Mercy]], [[Friendship]], [[Grief and Loss]], [[Class Conflict]], [[Economics]]
-**Forms & Genres:** [[Fairy Tale Fantasy]], [[Allegory]]
-**Historical References:** [[Christianity]], [[Regency Georgian England]]
-**Settings:** [[Egypt]], [[Industrial City]]
-**Characters:** [[Christ]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]], [[topoi/contemptus-mundi|Contemptus Mundi]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/christ-figure|Christ Figure]], [[archetypes/king|King]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/birds|Birds]], [[motifs/swallow|Swallow]], [[motifs/city|City]], [[motifs/death|Death]], [[motifs/winter|Winter]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/gold-and-grey|Gold and Grey]]
+**Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/poverty|Poverty]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/divine-love|Divine Love]], [[concepts/mercy|Mercy]], [[concepts/friendship|Friendship]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/class-conflict|Class Conflict]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/allegory|Allegory]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/egypt|Egypt]], [[settings/industrial-city|Industrial City]]
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 
@@ -153,4 +153,4 @@ Then they melted the statue in a furnace, and the Mayor held a meeting of the Co
 “Bring me the two most precious things in the city,” said God to one of His Angels; and the Angel brought Him the leaden heart and the dead bird.
 “You have rightly chosen,” said God, “for in my garden of Paradise this little bird shall sing for evermore, and in my city of gold the Happy Prince shall praise me.”
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

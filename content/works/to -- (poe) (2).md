@@ -15,16 +15,16 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Dreams · Moon]]
+*by Poe*  ·  **Cluster:** [[clusters/dreams-·-moon|Dreams · Moon]]
 
 > [!abstract] 
 > A short love lyric of dream-visions: the beloved's lips, melody and heart haunt the speaker's sleep, set against the worthlessness of gold. Themes of love, dreams and longing.
 
 ## Connections
 
-**Motifs:** [[Love]], [[Dreams]], [[Eyes and Sight]], [[Money and Gold]]
-**Themes & Concepts:** [[Romantic Love]]
-**Forms & Genres:** [[Lyric]]
+**Motifs:** [[motifs/love|Love]], [[motifs/dreams|Dreams]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/money-and-gold|Money and Gold]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

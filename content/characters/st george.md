@@ -14,4 +14,11 @@ Patron saint of England who slays the dragon and frees the lady, portrayed comic
 
 <div class="concept-works" data-slug="characters/st-george"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-englishman-(chesterton)|the-englishman (Chesterton)]]
+- [[works/the-glass-walking-stick-(chesterton)|The Glass Walking Stick (Chesterton)]]
+
+</div>
+
 #graph/character

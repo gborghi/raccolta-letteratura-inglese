@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/ulysses"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/troilus-and-cressida-(shakespeare)|TROILUS AND CRESSIDA (Shakespeare)]]
+
+</div>
+
 #graph/character

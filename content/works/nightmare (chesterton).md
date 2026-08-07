@@ -40,7 +40,7 @@ tags:
 
 # nightmare
 
-*by Chesterton*  ·  **Cluster:** [[Terror and Horror · Madness]]
+*by Chesterton*  ·  **Cluster:** [[clusters/terror-and-horror-·-madness|Terror and Horror · Madness]]
 
 > [!abstract] 
 > A meditative essay on tales of terror, arguing the imagination may play with horror only if the soul stays upright and Christian; the terror must be 'fundamentally frivolous'. Themes: imagination, the grotesque, faith as anchor.
@@ -59,17 +59,17 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Dante]], [[Bible]], [[Christianity]], [[Greek Mythology]], [[Robert Louis Stevenson]]
+**Historical References:** [[historical-references/dante|Dante]], [[historical-references/bible|Bible]], [[historical-references/christianity|Christianity]], [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/robert-louis-stevenson|Robert Louis Stevenson]]
 
-**Archetypes:** [[Child]]
+**Archetypes:** [[archetypes/child|Child]]
 
-**Settings:** [[Egypt]], [[Garden (2)]], [[Desert]]
+**Settings:** [[settings/egypt|Egypt]], [[settings/garden-(2)|Garden (2)]], [[motifs/desert|Desert]]
 
-**Topoi:** [[Night Journey Vision]], [[World Upside Down]]
+**Topoi:** [[topoi/night-journey-vision|Night Journey Vision]], [[topoi/world-upside-down|World Upside Down]]
 
-**Motifs:** [[Supernatural]], [[Dreams]], [[Night]], [[Cross]], [[Horse]], [[Eyes and Sight]], [[Wind]], [[Moon]], [[Gold and Grey]]
-**Themes & Concepts:** [[Terror and Horror]], [[Imagination]], [[Grotesque]], [[Faith]], [[Madness]], [[Paganism and Classical Revival]], [[History]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/dreams|Dreams]], [[motifs/night|Night]], [[motifs/cross|Cross]], [[motifs/horse|Horse]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/wind|Wind]], [[motifs/moon|Moon]], [[motifs/gold-and-grey|Gold and Grey]]
+**Themes & Concepts:** [[concepts/terror-and-horror|Terror and Horror]], [[concepts/imagination|Imagination]], [[concepts/grotesque|Grotesque]], [[concepts/faith|Faith]], [[concepts/madness|Madness]], [[concepts/paganism-and-classical-revival|Paganism and Classical Revival]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

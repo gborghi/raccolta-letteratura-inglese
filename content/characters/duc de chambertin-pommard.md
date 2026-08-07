@@ -14,4 +14,10 @@ The poor but proud French aristocrat protagonist of "Dukes", whose visit to two 
 
 <div class="concept-works" data-slug="characters/duc-de-chambertin-pommard"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/alarms-and-discursions-(chesterton)|alarms and discursions (Chesterton)]]
+
+</div>
+
 #graph/character

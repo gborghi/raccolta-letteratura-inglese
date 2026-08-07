@@ -14,4 +14,10 @@ Suffragette whose post-disaster claim that lifeboat chivalry was merely obedienc
 
 <div class="concept-works" data-slug="characters/sylvia-pankhurst"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/titanic-(chesterton)|titanic (Chesterton)]]
+
+</div>
+
 #graph/character

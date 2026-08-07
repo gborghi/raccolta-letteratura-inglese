@@ -64,7 +64,7 @@ tags:
 
 # Man Orthodox
 
-*by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
+*by Chesterton*  ·  **Cluster:** [[clusters/christianity-·-faith-and-doubt-·-doubt|Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
 > A wide-ranging anthology of Chesterton essays on humour, the joke, popular philosophy, the Bible, spiritualism, rationalism and the Englishman's religion; orthodox apologetics through paradox and wit.
@@ -167,18 +167,18 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Trickster]], [[Wise Old Man Sage]]
+**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/wise-old-man-sage|Wise Old Man Sage]]
 
-**Settings:** [[London]]
+**Settings:** [[settings/london|London]]
 
-**Topoi:** [[Fall from Innocence]], [[World Upside Down]]
+**Topoi:** [[topoi/fall-from-innocence|Fall from Innocence]], [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[Christ]], [[Satan]], [[Beatrice]], [[Sam Weller]], [[Job]], [[Robinson Crusoe]]
+**Characters:** [[characters/christ|Christ]], [[characters/satan|Satan]], [[characters/beatrice|Beatrice]], [[characters/sam-weller|Sam Weller]], [[characters/job|Job]], [[characters/robinson-crusoe|Robinson Crusoe]]
 
-**Motifs:** [[Supernatural]], [[Serpent Snake]], [[Dragon]]
-**Themes & Concepts:** [[Faith]], [[Faith and Doubt]], [[Paradox]], [[Satire of Society]], [[Critique of Progress]], [[Joy]], [[Grace and Redemption]], [[Original Sin]], [[Freedom and Liberty]], [[Grotesque]], [[Distributism]], [[Resurrection]], [[Wonder]], [[Nationalism and Patriotism]], [[Democracy]], [[Poverty]], [[Vulgarity]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Aphorism]], [[Fairy Tale Fantasy]], [[Nonfiction]]
-**Historical References:** [[Christianity]], [[Bible]], [[French Revolution]], [[Puritanism]], [[Reformation]], [[Islam]], [[Dante]], [[Catholic Church]], [[Eastern Religion Comparative Religion]], [[Industrial Revolution]], [[Classical Antiquity]], [[Arthur Balfour]], [[Pope Pius X]], [[Alfred Harmsworth (Lord Northcliffe)]], [[Walt Whitman]]
+**Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/serpent-snake|Serpent Snake]], [[motifs/dragon|Dragon]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/paradox|Paradox]], [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/joy|Joy]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/original-sin|Original Sin]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/grotesque|Grotesque]], [[concepts/distributism|Distributism]], [[concepts/resurrection|Resurrection]], [[concepts/wonder|Wonder]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/democracy|Democracy]], [[concepts/poverty|Poverty]], [[concepts/vulgarity|Vulgarity]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/aphorism|Aphorism]], [[forms/fairy-tale-fantasy|Fairy Tale Fantasy]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/french-revolution|French Revolution]], [[historical-references/puritanism|Puritanism]], [[historical-references/reformation|Reformation]], [[historical-references/islam|Islam]], [[historical-references/dante|Dante]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/eastern-religion-comparative-religion|Eastern Religion Comparative Religion]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/classical-antiquity|Classical Antiquity]], [[historical-references/arthur-balfour|Arthur Balfour]], [[historical-references/pope-pius-x|Pope Pius X]], [[historical-references/alfred-harmsworth-(lord-northcliffe)|Alfred Harmsworth (Lord Northcliffe)]], [[historical-references/walt-whitman|Walt Whitman]]
 
 ## Testo integrale / Full text
 

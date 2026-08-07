@@ -14,4 +14,10 @@ The Irish-born minister cast as the villain of the Union, contrasted with the ma
 
 <div class="concept-works" data-slug="characters/castlereagh"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thecrimesofengland-(chesterton)|TheCrimesOfEngland (Chesterton)]]
+
+</div>
+
 #graph/character

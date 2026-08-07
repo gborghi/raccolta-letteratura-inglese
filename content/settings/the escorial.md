@@ -14,4 +14,10 @@ Philip II's stark gridiron-shaped palace near Madrid is the recurring emblem of 
 
 <div class="concept-works" data-slug="settings/the-escorial"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-glass-walking-stick-(chesterton)|The Glass Walking Stick (Chesterton)]]
+
+</div>
+
 #graph/setting

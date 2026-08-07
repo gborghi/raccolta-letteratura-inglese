@@ -14,4 +14,10 @@ Dickens's wife, Catherine Hogarth, married in 1836 and separated from in 1856 af
 
 <div class="concept-works" data-slug="characters/catherine-dickens"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/dickens-britannica-(chesterton)|dickens Britannica (Chesterton)]]
+
+</div>
+
 #graph/character

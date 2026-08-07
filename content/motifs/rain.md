@@ -14,4 +14,11 @@ The refrain-driving image of loved rain (storm's downpour embraced as lover) rep
 
 <div class="concept-works" data-slug="motifs/rain"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/last-hero-(chesterton)|last hero (Chesterton)]]
+- [[works/the-green-overcoat-(belloc)|The Green Overcoat (Belloc)]]
+
+</div>
+
 #graph/motif

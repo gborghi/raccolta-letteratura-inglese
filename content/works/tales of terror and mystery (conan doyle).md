@@ -26,7 +26,7 @@ tags:
   - archetype/ghost
   - topos/memento_mori
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Detective Fiction · Ratiocination Detection · Crime and Punishment]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/detective-fiction-·-ratiocination-detection-·-crime-and-punishment|Detective Fiction · Ratiocination Detection · Crime and Punishment]]
 
 > [!abstract] 
 > A collection split into 'Tales of Terror' and 'Tales of Mystery,' including the classic horror story 'The Horror of the Heights' (an aviator's fatal encounter with monstrous life in the upper atmosphere), 'The Leather Funnel' (a dream-vision of historical torture), and detective-flavored mystery stories such as 'The Lost Special' and 'The Man with the Watches.'
@@ -48,9 +48,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Short Story]], [[Gothic Novel]], [[Detective Fiction]]
-**Themes & Concepts:** [[Terror and Horror]], [[Uncanny]], [[Ratiocination Detection]], [[Fear]], [[Crime and Punishment]]
-**Motifs:** [[Dreams]], [[Supernatural]], [[Blood]], [[Secrets]]
-**Settings:** [[London]], [[Continental Europe (Brussels)]]
-**Archetypes:** [[Detective]], [[Villain]], [[Ghost]]
-**Topoi:** [[Memento Mori]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/gothic-novel|Gothic Novel]], [[forms/detective-fiction|Detective Fiction]]
+**Themes & Concepts:** [[concepts/terror-and-horror|Terror and Horror]], [[concepts/uncanny|Uncanny]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/fear|Fear]], [[concepts/crime-and-punishment|Crime and Punishment]]
+**Motifs:** [[motifs/dreams|Dreams]], [[motifs/supernatural|Supernatural]], [[motifs/blood|Blood]], [[motifs/secrets|Secrets]]
+**Settings:** [[settings/london|London]], [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]], [[archetypes/ghost|Ghost]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]

@@ -25,7 +25,7 @@ tags:
 
 # government
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A satirical essay mocking proposals to standardise private correspondence, defending individual liberty and self-determination against the encroaching claims of the State.
@@ -39,11 +39,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Common Man (2)]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Motifs:** [[Letters and Writing]]
-**Themes & Concepts:** [[Satire of Society]], [[Critique of Progress]], [[Power and Corruption]], [[Identity]], [[Distributism]], [[Freedom and Liberty]], [[Individualism]], [[Reform]], [[Economics]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
+**Motifs:** [[motifs/letters-and-writing|Letters and Writing]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/identity|Identity]], [[concepts/distributism|Distributism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/individualism|Individualism]], [[concepts/reform|Reform]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

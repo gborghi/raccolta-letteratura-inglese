@@ -12,4 +12,16 @@ tags:
 
 <div class="concept-works" data-slug="archetypes/death-personified-(2)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/tribute-to-gladstone-(chesterton)|Tribute To Gladstone (Chesterton)]]
+- [[works/to-frances-(chesterton)|to-frances (Chesterton)]]
+- [[testi/dickinson/atomized/death-silence-bells#1136_the_frost_of_death_was_on_the_pane|1136. The Frost of Death was on the Pane — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#1445_death_is_the_supple_suitor|1445. Death is the supple Suitor (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0970_color_caste_denomination|970. Color — Caste — Denomination — (Dickinson)]]
+- [[testi/dickinson/atomized/death-silence-bells#0976_death_is_a_dialogue_between|976. Death is a Dialogue between (Dickinson)]]
+- [[works/the-masque-of-the-red-death-(poe)|The Masque of the Red Death (Poe)]]
+
+</div>
+
 #graph/archetype

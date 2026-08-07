@@ -21,7 +21,7 @@ tags:
   - character/geraldine
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Supernatural · Uncanny · Double]]
+*by Coleridge*  ·  **Cluster:** [[clusters/supernatural-·-uncanny-·-double|Supernatural · Uncanny · Double]]
 
 > [!abstract] 
 > An unfinished Gothic-medieval verse romance in which the innocent Christabel shelters the uncanny Geraldine, who exerts a sinister enchantment; themes of innocence, temptation, the supernatural and the uncanny.
@@ -36,12 +36,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Temptress]], [[Innocent]]
-**Motifs:** [[Supernatural]], [[Moon]]
-**Themes & Concepts:** [[Innocence and Experience]], [[Temptation]], [[Uncanny]], [[Terror and Horror]]
-**Forms & Genres:** [[Narrative Poem]]
-**Settings:** [[Castle]]
-**Characters:** [[Christabel]], [[Geraldine]]
+**Archetypes:** [[archetypes/temptress|Temptress]], [[archetypes/innocent|Innocent]]
+**Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/moon|Moon]]
+**Themes & Concepts:** [[concepts/innocence-and-experience|Innocence and Experience]], [[concepts/temptation|Temptation]], [[concepts/uncanny|Uncanny]], [[concepts/terror-and-horror|Terror and Horror]]
+**Forms & Genres:** [[forms/narrative-poem|Narrative Poem]]
+**Settings:** [[settings/castle|Castle]]
+**Characters:** [[characters/christabel|Christabel]], [[characters/geraldine|Geraldine]]
 
 ## Testo integrale / Full text
 

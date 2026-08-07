@@ -25,7 +25,7 @@ tags:
   - setting/rural_england
   - topos/open_road_homecoming
 ---
-*by Belloc*  ·  **Cluster:** [[Familiar Essay · Paradox · The Common Man]]
+*by Belloc*  ·  **Cluster:** [[clusters/familiar-essay-·-paradox-·-the-common-man|Familiar Essay · Paradox · The Common Man]]
 
 > [!abstract] 
 > A collection of Belloc's familiar essays and sketches (reprinted from the Westminster Gazette, Clarion and others), ranging from a mock plea for a 'simpler drama' in blank verse to meditations on notebooks, bridges, immortality, sacramental things, and the empire-builder. The pieces mix whimsy, satire of modern life, and Catholic reflection on permanence and the ordinary man.
@@ -52,9 +52,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
-**Themes & Concepts:** [[Critique of Progress]], [[Common Man]], [[Faith]], [[Immortality of the Soul]], [[Nature]], [[Satire of Society]], [[Tradition]]
-**Motifs:** [[Home]], [[Road]], [[River]]
-**Historical References:** [[Darwinism]]
-**Settings:** [[England]], [[Rural England]]
-**Topoi:** [[Open Road Homecoming]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/critique-of-progress|Critique of Progress]], [[concepts/common-man|Common Man]], [[concepts/faith|Faith]], [[concepts/immortality-of-the-soul|Immortality of the Soul]], [[concepts/nature|Nature]], [[concepts/satire-of-society|Satire of Society]], [[concepts/tradition|Tradition]]
+**Motifs:** [[motifs/home|Home]], [[motifs/road|Road]], [[motifs/river|River]]
+**Historical References:** [[historical-references/darwinism|Darwinism]]
+**Settings:** [[settings/england|England]], [[settings/rural-england|Rural England]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]]

@@ -27,7 +27,16 @@ const isAtom = (slug) => slug.includes("#")
 // only ever match on their own chrome, and they rank first on any generic query
 // because their slugs are one segment long. The left sidebar already hides them
 // (see the explorer `filterFn` in quartz.config.yaml); this is the search half.
-export const HIDDEN_SLUGS = new Set(["index", "brani"])
+export const HIDDEN_SLUGS = new Set(["index", "brani", "404"])
+
+// Same story at scale: Quartz generates one page per tag (~3.7k of them), each holding
+// nothing but its own tag name and the list of members — no prose, empty `terms`/`snippet`
+// in the master — so they can only match on chrome yet crowd out real pages. The browsable
+// tag INDEX (`tags/index`, the table gen-tags-table.mjs builds) is a real destination and
+// stays searchable; only the per-tag shells below it go.
+export const TAGS_INDEX_SLUG = "tags/index"
+export const isHiddenSlug = (slug) =>
+  HIDDEN_SLUGS.has(slug) || (slug.startsWith("tags/") && slug !== TAGS_INDEX_SLUG)
 
 // contentFor(doc, n, S): readable S-char snippet + top-n ranked terms.
 export function contentFor(doc, n, S) {
@@ -44,7 +53,7 @@ export function buildShards(master) {
   const works = []
   const atoms = []
   for (const [slug, d] of Object.entries(master)) {
-    if (HIDDEN_SLUGS.has(slug)) continue
+    if (isHiddenSlug(slug)) continue
     ;(isAtom(slug) ? atoms : works).push([slug, d])
   }
 

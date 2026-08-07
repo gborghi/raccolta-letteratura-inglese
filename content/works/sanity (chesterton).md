@@ -42,7 +42,7 @@ tags:
 
 # Sanity
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > Chesterton's central Distributist treatise arguing for widely-distributed private property against both Capitalist monopoly and Socialism, attacking big business, machinery and the distrust of the common man.
@@ -57,17 +57,17 @@ tags:
 
 ## Connections
 
-**Settings:** [[America]], [[Rural England]]
+**Settings:** [[settings/america|America]], [[settings/rural-england|Rural England]]
 
-**Motifs:** [[Machine]], [[Wheel]], [[Money and Gold]]
+**Motifs:** [[motifs/machine|Machine]], [[motifs/wheel|Wheel]], [[motifs/money-and-gold|Money and Gold]]
 
-**Topoi:** [[Fortune's Wheel]]
+**Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]]
 
-**Characters:** [[Sherlock Holmes Homage]], [[Henry Ford]]
+**Characters:** [[characters/sherlock-holmes-homage|Sherlock Holmes Homage]], [[characters/henry-ford|Henry Ford]]
 
-**Themes & Concepts:** [[Distributism]], [[Anti-Industrialism]], [[Common Man]], [[Reform]], [[Power and Corruption]], [[Critique of Progress]], [[Freedom and Liberty]], [[Slavery]], [[Money and Avarice]], [[Satire of Society]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Fable]], [[Parable]], [[Satire]], [[Nonfiction]]
-**Historical References:** [[Industrial Revolution]], [[French Revolution]], [[Catholic Church]], [[Puritanism]], [[Bible]], [[Irish Question]]
+**Themes & Concepts:** [[concepts/distributism|Distributism]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/common-man|Common Man]], [[concepts/reform|Reform]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/slavery|Slavery]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/satire-of-society|Satire of Society]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/fable|Fable]], [[forms/parable|Parable]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/french-revolution|French Revolution]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/puritanism|Puritanism]], [[historical-references/bible|Bible]], [[historical-references/irish-question|Irish Question]]
 
 ## Testo integrale / Full text
 

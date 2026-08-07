@@ -14,4 +14,10 @@ The flame-haired, unscrupulous nobleman rival who courts Madeleine and clashes v
 
 <div class="concept-works" data-slug="characters/count-gregory"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ball-and-cross-(chesterton)|ball and cross (Chesterton)]]
+
+</div>
+
 #graph/character

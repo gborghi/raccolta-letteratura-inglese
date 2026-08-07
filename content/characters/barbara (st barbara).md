@@ -14,4 +14,10 @@ The martyr-saint of the ballad, imprisoned by her pagan father, who breaks open 
 
 <div class="concept-works" data-slug="characters/barbara-(st-barbara)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ballad-of-st-barbara-(chesterton)|Ballad of St Barbara (Chesterton)]]
+
+</div>
+
 #graph/character

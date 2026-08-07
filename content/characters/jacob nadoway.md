@@ -14,4 +14,10 @@ The self-made biscuit-manufacturing tycoon (later Lord Normandale) whose family 
 
 <div class="concept-works" data-slug="characters/jacob-nadoway"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/fourfaultlessfelons-(chesterton)|FourFaultlessFelons (Chesterton)]]
+
+</div>
+
 #graph/character

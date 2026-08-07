@@ -30,7 +30,7 @@ tags:
   - topos/open_road_homecoming
   - topos/journey_of_life
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Spiritualism · Faith and Doubt · The Afterlife]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/spiritualism-·-faith-and-doubt-·-the-afterlife|Spiritualism · Faith and Doubt · The Afterlife]]
 
 > [!abstract] 
 > Doyle's travel memoir of his 1920-21 lecture tour to Australia and New Zealand to spread the spiritualist message, undertaken with his wife and children aboard the Naldera. Combines shipboard reflections on religion, empire, and the war with accounts of seances and psychic phenomena encountered en route.
@@ -56,10 +56,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Spiritualism]], [[Empire and Imperialism]], [[Faith and Doubt]], [[Immortality of the Soul]], [[History]]
-**Motifs:** [[Sea]], [[Ship]], [[Journey]], [[Sea and Voyage]]
-**Historical References:** [[British Empire]], [[First World War]], [[Bolshevism and the Russian Revolution]]
-**Settings:** [[Africa]], [[Egypt]], [[Orient]], [[South Africa]]
-**Archetypes:** [[Pilgrim]]
-**Topoi:** [[Open Road Homecoming]], [[Journey of Life]]
+**Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/spiritualism|Spiritualism]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/immortality-of-the-soul|Immortality of the Soul]], [[concepts/history|History]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/ship|Ship]], [[motifs/journey|Journey]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/british-empire|British Empire]], [[historical-references/first-world-war|First World War]], [[historical-references/bolshevism-and-the-russian-revolution|Bolshevism and the Russian Revolution]]
+**Settings:** [[settings/africa|Africa]], [[settings/egypt|Egypt]], [[settings/orient|Orient]], [[settings/south-africa|South Africa]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/journey-of-life|Journey of Life]]

@@ -14,4 +14,10 @@ Baronial leader who summoned the first representative Parliament while warring a
 
 <div class="concept-works" data-slug="characters/simon-de-montfort"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/history-(chesterton)|history (Chesterton)]]
+
+</div>
+
 #graph/character

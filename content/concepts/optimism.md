@@ -14,4 +14,11 @@ Chesterton devotes a full chapter to defending and qualifying Dickens's reputati
 
 <div class="concept-works" data-slug="concepts/optimism"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/charlesdickens-(chesterton)|CharlesDickens (Chesterton)]]
+- [[works/robert-browning-(chesterton)|Robert Browning (Chesterton)]]
+
+</div>
+
 #graph/concept

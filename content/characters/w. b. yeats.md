@@ -14,4 +14,10 @@ The real Irish poet whom Chesterton meets, quotes, and debates repeatedly, embod
 
 <div class="concept-works" data-slug="characters/w.-b.-yeats"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/irish-impressions-(chesterton)|Irish Impressions (Chesterton)]]
+
+</div>
+
 #graph/character

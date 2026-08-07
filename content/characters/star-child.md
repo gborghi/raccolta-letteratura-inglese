@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/star-child"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-star-child-(wilde)|The Star-Child (Wilde)]]
+
+</div>
+
 #graph/character

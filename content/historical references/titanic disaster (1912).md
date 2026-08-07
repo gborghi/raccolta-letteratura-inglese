@@ -14,4 +14,10 @@ The April 1912 sinking of the RMS Titanic, for whose survivors' benefit this poe
 
 <div class="concept-works" data-slug="historical-references/titanic-disaster-(1912)"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/titanicgkc-(chesterton)|titanicGKC (Chesterton)]]
+
+</div>
+
 #graph/histref

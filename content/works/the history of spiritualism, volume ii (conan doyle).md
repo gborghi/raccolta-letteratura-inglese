@@ -29,7 +29,7 @@ tags:
   - archetype/prophetess_seer
   - archetype/prophet
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Spiritualism · Faith and Doubt · The Afterlife]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/spiritualism-·-faith-and-doubt-·-the-afterlife|Spiritualism · Faith and Doubt · The Afterlife]]
 
 > [!abstract] 
 > The concluding volume surveys later mediums led by Eusapia Palladino, the Society for Psychical Research, ectoplasm and spirit photography, Continental Spiritualism, and the movement's wartime and religious significance, ending with Doyle's account of the Spiritualist vision of the afterlife.
@@ -52,12 +52,12 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Biography]], [[Nonfiction]]
-**Themes & Concepts:** [[Spiritualism]], [[Immortality of the Soul]], [[Argument from Authority]], [[Heaven and the Afterlife]], [[Rationalism]]
-**Motifs:** [[Ghosts]], [[Supernatural]], [[Uncanny]], [[Soul]]
-**Historical References:** [[First World War]], [[Christianity]]
-**Settings:** [[London]], [[Italy]], [[Europe]]
-**Characters:** [[Emanuel Swedenborg]]
-**Archetypes:** [[Prophetess Seer]], [[Prophet]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/biography|Biography]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/spiritualism|Spiritualism]], [[concepts/immortality-of-the-soul|Immortality of the Soul]], [[concepts/argument-from-authority|Argument from Authority]], [[concepts/heaven-and-the-afterlife|Heaven and the Afterlife]], [[concepts/rationalism|Rationalism]]
+**Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/supernatural|Supernatural]], [[concepts/uncanny|Uncanny]], [[motifs/soul|Soul]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/christianity|Christianity]]
+**Settings:** [[settings/london|London]], [[settings/italy|Italy]], [[settings/europe|Europe]]
+**Characters:** [[characters/emanuel-swedenborg|Emanuel Swedenborg]]
+**Archetypes:** [[archetypes/prophetess-seer|Prophetess Seer]], [[archetypes/prophet|Prophet]]
 
-**Also relevant to:** [[Faith · Providence · Divine Love]]
+**Also relevant to:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

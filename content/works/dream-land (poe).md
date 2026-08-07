@@ -27,19 +27,19 @@ tags:
   - form/lyric
 ---
 
-*by Poe*  ·  **Cluster:** [[Night Journey Vision · Katabasis Descent · Quest Hero]]
+*by Poe*  ·  **Cluster:** [[clusters/night-journey-vision-·-katabasis-descent-·-quest-hero|Night Journey Vision · Katabasis Descent · Quest Hero]]
 
 > [!abstract] 
 > A visionary lyric describing a journey to a weird, melancholy realm ruled by an Eidolon named Night, out of Space and Time; explores dream, death, memory, and a haunted otherworld of grief.
 
 ## Connections
 
-**Topoi:** [[Night Journey Vision]], [[Katabasis Descent]]
-**Archetypes:** [[Outsider]], [[Ghost]]
-**Motifs:** [[Dreams]], [[Night]], [[Ghosts]], [[Memory]], [[Water]], [[Journey]], [[Supernatural]]
-**Themes & Concepts:** [[Melancholy]], [[Grief and Loss]], [[Mortality]], [[Memory and Time]], [[Sublime]]
-**Forms & Genres:** [[Lyric]]
-**Settings:** [[Underworld Cave]]
+**Topoi:** [[topoi/night-journey-vision|Night Journey Vision]], [[topoi/katabasis-descent|Katabasis Descent]]
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/ghost|Ghost]]
+**Motifs:** [[motifs/dreams|Dreams]], [[motifs/night|Night]], [[motifs/ghosts|Ghosts]], [[motifs/memory|Memory]], [[motifs/water|Water]], [[motifs/journey|Journey]], [[motifs/supernatural|Supernatural]]
+**Themes & Concepts:** [[concepts/melancholy|Melancholy]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/mortality|Mortality]], [[concepts/memory-and-time|Memory and Time]], [[concepts/sublime|Sublime]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
+**Settings:** [[settings/underworld-cave|Underworld Cave]]
 
 ## Testo integrale / Full text
 

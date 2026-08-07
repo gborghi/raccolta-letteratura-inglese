@@ -14,4 +14,10 @@ Heroine of Tolstoy's novel, praised in the essay as the most perfectly depicted 
 
 <div class="concept-works" data-slug="characters/anna-karenina"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/tolstoy-(chesterton)|tolstoy (Chesterton)]]
+
+</div>
+
 #graph/character

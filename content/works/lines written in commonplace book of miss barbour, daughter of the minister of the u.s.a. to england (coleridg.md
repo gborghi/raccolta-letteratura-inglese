@@ -17,15 +17,15 @@ tags:
   - histref/the_bible
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
+*by Coleridge*  ·  **Cluster:** [[clusters/nationalism-and-patriotism-·-democracy-·-liberty-political-freedom|Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
 > An album poem sent with an American minister's daughter, defining country by shared law, language and faith and offering the olive-leaf of brotherly love after the 'fratricidal war'. Themes: kinship of nations, reconciliation, patriotism.
 
 ## Connections
 
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Reform]], [[Friendship]]
-**Historical References:** [[American Civil War]], [[Bible]]
+**Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/reform|Reform]], [[concepts/friendship|Friendship]]
+**Historical References:** [[historical-references/american-civil-war|American Civil War]], [[historical-references/bible|Bible]]
 
 ## Testo integrale / Full text
 

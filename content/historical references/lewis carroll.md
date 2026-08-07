@@ -14,4 +14,11 @@ Author of "Jabberwocky," held up by Chesterton as the exemplar of fruitful, exac
 
 <div class="concept-works" data-slug="historical-references/lewis-carroll"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/two-kinds-of-paradox-(chesterton)|Two Kinds of Paradox (Chesterton)]]
+- [[works/the-defendant-(chesterton)|The Defendant (Chesterton)]]
+
+</div>
+
 #graph/histref

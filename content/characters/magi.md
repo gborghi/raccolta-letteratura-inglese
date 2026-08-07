@@ -14,4 +14,11 @@ The three Wise Men of the poem, masters of worldly learning and philosophy who a
 
 <div class="concept-works" data-slug="characters/magi"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-wise-men-(chesterton)|the wise men (Chesterton)]]
+- [[works/god-in-the-cave-(chesterton)|God in the Cave (Chesterton)]]
+
+</div>
+
 #graph/character

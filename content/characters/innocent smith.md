@@ -14,4 +14,10 @@ The wild, joyful eccentric lodger at Beacon House whose seemingly criminal antic
 
 <div class="concept-works" data-slug="characters/innocent-smith"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/manalive-(chesterton)|manalive (Chesterton)]]
+
+</div>
+
 #graph/character

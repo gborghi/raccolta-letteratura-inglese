@@ -14,4 +14,11 @@ The Norwegian dramatist Shaw championed as a moral rather than merely aesthetic 
 
 <div class="concept-works" data-slug="characters/henrik-ibsen"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/shaw-(chesterton)|Shaw (Chesterton)]]
+- [[works/on-lying-in-bed-(chesterton)|On Lying In Bed (Chesterton)]]
+
+</div>
+
 #graph/character

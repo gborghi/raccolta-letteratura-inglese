@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/mrs-joe-gargery"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/great-expectations-(dickens)|Great Expectations (Dickens)]]
+
+</div>
+
 #graph/character

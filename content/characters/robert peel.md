@@ -14,4 +14,10 @@ The model parliamentarian and founder of the police force whom Cobbett attacked 
 
 <div class="concept-works" data-slug="characters/robert-peel"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/william-cobbett-(chesterton)|William Cobbett (Chesterton)]]
+
+</div>
+
 #graph/character

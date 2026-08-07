@@ -80,7 +80,7 @@ APOLOGY FOR THE MIDDLE-CLASS
 
 OF DORMITORY TREES
 
-THE [[Dawn|DAWN]]
+THE [[motifs/dawn|DAWN]]
 
 THE SPECIAL CHAPELS
 
@@ -96,7 +96,7 @@ THE BALLON D’ALSACE
 
 THE INNER DARKNESS
 
-THE COMMON [[Faith|FAITH]]
+THE COMMON [[concepts/faith|FAITH]]
 
 THE SINGLE BEVERAGE
 
@@ -148,7 +148,7 @@ THE RUDE PEASANTS
 
 LITERAL VOW
 
-ON THE [[Faith|FAITH]]
+ON THE [[concepts/faith|FAITH]]
 
 ON STYLE
 
@@ -368,7 +368,7 @@ THE END AGAIN
 
 Frontispiece of the first edition
 
-‘... and as to what may be in this book, do not feel timid nor hesitate to enter. There are more [[Mountains|mountains]] than mole-hills ...’
+‘... and as to what may be in this book, do not feel timid nor hesitate to enter. There are more [[settings/mountains|mountains]] than mole-hills ...’
 
 ‘. .. AMORE ANTIQUI RITUS, ALTO SUB NUMINE ROMAE’
 
@@ -378,7 +378,7 @@ TO EVERY HONEST reader that may purchase, hire, or receive this book, and to the
 
 If you should ask how this book came to be written, it was in this way. One day as I was wandering over the world I came upon the valley where I was born, and stopping there a moment to speak with them all — when I had argued politics with the grocer, and played the great lord with the notary-public, and had all but made the carpenter a Christian by force of rhetoric — what should I note (after so many years) but the old tumble-down and gaping church, that I love more than mother-church herself, all scraped, white, rebuilt, noble, and new, as though it had been finished yesterday. Knowing very well that such a change had not come from the skinflint populace, but was the work of some just artist who knew how grand an ornament was this shrine (built there before our people stormed Jerusalem), I entered, and there saw that all within was as new, accurate, and excellent as the outer part; and this pleased me as much as though a fortune had been left to us all; for one’s native place is the shell of one’s soul, and one’s church is the kernel of that nut.
 
-Moreover, saying my prayers there, I noticed behind the high altar a statue of Our Lady, so extraordinary and so different from all I had ever seen before, so much the spirit of my valley, that I was quite taken out of myself and vowed a vow there to go to Rome on Pilgrimage and see all Europe which the Christian [[Faith]] has saved; and I said, ‘I will start from the place where I served in arms for my sins; I will walk all the way and take advantage of no wheeled thing; I will sleep rough and cover thirty miles a day, and I will hear Mass every morning; and I will be present at high Mass in St Peter’s on the Feast of St Peter and St Paul.’
+Moreover, saying my prayers there, I noticed behind the high altar a statue of Our Lady, so extraordinary and so different from all I had ever seen before, so much the spirit of my valley, that I was quite taken out of myself and vowed a vow there to go to Rome on Pilgrimage and see all Europe which the Christian [[concepts/faith|Faith]] has saved; and I said, ‘I will start from the place where I served in arms for my sins; I will walk all the way and take advantage of no wheeled thing; I will sleep rough and cover thirty miles a day, and I will hear Mass every morning; and I will be present at high Mass in St Peter’s on the Feast of St Peter and St Paul.’
 
 Then I went out of the church still having that Statue in my mind, and I walked again farther into the world, away from my native valley, and so ended some months after in a place whence I could fulfil my vow; and I started as you shall hear. All my other vows I broke one by one. For a faggot
 
@@ -428,7 +428,7 @@ Before you blame too much, consider the alternative. Shall a man march through E
 
 Shall an artist write a book? Why no, the remedy is worse than the disease.
 
-Let us agree then, that, if he will, any [[Pilgrim|pilgrim]] may for the future draw (if he likes) that most difficult subject, snow hills beyond a grove of trees; that he may draw whatever he comes across in order to enliven his mind (for who saw it if not he? And was it not his loneliness that enabled him to see it?), and that he may draw what he never saw, with as much freedom as you readers so very continually see what you never draw. He may draw the morning mist on the Grimsel, six months afterwards; when he has forgotten what it was like: and he may frame it for a masterpiece to make the good draughtsman rage.
+Let us agree then, that, if he will, any [[archetypes/pilgrim|pilgrim]] may for the future draw (if he likes) that most difficult subject, snow hills beyond a grove of trees; that he may draw whatever he comes across in order to enliven his mind (for who saw it if not he? And was it not his loneliness that enabled him to see it?), and that he may draw what he never saw, with as much freedom as you readers so very continually see what you never draw. He may draw the morning mist on the Grimsel, six months afterwards; when he has forgotten what it was like: and he may frame it for a masterpiece to make the good draughtsman rage.
 
 The world has grown a boy again this long time past, and they are building hotels (I hear) in the place where Acedes discovered the Water of Youth in a hollow of the hill Epistemonoscoptes.
 
@@ -440,13 +440,13 @@ Nor let us be too hard upon the just but anxious fellow that sat down dutifully 
 
 The Path to Rome
 
-When that first Proverb-Maker who has imposed upon all peoples by his epigrams and his fallacious half-truths, his empiricism and his wanton appeals to popular ignorance, I say when this man (for I take it he was a man, and a wicked one) was passing through [[France]] he launched among the French one of his pestiferous phrases, ‘Ce n’est que le premier pas qui coûté” \ and this in a rolling-in-the-mouth self-satisfied kind of a manner has been repeated since his day at least seventeen million three hundred and sixty-two thousand five hundred and four times by a great mass of Ushers, Parents, Company Officers, Elder Brothers, Parish Priests, and authorities in general whose office it may be and whose pleasure it certainly is to jog up and disturb that native slumber and inertia of the mind which is the true breeding soil of Revelation.
+When that first Proverb-Maker who has imposed upon all peoples by his epigrams and his fallacious half-truths, his empiricism and his wanton appeals to popular ignorance, I say when this man (for I take it he was a man, and a wicked one) was passing through [[settings/france|France]] he launched among the French one of his pestiferous phrases, ‘Ce n’est que le premier pas qui coûté” \ and this in a rolling-in-the-mouth self-satisfied kind of a manner has been repeated since his day at least seventeen million three hundred and sixty-two thousand five hundred and four times by a great mass of Ushers, Parents, Company Officers, Elder Brothers, Parish Priests, and authorities in general whose office it may be and whose pleasure it certainly is to jog up and disturb that native slumber and inertia of the mind which is the true breeding soil of Revelation.
 
 For when boys or soldiers or poets, or any other blossoms and prides of nature, are for lying steady in the shade and letting the Mind commune with its Immortal Comrades, up comes Authority busking about and eager as though it were a duty to force the said Mind to burrow and sweat in the matter of this very perishable world, its temporary habitation.
 
 ‘Up,’ says Authority, ‘and let me see that Mind of yours doing something practical. Let me see Him mixing painfully with circumstance, and botching up some Imperfection or other that shall at least be a Reality and not a silly Fantasy.’
 
-Then the poor Mind comes back to Prison again, and the boy takes his horrible Homer in the real Greek (not Church’s book, alas!); the Poet his rough hairy paper, his headache, and his cross-nibbed pen; the Soldier abandons his inner picture of swaggering about in ordinary clothes, and sees the dusty road and feels the hard places in his boot, and shakes down again to the steady pressure of his pack; and Authority is satisfied, knowing that he will get a smattering from the Boy, a rubbishy verse from the Poet, and from the Soldier a long and thirsty march. And Authority, when it does this commonly sets to work by one of these formulae: as, in England north of Trent, by the manifestly false and boastful phrase, ‘A thing begun is half ended’, and in the south by ‘The Beginning is half the Battle’; but in [[France]] by the words I have attributed to the Proverb-Maker, ‘Ce n’est que le premier pas qui coûte’.
+Then the poor Mind comes back to Prison again, and the boy takes his horrible Homer in the real Greek (not Church’s book, alas!); the Poet his rough hairy paper, his headache, and his cross-nibbed pen; the Soldier abandons his inner picture of swaggering about in ordinary clothes, and sees the dusty road and feels the hard places in his boot, and shakes down again to the steady pressure of his pack; and Authority is satisfied, knowing that he will get a smattering from the Boy, a rubbishy verse from the Poet, and from the Soldier a long and thirsty march. And Authority, when it does this commonly sets to work by one of these formulae: as, in England north of Trent, by the manifestly false and boastful phrase, ‘A thing begun is half ended’, and in the south by ‘The Beginning is half the Battle’; but in [[settings/france|France]] by the words I have attributed to the Proverb-Maker, ‘Ce n’est que le premier pas qui coûte’.
 
 By this you may perceive that the Proverb-Maker, like every other Dema-
 
@@ -516,9 +516,9 @@ It was in the very beginning of June, at evening, but not yet sunset, that I set
 
 THE FIRST GARRISON
 
-WHERE THE DOTTED line points exactly to Rome. There are two bends which take one a little out of one’s way, and these bends I attempted to avoid, but in general, the valley, about a hundred miles from Toul to the source, is an evident gate for any one walking from this part of Lorraine into [[Italy]]. And this map is also useful to show what route I followed for my first three days past Epinal and Remiremont up to the source of the river, and up over the great hill, the Ballon d’Alsace. I show the river valley like a trench, and the hills above it shaded, till the mountainous upper part, the Vosges, is put in black. I chose the decline of the day for setting out, because of the great heat a little before noon and four hours after it. Remembering this, I planned to walk at night and in the mornings and evenings, but how this design turned out you shall hear in a moment.
+WHERE THE DOTTED line points exactly to Rome. There are two bends which take one a little out of one’s way, and these bends I attempted to avoid, but in general, the valley, about a hundred miles from Toul to the source, is an evident gate for any one walking from this part of Lorraine into [[settings/italy|Italy]]. And this map is also useful to show what route I followed for my first three days past Epinal and Remiremont up to the source of the river, and up over the great hill, the Ballon d’Alsace. I show the river valley like a trench, and the hills above it shaded, till the mountainous upper part, the Vosges, is put in black. I chose the decline of the day for setting out, because of the great heat a little before noon and four hours after it. Remembering this, I planned to walk at night and in the mornings and evenings, but how this design turned out you shall hear in a moment.
 
-I had not gone far, not a quarter of a mile, along my road leaving the town, when I thought I would stop and rest a little and make sure that I had started propitiously and that I was really on my way to Rome; so I halted by a wall and looked back at the city and the forts, and drew what I saw in my book. It was a sight that had taken a firm hold of my mind in boyhood, and that will remain in it as long as it can make pictures for itself out of the past. I think this must be true of all conscripts with regard to the garrison in which they have served, for the mind is so fresh at twenty-one and the life so new to every recruit as he joins it, he is so cut off from books and all the worries of life, that the surroundings of the place bite into him and take root, as one’s school does or one’s first home. And I had been especially fortunate since I had been with the gunners (notoriously the best kind of men) and not in a big place but in a little town, very old and silent, with more soldiers in its surrounding circle than there were men, women, and children within its useless ramparts. It is known to be very beautiful, and though I had not heard of this reputation, I saw it to be so at once when I was first marched in, on a November [[Dawn|dawn]], up to the height of the artillery barracks. I remembered seeing then the great hills surrounding it on every side, hiding their menace and protection of guns, and in the south and east the silent valley where the high forests dominate the Moselle, and the town below the road standing in an island or ring of tall trees. All this, I say, I had permanently remembered, and I had determined, whenever I could go on pilgrimage to Rome, to make this place my starting-point, and as I stopped here and looked back, a little way outside the gates, I took in again the scene that recalled so much laughter and heavy work and servitude and pride of arms.
+I had not gone far, not a quarter of a mile, along my road leaving the town, when I thought I would stop and rest a little and make sure that I had started propitiously and that I was really on my way to Rome; so I halted by a wall and looked back at the city and the forts, and drew what I saw in my book. It was a sight that had taken a firm hold of my mind in boyhood, and that will remain in it as long as it can make pictures for itself out of the past. I think this must be true of all conscripts with regard to the garrison in which they have served, for the mind is so fresh at twenty-one and the life so new to every recruit as he joins it, he is so cut off from books and all the worries of life, that the surroundings of the place bite into him and take root, as one’s school does or one’s first home. And I had been especially fortunate since I had been with the gunners (notoriously the best kind of men) and not in a big place but in a little town, very old and silent, with more soldiers in its surrounding circle than there were men, women, and children within its useless ramparts. It is known to be very beautiful, and though I had not heard of this reputation, I saw it to be so at once when I was first marched in, on a November [[motifs/dawn|dawn]], up to the height of the artillery barracks. I remembered seeing then the great hills surrounding it on every side, hiding their menace and protection of guns, and in the south and east the silent valley where the high forests dominate the Moselle, and the town below the road standing in an island or ring of tall trees. All this, I say, I had permanently remembered, and I had determined, whenever I could go on pilgrimage to Rome, to make this place my starting-point, and as I stopped here and looked back, a little way outside the gates, I took in again the scene that recalled so much laughter and heavy work and servitude and pride of arms.
 
 I was looking straight at the great fort of St Michel, which is the strongest thing on the frontier, and which is the key to the circle of forts that make up
 
@@ -560,7 +560,7 @@ There was one guttering candle on a little stool. The roof of the shed was lost 
 
 THE LAKE OF THE MOSELLE
 
-THERE WERE NEARLY a hundred, and he filled them all; not in jollity, but like a man offering up a solemn sacrifice. We also, entering into his mood, passed our mugs continually, thanking him in a low tone and keeping in the main silent. A few linesmen lounged at the door; he asked for their cups and filled them. He bade them fetch as many of their comrades as cared to come; and very soon there was a circulating crowd of men all getting wine of Brule and murmuring their congratulations, and he was willing enough to go on giving, but we stopped when we saw fit and the scene ended. I cannot tell what prodigious measure of wine he gave away to us all that night, but when he struck the roof of the cask it already sounded hollow. And when we had made a collection which he had refused, he went to sleep by his oxen, and we to our straw in other barns. Next day we started before [[Dawn|dawn]], and I never saw him again.
+THERE WERE NEARLY a hundred, and he filled them all; not in jollity, but like a man offering up a solemn sacrifice. We also, entering into his mood, passed our mugs continually, thanking him in a low tone and keeping in the main silent. A few linesmen lounged at the door; he asked for their cups and filled them. He bade them fetch as many of their comrades as cared to come; and very soon there was a circulating crowd of men all getting wine of Brule and murmuring their congratulations, and he was willing enough to go on giving, but we stopped when we saw fit and the scene ended. I cannot tell what prodigious measure of wine he gave away to us all that night, but when he struck the roof of the cask it already sounded hollow. And when we had made a collection which he had refused, he went to sleep by his oxen, and we to our straw in other barns. Next day we started before [[motifs/dawn|dawn]], and I never saw him again.
 
 This is the story of the wine of Brule, and it shows that what men love is never money itself but their own way, and that human beings love sympathy and pageant above all things. It also teaches us not to be hard on the rich.
 
@@ -694,7 +694,7 @@ argumentative and atheists (I except the cobbler under Plinlimmon, concerning wh
 
 So it was with this baker of mine in Flavigny, who was a boy. When he heard that I had served at Toul he was delighted beyond measure; he told me of a brother of his that had been in the same regiment, and he assured me that he was himself going into the artillery by special enlistment, having got his father’s leave. You know very little if you think I missed the opportunity of making the guns seem terrible and glorious in his eyes. I told him stories enough to waken a sentry of reserve, and if it had been possible (with my youth so obvious) I would have woven in a few anecdotes of active service, and described great shells bursting under my horses and the teams shot down, and the gunners all the while impassive; but as I saw I should not be believed I did not speak of such things, but confined myself to what he would see and hear when he joined.
 
-Meanwhile the good warm food and the rising morning had done two things; they had put much more vigour into me than I had had when I slunk in half-an-hour before, but at the same time (and this is a thing that often comes with food and with rest) they had made me feel the fatigue of so long a night. I rose up, therefore, determined to find some place where I could sleep. I asked this friend of mine how much there was to pay, and he said ‘fourpence’. Then we exchanged ritual salutations, and I took the road. I did not leave the town or village without noticing one extraordinary thing at the far end of it, which was that, whereas most places in [[France]] are proud of their town-hall and make a great show of it, here in Flavigny they had taken a great house and written over it ÉCOLE COMMUNALE in great letters, and then they had written over a kind of lean-to or out-house of this big place the words ‘Hôtel de ville’ in very small letters, so small that I had a doubt for a moment if the citizens here were good republicans — a treasonable thought on all this frontier.
+Meanwhile the good warm food and the rising morning had done two things; they had put much more vigour into me than I had had when I slunk in half-an-hour before, but at the same time (and this is a thing that often comes with food and with rest) they had made me feel the fatigue of so long a night. I rose up, therefore, determined to find some place where I could sleep. I asked this friend of mine how much there was to pay, and he said ‘fourpence’. Then we exchanged ritual salutations, and I took the road. I did not leave the town or village without noticing one extraordinary thing at the far end of it, which was that, whereas most places in [[settings/france|France]] are proud of their town-hall and make a great show of it, here in Flavigny they had taken a great house and written over it ÉCOLE COMMUNALE in great letters, and then they had written over a kind of lean-to or out-house of this big place the words ‘Hôtel de ville’ in very small letters, so small that I had a doubt for a moment if the citizens here were good republicans — a treasonable thought on all this frontier.
 
 Then, a mile onward, I saw the road cross the canal and run parallel to it. I
 
@@ -730,7 +730,7 @@ action and judgement.
 
 4. And the most important cause of this feeling of satisfaction is that you are doing what the human race has done for thousands upon thousands upon thousands of years. This is a matter of such moment that I am astonished people hear of it so little. Whatever is buried right into our blood from immemorial habit that we must be certain to do if we are to be fairly happy (of course no grown man or woman can really be very happy for long — but I mean reasonably happy), and, what is more important, decent and secure of our souls. Thus one should from time to time hunt animals, or at the very least shoot at a mark; one should always drink some kind of fermented liquor with one’s food — and especially deeply upon great feast-days; one should go on the water from time to time; and one should dance on occasions; and one should sing in chorus. For all these things man has done since God put him into a garden and his eyes first became troubled with a soul. Similarly some teacher or ranter or other, whose name I forget, said lately one very wise thing at least, which was that every man should do a little work with his hands.
 
-Oh! what good philosophy this is, and how much better it would be if rich people, instead of raining the influence of their rank and spending their money on leagues for this or that exceptional thing, were to spend it in converting the middle-class to ordinary living and to the [[Tradition|tradition]] of the race. Indeed, if I had power for some thirty years I would see to it that people should be allowed to follow their inbred instincts in these matters, and should hunt, drink, sing, dance, sail, and dig; and those that would not should be compelled by force.
+Oh! what good philosophy this is, and how much better it would be if rich people, instead of raining the influence of their rank and spending their money on leagues for this or that exceptional thing, were to spend it in converting the middle-class to ordinary living and to the [[concepts/tradition|tradition]] of the race. Indeed, if I had power for some thirty years I would see to it that people should be allowed to follow their inbred instincts in these matters, and should hunt, drink, sing, dance, sail, and dig; and those that would not should be compelled by force.
 
 Now in the morning Mass you do all that the race needs to do and has done for all these ages where religion was concerned; there you have the sacred and
 
@@ -802,7 +802,7 @@ from the pen of intellectuals — nonsense I had known to be nonsense, but that 
 
 There are many wonderful things in Epinal. As, for instance, that it was evidently once, like Paris and Melun and a dozen other strongholds of the Gauls, an island city. For the rivers of France are full of long, habitable islands, and these were once the rallying-places of clans. Then there are the forts which are placed on high hills round the town and make it even stronger than Toul; for Epinal stands just where the hills begin to be very high. Again, it is the capital of a mountain district, and this character always does something peculiar and impressive to a town. You may watch its effect in Grenoble, in little Aubusson, and, rather less, in Geneva.
 
-For in such towns three quite different kinds of men meet. First there are the old plain-men, who despise the highlanders and think themselves much grander and more civilized; these are the burgesses. Then there are the peasants and wood-cutters, who come in from the hill-country to market, and who are suspicious of the plain-men and yet proud to depend upon a real town with a bishop and paved streets. Lastly, there are the travellers, who come there to enjoy the [[Mountains|mountains]] and to make the city a base for their excursions, and these love the hill-men and think they understand them, and they despise the plain-men for being so middle-class as to lord it over the hill-men: but in truth
+For in such towns three quite different kinds of men meet. First there are the old plain-men, who despise the highlanders and think themselves much grander and more civilized; these are the burgesses. Then there are the peasants and wood-cutters, who come in from the hill-country to market, and who are suspicious of the plain-men and yet proud to depend upon a real town with a bishop and paved streets. Lastly, there are the travellers, who come there to enjoy the [[settings/mountains|mountains]] and to make the city a base for their excursions, and these love the hill-men and think they understand them, and they despise the plain-men for being so middle-class as to lord it over the hill-men: but in truth
 
 * * *
 
@@ -846,7 +846,7 @@ WITH THIS HE pulled out a round bottle, on the label of which was printed in gre
 
 Everything happened just as he had said. When I was some little way above the town I sat down on a low wall and rubbed my knee strongly and long with this balm, and the pain instantly disappeared. Then, with a heart renewed by this prodigy, I took the road again and began walking very rapidly and high, swinging on to Rome.
 
-The Moselle above fipinal takes a bend outwards, and it seemed to me that a much shorter way to the next village (which is called Archettes, or ‘the very little arches’, because there are no arches there) would be right over the hill round which the river curved. This error came from following private judgement and not heeding [[Tradition|tradition]], here represented by the highroad which closely follows the river. For though a straight tunnel to Archettes would have saved distance, yet a climb over that high hill and through the pathless wood on its summit was folly.
+The Moselle above fipinal takes a bend outwards, and it seemed to me that a much shorter way to the next village (which is called Archettes, or ‘the very little arches’, because there are no arches there) would be right over the hill round which the river curved. This error came from following private judgement and not heeding [[concepts/tradition|tradition]], here represented by the highroad which closely follows the river. For though a straight tunnel to Archettes would have saved distance, yet a climb over that high hill and through the pathless wood on its summit was folly.
 
 I went at first over wide, sloping fields, and some hundred feet above the valley I crossed a little canal. It was made on a very good system, and I recommend it to the riparian owners of the Upper Wye, which needs it. They take the water from the Moselle (which is here broad and torrential and falls in steps, running over a stony bed with little swirls and rapids), and they lead it along at an even gradient, averaging, as it were, the uneven descent of the river. In this way they have a continuous stream running through fields that would otherwise be bare and dry, but that are thus nourished into excellent pastures.
 
@@ -866,13 +866,13 @@ I climbed, then, over slippery pine needles and under the charged air of those t
 
 This false battery was on the brow of the hill, and when I reached it I looked down the slope, over the brushwood that hid the wire entanglements, and there was the whole valley of the Moselle at my feet.
 
-As this was the first really great height, so this was the first really great view that I met with on my pilgrimage. I drew it carefully, piece by piece, sitting there a long time in the declining sun and noting all I saw. Archettes, just below; the flat valley with the river winding from side to side; the straight rows of poplar trees; the dark pines on the hills, and the rounded [[Mountains|mountains]] rising farther and higher into the distance until the last I saw, far off to the south-east,
+As this was the first really great height, so this was the first really great view that I met with on my pilgrimage. I drew it carefully, piece by piece, sitting there a long time in the declining sun and noting all I saw. Archettes, just below; the flat valley with the river winding from side to side; the straight rows of poplar trees; the dark pines on the hills, and the rounded [[settings/mountains|mountains]] rising farther and higher into the distance until the last I saw, far off to the south-east,
 
 * * *
 
 THE GREAT VIEW
 
-MUST HAVE BEEN the Ballon d’Alsace at the sources of the Moselle — the hill that marked the first full stage in my [[Journey|journey]] and that overlooked Switzerland.
+MUST HAVE BEEN the Ballon d’Alsace at the sources of the Moselle — the hill that marked the first full stage in my [[motifs/journey|journey]] and that overlooked Switzerland.
 
 Indeed, this is the peculiar virtue of walking to a far place, and especially of walking there in a straight line, that one gets these visions of the world from hill-tops.
 
@@ -978,7 +978,7 @@ THE YOUTH OF RIVERS
 
 FROM THE WINDS, it is closed at the end by the great mass of the Ballon d’Alsace, its floor is smooth and level, its richness is used to feed grass and pasturage, and knots of trees grow about it as though they had been planted to please the eye.
 
-Nothing can take from the sources of rivers their character of isolation and repose. Here what are afterwards to become the influences of the plains are nurtured and tended as though in an orchard, and the future life of a whole fruitful valley with its regal towns is determined. Something about these places prevents ingress or spoliation. They will endure no settlements save of peasants; the waters are too young to be harnessed; the hills forbid an easy commerce with neighbours. Throughout the world I have found the heads of rivers to be secure places of silence and content. And as they are themselves a kind of youth, the early home of all that rivers must at last become — I mean special ways of building and a separate state of living, a local air and a [[Tradition|tradition]] of history, for rivers are always the makers of provinces — so they bring extreme youth back to one, and these upper glens of the world steep one in simplicity and childhood.
+Nothing can take from the sources of rivers their character of isolation and repose. Here what are afterwards to become the influences of the plains are nurtured and tended as though in an orchard, and the future life of a whole fruitful valley with its regal towns is determined. Something about these places prevents ingress or spoliation. They will endure no settlements save of peasants; the waters are too young to be harnessed; the hills forbid an easy commerce with neighbours. Throughout the world I have found the heads of rivers to be secure places of silence and content. And as they are themselves a kind of youth, the early home of all that rivers must at last become — I mean special ways of building and a separate state of living, a local air and a [[concepts/tradition|tradition]] of history, for rivers are always the makers of provinces — so they bring extreme youth back to one, and these upper glens of the world steep one in simplicity and childhood.
 
 It was my delight to lie upon a bank of the road and to draw what I saw before me, which was the tender stream of the Moselle slipping through fields quite flat and even and undivided by fences; its banks had here a strange effect of Nature copying man’s art: they seemed a park, and the river wound through it full of the positive innocence that attaches to virgins: it nourished and was guarded by trees.
 
@@ -988,7 +988,7 @@ THE PIOUS WOMAN
 
 THERE WAS ABOUT that scene something of creation and of a beginning, and as I drew it, it gave me like a gift the freshness of the first experiences of living and filled me with remembered springs. I mused upon the birth of rivers, and how they were persons and had a name — were kings, and grew strong and ruled great countries, and how at last they reached the sea.
 
-But while I was thinking of these things, and seeing in my mind a kind of picture of The River Valley, and of men clustering around their home stream, and of its ultimate vast plains on either side, and of the white line of the sea beyond all, a woman passed me. She was very ugly, and was dressed in black. Her dress was stiff and shining, and, as I imagined, valuable. She had in her hand a book known to the French as ‘The Roman Parishioner’, which is a [[Prayer|prayer]]-book. Her hair was hidden in a stiff cap or bonnet; she walked rapidly, with her eyes on the ground. When I saw this sight it reminded me suddenly, and I cried out profanely, ‘Devil take me! It is Corpus Christi, and my third day out. It would be a wicked pilgrimage if I did not get Mass at last.’ For my first day (if you remember) I had slept in a wood beyond Mass-time, and my second (if you remember) I had slept in a bed. But this third day, a great Feast into the bargain, I was bound to hear Mass, and this woman hurrying along to the next village proved that I was not too late.
+But while I was thinking of these things, and seeing in my mind a kind of picture of The River Valley, and of men clustering around their home stream, and of its ultimate vast plains on either side, and of the white line of the sea beyond all, a woman passed me. She was very ugly, and was dressed in black. Her dress was stiff and shining, and, as I imagined, valuable. She had in her hand a book known to the French as ‘The Roman Parishioner’, which is a [[motifs/prayer|prayer]]-book. Her hair was hidden in a stiff cap or bonnet; she walked rapidly, with her eyes on the ground. When I saw this sight it reminded me suddenly, and I cried out profanely, ‘Devil take me! It is Corpus Christi, and my third day out. It would be a wicked pilgrimage if I did not get Mass at last.’ For my first day (if you remember) I had slept in a wood beyond Mass-time, and my second (if you remember) I had slept in a bed. But this third day, a great Feast into the bargain, I was bound to hear Mass, and this woman hurrying along to the next village proved that I was not too late.
 
 So I hurried in her wake and came to the village, and went into the church, which was very full, and came down out of it (the Mass was low and short — they are a Christian people) through an avenue of small trees and large branches set up in front of the houses to welcome the procession that was to be held near noon. At the foot of the street was an inn where I entered to eat, and finding there another man — I take him to have been a shopkeeper — I determined to talk politics, and began as follows:
 
@@ -1028,7 +1028,7 @@ TOP OF THE hill; for the Ballon d’Alsace is so shaped that it is impossible fo
 
 dark stands for the valley and the light for the high places, will show better than a long description. Not that this map is of the Ballon d’Alsace in particular, but only of the type of hill I mean.
 
-Since, in crossing a range, it is usually possible to find a low point suitable for surmounting it, such summit roads are rare, but when one does get them they are the finest travel in the world, for they furnish at one point (that is, at the summit) what ordinary roads going through passes can never give you: a moment of domination. From their climax you look over the whole world, and you feel your [[Journey|journey]] to be adventurous and your advance to have taken some great definite step from one province and people to another.
+Since, in crossing a range, it is usually possible to find a low point suitable for surmounting it, such summit roads are rare, but when one does get them they are the finest travel in the world, for they furnish at one point (that is, at the summit) what ordinary roads going through passes can never give you: a moment of domination. From their climax you look over the whole world, and you feel your [[motifs/journey|journey]] to be adventurous and your advance to have taken some great definite step from one province and people to another.
 
 I would not be bound by the exaggerated zig-zags of the road, which had been built for artillery, and rose at an easy slope. I went along the bed of the dell before me and took the forest by a little path that led straight upward, and when the path failed, my way was marked by the wire of the telegraph that crosses to Belfort. As I rose I saw the forest before me grow grander. The pine branches came down from the trunks with a greater burden and majesty in
 
@@ -1118,7 +1118,7 @@ THE TRACK TO SWITZERLAND
 
 MARTYRIZED THAT I doubted if I could walk at all on the morrow. Nevertheless I was so wrapped round with the repose of this family’s virtues that I fell asleep at once. Next day the sun was rising in angry glory over the very distant hills of Germany, his new light running between the pinnacles of the clouds as the commands of a conqueror might come trumpeted down the defiles of mountains, when I fearlessly forced my boots on to my feet and left their doors.
 
-The morning outside came living and sharp after the gale — almost chilly. Under a scattered but clearing sky I first limped, then, as my blood warmed, strode down the path that led between the trees of the farther vale and was soon following a stream that leaped from one fall to another till it should lead me to the main road, to Belfort, to the Jura, to the Swiss whom I had never known, and at last to [[Italy]].
+The morning outside came living and sharp after the gale — almost chilly. Under a scattered but clearing sky I first limped, then, as my blood warmed, strode down the path that led between the trees of the farther vale and was soon following a stream that leaped from one fall to another till it should lead me to the main road, to Belfort, to the Jura, to the Swiss whom I had never known, and at last to [[settings/italy|Italy]].
 
 But before I call up the recollection of that hidden valley, I must describe with a map the curious features of the road that lay before me into Switzerland. I was standing on the summit of that knot of hills which rise up from every side to form the Ballon d’Alsace, and make an abrupt ending to the Vosges. Before me, southward and eastward, was a great plain with the fortress of Belfort in the midst of it. This plain is called by soldiers ‘the Gap of Belfort’, and is the only break in the hill frontier that covers France all the way from the Mediterranean to Flanders. On the farther side of this plain ran the Jura mountains, which are like a northern wall to Switzerland, and just before you reach them is the Frontier. The Jura are fold on fold of high limestone ridges, thousands of feet high, all parallel, with deep valleys, thousands of feet deep, between them; and beyond their last abrupt escarpment is the wide plain of the river Aar.
 
@@ -1330,7 +1330,7 @@ DEFINED BOUNDARIES, FROM the Baltic into the high hills of the south. I will not
 
 LECTOR. But in Porrentruy they talk French!
 
-AUCTOR. They are welcome; it is an excellent tongue. Nevertheless, they are Germans. Who but Germans would so preserve — would so rebuild the past? Who but Germans would so feel the mystery of the hills, and so fit their town to the mountains? I was to pass through but a narrow wedge of this strange and diffuse people. They began at Porrentruy, they ended at the watershed of the Adriatic, in the high passes of the Alps; but in that little space of four days I made acquaintance with their influence, and I owe them a perpetual gratitude for their architecture and their tales. I had come from France, which is full of an active memory of Rome. I was to debouch into those larger plains of [[Italy]], which keep about them an atmosphere of Rome in decay. Here in Switzerland, for four marches, I touched a northern, exterior, and barbaric people; for though these mountains spoke a distorted Latin tongue, and only after the first day began to give me a Teutonic dialect, yet it was evident from the first that they had about them neither the Latin order nor the Latin power to create, but were contemplative and easily absorbed by a little effort.
+AUCTOR. They are welcome; it is an excellent tongue. Nevertheless, they are Germans. Who but Germans would so preserve — would so rebuild the past? Who but Germans would so feel the mystery of the hills, and so fit their town to the mountains? I was to pass through but a narrow wedge of this strange and diffuse people. They began at Porrentruy, they ended at the watershed of the Adriatic, in the high passes of the Alps; but in that little space of four days I made acquaintance with their influence, and I owe them a perpetual gratitude for their architecture and their tales. I had come from France, which is full of an active memory of Rome. I was to debouch into those larger plains of [[settings/italy|Italy]], which keep about them an atmosphere of Rome in decay. Here in Switzerland, for four marches, I touched a northern, exterior, and barbaric people; for though these mountains spoke a distorted Latin tongue, and only after the first day began to give me a Teutonic dialect, yet it was evident from the first that they had about them neither the Latin order nor the Latin power to create, but were contemplative and easily absorbed by a little effort.
 
 The German spirit is a marvel. There lay Porrentruy. An odd door with Gothic turrets marked the entry to the town. To the right of this gateway a tower, more enormous than anything I remembered to have seen, even in dreams, flanked the approach to the city. How vast it was, how protected, how high, how eaved, how enduring! I was told later that some part of that great bastion was Roman, and I can believe it. The Germans hate to destroy. It overwhelmed me as visions overwhelm, and I felt in its presence as boys feel
 
@@ -1574,7 +1574,7 @@ All the village sang, knowing the psalms very well, and I noticed that their Lat
 
 Te, lucis ante terminum.
 
-My whole mind was taken up and transfigured by this collective act, and I saw for a moment the [[Catholic Church]] quite plain, and I remembered Europe, and the centuries. Then there left me altogether that attitude of difficulty and combat which, for us others, is always associated with the Faith. The cities dwindled in my imagination, and I took less heed of the modern noise. I went out with them into the clear evening and the cool. I found my cigar and lit it again, and musing much more deeply than before, not without tears, I considered the nature of Belief.
+My whole mind was taken up and transfigured by this collective act, and I saw for a moment the [[historical-references/catholic-church|Catholic Church]] quite plain, and I remembered Europe, and the centuries. Then there left me altogether that attitude of difficulty and combat which, for us others, is always associated with the Faith. The cities dwindled in my imagination, and I took less heed of the modern noise. I went out with them into the clear evening and the cool. I found my cigar and lit it again, and musing much more deeply than before, not without tears, I considered the nature of Belief.
 
 * * *
 
@@ -1598,7 +1598,7 @@ There was to be no more of that studious content, that security in historic anal
 
 ON STYLE
 
-THE [[Catholic Church|CATHOLIC CHURCH]] will have no philosophies. She will permit no comforts; the cry of the martyrs is in her far voice; her eyes that see beyond the world present us heaven and hell to the confusion of our human reconciliations, our happy blending of good and evil things.
+THE [[historical-references/catholic-church|CATHOLIC CHURCH]] will have no philosophies. She will permit no comforts; the cry of the martyrs is in her far voice; her eyes that see beyond the world present us heaven and hell to the confusion of our human reconciliations, our happy blending of good and evil things.
 
 By the Lord! I begin to think this intimate religion as tragic as a great love. There came back into my mind a relic that I have in my house. It is a panel of the old door of my college, having carved on it my college arms. I remembered the Lion and the Shield, Haec fuit, Haec almae janua sacra domus. Yes, certainly religion is as tragic as first love, and drags us out into the void away from our dear homes.
 
@@ -1924,7 +1924,7 @@ THE HUNGRY STUDENT FAILS TO APPEAR
 
 TO WRAP UP my bread and bacon in my haversack. This is the story, and I will tell it you.
 
-Now, I think of it, it would be a great waste of time. Here am I no farther than perhaps a third of my [[Journey|journey]], and I have already admitted so much digression that my pilgrimage is like the story of a man asleep and dreaming, instead of the plain, honest, and straightforward narrative of fact. I will therefore postpone the Story of the Hungry Student till I get into the plains of Italy, or into the barren hills of that peninsula, or among the over-well-known towns of Tuscany, or in some other place where a little padding will do neither you nor me any great harm.
+Now, I think of it, it would be a great waste of time. Here am I no farther than perhaps a third of my [[motifs/journey|journey]], and I have already admitted so much digression that my pilgrimage is like the story of a man asleep and dreaming, instead of the plain, honest, and straightforward narrative of fact. I will therefore postpone the Story of the Hungry Student till I get into the plains of Italy, or into the barren hills of that peninsula, or among the over-well-known towns of Tuscany, or in some other place where a little padding will do neither you nor me any great harm.
 
 On the other hand, do not imagine that I am going to give you any kind of description of this intolerable day’s march. If you want some kind of visual Concept (pretty word), take all these little châlets which were beginning and make what you can of them.
 
@@ -2056,7 +2056,7 @@ BETWEEN EASTERN AND Western Switzerland. At this wonderful point the Ticino, the
 
 When you are high up on either wall you can catch the plan of all this, but to avoid a confused description and to help you to follow the marvellous, Hannibalian and never-before-attempted charge and march which I made, and which, alas! ended only in a glorious defeat — to help you to picture faintly to yourselves the mirific and horripilant adventure whereby I nearly achieved superhuman success in spite of all the powers of the air, I append a little map which is rough but clear and plain, and which I beg you to study closely, for it will make it easy for you to understand what next happened in my pilgrimage.
 
-The dark strips are the deep cloven valleys, the shaded belt is that higher land which is yet passable by any ordinary man. The part left white you may take to be the very high fields of ice and snow with great peaks which an ordinary man must regard as impassable, unless, indeed, he can wait for his weather and take guides and go on as a tourist instead of a [[Pilgrim|pilgrim]].
+The dark strips are the deep cloven valleys, the shaded belt is that higher land which is yet passable by any ordinary man. The part left white you may take to be the very high fields of ice and snow with great peaks which an ordinary man must regard as impassable, unless, indeed, he can wait for his weather and take guides and go on as a tourist instead of a [[archetypes/pilgrim|pilgrim]].
 
 You will observe that I have marked five clefts or valleys. A is that of the Aar, and the little white patch at the beginning is the lake of Brienz. B is that of the Reuss. C is that of the Rhone; and all these three are north of the great watershed or main chain, and all three are full of German-speaking people.
 
@@ -2096,7 +2096,7 @@ THE AAR,’ AND so forth. So that my illusion of being alone in the roots of the
 
 If a man goes to drink good wine he does not say, ‘So that the wine be good I do not mind eating strong pepper and smelling hartshorn as I drink it,’ and if a man goes to read a good verse, for instance, Jean Richepin, he does not say, ‘Go on playing on the trombone, go on banging the cymbals; so long as I am reading good verse I am content.’ Yet men now go into the vast hills and sleep and live in their recesses, and pretend to be indifferent to all the touts and shouters and hurry and hotels and high prices and abominations. Thank God, it goes in grooves! I say it again, thank God, the railways are trenches that drain our modern marsh, for you have but to avoid railways, even by five miles, and you can get more peace than would fill a nosebag. All the world is my garden since they built railways, and gave me leave to keep off them.
 
-Also I vowed a franc to the Black Virgin of La Delivrande (next time I should be passing there) because I was delivered from being a tourist, and because all this horrible noise was not being dinned at me (who was a poor and dirty [[Pilgrim|pilgrim]], and no kind of prey for these cabmen, and busmen, and guides and couriers), but at a crowd of drawn, sad, jaded tourists that had come in by a train.
+Also I vowed a franc to the Black Virgin of La Delivrande (next time I should be passing there) because I was delivered from being a tourist, and because all this horrible noise was not being dinned at me (who was a poor and dirty [[archetypes/pilgrim|pilgrim]], and no kind of prey for these cabmen, and busmen, and guides and couriers), but at a crowd of drawn, sad, jaded tourists that had come in by a train.
 
 Soon I had left them behind. The road climbed the first step upwards in the valley, going round a rock on the other side of which the Aar had cut itself a gorge and rushed in a fall and rapids. Then the road went on and on weary mile after weary mile, and I stuck to it, and it rose slowly all the time, and all the time the Aar went dashing by, roaring and filling the higher valley with echoes.
 
@@ -3174,7 +3174,7 @@ The molinar — even the molinar — was careful of his way. Twice he waited, wa
 
 The molinar then, with gesticulations and expression of the eyes, gave me to understand that for this 50 c. the stilt-man would take me up to Tizzano on the high ridge and show me the path up the ridge; so the stilt-man turned to me and said, ‘Andiamo’ which means ‘Allons’. But when the Italians say ‘Andiamo’ they are less harsh than the northern French who say ‘Allans’; for the northern French have three troubles in the blood. They are fighters; they will for ever be seeking the perfect state, and they love furiously. Hence they ferment twice over, like wine subjected to movement and breeding acidity. Therefore is it that when they say ‘Allons’ it is harsher than ‘Andiamo’. My Italian said to me genially, ‘Andiamo’.
 
-The [[Catholic Church]] makes men. By which I do not mean boasters and swaggerers, nor bullies nor ignorant fools, who, finding themselves comfortable, think that their comfort will be a boon to others, and attempt (with singular unsuccess) to force it on the world; but men, human beings, different from the beasts, capable of firmness and discipline and recognition; accepting death; tenacious. Of her effects the most gracious is the character of the Irish and of these Italians. Of such also some day she may make soldiers.
+The [[historical-references/catholic-church|Catholic Church]] makes men. By which I do not mean boasters and swaggerers, nor bullies nor ignorant fools, who, finding themselves comfortable, think that their comfort will be a boon to others, and attempt (with singular unsuccess) to force it on the world; but men, human beings, different from the beasts, capable of firmness and discipline and recognition; accepting death; tenacious. Of her effects the most gracious is the character of the Irish and of these Italians. Of such also some day she may make soldiers.
 
 Have you ever noticed that all the Catholic Church does is thought beautiful and lovable until she comes out into the open, and then suddenly she is found
 
@@ -3310,7 +3310,7 @@ I found therefore in the short grass, and on the scented earth beneath one
 
 THE PASS INTO TUSCANY
 
-OF MY TREES, a place for lying down; I stretched myself out upon it, and lapsed into a profound slumber, which nothing but a vague and tenuous delight separated from complete forgetfulness. If the last confusion of thought, before sleep possessed me, was a kind of [[Prayer|prayer]] — and certainly I was in the mood of gratitude and of adoration — this [[Prayer|prayer]] was of course to God, from whom every good proceeds, but partly (idolatrously) to the Sun, which, of all the things He has made, seems, of what we at least can discover, the most complete and glorious.
+OF MY TREES, a place for lying down; I stretched myself out upon it, and lapsed into a profound slumber, which nothing but a vague and tenuous delight separated from complete forgetfulness. If the last confusion of thought, before sleep possessed me, was a kind of [[motifs/prayer|prayer]] — and certainly I was in the mood of gratitude and of adoration — this [[motifs/prayer|prayer]] was of course to God, from whom every good proceeds, but partly (idolatrously) to the Sun, which, of all the things He has made, seems, of what we at least can discover, the most complete and glorious.
 
 Therefore the first hours of the sunlight, after I had wakened, made the place like a new country; for my mind which received it was new. I reached Collagna before the great heat, following the fine highroad that went dipping and rising again along the mountain side, and then (leaving the road and crossing the little Secchia by a bridge), a path, soon lost in a grassy slope, gave me an indication of my way. For when I had gone an hour or so upwards along the shoulder of the hill, there opened gradually before me a silent and profound vale, hung with enormous woods, and sloping upwards to where it was closed by a high bank beneath and between two peaks. This bank I knew could be nothing else than the central ridge of the Apennines, the watershed, the boundary of Tuscany, and the end of all the main part of my journey. Beyond, the valleys would open on to the Tuscan Plain, and at the southern limit of that, Siena was my mark; from Siena to Rome an eager man, if he is sound, may march in three long days. Nor was that calculation all. The satisfaction of the last lap, of the home run, went with the word Tuscany in my mind; these cities were the approaches and introduction of the end.
 
@@ -4116,7 +4116,7 @@ CHARACTER OF PROVERB-MAKER
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Elogi per questo libro  
+Elogi per questo libro  
 # Il carattere di colui che compone proverbi
 
 
@@ -4145,7 +4145,7 @@ ON JUSTICE IN ARMIES
 
 <span class="qlang-split" data-lang="it"></span>
 
-#La valle del Mosella  
+La valle del Mosella  
 La prima guarnigione  
 Sulla giustizia nelle armate
 
@@ -4161,7 +4161,7 @@ THE COMING OF EVENING
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Storia del grande barile  
+Storia del grande barile  
 Il lago della mosella  
 L’arrivo della sera
 
@@ -4177,9 +4177,9 @@ THE CRY FOR A BED
 
 <span class="qlang-split" data-lang="it"></span>
 
-#La notte nella foresta  
-#Il villaggio sfortunato  
-#Il grido per un letto
+La notte nella foresta  
+Il villaggio sfortunato  
+Il grido per un letto
 
 
 
@@ -4193,7 +4193,7 @@ THE FURTHER VALLEY
 
 <span class="qlang-split" data-lang="it"></span>
 
-# La maledizione totale sui colazioni… La valle più lontana
+La maledizione totale sui colazioni… La valle più lontana
 
 
 
@@ -4207,7 +4207,7 @@ THE MORNING MASS
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Come scrivere rime  
+Come scrivere rime  
 Il calore del mattino  
 La messa mattutina
 
@@ -4222,7 +4222,7 @@ NATURE OF TEMPTING DEVILS
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Incanti  
+Incanti  
 La natura dei diavoli tentatori
 
 
@@ -4237,7 +4237,7 @@ THE LITTLE RUNNEL
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Chiesa di Epinal  
+Chiesa di Epinal  
 L’uomo delle mele  
 Il piccolo Runnel
 
@@ -4254,7 +4254,7 @@ APOLOGY FOR THE MIDDLE-CLASS
 
 <span class="qlang-split" data-lang="it"></span>
 
-# La falsa batteria  
+La falsa batteria  
 La grande vista  
 Scuse per la classe media
 
@@ -4264,14 +4264,14 @@ Scuse per la classe media
 
 
 OF DORMITORY TREES
-THE [[Dawn|DAWN]]
+THE [[motifs/dawn|DAWN]]
 THE SPECIAL CHAPELS
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 DEI ALBERI DEL DORMITORIO  
-[[Dawn|ALBA]]  
+[[motifs/dawn|ALBA]]  
 LE CHIESE SPECIALE
 
 
@@ -4286,7 +4286,7 @@ THE PIOUS WOMAN
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Nomi locali  
+Nomi locali  
 La giovinezza dei fiumi  
 La donna pia
 
@@ -4302,7 +4302,7 @@ THE INNER DARKNESS
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Gli ebrei delle colline  
+Gli ebrei delle colline  
 # Il pallone d’Alsazia  
 # L’oscurità interiore
 
@@ -4311,14 +4311,14 @@ THE INNER DARKNESS
 <span class="atom-split" data-atom="story_15_the_common_faith" data-title="The Path to Rome — The Common Faith" data-chapter="The Common Faith" data-kind="story" data-tags="concept/faith"></span>
 
 
-THE COMMON [[Faith|FAITH]]
+THE COMMON [[concepts/faith|FAITH]]
 THE SINGLE BEVERAGE
 THE TRACK TO SWITZERLAND
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-La comune [[Faith|>fede]]  
+La comune [[concepts/faith|>fede]]  
 L’unico bevanda disponibile  
 Il sentiero per la Svizzera
 
@@ -4334,9 +4334,9 @@ THE GREAT GARRISONS
 
 <span class="qlang-split" data-lang="it"></span>
 
-#La valle isolata  
-#I molti sacerdoti  
-#Le grandi guarnigioni
+La valle isolata  
+I molti sacerdoti  
+Le grandi guarnigioni
 
 
 
@@ -4350,7 +4350,7 @@ THE POWDER-MAGAZINE
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Costruire ponti  
+Costruire ponti  
 Gli economisti tristi  
 Il magazzino di polvere
 
@@ -4366,7 +4366,7 @@ DE GERMANIA
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Che cos’è l’anima?  
+Che cos’è l’anima?  
 Disastro del vino  
 Dalla Germania
 
@@ -4382,9 +4382,9 @@ THE MOUNT TERRIBLE
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Il vino sorprendente  
-#L’anarchista errato  
-#La montagna terribile
+Il vino sorprendente  
+L’anarchista errato  
+La montagna terribile
 
 
 
@@ -4398,7 +4398,7 @@ GORGE OF THE DOUBS
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Le finestre piegate  
+Le finestre piegate  
 Lode delle finestre  
 Gorgo del dubbio
 
@@ -4414,9 +4414,9 @@ SAFETY BEYOND
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Il ponte tentatore  
-#Il ponte terribile  
-#Sicurezza al di là…
+Il ponte tentatore  
+Il ponte terribile  
+Sicurezza al di là…
 
 
 
@@ -4430,7 +4430,7 @@ THEORY OF BLESSINGS
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Il campo comune  
+Il campo comune  
 # La marea umana  
 # Teoria delle benedizioni
 
@@ -4441,7 +4441,7 @@ THEORY OF BLESSINGS
 
 THE RUDE PEASANTS
 LITERAL VOW
-ON THE [[Faith|FAITH]]
+ON THE [[concepts/faith|FAITH]]
 ON STYLE
 
 
@@ -4449,7 +4449,7 @@ ON STYLE
 
 I contadini rozzi  
 Un voto solenne  
-Sulla [[Faith|>fede]]  
+Sulla [[concepts/faith|>fede]]  
 Sullo stile.
 
 
@@ -4464,7 +4464,7 @@ EVERYDAY LIFE, HORRORS THEREOF
 
 <span class="qlang-split" data-lang="it"></span>
 
-#I eretici tedeschi: la vita di tutti i giorni e i suoi orrori
+I eretici tedeschi: la vita di tutti i giorni e i suoi orrori
 
 
 
@@ -4478,7 +4478,7 @@ THE MILLS OF GOD
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Giocchi senza parole  
+Giocchi senza parole  
 L’accolito di Reims  
 Le mulini di Dio
 
@@ -4494,7 +4494,7 @@ THE ALPS, THEIR PICTURE
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Tra gli alberi  
+Tra gli alberi  
 La visione delle Alpi  
 Le Alpi, il loro ritratto
 
@@ -4510,7 +4510,7 @@ THE GOOD SAVAGES
 
 <span class="qlang-split" data-lang="it"></span>
 
-# La scogliera  
+La scogliera  
 # L’ostello remoto  
 # I buoni selvaggi
 
@@ -4542,7 +4542,7 @@ THE UPPER EMMEN
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Lo studente affamato non si presenta  
+Lo studente affamato non si presenta  
 Storia del cavallo  
 Gli Emmen più anziani
 
@@ -4558,7 +4558,7 @@ THE HALT IN THE FOG
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Il grat di Brienza, così com’è
+Il grat di Brienza, così com’è
 
 
 
@@ -4573,9 +4573,9 @@ A DOUBTFUL MAP
 
 <span class="qlang-split" data-lang="it"></span>
 
-#La tormenta della vita  
-#Terreni accidentati, geografia ostile…  
-#Una mappa incerta e pericolosa
+La tormenta della vita  
+Terreni accidentati, geografia ostile…  
+Una mappa incerta e pericolosa
 
 
 
@@ -4589,7 +4589,7 @@ THE LOUD NOISE
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Altre geografie: l’inizio di Grimsel… il rumore assordante
+Altre geografie: l’inizio di Grimsel… il rumore assordante
 
 
 
@@ -4603,7 +4603,7 @@ DIGRESSION
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Il bagliore della neve  
+Il bagliore della neve  
 Punto di passaggio  
 Digressione
 
@@ -4634,7 +4634,7 @@ THE TOURMENTE
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Le colline insuperabili  
+Le colline insuperabili  
 La partenza…  
 Tutto neve…  
 Il tormento…
@@ -4686,7 +4686,7 @@ THE PROUD STATIONER
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Corpo  
+Corpo  
 Lago Maggiore  
 Bellinzona  
 Il fiero stanziale
@@ -4719,7 +4719,7 @@ ESTIMATE OF CONSULS
 
 <span class="qlang-split" data-lang="it"></span>
 
-# L’Oracolo  
+L’Oracolo  
 La sua interpretazione inglese  
 Valutazione dei consoli
 
@@ -4735,7 +4735,7 @@ OLD LODI, ITS UGLY CHURCH
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Ordeal dei Candali  
+Ordeal dei Candali  
 Lombardia – Old Lodi, la sua brutta chiesa
 
 
@@ -4777,7 +4777,7 @@ ON PERFECT THINGS
 
 <span class="qlang-split" data-lang="it"></span>
 
-# sui tedeschi  
+sui tedeschi  
 La testa del moor  
 Su cose perfette
 
@@ -4793,7 +4793,7 @@ THE TAVERN BRAWL
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Fuga  
+Fuga  
 Una topografia insignificante… La rissa nella taverna
 
 
@@ -4824,9 +4824,9 @@ THE PEASANT
 
 <span class="qlang-split" data-lang="it"></span>
 
-#La grande vista  
-#Il sindaco bilingue  
-#Il contadino
+La grande vista  
+Il sindaco bilingue  
+Il contadino
 
 
 
@@ -4854,7 +4854,7 @@ THE FURTHER SIDE
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Il Sole!  
+Il Sole!  
 L’ingresso in Toscana  
 Il lato più lontano
 
@@ -4884,7 +4884,7 @@ THE BANQUET
 
 <span class="qlang-split" data-lang="it"></span>
 
-# I ponti di Castel-Nuovo  
+I ponti di Castel-Nuovo  
 # Il dio dei ponti  
 # Il banchetto
 
@@ -4915,9 +4915,9 @@ THE HORN SONG
 
 <span class="qlang-split" data-lang="it"></span>
 
-#La valle come un’onda  
-#La silhouette  
-#Il canto del corno
+La valle come un’onda  
+La silhouette  
+Il canto del corno
 
 
 
@@ -4948,7 +4948,7 @@ THE GREAT WALLS
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Storia del signor Hard: La potente spinta, le grandi mura
+Storia del signor Hard: La potente spinta, le grandi mura
 
 
 
@@ -4962,7 +4962,7 @@ TOO MANY PEASANTS
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Entro in Viterbo  
+Entro in Viterbo  
 L’arena…  
 Troppi contadini…
 
@@ -4979,21 +4979,21 @@ THE END AGAIN
 
 Frontispiece of the first edition
 
-‘... and as to what may be in this book, do not feel timid nor hesitate to enter. There are more [[Mountains|mountains]] than mole-hills ...’
+‘... and as to what may be in this book, do not feel timid nor hesitate to enter. There are more [[settings/mountains|mountains]] than mole-hills ...’
 
 ‘. .. AMORE ANTIQUI RITUS, ALTO SUB NUMINE ROMAE’
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Roma mi chiama  
+Roma mi chiama  
 CANZONE LUNGA E FINALE
 
-# La fine ancora una volta
+La fine ancora una volta
 
 Frontespizio della prima edizione
 
-‘. E per quanto riguarda ciò che potrebbe esserci in questo libro, non sentitevi timidi né esitate ad entrarvi. Ci sono più [[Mountains|montagne]] di piccole colline, ’
+‘. E per quanto riguarda ciò che potrebbe esserci in questo libro, non sentitevi timidi né esitate ad entrarvi. Ci sono più [[settings/mountains|montagne]] di piccole colline, ’
 
 “Amori antichi e riti, sotto l’alto nome di Roma”
 
@@ -5008,7 +5008,7 @@ TO EVERY HONEST reader that may purchase, hire, or receive this book, and to the
 
 If you should ask how this book came to be written, it was in this way. One day as I was wandering over the world I came upon the valley where I was born, and stopping there a moment to speak with them all — when I had argued politics with the grocer, and played the great lord with the notary-public, and had all but made the carpenter a Christian by force of rhetoric — what should I note (after so many years) but the old tumble-down and gaping church, that I love more than mother-church herself, all scraped, white, rebuilt, noble, and new, as though it had been finished yesterday. Knowing very well that such a change had not come from the skinflint populace, but was the work of some just artist who knew how grand an ornament was this shrine (built there before our people stormed Jerusalem), I entered, and there saw that all within was as new, accurate, and excellent as the outer part; and this pleased me as much as though a fortune had been left to us all; for one’s native place is the shell of one’s soul, and one’s church is the kernel of that nut.
 
-Moreover, saying my prayers there, I noticed behind the high altar a statue of Our Lady, so extraordinary and so different from all I had ever seen before, so much the spirit of my valley, that I was quite taken out of myself and vowed a vow there to go to Rome on Pilgrimage and see all Europe which the Christian [[Faith]] has saved; and I said, ‘I will start from the place where I served in arms for my sins; I will walk all the way and take advantage of no wheeled thing; I will sleep rough and cover thirty miles a day, and I will hear Mass every morning; and I will be present at high Mass in St Peter’s on the Feast of St Peter and St Paul.’
+Moreover, saying my prayers there, I noticed behind the high altar a statue of Our Lady, so extraordinary and so different from all I had ever seen before, so much the spirit of my valley, that I was quite taken out of myself and vowed a vow there to go to Rome on Pilgrimage and see all Europe which the Christian [[concepts/faith|Faith]] has saved; and I said, ‘I will start from the place where I served in arms for my sins; I will walk all the way and take advantage of no wheeled thing; I will sleep rough and cover thirty miles a day, and I will hear Mass every morning; and I will be present at high Mass in St Peter’s on the Feast of St Peter and St Paul.’
 
 Then I went out of the church still having that Statue in my mind, and I walked again farther into the world, away from my native valley, and so ended some months after in a place whence I could fulfil my vow; and I started as you shall hear. All my other vows I broke one by one. For a faggot
 
@@ -5130,7 +5130,7 @@ Before you blame too much, consider the alternative. Shall a man march through E
 
 Shall an artist write a book? Why no, the remedy is worse than the disease.
 
-Let us agree then, that, if he will, any [[Pilgrim|pilgrim]] may for the future draw (if he likes) that most difficult subject, snow hills beyond a grove of trees; that he may draw whatever he comes across in order to enliven his mind (for who saw it if not he? And was it not his loneliness that enabled him to see it?), and that he may draw what he never saw, with as much freedom as you readers so very continually see what you never draw. He may draw the morning mist on the Grimsel, six months afterwards; when he has forgotten what it was like: and he may frame it for a masterpiece to make the good draughtsman rage.
+Let us agree then, that, if he will, any [[archetypes/pilgrim|pilgrim]] may for the future draw (if he likes) that most difficult subject, snow hills beyond a grove of trees; that he may draw whatever he comes across in order to enliven his mind (for who saw it if not he? And was it not his loneliness that enabled him to see it?), and that he may draw what he never saw, with as much freedom as you readers so very continually see what you never draw. He may draw the morning mist on the Grimsel, six months afterwards; when he has forgotten what it was like: and he may frame it for a masterpiece to make the good draughtsman rage.
 
 The world has grown a boy again this long time past, and they are building hotels (I hear) in the place where Acedes discovered the Water of Youth in a hollow of the hill Epistemonoscoptes.
 
@@ -5147,7 +5147,7 @@ Prima di incolpare troppo, considerate un’altra possibilità. Un uomo dovrebbe
 
 Dovrebbe un artista scrivere un libro? Perché no, il rimedio è peggiore del male.
 
-Dunque concordiamo che, se lo desidera, qualsiasi [[Pilgrim|>pellegrino]] possa in futuro disegnare – se gli piace – quel soggetto estremamente difficile: le colline innevate al di là di un bosco; possa disegnare qualsiasi cosa incontri per ravvivare la propria mente (chi altro, infatti, l’avrebbe vista se non lui? E non è stata forse proprio la sua solitudine a permettergli di vederla?), e possa anche disegnare ciò che mai ha visto, con la stessa libertà con cui voi lettori continuate a vedere cose che in realtà non disegnate mai. Può ritrarre la nebbia mattutina sul Grimsel, sei mesi dopo, quando ormai avrà dimenticato com’era; e può trasformarla in un capolavoro tale da far infuriare i veri maestri del disegno.
+Dunque concordiamo che, se lo desidera, qualsiasi [[archetypes/pilgrim|>pellegrino]] possa in futuro disegnare – se gli piace – quel soggetto estremamente difficile: le colline innevate al di là di un bosco; possa disegnare qualsiasi cosa incontri per ravvivare la propria mente (chi altro, infatti, l’avrebbe vista se non lui? E non è stata forse proprio la sua solitudine a permettergli di vederla?), e possa anche disegnare ciò che mai ha visto, con la stessa libertà con cui voi lettori continuate a vedere cose che in realtà non disegnate mai. Può ritrarre la nebbia mattutina sul Grimsel, sei mesi dopo, quando ormai avrà dimenticato com’era; e può trasformarla in un capolavoro tale da far infuriare i veri maestri del disegno.
 
 In questi lunghi anni, il mondo ha nuovamente visto nascere un bambino; si dice che stiano costruendo hotel nel luogo in cui Adeces scoprì l’Acqua della Gioventù in una cavità della collina Epistemonoscoptes.
 
@@ -5164,13 +5164,13 @@ Nor let us be too hard upon the just but anxious fellow that sat down dutifully 
 
 The Path to Rome
 
-When that first Proverb-Maker who has imposed upon all peoples by his epigrams and his fallacious half-truths, his empiricism and his wanton appeals to popular ignorance, I say when this man (for I take it he was a man, and a wicked one) was passing through [[France]] he launched among the French one of his pestiferous phrases, ‘Ce n’est que le premier pas qui coûté” \ and this in a rolling-in-the-mouth self-satisfied kind of a manner has been repeated since his day at least seventeen million three hundred and sixty-two thousand five hundred and four times by a great mass of Ushers, Parents, Company Officers, Elder Brothers, Parish Priests, and authorities in general whose office it may be and whose pleasure it certainly is to jog up and disturb that native slumber and inertia of the mind which is the true breeding soil of Revelation.
+When that first Proverb-Maker who has imposed upon all peoples by his epigrams and his fallacious half-truths, his empiricism and his wanton appeals to popular ignorance, I say when this man (for I take it he was a man, and a wicked one) was passing through [[settings/france|France]] he launched among the French one of his pestiferous phrases, ‘Ce n’est que le premier pas qui coûté” \ and this in a rolling-in-the-mouth self-satisfied kind of a manner has been repeated since his day at least seventeen million three hundred and sixty-two thousand five hundred and four times by a great mass of Ushers, Parents, Company Officers, Elder Brothers, Parish Priests, and authorities in general whose office it may be and whose pleasure it certainly is to jog up and disturb that native slumber and inertia of the mind which is the true breeding soil of Revelation.
 
 For when boys or soldiers or poets, or any other blossoms and prides of nature, are for lying steady in the shade and letting the Mind commune with its Immortal Comrades, up comes Authority busking about and eager as though it were a duty to force the said Mind to burrow and sweat in the matter of this very perishable world, its temporary habitation.
 
 ‘Up,’ says Authority, ‘and let me see that Mind of yours doing something practical. Let me see Him mixing painfully with circumstance, and botching up some Imperfection or other that shall at least be a Reality and not a silly Fantasy.’
 
-Then the poor Mind comes back to Prison again, and the boy takes his horrible Homer in the real Greek (not Church’s book, alas!); the Poet his rough hairy paper, his headache, and his cross-nibbed pen; the Soldier abandons his inner picture of swaggering about in ordinary clothes, and sees the dusty road and feels the hard places in his boot, and shakes down again to the steady pressure of his pack; and Authority is satisfied, knowing that he will get a smattering from the Boy, a rubbishy verse from the Poet, and from the Soldier a long and thirsty march. And Authority, when it does this commonly sets to work by one of these formulae: as, in England north of Trent, by the manifestly false and boastful phrase, ‘A thing begun is half ended’, and in the south by ‘The Beginning is half the Battle’; but in [[France]] by the words I have attributed to the Proverb-Maker, ‘Ce n’est que le premier pas qui coûte’.
+Then the poor Mind comes back to Prison again, and the boy takes his horrible Homer in the real Greek (not Church’s book, alas!); the Poet his rough hairy paper, his headache, and his cross-nibbed pen; the Soldier abandons his inner picture of swaggering about in ordinary clothes, and sees the dusty road and feels the hard places in his boot, and shakes down again to the steady pressure of his pack; and Authority is satisfied, knowing that he will get a smattering from the Boy, a rubbishy verse from the Poet, and from the Soldier a long and thirsty march. And Authority, when it does this commonly sets to work by one of these formulae: as, in England north of Trent, by the manifestly false and boastful phrase, ‘A thing begun is half ended’, and in the south by ‘The Beginning is half the Battle’; but in [[settings/france|France]] by the words I have attributed to the Proverb-Maker, ‘Ce n’est que le premier pas qui coûte’.
 
 By this you may perceive that the Proverb-Maker, like every other Dema-
 
@@ -5183,9 +5183,9 @@ Elogi per questo libro
 
 Né dobbiamo essere troppo severi con quel bravo ma ansioso individuo che, con diligenza, si è messo all’opera per rappresentare l’anima della Svizzera su un ventaglio.
 
-# La strada per Roma
+La strada per Roma
 
-Quando quel primo “creatore di proverbi” – che si è imposto su tutti i popoli con le sue epigrafi, le sue false mezze-verità, il suo empirismo e i suoi insensati appelli all’ignoranza popolare – quando quest’uomo (poiché presumo fosse un uomo, e anzi uno malvagio) attraversò la [[France|Francia]], diffuse tra i francesi una delle sue dannose frasi: “Ce n’est que le premier pas qui coûte”. E questa frase, pronunciata con un tono compiaciuto e presuntuoso, è stata ripetuta da allora almeno diciassette milioni trecentosessantadue migliaia cinquecentoquattro volte da una vasta schiera di persone: uscieri, genitori, dirigenti aziendali, fratelli maggiori, preti parrocchiali e autorità in generale. Persone il cui compito, e certamente il loro piacere, è quello di disturbare quel sonno naturale e quell’inerzia mentale che rappresentano il vero terreno fertile per la “rivelazione”.
+Quando quel primo “creatore di proverbi” – che si è imposto su tutti i popoli con le sue epigrafi, le sue false mezze-verità, il suo empirismo e i suoi insensati appelli all’ignoranza popolare – quando quest’uomo (poiché presumo fosse un uomo, e anzi uno malvagio) attraversò la [[settings/france|Francia]], diffuse tra i francesi una delle sue dannose frasi: “Ce n’est que le premier pas qui coûte”. E questa frase, pronunciata con un tono compiaciuto e presuntuoso, è stata ripetuta da allora almeno diciassette milioni trecentosessantadue migliaia cinquecentoquattro volte da una vasta schiera di persone: uscieri, genitori, dirigenti aziendali, fratelli maggiori, preti parrocchiali e autorità in generale. Persone il cui compito, e certamente il loro piacere, è quello di disturbare quel sonno naturale e quell’inerzia mentale che rappresentano il vero terreno fertile per la “rivelazione”.
 
 Perché quando ragazzi, soldati, poeti, o qualsiasi altra “fioritura” e “orgoglio” della natura, preferiscono rimanere nell’ombra e lasciare che la mente comunichi con i suoi “Compagni Immortali”, allora arriva l’Autorità, che si comporta come se fosse suo dovere costringere quella stessa mente a impegnarsi in cose effimere e mortali, in questo mondo transitorio in cui viviamo.
 
@@ -5193,7 +5193,7 @@ Perché quando ragazzi, soldati, poeti, o qualsiasi altra “fioritura” e “o
 
 Allora quella povera “Mente” ritorna in prigione. Il ragazzo prende con sé il suo orribile “Omero” nella vera versione greca (non il libro di Church, ahimè!); il Poeta, il suo foglio di carta ruvido e peloso, il mal di testa e la penna dalla punta consumata; il Soldato abbandona l’immagine mentale di sé che si pavoneggia in abiti ordinari, vede la strada polverosa, sente le parti dure del terreno sotto gli stivali. E ritorna a sopportare la pressione costante del proprio fardello. L’Autorità, intanto, è soddisfatta: sa che otterrà qualche nozione dal ragazzo, una poesia banale dal Poeta, e da parte del Soldato, una lunga e faticosa marcia. Quando agisce in questo modo, l’Autorità di solito ricorre a uno di questi modelli verbali: in Inghilterra, a nord di Trent, si usa la frase palesemente falsa e presuntuosa “Una cosa iniziata è già per metà fatta”; nel sud, “L’inizio rappresenta già metà della battaglia”; in Francia, invece, si utilizza l’espressione attribuita al creatore di proverbi: “Il primo passo è quello più difficile”.
 
-#Da questo si può comprendere che il creatore di proverbi, come ogni altro essere umano…
+Da questo si può comprendere che il creatore di proverbi, come ogni altro essere umano…
 
 * * *
 
@@ -5204,7 +5204,7 @@ Allora quella povera “Mente” ritorna in prigione. Il ragazzo prende con sé 
 
 CHARACTER OF PROVERB-MAKER
 
-GOGUE, ENERGUMEN, AND Disturber, dealt largely in metaphor — but this I need hardly insist upon, for in his vast collection of published and unpublished works it is amply evident that he took the silly pride of the half-educated in a constant abuse of metaphor. There was a sturdy boy at my school who, when the master had carefully explained to us the nature of metaphor, said that so far as he could see a metaphor was nothing but a long Greek word for a lie. And certainly men who know that the mere truth would be distasteful or tedious commonly have recourse to metaphor, and so do those false men who desire to acquire a subtle and unjust influence over their fellows, and chief among them, the Proverb-Maker. For though his name is lost in the great space of time that has passed since he flourished, yet his character can be very clearly deduced from the many literary fragments he has left, and that is found to be the character of a pusillanimous and ill-bred usurer, wholly lacking in foresight, in generous enterprise, and chivalrous enthusiasm — in matters of the [[Faith]] a prig or a doubter, in matters of adventure a poltroon, in matters of Science an ignorant Parrot, and in Letters a wretchedly bad rhymester, with a vice for alliteration; a wilful liar (as, for instance, ‘The longest way round is the shortest way home’), a startling miser (as, ‘A penny saved is a penny earned’), one ignorant of largesse and human charity (as, ‘Waste not, want not’), and a shocking boor in the point of honour (as, ‘Hard words break no bones’ — he never fought, I see, but with a cudgel).
+GOGUE, ENERGUMEN, AND Disturber, dealt largely in metaphor — but this I need hardly insist upon, for in his vast collection of published and unpublished works it is amply evident that he took the silly pride of the half-educated in a constant abuse of metaphor. There was a sturdy boy at my school who, when the master had carefully explained to us the nature of metaphor, said that so far as he could see a metaphor was nothing but a long Greek word for a lie. And certainly men who know that the mere truth would be distasteful or tedious commonly have recourse to metaphor, and so do those false men who desire to acquire a subtle and unjust influence over their fellows, and chief among them, the Proverb-Maker. For though his name is lost in the great space of time that has passed since he flourished, yet his character can be very clearly deduced from the many literary fragments he has left, and that is found to be the character of a pusillanimous and ill-bred usurer, wholly lacking in foresight, in generous enterprise, and chivalrous enthusiasm — in matters of the [[concepts/faith|Faith]] a prig or a doubter, in matters of adventure a poltroon, in matters of Science an ignorant Parrot, and in Letters a wretchedly bad rhymester, with a vice for alliteration; a wilful liar (as, for instance, ‘The longest way round is the shortest way home’), a startling miser (as, ‘A penny saved is a penny earned’), one ignorant of largesse and human charity (as, ‘Waste not, want not’), and a shocking boor in the point of honour (as, ‘Hard words break no bones’ — he never fought, I see, but with a cudgel).
 
 But he had just that touch of slinking humour which the peasants have, and there is in all he said that exasperating quality for which we have no name, which certainly is not accuracy, and which is quite the opposite of judgement, yet which catches the mind as brambles do our clothes, causing us continually to pause and swear. For he mixes up unanswerable things with false conclusions, he is perpetually letting the cat out of the bag and exposing our tricks, putting a colour to our actions, disturbing us with our own memory, indecently revealing corners of the soul. He is like those men who say one unpleasant and rude thing about a friend, and then take refuge from their disloyal and false action by pleading that this single accusation is true; and it is perhaps for this abominable logicality of his and for his malicious cunning that I chiefly hate him: and since he himself evidently hated the human race, he must not complain if he is hated in return.
 
@@ -5215,7 +5215,7 @@ Take, for instance, this phrase that set me writing, ‘Ce nest que le premier p
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Carattere del creatore di proverbi
+Carattere del creatore di proverbi
 
 GOGUE, ENERGUMEN E DISTURBER facevano ampio uso delle metafore – ma su questo non c’è bisogno di insistere, poiché nella loro vasta collezione di opere pubblicate e inedite è evidente che si compiacevano nell’abuso continuo delle metafore, con l’arroganza tipica di coloro che hanno ricevuto solo una scarsa istruzione. C’era un ragazzo alla mia scuola che, dopo che l’insegnante ci aveva spiegato con cura la natura della metafora, disse che, a suo parere, una metafora non era altro che una lunga parola greca per indicare una menzogna. E infatti, coloro che sanno che la semplice verità potrebbe risultare noiosa o poco attraente ricorrono spesso alle metafore; lo fanno anche quegli individui malintenzionati che desiderano esercitare un’influenza subdola e ingiusta sui loro simili, soprattutto i creatori di proverbi. Poiché il nome di questi ultimi è andato perduto nel corso del tempo, il loro carattere può essere facilmente dedotto dai numerosi frammenti letterari che hanno lasciato: si tratta di individui codardi e maleducati, privi di lungimiranza, generosità o entusiasmo cavalleresco; in materia di fede, sono bigotti o scettici; in fatto d’avventura, codardi; in campo scientifico, ignoranti; in letteratura, pessimi poeti che amano l’allitterazione; bugiardi incalliti (come nel detto “Il percorso più lungo è spesso il più breve”); avari patologici (“Un penny risparmiato è un penny guadagnato”); privi di generosità e compassione umana (“Non sprecare, non mancherai”); e, soprattutto, persone spregevoli in materia d’onore (“Le parole dure non rompono le ossa” – a quanto pare non combatteva mai, se non con un bastone).
 
@@ -5276,7 +5276,7 @@ Ma forse avete letto libri sulle teorie dell’Evoluzione e non credete nelle Ca
 
 DIFFICULTY OF ENDING A BOOK
 
-AND BELIEVE IN all that your fathers did, that were wiser men than you, as is easily proved if you will but imagine yourself for but one moment introduced into the presence of your ancestors, and ask yourself which would look the fool. Especially must you believe in moments and their importance, and avoid with the utmost care the Comparative Method and the argument of the Slowly Accumulating Heap. I hear that some scientists are already beginning to admit the reality of Birth and Death — let but some brave few make an act of [[Faith]] in the Grand Climacteric and all shall yet be well.
+AND BELIEVE IN all that your fathers did, that were wiser men than you, as is easily proved if you will but imagine yourself for but one moment introduced into the presence of your ancestors, and ask yourself which would look the fool. Especially must you believe in moments and their importance, and avoid with the utmost care the Comparative Method and the argument of the Slowly Accumulating Heap. I hear that some scientists are already beginning to admit the reality of Birth and Death — let but some brave few make an act of [[concepts/faith|Faith]] in the Grand Climacteric and all shall yet be well.
 
 Well, as I was saying, this Difficulty of Beginning is but one of three, and is Inexplicable, and is in the Nature of Things, and it is very especially noticeable in the Art of Letters. There is in every book the Difficulty of Beginning, the Difficulty of the Turning-Point (which is the Grand Climacteric of a Book) —
 
@@ -5360,9 +5360,9 @@ Era all’inizio di giugno, alla sera, ma non ancora al tramonto, quando partii 
 
 THE FIRST GARRISON
 
-WHERE THE DOTTED line points exactly to Rome. There are two bends which take one a little out of one’s way, and these bends I attempted to avoid, but in general, the valley, about a hundred miles from Toul to the source, is an evident gate for any one walking from this part of Lorraine into [[Italy]]. And this map is also useful to show what route I followed for my first three days past Epinal and Remiremont up to the source of the river, and up over the great hill, the Ballon d’Alsace. I show the river valley like a trench, and the hills above it shaded, till the mountainous upper part, the Vosges, is put in black. I chose the decline of the day for setting out, because of the great heat a little before noon and four hours after it. Remembering this, I planned to walk at night and in the mornings and evenings, but how this design turned out you shall hear in a moment.
+WHERE THE DOTTED line points exactly to Rome. There are two bends which take one a little out of one’s way, and these bends I attempted to avoid, but in general, the valley, about a hundred miles from Toul to the source, is an evident gate for any one walking from this part of Lorraine into [[settings/italy|Italy]]. And this map is also useful to show what route I followed for my first three days past Epinal and Remiremont up to the source of the river, and up over the great hill, the Ballon d’Alsace. I show the river valley like a trench, and the hills above it shaded, till the mountainous upper part, the Vosges, is put in black. I chose the decline of the day for setting out, because of the great heat a little before noon and four hours after it. Remembering this, I planned to walk at night and in the mornings and evenings, but how this design turned out you shall hear in a moment.
 
-I had not gone far, not a quarter of a mile, along my road leaving the town, when I thought I would stop and rest a little and make sure that I had started propitiously and that I was really on my way to Rome; so I halted by a wall and looked back at the city and the forts, and drew what I saw in my book. It was a sight that had taken a firm hold of my mind in boyhood, and that will remain in it as long as it can make pictures for itself out of the past. I think this must be true of all conscripts with regard to the garrison in which they have served, for the mind is so fresh at twenty-one and the life so new to every recruit as he joins it, he is so cut off from books and all the worries of life, that the surroundings of the place bite into him and take root, as one’s school does or one’s first home. And I had been especially fortunate since I had been with the gunners (notoriously the best kind of men) and not in a big place but in a little town, very old and silent, with more soldiers in its surrounding circle than there were men, women, and children within its useless ramparts. It is known to be very beautiful, and though I had not heard of this reputation, I saw it to be so at once when I was first marched in, on a November [[Dawn|dawn]], up to the height of the artillery barracks. I remembered seeing then the great hills surrounding it on every side, hiding their menace and protection of guns, and in the south and east the silent valley where the high forests dominate the Moselle, and the town below the road standing in an island or ring of tall trees. All this, I say, I had permanently remembered, and I had determined, whenever I could go on pilgrimage to Rome, to make this place my starting-point, and as I stopped here and looked back, a little way outside the gates, I took in again the scene that recalled so much laughter and heavy work and servitude and pride of arms.
+I had not gone far, not a quarter of a mile, along my road leaving the town, when I thought I would stop and rest a little and make sure that I had started propitiously and that I was really on my way to Rome; so I halted by a wall and looked back at the city and the forts, and drew what I saw in my book. It was a sight that had taken a firm hold of my mind in boyhood, and that will remain in it as long as it can make pictures for itself out of the past. I think this must be true of all conscripts with regard to the garrison in which they have served, for the mind is so fresh at twenty-one and the life so new to every recruit as he joins it, he is so cut off from books and all the worries of life, that the surroundings of the place bite into him and take root, as one’s school does or one’s first home. And I had been especially fortunate since I had been with the gunners (notoriously the best kind of men) and not in a big place but in a little town, very old and silent, with more soldiers in its surrounding circle than there were men, women, and children within its useless ramparts. It is known to be very beautiful, and though I had not heard of this reputation, I saw it to be so at once when I was first marched in, on a November [[motifs/dawn|dawn]], up to the height of the artillery barracks. I remembered seeing then the great hills surrounding it on every side, hiding their menace and protection of guns, and in the south and east the silent valley where the high forests dominate the Moselle, and the town below the road standing in an island or ring of tall trees. All this, I say, I had permanently remembered, and I had determined, whenever I could go on pilgrimage to Rome, to make this place my starting-point, and as I stopped here and looked back, a little way outside the gates, I took in again the scene that recalled so much laughter and heavy work and servitude and pride of arms.
 
 I was looking straight at the great fort of St Michel, which is the strongest thing on the frontier, and which is the key to the circle of forts that make up
 
@@ -5371,9 +5371,9 @@ I was looking straight at the great fort of St Michel, which is the strongest th
 
 <span class="qlang-split" data-lang="it"></span>
 
-#La prima guarnigione
+La prima guarnigione
 
-Dove la linea tratteggiata punta esattamente verso Roma. Ci sono due curve che deviano leggermente il percorso; ho cercato di evitarle, ma in generale, questa valle, che si estende per circa cento miglia da Toul fino alla sorgente del fiume, rappresenta un passaggio ideale per chiunque voglia attraversare questa parte della Lorena per entrare in [[Italy|Italia]]. Questa mappa è anche utile per mostrare il percorso che ho seguito nei primi tre giorni, dopo aver lasciato Epinal e Remiremont, fino alla sorgente del fiume e oltre, attraverso la grande collina del Ballon d’Alsace. Ho rappresentato la valle fluviale come un fossato, mentre le colline sopra di essa sono indicate con ombreggiature; la parte montuosa superiore, i Vosgi, è indicata in nero. Ho scelto di partire nel tardo pomeriggio, a causa del grande calore che regna poco prima di mezzogiorno e quattro ore dopo. Tenendo conto di questo, avevo pianificato di camminare di notte, al mattino e alla sera. Ma come si sia sviluppata questa strategia, lo scoprirete tra un momento.
+Dove la linea tratteggiata punta esattamente verso Roma. Ci sono due curve che deviano leggermente il percorso; ho cercato di evitarle, ma in generale, questa valle, che si estende per circa cento miglia da Toul fino alla sorgente del fiume, rappresenta un passaggio ideale per chiunque voglia attraversare questa parte della Lorena per entrare in [[settings/italy|Italia]]. Questa mappa è anche utile per mostrare il percorso che ho seguito nei primi tre giorni, dopo aver lasciato Epinal e Remiremont, fino alla sorgente del fiume e oltre, attraverso la grande collina del Ballon d’Alsace. Ho rappresentato la valle fluviale come un fossato, mentre le colline sopra di essa sono indicate con ombreggiature; la parte montuosa superiore, i Vosgi, è indicata in nero. Ho scelto di partire nel tardo pomeriggio, a causa del grande calore che regna poco prima di mezzogiorno e quattro ore dopo. Tenendo conto di questo, avevo pianificato di camminare di notte, al mattino e alla sera. Ma come si sia sviluppata questa strategia, lo scoprirete tra un momento.
 
 Non avevo percorso nemmeno un quarto di miglio lungo la strada che mi portava fuori dalla città, quando decisi di fermarmi per riposare un attimo e assicurarmi che fossi effettivamente sulla strada giusta, diretto verso Roma. Mi fermai quindi accanto a un muro e guardai indietro verso la città e le fortezze; disegnai ciò che vedevo nel mio libro. Quella vista aveva già fatto una profonda impressione su di me da ragazzo, e rimarrà nella mia memoria finché il passato continuerà a offrirmi immagini da ricordare. Penso che questo valga per tutti i soldati che hanno prestato servizio in una determinata guarnigione: a ventuno anni, la mente è ancora fresca e la vita sembra nuova; si è lontani dai libri e da tutte le preoccupazioni quotidiane, quindi gli ambienti in cui ci si trova lasciano un segno profondo, proprio come la scuola o la prima casa. Io ero particolarmente fortunato: facevo parte del gruppo degli artiglieri, considerati senza dubbio i migliori tra tutti, e non mi trovavo in una grande città, ma in una piccola cittadina antica e silenziosa, dove il numero di soldati superava quello delle persone, uomini, donne e bambini, all’interno delle sue mura inutili. Si diceva che fosse un posto molto bello; anche se non ne avevo sentito parlare prima, me ne resi subito conto quando arrivai lì per la prima volta, una mattina di novembre, mentre salivo verso le caserme dell’artiglieria. Ricordo di aver visto le grandi colline che la circondavano su tutti i lati, nascondendo sia il loro potenziale minaccioso che il loro ruolo protettivo per le armi; a sud e a est c’era la valle silenziosa, dove le fitte foreste dominavano il corso del fiume Mosella, mentre la città si trovava in un isolotto o in un anello di alberi alti. Tutto questo, lo ricordo ancora vividamente; avevo deciso che, non appena avessi potuto intraprendere un viaggio verso Roma, avrei scelto proprio quel luogo come punto di partenza. Fermandomi qui e guardando indietro, fuori dalle porte della città, rivissi tutte quelle scene: risate, fatiche, servizio militare, e anche momenti di orgoglio legati alle armi.
 
@@ -5399,7 +5399,7 @@ I had, in a small bag or pocket slung over my shoulder, a large piece of bread, 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Sulla giustizia nelle armate
+Sulla giustizia nelle armate
 
 Questo accampamento fortificato. Si poteva vedere poco o nulla delle sue batterie: soltanto le centinaia di piedi di fitta boscaglia che si innalzavano sopra i vigneti, e in cima una vegetazione stentata piantata appositamente. Accanto ad esso, a sinistra e alla stessa altezza, si trovava la cresta della Cote Barine, che nascondeva un’altra batteria. Tra la Cote Barine, la mia strada e il muro, vedevo il terreno in salita e le familiari caserme, chiamate (non so perché) “Caserme della Giustizia”; ma che in realtà dovrebbero essere chiamate “Caserme delle piccole tirannie e della buona camaraderia”. Questo per dimostrare ai filosofi che queste due cose costituiscono davvero la vita di un esercito. Di tutte le virtù praticate in quel vecchio ambiente coercitivo, la Giustizia veniva al secondo posto, se non al terzo; mentre Disciplina e Camaraderia erano al primo posto. E più ci penso.
 
@@ -5480,7 +5480,7 @@ C'era una candela che bruciava lentamente su un piccolo sgabello. Il tetto della
 
 THE LAKE OF THE MOSELLE
 
-THERE WERE NEARLY a hundred, and he filled them all; not in jollity, but like a man offering up a solemn sacrifice. We also, entering into his mood, passed our mugs continually, thanking him in a low tone and keeping in the main silent. A few linesmen lounged at the door; he asked for their cups and filled them. He bade them fetch as many of their comrades as cared to come; and very soon there was a circulating crowd of men all getting wine of Brule and murmuring their congratulations, and he was willing enough to go on giving, but we stopped when we saw fit and the scene ended. I cannot tell what prodigious measure of wine he gave away to us all that night, but when he struck the roof of the cask it already sounded hollow. And when we had made a collection which he had refused, he went to sleep by his oxen, and we to our straw in other barns. Next day we started before [[Dawn|dawn]], and I never saw him again.
+THERE WERE NEARLY a hundred, and he filled them all; not in jollity, but like a man offering up a solemn sacrifice. We also, entering into his mood, passed our mugs continually, thanking him in a low tone and keeping in the main silent. A few linesmen lounged at the door; he asked for their cups and filled them. He bade them fetch as many of their comrades as cared to come; and very soon there was a circulating crowd of men all getting wine of Brule and murmuring their congratulations, and he was willing enough to go on giving, but we stopped when we saw fit and the scene ended. I cannot tell what prodigious measure of wine he gave away to us all that night, but when he struck the roof of the cask it already sounded hollow. And when we had made a collection which he had refused, he went to sleep by his oxen, and we to our straw in other barns. Next day we started before [[motifs/dawn|dawn]], and I never saw him again.
 
 This is the story of the wine of Brule, and it shows that what men love is never money itself but their own way, and that human beings love sympathy and pageant above all things. It also teaches us not to be hard on the rich.
 
@@ -5505,7 +5505,7 @@ Camminai lungo la valle della Mosella; mentre procedevo, l’lunga serata estiva
 
 Qui aspettai per un momento accanto alla ringhiera di legno, alzando lo sguardo verso le colline. Fino ad allora ero stato a casa; ora osservavo l’ultima cosa familiare prima di addentrarmi nella fitta foresta e iniziare la mia nuova esperienza. Così mi congedai con calma, riflettendo invece di proseguire il mio cammino. Tutto intorno a me suscitava ricordi e un senso di tranquillità. Un gregge di pecore passò accanto a me insieme al suo pastore, che mi augurò la buonanotte. Mi ritrovai in quello stato d’animo piacevole in cui nascono tutte le idee (ma nessun libro viene scritto); stavo “fumando le sigarette incantate” di Balzac. E anche se questo tipo di fantasticheria può essere dannosa per l’azione, rappresenta comunque un fattore di grande felicità. Così passai molte miglia a contemplare quella meravigliosa e silenziosa valle. Immagino che, se un uomo fosse completamente padrone di sé stesso e non fosse costretto da alcuna necessità – nemmeno quella di esprimersi – tutta la sua vita trascorrerebbe in queste sublimi fantasie.
 
-# Questo era un posto che ricordavo molto bene… Il fiume Lorraine, in piena crescita…
+Questo era un posto che ricordavo molto bene… Il fiume Lorraine, in piena crescita…
 
 * * *
 
@@ -5646,7 +5646,7 @@ THE FULL CURSE
 
 TO A CARAVAN or fair. Here some men were awake, but when I suggested that they should let me sleep in their little houses on wheels, they told me it was never done; that it was all they could do to pack in themselves; that they had no straw; that they were guarded by dogs; and generally gave me to understand (though without violence or unpoliteness) that I looked as though I were the man to steal their lions and tigers. They told me, however, that without doubt I should find something open in the centre of the workmen’s quarter, where the great electric lamps now made a glare over the factory.
 
-I trudged on unwillingly, and at the very last house of this detestable industrial slavery, a high house with a gable, I saw a window wide open, and a blonde man smoking a cigarette at a balcony. I called to him at once, and asked him to let me a bed. He put to me all the questions he could think of. Why was I there? Where had I come from? Where (if I was honest) had I intended to sleep? How came I at such an hour on foot? and other examinations. I thought a little what excuse to give him, and then, determining that I was too tired to make up anything plausible, I told him the full truth; that I had meant to sleep rough, but had been overcome by fatigue, and that I had walked from Toul, starting at evening. I conjured him by our common [[Faith]] to let me in. He told me that it was impossible, as he had but one room in which he and his family slept, and assured me he had asked all these questions out of sympathy and charity alone. Then he wished me good-night, honestly and kindly, and went in.
+I trudged on unwillingly, and at the very last house of this detestable industrial slavery, a high house with a gable, I saw a window wide open, and a blonde man smoking a cigarette at a balcony. I called to him at once, and asked him to let me a bed. He put to me all the questions he could think of. Why was I there? Where had I come from? Where (if I was honest) had I intended to sleep? How came I at such an hour on foot? and other examinations. I thought a little what excuse to give him, and then, determining that I was too tired to make up anything plausible, I told him the full truth; that I had meant to sleep rough, but had been overcome by fatigue, and that I had walked from Toul, starting at evening. I conjured him by our common [[concepts/faith|Faith]] to let me in. He told me that it was impossible, as he had but one room in which he and his family slept, and assured me he had asked all these questions out of sympathy and charity alone. Then he wished me good-night, honestly and kindly, and went in.
 
 By this time I was very much put out, and began to be angry. These straggling French towns give no opportunity for a shelter. I saw that I should have to get out beyond the market gardens, and that it might be a mile or two before I found any rest. A clock struck one. I looked up and saw it was from the belfry of one of those new chapels which the monks are building everywhere, nor did I forget to curse the monks in my heart for building them. I cursed also those who started smelting works in the Moselle valley; those who gave false advice to travellers; those who kept lions and tigers in caravans, and for a small sum I would have cursed the whole human race, when I saw that my bile had hurried me out of the street well into the countryside, and that above me, on a bank, was a patch of orchard and a lane leading up to it. Into this I turned, and, finding a good deal of dry hay lying under the trees, I soon made myself an excellent bed, first building a little mattress, and then piling on hay as warm as a blanket.
 
@@ -5661,7 +5661,7 @@ La maledizione completa
 
 Verso una carovana o un mercato. C’erano alcuni uomini svegli, ma quando proposi di dormire nelle loro piccole case su ruote, mi dissero che mai si era fatto prima; che già avevano difficoltà a sistemarsi dentro quelle case; che non avevano paglia; che erano sorvegliati dai cani. In generale, mi fecero capire (senza aggressività né scortesia) che sembravo proprio il tipo di persona in grado di rubare i loro leoni e tigri. Tuttavia, mi dissero anche che sicuramente avrei trovato qualcosa aperto nel centro del quartiere dei lavoratori, dove le grandi lampade elettriche illuminavano intensamente l’intera area.
 
-Proseguii a malincuore, e presso l’ultima casa di questa odiosa forma di schiavitù industriale – una casa alta con un tetto a spiovente – vidi una finestra completamente aperta; un uomo biondo fumava una sigaretta sul balcone. Gli chiesi subito se poteva permettermi di dormire lì dentro. Mi pose tutte le domande che gli vennero in mente: perché ero lì, da dove provenivo, dove intendevo dormire (se fossi stato onesto), come mai mi trovassi lì a quell’ora a piedi. Pensai per un momento a quale scusa inventare, ma poi, rendendomi conto di essere troppo stanco per trovare una spiegazione plausibile, gli raccontai tutta la verità: avevo intenzione di dormire all’aperto, ma la stanchezza era stata troppa; ero partito da Toul la sera prima e avevo camminato tutto il giorno. Gli chiesi, invocando la nostra comune [[Faith|Fede]], di lasciarmi entrare. Mi rispose che era impossibile: aveva soltanto una stanza in cui dormivano lui e la sua famiglia, e aggiunse che mi aveva fatto tutte quelle domande solo per compassione e carità. Poi mi augurò la buonanotte in modo sincero e gentile, ed entrò in casa.
+Proseguii a malincuore, e presso l’ultima casa di questa odiosa forma di schiavitù industriale – una casa alta con un tetto a spiovente – vidi una finestra completamente aperta; un uomo biondo fumava una sigaretta sul balcone. Gli chiesi subito se poteva permettermi di dormire lì dentro. Mi pose tutte le domande che gli vennero in mente: perché ero lì, da dove provenivo, dove intendevo dormire (se fossi stato onesto), come mai mi trovassi lì a quell’ora a piedi. Pensai per un momento a quale scusa inventare, ma poi, rendendomi conto di essere troppo stanco per trovare una spiegazione plausibile, gli raccontai tutta la verità: avevo intenzione di dormire all’aperto, ma la stanchezza era stata troppa; ero partito da Toul la sera prima e avevo camminato tutto il giorno. Gli chiesi, invocando la nostra comune [[concepts/faith|Fede]], di lasciarmi entrare. Mi rispose che era impossibile: aveva soltanto una stanza in cui dormivano lui e la sua famiglia, e aggiunse che mi aveva fatto tutte quelle domande solo per compassione e carità. Poi mi augurò la buonanotte in modo sincero e gentile, ed entrò in casa.
 
 A quel punto ero davvero esasperato e iniziai ad arrabbiarmi. Queste città francesi, sparse e disordinate, non offrivano alcuna possibilità di riposo. Capii che avrei dovuto allontanarmi dai giardini mercantili; forse avrei impiegato un miglio o due per trovare finalmente un po’ di tranquillità. Un orologio suonò l’ora una. Alzai lo sguardo e vidi che proveniva dal campanile di una di quelle nuove cappelle che i monaci stavano costruendo ovunque; non dimenticai certo di maledire i monaci nel mio cuore per averle erette. Maledissi anche coloro che avevano avviato impianti di fusione nella valle della Mosella, quelli che davano consigli falsi ai viaggiatori, e quelli che tenevano leoni e tigri nelle carovane. Per pochi soldi, avrei maledetto l’intera umanità! Quando vidi che la mia rabbia mi aveva portato fuori dalla città, fino in campagna, e che sopra di me, su un pendio, c’era un pezzo di orto e un sentiero che vi conduceva. Mi diressi verso di esso; trovai un mucchio di paglia secca sotto gli alberi e in poco tempo mi preparai un ottimo letto: prima costruii un piccolo materasso, poi ci addossai sopra la paglia, calda come una coperta.
 
@@ -5680,7 +5680,7 @@ READY TO RISE. Then, stiff and but little rested by two hours of exhaustion, I t
 
 I should very much like to know what those who have an answer to everything can say about the food requisite to breakfast? Those great men Marlowe and Jonson, Shakespeare, and Spenser before him, drank beer at rising, and tamed it with a little bread. In the regiment we used to drink black coffee without sugar, and cut off a great hunk of stale crust, and eat nothing more till the halt: for the matter of that, the great victories of ‘93 were fought upon such unsubstantial meals; for the Republicans fought first and ate afterwards, being in this quite unlike the Ten Thousand. Sailors I know eat nothing for some hours — I mean those who turn out at four in the morning; I could give the name of the watch, but that I forget it and will not be plagued to look up technicalities. Dogs eat the first thing they come across, cats take a little milk, and gentlemen are accustomed to get up at nine and eat eggs, bacon, kidneys, ham, cold pheasant, toast, coffee, tea, scones, and honey, after which they will boast that their race is the hardiest in the world and ready to bear every fatigue in the pursuit of Empire. But what rule governs all this? Why is breakfast different from all other things, so that the Greeks called it the best thing in the world, and so that each of us in a vague way knows that he would eat at breakfast nothing but one special kind of food, and that he could not imagine breakfast at any other hour in the day?
 
-The provocation to this inquiry (which I have here no time to pursue) lies in the extraordinary distaste that I conceived that morning for Brule wine. My ham and bread and chocolate I had consumed overnight. I thought, in my folly, that I could break my fast on a swig of what had seemed to me, only the night before, the best revivifier and sustenance possible. In the harsh [[Dawn|dawn]] it turned out to be nothing but a bitter and intolerable vinegar. I make no attempt to explain this, nor to say why the very same wine that had seemed so good in the forest (and was to seem so good again later on by the canal) should now repel me. I can only tell you that this heavy disappointment convinced me of a great truth that a Politician once let slip in my hearing, and that I have never since forgotten. ‘Man,’ said the Director of the State, ‘man is but the creature of circumstance.’
+The provocation to this inquiry (which I have here no time to pursue) lies in the extraordinary distaste that I conceived that morning for Brule wine. My ham and bread and chocolate I had consumed overnight. I thought, in my folly, that I could break my fast on a swig of what had seemed to me, only the night before, the best revivifier and sustenance possible. In the harsh [[motifs/dawn|dawn]] it turned out to be nothing but a bitter and intolerable vinegar. I make no attempt to explain this, nor to say why the very same wine that had seemed so good in the forest (and was to seem so good again later on by the canal) should now repel me. I can only tell you that this heavy disappointment convinced me of a great truth that a Politician once let slip in my hearing, and that I have never since forgotten. ‘Man,’ said the Director of the State, ‘man is but the creature of circumstance.’
 
 As it was, I lit a pipe of tobacco and hobbled blindly along for miles under and towards the brightening east. Just before the sun rose I turned and looked backward from a high bridge that recrossed the river. The long effort of the night had taken me well on my way. I was out of the familiar region of the
 
@@ -5689,13 +5689,13 @@ As it was, I lit a pipe of tobacco and hobbled blindly along for miles under and
 
 <span class="qlang-split" data-lang="it"></span>
 
-# A colazione
+A colazione
 
 PRONTO A RISALIRE. Poi, ancora stanco e con solo due ore di riposo dopo tanta fatica, presi il mio bastone e il mio zaino e ripresi il cammino.
 
 Mi piacerebbe molto sapere cosa possono dire coloro che hanno una risposta per tutto riguardo al cibo necessario per la colazione. Quei grandi uomini come Marlowe, Jonson, Shakespeare e Spenser bevevano birra al mattino, accompagnandola con un po’ di pane. Nel reggimento noi bevevamo caffè nero senza zucchero e mangiavamo solo un grosso pezzo di crosta di pane raffermo, fino al momento del riposo; anzi, le grandi vittorie del ’93 furono ottenute con pasti così semplici. I repubblicani combattevano prima e poi mangiavano, il che li differenziava completamente dai “Diecimila”. Conosco marinai che per diverse ore non mangiano nulla. Intendo quelli che si alzano alle quattro del mattino; potrei ricordare il nome della guardia in cui appartenevano, ma me lo sono dimenticato e non ho voglia di cercarlo. I cani mangiano la prima cosa che incontrano, i gatti bevono un po’ di latte. Gli uomini, invece, sono abituati a svegliarsi alle nove e a mangiare uova, pancetta, reni, prosciutto, fagiano freddo, toast, caffè, tè, focaccette e miele. Dopo di ciò si vantano che la loro razza sia la più resistente al mondo e pronta ad affrontare qualsiasi fatica nella ricerca dell’Impero. Ma quale regola governa tutto questo? Perché la colazione è diversa da tutte le altre cose? I Greci la consideravano il cibo migliore del mondo. E ognuno di noi, in modo vago, sa che a colazione vorrebbe mangiare soltanto un certo tipo di cibo. E non riesce nemmeno a immaginare di fare colazione in un altro momento della giornata.
 
-La motivazione di questa indagine (che qui non ho il tempo di approfondire) risiede nel profondo disgusto che provai quella mattina per il vino Brule. Il mio prosciutto, il pane e il cioccolato li avevo consumati la notte precedente; nella mia follia pensavo di poter iniziare la giornata bevendo proprio quel vino che, solo la sera prima, mi era sembrato il miglior rinvigorente e alimento possibile. Ma all’aspro [[Dawn|'alba]] si rivelò essere nient’altro che un aceto amaro e insopportabile. Non cerco di spiegare questo fenomeno, né di capire perché lo stesso vino che nel bosco mi era sembrato così delizioso (e in seguito, lungo il canale, avrebbe di nuovo mostrato le sue qualità positive) ora mi repellesse. Posso solo dirvi che questa profonda delusione mi fece comprendere una grande verità: quella che un politico una volta mi disse e che da allora non ho mai dimenticato. “L’uomo,” disse il Direttore di Stato, “è soltanto la creatura delle circostanze.”
+La motivazione di questa indagine (che qui non ho il tempo di approfondire) risiede nel profondo disgusto che provai quella mattina per il vino Brule. Il mio prosciutto, il pane e il cioccolato li avevo consumati la notte precedente; nella mia follia pensavo di poter iniziare la giornata bevendo proprio quel vino che, solo la sera prima, mi era sembrato il miglior rinvigorente e alimento possibile. Ma all’aspro [[motifs/dawn|'alba]] si rivelò essere nient’altro che un aceto amaro e insopportabile. Non cerco di spiegare questo fenomeno, né di capire perché lo stesso vino che nel bosco mi era sembrato così delizioso (e in seguito, lungo il canale, avrebbe di nuovo mostrato le sue qualità positive) ora mi repellesse. Posso solo dirvi che questa profonda delusione mi fece comprendere una grande verità: quella che un politico una volta mi disse e che da allora non ho mai dimenticato. “L’uomo,” disse il Direttore di Stato, “è soltanto la creatura delle circostanze.”
 
 Così come stavo, accesi una pipa di tabacco e proseguii a tentoni per miglia, verso est, dove il cielo iniziava a schiarirsi. Poco prima dell’alba, mi voltai e guardai indietro da un alto ponte che attraversava nuovamente il fiume. L’intensa fatica della notte aveva portato me lontano; ormai ero uscito dalla zona familiare.
 
@@ -5708,7 +5708,7 @@ Così come stavo, accesi una pipa di tabacco e proseguii a tentoni per miglia, v
 
 THE FURTHER VALLEY
 
-GARRISON. THE GREAT forest-hills that I had traversed stood up opposite the [[Dawn|dawn]], catching the new light; heavy, drifting, but white clouds, rare at such an hour, sailed above them. The valley of the Moselle, which I had never thought of save as a half mountainous region, had fallen, to become a kind of long garden, whose walls were regular, low, and cultivated slopes. The main waterway of the valley was now not the river but the canal that fed from it.
+GARRISON. THE GREAT forest-hills that I had traversed stood up opposite the [[motifs/dawn|dawn]], catching the new light; heavy, drifting, but white clouds, rare at such an hour, sailed above them. The valley of the Moselle, which I had never thought of save as a half mountainous region, had fallen, to become a kind of long garden, whose walls were regular, low, and cultivated slopes. The main waterway of the valley was now not the river but the canal that fed from it.
 
 The tall grasses, the leaves, and poplars bordering the river and the canal seemed dark close to me, but the valley as a whole was vague, a mass of trees with one Lorraine church-tower showing, and the delicate slopes bounding it on either side.
 
@@ -5723,7 +5723,7 @@ As I came into Flavigny I saw at once that it was a place on which a book might 
 
 Il valle più lontano
 
-GARRISON. Le grandi colline boschive che avevo attraversato si ergevano di fronte all’[[Dawn|'alba]], assorbendo la luce del nuovo giorno; nuvole pesanti e bianche, rare a quell’ora, fluttuavano sopra di loro. La valle della Mosella, che prima consideravo soltanto una regione semimontuosa, appariva ora come un lungo giardino le cui pareti erano costituite da pendii regolari e coltivati. Il principale corso d’acqua della valle non era più il fiume, ma il canale che ne derivava.
+GARRISON. Le grandi colline boschive che avevo attraversato si ergevano di fronte all’[[motifs/dawn|'alba]], assorbendo la luce del nuovo giorno; nuvole pesanti e bianche, rare a quell’ora, fluttuavano sopra di loro. La valle della Mosella, che prima consideravo soltanto una regione semimontuosa, appariva ora come un lungo giardino le cui pareti erano costituite da pendii regolari e coltivati. Il principale corso d’acqua della valle non era più il fiume, ma il canale che ne derivava.
 
 L'erba alta, le foglie e i pioppi che si affacciavano sul fiume e sul canale sembravano scuri da vicino, ma la valle nel suo insieme appariva sfocata: una massa di alberi dalla cui cima spuntava la torre di una chiesa lorenese, con le dolci pendenze che la delimitavano su entrambi i lati.
 
@@ -5820,11 +5820,11 @@ Ma continuavo a vagabondare per le strade di Flavigny. La prima cosa che notai e
 
 THE VALUE OF BAKERS
 
-argumentative and atheists (I except the cobbler under Plinlimmon, concerning whom would to heaven I had the space to tell you all here, for he knows the legends of the mountain), while it is public that barbers are garrulous and servile, that millers are cheats (we say in Sussex that every honest miller has a large tuft of hair on the palm of his hand), yet — with every trade in the world having some bad quality attached to it — bakers alone are exempt, and every one takes it for granted that they are sterling: indeed, there are some societies in which, no matter how gloomy and churlish the conversation may have become, you have but to mention bakers for voices to brighten suddenly and for a good influence to pervade every one. I say this is known for a fact, but not usually explained; the explanation is, that bakers are always up early in the morning and can watch the [[Dawn|dawn]], and that in this occupation they live in lonely contemplation enjoying the early hours.
+argumentative and atheists (I except the cobbler under Plinlimmon, concerning whom would to heaven I had the space to tell you all here, for he knows the legends of the mountain), while it is public that barbers are garrulous and servile, that millers are cheats (we say in Sussex that every honest miller has a large tuft of hair on the palm of his hand), yet — with every trade in the world having some bad quality attached to it — bakers alone are exempt, and every one takes it for granted that they are sterling: indeed, there are some societies in which, no matter how gloomy and churlish the conversation may have become, you have but to mention bakers for voices to brighten suddenly and for a good influence to pervade every one. I say this is known for a fact, but not usually explained; the explanation is, that bakers are always up early in the morning and can watch the [[motifs/dawn|dawn]], and that in this occupation they live in lonely contemplation enjoying the early hours.
 
 So it was with this baker of mine in Flavigny, who was a boy. When he heard that I had served at Toul he was delighted beyond measure; he told me of a brother of his that had been in the same regiment, and he assured me that he was himself going into the artillery by special enlistment, having got his father’s leave. You know very little if you think I missed the opportunity of making the guns seem terrible and glorious in his eyes. I told him stories enough to waken a sentry of reserve, and if it had been possible (with my youth so obvious) I would have woven in a few anecdotes of active service, and described great shells bursting under my horses and the teams shot down, and the gunners all the while impassive; but as I saw I should not be believed I did not speak of such things, but confined myself to what he would see and hear when he joined.
 
-Meanwhile the good warm food and the rising morning had done two things; they had put much more vigour into me than I had had when I slunk in half-an-hour before, but at the same time (and this is a thing that often comes with food and with rest) they had made me feel the fatigue of so long a night. I rose up, therefore, determined to find some place where I could sleep. I asked this friend of mine how much there was to pay, and he said ‘fourpence’. Then we exchanged ritual salutations, and I took the road. I did not leave the town or village without noticing one extraordinary thing at the far end of it, which was that, whereas most places in [[France]] are proud of their town-hall and make a great show of it, here in Flavigny they had taken a great house and written over it ÉCOLE COMMUNALE in great letters, and then they had written over a kind of lean-to or out-house of this big place the words ‘Hôtel de ville’ in very small letters, so small that I had a doubt for a moment if the citizens here were good republicans — a treasonable thought on all this frontier.
+Meanwhile the good warm food and the rising morning had done two things; they had put much more vigour into me than I had had when I slunk in half-an-hour before, but at the same time (and this is a thing that often comes with food and with rest) they had made me feel the fatigue of so long a night. I rose up, therefore, determined to find some place where I could sleep. I asked this friend of mine how much there was to pay, and he said ‘fourpence’. Then we exchanged ritual salutations, and I took the road. I did not leave the town or village without noticing one extraordinary thing at the far end of it, which was that, whereas most places in [[settings/france|France]] are proud of their town-hall and make a great show of it, here in Flavigny they had taken a great house and written over it ÉCOLE COMMUNALE in great letters, and then they had written over a kind of lean-to or out-house of this big place the words ‘Hôtel de ville’ in very small letters, so small that I had a doubt for a moment if the citizens here were good republicans — a treasonable thought on all this frontier.
 
 Then, a mile onward, I saw the road cross the canal and run parallel to it. I
 
@@ -5835,11 +5835,11 @@ Then, a mile onward, I saw the road cross the canal and run parallel to it. I
 
 Il valore dei panettieri
 
-Gli argomentativi e gli atei, tranne quel calzolaio sotto Plinlimmon, di cui, per Dio, vorrei avere lo spazio per raccontarvi tutto qui; lui conosce bene le leggende di quella montagna. Eppure, mentre è noto a tutti che i barbieri sono chiacchieroni e servili, che i mulini sono truffe (noi nel Sussex diciamo che ogni onesto mugnaio ha una grossa ciocca di capelli sul palmo della mano), ecco che – nonostante ogni mestiere al mondo abbia qualche aspetto negativo associato a sé – soltanto i panettieri sono esenti da queste critiche, e tutti considerano loro persone integre e affidabili. Infatti, in alcune società, anche quando la conversazione diventa cupa e scortese, basta menzionare i panettieri perché le voci si illuminino all’improvviso e un’atmosfera positiva pervada tutti. Dico che questo è un fatto noto, ma di solito non viene spiegato. La ragione? I panettieri si alzano sempre molto presto al mattino, possono ammirare l’[[Dawn|'alba]] e, con questa attività, vivono in solitudine, godendo delle prime ore del giorno.
+Gli argomentativi e gli atei, tranne quel calzolaio sotto Plinlimmon, di cui, per Dio, vorrei avere lo spazio per raccontarvi tutto qui; lui conosce bene le leggende di quella montagna. Eppure, mentre è noto a tutti che i barbieri sono chiacchieroni e servili, che i mulini sono truffe (noi nel Sussex diciamo che ogni onesto mugnaio ha una grossa ciocca di capelli sul palmo della mano), ecco che – nonostante ogni mestiere al mondo abbia qualche aspetto negativo associato a sé – soltanto i panettieri sono esenti da queste critiche, e tutti considerano loro persone integre e affidabili. Infatti, in alcune società, anche quando la conversazione diventa cupa e scortese, basta menzionare i panettieri perché le voci si illuminino all’improvviso e un’atmosfera positiva pervada tutti. Dico che questo è un fatto noto, ma di solito non viene spiegato. La ragione? I panettieri si alzano sempre molto presto al mattino, possono ammirare l’[[motifs/dawn|'alba]] e, con questa attività, vivono in solitudine, godendo delle prime ore del giorno.
 
 Conoscevo questo mio panettiere a Flavigny, che era ancora un ragazzo. Quando seppe che avevo prestato servizio a Toul, ne fu estremamente felice; mi raccontò di un suo fratello che aveva fatto parte dello stesso reggimento e mi assicurò che lui stesso avrebbe arruolato nella fanteria d’artiglieria con il permesso di suo padre. Se pensate che abbia perso l’occasione di far sembrare le armi terribili e gloriose ai suoi occhi, allora non sapete nulla. Gli raccontai storie sufficienti a “svegliare” persino una sentinella di riserva; se solo fosse stato possibile (data la mia giovane età), avrei aggiunto alcune aneddoti riguardanti il servizio attivo, descrivendo come grandi proiettili esplodessero sotto i miei cavalli, come le squadre venissero abbattute e gli artiglieri rimanessero del tutto indifferenti. Ma visto che sapevo che non mi avrebbe creduto, non parlai di queste cose, ma mi limitai a ciò che avrebbe potuto vedere e sentire quando si sarebbe arruolato.
 
-Nel frattempo, il cibo caldo e delizioso e l’alba che si avvicinava avevano prodotto due effetti: mi avevano restituito molta più energia di quanto ne avessi prima, ma allo stesso tempo (e questo succede spesso con il cibo e il riposo) avevano fatto sentire ancora di più la stanchezza accumulata durante quella lunga notte. Così decisi di alzarmi e cercare un posto dove poter dormire. Chiesi a quel mio amico quanto costasse tutto ciò, e lui rispose “quattro penny”. Dopo aver scambiato i soliti saluti, partii. Non lasciai la città senza notare una cosa strana: mentre nella maggior parte dei luoghi in [[France|Francia]] si vanta molto del proprio municipio e se ne fa un grande sfoggio, qui a Flavigny avevano preso una casa grande e vi avevano scritto “ÉCOLE COMMUNALE” in caratteri grandi; mentre su un annesso di quella stessa casa avevano scritto “Hôtel de ville” in caratteri molto piccoli, così piccoli che per un momento dubitai che i cittadini di quel luogo fossero veri repubblicani. Un pensiero traditore, in una zona del confine come questa.
+Nel frattempo, il cibo caldo e delizioso e l’alba che si avvicinava avevano prodotto due effetti: mi avevano restituito molta più energia di quanto ne avessi prima, ma allo stesso tempo (e questo succede spesso con il cibo e il riposo) avevano fatto sentire ancora di più la stanchezza accumulata durante quella lunga notte. Così decisi di alzarmi e cercare un posto dove poter dormire. Chiesi a quel mio amico quanto costasse tutto ciò, e lui rispose “quattro penny”. Dopo aver scambiato i soliti saluti, partii. Non lasciai la città senza notare una cosa strana: mentre nella maggior parte dei luoghi in [[settings/france|Francia]] si vanta molto del proprio municipio e se ne fa un grande sfoggio, qui a Flavigny avevano preso una casa grande e vi avevano scritto “ÉCOLE COMMUNALE” in caratteri grandi; mentre su un annesso di quella stessa casa avevano scritto “Hôtel de ville” in caratteri molto piccoli, così piccoli che per un momento dubitai che i cittadini di quel luogo fossero veri repubblicani. Un pensiero traditore, in una zona del confine come questa.
 
 Poi, dopo un miglio di cammino, vidi la strada attraversare il canale e proseguire parallela ad esso.
 
@@ -5869,7 +5869,7 @@ This comfort I ascribe to four causes (just above you will find it written that 
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Il calore del mattino
+Il calore del mattino
 
 Vidi che il canale proseguiva per un altro miglio circa sotto una fitta boscaglia. Notai un vecchio ponte che lo attraversava, offrendo ombra fresca; essendo ormai quasi le sei del pomeriggio e il sole diventando sempre più intenso, proseguii lungo il sentiero, attraversai il ponte e mi sdraiai sul muschio sotto quegli alberi incantevoli. Dimenticando completamente le conseguenze di un riposo così anticipato, nonché il caldo torrido che sarebbe seguito a mezzogiorno, mi addormentai immediatamente, diventando parte della vita di quella foresta.
 
@@ -5881,7 +5881,7 @@ Nel primo villaggio in cui arrivai scoprii che la Messa era già finita, il che 
 
 Questo conforto lo attribuisco a quattro cause; proprio sopra di voi è scritto che non riuscivo a capire perché dovesse essere così, ma che importanza ha? E queste cause sono:
 
-# Per mezz’ora, all’inizio della giornata, rimani in silenzio…
+Per mezz’ora, all’inizio della giornata, rimani in silenzio…
 
 * * *
 
@@ -5904,7 +5904,7 @@ action and judgement.
 
 4. And the most important cause of this feeling of satisfaction is that you are doing what the human race has done for thousands upon thousands upon thousands of years. This is a matter of such moment that I am astonished people hear of it so little. Whatever is buried right into our blood from immemorial habit that we must be certain to do if we are to be fairly happy (of course no grown man or woman can really be very happy for long — but I mean reasonably happy), and, what is more important, decent and secure of our souls. Thus one should from time to time hunt animals, or at the very least shoot at a mark; one should always drink some kind of fermented liquor with one’s food — and especially deeply upon great feast-days; one should go on the water from time to time; and one should dance on occasions; and one should sing in chorus. For all these things man has done since God put him into a garden and his eyes first became troubled with a soul. Similarly some teacher or ranter or other, whose name I forget, said lately one very wise thing at least, which was that every man should do a little work with his hands.
 
-Oh! what good philosophy this is, and how much better it would be if rich people, instead of raining the influence of their rank and spending their money on leagues for this or that exceptional thing, were to spend it in converting the middle-class to ordinary living and to the [[Tradition|tradition]] of the race. Indeed, if I had power for some thirty years I would see to it that people should be allowed to follow their inbred instincts in these matters, and should hunt, drink, sing, dance, sail, and dig; and those that would not should be compelled by force.
+Oh! what good philosophy this is, and how much better it would be if rich people, instead of raining the influence of their rank and spending their money on leagues for this or that exceptional thing, were to spend it in converting the middle-class to ordinary living and to the [[concepts/tradition|tradition]] of the race. Indeed, if I had power for some thirty years I would see to it that people should be allowed to follow their inbred instincts in these matters, and should hunt, drink, sing, dance, sail, and dig; and those that would not should be compelled by force.
 
 Now in the morning Mass you do all that the race needs to do and has done for all these ages where religion was concerned; there you have the sacred and
 
@@ -5927,7 +5927,7 @@ Azione e giudizio.
 
 4. La causa più importante di questo senso di soddisfazione è il fatto che si sta facendo ciò che l’umanità ha sempre fatto per migliaia e migliaia di anni. Si tratta di qualcosa di così fondamentale che mi sorprende che le persone ne parlino così poco. Ci sono comportamenti radicati nel nostro sangue da tempi immemorabili; sono azioni che dobbiamo assolutamente compiere se vogliamo essere veramente felici (certamente nessun adulto può essere davvero molto felice per molto tempo, ma intendo dire abbastanza felice), e soprattutto per garantire la dignità e la serenità della nostra anima. Pertanto, di tanto in tanto si dovrebbe cacciare animali o almeno sparare a un bersaglio; si dovrebbe sempre bere qualche tipo di bevanda fermentata insieme al cibo, soprattutto durante le grandi feste; si dovrebbe andare in acqua di tanto in tanto; e si dovrebbe ballare nelle occasioni appropriate, nonché cantare in coro. Perché tutte queste cose l’uomo le fa da quando Dio lo ha messo in un giardino e i suoi occhi hanno per la prima volta contemplato il concetto di anima. Allo stesso modo, un insegnante o un predicatore, il cui nome non ricordo, ha detto recentemente qualcosa di molto saggio: che ogni uomo dovrebbe dedicare un po’ del proprio tempo al lavoro manuale.
 
-Oh! Che bella filosofia. E sarebbe ancora migliore se le persone ricche, invece di esercitare la loro influenza e spendere i loro soldi in iniziative per questo o quell’evento eccezionale, li utilizzassero per far sì che la classe media conducesse una vita ordinaria e rispettasse le [[Tradition|tradizioni]] della propria nazione. Infatti, se avessi il potere per trent’anni, mi assicurerei che alle persone fosse permesso seguire i loro istinti innati in queste cose: cacciare, bere, cantare, ballare, navigare, scavare. E coloro che non lo volessero sarebbero costretti con la forza.
+Oh! Che bella filosofia. E sarebbe ancora migliore se le persone ricche, invece di esercitare la loro influenza e spendere i loro soldi in iniziative per questo o quell’evento eccezionale, li utilizzassero per far sì che la classe media conducesse una vita ordinaria e rispettasse le [[concepts/tradition|tradizioni]] della propria nazione. Infatti, se avessi il potere per trent’anni, mi assicurerei che alle persone fosse permesso seguire i loro istinti innati in queste cose: cacciare, bere, cantare, ballare, navigare, scavare. E coloro che non lo volessero sarebbero costretti con la forza.
 
 Ora, durante la Messa mattutina, si fanno tutte quelle cose che la razza umana ha sempre necessitato di fare e che ha effettivamente fatto in tutti questi secoli riguardo alla religione; lì si trova ciò che è sacro.
 
@@ -5993,7 +5993,7 @@ Erano ormai quasi le undici di sera; ero da un po’ arrivato sul luogo dove cer
 
 Ci vorrebbe troppo tempo per descrivere tutti i trucchi a cui ricorrono le persone stanche e anziane quando sono alla fine di un compito difficile: come dividono mentalmente il lavoro in parti più semplici, come contano i numeri, come iniziano a risolvere i problemi con l’aritmetica mentale. Ho provato tutti questi metodi. Poi mi è venuto in mente uno nuovo, davvero eccellente, che consiglio a tutto il mondo: cambiare continuamente percorso, prendendo ora i campi, ora il fiume, e solo di tanto in tanto la strada principale. Quest’ultimo tratto di strada si adattava perfettamente a questo metodo: la valle era diventata ancora più larga e poco profonda; le colline su entrambi i lati erano basse e perfettamente uguali. Nel mezzo scorrevano il fiume, il canale e la strada; questi ultimi due erano separati soltanto da campi, a volte ampi, a volte stretti.
 
-# Prima sul sentiero di rimorchio, poi sulla strada, poi sull’erba, e infine di nuovo…
+Prima sul sentiero di rimorchio, poi sulla strada, poi sull’erba, e infine di nuovo…
 
 * * *
 
@@ -6008,7 +6008,7 @@ TOW-PATH, I PIECED out the last baking mile into Charmes, that lies at the foot 
 
 The delightful thing in Charmes is its name. Of this name I had indeed been thinking as I went along the last miles of that dusty and deplorable road — that a town should be called ‘Charms’.
 
-Not but that towns, if they are left to themselves and not hurried, have a way of settling into right names suited to the hills about them and recalling their own fields. I remember Sussex, and as I remember it I must, if only for example, set down my roll-call of such names, as — Fittleworth, where the Inn has painted panels; Amberley in the marshes; delicate Fernhurst, and Ditchling under its hill; Arundel, that is well known to every one; and Climping, that no one knows, set on a lonely beach and lost at the vague end of an impassable road; and Barlton, and Burton, and Duncton, and Coldwatham, that stand under in the shadow and look up at the great downs; and Petworth, where the spire leans sideways; and Timberley, that the floods make into an island; and No Man’s Land, where first there breaks on you the distant sea. I never knew a Sussex man yet but, if you noted him such a list, would answer: ‘There I was on such and such a day; this I came to after such and such a run; and that other is my home.’ But it is not his recollection alone which moves him, it is sound of the names. He feels the accent of them, and all the men who live between Hind-head and the Channel know these names stand for Eden; the noise is enough to prove it. So it is also with the hidden valleys of the lie de [[France]]; and when you say Jouy or Chevreuse to a man that was born in those shadows he grows dreamy — yet they are within a walk of Paris.
+Not but that towns, if they are left to themselves and not hurried, have a way of settling into right names suited to the hills about them and recalling their own fields. I remember Sussex, and as I remember it I must, if only for example, set down my roll-call of such names, as — Fittleworth, where the Inn has painted panels; Amberley in the marshes; delicate Fernhurst, and Ditchling under its hill; Arundel, that is well known to every one; and Climping, that no one knows, set on a lonely beach and lost at the vague end of an impassable road; and Barlton, and Burton, and Duncton, and Coldwatham, that stand under in the shadow and look up at the great downs; and Petworth, where the spire leans sideways; and Timberley, that the floods make into an island; and No Man’s Land, where first there breaks on you the distant sea. I never knew a Sussex man yet but, if you noted him such a list, would answer: ‘There I was on such and such a day; this I came to after such and such a run; and that other is my home.’ But it is not his recollection alone which moves him, it is sound of the names. He feels the accent of them, and all the men who live between Hind-head and the Channel know these names stand for Eden; the noise is enough to prove it. So it is also with the hidden valleys of the lie de [[settings/france|France]]; and when you say Jouy or Chevreuse to a man that was born in those shadows he grows dreamy — yet they are within a walk of Paris.
 
 But the wonderful thing about a name like Charmes is that it hands down the dead. For some dead man gave it a keen name proceeding from his own immediate delight, and made general what had been a private pleasure, and, so to speak, bequeathed a poem to his town. They say the Arabs do this; calling one place ‘the rest of the warriors’, and another ‘the end’, and another ‘the surprise of the horses’: let those who know them speak for it. I at least know that in the west of the Cotentin (a sea-garden) old Danes married to Gaulish women discovered the just epithet, and that you have ‘St Mary on the Hill’ and ‘High Town under the Wind’ and ‘The Borough over the Heath’, which
 
@@ -6094,9 +6094,9 @@ OF MOUNTAIN TOWNS
 
 from the pen of intellectuals — nonsense I had known to be nonsense, but that had none the less tarnished my mind — I happily entered the inn, ate and drank, praised God, and lay down to sleep in a great bed. I mingled with my prayers a firm intention of doing the ordinary things, and not attempting impossibilities, such as marching by night, nor following out any other vanities of this world. Then, having cast away all theories of how a pilgrimage should be conducted, and broken five or six vows, I slept steadily till the middle of the morning. I had covered fifty miles in twenty-five hours, and if you imagine this to be but two miles an hour, you must have a very mathematical mind, and know little of the realities of living. I woke and threw my shutters open to the bright morning and the masterful sun, took my coffee, and set out once more towards Epinal, the stronghold a few miles away — delighted to see that my shadow was so short and the road so hot to the feet and eyes. For I said, ‘This at least proves that I am doing like all the world, and walking during the day.’ It was but a couple of hours to the great garrison. In a little time I passed a battery. Then a captain went by on a horse, with his orderly behind him. Where the deep lock stands by the roadside — the only suggestion of coolness — I first heard the bugles; then I came into the long street and determined to explore Epinal, and to cast aside all haste and folly.
 
-There are many wonderful things in Epinal. As, for instance, that it was evidently once, like Paris and Melun and a dozen other strongholds of the Gauls, an island city. For the rivers of [[France]] are full of long, habitable islands, and these were once the rallying-places of clans. Then there are the forts which are placed on high hills round the town and make it even stronger than Toul; for Epinal stands just where the hills begin to be very high. Again, it is the capital of a mountain district, and this character always does something peculiar and impressive to a town. You may watch its effect in Grenoble, in little Aubusson, and, rather less, in Geneva.
+There are many wonderful things in Epinal. As, for instance, that it was evidently once, like Paris and Melun and a dozen other strongholds of the Gauls, an island city. For the rivers of [[settings/france|France]] are full of long, habitable islands, and these were once the rallying-places of clans. Then there are the forts which are placed on high hills round the town and make it even stronger than Toul; for Epinal stands just where the hills begin to be very high. Again, it is the capital of a mountain district, and this character always does something peculiar and impressive to a town. You may watch its effect in Grenoble, in little Aubusson, and, rather less, in Geneva.
 
-For in such towns three quite different kinds of men meet. First there are the old plain-men, who despise the highlanders and think themselves much grander and more civilized; these are the burgesses. Then there are the peasants and wood-cutters, who come in from the hill-country to market, and who are suspicious of the plain-men and yet proud to depend upon a real town with a bishop and paved streets. Lastly, there are the travellers, who come there to enjoy the [[Mountains|mountains]] and to make the city a base for their excursions, and these love the hill-men and think they understand them, and they despise the plain-men for being so middle-class as to lord it over the hill-men: but in truth
+For in such towns three quite different kinds of men meet. First there are the old plain-men, who despise the highlanders and think themselves much grander and more civilized; these are the burgesses. Then there are the peasants and wood-cutters, who come in from the hill-country to market, and who are suspicious of the plain-men and yet proud to depend upon a real town with a bishop and paved streets. Lastly, there are the travellers, who come there to enjoy the [[settings/mountains|mountains]] and to make the city a base for their excursions, and these love the hill-men and think they understand them, and they despise the plain-men for being so middle-class as to lord it over the hill-men: but in truth
 
 * * *
 
@@ -6107,9 +6107,9 @@ Città di montagna
 
 Dalla penna di intellettuali, sciocchezze che sapevo essere tali, ma che comunque avevano offuscato la mia mente. Entrai felicemente nell’osteria, mangiai e bevvi, lodai Dio e mi addormentai in un grande letto. Tra le mie preghiere c’era anche la ferma intenzione di fare solo cose ordinarie, senza tentare impossibilità come marciare di notte o perseguire altre vanità di questo mondo. Gettando via quindi tutte le teorie su come dovrebbe svolgersi un pellegrinaggio e infrangendo cinque o sei voti, dormii serenamente fino a metà mattina. Avevo percorso cinquanta miglia in ventiquattro ore. E se pensate che questo significhi soltanto due miglia all’ora, allora dovete avere una mente molto matematica e conoscere ben poco le realtà della vita. Mi svegliai, aprii le persiane davanti al luminoso mattino e al sole splendente, bevvi il mio caffè e ripartii verso Epinal, la fortezza situata a poche miglia di distanza. Ero felice di vedere quanto fosse breve la mia ombra e quanto fosse calda la strada sotto i miei piedi. “Questo almeno dimostra che faccio come tutti gli altri: cammino di giorno”, pensai. Mancavano solo un paio d’ore per raggiungere la grande guarnigione. Poco dopo passai accanto a una batteria militare; poi un capitano passò a cavallo, seguito dal suo attendente. Lì, dove c’era il profondo fossato lungo la strada – l’unica ombra di frescura, – sentii per la prima volta suonare le trombe; poi entrai nella lunga strada e decisi di esplorare Epinal, mettendo da parte ogni fretta e follia.
 
-Ci sono molte cose meravigliose a Epinal. Ad esempio, è evidente che un tempo, proprio come Parigi, Melun e una dozzina di altre fortezze dei Galli, fosse una città-isola. I fiumi della [[France|Francia]] sono infatti pieni di isole lunghe e abitabili, e queste un tempo costituivano i luoghi di riunione dei clan. Inoltre, le fortezze situate sulle alte colline intorno alla città la rendono ancora più imponente di Toul; Epinal si trova infatti esattamente nel punto in cui le colline iniziano ad essere molto ripide. In più, è il capoluogo di una regione montuosa, e questa caratteristica conferisce sempre a una città un aspetto particolare e impressionante. Si può osservare questo effetto a Grenoble, a Aubusson, e, in misura minore, a Ginevra.
+Ci sono molte cose meravigliose a Epinal. Ad esempio, è evidente che un tempo, proprio come Parigi, Melun e una dozzina di altre fortezze dei Galli, fosse una città-isola. I fiumi della [[settings/france|Francia]] sono infatti pieni di isole lunghe e abitabili, e queste un tempo costituivano i luoghi di riunione dei clan. Inoltre, le fortezze situate sulle alte colline intorno alla città la rendono ancora più imponente di Toul; Epinal si trova infatti esattamente nel punto in cui le colline iniziano ad essere molto ripide. In più, è il capoluogo di una regione montuosa, e questa caratteristica conferisce sempre a una città un aspetto particolare e impressionante. Si può osservare questo effetto a Grenoble, a Aubusson, e, in misura minore, a Ginevra.
 
-In tali città si incontrano tre tipi di persone completamente diversi. Prima di tutto ci sono gli uomini della pianura, che disprezzano gli abitanti delle zone montuose e ritengono di essere molto più nobili e civili; questi sono i borghesi. Poi ci sono i contadini e i taglialegna che vengono dalle zone collinari al mercato; sono diffidenti nei confronti degli uomini della pianura, ma allo stesso tempo si sentono orgogliosi di far parte di una vera città con un vescovo e strade lastricate. Infine ci sono i viaggiatori, che vanno lì per godersi le [[Mountains|montagne]] e utilizzare la città come base per le loro escursioni; questi amano gli abitanti delle zone collinari e pensano di capirli meglio degli uomini della pianura, che disprezzano perché sono troppo “di classe media” per dominare su di loro. Ma in realtà.
+In tali città si incontrano tre tipi di persone completamente diversi. Prima di tutto ci sono gli uomini della pianura, che disprezzano gli abitanti delle zone montuose e ritengono di essere molto più nobili e civili; questi sono i borghesi. Poi ci sono i contadini e i taglialegna che vengono dalle zone collinari al mercato; sono diffidenti nei confronti degli uomini della pianura, ma allo stesso tempo si sentono orgogliosi di far parte di una vera città con un vescovo e strade lastricate. Infine ci sono i viaggiatori, che vanno lì per godersi le [[settings/mountains|montagne]] e utilizzare la città come base per le loro escursioni; questi amano gli abitanti delle zone collinari e pensano di capirli meglio degli uomini della pianura, che disprezzano perché sono troppo “di classe media” per dominare su di loro. Ma in realtà.
 
 * * *
 
@@ -6152,7 +6152,7 @@ Quindi il transetto non è altro che un vecchio fienile quadrato costruito in pi
 
 THE APPLE MAN
 
-THEN THE APSE is pure and beautiful Gothic of the fourteenth century, with very tall and fluted windows like single prayers. The ambulatory is perfectly modern, Gothic also, and in the manner that Viollet le Duc in [[France]] and Pugin in England have introduced to bring us back to our origins and to remind us of the place whence all we Europeans came. Again, this apse and ambulatory are not perpendicular to the transept, but set askew, a thing known in small churches and said to be a symbol, but surely very rare in large ones. The western door is purely Romanesque, and has Byzantine ornaments and a great deep round door. To match it there is a northern door still deeper, with rows and rows of inner arches full of saints, angels, devils, and flowers; and this again is not straight, but so built that the arches go aslant, as you sometimes see railway bridges when they cross roads at an angle. Finally, there is a central tower which is neither Gothic nor Romanesque but pure Italian, a loggia, with splendid round airy windows taking up all its walls, and with a flat roof and eaves. This some one straight from the south must have put on as a memory of his wanderings.
+THEN THE APSE is pure and beautiful Gothic of the fourteenth century, with very tall and fluted windows like single prayers. The ambulatory is perfectly modern, Gothic also, and in the manner that Viollet le Duc in [[settings/france|France]] and Pugin in England have introduced to bring us back to our origins and to remind us of the place whence all we Europeans came. Again, this apse and ambulatory are not perpendicular to the transept, but set askew, a thing known in small churches and said to be a symbol, but surely very rare in large ones. The western door is purely Romanesque, and has Byzantine ornaments and a great deep round door. To match it there is a northern door still deeper, with rows and rows of inner arches full of saints, angels, devils, and flowers; and this again is not straight, but so built that the arches go aslant, as you sometimes see railway bridges when they cross roads at an angle. Finally, there is a central tower which is neither Gothic nor Romanesque but pure Italian, a loggia, with splendid round airy windows taking up all its walls, and with a flat roof and eaves. This some one straight from the south must have put on as a memory of his wanderings.
 
 The barn-transept is crumbling old grey stone, the Romanesque porches are red, like Strasburg, the Gothic apse is old white as our cathedrals are, the modern ambulatory is of pure white stone just quarried, and thus colours as well as shapes are mingled up and different in this astonishing building.
 
@@ -6175,7 +6175,7 @@ Indeed the people of Épinal, not taking me for a traveller but simply for a wan
 
 L’Uomo delle Mele
 
-L’abside è un esempio puro e bellissimo di architettura gotica del XIV secolo, con finestre molto alte e profilate che sembrano vere e proprie preghiere. L’ambulato, anch’esso in stile gotico, è perfettamente moderno; il suo design ricorda quello introdotto da Viollet-le-Duc in [[France|Francia]] e da Pugin in Inghilterra, al fine di farci tornare alle nostre origini e ricordarci da dove proveniamo tutti noi europei. Ancora una volta, l’abside e l’ambulato non sono perpendicolari al transetto, ma disposti in modo obliquo, una caratteristica tipica delle chiese più piccole e considerata un simbolo; tuttavia è molto rara nelle chiese grandi. La porta occidentale è di stile romanico puro, con ornamenti bizantini e una grande porta rotonda e profonda. A corrisponderle c’è una porta settentrionale ancora più profonda, decorata con file interne di archi raffiguranti santi, angeli, demoni e fiori; anche questa porta non è dritta, ma costruita in modo che gli archi siano inclinati, proprio come si vedono talvolta i ponti ferroviari quando attraversano le strade ad angolo. Infine, c’è una torre centrale che non è né gotica né romanica, ma puramente italiana: si tratta di una loggia con splendide finestre rotonde e ariose che coprono interamente i suoi muri, e con un tetto piatto e grondaie. Sicuramente questa struttura è stata aggiunta da qualcuno proveniente dal sud, come ricordo dei suoi viaggi.
+L’abside è un esempio puro e bellissimo di architettura gotica del XIV secolo, con finestre molto alte e profilate che sembrano vere e proprie preghiere. L’ambulato, anch’esso in stile gotico, è perfettamente moderno; il suo design ricorda quello introdotto da Viollet-le-Duc in [[settings/france|Francia]] e da Pugin in Inghilterra, al fine di farci tornare alle nostre origini e ricordarci da dove proveniamo tutti noi europei. Ancora una volta, l’abside e l’ambulato non sono perpendicolari al transetto, ma disposti in modo obliquo, una caratteristica tipica delle chiese più piccole e considerata un simbolo; tuttavia è molto rara nelle chiese grandi. La porta occidentale è di stile romanico puro, con ornamenti bizantini e una grande porta rotonda e profonda. A corrisponderle c’è una porta settentrionale ancora più profonda, decorata con file interne di archi raffiguranti santi, angeli, demoni e fiori; anche questa porta non è dritta, ma costruita in modo che gli archi siano inclinati, proprio come si vedono talvolta i ponti ferroviari quando attraversano le strade ad angolo. Infine, c’è una torre centrale che non è né gotica né romanica, ma puramente italiana: si tratta di una loggia con splendide finestre rotonde e ariose che coprono interamente i suoi muri, e con un tetto piatto e grondaie. Sicuramente questa struttura è stata aggiunta da qualcuno proveniente dal sud, come ricordo dei suoi viaggi.
 
 Il transetto del fienile è fatto di vecchio pietra grigia in rovina; i portici in stile romanico sono rossi, proprio come a Strasburgo; l’abside gotica è bianca, proprio come le nostre cattedrali; l’ambulato moderno è realizzato in pietra bianca appena estratta, quindi colori e forme si mescolano tra loro in questo straordinario edificio.
 
@@ -6206,7 +6206,7 @@ WITH THIS HE pulled out a round bottle, on the label of which was printed in gre
 
 Everything happened just as he had said. When I was some little way above the town I sat down on a low wall and rubbed my knee strongly and long with this balm, and the pain instantly disappeared. Then, with a heart renewed by this prodigy, I took the road again and began walking very rapidly and high, swinging on to Rome.
 
-The Moselle above fipinal takes a bend outwards, and it seemed to me that a much shorter way to the next village (which is called Archettes, or ‘the very little arches’, because there are no arches there) would be right over the hill round which the river curved. This error came from following private judgement and not heeding [[Tradition|tradition]], here represented by the highroad which closely follows the river. For though a straight tunnel to Archettes would have saved distance, yet a climb over that high hill and through the pathless wood on its summit was folly.
+The Moselle above fipinal takes a bend outwards, and it seemed to me that a much shorter way to the next village (which is called Archettes, or ‘the very little arches’, because there are no arches there) would be right over the hill round which the river curved. This error came from following private judgement and not heeding [[concepts/tradition|tradition]], here represented by the highroad which closely follows the river. For though a straight tunnel to Archettes would have saved distance, yet a climb over that high hill and through the pathless wood on its summit was folly.
 
 I went at first over wide, sloping fields, and some hundred feet above the valley I crossed a little canal. It was made on a very good system, and I recommend it to the riparian owners of the Upper Wye, which needs it. They take the water from the Moselle (which is here broad and torrential and falls in steps, running over a stony bed with little swirls and rapids), and they lead it along at an even gradient, averaging, as it were, the uneven descent of the river. In this way they have a continuous stream running through fields that would otherwise be bare and dry, but that are thus nourished into excellent pastures.
 
@@ -6219,7 +6219,7 @@ It was an old man in a valley called the Curicante in Colorado that taught me th
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Il piccolo sentiero
+Il piccolo sentiero
 
 Con questo estrasse una bottiglia rotonda; sulla sua etichetta era stampato in caratteri grandi la parola “BALSAMO”.
 
@@ -6227,7 +6227,7 @@ Con questo estrasse una bottiglia rotonda; sulla sua etichetta era stampato in c
 
 Tutto accadde esattamente come aveva detto. Quando mi trovavo a una certa distanza sopra la città, mi sedetti su un muro basso e strofinai il ginocchio con questo balsamo per molto tempo; il dolore scomparve all’istante. Poi, con il cuore rinnovato da questo miracolo, ripresi il cammino e iniziai a camminare molto velocemente, diretto verso Roma.
 
-Il fiume Mosella, dopo il punto in cui curva verso l’interno, sembrava offrire un percorso molto più breve per raggiungere il villaggio successivo, chiamato Archettes – che prende il nome proprio dalle poche archi presenti nella zona. Tuttavia, questo errore derivò dall’aver seguito criteri personali piuttosto che rispettare la [[Tradition|tradizione]], rappresentata in questo caso dalla strada principale che segue fedelmente il corso del fiume. Anche se un tunnel dritto avrebbe permesso di ridurre notevolmente la distanza, scalare quella collina alta e attraversare il bosco privo di sentieri sarebbe stato assurdo.
+Il fiume Mosella, dopo il punto in cui curva verso l’interno, sembrava offrire un percorso molto più breve per raggiungere il villaggio successivo, chiamato Archettes – che prende il nome proprio dalle poche archi presenti nella zona. Tuttavia, questo errore derivò dall’aver seguito criteri personali piuttosto che rispettare la [[concepts/tradition|tradizione]], rappresentata in questo caso dalla strada principale che segue fedelmente il corso del fiume. Anche se un tunnel dritto avrebbe permesso di ridurre notevolmente la distanza, scalare quella collina alta e attraversare il bosco privo di sentieri sarebbe stato assurdo.
 
 All’inizio attraversai ampi campi in pendenza; a circa cento piedi sopra la valle superai un piccolo canale. Era costruito secondo un sistema molto efficace, e lo consiglio ai proprietari terrieri lungo il corso dell’Alto Wye, che ne hanno davvero bisogno. Prelevano l’acqua dal Mosella – che in questa zona è ampia e impetuosa, con rapide e corsi d’acqua scoscesi su fondali rocciosi – e la conducono lungo un pendio uniforme, compensando così la pendenza irregolare del fiume stesso. In questo modo, hanno a disposizione un corso d’acqua costante che attraversa campi altrimenti aridi e spogli, trasformandoli in ottimi pascoli.
 
@@ -6251,14 +6251,14 @@ I climbed, then, over slippery pine needles and under the charged air of those t
 
 This false battery was on the brow of the hill, and when I reached it I looked down the slope, over the brushwood that hid the wire entanglements, and there was the whole valley of the Moselle at my feet.
 
-As this was the first really great height, so this was the first really great view that I met with on my pilgrimage. I drew it carefully, piece by piece, sitting there a long time in the declining sun and noting all I saw. Archettes, just below; the flat valley with the river winding from side to side; the straight rows of poplar trees; the dark pines on the hills, and the rounded [[Mountains|mountains]] rising farther and higher into the distance until the last I saw, far off to the south-east,
+As this was the first really great height, so this was the first really great view that I met with on my pilgrimage. I drew it carefully, piece by piece, sitting there a long time in the declining sun and noting all I saw. Archettes, just below; the flat valley with the river winding from side to side; the straight rows of poplar trees; the dark pines on the hills, and the rounded [[settings/mountains|mountains]] rising farther and higher into the distance until the last I saw, far off to the south-east,
 
 * * *
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# La falsa batteria
+La falsa batteria
 
 Seguitelo. Vorrei avere più spazio per raccontare tutto di questo vecchio signore che mi ha offerto ospitalità laggiù. Era del New England, solo, e aveva speso molto denaro per acquistare una scatola musicale che lo consolasse. Ne andava molto fiero; anche se suonava soltanto quattro semplici melodie di inni, mentre le ascoltavamo insieme, grosse lacrime gli venivano agli occhi e lacrime leggere ai miei, perché quelle melodie gli ricordavano la sua casa. Ma non ho tempo per dire di più: devo tornare nella mia foresta.
 
@@ -6277,7 +6277,7 @@ Poiché si trattava della prima volta che raggiungevo una tale altezza, fu anche
 
 THE GREAT VIEW
 
-MUST HAVE BEEN the Ballon d’Alsace at the sources of the Moselle — the hill that marked the first full stage in my [[Journey|journey]] and that overlooked Switzerland.
+MUST HAVE BEEN the Ballon d’Alsace at the sources of the Moselle — the hill that marked the first full stage in my [[motifs/journey|journey]] and that overlooked Switzerland.
 
 Indeed, this is the peculiar virtue of walking to a far place, and especially of walking there in a straight line, that one gets these visions of the world from hill-tops.
 
@@ -6298,7 +6298,7 @@ I say it roundly; if it were not for the punctiliousness of the middle-class in 
 
 La grande vista
 
-Deve essere stato il Ballon d’Alsace, alle sorgenti del Mosella: quella collina che segnava la prima tappa completa del mio [[Journey|viaggio]] e che si affacciava sulla Svizzera.
+Deve essere stato il Ballon d’Alsace, alle sorgenti del Mosella: quella collina che segnava la prima tappa completa del mio [[motifs/journey|viaggio]] e che si affacciava sulla Svizzera.
 
 Infatti, questa è la particolare virtù di camminare verso un luogo lontano, e soprattutto di farlo in linea retta: permette di avere queste visioni del mondo da sopra le colline.
 
@@ -6419,9 +6419,9 @@ Ecco un posto caldo sotto i pini, dove potevo riposare comodamente su aghi di pi
 <span class="atom-split" data-atom="story_96_the_dawn" data-title="The Path to Rome — The Dawn" data-chapter="The Dawn" data-kind="story" data-tags="motif/dawn"></span>
 
 
-THE [[Dawn|DAWN]]
+THE [[motifs/dawn|DAWN]]
 
-BLEW UNDER THE waning moon was warm, and the stars were languid and not brilliant, as though everything were full of summer, and I knew that the night would be short; a midsummer night; and I had lived half of it before attempting repose. Yet, I say, I woke shivering and also disconsolate, needing companionship. I pushed down through tall, rank grass, drenched with dew, and made my way across the road to the bank of the river. By the time I reached it the [[Dawn|dawn]] began to occupy the east.
+BLEW UNDER THE waning moon was warm, and the stars were languid and not brilliant, as though everything were full of summer, and I knew that the night would be short; a midsummer night; and I had lived half of it before attempting repose. Yet, I say, I woke shivering and also disconsolate, needing companionship. I pushed down through tall, rank grass, drenched with dew, and made my way across the road to the bank of the river. By the time I reached it the [[motifs/dawn|dawn]] began to occupy the east.
 
 For a long time I stood in a favoured place, just above a bank of trees that lined the river, and watched the beginning of the day, because every slow increase of light promised me sustenance.
 
@@ -6436,9 +6436,9 @@ At this wonderful sight I gazed for quite half-an-hour without moving, and took 
 
 <span class="qlang-split" data-lang="it"></span>
 
-L’[[Dawn|alba]]
+L’[[motifs/dawn|alba]]
 
-Sotto la luna calante faceva caldo; le stelle sembravano languide e non brillanti, come se tutto fosse pervaso dall’atmosfera dell’estate. Sapevo che quella notte sarebbe stata breve: una notte di mezza estate. Avevo già trascorso metà del suo corso prima di provare a riposarmi. Eppure mi svegliai tremante e anche malinconico, desideroso di compagnia. Superai l’erba alta e bagnata di rugiada, attraversai la strada e raggiunsi la riva del fiume. Quando arrivai, l’[[Dawn|'alba]] iniziava già a illuminare l’orizzonte orientale.
+Sotto la luna calante faceva caldo; le stelle sembravano languide e non brillanti, come se tutto fosse pervaso dall’atmosfera dell’estate. Sapevo che quella notte sarebbe stata breve: una notte di mezza estate. Avevo già trascorso metà del suo corso prima di provare a riposarmi. Eppure mi svegliai tremante e anche malinconico, desideroso di compagnia. Superai l’erba alta e bagnata di rugiada, attraversai la strada e raggiunsi la riva del fiume. Quando arrivai, l’[[motifs/dawn|'alba]] iniziava già a illuminare l’orizzonte orientale.
 
 Per molto tempo rimasi in un posto ideale, proprio sopra una fila di alberi che costeggiavano il fiume, e osservai l’inizio della giornata: ogni aumento graduale della luce mi prometteva sostentamento.
 
@@ -6461,7 +6461,7 @@ I EASILY PERCEIVED with each laborious mile that I was approaching the end of my
 
 So it was here. The hills had grown much higher and come closer to the river-plain; up the gullies I would catch now and then an aged and uncouth bridge with a hut near it all built of enduring stone: part of the hills. Then
 
-again there were present here and there on the spurs lonely chapels, and these in Catholic countries are a mark of the [[Mountains|mountains]] and of the end of the riches of a valley. Why this should be so I cannot tell. You find them also sometimes in forests, but especially in the lesser inlets of the sea-coast, and, as I have said, here in the upper parts of valleys in the great hills. In such shrines Mass is to be said but rarely, sometimes but once a year in a special commemoration. The
+again there were present here and there on the spurs lonely chapels, and these in Catholic countries are a mark of the [[settings/mountains|mountains]] and of the end of the riches of a valley. Why this should be so I cannot tell. You find them also sometimes in forests, but especially in the lesser inlets of the sea-coast, and, as I have said, here in the upper parts of valleys in the great hills. In such shrines Mass is to be said but rarely, sometimes but once a year in a special commemoration. The
 
 * * *
 
@@ -6489,7 +6489,7 @@ REST OF THE time they stand empty, and some of the older or simpler, one might t
 
 I broke my fast on bread and wine at a place where the road crosses the river, and then I determined I would have hot coffee as well, and seeing in front of me a village called Rupt, which means ‘the cleft’ (for there is here a great cleft in the hillside), I went up to it and had my coffee. Then I discovered a singular thing, that the people of the place are tired of making up names and give nothing its peculiar baptism. This I thought really very wonderful indeed, for I have noticed wherever I have been that in proportion as men are remote and have little to distract them, in that proportion they produce a great crop of peculiar local names for every stream, reach, tuft, hummock, glen, copse, and gully for miles around; and often when I have lost my way and asked it of a peasant in some lonely part I have grown impatient as he wandered on about ‘leaving on your left the stone we call the Nuggin, and bearing round what some call Holy Dyke till you come to what they call Mary’s Ferry’... and so forth. Long-shoremen and the riparian inhabitants of dreadful and lonely rivers near the sea have just such a habit, and I have in my mind’s eye now a short stretch of tidal water in which there are but five shoals, yet they all have names, and are called ‘The House, the Knowle, Goodman’s Plot, Mall, and the Patch.’
 
-But here in Rupt, to my extreme astonishment, there was no such universal and human instinct. For I said to the old man who poured me out my coffee under the trellis (it was full morning, the sun was well up, and the clouds were all dappled high above the tops of the [[Mountains|mountains]]): ‘Father, what do you call this hill?’ And with that I pointed to a very remarkable hill and summit that lie sheer above the village.
+But here in Rupt, to my extreme astonishment, there was no such universal and human instinct. For I said to the old man who poured me out my coffee under the trellis (it was full morning, the sun was well up, and the clouds were all dappled high above the tops of the [[settings/mountains|mountains]]): ‘Father, what do you call this hill?’ And with that I pointed to a very remarkable hill and summit that lie sheer above the village.
 
 ‘That,’ he said, ‘is called the hill over above Rupt.’
 
@@ -6513,7 +6513,7 @@ La maggior parte del tempo rimangono vuoti; alcuni, più antichi o semplici, pot
 
 Ho fatto colazione con pane e vino in un luogo dove la strada attraversa il fiume; poi ho deciso di bere anche del caffè caldo. Vedendo davanti a me un villaggio chiamato Rupt, che significa “la fenditura” (poiché lì c’è una grande crepa sul versante della collina), ci sono andato e ho bevuto il mio caffè. Poi ho notato qualcosa di molto interessante: la gente di quel posto si stanca ormai di inventare nuovi nomi per le cose, e non dà loro alcun nome specifico. Ho trovato questo davvero meraviglioso, perché ho osservato che ovunque io sia stato, più le persone vivono in luoghi remoti e hanno poco con cui distrarsi, più sono incline a inventare nomi particolari per ogni ruscello, crepaccio, collinetta o valle nei dintorni. Spesso, quando mi perdevo e chiedevo indicazioni a un contadino in qualche luogo desolato, lui iniziava a descrivere il percorso con frasi del tipo: “Lascia sulla tua sinistra la pietra che chiamiamo Nuggin, poi gira intorno a ciò che alcuni chiamano Holy Dyke fino a raggiungere ciò che loro chiamano Mary’s Ferry”, e così via. Anche i pescatori delle zone costiere e gli abitanti dei fiumi desolati vicino al mare hanno lo stesso comportamento; ho ancora in mente un breve tratto di acqua salmastra con soltanto cinque secche, ma ognuna di esse ha il proprio nome: “La Casa”, “Il Knowle”, “Goodman’s Plot”, “Mall” e “The Patch”.
 
-Ma qui a Rupt, con mia grande sorpresa, non esisteva alcun istinto universale e umano del genere. Così dissi all’uomo anziano che mi versava il caffè sotto la pergola (era piena mattina, il sole era già alto nel cielo e le nuvole si disperdevano sopra le cime delle [[Mountains|montagne]]): “Padre, come chiamate questa collina?” E indicai una collina e una vetta davvero notevoli che si ergevano direttamente sopra il villaggio.
+Ma qui a Rupt, con mia grande sorpresa, non esisteva alcun istinto universale e umano del genere. Così dissi all’uomo anziano che mi versava il caffè sotto la pergola (era piena mattina, il sole era già alto nel cielo e le nuvole si disperdevano sopra le cime delle [[settings/mountains|montagne]]): “Padre, come chiamate questa collina?” E indicai una collina e una vetta davvero notevoli che si ergevano direttamente sopra il villaggio.
 
 “Quello,” disse, “si chiama la collina sopra Rupt.”
 
@@ -6523,7 +6523,7 @@ Ma qui a Rupt, con mia grande sorpresa, non esisteva alcun istinto universale e 
 
 E aveva assolutamente ragione, perché quando guardai la mia mappa, c'era scritto chiaramente: “Collina sopra Rupt”. Pensai quanto sarebbe noioso se questa diventasse una pratica comune. Se si dovesse chiamare il Tamigi “il Fiume di Londra”, l’Essex “la Parte Nord” e il Kent “la Parte Sud”. Ma considerando che questo metodo assurdo veniva utilizzato soltanto in un misero villaggio, mi liberai dalla paura, relegai queste idee folli alle colonie, e ripresi il mio viaggio.
 
-# Un giardino in ogni angolo della valle
+Un giardino in ogni angolo della valle
 
 * * *
 
@@ -6536,7 +6536,7 @@ THE YOUTH OF RIVERS
 
 FROM THE WINDS, it is closed at the end by the great mass of the Ballon d’Alsace, its floor is smooth and level, its richness is used to feed grass and pasturage, and knots of trees grow about it as though they had been planted to please the eye.
 
-Nothing can take from the sources of rivers their character of isolation and repose. Here what are afterwards to become the influences of the plains are nurtured and tended as though in an orchard, and the future life of a whole fruitful valley with its regal towns is determined. Something about these places prevents ingress or spoliation. They will endure no settlements save of peasants; the waters are too young to be harnessed; the hills forbid an easy commerce with neighbours. Throughout the world I have found the heads of rivers to be secure places of silence and content. And as they are themselves a kind of youth, the early home of all that rivers must at last become — I mean special ways of building and a separate state of living, a local air and a [[Tradition|tradition]] of history, for rivers are always the makers of provinces — so they bring extreme youth back to one, and these upper glens of the world steep one in simplicity and childhood.
+Nothing can take from the sources of rivers their character of isolation and repose. Here what are afterwards to become the influences of the plains are nurtured and tended as though in an orchard, and the future life of a whole fruitful valley with its regal towns is determined. Something about these places prevents ingress or spoliation. They will endure no settlements save of peasants; the waters are too young to be harnessed; the hills forbid an easy commerce with neighbours. Throughout the world I have found the heads of rivers to be secure places of silence and content. And as they are themselves a kind of youth, the early home of all that rivers must at last become — I mean special ways of building and a separate state of living, a local air and a [[concepts/tradition|tradition]] of history, for rivers are always the makers of provinces — so they bring extreme youth back to one, and these upper glens of the world steep one in simplicity and childhood.
 
 It was my delight to lie upon a bank of the road and to draw what I saw before me, which was the tender stream of the Moselle slipping through fields quite flat and even and undivided by fences; its banks had here a strange effect of Nature copying man’s art: they seemed a park, and the river wound through it full of the positive innocence that attaches to virgins: it nourished and was guarded by trees.
 
@@ -6564,7 +6564,7 @@ THE PIOUS WOMAN
 
 THERE WAS ABOUT that scene something of creation and of a beginning, and as I drew it, it gave me like a gift the freshness of the first experiences of living and filled me with remembered springs. I mused upon the birth of rivers, and how they were persons and had a name — were kings, and grew strong and ruled great countries, and how at last they reached the sea.
 
-But while I was thinking of these things, and seeing in my mind a kind of picture of The River Valley, and of men clustering around their home stream, and of its ultimate vast plains on either side, and of the white line of the sea beyond all, a woman passed me. She was very ugly, and was dressed in black. Her dress was stiff and shining, and, as I imagined, valuable. She had in her hand a book known to the French as ‘The Roman Parishioner’, which is a [[Prayer|prayer]]-book. Her hair was hidden in a stiff cap or bonnet; she walked rapidly, with her eyes on the ground. When I saw this sight it reminded me suddenly, and I cried out profanely, ‘Devil take me! It is Corpus Christi, and my third day out. It would be a wicked pilgrimage if I did not get Mass at last.’ For my first day (if you remember) I had slept in a wood beyond Mass-time, and my second (if you remember) I had slept in a bed. But this third day, a great Feast into the bargain, I was bound to hear Mass, and this woman hurrying along to the next village proved that I was not too late.
+But while I was thinking of these things, and seeing in my mind a kind of picture of The River Valley, and of men clustering around their home stream, and of its ultimate vast plains on either side, and of the white line of the sea beyond all, a woman passed me. She was very ugly, and was dressed in black. Her dress was stiff and shining, and, as I imagined, valuable. She had in her hand a book known to the French as ‘The Roman Parishioner’, which is a [[motifs/prayer|prayer]]-book. Her hair was hidden in a stiff cap or bonnet; she walked rapidly, with her eyes on the ground. When I saw this sight it reminded me suddenly, and I cried out profanely, ‘Devil take me! It is Corpus Christi, and my third day out. It would be a wicked pilgrimage if I did not get Mass at last.’ For my first day (if you remember) I had slept in a wood beyond Mass-time, and my second (if you remember) I had slept in a bed. But this third day, a great Feast into the bargain, I was bound to hear Mass, and this woman hurrying along to the next village proved that I was not too late.
 
 So I hurried in her wake and came to the village, and went into the church, which was very full, and came down out of it (the Mass was low and short — they are a Christian people) through an avenue of small trees and large branches set up in front of the houses to welcome the procession that was to be held near noon. At the foot of the street was an inn where I entered to eat, and finding there another man — I take him to have been a shopkeeper — I determined to talk politics, and began as follows:
 
@@ -6620,7 +6620,7 @@ THE JEWS IN THE HILLS
 
 ‘IN THIS WAY,’ he answered. ‘The Jews, you see, ridicule our young men for holding such superstitions as the Catholic. Our young men, thus brought to book and made to feel irrational, admit the justice of the ridicule, but nourish a hatred secretly for those who have exposed their folly. Therefore they feel a standing grudge against the Jews.’
 
-When he had given me this singular analysis of that part of the politics of the [[Mountains|mountains]], he added, after a short silence, the following remarkable phrase —
+When he had given me this singular analysis of that part of the politics of the [[settings/mountains|mountains]], he added, after a short silence, the following remarkable phrase —
 
 ‘For my part I am a liberal, and would have each go his own way: the Catholic to his Mass, the Jew to his Sacrifice.’
 
@@ -6637,7 +6637,7 @@ Gli ebrei delle colline
 
 “IN QUESTO MODO,” rispose. “Vedete, gli ebrei deridono i nostri giovani per le loro superstizioni, come quelle del cattolicesimo. I nostri giovani, messi di fronte alla logica e costretti a riconoscere l’irrazionalità di tali credenze, ammettono la validità delle derisioni ricevute, ma nutrono in segreto un odio profondo verso coloro che hanno smascherato la loro follia. Per questo motivo provano un rancore costante contro gli ebrei.”
 
-Dopo avermi fornito questa analisi approfondita di quella parte della politica delle [[Mountains|montagne]], aggiunse, dopo un breve silenzio, la seguente frase notevole.
+Dopo avermi fornito questa analisi approfondita di quella parte della politica delle [[settings/mountains|montagne]], aggiunse, dopo un breve silenzio, la seguente frase notevole.
 
 “Per quanto mi riguarda, sono un liberale e vorrei che ognuno seguisse la propria strada: il cattolico alla sua messa, l’ebreo al suo rito sacrificale.”
 
@@ -6654,11 +6654,11 @@ Ero ora giunto in cima a questa incantevole valle, alle sorgenti del fiume Mosel
 
 THE BALLON D’ALSACE
 
-TOP OF THE hill; for the Ballon d’Alsace is so shaped that it is impossible for the Moselle valley to communicate with the Gap of Belfort save by some track right over its summit. For it is a mountain with spurs like a star, and where [[Mountains|mountains]] of this kind block the end of main valleys it becomes necessary for the road leading up and out of the valley to go over their highest point, since any other road over the passes or shoulders would involve a second climb to reach the country beyond. The reason of this, my little map here, where the
+TOP OF THE hill; for the Ballon d’Alsace is so shaped that it is impossible for the Moselle valley to communicate with the Gap of Belfort save by some track right over its summit. For it is a mountain with spurs like a star, and where [[settings/mountains|mountains]] of this kind block the end of main valleys it becomes necessary for the road leading up and out of the valley to go over their highest point, since any other road over the passes or shoulders would involve a second climb to reach the country beyond. The reason of this, my little map here, where the
 
 dark stands for the valley and the light for the high places, will show better than a long description. Not that this map is of the Ballon d’Alsace in particular, but only of the type of hill I mean.
 
-Since, in crossing a range, it is usually possible to find a low point suitable for surmounting it, such summit roads are rare, but when one does get them they are the finest travel in the world, for they furnish at one point (that is, at the summit) what ordinary roads going through passes can never give you: a moment of domination. From their climax you look over the whole world, and you feel your [[Journey|journey]] to be adventurous and your advance to have taken some great definite step from one province and people to another.
+Since, in crossing a range, it is usually possible to find a low point suitable for surmounting it, such summit roads are rare, but when one does get them they are the finest travel in the world, for they furnish at one point (that is, at the summit) what ordinary roads going through passes can never give you: a moment of domination. From their climax you look over the whole world, and you feel your [[motifs/journey|journey]] to be adventurous and your advance to have taken some great definite step from one province and people to another.
 
 I would not be bound by the exaggerated zig-zags of the road, which had been built for artillery, and rose at an easy slope. I went along the bed of the dell before me and took the forest by a little path that led straight upward, and when the path failed, my way was marked by the wire of the telegraph that crosses to Belfort. As I rose I saw the forest before me grow grander. The pine branches came down from the trunks with a greater burden and majesty in
 
@@ -6673,7 +6673,7 @@ In cima alla collina; infatti il Ballon d’Alsace ha una forma tale che è impo
 
 Il buio rappresenta la valle, la luce i luoghi elevati; questo è più chiaro di una lunga descrizione. Non che questa mappa riguardi specificamente il Ballon d’Alsace, ma solo il tipo di colline a cui mi riferisco.
 
-Poiché, attraversando una catena montuosa, di solito è possibile trovare un punto più basso adatto per superarla, queste strade di cresta sono rare; ma quando si riesce a trovarne una, rappresentano il viaggio più meraviglioso del mondo, poiché in un solo punto – ovvero sulla cima – offrono ciò che le normali strade che attraversano valli non possono mai dare: un momento di dominio assoluto. Dalla loro vetta si può ammirare l’intero mondo, e si ha la sensazione che il proprio [[Journey|viaggio]] sia davvero avventuroso, e che il proprio progresso rappresenti un vero passo significativo da una regione o popolo all’altro.
+Poiché, attraversando una catena montuosa, di solito è possibile trovare un punto più basso adatto per superarla, queste strade di cresta sono rare; ma quando si riesce a trovarne una, rappresentano il viaggio più meraviglioso del mondo, poiché in un solo punto – ovvero sulla cima – offrono ciò che le normali strade che attraversano valli non possono mai dare: un momento di dominio assoluto. Dalla loro vetta si può ammirare l’intero mondo, e si ha la sensazione che il proprio [[motifs/journey|viaggio]] sia davvero avventuroso, e che il proprio progresso rappresenti un vero passo significativo da una regione o popolo all’altro.
 
 Non sarei stato vincolato dai tortuosi zig-zag della strada, costruita per l’artiglieria e che presentava un pendio dolce. Seguii il letto della valle davanti a me e entrai nella foresta attraverso un sentiero stretto che conduceva dritto verso l’alto; quando il sentiero terminava, la mia strada era segnata dal filo del telegrafo che si estendeva fino a Belfort. Man mano che salivo, vedevo la foresta davanti a me diventare sempre più imponente: i rami dei pini pendevano dai tronchi con maggiore abbondanza e maestosità.
 
@@ -6686,7 +6686,7 @@ Non sarei stato vincolato dai tortuosi zig-zag della strada, costruita per l’a
 
 THE INNER DARKNESS
 
-THEIR SWAY, THE trees took on an appearance of solemnity, and the whole rank that faced me — for here the woods come to an even line and stand like an army arrested upon a downward march — seemed something unusual and gigantic. Nothing more helped this impression of awe than the extreme darkness beneath those aged growths, and the change in the sky that introduced my entry into the silence and perfume of so vast a temple. Great clouds, so charged with rain that you would have thought them lower than the hills (and yet just missing their tops), came covering me like a tumbled roof and gathered all around; the heat of the day waned suddenly in their shade: it seemed suddenly as though summer was over or as though the [[Mountains|mountains]] demanded an uncertain summer of their own, and shot the sunshine with the chill of their heights. A little wind ran along the grass and died again. As I gained the darkness of the first trees, rain was falling.
+THEIR SWAY, THE trees took on an appearance of solemnity, and the whole rank that faced me — for here the woods come to an even line and stand like an army arrested upon a downward march — seemed something unusual and gigantic. Nothing more helped this impression of awe than the extreme darkness beneath those aged growths, and the change in the sky that introduced my entry into the silence and perfume of so vast a temple. Great clouds, so charged with rain that you would have thought them lower than the hills (and yet just missing their tops), came covering me like a tumbled roof and gathered all around; the heat of the day waned suddenly in their shade: it seemed suddenly as though summer was over or as though the [[settings/mountains|mountains]] demanded an uncertain summer of their own, and shot the sunshine with the chill of their heights. A little wind ran along the grass and died again. As I gained the darkness of the first trees, rain was falling.
 
 The silence of the interior wood was enhanced by a bare drip of water from the boughs that stood out straight and tangled I know not how far above me. Its gloom was rendered more tremendous by the half-light and lowering of the sky which the ceiling of branches concealed. Height, stillness, and a sort of expectancy controlled the memories of the place, and I passed silently and lightly between the high columns of the trees from night (as it seemed) through a kind of twilight forward to a near night beyond. On every side the perspective of these bare innumerable shafts, each standing apart in order, purple and fragrant, merged into recesses of distance where all light disappeared, yet as I advanced the slight gloaming still surrounded me, as did the stillness framed in the drip of water, and beneath my feet was the level carpet of the pine needles deadening and making distant every tiny noise. Had not the trees been so much greater and more enduring than my own presence, and had not they overwhelmed me by their regard, I should have felt afraid. As it was I pushed upward through their immovable host in some such catching of the breath as men have when they walk at night straining for a sound, and I felt myself to be continually in a hidden companionship.
 
@@ -6697,7 +6697,7 @@ When I came to the edge of this haunted forest it ceased as suddenly as it had b
 
 <span class="qlang-split" data-lang="it"></span>
 
-# L’oscurità interiore
+L’oscurità interiore
 
 Il loro movimento dava alle piante un aspetto solenne; l’intera fila di alberi che mi si presentava davanti – poiché qui la foresta formava una linea uniforme e sembrava un esercito arrestato durante una marcia verso il basso – appariva qualcosa di insolito e gigantesco. Niente contribuiva di più a questa sensazione di reverenza della profonda oscurità che regnava sotto quegli alberi antichi, né del cambiamento nel cielo che accompagnava il mio ingresso nel silenzio e nel profumo di un tempio così vasto. Grandi nuvole, cariche di pioggia al punto da sembrare più basse delle colline (eppure appena al di sopra dei loro crepacci), si addensarono intorno a me come un tetto rovesciato; il calore del giorno svanì improvvisamente nella loro ombra. Sembrava che l’estate fosse finita, o che le montagne richiedessero una sorta di “estate” tutta loro. E i raggi del sole venivano oscurati dal freddo delle loro vette. Una brezza leggera soffiò tra l’erba, per poi spegnersi di nuovo. Mentre mi addentravo nell’oscurità degli alberi, iniziò a piovere.
 
@@ -6720,7 +6720,7 @@ Then on the left you have all the Germanics, a great sea of confused and dreamin
 
 Then in front of you southward and eastward, if you are marching to Rome, come the Highlanders. I had never been among them, and I was to see them
 
-in a day; the people of the high hills, the race whom we all feel to be enemies, and who run straight across the world from the Atlantic to the Pacific, understanding each other, not understood by us. I saw their first rampart, the [[Mountains|mountains]] called the Jura, on the horizon, and above my great field of view the clouds still tumbled, lit from beneath with evening.
+in a day; the people of the high hills, the race whom we all feel to be enemies, and who run straight across the world from the Atlantic to the Pacific, understanding each other, not understood by us. I saw their first rampart, the [[settings/mountains|mountains]] called the Jura, on the horizon, and above my great field of view the clouds still tumbled, lit from beneath with evening.
 
 I tired of these immensities, and, feeling now my feet more broken than ever, I very slowly and in sharp shoots of pain dragged down the slope towards the main road: I saw just below me the frontier stones of the Prussians, and immediately within them a hut. To this I addressed myself.
 
@@ -6739,7 +6739,7 @@ Poi, a sinistra, ci sono tutti i popoli germanici: un vasto mare di persone conf
 
 Poi, davanti a voi, verso sud e verso est, se state marciando verso Roma, appariranno gli Highlanders. Non avevo mai fatto parte di loro prima d’ora, ma avrei avuto l’opportunità di vederli.
 
-In un solo giorno. Le persone delle alte colline, quella razza che tutti consideriamo nemica, e che attraversa il mondo intero dall’Atlantico al Pacifico. Si comprendono a vicenda, ma non vengono comprese da noi. Vidi la loro prima barriera naturale: le [[Mountains|montagne]] chiamate Giura, all’orizzonte. E sopra il mio vasto campo visivo, le nuvole continuavano a muoversi, illuminate dalla luce del tramonto.
+In un solo giorno. Le persone delle alte colline, quella razza che tutti consideriamo nemica, e che attraversa il mondo intero dall’Atlantico al Pacifico. Si comprendono a vicenda, ma non vengono comprese da noi. Vidi la loro prima barriera naturale: le [[settings/mountains|montagne]] chiamate Giura, all’orizzonte. E sopra il mio vasto campo visivo, le nuvole continuavano a muoversi, illuminate dalla luce del tramonto.
 
 Ero stanco di queste immensità; sentendo ora i miei piedi più doloranti che mai, trascinai me stesso molto lentamente, tra intensi attacchi di dolore, lungo il pendio verso la strada principale. Vidi proprio sotto di me le pietre del confine dei prussiani, e subito al loro interno una capanna. Mi diressi verso di essa.
 
@@ -6752,7 +6752,7 @@ Era una locanda. La porta si aprì da sola e vi trovai una donna piacevole di me
 <span class="atom-split" data-atom="story_105_the_common_faith" data-title="The Path to Rome — The Common Faith" data-chapter="The Common Faith" data-kind="story" data-tags="concept/faith,concept/tradition"></span>
 
 
-THE COMMON [[Faith|FAITH]]
+THE COMMON [[concepts/faith|FAITH]]
 
 HER FAMILY. THIS great placard was framed in the three colours which once brought a little hope to the oppressed, and at the head of it in broad black letters were the three words, ‘Freedom, Brotherhood, and an Equal Law’. Underneath these was the emblematic figure of a cock, which I took to be the Gallic bird, and underneath him again was printed in enormous italics —
 
@@ -6762,7 +6762,7 @@ Which means —
 
 When you hear him crowing Then’s the time for owing. Till that day — Pay.
 
-While I was still wondering at this epitome of the French people, and was attempting to combine the French military [[Tradition|tradition]] with the French temper in the affairs of economics; while I was also delighting in the memory of the solid coin that I carried in a little leathern bag in my pocket, the hard-working, God-fearing, and honest woman that governs the little house and the three great daughters, within a yard of the frontier, and on the top of this huge hill, had brought back all her troops into line and had the time to attend to me. This she did with the utmost politeness, though cold by race, and through her politeness ran a sense of what Teutons called Duty, which would once have repelled me; but I have wandered over a great part of the world, and I know it now to be a distorted kind of virtue.
+While I was still wondering at this epitome of the French people, and was attempting to combine the French military [[concepts/tradition|tradition]] with the French temper in the affairs of economics; while I was also delighting in the memory of the solid coin that I carried in a little leathern bag in my pocket, the hard-working, God-fearing, and honest woman that governs the little house and the three great daughters, within a yard of the frontier, and on the top of this huge hill, had brought back all her troops into line and had the time to attend to me. This she did with the utmost politeness, though cold by race, and through her politeness ran a sense of what Teutons called Duty, which would once have repelled me; but I have wandered over a great part of the world, and I know it now to be a distorted kind of virtue.
 
 She was of a very different sort from that good tribe of the Moselle valley beyond the hill; yet she also was Catholic — (she had a little tree set up before her door for the Corpus Christi: see what religion is, that makes people of utterly different races understand each other; for when I saw that tree I knew precisely where I stood. So once all we Europeans understood each other, but now we are divided by the worst malignancies of nations and classes, and a man does not so much love his own nation as hate his neighbours, and even the twilight of chivalry is mixed up with a detestable patronage of the poor. But as I was saying — ) she also was a Catholic, and I knew myself to be with friends. She was moreover not exactly of- what shall I say? the words Celtic and Latin mean nothing — not of those who delight in a delicate manner; and her good heart prompted her to say, very loudly —
 
@@ -6775,13 +6775,13 @@ She was of a very different sort from that good tribe of the Moselle valley beyo
 
 <span class="qlang-split" data-lang="it"></span>
 
-La comune [[Faith|>fede]]
+La comune [[concepts/faith|>fede]]
 
 La sua famiglia. Questo grande cartello era incorniciato nei tre colori che un tempo portarono un po’ di speranza agli oppressi; in cima, in caratteri neri grandi, erano scritte le tre parole: “Libertà, Fratellanza e Legge Uguale”. Sotto di esse c'era l’immagine simbolica di un gallo, che presumo fosse il simbolo nazionale francese; ancora più in basso, stampate in caratteri enormi e in grassetto.
 
 Quando quel gallo canterà, gli si darà credito.
 
-# Cosa significa…
+Cosa significa…
 
 Quando lo senti gracchiare, è arrivato il momento di pagare. Fino a quel giorno, paga.
 
@@ -6837,9 +6837,9 @@ In good-nights they had a ceremony; for they all rose together and curtsied. Upo
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Il solo bevande
+Il solo bevande
 
-# Poi ho aggiunto: “Puoi preparare delle omelette?”
+Poi ho aggiunto: “Puoi preparare delle omelette?”
 
 Ora, è una cosa curiosa… e di cui non mi soffermerò oltre.
 
@@ -6878,11 +6878,11 @@ La sera, avevano una cerimonia: si alzavano tutti insieme e facevano la riverenz
 
 THE TRACK TO SWITZERLAND
 
-MARTYRIZED THAT I doubted if I could walk at all on the morrow. Nevertheless I was so wrapped round with the repose of this family’s virtues that I fell asleep at once. Next day the sun was rising in angry glory over the very distant hills of Germany, his new light running between the pinnacles of the clouds as the commands of a conqueror might come trumpeted down the defiles of [[Mountains|mountains]], when I fearlessly forced my boots on to my feet and left their doors.
+MARTYRIZED THAT I doubted if I could walk at all on the morrow. Nevertheless I was so wrapped round with the repose of this family’s virtues that I fell asleep at once. Next day the sun was rising in angry glory over the very distant hills of Germany, his new light running between the pinnacles of the clouds as the commands of a conqueror might come trumpeted down the defiles of [[settings/mountains|mountains]], when I fearlessly forced my boots on to my feet and left their doors.
 
-The morning outside came living and sharp after the gale — almost chilly. Under a scattered but clearing sky I first limped, then, as my blood warmed, strode down the path that led between the trees of the farther vale and was soon following a stream that leaped from one fall to another till it should lead me to the main road, to Belfort, to the Jura, to the Swiss whom I had never known, and at last to [[Italy]].
+The morning outside came living and sharp after the gale — almost chilly. Under a scattered but clearing sky I first limped, then, as my blood warmed, strode down the path that led between the trees of the farther vale and was soon following a stream that leaped from one fall to another till it should lead me to the main road, to Belfort, to the Jura, to the Swiss whom I had never known, and at last to [[settings/italy|Italy]].
 
-But before I call up the recollection of that hidden valley, I must describe with a map the curious features of the road that lay before me into Switzerland. I was standing on the summit of that knot of hills which rise up from every side to form the Ballon d’Alsace, and make an abrupt ending to the Vosges. Before me, southward and eastward, was a great plain with the fortress of Belfort in the midst of it. This plain is called by soldiers ‘the Gap of Belfort’, and is the only break in the hill frontier that covers [[France]] all the way from the Mediterranean to Flanders. On the farther side of this plain ran the Jura [[Mountains|mountains]], which are like a northern wall to Switzerland, and just before you reach them is the Frontier. The Jura are fold on fold of high limestone ridges, thousands of feet high, all parallel, with deep valleys, thousands of feet deep, between them; and beyond their last abrupt escarpment is the wide plain of the river Aar.
+But before I call up the recollection of that hidden valley, I must describe with a map the curious features of the road that lay before me into Switzerland. I was standing on the summit of that knot of hills which rise up from every side to form the Ballon d’Alsace, and make an abrupt ending to the Vosges. Before me, southward and eastward, was a great plain with the fortress of Belfort in the midst of it. This plain is called by soldiers ‘the Gap of Belfort’, and is the only break in the hill frontier that covers [[settings/france|France]] all the way from the Mediterranean to Flanders. On the farther side of this plain ran the Jura [[settings/mountains|mountains]], which are like a northern wall to Switzerland, and just before you reach them is the Frontier. The Jura are fold on fold of high limestone ridges, thousands of feet high, all parallel, with deep valleys, thousands of feet deep, between them; and beyond their last abrupt escarpment is the wide plain of the river Aar.
 
 Now the straight line to Rome ran from where I stood, right across that plain of Belfort, right across the ridges of the Jura, and cut the plain of the Aar a few miles to the west of a town called Solothurn or Soleure, which stands upon that river.
 
@@ -6897,13 +6897,13 @@ From Portrut, by picking one’s way through forests, up steep banks, over open 
 
 <span class="qlang-split" data-lang="it"></span>
 
-#La strada per la Svizzera
+La strada per la Svizzera
 
 Ero tormentato dal dubbio di riuscire a camminare il giorno dopo. Tuttavia, ero così avvolto nel senso di pace e virtù che caratterizzavano questa famiglia che mi addormentai immediatamente. Il giorno seguente, il sole sorgeva con un bagliore intenso sopra le lontane colline della Germania; la sua nuova luce filtrava tra i picchi delle nuvole, come se fossero gli ordini di un conquistatore che risuonavano lungo i passi montani. Senza esitazione, infilai le scarpe e lasciai quella casa.
 
-La mattina, dopo la tempesta, sembrava vivida e fresca, quasi fredda. Sotto un cielo poco nuvoloso ma che si stava schiarendo, inizialmente camminavo zoppicando; poi, man mano che il mio sangue si riscaldava, procedetti con passo deciso lungo il sentiero che serpeggiava tra gli alberi della valle più lontana. Presto seguii un ruscello che saltellava da una cascata all’altra, fino a quando non mi condusse sulla strada principale, verso Belfort, verso i monti Jura, verso quegli svizzeri che non conoscevo ancora, e infine verso l’[[Italy|Italia]].
+La mattina, dopo la tempesta, sembrava vivida e fresca, quasi fredda. Sotto un cielo poco nuvoloso ma che si stava schiarendo, inizialmente camminavo zoppicando; poi, man mano che il mio sangue si riscaldava, procedetti con passo deciso lungo il sentiero che serpeggiava tra gli alberi della valle più lontana. Presto seguii un ruscello che saltellava da una cascata all’altra, fino a quando non mi condusse sulla strada principale, verso Belfort, verso i monti Jura, verso quegli svizzeri che non conoscevo ancora, e infine verso l’[[settings/italy|Italia]].
 
-Ma prima di richiamare alla mente quell’valle nascosta, devo descrivere, con l’aiuto di una mappa, le caratteristiche particolari della strada che mi si presentava davanti, quella che conduceva in Svizzera. Mi trovavo sulla cima di quel gruppo di colline che si ergono su tutti i lati formando il Ballon d’Alsace e ponendo fine bruscamente ai Vosgi. Davanti a me, verso sud e est, si estendeva una vasta pianura nella quale sorgeva la fortezza di Belfort. I soldati chiamano questa pianura “la Fessura di Belfort”; è l’unica interruzione nella catena montuosa che circonda la [[France|Francia]] da un capo all’altro, dal Mediterraneo fino alle Fiandre. Dall’altra parte di questa pianura si estendevano le montagne del Giura, che costituiscono una sorta di “muro settentrionale” per la Svizzera; proprio prima di raggiungerle si trovava il confine internazionale. Il Giura è composto da ripide creste di calcare, alte migliaia di piedi, tutte parallele tra loro, con valli profonde altrettanto; al di là dell’ultima delle queste scarpate si estendeva la vasta pianura del fiume Aar.
+Ma prima di richiamare alla mente quell’valle nascosta, devo descrivere, con l’aiuto di una mappa, le caratteristiche particolari della strada che mi si presentava davanti, quella che conduceva in Svizzera. Mi trovavo sulla cima di quel gruppo di colline che si ergono su tutti i lati formando il Ballon d’Alsace e ponendo fine bruscamente ai Vosgi. Davanti a me, verso sud e est, si estendeva una vasta pianura nella quale sorgeva la fortezza di Belfort. I soldati chiamano questa pianura “la Fessura di Belfort”; è l’unica interruzione nella catena montuosa che circonda la [[settings/france|Francia]] da un capo all’altro, dal Mediterraneo fino alle Fiandre. Dall’altra parte di questa pianura si estendevano le montagne del Giura, che costituiscono una sorta di “muro settentrionale” per la Svizzera; proprio prima di raggiungerle si trovava il confine internazionale. Il Giura è composto da ripide creste di calcare, alte migliaia di piedi, tutte parallele tra loro, con valli profonde altrettanto; al di là dell’ultima delle queste scarpate si estendeva la vasta pianura del fiume Aar.
 
 Ora, la linea dritta che conduceva a Roma partiva dal punto in cui mi trovavo, attraversava direttamente quella pianura di Belfort, superava le creste dei Monti Giura e tagliava la pianura del fiume Aar a pochi chilometri a ovest di una città chiamata Solothurn o Soleure, che sorge proprio su quel fiume.
 
@@ -6926,7 +6926,7 @@ ONE THROUGH A gap to Undervelier and on to a town called Moutier or Munster. The
 
 So much my map told me, and this mixture of roads and paths and rock climbs that I had planned out, I exactly followed, so as to march on as directly as possible towards Rome, which was my goal. For if I had not so planned it, but had followed the highroads, I should have been compelled to zig-zag enormously for days, since these ridges of the Jura are but little broken, and the roads do not rise above the crests, but follow the parallel valleys, taking advantage only here and there of the rare gaps to pass from one to another.
 
-Here is a sketch of the way I went, where my track is a white line, and the round spots in it are the towns and villages whose names are written at the side. In this sketch the plains and low valleys are marked dark, and the crests of the [[Mountains|mountains]] left white. The shading is lighter according to the height, and the contour lines (which are very far from accurate) represent, I suppose, about a thousand feet between each, or perhaps a little more; and as for the distance, from the Ballon d’Alsace to Soleure might be two long days’ march on a flat road, but over [[Mountains|mountains]] and up rocks it was all but three, and even that was very good going. My first stage was across the plain of Belfort, and I had determined to sleep that night in Switzerland.
+Here is a sketch of the way I went, where my track is a white line, and the round spots in it are the towns and villages whose names are written at the side. In this sketch the plains and low valleys are marked dark, and the crests of the [[settings/mountains|mountains]] left white. The shading is lighter according to the height, and the contour lines (which are very far from accurate) represent, I suppose, about a thousand feet between each, or perhaps a little more; and as for the distance, from the Ballon d’Alsace to Soleure might be two long days’ march on a flat road, but over [[settings/mountains|mountains]] and up rocks it was all but three, and even that was very good going. My first stage was across the plain of Belfort, and I had determined to sleep that night in Switzerland.
 
 I wandered down the mountain. A little secret path, one of many, saved me the long windings of the road. It followed down the central hollow of the great cleft and accompanied the stream. All the way for miles the water tumbled in fall after fall over a hundred steps of rock, and its noise mixed with the freshness of the air, and its splashing weighted the overhanging branches of the trees. A little rain that fell from time to time through the clear morning seemed like a sister to the spray of the waterfalls; and what with all this moisture and greenery, and the surrounding silence, all the valley was inspired with content. It was a repose to descend through its leaves and grasses, and find the lovely pastures at the foot of the descent, a narrow floor between the hills. Here there were the first houses of men; and, from one, smoke was already going up thinly into the morning. The air was very pure and cold; it was made more nourishing and human by the presence and noise of the waters, by the shining wet grasses and the beaded leaves all through that umbrageous valley. The shreds of clouds which, high above the calm, ran swiftly in the upper air, fed it also with soft
 
@@ -6941,7 +6941,7 @@ Attraverso una crepa si raggiungeva Undervelier e poi una città chiamata Moutie
 
 Tutto ciò che la mia mappa mi indicava, insieme a questa combinazione di strade, sentieri e percorsi tra le rocce che avevo pianificato con cura, li seguii fedelmente, al fine di avanzare il più direttamente possibile verso Roma, che era il mio obiettivo. Se non avessi pianificato in questo modo, ma avessi seguito le strade principali, sarei stato costretto a fare continue deviazioni per giorni interi: infatti, queste creste dei Monti Giura sono quasi completamente continue, e le strade non si elevano sopra le cime, ma seguono i valli paralleli, approfittando solo di rari passaggi per attraversarle.
 
-Ecco uno schizzo del percorso che ho seguito: la mia traccia è rappresentata da una linea bianca, mentre i punti rotondi indicano le città e i villaggi i cui nomi sono riportati sul lato. Nello schizzo, le pianure e i bassi valli sono indicati in colore scuro, mentre le cime delle [[Mountains|montagne]] rimangono bianche. L’ombreggiatura diventa più leggera man mano che si sale di quota; le linee di contorno (che non sono affatto precise) rappresentano, presumibilmente, distanze di circa mille piedi l’una dall’altra. Per quanto riguarda la distanza: dal Ballon d’Alsace a Soleure ci vorrebbero due giorni di marcia su strada pianeggiante, ma attraverso le [[Mountains|montagne]] e sulle rocce il percorso diventerebbe quasi tre giorni. E anche così si tratterebbe comunque di un viaggio molto faticoso. La mia prima tappa è stata attraversare la pianura di Belfort; avevo deciso di dormire quella notte in Svizzera.
+Ecco uno schizzo del percorso che ho seguito: la mia traccia è rappresentata da una linea bianca, mentre i punti rotondi indicano le città e i villaggi i cui nomi sono riportati sul lato. Nello schizzo, le pianure e i bassi valli sono indicati in colore scuro, mentre le cime delle [[settings/mountains|montagne]] rimangono bianche. L’ombreggiatura diventa più leggera man mano che si sale di quota; le linee di contorno (che non sono affatto precise) rappresentano, presumibilmente, distanze di circa mille piedi l’una dall’altra. Per quanto riguarda la distanza: dal Ballon d’Alsace a Soleure ci vorrebbero due giorni di marcia su strada pianeggiante, ma attraverso le [[settings/mountains|montagne]] e sulle rocce il percorso diventerebbe quasi tre giorni. E anche così si tratterebbe comunque di un viaggio molto faticoso. La mia prima tappa è stata attraversare la pianura di Belfort; avevo deciso di dormire quella notte in Svizzera.
 
 Vagabondai lungo la montagna. Un piccolo sentiero segreto, uno dei tanti, mi risparmiò i lunghi giri della strada principale. Seguiva il solco centrale della grande fessura e costeggiava il ruscello. Per chilometri, l’acqua cadeva a cascata su centinaia di gradini di roccia; il suo rumore si mescolava alla freschezza dell’aria, e gli schizzi inumidivano i rami degli alberi sopra di me. Una leggera pioggia che, di tanto in tanto, cadeva nella chiara mattina sembrava una “sorella” dei getti delle cascate; e con tutta quell’umidità, la vegetazione rigogliosa e il silenzio circostante, l’intera valle appariva piena di vita e serenità. Era un vero piacere scendere attraverso quei boschi e quelle praterie, fino a raggiungere i bei pascoli ai piedi della montagna, quel piccolo spazio tra le colline. Lì si trovavano le prime case degli uomini; da una di esse, il fumo iniziava già a salire sottile nella mattina. L’aria era molto pura e fredda, ma diventava ancora più piacevole grazie alla presenza e al rumore delle acque, ai prati umidi e alle foglie lucide che ricoprivano tutta quella valle ombreggiata. I brandelli di nuvole che, lontano sopra il cielo sereno, si muovevano velocemente nel vento, contribuivano anch’essi a rendere quell’ambiente ancora più incantevole.
 
@@ -6956,7 +6956,7 @@ THE MANY PRIESTS
 
 RAINS FROM TIME to time as fine as dew; and through those clear and momentary showers one could see the sunlight.
 
-When I had enjoyed the descent through this place for but a few miles, everything changed. The road in front ran straight and bordered — it led out and onwards over a great flat, set here and there with hillocks. The Vosges ended abruptly. Houses came more thickly, and by the ceaseless culture of the fields, by the flat slate roofs, the white-washed walls, and the voices, and the glare, I knew myself to be once more in [[France]] of the plains; and the first town I came to was Giromagny.
+When I had enjoyed the descent through this place for but a few miles, everything changed. The road in front ran straight and bordered — it led out and onwards over a great flat, set here and there with hillocks. The Vosges ended abruptly. Houses came more thickly, and by the ceaseless culture of the fields, by the flat slate roofs, the white-washed walls, and the voices, and the glare, I knew myself to be once more in [[settings/france|France]] of the plains; and the first town I came to was Giromagny.
 
 Here, as I heard a bell, I thought I would go up and hear Mass; and I did so, but my attention at the holy office was distracted by the enormous number of priests that I found in the church, and I have wondered painfully ever since how so many came to be in a little place like Giromagny. There were three priests at the high altar, and nearly one for each chapel, and there was such a buzz of Masses going on, beginning and ending, that I am sure I need not have gone without my breakfast in my hurry to get one. With all this there were few people at Mass so early; nothing but these priests going in and out, and continual little bells. I am still wondering. Giromagny is no place for relics or for a pilgrimage, it cures no one, and has nothing of a holy look about it, and all these priests —
 
@@ -6977,11 +6977,11 @@ I molti sacerdoti
 
 Piogge, di tanto in tanto, sottili come rugiada; e attraverso quelle brevi e limpide piogge si poteva vedere la luce del sole.
 
-Dopo aver goduto di quel percorso lungo poche miglia, tutto cambiò. La strada davanti a me proseguiva dritta, delimitata da alberi, e conduceva verso una vasta pianura punteggiata qua e là da collinette. I Vosgi finivano improvvisamente; le case diventavano più numerose, e dal modo in cui i campi erano coltivati, dai tetti piatti di ardesia, dalle pareti intonacate di bianco, dalle voci delle persone e dalla luce abbagliante del sole, capii di essere nuovamente in [[France|Francia]] delle pianure. La prima città che incontrai fu Giromagny.
+Dopo aver goduto di quel percorso lungo poche miglia, tutto cambiò. La strada davanti a me proseguiva dritta, delimitata da alberi, e conduceva verso una vasta pianura punteggiata qua e là da collinette. I Vosgi finivano improvvisamente; le case diventavano più numerose, e dal modo in cui i campi erano coltivati, dai tetti piatti di ardesia, dalle pareti intonacate di bianco, dalle voci delle persone e dalla luce abbagliante del sole, capii di essere nuovamente in [[settings/france|Francia]] delle pianure. La prima città che incontrai fu Giromagny.
 
 Ecco, quando ho sentito suonare una campanella, ho pensato di salire in chiesa per ascoltare la Messa; così ho fatto, ma la mia attenzione durante la cerimonia è stata distratta dal numero enorme di sacerdoti che c’erano in chiesa. Da allora mi chiedo continuamente come possano essercene stati così tanti in un posto piccolo come Giromagny. C’erano tre sacerdoti all’altare maggiore, e quasi uno per ogni cappella; il rumore delle Messe che iniziavano e finivano era così incessante che sono sicuro di non aver bisogno di fare colazione, nella mia fretta di parteciparvi. Nonostante tutto questo, c’erano poche persone presenti a quella Messa così presto; c’erano solo questi sacerdoti che andavano avanti e indietro, e il continuo suono delle campanelle. Ancora oggi mi chiedo. Giromagny non è certo un luogo adatto per reliquie o pellegrinaggi; non cura nessuno, non ha nulla di sacro. E tutti questi sacerdoti.
 
-# Lettore… Per favore, parlate meno della vostra religione.
+Lettore… Per favore, parlate meno della vostra religione.
 
 AUTORE: Per favore, considerate i libri così come li trovate e considerate il viaggio semplicemente un viaggio. Per voi, quando andate in un paese straniero, non vedete nulla se non ciò che vi aspettate di vedere. Ma io sono sorpreso da mille imprevisti; trovo sempre le cose venti volte più grandi di quanto pensassi fossero, e molto più curiose. Tutto è avvolto in una strana luce d’avventura. Ed è proprio questo il valore particolare di questo libro. Ora, se riuscite a spiegare questi preti.
 
@@ -7073,7 +7073,7 @@ There is also in Belfort a great lion carved in rock to commemorate the siege of
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Costruire ponti
+Costruire ponti
 
 Molto latte, raccolto dai “Pantheri” di Dio. Decisi di mettere alla prova ancora di più questo miracolo; scegliendo il prezzo medio, ovvero quattro penny al quart, dissi:
 
@@ -7108,7 +7108,7 @@ The siege of 1870 has been fixed for history in yet another way, and one that sh
 
 When I lunched in Belfort (and at lunch, by the way, a poor man asked me to use all my influence for his son, who was an engineer in the navy, and this he did because I had been boasting of my travels, experiences, and grand acquaintances throughout the world) — when, I say, I had lunched in a workman’s cafe at Belfort, I set out again on my road, and was very much put out to find that showers still kept on falling.
 
-In the early morning, under such delightful trees, up in the [[Mountains|mountains]], the branches had given me a roof, the wild surroundings made me part of the out-of-doors, and the rain had seemed to marry itself to the pastures and the foaming beck. But here, on a road and in a town, all its [[Tradition|tradition]] of discomfort came upon me. I was angry, therefore, with the weather and the road for some miles, till two things came to comfort me. First it cleared, and a glorious sun showed me from a little eminence the plain of Alsace and the [[Mountains|mountains]] of the Vosges all in line; secondly, I came to a vast powder-magazine.
+In the early morning, under such delightful trees, up in the [[settings/mountains|mountains]], the branches had given me a roof, the wild surroundings made me part of the out-of-doors, and the rain had seemed to marry itself to the pastures and the foaming beck. But here, on a road and in a town, all its [[concepts/tradition|tradition]] of discomfort came upon me. I was angry, therefore, with the weather and the road for some miles, till two things came to comfort me. First it cleared, and a glorious sun showed me from a little eminence the plain of Alsace and the [[settings/mountains|mountains]] of the Vosges all in line; secondly, I came to a vast powder-magazine.
 
 To most people there is nothing more subtle or pleasing in a powder-magazine than in a reservoir. They are both much the same in the mere exterior, for each is a flat platform, sloping at the sides and covered with grass, and each has mysterious doors. But, for my part, I never see a powder-
 
@@ -7125,7 +7125,7 @@ L’assedio del 1870 è stato fissato nella storia in un altro modo ancora, un m
 
 Quando pranzai a Belfort (e, tra l’altro, durante il pranzo un poveruomo mi chiese di utilizzare tutta la mia influenza per suo figlio, che era ingegnere nella marina; lo fece perché avevo vantato i miei viaggi, le mie esperienze e le mie importanti conoscenze in tutto il mondo). Insomma, quando pranzai in un caffè per operai a Belfort, ripresi il mio viaggio, ma fui molto deluso nel scoprire che continuavano a piovere.
 
-All'alba, sotto quegli alberi incantevoli, lassù nelle [[Mountains|montagne]], i rami mi offrivano un “tetto”; il paesaggio selvaggio mi faceva sentire parte della natura, e la pioggia sembrava fondersi con i prati e i ruscelli. Ma qui, su una strada e in una città, tutta la sua [[Tradition|tradizione di disagio]] mi colpì. Per qualche miglio fui arrabbiato con il tempo e con la strada, fino a quando due cose mi consolarono: innanzitutto il cielo si schiarì, e un sole splendente mi mostrò la pianura dell’Alsazia e le montagne dei Vosgi allineate una dietro l’altra; in secondo luogo, arrivai davanti a un enorme magazzino di polvere da sparo.
+All'alba, sotto quegli alberi incantevoli, lassù nelle [[settings/mountains|montagne]], i rami mi offrivano un “tetto”; il paesaggio selvaggio mi faceva sentire parte della natura, e la pioggia sembrava fondersi con i prati e i ruscelli. Ma qui, su una strada e in una città, tutta la sua [[concepts/tradition|tradizione di disagio]] mi colpì. Per qualche miglio fui arrabbiato con il tempo e con la strada, fino a quando due cose mi consolarono: innanzitutto il cielo si schiarì, e un sole splendente mi mostrò la pianura dell’Alsazia e le montagne dei Vosgi allineate una dietro l’altra; in secondo luogo, arrivai davanti a un enorme magazzino di polvere da sparo.
 
 Per la maggior parte delle persone, non c’è nulla di più raffinato o piacevole in un serbatoio per polvere che in uno contenitore tradizionale. Sia l’uno che l’altro hanno un aspetto esteriore molto simile: entrambi sono costituiti da una piattaforma piatta, inclinata sui lati e ricoperta d’erba, e entrambi presentano porte misteriose. Ma, per quanto mi riguarda, io non riesco mai a vedere la differenza tra i due.
 
@@ -7159,7 +7159,7 @@ I thought it a good opportunity for recollection, and sitting down, I looked bac
 
 <span class="qlang-split" data-lang="it"></span>
 
-#La pistola ad aggeggio a polvere
+La pistola ad aggeggio a polvere
 
 Un magazzino che, senza essere riempito immediatamente, suscitava due sentimenti molto positivi: risate e compagnia. Poiché anni fa fu mia grande fortuna essere compagno e amico di due uomini incaricati di fare la guardia in un deposito di polvere da sparo, subito dopo che alcuni anarchici avevano tentato di attaccare tali depositi. E a questo proposito, non riesco a immaginare nulla di più allettante per gli anarchici di settecentoquarantadue casse di polvere da sparo e cinquanta casse di melinite tutte conservate nello stesso luogo. Per evitare il enorme rumore, la confusione e lo spreco che sarebbero derivati dall’eccessiva attrattiva di questo deposito per gli anarchici, i miei due amici – uno un burghese ligio al dovere, l’altro un uomo disinvolto di Parigi – erano di guardia quella notte. Avevano ricevuto ordini severi: intervenire una sola volta e poi sparare.
 
@@ -7186,13 +7186,13 @@ Ritenni che fosse un'ottima opportunità per riflettere, quindi mi sedetti e rip
 
 THE LAST OF THE VOSGES
 
-There were the high [[Mountains|mountains]] of the Vosges standing up above the plain of Alsace like sloping cliffs above a sea. I drew them as they stood, and wondered if that frontier were really permanent. The mind of man is greater than such accidents, and can easily overleap even the high hills.
+There were the high [[settings/mountains|mountains]] of the Vosges standing up above the plain of Alsace like sloping cliffs above a sea. I drew them as they stood, and wondered if that frontier were really permanent. The mind of man is greater than such accidents, and can easily overleap even the high hills.
 
 Then having drawn them, and in that drawing said a kind of farewell to the influences that had followed me for so many miles — the solemn quiet, the steady industry, the self-control, the deep woods, of Lorraine — 1 rose up stiffly from the bank that had been my desk, and pushed along the lane that ran devious past neglected villages.
 
-The afternoon and the evening followed as I put one mile after another behind me. The frontier seemed so close that I would not rest. I left my open wine, the wine I had found outside Belfort, untasted, and I plodded on and on as the light dwindled. I was in a grand wonderment for Switzerland, and I wished by an immediate effort to conquer the last miles before night, in spite of my pain. Also, I will confess to a silly pride in distances, and a desire to be out of [[France]] on my fourth day.
+The afternoon and the evening followed as I put one mile after another behind me. The frontier seemed so close that I would not rest. I left my open wine, the wine I had found outside Belfort, untasted, and I plodded on and on as the light dwindled. I was in a grand wonderment for Switzerland, and I wished by an immediate effort to conquer the last miles before night, in spite of my pain. Also, I will confess to a silly pride in distances, and a desire to be out of [[settings/france|France]] on my fourth day.
 
-The light still fell, and my resolution stood, though my exhaustion undermined it. The line of the [[Mountains|mountains]] rose higher against the sky, and there entered into my pilgrimage for the first time the loneliness and the mystery of meres. Something of what a man feels in East England belonged to this last of the plain under the guardian hills. Everywhere I passed ponds and reeds, and saw the level streaks of sunset reflected in stagnant waters.
+The light still fell, and my resolution stood, though my exhaustion undermined it. The line of the [[settings/mountains|mountains]] rose higher against the sky, and there entered into my pilgrimage for the first time the loneliness and the mystery of meres. Something of what a man feels in East England belonged to this last of the plain under the guardian hills. Everywhere I passed ponds and reeds, and saw the level streaks of sunset reflected in stagnant waters.
 
 The marshy valley kept its character when I had left the lane and regained
 
@@ -7201,17 +7201,17 @@ The marshy valley kept its character when I had left the lane and regained
 
 <span class="qlang-split" data-lang="it"></span>
 
-#L’ultimo dei Vosgi
+L’ultimo dei Vosgi
 
-C'erano le alte [[Mountains|montagne]] dei Vosgi che si ergevano sopra la pianura dell'Alsazia, come scogliere inclinate sul mare. Le ho ritratte così come apparivano e mi sono chiesto se quel confine fosse davvero permanente. La mente umana è più potente di tali ostacoli e può facilmente superare anche le alte colline.
+C'erano le alte [[settings/mountains|montagne]] dei Vosgi che si ergevano sopra la pianura dell'Alsazia, come scogliere inclinate sul mare. Le ho ritratte così come apparivano e mi sono chiesto se quel confine fosse davvero permanente. La mente umana è più potente di tali ostacoli e può facilmente superare anche le alte colline.
 
 Dopo averli disegnati, in quel disegno espressi una sorta di addio alle influenze che mi avevano accompagnato per tante miglia: il silenzio solenne, il lavoro costante, l’autodisciplina, i profondi boschi della Lorena. Poi mi alzai rigidamente dal “banco” che aveva funto da mio tavolo di lavoro e proseguii lungo il sentiero che serpeggiava attraverso villaggi abbandonati.
 
-Il pomeriggio e la sera trascorsero mentre superavo miglia dopo miglia. Il confine sembrava così vicino che non volevo riposare. Lasciai il vino aperto, quello che avevo trovato fuori Belfort, senza nemmeno assaggiarlo, e continuai ad andare avanti man mano che la luce diminuiva. Ero pieno di ammirazione per la Svizzera, e desideravo con tutte le mie forze superare gli ultimi chilometri prima della notte, nonostante il dolore. Devo anche confessare di provare un’assurda vanità riguardo alle distanze, e il desiderio di uscire dalla [[France|Francia]] entro il quarto giorno.
+Il pomeriggio e la sera trascorsero mentre superavo miglia dopo miglia. Il confine sembrava così vicino che non volevo riposare. Lasciai il vino aperto, quello che avevo trovato fuori Belfort, senza nemmeno assaggiarlo, e continuai ad andare avanti man mano che la luce diminuiva. Ero pieno di ammirazione per la Svizzera, e desideravo con tutte le mie forze superare gli ultimi chilometri prima della notte, nonostante il dolore. Devo anche confessare di provare un’assurda vanità riguardo alle distanze, e il desiderio di uscire dalla [[settings/france|Francia]] entro il quarto giorno.
 
-La luce continuava ad illuminare tutto intorno, e la mia determinazione rimaneva salda, anche se la stanchezza cercava di indebolirla. La linea delle [[Mountains|montagne]] si ergeva sempre più alta contro il cielo; per la prima volta, nella mia “pellegrinazione”, entrarono in me sentimenti di solitudine e mistero. Qualcosa di ciò che un uomo prova nell’East England apparteneva anche a quest’ultima parte della pianura, protetta dalle colline circostanti. Ovunque andassi, incontravo stagni e canneti; vedevo le strisce orizzontali del tramonto riflettersi nelle acque immote.
+La luce continuava ad illuminare tutto intorno, e la mia determinazione rimaneva salda, anche se la stanchezza cercava di indebolirla. La linea delle [[settings/mountains|montagne]] si ergeva sempre più alta contro il cielo; per la prima volta, nella mia “pellegrinazione”, entrarono in me sentimenti di solitudine e mistero. Qualcosa di ciò che un uomo prova nell’East England apparteneva anche a quest’ultima parte della pianura, protetta dalle colline circostanti. Ovunque andassi, incontravo stagni e canneti; vedevo le strisce orizzontali del tramonto riflettersi nelle acque immote.
 
-#La valle paludosa conservava il suo carattere originale anche dopo che avevo lasciato il sentiero e ripreso il cammino…
+La valle paludosa conservava il suo carattere originale anche dopo che avevo lasciato il sentiero e ripreso il cammino…
 
 * * *
 
@@ -7306,9 +7306,9 @@ He talked with extreme rapidity for two hours. He had seen all the cities in the
 
 For my part I sat silent, crippled with fatigue, trying to forget my wounded feet, drinking stoup after stoup of beer and watching the Phocean. He was of the old race you see on vases in red and black; slight, very wiry, with a sharp, eager, but well-set face, a small, black, pointed beard, brilliant eyes like those of lizards, rapid gestures, and a vivacity that played all over his features as sheet lightning does over the glow of midnight in June.
 
-That delta of the Rhone is something quite separate from the rest of [[France]]. It is a wedge of Greece and of the East thrust into the Gauls. It came north a hundred years ago and killed the monarchy. It caught the value in, and created, the great war song of the Republic.
+That delta of the Rhone is something quite separate from the rest of [[settings/france|France]]. It is a wedge of Greece and of the East thrust into the Gauls. It came north a hundred years ago and killed the monarchy. It caught the value in, and created, the great war song of the Republic.
 
-I watched the Phocean. I thought of a man of his ancestry three thousand years ago sitting here at the gates of these [[Mountains|mountains]] talking of his travels to dull, patient, and admiring northerners, and travelling for gain up on into the Germanics, and I felt the changeless form of Europe under me like a rock.
+I watched the Phocean. I thought of a man of his ancestry three thousand years ago sitting here at the gates of these [[settings/mountains|mountains]] talking of his travels to dull, patient, and admiring northerners, and travelling for gain up on into the Germanics, and I felt the changeless form of Europe under me like a rock.
 
 When he heard I was walking to Rome, this man of information turned off his flood into another channel, as a miller will send the racing water into a side sluice, and he poured out some such torrent as this:
 
@@ -7329,9 +7329,9 @@ Parlava con estrema rapidità per due ore intere. Aveva visto tutte le città de
 
 Per quanto mi riguarda, rimasi seduto in silenzio, paralizzato dalla stanchezza, cercando di dimenticare i miei piedi feriti; bevevo birra dopo birra e osservavo il Phocean. Apparteneva a quella vecchia razza che si vede rappresentata sui vasi in rosso e nero: snello, molto muscoloso, con un viso affilato, deciso e attraente, una piccola barba nera e appuntita, occhi brillanti come quelli dei lucertolani, gesti rapidi e una vivacità che si rifletteva in ogni tratto del suo volto, proprio come i fulmini illuminano il cielo a mezzanotte di giugno.
 
-Quel tratto del Rodano è qualcosa di completamente diverso dal resto della [[France|Francia]]. È come un pezzo di Grecia e dell’Oriente che si è insinuato tra i Galli. È arrivato a nord cento anni fa e ha distrutto la monarchia; ha colto il valore di quel territorio e ne ha ispirato la creazione del grande inno della Repubblica.
+Quel tratto del Rodano è qualcosa di completamente diverso dal resto della [[settings/france|Francia]]. È come un pezzo di Grecia e dell’Oriente che si è insinuato tra i Galli. È arrivato a nord cento anni fa e ha distrutto la monarchia; ha colto il valore di quel territorio e ne ha ispirato la creazione del grande inno della Repubblica.
 
-Ho osservato il Phocean. Ho pensato a un uomo della sua stessa origine, tre migliaia di anni fa, seduto qui ai piedi di queste [[Mountains|montagne]], che raccontava delle sue avventure agli ascoltatori noiosi, pazienti e ammirati del nord; ho pensato anche a come viaggiasse in cerca di guadagno verso le regioni dei Germanici. E ho sentito sotto di me la forma immutabile dell’Europa, solida come una roccia.
+Ho osservato il Phocean. Ho pensato a un uomo della sua stessa origine, tre migliaia di anni fa, seduto qui ai piedi di queste [[settings/mountains|montagne]], che raccontava delle sue avventure agli ascoltatori noiosi, pazienti e ammirati del nord; ho pensato anche a come viaggiasse in cerca di guadagno verso le regioni dei Germanici. E ho sentito sotto di me la forma immutabile dell’Europa, solida come una roccia.
 
 Quando seppe che stavo dirigendomi verso Roma, quest’uomo informato deviò il flusso delle informazioni su un altro canale, proprio come un mulino fa scorrere l’acqua in una diramazione laterale; e così riversò su di me un fiume di notizie del genere.
 
@@ -7350,11 +7350,11 @@ Era anche molto gentile, perché in seguito scoprii che aveva concordato con il 
 
 THE NEW COUNTRY
 
-It was broad day, but not yet sunrise (there were watery thin clouds left here and there from the day before, a cold wind drove them) when, with extreme pain, going slowly one step after the other and resting continually, I started for Porrentruy along a winding road, and pierced the gap in the Jura. The first turn cut me off from [[France]], and I was fairly in a strange country.
+It was broad day, but not yet sunrise (there were watery thin clouds left here and there from the day before, a cold wind drove them) when, with extreme pain, going slowly one step after the other and resting continually, I started for Porrentruy along a winding road, and pierced the gap in the Jura. The first turn cut me off from [[settings/france|France]], and I was fairly in a strange country.
 
-The valley through which I was now passing resembled that of the lovely river Jed where it runs down from the Cheviots, and leads like a road into the secret pastures of the lowlands. Here also, as there, steep cliffs of limestone bounded a very level dale, all green grass and plenty; the plateau above them was covered also with perpetual woods, only here, different from Scotland, the woods ran on and upwards till they became the slopes of high [[Mountains|mountains]]; indeed, this winding cleft was a natural passage through the first ridge of the Jura; the second stood up southward before me like a deep blue storm.
+The valley through which I was now passing resembled that of the lovely river Jed where it runs down from the Cheviots, and leads like a road into the secret pastures of the lowlands. Here also, as there, steep cliffs of limestone bounded a very level dale, all green grass and plenty; the plateau above them was covered also with perpetual woods, only here, different from Scotland, the woods ran on and upwards till they became the slopes of high [[settings/mountains|mountains]]; indeed, this winding cleft was a natural passage through the first ridge of the Jura; the second stood up southward before me like a deep blue storm.
 
-I had, as I passed on along this turning way, all the pleasures of novelty; it was quite another country from the governed and ordered [[France]] which I had left. The road was more haphazard, less carefully tended, and evidently less used. The milestones were very old, and marked leagues instead of kilometres. There was age in everything. Moss grew along the walls, and it was very quiet under the high trees. I did not know the name of the little river that went slowly through the meadows, nor whether it followed the custom of its French neighbours on the watershed, and was called by some such epithet as hangs to all the waters in that gap of Belfort, that plain of ponds and marshes: for they are called ‘the Sluggish’, ‘the Muddy’, or ‘the Laggard’. Even the name of the Saone, far off, meant once ‘Slow Water’.
+I had, as I passed on along this turning way, all the pleasures of novelty; it was quite another country from the governed and ordered [[settings/france|France]] which I had left. The road was more haphazard, less carefully tended, and evidently less used. The milestones were very old, and marked leagues instead of kilometres. There was age in everything. Moss grew along the walls, and it was very quiet under the high trees. I did not know the name of the little river that went slowly through the meadows, nor whether it followed the custom of its French neighbours on the watershed, and was called by some such epithet as hangs to all the waters in that gap of Belfort, that plain of ponds and marshes: for they are called ‘the Sluggish’, ‘the Muddy’, or ‘the Laggard’. Even the name of the Saone, far off, meant once ‘Slow Water’.
 
 I was wondering what its name might be, and how far I stood from Porrentruy (which I knew to be close by), when I saw a tunnel across the valley, and I guessed by the trend of the higher hills that the river was about to make a very sharp angle. Both these signs, I had been told, meant that I was quite close to the town; so I took a short cut up through the forest over a spur of hill — a short cut most legitimate, because it was trodden and very manifestly used — and I walked up and then on a level for a mile, along a lane of the woods and beneath small, dripping trees. When this short silence of the forest was over, I saw an excellent sight.
 
@@ -7371,11 +7371,11 @@ AUCTOR. Let me explain. There is a race that stretches vaguely, without
 
 Il nuovo paese
 
-Era pieno giorno, ma non era ancora sorto il sole (qui e là rimanevano nuvole sottili e acquose dal giorno precedente; un vento freddo le spingeva via) quando, con estrema fatica, avanzando lentamente passo dopo passo e riposandomi continuamente, iniziai il mio cammino verso Porrentruy lungo una strada tortuosa, attraversando la cresta dei Monti Jura. La prima svolta mi separò da [[France|Francia]], e mi trovai in un paese piuttosto sconosciuto.
+Era pieno giorno, ma non era ancora sorto il sole (qui e là rimanevano nuvole sottili e acquose dal giorno precedente; un vento freddo le spingeva via) quando, con estrema fatica, avanzando lentamente passo dopo passo e riposandomi continuamente, iniziai il mio cammino verso Porrentruy lungo una strada tortuosa, attraversando la cresta dei Monti Jura. La prima svolta mi separò da [[settings/france|Francia]], e mi trovai in un paese piuttosto sconosciuto.
 
-La valle attraverso la quale stavo passando assomigliava a quella del meraviglioso fiume Jed, che scorre giù dai monti Cheviots e conduce, come una strada, verso i segreti pascoli delle pianure. Anche qui, proprio come là, ripide scogliere di calcare delimitavano una valle molto piatta, ricoperta interamente d’erba verde e rigogliosa; l’altopiano sovrastante era anch’esso coperto da foreste perenni. Solo che qui, a differenza della Scozia, le foreste si estendevano verso l’alto, trasformandosi nelle pendici di alte [[Mountains|montagne]]. In effetti, questa tortuosa gola rappresentava un passaggio naturale attraverso la prima catena dei monti Jura; la seconda catena si ergeva davanti a me verso sud, come una profonda tempesta blu.
+La valle attraverso la quale stavo passando assomigliava a quella del meraviglioso fiume Jed, che scorre giù dai monti Cheviots e conduce, come una strada, verso i segreti pascoli delle pianure. Anche qui, proprio come là, ripide scogliere di calcare delimitavano una valle molto piatta, ricoperta interamente d’erba verde e rigogliosa; l’altopiano sovrastante era anch’esso coperto da foreste perenni. Solo che qui, a differenza della Scozia, le foreste si estendevano verso l’alto, trasformandosi nelle pendici di alte [[settings/mountains|montagne]]. In effetti, questa tortuosa gola rappresentava un passaggio naturale attraverso la prima catena dei monti Jura; la seconda catena si ergeva davanti a me verso sud, come una profonda tempesta blu.
 
-Mentre percorrevo questo sentiero, provavo tutti i piaceri della novità; era davvero un paese molto diverso dalla regolata e ordinata [[France|Francia]] che avevo lasciato. La strada era più disordinata, meno curata con attenzione e chiaramente meno frequentata. I segnali stradali erano molto vecchi e indicavano le distanze in “leghe” anziché in chilometri. C’era un senso di antichità in tutto ciò che mi circondava: muschio cresceva lungo i muri, e regnava una grande quiete sotto gli alberi alti. Non conoscevo il nome del piccolo fiume che scorreva lentamente attraverso i prati, né se seguisse le abitudini dei suoi vicini francesi lungo il corso d’acqua: quei fiumi, infatti, venivano spesso chiamati con epiteti come “lento”, “fangoso” o “arretrato”. Anche il nome del Saone, lontano da lì, un tempo significava “Acqua Lenta”.
+Mentre percorrevo questo sentiero, provavo tutti i piaceri della novità; era davvero un paese molto diverso dalla regolata e ordinata [[settings/france|Francia]] che avevo lasciato. La strada era più disordinata, meno curata con attenzione e chiaramente meno frequentata. I segnali stradali erano molto vecchi e indicavano le distanze in “leghe” anziché in chilometri. C’era un senso di antichità in tutto ciò che mi circondava: muschio cresceva lungo i muri, e regnava una grande quiete sotto gli alberi alti. Non conoscevo il nome del piccolo fiume che scorreva lentamente attraverso i prati, né se seguisse le abitudini dei suoi vicini francesi lungo il corso d’acqua: quei fiumi, infatti, venivano spesso chiamati con epiteti come “lento”, “fangoso” o “arretrato”. Anche il nome del Saone, lontano da lì, un tempo significava “Acqua Lenta”.
 
 Mi chiedevo quale potesse essere il suo nome e a che distanza mi trovassi da Porrentruy (che sapevo essere vicina), quando vidi un tunnel attraverso la valle; osservando la direzione delle colline più alte, intuii che il fiume stava per fare una curva molto stretta. Entrambi questi segnali, mi era stato detto, indicavano che ero piuttosto vicino alla città; così presi un sentiero più breve attraverso la foresta, su un rilievo collinare: un percorso assolutamente legittimo, poiché era frequentato e chiaramente utilizzato. Proseguii lungo quel sentiero per circa un miglio, camminando tra gli alberi e sotto rami che gocciolavano acqua. Quando questa breve quiete della foresta finì, vidi una scena davvero meravigliosa.
 
@@ -7398,7 +7398,7 @@ DEFINED BOUNDARIES, FROM the Baltic into the high hills of the south. I will not
 
 LECTOR. But in Porrentruy they talk French!
 
-AUCTOR. They are welcome; it is an excellent tongue. Nevertheless, they are Germans. Who but Germans would so preserve — would so rebuild the past? Who but Germans would so feel the mystery of the hills, and so fit their town to the [[Mountains|mountains]]? I was to pass through but a narrow wedge of this strange and diffuse people. They began at Porrentruy, they ended at the watershed of the Adriatic, in the high passes of the Alps; but in that little space of four days I made acquaintance with their influence, and I owe them a perpetual gratitude for their architecture and their tales. I had come from [[France]], which is full of an active memory of Rome. I was to debouch into those larger plains of [[Italy]], which keep about them an atmosphere of Rome in decay. Here in Switzerland, for four marches, I touched a northern, exterior, and barbaric people; for though these [[Mountains|mountains]] spoke a distorted Latin tongue, and only after the first day began to give me a Teutonic dialect, yet it was evident from the first that they had about them neither the Latin order nor the Latin power to create, but were contemplative and easily absorbed by a little effort.
+AUCTOR. They are welcome; it is an excellent tongue. Nevertheless, they are Germans. Who but Germans would so preserve — would so rebuild the past? Who but Germans would so feel the mystery of the hills, and so fit their town to the [[settings/mountains|mountains]]? I was to pass through but a narrow wedge of this strange and diffuse people. They began at Porrentruy, they ended at the watershed of the Adriatic, in the high passes of the Alps; but in that little space of four days I made acquaintance with their influence, and I owe them a perpetual gratitude for their architecture and their tales. I had come from [[settings/france|France]], which is full of an active memory of Rome. I was to debouch into those larger plains of [[settings/italy|Italy]], which keep about them an atmosphere of Rome in decay. Here in Switzerland, for four marches, I touched a northern, exterior, and barbaric people; for though these [[settings/mountains|mountains]] spoke a distorted Latin tongue, and only after the first day began to give me a Teutonic dialect, yet it was evident from the first that they had about them neither the Latin order nor the Latin power to create, but were contemplative and easily absorbed by a little effort.
 
 The German spirit is a marvel. There lay Porrentruy. An odd door with Gothic turrets marked the entry to the town. To the right of this gateway a tower, more enormous than anything I remembered to have seen, even in dreams, flanked the approach to the city. How vast it was, how protected, how high, how eaved, how enduring! I was told later that some part of that great bastion was Roman, and I can believe it. The Germans hate to destroy. It overwhelmed me as visions overwhelm, and I felt in its presence as boys feel
 
@@ -7413,7 +7413,7 @@ Confini ben definiti, che vanno dal Mar Baltico fino alle alte colline del sud. 
 
 LETTORE: Ma a Porrentruy si parla francese!
 
-L’AUTORE: Sono benvenuti; è una lingua eccellente. Tuttavia, sono tedeschi. Chi altri, se non i tedeschi, potrebbe preservare e ricostruire così il passato? Chi altri, se non i tedeschi, potrebbe percepire così profondamente il mistero di queste montagne e adattare le proprie città alle caratteristiche delle [[Mountains|montagne]]? Sono stato soltanto un viaggiatore che ha attraversato una piccola parte di questo popolo strano e diffuso. Il loro territorio si estendeva da Porrentruy fino al confine adriatico, nelle alte valli degli Alpi. Ma in quei pochi giorni ho potuto conoscere l’influenza che esercitavano; sono loro grato per la loro architettura e le loro storie. Venivo dalla [[France|Francia]], un paese ancora pervaso dal ricordo di Roma. Ero diretto verso quelle vaste pianure dell’[[Italy|Italia]], dove sembra persistere ancora l’atmosfera di una Roma in declino. Qui, in Svizzera, per quattro giorni ho avuto modo di incontrare un popolo nordico, esterno e barbaro. Anche se queste montagne parlavano una lingua latina distorta, e soltanto dopo il primo giorno ho iniziato a comprendere i loro dialetti teutonici, era evidente fin dall’inizio che non possedevano né l’ordine né la forza creativa tipica dei latini. Erano un popolo contemplativo, facilmente influenzabile da pochi stimoli.
+L’AUTORE: Sono benvenuti; è una lingua eccellente. Tuttavia, sono tedeschi. Chi altri, se non i tedeschi, potrebbe preservare e ricostruire così il passato? Chi altri, se non i tedeschi, potrebbe percepire così profondamente il mistero di queste montagne e adattare le proprie città alle caratteristiche delle [[settings/mountains|montagne]]? Sono stato soltanto un viaggiatore che ha attraversato una piccola parte di questo popolo strano e diffuso. Il loro territorio si estendeva da Porrentruy fino al confine adriatico, nelle alte valli degli Alpi. Ma in quei pochi giorni ho potuto conoscere l’influenza che esercitavano; sono loro grato per la loro architettura e le loro storie. Venivo dalla [[settings/france|Francia]], un paese ancora pervaso dal ricordo di Roma. Ero diretto verso quelle vaste pianure dell’[[settings/italy|Italia]], dove sembra persistere ancora l’atmosfera di una Roma in declino. Qui, in Svizzera, per quattro giorni ho avuto modo di incontrare un popolo nordico, esterno e barbaro. Anche se queste montagne parlavano una lingua latina distorta, e soltanto dopo il primo giorno ho iniziato a comprendere i loro dialetti teutonici, era evidente fin dall’inizio che non possedevano né l’ordine né la forza creativa tipica dei latini. Erano un popolo contemplativo, facilmente influenzabile da pochi stimoli.
 
 Lo spirito tedesco è davvero un miracolo. Lì si trovava Porrentruy: un ingresso alla città segnato da una strana porta con torri gotiche. A destra di quel cancello, una torre, più imponente di qualsiasi altra avessi mai visto, anche in sogno, fiancheggiava l’accesso alla città. Quanto era vasta, quanto ben protetta, quanto alta. Come poteva resistere a lungo! Mi dissero in seguito che parte di quella grande fortezza risaliva ai tempi romani, e posso crederci. I tedeschi odiano distruggere. Quella vista mi sopraffece, proprio come fanno le visioni; nella sua presenza mi sentii come quei ragazzi.
 
@@ -7426,7 +7426,7 @@ Lo spirito tedesco è davvero un miracolo. Lì si trovava Porrentruy: un ingress
 
 THE ASTOUNDING WINE
 
-WHEN THEY FIRST see the [[Mountains|mountains]]. Had I not been a Christian, I would have worshipped and propitiated this obsession, this everlasting thing.
+WHEN THEY FIRST see the [[settings/mountains|mountains]]. Had I not been a Christian, I would have worshipped and propitiated this obsession, this everlasting thing.
 
 As it was I entered Porrentruy soberly. I passed under its deep gateway and up its steep hill. The moment I was well into the main street, something other of the Middle Ages possessed me, and I began to think of food and wine. I went to the very first small guest-house I could find, and asked them if they could serve me food. They said that at such an early hour (it was not yet ten) they could give me nothing but bread, yesterday’s meat, and wine. I said that would do very well, and all these things were set before me, and by a custom of the country I paid before I ate. (A bad custom. Up in the Limousin, when I was a boy, in the noisy valley of the Torrent, on the Vienne, I remember a woman that did not allow me to pay till she had held the bottle up to the light, measured the veal with her finger, and estimated the bread with her eye; also she charged me double. God rest her soul!) I say I paid. And had I had to pay twenty or twenty-three times as much it would have been worth it for the wine.
 
@@ -7447,7 +7447,7 @@ Could this book be infinite, as my voyage was infinite, I would tell you about t
 
 Il vino sorprendente
 
-Quando videro per la prima volta le [[Mountains|montagne]]. Se non fossi stato un cristiano, avrei adorato e placato questa ossessione, questa cosa eterna.
+Quando videro per la prima volta le [[settings/mountains|montagne]]. Se non fossi stato un cristiano, avrei adorato e placato questa ossessione, questa cosa eterna.
 
 Entrai a Porrentruy in stato di sobrietà. Passai sotto il suo imponente portale e risalii la sua ripida collina. Non appena mi trovai nella strada principale, qualcosa che non aveva nulla a che fare con il Medioevo prese il sopravvento su di me; iniziai a pensare a cibo e vino. Andai nella prima piccola locanda che riuscii a trovare e chiesi se potevano servirmi del cibo. Mi dissero che, a quell’ora così presto (non erano ancora le dieci), potevano offrirmi solo pane, carne di ieri e vino. Risposi che andava benissimo, e tutte queste cose mi furono servite. Secondo una consuetudine del luogo, pagai prima di mangiare. Una cattiva abitudine. Nella regione della Limosina, quando ero ragazzo, nella rumorosa valle del fiume Torrent, sul Vienne, ricordo una donna che non mi permetteva di pagare finché non aveva esaminato attentamente la bottiglia alla luce, misurato con il dito la quantità di carne e stimato a occhio il pane; inoltre mi chiedeva il doppio del prezzo. Che Dio riposi la sua anima. Comunque, pagai. E anche se avessi dovuto pagare venti o venticinque volte di più, ne sarebbe valsa la pena per quel vino.
 
@@ -7470,7 +7470,7 @@ Se questo libro potesse essere infinito, proprio come il mio viaggio fu infinito
 
 THE ERRONEOUS ANARCHIST
 
-AND SO HAD left [[France]], and his hankering for [[France]] all those years had soured his temper, and he said he wished there were no property, no armies, and no governments.
+AND SO HAD left [[settings/france|France]], and his hankering for [[settings/france|France]] all those years had soured his temper, and he said he wished there were no property, no armies, and no governments.
 
 But I said that we live as parts of a nation, and that there was no fate so wretched as to be without a country of one’s own — what else was exile which so many noble men have thought worse than death, and which all have feared? I also told him that armies fighting in a just cause were the happiest places for living, and that a good battle for justice was the beginning of all great songs; and that as for property, a man on his own land was the nearest to God.
 
@@ -7487,9 +7487,9 @@ AUCTOR. Neither am I. It is but the backwash of a wave ... Well, then, I went up
 
 <span class="qlang-split" data-lang="it"></span>
 
-# L'anarchista errato
+L'anarchista errato
 
-E così aveva lasciato la [[France|Francia]]; il suo continuo rimpianto per quella terra negli anni aveva peggiorato il suo umore, e diceva che avrebbe voluto non esistessero proprietà, eserciti né governi.
+E così aveva lasciato la [[settings/france|Francia]]; il suo continuo rimpianto per quella terra negli anni aveva peggiorato il suo umore, e diceva che avrebbe voluto non esistessero proprietà, eserciti né governi.
 
 Ma ho detto che viviamo come parte di una nazione, e che non esiste sorte più misera di quella di non avere una propria patria. Che altro era l’esilio, se non qualcosa che molti uomini nobili hanno ritenuto peggiore della morte e che tutti temevano? Gli ho anche detto che le armate che combattono per una causa giusta sono i luoghi più felici in cui vivere, e che una buona battaglia per la giustizia è l’inizio di tutte le grandi opere letterarie; inoltre, riguardo alla proprietà, un uomo sulla propria terra è il più vicino a Dio.
 
@@ -7510,7 +7510,7 @@ AUTORE: Nemmeno io lo so. È soltanto il rimbalzo di un’onda. Beh, allora pros
 
 THE MOUNT TERRIBLE
 
-‘GO YOU UP this muddy track that has been made athwart the woods and over the pastures by our sliding logs’ (for they had cut their trunks higher up the [[Mountains|mountains]]), ‘and you will come to the summit easily. From thence you will see the Doubs running below you in a very deep and dark ravine.’
+‘GO YOU UP this muddy track that has been made athwart the woods and over the pastures by our sliding logs’ (for they had cut their trunks higher up the [[settings/mountains|mountains]]), ‘and you will come to the summit easily. From thence you will see the Doubs running below you in a very deep and dark ravine.’
 
 I thanked them, and soon found that they had told me right. There, unmistakable, a gash in the forest and across the intervening fields of grass, was the run of the timber.
 
@@ -7523,9 +7523,9 @@ When I had climbed almost to the top, I looked behind me to take my last view of
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Il Monte Terribile
+Il Monte Terribile
 
-“Segui questo sentiero fangoso che è stato creato attraverso i boschi e le praterie dai tronchi che abbiamo fatto scivolare giù dalle [[Mountains|montagne]]; arriverai facilmente in cima. Da lì potrai vedere il fiume Doubs scorrere sotto di te, in una gola molto profonda e oscura.”
+“Segui questo sentiero fangoso che è stato creato attraverso i boschi e le praterie dai tronchi che abbiamo fatto scivolare giù dalle [[settings/mountains|montagne]]; arriverai facilmente in cima. Da lì potrai vedere il fiume Doubs scorrere sotto di te, in una gola molto profonda e oscura.”
 
 Gli ringraziai, e presto scoprii che avevano ragione. Lì, inequivocabile, c'era una ferita nel bosco e, attraverso i campi di erba circostanti, si intravedeva il percorso del tronco d'albero.
 
@@ -7559,7 +7559,7 @@ AUCTOR. Little friend, how little you know! To a building windows are everything
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Le finestre piegate
+Le finestre piegate
 
 Da percorrere, ma più ripido delle nostre scarpate e dei pendii in Inghilterra, dove un uomo esita e sceglie con attenzione la strada da seguire. Era una discesa così lunga e ripida che si poteva vedere oltre le cime degli alberi. Un posto dove nessuno avrebbe voluto viaggiare a cavallo.
 
@@ -7665,7 +7665,7 @@ I had not been engaged upon it a dozen yards when I was seized with terror.
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Il ponte tentatore
+Il ponte tentatore
 
 Altezze. Per quanto riguarda l’immagine, è quella che si vede quando si supera la cresta situata a nord o in cima alla mappa, e quando si nota per la prima volta il fiume sottostante.
 
@@ -7699,7 +7699,7 @@ At any rate at this last supreme part I vowed one candle to Our Lady of Perpetua
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Il terribile ponte
+Il terribile ponte
 
 Ho molto da dire ancora in questo libro riguardo al terrore: la paura che assale le persone quando si trovano in luoghi elevati, e l’effetto negativo esercitato da molti uomini arrabbiati. Questa orribile emozione è il tema principale delle “storie brevi” scritte dai nostri autori moderni; rappresenta metà della trama dei loro racconti folli ed è alla base del loro culto di ciò che chiamano “forza”: in realtà, si tratta soltanto di un desiderio codardo di protezione, o addirittura di una fascinazione spregevole per la brutalità. Personalmente, l’ho sempre considerato qualcosa di impuro e demoniaco, indegno di un cristiano. La paura, credo, fa parte della natura stessa delle cose; è altrettanto normale temere il mare o un cavallo sconosciuto quanto mangiare o dormire. Ma il terrore, quella follia improvvisa e quella paralisi dell’anima, beh, quello, secondo me, proviene dall’inferno. Non è qualcosa con cui si possa scherzare, né va descritto in storie o rappresentato in immagini. Dico tutto questo per introdurre ciò che accadde, e soprattutto per sottolineare quanto il terrore sia, in realtà, un fenomeno irrazionale, frutto di una possessione demoniaca.
 
@@ -7733,7 +7733,7 @@ But when I came to it, it was not easy. The wood grew in loose rocks and the slo
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Sicurezza oltre
+Sicurezza oltre
 
 Bene, allora, nonostante avessi fatto questo voto, continuai ad avanzare, spinto dal panico, finché non vidi che la riva sottostante si era avvicinata al ponte di pochi piedi e che la terraferma non distava più di venti metri. A quel punto la mia risoluzione mi abbandonò e corsi, o meglio, inciampai, velocemente da un tratto di terreno solido all’altro, finché non riuscii a respirare liberamente sulla terraferma stabile.
 
@@ -7754,7 +7754,7 @@ Ma quando ci provai, non fu affatto facile. La vegetazione cresceva tra le rocce
 
 THE COMMON FIELD
 
-STEEPNESS AND DIFFICULTY, since it was the watershed between the Mediterranean and the cold North Sea. But I did not know this at the time. It must have taken me close on an hour before I had covered the last thousand feet or so that brought me to the top of the ridge, and there, to my great astonishment, was a road. Where could such a road lead, and why did it follow right along the highest edge of the [[Mountains|mountains]]? The Jura with their unique parallels provide twenty such problems.
+STEEPNESS AND DIFFICULTY, since it was the watershed between the Mediterranean and the cold North Sea. But I did not know this at the time. It must have taken me close on an hour before I had covered the last thousand feet or so that brought me to the top of the ridge, and there, to my great astonishment, was a road. Where could such a road lead, and why did it follow right along the highest edge of the [[settings/mountains|mountains]]? The Jura with their unique parallels provide twenty such problems.
 
 Wherever it led, however, this road was plainly perpendicular to my true route, and I had but to press on my straight line. So I crossed it, saw for a last time through the trees the gorge of the Doubs, and then got upon a path which led down through a field more or less in the direction of my pilgrimage.
 
@@ -7762,7 +7762,7 @@ Here the country was so broken that one could make out but little of its general
 
 The open down or prairie on which I stood I afterwards found to be called the ‘Pasturage of Common Right’, a very fine name; and, as a gallery will command a great hall, so this field like a platform commanded the wide and fading valley below.
 
-It was a very glad surprise to see this sight suddenly unrolled as I stood on the crest of the down. The Jura had hitherto been either lonely, or somewhat awful, or naked and rocky, but here was a true vale in which one could imagine a spirit of its own; there were corn lands and no rocks. The [[Mountains|mountains]] on either
+It was a very glad surprise to see this sight suddenly unrolled as I stood on the crest of the down. The Jura had hitherto been either lonely, or somewhat awful, or naked and rocky, but here was a true vale in which one could imagine a spirit of its own; there were corn lands and no rocks. The [[settings/mountains|mountains]] on either
 
 * * *
 
@@ -7771,7 +7771,7 @@ It was a very glad surprise to see this sight suddenly unrolled as I stood on th
 
 Il campo comune
 
-Pendenza e difficoltà: quel luogo rappresentava infatti il confine tra il Mediterraneo e il freddo Mar del Nord. Ma all’epoca non lo sapevo. Deve essermi servita quasi un’ora per superare gli ultimi mille piedi che mi portavano in cima alla cresta. E lì, con mia grande sorpresa, c’era una strada. Dove poteva condurre una strada del genere, e perché seguiva esattamente il bordo più alto delle [[Mountains|montagne]]? I Monti Giura, con le loro caratteristiche uniche, offrono ben venti di questi enigmi.
+Pendenza e difficoltà: quel luogo rappresentava infatti il confine tra il Mediterraneo e il freddo Mar del Nord. Ma all’epoca non lo sapevo. Deve essermi servita quasi un’ora per superare gli ultimi mille piedi che mi portavano in cima alla cresta. E lì, con mia grande sorpresa, c’era una strada. Dove poteva condurre una strada del genere, e perché seguiva esattamente il bordo più alto delle [[settings/mountains|montagne]]? I Monti Giura, con le loro caratteristiche uniche, offrono ben venti di questi enigmi.
 
 Ovunque portasse, comunque, questa strada era chiaramente perpendicolare alla mia vera rotta, e dovevo semplicemente continuare dritto lungo la linea retta. Così la attraversai, vidi per l’ultima volta, tra gli alberi, la gola del Doubs, e poi imboccai un sentiero che scendeva attraverso un campo, più o meno nella direzione della mia pellegrinazione.
 
@@ -7779,7 +7779,7 @@ Qui il paesaggio era così devastato che si riuscivano a distinguere solo poche 
 
 La pianura aperta su cui mi trovavo si chiamava in realtà “Pascolo di Diritto Comune”, un nome davvero appropriato; e proprio come una galleria domina un grande salone, così questo campo, simile a una piattaforma, dominava la vasta e dolcemente ondulata valle sottostante.
 
-Fu una vera sorpresa gioiosa vedere improvvisamente apparire questa scena mentre mi trovavo sulla cresta della collina. Fino ad allora, la regione dei Giura era stata o desolata, o piuttosto spaventosa, o priva di alberi e ricoperta solo da rocce; ma qui c'era davvero una valle in cui si poteva immaginare che esistesse uno spirito proprio suo: c'erano campi coltivati e nessuna roccia. Le [[Mountains|montagne]] su entrambi i lati.
+Fu una vera sorpresa gioiosa vedere improvvisamente apparire questa scena mentre mi trovavo sulla cresta della collina. Fino ad allora, la regione dei Giura era stata o desolata, o piuttosto spaventosa, o priva di alberi e ricoperta solo da rocce; ma qui c'era davvero una valle in cui si poteva immaginare che esistesse uno spirito proprio suo: c'erano campi coltivati e nessuna roccia. Le [[settings/mountains|montagne]] su entrambi i lati.
 
 * * *
 
@@ -7809,7 +7809,7 @@ AUCTOR. Who else can give benedictions if people cannot when they are on pilgrim
 
 <span class="qlang-split" data-lang="it"></span>
 
-#La marea umana
+La marea umana
 
 La collina non raggiungeva un'altezza superiore ai tremila piedi. Sebbene fosse fatta di calcare, aveva una forma arrotondata; il sole obliquo del tardo pomeriggio (dopo che la tempesta aveva lasciato il cielo sereno) la illuminava pienamente e con calore. La valle, ancora ampia e rigogliosa, si estendeva verso est fino a quando le colline si confondevano nella nebbia e lontananza. Poiché non conoscevo il suo nome, la chiamai così in base al villaggio situato immediatamente sotto di me; ancora oggi la ricordo come la Valle di Glovelier, ed è situata tra la terza e la quarta catena montuosa del Giura.
 
@@ -7859,9 +7859,9 @@ Teoria delle benedizioni
 
 Benedictio Major, se così decidono; ma al di là di questo, ogni loro pensiero, parola o azione rappresenta una sorta di Benedictionio Generalis. Persino i loro cipigli, le maledizioni, gli sguardi arrabbiati e i gesti irritabili possono essere considerati Benedictiones Minores o Incerti. Credo di rientrare perfettamente nelle definizioni fornite; evito qualsiasi forma di eresia: tutto ciò rappresenta una teologia solida e corretta. Non ho nulla a che fare con le pratiche eretiche. E questa sorta di Potere Benedittorio costituisce, per così dire, la fonte o l’origine naturale di tutte le altre forme di questo potere.
 
-# Il funzionario della religione che, nell’esercizio delle sue funzioni…
+Il funzionario della religione che, nell’esercizio delle sue funzioni…
 
-# Lettore… Per l’amor del cielo…
+Lettore… Per l’amor del cielo…
 
 AUTORE: Chi l’ha iniziato? Avete protestato contro il mio potere di concedere benedizioni, e ora devo dimostrarlo appieno; altrimenti verrei accusato di una forma minore di simonia, cioè dell’assunzione fraudolenta di poteri particolari. Ebbene, esiste l’Ufficiale che, per il suo ruolo istituzionale e quando chiarisce esplicitamente che agisce in qualità di “sponsus” e non semplicemente come individuo privato, può concedere benedizioni formali. Questo potere appartiene certamente a tutti i Vescovi, agli Abati e agli Arcimandriti; ovviamente anche ai Patriarchi, e ancora di più al Papa. A Roma si sostiene che anche i Monsignori possano compiere tale attività, e ho sentito dibattere se lo stesso valga, in modo meno formale, anche per alcuni parroci rurali. Comunque sia, tutto il loro potere deriva non da loro stessi, ma dall’accumulo di benevolenza lasciato in eredità dalle numerose persone eccezionalmente buone che sono vissute in passato e che ormai non ne hanno più bisogno.
 
@@ -7906,7 +7906,7 @@ The road led straight across the valley and approached the further wall of hills
 
 While I was occupied sketching the slabs of limestone, I heard wheels coming up behind me, and a boy in a waggon stopped and hailed me.
 
-What the boy wanted to know was whether I would take a lift, and this he said in such curious French that I shuddered to think how far I had pierced into the heart of the hills, and how soon I might come to quite strange people. I was greatly tempted to get into his cart, but though I had broken so many of my vows one remained yet whole and sound, which was that I would ride upon no wheeled thing. Remembering this, therefore, and considering that the [[Faith]] is rich in interpretation, I clung on to the waggon in such a manner that it did all my work for me, and yet could not be said to be actually carrying me. Distinguo. The essence of a vow is its literal meaning. The spirit and intention are for the major morality, and concern Natural Religion, but when upon a point of ritual or of dedication or special worship a man talks to you of the Spirit and Intention, and complains of the dryness of the Word, look at him askance. He is not far removed from Heresy.
+What the boy wanted to know was whether I would take a lift, and this he said in such curious French that I shuddered to think how far I had pierced into the heart of the hills, and how soon I might come to quite strange people. I was greatly tempted to get into his cart, but though I had broken so many of my vows one remained yet whole and sound, which was that I would ride upon no wheeled thing. Remembering this, therefore, and considering that the [[concepts/faith|Faith]] is rich in interpretation, I clung on to the waggon in such a manner that it did all my work for me, and yet could not be said to be actually carrying me. Distinguo. The essence of a vow is its literal meaning. The spirit and intention are for the major morality, and concern Natural Religion, but when upon a point of ritual or of dedication or special worship a man talks to you of the Spirit and Intention, and complains of the dryness of the Word, look at him askance. He is not far removed from Heresy.
 
 I knew a man once that was given to drinking, and I made up this rule for him to distinguish between Bacchus and the Devil. To wit: that he should never drink what has been made and sold since the Reformation — I mean especially
 
@@ -7941,7 +7941,7 @@ La strada attraversava dritta la valle e si avvicinava al successivo gruppo di c
 
 Mentre ero impegnato a disegnare le lastre di calcare, sentii delle ruote avvicinarsi da dietro; un ragazzo su un carretto si fermò e mi chiamò.
 
-Quello che il ragazzo voleva sapere era se avrei accettato un passaggio in carrozza; lo disse usando un francese così curioso che rabbrividii al pensiero di quanto fossi ormai penetrato nel cuore di quelle montagne, e di quanto presto potessi incontrare persone davvero strane. Ero molto tentato di salire sulla sua carrozza, ma sebbene avessi infranto molti dei miei voti, uno rimaneva ancora intatto: non avrei mai viaggiato su nulla a ruote. Ricordando questo, e considerando che la [[Faith|Fede]] offre molte possibilità di interpretazione, mi aggrappai alla carrozza in modo tale che essa facesse tutto il lavoro al mio posto, senza però potersi dire davvero che mi stesse trasportando. La sostanza di un voto è il suo significato letterale; lo spirito e l’intenzione servono invece a promuovere la morale e riguardano la Religione Naturale. Ma quando qualcuno, in merito a questioni rituali o di devozione, parla dello “spirito” e dell’“intenzione”, lamentandosi della “seccità delle parole”, bisogna guardarlo con sospetto. Non è lontano dall’eresia.
+Quello che il ragazzo voleva sapere era se avrei accettato un passaggio in carrozza; lo disse usando un francese così curioso che rabbrividii al pensiero di quanto fossi ormai penetrato nel cuore di quelle montagne, e di quanto presto potessi incontrare persone davvero strane. Ero molto tentato di salire sulla sua carrozza, ma sebbene avessi infranto molti dei miei voti, uno rimaneva ancora intatto: non avrei mai viaggiato su nulla a ruote. Ricordando questo, e considerando che la [[concepts/faith|Fede]] offre molte possibilità di interpretazione, mi aggrappai alla carrozza in modo tale che essa facesse tutto il lavoro al mio posto, senza però potersi dire davvero che mi stesse trasportando. La sostanza di un voto è il suo significato letterale; lo spirito e l’intenzione servono invece a promuovere la morale e riguardano la Religione Naturale. Ma quando qualcuno, in merito a questioni rituali o di devozione, parla dello “spirito” e dell’“intenzione”, lamentandosi della “seccità delle parole”, bisogna guardarlo con sospetto. Non è lontano dall’eresia.
 
 Conoscevo un uomo che aveva l’abitudine di bere molto; per aiutarlo a distinguere tra Bacchus e il Diavolo, gli stabilii questa regola: non doveva mai bere nulla che fosse stato prodotto e venduto dopo la Riforma. Intendo soprattutto.
 
@@ -7971,7 +7971,7 @@ A cigar is, however, even in Undervelier, a cigar; and the best cost a penny. On
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Litterale Promessa
+Litterale Promessa
 
 SPIRITI E CHAMPAGNE. Lasciatelo bere vino rosso e bianco, buona birra e miele – se riuscisse a trovarli – liquori prodotti da monaci, insomma tutte quelle bevande che nutrono, rafforzano e corroborano il corpo; ma niente whisky, brandy, vini spumanti, assenzio né gin. Lui promise di farlo, e tutto andò bene. Diventò un compagno piacevole e iniziò a scrivere odi; la sua prosa divenne chiara e limpida, dopo essere stata prima molto confusa e oscura. Dormiva bene, comprendeva le cose divine. Era già quasi un repubblicano, quando arrivò quel giorno fatale: era la festa delle undicimila vergini, e loro erano troppo impegnate in cielo per pensare alle nostre esigenze, poveri esseri imperfetti e peccaminosi. Andai con lui alla “Società per la Prevenzione delle Annoiezioni dei Ricchi”, dove un certo figlio di usuraio avrebbe dovuto leggere un discorso sulla crudeltà degli spagnoli verso i loro muli. Mentre eravamo tutti seduti attorno a un tavolo coperto da una tovaglia verde, con un maledetto lampadario appeso sopra, il padrone di casa gli offrì whisky e acqua. E, dato che avevo le spalle voltate, lui li prese. Poi, quando cercai di riprenderglieli, disse queste parole.
 
@@ -7992,34 +7992,34 @@ Un sigaro, comunque, anche ad Undervelier, è pur sempre un sigaro; e i migliori
 <span class="atom-split" data-atom="story_134_on_the_faith" data-title="The Path to Rome — On The Faith" data-chapter="On The Faith" data-kind="story" data-tags="concept/faith,histref/catholic_church"></span>
 
 
-ON THE [[Faith|FAITH]]
+ON THE [[concepts/faith|FAITH]]
 
 AS I LEANED there resting and communing I noticed how their church, close at hand, was built along the low banks of the torrent. I admired the luxuriance of the grass these waters fed, and the generous arch of the trees beside it. The graves seemed set in a natural place of rest and home, and just beyond this churchyard was that marriage of hewn stone and water which is the source of so peculiar a satisfaction; for the church tower was built boldly right out into the stream and the current went eddying round it. But why it is that strong human building when it dips into water should thus affect the mind I cannot say, only I know that it is an emotion apart to see our device and structure where it is most enduring come up against and challenge that element which we cannot conquer, and which has always in it something of danger for men. It is therefore well to put strong mouldings on to piers and quays, and to make an architecture of them, and so it was a splendid thought of the Romans to build their villas right out to sea; so they say does Venice enthrall one, but where I have most noticed this thing is at the Mont St Michel — only one must take care to shut one’s eyes or sleep during all the low tide.
 
-As I was watching that stream against those old stones, my cigar being now half smoked, a bell began tolling, and it seemed as if the whole village were pouring into the church. At this I was very much surprised, not having been used at any time of my life to the unanimous devotion of an entire population, but having always thought of the [[Faith]] as something fighting odds, and having seen unanimity only in places where some sham religion or other glozed over our tragedies and excused our sins. Certainly to see all the men, women, and children of a place taking Catholicism for granted was a new sight, and so I put my cigar carefully down under a stone on the top of the wall and went in with them. I then saw that what they were at was vespers.
+As I was watching that stream against those old stones, my cigar being now half smoked, a bell began tolling, and it seemed as if the whole village were pouring into the church. At this I was very much surprised, not having been used at any time of my life to the unanimous devotion of an entire population, but having always thought of the [[concepts/faith|Faith]] as something fighting odds, and having seen unanimity only in places where some sham religion or other glozed over our tragedies and excused our sins. Certainly to see all the men, women, and children of a place taking Catholicism for granted was a new sight, and so I put my cigar carefully down under a stone on the top of the wall and went in with them. I then saw that what they were at was vespers.
 
 All the village sang, knowing the psalms very well, and I noticed that their Latin was nearer German than French; but what was most pleasing of all was to hear from all the men and women together that very noble good-night and salutation to God which begins —
 
 Te, lucis ante terminum.
 
-My whole mind was taken up and transfigured by this collective act, and I saw for a moment the [[Catholic Church]] quite plain, and I remembered Europe, and the centuries. Then there left me altogether that attitude of difficulty and combat which, for us others, is always associated with the [[Faith]]. The cities dwindled in my imagination, and I took less heed of the modern noise. I went out with them into the clear evening and the cool. I found my cigar and lit it again, and musing much more deeply than before, not without tears, I considered the nature of Belief.
+My whole mind was taken up and transfigured by this collective act, and I saw for a moment the [[historical-references/catholic-church|Catholic Church]] quite plain, and I remembered Europe, and the centuries. Then there left me altogether that attitude of difficulty and combat which, for us others, is always associated with the [[concepts/faith|Faith]]. The cities dwindled in my imagination, and I took less heed of the modern noise. I went out with them into the clear evening and the cool. I found my cigar and lit it again, and musing much more deeply than before, not without tears, I considered the nature of Belief.
 
 * * *
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-Sulla [[Faith|>fede]]
+Sulla [[concepts/faith|>fede]]
 
 Mentre mi appoggiavo lì in riposo e riflettevo, notai come la loro chiesa, situata proprio lì vicino, fosse costruita lungo le rive basse del torrente. Ammirai la rigogliosità dell’erba che quelle acque nutrivano, nonché l’ampio arco formato dagli alberi intorno ad essa. Le tombe sembravano essere collocate in un luogo naturale di riposo e tranquillità; proprio oltre quel cimitero si trovava quell’unione di pietra lavorata e acqua che rappresentava una fonte di straordinaria soddisfazione: infatti, la torre della chiesa si ergeva con audacia direttamente nel corso d’acqua, il quale vi scorreva intorno in mulinelli. Ma non so spiegare esattamente perché un edificio umano così solido, quando entra in contatto con l’acqua, possa avere un tale effetto sull’animo. So solo che è davvero emozionante vedere le nostre strutture, create dall’uomo per durare nel tempo, confrontarsi e sfidare quell’elemento che non riusciamo a dominare e che rappresenta sempre un certo pericolo per gli esseri umani. Per questo motivo è giusto dotare moli e banchine di solide strutture architettoniche; i Romani, ad esempio, ebbero l’intuizione geniale di costruire le loro ville proprio sul mare. Si dice che Venezia abbia lo stesso effetto incantevole. Ma dove ho notato questo fenomeno in modo particolare è al Mont Saint-Michel: bisogna però fare attenzione a chiudere gli occhi o addormentarsi durante le basse maree.
 
-Mentre guardavo quella trasmissione davanti a quelle vecchie pietre, il mio sigaro era ormai semi-fumato quando improvvisamente una campana iniziò a suonare; sembrava che l’intero villaggio si stesse riversando nella chiesa. Fui molto sorpreso: in tutta la mia vita non avevo mai assistito a un simile esempio di devozione condivisa da tutta la popolazione; anzi, avevo sempre considerato la [[Faith|Fede]] come qualcosa che lotta contro le avversità, e avevo visto l’unanimità soltanto in luoghi dove qualche religione fasulla cercava di mascherare le nostre tragedie e giustificare i nostri peccati. Vedere tutti gli uomini, le donne e i bambini di quel posto accettare il Cattolicesimo come qualcosa di scontato era davvero una novità; così posai con cura il mio sigaro sotto una pietra in cima al muro e entrai insieme a loro. In quel momento capii che stavano partecipando alle vespere.
+Mentre guardavo quella trasmissione davanti a quelle vecchie pietre, il mio sigaro era ormai semi-fumato quando improvvisamente una campana iniziò a suonare; sembrava che l’intero villaggio si stesse riversando nella chiesa. Fui molto sorpreso: in tutta la mia vita non avevo mai assistito a un simile esempio di devozione condivisa da tutta la popolazione; anzi, avevo sempre considerato la [[concepts/faith|Fede]] come qualcosa che lotta contro le avversità, e avevo visto l’unanimità soltanto in luoghi dove qualche religione fasulla cercava di mascherare le nostre tragedie e giustificare i nostri peccati. Vedere tutti gli uomini, le donne e i bambini di quel posto accettare il Cattolicesimo come qualcosa di scontato era davvero una novità; così posai con cura il mio sigaro sotto una pietra in cima al muro e entrai insieme a loro. In quel momento capii che stavano partecipando alle vespere.
 
 Tutto il villaggio cantava, conoscendo molto bene i salmi, e notai che il loro latino assomigliava di più al tedesco che al francese; ma ciò che era davvero più piacevole era ascoltare, pronunciato insieme da tutti gli uomini e le donne, quel nobile “buonanotte” e quella preghiera rivolta a Dio che inizia con.
 
 A te, luce prima che scada la notte.
 
-Tutta la mia mente fu assorbita e trasformata da questo atto collettivo; per un momento vidi la [[Catholic Church|Chiesa Cattolica]] in modo molto chiaro, e ricordai l’Europa, i secoli passati. Poi, completamente, abbandonai quell’atteggiamento di difficoltà e di lotta che, per noi altri, è sempre associato alla [[Faith|>Fede]]. Le città svanirono nella mia immaginazione, e prestai meno attenzione al rumore moderno. Uscii con loro nel fresco della sera; trovai il mio sigaro e lo accesi di nuovo. Riflettendo molto più profondamente di prima, e non senza lacrime, considerai la natura della Fede.
+Tutta la mia mente fu assorbita e trasformata da questo atto collettivo; per un momento vidi la [[historical-references/catholic-church|Chiesa Cattolica]] in modo molto chiaro, e ricordai l’Europa, i secoli passati. Poi, completamente, abbandonai quell’atteggiamento di difficoltà e di lotta che, per noi altri, è sempre associato alla [[concepts/faith|>Fede]]. Le città svanirono nella mia immaginazione, e prestai meno attenzione al rumore moderno. Uscii con loro nel fresco della sera; trovai il mio sigaro e lo accesi di nuovo. Riflettendo molto più profondamente di prima, e non senza lacrime, considerai la natura della Fede.
 
 * * *
 
@@ -8028,19 +8028,19 @@ Tutta la mia mente fu assorbita e trasformata da questo atto collettivo; per un 
 <span class="atom-split" data-atom="story_135_still_on_faith" data-title="The Path to Rome — Still On Faith" data-chapter="Still On Faith" data-kind="story" data-tags="concept/faith"></span>
 
 
-STILL ON [[Faith|FAITH]]
+STILL ON [[concepts/faith|FAITH]]
 
 Of its nature it breeds a reaction and an indifference. Those who believe nothing but only think and judge cannot understand this. Of its nature it struggles with us. And we, we, when our youth is full on us, invariably reject it and set out in the sunlight content with natural things. Then for a long time we are like men who follow down the cleft of a mountain and the peaks are hidden from us and forgotten. It takes years to reach the dry plain, and then we look back and see our home.
 
 What is it, do you think, that causes the return? I think it is the problem of living; for every day, every experience of evil, demands a solution. That solution is provided by the memory of the great scheme which at last we remember. Our childhood pierces through again ... But I will not attempt to explain it, for I have not the power; only I know that we who return suffer hard things; for there grows a gulf between us and many companions. We are perpetually thrust into minorities, and the world almost begins to talk a strange language; we are troubled by the human machinery of a perfect and superhuman revelation; we are over-anxious for its safety, alarmed, and in danger of violent decisions.
 
-And this is hard: that the [[Faith]] begins to make one abandon the old way of judging. Averages and movements and the rest grow uncertain. We see things from within and consider one mind or a little group as a salt or leaven. The very nature of social force seems changed to us. And this is hard when a man has loved common views and is happy only with his fellows.
+And this is hard: that the [[concepts/faith|Faith]] begins to make one abandon the old way of judging. Averages and movements and the rest grow uncertain. We see things from within and consider one mind or a little group as a salt or leaven. The very nature of social force seems changed to us. And this is hard when a man has loved common views and is happy only with his fellows.
 
 And this again is very hard, that we must once more take up that awful struggle to reconcile two truths and to keep civic freedom sacred in spite of the organization of religion, and not to deny what is certainly true. It is hard to accept mysteries, and to be humble. We are tost as the great schoolmen were tost, and we dare not neglect the duty of that wrestling.
 
 But the hardest thing of all is that it leads us away, as by a command, from all that banquet of the intellect than which there is no keener joy known to man.
 
-I went slowly up the village place in the dusk, thinking of this deplorable weakness in men that the [[Faith]] is too great for them, and accepting it as an inevitable burden. I continued to muse with my eyes upon the ground ...
+I went slowly up the village place in the dusk, thinking of this deplorable weakness in men that the [[concepts/faith|Faith]] is too great for them, and accepting it as an inevitable burden. I continued to muse with my eyes upon the ground ...
 
 There was to be no more of that studious content, that security in historic analysis, and that constant satisfaction of an appetite which never cloyed. A wisdom more imperative and more profound was to put a term to the comfortable wisdom of learning. All the balance of judgement, the easy, slow convictions, the broad grasp of things, the vision of their complexity, the pleasure in their innumerable life — all that had to be given up. Fanaticisms were no longer entirely to be despised, just appreciations and a strong grasp of reality no longer entirely to be admired.
 
@@ -8049,19 +8049,19 @@ There was to be no more of that studious content, that security in historic anal
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ancora fedele alla [[Faith|fede]].
+Ancora fedele alla [[concepts/faith|fede]].
 
 Per sua natura, genera reazioni e indifferenza. Coloro che non credono in nulla, ma solo pensano e giudicano, non possono comprenderlo. Per sua natura, lotta contro di noi. E noi, quando la nostra giovinezza è al suo apice, inevitabilmente lo rifiutiamo e ci dirigiamo verso la luce del sole, soddisfatti delle cose naturali. Poi, per molto tempo, siamo come uomini che seguono il corso di una fessura montana: le cime ci sono nascoste e dimenticate. Ci vogliono anni per raggiungere la pianura arida. E solo allora guardiamo indietro e vediamo la nostra “casa”.
 
 Cosa pensi che causi questo ritorno? Penso che sia il problema stesso della vita: ogni giorno, ogni esperienza negativa richiede una soluzione. Quella soluzione viene fornita dal ricordo di quel grande disegno che, alla fine, riusciamo a ricordare. La nostra infanzia riemerge di nuovo. Ma non cercherò di spiegarlo, perché non ne ho il potere; so solo che coloro che ritornano subiscono molte sofferenze: si crea un abisso tra noi e molti dei nostri compagni. Siamo costantemente messi in minoranza, e il mondo sembra parlare una lingua strana; siamo turbati dal meccanismo umano che è alla base di questa rivelazione perfetta e sovrumana; siamo estremamente preoccupati per la sua sicurezza, allarmati, e esposti al rischio di prendere decisioni violente.
 
-E questo è difficile: che la [[Faith|>Fede]] induca una persona ad abbandonare il vecchio modo di giudicare. Le medie, i movimenti e tutto il resto diventano incerti. Vediamo le cose dal punto di vista interno e consideriamo un’unica mente o un piccolo gruppo come “sale” o “lievito”. La stessa natura della forza sociale ci sembra cambiata. E questo è difficile quando una persona ha sempre amato le opinioni comuni e si sente felice solo in compagnia dei suoi simili.
+E questo è difficile: che la [[concepts/faith|>Fede]] induca una persona ad abbandonare il vecchio modo di giudicare. Le medie, i movimenti e tutto il resto diventano incerti. Vediamo le cose dal punto di vista interno e consideriamo un’unica mente o un piccolo gruppo come “sale” o “lievito”. La stessa natura della forza sociale ci sembra cambiata. E questo è difficile quando una persona ha sempre amato le opinioni comuni e si sente felice solo in compagnia dei suoi simili.
 
 Ed ancora una volta è molto difficile: dobbiamo riprendere quella terribile lotta per conciliare due verità e mantenere sacra la libertà civile nonostante l’esistenza delle organizzazioni religiose, senza negare ciò che è certamente vero. È difficile accettare i misteri e essere umili. Dobbiamo impegnarci con lo stesso impegno dei grandi studiosi del passato, e non osiamo trascurare il dovere di questa lotta continua.
 
 Ma la cosa più difficile di tutte è che ci allontana, come se fosse un ordine, da tutto quel banchetto dell’intelletto dal quale l’uomo non conosce gioia più intensa.
 
-Salii lentamente lungo la piazza del villaggio al crepuscolo, riflettendo su questa deplorevole debolezza umana: la [[Faith|>Fede]] è troppo grande per noi, e dobbiamo accettarla come un fardello inevitabile. Continuai a meditare, con lo sguardo fisso sul terreno.
+Salii lentamente lungo la piazza del villaggio al crepuscolo, riflettendo su questa deplorevole debolezza umana: la [[concepts/faith|>Fede]] è troppo grande per noi, e dobbiamo accettarla come un fardello inevitabile. Continuai a meditare, con lo sguardo fisso sul terreno.
 
 Non doveva più esserci quel modo di studiare con attenzione, quella sicurezza nell’analisi storica, quella costante soddisfazione di un appetito che mai si saziava. Era necessaria una saggezza più imperativa e più profonda per porre fine a quella comoda saggezza derivante dall’apprendimento. Tutto l’equilibrio nel giudizio, le convinzioni lente e serene, la comprensione ampia delle cose, la visione della loro complessità, il piacere che derivava dalla loro innumerevole varietà, tutto ciò doveva essere abbandonato. I fanatismi non potevano più essere completamente disprezzati; allo stesso modo, le apprezzazioni sincere e una forte comprensione della realtà non potevano più essere considerate semplicemente meritevoli di ammirazione.
 
@@ -8074,11 +8074,11 @@ Non doveva più esserci quel modo di studiare con attenzione, quella sicurezza n
 
 ON STYLE
 
-THE [[Catholic Church|CATHOLIC CHURCH]] will have no philosophies. She will permit no comforts; the cry of the martyrs is in her far voice; her eyes that see beyond the world present us heaven and hell to the confusion of our human reconciliations, our happy blending of good and evil things.
+THE [[historical-references/catholic-church|CATHOLIC CHURCH]] will have no philosophies. She will permit no comforts; the cry of the martyrs is in her far voice; her eyes that see beyond the world present us heaven and hell to the confusion of our human reconciliations, our happy blending of good and evil things.
 
 By the Lord! I begin to think this intimate religion as tragic as a great love. There came back into my mind a relic that I have in my house. It is a panel of the old door of my college, having carved on it my college arms. I remembered the Lion and the Shield, Haec fuit, Haec almae janua sacra domus. Yes, certainly religion is as tragic as first love, and drags us out into the void away from our dear homes.
 
-It is a good thing to have loved one woman from a child, and it is a good thing not to have to return to the [[Faith]].
+It is a good thing to have loved one woman from a child, and it is a good thing not to have to return to the [[concepts/faith|Faith]].
 
 They cook worse in Undervelier than any place I was ever in, with the possible exception of Omaha, Neb.
 
@@ -8093,13 +8093,13 @@ Oh, for one man who should write healthy, hearty, straightforward English! Oh, f
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Sullo stile
+Sullo stile
 
-La [[Catholic Church|Chiesa Cattolica]] non adotta alcuna filosofia; non permette alcun comfort; il grido dei martiri risuona nella sua voce profonda; i suoi occhi, che vedono al di là del mondo presente, ci mostrano il cielo e l’inferno, confondendo le nostre riconciliazioni umane, la nostra felice fusione tra bene e male.
+La [[historical-references/catholic-church|Chiesa Cattolica]] non adotta alcuna filosofia; non permette alcun comfort; il grido dei martiri risuona nella sua voce profonda; i suoi occhi, che vedono al di là del mondo presente, ci mostrano il cielo e l’inferno, confondendo le nostre riconciliazioni umane, la nostra felice fusione tra bene e male.
 
 Per il Signore! Inizio a considerare questa religione intima tanto tragica quanto un grande amore. Mi è tornata in mente una reliquia che ho in casa: si tratta di un pannello dell’antica porta del mio college, su cui sono incisi gli stemmi della mia università. Ricordo il Leone e lo Scudo, “Haec fuit, Haec almae janua sacra domus”. Sì, certamente la religione è tanto tragica quanto l’amore adolescenziale, e ci trascina nel vuoto, lontano dalle nostre care case.
 
-È una cosa positiva aver amato una donna fin da piccolo, ed è anche una cosa positiva non dover più tornare alla [[Faith|>Fede]].
+È una cosa positiva aver amato una donna fin da piccolo, ed è anche una cosa positiva non dover più tornare alla [[concepts/faith|>Fede]].
 
 A Undervelier cucinano peggio di qualsiasi altro posto in cui io sia mai stato, forse ad eccezione di Omaha, nel Nebraska.
 
@@ -8157,7 +8157,7 @@ La valle in cui mi trovavo ora. Quella frase sembra familiare. Assomigliava più
 
 Quando arrivai in cima alla cresta, vidi un giovane che stava tagliando la legna fuori da una casa; gli chiesi in francese a quale distanza si trovasse Moutier. Lui rispose in tedesco, e io lo spaventai gridando ad alta voce, come fanno i marinai quando vedono terra. Finalmente avevo raggiunto il confine tra le diverse lingue, e per la prima volta nella mia vita mi trovavo circondato esclusivamente da stranieri. Gli chiesi anche del caffè; poiché me lo rifiutò, pensai che fosse un eretico, e proseguii lungo la strada componeendo versi contro di lui. Li cantavo ad alta voce attraverso la foresta, che ora si innalzava sopra di me diventando sempre più fitta man mano che scendevo.
 
-# E la mia prima strofa fu…
+E la mia prima strofa fu…
 
 Eretici tutti voi, che siate a Tarbes o a Nîmes, o al di là del mare, mai riceverete parole gentili da me. La carità non mi turba.
 
@@ -8273,7 +8273,7 @@ La vita si svolge sul piano del soprannaturale. Notate quella frase: è come un 
 
 La vita di tutti i giorni! Come disse La Croix in un famoso articolo di prima pagina: “‘La Presse’? Bah!” Conosco bene quella vita di tutti i giorni. È fatta di sandali e foto di persone magre, brutte e tutte uguali, ritratte su fotografie marroni appese ai muri; queste foto vengono chiamate “La Casa della Vita”, “Il Luogo Bello” o ancora “La Lampada della Valle”. Quando ci si lamenta e si si muove a disagio davanti a queste immagini, i loro proprietari, dal modo di pensare meschino e dall’anima polverosa, dicono che, naturalmente, nelle foto si perde il meraviglioso colore originale delle cose. In questa vita quotidiana, i camini sono fatti dello stesso materiale dei tavoli dei caffè; per istinto, quindi, provo a fare dei cerchi sul loro legno con il mio bicchiere di vino. Le persone che devono sopportare questa vita si alzano ogni mattina alle otto, lavorano in lavori miserabili e tornano a casa per ascoltare ancora più letteratura e lodi. Le donne disoneste non fanno nulla e si occupano solo delle attività del governo locale, cioè dell’oppressione dei poveri. In definitiva, tutta questa maledetta vita quotidiana è intrisa dai quattro peccati che gridano al cielo per vendetta; in essa non c’è umanità, semplicità né ricordi. Conosco interi quartieri di città dove le persone non hanno mai sentito parlare di Virtù, Vergogna o Pietà.
 
-# Lettore… E poi?
+Lettore… E poi?
 
 AUTORE: Ahimè! Ahimè, caro Lettore. In queste case non c’è nemmeno un po’ di pulizia onesta. Né una bottiglia di vino buono o cattivo; nessun libro ereditato dallo zio, né libri per bambini scritti da Mrs Barbauld o Miss Edgeworth; nessun segno di disordine domestico, nulla di quel comfort che rende la casa di un uomo davvero accogliente. Non hanno debiti, non leggono a letto. E avranno molte difficoltà a salvare le loro anime.
 
@@ -8331,7 +8331,7 @@ AUCTOR. Well, it was a short play and modern, was it not?
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Giochi senza parole
+Giochi senza parole
 
 LETTORE: Non posso andare avanti in questo modo.
 
@@ -8427,7 +8427,7 @@ Then I went out into the sunlight, and crossing over running water put myself ou
 
 <span class="qlang-split" data-lang="it"></span>
 
-# I mulini di Dio
+I mulini di Dio
 
 “Ecco, padre,” disse il ragazzo, “questo è la prova che anche la persona più mite può essere spinta alla disperazione dalle catene di cui parlo. E prego che non le impieghiate mai più su di me.”
 
@@ -8473,7 +8473,7 @@ What was it I saw? If you think I saw this or that, and if you think I am invent
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Tra gli alberi
+Tra gli alberi
 
 Il bosco si oscurò improvvisamente; il sentiero si diramava in ogni direzione, così che presto non fui più sicuro della strada da seguire. Tuttavia continuai a procedere lungo quella che mi sembrava la direzione più meridionale, fino a quando non raggiunsi improvvisamente una ripida discesa o una gola che terminava in cima alla cresta della collina.
 
@@ -8553,7 +8553,7 @@ Then you will say, if I felt all this, why do I draw it, and put it in my book, 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# I Monti Alpi, il loro ritratto
+I Monti Alpi, il loro ritratto
 
 ADORAZIONE. Lassù, il cielo sopra e sotto di noi, parte del cielo, ma anche parte di noi stessi: quelle grandi cime creano un legame tra quella parte di me che ama i vigneti e danza, che si muove lentamente tra i pascoli, e quell’altra parte che trova davvero il proprio posto solo in Cielo. Dico che questo tipo di descrizione è inutile. È meglio rivolgere preghiere a queste cose, piuttosto che cercare di interpretarle per gli altri.
 
@@ -8585,7 +8585,7 @@ I was an hour or more going down the enormous face of the Jura, which is here an
 
 <span class="qlang-split" data-lang="it"></span>
 
-# La Scogliera
+La Scogliera
 
 Questo è più o meno lo stesso che una canzone stampata piena di errori tipografici rispetto alla stessa canzone cantata da un esercito in marcia. E mi consolo pensando che, se potessi disegnare infinitamente bene, allora tentare di rappresentare quella scena sarebbe considerato un sacrilegio. Inoltre, non intendo perdere altro tempo a spiegare perché ho inserito questo piccolo disegno. Se disturba la vostra concezione di ciò che ho visto, copritelo semplicemente con un po’ di carta. L’ho fatto piccolo apposta; ma ricordatevi che la carta deve essere sottile e opaca: quella spessa interferirebbe con la forma di questo libro, mentre quella trasparente vi creerebbe solo distrazioni, richiamandovi l’immagine stessa.
 
@@ -8604,34 +8604,34 @@ SOLEURE
 
 men can pick their way. It was when I was about half-way down the mountain side that its vastness most impressed me. And yet it had been but a platform as it were, from which to view the Alps and their much greater sublimity.
 
-This vastness, even of these limestone [[Mountains|mountains]], took me especially at a place where the path bordered a steep, or rather precipitous, lift of white rock to which only here and there a tree could cling.
+This vastness, even of these limestone [[settings/mountains|mountains]], took me especially at a place where the path bordered a steep, or rather precipitous, lift of white rock to which only here and there a tree could cling.
 
-I was still very high up, but looking somewhat more eastward than before, and the plain went on inimitably towards some low vague hills; nor in that direction could any snow be seen in the sky. Then at last I came to the slopes which make a little bank under the [[Mountains|mountains]], and there, finding a highroad, and oppressed somewhat suddenly by the afternoon heat of those low places, I went on more slowly towards Soleure.
+I was still very high up, but looking somewhat more eastward than before, and the plain went on inimitably towards some low vague hills; nor in that direction could any snow be seen in the sky. Then at last I came to the slopes which make a little bank under the [[settings/mountains|mountains]], and there, finding a highroad, and oppressed somewhat suddenly by the afternoon heat of those low places, I went on more slowly towards Soleure.
 
 Beside me, on the road, were many houses, shaded by great trees, built of wood, and standing apart. To each of them almost was a little water-wheel, run by the spring which came down out of the ravine. The water-wheel in most cases worked a simple little machine for sawing planks, but in other cases it seemed used for some purpose inside the house, which I could not divine; perhaps for spinning.
 
 All this place was full of working, and the men sang and spoke at their work in German, which I could not understand. I did indeed find one man, a young hay-making man carrying a scythe, who knew a little French and was going my way. I asked him, therefore, to teach me German, but he had not taught me much before we were at the gates of the old town and then I left him. It is thus, you will see, that for my next four days or five, which were passed among the German-speaking Swiss, I was utterly alone.
 
-This book must not go on for ever; therefore I cannot say very much about Soleure, although there is a great deal to be said about it. It is distinguished by an impression of unity, and of civic life, which I had already discovered in all these Swiss towns; for though men talk of finding the Middle Ages here or there, I for my part never find it, save where there has been democracy to preserve it. Thus I have seen the Middle Ages especially alive in the small towns of Northern [[France]], and I have seen the Middle Ages in the University of Paris. Here also in Switzerland. As I had seen it at St Ursanne, so I found it now at Soleure. There were huge gates flanking the town, and there was that evening a continual noise of rifles, at which the Swiss are for ever practising. Over the church, however, I saw something terribly seventeenth century, namely, Jaweh in great Hebrew letters upon its front.
+This book must not go on for ever; therefore I cannot say very much about Soleure, although there is a great deal to be said about it. It is distinguished by an impression of unity, and of civic life, which I had already discovered in all these Swiss towns; for though men talk of finding the Middle Ages here or there, I for my part never find it, save where there has been democracy to preserve it. Thus I have seen the Middle Ages especially alive in the small towns of Northern [[settings/france|France]], and I have seen the Middle Ages in the University of Paris. Here also in Switzerland. As I had seen it at St Ursanne, so I found it now at Soleure. There were huge gates flanking the town, and there was that evening a continual noise of rifles, at which the Swiss are for ever practising. Over the church, however, I saw something terribly seventeenth century, namely, Jaweh in great Hebrew letters upon its front.
 
 * * *
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Soleure
+Soleure
 
 Gli uomini possono scegliere il loro percorso. Fu quando ero circa a metà della discesa lungo la montagna che la sua vastità mi colpì davvero profondamente. Eppure, in realtà, non era altro che una sorta di piattaforma da cui osservare le Alpi e la loro ancora maggiore maestosità.
 
 Questa vastità, persino di queste montagne di calcare, mi colpì in particolare in un luogo dove il sentiero costeggiava una ripida, anzi quasi verticale, parete di roccia bianca; solo qua e là un albero riusciva a attaccarsi a quella superficie scoscesa.
 
-Ero ancora molto in alto, ma guardando un po' più verso est rispetto a prima, vedevo che la pianura si estendeva senza fine verso alcune basse colline vaghe; nemmeno in quella direzione si scorgeva traccia di neve nel cielo. Alla fine arrivai alle pendici che formavano una piccola cresta sotto le [[Mountains|montagne]]; lì, trovando una strada principale e un po' oppresso dal calore pomeridiano di quelle zone basse, proseguii più lentamente verso Soleure.
+Ero ancora molto in alto, ma guardando un po' più verso est rispetto a prima, vedevo che la pianura si estendeva senza fine verso alcune basse colline vaghe; nemmeno in quella direzione si scorgeva traccia di neve nel cielo. Alla fine arrivai alle pendici che formavano una piccola cresta sotto le [[settings/mountains|montagne]]; lì, trovando una strada principale e un po' oppresso dal calore pomeridiano di quelle zone basse, proseguii più lentamente verso Soleure.
 
 Accanto a me, lungo la strada, c'erano molte case, ombreggiate da grandi alberi, costruite in legno e situate lontane le una dalle altre. Ogni casa aveva quasi sempre un piccolo mulino azionato dall’acqua che scorreva fuori dalla gola. Nella maggior parte dei casi, il mulino serviva a far funzionare una semplice macchina per tagliare assi di legno; in altri casi, sembrava essere utilizzato per qualche scopo all’interno della casa, che non riuscivo a capire. Forse per la filatura.
 
 Questo posto era pieno di persone al lavoro; gli uomini cantavano e parlavano in tedesco mentre svolgevano le loro mansioni, lingua che non riuscivo a comprendere. Infatti, incontrai un giovane che raccoglieva l’erba e portava una falce; conosceva un po’ di francese ed era diretto nella mia stessa direzione. Gli chiesi quindi di insegnarmi il tedesco, ma non ebbe modo di farlo a lungo prima che arrivassimo alle porte della città vecchia; dopo ciò lo lasciai. Ecco come, dunque, nei successivi quattro o cinque giorni trascorsi tra gli svizzeri di lingua tedesca, rimasi completamente solo.
 
-Questo libro non può certo durare all’infinito; quindi non posso dire molto su Soleure, sebbene ci sia molto da dire al suo riguardo. Si distingue per un senso di unità e di vita civica che avevo già notato in tutte queste città svizzere; perché, anche se la gente parla di trovare il Medioevo in questo o quel luogo, io personalmente non lo trovo mai, tranne dove esiste la democrazia per preservarlo. Così ho visto il Medioevo particolarmente vivo nelle piccole città del Nord della [[France|Francia]], e l’ho visto anche all’Università di Parigi. E qui, in Svizzera, anch’esso. Proprio come lo avevo visto a St Ursanne, lo ho ritrovato anche a Soleure: c’erano enormi porte ai lati della città, e quella sera si sentiva un continuo rumore di fucili, su cui i svizzeri si esercitano sempre. Ma sopra la chiesa ho visto qualcosa di decisamente tipico del XVII secolo: cioè il nome “Jaweh” scritto in grandi lettere ebraiche sulla sua facciata.
+Questo libro non può certo durare all’infinito; quindi non posso dire molto su Soleure, sebbene ci sia molto da dire al suo riguardo. Si distingue per un senso di unità e di vita civica che avevo già notato in tutte queste città svizzere; perché, anche se la gente parla di trovare il Medioevo in questo o quel luogo, io personalmente non lo trovo mai, tranne dove esiste la democrazia per preservarlo. Così ho visto il Medioevo particolarmente vivo nelle piccole città del Nord della [[settings/france|Francia]], e l’ho visto anche all’Università di Parigi. E qui, in Svizzera, anch’esso. Proprio come lo avevo visto a St Ursanne, lo ho ritrovato anche a Soleure: c’erano enormi porte ai lati della città, e quella sera si sentiva un continuo rumore di fucili, su cui i svizzeri si esercitano sempre. Ma sopra la chiesa ho visto qualcosa di decisamente tipico del XVII secolo: cioè il nome “Jaweh” scritto in grandi lettere ebraiche sulla sua facciata.
 
 * * *
 
@@ -8672,7 +8672,7 @@ I suppose this place was more untouched, as the phrase goes, that is, more livin
 
 When I had become a little morose at their perpetual laughter, I asked for a bed, and the landlady, a woman of some talent, showed me on her fingers that the beds were 50c., 75c., and a franc. I determined upon the best, and was given indeed a very pleasant room, having in it the statue of a saint, and full of a country air. But I had done too much in this night march, as you will presently learn, for my next day was a day without salt, and in it appreciation left me. And this breakdown of appreciation was due to what I did not know at the time to be fatigue, but to what was undoubtedly a deep inner exhaustion.
 
-When I awoke next morning it was as it always is: no one was awake, and I had the field to myself, to slip out as I chose. I looked out of the window into the [[Dawn|dawn]]. The race had made its own surroundings.
+When I awoke next morning it was as it always is: no one was awake, and I had the field to myself, to slip out as I chose. I looked out of the window into the [[motifs/dawn|dawn]]. The race had made its own surroundings.
 
 These people who suffocated with laughter at the idea of one’s knowing no German, had produced, as it were, a German picture by the mere influence of years and years of similar thoughts.
 
@@ -8691,7 +8691,7 @@ Suppongo che questo posto fosse, per così dire, più intatto, più vivo, più i
 
 Quando il loro incessante ridere iniziò a rendermi un po’ malinconico, chiesi una stanza da letto; la padrona di casa, donna piuttosto intelligente, mi spiegò con le dita che i prezzi delle stanze erano di 50 centesimi, 75 centesimi e un franco. Decisi per quella più costosa e infatti mi fu assegnata una stanza molto piacevole, nella quale c’era la statua di un santo e che aveva un’atmosfera tipicamente rurale. Tuttavia, dopo quella lunga camminata notturna, il giorno seguente trascorse in modo molto difficile: non avevo sale a disposizione, e questo mi causò notevoli problemi. Questo crollo delle mie capacità fisiche e mentali era dovuto, all’epoca, a qualcosa che non riconoscevo come stanchezza, ma senza dubbio a una profonda esaurimento interiore.
 
-Quando mi svegliai la mattina seguente, tutto era come al solito: nessuno era sveglio, e avevo il campo tutto per me; potevo uscire quando volevo. Guardai fuori dalla finestra verso l’[[Dawn|'alba]]. La gara aveva creato i propri ambienti circostanti.
+Quando mi svegliai la mattina seguente, tutto era come al solito: nessuno era sveglio, e avevo il campo tutto per me; potevo uscire quando volevo. Guardai fuori dalla finestra verso l’[[motifs/dawn|'alba]]. La gara aveva creato i propri ambienti circostanti.
 
 Queste persone che scoppiavano a ridere all’idea che qualcuno non sapesse il tedesco, avevano, per così dire, creato un “ritratto” del tedesco semplicemente attraverso l’influenza di anni e anni di pensieri simili.
 
@@ -8712,7 +8712,7 @@ But it was too early for any one to be about, and my German garden, si j’ose m
 
 All that day was destined to be covered, so far as my spirit was concerned, with a motionless lethargy. Nothing seemed properly to interest or to concern me, and not till evening was I visited by any muse. Even my pain (which was now dull and chronic) was no longer a subject for my entertainment, and I suffered from an uneasy isolation that had not the merit of sharpness and was no spur to the mind. I had the feeling that every one I might see would be a stranger, and that their language would be unfamiliar to me, and this, unlike most men who travel, I had never felt before.
 
-The reason being this: that if a man has English thoroughly he can wander over a great part of the world familiarly, and meet men with whom he can talk. And if he has French thoroughly all [[Italy]], and I suppose Spain, certainly Belgium, are open to him. Not perhaps that he will understand what he hears or will be understood of others, but that the order and nature of the words and the gestures accompanying them are his own. Here, however, I, to whom English and French were the same, was to spend (it seemed) whole days among a people who put their verbs at the end, where the curses or the endearments come in French and English, and many of whose words stand for ideas we have not got. I had no room for good-fellowship. I could not sit at tables and expand the air with terrible stories of adventure, nor ask about their politics, nor provoke them to laughter or sadness by my tales. It seemed a poor pilgrimage taken among dumb men.
+The reason being this: that if a man has English thoroughly he can wander over a great part of the world familiarly, and meet men with whom he can talk. And if he has French thoroughly all [[settings/italy|Italy]], and I suppose Spain, certainly Belgium, are open to him. Not perhaps that he will understand what he hears or will be understood of others, but that the order and nature of the words and the gestures accompanying them are his own. Here, however, I, to whom English and French were the same, was to spend (it seemed) whole days among a people who put their verbs at the end, where the curses or the endearments come in French and English, and many of whose words stand for ideas we have not got. I had no room for good-fellowship. I could not sit at tables and expand the air with terrible stories of adventure, nor ask about their politics, nor provoke them to laughter or sadness by my tales. It seemed a poor pilgrimage taken among dumb men.
 
 Also I have no doubt that I had experienced the ebb of some vitality, for it is the saddest thing about us that this bright spirit with which we are lit from within like lanterns, can suffer dimness. Such frailty makes one fear that extinction is our final destiny, and it saps us with numbness, and we are less than ourselves. Seven nights had I been on pilgrimage, and two of them had I passed in the open. Seven great heights had I climbed: the Forest, Archettes, the Ballon, the Mont Terrible, the Watershed, the pass by Moutier, the Weissenstein. Seven depths had I fallen to: twice to the Moselle, the gap of Belfort, the gorge of the Doubs, Glovelier valley, the hole of Moutier, and now this plain of the Aar. I had marched 180 miles. It was no wonder that on this eighth day I was oppressed and that all the light long I drank no good wine,
 
@@ -8729,7 +8729,7 @@ Ma era ancora troppo presto perché qualcuno fosse in giro, e il mio giardino te
 
 Quel giorno intero era destinato, per quanto riguardava il mio spirito, ad essere avvolto in una letargia immobile. Niente sembrava interessarmi o preoccuparmi davvero; solo alla sera qualcosa riuscì a stimolare la mia attenzione. Nemmeno il dolore (che ormai era diventato lento e cronico) rappresentava più un motivo di distrazione per me. Soffrivo di un’isolamento insopportabile, privo della vivacità necessaria per stimolare la mente. Avevo la sensazione che chiunque incontrassi fosse uno sconosciuto, e che il loro linguaggio mi risultasse incomprensibile. Una cosa che, a differenza della maggior parte delle persone che viaggiano, non avevo mai provato prima.
 
-Il motivo è questo: se una persona conosce perfettamente l’inglese, può viaggiare in gran parte del mondo senza problemi e incontrare persone con cui poter conversare. Se invece conosce perfettamente il francese, allora tutta l’[[Italy|Italia]], e probabilmente anche la Spagna e il Belgio, gli sono accessibili. Non necessariamente che riesca a comprendere ciò che sente o che venga compreso da altri, ma almeno che il modo in cui le parole vengono pronunciate e i gesti che le accompagnano siano familiari per lui. Io, invece, per cui inglese e francese erano la stessa cosa, dovevo trascorrere intere giornate tra persone che mettevano i verbi alla fine delle frasi; inoltre, alcune delle loro parole rappresentavano concetti che noi non possedevamo. Non avevo modo di instaurare rapporti amichevoli: non potevo sedermi a tavola e raccontare storie avventurose, né chiedere loro informazioni sulla politica, né farli ridere o piangere con le mie storie. Sembrava una povera “pellegrinazione” tra persone che non riuscivano a comunicare efficacemente con me.
+Il motivo è questo: se una persona conosce perfettamente l’inglese, può viaggiare in gran parte del mondo senza problemi e incontrare persone con cui poter conversare. Se invece conosce perfettamente il francese, allora tutta l’[[settings/italy|Italia]], e probabilmente anche la Spagna e il Belgio, gli sono accessibili. Non necessariamente che riesca a comprendere ciò che sente o che venga compreso da altri, ma almeno che il modo in cui le parole vengono pronunciate e i gesti che le accompagnano siano familiari per lui. Io, invece, per cui inglese e francese erano la stessa cosa, dovevo trascorrere intere giornate tra persone che mettevano i verbi alla fine delle frasi; inoltre, alcune delle loro parole rappresentavano concetti che noi non possedevamo. Non avevo modo di instaurare rapporti amichevoli: non potevo sedermi a tavola e raccontare storie avventurose, né chiedere loro informazioni sulla politica, né farli ridere o piangere con le mie storie. Sembrava una povera “pellegrinazione” tra persone che non riuscivano a comunicare efficacemente con me.
 
 Inoltre, non ho dubbi che abbia sperimentato un declino di vitalità: la cosa più triste riguardo a noi è proprio il fatto che questo spirito luminoso che ci illumina dall’interno, come delle lanterne, possa indebolirsi. Una tale fragilità fa temere che l’estinzione sia il nostro destino finale; ci prosciuga di forze e ci riduce a meno di ciò che siamo veramente. Avevo intrapreso un pellegrinaggio di sette notti, di cui due le avevo trascorse all’aperto. Avevo scalato sette grandi cime: la Foresta, Archettes, il Ballon, il Mont Terrible, il Watershed, il passo vicino a Moutier, Weissenstein. Ero caduto in sette abissi: due volte nel fiume Mosella, nella gola di Belfort, nella valle del Doubs, nella valle di Glovelier, nel burrone di Moutier. E ora mi trovavo su questa pianura dell’Aar. Avevo percorso 180 miglia. Non c’è da meravigliarsi che, in questo ottavo giorno, mi sentissi oppresso, e che non avessi bevuto vino buono per tutto quel tempo.
 
@@ -8742,7 +8742,7 @@ Inoltre, non ho dubbi che abbia sperimentato un declino di vitalità: la cosa pi
 
 DESOLATION
 
-MET NO ONE to remember well, nor sang any songs. All this part of my way was full of what they call Duty, and I was sustained only by my knowledge that the vast [[Mountains|mountains]] (which had disappeared) would be part of my life very soon if I still went on steadily towards Rome.
+MET NO ONE to remember well, nor sang any songs. All this part of my way was full of what they call Duty, and I was sustained only by my knowledge that the vast [[settings/mountains|mountains]] (which had disappeared) would be part of my life very soon if I still went on steadily towards Rome.
 
 The sun had risen when I reached Burgdorf, and I there went to a railway station, and outside of it drank coffee and ate bread. I also bought old newspapers in French, and looked at everything wearily and with sad eyes. There was nothing to draw. How can a man draw pain in the foot and knee? And that was all there was remarkable at that moment.
 
@@ -8759,7 +8759,7 @@ Here you see that there is no possibility of following the straight way to Rome,
 
 Desolazione
 
-Non incontrai nessuno che potesse ricordarmi bene, né cantai alcuna canzone. Tutta questa parte del mio viaggio era piena di ciò che loro chiamano “Dovere”; fui sostenuto soltanto dal pensiero che le vaste [[Mountains|montagne]] (che ormai erano scomparse) sarebbero presto tornate a far parte della mia vita, se avessi continuato costantemente verso Roma.
+Non incontrai nessuno che potesse ricordarmi bene, né cantai alcuna canzone. Tutta questa parte del mio viaggio era piena di ciò che loro chiamano “Dovere”; fui sostenuto soltanto dal pensiero che le vaste [[settings/mountains|montagne]] (che ormai erano scomparse) sarebbero presto tornate a far parte della mia vita, se avessi continuato costantemente verso Roma.
 
 Il sole era già sorto quando arrivai a Burgdorf; andai subito in una stazione ferroviaria, dove bevvi caffè e mangiai del pane. Comprai anche vecchi giornali in francese e li lessi con occhi stanchi e tristi. Non c’era nulla di interessante da disegnare. Come può un uomo rappresentare il dolore che si prova nei piedi o nelle ginocchia? E quello era tutto ciò che meritava attenzione in quel momento.
 
@@ -8799,7 +8799,7 @@ Until there rose a deep-voiced man from an outlying college, who said, ‘For my
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Un giorno senza sale
+Un giorno senza sale
 
 EMMEN. Pertanto, si potrebbe seguire il corso dell’Emmen fino in cima. Ma sembrava che quel percorso risalisse oltre una gola, mentre l’altro, altrettanto dritto, presentasse strade in buone condizioni e abbastanza regolari. Così ho scelto quest’ultimo itinerario orientale: alla biforcazione, si prosegue lungo un affluente dell’Emmen, per poi risalire attraverso una cresta fino all’Alto Emmen.
 
@@ -8811,7 +8811,7 @@ Anche la nostra energia proviene da Dio, e non dovremmo mai esserne orgogliosi, 
 
 Infatti, questo fallimento e questo cedimento che di tanto in tanto si verificano nella nostra mente sono cose molto tristi, ma possono rivelarsi di grande utilità per noi se ne traiamo la lezione che siamo noi stessi nulla. Forse è addirittura una grazia. Forse in quei momenti la nostra mente trova pace. Comunque sia, un giorno senza “sale”.
 
-# In queste circostanze…
+In queste circostanze…
 
 Quando ero a Oxford, ebbe luogo un grande e terribile dibattito che scosse l’Impero, mettendo a dura prova coloro che venivano inviati a governarlo; quindi, quel dibattito dovette sicuramente avere delle conseguenze sull’Impero stesso. Si trattava di stabilire se si dovesse dire “in queste circostanze” o “sotto queste circostanze”; non risolsi la questione convocando un conclave e proponendo la formula “Quae quum ita sint” come soluzione universale, perché ne nacque un altro dibattito riguardo al momento in cui si dovesse utilizzare “sint” o “sunt”, e tutti iniziarono a discutere animatamente, come gattini in una cesta.
 
@@ -8868,7 +8868,7 @@ THE HUNGRY STUDENT FAILS TO APPEAR
 
 TO WRAP UP my bread and bacon in my haversack. This is the story, and I will tell it you.
 
-Now, I think of it, it would be a great waste of time. Here am I no farther than perhaps a third of my [[Journey|journey]], and I have already admitted so much digression that my pilgrimage is like the story of a man asleep and dreaming, instead of the plain, honest, and straightforward narrative of fact. I will therefore postpone the Story of the Hungry Student till I get into the plains of [[Italy]], or into the barren hills of that peninsula, or among the over-well-known towns of Tuscany, or in some other place where a little padding will do neither you nor me any great harm.
+Now, I think of it, it would be a great waste of time. Here am I no farther than perhaps a third of my [[motifs/journey|journey]], and I have already admitted so much digression that my pilgrimage is like the story of a man asleep and dreaming, instead of the plain, honest, and straightforward narrative of fact. I will therefore postpone the Story of the Hungry Student till I get into the plains of [[settings/italy|Italy]], or into the barren hills of that peninsula, or among the over-well-known towns of Tuscany, or in some other place where a little padding will do neither you nor me any great harm.
 
 On the other hand, do not imagine that I am going to give you any kind of description of this intolerable day’s march. If you want some kind of visual Concept (pretty word), take all these little châlets which were beginning and make what you can of them.
 
@@ -8889,7 +8889,7 @@ Il studente affamato non si presenta
 
 Per concludere, ho messo il mio pane e la mia pancetta nello zaino. Questa è la storia, e ve la racconterò.
 
-Ora che ci penso, sarebbe davvero uno spreco di tempo. Sono ancora lontano, forse solo un terzo del mio [[Journey|viaggio]], e ho già fatto così tante digressioni che la mia “pellegrinazione” assomiglia più alla storia di un uomo che dorme e sogna, piuttosto che a una narrazione semplice, onesta e diretta dei fatti. Pertanto, rimanderò la Storia dello Studente Affamato fino a quando non arriverò nelle pianure dell’[[Italy|Italia]], o tra le colline desolate di quella penisola, o tra le città troppo conosciute della Toscana. O in qualche altro luogo dove un po’ di digressioni non possano causare alcun danno né a me né a te.
+Ora che ci penso, sarebbe davvero uno spreco di tempo. Sono ancora lontano, forse solo un terzo del mio [[motifs/journey|viaggio]], e ho già fatto così tante digressioni che la mia “pellegrinazione” assomiglia più alla storia di un uomo che dorme e sogna, piuttosto che a una narrazione semplice, onesta e diretta dei fatti. Pertanto, rimanderò la Storia dello Studente Affamato fino a quando non arriverò nelle pianure dell’[[settings/italy|Italia]], o tra le colline desolate di quella penisola, o tra le città troppo conosciute della Toscana. O in qualche altro luogo dove un po’ di digressioni non possano causare alcun danno né a me né a te.
 
 D'altra parte, non immaginate nemmeno che intenda fornirvi alcuna descrizione di questa insopportabile marcia di quel giorno. Se volete avere un qualche concetto visivo, prendete tutti questi piccoli chalet e fate del loro meglio.
 
@@ -8916,9 +8916,9 @@ Far from it. I can understand the anger which some people feel against the Swiss
 
 Let us not discuss politics. The point is that the peasant sat in there drinking with his friends for a good three-quarters of an hour. Now and then a man would come out and look at the sky, and cough and spit and turn round again and say something to the people within in German, and go off; but no one paid the least attention to me as I held this horse.
 
-I was already in a very angry and irritable mood, for the horse was restive and smelt his stable, and wished to break away from me. And all angry and irritable as I was, I turned around to see if this man were coming to relieve me; but I saw him laughing and joking with the people inside; and they were all looking my way out of their window as they laughed. I may have been wrong, but I thought they were laughing at me. A man who knows the Swiss intimately, and who has written a book upon ‘The Drink Traffic: The Example of Switzerland’, tells me they certainly were not laughing at me; at any rate, I thought they were, and moved by a sudden anger I let go the reins, gave the horse a great clout, and set him off careering and galloping like a whirlwind down the road from which he had come, with the bit in his teeth and all the storms of heaven in his four feet. Instantly, as you may imagine, all the scoffers came tumbling out of the inn, hullabooling, gesticulating, and running like madmen after the horse, and one old man even turned to protest to me. But I, setting my teeth, grasping my staff, and remembering the purpose of my great [[Journey|journey]], set on up the road again with my face towards Rome.
+I was already in a very angry and irritable mood, for the horse was restive and smelt his stable, and wished to break away from me. And all angry and irritable as I was, I turned around to see if this man were coming to relieve me; but I saw him laughing and joking with the people inside; and they were all looking my way out of their window as they laughed. I may have been wrong, but I thought they were laughing at me. A man who knows the Swiss intimately, and who has written a book upon ‘The Drink Traffic: The Example of Switzerland’, tells me they certainly were not laughing at me; at any rate, I thought they were, and moved by a sudden anger I let go the reins, gave the horse a great clout, and set him off careering and galloping like a whirlwind down the road from which he had come, with the bit in his teeth and all the storms of heaven in his four feet. Instantly, as you may imagine, all the scoffers came tumbling out of the inn, hullabooling, gesticulating, and running like madmen after the horse, and one old man even turned to protest to me. But I, setting my teeth, grasping my staff, and remembering the purpose of my great [[motifs/journey|journey]], set on up the road again with my face towards Rome.
 
-I sincerely hope, trust, and pray that this part of my [[Journey|journey]] will not seem as dull to you as it did to me at the time, or as it does to me now while I write of it. But now I come to think of it, it cannot seem as dull, for I had to walk that wretched thirty miles or so all the day long, whereas you have not even to read it; for I am not going to say anything more about it, but lead you straight to the end.
+I sincerely hope, trust, and pray that this part of my [[motifs/journey|journey]] will not seem as dull to you as it did to me at the time, or as it does to me now while I write of it. But now I come to think of it, it cannot seem as dull, for I had to walk that wretched thirty miles or so all the day long, whereas you have not even to read it; for I am not going to say anything more about it, but lead you straight to the end.
 
 Oh, blessed quality of books, that makes them a refuge from living! For in
 
@@ -8935,11 +8935,11 @@ Niente affatto. Posso capire la rabbia che alcune persone provano nei confronti 
 
 Non discutiamo di politica. Il punto è che quel contadino è rimasto lì a bere con i suoi amici per ben tre quarti d’ora. Di tanto in tanto qualcuno usciva, guardava il cielo, tossiva, sputava, poi tornava dentro e diceva qualcosa alle persone in tedesco, prima di andarsene; ma nessuno mi ha prestato la minima attenzione mentre tenevo questo cavallo.
 
-Ero già in uno stato di grande rabbia e irritabilità: il cavallo era irrequieto, annusava il proprio stallo e cercava di liberarsi da me. Mentre ero così arrabbiato, mi girai per vedere se quell’uomo sarebbe venuto ad aiutarmi; invece lo vidi ridere e scherzare con le persone all’interno dell’osteria; tutti loro guardavano verso di me mentre ridevano. Forse mi sbagliavo, ma pensai che si stessero prendendo gioco di me. Un uomo che conosce bene la Svizzera e ha scritto un libro intitolato “Il commercio dell’alcol: l’esempio della Svizzera” mi ha assicurato che sicuramente non si stavano prendendo gioco di me; comunque, io lo pensavo, e, preso da una rabbia improvvisa, lasciai andare le redini, diedi al cavallo un forte colpo con il frustino e lo mandai a correre come un uragano lungo la strada da cui era venuto, con il morso tra i denti e tutte le tempeste del cielo sotto di sé. All’istante, come potete immaginare, tutti quegli derisori uscirono dall’osteria urlando e gesticolando, correndo come pazzi dietro al cavallo; uno anziano addirittura cercò di protestare con me. Ma io, stringendo i denti, afferrando il mio bastone e ricordandomi lo scopo della mia grande [[Journey|viaggio]], ripresi la strada verso Roma.
+Ero già in uno stato di grande rabbia e irritabilità: il cavallo era irrequieto, annusava il proprio stallo e cercava di liberarsi da me. Mentre ero così arrabbiato, mi girai per vedere se quell’uomo sarebbe venuto ad aiutarmi; invece lo vidi ridere e scherzare con le persone all’interno dell’osteria; tutti loro guardavano verso di me mentre ridevano. Forse mi sbagliavo, ma pensai che si stessero prendendo gioco di me. Un uomo che conosce bene la Svizzera e ha scritto un libro intitolato “Il commercio dell’alcol: l’esempio della Svizzera” mi ha assicurato che sicuramente non si stavano prendendo gioco di me; comunque, io lo pensavo, e, preso da una rabbia improvvisa, lasciai andare le redini, diedi al cavallo un forte colpo con il frustino e lo mandai a correre come un uragano lungo la strada da cui era venuto, con il morso tra i denti e tutte le tempeste del cielo sotto di sé. All’istante, come potete immaginare, tutti quegli derisori uscirono dall’osteria urlando e gesticolando, correndo come pazzi dietro al cavallo; uno anziano addirittura cercò di protestare con me. Ma io, stringendo i denti, afferrando il mio bastone e ricordandomi lo scopo della mia grande [[motifs/journey|viaggio]], ripresi la strada verso Roma.
 
-Spero sinceramente, ci credo e prego affinché questa parte della mia [[Journey|viaggio]] non vi sembri così noiosa come lo fu per me all’epoca, o come lo è ancora adesso mentre ne scrivo. Ma ora che ci penso, non può certo sembrare così noiosa. Dopo tutto, io ho dovuto percorrere quei maledetti trenta miglia circa tutto il giorno, mentre voi nemmeno avete bisogno di leggerla; non dirò più nulla al riguardo, ma vi condurrò direttamente alla fine.
+Spero sinceramente, ci credo e prego affinché questa parte della mia [[motifs/journey|viaggio]] non vi sembri così noiosa come lo fu per me all’epoca, o come lo è ancora adesso mentre ne scrivo. Ma ora che ci penso, non può certo sembrare così noiosa. Dopo tutto, io ho dovuto percorrere quei maledetti trenta miglia circa tutto il giorno, mentre voi nemmeno avete bisogno di leggerla; non dirò più nulla al riguardo, ma vi condurrò direttamente alla fine.
 
-# Oh, la beata qualità dei libri… che li rende un rifugio dalla realtà quotidiana! Perché in loro…
+Oh, la beata qualità dei libri… che li rende un rifugio dalla realtà quotidiana! Perché in loro…
 
 * * *
 
@@ -8967,7 +8967,7 @@ The road stopped being a road, and became like a Californian trail. I approached
 
 <span class="qlang-split" data-lang="it"></span>
 
-# I più alti ranghi
+I più alti ranghi
 
 In un libro, tutto può essere inserito al proprio posto; ogni noia può essere ignorata, e i momenti intensi possono diventare eterni e senza tempo. Come ha detto bene un poeta poco conosciuto in una delle sue liriche inedite: attraverso l’arte della scrittura.
 
@@ -8992,7 +8992,7 @@ THE BRIENZER GRAT, HOW IT LIES
 
 AND RIGHT IN the gates I speak of. So I went there over an old bridge, and found a wooden house and went in.
 
-It was a house which one entered without ceremony. The door was open, and one walked straight into a great room. There sat three men playing at cards. I saluted them loudly in French, English, and Latin, but they did not understand me, and what seemed remarkable in an hotel (for it was an hotel rather than an inn), no one in the house understood me — neither the servants nor any one; but the servants did not laugh at me as had the poor people near Burgdorf, they only stood round me looking at me patiently in wonder as cows do at trains. Then they brought me food, and as I did not know the names of the different kinds of food, I had to eat what they chose; and the angel of that valley protected me from boiled mutton. I knew, however, the word Wein, which is the same in all languages, and so drank a quart of it consciously and of a set purpose. Then I slept, and next morning at [[Dawn|dawn]] I rose up, put on my thin, wet linen clothes, and went downstairs. No one was about. I looked around for something to fill my sack. I picked up a great hunk of bread from the dining-room table, and went out shivering into the cold drizzle that was still falling from a shrouded sky. Before me, a great forbidding wall, growing blacker as it went upwards and ending in a level line of mist, stood the Brienzer Grat.
+It was a house which one entered without ceremony. The door was open, and one walked straight into a great room. There sat three men playing at cards. I saluted them loudly in French, English, and Latin, but they did not understand me, and what seemed remarkable in an hotel (for it was an hotel rather than an inn), no one in the house understood me — neither the servants nor any one; but the servants did not laugh at me as had the poor people near Burgdorf, they only stood round me looking at me patiently in wonder as cows do at trains. Then they brought me food, and as I did not know the names of the different kinds of food, I had to eat what they chose; and the angel of that valley protected me from boiled mutton. I knew, however, the word Wein, which is the same in all languages, and so drank a quart of it consciously and of a set purpose. Then I slept, and next morning at [[motifs/dawn|dawn]] I rose up, put on my thin, wet linen clothes, and went downstairs. No one was about. I looked around for something to fill my sack. I picked up a great hunk of bread from the dining-room table, and went out shivering into the cold drizzle that was still falling from a shrouded sky. Before me, a great forbidding wall, growing blacker as it went upwards and ending in a level line of mist, stood the Brienzer Grat.
 
 To understand what I next had to do it is necessary to look back at the little map on page 105.
 
@@ -9005,7 +9005,7 @@ The Brienzer Grat is an extraordinary thing. It is quite straight; its summits a
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Il gratin di Brienza, così com’è
+Il gratin di Brienza, così com’è
 
 E proprio davanti ai cancelli di cui parlo. Così ci sono andato attraverso un vecchio ponte, ho trovato una casa di legno ed è entrato dentro.
 
@@ -9073,7 +9073,7 @@ My stone had not been a halting-place at all, but was itself the summit
 
 <span class="qlang-split" data-lang="it"></span>
 
-# La sosta nella nebbia
+La sosta nella nebbia
 
 Per cinquanta piedi risalii una superficie irregolare; solo quando raggiunsi la cima mi resi conto che non faceva parte della salita principale, ma era soltanto un ostacolo che avrei potuto aggirare facilmente. In un altro momento mi fermai per quasi un quarto d’ora vicino al bordo di una parete che sembrava costituita da roccia liscia e scoscesa; in realtà si trattava di una discesa breve, facile da superare per un uomo, e la sua lunghezza non era molto maggiore della mia statura. Così continuai a salire, bagnato fradicio e pieno di dubbi, senza mai essere sicuro dell’altezza che avevo raggiunto.
 
@@ -9136,7 +9136,7 @@ THE STEEP
 
 I went very slowly. When I was about half-way down and had come to a place where a shoulder of heaped rock stood on my left and where little parallel ledges led up to it, having grown accustomed to the descent and easier in my mind, I sat down on a slab and drew imperfectly the things I saw: the lake below me, the first forests clinging to the foot of the Alps beyond, their higher slopes of snow, and the clouds that had now begun to gather round them and that altogether hid the last third of their enormous height.
 
-Then I saw a steamer on the lake. I felt in touch with men. The slope grew easier. I snapped my fingers at the great devils that haunt high [[Mountains|mountains]]. I sniffed the gross and comfortable air of the lower valleys, I entered the
+Then I saw a steamer on the lake. I felt in touch with men. The slope grew easier. I snapped my fingers at the great devils that haunt high [[settings/mountains|mountains]]. I sniffed the gross and comfortable air of the lower valleys, I entered the
 
 * * *
 
@@ -9145,11 +9145,11 @@ Then I saw a steamer on the lake. I felt in touch with men. The slope grew easie
 
 <span class="qlang-split" data-lang="it"></span>
 
-# La Pendenza Ripida
+La Pendenza Ripida
 
 Camminavo molto lentamente. Quando ero arrivato a metà discesa e mi trovavo in un punto in cui su un lato c’era una cresta di rocce accumulatesi, mentre piccole sporgenze parallele conducevano verso l’alto, essendomi ormai abituato a quella discesa e sentendomi più a mio agio, mi sedetti su una lastra di roccia e tracciai in modo imperfetto ciò che vedevo: il lago sotto di me, le prime foreste che si estendevano ai piedi delle Alpi, le loro pendici più alte coperte di neve, e le nuvole che avevano iniziato a radunarsi intorno ad esse, nascondendo completamente l’ultimo terzo della loro enorme altezza.
 
-Allora vidi una nave a vapore sul lago. Mi sentii in contatto con gli uomini. La pendenza diventava più dolce. Fischiai verso quei grandi “diavoli” che infestano le alte [[Mountains|montagne]]. Inspirai l’aria pesante ma piacevole delle valli più basse. Entrai.
+Allora vidi una nave a vapore sul lago. Mi sentii in contatto con gli uomini. La pendenza diventava più dolce. Fischiai verso quei grandi “diavoli” che infestano le alte [[settings/mountains|montagne]]. Inspirai l’aria pesante ma piacevole delle valli più basse. Entrai.
 
 * * *
 
@@ -9168,7 +9168,7 @@ At last I saw through the trunks, but a few hundred feet below me, the highroad 
 
 I was therefore dry, ready and contented when I entered by mid morning the curious town of Brienz, which is all one long street, and of which the population is Protestant. I say dry, ready and contented; dry in my clothes, ready for food, contented with men and nature. But as I entered I squinted up that interminable slope, I saw the fog wreathing again along the ridge so infinitely above me, and I considered myself a fool to have crossed the Brienzer Grat without breakfast. But I could get no one in Brienz to agree with me, because no one thought I had done it, though several people there could talk French.
 
-The Grimsel Pass is the valley of the Aar; it is also the eastern flank of that great massif, or bulk and mass of [[Mountains|mountains]] called the Bernese Oberland. Western Switzerland, you must know, is not (as I first thought it was when I gazed down from the Weissenstein) a plain surrounded by a ring of [[Mountains|mountains]], but rather it is a plain in its northern half (the plain of the lower Aar), and in its southern half it is two enormous parallel lumps of [[Mountains|mountains]]. I call them ‘lumps’, because they are so very broad and tortuous in their plan that they are hardly ranges. Now these two lumps are the Bernese Oberland and the Pennine Alps, and between them runs a deep trench called the valley of the Rhone. Take Mont Blanc in the west and a peak called the Crystal Peak over the Val Bavona on the east, and they are the flanking bastions of one great wall, the Pennine Alps. Take the Diablerets on the west, and the Wetterhorn on the east, and they are the flanking bastions of another great wall, the Bernese Oberland. And these two walls are parallel, with the Rhone in between.
+The Grimsel Pass is the valley of the Aar; it is also the eastern flank of that great massif, or bulk and mass of [[settings/mountains|mountains]] called the Bernese Oberland. Western Switzerland, you must know, is not (as I first thought it was when I gazed down from the Weissenstein) a plain surrounded by a ring of [[settings/mountains|mountains]], but rather it is a plain in its northern half (the plain of the lower Aar), and in its southern half it is two enormous parallel lumps of [[settings/mountains|mountains]]. I call them ‘lumps’, because they are so very broad and tortuous in their plan that they are hardly ranges. Now these two lumps are the Bernese Oberland and the Pennine Alps, and between them runs a deep trench called the valley of the Rhone. Take Mont Blanc in the west and a peak called the Crystal Peak over the Val Bavona on the east, and they are the flanking bastions of one great wall, the Pennine Alps. Take the Diablerets on the west, and the Wetterhorn on the east, and they are the flanking bastions of another great wall, the Bernese Oberland. And these two walls are parallel, with the Rhone in between.
 
 Now these two walls converge at a point where there is a sort of knot of mountain ridges, and this point may be taken as being on the boundary
 
@@ -9202,7 +9202,7 @@ BETWEEN EASTERN AND Western Switzerland. At this wonderful point the Ticino, the
 
 When you are high up on either wall you can catch the plan of all this, but to avoid a confused description and to help you to follow the marvellous, Hannibalian and never-before-attempted charge and march which I made, and which, alas! ended only in a glorious defeat — to help you to picture faintly to yourselves the mirific and horripilant adventure whereby I nearly achieved superhuman success in spite of all the powers of the air, I append a little map which is rough but clear and plain, and which I beg you to study closely, for it will make it easy for you to understand what next happened in my pilgrimage.
 
-The dark strips are the deep cloven valleys, the shaded belt is that higher land which is yet passable by any ordinary man. The part left white you may take to be the very high fields of ice and snow with great peaks which an ordinary man must regard as impassable, unless, indeed, he can wait for his weather and take guides and go on as a tourist instead of a [[Pilgrim|pilgrim]].
+The dark strips are the deep cloven valleys, the shaded belt is that higher land which is yet passable by any ordinary man. The part left white you may take to be the very high fields of ice and snow with great peaks which an ordinary man must regard as impassable, unless, indeed, he can wait for his weather and take guides and go on as a tourist instead of a [[archetypes/pilgrim|pilgrim]].
 
 You will observe that I have marked five clefts or valleys. A is that of the Aar, and the little white patch at the beginning is the lake of Brienz. B is that of the Reuss. C is that of the Rhone; and all these three are north of the great watershed or main chain, and all three are full of German-speaking people.
 
@@ -9217,7 +9217,7 @@ Tra la Svizzera orientale e quella occidentale. In questo meraviglioso punto ini
 
 Quando ti trovi in posizione elevata su uno dei due muri, puoi avere una visione d'insieme di tutto ciò che è accaduto; tuttavia, per evitare descrizioni confuse e per aiutarvi a comprendere quella straordinaria, geniale e mai tentata manovra offensiva e marziale che io intrapresi – e che, purtroppo, si concluse con una sconfitta gloriosa – vi allego una piccola mappa, approssimativa ma chiara e comprensibile. Vi prego di studiarla attentamente: vi aiuterà sicuramente a capire ciò che accadde successivamente nel mio “pellegrinaggio”.
 
-Le strisce scure rappresentano le valli profonde e divise; la fascia oscura indica quella zona più elevata che, tuttavia, è ancora percorribile da un uomo comune. La parte lasciata bianca può essere considerata come quei vasti campi di ghiaccio e neve, con cime imponenti, che un uomo ordinario dovrebbe ritenere inaccessibili, a meno che non possa aspettare le condizioni meteorologiche adatte, assumere guide e viaggiare come turista, invece che come [[Pilgrim|>pellegrino]].
+Le strisce scure rappresentano le valli profonde e divise; la fascia oscura indica quella zona più elevata che, tuttavia, è ancora percorribile da un uomo comune. La parte lasciata bianca può essere considerata come quei vasti campi di ghiaccio e neve, con cime imponenti, che un uomo ordinario dovrebbe ritenere inaccessibili, a meno che non possa aspettare le condizioni meteorologiche adatte, assumere guide e viaggiare come turista, invece che come [[archetypes/pilgrim|>pellegrino]].
 
 Osserverete che ho segnato cinque valli o gole. La A è quella del fiume Aar, e la piccola macchia bianca iniziale rappresenta il lago di Brienz. La B è quella del fiume Reuss. La C è quella del fiume Rodano; tutte e tre si trovano a nord della grande catena montuosa principale, ed sono tutte abitate da persone di lingua tedesca.
 
@@ -9236,7 +9236,7 @@ The straight line to Rome is marked on my map by a dotted line ending in an arro
 
 The straightest way of all was (1) over the Grimsel, then, the moment I got into the valley of the Rhone (2), up out of it again over the Nufenen, then the moment I was down into the valley of the Ticino (F), up out of it again (3) over the Crystalline to the valley of the Maggia (E). Once in the Maggia valley (the top of it is called the Val Bavona), it is a straight path for the lakes and Rome. There were also these advantages: that I should be in a place very rarely visited — all the guide-books are doubtful on it; that I should be going quite straight; that I should be accomplishing a feat, viz. the crossing of those high passes one after the other (and you must remember that over the Nufenen there is no road at all).
 
-But every one I asked told me that thus early in the year (it was not the middle of June) I could not hope to scramble over the Crystalline. No one (they said) could do it and live. It was all ice and snow and cold mist and verglas, and the precipices were smooth — a man would never get across; so it was not worth while crossing the Nufenen Pass if I was to be balked at the Crystal, and I determined on the Gries Pass. I said to myself: ‘I will go on over the Grimsel, and once in the valley of the Rhone, I will walk a mile or two down to where the Gries Pass opens, and I will go over it into [[Italy]].’ For the Gries Pass, though not quite in the straight line, had this advantage, that once over it you are really in [[Italy]]. In the Ticino valley or in the Val Bavona, though the people are as Italian as Catullus, yet politically they count as part of Switzerland; and therefore if you enter [[Italy]] thereby, you are not suddenly introduced to that country, but, as it were, inoculated, and led on by degrees, which is a pity. For good things should come suddenly,
+But every one I asked told me that thus early in the year (it was not the middle of June) I could not hope to scramble over the Crystalline. No one (they said) could do it and live. It was all ice and snow and cold mist and verglas, and the precipices were smooth — a man would never get across; so it was not worth while crossing the Nufenen Pass if I was to be balked at the Crystal, and I determined on the Gries Pass. I said to myself: ‘I will go on over the Grimsel, and once in the valley of the Rhone, I will walk a mile or two down to where the Gries Pass opens, and I will go over it into [[settings/italy|Italy]].’ For the Gries Pass, though not quite in the straight line, had this advantage, that once over it you are really in [[settings/italy|Italy]]. In the Ticino valley or in the Val Bavona, though the people are as Italian as Catullus, yet politically they count as part of Switzerland; and therefore if you enter [[settings/italy|Italy]] thereby, you are not suddenly introduced to that country, but, as it were, inoculated, and led on by degrees, which is a pity. For good things should come suddenly,
 
 * * *
 
@@ -9251,7 +9251,7 @@ La linea dritta che conduce a Roma è indicata sulla mia mappa con una linea tra
 
 Il percorso più diretto era: (1) attraversare il Grimsel, poi, non appena entrato nella valle del Rodano, uscire di nuovo attraverso i monti Nufenen; successivamente, una volta raggiunta la valle del Ticino, uscire ancora una volta attraverso i monti Crystalline per arrivare nella valle della Maggia. Una volta nella valle della Maggia (la sua parte superiore si chiama Val Bavona), il cammino proseguiva dritto verso i laghi e Roma. Questo percorso presentava anche altri vantaggi: mi trovavo in un luogo molto poco frequentato – tutti i guide turistiche erano piuttosto incerte riguardo a questa strada; il tragitto era sostanzialmente diretto; inoltre, riuscivo a compiere una vera impresa, ovvero attraversare quei passi montani uno dopo l’altro (e bisogna ricordare che sui monti Nufenen non esiste alcuna strada).
 
-Ma tutti quelli a cui chiesi mi dissero che a queste prime settimane dell’anno (non era nemmeno la metà di giugno) non potevo sperare di attraversare il Crystalline. Nessuno, dicevano, ci sarebbe riuscito e sarebbe sopravvissuto. C’era solo ghiaccio, neve, fredda nebbia e pericoli insiti nei dirupi; non c’era alcuna possibilità di attraversare. Quindi non aveva senso tentare di superare il passo di Nufenen se poi sarei stato bloccato dal Crystalline. Decisi quindi di provare con il passo di Gries. Mi dissi: “Attraverserò il Grimsel, e una volta nella valle del Rodano camminerò un miglio o due fino al punto in cui si apre il passo di Gries, e da lì entrerò in [[Italy|Italia]]”. Il passo di Gries, anche se non seguiva esattamente una linea retta, aveva questo vantaggio: una volta superato, ti trovavi davvero in [[Italy|Italia]]. Nella valle del Ticino o nel Val Bavona, anche se la gente era altrettanto italiana quanto Catullo, politicamente facevano parte della Svizzera. Quindi entrare in [[Italy|Italia]] da quella parte significava non essere improvvisamente catapultati nel paese, ma essere “inoculati” gradualmente, passo dopo passo. Il che, a mio parere, era un peccato. Le cose belle, infatti, dovrebbero arrivare all’improvviso.
+Ma tutti quelli a cui chiesi mi dissero che a queste prime settimane dell’anno (non era nemmeno la metà di giugno) non potevo sperare di attraversare il Crystalline. Nessuno, dicevano, ci sarebbe riuscito e sarebbe sopravvissuto. C’era solo ghiaccio, neve, fredda nebbia e pericoli insiti nei dirupi; non c’era alcuna possibilità di attraversare. Quindi non aveva senso tentare di superare il passo di Nufenen se poi sarei stato bloccato dal Crystalline. Decisi quindi di provare con il passo di Gries. Mi dissi: “Attraverserò il Grimsel, e una volta nella valle del Rodano camminerò un miglio o due fino al punto in cui si apre il passo di Gries, e da lì entrerò in [[settings/italy|Italia]]”. Il passo di Gries, anche se non seguiva esattamente una linea retta, aveva questo vantaggio: una volta superato, ti trovavi davvero in [[settings/italy|Italia]]. Nella valle del Ticino o nel Val Bavona, anche se la gente era altrettanto italiana quanto Catullo, politicamente facevano parte della Svizzera. Quindi entrare in [[settings/italy|Italia]] da quella parte significava non essere improvvisamente catapultati nel paese, ma essere “inoculati” gradualmente, passo dopo passo. Il che, a mio parere, era un peccato. Le cose belle, infatti, dovrebbero arrivare all’improvviso.
 
 * * *
 
@@ -9264,11 +9264,11 @@ THE GRIMSEL BEGINS
 
 LIKE THE DEMISE of that wicked man, Mr (deleted by the censor), who had oppressed the poor for some forty years, when he was shot dead from behind a hedge, and died in about the time it takes to boil an egg, and there was an end of him.
 
-Having made myself quite clear that I had a formed plan to go over the Grimsel by the new road, then up over the Gries, where there is no road at all, and so down into the vale of the Tosa, and having calculated that on the morrow I should be in [[Italy]], I started out from Brienz after eating a great meal, it being then about midday, and I having already, as you know, crossed the Brienzer Grat since [[Dawn|dawn]].
+Having made myself quite clear that I had a formed plan to go over the Grimsel by the new road, then up over the Gries, where there is no road at all, and so down into the vale of the Tosa, and having calculated that on the morrow I should be in [[settings/italy|Italy]], I started out from Brienz after eating a great meal, it being then about midday, and I having already, as you know, crossed the Brienzer Grat since [[motifs/dawn|dawn]].
 
 The task of that afternoon was more than I could properly undertake, nor did I fulfil it. From Brienz to the top of the Grimsel is, as the crow flies, quite twenty miles, and by the road a good twenty-seven. It is true I had only come from over the high hills; perhaps six miles in a straight line. But what a six miles! and all without food. Not certain, therefore, how much of the pass I could really do that day, but aiming at crossing it, like a fool, I went on up the first miles.
 
-For an hour or more after Brienz the road runs round the base of and then away from a fine great rock. There is here an alluvial plain like a continuation of the lake, and the Aar runs through it, canalized and banked and straight, and at last the road also becomes straight. On either side rise gigantic cliffs enclosing the valley, and (on the day I passed there) going up into the clouds, which, though high, yet made a roof for the valley. From the great [[Mountains|mountains]] on the left the noble rock jutted out alone and dominated the little plain; on the right the buttresses of the main Alps all stood in a row, and between them went whorls of vapour high, high up — just above the places where snow still clung to the slopes. These whorls made the utmost steeps more and more misty, till at last they were lost in a kind of great darkness, in which the last and highest banks of ice seemed to be swallowed up. I often stopped to gaze straight above me, and I marvelled at the silence.
+For an hour or more after Brienz the road runs round the base of and then away from a fine great rock. There is here an alluvial plain like a continuation of the lake, and the Aar runs through it, canalized and banked and straight, and at last the road also becomes straight. On either side rise gigantic cliffs enclosing the valley, and (on the day I passed there) going up into the clouds, which, though high, yet made a roof for the valley. From the great [[settings/mountains|mountains]] on the left the noble rock jutted out alone and dominated the little plain; on the right the buttresses of the main Alps all stood in a row, and between them went whorls of vapour high, high up — just above the places where snow still clung to the slopes. These whorls made the utmost steeps more and more misty, till at last they were lost in a kind of great darkness, in which the last and highest banks of ice seemed to be swallowed up. I often stopped to gaze straight above me, and I marvelled at the silence.
 
 It was the first part of the afternoon when I got to a place called Meiringen, and I thought that there I would eat and drink a little more. So I steered into the main street, but there I found such a yelling and roaring as I had never heard before, and very damnable it was; as though men were determined to do common evil wherever God has given them a chance of living in awe and worship.
 
@@ -9279,15 +9279,15 @@ For they were all bawling and howling, with great placards and tickets, and sayi
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Il principio del male
+Il principio del male
 
 Proprio come la fine di quell’uomo malvagio, il signor (censurato dal filtro di moderazione), che aveva oppresso i poveri per circa quarant’anni. Quando fu ucciso da un colpo alle spalle, morì in poco tempo, tanto quanto basta per bollire un uovo. E così finì la sua storia.
 
-Avendo chiarito perfettamente che avevo un piano preciso: attraversare il Grimsel lungo la nuova strada, poi salire sul Gries – dove non c’è affatto strada – e infine scendere nella valle del Tosa; calcolando inoltre che il giorno dopo sarei arrivato in [[Italy|Italia]], partii da Brienz dopo aver mangiato abbondantemente, verso mezzogiorno; avevo già, come sapete, attraversato il Brienzer Grat da[[Dawn|_alba]].
+Avendo chiarito perfettamente che avevo un piano preciso: attraversare il Grimsel lungo la nuova strada, poi salire sul Gries – dove non c’è affatto strada – e infine scendere nella valle del Tosa; calcolando inoltre che il giorno dopo sarei arrivato in [[settings/italy|Italia]], partii da Brienz dopo aver mangiato abbondantemente, verso mezzogiorno; avevo già, come sapete, attraversato il Brienzer Grat da[[motifs/dawn|_alba]].
 
 Il compito di quel pomeriggio era troppo arduo per me; inoltre, non riuscii nemmeno a portarlo a termine. Da Brienz fino alla cima del Grimsel, in linea d’aria, ci sono circa venti miglia; lungo la strada, invece, ben venticinque-sette miglia. È vero che ero appena arrivato da oltre le alte colline, forse avevo percorso sei miglia in linea retta. Ma che sei miglia! E tutto senza cibo. Non sapevo quindi con certezza quanto di quel tratto avrei potuto realmente percorrere quel giorno, ma, come un idiota, continuai ad avanzare nelle prime miglia.
 
-Per un'ora o più, dopo Brienz, la strada costeggia la base di una grande roccia maestosa per poi allontanarsene. Qui si trova una pianura alluvionale che sembra un’estensione del lago; attraverso di essa scorre il fiume Aar, canalizzato e bordato da argini, e anche la strada diventa dritta. Su entrambi i lati si ergono enormi scogliere che circondano la valle; (il giorno in cui vi passai) queste scogliere raggiungevano le nuvole, che, pur essendo alte, formavano una sorta di tetto per la valle. A sinistra, tra le grandi [[Mountains|montagne]], spuntava isolata quella nobile roccia che dominava sulla piccola pianura; a destra, i contrafforti delle Alpi principali si allineavano in fila, e tra di loro si levavano vortici di vapore altissimi, proprio sopra le zone dove la neve ancora aderiva alle pendici. Questi vortici rendevano le parti più ripide ancora più avvolte nella nebbia, fino a quando scomparivano in una sorta di oscurità totale; nelle ultime zone, i massimi bordi dei ghiacciai sembravano essere inghiottiti da quell’oscurità. Spesso mi fermavo per guardare direttamente verso l’alto e meravigliarmi di quel silenzio assoluto.
+Per un'ora o più, dopo Brienz, la strada costeggia la base di una grande roccia maestosa per poi allontanarsene. Qui si trova una pianura alluvionale che sembra un’estensione del lago; attraverso di essa scorre il fiume Aar, canalizzato e bordato da argini, e anche la strada diventa dritta. Su entrambi i lati si ergono enormi scogliere che circondano la valle; (il giorno in cui vi passai) queste scogliere raggiungevano le nuvole, che, pur essendo alte, formavano una sorta di tetto per la valle. A sinistra, tra le grandi [[settings/mountains|montagne]], spuntava isolata quella nobile roccia che dominava sulla piccola pianura; a destra, i contrafforti delle Alpi principali si allineavano in fila, e tra di loro si levavano vortici di vapore altissimi, proprio sopra le zone dove la neve ancora aderiva alle pendici. Questi vortici rendevano le parti più ripide ancora più avvolte nella nebbia, fino a quando scomparivano in una sorta di oscurità totale; nelle ultime zone, i massimi bordi dei ghiacciai sembravano essere inghiottiti da quell’oscurità. Spesso mi fermavo per guardare direttamente verso l’alto e meravigliarmi di quel silenzio assoluto.
 
 Era all’inizio del pomeriggio quando arrivai in un posto chiamato Meiringen, e pensai che lì avrei potuto mangiare e bere qualcosa in più. Così entrai nella strada principale, ma lì trovai un tale clamore e rumore come non avevo mai sentito prima; era davvero terribile. Sembrava che le persone fossero decise a compiere atti malvagi ovunque Dio avesse dato loro la possibilità di vivere nel timore e nell’adorazione.
 
@@ -9306,7 +9306,7 @@ THE AAR,’ AND so forth. So that my illusion of being alone in the roots of the
 
 If a man goes to drink good wine he does not say, ‘So that the wine be good I do not mind eating strong pepper and smelling hartshorn as I drink it,’ and if a man goes to read a good verse, for instance, Jean Richepin, he does not say, ‘Go on playing on the trombone, go on banging the cymbals; so long as I am reading good verse I am content.’ Yet men now go into the vast hills and sleep and live in their recesses, and pretend to be indifferent to all the touts and shouters and hurry and hotels and high prices and abominations. Thank God, it goes in grooves! I say it again, thank God, the railways are trenches that drain our modern marsh, for you have but to avoid railways, even by five miles, and you can get more peace than would fill a nosebag. All the world is my garden since they built railways, and gave me leave to keep off them.
 
-Also I vowed a franc to the Black Virgin of La Delivrande (next time I should be passing there) because I was delivered from being a tourist, and because all this horrible noise was not being dinned at me (who was a poor and dirty [[Pilgrim|pilgrim]], and no kind of prey for these cabmen, and busmen, and guides and couriers), but at a crowd of drawn, sad, jaded tourists that had come in by a train.
+Also I vowed a franc to the Black Virgin of La Delivrande (next time I should be passing there) because I was delivered from being a tourist, and because all this horrible noise was not being dinned at me (who was a poor and dirty [[archetypes/pilgrim|pilgrim]], and no kind of prey for these cabmen, and busmen, and guides and couriers), but at a crowd of drawn, sad, jaded tourists that had come in by a train.
 
 Soon I had left them behind. The road climbed the first step upwards in the valley, going round a rock on the other side of which the Aar had cut itself a gorge and rushed in a fall and rapids. Then the road went on and on weary mile after weary mile, and I stuck to it, and it rose slowly all the time, and all the time the Aar went dashing by, roaring and filling the higher valley with echoes.
 
@@ -9325,7 +9325,7 @@ Il rumore assordante
 
 Se un uomo decide di bere del buon vino, non dice: “Perché il vino sia buono, non mi dispiace mangiare pepe forte o annusare l’odor di chiodi di garofano mentre lo bevo”; e se un uomo decide di leggere un bel poema, ad esempio quello di Jean Richepin, non dice: “Continua a suonare il trombone, continua a battere i cimbali; finché leggo bei versi, sono soddisfatto”. Eppure oggi le persone vanno nelle vaste colline, dormono e vivono nei loro rifugi, fingendo di essere indifferenti a tutti quegli annunci pubblicitari, ai clamori, alle frette, agli hotel, ai prezzi elevati e a tutte le altre cose spiacevoli. Grazie a Dio, le cose seguono ormai schemi precisi. Ripeto: grazie a Dio, i treni sono come trincee che drenano la nostra “palude moderna”; basta evitare i treni, anche solo di cinque miglia, e si può trovare più pace di quanta ne possa contenere un sacchetto. Da quando sono stati costruiti i treni, tutto il mondo è diventato il mio giardino, mi hanno permesso di tenermene lontano.
 
-Inoltre, ho fatto un voto alla Vergine Nera di La Delivrande (la prossima volta che passerò da lì): ero finalmente libero dal ruolo di turista, e tutto quel terribile rumore non mi riguardava più. Io, infatti, ero solo un povero e sporco [[Pilgrim|>pellegrino]], assolutamente non una preda per tassisti, autisti, guide o corrieri. Ma soltanto parte di una folla di turisti stanchi, tristi e annoiati arrivati in treno.
+Inoltre, ho fatto un voto alla Vergine Nera di La Delivrande (la prossima volta che passerò da lì): ero finalmente libero dal ruolo di turista, e tutto quel terribile rumore non mi riguardava più. Io, infatti, ero solo un povero e sporco [[archetypes/pilgrim|>pellegrino]], assolutamente non una preda per tassisti, autisti, guide o corrieri. Ma soltanto parte di una folla di turisti stanchi, tristi e annoiati arrivati in treno.
 
 Presto li lasciai indietro. La strada iniziava a salire verso l’alto nella valle, aggirando una roccia; dall’altra parte di essa il fiume Aar aveva scavato un burrone, precipitandosi giù con rapide impetuose. Poi la strada proseguiva, miglio dopo miglio, e io continuai ad seguirla. Saliva lentamente, mentre il fiume Aar scorreva incessantemente accanto a me, ruggendo e riempiendo la valle superiore di echi.
 
@@ -9357,7 +9357,7 @@ To this I turned and found there one of those new hotels, not very large, but ve
 
 <span class="qlang-split" data-lang="it"></span>
 
-#La neve che lampeggia
+La neve che lampeggia
 
 Tra poco dovrò continuare il mio cammino. Zoppicavo, e odiavo quella pioggia fredda e umida. Ma dovevo andare avanti. Invece di agitare la mia canna e cantare, mi appoggiavo a essa con dolore, pensando al dovere, alla morte, all’abbandono, e a tutte le altre cose orribili che iniziano per “D”. Dovevo andare avanti. Se fossi tornato indietro, non ci sarebbe stato nulla per chilometri intorno.
 
@@ -9382,7 +9382,7 @@ NIGHT I WOKE suddenly, staring at darkness. I had outworn the physical network u
 
 Next morning I had fine coffee and bread and butter and the rest, like a rich man; in a gilded dining-room all set out for the rich, and served by a fellow that bowed and scraped. Also they made me pay a great deal, and kept their eyes off my boots, and were still courteous to me, and I to them. Then I bought wine of them — the first wine not of the country that I had drunk on this march, a Burgundy — and putting it in my haversack with a nice white roll, left them to wait for the next man whom the hills might send them.
 
-The clouds, the mist, were denser than ever in that early morning; one could only see the immediate road. The cold was very great; my clothes were not quite dried, but my heart was high, and I pushed along well enough, though stiffly, till I came to what they call the Hospice, which was once a monk-house, I suppose, but is now an inn. I had brandy there, and on going out I found that it stood at the foot of a sharp ridge which was the true Grimsel Pass, the neck which joins the Bernese Oberland to the eastern group of high [[Mountains|mountains]]. This ridge or neck was steep like a pitched roof — very high I found it, and all of black glassy rock, with here and there snow in sharp, even, sloping sheets just holding to it. I could see but little of it at a time on account of the mist.
+The clouds, the mist, were denser than ever in that early morning; one could only see the immediate road. The cold was very great; my clothes were not quite dried, but my heart was high, and I pushed along well enough, though stiffly, till I came to what they call the Hospice, which was once a monk-house, I suppose, but is now an inn. I had brandy there, and on going out I found that it stood at the foot of a sharp ridge which was the true Grimsel Pass, the neck which joins the Bernese Oberland to the eastern group of high [[settings/mountains|mountains]]. This ridge or neck was steep like a pitched roof — very high I found it, and all of black glassy rock, with here and there snow in sharp, even, sloping sheets just holding to it. I could see but little of it at a time on account of the mist.
 
 Hitherto for all these miles the Aar had been my companion, and the road, though rising always, had risen evenly and not steeply. Now the Aar was left behind in the icy glen where it rises, and the road went in an artificial and carefully built set of zig-zags up the face of the cliff. There is a short cut, but I could not find it in the mist. It is the old mule-path. Here and there, however, it was possible to cut off long corners by scrambling over the steep black rock and smooth ice, and all the while the cold, soft mist wisped in and out around me. After a thousand feet of this I came to the top of the Grimsel, but not before I had passed a place where an avalanche had destroyed the road and where planks were laid. Also before one got to the very summit, no short cuts or climbing were possible. The road ran deep in a cutting like a Devonshire lane. Only here the high banks were solid snow.
 
@@ -9393,13 +9393,13 @@ Some little way past the summit, on the first zig-zag down, I passed the Lake of
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Capo del Passo
+Capo del Passo
 
 Di notte mi svegliai all’improvviso, fissando l’oscurità. Avevo superato i limiti del sistema fisico di cui l’anima dipende, e ero pieno di terrore.
 
 La mattina seguente ebbi del buon caffè, pane e burro, insomma tutto ciò che si addice a un uomo ricco; mi trovavo in una sala da pranzo dorata, arredata apposta per i ricchi, servito da un individuo che si inchinava continuamente. Inoltre, mi fecero pagare molto, evitavano di guardare le mie scarpe e continuarono a essere cortesi sia con me che io con loro. Allora comprai del vino da loro: il primo vino non prodotto nella zona che bevessi in questo viaggio, un Borgogna. Lo misi nello zaino insieme a un delizioso rotolo di pane bianco, e li lasciai ad aspettare il prossimo cliente che le colline avrebbero potuto mandare loro.
 
-Le nuvole, la nebbia, erano più dense che mai in quella mattina presto; si riusciva a vedere solo la strada immediatamente davanti. Il freddo era molto intenso; i miei vestiti non erano ancora del tutto asciutti, ma ero pieno di entusiasmo e proseguii abbastanza bene, sebbene con difficoltà, fino a quando non arrivai a quello che chiamano l’Ospizio, che un tempo doveva essere stato un monastero, ma ora è una locanda. Lì bevvi del brandy; uscendo notai che si trovava ai piedi di una cresta scoscesa, che era il vero Passo Grimsel, il punto di collegamento tra l’Oberland bernese e il gruppo orientale di alte [[Mountains|montagne]]. Questa cresta era ripida come un tetto a spiovente; mi sembrò molto alta, composta interamente da roccia nera e lucida, con chiazze di neve disposte in strati scoscesi e regolari che vi si attaccavano appena. A causa della nebbia, riuscivo a vedere solo una piccola parte di essa alla volta.
+Le nuvole, la nebbia, erano più dense che mai in quella mattina presto; si riusciva a vedere solo la strada immediatamente davanti. Il freddo era molto intenso; i miei vestiti non erano ancora del tutto asciutti, ma ero pieno di entusiasmo e proseguii abbastanza bene, sebbene con difficoltà, fino a quando non arrivai a quello che chiamano l’Ospizio, che un tempo doveva essere stato un monastero, ma ora è una locanda. Lì bevvi del brandy; uscendo notai che si trovava ai piedi di una cresta scoscesa, che era il vero Passo Grimsel, il punto di collegamento tra l’Oberland bernese e il gruppo orientale di alte [[settings/mountains|montagne]]. Questa cresta era ripida come un tetto a spiovente; mi sembrò molto alta, composta interamente da roccia nera e lucida, con chiazze di neve disposte in strati scoscesi e regolari che vi si attaccavano appena. A causa della nebbia, riuscivo a vedere solo una piccola parte di essa alla volta.
 
 Per tutte queste miglia, l’Aar era stato il mio compagno di viaggio; la strada, sebbene salisse costantemente, lo faceva in modo uniforme e non ripido. Ora l’Aar era rimasto indietro, nella valle ghiacciata dove nasce, mentre la strada proseguiva lungo una serie di zigzag artificiali e ben costruiti sul versante della scogliera. C’era un percorso più breve, ma non riuscii a trovarlo nella nebbia. Era l’antico sentiero per muli. Tuttavia, in alcuni punti era possibile aggirare gli ostacoli arrampicandosi sulle rocce scure e lisce e sul ghiaccio; intanto, la fredda nebbia continuava a avvolgermi. Dopo aver percorso circa mille piedi in questo modo, raggiunsi la cima del Grimsel, ma solo dopo essere passato attraverso un luogo dove una valanga aveva distrutto la strada e dove erano state posate delle assi per permettere il transito. Inoltre, prima di arrivare alla vetta vera e propria, non era possibile utilizzare alcun percorso alternativo o compiere arrampicamenti: la strada proseguiva in un burrone profondo, simile a una stradina del Devonshire. Solo qui i ripidi versanti erano completamente coperti di neve.
 
@@ -9418,11 +9418,11 @@ GRAT) TO THE southward and the sun, the clouds lifted and wreathed up backward a
 
 LECTOR. Pray are we to have any more of that fine writing?
 
-AUCTOR. I saw there as in a cup things that I had thought (when I first studied the map at home) far too spacious and spread apart to go into the view. Yet here they were all quite contained and close together, on so vast a scale was the whole place conceived. It was the comb of [[Mountains|mountains]] of which I have written; the meeting of all the valleys.
+AUCTOR. I saw there as in a cup things that I had thought (when I first studied the map at home) far too spacious and spread apart to go into the view. Yet here they were all quite contained and close together, on so vast a scale was the whole place conceived. It was the comb of [[settings/mountains|mountains]] of which I have written; the meeting of all the valleys.
 
 There, from the height of a steep bank, as it were (but a bank many thousands of feet high), one looked down into a whole district or little world. On the map, I say, it had seemed so great that I had thought one would command but this or that portion of it; as it was, one saw it all.
 
-And this is a peculiar thing I have noticed in all [[Mountains|mountains]], and have never been able to understand — namely, that if you draw a plan or section to scale, your mountain does not seem a very important thing. One should not, in theory, be able to dominate from its height, nor to feel the world small below one, nor to hold a whole countryside in one’s hand — yet one does. The [[Mountains|mountains]] from their heights reveal to us two truths. They suddenly make us feel our insignificance, and at the same time they free the immortal Mind, and let it feel its greatness, and they release it from the earth. But I say again, in theory, when one considers the exact relation of their height to the distances one views from them, they ought to claim no such effect, and that they can produce that effect is related to another thing — the way in which they exaggerate their own steepness.
+And this is a peculiar thing I have noticed in all [[settings/mountains|mountains]], and have never been able to understand — namely, that if you draw a plan or section to scale, your mountain does not seem a very important thing. One should not, in theory, be able to dominate from its height, nor to feel the world small below one, nor to hold a whole countryside in one’s hand — yet one does. The [[settings/mountains|mountains]] from their heights reveal to us two truths. They suddenly make us feel our insignificance, and at the same time they free the immortal Mind, and let it feel its greatness, and they release it from the earth. But I say again, in theory, when one considers the exact relation of their height to the distances one views from them, they ought to claim no such effect, and that they can produce that effect is related to another thing — the way in which they exaggerate their own steepness.
 
 For instance, those noble hills, my downs in Sussex, when you are upon them overlooking the weald, from Chanctonbury say, feel like this —
 
@@ -9437,11 +9437,11 @@ Verso sud, verso il sole, le nuvole si sollevarono e scomparvero; al loro posto 
 
 LETTORE: Speriamo davvero di leggere ancora qualcosa di così ben scritto.
 
-AUTORE: Lì vidi, come in una coppa, elementi che avevo ritenuto (quando avevo studiato la mappa per la prima volta a casa) troppo sparsi e distanti per poter essere inclusi nella rappresentazione visiva. Eppure, lì erano tutti racchiusi insieme, molto vicini tra loro; l’intera area era concepita su una scala davvero vasta. Si trattava della catena di [[Mountains|montagne]] di cui avevo parlato; del punto in cui si incontravano tutte le valli.
+AUTORE: Lì vidi, come in una coppa, elementi che avevo ritenuto (quando avevo studiato la mappa per la prima volta a casa) troppo sparsi e distanti per poter essere inclusi nella rappresentazione visiva. Eppure, lì erano tutti racchiusi insieme, molto vicini tra loro; l’intera area era concepita su una scala davvero vasta. Si trattava della catena di [[settings/mountains|montagne]] di cui avevo parlato; del punto in cui si incontravano tutte le valli.
 
 Lì, dall’altezza di una scarpata ripida, per così dire (ma una scarpata alta migliaia di piedi), si poteva guardare giù su un intero quartiere o addirittura un piccolo mondo. Sul mapa, avevo pensato che fosse così vasto da poter essere controllato soltanto in questa o quella sua parte; invece, si poteva vedere tutto intero.
 
-E questa è una cosa particolare che ho notato in tutte le [[Mountains|montagne]] e che non sono mai riuscito a comprendere: cioè, se si disegna un piano o una sezione in scala reale, la montagna non sembra affatto qualcosa di così importante. In teoria, non dovrebbe essere possibile dominare il mondo dalla sua altezza, né sentirlo piccolo sotto di sé, né avere l’impressione di poter controllare un intero paesaggio con una sola mano. Eppure è proprio così che avviene. Le [[Mountains|montagne]], dalla loro altezza, ci rivelano due verità: da un lato, ci fanno improvvisamente rendere conto della nostra insignificanza; dall’altro, liberano la mente umana, permettendole di percepire la propria grandezza e di sentirsi parte di qualcosa di più vasto. Ma ripeto ancora: in teoria, considerando esattamente la relazione tra l’altezza delle montagne e le distanze che si possono osservare da esse, non dovrebbero avere un tale effetto. E il fatto che lo abbiano è legato a qualcos’altro: al modo in cui esagerano la propria ripidezza.
+E questa è una cosa particolare che ho notato in tutte le [[settings/mountains|montagne]] e che non sono mai riuscito a comprendere: cioè, se si disegna un piano o una sezione in scala reale, la montagna non sembra affatto qualcosa di così importante. In teoria, non dovrebbe essere possibile dominare il mondo dalla sua altezza, né sentirlo piccolo sotto di sé, né avere l’impressione di poter controllare un intero paesaggio con una sola mano. Eppure è proprio così che avviene. Le [[settings/mountains|montagne]], dalla loro altezza, ci rivelano due verità: da un lato, ci fanno improvvisamente rendere conto della nostra insignificanza; dall’altro, liberano la mente umana, permettendole di percepire la propria grandezza e di sentirsi parte di qualcosa di più vasto. Ma ripeto ancora: in teoria, considerando esattamente la relazione tra l’altezza delle montagne e le distanze che si possono osservare da esse, non dovrebbero avere un tale effetto. E il fatto che lo abbiano è legato a qualcos’altro: al modo in cui esagerano la propria ripidezza.
 
 Ad esempio, quelle nobili colline, le mie terre nel Sussex. Quando ci si trova sopra di esse e si può ammirare la foresta pluviale, diciamo da Chanctonbury, si ha questa sensazione.
 
@@ -9460,7 +9460,7 @@ Well, so it was here from the Grimsel when I overlooked the springs of the Rhone
 
 It felt for all the world as deep and utterly below me as this other —
 
-Moreover, where there was no mist, the air was so surprisingly clear that I could see everything clean and sharp wherever I turned my eyes. The [[Mountains|mountains]] forbade any very far horizons to the view, and all that I could see was as neat and vivid as those coloured photographs they sell with bright green grass and bright white snow, and blue glaciers like precious stones.
+Moreover, where there was no mist, the air was so surprisingly clear that I could see everything clean and sharp wherever I turned my eyes. The [[settings/mountains|mountains]] forbade any very far horizons to the view, and all that I could see was as neat and vivid as those coloured photographs they sell with bright green grass and bright white snow, and blue glaciers like precious stones.
 
 I scrambled down the mountain, for here, on the south side of the pass, there was no snow or ice, and it was quite easy to leave the road and take the old path cutting off the zig-zags. As the air got heavier, I became hungry, and at the very end of my descent, two hundred feet or so above the young Rhone, I saw a great hotel. I went round to their front door and asked them whether I could eat, and at what price. ‘Four francs,’ they said.
 
@@ -9479,7 +9479,7 @@ Beh, quindi proveniva proprio dal Grimsel il luogo da cui avevo trascurato le so
 
 “Sembrava davvero qualcosa di profondo e completamente al di sotto di me, proprio come quest’altro…”
 
-Inoltre, lì dove non c'era nebbia, l'aria era così sorprendentemente limpida che riuscivo a vedere tutto con chiarezza e nitidezza, ovunque girassi lo sguardo. Le [[Mountains|montagne]] impedivano la vista di orizzonti più lontani; tutto ciò che riuscivo a vedere era così ordinato e vivido come quelle fotografie a colori che vendono, con erba verde brillante, neve bianca luminosa e ghiacciai blu simili a pietre preziose.
+Inoltre, lì dove non c'era nebbia, l'aria era così sorprendentemente limpida che riuscivo a vedere tutto con chiarezza e nitidezza, ovunque girassi lo sguardo. Le [[settings/mountains|montagne]] impedivano la vista di orizzonti più lontani; tutto ciò che riuscivo a vedere era così ordinato e vivido come quelle fotografie a colori che vendono, con erba verde brillante, neve bianca luminosa e ghiacciai blu simili a pietre preziose.
 
 Scalai a fatica la montagna: qui, sul versante sud del passo, non c'era né neve né ghiaccio, quindi era abbastanza facile lasciare la strada principale e prendere il vecchio sentiero che evitava i tornanti. Man mano che l’aria diventava più densa, iniziai ad avere fame; verso la fine della discesa, a circa duecento piedi sopra il giovane fiume Rodano, vidi un grande hotel. Andai davanti alla loro porta e chiesi se potevo mangiare e a quale prezzo. “Quattro franchi,” mi risposero.
 
@@ -9549,7 +9549,7 @@ At this she made a most fearful clamour, saying that it was madness, and implori
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Sulla mania per le università
+Sulla mania per le università
 
 Guarda con occhi che brillano come quelli di un'auto. Eh? Te lo spiego: è la punizione per il loro orgoglio intellettuale, un peccato che offende ancora di più gli angeli rispetto a qualsiasi altro.
 
@@ -9578,7 +9578,7 @@ In quel momento fece un gran clamore, dicendo che era pazzia, e mi supplicò di 
 
 THE IMPASSABLE HILLS
 
-KNEW MORE OF the [[Mountains|mountains]] than any one for miles. And this by asking many afterwards I found out to be true. He said that he had crossed the Nufenen and the Gries whenever they could be crossed since he was a child, and that if I attempted it that day I should sleep that night in Paradise. The clouds on the mountain, the soft snow recently fallen, the rain that now occupied the valleys, the glacier on the Gries, and the pathless snow in the mist on the Nufenen would make it sheer suicide for him, an experienced guide, and for me a worse madness. Also he spoke of my boots and wondered at my poor coat and trousers, and threatened me with intolerable cold.
+KNEW MORE OF the [[settings/mountains|mountains]] than any one for miles. And this by asking many afterwards I found out to be true. He said that he had crossed the Nufenen and the Gries whenever they could be crossed since he was a child, and that if I attempted it that day I should sleep that night in Paradise. The clouds on the mountain, the soft snow recently fallen, the rain that now occupied the valleys, the glacier on the Gries, and the pathless snow in the mist on the Nufenen would make it sheer suicide for him, an experienced guide, and for me a worse madness. Also he spoke of my boots and wondered at my poor coat and trousers, and threatened me with intolerable cold.
 
 It seems that the books I had read at home, when they said that the Nufenen had no snow on it, spoke of a later season of the year; it was all snow now, and soft snow, and hidden by a full mist in such a day from the first third of the ascent. As for the Gries, there was a glacier on the top which needed some kind of clearness in the weather. Hearing all this I said I would remain — but it was with a heavy heart. Already I felt a shadow of defeat over me. The loss of time was a thorn. I was already short of cash, and my next money was Milan. My return to England was fixed for a certain date, and stronger than either of these motives against delay was a burning restlessness that always takes men when they are on the way to great adventures.
 
@@ -9593,7 +9593,7 @@ The rain beat on my window, the clouds came lower still down the mountain. Then 
 
 Le colline insuperabili
 
-Conosceva quelle [[Mountains|montagne]] meglio di chiunque altro nelle vicinanze. E dopo averne chiesto spiegazioni a molte persone, ho scoperto che ciò era vero. Disse di aver attraversato il Nufenen e il Gries ogni volta che fosse stato possibile farlo, fin da quando era bambino; aggiunse che se avessi tentato quel giorno, avrei trascorso la notte in Paradiso. Le nuvole sulle montagne, la neve fresca appena caduta, la pioggia che riempiva i valli, il ghiacciaio sul Gries, e quella neve impenetrabile avvolta nella nebbia sul Nufenen rendevano quell’impresa un vero suicidio. Per lui, un guida esperto; per me, una follia ancora peggiore. Inoltre, commentò le mie scarpe e si meravigliò del mio povero cappotto e dei miei pantaloni, minacciandomi di un freddo intollerabile.
+Conosceva quelle [[settings/mountains|montagne]] meglio di chiunque altro nelle vicinanze. E dopo averne chiesto spiegazioni a molte persone, ho scoperto che ciò era vero. Disse di aver attraversato il Nufenen e il Gries ogni volta che fosse stato possibile farlo, fin da quando era bambino; aggiunse che se avessi tentato quel giorno, avrei trascorso la notte in Paradiso. Le nuvole sulle montagne, la neve fresca appena caduta, la pioggia che riempiva i valli, il ghiacciaio sul Gries, e quella neve impenetrabile avvolta nella nebbia sul Nufenen rendevano quell’impresa un vero suicidio. Per lui, un guida esperto; per me, una follia ancora peggiore. Inoltre, commentò le mie scarpe e si meravigliò del mio povero cappotto e dei miei pantaloni, minacciandomi di un freddo intollerabile.
 
 Sembra che i libri che avevo letto a casa, quando dicevano che il Nufenen era privo di neve, si riferissero a una stagione successiva dell’anno; ora invece c’era solo neve, neve morbida, nascosta da una fitta nebbia già dalla prima metà della salita. Per quanto riguarda il Gries, sulla sua cima c’era un ghiacciaio che richiedeva condizioni meteorologiche particolarmente favorevoli. Sentendo tutto questo, dissi che sarei rimasto, ma con il cuore pesante. Già sentivo avvicinarsi la sconfitta; la perdita di tempo era una vera e propria piaga. Mi mancavano già i soldi, e il mio prossimo incarico mi avrebbe portato a Milano. Il mio ritorno in Inghilterra era previsto per una data precisa. Ma più forte di tutti questi motivi che mi spingevano ad accelerare i tempi, c’era un’irrequietezza ardente che colpisce sempre gli uomini quando sono sul punto di intraprendere grandi avventure.
 
@@ -9612,11 +9612,11 @@ THE START
 
 MY WAKING, PREPARE yourselves for the most extraordinary and terrible adventure that befell me out of all the marvels and perils of this pilgrimage, the most momentous and the most worthy of perpetual record, I think, of all that has ever happened since the beginning of the world.
 
-At three o’clock the guide knocked at my door, and I rose and came out to him. We drank coffee and ate bread. We put into our sacks ham and bread, and he white wine and I brandy. Then we set out. The rain had dropped to a drizzle, and there was no wind. The sky was obscured for the most part, but here and there was a star. The hills hung awfully above us in the night as we crossed the spongy valley. A little wooden bridge took us over the young Rhone, here only a stream, and we followed a path up into the tributary ravine which leads to the Nufenen and the Gries. In a mile or two it was a little lighter, and this was as well, for some weeks before a great avalanche had fallen, and we had to cross it gingerly. Beneath the wide cap of frozen snow ran a torrent roaring. I remembered Colorado, and how I had crossed the Arkansaw on such a bridge as a boy. We went on in the uneasy [[Dawn|dawn]]. The woods began to show, and there was a cross where a man had slipped from above that very April and been killed. Then, most ominous and disturbing, the drizzle changed to a rain, and the guide shook his head and said it would be snowing higher up. We went on, and it grew lighter. Before it was really day (or else the weather confused and darkened the sky), we crossed a good bridge, built long ago, and we halted at a shed where the cattle lie in the late summer when the snow is melted. There we rested a moment.
+At three o’clock the guide knocked at my door, and I rose and came out to him. We drank coffee and ate bread. We put into our sacks ham and bread, and he white wine and I brandy. Then we set out. The rain had dropped to a drizzle, and there was no wind. The sky was obscured for the most part, but here and there was a star. The hills hung awfully above us in the night as we crossed the spongy valley. A little wooden bridge took us over the young Rhone, here only a stream, and we followed a path up into the tributary ravine which leads to the Nufenen and the Gries. In a mile or two it was a little lighter, and this was as well, for some weeks before a great avalanche had fallen, and we had to cross it gingerly. Beneath the wide cap of frozen snow ran a torrent roaring. I remembered Colorado, and how I had crossed the Arkansaw on such a bridge as a boy. We went on in the uneasy [[motifs/dawn|dawn]]. The woods began to show, and there was a cross where a man had slipped from above that very April and been killed. Then, most ominous and disturbing, the drizzle changed to a rain, and the guide shook his head and said it would be snowing higher up. We went on, and it grew lighter. Before it was really day (or else the weather confused and darkened the sky), we crossed a good bridge, built long ago, and we halted at a shed where the cattle lie in the late summer when the snow is melted. There we rested a moment.
 
 But on leaving its shelter we noticed many disquieting things. The place was a hollow, the end of the ravine — a bowl, as it were; one way out of which is the Nufenen, and the other the Gries.
 
-Here it is in a sketch map. The heights are marked lighter and lighter, from black in the valleys to white in the impassable [[Mountains|mountains]]. E is where
+Here it is in a sketch map. The heights are marked lighter and lighter, from black in the valleys to white in the impassable [[settings/mountains|mountains]]. E is where
 
 * * *
 
@@ -9642,9 +9642,9 @@ Ecco rappresentato su una mappa schematica. Le altitudini sono indicate con colo
 
 ALL SNOW
 
-WE STOOD, IN a great cup or basin, having just come up the ravine B. C is the Italian valley of the Tosa, and the neck between it and E is the Gries. D is the valley of the Ticino, and the neck between E and it is the Nufenen. A is the Crystal Mountain. You may take the necks or passes to be about 8000, and the [[Mountains|mountains]] 10,000 or 11,000 feet above the sea.
+WE STOOD, IN a great cup or basin, having just come up the ravine B. C is the Italian valley of the Tosa, and the neck between it and E is the Gries. D is the valley of the Ticino, and the neck between E and it is the Nufenen. A is the Crystal Mountain. You may take the necks or passes to be about 8000, and the [[settings/mountains|mountains]] 10,000 or 11,000 feet above the sea.
 
-We noticed, I say, many disquieting things. First, all, that bowl or cup below the passes was a carpet of snow, save where patches of black water showed, and all the passes and [[Mountains|mountains]], from top to bottom, were covered with very thick snow; the deep surface of it soft and fresh fallen. Secondly, the rain had turned into snow. It was falling thickly all around. Nowhere have I more perceived the immediate presence of great Death. Thirdly, it was far colder, and we felt the beginning of a wind. Fourthly, the clouds had come quite low down.
+We noticed, I say, many disquieting things. First, all, that bowl or cup below the passes was a carpet of snow, save where patches of black water showed, and all the passes and [[settings/mountains|mountains]], from top to bottom, were covered with very thick snow; the deep surface of it soft and fresh fallen. Secondly, the rain had turned into snow. It was falling thickly all around. Nowhere have I more perceived the immediate presence of great Death. Thirdly, it was far colder, and we felt the beginning of a wind. Fourthly, the clouds had come quite low down.
 
 The guide said it could not be done, but I said we must attempt it. I was eager, and had not yet felt the awful grip of the cold. We left the Nufenen on our left, a hopeless steep of new snow buried in fog, and we attacked the Gries. For half-an-hour we plunged on through snow above our knees, and my thin cotton clothes were soaked. So far the guide knew we were more or less on the path, and he went on and I panted after him. Neither of us spoke, but occasionally he looked back to make sure I had not dropped out.
 
@@ -9659,9 +9659,9 @@ We came to a place which is, in the warm season, an alp; that is, a slope of gra
 
 Tutto la neve
 
-Eravamo in una grande conca o bacino, appena arrivati dalla valle B. C è la valle italiana della Tosa, e lo stretto di terra tra essa ed E è il Gries. D è la valle del Ticino, e lo stretto di terra tra E e essa è il Nufenen. A è la Montagna di Cristallo. Si può stimare che questi passi o stretti siano alti circa 8000 piedi, mentre le [[Mountains|montagne]] raggiungano i 10.000 o 11.000 piedi sul livello del mare.
+Eravamo in una grande conca o bacino, appena arrivati dalla valle B. C è la valle italiana della Tosa, e lo stretto di terra tra essa ed E è il Gries. D è la valle del Ticino, e lo stretto di terra tra E e essa è il Nufenen. A è la Montagna di Cristallo. Si può stimare che questi passi o stretti siano alti circa 8000 piedi, mentre le [[settings/mountains|montagne]] raggiungano i 10.000 o 11.000 piedi sul livello del mare.
 
-Abbiamo notato, dico, molte cose inquietanti. Prima di tutto, quella coppa o quel recipiente situati sotto le creste era coperto da uno strato di neve, tranne nei punti in cui si vedevano chiazze d’acqua nera; tutte le creste e le [[Mountains|montagne]], dalla cima alla base, erano ricoperte da una neve molto spessa; la superficie della neve era profonda e appena caduta. In secondo luogo, la pioggia si era trasformata in neve; nevicava abbondantemente ovunque. In nessun altro posto ho mai percepito così chiaramente la presenza imminente della Morte. Terzo, faceva molto più freddo e sentivamo l’inizio di un vento. Quarto, le nuvole si erano abbassate molto.
+Abbiamo notato, dico, molte cose inquietanti. Prima di tutto, quella coppa o quel recipiente situati sotto le creste era coperto da uno strato di neve, tranne nei punti in cui si vedevano chiazze d’acqua nera; tutte le creste e le [[settings/mountains|montagne]], dalla cima alla base, erano ricoperte da una neve molto spessa; la superficie della neve era profonda e appena caduta. In secondo luogo, la pioggia si era trasformata in neve; nevicava abbondantemente ovunque. In nessun altro posto ho mai percepito così chiaramente la presenza imminente della Morte. Terzo, faceva molto più freddo e sentivamo l’inizio di un vento. Quarto, le nuvole si erano abbassate molto.
 
 Il guida disse che non era possibile farlo, ma io dissi che dovevamo provare lo stesso. Ero impaziente e ancora non avevo sentito l’effetto terribile del freddo. Lasciammo il Nufenen sulla nostra sinistra, una ripida pendenza coperta da neve fresca e avvolta nella nebbia, e ci dirigemmo verso il Gries. Per mezz’ora avanzammo tra la neve che arrivava fino alle ginocchia; i miei sottili vestiti di cotone si bagnarono completamente. Finora il guida sapeva che eravamo più o meno sulla strada giusta, quindi continuò ad andare avanti mentre io lo seguivo ansimando. Nessuno dei due parlava; di tanto in tanto lui si girava per assicurarsi che non mi fossi fermato.
 
@@ -9704,15 +9704,15 @@ DEFEAT
 
 UNDER THE LEE of the nearest; I came up close to him and he put his hands to my ear and shouted to me that nothing further could be done — he had so to shout because in among the rocks the hurricane made a roaring sound, swamping the voice.
 
-I asked how far we were from the summit. He said he did not know where we were exactly, but that we could not be more than 800 feet from it. I was but that from [[Italy]] and I would not admit defeat. I offered him all I had in money to go on, but it was folly in me, because if I had had enough to tempt him and if he had yielded we should both have died. Luckily it was but a little sum. He shook his head. He would not go on, he broke out, for all the money there was in the world. He shouted me to eat and drink, and so we both did.
+I asked how far we were from the summit. He said he did not know where we were exactly, but that we could not be more than 800 feet from it. I was but that from [[settings/italy|Italy]] and I would not admit defeat. I offered him all I had in money to go on, but it was folly in me, because if I had had enough to tempt him and if he had yielded we should both have died. Luckily it was but a little sum. He shook his head. He would not go on, he broke out, for all the money there was in the world. He shouted me to eat and drink, and so we both did.
 
-Then I understood his wisdom, for in a little while the cold began to seize me in my thin clothes. My hands were numb, my face already gave me intolerable pain, and my legs suffered and felt heavy. I learnt another thing (which had I been used to [[Mountains|mountains]] I should have known), that it was not a simple thing to return. The guide was hesitating whether to stay in this rough shelter, or to face the chances of the descent. This terror had not crossed my mind, and I thought as little of it as I could, needing my courage, and being near to breaking down from the intensity of the cold.
+Then I understood his wisdom, for in a little while the cold began to seize me in my thin clothes. My hands were numb, my face already gave me intolerable pain, and my legs suffered and felt heavy. I learnt another thing (which had I been used to [[settings/mountains|mountains]] I should have known), that it was not a simple thing to return. The guide was hesitating whether to stay in this rough shelter, or to face the chances of the descent. This terror had not crossed my mind, and I thought as little of it as I could, needing my courage, and being near to breaking down from the intensity of the cold.
 
 It seems that in a tourmente (for by that excellent name do the mountain people call such a storm) it is always a matter of doubt whether to halt or go back. If you go back through it and lose your way, you are done for. If you halt in some shelter, it may go on for two or three days, and then there is an end of you.
 
-After a little he decided for a return, but he told me honestly what the chances were, and my suffering from cold mercifully mitigated my fear. But even in that moment, I felt in a confused but very conscious way that I was defeated. I had crossed so many great hills and rivers, and pressed so well on my undeviating arrow-line to Rome, and I had charged this one great barrier manfully where the straight path of my pilgrimage crossed the Alps — and I had failed! Even in that fearful cold I felt it, and it ran through my doubt of return like another and deeper current of pain. [[Italy]] was there, just above, right to my hand. A lifting of a cloud, a little respite, and every downward step would have been towards the sunlight. As it was, I was being driven back northward, in retreat and ashamed. The Alps had conquered me.
+After a little he decided for a return, but he told me honestly what the chances were, and my suffering from cold mercifully mitigated my fear. But even in that moment, I felt in a confused but very conscious way that I was defeated. I had crossed so many great hills and rivers, and pressed so well on my undeviating arrow-line to Rome, and I had charged this one great barrier manfully where the straight path of my pilgrimage crossed the Alps — and I had failed! Even in that fearful cold I felt it, and it ran through my doubt of return like another and deeper current of pain. [[settings/italy|Italy]] was there, just above, right to my hand. A lifting of a cloud, a little respite, and every downward step would have been towards the sunlight. As it was, I was being driven back northward, in retreat and ashamed. The Alps had conquered me.
 
-Let us always after this combat their immensity and their will, and always hate the inhuman guards that hold the gates of [[Italy]], and the powers that
+Let us always after this combat their immensity and their will, and always hate the inhuman guards that hold the gates of [[settings/italy|Italy]], and the powers that
 
 * * *
 
@@ -9723,15 +9723,15 @@ Sconfitta
 
 All’ombra del più vicino; mi avvicinai a lui e lui mise le mani sulle mie orecchie e gridò che non si poteva fare nulla di più. Doveva gridare così perché, tra le rocce, l’uragano produceva un rumore assordante che sovrastava ogni voce.
 
-Gli chiesi a che distanza fossimo dal vertice. Disse di non sapere esattamente dove ci trovassimo, ma che non potevamo essere più lontani di 800 piedi. Io pensavo che, essendo così vicini a [[Italy|Italia]], non avrei mai ammesso la sconfitta. Gli offrii tutto il denaro che avevo per continuare il viaggio, ma fu una follia da parte mia: se avessi avuto abbastanza soldi per convincerlo e lui avesse accettato, entrambi saremmo morti. Fortunatamente si trattava di una somma modesta. Scosse la testa: non avrebbe continuato, disse, per tutto il denaro del mondo. Gli dissi di mangiare e bere, e così facemmo entrambi.
+Gli chiesi a che distanza fossimo dal vertice. Disse di non sapere esattamente dove ci trovassimo, ma che non potevamo essere più lontani di 800 piedi. Io pensavo che, essendo così vicini a [[settings/italy|Italia]], non avrei mai ammesso la sconfitta. Gli offrii tutto il denaro che avevo per continuare il viaggio, ma fu una follia da parte mia: se avessi avuto abbastanza soldi per convincerlo e lui avesse accettato, entrambi saremmo morti. Fortunatamente si trattava di una somma modesta. Scosse la testa: non avrebbe continuato, disse, per tutto il denaro del mondo. Gli dissi di mangiare e bere, e così facemmo entrambi.
 
-Allora capii la sua saggezza: dopo poco, il freddo iniziò a colpirmi con violenza nei miei vestiti sottili. Le mani mi si intorpidirono, il viso cominciò a dolermi insopportabilmente e le gambe diventarono pesanti e doloranti. Imparai anche un’altra cosa (che, se fossi stato abituato alle [[Mountains|montagne]], avrei dovuto sapere già): non era affatto facile tornare indietro. Il guida esitava tra rimanere in quel rifugio rudimentale o affrontare i rischi della discesa. Quel terrore nemmeno mi aveva sfiorato la mente; ci pensavo il meno possibile, concentrato solo sul mantenere il coraggio, mentre il freddo intenso minacciava di farmi crollare.
+Allora capii la sua saggezza: dopo poco, il freddo iniziò a colpirmi con violenza nei miei vestiti sottili. Le mani mi si intorpidirono, il viso cominciò a dolermi insopportabilmente e le gambe diventarono pesanti e doloranti. Imparai anche un’altra cosa (che, se fossi stato abituato alle [[settings/mountains|montagne]], avrei dovuto sapere già): non era affatto facile tornare indietro. Il guida esitava tra rimanere in quel rifugio rudimentale o affrontare i rischi della discesa. Quel terrore nemmeno mi aveva sfiorato la mente; ci pensavo il meno possibile, concentrato solo sul mantenere il coraggio, mentre il freddo intenso minacciava di farmi crollare.
 
 Sembra che, durante una tempesta (così la chiamano infatti gli abitanti di quella regione montuosa), sia sempre difficile decidere se fermarsi o tornare indietro. Se si torna indietro e ci si perde, è la fine. Se invece ci si rifugia in qualche luogo sicuro, la tempesta potrebbe durare ancora due o tre giorni, dopodiché arriverà comunque la fine.
 
-Dopo un po’ decise di tornare indietro, ma mi disse onestamente quali fossero le probabilità di successo; il mio dolore causato dal freddo mitigò, per fortuna, la mia paura. Tuttavia, anche in quel momento, sentii in modo confuso ma molto chiaro di essere stato sconfitto. Avevo superato tante difficoltà, avevo seguito fedelmente la strada che mi conduceva a Roma. Eppure avevo fallito! Anche nel freddo terribile di quella notte ne ebbi consapevolezza; quel senso di sconfitta si aggiunse alle mie incertezze riguardo al ritorno. [[Italy|Italia]] era lì, proprio sopra di me. Un po’ di tregua, un piccolo passo avanti, e sarei stato finalmente alla luce del sole. Invece, venivo costretto a tornare indietro, verso nord, in ritirata e con vergogna. Gli Alpi mi avevano sconfitto.
+Dopo un po’ decise di tornare indietro, ma mi disse onestamente quali fossero le probabilità di successo; il mio dolore causato dal freddo mitigò, per fortuna, la mia paura. Tuttavia, anche in quel momento, sentii in modo confuso ma molto chiaro di essere stato sconfitto. Avevo superato tante difficoltà, avevo seguito fedelmente la strada che mi conduceva a Roma. Eppure avevo fallito! Anche nel freddo terribile di quella notte ne ebbi consapevolezza; quel senso di sconfitta si aggiunse alle mie incertezze riguardo al ritorno. [[settings/italy|Italia]] era lì, proprio sopra di me. Un po’ di tregua, un piccolo passo avanti, e sarei stato finalmente alla luce del sole. Invece, venivo costretto a tornare indietro, verso nord, in ritirata e con vergogna. Gli Alpi mi avevano sconfitto.
 
-Dopo questo combattimento, ricordiamo sempre la loro grandezza e la loro volontà; odiamo sempre quei guardiani inumani che custodiscono le porte di [[Italy|Italia]] e quelle forze che.
+Dopo questo combattimento, ricordiamo sempre la loro grandezza e la loro volontà; odiamo sempre quei guardiani inumani che custodiscono le porte di [[settings/italy|Italia]] e quelle forze che.
 
 * * *
 
@@ -9742,7 +9742,7 @@ Dopo questo combattimento, ricordiamo sempre la loro grandezza e la loro volont�
 
 THE RETREAT
 
-LIE IN WAIT for men on those high places. But now I know that [[Italy]] will always stand apart. She is cut off by no ordinary wall, and Death has all his army on her frontiers.
+LIE IN WAIT for men on those high places. But now I know that [[settings/italy|Italy]] will always stand apart. She is cut off by no ordinary wall, and Death has all his army on her frontiers.
 
 Well, we returned. Twice the guide rubbed my hands with brandy, and once I had to halt and recover for a moment, failing and losing my hold. Believe it or not, the deep footsteps of our ascent were already quite lost and covered by the new snow since our halt, and even had they been visible, the guide would not have retraced them. He did what I did not at first understand, but what I soon saw to be wise. He took a steep slant downward over the face of the snow-slope, and though such a pitch of descent a little unnerved me, it was well in the end. For when we had gone down perhaps 900 feet, or a thousand, in perpendicular distance, even I, half numb and fainting, could feel that the storm was less violent. Another two hundred, and the flakes could be seen not driving in flashes past, but separately falling. Then in some few minutes we could see the slope for a very long way downwards quite clearly; then, soon after, we saw far below us the place where the mountain-side merged easily into the plain of that cup or basin whence we had started.
 
@@ -9761,7 +9761,7 @@ But to think of it! I who had all that planned out, and had so nearly done it! I
 
 Il ritiro
 
-Trappole in attesa degli uomini su quei luoghi elevati. Ma ora so che [[Italy|Italia]] rimarrà sempre separata dagli altri. Non è delimitata da muri ordinari, e la Morte ha tutto il suo esercito alle sue frontiere.
+Trappole in attesa degli uomini su quei luoghi elevati. Ma ora so che [[settings/italy|Italia]] rimarrà sempre separata dagli altri. Non è delimitata da muri ordinari, e la Morte ha tutto il suo esercito alle sue frontiere.
 
 Beh, siamo tornati indietro. Due volte il guida mi ha strofinato le mani con brandy, e una volta ho dovuto fermarmi per riprendermi un attimo, poiché avevo perso l’equilibrio. Che ci crediate o no, le orme profonde lasciate durante la nostra salita erano già state completamente coperte dalla nuova neve; anche se fossero state visibili, il guida non avrebbe cercato di seguirlle. Ha fatto qualcosa che all’inizio non ho capito, ma che poi ho riconosciuto come saggio: ha preso una direzione ripida verso il basso lungo la pendenza innevata. Anche se una discesa così ripida mi ha un po’ innervosito, alla fine è risultata efficace. Quando abbiamo percorso circa 900 piedi, o mille piedi in distanza verticale, anche io, ormai semiintorpidito e stordito, ho potuto sentire che la tempesta si era attenuata. Ancora duecento piedi, e i fiocchi di neve non cadevano più tutti insieme, ma uno dopo l’altro. In pochi minuti riuscivamo a vedere chiaramente tutta la pendenza fino in basso; poco dopo abbiamo scorto, molto lontano sotto di noi, il punto in cui il versante della montagna si univa dolcemente alla pianura da cui eravamo partiti.
 
@@ -9786,7 +9786,7 @@ PLACES! — NOW to have to recite all the litany of the vulgar; Bellinzona, Luga
 
 Indeed it is a bitter thing to have to give up one’s sword.
 
-I had not the money to wait; my defeat had lowered me in purse as well as in heart. I started off to enter by the ordinary gates — not [[Italy]] even, but a half-[[Italy]], the canton of the Ticino. It was very hard.
+I had not the money to wait; my defeat had lowered me in purse as well as in heart. I started off to enter by the ordinary gates — not [[settings/italy|Italy]] even, but a half-[[settings/italy|Italy]], the canton of the Ticino. It was very hard.
 
 This book is not a tragedy, and I will not write at any length of such pain. That same day, in the latter half of it, I went sullenly over the Furka; exactly as easy a thing as going up St James’ Street and down Piccadilly. I found the same storm on its summit, but on a highroad it was a different affair. I took no short cuts. I drank at all the inns — at the base, half-way up, near the top, and at the top. I told them, as the snow beat past, how I had attacked and all but conquered the Gries that wild morning, and they took me for a liar; so I became silent even within my own mind. I looked sullenly at the white ground all the way. And when on the far side I had got low enough to be rid of the snow and wind and to be in the dripping rain again, I welcomed the rain, and let it soothe like a sodden friend my sodden uncongenial mind.
 
@@ -9811,7 +9811,7 @@ Luoghi! Ora devo recitare l’intera lista di questi luoghi banali: Bellinzona, 
 
 Infatti, è davvero amaro dover rinunciare alla propria spada.
 
-Non avevo i soldi per aspettare; la mia sconfitta mi aveva ridotto sia in termini finanziari che di spirito. Decisi allora di entrare attraverso le porte ordinarie, non addirittura in [[Italy|Italia]], ma in una sorta di “mezza-[[Italy|Italia]]”, il cantone del Ticino. Fu molto difficile.
+Non avevo i soldi per aspettare; la mia sconfitta mi aveva ridotto sia in termini finanziari che di spirito. Decisi allora di entrare attraverso le porte ordinarie, non addirittura in [[settings/italy|Italia]], ma in una sorta di “mezza-[[settings/italy|Italia]]”, il cantone del Ticino. Fu molto difficile.
 
 Questo libro non è una tragedia, e non intendo descrivere con troppi dettagli un tale dolore. Lo stesso giorno, nella seconda metà della giornata, attraversai la Furka con aria cupa; fu altrettanto facile come percorrere St James’ Street e poi Piccadilly. Trovai la stessa tempesta sulla sua cima, ma su una strada principale la situazione era diversa. Non presi alcun sentiero alternativo. Mi fermai in tutte le locande: alla base, a metà percorso, vicino alla vetta e in cima. Mentre la neve mi colpiva il viso, raccontai loro di come avessi attaccato e quasi conquistato la Gries quella mattina selvaggia. Ma loro pensarono che stessi mentendo; così rimasi in silenzio anche dentro di me. Guardavo cupamente il terreno bianco per tutto il cammino. E quando, dall’altra parte, fui abbastanza in basso da liberarmi della neve e del vento e ritrovarmi sotto la pioggia battente, accolsi con gioia quella pioggia. Lasciai che lenisse, come un amico gentile, il mio spirito turbato.
 
@@ -9832,11 +9832,11 @@ Un accenno o un ricordo di cose gentili si diffondeva nella brezza leggera; i ve
 <span class="atom-split" data-atom="story_180_italy" data-title="The Path to Rome — Italy!" data-chapter="Italy" data-kind="story" data-tags="archetype/pilgrim,setting/italy"></span>
 
 
-[[Italy|ITALY]]!
+[[settings/italy|ITALY]]!
 
 caresses and when I began to see somewhat farther and felt a vigour and fulness in the outline of the Trees, I said to myself suddenly —
 
-‘I know what it is! It is the South, and a great part of my blood. They may call it Switzerland still, but I know now that I am in [[Italy]], and this is the gate of [[Italy]] lying in groves.’
+‘I know what it is! It is the South, and a great part of my blood. They may call it Switzerland still, but I know now that I am in [[settings/italy|Italy]], and this is the gate of [[settings/italy|Italy]] lying in groves.’
 
 Then and on till evening I reconciled myself with misfortune, and when I heard again at Airolo the speech of civilized men, and saw the strong Latin eyes and straight forms of the Race after all those days of fog and frost and German speech and the north, my eyes filled with tears and I was as glad as a man come home again, and I could have kissed the ground.
 
@@ -9846,7 +9846,7 @@ The wine of Airolo and its songs, how greatly they refreshed me! To see men with
 
 And so forth, explaining all fully with gestures, exaggerating, emphasizing, and acting the whole matter, so that they understood me without much error. But I found it more difficult to understand them, because they had a regular formed language with terminations and special words.
 
-It went to my heart to offer them no wine, but a thought was in me of which you shall soon hear more. My money was running low, and the chief anxiety of a civilized man was spreading over my mind like the shadow of a cloud over a field of corn in summer. They gave me a number of ‘good-nights’, and at parting I could not forbear from boasting that I was a [[Pilgrim|pilgrim]] on my way to Rome. This they repeated one to another, and one man told me that the next good halting-place was a town called Faido, three hours down the road. He held up three fingers to explain, and that was the last intercourse I had with the Airolans, for at once I took the road.
+It went to my heart to offer them no wine, but a thought was in me of which you shall soon hear more. My money was running low, and the chief anxiety of a civilized man was spreading over my mind like the shadow of a cloud over a field of corn in summer. They gave me a number of ‘good-nights’, and at parting I could not forbear from boasting that I was a [[archetypes/pilgrim|pilgrim]] on my way to Rome. This they repeated one to another, and one man told me that the next good halting-place was a town called Faido, three hours down the road. He held up three fingers to explain, and that was the last intercourse I had with the Airolans, for at once I took the road.
 
 I glanced up the dark ravine which I should have descended had I crossed the Nufenen. I thought of the Val Bavona, only just over the great wall that
 
@@ -9855,11 +9855,11 @@ I glanced up the dark ravine which I should have descended had I crossed the Nuf
 
 <span class="qlang-split" data-lang="it"></span>
 
-[[Italy|ITALIA]]!
+[[settings/italy|ITALIA]]!
 
 Carezze. E quando iniziai a vedere un po’ più chiaramente, e percepii una forza e una pienezza nelle forme degli alberi, all’improvviso mi dissi:
 
-“So cosa è! È il Sud, e una grande parte del mio sangue appartiene a quel luogo. Forse la gente continua a chiamarlo Svizzera, ma ora so di essere in [[Italy|Italia]], e questa è la porta d’ingresso dell’[[Italy|Italia]], nascosta tra gli alberi.”
+“So cosa è! È il Sud, e una grande parte del mio sangue appartiene a quel luogo. Forse la gente continua a chiamarlo Svizzera, ma ora so di essere in [[settings/italy|Italia]], e questa è la porta d’ingresso dell’[[settings/italy|Italia]], nascosta tra gli alberi.”
 
 E così, fino alla sera, riuscii a riconciliarmi con la sfortuna; quando, nuovamente ad Airolo, ascoltai i discorsi degli uomini civili e vidi quegli occhi forti e quei corpi snelli tipici della razza latina, dopo tutti quei giorni di nebbia, gelo, discorsi in tedesco e atmosfera settentrionale. Le lacrime mi riempirono gli occhi; ero così felice come se fossi tornato a casa, e avrei voluto baciare la terra.
 
@@ -9869,7 +9869,7 @@ Il vino di Airolo e le sue canzoni, quanto mi hanno rinfrescato! Vedere persone 
 
 E così via: spiegavo tutto nei dettagli con gesti, esagerando, sottolineando e recitando l’intera scena, in modo che mi capissero con poche possibilità di errore. Tuttavia, trovavo più difficile comprendere loro, perché utilizzavano un linguaggio ben strutturato, con desinenze e parole specifiche.
 
-Mi dispiaceva molto non poter offrire loro del vino, ma avevo un’idea in mente di cui presto ne sentirete parlare. Il mio denaro stava per finire, e l’angoscia tipica di un uomo civile iniziò a opprimermi, come l’ombra di una nuvola su un campo di mais in estate. Mi augurarono la buona notte, e al momento del congedo non potei fare a meno di vantarmi dicendo di essere un [[Pilgrim|>pellegrino]] in viaggio verso Roma. Lo ripeterono tutti tra loro, e uno di loro mi disse che la prossima tappa del mio viaggio era una città chiamata Faido, situata a tre ore di distanza. Mi fece capire indicando tre dita. Quella fu l’ultima volta che ebbi contatti con gli Airolani, perché subito dopo presi la strada.
+Mi dispiaceva molto non poter offrire loro del vino, ma avevo un’idea in mente di cui presto ne sentirete parlare. Il mio denaro stava per finire, e l’angoscia tipica di un uomo civile iniziò a opprimermi, come l’ombra di una nuvola su un campo di mais in estate. Mi augurarono la buona notte, e al momento del congedo non potei fare a meno di vantarmi dicendo di essere un [[archetypes/pilgrim|>pellegrino]] in viaggio verso Roma. Lo ripeterono tutti tra loro, e uno di loro mi disse che la prossima tappa del mio viaggio era una città chiamata Faido, situata a tre ore di distanza. Mi fece capire indicando tre dita. Quella fu l’ultima volta che ebbi contatti con gli Airolani, perché subito dopo presi la strada.
 
 Alzai lo sguardo verso la scura gola nella quale avrei dovuto scendere se avessi attraversato il Nufenen. Pensai al Val Bavona, situato appena oltre quella grande muraglia.
 
@@ -9884,7 +9884,7 @@ THE NEW WORLD
 
 held the west; and in one place where a rift (you have just seen its picture) led up to the summits of the hills I was half tempted to go back to Airolo and sleep and next morning to attempt a crossing. But I had accepted my fate on the Gries and the falling road also held me, and so I continued my way.
 
-Everything was pleasing in this new valley under the sunlight that still came strongly from behind the enormous [[Mountains|mountains]]; everything also was new, and I was evidently now in a country of a special kind. The slopes were populous, I had come to the great mother of fruits and men, and I was soon to see her
+Everything was pleasing in this new valley under the sunlight that still came strongly from behind the enormous [[settings/mountains|mountains]]; everything also was new, and I was evidently now in a country of a special kind. The slopes were populous, I had come to the great mother of fruits and men, and I was soon to see her
 
 * * *
 
@@ -9895,7 +9895,7 @@ Il Nuovo Mondo
 
 Controllava la parte ovest; e in un punto dove una crepa – avete appena visto la sua immagine – conduceva fino alle cime delle colline, fui quasi tentato di tornare ad Airolo per dormire e il giorno dopo provare a attraversare. Ma avevo accettato il mio destino sul Gries, e anche quel sentiero accidentato mi attirava, quindi proseguii lungo la mia strada.
 
-Tutto era piacevole in questa nuova valle, sotto i raggi del sole che ancora splendevano intensamente dietro le enormi [[Mountains|montagne]]; tutto era anche nuovo, e ovviamente mi trovavo ora in un paese di un tipo particolare. Le pendici erano popolate; ero giunto presso la “grande madre dei frutti e degli uomini”, e presto avrei potuto vederla con i miei occhi.
+Tutto era piacevole in questa nuova valle, sotto i raggi del sole che ancora splendevano intensamente dietro le enormi [[settings/mountains|montagne]]; tutto era anche nuovo, e ovviamente mi trovavo ora in un paese di un tipo particolare. Le pendici erano popolate; ero giunto presso la “grande madre dei frutti e degli uomini”, e presto avrei potuto vederla con i miei occhi.
 
 * * *
 
@@ -9930,11 +9930,11 @@ Notai tutte queste caratteristiche da un lato all’altro della valle; a meno di
 
 FAIDO
 
-out again far below the cavern where it plunged in. Then when all three — the river, the road, and the railway — have got over the great step, a new level of the valley opens. This is the way the road comes into the south, and as I passed down to the lower valley, though it was darkening into evening, something melted out of the mountain air, there was content and warmth in the growing things, and I found it was a place for vineyards. So, before it was yet dark, I came into Faido, and there I slept, having at last, after so many adventures, crossed the threshold and occupied [[Italy]].
+out again far below the cavern where it plunged in. Then when all three — the river, the road, and the railway — have got over the great step, a new level of the valley opens. This is the way the road comes into the south, and as I passed down to the lower valley, though it was darkening into evening, something melted out of the mountain air, there was content and warmth in the growing things, and I found it was a place for vineyards. So, before it was yet dark, I came into Faido, and there I slept, having at last, after so many adventures, crossed the threshold and occupied [[settings/italy|Italy]].
 
 Next day before sunrise I went out, and all the valley was adorned and tremulous with the films of morning.
 
-Now all of you who have hitherto followed the story of this great [[Journey|journey]], put out of your minds the Alps and the passes and the snows — postpone even
+Now all of you who have hitherto followed the story of this great [[motifs/journey|journey]], put out of your minds the Alps and the passes and the snows — postpone even
 
 * * *
 
@@ -9943,11 +9943,11 @@ Now all of you who have hitherto followed the story of this great [[Journey|jour
 
 FAIDO
 
-Di nuovo fuori, molto più in basso della caverna dove si immetteva. Poi, quando tutti e tre – il fiume, la strada e la ferrovia – avevano superato quel grande ostacolo naturale, si apriva un nuovo livello della valle. Era così che la strada raggiungeva la parte meridionale della regione; mentre scendevo verso la valle sottostante, anche se stava imbrunendo, qualcosa sembrava “sciogliersi” nell’aria montana: c’era una sensazione di serenità e calore nelle piante che crescevano lì. E capii subito che quel luogo era perfetto per i vigneti. Così, prima ancora che facesse completamente buio, arrivai a Faido e lì mi riposai, dopo tante avventure. Avevo finalmente varcato la soglia ed entrato in [[Italy|Italia]].
+Di nuovo fuori, molto più in basso della caverna dove si immetteva. Poi, quando tutti e tre – il fiume, la strada e la ferrovia – avevano superato quel grande ostacolo naturale, si apriva un nuovo livello della valle. Era così che la strada raggiungeva la parte meridionale della regione; mentre scendevo verso la valle sottostante, anche se stava imbrunendo, qualcosa sembrava “sciogliersi” nell’aria montana: c’era una sensazione di serenità e calore nelle piante che crescevano lì. E capii subito che quel luogo era perfetto per i vigneti. Così, prima ancora che facesse completamente buio, arrivai a Faido e lì mi riposai, dopo tante avventure. Avevo finalmente varcato la soglia ed entrato in [[settings/italy|Italia]].
 
 Il giorno dopo, prima dell'alba, uscii fuori, e tutta la valle era adornata e increspata dalle sfumature del mattino.
 
-Ora, tutti voi che avete seguito finora la storia di questo grande [[Journey|Viaggio]], mettete da parte le Alpi, i passi e la neve, rimandate anche questi pensieri.
+Ora, tutti voi che avete seguito finora la storia di questo grande [[motifs/journey|Viaggio]], mettete da parte le Alpi, i passi e la neve, rimandate anche questi pensieri.
 
 * * *
 
@@ -9958,7 +9958,7 @@ Ora, tutti voi che avete seguito finora la storia di questo grande [[Journey|Via
 
 8 FRANCS IO CENTIMES
 
-FOR A MOMENT thé influence of the happy [[Dawn|dawn]] and of that South into which I had entered, and consider only this truth, that I found myself just out of Faido on this blessed date of God with eight francs and forty centimes for my viaticum and temporal provision wherewith to accomplish the good work of my pilgrimage.
+FOR A MOMENT thé influence of the happy [[motifs/dawn|dawn]] and of that South into which I had entered, and consider only this truth, that I found myself just out of Faido on this blessed date of God with eight francs and forty centimes for my viaticum and temporal provision wherewith to accomplish the good work of my pilgrimage.
 
 Now when you consider that coffee and bread was twopence and a penny for the maid, you may say without lying that I had left behind me the escarpment of the Alps and stood upon the downward slopes of the first Italian stream and at the summit of the entry road with eight francs ten centimes in my pocket — my body hearty and my spirit light, for the arriving sun shot glory into the sky. The air was keen, and a fresh day came radiant over the high eastern walls of the valley.
 
@@ -9977,9 +9977,9 @@ Or one might put it rhetorically, fiercely, stoically, finely, republicanly into
 
 <span class="qlang-split" data-lang="it"></span>
 
-# 8 franchi e 10 centesimi
+8 franchi e 10 centesimi
 
-Per un momento, l’influenza della felice [[Dawn|'alba]] e di quel Sud in cui ero entrato mi fece considerare soltanto questa verità: in quella benedetta data di Dio, mi trovavo appena uscito da Faido, con otto franchi e quaranta centesimi a disposizione per il mio viaggio e per le necessità quotidiane, al fine di poter compiere il buon lavoro della mia pellegrinazione.
+Per un momento, l’influenza della felice [[motifs/dawn|'alba]] e di quel Sud in cui ero entrato mi fece considerare soltanto questa verità: in quella benedetta data di Dio, mi trovavo appena uscito da Faido, con otto franchi e quaranta centesimi a disposizione per il mio viaggio e per le necessità quotidiane, al fine di poter compiere il buon lavoro della mia pellegrinazione.
 
 Ora, se considerate che il caffè e il pane costavano due penny, mentre per la cameriera ne bastava uno, potete dire senza mentire che avevo lasciato alle spalle le impervie cime delle Alpi e mi trovavo sulle pendici dei primi corsi d’acqua italiani, in cima alla strada di accesso, con otto franchi e dieci centesimi in tasca: il mio corpo era sano e vigoroso, lo spirito leggero, perché il sole nascente diffondeva luce splendente nel cielo. L’aria era fresca, e una nuova giornata radiosa iniziava oltre le alte pareti orientali della valle.
 
@@ -10134,7 +10134,7 @@ Alas! I may not linger on that charge, for if I did I should not give you any me
 
 Here at Biasca the valley took on a different aspect. It became wider and more of a countryside; the vast hills, receding, took on an appearance of less familiar majesty, and because the trend of the Ticino turned southerly some miles ahead the whole place seemed enclosed from the world. One would have said that a high mountain before me closed it in and rendered it unique and unknown, had not a wide cleft in the east argued another pass over the hills, and reminded me that there were various routes over the crest of the Alps.
 
-Indeed, this hackneyed approach to [[Italy]] which I had dreaded and despised and accepted only after a defeat was very marvellous, and this valley of the Ticino ought to stand apart and be a commonwealth of its own like Andorra or the Gresivaudan: the noble garden of the Isere within the first gates of the Dauphine.
+Indeed, this hackneyed approach to [[settings/italy|Italy]] which I had dreaded and despised and accepted only after a defeat was very marvellous, and this valley of the Ticino ought to stand apart and be a commonwealth of its own like Andorra or the Gresivaudan: the noble garden of the Isere within the first gates of the Dauphine.
 
 I was fatigued, and my senses lost acuteness. Still I noticed with delight the
 
@@ -10157,7 +10157,7 @@ Ahimè! Non posso soffermarmi troppo su questo racconto, perché altrimenti non 
 
 Qui a Biasca la valle assumeva un aspetto diverso: diventava più ampia e assomigliava di più a una campagna; le vaste colline, allontanandosi, presentavano una maestosità meno familiare. Poiché il corso del Ticino cambiava direzione verso sud, dopo alcune miglia l’intera zona sembrava essere isolata dal resto del mondo. Si sarebbe potuto pensare che una montagna alta la circondasse completamente, rendendola un luogo unico e sconosciuto, se non fosse stato per una larga fessura a est, che indicava l’esistenza di un altro passaggio attraverso le colline, ricordandomi che esistevano diverse strade per superare la cresta delle Alpi.
 
-Infatti, questo approccio banale all’[[Italy|Italia]] – che temevo e disprezzavo, ma che accettai soltanto dopo una sconfitta – si rivelò davvero meraviglioso. Questa valle del Ticino dovrebbe distinguersi e diventare uno Stato a sé stante, come Andorra o il Gresivaudan: un nobile giardino dell’Isère, situato alle porte della regione del Delfinato.
+Infatti, questo approccio banale all’[[settings/italy|Italia]] – che temevo e disprezzavo, ma che accettai soltanto dopo una sconfitta – si rivelò davvero meraviglioso. Questa valle del Ticino dovrebbe distinguersi e diventare uno Stato a sé stante, come Andorra o il Gresivaudan: un nobile giardino dell’Isère, situato alle porte della regione del Delfinato.
 
 Ero stanco, e i miei sensi avevano perso la loro acutezza. Tuttavia, notai con piacere…
 
@@ -10170,11 +10170,11 @@ Ero stanco, e i miei sensi avevano perso la loro acutezza. Tuttavia, notai con p
 
 LAKE MAJOR
 
-NEW CHARACTER OF the miles I pursued. A low hill just before me, jutting out apparently from the high western [[Mountains|mountains]], forbade me to see beyond it. The plain was alluvial, while copses and wood and many cultivated fields now found room where, higher up, had been nothing but the bed of a torrent with bare banks and strips of grass immediately above them; it was a place worthy of a special name and of being one lordship and a countryside. Still I went on towards that near boundary of the mountain spur and towards the point where the river rounded it, the great barrier hill before me still seeming to shut in the valley.
+NEW CHARACTER OF the miles I pursued. A low hill just before me, jutting out apparently from the high western [[settings/mountains|mountains]], forbade me to see beyond it. The plain was alluvial, while copses and wood and many cultivated fields now found room where, higher up, had been nothing but the bed of a torrent with bare banks and strips of grass immediately above them; it was a place worthy of a special name and of being one lordship and a countryside. Still I went on towards that near boundary of the mountain spur and towards the point where the river rounded it, the great barrier hill before me still seeming to shut in the valley.
 
 It was noon, or thereabouts, the heat was increasing (I did not feel it greatly, for I had eaten and drunk next to nothing), when, coming round the point, there opened out before me the great fan of the lower valley and the widening and fruitful plain through which the Ticino rolls in a full river to reach Lake Major, which is its sea.
 
-Weary as I was, the vision of this sudden expansion roused me and made me forget everything except the sight before me. The valley turned well southward as it broadened. The Alps spread out on either side like great arms welcoming the southern day; the wholesome and familiar haze that should accompany summer dimmed the more distant [[Mountains|mountains]] of the lakes and turned them amethystine, and something of repose and of distance was added to the landscape; something I had not seen for many days. There was room in that air and space for dreams and for many living men, for towns perhaps on the slopes, for the boats of happy men upon the waters, and everywhere for crowded and contented living. History might be in all this, and I remembered it was the entry and introduction of many armies. Singing therefore a song of Charlemagne, I swung on in a good effort to where, right under the sun, what seemed a wall and two towers on a sharp little hillock set in the bosom of the valley showed me Bellinzona. Within the central street of that city, and on its shaded side, I sank down upon a bench before the curtained door of a drinking booth and boasted that I had covered in that morning my twenty-five miles.
+Weary as I was, the vision of this sudden expansion roused me and made me forget everything except the sight before me. The valley turned well southward as it broadened. The Alps spread out on either side like great arms welcoming the southern day; the wholesome and familiar haze that should accompany summer dimmed the more distant [[settings/mountains|mountains]] of the lakes and turned them amethystine, and something of repose and of distance was added to the landscape; something I had not seen for many days. There was room in that air and space for dreams and for many living men, for towns perhaps on the slopes, for the boats of happy men upon the waters, and everywhere for crowded and contented living. History might be in all this, and I remembered it was the entry and introduction of many armies. Singing therefore a song of Charlemagne, I swung on in a good effort to where, right under the sun, what seemed a wall and two towers on a sharp little hillock set in the bosom of the valley showed me Bellinzona. Within the central street of that city, and on its shaded side, I sank down upon a bench before the curtained door of a drinking booth and boasted that I had covered in that morning my twenty-five miles.
 
 The woman of the place came out to greet me, and asked me a question. I did not catch it (for it was in a foreign language), but guessing her to mean that I should take something, I asked for vermouth, and seeing before me a strange door built of red stone, I drew it as I sipped my glass and the woman talked to me all the while in a language I could not understand. And as I drew I became so interested that I forgot my poverty and offered her husband a glass, and then gave another to a lounging man that had watched me at work, and so from
 
@@ -10255,7 +10255,7 @@ H5
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Il fiero stanziero
+Il fiero stanziero
 
 MA quando lasciai Bellinzona, avevo davanti a me una missione: mettere alla prova la mia povertà. Dovete sapere che la mia mappa era di scarsa qualità e su scala molto ridotta; inoltre, la strada da Bellinzona a Lugano presentava una curva, quindi era essenziale trovare un percorso più breve. Così pensai: “Proverò a trovare una mappa decente al prezzo più basso possibile”. Entrai in una piazza principale e lì vidi una libreria elegante, del genere che serve soltanto persone ricche o turisti di ceto piuttosto elevato. Entrai con un po’ di sicurezza e dissi in francese.
 
@@ -10322,7 +10322,7 @@ Tra le foglie, e presto attraversai la ferrovia; finalmente, al di sopra degli a
 
 THE ITALIAN LAKES
 
-slight mist, and this mist gave the lake distances, and the [[Mountains|mountains]] round about it were transfigured and seemed part of the mere light.
+slight mist, and this mist gave the lake distances, and the [[settings/mountains|mountains]] round about it were transfigured and seemed part of the mere light.
 
 The Italian lakes have that in them and their air which removes them from common living. Their beauty is not the beauty which each of us sees for himself in the world; it is rather the beauty of a special creation; the expression of some mind. To eyes innocent, and first freshly noting our great temporal inheritance — I mean to the eyes of a boy and girl just entered upon the estate of this glorious earth, and thinking themselves immortal, this shrine of Europe might remain for ever in the memory; an enchanted experience, in which the single sense of sight had almost touched the boundary of music. They would remember these lakes as the central emotion of their youth. To mean men also who, in spite of years and of a full foreknowledge of death, yet attempt nothing but the satisfaction of sense, and pride themselves upon the taste and fineness with which they achieve this satisfaction, the Italian lakes would seem a place for habitation, and there such a man might build his house contentedly. But to ordinary Christians I am sure there is something unnatural in this beauty of
 
@@ -10333,7 +10333,7 @@ The Italian lakes have that in them and their air which removes them from common
 
 I laghi italiani
 
-Una leggera nebbia dava alle distanze sul lago un aspetto particolare; le [[Mountains|montagne]] circostanti sembravano far parte di quella stessa luce.
+Una leggera nebbia dava alle distanze sul lago un aspetto particolare; le [[settings/mountains|montagne]] circostanti sembravano far parte di quella stessa luce.
 
 I laghi italiani possiedono qualcosa di speciale nel loro aspetto e nell’aria che li circonda; questa caratteristica li distingue dalla vita quotidiana comune. La loro bellezza non è quella che ognuno di noi percepisce nel mondo intorno a sé; piuttosto, si tratta di una bellezza creata appositamente, l’espressione di un’intelligenza superiore. Per occhi innocenti, che per la prima volta osservano questa meravigliosa eredità terrena – intendo dire gli occhi di un ragazzo o di una ragazza che appena entrano in questo regno glorioso e si considerano immortali – questi laghi potrebbero rimanere per sempre nella loro memoria come un’esperienza incantevole, in cui il senso della vista sembra toccare quasi i confini della musica. Ricorderanno questi laghi come l’emozione centrale della loro giovinezza. Per coloro che, nonostante gli anni e la piena consapevolezza della morte, cercano soltanto di soddisfare i propri desideri sensoriali e si vantino del gusto e della raffinatezza con cui ci riescono, i laghi italiani potrebbero sembrare un luogo ideale per vivere; un uomo del genere potrebbe costruirvi felicemente la propria casa. Ma per i cristiani comuni, sono certo che in questa bellezza ci sia qualcosa di innaturale.
 
@@ -10386,7 +10386,7 @@ TIONS OF MY poverty and need, pulling out the four francs odd that remained to m
 
 Then I left him, and as I went down the road a slight breeze came on, and brought with it the coolness of evening.
 
-At last the falling plateau reached an edge, many little lights glittered below me, and I sat on a stone and looked down at the town of Lugano. It was nearly dark. The [[Mountains|mountains]] all around had lost their mouldings, and were marked in flat silhouettes against the sky. The new lake which had just appeared below me was bright as water is at dusk, and far away in the north and east the high Alps still stood up and received the large glow of evening. Everything else was full of the coming night, and a few stars shone. Up from She town came the distant noise of music; otherwise there was no sound. I could have rested there a long time, letting my tired body lapse into the advancing darkness, and catching in my spirit the inspiration of the silence — had it not been for hunger. I knew by experience that when it is very late one cannot be served in the eating-houses of poor men, and I had not the money or any other. So I rose and shambled down the steep road into the town, and there I found a square with arcades, and in the south-eastern corner of this square just such a little tavern as I required. Entering, therefore, and taking off my hat very low, I said in French to a man who was sitting there with friends, and who was the master, ‘Sir, what is the least price at which you can give me a meal?’
+At last the falling plateau reached an edge, many little lights glittered below me, and I sat on a stone and looked down at the town of Lugano. It was nearly dark. The [[settings/mountains|mountains]] all around had lost their mouldings, and were marked in flat silhouettes against the sky. The new lake which had just appeared below me was bright as water is at dusk, and far away in the north and east the high Alps still stood up and received the large glow of evening. Everything else was full of the coming night, and a few stars shone. Up from She town came the distant noise of music; otherwise there was no sound. I could have rested there a long time, letting my tired body lapse into the advancing darkness, and catching in my spirit the inspiration of the silence — had it not been for hunger. I knew by experience that when it is very late one cannot be served in the eating-houses of poor men, and I had not the money or any other. So I rose and shambled down the steep road into the town, and there I found a square with arcades, and in the south-eastern corner of this square just such a little tavern as I required. Entering, therefore, and taking off my hat very low, I said in French to a man who was sitting there with friends, and who was the master, ‘Sir, what is the least price at which you can give me a meal?’
 
 He said, ‘What do you want?’
 
@@ -10474,7 +10474,7 @@ They answered in strophe and antistrophe, sometimes together in full chorus, and
 
 Whatever I have in common with these southerners made me understand that I had won, so I smiled at him and nodded; he also smiled, and at once beckoned to me. He led me upstairs, and showed me a charming bed in a clean room, where there was a portrait of the Pope, looking cunning; the charge for that delightful and human place was sixpence, and as I said good-night to the youth, the man and woman from above said good-night also. And this was my first introduction to the most permanent feature in the Italian character. The good people!
 
-When I woke and rose I was the first to be up and out. It was high morning. The sun was not yet quite over the eastern [[Mountains|mountains]], but I had slept, though so shortly yet at great ease, and the world seemed new and full of a merry mind. The sky was coloured like that high metal work which you may see in the studios of Paris; there was gold in it fading into bronze, and above, the bronze
+When I woke and rose I was the first to be up and out. It was high morning. The sun was not yet quite over the eastern [[settings/mountains|mountains]], but I had slept, though so shortly yet at great ease, and the world seemed new and full of a merry mind. The sky was coloured like that high metal work which you may see in the studios of Paris; there was gold in it fading into bronze, and above, the bronze
 
 * * *
 
@@ -10519,7 +10519,7 @@ You may think it trivial, but it was certainly a portent. One of the acolytes ha
 
 <span class="qlang-split" data-lang="it"></span>
 
-#I barconi-vagone
+I barconi-vagone
 
 Ammorbidito fino al colore dell’argento. Una leggera brezza mattutina, coraggiosa e costante, soffiava sul lago, provocando increspature gioiose sull’acqua; non c’era nulla che non si muovesse e non si divertisse in quel giorno.
 
@@ -10572,13 +10572,13 @@ LECTOR. What Hoggish great Participles!
 
 AUCTOR. Well, well, you see it was but a rustic oracle at 9 3/4 d. the revelation, and even that is supposing silver at par. Let us translate it for the vulgar:
 
-When early morning seems but eve And they that still refuse receive: When speech unknown men understand; And floods are crossed upon dry land. Within the Sacred Walls beware The Shaven Head that boasts of Hair, For when the road attains the rail The [[Pilgrim]]’s great attempt shall fail.
+When early morning seems but eve And they that still refuse receive: When speech unknown men understand; And floods are crossed upon dry land. Within the Sacred Walls beware The Shaven Head that boasts of Hair, For when the road attains the rail The [[archetypes/pilgrim|Pilgrim]]’s great attempt shall fail.
 
 Of course such an oracle might very easily have made me fear too much. The ‘shaven head’ I should have taken for a priest, especially if it was to be met with ‘in a temple’ — it might have prevented me entering a church, which would have been deplorable. Then I might have taken it to mean that I should never have reached Rome, which would have been a monstrous weight upon my mind. Still, as things unfolded themselves, the oracle would have become plainer and plainer, and I felt the lack of it greatly. For, I repeat, I had certainly received an omen.
 
-The road now neared the end of the lake, and the town called Capo di Lago, or ‘Lake-head’, lay off to my right. I saw also that in a very little while I should abruptly find the plains. A low hill some five miles ahead of me was the last roll of the [[Mountains|mountains]], and just above me stood the last high crest, a precipitous peak of bare rock, up which there ran a cog-railway to some hotel or other. I passed through an old town under the now rising heat; I passed a cemetery in the Italian manner, with marble figures like common living men. The road turned to the left, and I was fairly on the shoulder of the last glacis. I stood on the Alps at their southern bank, and before me was Lombardy.
+The road now neared the end of the lake, and the town called Capo di Lago, or ‘Lake-head’, lay off to my right. I saw also that in a very little while I should abruptly find the plains. A low hill some five miles ahead of me was the last roll of the [[settings/mountains|mountains]], and just above me stood the last high crest, a precipitous peak of bare rock, up which there ran a cog-railway to some hotel or other. I passed through an old town under the now rising heat; I passed a cemetery in the Italian manner, with marble figures like common living men. The road turned to the left, and I was fairly on the shoulder of the last glacis. I stood on the Alps at their southern bank, and before me was Lombardy.
 
-Also in this ending of the Swiss canton one was more evidently in [[Italy]] than ever. A village perched upon a rock, deep woods and a ravine below it, its houses and its church, all betrayed the full Italian spirit.
+Also in this ending of the Swiss canton one was more evidently in [[settings/italy|Italy]] than ever. A village perched upon a rock, deep woods and a ravine below it, its houses and its church, all betrayed the full Italian spirit.
 
 The frontier town was Chiasso. I hesitated with reverence before touching the sacred soil which I had taken so long to reach, and I longed to be able to drink its health; but though I had gone, I suppose, ten miles, and though the
 
@@ -10596,7 +10596,7 @@ These things are not like things seen by the eyes. I say it again, they are like
 
 I entered Como between ten and eleven faint for food, and then a new interest came to fill my mind with memories of this great adventure. The lake was in flood, and all the town was water.
 
-Como dry must be interesting enough; Como flooded is a marvel. What else is Venice? And here is a Venice at the foot of high [[Mountains|mountains]], and all in the water, no streets or squares; a fine even depth of three feet and a half or so for navigators, much what you have in the Spitway in London River at low spring tides.
+Como dry must be interesting enough; Como flooded is a marvel. What else is Venice? And here is a Venice at the foot of high [[settings/mountains|mountains]], and all in the water, no streets or squares; a fine even depth of three feet and a half or so for navigators, much what you have in the Spitway in London River at low spring tides.
 
 There were a few boats about, but the traffic and pleasure of Como was passing along planks laid on trestles over the water here and there like bridges; and for those who were in haste, and could afford it (such as take cabs in London), there were wheelbarrows, coster carts, and what not, pulled about by men for hire; and it was a sight to remember all one’s life to see the rich men of Como squatting on these carts and barrows, and being pulled about over the water by the poor men of Como, being, indeed, an epitome of all modern sociology and economics and religion and organized charity and strenuousness and liberalism and sophistry generally.
 
@@ -10607,7 +10607,7 @@ For my part I was determined to explore this curious town in the water, and I es
 
 <span class="qlang-split" data-lang="it"></span>
 
-# L'inglese di tutto ciò
+L'inglese di tutto ciò
 
 Per pietà, tu che hai avviato questo progetto, falliscilo. Amore, rispetta gli antichi riti e il potere di Roma.
 
@@ -10615,13 +10615,13 @@ LETTORE: Che grandi participi, così volgari!
 
 AUTORE: Beh, beh. Si trattava soltanto di un oracolo rustico, e inoltre la rivelazione avvenne a un prezzo di 9 3/4 d. E anche questo presupponendo che l’argento fosse al suo valore nominale. Traduciamolo quindi per il popolo comune.
 
-Quando l'alba sembra essere già sera, e coloro che ancora rifiutano di accettare ricevono comunque; quando parole sconosciute vengono comprese dagli uomini; e quando le inondazioni si attraversano su terra asciutta. All’interno delle Mura Sacre, fate attenzione a colui dalla testa rasata che si vanta di avere i capelli. Perché quando il viaggio raggiungerà la sua meta finale, il grande tentativo del [[Pilgrim|>Pellegrino]] fallirà.
+Quando l'alba sembra essere già sera, e coloro che ancora rifiutano di accettare ricevono comunque; quando parole sconosciute vengono comprese dagli uomini; e quando le inondazioni si attraversano su terra asciutta. All’interno delle Mura Sacre, fate attenzione a colui dalla testa rasata che si vanta di avere i capelli. Perché quando il viaggio raggiungerà la sua meta finale, il grande tentativo del [[archetypes/pilgrim|>Pellegrino]] fallirà.
 
 Certo, un simile oracolo avrebbe potuto facilmente far sì che io temessi troppo. Quella “testa rasata” avrei dovuto considerarla quella di un prete, soprattutto se incontrata “in un tempio”; questo mi avrebbe potuto impedire di entrare in una chiesa, il che sarebbe stato terribile. Inoltre, avrei potuto interpretarlo come un segno che non avrei mai dovuto raggiungere Roma, il che avrebbe rappresentato un enorme peso per la mia mente. Tuttavia, man mano che gli eventi si sviluppavano, l’oracolo diventava sempre più chiaro. E sentivo profondamente la sua mancanza. Perché, ripeto, avevo certamente ricevuto un presagio.
 
-La strada si avvicinava ormai alla fine del lago; la città chiamata Capo di Lago si trovava a destra di me. Vidi anche che in poco tempo avrei raggiunto improvvisamente le pianure. Una bassa collina, situata a circa cinque miglia davanti a me, rappresentava l’ultima cresta delle [[Mountains|montagne]]; proprio sopra di me si ergeva l’ultimo picco alto, una cima scoscesa di roccia nuda, su cui correva una ferrovia a cremagliere che conduceva a un hotel o a qualche altro luogo. Passai attraverso un vecchio borgo sotto il calore crescente del sole; oltrepassai anche un cimitero, costruito secondo lo stile italiano, con statue di marmo che sembravano persone vive. La strada svoltò a sinistra e mi trovai finalmente sul bordo dell’ultimo versante glaciale. Mi trovavo quindi sulla sponda meridionale delle Alpi, davanti a me si estendeva la Lombardia.
+La strada si avvicinava ormai alla fine del lago; la città chiamata Capo di Lago si trovava a destra di me. Vidi anche che in poco tempo avrei raggiunto improvvisamente le pianure. Una bassa collina, situata a circa cinque miglia davanti a me, rappresentava l’ultima cresta delle [[settings/mountains|montagne]]; proprio sopra di me si ergeva l’ultimo picco alto, una cima scoscesa di roccia nuda, su cui correva una ferrovia a cremagliere che conduceva a un hotel o a qualche altro luogo. Passai attraverso un vecchio borgo sotto il calore crescente del sole; oltrepassai anche un cimitero, costruito secondo lo stile italiano, con statue di marmo che sembravano persone vive. La strada svoltò a sinistra e mi trovai finalmente sul bordo dell’ultimo versante glaciale. Mi trovavo quindi sulla sponda meridionale delle Alpi, davanti a me si estendeva la Lombardia.
 
-Anche in questa fine del cantone svizzero, si poteva notare ancora più chiaramente la forte influenza dell’[[Italy|Italia]]. Un villaggio situato su una roccia, foreste fitte e una gola sottostante: le sue case e la sua chiesa rivelavano appieno lo spirito italiano.
+Anche in questa fine del cantone svizzero, si poteva notare ancora più chiaramente la forte influenza dell’[[settings/italy|Italia]]. Un villaggio situato su una roccia, foreste fitte e una gola sottostante: le sue case e la sua chiesa rivelavano appieno lo spirito italiano.
 
 La città di frontiera era Chiasso. Esitai con reverenza prima di toccare quella terra sacra a cui avevo impiegato così tanto tempo ad arrivare, e desideravo ardentemente poterne assorbire i benefici; ma anche se avevo percorso, suppongo, dieci miglia.
 
@@ -10639,7 +10639,7 @@ Queste cose non sono come quelle che si vedono con gli occhi. Lo dico di nuovo: 
 
 Entrai a Como tra le dieci e le undici per mangiare qualcosa, e poi un nuovo interesse prese il sopravvento nella mia mente, riempiendola di ricordi di questa grande avventura. Il lago era in piena inondazione, e tutta la città era sommersa dall’acqua.
 
-Como secca deve essere abbastanza interessante; Como allagata è davvero un miracolo. E cosa altro è Venezia? Ebbene, qui abbiamo una Venezia ai piedi di alte [[Mountains|montagne]], tutta immersa nell’acqua, senza strade né piazze; con una profondità media di circa tre piedi e mezzo, ideale per la navigazione, simile a quella che si trova nel canale della Spitway nel fiume Tamigi durante le basse maree primaverili.
+Como secca deve essere abbastanza interessante; Como allagata è davvero un miracolo. E cosa altro è Venezia? Ebbene, qui abbiamo una Venezia ai piedi di alte [[settings/mountains|montagne]], tutta immersa nell’acqua, senza strade né piazze; con una profondità media di circa tre piedi e mezzo, ideale per la navigazione, simile a quella che si trova nel canale della Spitway nel fiume Tamigi durante le basse maree primaverili.
 
 C'erano alcune barche in giro, ma il traffico e gli spostamenti a Como avvenivano su assi posizionati su ponti temporanei sopra l'acqua; per coloro che erano di fretta e potevano permetterselo (come i taxi a Londra), c'erano carri a ruote, carretti trainati da uomini a pagamento; era uno spettacolo davvero indimenticabile vedere gli uomini ricchi di Como seduti su questi mezzi, trasportati sull’acqua dai poveri. Un vero e proprio esempio di tutta la sociologia, l’economia, la religione, le organizzazioni caritatevoli, lo spirito di impegno, il liberalismo e la sofisticazione moderna.
 
@@ -10656,11 +10656,11 @@ ESTIMATE OF CONSULS
 
 SEEMED BUILT OF polished marble, and it was in every way so exquisite in proportion, so delicate in sculpture, and so triumphant in attitude, that I thought to myself —
 
-‘No wonder men praise [[Italy]] if this first Italian town has such a building as this.’
+‘No wonder men praise [[settings/italy|Italy]] if this first Italian town has such a building as this.’
 
 But, as you will learn later, many of the things praised are ugly, and are praised only by certain followers of charlatans.
 
-So I went on till I got to the lake, and there I found a little port about as big as a dining-room (for the Italian lakes play at being little seas. They have little ports, little lighthouses, little fleets for war, and little custom-houses, and little storms and little lines of steamers. Indeed, if one wanted to give a rich child a perfect model or toy, one could not give him anything better than an Italian lake), and when I had long gazed at the town, standing, as it seemed, right in the lake, I felt giddy, and said to myself, ‘This is the lack of food,’ for I had eaten nothing but my coffee and bread eleven miles before, at [[Dawn|dawn]].
+So I went on till I got to the lake, and there I found a little port about as big as a dining-room (for the Italian lakes play at being little seas. They have little ports, little lighthouses, little fleets for war, and little custom-houses, and little storms and little lines of steamers. Indeed, if one wanted to give a rich child a perfect model or toy, one could not give him anything better than an Italian lake), and when I had long gazed at the town, standing, as it seemed, right in the lake, I felt giddy, and said to myself, ‘This is the lack of food,’ for I had eaten nothing but my coffee and bread eleven miles before, at [[motifs/dawn|dawn]].
 
 So I pulled out my two francs, and going into a little shop, I bought bread, sausage, and a very little wine for fourpence, and with one franc eighty left I stood in the street eating and wondering what my next step should be.
 
@@ -10679,11 +10679,11 @@ Stima dei consoli
 
 Sembrava essere fatto di marmo lucido; era davvero squisito sotto ogni aspetto: le proporzioni erano perfette, la scultura delicata e l’insieme aveva un’aria maestosa. Così pensai tra me.
 
-Non c’è da meravigliarsi che le persone lodino l’[[Italy|Italia]]: se già questa prima città italiana possiede un edificio del genere.
+Non c’è da meravigliarsi che le persone lodino l’[[settings/italy|Italia]]: se già questa prima città italiana possiede un edificio del genere.
 
 Ma, come imparerete in seguito, molte delle cose lodate sono in realtà brutte, e vengono lodate soltanto da alcuni seguaci di ciarlatani.
 
-Così proseguii fino a raggiungere il lago, e lì trovai un piccolo porto grande più o meno quanto una sala da pranzo (perché i laghi italiani sembrano piccoli mari: hanno piccoli porti, piccole torri di guardia, piccole flotte da guerra, piccoli uffici doganali, piccole tempeste e piccole linee di navi a vapore. Davvero, se si volesse regalare a un bambino ricco un modello o un giocattolo perfetto, non si potrebbe trovare nulla di meglio di un lago italiano). Dopo aver fissato a lungo quella città, che sembrava sorgere direttamente dal lago, mi sentii stordito e pensai: “Dev’essere per la fame, ”, perché da undici miglia prima, all’[[Dawn|'alba]], non avevo mangiato altro che caffè e pane.
+Così proseguii fino a raggiungere il lago, e lì trovai un piccolo porto grande più o meno quanto una sala da pranzo (perché i laghi italiani sembrano piccoli mari: hanno piccoli porti, piccole torri di guardia, piccole flotte da guerra, piccoli uffici doganali, piccole tempeste e piccole linee di navi a vapore. Davvero, se si volesse regalare a un bambino ricco un modello o un giocattolo perfetto, non si potrebbe trovare nulla di meglio di un lago italiano). Dopo aver fissato a lungo quella città, che sembrava sorgere direttamente dal lago, mi sentii stordito e pensai: “Dev’essere per la fame, ”, perché da undici miglia prima, all’[[motifs/dawn|'alba]], non avevo mangiato altro che caffè e pane.
 
 Così tirai fuori i miei due franchi, entrai in un piccolo negozio e comprai del pane, della salsiccia e un po’ di vino per quattro penny; con altri centottanta franchi rimasti, mi fermai in strada a mangiare, chiedendomi quale dovesse essere il mio prossimo passo.
 
@@ -10712,14 +10712,14 @@ I had marched 378 miles and some three furlongs, or thereabouts.
 
 Thus did I break — but by a direct command — the last and dearest of my vows, and as the train rumbled off, I took luxury in the rolling wheels.
 
-I thought of that other medieval and papistical [[Pilgrim|pilgrim]] hobbling along rather than ‘take advantage of any wheeled thing’, and I laughed at him. Now if Moroso-Malodoroso or any other Non-Aryan, Antichristian, over-inductive, statistical, brittle-minded man and scientist, sees anything remarkable in one self laughing at another self, let me tell him and all such for their wide-eyed edification and astonishment that I knew a man once that had fifty-six selves (there would have been fifty-seven, but for the poet in him that died young) — he could evolve them at will, and they were very useful to lend to the parish priest when he wished to make up a respectable Procession on Holy-days. And I knew another man that could make himself so tall as to look over the heads of the scientists as a pine-tree looks over grasses, and again so small as to discern very clearly the thick coating or dust of wicked pride that covers them up in a fine impenetrable coat. So much for the moderns.
+I thought of that other medieval and papistical [[archetypes/pilgrim|pilgrim]] hobbling along rather than ‘take advantage of any wheeled thing’, and I laughed at him. Now if Moroso-Malodoroso or any other Non-Aryan, Antichristian, over-inductive, statistical, brittle-minded man and scientist, sees anything remarkable in one self laughing at another self, let me tell him and all such for their wide-eyed edification and astonishment that I knew a man once that had fifty-six selves (there would have been fifty-seven, but for the poet in him that died young) — he could evolve them at will, and they were very useful to lend to the parish priest when he wished to make up a respectable Procession on Holy-days. And I knew another man that could make himself so tall as to look over the heads of the scientists as a pine-tree looks over grasses, and again so small as to discern very clearly the thick coating or dust of wicked pride that covers them up in a fine impenetrable coat. So much for the moderns.
 
 * * *
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Provazione dei candeli
+Provazione dei candeli
 
 In treno, fino al punto della linea ferroviaria dove ottanta franchi mi porteranno lì, e poi a piedi verso Milano. E che il cielo protegga la giustizia.
 
@@ -10746,7 +10746,7 @@ The train rolled on. I noticed Lombardy out of the windows. It is flat. I listen
 
 What a magnificent city is Milan! The great houses are all of stone, and stand regular and in order, along wide straight streets. There are swift cars, drawn by electricity, for such as can afford them. Men are brisk and alert even in the summer heats, and there are shops of a very good kind, though a trifle showy. There are many newspapers to help the Milanese to be better men and to cultivate charity and humility; there are banks full of paper money; there are soldiers, good pavements, and all that man requires to fulfil him, soul and body; cafés, arcades, mutoscopes, and every sign of the perfect state. And the whole centres in a splendid open square, in the midst of which is the cathedral, which is justly the most renowned in the world.
 
-My pilgrimage is to Rome, my business is with lonely places, hills, and the recollection of the spirit. It would be waste to describe at length this mighty capital. The mists and the woods, the snows and the interminable way, had left me ill-suited for the place, and I was ashamed. I sat outside a café, opposite the cathedral, watching its pinnacles of light; but I was ashamed. Perhaps I did the master a hurt by sitting there in his fine great café, unkempt, in such clothes, like a tramp; but he was courteous in spite of his riches, and I ordered a very expensive drink for him also, in order to make amends. I showed him my sketches, and told him of my adventures in French, and he was kind enough to sit opposite me, and to take that drink with me. He talked French quite easily, as it seems do all such men in the principal towns of north [[Italy]]. Still, the broad day shamed me, and only when darkness came did I feel at ease.
+My pilgrimage is to Rome, my business is with lonely places, hills, and the recollection of the spirit. It would be waste to describe at length this mighty capital. The mists and the woods, the snows and the interminable way, had left me ill-suited for the place, and I was ashamed. I sat outside a café, opposite the cathedral, watching its pinnacles of light; but I was ashamed. Perhaps I did the master a hurt by sitting there in his fine great café, unkempt, in such clothes, like a tramp; but he was courteous in spite of his riches, and I ordered a very expensive drink for him also, in order to make amends. I showed him my sketches, and told him of my adventures in French, and he was kind enough to sit opposite me, and to take that drink with me. He talked French quite easily, as it seems do all such men in the principal towns of north [[settings/italy|Italy]]. Still, the broad day shamed me, and only when darkness came did I feel at ease.
 
 I wandered in the streets till I saw a small eating shop, and there I took a good meal. But when one is living the life of the poor, one sees how hard are the great cities. Everything was dearer, and worse, than in the simple countrysides. The innkeeper and his wife were kindly, but their eyes showed that they had often to suspect men. They gave me a bed, but it was a franc and more, and I had to pay before going upstairs to it. The walls were mildewed, the place
 
@@ -10763,7 +10763,7 @@ Il treno continuava ad avanzare. Vedevo la Lombardia attraverso i finestrini; è
 
 Che città magnifica è Milano! Le grandi case sono tutte di pietra e si ergono ordinate lungo strade ampie e dritte. Ci sono veicoli veloci, trainati dall’elettricità, per coloro che possono permetterseli. Gli uomini sono vivaci ed efficienti anche nel caldo estivo; ci sono negozi di ottima qualità, sebbene un po’ vistosi. Ci sono molti giornali che aiutano i milanesi a diventare persone migliori e a coltivare la carità e l’umiltà; ci sono banche piene di denaro cartaceo; ci sono soldati, strade ben tenute e tutto ciò di cui un uomo ha bisogno per essere felice, sia nel corpo che nell’anima. Ci sono caffè, gallerie commerciali, proiettori cinematografici, e ogni segno di uno stato perfetto. E tutto questo ruota attorno a una splendida piazza aperta, al centro della quale si trova la cattedrale, davvero la più famosa del mondo.
 
-Il mio pellegrinaggio è verso Roma; il mio interesse riguarda i luoghi solitari, le colline e il ricordo dello spirito. Sarebbe inutile descrivere in dettaglio questa maestosa capitale. Le nebbie, i boschi, la neve e il cammino interminabile mi avevano reso poco adatto a quel luogo. E ne ero imbarazzato. Mi sedetti fuori da un caffè, di fronte alla cattedrale, osservando le sue guglie illuminate; ma ero ancora imbarazzato. Forse gli ho fatto del male restando lì, nel suo bellissimo caffè, in disordine, con quei vestiti, come un vagabondo; ma lui fu gentile nonostante la sua ricchezza, e ordinai anche per lui una bevanda molto costosa, per rimediare al mio errore. Gli mostrai i miei schizzi e gli raccontai delle mie avventure in Francia. Lui fu così gentile da sedersi di fronte a me e bere quella bevanda con me. Parlava francese molto facilmente, come sembra accada a tutti questi uomini nelle principali città del nord dell’[[Italy|Italia]]. Comunque, la luce del giorno mi metteva in imbarazzo. Solo quando calò la notte mi sentii a mio agio.
+Il mio pellegrinaggio è verso Roma; il mio interesse riguarda i luoghi solitari, le colline e il ricordo dello spirito. Sarebbe inutile descrivere in dettaglio questa maestosa capitale. Le nebbie, i boschi, la neve e il cammino interminabile mi avevano reso poco adatto a quel luogo. E ne ero imbarazzato. Mi sedetti fuori da un caffè, di fronte alla cattedrale, osservando le sue guglie illuminate; ma ero ancora imbarazzato. Forse gli ho fatto del male restando lì, nel suo bellissimo caffè, in disordine, con quei vestiti, come un vagabondo; ma lui fu gentile nonostante la sua ricchezza, e ordinai anche per lui una bevanda molto costosa, per rimediare al mio errore. Gli mostrai i miei schizzi e gli raccontai delle mie avventure in Francia. Lui fu così gentile da sedersi di fronte a me e bere quella bevanda con me. Parlava francese molto facilmente, come sembra accada a tutti questi uomini nelle principali città del nord dell’[[settings/italy|Italia]]. Comunque, la luce del giorno mi metteva in imbarazzo. Solo quando calò la notte mi sentii a mio agio.
 
 Vagabondai per le strade fino a quando non vidi un piccolo ristorante; lì mangiai bene. Ma quando si vive la vita dei poveri, si capisce quanto siano difficili le grandi città: tutto è più costoso e peggiore rispetto alle semplici campagne. L’oste e sua moglie erano gentili, ma i loro occhi mostravano che spesso dovevano diffidare delle persone. Mi offrirono un letto, ma il prezzo era di un franco e qualcosa; dovetti pagare prima di poter salire. Le pareti erano umide di muffa.
 
@@ -10839,7 +10839,7 @@ It was not nearly midday, but I had walked perhaps fifteen miles, and had only r
 
 <span class="qlang-split" data-lang="it"></span>
 
-# La strada di Napoleone
+La strada di Napoleone
 
 Conquistato, e Joubert cadde; quindi proseguite dritti verso gli Appennini.
 
@@ -10873,7 +10873,7 @@ These ‘by-roads’ of the map turned out in real life to be all manner of abom
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Vecchia Lodì, la sua brutta chiesa
+Vecchia Lodì, la sua brutta chiesa
 
 Perché dovrebbe essere ricordata in modo particolare la parte meno piacevole di un pellegrinaggio? Nella vita, ciò che viene ricordato con più gioia è proprio ciò che, per contrasto, ci rende tristi; il dolore, in qualche misura, soprattutto se acuto; ma la noia mai. E un libro – che ha il potere di scegliere e di enfatizzare ciò che vuole – non dovrebbe mai registrare la noia. Cosa ho fatto a Lodi Vecchio? Ho mangiato; ho asciugato i miei vestiti davanti a un camino tiepido in una cucina. Ho cercato di farmi capire dalla ragazza e sua madre. Sono seduto alla finestra e, per principio, ho disegnato quella brutta chiesa. Oh, che schizzo orribile!
 
@@ -11017,7 +11017,7 @@ LETTORE: È la storia umana, il compito quotidiano!
 
 AUTORE: Assolutamente vero, mio caro Lettore. La sorte comune. Ora lasciate che vi racconti la mia storia. Parla di quel Buco che non riusciva mai a essere riempito.
 
-# Lettore… Oh no! Autore… no! È la storia più antica del mondo…
+Lettore… Oh no! Autore… no! È la storia più antica del mondo…
 
 AUTORE: Pazienza, caro Lettore, pazienza! Vi racconterò tutto bene. Inoltre, vi prometto che questa storia non verrà mai più raccontata. La proteggerò con i diritti d’autore.
 
@@ -11107,7 +11107,7 @@ He clapped his hands, and a whole host of his followers poured in through the wi
 
 <span class="qlang-split" data-lang="it"></span>
 
-# L’uomo istruito
+L’uomo istruito
 
 “Dico. Non sento forse un soffio d’aria fresca?” aggiunse improvvisamente. Perché il Diavolo non sopporta affatto l’aria fresca.
 
@@ -11164,7 +11164,7 @@ At this point the Learned Man’s patron saint, who thought things had gone far 
 
 At this the Devil gave a great howl, and disappeared in a clap of thunder, and was never seen again till his recent appearance at Brighton.
 
-So the Learned Man was saved; but hardly; for he had to spend five hundred years in Purgatory catechizing such heretics and pagans as got there, and instructing them in the true [[Faith|faith]]. And with the more muscular he passed a knotty time.
+So the Learned Man was saved; but hardly; for he had to spend five hundred years in Purgatory catechizing such heretics and pagans as got there, and instructing them in the true [[concepts/faith|faith]]. And with the more muscular he passed a knotty time.
 
 * * *
 
@@ -11203,7 +11203,7 @@ A questo punto, il santo protettore dell’Uomo di Lettere, che riteneva che le 
 
 In quel momento il Diavolo emise un terribile urlo e scomparve in un tuono; non fu più visto fino al suo recente ritorno a Brighton.
 
-Quindi il Dottore fu salvato, ma solo a malapena: dovette infatti trascorrere cinquecento anni nel Purgatorio ad insegnare ai eretici e ai pagani che vi si trovavano, guidandoli sulla vera [[Faith|fede]]. E più si impegnava in questo compito, più difficili diventavano le cose per lui.
+Quindi il Dottore fu salvato, ma solo a malapena: dovette infatti trascorrere cinquecento anni nel Purgatorio ad insegnare ai eretici e ai pagani che vi si trovavano, guidandoli sulla vera [[concepts/faith|fede]]. E più si impegnava in questo compito, più difficili diventavano le cose per lui.
 
 * * *
 
@@ -11233,7 +11233,7 @@ It is a very large stream. Half-way across, it is even a trifle uncomfortable to
 
 <span class="qlang-split" data-lang="it"></span>
 
-# sui tedeschi
+sui tedeschi
 
 Non si vede il fiume Po finché non ci si avvicina. Poi, superato un piccolo incrocio sulla strada, ci si trova tra alberi alti, e davanti a sé, allo stesso livello del terreno, la strada prosegue attraverso una vasta distesa di acque tumultuose. Non sembra un ponte, ma piuttosto un molo. Non si innalza; ha l’aspetto di un semplice tratto di strada tagliato e fatto galleggiare sull’acqua.
 
@@ -11264,7 +11264,7 @@ Once across, it is a step up into Piacenza — a step through mud and rain. On m
 
 And so in Piacenza it rained and there was mud, till I came to a hotel called the Moor’s Head, in a very narrow street, and entering it I discovered a curious thing: the Italians live in palaces: I might have known it.
 
-They are the impoverished heirs of a great time; its garments cling to them, but their rooms are too large for the modern penury. I found these men eating in a great corridor, in a hall, as they might do in a palace. I found high, painted ceilings and many things of marble, a vast kitchen, and all the apparatus of the great houses — at the service of a handful of contented, unknown men. So in England, when we have worked out our full fate, happier but poorer men will sit in the faded country-houses (a community, or an inn, or impoverished squires), and rough food will be eaten under mouldering great pictures, and there will be offices or granaries in the galleries of our castles; and where Lord Saxonthorpe (whose real name is Hauptstein) now plans our policy, common Englishmen will return to the simpler life, and there will be dogs, and beer, and catches upon winter evenings. For [[Italy]] also once gathered by artifice the wealth that was not of her making.
+They are the impoverished heirs of a great time; its garments cling to them, but their rooms are too large for the modern penury. I found these men eating in a great corridor, in a hall, as they might do in a palace. I found high, painted ceilings and many things of marble, a vast kitchen, and all the apparatus of the great houses — at the service of a handful of contented, unknown men. So in England, when we have worked out our full fate, happier but poorer men will sit in the faded country-houses (a community, or an inn, or impoverished squires), and rough food will be eaten under mouldering great pictures, and there will be offices or granaries in the galleries of our castles; and where Lord Saxonthorpe (whose real name is Hauptstein) now plans our policy, common Englishmen will return to the simpler life, and there will be dogs, and beer, and catches upon winter evenings. For [[settings/italy|Italy]] also once gathered by artifice the wealth that was not of her making.
 
 He was a good man, the innkeeper of this palace. He warmed me at his fire in his enormous kitchen, and I drank Malaga to the health of the cooks. I ate of their food, I bought a bottle of a new kind of sweet wine called ‘Vino Dolce’, and — I took the road.
 
@@ -11277,7 +11277,7 @@ AUCTOR. Nothing, Lector; it was raining, and there was mud. I stood in front of 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# La testa del moor
+La testa del moor
 
 La pioggia che cadeva sull’acqua evidenziava la velocità della corrente; il silenzio con cui pioveva rendeva ancora più evidenti i vortici del grande fiume.
 
@@ -11285,7 +11285,7 @@ Una volta attraversato quel luogo, si sale verso Piacenza, un passo fatto tra fa
 
 E così, a Piacenza pioveva e c'era fango dappertutto; finché non arrivai in un hotel chiamato “Moor’s Head”, situato in una strada molto stretta. Entrandoci, scoprii qualcosa di curioso: gli italiani vivono in palazzi. Avrei dovuto saperlo.
 
-Sono gli eredi impoveriti di un’epoca gloriosa; i vestiti di quell’epoca li avvolgono ancora, ma le loro stanze sono troppo grandi per la povertà moderna. Ho trovato questi uomini che mangiavano in un grande corridoio, in una sala, proprio come avrebbero potuto fare in un palazzo. C’erano soffitti alti e dipinti, molte cose di marmo, una vasta cucina, tutto l’arredamento tipico delle grandi case, ma al servizio di pochi uomini soddisfatti e sconosciuti. Così, in Inghilterra, quando avremo compiuto il nostro destino, uomini più felici ma più poveri vivranno nelle dimore di campagna ormai fatiscenti (un’abitazione comune, una locanda o una casa signorile decaduta), e mangeranno cibo semplice sotto grandi dipinti ingrigiti; nei corridoi dei nostri castelli ci saranno uffici o granai. E là dove Lord Saxonthorpe (il cui vero nome è Hauptstein) oggi decide le nostre politiche, i comuni cittadini inglesi torneranno a una vita più semplice: ci saranno cani, birra e attività ricreative nelle serate invernali. Perché anche l’[[Italy|Italia]] un tempo, con l’ingegno umano, raccolse quella ricchezza che non le apparteneva per natura.
+Sono gli eredi impoveriti di un’epoca gloriosa; i vestiti di quell’epoca li avvolgono ancora, ma le loro stanze sono troppo grandi per la povertà moderna. Ho trovato questi uomini che mangiavano in un grande corridoio, in una sala, proprio come avrebbero potuto fare in un palazzo. C’erano soffitti alti e dipinti, molte cose di marmo, una vasta cucina, tutto l’arredamento tipico delle grandi case, ma al servizio di pochi uomini soddisfatti e sconosciuti. Così, in Inghilterra, quando avremo compiuto il nostro destino, uomini più felici ma più poveri vivranno nelle dimore di campagna ormai fatiscenti (un’abitazione comune, una locanda o una casa signorile decaduta), e mangeranno cibo semplice sotto grandi dipinti ingrigiti; nei corridoi dei nostri castelli ci saranno uffici o granai. E là dove Lord Saxonthorpe (il cui vero nome è Hauptstein) oggi decide le nostre politiche, i comuni cittadini inglesi torneranno a una vita più semplice: ci saranno cani, birra e attività ricreative nelle serate invernali. Perché anche l’[[settings/italy|Italia]] un tempo, con l’ingegno umano, raccolse quella ricchezza che non le apparteneva per natura.
 
 Era un uomo buono, il padrone di questa locanda. Mi ha riscaldato accanto al suo fuoco nella sua enorme cucina; ho bevuto Malaga in onore dei cuochi. Ho mangiato il loro cibo, ho comprato una bottiglia di un nuovo tipo di vino dolce chiamato “Vino Dolce”, e poi, sono ripartito per la mia strada.
 
@@ -11315,7 +11315,7 @@ So it is with the majesty of Plains, and with the haunting power of their imperi
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Su cose perfette
+Su cose perfette
 
 Un ricordo confuso di quella pianura insopportabile. Quella notte a Firenzuola, quella mattina (la seconda mattina di questa visita) ancora fredda, ancora spietata, e intrisa dal tempo orribile. Non faranno parte di questo libro.
 
@@ -11344,7 +11344,7 @@ Here then, next day, just outside a town called Borgo, past the middle of mornin
 
 Its effect was still upon the slippery and shining road, the sky was still fast and leaden, when, in a distaste for their towns, I skirted the place by a lane that runs westward of the houses, and sitting upon a low wall, I looked up at the Apennines, which were now plain above me, and thought over my approaching passage through those hills.
 
-But here I must make clear by a map the mass of [[Mountains|mountains]] which I was about to attempt, and in which I forded so many rivers, met so many strange men and beasts, saw such unaccountable sights, was imprisoned, starved, frozen, haunted, delighted, burnt up, and finally refreshed in Tuscany — in a word, where I had the most extraordinary and unheard-of adventures that ever diversified the life of man.
+But here I must make clear by a map the mass of [[settings/mountains|mountains]] which I was about to attempt, and in which I forded so many rivers, met so many strange men and beasts, saw such unaccountable sights, was imprisoned, starved, frozen, haunted, delighted, burnt up, and finally refreshed in Tuscany — in a word, where I had the most extraordinary and unheard-of adventures that ever diversified the life of man.
 
 * * *
 
@@ -11363,7 +11363,7 @@ Ecco quindi, il giorno dopo, appena fuori da una città chiamata Borgo, verso me
 
 Il suo effetto era ancora visibile sulla strada scivolosa e lucida; il cielo rimaneva cupo e pesante. Con disgusto per le loro città, percorsi un sentiero che correva a ovest delle case e, seduto su un muro basso, alzai lo sguardo verso gli Appennini, ormai visibili sopra di me, riflettendo sul mio imminente passaggio attraverso quelle colline.
 
-Ma qui devo spiegare chiaramente, attraverso una mappa, l’area delle [[Mountains|montagne]] che intendevo attraversare; un’area in cui ho attraversato molti fiumi, incontrato molte persone e creature strane, visto cose inspiegabili, sono stato imprigionato, affamato, congelato, perseguitato dai fantasmi, provato gioie intense, rischiato di bruciare. E infine ho trovato riposo in Toscana. In breve, è lì che ho vissuto le avventure più straordinarie e inaudite che abbiano mai arricchito la vita di un uomo.
+Ma qui devo spiegare chiaramente, attraverso una mappa, l’area delle [[settings/mountains|montagne]] che intendevo attraversare; un’area in cui ho attraversato molti fiumi, incontrato molte persone e creature strane, visto cose inspiegabili, sono stato imprigionato, affamato, congelato, perseguitato dai fantasmi, provato gioie intense, rischiato di bruciare. E infine ho trovato riposo in Toscana. In breve, è lì che ho vissuto le avventure più straordinarie e inaudite che abbiano mai arricchito la vita di un uomo.
 
 * * *
 
@@ -11385,7 +11385,7 @@ But to get from the Emilian Way over the eastern slope of the Apennines’ main 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Una topografia irrilevante
+Una topografia irrilevante
 
 La linea dritta per Roma parte da Milano; non attraversa esattamente Piacenza, ma si trova a un miglio o due di distanza da quella città. Da lì prosegue attraverso le prime catene degli Appennini e gradualmente si allontana dalla Via Emilia. Non era possibile seguire esattamente questa tratta, poiché non esisteva alcun sentiero. Tuttavia, seguendo la Via Emilia per alcuni chilometri (come avevo fatto io) e abbandonandola nel momento giusto, si riusciva a ritrovare di nuovo la linea dritta vicino a un villaggio chiamato Medesano.
 
@@ -11404,9 +11404,9 @@ THE RED INN
 
 Perhaps in places roads might correspond to this track. Certainly the bulk of it would be mule-paths or rough gullies — how much I could not tell. The only way I could work it with my wretched map was to note the names of towns’ or hamlets more or less on the line, and to pick my way from one to another. I wrote them down as follows: Fornovo, Calestano, Tizzano, Colagna — the last at the foot of the final pass. The distance to that pass as the crow flies was only a little more than thirty miles. So exceedingly difficult was the task that it took me over two days. Till I reached Fornovo beyond the Taro, I was not really in the hills.
 
-By country roads, picking my way, I made that afternoon for Medesano. The lanes were tortuous; they crossed continual streams that ran from the hills above, full and foaming after the rain, and frothing with the waste of the [[Mountains|mountains]]. I had not gone two miles when the sky broke; not four when a new warmth began to steal over the air and a sense of summer to appear in the earth about me. With the greatest rapidity the unusual weather that had accompanied me from Milan was changing into the normal brilliancy of the south; but it was too late for the sun to tell, though he shone from time to time through clouds that were now moving eastwards more perceptibly and shredding as they moved.
+By country roads, picking my way, I made that afternoon for Medesano. The lanes were tortuous; they crossed continual streams that ran from the hills above, full and foaming after the rain, and frothing with the waste of the [[settings/mountains|mountains]]. I had not gone two miles when the sky broke; not four when a new warmth began to steal over the air and a sense of summer to appear in the earth about me. With the greatest rapidity the unusual weather that had accompanied me from Milan was changing into the normal brilliancy of the south; but it was too late for the sun to tell, though he shone from time to time through clouds that were now moving eastwards more perceptibly and shredding as they moved.
 
-Quite tired and desiring food, keen also for rest after those dispiriting days, I stopped, before reaching Medesano, at an inn where three ways met; and there I purposed to eat and spend the night, for the next day, it was easy to see, would be tropical, and I should rise before [[Dawn|dawn]] if I was to save the heat. I entered.
+Quite tired and desiring food, keen also for rest after those dispiriting days, I stopped, before reaching Medesano, at an inn where three ways met; and there I purposed to eat and spend the night, for the next day, it was easy to see, would be tropical, and I should rise before [[motifs/dawn|dawn]] if I was to save the heat. I entered.
 
 The room within was of red wood. It had two tables, a little counter with a vast array of bottles, a woman behind the counter, and a small, nervous man in a strange hat serving. And all the little place was filled and crammed with a crowd of perhaps twenty men, gesticulating, shouting, laughing, quarrelling, and one very big man was explaining to another the virtues of his knife; and all were already amply satisfied with wine. For in this part men do not own, but are paid wages, so that they waste the little they have.
 
@@ -11423,7 +11423,7 @@ Forse in alcune zone le strade corrisponderebbero a questo sentiero. Di certo, l
 
 Per strade di campagna, procedendo con cautela, raggiunsi Medesano quel pomeriggio. I sentieri erano tortuosi; attraversavano numerosi ruscelli che scendevano dalle colline sopra di me, pieni d’acqua e schiumanti dopo la pioggia, e portavano con sé i residui delle montagne. Non avevo percorso nemmeno due miglia quando il cielo iniziò a schiarirsi; non quattro miglia quando una nuova calda aria cominciò a diffondersi nell’atmosfera e un senso di estate prese vita intorno a me. Con estrema rapidità, il clima insolito che mi aveva accompagnato da Milano si trasformò nella tipica luminosità del sud; ma ormai era troppo tardi perché il sole potesse rivelarlo. Anche se, di tanto in tanto, filtrava attraverso le nuvole che ora si muovevano sempre più velocemente verso est, disperdendosi lungo la loro strada.
 
-Piuttosto stanco e desideroso di cibo, oltre che ansioso di riposare dopo quei giorni deprimenti, mi fermai, prima di raggiungere Medesano, in una locanda dove si incrociavano tre strade; lì decisi di mangiare e trascorrere la notte, poiché il giorno seguente, come era facile intuire, sarebbe stato molto caldo, e avrei dovuto alzarmi prima dell’[[Dawn|'alba]] se volevo evitare il calore estremo. Entrai nella locanda.
+Piuttosto stanco e desideroso di cibo, oltre che ansioso di riposare dopo quei giorni deprimenti, mi fermai, prima di raggiungere Medesano, in una locanda dove si incrociavano tre strade; lì decisi di mangiare e trascorrere la notte, poiché il giorno seguente, come era facile intuire, sarebbe stato molto caldo, e avrei dovuto alzarmi prima dell’[[motifs/dawn|'alba]] se volevo evitare il calore estremo. Entrai nella locanda.
 
 La stanza era fatta di legno rosso. C'erano due tavoli, un piccolo bancone con una vasta selezione di bottiglie, una donna dietro il bancone e un uomo piccolo e nervoso, con un cappello strano, che serviva i clienti. L’intero locale era pieno di una folla di circa venti uomini: gesticolavano, gridavano, ridevano, discutevano. Un uomo molto alto stava spiegando a un altro le qualità del suo coltello; tutti erano già più che soddisfatti del vino. In questa zona, infatti, le persone non possiedono nulla, ma ricevono uno stipendio, quindi spendono tutto ciò che hanno.
 
@@ -11455,7 +11455,7 @@ I stood wine; we drank. I showed them my book, and as my pencil needed sharpenin
 
 <span class="qlang-split" data-lang="it"></span>
 
-#La rissa nella taverna
+La rissa nella taverna
 
 “Veneti, ” Qualcosa nella mia lingua incomprensibile doveva averli fatti pensare così; evidentemente i Veneti erano molto impopolari da queste parti. Perché? Non lo so. Forse i Veneti agivano in modo disonesto. Ma chiaramente un veneziano, o l’intera nazione veneta, aveva recentemente fatto loro del male.
 
@@ -11534,7 +11534,7 @@ La mattina seguente tutto era come avevo previsto. Uscendo prima che facesse com
 
 THE IMPASSABLE RIVER
 
-WHY COULD IT not be crossed? My very broken language made it difficult for me to understand. They talked oframi, which I thought meant oars; but rami, had I known it, meant the separate branches or streams whereby these torrential rivers of [[Italy]] flow through their arid beds.
+WHY COULD IT not be crossed? My very broken language made it difficult for me to understand. They talked oframi, which I thought meant oars; but rami, had I known it, meant the separate branches or streams whereby these torrential rivers of [[settings/italy|Italy]] flow through their arid beds.
 
 I drew a boat and asked if one could not cross in that (for I was a northerner, and my idea of a river was a river with banks and water in between), but they laughed and said ‘No.’ Then I made the motion of swimming. They said it was impossible, and one man hung his head to indicate drowning. It was serious. They said to-morrow, or rather next day, one might do it.
 
@@ -11555,7 +11555,7 @@ i?5
 
 Il fiume intransitabile
 
-Perché non poteva essere attraversato? La mia lingua, così limitata, mi rendeva difficile capire. Parlavano di “rami”, che pensavo significassero remi; ma in realtà, se lo avessi saputo, “rami” indicavano i vari affluenti o corsi d’acqua attraverso cui questi impetuosi fiumi dell’[[Italy|Italia]] scorrono nei loro letti aridi.
+Perché non poteva essere attraversato? La mia lingua, così limitata, mi rendeva difficile capire. Parlavano di “rami”, che pensavo significassero remi; ma in realtà, se lo avessi saputo, “rami” indicavano i vari affluenti o corsi d’acqua attraverso cui questi impetuosi fiumi dell’[[settings/italy|Italia]] scorrono nei loro letti aridi.
 
 Disegnai una barca e chiesi se si potesse attraversare il fiume con quella (poiché ero del nord, e per me un fiume era qualcosa con rive su entrambi i lati e acqua in mezzo), ma loro risero e dissero “No”. Poi feci il gesto di nuotare; loro dissero che era impossibile, e uno di loro scosse la testa per indicare che si sarebbe potuti annegare. Era una questione seria. Dissero che l’indomani, o meglio il giorno dopo, forse ci sarebbe stato modo di farlo.
 
@@ -11582,9 +11582,9 @@ silence through thick brushwood down towards the broad river-bed. The stones of 
 
 We came to the edge of the first, and I climbed on the guide’s back. He went bare-legged into the stream deeper and deeper till my feet, though held up high, just touched the water; then laboriously he climbed the further shore, and I got down upon dry land. It had been but twenty yards or so, and he knew the place well. I had seen, as we crossed, what a torrent this first little stream was, and I now knew the difficulty and understood the warnings of the inn.
 
-The second branch was impassable. We followed it up for nearly a mile to where ‘an island’ (that is, a mass of high land that must have been an island in flood-time, and that had on it an old brown village) stood above the white bed of the river. Just at this ‘island’ my guide found a ford. And the way he found it is worth telling. He taught me the trick, and it is most useful to men who wander alone in [[Mountains|mountains]].
+The second branch was impassable. We followed it up for nearly a mile to where ‘an island’ (that is, a mass of high land that must have been an island in flood-time, and that had on it an old brown village) stood above the white bed of the river. Just at this ‘island’ my guide found a ford. And the way he found it is worth telling. He taught me the trick, and it is most useful to men who wander alone in [[settings/mountains|mountains]].
 
-You take a heavy stone, how heavy you must learn to judge, for a more rapid current needs a heavier stone; but say about ten pounds. This you lob gently into mid-stream. How, it is impossible to describe, but when you do it it is quite easy to see that in about four feet of water, or less, the stone splashes quite differently from the way it does in five feet or more. It is a sure test, and one much easier to acquire by practice than to write about. To teach myself this trick I practised it throughout my [[Journey|journey]] in these wilds.
+You take a heavy stone, how heavy you must learn to judge, for a more rapid current needs a heavier stone; but say about ten pounds. This you lob gently into mid-stream. How, it is impossible to describe, but when you do it it is quite easy to see that in about four feet of water, or less, the stone splashes quite differently from the way it does in five feet or more. It is a sure test, and one much easier to acquire by practice than to write about. To teach myself this trick I practised it throughout my [[motifs/journey|journey]] in these wilds.
 
 Having found a ford then, he again took me on his shoulders, but, in mid-stream, the water being up to his breast, his foot slipped on a stone (all the bed beneath was rolling and churning in the torrent), and in a moment we had both fallen. He pulled me up straight by his side, and then indeed, overwhelmed in the rush of water, it was easy to understand how the Taro could drown men, and why the peasants dreaded these little ribbons of water.
 
@@ -11603,9 +11603,9 @@ Il silenzio si diffondeva attraverso la fitta boscaglia, verso il vasto letto de
 
 Raggiungemmo il bordo del primo ruscello; io salii sul dorso del guida. Lui entrò nel corso d’acqua a piedi nudi, avanzando sempre di più verso l’interno, fino a quando i miei piedi, pur tenuti in alto, toccarono appena l’acqua; poi, con grande sforzo, risalì sulla riva opposta e io scesi sulla terraferma. La distanza era di soli venti metri circa, e lui conosceva bene quel posto. Mentre attraversavamo, avevo visto quanto fosse impetuoso questo piccolo ruscello; ora capivo appieno le difficoltà e comprendevo i motivi delle avvertenze dell’ostello.
 
-Il secondo ramo del fiume era impraticabile. Lo seguimmo per quasi un miglio fino a raggiungere quella che sembrava un’“isola”: una massa di terreno elevato che, durante le inondazioni, doveva essere stata effettivamente un’isola; su di essa sorgeva un vecchio villaggio marrone. Proprio in quel punto il mio guida trovò un guado. Il modo in cui lo scoprì merita di essere raccontato. Mi insegnò il trucco, e si rivela davvero molto utile per chi viaggia da solo nelle [[Mountains|montagne]].
+Il secondo ramo del fiume era impraticabile. Lo seguimmo per quasi un miglio fino a raggiungere quella che sembrava un’“isola”: una massa di terreno elevato che, durante le inondazioni, doveva essere stata effettivamente un’isola; su di essa sorgeva un vecchio villaggio marrone. Proprio in quel punto il mio guida trovò un guado. Il modo in cui lo scoprì merita di essere raccontato. Mi insegnò il trucco, e si rivela davvero molto utile per chi viaggia da solo nelle [[settings/mountains|montagne]].
 
-Prendi una pietra pesante; devi imparare a giudicarne il peso, perché un corso d’acqua più veloce richiede una pietra ancora più pesante. Diremo, circa dieci libbre. La lancia delicatamente nel mezzo del fiume. È impossibile descrivere esattamente come funziona, ma è facile notare che, in acque profonde al massimo quattro piedi, la pietra produce effetti molto diversi rispetto ad acque più profonde. È un test affidabile, e molto più facile da imparare attraverso la pratica che leggendo delle spiegazioni teoriche. Per padroneggiare questo trucco, l’ho messo in pratica durante tutto il mio [[Journey|Viaggio]] in queste terre selvagge.
+Prendi una pietra pesante; devi imparare a giudicarne il peso, perché un corso d’acqua più veloce richiede una pietra ancora più pesante. Diremo, circa dieci libbre. La lancia delicatamente nel mezzo del fiume. È impossibile descrivere esattamente come funziona, ma è facile notare che, in acque profonde al massimo quattro piedi, la pietra produce effetti molto diversi rispetto ad acque più profonde. È un test affidabile, e molto più facile da imparare attraverso la pratica che leggendo delle spiegazioni teoriche. Per padroneggiare questo trucco, l’ho messo in pratica durante tutto il mio [[motifs/journey|Viaggio]] in queste terre selvagge.
 
 Avendo trovato un guado, mi prese di nuovo in spalla, ma a metà corso, con l'acqua che gli arrivava al petto, il suo piede scivolò su una pietra (il fondo del fiume era tutto agitato e tumultuoso sotto di noi) e in un attimo entrambi cademmo. Mi tirò su immediatamente accanto a sé; in quel momento, travolti dalla corrente d'acqua, diventava facile capire come il Taro potesse far annegare le persone, e perché i contadini temessero questi piccoli corsi d’acqua.
 
@@ -11645,7 +11645,7 @@ Then leaving the main road which runs to Pontremoli and at last to Spezzia, my l
 
 <span class="qlang-split" data-lang="it"></span>
 
-# San Cristoforo
+San Cristoforo
 
 E anche le sei altre rive erano facilmente attraversabili. La settima, invece, era larga e profonda; trovai davvero difficile attraversarla. Non avrei mai provato a farlo senza il mio guida: l’acqua mi spingeva con forza, come se qualcuno stesse lottando contro di me. E era fredda quanto Acheronte, il fiume dei morti. Una volta raggiunta la riva opposta, gli avvertii del pericolo che lo aspettava (in Lingua Franca), gli pagai il compenso e lui sorrise, mi ringraziò, poi tornò indietro, prendendosi tutto il tempo necessario per decidere cosa fare.
 
@@ -11674,7 +11674,7 @@ Allora, lasciata la strada principale che conduce a Pontremoli e infine a Spezzi
 
 THE GREAT VIEW
 
-ALREADY AFTERNOON, AND as I had used so much of the preceding night for my [[Journey|journey]], I remembered the wise custom of hot countries and lay down to sleep.
+ALREADY AFTERNOON, AND as I had used so much of the preceding night for my [[motifs/journey|journey]], I remembered the wise custom of hot countries and lay down to sleep.
 
 I slept but a little while, yet when I woke the air was cooler. I climbed the side of the glen at random, and on the summit I found, to my disgust, a road. What road could it be? To this day I do not know. Perhaps I had missed my way and struck the main highway again. Perhaps (it is often so in the Apennines) it was a road leading nowhere. At any rate I hesitated, and looked back to judge my direction.
 
@@ -11693,7 +11693,7 @@ Believe it or not, I was looking back to a place of days before: over how many, 
 
 La grande vista
 
-Già a pomeriggio inoltrato, e poiché avevo impiegato gran parte della notte precedente per il mio [[Journey|viaggio]], ricordai la saggia usanza dei paesi caldi e decisi di dormire.
+Già a pomeriggio inoltrato, e poiché avevo impiegato gran parte della notte precedente per il mio [[motifs/journey|viaggio]], ricordai la saggia usanza dei paesi caldi e decisi di dormire.
 
 Dormii solo per poco tempo, ma quando mi svegliai l’aria era più fresca. Salii a caso lungo il fianco della valle e, in cima, trovai, con disgusto, una strada. Che tipo di strada poteva essere? Ancora oggi non lo so. Forse avevo sbagliato direzione e avevo ritrovato la strada principale. O forse (è spesso così negli Appennini) era una strada che portava da nessuna parte. Comunque, esitai e guardai indietro per verificare la mia posizione.
 
@@ -11785,7 +11785,7 @@ But not for long. Very soon I was again following up the street, and we came to 
 
 <span class="qlang-split" data-lang="it"></span>
 
-#La menzogna del poliziotto
+La menzogna del poliziotto
 
 Era pieno di gente; notai il primo segnale di pericolo quando mi dissero con tono cupo che “non avevano un letto; pensavano che non ne potessi trovare nessuno in città”. Poi, all’improvviso, quei due uomini con i cappelli bianchi entrarono e mi arrestarono con la stessa facilità con cui voi o io potremmo tenere fermo un cavallo.
 
@@ -11820,7 +11820,7 @@ But the Sindaco, the French-speaking Sindaco, understood me not in the least, an
 
 ‘Tourist-e?’ he said.
 
-I nodded. Then he told them to let me go. It was as simple as that; and to this day, I suppose, he passes for a very bilingual Mayor. He did me a service, and I am willing to believe that in his youth he smacked his lips over the subtle flavour of Voltaire, but I fear to-day he would have a poor time with Anatole [[France]].
+I nodded. Then he told them to let me go. It was as simple as that; and to this day, I suppose, he passes for a very bilingual Mayor. He did me a service, and I am willing to believe that in his youth he smacked his lips over the subtle flavour of Voltaire, but I fear to-day he would have a poor time with Anatole [[settings/france|France]].
 
 What a contrast was there between the hour when I had gone out of the cafe a prisoner and that when I returned rejoicing with a crowd about me, proclaiming my innocence, and shouting one to another that I was a tourist and had seventy-three lira on my person! The landlady smiled and bowed: she had before refused me a bed! The men at the tables made me a god! Nor did I think them worse for this. Why should I? A man unknown, unkempt, unshaven, in tatters, covered with weeks of travel and mud, and in a suit that originally cost not ten shillings; having slept in leaves and ferns, and forest places, crosses a river at dusk and enters a town furtively, not by the road. He is a foreigner; he carries a great club. Is it not much wiser to arrest such a man? Why yes, evidently. And when you have arrested him, can you do more than let him go without proof, on his own word? Hardly!
 
@@ -11841,7 +11841,7 @@ Ma il Sindaco, quel Sindaco di lingua francese, non mi capì affatto; sembrava u
 
 “Turista?”, disse.
 
-Annuii. Poi gli disse di lasciarmi andare. Fu semplicissimo; e fino ad oggi, immagino, lui venga considerato un sindaco molto bilingue. Mi ha fatto un favore, e sono disposto a credere che da giovane apprezzasse molto il sottile gusto di Voltaire. Ma temo che oggi avrebbe difficoltà con Anatole [[France]].
+Annuii. Poi gli disse di lasciarmi andare. Fu semplicissimo; e fino ad oggi, immagino, lui venga considerato un sindaco molto bilingue. Mi ha fatto un favore, e sono disposto a credere che da giovane apprezzasse molto il sottile gusto di Voltaire. Ma temo che oggi avrebbe difficoltà con Anatole [[settings/france|France]].
 
 Che contrasto c'era tra il momento in cui ero uscito dal caffè come un prigioniero e quello in cui sono tornato, gioioso, circondato da una folla che proclamava la mia innocenza e si chiamava l'un l'altro dicendo che ero un turista e che avevo settantatré lire con me! La padrona di casa sorrise e si inchinò: poco prima mi aveva rifiutato una stanza! Gli uomini ai tavoli mi trattavano come un dio. E non li giudicavo certo peggio per questo. Perché dovrei? Un uomo sconosciuto, trasandato, senza barba, in disordine, coperto di fango e polvere accumulati durante settimane di viaggio, con abiti che originariamente non costavano nemmeno dieci scellini; che aveva dormito tra foglie, felci e luoghi selvaggi, che attraversava un fiume al tramonto ed entrava in una città di nascosto, non per la strada. Era un estraneo; portava con sé un grosso bastone. Non sarebbe molto più sensato arrestare un uomo del genere? Certo che sì. E una volta arrestato, cosa si può fare se non lasciarlo andare senza prove, sulla sua parola soltanto? Quasi nulla!
 
@@ -11866,7 +11866,7 @@ Pilgrimage to the South, the strange rock of Castel-Nuovo; in the far haze the p
 
 We talked of the way people here tilled and owned ground, of the dangers in the hills, and of the happiness of lonely men. But if you ask how we understood each other, I will explain the matter to you.
 
-In [[Italy]], in the Apennines of the north, there seem to be three strata of language. In the valleys the Italian was pure, resonant, and foreign to me. There dwell the townsmen, and they deal down river with the plains. Half-way up (as at Frangi, at Beduzzo, at Tizzano) I began to understand them. They have the nasal ‘n’; they clip their words. On the summits, at last, they speak like northerners, and I was easily understood, for they said not lvino’ but ‘vin’; not ‘duo’ but ‘du’, and so forth. They are the Gauls of the hills. I told them so, and they were very pleased.
+In [[settings/italy|Italy]], in the Apennines of the north, there seem to be three strata of language. In the valleys the Italian was pure, resonant, and foreign to me. There dwell the townsmen, and they deal down river with the plains. Half-way up (as at Frangi, at Beduzzo, at Tizzano) I began to understand them. They have the nasal ‘n’; they clip their words. On the summits, at last, they speak like northerners, and I was easily understood, for they said not lvino’ but ‘vin’; not ‘duo’ but ‘du’, and so forth. They are the Gauls of the hills. I told them so, and they were very pleased.
 
 * * *
 
@@ -11907,7 +11907,7 @@ Pellegrinaggio verso il Sud: la strana roccia di Castel-Nuovo; nella nebbia lont
 
 Abbiamo parlato del modo in cui le persone qui coltivano la terra e ne possedevano i diritti, dei pericoli presenti nelle colline, e della felicità degli uomini solitari. Ma se vi chiedete come riuscissimo a capirci a vicenda, vi spiegherò tutto.
 
-In [[Italy|Italia]], nelle Apennine settentrionali, sembrano esistere tre livelli linguistici diversi. Nei valichi, l’italiano è puro, sonoro, ma per me comunque straniero; lì vivono gli abitanti delle città che commerciano con le pianure. A metà pendio (a Frangi, Beduzzo, Tizzano), iniziavo a capirli: utilizzavano la “n” nasale e abbreviavano alcune parole. Infine, in cima alle montagne, parlavano come i northerners, e io li capivo facilmente: non dicevano “lvino”, ma “vin”; non “duo”, ma “du”, e così via. Sono i “Galli delle colline”. Gliel’ho detto, e ne sono stati molto felici.
+In [[settings/italy|Italia]], nelle Apennine settentrionali, sembrano esistere tre livelli linguistici diversi. Nei valichi, l’italiano è puro, sonoro, ma per me comunque straniero; lì vivono gli abitanti delle città che commerciano con le pianure. A metà pendio (a Frangi, Beduzzo, Tizzano), iniziavo a capirli: utilizzavano la “n” nasale e abbreviavano alcune parole. Infine, in cima alle montagne, parlavano come i northerners, e io li capivo facilmente: non dicevano “lvino”, ma “vin”; non “duo”, ma “du”, e così via. Sono i “Galli delle colline”. Gliel’ho detto, e ne sono stati molto felici.
 
 * * *
 
@@ -11948,9 +11948,9 @@ The molinar — even the molinar — was careful of his way. Twice he waited, wa
 
 The molinar then, with gesticulations and expression of the eyes, gave me to understand that for this 50 c. the stilt-man would take me up to Tizzano on the high ridge and show me the path up the ridge; so the stilt-man turned to me and said, ‘Andiamo’ which means ‘Allons’. But when the Italians say ‘Andiamo’ they are less harsh than the northern French who say ‘Allans’; for the northern French have three troubles in the blood. They are fighters; they will for ever be seeking the perfect state, and they love furiously. Hence they ferment twice over, like wine subjected to movement and breeding acidity. Therefore is it that when they say ‘Allons’ it is harsher than ‘Andiamo’. My Italian said to me genially, ‘Andiamo’.
 
-The [[Catholic Church]] makes men. By which I do not mean boasters and swaggerers, nor bullies nor ignorant fools, who, finding themselves comfortable, think that their comfort will be a boon to others, and attempt (with singular unsuccess) to force it on the world; but men, human beings, different from the beasts, capable of firmness and discipline and recognition; accepting death; tenacious. Of her effects the most gracious is the character of the Irish and of these Italians. Of such also some day she may make soldiers.
+The [[historical-references/catholic-church|Catholic Church]] makes men. By which I do not mean boasters and swaggerers, nor bullies nor ignorant fools, who, finding themselves comfortable, think that their comfort will be a boon to others, and attempt (with singular unsuccess) to force it on the world; but men, human beings, different from the beasts, capable of firmness and discipline and recognition; accepting death; tenacious. Of her effects the most gracious is the character of the Irish and of these Italians. Of such also some day she may make soldiers.
 
-Have you ever noticed that all the [[Catholic Church]] does is thought beautiful and lovable until she comes out into the open, and then suddenly she is found
+Have you ever noticed that all the [[historical-references/catholic-church|Catholic Church]] does is thought beautiful and lovable until she comes out into the open, and then suddenly she is found
 
 * * *
 
@@ -11965,9 +11965,9 @@ Anche il mulinaio faceva attenzione a dove metteva i piedi. Due volte dovette as
 
 Il mulinaro, allora, con gesti e movimenti degli occhi, mi fece capire che per quei 50 centesimi quell’uomo su grucia mi avrebbe portato fino a Tizzano, sulla cresta alta, e mi avrebbe mostrato il sentiero per salire; così l’uomo su grucia si rivolse a me e disse: “Andiamo”, che significa “Andiamo”. Ma quando gli italiani dicono “Andiamo”, lo fanno in modo meno brusco rispetto ai francesi del nord, che dicono “Allans”; i francesi del nord, infatti, hanno tre caratteristiche particolari: sono combattivi, cercano sempre lo stato perfetto e amano con passione. Per questo motivo “ fermentano” due volte, come il vino che, sottoposto a movimenti e processi di fermentazione, diventa più acido. Ecco perché quando dicono “Allans”, il loro tono è più brusco rispetto a quello degli italiani. Il mio italiano, invece, mi disse gentilmente: “Andiamo”.
 
-La [[Catholic Church|Chiesa Cattolica]] crea gli uomini. Non intendo con questo i vanitosi e i presuntuosi, né i bulli o gli ignoranti che, trovandosi a proprio agio, pensano che tale comodità possa essere un beneficio anche per gli altri, e cercano (con scarso successo) di imporla al mondo; ma uomini veri, esseri umani diversi dalle bestie, capaci di fermezza, disciplina e razionalità; disposti ad accettare la morte e tenaci nella loro determinazione. Tra gli effetti della Chiesa Cattolica, il più prezioso è sicuramente il carattere degli irlandesi e di questi italiani. Da persone del genere, un giorno, potranno anche nascere soldati.
+La [[historical-references/catholic-church|Chiesa Cattolica]] crea gli uomini. Non intendo con questo i vanitosi e i presuntuosi, né i bulli o gli ignoranti che, trovandosi a proprio agio, pensano che tale comodità possa essere un beneficio anche per gli altri, e cercano (con scarso successo) di imporla al mondo; ma uomini veri, esseri umani diversi dalle bestie, capaci di fermezza, disciplina e razionalità; disposti ad accettare la morte e tenaci nella loro determinazione. Tra gli effetti della Chiesa Cattolica, il più prezioso è sicuramente il carattere degli irlandesi e di questi italiani. Da persone del genere, un giorno, potranno anche nascere soldati.
 
-Avete mai notato che tutto ciò che fa la [[Catholic Church|Chiesa Cattolica]] viene considerato bello e amabile finché non viene rivelato al pubblico, e allora improvvisamente viene visto in un’altra luce?
+Avete mai notato che tutto ciò che fa la [[historical-references/catholic-church|Chiesa Cattolica]] viene considerato bello e amabile finché non viene rivelato al pubblico, e allora improvvisamente viene visto in un’altra luce?
 
 * * *
 
@@ -12059,7 +12059,7 @@ Indicai il tappo di sughero, ma tutto ciò che ottenni dal mio guida fu un comme
 
 Mentre mi alzavo per uscire da Tizzano Val Parmense, il mio guida mi disse: “Perché si chiama Tira-Buchon se ‘buchon’ significa lira?” E io risposi: “Dominus Vobiscum, ”, poi lo lasciai alle sue colline.
 
-# Scendendo lungo la strada dal crinale verso la valle successiva…
+Scendendo lungo la strada dal crinale verso la valle successiva…
 
 * * *
 
@@ -12072,7 +12072,7 @@ TIZZANO
 
 AFTER A MILE or so in the great heat (it was now one o’clock) I was exhausted. So I went up to a little wooded bank, and lay there in the shade sketching Tizzano Val Parmense, where it stood not much above me, and then I lay down and slept for an hour and smoked a pipe and thought of many things.
 
-From the ridge on which Tizzano stands, which is the third of these Apennine spurs, to the next, the fourth, is but a little way; one looks across from one to the other. Nevertheless it is a difficult piece of walking, because in the middle of the valley another ridge, almost as high as the principal spurs, runs down, and this has to be climbed at its lowest part before one can get down to the torrent of the Enza, where it runs with a hollow noise in the depths of the [[Mountains|mountains]]. So the whole valley looks confused, and it appears, and is, laborious.
+From the ridge on which Tizzano stands, which is the third of these Apennine spurs, to the next, the fourth, is but a little way; one looks across from one to the other. Nevertheless it is a difficult piece of walking, because in the middle of the valley another ridge, almost as high as the principal spurs, runs down, and this has to be climbed at its lowest part before one can get down to the torrent of the Enza, where it runs with a hollow noise in the depths of the [[settings/mountains|mountains]]. So the whole valley looks confused, and it appears, and is, laborious.
 
 Very high up above in a mass of trees stood the first of those many ruined towers and castles in which the Apennines abound, and of which Canossa, far off and indistinguishable in the haze, was the chief example. It was called ‘The Tower of Rugino’. Beyond the deep trench of the Enza, poised as it seemed on its southern bank (but really much further off, in the Secchia valley), stood that strange high rock of Castel-Nuovo, which the peasant had shown me that
 
@@ -12091,7 +12091,7 @@ Tizzano
 
 Dopo circa un miglio, nel caldo torrido (erano ormai le una di notte), ero completamente esausto. Così mi diressi verso una piccola riva boscosa e mi sdraiai all’ombra per disegnare il paesaggio di Tizzano Val Parmense, che si trovava poco sopra di me; poi mi addormentai per un’ora, fumando la pipa e pensando a molte cose.
 
-Dalla cresta su cui sorge Tizzano, che è la terza di queste sporgenze appenniniche, alla successiva, la quarta, il distanza è molto breve; si può quasi vedere da una all’altra. Tuttavia, rappresenta un percorso difficile da compiere, perché nel mezzo della valle scorre un’altra cresta, quasi altrettanto alta delle principali sporgenze, e bisogna scalarla nella sua parte più bassa prima di poter scendere fino al torrente Enza, che scorre con un rumore cupo nelle profondità delle [[Mountains|montagne]]. Quindi l’intera valle appare confusa e il percorso è davvero impegnativo.
+Dalla cresta su cui sorge Tizzano, che è la terza di queste sporgenze appenniniche, alla successiva, la quarta, il distanza è molto breve; si può quasi vedere da una all’altra. Tuttavia, rappresenta un percorso difficile da compiere, perché nel mezzo della valle scorre un’altra cresta, quasi altrettanto alta delle principali sporgenze, e bisogna scalarla nella sua parte più bassa prima di poter scendere fino al torrente Enza, che scorre con un rumore cupo nelle profondità delle [[settings/mountains|montagne]]. Quindi l’intera valle appare confusa e il percorso è davvero impegnativo.
 
 Molto in alto, tra gli alberi, si ergeva la prima di quelle numerose torri e castelli in rovina che abbondano negli Appennini; Canossa, lontana e indistinguibile nella nebbia, ne era l’esempio principale. Si chiamava “La Torre di Rugino”. Oltre il profondo burrone dell’Enza, sembrava sorgere sulla sua riva meridionale (ma in realtà si trovava molto più lontano, nella valle del Secchia), quella strana roccia alta chiamata Castel-Nuovo. Il contadino me l’aveva indicata.
 
@@ -12100,7 +12100,7 @@ La mattina… e ciò che rappresentò un punto di riferimento per questo tentati
 
 Più regolare e perfetto della natura stessa; completamente separato dalle altre colline.
 
-# Solo il sole d’oro…
+Solo il sole d’oro…
 
 * * *
 
@@ -12157,7 +12157,7 @@ We went together in the half light by a lane that followed the crest of the hill
 
 And when he indicated the shrines he smiled, as though in apology for them, and I saw that we were of the same religion. Then (since people who will not meet again should give each other presents mutually) I gave him the best of my two pipes, a new pipe with letters carved on it, which he took to be the initials of my name, and he on his part gave me a hedge-rose which he had plucked and had been holding in his fingers. And I continued the path alone.
 
-Certainly these people have a benediction upon them, granted them for their simple lives and their justice. Their eyes are fearless and kindly. They are courteous, straight, and all have in them laughter and sadness. They are full of songs, of memories, of the stories of their native place; and their worship is conformable to the world that God made. May they possess their own land, and may their influence come again from [[Italy]] to save from jar, and boasting, and ineptitude the foolish, valourless cities, and the garish crowds of shouting men.... And let us especially pray that the revival of the [[Faith|faith]] may do something for our poor old universities.
+Certainly these people have a benediction upon them, granted them for their simple lives and their justice. Their eyes are fearless and kindly. They are courteous, straight, and all have in them laughter and sadness. They are full of songs, of memories, of the stories of their native place; and their worship is conformable to the world that God made. May they possess their own land, and may their influence come again from [[settings/italy|Italy]] to save from jar, and boasting, and ineptitude the foolish, valourless cities, and the garish crowds of shouting men.... And let us especially pray that the revival of the [[concepts/faith|faith]] may do something for our poor old universities.
 
 Already, when I heard all these directions, they seemed to argue a longer road than I had expected. It proved interminable.
 
@@ -12188,7 +12188,7 @@ Ci incamminammo insieme nella penombra lungo un sentiero che seguiva la cresta d
 
 E quando indicò quei santuari, sorrise, come se si scusasse per loro, e capii che eravamo della stessa religione. Allora (poiché le persone che non si rivedranno più dovrebbero scambiarsi doni a vicenda), gli diedi la mia migliore delle due pipe, una nuova pipe con lettere incise sopra; lui pensò che fossero le iniziali del mio nome. A sua volta, mi regalò una rosa selvatica che aveva raccolto e tenuto tra le dita. E io proseguii da solo lungo il cammino.
 
-Certamente queste persone sono benedette, per la loro semplice vita e la loro giustizia. I loro occhi sono spaventosi e al contempo gentili; sono cortesi, onesti, e in tutti loro c’è sia riso che tristezza. Sono pieni di canzoni, di ricordi, delle storie della loro terra natale; e la loro devozione è in armonia con il mondo creato da Dio. Possano possedere la propria terra, e che la loro influenza ritorni dall’[[Italy|Italia]] per salvare dalle discordie, dalla vanità e dall’incompetenza le città stolte e prive di valore, nonché le folle chiassose e tumultuose. E preghiamo soprattutto affinché il risveglio della [[Faith|>fede]] possa portare qualche beneficio anche alle nostre povere università.
+Certamente queste persone sono benedette, per la loro semplice vita e la loro giustizia. I loro occhi sono spaventosi e al contempo gentili; sono cortesi, onesti, e in tutti loro c’è sia riso che tristezza. Sono pieni di canzoni, di ricordi, delle storie della loro terra natale; e la loro devozione è in armonia con il mondo creato da Dio. Possano possedere la propria terra, e che la loro influenza ritorni dall’[[settings/italy|Italia]] per salvare dalle discordie, dalla vanità e dall’incompetenza le città stolte e prive di valore, nonché le folle chiassose e tumultuose. E preghiamo soprattutto affinché il risveglio della [[concepts/faith|>fede]] possa portare qualche beneficio anche alle nostre povere università.
 
 Già all’inizio, ascoltando tutte queste indicazioni, mi sembrò che il percorso fosse più lungo di quanto mi aspettassi. Si rivelò davvero interminabile.
 
@@ -12209,13 +12209,13 @@ THE LAST HOURS
 
 faintly darker against the dark sky, I went up doggedly to it, fearing faintness, and reaching it where it stood (it was on the highest ground overlooking the Secchia valley), I sat down on a stone beside it and waited for the morning.
 
-The long slope of the hills fell away for miles to where, by daylight, would have lain the misty plain of Emilia. The darkness confused the landscape. The silence of the [[Mountains|mountains]] and the awful solemnity of the place lent that vast panorama a sense of the terrible, under the dizzy roof of the stars. Every now and again some animal of the night gave a cry in the undergrowth of the valley, and the great rock of Castel-Nuovo, now close and enormous — bare, rugged, a desert place — added something of doom.
+The long slope of the hills fell away for miles to where, by daylight, would have lain the misty plain of Emilia. The darkness confused the landscape. The silence of the [[settings/mountains|mountains]] and the awful solemnity of the place lent that vast panorama a sense of the terrible, under the dizzy roof of the stars. Every now and again some animal of the night gave a cry in the undergrowth of the valley, and the great rock of Castel-Nuovo, now close and enormous — bare, rugged, a desert place — added something of doom.
 
 The hours were creeping on with the less certain stars; a very faint and unliving grey touched the edges of the clouds. The cold possessed me, and I rose to walk, if I could walk, a little farther.
 
 What is that in the mind which, after (it may be) a slight disappointment or a petty accident, causes it to suffer on the scale of grave things?
 
-I have waited for the [[Dawn|dawn]] a hundred times, attended by that mournful, colourless spirit which haunts the last hours of darkness; and influenced especially by the great timeless apathy that hangs round the first uncertain promise of increasing light. For there is an hour before daylight when men die, and when there is nothing above the soul or around it, when even the stars fail.
+I have waited for the [[motifs/dawn|dawn]] a hundred times, attended by that mournful, colourless spirit which haunts the last hours of darkness; and influenced especially by the great timeless apathy that hangs round the first uncertain promise of increasing light. For there is an hour before daylight when men die, and when there is nothing above the soul or around it, when even the stars fail.
 
 And this long and dreadful expectation I had thought to be worst when one was alone at sea in a small boat without wind; drifting beyond one’s harbour in the ebb of the outer channel tide, and sogging back at the first flow on the broad, confused movement of a sea without any waves. In such lonely mornings I have watched the Owers light turning, and I have counted up my gulf of time, and wondered that moments could be so stretched out in the clueless mind. I have prayed for the morning or for a little draught of wind, and this I have thought, I say, the extreme of absorption into emptiness and longing.
 
@@ -12228,13 +12228,13 @@ Le ultime ore
 
 Leggermente più scuro rispetto al cielo notturno, ci andai con determinazione, temendo che potesse svanire; una volta raggiunto il luogo in cui si trovava (si trovava sul punto più alto, con vista sulla valle della Secchia), mi sedetti su una pietra accanto a esso e aspettai l’alba.
 
-La lunga pendenza delle colline si estendeva per chilometri, fino al punto in cui, di giorno, si sarebbe trovata la nebbiosa pianura dell’Emilia. L’oscurità confondeva i contorni del paesaggio. Il silenzio delle [[Mountains|montagne]] e l’atmosfera solenne e inquietante di quel luogo conferivano a quell’immensa distesa un senso di terrore, sotto il vertiginoso cielo stellato. Di tanto in tanto, qualche animale notturno emetteva un grido tra i cespugli della valle; la grande roccia di Castel-Nuovo, ora vicina e imponente – nuda, ruvida, un luogo desolato – aggiungeva ulteriore tensione a quell’atmosfera cupa.
+La lunga pendenza delle colline si estendeva per chilometri, fino al punto in cui, di giorno, si sarebbe trovata la nebbiosa pianura dell’Emilia. L’oscurità confondeva i contorni del paesaggio. Il silenzio delle [[settings/mountains|montagne]] e l’atmosfera solenne e inquietante di quel luogo conferivano a quell’immensa distesa un senso di terrore, sotto il vertiginoso cielo stellato. Di tanto in tanto, qualche animale notturno emetteva un grido tra i cespugli della valle; la grande roccia di Castel-Nuovo, ora vicina e imponente – nuda, ruvida, un luogo desolato – aggiungeva ulteriore tensione a quell’atmosfera cupa.
 
 Le ore passavano lentamente, mentre le stelle sembravano meno luminose; un grigio molto tenue e senza vita sfiorava i bordi delle nuvole. Il freddo mi avvolgeva, e decisi di alzarmi per camminare, se solo ne fossi stato in grado, ancora un po’.
 
 Che cosa c'è nella mente che, dopo una piccola delusione o un insignificante incidente, fa sì che si soffra su scala di cose gravi?
 
-Ho atteso l’[[Dawn|'alba]] centinaia di volte, accompagnato da quel spirito triste e senza colore che aleggia nelle ultime ore dell’oscurità; influenzato soprattutto da quell’enorme apatia senza tempo che avvolge la prima, incerta promessa di luce crescente. Perché c’è un’ora, prima dell’alba, in cui gli uomini muoiono, e in cui non c’è nulla sopra o intorno all’anima, nemmeno le stelle esistono più.
+Ho atteso l’[[motifs/dawn|'alba]] centinaia di volte, accompagnato da quel spirito triste e senza colore che aleggia nelle ultime ore dell’oscurità; influenzato soprattutto da quell’enorme apatia senza tempo che avvolge la prima, incerta promessa di luce crescente. Perché c’è un’ora, prima dell’alba, in cui gli uomini muoiono, e in cui non c’è nulla sopra o intorno all’anima, nemmeno le stelle esistono più.
 
 E questa lunga e terribile attesa. Pensavo fosse la cosa peggiore quando si è soli in mare su una piccola barca, senza vento; quando ci si lascia trascinare al di là del proprio porto con la marea bassa del canale esterno, per poi essere riportati indietro dalla prima ondata nel movimento vasto e confuso di un mare privo di onde. In quelle solitarie mattine, ho osservato il faro di Owers cambiare colore, ho contato i minuti che passavano. E mi sono chiesto come i momenti potessero allungarsi così tanto nella mente di chi non ha nulla a cui aggrapparsi. Ho pregato per l’arrivo della mattina, o per un soffio di vento. E questo, dico, è davvero l’estremo dell’assorbimento nel vuoto e del desiderio senza fine.
 
@@ -12280,7 +12280,7 @@ Lì, senza alcun segnale di colori, né delle decorazioni araldiche che abbiamo 
 
 L’aria divenne più calda quasi all’improvviso. Lo splendore e la vitalità di quella nuova giornata mi misero completamente a mio agio, convincendomi o costringendomi ad addormentarmi immediatamente.
 
-#Nel breve erba, e sulla terra profumata sotto di essa…
+Nel breve erba, e sulla terra profumata sotto di essa…
 
 * * *
 
@@ -12291,11 +12291,11 @@ L’aria divenne più calda quasi all’improvviso. Lo splendore e la vitalità 
 
 THE PASS INTO TUSCANY
 
-OF MY TREES, a place for lying down; I stretched myself out upon it, and lapsed into a profound slumber, which nothing but a vague and tenuous delight separated from complete forgetfulness. If the last confusion of thought, before sleep possessed me, was a kind of [[Prayer|prayer]] — and certainly I was in the mood of gratitude and of adoration — this [[Prayer|prayer]] was of course to God, from whom every good proceeds, but partly (idolatrously) to the Sun, which, of all the things He has made, seems, of what we at least can discover, the most complete and glorious.
+OF MY TREES, a place for lying down; I stretched myself out upon it, and lapsed into a profound slumber, which nothing but a vague and tenuous delight separated from complete forgetfulness. If the last confusion of thought, before sleep possessed me, was a kind of [[motifs/prayer|prayer]] — and certainly I was in the mood of gratitude and of adoration — this [[motifs/prayer|prayer]] was of course to God, from whom every good proceeds, but partly (idolatrously) to the Sun, which, of all the things He has made, seems, of what we at least can discover, the most complete and glorious.
 
-Therefore the first hours of the sunlight, after I had wakened, made the place like a new country; for my mind which received it was new. I reached Collagna before the great heat, following the fine highroad that went dipping and rising again along the mountain side, and then (leaving the road and crossing the little Secchia by a bridge), a path, soon lost in a grassy slope, gave me an indication of my way. For when I had gone an hour or so upwards along the shoulder of the hill, there opened gradually before me a silent and profound vale, hung with enormous woods, and sloping upwards to where it was closed by a high bank beneath and between two peaks. This bank I knew could be nothing else than the central ridge of the Apennines, the watershed, the boundary of Tuscany, and the end of all the main part of my [[Journey|journey]]. Beyond, the valleys would open on to the Tuscan Plain, and at the southern limit of that, Siena was my mark; from Siena to Rome an eager man, if he is sound, may march in three long days. Nor was that calculation all. The satisfaction of the last lap, of the home run, went with the word Tuscany in my mind; these cities were the approaches and introduction of the end.
+Therefore the first hours of the sunlight, after I had wakened, made the place like a new country; for my mind which received it was new. I reached Collagna before the great heat, following the fine highroad that went dipping and rising again along the mountain side, and then (leaving the road and crossing the little Secchia by a bridge), a path, soon lost in a grassy slope, gave me an indication of my way. For when I had gone an hour or so upwards along the shoulder of the hill, there opened gradually before me a silent and profound vale, hung with enormous woods, and sloping upwards to where it was closed by a high bank beneath and between two peaks. This bank I knew could be nothing else than the central ridge of the Apennines, the watershed, the boundary of Tuscany, and the end of all the main part of my [[motifs/journey|journey]]. Beyond, the valleys would open on to the Tuscan Plain, and at the southern limit of that, Siena was my mark; from Siena to Rome an eager man, if he is sound, may march in three long days. Nor was that calculation all. The satisfaction of the last lap, of the home run, went with the word Tuscany in my mind; these cities were the approaches and introduction of the end.
 
-When I had slept out the heat, I followed the woods upward through the afternoon. They stood tangled and huge, and the mosses under them were thick and silent, because in this last belt of the [[Mountains|mountains]] height and coolness reproduced the north. A charcoal burner was making his furnace; after that for the last miles there was no sound. Even the floor of the vale was a depth of grass, and no torrent ran in it but only a little hidden stream, leafy like our streams at home.
+When I had slept out the heat, I followed the woods upward through the afternoon. They stood tangled and huge, and the mosses under them were thick and silent, because in this last belt of the [[settings/mountains|mountains]] height and coolness reproduced the north. A charcoal burner was making his furnace; after that for the last miles there was no sound. Even the floor of the vale was a depth of grass, and no torrent ran in it but only a little hidden stream, leafy like our streams at home.
 
 At last the steep bank, a wall at the end of the valley, rose immediately above me. It was very steep and bare, desolate with the many stumps of trees that had been cut down; but all its edge and fringe against the sky was the line of a deep forest.
 
@@ -12308,13 +12308,13 @@ The hither side of that bank, I say, had been denuded of its trees; the roots
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Il passaggio in Toscana
+Il passaggio in Toscana
 
-Tra i miei alberi, c'era un posto dove poter sdraiarsi; mi distesi lì e cadde in un sonno profondo, dal quale solo una vaga e tenue sensazione di felicità mi separava dall’oblio totale. Se l’ultima confusione dei pensieri prima di addormentarmi poteva essere considerata una sorta di [[Prayer|preghiera]] – e certamente ero nel mood della gratitudine e dell’adorazione – allora questa [[Prayer|preghiera]] era naturalmente rivolta a Dio, da cui proviene ogni bene; ma in parte (in modo idolatrico) anche al Sole, che, di tutte le cose che Egli ha create, sembra essere, per quanto possiamo scoprire, la più completa e gloriosa.
+Tra i miei alberi, c'era un posto dove poter sdraiarsi; mi distesi lì e cadde in un sonno profondo, dal quale solo una vaga e tenue sensazione di felicità mi separava dall’oblio totale. Se l’ultima confusione dei pensieri prima di addormentarmi poteva essere considerata una sorta di [[motifs/prayer|preghiera]] – e certamente ero nel mood della gratitudine e dell’adorazione – allora questa [[motifs/prayer|preghiera]] era naturalmente rivolta a Dio, da cui proviene ogni bene; ma in parte (in modo idolatrico) anche al Sole, che, di tutte le cose che Egli ha create, sembra essere, per quanto possiamo scoprire, la più completa e gloriosa.
 
-Pertanto, le prime ore di luce solare, dopo che mi ero svegliato, trasformavano quel luogo in una sorta di “nuovo paese”; perché la mia mente, che ne riceveva quella luce, era davvero nuova. Raggiunsi Collagna prima dell’arrivo del grande caldo, seguendo la bella strada che serpeggiava lungo il versante della montagna; poi, lasciando la strada e attraversando il piccolo fiume Secchia con un ponte, un sentiero, presto perduto tra i prati, mi indicò la direzione giusta. Dopo aver camminato per circa un’ora lungo il crinale della collina, davanti a me si aprì gradualmente una valle silenziosa e profonda, avvolta da enormi foreste, che si innalzava verso l’alto fino a essere delimitata da un alto versante situato tra due cime. Quel versante non poteva essere altro che la cresta centrale degli Appennini: il confine naturale della Toscana e la fine di gran parte del mio [[Journey|viaggio]]. Oltre di lì, le valli si aprivano sulla Pianura Toscana; al suo limite meridionale si trovava Siena. Da Siena a Roma, un uomo deciso e in buona salute poteva percorrere la distanza in tre giorni. E non era questa solo la considerazione che avevo in mente: il pensiero della Toscana mi riempiva di soddisfazione; quelle città rappresentavano l’approdo finale del mio viaggio.
+Pertanto, le prime ore di luce solare, dopo che mi ero svegliato, trasformavano quel luogo in una sorta di “nuovo paese”; perché la mia mente, che ne riceveva quella luce, era davvero nuova. Raggiunsi Collagna prima dell’arrivo del grande caldo, seguendo la bella strada che serpeggiava lungo il versante della montagna; poi, lasciando la strada e attraversando il piccolo fiume Secchia con un ponte, un sentiero, presto perduto tra i prati, mi indicò la direzione giusta. Dopo aver camminato per circa un’ora lungo il crinale della collina, davanti a me si aprì gradualmente una valle silenziosa e profonda, avvolta da enormi foreste, che si innalzava verso l’alto fino a essere delimitata da un alto versante situato tra due cime. Quel versante non poteva essere altro che la cresta centrale degli Appennini: il confine naturale della Toscana e la fine di gran parte del mio [[motifs/journey|viaggio]]. Oltre di lì, le valli si aprivano sulla Pianura Toscana; al suo limite meridionale si trovava Siena. Da Siena a Roma, un uomo deciso e in buona salute poteva percorrere la distanza in tre giorni. E non era questa solo la considerazione che avevo in mente: il pensiero della Toscana mi riempiva di soddisfazione; quelle città rappresentavano l’approdo finale del mio viaggio.
 
-Dopo essermi riposato al fresco della notte, seguii il sentiero che si inoltrava nella foresta per tutto il pomeriggio. Gli alberi si estendevano fitti e maestosi; i muschi che li ricoprivano erano densi e silenziosi. In questa ultima zona delle [[Mountains|montagne]], l’altezza e la freschezza dell’ambiente ricreavano l’atmosfera del nord. Un carbonaio stava preparando il suo forno; dopo di ciò, per le ultime miglia non si udì più alcun suono. Anche il fondo della valle era coperto d’erba; nessun torrente scorreva lì, ma solo un piccolo ruscello nascosto, rigoglioso come i corsi d’acqua delle nostre campagne.
+Dopo essermi riposato al fresco della notte, seguii il sentiero che si inoltrava nella foresta per tutto il pomeriggio. Gli alberi si estendevano fitti e maestosi; i muschi che li ricoprivano erano densi e silenziosi. In questa ultima zona delle [[settings/mountains|montagne]], l’altezza e la freschezza dell’ambiente ricreavano l’atmosfera del nord. Un carbonaio stava preparando il suo forno; dopo di ciò, per le ultime miglia non si udì più alcun suono. Anche il fondo della valle era coperto d’erba; nessun torrente scorreva lì, ma solo un piccolo ruscello nascosto, rigoglioso come i corsi d’acqua delle nostre campagne.
 
 Finalmente, la ripida riva, una sorta di muro alla fine della valle, si alzò improvvisamente davanti a me. Era molto scoscesa e priva di alberi, desolata a causa dei numerosi tronchi tagliati; ma tutto il suo bordo, contro il cielo, formava il confine di una fitta foresta.
 
@@ -12335,7 +12335,7 @@ OF SECULAR CHESTNUTS stood like graves above the dry steep, and had marked my la
 
 Nor was this tenanted wood all the welcome I received on my entry into Tuscany. Already I heard the noise of falling waters upon every side, where the Serchio sprang from twenty sources on the southern slope, and leapt down between mosses, and quarrelled, and overcame great smooth dark rocks in busy falls. Indeed, it was like my own country in the north, and a man might say to himself— ‘After so much journeying, perhaps I am in the Enchanted Wood, and may find at last the fairy Melisaunde.’
 
-A glade opened, and, the trees no longer hiding it, I looked down the vale, which was the gate of Tuscany. There — high, jagged, rapt into the sky — stood such a group of [[Mountains|mountains]] as men dream of in good dreams, or see in the works of painters when old age permits them revelations. Their height was evident from the faint mist and grey of their hues; their outline was tumultuous, yet balanced; full of accident and poise. It was as though these high walls of Carrara, the western boundary of the valley, had been shaped expressly for man, in order to exalt him with unexpected and fantastic shapes, and to expand his dull life with a permanent surprise. For a long time I gazed at these great hills.
+A glade opened, and, the trees no longer hiding it, I looked down the vale, which was the gate of Tuscany. There — high, jagged, rapt into the sky — stood such a group of [[settings/mountains|mountains]] as men dream of in good dreams, or see in the works of painters when old age permits them revelations. Their height was evident from the faint mist and grey of their hues; their outline was tumultuous, yet balanced; full of accident and poise. It was as though these high walls of Carrara, the western boundary of the valley, had been shaped expressly for man, in order to exalt him with unexpected and fantastic shapes, and to expand his dull life with a permanent surprise. For a long time I gazed at these great hills.
 
 Then, more silent in the mind through their influence, I went down past the speech and companionship of the springs of the Serchio, and the chestnut trees were redolent of evening all round. Down the bank to where the streams met in one, down the river, across its gaping, ruinous bridge (which some one, generations ago, had built for the rare travellers — there were then no main roads across the Apennine, and perhaps this rude pass was in favour); down
 
@@ -12350,7 +12350,7 @@ I ginepri secolari si ergevano come tombe sopra il ripido terreno arido, segnand
 
 Nemmeno questo bosco ospitale fu l’accoglienza che ricevetti al mio arrivo in Toscana. Già allora sentivo il rumore delle acque che cadevano da tutte le parti: il Serchio sgorgava da venti sorgenti sul versante meridionale, scorreva tra i muschi, superava grandi rocce lisce e scure con impetuosi getti d’acqua. In effetti, assomigliava molto al mio paese natale nel nord. Si poteva pensare: “Dopo tanti viaggi, forse sono finalmente arrivato nel Bosco Incantato. E forse troverò la fata Melisaunde.”
 
-Si aprì una radura; e, ora che gli alberi non la nascondevano più, guardai verso il basso lungo la valle, che era l’ingresso della Toscana. Lì – alte, frastagliate, che si innalzavano verso il cielo – si ergeva un gruppo di [[Mountains|montagne]] come quelli di cui gli uomini sognano nei loro sogni più belli, o che vedono nelle opere dei pittori quando l’età avanzata permette loro di ricevere tali rivelazioni. La loro altezza era evidente nella nebbia leggera e nel colore grigio delle loro cime; i loro contorni erano tumultuosi, ma al tempo stesso equilibrati; pieni di forme imprevedibili e di armonia. Sembrava che queste alte montagne, che costituivano il confine occidentale della valle, fossero state create apposta per l’uomo, per esaltarlo con forme straordinarie e fantastiche, e per arricchire la sua vita monotona con sorprese permanenti. Per molto tempo rimasi a fissare queste grandi colline.
+Si aprì una radura; e, ora che gli alberi non la nascondevano più, guardai verso il basso lungo la valle, che era l’ingresso della Toscana. Lì – alte, frastagliate, che si innalzavano verso il cielo – si ergeva un gruppo di [[settings/mountains|montagne]] come quelli di cui gli uomini sognano nei loro sogni più belli, o che vedono nelle opere dei pittori quando l’età avanzata permette loro di ricevere tali rivelazioni. La loro altezza era evidente nella nebbia leggera e nel colore grigio delle loro cime; i loro contorni erano tumultuosi, ma al tempo stesso equilibrati; pieni di forme imprevedibili e di armonia. Sembrava che queste alte montagne, che costituivano il confine occidentale della valle, fossero state create apposta per l’uomo, per esaltarlo con forme straordinarie e fantastiche, e per arricchire la sua vita monotona con sorprese permanenti. Per molto tempo rimasi a fissare queste grandi colline.
 
 Poi, più silenzioso nella mia mente a causa del loro influsso, scesi lungo le sorgenti del Serchio, dove il canto degli uccelli e la compagnia delle acque creavano un’atmosfera serena; i castagni intorno erano impregnati dell’aroma della sera. Lungo la riva, fino al punto in cui i ruscelli si univano in uno solo, poi lungo il fiume, attraverso quel ponte distrutto e aperto (che qualcuno, generazioni fa, aveva costruito per i rari viaggiatori, all’epoca non esistevano strade principali che attraversassero gli Appennini, e forse proprio questo sentiero poco battuto era più praticabile); giù, sempre più in basso.
 
@@ -12377,7 +12377,7 @@ Then, to make conversation, I said, ‘Diaconus es?’
 
 And he answered me, mildly and gravely, ‘Presbyter sum.’
 
-And a little while after he left for his house, but I went out on to the balcony, where men and women were talking in subdued tones. There, alone, I sat and watched the night coming up into these Tuscan hills. The first moon since that waning in Lorraine — (how many nights ago, how many marches!) — hung in the sky, a full crescent, growing into brightness and glory as she assumed her reign. The one star of the west called out his silent companions in their order; the [[Mountains|mountains]] merged into a fainter confusion; heaven and the infinite air became the natural seat of any spirit that watched this spell. The fire-flies darted in the depths of vineyards and of trees below; then the noise of the grasshoppers brought back suddenly the gardens of home, and whatever benediction surrounds our childhood. Some promise of eternal pleasures and of rest deserved haunted the village of Sillano.
+And a little while after he left for his house, but I went out on to the balcony, where men and women were talking in subdued tones. There, alone, I sat and watched the night coming up into these Tuscan hills. The first moon since that waning in Lorraine — (how many nights ago, how many marches!) — hung in the sky, a full crescent, growing into brightness and glory as she assumed her reign. The one star of the west called out his silent companions in their order; the [[settings/mountains|mountains]] merged into a fainter confusion; heaven and the infinite air became the natural seat of any spirit that watched this spell. The fire-flies darted in the depths of vineyards and of trees below; then the noise of the grasshoppers brought back suddenly the gardens of home, and whatever benediction surrounds our childhood. Some promise of eternal pleasures and of rest deserved haunted the village of Sillano.
 
 In very early youth the soul can still remember its immortal habitation, and clouds and the edges of hills are of another kind from ours, and every scent and colour has a savour of Paradise. What that quality may be no language can tell, nor have men made any words, no, nor any music, to recall it — only in a transient way and elusive the recollection of what youth was, and purity, flashes
 
@@ -12402,7 +12402,7 @@ Poi mi disse qualcosa che non capii, e io risposi: “Pol-Hercle!”, e sembrò 
 
 “E mi rispose, con dolcezza e serietà: ‘Sono un presbitero’.”
 
-E poco dopo che se ne era andato a casa sua, io uscii sul balcone, dove uomini e donne parlavano a voce bassa. Lì, da sola, sedetti ad osservare la notte che calava su queste colline toscane. La prima luna da quando aveva iniziato a diminuire in Lorena, (quante notti fa, quante marce, ) pendeva nel cielo, una falce piena, diventando sempre più luminosa e maestosa mentre assumeva il suo dominio. Quella stella dell’ovest chiamava i suoi silenziosi compagni nell’ordine prestabilito; le [[Mountains|montagne]] si confondevano in un bagliore più tenue; il cielo e l’infinito spazio diventavano il luogo naturale per qualsiasi spirito che ammirasse questa magia. Le lucciole sfrecciavano nelle profondità dei vigneti e degli alberi sottostanti; poi il rumore delle cavallette riportava improvvisamente alla mente i giardini di casa, e tutte le benedizioni che circondano la nostra infanzia. Qualche promessa di piaceri eterni e di riposo aleggiava su quel villaggio chiamato Sillano.
+E poco dopo che se ne era andato a casa sua, io uscii sul balcone, dove uomini e donne parlavano a voce bassa. Lì, da sola, sedetti ad osservare la notte che calava su queste colline toscane. La prima luna da quando aveva iniziato a diminuire in Lorena, (quante notti fa, quante marce, ) pendeva nel cielo, una falce piena, diventando sempre più luminosa e maestosa mentre assumeva il suo dominio. Quella stella dell’ovest chiamava i suoi silenziosi compagni nell’ordine prestabilito; le [[settings/mountains|montagne]] si confondevano in un bagliore più tenue; il cielo e l’infinito spazio diventavano il luogo naturale per qualsiasi spirito che ammirasse questa magia. Le lucciole sfrecciavano nelle profondità dei vigneti e degli alberi sottostanti; poi il rumore delle cavallette riportava improvvisamente alla mente i giardini di casa, e tutte le benedizioni che circondano la nostra infanzia. Qualche promessa di piaceri eterni e di riposo aleggiava su quel villaggio chiamato Sillano.
 
 Fin nella più tenera giovinezza, l’anima può ancora ricordare la sua dimora immortale; le nuvole e i margini delle colline sono di un altro genere rispetto ai nostri, e ogni profumo e colore ha il sapore del Paradiso. Quale sia esattamente questa qualità, nessuna lingua può descriverla; gli uomini non hanno creato parole, né musica, per ricordarla. Solo in modo fugace ed elusivo possiamo rievocare ciò che la giovinezza e la purezza significavano un tempo.
 
@@ -12419,11 +12419,11 @@ ON US IN phrases of the poets, and is gone before we can fix it in our minds —
 
 This, then, was the blessing of Sillano, and here was perhaps the highest moment of those seven hundred miles — or more. Do not therefore be astonished, reader, if I now press on much more hurriedly to Rome, for the goal is almost between my hands, and the chief moment has been enjoyed, until I shall see the City.
 
-Now I cry out and deplore me that this next sixty miles of way, but especially the heat of the days and the dank mists of the night, should have to be told as of a real [[Journey|journey]] in this very repetitive and sui-similar world. How much rather I wish that being free from mundane and wide-awake (that is to say from perilously dusty) considerations and droughty boredoms, I might wander forth at leisure through the air and visit the regions where everything is as the soul chooses: to be dropped at last in the ancient and famous town of Siena, whence comes that kind of common brown paint wherewith men, however wicked, can produce (if they have but the art) very surprising effects of depth in painting: for so I read of it in a book by a fool, at six shillings, and even that was part of a series: but if you wish to know anything further of the matter, go you and read it, for I will do nothing of the kind.
+Now I cry out and deplore me that this next sixty miles of way, but especially the heat of the days and the dank mists of the night, should have to be told as of a real [[motifs/journey|journey]] in this very repetitive and sui-similar world. How much rather I wish that being free from mundane and wide-awake (that is to say from perilously dusty) considerations and droughty boredoms, I might wander forth at leisure through the air and visit the regions where everything is as the soul chooses: to be dropped at last in the ancient and famous town of Siena, whence comes that kind of common brown paint wherewith men, however wicked, can produce (if they have but the art) very surprising effects of depth in painting: for so I read of it in a book by a fool, at six shillings, and even that was part of a series: but if you wish to know anything further of the matter, go you and read it, for I will do nothing of the kind.
 
 Oh to be free for strange voyages even for a little while! I am tired of the road; and so are you, and small blame to you. Your fathers also tired of the treadmill, and mine of the conquering marches of the Republic. Heaven bless you all!
 
-But I say that if it were not for the incredulity and doubt and agnostico-schismatical hesitation, and very cumbersome air of questioning-and-peering-about, which is the bane of our moderns, very certainly I should now go on to tell of giants as big as cedars, living in [[Mountains|mountains]] of precious stones, and drawn to battle by dragons in cars of gold; or of towns where the customs of men were remote and unexpected; of countries not yet visited, and of the gods returning. For though it is permissible, and a pleasant thing (as Bacon says), to mix a little falsehood with one’s truth (so St Louis mixed water with his wine, and so does Sir John Growl mix vinegar with his, unless I am greatly mistaken, for if not,
+But I say that if it were not for the incredulity and doubt and agnostico-schismatical hesitation, and very cumbersome air of questioning-and-peering-about, which is the bane of our moderns, very certainly I should now go on to tell of giants as big as cedars, living in [[settings/mountains|mountains]] of precious stones, and drawn to battle by dragons in cars of gold; or of towns where the customs of men were remote and unexpected; of countries not yet visited, and of the gods returning. For though it is permissible, and a pleasant thing (as Bacon says), to mix a little falsehood with one’s truth (so St Louis mixed water with his wine, and so does Sir John Growl mix vinegar with his, unless I am greatly mistaken, for if not,
 
 * * *
 
@@ -12436,7 +12436,7 @@ Nelle frasi dei poeti, tutto ciò che riguarda il “Noi” scompare prima ancor
 
 Questa, dunque, era la benedizione di Sillano; forse questo fu il momento più importante di quei settecento miglia, o forse di molto di più. Non meravigliarti quindi, lettore, se ora procederò ancora più rapidamente verso Roma: l’obiettivo è ormai quasi a portata di mano, e il momento più importante è già stato vissuto, fino a quando non vedrò finalmente la Città.
 
-Ora grido e mi lamento del fatto che questi prossimi sessanta miglia di viaggio, soprattutto il calore dei giorni e la umidità delle notti, debbano essere descritti come parte di un vero [[Journey|Viaggio]] in questo mondo così ripetitivo e simile a se stesso. Quanto vorrei invece poter vagare liberamente, lontano da considerazioni banali e noiose, attraverso l’aria e visitare luoghi dove tutto possa essere come lo desidera l’anima. Per esempio, atterrare finalmente nella antica e famosa città di Siena, da cui proviene quella vernice marrone comune con la quale, anche i più malvagi, possono ottenere effetti sorprendenti di profondità nelle loro opere d’arte. Ne ho letto in un libro scritto da uno sciocco, al prezzo di sei scellini; anzi, quel libro faceva parte di una serie. Ma se volete saperne di più, andate pure a leggerlo voi stessi. Io non ne farò nulla.
+Ora grido e mi lamento del fatto che questi prossimi sessanta miglia di viaggio, soprattutto il calore dei giorni e la umidità delle notti, debbano essere descritti come parte di un vero [[motifs/journey|Viaggio]] in questo mondo così ripetitivo e simile a se stesso. Quanto vorrei invece poter vagare liberamente, lontano da considerazioni banali e noiose, attraverso l’aria e visitare luoghi dove tutto possa essere come lo desidera l’anima. Per esempio, atterrare finalmente nella antica e famosa città di Siena, da cui proviene quella vernice marrone comune con la quale, anche i più malvagi, possono ottenere effetti sorprendenti di profondità nelle loro opere d’arte. Ne ho letto in un libro scritto da uno sciocco, al prezzo di sei scellini; anzi, quel libro faceva parte di una serie. Ma se volete saperne di più, andate pure a leggerlo voi stessi. Io non ne farò nulla.
 
 Oh, poter essere liberi per strani viaggi, anche solo per un breve momento. Sono stanco di questo cammino; lo sei anche tu, e non ti si può biasimare. Anche i vostri padri erano stanchi delle solite routine quotidiane, così come i miei dei lunghi viaggi militari della Repubblica. Che il cielo vi benedica tutti!
 
@@ -12453,7 +12453,7 @@ THE GARFAGNANA
 
 HOW DOES HE give it that taste at his dinners? eh? There, I think, is a question that would puzzle him!) yet is it much more delectable, and far worthier of the immortal spirit of man to soar into the empyrean of pure lying — that is, to lay the bridle on the neck of Pegasus and let him go forward, while in the saddle meanwhile one sits well back, grips with the knee, takes the race, and on the energy of that steed visits the wheeling stars.
 
-This much, then, is worth telling of the valley of the Serchio, that it is narrow, garrulous with water brawling, wooded densely, and contained by fantastic [[Mountains|mountains]]. That it has a splendid name, like the clashing of cymbals — Garfagnana; that it leads to the Tuscan plain, and that it is over a day’s march long. Also, it is an oven.
+This much, then, is worth telling of the valley of the Serchio, that it is narrow, garrulous with water brawling, wooded densely, and contained by fantastic [[settings/mountains|mountains]]. That it has a splendid name, like the clashing of cymbals — Garfagnana; that it leads to the Tuscan plain, and that it is over a day’s march long. Also, it is an oven.
 
 Never since the early liars first cooked eggs in the sand was there such heat, and it was made hotter by the consciousness of folly, than which there is no more heating thing; for I think that not old Championnet himself, with his Division of Iron, that fought one to three and crushed the aged enormities of the oppressors as we would crush an empty egg, and that found the summer a good time for fighting in Naples, I say that he himself would not have marched men up the Garfagnana in such a sun. Folly planned it, Pride held to it, and the devils lent their climate. Garfagnana! Garfagnana! to have such a pleasant name, and to be what you are!
 
@@ -12464,11 +12464,11 @@ Not that there were not old towers on the steep woods of the Apennine, nor glimp
 
 <span class="qlang-split" data-lang="it"></span>
 
-# La Garfagnana
+La Garfagnana
 
 COME fa a conferire ai suoi pasti quel sapore particolare? Eh. Credo che questa sia una domanda che lo lascerebbe perplesso! Eppure, non è forse molto più delizioso, e assai più degno dello spirito immortale dell’uomo, innalzarsi verso l’empireo della pura menzogna. Cioè, imporre le redini al collo di Pegaso e lasciarlo correre, mentre si siede comodamente in sella, lo si guida con le ginocchia, si partecipa alla “gara”, e, grazie all’energia di quel cavallo, si visitano le stelle che ruotano nel cielo.
 
-Quanto basta, dunque, per descrivere la valle del Serchio: è stretta, piena di rumori prodotti dall’acqua che scorre impetuosamente, densamente boscosa e circondata da fantastiche [[Mountains|montagne]]. Ha un nome splendido, simile al suono dei cimbali: Garfagnana; conduce alla pianura toscana ed è lunga più di un giorno di cammino. Inoltre, è davvero come un forno.
+Quanto basta, dunque, per descrivere la valle del Serchio: è stretta, piena di rumori prodotti dall’acqua che scorre impetuosamente, densamente boscosa e circondata da fantastiche [[settings/mountains|montagne]]. Ha un nome splendido, simile al suono dei cimbali: Garfagnana; conduce alla pianura toscana ed è lunga più di un giorno di cammino. Inoltre, è davvero come un forno.
 
 Da quando i primi bugiardi iniziarono a cuocere le uova nella sabbia, non c'era mai stata una calura del genere; e quella calura fu ancora più intensa a causa della consapevolezza dell’assurdità di ciò che stavano facendo. Non credo nemmeno che il vecchio Championnet in persona, con la sua “Divisione di Ferro” che sconfisse i nemici tre contro uno e distrusse quelle mostruose strutture create dagli oppressori come se fossero semplici uova vuote, e che considerava l’estate il periodo migliore per combattere a Napoli, nemmeno lui avrebbe condotto le truppe nella Garfagnana con un sole così cocente. Fu la follia a pianificare tutto questo, l’orgoglio ad insistere nel farlo, e i diavoli fornirono loro il clima adatto. Garfagnana! Garfagnana, avere un nome così piacevole, eppure essere ciò che sei.
 
@@ -12496,7 +12496,7 @@ I cared not a fig for the thousand things I had been told to expect in Tuscany; 
 
 <span class="qlang-split" data-lang="it"></span>
 
-#I ponti di Castel-Nuovo
+I ponti di Castel-Nuovo
 
 Sotto l’assalto di un sole insopportabile, verso metà pomeriggio, giunsero in un luogo chiamato Castel-Nuovo: la prima città, poiché Campogiamo difficilmente può essere considerata una città.
 
@@ -12517,7 +12517,7 @@ THE BRIDGE-GOD
 
 HERE WAS A horrible little place on a torrent bank. One bridge was reasonable for by it went the road leading south to Lucca and to Rome; it was common honour to let men escape. But as I sat on that main bridge I counted seven others; indeed there must have been a worship of a bridge-god some time or other to account for such a necklace of bridges in such a neglected borough.
 
-You may say (I am off hard on the road to Borgo, drooping with the heat, but still going strongly), you may say that is explicable enough. First a thing is useful, you say, then it has to become routine; then the habit, being a habit, gets a sacred idea attached to it. So with bridges: e.g. Pontifex; Dervorguilla, our Ballici saint that built a bridge; the devil that will hinder the building of bridges; cf. the Porphyry Bridge in the Malay cosmogony; Amershickel, Brùckengebildung im kult-Historischer. Passenmayer; Durât, Le pont antique, étude sur les origines Toscanes; Mr Dacre’s The Command of Bridges in Warfare; Bridges and Empire, by Captain Hole, U.S.A. You may say all this; I shall not reply. If the heat has hindered me from saying a word of the fine open valley on the left, of the little railway and of the last of the hills, do you suppose it will permit me to discuss the sanctity of bridges? If it did, I think there is a little question on ‘why should habit turn sacred?’ which would somewhat confound and pose you, and pose also, for that matter, every pedant that ever went blind and crook-backed over books, or took ivory for horn. And there is an end of it. Argue it with whom you will. It is evening, and I am at Borgo (for if many towns are called Castel-Nuovo so are many called Borgo in [[Italy]]), and I desire to be free of interruption while I eat and sleep and reflect upon the error of that march in that heat, spoiling nearly thirty miles of road, losing so many great and pleasurable emotions, all for haste and from a neglect of the Italian night.
+You may say (I am off hard on the road to Borgo, drooping with the heat, but still going strongly), you may say that is explicable enough. First a thing is useful, you say, then it has to become routine; then the habit, being a habit, gets a sacred idea attached to it. So with bridges: e.g. Pontifex; Dervorguilla, our Ballici saint that built a bridge; the devil that will hinder the building of bridges; cf. the Porphyry Bridge in the Malay cosmogony; Amershickel, Brùckengebildung im kult-Historischer. Passenmayer; Durât, Le pont antique, étude sur les origines Toscanes; Mr Dacre’s The Command of Bridges in Warfare; Bridges and Empire, by Captain Hole, U.S.A. You may say all this; I shall not reply. If the heat has hindered me from saying a word of the fine open valley on the left, of the little railway and of the last of the hills, do you suppose it will permit me to discuss the sanctity of bridges? If it did, I think there is a little question on ‘why should habit turn sacred?’ which would somewhat confound and pose you, and pose also, for that matter, every pedant that ever went blind and crook-backed over books, or took ivory for horn. And there is an end of it. Argue it with whom you will. It is evening, and I am at Borgo (for if many towns are called Castel-Nuovo so are many called Borgo in [[settings/italy|Italy]]), and I desire to be free of interruption while I eat and sleep and reflect upon the error of that march in that heat, spoiling nearly thirty miles of road, losing so many great and pleasurable emotions, all for haste and from a neglect of the Italian night.
 
 And as I ate, and before I slept, I thought of that annotated Guide Book which is cried out for by all Europe, and which shall tell blunt truths. Look you out ‘Garfagnana, district of, Valley of Serchio’ in the index. You will be referred to . Turn to . You will find there the phrase -
 
@@ -12552,7 +12552,7 @@ And I will tell you something more. I will tell you something no one has yet hea
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Il dio del ponte
+Il dio del ponte
 
 C'era un posto terribile, situato sulla riva di un torrente. C'era un ponte abbastanza decente: lungo di esso passava la strada che conduceva a sud, verso Lucca e Roma; era prassi comune permettere alle persone di fuggire. Ma mentre sedevo su quel ponte principale ne contai altri sette. Davvero, in passato doveva esserci stata una sorta di culto dedicato a un “dio dei ponti”, per spiegare l’esistenza di così tanti ponti in quella zona trascurata.
 
@@ -12619,7 +12619,7 @@ the Roman road.’ Heaven help these scientists! Did you suppose that I thought 
 
 LECTOR. I am indifferent.
 
-AUCTOR. I will tell you. Up in the tangle of the Carrara [[Mountains|mountains]], overhanging the Garfagnana, was a wild tribe, whose name I forget (unless it were the Bruttii), but which troubled the Romans not a little, defeating them horribly, and keeping the legionaries in some anxiety for years. So when the soldiers marched out north from Luca about six miles, they could halt and smile at each other, and say ‘At Sextant... that’s all right. All safe so far!’ and therefore only a little village grew up at this little rest and emotion. But as they got nearer the gates of the hills they began to be visibly perturbed, and they would say: ‘The eighth mile! cheer up!’ Then ‘The ninth mile! Sanctissima Madonna! Have you seen anything moving on the heights?’ But when they got to the tenth milestone, which stands before the very jaws of the defile, then indeed they said with terrible emphasis, ‘Ad Decimam!’ And there was no restraining them: they would camp and entrench, or die in the venture: for they were Romans and stern fellows, and loved a good square camp and a ditch, and sentries and a clear moon, and plenty of sharp stakes, and all the panoply of war. That is the origin of Decimo.
+AUCTOR. I will tell you. Up in the tangle of the Carrara [[settings/mountains|mountains]], overhanging the Garfagnana, was a wild tribe, whose name I forget (unless it were the Bruttii), but which troubled the Romans not a little, defeating them horribly, and keeping the legionaries in some anxiety for years. So when the soldiers marched out north from Luca about six miles, they could halt and smile at each other, and say ‘At Sextant... that’s all right. All safe so far!’ and therefore only a little village grew up at this little rest and emotion. But as they got nearer the gates of the hills they began to be visibly perturbed, and they would say: ‘The eighth mile! cheer up!’ Then ‘The ninth mile! Sanctissima Madonna! Have you seen anything moving on the heights?’ But when they got to the tenth milestone, which stands before the very jaws of the defile, then indeed they said with terrible emphasis, ‘Ad Decimam!’ And there was no restraining them: they would camp and entrench, or die in the venture: for they were Romans and stern fellows, and loved a good square camp and a ditch, and sentries and a clear moon, and plenty of sharp stakes, and all the panoply of war. That is the origin of Decimo.
 
 For all my early start, the intolerable heat had again taken the ascendant before I had fairly entered the plain. Then, it being yet but morning, I entered from the north the town of Lucca, which is the neatest, the regularest, the exactest, the most fly-in-amber little town in the world, with its uncrowded streets, its absurd fortifications, and its contented silent houses — all like a family at ease and at rest under its high sun. It is as sharp and trim as its own map, and that map is as clear as a geometrical problem. Everything in Lucca is good.
 
@@ -12825,7 +12825,7 @@ LECTOR. Why?
 
 AUCTOR. They will make what follows seem less abrupt.
 
-Once there was a man dining by himself at the Cafe Anglais, in the days when people went there. It was a full night, and he sat alone at a small table, when there entered a very big man in a large fur coat. The big man looked round annoyed, because there was no room, and the first man very courteously offered him a seat at his little table. They sat down and ate and talked of several things; among others, of Bureaucracy. The first maintained that Bureaucracy was the curse of [[France]].
+Once there was a man dining by himself at the Cafe Anglais, in the days when people went there. It was a full night, and he sat alone at a small table, when there entered a very big man in a large fur coat. The big man looked round annoyed, because there was no room, and the first man very courteously offered him a seat at his little table. They sat down and ate and talked of several things; among others, of Bureaucracy. The first maintained that Bureaucracy was the curse of [[settings/france|France]].
 
 ‘Men are governed by it like sheep. The administrator, however humble, is a despot; most people will even run forward to meet him halfway, like the servile dogs they are,’ said he.
 
@@ -12838,7 +12838,7 @@ At this moment there came in a tall, rather stiff Englishman. He also was put ou
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Una referenza
+Una referenza
 
 Dopotutto, il mio interesse non riguarda le città; ho già visto, da lontano, quella grande collina dalla quale si possono osservare tutte le altre colline che sovrastano Roma.
 
@@ -12854,7 +12854,7 @@ LETTORE: Perché?
 
 AUTORE: Faranno sì che ciò che segue appaia meno improvviso.
 
-C'era una volta un uomo che pranzava da solo al Cafe Anglais, in quei tempi in cui la gente ci andava spesso. Era una serata affollata; l'uomo sedeva da solo a un piccolo tavolo quando entrò un uomo molto alto, avvolto in un grande cappotto di pelliccia. L’uomo alto guardò intorno con aria infastidita, perché non c’era abbastanza spazio; allora il primo uomo gli offrì gentilmente di sedersi al suo tavolo. Si misero a mangiare e parlarono di varie cose, tra cui della burocrazia. Il primo uomo sosteneva che la burocrazia fosse la maledizione della [[France|Francia]].
+C'era una volta un uomo che pranzava da solo al Cafe Anglais, in quei tempi in cui la gente ci andava spesso. Era una serata affollata; l'uomo sedeva da solo a un piccolo tavolo quando entrò un uomo molto alto, avvolto in un grande cappotto di pelliccia. L’uomo alto guardò intorno con aria infastidita, perché non c’era abbastanza spazio; allora il primo uomo gli offrì gentilmente di sedersi al suo tavolo. Si misero a mangiare e parlarono di varie cose, tra cui della burocrazia. Il primo uomo sosteneva che la burocrazia fosse la maledizione della [[settings/france|Francia]].
 
 “Gli uomini vengono governati da esso come pecore. L’amministratore, per umile che sia, è un despota; la maggior parte delle persone andrà addirittura incontro a lui a metà strada, proprio come quei cani servili che sono,” disse.
 
@@ -12969,9 +12969,9 @@ ST AUGUSTINE CENSURED
 
 In this way I have got over between twenty and thirty miles of road which were tramped in the dark, and the description of which would have plagued you worse than a swarm of hornets.
 
-Oh, blessed interlude! no struggling moon, no mist, no long-winded passages upon the genial earth, no the sense of the night, no marvels of the [[Dawn|dawn]], no rhodomontade, no religion, no rhetoric, no sleeping villages, no silent towns (there was one), no rustle of trees — just a short story, and there you have a whole march covered as though a brigade had swung down it. A new day has come, and the sun has risen over the detestable parched hillocks of this downward way.
+Oh, blessed interlude! no struggling moon, no mist, no long-winded passages upon the genial earth, no the sense of the night, no marvels of the [[motifs/dawn|dawn]], no rhodomontade, no religion, no rhetoric, no sleeping villages, no silent towns (there was one), no rustle of trees — just a short story, and there you have a whole march covered as though a brigade had swung down it. A new day has come, and the sun has risen over the detestable parched hillocks of this downward way.
 
-No, no, Lector! Do not blame me that Tuscany should have passed beneath me unnoticed, as the monotonous sea passes beneath a boat in full sail. Blame all those days of marching; hundreds upon hundreds of miles that exhausted the powers of the mind. Blame the fiery and angry sky of Etruria, that compelled most of my way to be taken at night. Blame St Augustine, who misled me in his Confessions by talking like an African of ‘the icy shores of [[Italy]]’; or blame Rome, that now more and more drew me to Herself as She approached from six to five, from five to four, from four to three — now She was but three days off. The third sun after that I now saw rising would shine upon the City.
+No, no, Lector! Do not blame me that Tuscany should have passed beneath me unnoticed, as the monotonous sea passes beneath a boat in full sail. Blame all those days of marching; hundreds upon hundreds of miles that exhausted the powers of the mind. Blame the fiery and angry sky of Etruria, that compelled most of my way to be taken at night. Blame St Augustine, who misled me in his Confessions by talking like an African of ‘the icy shores of [[settings/italy|Italy]]’; or blame Rome, that now more and more drew me to Herself as She approached from six to five, from five to four, from four to three — now She was but three days off. The third sun after that I now saw rising would shine upon the City.
 
 I did indeed go forward a little in the heat, but it was useless. After an hour I abandoned it. It was not so much the sun, though that was intemperate and deadly; it was rather the inhuman aspect of the earth which made me despair. It was as though the soil had been left imperfect and rough after some cataclysm; it reminded me of those bad lands in the west of America, where the desert has no form, and where the crumbling and ashy look of things is more abhorrent than their mere desolation. As soon march through evil dreams!
 
@@ -12984,13 +12984,13 @@ How far I had gone I could not tell, nor precisely how much farther San Quirico,
 
 <span class="qlang-split" data-lang="it"></span>
 
-# ST AGOSTINO DENUNCIATO
+ST AGOSTINO DENUNCIATO
 
 In questo modo sono riuscito a percorrere tra venti e trenta miglia di strada calpestata al buio; descriverla vi causerebbe problemi ancora maggiori di quelli provocati da un nugolo di vespe.
 
-Oh, beato interludio! Nessuna luna che lampeggia nel buio, nessuna nebbia, nessun discorso lungo e noioso sulla terra gentile, nessuna sensazione di notte, nessuni meravigli dell’[[Dawn|'alba]], nessuna retorica, nessuna religione, nessun villaggio addormentato, nessuna città silenziosa (ce n’era una), nessun fruscio degli alberi. Solo una breve storia. E con essa si descrive l’intero percorso di una marcia, come se un intero reggimento lo avesse attraversato. È arrivata una nuova giornata: il sole sorge sopra quelle odiosse colline aride e desolate.
+Oh, beato interludio! Nessuna luna che lampeggia nel buio, nessuna nebbia, nessun discorso lungo e noioso sulla terra gentile, nessuna sensazione di notte, nessuni meravigli dell’[[motifs/dawn|'alba]], nessuna retorica, nessuna religione, nessun villaggio addormentato, nessuna città silenziosa (ce n’era una), nessun fruscio degli alberi. Solo una breve storia. E con essa si descrive l’intero percorso di una marcia, come se un intero reggimento lo avesse attraversato. È arrivata una nuova giornata: il sole sorge sopra quelle odiosse colline aride e desolate.
 
-No, no, Lettore! Non incolpare me se la Toscana è passata inosservata sotto di me, proprio come il monotono mare scorre sotto una barca a vela spiegata. Incolpa quei giorni interminabili di marcia; centinaia e centinaia di miglia che hanno esaurito le forze della mia mente. Incolpa il cielo ardente e tempestoso dell’Etruria, che ha costretto me a percorrere la maggior parte del cammino di notte. Incolpa Sant’Agostino, che nelle sue Confessioni mi ha ingannato parlando delle “gelide rive dell’[[Italy|Italia]]” come se si trattasse di un luogo africano; o incolpa Roma, che sempre di più mi attirava a sé, man mano che si avvicinava. Ora era distante soltanto tre giorni. Il terzo sole dopo quello che avevo visto sorgere avrebbe illuminato la Città.
+No, no, Lettore! Non incolpare me se la Toscana è passata inosservata sotto di me, proprio come il monotono mare scorre sotto una barca a vela spiegata. Incolpa quei giorni interminabili di marcia; centinaia e centinaia di miglia che hanno esaurito le forze della mia mente. Incolpa il cielo ardente e tempestoso dell’Etruria, che ha costretto me a percorrere la maggior parte del cammino di notte. Incolpa Sant’Agostino, che nelle sue Confessioni mi ha ingannato parlando delle “gelide rive dell’[[settings/italy|Italia]]” come se si trattasse di un luogo africano; o incolpa Roma, che sempre di più mi attirava a sé, man mano che si avvicinava. Ora era distante soltanto tre giorni. Il terzo sole dopo quello che avevo visto sorgere avrebbe illuminato la Città.
 
 Effettivamente mi sono spinto un po’ avanti sotto il calore del sole, ma è stato inutile. Dopo un’ora ho desistito. Non era tanto il sole, anche se era intenso e pericoloso; piuttosto l’aspetto disumano della terra che mi ha fatto perdere la speranza. Era come se il suolo fosse rimasto imperfetto e ruvido dopo qualche cataclisma; mi ricordava quelle terre desolate nell’ovest dell’America, dove il deserto non ha alcuna forma concreta, e dove l’aspetto in rovina e cenere delle cose è ancora più orribile della loro stessa desolazione. Che si possa presto uscire da questi incubi!
 
@@ -13015,7 +13015,7 @@ Even the goodness of the Italian nature seemed parched up in those dry hollows. 
 
 Soon the walls of San Quirico, partly ruinous, stood above the fields (for the smallest places here have walls); as I entered its gate the sun set, and as though
 
-the cool, coming suddenly, had a magic in it, everything turned kinder. A church that could wake interest stood at the entry of the town; it had stone lions on its steps, and the pillars were so carved as to resemble knotted ropes. There for the first time I saw in procession one of those confraternities which in [[Italy]] bury the dead; they had long and dreadful hoods over their heads, with slits for the eyes. I spoke to the people of San Quirico, and they to me. They were upstanding, and very fine and noble in the lines of the face. On their walls is set a marble tablet, on which it is registered that the people of Tuscany, being asked whether they would have their hereditary Duke or the House of Savoy, voted for the latter by such and such a great majority; and this kind of tablet I afterwards found was common to all these small towns. Then passing down
+the cool, coming suddenly, had a magic in it, everything turned kinder. A church that could wake interest stood at the entry of the town; it had stone lions on its steps, and the pillars were so carved as to resemble knotted ropes. There for the first time I saw in procession one of those confraternities which in [[settings/italy|Italy]] bury the dead; they had long and dreadful hoods over their heads, with slits for the eyes. I spoke to the people of San Quirico, and they to me. They were upstanding, and very fine and noble in the lines of the face. On their walls is set a marble tablet, on which it is registered that the people of Tuscany, being asked whether they would have their hereditary Duke or the House of Savoy, voted for the latter by such and such a great majority; and this kind of tablet I afterwards found was common to all these small towns. Then passing down
 
 * * *
 
@@ -13032,7 +13032,7 @@ Anche la bontà della natura italiana sembrava essersi prosciugata in quelle ari
 
 Ben presto, le mura di San Quirico, in parte in rovina, si ergevano sopra i campi (poiché anche i luoghi più piccoli qui hanno mura); quando entrai nel suo cancello, il sole stava tramontando.
 
-La frescura, arrivata improvvisamente, aveva qualcosa di magico: tutto sembrava diventare più gentile. All’ingresso della città sorgeva una chiesa in grado di suscitare grande interesse; i suoi gradini erano adornati da leoni di pietra, e i pilastri erano scolpiti in modo da assomigliare a corde intrecciate. Lì vidi per la prima volta una di quelle confraternite che in [[Italy|Italia]] seppelliscono i morti: indossavano cappucci lunghi e spaventosi, con fessure solo per gli occhi. Parlai con la gente di San Quirico, e loro con me. Erano persone oneste e di bell’aspetto, dai tratti nobili del viso. Sulle loro pareti era posta una targa di marmo su cui era registrato che il popolo della Toscana, quando gli fu chiesto se preferisse il proprio Duca ereditario o la Casa di Savoya, scelse quest’ultima con una maggioranza schiacciante; scoprii in seguito che questo tipo di targa era comune in tutte queste piccole città. Poi proseguii lungo il cammino.
+La frescura, arrivata improvvisamente, aveva qualcosa di magico: tutto sembrava diventare più gentile. All’ingresso della città sorgeva una chiesa in grado di suscitare grande interesse; i suoi gradini erano adornati da leoni di pietra, e i pilastri erano scolpiti in modo da assomigliare a corde intrecciate. Lì vidi per la prima volta una di quelle confraternite che in [[settings/italy|Italia]] seppelliscono i morti: indossavano cappucci lunghi e spaventosi, con fessure solo per gli occhi. Parlai con la gente di San Quirico, e loro con me. Erano persone oneste e di bell’aspetto, dai tratti nobili del viso. Sulle loro pareti era posta una targa di marmo su cui era registrato che il popolo della Toscana, quando gli fu chiesto se preferisse il proprio Duca ereditario o la Casa di Savoya, scelse quest’ultima con una maggioranza schiacciante; scoprii in seguito che questo tipo di targa era comune in tutte queste piccole città. Poi proseguii lungo il cammino.
 
 * * *
 
@@ -13124,7 +13124,7 @@ Tibi cornuum cornuto Tibi clamo, te saluto Salve cornu cornuum! Fortunatam da Do
 
 <span class="qlang-split" data-lang="it"></span>
 
-# La canzone del corno
+La canzone del corno
 
 Indicando che forse avrei potuto dormirci dentro. La sua candela illuminava quegli enormi buoi silenziosi allineati in fila; i loro corna, tre volte più lunghe di quelle che conosciamo in Inghilterra, mi riempirono di meraviglia. Beh! (Che questo possa considerarsi un guadagno per me!), piuttosto che sembrare offensivo nei suoi confronti, mi sdraiai in quella mangiatoia, anche se non avevo alcun desiderio di dormire, proprio come il toporagno nelle tenebre del Sussex. Inoltre, fui attento a non offrirgli denaro, perché quello sarebbe stato un atto di brutalità. Dopo che se ne fu andato, ne approfittai per riposarmi un po’: mi sdraiai supino sul fieno, completamente sveglio, e fissai l’oscurità.
 
@@ -13136,7 +13136,7 @@ Pertanto, i miei amici che ne bevono dovrebbero sollevare il cuore e non essere 
 
 Salve, cornu cornuum! Vis Boûm dei cornutorum. Un dono eccellente da parte di Dio. Protezione e difesa per i gruppi. Il desiderio più grande. Salve tu, degno simbolo del potere romano! A te il titolo di cornu cornuto.
 
-# Lettore… Non significa nulla
+Lettore… Non significa nulla
 
 AUTORE: Stai zitto!
 
@@ -13153,7 +13153,7 @@ RADICOFANI
 
 AND AFTER THIS cogitation and musing I got up quietly, so as not to offend the peasant: and I crept out, and so upwards on to the crest of the hill.
 
-But when, after several miles of climbing, I neared the summit, it was already beginning to be light. The bareness and desert grey of the distance I had crossed stood revealed in a colourless [[Dawn|dawn]], only the Mont’ Amiata, now somewhat to the northward, was more gentle, and softened the scene with distant woods. Between it and this height ran a vague river-bed as dry as the stones of a salt beach.
+But when, after several miles of climbing, I neared the summit, it was already beginning to be light. The bareness and desert grey of the distance I had crossed stood revealed in a colourless [[motifs/dawn|dawn]], only the Mont’ Amiata, now somewhat to the northward, was more gentle, and softened the scene with distant woods. Between it and this height ran a vague river-bed as dry as the stones of a salt beach.
 
 The sun rose as I passed under the ruined walls of the castle. In the little town itself, early as was the hour, many people were stirring. One gave me good-morning — a man of singular character, for here, in the very peep of day, he was sitting on a doorstep, idle, lazy and contented, as though it was full noon. Another was yoking oxen; a third going out singing to work in the fields.
 
@@ -13201,7 +13201,7 @@ We lay side by side for hour after hour, and the day rose on to noon; the sun be
 
 From time to time one or the other of us would open our eyes drowsily and wonder, but sleep was heavy on us both, and our minds were sunk in calm like old hulls in the dark depths of the sea where there are no storms.
 
-We neither of us really woke until, at the bottom of the hill which rises into Acquapendente, the oxen stopped. This halt woke us up; first me and then my companion. He looked at me a moment and laughed. He seemed to have thought all this while that I was some country friend of his who had taken a lift; and I, for my part, had made more or less certain that he was a good fellow who would do me no harm. I was right, and he was wrong. I knew not what offering to make him to compensate him for this trouble which his heavy oxen had taken. After some thought I brought a cigar out of my pocket, which he smoked with extreme pleasure. The oxen meanwhile had been urged up the slow hill, and it was in this way that we reached the famous town of Acquapendente. But why it should be called famous is more than I can understand. It may be that in one of those narrow streets there is a picture or a church, or one of those things which so attract unbelieving men. To the [[Pilgrim|pilgrim]] it is simply a group of houses. Into one of these I went, and, upon my soul, I have nothing to say of it except that they furnished me with food.
+We neither of us really woke until, at the bottom of the hill which rises into Acquapendente, the oxen stopped. This halt woke us up; first me and then my companion. He looked at me a moment and laughed. He seemed to have thought all this while that I was some country friend of his who had taken a lift; and I, for my part, had made more or less certain that he was a good fellow who would do me no harm. I was right, and he was wrong. I knew not what offering to make him to compensate him for this trouble which his heavy oxen had taken. After some thought I brought a cigar out of my pocket, which he smoked with extreme pleasure. The oxen meanwhile had been urged up the slow hill, and it was in this way that we reached the famous town of Acquapendente. But why it should be called famous is more than I can understand. It may be that in one of those narrow streets there is a picture or a church, or one of those things which so attract unbelieving men. To the [[archetypes/pilgrim|pilgrim]] it is simply a group of houses. Into one of these I went, and, upon my soul, I have nothing to say of it except that they furnished me with food.
 
 I do not pretend to have counted the flies, though they were numerous; and, even had I done so, what interest would the number have, save to the statisticians? Now as these are patient men and foolish, I heartily recommend them to go and count the flies for themselves.
 
@@ -13222,7 +13222,7 @@ Rimammo sdraiati uno accanto all’altro per ore e ore; il giorno arrivò fino a
 
 Di tanto in tanto, uno di noi due apriva gli occhi sonnolentamente e si chiedeva cosa stesse succedendo, ma il sonno era pesante su entrambi, e i nostri pensieri erano immersi in una calma profonda, come vecchie imbarcazioni nelle oscure profondità del mare, lontane da qualsiasi tempesta.
 
-Nessuno di noi due si svegliò davvero fino a quando, in fondo alla collina che conduce ad Acquapendente, gli buoi non si fermarono. Questa sosta ci fece svegliare: prima io e poi il mio compagno. Lui mi guardò per un momento e rise; sembrava aver pensato tutto quel tempo che fossi un suo amico di campagna che aveva approfittato del suo passaggio; mentre io, per parte mia, ero più o meno certo che fosse una brava persona che non mi avrebbe fatto del male. Avevo ragione io, e lui torto. Non sapevo proprio quale dono potessi fargli per compensarlo di questa seccatura causata dai suoi pesanti buoi. Dopo un po’ di riflessione, tirai fuori un sigaro dalla tasca; lui lo fumò con grande piacere. Nel frattempo, gli buoi continuarono a salire la collina lentamente, e così arrivammo alla famosa città di Acquapendente. Ma non capisco davvero perché venga definita “famosa”. Forse in una di quelle strade strette c’è un dipinto, una chiesa, o qualcosa del genere che attiri gli uomini increduli. Per il [[Pilgrim|>pellegrino]], invece, è semplicemente un gruppo di case. Entrai in una di queste. E, sulla mia anima, non ho nulla da dire al riguardo, se non che mi fornirono del cibo.
+Nessuno di noi due si svegliò davvero fino a quando, in fondo alla collina che conduce ad Acquapendente, gli buoi non si fermarono. Questa sosta ci fece svegliare: prima io e poi il mio compagno. Lui mi guardò per un momento e rise; sembrava aver pensato tutto quel tempo che fossi un suo amico di campagna che aveva approfittato del suo passaggio; mentre io, per parte mia, ero più o meno certo che fosse una brava persona che non mi avrebbe fatto del male. Avevo ragione io, e lui torto. Non sapevo proprio quale dono potessi fargli per compensarlo di questa seccatura causata dai suoi pesanti buoi. Dopo un po’ di riflessione, tirai fuori un sigaro dalla tasca; lui lo fumò con grande piacere. Nel frattempo, gli buoi continuarono a salire la collina lentamente, e così arrivammo alla famosa città di Acquapendente. Ma non capisco davvero perché venga definita “famosa”. Forse in una di quelle strade strette c’è un dipinto, una chiesa, o qualcosa del genere che attiri gli uomini increduli. Per il [[archetypes/pilgrim|>pellegrino]], invece, è semplicemente un gruppo di case. Entrai in una di queste. E, sulla mia anima, non ho nulla da dire al riguardo, se non che mi fornirono del cibo.
 
 Non pretendo di aver contato le mosche, anche se ne erano molte; e, anche se l’avessi fatto, a che scopo sarebbe servito conoscere il loro numero, se non per gli statistici? Ora, poiché questi sono persone pazienti ma sciocche, li incoraggio vivamente ad andare a contare le mosche da soli.
 
@@ -13295,9 +13295,9 @@ Quest’uomo, di nome Hard, all’età di cinquantaquattro anni si ritirò dall�
 
 STORY OF MR HARD
 
-TO TREAT HIMSELF to a visit to Europe. He had not been in Europe five weeks before he ran bang up against the [[Catholic Church]]. He was never more surprised in his life. I do not mean that I have exactly weighed all his surprises all his life through. I mean that he was very much surprised indeed — and that is all that these words connote.
+TO TREAT HIMSELF to a visit to Europe. He had not been in Europe five weeks before he ran bang up against the [[historical-references/catholic-church|Catholic Church]]. He was never more surprised in his life. I do not mean that I have exactly weighed all his surprises all his life through. I mean that he was very much surprised indeed — and that is all that these words connote.
 
-He studied the [[Catholic Church]] with extreme interest. He watched High Mass at several places (hoping it might be different). He thought it was what it was not, and then, contrariwise, he thought it was not what it was. He talked to poor Catholics, rich Catholics, middle-class Catholics, and elusive, wellborn, penniless, neatly dressed, successful Catholics; also to pompous, vain Catholics; humble, uncertain Catholics; sneaking, pad-footed Catholics; healthy, howling, combative Catholics; doubtful, shoulder-shrugging, but devout Catholics; fixed, crabbed, and dangerous Catholics; easy, jovial, and shone-upon-by-the-heavenly-light Catholics; subtle Catholics; strange Catholics, and (quod tibi manifeste absurdum videtur) intellectual, pince-nez, jejune, twisted, analytical, yellow, cranky, and introspective Catholics: in fine, he talked to all Catholics. And when I say ‘all Catholics’ I do not mean that he talked to every individual Catholic, but that he got a good, integrative grip of the Church militant, which is all that the words connote.
+He studied the [[historical-references/catholic-church|Catholic Church]] with extreme interest. He watched High Mass at several places (hoping it might be different). He thought it was what it was not, and then, contrariwise, he thought it was not what it was. He talked to poor Catholics, rich Catholics, middle-class Catholics, and elusive, wellborn, penniless, neatly dressed, successful Catholics; also to pompous, vain Catholics; humble, uncertain Catholics; sneaking, pad-footed Catholics; healthy, howling, combative Catholics; doubtful, shoulder-shrugging, but devout Catholics; fixed, crabbed, and dangerous Catholics; easy, jovial, and shone-upon-by-the-heavenly-light Catholics; subtle Catholics; strange Catholics, and (quod tibi manifeste absurdum videtur) intellectual, pince-nez, jejune, twisted, analytical, yellow, cranky, and introspective Catholics: in fine, he talked to all Catholics. And when I say ‘all Catholics’ I do not mean that he talked to every individual Catholic, but that he got a good, integrative grip of the Church militant, which is all that the words connote.
 
 Well, this man Hard got to know, among others, a certain good priest that loved a good bottle of wine, a fine deep dish of poulet à la casserole, and a kind of egg done with cream in a little platter; and eating such things, this priest said to him one day: ‘Mr Hard, what you want is to read some books on Catholicism.’ And Hard, who was on the point of being received into the Church as the final solution of human difficulties, thought it would be a very good thing to instruct his mind before baptism. So he gave the priest a note to a bookseller whom an American friend had told him of; and this American friend had said:
 
@@ -13320,11 +13320,11 @@ England and Rome. By the Rev. Ebenezer Catchpole of Emmanuel, Birmingham.
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Storia del signor Hard
+Storia del signor Hard
 
-Decise di concedersi il piacere di un viaggio in Europa. Non era stato in Europa da cinque settimane quando si scontrò con la [[Catholic Church|Chiesa Cattolica]]. Non fu mai più sorpreso in tutta la sua vita. Non intendo dire che abbia analizzato attentamente tutte le sue sorprese nel corso degli anni; voglio semplicemente dire che rimase davvero molto sorpreso. E questo è esattamente ciò che queste parole intendono.
+Decise di concedersi il piacere di un viaggio in Europa. Non era stato in Europa da cinque settimane quando si scontrò con la [[historical-references/catholic-church|Chiesa Cattolica]]. Non fu mai più sorpreso in tutta la sua vita. Non intendo dire che abbia analizzato attentamente tutte le sue sorprese nel corso degli anni; voglio semplicemente dire che rimase davvero molto sorpreso. E questo è esattamente ciò che queste parole intendono.
 
-Studiò la [[Catholic Church|Chiesa Cattolica]] con estremo interesse. Assistette alla Messa Solenne in diversi luoghi (sperando che fosse diversa da una volta all’altra). Pensava che fosse qualcosa che in realtà non era, e poi, al contrario, riteneva che non fosse ciò che sembrava. Parlò con cattolici poveri, ricchi, di classe media; con cattolici riservati, ben nati, senza soldi ma vestiti con cura, di successo; con cattolici presuntuosi e vanitosi; umili e incerti; furtivi e circospetti; sani, combattivi e aggressivi; scettici, indecisi ma devoti; ostinati, irascibili e pericolosi; spensierati, gioiosi e illuminati dalla luce divina; subdoli; strani. E anche con cattolici intellettuali, presuntuosi, magri, distorti, analitici, eccentrici, irritabili e introspettivi. In breve, parlò con tutti i cattolici. E quando dico “tutti i cattolici”, non intendo che abbia parlato con ogni singolo individuo, ma che abbia ottenuto una comprensione completa e integrata della Chiesa Cattolica, nel senso che queste parole intendono.
+Studiò la [[historical-references/catholic-church|Chiesa Cattolica]] con estremo interesse. Assistette alla Messa Solenne in diversi luoghi (sperando che fosse diversa da una volta all’altra). Pensava che fosse qualcosa che in realtà non era, e poi, al contrario, riteneva che non fosse ciò che sembrava. Parlò con cattolici poveri, ricchi, di classe media; con cattolici riservati, ben nati, senza soldi ma vestiti con cura, di successo; con cattolici presuntuosi e vanitosi; umili e incerti; furtivi e circospetti; sani, combattivi e aggressivi; scettici, indecisi ma devoti; ostinati, irascibili e pericolosi; spensierati, gioiosi e illuminati dalla luce divina; subdoli; strani. E anche con cattolici intellettuali, presuntuosi, magri, distorti, analitici, eccentrici, irritabili e introspettivi. In breve, parlò con tutti i cattolici. E quando dico “tutti i cattolici”, non intendo che abbia parlato con ogni singolo individuo, ma che abbia ottenuto una comprensione completa e integrata della Chiesa Cattolica, nel senso che queste parole intendono.
 
 Beh, questo signor Hard conobbe, tra gli altri, un certo prete buono che amava una buona bottiglia di vino, un ottimo piatto di pollo alla casseruola e anche delle uova condite con panna in piccoli piattini; mangiando queste cose, un giorno il prete gli disse: “Signor Hard, quello che le serve è leggere alcuni libri sul Cattolicesimo.” E Hard, che stava per essere ammesso nella Chiesa come soluzione definitiva ai problemi umani, pensò che fosse molto utile arricchire la propria cultura prima del battesimo. Così diede al prete un biglietto da consegnare a un libraio di cui gli aveva parlato un amico americano; e questo amico americano aveva detto.
 
@@ -13367,7 +13367,7 @@ Anglo-Saxons the Chosen Race, and their connexion with the Ten Lost Tribes: with
 
 Finally, a very large book at the bottom of the case called Giant Pope.
 
-And it was no use asking for the money back or protesting. Mr Fingle was an honest, straightforward man, who said a plain thing in a plain way. They had left him to choose a suitable collection of books on Catholicism, and he had chosen the best he knew. And thus did Mr Hard (who has recently given a hideous font to the new [[Catholic Church|Catholic church]] at Bismarckville) learn the importance of estimating what words connote.
+And it was no use asking for the money back or protesting. Mr Fingle was an honest, straightforward man, who said a plain thing in a plain way. They had left him to choose a suitable collection of books on Catholicism, and he had chosen the best he knew. And thus did Mr Hard (who has recently given a hideous font to the new [[historical-references/catholic-church|Catholic church]] at Bismarckville) learn the importance of estimating what words connote.
 
 LECTOR. But all that does not excuse an intolerable prolixity?
 
@@ -13379,14 +13379,14 @@ I sat on the coping of a wall, drank a little of my wine, ate a little bread and
 
 Anyhow, seeing a little two-wheeled cart come through the gate, harnessed to a ramshackle little pony, bony and hard, and driven by a little, brown, smiling, and contented old fellow with black hair, I made a sign to him and he stopped.
 
-This time there was no temptation of the devil; if anything the advance was from my side. I was determined to ride, and I sprang up beside the driver. We raced down the hill, clattering and banging and rattling like a piece of ordnance, and he, my brother, unasked began to sing. I sang in turn. He sang of [[Italy]], I
+This time there was no temptation of the devil; if anything the advance was from my side. I was determined to ride, and I sprang up beside the driver. We raced down the hill, clattering and banging and rattling like a piece of ordnance, and he, my brother, unasked began to sing. I sang in turn. He sang of [[settings/italy|Italy]], I
 
 * * *
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Storia del signor Hard
+Storia del signor Hard
 
 Monache e conventi. Di “Ruth”, con una prefazione di Miss Carran, recentemente recuperata da un convento canadese.
 
@@ -13404,7 +13404,7 @@ Gli Anglosassoni, la Razza Eletta, e il loro legame con le Dieci Tribù Perdute:
 
 Infine, in fondo alla scatola c'era un libro molto grande chiamato “Papa Gigante”.
 
-E non serviva chiedere indietro i soldi né protestare. Il signor Fingle era un uomo onesto e diretto, che diceva le cose chiaramente e senza giri di parole. Gli avevano affidato il compito di scegliere una collezione appropriata di libri sul cattolicesimo, e lui aveva scelto i migliori che conoscesse. Ed è così che il signor Hard (che recentemente ha donato un bellissimo fontale alla nuova [[Catholic Church|chiesa cattolica]] di Bismarckville) imparò l’importanza di valutare correttamente il significato delle parole.
+E non serviva chiedere indietro i soldi né protestare. Il signor Fingle era un uomo onesto e diretto, che diceva le cose chiaramente e senza giri di parole. Gli avevano affidato il compito di scegliere una collezione appropriata di libri sul cattolicesimo, e lui aveva scelto i migliori che conoscesse. Ed è così che il signor Hard (che recentemente ha donato un bellissimo fontale alla nuova [[historical-references/catholic-church|chiesa cattolica]] di Bismarckville) imparò l’importanza di valutare correttamente il significato delle parole.
 
 LETTORE: Ma tutto ciò non giustifica comunque una prolissità intollerabile, vero?
 
@@ -13416,7 +13416,7 @@ Mi sedetti sul parapetto di un muro, bevvi un po' del mio vino, mangiai un po' d
 
 Comunque, vedendo passare attraverso il cancello un piccolo carretto a due ruote, attaccato a un pony magro e stanco, guidato da un vecchino piccolo, bruno, sorridente e soddisfatto con i capelli neri, gli feci un segno e si fermò.
 
-Questa volta non ci fu alcuna tentazione del diavolo; anzi, fu io ad essere propenso ad avviarmi. Ero deciso a partire, quindi mi alzai accanto al conducente. Corsimmo giù per la collina, con un rumore assordante, come se fossimo un pezzo d’artiglieria in movimento; lui, mio fratello, senza che glielo chiedessi, iniziò a cantare. Cantai anch’io a mia volta. Lui cantava dell’[[Italy|Italia]], io.
+Questa volta non ci fu alcuna tentazione del diavolo; anzi, fu io ad essere propenso ad avviarmi. Ero deciso a partire, quindi mi alzai accanto al conducente. Corsimmo giù per la collina, con un rumore assordante, come se fossimo un pezzo d’artiglieria in movimento; lui, mio fratello, senza che glielo chiedessi, iniziò a cantare. Cantai anch’io a mia volta. Lui cantava dell’[[settings/italy|Italia]], io.
 
 * * *
 
@@ -13427,7 +13427,7 @@ Questa volta non ci fu alcuna tentazione del diavolo; anzi, fu io ad essere prop
 
 THE MIGHTY DRIVE
 
-OF FOUR COUNTRIES: America, [[France]], England, and Ireland. I could not understand his songs nor he mine, but there was wine in common between us, and salami and a merry heart, bread which is the bond of all mankind, and that prime solution of ill-ease — I mean the forgetfulness of money.
+OF FOUR COUNTRIES: America, [[settings/france|France]], England, and Ireland. I could not understand his songs nor he mine, but there was wine in common between us, and salami and a merry heart, bread which is the bond of all mankind, and that prime solution of ill-ease — I mean the forgetfulness of money.
 
 That was a good drive, an honest drive, a human aspiring drive, a drive of Christians, a glorifying and uplifted drive, a drive worthy of remembrance for ever. The moon has shone on but few like it though she is old; the lake of Bolsena has glittered beneath none like it since the Etruscans here unbended after the solemnities of a triumph. It broke my vow to pieces; there was not a shadow of excuse for this use of wheels: it was done openly and wantonly in the face of the wide sky for pleasure. And what is there else but pleasure, and to what else does beauty move on? Not I hope to contemplation! A hideous oriental trick! No, but to loud notes and comradeship and the riot of galloping, and laughter ringing through old trees. Who would change (says Aristippus of Pslinthon) the moon and all the stars for so much wine as can be held in the cup of a bottle upturned? The honest man! And in his time (note you) they did not make the devilish deep and fraudulent bottoms they do now that cheat you of half your liquor.
 
@@ -13442,9 +13442,9 @@ Then, after my meal, one of the men told me I needed sleep; that there were no r
 
 <span class="qlang-split" data-lang="it"></span>
 
-# La potente spinta
+La potente spinta
 
-Di quattro paesi: America, [[France|Francia]], Inghilterra e Irlanda. Non riuscivo a capire le sue canzoni, né lui le mie, ma c'era il vino in comune tra noi, insieme al salame e a un cuore felice, al pane che è il legame di tutta l’umanità. E poi c'era quella soluzione ideale per tutti i problemi: dimenticare i soldi.
+Di quattro paesi: America, [[settings/france|Francia]], Inghilterra e Irlanda. Non riuscivo a capire le sue canzoni, né lui le mie, ma c'era il vino in comune tra noi, insieme al salame e a un cuore felice, al pane che è il legame di tutta l’umanità. E poi c'era quella soluzione ideale per tutti i problemi: dimenticare i soldi.
 
 Quella fu una bella corsa, una corsa onesta, una corsa motivata da aspirazioni umane, una corsa tipica dei cristiani, una corsa che glorificava e elevava lo spirito. Una corsa degna di essere ricordata per sempre. La luna ha illuminato poche cose del genere, nonostante sia antica; il lago di Bolsena non ha mai brillato sotto uno spettacolo simile da quando gli Etruschi celebrarono i loro trionfi qui. Quella corsa distrusse completamente la mia promessa. Non esisteva alcuna scusa per un uso così sfrenato delle ruote: fu fatto apertamente, senza ritegno, sotto il vasto cielo, solo per puro divertimento. E cosa c’è di più al mondo se non il piacere? A quale altro scopo può servire la bellezza? Di certo non alla contemplazione. È un orribile trucco orientale. No: serve soltanto a note sonore, alla compagnia degli amici, al fragore del galoppo e alle risate che risuonano tra gli alberi antichi. Chi cambierebbe la luna e tutte le stelle per tutta la quantità di vino che può contenere una bottiglia capovolta? L’uomo onesto. E nel suo tempo, notate bene, non si creavano quei fondi profondi e fraudolenti dei bicchieri di oggi, capaci di farvi perdere metà del liquido che contengono.
 
@@ -13465,13 +13465,13 @@ MONTEFIASCONE
 
 that the day was too hot for walking. They told me, did these Etruscans, that I need fear no extortion from so honest a man.
 
-Certainly it is not easy to make everybody understand everything, and I had had experience already up in the [[Mountains|mountains]], days before, of how important it is not to be misunderstood when one is wandering in a foreign country, poor and ill-clad. I therefore accepted the offer, and, what was really very much to my regret, I paid the money he demanded. I even so far fell in with the spirit of the thing as to sleep a certain number of hours (for after all, my sleep that day in the cart had been very broken, and instead of resting throughout the whole of the heat I had taken a meal at Acquapendente). But I woke up not long after midnight — perhaps between one and two o’clock — and went out along the borders of the lake.
+Certainly it is not easy to make everybody understand everything, and I had had experience already up in the [[settings/mountains|mountains]], days before, of how important it is not to be misunderstood when one is wandering in a foreign country, poor and ill-clad. I therefore accepted the offer, and, what was really very much to my regret, I paid the money he demanded. I even so far fell in with the spirit of the thing as to sleep a certain number of hours (for after all, my sleep that day in the cart had been very broken, and instead of resting throughout the whole of the heat I had taken a meal at Acquapendente). But I woke up not long after midnight — perhaps between one and two o’clock — and went out along the borders of the lake.
 
 The moon had set; I wish I could have seen her hanging at the quarter in the clear sky of that high crater, dipping into the rim of its inland sea. It was perceptibly cold. I went on the road quite slowly, till it began to climb, and when the day broke I found myself in a sunken lane leading up to the town of Montefiascone.
 
 The town lay on its hill in the pale but growing light. A great dome gave it dignity, and a castle overlooked the lake. It was built upon the very edge and lip of the volcano-cup commanding either side.
 
-I climbed up this sunken lane towards it, not knowing what might be beyond, when, at the crest, there shone before me in the sunrise one of those unexpected and united landscapes which are among the glories of [[Italy]]. They have changed the very mind in a hundred northern painters, when men travelled hither to Rome to learn their art, and coming in by her mountain roads saw, time and again, the set views of plains like gardens, surrounded by sharp mountain-land and framed.
+I climbed up this sunken lane towards it, not knowing what might be beyond, when, at the crest, there shone before me in the sunrise one of those unexpected and united landscapes which are among the glories of [[settings/italy|Italy]]. They have changed the very mind in a hundred northern painters, when men travelled hither to Rome to learn their art, and coming in by her mountain roads saw, time and again, the set views of plains like gardens, surrounded by sharp mountain-land and framed.
 
 The road did not pass through the town; the grand though crumbling gate of entry lay up a short straight way to the right, and below, where the road continued down the slope, was a level of some eight miles full of trees diminishing in distance. At its further side an ample mountain, wooded, of gentle flattened outline, but high and majestic, barred the way to Rome. It was yet another of those volcanoes, fruitful after death, which are the mark of Latium: and it held hidden, as did that larger and more confused one on the rim of which I stood, a lake in its silent crater. But that lake, as I was to find, was far smaller than the glittering sea of Bolsena, whose shores now lay behind me.
 
@@ -13492,7 +13492,7 @@ La luna era già tramontata; avrei voluto poterla vedere, appesa nel cielo seren
 
 La città sorgeva sulla sua collina, avvolta nella luce pallida ma crescente del mattino. Una grande cupola le conferiva dignità, e un castello si affacciava sul lago; era stato costruito proprio sul bordo estremo della caldera vulcanica che si estendeva su entrambi i lati.
 
-Salii su questo sentiero in disuso verso di esso, senza sapere cosa ci fosse oltre; quando raggiunsi la cima, al sorgere del sole, davanti ai miei occhi si aprì uno di quei paesaggi inaspettati e magnifici che fanno parte delle glorie dell’[[Italy|Italia]]. Questi paesaggi hanno cambiato il modo di pensare di centinaia di pittori del Nord: quando gli artisti viaggiavano a Roma per imparare la loro arte, attraverso le sue strade montane vedevano spesso queste viste di pianure ordinate e simili a giardini, circondate da terreni montuosi scoscesi.
+Salii su questo sentiero in disuso verso di esso, senza sapere cosa ci fosse oltre; quando raggiunsi la cima, al sorgere del sole, davanti ai miei occhi si aprì uno di quei paesaggi inaspettati e magnifici che fanno parte delle glorie dell’[[settings/italy|Italia]]. Questi paesaggi hanno cambiato il modo di pensare di centinaia di pittori del Nord: quando gli artisti viaggiavano a Roma per imparare la loro arte, attraverso le sue strade montane vedevano spesso queste viste di pianure ordinate e simili a giardini, circondate da terreni montuosi scoscesi.
 
 La strada non attraversava la città; il maestoso, sebbene in rovina, cancello d’ingresso si trovava poco più avanti a destra, e più in basso, dove la strada proseguiva lungo la pendenza, si estendeva per circa otto miglia una distesa pianeggiante ricoperta di alberi che diventavano sempre più rari man mano che ci si allontanava. Sul lato opposto, un’ampia montagna boscosa, dal profilo dolce e appiattito ma alta e maestosa, bloccava la strada verso Roma. Era un altro di quei vulcani, “fruttuosi dopo la morte”, che caratterizzano il Lazio: come quello più grande e complesso ai cui piedi mi trovavo, anche questo nascondeva un lago nel suo cratere silenzioso. Ma quel lago, come avrei scoperto in seguito, era molto più piccolo del brillante mare di Bolsena, le cui rive ora si trovavano alle mie spalle.
 
@@ -13509,7 +13509,7 @@ THE GREAT WALLS
 
 TOWERS OF VITERBO, though I knew them to stand at the foot of the far mountain. I went down the road, and in half-an-hour or so was engaged upon the straight line crossing the plain.
 
-I wondered a little how the road would lie with regard to the town, and looked at my map for guidance, but it told me little. It was too general, taking in all central [[Italy]], and even large places were marked only by small circles.
+I wondered a little how the road would lie with regard to the town, and looked at my map for guidance, but it told me little. It was too general, taking in all central [[settings/italy|Italy]], and even large places were marked only by small circles.
 
 When I approached Viterbo I first saw an astonishing wall, perpendicular to my road, untouched, the bones of the Middle Ages. It stood up straight before one like a range of cliffs, seeming much higher than it should; its hundred feet or so were exaggerated by the severity of its stones and by their sheer fall. For they had no ornament whatever, and few marks of decay, though many of age. Tall towers, exactly square and equally bare of carving or machicolation, stood at intervals along this forbidding defence and flanked its curtain. Then nearer by, one saw that it was not a huge castle, but the wall of
 
@@ -13522,7 +13522,7 @@ Le grandi mura
 
 Le TORRI DI VITERBO, sebbene sapessi che si trovavano ai piedi di quella lontana montagna. Proseguii lungo la strada e, in circa mezz’ora, raggiunsi il tratto rettilineo che attraversava la pianura.
 
-Mi chiedevo un po' come fosse disposta la strada rispetto alla città, e guardai la mia mappa per cercare indicazioni, ma non mi fornì molte informazioni. Era troppo generale, copriva l’intera [[Italy|Italia]] centrale, e anche le grandi località erano indicate soltanto da piccoli cerchi.
+Mi chiedevo un po' come fosse disposta la strada rispetto alla città, e guardai la mia mappa per cercare indicazioni, ma non mi fornì molte informazioni. Era troppo generale, copriva l’intera [[settings/italy|Italia]] centrale, e anche le grandi località erano indicate soltanto da piccoli cerchi.
 
 Quando mi avvicinai a Viterbo, vidi per prima cosa un muro straordinario, perpendicolare alla mia strada, intatto, i resti del Medioevo. Si ergeva dritto davanti a me come una serie di scogliere, sembrando molto più alto di quanto in realtà fosse; i suoi circa cento piedi di altezza venivano accentuati dalla severità delle pietre e dal loro ripido pendio. Non presentava alcun ornamento e poche tracce di decadimento, nonostante fosse molto antico. Alti torrioni, perfettamente quadrati e privi di sculture o decorazioni, si trovavano a intervalli lungo questa imponente difesa, costituendo i suoi lati esterni. Avvicinandomi ancora di più, mi resi conto che non si trattava di un enorme castello, ma semplicemente del muro.
 
@@ -13545,14 +13545,14 @@ There, in the first wide street I could find, I bought sausage and bread and a g
 
 For a long while yet I continued under the walls, noting in one place a thing peculiar to the Middle Ages, I mean the apse of a church built right into the wall as the old Cathedral of St Stephen’s was in Paris. These, I suppose, enemies respected if they could; for I have noticed also that in castles the chapel is not hidden, but stands out from the wall. So be it. Your fathers and mine were there in the fighting, but we do not know their names, and I trust and hope yours spared the altars as carefully as mine did.
 
-The road began to climb the hill, and though the heat increased — for in [[Italy]] long before nine it is glaring noon to us northerners (and that reminds me: your fathers and mine, to whom allusion has been made above {as they say in the dull history books — [LECTOR. How many more interior brackets are we to have? Is this algebra? AUCTOR. You yourself, Lector, are responsible for the
+The road began to climb the hill, and though the heat increased — for in [[settings/italy|Italy]] long before nine it is glaring noon to us northerners (and that reminds me: your fathers and mine, to whom allusion has been made above {as they say in the dull history books — [LECTOR. How many more interior brackets are we to have? Is this algebra? AUCTOR. You yourself, Lector, are responsible for the
 
 * * *
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Entro in Viterbo
+Entro in Viterbo
 
 Una CITTÀ, perché in un angolo svoltava bruscamente per delimitare l’intero centro abitato; attraverso una zona irregolare vidi delle case. Molti uomini camminavano lungo le strade, fianco a questi muri, e c'erano porte aperte attraverso cui i cittadini entravano e uscivano dalla città, proprio come le api entrano e escono dalle piccole aperture di un alveare.
 
@@ -13564,7 +13564,7 @@ Lì, nella prima strada larga che riuscii a trovare, comprai salsiccia, pane e u
 
 Per molto tempo ancora continuai a camminare sotto le mura, notando in un certo punto qualcosa di tipico del Medioevo: l’abside di una chiesa costruita direttamente all’interno della parete, proprio come l’antica Cattedrale di San Stefano a Parigi. Immagino che questi nemici rispettassero simili strutture se possibile; infatti ho notato anche che nei castelli la cappella non è nascosta, ma sporge apertamente dalla parete. Che sia così. I vostri antenati e i miei hanno combattuto lì, ma non conosciamo i loro nomi; spero soltanto che i vostri abbiano rispettato gli altari con la stessa cura che ho fatto io.
 
-La strada iniziò a salire la collina, e sebbene il caldo aumentasse – perché in [[Italy|Italia]] molto prima delle nove è già mezzogiorno cocente per noi del nord (e questo mi ricorda: vostri padri e i miei, di cui si è fatto riferimento sopra {come dicono nei noiosi libri di storia — [LETTORE. Quanti altri parentesi interni dovremo ancora usare? È questa un’algebra? AUTORE. Voi stesso, Lettore, siete responsabile di, })
+La strada iniziò a salire la collina, e sebbene il caldo aumentasse – perché in [[settings/italy|Italia]] molto prima delle nove è già mezzogiorno cocente per noi del nord (e questo mi ricorda: vostri padri e i miei, di cui si è fatto riferimento sopra {come dicono nei noiosi libri di storia — [LETTORE. Quanti altri parentesi interni dovremo ancora usare? È questa un’algebra? AUTORE. Voi stesso, Lettore, siete responsabile di, })
 
 * * *
 
@@ -13615,7 +13615,7 @@ La strada sembrava non avere fine; la cresta dalla quale speravo di poter ammira
 
 THE POND OF VENUS
 
-I passed between two banks, where the road had been worn down at the crest of the volcano’s rim; then at once, far below, in a circle of silent trees with here and there a vague shore of marshy land, I saw the Pond of Venus: some miles of brooding water, darkened by the dark slopes around it. Its darkness recalled the dark time before the [[Dawn|dawn]] of our saved and happy world.
+I passed between two banks, where the road had been worn down at the crest of the volcano’s rim; then at once, far below, in a circle of silent trees with here and there a vague shore of marshy land, I saw the Pond of Venus: some miles of brooding water, darkened by the dark slopes around it. Its darkness recalled the dark time before the [[motifs/dawn|dawn]] of our saved and happy world.
 
 At its hither end a hill, that had once been a cone in the crater, stood out all covered with a dense wood. It was the Hill of Venus.
 
@@ -13638,7 +13638,7 @@ Dark Etruria lay behind me, forgotten in the backward of my march: a furnace and
 
 Il laghetto di Venere
 
-Passai tra due rive, dove la strada era erosa sulla cresta del bordo del vulcano; poi, improvvisamente, molto più in basso, in un cerchio di alberi silenziosi e qua e là con qualche traccia di terra paludosa, vidi il Lago di Venere: alcuni chilometri di acqua stagnante, oscurata dalle ripide pendici circostanti. La sua oscurità ricordava quel periodo buio precedente l’[[Dawn|'alba]] del nostro mondo salvato e felice.
+Passai tra due rive, dove la strada era erosa sulla cresta del bordo del vulcano; poi, improvvisamente, molto più in basso, in un cerchio di alberi silenziosi e qua e là con qualche traccia di terra paludosa, vidi il Lago di Venere: alcuni chilometri di acqua stagnante, oscurata dalle ripide pendici circostanti. La sua oscurità ricordava quel periodo buio precedente l’[[motifs/dawn|'alba]] del nostro mondo salvato e felice.
 
 All'estremità opposta si ergeva una collina che un tempo era stata un cono all'interno del cratere; era completamente ricoperta da una fitta foresta. Era la Collina di Venere.
 
@@ -13671,7 +13671,7 @@ Was it in so small a space that all the legends of one’s childhood were acted?
 
 ‘Upon this arena,’ I still said to myself, ‘were first fought out the chief destinies of the world’; and so, played upon by an unending theme, I ate and drank in a reverie, still wondering, and then lay down beneath the shade of a little tree that stood alone upon that edge of a new world. And wondering, I fell asleep under the morning sun.
 
-But this sleep was not like the earlier oblivions that had refreshed my ceaseless [[Journey|journey]], for I still dreamt as I slept of what I was to see, and visions of action without thought — pageants and mysteries — surrounded my spirit; and across the darkness of a mind remote from the senses there passed whatever is wrapped up in the great name of Rome.
+But this sleep was not like the earlier oblivions that had refreshed my ceaseless [[motifs/journey|journey]], for I still dreamt as I slept of what I was to see, and visions of action without thought — pageants and mysteries — surrounded my spirit; and across the darkness of a mind remote from the senses there passed whatever is wrapped up in the great name of Rome.
 
 When I woke the evening had come. A haze had gathered upon the plain. The road fell into Ronciglione, and dreams surrounded it upon every side. For the energy of the body those hours of rest had made a fresh and enduring
 
@@ -13690,7 +13690,7 @@ Era forse in uno spazio così ristretto che tutte le leggende della propria infa
 
 “Su questo campo,” continuavo a dire a me stesso, “si decisero per la prima volta i destini principali del mondo”; e così, immerso in questo pensiero incessante, mangiai e bevvi in un stato di meditazione, continuando a chiedermi domande. Poi mi sdraiai all’ombra di un piccolo albero che cresceva da solo su quel margine di un nuovo mondo. E mentre riflettevo, mi addormentai sotto il sole del mattino.
 
-Ma questo sonno non era simile alle precedenti obliosità che avevano rinfrescato il mio incessante [[Journey|viaggio]]: continuavo infatti a sognare ciò che avrei visto, e visioni di azioni senza pensieri – spettacoli e misteri – circondavano la mia mente; attraverso l’oscurità di una coscienza lontana dai sensi, passava tutto ciò che è legato al grande nome di Roma.
+Ma questo sonno non era simile alle precedenti obliosità che avevano rinfrescato il mio incessante [[motifs/journey|viaggio]]: continuavo infatti a sognare ciò che avrei visto, e visioni di azioni senza pensieri – spettacoli e misteri – circondavano la mia mente; attraverso l’oscurità di una coscienza lontana dai sensi, passava tutto ciò che è legato al grande nome di Roma.
 
 Quando mi svegliai, era già sera. Una nebbia si era addensata sulla pianura; la strada conduceva verso Ronciglione, e sogni la circondavano da ogni lato. Perché quelle ore di riposo avevano rinnovato le energie del mio corpo, rendendole fresche e durature.
 
@@ -13715,7 +13715,7 @@ It was an inn with trellis outside making an arbour. In the yard before it many 
 
 What feast or what necessity of travel made them keep the night alive I neither knew nor asked; but passing almost unobserved amongst them between the long tables, I took my place at the end, and the master served me with good food and wine. As I ate the clamour of the peasants sounded about me, and I mixed with the energy of numbers.
 
-With a little difficulty I made the master understand that I wished to sleep till [[Dawn|dawn]]. He led me out to a small granary (for the house was full), and showed me where I should sleep in the scented hay. He would take no money for such a lodging, and left me after showing me how the door latched and unfastened; and out of so many men, he was the last man whom I thanked for a service until I passed the gates of Rome.
+With a little difficulty I made the master understand that I wished to sleep till [[motifs/dawn|dawn]]. He led me out to a small granary (for the house was full), and showed me where I should sleep in the scented hay. He would take no money for such a lodging, and left me after showing me how the door latched and unfastened; and out of so many men, he was the last man whom I thanked for a service until I passed the gates of Rome.
 
 * * *
 
@@ -13736,7 +13736,7 @@ Era una locanda con dei pergolati all’esterno che formavano un portico. Nel co
 
 Quale festa o quale necessità di viaggio li facesse trascorrere la notte in movimento, non lo sapevo né lo chiesi; ma passando quasi inosservato tra loro, tra i lunghi tavoli, mi misi all’estremità della fila e il padrone mi servì cibo e vino deliziosi. Mentre mangiavo, il clamore dei contadini risuonava intorno a me; mi mescolai alla vivacità di quella folla numerosa.
 
-Con qualche difficoltà riuscii a far capire al padrone che volevo dormire fino all’[[Dawn|'alba]]. Mi portò in un piccolo granaio (poiché la casa era piena) e mi mostrò dove poter dormire tra il fieno profumato. Non volle alcun denaro per questo alloggio e, dopo avermi spiegato come chiudere e aprire la porta, se ne andò. Tra tante persone, fu l’ultimo a cui ringraziai per un favore, fino a quando non superai le porte di Roma.
+Con qualche difficoltà riuscii a far capire al padrone che volevo dormire fino all’[[motifs/dawn|'alba]]. Mi portò in un piccolo granaio (poiché la casa era piena) e mi mostrò dove poter dormire tra il fieno profumato. Non volle alcun denaro per questo alloggio e, dopo avermi spiegato come chiudere e aprire la porta, se ne andò. Tra tante persone, fu l’ultimo a cui ringraziai per un favore, fino a quando non superai le porte di Roma.
 
 * * *
 
@@ -13762,7 +13762,7 @@ The road fell into a hollow where soldiers were manoeuvring. Even these could no
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Roma mi chiama
+Roma mi chiama
 
 Sopra il morbido letto fatto di paglia, una finestra quadrata, senza vetri, si affacciava sulla notte meridionale; la nebbia a malapena vi entrava o vi passava attraverso, l’aria era così immobile. La osservai per un po’, con occhi sonnolenti; poi il sonno mi colpì di nuovo.
 
@@ -13846,7 +13846,7 @@ Un tempo, prima che noi esseri umani diventassimo le persone buone e rispettose 
 
 “Che cos’è?”
 
-#E San Michele rispose:
+E San Michele rispose:
 
 “Quella è la Terra,” perché ne provava un certo orgoglio.
 
@@ -13873,7 +13873,7 @@ CONTINUEZ
 
 ‘Men?’ said the Padre Eterno, ‘Men ... I know the word as well as any one, but somehow the connexion escapes me. Men ...’ and He mused.
 
-St Michael, with perfect self-restraint, said a few things a trifle staccato, defining Man, his dual destiny, his hope of heaven, and all the great business in which he himself had fought hard. But from a fine military [[Tradition|tradition]], he said nothing of his actions, nor even of his shrine in Normandy, of which he is naturally extremely proud: and well he may be. What a hill!
+St Michael, with perfect self-restraint, said a few things a trifle staccato, defining Man, his dual destiny, his hope of heaven, and all the great business in which he himself had fought hard. But from a fine military [[concepts/tradition|tradition]], he said nothing of his actions, nor even of his shrine in Normandy, of which he is naturally extremely proud: and well he may be. What a hill!
 
 ‘I really beg your pardon,’ said the Padre Eterno, when he saw the importance attached to these little creatures. ‘I am sure they are worthy of the very fullest attention, and’ (he added, for he was sorry to have offended) ‘how sensible they seem, Michael! There they go, buying and selling, and sailing, driving, and wiving, and riding, and dancing, and singing, and the rest of it; indeed, they are most practical, business-like, and satisfactory little beings. But I notice one odd thing. Here and there are some not doing as the rest, or attending to their business, but throwing themselves into all manner of attitudes, making the most extraordinary sounds, and clothing themselves in the quaintest of garments. What is the meaning of that?’
 
@@ -13897,7 +13897,7 @@ seventeenth century. Beneath the bridge there tumbled and swelled and ran fast a
 
 Then (along a road perfectly straight and bounded by factories, mean houses and distempered walls: a road littered with many scraps of paper, bones, dirt, and refuse) I went on for several hundred yards, having the old wall of Rome before me all this time, till I came right under it at last; and with the hesitation that befits all great actions I entered, putting the right foot first lest I should bring further misfortune upon that capital of all our fortunes.
 
-And so the [[Journey|journey]] ended.
+And so the [[motifs/journey|journey]] ended.
 
 It was the Gate of the Poplar — not of the People. (Ho, Pedant! Did you think I missed you, hiding and lurking there?) Many churches were to hand; I took the most immediate, which stood just within the wall and was called Our Lady of the People — (not ‘of the Poplar’. Another fall for the learned! Professor, things go ill with you to-day!). Inside were many fine pictures, not in the niminy-piminy manner, but strong, full-coloured, and just.
 
@@ -13932,7 +13932,7 @@ Continuatez
 
 “Gli uomini?”, disse il Padre Eterno, “Gli uomini. Conosco questa parola tanto quanto chiunque altro, ma in qualche modo non riesco a capirne il significato. Gli uomini, ” e rimase a riflettere.
 
-San Michele, con perfetta moderazione, disse alcune cose in modo un po’ distaccato, definendo l’Uomo, il suo duplice destino, la sua speranza in cielo e tutte le grandi cause per cui aveva combattuto con determinazione. Ma, seguendo una nobile [[Tradition|tradizione militare]], non menzionò mai le sue azioni, né tantomeno il suo santuario in Normandia di cui naturalmente è estremamente orgoglioso. E ha tutte le ragioni per esserlo. Che meravigliosa collina!
+San Michele, con perfetta moderazione, disse alcune cose in modo un po’ distaccato, definendo l’Uomo, il suo duplice destino, la sua speranza in cielo e tutte le grandi cause per cui aveva combattuto con determinazione. Ma, seguendo una nobile [[concepts/tradition|tradizione militare]], non menzionò mai le sue azioni, né tantomeno il suo santuario in Normandia di cui naturalmente è estremamente orgoglioso. E ha tutte le ragioni per esserlo. Che meravigliosa collina!
 
 “Vi chiedo davvero scusa,” disse il Padre Eterno quando vide l’importanza che veniva attribuita a queste piccole creature. “Sono sicuro che meritino tutta la nostra attenzione, e, ” (aggiunse, perché gli dispiaceva di aver offeso) “, sembrano davvero molto sagge! Lì stanno, comprando e vendendo, navigando, guidando, vivendo le loro vite quotidiane, cavalcando, ballando, cantando. Davvero, sono esseri molto pratici, efficienti e soddisfacenti. Ma noto una cosa strana: qua e là ci sono alcuni che non fanno come gli altri, che non si dedicano alle loro attività, ma assumono ogni sorta di posizione, emettono suoni strani e si vestono con abiti molto bizzarri. Cosa significa tutto questo?”
 
@@ -13956,7 +13956,7 @@ Seicentoventesimo secolo. Sotto il ponte scorreva velocemente un gran tumulto d�
 
 Poi, lungo una strada perfettamente dritta delimitata da fabbriche, case modeste e muri in rovina; una strada piena di pezzi di carta, ossa, fango e rifiuti, proseguii per diverse centinaia di metri, con il vecchio muro di Roma davanti a me per tutto il tempo, fino a quando finalmente non mi trovai proprio sotto di esso. Con l’esitazione che caratterizza tutte le grandi imprese, entrai, mettendo prima il piede destro, per non causare ulteriori sfortune a quella capitale di tutte le nostre fortune.
 
-E così la [[Journey|viaggio]] finì.
+E così la [[motifs/journey|viaggio]] finì.
 
 Era la Porta del Pioppo – non quella del Popolo. (Ah, pedante! Pensavi davvero che ti avessi perso, nascosto e in agguato lì dentro?) C’erano molte chiese nelle vicinanze; ne scelsi la più vicina, quella che si trovava appena all’interno della muraglia e che si chiamava Nostra Signora del Popolo, (non “del Pioppo”. Un altro errore da parte dei dotti! Professore, oggi le cose non vanno bene per lei!). All’interno c’erano molte bellissime opere d’arte: non di quel genere banale e insignificante, ma piuttosto forti, a colori vivaci e realistiche.
 
@@ -14068,7 +14068,7 @@ FINIS
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Canto forte e finale  
+Canto forte e finale  
 Epitalamo o treno funebre in stile ditirambo
 
 “In queste scarpe e con questo bastone… Duecentoventi leghe e mezza…”
@@ -14079,35 +14079,35 @@ Duecento guerrieri e mezzo
 
 Camminai, andai, misuravo i passi, inciampai…
 
-# Inciampai, camminai, avanzai…
+Inciampai, camminai, avanzai…
 
 Spinto avanti, ansimando, oscillando e correndo…
 
-#Navigato, attraversato, nuotato… e schizzato d’acqua.
+Navigato, attraversato, nuotato… e schizzato d’acqua.
 
-# Arrampicato, strisciato e inerpicato…
+Arrampicato, strisciato e inerpicato…
 
-# Perduto e smarrito, vagabondai senza meta…
+Perduto e smarrito, vagabondai senza meta…
 
-# Barcollando e faticando…
+Barcollando e faticando…
 
-# In solitudine e silenzio mi accampavo
+In solitudine e silenzio mi accampavo
 
-# Dormii nelle pinete infestate di fantasmi
+Dormii nelle pinete infestate di fantasmi
 
-#Mi soffermai, indugiai, zoppicai e strisciai…
+Mi soffermai, indugiai, zoppicai e strisciai…
 
 Salii, mi fermai, mossi un passo e saltai…
 
-# Camminavo lentamente, con passi decisi…
+Camminavo lentamente, con passi decisi…
 
-#E… (Oh! Santi patroni e angeli)
+E… (Oh! Santi patroni e angeli)
 
 Che proteggano i quattro vangeli!
 
 E voi profeti e maestri…
 
-# Incerti e minori
+Incerti e minori
 
 Virgini e Confessori
 
@@ -14116,17 +14116,17 @@ Capo di quelle glorie particolari
 Titolo:  
 "Essere nella sala del re"
 
-# Atque orare et exorare
+Atque orare et exorare
 
-# Et clamare et conclamare
+Et clamare et conclamare
 
-# Clamanti cum clamoribus
+Clamanti cum clamoribus
 
 Per noi peccatori.
 
 Lasciate che non lo nasconda. Fu io a cavalcare.
 
-#Per chi, se non i critici, potrebbe lamentarsi?
+Per chi, se non i critici, potrebbe lamentarsi?
 
 “Viaggiare” su un treno ferroviario… Attraverso valli e altipiani.
 
@@ -14136,15 +14136,15 @@ Bevendo quando ne avevo voglia
 
 Cantare quando ne avevo voglia;
 
-# Mai ho voltato le spalle alla mia casa
+Mai ho voltato le spalle alla mia casa
 
 Fino a quando non ebbi placato i miei desideri a Roma.
 
 * * *
 
-# La fine ancora una volta
+La fine ancora una volta
 
-# Lettore… Ma questo è davvero incredibile!
+Lettore… Ma questo è davvero incredibile!
 
 Autore… Nemmeno una parola!  
 Fine.

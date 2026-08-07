@@ -14,4 +14,10 @@ The Old Testament God who, as Chesterton argues, is the only true character of t
 
 <div class="concept-works" data-slug="characters/jehovah"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/job-(chesterton)|job (Chesterton)]]
+
+</div>
+
 #graph/character

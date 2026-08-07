@@ -37,13 +37,13 @@ tags:
 
 Raccolta tematica di 7 componimenti di Samuel Taylor Coleridge.
 
-- [[A DUNGEON (Coleridge)|A DUNGEON]]
-- [[ANNA AND HARLAND (Coleridge)|ANNA AND HARLAND]]
-- [[MRS. SIDDONS (Coleridge)|MRS. SIDDONS]]
-- [[SONNET COMPOSED ON A JOURNEY HOMEWARD; THE AUTHOR HAVING RECEIVED INTELLIGENCE (Coleridge)|SONNET: COMPOSED ON A JOURNEY HOMEWARD; THE AUTHOR HAVING RECEIVED INTELLIGENCE]]
-- [[THE COMPLAINT OF NINATHÓMA FROM THE SAME (Coleridge)|THE COMPLAINT OF NINATHÓMA:FROM THE SAME]]
-- [[THE MAD MONK (Coleridge)|THE MAD MONK]]
-- [[THE MADMAN AND THE LETHARGIST (Coleridge)|THE MADMAN AND THE LETHARGIST]]
+- [[testi/coleridge/atomized/terror-and-horror-madness#379_a_dungeon|A DUNGEON]]
+- [[testi/coleridge/atomized/terror-and-horror-madness#014_anna_and_harland|ANNA AND HARLAND]]
+- [[testi/coleridge/atomized/terror-and-horror-madness#089_mrs_siddons|MRS. SIDDONS]]
+- [[testi/coleridge/atomized/terror-and-horror-madness#119_sonnet_composed_on_a_journey_homeward_the_author_having_received_intelligence|SONNET: COMPOSED ON A JOURNEY HOMEWARD; THE AUTHOR HAVING RECEIVED INTELLIGENCE]]
+- [[testi/coleridge/atomized/terror-and-horror-madness#041_the_complaint_of_ninathómafrom_the_same|THE COMPLAINT OF NINATHÓMA:FROM THE SAME]]
+- [[testi/coleridge/atomized/terror-and-horror-madness#193_the_mad_monk|THE MAD MONK]]
+- [[testi/coleridge/atomized/terror-and-horror-madness#239_the_madman_and_the_lethargist|THE MADMAN AND THE LETHARGIST]]
 
 ## Testo / Text
 

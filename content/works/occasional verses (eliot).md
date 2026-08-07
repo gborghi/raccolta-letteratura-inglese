@@ -15,17 +15,17 @@ tags:
   - motif/the_sea
 ---
 
-*by Eliot*  ·  **Cluster:** [[Disillusionment · First World War · Italy]]
+*by Eliot*  ·  **Cluster:** [[clusters/disillusionment-·-first-world-war-·-italy|Disillusionment · First World War · Italy]]
 
 > [!abstract] 
 > Section header collecting the occasional/war poems; the present text is Defence of the Islands, a Dunkirk-era patriotic memorial in verse.
 
 ## Connections
 
-**Motifs:** [[Death]], [[Sea]]
-**Themes & Concepts:** [[War and its Cost]], [[Nationalism and Patriotism]]
-**Forms & Genres:** [[Free Verse]]
-**Historical References:** [[First World War]]
+**Motifs:** [[motifs/death|Death]], [[motifs/sea|Sea]]
+**Themes & Concepts:** [[concepts/war-and-its-cost|War and its Cost]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]]
+**Forms & Genres:** [[forms/free-verse|Free Verse]]
+**Historical References:** [[historical-references/first-world-war|First World War]]
 
 ## Testo integrale / Full text
 

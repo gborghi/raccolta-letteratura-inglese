@@ -14,4 +14,10 @@ The mystical, doomed British general besieged and killed at Khartoum, presented 
 
 <div class="concept-works" data-slug="characters/charles-gordon"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lordkitchener-(chesterton)|LordKitchener (Chesterton)]]
+
+</div>
+
 #graph/character

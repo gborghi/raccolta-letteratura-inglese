@@ -14,4 +14,10 @@ The cowardly, contemptible companion in The Ebb-Tide whom Chesterton says Steven
 
 <div class="concept-works" data-slug="characters/huish"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/robert-louis-stevenson-(chesterton)|Robert Louis Stevenson (Chesterton)]]
+
+</div>
+
 #graph/character

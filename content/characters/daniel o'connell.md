@@ -14,4 +14,10 @@ The Irish Liberator who alone understood Cobbett's penitential gesture over Pain
 
 <div class="concept-works" data-slug="characters/daniel-o'connell"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/william-cobbett-(chesterton)|William Cobbett (Chesterton)]]
+
+</div>
+
 #graph/character

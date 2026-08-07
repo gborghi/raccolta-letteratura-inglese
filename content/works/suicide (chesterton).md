@@ -23,7 +23,7 @@ tags:
 
 # suicide
 
-*by Chesterton*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
+*by Chesterton*  ·  **Cluster:** [[clusters/joy-·-animals-·-comic-verse-song|Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 
 > A comic ballade whose refrain ('I think I will not hang myself to-day') turns the contemplation of death into a celebration of life's small wonders.
@@ -34,13 +34,13 @@ tags:
 
 ## Connections
 
-**Historical References:** [[French Revolution]]
+**Historical References:** [[historical-references/french-revolution|French Revolution]]
 
-**Motifs:** [[Gallows]]
+**Motifs:** [[motifs/gallows|Gallows]]
 
-**Topoi:** [[Carpe Diem]]
-**Themes & Concepts:** [[Mortality]], [[Joy]], [[Wonder and Gratitude]], [[Satire of Society]], [[Despair]], [[Suicide]]
-**Forms & Genres:** [[Ballad Ballade]], [[Lyric]], [[Comic Verse Song]]
+**Topoi:** [[topoi/carpe-diem|Carpe Diem]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/joy|Joy]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/satire-of-society|Satire of Society]], [[concepts/despair|Despair]], [[concepts/suicide|Suicide]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/lyric|Lyric]], [[forms/comic-verse-song|Comic Verse Song]]
 
 ## Testo integrale / Full text
 

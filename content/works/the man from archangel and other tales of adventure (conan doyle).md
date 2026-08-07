@@ -26,16 +26,16 @@ tags:
   - archetype/outsider
   - archetype/trickster
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Gothic and Supernatural · Terror and Horror · The Unseen]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/gothic-and-supernatural-·-terror-and-horror-·-the-unseen|Gothic and Supernatural · Terror and Horror · The Unseen]]
 
 > [!abstract] 
 > A miscellany opening with adventure tales — including a young officer outwitted and then forgiven by his own disguised general in the Sudan, and a recluse's uneasy encounter with a mysterious woman on the Yorkshire moors — followed by a separate suite of medical-life stories drawn from Doyle's own experience as a doctor. Together the tales range from imperial derring-do and Gothic unease to the everyday drama of the surgery.
 
 ## Connections
 
-**Forms & Genres:** [[Short Story]], [[Adventure Fiction]]
-**Themes & Concepts:** [[Empire and Imperialism]], [[Terror and Horror]], [[Courage]], [[Secrecy and Concealment]], [[Rationalism]]
-**Motifs:** [[Uncanny]], [[Secrets]], [[Storm]], [[Night]]
-**Historical References:** [[British Empire]]
-**Settings:** [[Africa]], [[Rural England]]
-**Archetypes:** [[Hero]], [[Outsider]], [[Trickster]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/adventure-fiction|Adventure Fiction]]
+**Themes & Concepts:** [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/courage|Courage]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/rationalism|Rationalism]]
+**Motifs:** [[concepts/uncanny|Uncanny]], [[motifs/secrets|Secrets]], [[motifs/storm|Storm]], [[motifs/night|Night]]
+**Historical References:** [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/africa|Africa]], [[settings/rural-england|Rural England]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/outsider|Outsider]], [[archetypes/trickster|Trickster]]

@@ -44,7 +44,7 @@ tags:
   - character/mr_venus
 ---
 
-*by Dickens*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
+*by Dickens*  ·  **Cluster:** [[clusters/city-·-london-·-theatrum-mundi|City · London · Theatrum Mundi]]
 
 > [!abstract] 
 > Dickens's last completed novel, organised around the Thames and the Harmon dust-mounds; central themes are money and inheritance, the corrupting power of wealth, false identity and rebirth, social pretension, and redemption through love and self-knowledge.
@@ -64,14 +64,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Sleeper Awakes]]
-**Archetypes:** [[Self-Made Man]], [[Villain]], [[Double Doppelganger]]
-**Motifs:** [[Money and Gold]], [[Dust]], [[River]], [[Water]], [[City]], [[Concealment Hidden Identity]]
-**Themes & Concepts:** [[Greed and Money]], [[Power and Corruption]], [[Satire of Society]], [[Class Conflict]], [[Identity]], [[Appearance vs Reality]], [[Grace and Redemption]], [[Romantic Love]], [[Social Injustice]], [[Deception]], [[Economics]]
-**Forms & Genres:** [[Novel]], [[Social Novel (Novel of Manners)]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]], [[River Thames]]
-**Characters:** [[John Harmon]], [[Bella Wilfer]], [[Lizzie Hexam]], [[Eugene Wrayburn]], [[Bradley Headstone]], [[Nicodemus Boffin]], [[Silas Wegg]], [[Jenny Wren]], [[Mr Venus]]
+**Topoi:** [[topoi/sleeper-awakes|Sleeper Awakes]]
+**Archetypes:** [[archetypes/self-made-man|Self-Made Man]], [[archetypes/villain|Villain]], [[archetypes/double-doppelganger|Double Doppelganger]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/dust|Dust]], [[motifs/river|River]], [[motifs/water|Water]], [[motifs/city|City]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]]
+**Themes & Concepts:** [[concepts/greed-and-money|Greed and Money]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/satire-of-society|Satire of Society]], [[concepts/class-conflict|Class Conflict]], [[concepts/identity|Identity]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/romantic-love|Romantic Love]], [[concepts/social-injustice|Social Injustice]], [[concepts/deception|Deception]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/london|London]], [[settings/river-thames|River Thames]]
+**Characters:** [[characters/john-harmon|John Harmon]], [[characters/bella-wilfer|Bella Wilfer]], [[characters/lizzie-hexam|Lizzie Hexam]], [[characters/eugene-wrayburn|Eugene Wrayburn]], [[characters/bradley-headstone|Bradley Headstone]], [[characters/nicodemus-boffin|Nicodemus Boffin]], [[characters/silas-wegg|Silas Wegg]], [[characters/jenny-wren|Jenny Wren]], [[characters/mr-venus|Mr Venus]]
 
 ## Testo integrale / Full text
 

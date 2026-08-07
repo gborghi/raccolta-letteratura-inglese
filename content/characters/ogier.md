@@ -14,4 +14,10 @@ Ogier, one of the three Danish earls; the grim berserker of destruction.
 
 <div class="concept-works" data-slug="characters/ogier"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-ballad-of-the-white-horse-(chesterton)|The Ballad of the White Horse (Chesterton)]]
+
+</div>
+
 #graph/character

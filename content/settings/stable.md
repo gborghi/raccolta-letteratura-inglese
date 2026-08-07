@@ -14,4 +14,10 @@ The crude, animal-fouled shelter where Christ is born, reimagined by the poem as
 
 <div class="concept-works" data-slug="settings/stable"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/house-(chesterton)|house (Chesterton)]]
+
+</div>
+
 #graph/setting

@@ -34,7 +34,7 @@ ON TREVES
 
 ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE”
 
-ON THE “BUCOLICS” OF [[Virgil|VIRGIL]], A CAFÉ IN [[Paris|PARIS]], THE LENGTH OF ESSAYS, PHŒBUS, BACCHUS, A WANTON MAID, AND OTHER MATTERS
+ON THE “BUCOLICS” OF [[historical-references/virgil|VIRGIL]], A CAFÉ IN [[settings/paris|PARIS]], THE LENGTH OF ESSAYS, PHŒBUS, BACCHUS, A WANTON MAID, AND OTHER MATTERS
 
 ON TITLES
 
@@ -94,7 +94,7 @@ This Governor of Egypt “was remarkable for a great sensibility of heart.” Mo
 
 “The pleasures permitted him by law were far from satisfying him.” There comes in the minor note. After that grand opening, after that crash upon the organ, “remarkable” — even among lovers, still questing lovers — the tone softens to our common dream. It is the weeping of Achilles, it is the sleep of Charlemagne, it is the dog of Ulysses — it is that domestic lesser something in the hero which is common to us all. There are laws: especially laws divine. They permit us this and that — the more gratitude to them. But, oh! my friends, the things they fend away! “Visitors are requested not to touch,” says the ordinance in the bazaar; though it also has a sign above it “Entry free,” and the same is true of this world. You may desire — desire is put quite lavishly at your disposition. But when it comes to enjoyment, there are restrictions, little friend.
 
-Achmet was, I take it, from his name, employment and longitude (and latitude) (30° 2” N., 31° 16” E. — or thereabouts — I date from Greenwich, not from [[Paris]] or the Azores) a servant of Mahound and his law, the Mahoundish law. He might drink no wine — except champagne, if you call that a wine. No liqueur except crême de Menthe. No beer of the Franks. He might not (I understand — but this may be mere legend) exceed four wives. The pastime of divorce was open to him only under certain limitations: for instance, he had to return the dowers. He was under the law. And though this same law gave him much to delight his soul, gardens and good food, adventure, praise and a sort of monotonous music sung through the nose, horseback riding and camel-back riding, the dawn, the sea, the moon, and day and night, and the iron titles of the night — yet was he not satisfied. Nay, these things were far from satisfying him, says the text. For he desired what the law does not forbid, indeed, but also cannot give. He sought the great human converse, the plenitude, the deep embrace. Therefore, did his great soul starve and weaken, and attempt recovery again if only to pursue what never yet was attained: the quarry that fails the hunter, the pearl that slips back into the sea. The law did its best. It said: “I am for your good. I desire your happiness. Come, you may play with dolls and go a walk after lessons,” but he turned away and sickened. “He was far from satisfied.” He had heard the fairy horn. He had caught the savour of what content might be: a hint, a summons; and “he was far from satisfied.”
+Achmet was, I take it, from his name, employment and longitude (and latitude) (30° 2” N., 31° 16” E. — or thereabouts — I date from Greenwich, not from [[settings/paris|Paris]] or the Azores) a servant of Mahound and his law, the Mahoundish law. He might drink no wine — except champagne, if you call that a wine. No liqueur except crême de Menthe. No beer of the Franks. He might not (I understand — but this may be mere legend) exceed four wives. The pastime of divorce was open to him only under certain limitations: for instance, he had to return the dowers. He was under the law. And though this same law gave him much to delight his soul, gardens and good food, adventure, praise and a sort of monotonous music sung through the nose, horseback riding and camel-back riding, the dawn, the sea, the moon, and day and night, and the iron titles of the night — yet was he not satisfied. Nay, these things were far from satisfying him, says the text. For he desired what the law does not forbid, indeed, but also cannot give. He sought the great human converse, the plenitude, the deep embrace. Therefore, did his great soul starve and weaken, and attempt recovery again if only to pursue what never yet was attained: the quarry that fails the hunter, the pearl that slips back into the sea. The law did its best. It said: “I am for your good. I desire your happiness. Come, you may play with dolls and go a walk after lessons,” but he turned away and sickened. “He was far from satisfied.” He had heard the fairy horn. He had caught the savour of what content might be: a hint, a summons; and “he was far from satisfied.”
 
 “He wanted to meet with a return of love.” Only that? My word, Achmet, you were easily pleased! You desired the wealth that is beyond the world: not only did you desire it, you claimed it as a matter of course. You wondered why you had it not, you thought it your due: your rightful food — this thing unknown to all the exiled sons of Pithecanthropus, this lost serene of Eden! The simple words give it in its high simplicity. “He wanted.” Well! We also want, and we may go on wanting.
 
@@ -402,7 +402,7 @@ As one goes up the valley, one may still see upon one of the sandstone slabs of 
 
 There is also in the heart of the town something which the people may well boast of as a mark of their Western inheritance. It is the first of the Gothic churches of Germany.
 
-It came surprisingly early. Suger had planted, during the Second Crusade, three miles north of the Gate of [[Paris]], the aboriginal pointed arch from which so vast a revolution in architecture was to spring. You get the cathedral of Notre Dame, and the whole movement of the Ile de France. But this little church, right up against the tremendous cathedral of the Dark Ages, this little church here, hundreds of miles away from the Gallic origin of such things, was begun actually within a hundred years of Suger’s innovation! St. Louis was still a boy, and so was Henry III of England, when the first stones of the delicate thing were laid here in Treves. How European and civilised a place it was in those days!
+It came surprisingly early. Suger had planted, during the Second Crusade, three miles north of the Gate of [[settings/paris|Paris]], the aboriginal pointed arch from which so vast a revolution in architecture was to spring. You get the cathedral of Notre Dame, and the whole movement of the Ile de France. But this little church, right up against the tremendous cathedral of the Dark Ages, this little church here, hundreds of miles away from the Gallic origin of such things, was begun actually within a hundred years of Suger’s innovation! St. Louis was still a boy, and so was Henry III of England, when the first stones of the delicate thing were laid here in Treves. How European and civilised a place it was in those days!
 
 And talking of this church, I came upon something there even more astonishing than its early witness to the Western spirit of Treves. Immediately to the left of the choir I also found a witness of the endurance of civilisation in Treves — a thing of, I suppose, the other day — a little statue in freestone, of the most heavenly sort: what the will of an English king prettily called “Mariolam quemdam”— “some little Madonna or other.”
 
@@ -458,7 +458,7 @@ It is inspiration. That word was justly framed. It would seem that among the few
 
 Thêsouo en Lukiês eureiês pioni dêmps.”]
 
-When I read that I see what I think Flaxman saw, the sunlight on the Ægean, the Asian hills, and the fertile plain between; I feel the warmer air. Yet is there not one word which describes these things, unless you except the common word and symbol which says that Lycia is rich. Tennyson did it too: “And the moon was full.” So did Byron: “The moon is up and yet it is not night.” So did Shakespeare in “gentle and low an excellent thing in women.” So did [[Virgil]]: “Et inania regna.” So do they all.
+When I read that I see what I think Flaxman saw, the sunlight on the Ægean, the Asian hills, and the fertile plain between; I feel the warmer air. Yet is there not one word which describes these things, unless you except the common word and symbol which says that Lycia is rich. Tennyson did it too: “And the moon was full.” So did Byron: “The moon is up and yet it is not night.” So did Shakespeare in “gentle and low an excellent thing in women.” So did [[historical-references/virgil|Virgil]]: “Et inania regna.” So do they all.
 
 But Molière in The Misanthrope did it all the time. It is not single lines (though I have quoted one); it is the whole river of the thing, high in flood-tide, up to the top of its banks, broad, deep, majestic, and upon a scale to which (one would have thought) mere man could never reach.
 
@@ -466,7 +466,7 @@ All that!
 
 For two hours, hearing this thing, I was quite outside the world; and the memory of it is a possession which should endure, I think, for ever; by which word I mean, even beyond the limitations of this life. But therein I may be wrong.
 
-ON THE “BUCOLICS” OF [[Virgil|VIRGIL]], A CAFÉ IN PARIS, THE LENGTH OF ESSAYS, PHŒBUS, BACCHUS, A WANTON MAID, AND OTHER MATTERS
+ON THE “BUCOLICS” OF [[historical-references/virgil|VIRGIL]], A CAFÉ IN PARIS, THE LENGTH OF ESSAYS, PHŒBUS, BACCHUS, A WANTON MAID, AND OTHER MATTERS
 
 A FRUITFUL SUBJECT for discussion in these days of war, foreign and civil, ruin, approaching pestilence, eclipse and veiling of the gods, is the proper place in which to read the Bucolics of the poet Virgil.
 
@@ -1544,7 +1544,7 @@ This Governor of Egypt “was remarkable for a great sensibility of heart.” Mo
 
 “The pleasures permitted him by law were far from satisfying him.” There comes in the minor note. After that grand opening, after that crash upon the organ, “remarkable” — even among lovers, still questing lovers — the tone softens to our common dream. It is the weeping of Achilles, it is the sleep of Charlemagne, it is the dog of Ulysses — it is that domestic lesser something in the hero which is common to us all. There are laws: especially laws divine. They permit us this and that — the more gratitude to them. But, oh! my friends, the things they fend away! “Visitors are requested not to touch,” says the ordinance in the bazaar; though it also has a sign above it “Entry free,” and the same is true of this world. You may desire — desire is put quite lavishly at your disposition. But when it comes to enjoyment, there are restrictions, little friend.
 
-Achmet was, I take it, from his name, employment and longitude (and latitude) (30° 2” N., 31° 16” E. — or thereabouts — I date from Greenwich, not from [[Paris]] or the Azores) a servant of Mahound and his law, the Mahoundish law. He might drink no wine — except champagne, if you call that a wine. No liqueur except crême de Menthe. No beer of the Franks. He might not (I understand — but this may be mere legend) exceed four wives. The pastime of divorce was open to him only under certain limitations: for instance, he had to return the dowers. He was under the law. And though this same law gave him much to delight his soul, gardens and good food, adventure, praise and a sort of monotonous music sung through the nose, horseback riding and camel-back riding, the dawn, the sea, the moon, and day and night, and the iron titles of the night — yet was he not satisfied. Nay, these things were far from satisfying him, says the text. For he desired what the law does not forbid, indeed, but also cannot give. He sought the great human converse, the plenitude, the deep embrace. Therefore, did his great soul starve and weaken, and attempt recovery again if only to pursue what never yet was attained: the quarry that fails the hunter, the pearl that slips back into the sea. The law did its best. It said: “I am for your good. I desire your happiness. Come, you may play with dolls and go a walk after lessons,” but he turned away and sickened. “He was far from satisfied.” He had heard the fairy horn. He had caught the savour of what content might be: a hint, a summons; and “he was far from satisfied.”
+Achmet was, I take it, from his name, employment and longitude (and latitude) (30° 2” N., 31° 16” E. — or thereabouts — I date from Greenwich, not from [[settings/paris|Paris]] or the Azores) a servant of Mahound and his law, the Mahoundish law. He might drink no wine — except champagne, if you call that a wine. No liqueur except crême de Menthe. No beer of the Franks. He might not (I understand — but this may be mere legend) exceed four wives. The pastime of divorce was open to him only under certain limitations: for instance, he had to return the dowers. He was under the law. And though this same law gave him much to delight his soul, gardens and good food, adventure, praise and a sort of monotonous music sung through the nose, horseback riding and camel-back riding, the dawn, the sea, the moon, and day and night, and the iron titles of the night — yet was he not satisfied. Nay, these things were far from satisfying him, says the text. For he desired what the law does not forbid, indeed, but also cannot give. He sought the great human converse, the plenitude, the deep embrace. Therefore, did his great soul starve and weaken, and attempt recovery again if only to pursue what never yet was attained: the quarry that fails the hunter, the pearl that slips back into the sea. The law did its best. It said: “I am for your good. I desire your happiness. Come, you may play with dolls and go a walk after lessons,” but he turned away and sickened. “He was far from satisfied.” He had heard the fairy horn. He had caught the savour of what content might be: a hint, a summons; and “he was far from satisfied.”
 
 “He wanted to meet with a return of love.” Only that? My word, Achmet, you were easily pleased! You desired the wealth that is beyond the world: not only did you desire it, you claimed it as a matter of course. You wondered why you had it not, you thought it your due: your rightful food — this thing unknown to all the exiled sons of Pithecanthropus, this lost serene of Eden! The simple words give it in its high simplicity. “He wanted.” Well! We also want, and we may go on wanting.
 
@@ -1571,7 +1571,7 @@ Su Achmet Boulee Bey
 
 C’è un libro. Io ne ho uno, stampato nel 1806. Fu compilato (piuttosto che scritto) da un prete di campagna il quale, come mi dice sulla pagina del titolo, aveva questi obiettivi: “Accrescere la conoscenza, promuovere la virtù, scoraggiare il vizio e fornire argomenti per conversazioni innocenti e intelligenti.”
 
-# Pagina 208
+Pagina 208
 
 Il Pacha Achmet Boulee Bey, governatore d’Egitto, era caratterizzato da una grande sensibilità d’animo. I piaceri che la legge gli permetteva di godere non lo soddisfacevano affatto; desiderava trovare qualcuno che ricambiasse il suo amore, e per questo aveva raccolto, a un costo considerevole, un numeroso harem, nella speranza di incontrare una donna non solo capace di ispirare amore, ma anche in grado di percepirne tutta la forza e l’intensità. Tuttavia, tra le mille duecento donne circasse, georgiane e greche che aveva acquistato in diversi momenti, non ne trovò nessuna che possedesse queste qualità.
 
@@ -1583,7 +1583,7 @@ Questo Governatore d'Egitto “era notevole per una grande sensibilità d’anim
 
 “I piaceri che la legge gli permetteva erano lontani dall’appagarlo.” Ecco entrare in scena quella nota più delicata. Dopo quell’apertura grandiosa, dopo quel momento di intensità emotiva, il tono si addolcisce, tornando al nostro sogno comune. È il pianto di Achille, è il sonno di Carlo Magno, è il cane di Ulisse. È quella parte “umana” del eroe, quella che tutti noi possediamo. Esistono leggi, soprattutto leggi divine: ci permettono questo o quell’altro, e per questo dobbiamo essere loro grati. Ma, oh amici miei, quali cose invece vengono escluse da queste leggi! “Si prega i visitatori di non toccare”, recita l’avviso nel bazaar, anche se sopra c’è scritto “Entrata gratuita”; lo stesso vale per questo mondo. Puoi desiderare, il desiderio ti viene offerto generosamente. Ma quando si tratta di godere, ci sono delle restrizioni, piccolo amico mio.
 
-Achmet, a giudicare dal suo nome, dalla sua professione e dalle sue coordinate geografiche (30° 2” N., 31° 16” E. – o più o meno – posso dedurre che provenisse da Greenwich, non da [[Paris|Parigi]] né dalle Azzorre), era un servitore di Mahound e della sua legge, la legge mahoundita. Non poteva bere vino, se non lo champagne, purché si possa considerare vino; nessun liquore, tranne il crème de Menthe; nessuna birra dei Franchi. Non gli era permesso avere più di quattro mogli. Il divorzio era possibile solo entro determinati limiti: doveva restituire le dote ricevute. Era soggetto a quella legge. E sebbene essa gli offrisse giardini, cibo delizioso, avventure, lodi e una sorta di musica monotona cantata attraverso il naso, cavalcare cavalli o cammelli, l’alba, il mare, la luna, non era comunque soddisfatto. Anzi, queste cose erano lontane dal renderlo felice, afferma il testo. Desiderava qualcosa che quella legge non proibiva, ma nemmeno poteva dargli. Cercava quel grande rapporto umano, quella pienezza, quell’abbraccio profondo. E così la sua anima grande soffriva e si indeboliva, tentando ancora di raggiungere ciò che mai era stato ottenuto: la preda che sfugge al cacciatore, la perla che ritorna nel mare. La legge faceva del suo meglio. Diceva: “Sono per il tuo bene. Desidero la tua felicità. Vieni, puoi giocare con le bambole e fare una passeggiata dopo la scuola, ” Ma lui si allontanava, disgustato. “Era lontano dal essere soddisfatto, ” Aveva sentito il suono della tromba fatata. Aveva assaporato ciò che poteva rappresentare la felicità: un indizio, una chiamata. Ma “era lontano dal essere soddisfatto”.
+Achmet, a giudicare dal suo nome, dalla sua professione e dalle sue coordinate geografiche (30° 2” N., 31° 16” E. – o più o meno – posso dedurre che provenisse da Greenwich, non da [[settings/paris|Parigi]] né dalle Azzorre), era un servitore di Mahound e della sua legge, la legge mahoundita. Non poteva bere vino, se non lo champagne, purché si possa considerare vino; nessun liquore, tranne il crème de Menthe; nessuna birra dei Franchi. Non gli era permesso avere più di quattro mogli. Il divorzio era possibile solo entro determinati limiti: doveva restituire le dote ricevute. Era soggetto a quella legge. E sebbene essa gli offrisse giardini, cibo delizioso, avventure, lodi e una sorta di musica monotona cantata attraverso il naso, cavalcare cavalli o cammelli, l’alba, il mare, la luna, non era comunque soddisfatto. Anzi, queste cose erano lontane dal renderlo felice, afferma il testo. Desiderava qualcosa che quella legge non proibiva, ma nemmeno poteva dargli. Cercava quel grande rapporto umano, quella pienezza, quell’abbraccio profondo. E così la sua anima grande soffriva e si indeboliva, tentando ancora di raggiungere ciò che mai era stato ottenuto: la preda che sfugge al cacciatore, la perla che ritorna nel mare. La legge faceva del suo meglio. Diceva: “Sono per il tuo bene. Desidero la tua felicità. Vieni, puoi giocare con le bambole e fare una passeggiata dopo la scuola, ” Ma lui si allontanava, disgustato. “Era lontano dal essere soddisfatto, ” Aveva sentito il suono della tromba fatata. Aveva assaporato ciò che poteva rappresentare la felicità: un indizio, una chiamata. Ma “era lontano dal essere soddisfatto”.
 
 “Voleva incontrare qualcuno che gli restituisse l’amore.” Solo questo? Mio Dio, Achmet, eri davvero facile da soddisfare. Desideravi quella ricchezza che va oltre il mondo: non solo la desideravi, ma la consideravi anche tua di diritto. Ti chiedevi perché non la possedessi, pensavi fosse qualcosa che ti spettasse. Il tuo cibo legittimo. Quella cosa sconosciuta a tutti i figli esiliati di Pithecanthropus, quella tranquillità perduta dell’Eden. Queste semplici parole descrivono tutto con la loro massima essenzialità: “Voleva.” Beh. Anche noi vogliamo, e possiamo continuare a volere.
 
@@ -1639,7 +1639,7 @@ Well, what could be simpler than to have a class (even if it were but half an ho
 
 <span class="qlang-split" data-lang="it"></span>
 
-#Su una riforma educativa
+Su una riforma educativa
 
 Poiché siamo determinati (io no, ma tutti i miei colleghi sembrano esserlo) che sia sorto un nuovo mondo; poiché quindi tutte le istituzioni possono essere riformate a piacimento, credo che nell’educazione dei bambini ricchi possa avvenire una riforma che era ormai attesa da molti anni.
 
@@ -1793,11 +1793,11 @@ Nevertheless, I return to my original judgment; kind hearts are more than corone
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Cuori gentili valgono più di qualsiasi corona
+Cuori gentili valgono più di qualsiasi corona
 
 È vero. Ma quando un amico mi fece notare che Cash rappresentava molto di più che semplicemente cuori gentili, ho formulato questa idea in una frase per me stesso, così:
 
-# Denaro > Cuori gentili > Corone
+Denaro > Cuori gentili > Corone
 
 E rimase seduto a fissarlo per molto tempo, fino a quando non suscitò in me altri pensieri.
 
@@ -1829,11 +1829,11 @@ E “tra un sonno e l’altro” è poesia, così come “La nostra breve vita �
 
 Anche la poesia, e questa frase scolpita nel granito, sono profondamente vere.
 
-# Amore è piacere, onore è dovere
+Amore è piacere, onore è dovere
 
 Che cito ancora e ancora; anche se suppongo che molte persone diranno che non si tratta affatto di Poesia, e che non possa esserlo, perché è scritta in una lingua straniera. Beh! Beh!
 
-# Anche questo…
+Anche questo…
 
 Onore morto, alla fine, prevale sull’amore.
 
@@ -1897,7 +1897,7 @@ The Mumbo-Jumbo of the learned is indeed the very life of all teaching, of all a
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Su Mumbo-Jumbo
+Su Mumbo-Jumbo
 
 Il “Mumbo-Jumbo” è quel sistema di governo basato su elementi morti, falsi e irrazionali; un sistema disprezzabile per chi è libero e indegno di qualsiasi autorità. Eppure il “Mumbo-Jumbo” rappresenta l’ingrediente più necessario in ogni forma di governo.
 
@@ -2005,7 +2005,7 @@ For the most part, these enormous, foolish, ill-motived accretions are honest en
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Sulle note a piè di pagina
+Sulle note a piè di pagina
 
 È piacevole considerare le varie forme di menzogna, perché tale studio mette in evidenza l’ingegnosità creativa dell’uomo e al contempo offre lo spettacolo divertente della vittima ingannata. Il tipo di menzogna che, tra quelle meno gravi, mi ha divertito di più è l’utilizzo delle note a piè di pagina nella storia moderna.
 
@@ -2021,7 +2021,7 @@ Un esempio eccellente di entrambi questi trucchi combinati in Gibbon è la famos
 
 Questo particolare esempio classico del “Nota a piè di pagina maliziosa” merita di essere citato. Ecco le parole in questione: “Il famigerato Giorgio di Cappadocia è stato trasformato nel rinomato San Giorgio d’Inghilterra.”
 
-# E ecco la nota a piè di pagina
+E ecco la nota a piè di pagina
 
 Questa trasformazione non viene considerata assolutamente certa, ma estremamente probabile. Si veda Longueruana, Tom., vol. I.
 
@@ -2157,7 +2157,7 @@ So the whole thing may be summed up in a sentence that runs in my head more or l
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Alcune parole gentili per Mammon
+Alcune parole gentili per Mammon
 
 Un mio amico una volta scrisse una parabola (“e se queste parole dovessero cadere sotto i suoi occhi”, ecc.). Non l’ho mai vista trascritta per iscritto; forse è stata scritta, ma nella sua forma orale era più o meno così (come mi fu raccontata).
 
@@ -2236,7 +2236,7 @@ As one goes up the valley, one may still see upon one of the sandstone slabs of 
 
 There is also in the heart of the town something which the people may well boast of as a mark of their Western inheritance. It is the first of the Gothic churches of Germany.
 
-It came surprisingly early. Suger had planted, during the Second Crusade, three miles north of the Gate of [[Paris]], the aboriginal pointed arch from which so vast a revolution in architecture was to spring. You get the cathedral of Notre Dame, and the whole movement of the Ile de France. But this little church, right up against the tremendous cathedral of the Dark Ages, this little church here, hundreds of miles away from the Gallic origin of such things, was begun actually within a hundred years of Suger’s innovation! St. Louis was still a boy, and so was Henry III of England, when the first stones of the delicate thing were laid here in Treves. How European and civilised a place it was in those days!
+It came surprisingly early. Suger had planted, during the Second Crusade, three miles north of the Gate of [[settings/paris|Paris]], the aboriginal pointed arch from which so vast a revolution in architecture was to spring. You get the cathedral of Notre Dame, and the whole movement of the Ile de France. But this little church, right up against the tremendous cathedral of the Dark Ages, this little church here, hundreds of miles away from the Gallic origin of such things, was begun actually within a hundred years of Suger’s innovation! St. Louis was still a boy, and so was Henry III of England, when the first stones of the delicate thing were laid here in Treves. How European and civilised a place it was in those days!
 
 And talking of this church, I came upon something there even more astonishing than its early witness to the Western spirit of Treves. Immediately to the left of the choir I also found a witness of the endurance of civilisation in Treves — a thing of, I suppose, the other day — a little statue in freestone, of the most heavenly sort: what the will of an English king prettily called “Mariolam quemdam”— “some little Madonna or other.”
 
@@ -2251,7 +2251,7 @@ These are the things that our generation has seen and that posterity will not be
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Su Treves
+Su Treves
 
 Mentre mi trovavo nella piazza del mercato di Treviri l’altro giorno, dopo una assenza di sette anni (e la guerra che c’è stata nel frattempo), non potei fare a meno di chiedermi se – ora che la situazione in Europa è cambiata – la città non potesse riacquistare quella gloria che, se solo ne fossero consapevoli, possiedono queste città tedesche: la loro tradizione unica; le loro qualità particolari; il loro orgoglio per il passato.
 
@@ -2271,7 +2271,7 @@ Salendo lungo la valle, è ancora possibile vedere, su una delle lastre di arena
 
 C'è anche, nel cuore della città, qualcosa di cui la gente può andare fiera come segno del proprio retaggio occidentale: si tratta della prima chiesa gotica della Germania.
 
-Arrivò sorprendentemente presto. Durante la Seconda Crociata, Suger fece costruire, tre miglia a nord della Porta di [[Paris|Parigi]], quell’arco a sesto acuto che avrebbe dato origine a una rivoluzione nell’architettura: da esso nacque la cattedrale di Notre Dame e l’intero sviluppo urbanistico dell’Île de France. Ma questa piccola chiesa, situata proprio accanto alla maestosa cattedrale del Medioevo, centinaia di miglia lontana dalle origini galliche di tali architetture, fu costruita soltanto un secolo dopo l’invenzione di Suger! Quando furono posate le prime pietre di questa delicata struttura a Treviri, San Luigi era ancora un bambino, così come Enrico III d’Inghilterra. Quanto fosse europeo e civile quel luogo in quei tempi.
+Arrivò sorprendentemente presto. Durante la Seconda Crociata, Suger fece costruire, tre miglia a nord della Porta di [[settings/paris|Parigi]], quell’arco a sesto acuto che avrebbe dato origine a una rivoluzione nell’architettura: da esso nacque la cattedrale di Notre Dame e l’intero sviluppo urbanistico dell’Île de France. Ma questa piccola chiesa, situata proprio accanto alla maestosa cattedrale del Medioevo, centinaia di miglia lontana dalle origini galliche di tali architetture, fu costruita soltanto un secolo dopo l’invenzione di Suger! Quando furono posate le prime pietre di questa delicata struttura a Treviri, San Luigi era ancora un bambino, così come Enrico III d’Inghilterra. Quanto fosse europeo e civile quel luogo in quei tempi.
 
 E parlando di questa chiesa, ho scoperto lì qualcosa di ancora più sorprendente rispetto al suo ruolo storico nel rappresentare lo spirito occidentale di Treviri. Subito a sinistra del coro ho trovato un altro esempio della tenacia della civiltà a Treviri: una piccola statua in pietra bianca, di tipo assolutamente “celestiale”. La volontà di un re inglese l’aveva bellamente chiamata “Mariolam quemdam”, cioè “una qualche piccola Madonna”.
 
@@ -2296,7 +2296,7 @@ These two creations, the one in stone, the other in The Verb, are, so far as I k
 
 They praise the Giralda of Seville, the great tower outside the Cathedral, and they are right. But they are wrong when they praise it with a more or less conscious motive of crying up Islam and running down their own blood. The beauty of the Giralda is not an Islamic beauty, though Islam built the most of it. It is what it is because Europe repairs and finishes. If you doubt it you may go and look at its twin tower, the great Tower of Hassan on the Hill above Rabat. That huge brown tower at Rabat looks over the Atlantic Seas, towards its sister, the Giralda: an imperfect thing looking at a perfected thing: a thing essentially weak because not permanent, looking at a symbol of permanence: a thing destined to ruin looking at a thing destined to life. And I say in the maugre of the teeth of those with whom I disagree that the Giralda would not be the Giralda but for its Christian cap. However, there it stands, useful at least as a contrast. For if the Giralda be very beautiful (as it is), what is it compared to the Cathedral itself? That building can never be excelled. Our race once, in one great moment of three centuries, reached its highest level. We shall hardly return to such a summit.
 
-The Gallic spirit had created the Gothic; the unfathomed suggestion of the perfect ogive, of the uplifted arch of 60 degrees, had spread from [[Paris]] outward; it had built all the ring of great shrines — Chartres, Beauvais, Amiens, Rheims. It was proceeding in outer circles to Britain, and even to the Rhine and beyond, and on through the Reconquista, southwards, shooting up Burgos like a fire, and planting the nobility of Oviedo and Leon, when the Christian cavalry entered Seville and began the last and the noblest of all those things. What a mood of making, what an enlarging passion to produce and to form and to express, must have possessed the men who through those centuries completed that thing! It is everything from the thirteenth century to the Reyes Catolicos; it is everything from St. Ferdinand to Ferdinand and Isabella.
+The Gallic spirit had created the Gothic; the unfathomed suggestion of the perfect ogive, of the uplifted arch of 60 degrees, had spread from [[settings/paris|Paris]] outward; it had built all the ring of great shrines — Chartres, Beauvais, Amiens, Rheims. It was proceeding in outer circles to Britain, and even to the Rhine and beyond, and on through the Reconquista, southwards, shooting up Burgos like a fire, and planting the nobility of Oviedo and Leon, when the Christian cavalry entered Seville and began the last and the noblest of all those things. What a mood of making, what an enlarging passion to produce and to form and to express, must have possessed the men who through those centuries completed that thing! It is everything from the thirteenth century to the Reyes Catolicos; it is everything from St. Ferdinand to Ferdinand and Isabella.
 
 Castille rode in and made this marvellous thing. I wonder what Aragon would have done? Often, as I have gone down the banks of that torrent, which is also a god, and which gave its name to a mighty kingdom, often, as I have gone down the gorge of the Pyrenees with the Aragon tumbling at my side, I have meditated upon its spirit; broader, I think, less piercing, with more grasp, less thrust, than the chivalry to the west, than the raiders of Castille; suffused, I think, with the Catalan spirit (though they would hate to be told it), and in some way at once less solemn and yet more solid. That was Aragon.
 
@@ -2327,7 +2327,7 @@ Queste due creazioni, una in pietra e l'altra nel Verbo, sono, per quanto ne so,
 
 Lodano la Giralda di Siviglia, quella grande torre situata fuori dalla Cattedrale, e hanno ragione. Ma sbagliano quando lo fanno con un intento più o meno consapevole di esaltare l’Islam e denigrare la propria cultura. La bellezza della Giralda non è una bellezza islamica, anche se gran parte di essa è stata costruita dall’Islam; essa è ciò che è grazie ai lavori di riparazione e completamento effettuati in Europa. Se ne dubitate, potete andare a vedere la sua torre gemella: la grande Torre di Hassan situata sulla collina sopra Rabat. Quella enorme torre marrone a Rabat domina l’Oceano Atlantico, guardando verso la sua “sorella”, la Giralda: una cosa imperfetta che osserva qualcosa di perfetto; una cosa essenzialmente debole perché non permanente, che guarda un simbolo di permanenza; una cosa destinata alla rovina, che guarda qualcosa destinato alla vita. E dico, nonostante le opinioni contrarie, che la Giralda non sarebbe ciò che è senza il suo cappello cristiano. Tuttavia, eccola lì, utile almeno come contrasto. Perché, se la Giralda è davvero molto bella (e lo è), cosa rappresenta rispetto alla Cattedrale stessa? Quell’edificio non può essere superato. La nostra razza, una volta, in un grande momento di tre secoli, raggiunse il suo apice; difficilmente torneremo a tale livello.
 
-Lo spirito gallico aveva dato vita al gotico; quell’idea inesplorata della perfetta ogiva, di quell’arco sollevato di 60 gradi, si era diffusa da [[Paris|Parigi]] verso l’esterno; aveva costruito tutti quei grandi santuari: Chartres, Beauvais, Amiens, Reims. Quel movimento artistico si era poi esteso fino alla Britannia, e persino al Reno e oltre; attraverso la Reconquista, si era diffuso verso sud, facendo sorgere città come Burgos, e plasmando la nobiltà di Oviedo e León. Fu allora che la cavalleria cristiana entrò a Siviglia, dando inizio all’ultima e più nobile delle imprese artistiche di quel periodo. Che spirito creativo, che passione travolgente doveva possedere chi, nel corso di quei secoli, realizzò tutto ciò! Quello fu il risultato dell’opera di persone che vanno da San Ferdinando fino ai Re Cattolici; fu l’espressione di un’epoca che va dal XIII secolo fino a quel momento storico.
+Lo spirito gallico aveva dato vita al gotico; quell’idea inesplorata della perfetta ogiva, di quell’arco sollevato di 60 gradi, si era diffusa da [[settings/paris|Parigi]] verso l’esterno; aveva costruito tutti quei grandi santuari: Chartres, Beauvais, Amiens, Reims. Quel movimento artistico si era poi esteso fino alla Britannia, e persino al Reno e oltre; attraverso la Reconquista, si era diffuso verso sud, facendo sorgere città come Burgos, e plasmando la nobiltà di Oviedo e León. Fu allora che la cavalleria cristiana entrò a Siviglia, dando inizio all’ultima e più nobile delle imprese artistiche di quel periodo. Che spirito creativo, che passione travolgente doveva possedere chi, nel corso di quei secoli, realizzò tutto ciò! Quello fu il risultato dell’opera di persone che vanno da San Ferdinando fino ai Re Cattolici; fu l’espressione di un’epoca che va dal XIII secolo fino a quel momento storico.
 
 Castiglia intervenne e realizzò questa cosa meravigliosa. Mi chiedo cosa avrebbe fatto Aragon. Spesso, mentre scendevamo lungo le rive di quel torrente – che è anch’esso un “dio” e dal quale ha preso il nome un grande regno – mentre attraversavo la gola dei Pirenei con l’Aragona al mio fianco, riflettevo sul suo spirito: più vasto, forse, meno tagliente, ma più deciso e concreto rispetto alla cavalleria dell’Ovest, rispetto ai predoni di Castiglia. Penso che fosse permeato dello spirito catalano (anche se loro lo negherebbero), e in qualche modo, al contempo, meno solenne, ma più solido. Quello era l’Aragona.
 
@@ -2368,7 +2368,7 @@ It is inspiration. That word was justly framed. It would seem that among the few
 
 Thêsouo en Lukiês eureiês pioni dêmps.”]
 
-When I read that I see what I think Flaxman saw, the sunlight on the Ægean, the Asian hills, and the fertile plain between; I feel the warmer air. Yet is there not one word which describes these things, unless you except the common word and symbol which says that Lycia is rich. Tennyson did it too: “And the moon was full.” So did Byron: “The moon is up and yet it is not night.” So did Shakespeare in “gentle and low an excellent thing in women.” So did [[Virgil]]: “Et inania regna.” So do they all.
+When I read that I see what I think Flaxman saw, the sunlight on the Ægean, the Asian hills, and the fertile plain between; I feel the warmer air. Yet is there not one word which describes these things, unless you except the common word and symbol which says that Lycia is rich. Tennyson did it too: “And the moon was full.” So did Byron: “The moon is up and yet it is not night.” So did Shakespeare in “gentle and low an excellent thing in women.” So did [[historical-references/virgil|Virgil]]: “Et inania regna.” So do they all.
 
 But Molière in The Misanthrope did it all the time. It is not single lines (though I have quoted one); it is the whole river of the thing, high in flood-tide, up to the top of its banks, broad, deep, majestic, and upon a scale to which (one would have thought) mere man could never reach.
 
@@ -2376,9 +2376,9 @@ All that!
 
 For two hours, hearing this thing, I was quite outside the world; and the memory of it is a possession which should endure, I think, for ever; by which word I mean, even beyond the limitations of this life. But therein I may be wrong.
 
-ON THE “BUCOLICS” OF [[Virgil|VIRGIL]], A CAFÉ IN [[Paris|PARIS]], THE LENGTH OF ESSAYS, PHŒBUS, BACCHUS, A WANTON MAID, AND OTHER MATTERS
+ON THE “BUCOLICS” OF [[historical-references/virgil|VIRGIL]], A CAFÉ IN [[settings/paris|PARIS]], THE LENGTH OF ESSAYS, PHŒBUS, BACCHUS, A WANTON MAID, AND OTHER MATTERS
 
-A FRUITFUL SUBJECT for discussion in these days of war, foreign and civil, ruin, approaching pestilence, eclipse and veiling of the gods, is the proper place in which to read the Bucolics of the poet [[Virgil]].
+A FRUITFUL SUBJECT for discussion in these days of war, foreign and civil, ruin, approaching pestilence, eclipse and veiling of the gods, is the proper place in which to read the Bucolics of the poet [[historical-references/virgil|Virgil]].
 
 Some would suggest a pastoral scene — a rising mound near some clear river, or even the shade of a beech. Others a library brown with age, dusty, and (please God) all the windows shut; oaken also, the roof not high, the whole cut up into little compartments each with a wicket-gate as libraries should be. Others would suggest bed — though that connotes a complete acquaintance with the text. Others a railway journey, for on such an occasion the mind is well cut off from interference by modern things: that is, supposing the railway journey to be a fast one between two very distant points — for there is no more distracting passage of time than a journey in a slow train which stops at every station.
 
@@ -2386,9 +2386,9 @@ Others have suggested ship-board, which seems to me simply silly. For, apart fro
 
 And so on. It is a weighty matter for discussion, and one that can never end, because it all turns upon an individual whim.
 
-But for my part the place where I like to read the Bucolics of Virgil is at a table outside the door of a certain café facing the Bourse in [[Paris]]; a table in the open air. The time of day in which this exercise most pleases me is about two o’clock of an early summer afternoon.
+But for my part the place where I like to read the Bucolics of Virgil is at a table outside the door of a certain café facing the Bourse in [[settings/paris|Paris]]; a table in the open air. The time of day in which this exercise most pleases me is about two o’clock of an early summer afternoon.
 
-As to why this should be so, I cannot tell. Locke would explain it perhaps by his “Association of Ideas”; but Locke is dead and gone. Perhaps once in boyhood, just in that place or in such a place, I first was struck by the beauty of such and such a line. At any rate, that is the place where now it pleases me to read the immortal stuff: a certain café opposite the Bourse in [[Paris]], sitting at a table in the open air, in summer, with the book before me on a marble slab. There do I best receive within my mind (aided by a crib) the noble outlines of the Appennine, the Lombard Plain, the long shadows at evening, the bleating of the flock.
+As to why this should be so, I cannot tell. Locke would explain it perhaps by his “Association of Ideas”; but Locke is dead and gone. Perhaps once in boyhood, just in that place or in such a place, I first was struck by the beauty of such and such a line. At any rate, that is the place where now it pleases me to read the immortal stuff: a certain café opposite the Bourse in [[settings/paris|Paris]], sitting at a table in the open air, in summer, with the book before me on a marble slab. There do I best receive within my mind (aided by a crib) the noble outlines of the Appennine, the Lombard Plain, the long shadows at evening, the bleating of the flock.
 
 Some little way before me, as I read, the howling mob, which clamours all afternoon, buying and selling round the colonnade of the Bourse, continues its surge. Individual voices at that distance are lost; all you hear is the sea of human avarice and folly in its violence confused.
 
@@ -2414,7 +2414,7 @@ Titolo:
 
 “Questi sono i nostri pionieri in Luciano”.
 
-Quando lo leggo, vedo ciò che penso sia stato visto da Flaxman: la luce del sole sull’Egeo, le colline asiatiche e la fertile pianura tra loro; percepisco anche quell’aria più calda. Eppure non esiste una singola parola in grado di descrivere tutto ciò, a meno che non si utilizzi quella parola comune e simbolica che indica quanto sia ricca la Licia. Anche Tennyson lo fece: “E la luna era piena”. Lo stesso fecero Byron: “La luna è alta in cielo, ma non è ancora notte”. Lo fece anche Shakespeare in “gentle and low, an excellent thing in women”. Lo fece anche [[Virgil|Virgilio]]: “Et inania regna”. Tutti loro lo hanno fatto.
+Quando lo leggo, vedo ciò che penso sia stato visto da Flaxman: la luce del sole sull’Egeo, le colline asiatiche e la fertile pianura tra loro; percepisco anche quell’aria più calda. Eppure non esiste una singola parola in grado di descrivere tutto ciò, a meno che non si utilizzi quella parola comune e simbolica che indica quanto sia ricca la Licia. Anche Tennyson lo fece: “E la luna era piena”. Lo stesso fecero Byron: “La luna è alta in cielo, ma non è ancora notte”. Lo fece anche Shakespeare in “gentle and low, an excellent thing in women”. Lo fece anche [[historical-references/virgil|Virgilio]]: “Et inania regna”. Tutti loro lo hanno fatto.
 
 Ma Molière, ne “Il misantropo”, lo faceva continuamente. Non si tratta di singole frasi (anche se ne ho citata una); si tratta dell’intero flusso della rappresentazione, in piena piena marea, che raggiunge il culmine delle sue rive: ampio, profondo, maestoso, e su una scala tale che (si sarebbe potuto pensare) l’uomo comune non avrebbe mai potuto raggiungerla.
 
@@ -2422,9 +2422,9 @@ Tutto ciò!
 
 Per due ore, ascoltando queste cose, sono stato completamente fuori dal mondo; e il ricordo di quell’esperienza è qualcosa che, penso, dovrebbe durare per sempre. Intendo dire, anche al di là dei limiti di questa vita. Ma forse mi sbaglio.
 
-Sulle “Bucoliche” di [[Virgil|Virgilio]], un caffè a [[Paris|Parigi]], la lunghezza degli saggi, Phoebus, Bacchus, una ragazza dissoluta, e altre cose.
+Sulle “Bucoliche” di [[historical-references/virgil|Virgilio]], un caffè a [[settings/paris|Parigi]], la lunghezza degli saggi, Phoebus, Bacchus, una ragazza dissoluta, e altre cose.
 
-Un argomento molto appropriato per la discussione in questi tempi di guerra, straniera e civile, rovina, minaccia di pestilenza, eclissi e oscuramento degli dei, è il luogo giusto in cui leggere le Bucoliche del poeta [[Virgil|Virgilio]].
+Un argomento molto appropriato per la discussione in questi tempi di guerra, straniera e civile, rovina, minaccia di pestilenza, eclissi e oscuramento degli dei, è il luogo giusto in cui leggere le Bucoliche del poeta [[historical-references/virgil|Virgilio]].
 
 Alcuni suggerirebbero una scena pastorale: un tumulo che si erge vicino a un fiume limpido, o anche l’ombra di un faggio. Altri penserebbero a una biblioteca ingrigita dal tempo, polverosa e, per favore Dio, con tutte le finestre chiuse; costruita in quercia, con il soffitto non troppo alto, divisa in piccoli compartimenti, ognuno con una porticina: così dovrebbero essere le biblioteche. Altri ancora penserebbero a un letto, anche se questo suggerisce una conoscenza approfondita del testo. Ancora altri immaginerebbero un viaggio in treno, perché in tale occasione la mente è completamente isolata da ogni distrazione legata alle cose moderne, purché si tratti di un viaggio veloce tra due punti molto lontani: infatti, non c’è modo più noioso per passare il tempo di un viaggio in treno lento che si ferma a ogni stazione.
 
@@ -2432,9 +2432,9 @@ Altri hanno suggerito di utilizzare il ponte della nave, ma a mio parere questa 
 
 E così via. È un argomento importante da discutere, e uno che non potrà mai concludersi, perché tutto dipende da un capriccio individuale.
 
-Per quanto mi riguarda, il luogo dove preferisco leggere le “Bucoliche” di Virgilio è un tavolo all’aperto, fuori dalla porta di un certo caffè situato di fronte alla Borsa a [[Paris|Parigi]]; un tavolo all’aria aperta. Il momento della giornata in cui questo piacere raggiunge il suo apice è verso le due del pomeriggio, in una calda giornata d’inizio estate.
+Per quanto mi riguarda, il luogo dove preferisco leggere le “Bucoliche” di Virgilio è un tavolo all’aperto, fuori dalla porta di un certo caffè situato di fronte alla Borsa a [[settings/paris|Parigi]]; un tavolo all’aria aperta. Il momento della giornata in cui questo piacere raggiunge il suo apice è verso le due del pomeriggio, in una calda giornata d’inizio estate.
 
-Per quanto riguarda il motivo per cui sia così, non posso dirlo. Forse Locke lo spiegherebbe con la sua “Associazione delle Idee”; ma Locke è morto e se n’è andato. Forse, una volta da ragazzo, proprio in quel luogo o in un luogo simile, fui colpito per la prima volta dalla bellezza di una certa frase. Comunque sia, è proprio lì che ora mi piace leggere quelle opere immortali: in un certo caffè di fronte alla Borsa a [[Paris|Parigi]], seduto a un tavolo all’aperto, d’estate, con il libro davanti a me su una lastra di marmo. È lì che riesco meglio ad assorbire nella mia mente quelle nobili immagini: i contorni degli Appennini, la Pianura Lombarda, le lunghe ombre al tramonto, il belato delle greggi.
+Per quanto riguarda il motivo per cui sia così, non posso dirlo. Forse Locke lo spiegherebbe con la sua “Associazione delle Idee”; ma Locke è morto e se n’è andato. Forse, una volta da ragazzo, proprio in quel luogo o in un luogo simile, fui colpito per la prima volta dalla bellezza di una certa frase. Comunque sia, è proprio lì che ora mi piace leggere quelle opere immortali: in un certo caffè di fronte alla Borsa a [[settings/paris|Parigi]], seduto a un tavolo all’aperto, d’estate, con il libro davanti a me su una lastra di marmo. È lì che riesco meglio ad assorbire nella mia mente quelle nobili immagini: i contorni degli Appennini, la Pianura Lombarda, le lunghe ombre al tramonto, il belato delle greggi.
 
 Un po’ più avanti di me, mentre leggevo, la folla urlante che per tutto il pomeriggio gridava, comprando e vendendo intorno alla colonnata della Borsa, continuava la sua avanzata. A quella distanza, le voci individuali si perdevano nel caos; ciò che si udiva era soltanto l’oceano dell’avidità e della follia umana, nella sua violenza e confusione.
 
@@ -2445,7 +2445,7 @@ Perché mai questo singolo atto di bassezza, il rumore delle persone che compran
 <span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_03" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 3)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="histref/virgil,setting/paris"></span>
 
 
-I wondered only this year as I re-read the heavenly poet in that place (opposite the Bourse in [[Paris]], the Vile Stock Exchange) whether the advance of barbarism might not produce — and that in a very few years — a generation to whom all these lines will be as tedious as is Corneille to the educated Englishman of to-day.
+I wondered only this year as I re-read the heavenly poet in that place (opposite the Bourse in [[settings/paris|Paris]], the Vile Stock Exchange) whether the advance of barbarism might not produce — and that in a very few years — a generation to whom all these lines will be as tedious as is Corneille to the educated Englishman of to-day.
 
 I can imagine men still reasonably cultivated, still in part acquainted with the Latin tongue, and yet fallen into such a degraded mood that only here and there some specially vivid picture or some piece of stronger rhetoric in the Eclogues shall touch them, while the rest will appear mechanical, dry stuff. For there is a degree of descent in the mind after which the magic of verse disappears; and that sacred quality whereby — none can tell how — a particular disposition of words stirs the mind in a fashion that is to common experience what music is to speech, and what colour is to form, no longer effects its purpose.
 
@@ -2465,7 +2465,7 @@ and make no more of it than “Passengers must cross the line by the bridge. Pen
 
 * * * * *
 
-If the modern world resembled that ancient one of which the echoes, as I lay down my [[Virgil]], still move my mind, I should here complete, I should here end. For I have said all that I have to say. And a very good thing it would be if the modern world resembled the ancient world in this as in many other things. Their books were ten thousand words long, or twenty thousand words long, or fifty thousand words long, or a hundred thousand words long. They had not to conform to a special length. And so it was with that which they wrote down, as I am writing this, at random, a vagary of the mind.
+If the modern world resembled that ancient one of which the echoes, as I lay down my [[historical-references/virgil|Virgil]], still move my mind, I should here complete, I should here end. For I have said all that I have to say. And a very good thing it would be if the modern world resembled the ancient world in this as in many other things. Their books were ten thousand words long, or twenty thousand words long, or fifty thousand words long, or a hundred thousand words long. They had not to conform to a special length. And so it was with that which they wrote down, as I am writing this, at random, a vagary of the mind.
 
 But the modern world differs from the ancient world, and there is a law that an essay such as this (essay, forsooth!) should reach a certain length.
 
@@ -2500,7 +2500,7 @@ He did indeed produce a most glorious library of books, collected, if you rememb
 
 <span class="qlang-split" data-lang="it"></span>
 
-Solo quest’anno, rileggendo le opere di quel poeta celeste in quel luogo (di fronte alla Borsa di [[Paris|Parigi]], quella orribile Borsa valori), mi sono chiesto se l’avanzamento del barbarismo potesse non produrre – e in pochissimi anni – una generazione per cui tutte queste parole risultassero altrettanto noiose quanto le opere di Corneille lo sono oggi per l’inglese colto.
+Solo quest’anno, rileggendo le opere di quel poeta celeste in quel luogo (di fronte alla Borsa di [[settings/paris|Parigi]], quella orribile Borsa valori), mi sono chiesto se l’avanzamento del barbarismo potesse non produrre – e in pochissimi anni – una generazione per cui tutte queste parole risultassero altrettanto noiose quanto le opere di Corneille lo sono oggi per l’inglese colto.
 
 Posso immaginare uomini ancora abbastanza coltivati, ancora in parte familiari con la lingua latina, eppure caduti in uno stato di declino tale che solo di tanto in tanto qualche immagine particolarmente vivida o qualche passaggio retorico più incisivo delle Ecloghe riesce a toccarli; il resto, invece, sembra loro materiale meccanico e privo di vita. Esiste infatti un grado di decadenza mentale dopo il quale la magia della poesia scompare; e quella qualità sacra che – in modo inspiegabile – permette a una determinata disposizione delle parole di commuovere l’animo, come la musica fa con il discorso o i colori con le forme, non riesce più ad esercitare il proprio effetto.
 
@@ -2514,13 +2514,13 @@ La verità è che, quando si cerca di criticare certe enormità moderne, gli str
 
 Si può prendere una palla da cricket con la mano; si può maneggiare un galleggiante sferico lungo dieci piedi con l’ausilio di una gru. Ma come si fa ad affrontare una massa rotonda che si estende per diverse miglia? Come possiamo gestire montagne di incompetenza? E come la critica può approcciarsi a quegli ultimi nuovi stili letterari che rimangono indifferenti alle tradizioni del passato? Temo che la critica non sia affatto in grado di farlo. Se una persona si sente così, beh, si sente proprio così, e non c’è nulla che si possa dire al riguardo. E se un giorno dovesse arrivare il momento in cui le persone leggeranno.
 
-# Inizia, sembrava un bambino, e poi riconobbe sua madre, ridendo…
+Inizia, sembrava un bambino, e poi riconobbe sua madre, ridendo…
 
 E non fareci più niente di più che scrivere: “I passeggeri devono attraversare la linea tramite il ponte. Multa di 5 sterline”, ecco fatto! Le cose hanno il loro momento di ascesa e il loro momento di declino. Ma prima che arrivi quel giorno, possa la terra coprirmi.
 
 * * * * *
 
-Se il mondo moderno assomigliasse a quello antico, di cui gli echi, mentre leggo le opere di [[Virgil|Virgilio]], continuano ancora ad affascinare la mia mente, allora qui terminerei davvero il mio discorso. Perché ho detto tutto ciò che avevo da dire. E sarebbe davvero una cosa positiva se il mondo moderno assomigliasse al mondo antico in questo, come in molte altre cose. I loro libri avevano diecimila parole, ventimila parole, cinquantamila parole, o addirittura centomila parole; non dovevano rispettare alcuna lunghezza prestabilita. E allo stesso modo avveniva con ciò che scrivevano: erano semplicemente riflessioni casuali della loro mente, scritte senza alcun obiettivo preciso.
+Se il mondo moderno assomigliasse a quello antico, di cui gli echi, mentre leggo le opere di [[historical-references/virgil|Virgilio]], continuano ancora ad affascinare la mia mente, allora qui terminerei davvero il mio discorso. Perché ho detto tutto ciò che avevo da dire. E sarebbe davvero una cosa positiva se il mondo moderno assomigliasse al mondo antico in questo, come in molte altre cose. I loro libri avevano diecimila parole, ventimila parole, cinquantamila parole, o addirittura centomila parole; non dovevano rispettare alcuna lunghezza prestabilita. E allo stesso modo avveniva con ciò che scrivevano: erano semplicemente riflessioni casuali della loro mente, scritte senza alcun obiettivo preciso.
 
 Ma il mondo moderno è diverso dal mondo antico, e c'è una regola secondo cui un saggio del genere dovrebbe raggiungere una certa lunghezza.
 
@@ -2538,7 +2538,7 @@ Ma in fondo, questa non è poi una traduzione così sbagliata rispetto a quella 
 
 E poiché ho già iniziato a citare, perché non continuare?
 
-#"Malo me Galatea, piccola e lussuriosa ragazza..."
+"Malo me Galatea, piccola e lussuriosa ragazza..."
 
 E fuggì verso i salici, desideroso di vederli prima ancora che apparissero.
 
@@ -2546,7 +2546,7 @@ Puoi, se vuoi, applicare queste parole a te stesso esattamente come ho fatto io 
 
 E davvero non mi viene in mente nulla altro da dire; devo concludere qui. Ma mentre scrivo, mentre scrivo, un ruscello scende dalle montagne, una ragazza fugge oltre gli alberi di salice.
 
-# Su i titoli
+Su i titoli
 
 In quelle lunghe liste che il divino Rabelais si divertiva a comporre, e con le quali ha ispirato molti uomini diversi – tra cui Charles Kingsley, Besant e anche quel notevole storico York Powell – c’è una lista che, a volte penso, Rabelais avesse intenzione di scrivere ma non lo fece mai; si tratta della lista dei libri che potrebbero essere scritti al fine di promuovere il progresso e il divertimento dell’umanità.
 
@@ -2625,7 +2625,7 @@ Il nostro pasto mattutino è quasi pronto
 
 “E presto si dirà anche che è stata una questione di grazia.”
 
-# Lord Archibald si sarebbe abbassato la testa
+Lord Archibald si sarebbe abbassato la testa
 
 E versano lacrime calde nel suo piatto…
 
@@ -2683,7 +2683,7 @@ Spesso mi chiedo cosa accadrà a questa enorme struttura fatta di carte. Croller
 
 Nel frattempo, a beneficio di quella posterità, coloro che tra alcuni secoli leggeranno queste parole immortali (nei pochi esempi sopravvissuti di prosa inglese per le scuole di quell’epoca), io registro ufficialmente e confermo solennemente quanto segue: oggi esistono esattamente due onorificenze che tutti gli inglesi desidererebbero davvero ottenere, e solo due. Sebbene quasi tutti desiderino un onore, ci sono comunque due onori che tutti anelano ad avere. Uno è la doppia lettera K.G., l’altro è la doppia lettera V.C. Ma possono continuare a desiderarli, poiché molto pochi di loro riusciranno ad ottenerli. Quello che desideriamo in questa vita e ciò che effettivamente otteniamo sono cose molto diverse.
 
-# Sui versi scadenti
+Sui versi scadenti
 
 Tornare ai versi mal scritti ***
 
@@ -2859,7 +2859,7 @@ Lì, in una sola frase, sono descritti i passi dei Pirenei: le alte cime solenni
 
 Ricordo un idiota che, per dimostrare come Omero fosse sopravvalutato, prendeva ad esempio il “Catalogo delle Navi” e diceva: “Comunque, non si può certo definire poesia, ” Il che dimostrava che non aveva la minima idea di cosa fosse la poesia.
 
-# Quarantacinque volte il dolore
+Quarantacinque volte il dolore
 
 “E quaranta navi oscure lo seguirono.”
 
@@ -2939,7 +2939,7 @@ Suppongo che dovessero essere poeti, perché venivano definiti tali e ricevevano
 
 Di tutte le vanità, tranne quella della virtù, questa è sicuramente la più orgogliosa che un uomo possa esibire.
 
-# Convincere le persone
+Convincere le persone
 
 Ho appena finito di studiare i “Provincials” di Pascal: sono pieni di menzogne e errori. Non riuscirebbero nemmeno a convincere il lettore più ignorante se venissero seriamente confrontati con i documenti originali contro cui Pascal li attaccò. Ma nessun lettore lo ha mai fatto. Lo scopo della mia lettura dei testi di Pascal era proprio quello di smascherarne le falsità; quindi, su un piccolo palcoscenico, ho cercato di fare ciò che Pascal fece su uno grande: convincere le persone. Con una sola differenza: Pascal doveva convincere soltanto coloro che già concordavano con lui riguardo a un’affermazione falsa, ovvero che la casuistica fosse immorale; io, invece, ho cercato di convincere coloro che, ad eccezione di Maynard e Derome, erano fermamente in disaccordo con me, riguardo a una verità: ovvero che la casuistica sia allo stesso tempo morale e necessaria.
 
@@ -3066,7 +3066,7 @@ It is thus a breach of the rules to impute what are called “unworthy motives�
 
 So deep-rooted is this love of controversy that one of its favourite playing-fields is what one would imagine to be sacred ground, to wit, the security and happiness of one’s own country. Jones has only to say that he wants his country to win in some war of life and death, for Brown, tempted by so admirable an occasion, to come up on the other side. But what does Brown do? Do you suppose he says, “I want my country to perish?” Not a bit of it; that would not be controversy at all, and, what is more, it would be an impossible position for Brown to take up, considering that Brown, by the very fact that he is conducting such a controversy, is stamping his chief national characteristic all over himself. So what Brown does is to show how defeat would ultimately enhance the glory and increase the strength of the country. Both parties agree to this special limited area of operations, and within it they spar round and round and round. Meanwhile, the real war goes on, no harm is done at home, and the nation wins or loses without a link between that awful reality of war and the spillikin-match at home.
 
-It is very difficult to define where victory in this game of controversy lies. It depends to some extent, like victory in any other game, upon fatigue, or lack of attention. I had a controversy in the “Times Literary Supplement” many years ago about the Battle of Evesham with another person who apparently knew less about it than I did. After the special pleading and nonsense had gone on through five or six moves I quoted Matthew [[Paris]]. My opponent (who wore a mask and a long cloak) came in with a heavy blow, showing that Matthew [[Paris]] was dead when the Battle of Evesham was fought. Now, the counter-blow to this was as easy as falling off a log. Your spectator (for whose benefit these newspaper duels are fought) would naturally say, “This is final!” What he did not know was that there is a continuation of Matthew [[Paris]], commonly called under the same name, which does deal with the Battle of Evesham. All I had to do was to write another letter (which I am sure the courteous Editor would have printed, seeing that he got all this for nothing), pointing out with the utmost good feeling, tact, etc., that my opponent was swindling, and, by using a false technical term, deceiving the populace. “Matthew Paris” (I should have said) “is a conventional term for the original chronicle and its continuation as a whole, and it is ‘a poor trick of controversy’” (I love that phrase; it is one of the seasoned and rooted phrases) “to confuse the general reader with false references.” Did I make such a reply? Did I write that letter to the “Times Literary Supplement”? Not I! I was smitten with an intense desire to go to Belgium (it was before the war) and study the battlefield of Ramillies, where is sold the worst liquor in the world; and off I went, leaving my opponent the proud and sole victor on that field. I wish to-day I knew who he was. To slay or to be slain by a hooded antagonist is poor fun: it ought to be part of the rules of the theatre for the man to pull off the hood at the end, either from his own glazing eyes or from those of his prostrate victim, whereupon the ladies would recognise to their amazement the features of Sir Guy de Beaurivage or Mr. Hulp, or whoever it might be, and the tourney would end with a feast to the hero after the sentimental burial of the dead.
+It is very difficult to define where victory in this game of controversy lies. It depends to some extent, like victory in any other game, upon fatigue, or lack of attention. I had a controversy in the “Times Literary Supplement” many years ago about the Battle of Evesham with another person who apparently knew less about it than I did. After the special pleading and nonsense had gone on through five or six moves I quoted Matthew [[settings/paris|Paris]]. My opponent (who wore a mask and a long cloak) came in with a heavy blow, showing that Matthew [[settings/paris|Paris]] was dead when the Battle of Evesham was fought. Now, the counter-blow to this was as easy as falling off a log. Your spectator (for whose benefit these newspaper duels are fought) would naturally say, “This is final!” What he did not know was that there is a continuation of Matthew [[settings/paris|Paris]], commonly called under the same name, which does deal with the Battle of Evesham. All I had to do was to write another letter (which I am sure the courteous Editor would have printed, seeing that he got all this for nothing), pointing out with the utmost good feeling, tact, etc., that my opponent was swindling, and, by using a false technical term, deceiving the populace. “Matthew Paris” (I should have said) “is a conventional term for the original chronicle and its continuation as a whole, and it is ‘a poor trick of controversy’” (I love that phrase; it is one of the seasoned and rooted phrases) “to confuse the general reader with false references.” Did I make such a reply? Did I write that letter to the “Times Literary Supplement”? Not I! I was smitten with an intense desire to go to Belgium (it was before the war) and study the battlefield of Ramillies, where is sold the worst liquor in the world; and off I went, leaving my opponent the proud and sole victor on that field. I wish to-day I knew who he was. To slay or to be slain by a hooded antagonist is poor fun: it ought to be part of the rules of the theatre for the man to pull off the hood at the end, either from his own glazing eyes or from those of his prostrate victim, whereupon the ladies would recognise to their amazement the features of Sir Guy de Beaurivage or Mr. Hulp, or whoever it might be, and the tourney would end with a feast to the hero after the sentimental burial of the dead.
 
 Which reminds me of what a shame it is that so much controversy should be anonymous. It was never meant to be so. After all, controversy is conducted for the amusement of the onlookers as well as for, and more than for, the exercise and moral health of the principals, and there is not much fun in an anonymous combat where, for all you know, the opposing parties may really be one and the same person.
 
@@ -3112,7 +3112,7 @@ I know very well why accuracy is such an anxious matter with men. It is because,
 
 So far so good. I know well enough why one bothers so absurdly about accuracy in such details; or, to put it otherwise, why mere slips of the pen and misspellings frighten us so much. But what I do not understand is how and why they take place in subjects which one knows as well as one’s own name.
 
-I remember once writing a long book about [[Paris]]; a long, long book, to pay my first quarter’s rent as a young man. And in that book I found myself perpetually saying “North” when I meant “South” in the matter of the immortal hill — in the matter of the hill of the University. I always talked of going up that hill as going “North,” whereas if you go up that hill you walk due South.
+I remember once writing a long book about [[settings/paris|Paris]]; a long, long book, to pay my first quarter’s rent as a young man. And in that book I found myself perpetually saying “North” when I meant “South” in the matter of the immortal hill — in the matter of the hill of the University. I always talked of going up that hill as going “North,” whereas if you go up that hill you walk due South.
 
 And I knew a man once who whenever he went into a shop to buy razor blades for his patent razor always said “railway blades.” Yet in other respects he was an ordinary man.
 
@@ -3139,7 +3139,7 @@ So molto bene perché l’accuratezza sia una questione così importante per gli
 
 Finora tutto va bene. So abbastanza bene perché si prenda così tanto disturbo per l’accuratezza in dettagli del genere; o, per dirla in un altro modo, perché semplici errori di battitura e errori di ortografia ci spaventino così tanto. Ma quello che non capisco è come e perché questi errori possano verificarsi su argomenti che si conoscono altrettanto bene quanto il proprio nome.
 
-Ricordo che una volta scrissi un libro molto lungo su [[Paris|Parigi]]; un libro davvero molto lungo, per pagare l’affitto del primo trimestre quando ero giovane. In quel libro, mi ritrovavo costantemente a dire “Nord” quando in realtà volevo dire “Sud”, soprattutto riguardo a quella collina immortale, la collina dell’Università. Parlavo sempre di salire su quella collina come se si andasse verso il “Nord”, mentre in realtà, salendola, ci si dirige esattamente verso il “Sud”.
+Ricordo che una volta scrissi un libro molto lungo su [[settings/paris|Parigi]]; un libro davvero molto lungo, per pagare l’affitto del primo trimestre quando ero giovane. In quel libro, mi ritrovavo costantemente a dire “Nord” quando in realtà volevo dire “Sud”, soprattutto riguardo a quella collina immortale, la collina dell’Università. Parlavo sempre di salire su quella collina come se si andasse verso il “Nord”, mentre in realtà, salendola, ci si dirige esattamente verso il “Sud”.
 
 Conoscevo un uomo che, ogni volta che entrava in un negozio per comprare lame da rasoio per il suo rasoio elettrico, diceva sempre “lame da ferrovia”. Tuttavia, in altri aspetti era un uomo ordinario.
 
@@ -3162,7 +3162,7 @@ And inaccuracy is the parent also of that still older and still more immutable s
 
 It was inaccuracy which made the guide-book man so angry at the phrase, “Our Lord God, the Pope,” his translation of “Divus Papa,” put before the title of some canonised pope of the past.
 
-And it was inaccuracy that made the mediæval story-teller talk of the “Emperor Pliny” and of [[Virgil]]’s brazen tower. And what a picture I get of the Emperor Pliny sending for the Magician [[Virgil]] who builds the brazen tower! Inaccuracy is a mighty mother of works.
+And it was inaccuracy that made the mediæval story-teller talk of the “Emperor Pliny” and of [[historical-references/virgil|Virgil]]’s brazen tower. And what a picture I get of the Emperor Pliny sending for the Magician [[historical-references/virgil|Virgil]] who builds the brazen tower! Inaccuracy is a mighty mother of works.
 
 It pleases me also especially in this, that you cannot teach it; you cannot make a man inaccurate. There is no way of becoming inaccurate by industry, and if you deliberately try to be inaccurate you fail. Inaccuracy is perhaps the most spontaneous and the freest of the gifts offered by the Spirit to the wit of man. It is even more spontaneous and more free than the gift of writing good verse, or that rarer gift which I have also written of here — the gift of writing abominably bad verse; exceptionally bad verse; criminally bad verse; execrable verse.
 
@@ -3201,7 +3201,7 @@ E l'imprecisione è anche alla base di quella storia ancora più antica e ancora
 
 Fu proprio l'imprecisione a far arrabbiare tanto quell’uomo che scriveva le guide turistiche riguardo alla frase “Nostro Signore Dio, il Papa”: la sua traduzione, “Divus Papa”, veniva infatti utilizzata prima del nome di alcuni papi canonizzati del passato.
 
-E fu proprio l'imprecisione a far sì che i narratori medievali parlassero dell’“Imperatore Plinio” e della torre di bronzo di [[Virgil|Virgilio]]. Che immagine mi viene in mente: l’Imperatore Plinio che chiama il mago [[Virgil|Virgilio]] affinché costruisca quella torre di bronzo! L’imprecisione è davvero la madre di molte invenzioni.
+E fu proprio l'imprecisione a far sì che i narratori medievali parlassero dell’“Imperatore Plinio” e della torre di bronzo di [[historical-references/virgil|Virgilio]]. Che immagine mi viene in mente: l’Imperatore Plinio che chiama il mago [[historical-references/virgil|Virgilio]] affinché costruisca quella torre di bronzo! L’imprecisione è davvero la madre di molte invenzioni.
 
 Mi piace anche, soprattutto in questo aspetto, il fatto che non si possa insegnare l’imprecisione; non è possibile rendere un uomo impreciso. Non esiste alcun modo per diventare imprecisi attraverso lo sforzo volontario, e se ci si provasse intenzionalmente, fallirebbe. L’imprecisione è forse il dono più spontaneo e libero che lo Spirito offra all’intelligenza umana. È ancora più spontaneo e libero del dono di comporre versi belli, o di quel raro talento di cui ho anche parlato qui: il dono di comporre versi terribilmente brutti, versi estremamente cattivi, addirittura criminalmente scadenti.
 
@@ -3435,7 +3435,7 @@ Ma comunque mi dà fastidio che i miei superiori si comportino in quel modo pres
 
 Ancora una volta, in questo libro ci è stato detto di non dire “Port”, ma “Port Wine”. Ma questo mi porterebbe nella controversia più amara dei tempi moderni; rispetto ad essa, l’antica disputa tra Θεοτὁκοϛ [greco: theotokos] e θεογὁνοϛ [greco: theogonos] sembrerebbe solo una piccola lite tra innamorati. Quindi concludo. Ma parlando di accenti, ho reso correttamente quegli accenti greci? Ne dubito, perché scrivo questo a Wolverhampton, una città lontana da Hellas e che sovrasta completamente gli Alexandrini in termini culturali.
 
-# Sulla verità e l’ammiragliato
+Sulla verità e l’ammiragliato
 
 
 
@@ -3698,7 +3698,7 @@ I have asked myself often enough why the old Egyptians did not take to the sea. 
 
 On the other hand, you find an enormous, volcanic, seafaring energy just where it should not be — on the harbourless coast of the Levant. And it seems certain, to me reading, that those seafarers who kept it up for centuries, the people of Tyre and Sidon, were driven by masterful instinct. It seems possible or even probable that they started from some little islands in the Persian Gulf, and that, for some reason, they came all this way across desert land and began again from other little islands hundreds of miles away upon another sea. Once they had started from the Levantine coast they did everything that the sea makes one do. They explored, and they named. They must have felt the fun of the thing. Commerce can only have been their second motive, though naturally it is the motive we put first to-day.
 
-A learned member of the University of [[Paris]] has shown that most of the inexplicable Greek names of the Mediterranean were but Phœnician names transformed, and they even went out of the tideless sea into the huge unknown swell of the ocean. And they reached, according to one story, those tin-mines which were either off the Spanish coast or in some part of Britain — perhaps Cornwall.
+A learned member of the University of [[settings/paris|Paris]] has shown that most of the inexplicable Greek names of the Mediterranean were but Phœnician names transformed, and they even went out of the tideless sea into the huge unknown swell of the ocean. And they reached, according to one story, those tin-mines which were either off the Spanish coast or in some part of Britain — perhaps Cornwall.
 
 But remark that these people had everything against them. It is silly to say that they were driven to commerce by their geographical position between East and West. It was just the other way. Their geographical position was the worst possible. The splendid harbours which lay some days’ sail to the west of them they knew nothing of. They were on a coast less suited for the shelter of vessels than any in the whole Mediterranean, unless it be the eastern coast of Barbary. They went to sea because a passion seized them for it, because it was in their blood.
 
@@ -3721,7 +3721,7 @@ Mi sono chiesto molte volte perché gli antichi egiziani non si avventurassero i
 
 D'altra parte, si trova un’energia enorme, vulcanica e legata al mare proprio in quel luogo dove non dovrebbe esserci: sulla costa senza porti del Levante. E mi sembra certo che quei marinai che continuarono a praticare questa attività per secoli, il popolo di Tiro e Sidone, fossero guidati da un istinto innato e profondo. Sembra possibile, anzi probabile, che abbiano iniziato dalle piccole isole del Golfo Persico; per qualche motivo, hanno attraversato terre deserte ed hanno ripreso il loro viaggio da altre isole lontane centinaia di miglia, su un altro mare. Una volta partiti dalla costa levantina, hanno fatto tutto ciò che il mare induce a fare: esplorano, danno nomi alle cose. Deve esserci stato per loro un vero piacere in questo processo. Il commercio, probabilmente, è stato solo il loro secondo motivo; anche se oggi naturalmente noi lo consideriamo il motivo principale.
 
-Un accademico dell’Università di [[Paris|Parigi]] ha dimostrato che la maggior parte dei nomi greci inspiegabili relativi al Mediterraneo non erano altro che nomi fenici trasformati; tali nomi, secondo questa teoria, si sono diffusi dal “mare stagnante” del Mediterraneo verso l’immensità sconosciuta dell’oceano. Secondo un’altra ipotesi, questi nomi avrebbero raggiunto quelle miniere di stagno situate al largo della costa spagnola o in alcune zone della Britannia, forse la Cornovaglia.
+Un accademico dell’Università di [[settings/paris|Parigi]] ha dimostrato che la maggior parte dei nomi greci inspiegabili relativi al Mediterraneo non erano altro che nomi fenici trasformati; tali nomi, secondo questa teoria, si sono diffusi dal “mare stagnante” del Mediterraneo verso l’immensità sconosciuta dell’oceano. Secondo un’altra ipotesi, questi nomi avrebbero raggiunto quelle miniere di stagno situate al largo della costa spagnola o in alcune zone della Britannia, forse la Cornovaglia.
 
 Ma bisogna notare che queste persone avevano tutto contro di loro. È assurdo dire che siano state spinte al commercio dalla loro posizione geografica tra Oriente e Occidente: era proprio il contrario. La loro posizione geografica era la peggiore possibile. Non conoscevano affatto i magnifici porti che si trovavano a pochi giorni di navigazione a ovest di loro. Si trovavano su una costa meno adatta alla protezione delle navi di qualsiasi altra nel Mediterraneo, forse tranne la costa orientale della Barberia. Andavano in mare perché una passione li spingeva a farlo, perché era insito nel loro sangue.
 
@@ -3885,7 +3885,7 @@ Next I considered, as I watched that bit of rope, the curious historical fact of
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Lungo le rive dove i nomi rappresentano le vittorie dell’Inghilterra
+Lungo le rive dove i nomi rappresentano le vittorie dell’Inghilterra
 
 In un documento scritto, Newbolt indicò il proprio debitore quando lasciò il paese. Ma oggi questo tipo di pratica è davvero molto rara.
 
@@ -3956,7 +3956,7 @@ A ship is a little world, a little universe, and it has a language of its own, w
 
 I CAME OUT of the sea the other day into a little English harbour and landed there. After I had put away everything on board and left my boat in charge of the old man who looks after her in the tidal lock, I stood waiting outside the railway station till my train should come and take me home. And there it was that I saw a German gun.
 
-They had put it up for a trophy. Never was a war with trophies so promiscuous! Never was a war with trophies so much of an anti-climax! The nearest thing to a real trophy which they have had since this war ended was the great pyramid of guns in the middle of the Champs Elysées, all heaped together pell-mell with the cock crowing on the top of them. But I never see a Bavarian or a Prussian gun stuck up mournfully in a little English town without thinking of the English and French guns which are knocking about somewhere among the German states. And what is more, I never see one without thinking how poor a trophy the modern gun makes; especially the German gun, the carriage of which always reminds me of rather heavy and bad agricultural machinery. I think of the trophies of old, of the fine bronze guns taken in the wars against the French, and of the flags in the churches, and especially that amazing ragged dusty double line of them in the Invalides in [[Paris]], which looks down slantwise through a yellow window and sees, in its solemn gulf below, the huge marble sarcophagus of Napoleon.
+They had put it up for a trophy. Never was a war with trophies so promiscuous! Never was a war with trophies so much of an anti-climax! The nearest thing to a real trophy which they have had since this war ended was the great pyramid of guns in the middle of the Champs Elysées, all heaped together pell-mell with the cock crowing on the top of them. But I never see a Bavarian or a Prussian gun stuck up mournfully in a little English town without thinking of the English and French guns which are knocking about somewhere among the German states. And what is more, I never see one without thinking how poor a trophy the modern gun makes; especially the German gun, the carriage of which always reminds me of rather heavy and bad agricultural machinery. I think of the trophies of old, of the fine bronze guns taken in the wars against the French, and of the flags in the churches, and especially that amazing ragged dusty double line of them in the Invalides in [[settings/paris|Paris]], which looks down slantwise through a yellow window and sees, in its solemn gulf below, the huge marble sarcophagus of Napoleon.
 
 However, there was the gun. And as the time of waiting for a train is the most empty time in the world (because you cannot limit it and you do not know whether it is long enough to start a geometrical problem or some other entertaining pastime), I filled it up by walking round that gun.
 
@@ -3989,7 +3989,7 @@ Una nave è un piccolo mondo, un piccolo universo, e possiede una lingua propria
 
 Un giorno sono uscito dal mare in un piccolo porto inglese e mi sono fermato lì. Dopo aver sistemato tutto a bordo e lasciato la mia barca in cura dell’uomo anziano che se ne occupa nel bacino idrografico, sono rimasto ad aspettare fuori dalla stazione ferroviaria che arrivasse il treno per portarmi a casa. Ed è lì che ho visto un cannone tedesco.
 
-L’avevano esposto come trofeo. Non c’era mai stata una guerra con trofei così “promiscui”, né una guerra con trofei che rappresentassero un vero anticlimax! La cosa più simile a un vero trofeo dopo la fine di questa guerra era quella grande piramide di armi nel mezzo dei Champs-Élysées, tutte ammucchiate insieme, con il gallo che cantava in cima. Ma ogni volta che vedo un cannone bavarese o prussiano esposto in un piccolo paese inglese, non posso fare a meno di pensare ai cannoni inglesi e francesi che probabilmente si trovano da qualche parte tra gli stati tedeschi. Inoltre, ogni volta che li vedo, penso quanto sia povero, come trofeo, il cannone moderno, soprattutto quello tedesco: il suo sistema di trasporto mi ricorda sempre macchinari agricoli pesanti e di scarsa qualità. Penso ai trofei dell’antichità, ai bellissimi cannoni in bronzo conquistati nelle guerre contro i francesi, alle bandiere nelle chiese. E soprattutto a quella strana, disordinata fila di bandiere nel Museo dell’Invalides a [[Paris|Parigi]], che si intravede attraverso una finestra gialla e che, nella sua solenne oscurità, mostra il enorme sarcofago di marmo di Napoleone.
+L’avevano esposto come trofeo. Non c’era mai stata una guerra con trofei così “promiscui”, né una guerra con trofei che rappresentassero un vero anticlimax! La cosa più simile a un vero trofeo dopo la fine di questa guerra era quella grande piramide di armi nel mezzo dei Champs-Élysées, tutte ammucchiate insieme, con il gallo che cantava in cima. Ma ogni volta che vedo un cannone bavarese o prussiano esposto in un piccolo paese inglese, non posso fare a meno di pensare ai cannoni inglesi e francesi che probabilmente si trovano da qualche parte tra gli stati tedeschi. Inoltre, ogni volta che li vedo, penso quanto sia povero, come trofeo, il cannone moderno, soprattutto quello tedesco: il suo sistema di trasporto mi ricorda sempre macchinari agricoli pesanti e di scarsa qualità. Penso ai trofei dell’antichità, ai bellissimi cannoni in bronzo conquistati nelle guerre contro i francesi, alle bandiere nelle chiese. E soprattutto a quella strana, disordinata fila di bandiere nel Museo dell’Invalides a [[settings/paris|Parigi]], che si intravede attraverso una finestra gialla e che, nella sua solenne oscurità, mostra il enorme sarcofago di marmo di Napoleone.
 
 Tuttavia, c'era quella pistola. E poiché l’attesa del treno rappresenta il momento più noioso al mondo (poiché non si può accelerare né rallentare il tempo, e non si sa se sia abbastanza lungo da permettere di iniziare un problema geometrico o qualche altro passatempo divertente), ho cercato di “riempire” quel tempo camminando intorno a quella pistola.
 
@@ -4026,7 +4026,7 @@ If it had had a name I could look back on it, now that I have left it, and say t
 
 But the gun had no name, and so I must still carry it in my mind anonymously as “the German gun.”
 
-Of all the hundreds of guns that I have seen lying about or being carried on trucks or drawn by horses, or standing in the great factories during these years, only one gun has touched me more, and this also was a German gun. I saw it in February, 1915. It lay derelict in a ditch close to the road near the river Ourcq, within an hour of Meaux, and [[Paris]] not forty miles away. It was perhaps the extreme gun of all the invasion; the mark of the high tide. It lay pitifully on one side, like the corpse in Beaudelaire’s poem. One wheel it had not at all, but only the axle sticking up into the air, and the other wheel was rotted into the ground. And there lay the poor dead German gun like a fool.
+Of all the hundreds of guns that I have seen lying about or being carried on trucks or drawn by horses, or standing in the great factories during these years, only one gun has touched me more, and this also was a German gun. I saw it in February, 1915. It lay derelict in a ditch close to the road near the river Ourcq, within an hour of Meaux, and [[settings/paris|Paris]] not forty miles away. It was perhaps the extreme gun of all the invasion; the mark of the high tide. It lay pitifully on one side, like the corpse in Beaudelaire’s poem. One wheel it had not at all, but only the axle sticking up into the air, and the other wheel was rotted into the ground. And there lay the poor dead German gun like a fool.
 
 I said to my companion: “Why does not some one of the peasants take it away and keep it for a relic?” To which my companion answered in the hard French fashion (which differs so much from the more human English way): “Why should he?”
 
@@ -4053,11 +4053,11 @@ Se avesse avuto un nome, ora che l'ho lasciato potrei ripensarci e dire a me ste
 
 Ma quell’arma non aveva un nome, quindi devo ancora ricordarla nella mia mente come “l’arma tedesca”.
 
-Di tutte le centinaia di armi che ho visto negli ultimi anni, abbandonate lungo le strade, trasportate su camion o trainate da cavalli, oppure riposte nelle grandi fabbriche, solo una mi ha colpito profondamente. E anche questa era un’arma tedesca. L’ho vista nel febbraio 1915: giaceva abbandonata in una fossa vicino alla strada, nei pressi del fiume Ourcq, a meno di un’ora da Meaux e non più di quaranta miglia da [[Paris|Parigi]]. Era forse l’esempio più rappresentativo di tutte le armi utilizzate durante quell’invasione. Il simbolo dell’ondata più violenta di quella guerra. Giaceva lì, abbandonata e inutile, come il cadavere descritto nel poema di Baudelaire. Non aveva più una ruota; solo l’asse spuntava verso l’alto, mentre l’altra ruota era completamente marcita e conficcata nel terreno. Quell’arma tedesca, povera e inutile, sembrava davvero un idiota abbandonato in mezzo al nulla.
+Di tutte le centinaia di armi che ho visto negli ultimi anni, abbandonate lungo le strade, trasportate su camion o trainate da cavalli, oppure riposte nelle grandi fabbriche, solo una mi ha colpito profondamente. E anche questa era un’arma tedesca. L’ho vista nel febbraio 1915: giaceva abbandonata in una fossa vicino alla strada, nei pressi del fiume Ourcq, a meno di un’ora da Meaux e non più di quaranta miglia da [[settings/paris|Parigi]]. Era forse l’esempio più rappresentativo di tutte le armi utilizzate durante quell’invasione. Il simbolo dell’ondata più violenta di quella guerra. Giaceva lì, abbandonata e inutile, come il cadavere descritto nel poema di Baudelaire. Non aveva più una ruota; solo l’asse spuntava verso l’alto, mentre l’altra ruota era completamente marcita e conficcata nel terreno. Quell’arma tedesca, povera e inutile, sembrava davvero un idiota abbandonato in mezzo al nulla.
 
 Dissi al mio compagno: “Perché non lo prende qualcuno dei contadini e lo conserva come reliquia?” A cui il mio compagno rispose nel duro modo francese (che differisce molto dal più umano modo inglese): “Perché dovrebbe farlo?”
 
-# Su un fornitore di etichette
+Su un fornitore di etichette
 
 Esiste un gran numero di mestieri nel mondo di cui non si sente parlare, perché le persone non riescono a guadagnarsi da vivere esclusivamente con essi. La maggior parte di questi mestieri è comunque interessante.
 
@@ -4139,7 +4139,7 @@ Abbiamo avuto una lunga e interessante discussione su questo argomento, e temo c
 
 La sua obiezione, stranamente, non riguardava il metro ma la grammatica; inoltre aggiunse qualcosa che ritengo fosse un'altra obiezione assolutamente sciocca, ma che si trova spesso nei critici di buona poesia. Disse che “and so it oughter” creasse una cattiva sintassi con la prima riga. Io risposi che non era così: doveva essere letto in forma ellittica. La frase completa sarebbe stata “And so it ought to be”; gli feci notare inoltre che anche i più grandi poeti avevano utilizzato questa forma ellittica e che essa compariva in migliaia di frasi interessanti. Gli citai, ad esempio, quel meraviglioso ventunesimo sonetto.
 
-# Ho trovato un volto
+Ho trovato un volto
 
 Più bello dei giardini: più desiderato
 
@@ -4171,7 +4171,7 @@ Chiesi poi se fosse lui l’autore di quella famosa filastrocca…
 
 Non vogliamo litigare.
 
-# Ma per Giove, se lo facciamo…
+Ma per Giove, se lo facciamo…
 
 — È uno dei ricordi più felici della mia infanzia. Fu immensamente lusingato, ma dovette negare di essere l’autore.
 
@@ -4237,9 +4237,9 @@ Gli chiesi se utilizzasse un dizionario di rime, come faceva Wordsworth, il gran
 
 Questo è accaduto anni fa. Ho continuato a sperare, contro ogni probabilità, che quel trucco tornasse ad essere utilizzato, ma il tempo è passato e, a quanto pare, il mercato per queste cose è ormai esaurito. E, come ho detto prima, penso anche che quell’uomo anziano sia morto. Ma quanta bene ha fatto nel corso della sua vita. Ed è davvero vero, per lui come per molti altri uomini meno noti, che hanno realizzato molto di più di quanto avessero immaginato, e che la loro ricompensa non è stata proporzionale ai loro successi.
 
-# Su “e, davvero”
+Su “e, davvero”
 
-#"Avventure di occhi scuri: il blu, la serenità..."
+"Avventure di occhi scuri: il blu, la serenità..."
 
 Prometto il Paradiso, e i tuoi occhi sono verdi.
 
@@ -4257,9 +4257,9 @@ Ti sbagli. È un grande piacere per me dirti che ti sbagli.
 
 Anche se la congiunzione “e” svolgesse soltanto questa funzione di permettere alla mente di riposare, potrebbe comunque essere accolta con favore come un “letto”; ma in realtà fa molto di più. Introduce infatti un senso di enfasi, come nella frase commovente: “La loro scelta fu il turbante, e cotto.” Ha anche un effetto elevatore, permettendo di collegare qualcosa al livello del resto; come quando si scrive:
 
-# Nibbity, bibbity, bobbity bo!
+Nibbity, bibbity, bobbity bo!
 
-#E la piccola ciotola marrone—
+E la piccola ciotola marrone—
 
 Brinderemo alla Barley Mow!
 
@@ -4327,7 +4327,7 @@ Gli avversari del segno “e” sostengono che uno stile letterario corretto in 
 
 “E”, ancora una volta, possiede un valore ritmico, proprio come nelle frasi liturgiche o ecclesiastiche.
 
-# Il parroco, il cancelliere e il diavolo… e tutti gli altri
+Il parroco, il cancelliere e il diavolo… e tutti gli altri
 
 — insieme a molte altre strofe che onorano l’immensa ricchezza della letteratura lirica inglese.
 
@@ -4397,7 +4397,7 @@ Notate l’effetto descritto dal veritiero cronista: “Così, con quell’atto 
 
 Ci sono molte le lezioni morali in questa storia; una di esse è che è sciocco crearsi più problemi del necessario. Infatti, se quei vescovi malvagi avessero semplicemente drogato i muli invece di tagliare loro la testa, non ci sarebbe stato alcun miracolo, né gloria per il loro disprezzato collega. Un’altra lezione è che, se qualcosa è vero, bisogna crederci, per quanto possa sembrare sorprendente e improbabile agli occhi di chi non crede. Inoltre, un vescovo ha il diritto di alzarsi più tardi rispetto alle figure inferiori della gerarchia. Ci sono molte altre lezioni; ma mi fermerò qui. Se continuassi, sicuramente finirei per inserire “e” anche nelle mie frasi, cosa che finora sono riuscito a evitare. Il “e”, in realtà, non è affatto necessario.
 
-# L’enciclopedia del truffatore
+L’enciclopedia del truffatore
 
 Ho un amico molto ricco. Ha fatto i suoi soldi per caso durante la guerra. Il governo gli doveva 500 sterline. Un impiegato negligente (che in quel momento stava parlando con una donna seducente) aggiunse tre zeri senza pensarci; quando lui, con modestia, fece notare l’errore, il dipartimento rispose dicendo che non commettevano mai errori. E così la questione rimase irrisolta. Dopo molte esitazioni su come sbarazzarsi di tutti quei soldi, finalmente ha iniziato a fare qualcosa che, secondo me, è davvero molto utile. Vorrei solo che ogni uomo ricco potesse essere ispirato da idee altrettanto preziose, invece di sprecare i propri soldi in giornali, “anime umane” e cibi insipidi nei ristoranti rumorosi.
 
@@ -4581,7 +4581,7 @@ Chi viveva lì? Qual ruolo hanno avuto nella storia dell’umanità? E quando l�
 
 Penso che la maggior parte delle informazioni riguardanti i paesaggi del mondo ci sia stata perduta per sempre.
 
-# Sulla rabbia dei numeri
+Sulla rabbia dei numeri
 
 Conoscevo un uomo che era il rettore del suo college e molto famoso come studioso; infatti, anche se non possedeva grandi conoscenze accademiche, era molto gentile e arguto. Tuttavia, c'era una cosa su cui mai scherzava: il suo odio (che fingeva fosse disprezzo) per i numeri.
 
@@ -4724,7 +4724,7 @@ Anyhow Theocritus is dead, and he wrote in a very young fashion. But he would be
 
 No. The thing is inexplicable. On the other hand, it is extremely useful, as are hunger and thirst and several other little things of the same sort. It is useful to the end of the works of man. If it were not so, what works would man perform at all?
 
-There was a school which had half a dozen adherents in London, and two or three in [[Paris]], genuinely attached to it (and many thousands repeating its formulæ insincerely), and this school said that the artist worked for his own sake or for the sake of art. Heaven knows their productions might have persuaded us even of that impossible theory. They were so bad; so very bad. But the artist, as we all know, does not work for the sake of art, still less for some secret pleasure of his own. He has that pleasure in working. He admires the chance which guides his hand. But his driving motive is fame. It is the driving motive, also, of all the failures — that is, of the great mass of men. And you have this ridiculous paradox about it, that immediate fame is everywhere suspected. Men everywhere have the uneasy sensation that if they are too much praised before death, they will hardly be sufficiently praised afterwards. And it is the longer praise afterwards that they seek. Endurance between the lips of men: The monument of the mind. That is, a fame of which they will know nothing, or for which, even if they know of it, they will hardly care. The poet says (at it again!) —
+There was a school which had half a dozen adherents in London, and two or three in [[settings/paris|Paris]], genuinely attached to it (and many thousands repeating its formulæ insincerely), and this school said that the artist worked for his own sake or for the sake of art. Heaven knows their productions might have persuaded us even of that impossible theory. They were so bad; so very bad. But the artist, as we all know, does not work for the sake of art, still less for some secret pleasure of his own. He has that pleasure in working. He admires the chance which guides his hand. But his driving motive is fame. It is the driving motive, also, of all the failures — that is, of the great mass of men. And you have this ridiculous paradox about it, that immediate fame is everywhere suspected. Men everywhere have the uneasy sensation that if they are too much praised before death, they will hardly be sufficiently praised afterwards. And it is the longer praise afterwards that they seek. Endurance between the lips of men: The monument of the mind. That is, a fame of which they will know nothing, or for which, even if they know of it, they will hardly care. The poet says (at it again!) —
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -4751,7 +4751,7 @@ Comunque sia, Teocrito è morto, e scriveva in uno stile molto semplice e giovan
 
 No. La cosa è inesplicabile. D'altra parte, è estremamente utile, proprio come la fame, la sete e molte altre cose simili. È utile fino al termine stesso delle opere umane. Se non fosse così, quali opere l’uomo realizzerrebbe mai?
 
-C'era una scuola di pensiero che contava mezza dozzina di seguaci a Londra e due o tre a [[Paris|Parigi]], persone sinceramente devote ad essa (mentre migliaia di altre ripetevano le sue idee senza alcun sincero convincimento). Questa scuola sosteneva che l'artista lavorasse per se stesso o per l’arte stessa. Chissà, forse le loro argomentazioni avrebbero potuto convincerci anche di quella teoria impossibile. Ma erano così pessime, davvero terribilmente pessime. L’artista, come tutti sappiamo, non lavora per l’arte, né tantomeno per qualche piacere personale nascosto; trova piacere nel proprio lavoro, ammira la casualità che guida le sue mani. Ma il vero movente che lo spinge è la fama. È lo stesso movente che sta alla base di tutti i fallimenti, cioè della grande maggioranza delle persone. E c’è questo assurdo paradosso: ovunque si sospetta che la fama arrivi troppo rapidamente. Le persone hanno sempre la sensazione angosciante che, se vengono lodate eccessivamente prima di morire, difficilmente verranno lodate a sufficienza dopo. E è proprio questa lode tardiva che cercano disperatamente. La durata delle lodi umane, il monumento dell’intelligenza. Ma si tratta di una fama di cui non sapranno nulla, o per la quale, anche se ne fossero a conoscenza, probabilmente non gliene importerebbe nulla. Il poeta dice ancora una volta.
+C'era una scuola di pensiero che contava mezza dozzina di seguaci a Londra e due o tre a [[settings/paris|Parigi]], persone sinceramente devote ad essa (mentre migliaia di altre ripetevano le sue idee senza alcun sincero convincimento). Questa scuola sosteneva che l'artista lavorasse per se stesso o per l’arte stessa. Chissà, forse le loro argomentazioni avrebbero potuto convincerci anche di quella teoria impossibile. Ma erano così pessime, davvero terribilmente pessime. L’artista, come tutti sappiamo, non lavora per l’arte, né tantomeno per qualche piacere personale nascosto; trova piacere nel proprio lavoro, ammira la casualità che guida le sue mani. Ma il vero movente che lo spinge è la fama. È lo stesso movente che sta alla base di tutti i fallimenti, cioè della grande maggioranza delle persone. E c’è questo assurdo paradosso: ovunque si sospetta che la fama arrivi troppo rapidamente. Le persone hanno sempre la sensazione angosciante che, se vengono lodate eccessivamente prima di morire, difficilmente verranno lodate a sufficienza dopo. E è proprio questa lode tardiva che cercano disperatamente. La durata delle lodi umane, il monumento dell’intelligenza. Ma si tratta di una fama di cui non sapranno nulla, o per la quale, anche se ne fossero a conoscenza, probabilmente non gliene importerebbe nulla. Il poeta dice ancora una volta.
 
 
 
@@ -4787,15 +4787,15 @@ I beg that the poets who read this may seek no quarrel with me. I am not saying 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Ma in quella parte del Cielo dove regna il silenzio…
+Ma in quella parte del Cielo dove regna il silenzio…
 
-# Gli spiriti che ancora ricordano, ascoltano…
+Gli spiriti che ancora ricordano, ascoltano…
 
-#E ancora caldo nel rifugio di casa, ascoltando la voce della terra…
+E ancora caldo nel rifugio di casa, ascoltando la voce della terra…
 
 Ascoltare la terra risuonare del tuo nome.
 
-# Nessuna pace, nessuna forza, nessuna risata potevo offrire
+Nessuna pace, nessuna forza, nessuna risata potevo offrire
 
 Ma questi enormi salari, dopo la morte, per continuare a vivere.
 

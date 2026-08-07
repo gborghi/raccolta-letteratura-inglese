@@ -14,4 +14,10 @@ Wily, world-weary Prime Minister who cynically proposes nationalizing the land t
 
 <div class="concept-works" data-slug="characters/earl-of-eden"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/longbow2-(chesterton)|longbow2 (Chesterton)]]
+
+</div>
+
 #graph/character

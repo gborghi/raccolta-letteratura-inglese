@@ -44,7 +44,7 @@ tags:
   - histref/battle_of_the_marne
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
+*by Chesterton*  ·  **Cluster:** [[clusters/martyrdom-·-martyr-saint-·-cross|Martyrdom · Martyr Saint · Cross]]
 
 > [!abstract] 
 > A narrative ballad set at the WWI Battle of the Marne, interweaving the martyrdom of St Barbara (patron of gunners) with the defence of Paris; a meditation on faith, martyrdom, liberty against tyranny, and sudden death in war.
@@ -55,15 +55,15 @@ tags:
 
 ## Connections
 
-**Characters:** [[Barbara (St Barbara)]], [[Caesar]]
+**Characters:** [[characters/barbara-(st-barbara)|Barbara (St Barbara)]], [[characters/caesar|Caesar]]
 
-**Topoi:** [[Last Stand]], [[Sic Transit Gloria Mundi]], [[War as Glory]]
-**Archetypes:** [[Martyr Saint]], [[Tyrant]], [[Christ Figure]]
-**Motifs:** [[Window]], [[Swords and Weapons]], [[Blood]], [[Light and Dark]], [[Lightning]], [[Chains]], [[Flags and Banners]]
-**Themes & Concepts:** [[Martyrdom]], [[Faith]], [[War and its Cost]], [[Heroism]], [[Freedom and Liberty]], [[Nationalism and Patriotism]], [[Self-Sacrifice]], [[Providence]], [[History]]
-**Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]]
-**Historical References:** [[First World War]], [[Christianity]], [[Ancient Rome]], [[Greek Mythology]], [[Battle of the Marne]]
-**Settings:** [[Battlefield]], [[Paris]], [[Africa]], [[Europe]]
+**Topoi:** [[topoi/last-stand|Last Stand]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/war-as-glory|War as Glory]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/tyrant|Tyrant]], [[archetypes/christ-figure|Christ Figure]]
+**Motifs:** [[motifs/window|Window]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/blood|Blood]], [[motifs/light-and-dark|Light and Dark]], [[motifs/lightning|Lightning]], [[motifs/chains|Chains]], [[motifs/flags-and-banners|Flags and Banners]]
+**Themes & Concepts:** [[concepts/martyrdom|Martyrdom]], [[concepts/faith|Faith]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/heroism|Heroism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/self-sacrifice|Self-Sacrifice]], [[concepts/providence|Providence]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/narrative-poem|Narrative Poem]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/christianity|Christianity]], [[settings/ancient-rome|Ancient Rome]], [[historical-references/greek-mythology|Greek Mythology]], [[historical-references/battle-of-the-marne|Battle of the Marne]]
+**Settings:** [[settings/battlefield|Battlefield]], [[settings/paris|Paris]], [[settings/africa|Africa]], [[settings/europe|Europe]]
 
 ## Testo integrale / Full text
 

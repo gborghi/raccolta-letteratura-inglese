@@ -14,4 +14,13 @@ The German philosopher whose doctrine of the Superman fed directly into Shaw's l
 
 <div class="concept-works" data-slug="characters/friedrich-nietzsche"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/shaw-(chesterton)|Shaw (Chesterton)]]
+- [[works/the-defendant-(chesterton)|The Defendant (Chesterton)]]
+- [[works/theappoftyranny-(chesterton)|TheAppOfTyranny (Chesterton)]]
+- [[works/two-kinds-of-paradox-(chesterton)|Two Kinds of Paradox (Chesterton)]]
+
+</div>
+
 #graph/character

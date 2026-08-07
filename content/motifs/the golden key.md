@@ -14,4 +14,10 @@ The recurring toy-theatre image of a crowned figure with a golden key, which ope
 
 <div class="concept-works" data-slug="motifs/the-golden-key"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/gkc-autobiography-(chesterton)|GKC-Autobiography (Chesterton)]]
+
+</div>
+
 #graph/motif

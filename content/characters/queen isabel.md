@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/queen-isabel"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/richard-ii-(shakespeare)|RICHARD II (Shakespeare)]]
+
+</div>
+
 #graph/character

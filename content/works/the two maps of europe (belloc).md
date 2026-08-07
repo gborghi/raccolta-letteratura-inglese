@@ -27,7 +27,7 @@ tags:
   - character/kaiser_wilhelm_ii
   - topos/life_as_a_battle
 ---
-*by Belloc*  ·  **Cluster:** [[History · Catholicism · Europe]]
+*by Belloc*  ·  **Cluster:** [[clusters/history-·-catholicism-·-europe|History · Catholicism · Europe]]
 
 > [!abstract] 
 > A wartime handbook of six chapters from the winter of 1914-15, analysing the Great War as a contest between a German and an Allied re-drawing of Europe. Belloc surveys the true national groupings of the Continent by tradition, language and religion, arguing the war's stake is the preservation and extension of national liberties.
@@ -42,10 +42,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[History]], [[Nonfiction]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[War and its Cost]], [[Freedom and Liberty]], [[Empire and Imperialism]], [[Liberty]]
-**Motifs:** [[Flag]], [[Battlefield (2)]]
-**Historical References:** [[First World War]], [[Kaiser Wilhelm II]], [[British Empire]]
-**Settings:** [[Continental Europe (Brussels)]], [[Germany]], [[Europe]]
-**Characters:** [[Kaiser Wilhelm II]]
-**Topoi:** [[Life as a Battle]]
+**Forms & Genres:** [[forms/essay|Essay]], [[concepts/history|History]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/liberty|Liberty]]
+**Motifs:** [[motifs/flag|Flag]], [[motifs/battlefield-(2)|Battlefield (2)]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/kaiser-wilhelm-ii|Kaiser Wilhelm II]], [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/continental-europe-(brussels)|Continental Europe (Brussels)]], [[settings/germany|Germany]], [[settings/europe|Europe]]
+**Characters:** [[historical-references/kaiser-wilhelm-ii|Kaiser Wilhelm II]]
+**Topoi:** [[topoi/life-as-a-battle|Life as a Battle]]

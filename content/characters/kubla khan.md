@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/kubla-khan"></div>
 
+<div class="concept-works-fallback">
+
+- [[testi/coleridge/atomized/imagination-fragment-heroic-couplet#159_kubla_khan|KUBLA KHAN (Coleridge)]]
+
+</div>
+
 #graph/character

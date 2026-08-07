@@ -14,4 +14,13 @@ French Revolutionary leader given a vivid sympathetic character portrait in "A C
 
 <div class="concept-works" data-slug="characters/robespierre"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/alarms-and-discursions-(chesterton)|alarms and discursions (Chesterton)]]
+- [[works/introduction-to-'the-romance-of-madame-tussaud's'-(belloc)|Introduction to 'The Romance of Madame Tussaud's' (Belloc)]]
+- [[works/on-anything-(belloc)|On Anything (Belloc)]]
+- [[works/the-french-revolution-(belloc)|The French Revolution (Belloc)]]
+
+</div>
+
 #graph/character

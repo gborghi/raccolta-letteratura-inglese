@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/eleanor-tilney"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/northanger-abbey-(austen)|Northanger Abbey (Austen)]]
+
+</div>
+
 #graph/character

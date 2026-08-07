@@ -14,4 +14,10 @@ The second founding name, credited with fusing intellectual matter with exuberan
 
 <div class="concept-works" data-slug="historical-references/rabelais"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/humour-(chesterton)|Humour (Chesterton)]]
+
+</div>
+
 #graph/histref

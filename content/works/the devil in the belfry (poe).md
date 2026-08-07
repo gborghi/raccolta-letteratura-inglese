@@ -16,7 +16,7 @@ tags:
   - form/satire
 ---
 
-*by Poe*  ·  **Cluster:** [[World Upside Down · Comedy]]
+*by Poe*  ·  **Cluster:** [[clusters/world-upside-down-·-comedy|World Upside Down · Comedy]]
 
 > [!abstract] 
 > A comic satire in which a devilish stranger invades an orderly clockwork Dutch borough and overturns its obsession with time and routine; a burlesque of bourgeois order turned upside down.
@@ -37,11 +37,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[World Upside Down]]
-**Archetypes:** [[Satanic Figure]]
-**Motifs:** [[Clock]], [[Music and Song]]
-**Themes & Concepts:** [[Satire of Society]], [[Order vs Chaos]]
-**Forms & Genres:** [[Satire]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]]
+**Motifs:** [[motifs/clock|Clock]], [[motifs/music-and-song|Music and Song]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/order-vs-chaos|Order vs Chaos]]
+**Forms & Genres:** [[forms/satire|Satire]]
 
 ## Testo integrale / Full text
 

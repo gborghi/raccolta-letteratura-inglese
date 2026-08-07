@@ -33,7 +33,7 @@ tags:
   - histref/calvinism
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
+*by Chesterton*  ·  **Cluster:** [[clusters/temptation-·-good-vs-evil-·-serpent-snake|Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 
 > A critical essay on the contrast between the cold, proud, Puritan man Milton and his warm, sensuous poetry; analyses Calvinism, Puritan aristocracy, the Reformation, and Milton's likeness to his own Satan.
@@ -54,14 +54,14 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Stone and Marble]], [[Light and Dark]]
+**Motifs:** [[motifs/stone-and-marble|Stone and Marble]], [[motifs/light-and-dark|Light and Dark]]
 
-**Topoi:** [[Paradise Lost]]
-**Archetypes:** [[Satanic Figure]]
-**Themes & Concepts:** [[Pride]], [[Appearance vs Reality]], [[Democracy]], [[Liberty Political Freedom]], [[Fate and Free Will]], [[Class Conflict]], [[Power and Corruption]], [[Economics]], [[History]]
-**Forms & Genres:** [[Literary Criticism]], [[Essay]], [[Nonfiction]]
-**Historical References:** [[Puritanism]], [[Reformation]], [[French Revolution]], [[Calvinism]]
-**Characters:** [[Satan]], [[Milton]], [[Shakespeare]], [[Oliver Cromwell]]
+**Topoi:** [[topoi/paradise-lost|Paradise Lost]]
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]]
+**Themes & Concepts:** [[concepts/pride|Pride]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/democracy|Democracy]], [[concepts/liberty-political-freedom|Liberty Political Freedom]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/class-conflict|Class Conflict]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/puritanism|Puritanism]], [[historical-references/reformation|Reformation]], [[historical-references/french-revolution|French Revolution]], [[historical-references/calvinism|Calvinism]]
+**Characters:** [[characters/satan|Satan]], [[historical-references/milton|Milton]], [[characters/shakespeare|Shakespeare]], [[historical-references/oliver-cromwell|Oliver Cromwell]]
 
 ## Testo integrale / Full text
 

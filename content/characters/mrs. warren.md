@@ -14,4 +14,10 @@ The brothel-keeping mother of Mrs Warren's Profession, the play whose Censor's b
 
 <div class="concept-works" data-slug="characters/mrs.-warren"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/shaw-(chesterton)|Shaw (Chesterton)]]
+
+</div>
+
 #graph/character

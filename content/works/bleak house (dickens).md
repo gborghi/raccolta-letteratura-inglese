@@ -49,7 +49,7 @@ tags:
   - character/mrs_jellyby
 ---
 
-*by Dickens*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
+*by Dickens*  ·  **Cluster:** [[clusters/city-·-london-·-theatrum-mundi|City · London · Theatrum Mundi]]
 
 > [!abstract] 
 > Dickens's great London novel built around the interminable Chancery suit Jarndyce and Jarndyce, opening in fog as an emblem of legal obfuscation; it interlaces Esther Summerson's first-person narrative with an omniscient satire of law, philanthropy, and aristocracy, and embeds a detective plot (Inspector Bucket) around Lady Dedlock's secret. Central themes: social injustice and the law, the city and fog, secrecy and detection, class and reform.
@@ -64,12 +64,12 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Detective]], [[Orphan]], [[(Reputed) Fallen Woman]], [[Corrupt Official]]
-**Motifs:** [[Fog and Smoke]], [[City]], [[Disease and Contagion]], [[Letters and Writing]], [[Ghosts]], [[Fire]], [[Secrets]]
-**Themes & Concepts:** [[Social Injustice]], [[Justice Right and Wrong]], [[Satire of Society]], [[Reform]], [[Class Conflict]], [[Poverty]], [[Deception]], [[Guilt]], [[Ratiocination Detection]], [[Identity]], [[Appearance vs Reality]], [[Economics]]
-**Forms & Genres:** [[Novel]], [[Social Novel (Novel of Manners)]], [[Detective Fiction]], [[Satire]]
-**Settings:** [[London]], [[Rural England]]
-**Characters:** [[Esther Summerson]], [[John Jarndyce]], [[Lady Dedlock]], [[Sir Leicester Dedlock]], [[Mr Tulkinghorn]], [[Inspector Bucket]], [[Ada Clare]], [[Richard Carstone]], [[Jo the Crossing-Sweeper]], [[Harold Skimpole]], [[Mrs Jellyby]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/orphan|Orphan]], [[archetypes/(reputed)-fallen-woman|(Reputed) Fallen Woman]], [[archetypes/corrupt-official|Corrupt Official]]
+**Motifs:** [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/city|City]], [[motifs/disease-and-contagion|Disease and Contagion]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/ghosts|Ghosts]], [[motifs/fire|Fire]], [[motifs/secrets|Secrets]]
+**Themes & Concepts:** [[concepts/social-injustice|Social Injustice]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/satire-of-society|Satire of Society]], [[concepts/reform|Reform]], [[concepts/class-conflict|Class Conflict]], [[concepts/poverty|Poverty]], [[concepts/deception|Deception]], [[concepts/guilt|Guilt]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/identity|Identity]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/novel|Novel]], [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/detective-fiction|Detective Fiction]], [[forms/satire|Satire]]
+**Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
+**Characters:** [[characters/esther-summerson|Esther Summerson]], [[characters/john-jarndyce|John Jarndyce]], [[characters/lady-dedlock|Lady Dedlock]], [[characters/sir-leicester-dedlock|Sir Leicester Dedlock]], [[characters/mr-tulkinghorn|Mr Tulkinghorn]], [[characters/inspector-bucket|Inspector Bucket]], [[characters/ada-clare|Ada Clare]], [[characters/richard-carstone|Richard Carstone]], [[characters/jo-the-crossing-sweeper|Jo the Crossing-Sweeper]], [[characters/harold-skimpole|Harold Skimpole]], [[characters/mrs-jellyby|Mrs Jellyby]]
 
 ## Testo integrale / Full text
 
@@ -39911,4 +39911,4 @@ guardian has the brightest and most benevolent face that ever was
 seen, and that they can very well do without much beauty in me—even
 supposing—.
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

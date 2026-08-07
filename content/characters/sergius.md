@@ -14,4 +14,10 @@ The romantic, sentimental officer in Shaw's Arms and the Man whom Chesterton inv
 
 <div class="concept-works" data-slug="characters/sergius"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-polish-ideal-(chesterton)|The Polish Ideal (Chesterton)]]
+
+</div>
+
 #graph/character

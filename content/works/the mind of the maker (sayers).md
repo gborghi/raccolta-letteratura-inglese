@@ -50,7 +50,7 @@ tags:
 <div class="qlang-switch" data-default="en"></div>
 
 
-*by Sayers*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
+*by Sayers*  ·  **Cluster:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > Writing not as an apologist but as a professional writer, Sayers argues that the Christian creeds' statements about God the Creator are, when tested against direct experience, an exact description of the human creative mind. Every act of making is a threefold, Trinitarian structure—the Creative Idea (the Father), the Creative Energy or Activity incarnate in matter (the Word), and the Creative Power responding in the reader's soul (the Spirit)—three distinct "Persons" that are yet one work. From this analogy she illuminates free will, miracle, the problem of evil, self-expression, and the worth of work, and she diagnoses a modern age that mistakes life for a "problem" to be solved rather than a creation to be made.
@@ -65,18 +65,18 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Nonfiction]]
-**Archetypes:** [[Artist]], [[Christ Figure]]
-**Motifs:** [[Light and Dark]], [[The Book]], [[Fire]], [[Cross]]
-**Themes & Concepts:** [[The Trinity]], [[Creativity]], [[Imagination]], [[Faith]], [[Artist and Society]], [[Fate and Free Will]], [[Good vs Evil]], [[Incarnation]], [[Paradox]], [[Original Sin]], [[Truth]], [[Providence]], [[Creativity and Artistic Labor]], [[Love Divine]], [[History]]
-**Forms:** [[Essay]], [[Apologetics]], [[Literary Criticism]]
-**Historical References:** [[Christianity]], [[Bible]], [[Catholic Church]], [[Dante]], [[Classical Antiquity]]
-**Characters:** [[The Trinity]], [[God The Father]], [[God The Son]], [[God The Holy Ghost]], [[The Writer]], [[Artist]], [[Augustine]], [[Aquinas]], [[Dante]]
+**Forms & Genres:** [[forms/nonfiction|Nonfiction]]
+**Archetypes:** [[archetypes/artist|Artist]], [[archetypes/christ-figure|Christ Figure]]
+**Motifs:** [[motifs/light-and-dark|Light and Dark]], [[motifs/the-book|The Book]], [[motifs/fire|Fire]], [[motifs/cross|Cross]]
+**Themes & Concepts:** [[characters/the-trinity|The Trinity]], [[concepts/creativity|Creativity]], [[concepts/imagination|Imagination]], [[concepts/faith|Faith]], [[concepts/artist-and-society|Artist and Society]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/good-vs-evil|Good vs Evil]], [[concepts/incarnation|Incarnation]], [[concepts/paradox|Paradox]], [[concepts/original-sin|Original Sin]], [[concepts/truth|Truth]], [[concepts/providence|Providence]], [[concepts/creativity-and-artistic-labor|Creativity and Artistic Labor]], [[concepts/love-divine|Love Divine]], [[concepts/history|History]]
+**Forms:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/literary-criticism|Literary Criticism]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/dante|Dante]], [[historical-references/classical-antiquity|Classical Antiquity]]
+**Characters:** [[characters/the-trinity|The Trinity]], [[characters/god-the-father|God The Father]], [[characters/god-the-son|God The Son]], [[characters/god-the-holy-ghost|God The Holy Ghost]], [[archetypes/the-writer|The Writer]], [[archetypes/artist|Artist]], [[characters/augustine|Augustine]], [[characters/aquinas|Aquinas]], [[historical-references/dante|Dante]]
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-*by Sayers*  ·  **Cluster:** [[The Trinity · Creativity · Apologetics]]
+*by Sayers*  ·  **Cluster:** The Trinity · Creativity · Apologetics
 
 > [!abstract] 
 > Scrivendo non da apologeta ma da scrittrice di professione, Sayers sostiene che le affermazioni dei credi cristiani su Dio Creatore, messe alla prova dell’esperienza diretta, sono una descrizione esatta della mente creativa umana. Ogni atto del fare è una struttura triplice, trinitaria—l’Idea creativa (il Padre), l’Energia o Attività creativa incarnata nella materia (il Verbo) e la Potenza creativa che risponde nell’anima del lettore (lo Spirito)—tre "Persone" distinte che sono tuttavia un’unica opera. A partire da questa analogia ella illumina il libero arbitrio, il miracolo, il problema del male, l’espressione di sé e il valore del lavoro, e diagnostica un’età moderna che scambia la vita per un "problema" da risolvere anziché per una creazione da compiere.
@@ -105,9 +105,9 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Artist]], [[Christ Figure]]
-**Motifs:** [[Light And Dark]], [[The Book]], [[Fire]], [[The Cross]]
-**Themes & Concepts:** [[The Trinity]], [[Creativity]], [[Imagination]], [[Faith]], [[The Artist And Society]], [[Fate And Free Will]], [[Good Vs Evil]], [[Incarnation]], [[Paradox]], [[Original Sin]], [[Truth]], [[Providence]], [[Creativity And Artistic Labor]], [[Love Divine]]
-**Forms:** [[Essay]], [[Apologetics]], [[Literary Criticism]]
-**Historical References:** [[Christianity]], [[The Bible]], [[Catholic Church]], [[Dante]], [[Classical Antiquity]]
-**Characters:** [[The Trinity]], [[God The Father]], [[God The Son]], [[God The Holy Ghost]], [[The Writer]], [[The Artist]], [[Augustine]], [[Aquinas]], [[Dante]]
+**Archetypes:** [[archetypes/artist|Artist]], [[archetypes/christ-figure|Christ Figure]]
+**Motifs:** [[motifs/light-and-dark|Light And Dark]], [[motifs/the-book|The Book]], [[motifs/fire|Fire]], The Cross
+**Themes & Concepts:** [[characters/the-trinity|The Trinity]], [[concepts/creativity|Creativity]], [[concepts/imagination|Imagination]], [[concepts/faith|Faith]], The Artist And Society, [[concepts/fate-and-free-will|Fate And Free Will]], [[concepts/good-vs-evil|Good Vs Evil]], [[concepts/incarnation|Incarnation]], [[concepts/paradox|Paradox]], [[concepts/original-sin|Original Sin]], [[concepts/truth|Truth]], [[concepts/providence|Providence]], [[concepts/creativity-and-artistic-labor|Creativity And Artistic Labor]], [[concepts/love-divine|Love Divine]]
+**Forms:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/literary-criticism|Literary Criticism]]
+**Historical References:** [[historical-references/christianity|Christianity]], The Bible, [[historical-references/catholic-church|Catholic Church]], [[historical-references/dante|Dante]], [[historical-references/classical-antiquity|Classical Antiquity]]
+**Characters:** [[characters/the-trinity|The Trinity]], [[characters/god-the-father|God The Father]], [[characters/god-the-son|God The Son]], [[characters/god-the-holy-ghost|God The Holy Ghost]], [[archetypes/the-writer|The Writer]], The Artist, [[characters/augustine|Augustine]], [[characters/aquinas|Aquinas]], [[historical-references/dante|Dante]]

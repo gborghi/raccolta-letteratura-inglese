@@ -14,4 +14,10 @@ Subject of an essay recalling him as the last militant Victorian prophet and an 
 
 <div class="concept-works" data-slug="characters/john-ruskin"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+
+</div>
+
 #graph/character

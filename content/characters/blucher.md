@@ -14,4 +14,10 @@ The Prussian general whose troops' conduct after Waterloo Chesterton treats with
 
 <div class="concept-works" data-slug="characters/blucher"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/thecrimesofengland-(chesterton)|TheCrimesOfEngland (Chesterton)]]
+
+</div>
+
 #graph/character

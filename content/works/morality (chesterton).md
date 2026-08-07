@@ -33,7 +33,7 @@ tags:
 
 # morality
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A 1920 essay arguing that negative morality (the Ten Commandments) is really positive, that destruction can be essential to construction, and ending with a meditation on gratitude: 'we love things most when we have nearly lost them.'
@@ -47,16 +47,16 @@ tags:
 
 ## Connections
 
-**Historical References:** [[First World War]], [[Christianity]], [[Bible]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]]
 
-**Archetypes:** [[Common Man (2)]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Motifs:** [[Ship]]
+**Motifs:** [[motifs/ship|Ship]]
 
-**Characters:** [[Mr. Robinson]]
+**Characters:** [[characters/mr.-robinson|Mr. Robinson]]
 
-**Themes & Concepts:** [[Paradox]], [[Wonder and Gratitude]], [[Humility]], [[Grace and Redemption]], [[Reform]], [[War and its Cost]], [[Anti-Industrialism]], [[Faith]], [[Common Man]], [[Charity]], [[Value and Scarcity]], [[Economics]], [[History]]
-**Forms & Genres:** [[Essay]], [[Apologetics]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/paradox|Paradox]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/humility|Humility]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/reform|Reform]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/faith|Faith]], [[concepts/common-man|Common Man]], [[concepts/charity|Charity]], [[concepts/value-and-scarcity|Value and Scarcity]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/apologetics|Apologetics]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

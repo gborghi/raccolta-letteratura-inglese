@@ -14,4 +14,10 @@ Subject of the opening essay, praised as the novelist who proved emotional truth
 
 <div class="concept-works" data-slug="characters/charlotte-brontë"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/variedtypes-(chesterton)|VariedTypes (Chesterton)]]
+
+</div>
+
 #graph/character

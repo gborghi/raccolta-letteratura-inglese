@@ -14,4 +14,10 @@ The recurring figure of the sworn, binding promise (marriage vow, feudal vow, mo
 
 <div class="concept-works" data-slug="motifs/vow"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/divorce-(chesterton)|divorce (Chesterton)]]
+
+</div>
+
 #graph/motif

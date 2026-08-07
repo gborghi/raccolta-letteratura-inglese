@@ -22,7 +22,7 @@ tags:
 
 # sin
 
-*by Chesterton*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Chesterton*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A sonnet on love, in which the speaker swears to smite even prophet or angel who fails to revere a woman's love as sacred. Themes of romantic love as religion and reverence.
@@ -33,15 +33,15 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Bible]]
+**Historical References:** [[historical-references/bible|Bible]]
 
-**Archetypes:** [[Lover]]
+**Archetypes:** [[archetypes/lover|Lover]]
 
-**Motifs:** [[Grave]], [[Silence]]
+**Motifs:** [[motifs/grave|Grave]], [[motifs/silence|Silence]]
 
-**Topoi:** [[Love as Religion]]
-**Themes & Concepts:** [[Romantic Love]], [[Sin and the Fall]], [[Faith]], [[Jealousy]], [[Honour]]
-**Forms & Genres:** [[Sonnet]]
+**Topoi:** [[topoi/love-as-religion|Love as Religion]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/faith|Faith]], [[concepts/jealousy|Jealousy]], [[concepts/honour|Honour]]
+**Forms & Genres:** [[forms/sonnet|Sonnet]]
 
 ## Testo integrale / Full text
 

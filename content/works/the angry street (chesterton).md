@@ -35,7 +35,7 @@ tags:
   - histref/industrial_revolution
 ---
 
-*by Chesterton*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
+*by Chesterton*  ·  **Cluster:** [[clusters/city-·-london-·-theatrum-mundi|City · London · Theatrum Mundi]]
 
 > [!abstract] 
 > A fantastic parable in which an overworked London street rears up to heaven for justice; satire of mechanical modern life, the supernatural breaking into the city.
@@ -54,15 +54,15 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Industrial Revolution]]
+**Historical References:** [[historical-references/industrial-revolution|Industrial Revolution]]
 
-**Archetypes:** [[Prophet]]
+**Archetypes:** [[archetypes/prophet|Prophet]]
 
-**Topoi:** [[World Upside Down]], [[Night Journey Vision]]
-**Motifs:** [[City]], [[Clock]], [[Supernatural]], [[Madness (2)]], [[Horse]], [[Chains]], [[Road]], [[Hill]], [[Dreams]]
-**Themes & Concepts:** [[Satire of Society]], [[Anti-Industrialism]], [[Critique of Progress]], [[Justice Right and Wrong]], [[Labor and Work]], [[Slavery]], [[Apocalypse]], [[Uncanny]], [[Economics]]
-**Forms & Genres:** [[Short Story]], [[Parable]]
-**Settings:** [[London]], [[Modern Metropolis]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]], [[topoi/night-journey-vision|Night Journey Vision]]
+**Motifs:** [[motifs/city|City]], [[motifs/clock|Clock]], [[motifs/supernatural|Supernatural]], [[motifs/madness-(2)|Madness (2)]], [[motifs/horse|Horse]], [[motifs/chains|Chains]], [[motifs/road|Road]], [[motifs/hill|Hill]], [[motifs/dreams|Dreams]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/labor-and-work|Labor and Work]], [[concepts/slavery|Slavery]], [[concepts/apocalypse|Apocalypse]], [[concepts/uncanny|Uncanny]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/parable|Parable]]
+**Settings:** [[settings/london|London]], [[settings/modern-metropolis|Modern Metropolis]]
 
 ## Testo integrale / Full text
 

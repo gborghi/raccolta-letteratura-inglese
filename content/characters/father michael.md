@@ -14,4 +14,10 @@ The old monk who debates Professor Lucifer aboard the flying ship and embodies s
 
 <div class="concept-works" data-slug="characters/father-michael"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/ball-and-cross-(chesterton)|ball and cross (Chesterton)]]
+
+</div>
+
 #graph/character

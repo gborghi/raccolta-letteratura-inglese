@@ -16,17 +16,17 @@ tags:
   - histref/classical_antiquity
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Terror and Horror · Madness]]
+*by Coleridge*  ·  **Cluster:** [[clusters/terror-and-horror-·-madness|Terror and Horror · Madness]]
 
 > [!abstract] 
 > A Greek epigram (Anthologia Graeca) on a madman and a lethargist as figures of folly, with an appended Guarini madrigal-dialogue of Faith, Hope and Charity calling souls back to God; epigram and devotional allegory.
 
 ## Connections
 
-**Motifs:** [[Madness (2)]]
-**Themes & Concepts:** [[Madness]], [[Faith]], [[Grace and Redemption]]
-**Forms & Genres:** [[Epigram]], [[Allegory]]
-**Historical References:** [[Classical Antiquity]]
+**Motifs:** [[motifs/madness-(2)|Madness (2)]]
+**Themes & Concepts:** [[concepts/madness|Madness]], [[concepts/faith|Faith]], [[concepts/grace-and-redemption|Grace and Redemption]]
+**Forms & Genres:** [[forms/epigram|Epigram]], [[forms/allegory|Allegory]]
+**Historical References:** [[historical-references/classical-antiquity|Classical Antiquity]]
 
 ## Testo integrale / Full text
 

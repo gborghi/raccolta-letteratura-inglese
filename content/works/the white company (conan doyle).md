@@ -29,7 +29,7 @@ tags:
   - topos/quest
   - topos/open_road_homecoming
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Historical Novel · War and its Cost · Honour and Chivalry]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/historical-novel-·-war-and-its-cost-·-honour-and-chivalry|Historical Novel · War and its Cost · Honour and Chivalry]]
 
 > [!abstract] 
 > A historical adventure novel following young Alleyne Edricson as he leaves Beaulieu Abbey and joins Sir Nigel Loring's free company of archers during Edward the Black Prince's 1366-67 campaign in France and Spain, culminating in the Battle of Najera.
@@ -90,10 +90,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Historical Novel]], [[Adventure Fiction]]
-**Themes & Concepts:** [[Honour]], [[Masculinity and the Male Code]], [[War and its Cost]], [[Maturation and Growth]], [[History]]
-**Motifs:** [[Journey]], [[Swords and Weapons]], [[Inn Tavern]]
-**Historical References:** [[Medieval England]]
-**Settings:** [[France]], [[Spain]], [[Rural England]], [[Castle]], [[Europe]]
-**Archetypes:** [[Hero]], [[Quest Hero]], [[Mentor]]
-**Topoi:** [[Quest]], [[Open Road Homecoming]]
+**Forms & Genres:** [[forms/historical-novel|Historical Novel]], [[forms/adventure-fiction|Adventure Fiction]]
+**Themes & Concepts:** [[concepts/honour|Honour]], [[concepts/masculinity-and-the-male-code|Masculinity and the Male Code]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/maturation-and-growth|Maturation and Growth]], [[concepts/history|History]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/inn-tavern|Inn Tavern]]
+**Historical References:** [[historical-references/medieval-england|Medieval England]]
+**Settings:** [[settings/france|France]], [[settings/spain|Spain]], [[settings/rural-england|Rural England]], [[settings/castle|Castle]], [[settings/europe|Europe]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/quest-hero|Quest Hero]], [[archetypes/mentor|Mentor]]
+**Topoi:** [[topoi/quest|Quest]], [[topoi/open-road-homecoming|Open Road Homecoming]]

@@ -27,7 +27,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Alienation · Outsider · Exile]]
+*by Poe*  ·  **Cluster:** [[clusters/alienation-·-outsider-·-exile|Alienation · Outsider · Exile]]
 
 > [!abstract] 
 > A convalescent narrator obsessively follows an enigmatic old man through nocturnal London, finding in his refusal to be alone the unreadable type and genius of deep crime amid the modern crowd.
@@ -47,12 +47,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Theatrum Mundi]]
-**Archetypes:** [[Outsider]], [[Shadow]]
-**Motifs:** [[City]], [[Night]], [[Fog and Smoke]], [[Eyes and Sight]], [[Autumn]], [[Book Reading]]
-**Themes & Concepts:** [[Alienation]], [[Guilt]], [[Ratiocination Detection]], [[Appearance vs Reality]], [[Social Injustice]], [[Poverty]]
-**Forms & Genres:** [[Short Story]]
-**Settings:** [[London]], [[Modern Metropolis]]
+**Topoi:** [[topoi/theatrum-mundi|Theatrum Mundi]]
+**Archetypes:** [[archetypes/outsider|Outsider]], [[archetypes/shadow|Shadow]]
+**Motifs:** [[motifs/city|City]], [[motifs/night|Night]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/autumn|Autumn]], [[motifs/book-reading|Book Reading]]
+**Themes & Concepts:** [[concepts/alienation|Alienation]], [[concepts/guilt|Guilt]], [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/social-injustice|Social Injustice]], [[concepts/poverty|Poverty]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
+**Settings:** [[settings/london|London]], [[settings/modern-metropolis|Modern Metropolis]]
 
 ## Testo integrale / Full text
 

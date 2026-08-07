@@ -23,7 +23,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Terror and Horror · Madness]]
+*by Poe*  ·  **Cluster:** [[clusters/terror-and-horror-·-madness|Terror and Horror · Madness]]
 
 > [!abstract] 
 > Essay-tale on the self-destructive impulse to act against one's own interest; a murderer's compulsion to confess illustrates guilt, conscience and perverse human nature.
@@ -33,10 +33,10 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Satanic Figure]]
-**Motifs:** [[Madness (2)]], [[Death]], [[Clock]]
-**Themes & Concepts:** [[Guilt]], [[Conscience]], [[Fate and Free Will]], [[Madness]], [[Self-Knowledge]], [[Terror and Horror]], [[Good vs Evil]]
-**Forms & Genres:** [[Essay]], [[Short Story]], [[Nonfiction]]
+**Archetypes:** [[archetypes/satanic-figure|Satanic Figure]]
+**Motifs:** [[motifs/madness-(2)|Madness (2)]], [[motifs/death|Death]], [[motifs/clock|Clock]]
+**Themes & Concepts:** [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]], [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/madness|Madness]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/good-vs-evil|Good vs Evil]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/short-story|Short Story]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

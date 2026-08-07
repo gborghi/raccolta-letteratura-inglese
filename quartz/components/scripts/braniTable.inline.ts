@@ -34,6 +34,12 @@ async function loadData(prefix: string): Promise<Excerpt[]> {
 
 const PAGE_SIZES = [25, 50, 100, 250]
 
+// Authors come out of the vault in folder form ("Conan_Doyle"); readers get the human
+// form, and the filter accepts either since both sides are normalised.
+function human(s: unknown): string {
+  return String(s).replace(/_/g, " ")
+}
+
 function buildTable(el: HTMLElement, rows: Excerpt[], prefix: string) {
   let sortKey: keyof Excerpt = "work"
   let sortDir = 1
@@ -85,8 +91,10 @@ function buildTable(el: HTMLElement, rows: Excerpt[], prefix: string) {
   ]
 
   function cmp(a: Excerpt, b: Excerpt): number {
-    const av = noArticle(a[sortKey])
-    const bv = noArticle(b[sortKey])
+    // sort on what the reader sees: the Author column is rendered human(), so the
+    // underscore of "Conan_Doyle" must not decide where the row lands.
+    const av = noArticle(human(a[sortKey]))
+    const bv = noArticle(human(b[sortKey]))
     if (av < bv) return -sortDir
     if (av > bv) return sortDir
     // secondary: keep reading order within a work
@@ -96,6 +104,7 @@ function buildTable(el: HTMLElement, rows: Excerpt[], prefix: string) {
 
   function filtered(): Excerpt[] {
     const q = filter.toLowerCase()
+    const qa = human(q)
     return rows
       .filter((r) => {
         if (!q) return true
@@ -106,7 +115,7 @@ function buildTable(el: HTMLElement, rows: Excerpt[], prefix: string) {
         return (
           r.title.toLowerCase().includes(q) ||
           r.work.toLowerCase().includes(q) ||
-          r.author.toLowerCase().includes(q) ||
+          human(r.author).toLowerCase().includes(qa) ||
           r.unitType.toLowerCase().includes(q)
         )
       })
@@ -140,7 +149,7 @@ function buildTable(el: HTMLElement, rows: Excerpt[], prefix: string) {
             `<td class="lt-cluster">${
               r.workHref ? `<a href="${prefix}${esc(r.workHref)}">${esc(r.work)}</a>` : esc(r.work)
             }</td>` +
-            `<td>${esc(r.author)}</td>` +
+            `<td>${esc(human(r.author))}</td>` +
             `<td class="lt-type">${esc(r.unitType)}</td></tr>`,
         )
         .join("") +

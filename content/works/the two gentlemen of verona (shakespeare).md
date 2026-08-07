@@ -39,7 +39,7 @@ tags:
   - character/thurio
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Verona]]
+*by Shakespeare*  ·  **Cluster:** [[settings/verona|Verona]]
 
 > [!abstract] 
 > Early Shakespearean romantic comedy in which the friends Valentine and Proteus both fall for Silvia; centres on the conflicting claims of love and friendship, fidelity vs betrayal, courtly love and disguise (Julia following Proteus dressed as a boy).
@@ -69,14 +69,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Unattainable Beloved]], [[Combat Strife]]
-**Archetypes:** [[Lover]], [[Fool]]
-**Motifs:** [[Concealment Hidden Identity]], [[Journey]], [[Letters and Writing]], [[Music and Song]], [[Love]]
-**Themes & Concepts:** [[Romantic Love]], [[Friendship]], [[Marriage and Fidelity]], [[Deception]], [[Unrequited Frustrated Love]], [[Identity]]
-**Forms & Genres:** [[Comedy]], [[Verse Drama]], [[Blank Verse]]
-**Historical References:** [[Elizabethan England]]
-**Settings:** [[Italy]], [[Verona]], [[Europe]]
-**Characters:** [[Valentine]], [[Proteus]], [[Julia]], [[Silvia]], [[Launce]], [[Speed]], [[Duke of Milan]], [[Thurio]]
+**Topoi:** [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/combat-strife|Combat Strife]]
+**Archetypes:** [[archetypes/lover|Lover]], [[archetypes/fool|Fool]]
+**Motifs:** [[motifs/concealment-hidden-identity|Concealment Hidden Identity]], [[motifs/journey|Journey]], [[motifs/letters-and-writing|Letters and Writing]], [[motifs/music-and-song|Music and Song]], [[motifs/love|Love]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/friendship|Friendship]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/deception|Deception]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/identity|Identity]]
+**Forms & Genres:** [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
+**Historical References:** [[historical-references/elizabethan-england|Elizabethan England]]
+**Settings:** [[settings/italy|Italy]], [[settings/verona|Verona]], [[settings/europe|Europe]]
+**Characters:** [[characters/valentine|Valentine]], [[characters/proteus|Proteus]], [[characters/julia|Julia]], [[characters/silvia|Silvia]], [[characters/launce|Launce]], [[characters/speed|Speed]], [[characters/duke-of-milan|Duke of Milan]], [[characters/thurio|Thurio]]
 
 ## Testo integrale / Full text
 

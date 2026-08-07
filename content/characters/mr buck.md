@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/mr-buck"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/napoleon-of-notting-hill-(chesterton)|Napoleon of Notting Hill (Chesterton)]]
+
+</div>
+
 #graph/character

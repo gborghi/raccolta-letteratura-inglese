@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/eugene-wrayburn"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/our-mutual-friend-(dickens)|Our Mutual Friend (Dickens)]]
+
+</div>
+
 #graph/character

@@ -37,7 +37,7 @@ tags:
   - histref/industrial_revolution
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
+*by Chesterton*  ·  **Cluster:** [[clusters/martyrdom-·-martyr-saint-·-cross|Martyrdom · Martyr Saint · Cross]]
 
 > [!abstract] 
 > A narrative lyric tracing the Word (the Christ / Logos born in Galilee) as a star and sword passing through the carpenter's workshop, the fall of Caesars and empires, the age of creeds and crusades, and the industrial age of wheels and smoke, until it resolves into 'Peace'; central concerns are divine love, the ages of the world, and redemption through history.
@@ -48,13 +48,13 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Ages of the World]], [[Sic Transit Gloria Mundi]], [[Fortune's Wheel]]
-**Archetypes:** [[Christ Figure]]
-**Motifs:** [[Stars]], [[Fire]], [[Cross]], [[Swords and Weapons]], [[Sea]], [[Crown]], [[Fog and Smoke]], [[Wheel]], [[Machine]]
-**Themes & Concepts:** [[Divine Love]], [[Grace and Redemption]], [[Faith]], [[Anti-Industrialism]], [[Labor and Work]], [[Economics]], [[History]]
-**Forms & Genres:** [[Narrative Poem]], [[Lyric]]
-**Historical References:** [[Christianity]], [[Bible]], [[Roman History]], [[Crusades]], [[Industrial Revolution]]
-**Characters:** [[Christ]]
+**Topoi:** [[topoi/ages-of-the-world|Ages of the World]], [[topoi/sic-transit-gloria-mundi|Sic Transit Gloria Mundi]], [[topoi/fortune's-wheel|Fortune's Wheel]]
+**Archetypes:** [[archetypes/christ-figure|Christ Figure]]
+**Motifs:** [[motifs/stars|Stars]], [[motifs/fire|Fire]], [[motifs/cross|Cross]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/sea|Sea]], [[motifs/crown|Crown]], [[motifs/fog-and-smoke|Fog and Smoke]], [[motifs/wheel|Wheel]], [[motifs/machine|Machine]]
+**Themes & Concepts:** [[concepts/divine-love|Divine Love]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/faith|Faith]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/labor-and-work|Labor and Work]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/narrative-poem|Narrative Poem]], [[forms/lyric|Lyric]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/roman-history|Roman History]], [[historical-references/crusades|Crusades]], [[historical-references/industrial-revolution|Industrial Revolution]]
+**Characters:** [[characters/christ|Christ]]
 
 ## Testo integrale / Full text
 

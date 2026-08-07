@@ -14,4 +14,10 @@ Jesuit missionary saint to the Indies whose apparently failed evangelizing labor
 
 <div class="concept-works" data-slug="characters/francis-xavier"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/francis-xavier-(chesterton)|Francis Xavier (Chesterton)]]
+
+</div>
+
 #graph/character

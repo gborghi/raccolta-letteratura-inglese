@@ -17,7 +17,7 @@ tags:
   - concept/apocalypse
 ---
 
-*by Poe*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
+*by Poe*  ·  **Cluster:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > A dialogue between two reunited souls after death describing the sensations of dying and bodily decay, framed by a critique of mechanical progress and modern civilization.
@@ -38,8 +38,8 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Death]], [[Decay]]
-**Themes & Concepts:** [[Mortality]], [[Self-Knowledge]], [[Critique of Progress]], [[Immortality]], [[Nature vs Civilization]], [[Apocalypse]]
+**Motifs:** [[motifs/death|Death]], [[motifs/decay|Decay]]
+**Themes & Concepts:** [[concepts/mortality|Mortality]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/immortality|Immortality]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/apocalypse|Apocalypse]]
 
 ## Testo integrale / Full text
 

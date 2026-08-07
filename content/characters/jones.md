@@ -14,4 +14,11 @@ The poem's ordinary citizen, progressively stripped of his dog, yard, legs, arms
 
 <div class="concept-works" data-slug="characters/jones"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/jones-(chesterton)|Jones (Chesterton)]]
+- [[works/whats-wrong-(chesterton)|whats wrong (Chesterton)]]
+
+</div>
+
 #graph/character

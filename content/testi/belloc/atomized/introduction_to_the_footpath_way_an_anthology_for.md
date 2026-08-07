@@ -13,7 +13,7 @@ tags:
 <span class="atom-split" data-atom="introduction_to_the_footpath_way_an_anthology_for" data-title="Introduction to ‘The Footpath Way: An Anthology for Walkers’" data-chapter="" data-kind="intro"></span>
 
 
-INTRODUCTION BY [[Hilaire Belloc|HILAIRE BELLOC]]
+INTRODUCTION BY [[characters/hilaire-belloc|HILAIRE BELLOC]]
 
 SO LONG AS man does not bother about what he is or whence he came or whither he is going, the whole thing seems as simple as the verb “to be”; and you may say that the moment he does begin thinking about what he is (which is more than thinking that he is) and whence he came and whither he is going, he gets on to a lot of roads that lead nowhere, and that spread like the fingers of a hand or the sticks of a fan; so that if he pursues two or more of them he soon gets beyond his straddle, and if he pursues only one he gets farther and farther from the rest of all knowledge as he proceeds. You may say that and it will be true. But there is one kind of knowledge a man does get when he thinks about what he is, whence he came and whither he is going, which is this: that it is the only important question he can ask himself.
 
@@ -79,7 +79,7 @@ H. Belloc.
 <span class="atom-split" data-atom="part--part_01" data-title="Introduction to ‘The Footpath Way: An Anthology for Walkers’ (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="character/hilaire_belloc"></span>
 
 
-INTRODUCTION BY [[Hilaire Belloc|HILAIRE BELLOC]]
+INTRODUCTION BY [[characters/hilaire-belloc|HILAIRE BELLOC]]
 
 SO LONG AS man does not bother about what he is or whence he came or whither he is going, the whole thing seems as simple as the verb “to be”; and you may say that the moment he does begin thinking about what he is (which is more than thinking that he is) and whence he came and whither he is going, he gets on to a lot of roads that lead nowhere, and that spread like the fingers of a hand or the sticks of a fan; so that if he pursues two or more of them he soon gets beyond his straddle, and if he pursues only one he gets farther and farther from the rest of all knowledge as he proceeds. You may say that and it will be true. But there is one kind of knowledge a man does get when he thinks about what he is, whence he came and whither he is going, which is this: that it is the only important question he can ask himself.
 
@@ -102,7 +102,7 @@ That you would say was enough of a bout. Slide the other foot up, take a rest, g
 
 <span class="qlang-split" data-lang="it"></span>
 
-Introduzione di [[Hilaire Belloc]]
+Introduzione di [[characters/hilaire-belloc|Hilaire Belloc]]
 
 Finché l’uomo non si preoccupa di ciò che è, da dove viene e dove sta andando, tutto sembra semplice come il verbo “essere”; si potrebbe dire che nel momento in cui inizia a riflettere su ciò che è (il che significa molto di più che limitarsi a pensare di esistere), su da dove viene e dove sta andando, si imbatte in molte strade che non portano da nessuna parte, strade che si diramano come le dita di una mano o i raggi di un ventaglio; quindi, se ne segue più di una contemporaneamente, presto si perde nella confusione, mentre seguendone solo una finisce per allontanarsi sempre di più dal resto della conoscenza. Si può dire così, e sarà vero. Tuttavia, c’è un tipo di conoscenza che l’uomo effettivamente acquisisce riflettendo su ciò che è, da dove viene e dove sta andando: si tratta della consapevolezza che questa è l’unica domanda davvero importante che possa porsi.
 

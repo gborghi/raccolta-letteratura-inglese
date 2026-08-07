@@ -38,7 +38,7 @@ tags:
 
 # oldsong
 
-*by Chesterton*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
+*by Chesterton*  ·  **Cluster:** [[clusters/city-·-london-·-theatrum-mundi|City · London · Theatrum Mundi]]
 
 > [!abstract] 
 > An apocalyptic ballad of London Bridge broken down, the kings who 'buy and sell', and Cobbett as the Horseman of Apocalypse; a populist, anti-plutocratic vision of England renewed.
@@ -49,17 +49,17 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Avenger]], [[Poet as Prophet (2)]]
+**Archetypes:** [[archetypes/avenger|Avenger]], [[archetypes/poet-as-prophet-(2)|Poet as Prophet (2)]]
 
-**Topoi:** [[Poet as Prophet]], [[World Upside Down]]
+**Topoi:** [[topoi/poet-as-prophet|Poet as Prophet]], [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[Robin Hood]], [[Cobbett]]
+**Characters:** [[characters/robin-hood|Robin Hood]], [[characters/cobbett|Cobbett]]
 
-**Motifs:** [[City]], [[Money and Gold]], [[Horse]], [[Storm]], [[Lightning]], [[Machine]]
-**Themes & Concepts:** [[Anti-Industrialism]], [[Common Man]], [[Apocalypse]], [[Money and Avarice]], [[Power and Corruption]], [[Nationalism and Patriotism]], [[Freedom and Liberty]], [[Economics]], [[History]]
-**Forms & Genres:** [[Ballad Ballade]]
-**Historical References:** [[Bible]], [[Industrial Revolution]], [[Luddite Movement]]
-**Settings:** [[London]], [[Rural England]]
+**Motifs:** [[motifs/city|City]], [[motifs/money-and-gold|Money and Gold]], [[motifs/horse|Horse]], [[motifs/storm|Storm]], [[motifs/lightning|Lightning]], [[motifs/machine|Machine]]
+**Themes & Concepts:** [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/common-man|Common Man]], [[concepts/apocalypse|Apocalypse]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]]
+**Historical References:** [[historical-references/bible|Bible]], [[historical-references/industrial-revolution|Industrial Revolution]], [[historical-references/luddite-movement|Luddite Movement]]
+**Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
 
 ## Testo integrale / Full text
 

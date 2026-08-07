@@ -14,4 +14,11 @@ Debate over the equality, nature and social role of women, argued at length agai
 
 <div class="concept-works" data-slug="concepts/the-woman-question"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-speaker-(chesterton)|The Speaker (Chesterton)]]
+- [[works/beyond-the-city-(conan-doyle)|Beyond the City (Conan Doyle)]]
+
+</div>
+
 #graph/concept

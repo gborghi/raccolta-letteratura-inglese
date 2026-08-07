@@ -14,4 +14,10 @@ The law clerk from Bleak House Chesterton cites as an untouchable creative inven
 
 <div class="concept-works" data-slug="characters/mr.-guppy"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/charlesdickens-(chesterton)|CharlesDickens (Chesterton)]]
+
+</div>
+
 #graph/character

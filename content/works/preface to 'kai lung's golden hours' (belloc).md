@@ -21,7 +21,7 @@ tags:
   - archetype/the_writer
   - topos/immortality_through_verse
 ---
-*by Belloc*  ·  **Cluster:** [[Familiar Essay · Paradox · The Common Man]]
+*by Belloc*  ·  **Cluster:** [[clusters/familiar-essay-·-paradox-·-the-common-man|Familiar Essay · Paradox · The Common Man]]
 
 > [!abstract] 
 > Belloc's introductory essay to Ernest Bramah's Kai Lung's Golden Hours, praising the book as a rare instance of deliberate, achieved construction amid the slipshod, unconstructed writing of the modern age. It argues that construction and economy are the fundamental conditions of excellent and enduring literature.
@@ -32,11 +32,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Literary Criticism]], [[Nonfiction]]
-**Themes & Concepts:** [[Creativity]], [[Artist and Society]], [[Immortality of Art Fame]], [[Critique of Progress]], [[Beauty]]
-**Motifs:** [[The Book]], [[Letters and Writing]]
-**Historical References:** [[Robert Blatchford]]
-**Archetypes:** [[The Writer]]
-**Topoi:** [[Immortality Through Verse]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/literary-criticism|Literary Criticism]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/creativity|Creativity]], [[concepts/artist-and-society|Artist and Society]], [[concepts/immortality-of-art-fame|Immortality of Art Fame]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/beauty|Beauty]]
+**Motifs:** [[motifs/the-book|The Book]], [[motifs/letters-and-writing|Letters and Writing]]
+**Historical References:** [[historical-references/robert-blatchford|Robert Blatchford]]
+**Archetypes:** [[archetypes/the-writer|The Writer]]
+**Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]]
 
-**Also relevant to:** [[Self-Knowledge · Immortality · Self-Reliance]]
+**Also relevant to:** [[clusters/self-knowledge-·-immortality-·-self-reliance|Self-Knowledge · Immortality · Self-Reliance]]

@@ -14,4 +14,11 @@ Naval hero whose death at Trafalgar Chesterton mythologizes as the spirit of poe
 
 <div class="concept-works" data-slug="characters/nelson"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/history-(chesterton)|history (Chesterton)]]
+- [[works/rodney-stone-(conan-doyle)|Rodney Stone (Conan Doyle)]]
+
+</div>
+
 #graph/character

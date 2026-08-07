@@ -14,9 +14,9 @@ tags:
 <span class="atom-split" data-atom="suicide" data-title="suicide" data-chapter="" data-kind="intro"></span>
 
 
-A Ballade of [[suicide|Suicide]]  
+A Ballade of [[concepts/suicide|Suicide]]  
 
-The gallows in my [[Garden|garden]], people say,  
+The gallows in my [[motifs/garden|garden]], people say,  
 Is new and neat and adequately tall;  
 I tie the noose on in a knowing way  
 As one that knots his necktie for a ball;  
@@ -25,8 +25,8 @@ Are drawing a long breath to shout "Hurray!"
 The strangest whim has seized me. . . . After all  
 I think I will not hang myself to-day.  
 
-To-morrow is the [[Time|time]] I get my pay--  
-My uncle's [[Sword|sword]] is hanging in the hall--  
+To-morrow is the [[motifs/time|time]] I get my pay--  
+My uncle's sword is hanging in the hall--  
 I see a little cloud all pink and grey--  
 Perhaps the Rector's mother will NOT call--  
 I fancy that I heard from Mr. Gall  
@@ -35,9 +35,9 @@ I never read the works of Juvenal--
 I think I will not hang myself to-day.  
 
 The world will have another washing-day;  
-The decadents [[Decay|decay]]; the pedants pall;  
+The decadents [[motifs/decay|decay]]; the pedants pall;  
 And H.G. Wells has found that children play,  
-And Bernard [[Shaw]] discovered that they squall;  
+And Bernard [[works/shaw-(chesterton)|Shaw]] discovered that they squall;  
 Rationalists are growing rational--  
 And through thick woods one finds a stream astray,  
 So secret that the very sky seems small--  
@@ -54,9 +54,9 @@ I think I will not hang myself to-day.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ballata del [[suicide|Suicidio]]  
+Ballata del [[concepts/suicide|Suicidio]]  
 
-La forca nel mio [[Garden|giardino]], dice la gente,  
+La forca nel mio [[motifs/garden|giardino]], dice la gente,  
 è nuova e linda e di giusta altezza;  
 annodo il cappio con mano esperta  
 come chi s'annoda la cravatta per un ballo;  
@@ -65,8 +65,8 @@ traggono un lungo respiro per gridare "Urrà!"
 il più strano capriccio m'ha colto. . . . Dopotutto  
 credo che oggi non m'impiccherò.  
 
-Domani è il [[Time|momento]] in cui riscuoto la paga--  
-la [[Sword|spada]] di mio zio pende nell'atrio--  
+Domani è il [[motifs/time|momento]] in cui riscuoto la paga--  
+la spada di mio zio pende nell'atrio--  
 vedo una nuvoletta tutta rosa e grigia--  
 forse la madre del Rettore NON verrà in visita--  
 mi pare d'aver sentito dal signor Gall  
@@ -75,9 +75,9 @@ non ho mai letto le opere di Giovenale--
 credo che oggi non m'impiccherò.  
 
 Il mondo avrà un altro giorno di bucato;  
-i decadenti [[Decay|decadono]]; i pedanti stancano;  
+i decadenti [[motifs/decay|decadono]]; i pedanti stancano;  
 e H.G. Wells ha scoperto che i bimbi giocano,  
-e Bernard [[Shaw]] scoprì che strillano;  
+e Bernard [[works/shaw-(chesterton)|Shaw]] scoprì che strillano;  
 i razionalisti si fanno razionali--  
 e tra folti boschi si trova un ruscello smarrito,  
 tanto segreto che il cielo stesso pare piccolo--  
@@ -96,9 +96,9 @@ credo che oggi non m'impiccherò.
 <span class="atom-split" data-atom="part--part_01" data-title="suicide (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/decay,motif/garden,motif/time,concept/suicide"></span>
 
 
-A Ballade of [[suicide|Suicide]]  
+A Ballade of [[concepts/suicide|Suicide]]  
 
-The gallows in my [[Garden|garden]], people say,  
+The gallows in my [[motifs/garden|garden]], people say,  
 Is new and neat and adequately tall;  
 I tie the noose on in a knowing way  
 As one that knots his necktie for a ball;  
@@ -107,8 +107,8 @@ Are drawing a long breath to shout "Hurray!"
 The strangest whim has seized me. . . . After all  
 I think I will not hang myself to-day.  
 
-To-morrow is the [[Time|time]] I get my pay--  
-My uncle's [[Sword|sword]] is hanging in the hall--  
+To-morrow is the [[motifs/time|time]] I get my pay--  
+My uncle's sword is hanging in the hall--  
 I see a little cloud all pink and grey--  
 Perhaps the Rector's mother will NOT call--  
 I fancy that I heard from Mr. Gall  
@@ -117,9 +117,9 @@ I never read the works of Juvenal--
 I think I will not hang myself to-day.  
 
 The world will have another washing-day;  
-The decadents [[Decay|decay]]; the pedants pall;  
+The decadents [[motifs/decay|decay]]; the pedants pall;  
 And H.G. Wells has found that children play,  
-And Bernard [[Shaw]] discovered that they squall;  
+And Bernard [[works/shaw-(chesterton)|Shaw]] discovered that they squall;  
 Rationalists are growing rational--  
 And through thick woods one finds a stream astray,  
 So secret that the very sky seems small--  
@@ -136,9 +136,9 @@ I think I will not hang myself to-day.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Ballata del [[suicide|Suicidio]]  
+Ballata del [[concepts/suicide|Suicidio]]  
 
-La forca nel mio [[Garden|giardino]], dice la gente,  
+La forca nel mio [[motifs/garden|giardino]], dice la gente,  
 è nuova e linda e di giusta altezza;  
 annodo il cappio con mano esperta  
 come chi s'annoda la cravatta per un ballo;  
@@ -147,8 +147,8 @@ traggono un lungo respiro per gridare "Urrà!"
 il più strano capriccio m'ha colto. . . . Dopotutto  
 credo che oggi non m'impiccherò.  
 
-Domani è il [[Time|momento]] in cui riscuoto la paga--  
-la [[Sword|spada]] di mio zio pende nell'atrio--  
+Domani è il [[motifs/time|momento]] in cui riscuoto la paga--  
+la spada di mio zio pende nell'atrio--  
 vedo una nuvoletta tutta rosa e grigia--  
 forse la madre del Rettore NON verrà in visita--  
 mi pare d'aver sentito dal signor Gall  
@@ -157,9 +157,9 @@ non ho mai letto le opere di Giovenale--
 credo che oggi non m'impiccherò.  
 
 Il mondo avrà un altro giorno di bucato;  
-i decadenti [[Decay|decadono]]; i pedanti stancano;  
+i decadenti [[motifs/decay|decadono]]; i pedanti stancano;  
 e H.G. Wells ha scoperto che i bimbi giocano,  
-e Bernard [[Shaw]] scoprì che strillano;  
+e Bernard [[works/shaw-(chesterton)|Shaw]] scoprì che strillano;  
 i razionalisti si fanno razionali--  
 e tra folti boschi si trova un ruscello smarrito,  
 tanto segreto che il cielo stesso pare piccolo--  

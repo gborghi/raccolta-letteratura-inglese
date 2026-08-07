@@ -14,16 +14,16 @@ tags:
   - concept/wonder_and_gratitude
 ---
 
-*by Keats*  ·  **Cluster:** [[Sea · Water]]
+*by Keats*  ·  **Cluster:** [[clusters/sea-·-water|Sea · Water]]
 
 > [!abstract] 
 > Sonnet on the wonders of sea and sky witnessed in a day, made meaningful only by the absent brother's shared thought; nature, the sea and fraternal love.
 
 ## Connections
 
-**Motifs:** [[Sea]], [[Moon]]
-**Themes & Concepts:** [[Friendship]], [[Wonder and Gratitude]]
-**Forms & Genres:** [[Sonnet]]
+**Motifs:** [[motifs/sea|Sea]], [[motifs/moon|Moon]]
+**Themes & Concepts:** [[concepts/friendship|Friendship]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]]
+**Forms & Genres:** [[forms/sonnet|Sonnet]]
 
 ## Testo integrale / Full text
 

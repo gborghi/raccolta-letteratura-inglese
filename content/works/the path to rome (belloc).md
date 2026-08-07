@@ -33,7 +33,7 @@ tags:
   - topos/open_road_homecoming
   - topos/quest
 ---
-*by Belloc*  ·  **Cluster:** [[Travel Writing · Pilgrimage · Landscape]]
+*by Belloc*  ·  **Cluster:** [[clusters/travel-writing-·-pilgrimage-·-landscape|Travel Writing · Pilgrimage · Landscape]]
 
 > [!abstract] 
 > Belloc's account of his vow-driven walking pilgrimage on foot from Toul in Lorraine across the Alps to Rome, digressing freely on wine, faith, landscape, history and the European soul. Part travelogue, part familiar essay, it is a joyous personal confession of Catholic conviction and love of the common life of Europe.
@@ -318,13 +318,13 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Nonfiction]]
-**Themes & Concepts:** [[Faith]], [[Nature vs Civilization]], [[Wonder and Gratitude]], [[Tradition]], [[Common Man]], [[Nationalism and Patriotism]]
-**Motifs:** [[Journey]], [[Road]], [[Wine and Drink]], [[Inn Tavern]], [[Prayer]], [[Dawn]]
-**Historical References:** [[Catholic Church]], [[Christianity]]
-**Settings:** [[France]], [[Italy]], [[Mountains]], [[Europe]]
-**Characters:** [[Hilaire Belloc]]
-**Archetypes:** [[Pilgrim]]
-**Topoi:** [[Open Road Homecoming]], [[Quest]]
+**Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/tradition|Tradition]], [[concepts/common-man|Common Man]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/road|Road]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/prayer|Prayer]], [[motifs/dawn|Dawn]]
+**Historical References:** [[historical-references/catholic-church|Catholic Church]], [[historical-references/christianity|Christianity]]
+**Settings:** [[settings/france|France]], [[settings/italy|Italy]], [[settings/mountains|Mountains]], [[settings/europe|Europe]]
+**Characters:** [[characters/hilaire-belloc|Hilaire Belloc]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/quest|Quest]]
 
-**Also relevant to:** [[Faith · Providence · Divine Love]]
+**Also relevant to:** [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

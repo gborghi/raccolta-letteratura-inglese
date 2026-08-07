@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/edward-ferrars"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/sense-and-sensibility-(austen)|Sense and Sensibility (Austen)]]
+
+</div>
+
 #graph/character

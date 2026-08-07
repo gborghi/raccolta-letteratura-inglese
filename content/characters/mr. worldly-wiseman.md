@@ -14,4 +14,10 @@ The urbane deceiver of Pilgrim's Progress, whom Chesterton compares to a modern 
 
 <div class="concept-works" data-slug="characters/mr.-worldly-wiseman"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/intro-pilgrims-progress-(chesterton)|intro-pilgrims-progress (Chesterton)]]
+
+</div>
+
 #graph/character

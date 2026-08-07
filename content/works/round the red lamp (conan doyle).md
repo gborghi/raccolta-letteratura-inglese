@@ -25,7 +25,7 @@ tags:
   - archetype/villain
   - topos/memento_mori
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Domestic and Social Fiction · Romantic Love · Class]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/domestic-and-social-fiction-·-romantic-love-·-class|Domestic and Social Fiction · Romantic Love · Class]]
 
 > [!abstract] 
 > A collection of medical-life short stories, 'facts and fancies' told from a doctor's-eye view of Victorian practice. Stories range from the gentle comedy of an old-fashioned country doctor and a student's first operation, to grim tales of surgical horror, addiction, and the darker side of medicine, including the macabre 'Lot No. 249' and 'The Case of Lady Sannox.'
@@ -53,10 +53,10 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Short Story]], [[Realism]]
-**Themes & Concepts:** [[Suffering and Pain]], [[Critique of Progress]], [[Reason and Rationalism]], [[Guilt]], [[Mortality]]
-**Motifs:** [[Disease and Contagion]], [[Blood]], [[Death]]
-**Historical References:** [[Darwinism (Evolutionary Theory)]], [[Victorian England]]
-**Settings:** [[London]], [[Rural England]]
-**Archetypes:** [[Detective]], [[Villain]]
-**Topoi:** [[Memento Mori]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[concepts/realism|Realism]]
+**Themes & Concepts:** [[concepts/suffering-and-pain|Suffering and Pain]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/reason-and-rationalism|Reason and Rationalism]], [[concepts/guilt|Guilt]], [[concepts/mortality|Mortality]]
+**Motifs:** [[motifs/disease-and-contagion|Disease and Contagion]], [[motifs/blood|Blood]], [[motifs/death|Death]]
+**Historical References:** [[concepts/darwinism-(evolutionary-theory)|Darwinism (Evolutionary Theory)]], [[historical-references/victorian-england|Victorian England]]
+**Settings:** [[settings/london|London]], [[settings/rural-england|Rural England]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]
+**Topoi:** [[topoi/memento-mori|Memento Mori]]

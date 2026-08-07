@@ -28,7 +28,7 @@ tags:
   - archetype/prophetess_seer
   - archetype/outsider
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Spiritualism · Faith and Doubt · The Afterlife]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/spiritualism-·-faith-and-doubt-·-the-afterlife|Spiritualism · Faith and Doubt · The Afterlife]]
 
 > [!abstract] 
 > Professor Challenger's daughter Enid and journalist Edward Malone investigate London's Spiritualist churches and mediums, initially as sceptical reporters. Challenger himself, still grieving his wife, is gradually confronted with evidence that shakes his rigid materialism, as Doyle uses the novel to argue for the truth of Spiritualism.
@@ -46,12 +46,12 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Novel]]
-**Themes & Concepts:** [[Spiritualism]], [[Faith and Doubt]], [[Grief and Loss]], [[Rationalism]], [[Doubt]], [[Unseen The Hidden]]
-**Motifs:** [[Supernatural]], [[Ghosts]], [[Fog and Smoke]], [[Uncanny]], [[Death]]
-**Historical References:** [[First World War]]
-**Settings:** [[London]]
-**Characters:** [[Professor Challenger]]
-**Archetypes:** [[Mentor]], [[Prophetess Seer]], [[Outsider]]
+**Forms & Genres:** [[forms/novel|Novel]]
+**Themes & Concepts:** [[concepts/spiritualism|Spiritualism]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/grief-and-loss|Grief and Loss]], [[concepts/rationalism|Rationalism]], [[concepts/doubt|Doubt]], [[concepts/unseen-the-hidden|Unseen The Hidden]]
+**Motifs:** [[motifs/supernatural|Supernatural]], [[motifs/ghosts|Ghosts]], [[motifs/fog-and-smoke|Fog and Smoke]], [[concepts/uncanny|Uncanny]], [[motifs/death|Death]]
+**Historical References:** [[historical-references/first-world-war|First World War]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/professor-challenger|Professor Challenger]]
+**Archetypes:** [[archetypes/mentor|Mentor]], [[archetypes/prophetess-seer|Prophetess Seer]], [[archetypes/outsider|Outsider]]
 
-**Also relevant to:** [[Alienation · Outsider · Exile]], [[Faith · Providence · Divine Love]]
+**Also relevant to:** [[clusters/alienation-·-outsider-·-exile|Alienation · Outsider · Exile]], [[clusters/faith-·-providence-·-divine-love|Faith · Providence · Divine Love]]

@@ -14,4 +14,10 @@ The 'peasant pope' whose plain, unbending authority Chesterton praises as proof 
 
 <div class="concept-works" data-slug="historical-references/pope-pius-x"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/man-orthodox-(chesterton)|Man Orthodox (Chesterton)]]
+
+</div>
+
 #graph/histref

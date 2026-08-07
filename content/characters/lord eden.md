@@ -14,4 +14,10 @@ The cynical, politically astute Prime Minister who seizes on Herne's chivalric p
 
 <div class="concept-works" data-slug="characters/lord-eden"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/don-quixote-(chesterton)|Don Quixote (Chesterton)]]
+
+</div>
+
 #graph/character

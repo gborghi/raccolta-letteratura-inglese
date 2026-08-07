@@ -38,7 +38,7 @@ tags:
   - character/demetrius
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Dreams · Moon]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/dreams-·-moon|Dreams · Moon]]
 
 > [!abstract] 
 > A festive romantic comedy in which four Athenian lovers, a fairy king and queen, and a troupe of rude mechanicals are entangled by love-magic in an enchanted wood; it celebrates imagination, dream, and the irrationality of desire while mocking theatrical illusion.
@@ -59,14 +59,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Combat Strife]], [[Unattainable Beloved]], [[Theatrum Mundi]]
-**Archetypes:** [[Trickster]], [[Lover]]
-**Motifs:** [[Dreams]], [[Supernatural]], [[Moon]], [[Love]]
-**Themes & Concepts:** [[Romantic Love]], [[Imagination]], [[Appearance vs Reality]], [[Order vs Chaos]], [[Marriage and Fidelity]]
-**Forms & Genres:** [[Comedy]], [[Verse Drama]]
-**Historical References:** [[Greek Mythology]]
-**Settings:** [[Enchanted Wood (2)]], [[Ancient Greece (2)]]
-**Characters:** [[Oberon]], [[Titania]], [[Puck]], [[Bottom]], [[Theseus]], [[Hippolyta]], [[Hermia]], [[Lysander]], [[Helena]], [[Demetrius]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]], [[topoi/unattainable-beloved|Unattainable Beloved]], [[topoi/theatrum-mundi|Theatrum Mundi]]
+**Archetypes:** [[archetypes/trickster|Trickster]], [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/dreams|Dreams]], [[motifs/supernatural|Supernatural]], [[motifs/moon|Moon]], [[motifs/love|Love]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/imagination|Imagination]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]]
+**Forms & Genres:** [[forms/comedy|Comedy]], [[forms/verse-drama|Verse Drama]]
+**Historical References:** [[historical-references/greek-mythology|Greek Mythology]]
+**Settings:** [[settings/enchanted-wood-(2)|Enchanted Wood (2)]], [[settings/ancient-greece-(2)|Ancient Greece (2)]]
+**Characters:** [[characters/oberon|Oberon]], [[characters/titania|Titania]], [[characters/puck|Puck]], [[characters/bottom|Bottom]], [[characters/theseus|Theseus]], [[characters/hippolyta|Hippolyta]], [[characters/hermia|Hermia]], [[characters/lysander|Lysander]], [[characters/helena|Helena]], [[characters/demetrius|Demetrius]]
 
 ## Testo integrale / Full text
 

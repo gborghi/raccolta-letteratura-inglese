@@ -33,7 +33,7 @@ tags:
   - archetype/pilgrim
   - topos/journey_of_life
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Spiritualism · Faith and Doubt · The Afterlife]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/spiritualism-·-faith-and-doubt-·-the-afterlife|Spiritualism · Faith and Doubt · The Afterlife]]
 
 > [!abstract] 
 > Conan Doyle's 1924 autobiography, tracing his Edinburgh childhood, Jesuit schooling, medical training under Dr. Joseph Bell (the real-life model for Sherlock Holmes and Professor Challenger), his literary career, war service, and his late-life devotion to Spiritualism.
@@ -79,11 +79,11 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Biography]], [[Nonfiction]]
-**Themes & Concepts:** [[Spiritualism]], [[Empire and Imperialism]], [[Self-Knowledge]], [[Memory and Time]], [[Faith and Doubt]], [[History]]
-**Motifs:** [[Journey]], [[Memory]]
-**Historical References:** [[First World War]], [[Boer War (Second South African War)]], [[Victorian England]], [[Catholic Church]], [[British Empire]]
-**Settings:** [[Edinburgh]], [[London]], [[Africa]], [[South Africa]]
-**Characters:** [[Sir Arthur Conan Doyle]], [[Sherlock Holmes]], [[Professor Challenger]]
-**Archetypes:** [[The Writer]], [[Pilgrim]]
-**Topoi:** [[Journey of Life]]
+**Forms & Genres:** [[forms/biography|Biography]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/spiritualism|Spiritualism]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/memory-and-time|Memory and Time]], [[concepts/faith-and-doubt|Faith and Doubt]], [[concepts/history|History]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/memory|Memory]]
+**Historical References:** [[historical-references/first-world-war|First World War]], [[historical-references/boer-war-(second-south-african-war)|Boer War (Second South African War)]], [[historical-references/victorian-england|Victorian England]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/edinburgh|Edinburgh]], [[settings/london|London]], [[settings/africa|Africa]], [[settings/south-africa|South Africa]]
+**Characters:** [[characters/sir-arthur-conan-doyle|Sir Arthur Conan Doyle]], [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/professor-challenger|Professor Challenger]]
+**Archetypes:** [[archetypes/the-writer|The Writer]], [[archetypes/pilgrim|Pilgrim]]
+**Topoi:** [[topoi/journey-of-life|Journey of Life]]

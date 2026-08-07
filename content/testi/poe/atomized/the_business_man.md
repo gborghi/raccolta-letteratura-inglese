@@ -14,7 +14,7 @@ tags:
 <span class="atom-split" data-atom="the_business_man" data-title="The Business Man" data-chapter="" data-kind="intro"></span>
 
 
-Method is the [[Soul|soul]] of business.—OLD SAYING.
+Method is the [[motifs/soul|soul]] of business.—OLD SAYING.
 
 
 
@@ -30,11 +30,11 @@ These fellows are always doing the most out-of-the-way things in
 
 what they call an orderly manner. Now here, I conceive, is a
 
-positive [[Paradox|paradox]]. True method appertains to the ordinary and the
+positive [[concepts/paradox|paradox]]. True method appertains to the ordinary and the
 
-obvious [[Alone|alone]], and cannot be applied to the _outré_. What
+obvious alone, and cannot be applied to the _outré_. What
 
-definite idea can a [[Body|body]] attach to such expressions as
+definite idea can a [[concepts/body|body]] attach to such expressions as
 
 “methodical Jack o’ Dandy,” or “a systematical Will o’ the Wisp”?
 
@@ -44,7 +44,7 @@ My notions upon this head might not have been so clear as they
 
 are, but for a fortunate accident which happened to me when I was
 
-a very little boy. A good-hearted old Irish [[Nurse|nurse]] (whom I shall
+a very little boy. A good-hearted old Irish [[characters/nurse|nurse]] (whom I shall
 
 not forget in my will) took me up one day by the heels, when I
 
@@ -58,7 +58,7 @@ bedpost. This, I say, decided my fate, and made my fortune. A
 
 bump arose at once on my sinciput, and turned out to be as pretty
 
-an organ of order as one shall see on a [[Summer|summer]]’s day. Hence that
+an organ of order as one shall see on a [[motifs/summer|summer]]’s day. Hence that
 
 positive appetite for system and regularity which has made me the
 
@@ -84,7 +84,7 @@ variance with the “fitness of things,” and having no business
 
 whatever to be considered as a business at all. Thus you may tell
 
-these characters immediately by the [[Nature|nature]] of their occupations.
+these characters immediately by the [[concepts/nature|nature]] of their occupations.
 
 If you ever perceive a man setting up as a merchant or a
 
@@ -106,9 +106,9 @@ Now I am not in any respect a genius, but a regular business man.
 
 My day-book and ledger will evince this in a minute. They are
 
-[[Well|well]] kept, though I say it myself; and, in my general habits of
+[[motifs/well|well]] kept, though I say it myself; and, in my general habits of
 
-accuracy and punctuality, I am not to be beat by a [[Clock|clock]].
+accuracy and punctuality, I am not to be beat by a [[motifs/clock|clock]].
 
 Moreover, my occupations have been always made to chime in with
 
@@ -116,29 +116,29 @@ the ordinary habitudes of my fellowmen. Not that I feel the least
 
 indebted, upon this score, to my exceedingly weak-minded parents,
 
-who, beyond [[Doubt|doubt]], would have made an arrant genius of me at
+who, beyond [[concepts/doubt|doubt]], would have made an arrant genius of me at
 
-last, if my guardian angel had not come, in good [[Time|time]], to the
+last, if my guardian angel had not come, in good [[motifs/time|time]], to the
 
-rescue. In [[Biography|biography]] the [[Truth|truth]] is every thing, and in
+rescue. In [[forms/biography|biography]] the [[concepts/truth|truth]] is every thing, and in
 
-autobiography it is especially so—yet I scarcely [[Hope|hope]] to be
+autobiography it is especially so—yet I scarcely [[concepts/hope|hope]] to be
 
 believed when I state, however solemnly, that my poor father put
 
 me, when I was about fifteen years of age, into the
 
-counting-[[house]] of what be termed “a respectable hardware and
+counting-house of what be termed “a respectable hardware and
 
 commission merchant doing a capital bit of business!” A capital
 
 bit of fiddlestick! However, the consequence of this folly was,
 
-that in two or three days, I had to be sent [[Home|home]] to my
+that in two or three days, I had to be sent [[motifs/home|home]] to my
 
 button-headed family in a high state of fever, and with a most
 
-violent and dangerous [[Pain|pain]] in the sinciput, all around about my
+violent and dangerous [[motifs/pain|pain]] in the sinciput, all around about my
 
 organ of order. It was nearly a gone case with me then—just
 
@@ -152,13 +152,13 @@ hardware and commission merchant, doing a capital bit of
 
 business,” and I felt grateful to the protuberance which had been
 
-the means of my salvation, as [[Well|well]] as to the kindhearted female
+the means of my salvation, as [[motifs/well|well]] as to the kindhearted female
 
 who had originally put these means within my reach.
 
 
 
-The most of boys run away from [[Home|home]] at ten or twelve years of
+The most of boys run away from [[motifs/home|home]] at ten or twelve years of
 
 age, but I waited till I was sixteen. I don’t know that I should
 
@@ -174,9 +174,9 @@ dancing attendance any longer upon the caprices of these
 
 eccentric old people, and running the risk of being made a genius
 
-of in the end. In this project I succeeded perfectly [[Well|well]] at the
+of in the end. In this project I succeeded perfectly [[motifs/well|well]] at the
 
-first effort, and by the [[Time|time]] I was fairly eighteen, found myself
+first effort, and by the [[motifs/time|time]] I was fairly eighteen, found myself
 
 doing an extensive and profitable business in the Tailor’s
 
@@ -190,13 +190,13 @@ only by that rigid adherence to system which formed the leading
 
 feature of my mind. A scrupulous method characterized my actions
 
-as [[Well|well]] as my accounts. In my case it was method—not money—which
+as [[motifs/well|well]] as my accounts. In my case it was method—not money—which
 
 made the man: at least all of him that was not made by the tailor
 
 whom I served. At nine, every morning, I called upon that
 
-individual for the clothes of the day. Ten o’[[Clock|clock]] found me in
+individual for the clothes of the day. Ten o’[[motifs/clock|clock]] found me in
 
 some fashionable promenade or other place of public amusement.
 
@@ -206,17 +206,17 @@ about, so as to bring successively into view every portion of the
 
 suit upon my back, was the admiration of all the knowing men in
 
-the trade. [[Noon]] never passed without my bringing [[Home|home]] a customer
+the trade. [[motifs/noon|Noon]] never passed without my bringing [[motifs/home|home]] a customer
 
-to the [[house]] of my employers, Messrs. Cut & Comeagain. I say this
+to the house of my employers, Messrs. Cut & Comeagain. I say this
 
-proudly, but with [[Tears|tears]] in my eyes—for the firm proved themselves
+proudly, but with [[motifs/tears|tears]] in my eyes—for the firm proved themselves
 
 the basest of ingrates. The little account, about which we
 
 quarreled and finally parted, cannot, in any item, be thought
 
-overcharged, by gentlemen really conversant with the [[Nature|nature]] of
+overcharged, by gentlemen really conversant with the [[concepts/nature|nature]] of
 
 the business. Upon this point, however, I feel a degree of proud
 
@@ -232,7 +232,7 @@ To Peter Proffit, Walking Advertiser,_ Drs.
 
 
 
-July 10.   to promenade, as usual and customer brought [[Home|home]]   $00 25
+July 10.   to promenade, as usual and customer brought [[motifs/home|home]]   $00 25
 
 July 11.   To do do do                                            25
 
@@ -248,7 +248,7 @@ July 20.   To purchasing bran new paper shirt collar or dickey,
 
 to set off gray Petersham                              02
 
-Aug. 15.   To wearing [[Double|double]]-padded bobtail frock, (thermometer
+Aug. 15.   To wearing [[topoi/double|double]]-padded bobtail frock, (thermometer
 
 106 in the shade)                                      25
 
@@ -310,11 +310,11 @@ My strict integrity, economy, and rigorous business habits, here
 
 again came into play. I found myself driving a flourishing trade,
 
-and soon became a marked man upon “Change.” The [[Truth|truth]] is, I never
+and soon became a marked man upon “Change.” The [[concepts/truth|truth]] is, I never
 
 dabbled in flashy matters, but jogged on in the good old sober
 
-routine of the calling—a calling in which I should, no [[Doubt|doubt]],
+routine of the calling—a calling in which I should, no [[concepts/doubt|doubt]],
 
 have remained to the present hour, but for a little accident
 
@@ -358,11 +358,11 @@ corporation which asked me to do this very thing—this very thing!
 
 I did not reply to their absurd proposition, of course; but I
 
-felt it a duty to go that same [[Night|night]], and lamp-black the whole of
+felt it a duty to go that same [[motifs/night|night]], and lamp-black the whole of
 
 their palace. For this the unreasonable villains clapped me into
 
-jail; and the gentlemen of the Eye-Sore trade could not [[Well|well]]
+jail; and the gentlemen of the Eye-Sore trade could not [[motifs/well|well]]
 
 avoid cutting my connection when I came out.
 
@@ -372,23 +372,23 @@ The Assault-and-Battery business, into which I was now forced to
 
 adventure for a livelihood, was somewhat ill-adapted to the
 
-delicate [[Nature|nature]] of my constitution; but I went to work in it with
+delicate [[concepts/nature|nature]] of my constitution; but I went to work in it with
 
 a good heart, and found my account here, as heretofore, in those
 
 stern habits of methodical accuracy which had been thumped into
 
-me by that delightful old [[Nurse|nurse]]—I would indeed be the basest of
+me by that delightful old [[characters/nurse|nurse]]—I would indeed be the basest of
 
-men not to remember her [[Well|well]] in my will. By observing, as I say,
+men not to remember her [[motifs/well|well]] in my will. By observing, as I say,
 
 the strictest system in all my dealings, and keeping a
 
-[[Well|well]]-regulated set of books, I was enabled to get over many
+[[motifs/well|well]]-regulated set of books, I was enabled to get over many
 
 serious difficulties, and, in the end, to establish myself very
 
-decently in the profession. The [[Truth|truth]] is, that few individuals,
+decently in the profession. The [[concepts/truth|truth]] is, that few individuals,
 
 in any line, did a snugger little business than I. I will just
 
@@ -444,7 +444,7 @@ finding him lift me up by the nape of the neck, and fling me over
 
 into the pit. Neck dislocated, and right leg capitally
 
-splintered. Went [[Home|home]] in high glee, drank a bottle of champagne,
+splintered. Went [[motifs/home|home]] in high glee, drank a bottle of champagne,
 
 and booked the young man for five thousand. Bag says it’ll do.
 
@@ -478,11 +478,11 @@ It’s an old saying, and a true one, however, that money is
 
 nothing in comparison with health. I found the exactions of the
 
-profession somewhat too much for my delicate state of [[Body|body]]; and,
+profession somewhat too much for my delicate state of [[concepts/body|body]]; and,
 
 discovering, at last, that I was knocked all out of shape, so
 
-that I didn’t know very [[Well|well]] what to make of the matter, and so
+that I didn’t know very [[motifs/well|well]] what to make of the matter, and so
 
 that my friends, when they met me in the street, couldn’t tell
 
@@ -506,7 +506,7 @@ sufficient quantity to make his way as a walking advertiser, or
 
 an eye-sore prig, or a salt-and-batter man, thinks, of course,
 
-that he’ll answer very [[Well|well]] as a dabbler of mud. But there never
+that he’ll answer very [[motifs/well|well]] as a dabbler of mud. But there never
 
 was entertained a more erroneous idea than that it requires no
 
@@ -522,7 +522,7 @@ and I never put down a broom in any part of the town but that. I
 
 took care, too, to have a nice little puddle at hand, which I
 
-could get at in a minute. By these means I got to be [[Well|well]] known
+could get at in a minute. By these means I got to be [[motifs/well|well]] known
 
 as a man to be trusted; and this is one-half the battle, let me
 
@@ -542,7 +542,7 @@ course I couldn’t help. Their suspension put me to ruinous
 
 inconvenience. These, however, are not individuals, but
 
-corporations; and corporations, it is very [[Well|well]] known, have
+corporations; and corporations, it is very [[motifs/well|well]] known, have
 
 neither bodies to be kicked nor souls to be damned.
 
@@ -560,9 +560,9 @@ had capital blacking and brushes. My little dog, too, was quite
 
 fat and up to all varieties of snuff. He had been in the trade a
 
-long [[Time|time]], and, I may say, understood it. Our general routine was
+long [[motifs/time|time]], and, I may say, understood it. Our general routine was
 
-this:—[[Pompey]], having rolled himself [[Well|well]] in the mud, sat upon end
+this:—[[characters/pompey|Pompey]], having rolled himself [[motifs/well|well]] in the mud, sat upon end
 
 at the shop door, until he observed a dandy approaching in bright
 
@@ -574,7 +574,7 @@ looked about for a boot-black. There I was, full in his view,
 
 with blacking and brushes. It was only a minute’s work, and then
 
-came a sixpence. This did moderately [[Well|well]] for a [[Time|time]];—in fact, I
+came a sixpence. This did moderately [[motifs/well|well]] for a [[motifs/time|time]];—in fact, I
 
 was not avaricious, but my dog was. I allowed him a third of the
 
@@ -586,11 +586,11 @@ stand—so we quarrelled and parted.
 
 I next tried my hand at the Organ-Grinding for a while, and may
 
-say that I made out pretty [[Well|well]]. It is a plain, straightforward
+say that I made out pretty [[motifs/well|well]]. It is a plain, straightforward
 
 business, and requires no particular abilities. You can get a
 
-music-mill for a mere [[Song|song]], and to put it in order, you have but
+music-mill for a mere song, and to put it in order, you have but
 
 to open the works, and give them three or four smart raps with a
 
@@ -604,7 +604,7 @@ street, and a knocker wrapped up in buckskin. Then you stop and
 
 grind; looking as if you meant to stop and grind till doomsday.
 
-Presently a [[Window|window]] opens, and somebody pitches you a sixpence,
+Presently a [[motifs/window|window]] opens, and somebody pitches you a sixpence,
 
 with a request to “Hush up and go on,” etc. I am aware that some
 
@@ -618,7 +618,7 @@ permit of my “going on” under a shilling.
 
 At this occupation I did a good deal; but, somehow, I was not
 
-quite satisfied, and so finally abandoned it. The [[Truth|truth]] is, I
+quite satisfied, and so finally abandoned it. The [[concepts/truth|truth]] is, I
 
 labored under the disadvantage of having no monkey—and American
 
@@ -654,17 +654,17 @@ always called at the big houses to deliver the letters, and
 
 receive the postage. Nobody hesitates at paying for a
 
-letter—especially for a [[Double|double]] one—people are such fools—and it
+letter—especially for a [[topoi/double|double]] one—people are such fools—and it
 
-was no trouble to get round a corner before there was [[Time|time]] to
+was no trouble to get round a corner before there was [[motifs/time|time]] to
 
 open the epistles. The worst of this profession was, that I had
 
 to walk so much and so fast; and so frequently to vary my route.
 
-Besides, I had serious scruples of [[Conscience|conscience]]. I can’t bear to
+Besides, I had serious scruples of [[concepts/conscience|conscience]]. I can’t bear to
 
-hear [[Innocent|innocent]] individuals abused—and the way the whole town took
+hear [[archetypes/innocent|innocent]] individuals abused—and the way the whole town took
 
 to cursing Tom Dobson and Bobby Tompkins was really awful to
 
@@ -676,7 +676,7 @@ My eighth and last speculation has been in the Cat-Growing way. I
 
 have found that a most pleasant and lucrative business, and,
 
-really, no trouble at all. The country, it is [[Well|well]] known, has
+really, no trouble at all. The country, it is [[motifs/well|well]] known, has
 
 become infested with cats—so much so of late, that a petition for
 
@@ -684,7 +684,7 @@ relief, most numerously and respectably signed, was brought
 
 before the Legislature at its late memorable session. The
 
-Assembly, at this epoch, was unusually [[Well|well]]-informed, and, having
+Assembly, at this epoch, was unusually [[motifs/well|well]]-informed, and, having
 
 passed many other wise and wholesome enactments, it crowned all
 
@@ -696,7 +696,7 @@ succeeded in amending the main clause, so as to substitute the
 
 word “tails” for “heads.” This amendment was so obviously proper,
 
-that the [[house|House]] concurred in it nem. con.
+that the House concurred in it nem. con.
 
 
 
@@ -718,7 +718,7 @@ discovered a way, in which, by means of Macassar oil, I can force
 
 three crops in a year. It delights me to find, too, that the
 
-[[Animals|animals]] soon get accustomed to the thing, and would rather have
+[[motifs/animals|animals]] soon get accustomed to the thing, and would rather have
 
 the appendages cut off than otherwise. I consider myself,
 
@@ -732,7 +732,7 @@ the Hudson.
 <span class="atom-split" data-atom="part--part_01" data-title="The Business Man (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/nature,motif/pain,motif/soul,motif/summer,motif/time,motif/well,concept/body,concept/doubt,concept/hope,concept/nature,concept/paradox,concept/truth,form/biography,character/nurse"></span>
 
 
-Method is the [[Soul|soul]] of business.—OLD SAYING.
+Method is the [[motifs/soul|soul]] of business.—OLD SAYING.
 
 
 
@@ -748,11 +748,11 @@ These fellows are always doing the most out-of-the-way things in
 
 what they call an orderly manner. Now here, I conceive, is a
 
-positive [[Paradox|paradox]]. True method appertains to the ordinary and the
+positive [[concepts/paradox|paradox]]. True method appertains to the ordinary and the
 
-obvious [[Alone|alone]], and cannot be applied to the _outré_. What
+obvious alone, and cannot be applied to the _outré_. What
 
-definite idea can a [[Body|body]] attach to such expressions as
+definite idea can a [[concepts/body|body]] attach to such expressions as
 
 “methodical Jack o’ Dandy,” or “a systematical Will o’ the Wisp”?
 
@@ -762,7 +762,7 @@ My notions upon this head might not have been so clear as they
 
 are, but for a fortunate accident which happened to me when I was
 
-a very little boy. A good-hearted old Irish [[Nurse|nurse]] (whom I shall
+a very little boy. A good-hearted old Irish [[characters/nurse|nurse]] (whom I shall
 
 not forget in my will) took me up one day by the heels, when I
 
@@ -776,7 +776,7 @@ bedpost. This, I say, decided my fate, and made my fortune. A
 
 bump arose at once on my sinciput, and turned out to be as pretty
 
-an organ of order as one shall see on a [[Summer|summer]]’s day. Hence that
+an organ of order as one shall see on a [[motifs/summer|summer]]’s day. Hence that
 
 positive appetite for system and regularity which has made me the
 
@@ -802,7 +802,7 @@ variance with the “fitness of things,” and having no business
 
 whatever to be considered as a business at all. Thus you may tell
 
-these characters immediately by the [[Nature|nature]] of their occupations.
+these characters immediately by the [[concepts/nature|nature]] of their occupations.
 
 If you ever perceive a man setting up as a merchant or a
 
@@ -824,9 +824,9 @@ Now I am not in any respect a genius, but a regular business man.
 
 My day-book and ledger will evince this in a minute. They are
 
-[[Well|well]] kept, though I say it myself; and, in my general habits of
+[[motifs/well|well]] kept, though I say it myself; and, in my general habits of
 
-accuracy and punctuality, I am not to be beat by a [[Clock|clock]].
+accuracy and punctuality, I am not to be beat by a [[motifs/clock|clock]].
 
 Moreover, my occupations have been always made to chime in with
 
@@ -834,29 +834,29 @@ the ordinary habitudes of my fellowmen. Not that I feel the least
 
 indebted, upon this score, to my exceedingly weak-minded parents,
 
-who, beyond [[Doubt|doubt]], would have made an arrant genius of me at
+who, beyond [[concepts/doubt|doubt]], would have made an arrant genius of me at
 
-last, if my guardian angel had not come, in good [[Time|time]], to the
+last, if my guardian angel had not come, in good [[motifs/time|time]], to the
 
-rescue. In [[Biography|biography]] the [[Truth|truth]] is every thing, and in
+rescue. In [[forms/biography|biography]] the [[concepts/truth|truth]] is every thing, and in
 
-autobiography it is especially so—yet I scarcely [[Hope|hope]] to be
+autobiography it is especially so—yet I scarcely [[concepts/hope|hope]] to be
 
 believed when I state, however solemnly, that my poor father put
 
 me, when I was about fifteen years of age, into the
 
-counting-[[house]] of what be termed “a respectable hardware and
+counting-house of what be termed “a respectable hardware and
 
 commission merchant doing a capital bit of business!” A capital
 
 bit of fiddlestick! However, the consequence of this folly was,
 
-that in two or three days, I had to be sent [[Home|home]] to my
+that in two or three days, I had to be sent [[motifs/home|home]] to my
 
 button-headed family in a high state of fever, and with a most
 
-violent and dangerous [[Pain|pain]] in the sinciput, all around about my
+violent and dangerous [[motifs/pain|pain]] in the sinciput, all around about my
 
 organ of order. It was nearly a gone case with me then—just
 
@@ -870,13 +870,13 @@ hardware and commission merchant, doing a capital bit of
 
 business,” and I felt grateful to the protuberance which had been
 
-the means of my salvation, as [[Well|well]] as to the kindhearted female
+the means of my salvation, as [[motifs/well|well]] as to the kindhearted female
 
 who had originally put these means within my reach.
 
 
 
-The most of boys run away from [[Home|home]] at ten or twelve years of
+The most of boys run away from [[motifs/home|home]] at ten or twelve years of
 
 age, but I waited till I was sixteen. I don’t know that I should
 
@@ -892,9 +892,9 @@ dancing attendance any longer upon the caprices of these
 
 eccentric old people, and running the risk of being made a genius
 
-of in the end. In this project I succeeded perfectly [[Well|well]] at the
+of in the end. In this project I succeeded perfectly [[motifs/well|well]] at the
 
-first effort, and by the [[Time|time]] I was fairly eighteen, found myself
+first effort, and by the [[motifs/time|time]] I was fairly eighteen, found myself
 
 doing an extensive and profitable business in the Tailor’s
 
@@ -908,19 +908,206 @@ only by that rigid adherence to system which formed the leading
 
 feature of my mind. A scrupulous method characterized my actions
 
-as [[Well|well]] as my accounts. In my case it was method—not money—which
+as [[motifs/well|well]] as my accounts. In my case it was method—not money—which
 
 made the man: at least all of him that was not made by the tailor
 
 whom I served. At nine, every morning, I called upon that
 
 
+<span class="qlang-split" data-lang="it"></span>
+
+Il metodo è l’[[motifs/soul|’anima]] del business. — ANTICA MASSIMA.
+
+
+
+Un uomo d’affari metodico
+
+Alla fine… Ma non ci sono persone che disprezzi di più di…
+
+I vostri eccentrici sciocchi che parlano di metodi senza capirne realmente il significato
+
+Si attiene rigorosamente alla sua lettera, ma viola il suo spirito.
+
+Questi tipi fanno sempre le cose più strane…
+
+Un modo che loro definiscono “ordinato”. Ora, credo, ecco…
+
+Paradossi positivi. Il vero metodo appartiene al mondo ordinario e.
+
+È evidente che questo principio non possa essere applicato agli altri casi. Cosa.
+
+È possibile che un [[concepts/body|corpo]] si associi a espressioni del genere?
+
+“Jack o’ Dandy metodico”, oppure “Will o’ the Wisp sistematico”?
+
+
+
+Le mie idee in merito non erano forse così chiare come avrebbero potuto essere…
+
+Titolo:  
+Se non fosse stato per un fortunato incidente che mi è accaduto quando ero…
+
+Un bambino molto piccolo. Una gentile vecchia [[characters/nurse|infermiera]] irlandese (di cui parlerò, ).
+
+Non dimenticarlo nel mio testamento… Un giorno mi prese per le caviglie e…
+
+Faceva più rumore del necessario e mi scuoteva continuamente.
+
+“Due o tre volte… ho cercato con gli occhi quella piccola creatura che strillava…”
+
+“Spalpeen”, e poi mi colpì la testa con un cappello a cilindro…
+
+“La sbarra del letto… Questo, dico io, decise il mio destino e mi fece arricchire.”
+
+Un fastidio improvviso sulla mia fronte… e si rivelò piuttosto fastidioso
+
+Un organo dell’ordine, come si può vedere in una giornata d’estate. Ecco perché.
+
+Un appetito costante per sistemi e regolarità… caratteristiche che mi hanno reso…
+
+Un rispettabile uomo d’affari come sono io.
+
+
+
+“Se c’è qualcosa al mondo che odio, è un genio.”
+
+I geni sono tutti idioti assoluti: più grande è il genio, più grande è l’idiotia.
+
+Il sedere, e a questa regola non esiste alcuna eccezione.
+
+"In particolare, non si può trasformare un genio in un uomo d’affari."
+
+Titolo:  
+Né più di quanto si possa ottenere da un ebreo in termini di denaro, né dei migliori noci moscate…
+
+“Pine-knots: creature che si allontanano sempre dal tema principale…”
+
+Un lavoro fantastico… o una speculazione assurda?
+
+Diversità e “adattabilità delle cose”, senza alcun legame concreto
+
+Qualsiasi cosa possa essere considerata un’attività commerciale… Ecco come si può definire.
+
+Questi caratteri si distinguono immediatamente a causa della [[concepts/nature|natura]] delle loro occupazioni.
+
+Se mai noti un uomo che si presenta come mercante…
+
+Produttore… oppure intraprendere il commercio del cotone o del tabacco… o qualsiasi altro settore.
+
+Di quelle strane attività… o di diventare un commerciante di merci varie.
+
+Qualcosa del genere… o fingere di essere qualcos’altro.
+
+Avvocato, fabbro o medico… qualsiasi professione, tranne questa.
+
+Titolo:  
+Nel modo consueto… si potrebbe subito definirlo un genio.
+
+Secondo la regola dei tre, è uno stupido.
+
+
+
+Ora, non sono affatto un genio, ma semplicemente un uomo d'affari ordinario.
+
+“Il mio diario e il mio libro contabile lo dimostreranno immediatamente. Sono…”
+
+Ben curato, devo ammetterlo io stesso; e, nelle mie abitudini generali.
+
+Precisione e puntualità: nessun [[motifs/clock|orologio]] può battermi.
+
+Inoltre, le mie occupazioni sono sempre state scelte in modo da concordare con…
+
+Le abitudini ordinarie dei miei simili… Non che ne provi la minima curiosità.
+
+In questo senso, sono in debito con i miei genitori, estremamente di mentalità debole.
+
+Chi, senza alcun [[concepts/doubt|dubbio]], avrebbe potuto trasformarmi in un genio assoluto.
+
+Infine, se il mio angelo custode non fosse arrivato, in tempo.
+
+Salvataggio. Nella [[forms/biography|biografia]], la [[concepts/truth|verità]] è tutto; e in.
+
+Un'autobiografia lo è ancora di più. Eppure, difficilmente spero di riuscirci.
+
+“Si crede a ciò che dico, per quanto seriamente lo dichiari, anche se riguarda mio povero padre…”
+
+Quando avevo circa quindici anni…
+
+La contabilità della cosiddetta “attrezzatura idonea”.
+
+“Un commerciante che si dedica a affari di grande portata…” Un affare importante.
+
+“Una sciocchezza del tutto inutile! Tuttavia, le conseguenze di questa follia furono…”
+
+Che in due o tre giorni dovessi essere riportato a casa mia.
+
+Famiglia testarda e irrequieta, nel pieno di un’agitazione estrema…
+
+Un dolore violento e pericoloso nella zona della fronte, in tutto l’area intorno.
+
+Organo dell’ordine. Allora per me sembrava quasi un caso irrisolvibile…
+
+“Una situazione precaria per sei settimane: i medici sembravano aver perso speranza…”
+
+“Una cosa del genere… Ma, nonostante abbia sofferto molto, sono stato…”
+
+“Un ragazzo grato, in fondo… Sono stato salvato dal diventare qualcuno ‘rispettabile’.”
+
+Hardware e commerciante di apparecchiature: un po’ di affari redditizi…
+
+“Affari…”, e provai gratitudine verso quella parte del mio corpo che aveva reso possibile tutto ciò.
+
+I mezzi della mia salvezza, così come la gentile donna di buon cuore.
+
+che in origine aveva messo a mia disposizione questi mezzi.
+
+
+
+La maggior parte dei ragazzi scappa da [[motifs/home|casa]] all’età di dieci o dodici anni.
+
+Aspettai fino ai sedici anni… Non so se fosse la cosa giusta da fare.
+
+Se non fosse stato per aver sentito parlare di mia madre…
+
+Mettermi nei guai da solo… proprio nel modo più ridicolo possibile.
+
+Via della spesa! – solo pensatoci! Decisi di partire immediatamente.
+
+E provare a stabilirmi in una professione decente, senza…
+
+Non si può più continuare ad obbedire ai capricci di questi…
+
+Vecchi eccentrici… e il rischio di essere considerati geni
+
+Alla fine, in questo progetto sono riuscito perfettamente.
+
+Il primo tentativo. E quando avevo ormai quasi diciotto anni, mi ritrovai.
+
+"#Un’attività estesa e proficua nel settore della sartoria..."
+
+Linea pubblicitaria per camminate.
+
+
+
+Ho avuto la capacità di svolgere gli onerosi doveri di questa professione.
+
+Solo attraverso quel rigido attaccamento al sistema che ne costituiva il fondamento…
+
+Una caratteristica fondamentale della mia mente: un metodo meticoloso guidava tutte le mie azioni.
+
+Tanto quanto i miei conti lo dimostrano. Nel mio caso, è stata la metodicità, non il denaro, a fare la differenza.
+
+“Quello che lo ha reso un uomo… almeno tutto ciò che in lui non è stato plasmato dal sarto.”
+
+Chi servii. Alle nove di ogni mattina, mi recavo da quella persona…
+
 
 
 <span class="atom-split" data-atom="part--part_02" data-title="The Business Man (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/home,motif/nature,motif/night,motif/noon,motif/tears,motif/well,concept/doubt,concept/nature,concept/truth,character/nurse"></span>
 
 
-individual for the clothes of the day. Ten o’[[Clock|clock]] found me in
+individual for the clothes of the day. Ten o’[[motifs/clock|clock]] found me in
 
 some fashionable promenade or other place of public amusement.
 
@@ -930,17 +1117,17 @@ about, so as to bring successively into view every portion of the
 
 suit upon my back, was the admiration of all the knowing men in
 
-the trade. [[Noon]] never passed without my bringing [[Home|home]] a customer
+the trade. [[motifs/noon|Noon]] never passed without my bringing [[motifs/home|home]] a customer
 
-to the [[house]] of my employers, Messrs. Cut & Comeagain. I say this
+to the house of my employers, Messrs. Cut & Comeagain. I say this
 
-proudly, but with [[Tears|tears]] in my eyes—for the firm proved themselves
+proudly, but with [[motifs/tears|tears]] in my eyes—for the firm proved themselves
 
 the basest of ingrates. The little account, about which we
 
 quarreled and finally parted, cannot, in any item, be thought
 
-overcharged, by gentlemen really conversant with the [[Nature|nature]] of
+overcharged, by gentlemen really conversant with the [[concepts/nature|nature]] of
 
 the business. Upon this point, however, I feel a degree of proud
 
@@ -956,7 +1143,7 @@ To Peter Proffit, Walking Advertiser,_ Drs.
 
 
 
-July 10.   to promenade, as usual and customer brought [[Home|home]]   $00 25
+July 10.   to promenade, as usual and customer brought [[motifs/home|home]]   $00 25
 
 July 11.   To do do do                                            25
 
@@ -972,7 +1159,7 @@ July 20.   To purchasing bran new paper shirt collar or dickey,
 
 to set off gray Petersham                              02
 
-Aug. 15.   To wearing [[Double|double]]-padded bobtail frock, (thermometer
+Aug. 15.   To wearing [[topoi/double|double]]-padded bobtail frock, (thermometer
 
 106 in the shade)                                      25
 
@@ -1034,11 +1221,11 @@ My strict integrity, economy, and rigorous business habits, here
 
 again came into play. I found myself driving a flourishing trade,
 
-and soon became a marked man upon “Change.” The [[Truth|truth]] is, I never
+and soon became a marked man upon “Change.” The [[concepts/truth|truth]] is, I never
 
 dabbled in flashy matters, but jogged on in the good old sober
 
-routine of the calling—a calling in which I should, no [[Doubt|doubt]],
+routine of the calling—a calling in which I should, no [[concepts/doubt|doubt]],
 
 have remained to the present hour, but for a little accident
 
@@ -1082,11 +1269,11 @@ corporation which asked me to do this very thing—this very thing!
 
 I did not reply to their absurd proposition, of course; but I
 
-felt it a duty to go that same [[Night|night]], and lamp-black the whole of
+felt it a duty to go that same [[motifs/night|night]], and lamp-black the whole of
 
 their palace. For this the unreasonable villains clapped me into
 
-jail; and the gentlemen of the Eye-Sore trade could not [[Well|well]]
+jail; and the gentlemen of the Eye-Sore trade could not [[motifs/well|well]]
 
 avoid cutting my connection when I came out.
 
@@ -1096,16 +1283,207 @@ The Assault-and-Battery business, into which I was now forced to
 
 adventure for a livelihood, was somewhat ill-adapted to the
 
-delicate [[Nature|nature]] of my constitution; but I went to work in it with
+delicate [[concepts/nature|nature]] of my constitution; but I went to work in it with
 
 a good heart, and found my account here, as heretofore, in those
 
 stern habits of methodical accuracy which had been thumped into
 
-me by that delightful old [[Nurse|nurse]]—I would indeed be the basest of
+me by that delightful old [[characters/nurse|nurse]]—I would indeed be the basest of
 
-men not to remember her [[Well|well]] in my will. By observing, as I say,
+men not to remember her [[motifs/well|well]] in my will. By observing, as I say,
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Individuale per i vestiti di moda del momento. Alle dieci in punto mi trovarono.
+
+Qualche elegante passeggiata o altro luogo di divertimento pubblico.
+
+La regolarità perfetta con cui muovevo il mio bellissimo corpo
+
+Per mettere gradualmente in evidenza ogni singola parte…
+
+“Un abito che mi donava grande fascino… l’ammirazione di tutti gli uomini colti era certa.”
+
+Il mio lavoro. Non passava mai mezzogiorno senza che portassi a casa un cliente.
+
+Alla casa dei miei datori di lavoro, i signori Cut & Comeagain. Dico questo.
+
+Con orgoglio, ma con [[motifs/tears|lacrime]] negli occhi, perché l’azienda si era dimostrata all’altezza delle aspettative.
+
+“Il più ingrato dei ingrati… Quel piccolo debito, di cui stiamo parlando…”
+
+Si sono scontrati e alla fine si sono separati; in nessun modo si può pensare che possano tornare insieme.
+
+Sopraffatturato, da gentiluomini davvero esperti nella natura di.
+
+Il business… Su questo punto, tuttavia, provo una certa fierezza.
+
+Il piacere di lasciare che sia il lettore a giudicare da solo.
+
+Il testo recitava così:
+
+
+
+Signori Cut & Comeagain, sarti mercanti.
+
+A Peter Proffit, “Walking Advertiser”, i dottori.
+
+
+
+10 luglio: per fare una passeggiata, come al solito; il cliente ha portato a casa un oggetto del valore di $00 25.
+
+11 luglio. Fare, fare, fare…                                        25
+
+12 luglio: Una bugia di secondo grado… tessuto nero danneggiato in vendita
+
+Per il verde invisibile                                    25
+
+13 luglio: Una bugia di prima classe, di qualità e dimensioni eccezionali.
+
+Satinet macinato consigliato come tessuto simile al lino, 75
+
+20 luglio: Acquistare un colletto di camicia o una cravatta in carta completamente nuova
+
+Partire con il grigio di Petersham                              02
+
+15 agosto. Per indossare un abito con doppio strato di imbottitura e coda corta, (termometro)
+
+106 all’ombra                                   25
+
+In piedi su una gamba per tre ore, solo per fare mostra di sé
+
+Pantaloni elastici di nuova fattura, al prezzo di 12,5 centesimi a paio
+
+Ore: 37½
+
+17 agosto: Come al solito, passeggiata… e un cliente importante è arrivato.
+
+Uomo grasso                                      50
+
+18 agosto: Da fare… di medie dimensioni                           25
+
+19 agosto: Lavoro duro e paga misera                      6
+
+Titolo:  
+Totale: $2.955
+
+
+
+
+
+L’oggetto principale della controversia in questo disegno di legge era proprio quella proposta moderata
+
+“Due penny per il dickey… Sul mio onore, questo…”
+
+“Non era un prezzo eccessivo per quel cappello… Era uno dei migliori disponibili.”
+
+“Le più pulite e belle creaturine che abbia mai visto… E ne ho viste molte.”
+
+C’è motivo di ritenere che ciò abbia determinato la vendita di tre gatti di razza Petersham.
+
+Il socio più anziano dell’azienda, tuttavia, mi permetteva soltanto uno…
+
+“Penny of the Charge, e si assunse il compito di dimostrare in cosa…”
+
+Quattro modi per ottenere comodità della stessa dimensione
+
+“Una semplice striscia di carta… Ma è inutile dire che rimasi lì, fermo.”
+
+Il principio fondamentale: gli affari sono affari, e devono essere trattati come tali.
+
+Fatto con metodo professionale… Non esisteva alcun sistema preciso per commettere truffe.
+
+Una truffa evidente del cinquanta percento… Nessun modo per evitarlo.
+
+Senza alcun rimpianto… Abbandonai immediatamente il lavoro presso i signori Cut & Co.
+
+“Comeagain… e mettiamoci da soli nella fila ‘Eye-Sore’ – uno di noi…”
+
+Il più redditizio, rispettabile ed indipendente dal comune schema.
+
+Occupazioni.
+
+
+
+La mia rigorosa integrità, parsimonia e abitudini lavorative meticolose… ecco qui.
+
+Di nuovo entrò in gioco… Mi ritrovai a gestire un’attività commerciale molto prospera.
+
+E presto divenne un uomo braccato su “Change”. La [[concepts/truth|verità]] è, che io non l’ho mai fatto.
+
+Si occupava di cose frivole e vane, ma continuava comunque a seguire la retta via, sobria e onesta.
+
+La routine di questa chiamata, una chiamata nella quale, senza alcun [[concepts/doubt|dubbio]], dovrei.
+
+Sono rimasti fino ad ora… se non fosse stato per un piccolo incidente.
+
+Quello che mi è successo nell’indagare su uno di quei casi abituali…
+
+Le operazioni commerciali della professione… Ogni volta che un vecchio ricco e attraente…
+
+Il figlio prodigo o la società fallita che decide di…
+
+"Costruire un palazzo: una cosa del genere non esiste affatto nel mondo."
+
+Fermare uno qualsiasi di loro. E questo lo sa ogni persona intelligente.
+
+Il fatto in questione è effettivamente alla base del commercio legato a queste pratiche dannose.
+
+Quindi, non appena un progetto edilizio inizia concretamente…
+
+Tra queste parti, noi mercanti riusciamo ad ottenere una bella porzione del complesso.
+
+Contemplazione… o una piccola situazione che ne consegue direttamente.
+
+“Mentre questo viene fatto, aspettiamo che il palazzo sia arrivato a metà strada…”
+
+In alto… e poi paghiamo un bravo architetto perché ci costruisca qualcosa di davvero bello.
+
+"#Casa di fango ornamentale, proprio accanto ad essa; o qualcosa di tipico del New England o dei Paesi Bassi..."
+
+Pagoda… o una stalla per maiali… o un piccolo capolavoro di ingegnosità.
+
+O Esquimago, o Kickapoo, o Ottentotto… Certo che non possiamo.
+
+Titolo:  
+Avere la possibilità di demolire queste strutture con un bonus di cinque…
+
+Cento percento sul costo di base del nostro lotto e della malta. Possibile.
+
+“Noi? È questa la domanda che pongo… La pongo agli uomini d’affari. Sarebbe…”
+
+“È irrazionale pensare che possiamo farlo… Eppure c’era qualcuno che, in modo disonesto, ci provava.”
+
+Una società che mi ha chiesto esattamente di fare questa cosa, proprio questa cosa!
+
+Non ho certo risposto alla loro assurda proposta, ovviamente… ma…
+
+Sentì di dover andare proprio quella stessa [[motifs/night|notte]] e oscurare completamente tutto con la vernice nera.
+
+Il loro palazzo… Per questo, quei malvagi e irragionevoli mi hanno rinchiuso lì dentro.
+
+In prigione; e quei signori del settore degli occhi malati non riuscivano affatto a.
+
+Evitate di interrompere la mia connessione quando esco.
+
+
+
+"The Assault-and-Battery business, into which I was now forced to"
+
+**Avventura per sbarcare il lunario…**, in qualche modo poco adatta alle circostanze.
+
+Le delicate caratteristiche della mia costituzione; ma ho comunque iniziato a lavorarci sopra.
+
+“Un cuore gentile… E ho trovato la mia strada, proprio come in passato.”
+
+Titolo:  
+Abitudini rigorose e meticolose di precisione, che erano state instillate con forza…
+
+Da quella deliziosa vecchia [[characters/nurse|infermiera]], sarei davvero il più spregevole dei.
+
+affinché non si dimentichi di lei nel mio testamento. Come dico, osservando.
 
 
 
@@ -1114,11 +1492,11 @@ men not to remember her [[Well|well]] in my will. By observing, as I say,
 
 the strictest system in all my dealings, and keeping a
 
-[[Well|well]]-regulated set of books, I was enabled to get over many
+[[motifs/well|well]]-regulated set of books, I was enabled to get over many
 
 serious difficulties, and, in the end, to establish myself very
 
-decently in the profession. The [[Truth|truth]] is, that few individuals,
+decently in the profession. The [[concepts/truth|truth]] is, that few individuals,
 
 in any line, did a snugger little business than I. I will just
 
@@ -1174,7 +1552,7 @@ finding him lift me up by the nape of the neck, and fling me over
 
 into the pit. Neck dislocated, and right leg capitally
 
-splintered. Went [[Home|home]] in high glee, drank a bottle of champagne,
+splintered. Went [[motifs/home|home]] in high glee, drank a bottle of champagne,
 
 and booked the young man for five thousand. Bag says it’ll do.
 
@@ -1208,11 +1586,11 @@ It’s an old saying, and a true one, however, that money is
 
 nothing in comparison with health. I found the exactions of the
 
-profession somewhat too much for my delicate state of [[Body|body]]; and,
+profession somewhat too much for my delicate state of [[concepts/body|body]]; and,
 
 discovering, at last, that I was knocked all out of shape, so
 
-that I didn’t know very [[Well|well]] what to make of the matter, and so
+that I didn’t know very [[motifs/well|well]] what to make of the matter, and so
 
 that my friends, when they met me in the street, couldn’t tell
 
@@ -1236,7 +1614,7 @@ sufficient quantity to make his way as a walking advertiser, or
 
 an eye-sore prig, or a salt-and-batter man, thinks, of course,
 
-that he’ll answer very [[Well|well]] as a dabbler of mud. But there never
+that he’ll answer very [[motifs/well|well]] as a dabbler of mud. But there never
 
 was entertained a more erroneous idea than that it requires no
 
@@ -1252,7 +1630,7 @@ and I never put down a broom in any part of the town but that. I
 
 took care, too, to have a nice little puddle at hand, which I
 
-could get at in a minute. By these means I got to be [[Well|well]] known
+could get at in a minute. By these means I got to be [[motifs/well|well]] known
 
 as a man to be trusted; and this is one-half the battle, let me
 
@@ -1272,7 +1650,7 @@ course I couldn’t help. Their suspension put me to ruinous
 
 inconvenience. These, however, are not individuals, but
 
-corporations; and corporations, it is very [[Well|well]] known, have
+corporations; and corporations, it is very [[motifs/well|well]] known, have
 
 neither bodies to be kicked nor souls to be damned.
 
@@ -1290,9 +1668,9 @@ had capital blacking and brushes. My little dog, too, was quite
 
 fat and up to all varieties of snuff. He had been in the trade a
 
-long [[Time|time]], and, I may say, understood it. Our general routine was
+long [[motifs/time|time]], and, I may say, understood it. Our general routine was
 
-this:—[[Pompey]], having rolled himself [[Well|well]] in the mud, sat upon end
+this:—[[characters/pompey|Pompey]], having rolled himself [[motifs/well|well]] in the mud, sat upon end
 
 at the shop door, until he observed a dandy approaching in bright
 
@@ -1304,8 +1682,207 @@ looked about for a boot-black. There I was, full in his view,
 
 with blacking and brushes. It was only a minute’s work, and then
 
-came a sixpence. This did moderately [[Well|well]] for a [[Time|time]];—in fact, I
+came a sixpence. This did moderately [[motifs/well|well]] for a [[motifs/time|time]];—in fact, I
 
+
+<span class="qlang-split" data-lang="it"></span>
+
+Il sistema più rigoroso in tutte le mie transazioni… e il rispetto di tale rigore.
+
+Un insieme di libri ben regolamentati mi ha permesso di superare molte difficoltà.
+
+Difficoltà serie… e, alla fine, riuscire a stabilirmi bene.
+
+Abbastanza affermato nella propria professione. La [[concepts/truth|verità]] è che poche persone, in realtà, riescono davvero a raggiungere questo livello.
+
+“Nessuno, in nessun modo, ha fatto affari migliori dei miei. Lo giuro.”
+
+Trascrivi una pagina o due dal mio Diario… Mi risparmierà molto lavoro.
+
+"Necessità di suonare la mia stessa tromba: una pratica spregevole"
+
+“Un atto che nessun uomo di nobili principi potrebbe mai compiere… Ora, il ‘Diario del Lavoro’…”
+
+Cose che non mentono.
+
+
+
+“1° gennaio – Giorno di Capodanno. Ho messo Snap per strada; è ancora assonnato.”
+
+Mem… andrà bene. Poco dopo ho incontrato Gruff, completamente ubriaco. Mem… andrà bene.
+
+“Risposta anch’essa… Ho registrato entrambi i signori nel mio registro e ho aperto…”
+
+Un conto corrente con ciascuno di loro.
+
+
+
+2 gennaio – Ho visto Snap all’Exchange e poi sono andato su e l’ho calpestato…
+
+Piede. Chiuse il pugno e mi fece cadere. Bene! – Si alzò di nuovo.
+
+Un piccolo problema con Bag, il mio avvocato… Voglio che…
+
+"Danni per mille, ma lui dice che per una semplice botta..."
+
+Titolo:  
+Non possiamo superare i cinquecento… Dobbiamo assolutamente…
+
+Sbarazzarsi di Bag, nessun sistema affatto.
+
+
+
+3 gennaio – Sono andato al teatro per cercare Gruff; l’ho visto seduto lì…
+
+In una cabina laterale, al secondo livello, tra una donna grassa e una magra…
+
+Uno… interrogai l’intera compagnia attraverso un monocchio, finché non vidi…
+
+La signora grassa arrossisce e sussurra a G… Poi si allontana, entrando nella…
+
+Mi avvicinai al box e posizionai il mio naso all’altezza della sua mano… Ma non l’avrei mai tirata via.
+
+Nessun successo… Provato ancora, ma niente. Alla fine ho deciso di arrendermi.
+
+Fece l’occhiolino alla donna snella, quando provai quella grande soddisfazione…
+
+Sollevandomi per il collo, mi getta via
+
+Nella fossa… Collo lussato e la gamba destra gravemente danneggiata
+
+Si frantumò in pezzi. Tornò a casa felicissimo, bevve una bottiglia di champagne.
+
+E prenotò il giovane per cinquemila. Bag dice che andrà bene.
+
+
+
+15 febbraio – Il caso del signor Snap viene risolto. L’importo necessario viene versato.
+
+Giornale, cinquanta centesimi, come potete vedere.
+
+
+
+“16 febbraio – Gettato via da quel brutale, Gruff, che mi ha fatto un regalo…”
+
+Cinque dollari. I costi del processo ammontano a quattro dollari e venticinque centesimi.
+
+“Utile netto: –vedi il giornale– settantacinque centesimi.”
+
+
+
+Ora, ecco un chiaro vantaggio ottenuto in un periodo molto breve…
+
+Meno di un dollaro e venticinque centesimi… E questo solo nei casi più semplici.
+
+Di scatto e asprezza; e assicuro solennemente il lettore che…
+
+Gli estratti sono stati selezionati a caso dal mio Diario.
+
+
+
+“È un vecchio detto, e uno vero, che i soldi…”
+
+“Niente può paragonarsi alla salute… Ho scoperto quanto siano eccessive le richieste…”
+
+Una professione che, data la mia delicata condizione fisica, è un po’ troppo impegnativa. E poi,
+
+Scoprendo, finalmente, di essere completamente sconvolto…
+
+Non sapevo proprio come interpretare la situazione, quindi.
+
+Titolo:  
+Che i miei amici, quando mi incontravano per strada, non riuscivano a riconoscermi
+
+Che io fossi davvero Peter Proffit… mi resi conto che la cosa migliore da fare fosse…
+
+L’unico rimedio che potevo adottare era cambiare settore di attività.
+
+Dunque, ho rivolto la mia attenzione all’attività di “mud-dabbling” e l’ho continuata.
+
+Per alcuni anni.
+
+
+
+Il peggio di questa professione è che troppe persone la perseguono con troppa…
+
+Ci si dedica con passione, e di conseguenza la competizione diventa eccessiva.
+
+Ogni individuo ignorante che si rende conto di non avere alcun intelletto…
+
+Quantità sufficiente per fargli da “pubblicitario ambulante”, o…
+
+“Un puritano fastidioso, o un uomo spregiudicato… naturalmente, la pensa in modo diverso.”
+
+Che risponderà molto bene, essendo solo un dilettante in queste cose. Ma questo non succederà mai.
+
+Era convinto di una cosa ancora più errata: che non ne fosse affatto necessario.
+
+Testa da spazzino… Soprattutto perché non c’è nulla da guadagnare in questo modo.
+
+Senza metodo… Ho gestito solo un’attività al dettaglio, ma…
+
+Le mie vecchie abitudini organizzative mi aiutarono molto nel procedere. Scelsi…
+
+Il mio attraversamento della strada, per prima cosa, con grande attenzione.
+
+E non ho mai messo giù una scopa in nessuna parte della città, tranne che lì.
+
+“Prendeva anche cura di avere sempre a disposizione una piccola pozzanghera…”
+
+Avrei potuto ottenerlo in un minuto. Grazie a questi metodi, sono diventato molto noto.
+
+“Un uomo di cui ci si può fidare… E questo rappresenta già la metà del successo, credetemi.”
+
+Titolo:  
+In commercio, posso dirvi che nessuno mai si è rifiutato di offrirmi un penny…
+
+“Risolto i miei problemi con un paio di pantaloni puliti… E, come mio solito…”
+
+In questo ambito, le abitudini lavorative erano sufficientemente comprese.
+
+Mai si è verificato alcun tentativo di imposizione da parte sua; io, comunque, non l’avrei tollerato.
+
+“Con esso, se solo l’avessi avuto… Mai imponendomi su nessuno, ho sofferto…”
+
+Nessuno può prendersi gioco di me… Le truffe delle banche
+
+Non potevo fare altrimenti… La loro sospensione mi ha messo in una situazione disastrosa.
+
+Disagio… Tuttavia, queste non sono individui, ma…
+
+Le società per azioni; e si sa molto bene che le società per azioni hanno.
+
+Né corpi da calciare, né anime da condannare all’inferno.
+
+
+
+Stavo guadagnando soldi con questo affare quando, in un momento di follia…
+
+Fu indotto a fonderlo nel “Cur-Spattering”: una sorta di…
+
+Un’occupazione simile, ma di certo non altrettanto rispettabile… La mia.
+
+Il luogo, senza dubbio, era eccellente: situato in posizione centrale…
+
+Aveva inchiostro nero e pennelli… Anche il mio cagnolino era proprio così.
+
+“Grasso e dedito a ogni sorta di vizi… Era nel settore da…”
+
+Dopo molto tempo, posso dire che finalmente lo capii. La nostra routine quotidiana era.
+
+Questo: —[[characters/pompey|Pompeo]], essendosi ben rotolato nel fango, si sedette dritto.
+
+Alla porta del negozio, finché non notò un damerino avvicinarsi con abiti eleganti…
+
+Stivali. Poi andò a incontrarlo e gli diede i Wellington…
+
+“Rub or two with his wool… Poi il damerino imprecò molto.”
+
+Cercava qualcuno che pulisse le scarpe… Ed eccomi lì, proprio davanti ai suoi occhi.
+
+Con inchiostro nero e pennelli… Fu un lavoro di soli un minuto, e poi…
+
+Costò sei pence. Per un certo periodo andò abbastanza bene, anzi, devo dire che.
 
 
 
@@ -1322,11 +1899,11 @@ stand—so we quarrelled and parted.
 
 I next tried my hand at the Organ-Grinding for a while, and may
 
-say that I made out pretty [[Well|well]]. It is a plain, straightforward
+say that I made out pretty [[motifs/well|well]]. It is a plain, straightforward
 
 business, and requires no particular abilities. You can get a
 
-music-mill for a mere [[Song|song]], and to put it in order, you have but
+music-mill for a mere song, and to put it in order, you have but
 
 to open the works, and give them three or four smart raps with a
 
@@ -1340,7 +1917,7 @@ street, and a knocker wrapped up in buckskin. Then you stop and
 
 grind; looking as if you meant to stop and grind till doomsday.
 
-Presently a [[Window|window]] opens, and somebody pitches you a sixpence,
+Presently a [[motifs/window|window]] opens, and somebody pitches you a sixpence,
 
 with a request to “Hush up and go on,” etc. I am aware that some
 
@@ -1354,7 +1931,7 @@ permit of my “going on” under a shilling.
 
 At this occupation I did a good deal; but, somehow, I was not
 
-quite satisfied, and so finally abandoned it. The [[Truth|truth]] is, I
+quite satisfied, and so finally abandoned it. The [[concepts/truth|truth]] is, I
 
 labored under the disadvantage of having no monkey—and American
 
@@ -1390,17 +1967,17 @@ always called at the big houses to deliver the letters, and
 
 receive the postage. Nobody hesitates at paying for a
 
-letter—especially for a [[Double|double]] one—people are such fools—and it
+letter—especially for a [[topoi/double|double]] one—people are such fools—and it
 
-was no trouble to get round a corner before there was [[Time|time]] to
+was no trouble to get round a corner before there was [[motifs/time|time]] to
 
 open the epistles. The worst of this profession was, that I had
 
 to walk so much and so fast; and so frequently to vary my route.
 
-Besides, I had serious scruples of [[Conscience|conscience]]. I can’t bear to
+Besides, I had serious scruples of [[concepts/conscience|conscience]]. I can’t bear to
 
-hear [[Innocent|innocent]] individuals abused—and the way the whole town took
+hear [[archetypes/innocent|innocent]] individuals abused—and the way the whole town took
 
 to cursing Tom Dobson and Bobby Tompkins was really awful to
 
@@ -1412,7 +1989,7 @@ My eighth and last speculation has been in the Cat-Growing way. I
 
 have found that a most pleasant and lucrative business, and,
 
-really, no trouble at all. The country, it is [[Well|well]] known, has
+really, no trouble at all. The country, it is [[motifs/well|well]] known, has
 
 become infested with cats—so much so of late, that a petition for
 
@@ -1420,7 +1997,7 @@ relief, most numerously and respectably signed, was brought
 
 before the Legislature at its late memorable session. The
 
-Assembly, at this epoch, was unusually [[Well|well]]-informed, and, having
+Assembly, at this epoch, was unusually [[motifs/well|well]]-informed, and, having
 
 passed many other wise and wholesome enactments, it crowned all
 
@@ -1432,7 +2009,7 @@ succeeded in amending the main clause, so as to substitute the
 
 word “tails” for “heads.” This amendment was so obviously proper,
 
-that the [[house|House]] concurred in it nem. con.
+that the House concurred in it nem. con.
 
 
 
@@ -1454,10 +2031,167 @@ discovered a way, in which, by means of Macassar oil, I can force
 
 three crops in a year. It delights me to find, too, that the
 
-[[Animals|animals]] soon get accustomed to the thing, and would rather have
+[[motifs/animals|animals]] soon get accustomed to the thing, and would rather have
 
 the appendages cut off than otherwise. I consider myself,
 
 therefore, a made man, and am bargaining for a country-seat on
 
 the Hudson.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+Non ero avaro, ma il mio cane lo era… Gli permettevo di prendersi un terzo del cibo.
+
+Profit… ma gli fu consigliato di insistere per la metà. Questo non potevo farlo.
+
+Ci siamo scontrati e poi ci siamo separati.
+
+
+
+Provo per un po’ a suonare l’organo… e chissà cosa succederà.
+
+Dite pure che me la sono cavata abbastanza bene. È stato semplice, diretto.
+
+Un lavoro facile e senza requisiti particolari…
+
+Un semplice canto, per cui bisogna utilizzare un “mulino musicale” e, per sistemarlo correttamente, non c’è altro da fare che.
+
+Per iniziare il lavoro, basterà dare loro tre o quattro colpi decisi…
+
+Martello: migliora il tono delle cose, a scopo commerciale
+
+Più di quanto tu possa immaginare… Una volta fatto questo, dovrai soltanto passeggiare tranquillamente.
+
+“Along, con il mulino sulle spalle, fino a quando non si vede la corteccia di tannastro…”
+
+Via, e un bussolo avvolto in pelle di daino… Poi ti fermi.
+
+Macinare, sembra che tu intenda continuare a macinare fino al giorno del giudizio.
+
+In quel momento si apre una [[motifs/window|finestra]] e qualcuno ti lancia sei pence.
+
+“Con la richiesta di ‘taci e continua’, ecc.” So che alcune persone…
+
+“Il denaro raccolto dai lavoratori è effettivamente sufficiente per ‘proseguire’ con queste attività; ma…”
+
+Il mio contributo… ho ritenuto che l’investimento di capitale necessario fosse troppo elevato.
+
+Permettetemi di continuare con questo “progetto” spendendo soltanto un scellino.
+
+
+
+In questa attività riuscii abbastanza bene; ma, per qualche motivo, non…
+
+Piuttosto soddisfatto, alla fine l’abbandonai. La [[concepts/truth|verità]] è, che io.
+
+Con la sfortuna di non avere nemmeno una scimmia… e americana.
+
+Le strade sono così fangose, e una folla democratica è così intralciante…
+
+E così pieni di malizia e dispetti quei piccoli ragazzi.
+
+
+
+Ora ero senza lavoro da alcuni mesi, ma alla fine…
+
+Riuscì, grazie a un grande impegno, a ottenere una posizione…
+
+La Falsa Posta. I compiti, in questo caso, sono semplici… e non del tutto noiosi.
+
+Inutile. Ad esempio: molto presto la mattina, ho dovuto…
+
+"Comporre il mio pacco di lettere false. All’interno di ciascuna di esse..."
+
+Qualsiasi argomento mi venisse in mente… dovevo scrivere qualche riga al riguardo
+
+Per me era abbastanza misterioso… Firmava tutte le lettere con il nome “Tom”.
+
+"Dobson, o Bobby Tompkins, o qualunque altro nome del genere… Una volta ripiegato."
+
+“E tutto fu sigillato e contrassegnato con timbri postali falsi: New Orleans.”
+
+Verso l’orizzonte…
+
+Subito dopo, lungo il mio percorso quotidiano, come se fossi davvero molto di fretta… Io.
+
+Si recava sempre nelle case grandi per consegnare le lettere…
+
+Pagare la tariffa postale… Nessuno esita a farlo.
+
+Una lettera, soprattutto se è una doppia, le persone sono davvero stupide, e questo.
+
+Non fu affatto difficile girare l’angolo prima che ci fosse il [[motifs/time|tempo]] per farlo.
+
+Aprire le lettere… Il peggio di questa professione era che io…
+
+Camminare così tanto e così velocemente, e cambiare spesso percorso.
+
+Inoltre, avevo seri rimorsi di [[concepts/conscience|coscienza]]. Non riesco a sopportarlo.
+
+Sentire individui [[archetypes/innocent|innocenti]] essere maltrattati, e vedere come l’intera città reagisse a questo.
+
+Maledire Tom Dobson e Bobby Tompkins era davvero terribile…
+
+Ascoltate. Ho lavato via ogni responsabilità in merito a questa faccenda, con disgusto.
+
+
+
+La mia ottava e ultima ipotesi riguarda il modo in cui i gatti crescono…
+
+Un affare piacevole e redditizio…
+
+Davvero, nessun problema affatto. Il paese, come è ben noto, possiede.
+
+Diventare invasi dai gatti… tanto da spingere qualcuno a presentare una petizione
+
+Un sollievo, firmato da molti e con rispetto… fu portato.
+
+Davanti al legislativo nella sua memorabile sessione tardiva.
+
+In quel periodo, l’Assemblea era insolitamente ben informata e, avendo.
+
+Approvò anche molte altre leggi sagge e utili; ma fu questa l’ultima ad essere approvata.
+
+Con l’atto del gatto… Nella sua forma originale, questa legge prevedeva…
+
+Titolo:  
+“Prezzo elevato per le teste a forma di gatto… quattro penny l’una, ma il Senato…”
+
+Titolo:  
+Riuscì a modificare la frase principale, al fine di sostituirla con…
+
+“Cambiare ‘teste’ con ‘code’… Questa modifica sembrava così ovviamente appropriata…”
+
+che la Casa fosse d'accordo su di esso, senza alcuna obiezione.
+
+
+
+Non appena il governatore firmò il disegno di legge, investii tutto ciò che avevo…
+
+L’acquisto della tenuta di Toms e Tabbies… All’inizio riuscivo solo…
+
+Non hanno i mezzi per nutrirli con topi (che sono economici), ma…
+
+Rispettò l’ordine sacro con tale straordinaria rapidità, che…
+
+Alla fine, decisi che la mia migliore strategia fosse essere generoso… e così feci.
+
+“Li hanno viziati con ostriche e tartarughe… Le loro code, a…”
+
+Titolo:  
+“Prezzo legale… ora dammi un buon reddito; perché ne ho bisogno.”
+
+Titolo:  
+Ho scoperto un metodo per utilizzare l’olio di Macassar al fine di ottenere ciò che desidero.
+
+Tre raccolti all’anno… Mi fa anche piacere scoprire che…
+
+Gli [[motifs/animals|animali]] si abituano presto a questa situazione, e preferirebbero averla.
+
+“Le appendici tagliate, piuttosto che in altro modo… Mi considero…”
+
+Pertanto, un uomo “fatto”… e sto negoziando per ottenere un seggio in parlamento.
+
+il fiume Hudson.

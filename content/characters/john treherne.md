@@ -14,4 +14,10 @@ The mystifying Cornish poet, secretly Barbara's husband, wrongly suspected of mu
 
 <div class="concept-works" data-slug="characters/john-treherne"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/trees-of-pride-(chesterton)|trees of pride (Chesterton)]]
+
+</div>
+
 #graph/character

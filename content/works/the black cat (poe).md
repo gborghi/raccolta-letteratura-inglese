@@ -25,7 +25,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Terror and Horror · Madness]]
+*by Poe*  ·  **Cluster:** [[clusters/terror-and-horror-·-madness|Terror and Horror · Madness]]
 
 > [!abstract] 
 > A condemned narrator confesses how alcohol and the spirit of perverseness led him to mutilate and hang his cat and murder his wife, his guilt betrayed by a second cat; a tale of guilt, madness and the grotesque.
@@ -46,11 +46,11 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Fall from Innocence]]
-**Archetypes:** [[Antihero]], [[Monster]]
-**Motifs:** [[Animals]], [[Wine and Drink]], [[Madness (2)]], [[Blood]], [[Eyes and Sight]], [[Fire]]
-**Themes & Concepts:** [[Guilt]], [[Conscience]], [[Madness]], [[Terror and Horror]], [[Sin and the Fall]], [[Grotesque]]
-**Forms & Genres:** [[Short Story]]
+**Topoi:** [[topoi/fall-from-innocence|Fall from Innocence]]
+**Archetypes:** [[archetypes/antihero|Antihero]], [[archetypes/monster|Monster]]
+**Motifs:** [[motifs/animals|Animals]], [[motifs/wine-and-drink|Wine and Drink]], [[motifs/madness-(2)|Madness (2)]], [[motifs/blood|Blood]], [[motifs/eyes-and-sight|Eyes and Sight]], [[motifs/fire|Fire]]
+**Themes & Concepts:** [[concepts/guilt|Guilt]], [[concepts/conscience|Conscience]], [[concepts/madness|Madness]], [[concepts/terror-and-horror|Terror and Horror]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grotesque|Grotesque]]
+**Forms & Genres:** [[forms/short-story|Short Story]]
 
 ## Testo integrale / Full text
 

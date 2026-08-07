@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/earl-of-suffolk"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/henry-vi-part-one-(shakespeare)|HENRY VI PART ONE (Shakespeare)]]
+
+</div>
+
 #graph/character

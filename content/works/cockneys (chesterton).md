@@ -33,7 +33,7 @@ tags:
 
 # cockneys
 
-*by Chesterton*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
+*by Chesterton*  ·  **Cluster:** [[clusters/city-·-london-·-theatrum-mundi|City · London · Theatrum Mundi]]
 
 > [!abstract] 
 > A humorous essay defending London Cockney humour and the comic genius of the city's poor (Chaucer, Dickens, Lamb, Johnson), praising laughter that masks sorrow and the dignity of the common Londoner.
@@ -53,15 +53,15 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Suffragette Movement]], [[Chinese Labour Controversy]]
+**Historical References:** [[historical-references/suffragette-movement|Suffragette Movement]], [[historical-references/chinese-labour-controversy|Chinese Labour Controversy]]
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Archetypes:** [[Fool]]
-**Motifs:** [[City]], [[Inn Tavern]], [[Music and Song]]
-**Themes & Concepts:** [[Common Man]], [[Joy]], [[Nationalism and Patriotism]], [[Paradox]], [[Class Conflict]], [[Poverty]], [[Democracy]], [[Reform]], [[Grotesque]], [[Satire of Society]], [[Appearance vs Reality]], [[Economics]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
-**Settings:** [[London]]
+**Archetypes:** [[archetypes/fool|Fool]]
+**Motifs:** [[motifs/city|City]], [[motifs/inn-tavern|Inn Tavern]], [[motifs/music-and-song|Music and Song]]
+**Themes & Concepts:** [[concepts/common-man|Common Man]], [[concepts/joy|Joy]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/paradox|Paradox]], [[concepts/class-conflict|Class Conflict]], [[concepts/poverty|Poverty]], [[concepts/democracy|Democracy]], [[concepts/reform|Reform]], [[concepts/grotesque|Grotesque]], [[concepts/satire-of-society|Satire of Society]], [[concepts/appearance-vs-reality|Appearance vs Reality]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Settings:** [[settings/london|London]]
 
 ## Testo integrale / Full text
 

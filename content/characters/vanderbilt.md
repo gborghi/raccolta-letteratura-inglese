@@ -14,4 +14,10 @@ Cornelius Vanderbilt, the American railway magnate quoted at length as the exemp
 
 <div class="concept-works" data-slug="characters/vanderbilt"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/success-(chesterton)|success (Chesterton)]]
+
+</div>
+
 #graph/character

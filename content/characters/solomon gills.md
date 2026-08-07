@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/solomon-gills"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/dombey-and-son-(dickens)|Dombey and Son (Dickens)]]
+
+</div>
+
 #graph/character

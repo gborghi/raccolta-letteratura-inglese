@@ -14,4 +14,10 @@ Real Victorian novelist and social reformer named by the speaker as a byword for
 
 <div class="concept-works" data-slug="characters/mrs-humphrey-ward"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/anti-puritan-(chesterton)|anti-puritan (Chesterton)]]
+
+</div>
+
 #graph/character

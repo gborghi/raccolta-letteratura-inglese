@@ -25,7 +25,7 @@ tags:
 
 # strange-music
 
-*by Chesterton*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Chesterton*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A love lyric in which the beloved is an unplayed harp of hidden music; themes of unfulfilled love, hope, mortality and the soul's secret promise.
@@ -36,12 +36,12 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Immortality Through Verse]], [[Unattainable Beloved]]
+**Topoi:** [[topoi/immortality-through-verse|Immortality Through Verse]], [[topoi/unattainable-beloved|Unattainable Beloved]]
 
-**Archetypes:** [[Lover]]
-**Motifs:** [[Music and Song]], [[Silence]]
-**Themes & Concepts:** [[Romantic Love]], [[Unrequited Frustrated Love]], [[Mortality]], [[Hope]], [[Secrecy and Concealment]], [[Inexpressibility of Beauty]], [[Patience and Waiting]], [[Death and Love]]
-**Forms & Genres:** [[Lyric]]
+**Archetypes:** [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/music-and-song|Music and Song]], [[motifs/silence|Silence]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]], [[concepts/mortality|Mortality]], [[concepts/hope|Hope]], [[concepts/secrecy-and-concealment|Secrecy and Concealment]], [[concepts/inexpressibility-of-beauty|Inexpressibility of Beauty]], [[concepts/patience-and-waiting|Patience and Waiting]], [[concepts/death-and-love|Death and Love]]
+**Forms & Genres:** [[forms/lyric|Lyric]]
 
 ## Testo integrale / Full text
 

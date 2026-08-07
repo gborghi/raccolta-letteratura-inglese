@@ -14,4 +14,10 @@ The small schoolboy whose toy lath sword, reversed into a cross by Tryon, become
 
 <div class="concept-works" data-slug="characters/jeremy-bunt"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/sword-(chesterton)|Sword (Chesterton)]]
+
+</div>
+
 #graph/character

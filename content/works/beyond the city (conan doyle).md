@@ -19,7 +19,7 @@ tags:
   - character/mrs_westmacott
   - archetype/lover
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Drama · Adventure · The Stage]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/drama-·-adventure-·-the-stage|Drama · Adventure · The Stage]]
 
 > [!abstract] 
 > A comic novella of suburban Norwood, where the arrival of the flamboyant, dumb-bell-swinging proto-feminist Mrs. Westmacott upsets the quiet routines of the Hay Denver and Walker families next door. Romance, generational conflict, and debates over women's proper role play out across the shared tennis lawn.
@@ -46,9 +46,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Social Novel (Novel of Manners)]], [[Comedy]]
-**Themes & Concepts:** [[The Woman Question]], [[Feminism and the New Woman]], [[Satire of Society]], [[Romantic Love]]
-**Motifs:** [[Garden]], [[Marriage]]
-**Settings:** [[London]]
-**Characters:** [[Mrs. Westmacott]]
-**Archetypes:** [[Lover]]
+**Forms & Genres:** [[forms/social-novel-(novel-of-manners)|Social Novel (Novel of Manners)]], [[forms/comedy|Comedy]]
+**Themes & Concepts:** [[concepts/the-woman-question|The Woman Question]], [[concepts/feminism-and-the-new-woman|Feminism and the New Woman]], [[concepts/satire-of-society|Satire of Society]], [[concepts/romantic-love|Romantic Love]]
+**Motifs:** [[motifs/garden|Garden]], [[motifs/marriage|Marriage]]
+**Settings:** [[settings/london|London]]
+**Characters:** [[characters/mrs.-westmacott|Mrs. Westmacott]]
+**Archetypes:** [[archetypes/lover|Lover]]

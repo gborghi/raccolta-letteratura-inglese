@@ -14,4 +14,10 @@ The pagan pattern of a god who dies and returns (Adonis, Attis, Osiris, Dionysus
 
 <div class="concept-works" data-slug="motifs/dying-and-reviving-god"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/everlasting-man-(chesterton)|everlasting man (Chesterton)]]
+
+</div>
+
 #graph/motif

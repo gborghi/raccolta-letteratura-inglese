@@ -14,4 +14,11 @@ Invoked to show that theological terror of damnation, not mere ethical righteous
 
 <div class="concept-works" data-slug="historical-references/john-bunyan"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/mormonism-(chesterton)|Mormonism (Chesterton)]]
+- [[works/intro-pilgrims-progress-(chesterton)|intro-pilgrims-progress (Chesterton)]]
+
+</div>
+
 #graph/histref

@@ -12,4 +12,11 @@ tags:
 
 <div class="concept-works" data-slug="characters/dorian-gray"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/fancies-versis-fads-(chesterton)|Fancies Versis Fads (Chesterton)]]
+- [[works/the-picture-of-dorian-gray-(wilde)|The Picture of Dorian Gray (Wilde)]]
+
+</div>
+
 #graph/character

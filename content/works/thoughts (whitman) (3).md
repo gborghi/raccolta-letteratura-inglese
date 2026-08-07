@@ -15,7 +15,7 @@ tags:
   - histref/american_civil_war
 ---
 
-*by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
+*by Whitman*  ·  **Cluster:** [[clusters/nationalism-and-patriotism-·-democracy-·-liberty-political-freedom|Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
 > A two-part free-verse meditation on America's birth-pangs, the war's price and the westward seeds of the future; themes of democracy, the West and transition through death.
@@ -25,10 +25,10 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Death]]
-**Themes & Concepts:** [[Democracy]], [[War and its Cost]], [[Transience]]
-**Historical References:** [[American Civil War]]
-**Settings:** [[American West]]
+**Motifs:** [[motifs/death|Death]]
+**Themes & Concepts:** [[concepts/democracy|Democracy]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/transience|Transience]]
+**Historical References:** [[historical-references/american-civil-war|American Civil War]]
+**Settings:** [[settings/american-west|American West]]
 
 ## Testo integrale / Full text
 

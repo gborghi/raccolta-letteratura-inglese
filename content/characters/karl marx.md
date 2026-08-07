@@ -14,4 +14,10 @@ Named repeatedly and analyzed as a Victorian materialist thinker whose Communism
 
 <div class="concept-works" data-slug="characters/karl-marx"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/well-and-shallows-(chesterton)|Well And Shallows (Chesterton)]]
+
+</div>
+
 #graph/character

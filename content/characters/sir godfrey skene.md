@@ -14,4 +14,10 @@ The swaggering, painted courtier from Charles II's court who wields the Royal So
 
 <div class="concept-works" data-slug="characters/sir-godfrey-skene"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/sword-(chesterton)|Sword (Chesterton)]]
+
+</div>
+
 #graph/character

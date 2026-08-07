@@ -30,17 +30,17 @@ tags:
   - topos/open_road_homecoming
   - topos/beatus_ille_happy_the_man_rural_retreat
 ---
-*by Belloc*  ·  **Cluster:** [[Travel Writing · Pilgrimage · Landscape]]
+*by Belloc*  ·  **Cluster:** [[clusters/travel-writing-·-pilgrimage-·-landscape|Travel Writing · Pilgrimage · Landscape]]
 
 > [!abstract] 
 > A familiar essay prefacing a walkers' anthology, arguing that walking is the truest way to know a landscape and oneself, and a symbol of all adventure and desire. Belloc celebrates the English inn, mocks the motorist and the enemies of inns, and closes on the idea that the greatest walking of all is 'walking away.'
 
 ## Connections
 
-**Forms & Genres:** [[Essay]], [[Travel Writing]], [[Nonfiction]]
-**Themes & Concepts:** [[Nature]], [[Wonder]], [[Nature vs Civilization]], [[Anti-Industrialism]], [[Faith]], [[The Spirit of Romance]], [[Economics]]
-**Motifs:** [[Road]], [[Journey]], [[Inn Tavern]], [[Nature]], [[Home]]
-**Settings:** [[Rural England]], [[Inn]]
-**Characters:** [[Hilaire Belloc]]
-**Archetypes:** [[Pilgrim]]
-**Topoi:** [[Open Road Homecoming]], [[Beatus Ille (Happy the Man Rural Retreat)]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/travel-writing|Travel Writing]], [[forms/nonfiction|Nonfiction]]
+**Themes & Concepts:** [[concepts/nature|Nature]], [[concepts/wonder|Wonder]], [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/faith|Faith]], [[concepts/the-spirit-of-romance|The Spirit of Romance]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/road|Road]], [[motifs/journey|Journey]], [[motifs/inn-tavern|Inn Tavern]], [[concepts/nature|Nature]], [[motifs/home|Home]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/inn|Inn]]
+**Characters:** [[characters/hilaire-belloc|Hilaire Belloc]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]], [[topoi/beatus-ille-(happy-the-man-rural-retreat)|Beatus Ille (Happy the Man Rural Retreat)]]

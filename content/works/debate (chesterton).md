@@ -31,7 +31,7 @@ tags:
 
 # debate
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > Transcribed public debate (Belloc in the chair) between Chesterton and Shaw on property, socialism vs distributism: Shaw would distribute wealth, Chesterton would distribute power and ownership.
@@ -45,14 +45,14 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Elizabethan England]], [[Industrial Revolution]]
+**Historical References:** [[historical-references/elizabethan-england|Elizabethan England]], [[historical-references/industrial-revolution|Industrial Revolution]]
 
-**Topoi:** [[World Upside Down]]
+**Topoi:** [[topoi/world-upside-down|World Upside Down]]
 
-**Characters:** [[Bernard Shaw]], [[Hilaire Belloc]]
+**Characters:** [[historical-references/bernard-shaw|Bernard Shaw]], [[characters/hilaire-belloc|Hilaire Belloc]]
 
-**Themes & Concepts:** [[Distributism]], [[Class Conflict]], [[Power and Corruption]], [[Reform]], [[Common Man]], [[Anti-Industrialism]], [[Democracy]], [[Slavery]], [[Freedom and Liberty]], [[Labor and Work]], [[Individualism]], [[Economics]]
-**Forms & Genres:** [[Essay]], [[Satire]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/distributism|Distributism]], [[concepts/class-conflict|Class Conflict]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/reform|Reform]], [[concepts/common-man|Common Man]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/democracy|Democracy]], [[concepts/slavery|Slavery]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/labor-and-work|Labor and Work]], [[concepts/individualism|Individualism]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

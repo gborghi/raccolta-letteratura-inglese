@@ -12,4 +12,13 @@ tags:
 
 <div class="concept-works" data-slug="characters/sairey-gamp"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/apprandcritofchdickens-(chesterton)|ApprAndCritOfChDickens (Chesterton)]]
+- [[works/charlesdickens-(chesterton)|CharlesDickens (Chesterton)]]
+- [[works/dickens-britannica-(chesterton)|dickens Britannica (Chesterton)]]
+- [[works/martin-chuzzlewit-(dickens)|Martin Chuzzlewit (Dickens)]]
+
+</div>
+
 #graph/character

@@ -44,7 +44,7 @@ tags:
   - character/lady_windermere
 ---
 
-*by Wilde*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
+*by Wilde*  ·  **Cluster:** [[clusters/city-·-london-·-theatrum-mundi|City · London · Theatrum Mundi]]
 
 > [!abstract] 
 > A comic society tale in which a young aristocrat, told by a cheiromantist that he is fated to commit murder, treats the prophecy as a moral duty to be discharged before marriage; a satire of fashionable London that inverts fate, conscience and guilt into farce.
@@ -63,14 +63,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Theatrum Mundi]], [[All the World's a Stage]], [[World Upside Down]], [[Memento Mori]]
-**Archetypes:** [[Fool]], [[Antihero]], [[Trickster]], [[Lover]]
-**Motifs:** [[Hands Hand in Hand]], [[City]], [[Blood]], [[Clock]], [[Death]], [[Marriage]], [[Night]], [[River]]
-**Themes & Concepts:** [[Fate and Free Will]], [[Satire of Society]], [[Conscience]], [[Honour]], [[Guilt]], [[Marriage and Fidelity]], [[Appearance vs Reality]]
-**Forms & Genres:** [[Short Story]], [[Satire]], [[Comedy]]
-**Historical References:** [[Regency Georgian England]]
-**Settings:** [[London]], [[Venice]], [[Europe]]
-**Characters:** [[Lord Arthur Savile]], [[Mr Podgers]], [[Sybil Merton]], [[Lady Clementina Beauchamp]], [[Lady Windermere]]
+**Topoi:** [[topoi/theatrum-mundi|Theatrum Mundi]], [[topoi/all-the-world's-a-stage|All the World's a Stage]], [[topoi/world-upside-down|World Upside Down]], [[topoi/memento-mori|Memento Mori]]
+**Archetypes:** [[archetypes/fool|Fool]], [[archetypes/antihero|Antihero]], [[archetypes/trickster|Trickster]], [[archetypes/lover|Lover]]
+**Motifs:** [[motifs/hands-hand-in-hand|Hands Hand in Hand]], [[motifs/city|City]], [[motifs/blood|Blood]], [[motifs/clock|Clock]], [[motifs/death|Death]], [[motifs/marriage|Marriage]], [[motifs/night|Night]], [[motifs/river|River]]
+**Themes & Concepts:** [[concepts/fate-and-free-will|Fate and Free Will]], [[concepts/satire-of-society|Satire of Society]], [[concepts/conscience|Conscience]], [[concepts/honour|Honour]], [[concepts/guilt|Guilt]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/appearance-vs-reality|Appearance vs Reality]]
+**Forms & Genres:** [[forms/short-story|Short Story]], [[forms/satire|Satire]], [[forms/comedy|Comedy]]
+**Historical References:** [[historical-references/regency-georgian-england|Regency Georgian England]]
+**Settings:** [[settings/london|London]], [[settings/venice|Venice]], [[settings/europe|Europe]]
+**Characters:** [[characters/lord-arthur-savile|Lord Arthur Savile]], [[characters/mr-podgers|Mr Podgers]], [[characters/sybil-merton|Sybil Merton]], [[characters/lady-clementina-beauchamp|Lady Clementina Beauchamp]], [[characters/lady-windermere|Lady Windermere]]
 
 ## Testo integrale / Full text
 

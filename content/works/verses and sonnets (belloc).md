@@ -29,7 +29,7 @@ tags:
   - setting/france
   - topos/tempus_fugit
 ---
-*by Belloc*  ·  **Cluster:** [[Verse · Faith · Nature]]
+*by Belloc*  ·  **Cluster:** [[clusters/verse-·-faith-·-nature|Verse · Faith · Nature]]
 
 > [!abstract] 
 > Belloc's first collection of verse, gathering lyrics, sonnets, epigrams and a sequence of Sonnets of the Twelve Months. The poems move between devotional and nocturnal moods, love and honour, satirical epigrams on actors and dons, and seasonal landscapes of England and France.
@@ -75,8 +75,8 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Sonnet]], [[Lyric]], [[Epigram]], [[Poem]]
-**Themes & Concepts:** [[Beauty]], [[Romantic Love]], [[Faith]], [[Melancholy]], [[Mortality]], [[Honour]]
-**Motifs:** [[Night]], [[Moon]], [[Seasons]], [[Dawn]], [[Sea]], [[Stars]], [[Sea and Voyage]]
-**Settings:** [[Rural England]], [[France]], [[Europe]]
-**Topoi:** [[Tempus Fugit]]
+**Forms & Genres:** [[forms/sonnet|Sonnet]], [[forms/lyric|Lyric]], [[forms/epigram|Epigram]], [[forms/poem|Poem]]
+**Themes & Concepts:** [[concepts/beauty|Beauty]], [[concepts/romantic-love|Romantic Love]], [[concepts/faith|Faith]], [[concepts/melancholy|Melancholy]], [[concepts/mortality|Mortality]], [[concepts/honour|Honour]]
+**Motifs:** [[motifs/night|Night]], [[motifs/moon|Moon]], [[motifs/seasons|Seasons]], [[motifs/dawn|Dawn]], [[motifs/sea|Sea]], [[motifs/stars|Stars]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Settings:** [[settings/rural-england|Rural England]], [[settings/france|France]], [[settings/europe|Europe]]
+**Topoi:** [[topoi/tempus-fugit|Tempus Fugit]]

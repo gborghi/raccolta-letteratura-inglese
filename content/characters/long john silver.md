@@ -14,4 +14,10 @@ The one-legged pirate and ship's cook of Treasure Island, whose bright plumage a
 
 <div class="concept-works" data-slug="characters/long-john-silver"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/robert-louis-stevenson-(chesterton)|Robert Louis Stevenson (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -16,7 +16,7 @@ tags:
   - concept/sin_and_the_fall
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Coleridge*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A dialogue and verse meditation on enduring married love that survives age, with the lost 'boon' figured as a withered evergreen, ending in Contentment after Hope's death. Themes: enduring love, marriage and fidelity, ageing, hope and disappointment.
@@ -26,8 +26,8 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Rose]], [[Flowers]]
-**Themes & Concepts:** [[Romantic Love]], [[Marriage and Fidelity]], [[Transience]], [[Disillusionment]], [[Sin and the Fall]]
+**Motifs:** [[motifs/rose|Rose]], [[motifs/flowers|Flowers]]
+**Themes & Concepts:** [[concepts/romantic-love|Romantic Love]], [[concepts/marriage-and-fidelity|Marriage and Fidelity]], [[concepts/transience|Transience]], [[concepts/disillusionment|Disillusionment]], [[concepts/sin-and-the-fall|Sin and the Fall]]
 
 ## Testo integrale / Full text
 

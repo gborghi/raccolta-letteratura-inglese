@@ -34,7 +34,7 @@ tags:
 
 # last hero
 
-*by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
+*by Chesterton*  ·  **Cluster:** [[clusters/heroism-·-hero-·-last-stand|Heroism · Hero · Last Stand]]
 
 > [!abstract] 
 > A heroic ballad in which a doomed warrior, robbed of bride and home, exults in storm, battle and death, loving the rain, his foes and his own annihilation as the last hero who dies the death of God.
@@ -45,13 +45,13 @@ tags:
 
 ## Connections
 
-**Settings:** [[Battlefield]]
+**Settings:** [[settings/battlefield|Battlefield]]
 
-**Topoi:** [[Last Stand]], [[Love-Death (Liebestod)]], [[War as Glory]]
-**Archetypes:** [[Hero]], [[Christ Figure]]
-**Motifs:** [[Storm]], [[Wind]], [[Blood]], [[Swords and Weapons]], [[Stars]], [[Sun]], [[Rain]]
-**Themes & Concepts:** [[Heroism]], [[Mortality]], [[Joy]], [[Romantic Love]], [[War and its Cost]], [[Paradox]], [[Death and Love]]
-**Forms & Genres:** [[Ballad Ballade]], [[Narrative Poem]], [[Dramatic Monologue]]
+**Topoi:** [[topoi/last-stand|Last Stand]], [[topoi/love-death-(liebestod)|Love-Death (Liebestod)]], [[topoi/war-as-glory|War as Glory]]
+**Archetypes:** [[archetypes/hero|Hero]], [[archetypes/christ-figure|Christ Figure]]
+**Motifs:** [[motifs/storm|Storm]], [[motifs/wind|Wind]], [[motifs/blood|Blood]], [[motifs/swords-and-weapons|Swords and Weapons]], [[motifs/stars|Stars]], [[motifs/sun|Sun]], [[motifs/rain|Rain]]
+**Themes & Concepts:** [[concepts/heroism|Heroism]], [[concepts/mortality|Mortality]], [[concepts/joy|Joy]], [[concepts/romantic-love|Romantic Love]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/paradox|Paradox]], [[concepts/death-and-love|Death and Love]]
+**Forms & Genres:** [[forms/ballad-ballade|Ballad Ballade]], [[forms/narrative-poem|Narrative Poem]], [[forms/dramatic-monologue|Dramatic Monologue]]
 
 ## Testo integrale / Full text
 

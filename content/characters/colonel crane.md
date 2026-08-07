@@ -14,4 +14,10 @@ Retired Coldstream Guards officer whose rash vow to 'eat his hat' if his friend 
 
 <div class="concept-works" data-slug="characters/colonel-crane"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/longbow2-(chesterton)|longbow2 (Chesterton)]]
+
+</div>
+
 #graph/character

@@ -14,4 +14,10 @@ The Boer general who surrenders to Kitchener at Vereeniging and later becomes hi
 
 <div class="concept-works" data-slug="characters/botha"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lordkitchener-(chesterton)|LordKitchener (Chesterton)]]
+
+</div>
+
 #graph/character

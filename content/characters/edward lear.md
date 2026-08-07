@@ -14,4 +14,11 @@ Nonsense poet Chesterton names 'the father of nonsense,' extensively compared to
 
 <div class="concept-works" data-slug="characters/edward-lear"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/the-defendant-(chesterton)|The Defendant (Chesterton)]]
+- [[works/two-kinds-of-paradox-(chesterton)|Two Kinds of Paradox (Chesterton)]]
+
+</div>
+
 #graph/character

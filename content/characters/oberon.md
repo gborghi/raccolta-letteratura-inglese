@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/oberon"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/a-midsummer-night’s-dream-(shakespeare)|A MIDSUMMER NIGHT’S DREAM (Shakespeare)]]
+
+</div>
+
 #graph/character

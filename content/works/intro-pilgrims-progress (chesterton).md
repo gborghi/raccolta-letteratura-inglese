@@ -47,7 +47,7 @@ tags:
 
 # intro-pilgrims-progress
 
-*by Chesterton*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
+*by Chesterton*  ·  **Cluster:** [[clusters/allegory-·-quest-·-pilgrim|Allegory · Quest · Pilgrim]]
 
 > [!abstract] 
 > A critical essay on Bunyan and Puritanism, reading The Pilgrim's Progress as a primitive, barbaric, eternal religious allegory of the soul's danger and quest out of the City of Destruction.
@@ -64,14 +64,14 @@ tags:
 
 ## Connections
 
-**Characters:** [[Achilles]], [[John Bunyan]], [[Apollyon]], [[Giant Despair]], [[Mr. Worldly-wiseman]], [[Moses]], [[Cromwell]]
+**Characters:** [[characters/achilles|Achilles]], [[historical-references/john-bunyan|John Bunyan]], [[characters/apollyon|Apollyon]], [[characters/giant-despair|Giant Despair]], [[characters/mr.-worldly-wiseman|Mr. Worldly-wiseman]], [[characters/moses|Moses]], [[characters/cromwell|Cromwell]]
 
-**Topoi:** [[Quest]], [[Paradise Lost]], [[Life as a Battle]]
-**Archetypes:** [[Pilgrim]], [[Satanic Figure]]
-**Motifs:** [[Journey]], [[City]], [[Imprisonment (2)]]
-**Themes & Concepts:** [[Faith]], [[Sin and the Fall]], [[Grace and Redemption]], [[Fear]], [[Critique of Progress]], [[Conversion]], [[Despair]], [[War and its Cost]], [[History]]
-**Forms & Genres:** [[Literary Criticism]], [[Allegory]], [[Biography]], [[Epic]], [[Essay]], [[Nonfiction]]
-**Historical References:** [[Puritanism]], [[Christianity]], [[Bible]], [[Renaissance]], [[French Revolution]], [[English Civil War]]
+**Topoi:** [[topoi/quest|Quest]], [[topoi/paradise-lost|Paradise Lost]], [[topoi/life-as-a-battle|Life as a Battle]]
+**Archetypes:** [[archetypes/pilgrim|Pilgrim]], [[archetypes/satanic-figure|Satanic Figure]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/city|City]], [[motifs/imprisonment-(2)|Imprisonment (2)]]
+**Themes & Concepts:** [[concepts/faith|Faith]], [[concepts/sin-and-the-fall|Sin and the Fall]], [[concepts/grace-and-redemption|Grace and Redemption]], [[concepts/fear|Fear]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/conversion|Conversion]], [[concepts/despair|Despair]], [[concepts/war-and-its-cost|War and its Cost]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/literary-criticism|Literary Criticism]], [[forms/allegory|Allegory]], [[forms/biography|Biography]], [[forms/epic|Epic]], [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/puritanism|Puritanism]], [[historical-references/christianity|Christianity]], [[historical-references/bible|Bible]], [[historical-references/renaissance|Renaissance]], [[historical-references/french-revolution|French Revolution]], [[historical-references/english-civil-war|English Civil War]]
 
 ## Testo integrale / Full text
 

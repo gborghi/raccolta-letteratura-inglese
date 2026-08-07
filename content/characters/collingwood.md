@@ -14,4 +14,10 @@ Admiral Cuthbert Collingwood, who scattered acorns through the glade to grow fut
 
 <div class="concept-works" data-slug="characters/collingwood"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/oak-(chesterton)|oak (Chesterton)]]
+
+</div>
+
 #graph/character

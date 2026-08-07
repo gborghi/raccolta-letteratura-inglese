@@ -22,16 +22,16 @@ tags:
   - archetype/detective
   - archetype/villain
 ---
-*by Conan Doyle*  ·  **Cluster:** [[Detective Fiction · Ratiocination Detection · Crime and Punishment]]
+*by Conan Doyle*  ·  **Cluster:** [[clusters/detective-fiction-·-ratiocination-detection-·-crime-and-punishment|Detective Fiction · Ratiocination Detection · Crime and Punishment]]
 
 > [!abstract] 
 > An unfinished Holmes fragment, later completed by other writers, in which a young man is wrongly convicted of murdering his sweetheart's uncle. Holmes exposes a rival suitor's frame-up involving stilts disguised as ladder-marks, then extracts a confession by staging a terrifying apparition of the murdered man.
 
 ## Connections
 
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Crime and Punishment]], [[Justice Right and Wrong]], [[Deception]], [[Guilt]]
-**Motifs:** [[Ghosts]], [[Concealment Hidden Identity]]
-**Settings:** [[Rural England]]
-**Characters:** [[Sherlock Holmes]], [[Doctor Watson]]
-**Archetypes:** [[Detective]], [[Villain]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/crime-and-punishment|Crime and Punishment]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/deception|Deception]], [[concepts/guilt|Guilt]]
+**Motifs:** [[motifs/ghosts|Ghosts]], [[motifs/concealment-hidden-identity|Concealment Hidden Identity]]
+**Settings:** [[settings/rural-england|Rural England]]
+**Characters:** [[characters/sherlock-holmes|Sherlock Holmes]], [[characters/doctor-watson|Doctor Watson]]
+**Archetypes:** [[archetypes/detective|Detective]], [[archetypes/villain|Villain]]

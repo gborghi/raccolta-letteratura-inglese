@@ -12,4 +12,10 @@ tags:
 
 <div class="concept-works" data-slug="characters/mrs-sparsit"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/hard-times-(dickens)|Hard Times (Dickens)]]
+
+</div>
+
 #graph/character

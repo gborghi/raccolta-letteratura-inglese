@@ -32,7 +32,7 @@ NOËL
 
 THE EARLY MORNING
 
-THE [[Birds|BIRDS]]
+THE [[motifs/birds|BIRDS]]
 
 OUR LORD AND OUR LADY
 
@@ -40,7 +40,7 @@ IN A BOAT
 
 COURTESY
 
-THE [[Night|NIGHT]]
+THE [[motifs/night|NIGHT]]
 
 THE LEADER
 
@@ -50,7 +50,7 @@ TO THE BALLIOL MEN STILL IN AFRICA
 
 VERSES TO A LORD
 
-THE [[Rebel|REBEL]]
+THE [[archetypes/rebel|REBEL]]
 
 THE PROPHET LOST IN THE HILLS AT EVENING
 
@@ -126,7 +126,7 @@ We took a most impertinent delight
 
 In foolish, painted and misshapen toys
 
-That hidden mothers brought to us at [[Night|night]].
+That hidden mothers brought to us at [[motifs/night|night]].
 
 Do you that have the child’s diviner part —
 
@@ -168,7 +168,7 @@ Not that all verse makers work that way. There are men who come upon a waterfall
 
 There’s no harm in that. It’s good exercise for the mind, and of it comes much interesting verse. But it is not the way in which the sum of the world’s literature is increased.
 
-Could anything, for example, be less studied, be more clearly marked with the stigmata of that noble spontaneity we call inspiration, than the passionate, rushing, irresistible lines “To the Balliol Men Still in Africa”? Like Gilbert K. Chesterton and many another English democrat, Hilaire Belloc deeply resented his country’s war upon the Boers. Yet his heart went out to the friends of his university days who were fighting in Africa. They were fighting, he thought, in an unjust cause; but they were his friends and they were, at any rate, fighting. And so he made something that seems (like all great writing) an utterance rather than a composition; he put his love of war in general and his hatred of this war in particular, his devotion to Balliol and to the friends of his youth into one of the very few pieces of genuine poetry which the [[Boer War]] produced. Nor has any of Oxford’s much-sung colleges known praise more fit than this
+Could anything, for example, be less studied, be more clearly marked with the stigmata of that noble spontaneity we call inspiration, than the passionate, rushing, irresistible lines “To the Balliol Men Still in Africa”? Like Gilbert K. Chesterton and many another English democrat, Hilaire Belloc deeply resented his country’s war upon the Boers. Yet his heart went out to the friends of his university days who were fighting in Africa. They were fighting, he thought, in an unjust cause; but they were his friends and they were, at any rate, fighting. And so he made something that seems (like all great writing) an utterance rather than a composition; he put his love of war in general and his hatred of this war in particular, his devotion to Balliol and to the friends of his youth into one of the very few pieces of genuine poetry which the [[historical-references/boer-war|Boer War]] produced. Nor has any of Oxford’s much-sung colleges known praise more fit than this
 
 “House that armours a man
 
@@ -222,7 +222,7 @@ Hilaire Belloc has written poems about children, and they are worthy to be print
 
 And in many of Hilaire Belloc’s poems by no means intended for childish audiences there is an appealing simplicity that is genuinely and beautifully childish, something quite different from the adult and highly artificial simplicity of Professor A. E. Housman’s A Shropshire Lad. Take that quatrain The Early Morning. It is as clear and cool as the time it celebrates; it is absolutely destitute of rhetorical indulgence, poetical inversions or “literary” phrasing. It is, in fact, conversation — inspired conversation, which is poetry. It might have been written by a Wordsworth not painfully self-conscious, or by a Blake whose brain was not as yet muddled with impressionistic metaphysics.
 
-And his Christmas carols — they are fit to be sung by a chorus of children. Can any songs of the sort receive higher praise than that? Children, too, appreciate The [[Birds]] and Our Lord and Our Lady. Nor is that wonderful prayer rather flatly called In a Boat beyond the reach of their intelligence.
+And his Christmas carols — they are fit to be sung by a chorus of children. Can any songs of the sort receive higher praise than that? Children, too, appreciate The [[motifs/birds|Birds]] and Our Lord and Our Lady. Nor is that wonderful prayer rather flatly called In a Boat beyond the reach of their intelligence.
 
 Naturally enough, Hilaire Belloc is strongly drawn to the almost violent simplicity of the ballad. Bishop Percy would not have enjoyed the theological and political atmosphere of The Little Serving Maid, but he would have acknowledged its irresistible charm. There is that wholly delightful poem The Death and Last Confession of Wandering Peter — a most Bellocian vagabond. “He wandered everywhere he would: and all that he approved was sung, and most of what he saw was good.” Says Peter:
 
@@ -240,9 +240,9 @@ V
 
 Hilaire Belloc is not the man to spend much time in analysing his own emotions; he is not, thank God, a poetical psychologist. Love songs, drinking songs, battle songs — it is with these primitive and democratic things that he is chiefly concerned.
 
-But there is something more democratic than wine or love or war. That thing is [[Faith]]. And Hilaire Belloc’s part in increasing the sum of the world’s beauty would not be the considerable thing that it is were it not for his [[Faith]]. It is not that (like Dante Gabriel Rossetti) he is attracted by the Church’s pageantry and wealth of legend. To Hilaire Belloc the pageantry is only incidental, the essential thing is his Catholic [[Faith]]. He writes convincingly about Our Lady and Saint Joseph and the Child Jesus because he himself is convinced. He does not delve into mediæval tradition in quest of picturesque incidents, he merely writes what he knows to be true. His Faith furnishes him with the theme for those of his poems which are most likely to endure; his Faith gives him the “rapture of an inspiration.” His Faith enables him, as it has enabled many another poet, to see “in the lamp that is beauty, the light that is God.”
+But there is something more democratic than wine or love or war. That thing is [[concepts/faith|Faith]]. And Hilaire Belloc’s part in increasing the sum of the world’s beauty would not be the considerable thing that it is were it not for his [[concepts/faith|Faith]]. It is not that (like Dante Gabriel Rossetti) he is attracted by the Church’s pageantry and wealth of legend. To Hilaire Belloc the pageantry is only incidental, the essential thing is his Catholic [[concepts/faith|Faith]]. He writes convincingly about Our Lady and Saint Joseph and the Child Jesus because he himself is convinced. He does not delve into mediæval tradition in quest of picturesque incidents, he merely writes what he knows to be true. His Faith furnishes him with the theme for those of his poems which are most likely to endure; his Faith gives him the “rapture of an inspiration.” His Faith enables him, as it has enabled many another poet, to see “in the lamp that is beauty, the light that is God.”
 
-And therein is Hilaire Belloc most thoroughly and consistently a democrat. For in this twentieth century it happens that there is on earth only one genuine democratic institution. And that institution is the [[Catholic Church]].
+And therein is Hilaire Belloc most thoroughly and consistently a democrat. For in this twentieth century it happens that there is on earth only one genuine democratic institution. And that institution is the [[historical-references/catholic-church|Catholic Church]].
 
 TO DIVES
 
@@ -558,7 +558,7 @@ Shall sit and drink with me.
 
 THE FANATIC
 
-Last [[Night|night]] in Compton Street, Soho,
+Last [[motifs/night|night]] in Compton Street, Soho,
 
 A man whom many of you know
 
@@ -790,7 +790,7 @@ The moon on my left and the dawn on my right.
 
 My brother, good morning: my sister, good night.
 
-THE [[Birds|BIRDS]]
+THE [[motifs/birds|BIRDS]]
 
 When Jesus Christ was four years old,
 
@@ -1252,7 +1252,7 @@ And now by all the gods of scorn
 
 We mean to rub them in.
 
-THE [[Rebel|REBEL]]
+THE [[archetypes/rebel|REBEL]]
 
 There is a wall of which the stones
 
@@ -1980,7 +1980,7 @@ The Shaven Head that boasts of Hair,
 
 For when the road attains the rail
 
-The [[Pilgrim]]’s great attempt shall fail.
+The [[archetypes/pilgrim|Pilgrim]]’s great attempt shall fail.
 
 HERETICS ALL
 
@@ -2314,7 +2314,7 @@ But hasn’t managed to achieve it.
 
 Not even this peculiar town
 
-Has ever fixed a [[Friendship|friendship]] firmer,
+Has ever fixed a [[concepts/friendship|friendship]] firmer,
 
 But — one is married, one’s gone down,
 
@@ -3230,7 +3230,7 @@ And Consols are at 82.
 
 Envoi
 
-And, Botha lay at [[Pilgrim]]’s Rest
+And, Botha lay at [[archetypes/pilgrim|Pilgrim]]’s Rest
 
 And Myberg in the Great Karroo
 
@@ -3286,7 +3286,7 @@ We took a most impertinent delight
 
 In foolish, painted and misshapen toys
 
-That hidden mothers brought to us at [[Night|night]].
+That hidden mothers brought to us at [[motifs/night|night]].
 
 Do you that have the child’s diviner part —
 
@@ -3299,21 +3299,21 @@ They too attain the form of perfect things?
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Una dedica a questo libro di poesie
+Una dedica a questo libro di poesie
 
-# Quando tu ed io eravamo piccoli ragazzi
+Quando tu ed io eravamo piccoli ragazzi
 
-# Una gioia davvero irrispettosa
+Una gioia davvero irrispettosa
 
 In giocattoli sciocchi, dipinti e deformi
 
-Quei doni nascosti che le madri ci hanno portato di [[Night|notte]].
+Quei doni nascosti che le madri ci hanno portato di [[motifs/night|notte]].
 
-# Hai quella parte profetica che appartiene ai bambini?
+Hai quella parte profetica che appartiene ai bambini?
 
 Il caro contenuto che un amore familiare porta con sé…
 
-# Prendi questi giocattoli imperfetti, e portali nel tuo cuore
+Prendi questi giocattoli imperfetti, e portali nel tuo cuore
 
 Anche loro raggiungono la forma delle cose perfette?
 
@@ -3357,7 +3357,7 @@ There’s no harm in that. It’s good exercise for the mind, and of it comes mu
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Introduzione di Joyce Kilmer
+Introduzione di Joyce Kilmer
 
 Lontano dall’idea che i poeti si siano persi nella scrittura in prosa (diceva Francis Thompson), si potrebbe ragionevolmente affermare che la prosa inglese, come forma artistica, non sia altro che un ramo secondario della fonte ispiratrice dei poeti; anzi, la sua stessa origine è da attribuire a loro. Il primo scrittore di cui ci si ricorda per aver elevato la prosa a forma artistica è Sir Philip Sidney. E Sidney era un poeta.
 
@@ -3394,7 +3394,7 @@ Non c’è nulla di male in questo. È un buon esercizio per la mente, e da esso
 <span class="atom-split" data-atom="story_02_introduction_by_joyce_kilmer--part_02" data-title="Verses — INTRODUCTION by Joyce Kilmer (part 2)" data-chapter="INTRODUCTION by Joyce Kilmer" data-kind="excerpt" data-tags="histref/boer_war"></span>
 
 
-Could anything, for example, be less studied, be more clearly marked with the stigmata of that noble spontaneity we call inspiration, than the passionate, rushing, irresistible lines “To the Balliol Men Still in Africa”? Like Gilbert K. Chesterton and many another English democrat, Hilaire Belloc deeply resented his country’s war upon the Boers. Yet his heart went out to the friends of his university days who were fighting in Africa. They were fighting, he thought, in an unjust cause; but they were his friends and they were, at any rate, fighting. And so he made something that seems (like all great writing) an utterance rather than a composition; he put his love of war in general and his hatred of this war in particular, his devotion to Balliol and to the friends of his youth into one of the very few pieces of genuine poetry which the [[Boer War]] produced. Nor has any of Oxford’s much-sung colleges known praise more fit than this
+Could anything, for example, be less studied, be more clearly marked with the stigmata of that noble spontaneity we call inspiration, than the passionate, rushing, irresistible lines “To the Balliol Men Still in Africa”? Like Gilbert K. Chesterton and many another English democrat, Hilaire Belloc deeply resented his country’s war upon the Boers. Yet his heart went out to the friends of his university days who were fighting in Africa. They were fighting, he thought, in an unjust cause; but they were his friends and they were, at any rate, fighting. And so he made something that seems (like all great writing) an utterance rather than a composition; he put his love of war in general and his hatred of this war in particular, his devotion to Balliol and to the friends of his youth into one of the very few pieces of genuine poetry which the [[historical-references/boer-war|Boer War]] produced. Nor has any of Oxford’s much-sung colleges known praise more fit than this
 
 “House that armours a man
 
@@ -3435,13 +3435,13 @@ Hilaire Belloc was born July 27, 1870. He was educated at the Oratory School, Ed
 
 <span class="qlang-split" data-lang="it"></span>
 
-C'è forse qualcosa che venga studiato meno, che presenti in modo più evidente i segni di quella nobile spontaneità che chiamiamo ispirazione, delle appassionate, impetuose e irresistibili righe “Ai membri del Balliol ancora in Africa”? Come Gilbert K. Chesterton e molti altri democratici inglesi, Hilaire Belloc provava profondo disgusto per la guerra combattuta dal suo paese contro i Boeri. Tuttavia, il suo cuore era con gli amici dei suoi giorni universitari che combattevano in Africa. Loro, pensava, lottavano per una causa ingiusta; ma erano suoi amici e, comunque fosse, stavano combattendo. E così scrisse qualcosa che, come tutte le grandi opere letterarie, sembra più un’espressione spontanea che una composizione artificiosa: riversò nel suo testo il proprio amore per la guerra in generale e il proprio odio per quella specifica guerra, la propria devozione al Balliol e agli amici della sua giovinezza, creando uno dei pochi veri capolavori poetici prodotti dalla [[Boer War|Guerra Boera]]. E nessuno degli istituti universitari di Oxford ha mai ricevuto lodi più appropriate di queste.
+C'è forse qualcosa che venga studiato meno, che presenti in modo più evidente i segni di quella nobile spontaneità che chiamiamo ispirazione, delle appassionate, impetuose e irresistibili righe “Ai membri del Balliol ancora in Africa”? Come Gilbert K. Chesterton e molti altri democratici inglesi, Hilaire Belloc provava profondo disgusto per la guerra combattuta dal suo paese contro i Boeri. Tuttavia, il suo cuore era con gli amici dei suoi giorni universitari che combattevano in Africa. Loro, pensava, lottavano per una causa ingiusta; ma erano suoi amici e, comunque fosse, stavano combattendo. E così scrisse qualcosa che, come tutte le grandi opere letterarie, sembra più un’espressione spontanea che una composizione artificiosa: riversò nel suo testo il proprio amore per la guerra in generale e il proprio odio per quella specifica guerra, la propria devozione al Balliol e agli amici della sua giovinezza, creando uno dei pochi veri capolavori poetici prodotti dalla [[historical-references/boer-war|Guerra Boera]]. E nessuno degli istituti universitari di Oxford ha mai ricevuto lodi più appropriate di queste.
 
-# Casa che protegge un uomo
+Casa che protegge un uomo
 
 Con gli occhi di un ragazzo e il cuore di un guardiacaccia
 
-# E una risata che sfida il mondo intero
+E una risata che sfida il mondo intero
 
 “E una sacra sete e fame di pericolo.”
 
@@ -3463,13 +3463,13 @@ C’è qualcosa di quasi inquietante nei lampi d’ispirazione che colpiscono il
 
 Solo perché non sappiamo abbastanza…
 
-# Quando la scienza ha scoperto qualcosa di ancora più grande
+Quando la scienza ha scoperto qualcosa di ancora più grande
 
 Sarremo più felici di prima.
 
 Ecco qui la schiettezza e la sobrietà che caratterizzano una vera e propria grande satira. Si tratta di una teoria materialista, della religione della Scienza: non viene burlesciata, né parodiata, ma semplicemente enunciata senza fronzoli o ornamenti verbali, proprio come i nostri leader progressisti del pensiero popolare sono soliti presentarla, nascondendone l’assurdità oscena. Quasi queste stesse parole sono state pronunciate in una dozzina di pulpiti “razionalistici” che potrei menzionare: pulpiti occupati da uomini robusti e pratici, molto amati dalle associazioni femminili. Le loro dottrine preferite, il loro unico e più offensivo dogma, non vengono attaccate né derise; vengono semplicemente enunciate per loro, con gentilezza e semplicità. Non riescono a rispondervi, né a negare che si tratti di una descrizione spietatamente accurata della “filosofia” che rappresenta il loro mestiere. Spero che molti di loro la leggano.
 
-# III
+III
 
 Hilaire Belloc nacque il 27 luglio 1870. Studiò alla Oratory School di Edgbaston e al Balliol College di Oxford. Dopo aver terminato gli studi, prestò servizio come autista nel Ottavo Reggimento di Artiglieria francese a Toul Meurthe-et-Moselle, all’epoca cittadino francese. In seguito ottenne la cittadinanza britannica e nel 1906 entrò alla Camera dei Comuni come membro liberale per South Salford. I politici britannici non dimenticheranno facilmente la proposta che Hilaire Belloc presentò una mattina di primavera del 1908: quella di sottoporre a revisione pubblica i fondi del partito, finora gestiti in modo segreto. La sua intensa e tenace battaglia contro il sistema partitico lo ha posto, insieme a Cecil Chesterton, tra le figure più autorevoli da cui i democratici della Gran Bretagna possono trarre guida e ispirazione. Fu sempre un appassionato studioso di questioni militari; molto tempo prima che si verificassero, predisse con straordinaria precisione il conflitto internazionale attuale, descrivendo in modo dettagliato l’invasione tedesca del Belgio e la resistenza di Liegi. Oggi occupa una posizione unica tra i giornalisti che commentano la guerra: ha notevolmente aumentato le vendite della rivista “Land and Water”, per la quale scrive regolarmente, e tiene ogni settimana conferenze davanti a un vasto pubblico in uno dei più grandi teatri di Londra, il Queen’s Hall – lo stesso luogo dove un tempo enormi folle ascoltavano le opere dei maggiori compositori tedeschi.
 
@@ -3494,7 +3494,7 @@ Hilaire Belloc has written poems about children, and they are worthy to be print
 
 And in many of Hilaire Belloc’s poems by no means intended for childish audiences there is an appealing simplicity that is genuinely and beautifully childish, something quite different from the adult and highly artificial simplicity of Professor A. E. Housman’s A Shropshire Lad. Take that quatrain The Early Morning. It is as clear and cool as the time it celebrates; it is absolutely destitute of rhetorical indulgence, poetical inversions or “literary” phrasing. It is, in fact, conversation — inspired conversation, which is poetry. It might have been written by a Wordsworth not painfully self-conscious, or by a Blake whose brain was not as yet muddled with impressionistic metaphysics.
 
-And his Christmas carols — they are fit to be sung by a chorus of children. Can any songs of the sort receive higher praise than that? Children, too, appreciate The [[Birds]] and Our Lord and Our Lady. Nor is that wonderful prayer rather flatly called In a Boat beyond the reach of their intelligence.
+And his Christmas carols — they are fit to be sung by a chorus of children. Can any songs of the sort receive higher praise than that? Children, too, appreciate The [[motifs/birds|Birds]] and Our Lord and Our Lady. Nor is that wonderful prayer rather flatly called In a Boat beyond the reach of their intelligence.
 
 Naturally enough, Hilaire Belloc is strongly drawn to the almost violent simplicity of the ballad. Bishop Percy would not have enjoyed the theological and political atmosphere of The Little Serving Maid, but he would have acknowledged its irresistible charm. There is that wholly delightful poem The Death and Last Confession of Wandering Peter — a most Bellocian vagabond. “He wandered everywhere he would: and all that he approved was sung, and most of what he saw was good.” Says Peter:
 
@@ -3512,9 +3512,9 @@ V
 
 Hilaire Belloc is not the man to spend much time in analysing his own emotions; he is not, thank God, a poetical psychologist. Love songs, drinking songs, battle songs — it is with these primitive and democratic things that he is chiefly concerned.
 
-But there is something more democratic than wine or love or war. That thing is [[Faith]]. And Hilaire Belloc’s part in increasing the sum of the world’s beauty would not be the considerable thing that it is were it not for his [[Faith]]. It is not that (like Dante Gabriel Rossetti) he is attracted by the Church’s pageantry and wealth of legend. To Hilaire Belloc the pageantry is only incidental, the essential thing is his Catholic [[Faith]]. He writes convincingly about Our Lady and Saint Joseph and the Child Jesus because he himself is convinced. He does not delve into mediæval tradition in quest of picturesque incidents, he merely writes what he knows to be true. His Faith furnishes him with the theme for those of his poems which are most likely to endure; his Faith gives him the “rapture of an inspiration.” His Faith enables him, as it has enabled many another poet, to see “in the lamp that is beauty, the light that is God.”
+But there is something more democratic than wine or love or war. That thing is [[concepts/faith|Faith]]. And Hilaire Belloc’s part in increasing the sum of the world’s beauty would not be the considerable thing that it is were it not for his [[concepts/faith|Faith]]. It is not that (like Dante Gabriel Rossetti) he is attracted by the Church’s pageantry and wealth of legend. To Hilaire Belloc the pageantry is only incidental, the essential thing is his Catholic [[concepts/faith|Faith]]. He writes convincingly about Our Lady and Saint Joseph and the Child Jesus because he himself is convinced. He does not delve into mediæval tradition in quest of picturesque incidents, he merely writes what he knows to be true. His Faith furnishes him with the theme for those of his poems which are most likely to endure; his Faith gives him the “rapture of an inspiration.” His Faith enables him, as it has enabled many another poet, to see “in the lamp that is beauty, the light that is God.”
 
-And therein is Hilaire Belloc most thoroughly and consistently a democrat. For in this twentieth century it happens that there is on earth only one genuine democratic institution. And that institution is the [[Catholic Church]].
+And therein is Hilaire Belloc most thoroughly and consistently a democrat. For in this twentieth century it happens that there is on earth only one genuine democratic institution. And that institution is the [[historical-references/catholic-church|Catholic Church]].
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -3535,15 +3535,15 @@ Hilaire Belloc ha scritto poesie sui bambini, e queste sono degne di essere pubb
 
 E in molti dei poemi di Hilaire Belloc, che assolutamente non erano destinati a un pubblico infantile, c’è una semplicità affascinante che è davvero e bellamente tipica dell’infanzia, qualcosa di completamente diverso dalla semplicità adulta e artificialmente ricercata del poema “A Shropshire Lad” di Professor A. E. Housman. Prendiamo ad esempio quel quartetto “The Early Morning”: è chiaro e fresco proprio come il momento che celebra; è assolutamente privo di indulgenze retoriche, inversioni poetiche o formulazioni “letterarie”. In realtà, si tratta semplicemente di conversazione, una conversazione ispirata, che è poesia. Potrebbe essere stato scritto da un Wordsworth che non fosse eccessivamente consapevole di sé, o da un Blake il cui cervello non fosse ancora confuso da metafisiche impressionistiche.
 
-E le sue canzoni di Natale, sono perfette da cantare da un coro di bambini. Esistono forse canzoni più meritevoli di tali lodi? Anche i bambini apprezzano [[Birds|gli uccelli]] nonché Nostro Signore e Nostra Signora. E quella meravigliosa preghiera, chiamata semplicemente “In una barca”, non è certo al di fuori della loro comprensione.
+E le sue canzoni di Natale, sono perfette da cantare da un coro di bambini. Esistono forse canzoni più meritevoli di tali lodi? Anche i bambini apprezzano [[motifs/birds|gli uccelli]] nonché Nostro Signore e Nostra Signora. E quella meravigliosa preghiera, chiamata semplicemente “In una barca”, non è certo al di fuori della loro comprensione.
 
 Naturale che Hilaire Belloc fosse profondamente attratto dalla semplicità quasi violenta di quella ballata. Vescovo Percy probabilmente non avrebbe apprezzato l’atmosfera teologica e politica de “La piccola serva”, ma avrebbe riconosciuto il suo fascino irresistibile. C’è poi quel poema delizioso, “La morte e l’ultima confessione di Peter lo Zingaro” – un vero esempio dello stile tipico di Belloc: “Vagabondò ovunque volesse; tutto ciò che approvava veniva cantato, e la maggior parte di ciò che vedeva era bello”. Dice Peter.
 
 “Se tutto ciò che ho amato e visto…”
 
-# Con me il Giorno del Giudizio
+Con me il Giorno del Giudizio
 
-#Salvato tra la folla
+Salvato tra la folla
 
 “Dai demoni e dalle loro schiere malvagie.”
 
@@ -3553,9 +3553,9 @@ V
 
 Hilaire Belloc non è il tipo di persona che dedica molto tempo all’analisi delle proprie emozioni; per fortuna, non è un psicologo poetico. Canzoni d’amore, canzoni da bere, canzoni di battaglia: sono queste cose primitive e democratiche quelle a cui si interessa principalmente.
 
-Ma c’è qualcosa di ancora più democratico del vino, dell’amore o della guerra: quella cosa è la [[Faith|Fede]]. E il contributo di Hilaire Belloc al aumento della bellezza del mondo non sarebbe stato così significativo se non fosse stato per la sua [[Faith|Fede]]. Non è che (come Dante Gabriel Rossetti) sia attratto dalla magnificenza cerimoniale della Chiesa e dalla ricchezza delle sue leggende; per Hilaire Belloc, tali elementi sono solo secondari: ciò che conta veramente è la sua [[Faith|Fede]] cattolica. Scrive con convinzione di Nostra Signora, di San Giuseppe e del Bambino Gesù perché lui stesso ne è convinto. Non si addentra nella tradizione medievale alla ricerca di episodi pittoreschi, ma scrive semplicemente ciò che sa essere vero. La sua Fede gli fornisce il tema per quelle sue poesie che hanno maggiori possibilità di sopravvivere nel tempo; la sua Fede gli dona “l’estasi dell’ispirazione”. La sua Fede gli permette, proprio come è accaduto a molti altri poeti, di vedere “nella lampada della bellezza, la luce di Dio”.
+Ma c’è qualcosa di ancora più democratico del vino, dell’amore o della guerra: quella cosa è la [[concepts/faith|Fede]]. E il contributo di Hilaire Belloc al aumento della bellezza del mondo non sarebbe stato così significativo se non fosse stato per la sua [[concepts/faith|Fede]]. Non è che (come Dante Gabriel Rossetti) sia attratto dalla magnificenza cerimoniale della Chiesa e dalla ricchezza delle sue leggende; per Hilaire Belloc, tali elementi sono solo secondari: ciò che conta veramente è la sua [[concepts/faith|Fede]] cattolica. Scrive con convinzione di Nostra Signora, di San Giuseppe e del Bambino Gesù perché lui stesso ne è convinto. Non si addentra nella tradizione medievale alla ricerca di episodi pittoreschi, ma scrive semplicemente ciò che sa essere vero. La sua Fede gli fornisce il tema per quelle sue poesie che hanno maggiori possibilità di sopravvivere nel tempo; la sua Fede gli dona “l’estasi dell’ispirazione”. La sua Fede gli permette, proprio come è accaduto a molti altri poeti, di vedere “nella lampada della bellezza, la luce di Dio”.
 
-Ed è proprio in questo che Hilaire Belloc si dimostra un democratico nel modo più completo e coerente. Perché nel ventesimo secolo, sulla Terra, esiste soltanto un’unica vera istituzione democratica: ed essa è la [[Catholic Church|Chiesa Cattolica]].
+Ed è proprio in questo che Hilaire Belloc si dimostra un democratico nel modo più completo e coerente. Perché nel ventesimo secolo, sulla Terra, esiste soltanto un’unica vera istituzione democratica: ed essa è la [[historical-references/catholic-church|Chiesa Cattolica]].
 
 
 
@@ -3663,19 +3663,19 @@ They order things so damnably in Hell.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Tuffare nelle profondità
+Tuffare nelle profondità
 
 "Dive, quando tu ed io scenderemo all’Inferno"
 
-# Dove finiscono gli scribacchini e anche i milionari
+Dove finiscono gli scribacchini e anche i milionari
 
-# Continueremo ognuno per la propria strada
+Continueremo ognuno per la propria strada
 
 Due gruppi molto grandi, ma molto diversi tra loro.
 
 E mentre vacilli sotto il peso dei tuoi fardelli, mio amico…
 
-# Lungo la spiaggia monotona dove tutte le nostre avventure finiscono
+Lungo la spiaggia monotona dove tutte le nostre avventure finiscono
 
 E precedimi (come richiede il tuo rango).
 
@@ -3683,11 +3683,11 @@ Verso gli infiniti bassopiani sotterranei
 
 E quel caro fiume dell’oblio…
 
-# Charon, un uomo di squisita educazione
+Charon, un uomo di squisita educazione
 
-#Perché, come avrebbero potuto spiegare i antenati di tua moglie…
+Perché, come avrebbero potuto spiegare i antenati di tua moglie…
 
-# Etichetta rigorosa all’inferno
+Etichetta rigorosa all’inferno
 
 Titolo:  
 “Visto che sei un signore, osserva, ‘Mio signore…’”
@@ -3696,17 +3696,17 @@ Titolo:
 
 “Allora scendono giù, i miei poveri tuffatori… giù.”
 
-# I quindici tipi di stivali che tenevi per le occasioni cittadine
+I quindici tipi di stivali che tenevi per le occasioni cittadine
 
-#Il cappello adatto per incontrare il Diavolo… il semplice
+Il cappello adatto per incontrare il Diavolo… il semplice
 
 Ma cravatte costose… le confezioni di champagne…
 
 L'orologio solido, il sigillo, la catena e il ciondolo…
 
-# Il modello operativo di una fattoria a combustione
+Il modello operativo di una fattoria a combustione
 
-# A tutti e tre i piccoli Belial…
+A tutti e tre i piccoli Belial…
 
 "Biscotti per Cerbero: la garanzia"
 
@@ -3716,9 +3716,9 @@ E anche promettendo un ritorno sicuro…
 
 Il meraviglioso cappotto, progettato con cura
 
-# Attraversare il Cocito – con grande calore e affetto…
+Attraversare il Cocito – con grande calore e affetto…
 
-# Dolci tuffate… li lascerai tutti indietro
+Dolci tuffate… li lascerai tutti indietro
 
 E entrare all’Inferno in condizioni di estrema povertà e nudità
 
@@ -3732,7 +3732,7 @@ Con passi negligenti, una nebbia di ombre…
 
 Risate e ricordi… e qualche rimpianto.
 
-# Un po’ di onore… e un sacco di debiti
+Un po’ di onore… e un sacco di debiti
 
 Un dubbio o due… e una fiducia in Dio.
 
@@ -3742,21 +3742,21 @@ Il nome del nonno del nonno del padre di suo padre
 
 Inalterato, senza titolo, persino scritto allo stesso modo…
 
-#Charon, che ventimila volte prima…
+Charon, che ventimila volte prima…
 
-# Ha condotto i poeti verso rive più lontane
+Ha condotto i poeti verso rive più lontane
 
-# Calcolerà il peso che porto… e piangerò
+Calcolerà il peso che porto… e piangerò
 
 “Compagno!” (Si sa che anche lui abbia provato…)
 
 La sua abilità con la poesia in latino e italiano
 
-# Molto nel stile di Virgilio… solo peggio
+Molto nel stile di Virgilio… solo peggio
 
 “Lasciamo che tali vani fantasmi passino…”
 
-# Allora dimmi, Dives, quale delle due sembrerà più stupida…
+Allora dimmi, Dives, quale delle due sembrerà più stupida…
 
 Tu, o io? O Charon? Chi può saperlo?
 
@@ -3862,7 +3862,7 @@ What have you not refused?
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Stanze scritte sul ponte di Battersea durante una tempesta da sud-ovest
+Stanze scritte sul ponte di Battersea durante una tempesta da sud-ovest
 
 “I boschi e le colline sono avvolti dal clima tipico di metà dicembre…”
 
@@ -3874,38 +3874,38 @@ Il forte profumo della schiuma.
 
 “Foreste, amate del mio cammino errante… un’altra volta.”
 
-# Ti possiede… mentre un altro percorre la Strada del Basso.
+Ti possiede… mentre un altro percorre la Strada del Basso.
 
 Titolo:  
 Il vento del sud-ovest… che era come mio fratello maggiore
 
 È arrivato in città da me.
 
-#Il vento urla dalle colline dell’alba
+Il vento urla dalle colline dell’alba
 
 Me ne ricordo bene e non intendo restare.
 
-# Prenderò la strada di Hampton senza alcun avviso
+Prenderò la strada di Hampton senza alcun avviso
 
 E portami via, lontano da qui.
 
 Il canale è aperto, i piccoli mari stanno saltando…
 
-#La marea sta sommergendo Arun Bar;
+La marea sta sommergendo Arun Bar;
 
 E lì c’è la mia barca, mentre tutti gli altri dormono…
 
 E anche i miei compagni lo sono.
 
-#"La vestirò e la monterò"...
+"La vestirò e la monterò"...
 
 Il mio battello… è stato il mio più forte amico.
 
-# Quell’incontro segnò l’inizio della mia infanzia
+Quell’incontro segnò l’inizio della mia infanzia
 
 E mi insegnò il vasto mare.
 
-#Ora la guiderò, sfrecciando contro ogni tempesta…
+Ora la guiderò, sfrecciando contro ogni tempesta…
 
 Giusto, aggiungi il sale e lasciali tutti indietro.
 
@@ -3913,26 +3913,26 @@ Dimenticheremo insieme quelle strade pericolose
 
 E trovarla, o forse la troveremo insieme?
 
-# Non c’è alcuna guida in cui la mia anima possa riporre fiducia
+Non c’è alcuna guida in cui la mia anima possa riporre fiducia
 
-# Dove posso catturare ciò che si trova sotto la mia mano piegata
+Dove posso catturare ciò che si trova sotto la mia mano piegata
 
-# Debole e amata lungo l’orizzonte estremo
+Debole e amata lungo l’orizzonte estremo
 
 Quella terra indimenticabile.
 
-# Non circonderemo mai i piloni di granito né pavimeremo il terreno intorno ad essi
+Non circonderemo mai i piloni di granito né pavimeremo il terreno intorno ad essi
 
 Per mentire, ci servono banchine con la vela ammainata.
 
-#Il mio piccolo battello… non raggiungeremo il rifugio.
+Il mio piccolo battello… non raggiungeremo il rifugio.
 
 Non appartiene a questo mondo.
 
 Titolo:  
 In qualche angolo delle vaste terre inglesi, protetto con maestosità
 
-# Rimane in piedi, ma non per gli esiliati… marcato e pulito.
+Rimane in piedi, ma non per gli esiliati… marcato e pulito.
 
 “Oh! Non per noi… Una nebbia si è alzata e l’ha rovinato…”
 
@@ -3940,7 +3940,7 @@ La mia giovinezza si trova in quel periodo intermedio.
 
 Così, in questa trappola che mi intrappola e mi spaventa…
 
-# Dove l'onore fatica a sopravvivere e l'amore non esiste più
+Dove l'onore fatica a sopravvivere e l'amore non esiste più
 
 Il mare mi chiama e la mia patria mi richiede…
 
@@ -3948,7 +3948,7 @@ Ma ci sono cose ancora più forti che riescono a contenerle.
 
 * * * * *
 
-#Inghilterra, per me che mai mi sono lamentato…
+Inghilterra, per me che mai mi sono lamentato…
 
 Né parole false, né lusinghe vostre…
 
@@ -4017,7 +4017,7 @@ Are the kindest and most wise,
 
 They get their laughter from the loud surf,
 
-And the [[Faith|faith]] in their happy eyes
+And the [[concepts/faith|faith]] in their happy eyes
 
 Comes surely from our Sister the Spring
 
@@ -4088,7 +4088,7 @@ Shall sit and drink with me.
 
 Il Paese del Sud
 
-# Quando vivo nelle Midlands
+Quando vivo nelle Midlands
 
 “Che siano bagnati e crudeli…”
 
@@ -4102,13 +4102,13 @@ Tornano di nuovo nella mia mente.
 
 Le grandi colline della regione del Sud
 
-# In piedi lungo il mare
+In piedi lungo il mare
 
 E là è, che cammina nella fitta foresta…
 
-# Quello che vorrei diventare
+Quello che vorrei diventare
 
-#Gli uomini che erano ragazzi quando io ero ragazzo
+Gli uomini che erano ragazzi quando io ero ragazzo
 
 Camminando insieme a me.
 
@@ -4126,42 +4126,42 @@ Le montagne lontane.
 
 Gli uomini che vivono nell’Inghilterra occidentale
 
-#Il Severn è potente
+Il Severn è potente
 
-#Un treno che rolla sulle acque agitate, marrone
+Un treno che rolla sulle acque agitate, marrone
 
 Foglie di pioppo leggere che si muovono al vento.
 
-# Il segreto delle rocce
+Il segreto delle rocce
 
 E il tipo di canzone più antico.
 
 Ma gli uomini che vivono nella regione del Sud…
 
-# I più gentili e i più saggi
+I più gentili e i più saggi
 
-#Il riso loro viene dal fragore delle onde
+Il riso loro viene dal fragore delle onde
 
-E la [[Faith|>fede]] nei loro occhi felici.
+E la [[concepts/faith|>fede]] nei loro occhi felici.
 
 Titolo:  
 Certamente proviene dalla nostra Sorella, la Primavera
 
-#Quando vola sopra il mare;
+Quando vola sopra il mare;
 
 I violacci fioriscono all’improvviso ai suoi piedi.
 
 Ci benedice con le sorprese.
 
-# Mai riesco ad insinuarmi tra quegli alberi di pino
+Mai riesco ad insinuarmi tra quegli alberi di pino
 
-# Ma sento l’aria del Sussex…
+Ma sento l’aria del Sussex…
 
-# Nemmeno io cammino mai su una striscia di sabbia
+Nemmeno io cammino mai su una striscia di sabbia
 
 Ma la mia casa è lì.
 
-# Lungo il cielo, la linea delle colline…
+Lungo il cielo, la linea delle colline…
 
 Così nobile, e così nudo.
 
@@ -4169,7 +4169,7 @@ Una cosa perduta… che forse non riuscirò mai a trovare.
 
 Né una cosa rotta può essere riparata…
 
-# E temo di rimanere completamente solo
+E temo di rimanere completamente solo
 
 Quando arrivo verso la fine.
 
@@ -4177,15 +4177,15 @@ Chi sarà lì ad consolarmi?
 
 O chi sarà il mio amico?
 
-# Raccoglierò e curerò attentamente i miei amici
+Raccoglierò e curerò attentamente i miei amici
 
 Degli uomini della foresta del Sussex
 
-# Osservano le stelle tra silenziose pieghe
+Osservano le stelle tra silenziose pieghe
 
 Lavorano duramente nel campo.
 
-# Da loro e dal Dio della Piana Meridionale
+Da loro e dal Dio della Piana Meridionale
 
 La mia povera anima sarà guarita.
 
@@ -4193,7 +4193,7 @@ Se mai diventerò un uomo ricco…
 
 O se mai dovessi invecchiare…
 
-# Costruirò una casa con un tetto coperto di paglia spessa
+Costruirò una casa con un tetto coperto di paglia spessa
 
 Per ripararmi dal freddo…
 
@@ -4201,11 +4201,11 @@ E lì verranno cantate le canzoni del Sussex
 
 E così fu raccontata la storia del Sussex.
 
-# Terrò la mia casa nella foresta alta
+Terrò la mia casa nella foresta alta
 
 A pochi passi dal mare
 
-#Gli uomini che erano ragazzi quando io ero ragazzo
+Gli uomini che erano ragazzi quando io ero ragazzo
 
 Vieni a sederti e bere con me.
 
@@ -4216,7 +4216,7 @@ Vieni a sederti e bere con me.
 
 THE FANATIC
 
-Last [[Night|night]] in Compton Street, Soho,
+Last [[motifs/night|night]] in Compton Street, Soho,
 
 A man whom many of you know
 
@@ -4369,7 +4369,7 @@ But foul forever, rolled along.”
 
 Il fanatico
 
-L’ultima [[Night|notte]] in Compton Street, a Soho.
+L’ultima [[motifs/night|notte]] in Compton Street, a Soho.
 
 Un uomo che molti di voi conoscono
 
@@ -4377,27 +4377,27 @@ Un uomo che molti di voi conoscono
 
 Quella sera era andato a cena.
 
-# A Gressington’s – un atto sconsiderato
+A Gressington’s – un atto sconsiderato
 
 Ma non la causa della sua morte.
 
-#Tutti i medici concordano sul fatto che…
+Tutti i medici concordano sul fatto che…
 
-#Affetto da atrofia cardiaca
+Affetto da atrofia cardiaca
 
 Accelerato (più o meno)
 
-# Per mancanza di cibo adeguato, sofferenza…
+Per mancanza di cibo adeguato, sofferenza…
 
 Sporcizia e mancanza di sonno.
 
-#Un uomo che non riusciva a trattenere nulla
+Un uomo che non riusciva a trattenere nulla
 
 Il suo denaro (quando ne aveva)
 
-#A causa dei creditori che sono arrivati
+A causa dei creditori che sono arrivati
 
-# Prese e se ne andò; lui la diede via
+Prese e se ne andò; lui la diede via
 
 So con certezza che non era in grado di salvarla.
 
@@ -4409,13 +4409,13 @@ Metà ammirevole, metà assurdo:
 
 Per mantenere la sua parola, per mantenere la sua promessa.
 
-#Con cui non intendeva ciò che pensi tu
+Con cui non intendeva ciò che pensi tu
 
 E intendevo dire… (riguardo ai pagamenti dovuti)
 
-# Prenota il tuo appartamento in tempo!
+Prenota il tuo appartamento in tempo!
 
-# Era davvero troppo pazzo per farlo
+Era davvero troppo pazzo per farlo
 
 Ma – come egli stesso lo esprimeva con grande eleganza…
 
@@ -4427,7 +4427,7 @@ Ma “Quella grande parola che ogni uomo…”
 
 “Era una parola sacra”, disse.
 
-# I morti senza via d’uscita trovavano conforto in questo
+I morti senza via d’uscita trovavano conforto in questo
 
 E fece sorridere Dio quando fu mostrato
 
@@ -4445,11 +4445,11 @@ Si vantava di questo e ne faceva lodi.
 
 Per se stesso, per tutta la sua vita.
 
-# Un resoconto per preservare la memoria
+Un resoconto per preservare la memoria
 
 Come rimase fedele e inalterato nelle sue decisioni
 
-#In piedi rigido, tenendolo stretto
+In piedi rigido, tenendolo stretto
 
 Il suo custode lo curava con grande attenzione.
 
@@ -4457,17 +4457,17 @@ Aveva due testimoni pronti a giurare
 
 L’ha tenuto per un po’ a Berkeley Square.
 
-# Dove quasi nulla sopravvive
+Dove quasi nulla sopravvive
 
 E, attraverso la vita più solitaria di tutte
 
-# Mantenne tutto pulito, mantenne tutto immobile
+Mantenne tutto pulito, mantenne tutto immobile
 
 Fino alle ultime estremità della malattia.
 
 Quindi, quando morì, molti dei suoi amici…
 
-#Chi arrivò in folla da tutte le direzioni
+Chi arrivò in folla da tutte le direzioni
 
 Di Londra, affinché si possa conoscerla
 
@@ -4486,7 +4486,7 @@ Ma altri, osservandolo con curiosità, dicevano:
 
 “L’uomo che mantenne la sua parola è morto!”
 
-# Con rabbia, allora, un certo terzo…
+Con rabbia, allora, un certo terzo…
 
 Gridò: “Signori, ha mantenuto la sua parola.”
 
@@ -4494,9 +4494,9 @@ E come un uomo circondato da bestie…
 
 Caotico, su un piccolo tumulo
 
-# Archer in Peril per un’ora terribile
+Archer in Peril per un’ora terribile
 
-# Perché un uomo è nato per il potere
+Perché un uomo è nato per il potere
 
 Eppure, per sfidare il gruppo che seguiva…
 
@@ -4527,7 +4527,7 @@ NOËL
 
 I
 
-On a winter’s [[Night|night]] long time ago
+On a winter’s [[motifs/night|night]] long time ago
 
 (The bells ring loud and the bells ring low),
 
@@ -4591,7 +4591,7 @@ But Christian men in a band are we
 
 Empty we go, and ill be-dight,
 
-Singing Noël on a Winter’s [[Night|night]].
+Singing Noël on a Winter’s [[motifs/night|night]].
 
 Give us to sup by the warm firelight,
 
@@ -4600,7 +4600,7 @@ And the small child Jesus smile on you.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Natale
+Natale
 
 I
 
@@ -4608,13 +4608,13 @@ In una notte invernale, molto tempo fa.
 
 “I campane suonano forte e le campane suonano basso”
 
-# Quando il vento soffiava forte e la neve cadeva copiosa
+Quando il vento soffiava forte e la neve cadeva copiosa
 
 (Carillon, Carilla).
 
-# San Giuseppe e Notre Dame
+San Giuseppe e Notre Dame
 
-#"In sella a un asino, stanco morto arrivai"
+"In sella a un asino, stanco morto arrivai"
 
 Da Nazaret a Betlemme.
 
@@ -4622,9 +4622,9 @@ E il piccolo bambino Gesù sorride su di te.
 
 II
 
-#Alla locanda di Betlemme si fermarono
+Alla locanda di Betlemme si fermarono
 
-# I campanelli suonano meno… e poi di nuovo più forte
+I campanelli suonano meno… e poi di nuovo più forte
 
 Il proprietario li congedò ordinando loro di andarsene dalla sua porta.
 
@@ -4632,13 +4632,13 @@ Il proprietario li congedò ordinando loro di andarsene dalla sua porta.
 
 “I poveri”, dice lui, “devono dormire dove possono”.
 
-# Per il Duca di Giudea arriva da questa parte
+Per il Duca di Giudea arriva da questa parte
 
 “Con tutto il suo treno, in una giornata di Natale…”
 
 E il piccolo bambino Gesù sorride su di te.
 
-# III
+III
 
 Poveri gente, che possano ascoltare la mia canzone natalizia
 
@@ -4666,7 +4666,7 @@ Ma siamo un gruppo di uomini cristiani.
 
 (Carillon, Carilla).
 
-#"Andiamo vuoti, e saremo nei guai..."
+"Andiamo vuoti, e saremo nei guai..."
 
 Cantando “Noël” in una notte d’inverno.
 
@@ -4687,12 +4687,12 @@ The moon is my sister, the dawn is my brother.
 
 The moon on my left and the dawn on my right.
 
-My brother, good morning: my sister, good [[Night|night]].
+My brother, good morning: my sister, good [[motifs/night|night]].
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-# La mattina presto
+La mattina presto
 
 La luna da un lato, l’alba dall’altro:
 
@@ -4700,14 +4700,14 @@ La luna è mia sorella, l’alba è mio fratello.
 
 La luna a sinistra e l’alba a destra.
 
-Mio fratello, buongiorno; mia sorella, buona [[Night|notte]].
+Mio fratello, buongiorno; mia sorella, buona [[motifs/night|notte]].
 
 
 
 <span class="atom-split" data-atom="story_09_the_birds" data-title="Verses — THE BIRDS" data-chapter="THE BIRDS" data-kind="story" data-tags="motif/birds"></span>
 
 
-THE [[Birds|BIRDS]]
+THE [[motifs/birds|BIRDS]]
 
 When Jesus Christ was four years old,
 
@@ -4732,9 +4732,9 @@ And bring my soul to Paradise.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Gli [[Birds|Uccelli]]
+Gli [[motifs/birds|Uccelli]]
 
-# Quando Gesù Cristo aveva quattro anni
+Quando Gesù Cristo aveva quattro anni
 
 Gli angeli Gli portarono giocattoli d’oro.
 
@@ -4748,9 +4748,9 @@ E li benedisse fino a quando non volarono via…
 
 Tu hai creato il Signore.
 
-# Gesù Cristo, tu bambino così saggio
+Gesù Cristo, tu bambino così saggio
 
-# Benedici le mie mani e riempimi gli occhi…
+Benedici le mie mani e riempimi gli occhi…
 
 E porti la mia anima in Paradiso.
 
@@ -4812,17 +4812,17 @@ With the white Moon at Her feet.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Nostro Signore e Nossa Signora
+Nostro Signore e Nossa Signora
 
-#Avvertirono la Nostra Signora per il Bambino
+Avvertirono la Nostra Signora per il Bambino
 
-# Era il nostro benedetto Signore
+Era il nostro benedetto Signore
 
-# E lo portò nel deserto selvaggio
+E lo portò nel deserto selvaggio
 
 Attraverso il guado del cammello.
 
-# Una lunga canzone che lei gli cantò
+Una lunga canzone che lei gli cantò
 
 E una breve storia raccontata…
 
@@ -4832,7 +4832,7 @@ Per proteggerlo dal freddo.
 
 Ma quando Nostro Signore divenne adulto
 
-#I ricchi lo trascinarono giù con loro
+I ricchi lo trascinarono giù con loro
 
 E lo crocifissero a Golgota.
 
@@ -4846,7 +4846,7 @@ E perché era stato il suo piccolo figlio…
 
 Lo seguì per tutto il cammino.
 
-# La Madonna accanto alla Croce
+La Madonna accanto alla Croce
 
 Un piccolo spazio di distanza
 
@@ -4854,7 +4854,7 @@ E quando lei udì il nostro Signore gridare
 
 Una spada le penetrò nel cuore.
 
-#Nel mausoleo di marmo fu sepolto il nostro Signore
+Nel mausoleo di marmo fu sepolto il nostro Signore
 
 Morto, avvolto in un lenzuolo funebre.
 
@@ -4932,21 +4932,21 @@ In una barca
 
 Signora! Signora!
 
-# Sulle vette del cielo
+Sulle vette del cielo
 
 Al di sopra della fredda alba
 
 Nella semplice luce.
 
-# Al di sopra della schiuma
+Al di sopra della schiuma
 
 E sopra la neve…
 
-# Dove non si infrangono i mari
+Dove non si infrangono i mari
 
 E nessun vento soffia.
 
-# Le maree contorte
+Le maree contorte
 
 E le pericolose sabbie
 
@@ -4954,9 +4954,9 @@ Da tutte le parti
 
 Sono nelle vostre sacre mani.
 
-#Il vento tormenta
+Il vento tormenta
 
-# E il freddo uccide
+E il freddo uccide
 
 Ma vedo la tua cappella…
 
@@ -4964,15 +4964,15 @@ Oltre lontane colline.
 
 Il mio corpo è congelato.
 
-# Il mio spirito ha paura
+Il mio spirito ha paura
 
-# Tendi le tue mani verso di me
+Tendi le tue mani verso di me
 
 Madre e cameriera.
 
 Madre di Cristo
 
-# Madre mia…
+Madre mia…
 
 Salvami in vita
 
@@ -4983,7 +4983,7 @@ Se vuoi, considerami tua madre…
 
 Fino a quando invecchierò
 
-# Rimarrò nella tua cappella
+Rimarrò nella tua cappella
 
 Una nave fatta interamente d’oro puro.
 
@@ -5051,43 +5051,43 @@ My Rhyme is written, my work is done.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Cortesia
+Cortesia
 
-# Per cortesia… molto meno
+Per cortesia… molto meno
 
 Più del coraggio o della santità…
 
-#"Nei miei vagabondaggi, mi sembra..."
+"Nei miei vagabondaggi, mi sembra..."
 
 Che la Grazia di Dio risieda nella Cortesia.
 
-# Su i monaci… a Storrington l’autunno scorso
+Su i monaci… a Storrington l’autunno scorso
 
 Mi portarono subito nel loro Salone.
 
-# Tre quadri su un muro
+Tre quadri su un muro
 
 E nella loro natura c'era sempre la cortesia.
 
-#La prima annunciazione
+La prima annunciazione
 
-#Il momento della visita
+Il momento della visita
 
-# La terza consolazione
+La terza consolazione
 
 Dio, che era il Figlio di Nostra Signora.
 
 Il primo era di San Gabriele;
 
-# Cadde dalle nuvole, infuocato come le fiamme del cielo;
+Cadde dalle nuvole, infuocato come le fiamme del cielo;
 
 E mentre si metteva in ginocchio…
 
 Rifulgeva di vera e propria nobiltà d’animo.
 
-#La Madonna di Nazareth cavalcò…
+La Madonna di Nazareth cavalcò…
 
-#Il suo mese di pesanti responsabilità
+Il suo mese di pesanti responsabilità
 
 Il suo volto era grande e gentile al contempo.
 
@@ -5097,11 +5097,11 @@ Il terzo era il nostro Piccolo Signore.
 
 Chi era amato da tutti i re in armi…
 
-# Era così piccolo che non si riusciva nemmeno a vederlo
+Era così piccolo che non si riusciva nemmeno a vederlo
 
 La sua grande intenzione di cortesia.
 
-# Il Figlio di Nostra Signora
+Il Figlio di Nostra Signora
 
 Va', beneditevi tutti, uno per uno.
 
@@ -5112,9 +5112,9 @@ La mia rima è stata scritta, il mio lavoro è terminato.
 <span class="atom-split" data-atom="story_13_the_night" data-title="Verses — THE NIGHT" data-chapter="THE NIGHT" data-kind="story" data-tags="motif/night"></span>
 
 
-THE [[Night|NIGHT]]
+THE [[motifs/night|NIGHT]]
 
-Most holy [[Night]], that still dost keep
+Most holy [[motifs/night|Night]], that still dost keep
 
 The keys of all the doors of sleep,
 
@@ -5144,14 +5144,14 @@ Hide dawning from my resting-place,
 
 And cheat me with your false delight,
 
-Most Holy [[Night]].
+Most Holy [[motifs/night|Night]].
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-LA [[Night|NOTTE]]
+LA [[motifs/night|NOTTE]]
 
-Santissima [[Night|Notte]], tu che ancora custodisci
+Santissima [[motifs/night|Notte]], tu che ancora custodisci
 
 Le chiavi di tutte le porte del sonno,
 
@@ -5181,7 +5181,7 @@ Nascondi l'aurora al mio giaciglio,
 
 E ingannami con la tua falsa delizia,
 
-Santissima [[Night|Notte]].
+Santissima [[motifs/night|Notte]].
 
 
 
@@ -5202,7 +5202,7 @@ All unashamed I sat with swine,
 
 We shook the dice for war,
 
-The [[Night|night]] was drunk with an evil wine —
+The [[motifs/night|night]] was drunk with an evil wine —
 
 But she went on before.
 
@@ -5267,43 +5267,43 @@ We lost her in the dawn.
 
 Il leader
 
-# La spada cadde: sentii un rintocco di campana
+La spada cadde: sentii un rintocco di campana
 
-# Pensavo che la facilità fosse la cosa migliore
+Pensavo che la facilità fosse la cosa migliore
 
 Uomini cupi che comprano e vendono
 
 Noi eravamo gli ospiti; io ero l’invitato.
 
-# Insieme ai porci, senza alcuna vergogna…
+Insieme ai porci, senza alcuna vergogna…
 
-#Abbiamo gettato i dadi per la guerra
+Abbiamo gettato i dadi per la guerra
 
-La [[Night|notte]] era avvolta da un vino malvagio.
+La [[motifs/night|notte]] era avvolta da un vino malvagio.
 
 Ma lei continuò a parlare.
 
-# Cavalcò un cavallo della razza delle schiume marine
+Cavalcò un cavallo della razza delle schiume marine
 
-# Tutta la sua magia risiedeva nella sua lama
+Tutta la sua magia risiedeva nella sua lama
 
-# E l’armatura sulle sue tenere membra
+E l’armatura sulle sue tenere membra
 
 Era fatto con la grappa illegale prodotta illegalmente.
 
-# Per Dio che manda le cameriere maggiore…
+Per Dio che manda le cameriere maggiore…
 
 Non so da dove sia venuta.
 
 Ma la spada che portava per salvare l’anima
 
-# Si è alzato come una fiamma su un altare
+Si è alzato come una fiamma su un altare
 
-# Dove una razza spezzata, in un luogo desolato…
+Dove una razza spezzata, in un luogo desolato…
 
 Chiamate il Santo Nome.
 
-# Strappammo gli occhi nella penombra dell’alba
+Strappammo gli occhi nella penombra dell’alba
 
 Non riuscivamo a vederli chiaramente.
 
@@ -5311,11 +5311,11 @@ Ma due uomini morti dalle paludi di Valmy
 
 Cavalcò tenendo saldamente le redini.
 
-# Li sento tutti, i richiami dei miei padri
+Li sento tutti, i richiami dei miei padri
 
-# Li vedo come cavalcano…
+Li vedo come cavalcano…
 
-#E dove era finita quella vergogna indecente?
+E dove era finita quella vergogna indecente?
 
 Era un esercito pieno di orgoglio.
 
@@ -5331,7 +5331,7 @@ Il suo viso era come un ordine reale
 
 Quando tutte le spade sono sguainate.
 
-# Allungò le braccia e ci sorrise.
+Allungò le braccia e ci sorrise.
 
 La sua testa era più alta delle colline.
 
@@ -5389,11 +5389,11 @@ Un bivacco
 
 I
 
-# Senza un suono umano
+Senza un suono umano
 
-#Mi hai portato la mia anima…
+Mi hai portato la mia anima…
 
-# Solo allora mi sono svegliato, e intorno a me…
+Solo allora mi sono svegliato, e intorno a me…
 
 Dormivano sul terreno illuminato dal fuoco.
 
@@ -5401,9 +5401,9 @@ Accanto alle armi in Borgogna.
 
 II
 
-#Il gesto delle tue mani
+Il gesto delle tue mani
 
-#Con la Croce hai segnato la mia fronte;
+Con la Croce hai segnato la mia fronte;
 
 Il gesto delle tue mani sacre
 
@@ -5411,7 +5411,7 @@ Era generoso… come le terre avvolte nella nebbia.
 
 Lungo le colline del Calvados.
 
-# III
+III
 
 Ma quando dormivo, vedevo i tuoi occhi.
 
@@ -5533,9 +5533,9 @@ Ecco una casa in grado di proteggere un uomo…
 
 Con gli occhi di un ragazzo e il cuore di un guardiacaccia
 
-# E una risata che sfida il mondo intero
+E una risata che sfida il mondo intero
 
-# Una sacra sete e fame di pericolo
+Una sacra sete e fame di pericolo
 
 “Balliol mi ha creato, Balliol mi ha nutrito.”
 
@@ -5547,9 +5547,9 @@ Che Dio sia con voi, uomini di Balliol.
 
 L'ho detto prima, e lo dico di nuovo.
 
-# Tradimento e menzogne
+Tradimento e menzogne
 
-#In Inghilterra, sotto il dominio degli uomini più vili…
+In Inghilterra, sotto il dominio degli uomini più vili…
 
 E tangenti dappertutto, e un trattato infranto…
 
@@ -5557,15 +5557,15 @@ Ma arrabbiato, solo, e ancora odiandolo…
 
 Volevo essere lì, nonostante tutto ciò che era sbagliato.
 
-# Il mio cuore era pesante per Cumnor Hill
+Il mio cuore era pesante per Cumnor Hill
 
 E il martello che batte senza sosta per tutto il giorno.
 
-#"Correndo verso l’esterno, tra il maltempo..."
+"Correndo verso l’esterno, tra il maltempo..."
 
 Pronti alla battaglia e sempre pronti ad agire…
 
-# Insieme alle parole, insieme al vino
+Insieme alle parole, insieme al vino
 
 E cantavano insieme nella Sala Balliol.
 
@@ -5658,22 +5658,22 @@ Avventura africana: soldati confusi da truffatori che sfruttano il denaro
 Titolo:  
 Pensavate che, poiché ci eravamo tenuti insieme, mio signore…
 
-# Un antico motivo e una forza potente
+Un antico motivo e una forza potente
 
-# Maledicemmo quindi la spada
+Maledicemmo quindi la spada
 
 Mio signore, ci avete trattato ingiustamente.
 
-# Anche noi conosciamo l’altezza sacra
+Anche noi conosciamo l’altezza sacra
 
 Titolo:  
 Sul versante di Tugela,
 
-# Dove quei trecento combatterono contro Beit
+Dove quei trecento combatterono contro Beit
 
 E il giovane e bello Wernher morì.
 
-#L'alba della forza che declina
+L'alba della forza che declina
 
 L'ultima sfida armata:
 
@@ -5685,9 +5685,9 @@ Il piccolo tumulo su cui stava Eckstein
 
 E il nobile Albu cadde…
 
-# E Oppenheim, mezzo cieco per il sangue…
+E Oppenheim, mezzo cieco per il sangue…
 
-# Attraverso le acque in aumento…
+Attraverso le acque in aumento…
 
 Mio Signore, li conosciamo bene.
 
@@ -5695,11 +5695,11 @@ Le piccole case vuote e abbandonate…
 
 Le sinagoghe in rovina che piangono
 
-# A Francoforte e Berlino
+A Francoforte e Berlino
 
-#Li conoscevamo quando la pace fu distrutta…
+Li conoscevamo quando la pace fu distrutta…
 
-#Nati di nobile stirpe…
+Nati di nobile stirpe…
 
 E ora, per tutti gli dèi del disprezzo…
 
@@ -5710,7 +5710,7 @@ Vogliamo proprio far loro notare quanto sia successo.
 <span class="atom-split" data-atom="story_18_the_rebel" data-title="Verses — THE REBEL" data-chapter="THE REBEL" data-kind="story" data-tags="archetype/rebel"></span>
 
 
-THE [[Rebel|REBEL]]
+THE [[archetypes/rebel|REBEL]]
 
 There is a wall of which the stones
 
@@ -5785,23 +5785,23 @@ Should break his hands, as I have done.
 
 <span class="qlang-split" data-lang="it"></span>
 
-Il [[Rebel|ribelle]]
+Il [[archetypes/rebel|ribelle]]
 
-# C’è un muro il cui materiale di costruzione sono le pietre…
+C’è un muro il cui materiale di costruzione sono le pietre…
 
 Sono bugie, tangenti e ossa di morti.
 
-# E ingiustamente, questo muro malvagio…
+E ingiustamente, questo muro malvagio…
 
-# Nega ciò che tutti gli uomini hanno creato per tutti.
+Nega ciò che tutti gli uomini hanno creato per tutti.
 
-#E senza alcun rimorso, questo muro ci circonda
+E senza alcun rimorso, questo muro ci circonda
 
 I nostri insediamenti e le nostre terre natie.
 
 Ma mi radunerò e partirò.
 
-# E chiamerò una campagna…
+E chiamerò una campagna…
 
 E molti uomini udiranno il mio grido di saluto
 
@@ -5809,33 +5809,33 @@ Chi mai avrebbe pensato che la tromba dovesse seguirne le orme…
 
 E molti uomini cavalcheranno con me
 
-#Chi mai avrebbe pensato di poterlo vedere
+Chi mai avrebbe pensato di poterlo vedere
 
 La Alta Giustizia nella sua armatura.
 
-# Quando li troviamo dove si trovano
+Quando li troviamo dove si trovano
 
-# Una fila di uomini su entrambi i lati
+Una fila di uomini su entrambi i lati
 
-#Intendo iniziare subito ad agire
+Intendo iniziare subito ad agire
 
-# E sfondare i fianchi della loro formazione di battaglia
+E sfondare i fianchi della loro formazione di battaglia
 
-#E spingerli verso l’interno dalle pianure…
+E spingerli verso l’interno dalle pianure…
 
-#E guidarli verso il caos lungo le strade…
+E guidarli verso il caos lungo le strade…
 
 Cacciarli e inseguirli senza sosta, fino a catturarli.
 
 E custodisci le porte e difendi la città.
 
-#Allora potrò riposarmi dopo il mio viaggio
+Allora potrò riposarmi dopo il mio viaggio
 
 Con la mia grande rabbia soddisfatta.
 
 Solo… prima di mangiare e bere.
 
-# Quando avrò ucciso tutti loro…
+Quando avrò ucciso tutti loro…
 
 “Che distruggerò i loro nomi scolpiti…”
 
@@ -5845,11 +5845,11 @@ Solo… prima di mangiare e bere.
 
 E fonderanno l’oro che indossavano le loro donne…
 
-# E colpiscano i cavalli alle ginocchia
+E colpiscano i cavalli alle ginocchia
 
-#E abbattete fino alla morte i loro alberi da legno
+E abbattete fino alla morte i loro alberi da legno
 
-#E arano profondamente i loro giardini—
+E arano profondamente i loro giardini—
 
 E tutte queste cose che intendo fare
 
@@ -5914,7 +5914,7 @@ The meaningless and doubtful ways
 
 That lead to an eternal town.
 
-I challenged and I kept the [[Faith]],
+I challenged and I kept the [[concepts/faith|Faith]],
 
 The bleeding path alone I trod;
 
@@ -5927,15 +5927,15 @@ And harbour me — almighty God!
 
 Il profeta perduto tra le colline al tramonto
 
-# Dio Potente che ha creato le stelle più lontane
+Dio Potente che ha creato le stelle più lontane
 
 Per circolare e mantenere la loro traiettoria…
 
-# Ricordami… colui che tutte le prigioni hanno rinchiuso
+Ricordami… colui che tutte le prigioni hanno rinchiuso
 
 Il senso e il terribile destino impongono.
 
-#Al di sopra di me, nelle tue altezze…
+Al di sopra di me, nelle tue altezze…
 
 Inaccessibili: le cime sono congelate.
 
@@ -5956,11 +5956,11 @@ Si fa buio. Ho perso il guado.
 
 C’è un cambiamento in tutto ciò che è stato creato.
 
-# Le rocce hanno volti malvagi, Signore
+Le rocce hanno volti malvagi, Signore
 
 E ho terribile paura.
 
-# Ricordami! Le voragini dell’inferno
+Ricordami! Le voragini dell’inferno
 
 Si espande enormemente in ogni direzione.
 
@@ -5968,21 +5968,21 @@ Amico forte delle anime, Emmanuel,
 
 Riscattami da questa terra maledetta.
 
-# La lunga discesa dei giorni sprecati
+La lunga discesa dei giorni sprecati
 
 “Quei che alla fine mi hanno condotto qui…”
 
-# Ricorda che ero pieno di lodi
+Ricorda che ero pieno di lodi
 
 I metodi senza senso e dubbiosi
 
 Ciò portò alla nascita di una città eterna.
 
-Ho affrontato le difficoltà e ho mantenuto la mia [[Faith|>Fede]].
+Ho affrontato le difficoltà e ho mantenuto la mia [[concepts/faith|>Fede]].
 
 Solo il sentiero di sangue ho percorso…
 
-# Si fa buio… Sta’ accanto alla mia ombra.
+Si fa buio… Sta’ accanto alla mia ombra.
 
 E accoglimi tu, Dio onnipotente!
 
@@ -6040,34 +6040,34 @@ Invitando l’influenza di una giovane signora sull’anno che inizia
 
 I
 
-# Indossi la mattina come il tuo abito
+Indossi la mattina come il tuo abito
 
 E vengono incoronati con maestria…
 
-# Quando cammini nella tua bellezza
+Quando cammini nella tua bellezza
 
 Brilla intensamente in ogni direzione.
 
-# Sul tuo segreto sorriso
+Sul tuo segreto sorriso
 
-# Furono scoperti contenuti del tutto nuovi
+Furono scoperti contenuti del tutto nuovi
 
-#Le danze d’amore durante le feste
+Le danze d’amore durante le feste
 
 In quel delizioso luogo.
 
 II
 
-# Chiamate allora aprile e inviate…
+Chiamate allora aprile e inviate…
 
-#Comandamento attraverso i fiori;
+Comandamento attraverso i fiori;
 
 Titolo:  
 Sulle nostre foreste, Vostra Grazia estende il proprio dominio
 
 Una regina degli istanti spensierati.
 
-# Per oh, non Vera avvolta nella pioggia…
+Per oh, non Vera avvolta nella pioggia…
 
 Il sacro anello di Nor Dian
 
@@ -6123,33 +6123,33 @@ But what I had was lost to me.
 
 Il anello
 
-# Quando volavo davanti al Re
+Quando volavo davanti al Re
 
 Nel bosco di Valognes, nel mio nascondiglio…
 
-# Non avevo nulla
+Non avevo nulla
 
 Ho regalato a una donna un anello d’oro.
 
-# Un anello dei moori al di là di Leon
+Un anello dei moori al di là di Leon
 
 Con smeraldo e diamante.
 
-# Una scrittura sconosciuta a tutti
+Una scrittura sconosciuta a tutti
 
 E un opale, lì da solo.
 
-# La forma dell’anello che lega i cuori
+La forma dell’anello che lega i cuori
 
 L'ambra si trasforma da fredda in gentile:
 
-#La scrittura le permette di trovare con certezza…
+La scrittura le permette di trovare con certezza…
 
 Ma l’opale malvagio le cambiò idea.
 
 Ora che il Re era morto…
 
-#Tornai in fretta attraverso il mare
+Tornai in fretta attraverso il mare
 
 Dai lunghi scogli della Normandia
 
@@ -6217,7 +6217,7 @@ Nella foresta, lontano da qui… non so dove esattamente.
 
 Due note cadono.
 
-#Non gli invidio affatto
+Non gli invidio affatto
 
 La sua fantasia.
 
@@ -6236,13 +6236,13 @@ Amante piccolo e negligente, per deridere la premura…
 
 E chi…
 
-#Può chiamare
+Può chiamare
 
 Cuco!
 
-#Nelle foreste invernali stanche…
+Nelle foreste invernali stanche…
 
-#Nei boschi profumati, stanchi d’inverno… chiamate
+Nei boschi profumati, stanchi d’inverno… chiamate
 
 Cuco!
 
@@ -6280,7 +6280,7 @@ Il riflesso mostrava la tua bellezza, la mia bella…
 
 Un istante incostante…
 
-# Hai guardato nei miei occhi e lì…
+Hai guardato nei miei occhi e lì…
 
 Il tuo volto, per sempre immobile.
 
@@ -6419,7 +6419,7 @@ C'era una regina d'Inghilterra.
 
 E anche una buona regina.
 
-# Aveva una casa nella regione di Powis
+Aveva una casa nella regione di Powis
 
 Con il fiume Severn che scorre attraverso…
 
@@ -6437,19 +6437,19 @@ II
 
 Oh, lasciami andare!
 
-# C’è un ragazzo a Londra
+C’è un ragazzo a Londra
 
 E lui fece in modo che fosse così.
 
-# Anch’io lo vorrei, signora.
+Anch’io lo vorrei, signora.
 
 E con lui resterei.
 
-#E lui sarà lo sposo, signora…
+E lui sarà lo sposo, signora…
 
 "E sarò la sposa!"
 
-# III
+III
 
 “Ahimè per te… e vergogna su di te…”
 
@@ -6465,13 +6465,13 @@ Poiché mai fu noto…
 Titolo:  
 Da quando Yngelonde iniziò…
 
-# Quella giovane serva
+Quella giovane serva
 
 “Deve andare a una riunione…”
 
 IV
 
-# Allora la piccola serva
+Allora la piccola serva
 
 Si sdraiò lì.
 
@@ -6493,7 +6493,7 @@ La buona regina d’Inghilterra
 
 Le sue donne arrivarono e poi se ne andarono…
 
-#La piccola serva è morta
+La piccola serva è morta
 
 “Dall’amore per un uomo…”
 
@@ -6501,7 +6501,7 @@ Disse la buona Regina d’Inghilterra
 
 “È davvero una cattiva notizia da ascoltare!”
 
-# Coprila e seppelliscila
+Coprila e seppelliscila
 
 “E adagiarla su un lettino da morto.”
 
@@ -6509,17 +6509,17 @@ VI
 
 La adagiarono su un lettino da morto.
 
-#Nel cortile, tutti…
+Nel cortile, tutti…
 
 Titolo: Alcuni provenivano da Foresting
 
 E alcuni provenivano da Hall.
 
-# E i grandi signori la portarono via
+E i grandi signori la portarono via
 
 E gli orgogliosi sacerdoti pregavano.
 
-# E così finì tutto
+E così finì tutto
 
 Della piccola serva.
 
@@ -6601,7 +6601,7 @@ Till I had slaked my heart at Rome.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# La fine della strada
+La fine della strada
 
 In queste scarpe e con questo bastone
 
@@ -6609,35 +6609,35 @@ Duecento guerrieri e mezzo
 
 Camminai, andai, misuravo i passi, inciampai…
 
-# Inciampai, camminai, avanzai…
+Inciampai, camminai, avanzai…
 
 Spinto avanti, ansimando, oscillando e correndo…
 
-#Navigato, attraversato, nuotato… e schizzato d’acqua.
+Navigato, attraversato, nuotato… e schizzato d’acqua.
 
-# Arrampicato, strisciato e inerpicato…
+Arrampicato, strisciato e inerpicato…
 
-# Perduto e smarrito, vagabondai senza meta…
+Perduto e smarrito, vagabondai senza meta…
 
-# Barcollando e faticando…
+Barcollando e faticando…
 
-# In solitudine e silenzio mi accampavo
+In solitudine e silenzio mi accampavo
 
-# Dormii nelle pinete infestate di fantasmi
+Dormii nelle pinete infestate di fantasmi
 
-#Mi soffermai, indugiai, zoppicai e strisciai…
+Mi soffermai, indugiai, zoppicai e strisciai…
 
 Salii, mi fermai, mossi un passo e saltai…
 
-# Camminavo lentamente, con passi decisi…
+Camminavo lentamente, con passi decisi…
 
-#E… (Oh! Santi patroni e angeli)
+E… (Oh! Santi patroni e angeli)
 
 Che proteggano i quattro Vangeli!
 
 E voi profeti e maestri…
 
-# Incerti e minori
+Incerti e minori
 
 Virgini e Confessori
 
@@ -6646,29 +6646,29 @@ Capo di quelle glorie particolari
 Titolo:  
 "Essere nella sala del re"
 
-# Atque orare et exorare
+Atque orare et exorare
 
-# Et clamare et conclamare
+Et clamare et conclamare
 
-# Clamanti cum clamoribus
+Clamanti cum clamoribus
 
 “Per noi peccatori, ”
 
 Lasciate che non lo nasconda. Fu io a cavalcare.
 
-#Per chi, se non i critici, potrebbe lamentarsi?
+Per chi, se non i critici, potrebbe lamentarsi?
 
 Riguardo al fatto di “viaggiare” su un treno ferroviario,?
 
 Attraverso la valle e le terre alte…
 
-# Con tutto il mondo ai miei lati
+Con tutto il mondo ai miei lati
 
 Bevendo quando ne avevo voglia
 
 Cantare quando ne avevo voglia;
 
-# Mai ho voltato le spalle alla mia casa
+Mai ho voltato le spalle alla mia casa
 
 Fino a quando non ebbi placato i miei desideri a Roma.
 
@@ -6714,19 +6714,19 @@ At Pontgibaud they mended it.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# AUVERGNAT
+AUVERGNAT
 
 C'era un uomo che sembrava mezzo clown
 
 (Mio padre ne parla spesso).
 
-# Vide la chiesa nella città di Clermont
+Vide la chiesa nella città di Clermont
 
 E rise al suono delle campane che provenivano da esso.
 
 Rise in risate al suono delle campane che suonano
 
-# In Clermont Church e dintorni
+In Clermont Church e dintorni
 
 Sentì la figlia del custode cantare.
 
@@ -6744,7 +6744,7 @@ La strada saliva, la strada scendeva.
 
 E lì la faccenda finì.
 
-# Il suo cuore si spezzò nella città di Clermont
+Il suo cuore si spezzò nella città di Clermont
 
 A Pontgibaud lo ripararono.
 
@@ -6804,7 +6804,7 @@ Burgundy’s Burgundy all the year round.
 
 Canto del bere
 
-#Sull'eccellenza del vino della Borgogna
+Sull'eccellenza del vino della Borgogna
 
 Il mio allegro e grasso ospite, con quel sorriso stampato in faccia…
 
@@ -6814,13 +6814,13 @@ Una ventina di uomini robusti che non ritengono peccato farlo
 
 Se continuano a brindare fino a diventare rauchi, e a bere fino a perdere l’equilibrio…
 
-# Via al galoppo
+Via al galoppo
 
 Pioggia o non pioggia,
 
 Per ascoltare le tue vecchie barzellette, e per far svuotare le tue bottiglie.
 
-# Una calore così profonda nel ventre che genera delizie infinite
+Una calore così profonda nel ventre che genera delizie infinite
 
 Non appena il suo umorismo inizia a “inumidirsi”…
 
@@ -6828,7 +6828,7 @@ Il tirchio e il suo oro, lo studente e i suoi debiti
 
 E il mendicante dimentica i suoi stracci e la sua fame.
 
-# Mai esiste un vino perfetto
+Mai esiste un vino perfetto
 
 Come questo tuo bicchiere di vino…
 
@@ -6836,13 +6836,13 @@ Dalla grande collina di Nuits al Fiume Reno.
 
 Fuori si possono sentire i forti venti soffiare…
 
-# Tra Foy, Duerne e le colline di Lerraulx
+Tra Foy, Duerne e le colline di Lerraulx
 
 Ma che piova forte o che soffi il vento…
 
 Se in cielo c’è il Diavolo, allora giù sulla terra deve esserci del buon liquore.
 
-# Abbondano davvero
+Abbondano davvero
 
 Passalo in giro.
 
@@ -6906,16 +6906,16 @@ I put my pleasure in a pint of ale.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Dirge del bere
+Dirge del bere
 
-#Mille anni fa avevo l’abitudine di cenare…
+Mille anni fa avevo l’abitudine di cenare…
 
 Titolo:  
 Nelle case dove mi trattavano con tanta dignità…
 
-# Della cara compagnia e dei veri compagni
+Della cara compagnia e dei veri compagni
 
-#Oltre i limiti… da solo.
+Oltre i limiti… da solo.
 
 E cavalcando, ridevano e sfidavano il cielo minaccioso.
 
@@ -6931,7 +6931,7 @@ Chi mi lascia ora solo, senza alcun aiuto…
 
 Sulle colline della California mi hai offerto vino.
 
-#Mi hai offerto sidro a Longuevaille;
+Mi hai offerto sidro a Longuevaille;
 
 Titolo:  
 Se dopo molti anni inizi a sentire la mancanza…
@@ -6942,11 +6942,11 @@ Mi troverete a bere birra nella zona di Dead Man’s Chine.
 
 Il mio piacere risiede in una pinta di birra.
 
-#In molte imbarcazioni salate ho provato il sale…
+In molte imbarcazioni salate ho provato il sale…
 
 Da molti porti nascosti ho preso il largo.
 
-#Verso il tramonto, dove brillano…
+Verso il tramonto, dove brillano…
 
 Le lontane isole color ametista impallidiscono.
 
@@ -6976,7 +6976,7 @@ I put my pleasure in a pint of ale.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Addio
+Addio
 
 Principe… È vero quello che si dice quando esci a cena?
 
@@ -7015,7 +7015,7 @@ With my here it goes, there it goes,
 
 All the fun’s before us:
 
-The Tipple’s Aboard and the [[Night|night]] is young,
+The Tipple’s Aboard and the [[motifs/night|night]] is young,
 
 The door’s ajar and the Barrel is sprung,
 
@@ -7045,7 +7045,7 @@ With my here it goes, there it goes,
 
 All the fun’s before us:
 
-The Tipple’s aboard and the [[Night|night]] is young,
+The Tipple’s aboard and the [[motifs/night|night]] is young,
 
 The door’s ajar and the Barrel is sprung,
 
@@ -7056,13 +7056,13 @@ And it has a rousing chorus.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Canzone da bere del West Sussex
+Canzone da bere del West Sussex
 
-# Vendono birra buona ad Haslemere
+Vendono birra buona ad Haslemere
 
 E sotto Guildford Hill.
 
-# A Little Cowfold, come mi è stato detto
+A Little Cowfold, come mi è stato detto
 
 Un mendicante può saziarsi quanto vuole.
 
@@ -7076,15 +7076,15 @@ Ma le “swipe” che ricevono al Washington Inn…
 
 Coro
 
-#Via che parte…
+Via che parte…
 
 Tutta la divertenza ci aspetta davanti…
 
-Il “Tipple” è a bordo e la [[Night|notte]] è ancora giovane.
+Il “Tipple” è a bordo e la [[motifs/night|notte]] è ancora giovane.
 
 La porta è socchiusa e il barile è aperto…
 
-# Canto la canzone più bella mai cantata
+Canto la canzone più bella mai cantata
 
 E ha un ritornello davvero commovente.
 
@@ -7092,13 +7092,13 @@ Se fossi ciò che non potrò mai essere…
 
 Il maestro o lo scudiero:
 
-# Se mi dessi i cento metri che ci sono da qui al mare…
+Se mi dessi i cento metri che ci sono da qui al mare…
 
 Più di quanto desideri…
 
 “Allora tutte le mie colture dovrebbero essere orzo e luppolo.”
 
-#E fallì la mia raccolta?
+E fallì la mia raccolta?
 
 Titolo:  
 Venderei ogni singola iarda dei miei terreni…
@@ -7107,15 +7107,15 @@ Per un ventre pieno di ottimo birra.
 
 Coro
 
-#Via che parte…
+Via che parte…
 
 Tutta la divertenza ci aspetta davanti…
 
-Il Tipple è a bordo e la [[Night|notte]] è ancora giovane.
+Il Tipple è a bordo e la [[motifs/night|notte]] è ancora giovane.
 
 La porta è socchiusa e il barile è aperto…
 
-# Canto la canzone più bella mai cantata
+Canto la canzone più bella mai cantata
 
 E ha un ritornello davvero commovente.
 
@@ -7169,35 +7169,35 @@ Remarkable artifice).
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Una ballata sull’economia sociologica
+Una ballata sull’economia sociologica
 
 Circa un po’ di tempo fa…
 
-#"Felici canzoni per tutto il giorno")
+"Felici canzoni per tutto il giorno")
 
 C'era un uomo seduto in cima a un asino.
 
-# Felicità nel cuore e canti gioiosi
+Felicità nel cuore e canti gioiosi
 
 Nonostante il prezzo dell’erba secca.
 
 E via così, galopparono giù per la discesa…
 
-# Fortuna ai più audaci
+Fortuna ai più audaci
 
 L’uomo lassù e la bestia quaggiù
 
-#E cantando dimentichiamo tutti di preoccuparci
+E cantando dimentichiamo tutti di preoccuparci
 
 Un uomo può ridere, se osa.
 
-#Sopra i resti e attorno al raccolto
+Sopra i resti e attorno al raccolto
 
 La vita è breve e il mondo è rotondo.
 
 Il burro sotto e l’uomo sopra
 
-#"Oh! che possa essere trovata della buona birra..."
+"Oh! che possa essere trovata della buona birra..."
 
 Buona birra e buona musica.
 
@@ -7207,7 +7207,7 @@ Buona birra e buona musica.
 
 Il maiale nel fossato e l’uomo a terra
 
-# E questa è la morale della storia…
+E questa è la morale della storia…
 
 Un’artificiosità notevole.
 
@@ -7252,29 +7252,29 @@ The Shaven Head that boasts of Hair,
 
 For when the road attains the rail
 
-The [[Pilgrim]]’s great attempt shall fail.
+The [[archetypes/pilgrim|Pilgrim]]’s great attempt shall fail.
 
 
 <span class="qlang-split" data-lang="it"></span>
 
 Un oracolo
 
-#Quello che avvertì lo scrittore durante il suo pellegrinaggio
+Quello che avvertì lo scrittore durante il suo pellegrinaggio
 
-#"Al mattino arriva ciò che al tramonto ti raggiunge, e ti accoglie..."
+"Al mattino arriva ciò che al tramonto ti raggiunge, e ti accoglie..."
 
-# Il padrone di casa comprende spesso le voci che vengono rifiutate
+Il padrone di casa comprende spesso le voci che vengono rifiutate
 
-# Note ignorate del rustico e i fiumi che scavano la terra
+Note ignorate del rustico e i fiumi che scavano la terra
 
 Titolo:  
 Ocupato – Nella sacra dimora, si trova il tempio nascosto
 
 "Tonsuram Hirsuti Capitis, via namque pedestrem"
 
-#"Prevenire il corso con fermezza, o viaggiatore, affronta il lavoro con determinazione."
+"Prevenire il corso con fermezza, o viaggiatore, affronta il lavoro con determinazione."
 
-# Per pietà tua, il progetto fallirà… per amore
+Per pietà tua, il progetto fallirà… per amore
 
 Antichi Riti elevati sotto il nome di Roma.
 
@@ -7286,17 +7286,17 @@ Quando l’alba sembra essere solo il tramonto…
 
 E coloro che continuano a rifiutare… ricevono comunque.
 
-# Quando parole sconosciute vengono comprese da persone ignote
+Quando parole sconosciute vengono comprese da persone ignote
 
 E le inondazioni vengono attraversate anche su terraferma.
 
 All'interno delle mura sacre, fate attenzione
 
-# La testa rasata che si vanta di avere i capelli
+La testa rasata che si vanta di avere i capelli
 
-# Quando la strada incontra i binari
+Quando la strada incontra i binari
 
-Il grande tentativo del [[Pilgrim|>Pellegrino]] fallirà.
+Il grande tentativo del [[archetypes/pilgrim|>Pellegrino]] fallirà.
 
 
 
@@ -7340,6 +7340,9 @@ Dona Eis Requiem.
 
 <span class="qlang-split" data-lang="it"></span>
 
+Titolo:  
+# Versi – Tutti gli eretici
+
 Eretici tutti
 
 Eretici tutti voi, chiunque siate.
@@ -7358,11 +7361,11 @@ Ovunque viaggi, è sempre così.
 
 Benedicamus Domino.
 
-# Sul destino delle donne abbandonate che diventano madri
+Sul destino delle donne abbandonate che diventano madri
 
-#Uomini che sudano solo per disprezzo…
+Uomini che sudano solo per disprezzo…
 
-# Tutti coloro che sono mai nati…
+Tutti coloro che sono mai nati…
 
 Misericordia, Signore.
 
@@ -7468,7 +7471,7 @@ And having spoken it, he died.
 
 La morte e l’ultima confessione di Peter lo Zingaro
 
-# Quando Peter Wanderwide era giovane
+Quando Peter Wanderwide era giovane
 
 Vagabondò ovunque desiderasse andare.
 
@@ -7476,19 +7479,19 @@ E tutto ciò che egli approvava veniva cantato.
 
 E la maggior parte di ciò che vide era bello.
 
-# Quando Peter Wanderwide fu gettato via
+Quando Peter Wanderwide fu gettato via
 
-# Oltre Auxerre, per mano della morte stessa
+Oltre Auxerre, per mano della morte stessa
 
-# Cantava con tono eroico
+Cantava con tono eroico
 
 A sacerdoti e alla gente riunita lì:
 
 “Se tutto ciò che ho amato e visto…”
 
-# Con me il Giorno del Giudizio
+Con me il Giorno del Giudizio
 
-#Salvato tra la folla
+Salvato tra la folla
 
 Dai demoni e dalle loro schiere malvagie.
 
@@ -7502,7 +7505,7 @@ E il Perigord tra le sue mani
 
 "#Sulle sue braccia i lacci delle staffe..."
 
-# E nel suo passo, i mari stretti…
+E nel suo passo, i mari stretti…
 
 E dalle sue labbra escono canzoni del Borgogna…
 
@@ -7510,7 +7513,7 @@ Ma nel suo cuore… i Pirenei?
 
 “Allora San Michele risponderà correttamente”
 
-# E non senza un senso di vergogna angelica…
+E non senza un senso di vergogna angelica…
 
 “Sembra che riconosca il suo volto a prima vista…”
 
@@ -7518,7 +7521,7 @@ Non riesco a ricordarmi il suo nome…?
 
 “Allora San Pietro mi sarà amico…”
 
-#Perché anche il mio nome è Peter
+Perché anche il mio nome è Peter
 
 “Lo conosco come una delle migliori persone.”
 
@@ -7532,17 +7535,17 @@ Ho in mio possesso le chiavi del Cielo e dell’Inferno.
 
 Benvenuto, nobile Peterkin.
 
-#Allora spiegherò le ali della mia patria
+Allora spiegherò le ali della mia patria
 
-#Cammina con sicurezza sul pavimento celeste
+Cammina con sicurezza sul pavimento celeste
 
-# E racconta alle Beate cose incerte…
+E racconta alle Beate cose incerte…
 
 “Di Val d’Aran e Perigord”.
 
 * * * * *
 
-# L’ultima e solenne battuta
+L’ultima e solenne battuta
 
 Di stanco Peter Wanderwide.
 
@@ -7635,7 +7638,7 @@ That I might read them and revere.
 
 This Oxford of the larger air,
 
-Laughing, and full of [[Faith|faith]], and free,
+Laughing, and full of [[concepts/faith|faith]], and free,
 
 With youth resplendent everywhere?”
 
@@ -7769,7 +7772,7 @@ But hasn’t managed to achieve it.
 
 Not even this peculiar town
 
-Has ever fixed a [[Friendship|friendship]] firmer,
+Has ever fixed a [[concepts/friendship|friendship]] firmer,
 
 But — one is married, one’s gone down,
 
@@ -7874,21 +7877,21 @@ And drink it, “Gentlemen: the Club.”
 
 Ode dedicata
 
-#Scrivere con tutta la mia forza
+Scrivere con tutta la mia forza
 
-#In declino da tempo…
+In declino da tempo…
 
 Una ballata di enorme lunghezza…
 
 Alcune parti di questo testo richiederanno spiegazioni.[1]
 
-#Perché (a differenza della maggior parte degli uomini)
+Perché (a differenza della maggior parte degli uomini)
 
 Chi scrive per la fama o per scopi pubblici…
 
-# Una penna sciolta e fluida
+Una penna sciolta e fluida
 
-# Di miei amici intimi
+Di miei amici intimi
 
 Per nessuno, nel nostro lungo declino…
 
@@ -7900,11 +7903,11 @@ O li amava almeno la metà di quanto li amassi io.
 
 * * * * *
 
-# Il matricolato si avvia lentamente lungo il viale principale
+Il matricolato si avvia lentamente lungo il viale principale
 
-# Folle d’amore per tutto ciò che vede
+Folle d’amore per tutto ciò che vede
 
-# Il cielo delle Midlands
+Il cielo delle Midlands
 
 Annusa qualcosa di più di una semplice brezza di Midland.
 
@@ -7916,7 +7919,7 @@ L’insegnamento privato era una vera e propria vergogna.
 
 Un credo che non è altro che una mascherata, pieno di vuote parole e privo di vita reale?
 
-#Può essere proprio qui che zio Paul…
+Può essere proprio qui che zio Paul…
 
 Guidato da un eccessivo cupore…
 
@@ -7936,23 +7939,23 @@ Che curioso! Che grande sorpresa.
 
 Più di quelli di loro… intendo, più di quelli dello zio Paul.
 
-#Ha risvegliato il sonno della loro decadenza
+Ha risvegliato il sonno della loro decadenza
 
 E i loro antichi muri erano punteggiati di luce.
 
 “O, cari e intrepidi ragazzi di un tempo…”
 
-# Che i vostri nomi fossero incisi qui…
+Che i vostri nomi fossero incisi qui…
 
 Per tutto il mondo, in francobolli d’oro…
 
 Per poterli leggere e rispettarli.
 
-# Chi lo creò e me lo tramandò
+Chi lo creò e me lo tramandò
 
-# Questo “Oxford” dell’immensità del cielo…
+Questo “Oxford” dell’immensità del cielo…
 
-Ridendo, pieno di [[Faith|>fede]] e libero.
+Ridendo, pieno di [[concepts/faith|>fede]] e libero.
 
 “Con la gioventù che splende ovunque…”
 
@@ -7966,11 +7969,11 @@ Il loro club si chiamava REPUBLICAN.
 
 * * * * *
 
-# Dove giacciono sulle loro rive di luce
+Dove giacciono sulle loro rive di luce
 
-# Le felici colline del Cielo tra loro
+Le felici colline del Cielo tra loro
 
-#Gli dèi che dominano il cielo del mattino
+Gli dèi che dominano il cielo del mattino
 
 Non sono più giovani, né più sereni
 
@@ -7982,9 +7985,9 @@ E in questa terra sgradevole…
 
 Per fondare l’Abbazia di Telemo.
 
-# Abbiamo mantenuto il piano rabelaesco [4]
+Abbiamo mantenuto il piano rabelaesco [4]
 
-#I delicati chiostri ricevettero la nostra dignità
+I delicati chiostri ricevettero la nostra dignità
 
 Con la legge naturale e i diritti dell’uomo
 
@@ -7998,9 +8001,9 @@ Titolo: Erano principalmente scritti privati nostri.
 
 Abbiamo mantenuto una scuola e ci siamo insegnati da soli.
 
-#Insegnammo l’arte di scrivere
+Insegnammo l’arte di scrivere
 
-# Uomini che ancora vorremmo soffocare…
+Uomini che ancora vorremmo soffocare…
 
 E dove trovare il Sangue dei Re
 
@@ -8010,7 +8013,7 @@ Solo mezza corona a bottiglia.
 
 Eheu, fugaci, postumi!
 
-#Un vecchio detto ormai obsoleto
+Un vecchio detto ormai obsoleto
 
 Il mio mantello di sogni è stato rubato
 
@@ -8022,7 +8025,7 @@ La ricchezza della giovinezza… l’abbiamo spesa bene.
 
 E in modo dignitoso, come pochi riescono a fare.
 
-#È andato perduto? Non lo so…
+È andato perduto? Non lo so…
 
 E inoltre, dubito che tu sia in grado di farlo.
 
@@ -8047,7 +8050,7 @@ Dicono… e sono felice che lo dicano.
 
 È così; e potrebbe anche essere così.
 
-# Potrebbe essere proprio il contrario
+Potrebbe essere proprio il contrario
 
 Non posso dirlo con certezza… Ma una cosa so:
 
@@ -8063,7 +8066,7 @@ Ma c'è la risata e l'amore degli amici.
 
 Ma qualcosa si assottiglia… oh, miei compagni!
 
-# Qualcosa inganna il cuore e poi passa…
+Qualcosa inganna il cuore e poi passa…
 
 E Tom… che voleva scuotere via gli anni.
 
@@ -8071,13 +8074,13 @@ E Tom… che voleva scuotere via gli anni.
 
 E Lui, il Pastore del Gregge
 
-#"Tenere i birmanesi sotto controllo"...
+"Tenere i birmanesi sotto controllo"...
 
 Un esiliato su una roccia desolata
 
 Quello si affaccia sul confine cinese.
 
-# E Uno (Intendo dire me stesso, nientemeno che così)
+E Uno (Intendo dire me stesso, nientemeno che così)
 
 Ah! — riuscirà la posterità a crederci?
 
@@ -8087,7 +8090,7 @@ Ma non è riuscito a realizzarlo.
 
 Non nemmeno questa strana città
 
-C’è mai stato qualcosa che abbia reso un’[[Friendship|amicizia]] ancora più solida?
+C’è mai stato qualcosa che abbia reso un’[[concepts/friendship|amicizia]] ancora più solida?
 
 Ma… uno è sposato, un altro se n’è andato…
 
@@ -8095,11 +8098,11 @@ Uno è un Don, e l’altro si trova in Birmania.
 
 * * * * *
 
-# E oh… quei giorni, quei giorni…
+E oh… quei giorni, quei giorni…
 
-# Quando tutti e quattro se ne andarono insieme:
+Quando tutti e quattro se ne andarono insieme:
 
-# L’infinita profondità della nebbia estiva
+L’infinita profondità della nebbia estiva
 
 L’assalto impetuoso del tempo autunnale.
 
@@ -8115,7 +8118,7 @@ Nei piccoli moli di pietra di Yarnton.
 
 Ma mi siederò accanto al fuoco.
 
-# E mi porto la mano davanti agli occhi
+E mi porto la mano davanti agli occhi
 
 E seguire, per soddisfare il desiderio del mio cuore…
 
@@ -8125,7 +8128,7 @@ La tranquilla serata le permise di mantenere il loro appuntamento…
 
 Sotto un cielo aperto viaggiavamo.
 
-# E si dissolse in una nebbia vaga
+E si dissolse in una nebbia vaga
 
 Lungo il perfetto fiume Evenlode.
 
@@ -8134,13 +8137,13 @@ La tenera Evenlode che…
 
 Le sue praterie tacciono per ascoltare quel suono
 
-# Delle acque che si mescolano nelle frenate
+Delle acque che si mescolano nelle frenate
 
 E lega il mio cuore alla terra inglese.
 
 Un bel fiume, tutto solo…
 
-#Rimane tra le colline… e tiene stretto qualcosa
+Rimane tra le colline… e tiene stretto qualcosa
 
 Cento piccole città di pietra
 
@@ -8148,9 +8151,9 @@ Dimenticato nelle lande occidentali
 
 * * * * *
 
-# Osso di dubio (sebbene ci siano forze più malvagie)
+Osso di dubio (sebbene ci siano forze più malvagie)
 
-#"Dominate i nostri troni… e anche le menti più semplici."
+"Dominate i nostri troni… e anche le menti più semplici."
 
 Bevono vini peggiori dei nostri.
 
@@ -8164,29 +8167,29 @@ Ancora canta per un brindisi immortale.
 
 Le avventure disastrose del mugnaio.
 
-#I mari senza fine sono appena una barriera
+I mari senza fine sono appena una barriera
 
 Per coloro che sono così presi da tale convinzione…
 
-#Eravamo? Allora, per Dio, siamo ancora…
+Eravamo? Allora, per Dio, siamo ancora…
 
 Ordine! Chiamo il Club a riunione!
 
-# Tu conservi ancora quella canzone che abbiamo scelto insieme
+Tu conservi ancora quella canzone che abbiamo scelto insieme
 
 E come si alza, inciampa e osserva intorno?
 
-# Conservi ancora quel ricordo sacro
+Conservi ancora quel ricordo sacro
 
 Repubblicani? Repubblicani?
 
-# Come venivano scagliate quelle parole…
+Come venivano scagliate quelle parole…
 
 Per sfuggire al peggio della sfortuna?
 
-# Un brindisi per il mondo intero
+Un brindisi per il mondo intero
 
-# Bevilo, signori: il Club.
+Bevilo, signori: il Club.
 
 
 
@@ -8234,7 +8237,7 @@ Dedica al dono di un libro a un bambino
 
 Bambino! Non gettare via questo libro in giro!
 
-# Astenersi da piaceri profani
+Astenersi da piaceri profani
 
 Di ritagliare tutte le immagini.
 
@@ -8245,7 +8248,7 @@ Figliolo, non l’hai mai sentito dire?
 
 Che tu sia l’erede di tutte le epoche?
 
-# Perché mai le tue mani non sono state create per questo scopo?
+Perché mai le tue mani non sono state create per questo scopo?
 
 Strappare queste bellissime pagine spesse.
 
@@ -8254,7 +8257,7 @@ Le tue piccole mani sono state create per prendere…
 
 Le cose migliori… e lasciare quelle peggiori.
 
-# Possono anche essere utilizzati per scuotere
+Possono anche essere utilizzati per scuotere
 
 Le enormi mani delle persone anziane.
 
@@ -8300,7 +8303,7 @@ E anche se lo fosse, non andrebbe bene.
 
 Per persone come me e te
 
-#Chi per quasi tutto il giorno…
+Chi per quasi tutto il giorno…
 
 Stanno facendo qualcosa di piuttosto sbagliato.
 
@@ -8346,7 +8349,7 @@ Omaggio
 
 I
 
-# Una luce intorno alla tua testa
+Una luce intorno alla tua testa
 
 Solo i santi di Dio possono indossarlo.
 
@@ -8354,7 +8357,7 @@ E tutte le fioriture su cui calpesti…
 
 "In pleasance more than ours have fed..."
 
-#Avevano bevuto l’aria essenziale
+Avevano bevuto l’aria essenziale
 
 Di chi è un’estate in cui la musica risuona ovunque.
 
@@ -8362,14 +8365,14 @@ II
 
 Perché sei più giovane delle mattine stesse
 
-# Che si spezza tra le montagne;
+Che si spezza tra le montagne;
 
-# Quando i pastori delle colline vedono la loro unica stella
+Quando i pastori delle colline vedono la loro unica stella
 
 Titolo:  
 “Pallido all’alba… e creare”
 
-#Nel silenzio delle ore…
+Nel silenzio delle ore…
 
 Le prime ore di tutto il loro felice percorso.
 
@@ -8419,9 +8422,9 @@ Fille-la-Haine was my sweetheart.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Figlia dell'odio
+Figlia dell'odio
 
-#"La Morte entrò nella torre per suonare la campana"
+"La Morte entrò nella torre per suonare la campana"
 
 E tirò la corda, facendo suonare una campana a morto.
 
@@ -8429,15 +8432,15 @@ Fille-la-Haine, quanto bene canti!
 
 Perché stanno suonando la Campana del Commiato?
 
-# La morte salì sulla guglia per suonare…
+La morte salì sulla guglia per suonare…
 
 Fille-la-Haine, quanto bene canti!
 
 La Morte scese lungo il fiume su una barca.
 
-#Giù per il fiume Sena se ne andò
+Giù per il fiume Sena se ne andò
 
-# Mal di gola della Figlia dell’Odio
+Mal di gola della Figlia dell’Odio
 
 Fille-la-Haine non significava nulla per me.
 
@@ -8445,11 +8448,11 @@ La Morte scese lungo il fiume su una barca.
 
 Fille-la-Haine aveva mal di gola.
 
-#"La Morte salì la collina in carrozza"
+"La Morte salì la collina in carrozza"
 
 Ho dimenticato le sue labbra e il suo riso.
 
-# Amore e odio nella mia vita
+Amore e odio nella mia vita
 
 (E tutto il villaggio lo seguiva.)
 
@@ -8529,9 +8532,9 @@ I
 
 La Luna è morta. L’ho vista morire.
 
-#Avvolta in una nuvola errante…
+Avvolta in una nuvola errante…
 
-# Lungo l’incerto confine occidentale…
+Lungo l’incerto confine occidentale…
 
 Un sogno da vedere.
 
@@ -8539,13 +8542,13 @@ E con voce molto bassa mi parlò:
 
 "#Vado dove nessuno può comprendere"
 
-# Scompaio nella terra senza nome
+Scompaio nella terra senza nome
 
 “E deve rimanere lì per sempre.”
 
 E quindi io…
 
-#E quindi ad alta voce, molto ad alta voce… Io
+E quindi ad alta voce, molto ad alta voce… Io
 
 E in alto
 
@@ -8561,11 +8564,11 @@ La Luna Sacra? Oh, mai più!
 
 Forse lungo quella riva inumana…
 
-# Dove gli spettri pallidi sono
+Dove gli spettri pallidi sono
 
 Oltre la palude di Lethe
 
-# Lei e quella stella infernale…
+Lei e quella stella infernale…
 
 Per noi che l’amavamo e ora non possiamo più amarla…
 
@@ -8573,7 +8576,7 @@ La Luna non sorgerà mai più.
 
 Oh! mai più nel cielo notturno
 
-# Occhio troppo alto per non curiosare
+Occhio troppo alto per non curiosare
 
 Per vedere il grande mondo scorrere via davanti ai propri occhi.
 
@@ -8588,7 +8591,7 @@ La Luna è morta. L’ho vista morire.
 
 THE HAPPY JOURNALIST
 
-I love to walk about at [[Night|night]]
+I love to walk about at [[motifs/night|night]]
 
 By nasty lanes and corners foul,
 
@@ -8651,15 +8654,15 @@ Il giornalista felice
 
 Mi piace passeggiare di notte.
 
-# Per strade e angoli sporchi e pericolosi
+Per strade e angoli sporchi e pericolosi
 
 Tutti protetti dalla luce ostile
 
 E indipendente come un gufo.
 
-# Dietro le sbarre sporche mi piace nascondermi…
+Dietro le sbarre sporche mi piace nascondermi…
 
-# Spesso mi abbasso per guardare meglio
+Spesso mi abbasso per guardare meglio
 
 Alle stampanti che lavoravano silenziosamente nel loro compito.
 
@@ -8669,15 +8672,15 @@ Rifletto sulla decomposizione che causano.
 
 I redattori sotto le loro lampade
 
-# Assegnazione del sangue da parte del signor Howl
+Assegnazione del sangue da parte del signor Howl
 
-# E il signor Retender che ruba le timbrature
+E il signor Retender che ruba le timbrature
 
-# Insegnamenti di un signore che incoraggia i bugiardi
+Insegnamenti di un signore che incoraggia i bugiardi
 
 Il figlio maggiore compone robaccia…
 
-# Beaufort (il cui vero nome è Meyers)
+Beaufort (il cui vero nome è Meyers)
 
 Rifiutano qualsiasi cosa tranne il denaro contante.
 
@@ -8689,9 +8692,9 @@ Mi piace pensare ai bugiardi…
 
 Mi piace, quel genere di cose.
 
-#Poliziotti parlano con me, ma io…
+Poliziotti parlano con me, ma io…
 
-# Ricordando i miei diritti civili
+Ricordando i miei diritti civili
 
 Ignorali e non rispondere.
 
@@ -8839,31 +8842,34 @@ That dared attack my Chesterton.
 <span class="qlang-split" data-lang="it"></span>
 
 Titolo:  
+# Versi – Stanze per un signore
+
+Titolo:  
 Versi per un signore
 
 Don lontano e inefficace
 
-# Quello che osò attaccare il mio Chesterton
+Quello che osò attaccare il mio Chesterton
 
 Con quell’arma inadeguata, spinta a metà strada…
 
 Never learned, unstable, barely in control…
 
-#Inadatto a competere con gli uomini—
+Inadatto a competere con gli uomini—
 
 La tua penna tremolante e corrosa…
 
-# Don povero a letto e ancora peggiore a tavola
+Don povero a letto e ancora peggiore a tavola
 
 Don stretto, Don affamato, Don miserabile;
 
 Don balbuziente, Don dagli occhi erranti
 
-# Don Nervoso, Don delle Crudezze
+Don Nervoso, Don delle Crudezze
 
 Don clericale, Don ordinario
 
-# Don autosufficiente e solitario
+Don autosufficiente e solitario
 
 Don qua e là, Don epilettico;
 
@@ -8871,13 +8877,13 @@ Don affannato e vuoto, Don dal mal di stomaco…
 
 Don della media borghesia, Don ipocrita…
 
-# Don noioso, Don brutale, Don pedante
+Don noioso, Don brutale, Don pedante
 
-# Ipocrita e malvagio
+Ipocrita e malvagio
 
 Don furto, Don quasi pazzo…
 
-# Don (poiché un uomo deve pur concludere qualcosa)
+Don (poiché un uomo deve pur concludere qualcosa)
 
 Colui che non sarà mai mio amico.
 
@@ -8887,34 +8893,34 @@ Un Don diverso da quei Dons regali.
 
 Con cuori d’oro e polmoni di bronzo,
 
-# Chi grida, batte, ruggisce e urla
+Chi grida, batte, ruggisce e urla
 
-# Dall’altra parte del corridoio…
+Dall’altra parte del corridoio…
 
-#Navigare avvolto in un abito sonoro e maestoso
+Navigare avvolto in un abito sonoro e maestoso
 
-# Enorme attraverso la Città Sacra
+Enorme attraverso la Città Sacra
 
 Titolo:  
 Dalla università alle loro case
 
-#"Carichi pesanti di volumi giganteschi";"
+"Carichi pesanti di volumi giganteschi";"
 
 Signori ammirevoli! Signori del Potere!
 
-# Ribellione nella mia visione interiore
+Ribellione nella mia visione interiore
 
-#Raccolta di antiche storie e viaggi
+Raccolta di antiche storie e viaggi
 
 E dormire, e in un certo senso anche imparare.
 
-#Doni l'inglese, degno di questa terra;
+Doni l'inglese, degno di questa terra;
 
 Doni radicati. Doni che comprendono.
 
 Buoni signori per sempre… che rimangono tali.
 
-# Un punto di riferimento che delimita la pianura
+Un punto di riferimento che delimita la pianura
 
 Il confine dei miei ricordi
 
@@ -8922,39 +8928,39 @@ Come grandi e confortevoli alberi.
 
 * * * * *
 
-# Molto diverso da tutto ciò
+Molto diverso da tutto ciò
 
-# Il capro espiatorio, Don… il devoto Don
+Il capro espiatorio, Don… il devoto Don
 
 “Donare alla propria dannazione…” citato.
 
-# Perplesso nel trovare il tuo nome banale
+Perplesso nel trovare il tuo nome banale
 
 Cresciuto nella mia poesia, verso un’umiliazione eterna.
 
-# Don terribile, roco e logoro
+Don terribile, roco e logoro
 
 Don repellente, un Don al di là di ogni limite.
 
 Il signore del respiro freddo e incerto
 
-# Signore spregevole, Signore della morte
+Signore spregevole, Signore della morte
 
-# Don Nasty, Skimpy, Silente e Livello
+Don Nasty, Skimpy, Silente e Livello
 
 Donna il male; donna ciò che serve il diavolo.
 
 Don brutto. Questo fa cinquanta righe.
 
-# C’è un canone che delimita
+C’è un canone che delimita
 
 "Maledizione ottosillabica in rima"
 
 Se scritto in versi iambici
 
-# Cinquanta righe… Non taglio mai nulla.
+Cinquanta righe… Non taglio mai nulla.
 
-# Preferisco di gran lunga porre fine a tutto…
+Preferisco di gran lunga porre fine a tutto…
 
 Credimi, tornerò presto.
 
@@ -8984,7 +8990,7 @@ I only write about them in connection
 
 With benefits which the Electric Light
 
-Confers on us; especially at [[Night|night]].
+Confers on us; especially at [[motifs/night|night]].
 
 These are my theme, of these my song shall rise.
 
@@ -9191,12 +9197,12 @@ Canto dei benefici che la Scienza dona.
 
 Sotto la gentile guida degli esaminatori
 
-#Solo ne scrivo quando sono collegati a qualcos’altro
+Solo ne scrivo quando sono collegati a qualcos’altro
 
 Titolo:  
 Con i vantaggi offerti dalla luce elettrica…
 
-Ci viene conferito, soprattutto di [[Night|notte]].
+Ci viene conferito, soprattutto di [[motifs/night|notte]].
 
 Questi sono i miei temi; su di essi sorgerà la mia canzone.
 
@@ -9208,25 +9214,25 @@ Scendi, o Musa, dalla tua divina dimora.
 
 A Osney, sulla strada delle Sette Ponti;
 
-#Sotto l’ombra solitaria di Osney
+Sotto l’ombra solitaria di Osney
 
 La maggior parte della lampada elettrica è già stata prodotta.
 
 Ecco le opere; da qui nasce il corso del flusso.
 
-# Quale… (così recita il prospetto aziendale)
+Quale… (così recita il prospetto aziendale)
 
 Titolo: Fornisce agli iscritti informazioni orarie per orario
 
 Non meno di sedicimila candele di potenza…
 
-# Tutti a mille volt… (È essenziale)
+Tutti a mille volt… (È essenziale)
 
-# Mantenere il livello attuale a questo alto potenziale
+Mantenere il livello attuale a questo alto potenziale
 
 Nonostante le notevoli spese.
 
-# L’energia sviluppata rappresenta…
+L’energia sviluppata rappresenta…
 
 In termini di piedotoni, le forze unite…
 
@@ -9236,19 +9242,19 @@ Ma dovranno forse i miei dettagli scientifici essere esposti in questo modo?
 
 Tagliare via le adorabili ali del leggero Pegaso?
 
-# Statistiche puramente statistiche… possono forse risultare sgradevoli all’orecchio?
+Statistiche puramente statistiche… possono forse risultare sgradevoli all’orecchio?
 
 Quelle pantaloni accentuano chiaramente il tono melodioso di Lyric, vero?
 
-# Devo descrivere il complesso Dynamo?
+Devo descrivere il complesso Dynamo?
 
 O forse scrivere qualcosa sul suo Commutatore? No!
 
-# Verso campi più felici conduco la mia penna libera e spensierata
+Verso campi più felici conduco la mia penna libera e spensierata
 
 Lo studio approfondito dell’umanità riguarda gli esseri umani stessi.
 
-# Risvegliati, mia Musa! Raffigura questa piacevole scena
+Risvegliati, mia Musa! Raffigura questa piacevole scena
 
 Questo ci porta nel luogo in cui producono la luce elettrica.
 
@@ -9286,7 +9292,7 @@ Da fatti funebri e da visioni desolate
 
 Nato da Erebo e dalla più oscura mezzanotte.
 
-# Risvegliati, Musa! e canta con accenti ricchi e vibranti
+Risvegliati, Musa! e canta con accenti ricchi e vibranti
 
 Titolo:  
 I processi interessanti attraverso i quali…
@@ -9295,7 +9301,7 @@ L'elettricità viene trasmessa lungo il circuito…
 
 Questi sono i miei temi: su di essi modulo la mia canzone.
 
-# Incapsulato nel legno o nella malta porosa
+Incapsulato nel legno o nella malta porosa
 
 Attraverso fili di rame spessi due millimetri
 
@@ -9320,7 +9326,7 @@ Bloccato nella sua corsa e fermato nel suo percorso[6]
 
 Si trasforma in calore e luce attraverso la sua forza latente:
 
-# Non c’è bisogno di un pedante sul podio dell’oratore
+Non c’è bisogno di un pedante sul podio dell’oratore
 
 Per dimostrare che lì sono presenti luce e calore.
 
@@ -9328,7 +9334,7 @@ Il globo di vetro a forma di pera… capisco.
 
 Fa troppo caldo per poter toccare qualcosa con le mani.
 
-# Mentre, come è evidente anche al più semplice osservatore…
+Mentre, come è evidente anche al più semplice osservatore…
 
 Il filamento di carbonio è molto luminoso.
 
@@ -9353,7 +9359,7 @@ Lontano da qualche angolo remoto della stanza
 
 La lampada ad incandescenza scaccia l’oscurità.
 
-#E con la maggiore richiesta di stampa, non c’è nemmeno bisogno di provare
+E con la maggiore richiesta di stampa, non c’è nemmeno bisogno di provare
 
 Le capacità visive di qualsiasi giovane occhio pieno di vigore.
 
@@ -9365,11 +9371,11 @@ La vita è una valle: i suoi sentieri sono oscuri e accidentati.
 
 Solo perché non sappiamo abbastanza…
 
-# Quando la scienza ha scoperto qualcosa di ancora più grande
+Quando la scienza ha scoperto qualcosa di ancora più grande
 
 Saremo più felici di quanto fossimo prima.
 
-# Salve, Britannia, padrona degli oceani azzurri
+Salve, Britannia, padrona degli oceani azzurri
 
 Diecimila flotte ti assalgono invano!
 
@@ -9377,7 +9383,7 @@ Salve, potente Madre dei Coraggiosi e Liberi!
 
 Quel ritmo sconfisse Napoleone, e mi diede alla luce!
 
-#Colui che può avvolgersi nel suo manto decorato di simboli
+Colui che può avvolgersi nel suo manto decorato di simboli
 
 Un quarto del globo abitabile.
 
@@ -9385,9 +9391,9 @@ Le tue montagne, accarezzate da una brezza favorevole…
 
 Come poderose rocce che resistono ai mari tempestosi.
 
-# Tu sei una comunità cristiana… eppure
+Tu sei una comunità cristiana… eppure
 
-# Non essere del tutto ingrato… né dimenticare
+Non essere del tutto ingrato… né dimenticare
 
 Come esulti nella maestà imperiale…
 
@@ -9445,7 +9451,7 @@ To see the yellow mustard grow!
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Il senape giallo
+Il senape giallo
 
 “Oh! voi che lo agitate avanti e indietro…”
 
@@ -9457,9 +9463,9 @@ Chi non ha mai visto crescere la senape?
 
 Il senape giallo non è da meno
 
-# Il dono divino della solitudine
+Il dono divino della solitudine
 
-#E fu inviato con una stampa magnifica
+E fu inviato con una stampa magnifica
 
 Per far tintinnare le chiavi nel mio dolore.
 
@@ -9474,15 +9480,15 @@ Vagare sotto la pioggia estiva.
 
 Lontano dal luogo degli uomini…
 
-#E ardendo come un enorme disonore…
+E ardendo come un enorme disonore…
 
-# Mi colpì con violenza in faccia
+Mi colpì con violenza in faccia
 
 Il simbolo della razza dei senape.
 
 * * * * *
 
-# Vedere crescere il senape giallo
+Vedere crescere il senape giallo
 
 Oltre la città, sopra, sotto…
 
@@ -9508,13 +9514,13 @@ Both how to make men sick and keep them so.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Sulla igiene
+Sulla igiene
 
-# Di tempi antichi, quando le persone si ammalavano e soffrivano molto…
+Di tempi antichi, quando le persone si ammalavano e soffrivano molto…
 
 I medici gli somministrarono dei farmaci, ma morirono comunque.
 
-# Qui c’è un’epoca più felice… almeno per ora lo sappiamo.
+Qui c’è un’epoca più felice… almeno per ora lo sappiamo.
 
 Sia il modo per far ammalare gli uomini che quello per mantenerli in tale stato.
 
@@ -9600,9 +9606,9 @@ Who taught us how the wine-press should be trod!
 
 Sonetto a Dio, il Donatore del Vino
 
-#Per la Domenica di Pasqua
+Per la Domenica di Pasqua
 
-#Vino fatto dall’uomo… ma forse anche da Dio
+Vino fatto dall’uomo… ma forse anche da Dio
 
 Dio, creatore di tutte le cose, ha creato anche l’uomo, e il vino buono.
 
@@ -9612,15 +9618,15 @@ Riguardo alle implicazioni reali del lavoro.
 
 “Poi, con una risata profetica e intima…”
 
-# Insegnò all’Uomo, creato a Sua immagine e somiglianza
+Insegnò all’Uomo, creato a Sua immagine e somiglianza
 
 Raccogliere, trasportare con carri, e tutto il resto!
 
 Per poi passeggiare tra i vigneti e lavorare alla raccolta dell’uva.
 
-#Anche Dio ci ha creati per farci diventare ottimi produttori di vino…
+Anche Dio ci ha creati per farci diventare ottimi produttori di vino…
 
-#Così ci ordinò di dominare il campo
+Così ci ordinò di dominare il campo
 
 E ora, per Dio, non siamo solo panettieri…
 
@@ -9736,16 +9742,16 @@ Una personalità forte e decisa
 
 Vale diverse centinaia di migliaia di sterline —
 
-# Della rigorosa morale politica
+Della rigorosa morale politica
 
 Camminava nei suoi terreni simili a un parco…
 
 Titolo:  
 Quando, proprio mentre tutto questo iniziava a perdere il suo fascino per lui…
 
-# Gli alberi e simili
+Gli alberi e simili
 
-# Una persona venuta a fargli visita
+Una persona venuta a fargli visita
 
 Gli si avvicinò e si tolse il cappello.
 
@@ -9755,13 +9761,13 @@ Disse, con assoluta sincerità:
 
 In nessun ruolo particolarmente evidente.
 
-#Sono soltanto un avvocato; e…
+Sono soltanto un avvocato; e…
 
-# Un po' di elementare
+Un po' di elementare
 
 Negoziazione, di tanto in tanto
 
-# Come agente di un parlamentare
+Come agente di un parlamentare
 
 Divisione della città di N.
 
@@ -9769,15 +9775,15 @@ Divisione della città di N.
 
 Un membro del Comune Bene…
 
-# Prima di completare il mio incarico
+Prima di completare il mio incarico
 
-# Vorrei sapere cosa provi
+Vorrei sapere cosa provi
 
 Su questioni più o meno dibattibili…
 
-# As – se sia il nostro orgoglio imperiale…
+As – se sia il nostro orgoglio imperiale…
 
-# Può essere considerato imponibile o soggetto a tassazione
+Può essere considerato imponibile o soggetto a tassazione
 
 “Le Giardini di...” rispose il suo ospite.
 
@@ -9787,11 +9793,11 @@ Su questioni più o meno dibattibili…
 
 Stanno minando l’intera società.
 
-# Non esito affatto a dire
+Non esito affatto a dire
 
 Il mio paese spreca le sue capacità.
 
-#Come il Montenegro tratta…
+Come il Montenegro tratta…
 
 Le sue strutture educative.
 
@@ -9799,7 +9805,7 @@ Le sue strutture educative.
 
 “Deploravo amaramente la loro frequenza…”
 
-# In Canada siamo d’accordo
+In Canada siamo d’accordo
 
 Le leggi che proteggono la decenza pubblica
 
@@ -9815,13 +9821,13 @@ Sulla qualificazione di Thingumbob.
 
 “Spero che rimani per cena…”
 
-#Insistenza insistente da parte di Sua Signoria
+Insistenza insistente da parte di Sua Signoria
 
 Raramente come quella volta aveva premuto prima.
 
 * * * * *
 
-# Diede loro entrambi l’opportunità di…
+Diede loro entrambi l’opportunità di…
 
 Per conoscere meglio il valore l’uno dell’altro.
 
@@ -9888,7 +9894,7 @@ And Consols are at 82.
 
 Envoi
 
-And, Botha lay at [[Pilgrim]]’s Rest
+And, Botha lay at [[archetypes/pilgrim|Pilgrim]]’s Rest
 
 And Myberg in the Great Karroo
 
@@ -9933,24 +9939,24 @@ And Consols are at 82.
 
 <span class="qlang-split" data-lang="it"></span>
 
-# Ballata breve e postfazione su console
+Ballata breve e postfazione su console
 
 I
 
 Figlia gigante dell’Ovest
 
-#Un tono tennisoniano… chi?
+Un tono tennisoniano… chi?
 
 Titolo:  
 Dalla questa corazza invincibile
 
-#Il vigoroso latte della Libertà
+Il vigoroso latte della Libertà
 
-# Libero dono – possa il simbolo rimanere tale
+Libero dono – possa il simbolo rimanere tale
 
-# Fedele all’impero che ti è stato affidato
+Fedele all’impero che ti è stato affidato
 
-# Mai scrivere una frase su questo argomento…
+Mai scrivere una frase su questo argomento…
 
 Ma i Consoli sono al 82%.
 
@@ -9967,19 +9973,19 @@ Quando le azioni, ma cosa significa tutto questo per te?
 
 E poi… chi avrebbe mai potuto indovinare?
 
-# Di armi e cavalli…
+Di armi e cavalli…
 
 Inoltre, conoscevano molto bene il loro mestiere.
 
 E i “Consols” sono a 82.
 
-# III
+III
 
 Non ha alcun senso protestare.
 
-# Non è educato salutare in quel modo
+Non è educato salutare in quel modo
 
-# Come le cose sono andate storte…
+Come le cose sono andate storte…
 
 O chiamare vagamente un uomo ebreo.
 
@@ -9987,23 +9993,23 @@ Un gentiluomo che non sa scherzare
 
 Si è osservato che dovremmo cavarcela come possiamo.
 
-#Il continente ne rimase profondamente colpito
+Il continente ne rimase profondamente colpito
 
 E i “Consols” sono a 82.
 
-# Envoi
+Envoi
 
-E Botha riposava a [[Pilgrim|Pilgrim’s Rest]].
+E Botha riposava a [[archetypes/pilgrim|Pilgrim’s Rest]].
 
-# E Myberg nel Grande Karroo
+E Myberg nel Grande Karroo
 
-# A sud e a ovest, un deserto
+A sud e a ovest, un deserto
 
 E i “Consols” sono a 82.
 
 Postscript
 
-# Permitemi… se non vi dispiace.
+Permitemi… se non vi dispiace.
 
 Titolo:  
 Aggiungerlo sarebbe davvero divertentissimo!
@@ -10033,6 +10039,6 @@ Mentre ciò accade, provo una certa vivacità…
 
 Di nuovo alla scrittura del nuovo…
 
-# Non dire mai che tutto sia per il meglio
+Non dire mai che tutto sia per il meglio
 
 E i “Consols” sono a 82.

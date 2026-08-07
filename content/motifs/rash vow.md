@@ -14,4 +14,10 @@ The folkloric device of an unconditional promise made before its consequences ar
 
 <div class="concept-works" data-slug="motifs/rash-vow"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/lovers-(chesterton)|lovers (Chesterton)]]
+
+</div>
+
 #graph/motif

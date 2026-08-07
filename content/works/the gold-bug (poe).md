@@ -16,7 +16,7 @@ tags:
   - form/short_story
 ---
 
-*by Poe*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
+*by Poe*  ·  **Cluster:** [[clusters/short-story-·-concealment-hidden-identity-·-justice-right-and-wrong|Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 
 > A tale of ratiocination in which Legrand decodes a pirate's cryptogram to unearth Captain Kidd's buried treasure; a detective-style story driven by cipher-breaking, gold, and analytic reasoning.
@@ -48,10 +48,10 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Quest]]
-**Motifs:** [[Money and Gold]], [[Letters and Writing]]
-**Themes & Concepts:** [[Ratiocination Detection]], [[Truth]]
-**Forms & Genres:** [[Detective Fiction]], [[Short Story]]
+**Topoi:** [[topoi/quest|Quest]]
+**Motifs:** [[motifs/money-and-gold|Money and Gold]], [[motifs/letters-and-writing|Letters and Writing]]
+**Themes & Concepts:** [[concepts/ratiocination-detection|Ratiocination Detection]], [[concepts/truth|Truth]]
+**Forms & Genres:** [[forms/detective-fiction|Detective Fiction]], [[forms/short-story|Short Story]]
 
 ## Testo integrale / Full text
 

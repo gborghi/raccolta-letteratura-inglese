@@ -14,4 +14,10 @@ The wandering art-student narrator of The Wrecker, through whose rapid, sketch-l
 
 <div class="concept-works" data-slug="characters/loudon-dodd"></div>
 
+<div class="concept-works-fallback">
+
+- [[works/robert-louis-stevenson-(chesterton)|Robert Louis Stevenson (Chesterton)]]
+
+</div>
+
 #graph/character

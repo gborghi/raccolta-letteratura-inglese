@@ -37,15 +37,15 @@ tags:
 
 Raccolta tematica di 9 componimenti di Samuel Taylor Coleridge.
 
-- [[AN ODE TO THE RAIN (Coleridge)|AN ODE TO THE RAIN]]
-- [[DUTY SURVIVING SELF-LOVE THE ONLY SURE FRIEND OF DECLINING LIFE (Coleridge)|DUTY SURVIVING SELF-LOVE THE ONLY SURE FRIEND OF DECLINING LIFE]]
-- [[LINES TO THOMAS POOLE (Coleridge)|LINES TO THOMAS POOLE]]
-- [[ON A LADY WEEPING (Coleridge)|ON A LADY WEEPING]]
-- [[PONDERE NON NUMERO (Coleridge)|PONDERE NON NUMERO]]
-- [[PROFUSE KINDNESS (Coleridge)|PROFUSE KINDNESS]]
-- [[THE THREE SORTS OF FRIENDS (Coleridge)|THE THREE SORTS OF FRIENDS]]
-- [[TO A FRIEND (Coleridge)|TO A FRIEND]]
-- [[TO A FRIEND CHARLES LAMB WHO HAD DECLARED HIS INTENTION OF WRITING NO MORE POETRY (Coleridge)|TO A FRIEND: (CHARLES LAMB) WHO HAD DECLARED HIS INTENTION OF WRITING NO MORE POETRY]]
+- [[testi/coleridge/atomized/friendship-tears#213_an_ode_to_the_rain|AN ODE TO THE RAIN]]
+- [[testi/coleridge/atomized/friendship-tears#274_duty_surviving_self-love_the_only_sure_friend_of_declining_life|DUTY SURVIVING SELF-LOVE THE ONLY SURE FRIEND OF DECLINING LIFE]]
+- [[testi/coleridge/atomized/friendship-tears#362_lines_to_thomas_poole|LINES TO THOMAS POOLE]]
+- [[testi/coleridge/atomized/friendship-tears#017_on_a_lady_weeping|ON A LADY WEEPING]]
+- [[testi/coleridge/atomized/friendship-tears#335_pondere_non_numero|PONDERE NON NUMERO]]
+- [[testi/coleridge/atomized/friendship-tears#394_profuse_kindness|PROFUSE KINDNESS]]
+- [[testi/coleridge/atomized/friendship-tears#396_the_three_sorts_of_friends|THE THREE SORTS OF FRIENDS]]
+- [[testi/coleridge/atomized/friendship-tears#079_to_a_friend|TO A FRIEND]]
+- [[testi/coleridge/atomized/friendship-tears#124_to_a_friend_charles_lamb_who_had_declared_his_intention_of_writing_no_more_poetr|TO A FRIEND: (CHARLES LAMB) WHO HAD DECLARED HIS INTENTION OF WRITING NO MORE POETRY]]
 
 ## Testo / Text
 

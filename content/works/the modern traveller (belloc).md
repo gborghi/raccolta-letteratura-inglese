@@ -25,7 +25,7 @@ tags:
   - archetype/antihero
   - archetype/trickster
 ---
-*by Belloc*  ·  **Cluster:** [[Comic Verse · Childhood · Satire]]
+*by Belloc*  ·  **Cluster:** [[clusters/comic-verse-·-childhood-·-satire|Comic Verse · Childhood · Satire]]
 
 > [!abstract] 
 > A comic narrative poem in which a boastful adventurer, interviewed by the press, recounts a disastrous African expedition financed as a company flotation and staffed by scoundrels Commander Sin and Captain Blood. Belloc satirises imperial exploration, jingoist journalism and the speculative money behind colonial 'ventures.'
@@ -46,9 +46,9 @@ tags:
 
 ## Connections
 
-**Forms & Genres:** [[Comic Verse Song]], [[Narrative Poem]], [[Satire]]
-**Themes & Concepts:** [[Satire of Society]], [[Empire and Imperialism]], [[Nationalism and Patriotism]], [[Money and Avarice]], [[Deception]], [[Economics]]
-**Motifs:** [[Journey]], [[Ship]], [[Money and Gold]], [[Sea and Voyage]]
-**Historical References:** [[British Empire]]
-**Settings:** [[Africa]]
-**Archetypes:** [[Antihero]], [[Trickster]]
+**Forms & Genres:** [[forms/comic-verse-song|Comic Verse Song]], [[forms/narrative-poem|Narrative Poem]], [[forms/satire|Satire]]
+**Themes & Concepts:** [[concepts/satire-of-society|Satire of Society]], [[concepts/empire-and-imperialism|Empire and Imperialism]], [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/deception|Deception]], [[concepts/economics|Economics]]
+**Motifs:** [[motifs/journey|Journey]], [[motifs/ship|Ship]], [[motifs/money-and-gold|Money and Gold]], [[motifs/sea-and-voyage|Sea and Voyage]]
+**Historical References:** [[historical-references/british-empire|British Empire]]
+**Settings:** [[settings/africa|Africa]]
+**Archetypes:** [[archetypes/antihero|Antihero]], [[archetypes/trickster|Trickster]]

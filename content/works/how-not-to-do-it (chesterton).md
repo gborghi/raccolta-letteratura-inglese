@@ -25,7 +25,7 @@ tags:
 
 # how-not-to-do-it
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A polemical essay on the right way to argue against Communism, defending private property as the basis of liberty and honour against both Pharisaical and merely acquisitive capitalist arguments.
@@ -39,12 +39,12 @@ tags:
 
 ## Connections
 
-**Historical References:** [[Christianity]], [[Communism]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[concepts/communism|Communism]]
 
-**Archetypes:** [[Pharisee]]
+**Archetypes:** [[archetypes/pharisee|Pharisee]]
 
-**Themes & Concepts:** [[Distributism]], [[Class Conflict]], [[Reform]], [[Critique of Progress]], [[Honour]], [[Freedom and Liberty]], [[Individualism]], [[Money and Avarice]], [[Economics]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Themes & Concepts:** [[concepts/distributism|Distributism]], [[concepts/class-conflict|Class Conflict]], [[concepts/reform|Reform]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/honour|Honour]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/individualism|Individualism]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/economics|Economics]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 
@@ -121,4 +121,4 @@ But the Communist would listen at least longer than he would
 to a man merely boasting of self-righteousness or a man merely
 boasting of avarice.
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]

@@ -42,7 +42,7 @@ tags:
   - character/lincoln
 ---
 
-*by Shakespeare*  ·  **Cluster:** [[Court · Medieval England · History Play]]
+*by Shakespeare*  ·  **Cluster:** [[clusters/court-·-medieval-england-·-history-play|Court · Medieval England · History Play]]
 
 > [!abstract] 
 > A collaborative history play (with a Shakespearian scene) dramatizing Thomas More's quelling of the Ill May Day anti-foreigner riots, his rise to Lord Chancellor and his martyrdom for refusing the King's demands; central themes of obedience, conscience and martyrdom.
@@ -70,14 +70,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[Fortune's Wheel]], [[Contemptus Mundi]], [[Memento Mori]]
-**Archetypes:** [[Martyr Saint]], [[King]], [[Rebel]]
-**Motifs:** [[Cross]], [[City]], [[Grave]]
-**Themes & Concepts:** [[Martyrdom]], [[Conscience]], [[Kingship and Legitimacy]], [[Order vs Chaos]], [[Class Conflict]], [[Exile]], [[Faith]], [[Humility]], [[Mortality]], [[Economics]], [[History]]
-**Forms & Genres:** [[History Play]], [[Verse Drama]], [[Blank Verse]]
-**Historical References:** [[Christianity]], [[Catholic Church]], [[Reformation]], [[Medieval England]]
-**Settings:** [[London]], [[Court]]
-**Characters:** [[Sir Thomas More]], [[Earl of Surrey]], [[Lord Mayor]], [[Lincoln]]
+**Topoi:** [[topoi/fortune's-wheel|Fortune's Wheel]], [[topoi/contemptus-mundi|Contemptus Mundi]], [[topoi/memento-mori|Memento Mori]]
+**Archetypes:** [[archetypes/martyr-saint|Martyr Saint]], [[archetypes/king|King]], [[archetypes/rebel|Rebel]]
+**Motifs:** [[motifs/cross|Cross]], [[motifs/city|City]], [[motifs/grave|Grave]]
+**Themes & Concepts:** [[concepts/martyrdom|Martyrdom]], [[concepts/conscience|Conscience]], [[concepts/kingship-and-legitimacy|Kingship and Legitimacy]], [[concepts/order-vs-chaos|Order vs Chaos]], [[concepts/class-conflict|Class Conflict]], [[concepts/exile|Exile]], [[concepts/faith|Faith]], [[concepts/humility|Humility]], [[concepts/mortality|Mortality]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/history-play|History Play]], [[forms/verse-drama|Verse Drama]], [[forms/blank-verse|Blank Verse]]
+**Historical References:** [[historical-references/christianity|Christianity]], [[historical-references/catholic-church|Catholic Church]], [[historical-references/reformation|Reformation]], [[historical-references/medieval-england|Medieval England]]
+**Settings:** [[settings/london|London]], [[settings/court|Court]]
+**Characters:** [[characters/sir-thomas-more|Sir Thomas More]], [[characters/earl-of-surrey|Earl of Surrey]], [[characters/lord-mayor|Lord Mayor]], [[characters/lincoln|Lincoln]]
 
 ## Testo integrale / Full text
 

@@ -16,19 +16,19 @@ tags:
   - form/sonnet
 ---
 
-*by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
+*by Coleridge*  ·  **Cluster:** [[clusters/unrequited-frustrated-love-·-unattainable-beloved-·-petrarchan-sonnet|Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Sonnet translated from Marini in which lover and disdainful lady are doomed to burn in hell, love as fire and torment. Baroque conceit of love as damnation.
 
 ## Connections
 
-**Topoi:** [[Combat Strife]]
-**Archetypes:** [[Femme Fatale]]
-**Motifs:** [[Fire]]
-**Themes & Concepts:** [[Lust Sexual Desire]], [[Unrequited Frustrated Love]]
-**Forms & Genres:** [[Sonnet]]
-**Settings:** [[Underworld Cave]]
+**Topoi:** [[topoi/combat-strife|Combat Strife]]
+**Archetypes:** [[archetypes/femme-fatale|Femme Fatale]]
+**Motifs:** [[motifs/fire|Fire]]
+**Themes & Concepts:** [[concepts/lust-sexual-desire|Lust Sexual Desire]], [[concepts/unrequited-frustrated-love|Unrequited Frustrated Love]]
+**Forms & Genres:** [[forms/sonnet|Sonnet]]
+**Settings:** [[settings/underworld-cave|Underworld Cave]]
 
 ## Testo integrale / Full text
 

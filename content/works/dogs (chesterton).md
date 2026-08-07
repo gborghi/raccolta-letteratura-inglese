@@ -24,7 +24,7 @@ tags:
   - archetype/common_man_2
 ---
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > Familiar essay on the ancient bond between man and dog by the fireside, using the relationship to mock reductive evolutionary biology and affirm the antiquity of human nature.
@@ -38,11 +38,11 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Common Man (2)]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]]
 
-**Motifs:** [[Animals]], [[Fire]], [[Home]], [[Book Reading]]
-**Themes & Concepts:** [[Nature vs Civilization]], [[Critique of Progress]], [[Wonder and Gratitude]], [[Self-Knowledge]], [[Friendship]], [[Identity]], [[Paradox]], [[Common Man]]
-**Forms & Genres:** [[Essay]], [[Nonfiction]]
+**Motifs:** [[motifs/animals|Animals]], [[motifs/fire|Fire]], [[motifs/home|Home]], [[motifs/book-reading|Book Reading]]
+**Themes & Concepts:** [[concepts/nature-vs-civilization|Nature vs Civilization]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/wonder-and-gratitude|Wonder and Gratitude]], [[concepts/self-knowledge|Self-Knowledge]], [[concepts/friendship|Friendship]], [[concepts/identity|Identity]], [[concepts/paradox|Paradox]], [[concepts/common-man|Common Man]]
+**Forms & Genres:** [[forms/essay|Essay]], [[forms/nonfiction|Nonfiction]]
 
 ## Testo integrale / Full text
 

@@ -60,7 +60,7 @@ tags:
 
 # WhatISawInAmerica
 
-*by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
+*by Chesterton*  ·  **Cluster:** [[clusters/essay-·-critique-of-progress-·-common-man|Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 
 > A book of travel essays reflecting on American democracy, Prohibition, business, Lincoln and the spirit of the nation; meditates on the rights of man, the creed of equality, and the contrast between America and England.
@@ -82,19 +82,19 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[Common Man (2)]], [[Pilgrim]], [[Outsider]]
+**Archetypes:** [[archetypes/common-man-(2)|Common Man (2)]], [[archetypes/pilgrim|Pilgrim]], [[archetypes/outsider|Outsider]]
 
-**Settings:** [[America]], [[New York]], [[Washington DC]], [[American South]], [[American West]], [[New England America]], [[American Frontier]]
+**Settings:** [[settings/america|America]], [[settings/new-york|New York]], [[settings/washington-dc|Washington DC]], [[settings/american-south|American South]], [[settings/american-west|American West]], [[settings/new-england-america|New England America]], [[settings/american-frontier|American Frontier]]
 
-**Motifs:** [[City]], [[Fire]], [[Money and Gold]], [[Machine]], [[Flag]]
+**Motifs:** [[motifs/city|City]], [[motifs/fire|Fire]], [[motifs/money-and-gold|Money and Gold]], [[motifs/machine|Machine]], [[motifs/flag|Flag]]
 
-**Topoi:** [[Open Road Homecoming]]
+**Topoi:** [[topoi/open-road-homecoming|Open Road Homecoming]]
 
-**Characters:** [[Abraham Lincoln]], [[Thomas Jefferson]], [[H. G. Wells]], [[Henry Ford]], [[Andrew Jackson]], [[Walt Whitman]], [[Charles Dickens]]
+**Characters:** [[characters/abraham-lincoln|Abraham Lincoln]], [[characters/thomas-jefferson|Thomas Jefferson]], [[characters/h.-g.-wells|H. G. Wells]], [[characters/henry-ford|Henry Ford]], [[characters/andrew-jackson|Andrew Jackson]], [[historical-references/walt-whitman|Walt Whitman]], [[historical-references/charles-dickens|Charles Dickens]]
 
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Justice Right and Wrong]], [[Identity]], [[Critique of Progress]], [[Democracy]], [[Slavery]], [[Anti-Industrialism]], [[Distributism]], [[Common Man]], [[Conformity vs Individualism]], [[Freedom and Liberty]], [[Power and Corruption]], [[Money and Avarice]], [[Prohibition]], [[Economics]], [[History]]
-**Forms & Genres:** [[Travel Writing]], [[Essay]], [[Satire]], [[Nonfiction]]
-**Historical References:** [[American Civil War]], [[Irish Question]], [[Puritanism]], [[French Revolution]], [[Industrial Revolution]]
+**Themes & Concepts:** [[concepts/nationalism-and-patriotism|Nationalism and Patriotism]], [[concepts/satire-of-society|Satire of Society]], [[concepts/justice-right-and-wrong|Justice Right and Wrong]], [[concepts/identity|Identity]], [[concepts/critique-of-progress|Critique of Progress]], [[concepts/democracy|Democracy]], [[concepts/slavery|Slavery]], [[concepts/anti-industrialism|Anti-Industrialism]], [[concepts/distributism|Distributism]], [[concepts/common-man|Common Man]], [[concepts/conformity-vs-individualism|Conformity vs Individualism]], [[concepts/freedom-and-liberty|Freedom and Liberty]], [[concepts/power-and-corruption|Power and Corruption]], [[concepts/money-and-avarice|Money and Avarice]], [[concepts/prohibition|Prohibition]], [[concepts/economics|Economics]], [[concepts/history|History]]
+**Forms & Genres:** [[forms/travel-writing|Travel Writing]], [[forms/essay|Essay]], [[forms/satire|Satire]], [[forms/nonfiction|Nonfiction]]
+**Historical References:** [[historical-references/american-civil-war|American Civil War]], [[historical-references/irish-question|Irish Question]], [[historical-references/puritanism|Puritanism]], [[historical-references/french-revolution|French Revolution]], [[historical-references/industrial-revolution|Industrial Revolution]]
 
 ## Testo integrale / Full text
 
@@ -15654,4 +15654,4 @@ Archive Foundation, how to help produce our new eBooks, and how to
 
 subscribe to our email newsletter to hear about new eBooks.
 
-**Also relevant to:** [[Social Issues · Labour · Reform]]
+**Also relevant to:** [[clusters/social-issues-·-labour-·-reform|Social Issues · Labour · Reform]]
